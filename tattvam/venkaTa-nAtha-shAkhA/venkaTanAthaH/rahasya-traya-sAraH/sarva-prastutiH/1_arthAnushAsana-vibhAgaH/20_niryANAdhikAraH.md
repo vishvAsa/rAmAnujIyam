@@ -482,6 +482,12 @@ quien, debido a ciertas acciones malvadas específicas realizadas en **vidas** p
 </details>
 
 
+<details><summary>सायण-टीका</summary>
+
+प्रयोजनान्तररुचियॆऩ्ऩ इति । प्रयोजनान्तररुचियिरुन्दाल् परमफलम् विळम्बिक्कुमिऱे। अदडियाग सम्भावितमाऩ देवतान्तरस्पर्शमॆऩ्ऩ इति । प्रयोजनान्तर रुचियुळ्ळवऩुक्कु प्रयोजनलाभार्थम् देवतान्तरस्पर्शमुम् सम्भविक्कलामॆऩ्ऱु करुत्तु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुद्धि-दौर्बल्यम् ऎऩ्ऩ,  
@@ -513,6 +519,12 @@ Debido a esto (mentalidad débil), **pueden desear adoptar** otros upāyas.
 बुद्धिदौर्बल्यमॆऩ्ऩ, अदडियाग वरुमुपायान्तरप्रत्याशैयॆऩ्ऩ, 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+बुद्धि दौर्बल्यम् - विश्वासमान्द्यम्, क्षणकालसाध्यमाऩ प्रपत्तियाले भगवाऩ् रक्षिप्पऩो ऎऩ्गिऱ शङ्कैयाले ‘रक्षिष्यतीति’ महाविश्वासत्तिऱ्कु मान्द्यमॆऩ्ऱबडि। अदडियाग वरुम् उपायान्तरप्रत्याशैयॆऩ्ऩ इति । प्रपत्तियिल् विश्वासम् मन्दमाऩाल् उपायान्तरत्तिल् प्रत्याशैयुण्डागुमिऱे। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -540,6 +552,10 @@ may become subject to such lapses as the ~~following~~ above.
 इव्वैपरीत्यम् पिऱन्दवर्गळुक्कुम्
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इव्वैपरीत्यम् पिऱन्दवर्गळुक्कुम् - फलविळम्बहेतुवाऩ इव्वैपरीत्य मुण्डाऩवर्गळुक्कुम्, 
+</details>
 
  
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -583,6 +599,12 @@ y debido a la naturaleza específica de la solicitud de beneficios **obtenidos**
 इवै पिऱवादे प्रारब्धसुकृतविशेषत्तालुम् पूर्वप्रपत्तियिल् फलसङ्कल्पविशेषत्तालुम् छिद्रमिल्लाद कैङ्कर्यत्तिले प्रतिष्ठितराय्प्पोन्दवर्गळुक्कुम् 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इवै पिऱवादे इति । प्रारब्ध पापवैचित्र्यरूपमाऩ कारणमिल्लामैयाले इव्वैपरीत्यम् पिऱवादिऱे। प्रारब्धसुकृतविशेषत्तालुम् - बुद्धिपूर्वोत्तराघप्रतिबन्धकमायुम् उत्तरकैङ्कर्यहेतुवायुमुळ्ळ सुकृतविशेषत्तालुम्, पूर्वप्रपत्तियिल् - मोक्षार्थमाग अनुष्ठित्त प्रपत्तियिल् फलसङ्कल्पविशेषत्तालुम् - बुद्धिपूर्वकपापरम्भकपापनिवृत्त्यर्थञ्च प्रपदनं करिष्ये ऎऩ्ऱु सेर्त्त नुष्ठिक्कप्पट्ट सङ्कल्पविशेषत्तालुम्, छिद्रमिल्लाद - बुद्धिपूर्वोत्तराघरूपछिद्रमिल्लाद, 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > संसारत्ति+++(ल्)+++ निऩ्ऱुम् निर्याणत्तुक्कु विळम्बाविळम्बङ्गळिले निलैय् इरुक्कुम् बडिय् ऎङ्ङऩेय्  
@@ -616,6 +638,12 @@ En el caso de estas dos clases de Prapannas.
 
 संसारत्तिऩिऩ्ऱुम् निर्याणत्तुक्कु विळम्बाविळम्बङ्गळिले निलैयिरुक्कुम्बडि यॆङ्ङऩेयॆऩ्ऩिल्, 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+विळम्बाविळम्बङ्गळिले निलैयिरुक्कुम्बडि इति । यद्यपि वैपरीत्यम् विळम्बहेतु; तदभावम् अविळम्बहेतु । तथापि विळम्बत्तिल् जन्मान्तरकल्पान्तरपर्यन्तत्वादि निलैयुम्, अविळम्बत्तिल् क्षणान्तर दिवसान्तर शरीरावसानपर्यन्तत्वादिरूपनिलैयुम् ऎप्पडिक्कूडुमॆऩ्ऱु शङ्काभिप्रायम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -656,6 +684,11 @@ como los cārvākas (materialistas) **tienen**.
 इव्विडत्तिलिवर्गळुक्कु चार्वाकादिगळुक्कुप्पोले निलै निऩ्ऱ अहङ्कारममकारङ्गळ् पुगिरादु। 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इव्वैपरीत्यमुळ्ळवर्गळुक्कु मुदलिल् निस्तारमरुळिच् चॆय्गिऱार् इव्विडत्तिलित्यादिना । इवर्गळुक्कु - प्रपन्नर्गळाऩ इवर्गळुक्कु, 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -691,6 +724,11 @@ por la sabiduría posterior que se origina en la razón.
 <details><summary>मूलम्</summary>
 
 अवहितराय् नडप्पारिडरुमाप् पोलेयॆऩ्ऱेऩुमॊरुगाल् वरुमहङ्कारममकारङ्गळ् विवेकावधिकळाय् पिऩ्बुऱ्ऱ तॆळिवाले कऴिन्दुबोम्।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तॆळिवाले - विवेकज्ञानत्ताले, इदऩाल् अहङ्कारममकाररूपमाऩ वैपरीत्यत्तिऱ्कु निस्तारम् सॊल्लप्पट्टदु। 
 </details>
 
 
@@ -735,6 +773,12 @@ y cómo **se expirarán** los delitos dentro del tiempo requerido.
 अपराधङ्गळ् पिऱन्दाल् क्षापणावधि यायुम् शिक्षावधियायुङ्गोलिऩ कालत्तुक्कुळ्ळे अपराधनिस्तारम् पिऱक्कुम्बडि अपराधपरिहाराधिकारत्तिले सॊऩ्ऩोम्। 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अपराधङ्गळुक्कु निस्तारम् काट्टुगिऱार् अपराधङ्गळ् पिऱन्दालित्यादिना ।  
+कोलिऩगालत्तुक्कुळ्ळे - कालम् कुऱित्तुप् प्रपत्तिपण्णिऩवऩुक्कु अक्कालत्तुक्कुळ्ळेये, 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -761,6 +805,12 @@ sin **indicar** ningún tiempo definido (para el logro de mokṣa),
 
 मोक्षम् पॆऱुगैक्कुक् कालविशेषङ्गुऱियादे प्रपन्नराऩरैप्पऱ्ऱ 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+कालम् कुऱियामल् प्रपत्तिपण्णिऩवऩ् विषयत्तिल् विळम्बमधिकमॆऩ्गिऱार् मोक्षम् पॆऱुगैक्कु इत्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -808,6 +858,11 @@ it is said as follows:
 ‘‘अपायाविरतश्शश्वन्माञ्चैव शरणङ्गतः । तनूकृत्याखिलं पापं मामाप्नोति नरश्शनैः ॥’’(लक्ष्मीतन्त्रम् १७-१०२) ऎऩ्ऱु सॊल्लुगिऱदु। 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अपायेति । इदिल् शनैः ऎऩ्ऱदाल् अधिकविळम्बम् सॊल्लप्पडुगिऱदु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -841,16 +896,22 @@ he is not likely to have any long-standing desire for other benefits.
 मुमुक्षुवायिऴिन्दवऩागैयाले प्रयोजनान्तररुचि निलै निऱ्कवुण्डागादु। 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+प्रयोजनान्तररुचि पिऱन्दवऩुक्कु मूऩ्ऱुविदमाग निस्तारम् काट्टुगिऱार् मुमुक्षुवायित्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(ब्रह्म-रुद्रादि-)+++ उभय-भावनर्क्कुप् पोले  
++++(ब्रह्म-रुद्रादिवत्)+++ उभय-भावनर्क्कुप् पोले  
 मोक्ष-रुचियोडे कूड प्रयोजनान्तर-रुचियुङ् **कलन्दु वन्दाल्**  
 इवऩुक्कु हित-परऩ् आऩव् ईश्वरऩ्  
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-उभय-भावनानाम् इव  
++++(ब्रह्म-रुद्रादिवत्)+++ उभय-भावनानाम् इव  
 मोक्ष-रुच्या सह प्रयोजनान्तर-रुचेर् अपि **मिश्री-भूय प्रवृत्ताव्** अपि  
 एतद्-धित-परेणेश्वरेण 
 </details>
@@ -876,6 +937,22 @@ Si **es** así, Iśvara, que **es** su **simpatizante**,
 
 उभयभावनर्क्कुप्पोले मोक्षरुचियोडे कूड प्रयोजनान्तररुचियुङ्गलन्दु वन्दाल् इवऩुक्कु हितपरऩाऩवीश्वरऩ्  
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+उभयभावनर्क्कुप्पोले -  
+
+> कर्म कुर्यां,  
+ब्रह्म च कुर्याम् 
+
+अदावदु 
+
+> जगद्-व्यापारादि-कर्मत्तैयुम् पण्णक् कडवोम्,  
+> ध्यानत्तैयुम् पण्णक् कडवोम् 
+
+ऎऩ्गिऱ उभयभावऩैयोडु कूडिऩ ब्रह्मादिगळुक्कुप्पोले, 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -915,6 +992,12 @@ that longs to fall into the fire ?"
 <details><summary>मूलम्</summary>
 
 ‘‘याचितोऽपि सदा भक्तैर्नाहितं कारयेद्धरिः’’(विष्णुधर्मः।) 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+याचितोऽपीति । अहितं – अपथ्यमाऩ प्रयोजनान्तरत्तै, 
 </details>
 
 
@@ -981,6 +1064,12 @@ porque **se dice** (como arriba)
 ‘‘यस्यानुग्रहमिच्छामि धनं तस्य हराम्यहम्’’(श्रीभागवतम्।)  इत्यादिगळिलुम् 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यस्येति वैराग्यजननप्रकारकथनम् । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुण्ड-धारोपाख्यानादिगळिलुञ् जॊल्लुगिऱ बडिये 
@@ -1023,10 +1112,25 @@ La misma idea **se encuentra** en la historia de Kundadhāra [^es57].
 कुण्डधारोपाख्यानादिगळिलुञ्जॊल्लुगिऱबडिये 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+कुण्डधारेति । कुण्डधारऩॆऩ्गिऱ यक्षराजऩुडैय अन्तरङ्गऩ्,धनत्तै अबेक्षित्त तऩ्ऩुडैय भक्तऩुक्कु अदैक् कॊडुक्कच् चॆय्यामल् धर्मविषयकबुद्धिये अवऩुक्कुण्डागवेण्डुमॆऩ्ऱु कुबेरऩिडत्तिल् प्रार्थित्ताऩॆऩ्बदु भारतकथै । 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सिल प्रयोजनान्तरङ्गळैक् कॊडादे कण्ण्-अऴित्तुम्  
+सिल प्रयोजनान्तरङ्गळैक् कॊडादे कण्ण् अऴित्तुम् +++(=मार्जयित्वा →प्रतार्य)+++  
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+१५९ 
+
+केषाञ्चित् प्रयोजनान्तराणाम् अ-दानेन +++(प्रार्थना-)+++वैतथ्यापादनात्  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1046,16 +1150,96 @@ La misma idea **se encuentra** en la historia de Kundadhāra [^es57].
 </details>
 
 
+<details><summary>सायण-टीका</summary>
+
+कॊडादे कण्णऴित्तुम् - कॊडामल् उपेक्षित्तुम्, 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिल्-अवऱ्ऱिले  
+अल्पास्थिरत्व--दुःख-मिश्रत्वादि-विवेकत्तालेय्  
+इवऩ्-तऩक्क् अरुचियै विळैप्पित्तुम्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+केषुचिद् अल्पास्थिरत्व--दुःख-मिश्रत्वादि-विवेक-मुखेनास्यारुचेर् जननात्,  
+</details>
 
 
+<details><summary>English</summary>
 
+Sometimes Iśvara creates in the prapanna a distaste for these other things  
+by making him realise  
+that they are trivial, transient and mingled with pain.  
+</details>
 
+<details><summary>Español</summary>
 
+A veces Iśvara **crea** en la Prapanna un disgusto por estas otras cosas  
+al **hacerle darse cuenta** de que **son** triviales, transitorios y se mezclan con dolor.
+</details>
 
+<details><summary>मूलम्</summary>
 
-Sometimes Iśvara creates in the prapanna a distaste for these other things by making him realise that they are trivial, transient and mingled with pain. Sometimes, as in the case of Soubhari and Kuchela, he gives them the benefits desired by them, but makes them feel an aversion to them afterwards.
+सिलवऱ्ऱिले अल्पास्थिरत्वदुःखमिश्रत्वादिविवेकत्तालेय् इवऩ् तऩक्करुचियै विळैप्पित्तुम्  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सौभरि-कुचेलादिगळुक्कुप् पोले  
+सिल भोगङ्गळैक् कॊडुत्तुत्  
+ताऩेय् **अलमर्न्दु**+++(←"अलम्")+++ **विडप् पण्णियुम्** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सौभरि-कुचेलादीनाम् इव कांश्चिद् भोगान् **दत्वा**  
+स्वयम् एव **निर्विद्य**  
+यथा त्यजेत्  
+तथा करणाच् च 
+</details>
+
+<details><summary>English</summary>
+
+Sometimes, as in the case of Soubhari and Kuchela,  
+he gives them the benefits desired by them,  
+but makes them feel an aversion to them afterwards.
+</details>
+
+<details><summary>Español</summary>
+
+A veces, como en el caso de Soubhari y Kuchela,  
+Él les **da** los beneficios deseados por ellos,  
+pero les **hace sentir** una aversión para ellos después.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सौभरिकुचेलादिगळुक्कुप्पोले सिल भोगङ्गळैक् कॊडुत्तुत् ताऩे यलमर्न्दुविडप्पण्णियुम् 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अरुचिविळैयाद् अवर्गळुक्कु निस्तारप्रकारत्तैक् काट्टुगिऱार् सौभरीत्यादिना । सौभरि ऎऩ्ऩुम् ऋषि चिरकालम् योगत्तिलिरुन्दु उत्थानदशैयिल् जलत्तिले कुडुम्बत्तोडु वाऴुम् ऒरु मत्स्यत्तैक्कण्डु ताऩुम् सांसारिकभोगत्तै अनुभविक्क वासैप्पट्टवर्। कुचेलरॆऩ्बवर् श्रीकृष्णऩुडैय बाल्यसखा । अवर् संसारभरणकष्टत्ताल् फलार्थियाय् कृष्णऩिडत्तिल् वन्दार्। 
+
+ताऩेय् अलमर्न्दु विडप् पण्णियुम् - स्वयम् आगवे निर्वेदम् पिऱन्दु  
+त्यागम् पण्णुम् बडि सॆय्दुम्, 
+</details> 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विडुगैयाले मोक्ष-कालङ् कुऱित्तु प्रपत्ति पण्णिऩ् अवऩुक्कु  
+अक्-कालत्तुक्क्-उळ्ळे प्रयोजनान्तर-**वैमुख्यम् पिऱन्दु विडुम्।**
+</details>
+
+<details><summary>मूलम्</summary>
+
+विडुगैयाले मोक्षकालङ्गुऱित्तु प्रपत्तिपण्णिऩवऩुक्कु अक्कालत्तुक्कुळ्ळे प्रयोजनान्तरवैमुख्यम् पिऱन्दुविडुम्। 
+</details>
+
 
 
 Thus the man who performed prapatti indicating the time when he should attain mokṣa , will have acquired an aversion to other benefits than the Lord within the prescribed time. In the case also of the man who did not indicate any such time while performing prapatti, there will be delay, as has been stated in the śloka : - "The man who is desirous of performing such karma as is a means of obtaining other benefits (than God ) enjoys pleasures unmingled with pain, and at last acquires a distaste for them (and the spirit of renunciation ), after which he reaches the abode of Bhagavān. In accordance with this, the delay in his attainment (of the supreme goal) will be only until the birth of aversion to worldly objects.
