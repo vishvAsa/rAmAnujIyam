@@ -14,11 +14,11 @@ title = "वेदान्त-देशिक-दिनचर्या"
 
 </details>
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/venkaTanAthaH/shrImAn_venkaTanAthAryaH.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/rAmAnujIyam/vyakti-shlokAdi/venkaTanAthaH/shrImAn_venkaTanAthAryaH.md" newLevelForH1="5" includeTitle="false"> </div>
 
 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/kumAra-varadaH/shrImal-laxmaNa-yogIndra.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/rAmAnujIyam/vyakti-shlokAdi/kumAra-varadaH/shrImal-laxmaNa-yogIndra.md" newLevelForH1="5" includeTitle="false"> </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -688,7 +688,7 @@ This is the phala Sruti Slokam of this SrI sUkti.
 इति श्रीमद्वेदान्तदेशिक दिनचर्या समाप्ता ॥
 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/venkaTanAthaH/kavitArkika-siMhAya.md" newLevelForH1="5" includeTitle="false">
+<div class="js_include" url="/rAmAnujIyam/vyakti-shlokAdi/venkaTanAthaH/kavitArkika-siMhAya.md" newLevelForH1="5" includeTitle="false">
 
 
 कवितार्किकसिंहाय कल्याणगुणशालिने ।  

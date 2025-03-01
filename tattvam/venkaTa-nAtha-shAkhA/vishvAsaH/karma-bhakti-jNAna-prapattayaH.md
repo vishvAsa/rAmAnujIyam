@@ -449,7 +449,7 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 परकृत-प्रपत्तेस् साफल्ये प्रमाणम् -  अशक्तस्य मूर्च्छितस्य वा सन्ध्यावन्दनादेर् अन्येनानुष्ठानस्य यथोपपत्तिर् मीमांसकैः। 
 
 ### प्रक्रिया-भेदः
-अस्य विस्तारो [ऽत्र रहस्यत्रयसारे](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTanAthaH/rahasya-traya-sAraH/rAjagopAla-translation/1_arthAnushAsana-vibhAgaH/08_adhikArivibhAgAdhikAraH/)। 
+अस्य विस्तारो [ऽत्र रहस्यत्रयसारे](/rAmAnujIyam/tattvam/venkaTanAthaH/rahasya-traya-sAraH/rAjagopAla-translation/1_arthAnushAsana-vibhAgaH/08_adhikArivibhAgAdhikAraH/)। 
 
 #### अधिकार-भेदः
 प्रपत्त्य्-अङ्ग-ज्ञान-तारतम्यम् एवात्र +अधिकार-भेद-कारक इत्य् अहोबिल-मठ-परम्परा।  

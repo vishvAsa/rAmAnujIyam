@@ -140,7 +140,7 @@ Therefore, performing divine service along with the performance of the varna-ash
 
 These two terms of the Charamshloka are very significant as they expound the quality of 'soulabhya' or accessibility and 'swatantrya' or supremacy of the Supreme Paramatman. In the Bhagavadgita, the Lord himself expounds the essential nature of his incarnation as follows:
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/avatArasya_satyatvam.md" unfilled newLevelForH1="5" includeTitle="false">   
+<div class="js_include" url="/rAmAnujIyam/tattvam/avatArasya_satyatvam.md" unfilled newLevelForH1="5" includeTitle="false">   
 
 अवतारस्य सत्यत्वम्  
 अजहत्-स्व-स्वभावता ।  

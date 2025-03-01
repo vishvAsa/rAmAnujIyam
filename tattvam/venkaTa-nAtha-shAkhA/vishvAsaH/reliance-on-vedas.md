@@ -4,7 +4,7 @@ title = "Reliance on vedas"
 
 As far as outsiders are concerned, shrI-vaiShNavism stands entirely on the basis of veda alone, even where establishing viShNu-pAramya is concerned (since they don't care for other pramANa-s which could be presented, like pAncharAtra or the tamiL prabandhas). 
 
-They cite nArAyaNopaniShat (and such parts of veda), argue why nArAyaNa is visheShya; why similar logic won't apply to shiva etc.. You wont find a single appeal to pAncharAtra or prabandhas in bhAShyas, vedArthasangraha (hindi translation [here](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/rAmAnujaH/vedArtha-sangrahaH/sarva-prastutiH/17_viShNu-pAramyam/)) etc. 
+They cite nArAyaNopaniShat (and such parts of veda), argue why nArAyaNa is visheShya; why similar logic won't apply to shiva etc.. You wont find a single appeal to pAncharAtra or prabandhas in bhAShyas, vedArthasangraha (hindi translation [here](/rAmAnujIyam/tattvam/rAmAnujaH/vedArtha-sangrahaH/sarva-prastutiH/17_viShNu-pAramyam/)) etc. 
 
 As far as the main points are concerned, if one mistakenly thinks that SV-s heavily rely on sectarian texts for their convincing power, one would ask - 
 

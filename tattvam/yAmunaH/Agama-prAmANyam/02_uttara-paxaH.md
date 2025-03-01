@@ -6088,7 +6088,7 @@ because they would have abandoned these Vedic dharmas.
 
 <details><summary>राममिश्रशास्त्री</summary>
 
-गायत्रीमन्त्रापेक्षा-विषयिणी टिप्पन्य् [अत्र](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/venkaTa-nAtha-shAkhA/rAma-mishra-shAstri-sAvitrI-japApexA/) । 
+गायत्रीमन्त्रापेक्षा-विषयिणी टिप्पन्य् [अत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/rAma-mishra-shAstri-sAvitrI-japApexA/) । 
 </details>
 
 

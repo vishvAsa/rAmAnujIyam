@@ -172,7 +172,7 @@ title = "क्रिया-दीपः पराशरभट्ट-कृत�
 प्राणायामत्रयं कुर्यात् सन्निधावासने स्थितः ॥ (११)
 </details>
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/rAmAnujIyam/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md"  newLevelForH1="5" includeTitle="false"> 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

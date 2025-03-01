@@ -4,7 +4,7 @@ unicode_script = "devanagari"
 
 +++
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/_index.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/_index.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ## प्रवेशः
 ### मङ्गलाचरणम्
@@ -18,7 +18,7 @@ unicode_script = "devanagari"
 +++(स्फटिकतनोर् अपि लक्ष्मीनेत्रादिसाहचर्यात् कृष्णीभूतस्य)+++
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/001_laxmInetrotpalashrIsatataparichayAdeSha_saMvar.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/001_laxmInetrotpalashrIsatataparichayAdeSha_saMvar.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### ग्रन्थ-कर्तृ-वैशिष्ट्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -29,7 +29,7 @@ unicode_script = "devanagari"
 **व्यातानीद् वेङ्कटेशो** +++(परम-गुरु-भूत--वात्स्य-)+++वरद-गुरु-कृपालम्भित+++(=लब्ध)++++उद्दाम-भूमा+++(=महत्त्वः)+++ ॥ २ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/002_nAnAsiddhAntanItishramavimaladhiyo-nantasUrest.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/002_nAnAsiddhAntanItishramavimaladhiyo-nantasUrest.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### ग्रन्थस्य नाम्न औचित्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -40,7 +40,7 @@ unicode_script = "devanagari"
 **धार्यो** हेतुर् जयादेः स्व-हृदि स-हृदयैस् **तत्त्व-मुक्ता-कलापः** ॥ ३ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/003_prajnAsUchyA-nuviddhaH_xatimanadhigataH.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/003_prajnAsUchyA-nuviddhaH_xatimanadhigataH.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### तत्त्व-त्रय-ज्ञान-स्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -51,7 +51,7 @@ unicode_script = "devanagari"
 तस्मान् निर्धूत-सर्व-प्रतिमत-विमतिं **साधये** सर्वम् **अर्थम्** ॥ ४ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/004_shiShTA_jIveshatattvapramitiyutaparopAsanA.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/004_shiShTA_jIveshatattvapramitiyutaparopAsanA.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### तत्त्व-ज्ञानस्य महत्त्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -62,7 +62,7 @@ unicode_script = "devanagari"
 +++(यथा - )+++ पुंस्त्वे तत्त्वेन +++(→पक्षे पुरुषसूक्त्रादिना)+++ दृष्टे, पुनरपि न खलु प्राणिता स्थाणुतादिः +++(→ पक्षे शिवत्वादिः)+++ ॥ ५ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/005_AvApodvApatassyuH_katikati.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/005_AvApodvApatassyuH_katikati.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ## तत्त्वानां विभागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -73,7 +73,7 @@ unicode_script = "devanagari"
 **नित्या भूतिर्, मतिश्**+++(→धर्म-भूत-ज्ञानम्)+++ चेत्य् अपरम् +++(→पराक्)+++, इह जडाम् आदिमां+++(→नित्यविभूतिं)+++ केचिद् आहुः ॥ ६ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/006_dravyAdravyaprabhedAnmitamubhayavidhaM_tadvida.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/006_dravyAdravyaprabhedAnmitamubhayavidhaM_tadvida.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### द्रव्यादीनां लक्षणानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -84,7 +84,7 @@ unicode_script = "devanagari"
 ज्ञातुर् ज्ञेयावभासो **मतिर्** इति कथितं संग्रहाद् द्रव्य-लक्ष्म ॥ ७ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/007_tatra_dravyam.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/007_tatra_dravyam.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### गुणानां द्रव्यातिरिक्तत्व-समर्थनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -97,7 +97,7 @@ unicode_script = "devanagari"
 +++(चक्षुरैक्येऽपि रूपभेदाश् च तर्हि कुतः?)+++
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/008_ekArthapratyabhijnA_bhavati.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/008_ekArthapratyabhijnA_bhavati.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### धर्म-धर्मिभावः
 
@@ -110,7 +110,7 @@ unicode_script = "devanagari"
 +++(तत्-तज्-ज्ञानयोश् च भिन्नत्वान् नान्योन्याश्रयः ।)+++
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/009_dharmo_nirdharmakashchetkathamiva.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/009_dharmo_nirdharmakashchetkathamiva.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -121,7 +121,7 @@ unicode_script = "devanagari"
 नोक्तौ दोषौ, स्व-धी-वाग्-विहतिर् इतरथा +++(भवद्-वादे ऽनुमाने पक्ष-धर्मादि-ग्रहणात्)+++, तद्वद् अन्येऽपि जल्पाः ॥ १० ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/010_tachChUnye_tasya.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/010_tachChUnye_tasya.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 ### प्रकृतिः, तत्परिणामाश्च
@@ -133,7 +133,7 @@ unicode_script = "devanagari"
 प्राच्याद् +++(सात्त्विकाद्)+++ अक्षाणि, +++(तन्-)+++मात्राः **प्रजनयति** परो +++(तामसः)+++, मध्यमस् +++(राजसस्)+++ तूभयार्थः +++(सात्त्विक-तामसिकयोः सहकारी, गौणोपादानं वा)+++॥ ११ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/011_svachChandenAgamena_prakRtimahadahankAramAtrAx.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/011_svachChandenAgamena_prakRtimahadahankAramAtrAx.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ## सृष्टि-क्रमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -157,7 +157,7 @@ unicode_script = "devanagari"
 </details>
 
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/012_tatrAhankArajanyaM_bhajati.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/012_tatrAhankArajanyaM_bhajati.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -169,7 +169,7 @@ unicode_script = "devanagari"
 आदाव् अप्-सृष्टि-वादश् श्रुति-मितम् इतरन् न प्रतिक्षेप्तुम् ईष्टे ॥ १३ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/013_adbhyo-gnistejasastA_iti.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/013_adbhyo-gnistejasastA_iti.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### जैनमतम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -180,7 +180,7 @@ unicode_script = "devanagari"
 तर्कैकालम्बि-गोष्ठ्यां **भजतु बहु-मतिं** तादृशी लाघवोक्तिः ॥ १४ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/014_pRthvyAssparshAdibhedo_dravamRdukaThinIbhAvabh.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/014_pRthvyAssparshAdibhedo_dravamRdukaThinIbhAvabh.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### श्रुत्य्-उक्त-प्रकृति-सङ्ख्या-समञ्जसता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,7 +194,7 @@ unicode_script = "devanagari"
 +++(न्यायसिद्धाञ्जने तु परिहार उक्तः - प्रकृतिमहदहङ्काराः ५ भूतानि शरीरारम्भकानि प्रकृतत्वेनोक्तानीति। )+++
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/015_tattveShvAtharvaNe-ShTau_prakRtaya.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/015_tattveShvAtharvaNe-ShTau_prakRtaya.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -205,7 +205,7 @@ unicode_script = "devanagari"
 तस्माद् **ईशान-निघ्नाः** प्रकृति-विकृतयस् स्व-स्व-कार्य-प्रसूतौ ॥ १६ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/016_nishsheShaM_kAryatattvam.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/016_nishsheShaM_kAryatattvam.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### पञ्चीकरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -217,7 +217,7 @@ unicode_script = "devanagari"
 +++(तेन सा +उपलक्षणया पञ्चीकरणम् एवाह)+++
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/017_dvedhA_bhUtAni.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/017_dvedhA_bhUtAni.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ## कार्य-कारण-भावान्तरम्
 ### परमाणु-कारणता-वादः
@@ -230,7 +230,7 @@ unicode_script = "devanagari"
 +++(तेन वः परमाणुकल्पनम् एव न साधु, कुतः परमाणु-कारणता-विचारः?)+++
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/018_kAryaM_naivArabheransamadhikamaNavassarvatassa.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/018_kAryaM_naivArabheransamadhikamaNavassarvatassa.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,7 +241,7 @@ unicode_script = "devanagari"
 +++('अणोरणीयान्'←)+++ श्रौतोपादान+++(ब्रह्म)+++-सौक्ष्म्यं न भवद्-अभिमतं +++(परमाणुरूपम्, अपि तु दुर्ज्ञेयम्)+++, तत्+++(=ब्रह्म)+++-प्रथिम्नश्+++(=महत्त्वस्य)+++ श्रुतत्वात् ॥ १९ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/019_syAdbhAgAnantyasAmye_parimitisamatA.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/019_syAdbhAgAnantyasAmye_parimitisamatA.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-टिप्पनी</summary>
@@ -260,7 +260,7 @@ unicode_script = "devanagari"
 नो चेद् +++(कारण-कार्य-रूप-)+++ अंशांशिनोस् स्यात् +++(एक-देश-काल-वृत्तेः)+++ प्रतिहतिर् उभयोः स्पर्शवत्त्वाविशेषात् ॥ २० ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/020_kAryopAdAnabhede_na.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/020_kAryopAdAnabhede_na.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -271,7 +271,7 @@ unicode_script = "devanagari"
 +++(न च)+++ संसर्गादेर् विशेषाद् अवयवि--परिषद्-+++(मृदादि-)+++राशि--वन्यादि+++(पुष्प)+++-वादः +++(←मृद्राशिर् एव घटः कुतो न, पुष्पराशिश् च मामलेति)+++॥ २१ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/021_itthaM_vRttyAdikhedo.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/021_itthaM_vRttyAdikhedo.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### परिणामवादः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -282,7 +282,7 @@ unicode_script = "devanagari"
 क्षोणीयं क्षुद्यमाना क्षणम् अपि चरमाम् अण्व्-अवस्थां **न जह्यात्** ॥ २२ ॥+++(5)+++
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/022_dravyaikyaM_pratyabhijnA.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/022_dravyaikyaM_pratyabhijnA.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 #### शरीरनिरूपणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -294,7 +294,7 @@ unicode_script = "devanagari"
 +++(न तु तद्-अर्थम् असत्-कार्य-कल्पनं युक्तम्।)+++
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/023_sanghAto-nekabhUtairapi_bhavati.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/023_sanghAto-nekabhUtairapi_bhavati.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### अवस्था-प्राक्-सत्त्व-वादः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -305,7 +305,7 @@ unicode_script = "devanagari"
 +++(कारणस्थ-सूक्ष्म-कार्य-)+++व्यक्तिर् +++(स्वयं)+++ व्यक्ता ऽनवस्थां भजति +++(सूक्ष्म-व्यक्तयो वा नित्यास् स्युः)+++, न च +++(व्यक्तिं)+++ कृताम् आत्थ+++(=वदसि)+++, नैवं कृतौ नः +++(अवस्थाया अद्रव्यत्वाद् गुण-प्राप्तिर् एव, न व्यक्त्युत्पत्तिः)+++॥ २४ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/024_santi_prAgapyavasthAssaditarakaraNAprAptaniShp.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/024_santi_prAgapyavasthAssaditarakaraNAprAptaniShp.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ## क्षणिकवादः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -317,7 +317,7 @@ unicode_script = "devanagari"
 +++(वैभाषिकाः क्षणिकवादिनस् तर्हि शून्यवादिनो माध्यमका जायेरन्!)+++
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/025_vastusthairyaM_viruddhAnupahitaviShayA.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/025_vastusthairyaM_viruddhAnupahitaviShayA.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### प्रत्यभिज्ञा-प्रामाण्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -330,7 +330,7 @@ unicode_script = "devanagari"
 +++(एकस्मिन्न् एव घट-काले सूर्योदयाद्यौपाधिक-सूक्ष्मकाल्भेदौ युगपद् एव ज्ञायन्त इत्य् अविरोधः।)+++
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/026_tattvedantve_hi.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/026_tattvedantve_hi.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,7 +341,7 @@ unicode_script = "devanagari"
 कालेऽन्यत्रापि सत्त्वं प्रमितम् इति कथं तद्-विरोध-प्रसङ्गः ॥ २७ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/027_pratyaxaM_vartamAnam.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/027_pratyaxaM_vartamAnam.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### अहेतुक-विनाश-निराकरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -352,7 +352,7 @@ unicode_script = "devanagari"
 +++(ध्वंसस्य)+++ तत्त्वं+++(←तत्→ वस्तु-स्वरूपत्वं →पक्षासिद्धि-दोषः)+++, +++(ध्वंसस्य)+++ तज्-जन्यता +++(→सहेतुकत्वाद् विरोधः)+++ वा तद् इदम् अनियमासिद्धि-बाधादि-+++(अनुमान-दोष-)+++**दूष्यम्** ॥ २८ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/028_utpannAnAM_vinAshe.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/028_utpannAnAM_vinAshe.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 ### अस्थिर-देश-कालादि
@@ -366,7 +366,7 @@ unicode_script = "devanagari"
 +++(नैतत्-प्रत्यक्षसिद्धं दृष्टान्तम्। अपरीक्ष्याङ्गीकृतम् भाति। ५)+++
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/029_kAlAnantaryasAmye_xaNikavapuShi.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/029_kAlAnantaryasAmye_xaNikavapuShi.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -377,7 +377,7 @@ unicode_script = "devanagari"
 +++(प्रत्येकं)+++ हेतुर्, नान्यः +++(→प्रत्येकातिरिक्तः सङ्घः - सैनिकेभ्यः सेनेव)+++, स्थिरास् ते +++(प्रत्येक-हेतवः)+++; +++(सूर्योदयादि-)+++क्रमवद् उपधिवत् +++(→दिन-मासादिवत्)+++ स्यात् क्षणत्वं स्थिरे ऽपि ॥ ३० ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/030_meyatvAdyairvigItaM_xaNikamiha.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/030_meyatvAdyairvigItaM_xaNikamiha.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### निरन्वय-विनाश-निरासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -388,7 +388,7 @@ unicode_script = "devanagari"
 दुर्दर्शावस्थया स्युः +++(दीप-निर्वाणेऽपि)+++ पयसि लवणवल् लीन-दीपादि-भागाः ॥ ३१ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/031_dIpAdInAM_kadAchitsadRshavisadRshAsheShasantat.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/031_dIpAdInAM_kadAchitsadRshavisadRshAsheShasantat.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ## कार्यकारणभावसमर्थनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -399,7 +399,7 @@ unicode_script = "devanagari"
 इत्य्-आद्यैर् हेतु-साध्यं न किम् अपि" यदि - न - स्व-क्रियादेर्+++(←ग्रन्थ-रचनम्, अङ्ग-सङ्घात-चैतन्योत्प्तत्ति-कथनम्)+++ विरोधात् ॥ ३२ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/032_sattve-sattve-pi_pUrvam.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/032_sattve-sattve-pi_pUrvam.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### कारणस्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -411,7 +411,7 @@ unicode_script = "devanagari"
 कादाचित्क-स्वभावाद्+++(→random too!)+++ यदि - न - +++(तत्-तत्-कारणैर्)+++ नियमनाद्, अन्यथा ऽतिप्रसङ्गात् +++(→यतः कुतश् चिद् धूमादि-कार्यम् उद्भवेत्)+++ ॥ ३३ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/033_kAdAchitkasya_kAlAvadhiniyatikaram.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/033_kAdAchitkasya_kAlAvadhiniyatikaram.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ## इन्द्रियम्
 ### ज्ञानेन्द्रियाणि
@@ -433,7 +433,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 </details>
 
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/034_netrAderdIpikAderiva_niyamayutam.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/034_netrAderdIpikAderiva_niyamayutam.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -446,7 +446,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 +++('अन्नमयं हि सौम्य मनः, आपोमयः प्राणः, तेजोमयी वाक्')+++
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/035_tanmAtreShvindriyANAM_shrutiriha.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/035_tanmAtreShvindriyANAM_shrutiriha.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### कर्मेन्द्रियाणि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -457,7 +457,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 तस्माद् एकादशाक्षाण्य् अपि निगम-विदो मन्वते न्याय-पूर्वम् ॥ ३६ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/036_rUpAdijnAnasiddhau_yadi.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/036_rUpAdijnAnasiddhau_yadi.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### अन्तःकरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -468,7 +468,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 बुद्ध्य्-आद्य्-आख्या निरूढा क्वचिद् इह मनसो वृत्ति-वैचित्र्य-योगात् ॥ ३७ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/037_sAnkhyaistredhoktamantaHkaraNamiha_manobuddhya.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/037_sAnkhyaistredhoktamantaHkaraNamiha_manobuddhya.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### इन्द्रिय-नानात्वादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -479,7 +479,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 भेदाम्नानाद्, +++(स्वयुक्त्याऽप्य्)+++ अकॢप्तेर् अपि न च भजते देह एवेन्द्रियत्वम् ॥ ३८ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/038_ekaM_tattatpradeshapratiniyatatayA.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/038_ekaM_tattatpradeshapratiniyatatayA.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -492,7 +492,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 +++(किरण-निभ-)+++भूतैर् जातः प्रसर्पः, +++("सर्व एवानन्ता" →)+++ श्रुति-मितम् अपि चानन्त्यम् एषां स्व-कार्यैः +++(न विभुत्वसूचकम्)+++ ॥ ३९ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/039_sUxmANyekAdashAxANyapi_na.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/039_sUxmANyekAdashAxANyapi_na.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -503,7 +503,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 +++(छादन-मात्रेण)+++ स्थैर्ये तद्+++(ग्रहण)+++-योग्य-भावो न हि गलति +++(वस्तूनाम् क्षणिकत्वे तु तादृश-विचित्र-कल्पनाद्य्-अपेक्षा, किञ्च -)+++ , समा सन्ततिस् त्वन्-मते ऽपि +++(अन्यथा ऽव्यवस्था)+++॥ ४० ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/040_prApyagrAhIndriyatvAdvimatamitaravatprAptirukt.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/040_prApyagrAhIndriyatvAdvimatamitaravatprAptirukt.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### शब्द-ग्रहण-प्रकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -514,7 +514,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 श्रोत्रायातस्य तस्य ग्रहम्, अनुमितिम् अप्य् आहुर् अस्मिन् दिग्-आदेः ॥ ४१ ॥+++(4)+++
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/041_shabdaM_gRhNAti.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/041_shabdaM_gRhNAti.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ## आकाशपरीक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -523,7 +523,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 आधारोऽत्रातपादिर्यदि भवति कथं तस्य चेहेति बोधस्तस्यांशैश्चेत् त्र्यणौ तच्छिथिलगति न च व्योमवागातपादौ ॥ ४२ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/042_pratyaxaM_vyoma.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/042_pratyaxaM_vyoma.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -532,7 +532,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 तस्मान्नाध्यक्षवेद्यं वियदिति यदि न प्रत्ययस्यापरोक्ष्यात् पञ्चीकारेण नैल्यं पटमलिनिमवद्भाषितं वोपकुर्यात् ॥ ४३ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/043_rUpasparshojjhitatvAnna_bhavati.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/043_rUpasparshojjhitatvAnna_bhavati.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -541,7 +541,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 निष्क्रान्त्यादेर्न तद्धीस्सति नभसि यतो नास्ति कुड्यादिकेऽसौ रोधस्त्वावारकैश्चेत्तदभवनवशान्निष्क्रमादिश्च सिध्येत् ॥ ४४ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/044_shabdasyAdhArabhUtaM_kathamapi.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/044_shabdasyAdhArabhUtaM_kathamapi.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -550,7 +550,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 इत्यैदंपर्यमूह्यं न यदि कथमिवान्येषु लभ्योऽवकाशः सिद्धादेः स्वप्रभावाज्जल इव कथितो युज्यते मज्जनादिः ॥ ४५ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/045_yattvAkAsho-vakAshaprada_iti.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/045_yattvAkAsho-vakAshaprada_iti.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ### आकाशो भावरूपः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -559,7 +559,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 अत्यन्ताभावनाशावजननिरपि वा सत्सु तेष्वेव न स्युस्तादात्म्याभावसिद्धिः कथ(मिव)मपि च भवेत्तंतमर्थं विहाय ॥ ४६ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/046_sadrUpeNaiva_bhAnAnna.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/046_sadrUpeNaiva_bhAnAnna.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -568,7 +568,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 बाधस्सामान्यदृष्ट्या श्रुतिसमधिगते नैव कुत्रापि शक्यस्तेनामूर्तत्वलिङ्गान्न सृजति विमतो मूर्तमित्याद्यपास्तम् ॥ ४७ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/047_nityatvAdyambarAderyadi_niravayavadravyatAdyai.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/047_nityatvAdyambarAderyadi_niravayavadravyatAdyai.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ## दिक्-तत्त्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -577,7 +577,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 व्योमोत्तीर्णेऽपि देशे प्रभवतु तदुपाध्यन्वितैस्तत्तदर्थैर्दूरत्वादिव्यवस्था स्वयमुत विभुना ब्रह्मणा किं परैर्नः ॥ ४८ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/048_prAkpratyaktvAdibhedaM_bhajatu.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/048_prAkpratyaktvAdibhedaM_bhajatu.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -586,7 +586,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 एवं ह्येवाधिकायामपि दिशि भवतोऽतिप्रसङ्गो निषेध्यो धर्मी धर्मश्च कल्प्यौ तव तदितरता स्यात्तु काले स्वमानात् ॥ ४९ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/049_anyasminnanyadharmAn_ghaTayatu.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/049_anyasminnanyadharmAn_ghaTayatu.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -595,7 +595,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 श्रोत्रादुक्तस्तु लोकप्रभृतिवदुदयस्तस्य तत्राप्ययो वा नैतावत्तत्त्वभेदं गमयति न च तच्छ्रौत्रतामान्यपर्यात् ॥ ५० ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/050_sankhyAnaM_tattvapanktau.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/050_sankhyAnaM_tattvapanktau.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ## वायु-निरूपणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -604,7 +604,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 अन्याक्षग्राह्यतादृग्विधगुणविरहो ह्यन्यदक्षं न रुन्धे निर्गन्धो नीरसोऽपि स्फुरति यदनलो दर्शनस्पर्शनाभ्याम् ॥ ५१ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/051_vAto_vAtIti.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/051_vAto_vAtIti.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -613,7 +613,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 इ(ष्टंत्वं)ष्टस्त्वंशेन चात्मप्रभृतिषु सहते तैः प्रसिद्ध्यन्ति सर्वे तद्बाह्ये व्याप्तिरिष्टा यदि सततगतेरप्यसावस्तु बाह्ये ॥ ५२ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/052_sankhyAdyAssparshanAssyustadadhikaraNakAsspars.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/052_sankhyAdyAssparshanAssyustadadhikaraNakAsspars.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -622,7 +622,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 तस्माद्वातो विशेषं घनजलकरकान्यायतः प्राप्य कंचिद्देहान्तर्दाशविध्यं भजति बहुविधोपक्रियो वृत्तिभेदैः ॥ ५३ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/053_na_prANo.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/053_na_prANo.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -631,7 +631,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 देहस्यानक्षभावेऽप्युपकृतिरधिका तत्समाक्षोक्त्यदृष्टिर्न प्राणे सात्त्विकाहंकरणविकृतितालक्षणं तद्धि तेषाम् ॥ ५४ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/054_prANo-xaM_prANashabdAdupakaraNatayA.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/054_prANo-xaM_prANashabdAdupakaraNatayA.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ## अग्नि-निरूपणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -640,7 +640,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 तत्तद्विद्यासु वे(द्यस्त्वन)द्यं त्वन इव हि परज्योतिषः सोऽपि रूपं नात्मानौ तौ जडत्वाज्जनिविलयमुखैर्भेदकण्ठोक्तिभिश्च ॥ ५५ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/055_prANApAnAkhyabhastrArabhasavisRmaraH_prApya.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/055_prANApAnAkhyabhastrArabhasavisRmaraH_prApya.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -649,7 +649,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 रत्नादीनां स्थिराणां विशरणविहतेर्निष्प्रभत्वादि च स्यात् तेजस्तत्सप्रभाकं तिमिरहरतया साऽपि तेजोविशेषः ॥ ५६ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/056_dharmo_bhAti.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/056_dharmo_bhAti.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -658,7 +658,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 वस्तुन्यस्ते विकल्पे स्फुटविघटनयोर्वेक्तुराप्तस्य वाचोस्तात्पर्यं तर्कमानानुगुणमधिगुणैश्चिन्त्यमन्तेवसद्भिः ॥ ५७ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/057_bhAShye_bhAsvatprabhAdau.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/057_bhAShye_bhAsvatprabhAdau.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -667,7 +667,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 साम्यादेः स्यात्तु तद्धीः प्रवहणभिदुरास्सप्रभास्तत्प्रदीपा निर्बाधा भास्करादौ प्रथयति नियतं प्रत्यभिज्ञा स्थिरत्वम् ॥ ५८ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/058_prAchye_snehAdinAshe.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/058_prAchye_snehAdinAshe.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -676,7 +676,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 तादृक्त्वेऽपि स्फुरत्ताद्यनितरसुलभं किञ्चिदन्वीक्ष्य तज्ज्ञैः व्याख्यातं तैजसत्वं विधितदितरयोस्तन्त्रसौकर्यसिद्ध्यै ॥ ५९ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/059_varNAnAM_tAdRshatvAdatikaThinatayA.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/059_varNAnAM_tAdRshatvAdatikaThinatayA.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ## तमः-पदार्थः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -685,7 +685,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 स्पर्शाख्यातिर्न रूपं हरति हरिशिलाऽऽलोकवत्तत्र चाक्ष्णोर्नालोकोऽर्थ्यस्ससिद्धाञ्जननयनदिवाभीतदृष्ट्यादिनीतेः ॥ ६० ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/060_nailyAdbhaumaM_tamisram.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/060_nailyAdbhaumaM_tamisram.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -694,7 +694,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 आरोपे चात्र नैल्यं न भवति नियतं भास्वरान्यत्वसाम्यान्नात्रादृष्टं नियन्तृ प्रतिनियतगुणारोपकॢप्तेर्गुरुत्वात् ॥ ६१ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/061_nAlokAbhAvamAtraM_timiramaviratam.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/061_nAlokAbhAvamAtraM_timiramaviratam.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -703,7 +703,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 अन्तर्यन्तुश्च तेजस्सहपठिततमो देह इत्यामनन्ति स्याच्चाभावोऽपि भावान्तरमतिमथने वक्ष्यमाणक्रमेण ॥ ६२ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/062_dhvAntaM_tejashcha.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/062_dhvAntaM_tejashcha.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -712,7 +712,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 तद्भ्रान्तौ प्राक्प्रतीचोः प्रसजति पतने पत्रिणोस्तारतम्यं पाते गुर्व्यास्तु तस्याः प्रलघु दिवि समुत्क्षिप्तमेनां न यायात् ॥ ६३ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/063_tiShThatyurvI_bhachakram.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/063_tiShThatyurvI_bhachakram.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -721,7 +721,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 तात्पर्यं तर्कणीयं तदिह बहुविदा भूपरिध्यादिभे(दे)दैः दुर्ज्ञानं सर्वथा यन्मुनिभिरपि परैस्तत्र तूदासितव्यम् ॥ ६४ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/064_jyotishshAstraM_purANAdyapi.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/064_jyotishshAstraM_purANAdyapi.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 ## काल-निरूपणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -730,7 +730,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 कल्पान्तेऽप्येककालः प्रकृतिपुरुषवद्ब्रह्मणो रूपमन्यन्निर्दिष्टोऽनाद्यनन्तो मुनिभिरिति ततः कार्यता चास्य भग्ना ॥ ६५ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/065_sUryAvRttyAdyupAdhivyatikaravashataH_kAlatA-st.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/065_sUryAvRttyAdyupAdhivyatikaravashataH_kAlatA-st.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -739,7 +739,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 कालान्तर्यामितादेः न खलु समुदितः संप्रतीते तु भेदे साधर्म्यं नैक्यहेतुः स हि तदितरवद्घोषितस्तद्विभूतिः ॥ ६६ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/066_kAlo-smIti_svagItA.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/066_kAlo-smIti_svagItA.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -748,7 +748,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 आप्तस्तत्सृष्टिवादस्तदुपधिपरिणत्यादिभिस्सार्थकस्स्यान्नोचेत्तत्रापि पूर्वापरवचनहतिर्दुर्निवारप्रसङ्गा ॥ ६७ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/067_kAlasyotpattitaH_prAk.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/067_kAlasyotpattitaH_prAk.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -757,7 +757,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 तत्संयोगाः परत्वादय इति च ततोऽप्येष नैवानुमेयो नो चेन्न क्वापि लोकव्यवहृतिविषयोऽव्यक्तवत्स्यादनेहा ॥ ६८ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/068_kAlo-dhyaxAvaseyaH_xaNalavadivasAdyaMshato-rth.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/068_kAlo-dhyaxAvaseyaH_xaNalavadivasAdyaMshato-rth.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -766,7 +766,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 ये तत्रोपाधयः स्युस्त इह परिणतिं प्राप्नुयुस्सानुबन्धाः नित्यो व्यापी च तादृक्परिणतिभिरसौ सर्वकार्ये निमित्तम् ॥ ६९ ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/069_kAlasyopAdhibhedAtkatichidabhidadhatyabdamAsAd.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/069_kAlasyopAdhibhedAtkatichidabhidadhatyabdamAsAd.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -775,7 +775,7 @@ webcam, नेत्रम्, इत्यादि बाह्याङ्ग
 भूर्यद्वा बोभवीति स्थिरचरधृतये तच्च तादृक्च सर्वं स्वायत्ताशेषसत्तास्थितियतनपरब्रह्मलीलोर्मिचक्रम् ॥ ७० ॥
 </details>
 
-<div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/070_vAyurdodhUyate_yadyadayamuDugaNo.md"  newLevelForH1="3" includeTitle="false"  > </div>
+<div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/070_vAyurdodhUyate_yadyadayamuDugaNo.md"  newLevelForH1="3" includeTitle="false"  > </div>
  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

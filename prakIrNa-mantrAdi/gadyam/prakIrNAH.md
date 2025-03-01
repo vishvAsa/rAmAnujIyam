@@ -12,4 +12,4 @@ title = "प्रकीर्णाः"
 
 
 ## पञ्चोपनिषन्मत्राः
-- [अत्रोक्ताः](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/vishvAsa-sankalanam/bhUta-shuddhiH) । 
+- [अत्रोक्ताः](/rAmAnujIyam/kriyA/vishvAsa-sankalanam/bhUta-shuddhiH) । 

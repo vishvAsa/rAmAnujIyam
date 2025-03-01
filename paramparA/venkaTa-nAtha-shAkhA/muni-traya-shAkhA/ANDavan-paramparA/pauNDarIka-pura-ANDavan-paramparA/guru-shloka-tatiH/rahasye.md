@@ -44,5 +44,5 @@ title = "रहस्ये"
 नारायणाख्यं मुनिमा श्रयामः॥
 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/paramparA/venkaTa-nAtha-shAkhA/muni-traya-shAkhA/ANDavan-paramparA/periyANDavann-antA_rahasya-paramparA" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/rAmAnujIyam/paramparA/venkaTa-nAtha-shAkhA/muni-traya-shAkhA/ANDavan-paramparA/periyANDavann-antA_rahasya-paramparA" newLevelForH1="5" includeTitle="false"> </div>
 

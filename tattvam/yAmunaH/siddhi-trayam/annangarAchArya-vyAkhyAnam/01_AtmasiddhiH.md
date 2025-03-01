@@ -22,7 +22,7 @@ title = "01 आत्मसिद्धिः"
 </details>
 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/yAmunaH/yat-padAmbhoruha.md" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/rAmAnujIyam/vyakti-shlokAdi/yAmunaH/yat-padAmbhoruha.md" newLevelForH1="5" includeTitle="false"> </div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

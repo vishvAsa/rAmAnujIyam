@@ -68,4 +68,4 @@ Source: [TW](https://www.prapatti.com/slokas/english/andavan_ashramam_taniyan.pd
 श्री-रङ्गेश-पदे तद्-अर्पित-भरं श्री-पादुका-सेवक--  
 श्री-रामानुज-योगिनं गुरु-वरं वन्दे दया-सागरम् ॥ ९ ॥
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/paramparA/venkaTa-nAtha-shAkhA/muni-traya-shAkhA/ANDavan-paramparA/periyANDavann-antA_rahasya-paramparA" newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" url="/rAmAnujIyam/paramparA/venkaTa-nAtha-shAkhA/muni-traya-shAkhA/ANDavan-paramparA/periyANDavann-antA_rahasya-paramparA" newLevelForH1="5" includeTitle="false"> </div>

@@ -759,7 +759,7 @@ w
 
 ११. श्रीमते शठकोपाय नमः १४. श्रीधराय नमः 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/asmad-deshikam_gurUn.md" unfilled newLevelForH1="5" includeTitle="false">   
+<div class="js_include" url="/rAmAnujIyam/vyakti-shlokAdi/asmad-deshikam_gurUn.md" unfilled newLevelForH1="5" includeTitle="false">   
 
 अस्मद्-देशिकम् अस्मदीयपरमाचार्यान् अशेषान् गुरून्  
 श्रीमल्-लक्ष्मण-योगि-पुङ्गव--महापूर्णौ, मुनिं यामुनम् ।  

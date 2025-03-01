@@ -53,6 +53,6 @@ title = "तिलकम्, पुण्ड्रम्"
 
 
 ## व्याख्यानानि
-- गोपालदेशिको [ऽत्र](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/venkaTa-nAtha-shAkhA/gopAla-deshikaH/Ahnikam_AhnikArtha-prakAshikA/02_abhigamanam/14_puNDradhAraNam) । 
-- कॊळियाल-रङ्गरामानुजो [ऽत्र](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/venkaTa-nAtha-shAkhA/koLHiyAla-ranga-rAmAnujaH/laghvAhnikam/03_puNDradhAraNakramaH.md) । 
+- गोपालदेशिको [ऽत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/gopAla-deshikaH/Ahnikam_AhnikArtha-prakAshikA/02_abhigamanam/14_puNDradhAraNam) । 
+- कॊळियाल-रङ्गरामानुजो [ऽत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/koLHiyAla-ranga-rAmAnujaH/laghvAhnikam/03_puNDradhAraNakramaH.md) । 
 - उत्तरदेशे [ऽत्र](https://www.youtube.com/watch?v=hGBT0vfz7Eo) ।  

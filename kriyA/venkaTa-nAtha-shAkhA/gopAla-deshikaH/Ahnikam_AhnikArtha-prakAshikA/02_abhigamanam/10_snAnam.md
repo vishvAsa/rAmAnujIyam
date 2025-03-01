@@ -48,7 +48,7 @@ title = "१० स्नानम्"
 इति ।
 </details>
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/rAmAnujIyam/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md"  newLevelForH1="5" includeTitle="false"> 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

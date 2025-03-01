@@ -86,9 +86,9 @@ title = "०१ योगान्त्यम्"
 [[2]]
 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/rAmAnujaH/sharaNAgati-gadyam/sarva-prastutiH/04_akhila-heya-pratyanIka__nArAyaNa/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/rAmAnujIyam/kriyA/rAmAnujaH/sharaNAgati-gadyam/sarva-prastutiH/04_akhila-heya-pratyanIka__nArAyaNa/"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/AnukUlya-sankalpAdi/aNuparimANa/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/AnukUlya-sankalpAdi/aNuparimANa/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 [[3]]
