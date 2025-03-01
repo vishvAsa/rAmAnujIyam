@@ -251,7 +251,7 @@ Lo cual, **se ha dicho**, es el único apoyo de la Prapanna:
 
 ऎऩ्गिऱ बडिये  
 उभय-विभूति-नाथऩ् आऩ सर्वेश्वरऩ्  
-ताऩ् उगन्दद् ऒरु निलत्तिले वैक्क 
+ताऩ् उगन्दद् ऒरु **निलत्तिले वैक्क** 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -361,8 +361,7 @@ y **siguiendo las ocupaciones** que son consistentes con su apego exclusivo y su
 </details>
 
 
-## मोक्ष-विलम्बः
-
+## वैपरीत्यानि
 <details><summary>English</summary>
 
 DELAY IN THE ATTAINMENT OF THE GOAL :
@@ -524,7 +523,7 @@ Debido a esto (mentalidad débil), **pueden desear adoptar** otros upāyas.
 बुद्धि दौर्बल्यम् - विश्वासमान्द्यम्, क्षणकालसाध्यमाऩ प्रपत्तियाले भगवाऩ् रक्षिप्पऩो ऎऩ्गिऱ शङ्कैयाले ‘रक्षिष्यतीति’ महाविश्वासत्तिऱ्कु मान्द्यमॆऩ्ऱबडि। अदडियाग वरुम् उपायान्तरप्रत्याशैयॆऩ्ऩ इति । प्रपत्तियिल् विश्वासम् मन्दमाऩाल् उपायान्तरत्तिल् प्रत्याशैयुण्डागुमिऱे। 
 </details>
 
-
+### विलम्बाबुलम्बे
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -560,10 +559,10 @@ may become subject to such lapses as the ~~following~~ above.
  
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवै पिऱवादे  
+इवै **पिऱवादे**  
 प्रारब्ध-सुकृत-विशेषत्तालुम्  
 पूर्व-प्रपत्तियिल् फल-सङ्कल्प-विशेषत्तालुम्  
-छिद्रम् इल्लाद कैङ्कर्यत्तिले प्रतिष्ठितर् आय्प् पोन्द्-अवर्गळुक्कुम् 
+छिद्रम् इल्लाद **कैङ्कर्यत्तिले प्रतिष्ठितर्** आय्प् पोन्द्-अवर्गळुक्कुम् 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -644,12 +643,12 @@ En el caso de estas dos clases de Prapannas.
 विळम्बाविळम्बङ्गळिले निलैयिरुक्कुम्बडि इति । यद्यपि वैपरीत्यम् विळम्बहेतु; तदभावम् अविळम्बहेतु । तथापि विळम्बत्तिल् जन्मान्तरकल्पान्तरपर्यन्तत्वादि निलैयुम्, अविळम्बत्तिल् क्षणान्तर दिवसान्तर शरीरावसानपर्यन्तत्वादिरूपनिलैयुम् ऎप्पडिक्कूडुमॆऩ्ऱु शङ्काभिप्रायम्। 
 </details>
 
-
+### अहंकार-ममकारौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् इडत्तिल् इवर्गळुक्कु +++(प्रपन्नेभ्यः)+++  
 चार्वाकादिगळुक्कुप् पोले  
-निलै निऩ्ऱ अहङ्कार--मम-कारङ्गळ् पुगिरादु। 
+निलै निऩ्ऱ अहङ्कार--मम-कारङ्गळ् **पुगिरादु।** +++(4)+++
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -734,10 +733,10 @@ por la sabiduría posterior que se origina en la razón.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपराधङ्गळ् पिऱन्दाल्  
+अपराधङ्गळ् **पिऱन्दाल्**  
 क्षापणावधिय् आयुम्, शिक्षावधिय् आयुङ्  
-कोलिऩ कालत्तुक्कुळ्ळे अपराध-निस्तारम् पिऱक्कुम् बडि  
-अपराध-परिहाराधिकारत्तिले सॊऩ्ऩोम्। 
+कोलिऩ कालत्तुक्कुळ्ळे अपराध-निस्तारम् **पिऱक्कुम्** बडि  
+अपराध-परिहाराधिकारत्तिले **सॊऩ्ऩोम्।** 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -779,10 +778,10 @@ y cómo **se expirarán** los delitos dentro del tiempo requerido.
 कोलिऩगालत्तुक्कुळ्ळे - कालम् कुऱित्तुप् प्रपत्तिपण्णिऩवऩुक्कु अक्कालत्तुक्कुळ्ळेये, 
 </details>
 
-
+#### काल-नियमाभावे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मोक्षम् पॆऱुगैक्कुक् काल-विशेषङ् कुऱियादे प्रपन्नर् आऩरैप् पऱ्ऱ 
+मोक्षम् पॆऱुगैक्कुक् काल-विशेषङ् **कुऱियादे प्रपन्नर् आऩरैप्** पऱ्ऱ 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -863,11 +862,12 @@ it is said as follows:
 अपायेति । इदिल् शनैः ऎऩ्ऱदाल् अधिकविळम्बम् सॊल्लप्पडुगिऱदु। 
 </details>
 
-
+### प्रयोजनान्तर-रुचिः
+#### उभय-रुचिता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुमुक्षुव् आय् इऴिन्दवऩ् आगैयाले  
-प्रयोजनान्तर-रुचि निलै निऱ्कव् उण्ड् आगादु। +++(4)+++
+प्रयोजनान्तर-रुचि **निलै निऱ्कव् उण्ड् आगादु**। +++(4)+++
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -953,7 +953,7 @@ Si **es** así, Iśvara, que **es** su **simpatizante**,
 ऎऩ्गिऱ उभयभावऩैयोडु कूडिऩ ब्रह्मादिगळुक्कुप्पोले, 
 </details>
 
-
+#### अहितादानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > याचितोऽपि सदा भक्तैर्  
@@ -1000,7 +1000,7 @@ that longs to fall into the fire ?"
 याचितोऽपीति । अहितं – अपथ्यमाऩ प्रयोजनान्तरत्तै, 
 </details>
 
-
+#### हरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **यस्यानुग्रहम् इच्छामि**  
@@ -1155,12 +1155,12 @@ La misma idea **se encuentra** en la historia de Kundadhāra [^es57].
 कॊडादे कण्णऴित्तुम् - कॊडामल् उपेक्षित्तुम्, 
 </details>
 
-
+#### विवेक-वर्धनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिल्-अवऱ्ऱिले  
 अल्पास्थिरत्व--दुःख-मिश्रत्वादि-विवेकत्तालेय्  
-इवऩ्-तऩक्क् अरुचियै विळैप्पित्तुम्  
+इवऩ्-तऩक्क् अरुचियै **विळैप्पित्तुम्**  
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -1187,6 +1187,7 @@ al **hacerle darse cuenta** de que **son** triviales, transitorios y se mezclan 
 सिलवऱ्ऱिले अल्पास्थिरत्वदुःखमिश्रत्वादिविवेकत्तालेय् इवऩ् तऩक्करुचियै विळैप्पित्तुम्  
 </details>
 
+#### भोगेन स्वतो निर्वेदावकाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौभरि-कुचेलादिगळुक्कुप् पोले  
@@ -1229,20 +1230,121 @@ pero les **hace sentir** una aversión para ellos después.
 त्यागम् पण्णुम् बडि सॆय्दुम्, 
 </details> 
 
+#### काल-नियमे सति
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विडुगैयाले मोक्ष-कालङ् कुऱित्तु प्रपत्ति पण्णिऩ् अवऩुक्कु  
-अक्-कालत्तुक्क्-उळ्ळे प्रयोजनान्तर-**वैमुख्यम् पिऱन्दु विडुम्।**
+… **विडुगैयाले**  
+मोक्ष-कालङ् कुऱित्तु **प्रपत्ति पण्णिऩ्** अवऩुक्कु  
+अक्-कालत्तुक्क् उळ्ळे प्रयोजनान्तर-**वैमुख्यम् पिऱन्दु विडुम्।** +++(4)+++
 </details>
+
+<details><summary>English</summary>
+
+Thus the man who performed prapatti indicating the time when he should attain mokṣa ,  
+will have acquired an aversion to other benefits than the Lord within the prescribed time.  
+</details>
+
+<details><summary>Español</summary>
+
+Así, el hombre que **realizó** Prapatti  
+que **indica** el momento en que debería alcanzar Mokṣa,
+habrá adquirido una aversión a otros beneficios que el Señor dentro del tiempo prescrito.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 विडुगैयाले मोक्षकालङ्गुऱित्तु प्रपत्तिपण्णिऩवऩुक्कु अक्कालत्तुक्कुळ्ळे प्रयोजनान्तरवैमुख्यम् पिऱन्दुविडुम्। 
 </details>
 
+#### काल-नियमाभावे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मऱ्ऱैय् अवऩुक्कुम् 
+
+> अथोपाय-प्रसक्तोऽपि  
+> **भुक्त्वा** भोगान् अनामयान् ।  
+> अन्ते विरक्तिम् **आसाद्य**  
+> **विशते** वैष्णवं पदम्॥   
+> (लक्ष्मीतन्त्रम् १७-१०३) 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>विषयः</summary>
+
+भोगः, वैराग्यम्
+</details>
 
 
-Thus the man who performed prapatti indicating the time when he should attain mokṣa , will have acquired an aversion to other benefits than the Lord within the prescribed time. In the case also of the man who did not indicate any such time while performing prapatti, there will be delay, as has been stated in the śloka : - "The man who is desirous of performing such karma as is a means of obtaining other benefits (than God ) enjoys pleasures unmingled with pain, and at last acquires a distaste for them (and the spirit of renunciation ), after which he reaches the abode of Bhagavān. In accordance with this, the delay in his attainment (of the supreme goal) will be only until the birth of aversion to worldly objects.
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अथोपाय-प्रसक्तोऽपि  
+> **भुक्त्वा** भोगान् अनामयान् ।  
+> अन्ते विरक्तिम् **आसाद्य**  
+> **विशते** वैष्णवं पदम्॥  
+> (लक्ष्मीतन्त्रम् १७-१०३) 
+
+</details>
+
+<details><summary>English</summary>
+
+In the case also of the man who did not indicate any such time while performing prapatti, there will be delay,  
+as has been stated in the śloka : - 
+
+> "The man who is desirous of performing such karma  
+> as is a means of obtaining other benefits (than God )  
+> enjoys pleasures unmingled with pain,  
+> and at last acquires a distaste for them (and the spirit of renunciation ),  
+> after which he reaches the abode of Bhagavān. 
+
+</details>
+
+<details><summary>Español</summary>
+
+En el caso también del hombre que **no indicó** tal tiempo mientras **realizaba** Prapatti, **habrá retraso**,  
+Como **se ha dicho** en el Śloka: -
+
+> "El hombre que **desea realizar** tal karma  
+> Como es un medio para **obtener** otros beneficios (que Dios)  
+> **disfruta** de los placeres sin duda de dolor,  
+> y finalmente **adquiere** un disgusto para ellos (y el espíritu de renuncia),  
+> Después de lo cual **llega** a la morada de Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱैयवऩुक्कुम् ‘‘अथोपायप्रसक्तोऽपि भुक्त्वा भोगाननामयान् । अन्ते विरक्तिमासाद्य विशते वैष्णवं पदं’’(लक्ष्मीतन्त्रम् १७-१०३) ऎऩ्गिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वैराग्यावधिये विळम्बम् आय् इरुक्कुम्। 
+</details>
+
+
+<details><summary>English</summary>
+
+In accordance with this,  
+the delay in his attainment (of the supreme goal) will be only until the birth of aversion to worldly objects.
+
+</details>
+
+<details><summary>Español</summary>
+
+De **acuerdo** con esto,
+La demora en su **logro** (del objetivo supremo) **será** solo hasta el nacimiento de la aversión a los objetos mundanos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वैराग्यावधिये विळम्बमायिरुक्कुम्। 
+</details>
+
+
+
 
 (4) In regard to contact with other deities, the Ruler of All will bring him back some day or other into the company of those who are staunchly and exclusively devoted to Bhagavān, correct his lapse until he gets ashamed and thus remove his deviation from the right path.
 
