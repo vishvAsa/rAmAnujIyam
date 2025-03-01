@@ -1121,8 +1121,16 @@ La misma idea **se encuentra** en la historia de Kundadhāra [^es57].
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सिल प्रयोजनान्तरङ्गळैक् कॊडादे कण्ण्-अऴित्तुम्  
+सिल प्रयोजनान्तरङ्गळैक् कॊडादे कण्ण् अऴित्तुम् +++(=मार्जयित्वा →प्रतार्य)+++  
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+१५९ 
+
+केषाञ्चित् प्रयोजनान्तराणाम् अ-दानेन +++(प्रार्थना-)+++वैतथ्यापादनात्  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1148,14 +1156,90 @@ La misma idea **se encuentra** en la historia de Kundadhāra [^es57].
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिल्-अवऱ्ऱिले  
+अल्पास्थिरत्व--दुःख-मिश्रत्वादि-विवेकत्तालेय्  
+इवऩ्-तऩक्क् अरुचियै विळैप्पित्तुम्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+केषुचिद् अल्पास्थिरत्व--दुःख-मिश्रत्वादि-विवेक-मुखेनास्यारुचेर् जननात्,  
+</details>
 
 
+<details><summary>English</summary>
 
+Sometimes Iśvara creates in the prapanna a distaste for these other things  
+by making him realise  
+that they are trivial, transient and mingled with pain.  
+</details>
 
+<details><summary>Español</summary>
 
+A veces Iśvara **crea** en la Prapanna un disgusto por estas otras cosas  
+al **hacerle darse cuenta** de que **son** triviales, transitorios y se mezclan con dolor.
+</details>
 
+<details><summary>मूलम्</summary>
 
-Sometimes Iśvara creates in the prapanna a distaste for these other things by making him realise that they are trivial, transient and mingled with pain. Sometimes, as in the case of Soubhari and Kuchela, he gives them the benefits desired by them, but makes them feel an aversion to them afterwards.
+सिलवऱ्ऱिले अल्पास्थिरत्वदुःखमिश्रत्वादिविवेकत्तालेय् इवऩ् तऩक्करुचियै विळैप्पित्तुम्  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सौभरि-कुचेलादिगळुक्कुप् पोले  
+सिल भोगङ्गळैक् कॊडुत्तुत्  
+ताऩेय् **अलमर्न्दु**+++(←"अलम्")+++ **विडप् पण्णियुम्** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सौभरि-कुचेलादीनाम् इव कांश्चिद् भोगान् **दत्वा**  
+स्वयम् एव **निर्विद्य**  
+यथा त्यजेत्  
+तथा करणाच् च 
+</details>
+
+<details><summary>English</summary>
+
+Sometimes, as in the case of Soubhari and Kuchela,  
+he gives them the benefits desired by them,  
+but makes them feel an aversion to them afterwards.
+</details>
+
+<details><summary>Español</summary>
+
+A veces, como en el caso de Soubhari y Kuchela,  
+Él les **da** los beneficios deseados por ellos,  
+pero les **hace sentir** una aversión para ellos después.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सौभरिकुचेलादिगळुक्कुप्पोले सिल भोगङ्गळैक् कॊडुत्तुत् ताऩे यलमर्न्दुविडप्पण्णियुम् 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अरुचिविळैयाद् अवर्गळुक्कु निस्तारप्रकारत्तैक् काट्टुगिऱार् सौभरीत्यादिना । सौभरि ऎऩ्ऩुम् ऋषि चिरकालम् योगत्तिलिरुन्दु उत्थानदशैयिल् जलत्तिले कुडुम्बत्तोडु वाऴुम् ऒरु मत्स्यत्तैक्कण्डु ताऩुम् सांसारिकभोगत्तै अनुभविक्क वासैप्पट्टवर्। कुचेलरॆऩ्बवर् श्रीकृष्णऩुडैय बाल्यसखा । अवर् संसारभरणकष्टत्ताल् फलार्थियाय् कृष्णऩिडत्तिल् वन्दार्। 
+
+ताऩेय् अलमर्न्दु विडप् पण्णियुम् - स्वयम् आगवे निर्वेदम् पिऱन्दु  
+त्यागम् पण्णुम् बडि सॆय्दुम्, 
+</details> 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विडुगैयाले मोक्ष-कालङ् कुऱित्तु प्रपत्ति पण्णिऩ् अवऩुक्कु  
+अक्-कालत्तुक्क्-उळ्ळे प्रयोजनान्तर-**वैमुख्यम् पिऱन्दु विडुम्।**
+</details>
+
+<details><summary>मूलम्</summary>
+
+विडुगैयाले मोक्षकालङ्गुऱित्तु प्रपत्तिपण्णिऩवऩुक्कु अक्कालत्तुक्कुळ्ळे प्रयोजनान्तरवैमुख्यम् पिऱन्दुविडुम्। 
+</details>
+
 
 
 Thus the man who performed prapatti indicating the time when he should attain mokṣa , will have acquired an aversion to other benefits than the Lord within the prescribed time. In the case also of the man who did not indicate any such time while performing prapatti, there will be delay, as has been stated in the śloka : - "The man who is desirous of performing such karma as is a means of obtaining other benefits (than God ) enjoys pleasures unmingled with pain, and at last acquires a distaste for them (and the spirit of renunciation ), after which he reaches the abode of Bhagavān. In accordance with this, the delay in his attainment (of the supreme goal) will be only until the birth of aversion to worldly objects.
