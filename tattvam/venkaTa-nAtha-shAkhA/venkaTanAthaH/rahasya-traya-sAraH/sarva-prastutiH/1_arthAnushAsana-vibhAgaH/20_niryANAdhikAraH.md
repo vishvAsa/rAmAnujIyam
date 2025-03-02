@@ -1778,7 +1778,7 @@ y cuya voluntad es irresistible,
 
 > "तद्-अधिगम  
 > उत्तर-पूर्वाघयोर् अ-श्लेष-विनाशौ  
-> तद्-व्यपदेशात् +++(श्रुतिभिः)+++" 
+> तद्-व्यपदेशात् +++(श्रुतिभिः)+++"  
 > (ब्रह्मसूत्रम् ४-१-१३) 
 
 ऎऩ्गिऱ बडिये  
@@ -1801,12 +1801,7 @@ y cuya voluntad es irresistible,
 प्रपत्ति-वाक्योच्चारणे प्रथम-क्षणे **विनिवर्त्य**  
 </details>
 
-
-<details><summary>मूलम्</summary>
-
-सर्वभयङ्गळुक्कुम् कारणमाऩ निग्रहसङ्कल्पत्तै ‘‘तदधिगम उत्तरपूर्वाघयोरश्लेषविनाशौ तद्वयपदेशात्’’(ब्रह्मसूत्रम् ४-१-१३) ऎऩ्गिऱबडिये सद्वारक प्रपत्तिनिष्ठऩुक्कु उपासनप्रारंभत्तिऱ्पोले प्रपत्तिवाक्योच्चारणत्तिल् प्रथमक्षणत्तिले विलक्कि,
-</details>
-
+<details><summary>English</summary>
 
 withholds his desire to punish,  
 which is the cause of all fears,  
@@ -1818,6 +1813,32 @@ of whom it is said-
 > " When the vidyā commences,  
 > the destruction of former sins and the absence of contact with subsequent sins (occur),  
 > for so the śrutis say". 
+
+</details>
+
+<details><summary>Español</summary>
+
+**retiene** su deseo de castigar,  
+que es la causa de todos los miedos,  
+En el primer momento en que pronuncia la oración que **expresa** Prapatti,  
+De la misma manera que al comienzo de la meditación  
+en el caso del upāsaka o bhakti yoga niṣṭhā,  
+quien **ha adoptado** Prapatti como un medio para Bhakti,  
+de quien se dice-
+
+> "Cuando **comienza** el Vidyā,
+> La **destrucción** de los antiguos pecados  
+> y la **ausencia** de contacto con los pecados posteriores (ocurridos),  
+> Porque así los Śrutis **dicen** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वभयङ्गळुक्कुम् कारणमाऩ निग्रहसङ्कल्पत्तै ‘‘तदधिगम उत्तरपूर्वाघयोरश्लेषविनाशौ तद्वयपदेशात्’’(ब्रह्मसूत्रम् ४-१-१३) ऎऩ्गिऱबडिये सद्वारक प्रपत्तिनिष्ठऩुक्कु उपासनप्रारंभत्तिऱ्पोले प्रपत्तिवाक्योच्चारणत्तिल् प्रथमक्षणत्तिले विलक्कि,
+</details>
+
+
 
 The Lord makes up His mind (at that very instant) to bring him and those who are his followers into the company of the eternal sūris and, not satisfied with having done only this, He devours, as it were, all the heaps of sins committed by those who have sought Him and does not reveal any trace of them outside and feels also that He should stomach even more (of these sins). He removes the sins of his followers too, even when they are committed deliberately, by His will to grant the prapanna His blessing. In virtue of this, they will expiate their sins by repentance and the like. It is said: "He (the Lord) hastens to give Paramapada to the man who is fit for mukti". The Lord pities the prapanna for the delay which he has chosen and hastens to create in him an impatience of delay (in attainment). He produces in him an eagerness to attain the goal as illustrated in the following (verses ) :- “ Hereafter I do not want to be born in this world of ignorance" and "Do not deceive me as Thou didst before. I swear by Thee and by Thy queen whose beautiful locks of hair shed their fragrance like a garland on Thy chest - I swear that I must be taken to Paramapada." Having made him so eager and so impatient to obtain the goal, the Lord decides on giving him Paramapada as desired by him at the end of this life, which has come to him as a result of past karma: So has it been said :-"Our Lord" is the greatest benefactor that confers Vaikuṇṭha   on those who have performed prapatti, when they happen to die". The Lord* has already seen to it that the fetters of gold and iron which bind him to saṁsāra namely, his pāpa and puṇya, past and future, as also the karma which has begun to operate, except that portion of it which he has agreed to expiate (during this life) are cut off without any trace being left at all. [ Even puṇya karma which would lead to swarga is a fetter (though of gold ), because it stands in the way of mokṣa.] It is said :- "The sins of the past and the sins committed after prapatti vanish like cotton thrown in the fire." So when the time for leaving the body has come, the Lord causes his meritorious deeds (puṇya) and his sins (papa) to be divided and distributed among others, namely, those who were his well-wishers and those who did evil to him, respectively, as the consequence of the good and the evil wrougbt to him by them. For it has been said:-- "The man who is about to attain mukti leaves his puṇya and pāpa to his friends and foes respectively and attains Brahman as the fruit of bhakti yoga". and again "The sins which are notorious in this world and which, oppressive like Yama, make a man sink into saṁsāra left the man about to attain mukti without making the least noise and entered into plants (viz, his foes )". The authors of the Smṛtis have expressed the truth contained in the Upaniṣads in the manner stated above.
 
