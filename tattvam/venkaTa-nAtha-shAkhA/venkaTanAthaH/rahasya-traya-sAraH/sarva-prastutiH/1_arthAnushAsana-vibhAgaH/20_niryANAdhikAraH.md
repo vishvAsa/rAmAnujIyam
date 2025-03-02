@@ -251,7 +251,7 @@ Lo cual, **se ha dicho**, es el único apoyo de la Prapanna:
 
 ऎऩ्गिऱ बडिये  
 उभय-विभूति-नाथऩ् आऩ सर्वेश्वरऩ्  
-ताऩ् उगन्दद् ऒरु निलत्तिले वैक्क 
+ताऩ् उगन्दद् ऒरु **निलत्तिले वैक्क** 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -361,8 +361,7 @@ y **siguiendo las ocupaciones** que son consistentes con su apego exclusivo y su
 </details>
 
 
-## मोक्ष-विलम्बः
-
+## वैपरीत्यानि
 <details><summary>English</summary>
 
 DELAY IN THE ATTAINMENT OF THE GOAL :
@@ -524,7 +523,7 @@ Debido a esto (mentalidad débil), **pueden desear adoptar** otros upāyas.
 बुद्धि दौर्बल्यम् - विश्वासमान्द्यम्, क्षणकालसाध्यमाऩ प्रपत्तियाले भगवाऩ् रक्षिप्पऩो ऎऩ्गिऱ शङ्कैयाले ‘रक्षिष्यतीति’ महाविश्वासत्तिऱ्कु मान्द्यमॆऩ्ऱबडि। अदडियाग वरुम् उपायान्तरप्रत्याशैयॆऩ्ऩ इति । प्रपत्तियिल् विश्वासम् मन्दमाऩाल् उपायान्तरत्तिल् प्रत्याशैयुण्डागुमिऱे। 
 </details>
 
-
+### विलम्बाबुलम्बे
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -560,10 +559,10 @@ may become subject to such lapses as the ~~following~~ above.
  
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवै पिऱवादे  
+इवै **पिऱवादे**  
 प्रारब्ध-सुकृत-विशेषत्तालुम्  
 पूर्व-प्रपत्तियिल् फल-सङ्कल्प-विशेषत्तालुम्  
-छिद्रम् इल्लाद कैङ्कर्यत्तिले प्रतिष्ठितर् आय्प् पोन्द्-अवर्गळुक्कुम् 
+छिद्रम् इल्लाद **कैङ्कर्यत्तिले प्रतिष्ठितर्** आय्प् पोन्द्-अवर्गळुक्कुम् 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -644,12 +643,12 @@ En el caso de estas dos clases de Prapannas.
 विळम्बाविळम्बङ्गळिले निलैयिरुक्कुम्बडि इति । यद्यपि वैपरीत्यम् विळम्बहेतु; तदभावम् अविळम्बहेतु । तथापि विळम्बत्तिल् जन्मान्तरकल्पान्तरपर्यन्तत्वादि निलैयुम्, अविळम्बत्तिल् क्षणान्तर दिवसान्तर शरीरावसानपर्यन्तत्वादिरूपनिलैयुम् ऎप्पडिक्कूडुमॆऩ्ऱु शङ्काभिप्रायम्। 
 </details>
 
-
+### अहंकार-ममकारौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् इडत्तिल् इवर्गळुक्कु +++(प्रपन्नेभ्यः)+++  
 चार्वाकादिगळुक्कुप् पोले  
-निलै निऩ्ऱ अहङ्कार--मम-कारङ्गळ् पुगिरादु। 
+निलै निऩ्ऱ अहङ्कार--मम-कारङ्गळ् **पुगिरादु।** +++(4)+++
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -734,10 +733,10 @@ por la sabiduría posterior que se origina en la razón.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपराधङ्गळ् पिऱन्दाल्  
+अपराधङ्गळ् **पिऱन्दाल्**  
 क्षापणावधिय् आयुम्, शिक्षावधिय् आयुङ्  
-कोलिऩ कालत्तुक्कुळ्ळे अपराध-निस्तारम् पिऱक्कुम् बडि  
-अपराध-परिहाराधिकारत्तिले सॊऩ्ऩोम्। 
+कोलिऩ कालत्तुक्कुळ्ळे अपराध-निस्तारम् **पिऱक्कुम्** बडि  
+अपराध-परिहाराधिकारत्तिले **सॊऩ्ऩोम्।** 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -779,10 +778,10 @@ y cómo **se expirarán** los delitos dentro del tiempo requerido.
 कोलिऩगालत्तुक्कुळ्ळे - कालम् कुऱित्तुप् प्रपत्तिपण्णिऩवऩुक्कु अक्कालत्तुक्कुळ्ळेये, 
 </details>
 
-
+#### काल-नियमाभावे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मोक्षम् पॆऱुगैक्कुक् काल-विशेषङ् कुऱियादे प्रपन्नर् आऩरैप् पऱ्ऱ 
+मोक्षम् पॆऱुगैक्कुक् काल-विशेषङ् **कुऱियादे प्रपन्नर् आऩरैप्** पऱ्ऱ 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -863,11 +862,12 @@ it is said as follows:
 अपायेति । इदिल् शनैः ऎऩ्ऱदाल् अधिकविळम्बम् सॊल्लप्पडुगिऱदु। 
 </details>
 
-
+### प्रयोजनान्तर-रुचिः
+#### उभय-रुचिता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुमुक्षुव् आय् इऴिन्दवऩ् आगैयाले  
-प्रयोजनान्तर-रुचि निलै निऱ्कव् उण्ड् आगादु। +++(4)+++
+प्रयोजनान्तर-रुचि **निलै निऱ्कव् उण्ड् आगादु**। +++(4)+++
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -953,7 +953,7 @@ Si **es** así, Iśvara, que **es** su **simpatizante**,
 ऎऩ्गिऱ उभयभावऩैयोडु कूडिऩ ब्रह्मादिगळुक्कुप्पोले, 
 </details>
 
-
+#### अहितादानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > याचितोऽपि सदा भक्तैर्  
@@ -1000,7 +1000,7 @@ that longs to fall into the fire ?"
 याचितोऽपीति । अहितं – अपथ्यमाऩ प्रयोजनान्तरत्तै, 
 </details>
 
-
+#### हरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **यस्यानुग्रहम् इच्छामि**  
@@ -1155,12 +1155,12 @@ La misma idea **se encuentra** en la historia de Kundadhāra [^es57].
 कॊडादे कण्णऴित्तुम् - कॊडामल् उपेक्षित्तुम्, 
 </details>
 
-
+#### विवेक-वर्धनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिल्-अवऱ्ऱिले  
 अल्पास्थिरत्व--दुःख-मिश्रत्वादि-विवेकत्तालेय्  
-इवऩ्-तऩक्क् अरुचियै विळैप्पित्तुम्  
+इवऩ्-तऩक्क् अरुचियै **विळैप्पित्तुम्**  
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -1187,6 +1187,7 @@ al **hacerle darse cuenta** de que **son** triviales, transitorios y se mezclan 
 सिलवऱ्ऱिले अल्पास्थिरत्वदुःखमिश्रत्वादिविवेकत्तालेय् इवऩ् तऩक्करुचियै विळैप्पित्तुम्  
 </details>
 
+#### भोगेन स्वतो निर्वेदावकाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौभरि-कुचेलादिगळुक्कुप् पोले  
@@ -1229,30 +1230,596 @@ pero les **hace sentir** una aversión para ellos después.
 त्यागम् पण्णुम् बडि सॆय्दुम्, 
 </details> 
 
+#### काल-नियमे सति
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विडुगैयाले मोक्ष-कालङ् कुऱित्तु प्रपत्ति पण्णिऩ् अवऩुक्कु  
-अक्-कालत्तुक्क्-उळ्ळे प्रयोजनान्तर-**वैमुख्यम् पिऱन्दु विडुम्।**
+… **विडुगैयाले**  
+मोक्ष-कालङ् कुऱित्तु **प्रपत्ति पण्णिऩ्** अवऩुक्कु  
+अक्-कालत्तुक्क् उळ्ळे प्रयोजनान्तर-**वैमुख्यम् पिऱन्दु विडुम्।** +++(4)+++
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मोक्ष-कालम् उद्दिश्य  
+प्रपत्तिं कृतवतस्  
+तत्-कालाभ्यन्तर एव प्रयोजनान्तर-वैमुख्यं जायेत । 
+</details>
+
+
+<details><summary>English</summary>
+
+Thus the man who performed prapatti indicating the time when he should attain mokṣa ,  
+will have acquired an aversion to other benefits than the Lord within the prescribed time.  
+</details>
+
+<details><summary>Español</summary>
+
+Así, el hombre que **realizó** Prapatti  
+que **indica** el momento en que debería alcanzar Mokṣa,
+habrá adquirido una aversión a otros beneficios que el Señor dentro del tiempo prescrito.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 विडुगैयाले मोक्षकालङ्गुऱित्तु प्रपत्तिपण्णिऩवऩुक्कु अक्कालत्तुक्कुळ्ळे प्रयोजनान्तरवैमुख्यम् पिऱन्दुविडुम्। 
 </details>
 
+#### काल-नियमाभावे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मऱ्ऱैय् अवऩुक्कुम् 
+
+> अथोपाय-प्रसक्तोऽपि  
+> **भुक्त्वा** भोगान् अनामयान् ।  
+> अन्ते विरक्तिम् **आसाद्य**  
+> **विशते** वैष्णवं पदम्॥   
+> (लक्ष्मीतन्त्रम् १७-१०३) 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>विषयः</summary>
+
+भोगः, वैराग्यम्
+</details>
 
 
-Thus the man who performed prapatti indicating the time when he should attain mokṣa , will have acquired an aversion to other benefits than the Lord within the prescribed time. In the case also of the man who did not indicate any such time while performing prapatti, there will be delay, as has been stated in the śloka : - "The man who is desirous of performing such karma as is a means of obtaining other benefits (than God ) enjoys pleasures unmingled with pain, and at last acquires a distaste for them (and the spirit of renunciation ), after which he reaches the abode of Bhagavān. In accordance with this, the delay in his attainment (of the supreme goal) will be only until the birth of aversion to worldly objects.
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-(4) In regard to contact with other deities, the Ruler of All will bring him back some day or other into the company of those who are staunchly and exclusively devoted to Bhagavān, correct his lapse until he gets ashamed and thus remove his deviation from the right path.
+अन्यस्यापि 
 
-If, in some, this contact with other deities becomes permanent, it may be inferred that the adoption of prapatti as an upāya was incomplete in their case. It may also be understood that they may have such things as Naraka in future. In a man of this description, the fragmentary prapatti performed to Bhagavān may, at some time in the future, attain completion and become effective.
+> अथोपाय-प्रसक्तोऽपि  
+> **भुक्त्वा** भोगान् अनामयान् ।  
+> अन्ते विरक्तिम् **आसाद्य**  
+> **विशते** वैष्णवं पदम्॥  
+> (लक्ष्मीतन्त्रम् १७-१०३) 
 
-(5) In those who performed prapatti after the rise of full and great faith, there will not be any weak-mindedness nor the desire to adopt other upāyas. If these - viz., weak-mindedness and the desire to adopt other means -- are present, it is to be inferred that their former faith was not strong enough. The Lord of All will correct these men also until they acquire great faith and make them perfect prapannas.
+इत्य्-उक्त-रीत्या 
+</details>
 
-In the case of those in whom no such lapses occur, there is no possibility at all of delay in the attainment (of the supreme goal). There will be delay for them only as long as they desire it. They will attain mokṣa  at the time when they desire to have it. The Adhikarī who has attained the true state of a prapanna will always be the favourite of the Supreme Ruler, who is the Lord of Lakṣmī , as pointed out in the passage. "O, Thou, Lord of Śrīraṅgam, that delightest in those idle* men (prapannas ) who stand outer-most (as being incapable of karma yoga, jñāna yoga or bhakti yoga )". [ They are called 'idle', because, after prapatti they do not seek any other upāya. They are said to stand "outer-most" because, being unable to adopt karma yoga, jñāna yoga and bhakti yoga, they have adopted the upāya (prapatti) which is prescribed in the Carama śloka  of the Gita.]
+<details><summary>English</summary>
 
-In the case of this prapanna, the Lord who is the unconditional śeṣī  of all, who is independent of all others and without limitations of any kind and whose will is irresistible, withholds his desire to punish, which is the cause of all fears, at the very first moment in which he utters the sentence expressing prapatti, in the same way as at the beginning of the meditation in the case of the upāsaka or bhakti yoga niṣṭhā, who has adopted prapatti as a means to bhakti, of whom it is said. " When the vidyā commences, the destruction of former sins and the absence of contact with subsequent sins (occur), for so the śrutis say". The Lord makes up His mind (at that very instant) to bring him and those who are his followers into the company of the eternal sūris and, not satisfied with having done only this, He devours, as it were, all the heaps of sins committed by those who have sought Him and does not reveal any trace of them outside and feels also that He should stomach even more (of these sins). He removes the sins of his followers too, even when they are committed deliberately, by His will to grant the prapanna His blessing. In virtue of this, they will expiate their sins by repentance and the like. It is said: "He (the Lord) hastens to give Paramapada to the man who is fit for mukti". The Lord pities the prapanna for the delay which he has chosen and hastens to create in him an impatience of delay (in attainment). He produces in him an eagerness to attain the goal as illustrated in the following (verses ) :- “ Hereafter I do not want to be born in this world of ignorance" and "Do not deceive me as Thou didst before. I swear by Thee and by Thy queen whose beautiful locks of hair shed their fragrance like a garland on Thy chest - I swear that I must be taken to Paramapada." Having made him so eager and so impatient to obtain the goal, the Lord decides on giving him Paramapada as desired by him at the end of this life, which has come to him as a result of past karma: So has it been said :-"Our Lord" is the greatest benefactor that confers Vaikuṇṭha   on those who have performed prapatti, when they happen to die". The Lord* has already seen to it that the fetters of gold and iron which bind him to saṁsāra namely, his pāpa and puṇya, past and future, as also the karma which has begun to operate, except that portion of it which he has agreed to expiate (during this life) are cut off without any trace being left at all. [ Even puṇya karma which would lead to swarga is a fetter (though of gold ), because it stands in the way of mokṣa.] It is said :- "The sins of the past and the sins committed after prapatti vanish like cotton thrown in the fire." So when the time for leaving the body has come, the Lord causes his meritorious deeds (puṇya) and his sins (papa) to be divided and distributed among others, namely, those who were his well-wishers and those who did evil to him, respectively, as the consequence of the good and the evil wrougbt to him by them. For it has been said:-- "The man who is about to attain mukti leaves his puṇya and pāpa to his friends and foes respectively and attains Brahman as the fruit of bhakti yoga". and again "The sins which are notorious in this world and which, oppressive like Yama, make a man sink into saṁsāra left the man about to attain mukti without making the least noise and entered into plants (viz, his foes )". The authors of the Smṛtis have expressed the truth contained in the Upaniṣads in the manner stated above.
+In the case also of the man who did not indicate any such time while performing prapatti, there will be delay,  
+as has been stated in the śloka : - 
+
+> "The man who is desirous of performing such karma  
+> as is a means of obtaining other benefits (than God )  
+> enjoys pleasures unmingled with pain,  
+> and at last acquires a distaste for them (and the spirit of renunciation ),  
+> after which he reaches the abode of Bhagavān. 
+
+</details>
+
+<details><summary>Español</summary>
+
+En el caso también del hombre que **no indicó** tal tiempo mientras **realizaba** Prapatti, **habrá retraso**,  
+Como **se ha dicho** en el Śloka: -
+
+> "El hombre que **desea realizar** tal karma  
+> Como es un medio para **obtener** otros beneficios (que Dios)  
+> **disfruta** de los placeres sin duda de dolor,  
+> y finalmente **adquiere** un disgusto para ellos (y el espíritu de renuncia),  
+> Después de lo cual **llega** a la morada de Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱैयवऩुक्कुम् ‘‘अथोपायप्रसक्तोऽपि भुक्त्वा भोगाननामयान् । अन्ते विरक्तिमासाद्य विशते वैष्णवं पदं’’(लक्ष्मीतन्त्रम् १७-१०३) ऎऩ्गिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वैराग्यावधिये विळम्बम् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+वैराग्यावधिक एव विलम्बो भवति । 
+</details>
+
+<details><summary>English</summary>
+
+In accordance with this,  
+the delay in his attainment (of the supreme goal) will be only until the birth of aversion to worldly objects.
+</details>
+
+<details><summary>Español</summary>
+
+De **acuerdo** con esto,
+La demora en su **logro** (del objetivo supremo) **será** solo hasta el nacimiento de la aversión a los objetos mundanos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वैराग्यावधिये विळम्बमायिरुक्कुम्। 
+</details>
+
+### देवतान्तर-स्पर्शः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देवतान्तर-स्पर्शम् **उण्ड् आय् इऱ्ऱागिलुम्**  
+सर्वेश्वरऩ् एद् एऩुम् ऒरु नाळिले  
+श्रुत्य्-उक्तम् आऩ बडिये परमैकान्तिगळोडे **सेर्त्तु**  
+लज्जावधिय् आगत् **तिरुत्तिय्**+++(=परिष्कृत्य)+++  
+इवऩ्-उडैय **व्यभिचारत्तैत् तीर्क्कुम्।** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+देवतान्तरस्पर्शे जातेऽपि  
+सर्वेश्वरो यस्मिन् कस्मिश्चिद् दिने  
+श्रुत्य्-उक्त-रीत्या परमैकान्तिभिः सह संयोज्य  
+लज्जावधिकं विशोध्यास्य **व्यभिचारं निवर्तयति** । 
+</details>
+
+
+<details><summary>English</summary>
+
+(4) In regard to contact with other deities,  
+the Ruler of All will bring him back some day or other  
+into the company of those who are staunchly and exclusively devoted to Bhagavān,  
+correct his lapse until he gets ashamed  
+and thus remove his deviation from the right path.
+</details>
+
+<details><summary>Español</summary>
+
+(4) con respecto al **contacto** con otras deidades,  
+El gobernante de todos lo **traerá de vuelta** algún día u otro  
+en la compañía de aquellos que **están dedicados** a Bhagavān de manera firme y exclusiva,  
+**corrija** su lapso hasta que **se avergüence**  
+y así **eliminar su desviación** del camino correcto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देवतान्तरस्पर्शमुण्डायिऱ्ऱागिलुम् सर्वेश्वरऩ् एदेऩुमॊरुनाळिलेश्रुत्युक्तमाऩबडिये परमैकान्तिकळोडे सेर्त्तु लज्जावधियागत्तिरुत्ति यिवऩुडैय व्यभिचारत्तैत् तीर्क्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सिलर्क्कु देवतान्तर-**स्पर्शम् निलै निऱ्कुम्** आगिल्  
+मुऩ्बु उपाय-स्पर्शम् इल्लै,  
+मेल् नरकादिगळुम् उण्ड्  
+
+ऎऩ्ऱ् अऱियलाम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+केषाञ्चित् देवतान्तर-स्पर्शस्य स्थायित्वे  
+पूर्वम् उपाय-स्पर्शाभावः,  
+पश्चात् नरकादिसंभवश्च मन्तव्यः । 
+</details>
+
+
+<details><summary>English</summary>
+
+If, in some, this contact with other deities becomes permanent,  
+it may be inferred that the adoption of prapatti as an upāya was incomplete in their case. 
+
+It may also be understood that  
+they may have such things as Naraka in future. 
+</details>
+
+<details><summary>Español</summary>
+
+Si, en algunos, este **contacto** con otras deidades se **vuelve permanente**,  
+Se puede **inferir** que la **adopción** de Prapatti como upāya **estaba incompleta** en su caso.
+
+También se puede **entender** que  
+**Pueden tener** cosas como Naraka en el futuro.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिलर्क्कु देवतान्तरस्पर्शम् निलै निऱ्कुमागिल् मुऩ्बु उपायस्पर्शमिल्लै, मेल् नरकादिगळुमुण्डॆऩ्ऱऱियलाम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩुक्कु भगवद्-विषयत्तिल् +++(प्रपत्ति)+++ कृतांशम् ऎऩ्ऱ्  
+एऩुम् ऒरु नाळ्  
+**उपाय-निष्पत्तियैप् पण्णिक् कार्य-करम् आम्।** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्य भगवद्-विषये कृतांशो  
+यस्मिन् कस्मिंश्चिद् दिने **उपाय-निष्पत्तिं कृत्वा**  
+**कार्य-करो** भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+In a man of this description,  
+the fragmentary prapatti performed to Bhagavān  
+may, at some time in the future,  
+attain completion and become effective.
+</details>
+
+<details><summary>Español</summary>
+
+En un hombre de esta descripción,  
+El fragmentario **Prapatti realizado** a Bhagavān  
+**puede**, en algún momento en el futuro,  
+**alcanzar la finalización y volverse efectivo**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩुक्कु भगवद्विषयत्तिल् कृतांशम् ऎऩ्ऱेऩुमॊरुनाळुपायनिष्पत्तियैप् पण्णिक् कार्यकरमाम्। 
+</details>
+
+### बुद्धि-दौर्बल्यम्, उपायान्तर-प्रावण्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महा-विश्वासम् पूर्णम् आगप् **पिऱन्दु प्रपत्ति पण्णिऩार्क्कु**   
+बुद्धि-दौर्बल्यमुम् उपायान्तर-प्रत्याशैयुम् पिऱवादु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+महाविश्वासे पूर्णतया जाते  
+प्रपत्तिं कृतवतां बुद्धि-दौर्बल्यम्  
+उपायान्तर-प्रत्याशा च  
+**न जायेयाताम्** । 
+</details>
+
+<details><summary>English</summary>
+
+(5) In those who performed prapatti after the rise of full and great faith,  
+there will not be any weak-mindedness  
+nor the desire to adopt other upāyas. 
+</details>
+
+<details><summary>Español</summary>
+
+(5) En aquellos que **realizaron** Prapatti después del **surgimiento** de Full and Great Faith,  
+**No habrá** ninguna mentalidad débil  
+**ni** el **deseo de adoptar** otros upāyas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+महाविश्वासम् पूर्णमागप् पिऱन्दु प्रपत्ति पण्णिऩार्क्कु बुद्धिदौर्बल्यमुम् उपायान्तरप्रत्याशैयुम् पिऱवादु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवै **पिऱन्द्**-अवर्गळुक्कु  
+मुऩ्बु पिऱन्द विश्वासम् **मन्दम् आय् इरुक्कुम्।** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इमे येषां जाते  
+तेषां पूर्वं जातो विश्वासो मन्दः स्यात् । 
+</details>
+
+
+<details><summary>English</summary>
+
+If these - viz., weak-mindedness and the desire to adopt other means -- are present,  
+it is to be inferred that their former faith was not strong enough. 
+</details>
+
+<details><summary>Español</summary>
+
+Si estos, a saber, la mentalidad débil y el **deseo de adoptar** otros medios, **están presentes**,  
+Debe **inferirse** que su fe anterior **no era** lo suficientemente fuerte.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवै पिऱन्दवर्गळुक्कु मुऩ्बु पिऱन्द विश्वासम् मन्दमायिरुक्कुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळैयुं सर्वेश्वरऩ्  
+महा-विश्वासावधियागत् **तिरुत्तिप्**+++(=परिष्कृत्य)+++  
+पूर्ण-प्रपत्ति-**निष्ठर् आक्कुम्।** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतानपि सर्वेश्वरो महाविश्वासावधिकं **विशोध्य**  
+पूर्ण-प्रपत्ति-**निष्ठान् करोति** । 
+</details>
+
+
+<details><summary>English</summary>
+
+The Lord of All will correct these men also  
+until they acquire great faith and make them perfect prapannas.
+</details>
+
+<details><summary>Español</summary>
+
+El Señor de todos corregirá a estos hombres también  
+Hasta que **adquieran** una gran fe y los **conviertan** en perfectas prapanias.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळैयुंसर्वेश्वरऩ् महाविश्वासावधियागत् तिरुत्तिप् पूर्णप्रपत्तिनिष्ठराक्कुम्। 
+</details>
+
+### वैपरीत्य-रहितेषु
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव् वैपरीत्यङ्गळ् उळ्  
+ऒऩ्ऱुम् **पिऱवादे नडन्दवर्गळुक्कु**  
+विळम्बादि-शङ्कैयुङ् कूड इल्लै। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषु वैपरीत्येषु यस्य कस्यापि जननम् अन्तरैव प्रवर्तमानानां  
+विलम्बादिशङ्काऽपि न भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+In the case of those in whom no such lapses occur,  
+there is no possibility at all of delay in the attainment (of the supreme goal). 
+</details>
+
+<details><summary>Español</summary>
+
+En el caso de aquellos en quienes **no ocurren** tales fallas,  
+**No hay posibilidad de retraso** en el logro (del objetivo supremo).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव् वैपरीत्यङ्गळुळॊऩ्ऱुम् पिऱवादे नडन्दवर्गळुक्कु विळम्बादिशङ्कैयुङ्गूड इल्लै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळुक्कु **इच्छावधि विळम्बम्।** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषाम् इच्छावधिक एव विलम्बः । 
+</details>
+
+
+<details><summary>English</summary>
+
+There will be delay for them only as long as they desire it. 
+</details>
+
+<details><summary>Español</summary>
+
+**Habrá** retraso para ellos solo mientras lo deseen.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळुक्कु इच्छावधि विळम्बम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळ् कोलिऩव् ऎल्लैयिल् मोक्षम् अ-विना-भूतम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषाम् उद्दिष्टे सीम्नि मोक्षोऽविनाभूतः । 
+</details>
+
+
+<details><summary>English</summary>
+
+They will attain mokṣa at the time when they desire to have it. 
+</details>
+
+<details><summary>Español</summary>
+
+**Llegarán** a Mokṣa en el momento en que **deseen tenerlo**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवर्गळ् कोलिऩ वॆल्लैयिल् मोक्षमविनाभूतम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन् निष्ठैयैप् पॆऱ्ऱ इव्व् अधिकारी  
+
+> '+++(चरम-श्लोक-सम्बन्धेन, उपायान्तर-विरहतया)+++ कडैत्-तलैय् +++(=द्वारि)+++ इरुन्दु वाऴुञ् शोम्बरैय्+++(=आलसम्)+++ **उगत्तिय्**'  
+> (तिरुमालै ३८।)  
+
+ऎऩ्गिऱ बडिये श्रियः-पतिय् आऩ सर्वेश्वरऩुक्कु  
+सर्वदा **ऽभिमतऩ् आय् इरुक्कुम्**। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१६०]] 
+
+एतां निष्ठां प्राप्तवानयम् अधिकारी 
+
+> " द्वारि स्थिर-वासिनो ऽलसान् अभिनन्दन्" 
+
+इत्य्-उक्त-रीत्या श्रियः पत्युः सर्वेश्वरस्य  
+सर्वदाऽभिमतो भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+The Adhikarī who has attained the true state of a prapanna  
+will always be the favourite of the Supreme Ruler,  
+who is the Lord of Lakṣmī ,  
+as pointed out in the passage. 
+
+> "O, Thou, Lord of Śrīraṅgam,  
+> that delightest in those idle\* men (prapannas )  
+> who stand outer-most  
+> (as being incapable of karma yoga, jñāna yoga or bhakti yoga )". 
+
+[ They are called 'idle', because,  
+after prapatti they do not seek any other upāya.  
+They are said to stand "outer-most" because,  
+being unable to adopt karma yoga, jñāna yoga and bhakti yoga,  
+they have adopted the upāya (prapatti) which is prescribed in the Carama śloka  of the Gita.]
+</details>
+
+<details><summary>Español</summary>
+
+El adhikarī que **ha alcanzado** el verdadero estado de una prapanna  
+siempre **será** el favorito del gobernante supremo,  
+quien es el señor de Lakṣmī,  
+Como **señaló** en el pasaje.
+
+> "Oh, tú, señor de Śrīraṅgam,  
+> Ese **deleite** en esos inactivos \* hombres (Prapannas)  
+> Quien **queda** más exterior  
+> (como **incapaz** de karma yoga, jñāna yoga o bhakti yoga) ".
+
+[Se les **llama** 'inactivo', porque,  
+Después de Prapatti **no buscan** ningún otro upāya.  
+**Se dice** que se **paran** "más exterior" porque,  
+**no poder adoptar** karma yoga, jñāna yoga y bhakti yoga,  
+**Han adoptado** el upāya (Prapatti) que **se prescribe** en el Carama Śloka de la Gita.]
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन् निष्ठैयैप् पॆऱ्ऱ इव्वधिकारी 'कडैत्तलै यिरुन्दु वाऴुञ्जोम्बरैयुगत्तिय्'(तिरुमालै ३८।)  ऎऩ्गिऱबडिये श्रियःपतियाऩ सर्वेश्वरऩुक्कु सर्वदाभिमतऩायिरुक्कुम्। 
+</details>
+
+### सुप्रपन्नय् ईश्वरोपकारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव् अऩ्ऱ् इऱत्तिल्  
+निरुपाधिक-सर्व-शेषिय् आय्  
+निरुपाधिक-स्वतन्त्रऩ् आय्  
+सत्य-सङ्कल्पऩुम् आऩ सर्वेश्वरऩ्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतद्विषये निरुपाधिक-सर्वशेषी निरुपाधिक-स्वतन्त्रः सत्य-संकल्पश् च भवन् सर्वेश्वरः  
+</details>
+
+
+<details><summary>English</summary>
+
+In the case of this prapanna,  
+the Lord who is the unconditional śeṣī of all,  
+who is independent of all others  
+and without limitations of any kind  
+and whose will is irresistible,  
+
+</details>
+
+<details><summary>Español</summary>
+
+En el caso de este Prapanna,  
+El Señor que **es** el incondicional Śeṣī de todos,  
+que **es** independiente de todos los demás  
+y sin limitaciones de ningún tipo  
+y cuya voluntad es irresistible,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऩ्ऱिऱत्तिल् निरुपाधिकसर्वशेषियाय्निरुपाधिकस्वतन्त्रऩाय् सत्यसङ्कल्पऩुमाऩ सर्वेश्वरऩ् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-भयङ्गळुक्कुम् कारणम् आऩ निग्रह-सङ्कल्पत्तै  
+
+> "तद्-अधिगम  
+> उत्तर-पूर्वाघयोर् अ-श्लेष-विनाशौ  
+> तद्-व्यपदेशात् +++(श्रुतिभिः)+++" 
+> (ब्रह्मसूत्रम् ४-१-१३) 
+
+ऎऩ्गिऱ बडिये  
+स-द्वारक प्रपत्ति-निष्ठऩुक्कु  
+उपासन-प्रारम्भत्तिऱ् पोले  
+प्रपत्ति-वाक्योच्चारणत्तिल् प्रथम-क्षणत्तिले **विलक्कि**,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सर्वभयानां कारणभूतं निग्रह-संकल्पं, 
+
+> "तद्-अधिगम  
+> उत्तर-पूर्वाघयोर् अ-श्लेष-विनाशौ  
+> तद्-व्यपदेशात् +++(श्रुतिभिः)+++" 
+> (ब्रह्मसूत्रम् ४-१-१३) 
+
+इत्य्-उक्त-रीत्या  
+स-द्वारक-प्रपत्ति-निष्ठस्योपासन-प्रारम्भ इव  
+प्रपत्ति-वाक्योच्चारणे प्रथम-क्षणे **विनिवर्त्य**  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वभयङ्गळुक्कुम् कारणमाऩ निग्रहसङ्कल्पत्तै ‘‘तदधिगम उत्तरपूर्वाघयोरश्लेषविनाशौ तद्वयपदेशात्’’(ब्रह्मसूत्रम् ४-१-१३) ऎऩ्गिऱबडिये सद्वारक प्रपत्तिनिष्ठऩुक्कु उपासनप्रारंभत्तिऱ्पोले प्रपत्तिवाक्योच्चारणत्तिल् प्रथमक्षणत्तिले विलक्कि,
+</details>
+
+
+withholds his desire to punish,  
+which is the cause of all fears,  
+at the very first moment in which he utters the sentence expressing prapatti,  
+in the same way as at the beginning of the meditation in the case of the upāsaka or bhakti yoga niṣṭhā,  
+who has adopted prapatti as a means to bhakti,  
+of whom it is said- 
+
+> " When the vidyā commences,  
+> the destruction of former sins and the absence of contact with subsequent sins (occur),  
+> for so the śrutis say". 
+
+The Lord makes up His mind (at that very instant) to bring him and those who are his followers into the company of the eternal sūris and, not satisfied with having done only this, He devours, as it were, all the heaps of sins committed by those who have sought Him and does not reveal any trace of them outside and feels also that He should stomach even more (of these sins). He removes the sins of his followers too, even when they are committed deliberately, by His will to grant the prapanna His blessing. In virtue of this, they will expiate their sins by repentance and the like. It is said: "He (the Lord) hastens to give Paramapada to the man who is fit for mukti". The Lord pities the prapanna for the delay which he has chosen and hastens to create in him an impatience of delay (in attainment). He produces in him an eagerness to attain the goal as illustrated in the following (verses ) :- “ Hereafter I do not want to be born in this world of ignorance" and "Do not deceive me as Thou didst before. I swear by Thee and by Thy queen whose beautiful locks of hair shed their fragrance like a garland on Thy chest - I swear that I must be taken to Paramapada." Having made him so eager and so impatient to obtain the goal, the Lord decides on giving him Paramapada as desired by him at the end of this life, which has come to him as a result of past karma: So has it been said :-"Our Lord" is the greatest benefactor that confers Vaikuṇṭha   on those who have performed prapatti, when they happen to die". The Lord* has already seen to it that the fetters of gold and iron which bind him to saṁsāra namely, his pāpa and puṇya, past and future, as also the karma which has begun to operate, except that portion of it which he has agreed to expiate (during this life) are cut off without any trace being left at all. [ Even puṇya karma which would lead to swarga is a fetter (though of gold ), because it stands in the way of mokṣa.] It is said :- "The sins of the past and the sins committed after prapatti vanish like cotton thrown in the fire." So when the time for leaving the body has come, the Lord causes his meritorious deeds (puṇya) and his sins (papa) to be divided and distributed among others, namely, those who were his well-wishers and those who did evil to him, respectively, as the consequence of the good and the evil wrougbt to him by them. For it has been said:-- "The man who is about to attain mukti leaves his puṇya and pāpa to his friends and foes respectively and attains Brahman as the fruit of bhakti yoga". and again "The sins which are notorious in this world and which, oppressive like Yama, make a man sink into saṁsāra left the man about to attain mukti without making the least noise and entered into plants (viz, his foes )". The authors of the Smṛtis have expressed the truth contained in the Upaniṣads in the manner stated above.
 
 THE PRAPANNA MAY DIE AT ANY TIME, DAY OR NIGHT, IN THE BRIGHT OR IN THE DARK HALF OF THE MONTH : ETC.
 
