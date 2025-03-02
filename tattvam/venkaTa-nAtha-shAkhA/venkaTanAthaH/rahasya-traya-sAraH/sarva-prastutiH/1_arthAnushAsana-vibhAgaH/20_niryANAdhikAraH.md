@@ -1238,6 +1238,14 @@ pero les **hace sentir** una aversión para ellos después.
 अक्-कालत्तुक्क् उळ्ळे प्रयोजनान्तर-**वैमुख्यम् पिऱन्दु विडुम्।** +++(4)+++
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मोक्ष-कालम् उद्दिश्य  
+प्रपत्तिं कृतवतस्  
+तत्-कालाभ्यन्तर एव प्रयोजनान्तर-वैमुख्यं जायेत । 
+</details>
+
+
 <details><summary>English</summary>
 
 Thus the man who performed prapatti indicating the time when he should attain mokṣa ,  
@@ -1279,12 +1287,15 @@ habrá adquirido una aversión a otros beneficios que el Señor dentro del tiemp
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
+अन्यस्यापि 
+
 > अथोपाय-प्रसक्तोऽपि  
 > **भुक्त्वा** भोगान् अनामयान् ।  
 > अन्ते विरक्तिम् **आसाद्य**  
 > **विशते** वैष्णवं पदम्॥  
 > (लक्ष्मीतन्त्रम् १७-१०३) 
 
+इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -1323,12 +1334,15 @@ Como **se ha dicho** en el Śloka: -
 वैराग्यावधिये विळम्बम् आय् इरुक्कुम्। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+वैराग्यावधिक एव विलम्बो भवति । 
+</details>
 
 <details><summary>English</summary>
 
 In accordance with this,  
 the delay in his attainment (of the supreme goal) will be only until the birth of aversion to worldly objects.
-
 </details>
 
 <details><summary>Español</summary>
@@ -1343,12 +1357,122 @@ La demora en su **logro** (del objetivo supremo) **será** solo hasta el nacimie
 वैराग्यावधिये विळम्बमायिरुक्कुम्। 
 </details>
 
+### देवतान्तर-स्पर्शः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देवतान्तर-स्पर्शम् **उण्ड् आय् इऱ्ऱागिलुम्**  
+सर्वेश्वरऩ् एद् एऩुम् ऒरु नाळिले  
+श्रुत्य्-उक्तम् आऩ बडिये परमैकान्तिगळोडे **सेर्त्तु**  
+लज्जावधिय् आगत् **तिरुत्तिय्**  
+इवऩ्-उडैय **व्यभिचारत्तैत् तीर्क्कुम्।** 
+</details>
+
+<details><summary>English</summary>
+
+(4) In regard to contact with other deities,  
+the Ruler of All will bring him back some day or other  
+into the company of those who are staunchly and exclusively devoted to Bhagavān,  
+correct his lapse until he gets ashamed  
+and thus remove his deviation from the right path.
+</details>
+
+<details><summary>Español</summary>
+
+(4) con respecto al **contacto** con otras deidades,  
+El gobernante de todos lo **traerá de vuelta** algún día u otro  
+en la compañía de aquellos que **están dedicados** a Bhagavān de manera firme y exclusiva,  
+**corrija** su lapso hasta que **se avergüence**  
+y así **eliminar su desviación** del camino correcto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देवतान्तरस्पर्शमुण्डायिऱ्ऱागिलुम् सर्वेश्वरऩ् एदेऩुमॊरुनाळिलेश्रुत्युक्तमाऩबडिये परमैकान्तिकळोडे सेर्त्तु लज्जावधियागत्तिरुत्ति यिवऩुडैय व्यभिचारत्तैत् तीर्क्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिलर्क्कु देवतान्तर-**स्पर्शम् निलै निऱ्कुम्** आगिल्  
+मुऩ्बु उपाय-स्पर्शम् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+If, in some, this contact with other deities becomes permanent,  
+it may be inferred that the adoption of prapatti as an upāya was incomplete in their case. 
+</details>
+
+<details><summary>Español</summary>
+
+Si, en algunos, este **contacto** con otras deidades se **vuelve permanente**,  
+Se puede **inferir** que la **adopción** de Prapatti como upāya **estaba incompleta** en su caso.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिलर्क्कु देवतान्तरस्पर्शम् निलै निऱ्कुमागिल् मुऩ्बु उपायस्पर्शमिल्लै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मेल् नरकादिगळुम् उण्ड् ऎऩ्ऱ् अऱियलाम्।  
+</details>
+
+
+<details><summary>English</summary>
+
+It may also be understood that  
+they may have such things as Naraka in future. 
+</details>
+
+<details><summary>Español</summary>
+
+También se puede **entender** que  
+**Pueden tener** cosas como Naraka en el futuro.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मेल् नरकादिगळुमुण्डॆऩ्ऱऱियलाम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩुक्कु भगवद्-विषयत्तिल् +++(प्रपत्ति)+++ कृतांशम् ऎऩ्ऱ्  
+एऩुम् ऒरु नाळ्  
+**उपाय-निष्पत्तियैप् पण्णिक् कार्य-करम् आम्।** 
+</details>
+
+<details><summary>English</summary>
+
+In a man of this description,  
+the fragmentary prapatti performed to Bhagavān  
+may, at some time in the future,  
+attain completion and become effective.
+</details>
+
+<details><summary>Español</summary>
+
+En un hombre de esta descripción,  
+El fragmentario **Prapatti realizado** a Bhagavān  
+**puede**, en algún momento en el futuro,  
+**alcanzar la finalización y volverse efectivo**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩुक्कु भगवद्विषयत्तिल् कृतांशम् ऎऩ्ऱेऩुमॊरुनाळुपायनिष्पत्तियैप् पण्णिक् कार्यकरमाम्। 
+</details>
 
 
 
-(4) In regard to contact with other deities, the Ruler of All will bring him back some day or other into the company of those who are staunchly and exclusively devoted to Bhagavān, correct his lapse until he gets ashamed and thus remove his deviation from the right path.
-
-If, in some, this contact with other deities becomes permanent, it may be inferred that the adoption of prapatti as an upāya was incomplete in their case. It may also be understood that they may have such things as Naraka in future. In a man of this description, the fragmentary prapatti performed to Bhagavān may, at some time in the future, attain completion and become effective.
 
 (5) In those who performed prapatti after the rise of full and great faith, there will not be any weak-mindedness nor the desire to adopt other upāyas. If these - viz., weak-mindedness and the desire to adopt other means -- are present, it is to be inferred that their former faith was not strong enough. The Lord of All will correct these men also until they acquire great faith and make them perfect prapannas.
 
