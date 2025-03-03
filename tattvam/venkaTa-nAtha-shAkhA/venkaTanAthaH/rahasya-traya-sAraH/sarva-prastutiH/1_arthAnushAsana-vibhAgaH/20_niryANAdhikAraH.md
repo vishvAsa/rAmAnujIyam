@@ -1838,9 +1838,203 @@ de quien se dice-
 सर्वभयङ्गळुक्कुम् कारणमाऩ निग्रहसङ्कल्पत्तै ‘‘तदधिगम उत्तरपूर्वाघयोरश्लेषविनाशौ तद्वयपदेशात्’’(ब्रह्मसूत्रम् ४-१-१३) ऎऩ्गिऱबडिये सद्वारक प्रपत्तिनिष्ठऩुक्कु उपासनप्रारंभत्तिऱ्पोले प्रपत्तिवाक्योच्चारणत्तिल् प्रथमक्षणत्तिले विलक्कि,
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩैयुम्, इवऩुडैयव् अनुबन्धिगळैयुम्  
+नित्य-सूरिकळ् कोर्वैयिले+++(=पङ्क्तौ)+++ कोर्त्तालुम्+++(=निवेश्यापि)+++  
+आवल्+++(=काङ्क्षां)+++ कॆडादे  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्यैतद्-अनुबन्धिनाञ् च  
+नित्य-सूरि-पङ्क्तौ निवेशनेऽप्य् अ-तृप्ताशम्  
+</details>
+
+<details><summary>English</summary>
+
+The Lord makes up His mind (at that very instant)  
+to bring him and those who are his followers  
+into the company of the eternal sūris  
+and, not satisfied with having done only this,  
+
+</details>
+
+<details><summary>Español</summary>
+
+El Señor **decide** (en ese mismo instante)  
+para **traerlo** a él y a los que son sus seguidores  
+en la compañía de la eterna sūris  
+Y, **no satisfecho con haber hecho** solo esto,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऩैयुमिवऩुडैय वनुबन्धिकळैयुम् नित्यसूरिकळ् कोर्वैयिले कोर्त्तालुमावल् कॆडादे  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आश्रितापराध-राशिगळिल् उण्डद्  
+उरुक्+++(=रूपं)+++ काट्टादे  
+वयिऱ्-उदारिय् आय् +++(4)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+आश्रितापराध-राशिषु भुक्तेष्व् अपि  
+भोक्तृत्वाकारम् अ-प्रदर्शयन्तम्  
+उदरम्-भरिम् 
+</details>
 
 
-The Lord makes up His mind (at that very instant) to bring him and those who are his followers into the company of the eternal sūris and, not satisfied with having done only this, He devours, as it were, all the heaps of sins committed by those who have sought Him and does not reveal any trace of them outside and feels also that He should stomach even more (of these sins). He removes the sins of his followers too, even when they are committed deliberately, by His will to grant the prapanna His blessing. In virtue of this, they will expiate their sins by repentance and the like. It is said: "He (the Lord) hastens to give Paramapada to the man who is fit for mukti". The Lord pities the prapanna for the delay which he has chosen and hastens to create in him an impatience of delay (in attainment). He produces in him an eagerness to attain the goal as illustrated in the following (verses ) :- “ Hereafter I do not want to be born in this world of ignorance" and "Do not deceive me as Thou didst before. I swear by Thee and by Thy queen whose beautiful locks of hair shed their fragrance like a garland on Thy chest - I swear that I must be taken to Paramapada." Having made him so eager and so impatient to obtain the goal, the Lord decides on giving him Paramapada as desired by him at the end of this life, which has come to him as a result of past karma: So has it been said :-"Our Lord" is the greatest benefactor that confers Vaikuṇṭha   on those who have performed prapatti, when they happen to die". The Lord* has already seen to it that the fetters of gold and iron which bind him to saṁsāra namely, his pāpa and puṇya, past and future, as also the karma which has begun to operate, except that portion of it which he has agreed to expiate (during this life) are cut off without any trace being left at all. [ Even puṇya karma which would lead to swarga is a fetter (though of gold ), because it stands in the way of mokṣa.] It is said :- "The sins of the past and the sins committed after prapatti vanish like cotton thrown in the fire." So when the time for leaving the body has come, the Lord causes his meritorious deeds (puṇya) and his sins (papa) to be divided and distributed among others, namely, those who were his well-wishers and those who did evil to him, respectively, as the consequence of the good and the evil wrougbt to him by them. For it has been said:-- "The man who is about to attain mukti leaves his puṇya and pāpa to his friends and foes respectively and attains Brahman as the fruit of bhakti yoga". and again "The sins which are notorious in this world and which, oppressive like Yama, make a man sink into saṁsāra left the man about to attain mukti without making the least noise and entered into plants (viz, his foes )". The authors of the Smṛtis have expressed the truth contained in the Upaniṣads in the manner stated above.
+<details><summary>English</summary>
+
+He devours, as it were, all the heaps of sins committed by those who have sought Him  
+and does not reveal any trace of them outside  
+and feels also that He should stomach even more (of these sins).  
+
+</details>
+
+<details><summary>Español</summary>
+
+Él **devora**, por así decirlo, todos los montones de pecados **cometidos** por quienes lo **han buscado**  
+y **no revela** ningún rastro de ellos afuera  
+y también **siente** que **debería soportar** aún más (de estos pecados).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आश्रितापराधराशिकळिलुण्डदुरुक्काट्टादे वयिऱुदारियाय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुबन्धिगळ्-उडैय बुद्धि-पूर्वापराधङ्गळुक्कुम्  
+अनुतापादिगळाले निस्तारम् पण्णु विक्कुम् बडिक्क्  
+ईडाऩ अनुग्रह-**सङ्कल्पत्तैप् पण्णि**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनुबन्धि-संबन्धि--बुद्धि-पूर्वापराधानाम् अपि  
+अनुतापादिना निस्तार-संपादनस्यानुगुणम्  
+**अनुग्रह-संकल्पं कृत्वा**,  
+</details>
+
+
+<details><summary>English</summary>
+
+He removes the sins of his followers too,  
+even when they are committed deliberately,  
+by His will to grant the prapanna His blessing.  
+~~In~~ By virtue of this,  
+they will expiate their sins by repentance and the like.  
+</details>
+
+<details><summary>Español</summary>
+
+Él **elimina** los pecados de sus seguidores también  
+Incluso cuando se **comprometen** deliberadamente,  
+por su voluntad de **otorgar** a la Prapanna su bendición.  
+~~ en ~~ en virtud de esto,  
+**Expilarán** sus pecados por arrepentimiento y similares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनुबन्धिगळुडैय बुद्धिपूर्वापराधङ्गळुक्कुमनुतापादिगळाले निस्तारम् पण्णुविक्कुम्बडिक्कीडाऩ अनुग्रहसङ्कल्पत्तैप्पण्णि, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'विण्ण्-उलगन् तरुवाऩ् आय् विरैगिऩ्ऱाऩ्'  
+> (तिरुवाय्मॊऴि १०-६-३) 
+
+ऎऩ्गिऱ बडियेय्  
+इवऩ् **इसैन्द** विळम्बत्तुक्कुत्  
+ताऩ् **सानुशयऩ्+++(=सोद्वेगः)+++ आय् त्वरित्तु**,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “10 द्युलोकं दित्सुस् त्वरते" 
+
+इत्य्-उक्त-रीत्या एतद्-अभिमत-विलम्बस्य कृते  
+स्वयं सानुशयस्+++(=सोद्वेगः)+++ सन् त्वरित्वा 
+</details>
+
+<details><summary>English</summary>
+
+It is said: 
+
+> "He (the Lord) hastens to give Paramapada  
+> to the man who is fit for mukti". 
+
+The Lord pities the prapanna  
+for the delay which he has chosen  
+and hastens to create in him an impatience of delay (in attainment). 
+</details>
+
+<details><summary>Español</summary>
+
+**Se dice**:
+
+> "Él (el Señor) **se acelera** para **dar** a Paramapada  
+> Al hombre que **está** en **forma** para Mukti ".
+
+El Señor **se huele** la Prapanna  
+por la demora que **ha elegido**  
+y **se acelera** para **crear** en él una **impaciencia** de retraso (en el logro).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'विण्णुलगन्दरुवाऩाय् विरैगिऩ्ऱा'(तिरुवाय्मॊऴि १०-६-३) ऩॆऩ्गिऱबडियेयिवऩिसैन्द विळम्बत्तुक्कुत् ताऩ् सानुशयऩाय् त्वरित्तु,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'इरुळ्-तरुमा ञालत्त्+++(=भुवनस्य)+++ उळ् इऩिप्+++(=इतः परम्)+++ **पिऱवि**  
+> याऩ् **वेण्डेऩ्**'(तिरुवाय्मॊऴि १०-६-१।) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> तमः-प्रदद्-महा-भूमाव् इतः परं जन्माहं न वाञ्च्छामि ", 
+</details>
+
+<details><summary>English</summary>
+
+> “ Hereafter I do not want to be born in this world of ignorance" 
+
+and 
+</details>
+
+<details><summary>Español</summary>
+
+> "En adelante, **no quiero nacer** en este mundo de ignorancia"
+
+y
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'इरुळ्दरुमाञालत्तुळिऩिप्पिऱवि याऩ् वेण्डे'(तिरुवाय्मॊऴि १०-६-१।) ऩॆऩ्ऱुम्, 
+</details>
+
+
+
+He produces in him an eagerness to attain the goal as illustrated in the above ~~following~~ (verses ) :- 
+
+"Do not deceive me as Thou didst before. I swear by Thee and by Thy queen whose beautiful locks of hair shed their fragrance like a garland on Thy chest - I swear that I must be taken to Paramapada." Having made him so eager and so impatient to obtain the goal, the Lord decides on giving him Paramapada as desired by him at the end of this life, which has come to him as a result of past karma: So has it been said :-"Our Lord" is the greatest benefactor that confers Vaikuṇṭha   on those who have performed prapatti, when they happen to die". The Lord* has already seen to it that the fetters of gold and iron which bind him to saṁsāra namely, his pāpa and puṇya, past and future, as also the karma which has begun to operate, except that portion of it which he has agreed to expiate (during this life) are cut off without any trace being left at all. [ Even puṇya karma which would lead to swarga is a fetter (though of gold ), because it stands in the way of mokṣa.] It is said :- "The sins of the past and the sins committed after prapatti vanish like cotton thrown in the fire." So when the time for leaving the body has come, the Lord causes his meritorious deeds (puṇya) and his sins (papa) to be divided and distributed among others, namely, those who were his well-wishers and those who did evil to him, respectively, as the consequence of the good and the evil wrougbt to him by them. For it has been said:-- "The man who is about to attain mukti leaves his puṇya and pāpa to his friends and foes respectively and attains Brahman as the fruit of bhakti yoga". and again "The sins which are notorious in this world and which, oppressive like Yama, make a man sink into saṁsāra left the man about to attain mukti without making the least noise and entered into plants (viz, his foes )". The authors of the Smṛtis have expressed the truth contained in the Upaniṣads in the manner stated above.
 
 THE PRAPANNA MAY DIE AT ANY TIME, DAY OR NIGHT, IN THE BRIGHT OR IN THE DARK HALF OF THE MONTH : ETC.
 
