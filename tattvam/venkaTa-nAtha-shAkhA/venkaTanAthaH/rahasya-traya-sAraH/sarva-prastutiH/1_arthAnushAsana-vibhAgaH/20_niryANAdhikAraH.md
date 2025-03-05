@@ -2030,11 +2030,150 @@ y
 'इरुळ्दरुमाञालत्तुळिऩिप्पिऱवि याऩ् वेण्डे'(तिरुवाय्मॊऴि १०-६-१।) ऩॆऩ्ऱुम्, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'मायञ् जॆय्येल् ऎऩ्ऩैय्'  
+(तिरुवाय्मॊऴि १०-१०-२) 
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये  
+इवऩुक्क् इसैवैय् उण्डाक्कि, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "12 मायां मा कार्षीर् मद्-विषये" 
+
+इति चोक्त-रीत्या **ऽस्याङ्गी-कारम् उपजनय्य** 
+</details>
 
 
-He produces in him an eagerness to attain the goal as illustrated in the above ~~following~~ (verses ) :- 
+<details><summary>English</summary>
 
-"Do not deceive me as Thou didst before. I swear by Thee and by Thy queen whose beautiful locks of hair shed their fragrance like a garland on Thy chest - I swear that I must be taken to Paramapada." Having made him so eager and so impatient to obtain the goal, the Lord decides on giving him Paramapada as desired by him at the end of this life, which has come to him as a result of past karma: So has it been said :-"Our Lord" is the greatest benefactor that confers Vaikuṇṭha   on those who have performed prapatti, when they happen to die". The Lord* has already seen to it that the fetters of gold and iron which bind him to saṁsāra namely, his pāpa and puṇya, past and future, as also the karma which has begun to operate, except that portion of it which he has agreed to expiate (during this life) are cut off without any trace being left at all. [ Even puṇya karma which would lead to swarga is a fetter (though of gold ), because it stands in the way of mokṣa.] It is said :- "The sins of the past and the sins committed after prapatti vanish like cotton thrown in the fire." So when the time for leaving the body has come, the Lord causes his meritorious deeds (puṇya) and his sins (papa) to be divided and distributed among others, namely, those who were his well-wishers and those who did evil to him, respectively, as the consequence of the good and the evil wrougbt to him by them. For it has been said:-- "The man who is about to attain mukti leaves his puṇya and pāpa to his friends and foes respectively and attains Brahman as the fruit of bhakti yoga". and again "The sins which are notorious in this world and which, oppressive like Yama, make a man sink into saṁsāra left the man about to attain mukti without making the least noise and entered into plants (viz, his foes )". The authors of the Smṛtis have expressed the truth contained in the Upaniṣads in the manner stated above.
+He produces in him an eagerness to attain the goal as illustrated in the following (verses ) :- 
+
+> "Do not deceive me as Thou didst before." 
+</details>
+
+<details><summary>Español</summary>
+
+Produce en él un entusiasmo por **alcanzar** el objetivo como **se ilustra** en lo siguiente (versos):-
+
+> "No me **engañes** como lo **hiciste** antes".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'मायञ्जॆय्येलॆऩ्ऩै'(तिरुवाय्मॊऴि १०-१०-२) यॆऩ्ऱुञ् जॊल्लुगिऱबडिये इवऩुक्किसैवै युण्डाक्कि, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'उऩ् तिरु-मार्व्-अत्तु+++(=भूषण)+++-मालै नङ्गै+++(=पूर्णा)+++ वासञ्+++(=वासनां)+++ जॆय् पूङ्+++(=पुष्प/सुन्दर)+++-कुऴलाळ्+++(=कुन्तल)+++ तिरुव् आणै, निऩ्ऩ्-आणैय् '  
+> (तिरुवाय्मॊऴि १०-१०-२।) 
+
+ऎऩ्ऱु  
+इवऩ् ताऩ् त्वरित्तु वळैक्कुम् बडि पण्णि,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१६१]] 
+
+> “18 तव वक्षो-मालया पूर्णया वासना-कर-सुन्दर (पुष्पालंकृत) केश्या श्रिया **शापितोऽसि**, त्वया **शापितोऽसि**" 
+
+इति  
+अयं स्वयं त्वरित्वा यथा **निर्बन्धं कुर्यात्**  
+तथा **कृत्वा**, 
+</details>
+
+
+<details><summary>English</summary>
+
+> I swear by Thee and by Thy queen  
+whose beautiful locks of hair shed their fragrance like a garland on Thy chest -  
+I swear that I must be taken to Paramapada.
+
+Having made him so eager and so impatient to obtain the goal, 
+</details>
+
+<details><summary>Español</summary>
+
+> Lo **juro** por ti y por tu reina  
+cuyas hermosas cerraduras de cabello  
+**arrojan** su fragancia como una guirnalda en tu pecho -  
+**Juro** que **debe ser llevado** a Paramapada 
+
+**Haberlo hecho** tan ansioso e impaciente para **obtener** el objetivo,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'उऩ् तिरुमार्वत्तुमालै नङ्गै वासञ्जॆय् पूङ्गुऴलाळ् तिरुवाणै निऩ्ऩाणै'(तिरुवाय्मॊऴि १०-१०-२।) यॆऩ्ऱुइवऩ् ताऩ् त्वरित्तु वळैक्कुम्बडि पण्णि,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'शरणम् आगुन् तऩ ताळ्-अडैन्दार्क्क् ऎल्लाम्  
+> मरणम् आऩाल्  
+> वैगुन्दम् कॊडुक्कुम् बिराऩ्'  
+> (तिरुवाय्मॊऴि ९-१०-५) +++(5)+++
+
+ऎऩ्गिऱ बडिये  
+इवऩ् कोलुदलुक्क् ईड्-आग  
+प्रारब्ध-शरीरावसानत्तिले  
+परम-पद-प्राप्तिय् उण्डाक्कुवद् आगक् कोलि, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "14 शरणं भवन्  
+> स्वचरणाश्रितानां सर्वेषां मरणे जाते  
+> वैकुण्ठ-प्रद उपकारकः "  
+
+इत्य्-उक्त-रीत्या एतत्-प्रार्थनानुगुणं प्रारब्ध-शरीरावसाने  
+परम-पद-प्राप्ति-संपादनं संकल्प्य, 
+</details>
+
+<details><summary>English</summary>
+
+the Lord decides on giving him Paramapada  
+as desired by him at the end of this life,  
+which has come to him as a result of past karma:  
+So has it been said :-
+
+> "Our Lord is the greatest benefactor  
+> that confers Vaikuṇṭha  
+> on those who have performed prapatti,  
+> when they happen to die". +++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+El Señor **decide** **darle** Paramapada  
+Como lo **desee** al final de esta vida,  
+que **ha llegado** a él como **resultado** del karma pasado:  
+Entonces se **ha dicho**:-
+
+> "Nuestro Señor **es** el mayor benefactor  
+> que **confiere** a Vaikuṇṭha  
+> En aquellos que **han realizado** Prapatti,  
+> Cuando **mueren** ". +++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'सरणमागुन् दऩ ताळडैन्दार्क्कॆल्लाम् मरणमाऩाल् वैगुन्दम् कॊडुक्कुम्बिराऩ्' (तिरुवाय्मॊऴि ९-१०-५) ऎऩ्गिऱबडिये इवऩ् कोलुदलुक्कीडाग प्रारब्धशरीरावसानत्तिले परमपदप्राप्तियुण्डाक्कुवदागक् कोलि, 
+</details>
+
+
+
+
+
+The Lord* has already seen to it that the fetters of gold and iron which bind him to saṁsāra namely, his pāpa and puṇya, past and future, as also the karma which has begun to operate, except that portion of it which he has agreed to expiate (during this life) are cut off without any trace being left at all. [ Even puṇya karma which would lead to swarga is a fetter (though of gold ), because it stands in the way of mokṣa.] It is said :- "The sins of the past and the sins committed after prapatti vanish like cotton thrown in the fire." So when the time for leaving the body has come, the Lord causes his meritorious deeds (puṇya) and his sins (papa) to be divided and distributed among others, namely, those who were his well-wishers and those who did evil to him, respectively, as the consequence of the good and the evil wrougbt to him by them. For it has been said:-- "The man who is about to attain mukti leaves his puṇya and pāpa to his friends and foes respectively and attains Brahman as the fruit of bhakti yoga". and again "The sins which are notorious in this world and which, oppressive like Yama, make a man sink into saṁsāra left the man about to attain mukti without making the least noise and entered into plants (viz, his foes )". The authors of the Smṛtis have expressed the truth contained in the Upaniṣads in the manner stated above.
 
 THE PRAPANNA MAY DIE AT ANY TIME, DAY OR NIGHT, IN THE BRIGHT OR IN THE DARK HALF OF THE MONTH : ETC.
 
