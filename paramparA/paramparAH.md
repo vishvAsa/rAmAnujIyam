@@ -8,6 +8,11 @@ unicode_script = "devanagari"
 [नाट्टेरि-बोधनम्](https://archive.org/details/natteri-guru-paramparA_tamiL) ।
 [रहस्यत्रयसारः](/rAmAnujIyam/tattvam/venkaTanAthaH/rahasya-traya-sAraH/sarva-prastutiH/1_arthAnushAsana-vibhAgaH/00_shrIguruparaMparAsAraH/) ।
 
+GPPs themselves are very late and very suspect anyway. 
+
+- Only yatiraja vaibhavam of vaduga nambi seems to be really contemporary. 
+- Venkatachala itihasa mala is later day fraud.
+- Divyasuri carita seems to be actually the work of a later garuDa-vAhana pandita and not the contemporary of ramanuja.
 </details>
 
 ## आचार्य-विभागः
