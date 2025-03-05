@@ -2186,6 +2186,21 @@ Entonces se **ha dicho**:-
 मुऩ्बेय् इवऩोडु तुवक्क् अऱुत्तु वैक्कैयाल् 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वर्णायोमय-शृङ्खलावद्-बन्धकयोः पूर्वोसर-पुण्य-पापयोः  
+प्रारब्ध-कार्ये कर्मणि  
+एतद्-अभ्युपगतांश-व्यतिरिक्तस्य भागस्य च, 
+
+> अतीताः पूर्व-कालोत्पन्नाः अपराधाः  
+> प्रवेशाय स्थिताश् च ( आगामिनश् च ) अपराधा  
+> अग्नौ तूलं भवेयुः” 
+
+इत्य्-उक्त-रीत्या  
+पूर्वम् एवैतत्-संबन्ध-विच्छेदन-पूर्वम् अवस्थापनात्  
+
+</details>
+
 <details><summary>English</summary>
 
 The Lord has already seen to it that  
@@ -2233,11 +2248,118 @@ Porque se interpone en el camino de Mokṣa.] +++ (4) +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+शरीर-पातत्तुक्कु निऩैप्प् इट्ट समयम् वन्दव् आऱे  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+शरीर-पातार्थ-संकल्पित-समये आसीदत्य् एव, 
+</details>
+
+<details><summary>English</summary>
+
+So when the time for leaving the body has come,  
+</details>
+
+<details><summary>Español</summary>
+
+Entonces, cuando **ha llegado** el momento de salir del cuerpo,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शरीरपातत्तुक्कुनिऩैप्पिट्ट समयम् वन्दवाऱे  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रियेषु स्वेषु सुकृतम्  
+> अप्रियेषु च दुष्कृतं ।  
+> **विसृज्य** ध्यान-योगेन  
+> **ब्रह्माऽभ्येति** सनातनम्॥+++(5)+++  
+> (मनुस्मृति ६-७९।) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विषयः</summary>
+
+पुण्यम्, पापम्, प्रजाः, मोक्षः, धर्मः
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> प्रियेषु स्वेषु सुकृतम्  
+> अप्रियेषु च दुष्कृतं ।  
+> **विसृज्य** ध्यान-योगेन  
+> **ब्रह्माऽभ्येति** सनातनम्॥+++(5)+++  
+> (मनुस्मृति ६-७९।) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+For it has been said:-- 
+
+> "The man who is about to attain mukti  
+> leaves his puṇya and pāpa to his friends and foes respectively  
+> and attains Brahman as the fruit of bhakti yoga". 
+</details>
+
+<details><summary>Español</summary>
+
+Porque **se ha dicho**:-
+
+> "El hombre que está a punto de **alcanzar** Mukti  
+> **Deja** su puṇya y pāpa a sus amigos y enemigos respectivamente  
+> y **alcanza** Brahman como el fruto de Bhakti Yoga ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रियेषु स्वेषु सुकृतमप्रियेषु च दुष्कृतं । विसृज्य ध्यानयोगेन ब्रह्माऽभ्येति सनातनं’’(मनुस्मृति ६-७९।) ऎऩ्ऱुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 > 'नम्मऩ् बोले वीऴ्त्-तमुक्कुम् नाट्टिल् उळ्ळ पावम् ऎल्लाञ् जुम्मॆऩादे कैविट्टोडित् तूऱुगळ् पाय्न्दऩवेय्'  
 > (पॆरियाऴ्वार् तिरुमॊऴि ५-४-३।) 
 
 ऎऩ्ऱुम् स्मर्ताक्कळ् सॊऩ्ऩ उपनिषद्-अर्थत्तिऩ् पडिये 
 </details>
+
+<details><summary>English</summary>
+
+and again 
+
+> "The sins which are notorious in this world and which, oppressive like Yama, make a man sink into saṁsāra  
+> left the man about to attain mukti  
+> without making the least noise  
+> and entered into plants (viz, his foes )". 
+
+The authors of the Smṛtis have expressed the truth contained in the Upaniṣads  
+in the manner stated above.
+</details>
+
+<details><summary>Español</summary>
+
+and again 
+
+> "The sins which are notorious in this world and which, oppressive like Yama, make a man sink into saṁsāra  
+> left the man about to attain mukti  
+> without making the least noise  
+> and entered into plants (viz, his foes )". 
+
+The authors of the Smṛtis have expressed the truth contained in the Upaniṣads  
+in the manner stated above.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2245,7 +2367,17 @@ Porque se interpone en el camino de Mokṣa.] +++ (4) +++
 </details>
 
 
-So when the time for leaving the body has come, the Lord causes his meritorious deeds (puṇya) and his sins (papa) to be divided and distributed among others, namely, those who were his well-wishers and those who did evil to him, respectively, as the consequence of the good and the evil wrougbt to him by them. For it has been said:-- "The man who is about to attain mukti leaves his puṇya and pāpa to his friends and foes respectively and attains Brahman as the fruit of bhakti yoga". and again "The sins which are notorious in this world and which, oppressive like Yama, make a man sink into saṁsāra left the man about to attain mukti without making the least noise and entered into plants (viz, his foes )". The authors of the Smṛtis have expressed the truth contained in the Upaniṣads in the manner stated above.
+
+
+
+the Lord causes his meritorious deeds (puṇya) and his sins (papa) to be divided and distributed among others,  
+namely, those who were his well-wishers  
+and those who did evil to him, respectively,  
+as the consequence of the good and the evil wrought to him by them. 
+
+
+
+
 
 THE PRAPANNA MAY DIE AT ANY TIME, DAY OR NIGHT, IN THE BRIGHT OR IN THE DARK HALF OF THE MONTH : ETC.
 
