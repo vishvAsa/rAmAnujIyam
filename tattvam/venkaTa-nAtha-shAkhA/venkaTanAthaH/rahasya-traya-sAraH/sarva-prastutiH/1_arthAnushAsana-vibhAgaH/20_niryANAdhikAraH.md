@@ -2169,11 +2169,215 @@ Entonces se **ha dicho**:-
 'सरणमागुन् दऩ ताळडैन्दार्क्कॆल्लाम् मरणमाऩाल् वैगुन्दम् कॊडुक्कुम्बिराऩ्' (तिरुवाय्मॊऴि ९-१०-५) ऎऩ्गिऱबडिये इवऩ् कोलुदलुक्कीडाग प्रारब्धशरीरावसानत्तिले परमपदप्राप्तियुण्डाक्कुवदागक् कोलि, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पॊऩ्ऩुम् इरुम्बुम्+++(=अयः)+++ आऩ विलङ्गुगळ् पोले  
+बन्धकङ्गळ् आऩ पूर्वोत्तर-पुण्य-पापङ्गळैयुम्  
+
+प्रारब्ध-कार्यम् आऩ कर्मत्तिल्  
+इवऩ् इसैन्द अंशम् ऒऴिय मेल् उळ्ळ कूऱ्ऱैयुम्+++(=भागञ्च)+++  
+
+> 'पोय-बिऴैयुम्+++(=पापञ्च)+++  
+> पुगु-तरुवा निऩ्ऱऩवुन्  
+> तीयिऩिल् +तूस्+++(=क्षुद्रम् → तूला)+++ आगुम्'  
+> (तिरुप्पावै ५) 
+
+ऎऩ्गिऱ बडिये  
+मुऩ्बेय् इवऩोडु तुवक्क् अऱुत्तु वैक्कैयाल् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वर्णायोमय-शृङ्खलावद्-बन्धकयोः पूर्वोसर-पुण्य-पापयोः  
+प्रारब्ध-कार्ये कर्मणि  
+एतद्-अभ्युपगतांश-व्यतिरिक्तस्य भागस्य च, 
+
+> अतीताः पूर्व-कालोत्पन्नाः अपराधाः  
+> प्रवेशाय स्थिताश् च ( आगामिनश् च ) अपराधा  
+> अग्नौ तूलं भवेयुः” 
+
+इत्य्-उक्त-रीत्या  
+पूर्वम् एवैतत्-संबन्ध-विच्छेदन-पूर्वम् अवस्थापनात्  
+
+</details>
+
+<details><summary>English</summary>
+
+The Lord has already seen to it that  
+the fetters of gold and iron which bind him to saṁsāra  
+namely, his pāpa and puṇya, past and future,  
+as also the karma which has begun to operate,  
+except that portion of it which he has agreed to expiate (during this life)  
+are cut off without any trace being left at all.  
+
+[ Even puṇya karma which would lead to swarga is a fetter (though of gold ),  
+because it stands in the way of mokṣa.]+++(4)+++ 
+
+It is said :- 
+
+> "The sins of the past  
+> and the sins committed after prapatti  
+> vanish like cotton thrown in the fire." 
+</details>
+
+<details><summary>Español</summary>
+
+El Señor ya **se ha visto** que  
+los grilletes de oro y hierro que lo **unen** a Saṁsāra  
+a saber, su pāpa y puṇya, pasado y futuro,  
+Como también el karma que **ha comenzado a operar**,  
+excepto esa parte de la que **ha acordado expiar** (durante esta vida)  
+se **cortan** sin que se deje ningún rastro.
+
+[Incluso Puṇya Karma que **conduciría** a Swarga  
+es un gruñido (aunque de oro),  
+Porque se interpone en el camino de Mokṣa.] +++ (4) +++
+
+**Se dice**:-
+
+> "Los pecados del pasado  
+> y los pecados **cometidos** después de Prapatti  
+> **Venisca** como algodón **arrojado** al fuego ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पॊऩ्ऩुमिरुम्बुमाऩ विलङ्गुगळ् पोले बन्धकङ्गळाऩ पूर्वोत्तरपुण्यपापङ्गळैयुम् प्रारब्धकार्यमाऩ कर्मत्तिल् इवऩिसैन्द अंशमॊऴिय मेलुळ्ळ कूऱ्ऱैयुम् 'पोयबिऴैयुम् पुगुदरुवा निऩ्ऱऩवुन्दीयिऩिऱ्ऱूसागुम्'(तिरुप्पावै ५) ऎऩ्गिऱबडिये मुऩ्बेयिवऩोडु तुवक्कऱुत्तुवैक्कैयाल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरीर-पातत्तुक्कु निऩैप्प् इट्ट समयम् वन्दव् आऱे  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+शरीर-पातार्थ-संकल्पित-समये आसीदत्य् एव, 
+</details>
+
+<details><summary>English</summary>
+
+So when the time for leaving the body has come,  
+</details>
+
+<details><summary>Español</summary>
+
+Entonces, cuando **ha llegado** el momento de salir del cuerpo,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शरीरपातत्तुक्कुनिऩैप्पिट्ट समयम् वन्दवाऱे  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रियेषु स्वेषु सुकृतम्  
+> अप्रियेषु च दुष्कृतं ।  
+> **विसृज्य** ध्यान-योगेन  
+> **ब्रह्माऽभ्येति** सनातनम्॥+++(5)+++  
+> (मनुस्मृति ६-७९।) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विषयः</summary>
+
+पुण्यम्, पापम्, प्रजाः, मोक्षः, धर्मः
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> प्रियेषु स्वेषु सुकृतम्  
+> अप्रियेषु च दुष्कृतं ।  
+> **विसृज्य** ध्यान-योगेन  
+> **ब्रह्माऽभ्येति** सनातनम्॥+++(5)+++  
+> (मनुस्मृति ६-७९।) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+For it has been said:-- 
+
+> "The man who is about to attain mukti  
+> leaves his puṇya and pāpa to his friends and foes respectively  
+> and attains Brahman as the fruit of bhakti yoga". 
+</details>
+
+<details><summary>Español</summary>
+
+Porque **se ha dicho**:-
+
+> "El hombre que está a punto de **alcanzar** Mukti  
+> **Deja** su puṇya y pāpa a sus amigos y enemigos respectivamente  
+> y **alcanza** Brahman como el fruto de Bhakti Yoga ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रियेषु स्वेषु सुकृतमप्रियेषु च दुष्कृतं । विसृज्य ध्यानयोगेन ब्रह्माऽभ्येति सनातनं’’(मनुस्मृति ६-७९।) ऎऩ्ऱुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'नम्मऩ् बोले वीऴ्त्-तमुक्कुम् नाट्टिल् उळ्ळ पावम् ऎल्लाञ् जुम्मॆऩादे कैविट्टोडित् तूऱुगळ् पाय्न्दऩवेय्'  
+> (पॆरियाऴ्वार् तिरुमॊऴि ५-४-३।) 
+
+ऎऩ्ऱुम् स्मर्ताक्कळ् सॊऩ्ऩ उपनिषद्-अर्थत्तिऩ् पडिये 
+</details>
+
+<details><summary>English</summary>
+
+and again 
+
+> "The sins which are notorious in this world and which, oppressive like Yama, make a man sink into saṁsāra  
+> left the man about to attain mukti  
+> without making the least noise  
+> and entered into plants (viz, his foes )". 
+
+The authors of the Smṛtis have expressed the truth contained in the Upaniṣads  
+in the manner stated above.
+</details>
+
+<details><summary>Español</summary>
+
+and again 
+
+> "The sins which are notorious in this world and which, oppressive like Yama, make a man sink into saṁsāra  
+> left the man about to attain mukti  
+> without making the least noise  
+> and entered into plants (viz, his foes )". 
+
+The authors of the Smṛtis have expressed the truth contained in the Upaniṣads  
+in the manner stated above.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'नम्मऩ्बोले वीऴ्त्तमुक्कुम् नाट्टिलुळ्ळ पावमॆल्लाञ्जुम्मॆऩादे कैविट्टोडित् तूऱुगळ् पाय्न्दऩवेय्' (पॆरियाऴ्वार् तिरुमॊऴि ५-४-३।) ऎऩ्ऱुम् स्मर्ताक्कळ् सॊऩ्ऩ उपनिषदर्थत्तिऩ् पडिये 
+</details>
 
 
 
 
-The Lord* has already seen to it that the fetters of gold and iron which bind him to saṁsāra namely, his pāpa and puṇya, past and future, as also the karma which has begun to operate, except that portion of it which he has agreed to expiate (during this life) are cut off without any trace being left at all. [ Even puṇya karma which would lead to swarga is a fetter (though of gold ), because it stands in the way of mokṣa.] It is said :- "The sins of the past and the sins committed after prapatti vanish like cotton thrown in the fire." So when the time for leaving the body has come, the Lord causes his meritorious deeds (puṇya) and his sins (papa) to be divided and distributed among others, namely, those who were his well-wishers and those who did evil to him, respectively, as the consequence of the good and the evil wrougbt to him by them. For it has been said:-- "The man who is about to attain mukti leaves his puṇya and pāpa to his friends and foes respectively and attains Brahman as the fruit of bhakti yoga". and again "The sins which are notorious in this world and which, oppressive like Yama, make a man sink into saṁsāra left the man about to attain mukti without making the least noise and entered into plants (viz, his foes )". The authors of the Smṛtis have expressed the truth contained in the Upaniṣads in the manner stated above.
+
+the Lord causes his meritorious deeds (puṇya) and his sins (papa) to be divided and distributed among others,  
+namely, those who were his well-wishers  
+and those who did evil to him, respectively,  
+as the consequence of the good and the evil wrought to him by them. 
+
+
+
+
 
 THE PRAPANNA MAY DIE AT ANY TIME, DAY OR NIGHT, IN THE BRIGHT OR IN THE DARK HALF OF THE MONTH : ETC.
 
