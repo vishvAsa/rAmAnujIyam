@@ -3,6 +3,9 @@ title = "ॐ नमो नारायणाय"
 unicode_script = "devanagari"
 +++
 
+(मन्त्रं यत्नेन गोपयेत्।)
+
+
 <details><summary>न्यासः</summary>
 
 - ना॒राय॑ण ऋषिः॑
