@@ -13,6 +13,8 @@ GPPs themselves are very late and very suspect anyway.
 - Only yatiraja vaibhavam of vaduga nambi seems to be really contemporary. 
 - Venkatachala itihasa mala is later day fraud.
 - Divyasuri carita seems to be actually the work of a later garuDa-vAhana pandita and not the contemporary of ramanuja.
+
+Koyilozhuku cannot be taken too seriously beyond a limit - unless you can substantiate it with inscriptions. The kind of dates which it gives for Azhvars or even the first turushka invasion are untenable. It also leaves out several ket events which are referred to in the vijayanagar inscriptions (like visit of the vnagar emperors and their grants).
 </details>
 
 ## आचार्य-विभागः
