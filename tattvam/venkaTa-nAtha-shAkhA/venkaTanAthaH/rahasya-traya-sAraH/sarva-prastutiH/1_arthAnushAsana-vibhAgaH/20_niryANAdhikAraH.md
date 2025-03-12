@@ -2328,11 +2328,26 @@ Porque **se ha dicho**:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'नम्मऩ् बोले वीऴ्त्-तमुक्कुम् नाट्टिल् उळ्ळ पावम् ऎल्लाञ् जुम्मॆऩादे कैविट्टोडित् तूऱुगळ् पाय्न्दऩवेय्'  
+> 'नम्मऩ्+++(=यम)+++ बोले **वीऴ्त्+++(=निपात्य)+++ तमुक्कुम्**+++(=प्रख्यान्ति)+++  
+> नाट्टिल् उळ्ळ पावम् ऎल्लाञ्  
+> जुम्म् **ऎऩादे**  
+> कैविट्ट् **ओडित्**  
+> तूऱुगळ् पाय्न्दऩवेय्'  
 > (पॆरियाऴ्वार् तिरुमॊऴि ५-४-३।) 
 
-ऎऩ्ऱुम् स्मर्ताक्कळ् सॊऩ्ऩ उपनिषद्-अर्थत्तिऩ् पडिये 
+ऎऩ्ऱुम् स्मर्ताक्कळ्+++(→पॆरियाऴ्वार्)+++ सॊऩ्ऩ उपनिषद्-अर्थत्तिऩ् पडिये 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> यमवन् निपात्य आक्रामन्ति लोक-गतानि पापानि सर्वाणि  
+> उच्छ्वसितुम् अप्य् अशक्नुवन्ति  
+> सवासनं त्यक्त्वा  
+> धावित्वा गुल्मान् प्राविशन्” 
+
+इति च स्मर्त्र्+++(→पॆरियाऴ्वार्)+++-उक्तोपनिषदर्थ-रीत्या 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2349,15 +2364,17 @@ in the manner stated above.
 
 <details><summary>Español</summary>
 
-and again 
+y de nuevo
 
-> "The sins which are notorious in this world and which, oppressive like Yama, make a man sink into saṁsāra  
-> left the man about to attain mukti  
-> without making the least noise  
-> and entered into plants (viz, his foes )". 
+> "Los pecados que son conocidos en este mundo  
+> y que, opresivos como Yama,  
+> **hacen** que un hombre **se hunda** en Saṁsāra  
+> **Dejó** al hombre a punto de **alcanzar** a Mukti  
+> **sin hacer** el menor ruido  
+> y **entró** en plantas (a saber, sus enemigos) ".
 
-The authors of the Smṛtis have expressed the truth contained in the Upaniṣads  
-in the manner stated above.
+Los autores de los Smṛtis han expresado la verdad contenida en los Upaniṣads
+de la manera indicada anteriormente.
 </details>
 
 
