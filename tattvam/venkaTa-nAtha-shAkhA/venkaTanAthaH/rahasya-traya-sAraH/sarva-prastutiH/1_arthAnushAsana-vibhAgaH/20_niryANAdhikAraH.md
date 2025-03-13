@@ -2943,15 +2943,290 @@ y quien **corta** los grilletes del príncipe
 सिऱै किडन्द राजकुमारऩ् तिऱत्तिल् प्रसन्नऩाऩ राजा विलङ्गै वॆट्टिच् चिऱैक्कूडत्तिऩिऩ्ऱुङ्गॊण्डु पुऱप्पडुमाप्पोले 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+प्राशस्त्य-नियमम् वेण्डादाऱ् पोले  
+निमित्त-प्राशस्त्य-नियममुम् वेण्डामॆऩ्गिऱार् सिऱै किडैन्द राजकुमारऩित्यादिना ।  
+प्रसन्नऩ् आऩ राजा  
+तऩ्ऩ् उडैय प्रसादम् वन्द वाऱे  
+एदावद् ऒरु उपकरणत्ताले  
+विलङ्गै वॆट्टि  
+सिऱैगूडत्तिल् निऩ्ऱुम् राजकुमारऩैक् कॊण्डु  
+पुऱप् पडुवाऩेय् ऒऴिय  
+
+> विलङ्गै वॆट्टुम् उपकरणम् प्रशस्तमा? अप्रशस्तमा? 
+
+ऎऩ्ऱु योसिक्कमाट्टाऩ् इऱे।  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रशस्ताप्रशस्त-नियमम् अऱत्  
+तत्-कालोपस्थितम् आयिरुप्पद् एद्-एऩुम् ऒरु शरीर-विश्लेष-निमित्तत्तैय् उण्डाक्कि, +++(4)+++ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तथा प्रशस्ताप्रशस्त-नियमम् अन्तरा  
+तत्-कालोपस्थितं यत् किञ्चित् शरीर-विश्लेष-निमित्तम् उत्पाद्य, 
+</details>
+
+
+<details><summary>English</summary>
+
+the Lord takes him along with Him.  
+He causes some occasion or other suited to the time for the soul's parting from the body  
+without regard to auspicious or inauspicious time.
+</details>
+
+<details><summary>Español</summary>
+
+El Señor lo **lleva** junto con él.  
+**Causa** alguna ocasión u otra  
+adecuada para la hora de la separación del alma del cuerpo  
+**sin tener en cuenta** el tiempo auspicioso o desfavorable.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रशस्ताप्रशस्त नियममऱत् तत्कालोपस्थितमायिरुप्पदेदेऩुमॊरु शरीरविश्लेष निमित्तत्तैयुण्डाक्कि, 
+</details>
 
 
 
-
-the Lord takes him along with Him. He causes some occasion or other suited to the time, for the soul's parting from the body without regard to auspicious or inauspicious time.
+### उत्क्रान्तिः साधारणी
+<details><summary>English</summary>
 
 THE PROCESS OF THE SELF LEAVING THE BODY:
+</details>
 
-Then the Lord makes the ten external senses like speech merge in the mind and the mind with the senses of action and of knowledge, which are thus eleven in number, merge in the vital breath (prāṇa) and the vital breath in the self. Then at the moment of the shaking of the bone in the back called vamsa, the Lord churns out the subtle elements from the gross body (sthūla deha) and contacts the self with the subtle elements (sūkṣma bhuta) and then comforts the self so mingled with the senses, the vital breath and the subtle elements by keeping it by the side of Himself in the form that He has assumed in the heart; for, by nature, He is its friend and well-wisher. After giving the self, rest and relaxation, the Lord sees that the self passes out of the body. So far, the process is the same both for the man who has realised Brahman and for the man who has not.
+<details><summary>Español</summary>
+
+El proceso del yo **dejando** el cuerpo:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाग्-आदिगळ् आऩ बाह्येन्द्रियङ्गळ् पत्तैयुम् मनस्सिले सेर्त्तु, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+वागादीनि बाह्येन्द्रियाणि दशापि मनसि संयोज्य,  
+</details>
+
+
+<details><summary>English</summary>
+
+Then the Lord makes the ten external senses like speech merge in the mind  
+</details>
+
+<details><summary>Español</summary>
+
+Entonces el Señor **hace** que los diez sentidos externos se fusionen en la mente
+</details>
+
+<details><summary>मूलम्</summary>
+
+वागादिगळाऩ बाह्येन्द्रियङ्गळ् पत्तैयुम् मनस् सिले सेर्त्तु, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अप्पडिये भगवाऩुम् प्रशस्ताप्रशस्तनियम मऩ्ऱिक्के एदेऩुमॊरु शरीरविश्लेषनिमित्तत्तै उण्डाक्कुवाऩॆऩ्ऱबडि। इप्पडि उपोद्घातमाग सिल अर्थङ्गळैच् चॊल्लि अधिकारार्थमाऩ निर्याणत्तै निरूपिक्किऱार् वागादिगळाऩ इत्यादिना । वागादिगळाऩ बाह्येन्द्रियङ्गळ् पत्तैयुम् मनस्सिले सेर्त्तु इति । इदऩाल् वागाधिकरणार्थम् सूचितम्। सूत्रत्तिलुम् श्रुतियिलुम् वाक् शब्दम् बाह्येन्द्रियम् पत्तुक्कुमुपलक्षणमॆऩ्ऱु करुत्तु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिक् कर्म-ज्ञानेन्द्रियङ्गळ् ऎल्लाव्  
+अत्तोडुङ् गूडिऩ मनस्सै  
+प्राण-वायुवोडे सेर्त्तु, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं कर्मज्ञानेन्द्रियैः सर्वैः संवलितं मनः  
+प्राण-वायुना सह संयोज्य,  
+</details>
+
+
+<details><summary>English</summary>
+
+and the mind with the senses of action and of knowledge, which are thus eleven in number,  
+merge in the vital breath (prāṇa) 
+</details>
+
+<details><summary>Español</summary>
+
+y la mente con los sentidos de acción y del conocimiento,  
+que por lo tanto son once en número,  
+**fusionarse** en el aliento vital (prāṇa)
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडिक् कर्मज्ञानेन्द्रियङ्गळॆल्लावत्तोडुङ् गूडिऩ मनस्सै प्राणवायुवोडे सेर्त्तु, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मनस्सै प्राणवायुवोडे सेर्त्तु इति । इदऩाल् मनोऽधिकरणार्थम् सूचितम्। सूत्रत्तिल् प्राणशब्दम् मुख्यप्राणपरम्। अदावदु प्राणवायुपरम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि पदिऩोऱु इन्द्रियङ्गळोडुम् कूडिऩ प्राण-वायुवै जीवऩोडे सेर्त्तु, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थम् एकादशभिर् इन्द्रियैर् युक्तं प्राण-वायुं  
+जीवेन सह संयोज्य,  
+</details>
+
+
+<details><summary>English</summary>
+
+and the vital breath in the self. 
+</details>
+
+<details><summary>Español</summary>
+
+y el aliento vital en el yo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि पदिऩोऱु इन्द्रियङ्गळोडुम् कूडिऩ प्राणवायुवै जीवऩोडे सेर्त्तु, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्राणवायुवै जीवऩोडे सेर्त्तु इति । इदऩाल् अध्यक्षाधिकरणार्थम् सूचितम्। सूत्रत्तिल् अध्यक्षशब्दम् जीवपरम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राणेन्द्रिय-संयुक्तऩ् आऩ जीवऩै  
+त्रि-स्थूण+++(→मेरु-दण्ड)+++-क्षोभ-दशैयिले  
+स्थूल-देहत्ति-ऩिऩ्ऱुङ् **कडैन्द् ऎडुत्त** पञ्च-भूत-सूक्ष्मङ्गळोडे **सेर्त्तु**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्राणेन्द्रिय-संयुक्तं जीवं  
+त्रि-स्थूण-क्षोभ-दशायां स्थूल-देहात् मथित्वा गृहीतैः  
+पञ्च-भूत-सूक्ष्मैः सह संयोज्य, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राणेन्द्रिय संयुक्तऩाऩजीवऩै त्रिस्थूणक्षोभदशैयिले स्थूलदेहत्तिऩिऩ्ऱुङ् गडैन्दॆडुत्त पञ्चभूतसूक्ष्मङ्गळोडे सेर्त्तु, 
+</details>
+
+<details><summary>English</summary>
+
+Then at the moment of the shaking of the bone in the back called vamsa,  
+the Lord churns out the subtle elements from the gross body (sthūla deha)  
+and contacts the self with the subtle elements (sūkṣma bhuta)  
+</details>
+
+<details><summary>Español</summary>
+
+Luego, en el momento del **temblor** del hueso en la espalda, **llamado** Vamsa,  
+El Señor **produce** los elementos sutiles del cuerpo bruto (Sthūla deha)  
+y se pone en **contacto** con los elementos sutiles (sūkṣma bhuta)
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+प्राणेन्द्रियसंयुक्तऩाऩ जीवऩै इत्यादि । 
+
+> पूर्वोत्पन्नम् असक्तं नियतं महद्-आदि सूक्ष्म-पर्यन्तम् ।  
+> **संसरति** निर्-उपभोगं भावैर् अधिवासितं लिङ्गम्’’  
+
+ऎऩ्ऱु साङ्ख्यादिगळ् सॊल्लुगिऱ बडिये स्थूल-शरीरातिरिक्तमाऩ लिङ्गशरीरत्तै सिद्धान्तत्तिल् अङ्गीकरिक्कव् इल्लैयागैयाल्  
+त्रिस्थूणत्तैक् कडैन्दु  
+अदिलुळ्ळ सूक्ष्मङ्गळाऩ पञ्चभूतङ्गळाले सूक्ष्ममाऩ शरीरत्तैप् पण्णि  
+अदिल् इन्द्रियादिगळै यडैत्तु अदिल् जीवऩैच् चेर्त्तु अवऩुक्के निर्याणमॆऩ्गिऱ सिद्धान्तत्तै अनुसरित्तुच् चॊल्लुगिऱार् त्रिस्थूणेति ।  
+त्रिस्थूणम् - मुदुगिऩ् मध्यत्तिल् इरुक्कुम् वंशमॆऩ्ऩुम् मुप्-पिरिबोऩ्ऱ स्थूलम् आऩ मूऩ्ऱु नरम्बुगळ्। क्षोभदशैयिले - कडैयुमवस्थैयिले, पञ्चभूतसूक्ष्मङ्गळोडे सेर्त्तु इति ।  
+इदऩाल् भूताधिकरणार्थम् सूचितम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि इन्द्रिय-प्राण-भूत-सूक्ष्म-संयुक्तऩ् आऩ जीवऩै  
+निसर्ग-सौहार्दम् उडैय +++(हृदयस्थतया→)+++ हार्दऩ् आऩ  
+तऩ् पक्कलिलेय् **इळैप् पाऱ्ऱि**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थम् इन्द्रिय-प्राण--भूत-सूक्ष्म--संयुक्तं जीवं  
+निसर्ग-सौहार्दवति +++(हृदयस्थतया→)+++ हार्दे स्वस्मिन् विश्रमय्य  
+</details>
+
+<details><summary>English</summary>
+
+and then comforts the self so mingled with the senses, the vital breath and the subtle elements  
+by keeping it by the side of Himself  
+in the form that He has assumed in the heart;  
+for, by nature, He is its friend and well-wisher. 
+</details>
+
+<details><summary>Español</summary>
+
+y luego se **consuela** el yo tan **mezclado** con los sentidos, la respiración vital y los elementos sutiles  
+**manteniéndolo** al lado de sí mismo  
+en la forma que ha **asumido** en el corazón;  
+Porque, por naturaleza, él **es** su amigo y simpático.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि इन्द्रियप्राणभूतसूक्ष्मसंयुक्तऩाऩ जीवऩै निसर्गसौहार्दमुडैयहार्दऩाऩ तऩ् पक्कलिलेयिळैप्पाऱ्ऱि, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि स्थूल-शरीरत्ति-ऩिऩ्ऱुम् विद्वद्--अ-विद्वत्-साधारणम् आऩव् उत्क्रान्ति-क्रमत्तै नडत्ति, 
+</details>
+
+<details><summary>English</summary>
+
+After giving the self, rest and relaxation,  
+the Lord sees that the self passes out of the body.  
+So far, the process is the same both for the man who has realised Brahman  
+and for the man who has not.
+</details>
+
+<details><summary>Español</summary>
+
+Después de **darse** el yo, descansar y relajarse,  
+El Señor **ve** que el yo **pasa** del cuerpo.  
+Hasta ahora, el proceso **es** el mismo  
+tanto para el hombre que se **ha dado cuenta** de Brahman  
+Y para el hombre que **no lo ha hecho**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि स्थूलशरीरत्तिऩिऩ्ऱुम् विद्वदविद्वत्साधारणमाऩ वुत्क्रान्तिक्रमत्तै नडत्ति, 
+</details>
+
+
+
 
 THE PATH OF THE JOURNEY AFTER DEPARTURE:
 
