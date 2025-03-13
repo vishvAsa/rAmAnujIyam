@@ -1834,7 +1834,7 @@ Después de Prapatti **no buscan** ningún otro upāya.
 </details>
 
 
-### सुप्रपन्नय् ईश्वरोपकारः
+## सुप्रपन्नय् ईश्वरोपकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवऩ् +तिऱत्तिल्+++(=पक्षे)+++  
@@ -1878,7 +1878,7 @@ y cuya voluntad es irresistible,
 इऩि इप्प्रपन्नविषयत्तिल् सर्वेश्वरऩ् पण्णुम् उपकारविशेषङ्गळै यरुळिच् चॆय्गिऱार् इवऩ् तिऱत्तिलित्यादिना । इवऩ् तिऱत्तिल् ऎऩ्बदऱ्कु निग्रहसङ्कल्पत्तै विलक्कि ऎऩ्बदोडन्वयम्। इप्पडि विलक्कुगैक्कु अनुगुणमाऩ गुणवत्तैयै यरुळिच्चॆय्गिऱार् निरुपाधिकसर्वशेषियायित्यादिना । 
 </details>
 
-
+### अबुद्धि-पूर्वक-पाप-नाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-भयङ्गळुक्कुम् कारणम् आऩ निग्रह-सङ्कल्पत्तै  
@@ -2043,7 +2043,7 @@ y también **siente** que **debería soportar** aún más (de estos pecados).
 उण्डदुरुक् काट्टादे - साप्पिडादॆल्लाम् वयिऱॆडुत्तुक्काट्टादे, आश्रितविषयत्तिल् पोक्किऩ पाबङ्गळ् पोरादे यॆऩ्ऱबडि। अत एव वयिऱुदारियाय् - स्वोदरपूरकऩाय्, पॆरुम् वयिऱऩायॆऩ्ऱबडि। 
 </details>
 
-
+### बुद्धि-पूर्वकाघ-नाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुबन्धिगळ्-उडैय बुद्धि-पूर्वापराधङ्गळुक्कुम्  
@@ -2088,7 +2088,7 @@ por su voluntad de **otorgar** a la Prapanna su bendición.
 अनुबन्धिकळुडैय - शरीरानुबन्धिकळुडैय, प्रपन्नराले न्यस्तभरर्गळुडैय वॆऩ्ऱबडि। बुद्धिपूर्वापराधङ्गळुक्कुम् - बुद्धिपूर्वोत्तराघङ् गळुक्कुम् इवैगळुक्कु प्रायश्चित्तमऩ्ऱिक्के अनुग्रहसङ्कल्पम् कूडुमो वॆऩ्ऱुशङ्कियामैक्काग अनुतापादिगळाले निस्तारम् पण्णुविक्कुम्बडिक्कीडाऩ इति । इव्वनुग्रहसङ्कल्पमे बुद्धिपूर्वोत्तराघत्तिऱ्कु प्रायश्चित्तपूरकमामॆऩ्ऱु करुत्तु। अनुग्रहसङ्कल्पमावदु इवऩैयुम् इवऩुडैय सम्बन्धिकळैयुम् ऎप्पडियावदु रक्षिप्पेऩ् ऎऩ्ऩुम् सङ्कल्पम्। 
 </details>
 
-
+### उभय-त्वरा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > 'विण्ण्-उलगन् तरुवाऩ् आय् विरैगिऩ्ऱाऩ्'  
@@ -2165,7 +2165,7 @@ y **se acelera** para **crear** en él una **impaciencia** de retraso (en el log
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-> तमः-प्रदद्-महा-भूमाव् इतः परं जन्माहं न वाञ्च्छामि ", 
+> तमः-**प्रद**-महा-भूमाव् इतः परं जन्माहं न वाञ्च्छामि ", 
 </details>
 
 <details><summary>English</summary>
@@ -2305,7 +2305,7 @@ cuyas hermosas cerraduras de cabello
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 > "14 शरणं भवन्  
-> स्वचरणाश्रितानां सर्वेषां मरणे जाते  
+> स्व-चरणाश्रितानां सर्वेषां मरणे जाते  
 > वैकुण्ठ-प्रद उपकारकः "  
 
 इत्य्-उक्त-रीत्या एतत्-प्रार्थनानुगुणं प्रारब्ध-शरीरावसाने  
@@ -2349,6 +2349,7 @@ Entonces se **ha dicho**:-
 शरणमागुमित्यादि । तऩ्दाळ् - तऩ् तिरुवडिगळै, अडैन्दार्क्कॆल्लाम् - आश्रयित्तवर्गळुक्कॆल्लाम्, सरणमागुम् - उपायमागुम्, मरणमाऩाल् - अवर्गळुक्कु मरणम् वन्दाल्, वैगुन्दम् - वैकुण्ठ- लोगत्तै, कॊडुक्कुम् - प्रसादिक्कुम्, पिराऩ् - उपकारकऩ्, 
 </details>
 
+### पाप-पुण्य-सङ्क्रान्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2444,12 +2445,12 @@ Porque se interpone en el camino de Mokṣa.] +++ (4) +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शरीर-पातत्तुक्कु निऩैप्प् इट्ट समयम् वन्दव् आऱे  
+शरीर-पातत्तुक्कु निऩैप्प् इट्ट समयम् **वन्दव्** आऱे  
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-शरीर-पातार्थ-संकल्पित-समये आसीदत्य् एव, 
+शरीर-पातार्थ-संकल्पित-समये **आसीदत्य्** एव, 
 </details>
 
 <details><summary>English</summary>
@@ -2472,8 +2473,6 @@ Entonces, cuando **ha llegado** el momento de salir del cuerpo,
 
 निऩैप्पिट्टसमयम् वन्दवाऱे - सङ्गल्बित्त समयम् नेर्न्दवाऱे। 
 </details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2623,6 +2622,22 @@ de la manera indicada anteriormente.
 [[१६२]]
 </details>
 
+<details><summary>English</summary>
+
+the Lord causes his meritorious deeds (puṇya) and his sins (papa) to be divided and distributed among others,  
+namely, those who were his well-wishers  
+and those who did evil to him, respectively,  
+as the consequence of the good and the evil wrought to him by them. 
+</details>
+
+<details><summary>Español</summary>
+
+El Señor **hace** que sus actos meritorios (Puṇya) y sus pecados (papá) **se dividan** y **distribuyan** entre otros,  
+a saber, los que **eran** sus **simpatizantes**  
+y aquellos que le **hicieron** el mal, respectivamente,  
+Como consecuencia del bien y el mal que le **causó**.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2636,19 +2651,303 @@ de la manera indicada anteriormente.
 </details>
 
 
+### मृत्यु-कालेऽनियमः
 
-the Lord causes his meritorious deeds (puṇya) and his sins (papa) to be divided and distributed among others,  
-namely, those who were his well-wishers  
-and those who did evil to him, respectively,  
-as the consequence of the good and the evil wrought to him by them. 
+<details><summary>English</summary>
+
+THE PRAPANNA MAY DIE AT ANY TIME, DAY OR NIGHT, IN THE BRIGHT OR IN THE DARK HALF OF THE MONTH, ETC.
+</details>
+
+<details><summary>Español</summary>
+
+La Prapanna **puede morir** en cualquier momento,  
+día o noche,  
+en la mitad brillante o en la oscuridad del mes, etc.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘दिवा च शुक्ल-पक्षश् च  
+> उत्तरायणम् एव च ।  
+> **मुमूर्षतां प्रशस्तानि**’’  
+> (भारतम् आनुशाासनिक-पर्व २४२-३१) 
+
+ऎऩ्ऱु स्मृतियिलुम्,  
+ज्योतिश्शास्त्रत्तिल् निर्याणप्रकरणत्तिलुम्  
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘दिवा च शुक्ल-पक्षश् च  
+> उत्तरायणम् एव च ।  
+> **मुमूर्षतां प्रशस्तानि**’’  
+> (भारतम् आनुशाासनिक-पर्व २४२-३१) 
+
+इति स्मृतौ च  
+ज्योतिश्-शास्त्रे निर्याणप्रकरणे च  
+</details>
+
+<details><summary>English</summary>
+
+it has been said in the Smṛti, and in the science of the celestial bodies,  
+in the context of the departure from the body  
+that Day-time, the bright half of the month (Sukla pakṣa) and the Uttarāyaṇa are favourable times for those that die
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho** en el smṛti, y en la ciencia de los cuerpos celestes,  
+en el contexto de la partida del cuerpo  
+Ese día de día, la mitad brillante del mes (Sukla pakṣa) y el uttarāyaṇa **son** tiempos favorables para aquellos que mueren
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘दिवा च शुक्लपक्षश्च उत्तरायणमेव च । मुमूर्षतां प्रशस्तानि’’(भारतम् आनुशाासनिक-पर्व २४२-३१) ऎऩ्ऱु स्मृतियिलुम् ज्योतिश्शास्त्रत्तिल् निर्याणप्रकरणत्तिलुम् 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+प्रपन्नऩुडैय निर्याणत्तिल् ‘‘तीर्थे श्वपचगृहे वा’’ ऎऩ्ऱु प्रशस्तदेशनियममिल्लैयॆऩ्ऱु सॊऩ्ऩाऱ् पोले  
+प्रशस्तकालनियममुमिल्लैयॆऩ्ऱु सॊल्लक्कोलि प्रशस्तकालत्तैच् चॊल्लुम् वचनङ्गळुक्कु गति सॊल्लुगिऱार् दिवा चेत्यादिना । 
+
+मुमूर्षतां – मरण मडैयवेण्डुमॆऩ्ऱु इच्छिप्पवर्गळुक्कु, 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+फलान्तर-प्रसक्तरैयुम्  
+मोक्षोपाय-पूर्तिय् इल्लादारैयुम् पऱ्ऱच् चॊल्लुम् काल-नियमम् इऩ्ऱिक्के 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+फलान्तर-प्रसक्तान् मोक्षोपाय-पूर्ति-रहितांश् चाधिकृत्योच्यमानं काल-नियमम् अन्तरैव, 
+</details>
+
+<details><summary>English</summary>
+
+in regard to those who are desirous of other benefits than mokṣa  
+and who have not fulfilled completely the means of attaining mokṣa.  
+
+But (as the prapanna has adopted successfully the proper upāya)  
+there is no such rule for him in regard to the time of death. 
+</details>
+
+<details><summary>Español</summary>
+
+con respecto a aquellos que **desean** otros beneficios que mokṣa  
+y que **no han cumplido** completamente los medios para alcanzar mokṣa.
+
+Pero (como la Prapanna ha **adoptado** con éxito el upāya apropiado)  
+**No existe** tal regla para él con respecto al momento de la muerte.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+फलान्तरप्रसक्तरैयुम् मोक्षोपायपूर्तियिल्लादारैयुम् पऱ्ऱच्चॊल्लुम् कालनियममिऩ्ऱिक्के 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+निर्याणम् - स्थूलदेहत्तिल् निऩ्ऱुम् पुऱप् पडुगै। फलान्तरप्रसक्तरैयुमिति ।  
+तथा च निर्याणकालप्राशस्त्यवचनम् प्रयोजनान्तरपरविषयमे यॊऴिय प्रपन्नविषयमऩ्ऱॆऩ्ऱु करुत्तु। मुमुक्षुविषयमाऩालुम् गति सॊल्लुगिऱार् मोक्षोपायपूर्तियिल्लादारैयुम् पऱ्ऱच्चॊल्लुम् कालनियममिऩ्ऱिक्के इति । तथा च प्रशस्तकालनियमञ्जॊल्लुम् वचनङ्गळ् अन्यविषयङ्गळागैयाल् प्रपन्नऩुक्कु अन्नियममिल्लै यॆऩ्ऱदायिऱ्ऱु।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "निशि +++(मृते मोक्षो)+++ ने"ति चेन् न -  
+> +++(कर्म-)+++सम्बन्धस्य यावद्-देह-भावित्वात्  
+> (ब्रह्मसूत्रम् ४-२-१८।) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "निशि +++(मृते मोक्षो)+++ ने"ति चेन् न -  
+> +++(कर्म-)+++सम्बन्धस्य यावद्-देह-भावित्वात्  
+> (ब्रह्मसूत्रम् ४-२-१८।) 
+
+इति,
+</details>
+
+<details><summary>English</summary>
+
+For it has been said about him -  
+
+> "It is not right to say that  
+> the man who dies at night  
+> will not attain mokṣa ,  
+> for the association with karma  
+> lasts only as long as the body lasts ", 
+</details>
+
+<details><summary>Español</summary>
+
+Porque **se ha dicho** sobre él -
+
+> "**No es** correcto decir que  
+> El hombre que **muere** por la noche  
+> **no alcanzará** mokṣa,  
+> para la asociación con el karma  
+> **dura** solo mientras dure el cuerpo ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘निशि नेति चेन्न सम्बन्धस्य यावद्देहभावित्वात्’’(ब्रह्मसूत्रम् ४-२-१८।) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इदिल् सूत्रकारसम्मतियैक् काट्टुगिऱार् ‘‘निशि नेति चेन्न सम्बन्धस्य यावद्देहभावित्वात्’’ ऎऩ्ऱुमित्यादि । 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अतश् चायनेऽपि दक्षिणे’’  
+> (ब्रह्मसूत्रम् ४-२-१९।) 
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘अतश् चायनेऽपि दक्षिणे’’  
+> (ब्रह्मसूत्रम् ४-२-१९।) 
+
+इति चोक्त-रीत्या 
+</details>
+
+
+<details><summary>English</summary>
+
+and again 
+
+> "For the same reason,  
+> the views is not right  
+> that the man who dies in dakṣinayana  
+> will not attain mokṣa ." 
+</details>
+
+<details><summary>Español</summary>
+
+y de nuevo
+
+> "Por la misma razón,  
+> Las vistas **no están** bien  
+> que el hombre que **muere** en Dakṣinayana  
+> no alcanzará Mokṣa ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अतश्चायनेऽपि दक्षिणे’’(ब्रह्मसूत्रम् ४-२-१९।) ऎऩ्ऱुञ् जॊल्लुगिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मनुष्य-पितृ-देवर्गळ्-उडैय पगल्गळिलेय् आदल् +++(→दिन-शुक्लपक्षोदगयनानि)+++  
+रात्रिगळिलेय् आदल्   
+ताऩ् सङ्कल्पित्त समयत्तिले  
+अ-प्रच्युत--पूर्व-संस्कार--मनो-रथऩ् आम् पडि पण्णि,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मनुष्य-पितृ-देवानां दिनेषु रात्रिषु वा  
+स्व-संकल्पित-समये अ-प्रच्युत--पूर्व-संस्कार--मनोरथताम् आपाद्य, 
+</details>
+
+<details><summary>English</summary>
+
+Whether in the day of man or in the night of man,  
+whether in the day of pitṛs (śukla pakṣa ) or in the night of the pitṛs (Kṛṣṇapakṣa ),  
+whether in the day of the gods (uttarāyana ) or in the night of the gods (Dakṣinayana ) -  
+at the time appointed by the Lord,  
+He makes him remember all his previous thoughts and desires (for mokṣa )  
+</details>
+
+<details><summary>Español</summary>
+
+Ya **sea** en el día del hombre o en la noche del hombre  
+Ya **sea** en el día de los Pitṛs (Śukla Pakṣa) o en la noche de los Pitṛs (Kṛṣṇapakṣa),  
+Ya **sea** en el día de los dioses (Uttarāyana) o en la noche de los dioses (Dakṣinayana) -
+en el momento **designado** por el Señor,  
+Él le **hace recordar** todos sus **pensamientos** y **deseos** anteriores (para mokṣa)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मनुष्यपितृदेवर्गळुडैय पगल्गळिलेयादल् रात्रिकळिलेयादल् ताऩ् सङ्कल्पित्त समयत्तिले अप्रच्युतपूर्वसंस्कारमनोरथऩाम्बडिबण्णि,
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+मनुष्य इत्यादि । मनुष्यरुडैय पगल् दिवसम्। पितृक्कळुडैय पगल् शुक्लपक्षम्। देवतैकळुडैय पगल् उत्तरायणम्। मनुष्यऩुडैय रात्तिरि अस्तमयानन्तरकालम्। पितृक्कळुडैय रात्तिरि कृष्णपक्षम्। देवर्गळुडैय रात्तिरि दक्षिणायनम्।  
+
+अप्रच्युतेति ।  
+पूर्वौ च तौ संस्कारमनोरथौ च पूर्वसंस्कारमनोरथौ;  
+अप्रच्युतौ पूर्वसंस्कार-मनोरथौ यस्य ता  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिऱै+++(=कारा-गृह)+++ किडन्द राजकुमारऩ् तिऱत्तिल्+++(=पक्षे)+++  
+**प्रसन्नऩ् आऩ** राजा  
++++(मुहूर्ताद्य् अपरिगणय्य)+++ विलङ्गै+++(=शृङ्खलां)+++ वॆट्टिच्+++(=छित्त्वा)+++  
+चिऱैक्-कूडत्तिल्+++(=गृहात्)+++-ऩिऩ्ऱुङ्+++(=तः)+++ +++(तं)+++ गॊण्डु  
+पुऱप् पडुमाप् +++(=भावः)+++ पोले 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कारा-गृह-स्थ--राज-कुमार-विषये  
+प्रसन्नो राजा  
++++(मुहूर्ताद्य् अपरिगणय्य)+++ शृङ्खलां छित्त्वा  
+कारा-गृहात् (तं) गृहीत्वा  
+यथा निर्गच्छेत्  
+</details>
+
+<details><summary>English</summary>
+
+and like a king who is gracious  
+and who cuts off the fetters of the prince lying in the prison-house, 
+</details>
+
+<details><summary>Español</summary>
+
+y como un rey que **es** amable  
+y quien **corta** los grilletes del príncipe  
+**acostado** en la prisión,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सिऱै किडन्द राजकुमारऩ् तिऱत्तिल् प्रसन्नऩाऩ राजा विलङ्गै वॆट्टिच् चिऱैक्कूडत्तिऩिऩ्ऱुङ्गॊण्डु पुऱप्पडुमाप्पोले 
+</details>
 
 
 
 
 
-THE PRAPANNA MAY DIE AT ANY TIME, DAY OR NIGHT, IN THE BRIGHT OR IN THE DARK HALF OF THE MONTH : ETC.
-
-In regard to those who are desirous of other benefits than mokṣa  and who have not fulfilled completely the means of attaining mokṣa , it has been said in the Smṛti, and in the science of the celestial bodies, in the context of the departure from the body that Day-time, the bright half of the month (Sukla pakṣa) and the Uttarāyaṇa are favourable times for those that die. But (as the prapanna has adopted successfully the proper upāya) there is no such rule for him in regard to the time of death. For it has been said about him ;-"It is not right to say that the man who dies at night will not attain mokṣa , for the association with karma lasts only as long as the body lasts ", and again " For the same reason, the views is not right that the man who dies in dakṣmayana will not attain mokṣa ." Whether in the day of man or in the night of man, whether in the day of pitṛs (śukla pakṣa ) or in the night of the pitṛs (Kṛṣṇapakṣa ), whether in the day of the gods (uttarāyana ) or in the night of the gods (dakṣmayana ) - at the time appointed by the Lord, He makes him remember all his previous thoughts and desires (for mokṣa ) and like a king who is gracious and who cuts off the fetters of the prince lying in the prison-house, the Lord takes him along with Him. He causes some occasion or other suited to the time, for the soul's parting from the body without regard to auspicious or inauspicious time.
+the Lord takes him along with Him. He causes some occasion or other suited to the time, for the soul's parting from the body without regard to auspicious or inauspicious time.
 
 THE PROCESS OF THE SELF LEAVING THE BODY:
 
