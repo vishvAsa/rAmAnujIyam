@@ -2943,15 +2943,157 @@ y quien **corta** los grilletes del príncipe
 सिऱै किडन्द राजकुमारऩ् तिऱत्तिल् प्रसन्नऩाऩ राजा विलङ्गै वॆट्टिच् चिऱैक्कूडत्तिऩिऩ्ऱुङ्गॊण्डु पुऱप्पडुमाप्पोले 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+प्राशस्त्य-नियमम् वेण्डादाऱ् पोले  
+निमित्त-प्राशस्त्य-नियममुम् वेण्डामॆऩ्गिऱार् सिऱै किडैन्द राजकुमारऩित्यादिना ।  
+प्रसन्नऩ् आऩ राजा  
+तऩ्ऩ् उडैय प्रसादम् वन्द वाऱे  
+एदावद् ऒरु उपकरणत्ताले  
+विलङ्गै वॆट्टि  
+सिऱैगूडत्तिल् निऩ्ऱुम् राजकुमारऩैक् कॊण्डु  
+पुऱप् पडुवाऩेय् ऒऴिय  
+
+> विलङ्गै वॆट्टुम् उपकरणम् प्रशस्तमा? अप्रशस्तमा? 
+
+ऎऩ्ऱु योसिक्कमाट्टाऩ् इऱे।  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रशस्ताप्रशस्त-नियमम् अऱत्  
+तत्-कालोपस्थितम् आयिरुप्पद् एद्-एऩुम् ऒरु शरीर-विश्लेष-निमित्तत्तैय् उण्डाक्कि, +++(4)+++ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तथा प्रशस्ताप्रशस्त-नियमम् अन्तरा  
+तत्-कालोपस्थितं यत् किञ्चित् शरीर-विश्लेष-निमित्तम् उत्पाद्य, 
+</details>
 
 
+<details><summary>English</summary>
+
+the Lord takes him along with Him.  
+He causes some occasion or other suited to the time for the soul's parting from the body  
+without regard to auspicious or inauspicious time.
+</details>
+
+<details><summary>Español</summary>
+
+El Señor lo **lleva** junto con él.  
+**Causa** alguna ocasión u otra  
+adecuada para la hora de la separación del alma del cuerpo  
+**sin tener en cuenta** el tiempo auspicioso o desfavorable.
+</details>
 
 
-the Lord takes him along with Him. He causes some occasion or other suited to the time, for the soul's parting from the body without regard to auspicious or inauspicious time.
+<details><summary>मूलम्</summary>
+
+प्रशस्ताप्रशस्त नियममऱत् तत्कालोपस्थितमायिरुप्पदेदेऩुमॊरु शरीरविश्लेष निमित्तत्तैयुण्डाक्कि, 
+</details>
+
+### इन्द्रियादि-सङ्ग्रहणम्
+<details><summary>English</summary>
 
 THE PROCESS OF THE SELF LEAVING THE BODY:
+</details>
 
-Then the Lord makes the ten external senses like speech merge in the mind and the mind with the senses of action and of knowledge, which are thus eleven in number, merge in the vital breath (prāṇa) and the vital breath in the self. Then at the moment of the shaking of the bone in the back called vamsa, the Lord churns out the subtle elements from the gross body (sthūla deha) and contacts the self with the subtle elements (sūkṣma bhuta) and then comforts the self so mingled with the senses, the vital breath and the subtle elements by keeping it by the side of Himself in the form that He has assumed in the heart; for, by nature, He is its friend and well-wisher. After giving the self, rest and relaxation, the Lord sees that the self passes out of the body. So far, the process is the same both for the man who has realised Brahman and for the man who has not.
+<details><summary>Español</summary>
+
+El proceso del yo **dejando** el cuerpo:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाग्-आदिगळ् आऩ बाह्येन्द्रियङ्गळ् पत्तैयुम् मनस्सिले सेर्त्तु, 
+</details>
+
+<details><summary>English</summary>
+
+Then the Lord makes the ten external senses like speech merge in the mind  
+</details>
+
+<details><summary>Español</summary>
+
+Entonces el Señor **hace** que los diez sentidos externos se fusionen en la mente
+</details>
+
+<details><summary>मूलम्</summary>
+
+वागादिगळाऩ बाह्येन्द्रियङ्गळ् पत्तैयुम् मनस् सिले सेर्त्तु, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिक् कर्म-ज्ञानेन्द्रियङ्गळ् ऎल्लाव्  
+अत्तोडुङ् गूडिऩ मनस्सै  
+प्राण-वायुवोडे सेर्त्तु, 
+</details>
+
+<details><summary>English</summary>
+
+and the mind with the senses of action and of knowledge, which are thus eleven in number,  
+merge in the vital breath (prāṇa) 
+</details>
+
+<details><summary>Español</summary>
+
+y la mente con los sentidos de acción y del conocimiento,  
+que por lo tanto son once en número,  
+**fusionarse** en el aliento vital (prāṇa)
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडिक् कर्मज्ञानेन्द्रियङ्गळॆल्लावत्तोडुङ् गूडिऩ मनस्सै प्राणवायुवोडे सेर्त्तु, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि पदिऩोऱु इन्द्रियङ्गळोडुम् कूडिऩ प्राण-वायुवै जीवऩोडे सेर्त्तु, 
+</details>
+
+<details><summary>English</summary>
+
+and the vital breath in the self. 
+</details>
+
+<details><summary>Español</summary>
+
+y el aliento vital en el yo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि पदिऩोऱु इन्द्रियङ्गळोडुम् कूडिऩ प्राणवायुवै जीवऩोडे सेर्त्तु, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राणेन्द्रिय-संयुक्तऩ् आऩ जीवऩै  
+त्रि-स्थूण-क्षोभ-दशैयिले  
+स्थूल-देहत्ति-ऩिऩ्ऱुङ् **कडैन्द् ऎडुत्त** पञ्च-भूत-सूक्ष्मङ्गळोडे **सेर्त्तु**, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्राणेन्द्रिय संयुक्तऩाऩजीवऩै त्रिस्थूणक्षोभदशैयिले स्थूलदेहत्तिऩिऩ्ऱुङ् गडैन्दॆडुत्त पञ्चभूतसूक्ष्मङ्गळोडे सेर्त्तु, 
+</details>
+
+
+
+Then at the moment of the shaking of the bone in the back called vamsa,  
+the Lord churns out the subtle elements from the gross body (sthūla deha)  
+and contacts the self with the subtle elements (sūkṣma bhuta)  
+and then comforts the self so mingled with the senses, the vital breath and the subtle elements  
+by keeping it by the side of Himself  
+in the form that He has assumed in the heart;  
+for, by nature, He is its friend and well-wisher. 
+
+After giving the self, rest and relaxation, the Lord sees that the self passes out of the body. So far, the process is the same both for the man who has realised Brahman and for the man who has not.
 
 THE PATH OF THE JOURNEY AFTER DEPARTURE:
 
