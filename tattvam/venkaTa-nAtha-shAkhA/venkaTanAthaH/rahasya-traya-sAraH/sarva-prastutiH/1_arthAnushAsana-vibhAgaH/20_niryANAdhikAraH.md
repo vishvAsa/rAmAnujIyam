@@ -4151,6 +4151,25 @@ porque **se ha dicho** -
 ऎऩ्ऱु सिल आचार्यर्गळ् अनुसन्धिप्पार्गळ्। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अतो गद्यानुगृहीत-रीत्या स्व-तन्त्र--प्रपत्ति-निष्टस्य  
+भगवद्-विषये ऽन्तिम-प्रत्ययो ऽवश्यम्-भावी ।  
+
+"नष्टस्मृतिर् अपि" इत्यादीनि 
+
+श्री-गीतायाम् अष्टमाध्याये,  
+
+> “यं योगिनः प्राणवियोगकाले  
+यत्नेन चित्ते विनिवेशयन्ति" 
+
+इत्यादिषु च 
+
+स्व-यत्न-साध्यतया विहित-प्रकारेण +उपायत्वेनान्तिम-स्मृतिर्  
+नापेक्षितेति प्रतिपादयन्न्ति
+
+इति केचिद् आचार्या व्यनुसन्दधते।  
+</details>
 
 <details><summary>English</summary>
 
@@ -4181,29 +4200,31 @@ the remembrance comes out of the Lord's grace alone.)
 
 <details><summary>Español</summary>
 
-Entonces tenemos que concluir que
-Si el hombre ha realizado Prapatti como un medio independiente,
-Si él rogó o no por el recuerdo (del Señor) en sus últimos momentos mientras realizaba Prapatti,
-Obtendrá ese recuerdo como se indica en el Gadya.
+Entonces **tenemos** que **concluir** que  
+Si el hombre **ha realizado** Prapatti como un medio independiente,  
+Si él **rogó** o no por el **recuerdo** (del Señor) en sus últimos momentos mientras **realizaba** Prapatti,  
+**Obtendrá ese recuerdo** como se indica en el Gadya.
 
-Esta es la interpretación favorecida por algunos ācāryas.
+Esta es la interpretación **favorecida** por algunos ācāryas.
 
 En los versos del sánscrito y tamil citado anteriormente
-(donde el último recuerdo no se declara necesario),
-Lo que se entiende es que el último recuerdo no se prescribe para el Prapanna
-como algo para ser efectuado por su propio esfuerzo como un upāya.
+(donde el último **recuerdo no se declara** necesario),  
+Lo que **se entiende** es que el último **recuerdo no se prescribe** para el Prapanna  
+como algo para **ser efectuado** por su propio esfuerzo como un upāya.  
 En el octavo capítulo del Gitā,
-y en el Śloka que dice:-
+y en el Śloka que **dice**:-
 
-> "Ese bhagavān a quien los yoguis mantienen en sus mentes por un esfuerzo
-> En el momento de dejar el cuerpo
-> \- teniendo en cuenta ese bhagavān,
-> Bhīṣma renunció a su cuerpo.
-> ¿No fue uno que alcanzó el fruto de su Bhakti o Upāsana? "
+> "Ese bhagavān a quien los yoguis **mantienen** en sus mentes por un esfuerzo  
+> En el momento de **dejar** el cuerpo  
+> \- **teniendo en cuenta** ese bhagavān,  
+> Bhīṣma **renunció** a su cuerpo.  
+> ¿**No fue** uno que **alcanzó** el fruto de su Bhakti o Upāsana? "
 
-(El último recuerdo viene como un upāya para aquellos que adoptan Bhakti como medios y se produce por su propio esfuerzo;
-Pero en el caso de la Prapanna,
-El recuerdo sale solo de la gracia del Señor).
+(El último **recuerdo viene** como un upāya para aquellos  
+que **adoptan** Bhakti como medios  
+y **se produce** por su propio esfuerzo;  
+Pero en el caso de la Prapanna,  
+El **recuerdo sale** solo de la gracia del Señor).
 </details>
 
 
@@ -4219,10 +4240,41 @@ El recuerdo sale solo de la gracia del Señor).
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘केवलं मदीययैव दयया’’  
+> (शरणागति-गद्यम्) 
+
+ऎऩ्ऱिऱेय् इङ्ग् अरुळिच् चॆय्ददु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“केवलं मदीययैव दयया"  
+इति किलात्रानुगृहीतम् अस्ति । 
+</details>
+
+<details><summary>English</summary>
+
+"Kevalam madiya dayaya" are Śrī Rāmānuja's words. 
+</details>
+
+<details><summary>Español</summary>
+
+"Kevalam madiya dayaya" **son** las palabras de Śrī Rāmānuja.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘केवलं मदीययैव दयया’’(शरणागति-गद्यम्) ऎऩ्ऱिऱेयिङ्गरुळिच् चॆय्ददु। 
+</details>
+
+## अन्तिम-स्मृति-निरूपणम्
 
 
 
-" Kevalam madiya dayaya" are Śrī Rāmānuja's words. What does this last remembrance mean? When speech and other activities have be come impossible, the remembrance or thought which arises in the mind before the mind, too, ceases to function-this is the last remembrance. Those who stand by cannot know it. Śrī Rāmānuja's commentary on the Brahma Sūtra: “It is seen  that the mind functions even after the senses have ceased to do so", means only this, that the mind's functioning may be inferred by some sign or other. It may also describe his own experience in some states of ill-health and the like. Therefore this last remembrance is a thing that could be known only to the man who becomes a mukta and to (the Lord) who gives him mokṣa .
+What does this last remembrance mean? When speech and other activities have be come impossible, the remembrance or thought which arises in the mind before the mind, too, ceases to function-this is the last remembrance. Those who stand by cannot know it. Śrī Rāmānuja's commentary on the Brahma Sūtra: “It is seen  that the mind functions even after the senses have ceased to do so", means only this, that the mind's functioning may be inferred by some sign or other. It may also describe his own experience in some states of ill-health and the like. Therefore this last remembrance is a thing that could be known only to the man who becomes a mukta and to (the Lord) who gives him mokṣa .
 
 After this, the self, whether it be of the yogi or of one who is not a yogi, takes repose by the side of the Supreme Being who is in his heart (Harda) and is in a state similar to that of dreamless sleep (suṣupti).
 
