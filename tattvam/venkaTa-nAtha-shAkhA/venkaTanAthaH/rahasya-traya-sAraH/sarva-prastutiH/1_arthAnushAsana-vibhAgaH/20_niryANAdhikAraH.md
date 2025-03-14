@@ -3202,6 +3202,12 @@ Porque, por naturaleza, él **es** su amigo y simpático.
 इप्-पडि स्थूल-शरीरत्ति-ऩिऩ्ऱुम् विद्वद्--अ-विद्वत्-साधारणम् आऩव् उत्क्रान्ति-क्रमत्तै नडत्ति, 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं स्थूल-शरीरात् विद्वद्--अ-विद्वत्-साधारणम् उत्क्रान्ति-क्रमं निरुह्य, 
+</details>
+
+
 <details><summary>English</summary>
 
 After giving the self, rest and relaxation,  
@@ -3430,7 +3436,7 @@ se **llaman** rayos (rasmis)).
 (याज्ञवल्क्यस्मृति ४-६६, ६७, ६८, ६९।)  
 </details>
 
-
+### मुक्ति-गतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … ऎऩ्गिऱबडिये  
@@ -3438,6 +3444,16 @@ se **llaman** rayos (rasmis)).
 आत्मापहारिगळ् स्वर्ग-नरकङ्गळुक्कुप् पोम् मार्गान्तरङ्गळुक्कु मुखङ्गळ् आऩ  
 नाडीविशेषङ्गळिल् पोगाद बडि **वऴि विलक्कि**+++(=विलक्षयित्वा)+++, 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१६३]]  
+इत्य्-उक्त-रीत्या 
+द्रव्यापहारि-चोर-मार्गवद्  
+आत्मापहारि-गम्य स्वर्ग-नरक-प्राप्त्य्-अर्थ-मार्गान्तर-मुखभूतेषु नाडी-विशेषेषु  
+यथा न गच्छेत् तथा **विनिवार्य**,  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3460,19 +3476,753 @@ y, por lo tanto, **son** como las rutas a lo largo de las cuales los ladrones **
 ऎऩ्गिऱबडिये कळ्ळर् कॊण्डु पोम् वऴिगळ् पोले आत्मापहारिकळ् स्वर्गनरकङ्गळुक्कुप्पोम् मार्गान्तरङ्गळुक्कुमुखङ्गळाऩ नाडीविशेषङ्गळिल् पोगादबडि वऴिविलक्कि, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्चिर्-आदि-मार्गत्तुक्कु मुखम् आऩ  
++++(नाडी-सङ्ख्याने)+++ शताधिकैय् आऩ ब्रह्म-नाडियिले प्रवेशिप्पित्तु, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अर्चिर्-आदि-मार्गस्य मुख-भूतायां शताधिकायां ब्रह्म-नाड्यां प्रवेश्य, 
+</details>
 
 
-He makes the prapanna's self enter the Brahma Nīdi, which is beyond the hundredth among those nādīs that go upwards and which leads to the shining path called arcirādi, and helps it to start with the support of the rays of the sun.
+<details><summary>English</summary>
 
-When Kooratth alvan (ŚrīVatsankamiśra) was in his last moments, his tongue was parched with the fatigue (of the moment) and (unable to speak or utter any words) he caught hold of Śrī Rāmānuja's feet. At that time Śrī Rāmānuja whispered the Dvaya Mantra in his ear[^58] . The other disciples, who were there, said to themselves with mental depression :- "How can we hope to get this blessing ( Dvaya being whispered in the ear by ŚrīRāmānuja)? What shall we do?" Śrī Rāmānuja understood their fears and said, "Do you not know the true character of Alvan? When he is in this condition (unable to say anything owing to the parched throat), what I did was only like placing a little camphor and a piece of sugar-candy (in his mouth, to make it wet). I did not whisper the Dvaya in order to make the upāya complete with its accessories". The disciples were relieved on hearing this.
+He makes the prapanna's self enter the Brahma Nāḍī,  
+which is beyond the hundredth among those nādīs that go upwards and which leads to the shining path called arcirādi,  
+</details>
+
+<details><summary>Español</summary>
+
+Él hace que el yo de Prapanna **entra** en el Brahma Nāḍī,  
+que **está** más allá de la centésima entre los nādīs que **van** hacia arriba  
+y que **conduce** al camino brillante **llamado** Arcirādi,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अर्चिरादिमार्गत्तुक्कु मुखमाऩ शताधिकैयाऩ ब्रह्मनाडियिले प्रवेशिप्पित्तु, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सूर्य-करावलम्बिय् आय्क् कॊण्डु  
+पुऱप्-पडुम् बडि पण्णुम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सूर्य-करावलम्बिनं कृत्वोद्गमयति ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+and helps it to start with the support of the rays of the sun.
+</details>
+
+<details><summary>Español</summary>
+
+y lo **ayuda** a **comenzar** con el **apoyo** de los rayos del sol.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सूर्यकरावलम्बियाय्क्कॊण्डु पुऱप्पडुम्बडि पण्णुम्। 
+</details>
+
+## द्वयोच्चारणम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(कूरत्-)+++आऴ्वाऩ् अन्तिम-दशैयिले  
+विडायिले+++(=श्रान्त्या)+++ नाक्क् **ऒट्टि**+++(=लिप्त्वा [शुष्कतया वचनाशक्त्या])+++  
+ऎम्बॆरुमाऩार् तिरुव्-अडिगळैप् **पिडिक्क**,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+श्रीकुरेशे अन्तिम-दशायां श्रमेण शुष्क-जिह्वे  
+श्रीभाष्यकारस्य चरणौ गृहीतवति सति 
+</details>
+
+<details><summary>English</summary>
+
+When Kooratth alvan (Śrīvatsāṅkamiśra) was in his last moments,  
+his tongue was parched with the fatigue (of the moment) and (unable to speak or utter any words) he caught hold of Śrī Rāmānuja's feet. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando Kooratth Alvan (Śrīvatsāṅkamiśra) **estuvo** en sus últimos momentos,  
+Su lengua **estaba reseca** con la fatiga (del momento) y (incapaz de **hablar o pronunciar** ninguna palabra)  
+se **apoderó** de los pies de Śrī Rāmānuja.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऴ्वाऩ् अन्तिमदशैयिले विडायिले नाक्कॊट्टि ऎम्बॆरुमाऩार् तिरुवडिगळैप् पिडिक्क, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर् अप्पोद् आऴ्वाऩ् सॆवियिले+++(=कर्णे)+++ द्वयत्तैय् अरुळिच् चॆय्य, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+श्रीभाष्यकारे च तदानीं श्रीकूरेशस्य कर्णे द्वयम् उपदिष्टवति सति, 
+</details>
+
+
+<details><summary>English</summary>
+
+At that time Śrī Rāmānuja whispered the Dvaya Mantra in his ear[^58] . 
 
 [^58]: The idea is that the prapanna will attain mokṣa even if he is unconscious and unable to utter the Dvaya or other mantras.
+</details>
 
-Therefore as has been said in the following two ślokas: " The man who has performed prapatti, whether he dies in a holy place or in the house of one who eats dog's flesh, will attain mokṣa  even if he dies unconscious," and, "The man who, when his mind is in its normal condition, when the body is not shattered, and when the elementary constituents of the body (dhatu) are in perfect equipoise, meditates on me who have the world as my body and who am not subject to births due to karma when  man lies like a log of wood or a piece of stone in his dying moments, I think of (him) my devotee and lead him to attain the highest state", and as has been stated also in the Tamil verses , -- "O, Lord that reposest on Adi Śeṣa in Śrīraṅgam, a man seeks refuge under the strong in order that he may obtain their support when he is in distress; though I am not like Tby devotees who know how to seek Thy help, yet I approach Thee, since Thou wert gracious even to the elephant; when the langour of the dying moment has come, I may not be able to think of Thee. Therefore I entreat Thee, even now, that, at that time, Thou shouldst come to my rescue," -- as has been said in these passages, the prapanna need not seek the remembrance (of God) in his last moments (by any effort of his own ).
+<details><summary>Español</summary>
+
+En ese momento Śrī Rāmānuja **susurró** el mantra dvaya en su oído [^es58].
+
+[^ES58]: La idea es que la Prapanna **alcanzará** mokṣa incluso si **está inconsciente** e **incapaz de pronunciar** el dvaya u otros mantras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवरप्पोदाऴ्वाऩ् सॆवियिले द्वयत्तैयरुळिच्चॆय्य, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पेऱु+++(=लाभः)+++ नमक्कु वरुगैय् अरिदु+++(=दुर्लभः)+++,  
+नाम् ऎऩ् सॆय्यक् कडवोम् 
+
+ऎऩ्ऱु अप्-पोदु सेवित्त् इरुन्द मुदलिगळ् कलङ्ग, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"अस्य पुरुषार्थस्य लाभोऽस्माकम् असंभवी,  
+वयं किं करवामे"ति तदा तत्रोपस्थितेषु शिष्येषु ज्ञानिषु खिन्नेषु सत्सु 
+</details>
+
+<details><summary>English</summary>
+
+The other disciples, who were there,  
+said to themselves with mental depression :-  
+
+> "How can we hope to get this blessing  
+> ( Dvaya being whispered in the ear by ŚrīRāmānuja)?  
+> What shall we do?" 
+</details>
+
+<details><summary>Español</summary>
+
+Los otros discípulos, que **estaban** allí,  
+**se dijeron** a sí mismos con depresión mental:-
+
+> "¿Cómo **podemos esperar obtener** esta bendición?  
+> (Dvaya **siendo susurrado** en el oído por Śrīrāmānuja)?
+> ¿Qué **haremos**? "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पेऱु नमक्कु वरुगैयरिदु, नामॆऩ् सॆय्यक्कडवोमॆऩ्ऱु अप्पोदु सेवित्तिरुन्द मुदलिगळ् कलङ्ग, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळ् अभिप्रायत्तैत् तिरुवुळ्ळम् पऱ्ऱि+++(=लब्ध्वा)+++,  
+
+> 'आऴ्वाऩ् प्रकृतिय् अऱियीर्गळो?  
+> इव्व्-अस्थैयिल् इवरुक्क् इदु  
+> कर्पूरत्तैयुम् खण्ड-शर्करैयैयुम् इट्ट-मात्रम् अऩ्ऱो,  
+> नाम् इदु उपायत्तुक्कुप् परिकरम् आगच् **चॆय्दोम् अल्लोम्**' 
+
+ऎऩ्ऱ् अरुळिच्चॆय्य  
+मुदलिगळ् तॆळिन्दु निर्भरर् आऩार्गळ्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषामभिप्रायं विदित्वा,  
+
+> “श्रीकूरेशस्य प्रकृति किं न जानीथ,  
+> अस्याम् अवस्थायाम् अस्येदं कर्पूर-खण्ड-शर्करयोः प्रदान-मात्रं किल,  
+> वयं नेदम् उपाय-परिकरत्वेनान्वतिष्ठाम
+
+इत्यनुगृहीतवति सति  
+शिष्याः प्रबुध्य निर्भरा बभूवुः । 
+</details>
+
+
+<details><summary>English</summary>
+
+Śrī Rāmānuja understood their fears and said, 
+
+> "Do you not know the true character of Alvan?  
+> When he is in this condition  
+> (unable to say anything owing to the parched throat),  
+> what I did was only like placing a little camphor and a piece of sugar-candy (in his mouth, to make it wet).  
+> I did not whisper the Dvaya in order to make the upāya complete with its accessories". 
+
+The disciples were relieved on hearing this.
+</details>
+
+<details><summary>Español</summary>
+
+Śrī rāmānuja **entendió** sus miedos y **dijo**:
+
+> "¿**No conoces** el verdadero personaje de Alvan?  
+> Cuando **está** en esta condición  
+> (**incapaz** de **decir** nada debido a la garganta reseca),  
+> Lo que **hice** fue solo como **colocar** un poco de alcanfor y un trozo de camarilla de azúcar (en su boca, para **mojarlo**).  
+> **No susurré** el dvaya  
+> para **hacer** que el upāya **se complete** con sus accesorios ".
+
+Los discípulos **se sintieron aliviados** al **escuchar** esto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळभिप्रायत्तैत् तिरुवुळ्ळम् पऱ्ऱि, 'आऴ्वाऩ् प्रकृतियऱियीर्गळो; इव्वस्थैयिलिवरुक्किदु कर्पूरत् तैयुम् खण्डशर्करैयैयुमिट्टमात्रमऩ्ऱो, नामिदु उपायत्तुक्कुप् परिकरमागच् चॆय्दोमल्लो' मॆऩ्ऱरुळिच्चॆय्य मुदलिगळ् तॆळिन्दु निर्भरराऩार्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् 
+
+> ‘‘नष्ट-स्मृतिर् अपि परित्यजन् देहम्’’ (वराहपुराणम्।) 
+
+ऎऩ्ऱुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अतः
+
+> ‘‘नष्ट-स्मृतिर् अपि परित्यजन् देहम्’’ (वराहपुराणम्।) 
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore 
+
+> "The man who has performed prapatti,  
+> whether he dies in a holy place  
+> or in the house of one who eats dog's flesh,  
+> will attain mokṣa  
+> even if he dies unconscious," 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto
+
+> "El hombre que **ha realizado** Prapatti,  
+> Si él **muere** en un lugar santo  
+> o en la casa de alguien que **come** carne de perro,  
+> **alcanzará** mokṣa  
+> Incluso si **muere** inconsciente  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ‘‘नष्टस्मृतिरपि परित्यजन् देहं’’(वराहपुराणम्।) ऎऩ्ऱुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **स्थिते** मनसि सुस्वस्थे  
+(शरीरे **सति** यो नरः ।  
+धातु-साम्ये **स्थिते - स्मर्ता**  
+विश्व-रूपं च माम् अजम् ॥  
+>
+> ततस् तं **म्रियमाणं** तु  
+काष्ठ-पाषाण-सन्निभम् ।  
+अहं **स्मरामि** मद्-भक्तं  
+**नयामि** परमां गतिम् ॥)
+(वराहचरमश्लोकः।) 
+
+ऎऩ्गिऱ श्लोकद्वयत्तिलुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> **स्थिते** मनसि सुस्वस्थे  
+(शरीरे **सति** यो नरः ।  
+धातु-साम्ये **स्थिते - स्मर्ता**  
+विश्व-रूपं च माम् अजम् ॥  
+>
+> ततस् तं **म्रियमाणं** तु  
+काष्ठ-पाषाण-सन्निभम् ।  
+अहं **स्मरामि** मद्-भक्तं  
+**नयामि** परमां गतिम् ॥)
+(वराहचरमश्लोकः।) 
+
+इत्य्-आदिके श्लोकद्वये, 
+</details>
+
+<details><summary>English</summary>
+
+and as has been said in the following two ślokas, 
+
+> "The man who, when his mind is in its normal condition,  
+> when the body is not shattered,  
+> and when the elementary constituents of the body (dhatu) are in perfect equipoise,  
+> meditates on me  
+> who have the world as my body  
+> and who am not subject to births due to karma 
+> when  man lies like a log of wood or a piece of stone in his dying moments,  
+> I think of (him) my devotee  
+> and lead him to attain the highest state", 
+</details>
+
+<details><summary>Español</summary>
+
+Y como se ha dicho en los siguientes dos Ślokas,
+
+> "El hombre que, cuando su mente **está** en su condición normal,  
+> Cuando el cuerpo **no está** destrozado,   
+> y cuando los componentes elementales del cuerpo (dhatu) **están** en perfecto equipo,  
+> **Medita** sobre mí  
+> Quien **tengo** el mundo como mi cuerpo  
+> y quién **no estoy** sujeto a los nacimientos debido al karma  
+> Cuando el hombre **yace** como un tronco de madera o un trozo de piedra en sus momentos moribundos,  
+> **Pienso** en (él) mi devoto  
+> y **llevarlo** a **alcanzar** el estado más alto ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘स्थिते मनसि सुस्वस्थे’’(वराहसरमच्लोगः।) ऎऩ्गिऱ श्लोकद्वयत्तिलुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'तुप्प्+++(=वीर्यम्)+++-उडैयारैय् अडैवद्+++(=आश्रयणम्)+++ ऎल्लाम्'  
+> (पॆरियाऴ्वार् तिरुमॊऴि ४-१०-१।) 
+
+ऎऩ्गिऱ पाट्टिलुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “24 समर्थस्याश्रयणं सर्वस्मिन्" 
+
+इति गाथायां चोक्त-रीत्या 
+प्रपन्नस्यान्तिम-स्मृत्य्-आदिषु निर्बन्धो नास्ति । 
+</details>
+
+<details><summary>English</summary>
+
+and as has been stated also in the Tamil verses , -- 
+
+> "O, Lord that reposest on Adi Śeṣa in Śrīraṅgam,  
+> a man seeks refuge under the strong  
+> in order that he may obtain their support when he is in distress;  
+> though I am not like Thy devotees  
+> who know how to seek Thy help,  
+> yet I approach Thee,  
+> since Thou wert gracious even to the elephant;  
+> when the languor of the dying moment has come,  
+> I may not be able to think of Thee.  
+> Therefore I entreat Thee, even now,  
+> that, at that time,  
+> Thou shouldst come to my rescue," 
+</details>
+
+<details><summary>Español</summary>
+
+y como se **ha dicho** también en los versos tamiles, -  
+
+> "Oh, Señor que **reposta** sobre Adi Śeṣa en Śrīraṅgam,  
+> Un hombre **busca** refugio bajo los fuertes  
+> Para que **pueda obtener** su **apoyo** cuando está en peligro;  
+> Aunque **no soy** como tus devotos  
+> que **saben** cómo **buscar** tu **ayuda**,  
+> Sin embargo, me **acerco** a ti,  
+> ya que **eres** amable incluso para el elefante;  
+> Cuando **ha llegado** el languidez del momento moribundo,  
+> que **no puedo pensar** en ti.  
+> Por lo tanto, te **suplico**, incluso ahora,  
+> que, en ese momento,  
+> **Deberías venir** a mi **rescate** ",
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+'तुप्पुडैयारैयडैवदॆल्लाम् '(पॆरियाऴ्वार् तिरुमॊऴि ४-१०-१।) ऎऩ्गिऱ पाट्टिलुञ् जॊल्लुगिऱबडिये 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपन्नऩुक्क् अन्तिम-स्मृत्य्-आदिगळिल् निर्बन्धम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+-- as has been said in these passages,  
+the prapanna need not seek the remembrance (of God) in his last moments (by any effort of his own ).
+</details>
+
+<details><summary>Español</summary>
+
+Como se **ha dicho** en estos pasajes,  
+La Prapanna **no necesita buscar** el **recuerdo** (de Dios) en sus últimos momentos (por cualquier esfuerzo propio).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपन्नऩुक्कन्तिमस्मृत्यादिगळिल् निर्बन्धमिल्लै। 
+</details>
+
+### गद्य-वाक्य-निर्वाहः
+
+<details><summary>English</summary>
 
 THE LAST THOUGHT :
+</details>
 
-The statement:-"At the time of casting the body away, you will be in full possession of your intelligence owing to my grace; you will have a vision of me and will have all your previous memories and desires (for mokṣa  )" -- this statement, too, has to be interpreted in a manner that would not be in conflict with the verses cited above. This is how it should be interpreted. Some ācāryas interpret as follows:-"The statement made in (Śaraṇāgati Gadya) applies to those prapannas who, while performing prapatti, begged also for the remembrance of the Lord) in their last moments." This interpretation cannot be accepted for the following reason :There must be some-last thought or other at the time of casting off the body and this thought must have some object or other. If the object that is thought of were other than the Lord, it would become dangerous, for it has been said. " Whatever object one thinks of at the time when one leaves one's body -- that alone will one attain (after death)", So we have to conclude that) if the man has performed prapatti as an independent means (whether or not he begged for the remembrance (of the Lord) in his last moments while performing prapatti, he will get that remembrance as stated in the Gadya. This is the interpretation favoured by someācāryas. In the verses from Sanskrit and Tamil quoted above (where the last remembrance is not declared to be necessary), what is meant is that the last remembrance is not prescribed for the prapanna as something to be effected by his own effort as an upāya. In the eighth chapter of the Gitā, and in the śloka  which says :-"That Bhagavān whom the yogis keep in their minds by an effort at the time of leaving the body-keeping that Bhagavān in mind, Bhīṣma gave up his body. Was he not one who attained the fruit of his bhakti or upāsana ?" (The last remembrance comes as an upāya for those who adopt bhakti as the means and it comes by their own effort); but in the case of the prapanna, the remembrance comes out of the Lord's grace alone. " Kevalam madiya dayaya" are Śrī Rāmānuja's words. What does this last remembrance mean? When speech and other activities have be come impossible, the remembrance or thought which arises in the mind before the mind, too, ceases to function-this is the last remembrance. Those who stand by cannot know it. Śrī Rāmānuja's commentary on the Brahma Sūtra: “It is seen  that the mind functions even after the senses have ceased to do so", means only this, that the mind's functioning may be inferred by some sign or other. It may also describe his own experience in some states of ill-health and the like. Therefore this last remembrance is a thing that could be known only to the man who becomes a mukta and to (the Lord) who gives him mokṣa .
+<details><summary>Español</summary>
+
+El último pensamiento:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘शरीर-पात-समये तु  
+केवलं मदीययैव दयया ऽतिप्रबुद्धो  
+माम् एवावलोकयन्न्  
+अप्रच्युत-पूर्वसंस्कार-मनोरथः’’  
+(शरणागति-गद्यम्) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘शरीर-पात-समये तु  
+केवलं मदीययैव दयया ऽतिप्रबुद्धो  
+माम् एवावलोकयन्न्  
+अप्रच्युत-पूर्वसंस्कार-मनोरथः’’  
+(शरणागति-गद्यम्) 
+</details>
+
+
+<details><summary>English</summary>
+
+The statement:-
+
+> "At the time of casting the body away,  
+> you will be in full possession of your intelligence owing to my grace;  
+> you will have a vision of me  
+> and will have all your previous memories and desires (for mokṣa )" 
+</details>
+
+<details><summary>Español</summary>
+
+La declaración:-
+
+> "En el momento de **lanzar** el cuerpo,  
+> **Estarás** en plena posesión de tu inteligencia  
+> debido a mi gracia;  
+> **Tendrás** una visión de mi  
+> y **tendrá** todos sus recuerdos y deseos anteriores (para mokṣa) "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘शरीरपातसमयेतु केवलं मदीयवैव दययाऽतिप्रबुद्धो मामेवावलोकयन्नप्रच्युतपूर्वसंस्कारमनोरथः’’(शरणागति-गद्यम्) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱ् अरुळिच्-चॆय्ददुम्  
+इव्-वचनङ्गळुक्क् अ-विरुद्धम् आगव् ऒरु प्रकारत्ताले निर्वाह्यम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य्-अनुगृहीतम् अप्य्  
+एतद्-वचनाविरुद्धेन केनचित् प्रकारेण **निर्वाह्यम्** । 
+</details>
+
+
+<details><summary>English</summary>
+
+-- this statement, too, has to be interpreted in a manner  
+that would not be in conflict with the verses cited above. 
+</details>
+
+<details><summary>Español</summary>
+
+-- Esta declaración también **debe interpretarse** de manera  
+que **no estaría en conflicto** con los versos **citados** anteriormente.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱरुळिच्चॆय्ददुम् इव्वचनङ् गळुक्कविरुद्धमागवॊरुप्रकारत्ताले निर्वाह्यम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ऎङ्ङऩेय्" ऎऩ्ऩिल्;  
+
+> गद्यत्तिल् अरुळिच्-चॆय्गिऱव् अन्तिम-स्मृति  
+इव्व्-अन्तिम-स्मृतियैयुम् उपाय-फलम् आगक् कोलि  
+प्रपन्नर् आऩ् अवर्गळुक्कु वरक् कडवद्  
+
+ऎऩ्ऱु सिल आचार्यर्गळ् निर्वहिप्पर्गळ्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"कथम्?" इति चेत्-  
+
+> गद्येऽनुगृहीता ऽन्तिमस्मृतिः  
+इमाम् अन्तिम-स्मृतिम् अपि उपाय-फलत्वेनोद्दिश्य प्रपन्नानां भवितुम् अर्हति
+
+इति केचिद् आचार्या निर्वहन्ति । 
+</details>
+
+<details><summary>English</summary>
+
+This is how it should be interpreted.  
+Some ācāryas interpret as follows:-
+
+> "The statement made in (Śaraṇāgati Gadya)  
+> applies to those prapannas who,  
+> while performing prapatti,  
+> begged also for the remembrance of the Lord in their last moments." 
+</details>
+
+<details><summary>Español</summary>
+
+Así es como **debe interpretarse**.  
+Algunos ācāryas **interpretan** de la siguiente manera:-
+
+> "La **declaración hecha** en (Śaraṇāgati Gadya)  
+> se **aplica** a aquellos Prapannas que,  
+> Mientras **realiza** Prapatti,  
+> **soldeó** también por el **recuerdo** del Señor en sus últimos momentos ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; गद्यत्तिलरुळिच्चॆय्गिऱवन्तिमस्मृति इव्वन्तिमस्मृतियैयुमुपायफलमागक् कोलि प्रपन्नराऩवर्गळुक्कु वरक्कडवदॆऩ्ऱु सिल आचार्यर्गळ् निर्वहिप् पर्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् आगिल्  
+ऒरु शरीरत्तिलुम् अन्तिमम् आऩ प्रत्ययम्  
+**निर्विषयम् आय् इरामैयाल्**  
+इदु भगवद्-व्यतिरिक्त-विषयत्तिले पोम् आगिल् -  
++++(अन्तिम-स्मृति-निरपेक्ष-प्रपत्ति-विषये ऽपि)+++   
+
+> “यं यं वाऽपि स्मरन् भावम्"  
+
+ऎङ्गिऱ कणक्किले  
+विपरीत-फलम् आम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एवं सति  
+कस्मिंश्चिद् अपि शरीरे  
+ऽन्तिम-प्रत्ययस्य निर्विषयत्वायोगाद्  
+अस्य भगवद्-व्यतिरिक्त-विषये प्रवृत्तौ,  
++++(अन्तिम-स्मृति-निरपेक्ष-प्रपत्ति-विषये ऽपि)+++   
+
+> “यं यं वाऽपि स्मरन् भावम्"  
+
+इत्य्-उक्त-न्यायेन विपरीतफलं भवति ।
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियागिलॊरु शरीरत्तिलुमन्तिममाऩ प्रत्ययम्निर्विषयमायिरामैयालिदु भगवद्व्यतिरिक्तविषयत्तिले पोमागिल्“यं यं वाऽपि स्मरन्भावम्"  
+ऎङ्गिऱ कणक्किले  
+विपरीतफलमाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+
+
+> यं योगिनः प्राण-वियोग-काले यत्नेन चित्ते विनिवेशयन्ति  
+> (भारतम् शान्ति-पर्व ४६-१४३) 
+
+इत्य्-आदिगळिलुम् स्व-यत्न-साद्ध्यम् आग विधित्त कट्टळैयिले  
+
+> उपायम् आग अन्तिम-स्मृति वेण्डाव् ऎऩ्गिऱऩव् 
+
+ऎऩ्ऱु सिल आचार्यर्गळ् अनुसन्धिप्पार्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+This interpretation cannot be accepted for the following reason :  
+There must be some-last thought or other at the time of casting off the body  
+and this thought must have some object or other.  
+If the object that is thought of were other than the Lord,  
+it would become dangerous,  
+for it has been said -  
+
+> " Whatever object one thinks of  
+> at the time when one leaves one's body --  
+> that alone will one attain (after death)". 
+</details>
+
+<details><summary>Español</summary>
+
+Esta interpretación **no puede ser aceptada** por la siguiente razón:  
+Debe haber un **pensamiento** más bajo u otro en el momento de **expulsar** el cuerpo.  
+Y este pensamiento **debe tener** algún objeto u otro.  
+Si el objeto que **se piensa era** otro que el Señor,  
+**se volvería** peligroso  
+porque **se ha dicho** -
+
+> "Cualquiera que **sea** el objeto que uno **piense**  
+> En el momento en que uno **deja** el cuerpo de uno   
+> Eso solo **se alcanzará** (después de la **muerte**) ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियागिल् ऒरु शरीरत्तिलुमन्तिममाऩ प्रत्ययम् निर्विषयमायिरामैयाल्प्राणवियोगकाले यत्नेन चित्ते विनिवेशयन्ति’’(भारतम् शान्ति-पर्व ४६-१४३) इत्यादिगळिलुम् स्वयत्नसाद्ध्यमाग विधित्त कट्टळैयिले उपायमाग अन्तिमस्मृति वेण्डावॆऩ्गिऱऩवॆऩ्ऱु सिल आचार्यर्गळ् अनुसन्धिप्पार्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आन पुऩ्बु  
+गद्यत्तिलेय् अरुळिच् चेय्द पडीये  
+स्वतन्त्र-प्रपत्ति-निष्ठऩुक्कु  
+भगवद्-विषयत्तिल् अन्तिम-प्रत्ययम् अवश्यं वरुम्।  
+>
+> "नष्ट-स्मृतिर् अपि" +इत्य्-आदिगळ्,  
+> 
+> श्री-गीतेयिल् अष्टमाध्यायत्तिलुम्  
+> 
+> > "यं योगिनः प्राण-वियोग-काले  
+> यत्नेन चित्ते विनिवेशयन्ति’’  
+> (भारतम् शान्ति-पर्व ४६-१४३) 
+> 
+> इत्य्-आदिगळिलुम्  
+>
+> स्व-यत्न-साध्यम् आग विधित्त कट्टळैयिले  
+> उपायमाग अन्तिम-स्मृति वेण्डाव् ऎऩ्गिऱऩव्  
+
+ऎऩ्ऱु सिल आचार्यर्गळ् अनुसन्धिप्पार्गळ्। 
+</details>
+
+
+<details><summary>English</summary>
+
+So we have to conclude that  
+if the man has performed prapatti as an independent means,  
+whether or not he begged for the remembrance (of the Lord) in his last moments while performing prapatti,  
+he will get that remembrance as stated in the Gadya. 
+
+This is the interpretation favoured by some ācāryas. 
+
+In the verses from Sanskrit and Tamil quoted above  
+(where the last remembrance is not declared to be necessary),  
+what is meant is that the last remembrance is not prescribed for the prapanna  
+as something to be effected by his own effort as an upāya.  
+In the eighth chapter of the Gitā,  
+and in the śloka  which says :-
+
+> "That Bhagavān whom the yogis keep in their minds by an effort  
+> at the time of leaving the body  
+> \- keeping that Bhagavān in mind,  
+> Bhīṣma gave up his body.  
+> Was he not one who attained the fruit of his bhakti or upāsana ?"  
+
+(The last remembrance comes as an upāya for those who adopt bhakti as the means and it comes by their own effort;  
+but in the case of the prapanna,  
+the remembrance comes out of the Lord's grace alone.) 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces tenemos que concluir que
+Si el hombre ha realizado Prapatti como un medio independiente,
+Si él rogó o no por el recuerdo (del Señor) en sus últimos momentos mientras realizaba Prapatti,
+Obtendrá ese recuerdo como se indica en el Gadya.
+
+Esta es la interpretación favorecida por algunos ācāryas.
+
+En los versos del sánscrito y tamil citado anteriormente
+(donde el último recuerdo no se declara necesario),
+Lo que se entiende es que el último recuerdo no se prescribe para el Prapanna
+como algo para ser efectuado por su propio esfuerzo como un upāya.
+En el octavo capítulo del Gitā,
+y en el Śloka que dice:-
+
+> "Ese bhagavān a quien los yoguis mantienen en sus mentes por un esfuerzo
+> En el momento de dejar el cuerpo
+> \- teniendo en cuenta ese bhagavān,
+> Bhīṣma renunció a su cuerpo.
+> ¿No fue uno que alcanzó el fruto de su Bhakti o Upāsana? "
+
+(El último recuerdo viene como un upāya para aquellos que adoptan Bhakti como medios y se produce por su propio esfuerzo;
+Pero en el caso de la Prapanna,
+El recuerdo sale solo de la gracia del Señor).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आन पुऩ्बु  
+गद्यत्तिलेय् अरुळिच् चेय्द पडीये  
+स्वतन्त्र-प्रपत्ति-निष्ठऩुक्कु  
+भगवद्-विषयत्तिल् अन्तिम-प्रत्ययम् अवश्यं वरुम् -  
+नष्टस्मृतिर् अपि +इत्यादिगळ्  
+श्रीगीतेयिल् अष्टमाद्ध्यायत्तिलुम्  
+"यं योगिनः प्राणवियोगकाले यत्नेन चित्ते विनिवेशयन्ति’’(भारतम् शान्ति-पर्व ४६-१४३) इत्यादिगळिलुम् स्वयत्नसाद्ध्यमाग विधित्त कट्टळैयिले उपायमाग अन्तिमस्मृति वेण्डावॆऩ्गिऱऩवॆऩ्ऱु सिल आचार्यर्गळ् अनुसन्धिप्पार्गळ्। 
+</details>
+
+
+
+
+
+" Kevalam madiya dayaya" are Śrī Rāmānuja's words. What does this last remembrance mean? When speech and other activities have be come impossible, the remembrance or thought which arises in the mind before the mind, too, ceases to function-this is the last remembrance. Those who stand by cannot know it. Śrī Rāmānuja's commentary on the Brahma Sūtra: “It is seen  that the mind functions even after the senses have ceased to do so", means only this, that the mind's functioning may be inferred by some sign or other. It may also describe his own experience in some states of ill-health and the like. Therefore this last remembrance is a thing that could be known only to the man who becomes a mukta and to (the Lord) who gives him mokṣa .
 
 After this, the self, whether it be of the yogi or of one who is not a yogi, takes repose by the side of the Supreme Being who is in his heart (Harda) and is in a state similar to that of dreamless sleep (suṣupti).
 
