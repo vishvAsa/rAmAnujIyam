@@ -3225,14 +3225,244 @@ Y para el hombre que **no lo ha hecho**.
 इप्पडि स्थूलशरीरत्तिऩिऩ्ऱुम् विद्वदविद्वत्साधारणमाऩ वुत्क्रान्तिक्रमत्तै नडत्ति, 
 </details>
 
+### विविधा गतयः
 
-
+<details><summary>English</summary>
 
 THE PATH OF THE JOURNEY AFTER DEPARTURE:
+</details>
 
-(In regard to this passage of the self from the body), it has been said as follows: "The Jīva   who abides in the heart like a lamp has innumerable veins (nādi). They are of many colours:--- white, black, violet, blue, golden yellow, yellow and red. Among these veids (1ādīs), which are of varied colours, there is one which proceeds upwards. The individual self (Jīva  ) who passes through this vein breaks through the sphere of the sun and, having passed beyond the world of Brahma, reaches the highest state. One hundred other nādīs also go upwards. The Jīva   who goes out through them attains the bodies of the devas and reaches their worlds. Some nādis of various colours go downwards and they are dim. The Jīva   who goes out through them is born in saṁsāra in this world, without any choice on his part, in order to experience the fruits of his karma. (Since the nādīs are like rays proceeding from the heart which is like a lamp, they are called rays (rasmis).
+<details><summary>Español</summary>
 
-The Lord sees to it that the self of the prapanna does not go out through any of these nādīs which lead those that are thieves of themselves, ((i. e.) who do not realise that they belong to the lord) to svarga and naraka (hell) and are therefore like the routes along which thieves take their victims. He makes the prapanna's self enter the Brahma Nīdi, which is beyond the hundredth among those nādīs that go upwards and which leads to the shining path called arcirādi, and helps it to start with the support of the rays of the sun.
+El camino del viaje después de la partida:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनन्ता रश्मयस् +++(←नाडयः)+++ तस्य +++(जीवस्य)+++  
+दीपवद् यस् **स्थितो** हृदि ।  
+सितासिताः कद्रु+++(=violet)+++-नीलाः  
+कपिलाः पीत-लोहिताः ॥  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अनन्ता रश्मयस् +++(←नाडयः)+++ तस्य +++(जीवस्य)+++  
+दीपवद् यस् **स्थितो** हृदि ।  
+सितासिताः कद्रु+++(=violet)+++-नीलाः  
+कपिलाः पीत-लोहिताः ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+(In regard to this passage of the self from the body),  
+it has been said as follows:  
+
+> "The Jīva who abides in the heart like a lamp  
+> has innumerable veins (nādi).  
+> They are of many colours:---  
+> white, black, violet, blue, golden yellow, yellow and red. 
+
+(Since the nādīs are like rays proceeding from the heart which is like a lamp,  
+they are called rays (rasmis)).
+</details>
+
+<details><summary>Español</summary>
+
+(Con respecto a este **pasaje** del yo del cuerpo),  
+**Se ha dicho** de la siguiente manera:
+
+> "El Jīva que **permanece** en el corazón como una lámpara  
+> **tiene** innumerables venas (nādi).  
+> Son de muchos colores: ---  
+> Blanco, negro, violeta, azul, amarillo dorado, amarillo y rojo.
+
+(Dado que los nādīs **son** como rayos  
+que **proceden** del corazón, que **es** como una lámpara,  
+se **llaman** rayos (rasmis)).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनन्ता रश्मयस्तस्य  
+दीपवद्यस्स्थितो हृदि ।  
+सितासिताः कद्रुनीलाः  
+कपिलाः पीतलोहिताः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऊर्ध्वम् एकस् **स्थितस्** तेषां  
+यो **भित्त्वा** सूर्य-मण्डलम् ।  
+ब्रह्म-लोकम् **अतिक्रम्य**  
+तेन **याति** परां गतिम् ॥  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ऊर्ध्वम् एकस् **स्थितस्** तेषां  
+यो **भित्त्वा** सूर्य-मण्डलम् ।  
+ब्रह्म-लोकम् **अतिक्रम्य**  
+तेन **याति** परां गतिम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+> Among these veins (nādīs), which are of varied colours,  
+> there is one which proceeds upwards.  
+> The individual self (Jīva  ) who passes through this vein  
+> breaks through the sphere of the sun   
+> and, having passed beyond the world of Brahma,  
+> reaches the highest state.  
+</details>
+
+<details><summary>Español</summary>
+
+> Entre estas venas (nādīs), que **son** de colores variados,  
+> **Hay** uno que **avanza** hacia arriba.  
+> El yo individual (Jīva) que **pasa** por esta vena  
+> **rompe** la esfera del sol  
+> Y, después de **haber pasado** más allá del mundo de Brahma,  
+> **alcanza** el estado más alto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऊर्ध्वमेकस्स्थितस्तेषां  
+यो भित्त्वा सूर्यमण्डलम् ।  
+ब्रह्मलोकमतिक्रम्य  
+तेनयाति परां गतिम् ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यद् अस्यान्यद् रश्मि-शतम्  
+ऊर्ध्वम् एव **व्यवस्थितम्** ।  
+तेन देव-शरीराणि  
+स-धामानि **प्रपद्यते** ॥  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> यद् अस्यान्यद् रश्मि-शतम्  
+ऊर्ध्वम् एव **व्यवस्थितम्** ।  
+तेन देव-शरीराणि  
+स-धामानि **प्रपद्यते** ॥  
+</details>
+
+<details><summary>English</summary>
+
+> One hundred other nādīs also go upwards.  
+> The Jīva who goes out through them  
+> attains the bodies of the devas  
+> and reaches their worlds.  
+</details>
+
+<details><summary>Español</summary>
+
+> Otros cien nādīs también **van** hacia arriba.  
+> El Jīva que los **pasa** por  
+> **alcanza** los cuerpos de los devas  
+> y **llega** a sus mundos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदस्यान्यद् रश्मिशतम्  
+ऊर्ध्वमेव व्यवस्थितम् ।  
+तेन देवशरीराणि  
+सधामानि प्रपद्यते ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> येनैक-रूपाश् चाधस्ताद्  
+रश्मयो ऽस्य मृदु-प्रभाः ।  
+इह **कर्मोपभोगाय**  
+तैस् **संसरति** सोऽवशः॥’’  
+(याज्ञवल्क्यस्मृति ४-६६, ६७, ६८, ६९।)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> येनैक-रूपाश् चाधस्ताद्  
+रश्मयो ऽस्य मृदु-प्रभाः ।  
+इह कर्मोपभोगाय  
+तैस्संसरति सोऽवशः॥’’  
+(याज्ञवल्क्यस्मृति ४-६६, ६७, ६८, ६९।)  
+</details>
+
+<details><summary>English</summary>
+
+> Some nādis of various colours go downwards  
+> and they are dim.  
+> The Jīva who goes out through them  
+> is born in saṁsāra in this world,  
+> without any choice on his part,  
+> in order to experience the fruits of his karma.  
+</details>
+
+<details><summary>Español</summary>
+
+> Algunos nādis de varios colores **van** hacia abajo  
+> Y **son** tenues.  
+> El Jīva que los pasa por ellos  
+> **nace** en saṁsāra en este mundo,
+> sin ninguna **elección** de su parte,  
+> Para **experimentar** los frutos de su karma.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+येनैकरूपाश्चाधस्ताद्  
+रश्मयोऽस्य मृदुप्रभाः ।  
+इह कर्मोपभोगाय  
+तैस्संसरति सोऽवशः॥’’  
+(याज्ञवल्क्यस्मृति ४-६६, ६७, ६८, ६९।)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… ऎऩ्गिऱबडिये  
+कळ्ळर् कॊण्डु पोम् वऴिगळ् पोले  
+आत्मापहारिगळ् स्वर्ग-नरकङ्गळुक्कुप् पोम् मार्गान्तरङ्गळुक्कु मुखङ्गळ् आऩ  
+नाडीविशेषङ्गळिल् पोगाद बडि **वऴि विलक्कि**+++(=विलक्षयित्वा)+++, 
+</details>
+
+<details><summary>English</summary>
+
+The Lord sees to it that the self of the prapanna does not go out through any of these nādīs  
+which lead those that are thieves of themselves, ((i. e.) who do not realise that they belong to the lord) to svarga and naraka (hell)  
+and are therefore like the routes along which thieves take their victims. 
+</details>
+
+<details><summary>Español</summary>
+
+El Señor **se ve** que  
+el yo de la Prapanna **no sale** a través de ninguno de estos nādīs  
+que **llevan** a los que **son ladrones** de sí mismos, ((es decir) que **no se dan cuenta** de que **pertenecen** al Señor) a Svarga y Naraka (infierno)  
+y, por lo tanto, **son** como las rutas a lo largo de las cuales los ladrones **llevan** a sus víctimas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱबडिये कळ्ळर् कॊण्डु पोम् वऴिगळ् पोले आत्मापहारिकळ् स्वर्गनरकङ्गळुक्कुप्पोम् मार्गान्तरङ्गळुक्कुमुखङ्गळाऩ नाडीविशेषङ्गळिल् पोगादबडि वऴिविलक्कि, 
+</details>
+
+
+
+He makes the prapanna's self enter the Brahma Nīdi, which is beyond the hundredth among those nādīs that go upwards and which leads to the shining path called arcirādi, and helps it to start with the support of the rays of the sun.
 
 When Kooratth alvan (ŚrīVatsankamiśra) was in his last moments, his tongue was parched with the fatigue (of the moment) and (unable to speak or utter any words) he caught hold of Śrī Rāmānuja's feet. At that time Śrī Rāmānuja whispered the Dvaya Mantra in his ear[^58] . The other disciples, who were there, said to themselves with mental depression :- "How can we hope to get this blessing ( Dvaya being whispered in the ear by ŚrīRāmānuja)? What shall we do?" Śrī Rāmānuja understood their fears and said, "Do you not know the true character of Alvan? When he is in this condition (unable to say anything owing to the parched throat), what I did was only like placing a little camphor and a piece of sugar-candy (in his mouth, to make it wet). I did not whisper the Dvaya in order to make the upāya complete with its accessories". The disciples were relieved on hearing this.
 
