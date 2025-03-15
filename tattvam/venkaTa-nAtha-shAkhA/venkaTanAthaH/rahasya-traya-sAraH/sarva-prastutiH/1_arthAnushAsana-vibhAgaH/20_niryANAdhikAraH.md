@@ -3536,7 +3536,7 @@ y lo **ayuda** a **comenzar** con el **apoyo** de los rayos del sol.
 सूर्यकरावलम्बियाय्क्कॊण्डु पुऱप्पडुम्बडि पण्णुम्। 
 </details>
 
-## अन्तिम-स्मृतेर् अनपेक्षा
+## अन्तिम-स्मृतौ प्रयासानपेक्षा
 
 ### कूरेश-कथा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4281,6 +4281,13 @@ El **recuerdo sale** solo de la gracia del Señor).
 पिऱप्पद् ऒरु स्मृति । 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अन्तिमस्मृतिर् नाम -  
+वागादिषु +**उपशान्तेषु**  
+मनस उपशमात् पूर्वं **जायमाना** काचित् स्मृतिः ।  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4310,6 +4317,12 @@ Este es el último recuerdo.
 इदु अरुग्+++(=समीपे)+++ इरुन्दार्क्कुत् तॆरियादु। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इयं सन्निहितैर् अपि ज्ञातुम् अशक्या।
+</details>
+
+
 <details><summary>English</summary>
 
 Those who stand by cannot know it. 
@@ -4326,13 +4339,336 @@ Las que **están** de pie **no pueden saberlo**.
 </details>
 
 
-Śrī Rāmānuja's commentary on the Brahma Sūtra: “It is seen  that the mind functions even after the senses have ceased to do so", means only this, that the mind's functioning may be inferred by some sign or other. It may also describe his own experience in some states of ill-health and the like. Therefore this last remembrance is a thing that could be known only to the man who becomes a mukta and to (the Lord) who gives him mokṣa .
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-After this, the self, whether it be of the yogi or of one who is not a yogi, takes repose by the side of the Supreme Being who is in his heart (Harda) and is in a state similar to that of dreamless sleep (suṣupti).
+> ‘‘दृश्यते हि वाग्-इन्द्रिय उपरते ऽपि मनः-प्रवृत्तिः’’ 
 
-It may be asked whether the description contained in the slokās and Tamil verses quoted above (Nos. 20 and 21)-such as being like a log of wood or like a piece of stone, and loss of all remembrance or consciousness may not be a reference to this state of suṣupti. The answer is that if so, there would be no special consideration for the prapanna ( which certainly there is).
+ऎऩ्गिऱ भाष्यमुम्  
+ऎदेऩुम् ऒरु लिङ्गत्ताले  
 
-Thereafter (i.e. after repose by the side of the Supreme Being), the self or soul attains perfect knowledge being awakened by the Lord (who is wise) and who says that "the Jīva   gets knowledge, memory and forgetfulness only from Him. Lighted by that knowledge, it enters into the Brahma Nadi. Thence  forward Time is one eternal day for the self.
+> ऒरु मनः-प्रवृत्तिय् इवऩुक्क् उण्ड्  
+
+ऎऩ्ऱ् अऱिगिऱ वळवैच् चॊल्लुगिऱदु, 
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘दृश्यते हि वाग्-इन्द्रिय उपरते ऽपि मनः-प्रवृत्तिः’’ 
+
+
+इति भाष्यम् अपि  
+येन केनचिल् लिङ्गेन,  
+या काचिन् मनः-प्रवृत्तिर् अस्यास्तीति ज्ञान-मात्रं प्रतिपादयति ।
+</details>
+
+
+<details><summary>English</summary>
+
+Śrī Rāmānuja's commentary on the Brahma Sūtra:  
+
+> “It is seen that the mind functions  
+> even after the senses have ceased to do so", 
+
+means only this,  
+that the mind's functioning may be inferred  
+by some sign or other. 
+</details>
+
+<details><summary>Español</summary>
+
+El comentario de Śrī Rāmānuja sobre el Brahma Sūtra:
+
+> “Se ve que la mente **funciona**  
+> Incluso después de que los sentidos **hayan dejado** de **hacerlo** ",
+
+**significa** solo esto,  
+que **se puede inferir** el funcionamiento de la mente  
+por algún signo u otro.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘दृश्यते हि वागिन्द्रिय उपरतेऽपि मनःप्रवृत्तिः’’ ऎऩ्गिऱ भाष्यमुम् ऎदेऩु मॊरु लिङ्गत्ताले ऒरु मनःप्रवृत्तियिवऩुक्कुण्डॆऩ्ऱऱिगिऱवळवैच् चॊल्लुगिऱदु, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩक्कु सिल व्याध्य्-आद्य्-अवस्थैगळिले कण्ड बडियैच् चॊल् सॊल्लुगिऱद् आगवुम् आम्। 
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यद् वा स्वेन कासुचिद् व्याध्य्-आद्य्-अवस्थास्व् अनुभृतां रीतिं प्रतिपादयति । 
+</details>
+
+
+<details><summary>English</summary>
+
+It may also describe his own experience in some states of ill-health and the like. 
+</details>
+
+<details><summary>Español</summary>
+
+También **puede describir** su propia experiencia  
+en algunos estados de mala salud y similares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩक्कु सिल व्याध्याद्यवस्थैकळिले कण्डबडियैच् चॊल्सॊल्लुगिऱदागवुमाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩ पिऩ्बु भगवद्-विषयत्तिल् अन्तिम-स्मृतिम् उक्तर् आगिऱवर्क्कुम्  
+मोक्षङ् कॊडुक्किऱवर्क्कुन् तॆरियुम् इत्तऩै। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अतो भगवद्-विषये ऽन्तिम-स्मृतिर्  
+मोक्ष्यमाणैर् मोक्ष-दात्रा च ज्ञातुं शक्येत्य् एतावद् एव । 
+</details>
+
+<details><summary>English</summary>
+
+Therefore this last remembrance is a thing  
+that could be known only to the man who becomes a mukta  
+and to (the Lord) who gives him mokṣa .
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, este último **recuerdo** es una cosa  
+que solo **podría ser conocido** por el hombre que se **convierte** en un mukta  
+y a (el Señor) que le **da** mokṣa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩ पिऩ्बु भगवद्विषयत्तिल् अन्तिमस्मृतिमुक्तरागिऱवर्क्कुम् मोक्षङ्गॊडुक्किऱवर्क्कुन् दॆरियुमित्तऩै। 
+</details>
+
+## भगवति विश्रान्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्क् अनन्तरम्  
+योगिगळोडुम् अ-योगिगळोडुम् वासियऱ  
+हार्दऩ् आऩ परमात्माविऩ् पक्कलिले  
+विश्रमिक्कुम् अळवुम् सुषुप्ति-तुल्यम् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतद्-अनन्तरं योग्य्--अ-योगि--निर्विशेषं हार्दे परमात्मनि  
+विश्रमण-पर्यन्तं सुषुप्ति-तुल्यं भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+After this,  
+the self, whether it be of the yogi  
+or of one who is not a yogi,  
+takes repose by the side of the Supreme Being  
+who is in his heart (Harda)  
+and is in a state similar to that of dreamless sleep (suṣupti).
+</details>
+
+<details><summary>Español</summary>
+
+Después de esto,  
+el yo, ya sea del yogui  
+o de alguien que no es un yogui,  
+**toma reposo** al lado del ser supremo  
+quien **está** en su corazón (Harda)  
+y **está** en un estado similar al de sueño sin ensueños (Suṣupti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुक्कनन्तरम् योगिकळोडुम् अयोगिकळोडुम् वासियऱ हार्दऩाऩ परमात्माविऩ् पक्कलिले विश्रमिक्कुमळवुम् सुषुप्तितुल्यमायिरुक्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अवस्थैयैप् पऱ्ऱ  
+
+> ‘‘काष्ठ-पाषाण-सन्निभं',  
+> 'नष्ट-स्मृतिर् अपि’’  
+(वराह-चरम-श्लोकः) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इमाम् अवस्थां लक्ष्यी-कृत्यैव,  
+
+
+> ‘‘काष्ठ-पाषाण-सन्निभं',  
+> 'नष्ट-स्मृतिर् अपि’’  
+(वराह-चरम-श्लोकः) 
+
+इति
+</details>
+
+
+
+<details><summary>English</summary>
+
+It may be asked whether the description contained in the slokās and Tamil verses quoted above (Nos. 20 and 21)- such as  
+
+> being like a log of wood or like a piece of stone, 
+
+and 
+
+> loss of all remembrance or consciousness 
+
+may not be a reference to this state of suṣupti. 
+</details>
+
+<details><summary>Español</summary>
+
+Se **puede preguntar**  
+si la **descripción contenida** en los versos slokās y tamiles citados anteriormente (Nos. 20 y 21), como
+
+> **Ser** como un tronco de madera o como un trozo de piedra,
+
+y
+
+> **Pérdida** de todos los recuerdos o conciencia
+
+**puede no ser una referencia** a este estado de Suṣupti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्ववस्थैयैप्पऱ्ऱ‘‘काष्ठपाषाणसन्निभं', 'नष्टस्मृतिरपि’’(वराहसरमश्लोकम्) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'निऩैक्क माट्टेऩ्'  
+> (पॆरियाऴ्वार् तिरुमॊऴि ४-१०-१)  
+
+ऎऩ्ऱुञ् जॊल्लुगिऱद् ऎऩ्ऱाल् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“न स्मरेयम्" इति चोच्यते इत्य्-उक्तौ- 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'निऩैक्कमाट्टेऩ्'(पॆरियाऴ्वार् तिरुमॊऴि ४-१०-१)  ऎऩ्ऱुञ् जॊल्लुगिऱदॆऩ्ऱाल् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपन्नाधिकारिक्कु विशेषित्त् ओर् अतिशयञ् जॊल्लिऱ्ऱ् आगादु।  
++++(उक्तस् तु भवेत्।)+++ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रपन्नाधिकारिणो विशिष्य कश्चिद् अतिशय उक्तो न भवति ( भवेत् ) ।  
++++(उक्तस् तु भवेत्।)+++ 
+</details>
+
+
+<details><summary>English</summary>
+
+The answer is that if so,  
+there would be no special consideration for the prapanna ( which certainly there is).
+</details>
+
+<details><summary>Español</summary>
+
+La **respuesta** es que si **es** así,  
+**No habría** una consideración especial para la Prapanna (que ciertamente **hay**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपन्नाधिकारिक्कु विशेषित्तोरतिशयञ्जॊल्लिऱ्ऱागादु। 
+</details>
+
+## अन्तिम-प्रबोधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कु मेल् 
+
+> ‘‘मत्तः स्मृतिर् ज्ञानम् अपोहनञ् च’’  
+> (गीता १५-१५।) 
+
+ऎऩ्गिऱ प्राज्ञऩ् **उणर्त्त**+++(=प्रबोधितवति)+++  
+तत्-**प्रकाशित-द्वारऩ् आय्क्** कॊण्डु  
+ब्रह्म-नाडियिले **प्रवेशित्ताल्**  
+पिऩ्बु काल-तत्त्वम् उळ्ळ-तऩैयुम्+++(=यावत् → शाश्वतम्)+++  
+ऒरु पगल् आय् **उणर्त्तियेय्**+++(=जागृतिर्)+++ आम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१६५]] 
+
+एतद्-अग्रे 
+
+> ‘‘मत्तः स्मृतिर् ज्ञानम् अपोहनञ् च’’  
+> (गीता १५-१५।) 
+
+इत्य्-उक्ते प्राज्ञे प्रबोधितवति सति  
+तत्-प्रकाशित-द्वारस्य सतो  
+ब्रह्म-नाड्यां प्रवेशे वृत्ते  
+पश्चात् यावत्-काल-तत्त्व-सद्-भावम् +++(→शाश्वतः)+++  
+एक-+++(अनन्त-)+++दिनात्मकः **प्रकाश एव भवति** ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+Thereafter (i.e. after repose by the side of the Supreme Being),  
+the self or soul attains perfect knowledge  
+being awakened by the Lord (who is wise)  
+and who says that 
+the Jīva gets knowledge, memory and forgetfulness only from Him.  
+Lighted by that knowledge, it enters into the Brahma Nadi.  
+Thence  forward Time is one eternal day for the self.
+</details>
+
+<details><summary>Español</summary>
+
+Thereafter (i.e. after repose by the side of the Supreme Being),  
+the self or soul attains perfect knowledge  
+being awakened by the Lord (who is wise)  
+and who says that 
+the Jīva gets knowledge, memory and forgetfulness only from Him.  
+Lighted by that knowledge, it enters into the Brahma Nadi.  
+Thence  forward Time is one eternal day for the self.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुक्कुमेल् ‘‘मत्तः स्मृतिर्ज्ञानमपोहनञ्च’’(गीता १५-१५।) ऎऩ्गिऱ प्राज्ञऩुणर्त्त तत्प्रकाशितद्वारऩाय्क्कॊण्डु ब्रह्मनाडियिले प्रवेशित्ताल् पिऩ्बु कालतत्त्वमुळ्ळ तऩैयुमॊरुबगलायुणर्त्तियेयाम्। 
+</details>
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
