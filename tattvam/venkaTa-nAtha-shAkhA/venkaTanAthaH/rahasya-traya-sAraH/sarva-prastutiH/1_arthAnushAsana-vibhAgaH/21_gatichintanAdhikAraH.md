@@ -3,13 +3,23 @@ title = "२१ गतिचिन्तनाधिकारः"
 
 +++
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ॥ श्रीः ॥  
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे गतिचिन्तनाधिकारः ॥ २१ ॥
+</details>
 
-(21) THE CHAPTER ON THE PRESCRIBED
+<details><summary>मूलम्</summary>
 
-PATH OR ROUTE.page267
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+॥ श्रीमद्रहस्यत्रयसारे गतिचिन्तनाधिकारः ॥ २१ ॥
+</details>
+
+
+(21) THE CHAPTER ON THE PRESCRIBE
+PATH OR ROUTE. page 267
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
