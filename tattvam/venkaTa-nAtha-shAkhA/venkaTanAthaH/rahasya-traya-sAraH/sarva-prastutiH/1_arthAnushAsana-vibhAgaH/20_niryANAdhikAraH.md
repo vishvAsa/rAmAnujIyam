@@ -3536,8 +3536,9 @@ y lo **ayuda** a **comenzar** con el **apoyo** de los rayos del sol.
 सूर्यकरावलम्बियाय्क्कॊण्डु पुऱप्पडुम्बडि पण्णुम्। 
 </details>
 
-## द्वयोच्चारणम्
+## अन्तिम-स्मृतेर् अनपेक्षा
 
+### कूरेश-कथा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(कूरत्-)+++आऴ्वाऩ् अन्तिम-दशैयिले  
@@ -3702,7 +3703,7 @@ Los discípulos **se sintieron aliviados** al **escuchar** esto.
 इवर्गळभिप्रायत्तैत् तिरुवुळ्ळम् पऱ्ऱि, 'आऴ्वाऩ् प्रकृतियऱियीर्गळो; इव्वस्थैयिलिवरुक्किदु कर्पूरत् तैयुम् खण्डशर्करैयैयुमिट्टमात्रमऩ्ऱो, नामिदु उपायत्तुक्कुप् परिकरमागच् चॆय्दोमल्लो' मॆऩ्ऱरुळिच्चॆय्य मुदलिगळ् तॆळिन्दु निर्भरराऩार्गळ्। 
 </details>
 
-
+### अन्तिम-स्मृतेर् अनपेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् 
@@ -4270,11 +4271,62 @@ El **recuerdo sale** solo de la gracia del Señor).
 ‘‘केवलं मदीययैव दयया’’(शरणागति-गद्यम्) ऎऩ्ऱिऱेयिङ्गरुळिच् चॆय्ददु। 
 </details>
 
-## अन्तिम-स्मृति-निरूपणम्
+### अन्तिम-स्मृति-निरूपणम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्तिम-स्मृतिय् आवदु;  
+वाग्-आदिगळ् उपशान्तम् आऩाल्  
+मनस्सु उपशान्तम् आवदऱ्कु मुऩ्बे  
+पिऱप्पद् ऒरु स्मृति । 
+</details>
 
 
+<details><summary>English</summary>
 
-What does this last remembrance mean? When speech and other activities have be come impossible, the remembrance or thought which arises in the mind before the mind, too, ceases to function-this is the last remembrance. Those who stand by cannot know it. Śrī Rāmānuja's commentary on the Brahma Sūtra: “It is seen  that the mind functions even after the senses have ceased to do so", means only this, that the mind's functioning may be inferred by some sign or other. It may also describe his own experience in some states of ill-health and the like. Therefore this last remembrance is a thing that could be known only to the man who becomes a mukta and to (the Lord) who gives him mokṣa .
+What does this last remembrance mean?  
+When speech and other activities have be come impossible,  
+the remembrance or thought which arises in the mind before the mind, too, ceases to function -  
+this is the last remembrance. 
+</details>
+
+<details><summary>Español</summary>
+
+¿Qué **significa** este último **recuerdo**?  
+Cuando el **discurso** y otras **actividades** han sido **imposibles**  
+El **recuerdo** o el **pensamiento** que **surge** en la mente  
+ante la mente también **deja** de funcionar -  
+Este es el último recuerdo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्तिमस्मृतियावदु; वागादिगळ् उपशान्तमाऩाल् मनस्सु उपशान्त मावदऱ्कु मुऩ्बे पिऱप्पदॊरु स्मृति । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु अरुग्+++(=समीपे)+++ इरुन्दार्क्कुत् तॆरियादु। 
+</details>
+
+<details><summary>English</summary>
+
+Those who stand by cannot know it. 
+</details>
+
+<details><summary>Español</summary>
+
+Las que **están** de pie **no pueden saberlo**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु अरुगिरुन्दार्क्कुत् तॆरियादु। 
+</details>
+
+
+Śrī Rāmānuja's commentary on the Brahma Sūtra: “It is seen  that the mind functions even after the senses have ceased to do so", means only this, that the mind's functioning may be inferred by some sign or other. It may also describe his own experience in some states of ill-health and the like. Therefore this last remembrance is a thing that could be known only to the man who becomes a mukta and to (the Lord) who gives him mokṣa .
 
 After this, the self, whether it be of the yogi or of one who is not a yogi, takes repose by the side of the Supreme Being who is in his heart (Harda) and is in a state similar to that of dreamless sleep (suṣupti).
 
