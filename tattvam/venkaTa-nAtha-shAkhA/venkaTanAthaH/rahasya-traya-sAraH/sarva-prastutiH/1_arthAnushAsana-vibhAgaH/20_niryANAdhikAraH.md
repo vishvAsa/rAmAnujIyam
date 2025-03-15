@@ -4668,14 +4668,14 @@ Thence  forward Time is one eternal day for the self.
 </details>
 
 
-
+## सङ्ग्रहः
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-नन्निलमामदु नऱ्‌पगलामदु नन्निमित्तम्  
-ऎन्नलुमामदुयादानुमा मङ्गडियवर्क्कु  
-मिन्निलैमेनि विडुम्बयणत्तु विलक्किलदोर्  
-नन्निलैया नडु नाडिवऴिक्कु नडैबॆऱवे. (27)
+नन्-निलम् आम् अदु, नऱ्‌-पगल् आम् अदु, नन् निमित्तम्  
+ऎन्नलुम् आम् अदु, यादानुम् आम् - अङ्ग् अडिय्-अवर्क्कु  
+मिन्निलै+++(=विद्युत्)+++-मेनि++(=काय)+++-विडुम्-पयणत्तु विलक्क्+++(→बाध)+++-इलद् ओर्  
+नन्-निलैया नडु नाडि-वऴिक्कु नडै पॆऱवे. (27)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
@@ -4686,7 +4686,9 @@ Thence  forward Time is one eternal day for the self.
 नन्निलैया नडु नाडिवऴिक्कु नडैबॆऱवे. (27)
 </details>
 
-To the prapanna (who is a devotee of Śrī Raṅganātha) who departs from the body which is as transient as lightning and who is to journey from the central Brahma nadi, along the beautiful and shining path (of arcirādi), which is free from all impediments, the place of his departure is itself an auspicious place, the day of his departure is itself an auspicious day, the omens and signs that are then seen are all auspicious, whatever they may be.
+To the prapanna (who is a devotee of Śrī Raṅganātha)  
+who departs from the body which is as transient as lightning  
+and who is to journey from the central Brahma nadi, along the beautiful and shining path (of arcirādi), which is free from all impediments, the place of his departure is itself an auspicious place, the day of his departure is itself an auspicious day, the omens and signs that are then seen are all auspicious, whatever they may be.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
