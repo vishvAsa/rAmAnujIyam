@@ -97,25 +97,282 @@ Luego **sigue** la maravilla que desafía (toda descripción en palabras).
 </details>
 
 
+<details><summary>सायण-टीका</summary>
+
+ब्रह्मनाडीप्रवेशानन्तरम् वरुम् आतिवाहिकप्राप्तिक्रमत्तै यरुळिच्चॆय्गिऱार् ज्वलनेति श्लोकत्ताले। ज्वलनः – अर्चिः, अर्चिरभिमानिपुरुषः । दिवसः – वासरः, वासराभिमानिपुरुषऩॆऩ्ऱबडि। इप्पडिये मेलुम् कालवाचिशब्दमॆल्लाम् अभिमानिपर्यन्तमागक्कडवदु। ज्योत्स्नापक्षः – शुक्लपक्षम्, उत्तरायणं – मकरादिमासषट्कम्, वत्सरः - संवत्सरम्, इन्द क्रमम् छान्दोग्यत्तिल् ‘‘तेऽर्चिषमभिसम्भवन्ति, अर्चिषोऽहः, अह्न आपूर्यमाणपक्षं, अपूर्यमाणपक्षाद्यान् षडुदङ्ङेति मासांस्तान्, मासेभ्य-स्संवत्सरं’’ ऎऩ्ऱु सॊल्लप्पट्टदु। पवनः - वायुः, तपनः – सूर्यऩ्, प्रालेयांशुः – हिम-किरणऩाऩ सन्द्रऩ्, अचिरद्युतिः – विद्युत्पुरुषऩ्, जलधरपतिः – वरुणऩ्, देवाधीशः – इन्द्रऩ्, प्रजापतिः – चतुर्मुखब्रह्मा, इवर्गळै क्रमात् – अर्चिरादिपादत्तिल् निर्णयिक्कप्पट्ट क्रमत्ताले, आगतः - अडैन्दवऩाय् अवर्गळाले सत्करिक्कप्पट्ट प्रपन्नऩ्, विरजां - वैकुण्ठ-त्तिल् प्रवहिक्कुम् विरजानदियै, तरति – ‘‘तां मनसात्येति’’ ऎऩ्गिऱबडिये सङ्गल्बत्ताले कडन्दु पोवऩ्। ततः परं - अदऱ्कु मेले वरप्पोगिऱ। अद्भुतं – आश्चर्यमाऩदु, भगवाऩुम् परमपदमुमॆऩ्ऱबडि। दूरे वाचः – ‘‘यतो वाचो निवर्तन्ते’’ ऎऩ्गिऱ पडि वाक्कुक्कु दूरमाऩदु। वाचामगोचरमॆऩ्ऱबडि। 
+</details>
+
+## देह-त्यागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि मूर्धन्य-नाडियिले प्रवेशितऩ् आऩ मुमुक्षुवै  
 स्थूल-शरीरम् आगिऱ ब्रह्म-पुरत्तिऩिऩ्ऱुम्  
-ब्रह्म-नाडिय् आगिऱ तलै-वासलाले  
+ब्रह्म-नाडिय् आगिऱ तलै+++(→प्रधान)+++-वासलाले  
 वत्सलऩ् आऩ हार्दऩ्  
-वार्त्तै सॊल्लक् कऱ्किऱ मुख-वश्यऩ् आऩ राज-कुमारऩै राजाव् ऎडुत्तुक् कॊण्डु उलावुमाप् पोले  
+
+वार्त्तै सॊल्लक् कऱ्किऱ+++(=शिक्ष्यमाणे)+++  
+मुख-वश्यऩ् आऩ राज-कुमारऩै राजाव् ऎडुत्तुक् कॊण्डु  
+उलावुमाप्+++(=सञ्चरणं)+++ पोले  +++(5)+++ 
+
 कॊण्डु पुऱप् पट्टु,
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं मूर्धन्यनाड्यां प्रवेशितं मुमुक्षं  
+स्थूल-शरीर-रूपाद् ब्रह्म-पुराद् ब्रह्म-नाडी-रूप-प्रधान-द्वारेण  
+वत्सलो हार्दो 
+वार्तोच्चारणे शिक्षमाणे  
+मुख-वश्यं राज-कुमारं  
+राजा गृहीत्वा यथा संचरति  
+तथा गृहीत्वा निष्क्रम्य, 
+</details>
+
+
+<details><summary>English</summary>
+
+Thus the Lord who lives in the heart  
+and who is full of love (for the Jīva  )  
+starts -  
+with the self who desires mukti  
+and who has entered into the nādi in the head  
+from out of Brahmapuri, namely, the gross body,  
+by the Brahma Nādi,  
+which is, as it were, the main gate (of that city). 
+
+In this He resembles a king  
+who walks to and fro  
+with his charming child in his arms.
+</details>
+
+<details><summary>Español</summary>
+
+Así, el Señor que **vive** en el corazón  
+y que **está lleno** de amor (para el Jīva)  
+**comienza** -  
+con el yo que **desea** mukti  
+y quien **ha entrado** en el nādi en la cabeza  
+De fuera de Brahmapuri, a saber, el cuerpo bruto,  
+por el Brahma Nādi,  
+que es, por así decirlo, la puerta principal (de esa ciudad).
+
+En esto **se parece** a un rey  
+quien **camina** de un lado a otro  
+con su encantador hijo en sus brazos.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इप्पडि मूर्धन्यनाडियिले प्रवेशितऩाऩ मुमुक्षुवै स्थूलशरीरमागिऱ ब्रह्मपुरत्तिऩिऩ्ऱुम् ब्रह्मनाडियागिऱ तलैवासलाले वत्सलऩाऩ हार्दऩ् वार्त्तै सॊल्लक्कऱ्किऱ मुखवश्यऩाऩ राजकुमारऩै राजावॆडुत्तुक्कॊण्डु उलावुमाप्पोले कॊण्डु पुऱप्पट्टु,
 </details>
 
+<details><summary>सायण-टीका</summary>
 
-Thus the Lord who lives in the heart and who is full of love (for the Jīva  ) starts with the self who desires mukti and who has entered into the nādi in the head from out of Brahmapuri, namely, the gross body, by the Brahma Nādi, which is, as it were, the main gate (of that city). In this He resembles a king who walks to and fro with his charming child in his arins.
+इऩि इवऩुक्कु अर्चिरादिमार्गत्ताले परमपदप्राप्तिक्रमत्तैच् चॊल्लप्पोगिऱवराय् सङ्गत्यर्थम् निर्याणाधिकारत्तिऩ् मुडिविले सॊऩ्ऩ विषयत्तै सदृष्टान्तमाग अनुवदिक्किऱार् इप्पडि मूर्द्धन्यनाडियिले इत्यादिना । मूर्द्धन्यनाडी – शिरस्सिलिरुक्कुम् ब्रह्मनाडी । ‘‘तासां मूर्द्धानमभिनिस्सृतैका’’ ऎऩ्ऱदिऱे श्रुति । मुमुक्षुवै - चिरकालमाग मोक्षम् पॆऱ आसैप्पट्टवऩै। इदऩालुत्क्रान्तिपादत्तिलुमर्चिरादिपादत्तिलुम् सद्वारकप्रपत्तिनिष्ठऩुक्कुच् चॊऩ्ऩ उत्क्रान्तियुम् अर्चिरादिगमनमुम् मुमुक्षुसामान्यविषयमागैयाले अद्वारकप्रपत्ति निष्ठऩुक्कुम् तुल्यमॆऩ्ऱु सूचितम्। स्थूलशरीरमागिऱ ब्रह्मपुरत्तिऩिऩ्ऱुमिति ।  
 
-As has been said in the following verses :- "The self' passes through a beautiful opening in the centre of the sphere of the sun." "The "self makes an opening in the sphere of the sun, whose rays fill his chariot". "He goes through the middle of the sphere of the fiery sun", "The Lord helps him to climb up by a ladder to Vaikuṇṭha   through the sphere of the sun whose hot rays dispel the darkness and then removes the ladder," - (as described in these verses), the Lord sets the self on the path called devayına and leads him Himself with the following to guide him, namely, archis or fire, day, the bright half of the month, Uttarāyaṇa and the year, Vayu, Surya and Chandra and Lightning: with Lightning who is called also amanava and his companions, Varuna, Indra and Prajāpati, the self is helped on its way. As the Alvar
+> ‘‘तस्याश्शिखाया मद्ध्ये  
+> परमात्मा व्यवस्थितः’’ 
+
+ऎऩ्ऱु परमात्मावुक्कु वासस्थानमागच् चॊल्लप् पट्ट स्थूलशरीरत्तै 
+
+> ‘‘अथ यद् इदम् अस्मिन् ब्रह्म-पुरे  
+> दहरं पुण्डरीकं वेश्म’’ 
+
+ऎऩ्ऱु ब्रह्म-पुरम् आग दहर-विद्यै सॊल्लिऱ्ऱिऱे।  
+तलै-वासल् - प्रधानम् आऩ वासल्, तलैयिलेयुळ्ळ द्वारमॆऩ्ऱ पडि। वत्सलऩाऩ हार्र्दऩ् - इवऩिडत्तिल् वात्सल्यातिशयत्ताले हेयसम्बन्धत्तैक् कणिसिक्कामल् अवसरप्रतीक्षऩाय् हृदयत्तिलेये वसिप्पदाल् हार्दऩॆऩ्ऱु पॆयर् पॆऱ्ऱ भगवाऩ्। इदऩाल् इन्द निर्याणत्तै राजाधिराजऩ् आऩ ताऩे नडत्त वेण्डुमो? अर्चिरादिगमनत्तैप्पोल् अन्यऩैक्कॊण्डु नडत्तलागादो वॆऩ्गिऱ शङ्गै दूरोत्सारितै। लोगत्तिल् ऒरुवऩुक्कु ऒरुवऩिडत्तिल् वात्सल्यमधिकमाऩालवऩ् कार्यत्तै अन्यद्वारकमऩ्ऱिक्के अवऩे सॆय्वाऩिऱे। वार्त्तै सॊल्लक् कऱ्किऱ मुखवश्यऩाऩ इत्यादि दृष्टान्तकथनम्।  
+मुखवश्यऩाऩ - मुखत्ताले वशीकरिक्कुमवऩ् आऩ, उलावुगै - मन्दमाग सञ्चरिक्कै। इन्द दृष्टान्तत्ताल् राजावायिरुप्पवऩुम् प्रेमातिशयत्ताले मुग्धऩाऩ तऩ् कुऴन्दैयैत् ताऩे ऎडुत्तुक्कॊण्डु उलावुगिऱाप्पोले राजाधिराजऩाऩ भगवाऩुम् इत्तऩैगालमिऴन्दु पॆऱ्ऱ अत्यन्तप्रेमविषयऩाऩ चेतनऩैक् कॊण्डु पुऱप्पडुवदु अत्यन्तमुचितमॆऩ्ऱु सूचितमागिऱदु। 
+</details>
+
+## सूर्य-मण्डल-वेधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'मऩ्ऩुङ्+++(=चिरस्थायि)+++ कडुङ्+++(=क्रूर)+++ कदिरोऩ्+++(=किरणवात्)+++  
+> मण्डलत्ति+++(ऩ्)+++ +नऩ्-ऩडुव्-उळ् अऩ्ऩद्+++(=श्रेष्ठ)+++ ओर् इल्लियिऩ्+++(=रन्ध्रे)+++ ऊडु+++(=मध्ये)+++ बोय्'  
+> (पॆरिय तिरुमडल्)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “स्थिर-क्रूर-किरण-विशिष्टस्य मण्डल-सम्मध्य-स्थ--तथा-विध-द्वार-मध्येन गत्वा" 
+
+इति 
+</details>
+
+<details><summary>English</summary>
+
+As has been said in the following verses :- 
+
+> "The self passes through a beautiful opening  
+> in the centre of the sphere of the sun." 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se ha dicho** en los siguientes versículos:-  
+
+> "El yo **pasa** por una hermosa apertura  
+> en el centro de la esfera del sol ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+'मऩ्ऩुङ्गडुङ्गदिरोऩ् मण्डलत्तिऩऩ्ऩडुवुळऩ्ऩदोरिल्लियिऩूडुबोय्'(पॆरिय तिरुमडल्)  ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मऩ्ऩुङ्गडुङ्गदिरोऩित्यादि ।  
+मऩ्ऩुम् - चिरकालस्थायियाय्, कडुम् - क्रूरमाऩ, उष्णमाऩ ऎऩ्ऱबडि। कदिरोऩ् - किरणङ्गळैयुडैय वऩाऩ सूर्यऩुडैय, मण्डलत्तिऩ् - मण्डलत्तिऩुडैय, नऩ्ऩडुवुळ्- नल्ल मध्यत्तिल्, अऩ्ऩदु - श्रेष्ठमाऩ, ओर् - अद्वितीयमाऩ, इल्लि - रन्ध्रत्तिऩुडैय, ऊडु - नडुवाले, पोय् - सॆऩ्ऱु, 
+
+> ‘‘स आदित्यम् **आगच्छति**,  
+> तस्मै स तत्र **विजिहीते**,  
+> यथाडम्बरस्य खं,  
+> तेन स ऊर्ध्वम् आक्रमते’’ 
+
+ऎऩ्गिऱ श्रुत्यर्थमिङ्गु अभिप्रेतम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'तेर्+++(=रथं)+++ आर्+++(=पूर्णम्)+++ **निऱै**+++(=पूरक)+++ कदिरोऩ्+++(=अंशुमत्)+++ मण्डलत्तैक् कीण्डु+++(=छित्त्वा)+++ बुक्क्'  
+(सिऱिय तिरुमडल्।)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> " रथे पूर्णस्य व्यापि-किरणस्य (सूर्यस्य) मण्डलं भित्त्वा प्रविश्य" 
+
+इति 
+</details>
+
+
+<details><summary>English</summary>
+
+> "The self makes an opening in the sphere of the sun,  
+> whose rays fill his chariot". 
+</details>
+
+<details><summary>Español</summary>
+
+> "El yo **hace una apertura** en la esfera del sol,  
+> cuyos rayos **llenan** su carro ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'तेरार् निऱैगदिरोऩ् मण्डलत्तैक् कीण्डुबुक्क्'(सिऱिय तिरुमडल्।)  ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तेरारित्यादि । तेर् - तेरिले, आर् - पूर्णमाऩ निऱै - निऱैन्द, कदिरोऩ्मण्डलत्तै - किरणङ्गळैयुडैयसूर्यमण्डलत्तै कीण्डु - भेदित्तु, पुक्कु - प्रवेशित्तु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'चण्ड-मण्डलत्तिऩ् ऊडु+++(=मध्यं)+++ सॆऩ्ऱ्”  
+> ( तिरुच्चन्द विरुत्तम् ६७)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"चण्डमण्डलस्य मध्ये गत्वा" 
+
+इति  
+[[१६७]] 
+</details>
+
+
+<details><summary>English</summary>
+
+> "He goes through the middle of the sphere of the fiery sun", 
+</details>
+
+<details><summary>Español</summary>
+
+> "Él atraviesa el medio de la esfera del sol ardiente",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'सण्डमण्डलत्तिऩूडुसॆऩ्ऱ्”( तिरुच्चन्द विरुत्तम् ६७)  ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सण्डमण्डलत्तिऩित्यादि । सण्ड - क्रूरमाय्, अदावदु उष्णमाऩ, मण्ड लत्तिऩ् - सूर्यमण्डलत्तिऩुडैय, ऊडुसॆऩ्ऱु - नडुविले पोय्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'इरुळ् अगऱ्ऱुम्+++(=विकिरद्)+++-ऎरि-कदिरोऩ्+++(=अंशुमत्)+++ मण्डलत्त् ऊड्+++(=मध्यं)+++ एऱ्ऱि+++(=उन्नीय)+++ वैत्त्, एणि वाङ्गिय्'  
+> (पॆरियाऴ्वार् तिरुमॊऴि ४-९-३।) 
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ देव-यान-मार्गत्तिले वऴिप् पडुत्ति, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्स्> अन्धकार-नाशक-ज्वलत्-किरण-(सूर्य)मण्डल-मध्येनारोप्य स्थापयित्वा निःश्रेणिम् अपसार्य
+
+इति वर्णिते देव-यान-मार्गे नीत्वा, 
+</details>
+
+
+<details><summary>English</summary>
+
+"The Lord helps him to climb up by a ladder to Vaikuṇṭha    
+through the sphere of the sun  
+whose hot rays dispel the darkness  
+and then removes the ladder,"  
+
+\- (as described in these verses),  
+the Lord sets the self on the path called devayana  
+</details>
+
+<details><summary>Español</summary>
+
+"El Señor lo ayuda a **trepar** por una escalera a Vaikuṇṭha  
+a través de la esfera del sol  
+cuyos rayos calientes **disipan** la oscuridad  
+Y luego **quita** la escalera ",
+
+\- (como **se describe** en estos versículos),  
+El Señor **coloca** el yo en el camino **llamado** devayana
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'इरुळगऱ्ऱुमॆरिगदि रोऩ् मण्डलत्तूडेऱ्ऱिवैत्तेणिवाङ्गिय्'(पॆरियाऴ्वार् तिरुमॊऴि ४-९-३।) ऎऩ्ऱुञ् जॊल्लुगिऱ देवयानमार्गत्तिले वऴिप्पडुत्ति, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इरुळगऱ्ऱु मित्यादि । इरुळ् - अन्धकारत्तै, अगऱ्ऱुम् - पोक्कडिक्कुमदाऩ, ऎरि - ऎरिगिऩ्ऱ, अदावदु वेगवत्ताऩ, कदिरोऩ् - किरणङ्गळैयुडैयवऩाऩ सूर्यऩुडैय, मण्डलत्तूडु - मण्डलमध्यत्ताले, एऱ्ऱि वैत्तु - परमपदत्तिले एऱ्ऱि वैत्तु। एणि वाङ्गि - परमपदप्राप्तिहेतुवाऩ तऩ् सङ्गल्बमागिऱ एणियै पुनरावृत्तिपण्णवॊण्णादबडि उबसम्हरित्तु, ऎऩ्ऱुम् सॊल्लुगिऱ देवयानमार्गत्तिले - ‘‘एष देवपथो ब्रह्मपथः’’ ऎऩ्ऱुम्, ‘‘एष देवयानः पन्थाः’’ ऎऩ्ऱुम् देवपथमागच् चॊल्लप्पट्ट अर्चिरादीमार्गत्तिले वऴिप्पडुत्ति - वऴिप्पोक्कऩागप्पण्णि, प्रवेशिप्पित्तॆऩ्ऱबडि।  
+
+> ‘‘तेषां वै क्षेममध्वानं  
+> गच्छतां द्विज-सत्तम ।  
+> सर्वलोक-तमो-हन्ता  
+> आदित्यो द्वारम् उच्यते’’
+
+ ऎऩ्ऱु आदित्य-मण्डलत्तै देव-यान-मार्गत्तिल् प्रधानमागच् चॊल्लिऱ्ऱिऱे।  
+</details>
+
+
+
+and leads him Himself with the following to guide him, namely, archis or fire, day, the bright half of the month, Uttarāyaṇa and the year, Vayu, Surya and Chandra and Lightning: with Lightning who is called also amanava and his companions, Varuna, Indra and Prajāpati, the self is helped on its way. As the Alvar
 
 says :- " With these guides[^59] who are immortal, he reaches Vaikuṇṭha   and casts off this beautiful prison house of saṁsāra."
 
