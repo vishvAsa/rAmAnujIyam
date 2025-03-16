@@ -370,13 +370,121 @@ El Señor **coloca** el yo en el camino **llamado** devayana
  ऎऩ्ऱु आदित्य-मण्डलत्तै देव-यान-मार्गत्तिल् प्रधानमागच् चॊल्लिऱ्ऱिऱे।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अमरर्-ओड् उयर्विऱ्+++(=उन्नते)+++ **सॆऩ्ऱ्**  
+> **अऱुवर्** तम् पिऱविय् अञ्+++(=सु)+++-सिऱैयेय्+++(=कारागृहम्)+++  
+> (तिरुवाय्मॊऴि १-३-११)  
+
+ऎऩ्गिऱबडिये 
+</details>
 
 
-and leads him Himself with the following to guide him, namely, archis or fire, day, the bright half of the month, Uttarāyaṇa and the year, Vayu, Surya and Chandra and Lightning: with Lightning who is called also amanava and his companions, Varuna, Indra and Prajāpati, the self is helped on its way. As the Alvar
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-says :- " With these guides[^59] who are immortal, he reaches Vaikuṇṭha   and casts off this beautiful prison house of saṁsāra."
+> “अमरैः सहोर्ध्वं गत्वा  
+> छिन्द्युः स्व-जन्म सु-दृढ-काराम्” 
 
-[^59]: Fire, Day, Śuklapakṣa Uttarāyaṇa and the year arc, of course, inanimate; but the deities presiding over them (abhimani devatas) are the guides here referred to.)
+इत्य्-उक्त-रीत्या
+</details>
+
+
+<details><summary>English</summary>
+
+As the Alvar says :- 
+
+> "With these guides[^59] who are immortal,  
+> he reaches Vaikuṇṭha   
+> and casts off this beautiful prison house of saṁsāra."
+
+[^59]: Fire, Day, Śuklapakṣa, Uttarāyaṇa and the year are, of course, inanimate; but the deities presiding over them (abhimani devatas) are the guides here referred to.
+
+</details>
+
+<details><summary>Español</summary>
+
+Como dice el Alvar:-
+
+> "Con estas guías [^es59] que **son** inmortales,  
+> **Llega** a Vaikuṇṭha  
+> y **expulsa** esta hermosa prisión de Saṁsāra ".
+
+[^es59]: Fuego, día, Śuklapakṣa, Uttarāyaṇa y el año **son**, por supuesto, inanimados; Pero las deidades que presiden sobre ellos (Abhimani Devatas) **son** las guías a las que **se hace referencia**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+'अमररोडुयर्विऱ्सॆऩ्ऱऱुवर् तम् पिऱवियञ्जिऱैयेय्'(तिरुवाय्मॊऴि १-३-११)  ऎऩ्गिऱबडिये 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अमररोडित्यादि । अमररोडु - आतिवाहिकर्गळाऩ देवर्गळोडु, उयर्विऱ्सॆऩ्ऱु - परमपदत्तिले पोय्, तम् - तम्मुडैय, पिऱवि - जऩ्ममागिऱ, जन्मोपलक्षितसंसारमागिऱ, अम् - अऴगियदाऩ, सिऱैयै - कारागृहत्तै, अदावदु प्रकृतिसम्बन्धत्तै, अऱुवर् - पोक्कडिप्पर्। इङ्गु सिऱैक्कु अऴगावदु अतिक्रूरतै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्चिस्स् ऎऩ्ऱुम्, अहस्स् ऎऩ्ऱुम्, पूर्व-पक्षम् ऎऩ्ऱुम्,  
+उत्तरायणम् ऎऩ्ऱुम्, संवत्सरम् ऎऩ्ऱुम्,  
+वायुव् ऎऩ्ऱुम्, आदित्यऩ् ऎऩ्ऱुम्, चन्द्रऩ् ऎऩ्ऱुम्,  
+वैद्युतऩ् ऎऩ्ऱुम्,  
+अमानव-संज्ञऩ् आऩव् इवऩुक्कु +++(←वैद्युतः)+++  
+सहकारिगळ् आऩ वरुणेन्द्र--प्रजा-पतिगळ् ऎऩ्ऱुञ्  
+**जॊल्लप् पडुगिऱ** वऴि **नडत्तुम्** मुदलिगळैय् **इट्टु** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अर्चिः, अहः, पूर्व-पक्षः, उत्तरायणम्, संवत्सरः,  
+वायुः, आदित्यः, चन्द्रः,  
+वैद्युतः, अमानव-संज्ञकस्यास्य +++(←वैद्युतः)+++ सहकारि-भूता वरुणेन्द्र-प्रजापतयः  
+इत्य्-उक्तैर् आतिवाहिकैर् मुख्य-देवैः सह, 
+</details>
+
+<details><summary>English</summary>
+
+and leads him Himself with the following to guide him, namely,  
+archis or fire, day, the bright half of the month, Uttarāyaṇa and the year,  
+Vayu, Surya and Chandra and Lightning:  
+with Lightning who is called also amanava and his companions, Varuna, Indra and Prajāpati,  
+the self is helped on its way. 
+</details>
+
+<details><summary>Español</summary>
+
+y lo **lleva** a sí mismo con lo siguiente para **guiarlo**, a saber,  
+Archis o fuego, día, la mitad brillante del mes, Uttarāyaṇa y el año,  
+Vayu, Surya y Chandra y Rayo:  
+con un rayo que también se llama Amanava y sus compañeros, Varuna, Indra y Prajāpati,  
+El yo **es ayudado** en su camino.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अर्चिस्स्ऎऩ्ऱुम्, अहस्स् ऎऩ्ऱुम्, पूर्वपक्षमॆऩ्ऱुम्, उत्तरायणमॆऩ्ऱुम्, संवत्सरमॆऩ्ऱुम्, वायुवॆऩ्ऱुम्, आदित्यऩॆऩ्ऱुम्, चन्द्रऩॆऩ्ऱुम्, वैद्युतऩॆऩ्ऱुम्, अमानवसंज्ञऩाऩविवऩुक्कु सहकारिकळाऩ वरुणेन्द्रप्रजापतिकळॆऩ्ऱुञ्जॊल्लप्पडुगिऱ वऴि नडत्तुम् मुदलिगळैयिट्टु 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+> ‘‘तेऽर्चिषम् अभिसम्भवन्ति’’
+
+ऎऩ्गिऱ श्रुत्यर्थत्तै यरुळिच्चॆय्गिऱार् अर्चिस्स् ऎऩ्ऱुमित्यादिना ।  
+अमानवसञ्ज्ञऩ् आऩ इवऩुक्कु - अमानव-सञ्ज्ञैयैय्-उडैय इन्द विद्युत्-पुरुषऩुक्कु।  
+
+> चन्द्रमसो वैद्युतं,  
+> तत्-पुरुषो ऽमानवस्  
+> स एनान् ब्रह्म गमयति 
+
+ऎऩ्ऱु श्रुतियिल् वैद्युत-पुरुषऩुक्के अमानव-सञ्ज्ञै सॊल्लप्पट्टदिऱे।  
+सहकारिकळाऩ वरुणेन्द्रप्रजापतिकळॆऩ्ऱुमिति । वरुणेन्द्रप्रजापतिकळै विद्युत्पुरुषऩुक्कु सहकारिकळॆऩ्ऱदाल् अमानवऩाऩ विद्युत्पुरुषऩे साक्षात् ब्रह्मगमयितावागैयाले प्रधानऩॆऩ्ऱुम्, वरुणेन्द्रप्रजापतिकळ् ब्रह्मगमयितृत्वविषये अप्रधानर्गळॆऩ्ऱुम् ज्ञापिक्कप्पट्टदु।  
+वऴि नडत्तुम् मुदलिगळैयिट्टु - तम् ताम् ऎल्लै वरैयिल् मुक्तऩै अर्चिरादिमार्गत्ताले उपचारङ्गळैच् चॆय्दु अऴैत्तुक्कॊण्डुबोगुम् अर्चिराद्यभिमानिकळाऩ देवतैगळै प्रयोज्यकर्तावागक् कॊण्डु।  
+इङ्गु मुदलिगळै ऎऩ्ऱदाल् अर्चिरादिपदम् ‘‘तं पृथिव्य् अब्रवीत्’’ इत्यादिवदर्चिराद्यभिमानिदेवतापरमॆऩ्ऱु सूचितम्।  
+वऴि नडत्तुमित्यनेन अवर्गळुक्कु गन्तॄणां गमयितृत्वरूपातिवाहिकत्वमे उळ्ळदॆऩ्ऱु सॊल्लुम् ‘‘आतिवाहिकास् तल्-लिङ्गात्’’ ऎऩ्गिऱ अधिकरणत्तिऩ् निष्कर्षम् ज्ञापिक्कप्पडुगिऱदु। 
+</details>
+
+
 
 ENTERTAINMENT ON THE WAY:
 
