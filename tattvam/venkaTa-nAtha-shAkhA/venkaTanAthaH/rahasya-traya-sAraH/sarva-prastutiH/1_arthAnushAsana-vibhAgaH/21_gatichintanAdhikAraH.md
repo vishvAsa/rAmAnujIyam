@@ -860,6 +860,11 @@ Después del cruce del río
 विरजैक्क् अक्-करैप् पडुत्ति, 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+विरजां तारयित्वा 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -877,9 +882,150 @@ and when the self has crossed the river Viraja,
 विरजैक्कक्करैप्पडुत्ति, 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+कौषीतकीब्राह्मणत्तिल् सॊऩ्ऩ फल-पर्व-भेदत्तै उपपादिक्किऱार् विरजैक्कक्करैप्पडुत्ति इत्यादिना । 
+
+> ‘‘स आगच्छति विरजां नदीम् । तां मनसात्येति’’ 
+
+ऎऩ्ऱदिऱे कौषीतकी ।  
+मनसा - सङ्गल्बत्तालेये,  
+
+</details>
 
 
-the Lord endows the self with a body that is super - sensuous and not constituted of matter or prakṛti; it is helped to reach the lake called Airammadiyam and then to approach the asvattha tree called Somasavana and is then welcomed by five hundred celestial damsels (apsaras) with garlands, ointments, fragrant powders, raiments and ornaments. The self is then decked by them with adornments suited to Brahman and the fragrances, flavours and splendours of Brahman are made to enter into it. It is then received by the eternal sūris. As the Alwar says. "The eternal sūris with crowns on their heads come in groups to receive these self's or souls who are esteemed as the servants of Govinda in successive generations. They take the self to the tower with high walls which is adorned with banners. The self is then led to the entrance where the gates are kept by guards called Indra and Prajāpati and receives super-sensuous (aprākrita) honours befitting a king. This is described in the three verses beginning with 10.9.9.-"As soon as they (the muktas) arrive at the gate, the guards who are eternal sūris say:-" The devotees of Bhagavān are our masters. So please enter our abode". "The sūris, who were there, wondered at the blessing vouchsafed to these released souls arriving from the earth. They considered it their own good fortune that these souls entered Vaikuṇṭha   and washed their feet and beautiful women received them with treasures, fragrant powder, the pürnakumbha and the lamp. Then these souls lived ( for ever) with the eternal sūris enjoying endless delights."
+## वैकुण्ठे संस्कारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-प्राकृत-शरीरत्तैक् कॊडुत्तु
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अप्राकृतशरीरं दत्त्वा 
+</details>
+
+
+<details><summary>English</summary>
+
+the Lord endows the self with a body that is super - sensuous  
+and not constituted of matter or prakṛti; 
+</details>
+
+<details><summary>Español</summary>
+
+El Señor **dota** al Ser con un cuerpo  
+que **es** súper sensual  
+y **no constituido** por la materia o prakṛti;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्राकृतशरीरत्तैक्कॊडुत्तु
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+अप्राकृतशरीरत्तैक् कॊडुत्तु - शरीरमिऩ्ऱिक्के सङ्कल्पत्ताले विरजैयैक्कडन्दबिऩ् अप्राकृतमाऩ - शुद्धसत्त्वमयमाऩ दिव्यदेहत्तैक् कॊडुत्तु, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऐरंमदीयम् ऎऩ्गिऱ सरस्सिऩ् अळवुञ् शेर्त्तु,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ऐरम्मदीयाख्यसरः पर्यन्तं प्रापय्य 
+</details>
+
+
+<details><summary>English</summary>
+
+it is helped to reach the lake called Airammadiyam 
+</details>
+
+<details><summary>Español</summary>
+
+**se ayuda** a **llegar** al lago llamado Airammadiyam
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऐरंमदीयमॆऩ्गिऱ सरस्सिऩळवुञ्जेर्त्तु,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऐरम्मदीयमॆऩ्गिऱ सरस्सिऩळवुञ्जेर्त्तु इति । इरया –अमृतेन, माद्यन्ते अस्मिन् जना इति ऐरम्मदीयं; अमृतसरस्सॆऩ्ऱबडि। ‘‘तदैरम्मदीयं सरः’’ ऎऩ्ऱदिऱे कौषीतकी । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सोम-सवनम् ऎऩ्गिऱव् अश्वत्थत्तैक् किट्टु वित्तु, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सोम-सवनाख्याश्वत्थ-समीपं नीत्वा  
+</details>
+
+<details><summary>English</summary>
+
+and then to approach the asvattha tree called Somasavana 
+</details>
+
+<details><summary>Español</summary>
+
+y luego **acercarse** al árbol asvattha **llamado** Somasavana
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सोम-सवनम् ऎऩ्गिऱव् अश्वत्थत्तैक् किट्टुवित्तु, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सोमसवनमॆऩ्गिऱ अश्वत्थत्तैक् किट्टुवित्तु इति । ‘‘अथाश्वत्थस्सोमसवनः’’ ऎऩ्ऱदिऱे श्रुति । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मालाञ्जन-चूर्ण-वासः-पण+++(=आभरण)+++-हस्तैगळाऩव् ऐन्-नूऱु दिव्याप्सरस्सुक्कळैय् इट्ट् ऎदिर्-गॊळ्वित्तु; 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मालाञ्जन-चूर्ण-वासः-पण+++(=आभरण)+++-हस्ताः पञ्च-शत-संख्याकाः दिव्याप्सरसो  
+नियम्य प्रत्युद्गमनं कारयित्वा 
+</details>
+
+<details><summary>English</summary>
+
+and is then welcomed by five hundred celestial damsels (apsaras) with garlands, ointments, fragrant powders, raiments and ornaments. 
+</details>
+
+<details><summary>Español</summary>
+
+y luego **es bienvenido** por quinientas damiselas celestiales (Apsaras) con guirnaldas, ungüentos, polvos fragantes, precursiones y adornos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मालाञ्जनचूर्णवासः पणहस्तैकळाऩ वैन्नूऱु दिव्याप्सरस्सुक्कळैयिट्टॆदिर्गॊळ्वित्तु; 
+</details>
+
+
+
+The self is then decked by them with adornments suited to Brahman and the fragrances, flavours and splendours of Brahman are made to enter into it. It is then received by the eternal sūris. As the Alwar says. "The eternal sūris with crowns on their heads come in groups to receive these self's or souls who are esteemed as the servants of Govinda in successive generations. They take the self to the tower with high walls which is adorned with banners. The self is then led to the entrance where the gates are kept by guards called Indra and Prajāpati and receives super-sensuous (aprākrita) honours befitting a king. This is described in the three verses beginning with 10.9.9.-"As soon as they (the muktas) arrive at the gate, the guards who are eternal sūris say:-" The devotees of Bhagavān are our masters. So please enter our abode". "The sūris, who were there, wondered at the blessing vouchsafed to these released souls arriving from the earth. They considered it their own good fortune that these souls entered Vaikuṇṭha   and washed their feet and beautiful women received them with treasures, fragrant powder, the pürnakumbha and the lamp. Then these souls lived ( for ever) with the eternal sūris enjoying endless delights."
 
 Thereafter the self is led into the enchanting assembly in the hall (mantapa) set with gems. As has been said in these śloka s: "I do not know how long I have spent my time in vain with this prakṛti being subject to her sway. How can I remain associated with this prakṛti, which takes the excellent forms (or bodies of the devās), the middling forms (or bodies of men) and the mean forms (or bodies which experience the pains of hell)? I will depart from her and give up all contact with her and attain Bhagavān who is free from all blemish. I will become one with Him and I will not be one with this non - sentient prakṛti. It is in the fitness of things that I should be one with Him and not with this prakṛti", and "When shall "I see, with my eyes, Keśava who is black as a cloud, whose eyes are broad and who is playing with Lakṣmī  in the gardens? and "When shall we all see ŚrīRāma with his complexion black as a cloud and with his long arms, - Kama who is firmly set in sattva, who has taken a staunch vow to protect those that seek his help and who is bent on relieving the sorrows of the world? Just as the rising sun dispels the darkness of the whole world, ŚrīRāma will dispel all our sorrow the moment we see him" - as stated in these śloka s, the Lord reveals to the mukta His blissful form so that be may get rid of all his sorrows, enables him to acquire his essential nature (with the eight great qualities [:- freedom from sin, being without old age, without death, without sorrow, without hunger. without thirst, with all desired objects and with a will that meets with no hindrance.] ), takes him to His feet and by sāyujya with Himself - which means equal enjoyment - places him in the midst of His eternal servants (nitya süris) who enjoy eternal bliss and who (henceforth) are of the same class as he.
 
