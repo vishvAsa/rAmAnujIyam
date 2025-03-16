@@ -370,6 +370,7 @@ El Señor **coloca** el yo en el camino **llamado** devayana
  ऎऩ्ऱु आदित्य-मण्डलत्तै देव-यान-मार्गत्तिल् प्रधानमागच् चॊल्लिऱ्ऱिऱे।  
 </details>
 
+## अर्चिर्-आदि-सङ्गतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अमरर्-ओड् उयर्विऱ्+++(=उन्नते)+++ **सॆऩ्ऱ्**  
@@ -443,7 +444,7 @@ Como dice el Alvar:-
 
 <details><summary>English</summary>
 
-and leads him Himself with the following to guide him, namely,  
+and with the following to guide him, namely,  
 archis or fire, day, the bright half of the month, Uttarāyaṇa and the year,  
 Vayu, Surya and Chandra and Lightning:  
 with Lightning who is called also amanava and his companions, Varuna, Indra and Prajāpati,  
@@ -452,7 +453,7 @@ the self is helped on its way.
 
 <details><summary>Español</summary>
 
-y lo **lleva** a sí mismo con lo siguiente para **guiarlo**, a saber,  
+y con lo siguiente para **guiarlo**, a saber,  
 Archis o fuego, día, la mitad brillante del mes, Uttarāyaṇa y el año,  
 Vayu, Surya y Chandra y Rayo:  
 con un rayo que también se llama Amanava y sus compañeros, Varuna, Indra y Prajāpati,  
@@ -484,11 +485,277 @@ El yo **es ayudado** en su camino.
 वऴि नडत्तुमित्यनेन अवर्गळुक्कु गन्तॄणां गमयितृत्वरूपातिवाहिकत्वमे उळ्ळदॆऩ्ऱु सॊल्लुम् ‘‘आतिवाहिकास् तल्-लिङ्गात्’’ ऎऩ्गिऱ अधिकरणत्तिऩ् निष्कर्षम् ज्ञापिक्कप्पडुगिऱदु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> ‘‘अहं **स्मरामि** मद्-भक्तं  
+> **नयामि** परमां गतिं’’ 
+> (याज्ञवल्क्य-स्मृति) 
+
+ऎऩ्गिऱ पडिये ताऩ् प्रधानऩाय् नडत्ति, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘अहं **स्मरामि** मद्-भक्तं  
+> **नयामि** परमां गतिं’’ 
+> (याज्ञवल्क्य-स्मृति) 
+
+इत्य्-उक्त-रीत्या स्वयं प्रधानभूतः सन् अतिवाह्य,
+</details>
+
+
+<details><summary>English</summary>
+
+leads him Himself -  
+The Lord has said, 
+
+> “I remember my devotee  
+> and lead him to the supreme goal." 
+
+</details>
+
+<details><summary>Español</summary>
+
+lo **lleva** él mismo -
+El Señor **ha dicho**:
+
+> **Recuerdo** a mi devoto
+> y **llevarlo** al objetivo supremo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अहं स्मरामि मद्भक्तं नयामि परमां गतिं’’(याज्ञवल्क्य-स्मृति,) ऎऩ्गिऱ पडिये ताऩ् प्रधानऩाय् नडत्ति, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ताऩ् प्रधानऩाय् नडत्ति - अवर्गळ् प्रधानर्गळॆऩ्ऩुम्बडि हार्दऩाऩ ताऩ् प्रधानऩाग निऩ्ऱु, अदावदु प्रयोजककर्तावाग निऩ्ऱु अर्चिरादिमार्गत्तिले मुक्तऩै नडक्कुम् पडि सॆय्दु। अवर्गळप्रधानर्, भगवाऩ् प्रधानऩॆऩ्बदिल् प्रमाणत्तैक्काट्टुगिऱार् अहं स्मरामि मद्भक्तं नयामि परमां गतिमिति । 
+</details>
+
+
+
+### भोगाः
+<details><summary>English</summary>
 
 ENTERTAINMENT ON THE WAY:
+</details>
 
-The Lord has said, “I remember my devotee and lead him to the supreme goal." In every one of these regions on the way (which belong respectively to Surya, Chandra etc.), the self enjoys all those delights which are described at great length in the śāstrās of Bhagavān (Āgamas). Thereafter it arrives at a region which it has long been eager to see and which has been described as follows:- "When 'shall I see with my own eyes the world called Vaikuṇṭha  ? It shines brilliantly, it is always with Bhagavān who is possessed of the six attributes, like jñāna; it can never be attained by those who are not devoted to Viṣṇu ; it is free from the three qualities of prakṛti or matter (sattvam, rajas and tamas). It is full of the eternal sūris who divide the day into five parts and render the service to the Lord appropriate to each; it is also full of released souls who are like the eternal sūris. It has presence chambers, halls, and mansions. It is beautiful with forests and gardens; it has broad and deep wells, lakes and groves which adorn it. It is free from the sufferings due to prakṛti; it is fit to be praised by the devās. It shines like ten thousand suns shining at once; it is constituted of pure sattvam unmingled with rajas and tamas,"
+<details><summary>Español</summary>
+
+Entretenimiento en el camino:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्व्-ओ ऎल्लैगळिल्  
+भगवच्-छास्त्रत्तिले **परक्कप् पेसिऩ** भोगङ्गळैयुम् **अनुभविप्पित्तु**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्-तत्-सीमासु भगवच्-छास्त्रेषु विस्तरेणोक्तान् भोगान् **अनुभाव्य**, 
+</details>
+
+
+<details><summary>English</summary>
+
+In every one of these regions on the way (which belong respectively to Surya, Chandra etc.),  
+the self enjoys all those delights which are described at great length in the śāstrās of Bhagavān (Āgamas). 
+</details>
+
+<details><summary>Español</summary>
+
+En cada una de estas regiones en el camino (que pertenecen respectivamente a Surya, Chandra, etc.),  
+El yo **disfruta** de todas esas delicias que **se describen** en gran medida en los Śāstrās de Bhagavān (āgamas).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अव्वो ऎल्लैगळिल् भगवच्छास्त्रत्तिले परक्कप्पेसिऩ भोगङ्गळैयुमनुभविप्पित्तु, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अव्वो ऎल्लैगळिल् - अन्दन्द आतिवाहिकर्गळुडैय लोकत्तिऩ् सीमाभूमिकळिल्, भगवच्छास्त्रत्तिलिति । भगवच्छास्त्रम् - पाञ्चरात्र-शास्त्रम्। परक्कप्पेसिऩ - 
+
+> ‘‘अथैनममरास्तत्र  
+> सहदिव्याप्सरोगणैः ।  
+> सोपहाराः प्रहर्षेण  
+> प्रत्युद्गच्छन्त्युपागतम् ॥  
+> अर्चिरादिकया गत्या  
+> तत्र तत्रार्चितस्सुरैः ।  
+> अतीत्य लोकानभ्येति  
+> वैकुण्ठं वीतकल्मषः’’ 
+
+ऎऩ्ऱु विस्तारमागप् पेसप्पट्ट, भोगङ्गळै - सत्कारजनितमाऩ परमानन्दङ्गळै। 
+</details>
+
+
+## वैकुण्ठ-प्राप्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> लोकं वैकुण्ठ-नामानं  
+दिव्यं षाड्-गुण्य-संयुतम् ।  
+अ-वैष्णवानाम् अ-प्राप्यं  
+गुण-त्रय-विवर्जितम् ॥  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> लोकं वैकुण्ठ-नामानं  
+दिव्यं षाड्-गुण्य-संयुतम् ।  
+अ-वैष्णवानाम् अ-प्राप्यं  
+गुण-त्रय-विवर्जितम् ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+> … the world called Vaikuṇṭha  ? It shines brilliantly, it is always with Bhagavān who is possessed of the six attributes, like jñāna; it can never be attained by those who are not devoted to Viṣṇu ; it is free from the three qualities of prakṛti or matter (sattvam, rajas and tamas). 
+</details>
+
+<details><summary>Español</summary>
+
+> ... ¿El mundo **llamó** vaikuṇṭha?  
+**Brilla** brillantemente,  
+siempre **es** con Bhagavān  
+que **posee** los seis atributos, como Jñāna;  
+**Nunca puede ser alcanzado** por aquellos que no están dedicados a Viṣṇu;  
+**Está libre** de las tres cualidades de Prakṛti o materia (Sattvam, Rajas y Tamas).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+लोकं वैकुण्ठनामानं दिव्यं षाड्गुण्यसंयुतम् ।  
+अवैष्णवानामप्राप्यं गुणत्रयविवर्जितम् ॥  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि अर्चिरादिमार्गत्ताले गन्तव्यमाऩ देशविशेषत्तिऩुत्कर्षत्तै मुदलिले उपपादिक्किऱार् लोकमित्यादिना । दिव्यं – स्वयं प्रकाशम्, षाड्गुण्यसंयुतं – ज्ञानशक्तिबलैश्वर्यवीर्यतेजोरूपङ्गळाऩ भगवाऩुडैय आऱु गुणङ्गळुक्कुम्, प्रकाशकम्, 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नित्य-सिद्धैस् **समाकीर्णं**  
+तन्-मयैः +++(पुरा ऽमुक्तौ→)+++पाञ्च-कालिकैः ।  
+सभा-प्रासाद-**संयुक्तं**  
+वनैश् चोपवनैश् शुभम् ॥   
+</details>
+
+<details><summary>English</summary>
+
+> It is full of the eternal sūris  
+who divide the day into five parts  
+and render the service to the Lord appropriate to each;  
+it is also full of released souls  
+who are like the eternal sūris.  
+It has presence chambers, halls, and mansions.  
+It is beautiful with forests and gardens; 
+</details>
+
+<details><summary>Español</summary>
+
+> Está **lleno** de la eterna sūris  
+que dividen el día en cinco partes  
+y **prestar el servicio** al Señor apropiado para cada uno;  
+También está **lleno** de almas liberadas  
+que **son** como el eterno sūris.  
+**Tiene** cámaras de presencia, pasillos y mansiones.  
+**Es** hermoso con bosques y jardines;
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+नित्य-सिद्धैस् समाकीर्णं  
+तन्-मयैः पाञ्च-कालिकैः ।  
+सभा-प्रासाद-संयुक्तं  
+वनैश् चोपवनैश् शुभम् ॥   
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नित्यसिद्धैस्समाकीर्णं तन्मयैः पाञ्च-कालिकैः ।  
+सभाप्रासादसंयुक्तं वनैश्चोपवनैश्शुभम् ॥   
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+नित्यसिद्धैः – अनन्तगरुडविष्वक्सेनादिभिः, तन्मयैः– भगवन्मयैः, भगवदनुभवप्रचुरैरिति यावत् । तन्मयैः ऎऩ्बदु मेलुमन्वयिक्किऱदु। पाञ्चकालिकैः – अभिगमनोपादानेज्यास्वाद्ध्याययोगरूप पाञ्चकालिककैङ्कर्यपरर्गळाय् प्रपत्तिरूपोपायत्तैयऩुष्टित्तु मोक्षत्तैयडैन्द मुक्तर्गळालेयुम्, समाकीर्णं – व्याप्तम्। सभा – आस्थान मण्ड पम्। प्रासादः - उप्परिगै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वापी-कूप-तटाकैश् च  
+वृक्ष-षण्डैश् च मण्डितम् ।  
+अ-प्राकृतं सुरैर् वन्द्यम्  
+अयुतार्क-समप्रभम् ॥  
+प्रकृष्ट-सत्त्व-राशिं तं  
+कदा **द्रक्ष्यामि** चक्षुषा
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> वापी-कूप-तटाकैश् च  
+वृक्ष-षण्डैश् च मण्डितम् ।  
+अ-प्राकृतं सुरैर् वन्द्यम्  
+अयुतार्क-समप्रभम् ॥  
+प्रकृष्ट-सत्त्व-राशिं तं  
+कदा **द्रक्ष्यामि** चक्षुषा  
+(जितन्ता-स्तोत्रम् २-१८-२०) 
+</details>
+
+<details><summary>English</summary>
+
+> it has broad and deep wells, lakes and groves which adorn it.  
+It is free from the sufferings due to prakṛti;  
+it is fit to be praised by the devās.  
+It shines like ten thousand suns shining at once;  
+it is constituted of pure sattvam  
+unmingled with rajas and tamas,  
+When shall I (it) see with my own eyes?
+</details>
+
+<details><summary>Español</summary>
+
+> **Tiene** pozos amplios y profundos, lagos y bosques que lo **adornan**.  
+**Está** libre de los sufrimientos debido a Prakṛti;  
+**Es** apto para **ser alabado** por los devās.  
+**Brilla** como diez mil soles brillando a la vez;  
+**está** constituido de puro sattvam,  
+**Unminguido** con Rajas y Tamas,  
+¿Cuándo lo **veré** con mis propios ojos?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वापीकूपतटाकैश्च वृक्षषण्डैश्चमण्डितम् ।  
+अप्राकृतं सुरैर्वन्द्यमयुतार्क-समप्रभम् ॥  
+प्रकृष्ट सत्त्वराशिं तं कदा द्रक्ष्यामि चक्षुषा  
+(जितन्ता-स्तोत्रम् २-१८-२०) 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अप्राकृतं – प्रकृतिकार्यविकारादिरहितम्। प्रकृष्टसत्त्वराशिं – शुद्धसत्वप्रचुरम्। 
+</details>
+
+
+
+
+
+Thereafter it arrives at a region which it has long been eager to see and which has been described as above ~~follows~~.
 
 As soon as the self arrives at this region, it casts off the subtle body ( sukṣma śarira) which was kept on merely for the sake of the journey and not for experiencing the fruits of past karma: it casts off this subtle body like a boat which is set adrift after the crossing of the river and when the self has crossed the river Viraja, the Lord endows the self with a body that is super - sensuous and not constituted of matter or prakṛti; it is helped to reach the lake called Airammadiyam and then to approach the asvattha tree called Somasavana and is then welcomed by five hundred celestial damsels (apsaras) with garlands, ointments, fragrant powders, raiments and ornaments. The self is then decked by them with adornments suited to Brahman and the fragrances, flavours and splendours of Brahman are made to enter into it. It is then received by the eternal sūris. As the Alwar says. "The eternal sūris with crowns on their heads come in groups to receive these self's or souls who are esteemed as the servants of Govinda in successive generations. They take the self to the tower with high walls which is adorned with banners. The self is then led to the entrance where the gates are kept by guards called Indra and Prajāpati and receives super-sensuous (aprākrita) honours befitting a king. This is described in the three verses beginning with 10.9.9.-"As soon as they (the muktas) arrive at the gate, the guards who are eternal sūris say:-" The devotees of Bhagavān are our masters. So please enter our abode". "The sūris, who were there, wondered at the blessing vouchsafed to these released souls arriving from the earth. They considered it their own good fortune that these souls entered Vaikuṇṭha   and washed their feet and beautiful women received them with treasures, fragrant powder, the pürnakumbha and the lamp. Then these souls lived ( for ever) with the eternal sūris enjoying endless delights."
 
