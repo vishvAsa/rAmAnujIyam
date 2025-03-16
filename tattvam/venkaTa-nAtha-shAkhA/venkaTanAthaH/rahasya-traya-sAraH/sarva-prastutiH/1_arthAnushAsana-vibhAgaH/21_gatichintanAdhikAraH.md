@@ -752,12 +752,134 @@ When shall I (it) see with my own eyes?
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु नॆडुङ्+++(=दीर्घं)+++ कालङ् काणव् आसैप् पट्टद् ऒरु देश-विशेषत्तिले सॆऩ्ऱ वाऱे+++(=प्रकारे हि)+++  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति चिर-कालाद् दिदृक्षिते देश-विशेषे गमन-समनन्तरम् एव  
+</details>
+
+<details><summary>English</summary>
+
+Thereafter it arrives at a region  
+which it has long been eager to see  
+and which has been described as above ~~follows~~.
+</details>
+
+<details><summary>Español</summary>
+
+A partir de entonces **llega** a una región  
+que durante mucho tiempo **ha estado** ansiosa por **ver**  
+y que **se ha descrito** como anteriormente ~~ sigue ~~.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु नॆडुङ्गालङ् काणवासैप्पट्टदॊरु देशविशेषत्तिले सॆऩ्ऱवाऱे 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+नॆडुङ्गालङ्गाणव् आसैप्पट्ट - शास्त्रत्ताले शुद्धसत्वद्रव्यत्तिऩुडैय स्वरूपस्वभावङ्गळैयुम् कार्यङ्गळैयुम् नऩ्ऱाग अऱिन्द पिऩ् तदेकचित्तऩाय् इदै ऎप्पोदु कण्णाल् काण्बोम् ऎऩ्ऱु चिरकालमाग आसैप्पट्टदाऩ, ऒरु देशविशेषत्तिले सॆऩ्ऱवाऱे - विलक्षणमाऩ देशविशेषत्तिले सॆऩ्ऱवाऱे। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कर्म-फल-विशेष-भोगार्थम् आगव् अऩ्ऱिक्के  
+विद्यैयाले **स्थापितम्** आय् +++(5)+++  
+गति-मात्रार्थम् आगव् **अनुवृत्तम्** आऩ सूक्ष्म-शरीरत्तै  
+आऱु+++(=नदी)+++-कडक्कैक्कुप्+++(=मथनाय/तरणाय)+++ **पऱ्ऱिऩ** तॆप्पम्  
++++(प्रवाह एव)+++ **पोग विडुमाप्** पोले +++(5)+++  
+**पोग विडु-वित्तु**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कर्म-फल-विशेष-भोगार्थताम् अन्तरा  
+विद्यया स्थापितं  
+गति-मात्रार्थतया ऽनुवृत्तं सूक्ष्म-शरीरं  
+नदी-तरणार्थं गृहीतां नौकाम् +++(प्रवाह एव)+++ इव त्याजयित्वा 
+</details>
+
+<details><summary>English</summary>
+
+As soon as the self arrives at this region,  
+it casts off the subtle body ( sukṣma śarira)  
+which was kept on merely for the sake of the journey  
+and not for experiencing the fruits of past karma:  
+it casts off this subtle body  
+like a boat which is set adrift  
+after the crossing of the river  
+</details>
+
+<details><summary>Español</summary>
+
+Tan pronto como el yo **llega** a esta región,  
+**Saca** el cuerpo sutil (Sukṣma Śarira)  
+que **se mantuvo** simplemente por el **viaje**  
+Y **no para experimentar** los frutos del karma pasado:  
+**deseche** este cuerpo sutil  
+Como un bote que **se establece** en la deriva  
+Después del cruce del río
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कर्मफलविशेषभोगार्थमागवऩ्ऱिक्के विद्यैयाले स्थापितमाय् गतिमात्रार्थमागवनुवृत्तमाऩ सूक्ष्मशरीरत्तै आऱु कडक्कैक्कुप् पऱ्ऱिऩ तॆप्पम् पोग विडुमाप्पोले पोगविडुवित्तु, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ननु प्रपन्नऩुक्कु शरीरवियोगकालत्तिलेये ‘‘साम्पराये तर्तव्याभावात्’’ ऎऩ्गिऱ अधिकरणत्तिऩ्बडि सर्वकर्ममुम् निवृत्तमायिरुक्क सूक्ष्मशरीरानुवृत्तियुम्, पिऱगु तत्त्यागमुम् कूडुवदॆङ्ङऩे यॆऩ्ऩवरुळिच्चॆय्गिऱार् विद्यैयाले स्थापितमाय् गतिमात्रार्थमाग अनुवृत्तमाऩ सूक्ष्मशरीरत्तै इति । 
+
+कर्मसामान्यनिवृत्त्या कर्मत्ताले सूक्ष्मशरीरानुवृत्ति कूडादागिलुम् 
+
+> ‘‘उपपन्नस् तल्-लक्षणार्थोपपत्तैः लोकवत्’’ 
+
+ऎऩ्गिऱ सूत्रत्तिल् सॊऩ्ऩबडि  
+विद्यैयाले तऩ्ऩ्-उडैय परम-पद-प्रापण-रूपम् आऩ कार्य-निर्वृत्त्य्-अर्थम् आग स्थापितम् आय्,  
+अर्चिरादिगतिमात्रत्तिऱ्कागवनुवृत्तमाऩ सूक्ष्मशरीरम् कूडुमॆऩ्ऱु करुत्तु।  
+अन्यथा अर्चिरादिगतिमध्यत्तिल् 
+
+> ‘‘तमागतं पृच्छति – कोसीति, तं प्रतिब्रूयात् । सत्यं ब्रूयात्’’ 
+
+ऎऩ्गिऱ कौषीतकीब्राह्मणत्तिल् अवगतमाऩ चन्द्रसंवादमुम् अर्चिराद्यातिवाहिकर्गळाले सॆय्यप्पडुम् सपर्याद्यनुभवमुम् उपपन्नमागादिऱे।  
+
+सूक्ष्मशरीरत्यागत्तिऱ्कु अनुगुणमाऩ ऒरु दृष्टान्तमरुळिच्चॆय्गिऱार् आऱु कडक्कैक्कु इत्यादिना । 
+पोग विडुवित्तु - त्यजिप्पित्तु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विरजैक्क् अक्-करैप् पडुत्ति, 
+</details>
+
+
+<details><summary>English</summary>
+
+and when the self has crossed the river Viraja, 
+</details>
+
+<details><summary>Español</summary>
+
+and when the self has crossed the river Viraja, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विरजैक्कक्करैप्पडुत्ति, 
+</details>
 
 
 
-Thereafter it arrives at a region which it has long been eager to see and which has been described as above ~~follows~~.
-
-As soon as the self arrives at this region, it casts off the subtle body ( sukṣma śarira) which was kept on merely for the sake of the journey and not for experiencing the fruits of past karma: it casts off this subtle body like a boat which is set adrift after the crossing of the river and when the self has crossed the river Viraja, the Lord endows the self with a body that is super - sensuous and not constituted of matter or prakṛti; it is helped to reach the lake called Airammadiyam and then to approach the asvattha tree called Somasavana and is then welcomed by five hundred celestial damsels (apsaras) with garlands, ointments, fragrant powders, raiments and ornaments. The self is then decked by them with adornments suited to Brahman and the fragrances, flavours and splendours of Brahman are made to enter into it. It is then received by the eternal sūris. As the Alwar says. "The eternal sūris with crowns on their heads come in groups to receive these self's or souls who are esteemed as the servants of Govinda in successive generations. They take the self to the tower with high walls which is adorned with banners. The self is then led to the entrance where the gates are kept by guards called Indra and Prajāpati and receives super-sensuous (aprākrita) honours befitting a king. This is described in the three verses beginning with 10.9.9.-"As soon as they (the muktas) arrive at the gate, the guards who are eternal sūris say:-" The devotees of Bhagavān are our masters. So please enter our abode". "The sūris, who were there, wondered at the blessing vouchsafed to these released souls arriving from the earth. They considered it their own good fortune that these souls entered Vaikuṇṭha   and washed their feet and beautiful women received them with treasures, fragrant powder, the pürnakumbha and the lamp. Then these souls lived ( for ever) with the eternal sūris enjoying endless delights."
+the Lord endows the self with a body that is super - sensuous and not constituted of matter or prakṛti; it is helped to reach the lake called Airammadiyam and then to approach the asvattha tree called Somasavana and is then welcomed by five hundred celestial damsels (apsaras) with garlands, ointments, fragrant powders, raiments and ornaments. The self is then decked by them with adornments suited to Brahman and the fragrances, flavours and splendours of Brahman are made to enter into it. It is then received by the eternal sūris. As the Alwar says. "The eternal sūris with crowns on their heads come in groups to receive these self's or souls who are esteemed as the servants of Govinda in successive generations. They take the self to the tower with high walls which is adorned with banners. The self is then led to the entrance where the gates are kept by guards called Indra and Prajāpati and receives super-sensuous (aprākrita) honours befitting a king. This is described in the three verses beginning with 10.9.9.-"As soon as they (the muktas) arrive at the gate, the guards who are eternal sūris say:-" The devotees of Bhagavān are our masters. So please enter our abode". "The sūris, who were there, wondered at the blessing vouchsafed to these released souls arriving from the earth. They considered it their own good fortune that these souls entered Vaikuṇṭha   and washed their feet and beautiful women received them with treasures, fragrant powder, the pürnakumbha and the lamp. Then these souls lived ( for ever) with the eternal sūris enjoying endless delights."
 
 Thereafter the self is led into the enchanting assembly in the hall (mantapa) set with gems. As has been said in these śloka s: "I do not know how long I have spent my time in vain with this prakṛti being subject to her sway. How can I remain associated with this prakṛti, which takes the excellent forms (or bodies of the devās), the middling forms (or bodies of men) and the mean forms (or bodies which experience the pains of hell)? I will depart from her and give up all contact with her and attain Bhagavān who is free from all blemish. I will become one with Him and I will not be one with this non - sentient prakṛti. It is in the fitness of things that I should be one with Him and not with this prakṛti", and "When shall "I see, with my eyes, Keśava who is black as a cloud, whose eyes are broad and who is playing with Lakṣmī  in the gardens? and "When shall we all see ŚrīRāma with his complexion black as a cloud and with his long arms, - Kama who is firmly set in sattva, who has taken a staunch vow to protect those that seek his help and who is bent on relieving the sorrows of the world? Just as the rising sun dispels the darkness of the whole world, ŚrīRāma will dispel all our sorrow the moment we see him" - as stated in these śloka s, the Lord reveals to the mukta His blissful form so that be may get rid of all his sorrows, enables him to acquire his essential nature (with the eight great qualities [:- freedom from sin, being without old age, without death, without sorrow, without hunger. without thirst, with all desired objects and with a will that meets with no hindrance.] ), takes him to His feet and by sāyujya with Himself - which means equal enjoyment - places him in the midst of His eternal servants (nitya süris) who enjoy eternal bliss and who (henceforth) are of the same class as he.
 
