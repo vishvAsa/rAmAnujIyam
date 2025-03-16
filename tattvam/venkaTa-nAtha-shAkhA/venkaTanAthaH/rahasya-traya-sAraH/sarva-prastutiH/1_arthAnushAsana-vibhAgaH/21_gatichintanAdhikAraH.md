@@ -10,6 +10,29 @@ title = "२१ गतिचिन्तनाधिकारः"
 ॥ श्रीमद्रहस्यत्रयसारे गतिचिन्तनाधिकारः ॥ २१ ॥
 </details>
 
+<details><summary>English</summary>
+
+(21) THE CHAPTER ON THE PRESCRIBED PATH OR ROUTE. page 267
+</details>
+
+<details><summary>Español</summary>
+
+(21) El capítulo sobre la ruta prescrita. Página 267
+</details>
+
+## अर्चिरादिः
+
+<details><summary>English</summary>
+
+THE ROUTE CALLED ARCIRĀDI :
+</details>
+
+<details><summary>Español</summary>
+
+La ruta llamada Arcirādi:
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 ॥ श्रीः ॥  
@@ -17,29 +40,78 @@ title = "२१ गतिचिन्तनाधिकारः"
 ॥ श्रीमद्रहस्यत्रयसारे गतिचिन्तनाधिकारः ॥ २१ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
 
-(21) THE CHAPTER ON THE PRESCRIBE
-PATH OR ROUTE. page 267
+॥ श्रीः ॥  
+श्रीसारबोधिनीव्याख्यायां  
+गतिचिन्तनाधिकारः ॥  
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-ज्वलनदिवसज्योत्स्नापक्षोत्नरायणवत्सरान्  
-पवनतपनप्रालेयांशून् क्रमादचिरद्युतिम् ।  
-जलधरपतिं देवाधीशं प्रजापतिमागत-  
-स्तरति विरजां दूरे वाचस्ततः परमद्भुतम् ॥ ४६ ॥
+ज्वलन--दिवस--ज्योत्स्ना-पक्ष-+उत्तरायण-वत्सरान्  
+पवन-तपन-प्रालेयांशून्+++(=चन्द्रान्)+++ क्रमाद् अ-चिर-द्युतिम्  +++(विद्युतम्)+++।  
+जल-धर-पतिं +++(वरुणं)+++, देवाधीशं, प्रजा-पतिम् आगतस्  
+**तरति** विरजां, दूरे वाचस् ततः परम् अद्भुतम् ॥ ४६ ॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ज्वलन--दिवस--ज्योत्स्ना-पक्ष-+उत्तरायण-वत्सरान्  
+पवन-तपन-प्रालेयांशून्+++(=चन्द्रान्)+++ क्रमाद् अ-चिर-द्युतिम्  +++(विद्युतम्)+++।  
+जल-धर-पतिं +++(वरुणं)+++, देवाधीशं, प्रजा-पतिम् आगतस्  
+**तरति** विरजां, दूरे वाचस् ततः परम् अद्भुतम् ॥ ४६ ॥
+</details>
+
+
+<details><summary>English</summary>
+
+Fire (archis), day time, the bright half of the month (sukla pakṣa), Uttarāyaṇa and the year,  
+thence Vayu, Surya, Chandra and then Lightning,  
+Varuna, Indra, Prajāpati or Brahma --  
+having traversed this path in the order given above,  
+the self crosses the river Viraja;  
+then follows the wonder that defies (all description in words.)
+
+</details>
+
+<details><summary>Español</summary>
+
+Fuego (Archis), Hora del día, la mitad brillante del mes (Sukla Pakṣa), Uttarāyaṇa y el año,  
+desde allí Vayu, Surya, Chandra y luego rayo,  
+Varuna, Indra, Prajāpati o Brahma -  
+**habiendo recorrido** este camino en el orden **dado** anteriormente,  
+El yo **cruza** el río Viraja;  
+Luego **sigue** la maravilla que desafía (toda descripción en palabras).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-ज्वलनदिवसज्योत्स्नापक्षोत्नरायणवत्सरान्  
+ज्वलनदिवसज्योत्स्नापक्षोत्तरायणवत्सरान्  
 पवनतपनप्रालेयांशून् क्रमादचिरद्युतिम् ।  
 जलधरपतिं देवाधीशं प्रजापतिमागत-  
 स्तरति विरजां दूरे वाचस्ततः परमद्भुतम् ॥ ४६ ॥
 </details>
 
-Fire (archis), day.time, the bright half of the month sukla pakṣa), Uttarāyaṇa and the year, thence Vayu, Surya, Chandra and then Lightning, Varuna, Indra, Prajāpati or Brahma -- having traversed this path in the order given above, the self crosses the river Viraja; then follows the wonder that defies (all description in words.)
 
-THE ROUTE CALLED ARCIRĀDI :
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि मूर्धन्य-नाडियिले प्रवेशितऩ् आऩ मुमुक्षुवै  
+स्थूल-शरीरम् आगिऱ ब्रह्म-पुरत्तिऩिऩ्ऱुम्  
+ब्रह्म-नाडिय् आगिऱ तलै-वासलाले  
+वत्सलऩ् आऩ हार्दऩ्  
+वार्त्तै सॊल्लक् कऱ्किऱ मुख-वश्यऩ् आऩ राज-कुमारऩै राजाव् ऎडुत्तुक् कॊण्डु उलावुमाप् पोले  
+कॊण्डु पुऱप् पट्टु,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि मूर्धन्यनाडियिले प्रवेशितऩाऩ मुमुक्षुवै स्थूलशरीरमागिऱ ब्रह्मपुरत्तिऩिऩ्ऱुम् ब्रह्मनाडियागिऱ तलैवासलाले वत्सलऩाऩ हार्दऩ् वार्त्तै सॊल्लक्कऱ्किऱ मुखवश्यऩाऩ राजकुमारऩै राजावॆडुत्तुक्कॊण्डु उलावुमाप्पोले कॊण्डु पुऱप्पट्टु,
+</details>
+
 
 Thus the Lord who lives in the heart and who is full of love (for the Jīva  ) starts with the self who desires mukti and who has entered into the nādi in the head from out of Brahmapuri, namely, the gross body, by the Brahma Nādi, which is, as it were, the main gate (of that city). In this He resembles a king who walks to and fro with his charming child in his arins.
 
