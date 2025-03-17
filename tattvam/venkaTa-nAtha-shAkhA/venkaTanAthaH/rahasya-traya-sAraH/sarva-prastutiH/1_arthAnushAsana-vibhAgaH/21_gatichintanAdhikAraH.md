@@ -1023,9 +1023,132 @@ y luego **es bienvenido** por quinientas damiselas celestiales (Apsaras) con gui
 मालाञ्जनचूर्णवासः पणहस्तैकळाऩ वैन्नूऱु दिव्याप्सरस्सुक्कळैयिट्टॆदिर्गॊळ्वित्तु; 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मालङ्कारत्तालेय् अलङ्करिप्पित्तु,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ब्रह्मालङ्कारेणालङ्कार्य 
+</details>
 
 
-The self is then decked by them with adornments suited to Brahman and the fragrances, flavours and splendours of Brahman are made to enter into it. It is then received by the eternal sūris. As the Alwar says. "The eternal sūris with crowns on their heads come in groups to receive these self's or souls who are esteemed as the servants of Govinda in successive generations. They take the self to the tower with high walls which is adorned with banners. The self is then led to the entrance where the gates are kept by guards called Indra and Prajāpati and receives super-sensuous (aprākrita) honours befitting a king. This is described in the three verses beginning with 10.9.9.-"As soon as they (the muktas) arrive at the gate, the guards who are eternal sūris say:-" The devotees of Bhagavān are our masters. So please enter our abode". "The sūris, who were there, wondered at the blessing vouchsafed to these released souls arriving from the earth. They considered it their own good fortune that these souls entered Vaikuṇṭha   and washed their feet and beautiful women received them with treasures, fragrant powder, the pürnakumbha and the lamp. Then these souls lived ( for ever) with the eternal sūris enjoying endless delights."
+<details><summary>English</summary>
+
+The self is then decked by them with adornments suited to Brahman 
+</details>
+
+<details><summary>Español</summary>
+
+El yo **está adornado** por ellos con adornos adecuados para Brahman
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मालङ्कारत्ताले यलङ्करिप्पित्तु,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म-गन्ध-रस-तेजस्सुक्कळैप् प्रवेशिप्पित्तु, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१६८]]  
+ब्रह्म-गन्ध-रस-तेजांसि प्रवेश्य 
+</details>
+
+
+<details><summary>English</summary>
+
+and the fragrances, flavours and splendours of Brahman are made to enter into it. 
+</details>
+
+<details><summary>Español</summary>
+
+y las fragancias, sabores y esplendors de Brahman **están hechos** para **entrar** en ella.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मगन्धरसतेजस्सुक्कळैप् प्रवेशिप्पित्तु, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > कुडिय्+++(=कुल)+++-अडियार् इवर् गोविन्दऩ्ऱऩक्क् 
+> 
+> ऎऩ्ऱु मुडियुडै वाऩवर्  
+> मुऱै मुऱैय् +++(=पुनः पुनः)+++ **ऎदिर् कॊळ्ळ**,  
+> कॊडिय्+++(=ध्वज)+++-अणि+++(=भूषा)+++--नॆडु+++(=दीर्घ)+++-मदिळ्+++(=प्राकारक)+++-गोपुरङ् **कुऱुगु**+++(=समीपं)+++ **वित्तु**'  
+> ( तिरुवाय्मॊऴि १०-९-८।), 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "कुलदासा इमे साक्षाद् गोविन्दस्ये"ति  
+> किरीट-धारिषु दिवि-षत्सु पर्यायेण प्रत्युद्गच्छसु,  
+> ध्वजालङ्कृत-दीर्घ-प्राकारक-गोपुर-समीपं प्रापय्य" 
+</details>
+
+
+<details><summary>English</summary>
+
+It is then received by the eternal sūris.  
+As the Alwar says.  
+
+> "The eternal sūris with crowns on their heads  
+> come in groups to receive these selfs or souls  
+> who are esteemed as the servants of Govinda in successive generations.  
+> They take the self to the tower with high walls  
+> which is adorned with banners.  
+</details>
+
+<details><summary>Español</summary>
+
+Luego es recibido por el Eternal Sūris.  
+Como dice el Alwar.
+
+> "El Eternal Sūris con coronas en sus cabezas  
+> **Ven** en grupos para **recibir** estos yo o almas  
+> quienes **son estimados** como los **sirvientes** de Govinda en generaciones sucesivas.  
+> **Toman** el yo a la torre con paredes altas  
+> que **está adornado** con pancartas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'कुडियडियारिवर् कोविन्दऩ्ऱऩक्कॆऩ्ऱु मुडियुडै वाऩवर् मुऱै मुऱैयॆदिर् कॊळ्ळ कॊडियणिनॆडुमदिळ् कोबुरङ्गुऱुगुवित्तु' ( तिरुवाय्मॊऴि १०-९-८।), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द्र--प्रजा-पतिगळ् ऎऩ्ऱु पेर्-उडैय द्वार-गोपरैक् किट्टु वित्तु, 
+</details>
+
+<details><summary>English</summary>
+
+The self is then led to the entrance  
+where the gates are kept by guards called Indra and Prajāpati 
+</details>
+
+<details><summary>Español</summary>
+
+El yo **es llevado** a la entrada  
+Donde las puertas **son mantenidas** por los guardias **llamados** Indra y Prajāpati
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द्रप्रजापतिगळॆऩ्ऱु पेरुडैय द्वारगोपरैक्किट्टुवित्तु, 
+</details>
+
+
+and receives super-sensuous (aprākrita) honours befitting a king. This is described in the three verses beginning with 10.9.9.-"As soon as they (the muktas) arrive at the gate, the guards who are eternal sūris say:-" The devotees of Bhagavān are our masters. So please enter our abode". "The sūris, who were there, wondered at the blessing vouchsafed to these released souls arriving from the earth. They considered it their own good fortune that these souls entered Vaikuṇṭha   and washed their feet and beautiful women received them with treasures, fragrant powder, the pürnakumbha and the lamp. Then these souls lived ( for ever) with the eternal sūris enjoying endless delights."
 
 Thereafter the self is led into the enchanting assembly in the hall (mantapa) set with gems. As has been said in these śloka s: "I do not know how long I have spent my time in vain with this prakṛti being subject to her sway. How can I remain associated with this prakṛti, which takes the excellent forms (or bodies of the devās), the middling forms (or bodies of men) and the mean forms (or bodies which experience the pains of hell)? I will depart from her and give up all contact with her and attain Bhagavān who is free from all blemish. I will become one with Him and I will not be one with this non - sentient prakṛti. It is in the fitness of things that I should be one with Him and not with this prakṛti", and "When shall "I see, with my eyes, Keśava who is black as a cloud, whose eyes are broad and who is playing with Lakṣmī  in the gardens? and "When shall we all see ŚrīRāma with his complexion black as a cloud and with his long arms, - Kama who is firmly set in sattva, who has taken a staunch vow to protect those that seek his help and who is bent on relieving the sorrows of the world? Just as the rising sun dispels the darkness of the whole world, ŚrīRāma will dispel all our sorrow the moment we see him" - as stated in these śloka s, the Lord reveals to the mukta His blissful form so that be may get rid of all his sorrows, enables him to acquire his essential nature (with the eight great qualities [:- freedom from sin, being without old age, without death, without sorrow, without hunger. without thirst, with all desired objects and with a will that meets with no hindrance.] ), takes him to His feet and by sāyujya with Himself - which means equal enjoyment - places him in the midst of His eternal servants (nitya süris) who enjoy eternal bliss and who (henceforth) are of the same class as he.
 
