@@ -1278,7 +1278,31 @@ en el salón (Mantapa) ubicado con gemas (llamadas Anandamaya).
 
 
 
-As has been said in these śloka s: "I do not know how long I have spent my time in vain with this prakṛti being subject to her sway. How can I remain associated with this prakṛti, which takes the excellent forms (or bodies of the devās), the middling forms (or bodies of men) and the mean forms (or bodies which experience the pains of hell)? I will depart from her and give up all contact with her and attain Bhagavān who is free from all blemish. I will become one with Him and I will not be one with this non - sentient prakṛti. It is in the fitness of things that I should be one with Him and not with this prakṛti", and "When shall "I see, with my eyes, Keśava who is black as a cloud, whose eyes are broad and who is playing with Lakṣmī  in the gardens? and "When shall we all see ŚrīRāma with his complexion black as a cloud and with his long arms, - Kama who is firmly set in sattva, who has taken a staunch vow to protect those that seek his help and who is bent on relieving the sorrows of the world? Just as the rising sun dispels the darkness of the whole world, ŚrīRāma will dispel all our sorrow the moment we see him" - as stated in these śloka s, the Lord reveals to the mukta His blissful form so that be may get rid of all his sorrows, enables him to acquire his essential nature (with the eight great qualities [:- freedom from sin, being without old age, without death, without sorrow, without hunger. without thirst, with all desired objects and with a will that meets with no hindrance.] ), takes him to His feet and by sāyujya with Himself - which means equal enjoyment - places him in the midst of His eternal servants (nitya süris) who enjoy eternal bliss and who (henceforth) are of the same class as he.
+As has been said in these ślokas:  
+
+> "I do not know how long I have spent my time in vain with this prakṛti  
+> being subject to her sway.  
+> How can I remain associated with this prakṛti,  
+> which takes the excellent forms (or bodies of the devās), the middling forms (or bodies of men) and the mean forms (or bodies which experience the pains of hell)?  
+> I will depart from her  
+> and give up all contact with her  
+> and attain Bhagavān who is free from all blemish.  
+> I will become one with Him  
+> and I will not be one with this non-sentient prakṛti.  
+> It is in the fitness of things  
+> that I should be one with Him  
+> and not with this prakṛti", 
+
+and 
+
+> "When shall I see, with my eyes, Keśava  
+> who is black as a cloud,  
+> whose eyes are broad  
+> and who is playing with Lakṣmī in the gardens?" 
+
+and 
+
+> "When shall we all see Śrī Rāma with his complexion black as a cloud and with his long arms, - Kama who is firmly set in sattva, who has taken a staunch vow to protect those that seek his help and who is bent on relieving the sorrows of the world? Just as the rising sun dispels the darkness of the whole world, ŚrīRāma will dispel all our sorrow the moment we see him" - as stated in these śloka s, the Lord reveals to the mukta His blissful form so that be may get rid of all his sorrows, enables him to acquire his essential nature (with the eight great qualities [:- freedom from sin, being without old age, without death, without sorrow, without hunger. without thirst, with all desired objects and with a will that meets with no hindrance.] ), takes him to His feet and by sāyujya with Himself - which means equal enjoyment - places him in the midst of His eternal servants (nitya süris) who enjoy eternal bliss and who (henceforth) are of the same class as he.
 
 Then the Lord blesses him with the grant of all such services as were desired by him and as are agreeable to Himself, having previously removed all hindrances and enabled him to attain, his essential nature, in a manifest form, and without any limitations of place, time and circumstance, so that these services may last as long as his soul lasts. The Lord embraces the mukta who has arrived just now and treats him, without the slightest difference, in the same manner as He treats the sūris, who are eternally free from all imperfections and who are like friends of the same age among themselves and with the Lord. The Lord is immensely delighted at the bliss enjoyed by this eternal servant of His who is staunchly and exclusively devoted to Him, and who has attained the exalted position desired by Aḷavandār in his Stotram and by Śrī Rāmānuja in his Vaikuṇṭha-gadyam. [ In the Stotram and the Gadyam ŚrīAḷavandār and ŚrīRāma nuja cry out, as it were, saying :- When shall I go to Vaikuṇṭha   and see the Lord face to face and be His devoted and eternal servant? ]
 
