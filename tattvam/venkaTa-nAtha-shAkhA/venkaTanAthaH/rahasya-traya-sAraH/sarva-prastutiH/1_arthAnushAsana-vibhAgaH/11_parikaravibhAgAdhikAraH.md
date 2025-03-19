@@ -2651,6 +2651,18 @@ done with the help of those who could promote this surrender (ghatake).
 अस्मिन् प्रकरणे निवेदन-शब्दो विज्ञापन-मात्र-परत्वे निष्प्रयोजनः ।
 </details>
 
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+रामस्य निवेदक-कपिभिस् सहैव वर्तमानत्वम्,  
+विभीषणस्य तारस्वरत्वम् … इति प्रकरणगतांशाः।  
+वाल्मीकिर् अपि 
+
+> ‘‘सीताञ् च रामाय निवेद्य देवीं 
+
+इति निवेदनशब्दं निक्षेपार्थे प्रयुङ्क्ते।  
+</details>
+
+
 <details><summary>English</summary>
 
 The word Nivedayata, which here means "offer to Him" would be of no use,  
