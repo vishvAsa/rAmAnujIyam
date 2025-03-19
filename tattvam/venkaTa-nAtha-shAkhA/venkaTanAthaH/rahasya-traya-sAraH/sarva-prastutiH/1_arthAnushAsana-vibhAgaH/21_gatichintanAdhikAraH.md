@@ -1277,13 +1277,82 @@ en el salón (Mantapa) ubicado con gemas (llamadas Anandamaya).
 </details>
 
 
+## सोत्साह-दर्शनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अनया +++(प्रकृत्या)+++ ऽहं **वशी-भूतः**  
+कालम् एतन् **न बुद्धवान्** ।  
+उच्च-मद्ध्यम-नीचान्तां +++(नाना-शरीरैः)+++  
+ताम् अहं कथम् **आवसे** ॥’’  
+(भारतम् शान्ति-पर्व ३१२-३०।)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘अनया +++(प्रकृत्या)+++ ऽहं **वशी-भूतः**  
+कालम् एतन् **न बुद्धवान्** ।  
+उच्च-मद्ध्यम-नीचान्तां +++(नाना-शरीरैः)+++  
+ताम् अहं कथम् **आवसे** ॥’’  
+(भारतम् शान्ति-पर्व ३१२-३०।)  
+</details>
+
+
+<details><summary>English</summary>
 
 As has been said in these ślokas:  
 
-> "I do not know how long I have spent my time in vain with this prakṛti  
+> "I do not know 
+> how long I have spent my time in vain with this prakṛti  
 > being subject to her sway.  
 > How can I remain associated with this prakṛti,  
 > which takes the excellent forms (or bodies of the devās), the middling forms (or bodies of men) and the mean forms (or bodies which experience the pains of hell)?  
+
+</details>
+
+<details><summary>Español</summary>
+
+Como **se ha dicho** en estos Ślokas:
+
+> "**No sé**  
+> Cuánto tiempo **he pasado** mi tiempo en vano con este prakṛti  
+> **Estar sujeto** a su influencia.  
+> ¿Cómo **puedo permanecer** asociado con este prakṛti  
+> Qué **toma** las excelentes formas (o cuerpos de los devās), las formas medianas (o cuerpos de los hombres) y las formas medias (o cuerpos que experimentan los dolores del infierno)?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अनयाहं वशीभूतः कालमेतन्नबुद्धवान् ।  
+उच्चमद्ध्यमनीचान्तां तामहं कथमावसे ॥’’  
+(भारतम् शान्ति-पर्व ३१२-३०।)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **‘‘अपेत्याहम्** इमां +++(प्रकृतिं)+++ **हित्वा**  
+**संश्रयिष्ये** निरामयम् ।  
+अनेन +++(परमात्मना)+++ साम्यं **यास्यामि**  
+नानया ऽहम् अचेतसा ॥  
+**क्षमं** मम सहानेन  
+ह्य् एकत्वं, नानया सह’’  
+(भारतम् शान्ति-पर्व ३१२-३८, ३९।),  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> **‘‘अपेत्याहम्** इमां +++(प्रकृतिं)+++ **हित्वा**  
+**संश्रयिष्ये** निरामयम् ।  
+अनेन +++(परमात्मना)+++ साम्यं **यास्यामि**  
+नानया ऽहम् अचेतसा ॥  
+**क्षमं** मम सहानेन  
+ह्य् एकत्वं, नानया सह’’  
+(भारतम् शान्ति-पर्व ३१२-३८, ३९।),  
+</details>
+
+
+<details><summary>English</summary>
+
 > I will depart from her  
 > and give up all contact with her  
 > and attain Bhagavān who is free from all blemish.  
@@ -1293,6 +1362,49 @@ As has been said in these ślokas:
 > that I should be one with Him  
 > and not with this prakṛti", 
 
+</details>
+
+<details><summary>Español</summary>
+
+> Me **apartaré** de ella  
+> y **renuncia** a todo contacto con ella  
+> y **alcanzar** a Bhagavān, que **está libre** de toda la mancha.  
+> Me **convertiré** en uno con él  
+> Y **no seré** uno con este prakṛti no sensible.  
+> **Está** en la aptitud de las cosas  
+> que **debería ser** uno con él  
+> y no con este prakṛti ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अपेत्याहमिमां हित्वा संश्रयिष्ये निरामयम् ।  
+अनेन साम्यं यास्यामि नानयाहमचेतसा ॥  
+क्षमं मम सहानेन ह्येकत्वं नानया सह’’  
+(भारतम् शान्ति-पर्व ३१२-३८, ३९।),  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **क्रीडन्तं** रमया सार्धं  
+लीला-भूमिषु केशवम् ॥  
+मेघ-श्यामं विशालाक्षं  
+कदा **द्रक्ष्यामि** चक्षुषा॥’’  
+(जितन्ता-स्तो २-२१।),  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> **क्रीडन्तं** रमया सार्धं  
+लीला-भूमिषु केशवम् ॥  
+मेघ-श्यामं विशालाक्षं  
+कदा **द्रक्ष्यामि** चक्षुषा॥’’  
+(जितन्ता-स्तो २-२१।),  
+</details>
+
+<details><summary>English</summary>
+
 and 
 
 > "When shall I see, with my eyes, Keśava  
@@ -1300,9 +1412,142 @@ and
 > whose eyes are broad  
 > and who is playing with Lakṣmī in the gardens?" 
 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "¿Cuándo **veré**, con mis ojos, keśava  
+> ¿Quién **es** negro como una nube?  
+> cuyos ojos **son** amplios  
+> ¿Y quién **está jugando** con Lakṣmī en los jardines? "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘क्रीडन्तं रमया सार्धं लीलाभूमिषु केशवम् ॥  
+मेघश्यामं विशालाक्षं कदा द्रक्ष्यामि चक्षुषा॥’’  
+(जितन्ता-स्तो २-२१।),  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मेघ-श्यामं महा-बाहुं  
+स्थिर-सत्त्वं दृढ-व्रतम् ।  
+कदा **द्रक्ष्यामहे** रामं  
+जगतश् शोक-**नाशनम्** ॥  
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> मेघ-श्यामं महा-बाहुं  
+स्थिर-सत्त्वं दृढ-व्रतम् ।  
+कदा **द्रक्ष्यामहे** रामं  
+जगतश् शोक-**नाशनम्** ॥  
+</details>
+
+
+<details><summary>English</summary>
+
 and 
 
-> "When shall we all see Śrī Rāma with his complexion black as a cloud and with his long arms, - Kama who is firmly set in sattva, who has taken a staunch vow to protect those that seek his help and who is bent on relieving the sorrows of the world? Just as the rising sun dispels the darkness of the whole world, ŚrīRāma will dispel all our sorrow the moment we see him" - as stated in these śloka s, the Lord reveals to the mukta His blissful form so that be may get rid of all his sorrows, enables him to acquire his essential nature (with the eight great qualities [:- freedom from sin, being without old age, without death, without sorrow, without hunger. without thirst, with all desired objects and with a will that meets with no hindrance.] ), takes him to His feet and by sāyujya with Himself - which means equal enjoyment - places him in the midst of His eternal servants (nitya süris) who enjoy eternal bliss and who (henceforth) are of the same class as he.
+> "When shall we all see Śrī Rāma  
+> with his complexion black as a cloud  
+> and with his long arms,   
+> Rama who is firmly set in sattva,  
+> who has taken a staunch vow to protect those that seek his help  
+> and who is bent on relieving the sorrows of the world? 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "¿Cuándo todos **veremos** Śrī Rāma  
+> con su tez negra como una nube  
+> Y con sus largos brazos,  
+> Rama que **está** firmemente **ambientado** en Sattva,  
+> Quién **ha hecho** un voto firme de **proteger** a los que buscan su ayuda  
+> Y quién **está empeñado en aliviar** las penas del mundo?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मेघश्यामं महाबाहुं स्थिरसत्वं दृढव्रतम् ।  
+कदा द्रक्ष्यामहे रामं जगतश्शोकनाशनम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**दृष्ट** एव हि नश् शोकम्  
+**अपनेष्यति** राघवः ।  
+तमस् सर्वस्य लोकस्य  
+समुद्यन्न् इव भास्कर॥ +++(5)+++  
+(रामायणम् अयोध्या-काण्डम् ८३-८-९)  
+</details>
+
+<details><summary>विषयः</summary>
+
+रामः, देवः, प्रीतिः
+</details>
+
+<details><summary>English</summary>
+
+> Just as the rising sun dispels the darkness of the whole world,  
+> Śrī Rāma will dispel all our sorrow  
+> the moment we see him  
+</details>
+
+<details><summary>Español</summary>
+
+> Justo cuando el sol **ascendente disipa** la oscuridad del mundo entero,  
+> Śrī rāma **disipará** toda nuestra pena  
+> En el momento en que **lo vemos**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दृष्ट एव हि नश्शोकमपनेष्यति राघवः ।  
+तमस्सर्वस्य लोकस्य समुद्यन्निव भास्कर॥’’  
+(रामायणम् अयोध्या-काण्डम् ८३-८-९)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिल् कट्टळैयिले+++(=विधैः)+++  
+इवऩ् मनो-रथित्त बडिये  
+इऴन्दविऴव् ऎल्लान् **तीर**  
+निरतिशय-भोग्यऩ् आऩ तऩ्ऩैक् **काट्टित्** 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिल् कट्टळैयिले इवऩ् मनोरथित्तबडिये इऴन्दविऴवॆल्लान्दीर निरतिशयभोग्यऩाऩ तऩ्ऩैक् काट्टित् 
+</details>
+
+
+
+
+
+
+
+\- as stated in these śloka s,  
+the Lord reveals to the mukta His blissful form  
+so that be may get rid of all his sorrows,  
+enables him to acquire his essential nature  
+(with the eight great qualities  
+[- freedom from sin, being without old age, without death, without sorrow, without hunger. without thirst, with all desired objects and with a will that meets with no hindrance] ),  
+takes him to His feet  
+and by sāyujya with Himself - which means equal enjoyment -  
+places him in the midst of His eternal servants (nitya süris)  
+who enjoy eternal bliss  
+and who (henceforth) are of the same class as he.
 
 Then the Lord blesses him with the grant of all such services as were desired by him and as are agreeable to Himself, having previously removed all hindrances and enabled him to attain, his essential nature, in a manifest form, and without any limitations of place, time and circumstance, so that these services may last as long as his soul lasts. The Lord embraces the mukta who has arrived just now and treats him, without the slightest difference, in the same manner as He treats the sūris, who are eternally free from all imperfections and who are like friends of the same age among themselves and with the Lord. The Lord is immensely delighted at the bliss enjoyed by this eternal servant of His who is staunchly and exclusively devoted to Him, and who has attained the exalted position desired by Aḷavandār in his Stotram and by Śrī Rāmānuja in his Vaikuṇṭha-gadyam. [ In the Stotram and the Gadyam ŚrīAḷavandār and ŚrīRāma nuja cry out, as it were, saying :- When shall I go to Vaikuṇṭha   and see the Lord face to face and be His devoted and eternal servant? ]
 
