@@ -1698,11 +1698,41 @@ le **permite adquirir** su naturaleza esencial
 तऩ्मै - स्वस्वभावत्तै, अपहतपाप्मत्वादिगळै ऎऩ्ऱबडि। पॆऱुत्ति - आविर्भविक्कुम्बडिबण्णि, इदऩाल् गुणाष्टकाविर्भावप्रतिबन्धककर्मवासनांशम् पर्यङ्कारोहणानान्तरमे निवृत्तमामॆऩ्ऱु सूचितम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩ् ताळ्+++(=पाद)+++-इणैक्+++(=द्वन्द्व)+++-कीऴ्क् कॊण्डु 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्व-चरण--द्वन्द्वाधस्-स्थं कृत्वा  
+</details>
 
 
-
+<details><summary>English</summary>
 
 takes him to His feet  
+</details>
+
+<details><summary>Español</summary>
+
+lo **pone** de pie
+</details>
+
+<details><summary>मूलम्</summary>
+
+तऩ् ताळिणैक्कीऴ्क्कॊण्डु 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तऩ् ताळिणैक्कीऴ् - तऩ्ऩुडैय चरणद्वन्द्वत्तिऩ् कीऴ्, कॊण्डु - चरणोपधानमागक्कॊण्डु, 
+</details>
+
+
+
+
+
 and by sāyujya with Himself - which means equal enjoyment -  
 places him in the midst of His eternal servants (nitya süris)  
 who enjoy eternal bliss  
