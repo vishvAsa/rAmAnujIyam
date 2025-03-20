@@ -33,7 +33,7 @@ que uno está en el estado apropiado o niṣṭhā. Página200
 गभीरान् दुष्-पूरान् गगन-महतश् छिद्र-निवहान् ॥ ३२ ॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 स्व-रूप+उपाय+अर्थेष्व् अ-वितथ-**निविष्ट-स्थिर**-मतेस्  
 स्व-**निष्ठाऽभिज्ञानं** सु-भगम् अपवर्गाद् उपनतात् +++(अपि- शीघ्र-प्राप्यतया)+++ ।+++(5)+++  
@@ -68,7 +68,7 @@ que son profundos y difíciles de llenar y que son tan inmensos como el cielo,
 गभीरान् दुष्पूरान् गगनमहतश्छिद्रनिवहान् ॥ ३२ ॥
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सार-बोधिनी</summary>
 
 ॥ श्रीः ॥  
 श्रीसारबोधिनीव्याख्यायां  
