@@ -2,10 +2,16 @@
 title = "+संस्था:"
 +++
 
-[[३१६]]
-Associated Organisations of Maran Publications 
+
+## आश्रम-मठ-भेदः
+मठश् छात्र-निलयः। मठाधिपत्यं यतिर् हि कुर्यात् - नियमन-विशेषेण।  
+
+छात्रावासाद् भिन्नो यति-निलय आश्रम इत्य् उच्यते। 
 
 ## Parankushachar Institute of Vedic Studies (PIVS), Bangalore. 
+[[३१६]]  
+(Associated Organisations of Maran Publications)
+
 
 The founder-visionary “Veda Varidhi” “Veda Vijnana Siromani” “Vacaspati” “Shastra Ratnakara” Sri.U. Ve. Dr. P. Ramanujacharya, a scholar-devotee par excellence was nurtured and inspired right from his childhood days by his illustrious father Late Ghanapathi Vidvan Sri U. Ve.Parankushacharya an authentic scholar of SalakshanaGhananta in Krishna Yajur Veda, Dharmashastras, Sahitya, Vyakarana and Vedanta, besides being proficient in the divine songs of Alwars in Tamil, Pancharatra Agama and ShrivaishnavaSampradaya. Parankushachar Institute of Vedic Studies (PIVS), Bangalore, a public registered Trust, registered in September १९९६, is imparting traditional Vedic knowledge in the maukhikparampara and is also engaged in research ever since, in Vedic texts for bringing out the treasures hidden in them for the benefit of all. The major objectives of the Trust are to propagate Veda-s, DivyaPrabandhams, Stotra, Sampradayagranthas etc. by teaching (traditionally), discourses, lectures, seminars etc. in Sanskrit, Tamil, Kannada, English media and popular modes. Digital content creation on these original texts and their translations, commentaries, expositions etc. is also undertaken and training of scholars and interested persons in the process of creation is under way. Publication of rare, important books, manuscripts etc. on Vedic studies is also another activity. Research on these works and publishing results in various languages is the end result envisaged. For more details, visit us at: www.parankusa.org 
 

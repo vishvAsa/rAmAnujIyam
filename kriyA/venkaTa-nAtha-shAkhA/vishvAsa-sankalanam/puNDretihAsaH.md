@@ -59,5 +59,6 @@ i.e. the little shvetapundra crescent below (the diamondish mark for Kurma is us
 
 
 ## sampradAya-difference
+सच्-चरित्र-रक्षायां वेदान्त-देशिकेन दक्षिण-कलार्येषु प्रसिद्धं शूलष्पुण्ड्रम् नोल्लिखितम् इति बहवः।
 
 I would go to the extent of saying that both types were in use and did not even determine which sampradaya you belonged to - till late 1600s perhaps. That one type became an identification for a particular sampradaya and another for the other sampradaya - is a later innovation. There is no evidence for a pundra difference based on sampradaya in the 1400s/1500s.
