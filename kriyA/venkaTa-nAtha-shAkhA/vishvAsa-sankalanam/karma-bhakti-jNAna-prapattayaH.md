@@ -488,6 +488,9 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 परकृत-प्रपत्तेस् साफल्ये प्रमाणम् -  अशक्तस्य मूर्च्छितस्य वा सन्ध्यावन्दनादेर् अन्येनानुष्ठानस्य यथोपपत्तिर् मीमांसकैः। 
 
 ### प्रक्रिया-भेदः
+शरणागतिगद्यवत् क्रमशः  
+आचार्यानुसन्धानम्, लक्ष्मीप्रसादनम्, दोषक्षमायाचनम्, द्वयम् इत्यादीति श्रूयते - प्रयोगो न दृष्टः।
+
 अस्य विस्तारो [ऽत्र रहस्यत्रयसारे](/rAmAnujIyam/tattvam/venkaTanAthaH/rahasya-traya-sAraH/rAjagopAla-translation/1_arthAnushAsana-vibhAgaH/08_adhikArivibhAgAdhikAraH/)। 
 
 #### स्वनिष्ठा 
@@ -532,6 +535,20 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 
 #### आचार्य-निष्ठा
 अत्राचार्यः स्वयं जीवं प्रपन्नं निवेदयति।
+
+##### मुनित्रय-सम्प्रदायय् आचार्य-वरणम्
+
+> Bharanyasam was generally taken from the most exalted acharya of the generation. so gopalarya mahadesikans times saw most of the svayamacharya families undergo bharanyasam with him.
+> 
+> There are thozhappachars who have remained outside gopalarya tradition. But then they have taken bharanyasam from parakala matha in past.
+> 
+> - Ravilochana
+
+
+> Also many sought Vazhur Andavan and Periyandavan, especially the latter. Many great scholars sought him after this incident (Tirupputkuzhi Swamy taking bharanyAsa). Until then he was relatively unknown as he shyed away from sadases and didn't particularly do any kalakshepam etc. People even thought he was not that erudite. This was before Andavan Ashramam was formed as an organization. Until then the 3 sanyasis of this parampara (Vazhutur-Tirutturaipundi-Periya-andavans) lived on the banks of the Kaveri sleeping under bushes mostly. 
+> 
+> - Vijay
+
 
 #### भागवत-निष्ठा
 अप्रार्थित एव सज्-जन आचार्येण निवेद्यते रक्षणार्थं भगवन्तम् प्रति।
