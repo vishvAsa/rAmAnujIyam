@@ -14,6 +14,6 @@ title = "०१ वङ्गीश-कृत-प्रातर्निर्�
 
 <div class="js_include" url="/rAmAnujIyam/kriyA/vangi-vaMsheshvara-kArikA/01_abhigamaH/01_yogAntam/03_pAnchakAlika-kriyA-sankalpaH/" unfilled newLevelForH1="5" includeTitle="false"> </div>  
 
-इति सात्विक-धृतिम् अवलम्बेत।
+इति सात्त्विक-धृतिम् अवलम्बेत।
 
 [[6]]
