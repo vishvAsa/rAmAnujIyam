@@ -1730,15 +1730,92 @@ lo **pone** de pie
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+तऩ्ऩोडु समान भोगत्व-लक्षणम् आऩ सायुज्यत्तालेय्  
+इवऩुक्कु स-जातीयर् आऩव् अन्तमिल् पेर्+++(=महा)+++-इऩ्बत्त्-अडियरोड् इरुत्ति,  
+</details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वेन सह समान-भोगत्व-लक्षणेन सायुज्येन  
+एतत्--स-जातीयैर् अन्त-रहित-महानन्दैर् दासैः सहावस्थाप्य  
+</details>
+
+<details><summary>English</summary>
 
 and by sāyujya with Himself - which means equal enjoyment -  
 places him in the midst of His eternal servants (nitya süris)  
 who enjoy eternal bliss  
 and who (henceforth) are of the same class as he.
 
-Then the Lord blesses him with the grant of all such services as were desired by him and as are agreeable to Himself, having previously removed all hindrances and enabled him to attain, his essential nature, in a manifest form, and without any limitations of place, time and circumstance, so that these services may last as long as his soul lasts. The Lord embraces the mukta who has arrived just now and treats him, without the slightest difference, in the same manner as He treats the sūris, who are eternally free from all imperfections and who are like friends of the same age among themselves and with the Lord. The Lord is immensely delighted at the bliss enjoyed by this eternal servant of His who is staunchly and exclusively devoted to Him, and who has attained the exalted position desired by Aḷavandār in his Stotram and by Śrī Rāmānuja in his Vaikuṇṭha-gadyam. [ In the Stotram and the Gadyam ŚrīAḷavandār and ŚrīRāma nuja cry out, as it were, saying :- When shall I go to Vaikuṇṭha   and see the Lord face to face and be His devoted and eternal servant? ]
+</details>
+
+<details><summary>Español</summary>
+
+y por sāyujya consigo mismo, lo que **significa** igual disfrute -  
+lo **coloca** en medio de sus sirvientes eternos (Nitya Süris)  
+que **disfrutan** de la felicidad eterna  
+y quién (en adelante) **son** de la misma clase que él.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩ्ऩोडु समान भोगत्वलक्षणमाऩ सायुज्यत्ताले यिवऩुक्कु सजातीयराऩ वन्दमिल् पेरिऩ्बत्तडियरोडिरुत्ति,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि समस्त-प्रतिबन्धक-निवृत्ति-पूर्वकम् आगवुम्,  
+स्व--स्व-रूपाविर्भाव-पूर्वकम् आगवुम्,  
+देश-कालावस्था-सङ्कोचम् इल्लाद बडिय् आगवुम्  
+तऩ् मनो-रथत्तुक्क् अनुरूपम् आगव् इवऩ् मनोरथित्त **कैङ्कर्यङ्गळैय्** ऎल्लाम्  
+यावद्-आत्म-भाविय् आगक् कॊण्ड् **अरुळि**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं समस्त-प्रतिबन्धक-निवृत्ति-पूर्वकं स्व--स्व-रूपाविर्भाव-पूर्वकं च  
+देश-कालावस्था-संकोच-रहितं  
+स्व-मनो-रथानुरूपम् एतन्-मनो-रथ-गोचरं **कैङ्कर्यं** सर्वं  
+यावद्-आत्म-भावितया **ऽनुगृह्य**, 
+</details>
+
+<details><summary>English</summary>
+
+Then the Lord blesses him  
+with the grant of all such services  
+as were desired by him  
+and as are agreeable to Himself,  
+having previously removed all hindrances  
+and enabled him to attain his essential nature in a manifest form,  
+and without any limitations of place, time and circumstance,  
+so that these services may last as long as his soul lasts. 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces el Señor lo **bendice**  
+con la concesión de todos estos servicios  
+como lo **deseaban**  
+y como **son** de **acuerdo** para sí mismo,  
+**habiendo eliminado** previamente todos los obstáculos  
+y le **permitió alcanzar** su naturaleza esencial en una forma manifiesta,  
+y sin limitaciones de lugar, tiempo y circunstancia,  
+para que estos servicios **puedan durar** mientras su alma dure.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि समस्तप्रतिबन्धकनिवृत्तिपूर्वकमागवुम्, स्वस्वरूपाविर्भावपूर्वकमागवुम्, देशकालावस्थासङ्कोचमिल्लादबडियागवुम् तऩ् मनोरथत्तुक्कनुरूपमाग विवऩ् मनोरथित्त कैङ्कर्यङ्गळैयॆल्लाम् यावदात्म-भावियागक् कॊण्डरुळि, 
+</details>
+
+
+
+
+The Lord embraces the mukta who has arrived just now and treats him, without the slightest difference, in the same manner as He treats the sūris, who are eternally free from all imperfections and who are like friends of the same age among themselves and with the Lord. The Lord is immensely delighted at the bliss enjoyed by this eternal servant of His who is staunchly and exclusively devoted to Him, and who has attained the exalted position desired by Aḷavandār in his Stotram and by Śrī Rāmānuja in his Vaikuṇṭha-gadyam. [ In the Stotram and the Gadyam ŚrīAḷavandār and ŚrīRāma nuja cry out, as it were, saying :- When shall I go to Vaikuṇṭha   and see the Lord face to face and be His devoted and eternal servant? ]
 
 ARCHIRĀDI IS NOT THE ONLY ROUTE TO MOKSA  OR VAIKUṆṬHA. THERE ARE OTHER ROUTES AS WELL.
 
