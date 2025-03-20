@@ -203,8 +203,3 @@ Acharya-hrdayam was composed by lokAchArya's younger brother.
 > This work was the start of an open revolt against vaidikas among vaishnavas. Eg. "You guys follow Rishi gotras . We belong to azhvaar gotra .."  
 > इति रविलोचनः। 
 
-### शूल-पुण्ड्रम्
-सच्-चरित्र-रक्षायां वेदान्त-देशिकेन दक्षिण-कलार्येषु प्रसिद्धं शूलष्पुण्ड्रम् नोल्लिखितम् इति बहवः। 
-
-
-
