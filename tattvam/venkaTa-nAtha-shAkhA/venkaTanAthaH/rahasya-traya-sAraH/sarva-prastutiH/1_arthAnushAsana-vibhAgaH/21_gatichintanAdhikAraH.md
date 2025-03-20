@@ -1622,9 +1622,32 @@ y
 
 इत्य्-आदिगळिल् कट्टळैयिले+++(=विधैः)+++  
 इवऩ् मनो-रथित्त बडिये  
-इऴन्द-विऴव् ऎल्लान् तीर  
+इऴन्द-विऴव्+++(=वक्रताः)+++ ऎल्लान् तीर  
 निरतिशय-भोग्यऩ् आऩ तऩ्ऩैक् **काट्टित्** 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्यादि-पद्-धत्या एतदीय-पूर्व-कृत--मनो-रथ-रीत्या  
+पूर्वम् आपतित-सर्व-विध-हानि-निवर्तन-पूर्वं  
+निरतिशय-भोग्यम् आत्मानं **प्रदर्श्य**  
+</details>
+
+<details><summary>English</summary>
+
+\- as stated in these ślokas,  
+the Lord reveals to the mukta His blissful form  
+so that be may get rid of all his sorrows,  
+
+</details>
+
+<details><summary>Español</summary>
+
+\- Como **se indica** en estos ślokas,  
+El Señor **revela** a la Mukta su maravillosa forma  
+para que ese **sea deshacerse** de todas sus penas,
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1632,17 +1655,53 @@ y
 </details>
 
 
+<details><summary>सायण-टीका</summary>
+
+इऴन्द विऴवॆल्लाम् तीर - कीऴे इऴन्दुबोऩ भगवद्-असम्बन्ध-जनित-दुःखम् ऎल्लाम् तीरुम्बडि, तऩ्ऩै - अपहतपाप्मत्वादिगुणाष्टकविशिष्ट तऩ् स्वरूपत्तै, काट्टि - हार्दऩाऩ ताऩ् काट्टि, 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+तऩ्मै पॆऱुत्तित्+++(=प्रापय्य)+++ 
+</details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-\- as stated in these śloka s,  
-the Lord reveals to the mukta His blissful form  
-so that be may get rid of all his sorrows,  
+स्व-रूपं (प्रापय्य)
+</details>
+
+<details><summary>English</summary>
+
 enables him to acquire his essential nature  
+
 (with the eight great qualities  
-[- freedom from sin, being without old age, without death, without sorrow, without hunger. without thirst, with all desired objects and with a will that meets with no hindrance] ),  
+[- freedom from sin, being without old age, without death, without sorrow, without hunger, without thirst, with all desired objects and with a will that meets with no hindrance] ),  
+</details>
+
+<details><summary>Español</summary>
+
+le **permite adquirir** su naturaleza esencial
+
+(con las ocho grandes cualidades  
+[- Libertad del pecado, sin la vejez, sin muerte, sin tristeza, sin hambre, sin sed, con todos los objetos deseados y con un testamento que se encuentra sin obstáculos]),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩ्मैबॆऱुत्तित् 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तऩ्मै - स्वस्वभावत्तै, अपहतपाप्मत्वादिगळै ऎऩ्ऱबडि। पॆऱुत्ति - आविर्भविक्कुम्बडिबण्णि, इदऩाल् गुणाष्टकाविर्भावप्रतिबन्धककर्मवासनांशम् पर्यङ्कारोहणानान्तरमे निवृत्तमामॆऩ्ऱु सूचितम्। 
+</details>
+
+
+
+
+
 takes him to His feet  
 and by sāyujya with Himself - which means equal enjoyment -  
 places him in the midst of His eternal servants (nitya süris)  
