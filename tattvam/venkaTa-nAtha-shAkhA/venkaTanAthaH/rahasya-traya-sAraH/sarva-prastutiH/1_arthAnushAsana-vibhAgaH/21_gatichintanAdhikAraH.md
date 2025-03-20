@@ -1818,6 +1818,13 @@ para que estos servicios **puedan durar** mientras su alma dure.
 इप्पडि समस्तप्रतिबन्धकनिवृत्तिपूर्वकमागवुम्, स्वस्वरूपाविर्भावपूर्वकमागवुम्, देशकालावस्थासङ्कोचमिल्लादबडियागवुम् तऩ् मनोरथत्तुक्कनुरूपमाग विवऩ् मनोरथित्त कैङ्कर्यङ्गळैयॆल्लाम् यावदात्म-भावियागक् कॊण्डरुळि, 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इऩि पूर्वानुवादपूर्वकम् कैङ्कर्यप्रदानत्तै यरुळिच् चॆय्गिऱार् इप्पडि इत्यादिना । तऩ् मनोरथत्तिऱ्कनुरूपमाग इत्यादि । इङ्गु तऩ् शब्दम् भगव त्परम्। दासभूतऩुक्कु स्वामिमनोरथत्तिऱ्कननुरूपमाऩ मनोरथमुण्डागादिऱे। कैङ्कर्यङ्गळै यॆल्लामिति । स्वामिमनोरथाविरुद्धमाग इवऩ् मनोरथित्त कैङ्कर्यङ्गळिल् यावदात्मभावियाग इवऩुक्कुक्कॊडाददॊऩ्ऱुमिल्लैयॆऩ्ऱु करुत्तु। 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘सवयस इव ये नित्य-निर्दोष-गन्धाः’’ (श्रीगुणरत्ऩगोसम् २७।) 
@@ -1833,32 +1840,49 @@ para que estos servicios **puedan durar** mientras su alma dure.
 </details>
 
 
+<details><summary>मूलम्</summary>
+
+‘‘सवयस इव ये नित्यनिर्दोषगन्धाः’’(श्रीगुणरत्ऩगोसम् २७।) ऎऩ्गिऱबडिये 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+सवयस इव – समानवयस्कर्गळ् पोले, नित्यनिर्दोषगन्धाः – नित्यं यथा तथा दोषगन्धाभाववन्तः, ये – अनन्तगरुडादयः, सन्ति । इदै विवरिक्किऱार् ऎऩ्गिऱबडिये तऩक्कुमित्यादिना । 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩक्कु अन्योऽन्यमुम्  
+ऒरु वयस्सिल् तोऴऩ्मारैप्+++(=मित्राणि)+++  पोलेय् इरुक्किऱ नित्य-सूरिगळोडु इऩ्ऱु वन्दय् इवऩोडु  
+वासिय्+++(=तारतम्य)+++-अऱप् पुरैय्+++(=रन्ध्र)+++-अऱप् परि+++(=सहचरण)+++-माऱि+++(=विनिमाय)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वस्यान्योऽन्यम् एक-वयस्क-मित्रैर् इव वर्तमानैर् नित्य-सूरिभिः सहाद्यागतेनानेन सहापि  
+निर्विशेषं नीरन्धं च संश्लिष्य  
+</details>
+
 <details><summary>English</summary>
 
 in the same manner as He treats the sūris,  
 who are eternally free from all imperfections  
-and who are like friends of the same age among themselves and with the Lord
+and who are like friends of the same age among themselves and with the Lord  
+The Lord embraces the mukta who has arrived just now  
+and treats him, without the slightest difference.  
 </details>
 
 <details><summary>Español</summary>
 
 De la misma manera que **trata** a los sūris,  
 que **están** eternamente libres de todas las imperfecciones  
-y que **son** como amigos de la misma edad entre ellos y con el Señor
+y que **son** como amigos de la misma edad entre ellos y con el Señor  
+El Señor **abraza** al mukta que **ha llegado** ahora  
+y lo **trata**, sin la más mínima diferencia.
 </details>
 
-
-<details><summary>मूलम्</summary>
-
-‘‘सवयस इव ये नित्यनिर्दोषगन्धाः’’(श्रीगुणरत्ऩगोसम् २७।) ऎऩ्गिऱबडिये 
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तऩक्कु अन्योन्यमुम्  
-ऒरु वयस्सिल् तोऴऩ् मारैप् पोलेय् इरुक्किऱ नित्य-सूरिगळोडु इऩ्ऱु वन्दय् इवऩोडु  
-वासिय्-अऱप् पुरैय्-अऱप् परिमाऱि
-</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1866,8 +1890,16 @@ y que **son** como amigos de la misma edad entre ellos y con el Señor
 </details>
  
 
+<details><summary>सार-बोधिनी</summary>
 
-The Lord embraces the mukta who has arrived just now and treats him, without the slightest difference. The Lord is immensely delighted at the bliss enjoyed by this eternal servant of His who is staunchly and exclusively devoted to Him, and who has attained the exalted position desired by Aḷavandār in his Stotram and by Śrī Rāmānuja in his Vaikuṇṭha-gadyam. [ In the Stotram and the Gadyam ŚrīAḷavandār and ŚrīRāma nuja cry out, as it were, saying :- When shall I go to Vaikuṇṭha   and see the Lord face to face and be His devoted and eternal servant? ]
+वासियऱ - इऩ्ऱु वन्द व्यक्ति योडु,  
+नित्यसूरिकळोडु तारतम्यमिऩ्ऱिक्के,  
+पुरैयऱ - परिमाऱ्ऱत्तिल् भेदमऱ, परिमाऱि - सेरक्कलन्दु, संश्लेषित्तॆऩ्ऱबडि।  
+</details>
+
+
+
+The Lord is immensely delighted at the bliss enjoyed by this eternal servant of His who is staunchly and exclusively devoted to Him, and who has attained the exalted position desired by Aḷavandār in his Stotram and by Śrī Rāmānuja in his Vaikuṇṭha-gadyam. [ In the Stotram and the Gadyam ŚrīAḷavandār and ŚrīRāma nuja cry out, as it were, saying :- When shall I go to Vaikuṇṭha   and see the Lord face to face and be His devoted and eternal servant? ]
 
 ARCHIRĀDI IS NOT THE ONLY ROUTE TO MOKSA  OR VAIKUṆṬHA. THERE ARE OTHER ROUTES AS WELL.
 
