@@ -68,7 +68,7 @@ A wiseman should never transgress the code of conduct prescribed by the shastras
 
 If there is any transgression, it displeases the Lord and if he does not pray for forgiveness, he will be subjected to some punishment or other, before he departs from the body. There cannot be a greater punishment to a devotee, a satvika, than losing the affection and love of the Lord. This kind of 'आज्ञातिलंघन' is an obstruction to the natural flow of love of the Lord and this is to be reflected in 'Namah' and 'Ma-shuchah' of the three mantras. This kind of compliance with the shastras will avert the obstructions for attainment of purushartha and wins the grace of the Lord.
 
-आज्ञानुज्ञाविभागेन द्विधा शास्त्रीयपद्धतिः । निग्रहानुदयायाद्या परा तत्तत्फलामये ।। अनुज्ञया प्रवृत्तेऽपि क्रमकोपादि संभवे ।
+आज्ञानुज्ञाविभागेन द्विधा शास्त्रीयपद्धतिः । निग्रहानुदयायाद्या परा तत्तत्फलामये ॥ अनुज्ञया प्रवृत्तेऽपि क्रमकोपादि संभवे ।
 
 आज्ञातिक्रमदोषस्स्यात् नियमोऽतो दुरत्ययः ||
 

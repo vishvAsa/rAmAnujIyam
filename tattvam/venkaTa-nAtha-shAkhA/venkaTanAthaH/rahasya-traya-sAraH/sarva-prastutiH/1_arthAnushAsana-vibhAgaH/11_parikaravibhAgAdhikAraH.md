@@ -2716,8 +2716,8 @@ and in all deposits of property on trust with others in ordinary life.
 
 <details><summary>Español</summary>
 
-These ideas can be found either briefly or at length in all other contexts of prapatti  
-and in all deposits of property on trust with others in ordinary life. 
+Estas ideas **se pueden encontrar** brevemente o extensamente en todos los demás contextos de Prapatti.  
+y en todos los depósitos de propiedad en confianza con otros en la vida ordinaria.  
 </details>
 
 
@@ -2752,8 +2752,8 @@ which one is oneself unable to keep safe,
 
 <details><summary>Español</summary>
 
-When depositing, with a capable person, property or wealth  
-which one is oneself unable to keep safe,  
+Al **depositar**, con una persona capaz, propiedad o riqueza
+Cual **es** el que **no puede mantenerse** a salvo …
 </details>
 
 
@@ -2790,9 +2790,9 @@ and to give up the intention to displease that person ?
 
 <details><summary>Español</summary>
 
-has it not been seen that  
-one intends to do what is pleasing  
-and to give up the intention to displease that person ? 
+**no se ha visto** que
+uno **tiene** la intención de hacer lo que es agradable
+Y **renunciar** a la intención de desagradar a esa persona?
 </details>
 
 
@@ -2814,7 +2814,7 @@ and to give up the intention to displease that person ?
 > इवऩ् रक्षिक्क-वल्लऩ्  
 अपेक्षित्ताल् रक्षिप्पदुञ् सॆय्युम्  
 
-ऎऩ्ऱु तेऱित्,  
+ऎऩ्ऱु तेऱित्+++(=निश्चित्य)+++,  
 ताऩ् रक्षित्तुक्-कॊळ्ळ-माट्टामैयैय् अऱिवित्तु  
 </details>
 
@@ -2835,9 +2835,9 @@ tells him of one's inability to take care of it
 
 <details><summary>Español</summary>
 
-One believes that the person ( so trusted ) can keep it safe  
-and will do so if required,  
-tells him of one's inability to take care of it  
+Uno **cree** que la persona (tan confiable) **puede mantenerlo** a salvo  
+y lo **hará** si es **necesario**,  
+le **dice** la incapacidad de uno para **cuidarlo**
 </details>
 
 <details><summary>सार-बोधिनी</summary>
@@ -2872,8 +2872,8 @@ Then one leaves it with him
 
 <details><summary>Español</summary>
 
-and begs him to be its custodian.  
-Then one leaves it with him  
+y le **ruega** que **sea** su custodio.  
+Entonces uno lo **deja** con él  
 </details>
 
 
@@ -2892,7 +2892,7 @@ Then one leaves it with him
 ताऩ् निर्भरऩ् आय्  
 भयङ् कॆट्टु  
 मार्बिले+++(=उरसि)+++ कैवैत्तुक्-कॊण्डु  
-किडन्द्+++(=शयित्वा??)+++ उऱङ्गक्+++(=स्वापं)+++  
+किडन्द्+++(=शयित्वा)+++ उऱङ्गक्+++(=स्वापं)+++  
 काणा निऩ्ऱोम् इऱे।
 </details>
 
@@ -2911,8 +2911,8 @@ and with one's arms on one's chest.
 
 <details><summary>Español</summary>
 
-and sleeps care-free, without any fear  
-and with one's arms on one's chest.
+y **duerme** sin cuidado, sin miedo  
+y con los brazos de uno en el pecho.
 </details>
 
 
@@ -2931,20 +2931,18 @@ and with one's arms on one's chest.
 
 <details><summary>English</summary>
 
-THE PRESENCE OF THESE AṅGAS AND
-THE AṅGĪ IN DVAYA:
+THE PRESENCE OF THESE AṅGAS AND THE AṅGĪ IN DVAYA:
 </details>
 
 <details><summary>Español</summary>
 
-THE PRESENCE OF THESE AṅGAS AND
-THE AṅGĪ IN DVAYA:
+La **presencia** de estos aṅgas y el aṅgī en dvaya:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इक् कट्टळैय्+++(=नियतम्)+++ ऎल्लाम्  
-क्रियमाणार्थ-प्रकाशकम् आऩ द्वयाख्य-मन्त्रत्तिले अनुसन्धिक्कुम् बडिय् ऎङ्ङऩेय् 
+क्रियमाणार्थ-प्रकाशकम् +++(→मन्त्र-लक्षणम् ← [लट्, सम्बोधनम्…])+++ आऩ द्वयाख्य-मन्त्रत्तिले अनुसन्धिक्कुम् बडिय् ऎङ्ङऩेय् 
 
 ऎऩ्ऩिल्; 
 </details>
@@ -2952,7 +2950,7 @@ THE AṅGĪ IN DVAYA:
 <details><summary>नीलमेघः (सं)</summary>
 
 > एवं नियतम् इदं सर्वं  
-क्रियमाणार्थ-प्रकाशके द्वयाख्य-मन्त्रे कथम् अनुसन्धेयम् 
+क्रियमाणार्थ-प्रकाशके +++(→मन्त्र-लक्षणम् ← [लट्, सम्बोधनम्…])+++ द्वयाख्य-मन्त्रे कथम् अनुसन्धेयम् 
 
 इति चेत् — 
 </details>
@@ -2966,9 +2964,9 @@ The answer is as follows:--
 
 <details><summary>Español</summary>
 
-It may be asked how these aṅgas are to be understood in the mantra called Dvaya  
-which reveals the meaning of the action (prapatti) to be performed.  
-The answer is as follows:--
+Se **puede preguntar** cómo **se deben entender** estos aṅGas en el mantra **llamado** dvaya  
+lo que **revela** el significado de la acción (Prapatti) que se **realizará**.
+La **respuesta es** la siguiente:-
 </details>
 
 <details><summary>सार-बोधिनी</summary>
@@ -3008,11 +3006,11 @@ Doubts might arise whether the Lord of all
 
 <details><summary>Español</summary>
 
-Doubts might arise whether the Lord of all  
+**Pueden surgir** dudas si el Señor de todos
 
-(1) who is omniscient and omnipotent,  
-(2) who rewards in proportion to the karma (performed by one),  
-(3) who does not require any help or assistance,  
+(1) quien **es** omnisciente y omnipotente  
+(2) quien **se recompensa** en proporción al karma (realizado por uno),  
+(3) quien **no requiere** ayuda o asistencia
 </details>
 
 
@@ -3069,7 +3067,7 @@ Doubts might arise whether the Lord of all
 क्षुद्रदेवतैगळैप्पोले क्षिप्रकारि यऩ्ऱिक्के यिरुप्पाऩाय्, 
 </details>
 
-### शङ्का
+### ५ शङ्काः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > … समाधिक-दरिद्रऩ् आऩ सर्वेश्वरऩ्  
@@ -3120,7 +3118,9 @@ Doubts might arise whether the Lord of all
 
 <details><summary>Español</summary>
 
-(1) whether the Lord who is of such a nature could ( at all) be accessible to those who have committed unlimited transgressions
+(1) Si el Señor que **es** de tal naturaleza  
+**podría** (en absoluto) **ser accesible** para aquellos  
+que **han cometido** transgresiones ilimitadas  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3150,9 +3150,9 @@ which are hindrances to their attainment,
 
 <details><summary>Español</summary>
 
-(2) whether He would grant fruits beyond all measure  
-to those who have committed unlimited transgressions  
-which are hindrances to their attainment,
+(2) si **otorgaría** frutas más allá de toda medida  
+a aquellos que **han cometido** transgresiones ilimitadas  
+que **son** obstáculos para su **logro**,
 </details>
 
 
@@ -3179,7 +3179,7 @@ which are hindrances to their attainment,
 
 <details><summary>Español</summary>
 
-(3) whether He would give (these blessings ) in return for insignificant actions (on the part of the persons concerned),
+(3) Si él **daría** (estas bendiciones) a cambio de acciones insignificantes (por parte de las personas en cuestión),
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3205,7 +3205,7 @@ which are hindrances to their attainment,
 
 <details><summary>Español</summary>
 
-(4) whether - he would grant them without delay and
+(4) Si - él les **concedería sin demora** y
 </details>
 
 
@@ -3217,7 +3217,7 @@ which are hindrances to their attainment,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> … तरम् पारादे+++(=??-)+++ तरुगैयुङ्  
+> … तरम् पारादे+++(=अदृष्ट्वा)+++ तरुगैयुङ्  
 कूडुमोव्? 
 
 ऎऩ्गिऱ शङ्कैकळुक्कु निवर्तकङ्गळुमाय्, 
@@ -3240,9 +3240,9 @@ To remove these doubts one should know that
 
 <details><summary>मूलम्</summary>
 
-(5) whether He would be absolutely indifferent to the status of the suppliant.  
+(5) Si **sería** absolutamente indiferente al estado del suplicante.
 
-To remove these doubts one should know that  
+Para eliminar estas dudas, uno debe saber que
 </details>
 
 
@@ -3283,12 +3283,13 @@ the Lord has certain features like
 
 <details><summary>Español</summary>
 
-the Lord has certain features like  
-(1) helpful recommendation (purushakāra) from Lakṣmī,  
-(2) the relationship of the Master to his servants,  
-(3) attributes and qualities like love (to His creatures ).  
-(4) the will or determination (to redeem them) and  
-(5) His own satisfaction in saving them.
+El Señor **tiene** ciertas características como  
+
+(1) **Recomendación** útil (Purushakāra) de Lakṣmī,  
+(2) la **relación** del maestro con sus sirvientes,  
+(3) Atributos y **cualidades** como el amor (para sus criaturas).  
+(4) la **voluntad** o determinación (para redimirlos) y  
+(5) Su propia **satisfacción** para salvarlos.
 </details>
 
 <details><summary>सार-बोधिनी</summary>
@@ -3304,14 +3305,15 @@ the Lord has certain features like
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पॊदिन्दु+++(=संवृत्य)+++ कॊण्ड् इरुक्किऱ श्रीमच्-छब्दत्तिलुम् नारायण-शब्दत्तिलुम्  
-+++(वक्ष्यमाण-रीत्या)+++ आर्थम् आग आनुकूल्य-सङ्कल्पमुम् प्रातिकूल्यवर्जनमुम् अनुसन्धेयम् आगक्-कडवदु।  
+… **पॊदिन्दु**+++(=संवृत्य‌/खचित)+++ कॊण्ड् **इरुक्किऱ** श्रीमच्-छब्दत्तिलुम्, नारायण-शब्दत्तिलुम्  
++++(वक्ष्यमाण-रीत्या शेषित्वतः)+++ आर्थम् आग  
+आनुकूल्य-सङ्कल्पमुम् प्रातिकूल्यवर्जनमुम् अनुसन्धेयम् आगक्-कडवदु।  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-गर्भीकुर्वति श्रीमच्छब्दे नारायणशब्दे च  
-+++(वक्ष्यमाण-रीत्या)+++ अर्थितयाऽऽनुकूल्य संकल्पः प्रातिकूल्य-वर्जनं चानुसन्धेयं भवितुम् अर्हतः । 
+… **गर्भी-कुर्वति** श्रीमच्छब्दे नारायणशब्दे च  
++++(वक्ष्यमाण-रीत्या शेषित्वतः)+++ आर्थतया ऽऽनुकूल्य-संकल्पः प्रातिकूल्य-वर्जनं चानुसन्धेयं भवितुम् अर्हतः । 
 </details>
 
 
@@ -3328,13 +3330,13 @@ This should be considered as referred to in those two words in Dvaya.
 
 <details><summary>Español</summary>
 
-These features of the śeṣī  (Bhagavān ) which are needed, respectively, for the upāya or means and for the attainment  
-lie imbedded, as it were, in the words Śrīmat (with Śrī or Lakṣmī ) and Nārāyaṇa  (the refuge of all men )  
-and these features will not, in reason, be available for salvation  
-if there is no determination on the part of the Jīva  
-to do what is pleasing: (anukulya saṅkalpa)  
-and the avoidance of what is displeasing  (prātikulya varjana).  
-This should be considered as referred to in those two words in Dvaya.  
+Estas características del Śeṣī (Bhagavān) que **son necesarios**, respectivamente, para el upāya o los medios y para el logro  
+mentir **incrustado**, por así decirlo, en las palabras śrīmat (con Śrī o Lakṣmī) y Nārāyaṇa (el refugio de todos los hombres)
+y estas características no estarán, en razón, disponibles para la salvación
+Si no hay determinación por parte del Jīva
+Para hacer lo que es agradable: (Anukulya Saṅkalpa)
+y la evitación de lo que es desagradable (Prātikulya varjana).
+Esto debe considerarse como se hace referencia en esas dos palabras en Dvaya.
 </details>
 
 
@@ -3349,14 +3351,14 @@ This should be considered as referred to in those two words in Dvaya.
 पॊदिन्दुगॊण्डिरुक्किऱ श्रीमच्छब्दत्तिलुम् नारायणशब्दत्तिलुम् आर्थमाग आनुकूल्यसङ्कल्पमुम् प्रातिकूल्यवर्जनमुम् अनुसन्धेय मागक्कडवदु।  
 </details>
 
-### आनुकूल्य-सङ्कल्पादि
+### आनुकूल्य-सङ्कल्पादेर् आर्थता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्पडि विशिष्टऩ् आऩ स्वामियैक् काट्टुगिऱ शब्दङ्गळ्  
-औचित्यत्ताले अवऩ् तिऱत्तिल् प्राप्तम् आऩ  
++++(तद् एवम् -)+++ इप्पडि **विशिष्टऩ् आऩ** स्वामियैक् **काट्टुगिऱ** शब्दङ्गळ्  
+औचित्यत्ताले अवऩ् तिऱत्तिल्+++(=पक्षे)+++ प्राप्तम् आऩ  
 अभिमतानुवर्तन-सङ्कल्पत्तैयुम्  
-अनभिमत-निवर्तनत्तैयुम् प्रकाशिप्पिक्किऩ्ऱऩ। 
+अनभिमत-निवर्तनत्तैयुम् **प्रकाशिप्पिक्किऩ्ऱऩ**। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -3379,9 +3381,9 @@ and the avoidance of what would cause displeasure.
 
 <details><summary>Español</summary>
 
-These words which show that the master has these features  
-reveal by their appropriateness (the need for) the determination to perform what would please Him  
-and the avoidance of what would cause displeasure.
+Estas palabras que **muestran** que el maestro **tiene** estas características  
+**revelar** por su idoneidad (la necesidad de) la **determinación de realizar** lo que le **agradaría**  
+y la **evitación** de lo que **causaría** disgusto.
 </details>
 
 <details><summary>सार-बोधिनी</summary>
@@ -3398,12 +3400,12 @@ and the avoidance of what would cause displeasure.
 ### ५ आकार-विशेषाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पुरुष-कारादिगळ् अञ्जुक्कुम् विशेषङ्गळ् आवऩ - 
+इप्-पुरुष-कारादिगळ् अञ्जुक्कुम् विशेषङ्गळ् आवऩ +++(क्रमशः)+++- 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-एषां पुरुषकारादीनां पञ्चानां विशेषास् तावत् -
+एषां पुरुषकारादीनां पञ्चानां विशेषास् तावत् +++(क्रमशः)+++-
 </details>
 
 
@@ -3420,13 +3422,14 @@ have, respectively, the following specific properties:
 
 <details><summary>Español</summary>
 
-These five,  
-namely helpful recommendation from Śrī,  
-the relationship of the Master to His servants,  
-His attributes and qualities,  
-His activity in redeeming and the satisfaction (prayojana) He receives  
-have, respectively, the following specific properties: 
+Estos cinco,  
+a **saber**, **recomendación** útil de Śrī,  
+la **relación** del maestro con sus sirvientes,  
+Sus atributos y **cualidades**,
+Su **actividad en redimir**  
+y la **satisfacción** (Prayojana) recibe  
 
+tener, respectivamente, las siguientes propiedades específicas:
 </details>
 
 
@@ -3444,7 +3447,7 @@ have, respectively, the following specific properties:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पुरुष-कारस्य)+++ मऱुक्कव् ऒण्णामैयुम्,  
-+++(सम्बन्धस्य)+++ ऒऴिक्कव् ऒऴियामैयुम्,  
++++(सम्बन्धस्य)+++ ऒऴिक्कव्+++(=नाशे)+++ ऒऴियामैयुम्+++(=अविरामः →अनर्हता)+++,  
 +++(गुणानां)+++ निरुपाधिकम् आगैयुम्,  
 +++(व्यापारस्य)+++ सहकारियैप् पार्त्त् इरुक्क वेण्डामैयुम्,  
 +++(प्रयोजनस्य)+++ तण्णियर् आऩ पिऱर्-उडैय पेऱे+++(=पुरुषार्थं हि)+++ तऩ् पेऱ् आगैयुम्।+++(5)+++
@@ -3471,11 +3474,11 @@ have, respectively, the following specific properties:
 
 <details><summary>Español</summary>
 
-(1) inability to refuse,  
-(2) impossibility of dissociating (Himself from His servants),  
-(3) the unconditioned Nature of His grace,  
-(4) the absence of the need for accessory help and  
-(5) His feeling that the gain of those who are below Him is His own gain. 
+(1) **Incapacidad para rechazar**,  
+(2) imposibilidad de **disociar** (él mismo de sus sirvientes),  
+(3) La naturaleza **incondicionada** de su gracia,  
+(4) La **ausencia** de la necesidad de ayuda accesoria y  
+(5) Su **sentimiento** de que la **ganancia** de quienes **están** debajo de él es su propia ganancia.
 </details>
 
 
@@ -3522,8 +3525,8 @@ the answer is as follows:-
 
 <details><summary>Español</summary>
 
-If it is asked how the doubts (about salvation by prapatti) stated before are removed by these specific properties,  
-the answer is as follows:- 
+Si se **pregunta** cómo las dudas (sobre la salvación de Prapatti) **declaradas** anteriormente **son eliminadas** por estas propiedades específicas,  
+La **respuesta** es la siguiente:-
 </details>
 
 
@@ -3538,14 +3541,14 @@ the answer is as follows:-
 </details>
 
 
-#### अप्रत्याख्येय-पुरुष-कारत्वतः
+#### अ-प्रत्याख्येय-घटकताया अभिगम्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वज्ञऩ् आय् सर्वशक्तिय् आय् इरुन्-दाऩेय् आगिलुम्  
-मऱुक्क-वॊण्णाद पुरुष-कार-विशेषत्ताले  
+मऱुक्क+++(=तिरस्-कार)+++-वॊण्णाद पुरुष-कार-विशेषत्ताले  
 अन्तः-पुर-परिजन-विषयत्तिऱ् पोले  
 अभिगन्तव्यता-विरोधिगळाऩ अपराधङ्गळैय् ऎल्लाम् क्षमित्तु  
-इवऱ्ऱिल् "अविज्ञाता" ऎऩ्ऩुम् बडि निऩ्ऱु अभिगन्तव्यऩ् आम्। 
+इवऱ्ऱिल् +++(अपराधेषु)+++ "अविज्ञाता" ऎऩ्ऩुम् बडि निऩ्ऱु अभिगन्तव्यऩ् आम्। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -3554,7 +3557,7 @@ the answer is as follows:-
 +++(ततः)+++ अप्रत्याख्येय-पुरुष-कार-विशेषेण  
 अन्तः-पुर-परिजन-विषय इव  
 अभिगन्तव्यता-विरोध्य् अनन्तापराधान् क्षमित्वा,  
-एषां विषये 'अविज्ञाता' इति वर्णनार्हतया ऽवस्थितो ऽभिगन्तव्यो भवति ।  
+एषां विषये +++(अपराधेषु)+++ 'अविज्ञाता' इति वर्णनार्हतया ऽवस्थितो ऽभिगन्तव्यो भवति ।  
 </details>
 
 <details><summary>English</summary>
@@ -3568,11 +3571,11 @@ He will appear as if he is unaware of these faults and be easily accessible.
 
 <details><summary>Español</summary>
 
-(1) Though He is omniscient and omnipotent,  
-He can not ignore recommendations of certain kinds  
-and will pardon all faults which stand in the way of His accessibility  
-in the same way as a king will pardon the faults of servants of the zenaną (on the recommendation of the royal ladies).  
-He will appear as if he is unaware of these faults and be easily accessible. 
+(1) Aunque **es** omnisciente y omnipotente,  
+**No puede ignorar** las recomendaciones de ciertos tipos  
+y **perdonará** todas las fallas que se interponen en el camino de su **accesibilidad**  
+De la misma manera que un rey **perdonará** las fallas de los sirvientes del Zenaną (por recomendación de las Royal Ladies).  
+**Aparecerá** como si **no fuera al tanto** de estas fallas y se **puede acceder** fácilmente.
 </details>
 
 
@@ -3588,7 +3591,7 @@ He will appear as if he is unaware of these faults and be easily accessible.
 सर्वज्ञऩाय् सर्वशक्ति यायिरुन्दाऩेयागिलुमिति । इदऩाल् शङ्काबीजमिरुन्दालुम् शङ्कापरिहारङ्गळै निऩैत्तालदु अकार्यकरमामॆऩ्ऱु द्योतितम्। मऱुक्कवॊण्णाद पुरुषकारविशेषत्ताले इति । पिराट्टियागिऱ पुरुषकारम् पॆरुमाळैक्किट्टि इवऩुडैय अपराधम् उमक्कुत् तॆरियुमागिलुम्, इवऩै तण्डिक्क उमक्कु शक्तियिरुन्दालुम् इवऩ् नम्मुडैय मनुष्यऩागैयाल् दोषत्तै मऱन्दु शक्तियै यडक्कि इवऩै रक्षित्ते तीरवेण्डुम्। अपराधमिल्लादवर्गळ् ऒरुवरुमिल्लै यॆऩ्ऱु पारुमॆऩ्ऱु सॊऩ्ऩाल् अवऩ् दोषत्तै उपेक्षित्तुप्पोगवेण्डुमेयॊऴिय अन्द वार्तैयै अनादरित्तु इन्द पुरुषकारम् भगवाऩुक्कुम् मऱुक्कमुडियादिऱे। इदिल् दृष्टान्तत्तैक् काण्बित्तु अभिगन्तव्यऩागुम् प्रकारत्तै यरुळिच्चॆय्गिऱार् अन्तःपुरपरिजन विषयत्तिऱ्पोले इति । अन्तःपुरपरिजन ऎऩ्ऱदाल् पुरुषकारप्राबल्यम् सूचितम्। पुरुषकारप्राबल्यमिरुन्दालुम् पण्णिऩ अपराधत्तिऱ्कु परिहारम् वेण्डावो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् अभिगन्तव्यताविरोधिकळाऩ अपराधङ्गळैयॆल्लाम् क्षमित्तु इति । पुरुषकारम् प्रबलमाम्बोदु अभिगन्तव्यताविरोधिपापङ्गळुक्कु क्षमैगॊळ्वदे परिहारमॆऩ्ऱु करुत्तु। सर्वज्ञऩाऩ भगवाऩ् तॆरिन्दिरुन्दुम् ऒरुवऩुडैय पापत्तै क्षमै कॊळ्व तॆप्पडि यॆऩ्ऩिल्, अदिऩ् प्रकारत्तैक् काट्टुगिऱार् इवऱ्ऱिल् अविज्ञाता ऎऩ्ऩुम् पडि निऩ्ऱु इति । अपराधङ्गळिले अज्ञऩ् पोल् अत्यन्तनिर्विकारत्वत्तै अभि-नयित्तु अभिगन्तव्यऩामॆऩ्ऱु करुत्तु। अप्पडि अभिनयिक्काविडिल् आश्रयिप्पवऩ् स्वापराधत्तै निऩैत्तु इदु भगवद्विदितमाऩाल् ऎऩ्सॆय्वदॆऩ्ऱु शङ्कित्तु किट्टुगैक्कु भयप्पडुवाऩिऱे।  
 </details>
 
-#### अ-नाश्य-सम्बन्धतः
+#### अ-नाश्य-सम्बन्धतः क्षमया फलदता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्मानुरूप-फल-प्रदऩेय् आगिलुम्  
@@ -3617,12 +3620,12 @@ on account of its being due to the relationship of master and servant.
 
 <details><summary>Español</summary>
 
-(2) Though He rewards in accordance with one's karma,  
-he will become gracious owing to the performance of prapatti,  
-which is something like an apology for greater things, a vyāja or gesture,  
-and grant even that fruit which is beyond all measure  
-and which is one's natural right like an inheritance,  
-on account of its being due to the relationship of master and servant. 
+(2) Aunque **recompensa** de acuerdo con el karma de uno,  
+se **volverá amable** debido a la actuación de Prapatti,  
+que **es** algo así como una **disculpa** por cosas más grandes, un vyāja o **gesto**,  
+y **concede** incluso esa fruta que **está** más allá de toda medida  
+y que **es** el derecho natural como una herencia,  
+Debido a su **ser debido** a la relación de maestro y sirviente.
 </details>
 
 
@@ -3636,7 +3639,7 @@ on account of its being due to the relationship of master and servant.
 कर्मानुरूपफलप्रदऩेयागिलुमिति । इतरफलङ्गळैक् कॊडुक्कुम्बोदु स्वतःप्रवृत्तऩागामैयाल् कर्मानुरूपफलप्रदऩेयागिलुमॆऩ्ऱबडि। इदऱ्कु सम्बन्धोपाधिकमाय् अळविल्लाद फलत्तैत् तरुमॆऩ्बदोडन्वयम्। प्राप्ति विरोधिपापङ्गळ् अनन्तङ्गळायिरुक्क तत्फलदानमुम् आवश्यकमायिरुक्क, इप्पडि सम्बन्धमात्रत्ताले अळविल्लाद फलम् तरलामो वॆऩ्ऱु शङ्कियामैक्काग प्रसन्नऩायॆऩ्ऱदु। प्रसन्नऩाय् - प्रसादवाऩाय्। प्राप्तिविरोधिकळाऩ पापङ्गळै यॆल्लाम् पॊऱुत्तवऩायॆऩ्ऱबडि। इदऩाल् प्राप्तिविरोधिपापङ्गळुक्कु फलप्रदानम् वेण्डामॆऩ्ऱदायिऱ्ऱु। इप्पडि आकस्मिकमाग इवऩ् विषयत्तिल् क्षमिक्कलामो वॆऩ्ऱु शङ्कियामैक्काग इप्प्रपत्तिरूपव्याजत्तालेयॆऩ्ऱदु। स्वामित्वदासत्वसम्बन्धोपाधिकमाय् दायम्बोले स्वतःप्राप्तमाऩवळविल्लाद फलत्तैयुम् तरुमिति । प्रपत्तिरूपव्याजत्ताले प्राप्तिविरोधिपापनिवृत्तिये साध्यमागैयालुम्, स्वामित्वदासत्वसम्बन्धोपाधिकमाऩवळविल्लाद फलम् स्वतः प्राप्तमागैयालुम्, कर्मोपाधिकमाग वन्ददिल्लैयागैयालुम् सम्बन्धमात्रत्तै प्रधानमागक्कॊण्डु अदैत् तरक्कूडुमॆऩ्ऱु तिरुवुळ्ळम्। 
 </details>
 
-#### निरुपाधिक-गुणेभ्यः
+#### निरुपाधिक-गुणेभ्यो व्याज-साफल्यम् 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवाप्त-समस्त-कामतैयाले सर्वोपकार-निरपेक्षऩेय् आगिलुम्  
@@ -3671,14 +3674,14 @@ Thus he becomes grateful and acts ( accordingly).
 
 <details><summary>Español</summary>
 
-(3) Although He has all objects of desire  
-and does not require any help or assistance,  
-He looks upon the little action (prapatti) performed by one  
-as if it were an act of supreme help to Him  
-because of His supreme and unconditioned compassion;  
-for He is like a generous emperor  
-who is easily won over by even little tokens of homage.  
-Thus he becomes grateful and acts ( accordingly).
+(3) Aunque **tiene** todos los objetos de deseo  
+y **no requiere** ninguna ayuda o asistencia,  
+Mira la pequeña **acción** (Prapatti) **realizada** por una  
+como si **fuera** un **acto** de ayuda suprema para él  
+Debido a su compasión suprema e incondicionada;  
+porque él es como un generoso emperador  
+quien **es** fácilmente **ganado** por incluso pequeñas tokens de homenaje.  
+Así **se vuelve agradecido** y **actúa** (en consecuencia).
 </details>
 
 
@@ -3696,10 +3699,11 @@ Thus he becomes grateful and acts ( accordingly).
 </details>
 
 
-#### सह-कार्य्-अनपेक्ष-व्यापारतः
+#### सह-कार्य्-अनपेक्ष-व्यापारतो ऽविलम्बः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
++++(निरुपाधिक-सम्बन्धतो हित-कारित्वात्)+++  
 क्षुद्र-देवतैगळैप् पोले क्षिप्र-कारिय् अऩ्ऱ् आगिलुम्  
 मऱ्ऱ्-उळ्ळ शास्त्रार्थङ्गळुक्कु विळम्बित्तु फलङ् कॊडुत्-ताऩेय् आगिलुम्  
 अनन्य-शरणऩ्-उडैय प्रपत्तिक्कु  
@@ -3710,6 +3714,7 @@ Thus he becomes grateful and acts ( accordingly).
 
 <details><summary>नीलमेघः (सं)</summary>
 
++++(निरुपाधिक-सम्बन्धतो हित-कारित्वात्)+++  
 क्षुद्र-देवतावत् क्षिप्र-कारी अभवन्न् अपि,  
 इतरेषां शास्त्रार्थानां विलम्बेन फलं ददानोऽपि,  
 अनन्य-शरणस्य प्रपत्तेः,  
@@ -3732,15 +3737,15 @@ and which does not require any other help or aid.
 
 <details><summary>Español</summary>
 
-(4) Though He does not (in general) act quickly like inferior deities  
-and rewards those who adopt other means laid down in the Śāstras only after (some) delay,  
-yet when a man who has no other protector or refuge has performed prapatti,  
-He grants whatever is desired  
-at the very time when it is wanted,  
-as He did in the case of Kakasura and Vibhishana,  
-by His mere will  
-which is accompanied with generosity  
-and which does not require any other help or aid. 
+(4) Aunque él (en general) **no actúa** rápidamente como deidades inferiores  
+y **recompensa** a aquellos que **adoptan** otros medios establecidos en los Śāstras solo después de (algunos) retraso,  
+Sin embargo, cuando un hombre que **no tiene** otro protector o refugio **ha realizado** Prapatti,  
+**Otorga** lo que se **desee**  
+en el momento en que se **quiere**  
+Como lo hizo en el caso de Kakasura y Vibhishana,  
+por su mera **voluntad**  
+que está **acompañado** de generosidad  
+y que **no requiere** ninguna otra ayuda.
 </details>
 
 
@@ -3756,7 +3761,7 @@ and which does not require any other help or aid.
 </details>
 
 
-#### पर-रक्षण-प्रयोजनत्वतः
+#### पर-रक्षण-प्रयोजनत्वतस् तारतम्याभावः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3764,8 +3769,8 @@ and which does not require any other help or aid.
 स्वातन्त्र्य्-आदि-गुण-विशिष्टऩ् आय्  
 तऩ् प्रयोजनम् आग आश्रितर्क्कु अपेक्षितञ् जॆय्गिऱाऩ् आगैयाल्  
 कोसल-जन-पदत्तिल् जन्तुक्कळुक्कुप् पोले  
-कुमारऩोड् ऒक्क तिर्यक्क् आऩ किळिक्कुप् पाल् ऊट्टुङ् कणक्किले  
-तरम् पारादे+++(=??)+++ कॊडुक्कुम्।  
+कुमारऩोड् ऒक्क तिर्यक्क् आऩ किळिक्कुप् पाल् ऊट्टुङ् कणक्किले +++(5)+++  
+तरम् पारादे+++(=अदृष्ट्वा)+++ कॊडुक्कुम्।  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -3773,7 +3778,7 @@ and which does not require any other help or aid.
 समाधिकदरिद्रः सन्न् अपि  
 यतः स्वातन्त्र्यादि-गुण-विशिष्टः स्व-प्रयोजनतया ऽऽश्रितानाम् अपेक्षितं साधयति  
 अतः, कोसल-जन-पद स्थित-जन्तुभ्य इव  
-कुमारेण सह तिरश्चे शुकाय क्षीर-प्रदान-न्यायेन  
+कुमारेण सह तिरश्चे शुकाय क्षीर-प्रदान-न्यायेन +++(5)+++  
 तार-तम्यम् अनवलोकयन् ददीत ।  
 </details>
 
@@ -3789,12 +3794,12 @@ and in the same way as a man feeds his parrot and his child alike with milk.
 
 <details><summary>Español</summary>
 
-(5) Though He is destitute of equals and superiors,  
-He has such attributes as independence  
-and does what is desired by His dependants  
-for His own satisfaction;  
-so He grants (their request ) without any consideration of their status or rank as ( ŚrīRāma did) in the case of all creatures in Kosala  
-and in the same way as a man feeds his parrot and his child alike with milk.  
+(5) Aunque **es indigente** de iguales y superiores,  
+**Tiene** tantos atributos como la independencia  
+y **hace** lo que **desean** sus dependientes  
+por su propia **satisfacción**;  
+Entonces él **otorga** (su solicitud) **sin consideración** de su estado o rango como (Śrīrāma lo **hizo**) en el caso de todas las criaturas en Kosala  
+y de la misma manera que un hombre **alimenta** a su loro y a su hijo por igual con leche.
 </details>
 
 <details><summary>मूलम्</summary>

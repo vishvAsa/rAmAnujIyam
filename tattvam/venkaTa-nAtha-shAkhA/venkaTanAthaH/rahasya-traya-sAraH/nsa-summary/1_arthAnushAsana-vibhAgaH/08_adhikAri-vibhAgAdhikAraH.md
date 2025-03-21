@@ -51,7 +51,7 @@ The first example illustrates the 'Ukti-nishta'; the second example is illustrat
 
 It is an established fact that the Lord does not grant moksha to one, unless one surrenders unto the Lord in some way or other, whether the act of surrendering is performed by oneself or it is performed by some other person on behalf of one. Unless one surrenders unto the Lord, seeking protection with a prayer, one will not be saved. Suppose a person has respect and reverance towards a bhagavatha or even when one lives in a holy place, it may be asked whether the Lord would not save him. "Is it not said that taking refuge with a bhagavatha would lead to moksha ?". There is a statement as follows :
 
-पशुः मनुष्यः पक्षी वा ये च वैष्णवसंश्रयाः । तेनैव ते प्रयास्यन्ति तद्विष्णोः परमं पदम् ।।
+पशुः मनुष्यः पक्षी वा ये च वैष्णवसंश्रयाः । तेनैव ते प्रयास्यन्ति तद्विष्णोः परमं पदम् ॥
 
 One who seeks the grace of a vaishnava, whether he is a man or a bird or an animal, he will attain the abode of Vishnu by that vaishnaya-samashraya alone.
 

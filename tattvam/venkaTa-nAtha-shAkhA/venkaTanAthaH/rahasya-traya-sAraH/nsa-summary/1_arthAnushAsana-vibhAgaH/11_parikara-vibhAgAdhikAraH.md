@@ -173,7 +173,7 @@ Though prapatri is a valid means for attaining the benefits that are very diffic
 
 performing once, one can attain that benefit without wasting energy, time or wealth, though one can attain one's object of desire at the particular time he desires, it is absolutely necessary that one has to gain Mahavishvasa, which is not easy to get. So this means, though appears to be very casy, is not all that easy. All these factors are to be reflected in the dvaya-mantra. The term that signifies 'Purushakara' in the poorva-khanda enables one to gain supreme faith. The helplessness on the part of the aspirant as well as the nature of this means, are to be known in the verb 'Prapadye'. The preposition 'Pra' and the verb 'Prapadye', combined with the word 'Sharana' and the usage of the first person of the verb, signify the essential nature of this means.
 
-अहमस्म्यपराधानां आलयः अकिञ्चनोऽगतिः । त्वमेवोपायभूतो मे भवेति प्रार्थनामतिः ।। शरणागतिरित्युक्ता सा देवेऽस्मिन् प्रयुज्यताम् ।।
+अहमस्म्यपराधानां आलयः अकिञ्चनोऽगतिः । त्वमेवोपायभूतो मे भवेति प्रार्थनामतिः ॥ शरणागतिरित्युक्ता सा देवेऽस्मिन् प्रयुज्यताम् ॥
 
 "I am an abode of all transgressions or offences. I have nothing in my possession. I have no means. You alone should be my means. This kind of knowledge, ensuing in a prayer, is 'Sharanagati'.
 

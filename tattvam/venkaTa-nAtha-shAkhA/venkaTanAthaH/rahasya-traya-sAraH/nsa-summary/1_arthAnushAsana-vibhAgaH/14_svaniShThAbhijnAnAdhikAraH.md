@@ -46,7 +46,7 @@ What are the characteristics of the person, who is steadfast in the s object of 
 
 Desika describes them as follows:
 
-A person, who has surrendered himself and the burden of his protection along with the fruit thereof, to the Lord, should not be worried with his 'Deha-yatra' or course of his life in this world, as the course of his life is caused by the Lord, according to the karma of that individual that has commenced to give fruit. It is verily pointed out in the following verses thus – उत्पत्तिस्थिति नाशानां स्थितौ चिन्ता कुतस्तव । यथोत्पत्तिर्यथा नाशः स्थितिः तद्वद्भविष्यति ।।
+A person, who has surrendered himself and the burden of his protection along with the fruit thereof, to the Lord, should not be worried with his 'Deha-yatra' or course of his life in this world, as the course of his life is caused by the Lord, according to the karma of that individual that has commenced to give fruit. It is verily pointed out in the following verses thus – उत्पत्तिस्थिति नाशानां स्थितौ चिन्ता कुतस्तव । यथोत्पत्तिर्यथा नाशः स्थितिः तद्वद्भविष्यति ॥
 
 "Of the three factors viz. birth, life and death, why are you ruminating over life itself? As origination and destruction happen, protection also happens".
 

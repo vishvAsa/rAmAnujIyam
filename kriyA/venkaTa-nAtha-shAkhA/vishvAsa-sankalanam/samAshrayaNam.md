@@ -38,27 +38,42 @@ Met (\~2024) देशिकाचार्यदीक्षित, a vAdyAr, (
 ## विधिः
 - साधारणः समाश्रयणविधिर् [अन्यत्रोक्तः](../prayogamAlA/panchasmskArAdi/) । 
 
-### Shortcuts in factory model
-> Pancaratra paddhati allows the yati to appoint someone for the homa. 
-> 
-> But I find the large mathas somewhat following a mass production formula. 
->
-> - Samhara and srishti nyasas are not performed on the sishya by the acharya..
-> - darbha-s are not laid down for invoking each nAma.
-> - Nama homas are not done.  
-> - Several other homa related things are shortened.  
-> 
-> several such shortcuts.
 
 ### उपसर्पणम्
 ANDavan Ashrama makes you recite:
 
 <div class="js_include" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-### नाम-होमः
+### पूर्वाङ्गानि
+#### पङ्क्त्य्-उपदेशः
+- पञ्चगव्यप्राशनं त्यज्यते?
+- Samhara and srishti nyasas are not performed on each sishya.
+
+### दास-नाम
+#### नाम-होमः
+
+#### पङ्क्त्य्-उपदेशे
+Aka factory model.
+
+Shortcuts -
+
+- A uniform nAma (rAmAnuja-dAsa/ dAsI) is supplied to all (eg. ahobila maTha, ANDavan Ashrama).
+- Several other homa related things are shortened.
+- darbha-s are not laid down for invoking each nAma.
+- Nama homas are not done.
+
 > The Parasara-visista-parama-dharma-sastra which is largely the basis for the panchasamskara performed today explicitly allows for the skipping of the nAma-samskara if the individual has been given a Srivaishnava nAma at birth, cauLa or upanayana.
-> 
+>
 > -vijay
+
+
+> Pancaratra paddhati allows the yati to appoint someone for the homa.
+
 
 ### ताप-संस्कारः
 अन्यत्र द्रष्टव्यम्। 
+
+### यागोपदेशः
+अहोबिलमठे लघु कारिका काचित् पठ्यते। 
+
+अहोबिल-मठे स्वाध्याय-कालस्य सद्-उपयोगाय +अविद्वद्भ्यो रामायण-पठनादेश उपदेश इव दीयते - अदिमान्तिमश्लोकयोर् बोधनेन।  

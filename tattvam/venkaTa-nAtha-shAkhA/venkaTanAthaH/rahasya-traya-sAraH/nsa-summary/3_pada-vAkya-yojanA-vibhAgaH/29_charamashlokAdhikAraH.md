@@ -90,7 +90,7 @@ Desike concludes after discussing all aspects that 'upasanas' and 'prapadana' ar
 
 'अशक्यातिकृच्छ्रेषु दुराशादायशालिनः ।
 
-कस्यचित् बुद्धिदौर्बल्यात् लघुत्यागस्य कारणम् ।। तत्र प्रपत्त्यनर्हाणां अन्यदित्यपि युज्यते । व्यासादिषु तु नैवेषा नीतिः संशयपातिषु' ॥
+कस्यचित् बुद्धिदौर्बल्यात् लघुत्यागस्य कारणम् ॥ तत्र प्रपत्त्यनर्हाणां अन्यदित्यपि युज्यते । व्यासादिषु तु नैवेषा नीतिः संशयपातिषु' ॥
 
 "One who is incapable of practising other means of liberation (i.e. upasanas) but who has a strong 'durāsha' namely that there is no means other than Bhaktiyoga and that he would win 'mukti' only through Bhaktiyoga, in spite of good advice by well-wishers, will give up the 'laghu upaya' i.e. prapatti, on account of his 'buddhi-dourbalyam'
 
@@ -217,7 +217,7 @@ Though 'ekam' significs the prime means namely the siddhopaya', it also points o
 
 Thus, Desika has expounded the several significant meanings of the term 'ekam' and sumamrises them all in the following verses. Six prominent meanings are pointed out here
 
-‘प्राप्यस्यैव प्रापकत्वं स्वप्राधान्यनिवारणम् । प्रपत्तेः व्याजमात्रत्वं अन्योपायैरनन्वयः ।। तदंगैरप्यसंबंधः सर्वसाध्येष्वभिन्नता । इत्थमर्थाः षडाचार्यैः एकशब्दस्य दर्शिताः' ॥
+‘प्राप्यस्यैव प्रापकत्वं स्वप्राधान्यनिवारणम् । प्रपत्तेः व्याजमात्रत्वं अन्योपायैरनन्वयः ॥ तदंगैरप्यसंबंधः सर्वसाध्येष्वभिन्नता । इत्थमर्थाः षडाचार्यैः एकशब्दस्य दर्शिताः' ॥
 
 The 'prapya' alone is the 'prapaka'. The importance of the '31fefta' is set aside. Prapatti is only a 'vyaja' or occasion; it is not an equal to the 'siddhopaya'. It is not combined with other means like Bhaktiyoga. It is not requiring the accessories of Bhaktiyoga. It is the one means that can get all objects of attainment. The venerable Acharyas have thus shown the six meanings of the term 'ekam'.
 

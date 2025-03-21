@@ -55,7 +55,7 @@ case of certain defects happening to them, they should
 
 A number of quotations, as noted below, are quoted by some, and conclusions are drawn that though they are averse to the Lord, they would gain moksha, if they remember the names of the Lord, in whatever manner it may be:
 
-सांकेत्यं पारिहास्यं च स्तोभं हेलनमेव च । वैकुण्ठनाम ग्रहणं अशेषापविनाशनम् ।।
+सांकेत्यं पारिहास्यं च स्तोभं हेलनमेव च । वैकुण्ठनाम ग्रहणं अशेषापविनाशनम् ॥
 
 Uttering the name of the Lord, either for some 'sanketha' or humiliation or justing or for any other purpose, would destroy all sins.
 

@@ -108,7 +108,7 @@ These authorities make it clear that all things other than the attainment and ex
 
 Such a person who has developed an aspiration for gaining liberation from samsara, should adopt the appropriate means for gaining moksha. Knowledge should be translated into appropriate action. This kind of anushthana or practice, will be in accordance with one's refinement of mind that is gained by the teaching of all great preceptors. Sadupadesha is absolutely essential for leading one to the performance of the appropriate spiritual discipline for attainment of the highest object of life. One should engage himself in the Parama Purusha-Anushthana, without any delay according to his ability and the instruction of the teachers. Desika quotes here a verse which is very meaningful. -
 
-वयसः कर्मणोऽर्थस्य श्रुतस्याभिजनस्य च । वेषवाग्वृत्तिसारूप्यं आचरन् विचरेदिह ।।
+वयसः कर्मणोऽर्थस्य श्रुतस्याभिजनस्य च । वेषवाग्वृत्तिसारूप्यं आचरन् विचरेदिह ॥
 
 Mumukshuthvadhikara
 

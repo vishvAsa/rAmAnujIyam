@@ -21,7 +21,7 @@ In view of all these facts, Vedantha Desika has expounded the whole reality of t
 
 In an introductory vecse to this chapter, Desika declares that well-meaning people who depend upon valid means of knowledge never give credence to the different doctrines o Ishvara, proposed by unwise people. Those different doctrines arc of different forms such as
 
-आत्मैक्यं देवतैक्यं त्रिकसमधिगता तुल्यतैक्यं त्रयाणां अन्यत्रैश्वर्यमित्याद्यनिपुणफणितीः आद्रियन्ते न सन्तः । त्रय्यन्तैरेककण्ठैस्तदनुगुणमनु व्यासमुख्योक्तिभिश्च श्रीमानारायणो नः पतिरखिलतनुः मुक्तिदो मुक्तभोग्यः ।।
+आत्मैक्यं देवतैक्यं त्रिकसमधिगता तुल्यतैक्यं त्रयाणां अन्यत्रैश्वर्यमित्याद्यनिपुणफणितीः आद्रियन्ते न सन्तः । त्रय्यन्तैरेककण्ठैस्तदनुगुणमनु व्यासमुख्योक्तिभिश्च श्रीमानारायणो नः पतिरखिलतनुः मुक्तिदो मुक्तभोग्यः ॥
 
 Paradcvata Paramarthyadhikara
 
@@ -105,7 +105,7 @@ It is decidedly declared in the scriptures that gods like Brahma, Rudra and othe
 
 Essence of Srimad Rahasyattaya Saram
 
-'ब्रह्माद्यास्सकला देवाः मनुष्याः पशवस्तथा । विष्णुमायामहावर्तमोहान्धतमसा वृताः' ।।
+'ब्रह्माद्यास्सकला देवाः मनुष्याः पशवस्तथा । विष्णुमायामहावर्तमोहान्धतमसा वृताः' ॥
 
 These gods are subordinated to the delusion of matter or prakruthi and are dominated by the interplay of the threc 'gunas' viz. Satva, Rajas and Tamas and their knowledge is subjected to expansion and contraction and they serve the Lord, their antaryamin, in accordance with their understanding of the Supreme Lord.
 

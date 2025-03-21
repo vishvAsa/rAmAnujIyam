@@ -26,7 +26,7 @@ That one who considered every thing as a mere straw opposite the invaluable trea
 <details><summary>मूलम्</summary>
 
 यो नित्यमच्युत पदाम्बुजयुग्मरुक्म व्यामोहतस्तदितराणि तृणाय मेने ।  
-अस्मद्गुरोर्भगवतोऽस्य दयैकसिन्धोः रामानुजस्य चरणौ शरणं प्रपद्ये ।।
+अस्मद्गुरोर्भगवतोऽस्य दयैकसिन्धोः रामानुजस्य चरणौ शरणं प्रपद्ये ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

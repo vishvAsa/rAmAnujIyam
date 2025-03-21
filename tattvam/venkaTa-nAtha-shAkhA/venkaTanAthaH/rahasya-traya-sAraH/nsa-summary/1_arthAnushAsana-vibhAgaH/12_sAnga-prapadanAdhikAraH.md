@@ -33,7 +33,7 @@ that the Lord is the protector of all. The 'sarva-sheshin' or the master of ever
 
 One should have this reflection that the all-independent Ishvara, who is the 'sarva-sheshin' is himself protecting all, that are subservient to Him, through a pretext. All others, being utterly subservient to Him alone, and totally dependent upon Him, are not fit to be a 'Nirupadhika Sheshi'. "When this atman is utterly subordinated to Him, just like a lump of clay, and when he is incapable of protecting himself, how can he be the protector of others?" “I am not capable of protecting myself as well as all things that are called as mine, as I am neither independent nor the prime enjoyer of the result.” So, just as wisemen reflected “myself, my kingdom, wealth, my wife and dependents and my vehicles - all these are subservient to that Supreme Paramatman" 'CHIR
 
-16-A a regulad सर्व इति तत्प्रेक्षितं सदा ।।' One should have a definite understanding that one's self as well as those that belong to onc, are only belonging to Him, the Supreme Paramatman. The burden of protecting all these things that belong to one,
+16-A a regulad सर्व इति तत्प्रेक्षितं सदा ॥' One should have a definite understanding that one's self as well as those that belong to onc, are only belonging to Him, the Supreme Paramatman. The burden of protecting all these things that belong to one,
 
 134
 
@@ -57,13 +57,13 @@ entrust the burden of protection i.c. 'Bhara-samarpana'. He also has to surrende
 
 मुमुक्षुमात्रसामान्यं स्वरूपादिसमर्पणम् ।
 
-अकिञ्चने भरन्यासस्त्वधिकोऽङ्गितया स्थितः ॥ अत्ररक्षाभरन्यासः समः सर्वफलार्थिनाम् । स्वरूपफलनिक्षेपस्त्वधिको मोक्षकांक्षिणाम् ।।
+अकिञ्चने भरन्यासस्त्वधिकोऽङ्गितया स्थितः ॥ अत्ररक्षाभरन्यासः समः सर्वफलार्थिनाम् । स्वरूपफलनिक्षेपस्त्वधिको मोक्षकांक्षिणाम् ॥
 
 An objection is raised here. When a person is performing surrender aspiring for some benefit, he should become the beneficiary. How can it be said that the Paramatman is the prime beneficiary? The answer to this question is as follows: The Supreme Paramatman feels pleased when he grants certain benefits to the aspirants and feels happy, even as he enjoys the decorations and others done to a doll or a parrot and others. Desika describes this in verse ll of Sharanagati Deepika
 
 पाञ्चालिकाशुकविभूषण भोगदायी
 
-सम्राडिवात्मसमया सह मोदसे त्वम् ।।
+सम्राडिवात्मसमया सह मोदसे त्वम् ॥
 
 "Just as one feels glad by decorating a doll or by re shaping an idol and by keeping a parrot in a cage and feeding it with fruits and flowers, and allowing it to fly; similarly, the Lord enjoys, when the chetanas benefit from Him. So, He is to be taken as the 'Pradhana-Phali".
 
@@ -89,7 +89,7 @@ Desika points out that in the dvaya-mantra, this kind of cntrusting the burden o
 
 The five accessories to Prapatti and the act of surrender, are here enquired into separately for getting a sound understanding of the significance. But, when Prapatti is performed, the main factor of surrender characterised by all the five accessories, are to be reflected as one unit, and to be performed at one time by one. Prapatti is to be performed only once for attainment of a particular object. It should not be performed again and again, because it will imply lack of trust in the Lord. This kind of performance of Prapatti, is compared to the shooting of an arrow at a target by a deft archer. Being well trained in many aspects, the archer shoots unerringly at the target at a single moment. The Upanishad says that the 'Pranava' is the bow and 'Brahman' is the target. Atman' is the arrow and without any inadvertence, the arrow is to be shot and lodged in Brahman. Like that, this act of surrender of the atman to the Paramatman is to be done once only, carefully.
 
-The statement of “Satyaki Tantra' - अनेनैव तु मन्त्रेण स्वात्मानं मयि निक्षिपेत् । मयि निक्षिप्तकर्तव्यः कृतकृत्यो भविष्यति ।।
+The statement of “Satyaki Tantra' - अनेनैव तु मन्त्रेण स्वात्मानं मयि निक्षिपेत् । मयि निक्षिप्तकर्तव्यः कृतकृत्यो भविष्यति ॥
 
 Sangaprapadanadhikara
 
@@ -161,7 +161,7 @@ If a doubt is raised that the Lord alone is not all independent, but the jivatma
 
 The Sruti decidedly describes that Paramatman alone is the ruler and prompter of the other two entities viz. jivatman and matter
 
-युग्यस्यन्दनसारथिक्रमवति त्रय्यन्त संदर्शिते तत्त्वानां त्रितये यथार्ह विविधव्यापार सन्तानिनि । हेतुत्वं त्रिषुकर्तृभाव उभयोः स्वाधीनतैकत्र तत् स्वामिस्वीकृतयद्रोऽयमलसस्तत्रस्वयं निर्भरः ।।
+युग्यस्यन्दनसारथिक्रमवति त्रय्यन्त संदर्शिते तत्त्वानां त्रितये यथार्ह विविधव्यापार सन्तानिनि । हेतुत्वं त्रिषुकर्तृभाव उभयोः स्वाधीनतैकत्र तत् स्वामिस्वीकृतयद्रोऽयमलसस्तत्रस्वयं निर्भरः ॥
 
 The jivatman is ever under the direction and rulership of the Supreme Lord and Paramatman is the controller of all other things. 'Prayogyah' or 'yugyah' mcans horses and others. 'Acharanam and Syandanam' is the chariot. Yuktah' means bound; Prana' means jivatman.
 

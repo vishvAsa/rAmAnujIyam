@@ -68,7 +68,7 @@ When a person gains this ultimate object of divine experience once, it will not 
 
 "Having attained me, the aspirant does not take birth again in this world of sorrow";
 
-मामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते "There will be no re-birth after attaining me." यदा स केवलीभूतः षद्भिशं अनुपश्यति । तदा स सर्वसिद्धत्वात् पुनर्जन्म न विन्दति ।।
+मामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते "There will be no re-birth after attaining me." यदा स केवलीभूतः षद्भिशं अनुपश्यति । तदा स सर्वसिद्धत्वात् पुनर्जन्म न विन्दति ॥
 
 "When the mumukshu, getting rid of the contact with the matter, witnesses the Supreme Lord, the twenty sixth entity, he attains his true nature, and never more be born in this world again."
 
