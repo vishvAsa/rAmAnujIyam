@@ -2036,8 +2036,8 @@ También **hay** otras rutas.
 <details><summary>नीलमेघः (सं)</summary>
 
 वस्वादि-पद-प्राप्ति-पूर्वक--मोक्ष-साधन-भूत--मधु-विद्याऽऽदिषु
-</details>
 
+</details>
 
 <details><summary>English</summary>
 
@@ -2063,7 +2063,9 @@ Después de **obtener** posiciones como las del Vasus,
 इऩि मधुविद्यादिगळिलुम्, महाभारतत्तिलुम्, पाञ्चरात्रत्तिलुम् सॊल्लुम् क्रम-मुक्तिपक्षत्तिलुळ्ळ गतिविशेषङ्गळैयुम्, सत्यलोकत्तिल् वसिक्कुम् धात्रादिगळुडैय गतिप्रकारत्तैयुम् सॊल्लुगै इङ्गु अनपेक्षितमॆऩ्गिऱार् वस्वादिपदप्राप्तिपूर्वकमोक्षसाधन माऩ मधुविद्यादिगळिलुमित्यादिना । वस्वादिपदप्राप्तिपूर्वकं ब्रह्मप्राप्ति वरवेण्डुमॆऩ्ऱासै यिऩाले मधुविद्यैयैयुपासित्तवऩुक्कु वस्वादिपदप्राप्तियुम्, ‘‘आदित्यानामेको भूत्वा’’ ऎऩ्गिऱ पडि आदित्यपदप्राप्तियुम् वरुमॆऩ्ऱु सॊल्लियिरुप्पदाल् आदित्यऩुडैय अधिकारावसानत्तिल् अवऩुक्कु मोक्षम् वरुम्बोदु आदित्यघटितमाऩ इन्द अर्चिरादिगति वेऱाग इरुक्कवेण्डुमॆऩ्ऱु करुत्तु। 
 </details>
 
+### व्यूह-क्रमेण
 
+#### महाभारतम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘सत्त्वं **वहति** शुद्धात्मा  
@@ -2401,9 +2403,11 @@ y que **caminan** por la ruta al mundo de Viṣṇu
 एकान्त-भावोपगता  
 वासुदेवं **विशन्ति** ते।’’  
 (भारतम् शान्ति-पर्व ३५४-१३-२०।)
+
+इत्यादिगळ् आऩ महा-भारतादि-वचनङ्गळिलुम्, 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > सर्वावासं वासुदेवं  
 षेत्र-ज्ञं **विद्धि** तत्वतः ।  
@@ -2412,7 +2416,10 @@ y que **caminan** por la ruta al mundo de Viṣṇu
 एकान्त-भावोपगता  
 वासुदेवं **विशन्ति** ते।’’  
 (भारतम् शान्ति-पर्व ३५४-१३-२०।)
+
+इत्यादिषु महाभारतादिवचनेषु, 
 </details>
+
 
 <details><summary>English</summary>
 
@@ -2423,6 +2430,9 @@ y que **caminan** por la ruta al mundo de Viṣṇu
 > and who have attained peace of mind  
 > enter into Vāsudeva,  
 > considering Him as the only object of attainment."
+
+(As in the case of Madhu Vidyā) and in these passages cited from the Mahābhārata,  
+it has also been stated that there is another route for muktas 
 </details>
 
 <details><summary>Español</summary>
@@ -2434,6 +2444,9 @@ y que **caminan** por la ruta al mundo de Viṣṇu
 > y que **han alcanzado** tranquilidad  
 > **Entra** en Vāsudeva,  
 > **Considerarlo** como el único objeto de logro.
+
+(Como en el caso de Madhu Vidyā) y en estos pasajes citados del Mahābhārata,  
+También **se ha dicho** que **hay** otra ruta para Muktas
 </details>
 
 
@@ -2443,22 +2456,369 @@ y que **caminan** por la ruta al mundo de Viṣṇu
 समाहितमनस्कास्तु नियतास्संयतेन्द्रियाः ॥  
 एकान्त भावोपगता वासुदेवं विशन्ति ते।’’  
 (भारतम् शान्ति-पर्व ३५४-१३-२०।)
+
+इत्यादिगळाऩ महाभारतादिवचनङ्गळिलुम्, 
 </details>
 
 <details><summary>सार-बोधिनी</summary>
 
 सर्वावासं वासुदेवमित्यादि, सर्वावासभूतऩागैयाले अन्द वासुदेवऩै सर्वान्तर्यामियागत् तॆरिन्दुगॊळॆऩ्ऱबडि। 
+
+नियताः – कर्मानुष्ठानादिनियमयुक्ताः, संयतेन्द्रियाः – शब्दादिविषयङ्गळिल् निऩ्ऱुम् नऩ्ऱाग इऴुक्कप् पट्ट इन्द्रियङ्गळैयुडैयवर्गळाय्, अतएव (वासुदेवऩिडत्तिल्) एकान्तभावोपगताः – ‘‘वासुदेवस्सर्व’’ मॆऩ्गिऱ बुद्धियै युडैयवर्गळाय्, 
+</details>
+
+#### जयत्-संहिता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> श्वेत-द्वीपम् इतः **प्राप्य**  
+विश्व-रूप-धरं हरिम् ।  
+ततो ऽनिरुद्धम् **आसाद्य**  
+श्रीमत्-क्षीरोदधौ हरिम् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> श्वेत-द्वीपम् इतः **प्राप्य**  
+विश्व-रूप-धरं हरिम् ।  
+ततो ऽनिरुद्धम् **आसाद्य**  
+श्रीमत्-क्षीरोदधौ हरिम् ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+> They go from here to Svetadvipa,  
+and reach Hari who has the Universe as His form.  
+Then they reach Hari in the form of Aniruddha  
+who is in the ocean of milk.  
+
+</details>
+
+<details><summary>Español</summary>
+
+> Van de aquí a Svetadvipa,
+y llegar a Hari, que tiene el universo como su forma.
+Luego llegan a Hari en forma de aniruddha
+quien está en el océano de la leche.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्वेतद्वीपमितः प्राप्य विश्वरूपधरं हरिम् ।  
+ततोऽनिरुद्धमासाद्य श्रीमत्क्षीरोदधौ हरिम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततः प्रद्युम्नम् **आसाद्य**  
+देवं सर्वेश्वरेश्वरम् ।  
+ततस् सङ्कर्षणं दिव्यं  
+भगवन्तं सनातनम् ।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ततः प्रद्युम्नम् **आसाद्य**  
+देवं सर्वेश्वरेश्वरम् ।  
+ततस् सङ्कर्षणं दिव्यं  
+भगवन्तं सनातनम् ।  
+</details>
+
+
+<details><summary>English</summary>
+
+From there they go to Pradyumna,  
+who is the Lord of Brahma and of all others.  
+Thence they proceed to Saṅkarṣaṇa, the eternal Bhagavān.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Desde allí **van** a Pradyumna,  
+quien **es** el señor de Brahma y de todos los demás.  
+Desde allí **proceden** a Saṅkarṣaṇa, el eterno Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततः प्रद्युम्नमासाद्य देवं सर्वेश्वरेश्वरम् ।  
+ततस्सङ्कर्षणं दिव्यं भगवन्तं सनातनम् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अयम् अप्य् अपरो मार्गस्  
+सदा ब्रह्म-सुखैषिणाम् ॥  
+परमैकान्ति-सिद्धानां  
+पञ्च-काल-रतात्मनाम्’’  
+(जयत्संहिता।) 
+
+ऎऩ्ऱिप् पुडैगळिले+++(=पक्षेषु??)+++ जयत्-संहितादिगळिलुम् 
+
 </details>
 
 
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अयम् अप्य् अपरो मार्गस्  
+सदा ब्रह्म-सुखैषिणाम् ॥  
+परमैकान्ति-सिद्धानां  
+पञ्च-काल-रतात्मनाम्’’  
+(जयत्संहिता।) 
+
+इत्य्-एवं-प्रकारैर् जयत्-संहितादिषु, 
+</details>
+
+<details><summary>English</summary>
 
 
-(As in the case of Madhu Vidyā) and in these passages cited from the Mahābhārata, it has also been stated that there is another route for muktas :-- "They go from here to Svetadvipa, and reach gari who has the Universe as His form. Then they reach Hari in the form of Aniruddha who is in the ocean of milk. From there they go to Pradyumna, who is the Lord of Brahma and of all others. Thence they proceed to Saṅkarṣaṇa, the eternal Bhagavān. To those who want to have, for ever, the bliss of Brahman, who have attained success in being staunchly and exclusively devoted to Bhagavān and who perform the worship of the Lord in the five different periods of the day -- to them this is another path (leading to mokṣa ). In the section (devoted to Pāñcarātra in Śrī Bhāṣya, it is said also that "those who attain mukti give up the worship of the incarnational form (Vibhava), proceed thence to the worship of the Vyūha and finally after the worship of the Vyūha, attain the Supreme Being called Vāsudeva." These refer to particular classes of those who attain mukti. Similarly certain specified routes are laid down for those who attain mukti after remaining for a while in the Satyaloka, the world of Brahma. These also apply to special cases such as krama mukti (release by gradation.) It is not our object to describe these differences in the routes to mukti, which are diverse for diverse souls, as their knowledge is prescribed only to the respective adhikāris.
+> To those who want to have, for ever, the bliss of Brahman,  
+who have attained success in being staunchly and exclusively devoted to Bhagavān  
+and who perform the worship of the Lord in the five different periods of the day --  
+to them this is another path (leading to mokṣa ).  
 
-THE MEDITATION ON THE ROUTE. HOW USEFUL
 
-TO THE PRAPANNA
+(and in these passages cited from the jayat-saMhitA)
+</details>
+
+<details><summary>Español</summary>
+
+> Para aquellos que **quieren tener**, para siempre, la dicha de Brahman,  
+que **han alcanzado** el **éxito** en estar firmemente y exclusivamente dedicado a Bhagavān  
+y que **realizan** la **adoración** del Señor en los cinco períodos diferentes del día -  
+Para ellos, este **es** otro camino (que conduce a Mokṣa).
+
+(y en estos pasajes citados de Jayat-Samhita)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अयमप्यपरो मार्गस्सदा ब्रह्मसुखैषिणाम् ॥  
+परमैकान्तिसिद्धानां पञ्चकालरतात्मनाम्’’  
+(जयत्संहिता।) 
+
+ऎऩ्ऱिप्पुडैगळिले जयत्संहितादिगळिलुम् 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+श्वेतद्वीपमित्यादि । क्रममुक्त्यपेक्षैयाले व्यूहोपासनम् पण्णुम् सर्वगालत्तिलुम् ब्रह्मानुभवरूपसुखत्तै आसैप्पडुमवर्गळायुम्, परमैकान्तिकळायुम्, साक्षात्कारपर्यन्तमाऩ भगवदनुभवसिद्धियैयुडैयवर्गळायुम्, पाञ्चकालिककैङ्कर्यत्तिल् अत्यन्तानुरक्तर्गळायुमिरुक्किऱ मुमुक्षुक्कळ् इन्द लोकत्तिलिरुन्दु क्षीराब्धिमध्यत्तिलिरुक्कुम् श्वेतद्वीपनामकमाऩ केवलशुद्धयाजिकळ् वसिक्कुम् द्वीपविशेषत्तै यडैन्दु, अङ्गुळ्ळ अनिरुद्धांशभूतऩाऩ भगवाऩैयडैन्दु, पिऱगु सर्वेश्वरेश्वरऩाऩ प्रद्युम्नऩैयडैन्दु, अदऩ् पिऱगु सनातनऩाऩ सङ्कर्षणऩैयडैन्दु वासुदेवऩैयडैगिऱार्गळ्। श्वेतद्वीपमितः प्राप्य ऎऩ्ऱु सॊऩ्ऩ इन्द मार्गमुम् अर्चिरादिगळैक्काट्टिलुम् वेऱुबट्ट ऒरु मार्गम् ऎऩ्गै। ऎऩ्ऱिप्पुडैगळिले - ऎऩ्ऱु कीऴ्च्चॊऩ्ऩ प्रकारङ्गळिले। 
+</details>
+
+
+#### भाष्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘विभवार्चनाद् व्यूहं  
+> **प्राप्य** व्यूहार्चनात् परं  
+> ब्रह्म वासुदेवाख्यं  
+> सूक्ष्मं **प्राप्यत** इति वदन्ति’’ (श्रीभाष्यम् २-२-४१।) 
+
+ऎऩ्ऱु श्रीपाञ्चरात्राधिकरणत्तिलुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘विभवार्चनाद् व्यूहं  
+> **प्राप्य** व्यूहार्चनात् परं  
+> ब्रह्म वासुदेवाख्यं  
+> सूक्ष्मं **प्राप्यत** इति वदन्ति’’ (श्रीभाष्यम् २-२-४१।) 
+
+इति श्रीपाञ्चरात्राधिकरणे च 
+</details>
+
+
+<details><summary>English</summary>
+
+In the section devoted to Pāñcarātra in Śrī Bhāṣya,  
+it is said also that  
+
+> "those who attain mukti  
+> give up the worship of the incarnational form (Vibhava),  
+> proceed thence to the worship of the Vyūha  
+> and finally after the worship of the Vyūha,  
+> attain the Supreme Being called Vāsudeva." 
+
+</details>
+
+<details><summary>Español</summary>
+
+En la sección dedicada a Pāñcarātra en Śrī Bhāṣya,
+también **se dice** que
+
+> "Aquellos que **alcanzan** Mukti  
+> **renunciar** a la **adoración** de la forma encarnacional (Vibhava),  
+> **proceda** de allí a la **adoración** del Vyūha  
+> y finalmente después de la **adoración** del Vyūha,  
+> **alcanzar** el **ser** supremo **llamado** Vāsudeva ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘विभवार्चनाद्व्यूहं प्राप्य व्यूहार्चनात् परं ब्रह्म वासुदेवाख्यं सूक्ष्मं प्राप्यत इति वदन्ति’’ (श्रीभाष्यम् २-२-४१।) 
+
+ऎऩ्ऱु श्रीपाञ्चरात्राधिकरणत्तिलुम् 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+विभवार्चनादित्यादि । मुऩ् सॊऩ्ऩ व्यूहाद्वयूहान्तरप्राप्तिपोले विभवोपासनाद्व्यूहप्राप्तियुम्, व्यूहाद्वासुदेवप्राप्तियुम् भिन्नगतिक्रममिऱे। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिलव् अधिकारि-विशेषङ्गळैप् पऱ्ऱच् चॊल्लुगिऱ क्रम-मुक्ति-पक्षत्तिलुम्,  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कांश्चिद् अधिकारि-विशेषान् उद्दिश्योच्यमाने क्रम-मुक्ति-पक्षे च  
+</details>
+
+<details><summary>English</summary>
+
+These apply to special cases such as krama mukti (release by gradation).
+</details>
+
+<details><summary>Español</summary>
+
+Estos **se aplican** a casos especiales como Krama Mukti (**lanzamiento** por gradación).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सिलव् अधिकारिविशेषङ्गळैप् पऱ्ऱच्चॊल्लुगिऱ क्रममुक्तिपक्षत्तिलुम्,  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+सिल अधिकारिविशेषङ्गळैप्पऱ्ऱ - क्रममुक्त्यपेक्षिकळाऩ अधिकारिविशेषङ्गळैयुत्तेसित्तु। क्रममुक्तिपक्षत्तिलुम् - इन्द शरीरत्तिऩिऩ्ऱुम् पुऱप्पट्टु नेराग अर्चिराद्यमानवान्तातिवाहिकर्गळाल् ब्रह्मप्राप्तियैच् चॊल्लुगिऱ अर्चिरादिमार्गमऩ्ऱिक्के क्रममाग वसुपदत्तैयडैन्दु अदिऩिऩ्ऱुम् ब्रह्मत्तैयडैगिऱाऩॆऩ्ऱुम्, मुदलिल् अनिरुद्धऩैयडैन्दु पिऱगु प्रद्युम्नऩै, पिऱगु सङ्कर्षणऩै, पिऱगु वासुदेवऩैयॆऩ्ऱुम् सॊल्लुम् क्रममुक्तिपक्षत्तिलुम्। 
+</details>
+
+
+### सत्य-लोदैभिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्य-लोकादिगळिल् इरुन्दु  
+मुक्तर् आम् अवर्गळुक्कुम् उळ्ळ  
+गति-विशेषादिगळ् इरुक्कुङ् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सत्य-लोकादितो मुच्यमानानां च स्थिताः गति-विशेषादयः  
+</details>
+
+<details><summary>English</summary>
+
+Similarly certain specified routes are laid down  
+for those who attain mukti after remaining for a while in the Satyaloka, the world of Brahma.  
+</details>
+
+<details><summary>Español</summary>
+
+Del mismo modo **se establecen** ciertas rutas específicas  
+Para aquellos que alcanzan Mukti después de **permanecer** por un tiempo en Satyaloka, el mundo de Brahma.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सत्यलोकादिगळिलिरुन्दु मुक्तरामवर्गळुक्कुमुळ्ळ गतिविशेषादिगळिरुक्कुङ् 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+सत्यलोकादिगळिलिरुन्दु मुक्तरामवर्गळुक्कुमिति । सत्यलोकत्तिलुळ्ळ चतुर्मुखब्रह्माविऱ्कुम्, अन्द लोगत्तिलुळ्ळ इतरपरिजनङ्गळुक्कुम् 
+
+> ‘‘ब्रह्मणा सह ते सर्वे  
+> सम्प्राप्ते प्रतिसञ्चरे ।  
+> परस्यान्ते कृतात्मानः  
+> **प्रविशन्ति** परां गतिम्’’
+
+ऎऩ्गिऱ बडि  
+प्राकृतप्रळयान्तत्तिल् मोक्षमागैयाले  
+अप्पोदु अर्चिरादिमार्गघटकचन्द्रसूर्यादिगळुक्कु सत्यलोकलयात् पूर्वमे लयम् आवश्यकम् आगैयाले  
+सूर्यचन्द्रादि-घटितम् आऩ अर्चिरादिमार्गम् घटियाद् आगैयाल्  
+अवर्गळुक्कु मार्गान्तरमे सॊल्लवेण्डुमॆऩ्ऱु करुत्तु।  
+</details>
+
+
+
+<details><summary>English</summary>
+
+These (also) refer to particular classes of those who attain mukti. 
+</details>
+
+<details><summary>Español</summary>
+
+Estos (tambien) **se refieren** a clases particulares de aquellos que **alcanzan** Mukti.
+</details>
+
+### विवक्षा-सङ्कोचः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कट्टळैगळ् अव्व्-ओव् अधिकारिगळुक्के ज्ञातव्यङ्गळ् आगैयाल्  
+इङ्ग् अवै वगुत्तुच् चॊल्लुगै अपेक्षितम् अऩ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्-तद्-अधिकारिभिर् एव **ज्ञातव्या** इति  
+अत्र तेषां विभज्य **वर्णनम् अनपेक्षितम्** । 
+</details>
+
+
+<details><summary>English</summary>
+
+It is not our object to describe these differences in the routes to mukti,  
+which are diverse for diverse souls,  
+as their knowledge is prescribed only to the respective adhikāris.
+</details>
+
+<details><summary>Español</summary>
+
+**No es** nuestro objeto **describir** estas diferencias en las rutas a Mukti,  
+que **son** diversos para diversas almas,  
+como su **conocimiento se prescribe** solo a los respectivos adhikāris.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कट्टळैगळव्वोव् अधिकारिकळुक्केज्ञातव्यङ्गळागैयालिङ्गवै वगुत्तुच् चॊल्लुगै अपेक्षितमऩ्ऱु। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अव्वो अधिकारिकळुक्के - अव्वो मार्गत्ताले क्रममुक्तियैये अपेक्षिक्कुम् अव्वो विद्याविशेषाधिकारिकळुक्के। इङ्गु अवै वगुत्तुच् चॊल्लुगै अपेक्षितमऩ्ऱु इति । इङ्गु - क्रममागवऩ्ऱिक्के अव्यवधानमागवे परमपदगन्ताक्कळाऩ प्रपन्नर्गळुक्केऱ्पट्ट अर्चिरादिमार्गनिरूपणावसरत्तिल्, वगुत्तुच्चॊल्लुगै अपेक्षितमऩ्ऱु - सामान्यमाग वेऱु मार्गमुमुण्डॆऩ्ऱु सूचिप्पिक्कवेण्डुमे यॊऴिय, अर्चिरादि मार्गत्तैप्पोल् अवैगळैयुम् पिरित्तु स्पष्टमागच् चॊल्लुगै अपेक्षितमऩ्ऱु। 
+</details>
+
+
+
+## गत्य्-अनुसन्धानोपयोगः
+
+<details><summary>English</summary>
+
+THE MEDITATION ON THE ROUTE -  
+USEFUL TO THE PRAPANNA
+
+</details>
+
+<details><summary>Español</summary>
+
+La meditación en la ruta -  
+**Útil** para la prapanna
+</details>
+
+
 
 To the man who has adopted bhakti or upāsana as his upāya, the meditation on the path to mukti has been prescribed as an aṅga to be performed daily. But to the man who has adopted prapatti as the means, there is no such need. Still, at the time of adopting this upāya, since he should know what his goal is in order that he may be competent to adopt the upāya, the meditation may help to remember the supreme goal. It becomes an end in itself, as it produces a keen delight in knowing that, very soon, the supreme goal begged for at the time of prapatti will be attained. In this respect it is like counting the days before the ensuing wedding. The prapanna will attain the desired object even by a cursory knowledge (of the path) (though the details are not known to him.)
 
