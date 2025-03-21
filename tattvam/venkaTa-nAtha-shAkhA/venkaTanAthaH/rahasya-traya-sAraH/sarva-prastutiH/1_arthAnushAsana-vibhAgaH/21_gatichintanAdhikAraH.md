@@ -1898,12 +1898,561 @@ y lo **trata**, sin la más mínima diferencia.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The Lord is immensely delighted at the bliss enjoyed by this eternal servant of His who is staunchly and exclusively devoted to Him, and who has attained the exalted position desired by Aḷavandār in his Stotram and by Śrī Rāmānuja in his Vaikuṇṭha-gadyam. [ In the Stotram and the Gadyam ŚrīAḷavandār and ŚrīRāma nuja cry out, as it were, saying :- When shall I go to Vaikuṇṭha   and see the Lord face to face and be His devoted and eternal servant? ]
+स्तोत्रत्तिलुम् श्रीवैकुण्ठ-गद्यत्तिलुम्  
+अरुळिच् चॆय्द मनोरथत्तिऩ् बडिये 
+</details>
 
-ARCHIRĀDI IS NOT THE ONLY ROUTE TO MOKSA  OR VAIKUṆṬHA. THERE ARE OTHER ROUTES AS WELL.
+<details><summary>नीलमेघः (सं)</summary>
 
-As in the case of such meditations as Madhu Vidyā which are the means of attaining mokṣa  after obtaining positions like those of the Vasus, “The pure" quality of sattva makes the self attain Nārāyaṇa who is of the form of Aniruddha. The Lord who is of the pure nature of Aniruddha leads him himself to the Supreme Vāsudeva (Para Vāsudeva)," and again: "Know, O, best of Brahmins, that this is the truth. Those who have become free from puṇya apd pāpa, who are devoid of karma which is like fuel kindling the fire of saṁsāra and who walk along the route to the world of Viṣṇu  - to them the sun who dispels the darkness of all the world is said to be the doorway." "This world is sustained by the sun. With their material body burnt up by the sun, they become invisible as they have no bodies and are of the nature of the soul which is atomic in size. They then enter the god Aniruddha. Having remained in the body of Aniruddha (for some time) and leaving it, they reach Pradyumna remaining now as only mind. Leaving Pradyumna, they enter into Saṅkarṣaṇa who is the deity presiding over Jīvas (abhimānidevatā). Along with them proceed those who have performed Jñāna Yoga and Karma yoga. Having become free from the three qualities (sattvam, rajas and tamas), they enter into the Supreme Being who is the abode of all, who resides within the Self and who is free from all imperfections. Know that Vāsudeva is the abode of all (vāsa) and that He is, in truth, immanent as antaryāmin in all. Those who have subjected themselves to spiritual disciplines, who have perfect control over their senses and who have attained peace of mind enter into Vāsudeva, considering Him as the only object of attainment."
+स्तोत्रे श्रीवैकुण्ठ-गद्ये च अनुगृहीत--मनो-रथ-रीत्या
+</details>
+
+<details><summary>English</summary>
+
+(as) desired by Aḷavandār in his Stotram  
+and by Śrī Rāmānuja in his Vaikuṇṭha-gadyam.  
+[ In the Stotram and the Gadyam  
+Śrī Aḷavandār and Śrī Rāmanuja cry out, as it were, saying :-  
+
+> When shall I go to Vaikuṇṭha    
+> and see the Lord face to face  
+> and be His devoted and eternal servant? ]
+
+</details>
+
+<details><summary>Español</summary>
+
+(como) **deseado** por Aḷavandār en su stotram  
+y por śrī rāmānuja en su vaikuṇṭha-gadyam.  
+[En el stotram y el gadyam  
+Śrī aḷavandār y śrī rāmanuja **gritan**, por así **decirlo**, **diciendo**:-
+
+> ¿Cuándo **iré** a Vaikuṇṭha?  
+> y **ver** al Señor cara a cara  
+> ¿Y **ser** su **devoto** y eterno **sirviente**?]
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्तोत्रत्तिलुम् श्रीवैकुण्ठगद्यत्तिलुमरुळिच्चॆय्द मनोरथत्तिऩ्बडिये 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+स्तोत्रत्तिलुम् श्रीवैकुण्ठगद्यत्तिलुमित्यादि । स्तोत्रत्तिलरुळिच्चॆय्द मनोरथम्:- 
+
+> धनं मदीयं तव पाद-पङ्क-जं  
+> कदा नु साक्षात् करवाणि चक्षुषा,  
+> कदा पुनश् शङ्ख-रथाङ्ग-कल्पक,  
+> कदाहम् ऐकान्तिक-नित्य-किङ्करः 
+
+इत्यादि ।  
+गद्यत्तिलरुळिच् चॆय्द मनोरथम्:- 
+
+> ‘‘कदाहं भगवन्तं नारायणं  
+> मम कुलनाथं, मम कुलदैवतं, मम कुलधनं,  
+> मम भोग्यं, मम मातरं, मम पितरं,  
+> मम सर्वं साक्षात् करवाणि चक्षुषा ।  
+> कदाहं भगवत्-पादाम्बु-ज-द्वयं शिरसा सङ्ग्रहीष्यामि।  
+> कदा मां भगवान् स्वकीयया ऽतिशीतलया ऽतिकोमलया दृशा ऽवलोक्य  
+> स्निग्ध-गम्भीर-मधुरया गिरा  
+> परिचर्यायाम् आज्ञापयिष्यति’’ 
+
+इत्यादि । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऐकान्तिकात्यन्तिक--नित्य-किङ्करऩ् आऩव् इवऩ् उगप्पाले+++(=आनन्देन)+++  
+ताऩ् निरतिशयानन्दऩ् आय् इरुक्कुम्। 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ऐकान्तिकात्यन्तिक--नित्य-किङ्करस्यास्यानन्देन  
+स्वयं निरतिशयानन्दो भवति ।  
+</details>
+
+
+
+<details><summary>English</summary>
+
+The Lord is immensely delighted at the bliss enjoyed by this eternal servant of His  
+who is staunchly and exclusively devoted to Him,  
+and who has attained the exalted position 
+</details>
+
+<details><summary>Español</summary>
+
+El Señor **está** inmensamente encantado con la dicha **disfrutada** por este siervo eterno de su  
+quien **está** firmemente y exclusivamente **dedicado** a él,  
+y quien ha **alcanzado** la posición exaltada
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऐकान्तिकात्यन्तिकनित्यकिङ्करऩाऩ विवऩुगप्पाले ताऩ् निरतिशयानन्दऩायिरुक्कुम्। 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+ऐकान्तिकात्यन्तिकनित्यकिङ्करऩाऩ इति । ऐकान्तिकत्वमावदु - प्रयोजनान्तरानन्वयपूर्वकतदेकनियतत्वम्। आत्यन्तिकत्वं – तथैव नित्यानुवृत्तत्वं, तत एव नित्यानुवृत्तत्वं वा । प्रयोजनान्तरार्थमागिलऩ्ऱो प्रयोजनान्तरसिद्धौ निवृत्तमावदु, अथवा आत्यन्तिकत्वं – निरतिशयत्वं, नित्यत्वं – अविच्छिन्नत्वं, इवऩुगप्पाले - इन्द मुक्तऩुडैय सन्तोषत्ताले, ताऩ् निरतिशयानन्दऩायिरुक्कुमिति ।  
+क्रीडाशुकम् क्षीरास्वादत्ताले उगन्दाल् अदैक्कण्डु राजाव् उगक्कुमाप् पोले,  
+निषद्वर-दीर्घिका-प्रायम् आऩ हृदय-कुहरत्तिल् निऩ्ऱुम् इवऩै वॆळिप् पडुत्ति  
+स्व-सायुज्यान्तम् कॊडुत्त पिऱगु  
+अवऩ् सन्तोषित्ताल्  
+अदऩाल् मुऩ्ऩ् इरुन्द आनन्दत्तैक् काट्टिलुम् अतिशयित-निरतिशयानन्दऩ् आय् इरुक्कुम् ऎऩ्गै।+++(5)+++  
+इदऩाल् स्वसन्तोषत्ताले भगवाऩुक्कु निरतिशयानन्दरूपातिशयाधानम् पण्णुगैयाल् इवऩुक्कु शेषवृत्तियुम् सॊल्लिऱ्ऱा यिऱ्ऱु। 
+</details>
+
+
+## गत्यन्तराणि
+
+<details><summary>English</summary>
+
+ARCHIRĀDI IS NOT THE ONLY ROUTE TO MOKSA OR VAIKUṆṬHA.  
+THERE ARE OTHER ROUTES AS WELL.
+
+</details>
+
+<details><summary>Español</summary>
+
+Archirādi **no es** la única ruta a Moksa o Vaikuṇṭha.  
+También **hay** otras rutas.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वस्व्-आदि--पद-प्राप्ति-पूर्वक--मोक्ष-साधनम् आऩ मधु-विद्याऽदिगळिलुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+वस्वादि-पद-प्राप्ति-पूर्वक--मोक्ष-साधन-भूत--मधु-विद्याऽऽदिषु
+</details>
+
+
+<details><summary>English</summary>
+
+As in the case of such meditations as Madhu Vidyā  
+which are the means of attaining mokṣa  
+after obtaining positions like those of the Vasus, 
+</details>
+
+<details><summary>Español</summary>
+
+Como en el caso de **meditaciones** como Madhu Vidyā  
+cuáles **son** los medios para **alcanzar** mokṣa  
+Después de **obtener** posiciones como las del Vasus,
+</details>
+
+<details><summary>मूलम्</summary>
+
+वस्वादिपदप्राप्तिपूर्वकमोक्षसाधनमाऩ मधुविद्यादिगळिलुम् 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इऩि मधुविद्यादिगळिलुम्, महाभारतत्तिलुम्, पाञ्चरात्रत्तिलुम् सॊल्लुम् क्रम-मुक्तिपक्षत्तिलुळ्ळ गतिविशेषङ्गळैयुम्, सत्यलोकत्तिल् वसिक्कुम् धात्रादिगळुडैय गतिप्रकारत्तैयुम् सॊल्लुगै इङ्गु अनपेक्षितमॆऩ्गिऱार् वस्वादिपदप्राप्तिपूर्वकमोक्षसाधन माऩ मधुविद्यादिगळिलुमित्यादिना । वस्वादिपदप्राप्तिपूर्वकं ब्रह्मप्राप्ति वरवेण्डुमॆऩ्ऱासै यिऩाले मधुविद्यैयैयुपासित्तवऩुक्कु वस्वादिपदप्राप्तियुम्, ‘‘आदित्यानामेको भूत्वा’’ ऎऩ्गिऱ पडि आदित्यपदप्राप्तियुम् वरुमॆऩ्ऱु सॊल्लियिरुप्पदाल् आदित्यऩुडैय अधिकारावसानत्तिल् अवऩुक्कु मोक्षम् वरुम्बोदु आदित्यघटितमाऩ इन्द अर्चिरादिगति वेऱाग इरुक्कवेण्डुमॆऩ्ऱु करुत्तु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सत्त्वं **वहति** शुद्धात्मा  
+> देवं नारायणं हरिम् +++(अनिरुद्धादिरूपम्)+++।  
++++(अनिरुद्धाति-रूपः)+++ प्रभुर् **वहति** शुद्धात्मा  
+परमात्मानम् आत्मना॥’’  
+(भारतम् शान्ति-पर्व ३०७-७७)  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सत्त्वं **वहति** शुद्धात्मा  
+> देवं नारायणं हरिम् +++(अनिरुद्धादिरूपम्)+++।  
++++(अनिरुद्धाति-रूपः)+++ प्रभुर् **वहति** शुद्धात्मा  
+परमात्मानम् आत्मना॥’’  
+(भारतम् शान्ति-पर्व ३०७-७७)  
+</details>
+
+<details><summary>English</summary>
+
+> “The pure quality of sattva makes the self attain Nārāyaṇa  
+who is of the form of Aniruddha.  
+The Lord who is of the pure nature of Aniruddha  
+leads him himself to the Supreme Vāsudeva (Para Vāsudeva)," 
+
+</details>
+
+<details><summary>Español</summary>
+
+> “La calidad pura de Sattva **hace** que el yo **logre** Nārāyaṇa  
+quien **es** de la forma de aniruddha.  
+El Señor que **es** de la naturaleza pura de aniruddha  
+lo **lleva** a él mismo al Supremo Vāsudeva (para vāsudeva) ",
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘सत्त्वं वहति शुद्धात्मा देवंनारायणं हरिम् ।  
+प्रभुर्वहति शुद्धात्मा परमात्मानमात्मना॥’’  
+(भारतम् शान्ति-पर्व ३०७-७७)  
+</details>
+
+
+
+<details><summary>सार-बोधिनी</summary>
+
+सत्त्वं वहतीति ।  
+शुद्धात्मा – शुद्धस्वरूपमाऩ, सत्वं – सत्वरूपगुणमाऩदु, वहति – प्रापयति  
+शुद्धात्मा – शुद्धस्वरूपऩाऩ प्रभुः – अनिरुद्धादिकार्यरूपऩाऩ अन्द नारायणऩुम्, परमात्मानं – सर्वकारणभूतऩाऩ वासुदेवऩै, आत्मना - ताऩागवे, वहति – प्रापयति, ये त्विति ।  
+इदु नारायणीयवचनम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ये तु दग्धेन्धना लोके पुण्यपापविवर्जिताः ।  
+तेषां वै क्षेममध्वानं गच्छतां द्विजसत्तम ॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
+ये तु दग्धेन्धना लोके पुण्यपापविवर्जिताः ।  
+तेषां वै क्षेममध्वानं गच्छतां द्विजसत्तम ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ये तु दग्धेन्धना लोके  
+> पुण्य-पाप-विवर्जिताः ।  
+तेषां वै क्षेमम् अध्वानं  
+**गच्छतां** द्विजसत्तम ॥  
+</details>
+
+<details><summary>English</summary>
+
+and again: 
+
+> "O, best of Brahmins, Know that this is the truth.  
+Those who have become free from puṇya and pāpa,  
+who are devoid of karma which is like fuel kindling the fire of saṁsāra  
+and who walk along the route to the world of Viṣṇu  
+</details>
+
+<details><summary>Español</summary>
+
+Y de nuevo:
+
+> "Oh, lo mejor de los brahmanes, **Sepa** que esta es la verdad.    
+Aquellos que se **han liberado** de Puṇya y Pāpa,  
+que **carecen** de karma, que **es** como el combustible que **enciende** el fuego de Saṁsāra  
+y que **caminan** por la ruta al mundo de Viṣṇu
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ये तु दग्धेन्धना लोके पुण्यपापविवर्जिताः ।  
+तेषां वै क्षेममध्वानं गच्छतां द्विजसत्तम ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वलोकतमो-हन्ता  
+आदित्यो द्वारम् **उच्यते** ।  
+ज्वालामाली महातेजा  
+येनेदं **धार्यते** जगत् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वलोकतमो-हन्ता  
+आदित्यो द्वारम् **उच्यते** ।  
+ज्वालामाली महातेजा  
+येनेदं **धार्यते** जगत् ॥  
+</details>
+
+
+
+<details><summary>English</summary>
+
+> to them - the sun who dispels the darkness of all the world  
+> is said to be the doorway.  
+> This world is sustained by the sun. 
+</details>
+
+<details><summary>Español</summary>
+
+> Para ellos, el sol que **disipa** la oscuridad de todo el mundo  
+> **se dice** que es la puerta.
+> Este mundo **es sostenido** por el sol.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वलोकतमो-हन्ता आदित्यो द्वारमुच्यते ।  
+ज्वालामाली महातेजा येनेदं धार्यते जगत् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आदित्य-**दग्ध**-सर्वाङ्गा  
+**अ-दृश्याः** केनचित् क्वचित् ।  
+परमाण्व्-आत्म-भूताश् च  
+तं देवं +++(अनिरुद्धं)+++ **प्रविशन्त्य्** उत ।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> आदित्य-**दग्ध**-सर्वाङ्गा  
+**अ-दृश्याः** केनचित् क्वचित् ।  
+परमाण्व्-आत्म-भूताश् च  
+तं देवं +++(अनिरुद्धं)+++ **प्रविशन्त्य्** उत ।  
+</details>
+
+<details><summary>English</summary>
+
+> With their material body burnt up by the sun,  
+> they become invisible  
+> as they have no bodies  
+> and are of the nature of the soul which is atomic in size.  
+> They then enter the god Aniruddha. 
+</details>
+
+<details><summary>Español</summary>
+
+> Con su cuerpo material quemado por el sol,  
+> se **vuelven** invisibles    
+> Como **no tienen** cuerpos  
+> y **son** de la naturaleza del alma que **es** de tamaño atómico.  
+> Luego **entran** en el dios aniruddha.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आदित्यदग्धसर्वाङ्गा अदृश्याः केनचित् क्वचित् ।  
+परमाण्वात्मभूताश्चतं देवं प्रविशन्त्युत ।  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+लोके - इन्द लोगत्तिल्, ये तु पुण्यपापविवर्जिताः । अत एव दग्धेन्धनाः – दग्धमाऩ संसाराग्नीन्धनत्तैयुडैयवर्गळो, वैष्णवं – विष्णुलोकसम्बन्धि याऩ, अध्वानं – मार्गत्तिले, गच्छतां - पोगिऱ, तेषां वै - अवर्गळुक्के, 
+
+> ज्वालामाली महातेजा  
+> आदित्यो द्वारमुच्यत 
+
+इत्यन्वयः ।  
+येन – यादॊरु आदित्यऩाले, धार्यते – स्वप्रकाशत् तिऩाले धरिक्कप्पडुगिऱदो, आदित्यदग्धसर्वाङ्गाः – आदित्यऩाले कॊळुत्तप्पट्ट प्राकृतसर्वाङ्गङ्गळैयुडैयवर्गळाय्, अत एव – अशरीरत्वादेव, अदृश्याः – ओरिडत्तिलु मॊरुवरालुम् पार्क्कमुडियादवर्गळाय्, परमाण्वात्मभूताश्च – परमाणुरूपमाऩ आत्मस्वरूपमात्रत्ताले अवशिष्टर्गळाय्, तन्देवं प्रविशन्ति – अनिरुद्धरूपियाऩ अन्द भगवाऩै प्रवेशिक्किऱार्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तस्माद् अपि विनिर्मुक्ता  
+अनिरुद्ध-तनौ **स्थिताः** ।  
+मनो-भूतास् ततो भूयः  
+प्रद्युम्नं **प्रविशन्त्य्** उत ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तस्माद् अपि विनिर्मुक्ता  
+अनिरुद्ध-तनौ **स्थिताः** ।  
+मनो-भूतास् ततो भूयः  
+प्रद्युम्नं **प्रविशन्त्य्** उत ॥  
+</details>
+
+<details><summary>English</summary>
+
+> Having remained in the body of Aniruddha (for some time) and leaving it,  
+> they reach Pradyumna  
+> remaining now as only mind.  
+
+</details>
+
+<details><summary>Español</summary>
+
+> **Habiendo** permanecido en el cuerpo de aniruddha (por algún tiempo) y **dejándolo**,  
+> **Llegan** a Pradyumna  
+> **Permanecer** ahora como solo mente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मादपि विनिर्मुक्ता अनिरुद्धतनौ स्थिताः ।  
+मनोभूतास्ततो भूयः प्रद्युम्नं प्रविशन्त्युत ॥  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अनिरुद्धतनौ स्थिताः – अनिरुद्धशरीरत्तिल् प्रवेशित्तिरुक्कुमवर्गळ्, तस्मादपि विनिर्मुक्तास्सन्तः - अन्द अनिरुद्धशरीरत्तिल् निऩ्ऱुम् विडुबट्टवर्गळाय्, मनोभूताः – मनोमात्रावशिष्टर्गळाय्क्कॊण्डु, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रद्युम्नाच् च विनिर्मुक्ता  
+जीवं +++(→तद्-अधीश्वरं)+++ सङ्कर्षणं ततः ।  
+**विशन्ति** विप्र प्रवरास्  
+साङ्ख्य+++(=ज्ञान)+++-योगाश् च तैस् सह ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> प्रद्युम्नाच् च विनिर्मुक्ता  
+जीवं +++(→तद्-अधीश्वरं)+++ सङ्कर्षणं ततः ।  
+**विशन्ति** विप्र प्रवरास्  
+साङ्ख्य+++(=ज्ञान)+++-योगाश् च तैस् सह ॥  
+</details>
+
+<details><summary>English</summary>
+
+> Leaving Pradyumna,  
+> they enter into Saṅkarṣaṇa  
+> who is the deity presiding over Jīvas (abhimānidevatā).  
+> Along with them proceed those who have performed Jñāna Yoga and Karma yoga.  
+
+</details>
+
+<details><summary>Español</summary>
+
+> **Dejando** a Pradyumna,  
+> **Entran** en saṅkarṣaṇa  
+> quien **es** la deidad que preside a Jīvas (Abhimānidevatā).  
+ Junto con ellos **proceden** a aquellos que **han realizado** jñāna yoga y karma yoga.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रद्युम्नाच्च विनिर्मुक्ता जीवं सङ्कर्षणं ततः ।  
+विशन्ति विप्र प्रवरास्साङ्ख्ययोगाश्चतैस्सह ॥  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+विप्रप्रवराः – आत्मगुणपरिपूर्णाः ब्राह्मणाः, साङ्ख्ययोगाः – साङ्ख्यनिष्ठाः योगनिष्ठाश्च, जीवं – जीवाधिष्ठातावाऩ, सङ्कर्षणं – सङ्कर्षणरूपियाऩ भगवाऩै, विशन्ति – प्रवेशिक्किऱार्गळ्।  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ततस् त्रैगुण्य-हीनास् ते  
+परमात्मानम् अञ्जसा ।  
+**प्रविशन्ति** द्विज-श्रेष्ठाः  
+क्षेत्र-ज्ञं निर्गुणात्मकम् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ततस् त्रैगुण्य-हीनास् ते  
+परमात्मानम् अञ्जसा ।  
+**प्रविशन्ति** द्विज-श्रेष्ठाः  
+क्षेत्र-ज्ञं निर्गुणात्मकम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+> Having become free from the three qualities (sattvam, rajas and tamas),  
+> they enter into the Supreme Being  
+> who is the abode of all,  
+> who resides within the Self  
+> and who is free from all imperfections.  
+</details>
+
+<details><summary>Español</summary>
+
+> Habiendo **liberado** de las tres cualidades (sattvam, rajas y tamas),  
+> **Entran** en el ser supremo  
+> Quién **es** la **morada** de todos,  
+> quien **reside** dentro del yo  
+> y quién **está libre** de todas las imperfecciones.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततस्त्रैगुण्यहीनास्ते परमात्मानमञ्जसा ।  
+प्रविशन्ति द्विजश्रेष्ठाः क्षेत्रज्ञं निर्गुणात्मकम् ॥  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+ततः – सङ्कर्षणऩैयडैन्दबिऱगु, त्रैगुण्यहीनास्ते – गुणत्रयशून्यर्गळाऩअवर्गळ्, अञ्जसा – शीघ्रमाग, परमात्मानं – वासुदेवऩै, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्वावासं वासुदेवं  
+षेत्र-ज्ञं **विद्धि** तत्वतः ।  
+समाहित-मनस्कास् तु  
+**नियतास्** संयतेन्द्रियाः ॥  
+एकान्त-भावोपगता  
+वासुदेवं **विशन्ति** ते।’’  
+(भारतम् शान्ति-पर्व ३५४-१३-२०।)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> सर्वावासं वासुदेवं  
+षेत्र-ज्ञं **विद्धि** तत्वतः ।  
+समाहित-मनस्कास् तु  
+**नियतास्** संयतेन्द्रियाः ॥  
+एकान्त-भावोपगता  
+वासुदेवं **विशन्ति** ते।’’  
+(भारतम् शान्ति-पर्व ३५४-१३-२०।)
+</details>
+
+<details><summary>English</summary>
+
+> Know that Vāsudeva is the abode of all (vāsa)  
+> and that He is, in truth, immanent as antaryāmin in all.  
+> Those who have subjected themselves to spiritual disciplines,  
+> who have perfect control over their senses  
+> and who have attained peace of mind  
+> enter into Vāsudeva,  
+> considering Him as the only object of attainment."
+</details>
+
+<details><summary>Español</summary>
+
+> **Sepa** que Vāsudeva es la **morada** de todos (Vāsa)
+> y que él **es**, en verdad, inmanente como antaryāmin en total.  
+> Aquellos que se **han sometido** a disciplinas espirituales,  
+> que **tienen** un control perfecto sobre sus sentidos  
+> y que **han alcanzado** tranquilidad  
+> **Entra** en Vāsudeva,  
+> **Considerarlo** como el único objeto de logro.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वावासं वासुदेवं क्षेत्रज्ञं विद्धि तत्वतः ।  
+समाहितमनस्कास्तु नियतास्संयतेन्द्रियाः ॥  
+एकान्त भावोपगता वासुदेवं विशन्ति ते।’’  
+(भारतम् शान्ति-पर्व ३५४-१३-२०।)
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+सर्वावासं वासुदेवमित्यादि, सर्वावासभूतऩागैयाले अन्द वासुदेवऩै सर्वान्तर्यामियागत् तॆरिन्दुगॊळॆऩ्ऱबडि। 
+</details>
+
+
+
+
 
 (As in the case of Madhu Vidyā) and in these passages cited from the Mahābhārata, it has also been stated that there is another route for muktas :-- "They go from here to Svetadvipa, and reach gari who has the Universe as His form. Then they reach Hari in the form of Aniruddha who is in the ocean of milk. From there they go to Pradyumna, who is the Lord of Brahma and of all others. Thence they proceed to Saṅkarṣaṇa, the eternal Bhagavān. To those who want to have, for ever, the bliss of Brahman, who have attained success in being staunchly and exclusively devoted to Bhagavān and who perform the worship of the Lord in the five different periods of the day -- to them this is another path (leading to mokṣa ). In the section (devoted to Pāñcarātra in Śrī Bhāṣya, it is said also that "those who attain mukti give up the worship of the incarnational form (Vibhava), proceed thence to the worship of the Vyūha and finally after the worship of the Vyūha, attain the Supreme Being called Vāsudeva." These refer to particular classes of those who attain mukti. Similarly certain specified routes are laid down for those who attain mukti after remaining for a while in the Satyaloka, the world of Brahma. These also apply to special cases such as krama mukti (release by gradation.) It is not our object to describe these differences in the routes to mukti, which are diverse for diverse souls, as their knowledge is prescribed only to the respective adhikāris.
 
