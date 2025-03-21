@@ -168,7 +168,7 @@ the obstructions for which are due to the enjoyment of external (Material) thing
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-येन केनापि प्रकारेण **द्वय-वक्ता** त्वं  
+येन केनापि प्रकारेण +++(भोग्यतया, नोपायतया)+++ **द्वय-वक्ता** त्वं  
 केवलं मदीयया+एव दयया   
 </details>
 
@@ -180,7 +180,6 @@ the obstructions for which are due to the enjoyment of external (Material) thing
 **एव**-कारः कृपायाः पुष्कलकारणत्वपरः । तत्र हेतुः **मदीयत्त्वम्** ।
 
 [^1_pg66]: नुताप - इ ।
-
 </details>
 
 
@@ -193,7 +192,6 @@ the obstructions for which are due to the enjoyment of external (Material) thing
 
 
 [^3_pg66]: जीवगत - अ ।
-
 </details>
 
 
