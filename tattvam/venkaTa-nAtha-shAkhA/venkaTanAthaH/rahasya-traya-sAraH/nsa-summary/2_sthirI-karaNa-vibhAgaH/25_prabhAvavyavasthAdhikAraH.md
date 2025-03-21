@@ -17,7 +17,7 @@ There are many statements that praise one who is solely devoted to Lord Vishnu. 
 
 Desika points out here that 'Jathi' or caste of a person is different from 'Kula' or a class, characterised by certain characteristics, and one should not be confused with the other. There is a statement -
 
-न शूद्राः भगवद्भक्ताः विप्रा भागवताः स्मृताः । सर्ववर्णेषु ते शूद्राः ये ह्यभक्ताः जनार्दने।।
+न शूद्राः भगवद्भक्ताः विप्रा भागवताः स्मृताः । सर्ववर्णेषु ते शूद्राः ये ह्यभक्ताः जनार्दने॥
 
 "The devotees of the Lord are not 'shudras'. They are known as 'bhagavathas'. Those of all castes, who are not devotees of Lord Vishnu, are 'shudras'. Here, the particular characteristics of devotion towards the Lord is considered to take one as belonging to the higher caste or belonging to a lower caste. On the basis of this, it is asked whether all devotees of the Lord, belong to the same caste ? All devotees, therefore, are to be considered as 'vipras' or brahmins. The answer to this question is - It is not so. Desika quotes the view of Kidambi Appullar, that the equality pointed out in the above statement, is on account of 'Parama-Purusha-Samya' and not in 'vyavahara'. All shastras ordain certain disciplines to be followed by 'Bhagavata Brahmana' and 'Bhagavata Shudra'. So, the statement that a 'Bhagavata Brahmana' and a 'Bhagavata Shudra' are equal, is on account of the same 'purushartha' being entertained by both, and not on account of the 'varna ashrama-vyavahara-samya'. The statcment of Thirumangai Alwar that 'Bhakti' endows 'Kula' - is also commented upon by the great master in the same way. If a person who is belonging to a low caste, and of an inferior character, gains 'Bhagavata Sambandham', one should not think of him as low, belonging to a particular caste or quality. The eminence of devotion towards the Lord, is such; but, they are not having marriage alliance with others, because it is regulated by caste, and praise and veneration are on account of thePrabhava Vyavasthadhikara
 
@@ -55,7 +55,7 @@ Prabhava Vyavasthadhikara
 
 Desika decidedly states that one should recognise 'Bhagavata Prabhavam' without disturbing the order of varnas and ashramas. He quotes a verse in this behalf
 
-'वैष्णवत्वेन मान्यत्वं समानं मुनिसंमतम् । जात्यादिध्वंसतः साम्यं मुक्तकाले भविष्यति' ।।
+'वैष्णवत्वेन मान्यत्वं समानं मुनिसंमतम् । जात्यादिध्वंसतः साम्यं मुक्तकाले भविष्यति' ॥
 
 "Equality and respectability in respect of being a devotee of Vishnu, are common and acceptable to sages; but, equality on account of destruction of the caste and others, does happen at the time of liberation."
 

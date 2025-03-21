@@ -282,7 +282,7 @@ The Lord declares in the Gita that one who has realised this secret knowledge of
 
 Similarly the Archavatara is of great significance. One who devotes himself to the worship of the Archa incarnation, would gain liberation without heavy strain. This form of the Lord is easily accessible to all at all times unlike other forms of the Lord. Shounaka ordains thus -
 
-> सुंरूपां प्रतिमा विष्णोः प्रसन्नवदनेक्षणाम् । कृत्वात्मनः प्रीतिकरी सुवर्णरजतादिभिः ॥ तामर्चयेत्तां प्रणमेत् तां यजेत्तां विचिन्तयेत् । विशत्यपास्तदोषस्तु तामेव ब्रह्मरूपिणीम् ।।
+> सुंरूपां प्रतिमा विष्णोः प्रसन्नवदनेक्षणाम् । कृत्वात्मनः प्रीतिकरी सुवर्णरजतादिभिः ॥ तामर्चयेत्तां प्रणमेत् तां यजेत्तां विचिन्तयेत् । विशत्यपास्तदोषस्तु तामेव ब्रह्मरूपिणीम् ॥
 > 
 > "Making a beautiful idol of Sri Mahavishnu having beautiful features as eyes, face and graceful looks, out of gold or silver or others, one should worship the Lord, bow down to Him, surrender unto Him, meditate upon Him; such a one freed from all blemishes is sure to attain that Supreme Paramatman."
 

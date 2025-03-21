@@ -58,7 +58,7 @@ Here a prayer is made for 'anishta- Nivritti', and through that a Mangalacharana
 
 The next verse expounds the eminence of the preceptor of the Mantra, who is the well-wisher of all humanity.
 
-'कल्याणमावहतु कार्तयुगं स्वधर्म प्रख्यापयन् प्रणिहितेषु नरादिकेषु । आद्यं कमप्यधिगतो रथमष्टचक्रम् बन्धुस्सतां बदरिकाश्रमतापसो नः ।।
+'कल्याणमावहतु कार्तयुगं स्वधर्म प्रख्यापयन् प्रणिहितेषु नरादिकेषु । आद्यं कमप्यधिगतो रथमष्टचक्रम् बन्धुस्सतां बदरिकाश्रमतापसो नः ॥
 
 "May that sage of Badrikashrama, Sriman Narayana, who taught vividly His-own Nivritti-Dharma of the Krita Yuga to those who were highly attentive, such as 'Nara' and others, and who has mounted upon the primeval and supreme chariot of eight wheels, and who is the dear-relative of the virtuous, grant us all good."
 
@@ -88,7 +88,7 @@ In the next verse, the greatness of the Mulamantra itself, is praised and a Mang
 
 Many of the Great Sages like Sanaka and others adopted this Mantra and attained the abode of Lord Vishnu.
 
-यथा सर्वेषु देवेषु नास्तिनारायणात्परः । तथा सर्वेषु मन्त्रेषु नास्ति चाष्टाक्षरात्परः ।।
+यथा सर्वेषु देवेषु नास्तिनारायणात्परः । तथा सर्वेषु मन्त्रेषु नास्ति चाष्टाक्षरात्परः ॥
 
 As there is no one higher than Narayana amongst the gods, there is no Mantra greater than this amongst all Mantras.
 
@@ -174,7 +174,7 @@ In the term 'Namas', the meanings such as - 'I am not the saviour of myself; all
 
 The 'Ahirbudniya Samhitha' expounds three significant meanings to this term 'Namaha'. They are known as 'Sthula', Sukshma' and 'Para'. The 'sthulartha' of 'Namas' is performance of self-surrender, accompanied with the five accessories to the Lord:
 
-भगवान् मे परो नित्यं अहं प्रत्यवरः सदा । sfa HTa 74: : 74H: HTUT : 11 नामयत्यपि वा देवं प्रह्वीभावयति ध्रुवम् । प्रह्वीभवति नीचे हि परो नैच्यं विलोकयन् ।। अतो वा नम उद्दिष्टं यत्तन्नामयति स्वयम् ।
+भगवान् मे परो नित्यं अहं प्रत्यवरः सदा । sfa HTa 74: : 74H: HTUT : 11 नामयत्यपि वा देवं प्रह्वीभावयति ध्रुवम् । प्रह्वीभवति नीचे हि परो नैच्यं विलोकयन् ॥ अतो वा नम उद्दिष्टं यत्तन्नामयति स्वयम् ।
 
 The Supreme Paramatman is the 'seshin' and I am ever the lowest of the low - the 'shesha-bhuta'. The reflection of the 'Sesha-Seshi-Bhava' is said to be 'Namas'. This reflection of 'sheshatva' is verily the cause of surrender. So, the reflection of the 'Sesha-Sheshi-Bhava' is the meaning of the term 'Namas'.
 
@@ -188,7 +188,7 @@ This means makes the Lord condescend, or make him yield to one who is below. The
 
 The Ahirbudniya Samhita describes the various accessories of 'sharanagati', and expounds that the 'sthulartha' of 'Namas' is performance of surrender:
 
-पूर्णमऊः उपाश्च नमनं ते प्रकीर्तितम् । स्थूलोऽयं नमसस्त्वर्थः सूक्ष्ममन्यन्निशामय ।।
+पूर्णमऊः उपाश्च नमनं ते प्रकीर्तितम् । स्थूलोऽयं नमसस्त्वर्थः सूक्ष्ममन्यन्निशामय ॥
 
 The Atma-Nikshepa - or the surrender of the atman to be protected, with all the accessories prescribed for that - is the gross meaning of the term Namas'.
 
@@ -268,9 +268,9 @@ The letter 'अ' in pranava, and the term 'Nara' and 'ayana' in the term 'Naraya
 
 This Mantra, thus establishes that Paramatman is different and distinct from the other two entities on account of the fact of this pervasion, and His being the support and Master of every other entity.
 
-न रिष्यति च सर्वत्र नरस्तस्मात्सनातनः । नरसम्बन्धिनस्सर्वे चेतनाचेतनात्मकाः ।। ईशितव्यतया नारा धार्यपोष्यतया तथा । नियाम्यत्वेन सृज्यत्व प्रवेशभरणैस्तथा ।
+न रिष्यति च सर्वत्र नरस्तस्मात्सनातनः । नरसम्बन्धिनस्सर्वे चेतनाचेतनात्मकाः ॥ ईशितव्यतया नारा धार्यपोष्यतया तथा । नियाम्यत्वेन सृज्यत्व प्रवेशभरणैस्तथा ।
 
-अयते निखिलान् नारान् व्याप्नोति क्रियया तथा । नाराश्चाप्यायनं तस्य तैस्तद्भावनिरूपणात् ॥ नाराणामयनं वासस्ते च तस्यायनं सदा । परमा च गतिस्तेषां नाराणामात्मनां सदा ।। As He is never decaying, the primeval Paramatan is designated as 'Narah' (:). The sentients and non-sentients that are inseparably related to Nara', the Lord, are called 'Narah' (ART:). The relationship between Him and the other entities is as follows -
+अयते निखिलान् नारान् व्याप्नोति क्रियया तथा । नाराश्चाप्यायनं तस्य तैस्तद्भावनिरूपणात् ॥ नाराणामयनं वासस्ते च तस्यायनं सदा । परमा च गतिस्तेषां नाराणामात्मनां सदा ॥ As He is never decaying, the primeval Paramatan is designated as 'Narah' (:). The sentients and non-sentients that are inseparably related to Nara', the Lord, are called 'Narah' (ART:). The relationship between Him and the other entities is as follows -
 
 They are ever subservient to Him depending upon Him for their very essential nature;
 
@@ -404,7 +404,7 @@ For a Prapanna, the Prapatti that is performed by him awards the same result thr
 
 The performance of the ordained duties of one's station in life (Varnashrama Dharmas) described in the fourth chapter of the Vedanta Sutras, happens to be an accessory to upasana; but, a Prapanna is obliged to observe all those duties, as carrying out the commands of the Lord, though not as an accessory to Prapasti. Thus, the truths expounded in the Vedanta Sutras are implicit in the Mula Mantra. On account of a clear comprehension of the truths taught by the Mula Mantra, one becomes unassailable by any other school of thought. He will not be disturbed by any kind of provocation or acclamation:
 
-न प्रहृष्यति सम्माने नावमानेऽनुतप्यते । गंगा हद इवाक्षोभ्यः यस्स पण्डित उच्यते ।।
+न प्रहृष्यति सम्माने नावमानेऽनुतप्यते । गंगा हद इवाक्षोभ्यः यस्स पण्डित उच्यते ॥
 
 "He does not delight when honoured nor does he feel sad when dishonoured, like the deep waters of the Ganga, he will never be disturbed. Only such a person is a 'pandit'."
 

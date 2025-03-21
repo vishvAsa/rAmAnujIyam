@@ -12,7 +12,7 @@ The section 'Sadhyopaya Shodhanadhikara', clears the doubts that may arise about
 
 In the introductory verse, Desika expounds the essential nature of the 'Siddhopaya, the Supreme Paramatman, as follows :
 
-युगपदखिलं प्रत्यक्षेणं स्वतस्सततं विदन् निरवधिदयादिव्योदन्वान् अशक्यविवर्जितः । जलधिसुतया सार्धं देवो जगत्परिपालयन् परमपुरुषस्सिद्धोपायः प्रतीष्टभरस्सताम् ।। 1.
+युगपदखिलं प्रत्यक्षेणं स्वतस्सततं विदन् निरवधिदयादिव्योदन्वान् अशक्यविवर्जितः । जलधिसुतया सार्धं देवो जगत्परिपालयन् परमपुरुषस्सिद्धोपायः प्रतीष्टभरस्सताम् ॥ 1.
 
 The
 
@@ -154,7 +154,7 @@ The meaning of this verse is that those people who have a master, do not make an
 
 Desika points out that the term 'natha' used here signifies both prayer for protection and 'atma-nikshepa'. The idea is when one has entrusted the responsibility of one's protection to the master, he will not engage himself in any kind of self-help. The term 'nachavantah' signifies so much meaning, and otherwise it will become untenable to apply what all is said in 'loka-nceti' to moksha-shastra.
 
-यदर्थस्तु कृतो न्यासः तदर्थं न पुनः किया । पूर्वमप्यपराधीनप्रवृत्तौ अस्य नान्वयः ।।
+यदर्थस्तु कृतो न्यासः तदर्थं न पुनः किया । पूर्वमप्यपराधीनप्रवृत्तौ अस्य नान्वयः ॥
 
 The meaning of this verse is, a person, who has totally surrendered the burden of his protection to the Lord, is not entitled to function in his protection. Even in the earlier stage, what he did in entrusting the burden of his protection, was not solely on account of himself but was caused by the all merciful Lord on account of some casual good done by him knowingly or unknowingly. Thus, Desika has pointed out that when the Lord, the all protector, protects one, he causes him to undertake some means as a pretext, and saves him from samsara. This infinite grace of the Lord that spontaneously flows, depends upon the desire of the aspirant, just as the suickling of an infant for the breast-milk of the mother.
 

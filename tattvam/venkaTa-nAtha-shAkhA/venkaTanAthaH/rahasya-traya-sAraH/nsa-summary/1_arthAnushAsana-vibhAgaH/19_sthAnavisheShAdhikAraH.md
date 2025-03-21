@@ -36,7 +36,7 @@ Sthana Visheshadhikara
 
 SCL
 
-गुरवो यत्र पूज्यन्ते साधुवृत्ताः शमान्विताः । वस्तव्यं तत्र युष्माभिः यत्र धर्मो न हीयते ।। यत्र वेदाश्च यज्ञाश्च तपस्सत्यं दमस्तथा । स वै देशो हि वस्सेव्यो मा वोऽधर्मः पदा स्पृशेत्॥
+गुरवो यत्र पूज्यन्ते साधुवृत्ताः शमान्विताः । वस्तव्यं तत्र युष्माभिः यत्र धर्मो न हीयते ॥ यत्र वेदाश्च यज्ञाश्च तपस्सत्यं दमस्तथा । स वै देशो हि वस्सेव्यो मा वोऽधर्मः पदा स्पृशेत्॥
 
 A place where preceptors are venerated and where on account of the presence of such devotees, Dharma prospers; in a place, where the rites prescribed by the Vedas and the courses of penance, the word of truth, conquest over the senses, prevail, that is to be resorted, and adharma will not even creep into those places.
 
@@ -60,7 +60,7 @@ The idea of this verse is, "he must dwell in the Holy place of the Lord, doing a
 
 Desika ordains that a Prapanna lives in a place where there are Bhagavatas and where there is a possibility of enhancing one's 'satvic' nature. He points out that the verse -
 
-निगृहीतेन्द्रियग्रामः यत्र यत्र वसेन्नरः । तत्र तत्र कुरुक्षेत्रं नैमिषं पुष्करं तथा ।।
+निगृहीतेन्द्रियग्रामः यत्र यत्र वसेन्नरः । तत्र तत्र कुरुक्षेत्रं नैमिषं पुष्करं तथा ॥
 
 Sthana Visheshadhikara
 

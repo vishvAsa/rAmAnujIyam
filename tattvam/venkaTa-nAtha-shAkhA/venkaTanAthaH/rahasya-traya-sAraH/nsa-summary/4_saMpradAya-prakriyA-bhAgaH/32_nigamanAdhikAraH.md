@@ -102,7 +102,7 @@ Nigamanadhikara
 
 Desika states the prima facic view that "Prapatti is not a distinct and different means of Moksha" - at the very outset and raises nine objections against Prapatti as follows :
 
-‘स्वरूपलक्ष्मानुष्ठान विध्यदृष्टेनिषेधतः ।। ऐक्यादशक्तेरख्यातेः सम्प्रदायविरोधतः ।।'
+‘स्वरूपलक्ष्मानुष्ठान विध्यदृष्टेनिषेधतः ॥ ऐक्यादशक्तेरख्यातेः सम्प्रदायविरोधतः ॥'
 
 The nine incompatibilities pointed out are : 1. The 31544fe or incompatibility regarding its essential nature of being different from Bhakti, 2. the अनुपपत्ति regarding लक्षण or definition 3. 348111894ft or the absence of its adoption for moksha, 4. the absence of any authority enjoining it, 5. the fact of negation of any means other than Bhakti for gaining Moksha, 6. the incompatibility of its non-difference from Bhakti as it is only an accessory to Bhakti, 7. the inability to perform Prapatti, 8. it is not prominently known from the Sastras and 9. it is contrary to tradition as it is not bequcathed by the line of teachers i.c. Guruparampara.
 

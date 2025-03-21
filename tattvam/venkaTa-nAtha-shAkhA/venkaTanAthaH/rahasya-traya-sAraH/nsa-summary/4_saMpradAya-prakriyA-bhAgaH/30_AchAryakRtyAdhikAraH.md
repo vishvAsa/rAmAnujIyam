@@ -19,7 +19,7 @@ Desirous of attaining the primeval Supreme Abode of the Lord, the Acharya hands 
 
 The disciple should be tested and only after that, instruction is to be given, if he deserves that knowledge:
 
-संवत्सरं तदर्थं वा मासत्रयमथापि वा । परीक्ष्य विविधोपायैः कृपया निःस्पृहो वदेत् ।।
+संवत्सरं तदर्थं वा मासत्रयमथापि वा । परीक्ष्य विविधोपायैः कृपया निःस्पृहो वदेत् ॥
 
 "By testing the disciple for an year or half of it or three months in different ways, the teacher should impart instruction out of compassion, without desiring anything in retum." The teacher should make sure that the mind of the disciple is pure and firmly devoted to that knowledge. This instruction should not be given for the mere asking of it, without due consideration of the merits and demerits of the people. This instruction is to be given while one is in a satvik state. It is enjoined that the preceptor should give an instruction out of mere compassion and affection. This 'smapradaya' has been handed over from preceptor to disciple without any break in the middle, beginning with the Supreme Paramatman. This lamp of knowledge of the form of tattva, hita and purushartha, which dispels the darkness of ignorance, should be placed in the hands of a deserving disciple, for being preserved and propagated amongst his worthy disciples,
 
@@ -51,7 +51,7 @@ Desika points out that there are great hazards during the present period of 'Kal
 
 'गोपयन्नाचरेद्धम नापृष्टः किञ्चिदुच्चरेत् । पृष्टोऽपि न वदेदर्थं गुह्यं सिद्धान्तमेव च ॥
 
-आश्रितायातिभक्ताय शास्त्रश्रद्धापराय च । न्यायेन पृच्छते सर्वं वक्तव्यं शौचयोगिने' ।।
+आश्रितायातिभक्ताय शास्त्रश्रद्धापराय च । न्यायेन पृच्छते सर्वं वक्तव्यं शौचयोगिने' ॥
 
 Acharya Kritya Adhikara
 

@@ -13,7 +13,7 @@ In the introductory verse of this section, Desika points out the duties to be pe
 सन्तोषार्थं विमृशति मुहुः सद्भिर् अध्यात्मविद्यां  
 नित्यं ब्रूते निशमयति च स्वादु सुव्याहृतानि ।  
 अङ्गीकुर्वन्न् अनघ-ललितां वृत्तिम् आदेह-पातात्  
-दृष्टादृष्ट-स्वभर-विगमे दत्त-दृष्टिः प्रपन्नः ।। 
+दृष्टादृष्ट-स्वभर-विगमे दत्त-दृष्टिः प्रपन्नः ॥ 
 
 He will again and again study and reflect over the truths of 'adhyathma-vidya' i.e. the great Sri Bhashya as propounded by Bhagavan Ramanuja on the three foundational texts of vedanta for the purpose of deriving joy caused by the experience of the auspicious qualities of the Paramatman i.c., santhoshartham. As he has already completed his spiritual discipline and as he may not need the knowledge of this vedanta for adopting a spiritual means, he is advised to undertake such study for 'bhagavat kalyana-guna-anubhava' or enjoying the auspicious qualities of the Supreme Paramatman, which itself is of supreme benefit. This study is to be undertaken along with those who are well versed in the truths expounded in Sri Bhashya and other works. Desika points out that this kind of study should be undertaken again and again so that he may be firmly established in that Supreme Paramatman. If one is not that capable as to go into the study of Sri Bhashya, he is advised to recite the nectar like hymns of the Alwars, such as Nammalwar and others. The soul stirring utterances of the God-intoxicated Alwars are more pleasing to an aspirant to a greater extent than even the compositions of Parashara and others, as they are composed in the spoken language of the masses, understandable to all. This is to be undertaken as 'swayam-prayojana' and these should be heard from teachers or taught to disciples.
 
@@ -49,7 +49,7 @@ The following statements substantiate their state of life:
 वर्तमानः सदा चैवं  
 पाचकालिक-वर्त्मना+++(??)+++ ।  
 स्वार्जितैः गन्धपुष्पाद्यैः  
-शुभैः शक्त्य्-अनुरूपतः ।।  
+शुभैः शक्त्य्-अनुरूपतः ॥  
 आराधयन् हरिं भक्त्या  
 गमयिष्यामि वसारान् ।
 

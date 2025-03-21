@@ -43,7 +43,7 @@ Those texts that expound the nature of Paramatman, the attainment of Paramatman 
 
 A wiseman should decide thus the quintessence of all shasthras and dedicate himself to the understanding of the three Rahasyas and this text expounds all the truths that are contained in the three Rahasyas.
 
-बहुभ्यश्च महद्भ्यश्च शास्त्रेभ्यः मतिमानरः । सर्वतः सारमादद्यात् पुष्पेभ्य इव षट्पदः ।। The meaning of this verse is that -
+बहुभ्यश्च महद्भ्यश्च शास्त्रेभ्यः मतिमानरः । सर्वतः सारमादद्यात् पुष्पेभ्य इव षट्पदः ॥ The meaning of this verse is that -
 
 A mumukshu who wants to save himself from the clutches of samsara without delay, has to gather and devote himself to the most essential truths of these three mysteries 'Rahasyatraya' from all quarters; from all people; from all great shasthras - just like the bees that collect honey from all flowers.
 

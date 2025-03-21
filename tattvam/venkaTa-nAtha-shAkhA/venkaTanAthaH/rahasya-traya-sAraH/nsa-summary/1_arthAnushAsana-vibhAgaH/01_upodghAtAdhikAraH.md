@@ -33,7 +33,7 @@ After this Mangalacharanam, Desika offers obeisance at the feet of his preceptor
 
 मणिवर इव शौरेः नित्यहृद्योऽपि जीवः कलुषमतिरविन्दन् किंकरत्वाधिराज्यम् । विधिपरिणतिभेदाद्वीक्षितस्तेन काले
 
-गुरुपरिषदुपज्ञं प्राप्य गोपायते स्वम् ।। The gist of the verse is as follows
+गुरुपरिषदुपज्ञं प्राप्य गोपायते स्वम् ॥ The gist of the verse is as follows
 
 The Jivatman who is very dear to the Supreme Lord just as the Kaustubha Gem, has not gained the sovereignty of the eternal service to the Lord on account of the covering of his real nature by the beginningless prakruthi or matter due to his karmas, Though the Jivatman is qualified for that supreme state, he has been labouring under the burden of his karmas. Though he is thus, being blessed and caught by the kind glances of the Supreme Lord at some particular time on account of some casual good done unknowingly by him, he will be blessed with the instruction of the preceptors and will save himself by taking up the spiritual disciplines prescribed therefor."
 
@@ -43,7 +43,7 @@ Being ignorant of his nature, he is involved in samsara. This ignorance of his w
 
 The Jivatman is thus very dear to the Lord. The Lord is a worthy 19-L and He is eager to grant the bliss of His communion to all. The Supreme Lord is adorning the celestial abode Sri Vaikuntha as described in
 
-वैकुण्ठे तु परे लोके श्रियासार्धं जगत्पतिः । आस्ते विष्णुरचिन्त्यात्मा भक्तैः भागवतैःसह ।।
+वैकुण्ठे तु परे लोके श्रियासार्धं जगत्पतिः । आस्ते विष्णुरचिन्त्यात्मा भक्तैः भागवतैःसह ॥
 
 This Jivatman has the agented or qualification by his essential nature to enjoy the supreme joy of experiencing the Lord eternally in an equal measure along with the nityasurins but on account of his beginningless karma has been bound by samsara.
 

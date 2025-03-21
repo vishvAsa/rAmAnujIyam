@@ -96,7 +96,7 @@ Guruparampara Sara
 
 TY
 
-साक्षात् नारायणो देवः कृत्वा मर्त्यमयीं तनम् । मग्नानुद्धरते लोकान् कारुण्याच्छास्त्रपाणिना ।।
+साक्षात् नारायणो देवः कृत्वा मर्त्यमयीं तनम् । मग्नानुद्धरते लोकान् कारुण्याच्छास्त्रपाणिना ॥
 
 This Supreme Lord who is characterised with all auspicious qualities, who is an Acharya, guru, father and everything, Sriman Narayana, is verily the Guru. 'Thou art the preceptor of this universe, you are verily the goal.' IV. The Alwars such as Nammalwar and others are in a
 

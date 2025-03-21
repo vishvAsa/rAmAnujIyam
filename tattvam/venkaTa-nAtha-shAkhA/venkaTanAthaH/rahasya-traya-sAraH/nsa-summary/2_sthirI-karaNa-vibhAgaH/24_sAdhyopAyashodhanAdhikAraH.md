@@ -223,7 +223,7 @@ Essencc of Srimad Rahasyatraya Saram
 
 Desika points out that this also is not compatible, as Prapatti is enjoined as a main means (svatantra-prapatti) and as a substitute to Bhakti, as evidenced in the following authorities:
 
-'यद्येन कामकामेन न साध्यं साधनान्तरैः । मुमुक्षुणा यत् सांख्येन योगेन न च भक्तितः ।। प्राप्यते परमं धाम यतो नावर्तते यतिः । तेन तेनाप्यते तत्तन्यासेनैव महामुने । परमात्मा च तेनैव साध्यते पुरुषोत्तमः' ।
+'यद्येन कामकामेन न साध्यं साधनान्तरैः । मुमुक्षुणा यत् सांख्येन योगेन न च भक्तितः ॥ प्राप्यते परमं धाम यतो नावर्तते यतिः । तेन तेनाप्यते तत्तन्यासेनैव महामुने । परमात्मा च तेनैव साध्यते पुरुषोत्तमः' ।
 
 "That which is not possible of being gained by other sadhanas, all that which is desired by one, is gained by nyasa. That which cannot be gained through Jnana-Yoga, Karma Yoga or Bhakti-Yoga, can be gained by nyasa. The supreme abode of Paramatman also from where one will never more return to this world, is gained by nyasa alone. The Paramatman, the Purushottama, is also attained by nyasa alone."
 

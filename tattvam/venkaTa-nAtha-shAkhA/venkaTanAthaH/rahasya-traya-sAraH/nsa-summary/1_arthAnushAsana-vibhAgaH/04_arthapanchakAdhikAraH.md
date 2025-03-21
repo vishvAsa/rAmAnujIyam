@@ -82,7 +82,7 @@ Artha Panchakadhikara
 
 37
 
-'तेजोबलैश्चर्यमहावबोध सुवीर्यशक्त्यादि गुणैकराशिः' ।।
+'तेजोबलैश्चर्यमहावबोध सुवीर्यशक्त्यादि गुणैकराशिः' ॥
 
 He is the one repository of all auspicious qualities like Tejas, aos, tuf, gra, at, sila and others”. “Even if one has long life like the chaturmukha, and has one crore of mouths, and of pure devotional mind, he cannot even mention one thousandth part of his auspicious qualities'. (C) The Supreme Brahman should be thought of as
 
