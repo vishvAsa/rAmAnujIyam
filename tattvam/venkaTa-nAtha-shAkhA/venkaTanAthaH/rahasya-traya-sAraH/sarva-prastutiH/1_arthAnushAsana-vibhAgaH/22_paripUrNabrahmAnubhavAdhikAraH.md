@@ -68,6 +68,28 @@ Página 274
 **भजति** परमं साम्यं भोगे, +++(संसृतिम् प्रति)+++ निवृत्ति-कथोज्झितम् ॥ ४८ ॥
 </details>
 
+<details><summary>English</summary>
+
+Led by his guides (archis and others) to the Lord of Lakṣmī   
+who is possessed of varied glories in the region beyond tamas (i e.) prakṛti  
+and having attained Him,  
+the mukta has his essential nature in full manifestation  
+and realises his inseparable connection with the Lord  
+and as a consequence, acquires the eight attributes (of (freedom from sin and the like)  
+and without any question of his returning again (to saṁsāra ), he attains, in regard to enjoyment, perfect resemblance to the Lord.+++(4)+++
+</details>
+
+<details><summary>Español</summary>
+
+**Dirigido** por sus guías (Archis y otros) al Señor de Lakṣmī  
+a quien **se posee** de variadas glorias en la región más allá de los tamas (i e.) Prakṛti  
+y **habiendo alcanzado**,  
+El Mukta **tiene** su naturaleza esencial en manifestación completa  
+y **se da cuenta** de su conexión inseparable con el Señor  
+y como consecuencia, **adquiere** los ocho atributos (de (libertad del pecado y similares)  
+Y sin ninguna cuestión de su **regreso** nuevamente (a Saṁsāra), **alcanza**, con respecto al disfrute, el parecido perfecto con el Señor.+++(4)+++
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -77,16 +99,191 @@ Página 274
 भजति परमं साम्यं भोगे निवृत्तिकथोज्झितम् ॥ ४८ ॥
 </details>
 
-Led by his guides (archis and others) to the Lord of Lakṣmī  who is possessed of varied glories in the region beyond tamas (i e.) prakṛti  
-and having attained Him,  
-the mukta has his essential nature in full manifestation  
-and realises his inseparable connection with the Lord  
-and as a consequence, acquires the eight attributes (of (freedom from sin and the like)  
-and without any question of his returning again (to saṁsāra ), he attains, in regard to enjoyment, perfect resemblance to the Lord.
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि परमपदत्तैयडैन्द पिऱगु इवऩुक्कु वरुम् श्रेयस्सुक्कळै ऒरु श्लोकत्ताले यरुळिच्चॆय्गिऱार् वितमसीति । वितमसि – तमोगुणमिल्लाद। इदु रजोगुणमिल्लामैक्कुमुबलक्षणम्। 
+
+> ‘‘क्षयन्तमस्य रजसः पराके’’ 
+
+ऎऩ्ऱदिऱे श्रुत्यन्तरम्। पदे – ‘‘तमसः परस्तात्’’ ऎऩ्ऱु सॊऩ्ऩ परमपदत्तिले, इदऩाल् वैकुण्ठमॆऩ्गिऱ परमपदम् प्रकृतिमण्डलान्तर्गतमॆऩ्ऱु सॊल्लुगिऱ पक्षम् व्यावृत्तम्। विचित्रविभूतिकं – आश्चर्यावहङ्गळाऩ लीलाभोगविभूतिकळैयुडैय, इदऩाल् निर्विशेषब्रह्मभावमे मोक्षमॆऩ्ऩुम् पक्षम् व्यावृत्तम्, लक्ष्मीकान्तं – लक्ष्म्या अपि मनोहरऩाऩ भगवाऩै, इदऩाल् अर्चिराद्यातिवाहिकगणम् कार्यभूतऩाऩ चतुर्मुखऩैये अडैविप्पिक्किऱदु ऎऩ्ऱु कार्याधिकरणत्तिल्  
+‘‘कार्यं बादरिरस्य गत्य्-उपपत्तेः’’  
+ऎऩ्ऱु सॊऩ्ऩ बादरिपक्षव्यावृत्तिः । सचिवगमितः – भगवाऩुक्कु अन्तरङ्गर्गळाऩ आतिवाहिकर्गळाले अडैविक्कप्पट्ट प्रपन्नऩाऩ आत्मा, इदऩाल् अर्चिरादिपादार्थम् अनुवदिक्कप्पट्टदु। इऩि फलपादत्तिलुळ्ळ अधिकरणङ्गळिऩर्थत्तैक् क्रमेण सङ्ग्रहित्तुक् काट्टुगिऱार् सम्पद्याविर्भवत्सहजाकृतिरिति । सम्पद्य – परञ्ज्योतिस्साऩ भगवाऩै यडैन्दु, आविर्भवन्त्यः सहजाः आकृतयः – आकाराः यस्य सः – आविर्भवत्सहजाकृतिः । इङ्गु आविर्भावशब्दत्तालुम् सहजशब्दत्तालुम् अपहतपाप्मत्वाद्याकारङ्गळ् आगन्तुकङ्गळऩ्ऱॆऩ्ऱु सूचितम्। इदऩाल् 
+
+> ‘‘परञ्ज्योतिर् उपसम्पद्य  
+> स्वेन रूपेणाभिनिष्पद्यते’’ 
+
+ऎऩ्गिऱ श्रुत्यर्थमुम्, सम्पद्याविर्भावा-धिकरणार्थमुम् सूचितमागिऱदु। स्फुटतदपृथक्सिद्धिः – स्फुटः – प्रत्यक्ष विषयीकृतः, तदपृथक्सिद्धिर्येन, अन्द भगवाऩोडु पृथग्व्यपदेशानर्हमाऩ संश्लेषविशेषमाऩदु ऎवऩाले प्रत्यक्षीकरिक्कप् पट्टदो। इदऩाल् अविभागेन दृष्टत्वाधिकरणार्थम् सूचितम्। सिद्ध्यद्गुणाष्टकतत्फलः – सिद्ध्यन्ति गुणाष्टकतत्फलानि यस्य सिद्ध्यद्गुणाष्टकतत्फलः । गुणाष्टकानि अपहतपाप्मत्वादीनि । तत्फलानि 
+
+> ‘‘स एकधा भवति’’  
+> ‘‘जक्षत् क्रीडन् रममाणः’’  
+> ‘‘स यदि पितृ-लोक-कामो भवति’’ 
+
+इत्याद्युक्तानि । अत्र गुणाष्टकेत्यनेन 
+
+> ‘‘ब्राह्मेण जैमिनिर् उपन्यासादिभ्यः,  
+> चिति-तन्-मात्रेण तद्-आत्मकत्वाद् इत्य् औडुलोमिः,   
+> एवम् अप्य् उपन्यासात्  
+> पूर्वभावाद् अविरोधं बादरायणः’’ 
+
+ऎऩ्गिऱ सूत्रङ्गळिऩर्थम् सूचितम्।  
+तत्फलेत्यनेन सङ्कल्पाधिकरणार्थमुम्, 
+
+> ‘‘अभावं बादरिर् आह ह्य् एवं,  
+> भावं जैमिनिर् विकल्पामननात्,  
+> द्वादशाहवद् उभयविधं बादरायणोऽतः’’ 
+
+ऎऩ्गिऱ सूत्रङ्गळिऩर्थमुम् सूचिम्। निवृत्तिकथोज्झितं – पुनरपि संसारनिवृत्तिप्रस्तावमेयिल्लादबडि। इदऩाल् अनावृत्तिश्शब्दादनावृत्तिश्शब्दात् ऎऩ्गिऱ सूत्रत्तिऩर्थम् सूचितम्। भोगे – भगवदनुभवरूपमाऩ भोगमात्रत्तिले, इदऩाल् जगद्व्यापारवर्जाधिकरणार्थम् सूचितम्। परमं साम्यं – ब्रह्मत्तोडु परमसाम्यत्तै,
+
+> ‘‘तदा विद्वान् पुण्यपापे विधूय  
+> निरञ्जनः परमं साम्यम् उपैति’’ 
+
+ऎऩ्ऱु श्रुतियिल् सॊल्लप्पट्ट परमसाम्यत्तै, भजति - अडै किऱाऩॆऩ्गै।  
+</details>
+
+
+<details><summary>English</summary>
 
 THE NATURE OF THE BLISS OF BRAHMAN :
+</details>
 
-If it is asked what is this full and perfect enjoyment of Brahman by the mukta who has traversed the path (described before), the answer is as follows:- He will in all places, at all times, and in all situations, have, for his unsurpassed joys, the supreme Ruler with His countless forms, attributes, glories and activities without missing any of them. This is thus described (in the following verse):-- "She will never, in the least, miss (the sight of) Bhagavān whose eyes are as beautiful as the lotus and who is the Lord of the world." (Since the Lord enjoys His own forms, attributes, glories and activities Himself), there is perfect similarity between the mukta's enjoyment and the Lord's. Therefore (the śruti s) speak of perfect similarity.
+<details><summary>Español</summary>
+
+La naturaleza de la dicha de Brahman:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इग् गति-विशेषत्ताले सॆऩ्ऱ् अवऩ् उडैय  
+परिपूर्ण-ब्रह्मानुभवम् इरुक्कुम् बडिय् ऎङ्ङऩेय् ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अनेन गति-विशेषेण गतस्य परिपूर्ण-ब्रह्मानुभव-स्थिति-प्रकारः क  
+
+इति चेत् — 
+</details>
+
+
+<details><summary>English</summary>
+
+If it is asked what is this full and perfect enjoyment of Brahman  
+by the mukta who has traversed the path (described before),  
+the answer is as follows:- 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se pregunta** qué es este disfrute completo y perfecto de Brahman  
+por el mukta que ha **atravesado** el camino (descrito antes),  
+La **respuesta es** la siguiente:-
+</details>
+
+<details><summary>मूलम्</summary>
+
+इक् गतिविशेषत्ताले सॆऩ्ऱवऩुडैय परिपूर्णब्रह्मानुभवमिरुक्कुम्बडि यॆङ्ङऩेयॆऩ्ऩिल्; 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इऩि परिपूर्णब्रह्मानुभवप्रकारत्तैच् चॊल्लप्पोगिऱवराय् मुदलिल् तन्निरूपणाकाङ्क्षैयै प्रश्नपूर्वकमाग उण्डु पण्णुगिऱार् इग् गतिविशेषत्ताले इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'अऩैत्त् उलगुम् उडैयव् अरविन्द-लोचऩऩैत् तिऩैत्+++(=एकदेशम्)+++ तऩैयुम् **विडाळ्**'  
+> (तिरुवाय्मॊऴि ६-७-१२।) 
+
+इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “सर्व-लोक-स्वामिनम् अरविन्द-लोचनं क्षण-मात्रम् अपि **न त्यजति**" 
+
+इत्य्-उक्त-रीत्या
+</details>
+
+
+<details><summary>English</summary>
+
+This is thus described (in the following verse):-- 
+
+> "She will never, in the least,  
+> miss (the sight of) Bhagavān  
+> whose eyes are as beautiful as the lotus  
+> and who is the Lord of the world." 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **se describe** así (en el siguiente verso):-
+
+> "Ella nunca, en lo más mínimo,  
+> **perder** (la vista de) Bhagavān  
+> cuyos ojos **son** tan hermosos como el loto  
+> Y quién **es** el señor del mundo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'अऩैत्तुलगुमुडैयवरविन्दलोसऩ ऩैत्तिऩैत्तऩैयुम् विडाळ्'(तिरुवाय्मॊऴि ६-७-१२।) इत्यादिगळिऱ्पडिये 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अऩैत्तुलगुमि त्यादि । अऩैत्तुलगुमुडैय - उभयविभूतिविशिष्टऩाऩ, अरविन्दलोसऩऩै - तामरसपुष्पम् पोऩ्ऱ तिरुक्कण्गळैयुडैयवऩाऩ भगवाऩै, तिऩैत्तिऩैयुम् विडाळ् - तिऩै - एकदेशम्, एकदेशत्तैयुम् विडाळ्, भगवाऩै सर्वाङ्गविशिष्टऩागवे अनुभविप्पाळॆऩ्ऱबडि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-देश--सर्व-काल--सर्वावस्थैगळिलुम् सर्वेश्वरऩै  
+अनन्तङ्गळ् आऩ विग्रह-गुण-विभूति-चेष्टितङ्गळिल् ऒऩ्ऱुङ् **कुऱैयामे**  
+निरतिशय-भोग्यम् आग **विषयी-करित्तुक् कॊण्ड् इरुक्कुम्**। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-देश--सर्व-काल--सर्वावस्थासु सर्वेश्वरम्  
+अनन्त-विग्रह-गुण-विभूति-चेष्टितेषु एकेनाप्य् अन्यूनं  
+निरतिशय-भोग्यतया **विषयी-कुर्वन् वर्तेत** ।  
+</details>
+
+
+<details><summary>English</summary>
+
+He will in all places, at all times, and in all situations, have,  
+for his unsurpassed joys,  
+the supreme Ruler with His countless forms, attributes, glories and activities  
+without missing any of them. 
+</details>
+
+<details><summary>Español</summary>
+
+Él en todos los lugares, en todo momento, y en todas las situaciones, **tendrá**,  
+por sus alegrías sin igual,  
+El gobernante supremo con sus innumerables formas,  atributos, glorias y actividades  
+**sin perderse** ninguno de ellos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वदेश सर्वकाल सर्वावस्थैकळिलुम् सर्वेश्वरऩै अनन्तङ्गळाऩ विग्रहगुण विभूतिचेष्टितङ्गळिलॊऩ्ऱुङ्गुऱैयामे निरतिशयभोग्यमाग विषयीकरित्तुक्कॊण्डिरुक्कुम्। 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+इदै विवरिक्किऱार् सर्वदेशेत्यादिना । निरतिशयभोग्यमाग इति । काष्ठलोष्टादिगळैप्पोले उदासीनमाग विषयीकरिक्कैयऩ्ऱिक्के निरतिशयानुकूलमाग अनुभविप्पाऩॆऩ्ऱबडि। 
+</details>
+
+
+
+(Since the Lord enjoys His own forms, attributes, glories and activities Himself), there is perfect similarity between the mukta's enjoyment and the Lord's.  
+Therefore (the śruti s) speak of perfect similarity.
 
 The Lord's svarūpa is delightful as may be seen from the following passages. "He is all knowledge and all bliss". "The attainment of Bhagavān is a remedy for the disease of (saṁsāra). It is of the nature of joy which is unsurpassed and confers joy on others. It is an end in itself and lasts forever". Other things are enjoyable in this way: If the king is the queen's joy, then all objects and instruments of his enjoyment as well as the places where he finds delight are alike, objects of joy to her. Similarly the mukta finds joy in all that pertains to the Lord. That the Supreme Ruler who has all forms, attributes and the like is an object of enjoyment is evident from the śruti s and the smṛtis. This idea has been expressed in the section on Bhima in the Brahma Sūtras. The svarūpa of Bhagavān is called Paramapada, because it is the ultimate and supreme object of attainment being of unsurpassed agreeableness. Since the perfect enjoyment of the svarūpa of Bhagavān happens only after reaching a most delightful region far superior to all others, that region is also called Paramapada. The essential nature or svarūpa of the Jīva, which is the recipient of this joy in the attainment of Bhagavān which is also among the glorious possessions (Vibhūtis) of the Lord and which has, for its attributes, jñāna and ānanda, is also (sometimes ) called Paramapada. Along with the others, these three have, in common, only the feature of being the object of attainment.
 
