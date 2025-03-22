@@ -11,14 +11,6 @@ title = "०० गुरु-परंपरा-सारः"
 वेदान्ताचार्यवर्यो मे सन्निधत्तां सदा हृदि ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-०० श्रीगुरुपरंपरासारः  
-श्रीमते निगमान्तमहादेशिकाय नमः ॥  
-श्रीमान् वेङ्कटनाथार्यः कवितार्किककेसरी ।  
-वेदान्ताचार्यवर्यो मे सन्निधत्तां सदा हृदि ॥
-</details>
-
 <details><summary>English</summary>
 
 ŚRĪMADRAHASYATRAYASĀRAM
@@ -32,6 +24,16 @@ A BRIEF ACCOUNT OF THE SUCCESSION OF ĀCĀRYAS
 
 Una breve descripción de la sucesión de ācāryas
 </details>
+
+
+<details><summary>मूलम्</summary>
+
+०० श्रीगुरुपरंपरासारः  
+श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+श्रीमान् वेङ्कटनाथार्यः कवितार्किककेसरी ।  
+वेदान्ताचार्यवर्यो मे सन्निधत्तां सदा हृदि ॥
+</details>
+
 
 <div class="js_include" includetitle="false" newlevelforh1="5" url="/rAmAnujIyam/vyakti-shlokAdi/venkaTanAthaH/sIr-oNDru.md"> </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" url="/rAmAnujIyam/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md">

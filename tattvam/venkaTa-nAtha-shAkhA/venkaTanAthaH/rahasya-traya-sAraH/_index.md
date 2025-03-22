@@ -47,7 +47,8 @@ unicode_script = "devanagari"
 
 आङ्ग्लम् 
 
-- राजगोपालानुवादः
+- राजगोपालानुवादः Source: [TW](https://archive.org/details/rahasyatrayasaraofsrivedantadesikaengmrrajagopalaayyangar1946ocr)
+
 - अनन्त-रङ्गाचार्य-सारांशः - [१](https://archive.org/details/rahasyatrayaessenceofsrimadrahasyatrayasaramdrnsanantharangacharya2004/page/n145/mode/2up)
 
 हिन्दी
