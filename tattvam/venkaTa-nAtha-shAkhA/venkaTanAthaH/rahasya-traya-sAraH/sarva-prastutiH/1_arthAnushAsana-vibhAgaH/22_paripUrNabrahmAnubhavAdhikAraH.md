@@ -50,15 +50,24 @@ Página 274
 परिपूर्णब्रह्मानुभवाधिकारः ॥  
 </details>
 
-
+## सङ्गतिः
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-वितमसि पदे लक्ष्मीकान्तं विचित्रविभूतिकं  
-सचिवगमितस्संपद्याविर्भवत्सहजाकृतिः ।  
-स्फुटतदपृथक्सिद्धिस्सिद्ध्यद्गुणाष्टकतत्फलो  
-भजति परमं साम्यं भोगे निवृत्तिकथोज्झितम् ॥ ४८ ॥
+वितमसि पदे लक्ष्मी-कान्तं विचित्र-विभूतिकं  
+सचिव-**गमितस्** **संपद्याविर्-भवत्**-सहजाकृतिः ।  
+**स्फुट**-तद्--अ-पृथक्--सिद्धिस्, **सिद्ध्यद्**-गुणाष्टक-तत्-फलो  
+**भजति** परमं साम्यं भोगे, +++(संसृतिम् प्रति)+++ निवृत्ति-कथोज्झितम् ॥ ४८ ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+वितमसि पदे लक्ष्मी-कान्तं विचित्र-विभूतिकं  
+सचिव-**गमितस्** **संपद्याविर्-भवत्**-सहजाकृतिः ।  
+**स्फुट**-तद्--अ-पृथक्--सिद्धिस्, **सिद्ध्यद्**-गुणाष्टक-तत्-फलो  
+**भजति** परमं साम्यं भोगे, +++(संसृतिम् प्रति)+++ निवृत्ति-कथोज्झितम् ॥ ४८ ॥
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -68,7 +77,12 @@ Página 274
 भजति परमं साम्यं भोगे निवृत्तिकथोज्झितम् ॥ ४८ ॥
 </details>
 
-Led by his guides (archis and others) to the Lord of Lakṣmī  who is possessed of varied glories in the region beyond tamas (i e.) prakṛti and having attained Him, the mukta has his essential nature in full manifestation and realises his inseparable connection with the Lord and as a consequence, acquires the *eight attributes (of freedom from sin and the like. See page ) and without any question of his returning again (to saṁsāra ), he attains, in regard to enjoyment, perfect resemblance to the Lord.
+Led by his guides (archis and others) to the Lord of Lakṣmī  who is possessed of varied glories in the region beyond tamas (i e.) prakṛti  
+and having attained Him,  
+the mukta has his essential nature in full manifestation  
+and realises his inseparable connection with the Lord  
+and as a consequence, acquires the eight attributes (of (freedom from sin and the like)  
+and without any question of his returning again (to saṁsāra ), he attains, in regard to enjoyment, perfect resemblance to the Lord.
 
 THE NATURE OF THE BLISS OF BRAHMAN :
 
