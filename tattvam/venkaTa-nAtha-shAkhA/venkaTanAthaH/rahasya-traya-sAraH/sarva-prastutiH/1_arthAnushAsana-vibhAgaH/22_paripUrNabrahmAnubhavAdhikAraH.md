@@ -1002,13 +1002,13 @@ La **respuesta es** la siguiente:-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पित्तोपहतऩुक्कु प्रतिकूलम् आऩ पाल्  
-पित्तम् शमित्ताल् अनुकूलम् आम् आप्-पोल्-अवुम् 
+पित्तम् शमित्ताल् अनुकूलम् आम् आप्-पोल्-अवुम् +++(5)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 पित्तोपहतं प्रति प्रतिकूल-भूतस्य क्षीरस्य  
-पित्त-शमनानन्तरम् आनुकूल्यवत्  
+पित्त-शमनानन्तरम् आनुकूल्यवत् +++(5)+++ 
 </details>
 
 <details><summary>English</summary>
@@ -1029,10 +1029,250 @@ Lo que **parece desagradable** para el hombre que **padece** (exceso de) bilis
 पित्तोपहतऩुक्कु प्रतिकूलमाऩ पाल् पित्तम् शमित्तालनुकूलमामाप्पोलवुम् 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+बद्ध-दशैयिल् पदार्थङ्गळ्-उडैय स्वतस्-सिद्धानुकूल्यम् तोऩ्ऱामल् प्रातिकूल्यम् तोऱ्ऱुगैयिलुम्, अवऩुक्के मुक्तदशैयिल् स्वतस्सिद्धानुकूल्यम् तोऱ्ऱुगैयिलुम् दृष्टान्तमरुळिच्चॆय्गिऱार् पित्तोपहतऩुक्कु इत्यादिना । पित्तम् शमित्तालिति । इदऩाल् अवस्थान्तरम् द्योतितम्। 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Again when the prince is in the prison house it is disagreeable. But when the emperor is pleased to set him free and to place him by his own side to enjoy like- pleasures, the prison house may appear agreeable as a symbol of his father's glory, although it has not undergone any change. It is said in the Rāmāyana : --" To be with you is mokṣa for me; to be without you is hell to me;" again, "To me living without ŚrīRāma, the great warrior, in the midst of these Rākṣasis, of what use is life, or wealth, or ornaments?" In Tiruvoymozi 4-8 it is said :-"As the Lord does not care for me, it would not at all matter if I lost all that I would otherwise prize highly, viz., my beauty, my mind, my modesty, the sheen of my complexion, my intelligence, my charm, my bracelets, my girdle, my body and my very life." As illustrated in the passages cited above, the objects of this world (Līlā Vibhūti), which appear disagreeable or only slightly agreeable, when the jīva is not blessed with union with the Lord, may appear supremely agreeable, when he has become a mukta enjoying without intermission (the bliss of) Bhagavān. There is nothing inconsistent in this. The same object may be disagreeable or only slightly agreeable to a man bound to saṁsāra, while to one released from the bondage of karma, it is agreeable. This is the nature ordained for them by the will of God.
+सार्वभौमऩ् आऩ पिताविऩ्-उडैय सिऱैक् कूडम्  
+सिऱै किडक्किऱ राज-कुमारऩुक्कु  
+अप्-पोदु प्रतिकूलम् आय्  
+
+राजा सिऱैक्-कूडत्ति+++(न्=गृहात्)+++-ऩिऩ्ऱुम् पुऱप्-पड-विट्ट्  
+उगन्दु तुल्य-भोगऩ् आग वैत्तव् अळविल्  
+सिऱैक्-कूडम् आऩदु **कोप्पुक्+++(=व्यवस्थां)+++ कुलैयाद् इरुक्कच् चॆय्दे**  
+पिताविऩ् विभूतिय् ऎऩ्ऱ् **अनुकूलम् आमाप्** पोलवुम् +++(4)+++
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२७४]]  
+सार्वभौमस्य पितुः कारा-गृहस्य कारा-गृहस्थ राज-कूमारं प्रति  
+तदानीं प्रतिकूल-भूतस्य सतः  
+
+राज्ञि कारा-गृहान् निर्गमय्य  
+प्रीत्या तुल्यभोगतया स्थापितवति सति  
+
+कारा-गृह-संस्थानस्याविनष्टस्यैक सतः पितृ-विभूतित्व-बुद्ध्या ऽऽनुकूल्यवच् च, +++(4)+++
+</details>
+
+
+<details><summary>English</summary>
+
+Again when the prince is in the prison house it is disagreeable.  
+But when the emperor is pleased to set him free  
+and to place him by his own side to enjoy like-pleasures,  
+the prison house may appear agreeable  
+as a symbol of his father's glory,  
+although it has not undergone any change. 
+</details>
+
+<details><summary>Español</summary>
+
+Nuevamente, cuando el Príncipe está en la prisión, **es desagradable**.  
+Pero cuando el emperador **se complace** en **liberarlo**  
+y **colocarlo** a su lado para **disfrutar** de las placeres como él  
+La casa de la prisión **puede parecer agradable**  
+Como símbolo de la gloria de su padre,  
+aunque **no ha sufrido** ningún cambio.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सार्वभौमऩाऩ पिताविऩुडैय सिऱैक्कूडम् सिऱैगिडक्किऱ राजकुमारऩुक्कु अप्पोदु प्रतिकूलमाय् राजा सिऱैक्कूडत्तिऩिऩ्ऱुम् पुऱप्पडविट्टुगन्दु तुल्यभोगऩाग वैत्तवळविल् सिऱैक्कूडमाऩदु कोप्पुक् कुलैयादिरुक्कच् चॆय्दे पिताविऩ् विभूतियॆऩ्ऱनुकूलमामाप्पोलवुम्
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+शेषियाऩ भगवाऩुडैय विभूतिकळॆऩ्ऱु तोऩ्ऱाद पोदु प्रतिकूलङ्गळाऩ वस्तुक्कळॆल्लाम्, अन्द भगवाऩुडैय विभूतिकळॆऩ्ऱु तॆरिन्दाल् अनुकूलङ्गळामॆऩ्बदिल् द्वितीयदृष्टान्तत्तै अरुळिच्चॆय्गिऱार् सार्वभौमऩाऩ पिताविऩुडैय इत्यादिना । अप्पोदु - बन्धकत्वज्ञानदशायां, सिऱैक्कूड माऩदु कोप्पुक् कुलैयादिरुक्कच् चॆय्दे - बन्धकमाऩ सन्निवेशम् माऱामल् अप्पडियेयिरुक्कच्चॆय्दे। पिताविऩ् विभूतियॆऩ्ऱु - शेषियाऩ पिताविऩ् विभूतियॆऩ्गिऱ ऎण्णत्ताले। अनुकूलमामाप् पोलवुमिति । बन्धकत्वबुद्ध्या प्रतिकूल माऩवैये बन्धम् कऴिन्दवाऱे स्वशेषिविभूतित्वबुद्ध्या अनुकूलमागिऱाप्पोलवुमॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यस् त्वया सह स स्वर्गो  
+> निरयो यस् त्वया विना’’  
+> (रामायणम् अयोध्या-काण्डम् ३०-१८) +++(5)+++
+
+ऎऩ्ऱुम् 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यस् त्वया सह स स्वर्गो  
+> निरयो यस् त्वया विना’’  
+> (रामायणम् अयोध्या-काण्डम् ३०-१८) +++(5)+++
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+It is said in the Rāmāyana : --
+
+> "To be with you is mokṣa for me;  
+> to be without you is hell to me;" 
+</details>
+
+<details><summary>Español</summary>
+
+Se dice en el Rāmāyana: -
+
+> "**Estar contigo** es mokṣa para mí;  
+> **Estar sin ti** es el infierno para mí ";
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यस्त्वया सह स स्वर्गो निरयो यस्त्वया विना’’(रामायणम् अयोध्या-काण्डम् ३०-१८) ऎऩ्ऱुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न हि मे जीवितेनार्थो  
+> नैवार्थैर् न च भूषणैः ।  
+> **वसन्त्या** राक्षसी-मध्ये  
+> विना रामं महारथम्॥’’ +++(4)+++  
+> (रामायणम् सुन्दरकाण्डम् २६-५) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न हि मे जीवितेनार्थो  
+> नैवार्थैर् न च भूषणैः ।  
+> **वसन्त्या** राक्षसी-मध्ये  
+> विना रामं महारथम्॥’’ +++(4)+++  
+> (रामायणम् सुन्दरकाण्डम् २६-५) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+again, 
+
+> "To me living without Śrī Rāma, the great warrior, in the midst of these Rākṣasis,  
+> of what use is life, or wealth, or ornaments?" 
+</details>
+
+<details><summary>Español</summary>
+
+de nuevo,
+
+> "Para mí **viviendo** sin Śrī Rāma, el gran guerrero, en medio de estos rākṣasis,  
+> ¿De qué sirve la **vida**, la riqueza o los adornos? "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न हि मे जीवितेनार्थो नैवार्थैर्न च भूषणैः । वसन्त्या-राक्षसीमध्ये विनारामं महारथम्’’(रामायणम् सुन्दरकाण्डम् २६-५) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"एऱ्+++(=वृषभ)+++ आळुम् इऱैयोऩ्+++(=ईश्वर)+++"-इलुञ् जॊल्लुगिऱ बडिये
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"वृषभ नियामकेनेश्वरेण” (इति दशके च) इत्य्-उक्त-रीत्या
+</details>
+
+
+<details><summary>English</summary>
+
+In Tiruvoymozi 4-8 it is said :-
+
+> "As the Lord does not care for me,  
+> it would not at all matter if I lost all that I would otherwise prize highly,  
+> viz., my beauty, my mind, my modesty, the sheen of my complexion, my intelligence, my charm, my bracelets, my girdle, my body and my very life." 
+</details>
+
+<details><summary>Español</summary>
+
+En Tiruvoymozi 4-8 **se dice**:-
+
+> "Como el Señor **no me importa**,  
+> **No importaría** en absoluto si **perdiera** todo lo que de otra manera premiaría,  
+> a saber - mi belleza, mi mente, mi modestia, el brillo de mi tez, mi inteligencia, mi encanto, mis pulseras, mi faja, mi cuerpo y mi propia vida ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एऱाळुमिऱैयोऩिलुञ्जॊल्लुगिऱबडिये
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-संश्लेषम् इऩ्ऱिक्के ताऩ् निऩ्ऱ बोदु  
+कर्मानुरूपम् आगत् तऩक्कु  
+प्रतिकूलम् आयुम् अल्पानुकूलम् आयुन् तोऱ्ऱिऩ लीला-विभूतियिल् पदार्थङ्गळ्  
+मुक्तऩ् आय् निरन्तर-भगवद्-अनुभवम् पण्णुगिऱ्-अवऩुक्कु  
+निरतिशय-भोग्य-वर्गत्तिले सॊरुगैय्+++(=तिरोधानम्)+++ उपपन्नम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवत्-संश्लेष-राहित्येन स्वस्य स्थिति-काले  
+कर्मानुरूपं स्वस्य प्रतिकूलतया ऽल्पानुकूलतया च प्रतीतानां लीला-विभृति-स्थ-पदार्थानां  
+
+मुक्तं संपन्नं निरतिशय-भगवद्-अनुभवं कुर्वाणं प्रति  
+निरतिशय-भोग्य-वर्गे ऽन्तर्भावः उपपन्नः । 
+</details>
+
+<details><summary>English</summary>
+
+As illustrated in the passages cited above,  
+the objects of this world (Līlā Vibhūti),  
+which appear disagreeable or only slightly agreeable,  
+when the jīva is not blessed with union with the Lord,  
+
+may appear supremely agreeable,  
+when he has become a mukta enjoying without intermission (the bliss of) Bhagavān. 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se ilustra** en los pasajes citados anteriormente,  
+Los objetos de este mundo (līlā vibhūti),  
+que **parecen** desagradables o solo un poco agradables,  
+Cuando el Jīva **no es bendecido** con la unión con el Señor,  
+
+**puede parecer** supremamente agradable,  
+Cuando **se ha convertido** en un Mukta **disfrutando** sin intermedio (la dicha de) Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवत्संश्लेषमिऩ्ऱिक्के ताऩ् निऩ्ऱबोदु कर्मानुरूपमागत् तऩक्कु प्रतिकूलमायुमल्पानुकूलमायुन्दोऱ्ऱिऩ लीलाविभूतियिल् पदार्थङ्गळ् मुक्तऩाय् निरन्तरभगवदनुभवम् पण्णुगिऱवऩुक्कु निरतिशयभोग्यवर्गत्तिले सॊरुगैयुपपन्नम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+दार्ष्टान्तिकत्तै उपपादिक्किऱार् भगवत्संश्लेषमिऩ्ऱिक्के ताऩ् निऩ्ऱबोदु इत्यादिना । इदऩाल् दार्ष्टान्तिकत्तिल् राजगुमारऩुक्कु कारागृहत्तिल् स्वपितृविभूतित्वज्ञानमिल्लाद दशै सूचितम्। कारागृह विशेष्यकराजविभूतित्वज्ञानमे राजगुमारऩुक्कुम् राजाविऱ्कुम् संश्लेषमॆऩ्ऱु करुत्तु। कर्मानुरूपमाग - ताऩ् पण्णिऩ पुण्यपापानुरूपमाग। दृष्टान्तत्तिल् ताऩ् पण्णिऩ कुऱ्ऱत्तिऱ्कनुरूपमाग। पदार्थङ्गळिति । दृष्टान्तत्तिल् कारागृहम् विवक्षितम्। मुक्तऩाय् - सर्वबन्धविनिर्मक्तऩाय्, दृष्टान्तत्तिल् कारागृहविनिर्मुक्तऩाय् निरन्तरभगवदनुभवम् पण्णुगिऱवऩुक्कु - निरन्तरभगवदनुभवरूपभगवत्संश्लेषम् पॆऱ्ऱवऩुक्कु। दृष्टान्तत्तिल् पितृविभूतित्वज्ञानमुळ्ळवऩुक्कु। निरतिशयभोग्यवर्गत्तिले सॊरुगैयुपपन्नमिति । कर्ममिल्लामैयालुम् उभयविभूतिविशिष्टऩाऩ भगवाऩै निरन्तरमनुभविक्कैयालुम् विभूतिसामान्यत्तिल् भगवदीयत्वबुद्धियाऩदु निरन्तरमाग इरुप्पदालुम् मुऩ्बु प्रतिकूलङ्गळाय्त् तोऱ्ऱिऩ वस्तुक्कळॆल्लाम् निरतिशयभोग्यङ्गळागुगै मिगवुम् उपपन्नमॆऩ्ऱु करुत्तु। 
+</details>
+
+आ
+
+
+There is nothing inconsistent in this. The same object may be disagreeable or only slightly agreeable to a man bound to saṁsāra, while to one released from the bondage of karma, it is agreeable. This is the nature ordained for them by the will of God.
 
 That Bhagavān, the Lord of Śrī, who has, for his prakāra or mode, all things whose agreeableness is dependent on His will, is the goal of attainment is implicit in the words in the dative or fourth case (Nārāyaṇāya) in Tirumantra and in Dvaya. The service referred to before is the overflow of love born of the perfect enjoyment of Brahman and the Bhāṣyakāra has explained it in several places in the (Śaraṇāgati Gadya ).
 
