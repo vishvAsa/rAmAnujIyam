@@ -1464,11 +1464,159 @@ FULL AND PERFECT ENJOYMENT OF BHAGAVĀN OVERFLOWS INTO KAIÑKARYA OR SERVICE.
 **se desborda** en Kaiñkarya o servicio.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्त-दशैयिल् श्रुति-सिद्धम् आऩ जक्षणादिगळुम्  
+ज्ञात्यादि-संपादनङ्गळुम् ऎल्लाम्  
+पुण्य-पाप-रूप--कर्म-निरपेक्ष--  
+भगवद्-इच्छाऽनुगुण-स्वेच्छा-मूलङ्गळ् आगैयाले  
+कर्म-फलम् अऩ्ऱिक्के अनुभव-परीवाहम् आऩ केवल-कैङ्कर्यत्तिले अन्तर्भूतङ्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[१७९]] 
+
+मुक्त-दशायां श्रुति-सिद्धानि जक्षणादीनि  
+ज्ञात्य्-आदि-संपादनानि सर्वाणि  
+पुण्य-पाप-कर्म-निरपेक्ष--भगवद्-इच्छानुगुण--स्वेच्छा-मूलकत्वाद्  
+अ-कर्म-फलानि  
+अनुभव-परीवाह-रूपे केवल-कैङ्कर्ये अन्तर्भूतानि । 
+</details>
 
 
-( It is said in the śrutis that the mukta eats whatever he wants and can create whichever relations he wants). The enjoyment of food in the state of mukti and the contact with relations and the like are not due to karma, whether puṇya or papa, but are dependent only on the will of the mukta which is (always ) in accordance with the will of Bhagavān. Therefore they are not the consequences or fruits of karma, but fall into the category of pure service which is the overflow of the perfect enjoyment of Brahman. Thus the ultimate goal of attainment is the full and perfect enjoyment of Brahman which extends also to those services that are desired by the mukta. When this experience has once been attained, it never afterwards ceases and this my be seen from the following passages :
 
-“The place from which the man who has meditated on Brahman never returns- that place is attained by him (the prapanna)"; again, “Those great souls who have attained the highest reach me and are never afterwards born in saṁsāra, which is the abode of suffering and is ever-chaṅgīng. All the worlds including that of Brahma are places, O Arjuna, from which souls return to saṁsāra. But the soul that has attained me, is, O Son of Kunti, never born again.", and further "When the man who has become dissociated from all contact with prakṛti has seen Brahman who is the 26th real, he will never be born again, because he has attained all that has to be attained.", and also "The heavenly bodies like the moon and the sun (the presiding deities that govern them) are born again in saṁsāra (after reaching their high positions). But those who meditate on Bhagavān with the mantra[^60] * of twelve syllables never come back to saṁsāra.
+<details><summary>English</summary>
+
+( It is said in the śrutis that the mukta eats whatever he wants  
+and can create whichever relations he wants).  
+The enjoyment of food in the state of mukti  
+and the contact with relations and the like  
+are not due to karma, whether puṇya or papa,  
+but are dependent only on the will of the mukta  
+which is (always ) in accordance with the will of Bhagavān. 
+
+Therefore they are not the consequences or fruits of karma,  
+but fall into the category of pure service  
+which is the overflow of the perfect enjoyment of Brahman.  
+</details>
+
+<details><summary>Español</summary>
+
+(**Se dice** en el Śrutis que el Mukta  
+**come** lo que quiera  
+y **puede crear** las relaciones que **desee**).  
+El **disfrute** de la comida en el estado de Mukti  
+y el **contacto** con las relaciones y similares  
+**no se deben** al karma, ya sea Puṇya o papá,  
+pero solo **dependen** de la voluntad del mukta  
+que es (siempre) de **acuerdo** con la voluntad de Bhagavān.
+
+Por lo tanto, **no son** las consecuencias o frutos del karma,  
+pero **cae** en la categoría de servicio puro  
+que **es** el **desbordamiento** del **disfrute** perfecto de Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुक्तदशैयिल् श्रुतिसिद्धमाऩ जक्षणादिगळुम् ज्ञात्यादिसंपादनङ्गळुमॆल्लाम् पुण्यपापरूपकर्मनिरपेक्षभगवदिच्छानुगुण स्वेच्छामूलङ्गळागैयाले कर्मफलमऩ्ऱिक्के अनुभवपरीवाहमाऩ केवलकैङ्कर्यत्तिले अन्तर्भूतङ्गळ्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+श्रुतियिल् ब्रह्मसम्पत्त्यनन्तरम् 
+
+> जक्षन् क्रीडन् रममाणः  
+> स्त्रीभिर् वा यानैर् वा  
+
+> स यदि पितृलोककामो भवति  
+> सङ्कल्पाद् एवास्य पितरस् समुत्तिष्ठन्ति 
+
+ऎऩ्ऱु जक्षणादि-बहु-कृत्यङ्गळ् सॊल्लिय् इरुक्क कैङ्कर्यम्  
+ऒऩ्ऱु दाऩ् भगवत्-प्राप्तियिऩ् कार्यम्  
+ऎऩ्ऱु सॊल्वदु युक्तमागुमो  
+
+ऎऩ्गिऱ शङ्गैयैप् परिहरिक्किऱार् मुक्तदशैयिलित्यादिना । सम्पादनङ्गळुमॆल्लामित्यन्तम् शङ्कोत्थापकम्। कर्मफल मऩ्ऱिक्के अनुभवपरीवाहमाऩ इत्यादि । श्रुतियिल् सर्वकर्मविनिर्मोकपूर्वकम् ब्रह्मसम्पत्तियैच् चॊल्लि, तत्फलमाग परितः ब्रह्मानुभवत्तैच् चॊल्लि, तदुपरि जक्षणादिगळैच् चॊल्लियिरुप्पदाल् इवैगळ् पुण्यपापकर्मजन्यङ्गळॆऩ्ऱु सॊल्वदु उसिदमागादागैयाल् भगवदिच्छानुगुणमाऩ स्वेच्छाकार्यङ्गळागवुम् भगवदनुभवकार्यङ्गळाऩ कैङ्कर्यङ्गळागवुमे ऒप्पुक् कॊळ्ळवेण्डुमागैयाल् भगवदनुभवपरीवाहमाऩ कैङ्कर्यमे भगवत्प्राप्तिफलमॆऩ्ऱु सॊल्लत् तट्टिल्लैयॆऩ्ऱु करुत्तु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् **प्राप्तिय् आयिऱ्ऱदु**  
+यथाऽभिमत-कैङ्कर्य-पर्यन्त--परिपूर्ण-ब्रह्मानुभवम्  
+ऎऩ्ऱद् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+Thus the ultimate goal of attainment is the full and perfect enjoyment of Brahman  
+which extends also to those services that are desired by the mukta. 
+</details>
+
+<details><summary>Español</summary>
+
+Así, el objetivo final de **logro** es el disfrute completo y perfecto de Brahman
+que también **se extiende** a aquellos servicios que desean el Mukta.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् प्राप्तियायिऱ्ऱदु यथाभिमतकैङ्कर्यपर्यन्तपरिपूर्णब्रह्मानुभवमॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इवऱ्ऱाल् फलित्तवर्थत्तै निष्कर्षिक्किऱार् आगैयालित्यादिना । प्राप्तियायऱ्ऱदु - भगवत्प्राप्तियाग निर्णयिक्कप्पट्टदु। यथाभिमतेति । कैङ्कर्यपर्यन्त - कैङ्गर्यत्तै फलमाग उडैय, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अनुभवम् उण्डाऩाल्  
+पिऩ्ब् ऒरु कालत्तिलुम् अऴियाद्  
+ऎऩ्ऩुम् इडम् 
+</details>
+
+<details><summary>English</summary>
+
+When this experience has once been attained,  
+it never afterwards ceases  
+and this my be seen from the following passages :
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se ha alcanzado** esta experiencia,  
+nunca después **cesa**  
+Y esto **es visto** de los siguientes pasajes:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वनुभवमुण्डाऩाल् पिऩ्बॊरु कालत्तिलुमऴियादॆऩ्ऩुमिडम् 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इदु कर्मफलम् पोलऩ्ऱिक्के नित्यमॆऩ्गिऱार् इव्वनुभवमुण्डाऩालित्यादिना । 
+</details>
+
+
+
+
+
+
+
+
+“The place from which the man who has meditated on Brahman never returns-  
+that place is attained by him (the prapanna)"; 
+
+again, 
+
+“Those great souls who have attained the highest reach me and are never afterwards born in saṁsāra, which is the abode of suffering and is ever-chaṅgīng. All the worlds including that of Brahma are places, O Arjuna, from which souls return to saṁsāra. But the soul that has attained me, is, O Son of Kunti, never born again.", and further "When the man who has become dissociated from all contact with prakṛti has seen Brahman who is the 26th real, he will never be born again, because he has attained all that has to be attained.", and also "The heavenly bodies like the moon and the sun (the presiding deities that govern them) are born again in saṁsāra (after reaching their high positions). But those who meditate on Bhagavān with the mantra[^60] * of twelve syllables never come back to saṁsāra.
 
 [^60]: Namo Bhagavate Vasudevaya: with Om (or aum) preceding it.
 
