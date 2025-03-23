@@ -1002,7 +1002,25 @@ La **respuesta es** la siguiente:-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पित्तोपहतऩुक्कु प्रतिकूलम् आऩ पाल्  
-पित्तम् शमित्ताल् अनुकूलम् आम् आप्-पोल्-अवुम् 
+पित्तम् शमित्ताल् अनुकूलम् आम् आप्-पोल्-अवुम् +++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पित्तोपहतं प्रति प्रतिकूल-भूतस्य क्षीरस्य  
+पित्त-शमनानन्तरम् आनुकूल्यवत् +++(5)+++ 
+</details>
+
+<details><summary>English</summary>
+
+What appears disagreeable to the man suffering from (excess of) bile  
+is felt as agreeable when the bile has decreased.  
+</details>
+
+<details><summary>Español</summary>
+
+Lo que **parece desagradable** para el hombre que **padece** (exceso de) bilis  
+**se siente** tan agradable cuando la bilis ha **disminuido**.  
 </details>
 
 
@@ -1011,19 +1029,594 @@ La **respuesta es** la siguiente:-
 पित्तोपहतऩुक्कु प्रतिकूलमाऩ पाल् पित्तम् शमित्तालनुकूलमामाप्पोलवुम् 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+बद्ध-दशैयिल् पदार्थङ्गळ्-उडैय स्वतस्-सिद्धानुकूल्यम् तोऩ्ऱामल् प्रातिकूल्यम् तोऱ्ऱुगैयिलुम्, अवऩुक्के मुक्तदशैयिल् स्वतस्सिद्धानुकूल्यम् तोऱ्ऱुगैयिलुम् दृष्टान्तमरुळिच्चॆय्गिऱार् पित्तोपहतऩुक्कु इत्यादिना । पित्तम् शमित्तालिति । इदऩाल् अवस्थान्तरम् द्योतितम्। 
+</details>
 
 
-What appears disagreeable to the man suffering from (excess of) bile is felt as agreeable when the bile has decreased. Again when the prince is in the prison house it is disagreeable. But when the emperor is pleased to set him free and to place him by his own side to enjoy like- pleasures, the prison house may appear agreeable as a symbol of his father's glory, although it has not undergone any change. It is said in the Rāmāyana : --" To be with you is mokṣa for me; to be without you is hell to me;" again, "To me living without ŚrīRāma, the great warrior, in the midst of these Rākṣasis, of what use is life, or wealth, or ornaments?" In Tiruvoymozi 4-8 it is said :-"As the Lord does not care for me, it would not at all matter if I lost all that I would otherwise prize highly, viz., my beauty, my mind, my modesty, the sheen of my complexion, my intelligence, my charm, my bracelets, my girdle, my body and my very life." As illustrated in the passages cited above, the objects of this world (Līlā Vibhūti), which appear disagreeable or only slightly agreeable, when the jīva is not blessed with union with the Lord, may appear supremely agreeable, when he has become a mukta enjoying without intermission (the bliss of) Bhagavān. There is nothing inconsistent in this. The same object may be disagreeable or only slightly agreeable to a man bound to saṁsāra, while to one released from the bondage of karma, it is agreeable. This is the nature ordained for them by the will of God.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-That Bhagavān, the Lord of Śrī, who has, for his prakāra or mode, all things whose agreeableness is dependent on His will, is the goal of attainment is implicit in the words in the dative or fourth case (Nārāyaṇāya) in Tirumantra and in Dvaya. The service referred to before is the overflow of love born of the perfect enjoyment of Brahman and the Bhāṣyakāra has explained it in several places in the (Śaraṇāgati Gadya ).
+सार्वभौमऩ् आऩ पिताविऩ्-उडैय सिऱैक् कूडम्  
+सिऱै किडक्किऱ राज-कुमारऩुक्कु  
+अप्-पोदु प्रतिकूलम् आय्  
 
-FULL AND PERFECT ENJOYMENT OF BHAGAVĀN
+राजा सिऱैक्-कूडत्ति+++(न्=गृहात्)+++-ऩिऩ्ऱुम् पुऱप्-पड-विट्ट्  
+उगन्दु तुल्य-भोगऩ् आग वैत्तव् अळविल्  
+सिऱैक्-कूडम् आऩदु **कोप्पुक्+++(=व्यवस्थां)+++ कुलैयाद् इरुक्कच् चॆय्दे**  
+पिताविऩ् विभूतिय् ऎऩ्ऱ् **अनुकूलम् आमाप्** पोलवुम् +++(4)+++
+</details>
 
-OVERFLOWS INTO KAIÑKARYA OR SERVICE.
 
-( It is said in the śrutis that the mukta eats whatever he wants and can create whichever relations he wants). The enjoyment of food in the state of mukti and the contact with relations and the like are not due to karma, whether puṇya or papa, but are dependent only on the will of the mukta which is (always ) in accordance with the will of Bhagavān. Therefore they are not the consequences or fruits of karma, but fall into the category of pure service which is the overflow of the perfect enjoyment of Brahman. Thus the ultimate goal of attainment is the full and perfect enjoyment of Brahman which extends also to those services that are desired by the mukta. When this experience has once been attained, it never afterwards ceases and this my be seen from the following passages :
+<details><summary>नीलमेघः (सं)</summary>
 
-“The place from which the man who has meditated on Brahman never returns- that place is attained by him (the prapanna)"; again, “Those great souls who have attained the highest reach me and are never afterwards born in saṁsāra, which is the abode of suffering and is ever-chaṅgīng. All the worlds including that of Brahma are places, O Arjuna, from which souls return to saṁsāra. But the soul that has attained me, is, O Son of Kunti, never born again.", and further "When the man who has become dissociated from all contact with prakṛti has seen Brahman who is the 26th real, he will never be born again, because he has attained all that has to be attained.", and also "The heavenly bodies like the moon and the sun (the presiding deities that govern them) are born again in saṁsāra (after reaching their high positions). But those who meditate on Bhagavān with the mantra[^60] * of twelve syllables never come back to saṁsāra.
+[[२७४]]  
+सार्वभौमस्य पितुः कारा-गृहस्य कारा-गृहस्थ राज-कूमारं प्रति  
+तदानीं प्रतिकूल-भूतस्य सतः  
+
+राज्ञि कारा-गृहान् निर्गमय्य  
+प्रीत्या तुल्यभोगतया स्थापितवति सति  
+
+कारा-गृह-संस्थानस्याविनष्टस्यैक सतः पितृ-विभूतित्व-बुद्ध्या ऽऽनुकूल्यवच् च, +++(4)+++
+</details>
+
+
+<details><summary>English</summary>
+
+Again when the prince is in the prison house it is disagreeable.  
+But when the emperor is pleased to set him free  
+and to place him by his own side to enjoy like-pleasures,  
+the prison house may appear agreeable  
+as a symbol of his father's glory,  
+although it has not undergone any change. 
+</details>
+
+<details><summary>Español</summary>
+
+Nuevamente, cuando el Príncipe está en la prisión, **es desagradable**.  
+Pero cuando el emperador **se complace** en **liberarlo**  
+y **colocarlo** a su lado para **disfrutar** de las placeres como él  
+La casa de la prisión **puede parecer agradable**  
+Como símbolo de la gloria de su padre,  
+aunque **no ha sufrido** ningún cambio.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सार्वभौमऩाऩ पिताविऩुडैय सिऱैक्कूडम् सिऱैगिडक्किऱ राजकुमारऩुक्कु अप्पोदु प्रतिकूलमाय् राजा सिऱैक्कूडत्तिऩिऩ्ऱुम् पुऱप्पडविट्टुगन्दु तुल्यभोगऩाग वैत्तवळविल् सिऱैक्कूडमाऩदु कोप्पुक् कुलैयादिरुक्कच् चॆय्दे पिताविऩ् विभूतियॆऩ्ऱनुकूलमामाप्पोलवुम्
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+शेषियाऩ भगवाऩुडैय विभूतिकळॆऩ्ऱु तोऩ्ऱाद पोदु प्रतिकूलङ्गळाऩ वस्तुक्कळॆल्लाम्, अन्द भगवाऩुडैय विभूतिकळॆऩ्ऱु तॆरिन्दाल् अनुकूलङ्गळामॆऩ्बदिल् द्वितीयदृष्टान्तत्तै अरुळिच्चॆय्गिऱार् सार्वभौमऩाऩ पिताविऩुडैय इत्यादिना । अप्पोदु - बन्धकत्वज्ञानदशायां, सिऱैक्कूड माऩदु कोप्पुक् कुलैयादिरुक्कच् चॆय्दे - बन्धकमाऩ सन्निवेशम् माऱामल् अप्पडियेयिरुक्कच्चॆय्दे। पिताविऩ् विभूतियॆऩ्ऱु - शेषियाऩ पिताविऩ् विभूतियॆऩ्गिऱ ऎण्णत्ताले। अनुकूलमामाप् पोलवुमिति । बन्धकत्वबुद्ध्या प्रतिकूल माऩवैये बन्धम् कऴिन्दवाऱे स्वशेषिविभूतित्वबुद्ध्या अनुकूलमागिऱाप्पोलवुमॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यस् त्वया सह स स्वर्गो  
+> निरयो यस् त्वया विना’’  
+> (रामायणम् अयोध्या-काण्डम् ३०-१८) +++(5)+++
+
+ऎऩ्ऱुम् 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यस् त्वया सह स स्वर्गो  
+> निरयो यस् त्वया विना’’  
+> (रामायणम् अयोध्या-काण्डम् ३०-१८) +++(5)+++
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+It is said in the Rāmāyana : --
+
+> "To be with you is mokṣa for me;  
+> to be without you is hell to me;" 
+</details>
+
+<details><summary>Español</summary>
+
+Se dice en el Rāmāyana: -
+
+> "**Estar contigo** es mokṣa para mí;  
+> **Estar sin ti** es el infierno para mí ";
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यस्त्वया सह स स्वर्गो निरयो यस्त्वया विना’’(रामायणम् अयोध्या-काण्डम् ३०-१८) ऎऩ्ऱुम् 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि भगवत्सम्बन्धिकळाऩ पदार्थङ्गळै अनुकूलङ्गळायुम्, भगवत्सम्बन्धिकळल्लाद पदार्थङ्गळै प्रतिकूलङ्गळागवुम् ऎण्णिऩार्गळुण्डोवॆऩ्ऩ अदिल् प्रमाणमरुळिच्चॆय्गिऱार् यस्त्वयेति । इदु रामायणत्तिल् लक्ष्मणवचनम्। ओ रामऩे ! यः - ऎन्द देसमाऩदु, त्वया सह - उम्मोडु सेर्न्ददाग आगुमो, अदावदु तेवरीर् ऎन्द तेसत्तिल् ऎऴुन्दरुळियिरुक्किऩ्ऱदो, स स्वर्गः - अदु ऎव्वळवु जघन्यमाऩालुम् ऎऩक्कु स्वर्गतुल्यमागुम्। यो देशः - ऎन्द तेसमाऩदु, त्वया विना - उम्मैप् पिरिन्ददागुमो; अदावदु उम्मुडैय सान्निद्ध्यत्तैप् पॆऱाददो, सः निरयः – अदु सर्वोत्कृष्टमाऩालुम् ऎऩक्कु नरकतुल्यमे ऎऩ्गै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न हि मे जीवितेनार्थो  
+> नैवार्थैर् न च भूषणैः ।  
+> **वसन्त्या** राक्षसी-मध्ये  
+> विना रामं महारथम्॥’’ +++(4)+++  
+> (रामायणम् सुन्दरकाण्डम् २६-५) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न हि मे जीवितेनार्थो  
+> नैवार्थैर् न च भूषणैः ।  
+> **वसन्त्या** राक्षसी-मध्ये  
+> विना रामं महारथम्॥’’ +++(4)+++  
+> (रामायणम् सुन्दरकाण्डम् २६-५) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+again, 
+
+> "To me living without Śrī Rāma, the great warrior, in the midst of these Rākṣasis,  
+> of what use is life, or wealth, or ornaments?" 
+</details>
+
+<details><summary>Español</summary>
+
+de nuevo,
+
+> "Para mí **viviendo** sin Śrī Rāma, el gran guerrero, en medio de estos rākṣasis,  
+> ¿De qué sirve la **vida**, la riqueza o los adornos? "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न हि मे जीवितेनार्थो नैवार्थैर्न च भूषणैः । वसन्त्या-राक्षसीमध्ये विनारामं महारथम्’’(रामायणम् सुन्दरकाण्डम् २६-५) ऎऩ्ऱुम्, 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+न हीति । जीवितेन नह्यर्थः - अरुमन्द प्राणऩाऩालुम् प्रयोजनमिल्लै। नैवार्थैरिति । रामसम्बन्धमिल्लाविडिल् अनुकूलङ्गळॆल्लाम् प्रतिकूलङ्गळामॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"एऱ्+++(=वृषभ)+++ आळुम् इऱैयोऩ्+++(=ईश्वर)+++"-इलुञ् जॊल्लुगिऱ बडिये
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"वृषभ नियामकेनेश्वरेण” (इति दशके च) इत्य्-उक्त-रीत्या
+</details>
+
+
+<details><summary>English</summary>
+
+In Tiruvoymozi 4-8 it is said :-
+
+> "As the Lord does not care for me,  
+> it would not at all matter if I lost all that I would otherwise prize highly,  
+> viz., my beauty, my mind, my modesty, the sheen of my complexion, my intelligence, my charm, my bracelets, my girdle, my body and my very life." 
+</details>
+
+<details><summary>Español</summary>
+
+En Tiruvoymozi 4-8 **se dice**:-
+
+> "Como el Señor **no me importa**,  
+> **No importaría** en absoluto si **perdiera** todo lo que de otra manera premiaría,  
+> a saber - mi belleza, mi mente, mi modestia, el brillo de mi tez, mi inteligencia, mi encanto, mis pulseras, mi faja, mi cuerpo y mi propia vida ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एऱाळुमिऱैयोऩिलुञ्जॊल्लुगिऱबडिये
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+एऱाळुमिऱैयोऩिलुञ्जॊल्लुगिऱबडिये - तिरुवाय्मॊऴि नाऩ्गावदु पत्तु ऎट्टावदु तिरुवाय्मॊऴियिल् सॊल्लुगिऱ प्रकारम्।  
+इदिल् मुदल् पाट्टिल्  
+मामायऩ्गवराद मणिमामै कुऱैविलमे ऎऩ्ऱुम्,  
+इरण्डावदिल् मणि मायऩ् कवराद मडनॆञ्जाल् कुऱैविलमे ऎऩ्ऱुम्,  
+इप्पडिये मेलुळ्ळबाट्टुक्कळिलुम्,  
+भगवत्सम्बन्धम् इल्लाद भोग्यङ्गळिल् अपेक्षैय् इल्लैय्  
+ऎऩ्ऱु सॊल्लप् पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-संश्लेषम् इऩ्ऱिक्के ताऩ् निऩ्ऱ बोदु  
+कर्मानुरूपम् आगत् तऩक्कु  
+प्रतिकूलम् आयुम् अल्पानुकूलम् आयुन् तोऱ्ऱिऩ लीला-विभूतियिल् पदार्थङ्गळ्  
+मुक्तऩ् आय् निरन्तर-भगवद्-अनुभवम् पण्णुगिऱ्-अवऩुक्कु  
+निरतिशय-भोग्य-वर्गत्तिले सॊरुगैय्+++(=तिरोधानम्)+++ उपपन्नम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवत्-संश्लेष-राहित्येन स्वस्य स्थिति-काले  
+कर्मानुरूपं स्वस्य प्रतिकूलतया ऽल्पानुकूलतया च प्रतीतानां लीला-विभृति-स्थ-पदार्थानां  
+
+मुक्तं संपन्नं निरतिशय-भगवद्-अनुभवं कुर्वाणं प्रति  
+निरतिशय-भोग्य-वर्गे ऽन्तर्भावः उपपन्नः । 
+</details>
+
+<details><summary>English</summary>
+
+As illustrated in the passages cited above,  
+the objects of this world (Līlā Vibhūti),  
+which appear disagreeable or only slightly agreeable,  
+when the jīva is not blessed with union with the Lord,  
+
+may appear supremely agreeable,  
+when he has become a mukta enjoying without intermission (the bliss of) Bhagavān. 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se ilustra** en los pasajes citados anteriormente,  
+Los objetos de este mundo (līlā vibhūti),  
+que **parecen** desagradables o solo un poco agradables,  
+Cuando el Jīva **no es bendecido** con la unión con el Señor,  
+
+**puede parecer** supremamente agradable,  
+Cuando **se ha convertido** en un Mukta **disfrutando** sin intermedio (la dicha de) Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवत्संश्लेषमिऩ्ऱिक्के ताऩ् निऩ्ऱबोदु कर्मानुरूपमागत् तऩक्कु प्रतिकूलमायुमल्पानुकूलमायुन्दोऱ्ऱिऩ लीलाविभूतियिल् पदार्थङ्गळ् मुक्तऩाय् निरन्तरभगवदनुभवम् पण्णुगिऱवऩुक्कु निरतिशयभोग्यवर्गत्तिले सॊरुगैयुपपन्नम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+दार्ष्टान्तिकत्तै उपपादिक्किऱार् भगवत्संश्लेषमिऩ्ऱिक्के ताऩ् निऩ्ऱबोदु इत्यादिना । इदऩाल् दार्ष्टान्तिकत्तिल् राजगुमारऩुक्कु कारागृहत्तिल् स्वपितृविभूतित्वज्ञानमिल्लाद दशै सूचितम्। कारागृह विशेष्यकराजविभूतित्वज्ञानमे राजगुमारऩुक्कुम् राजाविऱ्कुम् संश्लेषमॆऩ्ऱु करुत्तु। कर्मानुरूपमाग - ताऩ् पण्णिऩ पुण्यपापानुरूपमाग। दृष्टान्तत्तिल् ताऩ् पण्णिऩ कुऱ्ऱत्तिऱ्कनुरूपमाग। पदार्थङ्गळिति । दृष्टान्तत्तिल् कारागृहम् विवक्षितम्। मुक्तऩाय् - सर्वबन्धविनिर्मक्तऩाय्, दृष्टान्तत्तिल् कारागृहविनिर्मुक्तऩाय् निरन्तरभगवदनुभवम् पण्णुगिऱवऩुक्कु - निरन्तरभगवदनुभवरूपभगवत्संश्लेषम् पॆऱ्ऱवऩुक्कु। दृष्टान्तत्तिल् पितृविभूतित्वज्ञानमुळ्ळवऩुक्कु। निरतिशयभोग्यवर्गत्तिले सॊरुगैयुपपन्नमिति । कर्ममिल्लामैयालुम् उभयविभूतिविशिष्टऩाऩ भगवाऩै निरन्तरमनुभविक्कैयालुम् विभूतिसामान्यत्तिल् भगवदीयत्वबुद्धियाऩदु निरन्तरमाग इरुप्पदालुम् मुऩ्बु प्रतिकूलङ्गळाय्त् तोऱ्ऱिऩ वस्तुक्कळॆल्लाम् निरतिशयभोग्यङ्गळागुगै मिगवुम् उपपन्नमॆऩ्ऱु करुत्तु। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि बद्धरुक्कु  
+प्रतिकूलम् आयुम्, अल्पानुकूलम् आयुम्,  
+कर्म-बन्धम् इल्लादार्क्क् अनुकूल-स्वभावम् आयुम् इरुक्कै  
+अप्-पदार्थङ्गळुक्कु भगवद्-इच्छा-सिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं बद्धान् प्रति  
+प्रतिकूलतया ऽल्पानुकूलतया,  
+कर्म-बन्ध-रहितान् प्रति अनुकूल-स्वभावतया च स्थितिस्  
+तेषां पदार्थानां भगवद्-इच्छादि-सिद्धा।
+</details>
+
+
+<details><summary>English</summary>
+
+There is nothing inconsistent in this.  
+The same object may be disagreeable  
+or only slightly agreeable  
+to a man bound to saṁsāra,  
+
+while to one released from the bondage of karma,  
+it is agreeable.  
+This is the nature ordained for them by the will of God.
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** nada inconsistente en esto.  
+El mismo objeto **puede ser** desagradable  
+o solo un poco agradable  
+a un hombre unido a Saṁsāra,
+
+mientras que a uno liberó de la esclavitud del karma,  
+**Es agradable**.  
+
+Esta **es** la naturaleza ordenada para ellos  
+por la voluntad de Dios.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि बद्धरुक्कु प्रतिकूलमायुमल्पानुकूलमायुम्कर्मबन्धमिल्लादार्क्कनुकूलस्वभावमायुमिरुक्कै अप्पदार्थङ्गळुक्कु भगवदिच्छासिद्धम्। 
+</details>
+ 
+<details><summary>सार-बोधिनी</summary>
+
+ननु लीलाविभूतियिलुळ्ळ पदार्थङ्गळ् एककालत्तिलेये बद्धरुक्कु प्रतिकूलङ्गळायुम् कर्मबन्धमिल्लादार्क्कु अनुकूलङ्गळायुमिरुप्पदु विरुद्धमऩ्ऱोवॆऩ्ऩ वरुळिच् चॆय्गिऱार् इप्पडि बद्धरुक्कु इत्यादिना । बद्धरुक्कु - कर्मबन्धमुळ्ळवरुक्कु। इदऩाल् लीलाविभूतियिलुळ्ळ पदार्थङ्गळिल् प्रातिकूल्यादिगळ् कर्मोपाधिकङ्गळागैयाल् कर्मसम्बन्धमिल्लाद मुक्तर्गळुक्कु स्वभावसिद्धानुकूल्यभावम् विरुद्धमागादॆऩ्ऱु सूचितम्। 
+
+अनुकूलस्वभाव मायुमिति । आनुकूल्यम् यावदात्मभावियागैयाल् स्वाभाविकमॆऩ्ऱु करुत्तु। भगवदिच्छासिद्धमिति । बद्धरुक्कु लीलाविभूतियिलुळ्ळ पदार्थसामान्यम् प्रतिकूलमायुम्, अल्पानुकूलमायुम् इरुक्कक् कडवदॆऩ्ऱुम्, कर्मबन्धमिल्लादार्क्कु अनुकूलमागवे इरुक्कक् कडवदॆऩ्ऱुम् भगवदिच्छासिद्धमॆऩ्ऱबडि। इप्पडि भगवत्सङ्कल्पमिरुप्पदाल् एककालत्तिल् भिन्नभिन्नप्रतिसम्बन्धिकप्रातिकूल्यानुकूल्यङ्गळ् विरुद्धङ्गळागादॆऩ्ऱु करुत्तु। 
+</details>
+
+## रहस्ये फल-प्रतिपादक-प्रदेशः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि स्वेच्छा-सिद्धम् आऩव् आनुकूल्यत्तैय्  
+उडैत्त् आऩ तऩ्-प्रकारङ्गळ् ऎल्लात्तोडुङ् कूडिऩ  
+श्रीमाऩ् आऩ नारायणऩ् प्राप्यऩ्  
+ऎऩ्ऩुम् इडम् तिरु-मन्त्रत्तिलुम्, द्वयत्तिलुम्  
+चतुर्थ्य्-अन्त-पदङ्गळिलेय् अभिप्रेतम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं स्वेच्छासिद्धानुकूल्यवद्भिः प्रकारैः सर्वैर्  
+विशिष्टः श्रीमान् नारायणः प्राप्य इत्य् एतत्  
+श्रीमन्त्रे द्वये च चतुर्थ्य्-अन्त-पदेषु +अभिप्रेतम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+That Bhagavān, the Lord of Śrī,  
+who has, for his prakāra or mode, all things whose agreeableness is dependent on His will,  
+is the goal of attainment  
+is implicit in the words in the dative or fourth case (Nārāyaṇāya) in Tirumantra and in Dvaya. 
+</details>
+
+<details><summary>Español</summary>
+
+Que bhagavān, el señor de Śrī,  
+quien **tiene**, por su prakāra o modo, todas las cosas cuya amabilidad depende de su voluntad,  
+**es** el objetivo de **logro**  
+**está implícito** en las palabras en el dativo o cuarto caso (nārāyaṇāya) en tirumantra y en dvaya.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+इप्पडि स्वेच्छासिद्धमाऩ वानुकूल्यत्तैयुडैत्ताऩ तऩ् प्रकार ङ्गळॆल्लात्तोडुङ्गूडिऩ श्रीमाऩाऩ नारायणऩ् प्राप्यऩॆऩ्ऩुमिडम् तिरुमन्त्रत्तिलुम् द्वयत्तिलुम् चतुर्थ्यन्तपदङ्गळिलेयभिप्रेतम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि सर्वप्रकारविशिष्ट नारायणऩे प्राप्यऩॆऩ्ऩुमिडम् तिरुमन्त्रत्तिलुम्, द्वयत्तिलुम् नारायणपदोत्तरचतुर्थिकळिल् अभिप्रेतमॆऩ्गिऱार् इप्पडि स्वेच्छासिद्धमाऩ इत्यादिना । अभिप्रेतमिति । प्राप्तिरूपभगवदनुभवम् चतुर्थ्यर्थ कैङ्कर्यत्तिऱ्कुक् कारणमागैयाल् कार्यमाऩ कैङ्कर्यवाचिकळाऩ चतुर्थिकळिल् कारणमाऩ प्राप्तिरूपभगवदनुभवम् अभिप्रेतमॆऩ्ऱु करुत्तु। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुऩ्बु सॊऩ्ऩ +++(चतुर्थ्य्-अर्थ-भूतं)+++ कैङ्कर्यम्  
+इप्-पडि परिपूर्णानुभवत्ताले पिऱन्द प्रीति-विशेषत्तुक्कुप्  
+परीवाहम् ऎऩ्ऩुम् इडत्तै  
+गद्यत्तिले पल कालुम् अरुळिच्चॆय्दार्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पूर्वोक्तं +++(चतुर्थ्य्-अर्थ-भूतं)+++ कैङ्कर्यम्  
+एवं-विध-परिपूर्णानुभव-जनित-प्रीति-विशेष-परीवाह-रूपम्  
+इत्य् एत् अमर्थं गद्याय् असकृद् अनुजग्राह । 
+</details>
+
+
+<details><summary>English</summary>
+
+The service referred to before  
+is the overflow of love born of the perfect enjoyment of Brahman  
+and the Bhāṣyakāra has explained it in several places in the (Śaraṇāgati) Gadya .
+</details>
+
+<details><summary>Español</summary>
+
+El **servicio** mencionado antes  
+**Es** el **desbordamiento** del amor nacido del **disfrute** perfecto de Brahman  
+y el Bhāṣyakāra lo **ha explicado** en varios lugares en el (Śaraṇāgati) Gadya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुऩ्बु सॊऩ्ऩ कैङ्कर्यम् इप्पडि परिपूर्णानुभवत्ताले पिऱन्द प्रीति विशेषत्तुक्कुप् परीवाहमॆऩ्ऩुमिडत्तैगद्यत्तिले पलगालुमरुळिच्चॆय्दार्।
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+चतुर्थ्यर्थकैङ्कर्यम् प्राप्तिरूप-भगवद्-अनुभव-जनित--प्रीति-कारितम् आगैयाल्  
+भगवद्-अनुभव-कार्यम् ऎऩ्बदै  
+गद्यत्तिल् अरुळिच् चॆय्दारॆऩ्गिऱार् मुऩ्बु सॊऩ्ऩ इत्यादिना । 
+
+मुऩ्बु सॊऩ्ऩ - उत्तरकृत्याधिकारादिगळिल् सॊऩ्ऩ,  
+इन्द गद्यश्रीसूक्तियिल् परिपूर्णब्रह्मानुभवमे भगवत्-प्राप्तिय् ऎऩ्ऱुम्,  
+अङ्गु पण्णुम् भगवत्-कैङ्कर्यङ्गळ् ऎल्लाम्  
+अन्द परिपूर्णब्रह्मानुभव-जनित-प्रीतिविशेषत्तिऩ् परिवाहङ्गळॆऩ्ऱुम्  
+अदावदु कडैप्-पोक्क् ऎऩ्ऱुम् निष्कर्षित्तिरुप्पदाल्  
+प्राप्तिरूप-भगवद्-अनुभवत्तिऱ्कुम्  
+कैङ्गर्यत्तिऱ्कुम् कार्य-कारणभावम् सिद्धिक्कैयाल्  
+कार्यमाऩ कैङ्कर्यवाचि चतुर्थियिल्  
+कारणमाऩ प्राप्तिरूपभगवदुभवम् अभिप्रेतमागलामॆऩ्ऱु करुत्तु। 
+</details>
+
+
+## जक्षणादीनां कैङ्कर्यत्वम्
+<details><summary>English</summary>
+
+FULL AND PERFECT ENJOYMENT OF BHAGAVĀN OVERFLOWS INTO KAIÑKARYA OR SERVICE.
+</details>
+
+<details><summary>Español</summary>
+
+**Disfrute** completo y perfecto de Bhagavān  
+**se desborda** en Kaiñkarya o servicio.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्त-दशैयिल् श्रुति-सिद्धम् आऩ जक्षणादिगळुम्  
+ज्ञात्यादि-संपादनङ्गळुम् ऎल्लाम्  
+पुण्य-पाप-रूप--कर्म-निरपेक्ष--  
+भगवद्-इच्छाऽनुगुण-स्वेच्छा-मूलङ्गळ् आगैयाले  
+कर्म-फलम् अऩ्ऱिक्के अनुभव-परीवाहम् आऩ केवल-कैङ्कर्यत्तिले अन्तर्भूतङ्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[१७९]] 
+
+मुक्त-दशायां श्रुति-सिद्धानि जक्षणादीनि  
+ज्ञात्य्-आदि-संपादनानि सर्वाणि  
+पुण्य-पाप-कर्म-निरपेक्ष--भगवद्-इच्छानुगुण--स्वेच्छा-मूलकत्वाद्  
+अ-कर्म-फलानि  
+अनुभव-परीवाह-रूपे केवल-कैङ्कर्ये अन्तर्भूतानि । 
+</details>
+
+
+
+<details><summary>English</summary>
+
+( It is said in the śrutis that the mukta eats whatever he wants  
+and can create whichever relations he wants).  
+The enjoyment of food in the state of mukti  
+and the contact with relations and the like  
+are not due to karma, whether puṇya or papa,  
+but are dependent only on the will of the mukta  
+which is (always ) in accordance with the will of Bhagavān. 
+
+Therefore they are not the consequences or fruits of karma,  
+but fall into the category of pure service  
+which is the overflow of the perfect enjoyment of Brahman.  
+</details>
+
+<details><summary>Español</summary>
+
+(**Se dice** en el Śrutis que el Mukta  
+**come** lo que quiera  
+y **puede crear** las relaciones que **desee**).  
+El **disfrute** de la comida en el estado de Mukti  
+y el **contacto** con las relaciones y similares  
+**no se deben** al karma, ya sea Puṇya o papá,  
+pero solo **dependen** de la voluntad del mukta  
+que es (siempre) de **acuerdo** con la voluntad de Bhagavān.
+
+Por lo tanto, **no son** las consecuencias o frutos del karma,  
+pero **cae** en la categoría de servicio puro  
+que **es** el **desbordamiento** del **disfrute** perfecto de Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुक्तदशैयिल् श्रुतिसिद्धमाऩ जक्षणादिगळुम् ज्ञात्यादिसंपादनङ्गळुमॆल्लाम् पुण्यपापरूपकर्मनिरपेक्षभगवदिच्छानुगुण स्वेच्छामूलङ्गळागैयाले कर्मफलमऩ्ऱिक्के अनुभवपरीवाहमाऩ केवलकैङ्कर्यत्तिले अन्तर्भूतङ्गळ्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+श्रुतियिल् ब्रह्मसम्पत्त्यनन्तरम् 
+
+> जक्षन् क्रीडन् रममाणः  
+> स्त्रीभिर् वा यानैर् वा  
+
+> स यदि पितृलोककामो भवति  
+> सङ्कल्पाद् एवास्य पितरस् समुत्तिष्ठन्ति 
+
+ऎऩ्ऱु जक्षणादि-बहु-कृत्यङ्गळ् सॊल्लिय् इरुक्क कैङ्कर्यम्  
+ऒऩ्ऱु दाऩ् भगवत्-प्राप्तियिऩ् कार्यम्  
+ऎऩ्ऱु सॊल्वदु युक्तमागुमो  
+
+ऎऩ्गिऱ शङ्गैयैप् परिहरिक्किऱार् मुक्तदशैयिलित्यादिना । सम्पादनङ्गळुमॆल्लामित्यन्तम् शङ्कोत्थापकम्। कर्मफल मऩ्ऱिक्के अनुभवपरीवाहमाऩ इत्यादि । श्रुतियिल् सर्वकर्मविनिर्मोकपूर्वकम् ब्रह्मसम्पत्तियैच् चॊल्लि, तत्फलमाग परितः ब्रह्मानुभवत्तैच् चॊल्लि, तदुपरि जक्षणादिगळैच् चॊल्लियिरुप्पदाल् इवैगळ् पुण्यपापकर्मजन्यङ्गळॆऩ्ऱु सॊल्वदु उसिदमागादागैयाल् भगवदिच्छानुगुणमाऩ स्वेच्छाकार्यङ्गळागवुम् भगवदनुभवकार्यङ्गळाऩ कैङ्कर्यङ्गळागवुमे ऒप्पुक् कॊळ्ळवेण्डुमागैयाल् भगवदनुभवपरीवाहमाऩ कैङ्कर्यमे भगवत्प्राप्तिफलमॆऩ्ऱु सॊल्लत् तट्टिल्लैयॆऩ्ऱु करुत्तु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् **प्राप्तिय् आयिऱ्ऱदु**  
+यथाऽभिमत-कैङ्कर्य-पर्यन्त--परिपूर्ण-ब्रह्मानुभवम्  
+ऎऩ्ऱद् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+Thus the ultimate goal of attainment is the full and perfect enjoyment of Brahman  
+which extends also to those services that are desired by the mukta. 
+</details>
+
+<details><summary>Español</summary>
+
+Así, el objetivo final de **logro** es el disfrute completo y perfecto de Brahman
+que también **se extiende** a aquellos servicios que desean el Mukta.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् प्राप्तियायिऱ्ऱदु यथाभिमतकैङ्कर्यपर्यन्तपरिपूर्णब्रह्मानुभवमॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इवऱ्ऱाल् फलित्तवर्थत्तै निष्कर्षिक्किऱार् आगैयालित्यादिना । प्राप्तियायऱ्ऱदु - भगवत्प्राप्तियाग निर्णयिक्कप्पट्टदु। यथाभिमतेति । कैङ्कर्यपर्यन्त - कैङ्गर्यत्तै फलमाग उडैय, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अनुभवम् उण्डाऩाल्  
+पिऩ्ब् ऒरु कालत्तिलुम् अऴियाद्  
+ऎऩ्ऩुम् इडम् 
+</details>
+
+<details><summary>English</summary>
+
+When this experience has once been attained,  
+it never afterwards ceases  
+and this my be seen from the following passages :
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se ha alcanzado** esta experiencia,  
+nunca después **cesa**  
+Y esto **es visto** de los siguientes pasajes:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वनुभवमुण्डाऩाल् पिऩ्बॊरु कालत्तिलुमऴियादॆऩ्ऩुमिडम् 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इदु कर्मफलम् पोलऩ्ऱिक्के नित्यमॆऩ्गिऱार् इव्वनुभवमुण्डाऩालित्यादिना । 
+</details>
+
+
+
+
+
+
+
+
+“The place from which the man who has meditated on Brahman never returns-  
+that place is attained by him (the prapanna)"; 
+
+again, 
+
+“Those great souls who have attained the highest reach me and are never afterwards born in saṁsāra, which is the abode of suffering and is ever-chaṅgīng. All the worlds including that of Brahma are places, O Arjuna, from which souls return to saṁsāra. But the soul that has attained me, is, O Son of Kunti, never born again.", and further "When the man who has become dissociated from all contact with prakṛti has seen Brahman who is the 26th real, he will never be born again, because he has attained all that has to be attained.", and also "The heavenly bodies like the moon and the sun (the presiding deities that govern them) are born again in saṁsāra (after reaching their high positions). But those who meditate on Bhagavān with the mantra[^60] * of twelve syllables never come back to saṁsāra.
 
 [^60]: Namo Bhagavate Vasudevaya: with Om (or aum) preceding it.
 
