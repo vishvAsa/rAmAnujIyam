@@ -627,12 +627,393 @@ Esta idea **se ha expresado** en la sección sobre Bhima en el Brahma Sūtras.
 इव्वर्थत्तै भूमाधिकरणत्तिले साधित्तरुळिऩार्। 
 </details>
 
-## त्रयाणां परम-पद-शब्द-वाच्यत्वम्
+<details><summary>सार-बोधिनी</summary>
+
+भूमाधिकरणत्तिले साधित्तरुळिऩारिति । 
+
+> ‘‘यत्र नान्यत् पश्यति  
+> नान्यच् छृणोति  
+> नान्यद् विजानाति  
+> स भूमा’’ 
+
+ऎऩ्बदु भूमाधिकरणविषयवाक्यम्। 
+
+इन्द श्रुत्यर्थम् -  
+
+अनवधिकातिशय-सुख-रूपे ब्रह्मणि +अनुभूयमाने  
+ततोऽन्यत् किम् अपि न पश्यति, अनुभविता ।  
+ब्रह्म--स्व-रूप--तद्-विभूत्य्-अन्तर्गतत्वाच् च  
+कृत्स्नस्य वस्तु-जातस्य ।  
+अतः ऐश्वर्यापर-पर्याय-विभूति-गुण-विशिष्टं निरतिशय-सुख-रूपं ब्रह्म अनुभवन्  
+तद्-व्यतिरिक्तस्य वस्तुनः अ-भावाद् एव  
+किम् अप्य् अन्यन् न पश्यति ।  
+अनुभाव्यस्य सर्वस्य सुख-रूपत्वाद् एव  
+दुःखञ् च न पश्यति ।  
+तद् एव हि सुखं,  
+यद् अनुभूयमानं पुरुषानुकूलं भवति’’ 
+
+ऎऩ्ऱु भाष्यत्तिल् विवरिक्कप्पट्टिरुक्किऱदु। 
+</details>
 
 
-The svarūpa of Bhagavān is called Paramapada, because it is the ultimate and supreme object of attainment being of unsurpassed agreeableness. Since the perfect enjoyment of the svarūpa of Bhagavān happens only after reaching a most delightful region far superior to all others, that region is also called Paramapada. The essential nature or svarūpa of the Jīva, which is the recipient of this joy in the attainment of Bhagavān which is also among the glorious possessions (Vibhūtis) of the Lord and which has, for its attributes, jñāna and ānanda, is also (sometimes ) called Paramapada. Along with the others, these three have, in common, only the feature of being the object of attainment.
+### त्रयाणां परम-पद-शब्द-वाच्यत्वम्
 
-It has been said above that such things as Bhagavān's svarūpa, attributes and forms, the region of eternal glory (nitya vibhūti) which is constituted of pure sattvam and his own suurüpa are objects of delight to the mukta. It may be asked, “This may be true. But by sense perception (pratyakṣa) and other sources of knowledge, the objects in this world of lilā vibhūti are found to be disagreeable and are declared by the śāstras also to be things to be given up, How then could they viz. the objects in līlā vibhūti be objects of delight to the mukta ?" The answer is as follows:--  There is nothing inconceivable in this. What appears disagreeable to the man suffering from (excess of) bile is felt as agreeable when the bile has decreased. Again when the prince is in the prison house it is disagreeable. But when the emperor is pleased to set him free and to place him by his own side to enjoy like- pleasures, the prison house may appear agreeable as a symbol of his father's glory, although it has not undergone any change. It is said in the Rāmāyana : --" To be with you is mokṣa for me; to be without you is hell to me;" again, "To me living without ŚrīRāma, the great warrior, in the midst of these Rākṣasis, of what use is life, or wealth, or ornaments?" In Tiruvoymozi 4-8 it is said :-"As the Lord does not care for me, it would not at all matter if I lost all that I would otherwise prize highly, viz., my beauty, my mind, my modesty, the sheen of my complexion, my intelligence, my charm, my bracelets, my girdle, my body and my very life." As illustrated in the passages cited above, the objects of this world (Līlā Vibhūti), which appear disagreeable or only slightly agreeable, when the jīva is not blessed with union with the Lord, may appear supremely agreeable, when he has become a mukta enjoying without intermission (the bliss of) Bhagavān. There is nothing inconsistent in this. The same object may be disagreeable or only slightly agreeable to a man bound to saṁsāra, while to one released from the bondage of karma, it is agreeable. This is the nature ordained for them by the will of God.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱिल् निरतिशयानुकूल्यत्ताले  
+परम-प्राप्यम् आगैयाले  
+भगवत्-स्वरूपत्तै परम-पदम् ऎऩ्गिऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एषु निरतिशयानुकूल्यात् परम-प्राप्यत्वेन  
+भगवत्-स्वरूपं परम-पदम् इत्य् उच्यते । 
+</details>
+
+<details><summary>English</summary>
+
+The svarūpa of Bhagavān is called Paramapada,  
+because it is the ultimate and supreme object of attainment  
+being of unsurpassed agreeableness.  
+
+</details>
+
+<details><summary>Español</summary>
+
+El Svarūpa de Bhagavān se **llama** Paramapada,  
+Porque **es** el objeto final y supremo de **logro**  
+**ser** de amabilidad sin igual.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिल् निरतिशयानुकूल्यत्ताले परमप्राप्यमागै याले भगवत्स्वरूपत्तै परमपदमॆऩ्गिऱदु। 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+> > इप्पडि सर्वप्रकारविशिष्टऩ् आऩ ईश्वरऩ्  
+भोग्यत्व-प्रकारकानुभव-विषयऩ् आय्क् कॊण्डु  
+प्राप्यऩ् आऩाल्  
+भगवाऩैप् पोले विशेषणीभूत-तद्-विभूत्य्-आदिगळुम् प्राप्यङ्गळ् आग वेण्डामो?  
+>
+> +++(प्रतिवादि+)+++इष्टापत्तिय् ऎऩ्ऩिल्;  
+> अवैगळिलुम् "पद्यते – प्राप्यत" इति पदम् ऎऩ्गिऱ व्युत्पत्तिमत्त् आऩ "परम"-शब्द-सहित-पद-शब्द-प्रयोगम् कूडुमोव् 
+
+ऎऩ्ऩ,  
+अवैगळुक्कुम् पद-शब्द-वाच्यत्वम् कूडिऩालुम्  
+परम-शब्दत्तोडु समस्तम् आऩ पद-शब्द-वाच्यत्वम्  
+सिलव् अऱ्ऱुक्के कूडुम्  
+ऎऩ्ऱु सोपपत्तिकम् अरुळिच्चॆय्गिऱार् इवऱ्ऱिल् इत्य्-आदिना ।
+  
+इवऱ्ऱिल् - विभूतिविभूतिमत्समुदायत्तिल् घटकत्वं सप्तम्यर्थः ।  
+इदऱ्कु भगवत्स्वरूपत्तै यॆऩ्बदोडन्वयम्। इन्द स्वरूपत्तिऱ्कु परमपदशब्दवाच्यत्वे हेतुवै यरुळिच्चॆय्गिऱार् निरतिशयानुकूल्यत्ताले परमप्राप्यमागैयाले इति । विभूत्यादिगळुम् अनुकूलतया प्राप्यङ्गळागैयाले पदशब्दवाच्यङ्गळाऩालुम्, निरतिशयानुकूल्यत्ताले प्राप्यङ्गळल्लामैयाल् परमप्राप्यङ्गळऩ्ऱागैयाल् परमपदशब्दवाच्यत्वं अवैगळुक्कुक् कूडादॆऩ्ऱु करुत्तु। भगवत्स्वरूपत्तै परमपदमॆऩ्गिऱदु इति ।  
+‘‘विष्ण्वाख्यं परमं पदं’’ इत्यादि प्रमाणङ्गळ् सॊल्लुगिऩ्ऱऩ ऎऩ्ऱबडि।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इब् भगवत्-स्वरूपत्तिऩ्-उडैय परिपूर्णानुभवम् पॆऱुवदु  
+भोग्यतमम् आय्, सर्वोत्तरम् आय् इरुप्पद् ऒरु सत्त्वोत्तर--स्थान-विशेषत्तिले सॆऩ्ऱाल् आगैयाले  
+अन्द स्थान-विशेषत्तैयुम् परम-पदम् ऎऩ्गिऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद्-भगवत्--स्व-रूप--परिपूर्णानुभव-प्राप्तेर् भोग्यतम--सत्त्वोत्तर-स्थान-विशेष-गमनोत्तर-कालिकत्वात्  
+स्थान-विशेषोऽपि 
+परम-पदम् इत्य् उच्यते । 
+</details>
+
+
+<details><summary>English</summary>
+
+Since the perfect enjoyment of the svarūpa of Bhagavān  
+happens only after reaching a most delightful region  
+far superior to all others,  
+that region is also called Paramapada.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Desde el disfrute perfecto del svarūpa de Bhagavān  
+**sucede** solo después de **llegar** a una región más encantadora  
+muy superior a todos los demás,  
+Esa región también **se llama** Paramapada.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+इब् भगवत्स्वरूपत्तिऩुडैय परिपूर्णानुभवम् पॆऱुवदु भोग्यतममाय् सर्वोत्तर(सत्त्वोत्तर)मायिरुप्पदॊरु स्थानविशेषस्थानविशेषत्तिले सॆऩ्ऱालागैयाले अन्द स्थानविशेषत्तैयुम् परमपदमॆऩ्गिऱदु। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+‘‘तद्विष्णोः परमं पदं’’ ऎऩ्ऱु स्थानविशेषत्तिल् परमपदशब्दप्रयोगत्तिऱ्कु उपपत्तियै यरुळिच्चॆय्गिऱार् इब् भगवत् स्वरूपत्तिऩुडैय इत्यादिना । परिपूर्णानुभवम् पॆऱुवदु इति । यद्देशावच्छेदेन परमपदशब्दवाच्यऩाऩ भगवाऩुडैय परिपूर्णानुभवम् उण्डागिऱदो? ऎदु सर्वोत्तरस्थानमो? अदैयुम् गौण्या वृत्त्या परमपद शब्दवाच्यमागच् चॊल्ललामॆऩ्ऱु करुत्तु।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अनुभवत्तुक्क् आश्रयम् आय्क् कॊण्ड्  
+अनुभाव्यम् आगैयाले  
+भगवद्-विभूति-भूतम् आय्  
+ज्ञानानन्द-लक्षणम् आऩ तऩ् स्वरूपत्तैयुम्  
+परम-पदम् ऎऩ्गिऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+
+अस्यानुभवस्याश्रय-रूपेणानुभाव्यत्वाद्  
+भगवद्-विभूति-भूतं ज्ञानानन्द-लक्षणं स्व--स्व-रूपम् अपि  
+परम-पदम् इत्य् उच्यते । 
+</details>
+
+
+<details><summary>English</summary>
+
+The essential nature or svarūpa of the Jīva,  
+which is the recipient of this joy in the attainment of Bhagavān  
+which is also among the glorious possessions (Vibhūtis) of the Lord  
+and which has, for its attributes, jñāna and ānanda,  
+is also (sometimes ) called Paramapada. 
+
+</details>
+
+<details><summary>Español</summary>
+
+La naturaleza esencial o svarūpa de Jīva,  
+que **es** el receptor de esta alegría en el logro de Bhagavān  
+que también **se encuentra** entre las gloriosas posesiones (Vibhūtis) del Señor  
+y que **tiene**, por sus atributos, jñāna y ānanda,  
+También **se llama** (a veces) Paramapada.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वनुभवत्तुक्काश्रयमाय्क्कॊण्डनुभाव्यमागैयाले भगवद्विभूतिभूतमाय् ज्ञानानन्दलक्षणमाऩ तऩ् स्वरूपत्तैयुम् परमपदमॆऩ्गिऱदु। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+‘‘तद्धाम परमं मम’’ ऎऩ्ऱुम्, 
+
+> ‘‘द्वितीयं विष्णुसञ्ज्ञस्य  
+> योगिध्येयं परं पदं’’ 
+
+ऎऩ्ऱुम् जीवस्वरूपत्तिलुम् परमपदशब्द प्रयोगत्तिऱ्कु उपपत्तियै यरुळिच्चॆय्गिऱार् इव्वनुभवत्तुक्कु आश्रयमाय्क्कॊण्डु अनुभाव्यमागैयाले इति ।  
+इन्द विष्ण्वाख्य परमपदानुभवत्तिऱ्कु आश्रयमागैयालुम्,  
+‘‘आत्मेति तूपगच्छन्ति’’ ऎऩ्गिऱबडिये  
+‘‘अहं ब्रह्मास्मि’’ ऎऩ्गिऱ मुक्ति-कालिक ब्रह्मप्रकारकानुभवत्तिल् विशेष्यतया अनुभाव्यमागैयालुमॆऩ्ऱबडि।  
+
+भगवद्विभूतिभूतमाय् ज्ञानानन्दलक्षणमाऩ इति ।  
+इदु हेतुगर्भविशेषणम्।  
+अचिद्-विलक्षण-ज्ञानानन्द-लक्षण-विभूतित्वाद् इत्यर्थः ।  
+तऩ् स्वरूपत्तैयुम् - मुक्तऩाऩ तऩ् स्वरूपत्तैयुम्, परमपदमॆऩ्गिऱदु इति ।  
+जीवस्वरूपम् परमप्राप्य-भगवद्-अनुभवाश्रयतया  
+ब्रह्म-प्रकारकता-दृशानुभव-विशेष्यतया,  
+ज्ञानान्दतया, उत्कृष्टतया च  
+गौण्यावृत्त्या परमपदशब्दत्ताले व्यवहरिक्कप्पडुगिऱदु ऎऩ्ऱबडि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवै मूऩ्ऱुक्कुम्,  
+मऱ्ऱ्+++(=अन्य)+++-उळ्ळव् अऱ्ऱुक्कुम्+++(=प्रत्येकस्मै)+++  
+प्राप्यत्व-मात्रम् अविशिष्टम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एषां त्रयाणाम् अन्येषाम् अपि प्राप्यत्व-मात्रम् अ-विशिष्टम् । 
+</details>
+
+<details><summary>English</summary>
+
+Along with the others,  
+these three have, in common, only the feature of being the object of attainment.
+
+</details>
+
+<details><summary>Español</summary>
+
+Junto con los demás,  
+Estos tres **tienen**, en común, solo la característica de ser el objeto de logro.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवै मूऩ्ऱुक्कुम् मऱ्ऱुळ्ळवऱ्ऱुक्कुम् प्राप्यत्वमात्रमविशिष्टम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडियागिल् परमपदशब्दवाच्यमाऩ इम्मूऩ्ऱुम् प्राप्यमाय् इतरङ्गळ् अप्राप्यङ्गळॆऩ्ऱु कॊळ्ळवेण्डि वारादोवॆऩ्ऩ वरुळिच् चॆय्गिऱार् इवै मूऩ्ऱुक्कुम् मऱ्ऱुळ्ळवऱ्ऱुक्कुम् प्राप्यत्वमात्रमविशिष्टमिति ।  
+इम् मूऩ्ऱुक्कुप्पोल् मऱ्ऱुळ्ळवैक्कु परमप्राप्यत्वमिल्लाविडिलुम् तिऩैत् तिऩैयुम् विडाळॆऩ्ऱुम्,  
+
+
+> ‘‘सर्वं ह पश्यः पश्यति’’ 
+
+ऎऩ्ऱुम् विभूतिसामान्यत्तिऱ्कुम् अनुभाव्यत्वम् सॊल्लुगैयाल् प्राप्यत्वमात्रत्तै अङ्गीकरिक्कवेण्डुमॆऩ्ऱु करुत्तु। 
+</details>
+
+### लीला-विभूति-भोग्यत्वम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि भगवत्--स्व-रूप--गुण-विग्रहादिगळुम्  
+शुद्ध-सत्त्वाश्रयम् आऩ नित्य-विभूतियुम्  
+स्व--स्व-रूपमुम् भोग्यम् आऩालुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं भगवत्--स्व-रूप--गुण-विग्रहादीनां,  
+शुद्ध-सत्त्वाश्रय--नित्य-विभूतेः  
+स्व--स्व-रूपस्य च भोग्यत्व-संभवेऽपि 
+</details>
+
+
+<details><summary>English</summary>
+
+It has been said above that such things as Bhagavān's svarūpa, attributes and forms,  
+the region of eternal glory (nitya vibhūti) which is constituted of pure sattvam  
+and his own suurüpa  
+are objects of delight to the mukta. 
+</details>
+
+<details><summary>Español</summary>
+
+Se **ha dicho** anteriormente  
+que cosas como el svarūpa de Bhagavān, los atributos y las formas,  
+La región de la gloria eterna (nitha vibhūti) que está constituida de puro sattvam  
+y su propia suurüpa  
+**son** objetos de deleite para el Mukta.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि भगवत्स्वरूपगुणविग्रहादिगळुम् शुद्धसत्त्वाश्रयमाऩ नित्यविभूतियुम् स्वस्वरूपमुम् भोग्यमाऩालुम् 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि मऱ्ऱुळ्ळवऱ्ऱिऱ्कुम् प्राप्यत्वम् अविशिष्टमॆऩ्ऱु सॊऩ्ऩदु उपपन्नमो?  
+भोग्यङ्गळ् आऩवैय् अऩ्ऱो प्राप्यङ्गळ् आवदु,  
+अनुकूलङ्गळ् अऩ्ऱो भोग्यङ्गळ् आवदु।  
+
+इदिल् सिलवऱ्ऱिऱ्कु अनुकूलतया भोग्यत्वम् कूडिऩालुम्  
+लीलाविभूतियिलुळ्ळ पदार्थङ्गळ् कालभेदेन, देशभेदेन, पुरुषभेदेन च प्रतिकूलङ्गळाय्त् तोऱ्ऱुगैयाल् अवैगळुक्कु अनुकूलत्व, भोग्यत्व, प्राप्यत्वङ्गळ् कूडुमोवॆऩ्ऱु शङ्गित्तु उत्तरमरुळिच्चॆय्गिऱार् इप्पडि भगवत्स्वरूपेत्यादिना । भोग्यमाऩालुमिति । 
+
+अतीन्द्रियतया प्रमाणान्तरविरोधं असम्भावितमागैयाले 
+
+> ‘‘रसो वै सः ।  
+> रसह्येवायं लब्ध्वानन्दी भवति’’ 
+
+इत्यादिश्रुत्यादिगळिल् सॊऩ्ऩबडि  
+भगवत्स्वरूपादिगळै भोग्यङ्गळाग ऒप्पुक्कॊण्डालुमॆऩ्ऱबडि।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रतिकूलम् आग प्रत्यक्षादि-प्रमाण-सिद्धम् आय्  
+मुमुक्षुवुक्कु त्याज्यम् आग शास्त्रङ्गळिऱ् सॊल्लप् पट्ट  
+लीला-विभूतियिल् पदार्थङ्गळ्  
+मुक्तऩुक्कु भोग्यम् आगक् कूडुमोव् ऎऩ्ऩिल्  
+अदिलुङ् कुऱैय् इल्लै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> प्रतिकूलत्वेन प्रत्यक्षादि-प्रमाण-सिद्धानां  
+मुमुक्षोस् त्याज्यत्वेन शास्त्रेषु प्रतिपादितानां  
+लीला-विभृति-स्थ-पदार्थानां मुक्त-भोग्यत्वं कथं युज्यते?  
+
+इति चेत्- तत्रापि न क्षतिः, 
+</details>
+
+
+<details><summary>English</summary>
+
+It may be asked, 
+
+> “This may be true.  
+> But by sense perception (pratyakṣa) and other sources of knowledge,  
+> the objects in this world of lilā vibhūti are found to be disagreeable  
+> and are declared by the śāstras also to be things to be given up,  
+> How then could they viz. the objects in līlā vibhūti  
+> be objects of delight to the mukta ?" 
+
+The answer is as follows:--  There is nothing inconceivable in this. 
+</details>
+
+<details><summary>Español</summary>
+
+Se **puede preguntar**,
+
+> “Esto **puede ser** cierto.  
+> Pero por percepción sensorial (pratyakṣa) y otras fuentes de conocimiento,  
+> Los objetos **en** este mundo de Lilā Vibhūti **son** desagradables  
+> y **son** declarados por los Śāstras también como cosas que se **deben renunciar**,  
+> ¿Cómo **podrían** - los objetos en līlā vibhūti  
+> **Ser** objetos de deleite para Mukta? "
+
+La **respuesta es** la siguiente:-  
+**No hay** nada inconcebible en esto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रतिकूलमाग प्रत्यक्षादिप्रमाणसिद्धमाय् मुमुक्षुवुक्कु त्याज्यमागशास्त्रङ्गळिऱ्सॊल्लप्पट्ट लीलाविभूतियिल् पदार्थङ्गळ् मुक्तऩुक्कु भोग्य मागक्कूडुमो वॆऩ्ऩिल् अदिलुङ्गुऱैयिल्लै। 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+प्रतिकूलमाग प्रत्यक्षादिप्रमाणसिद्धमायिति ।  
+
+> ‘‘न हि दृष्टे अनुपपन्नं नाम’’+++(5)+++ 
+
+ऎऩ्गिऱ बडि  
+प्रातिकूल्यत्तै इल्लै सॆय्य मुडियाद् ऎऩ्ऱुगरुत्तु।  
+
+मुमुक्षुवुक्कु त्याज्यम् आग शास्त्रङ्गळिऱ्सॊल्लप्पट्ट इति । इवैगळुम् अनुकूलङ्गळाय् भोग्यङ्गळाऩाल् इवैगळै मुमुक्षुवुक्कु त्याज्यङ्गळाग 
+
+> ‘‘सर्वधर्मांश्च सन्त्यज्य  
+> सर्वकामांश्च साक्षारान्’’ 
+
+इत्यादि शास्त्रङ्गळिल् सॊल्वदु उसिदमागादॆऩ्ऱु करुत्तु।  
+मुक्तऩुक्कु भोग्यमागक्कूडुमोवॆऩ्ऩिलिति । ऒरु पुरुषऩुक्कु प्रतिकूलमाग प्रत्यक्षसिद्धमायिरुन्द पदार्थम् अवऩुक्कु मुक्तदशैयिल् अनुकूलमायुम्, भोग्यमायुम् आगिऱ तॆऩ्बदु बुद्धिमाऩ्गळुक्कु हृदयङ्गममागुमोवॆऩ्ऱु शङ्काभिप्रायम्। अदिलुम् कुऱैयिल्लै इति । बद्धदशैयिलेये प्रतिकूलमाऩ ऒरे वस्तु ऒरु पुरुषऩुक्के कालदेशावस्थाभेदत्ताल् भोग्यमागक् काण्गैयाले इन्द दृष्टान्तमूलमागवे ऒरुवऩुक्के बद्धदशैयिल् प्रतिकूलङ्गळॆल्लाम् मुक्तदशैयिल् भोग्यङ्गळागलामॆऩ्ऱु साधिक्कत् तट्टिल्लै यॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पित्तोपहतऩुक्कु प्रतिकूलम् आऩ पाल्  
+पित्तम् शमित्ताल् अनुकूलम् आम् आप्-पोल्-अवुम् 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पित्तोपहतऩुक्कु प्रतिकूलमाऩ पाल् पित्तम् शमित्तालनुकूलमामाप्पोलवुम् 
+</details>
+
+
+
+What appears disagreeable to the man suffering from (excess of) bile is felt as agreeable when the bile has decreased. Again when the prince is in the prison house it is disagreeable. But when the emperor is pleased to set him free and to place him by his own side to enjoy like- pleasures, the prison house may appear agreeable as a symbol of his father's glory, although it has not undergone any change. It is said in the Rāmāyana : --" To be with you is mokṣa for me; to be without you is hell to me;" again, "To me living without ŚrīRāma, the great warrior, in the midst of these Rākṣasis, of what use is life, or wealth, or ornaments?" In Tiruvoymozi 4-8 it is said :-"As the Lord does not care for me, it would not at all matter if I lost all that I would otherwise prize highly, viz., my beauty, my mind, my modesty, the sheen of my complexion, my intelligence, my charm, my bracelets, my girdle, my body and my very life." As illustrated in the passages cited above, the objects of this world (Līlā Vibhūti), which appear disagreeable or only slightly agreeable, when the jīva is not blessed with union with the Lord, may appear supremely agreeable, when he has become a mukta enjoying without intermission (the bliss of) Bhagavān. There is nothing inconsistent in this. The same object may be disagreeable or only slightly agreeable to a man bound to saṁsāra, while to one released from the bondage of karma, it is agreeable. This is the nature ordained for them by the will of God.
 
 That Bhagavān, the Lord of Śrī, who has, for his prakāra or mode, all things whose agreeableness is dependent on His will, is the goal of attainment is implicit in the words in the dative or fourth case (Nārāyaṇāya) in Tirumantra and in Dvaya. The service referred to before is the overflow of love born of the perfect enjoyment of Brahman and the Bhāṣyakāra has explained it in several places in the (Śaraṇāgati Gadya ).
 
