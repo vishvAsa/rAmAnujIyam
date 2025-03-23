@@ -1005,6 +1005,24 @@ La **respuesta es** la siguiente:-
 पित्तम् शमित्ताल् अनुकूलम् आम् आप्-पोल्-अवुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+पित्तोपहतं प्रति प्रतिकूल-भूतस्य क्षीरस्य  
+पित्त-शमनानन्तरम् आनुकूल्यवत्  
+</details>
+
+<details><summary>English</summary>
+
+What appears disagreeable to the man suffering from (excess of) bile  
+is felt as agreeable when the bile has decreased.  
+</details>
+
+<details><summary>Español</summary>
+
+Lo que **parece desagradable** para el hombre que **padece** (exceso de) bilis  
+**se siente** tan agradable cuando la bilis ha **disminuido**.  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1013,7 +1031,8 @@ La **respuesta es** la siguiente:-
 
 
 
-What appears disagreeable to the man suffering from (excess of) bile is felt as agreeable when the bile has decreased. Again when the prince is in the prison house it is disagreeable. But when the emperor is pleased to set him free and to place him by his own side to enjoy like- pleasures, the prison house may appear agreeable as a symbol of his father's glory, although it has not undergone any change. It is said in the Rāmāyana : --" To be with you is mokṣa for me; to be without you is hell to me;" again, "To me living without ŚrīRāma, the great warrior, in the midst of these Rākṣasis, of what use is life, or wealth, or ornaments?" In Tiruvoymozi 4-8 it is said :-"As the Lord does not care for me, it would not at all matter if I lost all that I would otherwise prize highly, viz., my beauty, my mind, my modesty, the sheen of my complexion, my intelligence, my charm, my bracelets, my girdle, my body and my very life." As illustrated in the passages cited above, the objects of this world (Līlā Vibhūti), which appear disagreeable or only slightly agreeable, when the jīva is not blessed with union with the Lord, may appear supremely agreeable, when he has become a mukta enjoying without intermission (the bliss of) Bhagavān. There is nothing inconsistent in this. The same object may be disagreeable or only slightly agreeable to a man bound to saṁsāra, while to one released from the bondage of karma, it is agreeable. This is the nature ordained for them by the will of God.
+
+Again when the prince is in the prison house it is disagreeable. But when the emperor is pleased to set him free and to place him by his own side to enjoy like- pleasures, the prison house may appear agreeable as a symbol of his father's glory, although it has not undergone any change. It is said in the Rāmāyana : --" To be with you is mokṣa for me; to be without you is hell to me;" again, "To me living without ŚrīRāma, the great warrior, in the midst of these Rākṣasis, of what use is life, or wealth, or ornaments?" In Tiruvoymozi 4-8 it is said :-"As the Lord does not care for me, it would not at all matter if I lost all that I would otherwise prize highly, viz., my beauty, my mind, my modesty, the sheen of my complexion, my intelligence, my charm, my bracelets, my girdle, my body and my very life." As illustrated in the passages cited above, the objects of this world (Līlā Vibhūti), which appear disagreeable or only slightly agreeable, when the jīva is not blessed with union with the Lord, may appear supremely agreeable, when he has become a mukta enjoying without intermission (the bliss of) Bhagavān. There is nothing inconsistent in this. The same object may be disagreeable or only slightly agreeable to a man bound to saṁsāra, while to one released from the bondage of karma, it is agreeable. This is the nature ordained for them by the will of God.
 
 That Bhagavān, the Lord of Śrī, who has, for his prakāra or mode, all things whose agreeableness is dependent on His will, is the goal of attainment is implicit in the words in the dative or fourth case (Nārāyaṇāya) in Tirumantra and in Dvaya. The service referred to before is the overflow of love born of the perfect enjoyment of Brahman and the Bhāṣyakāra has explained it in several places in the (Śaraṇāgati Gadya ).
 
