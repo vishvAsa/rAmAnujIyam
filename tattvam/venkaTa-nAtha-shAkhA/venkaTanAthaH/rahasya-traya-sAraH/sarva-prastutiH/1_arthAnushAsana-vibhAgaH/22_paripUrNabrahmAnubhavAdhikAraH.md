@@ -140,7 +140,7 @@ Y sin ninguna cuestión de su **regreso** nuevamente (a Saṁsāra), **alcanza**
 ऎऩ्ऱु श्रुतियिल् सॊल्लप्पट्ट परमसाम्यत्तै, भजति - अडै किऱाऩॆऩ्गै।  
 </details>
 
-
+## परिपूर्णता
 <details><summary>English</summary>
 
 THE NATURE OF THE BLISS OF BRAHMAN :
@@ -280,12 +280,357 @@ El gobernante supremo con sus innumerables formas,  atributos, glorias y activid
 इदै विवरिक्किऱार् सर्वदेशेत्यादिना । निरतिशयभोग्यमाग इति । काष्ठलोष्टादिगळैप्पोले उदासीनमाग विषयीकरिक्कैयऩ्ऱिक्के निरतिशयानुकूलमाग अनुभविप्पाऩॆऩ्ऱबडि। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अनुभवम् ईश्वरऩुक्कुम् इवऩुक्कुम् अत्यन्त-तुल्यम् आगैयाले  
+परम-साम्यञ् **जॊल्लुगिऱदु।** 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयम् अनुभव ईश्वरस्यास्य चात्यन्त-तुल्यः  
+इति परम-साम्यं प्रोच्यते । 
+</details>
 
 
-(Since the Lord enjoys His own forms, attributes, glories and activities Himself), there is perfect similarity between the mukta's enjoyment and the Lord's.  
+<details><summary>English</summary>
+
+(Since the Lord enjoys His own forms, attributes, glories and activities Himself),  
+there is perfect similarity between the mukta's enjoyment and the Lord's.  
 Therefore (the śruti s) speak of perfect similarity.
+</details>
 
-The Lord's svarūpa is delightful as may be seen from the following passages. "He is all knowledge and all bliss". "The attainment of Bhagavān is a remedy for the disease of (saṁsāra). It is of the nature of joy which is unsurpassed and confers joy on others. It is an end in itself and lasts forever". Other things are enjoyable in this way: If the king is the queen's joy, then all objects and instruments of his enjoyment as well as the places where he finds delight are alike, objects of joy to her. Similarly the mukta finds joy in all that pertains to the Lord. That the Supreme Ruler who has all forms, attributes and the like is an object of enjoyment is evident from the śruti s and the smṛtis. This idea has been expressed in the section on Bhima in the Brahma Sūtras. The svarūpa of Bhagavān is called Paramapada, because it is the ultimate and supreme object of attainment being of unsurpassed agreeableness. Since the perfect enjoyment of the svarūpa of Bhagavān happens only after reaching a most delightful region far superior to all others, that region is also called Paramapada. The essential nature or svarūpa of the Jīva, which is the recipient of this joy in the attainment of Bhagavān which is also among the glorious possessions (Vibhūtis) of the Lord and which has, for its attributes, jñāna and ānanda, is also (sometimes ) called Paramapada. Along with the others, these three have, in common, only the feature of being the object of attainment.
+<details><summary>Español</summary>
+
+(Dado que el Señor **disfruta** de sus propias formas, atributos, glorias y actividades él mismo),  
+**Existe** una similitud perfecta entre el **disfrute** de Mukta y el de el Señor.  
+Por lo tanto (los śruti s) **hablan** de perfecta similitud.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वनुभवम् ईश्वरऩुक्कुमिवऩुक्कुमत्यन्ततुल्यमागैयाले परमसाम्यञ्जॊल्लुगिऱदु। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इव्वनुभवम् - भोगरूपमाऩ इन्द साक्षात्कारम्। ईश्वरऩुक्कुमिवऩुक्कुमत्यन्ततुल्यमागैयाले इति । ईश्वरत्व, नियाम्यत्व, शेषित्व, शेषत्वादि-धर्मङ्गळाले ईश्वरऩुक्कुम् मुक्तऩुक्कुम् अत्यन्तवैलक्षण्यमिरुन्दालुम्, प्रमेयत्वव्यापकभोग्यत्व प्रकारक साक्षात्कार विषयत्तिले इवर्गळुक्कु ईषद्वैलक्षण्यमुमिऩ्ऱिक्के अत्यन्तसाम्यमे उळ्ळदॆऩ्ऱबडि। परमसाम्यञ्जॊल्लुगिऱदु इति । एकदेशत्तिल् वैधर्म्यत्तैयुडैय वस्तुक्कळुक्कु एकदेशत्तिल् अत्यन्तसाधर्म्यत्ताले परमसाम्यम् सॊल्लुवदु शास्त्रसम्मत मिऱे। 
+</details>
+ 
+## भगवत्-स्वरूप-भोग्यता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उणर्+++(=ज्ञान)+++--मुऴु+++(=पूर्ण)+++-नलम्+++(=गुण|आनन्द)+++  
+> (तिरुवाय्मॊऴि १-१-२।)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "वेद्यः कृत्स्नम् आनन्दः" 
+
+इति 
+</details>
+
+
+<details><summary>English</summary>
+
+"He is all knowledge and all bliss". 
+</details>
+
+<details><summary>Español</summary>
+
+"Él es todo conocimiento y toda la dicha".
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+'उणर्मुऴुनलम्'(तिरुवाय्मॊऴि १-१-२।)  ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इन्द मुक्तऩुक्कु आनन्दादिमयमाऩ भगवत्स्वरूपम् भोग्यमाऩालुम्, तत्सम्बन्धियाऩ विभूतिसामान्यमुम् भोग्यमागुमोवॆऩ्ऱु शङ्गित्तु समाधानमरुळिच्चॆय्गिऱार् उणर् मुऴु नलमित्यादि । मुऴु ऎऩ्ऱदु उणरिलुम् नलत्तिलुम् मध्यमणिन्यायत्ताले अन्व यिक्किऱदु। मुऴु उणर् - कृत्स्नांशमुम् ज्ञानस्वरूपम्। मुऴु नलम् - कृत्स्नंशमुम् आनन्दस्वरूपम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निरस्तातिशयाह्लाद-  
+सुख-भावैक-लक्षणा ।  
+भेषजं भगवत्-**प्राप्तिर्**  
+एकान्ता ऽऽत्यन्तिकी मता ॥“  
+(विष्णुपुराणम् ६-५-५९।)  
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> निरस्तातिशयाह्लाद-  
+सुख-भावैक-लक्षणा ।  
+भेषजं भगवत्-**प्राप्तिर्**  
+एकान्ता ऽऽत्यन्तिकी मता ॥“  
+(विष्णुपुराणम् ६-५-५९।)  
+
+इत्य्-उक्त-रीत्या
+</details>
+
+<details><summary>English</summary>
+
+> "The attainment of Bhagavān  
+> is a remedy for the disease of (saṁsāra).  
+> It is of the nature of joy which is unsurpassed  
+> and confers joy on others.  
+> It is an end in itself and lasts forever". 
+</details>
+
+<details><summary>Español</summary>
+
+> "El **logro** de Bhagavān  
+> es un **remedio** para la enfermedad de (saṁsāra).  
+> Es de la naturaleza de la alegría que **es** insuperable  
+> y **confiere** alegría a los demás.  
+> **Es** un fin en sí mismo  
+> y **dura** para siempre ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘निरस्तातिशयाह्लादसुखभावैकलक्षणा ।  
+भेषजं भगवत्प्राप्तिरेकान्तात्यन्तिकी मता ॥“  
+(विष्णुपुराणम् ६-५-५९।)  
+ऎऩ्ऱुञ्जॊल्लुगिऱबडिये 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+निरस्तेति । इदु विष्णुपुराणवचनम्। निरस्ताः अतिशयाः यस्याः निरस्तातिशया । स्वस्मादुत्कृष्टावधिरहिता ऎऩ्ऱबडि। आह्लादसुखभावैकलक्षणा – आह्लादसुखभावः – आनन्दसुखत्वमेव एकलक्षणं यस्याः । सिद्धान्तत्तिल् सुखत्वमनुकूलत्वरूपमागैयालदु ज्ञानेतरङ्गळुक्कुमुण्डागैयाल् तद्व्यावृत्त्यर्थम् भगवदनुभवरूपभगवत् प्राप्तिक्कु आह्लादसुखलक्षणत्वम् सॊऩ्ऩदु। तथाच भगवदनुभवरूपभगवत् प्राप्तिक्कु आनन्दरूपत्वम् सॊऩ्ऩदायिऱ्ऱु। एकान्ता – प्रयोजनान्तराविषयिणी । आत्यन्तिकी – उत्तरावधिरहिता । सर्वकालव्यापिनीत्यर्थः । भगवत्प्राप्तिः – उभयविभूतिविशिष्टभगवदनुभवः । भेषजं मता – संसारव्याधिक्कु भेषजमाग निश्चयिक्कप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-स्वरूपम् भोग्यम् आगप् प्राप्तम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवत्-स्वरूपं भोग्यं भवितुम् अर्हम् ।  
+</details>
+
+<details><summary>English</summary>
+
+The Lord's svarūpa is delightful as may be seen from the ~~following~~ above passages. 
+</details>
+
+<details><summary>Español</summary>
+
+El Svarūpa del Señor **es encantador** como se puede ver de los pasajes anteriores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवत्स्वरूपम् भोग्यमागप्प्राप्तम्, 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+ऎऩ्ऱुम् सॊल्लुगिऱबडिये - ज्ञानमॆऩ्ऱुम्, आनन्दमॆऩ्ऱुम्, आनन्दसुखभावैकलक्षणमाऩ प्राप्तिक्कु विषयमॆऩ्ऱुम् सॊल्लुगिऱबडिये। भगवत्स्वरूपम् भोग्यमागप् प्राप्तमिति । 
+
+ज्ञानत्वाद् आनन्दत्वाद् आनन्दात्मकानुभव-विषयत्वाच् च  
+भोग्यत्वम् स्वतस् सिद्धम्  
+ऎऩ्ऱ बडि। +++(4)+++
+</details>
+
+
+## भगवत्-स्वरूप-व्यतिरिक्तानाम् भोग्यत्वम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मऱ्ऱ्-उळ्ळ्-अवै भोग्यम् आम् बडिय् ऎङ्ङऩेय् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[१७३]] 
+
+> अन्यस्य सर्वस्यापि भोग्यत्वं कथं (युज्यते) 
+
+इति चेत् —  
+
+</details>
+
+
+<details><summary>English</summary>
+
+Other things are enjoyable in this way:  
+</details>
+
+<details><summary>Español</summary>
+
+Otras cosas son agradables de esta manera:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुळ्ळवै भोग्यमाम्बडियॆङ्ङऩेयॆऩ्ऩिल्; 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+मऱ्ऱुमुळ्ळवै भोग्यमाम्बडि यॆङ्ङऩेयॆऩ्ऩिलिति । भगवद्व्यतिरिक्त भगवत्सम्बन्धिगुणविभूत्यादिगळ् ऎप्पडि भोग्यमागुङ्गळॆऩ्ऱबडि। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+राज-महिषिक्कु राजा भोग्यऩ् आऩाल्  
+अवऩुक्क् अभिमतङ्गळ् आय्  
+अवऩ् उडैय भोगत्तुक्क् उऱुप्प्+++(=अङ्गम्)+++ आऩ भोगोपकरण--भोग-स्थानादिगळुम्  
+इवळुक्क् अनुकूलम् आमाप् पोले  +++(4)+++
+
+इङ्गुम् भगवत्--स्व-रूपानुबन्धिगळ् आऩ्-अवैय् ऎल्लाम्  
+भोग्यम् आगक् कुऱैय् इल्लै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+राज-महिष्या राजा भोग्यश् चेत्,  
+तद्-अभिमतानां तदीय-भोग-साघनी-भूतानां भोग-स्थान--भोगोपकरणादीनाम् अपि  
+एतां प्रत्य् **अनुकूलत्वं** यथा,  +++(4)+++
+
+तथा अत्रापि भगवत्-स्वरूपानुबन्धिनः  
+सर्वेषां भोग्यत्वस्य **न क्षतिः** । 
+
+</details>
+
+
+<details><summary>English</summary>
+
+If the king is the queen's joy,  
+then all objects and instruments of his enjoyment  
+as well as the places where he finds delight are alike, objects of joy to her.  
+Similarly the mukta finds joy in all that pertains to the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+Si el rey **es** la alegría de la reina,  
+Entonces todos los objetos e instrumentos de su disfrute  
+Además de los lugares donde **encuentra** deleite, **son** objetos de alegría para ella.  
+Del mismo modo, el Mukta **encuentra** alegría  
+en todo lo **relacionado** con el Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+राजमहिषिक्कु राजा भोग्यऩाऩाल् अवऩुक्कभिमतङ्गळाय् अवऩुडैय भोगत्तुक्कुऱुप्पाऩ भोगोपकरणभोगस्थानादिगळुम् इवळुक्कनुकूल मामाप्पोले इङ्गुम् भगवत्स्वरूपानुबन्धिकळाऩवैयॆल्लाम् भोग्यमागक् कुऱैयिल्लै। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+भगवत्सम्बन्धिकळॆल्लाम् भोग्यमागुम् वऴियै दृष्टान्तत्तैक्काट्टियुपपादिक्किऱार् राजमहिषिक्कु इत्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि सर्व-प्रकार-विशिष्टऩ् आय्क् कॊण्डु  
+सर्वेश्वरऩ् भोग्यऩ् 
+
+ऎऩ्ऩुम् इडम्  
+श्रुति-स्मृत्य्-आदिगळिले प्रसिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं सर्व-प्रकार-विशिष्टः सन्  
+सर्वेश्वरो भोग्य  
+इत्य् एतत् श्रुति-स्मृत्य्-आदिषु प्रसिद्धम् ।
+</details>
+
+<details><summary>English</summary>
+
+That the Supreme Ruler who has all forms, attributes and the like is an object of enjoyment  
+is evident from the śruti s and the smṛtis. 
+</details>
+
+<details><summary>Español</summary>
+
+Que el gobernante supremo que **tiene** todas las formas, atributos y similares **es** un objeto de disfrute  
+**es evidente** por los Śruti s y los Smṛtis.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सर्वप्रकारविशिष्टऩाय्क्कॊण्डु सर्वेश्वरऩ्भोग्यऩॆऩ्ऩुमिडम् श्रुतिस्मृत्यादिगळिले प्रसिद्धम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि सर्वप्रकारविशिष्टऩाऩ भगवाऩ् भोग्यऩावाऩॆऩ्बदिल् दृष्टान्तमिरुन्दालुम्प्रमाणसम्प्रदायमिऩ्ऱिक्के तावन्मात्रत्ताले तत्सिद्धि सॊल्लक्कूडुमो वॆऩ्ऩ अदिल् प्रमाणसम्प्रदायङ्गळैक् काट्टुगिऱार् इप्पडियित्यादिना । 
+
+भोग्यऩॆऩ्ऩुमिडम् - भोग्यऩॆऩ्बदु।  
+श्रुतिस्मृत्यादिगळिले प्रसिद्धमिति ।  
+
+> ‘‘सोऽश्नुते सर्वान् कामान् सह । ब्रह्मणा विपश्चिता’’,  +++(5)+++
+
+> ‘‘रसस्येवायं लब्ध्वा ऽऽनन्दी भवति’’,  
+
+> ‘‘मनसैतान् कामान् पश्यन्  
+> रमते य एते ब्रह्म-लोके’’,  
+
+> सर्वं ह पश्यः पश्यति  
+> सर्वम् आप्नोति सर्वशः +++(5)+++
+
+इत्यादि श्रुतिकळिलुम्,  
+एतदुपबृंहणङ्गळाऩ पुराणङ्गळिलुम् प्रसिद्धमॆऩ्ऱबडि।  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थत्तै भूमाधिकरणत्तिले साधित्त् अरुळिऩार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अमुम् अर्थं भ्रमाधिकरणे साधयाम् आस । 
+</details>
+
+
+<details><summary>English</summary>
+
+This idea has been expressed in the section on Bhima in the Brahma Sūtras. 
+</details>
+
+<details><summary>Español</summary>
+
+Esta idea **se ha expresado** en la sección sobre Bhima en el Brahma Sūtras.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै भूमाधिकरणत्तिले साधित्तरुळिऩार्। 
+</details>
+
+## त्रयाणां परम-पद-शब्द-वाच्यत्वम्
+
+
+The svarūpa of Bhagavān is called Paramapada, because it is the ultimate and supreme object of attainment being of unsurpassed agreeableness. Since the perfect enjoyment of the svarūpa of Bhagavān happens only after reaching a most delightful region far superior to all others, that region is also called Paramapada. The essential nature or svarūpa of the Jīva, which is the recipient of this joy in the attainment of Bhagavān which is also among the glorious possessions (Vibhūtis) of the Lord and which has, for its attributes, jñāna and ānanda, is also (sometimes ) called Paramapada. Along with the others, these three have, in common, only the feature of being the object of attainment.
 
 It has been said above that such things as Bhagavān's svarūpa, attributes and forms, the region of eternal glory (nitya vibhūti) which is constituted of pure sattvam and his own suurüpa are objects of delight to the mukta. It may be asked, “This may be true. But by sense perception (pratyakṣa) and other sources of knowledge, the objects in this world of lilā vibhūti are found to be disagreeable and are declared by the śāstras also to be things to be given up, How then could they viz. the objects in līlā vibhūti be objects of delight to the mukta ?" The answer is as follows:--  There is nothing inconceivable in this. What appears disagreeable to the man suffering from (excess of) bile is felt as agreeable when the bile has decreased. Again when the prince is in the prison house it is disagreeable. But when the emperor is pleased to set him free and to place him by his own side to enjoy like- pleasures, the prison house may appear agreeable as a symbol of his father's glory, although it has not undergone any change. It is said in the Rāmāyana : --" To be with you is mokṣa for me; to be without you is hell to me;" again, "To me living without ŚrīRāma, the great warrior, in the midst of these Rākṣasis, of what use is life, or wealth, or ornaments?" In Tiruvoymozi 4-8 it is said :-"As the Lord does not care for me, it would not at all matter if I lost all that I would otherwise prize highly, viz., my beauty, my mind, my modesty, the sheen of my complexion, my intelligence, my charm, my bracelets, my girdle, my body and my very life." As illustrated in the passages cited above, the objects of this world (Līlā Vibhūti), which appear disagreeable or only slightly agreeable, when the jīva is not blessed with union with the Lord, may appear supremely agreeable, when he has become a mukta enjoying without intermission (the bliss of) Bhagavān. There is nothing inconsistent in this. The same object may be disagreeable or only slightly agreeable to a man bound to saṁsāra, while to one released from the bondage of karma, it is agreeable. This is the nature ordained for them by the will of God.
 
