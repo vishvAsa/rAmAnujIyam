@@ -2026,6 +2026,10 @@ En cuanto a estas almas que **alcanzan** este **disfrute** interminable de Brahm
 इप्पडि उत्तरावधियिल्लादविव्वनुभवम् पॆऱुवार्क्कन्तिमशरीरम् देवमनुष्यादिगळिलिऩ्ऩदॆऩ्ऱु तॆरियादु। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडिप्पट्ट परिपूर्णब्रह्मानुभवम् निकृष्टजन्मावसानत्तिलुम् वरुमो? अल्लदु निकृष्टजन्ममुडैयवऩुक्कु उत्कृष्टजन्मत्तैयॆडुत्तु अदिऩ् मुडिविलेये वरवेण्डुमॆऩ्गिऱ नियममुण्डोवॆऩ्ऩवरुळिच्चॆय्गिऱार् इप्पडि उत्तरावधि यिल्लाद इव्वनुभवमित्यादिना । 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2051,6 +2055,20 @@ Incluso seres como Brahma **tienen** que **alcanzar** Mokṣa.
 
 ब्रह्मादिगळुक्कुम् मोक्षमुण्डु। 
 </details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+अन्तिमशरीरम् तॆरियादु ऎऩ्बदै उपपादिक्किऱार् ब्रह्मादिगळुक्कुमित्यादिना । मोक्षमुण्डु इति । 
+
+> ‘‘ब्रह्मणा सह ते सर्वे  
+> **सम्प्राप्ते प्रतिसञ्चरे** ।  
+> परस्यान्ते कृतात्मानः  
+> **प्रविशन्ति** परं पदम्’’ 
+
+ऎऩ्ऱु प्रमाणम् सॊल्लुगैयालॆऩ्ऱबडि। 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2108,6 +2126,11 @@ Entonces también los grandes sabios **dicen**  -
 अप्पडिये ‘‘धर्मव्याधादयोऽप्यन्ते पूर्वाभ्यासाज्जु-गुप्सिते । वर्णावरत्वे संप्राप्तास्संसिद्धिं श्रमणी यथा’’(विष्णुधर्मः १०-२-२९।) ऎऩ्ऱु महर्षिकळ् सॊऩ्ऩार्गळ्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+अप्पडिये - सर्वोत्कृष्टराऩ ब्रह्माविऱ्कु मोक्षम् किडैक्कुम् प्रकारमे। धर्मव्याधादय इत्यादि । धर्मव्याधर् - वेडजादियिले पिऱन्द ऒरु महान् । आदिपदत्ताल् तुलाधारविदुरादिगळुक्कु ग्रहणम्। जुगुप्सिते – मांसविक्रयादिगळाले जुगुप्सितमायुम्, वर्णापरत्वे सत्वेऽपि - नाऩ्गु वर्णङ्गळुक्कुम् कीऴ्प्पट्टदायुमुळ्ळ व्याधत्वमिरुन्दबोदिलुम्, पूर्वाभ्यासात् – त्रैवर्णिकमाऩ पूर्वजन्मत्तिलेये आरम्भिक्कप्पट्टु इन्द जन्मत्तिलुम् अनुवृत्तमाऩ भक्तियोगाभ्यासत्ताले, संसिद्धिं प्राप्ताः – मोक्षत्तै यडैन्दार्गळ्। श्रमणी यथा – शबरी ऎऩ्गिऱ सिद्धतापसि याऩवळ् मोक्षमडैन्द प्रगारमॆऩ्गै। ऎऩ्ऱु महर्षिकळ् सॊऩ्ऩार्गळिति । इप्पडि उत्कृष्टजन्ममुडैय ब्रह्मादिगळुक्कुम् अपकृष्टदेहमुडैय धर्मव्याधादिगळुक्कुम् तत्तद्देहावसाने मोक्षमुण्डॆऩ्ऱु प्रमाणङ्गळ् सॊल्लियिरुप्पदाल्, उत्कृष्टजन्मावसानत्तिलेयो, अपकृष्टजन्मावसानत्तिलेयो ऎदिले मोक्षम् वरुमॆऩ्बदु निश्चयिक्क मुडियादॆऩ्ऱु करुत्तु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2124,7 +2147,7 @@ Entonces también los grandes sabios **dicen**  -
 <details><summary>नीलमेघः (सं)</summary>
 
 अतो मुमुक्षु-दशायाम् औपाधिकोत्कर्षापकर्षाव् अवलम्ब्य  
-मुक्त-दशायाम् अपि अनुभव-तारतम्यं भवतीति वदन्त आनन्दतीर्थायाः,  
+मुक्त-दशायाम् अपि अनुभव-तारतम्यं भवतीति वदन्त आनन्दतीर्थीयाः,  
 मुक्तानां सर्वेषां सर्वेश्वरेण सह परम-साम्यं प्रतिपादयन्तः  
 श्रुत्य्-आदीनि विसस्मरुः । 
 </details>
@@ -2154,10 +2177,401 @@ Incluso después de haber alcanzado Mukti.
 आगैयाल् मुमुक्षुदशैयिल् औपाधिकङ्गळाऩ वुत्कर्षापकर्षङ्गळैक्कॊण्डु मुक्तदशैयिलुमनुभवतारतम्यमुण्डॆऩ्ऱ आनन्दतीर्थीयर् मुक्तरुक्कॆल्लाम् सर्वेश्वरऩोडे परमसाम्यञ्जॊल्लुगिऱ श्रुत्यादिगळै मऱन्दार्गळ्।
 </details>
 
+<details><summary>सार-बोधिनी</summary>
 
-Some hold that, in accordance with defects in the observance of the prescribed code of conduct by the seeker after mukti, there would be diminution in the bliss enjoyed. Even admitting that their words deserve serious consideration as those of trust worthy authorities, they mean only this much that, in the enjoyment of Bhagavān which occurs before mukti, there would be degrees of joy. It is true that there may be delay or no delay in attaining release from bondage, but after release is (once) attained, there is no difference at all in the enjoyment of bliss (between muktas and muktas).
+इप्पडि मुमुक्षुदशैयिल् औपाधिकङ्गळाऩ उत्कर्षापकर्षङ्गळैक् कॊण्डु मुक्तिदशैयिलुम् परमात्मानुभवतारतम्यम् सॊऩ्ऩ आनन्दतीर्थीयर्गळिऩ् मतम् परमसाम्यश्रुतियिऩुडैय विस्मरणकृतमॆऩ्गिऱार् आगैयालित्यादिना । आगैयाल् - अन्तिमशरीरम् इऩ्ऩदॆऩ्ऱु नियममिऩ्ऱिक्के मुक्तदशैयिल् परिपूर्णब्रह्मानुभवम् ऎल्लोरुक्कुम् सममागैयाल् आनन्दतीर्थीयर् - आनन्दतीर्थरॆऩ्बवर् द्वैतमतप्रवर्तकराऩ सूत्रादिभाष्यकर्ता । तच्छिष्यादिगळ् आनन्दतीर्थीयर्। परमसाम्यम् सॊल्लुगिऱ श्रुतियावदु 
 
-Some jīvas attain, in such worlds as those of Viṣṇu, the privilege of living in the same world as Viṣṇu  (sālokya ), some jīvas attain proximity to the presence of Viṣṇu  (sāmipya ); some attain forms similar to that of Viṣṇu  (sārūpya): these, too, are sometimes called muktas by courtesy (upacāra), since they are very near the ultimate goal (but they are not really muktas in the true sense of the word). This idea is set forth in the following śloka  - "Some live in the worlds of Viṣṇu ; others approach very near to Viṣṇu ; others, again, acquire forms resembling Viṣṇu's; yet others attain sayujya with Viṣṇu . This, alone, is called mokṣa ." This śloka  declares that only sāyujya in Paramapada is mokṣa . In the same way as a hundred and the like are included within a thousand, sālokya and the like are included within sāyujya. The truth of this statement may be seen in the following śloka  : "I do not at all"A beg for mokṣa  which goes by the names of sālokya and sarūpya. I long, O Lord that hast taken a vow (to protect those that seek Thy help) - I long, O Thou with long arms, for sãyujya with Tbee." Sayujya means the relationship between two who are united in communion (sayuk). One might be sayuk with another, although only in the common enjoyment of a certain pleasure. Here in regard to the mukta, the object of enjoyment is Brahman with His prakāras or modes. Since Brahman and the mukta both commune with each other in the enjoyment of that bliss, the mukta is called sayuk (with Brahman).
+> ‘‘निरञ्जनः परमं साम्यम् उपैति’’ 
+
+ऎऩ्बदु। आदिपदत्ताल्  
+
+> ‘‘मम साधर्म्यम् आगताः’’ 
+
+ऎऩ्गिऱ स्मृतियुम्,  
+
+> ‘‘भोग-मात्र-साम्य-लिङ्गाच् च’’ 
+
+ऎऩ्गिऱ सूत्रमुम् विवक्षितम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आचार-वैकल्यम् उडैय मुमुक्षुक्कळुक्कु  
+आनन्द-ह्रासम् उण्ड् आम्  
+
+ऎऩ्ऱु सिलर् सॊल्लुम् वचनम्  
+आप्तम् आऩलुम्  
+मुक्तऩ् आवदऱ्कु मुऩ्ऩे वरुम् भगवद्-अनुभवत्तिल् सङ्कोचत्तैच् चॊल्लिऱ्ऱ् आम् अत्तऩै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"आचार-वैकल्यवतां मुमुक्षूणाम् आनन्द-ह्रासो भवती"ति  
+कैश्चिद् उच्यमानं वचनम् आप्तं सद् अपि,  
+मुक्तत्वापत्ति-प्राक्-कालिक-भगवद्-अनुभवे संकोचं प्रतिपादयतीत्य् एतावद् एव ।  
+</details>
+ 
+
+
+<details><summary>English</summary>
+
+Some hold that,  
+in accordance with defects in the observance of the prescribed code of conduct by the seeker after mukti,  there would be diminution in the bliss enjoyed.  
+
+Even admitting that their words deserve serious consideration  
+as those of trust worthy authorities,  
+they mean only this much that,  
+in the enjoyment of Bhagavān which occurs before mukti,  
+there would be degrees of joy.  
+</details>
+
+<details><summary>Español</summary>
+
+Algunos **sostienen** eso,  
+De acuerdo con los defectos en la **observancia** del código de conducta  
+**prescrito** por el **buscador** después de Mukti,  
+**habría disminución** en la dicha disfrutada.
+
+Incluso **admitiendo** que sus palabras **merecen** una consideración seria  
+Como los de las autoridades dignas de la confianza,  
+**Significan** solo tanto que,  
+En el **disfrute** de Bhagavān que **ocurre** antes de Mukti,  
+**Habría** grados de alegría.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आचारवैकल्यमुडैय मुमुक्षुक्कळुक्कु आनन्दह्रासमुण्डामॆऩ्ऱु सिलर् सॊल्लुम् वचनमाप्तमाऩलुम् मुक्तऩावदऱ्कु मुऩ्ऩे वरुम् भगवदनुभवत्तिल् सङ्कोचत्तैच् चॊल्लिऱ्ऱामत्तऩै। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इऩि आप्तर् सॊल्लुम् आनन्दतारतम्यवचनमन्यपर मॆऩ्गिऱार् आचारवैकल्यमित्यादिना । आचारवैकल्यमुडैय मुमुक्षुक्कळुक्कु आनन्दह्रासमुण्डाम् ऎऩ्गिऱ पर्यन्तम् आप्तवचनम्। सिलर् - श्रीरामानुजमतस्थराऩ सिलर्। आप्तमाऩालुम् - यथार्थवक्तृकर्तकतया यथार्थमाऩालुम् ऎऩ्ऱबडि। इन्द वचनत्तिऱ्कु अन्यपरतैयै उपपादिक्किऱार् मुक्तरावदऱ्कु मुऩ्ऩे वरुम् भगवदनुभवत्तिलिति । अन्द आप्तवचनत्तिल् सामान्यमाग मुमुक्षुक्कळुक्कु आनन्दह्रासमुण्डामॆऩ्ऱु सॊल्लियिरुक्किऱदेयॊऴिय,मुमुक्षुदशैयिला अल्लदु मुक्तदशैयिला ऎऩ्ऱु पिरित्तुच् चॊल्लामैयाल् परमसाम्यश्रुत्यविरोधेन मुक्तऩावदऱ्कु मुऩ्बु अदावदु - मुमुक्षुदशैयिल् वरुम् भगवदनुभवत्तिल् सङ्कोचम् वरुगिऱदॆऩ्ऱु निर्वहिक्कलामॆऩ्ऱु करुत्तु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पिऱ्+++(न्)+++-पड मुक्तर् आऩार्क्कुम्  
+नाळ् इऴवे,  
+पोक्किप् पॊरुळ् इऴव् इल्लै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पश्चान् मुक्तानां (पूर्वम् अननुभवात्) काले न्यूनता-मात्रम्,  
+न त्व् अर्थ-न्यूनता । 
+</details>
+
+
+<details><summary>English</summary>
+
+It is true that there may be delay or no delay in attaining release from bondage,  
+but after release is (once) attained,  
+there is no difference at all in the enjoyment of bliss (between muktas and muktas).
+</details>
+
+<details><summary>Español</summary>
+
+Es cierto que **puede haber retraso** o **ningún retraso** para obtener la liberación de la esclavitud,  
+Pero después del **lanzamiento se alcanza** (una vez),  
+**No hay ninguna diferencia** en el disfrute de la dicha (entre Muktas y Muktas).
+</details>
+
+<details><summary>मूलम्</summary>
+
+पिऱ्पड मुक्तराऩार्क्कुम् नाळिऴवे पोक्किप् पॊरुळिऴविल्लै। 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+आऩालुम् पूर्वकालत्तिल् मुक्तराऩवर्क्कु इप्पॊऴुदु मुक्तरागुवरैक्काट्टिलुम् आनन्दमधिकमऩ्ऱो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् पिऱ्पडेति । नाळिऴवे पोक्किप्पॊरुळिऴिविल्लै इति । अनुभवकालांशत्तिल् न्यूनाधिकभावमिरुन्दालुम् प्रमेयत्वव्यापकानुकूलत्वप्रकारकानुभवरूपमाऩ आनन्दस्वरूपत्तिल् तारतम्यमिल्लै यॆऩ्ऱु करुत्तु। श्रीविष्णुलोकादिगळिले उपासकाधिकारिभेदत्ताले सालोक्यसामीप्यसारूप्यङ्गळैप् पॆऱ्ऱवर्गळुक्कुम् मुक्तव्यपदेशमुण्डु। अवर्गळुक्कु आनन्दतारतम्यमुण्डॆऩ्बदु सर्वसम्मतम्। 
+</details>
+
+## सालोक्यादि-मात्रे मुक्ति-शब्दोपचारः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(प्रकृति-स्थ-)+++श्री-विष्णु-लोकादिगळिले सालोक्य-सारूप्यादि-मात्रम् पॆऱ्ऱार्क्कु  
+मुक्त-व्यपदेशम् अ-दूर-विप्रकर्षत्तालेय् आम् अत्तऩै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-विष्णु-लोकादिषु सालोक्य-सारूप्यादि-मात्रं प्राप्तवतां   
+मुक्तत्व-व्यपदेशो ऽदूर-विप्रकर्ष-निबन्धन इत्य् एव 
+</details>
+
+<details><summary>English</summary>
+
+Some jīvas attain, in such worlds as those of Viṣṇu,  
+the privilege of living in the same world as Viṣṇu  (sālokya ),  
+some jīvas attain proximity to the presence of Viṣṇu  (sāmipya );  
+some attain forms similar to that of Viṣṇu  (sārūpya):  
+these, too, are sometimes called muktas by courtesy (upacāra),  
+since they are very near the ultimate goal  
+(but they are not really muktas in the true sense of the word).  
+
+</details>
+
+<details><summary>Español</summary>
+
+Algunos Jīvas **alcanzan**, en mundos como los de Viṣṇu,  
+El privilegio de **vivir** en el mismo mundo que Viṣṇu (Sālokya),  
+Algunos Jīvas **alcanzan** la proximidad a la **presencia** de Viṣṇu (Sāmipya);  
+Algunos **alcanzan** formas similares a las de Viṣṇu (Sārūpya):  
+Estos también a veces se **llaman** muktas por cortesía (upacāra),  
+ya que **están** muy cerca del objetivo final  
+(Pero en realidad **no son** muktas en el verdadero sentido de la palabra).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीविष्णुलोकादिगळिले सालोक्यसारूप्यादि मात्रम् पॆऱ्ऱार्क्कु मुक्तव्यपदेशम् अदूरविप्रकर्षत्तालेयामत्तऩै। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अप्पडियिरुक्क मुक्तर्गळुक्कॆल्लाम् आनन्दतारतम्यमिल्लैयॆऩ्ऱु सॊल्ललामो वॆऩ्ऩ? अवर्गळ् साक्षान्मुक्तर्गळऩ्ऱु; आऩाल् मुक्तव्यपदेशम् दूरविप्रकर्षाभावत्ताले ऎऩ्गिऱार् श्रीविष्णुलोकादिगळिले इत्यादिना । आदिपदत्ताल् श्वेतद्वीपादिपरिग्रहः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अर्थम् 
+
+> ‘‘लोकेषु विष्णोर् निवसन्ति केचित्  
+> समीपम् ऋच्छन्ति च केचिद् अन्ये ।  
+> अन्ये तु रूपं सदृशं भजन्ते  
+> सायुज्यम् अन्ये स तु **मोक्ष उक्तः**॥’’  
+> (श्रीभागवतम् ) 
+
+ऎऩ्ऱु नियमिक्कैयाले सिद्धम्। 
+</details>
+
+<details><summary>विषयः</summary>
+
+मोक्षः, सायुज्यम्, सालोक्यम्, सारूप्यम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयम् अर्थः 
+
+> ‘‘लोकेषु विष्णोर् निवसन्ति केचित्  
+> समीपम् ऋच्छन्ति च केचिद् अन्ये ।  
+> अन्ये तु रूपं सदृशं भजन्ते  
+> सायुज्यम् अन्ये स तु **मोक्ष उक्तः**॥’’  
+> (श्रीभागवतम् ) 
+
+इति नियमनात् सिद्धः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+This idea is set forth in the following śloka  - 
+
+> "Some live in the worlds of Viṣṇu ;  
+> others approach very near to Viṣṇu ;  
+> others, again, acquire forms resembling Viṣṇu's;  
+> yet others attain sayujya with Viṣṇu .  
+> This, alone, is called mokṣa ." 
+</details>
+
+<details><summary>Español</summary>
+
+Esta idea **se establece** en el siguiente Śloka -
+
+> "Algunos **viven** en los mundos de Viṣṇu;  
+> Otros se **acercan** muy cerca de Viṣṇu;  
+> Otros, nuevamente, **adquieren** formas que se **asemejan** a las de Viṣṇu;  
+> Sin embargo, otros **alcanzan** Sayujya con Viṣṇu.  
+> Esto, solo, se **llama** mokṣa ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थम् ‘‘लोकेषु विष्णोर्निवसन्ति केचित् समीपमृच्छन्ति च केचिदन्ये । अन्ये तु रूपं सदृशं भजन्ते सायुज्यमन्ये स तु मोक्ष उक्तः’’(श्रीभागवतम् (?)) ऎऩ्ऱु नियमिक्कैयाले सिद्धम्। 
+</details>
+ 
+<details><summary>नीलमेघः (सं)</summary>
+
+इप्पडि नियमिक्कक्कूडुमो वॆऩ्ऩ? इदु प्रमाणसिद्ध मॆऩ्गिऱार् इव्वर्थमित्यादिना । लोकेष्वित्यादि । केचित् लोकेषु निवसन्ति, अन्ये केचित् विष्णुविऩुडैय समीपवासकामऩैयिऩाले उपासनम् पण्णिऩवर्गळ्। समीपमृच्छन्ति – विष्णुविऩुडैय समीपत्तै यडैगिऱार्गळ्। अन्ये तु – सारूप्यकामऩैयिऩाले उपासनम् पण्णिऩवर्गळ्, सदृशं रूपं भजन्ते – विष्णुवोडु सदृशमाऩ आभरणायुधादिमत्ताऩ रूपत्तै यडैगिऱार्गळ्। अन्ये तु – परमपदप्राप्तिकामऩैयिऩाले उपासनम् पण्णिऩ भाग्यशालिकळाऩ सिलर्, परमपदत्तैप् पॆऱ्ऱु, सायुज्यं भजन्ते – समानभोगत्वरूपमाऩ सायुज्यत्तै अडैगिऱार्गळ्। स तु - अन्द सायुज्यप्राप्तिये, इङ्गु तु शब्दत्ताल् अवधारणम् विवक्षितम्। ‘‘तु स्यात् भेदेऽवधारणे’’ ऎऩ्ऱु निघण्टुः । +++(5)+++  
+इदऩाल् सालोक्यसामीप्यसारूप्यादिगळुक्कु साक्षान्मोक्षत्वम् व्यवच्छेदिक्कप्पडुगिऱदु।  
+ऎऩ्ऱु नियमिक्कैयाले सिद्धमिति । इन्द वचनम् स तु मोक्षः ऎऩ्ऱु सायुज्यत्तैये मुख्यमोक्षमाग नियमिक्कैयाल् इतरत्र मोक्षव्यपदेशम् गौणमागैयाल् गौणमोक्षम् पॆऱ्ऱवर्गळुक्कु आनन्दतारतम्यमिरुन्दालुम् सायुज्यम् पॆऱ्ऱ मुख्यर्गळाऩ मुक्तर्गळुक्कु कीऴ्च्चॊऩ्ऩ आनन्दतारतम्याभावम् सुस्थिरमॆऩ्ऱु करुत्तु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु  
+परमपदत्तिले सॆऩ्ऱाल् वरुम् सायुज्यमे  
+"मोक्षम्" ऎऩ्गिऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+वचनम् इदम्  
+परम-पद-प्राप्तौ संपन्नायां  
+जायमानं सायुज्यम् एव  
+मोक्ष इति वदति । 
+</details>
+
+<details><summary>English</summary>
+
+This śloka  declares that only sāyujya in Paramapada is mokṣa .  
+</details>
+
+<details><summary>Español</summary>
+
+Este Śloka **declara** que solo Sāyujya en Paramapada es mokṣa.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु परमपदत्तिलेसॆऩ्ऱाल् वरुम् सायुज्यमे मोक्षमॆऩ्गिऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ननु ‘‘लोकेषु विष्णोः’’ ऎऩ्गिऱ श्लोकत्तिल् सालोक्यसामीप्यसारूप्यसायुज्यङ्गळै भिन्नभिन्नङ्गळागच् चॊल्लियिरुप्पदाल् सायुज्यत्तै यडैन्दवर्क्कुम् सालोक्यादिगळिल्लामैयाल् आनन्दपूर्तियॆङ्ङऩेयॆऩ्ऩ वरुळिच्चॆय्गिऱार् इदु परमपदत्तिले सॆऩ्ऱाल् वरुम् सायुज्यमे मोक्षमॆऩ्गिऱदु इति । इदु - लोकेषु विष्णोः ऎऩ्गिऱ श्लोकम्, परमपदत्तिले सॆऩ्ऱाल् - क्षीराब्धिश्वेतद्वीपादिगळ् पोलऩ्ऱिक्के तमसःपरमाय् तद्विष्णोः परमं पदं ऎऩ्ऱोदप्पट्ट अप्राकृतमाऩ परमपदत्तिले सॆऩ्ऱाल्, वरुम् सायुज्यमे - तद्देशावच्छेदेन इवऩुक्कु वरुम् समानभोगत्वमे, मोक्षमॆऩ्गिऱदु - इतरव्यवच्छेदेन मुख्यमोक्षमॆऩ्ऱु सॊल्लुगिऱदु। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदुक्क् उळ्ळे  
+सहस्रत्तिल् शतादिगळैप् पोले  
+सालोक्यादिगळ् ऎल्लाम् अन्तर्भूतङ्गळ् आगैयाल्  
+अङ्ग् ऒर्-उवर्क्कुम् वैषम्यम् इल्लै, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सहस्रे शतादिवत्  
+सालोक्यादीनां तद्-अन्तर्-भूतत्वात्  
+तत्र नैकस्यापि वैषम्यं भवति । +++(5)+++
+</details>
+
+
+<details><summary>English</summary>
+
+In the same way as a hundred and the like are included within a thousand,  
+sālokya and the like are included within sāyujya.  
+</details>
+
+<details><summary>Español</summary>
+
+De la misma manera que cien y similares **se incluyen** dentro de mil,  
+Sālokya y similares **se incluyen** dentro de Sāyujya.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदुक्कुळ्ळे सहस्रत्तिल् शतादिगळैप्पोले सालोक्यादिगळॆल्लामन्तर्भूतङ्गळागैयाल् अङ्गॊ रुवर्क्कुम् वैषम्यमिल्लै, 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इदऩाल् परिहारम् वन्दबडि ऎङ्ङऩे यॆऩ्ऩ वरुळिच्चॆय्गिऱार् अदुक्कुळ्ळे इत्यादिना । अदुक्कुळ्ळे - परमपदमाऩ विष्णुलोकत्तिल् तिरुमामणिमण्डबत्तिलिरुक्कुम् भगवाऩुडैय समीपत्तिल् सारूप्यादि पूर्वकमागवे वरुम् सायुज्यत्तुक्कुळ्ळे, सालोक्यादिगळॆल्लाम् अन्तर्भूतङ्गळिति । अङ्गु वरुम् सायुज्यम् सालोक्यादिगळिल्लामल् वारादॆऩ्ऱबडि। इदिल् दृष्टान्तमरुळिच् चॆय्गिऱार् सहस्रत्तिल् शतादिगळैप्पोले इति । आगैयाल् - इन्द श्लोकत्तिल् सॊऩ्ऩ सायुज्यम् सालोक्यादिगर्भमागैयाल्, अङ्गॊरुवरुक्कुम् - परमपदम् सॆऩ्ऱु सायुज्यत्तै यडैन्द ऒरुवरुक्कुम्, वैषम्यमिल्लै - भोगत्तिल् परमसाम्यमे युळ्ळदे यॊऴिय तारतम्यमिल्लैयॆऩ्ऱु करुत्तु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘मोक्षं सालोक्य-सारूप्यं  
+> प्रार्थये न कदाचन ।  
+> इच्छाम्य् अहं महाबाहो  
+> सायुज्यं तव सुव्रत’’  
+> (२-तु जितन्ता-स्तोत्तिरम् ३६) 
+
+ऎऩ्गिऱव् इडत्तिलुम् इव्व्-अर्थङ् कण्डु कॊळ्वदु। 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘मोक्षं सालोक्य-सारूप्यं  
+> प्रार्थये न कदाचन ।  
+> इच्छाम्य् अहं महाबाहो  
+> सायुज्यं तव सुव्रत’’  
+> (२-तु जितन्ता-स्तोत्तिरम् ३६) 
+
+इत्य्-अत्राप्य् अयम् अर्थो द्रष्टव्यः ।
+</details>
+
+
+
+<details><summary>English</summary>
+
+The truth of this statement may be seen in the following śloka  :  
+
+> "I do not at all beg for mokṣa  
+> which goes by the names of sālokya and sarūpya.  
+> I long, O Lord that hast taken a vow (to protect those that seek Thy help) -  
+> I long, O Thou with long arms,  
+> for sãyujya with Thee." 
+
+</details>
+
+<details><summary>Español</summary>
+
+La verdad de esta declaración **se puede ver** en el siguiente Śloka:
+
+> "**No suplico** en absoluto por mokṣa  
+> que **pasa** por los nombres de Sālokya y Sarūpya.  
+> **Anhelo**, oh Señor que **ha hecho** un voto (para **proteger** a los que **buscan** tu ayuda) -  
+> **Anhelo**, oh tú con brazos largos,  
+> Para Sãyujya con ti ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मोक्षं सालोक्यसारूप्यं प्रार्थये न कदाचन । इच्छाम्यहं महाबाहो सायुज्यं तव सुव्रत’’(२-तु जितन्ता-स्तोत्तिरम् ३६) ऎऩ्गिऱविडत्तिलुमिव्वर्थङ्गण्डु कॊळ्वदु। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+लोकेषु विष्णोः ऎऩ्गिऱ श्लोकत्तिल् सायुज्यम् मुख्यमोक्षमॆऩ्ऱु सॊऩ्ऩदऱ्कु उपोद्बलकमाऩ प्रमाणत्तैक्काट्टुगिऱार् मोक्षमित्यादिना । इव्वर्थम् कण्डुगॊळ्वदु - इन्द श्लोकत्तिल् इतरनिषेधपूर्वकम् सायुज्यत्तैये अपेक्षित्तबडियाल् सालोक्यादिगळिल् मोक्षशब्दप्रयोगम् अदूरविप्रकर्षत्ताले औपचारिकमॆऩ्गिऱ इव्वर्थत्तै निश्चयित्तुक्कॊळ्वदु। 
+</details>
+ 
+## सायुज्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सायुज्यम् आवदु  
+स-युक्किऩ्-उडैय भावम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सायुज्यं नाम सयुजो भावः । 
+</details>
+
+<details><summary>English</summary>
+
+Sayujya means the relationship between two who are united in communion (sayuk).  
+</details>
+
+<details><summary>Español</summary>
+
+Sayujya **significa** la relación entre dos que están unidos en Comunión (Sayuk).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सायुज्यमावदु सयुक्किऩुडैय भावम्। 
+</details>
+
+
+
+One might be sayuk with another,  
+although only in the common enjoyment of a certain pleasure.  
+
+Here in regard to the mukta, the object of enjoyment is Brahman with His prakāras or modes. Since Brahman and the mukta both commune with each other in the enjoyment of that bliss, the mukta is called sayuk (with Brahman).
 
 In this connection, it may be asked why, in one of the passages of the Veda, the two words, sayujya and sārshtitha are employed (in the same sentence ), when they mean the same thing, namely, communion in the enjoyment (would it not be redundant to use two words when one would be enough?). The answer is (that there is a difference in meaning between the two words ), and it is as follows:
 
