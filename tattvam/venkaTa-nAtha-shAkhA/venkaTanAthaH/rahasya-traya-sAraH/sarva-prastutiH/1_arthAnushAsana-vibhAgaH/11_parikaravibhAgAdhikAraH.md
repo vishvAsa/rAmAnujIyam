@@ -3839,11 +3839,11 @@ as ordained in the śāstras.
 
 <details><summary>Español</summary>
 
-Thus the doubts (regarding the efficacy of prapatti ) arising from analogy with everyday life  
-are removed also by the same analogy.  
-Therefore there is nothing to hinder prapatti  
-from being the upāya for the desired object,  
-as ordained in the śāstras. 
+Así, las dudas (con respecto a la eficacia de Prapatti) que **surgen** de la analogía con la vida cotidiana  
+se **eliminan** también por la misma analogía.  
+Por lo tanto, **no hay** nada que **obstaculice** a Prapatti  
+de **ser** el upāya para el objeto deseado,  
+según lo **ordenado** en los Śāstras.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3881,9 +3881,9 @@ qualified by such attributes as have been mentioned before.
 
 <details><summary>Español</summary>
 
-Supreme faith or Mahāvisvāsa is not possible for one who has not understood, from the special grace of a good ācharya, these five,  
-namely, helpful recommendation and the like,  
-qualified by such attributes as have been mentioned before.  
+La fe suprema o mahāvisvāsa **no es posible** para alguien que **no ha entendido**, de la gracia especial de una buena ācharya, estos cinco,  
+a saber, recomendación útil y similares,  
+**calificado** por los atributos que **se han mencionado** anteriormente.
 </details>
 
 
@@ -3925,11 +3925,11 @@ resulting from Iśvara's being unfavourably disposed towards him (sic).
 
 <details><summary>Español</summary>
 
-This is how it happens:  
-The man finds that  
-he is unfit to adopt such upāyas as karma yoga and the like  
-on account of his great sins  
-resulting from Iśvara's being unfavourably disposed towards him (sic).  
+Así es como sucede:  
+El hombre **encuentra** que  
+**No es apto** para adoptar upāyas como karma yoga y similares  
+a causa de sus grandes pecados  
+**resultando** de que Iśvara **está dispuesto** desfavorablemente hacia él (sic).
 </details>
 
 
@@ -3948,7 +3948,7 @@ resulting from Iśvara's being unfavourably disposed towards him (sic).
 
 ‘‘धिग् अ-शुचिम् अ-विनीतम्’’ (आळवन्दार्-स्तोत्रम् - ४७।)  
 ऎऩ्गिऱ श्लोकत्तिऩ् बडिये  
-ऎट्टव्+++(=दूरता-[मात्रां])+++ अरिय फलत्तैक् कणिसिक्कुम्+++(=दर्शनम्??)+++ पडिय् आऩ चापलत्तैयुम् उडैयऩ् आय्  
+ऎट्टव्+++(=दूरता-[मात्रां])+++ अरिय फलत्तैग् गणिसिक्कुम्+++(=गणनं)+++ पडिय् आऩ चापलत्तैयुम् उडैयऩ् आय्  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -3970,12 +3970,12 @@ His condition is such as is described in the following śloka :
 
 <details><summary>Español</summary>
 
-His condition is such as is described in the following śloka :  
+Su condición es la que **se describe** en el siguiente Śloka:
 
-> "Shame on me that have neither purity, nor modesty,  
-> neither compassion nor shame;  
-> for, O Supreme Person, I desire to aspire to Thy service  
-> which even such great yogis, as Brahma, Rudra and Sanaka find far beyond the reach of their meditation."
+> "Qué vergüenza que **no tengo** pureza ni modestia,
+> ni compasión ni vergüenza;  
+> Porque, oh persona suprema, **deseo aspirar** a tu **servicio**  
+> que incluso tan grandes yoguis, como Brahma, Rudra y Sanaka **encuentran** mucho más allá del **alcance** de su meditación ".
 </details>
 
 
@@ -4017,10 +4017,10 @@ or even a single utterance with only a general understanding of the meaning of t
 
 <details><summary>Español</summary>
 
-Thus he has a hankering for attaining an object that is hard to attain;  
-but for securing it, he adopts an upāya which does not involve physical strain, expenditure of money or length of time  
-and which is easy of performance, since it involves only a single mental act  
-or even a single utterance with only a general understanding of the meaning of the words as a whole.  
+Por lo tanto, **tiene** un **anhelo** de **alcanzar** un objeto que es difícil de **alcanzar**;  
+Pero para **asegurarlo**, **adopta** un upāya que no **implica** tensión física, gasto de dinero o duración de tiempo  
+y que es **fácil** de rendimiento, ya que **implica** solo un acto mental  
+o **incluso** una sola expresión con solo una **comprensión** general del significado de las palabras en su conjunto.  
 </details>
 
 
@@ -4053,14 +4053,14 @@ or even a single utterance with only a general understanding of the meaning of t
 
 With this easy upāya  
 he desires to attain that supremely great object (namely, mokṣa  )  
-and that, too, when he wants it. 
+and that, too, when he wants it. +++(4)+++
 </details>
 
 <details><summary>Español</summary>
 
-With this easy upāya  
-he desires to attain that supremely great object (namely, mokṣa  )  
-and that, too, when he wants it. 
+Con esta fácil upāya  
+**Desea alcanzar** ese objeto supremamente genial (a saber, mokṣa)  
+Y eso también cuando lo quiere.
 </details>
 
 
@@ -4084,8 +4084,8 @@ and that, too, when he wants it.
 
 <details><summary>नीलमेघः (सं)</summary>
 
-एतस्य फलस्य " शुनाम् इव पुरोडाशः " इति रीत्या  
-जन्म-वृत्तादिभिर् वस्तुतः स्वयम नार्ह इति ज्ञातवतः कस्यचित् 
+एतस्य फलस्य "शुनाम् इव पुरोडाशः" (पाद्म-संहिता चर्या-पादः १२-८३) इति रीत्या  
+जन्म-वृत्तादिभिर् वस्तुतः स्वयम् अनार्ह इति ज्ञातवतः कस्यचित् 
 </details>
 
 <details><summary>English</summary>
@@ -4097,9 +4097,9 @@ like a dog which is unfit to eat the offering made to the gods,
 
 <details><summary>Español</summary>
 
-He knows that, by birth, conduct and the like,  
-he is unfit to enjoy that fruit,  
-like a dog which is unfit to eat the offering made to the gods,  
+Él **sabe** que, por **nacimiento, conducta** y similares,
+**No es apto** para **disfrutar** de esa fruta
+Como un perro que **no es apto** para **comer** la **ofrenda hecha** a los dioses,
 </details>
 
 
@@ -4117,7 +4117,7 @@ like a dog which is unfit to eat the offering made to the gods,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तऩ् अनुबन्धिगळैयुङ् कॊण्डु  
-इप्-पेऱु पॆऱुवद् आग ऒरुत्तऩुक्कु महा-विश्वासम् पिऱक्कैयिल् अरुमैयै निऩैत्तु 
+इप्-पेऱु पॆऱुवद् आग ऒरुत्तऩुक्कु महा-विश्वासम् **पिऱक्कैयिल् अरुमैयै**+++(=दौर्लभ्यम्)+++ **निऩैत्तु** 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -4134,9 +4134,9 @@ but also for those who are connected with him.
 
 <details><summary>Español</summary>
 
-and yet he longs to attain this glory  
-not only for himself  
-but also for those who are connected with him.  
+Y sin embargo, **anhela alcanzar** esta gloria  
+no solo para sí mismo  
+pero también para aquellos que están conectados con él.
 </details>
 
 
@@ -4147,16 +4147,16 @@ but also for those who are connected with him.
 
 <details><summary>सार-बोधिनी</summary>
 
-इप्पडि इम्महाविश्वासम् पिऱक्कैयिल् कष्टत्तै नोक्कि इदऱ्कु ऒरु लौकिकदृष्टान्तत्तै ऎम्बाररुळिच्चॆय्दारॆऩ्गिऱार् महाविश्वासम् पिऱक्कैयिल् अरुमैयै निऩैत्तु इत्यादिना । 'कल ऎळ् कट्टुबोय्क् कल ऎण्णॆयायिऱ्ऱु' ऎऩ्बदु ऎम्बार् वचनम्। इदिऩर्थम्, ऒरु राजा ऒरु कुडिमगऩुक्कु कल ऎळ्ळुक्कट्टु अदावदु कल ऎळ्ळागुम्बडियाऩ सुमै कॊडुक्कवेणुमॆऩ्ऱु सॊल्लिविट्टाऩाय् अदऱ्कु अवऩ् मऩ्ऩाड वर अदु माट्टायागिल् कलत्तैलमावदु वरक्काट्टु ऎऩ्ऱदायिऱ्ऱु। मऩ्ऩाडिऩवऩुक्कु कल ऎळ्ळु सुमैबोय् अदिलुङ्गाट्टिल् गुरुवाऩ कलत्तैलम् वन्दु प्राप्तमायिऱ्ऱाम्। अप्पडिये यिङ्गुम् गुरुवाऩ भक्तियोगत्तैक् कुऱित्तु अञ्जिऩ अधिकारिक्कु ‘‘शरणं व्रज’’ ऎऩ्ऱु अत्यन्तदुःशकमहाविश्वासाङ्गक लघूपायत्तिऩुडैय विधानम् वन्दु विऴुन्ददु ऎऩ्ऱबडि।   
+इप्पडि इम्महाविश्वासम् पिऱक्कैयिल् कष्टत्तै नोक्कि इदऱ्कु ऒरु लौकिकदृष्टान्तत्तै ऎम्बाररुळिच्चॆय्दारॆऩ्गिऱार् महाविश्वासम् पिऱक्कैयिल् अरुमैयै निऩैत्तु इत्यादिना ।
 </details>
 
-
+#### निदर्शने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> '+++(अत्रैवाशक्तेः←)+++ कल+++(=१२-आढक-भार)+++-ऎळ्-कट्टुप् पोय्क्  
-कल ऎण्णैय् आय् इऱ्ऱु' 
+> '+++(अत्रैवाशक्तेः←)+++ कल+++(=१२-आढक-भार)+++-ऎळ्-कट्टुप्+++(=[सस्य-]भार)+++ पोय्क्  
+कल ऎण्णैय् आय् इऱ्ऱु' +++(4)+++
 
-ऎऩ्ऱु ऎम्बार् अरुळिच्-चॆय्दार् इऱे।
+ऎऩ्ऱु ऎम्बार् अरुळिच्-चॆय्दार् इऱे +++(भक्तियोगस्थाने सफला प्रपत्तिर् इति)+++।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -4164,7 +4164,7 @@ but also for those who are connected with him.
 > "+++(अत्रैवाशक्तेः←)+++ आढक-द्वादशक-तिल-भार-स्थाने  
 > तावत् तैलम् आसीत् (आपन्नम् ) ” 
 
-इति श्रीगोविन्दाचार्योऽनुजग्राह किल । 
+इति श्रीगोविन्दाचार्योऽनुजग्राह किल +++(भक्तियोगस्थाने सफला प्रपत्तिर् इति)+++। 
 </details>
 
 <details><summary>English</summary>
@@ -4174,18 +4174,18 @@ to expect this man who dreads bhaktiyoga
 to have this supreme faith (regarding the efficacy of prapatti) is  
 
 > “to ask a man who pleads inability to pay a bundle of sesamum stalks which would yield a kalam of seeds  
-> to pay instead a kalam of oil".
+> to pay instead a kalam of oil".+++(4)+++
 
 </details>
 
 <details><summary>Español</summary>
 
-Embar has, therefore, illustrated the difficulty of having such faith by saying that  
-to expect this man who dreads bhaktiyoga  
-to have this supreme faith (regarding the efficacy of prapatti) is  
+Embar, por lo tanto, **ha ilustrado** la dificultad de **tener** tanta fe diciendo que  
+**esperar** a este hombre que **teme** bhaktiyoga  
+**tener** esta fe suprema (con respecto a la eficacia de Prapatti) es
 
-> “to ask a man who pleads inability to pay a bundle of sesamum stalks which would yield a kalam of seeds  
-> to pay instead a kalam of oil".
+> **“Preguntar** a un hombre que **declare** incapacidad para **pagar** un paquete de tallos de sesamum que produciría un kalam de semillas 
+> En su lugar, **pagar** un kalam de petróleo ".
 
 </details>
 
@@ -4195,6 +4195,12 @@ to have this supreme faith (regarding the efficacy of prapatti) is
 
 'कल ऎळ्गट्टुप् पोय्क् कल ऎण्णैयायिऱ्ऱु' ऎऩ्ऱु ऎम्बाररुळिच्चॆय्दारिऱे।
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+ 'कल ऎळ् कट्टुबोय्क् कल ऎण्णॆयायिऱ्ऱु' ऎऩ्बदु ऎम्बार् वचनम्। इदिऩर्थम्, ऒरु राजा ऒरु कुडिमगऩुक्कु कल ऎळ्ळुक्कट्टु अदावदु कल ऎळ्ळागुम्बडियाऩ सुमै कॊडुक्कवेणुमॆऩ्ऱु सॊल्लिविट्टाऩाय् अदऱ्कु अवऩ् मऩ्ऩाड वर अदु माट्टायागिल् कलत्तैलमावदु वरक्काट्टु ऎऩ्ऱदायिऱ्ऱु। मऩ्ऩाडिऩवऩुक्कु कल ऎळ्ळु सुमैबोय् अदिलुङ्गाट्टिल् गुरुवाऩ कलत्तैलम् वन्दु प्राप्तमायिऱ्ऱाम्। अप्पडिये यिङ्गुम् गुरुवाऩ भक्तियोगत्तैक् कुऱित्तु अञ्जिऩ अधिकारिक्कु ‘‘शरणं व्रज’’ ऎऩ्ऱु अत्यन्तदुःशकमहाविश्वासाङ्गक लघूपायत्तिऩुडैय विधानम् वन्दु विऴुन्ददु ऎऩ्ऱबडि।   
+</details>
+
 
 ### सौलभ्य-ज्ञानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4206,7 +4212,7 @@ to have this supreme faith (regarding the efficacy of prapatti) is
 +++(गोपिका=)+++इडैच्चिगळैप् पोले विवेकम् इल्लैयेय् आगिलुम् सौलभ्यत्तैय् अऱिन्दु  
 अन्-नलऩ्-उडैय् ऒरुवऩै +++(उपगत=)+++नणुगुम् अवऩे परमास्तिकऩ्  
 
-ऎऩ्ऱु अप्पुळ्ळार रुळिच्चॆय्युम् पासुरम्।  
+ऎऩ्ऱु अप्-पुळ्ळार्+++(=तत्-पक्ष्य्[आचार्यः])+++ अरुळिच्चॆय्युम् पासुरम्।  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -4231,23 +4237,27 @@ In this connection Appullar stated that
 > the man who, like the gopis, has little discrimination  
 > but knows that the Lord is easily accessible  
 > and who seeks Him as having this quality  
+> 
 > has greater faith  
 > than the man who thinks only of the Lord's supreme greatness and remoteness and avoids Him;  
+> 
 > for the latter is called in the Gita the worst of men (narādhama)  
 > as the birth of his knowledge has only led to his ruin.
 </details>
 
 <details><summary>Español</summary>
 
-In this connection Appullar stated that 
+A este respecto, Appullar declaró que
 
-> the man who, like the gopis, has little discrimination  
-> but knows that the Lord is easily accessible  
-> and who seeks Him as having this quality  
-> has greater faith  
-> than the man who thinks only of the Lord's supreme greatness and remoteness and avoids Him;  
-> for the latter is called in the Gita the worst of men (narādhama)  
-> as the birth of his knowledge has only led to his ruin.
+> El hombre que, como el Gopis, **tiene** poca discriminación  
+> pero **sabe** que el Señor es fácilmente accesible  
+> y quién lo **busca tener** esta calidad  
+> 
+> **tiene** mayor fe  
+> que el hombre que **piensa** solo en la suprema grandeza y lejanía del Señor y lo **evita**;
+> 
+> Porque este último se **llama** en el Gita el peor de los hombres (Narādhama)
+> Como el **nacimiento** de su **conocimiento** solo **ha llevado** a su ruina.
 </details>
 
 

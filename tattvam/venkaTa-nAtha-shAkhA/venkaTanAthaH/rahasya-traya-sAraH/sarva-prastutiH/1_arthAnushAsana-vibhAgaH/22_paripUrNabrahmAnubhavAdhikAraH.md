@@ -1914,20 +1914,250 @@ y en otros pasajes como este. (Fin de la página 218)
 </details>
 
 
+### लीला-विभूति-विहारः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-कैङ्कर्यान्तर्गतम् आऩ स्व-च्छन्द-विहारत्ताले  
+लीला-विभूतियिले पुगुन्दालुम्  
+इव्व्-अनुभवत्तुक्कु सङ्कोचादिगळ् पिऱवामैयाले  
+पुनर्-आवृत्तिय् इल्लैय् ऎऩ्गिऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवत्-कैङ्कर्यान्तर्गत--स्व-च्छन्द--विहारेण  
+लीला-विभूतौ प्रवेशेऽपि  
+अस्यानुभवस्य संकोचादेर् अजननात्  
+पुनर्-आ-वृत्तिर् न भवतीत्य् उच्यते । 
+
+</details>
 
 
+<details><summary>English</summary>
 
-Even if they come to Līlā-vibhūti (this world of ours) by their own will and pleasure which are of the form of service to the Lord, there will be no diminution of their enjoyment of Brahman and in this sense there will be no return to saṁsāra.
+Even if they come to Līlā-vibhūti (this world of ours) by their own will and pleasure  
+which are of the form of service to the Lord,  
+there will be no diminution of their enjoyment of Brahman  
+and in this sense there will be no return to saṁsāra.
+</details>
 
-As regards these souls that attain this endless enjoyment of Brahman, it is not possible to say whether their last body is that of a deva, a man or other creatures. Even such beings as Brahma have to attain mokṣa. So also the great sages say : -- “Even such others as the virtuous hunter who follow gruesome professions attain the goal owing to their practice of bhakti yoga in their previous birth, as may be seen from the instance of Sramani”
+<details><summary>Español</summary>
+
+Incluso si **vienen** a Līlā-Vibhūti (este mundo nuestro) por su propia voluntad y placer  
+que **son** de la forma de servicio al Señor,  
+**No habrá disminución** de su disfrute de Brahman
+y en este sentido **no habrá retorno** a Saṁsāra.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+भगवत्कैङ्कर्यान्तर्गतमाऩ स्वच्छन्दविहारत्ताले लीलाविभूतियिले पुगुन्दालुम् इव्वनुभवत्तुक्कु सङ्कोचादिगळ् पिऱवामैयाले पुनरावृत्तियिल्लैयॆऩ्गिऱदु। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडियागिल् ब्रह्मप्राप्त्यनन्तरम् 
+
+> ‘‘इमान् लोकान् कामान्नी कामरूप्य् अनुसञ्चरन्’’ 
+
+ऎऩ्ऱु प्राकृतलोकसञ्चारम् सॊल्लुगिऱ श्रुति विरोधम् वारादोवॆऩ्ऩ पुनरावृत्तियिल्लैयॆऩ्बदऱ्कु भावमरुळिच्चॆय्गिऱार् भगवत्कैङ्कर्यान्तर्गतमाऩ इत्यादिना । स्वच्छन्दविहारत्ताले - कर्मकृत मऩ्ऱिक्कॆ भगवदिच्छानुगुणमाऩ स्वेच्छाविहारत्ताले, लीलाविभूतियिले पुगुन्दालुम् - रामकृष्णादिगळैप् पोले लीलाविभूतियिले अवदरित्तालुम्, इव्वनुभवत्तुक्कु सङ्कोचादिगळिति । इव्वनुभवम् - कीऴ्च्चॊऩ्ऩ परिपूर्णब्रह्मानुभवम्। सङ्कोचादीत्यत्रादिशब्दम् अनुभवाभावत्तैयुम् कैङ्कर्यविच्छेदादिगळैयुम् सङ्ग्रहिक्किऱदु। पुनरावृत्तियिल्लैयॆऩ् किऱदु इति । मुक्तऩुक्कु पुनरावृत्तियिल्लैयॆऩ्ऱु सॊल्लुगिऱ प्रमाणत्तिऱ्कु मुक्तऩ् स्वच्छन्दमाय् लीलाविभूतियिल् वरुगिऱदिल्लैयॆऩ्ऱु तात्पर्यमिल्लै, किन्तु मुक्तऩुक्कु लीलाविभूतियिल् कर्माधीनमाग पुनरावृत्तियिल्लै, भगवदिच्छानुगुणमाऩ स्वेच्छैयाले वरुवाऩागिल् लीलाविभूतिकार्यमाऩ ज्ञानसङ्कोचादिगळ् अवऩुक्कु वारादॆऩ्बदिलेये तात्पर्यमॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि उत्तरावधिय्-इल्लादव् इव्व्-अनुभवम् पॆऱुवार्क्क् अन्तिम-शरीरम्  
+देव-मनुष्यादिगळिल् इऩ्ऩद् ऎऩ्ऱु तॆरियादु। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि उत्तरावधियिल्लादविव्वनुभवम् पॆऱुवार्क्कन्तिमशरीरम् देवमनुष्यादिगळिलिऩ्ऩदॆऩ्ऱु तॆरियादु। 
+</details>
+
+## आनन्द-तारतम्यं न
+
+<details><summary>English</summary>
 
 THERE ARE NO DEGREES OF BLISS AMONG THE MUKTAS:
+</details>
 
-The followers of Anandatirtha take into account the superiority or inferiority of jīvas in the state of the quest for mukti and maintain that, in accordance with these degrees of merit or demerit (while in the state of seeking mukti), there would be differences in enjoyment even after they have attained mukti. They have forgotten the passages in such authorities as the śruti which speak of perfect equality with the Supreme Being in regard to enjoyment (after release from bondage).
+<details><summary>Español</summary>
+
+**No hay** grados de dicha entre los muktas:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि उत्तरावधिय् इल्लादव् इव्व्-अनुभवम् पॆऱुवार्क्क्  
+
+> अन्तिम-शरीरम् देव-मनुष्यादिगळिल् इऩ्ऩद्  
+
+ऎऩ्ऱु तॆरियादु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् उत्तरावधि-रहितम् इमम् अनुभवं  
+प्राप्स्यताम् अन्तिम-शरीरं देव-मनुष्यादिष्व् अमुकम्  
+इति ज्ञातुम् अशक्यम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+As regards these souls that attain this endless enjoyment of Brahman,  
+it is not possible to say whether their last body is that of a deva, a man or other creatures.  
+</details>
+
+<details><summary>Español</summary>
+
+En cuanto a estas almas que **alcanzan** este **disfrute** interminable de Brahman,  
+**No es posible decir** si su último cuerpo **es** el de un Deva, un hombre u otras criaturas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि उत्तरावधियिल्लादविव्वनुभवम् पॆऱुवार्क्कन्तिमशरीरम् देवमनुष्यादिगळिलिऩ्ऩदॆऩ्ऱु तॆरियादु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मादिगळुक्कुम् मोक्षम् उण्डु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ब्रह्मादीनाम् अपि मोक्षः संभवति ।  
+</details>
+
+<details><summary>English</summary>
+
+Even such beings as Brahma have to attain mokṣa.  
+</details>
+
+<details><summary>Español</summary>
+
+Incluso seres como Brahma **tienen** que **alcanzar** Mokṣa.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मादिगळुक्कुम् मोक्षमुण्डु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्पडिये 
+
+> ‘‘धर्म-व्याधादयो ऽप्य् अन्ते  
+> पूर्वाभ्यासाज् **जुगुप्सिते** ।  
+> वर्णावरत्वे **संप्राप्तास्**  
+> **संसिद्धिं** श्रमणी यथा’’  
+> (विष्णुधर्मः १०-२-२९।) 
+
+ऎऩ्ऱु महर्षिकळ् सॊऩ्ऩार्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[१७६]]  
+तथैव 
+
+> ‘‘धर्म-व्याधादयो ऽप्य् अन्ते  
+> पूर्वाभ्यासाज् **जुगुप्सिते** ।  
+> वर्णावरत्वे **संप्राप्तास्**  
+> **संसिद्धिं** श्रमणी यथा’’  
+> (विष्णुधर्मः १०-२-२९।) 
+
+इति महर्षय ऊचुः । 
+</details>
+
+
+<details><summary>English</summary>
+
+So also the great sages say : -- 
+
+> “Even such others as the virtuous hunter  
+> who follow gruesome professions  
+> attain the goal  
+> owing to their practice of bhakti yoga in their previous birth,  
+> as may be seen from the instance of Sramani”
+</details>
+
+<details><summary>Español</summary>
+
+Entonces también los grandes sabios **dicen**  -
+
+> “Incluso otros como el **cazador** virtuoso  
+> que siguen profesiones espantosas  
+> **alcanzar** el objetivo   
+> Debido a su **práctica** de bhakti yoga en su **nacimiento** anterior,  
+> Como se **puede ver** en la instancia de Sramani "
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्पडिये ‘‘धर्मव्याधादयोऽप्यन्ते पूर्वाभ्यासाज्जु-गुप्सिते । वर्णावरत्वे संप्राप्तास्संसिद्धिं श्रमणी यथा’’(विष्णुधर्मः १०-२-२९।) ऎऩ्ऱु महर्षिकळ् सॊऩ्ऩार्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् 
+
+> मुमुक्षु-दशैयिल् औपाधिकङ्गळ् आऩव् उत्कर्षापकर्षङ्गळैक् कॊण्डु  
+मुक्त-दशैयिलुम् अनुभव-तार-तम्यम् उण्ड् 
+
+ऎऩ्ऱ आनन्द-तीर्थीयर्  
+मुक्तरुक्क् ऎल्लाम्  
+सर्वेश्वरऩोडे परम-साम्यञ् जॊल्लुगिऱ श्रुत्य्-आदिगळै मऱन्दार्गळ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो मुमुक्षु-दशायाम् औपाधिकोत्कर्षापकर्षाव् अवलम्ब्य  
+मुक्त-दशायाम् अपि अनुभव-तारतम्यं भवतीति वदन्त आनन्दतीर्थायाः,  
+मुक्तानां सर्वेषां सर्वेश्वरेण सह परम-साम्यं प्रतिपादयन्तः  
+श्रुत्य्-आदीनि विसस्मरुः । 
+</details>
+
+
+<details><summary>English</summary>
+
+The followers of Anandatirtha take into account the superiority or inferiority of jīvas  
+in the state of the quest for mukti  
+and maintain that, in accordance with these degrees of merit or demerit (while in the state of seeking mukti),  
+there would be differences in enjoyment  
+even after they have attained mukti. 
+</details>
+
+<details><summary>Español</summary>
+
+Los seguidores de Anandatirtha **tienen** en cuenta la superioridad o inferioridad de Jīvas  
+en el estado de la **búsqueda** de mukti  
+y **mantener** que, de **acuerdo** con estos grados de mérito o demérito (mientras está en el estado de **buscar** mukti),  
+**Habría** diferencias en el **disfrute**  
+Incluso después de haber alcanzado Mukti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् मुमुक्षुदशैयिल् औपाधिकङ्गळाऩ वुत्कर्षापकर्षङ्गळैक्कॊण्डु मुक्तदशैयिलुमनुभवतारतम्यमुण्डॆऩ्ऱ आनन्दतीर्थीयर् मुक्तरुक्कॆल्लाम् सर्वेश्वरऩोडे परमसाम्यञ्जॊल्लुगिऱ श्रुत्यादिगळै मऱन्दार्गळ्।
+</details>
+
 
 Some hold that, in accordance with defects in the observance of the prescribed code of conduct by the seeker after mukti, there would be diminution in the bliss enjoyed. Even admitting that their words deserve serious consideration as those of trust worthy authorities, they mean only this much that, in the enjoyment of Bhagavān which occurs before mukti, there would be degrees of joy. It is true that there may be delay or no delay in attaining release from bondage, but after release is (once) attained, there is no difference at all in the enjoyment of bliss (between muktas and muktas).
 
-Some jīvas attain, ia such worlds as those of Viṣṇu , the privilege of living in the same world as Viṣṇu  (sālokya ), some jīvas attain proximity to the presence of Viṣṇu  (sāmipya ); some attain forms similar to that of Viṣṇu  (sārūpya): these, too, are sometimes called muktas by courtesy (upacāra), since they are very near the ultimate goal (but they are not really muktas in the true sense of the word). This idea is set forth in the following śloka  - "Some live in the worlds of Viṣṇu ; others approach very near to Viṣṇu ; others, again, acquire forms resembling Viṣṇu's; yet others attain sayujya with Viṣṇu . This, alone, is called mokṣa ." This śloka  declares that only sāyujya in Paramapada is mokṣa . In the same way as a hundred and the like are included within a thousand, sālokya and the like are included within sāyujya. The truth of this statement may be seen in the following śloka  : "I do not at all"A beg for mokṣa  which goes by the names of sālokya and sarūpya. I long, O Lord that hast taken a vow (to protect those that seek Thy help) - I long, O Thou with long arms, for sãyujya with Tbee." Sayujya means the relationship between two who are united in communion (sayuk). One might be sayuk with another, although only in the common enjoyment of a certain pleasure. Here in regard to the mukta, the object of enjoyment is Brahman with His prakāras or modes. Since Brahman and the mukta both commune with each other in the enjoyment of that bliss, the mukta is called sayuk (with Brahman).
+Some jīvas attain, in such worlds as those of Viṣṇu, the privilege of living in the same world as Viṣṇu  (sālokya ), some jīvas attain proximity to the presence of Viṣṇu  (sāmipya ); some attain forms similar to that of Viṣṇu  (sārūpya): these, too, are sometimes called muktas by courtesy (upacāra), since they are very near the ultimate goal (but they are not really muktas in the true sense of the word). This idea is set forth in the following śloka  - "Some live in the worlds of Viṣṇu ; others approach very near to Viṣṇu ; others, again, acquire forms resembling Viṣṇu's; yet others attain sayujya with Viṣṇu . This, alone, is called mokṣa ." This śloka  declares that only sāyujya in Paramapada is mokṣa . In the same way as a hundred and the like are included within a thousand, sālokya and the like are included within sāyujya. The truth of this statement may be seen in the following śloka  : "I do not at all"A beg for mokṣa  which goes by the names of sālokya and sarūpya. I long, O Lord that hast taken a vow (to protect those that seek Thy help) - I long, O Thou with long arms, for sãyujya with Tbee." Sayujya means the relationship between two who are united in communion (sayuk). One might be sayuk with another, although only in the common enjoyment of a certain pleasure. Here in regard to the mukta, the object of enjoyment is Brahman with His prakāras or modes. Since Brahman and the mukta both commune with each other in the enjoyment of that bliss, the mukta is called sayuk (with Brahman).
 
 In this connection, it may be asked why, in one of the passages of the Veda, the two words, sayujya and sārshtitha are employed (in the same sentence ), when they mean the same thing, namely, communion in the enjoyment (would it not be redundant to use two words when one would be enough?). The answer is (that there is a difference in meaning between the two words ), and it is as follows:
 
