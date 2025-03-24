@@ -1548,6 +1548,14 @@ que **es** el **desbordamiento** del **disfrute** perfecto de Brahman.
 ऎऩ्ऱद् आयिऱ्ऱु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः प्राप्तितया पर्यवसितः  
+यथाऽभिमत-कैङ्कर्य-पर्यन्त--परिपूर्ण-ब्रह्मानुभव  
+इति सिद्धम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 Thus the ultimate goal of attainment is the full and perfect enjoyment of Brahman  
@@ -1571,6 +1579,7 @@ que también **se extiende** a aquellos servicios que desean el Mukta.
 इवऱ्ऱाल् फलित्तवर्थत्तै निष्कर्षिक्किऱार् आगैयालित्यादिना । प्राप्तियायऱ्ऱदु - भगवत्प्राप्तियाग निर्णयिक्कप्पट्टदु। यथाभिमतेति । कैङ्कर्यपर्यन्त - कैङ्गर्यत्तै फलमाग उडैय, 
 </details>
 
+## नित्यता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1578,6 +1587,14 @@ que también **se extiende** a aquellos servicios que desean el Mukta.
 पिऩ्ब् ऒरु कालत्तिलुम् अऴियाद्  
 ऎऩ्ऩुम् इडम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयम् अनुभवो जातश् चेत्  
+पश्चात् कदाचिद् अपि न नश्यतीत्य् एतत् - 
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1605,22 +1622,300 @@ Y esto **es visto** de los siguientes pasajes:
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> ‘‘प्राप्यते परमं धाम  
+> यतो नावर्तते यतिः'',  
+> ( अहिर्बुध्न्य-संहिता ३७-२६।) 
+</details>
 
+<details><summary>नीलमेघः (सं)</summary>
 
+> ‘‘प्राप्यते परमं धाम  
+> यतो नावर्तते यतिः'',  
+> ( अहिर्बुध्न्य-संहिता ३७-२६।) 
+</details>
 
+<details><summary>English</summary>
 
-
-“The place from which the man who has meditated on Brahman never returns-  
+> “The place from which the man who has meditated on Brahman never returns-  
 that place is attained by him (the prapanna)"; 
+</details>
+
+<details><summary>Español</summary>
+
+> “El lugar del que el hombre que **ha meditado** en  Brahman **nunca regresa**-  
+Ese lugar lo **alcanza** él (la Prapanna) ";
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘प्राप्यते परमं धाम यतो नावर्तते यतिः'',( अहिर्बुध्न्य-संहिता ३७-२६।) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> माम् उपेत्य पुनर् जन्म  
+> दुःखालयम् अ-शाशस्वतम् ।  
+> **नाप्नुवन्ति** महात्मानस्  
+> **संसिद्धिं** परमां गताः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> माम् उपेत्य पुनर् जन्म  
+> दुःखालयम् अ-शाशस्वतम् ।  
+> **नाप्नुवन्ति** महात्मानस्  
+> **संसिद्धिं** परमां गताः ॥ 
+</details>
+
+<details><summary>English</summary>
 
 again, 
 
-“Those great souls who have attained the highest reach me and are never afterwards born in saṁsāra, which is the abode of suffering and is ever-chaṅgīng. All the worlds including that of Brahma are places, O Arjuna, from which souls return to saṁsāra. But the soul that has attained me, is, O Son of Kunti, never born again.", and further "When the man who has become dissociated from all contact with prakṛti has seen Brahman who is the 26th real, he will never be born again, because he has attained all that has to be attained.", and also "The heavenly bodies like the moon and the sun (the presiding deities that govern them) are born again in saṁsāra (after reaching their high positions). But those who meditate on Bhagavān with the mantra[^60] * of twelve syllables never come back to saṁsāra.
+> “Those great souls who have attained the highest reach me  
+> and are never afterwards born in saṁsāra,  
+> which is the abode of suffering and is ever-changing. 
+</details>
+
+<details><summary>Español</summary>
+
+de nuevo,
+
+> “Esas grandes almas que **han alcanzado** el más alto **Llegarme**  
+> y **nunca nacieron** después en Saṁsāra,  
+> que **es** la morada del sufrimiento y está siempre **cambiante**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मामुपेत्य पुनर्जन्म दुःखालयमशाशस्वतम् । नाप्नुवन्ति महात्मानस्संसिद्धिं परमां गताः ॥ 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+प्राप्यत इत्यादि । यतिः – यतनशीलः, ब्रह्मानुभवनिष्ठ इति यावत् । संसिद्धिं परमां गताः – समीचीनस्सिद्धिः – संसिद्धिः; परमसंसिद्धिरूपं मां प्राप्ताः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आब्रह्म-भुवनाल् लोकाः  
+> पुनर् **आवर्त्तिनो** ऽर्जन! ।  
+> मामुपेत्य तु कौन्तेय!  
+> पुनर्जन्म **न विद्यते**॥  
+> (गीता ८-१५-१६।)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> आब्रह्म-भुवनाल् लोकाः  
+> पुनर् **आवर्त्तिनो** ऽर्जन! ।  
+> मामुपेत्य तु कौन्तेय!  
+> पुनर्जन्म **न विद्यते**॥  
+> (गीता ८-१५-१६।)
+</details>
+
+<details><summary>English</summary>
+
+> All the worlds including that of Brahma are places, O Arjuna,  
+> from which souls return to saṁsāra.  
+> But the soul that has attained me, is, O Son of Kunti, never born again., 
+</details>
+
+<details><summary>Español</summary>
+
+> Todos los mundos, incluido el de Brahma, son lugares, O Arjuna,  
+> de la cual las almas **regresan** a Saṁsāra.  
+> Pero el alma que me **ha alcanzado es**, oh hijo de Kunti, **nunca nacido** de nuevo.,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आब्रह्मभुवनाल्लोकाः पुनरावर्त्तिनोऽर्जन! । मामुपेत्यतु कौन्तेय! पुनर्जन्म न विद्यते’’(गीता ८-१५-१६।)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यदा स केवली-भूतष्   
+षड्विंशम् +++(तत्त्वं मां)+++ **अनुपश्यति** ।  
+तदा स सर्व-**सिद्धत्वात्**  
+पुनर्-जन्म **न विन्दति**॥’’,  
+(भारतम् शान्ति-पर्व ३२३-८१)  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यदा स केवली-भूतष्   
+षड्विंशम् +++(तत्त्वं मां)+++ **अनुपश्यति** ।  
+तदा स सर्व-**सिद्धत्वात्**  
+पुनर्-जन्म **न विन्दति**॥’’,  
+(भारतम् शान्ति-पर्व ३२३-८१)  
+</details>
+
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+५ भूताः, ५ तन्मात्राणि, ५ ज्ञानेन्द्रियाणि, ५ कर्मेन्द्रियाणि, मनो-बुद्ध्य्-अहङ्काराः, प्रकृतिः इति २४।  
+ततो जीवेश्वराव् अधिकौ। 
+</details>
+
+<details><summary>English</summary>
+
+and further 
+
+> "When the man who has become dissociated from all contact with prakṛti  
+> has seen Brahman who is the 26th real,  
+> he will never be born again,  
+> because he has attained all that has to be attained.", 
+</details>
+
+<details><summary>Español</summary>
+
+y más
+
+> "Cuando el hombre que **se ha disociado** de todo contacto con Prakṛti  
+> **ha visto** a Brahman, que es el 26 de verdad,  
+> **Nunca volverá a nacer**,  
+> Porque **ha alcanzado** todo lo que **tiene** que **ser alcanzado** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यदा स केवलीभूतष्षड्विंशमनुपश्यति ।  
+तदा स सर्वसिद्धत्वात्पुनर्जन्म न विन्दति॥’’,  
+(भारतम् शान्ति-पर्व ३२३-८१)  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+सः – मुमुक्षुः, केवलीभूतः – प्रकृति वियुक्तः, षड्विंशं – श्रुतियिल् ‘‘तं षड्विंशमित्याहुः’’ ऎऩ्ऱु षड्विंशतत्त्वमागच् चॊल्लप्पट्ट परमात्मावै, अनुपश्यति – अर्चिरादिमार्गत्ताले सॆऩ्ऱु साक्षात्करिक्किऱाऩो। सर्वसिद्धत्वात् – सर्वप्रकारत्तालुम् सिद्धऩागैयाल्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> गत्वा गत्वा **निवर्तन्ते**  
+चन्द्रसूर्यादयो ग्रहाः ।  
+अद्यापि **न निवर्तन्ते**  
+द्वा-दाशाक्षर-चिन्तकाः॥ +++(4)+++  
+( विष्णुपुराणम् १-६-४०।)  
+</details>
+
+ttt
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> गत्वा गत्वा **निवर्तन्ते**  
+चन्द्रसूर्यादयो ग्रहाः ।  
+अद्यापि **न निवर्तन्ते**  
+द्वा-दाशाक्षर-चिन्तकाः॥,  
+( विष्णुपुराणम् १-६-४०।)  
+</details>
+
+<details><summary>English</summary>
+
+and also 
+
+> "The heavenly bodies like the moon and the sun (the presiding deities that govern them) are born again in saṁsāra (after reaching their high positions).  
+> But those who meditate on Bhagavān with the mantra[^60] of twelve syllables never come back to saṁsāra.
 
 [^60]: Namo Bhagavate Vasudevaya: with Om (or aum) preceding it.
+</details>
 
-(The same idea is evident also) in: "If a man utters the words Namo Nārāyaṇa with hands folded over the head (i.e. performs prapatti) and then goes (by the shining path), he will not be allowed to return to the world of saṁsāra, even if he furnishes security for his return to Vaikuṇṭha " and in other passages like this.(end of page 218)
+<details><summary>Español</summary>
+
+y también
+
+> "Los cuerpos celestes como la luna y el sol (las deidades que las **presiden**, que los **gobiernan**) **nacen** nuevamente en Saṁsāra (después de **alcanzar** sus altas posiciones).  
+> Pero aquellos que **meditan** en Bhagavān con el mantra [^es60] de doce sílabas **nunca regresan** a Saṁsāra.
+
+[^es60]: namo bhagavate Vasudevaya: con OM (o aum) que lo **precede**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गत्वा गत्वा निवर्तन्ते चन्द्रसूर्यादयो ग्रहाः ।  
+अद्यापि न निवर्तन्ते द्वादाशाक्षरचिन्तकाः॥,  
+( विष्णुपुराणम् १-६-४०।)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'वायिऩाल् "नमो नारणाव्" ऎऩ्ऱु  
+> मत्तकत्त्+++(=मस्तक)+++-इडैक्+++(=मध्ये)+++ कैगळैक् **कूप्पिप्** +++(अर्चिर्-आदि-मार्गेण)+++ **पोयिऩाऱ्**  
+> पिऩ्ऩैय् इद्-दिशैक्क् ऎऩ्ऱुम्+++(=कदाऽपि)+++  
+> **पुणै+++(=प्रतिभू)+++ कॊडुक्किलुम्**  
+> **पोगव् ऒट्टरे**+++(=नानुमन्यते हि)+++'  
+(पॆरियाऴ्वार् तिरुमॊऴि ४-५-२।)  
+
+इत्यादिगळिले प्रसिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “वाचा नमो नारायणेत्य् उक्त्वा 
+>  मस्तक-मध्येऽञ्जलिं बद्ध्वा +++(अर्चिर्-आदि-मार्गेण)+++ **गते सति**,  
+> पश्चात् दिशं एतां प्रति प्रतिभू-दाने ऽपि **गमनं नानुमन्येत**" 
+
+इत्यादिषु प्रसिद्धम् । 
+
+</details>
+
+
+
+<details><summary>English</summary>
+
+(The same idea is evident also) in: 
+
+> "If a man utters the words Namo Nārāyaṇa with hands folded over the head (i.e. performs prapatti)  
+> and then goes (by the shining path),  
+> he will not be allowed to return to the world of saṁsāra,  
+> even if he furnishes security for his return to Vaikuṇṭha "  
+
+and in other passages like this.(end of page 218)
+</details>
+
+<details><summary>Español</summary>
+
+(La misma idea también **es evidente**) en:
+
+> "Si un hombre **pronuncia** las palabras namo nārāyaṇa con manos dobladas sobre la cabeza (es decir, realiza Prapatti)  
+> y luego **va** (por el camino brillante),  
+> **No se le permitirá regresar** al mundo de Saṁsāra,  
+> Incluso si **proporciona** seguridad para su **regreso** a Vaikuṇṭha "
+
+y en otros pasajes como este. (Fin de la página 218)
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+'वायिऩाल् नमो नारणावॆऩ्ऱु मत्तगत्तिडैक् कैगळैक् कूप्पिप् पोयिऩाऱ्पिऩ्ऩैयित्तिसैक्कॆऩ्ऱुम् पुणैगॊडुक्किलुम् पोगवॊट्टरे' 
+(पॆरियाऴ्वार् तिरुमॊऴि ४-५-२।)  
+इत्यादिगळिले प्रसिद्धम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+वायिऩालित्यादि । नमोनारणावॆऩ्ऱु इति । तिरुवष्टाक्षरत्तैयॆऩ्ऱबडि। उच्चरित्तु इति शेषः । मत्तगत्तिडै - शिरस्सिऩ् मद्ध्यत्तिल्, कैगळैक् कूप्पि - अञ्जलिबन्धम् पण्णि, प्रपत्तियै अनुष्ठित्तॆऩ्ऱबडि।  
+पोयिऩाल् - अर्चिरादिमार्गत्ताले परमपदत्तिऱ्कुप् पोऩाल्,  
+पिऩ्ऩै - मऱुबडियुम्,  
+इत्तिसैक्कु - इन्दत् तिक्किऱ्कु, लीलाविभूतियिल् मऱुबडि संसरिक्कैक्कु ऎऩ्ऱबडि ऎऩ्ऱुम् - ऎक्कालत्तिलुम्,  
+पुणैगॊडुक्किलुम् - नाऩ् लीलाविभूतियिल् पोय् संसारभोगत्तै स्वल्पकालम् अनुभविवित्तुत् तिरुम्बवुम् वरुगिऱेऩ्; अदुवरैयिल् इवर् प्रतिभूवॆऩ्ऱु ऒरुवरै प्रतिभूवाग एऱ्पाडुसॆय्दालुम् पोगवॊट्टार् - पोग विडारॆऩ्ऱ पडि। 
+</details>
+
+
+
+
 
 Even if they come to Līlā-vibhūti (this world of ours) by their own will and pleasure which are of the form of service to the Lord, there will be no diminution of their enjoyment of Brahman and in this sense there will be no return to saṁsāra.
 
