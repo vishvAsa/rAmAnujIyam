@@ -1605,18 +1605,85 @@ Y esto **es visto** de los siguientes pasajes:
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> ‘‘प्राप्यते परमं धाम  
+> यतो नावर्तते यतिः'',  
+> ( अहिर्बुध्न्य-संहिता ३७-२६।) 
+</details>
 
+<details><summary>नीलमेघः (सं)</summary>
 
+> ‘‘प्राप्यते परमं धाम  
+> यतो नावर्तते यतिः'',  
+> ( अहिर्बुध्न्य-संहिता ३७-२६।) 
+</details>
 
+<details><summary>English</summary>
 
-
-“The place from which the man who has meditated on Brahman never returns-  
+> “The place from which the man who has meditated on Brahman never returns-  
 that place is attained by him (the prapanna)"; 
+</details>
+
+<details><summary>Español</summary>
+
+> “El lugar del que el hombre que **ha meditado** en Brahman **nunca regresa**-  
+Ese lugar lo **alcanza** él (la Prapanna) ";
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘प्राप्यते परमं धाम यतो नावर्तते यतिः'',( अहिर्बुध्न्य-संहिता ३७-२६।) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> माम् उपेत्य पुनर् जन्म  
+> दुःखालयम् अ-शाशस्वतम् ।  
+> **नाप्नुवन्ति** महात्मानस्  
+> **संसिद्धिं** परमां गताः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> माम् उपेत्य पुनर् जन्म  
+> दुःखालयम् अ-शाशस्वतम् ।  
+> **नाप्नुवन्ति** महात्मानस्  
+> **संसिद्धिं** परमां गताः ॥ 
+</details>
+
+<details><summary>English</summary>
 
 again, 
 
-“Those great souls who have attained the highest reach me and are never afterwards born in saṁsāra, which is the abode of suffering and is ever-chaṅgīng. All the worlds including that of Brahma are places, O Arjuna, from which souls return to saṁsāra. But the soul that has attained me, is, O Son of Kunti, never born again.", and further "When the man who has become dissociated from all contact with prakṛti has seen Brahman who is the 26th real, he will never be born again, because he has attained all that has to be attained.", and also "The heavenly bodies like the moon and the sun (the presiding deities that govern them) are born again in saṁsāra (after reaching their high positions). But those who meditate on Bhagavān with the mantra[^60] * of twelve syllables never come back to saṁsāra.
+> “Those great souls who have attained the highest reach me  
+> and are never afterwards born in saṁsāra,  
+> which is the abode of suffering and is ever-changing. 
+</details>
+
+<details><summary>Español</summary>
+
+de nuevo,
+
+> “Esas grandes almas que **han alcanzado** el más alto **Llegarme**  
+> y **nunca nacieron** después en Saṁsāra,  
+> que **es** la morada del sufrimiento y está siempre **cambiante**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मामुपेत्य पुनर्जन्म दुःखालयमशाशस्वतम् । नाप्नुवन्ति महात्मानस्संसिद्धिं परमां गताः ॥ 
+</details>
+
+
+
+
+
+
+
+All the worlds including that of Brahma are places, O Arjuna, from which souls return to saṁsāra. But the soul that has attained me, is, O Son of Kunti, never born again.", and further "When the man who has become dissociated from all contact with prakṛti has seen Brahman who is the 26th real, he will never be born again, because he has attained all that has to be attained.", and also "The heavenly bodies like the moon and the sun (the presiding deities that govern them) are born again in saṁsāra (after reaching their high positions). But those who meditate on Bhagavān with the mantra[^60] * of twelve syllables never come back to saṁsāra.
 
 [^60]: Namo Bhagavate Vasudevaya: with Om (or aum) preceding it.
 
