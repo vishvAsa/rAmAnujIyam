@@ -3646,35 +3646,122 @@ La palabra aikyam o (identidad) en tales pasajes
 षड्-विंशम् **अनुपश्यति** ॥  
 </details>
 
+<details><summary>English</summary>
+
+If it were not construed in this way,  
+
+> (1) “When the person who is twice-born (dvija) sees that he is different from the Supreme Being  
+> and that the Supreme Being is different from himself,  
+> he becomes free from bondage  
+> and will see for ever (Bhagavān who is) the 26th real.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Si **no se interpretó** de esta manera,
+
+> (1) “Cuando la persona que **tiene** dos veces (dvija) **ve** que es diferente del ser supremo    
+> y que el ser supremo **es** diferente de sí mismo,  
+> **se libera** de la **esclavitud**  
+> y **veré** para siempre (bhagavān que es) el 26 de verdad.
+</details>
+ 
 
 <details><summary>मूलम्</summary>
 
 इङ्ङऩल्लादबोदु  
 ‘‘यदा तु मन्यतेऽन्योऽहमन्य एष इति द्विजः ।  
 तदा स केवलीभूतष्षड्विंशमनुपश्यति ॥  
-
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-If it were not construed in this way,  
+> अन्यश् चराजन्! स +++(२६-तमः)+++ परस्  
+तथान्यः पञ्चविंशकः ।  
+तत्-स्थत्वाद् **अनुपश्यन्ति**  
+ह्य् एक एवेति साधवः ॥  
+</details>
 
+<details><summary>नीलमेघः (सं)</summary>
 
-it would be in conflict with thousands of authoritative passages like the above ~~following~~:--
+> अन्यश् चराजन्! स +++(२६-तमः)+++ परस्  
+तथान्यः पञ्चविंशकः ।  
+तत्-स्थत्वाद् **अनुपश्यन्ति**  
+ह्य् एक एवेति साधवः ॥  
+</details>
 
-> (1) “When the person who is twice-born (dvija) sees that he is different from the Supreme Being  
-> and that the Supreme Being is different from himself,  
-> he becomes free from bondage  
-> and will see for ever (Bhagavān who is) the 26th real.  
+<details><summary>English</summary>
+
 > The Supreme Being is one  
 > and the jīva-- who is the 25th real - is another.  
 > Since the Supreme Being is within him (the jīva),  
 > good men call them one.  
+</details>
+
+<details><summary>Español</summary>
+
+> El ser supremo **es** uno  
+> Y el Jīva, que es el 25 verdadero, **es** otro.  
+> Dado que el ser supremo **está** dentro de él (el Jīva),  
+> Los buenos hombres los **llaman** uno.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यश्चराजन्! स परस्तथान्यः पञ्चविंशकः ।  
+तत्स्थत्वादनुपश्यन्ति ह्येक एवेति साधवः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अन्यश् च राजन्! स परस्  
+तथान्यः पञ्चविंशकः ।  
+तेनैतन् **नाभिजानन्ति**  
+पञ्च-विंशकम् अच्युतम् ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अन्यश् च राजन्! स परस्  
+तथान्यः पञ्चविंशकः ।  
+तेनैतन् **नाभिजानन्ति**  
+पञ्च-विंशकम् अच्युतम् ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
 > The Supreme Being, O, king, is different from the jīva,  
 > and the jīva, who is the 25th real, is different from the 24 reals.  
 > Therefore good men do not consider the jīva,  
 > who is the 25th real,  
 > as being identical with the Supreme Being.  
+</details>
+
+<details><summary>Español</summary>
+
+> El Ser Supremo, O, Rey, **es diferente** del Jīva,  
+> Y el Jīva, que **es** el 25 real, **es diferente** de los 24 reales.  
+> Por lo tanto, los hombres buenos **no consideran** el Jīva,  
+> Quien **es** el 25 en realidad  
+> como **es** idéntico al ser supremo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्यश्च राजन्! स परस्तथान्यः पञ्चविंशकः ।  
+तेनैतन्नाभिजानन्ति पञ्चविंशकमच्युतम् ॥ 
+</details>
+
+
+it would be in conflict with thousands of authoritative passages like the above ~~following~~:--
+
+
+
 > So in dread of birth and death, they perform, O Kasyapa, karma yoga,  
 > acquire thereby purity of mind,  
 > and then perform jñāna yoga,  
