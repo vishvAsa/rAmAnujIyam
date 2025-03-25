@@ -2566,36 +2566,519 @@ Sayujya **significa** la relación entre dos que están unidos en Comunión (Say
 सायुज्यमावदु सयुक्किऩुडैय भावम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
 
+इऩि सायुज्यशब्दार्थत्तै निष्कर्षिक्किऱार् सायुज्य मावदु इत्यादिना । सयुजो भावः सायुज्यमॆऩ्ऱु सयुक् शब्दत्तिऩ्बेरिल् भावप्रत्ययत्ताले एऱ्पट्ट सायुज्य शब्दत्तिऱ्कु द्रामिडभाषैयाले विवरणम् सयुक्किऩुडैय भावमिति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सयुक्क् आवाऩ्  
+ऒरु भोग्यत्तिले  
+भोक्ताव् आय्क् कॊण्डु  
+कूडव् अऩ्वयिक्कुमवऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[१७७]]  
+सयुक् नाम सः  
+य एकस्मिन् भोग्ये सह-भोक्तृत्वेनान्वेति ।  
+
+</details>
+
+
+<details><summary>English</summary>
 
 One might be sayuk with another,  
 although only in the common enjoyment of a certain pleasure.  
 
-Here in regard to the mukta, the object of enjoyment is Brahman with His prakāras or modes. Since Brahman and the mukta both commune with each other in the enjoyment of that bliss, the mukta is called sayuk (with Brahman).
-
-In this connection, it may be asked why, in one of the passages of the Veda, the two words, sayujya and sārshtitha are employed (in the same sentence ), when they mean the same thing, namely, communion in the enjoyment (would it not be redundant to use two words when one would be enough?). The answer is (that there is a difference in meaning between the two words ), and it is as follows:
-
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
-
-सायुज्यमुभयोरत्र भोक्तव्यस्याविशिष्टता ।  
-सार्ष्टिता तत्र भोगस्य तारतम्यविहीनता ॥
 </details>
 
-<details><summary>मूलम् (सं॰प॰)</summary>
+<details><summary>Español</summary>
 
-सायुज्यमुभयोरत्र भोक्तव्यस्याविशिष्टता ।  
-सार्ष्टिता तत्र भोगस्य तारतम्यविहीनता ॥
+Uno **podría ser** Sayuk con otro,  
+aunque solo en el **disfrute** común de un cierto placer.
 </details>
 
-Sayujyam between the two (Brahman and the mukta) means that there is no difference so far as the objects of enjoyment are concerned : sārshtita (between the two) means that there is no difference in the degree or intensity of their enjoyment. (Two men may have before them the same object of enjoyment and yet one of them may enjoy it more intensely than the other).
 
-It is true that the mukta has nothing to do with the work of creating, maintaining, destroying and such other things in regard to the world (Jagad Vyāpāra). But just as the father who cultivates the field and the sons and others who do not cultivate it enjoy alike the fruit from the cultivated field, Iśvara who is engaged in the work of the world (Jagad Vyāpāra ) and the mukta who only witnesses it have the same degree of enjoyment in the joy arising from that work. The author of the Brahma Sūtras has stated at the beginning of the section : "(The 'mukta's enjoyment is ) exclusive of the work of the world" and concludes it by saying:" The resemblance or equality (sāmyam) between the mukta and Brahman is only so far as the enjoyment is concerned, as stated in the śruti s, and also by inference linga". Sakatayana has also stated as follows:- Those who meditate on Brahman say that sāyujyam consists in the sameness or equality of enjoyment".
+<details><summary>मूलम्</summary>
 
-REFUTATION OF THE ADVAITIC DOCTRINE OF
+सयुक्कावाऩॊरु भोग्यत्तिले भोक्ता वाय्क्कॊण्डु कूडवऩ्वयिक्कुमवऩ्। 
+</details>
 
-IDENTITY:
+<details><summary>सार-बोधिनी</summary>
 
-To those (viz. Advaitins) who maintain that the word Sayujyam, means oneness or identity with Brahman (aikyam), the derivative or etymological meaning of the word, sãyujyam, is at variance, as also the texts in the śruti [ Such śrutis as the following:-Brahman is the eternal among eternals, the sentient among sentients. (1) He is one and satisfies the desires of the many: Svetasvatara Upaniṣad. 2) Without any blemish or stain he attains perfect resemblance (paramam samyam).]  which declare that Brahman is different from the jīvas. Besides, their view is opposed also to the śrutis which declare that the mukta will attain perfect resemblance (sāmyam) to Brahman and that the mukta will be like Brahman. The author of the Gita has conveyed the same idea in :- "They will attain my likeness (sādharmyam)":
+सयुक्छब्दार्थत्तै वॆळियिडुगिऱार् सयुक्कावाऩित्यादियाल्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु स-प्रकार-ब्रह्मम् आगिऱ भोग्यत्तिले  
+ब्रह्मम् उम् मुक्तऩुङ् कूड भोक्ताक्कळ् आय् अन्वयिक्कैयाले  
+मुक्तऩै सयुक्क् ऎऩ्गिऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र स-प्रकारक-ब्रह्म-रूपे भोग्ये  
+ब्रह्मणो मुक्तस्य च  
+सह-भोक्तृत्वेनान्वयात्  
+मुक्तः स-युग् इत्य् उच्यते । 
+</details>
+
+
+<details><summary>English</summary>
+
+Here in regard to the mukta,  
+the object of enjoyment is Brahman with His prakāras or modes.  
+Since Brahman and the mukta both commune with each other  
+in the enjoyment of that bliss,  
+the mukta is called sayuk (with Brahman).
+</details>
+
+<details><summary>Español</summary>
+
+Aquí con respecto al mukta,  
+El objeto del disfrute **es** Brahman con sus Prakāras o modos.  
+Ya que Brahman y el Mukta se **comunican** entre sí  
+En el **disfrute** de esa dicha,  
+El Mukta **se llama** Sayuk (con Brahman).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु सप्रकारब्रह्ममागिऱ भोग्यत्तिलेब्रह्ममुम् मुक्तऩुङ्गूड भोक्ताक्कळायन्वयिक्कैयाले मुक्तऩै सयुक् कॆऩ्गिऱदु। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+सामान्यमागच् चॊऩ्ऩ अर्थत्तै प्रकृतविषयत्तिल् विशेषित्तुक्काट्टुगिऱार् इङ्गु सप्रकारब्रह्ममागिऱ भोग्यत्तिले इति । सप्रकारम् - सविशेषणम्, उभयविभूतिविशिष्टमिति यावत् । ब्रह्ममागिऱ भोग्यत्तिले - ब्रह्ममागिऱ अनुभाव्यत्तिले, ब्रह्ममुम् मुक्तऩुम् कूड भोक्ताक्कळाय् अन्वयिक्कैयाले इति । ब्रह्ममाऩदु सर्वप्रकारविशिष्टऩाऩ तऩ्ऩै अनुकूलमाग ऎप्पडि अनुभविक्किऱदो अप्पडिये मुक्तऩुम् उभयविभूतिविशिष्टमाऩ ब्रह्मत्तै अनुकूलमागवे अनुभविक्कैयाल्, मुक्तऩै सयुक् ऎऩ्गिऱदु - ब्रह्मत्तोडे समान भोगवाऩॆऩ्गिऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडिय् आगिल्  
+श्रुतियिल् सायुज्य-शब्दमुम् सार्ष्टिता-शब्दमुम् सेर प्रयोगिप्पाऩ् एऩ्? 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवं सति  
+श्रुतौ सायुज्य-शब्दस्य साष्र्ष्टिता-शब्दस्य च सह प्रयोगः कुत 
+
+इति चेत् — 
+</details>
+
+<details><summary>English</summary>
+
+In this connection, it may be asked  
+
+> why, in one of the passages of the Veda, the two words, sayujya and sārshtitha are employed (in the same sentence ),  
+> when they mean the same thing,  
+> namely, communion in the enjoyment  
+> (would it not be redundant to use two words when one would be enough?). 
+</details>
+
+<details><summary>Español</summary>
+
+A este respecto, se **puede preguntar**
+
+> Por qué, en uno de los pasajes del Veda, **se emplean** las dos palabras, Sayujya y Sārshtitha (en la misma oración),  
+> Cuando **significan** lo mismo,  
+> a saber, **comunión** en el **disfrute**  
+> (**¿No sería redundante usar** dos palabras cuando una sería **suficiente**?).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियागिल् श्रुतियिल् सायुज्यशब्दमुम् सार्ष्टिताशब्दमुम् सेर प्रयोगिप्पाऩेऩॆऩ्ऩिल्; 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि सायुज्य-शब्दम् समानभोगत्वत्तैच् चॊऩ्ऩाल्  
+
+> ‘‘सायुज्य--सार्ष्टिता--समान-लोकताम् आप्नोति’’ 
+
+ऎऩ्गिऱ श्रुतियिल् सार्ष्टिताशब्दत्तोडु सायुज्यशब्दप्रयोगम् पुनरुक्तमागादो वॆऩ्गिऱ शङ्कैयै उत्थापनम् पण्णि इरण्डुम् भिन्नार्थकमागैयाल् पौनरुक्त्यमिल्लै यॆऩ्ऱु परिहरिक्किऱार् इप्पडियागिल् श्रुतियिल् सायुज्यशब्दमुम् सार्ष्टिताशब्दमुम् सेर प्रयोगिप्पाऩेऩॆऩ् ऩिलित्यादिना । 
+</details>
+
+### सार्ष्टिता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सायुज्यम् उभयोर् अत्र  
+भोक्तव्यस्याविशिष्टता ।  
+सार्ष्टिता तत्र भोगस्य  
+तार-तम्य-विहीनता ॥+++(4)+++  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सायुज्यम् उभयोर् अत्र  
+भोक्तव्यस्याविशिष्टता ।  
+सार्ष्टिता तत्र भोगस्य  
+तार-तम्य-विहीनता ॥+++(4)+++  
+</details>
+
+
+
+<details><summary>English</summary>
+
+The answer is (that there is a difference in meaning between the two words ),  
+and it is as follows:
+
+Sayujyam between the two (Brahman and the mukta) means that  
+there is no difference  
+so far as the objects of enjoyment are concerned.  
+sārshtita (between the two) means that  
+there is no difference  
+in the degree or intensity of their enjoyment.  
+(Two men may have before them the same object of enjoyment  
+and yet one of them may enjoy it more intensely than the other).
+</details>
+
+<details><summary>Español</summary>
+
+La respuesta **es** (que hay una **diferencia** en el significado entre las dos palabras),  
+Y **es** como sigue:
+
+Sayujyam entre los dos (Brahman y Mukta) **significa** que
+**No hay diferencia**  
+En lo que respecta a los objetos de disfrute.
+
+sārshtita (entre los dos) significa que  
+**No hay** diferencia  
+en el grado o intensidad de su disfrute.
+
+(Dos hombres **pueden tener** ante ellos el mismo objeto de disfrute  
+Y, sin embargo, uno de ellos **puede disfrutarlo** más intensamente que el otro).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सायुज्यमुभयोरत्र  
+भोक्तव्यस्याविशिष्टता ।  
+सार्ष्टिता तत्र भोगस्य  
+तारतम्यविहीनता ॥  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+सायुज्यमिति । उभयोः - इरण्डुबेर्गळुक्कु, भोक्तव्यस्याविशिष्टता – भोग्यसाधारण्यमाऩदु, अत्र - इन्द श्रुतियिल्, सायुज्यं – सायुज्यमॆऩ्ऱु सॊल्लप्पडुगिऱदु। तत्र - अव्विरण्डुबेर्गळुक्कुळ्ळे, भोगस्य – अनुभवत्तिऱ्कु, तारतम्यविहीनता – तारतम्यमिल्लामै, अदावदु अत्यन्तसाम्यम्। सार्ष्टिता – सार्ष्टिताशब्दवाच्यम्। रोग्यरोगियाऩ इरुवर्गळुक्कु भक्ष्यवस्तु सममायिरुन्दालुम् रोगियाऩवऩ् अरोगियैप्पोल् भोक्तुं न शक्नोति । अप्पोदु अवर्गळुक्कु भोगत्तिल् तारतम्यमुण्डु। अदु पोलऩ्ऱिक्के अरोगियाऩ इरुवर्गळ् ऒरु भक्ष्यवस्तुविऱ्कु भोक्ताक्कळाऩल् अवर्गळुक्कु भोगत्तिल् तारतम्यमिरादु। अन्द तारतम्यमिल्लामैयै सार्ष्टिताशब्दम् सॊल्लुम्। अप्पडिये सर्वप्रकारविशिष्ट ब्रह्मानन्दानुभवत्तिल् ब्रह्मत्तिऱ्कुम् मुक्तऩुक्कुम् तारतम्यमिल्लामैयाल् अङ्गु सार्ष्टिताशब्दम्। तथाच सायुज्यशब्दम् इरण्डुबेर्गळुक्कुम् भोग्यमॊऩ्ऱु ऎऩ्गिऱदु। सार्ष्टिताशब्दम् इरण्डुबेर्गळुडैय भोगत्तिऱ्कुम् तरतमभावमिल्लैयॆऩ्गिऱदु। आगैयाल् भिन्नार्थकमाऩ इरण्डु शब्दङ्गळुक्कु सहप्रयोगङ्गूडुमॆऩ्ऱु करुत्तु। 
+</details>
+
+
+### जगद्-व्यापार-रसः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्तऩुक्कु जगद्-व्यापारम् इल्लैयेय् आगिलुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुक्तस्य जगद्-व्यापाराभावे ऽपि,  
+</details>
+
+
+<details><summary>English</summary>
+
+It is true that the mukta has nothing to do with the work of creating, maintaining, destroying and such other things in regard to the world (Jagad Vyāpāra). 
+</details>
+
+<details><summary>Español</summary>
+
+**Es cierto** que el Mukta **no tiene** nada que ver con el **trabajo** de **crear, mantener, destruir** y otras cosas con respecto al mundo (Jagad Vyāpāra).
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुक्तऩुक्कु जगद्व्यापारमिल्लैयेयागिलुम् 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+मुक्तऩुक्कु जगद्व्यापारमिल्लामलिरुक्क जगद्व्यापारम् पण्णुम् ब्रह्मत्तोडु भोगसाम्यम्गूडुमो वॆऩ्ऩ? दृष्टान्तत्तैक्काट्टि समाधानमरुळिच्चॆय्गिऱार् मुक्तऩुक्कित्यादिना । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कृषि पण्णिऩ पितावुम्  
+निर्व्यापारर् आऩ पुत्रादिगळुम्  
+कृषि-फलत्तै भुजिक्कुमाप् पोले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कृषि-कारिणा पित्रा  
+निर्व्यापारैः पुत्रादिभिश् च कृषि-फल-भोगवत्  
+</details>
+
+<details><summary>English</summary>
+
+But just as the father who cultivates the field  
+and the sons and others who do not cultivate it  
+enjoy alike the fruit from the cultivated field,  
+</details>
+
+<details><summary>Español</summary>
+
+Pero así como el padre que **cultiva** el campo  
+y los hijos y otros que **no lo cultivan**  
+Ambos **disfruten** de la fruta del campo cultivado,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कृषिपण्णिऩ पितावुम् निर्व्यापारराऩ पुत्रादिगळुम् कृषिफलत्तै भुजिक्कुमाप्पोले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जगद्-व्यापारत्ताल् वरुम् रसम्  
+व्यापरिक्किऱव् ईश्वरऩुक्कुम् पार्त्त् इरुक्किऱ मुक्तऩुक्कुम् तुल्यम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+जगद्-व्यापार-जन्यो रसो  
+व्याप्रियमाणस्येश्वरस्य द्रष्टुर् मुक्तस्य च तुल्यः ।  
+</details>
+
+
+<details><summary>English</summary>
+
+Iśvara who is engaged in the work of the world (Jagad Vyāpāra )  
+and the mukta who only witnesses it  
+have the same degree of enjoyment in the joy arising from that work.  
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara que **se dedica** al **trabajo** del mundo (Jagad Vyāpāra)  
+y el mukta que solo lo **presencia**  
+**Tenga** el mismo grado de **disfrute** en la alegría derivada de ese **trabajo**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जगद्व्यापारत्ताल् वरुम् रसम् व्यापरिक्किऱ वीश्वरऩुक्कुम् पार्त्तिरुक्किऱ मुक्तऩुक्कुम्तुल्यम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सूत्र-काररुम्  
+
+> ‘‘जगद्-व्यापार-वर्जं’’(ब्रह्मसूत्रम् ४-४-१७।) 
+
+ऎऩ्ऱु तुडङ्गि 
+
+> ‘‘भोग-मात्र-साम्य-लिङ्गाच् च’’(ब्रह्मसूत्रम् ४-४-२१।) 
+
+ऎऩ्ऱ् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सूत्र-कारो ऽपि, 
+
+> ‘‘जगद्-व्यापार-वर्जं’’(ब्रह्मसूत्रम् ४-४-१७।) 
+
+इत्यारभ्य
+
+> ‘‘भोग-मात्र-साम्य-लिङ्गाच् च’’(ब्रह्मसूत्रम् ४-४-२१।) 
+
+इत्य् अनुजमाह । 
+</details>
+
+
+<details><summary>English</summary>
+
+The author of the Brahma Sūtras has stated at the beginning of the section : 
+
+> "(The mukta's enjoyment is ) exclusive of the work of the world" 
+
+and concludes it by saying:
+
+> "The resemblance or equality (sāmyam) between the mukta and Brahman  
+> is only so far as the enjoyment is concerned,  
+> as stated in the śruti s,  
+> and also by the inference linga". 
+</details>
+
+<details><summary>Español</summary>
+
+El autor del Brahma Sūtras **ha declarado** al comienzo de la sección:
+
+> "(El **disfrute** de Mukta **es**) **exclusivo** del **trabajo** del mundo"
+
+y lo **concluye diciendo**:
+
+> "La semejanza o la igualdad (Sāmyam) entre Mukta y Brahman  
+> **es** solo en lo que respecta al **disfrute**,  
+> Como **se indica** en los Śrutis,  
+> y también por la Linga inferencia".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सूत्रकाररुम् ‘‘जगद्व्यापारवर्जं’’(ब्रह्मसूत्रम् ४-४-१७।) ऎऩ्ऱु तुडङ्गि ‘‘भोगमात्रसाम्यलिङ्गाच्च’’(ब्रह्मसूत्रम् ४-४-२१।) ऎऩ्ऱरुळिच्चॆय्दार्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सामरस्यं हि सायुज्यं  
+> वदन्ति ब्रह्मवादिनः’’  
+> (शाकटायनः) 
+
+ऎऩ्ऱु शाकटायनऩुम् सॊऩ्ऩाऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सामरस्यं हि सायुज्यं  
+> वदन्ति ब्रह्मवादिनः’’  
+> (शाकटायनः) 
+
+इति शाकटायनो ऽप्य् अवोचत् । 
+</details>
+
+<details><summary>English</summary>
+
+Sakatayana has also stated as follows:- 
+
+> Those who meditate on Brahman **say** that  
+> sāyujyam **consists** in the sameness or equality of enjoyment.
+</details>
+
+<details><summary>Español</summary>
+
+Sakatayana también **ha declarado** lo siguiente:-
+
+> Aquellos que meditan en Brahman **dicen** que  
+> sāyujyam **consiste** en la igualdad o igualdad del disfrute.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सामरस्यं हि सायुज्यं वदन्ति ब्रह्मवादिनः’’(शाकटायनः)ऎऩ्ऱु शाकटायनऩुम् सॊऩ्ऩाऩ्। 
+</details>
+
+
+### ऐक्यं न
+<details><summary>English</summary>
+
+REFUTATION OF THE ADVAITIC DOCTRINE OF IDENTITY:
+</details>
+
+<details><summary>Español</summary>
+
+Refutación de la doctrina de la identidad advaitic:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शब्द-शक्तिय् इऩ्ऱिक्केय् इरुक्क  
+भेद-श्रुतिगळुम् विरोधिक्क  
+सायुज्य-शब्दत्तुक्कु ऐक्यम् पॊरुळ् आग निऩैत्त् इरुप्पार्क्कु  
+
+> मुक्तऩ् परम-साम्यत्तै अडैयुम् 
+
+ऎऩ्ऱुम्  
+
+> तादृक्क् आम् 
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ श्रुतिगळुम् विरोधिक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+To those (viz. Advaitins) who maintain that the word Sayujyam means oneness or identity with Brahman (aikyam),  
+the derivative or etymological meaning of the word, sãyujyam,  
+is at variance, as also the texts in the śruti which declare that Brahman is different from the jīvas.  
+
+[ Such śrutis as the following:-  
+Brahman is the eternal among eternals,  
+the sentient among sentients.  
+(1) He is one and satisfies the desires of the many:  
+Svetasvatara Upaniṣad.  
+(2) Without any blemish or stain  
+he attains perfect resemblance (paramam samyam).]  
+
+Besides, their view is opposed also to the śrutis  
+which declare that the mukta will attain perfect resemblance (sāmyam) to Brahman  
+and that the mukta will be like Brahman. 
+</details>
+
+<details><summary>Español</summary>
+
+A aquellos (a saber, advaitins) que **sostienen** que la palabra sayujyam **significa** unidad o identidad con Brahman (aikyam),  
+El **significado** derivado o etimológico de la palabra, sãyujyam,  
+**está** en varianza, como también los textos en el Śruti  
+que **declaran** que Brahman **es diferente** de los Jīvas.
+
+[Tales Śrutis como los siguientes:-
+
+- Brahman **es** el eterno entre los eternos,
+**el** sensible entre los sentientes.
+-  Él **es** uno y satisface los deseos de los muchos:
+Svetasvatara Upaniṣad.
+- sin mancha ni mancha  
+  Él **alcanza** la semejanza perfecta (Paramam samyam).]
+
+Además, su punto de vista **se opone** también al Śrutis  
+que **declara** que el Mukta **obtendrá** un parecido perfecto (Sāmyam) con Brahman  
+y que el Mukta **será** como Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शब्दशक्तियिऩ्ऱिक्केयिरुक्क भेदश्रुतिकळुम् विरोधिक्क सायुज्यशब्दत्तुक्कु ऐक्यम् पॊरुळाग निऩैत्तिरुप्पार्क्कु मुक्तऩ् परमसाम्यत्तै अडैयुमॆऩ्ऱुम् तादृक्कामॆऩ्ऱुञ्जॊल्लुगिऱ श्रुतिकळुम् विरोधिक्कुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘मम साधर्म्यम् आगताः’’(गीता १४-२।)  
+
+ऎऩ्ऱु गीताचार्यऩुम् अरुळिच् चॆय्दाऩ्। 
+</details>
+
+
+<details><summary>English</summary>
+
+The author of the Gita has conveyed the same idea in :-  
+"They will attain my likeness (sādharmyam)".
+</details>
+
+<details><summary>Español</summary>
+
+El autor de la Gita **ha transmitido** la misma idea en:-  
+"Ellos **alcanzarán** mi semejanza (Sādharmyam)".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मम साधर्म्यमागताः’’(गीता १४-२।) ऎऩ्ऱु गीताचार्यऩुमरुळिच्चॆय्दाऩ्। 
+</details>
+
+
+
+
 
 The Maharshi (Vyāsa) has also expressed this idea at great length in the discourse between Vasiṣṭa and Karala and concludes by saying that this is the supreme truth - "The jīva released from bondage (i.e.) the mukta, attains the Supreme Being and acquires attributes similar to those of the Supreme Being. He too becomes free from all imperfections when he reaches Him. Having attained the Omniscient Brahman, he, too, becomes omniscient. Having reached Him who is free from the bondage of karma, he, too, becomes free from karma. Having attained Bhagavān who is free from suffering and sorrow, he, too, becomes free from them. Having reached Him who is blissful, he, too, becomes blissful. O best of Bharatas, having attained Bhagavān who acts by His will alone (without being influenced by karma), he, too, acts merely by his will. He becomes resplendent and having attained Bhagavān who is without the qualities (of prakṛti) he, too, is without those qualities. Having reached Brahman who is without the body and the senses constituted of matter (Prakṛti), he, too, becomes free from them. Having attained the Supreme Being who is independent of karma, he too, becomes independent. I have thus described the truth to you, O great king, just as it is in reality. Having accepted this teaching with a mind free from discontent (asuya), meditate on Brahman who is eternal and free from all imperfections and who is the (ultimate) cause of the world".
 
