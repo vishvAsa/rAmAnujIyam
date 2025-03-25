@@ -3154,7 +3154,7 @@ El autor de la Gita **ha transmitido** la misma idea en:-
 गीतास्मृतिविरोधमुम् वरुमॆऩ्गिऱार् मम साधर्म्यमागता इत्यादिना ।   
 </details>
 
-
+#### व्यास-निर्णयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3471,12 +3471,130 @@ y **concluye diciendo** que esta **es** la verdad suprema.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु मुक्तऩै स्वतन्त्रऩ् ऎऩ्गिऱदु कर्मवश्यऩ् अऩ्ऱ् ऎऩ्ऱ बडि। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र मुक्त-विषये स्वतन्त्र इत्य्-उक्तिः अकर्मवश्यत्वपरा।| 
+</details>
+
+
+<details><summary>English</summary>
+
+In the passage cited above,  
+the mukta is called 'independent' (svatantra ),  
+because he is free from the influence of past karma. 
+</details>
+
+<details><summary>Español</summary>
+
+En el pasaje **citado** anteriormente,  
+El mukta **se llama** 'independiente' (svatantra),  
+Porque **está** libre de la influencia del karma pasado.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु मुक्तऩै स्वतन्त्र ऩॆऩ्गिऱदु कर्मवश्यऩऩ्ऱॆऩ्ऱबडि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्त-विषयम् आऩ स्वराट्-छब्दत्तै  
+‘‘अ-कर्म-वश्यः’’ ऎऩ्ऱु  
+भाष्यकारर् व्याख्यानम् पण्णिय् अरुळिऩार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुक्त-विषयं स्वराट्-शब्दम्  
+"अ-कर्म-वश्यः" इति भाष्य-कारो व्याचचक्षे । 
+</details>
+
+<details><summary>English</summary>
+
+The Bhāṣyakāra (Śrī Rāmānuja) has explained the meaning of the word Svarat (literally the independent king)  
+as being not subject to karma.
+</details>
+
+<details><summary>Español</summary>
+
+El Bhāṣyakāra (śrī rāmānuja) **ha explicado** el significado de la palabra svarat (literalmente el rey independiente)  
+como **no estar sujeto** al karma.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुक्तविषयमाऩ स्वराट्छब्दत्तै ‘‘अकर्मवश्यः’’ ऎऩ्ऱु भाष्यकारर् व्याख्यानम् पण्णियरुळिऩार्। 
+</details>
+
+#### ऐक्य-वाक्य-निर्वाहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि श्रुति-स्मृति-सूत्रङ्गळिले साम्यम् कण्ठोक्तम् आगैयाल्  
+मुक्त-दशैयिल् ऐक्यम् तोऩ्ऱिऩव् इडङ्गळ् ऎल्लाम्  
+
+> ‘‘राम-सुग्रीवयोर् ऐक्यं  
+> देव्य् एवं समजायत’’  
+> (रामायणम् सुन्दरकाण्डम् ३५-५१।) 
+
+इत्य्-आदिगळिऱ् पडिये  
+भेद-श्रुत्य्-अ-विरोधेन कण्डु-गॊळ्वदु।+++(5)+++  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं श्रुति-स्मृति-सूत्रेषु साम्यस्य कण्ठोक्तत्वात्  
+युक्त-दशायाम् ऐक्यं प्रतिपादयन्तः सर्वे प्रदेशाः 
+
+> ‘‘राम-सुग्रीवयोर् ऐक्यं  
+> देव्य् एवं समजायत’’  
+> (रामायणम् सुन्दरकाण्डम् ३५-५१।) 
+
+इत्य्-आद्य्-उक्त-रीत्या भेद-श्रुत्य्-अ-विरोधेन नेयाः ।
+</details>
+
+<details><summary>English</summary>
+
+Thus since in the śrutis, the smṛtis and the sūtras,  
+resemblance between the mukta and Brahman (sāmyam) is explicitly stated,  
+those places in the texts which seem to speak of identity (aikyam) between the mukta and Brahman in the state of release from bondage  
+have to be explained in a manner that would not be inconsistent  
+with the śruti s which declare difference between the jīva and Brahman.  
+The word aikyam or (identity ) in such passages  
+should be construed in the same manner as in the śloka  : >
+
+> "The aikyam between Rāma and Sugrīva arose O, Lady, in this way.”  
+> (Here aikyam means friendship, identity not of selfs but of interests).
+</details>
+
+<details><summary>Español</summary>
+
+Así, ya que en los śrutis, los smṛtis y los sūtras,  
+La semejanza entre Mukta y Brahman (Sāmyam) **se afirma explícitamente**,  
+Esos lugares en los textos que **parecen hablar** de identidad (aikyam) entre Mukta y Brahman en el estado de liberación de la esclavitud  
+**tener** que **ser explicado** de una manera que **no sería inconsistente**  
+con los Śrutis que **declaran** la diferencia entre Jīva y Brahman.  
+
+La palabra aikyam o (identidad) en tales pasajes  
+**debe interpretarse** de la misma manera que en el Śloka:
+
+> "El aikyam entre Rāma y Sugrīva **surgió** O, dama, de esta manera".  
+> (Aquí Aikyam **significa** amistad,  
+> **identidad** no de sí mismo, sino de intereses).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि श्रुतिस्मृतिसूत्रङ्गळिले साम्यम् कण्ठोक्तमागैयाल् मुक्तदशैयिल् ऐक्यम् तोऩ्ऱिऩ विडङ्गळॆल्लाम् ‘‘रामसुग्रीवयोरैक्यं देव्येवं समजायते’’(रामायणम् सुन्दरकाण्डम् ३५-५१।) त्यादिगळिऱ्पडिये भेदश्रुत्यविरोधेन कण्डुगॊळ्वदु।  
+</details>
 
 
 
-In the passage cited above, the mukta is called 'independent' (svatantra ), because he is free from the influence of past karma. The Bhāṣyakāra (Śrī Rāmānuja) has explained the meaning of the word Svarat (literally the independent king) as being not subject to karma'.
-
-Thus since in the śrutis, the smṛtis and the sūtras, resemblance between the mukta and Brahman (sāmyam) is explicitly stated, those places in the texts which seem to speak of identity (aikyam) between the mukta and Brahman in the state of release from bondage have to be explained in a manner that would not be inconsistent with the śruti s which declare difference between the jīva and Brahman. The word aikyam or (identity ) in such passages should be construed in the same manner as in the śloka  : "The aikyam between Rāma and Sugrīva arose O, Lady, in this way.” (Here aikyam means friendship, identity not of self's but of interests).
 
 If it were not construed in this way, it would be in conflict with thousands of authoritative passages like the following:--
 
