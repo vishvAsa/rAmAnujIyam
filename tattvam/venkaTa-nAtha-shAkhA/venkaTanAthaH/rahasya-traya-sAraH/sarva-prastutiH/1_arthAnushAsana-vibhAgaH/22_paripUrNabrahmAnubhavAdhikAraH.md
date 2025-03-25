@@ -3149,9 +3149,16 @@ El autor de la Gita **ha transmitido** la misma idea en:-
 ‘‘मम साधर्म्यमागताः’’(गीता १४-२।) ऎऩ्ऱु गीताचार्यऩुमरुळिच्चॆय्दाऩ्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+गीतास्मृतिविरोधमुम् वरुमॆऩ्गिऱार् मम साधर्म्यमागता इत्यादिना ।   
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्वर्थत्तै 
+इव्व्-अर्थत्तै 
 
 > परेण पर-धर्मी च  
 > भवत्य् एष **समेत्य** वै ।  
@@ -3159,31 +3166,313 @@ El autor de la Gita **ha transmitido** la misma idea en:-
 > बुद्धेन च स बुद्धिमान् ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
-इव्वर्थत्तै ‘‘परेण परधर्मी च भवत्येष समेत्यवै । विशुद्धधर्मा शुद्धेन बुद्धेन च स बुद्धिमान् ॥
+अमुम् अर्थं 
+
+> परेण पर-धर्मी च  
+> भवत्य् एष **समेत्य** वै ।  
+> विशुद्ध-धर्मा शुद्धेन  
+> बुद्धेन च स बुद्धिमान् ॥
 </details>
 
-
-
-The Maharshi (Vyāsa) has also expressed this idea at great length in the discourse between Vasiṣṭa and Karala and concludes by saying that this is the supreme truth - 
+<details><summary>English</summary>
 
 > "The jīva released from bondage (i.e.) the mukta,  
 > attains the Supreme Being  
 > and acquires attributes similar to those of the Supreme Being.  
 > He too becomes free from all imperfections when he reaches Him.  
 > Having attained the Omniscient Brahman, he, too, becomes omniscient.  
+
+</details>
+
+<details><summary>Español</summary>
+
+> "El Jīva **liberado** de la **esclavitud** (es decir) el Mukta,  
+> **alcanza** el ser supremo  
+> y **adquiere** atributos similares a los del ser supremo.  
+> Él también **se libera** de todas las imperfecciones cuando lo **alcanza**.  
+> **Habiendo alcanzado** el omnisciente Brahman, él también **se vuelve** omnisciente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै ‘‘परेण परधर्मी च भवत्येष समेत्यवै । विशुद्धधर्मा शुद्धेन बुद्धेन च स बुद्धिमान् ॥
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+साधर्म्यमे सायुज्यशब्दार्थमॆऩ्बदिल् मोक्षधर्मत्तिलुळ्ळ वसिष्ठकराळसंवादवचनङ्गळुम् प्रमाणमॆऩ्गिऱार् इव्वर्थत्तैयित्यादिना । परेणेति । एषः – मुक्तः, परेण – परब्रह्मत्तोडु, समेत्य – संश्लेषत्तैयडैन्दु, परब्रह्मत्तै अनुभवित्तु ऎऩ्ऱबडि। परधर्मी च – परस्य ये धर्माः, तत्सदृशधर्मवान् भवतीत्यर्थः ।  
+इप्पडि सामान्यमाग प्रतिज्ञातमाऩ समानधर्मवत्वत्तै विशेषतः व्यपदेशिक्किऱार् विशुद्धधर्मा शुद्धेनेत्यादिना । एष इत्यनुषज्यते । एषः – मुक्तः, शुद्धेन – कर्मसम्बन्धशून्येन ब्रह्मणा, समेत्य – अनुभवरूपसम्बन्धत्ताले संश्लेषित्तु, विशुद्धधर्मा भवति – कर्मसम्बन्धराहित्यरूपविशुद्धधर्मवान् भवति । सः – मुक्तः, बुद्धेन – सर्वज्ञऩाऩ भगवाऩोडु, समेत्य – संश्लेषित्तु, बुद्धिमान् – सर्वज्ञ ऩागिऱाऩ्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> +++(कर्मणो)+++ विमुक्त-धर्मा मुक्तेन  
+**समेत्य** भरतर्षभ! ।  
++++(दुःख-)+++वियोग-धर्मणा चैव  
+वियोगात्मा **भवत्य्** अपि ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> +++(कर्मणो)+++ विमुक्त-धर्मा मुक्तेन  
+**समेत्य** भरतर्षभ! ।  
++++(दुःख-)+++वियोग-धर्मणा चैव  
+वियोगात्मा **भवत्य्** अपि ॥  
+</details>
+
+<details><summary>English</summary>
+
 > Having reached Him who is free from the bondage of karma,  
 > he, too, becomes free from karma.  
 > Having attained Bhagavān who is free from suffering and sorrow,  
 > he, too, becomes free from them.  
+</details>
+
+<details><summary>Español</summary>
+
+> **Habiendo llegado** a él que **está libre** de la esclavitud del karma,  
+> Él también **se libera** del karma.
+> **Habiendo alcanzado** Bhagavān que **está libre** de sufrimiento y tristeza,  
+> Él también se **libera** de ellos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विमुक्तधर्मामुक्तेन समेत्य भरतर्षभ! ।  
+वियोगधर्मणा चैव वियोगात्मा भवत्यपि ॥  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+मुक्तेन – संसारबन्धरहितऩाऩ ब्रह्मत्तोडु, विमुक्तधर्मा भवति – विमुक्तमाऩ संसारसम्बन्धरूपधर्मवान् भवति । भरतर्षभ – भरतश्रेष्ठऩाऩ कराळजनकऩे! वियोगधर्मणा – दुःखवियोग-धर्मवता ब्रह्मणा, वियोगात्मा भवति – दुःखवियोगरूपधर्मवान् भवति । 
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विमोक्षिणा **विमोक्षी** च  
+समेत्येह तथा **भवेत्** ।  
++++(कर्मान्तरामूल-)+++शुचि-कर्मणा शुचिश् चैष  
+भवत्य् अमित-दीप्तिमान् ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> विमोक्षिणा+++(→महानन्देन)+++ **विमोक्षी** च  
+समेत्येह तथा **भवेत्** ।  
++++(कर्मान्तरामूल-)+++शुचि-कर्मणा शुचिश् चैष  
+भवत्य् अमित-दीप्तिमान् ॥
+</details>
+
+<details><summary>English</summary>
+
 > Having reached Him who is blissful,  
-> he, too, becomes blissful.  
+> he, too, becomes blissful.   
 > O best of Bharatas, having attained Bhagavān who acts by His will alone  
 > (without being influenced by karma),  
 > he, too, acts merely by his will.  
 > He becomes resplendent  
-> and having attained Bhagavān who is without the qualities (of prakṛti) he, too, is without those qualities. Having reached Brahman who is without the body and the senses constituted of matter (Prakṛti), he, too, becomes free from them. Having attained the Supreme Being who is independent of karma, he too, becomes independent. I have thus described the truth to you, O great king, just as it is in reality. Having accepted this teaching with a mind free from discontent (asuya), meditate on Brahman who is eternal and free from all imperfections and who is the (ultimate) cause of the world".
+</details>
+
+<details><summary>Español</summary>
+
+> **Habiendo alcanzado** al que es feliz,  
+> Él también **se vuelve** feliz.  
+> Oh lo mejor de Bharatas, **habiendo alcanzado** Bhagavān que actúa solo por su voluntad  
+> (sin ser influenciado por el karma),  
+> Él también **actúa** simplemente por su voluntad.  
+> Se **vuelve resplandeciente**
+</details>
+
+<details><summary>मूलम्</summary>
+
+विमोक्षिणा विमोक्षी च समेत्येह तथा भवेत् ।  
+शुचिकर्मणा शुचिश्चैष भवत्यमितदीप्तिमान् 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+विमोक्षिणा – महानन्दवता ब्रह्मणा, विमोक्षी भवति – महानन्दवान् भवति। ‘‘मुक्तिर्मोक्षो महानन्द’’ इति निघण्टुः । शुचिकर्मणा – पुण्यपापमूल मल्लाद व्यापारत्तैयुडैय ब्रह्मत्तोडे, शुचिश्च भवति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> +++(त्रैगुण्यापेक्षया)+++ विमलात्मा च भवति  
+**समेत्य** विमलात्मना ।  
++++(प्राकृत-देह-रहिततया)+++ केवलात्मा तथा चैषः  
+केवलेन **समेत्य** वै ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> +++(त्रैगुण्यापेक्षया)+++ विमलात्मा च भवति  
+**समेत्य** विमलात्मना ।  
++++(प्राकृत-देह-रहिततया)+++ केवलात्मा तथा चैषः  
+केवलेन **समेत्य** वै ॥  
+</details>
+
+<details><summary>English</summary>
+
+> and having attained Bhagavān  
+> who is without the qualities (of prakṛti)  
+> he, too, is without those qualities.  
+> Having reached Brahman who is without the body and the senses constituted of matter (Prakṛti),  
+> he, too, becomes free from them.  
+</details>
+
+<details><summary>Español</summary>
+
+> y **habiendo alcanzado** Bhagavān  
+> Quién **no tiene** las cualidades (de Prakṛti)  
+> Él también **está** sin esas cualidades.  
+> **Habiendo llegado** a Brahman, que **no tiene** el cuerpo y los sentidos constituidos de la materia (prakṛti),  
+> Él también **se libera** de ellos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विमलात्मा च भवति समेत्य विमलात्मना ।  
+केवलात्मा तथा चैषः केवलेन समेत्य वै ॥  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+विमलात्मना – सत्त्वादिगुणरहितऩाऩ ब्रह्मत्तोडु, विमलात्मा च – सत्त्वादिरहितऩागिऱाऩ्।  
+केवलेन – प्राकृतदेहेन्द्रियादिरहितऩाऩ ब्रह्मत्तोडे, केवलात्मा – प्राकृतदेहेन्द्रियादिसम्बन्धरहितो भवति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स्वतन्त्रश् च स्वतन्त्रेण  
+> स्वतन्त्रत्वम् उपाश्नुते ।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> स्वतन्त्रश् च स्वतन्त्रेण  
+> स्वतन्त्रत्वम् उपाश्नुते ।  
+</details>
+
+<details><summary>English</summary>
+
+> Having attained the Supreme Being who is independent of karma, he too, becomes independent.  
+</details>
+
+<details><summary>Español</summary>
+
+> Habiendo **alcanzado** el ser supremo que es independiente del karma, él también **se vuelve** independiente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वतन्त्रश्च स्वतन्त्रेणस्वतन्त्रत्वमुपाश्नुते ।  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+स्वतन्त्रेण – अकर्मवश्यऩाऩ ब्रह्मत्तोडु, स्वतन्त्रश्च सन् स्वतन्त्रत्वमुपाश्नुते – अकर्मवश्यतैयै यडैगिऱाऩ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एतावद् एतत् **कथितं** मया ते  
+तथ्यं महाराज! यथार्थ-तत्वम् ।  
+अमत्सरस् त्वं **प्रतिगृह्य** चार्थं  
+सनातनं ब्रह्म विशुद्धम् आद्यम् +++(उपास्व)+++  
+(भारतम् शान्ति-पर्व ३१३-२६-३१)  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एतावद् एतत् **कथितं** मया ते  
+तथ्यं महाराज! यथार्थ-तत्वम् ।  
+अमत्सरस् त्वं **प्रतिगृह्य** चार्थं  
+सनातनं ब्रह्म विशुद्धम् आद्यम् +++(उपास्व)+++  
+(भारतम् शान्ति-पर्व ३१३-२६-३१)  
+</details>
+
+<details><summary>English</summary>
+
+> I have thus described the truth to you, O great king,  
+> just as it is in reality.  
+> Having accepted this teaching with a mind free from discontent (asuya),  
+> meditate on Brahman who is eternal and free from all imperfections  
+> and who is the (ultimate) cause of the world".
+</details>
+
+<details><summary>Español</summary>
+
+> Por lo tanto, te **he descrito** la verdad, oh gran rey,  
+> tal como es en realidad.  
+> **Habiendo aceptado** esta enseñanza con una mente libre de descontento (asuya),  
+> **Medita** en Brahman, que es eterno y libre de todas las imperfecciones  
+> Y quién **es** la causa (definitiva) del mundo ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+एतावदेतत्कथितं मया ते  
+तथ्यं महाराज! यथार्थतत्वम् ।  
+अमत्सरस्त्वं प्रतिगृह्य चार्थं  
+सनातनं ब्रह्म विशुद्धमाद्यम्’’  
+(भारतम् शान्ति-पर्व ३१३-२६-३१)  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+एतावदिति । मोक्षविषयत्तिल् एतावत् - इव्वळवु पर्यन्तम्, यथार्थतत्वं – प्रामाणिकार्थतत्वत्तै अतिक्रमिक्कामल्, ते - उऩक्कु, कथितं - सॊल्लप्पट्ट, एतत् – समानधर्मत्वादि । तथ्यं – सत्यमित्यर्थः, अमत्सरः – पक्षपातमिल्लाद, त्वं - नीयाऩवऩ्, अदावदु भेदाभेदमतङ्गळिल् पक्षपात मिऩ्ऱिक्के शास्त्रैकशरणऩागप्पोन्द नी ऎऩ्ऱबडि। अर्थं – मुक्तऩुक्कुम् ब्रह्मत्तिऱ्कुमुळ्ळ साधर्म्यादिरूपमाऩ पदार्थत्तै। प्रतिगृह्य – यथार्थमाग अङ्गीकरित्तु, विशुद्धमाद्यं सनातनं ब्रह्म, उपास्वेति शेषः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु वसिष्ठ-कराळ-संवादत्तिल् परक्कप् पेसि,  
+इदुवे परमार्थम् ऎऩ्ऱु महर्षि निगमित्ताऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इति वसिष्ठ-कराल-संवादे विस्तरेणोक्त्वा  
+अयमेव परमार्थ इति महर्षिर् निगमयाम् आस ।  
+</details>
+
+
+<details><summary>English</summary>
+
+The Maharshi (Vyāsa) has also (thus) expressed this idea at great 
+length in the discourse between Vasiṣṭa and Karala and concludes by saying that this is the supreme truth. 
+</details>
+
+<details><summary>Español</summary>
+
+El Maharshi (Vyāsa) también (por lo tanto) **ha expresado** esta idea en gran  
+Longitud en el discurso entre Vasiṣṭa y Karala  
+y **concluye diciendo** que esta **es** la verdad suprema.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु वसिष्ठकराळसंवादत्तिल् परक्कप्पेसि, इदुवे परमार्थमॆऩ्ऱु महर्षिनिगमित्ताऩ्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+परक्कप्पेसि - विस्तृतमागप्पेसि, इदुवे - इस्साधर्म्यमे, परमार्थ मॆऩ्ऱु महर्षि निगमित्ताऩिदि । ‘‘एतावदेतत्कथितं मया ते तथ्यं’’ ऎऩ्ऱु मुडिक्कैयाल् परमार्थमॆऩ्ऱु निगमित्ताऩॆऩ्ऱबडि। इदऩाल् साधर्म्यादिगळॆल्लाम् व्यावहारिकङ्गळॆऩ्ऱुम्, अत एव मिथ्याविषयङ्गळॆऩ्ऱुम् कल्बिक्कुम् पक्षम् दूरोत्सारितमायिऱ्ऱु। 
+</details>
+
+
+
+
 
 In the passage cited above, the mukta is called 'independent' (svatantra ), because he is free from the influence of past karma. The Bhāṣyakāra (Śrī Rāmānuja) has explained the meaning of the word Svarat (literally the independent king) as being not subject to karma'.
 
