@@ -3720,7 +3720,7 @@ Si **no se interpretó** de esta manera,
 > अन्यश् च राजन्! स परस्  
 तथान्यः पञ्चविंशकः ।  
 तेनैतन् **नाभिजानन्ति**  
-पञ्च-विंशकम् अच्युतम् ॥ 
+पञ्च-विंशकम् अच्युतम् ॥  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -3758,34 +3758,231 @@ Si **no se interpretó** de esta manera,
 </details>
 
 
-it would be in conflict with thousands of authoritative passages like the above ~~following~~:--
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> जन्म-मृत्यु-भयाद् **भीतास्**  
+साङ्ख्य+++(→ज्ञान)+++-योगाश् च काश्यप! ।  
+षड्विंशम् **अनुपश्यन्ति**  
+शुचयस् तत्-परायणाः॥  
+(भारतम् शान्ति-पर्व ३२३-७७-८०)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> जन्म-मृत्यु-भयाद् **भीतास्**  
+साङ्ख्य+++(→ज्ञान)+++-योगाश् च काश्यप! ।  
+षड्विंशम् **अनुपश्यन्ति**  
+शुचयस् तत्-परायणाः॥  
+(भारतम् शान्ति-पर्व ३२३-७७-८०)
+</details>
 
 
+<details><summary>English</summary>
 
-> So in dread of birth and death, they perform, O Kasyapa, karma yoga,  
-> acquire thereby purity of mind,  
+> So in dread of birth and death,  
+> (they perform, O Kasyapa, karma yoga,  
+> acquire thereby purity of mind,)  
 > and then perform jñāna yoga,  
 > and then meditate on the Supreme Being as the supreme object of attainment.
+</details>
+
+<details><summary>Español</summary>
+
+> Entonces, en temor de **nacimiento y muerte**,  
+> (**actúan**, oh Kasyapa, karma yoga,  
+> Adquirir así la pureza mental,)  
+> y luego **realizar** jñāna yoga,  
+> y luego **medita** en el ser supremo  
+> como el objeto supremo de logro.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जन्ममृत्युभयाद्भीतास्साङ्ख्ययोगाश्च-काश्यप! ।  
+षड्विंशमनुपश्यन्ति शुचयस्तत्परायणाः॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘उत्तमः पुरुषस्त्वन्यः’’  
+(गीता १५-१७।),  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘उत्तमः पुरुषस्त्वन्यः’’  
+(गीता १५-१७।),  
+</details>
+
+<details><summary>English</summary>
 
 (2) Puruṣottama is different from both the baddha and mukta.  
 He is called the Supreme Being.
+</details>
+
+<details><summary>Español</summary>
+
+(2) Puruṣottama **es diferente** de Baddha y Mukta.  
+Se le **llama** el ser supremo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘उत्तमः पुरुषस्त्वन्यः’’(गीता १५-१७।),  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तत्र यः परमात्मा तु  
+स नित्यो निर्गणस् **स्मृतः** ।  
+स तु नारायणो **ज्ञेयस्**  
+सर्वात्मा पुरुषो हि सः ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तत्र यः परमात्मा तु  
+स नित्यो निर्गणस् **स्मृतः** ।  
+स तु नारायणो **ज्ञेयस्**  
+सर्वात्मा पुरुषो हि सः ॥  
+</details>
+
+<details><summary>English</summary>
 
 (3) He who is within the jīva as his Inner Ruler --  
-He is eternal:  
-He is free from the qualities of prakṛti:  
-He should be known as Nārāyaṇa:  
+He is eternal;  
+He is free from the qualities of prakṛti;  
+He should be known as Nārāyaṇa;  
 He is the soul of all  
 and is called Puruṣa by the Vedas.  
-The consequences of past karma do not cling to Him,  
+</details>
+
+<details><summary>Español</summary>
+
+(3) El que **está** dentro del Jīva como su **gobernante** interno -  
+Él **es** eterno;  
+**Está libre** de las cualidades de Prakṛti;  
+Debería **ser conocido** como nārāyaṇa;  
+El **es** el alma de todos  
+y **se llama** Puruṣa por los Vedas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र यः परमात्मा तु स नित्यो निर्गणस्स्मृतः ।  
+स तु नारायणो ज्ञेयस्सर्वात्मा पुरुषोहि सः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **न लिप्यते** कर्म-फलैः  
+पद्म-पत्रम् इवांभसा ।  
+कर्मात्मात्व्  +++(→जीवः)+++ अ-वरो योऽसौ  
++++(नानावस्थासु)+++ **मोक्ष-बन्धैस्** स **युज्यते**॥”  
+(भारतम् शान्ति-पर्व ३६१-१४-१५।)  
+</details>
+
+<details><summary>English</summary>
+
+> The consequences of past karma do not cling to Him,  
 in the same way as water does not cling to the leaf of the lotus.  
 The jīva who is inferior to the Supreme Being  
 becomes subject to bondage owing to past karma  
-and attains mokṣa  by meditating on Brahman".
+and attains mokṣa  by meditating on Brahman.
+</details>
 
-(4) "Just as fire in a ball of (red-hot) iron seems to be one with the iron,  
+<details><summary>Español</summary>
+
+> Las consecuencias del karma pasado **no se aferran** a él,  
+De la misma manera que el agua **no se aferra** a la hoja del loto.  
+El Jīva que **es** inferior al ser supremo  
+**se vuelve** sujeto a la esclavitud debido al karma pasado  
+y **alcanza** Mokṣa **meditando** en Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न लिप्यतेकर्मफलैः पद्मपत्रमिवांभसा ।  
+कर्मात्मात्ववरो योऽसौ मोक्षबन्धैस्सयुज्यते॥”  
+(भारतम् शान्ति-पर्व ३६१-१४-१५।)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अयः-पिण्डे यथा वह्निर्  
+भिन्नस् **तिष्ठत्य्** अ-भिन्नवत् ।  
+तथा विश्वम् इदं देवो  
+ह्य् **आवृत्य परितिष्ठति**॥  
+(जयाक्यसंहिता। (?))  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अयः-पिण्डे यथा वह्निर्  
+भिन्नस् **तिष्ठत्य्** अ-भिन्नवत् ।  
+तथा विश्वम् इदं देवो  
+ह्य् **आवृत्य परितिष्ठति**॥  
+(जयाक्यसंहिता। (?))  
+</details>
+
+<details><summary>English</summary>
+
+> (4) "Just as fire in a ball of (red-hot) iron seems to be one with the iron,  
 though it is really different from it,  
 so the Supreme Being pervades the world  
 and is inseparable from it".
+</details>
+
+<details><summary>Español</summary>
+
+> (4) "Al igual que el fuego en una bola de hierro   (rojo-candado) **parece ser** uno con el hierro,  
+Aunque **es** realmente **diferente** de eso,  
+Entonces el ser supremo **impregna** el mundo  
+y **es inseparable** de eso ".
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+‘‘अयःपिण्डे यथा वह्निर्भिन्नस्तिष्ठत्यभिन्नवत् ।  
+तथा विश्वमिदं देवो ह्यावृत्यपरितिष्ठति॥’’  
+(जयाक्यसंहिता। (?))  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदि प्रमाण-सहस्रम् विरोधिक्कुम्।  
+</details>
+
+
+
+<details><summary>English</summary>
+
+it would be in conflict with thousands of authoritative passages like the above ~~following~~.
+</details>
+
+<details><summary>Español</summary>
+
+**Estaría en conflicto** con miles de pasajes autorizados como los anteriores ~~ siguientes ~~.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादि प्रमाणसहस्रम् विरोधिक्कुम्।  
+</details>
+
+
+
+
+
+
+
 
 Therefore the perfect resemblance of the jīva (parama samyam) (to Brahman) is only that arising from jñāna and bhoga (enjoyment) and the like. Iśvara has, for His definition, the following attributes which are like the umbrella and the chamara (insignia of royalty):-- being the cause of the world, the conferring of mokṣa  on jīvas, being the support of the world, being the controller of the world, the one for whom all things and all sentient beings exist, the one who has everything for His body, the one who is denoted by all words, the one who can be understood from all the Vedas, the one who is the refuge of all the world, the one who should be adored by all those who want mokṣa , the one who grants the fruits (of all actions), the one whose essential nature is omnipresence, Jñāna and ānanda (bliss), the one who is the spouse of Lakṣ mi. These are peculiar to Him and are His distinctive features. The mukta's distinctive attributes are the following : being sustained (by Iśvara); being controlled by Him, existing only for the Lord (śeṣatva), being atomic (aṇu) and such others.
 
