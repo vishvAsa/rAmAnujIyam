@@ -2566,52 +2566,1226 @@ Sayujya **significa** la relación entre dos que están unidos en Comunión (Say
 सायुज्यमावदु सयुक्किऩुडैय भावम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
 
+इऩि सायुज्यशब्दार्थत्तै निष्कर्षिक्किऱार् सायुज्य मावदु इत्यादिना । सयुजो भावः सायुज्यमॆऩ्ऱु सयुक् शब्दत्तिऩ्बेरिल् भावप्रत्ययत्ताले एऱ्पट्ट सायुज्य शब्दत्तिऱ्कु द्रामिडभाषैयाले विवरणम् सयुक्किऩुडैय भावमिति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सयुक्क् आवाऩ्  
+ऒरु भोग्यत्तिले  
+भोक्ताव् आय्क् कॊण्डु  
+कूडव् अऩ्वयिक्कुमवऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[१७७]]  
+सयुक् नाम सः  
+य एकस्मिन् भोग्ये सह-भोक्तृत्वेनान्वेति ।  
+
+</details>
+
+
+<details><summary>English</summary>
 
 One might be sayuk with another,  
 although only in the common enjoyment of a certain pleasure.  
 
-Here in regard to the mukta, the object of enjoyment is Brahman with His prakāras or modes. Since Brahman and the mukta both commune with each other in the enjoyment of that bliss, the mukta is called sayuk (with Brahman).
-
-In this connection, it may be asked why, in one of the passages of the Veda, the two words, sayujya and sārshtitha are employed (in the same sentence ), when they mean the same thing, namely, communion in the enjoyment (would it not be redundant to use two words when one would be enough?). The answer is (that there is a difference in meaning between the two words ), and it is as follows:
-
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
-
-सायुज्यमुभयोरत्र भोक्तव्यस्याविशिष्टता ।  
-सार्ष्टिता तत्र भोगस्य तारतम्यविहीनता ॥
 </details>
 
-<details><summary>मूलम् (सं॰प॰)</summary>
+<details><summary>Español</summary>
 
-सायुज्यमुभयोरत्र भोक्तव्यस्याविशिष्टता ।  
-सार्ष्टिता तत्र भोगस्य तारतम्यविहीनता ॥
+Uno **podría ser** Sayuk con otro,  
+aunque solo en el **disfrute** común de un cierto placer.
 </details>
 
-Sayujyam between the two (Brahman and the mukta) means that there is no difference so far as the objects of enjoyment are concerned : sārshtita (between the two) means that there is no difference in the degree or intensity of their enjoyment. (Two men may have before them the same object of enjoyment and yet one of them may enjoy it more intensely than the other).
 
-It is true that the mukta has nothing to do with the work of creating, maintaining, destroying and such other things in regard to the world (Jagad Vyāpāra). But just as the father who cultivates the field and the sons and others who do not cultivate it enjoy alike the fruit from the cultivated field, Iśvara who is engaged in the work of the world (Jagad Vyāpāra ) and the mukta who only witnesses it have the same degree of enjoyment in the joy arising from that work. The author of the Brahma Sūtras has stated at the beginning of the section : "(The 'mukta's enjoyment is ) exclusive of the work of the world" and concludes it by saying:" The resemblance or equality (sāmyam) between the mukta and Brahman is only so far as the enjoyment is concerned, as stated in the śruti s, and also by inference linga". Sakatayana has also stated as follows:- Those who meditate on Brahman say that sāyujyam consists in the sameness or equality of enjoyment".
+<details><summary>मूलम्</summary>
 
-REFUTATION OF THE ADVAITIC DOCTRINE OF
+सयुक्कावाऩॊरु भोग्यत्तिले भोक्ता वाय्क्कॊण्डु कूडवऩ्वयिक्कुमवऩ्। 
+</details>
 
-IDENTITY:
+<details><summary>सार-बोधिनी</summary>
 
-To those (viz. Advaitins) who maintain that the word Sayujyam, means oneness or identity with Brahman (aikyam), the derivative or etymological meaning of the word, sãyujyam, is at variance, as also the texts in the śruti [ Such śrutis as the following:-Brahman is the eternal among eternals, the sentient among sentients. (1) He is one and satisfies the desires of the many: Svetasvatara Upaniṣad. 2) Without any blemish or stain he attains perfect resemblance (paramam samyam).]  which declare that Brahman is different from the jīvas. Besides, their view is opposed also to the śrutis which declare that the mukta will attain perfect resemblance (sāmyam) to Brahman and that the mukta will be like Brahman. The author of the Gita has conveyed the same idea in :- "They will attain my likeness (sādharmyam)":
+सयुक्छब्दार्थत्तै वॆळियिडुगिऱार् सयुक्कावाऩित्यादियाल्। 
+</details>
 
-The Maharshi (Vyāsa) has also expressed this idea at great length in the discourse between Vasiṣṭa and Karala and concludes by saying that this is the supreme truth - "The jīva released from bondage (i.e.) the mukta, attains the Supreme Being and acquires attributes similar to those of the Supreme Being. He too becomes free from all imperfections when he reaches Him. Having attained the Omniscient Brahman, he, too, becomes omniscient. Having reached Him who is free from the bondage of karma, he, too, becomes free from karma. Having attained Bhagavān who is free from suffering and sorrow, he, too, becomes free from them. Having reached Him who is blissful, he, too, becomes blissful. O best of Bharatas, having attained Bhagavān who acts by His will alone (without being influenced by karma), he, too, acts merely by his will. He becomes resplendent and having attained Bhagavān who is without the qualities (of prakṛti) he, too, is without those qualities. Having reached Brahman who is without the body and the senses constituted of matter (Prakṛti), he, too, becomes free from them. Having attained the Supreme Being who is independent of karma, he too, becomes independent. I have thus described the truth to you, O great king, just as it is in reality. Having accepted this teaching with a mind free from discontent (asuya), meditate on Brahman who is eternal and free from all imperfections and who is the (ultimate) cause of the world".
 
-In the passage cited above, the mukta is called 'independent' (svatantra ), because he is free from the influence of past karma. The Bhāṣyakāra (Śrī Rāmānuja) has explained the meaning of the word Svarat (literally the independent king) as being not subject to karma'.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Thus since in the śrutis, the smṛtis and the sūtras, resemblance between the mukta and Brahman (sāmyam) is explicitly stated, those places in the texts which seem to speak of identity (aikyam) between the mukta and Brahman in the state of release from bondage have to be explained in a manner that would not be inconsistent with the śruti s which declare difference between the jīva and Brahman. The word aikyam or (identity ) in such passages should be construed in the same manner as in the śloka  : "The aikyam between Rāma and Sugrīva arose O, Lady, in this way.” (Here aikyam means friendship, identity not of self's but of interests).
+इङ्गु स-प्रकार-ब्रह्मम् आगिऱ भोग्यत्तिले  
+ब्रह्मम् उम् मुक्तऩुङ् कूड भोक्ताक्कळ् आय् अन्वयिक्कैयाले  
+मुक्तऩै सयुक्क् ऎऩ्गिऱदु। 
+</details>
 
-If it were not construed in this way, it would be in conflict with thousands of authoritative passages like the following:--
+<details><summary>नीलमेघः (सं)</summary>
 
-(1) “When the person who is twice-born (dvija) sees that he is different from the Supreme Being and that the Supreme Being is different from himself, he becomes free from bondage and will see for ever (Bhagavān who is) the 26th real. The Supreme Being is one and the jīva-- who is the 25th real - is another. Since the Supreme Being is within him (the jīva), good men call them one. The Supreme Being, O, king, is different from the jīva, and the jīva, who is the 25th real, is different from the 24 reals. Therefore good men do not consider the jīva, who is the 25th real, as being identical with the Supreme Being. So in dread of birth and death, they perform, O Kasyapa, karma yoga, acquire thereby purity of mind, and then perform jñāna yoga, and then meditate on the Supreme Being as the supreme object of attainment.
+अत्र स-प्रकारक-ब्रह्म-रूपे भोग्ये  
+ब्रह्मणो मुक्तस्य च  
+सह-भोक्तृत्वेनान्वयात्  
+मुक्तः स-युग् इत्य् उच्यते । 
+</details>
 
-(2) Puruṣottama is different from both the baddha and mukta. He is called the Supreme Being.
 
-(3) He who is within the jīva as his Inner Ruler -- He is eternal: He is free from the qualities of prakṛti: He should be known as Nārāyaṇa: He is the soul of all and is called Puruṣa by the Vedas. The consequences of past karma do not cling to Him, in the same way as water does not cling to the leaf of the lotus. The jīva who is inferior to the Supreme Being becomes subject to bondage owing to past karma and attains mokṣa  by meditating on Brahman".
+<details><summary>English</summary>
 
-(4) "Just as fire in a ball of (red-hot) iron seems to be one with the iron, though it is really different from it, so the Supreme Being pervades the world and is inseparable from it".
+Here in regard to the mukta,  
+the object of enjoyment is Brahman with His prakāras or modes.  
+Since Brahman and the mukta both commune with each other  
+in the enjoyment of that bliss,  
+the mukta is called sayuk (with Brahman).
+</details>
+
+<details><summary>Español</summary>
+
+Aquí con respecto al mukta,  
+El objeto del disfrute **es** Brahman con sus Prakāras o modos.  
+Ya que Brahman y el Mukta se **comunican** entre sí  
+En el **disfrute** de esa dicha,  
+El Mukta **se llama** Sayuk (con Brahman).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु सप्रकारब्रह्ममागिऱ भोग्यत्तिलेब्रह्ममुम् मुक्तऩुङ्गूड भोक्ताक्कळायन्वयिक्कैयाले मुक्तऩै सयुक् कॆऩ्गिऱदु। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+सामान्यमागच् चॊऩ्ऩ अर्थत्तै प्रकृतविषयत्तिल् विशेषित्तुक्काट्टुगिऱार् इङ्गु सप्रकारब्रह्ममागिऱ भोग्यत्तिले इति । सप्रकारम् - सविशेषणम्, उभयविभूतिविशिष्टमिति यावत् । ब्रह्ममागिऱ भोग्यत्तिले - ब्रह्ममागिऱ अनुभाव्यत्तिले, ब्रह्ममुम् मुक्तऩुम् कूड भोक्ताक्कळाय् अन्वयिक्कैयाले इति । ब्रह्ममाऩदु सर्वप्रकारविशिष्टऩाऩ तऩ्ऩै अनुकूलमाग ऎप्पडि अनुभविक्किऱदो अप्पडिये मुक्तऩुम् उभयविभूतिविशिष्टमाऩ ब्रह्मत्तै अनुकूलमागवे अनुभविक्कैयाल्, मुक्तऩै सयुक् ऎऩ्गिऱदु - ब्रह्मत्तोडे समान भोगवाऩॆऩ्गिऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडिय् आगिल्  
+श्रुतियिल् सायुज्य-शब्दमुम् सार्ष्टिता-शब्दमुम् सेर प्रयोगिप्पाऩ् एऩ्? 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवं सति  
+श्रुतौ सायुज्य-शब्दस्य साष्र्ष्टिता-शब्दस्य च सह प्रयोगः कुत 
+
+इति चेत् — 
+</details>
+
+<details><summary>English</summary>
+
+In this connection, it may be asked  
+
+> why, in one of the passages of the Veda, the two words, sayujya and sārshtitha are employed (in the same sentence ),  
+> when they mean the same thing,  
+> namely, communion in the enjoyment  
+> (would it not be redundant to use two words when one would be enough?). 
+</details>
+
+<details><summary>Español</summary>
+
+A este respecto, se **puede preguntar**
+
+> Por qué, en uno de los pasajes del Veda, **se emplean** las dos palabras, Sayujya y Sārshtitha (en la misma oración),  
+> Cuando **significan** lo mismo,  
+> a saber, **comunión** en el **disfrute**  
+> (**¿No sería redundante usar** dos palabras cuando una sería **suficiente**?).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियागिल् श्रुतियिल् सायुज्यशब्दमुम् सार्ष्टिताशब्दमुम् सेर प्रयोगिप्पाऩेऩॆऩ्ऩिल्; 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि सायुज्य-शब्दम् समानभोगत्वत्तैच् चॊऩ्ऩाल्  
+
+> ‘‘सायुज्य--सार्ष्टिता--समान-लोकताम् आप्नोति’’ 
+
+ऎऩ्गिऱ श्रुतियिल् सार्ष्टिताशब्दत्तोडु सायुज्यशब्दप्रयोगम् पुनरुक्तमागादो वॆऩ्गिऱ शङ्कैयै उत्थापनम् पण्णि इरण्डुम् भिन्नार्थकमागैयाल् पौनरुक्त्यमिल्लै यॆऩ्ऱु परिहरिक्किऱार् इप्पडियागिल् श्रुतियिल् सायुज्यशब्दमुम् सार्ष्टिताशब्दमुम् सेर प्रयोगिप्पाऩेऩॆऩ् ऩिलित्यादिना । 
+</details>
+
+### सार्ष्टिता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सायुज्यम् उभयोर् अत्र  
+भोक्तव्यस्याविशिष्टता ।  
+सार्ष्टिता तत्र भोगस्य  
+तार-तम्य-विहीनता ॥+++(4)+++  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सायुज्यम् उभयोर् अत्र  
+भोक्तव्यस्याविशिष्टता ।  
+सार्ष्टिता तत्र भोगस्य  
+तार-तम्य-विहीनता ॥+++(4)+++  
+</details>
+
+
+
+<details><summary>English</summary>
+
+The answer is (that there is a difference in meaning between the two words ),  
+and it is as follows:
+
+Sayujyam between the two (Brahman and the mukta) means that  
+there is no difference  
+so far as the objects of enjoyment are concerned.  
+sārshtita (between the two) means that  
+there is no difference  
+in the degree or intensity of their enjoyment.  
+(Two men may have before them the same object of enjoyment  
+and yet one of them may enjoy it more intensely than the other).
+</details>
+
+<details><summary>Español</summary>
+
+La respuesta **es** (que hay una **diferencia** en el significado entre las dos palabras),  
+Y **es** como sigue:
+
+Sayujyam entre los dos (Brahman y Mukta) **significa** que
+**No hay diferencia**  
+En lo que respecta a los objetos de disfrute.
+
+sārshtita (entre los dos) significa que  
+**No hay** diferencia  
+en el grado o intensidad de su disfrute.
+
+(Dos hombres **pueden tener** ante ellos el mismo objeto de disfrute  
+Y, sin embargo, uno de ellos **puede disfrutarlo** más intensamente que el otro).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सायुज्यमुभयोरत्र  
+भोक्तव्यस्याविशिष्टता ।  
+सार्ष्टिता तत्र भोगस्य  
+तारतम्यविहीनता ॥  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+सायुज्यमिति । उभयोः - इरण्डुबेर्गळुक्कु, भोक्तव्यस्याविशिष्टता – भोग्यसाधारण्यमाऩदु, अत्र - इन्द श्रुतियिल्, सायुज्यं – सायुज्यमॆऩ्ऱु सॊल्लप्पडुगिऱदु। तत्र - अव्विरण्डुबेर्गळुक्कुळ्ळे, भोगस्य – अनुभवत्तिऱ्कु, तारतम्यविहीनता – तारतम्यमिल्लामै, अदावदु अत्यन्तसाम्यम्। सार्ष्टिता – सार्ष्टिताशब्दवाच्यम्। रोग्यरोगियाऩ इरुवर्गळुक्कु भक्ष्यवस्तु सममायिरुन्दालुम् रोगियाऩवऩ् अरोगियैप्पोल् भोक्तुं न शक्नोति । अप्पोदु अवर्गळुक्कु भोगत्तिल् तारतम्यमुण्डु। अदु पोलऩ्ऱिक्के अरोगियाऩ इरुवर्गळ् ऒरु भक्ष्यवस्तुविऱ्कु भोक्ताक्कळाऩल् अवर्गळुक्कु भोगत्तिल् तारतम्यमिरादु। अन्द तारतम्यमिल्लामैयै सार्ष्टिताशब्दम् सॊल्लुम्। अप्पडिये सर्वप्रकारविशिष्ट ब्रह्मानन्दानुभवत्तिल् ब्रह्मत्तिऱ्कुम् मुक्तऩुक्कुम् तारतम्यमिल्लामैयाल् अङ्गु सार्ष्टिताशब्दम्। तथाच सायुज्यशब्दम् इरण्डुबेर्गळुक्कुम् भोग्यमॊऩ्ऱु ऎऩ्गिऱदु। सार्ष्टिताशब्दम् इरण्डुबेर्गळुडैय भोगत्तिऱ्कुम् तरतमभावमिल्लैयॆऩ्गिऱदु। आगैयाल् भिन्नार्थकमाऩ इरण्डु शब्दङ्गळुक्कु सहप्रयोगङ्गूडुमॆऩ्ऱु करुत्तु। 
+</details>
+
+
+### जगद्-व्यापार-रसः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्तऩुक्कु जगद्-व्यापारम् इल्लैयेय् आगिलुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुक्तस्य जगद्-व्यापाराभावे ऽपि,  
+</details>
+
+
+<details><summary>English</summary>
+
+It is true that the mukta has nothing to do with the work of creating, maintaining, destroying and such other things in regard to the world (Jagad Vyāpāra). 
+</details>
+
+<details><summary>Español</summary>
+
+**Es cierto** que el Mukta **no tiene** nada que ver con el **trabajo** de **crear, mantener, destruir** y otras cosas con respecto al mundo (Jagad Vyāpāra).
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुक्तऩुक्कु जगद्व्यापारमिल्लैयेयागिलुम् 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+मुक्तऩुक्कु जगद्व्यापारमिल्लामलिरुक्क जगद्व्यापारम् पण्णुम् ब्रह्मत्तोडु भोगसाम्यम्गूडुमो वॆऩ्ऩ? दृष्टान्तत्तैक्काट्टि समाधानमरुळिच्चॆय्गिऱार् मुक्तऩुक्कित्यादिना । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कृषि पण्णिऩ पितावुम्  
+निर्व्यापारर् आऩ पुत्रादिगळुम्  
+कृषि-फलत्तै भुजिक्कुमाप् पोले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कृषि-कारिणा पित्रा  
+निर्व्यापारैः पुत्रादिभिश् च कृषि-फल-भोगवत्  
+</details>
+
+<details><summary>English</summary>
+
+But just as the father who cultivates the field  
+and the sons and others who do not cultivate it  
+enjoy alike the fruit from the cultivated field,  
+</details>
+
+<details><summary>Español</summary>
+
+Pero así como el padre que **cultiva** el campo  
+y los hijos y otros que **no lo cultivan**  
+Ambos **disfruten** de la fruta del campo cultivado,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कृषिपण्णिऩ पितावुम् निर्व्यापारराऩ पुत्रादिगळुम् कृषिफलत्तै भुजिक्कुमाप्पोले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जगद्-व्यापारत्ताल् वरुम् रसम्  
+व्यापरिक्किऱव् ईश्वरऩुक्कुम् पार्त्त् इरुक्किऱ मुक्तऩुक्कुम् तुल्यम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+जगद्-व्यापार-जन्यो रसो  
+व्याप्रियमाणस्येश्वरस्य द्रष्टुर् मुक्तस्य च तुल्यः ।  
+</details>
+
+
+<details><summary>English</summary>
+
+Iśvara who is engaged in the work of the world (Jagad Vyāpāra )  
+and the mukta who only witnesses it  
+have the same degree of enjoyment in the joy arising from that work.  
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara que **se dedica** al **trabajo** del mundo (Jagad Vyāpāra)  
+y el mukta que solo lo **presencia**  
+**Tenga** el mismo grado de **disfrute** en la alegría derivada de ese **trabajo**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जगद्व्यापारत्ताल् वरुम् रसम् व्यापरिक्किऱ वीश्वरऩुक्कुम् पार्त्तिरुक्किऱ मुक्तऩुक्कुम्तुल्यम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सूत्र-काररुम्  
+
+> ‘‘जगद्-व्यापार-वर्जं’’(ब्रह्मसूत्रम् ४-४-१७।) 
+
+ऎऩ्ऱु तुडङ्गि 
+
+> ‘‘भोग-मात्र-साम्य-लिङ्गाच् च’’(ब्रह्मसूत्रम् ४-४-२१।) 
+
+ऎऩ्ऱ् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सूत्र-कारो ऽपि, 
+
+> ‘‘जगद्-व्यापार-वर्जं’’(ब्रह्मसूत्रम् ४-४-१७।) 
+
+इत्यारभ्य
+
+> ‘‘भोग-मात्र-साम्य-लिङ्गाच् च’’(ब्रह्मसूत्रम् ४-४-२१।) 
+
+इत्य् अनुजमाह । 
+</details>
+
+
+<details><summary>English</summary>
+
+The author of the Brahma Sūtras has stated at the beginning of the section : 
+
+> "(The mukta's enjoyment is ) exclusive of the work of the world" 
+
+and concludes it by saying:
+
+> "The resemblance or equality (sāmyam) between the mukta and Brahman  
+> is only so far as the enjoyment is concerned,  
+> as stated in the śruti s,  
+> and also by the inference linga". 
+</details>
+
+<details><summary>Español</summary>
+
+El autor del Brahma Sūtras **ha declarado** al comienzo de la sección:
+
+> "(El **disfrute** de Mukta **es**) **exclusivo** del **trabajo** del mundo"
+
+y lo **concluye diciendo**:
+
+> "La semejanza o la igualdad (Sāmyam) entre Mukta y Brahman  
+> **es** solo en lo que respecta al **disfrute**,  
+> Como **se indica** en los Śrutis,  
+> y también por la Linga inferencia".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सूत्रकाररुम् ‘‘जगद्व्यापारवर्जं’’(ब्रह्मसूत्रम् ४-४-१७।) ऎऩ्ऱु तुडङ्गि ‘‘भोगमात्रसाम्यलिङ्गाच्च’’(ब्रह्मसूत्रम् ४-४-२१।) ऎऩ्ऱरुळिच्चॆय्दार्। 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+जगद्व्यापारत्ताल् वरुम् रसम् - जगत्सृष्टिस्थितिसंहाररूपव्यापारत्ताले उण्डागुम् प्रीतिविशेषम्, जगद्व्यापारमिल्लाविट्टालुम् मुक्तऩुक्कु भोगमात्रत्तिल् साम्यमुण्डॆऩ्बदु सूत्रकारसम्मतमॆऩ्गिऱार् सूत्रकाररुमित्यादिना ।  
+जगद्व्यापारवर्जम् - जगद्व्यापारं वर्जयित्वा, भोगमात्रसाम्यलिङ्गाच्चेति ।  
+जगद्व्यापारानुभवजन्य प्रीतिरूपभोगमात्रत्तिल् मुक्तऩुक्कु भोगसाम्यमुण्डु। 
+
+> ‘‘सोऽश्नुते सर्वान् कामान्  
+> सह ब्रह्मणा विपश्चिता’’ 
+
+ऎऩ्ऱु 
+
+> ‘‘सर्वकामानुभव-रूप-लिङ्ग-सद्-भावात्’’ 
+
+ऎऩ्ऱु सूत्रङ्गळिऩर्थम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सामरस्यं हि सायुज्यं  
+> वदन्ति ब्रह्मवादिनः’’  
+> (शाकटायनः) 
+
+ऎऩ्ऱु शाकटायनऩुम् सॊऩ्ऩाऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सामरस्यं हि सायुज्यं  
+> वदन्ति ब्रह्मवादिनः’’  
+> (शाकटायनः) 
+
+इति शाकटायनो ऽप्य् अवोचत् । 
+</details>
+
+<details><summary>English</summary>
+
+Sakatayana has also stated as follows:- 
+
+> Those who meditate on Brahman **say** that  
+> sāyujyam **consists** in the sameness or equality of enjoyment.
+</details>
+
+<details><summary>Español</summary>
+
+Sakatayana también **ha declarado** lo siguiente:-
+
+> Aquellos que meditan en Brahman **dicen** que  
+> sāyujyam **consiste** en la igualdad o igualdad del disfrute.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सामरस्यं हि सायुज्यं वदन्ति ब्रह्मवादिनः’’(शाकटायनः)ऎऩ्ऱु शाकटायनऩुम् सॊऩ्ऩाऩ्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+भोगसाम्यमे सायुज्यमॆऩ्बदिल् शब्दार्थवित्तमराऩ शाकटायनरुडैय निरुक्तियैक्काट्टु किऱार् सामरस्यं हीत्यादिना । समः रसः भोगः यस्य सः समरसः तस्य भावः सामरस्यम् । हि प्रसिद्धौ, ब्रह्मवादिनः – वेदान्तिकळ्, वदन्ति – भोगवाचकयुक् शब्दस्थानत्तिल् रसशब्दत्तै प्रयोगित्तु सामरस्यत्तैये अदावदु समानभोगत्वत्तैये सायुज्यमाग वेदान्तवित्तुक्कळ् सॊल्लुगिऱार्गळॆऩ्ऱबडि। 
+</details>
+
+
+### ऐक्यं न
+<details><summary>English</summary>
+
+REFUTATION OF THE ADVAITIC DOCTRINE OF IDENTITY:
+</details>
+
+<details><summary>Español</summary>
+
+Refutación de la doctrina de la identidad advaitic:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शब्द-शक्तिय् इऩ्ऱिक्केय् इरुक्क  
+भेद-श्रुतिगळुम् विरोधिक्क  
+सायुज्य-शब्दत्तुक्कु ऐक्यम् पॊरुळ् आग निऩैत्त् इरुप्पार्क्कु  
+
+> मुक्तऩ् परम-साम्यत्तै अडैयुम् 
+
+ऎऩ्ऱुम्  
+
+> तादृक्क् आम् 
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ श्रुतिगळुम् विरोधिक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शब्द-शक्ताव् अ-सत्याम्,  
+भेद-श्रुतिषु च विरुन्धानासु,  
+सायुज्य-शब्दस्यैक्यार्थकत्वं मन्यमानानाम्,  
+
+> "मुक्तः परमं साम्यमुपैति" 
+
+इति, 
+
+"तादृक्" इति च प्रतिपादयन्त्यः श्रुतयोऽपि विरुन्धीरन् । 
+</details>
+
+
+<details><summary>English</summary>
+
+To those (viz. Advaitins) who maintain that the word Sayujyam means oneness or identity with Brahman (aikyam),  
+the derivative or etymological meaning of the word, sãyujyam,  
+is at variance, as also the texts in the śruti which declare that Brahman is different from the jīvas.  
+
+[ Such śrutis as the following:-  
+Brahman is the eternal among eternals,  
+the sentient among sentients.  
+(1) He is one and satisfies the desires of the many:  
+Svetasvatara Upaniṣad.  
+(2) Without any blemish or stain  
+he attains perfect resemblance (paramam samyam).]  
+
+Besides, their view is opposed also to the śrutis  
+which declare that the mukta will attain perfect resemblance (sāmyam) to Brahman  
+and that the mukta will be like Brahman. 
+</details>
+
+<details><summary>Español</summary>
+
+A aquellos (a saber, advaitins) que **sostienen** que la palabra sayujyam **significa** unidad o identidad con Brahman (aikyam),  
+El **significado** derivado o etimológico de la palabra, sãyujyam,  
+**está** en varianza, como también los textos en el Śruti  
+que **declaran** que Brahman **es diferente** de los Jīvas.
+
+[Tales Śrutis como los siguientes:-
+
+- Brahman **es** el eterno entre los eternos,
+**el** sensible entre los sentientes.
+-  Él **es** uno y satisface los deseos de los muchos:
+Svetasvatara Upaniṣad.
+- sin mancha ni mancha  
+  Él **alcanza** la semejanza perfecta (Paramam samyam).]
+
+Además, su punto de vista **se opone** también al Śrutis  
+que **declara** que el Mukta **obtendrá** un parecido perfecto (Sāmyam) con Brahman  
+y que el Mukta **será** como Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शब्दशक्तियिऩ्ऱिक्केयिरुक्क भेदश्रुतिकळुम् विरोधिक्क सायुज्यशब्दत्तुक्कु ऐक्यम् पॊरुळाग निऩैत्तिरुप्पार्क्कु मुक्तऩ् परमसाम्यत्तै अडैयुमॆऩ्ऱुम् तादृक्कामॆऩ्ऱुञ्जॊल्लुगिऱ श्रुतिकळुम् विरोधिक्कुम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+सायुज्यशब्दत्तिऱ्कु ब्रह्मजीवयोः स्वरूपैक्यम् अर्थ मॆऩ्ऱु सॊल्लुगिऱवर्गळुडैय पक्षत्तै निरसिक्किऱार् शब्दशक्तियऩ्ऱिक्केयिरुक्क इत्यादिना । शब्दशक्तियऩ्ऱिक्के यिरुक्क - सायुज्यशब्दम् स्वरूपैक्यत्तिले शक्तमिल्लामलिरुक्क, इदऩाल् सायुज्यशब्दम् तऩक्कु शक्यमिल्लाद जीवब्रह्मस्वरूपैक्यत्तैच् चॊल्लुमागिल् घटशब्दमुम् तऩक्कु शक्यमिल्लाद पटत्तैच् चॊल्ल प्रसङ्गिक्कुमॆऩ्गिऱ अनिष्टप्रसङ्गमभिप्रेतम्।  
+भेदश्रुतिकळुम् विरोधिक्क इति ।  
+भेदश्रुतिकळावऩ - 
+
+> ‘‘पृथग्-आत्मानं प्रेरितारञ्च मत्वा’’  
+> ‘‘तयोर् अन्यः पिप्पलं स्वाद्वत्ति’’  
+> ‘‘नित्यो नित्यानां … एको बहूनां यो विदधाति कामान्’’ 
+
+इत्यादि ।  
+इदऩाल् सायुज्य-शब्दत्तिऱ्कु जीवब्रह्मस्वरूपैक्यम् अर्थमॆऩ्ऱु ऎण्णिऩाल् भेदश्रुतिकळ् बाधितङ्गळाग वेण्डिवरुमॆऩ्गिऱ श्रुत्यर्थापत्ति अभिप्रेतम्।  
+
+निऩैत्तिरुप्पार्क्कु इति । 
+इदऩाल् अवर्गळुडैय निऩैविऱ्कुक् कारणम् दुर्ज्ञेयम् ऎऩ्ऱद् आयिऱ्ऱु।  
+
+अन्द निऩैवु श्रुतिविरुद्धमॆऩ्गिऱार् मुक्तऩित्यादिना ।  
+श्रुतिकळुम् - 
+
+> ‘‘निरञ्जनः परमं साम्यमुपैति’’  
+
+> ‘‘यथोदकं शुद्धे शुद्धम् आसिक्तं  
+> तादृगेव भवति’’  
+
+> ‘‘एवं मुनेर् विजानत आत्मा भवति गौतम’’ 
+
+इत्यादिश्रुतिकळुम्, विरोधिक्कुम् - साम्यमुम् तादृक्त्वमुम् भेदघटितमागैयाले स्वरूपैक्यत्तोडु विरोधिक्कुमॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘मम साधर्म्यम् आगताः’’(गीता १४-२।)  
+
+ऎऩ्ऱु गीताचार्यऩुम् अरुळिच् चॆय्दाऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘मम साधर्म्यम् आगताः’’(गीता १४-२।)  
+
+इति गीताचार्यो ऽप्य् अनुजग्राह । 
+</details>
+
+
+<details><summary>English</summary>
+
+The author of the Gita has conveyed the same idea in :-  
+"They will attain my likeness (sādharmyam)".
+</details>
+
+<details><summary>Español</summary>
+
+El autor de la Gita **ha transmitido** la misma idea en:-  
+"Ellos **alcanzarán** mi semejanza (Sādharmyam)".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मम साधर्म्यमागताः’’(गीता १४-२।) ऎऩ्ऱु गीताचार्यऩुमरुळिच्चॆय्दाऩ्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+गीतास्मृतिविरोधमुम् वरुमॆऩ्गिऱार् मम साधर्म्यमागता इत्यादिना ।   
+</details>
+
+#### व्यास-निर्णयः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थत्तै 
+
+> परेण पर-धर्मी च  
+> भवत्य् एष **समेत्य** वै ।  
+> विशुद्ध-धर्मा शुद्धेन  
+> बुद्धेन च स बुद्धिमान् ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अमुम् अर्थं 
+
+> परेण पर-धर्मी च  
+> भवत्य् एष **समेत्य** वै ।  
+> विशुद्ध-धर्मा शुद्धेन  
+> बुद्धेन च स बुद्धिमान् ॥
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva released from bondage (i.e.) the mukta,  
+> attains the Supreme Being  
+> and acquires attributes similar to those of the Supreme Being.  
+> He too becomes free from all imperfections when he reaches Him.  
+> Having attained the Omniscient Brahman, he, too, becomes omniscient.  
+
+</details>
+
+<details><summary>Español</summary>
+
+> "El Jīva **liberado** de la **esclavitud** (es decir) el Mukta,  
+> **alcanza** el ser supremo  
+> y **adquiere** atributos similares a los del ser supremo.  
+> Él también **se libera** de todas las imperfecciones cuando lo **alcanza**.  
+> **Habiendo alcanzado** el omnisciente Brahman, él también **se vuelve** omnisciente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै ‘‘परेण परधर्मी च भवत्येष समेत्यवै । विशुद्धधर्मा शुद्धेन बुद्धेन च स बुद्धिमान् ॥
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+साधर्म्यमे सायुज्यशब्दार्थमॆऩ्बदिल् मोक्षधर्मत्तिलुळ्ळ वसिष्ठकराळसंवादवचनङ्गळुम् प्रमाणमॆऩ्गिऱार् इव्वर्थत्तैयित्यादिना । परेणेति । एषः – मुक्तः, परेण – परब्रह्मत्तोडु, समेत्य – संश्लेषत्तैयडैन्दु, परब्रह्मत्तै अनुभवित्तु ऎऩ्ऱबडि। परधर्मी च – परस्य ये धर्माः, तत्सदृशधर्मवान् भवतीत्यर्थः ।  
+इप्पडि सामान्यमाग प्रतिज्ञातमाऩ समानधर्मवत्वत्तै विशेषतः व्यपदेशिक्किऱार् विशुद्धधर्मा शुद्धेनेत्यादिना । एष इत्यनुषज्यते । एषः – मुक्तः, शुद्धेन – कर्मसम्बन्धशून्येन ब्रह्मणा, समेत्य – अनुभवरूपसम्बन्धत्ताले संश्लेषित्तु, विशुद्धधर्मा भवति – कर्मसम्बन्धराहित्यरूपविशुद्धधर्मवान् भवति । सः – मुक्तः, बुद्धेन – सर्वज्ञऩाऩ भगवाऩोडु, समेत्य – संश्लेषित्तु, बुद्धिमान् – सर्वज्ञ ऩागिऱाऩ्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> +++(कर्मणो)+++ विमुक्त-धर्मा मुक्तेन  
+**समेत्य** भरतर्षभ! ।  
++++(दुःख-)+++वियोग-धर्मणा चैव  
+वियोगात्मा **भवत्य्** अपि ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> +++(कर्मणो)+++ विमुक्त-धर्मा मुक्तेन  
+**समेत्य** भरतर्षभ! ।  
++++(दुःख-)+++वियोग-धर्मणा चैव  
+वियोगात्मा **भवत्य्** अपि ॥  
+</details>
+
+<details><summary>English</summary>
+
+> Having reached Him who is free from the bondage of karma,  
+> he, too, becomes free from karma.  
+> Having attained Bhagavān who is free from suffering and sorrow,  
+> he, too, becomes free from them.  
+</details>
+
+<details><summary>Español</summary>
+
+> **Habiendo llegado** a él que **está libre** de la esclavitud del karma,  
+> Él también **se libera** del karma.
+> **Habiendo alcanzado** Bhagavān que **está libre** de sufrimiento y tristeza,  
+> Él también se **libera** de ellos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विमुक्तधर्मामुक्तेन समेत्य भरतर्षभ! ।  
+वियोगधर्मणा चैव वियोगात्मा भवत्यपि ॥  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+मुक्तेन – संसारबन्धरहितऩाऩ ब्रह्मत्तोडु, विमुक्तधर्मा भवति – विमुक्तमाऩ संसारसम्बन्धरूपधर्मवान् भवति । भरतर्षभ – भरतश्रेष्ठऩाऩ कराळजनकऩे! वियोगधर्मणा – दुःखवियोग-धर्मवता ब्रह्मणा, वियोगात्मा भवति – दुःखवियोगरूपधर्मवान् भवति । 
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विमोक्षिणा **विमोक्षी** च  
+समेत्येह तथा **भवेत्** ।  
++++(कर्मान्तरामूल-)+++शुचि-कर्मणा शुचिश् चैष  
+भवत्य् अमित-दीप्तिमान् ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> विमोक्षिणा+++(→महानन्देन)+++ **विमोक्षी** च  
+समेत्येह तथा **भवेत्** ।  
++++(कर्मान्तरामूल-)+++शुचि-कर्मणा शुचिश् चैष  
+भवत्य् अमित-दीप्तिमान् ॥
+</details>
+
+<details><summary>English</summary>
+
+> Having reached Him who is blissful,  
+> he, too, becomes blissful.   
+> O best of Bharatas, having attained Bhagavān who acts by His will alone  
+> (without being influenced by karma),  
+> he, too, acts merely by his will.  
+> He becomes resplendent  
+</details>
+
+<details><summary>Español</summary>
+
+> **Habiendo alcanzado** al que es feliz,  
+> Él también **se vuelve** feliz.  
+> Oh lo mejor de Bharatas, **habiendo alcanzado** Bhagavān que actúa solo por su voluntad  
+> (sin ser influenciado por el karma),  
+> Él también **actúa** simplemente por su voluntad.  
+> Se **vuelve resplandeciente**
+</details>
+
+<details><summary>मूलम्</summary>
+
+विमोक्षिणा विमोक्षी च समेत्येह तथा भवेत् ।  
+शुचिकर्मणा शुचिश्चैष भवत्यमितदीप्तिमान् 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+विमोक्षिणा – महानन्दवता ब्रह्मणा, विमोक्षी भवति – महानन्दवान् भवति। ‘‘मुक्तिर्मोक्षो महानन्द’’ इति निघण्टुः । शुचिकर्मणा – पुण्यपापमूल मल्लाद व्यापारत्तैयुडैय ब्रह्मत्तोडे, शुचिश्च भवति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> +++(त्रैगुण्यापेक्षया)+++ विमलात्मा च भवति  
+**समेत्य** विमलात्मना ।  
++++(प्राकृत-देह-रहिततया)+++ केवलात्मा तथा चैषः  
+केवलेन **समेत्य** वै ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> +++(त्रैगुण्यापेक्षया)+++ विमलात्मा च भवति  
+**समेत्य** विमलात्मना ।  
++++(प्राकृत-देह-रहिततया)+++ केवलात्मा तथा चैषः  
+केवलेन **समेत्य** वै ॥  
+</details>
+
+<details><summary>English</summary>
+
+> and having attained Bhagavān  
+> who is without the qualities (of prakṛti)  
+> he, too, is without those qualities.  
+> Having reached Brahman who is without the body and the senses constituted of matter (Prakṛti),  
+> he, too, becomes free from them.  
+</details>
+
+<details><summary>Español</summary>
+
+> y **habiendo alcanzado** Bhagavān  
+> Quién **no tiene** las cualidades (de Prakṛti)  
+> Él también **está** sin esas cualidades.  
+> **Habiendo llegado** a Brahman, que **no tiene** el cuerpo y los sentidos constituidos de la materia (prakṛti),  
+> Él también **se libera** de ellos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विमलात्मा च भवति समेत्य विमलात्मना ।  
+केवलात्मा तथा चैषः केवलेन समेत्य वै ॥  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+विमलात्मना – सत्त्वादिगुणरहितऩाऩ ब्रह्मत्तोडु, विमलात्मा च – सत्त्वादिरहितऩागिऱाऩ्।  
+केवलेन – प्राकृतदेहेन्द्रियादिरहितऩाऩ ब्रह्मत्तोडे, केवलात्मा – प्राकृतदेहेन्द्रियादिसम्बन्धरहितो भवति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स्वतन्त्रश् च स्वतन्त्रेण  
+> स्वतन्त्रत्वम् उपाश्नुते ।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> स्वतन्त्रश् च स्वतन्त्रेण  
+> स्वतन्त्रत्वम् उपाश्नुते ।  
+</details>
+
+<details><summary>English</summary>
+
+> Having attained the Supreme Being who is independent of karma, he too, becomes independent.  
+</details>
+
+<details><summary>Español</summary>
+
+> Habiendo **alcanzado** el ser supremo que es independiente del karma, él también **se vuelve** independiente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वतन्त्रश्च स्वतन्त्रेणस्वतन्त्रत्वमुपाश्नुते ।  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+स्वतन्त्रेण – अकर्मवश्यऩाऩ ब्रह्मत्तोडु, स्वतन्त्रश्च सन् स्वतन्त्रत्वमुपाश्नुते – अकर्मवश्यतैयै यडैगिऱाऩ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एतावद् एतत् **कथितं** मया ते  
+तथ्यं महाराज! यथार्थ-तत्वम् ।  
+अमत्सरस् त्वं **प्रतिगृह्य** चार्थं  
+सनातनं ब्रह्म विशुद्धम् आद्यम् +++(उपास्व)+++  
+(भारतम् शान्ति-पर्व ३१३-२६-३१)  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एतावद् एतत् **कथितं** मया ते  
+तथ्यं महाराज! यथार्थ-तत्वम् ।  
+अमत्सरस् त्वं **प्रतिगृह्य** चार्थं  
+सनातनं ब्रह्म विशुद्धम् आद्यम् +++(उपास्व)+++  
+(भारतम् शान्ति-पर्व ३१३-२६-३१)  
+</details>
+
+<details><summary>English</summary>
+
+> I have thus described the truth to you, O great king,  
+> just as it is in reality.  
+> Having accepted this teaching with a mind free from discontent (asuya),  
+> meditate on Brahman who is eternal and free from all imperfections  
+> and who is the (ultimate) cause of the world".
+</details>
+
+<details><summary>Español</summary>
+
+> Por lo tanto, te **he descrito** la verdad, oh gran rey,  
+> tal como es en realidad.  
+> **Habiendo aceptado** esta enseñanza con una mente libre de descontento (asuya),  
+> **Medita** en Brahman, que es eterno y libre de todas las imperfecciones  
+> Y quién **es** la causa (definitiva) del mundo ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+एतावदेतत्कथितं मया ते  
+तथ्यं महाराज! यथार्थतत्वम् ।  
+अमत्सरस्त्वं प्रतिगृह्य चार्थं  
+सनातनं ब्रह्म विशुद्धमाद्यम्’’  
+(भारतम् शान्ति-पर्व ३१३-२६-३१)  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+एतावदिति । मोक्षविषयत्तिल् एतावत् - इव्वळवु पर्यन्तम्, यथार्थतत्वं – प्रामाणिकार्थतत्वत्तै अतिक्रमिक्कामल्, ते - उऩक्कु, कथितं - सॊल्लप्पट्ट, एतत् – समानधर्मत्वादि । तथ्यं – सत्यमित्यर्थः, अमत्सरः – पक्षपातमिल्लाद, त्वं - नीयाऩवऩ्, अदावदु भेदाभेदमतङ्गळिल् पक्षपात मिऩ्ऱिक्के शास्त्रैकशरणऩागप्पोन्द नी ऎऩ्ऱबडि। अर्थं – मुक्तऩुक्कुम् ब्रह्मत्तिऱ्कुमुळ्ळ साधर्म्यादिरूपमाऩ पदार्थत्तै। प्रतिगृह्य – यथार्थमाग अङ्गीकरित्तु, विशुद्धमाद्यं सनातनं ब्रह्म, उपास्वेति शेषः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु वसिष्ठ-कराळ-संवादत्तिल् परक्कप् पेसि,  
+इदुवे परमार्थम् ऎऩ्ऱु महर्षि निगमित्ताऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इति वसिष्ठ-कराल-संवादे विस्तरेणोक्त्वा  
+अयमेव परमार्थ इति महर्षिर् निगमयाम् आस ।  
+</details>
+
+
+<details><summary>English</summary>
+
+The Maharshi (Vyāsa) has also (thus) expressed this idea at great 
+length in the discourse between Vasiṣṭa and Karala and concludes by saying that this is the supreme truth. 
+</details>
+
+<details><summary>Español</summary>
+
+El Maharshi (Vyāsa) también (por lo tanto) **ha expresado** esta idea en gran  
+Longitud en el discurso entre Vasiṣṭa y Karala  
+y **concluye diciendo** que esta **es** la verdad suprema.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु वसिष्ठकराळसंवादत्तिल् परक्कप्पेसि, इदुवे परमार्थमॆऩ्ऱु महर्षिनिगमित्ताऩ्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+परक्कप्पेसि - विस्तृतमागप्पेसि, इदुवे - इस्साधर्म्यमे, परमार्थ मॆऩ्ऱु महर्षि निगमित्ताऩिदि । ‘‘एतावदेतत्कथितं मया ते तथ्यं’’ ऎऩ्ऱु मुडिक्कैयाल् परमार्थमॆऩ्ऱु निगमित्ताऩॆऩ्ऱबडि। इदऩाल् साधर्म्यादिगळॆल्लाम् व्यावहारिकङ्गळॆऩ्ऱुम्, अत एव मिथ्याविषयङ्गळॆऩ्ऱुम् कल्बिक्कुम् पक्षम् दूरोत्सारितमायिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु मुक्तऩै स्वतन्त्रऩ् ऎऩ्गिऱदु कर्मवश्यऩ् अऩ्ऱ् ऎऩ्ऱ बडि। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र मुक्त-विषये स्वतन्त्र इत्य्-उक्तिः अकर्मवश्यत्वपरा।| 
+</details>
+
+
+<details><summary>English</summary>
+
+In the passage cited above,  
+the mukta is called 'independent' (svatantra ),  
+because he is free from the influence of past karma. 
+</details>
+
+<details><summary>Español</summary>
+
+En el pasaje **citado** anteriormente,  
+El mukta **se llama** 'independiente' (svatantra),  
+Porque **está** libre de la influencia del karma pasado.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु मुक्तऩै स्वतन्त्रऩॆऩ्गिऱदु कर्मवश्यऩऩ्ऱॆऩ्ऱबडि। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+उपात्तवचनङ्गळिल् ‘‘स्वतन्त्रश्च स्वतन्त्रेण’’ ऎऩ्ऱु स्वातन्त्र्यम् सॊल्लप्पट्टिरुप्पदाल् स्वतन्त्रब्रह्मैक्यपरत्वशङ्गै वरुमागैयाल् अदै निवर्तिप्पिक्किऱार् इङ्गु मुक्तऩै स्वतन्त्रऩॆऩ्गिऱदु अकर्मवश्यऩॆऩ्ऱबडि इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्त-विषयम् आऩ स्वराट्-छब्दत्तै  
+‘‘अ-कर्म-वश्यः’’ ऎऩ्ऱु  
+भाष्यकारर् व्याख्यानम् पण्णिय् अरुळिऩार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुक्त-विषयं स्वराट्-शब्दम्  
+"अ-कर्म-वश्यः" इति भाष्य-कारो व्याचचक्षे । 
+</details>
+
+<details><summary>English</summary>
+
+The Bhāṣyakāra (Śrī Rāmānuja) has explained the meaning of the word Svarat (literally the independent king)  
+as being not subject to karma.
+</details>
+
+<details><summary>Español</summary>
+
+El Bhāṣyakāra (śrī rāmānuja) **ha explicado** el significado de la palabra svarat (literalmente el rey independiente)  
+como **no estar sujeto** al karma.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुक्तविषयमाऩ स्वराट्छब्दत्तै ‘‘अकर्मवश्यः’’ ऎऩ्ऱु भाष्यकारर् व्याख्यानम् पण्णियरुळिऩार्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+बद्धदशैयिल् कर्मपरवशऩाऩ मुक्तऩै स्वतन्त्रऩॆऩ्ऱाल् अन्द कर्मपारवश्यम् कऴिन्दवऩॆऩ्ऱे सॊल्लवेण्डुमिऱे।  
+इदिल् श्रीभाष्यकारसम्मतियैक् काट्टुगिऱार् मुक्तविषयमाऩ स्वराट्शब्दत्तै इत्यादिना ।  
+</details>
+
+
+#### ऐक्य-वाक्य-निर्वाहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि श्रुति-स्मृति-सूत्रङ्गळिले साम्यम् कण्ठोक्तम् आगैयाल्  
+मुक्त-दशैयिल् ऐक्यम् तोऩ्ऱिऩव् इडङ्गळ् ऎल्लाम्  
+
+> ‘‘राम-सुग्रीवयोर् ऐक्यं  
+> देव्य् एवं समजायत’’  
+> (रामायणम् सुन्दरकाण्डम् ३५-५१।) 
+
+इत्य्-आदिगळिऱ् पडिये  
+भेद-श्रुत्य्-अ-विरोधेन कण्डु-गॊळ्वदु।+++(5)+++  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं श्रुति-स्मृति-सूत्रेषु साम्यस्य कण्ठोक्तत्वात्  
+युक्त-दशायाम् ऐक्यं प्रतिपादयन्तः सर्वे प्रदेशाः 
+
+> ‘‘राम-सुग्रीवयोर् ऐक्यं  
+> देव्य् एवं समजायत’’  
+> (रामायणम् सुन्दरकाण्डम् ३५-५१।) 
+
+इत्य्-आद्य्-उक्त-रीत्या भेद-श्रुत्य्-अ-विरोधेन नेयाः ।
+</details>
+
+<details><summary>English</summary>
+
+Thus since in the śrutis, the smṛtis and the sūtras,  
+resemblance between the mukta and Brahman (sāmyam) is explicitly stated,  
+those places in the texts which seem to speak of identity (aikyam) between the mukta and Brahman in the state of release from bondage  
+have to be explained in a manner that would not be inconsistent  
+with the śruti s which declare difference between the jīva and Brahman.  
+The word aikyam or (identity ) in such passages  
+should be construed in the same manner as in the śloka  : >
+
+> "The aikyam between Rāma and Sugrīva arose O, Lady, in this way.”  
+> (Here aikyam means friendship, identity not of selfs but of interests).
+</details>
+
+<details><summary>Español</summary>
+
+Así, ya que en los śrutis, los smṛtis y los sūtras,  
+La semejanza entre Mukta y Brahman (Sāmyam) **se afirma explícitamente**,  
+Esos lugares en los textos que **parecen hablar** de identidad (aikyam) entre Mukta y Brahman en el estado de liberación de la esclavitud  
+**tener** que **ser explicado** de una manera que **no sería inconsistente**  
+con los Śrutis que **declaran** la diferencia entre Jīva y Brahman.  
+
+La palabra aikyam o (identidad) en tales pasajes  
+**debe interpretarse** de la misma manera que en el Śloka:
+
+> "El aikyam entre Rāma y Sugrīva **surgió** O, dama, de esta manera".  
+> (Aquí Aikyam **significa** amistad,  
+> **identidad** no de sí mismo, sino de intereses).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि श्रुतिस्मृतिसूत्रङ्गळिले साम्यम् कण्ठोक्तमागैयाल् मुक्तदशैयिल् ऐक्यम् तोऩ्ऱिऩ विडङ्गळॆल्लाम् ‘‘रामसुग्रीवयोरैक्यं देव्येवं समजायते’’(रामायणम् सुन्दरकाण्डम् ३५-५१।) त्यादिगळिऱ्पडिये भेदश्रुत्यविरोधेन कण्डुगॊळ्वदु।  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि परमसाम्यम् सॊल्लुगिऱ श्रुत्यादिगळैक्कॊण्डु मोक्षदशैयिल् मुक्तऩुक्कु ब्रह्मत् तोडु परमसाम्यमे तथ्यमॆऩ्ऱु निर्णयित्ताल् मुक्तिदशैयिलेये  
+‘‘ब्रह्म वेद - ब्रह्मैव भवती’’त्यादि श्रुतिकळुक्कुम्,  
+
+> ‘‘तद्-भाव-भावम् आपन्नस्  
+तदासौ परमात्मना ।  
+भवत्य् अभेदी, भेदश् च  
+तस्याज्ञान-कृतो भवेत्॥’’ +++(4)+++ 
+
+> ‘‘विभेद-जनके ज्ञाने  
+> **नाशम्** आत्यन्तिकं **गते** ।  
+> आत्मनो ब्रह्मणो भेदम्  
+> अ-सन्तं कः **करिष्यति**॥’’ 
+
+इत्यादि स्मृतिकळुक्कुम् निर्वाहमॆङ्ङऩेयॆऩ्ऩिल् समाधानमरुळिच्चॆय्गिऱार् इप्पडि श्रुतिस्मृतीत्यादिना ।  
+
+कण्ठोक्तमागैयालिति । कण्ठोक्तत्वात् साम्यश्रुतियाऩदु अन्यथासिद्ध्यनर्हमॆऩ्ऱु करुत्तु। ऐक्यम् तोऱ्ऱिऩविडङ्गळॆल्लामिति । सामानाधिकरण्यादिना अन्यतासिद्ध्यर्हमाऩ ऐक्यम् प्रतीतमाऩविडङ्गळॆल्लाम् ऎऩ्ऱबडि। भेदश्रुत्यविरोधेन ऐक्यनिर्वाहप्रकारत्तैक् काट्टु किऱार् रामसुग्रीवयोरित्यादिना । ऐक्यं – तुल्यमनोभाववत्वम्, एवं समजायत – अन्तःपुरत्तिऱ्कु ऎऩ्ऩै तूदऩाक्कुम्बडियाग उण्डायिऱ्ऱॆऩ्गै। रामसुग्रीवर्गळुक्कु मनोभावैक्यम् तविर स्वरूपैक्यम् सॊल्लमुडियादिऱे। अप्पडिये अत्यन्तसाम्यत्ताले जीवब्रह्मणोः अभेदव्यपदेशत्तै निर्वहिक्कलामॆऩ्ऱु करुत्तु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् अल्लाद बोदु  
+
+> यदा तु **मन्यते** ऽन्योऽहम्  
+अन्य एष इति द्विजः ।  
+तदा स केवली-भूतष्  
+षड्-विंशम् **अनुपश्यति** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा, 
+
+> यदा तु **मन्यते** ऽन्योऽहम्  
+अन्य एष इति द्विजः ।  
+तदा स केवली-भूतष्  
+षड्-विंशम् **अनुपश्यति** ॥  
+</details>
+
+<details><summary>English</summary>
+
+If it were not construed in this way,  
+
+> (1) “When the person who is twice-born (dvija) sees that he is different from the Supreme Being  
+> and that the Supreme Being is different from himself,  
+> he becomes free from bondage  
+> and will see for ever (Bhagavān who is) the 26th real.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Si **no se interpretó** de esta manera,
+
+> (1) “Cuando la persona que **tiene** dos veces (dvija) **ve** que es diferente del ser supremo    
+> y que el ser supremo **es** diferente de sí mismo,  
+> **se libera** de la **esclavitud**  
+> y **veré** para siempre (bhagavān que es) el 26 de verdad.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩल्लादबोदु  
+‘‘यदा तु मन्यतेऽन्योऽहमन्य एष इति द्विजः ।  
+तदा स केवलीभूतष्षड्विंशमनुपश्यति ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अन्यश् चराजन्! स +++(२६-तमः)+++ परस्  
+तथान्यः पञ्चविंशकः ।  
+तत्-स्थत्वाद् **अनुपश्यन्ति**  
+ह्य् एक एवेति साधवः ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अन्यश् चराजन्! स +++(२६-तमः)+++ परस्  
+तथान्यः पञ्चविंशकः ।  
+तत्-स्थत्वाद् **अनुपश्यन्ति**  
+ह्य् एक एवेति साधवः ॥  
+</details>
+
+<details><summary>English</summary>
+
+> The Supreme Being is one  
+> and the jīva-- who is the 25th real - is another.  
+> Since the Supreme Being is within him (the jīva),  
+> good men call them one.  
+</details>
+
+<details><summary>Español</summary>
+
+> El ser supremo **es** uno  
+> Y el Jīva, que es el 25 verdadero, **es** otro.  
+> Dado que el ser supremo **está** dentro de él (el Jīva),  
+> Los buenos hombres los **llaman** uno.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यश्चराजन्! स परस्तथान्यः पञ्चविंशकः ।  
+तत्स्थत्वादनुपश्यन्ति ह्येक एवेति साधवः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अन्यश् च राजन्! स परस्  
+तथान्यः पञ्चविंशकः ।  
+तेनैतन् **नाभिजानन्ति**  
+पञ्च-विंशकम् अच्युतम् ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अन्यश् च राजन्! स परस्  
+तथान्यः पञ्चविंशकः ।  
+तेनैतन् **नाभिजानन्ति**  
+पञ्च-विंशकम् अच्युतम् ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+> The Supreme Being, O, king, is different from the jīva,  
+> and the jīva, who is the 25th real, is different from the 24 reals.  
+> Therefore good men do not consider the jīva,  
+> who is the 25th real,  
+> as being identical with the Supreme Being.  
+</details>
+
+<details><summary>Español</summary>
+
+> El Ser Supremo, O, Rey, **es diferente** del Jīva,  
+> Y el Jīva, que **es** el 25 real, **es diferente** de los 24 reales.  
+> Por lo tanto, los hombres buenos **no consideran** el Jīva,  
+> Quien **es** el 25 en realidad  
+> como **es** idéntico al ser supremo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्यश्च राजन्! स परस्तथान्यः पञ्चविंशकः ।  
+तेनैतन्नाभिजानन्ति पञ्चविंशकमच्युतम् ॥ 
+</details>
+
+
+it would be in conflict with thousands of authoritative passages like the above ~~following~~:--
+
+
+
+> So in dread of birth and death, they perform, O Kasyapa, karma yoga,  
+> acquire thereby purity of mind,  
+> and then perform jñāna yoga,  
+> and then meditate on the Supreme Being as the supreme object of attainment.
+
+(2) Puruṣottama is different from both the baddha and mukta.  
+He is called the Supreme Being.
+
+(3) He who is within the jīva as his Inner Ruler --  
+He is eternal:  
+He is free from the qualities of prakṛti:  
+He should be known as Nārāyaṇa:  
+He is the soul of all  
+and is called Puruṣa by the Vedas.  
+The consequences of past karma do not cling to Him,  
+in the same way as water does not cling to the leaf of the lotus.  
+The jīva who is inferior to the Supreme Being  
+becomes subject to bondage owing to past karma  
+and attains mokṣa  by meditating on Brahman".
+
+(4) "Just as fire in a ball of (red-hot) iron seems to be one with the iron,  
+though it is really different from it,  
+so the Supreme Being pervades the world  
+and is inseparable from it".
 
 Therefore the perfect resemblance of the jīva (parama samyam) (to Brahman) is only that arising from jñāna and bhoga (enjoyment) and the like. Iśvara has, for His definition, the following attributes which are like the umbrella and the chamara (insignia of royalty):-- being the cause of the world, the conferring of mokṣa  on jīvas, being the support of the world, being the controller of the world, the one for whom all things and all sentient beings exist, the one who has everything for His body, the one who is denoted by all words, the one who can be understood from all the Vedas, the one who is the refuge of all the world, the one who should be adored by all those who want mokṣa , the one who grants the fruits (of all actions), the one whose essential nature is omnipresence, Jñāna and ānanda (bliss), the one who is the spouse of Lakṣ mi. These are peculiar to Him and are His distinctive features. The mukta's distinctive attributes are the following : being sustained (by Iśvara); being controlled by Him, existing only for the Lord (śeṣatva), being atomic (aṇu) and such others.
 
