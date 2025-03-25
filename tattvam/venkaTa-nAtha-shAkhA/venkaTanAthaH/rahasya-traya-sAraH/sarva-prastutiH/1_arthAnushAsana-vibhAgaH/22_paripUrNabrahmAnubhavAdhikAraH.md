@@ -3498,8 +3498,14 @@ Porque **está** libre de la influencia del karma pasado.
 
 <details><summary>मूलम्</summary>
 
-इङ्गु मुक्तऩै स्वतन्त्र ऩॆऩ्गिऱदु कर्मवश्यऩऩ्ऱॆऩ्ऱबडि। 
+इङ्गु मुक्तऩै स्वतन्त्रऩॆऩ्गिऱदु कर्मवश्यऩऩ्ऱॆऩ्ऱबडि। 
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+उपात्तवचनङ्गळिल् ‘‘स्वतन्त्रश्च स्वतन्त्रेण’’ ऎऩ्ऱु स्वातन्त्र्यम् सॊल्लप्पट्टिरुप्पदाल् स्वतन्त्रब्रह्मैक्यपरत्वशङ्गै वरुमागैयाल् अदै निवर्तिप्पिक्किऱार् इङ्गु मुक्तऩै स्वतन्त्रऩॆऩ्गिऱदु अकर्मवश्यऩॆऩ्ऱबडि इति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3530,6 +3536,13 @@ como **no estar sujeto** al karma.
 
 मुक्तविषयमाऩ स्वराट्छब्दत्तै ‘‘अकर्मवश्यः’’ ऎऩ्ऱु भाष्यकारर् व्याख्यानम् पण्णियरुळिऩार्। 
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+बद्धदशैयिल् कर्मपरवशऩाऩ मुक्तऩै स्वतन्त्रऩॆऩ्ऱाल् अन्द कर्मपारवश्यम् कऴिन्दवऩॆऩ्ऱे सॊल्लवेण्डुमिऱे।  
+इदिल् श्रीभाष्यकारसम्मतियैक् काट्टुगिऱार् मुक्तविषयमाऩ स्वराट्शब्दत्तै इत्यादिना ।  
+</details>
+
 
 #### ऐक्य-वाक्य-निर्वाहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3593,18 +3606,99 @@ La palabra aikyam o (identidad) en tales pasajes
 इप्पडि श्रुतिस्मृतिसूत्रङ्गळिले साम्यम् कण्ठोक्तमागैयाल् मुक्तदशैयिल् ऐक्यम् तोऩ्ऱिऩ विडङ्गळॆल्लाम् ‘‘रामसुग्रीवयोरैक्यं देव्येवं समजायते’’(रामायणम् सुन्दरकाण्डम् ३५-५१।) त्यादिगळिऱ्पडिये भेदश्रुत्यविरोधेन कण्डुगॊळ्वदु।  
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि परमसाम्यम् सॊल्लुगिऱ श्रुत्यादिगळैक्कॊण्डु मोक्षदशैयिल् मुक्तऩुक्कु ब्रह्मत् तोडु परमसाम्यमे तथ्यमॆऩ्ऱु निर्णयित्ताल् मुक्तिदशैयिलेये  
+‘‘ब्रह्म वेद - ब्रह्मैव भवती’’त्यादि श्रुतिकळुक्कुम्,  
+
+> ‘‘तद्-भाव-भावम् आपन्नस्  
+तदासौ परमात्मना ।  
+भवत्य् अभेदी, भेदश् च  
+तस्याज्ञान-कृतो भवेत्॥’’ +++(4)+++ 
+
+> ‘‘विभेद-जनके ज्ञाने  
+> **नाशम्** आत्यन्तिकं **गते** ।  
+> आत्मनो ब्रह्मणो भेदम्  
+> अ-सन्तं कः **करिष्यति**॥’’ 
+
+इत्यादि स्मृतिकळुक्कुम् निर्वाहमॆङ्ङऩेयॆऩ्ऩिल् समाधानमरुळिच्चॆय्गिऱार् इप्पडि श्रुतिस्मृतीत्यादिना ।  
+
+कण्ठोक्तमागैयालिति । कण्ठोक्तत्वात् साम्यश्रुतियाऩदु अन्यथासिद्ध्यनर्हमॆऩ्ऱु करुत्तु। ऐक्यम् तोऱ्ऱिऩविडङ्गळॆल्लामिति । सामानाधिकरण्यादिना अन्यतासिद्ध्यर्हमाऩ ऐक्यम् प्रतीतमाऩविडङ्गळॆल्लाम् ऎऩ्ऱबडि। भेदश्रुत्यविरोधेन ऐक्यनिर्वाहप्रकारत्तैक् काट्टु किऱार् रामसुग्रीवयोरित्यादिना । ऐक्यं – तुल्यमनोभाववत्वम्, एवं समजायत – अन्तःपुरत्तिऱ्कु ऎऩ्ऩै तूदऩाक्कुम्बडियाग उण्डायिऱ्ऱॆऩ्गै। रामसुग्रीवर्गळुक्कु मनोभावैक्यम् तविर स्वरूपैक्यम् सॊल्लमुडियादिऱे। अप्पडिये अत्यन्तसाम्यत्ताले जीवब्रह्मणोः अभेदव्यपदेशत्तै निर्वहिक्कलामॆऩ्ऱु करुत्तु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् अल्लाद बोदु  
+
+> यदा तु **मन्यते** ऽन्योऽहम्  
+अन्य एष इति द्विजः ।  
+तदा स केवली-भूतष्  
+षड्-विंशम् **अनुपश्यति** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा, 
+
+> यदा तु **मन्यते** ऽन्योऽहम्  
+अन्य एष इति द्विजः ।  
+तदा स केवली-भूतष्  
+षड्-विंशम् **अनुपश्यति** ॥  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩल्लादबोदु  
+‘‘यदा तु मन्यतेऽन्योऽहमन्य एष इति द्विजः ।  
+तदा स केवलीभूतष्षड्विंशमनुपश्यति ॥  
+
+</details>
 
 
 
-If it were not construed in this way, it would be in conflict with thousands of authoritative passages like the following:--
+If it were not construed in this way,  
 
-(1) “When the person who is twice-born (dvija) sees that he is different from the Supreme Being and that the Supreme Being is different from himself, he becomes free from bondage and will see for ever (Bhagavān who is) the 26th real. The Supreme Being is one and the jīva-- who is the 25th real - is another. Since the Supreme Being is within him (the jīva), good men call them one. The Supreme Being, O, king, is different from the jīva, and the jīva, who is the 25th real, is different from the 24 reals. Therefore good men do not consider the jīva, who is the 25th real, as being identical with the Supreme Being. So in dread of birth and death, they perform, O Kasyapa, karma yoga, acquire thereby purity of mind, and then perform jñāna yoga, and then meditate on the Supreme Being as the supreme object of attainment.
 
-(2) Puruṣottama is different from both the baddha and mukta. He is called the Supreme Being.
+it would be in conflict with thousands of authoritative passages like the above ~~following~~:--
 
-(3) He who is within the jīva as his Inner Ruler -- He is eternal: He is free from the qualities of prakṛti: He should be known as Nārāyaṇa: He is the soul of all and is called Puruṣa by the Vedas. The consequences of past karma do not cling to Him, in the same way as water does not cling to the leaf of the lotus. The jīva who is inferior to the Supreme Being becomes subject to bondage owing to past karma and attains mokṣa  by meditating on Brahman".
+> (1) “When the person who is twice-born (dvija) sees that he is different from the Supreme Being  
+> and that the Supreme Being is different from himself,  
+> he becomes free from bondage  
+> and will see for ever (Bhagavān who is) the 26th real.  
+> The Supreme Being is one  
+> and the jīva-- who is the 25th real - is another.  
+> Since the Supreme Being is within him (the jīva),  
+> good men call them one.  
+> The Supreme Being, O, king, is different from the jīva,  
+> and the jīva, who is the 25th real, is different from the 24 reals.  
+> Therefore good men do not consider the jīva,  
+> who is the 25th real,  
+> as being identical with the Supreme Being.  
+> So in dread of birth and death, they perform, O Kasyapa, karma yoga,  
+> acquire thereby purity of mind,  
+> and then perform jñāna yoga,  
+> and then meditate on the Supreme Being as the supreme object of attainment.
 
-(4) "Just as fire in a ball of (red-hot) iron seems to be one with the iron, though it is really different from it, so the Supreme Being pervades the world and is inseparable from it".
+(2) Puruṣottama is different from both the baddha and mukta.  
+He is called the Supreme Being.
+
+(3) He who is within the jīva as his Inner Ruler --  
+He is eternal:  
+He is free from the qualities of prakṛti:  
+He should be known as Nārāyaṇa:  
+He is the soul of all  
+and is called Puruṣa by the Vedas.  
+The consequences of past karma do not cling to Him,  
+in the same way as water does not cling to the leaf of the lotus.  
+The jīva who is inferior to the Supreme Being  
+becomes subject to bondage owing to past karma  
+and attains mokṣa  by meditating on Brahman".
+
+(4) "Just as fire in a ball of (red-hot) iron seems to be one with the iron,  
+though it is really different from it,  
+so the Supreme Being pervades the world  
+and is inseparable from it".
 
 Therefore the perfect resemblance of the jīva (parama samyam) (to Brahman) is only that arising from jñāna and bhoga (enjoyment) and the like. Iśvara has, for His definition, the following attributes which are like the umbrella and the chamara (insignia of royalty):-- being the cause of the world, the conferring of mokṣa  on jīvas, being the support of the world, being the controller of the world, the one for whom all things and all sentient beings exist, the one who has everything for His body, the one who is denoted by all words, the one who can be understood from all the Vedas, the one who is the refuge of all the world, the one who should be adored by all those who want mokṣa , the one who grants the fruits (of all actions), the one whose essential nature is omnipresence, Jñāna and ānanda (bliss), the one who is the spouse of Lakṣ mi. These are peculiar to Him and are His distinctive features. The mukta's distinctive attributes are the following : being sustained (by Iśvara); being controlled by Him, existing only for the Lord (śeṣatva), being atomic (aṇu) and such others.
 
