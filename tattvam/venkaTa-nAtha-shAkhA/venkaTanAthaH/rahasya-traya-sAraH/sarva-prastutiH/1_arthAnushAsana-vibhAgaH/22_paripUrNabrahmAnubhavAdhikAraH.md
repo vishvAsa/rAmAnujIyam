@@ -2937,6 +2937,23 @@ y lo **concluye diciendo**:
 </details>
 
 
+<details><summary>सार-बोधिनी</summary>
+
+जगद्व्यापारत्ताल् वरुम् रसम् - जगत्सृष्टिस्थितिसंहाररूपव्यापारत्ताले उण्डागुम् प्रीतिविशेषम्, जगद्व्यापारमिल्लाविट्टालुम् मुक्तऩुक्कु भोगमात्रत्तिल् साम्यमुण्डॆऩ्बदु सूत्रकारसम्मतमॆऩ्गिऱार् सूत्रकाररुमित्यादिना ।  
+जगद्व्यापारवर्जम् - जगद्व्यापारं वर्जयित्वा, भोगमात्रसाम्यलिङ्गाच्चेति ।  
+जगद्व्यापारानुभवजन्य प्रीतिरूपभोगमात्रत्तिल् मुक्तऩुक्कु भोगसाम्यमुण्डु। 
+
+> ‘‘सोऽश्नुते सर्वान् कामान्  
+> सह ब्रह्मणा विपश्चिता’’ 
+
+ऎऩ्ऱु 
+
+> ‘‘सर्वकामानुभव-रूप-लिङ्ग-सद्-भावात्’’ 
+
+ऎऩ्ऱु सूत्रङ्गळिऩर्थम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘सामरस्यं हि सायुज्यं  
@@ -2977,6 +2994,11 @@ Sakatayana también **ha declarado** lo siguiente:-
 ‘‘सामरस्यं हि सायुज्यं वदन्ति ब्रह्मवादिनः’’(शाकटायनः)ऎऩ्ऱु शाकटायनऩुम् सॊऩ्ऩाऩ्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+भोगसाम्यमे सायुज्यमॆऩ्बदिल् शब्दार्थवित्तमराऩ शाकटायनरुडैय निरुक्तियैक्काट्टु किऱार् सामरस्यं हीत्यादिना । समः रसः भोगः यस्य सः समरसः तस्य भावः सामरस्यम् । हि प्रसिद्धौ, ब्रह्मवादिनः – वेदान्तिकळ्, वदन्ति – भोगवाचकयुक् शब्दस्थानत्तिल् रसशब्दत्तै प्रयोगित्तु सामरस्यत्तैये अदावदु समानभोगत्वत्तैये सायुज्यमाग वेदान्तवित्तुक्कळ् सॊल्लुगिऱार्गळॆऩ्ऱबडि। 
+</details>
+
 
 ### ऐक्यं न
 <details><summary>English</summary>
@@ -3003,6 +3025,20 @@ Refutación de la doctrina de la identidad advaitic:
 
 ऎऩ्ऱुञ् जॊल्लुगिऱ श्रुतिगळुम् विरोधिक्कुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शब्द-शक्ताव् अ-सत्याम्,  
+भेद-श्रुतिषु च विरुन्धानासु,  
+सायुज्य-शब्दस्यैक्यार्थकत्वं मन्यमानानाम्,  
+
+> "मुक्तः परमं साम्यमुपैति" 
+
+इति, 
+
+"तादृक्" इति च प्रतिपादयन्त्यः श्रुतयोऽपि विरुन्धीरन् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3050,11 +3086,48 @@ y que el Mukta **será** como Brahman.
 शब्दशक्तियिऩ्ऱिक्केयिरुक्क भेदश्रुतिकळुम् विरोधिक्क सायुज्यशब्दत्तुक्कु ऐक्यम् पॊरुळाग निऩैत्तिरुप्पार्क्कु मुक्तऩ् परमसाम्यत्तै अडैयुमॆऩ्ऱुम् तादृक्कामॆऩ्ऱुञ्जॊल्लुगिऱ श्रुतिकळुम् विरोधिक्कुम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+सायुज्यशब्दत्तिऱ्कु ब्रह्मजीवयोः स्वरूपैक्यम् अर्थ मॆऩ्ऱु सॊल्लुगिऱवर्गळुडैय पक्षत्तै निरसिक्किऱार् शब्दशक्तियऩ्ऱिक्केयिरुक्क इत्यादिना । शब्दशक्तियऩ्ऱिक्के यिरुक्क - सायुज्यशब्दम् स्वरूपैक्यत्तिले शक्तमिल्लामलिरुक्क, इदऩाल् सायुज्यशब्दम् तऩक्कु शक्यमिल्लाद जीवब्रह्मस्वरूपैक्यत्तैच् चॊल्लुमागिल् घटशब्दमुम् तऩक्कु शक्यमिल्लाद पटत्तैच् चॊल्ल प्रसङ्गिक्कुमॆऩ्गिऱ अनिष्टप्रसङ्गमभिप्रेतम्।  
+भेदश्रुतिकळुम् विरोधिक्क इति ।  
+भेदश्रुतिकळावऩ - 
+
+> ‘‘पृथग्-आत्मानं प्रेरितारञ्च मत्वा’’  
+> ‘‘तयोर् अन्यः पिप्पलं स्वाद्वत्ति’’  
+> ‘‘नित्यो नित्यानां … एको बहूनां यो विदधाति कामान्’’ 
+
+इत्यादि ।  
+इदऩाल् सायुज्य-शब्दत्तिऱ्कु जीवब्रह्मस्वरूपैक्यम् अर्थमॆऩ्ऱु ऎण्णिऩाल् भेदश्रुतिकळ् बाधितङ्गळाग वेण्डिवरुमॆऩ्गिऱ श्रुत्यर्थापत्ति अभिप्रेतम्।  
+
+निऩैत्तिरुप्पार्क्कु इति । 
+इदऩाल् अवर्गळुडैय निऩैविऱ्कुक् कारणम् दुर्ज्ञेयम् ऎऩ्ऱद् आयिऱ्ऱु।  
+
+अन्द निऩैवु श्रुतिविरुद्धमॆऩ्गिऱार् मुक्तऩित्यादिना ।  
+श्रुतिकळुम् - 
+
+> ‘‘निरञ्जनः परमं साम्यमुपैति’’  
+
+> ‘‘यथोदकं शुद्धे शुद्धम् आसिक्तं  
+> तादृगेव भवति’’  
+
+> ‘‘एवं मुनेर् विजानत आत्मा भवति गौतम’’ 
+
+इत्यादिश्रुतिकळुम्, विरोधिक्कुम् - साम्यमुम् तादृक्त्वमुम् भेदघटितमागैयाले स्वरूपैक्यत्तोडु विरोधिक्कुमॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘‘मम साधर्म्यम् आगताः’’(गीता १४-२।)  
+> ‘‘मम साधर्म्यम् आगताः’’(गीता १४-२।)  
 
 ऎऩ्ऱु गीताचार्यऩुम् अरुळिच् चॆय्दाऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘मम साधर्म्यम् आगताः’’(गीता १४-२।)  
+
+इति गीताचार्यो ऽप्य् अनुजग्राह । 
 </details>
 
 
@@ -3076,11 +3149,41 @@ El autor de la Gita **ha transmitido** la misma idea en:-
 ‘‘मम साधर्म्यमागताः’’(गीता १४-२।) ऎऩ्ऱु गीताचार्यऩुमरुळिच्चॆय्दाऩ्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्वर्थत्तै 
+
+> परेण पर-धर्मी च  
+> भवत्य् एष **समेत्य** वै ।  
+> विशुद्ध-धर्मा शुद्धेन  
+> बुद्धेन च स बुद्धिमान् ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै ‘‘परेण परधर्मी च भवत्येष समेत्यवै । विशुद्धधर्मा शुद्धेन बुद्धेन च स बुद्धिमान् ॥
+</details>
 
 
 
+The Maharshi (Vyāsa) has also expressed this idea at great length in the discourse between Vasiṣṭa and Karala and concludes by saying that this is the supreme truth - 
 
-The Maharshi (Vyāsa) has also expressed this idea at great length in the discourse between Vasiṣṭa and Karala and concludes by saying that this is the supreme truth - "The jīva released from bondage (i.e.) the mukta, attains the Supreme Being and acquires attributes similar to those of the Supreme Being. He too becomes free from all imperfections when he reaches Him. Having attained the Omniscient Brahman, he, too, becomes omniscient. Having reached Him who is free from the bondage of karma, he, too, becomes free from karma. Having attained Bhagavān who is free from suffering and sorrow, he, too, becomes free from them. Having reached Him who is blissful, he, too, becomes blissful. O best of Bharatas, having attained Bhagavān who acts by His will alone (without being influenced by karma), he, too, acts merely by his will. He becomes resplendent and having attained Bhagavān who is without the qualities (of prakṛti) he, too, is without those qualities. Having reached Brahman who is without the body and the senses constituted of matter (Prakṛti), he, too, becomes free from them. Having attained the Supreme Being who is independent of karma, he too, becomes independent. I have thus described the truth to you, O great king, just as it is in reality. Having accepted this teaching with a mind free from discontent (asuya), meditate on Brahman who is eternal and free from all imperfections and who is the (ultimate) cause of the world".
+> "The jīva released from bondage (i.e.) the mukta,  
+> attains the Supreme Being  
+> and acquires attributes similar to those of the Supreme Being.  
+> He too becomes free from all imperfections when he reaches Him.  
+> Having attained the Omniscient Brahman, he, too, becomes omniscient.  
+> Having reached Him who is free from the bondage of karma,  
+> he, too, becomes free from karma.  
+> Having attained Bhagavān who is free from suffering and sorrow,  
+> he, too, becomes free from them.  
+> Having reached Him who is blissful,  
+> he, too, becomes blissful.  
+> O best of Bharatas, having attained Bhagavān who acts by His will alone  
+> (without being influenced by karma),  
+> he, too, acts merely by his will.  
+> He becomes resplendent  
+> and having attained Bhagavān who is without the qualities (of prakṛti) he, too, is without those qualities. Having reached Brahman who is without the body and the senses constituted of matter (Prakṛti), he, too, becomes free from them. Having attained the Supreme Being who is independent of karma, he too, becomes independent. I have thus described the truth to you, O great king, just as it is in reality. Having accepted this teaching with a mind free from discontent (asuya), meditate on Brahman who is eternal and free from all imperfections and who is the (ultimate) cause of the world".
 
 In the passage cited above, the mukta is called 'independent' (svatantra ), because he is free from the influence of past karma. The Bhāṣyakāra (Śrī Rāmānuja) has explained the meaning of the word Svarat (literally the independent king) as being not subject to karma'.
 
