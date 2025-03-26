@@ -3675,6 +3675,12 @@ Si **no se interpretó** de esta manera,
 तदा स केवलीभूतष्षड्विंशमनुपश्यति ॥  
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+विपक्षत्तिल् बाधकम् अरुळिच्चॆय्गिऱार् इङ्ङऩल्लादबोदु इत्यादिना । यदात्वित्यादि । यदा – ऎप्पॊऴुदु, द्विजः – द्विजऩाऩवऩ्, अहं - नाऩ्, अन्यः – परमात्मस्वरूपत्तैक्काट्टिलुम् विलक्षणस्वरूपत्तैयुडैयवऩ्। एषः - इन्द परमात्मावुम्, अन्यः – मत्स्वरूपाद्विलक्षणस्वरूपऩ्। इति मन्यते - ऎऩ्ऱु तॆरिन्दुक् कॊळ्ळुगिऱाऩो, तदा - अप्पॊऴुदु, सः – तादृशज्ञानमुळ्ळ जीवात्मा, केवली- भूतः – प्राकृतदेहादिरहितऩाय्क्कॊण्डु, षड्विंशमनुपश्यति – श्रुतियिल् षड्विंशतत्त्वमागच् चॊल्लप्पट्ट परमात्मावै परमपदत्तिल् साक्षात्करिक्किऱाऩॆऩ्ऱबडि । 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3713,6 +3719,12 @@ Si **no se interpretó** de esta manera,
 अन्यश्चराजन्! स परस्तथान्यः पञ्चविंशकः ।  
 तत्स्थत्वादनुपश्यन्ति ह्येक एवेति साधवः ॥  
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अन्यश्चेति । सः - अन्द परमात्मावाऩवऩ्। अन्यश्च – जीवात्मस्वरूपत्तैक्काट्टिलुम् विलक्षणऩ्। पञ्चविंशकः – जीवात्मा च, तथा - अव्विदमे, अन्यः – परमात्मस्वरूपत्तैक्काट्टिलुम् विलक्षणऩ्। तर्हि, जीवात्मावुम् परमात्मावुम् एकऩॆऩ्ऱु साधुक्कळ् ऎण्णुवाऩेऩॆऩ्ऩ वरुळिच्चॆय्गिऱार् तत्स्थत्वादिति । अन्तर्यामितया जीवान्तस्थितत्वात् जीवात्मावुम् परमात्मावुम् एकऩॆऩ्ऱु साधुक्कळ् पार्क्किऱार्गळेयॊऴिय, स्वरूपैक्यत्तिऩालऩ्ऱॆऩ्ऱु करुत्तु। 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3756,6 +3768,12 @@ Si **no se interpretó** de esta manera,
 अन्यश्च राजन्! स परस्तथान्यः पञ्चविंशकः ।  
 तेनैतन्नाभिजानन्ति पञ्चविंशकमच्युतम् ॥ 
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अन्यश्चेति । तेन – परस्परभिन्नत्वरूपहेतुविऩाले, एतत् - इन्द, अच्युतं – परमात्मावै, पञ्चविंशकं – पृथिव्यादिचतुर्विंशतितत्त्वात्परऩाय्, पञ्चविंशति तत्त्वमाऩ जीवऩाग, नाभिजानन्ति – नाङ्गीकुर्वन्तीत्यर्थः । 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3803,6 +3821,13 @@ Si **no se interpretó** de esta manera,
 षड्विंशमनुपश्यन्ति शुचयस्तत्परायणाः॥
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+फ़्फ़्जन्मेति । हे काश्यप! – ओ काश्यपऩे! जन्ममृत्युभयाद्भीताः – जन्ममृत्युभयङ्गळै विचिन्त्य भीतर्गळाऩ, साङ्ख्ययोगाश्च – सङ्ख्या – बुद्धिः, तत्सम्बन्धियोगः, साङ्ख्ययोगः, ज्ञानयोगनिष्ठर्गळुमॆऩ्ऱबडि। शुचयः – कर्मयोगत्ताले परिशुद्धमनस्कर्गळाऩ, तत्परायणाः – परब्रह्मत्तैये परमप्राप्यमाग ऎण्णुगिऱ भक्तियोगनिष्ठर्गळुम्, षड्विंशं – षड्विंशतत्त्वमाऩ परमात्मावै, अनुपश्यन्ति – प्रत्यक्ष्समानाकारमाऩ भक्तियोगत्तिले विषयीकुर्वन्ति । 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘उत्तमः पुरुषस्त्वन्यः’’  
@@ -3831,6 +3856,11 @@ Se le **llama** el ser supremo.
 <details><summary>मूलम्</summary>
 
 ‘‘उत्तमः पुरुषस्त्वन्यः’’(गीता १५-१७।),  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+उत्तम इत्यादि । उत्तमः पुरुषः – उत्तमऩाऩ पुरुषऩ्, अन्यः – ‘‘द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च’’ ऎऩ्ऱु कीऴ्च्चॊऩ्ऩ बद्धमुक्तरूपर्गळाऩ क्षराक्षरपुरुषर्गळैक् काट्टिलुम् अत्यन्तविलक्षणऩॆऩ्गै। 
 </details>
 
 
@@ -3876,6 +3906,12 @@ y **se llama** Puruṣa por los Vedas.
 स तु नारायणो ज्ञेयस्सर्वात्मा पुरुषोहि सः ॥  
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+तत्रेति । तत्र - जीवात्माविल्, अन्तर्यामितया अवस्थितः, यः परमात्मा, स तु, नित्यः – कालपरिच्छेदरहितऩागवुम्, निर्गुणः – सत्वादिगुणरहितऩागवुम्, स्मृतः – स्मरिक्कप्पट्टाऩ्, स तु - अवऩे, नारायणो ज्ञेयः – नारायणऩॆऩ्ऱु अऱियत्तक्कवऩ्। सर्वात्मा – सर्वान्तर्यामि, सः –अवऩे। पुरुषो हि – पुरुषसूक्तत्तिल् सॊल्लप्पट्ट पुरुषोत्तमऩाग प्रसिद्धऩ्। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3911,6 +3947,12 @@ y **alcanza** Mokṣa **meditando** en Brahman.
 कर्मात्मात्ववरो योऽसौ मोक्षबन्धैस्सयुज्यते॥”  
 (भारतम् शान्ति-पर्व ३६१-१४-१५।)  
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+कर्मफलैर्न लिप्यते - जीवऩ्गळैप्पोल् कर्मङ्गळै अनुष्ठित्तालुम् तत्फलसंसर्गत्तैयडैवदिल्लै यॆऩ्गै। अदॆप्पडि ऎऩ्ऩिल्; पद्मपत्रमिवाम्भसा – पद्मपत्रमाऩदु स्वोपरिस्थितमाऩ जलत्तोडु लेपियातिरुप्पदु पोल्, कर्मात्मा तु – पुण्यपापरूपकर्मव्याप्तऩाय्, अत एव अवरः - कीऴ्प्पट्टवऩाऩ, योऽसौ - यादॊरु जीवऩुण्डो, सः - अवऩ्, मोक्षबन्धैर्यज्यते – मोक्षत्तोडुम् संसारबन्धत्तोडुम् योजिक्कप्पडुगिऱाऩ्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3954,12 +3996,21 @@ y **es inseparable** de eso ".
 (जयाक्यसंहिता। (?))  
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि जीवात्माविऱ्कुम् परमात्माविऱ्कुम् स्वरूपभेदत्तै उपपादित्तु शास्त्रङ्गळिल् ऐक्यव्यपदेशत्तिऱ्कु निर्वाहम् काट्टुगिऱार् अय इत्यादिना । अयःपिण्डे वह्निः – अयःपिण्डत्तिलिरुक्किऱ वह्नियाऩदु, भिन्नोऽपि – स्वरूपत्ताले अयःपिण्डत्तैक् काट्टिलुम् वेऱुबट्टदाऩालुम्, यथा अभिन्नवत्तिष्ठति – न तु वस्तुतः अभिन्न इति भावः, तथा - अप्पडिये, देवः – नारायणऩाऩवऩ्, विश्वत्तैक्काट्टिलुम् स्वरूपतो भिन्नऩाऩालुम्, इदं विश्वं – इन्द सर्वत्तिलुम्, आवृत्य – अत्यन्तसंश्लेषं प्राप्य, अभिन्नवत् परितिष्ठति - ऒरु वस्तुबोलिरुक्किऱाऩॆऩ्गै। तत एव अयो दहति, तत्वमसीत्यादि व्यवहार इति भावः । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्य्-आदि प्रमाण-सहस्रम् विरोधिक्कुम्।  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
 
+इत्य्-आदि-प्रमाण-सहस्रं विरुध्येत । 
+</details>
 
 <details><summary>English</summary>
 
@@ -3977,16 +4028,163 @@ it would be in conflict with thousands of authoritative passages like the above 
 इत्यादि प्रमाणसहस्रम् विरोधिक्कुम्।  
 </details>
 
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् मुक्तऩुक्कु  
+ज्ञान-भोगादिगळाल् वन्द परम-साम्यमेय् उळ्ळदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो मुक्तस्य ज्ञान-भोगादि-निबन्धनं परम-साम्यम् एव भवति । 
+</details>
+
+<details><summary>English</summary>
+
+Therefore the perfect resemblance of the jīva (parama samyam) (to Brahman) is only that arising from jñāna and bhoga (enjoyment) and the like. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, la semejanza perfecta del Jīva (Parama Samyam) (a Brahman) **es** solo el que **surge** de jñāna y bhoga (disfrute) y similares.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् मुक्तऩुक्कु ज्ञानभोगादिगळाल् वन्द परमसाम्यमेयुळ्ळदु। 
+</details>
+
+## ईश्वर-मुक्त-भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वरऩुक्कु छत्र-चामरादिगळैप् पोले  
+लक्षणम् आगच् चॊऩ्ऩ  
+जगत्-कारणत्व--मोक्ष-प्रदत्व--  
+सर्वाधारत्व--सर्व-नियन्तृत्व--  
+सर्व-शेषित्व--सर्व-शरीरत्व--  
+सर्व-शब्द-वाच्यत्व--सर्व-वेद-वेद्यत्व--  
+सर्व-लोक-शरण्यत्व--सर्व-मुमुक्षूपास्यत्व--  
+सर्व-फल-प्रदत्व--सर्व-व्याप्त-ज्ञानानन्द-स्वरूपत्व--  
+लक्ष्मी-सहायत्वादिगळ् प्रतिनियतङ्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वरस्य छत्र-चामरादिवल् लक्षणत्वेनोक्तानि  
+जगत्-कारणत्व--मोक्ष-प्रदत्व--  
+सर्वाधारत्व--सर्व-नियन्तृत्व--  
+सर्व-शेषित्व--सर्व-शरीरत्व--  
+सर्व-शब्द-वाच्यत्व--सर्व-वेद-वेद्यत्व--  
+सर्व-लोक-शरण्यत्व--सर्व-मुमुक्षूपास्यत्व--  
+सर्व-फल-प्रदत्व--सर्व-व्याप्त-ज्ञानानन्द-स्वरूपत्व--  
+लक्ष्मी-सहायत्वादीनि प्रतिनियतानि । 
+</details>
+
+<details><summary>English</summary>
+
+Iśvara has, for His definition, the following attributes which are like the umbrella and the chamara (insignia of royalty):--  
+
+- being the cause of the world,  
+- the conferring of mokṣa  on jīvas, 
+- being the support of the world, 
+- being the controller of the world, 
+- the one for whom all things and all sentient beings exist, the one who has everything for His body, 
+- the one who is denoted by all words, 
+- the one who can be understood from all the Vedas, 
+- the one who is the refuge of all the world, 
+- the one who should be adored by all those who want mokṣa , 
+- the one who grants the fruits (of all actions), 
+- the one whose essential nature is omnipresence, Jñāna and ānanda (bliss),  
+- the one who is the spouse of Lakṣmi. 
+
+These are peculiar to Him and are His distinctive features.  
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara **tiene**, para su definición, los siguientes atributos que son como el paraguas y el Chamara (insignia de la realeza):--
+
+- **Ser** la causa del mundo,
+- La **conferencia** de Mokṣa en Jīvas,
+- **Ser** el apoyo del mundo,
+- **Ser** el **controlador** del mundo,
+- Aquel para quien **existen** todas las cosas y todos los seres sensibles, el que **tiene** todo por su cuerpo,
+- El que **se denota** por todas las palabras,
+- El que puede **ser entendido** por todos los Vedas,
+- El que es **el refugio** de todo el mundo,
+- El que **debe ser adorado** por todos los que quieran mokṣa,
+- El que **otorga** las frutas (de todas las acciones),
+- Aquel cuya naturaleza esencial **es** la omnipresencia, jñāna y ānanda (dicha),
+- El que **es** el cónyuge de Lakṣmi.
+
+Estos **son** peculiares para él y son sus características distintivas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩुक्कु छत्रचामरादिगळैप्पोले लक्षणमागच् चॊऩ्ऩजगत्कारणत्व मोक्षप्रदत्व सर्वाधारत्व सर्वनियन्तृत्व सर्वशेषित्व सर्वशरीरत्व सर्वशब्दवाच्यत्व सर्ववेदवेद्यत्व सर्वलोकशरण्यत्व सर्वमुमुक्षूपास्यत्व सर्वफलप्रदत्व सर्वव्याप्तज्ञानानन्दस्वरूपत्व लक्ष्मीसहायत्वादिगळ् प्रतिनियतङ्गळ्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इत्यादि प्रमाणसहस्रं विरोधिक्कुमिति । इदऩाल् मुक्तियिल् स्वरूपैक्यत्तिऱ्कु बहुप्रमाणविरोधम् सम्भविक्किऱबडियालुम्, ऐक्यबोधककतिपयवचनङ्गळुक्कु निर्वाहमाऩदु, तत्त्स्थत्वादनुपश्यन्ति, अयःपिण्डे यथा वह्निः, इत्यादि प्रमाणङ्गळै अनुसरित्तुप् प्रदर्शितमागैयालुम्, मुक्तियिल् परमसाम्यमे प्रामाणिकमॆऩ्ऱु निर्णयिक्कप्पट्टदु। इव्वळवाले फलितार्थत्तैक् काट्टुगिऱार् आगैयालित्यादिना । आगैयाल् - मुक्तिदशैयिलुम् भेदमे उण्डॆऩ्ऱु निर्वहिक्कैयाल्, ज्ञानभोगादिगळाल् - सर्वसाक्षात्कारत्तालुम्, प्रमेयत्वव्यापकानुकूलत्वप्रकारकानुभवरूपभोगादिगळालुम् ऎऩ्ऱबडि। इप्पडियाऩाल् मुक्तऩुक्किल्लाद परमात्मासाधारणङ्गळाऩ धर्मङ्गळ् ऎवैयॆऩ्ऩ, अवैगळै यरुळिच्चॆय्गिऱार् ईश्वरऩुक्कित्यादिना । लक्षणमागच्चॊऩ्ऩ - असाधारणमागच् चॊऩ्ऩ। मोक्षप्रदत्वेति । मोक्षस्य परमपुरुषार्थत्वात् तत्प्रदत्वम् पृथक् लक्षणमागच् चॊल्लप्पट्टदु। सर्वफलप्रदत्वमॆऩ्गिऱविडत्तिल् सर्वफलशब्दत्तै मोक्षेतरसर्वफलविषयमाग सङ्कोचित्ताल् पौनरुक्त्यादिदोषप्रसङ्गमिल्लै। सर्वाधारत्व सर्वनियन्तृत्व सर्वशेषित्वङ्गळ् सर्वशरीरित्वोपपादकङ्गळ्। लक्ष्मीसहायत्वादीत्यत्र आदिपदात् भूमिनीळानायकत्वगरुडध्वजत्वानन्तभोगशायित्वादीनां सङ्ग्रहः । 
+</details>
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्तऩुक्कु आधेयत्व-विधेयत्व-शेषत्वाणुत्वादिगळ् व्यवस्थितङ्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुक्तस्याधेयत्व-विधेयत्व-शेषत्वाणुत्वादीनि व्यवस्थितानि ॥  
+</details>
 
 
+<details><summary>English</summary>
+
+The mukta's distinctive attributes are the following :  
+being sustained (by Iśvara);  
+being controlled by Him, existing only for the Lord (śeṣatva),  
+being atomic (aṇu) and such others.
+</details>
+
+<details><summary>Español</summary>
+
+Los atributos distintivos del Mukta **son** los siguientes:
+siendo sostenido (por Iśvara);  
+**Ser controlado** por él, **existente** solo para el Señor (Śeṣatva),  
+Ser atómico (aṇu) y tales otros.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+मुक्तऩुक्कु आधेयत्व विधेयत्व शेषत्वाणुत्वादिगळ् व्यवस्थितङ्गळ्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इऩिबरमात्माविऱ्कु इल्लामल् मुक्तऩुक्कु व्यवस्थितमाऩ गुणङ्गळैक् काट्टुगिऱार् मुक्तऩुक्कु इत्यादिना । अणुत्वादिगळित्यत्र आदिशब्दम् शरीरत्व पारतन्त्र्य रक्ष्यत्वादिसङ्ग्राहकम्। व्यवस्थितङ्गळ् - परमात्मावृत्तिकळ्। 
+</details>
 
 
-Therefore the perfect resemblance of the jīva (parama samyam) (to Brahman) is only that arising from jñāna and bhoga (enjoyment) and the like. Iśvara has, for His definition, the following attributes which are like the umbrella and the chamara (insignia of royalty):-- being the cause of the world, the conferring of mokṣa  on jīvas, being the support of the world, being the controller of the world, the one for whom all things and all sentient beings exist, the one who has everything for His body, the one who is denoted by all words, the one who can be understood from all the Vedas, the one who is the refuge of all the world, the one who should be adored by all those who want mokṣa , the one who grants the fruits (of all actions), the one whose essential nature is omnipresence, Jñāna and ānanda (bliss), the one who is the spouse of Lakṣ mi. These are peculiar to Him and are His distinctive features. The mukta's distinctive attributes are the following : being sustained (by Iśvara); being controlled by Him, existing only for the Lord (śeṣatva), being atomic (aṇu) and such others.
+## अ-पुनरावृत्तिः
+
+<details><summary>English</summary>
 
 THE MUKTA WILL NEVER BE IN SAMSĀRA AGAIN :
+</details>
+
+<details><summary>Español</summary>
+
+El Mukta nunca volverá a **estar** en Samsāra:
+</details>
+
 
 If it be so, it may be asked whether the mukta  who is not independent (of God) may not, for some reason or other, incur the possibility of a return to saṁsāra. The jīva's dependence on Iswars has been stated in the śloka  :-“For enabling a man to get the good things of life, and for taking away from him the ills of life, there is no one other than Puruṣottama who is competent ''. The answer to that question is, "There will be no such possibility, for has He not Himself declared :- "Those who perform bhakti yoga with great devotion and those who have performed prapatti which is considered as a superior form of penance (tapas) will obtain sāyujya and will for ever render service to me. They will always be free from the ills of saṁsāra". Ever in the state of desire for mukti, the mukta had an aversion to the enjoyment of non-sentient things (matter) and also to the mere enjoyment of his own self (kaivalya). This aversion is now well established in him; for as he sees all things having Brahman as their inner self, there is no possibility of his enjoying his own self as separate (from everything else), and as he sees by constant perception (pratyakṣa ) the imperfections of all other objects (than God), there is no possibility of his returning to saṁsāra of his own free will. As his knowledge of the three tattvas, cit. acit and Iśvara and of what is good and what is evil, which he acquired before, has now attained expansion without any break or contraction, there is no possibility of his ever going back to saṁsāra owing to ajñāna or ignorance. The knowledge which formerly in saṁsāra deepened into the form of love called bhakti and which he acquired by his distinctive knowledge of the specific nature of Bhagavān has, now, in the state of mukti, become ripened into the form of supreme love, because he has now a vision of all aspects of Bhagavān's distinctive nature of which even the śāstra s are incapable. Therefore Iśvara's great love for him as stated in the śloka : "The jnanī is dear to me (How dear he is to me cannot be described even by me, Omniscient though I am)" - Iśvara's love for himna is so overwhelming that its flow is irresistible and that its current reaches even those uplands which are connected with him only in distant relationship. Therefore it cannot be stated that, though he is free from karma, there is the possibility of his returning to saṁsāra by the will of Iśvara who is independent (and all-powerful). Since the mukta is no longer subject to the injunctions of śāstra , there is no possibility of his violating the Lord's command in the state of mukti. He cannot do anything opposed to the will of Iśvara as the Lord's pleasure is now his pleasure. Therefore the ultimate goal or attainment called mokṣa , which is of the nature of perfect and full enjoyment of Brahman and which extends into service, has now become eternal for him (i.e.) it will last as long as his soul lasts. Considering all this, the Sitra-kāra said: "There is no return (to saṁsāra) - no return, for the Scripture says so."
 
