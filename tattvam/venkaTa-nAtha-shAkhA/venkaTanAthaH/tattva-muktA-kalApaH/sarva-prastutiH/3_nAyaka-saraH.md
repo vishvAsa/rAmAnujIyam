@@ -46,8 +46,10 @@ unicode_script = "devanagari"
 ## नारायणपारम्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निस्साधारण्यनारायणपदविषये निश्चयं यान्त्यबाधे सद्ब्रह्माद्यास्समानप्रकरणपठिताश्शङ्कितान्यार्थशब्दाः ।  
-अन्तर्यन्ता च नारायण इकि कथितः कारणं चान्तरात्मेत्यस्मादप्यैककण्ठ्यं भवति निरुपधिस्तत्र शम्भ्वादिशब्दः ॥ ५ ॥
+निस्साधारण्य-नारायण-पद-विषये निश्चयं यान्त्य् अबाधे  
+सद्-ब्रह्माद्यास्-समान-प्रकरण-पठिताश् शङ्कितान्यार्थ-शब्दाः ।  
+अन्तर्-यन्ता च नारायण इति कथितः कारणं चान्तरात्मेत्य्  
+अस्माद् अप्य् **ऐक-कण्ठ्यं भवति** निरुपधिस् तत्र शम्भ्व्-आदि-शब्दः ॥ ५ ॥
 </details>
 
 <div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/3_nAyaka-saraH/005_nissAdhAraNyanArAyaNapadaviShaye_nishchayam.md"  newLevelForH1="3" includeTitle="false"  > </div>
