@@ -3,6 +3,7 @@ title = "२३ सिद्धोपायशोधनाधिकारः"
 
 +++
 
+## प्रवेशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ॥ श्रीः ॥  
@@ -36,18 +37,60 @@ de lo que **se entiende** por el upāya que ya **existe**.(Siddhopāya) Página 
 ॥ श्रीमते श्रीलक्ष्मीनृसिंह परब्रह्मणे नमः ॥  
 श्रीसारबोधिन्यां सिद्धोपायशोधनाधिकारः ॥  
 </details>
- 
-
-
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-युगपद्-अ-खिलं प्रत्यक्षेण स्वतस् सततं विदन्न्  
-अनवधि-दया-दिव्योदन्वान् अ-शक्य-विवर्जितः ।  
-जल-धि-सुतया सार्धं देवो जगत्परिपालयन्  
-परमपुरुषस्सिद्धोपायः प्रतीष्टभरस्सताम् ॥ ५१ ॥
+युगपद् अ-खिलं प्रत्यक्षेण स्वतस् सततं **विदन्न्**  
+अन्-अवधि-दया-दिव्योदन्वान् अ-शक्य-**विवर्जितः** ।  
+जल-धि-सुतया सार्धं देवो जगत् **परिपालयन्**  
+परम-पुरुषस् सिद्धोपायः **प्रतीष्ट-भरस्** सताम् ॥ ५१ ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+युगपद् अ-खिलं प्रत्यक्षेण स्वतस् सततं **विदन्न्**  
+अन्-अवधि-दया-दिव्योदन्वान् अ-शक्य-**विवर्जितः** ।  
+जल-धि-सुतया सार्धं देवो जगत् **परिपालयन्**  
+परम-पुरुषस् सिद्धोपायः **प्रतीष्ट-भरस्** सताम् ॥ ५१ ॥
+</details>
+
+<details><summary>विषयः</summary>
+
+ईश्वरः, नारायणः
+</details>
+
+<details><summary>English</summary>
+
+The Supreme Person who knows all things, at the same time, by direct perception (pratyakṣa)  
+and without any aid or instrument (in the form of sense organs),  
+who is the boundless and divine ocean of mercy,  
+protects the world, with the daughter of the ocean (Lakṣmī ), being omnipotent.  
+Having accepted the responsibility of saving those who follow the right path,  
+He is the upāya  that is already existent.
+
+(By Siddhopāya, the author means Bhagavān  
+who is the upāya already existent for those who perform prapatti.  
+By Sādhyopāya he means such upāyas or means as bhakti and prapatti  
+which secure the Lord's favour so that He may act as the Siddhopāya.)
+</details>
+
+<details><summary>Español</summary>
+
+La persona suprema que **conoce** todas las cosas, al mismo tiempo, por **percepción** directa (pratyakṣa)  
+y sin ninguna ayuda o instrumento (en forma de órganos sensoriales),  
+Quien **es** el océano de misericordia sin límites y divino  
+**Protege** el mundo, con la hija del océano (Lakṣmī), **siendo omnipotente**.  
+**Habiendo aceptado** la responsabilidad de **salvar** a los que **siguen** el camino correcto,  
+Él **es** el upāya que ya **existe**.
+
+(Por Siddhopāya, el autor **significa** Bhagavān  
+quien **es** el upāya ya existente para aquellos que realizan Prapatti.  
+Por sādhyopāya **se refiere** a upāyas o **significa** como bhakti y prapatti  
+qué **seguran** el favor del Señor  
+para que él **pueda actuar** como el Siddhopāya).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -57,19 +100,302 @@ de lo que **se entiende** por el upāya que ya **existe**.(Siddhopāya) Página 
 परमपुरुषस्सिद्धोपायः प्रतीष्टभरस्सताम् ॥ ५१ ॥
 </details>
 
-The Supreme Person who knows all things, at the same time, by direct perception (pratyakṣa) and without any aid or instrument (in the form of sense organs), who is the boundless and divine ocean of mercy, protects the world, with the daughter of the ocean (Lakṣmī ), being omnipotent. Having accepted the responsibility of saving those who follow the right path, He is the upāya [^62] that is already existent.
+<details><summary>सार-बोधिनी</summary>
 
-[^62]: By Siddhopāya, the author means Bhagavān who is the upāya already existent for those who perform prapatti. By Sādhyopāya he means such upāyas or means as bhakti and prapatti which socure the Lord's favour so that He may act as the Siddhopāya.
+इप्पडि इरुबत्तिरण्डधिकाररूपमाऩ अर्थानुशासनभागम् व्याख्यातमायिऱ्ऱु। इऩि अधिकारचतुष्टयात्मकमाऩ स्थिरीकरणभागत्तिऱ्कु व्याख्यानम् सॆय्यप्पडुगिऱदु। स्थिरीकरणभागत्तिल् सिद्धोपायशोधनाधिकारमॆऩ्ऱुम्, साद्ध्योपायशोधनाधिकारमॆऩ्ऱुम्, प्रभावव्यस्थाधिकारमॆऩ्ऱुम्, प्रभावरक्षाधिकारमॆऩ्ऱुम् नाऩ्गु अधिकारङ्गळ् उळ्ळऩ। इवऱ्ऱिल् मुदलिल् सिद्धोपायत्तै शोधिक्कक् करुदि, अदऩ् स्वरूपत्तै श्लोकत्ताले सङ्ग्रहित्तुक् काट्टुगिऱार् युगपदिति । अखिलं – उभयविभूतिकळिलुळ्ळ सर्ववस्तुक्कळैयुम्, युगपत् – एककालत्तिल्, इदऩाल् क्रमिकसाक्षात्कारम् व्यावृत्तिक्कप्पडुगिऱदु। प्रत्यक्षेण ऎऩ्बदऩाल् अनुमानादिजन्यज्ञानम् व्यावृत्तिक्कप्पडुगिऱदु। स्वतः – उपाधियिऩ्ऱिक्के, इदऩाल् योगजसाक्षात्कारम् व्यावृत्तिक्कप्पडुगिऱदु। सततं – सर्वकालम्, इदऩाल् कादाचित्कसार्वज्ञव्यावृत्तिः । विदन् –  
+    
+साक्षात्ताग अऱियुमवऩाय्, इव्वळवाल् स्तनन्धयप्रायर्गळाऩ नम्मुडैय क्लेशङ् गळै सर्वदा साक्षात्करित्तुक्कॊण्डिरुक्कुम् भगवाऩ् व्याजनिरपक्षमाग रक्षणोन्मुखऩाग  
+    
+वेण्डावो ऎऩ्गिऱ शङ्गैक्कु हेदु सॊल्लप्पट्टदु। इप्पडि नम्मुडैय क्लशङ्गळै साक्षात्ताग अऱिन्दाऩागिलुम् कारुणिकऩागिलऩ्ऱो रक्षणान्मुखऩावदु ऎऩ्ऩवरुळिच्चॆय्गिऱार् निरवधिदयेति । स्वतः ऎऩ्बदु इङ्गुम् अन्वयिक्किऱदु। निरवधि  
+    
+ऎऩ्बदाल् सावधिकमाऩ प्रसिद्धसमुद्रम् व्यावृत्तिक्कप्पडुगिऱदु। दयादिव्योदन्वान् – दयैक्कु दिव्यसमुद्रमाय्, दिव्यशब्दत्ताले स्वरूपतोऽपि समुद्रान्तरम् व्यावृत्तिक्कप्पडुगिऱदु। इदऩाल् व्याजनिरपक्षरक्षणोपयुक्तमाऩ परमकारुणिकत्वरूपशङ्काहेतु सॊल्लप्पट्टदु। इप्पडि सर्वज्ञऩाय्परमकारुणिकऩाऩालुम् नम्मै रक्षिप्पदु शक्यमागिलऩ्ऱो रक्षणोन्मुखऩावदु ऎऩ्ऩ वरुळिच्चॆय्गिऱार् अशक्यविवर्जित इति । अशक्येन विवर्जितः – अवऩुक्कु अशक्यमाऩदु ऒऩ्ऱुमिल्लैयॆऩ्ऱबडि। इप्पडि सर्वज्ञऩाय्, परमकारुणिकऩाय्, सर्वशक्तऩायिरुन्दुम् व्याजनिरपेक्षमाग रक्षकऩागामैक्कुक् कारणमॆऩ्ऩवॆऩ्ऩ वरुळिच्चॆय्गिऱार् देव  
+    
+इति । लीलाप्रवृत्तऩायॆऩ्ऱबडि। स्वत एव रक्षकऩागिल् लीलाप्रवृत्तिये कूडादागैयाल्  
+    
+व्याजसापेक्षऩाग रक्षिक्किऱाऩॆऩ्ऱु तात्पर्यम्। अप्पडि रक्षिप्पदुम् पिराट्टियोडु कूडि ऎऩ्गिऱार् जलधिसुतया सार्धमिति । इदऩाल् 
 
-RECAPITULATION OF THE CONTENTS OF
+> ‘‘लक्ष्म्या सह हृषीकेशो  
+> देव्या कारुण्यरूपया ।  
+> रक्षकः’’ 
 
-THE FIRST PART:
+ऎऩ्गिऱ वचनार्थम् सूचितमागिऱदु। जगत्परिपालयन् – जगत्तै सर्वप्रकारत्तालुम् रक्षिक्किऱवऩाऩ। इङ्गु ‘‘रक्षणहेत्वोः शतृँ’’ इति हेत्वर्थत्तिल् शतृप्रत्ययम्। परिपालनम् पण्णुगैक्कु ऎऩ्ऱबडि।+++(5)+++ परमपुरुषः – ‘‘पुरुषान् न परं किञ्चित्’’ ऎऩ्ऱु सॊल्लप्पट्ट पुरुषोत्तमऩ्। प्रतीष्टभरस्सन् – अकिञ्चनर्गळाल् समर्प्पिक्कप्पट्ट भरत्तै स्वीकरित्तवऩाय्क्कॊण्डे। इदऩाल् व्याजसापेक्षऩागवे सिद्धोपायऩागिऱाऩ् ऎऩ्ऩुमिडम् सूचितम्। सतां – ब्रह्मज्ञानिकळुक्कु, सिद्धोपायो भवतीति । इदऩाल् व्याजनिरपक्षऩाग सिद्धोपाय ऩागमाट्टाऩॆऩ्गिऱ इव्वधिकारार्थम् सूचितमागिऱदु।  
+</details>
 
-We have already described below how the jīva ( Kṣetrajña), who has been wandering in saṁsāra from beginningless time, becomes averse to it by the mercy of God which is awaiting an opportunity (to help him), how he understands from the right śāstras (the truth about ) the tattvas, the means or upāya and the ultimate goal or aim of life, and how he becomes eager to attain mokṣa . (We have already described,) how he adopts ( owing to this desire for mokṣa  ) an upāya or means (bhakti or prapatti) which is in accord with his fitness or competency, how he thereby does what should be done, how, having realised his state as a prapanna or bhakta, he renders faultless service in accordance with that state and in accordance with the śastras, for the remaining term of his life here. (We have already described,) how, after the fall of the body, he reaches a region free from the touch of matter (prakṛti) by journeying along the shining path beginning with archis and bow he attains there the supreme end, namely perfect service which is the overflow of the unlimited enjoyment of Bhagavān.
 
-THREE CAUSES BY WHICH THE LORD'S
+## अर्थानुशासन-भाग-सारः
+<details><summary>English</summary>
 
-GRACE IS WON:
+RECAPITULATION OF THE CONTENTS OF THE FIRST PART:
+</details>
+
+<details><summary>Español</summary>
+
+Recapitulación del contenido de la primera parte:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनादिकालम् संसरित्तुप् पोन्द क्षेत्रज्ञऩ्  
+अवसर-प्रतीक्षैय् आऩ भगवत्-कृपैयाले +++(संसारात्)+++ पुरिन्दु+++(=विनिवृत्य)+++ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्-आदि-कालात् संसरणं प्राप्तवता क्षेत्र-ज्ञेन  
+अवसर-प्रतीक्षया भगवत्-कृपया  
+(संसाराद्) विनिवृतेन सता  
+</details>
+
+<details><summary>English</summary>
+
+how the jīva ( Kṣetrajña),  
+who has been wandering in saṁsāra from beginningless time,  
+becomes averse to it by the mercy of God  
+which is awaiting an opportunity (to help him),  
+</details>
+
+<details><summary>Español</summary>
+
+Cómo el Jīva (Kṣetrajña),  
+que **ha estado deambulando** por Saṁsāra desde el momento sin inicio,  
+**se vuelve reacio** por la misericordia de Dios  
+que **espera** una oportunidad (para **ayudarlo**),
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनादिकालम् संसरित्तुप्पोन्द क्षेत्रज्ञऩ् अवसरप्रतीक्षैयाऩ भगवत्कृपैयाले पुरिन्दु 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इऩि अर्थानुशासनभागत्तिल् सॊऩ्ऩ सिलवर्थङ्गळै स्थिरीकरणम् पण्णक्करुदि अन्द भागत्तिल् सॊऩ्ऩवर्थङ्गळै सङ्ग्रहमागवनुवदिक्किऱार् अनादिकालमित्यादिना । पुरिन्दु - संसारान्निवृत्तऩाय्, इदु उपोद्घाताधिकारार्थम्। समीचीनशास्त्रमुखत्ताले इति । इदु सारनिष्कर्षाधिकारार्थम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+समीचीन-शास्त्र-मुखत्ताले तत्त्व-हित-पुरुषार्थङ्गळैत् तॆळिन्दु,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+समीचीन-शास्त्र-मुखेन तत्त्व-हित-पुरुषार्थान् विशदं विज्ञाय  
+</details>
+
+<details><summary>English</summary>
+
+how he understands from the right śāstras (the truth about ) the tattvas, the means or upāya and the ultimate goal or aim of life, 
+</details>
+
+<details><summary>Español</summary>
+
+cómo **entiende** de la derecha Śāstras (la verdad sobre)  
+los tattvas,  
+los medios o upāya  
+y el objetivo o objetivo final de la vida,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+समीचीनशास्त्रमुखत्ताले तत्त्वहितपुरुषार्थङ्गळैत् तॆळिन्दु,
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+तत्त्वहितपुरुषार्थङ्गळैत् तॆळिन्दु इति । इदऩाल् प्रधानप्रतितन्त्र, अर्थ पञ्चक, तत्त्वत्रय, परदेवतापारमार्थ्याधिकारङ्गळिऩर्थम् अनुवदिक्कप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**मुमुक्षुव् आय्**  
+स्वाधिकारानुरूपम् आय् इरुप्पद् ऒरुव् उपाय-विशेषत्तै **परिग्रहित्तु**, 
+</details>
+
+<details><summary>English</summary>
+
+and how he becomes eager to attain mokṣa .  
+(We have already described,) how he adopts ( owing to this desire for mokṣa  ) an upāya or means (bhakti or prapatti)  
+which is in accord with his fitness or competency, 
+</details>
+
+<details><summary>Español</summary>
+
+y cómo se **pone ansioso** por **alcanzar** Mokṣa.  
+(Ya **hemos descrito**) cómo **adopta** (debido a este deseo de mokṣa) un upāya o medios (bhakti o prapatti)  
+que **está de acuerdo** con su aptitud o competencia,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुवाय् स्वाधिकारानुरूपमायिरुप्पदॊरुवुपायविशेषत्तै परिग्रहित्तु, 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+मुमुक्षुवाय् ऎऩ्बदाल् मुमुक्षुत्वाधिकारार्थम् अनूदितम्। स्वाधिकारानुरूपमायिरुप्पदॊरु ऎऩ्बदाल् अधिकारविभागाधिकारार्थमुम्, उपायविशेषत्तै परिग्रहित्तु ऎऩ्बदाल् उपायविभागाधिकारम् मुदलाऩ अधिकारचतुष्टयार्थमुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कृत-कृत्यऩ् आय्,  
+तऩ् निष्ठैयैत् तॆळिन्दु, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुमुक्षुणा भूतेन,  
+स्वाधिकारानुरूपं कञ्चिद् उपाय-विशेषं परिगृह्य कृत-कृत्येन  
+</details>
+
+
+<details><summary>English</summary>
+
+how he thereby does what should be done,  
+how, having realised his state as a prapanna or bhakta, 
+</details>
+
+<details><summary>Español</summary>
+
+cómo **hace** así lo que se **debe hacer**,  
+cómo, **habiéndose cuenta** de su estado como Papanna o Bhakta,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कृतकृत्यऩाय्, तऩ् निष्ठैयैत् तॆळिन्दु, 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+कृतकृत्यऩाय् ऎऩ्बदाल् कृतकृत्याधिकारार्थमुम्, 
+तऩ् निष्ठैयैत् तॆळिन्दु ऎऩ्बदाल् स्वनिष्ठाभिज्ञानाधिकारार्थमुम्, 
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदुक्क् अनुरूपम् आगव्  
+इङ्ग् इरुन्द नाळ्  
+यथा-शास्त्रं निर्-अपराधम् आगप् पण्णुम्  कैङ्कर्य-रूप-पुरुषार्थम् इरुक्कुम् बडियुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-निष्ठां विशदं विज्ञाय  
+तद्-अनुरूपम् इह जीवन-काले यथा-शास्त्र निर्-अपराधं क्रियमाणस्य कैङ्कर्य-रूप-पुरुषार्थस्य स्थिति-प्रकारम्,  
+</details>
+ 
+
+<details><summary>English</summary>
+
+(We have already described below)  
+he renders faultless service in accordance with that state 
+and in accordance with the śastras,  
+for the remaining term 
+of his life here. 
+</details>
+
+<details><summary>Español</summary>
+
+(Ya **hemos descrito** más temprano)  
+Él **presta** un **servicio** impecable de **acuerdo** con ese estado  
+y de **acuerdo** con los Śastras,  
+para el término restante  
+de su vida aquí.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदुक्कनुरूपमागविङ्गिरुन्द नाळ् यथाशास्त्रं निरपराधमागप्पण्णुम् कैङ्कर्यरूपपुरुषार्थमिरुक्कुम्बडियुम्, 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अदुक्कनुरूपमाग इत्यादियाल् उत्तरकृत्याधिकारार्थमुम्, पुरुषार्थकाष्ठाधिकारार्थमुम्, यथाशास्त्रमॆऩ्बदाल् शास्त्रीयनियमनाधिकारार्थमुम्, निरपराधमागप्पण्णुमॆऩ्बदाल् अपराधपरिहाराधिकारार्थमुम्, कीऴे इङ्गिरुन्दनाळ् ऎऩ्ऱदाल् स्थानविशेषाधिकारार्थमुम्, अनुवदिक्कप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरीर-पातानन्तरम् अर्चिरादि-गतियाले अ-प्राकृत-देश-विशेषत्तिले सॆऩ्ऱाल् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शरीर-पातानन्तरम् अर्चिरादि-गत्या अ-प्राकृत-देश-विशेषे प्राप्ते सति  
+</details>
+
+<details><summary>English</summary>
+
+(We have already described,) how, after the fall of the body,  
+he reaches a region free from the touch of matter (prakṛti)  
+by journeying along the shining path beginning with archis  
+</details>
+
+<details><summary>Español</summary>
+
+(Ya **hemos descrito**) cómo, después de la **caída** del cuerpo,  
+**Llega** a una región libre del toque de la materia (prakṛti)  
+**viajando** por el camino brillante comenzando con Archis
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शरीरपातानन्तरमर्चिरादि-गतियाले अप्राकृतदेशविशेषत्तिले सॆऩ्ऱाल् 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+शरीर पातानन्तरम् ऎऩ्बदाल् निर्याणाधिकारार्थमुम्, अर्चिरादिगतियाले ऎऩ्बदाल् गतिचिन्तनाधिकारार्थमुम्, अप्राकृतेत्यादियाल् परिपूर्णब्रह्मानुभवाधिकारार्थमुम्, अनुवदिक्कप्पट्टदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩुक्क् अनवच्छिन्न-भगवद्-अनुभव-परीवाहम् आग वरुम्  
+परिपूर्ण-कैङ्कर्य-रूप-परम-पुरुषार्थ-सिद्धिय् इरुक्कुम् बडियुञ् जॊऩ्ऩोम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्यानवच्छिन्न-भगवद्-अनुभव-प्रवाहात्मना संपद्यमानायाः  
+परिपूर्ण-कैङ्कर्य-रूप--परम-पुरुषार्थ-सिद्धेः प्रकारं **चावोचाम** ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+and (We have already described,) how he attains there the supreme end,  
+namely perfect service  
+which is the overflow of the unlimited enjoyment of Bhagavān.
+</details>
+
+<details><summary>Español</summary>
+
+y (We have already described,) cómo **alcanza** allí el fin supremo,  
+a saber, servicio perfecto  
+que **es el desbordamiento** del disfrute ilimitado de Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩुक्कनवच्छिन्नभगवदनुभव-परीवाहमाग वरुम् परिपूर्णकैङ्कर्यरूपपरमपुरुषार्थसिद्धियिरुक्कुम्बडियुञ् जॊऩ्ऩोम्।
+</details>
+
+
+
+
+THREE CAUSES BY WHICH THE LORD'S GRACE IS WON:
 
 There are three main causes for the removal of the will of the Lord imposed on men as a punishment for past sins, owing to which the jīvas who are subject to the sway of past karma have no clear knowledge concerning the upāya that is already existent (namely Bhagavān), the upāya by which His favour is secured (Sādhyopāya) and also the potency of these upāyas. They are as follows:- One is the speech that comes from the lips of Lakṣmī : If one asks, “May this Śaraṇāgati by mine!" Her reply is "Let it be yours; everything will be obtained by it alone." Next is the grace of the goodācārya and the third is the observance of the tradition of the righteous. The means (vyāja) by which the grace of the good ācārya  can be secured and the benefits arising therefrom may be understood from the episodes of [^63] Parāśara, Maitreya, Sañjaya, Aśvalāyana and others.
 
