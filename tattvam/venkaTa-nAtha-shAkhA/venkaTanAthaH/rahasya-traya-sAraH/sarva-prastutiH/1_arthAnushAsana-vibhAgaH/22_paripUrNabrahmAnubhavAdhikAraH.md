@@ -4988,33 +4988,194 @@ y que **son fáciles** de **lograr** para los videntes y Sūris,
 न्महानन्दब्रह्मानुभवपरीवाहा बहुविधाः ॥ ४९ ॥
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+परिपूर्णब्रह्मानुभवजनित प्रीतिकारिताशेषावस्थोचिताशेष कैङ्कर्यमुमिङ्गेये ऎऩ् मनस्सिल् तोऩ्ऱवेण्डुमॆऩ्ऱु प्रार्थिक्किऱार् अविश्रान्तेत्यादिना । मुनिसिद्धादिसुलभाः – मुनिकळावार् श्वेतद्वीपवासिकळ्; सिद्धरावार् नित्यसिद्धर्गळाऩ अनन्तगरुडविष्वक्सेनादिगळ्। आदिपदत्ताल् मुक्तर्गळुक्कु सङ्ग्रहम्। अवर्गळुक्कु सुलभङ्गळायुम्, अथवा 'वैगुन्दत्तमरुम् मुऩिवरुम्' ऎऩ्ऱु सॊऩ्ऩ नित्यमुक्तर्गळुक्कु सुलभङ्गळायुम्, अविश्रान्तं - अनुपरतम्, यत् श्रद्धाशतं – इप्पोदे छत्रधारणम् पण्णवेण्डुम्, चामरव्यजनङ्गळाल् वीस वेण्डुम्, पादारविन्दसंवहनम् सॆय्यवेण्डुम् ऎऩ्गिऱ तत्तत्कैङ्कर्यविषयमाऩ यादॊरु आदरशतमुण्डो अदिऩुडैय, कलह – अहमेव पुरस्ताद्भवामीत्यादि कलहङ्गळुण्डो अवैगळागिऱ, कल्लोल - अलैगळाले, अलैगळ् पोल् अडिक्कडियुण्डागुम् श्रद्धाशतङ्गळालॆऩ्ऱबडि। कलुषाः – व्याप्तङ्गळायिरुक्किऱ, मधुक्षीरेति । मधुक्षीरन्याय – मधुसम्पर्कक्षीरन्यायत्ताले, अदावदु मधुवोडुगूडिय क्षीरम् अत्यन्तभोग्यमागिऱाप्पोले ऎऩ्ऱबडि। स्वगुण विभवासञ्जनकनत् – स्वस्य – मुक्तऩाऩ तऩ्ऩुडैय, ये गुणविभवाः - यादॊरु अपहतपाप्मत्वादिसम्पत्तुक्कळुण्डो, अवैगळोडे, आसञ्जन – ऒऩ्ऱागक् कलक्कैयिऩाल्, कनत् – दीप्यमानमाऩ, अत्यन्तभोग्यभूतमाऩ ऎऩ्ऱबडि। जीवगुणसम्बन्धत्ताले ब्रह्मस्वरूपानुभवत्तिऱ्कुम्, ब्रह्मगुणानुभवत्तिऱ्कुम् रसाधिक्यमुण्डागुमॆऩ्ऱु करुत्तु। महानन्दब्रह्म – निरतिशयानन्दस्वरूपस्वभावमाऩ यादॊरु परब्रह्ममुण्डो इदिऩुडैय, अनुभवपरीवाहाः – परिपूर्णानुभवजनितप्रीतिकारित कैङ्कर्यविशेषङ्गळागिऱ कडैवाय्त्तल्गळ्। बहुविधाः – छत्रचामरधारण, भृङ्गार, पतद्ग्रहादिग्रहणरूपत्ताले नानाविधङ्गळाय्क्कॊण्डु, मम मनसि - ऎऩ्ऩुडैय मऩस्सिल्, आविर्भयासुः – देहवियोगात्परमनुष्ठेयङ्गळाऩ कैङ्कर्यङ्गळॆल् लाम् इप्पोदे ऎऩ् मऩस्सुक्कु प्रत्यक्षविषयङ्गळागवेण्डुमॆऩ्गै।  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+परिपूर्णब्रह्मानुभवाधिकारः द्वाविंशः ॥  
+श्रीमते गिमान्तमहादेशिकाय नमः ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+परिपूर्णब्रह्मानुभवाधिकारः द्वाविंशः ॥  
+श्रीमते गिमान्तमहादेशिकाय नमः ॥
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+परिपूर्णब्रह्मानुभवाधिकारः द्वाविंशः ॥  
+श्रीमते गिमान्तमहादेशिकाय नमः ॥
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+॥ इति श्रीमदहोबिलमठास्थाने द्विचत्वारिंशत्पट्टे मूर्द्धाभिषिक्तस्य  
+निरवधिकगुरुभक्तिभरितस्य श्रीलक्ष्मीनृसिंहदिव्यपादुकासेवक  
+श्रीवण्शठकोप श्री श्रीरङ्गशठकोपयतीन्द्रस्य कृतौ  
+श्री सारबोधिन्याख्यायां व्याख्यायां  
+परिपूर्णब्रह्मानुभवाधिको द्वाविंशः ॥
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-सन्दृष्टस्सारवाग्वित् स्वपर निशितधीस्सङगजिन्नैकसंस्थ  
-स्स्पष्टोपायोऽतिखिन्नस्सपरिकरभरन्यासनिष्पन्नकृत्यः ।  
-स्वावस्थार्हं सपर्याविधिमिह नियतं व्यागसं क्वापि बिभ्र  
-न्निर्मुक्तस्थूलसूक्ष्मप्रकृतिरनुभवत्यच्युतं नित्यमेकः ॥ ५० ॥
++++(भगवता ऽऽचार्येण च)+++ **सन्दृष्टस्**, +++(रहस्य-त्रयम्→)+++सार-वाग्-**वित्**, स्व-पर+++(←ब्रह्म)+++-**निशित**-धीस्, +++(विषय-)+++सङ्ग-**जिन्**, नैक-**संस्थस्**+++(←स्वरूपोपाय-पुरुषार्थेषु)+++,  
+**स्पष्टोपायो**, ऽतिखिन्नस्, स-परिकर--भर-न्यास--**निष्पन्न-कृत्यः** ।  
+**स्वावस्थार्हं** सपर्या-विधिम् इह नियतं व्य्-आगसं क्वापि **बिभ्रन्**  
+**निर्मुक्त**-स्थूल-सूक्ष्म-प्रकृतिर् **अनुभवत्य्** अ-च्युतं नित्यम् एकः +++(→रामानुजः?)+++॥ ५० ॥ 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(भगवता ऽऽचार्येण च)+++ **सन्दृष्टस्**, +++(रहस्य-त्रयम्→)+++सार-वाग्-**वित्**, स्व-पर+++(←ब्रह्म)+++-**निशित**-धीस्, +++(विषय-)+++सङ्ग-**जिन्**, नैक-**संस्थस्**+++(←स्वरूपोपाय-पुरुषार्थेषु)+++,  
+**स्पष्टोपायो**, ऽतिखिन्नस्, स-परिकर--भर-न्यास--**निष्पन्न-कृत्यः** ।  
+**स्वावस्थार्हं** सपर्या-विधिम् इह नियतं व्य्-आगसं क्वापि **बिभ्रन्**  
+**निर्मुक्त**-स्थूल-सूक्ष्म-प्रकृतिर् **अनुभवत्य्** अ-च्युतं नित्यम् एकः +++(→रामानुजः?)+++॥ ५० ॥ 
+</details>
+
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+अत्रैतद्-ग्रन्थगत-नानाधिकार-सूचना ऽस्ति। 
+</details>
+
+<details><summary>English</summary>
+
+Having received the gracious look of the Lord (and of the Ācārya)  
+and understood what is most essential and most important in the śāstras (vis, the three mantras or rahasyas),  
+having obtained a clear and accurate knowledge of his own self and of the Supreme Being  
+and conquered his attachment to other interests in life,  
+having acquired a knowledge of what is appropriate for the different kinds of adhikārīs,  
+and realised the nature of the two upāyas (bhakti and prapatti),  
+having become troubled (in mind) (at his inability to adopt other upāyas)  
+and performed bharanyāsa with all its aṅgas  
+and thus done what he ought to do,  
+performing here in this world the adoration of the Lord (and His devotees )  
+without faults and in accordance with his state or niṣṭhā  
+and in the manner prescribed in the śāstras  
+and having (thereafter) cast off (both ) the gross (sthūla) and subtle prakṛti (body),  
+some one there may be who enjoys Bhagavān eternally.
+
+(This śloka  refers concisely to the gist of each of the twenty two chapters in the first part of the treatise.)
+</details>
+
+<details><summary>Español</summary>
+
+**Habiendo recibido** el aspecto amable del Señor (y del ācārya)  
+y **entendió** lo que es más esencial y más importante en los śāstras (vis, los tres mantras o rahasyas),  
+**habiendo obtenido** un conocimiento claro y preciso de su propio ser y del ser supremo   
+y **conquistó** su **apego** a otros intereses de la vida,  
+**habiendo adquirido** un **conocimiento** de lo que es apropiado para los diferentes tipos de adhikārīs,  
+y **se dio cuenta** de la naturaleza de los dos upāyas (Bhakti y Prapatti),  
+**haberse preocupado** (en mente) (por su **incapacidad** para **adoptar** otros upāyas)  
+y **realizó** bharanyāsa con todas sus aṅgas  
+y así **hizo** lo que **debería hacer**,  
+**actuando** aquí en este mundo la adoración del Señor (y sus devotos)  
+sin fallas y de **acuerdo** con su estado o niṣṭhā  
+y de la **manera prescrita** en los Śāstras  
+y que (a partir de entonces) **cayera** (ambos) el bruto (sthūla) y sutil prakṛti (cuerpo),  
+Alguien **puede ser** que **disfrute** de Bhagavān eternamente.
+
+(Esto Śloka **se refiere** concisamente a la esencia de cada uno de los veintidós capítulos  
+en la primera parte del tratado).
+</details>
+
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-सन्दृष्टस्सारवाग्वित् स्वपर निशितधीस्सङगजिन्नैकसंस्थ  
+सन्दृष्टस्सारवाग्वित् स्वपर निशितधीस्सङ्गजिन्नैकसंस्थ  
 स्स्पष्टोपायोऽतिखिन्नस्सपरिकरभरन्यासनिष्पन्नकृत्यः ।  
 स्वावस्थार्हं सपर्याविधिमिह नियतं व्यागसं क्वापि बिभ्र  
 न्निर्मुक्तस्थूलसूक्ष्मप्रकृतिरनुभवत्यच्युतं नित्यमेकः ॥ ५० ॥
 </details>
 
-[^61] Having received the gracious look of the Lord (and of the Ācārya) and understood what is most essential and most important in the śāstras (vis, the three mantras or rahasyas), having obtained a clear and accurate knowledge of his own self and of the Supreme Being and conquered his attachment to other interests in life, having acquired a knowledge of what is appropriate for the different kinds of adhikārīs, and realised the nature of the two upāyas (bhakti and prapatti), having become troubled (in mind) (at his inability to adopt other upāyas) and performed bharanyāsa with all its aṅgas and thus done what he ought to do, performing here in this world the adoration of the Lord (and His devotees ) without faults and in accordance with his state or niṣṭhā and in the manner prescribed in the śāstras and having (thereafter) cast off (both ) the gross (sthūla) and subtle prakṛti (body), some one there may be who enjoys Bhagavān eternally.
+<details><summary>सार-बोधिनी</summary>
 
-[^61]: This śloka  refers concisely to the gist of each of the twenty two chapters in the first part of the treatise.
+इन्द संसारमण्डलत्तिल् उपोद्घाताधिकारम् मुदल् परिपूर्णब्रह्मानुभावाधिकारपर्यन्तमाऩ अर्थानुशासनभागत्तिल् सॊऩ्ऩबडि  
+ओरुवऩ् आवदु तेरि ब्रह्मानुभवं पण्णिगिऱवऩ् उण्डोव् ऒऩ्ऩ,  
+प्रत्यधिकार-सारार्थ-सम्पन्नर् आऩ अप्-पडि-बट्ट महात्मावुम् उण्ड् ऎण्ऱु  
+ओरु श्लोकत्तालेयरुळिच्चॆय्गिऱार् सन्दृष्ट इत्यादिना । 
+
+एकः – संसारिचेतनः, प्रथमगुरुवाले जायमान दशैयिल्, सन्दृष्टः –कृपया कटाक्षितऩाय्, इदऩाल् उपोद्घाताधिकारार्थं सूचितं। सारवाग्वित् – रहस्यत्रयरूपमाऩ सारवाक्कैयऱिनदवऩाय्, इदऩाल् सारनिष्कर्षाधिकारार्थं सङ्ग्रहिक्कबट्टदु। स्वपरनिशितधीः – स्वविषयमायुम् परविशयमायुमुळ्ळ लक्षणज्ञानजनितवैलक्षण्यनिश्चयत्तै युडैयवऩाय्, इदऩाल् प्रधानप्रतितन्त्र, अर्थपञ्चक, तत्वत्रय, परदेवतापारमार्थ्याधिकारार्थङ्गळ् सूचितङ्गळ्। सङगजित् – ऐश्वर्यकैवल्यङ्गळिल् सङगत्तै जयित्तवऩाय्, इदऩाल् मुमुक्षुत्वाधिकारार्थम् सूचितम्। नैकसंस्थः – नैकेषु – अनेकेषु, संस्था - निष्ठा यस्य , इदऩाल् अधिकारिविभागाधिकारार्थः सूचितः । स्पष्टोपायः – स्पष्टाः उपायाः सद्वारकाः अद्वारकाश्च यस्य । इदऩाल् उपायविभागाधिकारार्थस्सूचितः । अतिखिन्नः – आकिञ्चन्यानन्यगतित्वरूपखेदान् । इदऩाल् प्रपत्तियोग्याधिकारार्थं सूचितम्। सपिकरभरन्यासनिष्पन्नकृत्य इति ।  
+इङ्गु पिरिकरशब्दत्ताले परिकरविभागाधिकारार्थं , भरन्यासशब्दत्ताले साङगप्रपदनाधिकारार्थमुम् , निष्पन्नकृतयशब्दत्ताले कृतकृत्याधिकारार्थमुम् सूचितङ्गळ्। स्वावस्थार्हं – स्वरूपोपायपुरुषार्थनिष्ठाभिज्ञानरूपमाऩ तऩ्ऩुडैय दशैक्नुगुणमाग। इदऩाल् स्वनिष्ठाभिज्ञानाधिकारार्थस्सङ्गृहीतः । सपर्याविधिमॆऩ्बदाल् उत्तरकृत्याधिकारार्थमुम्, सपर्यैक्कु काष्ठाभूतमाऩ भागवतकैङकर्यत्तिऩ् माहात्म्यप्रतिपादकमाऩ पुरुषार्थतकाष्ठाधिकारार्थमुम् सूचितम्।  
+इह नियतमॆऩ्बदाल् शास्त्रीयनियमनाधिकारार्थमुम् व्यागसमॆऩ्बदाल् अपराधपरिहाराधिकारार्थमुम्,  
+कापि बिभ्रत् ऎऩ्बदाल् स्थानविशेषाधिकारार्थमुम्, निर्मुक्तस्थूलसूक्ष्मप्रकृतिः ऎऩ्बदाल् निर्याणाधिकारार्थमुम् गतिचिन्तनाधिकारार्थमुम् सूचिप्पिक्कबट्टदुगळ्।  
+अच्युतं नित्यमनुभवतिऎऩ्बदाल् परिपूर्णब्रह्मानुभवाधिकारार्थम् सूचितम्।  
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+अर्थानुशासनभागः प्रथमः ॥  
+श्रीमते निगमान्तमहादेशिकाय नमः ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+अर्थानुशासनभागः प्रथमः ॥  
+श्रीमते निगमान्तमहादेशिकाय नमः ॥
+</details>
+
+
+<details><summary>English</summary>
 
 End of the Part which forms the Exposition of Doctrine.
+</details>
 
-PART II
+<details><summary>Español</summary>
 
-The Discussion and clarification of Doubts
+Fin de la parte que **forma** la exposición de la doctrina.
+</details>
 
-and Disputed Points
+
+<details><summary>मूलम्</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+अर्थानुशासनभागः प्रथमः ॥  
+श्रीमते निगमान्तमहादेशिकाय नमः ॥
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+॥ इति श्रीमदहोबिलमठास्थाने द्विचत्वारिंशत्पट्टे मूर्द्धाभिषिक्तस्य  
+निरवधिकगुरुभक्तिभरितस्य श्रीलक्ष्मीनृसिंहदिव्यपादुकासेवक  
+श्रीवण्शठकोप श्री श्रीरङ्गशठकोपयतीन्द्रस्य कृतौ  
+श्रीमद्रहस्यत्रयसार व्याख्यायां श्री सारबोधिन्यां  
+अर्थानुशासनभागः प्रथमः ॥  
+श्रीमते श्रीलक्ष्मीनृसिंहदिव्यपादुकासेवक श्रीवण्शठकोप  
+श्री श्रीरङगशठकोप यतीन्द्रमहादेशिकाय नमः ॥  
+॥ शुभमस्तु ॥
+</details>
+
+
+
 
