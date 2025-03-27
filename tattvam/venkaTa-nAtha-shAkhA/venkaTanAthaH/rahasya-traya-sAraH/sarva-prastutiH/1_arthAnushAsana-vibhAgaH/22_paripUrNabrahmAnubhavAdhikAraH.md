@@ -4502,7 +4502,7 @@ there is no possibility of his ever going back to saṁsāra owing to ajñāna o
 आगैयाल् तऩ् अज्ञानमडियाग आवृत्ति शङ्गिक्कवॊण्णादु। 
 </details>
 
-
+### नेश्वरेच्छया
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवद्-विषय-वैलक्षण्य-ज्ञानत्ताले  
@@ -4511,6 +4511,14 @@ there is no possibility of his ever going back to saṁsāra owing to ajñāna o
 इप्-पोदु शास्त्रङ्गळुक्कु निलम् अल्लाद  
 भगवद्-वैलक्षण्यम् ऎल्लाम् प्रत्यक्षम् आऩ पडियाले  
 निरतिशय-**प्रीति-रूपापन्नम् आय्त् तलैक् कट्ट् इऱ्ऱु**। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवद्-विषय-वैलक्षण्य-ज्ञानेन  
+पूर्वं जातं भक्ति-शब्द-वाच्यं प्रीति-रूपापन्न-ज्ञानम्  
+इदानीं शास्त्र-गोचराणां सर्वेषां भगवद्-वैलक्षण्यानां  
+साक्षात्-क्रियमाणत्वान् निरतिशय-प्रीति-रूपापन्नं पूर्तिं प्राप्तम् । 
 </details>
 
 
@@ -4549,6 +4557,8 @@ Porque ahora **tiene** una visión de todos los aspectos de la naturaleza distin
 करै-बुरण्ड् इवऩोडु परं-परया सम्बन्धम् उडैय तिडर् निलङ्गळिलुम् एऱिप्प् आयुम् बडिय् आयिऱ्ऱु। 
 </details>
 
+
+
 <details><summary>मूलम्</summary>
 
 इप्पडियिरुक्कै याले ‘‘स च मम प्रियः’’(गीता ७-१७।) ऎऩ्ऱ वीश्वरऩुडैय प्रीत्यतिशयम् अवऩ् तऩ्ऩालुम्नियमिक्कवॊण्णादबडि करैबुरण्डिवऩोडु परंपरया सम्बन्धमुडैय तिडर् निलङ्गळिलुमेऱिप्पायुम्बडियायिऱ्ऱु। 
@@ -4558,7 +4568,22 @@ Porque ahora **tiene** una visión de todos los aspectos de la naturaleza distin
 Therefore Iśvara's great love for him  
 as stated in the śloka :  
 
-> "The jnanī is dear to me (How dear he is to me cannot be described even by me, Omniscient though I am)" - Iśvara's love for himna is so overwhelming that its flow is irresistible and that its current reaches even those uplands which are connected with him only in distant relationship. Therefore it cannot be stated that, though he is free from karma, there is the possibility of his returning to saṁsāra by the will of Iśvara who is independent (and all-powerful). Since the mukta is no longer subject to the injunctions of śāstra , there is no possibility of his violating the Lord's command in the state of mukti. He cannot do anything opposed to the will of Iśvara as the Lord's pleasure is now his pleasure. Therefore the ultimate goal or attainment called mokṣa , which is of the nature of perfect and full enjoyment of Brahman and which extends into service, has now become eternal for him (i.e.) it will last as long as his soul lasts. Considering all this, the Sitra-kāra said: "There is no return (to saṁsāra) - no return, for the Scripture says so."
+> "The jnanī is dear to me  
+> (How dear he is to me  
+> cannot be described even by me,  
+> Omniscient though I am)" 
+
+Iśvara's love for him is so overwhelming  
+that its flow is irresistible  
+and that its current reaches even those uplands  
+which are connected with him only in distant relationship. 
+
+Therefore it cannot be stated that,  
+though he is free from karma,  
+there is the possibility of his returning to saṁsāra by the will of Iśvara  
+who is independent (and all-powerful). 
+
+Since the mukta is no longer subject to the injunctions of śāstra , there is no possibility of his violating the Lord's command in the state of mukti. He cannot do anything opposed to the will of Iśvara as the Lord's pleasure is now his pleasure. Therefore the ultimate goal or attainment called mokṣa , which is of the nature of perfect and full enjoyment of Brahman and which extends into service, has now become eternal for him (i.e.) it will last as long as his soul lasts. Considering all this, the Sitra-kāra said: "There is no return (to saṁsāra) - no return, for the Scripture says so."
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
