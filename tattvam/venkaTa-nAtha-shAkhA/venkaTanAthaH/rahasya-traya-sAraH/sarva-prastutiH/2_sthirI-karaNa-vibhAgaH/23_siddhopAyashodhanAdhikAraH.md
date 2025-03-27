@@ -10,6 +10,18 @@ title = "२३ सिद्धोपायशोधनाधिकारः"
 ॥ श्रीमद्रहस्यत्रयसारे सिद्धोपायशोधनाधिकारः ॥
 </details>
 
+<details><summary>English</summary>
+
+(23) THE CHAPTER ON THE CLARIFICATION OF WHAT IS MEANT BY THE UPĀYA THAT IS ALREADY EXISTENT.  (SIDDHOPĀYA) page 290
+</details>
+
+<details><summary>Español</summary>
+
+(23) El capítulo sobre la **aclaración**  
+de lo que **se entiende** por el upāya que ya **existe**.(Siddhopāya) Página 290
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 ॥ श्रीः ॥  
@@ -17,21 +29,23 @@ title = "२३ सिद्धोपायशोधनाधिकारः"
 ॥ श्रीमद्रहस्यत्रयसारे सिद्धोपायशोधनाधिकारः ॥
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+॥ श्रीः ॥  
+    
+॥ श्रीमते श्रीलक्ष्मीनृसिंह परब्रह्मणे नमः ॥  
+श्रीसारबोधिन्यां सिद्धोपायशोधनाधिकारः ॥  
+</details>
+ 
 
 
-(23) THE CHAPTER ON THE CLARIFICATION
 
-OF WHAT IS MEANT BY THE UPĀYA
-
-THAT IS ALREADY EXISTENT.
-
-(SIDDHOPĀYA) page290
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-युगपदखिलं प्रत्यक्षेण स्वतस्सततं विद-  
-न्ननवधिदयादिव्योदन्वानशक्यविवर्जितः ।  
-जलधिसुतया सार्धं देवो जगत्परिपालयन्  
+युगपद्-अ-खिलं प्रत्यक्षेण स्वतस् सततं विदन्न्  
+अनवधि-दया-दिव्योदन्वान् अ-शक्य-विवर्जितः ।  
+जल-धि-सुतया सार्धं देवो जगत्परिपालयन्  
 परमपुरुषस्सिद्धोपायः प्रतीष्टभरस्सताम् ॥ ५१ ॥
 </details>
 
