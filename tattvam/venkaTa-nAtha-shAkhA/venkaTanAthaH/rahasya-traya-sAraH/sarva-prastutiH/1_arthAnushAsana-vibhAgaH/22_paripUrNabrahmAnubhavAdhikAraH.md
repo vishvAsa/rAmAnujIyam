@@ -4186,7 +4186,379 @@ El Mukta nunca volverá a **estar** en Samsāra:
 </details>
 
 
-If it be so, it may be asked whether the mukta  who is not independent (of God) may not, for some reason or other, incur the possibility of a return to saṁsāra. The jīva's dependence on Iswars has been stated in the śloka  :-“For enabling a man to get the good things of life, and for taking away from him the ills of life, there is no one other than Puruṣottama who is competent ''. The answer to that question is, "There will be no such possibility, for has He not Himself declared :- "Those who perform bhakti yoga with great devotion and those who have performed prapatti which is considered as a superior form of penance (tapas) will obtain sāyujya and will for ever render service to me. They will always be free from the ills of saṁsāra". Ever in the state of desire for mukti, the mukta had an aversion to the enjoyment of non-sentient things (matter) and also to the mere enjoyment of his own self (kaivalya). This aversion is now well established in him; for as he sees all things having Brahman as their inner self, there is no possibility of his enjoying his own self as separate (from everything else), and as he sees by constant perception (pratyakṣa ) the imperfections of all other objects (than God), there is no possibility of his returning to saṁsāra of his own free will. As his knowledge of the three tattvas, cit. acit and Iśvara and of what is good and what is evil, which he acquired before, has now attained expansion without any break or contraction, there is no possibility of his ever going back to saṁsāra owing to ajñāna or ignorance. The knowledge which formerly in saṁsāra deepened into the form of love called bhakti and which he acquired by his distinctive knowledge of the specific nature of Bhagavān has, now, in the state of mukti, become ripened into the form of supreme love, because he has now a vision of all aspects of Bhagavān's distinctive nature of which even the śāstra s are incapable. Therefore Iśvara's great love for him as stated in the śloka : "The jnanī is dear to me (How dear he is to me cannot be described even by me, Omniscient though I am)" - Iśvara's love for himna is so overwhelming that its flow is irresistible and that its current reaches even those uplands which are connected with him only in distant relationship. Therefore it cannot be stated that, though he is free from karma, there is the possibility of his returning to saṁsāra by the will of Iśvara who is independent (and all-powerful). Since the mukta is no longer subject to the injunctions of śāstra , there is no possibility of his violating the Lord's command in the state of mukti. He cannot do anything opposed to the will of Iśvara as the Lord's pleasure is now his pleasure. Therefore the ultimate goal or attainment called mokṣa , which is of the nature of perfect and full enjoyment of Brahman and which extends into service, has now become eternal for him (i.e.) it will last as long as his soul lasts. Considering all this, the Sitra-kāra said: "There is no return (to saṁsāra) - no return, for the Scripture says so."
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप् पडिय् आगिल्; 
+> 
+> > ‘‘**न** संपदां **समाहारे**  
+> विपदां **विनिवर्तने** ।  
+> **समर्थो विद्यते** कश्चित्  
+> तं विना पुरुषोत्तमम्॥’’  
+> (परमसंहिता। (?)) 
+> 
+> ऎऩ्गिऱ निलैय् आय् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवं सति 
+>
+> > ‘‘**न** संपदां **समाहारे**  
+> विपदां **विनिवर्तने** ।  
+> **समर्थो विद्यते** कश्चित्  
+> तं विना पुरुषोत्तमम्॥’’  
+> (परमसंहिता। (?)) 
+>
+> इत्य्-उक्त-स्थितिकानाम् अ-स्वतन्त्राणां मुक्तानां  
+येन केनचिद् +धेतुना ऽऽवृत्तिशङ्का किं ना स्याद् 
+
+इति चेत् — 
+</details>
+
+<details><summary>English</summary>
+
+If it be so,  
+
+(as) the jīva's dependence on Ishvara has been stated in the śloka  :-  
+
+> “For enabling a man to get the good things of life,  
+and for taking away from him the ills of life,  
+there is no one other than Puruṣottama who is competent ''. 
+</details>
+
+<details><summary>Español</summary>
+
+Si **es** así,
+
+(como) La dependencia del Jīva en Ishvara **ha sido declarada** en Śloka:-
+
+> “Para permitir que un hombre **obtenga** las cosas buenas de la vida,  
+y por **quitarle** los males de la vida,
+**No hay** nadie más que Puruṣottama que **sea competente** ''.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडियागिल्; ‘‘न संपदां समाहारे विपदां विनिवर्तने । समर्थो विद्यते कश्चित्तं विना पुरुषोत्तमम्’’(परमसंहिता। (?)) ऎऩ्गिऱ निलैयाय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स्वतन्त्रर् अल्लाद मुक्तरुक्कु  
+> एद् एऩुम् ऒरु हेतुवाले  
+> आवृत्ति-शङ्कै वारादोव्  
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+It may be asked whether the mukta  
+who is not independent (of God) may not,  
+for some reason or other,  
+incur the possibility of a return to saṁsāra. 
+
+</details>
+
+<details><summary>Español</summary>
+
+Se puede **preguntar** si el Mukta  
+quien **no es** independiente (de Dios) **puede no**,  
+Por alguna razón u otra,  
+**incurrir** en la posibilidad de un **regreso** a Saṁsāra.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वतन्त्ररल्लाद मुक्तरुक्कु एदेऩुमॊरु हेतुवाले आवृत्तिशङ्गै वारादोवॆऩ्ऩिल्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदु वारादु; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सा न स्यात् । 
+</details>
+
+
+<details><summary>English</summary>
+
+The answer to that question is,  
+"There will be no such possibility", 
+</details>
+
+<details><summary>Español</summary>
+
+La **respuesta** a esa pregunta **es**,  
+"No **habrá** tal posibilidad",
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+अदु वारादु; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **‘‘सायुज्यं प्रतिपन्ना** ये  
+तीव्र-भक्तास् तपस्विनः ।  
+किङ्करा मम ते नित्यं  
+**भवन्ति** निरुपद्रवाः॥’’  
+(परमसंहिता। (?))  
+
+ऎऩ्ऱु ताऩेय् अरुळिच् चॆय्दाऩ् इऱे। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **‘‘सायुज्यं प्रतिपन्ना** ये  
+तीव्र-भक्तास् तपस्विनः ।  
+किङ्करा मम ते नित्यं  
+**भवन्ति** निरुपद्रवाः॥’’  
+(परमसंहिता। (?))  
+
+इति स्वयम् एवानुजग्राह किल । 
+</details>
+
+
+<details><summary>English</summary>
+
+for has He not Himself declared :-  
+
+> "Those who perform bhakti yoga with great devotion  
+> and those who have performed prapatti which is considered as a superior form of penance (tapas)  
+> will obtain sāyujya  
+> and will for ever render service to me.  
+> They will always be free from the ills of saṁsāra". 
+</details>
+
+<details><summary>Español</summary>
+
+Porque **no** él mismo **ha declarado**?:-
+
+> "Aquellos que **realizan** bhakti yoga con gran devoción  
+> y aquellos que **han realizado** Prapatti, que se considera una forma superior de penitencia (tapas)  
+> **obtendrá** sāyujya  
+> Y para siempre **me prestará servicio**.  
+> Siempre **estarán libres** de los males de Saṁsāra ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सायुज्यं प्रतिपन्ना ये तीव्रभक्तास्तपस्विनः ।  
+किङ्करा मम ते नित्यं भवन्ति निरुप-द्रवाः’’(परमसंहिता। (?))  
+ऎऩ्ऱु ताऩे यरुळिच्चॆय्दाऩिऱे। 
+</details>
+
+### न स्वेच्छया
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुमुक्षु-दशैयिल्  
+केवलाचित्तैयुम् केवल-चित्तैयुम् अनुभविक्कैय् आगिऱ  
+**ऐश्वर्य-कैवल्यङ्गळिल् वैराग्यम् पिऱन्दव्**  
+
+इदु मुक्तऩुक्कु ब्रह्मात्मकम् आग सर्वत्तैयुम् काण्गैयाले केवलानुभव-प्रसङ्गम् इल्लैयामैयालुम्  
+
+अन्द पुरुषार्थान्तरङ्गळिऩ्-उडैय दोषम् ऎल्लाम्  
+नित्य-प्रत्यक्षितम् आगैयालुम्  
+
+**प्रतिष्ठितम् आयिऱ्ऱु।** 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुमुक्षु-दशायां केवल-चिद्--केवलाचिद्-अनुभव-रूपयोर् ऐश्वर्य-कैवल्ययोर् विषये **वैराग्यं जातम्**,  
+मुक्तेन ब्रह्मात्मकतया सर्वस्व साक्षात्-करणेन  
+केवलानुभव-प्रसङ्गाभावात्,  
+तत्-पुरुषार्थान्तर-गत-दोषस्य पश्चान्-नित्य-प्रत्यक्षितत्वाच् च  
+**प्रतिष्ठितं सिद्धम्** । 
+</details>
+
+<details><summary>English</summary>
+
+Ever in the state of desire for mukti,  
+the mukta had an aversion to the enjoyment of non-sentient things (matter)  
+and also to the mere enjoyment of his own self (kaivalya).  
+This aversion is now well established in him;  
+for as he sees all things having Brahman as their inner self,  
+there is no possibility of his enjoying his own self as separate (from everything else),  
+and as he sees by constant perception (pratyakṣa ) the imperfections of all other objects (than God).  
+</details>
+
+<details><summary>Español</summary>
+
+Alguna vez en el estado de deseo de Mukti,  
+El Mukta **tenía** una aversión al disfrute de las cosas no sensibles (materia)  
+y también al mero disfrute de su propio ser (Kaivalya).
+
+Esta aversión ahora **está bien establecida** en él;
+porque como **ve** todas las cosas **teniendo** a Brahman como su ser interno,  
+**No hay posibilidad** de que disfrute de sí mismo como separado (de todo lo demás),  
+y como **ve** por percepción constante (pratyakṣa) las imperfecciones de todos los demás objetos (que Dios).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुदशैयिल् केवलाचित्तैयुम् केवलचित्तैयुमनुभविक्कैयागिऱ ऐश्वर्यकैवल्यङ्गळिल् वैराग्यम् पिऱन्दविदु मुक्तऩुक्कु ब्रह्मात्मकमाग सर्वत्तैयुम् काण्गैयाले केवलानुभवप्रसङ्गमिल्लै यामैयालुम् अन्द पुरुषार्थान्तरङ्गळिऩुडैय दोषमॆल्लाम् नित्यप्रत्यक्षितमागैयालुम् प्रतिष्ठितमायिऱ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् तऩ्ऩ्-इच्छैय्-अडिय् आग आवृत्ति-शङ्गैय् इल्लै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः स्वेच्छा-निबन्धना ऽऽवृत्तिशङ्का न भवति । 
+</details>
+
+<details><summary>English</summary>
+
+(So) there is no possibility of his returning to saṁsāra of his own free will. 
+</details>
+
+<details><summary>Español</summary>
+
+(Entonces) **no hay posibilidad** de que **regrese** a Saṁsāra por su propia voluntad.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् तऩ्ऩिच्छैयडियाग आवृत्ति शङ्गैयिल्लै। 
+</details>
+
+### नाज्ञानतः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चिद्-अ-चिद्-ईश्वर-तत्त्व-त्रय विषयम् आगवुम्  
+हेयोपादेय-विषयम् आगवुम्  
+मुऩ्बु पिऱन्द ज्ञानम्  
+इप्-पोदु विच्छेद-सङ्कोचङ्गळ् इल्लाद बडि  
+**विकसितम् आयिऱ्ऱु।** 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+चिद्--अ-चिद्--ईश्वर--तत्त्व-त्रय-विषये हेयोपादेय-विषये च  
+पूर्वं **जातं ज्ञानम्**  
+इदानीं विच्छेद-संकोच-रहिततया **विकसितं** संपन्नम् ।  
+</details>
+
+<details><summary>English</summary>
+
+As his knowledge of the three tattvas, cit, acit and Iśvara  
+and of what is good and what is evil,  
+which he acquired before,  
+has now attained expansion without any break or contraction,  
+</details>
+
+<details><summary>Español</summary>
+
+Como su **conocimiento** de los tres tattvas, Cit, Acit e iśvara  
+y de lo que es bueno y lo que es malvado  
+que él adquirió antes  
+ahora **ha alcanzado** la **expansión** sin **ningún descanso** ni **contracción**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+चिदचिदीश्वरतत्वत्रय विषयमागवुम् हेयोपादेयविषयमागवुम् मुऩ्बु पिऱन्द ज्ञानमिप्पोदु विच्छेदसङ्कोचङ्गळिल्लादबडि विकसितमायिऱ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् तऩ् अज्ञानम् अडिय् आग  
+आवृत्ति शङ्गिक्क वॊण्णादु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः स्वाज्ञान-निबन्धनाऽऽवृत्ति-शङ्का न युज्यते । 
+</details>
+
+
+<details><summary>English</summary>
+
+there is no possibility of his ever going back to saṁsāra owing to ajñāna or ignorance. 
+</details>
+
+<details><summary>Español</summary>
+
+**No hay posibilidad** de que **vuelva** a Saṁsāra debido a ajñāna o ignorancia.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् तऩ् अज्ञानमडियाग आवृत्ति शङ्गिक्कवॊण्णादु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवद्-विषय-वैलक्षण्य-ज्ञानत्ताले  
+मुऩ्बु पिऱन्द भक्ति-शब्द-वाच्यम् आऩ प्रीति-रूपापन्न-ज्ञानम्  
+
+इप्-पोदु शास्त्रङ्गळुक्कु निलम् अल्लाद  
+भगवद्-वैलक्षण्यम् ऎल्लाम् प्रत्यक्षम् आऩ पडियाले  
+निरतिशय-**प्रीति-रूपापन्नम् आय्त् तलैक् कट्ट् इऱ्ऱु**। 
+</details>
+
+
+
+<details><summary>English</summary>
+
+The knowledge which formerly in saṁsāra deepened into the form of love called bhakti  
+and which he acquired by his distinctive knowledge of the specific nature of Bhagavān  
+has, now, in the state of mukti, become ripened into the form of supreme love,  
+because he has now a vision of all aspects of Bhagavān's distinctive nature of which even the śāstra-s are incapable. 
+</details>
+
+<details><summary>Español</summary>
+
+El **conocimiento** que anteriormente en Saṁsāra se profundizó en la forma de amor **llamado** Bhakti  
+y que **adquirió** por su **conocimiento** distintivo de la naturaleza específica de Bhagavān  
+
+Se **ha madurado**, ahora, en el estado de Mukti, en forma de amor supremo,  
+Porque ahora **tiene** una visión de todos los aspectos de la naturaleza distintiva de Bhagavān de la cual incluso los Śāstra-s **son incapaces**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवद्विषयवैलक्षण्यज्ञानत्ताले मुऩ्बु पिऱन्द भक्तिशब्दवाच्यमाऩ प्रीतिरूपापन्नज्ञान मिप्पोदु शास्त्रङ्गळुक्कु निलमल्लाद भगवद्वैलक्षण्यमॆल्लाम् प्रत्यक्षमाऩ पडियाले निरतिशयप्रीतिरूपापन्नमाय्त् तलैक्कट्टिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् इरुक्कैयाले  
+
+> ‘‘स च मम प्रियः’’(गीता ७-१७।) 
+
+ऎऩ्ऱव् ईश्वरऩ्-उडैय प्रीत्यतिशयम् अवऩ्-तऩ्ऩालुम् नियमिक्क वॊण्णाद बडि  
+करै-बुरण्ड् इवऩोडु परं-परया सम्बन्धम् उडैय तिडर् निलङ्गळिलुम् एऱिप्प् आयुम् बडिय् आयिऱ्ऱु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडियिरुक्कै याले ‘‘स च मम प्रियः’’(गीता ७-१७।) ऎऩ्ऱ वीश्वरऩुडैय प्रीत्यतिशयम् अवऩ् तऩ्ऩालुम्नियमिक्कवॊण्णादबडि करैबुरण्डिवऩोडु परंपरया सम्बन्धमुडैय तिडर् निलङ्गळिलुमेऱिप्पायुम्बडियायिऱ्ऱु। 
+</details>
+
+
+Therefore Iśvara's great love for him  
+as stated in the śloka :  
+
+> "The jnanī is dear to me (How dear he is to me cannot be described even by me, Omniscient though I am)" - Iśvara's love for himna is so overwhelming that its flow is irresistible and that its current reaches even those uplands which are connected with him only in distant relationship. Therefore it cannot be stated that, though he is free from karma, there is the possibility of his returning to saṁsāra by the will of Iśvara who is independent (and all-powerful). Since the mukta is no longer subject to the injunctions of śāstra , there is no possibility of his violating the Lord's command in the state of mukti. He cannot do anything opposed to the will of Iśvara as the Lord's pleasure is now his pleasure. Therefore the ultimate goal or attainment called mokṣa , which is of the nature of perfect and full enjoyment of Brahman and which extends into service, has now become eternal for him (i.e.) it will last as long as his soul lasts. Considering all this, the Sitra-kāra said: "There is no return (to saṁsāra) - no return, for the Scripture says so."
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
