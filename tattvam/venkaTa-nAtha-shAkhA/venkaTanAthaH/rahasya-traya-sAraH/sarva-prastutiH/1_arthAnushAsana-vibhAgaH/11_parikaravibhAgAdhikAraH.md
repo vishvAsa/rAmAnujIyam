@@ -2927,7 +2927,7 @@ y con los brazos de uno en el pecho.
 </details>
 
 
-## द्वयेऽनुसन्धानम्
+## द्वयेय् आनुकूल्य-प्रातिकूल्याभावौ
 
 <details><summary>English</summary>
 
@@ -3355,7 +3355,7 @@ Esto debe considerarse como se hace referencia en esas dos palabras en Dvaya.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(तद् एवम् -)+++ इप्पडि **विशिष्टऩ् आऩ** स्वामियैक् **काट्टुगिऱ** शब्दङ्गळ्  
++++(तद् एवम् -)+++ इप्पडि **विशिष्टऩ् आऩ** स्वामियैक् **काट्टुगिऱ** +++(श्रीमन्-नारायण-)+++ शब्दङ्गळ्  
 औचित्यत्ताले अवऩ् तिऱत्तिल्+++(=पक्षे)+++ प्राप्तम् आऩ  
 अभिमतानुवर्तन-सङ्कल्पत्तैयुम्  
 अनभिमत-निवर्तनत्तैयुम् **प्रकाशिप्पिक्किऩ्ऱऩ**। 
@@ -4271,7 +4271,8 @@ A este respecto, Appullar declaró que
 इप्पडि भगवाऩुडैय सर्वस्मात्परत्वत्तैयुम् तऩ्ऩुडैय अत्यन्तनैच्यत्तैयुम् अनुसन्धित्तु महाविश्वासमऩ्ऱिक्के अवऩै विट्टु अगलुवदे उसिदमो? महाविश्वासत्तै सिल गुणमूलमाग सम्पादित्तु आश्रयिप्पदे उसिदमो वॆऩ्ऱु शङ्गैवर अदऱ्कु अप्पुळ्ळार् समाधानमरुळिच्चॆय्दारॆऩ्गिऱार् इव्विडत्तिलित्यादिना । इव्विडत्तिल् - कीऴ्च्चॊऩ्ऩ सन्देहम् वन्दुविट्टदिल्। सर्वेश्वरऩुडैय परत्वमात्रत्तैयऱिन्दु इति । इङ्गु मात्रपदत्ताले सौलभ्यसौशील्यादिव्यावृत्तिः । अगलुगैयाले - अवऩै विट्टुविडुगैयाले। नराधमऩॆऩ्ऱु पेर्बॆऱ्ऱ - भगवत्परत्वज्ञानादिगळिरुन्दुम् सौलभ्यादिगळैयुम् कूड अनुसन्धियामैयाले ‘‘हरेर्विज्ञाय पारम्यमपगच्छेन्नराधमः’’ ऎऩ्ऱु नराधमत्वेन व्यवह्रियमाणऩाऩ। इप्पडि सर्वोत्कृष्टमाऩ परत्वज्ञानमुडैयवऩै नराधमऩॆऩ्ऱु शास्त्रम् ताऩ् व्यवहरिक्कक्कूडुमोवॆऩ्ऩ वरुळिच्चॆय्गिऱार्बिऱन्दुगॆट्टाऩिऱ्काट्टिलिति । पिऱन्दुम् - भगवाऩुडैय परत्वज्ञानम्बिऱन्दुम्। कॆट्टाऩिऱ्काट्टिल् - भगवाऩै आश्रयिप्पदुम् तविर्न्दु विबरीदमाग विट्टगऩ्ऱु कॆट्टुप्पोऩवऩैक्काट्टिलुम्। लोकत्तिल् पुरुषार्थानुभवत्तिऱ्कु हेतुवाऩ पिऱप्पे पापानुष्ठानमात्रत्तिऱ्कु हेतुवाऩाल् अवऩुक्कुप् पिऱप्पे केडाऩाप्पोले इवऩुक्कु श्लाघ्यमाऩ परत्वज्ञानम् आश्रयणीयतैक्कु हेतुवागामल् तद्विपरीतमाय् अगलुगैक्कु हेतुवाऩबोदु इवऩुक्कु परत्वज्ञानम् पिऱन्ददे अनर्थावहमागैयाल् इवऩ् पिऱन्दु कॆट्टाऩॆऩ्ऱु अभिप्रायम्। इप्पडियिवऩ् पिऱन्दु कॆट्टाऩागैयाल् इवऩै शास्त्रम् नराधमऩॆऩ्ऱु व्यवहरित्तदे युक्तमॆऩ्ऱु करुत्तु। इडैच्चिगळैप् पोले विवेकमिल्लैये यागिलुमिति । परमपुरुषऩ् सर्वोत्कृष्टऩॆऩ्ऱुम्, ताऩ् निकृष्टऩॆऩ्ऱुम् स्वपरयाथात्म्यज्ञानमिल्लैयेयागिलुम् ऎऩ्ऱबडि। इङ्गु अपिशब्दत्ताले विवेकमुमिरुन्दु सौलभ्यत्तैयुमऱिन्दु आश्रयिप्पवऩ् विवेकमिल्लामल् सौलभ्यत्तै यऱिन्दु आश्रयिप्पवऩै काट्टिलुम् परमास्तिकऩॆऩ्ऱु सूचितमागिऱदु। सौलभ्यत्तै यऱिन्दु - आश्रयणीयतैक्कु उऱुप्पाऩ सौलभ्यमॊऩ्ऱैये अऱिन्दु। अन्नलऩुडै यॊरुवऩै - अन्द स्वामित्व सौशील्य सौलभ्यादिकल्याणगुणङ्गळैयुडैय ऒरुवऩै। एतादृशगुणवत्तया सजातीयरहितऩाऩ भगवाऩै। नणुगुमवऩे - किट्टुमवऩे। परमास्तिकऩॆऩ्ऱु - आस्तिकोत्तमऩॆऩ्ऱु। अप्पुळ्ळार् - वादिहंसाम्बुवाहाचार्याः । इङ्गु ‘‘सौलभ्यवेदी भजते कश्चित्तं परमास्तिकः’’ ऎऩ्गिऱ वचनार्थम् अभिप्रेतम्। इङ्गु 'अन्नलऩुडै यॊरुवऩै नणुगिऩम् नामे' ऎऩ्गिऱ नम्माऴ्वार् पासुरमुम् प्रत्यभिज्ञातमाय् इव्विषयत्तिल् प्रमाणमुमागिऱदु। इप्पडि सौलभ्यम् तॆळिन्दवऩ् महाविश्वासपूर्वकमाग भगवाऩै नणुगलामॆऩ्ऱु अप्पुळ्ळार् अरुळिच्चॆय्ददालुम्, ‘‘सौलभ्यवेदी भजते’’ ऎऩ्गिऱ वचनमिरुप्पदालुम् ऎम्बार् पासुरम् सौलभ्यमऱियाद परत्वज्ञानमात्रमुडैयवऩ् विषयमॆऩ्ऱु ज्ञापिक्कप्पडुगिऱदु।  
 </details>
 
-### द्वयेऽनुसन्धन्
+## द्वयेऽङ्गान्तराणि 
+### महाविश्वासः कार्पण्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्पडि पुरुष-कारादि-ज्ञानत्ताले पिऱन्द विश्वास-महत्त्वमुम्, विश्वास-स्वरूपमुम्, कार्पण्यमुम्  
@@ -4303,13 +4304,13 @@ the root pad in prapadye occurring with the word śaranam and in the first perso
 
 <details><summary>Español</summary>
 
-The greatness of this supreme faith born of a knowledge of such things as helpful recommendation (purushakāra) from Lakṣmī ,  
-the essential nature of this faith  
-and the feeling of helplessness  
-are to be seen respectively  
-in the preposition pra in prapadye (in Dvaya ),  
-the root pad in prapadye occurring with the word śaranam and in the first person singular in prapadye.
-
+La grandeza de esta fe suprema **nacida** de un **conocimiento** de cosas como una **recomendación** útil (Purushakāra) de Lakṣmī,  
+La naturaleza esencial de esta fe  
+y la sensación de impotencia  
+**se pueden ver** respectivamente  
+en la preposición pra en Prapadye (en dvaya),  
+la raíz "pad" en Prapadye que ocurre con la palabra Śaranam   
+y en la primera persona singular en Prapadye.
 </details>
 
 
@@ -4342,7 +4343,8 @@ In Saranāgati Gadya, Śrī Rāmānuja explains the implication contained in the
 
 <details><summary>Español</summary>
 
-In Saranāgati Gadya, Śrī Rāmānuja explains the implication contained in the first person singular (prapadye) as meaning "I  have no other refuge". 
+En Saranāgati Gadya, Śrī Rāmānuja **explica** la implicación **contenida** en la primera persona singular (Prapadye)  
+como lo que significa "**No tengo** otro refugio".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4375,8 +4377,8 @@ Therefore the supplication (or prayer for protection ) is implicit in the words 
 
 <details><summary>Español</summary>
 
-In Dvaya the words Saranam prapadye express supreme faith in the Lord's protection.  
-Therefore the supplication (or prayer for protection ) is implicit in the words which express supreme faith in the upāya (though not actually stated in so many words ).  
+En Dvaya, las palabras "Saranam Prapadye" **expresan** fe suprema en la **protección** del Señor.  
+Por lo tanto, la **súplica** (o **oración** por la protección) **está implícita** en las palabras que expresan la fe suprema en el upāya (aunque en realidad no se declara en tantas palabras).  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4398,7 +4400,7 @@ Therefore the supplication (or prayer for protection ) is implicit in the words 
 
 </details>
 
-#### उपाय-निश्चयः
+### आत्म-निक्षेपः / उपाय-निश्चयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘अहम् अस्म्य् अपराधानाम्  
@@ -4426,11 +4428,11 @@ It has been said
 
 <details><summary>Español</summary>
 
-It has been said 
+**Se ha dicho**
 
-> " I am the abode of transgressions;  
-> I am without any other means of protecting myself,  
-> I have nothing else to attain than Thee." 
+> "**Soy** la morada de transgresiones;  
+> **No tengo** ningún otro medio para **protegerme**,  
+> **No tengo** nada más que **lograr** que ti ".
 </details>
 
 
@@ -4475,9 +4477,9 @@ It has been said
 
 <details><summary>Español</summary>
 
-> "Be pleased to be my upāya.  
-> This thought of prayer is called śaraṇāgati.  
-> Let it be performed to the Lord.” 
+> "**Se complace** en **ser** mi upāya.  
+> Este pensamiento de la oración **se llama** śaraṇāgati.  
+> Que **se realice** al Señor ".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4495,19 +4497,21 @@ It has been said
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘उपाये गृह-रक्षित्रोश्  
+> उपाये गृह-रक्षित्रोश्  
 शब्दश् शरणम् इत्य् अयम् ।  
-वर्तते, सांप्रतं त्व् एष  
-उपायार्थैकवाचकः’’  
-(अहिर्बुध्न्य-संहिता ३७-२९।) 
+वर्तते, सांप्रतं +++(द्वय-मन्त्रे)+++ त्व् एष  
+उपायार्थैक-**वाचकः**॥  
++++(मीमांसक-मते विधिषु तत्-सम्बद्ध-मन्त्रेष्व् अभिधैकत्वाग्रहात्)+++  
+(अहिर्बुध्न्य-संहिता ३७-२९।)
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘उपाये गृह-रक्षित्रोश्  
+> उपाये गृह-रक्षित्रोश्  
 शब्दश् शरणम् इत्य् अयम् ।  
-वर्तते, सांप्रतं त्व् एष  
-उपायार्थैकवाचकः’’  
+वर्तते, सांप्रतं +++(द्वय-मन्त्रे)+++ त्व् एष  
+उपायार्थैक-**वाचकः**॥  
++++(मीमांसक-मते विधिषु तत्-सम्बद्ध-मन्त्रेष्व् अभिधैकत्वाग्रहात्)+++  
 (अहिर्बुध्न्य-संहिता ३७-२९।)
 </details>
 
@@ -4520,18 +4524,16 @@ Further
 > any one of the following :  
 > upāya, house and protector;  
 > here it means only upāya." 
-
 </details>
 
 <details><summary>Español</summary>
 
-Further 
+Más
 
-> "this word śaranam is employed to mean  
-> any one of the following :  
-> upāya, house and protector;  
-> here it means only upāya." 
-
+> "Esta palabra Śaranam **se emplea** para **significar**  
+> Cualquiera de los siguientes:  
+> upāya, casa y protector;
+> Aquí **significa** solo upāya ".
 </details>
 
 
@@ -4575,11 +4577,11 @@ and stands therefore in the place of other upāyas.
 
 <details><summary>Español</summary>
 
-The Lord of all, besides being the protector in the general sense, as stated in all śāstras  
-should, in the case of the prapanna,  
-be thought of steadfastly as being an upāya,  
-since he has accepted the responsibility of protecting him  
-and stands therefore in the place of other upāyas. 
+El Señor de todos, además de **ser** el **protector** en el sentido general, como **se indica** en todos los Śāstras  
+**Debería**, en el caso de Prapanna,  
+**ser considerado** firmemente como un upāya,  
+ya que **ha aceptado** la responsabilidad de **protegerlo**  
+y **se encuentra**, por lo tanto, en el lugar de otros upāyas. 
 </details>
 
 
@@ -4636,9 +4638,9 @@ may remain steadfast without seeking other upāyas.
 
 <details><summary>Español</summary>
 
-Besides, the Lord should be thought of as an upāya  
-in order that this adhikārī (namely, the prapanna) who has surrendered the responsibility for his protection to the Lord  
-may remain steadfast without seeking other upāyas.
+Además, el Señor debe **ser considerado** como un upāya  
+Para que este adhikārī (a saber, el Prapanna) que **haya entregado** la responsabilidad de su **protección** al Señor  
+**puede permanecer** firme sin buscar otros upāyas.
 </details>
 
 
@@ -4673,8 +4675,8 @@ and this means may be either sentient or non-sentient.
 
 <details><summary>Español</summary>
 
-The word upāya stands for "the means to secure an end"  
-and this means may be either sentient or non-sentient. 
+La palabra upāya **representa** "los medios para **asegurar** un fin"  
+Y esto puede ser sensible o no sensible.
 </details>
 
 
@@ -4688,7 +4690,7 @@ and this means may be either sentient or non-sentient.
 आऩाल् गोप्तृत्ववरणमुम् अनुसन्धेयमागवेण्डुमोवॆऩ्ऩ, अदिल् उपपत्तिकळै उपपादिक्किऱार् उपायमॆऩ्ऱाल् ऒरु विरगु ऎऩ्ऱ मात्रमागैयाले इति । ऒरु विरगु ऎऩ्ऱ मात्रम् - ऒरु कारणमॆऩ्ऱ मात्तिरम्। आगैयाले इति । उपायशब्दम् सामान्यमाग कारण-मात्रवाचियागैयालेयॆऩ्ऱबडि। इव्वुपायत्वम् - इन्द कारणत्वम्, चेतनाचेतनसाधारण मायिरुक्कैयालुम् - चेतनऩाऩ भगवाऩुक्कुम् अचेतऩैयाऩ भक्तिक्कुम् साधारण-मायिरुक्कैयालुम्। इन्द उपायत्वरूप साधारणधर्मत्तै परमचेतनऩाऩ भगवाऩिडत्तिल् रक्षकत्वे अदावदु गोप्तृत्वे पर्यवसिप्पिक्कवेण्डुगैयाले ऎऩ्ऱबडि। 
 </details>
 
-#### गोप्तृत्व-वरणम्
+### गोप्तृत्व-वरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘रक्षिष्यतीति विश्वासो  
@@ -4715,10 +4717,10 @@ It has been said:-
 
 <details><summary>Español</summary>
 
-It has been said:-  
+Se ha dicho:-
 
-> "Among the aṅgas to prapatti are the faith that He will protect  
-> and the supplication or prayer for protection "
+> "Entre los aṅgas a Prapatti **están** la fe que protegerá  
+> y la **súplica** o oración por la protección "
 </details>
 
 
@@ -4755,10 +4757,10 @@ It has been said:-
 
 <details><summary>Español</summary>
 
-> " The Lord who controls everything,  
-> though He is omniscient and always compassionate  
-> expects a prayer for protection,  
-> since He has to look after the process of saṁsāra". 
+> "El Señor que **controla** todo,  
+> Aunque **es** omnisciente y siempre compasivo  
+> **espera** una oración por protección,  
+> Dado que **tiene** que **cuidar** el proceso de Saṁsāra ".
 </details>
 
 
@@ -4795,9 +4797,9 @@ the word saranam in Dvaya, which means upāya, implies also the prayer for prote
 
 <details><summary>Español</summary>
 
-Since the upāya or means in this case is a sentient being (namely, the Lord),  
-and the prayer for protection (or goptṛtva varaṇam) which is applicable only to sentient beings is necessary here,  
-the word saranam in Dvaya, which means upāya, implies also the prayer for protection. 
+Dado que el upāya o los medios en este caso **es** un ser sensible (es decir, el Señor),  
+y la **oración** por la **protección** (o goptṛtva varaṇam) que es aplicable solo a los seres sintientes **es necesaria** aquí,  
+La palabra saranam en dvaya, que **significa** upāya, **implica** también la **oración** por la protección.
 </details>
 
 
@@ -4814,18 +4816,20 @@ the word saranam in Dvaya, which means upāya, implies also the prayer for prote
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
++++(मीमांसक-मते विधिषु तत्-सम्बद्ध-मन्त्रेष्व् अभिधैकत्वाग्रहात्)+++  
 अदिल् शरण-शब्दम्  
 ऒरु प्रयोगत्तिले इरण्ड् अर्थत्तैय् अभिधानम् पण्ण-माट्टामैयालेय्  
-इव्व्-अधिकारिक्कु अ-साधारणम् आऩ उपायत्वाध्यवसायम् इव्व्-इडत्तिले शाब्दम् आय्  
+इव्व्-अधिकारिक्कु अ-साधारणम् आऩ उपायत्वाध्यवसायम् +++(न "रक्षा")+++ इव्व्-इडत्तिले शाब्दम् आय्  
 सर्वाधिकारि-साधारणम् आऩ गोप्तृत्व-वरणम्  
 आर्थम् आगक् कडवदु।  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
++++(मीमांसक-मते विधिषु तत्-सम्बद्ध-मन्त्रेष्व् अभिधैकत्वाग्रहात्)+++  
 तत्र शरण-शब्देन  
 एकस्मिन् प्रयोगे ऽर्थद्वयाभिधानस्याशक्यत्वात्  
-अस्याधिकारिणो ऽसाधारण उपायत्वाध्यवसायो ऽत्र शाब्दः,  
+अस्याधिकारिणो ऽसाधारण उपायत्वाध्यवसायो +++(न "रक्षा")+++ ऽत्र शाब्दः,  
 सर्वाधिकारि-साधारणं गोप्तृत्व-वरणम् आर्थम्  
 इति भवितुम् अर्हति ॥ 
 </details>
@@ -4842,12 +4846,12 @@ is understood by implication from the meaning.
 
 <details><summary>Español</summary>
 
-Since the word saranam cannot have two +++(abhidhAna)+++ meanings when it is used only once,  
-(we should understand that) in the Dvaya, the steadfast thought of the Lord being an upāya  
-which is peculiar to the adhikārī called prapanna  
-is brought out by the word saranam itself  
-and that the prayer for protection which is common to all adhikārīs  
-is understood by implication from the meaning.
+Dado que la palabra saranam **no puede tener** dos significados +++(abhidhana)+++ cuando **se usa** solo una vez,  
+(Deberíamos **entender** que) En el dvaya, el firme **pensamiento** de que el Señor **sea** un upāya  
+que **es peculiar** del adhikārī **llamado** Prapanna  
+es **sacado** por la palabra saranam en sí  
+y que la **oración** por la **protección** que es común a todos los adhikārīs  
+**se entiende** por la implicación del significado.
 </details>
 
 
