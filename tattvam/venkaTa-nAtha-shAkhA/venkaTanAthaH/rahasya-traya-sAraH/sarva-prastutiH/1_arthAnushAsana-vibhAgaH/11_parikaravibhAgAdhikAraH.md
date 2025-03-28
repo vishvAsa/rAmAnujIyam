@@ -4834,6 +4834,15 @@ La palabra saranam en dvaya, que **significa** upāya, **implica** también la *
 इति भवितुम् अर्हति ॥ 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+उपायत्वेन मोक्ष-दान-रूप--रक्षण-विशेष उच्यते।  
+शरणम् = रक्षेत्य् एतावद् एव स्वीकृते तु  
+रक्षा-विशेषो नोच्येत।  
+स्वाभिप्राय-निवेदनं न तत्र स्यात्। 
+</details>
+
+
 <details><summary>English</summary>
 
 Since the word saranam cannot have two +++(abhidhAna)+++ meanings when it is used only once,  
