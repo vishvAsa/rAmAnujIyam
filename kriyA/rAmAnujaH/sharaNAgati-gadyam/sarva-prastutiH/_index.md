@@ -2,6 +2,23 @@
 title = "+सर्व-प्रस्तुतिः"
 +++
 
+॥ शरणागतिगद्यम् ॥
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+आङ्ग्लानुवादाः [शठकोपक्षेत्रे](https://www.sadagopan.org/pdfuploads/Saranagathi%20Gadyam.pdf) ।
+
+टीका [ऽत्र](https://archive.org/details/gadyatrayamramanujacharyasrutaprakasikabhasyasudarsanasurirahasyaraksavedantades) ।
+</details>
+
+<details><summary>FX Clooney</summary>
+
+This is my translation, though I have benefited from consulting the translation of Ramanujam (2002). For the Sanskrit, I have followed Ramanujam and also consulted Krishnaswami Ayyangar (1976). The following prayer is counted as number 5 in most editions of the Gadyam.
+
+Throughout, I use exclamation points to mark vocatives.
+</details>
+
+
+
 <details><summary>सुदर्शन-भट्टः</summary>
 
 यतीन्द्र-कृतभाष्यार्था  
@@ -25,7 +42,7 @@ title = "+सर्व-प्रस्तुतिः"
 
 <details><summary>वेङ्कट-नाथः</summary>
 
-###### गुरुवन्दनं - प्रतिज्ञा च
+गुरुवन्दनं - प्रतिज्ञा च
 
 प्रख्यात-श्रुत-विभवान् गुरून् अशेषान्  
 **प्रश्रित्य प्रणयति** वेङ्कटेश-सूरिः ।  
@@ -42,8 +59,9 @@ title = "+सर्व-प्रस्तुतिः"
 अत्र भगवान् भाष्यकारः  
 सदाचार्य-सम्प्रदायागत-द्वय-वचनेन  
 स्वयम् अनुष्ठितं न्यासाख्य-विद्या-विशेषं  
++++(प्रपत्ति-प्रयोगम् आचार्योपदेशतो ग्राह्यं न वदन्न् अपि)+++  
 स्वानुबन्धि-सञ्जिजीवयिषया  
-यथावत् प्रकाशयन्
++++(नित्य-ग्रन्थवद् मुख्यांशान्)+++ यथावत् प्रकाशयन् +++(5)+++  
 
 > 'सीताम् उवाचातियशा  
 राघवञ्च महाव्रतम्', (रा.अयो.३१-२)
