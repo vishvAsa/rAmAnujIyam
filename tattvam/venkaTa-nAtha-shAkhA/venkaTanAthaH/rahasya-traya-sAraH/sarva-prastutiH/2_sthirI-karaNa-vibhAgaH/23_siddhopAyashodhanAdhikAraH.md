@@ -394,10 +394,149 @@ que **es el desbordamiento** del disfrute ilimitado de Bhagavān.
 
 
 
+## भगवन्-निग्रह-निवर्तक-त्रयम्
+<details><summary>English</summary>
 
 THREE CAUSES BY WHICH THE LORD'S GRACE IS WON:
+</details>
 
-There are three main causes for the removal of the will of the Lord imposed on men as a punishment for past sins, owing to which the jīvas who are subject to the sway of past karma have no clear knowledge concerning the upāya that is already existent (namely Bhagavān), the upāya by which His favour is secured (Sādhyopāya) and also the potency of these upāyas. They are as follows:- One is the speech that comes from the lips of Lakṣmī : If one asks, “May this Śaraṇāgati by mine!" Her reply is "Let it be yours; everything will be obtained by it alone." Next is the grace of the goodācārya and the third is the observance of the tradition of the righteous. The means (vyāja) by which the grace of the good ācārya  can be secured and the benefits arising therefrom may be understood from the episodes of [^63] Parāśara, Maitreya, Sañjaya, Aśvalāyana and others.
+<details><summary>Español</summary>
+
+Tres causas por las cuales **se gana** la gracia del Señor:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थङ्गळिल्  
+ज्ञातव्यतमम् आऩ सिद्धोपायत्तैप् पऱ्ऱवुम्  
+साद्ध्योपाय-विषयम् आगवुम्  
+इव्व्-उपाय-प्रभाव-विषयम् आगवुम्  
+
+कर्म-वश्यरुक्कुक् कडुगत्+++(=शीघ्रं)+++ तॆळिवु पिऱवामैक्कु  
+स्व-तन्त्रऩ् आऩ सर्वेश्वरऩ्  
+इवर्गळ्-उडैय पूर्वापराधत्तालेय् इट्ट निऩैप्प् ईडु+++(=सम)+++-माऱुगैक्कु+++(=परिवर्तनाय)+++  
+प्रधान-कारणम् मूऩ्ऱ् उण्डु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[१८३]] 
+
+एष्व् अर्थेषु  
+ज्ञातव्यतमे सिद्धोपाय-विषये, साध्योपाय-विषये, एतद्-उपाय-प्रभावविषये च  
+
+कर्म-वश्यानां झटिति विशद-ज्ञानस्यानुत्पत्तये  
+
+स्व-तन्त्रेण सर्वेश्वरेण  
+एतदीय-पूर्वापराधानुगुणं कृतस्य संकल्पस्य निवर्तनार्थं  
+प्रधानकारणानि त्रीणि भवन्ति ।  
+</details>
+
+<details><summary>English</summary>
+
+There are three main causes  
+for the removal of the will of the Lord  
+imposed on men as a punishment for past sins,  
+owing to which the jīvas who are subject to the sway of past karma  
+have no clear knowledge concerning  
+the upāya that is already existent (namely Bhagavān),  
+the upāya by which His favour is secured (Sādhyopāya)  
+and also the potency of these upāyas. 
+</details>
+
+<details><summary>Español</summary>
+
+**Hay** tres causas principales  
+Para la **eliminación** de la voluntad del Señor  
+**impuesto** a los hombres como **castigo** por los pecados pasados,  
+debido a los cuales los Jīvas que **están sujetos** al dominio del karma pasado  
+**no tiene conocimiento** claro sobre  
+el upāya que ya es existente (**es decir**, bhagavān),  
+el upāya por el cual su favor está **asegurado** (sādhyopāya)
+y también la potencia de estos upāyas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थङ्गळिल् ज्ञातव्यतममाऩ सिद्धोपायत्तैप्पऱ्ऱवुम् साद्ध्योपायविषयमागवुम् इव्वुपायप्रभावविषयमागवुम् कर्मवश्यरुक्कुक्कडुगत्तॆळिवु पिऱवामैक्कु स्वतन्त्रऩाऩ सर्वेश्वरऩ् इवर्गळुडैय पूर्वापराधत्तालेयिट्ट निऩैप्पीडुमाऱुगैक्कु प्रधानकारणम् मूऩ्ऱुण्डु। 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि अर्थानुशासनभागत्तिलेये सर्वार्थमुम् सॊल्लप्पट्टिरुक्क स्थिरीकरणभागम् अवश्यकर्तव्यमो? कीऴ्च् चॊऩ्ऩवर्थङ्गळिल् तॆळिवु उण्डाय् प्रपन्नराऩार्गळुक्कु उक्तार्थत्तिल् कलक्क मुण्डागुमो? हैतुकरोट्टै संसर्गत्ताले बुद्धिचलनमुम्, अदडियाग शङ्कादिगळुम् सम्भविक्कलामॆऩ्ऩिल्; अप्पोदु ऎल्ला अर्थत्तैयुम् स्थिरीकरिक्कवेण्डियिरुक्क, सिद्धोपाय साद्ध्यापाय तत्प्रभावमात्रशोधनम् पोदुमोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् इव्वर्थङ्गळिलित्यादिना । 
+
+ज्ञातव्यतममाऩ इति । इदऩाल् सिद्धापायादिगळ् प्रधानतमङ्गळागैयाले तच्छोधनमे आवश्यकमॆऩ्बदु ज्ञापितम्। कडुगत् तॆळिवुबिऱवामैक्कु - शीघ्रमाग समीचीननिर्णयमुण्डागामैक्कु। इट्ट निऩैप्पु - इवऩ् सिद्धोपायादिगळै शीघ्र  
+माग वऱियक्कडवऩल्लऩ् ऎऩ्गिऱ भगवत्सङ्कल्पम्। ईडुमाऱुगैक्कु - निवृत्तियडै वदऱ्कु, निवृत्तिपूर्वकमाऩ समीचीनज्ञानोत्पत्तिक्कु ऎऩ्ऱबडि। प्रधानकारणम् मूऩ्ऱुण्डु इति । अप्रधानकारणङ्गळ् अनेकङ्गळिरुन्दालुम् प्रधानकारणम् मूऩ्ऱे ऎऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अवैय् ऎवै" यॆऩ्ऩिल्;  
+‘‘+++(शरणागतिर्)+++ अस्तु मे’’ ऎऩ्ऱ् अपेक्षित्ताल्  
+‘‘अस्तु ते तयैव सर्वं संपत्स्यते’’  
+ऎऩ्गिऱ तिरु-मुखप्-पासुरमुम्,  
+सदाचार्यानुग्रहमुम्, सत्-संप्रदाय-सिद्धियुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तानि कानीति चेत् —  
+“+++(शरणागतिर्)+++ अस्तु" इत्य्-अपेक्षणे कृते सति,  
+"अस्तु ते तथैव सर्वं संपत्स्यते" इति श्री-मुख-सूक्तिः,  
+सद्-आचार्यानुग्रहः,  
+सत्-संप्रदाय-सिद्धिश्चेति । 
+</details>
+
+<details><summary>English</summary>
+
+They are as follows:-  
+
+One is the speech that comes from the lips of Lakṣmī :  
+If one asks,  
+“May this Śaraṇāgati be mine!"  
+Her reply is  
+"Let it be yours;  
+everything will be obtained by it alone."  
+
+Next is the grace of the good ācārya  
+and the third is the observance of the tradition of the righteous. 
+</details>
+
+<details><summary>Español</summary>
+
+Son los siguientes:-
+
+Uno es el **discurso** que **proviene** de los labios de Lakṣmī:  
+Si uno **pregunta**,  
+"¡Que este Śaraṇāgati **sea** mío!"  
+Su respuesta es  
+"Que **sea** tuyo;  
+Todo **será obtenido** solo por él ".
+
+La siguiente **es** la gracia del buen ācārya  
+y el tercero **es** la observancia de la tradición de los justos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवैयॆवै यॆऩ्ऩिल्; ‘‘अस्तु मे’’ ऎऩ्ऱबेक्षित्ताल् ‘‘अस्तु ते तयैव सर्वं संपत्स्यते’’ ऎऩ्गिऱ तिरुमुगप्पासुरमुम्, सदाचार्यानुग्रहमुम्, सत्संप्रदायसिद्धियुम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अदिऩ् स्वरूपत्तै प्रश्न-पूर्वकम् आग विवरिक्किऱार् अवैयॆवैयॆऩ्ऩिलित्यादिना ।  
+    
+अस्तु ते तयैव सर्वं सम्पत्स्यते ऎऩ्गिऱ तिरुमुगप्पासुरमुम् - श्रीगद्यत्तिल् प्रत्युत्तरम्  पोलरुळिच्चॆय्यप्पट्ट लक्ष्मियिऩुडैय तिरुप्पवळत्तिऩ् श्रीसूक्तियुम्, सदाचार्यानुग्रहमुमिति । इदुवुम् अदृष्टविधया समीचीनज्ञानकारणम्।  
+सत्सम्प्रदायसिद्धियुमिति ॥ इदु साक्षात् ज्ञानहेतुवॆऩ्बदु मेले विशदम्।
+</details>
+
+
+
+
+The means (vyāja) by which the grace of the good ācārya  can be secured and the benefits arising therefrom may be understood from the episodes of [^63] Parāśara, Maitreya, Sañjaya, Aśvalāyana and others.
 
 [^63]: By the advice of Vasiṣṭa, Parāśara put a stop to the performance of a satra (sacrifice) which was aimed at the destruction of Rākṣasas. Pleased with this, Vasiṣṭa and Pulastya blessed him for his forbearance with a knowledge of the śāstras and with the gifts necessary for the composition of a purāṇa. Maitreya studied the Vedas, the dharma śāstra s and the Vedaṅgas from his guru and, by his grace, obtained a knowledge of Vedānta  by which he realised how the origin, maintenance and destruction of the world occur and how there is nothing other than Viṣṇu .
 
