@@ -142,13 +142,14 @@ y ser **usado** por él.
 प्रणवत्तिल् प्रथमाक्षरत्तिल् प्रकृति-प्रत्ययङ्गळाले  
 सर्व-रक्षकऩ् आय्, सर्व-शेषिय् आय्त् तोऱ्ऱिऩ सर्वेश्वरऩैप् पऱ्ऱ  
 
-आत्मात्मीय-रक्षण-व्यापारत्तिलुम्  
-आत्मात्मीय-रक्षण-फलत्तिलुम्  
-स्वाधीनम् आगवुं, स्वार्थम् आगवुन्  
+आत्मात्मीय-**रक्षण**-व्यापारत्तिलुम्  
+आत्मात्मीय-**रक्षण**-फलत्तिलुम्  
+स्वाधीनम् आगवुं, स्वार्थम् आगवुं  
 तऩक्कु **अन्वयम् इल्लाद बडि**  
 
 भर-न्यास-प्रधानम् आऩ  
-अत्यन्त-पारतन्त्र्य-विशिष्ट-**शेषत्वानुसन्धान**-विशेषम्।  
+अत्यन्त-पारतन्त्र्य-विशिष्ट-**शेषत्वानुसन्धान**-विशेषम्  
++++(←भर-न्यास-प्राधान्यम्, न काम्य-प्रपत्तिवत्)+++।  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -158,7 +159,8 @@ y ser **usado** por él.
 आत्मात्मीय-रक्षण-व्यापारे आत्मात्मीय-रक्षण-फले च  
 स्वाधीनतया स्वार्थतया च स्वस्यान्वयो यथा न स्यात्  
 तथा भर-न्यास-प्रधानो  
-ऽत्यन्त-पारतन्त्र्य-विशिष्ट-शेषत्वानुसन्धान-विशेषः ॥ 
+ऽत्यन्त-पारतन्त्र्य-विशिष्ट-शेषत्वानुसन्धान-विशेषः  
++++(←भर-न्यास-प्राधान्यम्, न काम्य-प्रपत्तिवत्)+++॥ 
 </details>
 
 <details><summary>English</summary>
@@ -171,6 +173,7 @@ in the activity of protecting one-self or those related to one-self
 and also in what results from the protection of oneself and those related to oneself,  
 either as depending upon one self  
 or as bringing about some results for oneself.  
+
 It is the specific form of thought  
 that one is śeṣa to the Lord  
 and is entirely dependent upon the Lord -  
@@ -180,19 +183,22 @@ surrendering the responsibility of protection (bharanyāsa) to the Lord.
 
 <details><summary>Español</summary>
 
-That is; one should realise that,  
-in relation to the Lord of all who appears in the base and the suffix of the first letter in the praṇava (i.e. "a" which means Iśvara and the suffix of the dative or fourth case which has been dropped i.e. aya (for the Lord of all))  
-as the protector of all and the śeṣī  of all,  
-one has no interest or connection at all  
-in the activity of protecting one-self or those related to one-self  
-and also in what results from the protection of oneself and those related to oneself,  
-either as depending upon one self  
-or as bringing about some results for oneself.  
-It is the specific form of thought  
-that one is śeṣa to the Lord  
-and is entirely dependent upon the Lord -  
-in this, the most important feature is  
-surrendering the responsibility of protection (bharanyāsa) to the Lord.
+Eso es; uno **debe darse cuenta** de que,
+En relación con el Señor de todos los que **aparecen** en la base y el sufijo de la primera letra en la praṇava  
+(es decir, "a" que significa iśvara  
+y el sufijo del dativo o cuarto caso que **se ha eliminado**, **es decir**, Aya (para el Señor de todos))  
+Como el protector de todos y el Śeṣī de todos,  
+uno **no tiene ningún interés ni conexión** en absoluto  
+en la **actividad** de **proteger** un uno mismo o aquellos relacionados con un solo  
+y también en lo que resulta de la protección de uno mismo y los relacionados con uno mismo,  
+ya sea como **dependiendo** de un yo  
+o como **traer** algunos resultados para uno mismo.  
+
+**Es** la forma específica de **pensamiento**  
+ese **es** Śeṣa para el Señor  
+y **depende** completamente del Señor -  
+En esto, la característica más importante **es**  
+**Rinción** de la responsabilidad de la protección (Bharanyāsa) al Señor.
 </details>
 
 
@@ -203,7 +209,18 @@ surrendering the responsibility of protection (bharanyāsa) to the Lord.
 
 <details><summary>सार-बोधिनी</summary>
 
-कीऴ्च्चॊऩ्ऩ अपूर्वमाऩ दृष्टान्तत्तिल् अवऩुडैय सॊत्तै अवऩिडत्तिलेये समर्पित्तु अदऩाल् वरुम् फलत्तिल् तऩक्कु अन्वयमिल्लामैयैक्काट्टि, अन्द फलम् उडैयवऩुक्के यॆऩ्ऱुम् समर्पितवस्तुवै रक्षित्तुक्कॊळ्ळवेण्डिय भरमुम् उडैयवऩुडैयदेयॆऩ्ऱुम् निरूपिक्कैयाल् कीऴ्च्चॊऩ्ऩ शङ्कैकळुक्कु उत्थितिये वारादॆऩ्ऱु करुत्तु। आत्मनिक्षेपत्तिऩुडैय यथावस्थितस्वरूपत्तै विशदमाग वॆळियिडुगिऱार् अदावदु इत्यादिना । यथावस्थितात्मनिक्षेपमावदु ऎऩ्ऱबडि। प्रकृतिप्रत्ययङ्गळाले इति । प्रकृति – अकारम्। प्रत्ययम् - लुप्तचतुर्थी । इवैगळाले ऎऩ्ऱबडि। सर्वरक्षकऩाय् - अव रक्षणे ऎऩ्गिऱ धातुविले निष्पन्नमाऩ अकाररूपप्रकृतियाले सर्वरक्षकऩाय् लुप्तमाऩ तादर्थ्यचतुर्थियाले सर्वशेषियाय्, इव्विरण्डु विशेषणङ्गळालुम् रक्षणव्यापारफलङ्गळिल् आत्मावुक्कु अन्वयमिल्लामै यथाक्रमम् काट्टप्पडुगिऱदु। तोऱ्ऱिऩ सर्वेश्वरऩैप्पऱ्ऱ इति । तदुद्देश्यकमाऩ तन्निरूपितमाऩ वॆऩ्ऱबडि। इदऱ्कु शेषत्वानुसन्धानविशेषमॆऩ्गिऱ विडत्तिल् शेषत्वपदार्थत्तिल् अन्वयम्। शेषत्वानुसन्धानत्तुक्कु विशेषत्तैयरुळिच्चॆय्गिऱार् आत्मात्मीयरक्षणव्यापारत्तिलुमित्यादिना । अवऩ् सर्वरक्षकऩाय् तोऩ्ऱुगैयाल् इवऩुक्कु स्वरक्षणव्यापारत्तिल् स्वाधीनमाग अन्वयमिल्लै। आत्मात्मीयरक्षणफलत्तिलुमिति । अवऩ् सर्वशेषियागत् तोऩ्ऱुगैयाल् आत्मात्मीयरक्षणफलत्तिलुम् अदावदु रक्षणजन्यातिशयभाक्त्वत्तिलुम् स्वार्थमाग अन्वयमिल्लै। तऩक्कु अन्वयमिल्लादबडि - तथा च एतदुभयान्वयो यथा न स्यात् तथा, भरन्यासप्रधानमाऩ इति । शेषत्वानुसन्धानविशिष्टरक्षाभरसमर्पणम् आत्मनिक्षेपशब्दार्थः । ‘‘आत्मात्मीयभरन्यासो ह्यात्मनिक्षेप उच्यते’’ इत्युक्तेः । अदिल् भरन्यासम् प्रधानमिऱे। उडैयवऩुक्कु उडैमैयै समर्पिप्पदु अदिऩ् रक्षणभरत्तै अवऩ् मेले एरिडुगैक्कागविऱे। विशेषान्तरत्तैयुमरुळिच् चॆय्गिऱार् अत्यन्तपारतन्त्र्यविशिष्टेति । अत्यन्तपारतन्त्र्यमावदु - शेषियैप्पऱ्ऱ भृत्यऩुक्कुळ्ळ लोकदृष्टमाऩ पारतन्त्र्यम् पोलऩ्ऱिक्के आत्मात्मीयङ्गळुडैय सत्तास्थितिप्रवृत्तिकळॆल्लाम् तदधीनङ्गळायिरुक्कै। शेषत्वानुसन्धानविशेषम् - तत्प्रयोजनैकप्रयोजनत्वानुसन्धानविशेषम्। भरन्यासप्रधानत्वमुम् अत्यन्तपारतन्त्र्यविशिष्टशेषत्वविषयकत्वमुम् इव्वनुसन्धानत्तिऱ्कु विशेषम्। शेषत्वानुसन्धानविशेषम् आत्मनिक्षेपमॆऩ्ऱदाल् ग्रहणप्रक्षेपणादिकायिकव्यापारविषयमल्लाद आत्मावै आभरणत्तै निक्षेपिक्किऱाप्पोले निक्षेपिक्कत्ताऩ् कूडुमो? ऎऩ्गिऱ शङ्कै दूरोत्सारितम्। ग्रहणप्रक्षेपयोग्यमल्लाद आत्मावै ईश्वरऩुक्कु शेषऩॆऩ्ऱु निऩैप्पदे इङ्गु ईश्वरऩिडत्तिल् आत्मावुक्कु निक्षेपमागैयालुम् लोकत्तिल् क्षेत्रसमर्पणम् पण्णुम् ऒरुवऩै इवऩ् इन्द क्षेत्रत्तै देवदत्तऩुक्कु समर्पित्तुविट्टाऩॆऩ्ऱाल् ग्रहणप्रक्षेपानर्हमाऩ अन्द क्षेत्रत्तिऱ्कु समर्पणमावदु परशेषत्वानुसन्धानरूपमागवुम् काण्गैयालुम् कायिकव्यापारविषयस्यैव समर्पणमॆऩ्ऱु नियममिल्लामैयाले ग्रहणप्रक्षेपानर्हमाऩ आत्मावुक्कु भगवच्छेषत्वानुसन्धानरूपनिक्षेपम् अत्यन्तम् सुसङ्गतमॆऩ्ऱु तिरुवुळ्ळम्।  
+कीऴ्च्चॊऩ्ऩ अपूर्वमाऩ दृष्टान्तत्तिल् अवऩुडैय सॊत्तै अवऩिडत्तिलेये समर्पित्तु अदऩाल् वरुम् फलत्तिल् तऩक्कु अन्वयमिल्लामैयैक्काट्टि, अन्द फलम् उडैयवऩुक्के यॆऩ्ऱुम् समर्पितवस्तुवै रक्षित्तुक्कॊळ्ळवेण्डिय भरमुम् उडैयवऩुडैयदेयॆऩ्ऱुम् निरूपिक्कैयाल् कीऴ्च्चॊऩ्ऩ शङ्कैकळुक्कु उत्थितिये वारादॆऩ्ऱु करुत्तु। आत्मनिक्षेपत्तिऩुडैय यथावस्थितस्वरूपत्तै विशदमाग वॆळियिडुगिऱार् अदावदु इत्यादिना । यथावस्थितात्मनिक्षेपमावदु ऎऩ्ऱबडि। प्रकृतिप्रत्ययङ्गळाले इति । प्रकृति – अकारम्। प्रत्ययम् - लुप्तचतुर्थी । इवैगळाले ऎऩ्ऱबडि। सर्वरक्षकऩाय् - अव रक्षणे ऎऩ्गिऱ धातुविले निष्पन्नमाऩ अकाररूपप्रकृतियाले सर्वरक्षकऩाय् लुप्तमाऩ तादर्थ्यचतुर्थियाले सर्वशेषियाय्, इव्विरण्डु विशेषणङ्गळालुम् रक्षणव्यापारफलङ्गळिल् आत्मावुक्कु अन्वयमिल्लामै यथाक्रमम् काट्टप्पडुगिऱदु। तोऱ्ऱिऩ सर्वेश्वरऩैप्पऱ्ऱ इति । तदुद्देश्यकमाऩ तन्निरूपितमाऩ वॆऩ्ऱबडि। इदऱ्कु शेषत्वानुसन्धानविशेषमॆऩ्गिऱ विडत्तिल् शेषत्वपदार्थत्तिल् अन्वयम्। शेषत्वानुसन्धानत्तुक्कु विशेषत्तैयरुळिच्चॆय्गिऱार् आत्मात्मीयरक्षणव्यापारत्तिलुमित्यादिना । अवऩ् सर्वरक्षकऩाय् तोऩ्ऱुगैयाल् इवऩुक्कु स्वरक्षणव्यापारत्तिल् स्वाधीनमाग अन्वयमिल्लै। आत्मात्मीयरक्षणफलत्तिलुमिति । अवऩ् सर्वशेषियागत् तोऩ्ऱुगैयाल् आत्मात्मीयरक्षणफलत्तिलुम् अदावदु रक्षणजन्यातिशयभाक्त्वत्तिलुम् स्वार्थमाग अन्वयमिल्लै। तऩक्कु अन्वयमिल्लादबडि - तथा च एतदुभयान्वयो यथा न स्यात् तथा, भरन्यासप्रधानमाऩ इति । शेषत्वानुसन्धानविशिष्टरक्षाभरसमर्पणम् आत्मनिक्षेपशब्दार्थः । 
+
+‘‘आत्मात्मीयभरन्यासो ह्यात्मनिक्षेप उच्यते’’ इत्युक्तेः । 
+
+अदिल् भरन्यासम् प्रधानमिऱे। उडैयवऩुक्कु उडैमैयै समर्पिप्पदु अदिऩ् रक्षणभरत्तै अवऩ् मेले एरिडुगैक्कागविऱे। विशेषान्तरत्तैयुमरुळिच् चॆय्गिऱार् अत्यन्तपारतन्त्र्यविशिष्टेति । अत्यन्तपारतन्त्र्यमावदु - शेषियैप्पऱ्ऱ भृत्यऩुक्कुळ्ळ लोकदृष्टमाऩ पारतन्त्र्यम् पोलऩ्ऱिक्के आत्मात्मीयङ्गळुडैय सत्तास्थितिप्रवृत्तिकळॆल्लाम् तदधीनङ्गळायिरुक्कै। 
+
+**शेषत्वानुसन्धानविशेषम्** - तत्-प्रयोजनैक-प्रयोजनत्वानुसन्धान-विशेषम्।   
+भरन्यास-प्रधानत्वमुम्  
+अत्यन्त-पारतन्त्र्य-विशिष्ट-शेषत्व-विषयकत्वमुम्  
+इव्व्-अनुसन्धानत्तिऱ्कु विशेषम्।  
+
+शेषत्वानुसन्धानविशेषम् आत्मनिक्षेपमॆऩ्ऱदाल् ग्रहणप्रक्षेपणादिकायिकव्यापारविषयमल्लाद आत्मावै आभरणत्तै निक्षेपिक्किऱाप्पोले निक्षेपिक्कत्ताऩ् कूडुमो? ऎऩ्गिऱ शङ्कै दूरोत्सारितम्। ग्रहणप्रक्षेपयोग्यमल्लाद आत्मावै ईश्वरऩुक्कु शेषऩॆऩ्ऱु निऩैप्पदे इङ्गु ईश्वरऩिडत्तिल् आत्मावुक्कु निक्षेपमागैयालुम् लोकत्तिल् क्षेत्रसमर्पणम् पण्णुम् ऒरुवऩै इवऩ् इन्द क्षेत्रत्तै देवदत्तऩुक्कु समर्पित्तुविट्टाऩॆऩ्ऱाल् ग्रहणप्रक्षेपानर्हमाऩ अन्द क्षेत्रत्तिऱ्कु समर्पणमावदु परशेषत्वानुसन्धानरूपमागवुम् काण्गैयालुम् कायिकव्यापारविषयस्यैव समर्पणमॆऩ्ऱु नियममिल्लामैयाले ग्रहणप्रक्षेपानर्हमाऩ आत्मावुक्कु भगवच्छेषत्वानुसन्धानरूपनिक्षेपम् अत्यन्तम् सुसङ्गतमॆऩ्ऱु तिरुवुळ्ळम्।  
 </details>
 
 ## अङ्गि-स्वरूपानुष्ठान-प्रकारः
@@ -214,7 +231,7 @@ THE MANNER IN WHICH BHARANYĀSA SHOULD BE PERFORMED:
 
 <details><summary>Español</summary>
 
-THE MANNER IN WHICH BHARANYĀSA SHOULD BE PERFORMED:
+La manera en que **se debe realizar** bharanyāsa:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -234,7 +251,9 @@ The manner in which this form of mental realisation contained in the injunction 
 
 <details><summary>Español</summary>
 
-The manner in which this form of mental realisation contained in the injunction "One should surrender one's self to me" should be effected is as follows:- 
+La forma en que esta forma de realización mental **contenida** en la orden judicial  
+"Uno **debería entregarme** a mí mismo"  
+**debe efectuarse** es el siguiente:-
 </details>
 
 
@@ -282,17 +301,16 @@ The person should realise this within himself: viz.,
 
 <details><summary>Español</summary>
 
-The person should realise this within himself: viz., 
+La persona **debe darse cuenta** de esto dentro de sí mismo: a **saber**,
 
-> "I am absolutely dependent (upon the Lord);  
-> I am His śeṣa  
-> and exist only for Him.  
-> My śeṣatva does not belong to anybody else  
-> and has no dependence on anybody else.  
-> Therefore Iśvara who is the śeṣī  
-> and who is independent  
-> should protect me for the fulfilment of His own purposes. 
-
+> "Soy absolutamente **dependiente** (sobre el Señor);  
+> **Soy** su Śeṣa  
+> y **existir** solo para él.  
+> Mi Śeṣatva **no pertenece** a nadie más  
+> y **no tiene dependencia** de nadie más.  
+> Por lo tanto, iśvara, que **es** el Śeṣī  
+> Y **quién es** independiente  
+> **Debería protegerme** para el **cumplimiento** de sus propios propósitos.
 </details>
 
 
@@ -356,7 +374,7 @@ I do not belong to myself,
 
 <details><summary>सार-बोधिनी</summary>
 
-‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्गिऱ वचनत्तिल् परस्वत्वापादनमात्रम् सॊल्लियिरुक्किऱदे यॊऴिय स्वसम्बन्धिनिवृत्ति श्रुतमागविल्लैये यॆऩ्ऩ? अदिल् प्रमाणमरुळिच्चॆय्गिऱार् आत्मापि चायं न मम ऎऩ्गिऱबडिये इत्यादिना । अपि च शब्दत्ताले आत्मीयसङ्ग्रहः । इन्द प्रमाणबलत्ताले स्वसम्बन्धत्यागमुम्, मयि निक्षिपेत् ऎऩ्गिऱ परस्वत्वापादकविधिवाक्यत्तिल् विवक्षितमॆऩ्ऱु करुत्तु। उरियेऩल्लेऩ् - योग्यऩल्लेऩ्। नाऩ् ऎऩक्कु शेषऩागैक्कु उरियेऩल्ले ऩॆऩ्ऱबडि। ऒऩ्ऱै - ऒरु वस्तुवैयुम्, ऎऩ्ऩदॆऩ्ऱवुम् उरियेऩल्लेऩ् - मदीयमॆऩ्ऱु अभिमानिक्कैक्कुम् योग्यऩल्लेऩ्। 
+‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्गिऱ वचनत्तिल् परस्वत्वापादनमात्रम् सॊल्लियिरुक्किऱदे यॊऴिय स्वसम्बन्धिनिवृत्ति श्रुतमागविल्लैये यॆऩ्ऩ? अदिल् प्रमाणमरुळिच्चॆय्गिऱार् आत्मापि चायं न मम ऎऩ्गिऱबडिये इत्यादिना । अपि च शब्दत्ताले आत्मीयसङ्ग्रहः । इन्द प्रमाणबलत्ताले स्वसम्बन्धत्यागमुम्, मयि निक्षिपेत् ऎऩ्गिऱ परस्वत्वापादकविधिवाक्यत्तिल् विवक्षितमॆऩ्ऱु करुत्तु। उरियेऩल्लेऩ् - योग्यऩल्लेऩ्। नाऩ् ऎऩक्कु शेषऩागैक्कु उरियेऩल्ले ऩॆऩ्ऱबडि। 
 </details>
 
 ### अस्वामिता
@@ -378,7 +396,7 @@ nor can I say that any thing belongs to me unconditionally.
 
 <details><summary>Español</summary>
 
-nor can I say that any thing belongs to me unconditionally. 
+Tampoco **puedo decir** que **nada me pertenece** incondicionalmente.
 </details>
 
 
@@ -389,16 +407,17 @@ nor can I say that any thing belongs to me unconditionally.
 
 <details><summary>सार-बोधिनी</summary>
 
+ऒऩ्ऱै - ऒरु वस्तुवैयुम्, ऎऩ्ऩदॆऩ्ऱवुम् उरियेऩल्लेऩ् - मदीयम् ऎऩ्ऱु अभिमानिक्कैक्कुम् योग्यऩल्लेऩ्।  
 आत्मीयमाऩ इव्वस्तुक्कळै ऎऩ्ऩदॆऩ्ऱभिमानिक्कक् काण्गिऱोमे यॆऩ्ऱु शङ्कियामैक्काग निरुपाधिकेति । अन्द अभिमानम् सोपाधिकशेषवस्तुविषयकमागैयाल् बाधकमिल्लै यॆऩ्ऱु करुत्तु। यागत्तिल् इन्द्राय इदं न मम ऎऩ्गिऱ विडत्तिल् इन्द्रोद्देशेन समर्पितहविस्सिल् स्वसम्बन्धत्यागम् पोले भगवच्छेषतयानुसंहितमाऩ आत्माविल् स्वशेषत्वाभावप्रतिसन्धानमुम् भगवच्छेषतयानुसंहितमाऩ आत्मीयङ्गळिल् निरुपाधिकस्वशेषत्वयोग्यताभावप्रतिसन्धानमुम् स्वसम्बन्धत्यागमागिऱदु ऎऩ्ऱ भिप्रायम्। 
 </details>
 
 ### अ-रक्षकत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
->> ‘‘स्वयं मृत्-पिण्ड-भूतस्य  
+>> ॥स्वयं मृत्-पिण्ड-भूतस्य  
 > परतन्त्रस्य देहिनः ।  
-> स्व-रक्षणे ऽप्य् अशक्तस्य  
-> को हेतुः पर-रक्षणे’’  
+> स्व-रक्षणे ऽप्य् अ-शक्तस्य  
+> को हेतुः पर-रक्षणे॥  
 > (भारतम् शान्ति-पर्व २९४-१९) +++(5)+++
 </details>
 
@@ -411,24 +430,26 @@ nor can I say that any thing belongs to me unconditionally.
 > (भारतम् शान्ति-पर्व २९४-१९) +++(5)+++
 </details>
 
+<details><summary>विषयः</summary>
+
+कार्पण्यम्, रक्षा, ईश्वरः
+</details>
+
+
 <details><summary>English</summary>
 
-As stated in the śloka  -  
-
 > " The embodied being who is like a lump of clay  
-> and is entirely dependent on the Lord)  
+> and is entirely dependent on the Lord  
 > is not able to protect himself;  
 > how can he protect others ?', 
 </details>
 
 <details><summary>Español</summary>
 
-As stated in the śloka  -  
-
-> " The embodied being who is like a lump of clay  
-> and is entirely dependent on the Lord)  
-> is not able to protect himself;  
-> how can he protect others ?', 
+> "El **ser encarnado** que es como un trozo de arcilla  
+> y **depende** completamente del Señor  
+> **no es capaz** de **protegerse**;  
+> ¿Cómo **puede proteger** a los demás? ',
 </details>
 
 
@@ -460,16 +481,20 @@ As stated in the śloka  -
 
 <details><summary>English</summary>
 
+> As stated in these  -  
 > I am incapable of protecting myself  
 > and those who are said to be mine,  
-> independently (of the Lord) or for the sake of myself as the main person interested in it." 
+> independently (of the Lord) or for the sake of myself  
+> as the main person interested in it." 
 </details>
 
 <details><summary>Español</summary>
 
-> I am incapable of protecting myself  
-> and those who are said to be mine,  
-> independently (of the Lord) or for the sake of myself as the main person interested in it."
+> Como se indica en estos -  
+> **Soy incapaz** de **protegerme**  
+> y aquellos que **se dice** que son míos,  
+> Independientemente (del Señor) o por el bien de mí mismo  
+> como la persona principal **interesada** en él ".
 </details>
 
 
@@ -511,9 +536,9 @@ As stated in the śloka  -
 
 <details><summary>Español</summary>
 
-> "I and what is mine are His.  
-> The responsibility of protecting these is also that of the Lord  
-> who is the universal Protector" 
+> "Yo y lo que **es** mío son suyos.  
+> La responsabilidad de **proteger** esto es también la del Señor  
+> quién **es** el **protector** universal "
 </details>
 
 <details><summary>मूलम्</summary>
@@ -529,23 +554,15 @@ As stated in the śloka  -
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎऩ्ऱु विवेकिगळ् अनुसन्धित्त क्रमत्तिले  
+> ऎऩ्ऱु विवेकिगळ् अनुसन्धित्त क्रमत्तिले  
 ऎऩ्ऩ्-उडैय आात्मात्मीयङ्गळुम् अवऩदे, 
-</details>
-
-
-
-<details><summary>मूलम्</summary>
-
-ऎऩ्ऱु विवेकिकळ् अनुसन्धित्त क्रमत्तिले ऎऩ्ऩुडैय आात्मात्मीयङ्गळुमवऩदे, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-इति विवेक्य्-अनुसंहित-क्रमेण  
+> इति विवेक्य्-अनुसंहित-क्रमेण  
 मदीयानि आत्मात्मीयान्यपि तदीयान्य् एव  
 </details>
-
 
 <details><summary>English</summary>
 
@@ -556,11 +573,15 @@ we should also say (this)
 
 <details><summary>Español</summary>
 
-Just as the wise Uparicharvasu always felt that his soul, his kingdom, his wealth, his wife, and his vehicles were all for Bhagavān,  
-we should also say (this) 
-
+Así como el sabio uparicharvasu siempre **sintió**  
+que su alma, su reino, su riqueza, su esposa y sus vehículos eran para Bhagavān,  
+También **debemos decir** (esto)
 </details>
 
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु विवेकिकळ् अनुसन्धित्त क्रमत्तिले ऎऩ्ऩुडैय आात्मात्मीयङ्गळुमवऩदे, 
+</details>
 
 <details><summary>सार-बोधिनी</summary>
 
@@ -581,18 +602,14 @@ we should also say (this)
 
 <details><summary>English</summary>
 
-for it is said : 
-
 > " the surrender of the responsibility for one's self and of what is one's  
 > is called atmanikṣepa."
 </details>
 
 <details><summary>Español</summary>
 
-for it is said : 
-
-> " the surrender of the responsibility for one's self and of what is one's  
-> is called atmanikṣepa."
+> "La **rendición** de la responsabilidad de uno mismo y de lo que es de uno 
+> **se llama** atmanikṣepa ".
 </details>
 
 
@@ -614,6 +631,18 @@ for it is said :
 <details><summary>नीलमेघः (सं)</summary>
 
 इत्युक्तेरेषां रक्षणभरोऽपि 
+</details>
+
+<details><summary>English</summary>
+
+for it is said (thus):  
+(The responsibility of this protection,)  
+</details>
+
+<details><summary>Español</summary>
+
+porque **se dice** (así):  
+(La **responsabilidad** de esta protección ),
 </details>
 
 
@@ -647,8 +676,8 @@ for it is said :
 
 <details><summary>Español</summary>
 
-> " There is no one other than Bhagavān  
-> who is capable of affording protection ". 
+> "**No hay nadie** más que Bhagavān  
+> Quién **es capaz** de **brindar protección** ".
 </details>
 
 
@@ -670,7 +699,19 @@ for it is said :
 
 <details><summary>नीलमेघः (सं)</summary>
 
-इत्युक्तरीत्या सर्वरक्षकस्य तस्यैव; 
+इत्युक्तरीत्या सर्व-रक्षकस्य तस्यैव; 
+</details>
+
+<details><summary>English</summary>
+
+(as it is been thus said,  
+it belongs to the protector of all)
+</details>
+
+<details><summary>Español</summary>
+
+(como se **ha dicho** así,  
+**pertenece** al protector de todos)
 </details>
 
 
@@ -706,10 +747,10 @@ for it is said :
 
 <details><summary>Español</summary>
 
-> "Ātmanikṣepa consists (also) in giving up all relationship to the fruit  
-> resulting from His protection  
-> and surrendering it (viz the fruit) to Keśava who is the chief beneficiary".
-
+> "Ātmanikṣepa **consiste** (también) en **renunciar** a toda relación con la fruta  
+> resultante de su protección  
+> y **entregarlo** (a saber la fruta) a Keśava,  
+> quien **es** el principal beneficiario ".
 </details>
 
 
@@ -717,8 +758,6 @@ for it is said :
 
 ‘‘तेन संरक्ष्यमाणस्य फले स्वाम्यवियुक्तता । केशवार्पणपर्यन्ता ह्यात्मनिक्षेप उच्यते’’ (लक्ष्मीतन्त्रम् १७-७३।) 
 </details>
-
-
 
 <details><summary>सार-बोधिनी</summary>
 
@@ -745,8 +784,8 @@ for it has been said (thus)
 
 <details><summary>Español</summary>
 
-The fruit of this protection should also be considered primarily His,  
-for it has been said (thus) 
+El fruto de esta **protección** también **debe considerarse** principalmente suyo,  
+porque **se ha dicho** -  
 </details>
 
 
@@ -783,16 +822,18 @@ for it has been said (thus)
 
 To all seekers of mokṣa  (whether bhaktas or prapannas),  
 the surrender of one's svarūpa or self and the rest (i.e) the fruit in common.  
+
 To one who has no other upāya ((i.e.) prapannā) and is therefore akinchana,  
 the surrender of the responsibility of protection (bharanyása ) is an additional aṅgī. 
 </details>
 
 <details><summary>Español</summary>
 
-To all seekers of mokṣa  (whether bhaktas or prapannas),  
-the surrender of one's svarūpa or self and the rest (i.e) the fruit in common.  
-To one who has no other upāya ((i.e.) prapannā) and is therefore akinchana,  
-the surrender of the responsibility of protection (bharanyása ) is an additional aṅgī. 
+A todos los **buscadores** de Mokṣa (ya sea Bhaktas o Prapannas),  
+la **rendición** de la svarūpa o el yo y el resto (es decir) el fruto en común.  
+
+A alguien que **no tiene** otro upāya ((es decir) Prapannā) y, por lo tanto, es Akinchana,  
+La **rendición** de la responsabilidad de la protección (Bharanyása) es un Aṅgī adicional.
 </details>
 
 
@@ -833,10 +874,12 @@ the surrender of one's self or svarūpa and also of the fruit arising therefrom 
 
 <details><summary>Español</summary>
 
-To all prapannas, whatever may be the object desired by them,  
-the surrender of the responsibility is common.  
-To those prapannas who are desirous of (only) mokṣa ,  
-the surrender of one's self or svarūpa and also of the fruit arising therefrom is an additional (requirement).
+A todas las prapaninas, cualquiera que **sea** el objeto **deseado** por ellos,  
+La **rendición** de la responsabilidad es común.  
+
+A aquellos Prapannas que **desean** (solo) mokṣa,  
+La **rendición** de uno mismo o svarūpa y también de la fruta que **surge** de la misma  
+**es** un (requisito) adicional.
 </details>
 
 
@@ -859,7 +902,7 @@ IŚVARA IS THE PRINCIPAL BENEFICIARY :
 
 <details><summary>Español</summary>
 
-IŚVARA IS THE PRINCIPAL BENEFICIARY :
+IŚVARA **ES** LA BENEFICIARIA PRINCIPAL:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
