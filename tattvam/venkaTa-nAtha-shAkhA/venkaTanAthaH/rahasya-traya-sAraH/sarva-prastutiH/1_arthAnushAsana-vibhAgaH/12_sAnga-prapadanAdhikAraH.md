@@ -21,7 +21,7 @@ title = "१२ साङ्ग-प्रपदनाधिकारः"
 
 अभीष्टे **दुस्-साधे** स्वत इतरतो वा, क्वचन तत्  
 भर-न्यासं याच्ञान्वितम् **अभिवदन्ति** प्रपदनम् ।  
-"इतः पश्चाद् अस्मद्-यतन-निरपेक्षेण भवता  
+"इतः पश्चाद् अस्मद्-**यतन-निरपेक्षेण** भवता  
 समर्थ्यो ऽसाव् अर्थस्" त्व् इति मति-विशेषं तद् **अविदुः** ॥ २८ ॥
 </details>
 
@@ -29,7 +29,7 @@ title = "१२ साङ्ग-प्रपदनाधिकारः"
 
 अभीष्टे **दुस्-साधे** स्वत इतरतो वा, क्वचन तत्  
 भर-न्यासं याच्ञान्वितम् **अभिवदन्ति** प्रपदनम् ।  
-"इतः पश्चाद् अस्मद्-यतन-निरपेक्षेण भवता  
+"इतः पश्चाद् अस्मद्-**यतन-निरपेक्षेण** भवता  
 समर्थ्यो ऽसाव् अर्थस्" त्व् इति मति-विशेषं तद् **अविदुः** ॥ २८ ॥
 </details>
 
@@ -48,13 +48,13 @@ without my making any effort of my own hereafter."
 
 <details><summary>Español</summary>
 
-When a desired object is incapable of attainment by oneself and by other upāyas,  
-prapatti is the placing of the responsibility or burden of securing it in somebody who is capable of doing so  
-with a request or supplication.  
-It is declared to be the specific thought such as (the following):  
+Cuando un objeto **deseado es incapaz de logro** por uno mismo y por otros upāyas,  
+Prapatti **es** la **colocación** de la responsabilidad o la carga de **asegurarlo** en alguien que **sea capaz** de **hacerlo**  
+con una **solicitud o súplica**.  
+**Se declara** que es el pensamiento específico, como (lo siguiente):
 
-> "This object should be accomplished (for me) by you  
-without my making any effort of my own hereafter."
+> "Este objeto debe **ser logrado** (para mí) por ti  
+**sin hacer** ningún esfuerzo de mi propio esfuerzo ".
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -87,18 +87,18 @@ without my making any effort of my own hereafter."
 
 मुमुक्षुव् आऩ अधिकारिक्कु  
 इव्व्-उपायत्तिल् अङ्गि-स्वरूपम् आवदु  
-आभरणत्तैय् +++(स्वामिने←)+++उडैयवऩुक्कु  
++++(आत्मा→)+++ आभरणत्तैय् +++(तत्-स्वामिने←)+++उडैयवऩुक्कु  
 अवऩ् ताऩे रक्षित्तुक्-कॊण्डु पूणक्+++(=आभरणार्थं)+++ कॊडुक्कुमाप् पोले  
-यथावस्थिम् आऩ आत्म-निक्षेपम्। 
++++(फल-स्वरूप-त्यागौ→)+++ यथावस्थिम् आऩ आत्म-निक्षेपम्। +++(5)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 मुमुक्षोर् अधिकारिणो ऽस्मिन्न् उपाये  
 ऽङ्गि-स्वरूपं तावत् -  
-आभरणस्य तत्-स्वामिने  
++++(आत्मा→)+++ आभरणस्य तत्-स्वामिने  
 तेनैव रक्षण-पूर्वक-धार्यत्वार्थं प्रदानवत्  
-यथावस्थित **आत्म-निक्षेपः** । 
++++(फल-स्वरूप-त्यागौ→)+++यथावस्थित **आत्म-निक्षेपः** । +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -115,14 +115,14 @@ and to be worn by him.
 
 <details><summary>Español</summary>
 
-In this upāya ( consisting of angi and aṅgas ) to be adopted by the seeker after mokṣa ,  
-the angī is the surrender of one's self or ātmā  
-with a clear understanding (that)  
-neither in the prapatti nor in the fruit thereof, one has any independence;  
-it should be in the same way as one would surrender a jewel belonging to another  
-to that person himself  
-to be kept safe by him  
-and to be worn by him.
+En esto upāya (que consiste en angi y aṅgas) para **ser adoptado** por el **buscador** después de mokṣa,  
+El angī **es** la **rendición** de uno mismo o ātmā  
+con un **entendimiento** claro (que)  
+ni en el Prapatti ni en la fruta del mismo, uno **tiene** independencia;  
+**Debería ser** de la misma manera que **se entregaría** una joya que pertenece a otra  
+a esa persona él mismo  
+para **mantener** a salvo por él  
+y ser **usado** por él.
 </details>
 
 <details><summary>मूलम्</summary>
