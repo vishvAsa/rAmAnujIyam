@@ -894,7 +894,7 @@ La **rendición** de uno mismo o svarūpa y también de la fruta que **surge** d
 </details>
 
 
-## ईश्वरस्य प्रधानफलत्वम्
+## ईश्वरस्य प्रधानफलित्वम्
 <details><summary>English</summary>
 
 IŚVARA IS THE PRINCIPAL BENEFICIARY :
@@ -915,9 +915,22 @@ IŚVARA **ES** LA BENEFICIARIA PRINCIPAL:
 
 <details><summary>नीलमेघः (सं)</summary>
 
-फलार्थिनि उपायानुष्ठातरि जीवे फलिनि विद्यमाने सति 
-ईश्वरोऽत्र प्रधानफली कथं भवतीति चेत् — 
+"फलार्थिनि उपायानुष्ठातरि जीवे फलिनि विद्यमाने सति 
+ईश्वरोऽत्र प्रधानफली कथं भवती"ति चेत् — 
 </details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+जीवस्येह फलम् इष्टं संसार-पीडा-रूप-+अनिष्ट-निवृत्तिः।  
+तच् चानिष्टम् अमुत्र न भवतीति, तदात्वे स्पष्टम् भगवतः प्रधान-फलित्वम्।  
+
+तद् यथा काचित् कन्या विवाहात् पूर्वं वर-चितौ स्वसुखम् एवेक्षते, 
+विवाहात् परं तु पति-परिवारस्यैव हितं स्व-सुखाद् अपि पुरः करोति। 
+
+संस्कार-हेतुना तु बद्ध-दशायाम् एव भगवत्-सेवा काङ्क्षिततमा स्यात् - स्व-पीडा-निवृत्तेर् अप्य् अधिकम्। 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -931,12 +944,15 @@ the answer is as follows:-
 
 <details><summary>Español</summary>
 
-If it is asked how,  
-when the Jīva who performs prapatti as the upāya  
-for the sake of some gain or fruit  
-is the person interested in the fruit,  
-Iśvara becomes the chief beneficiary,  
-the answer is as follows:-
+Si **se pregunta** 
+
+> cómo,  
+Cuando el Jīva que **realiza** Prapatti como el upāya  
+por el bien de alguna **ganancia** o fruta  
+**es** la persona **interesada** en la fruta,  
+Iśvara **se convierte** en el principal beneficiario,  
+
+La **respuesta** es la siguiente:-
 </details>
 
 
@@ -979,11 +995,11 @@ Being the śeṣī  of all, He is the chief beneficiary.
 
 <details><summary>Español</summary>
 
-Iśvara becomes the chief beneficiary, because,  
-just like the modifications of acit or matter,  
-the benefits (purushārthas) granted by Him to cit (jīva)  
-are pleasing to Him.  
-Being the śeṣī  of all, He is the chief beneficiary.  
+Iśvara **se convierte** en el principal beneficiario, porque,  
+Al igual que las modificaciones de ACIT o Materia,  
+Los beneficios (Purushārthas) **otorgados** por él a Cit (Jīva)  
+**le agradan**.  
+**Siendo** el Śeṣī de todos, él **es** el principal beneficiario. 
 </details>
 
 
@@ -1020,9 +1036,9 @@ is not different (in kind)
 
 <details><summary>Español</summary>
 
-the delight in melting dolls made of metals and shaping them into ornaments  
-and wearing them in admiration of their beauty  
-is not different (in kind)
+La **delicia** por la **fusión** de muñecas **hechas** de metales y las **moldeas** en adornos  
+y **usarlos** en **admiración** de su belleza  
+**no es** diferente (en especie)
 </details>
 
 
@@ -1044,7 +1060,7 @@ is not different (in kind)
 पञ्जरत्तिल् **वैत्तुप्**, पाल् कॊडुत्तुम्,  
 वेण्डिऩ बडि पऱक्क विट्टुम्  
 अदिऩ् उगप्पु कण्डु उगक्किऱद्-ओडुव्  
-आसिय् इल्लैयिऱे निरपेक्षर् आऩ रसिकर्क्कु।  
+आसिय् इल्लैयिऱे निरपेक्षर् आऩ रसिकर्क्कु +++(भगवन्-निभानाम्)+++।  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -1052,8 +1068,14 @@ is not different (in kind)
 चेतनस्य शुकस्य पञ्जरे निधानपूर्वं क्षीरदानेन  
 स्वैरं बहुलं सञ्चारणेन च  
 तदीयानन्दस्य दर्शनेन नन्दने च  
-नास्ति किल तारतम्यं निरपेक्षाणां रसिकानाम् ॥ 
+नास्ति किल तारतम्यं निरपेक्षाणां रसिकानाम् +++(भगवन्-निभानाम्)+++॥ 
 </details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+बाल-शिक्षायाम् अपि पिता फल्य् एव।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1067,12 +1089,12 @@ who is not in need of anything.
 
 <details><summary>Español</summary>
 
-... from the delight enjoyed by him  
-in keeping a sentient being like a parrot in a cage  
-and feeding it with milk  
-and seeing it fly according to His pleasure,  
-to a man of cultivated tastes,  
-who is not in need of anything.
+... desde el deleite que **disfruta** de él  
+Al **mantener** una sensación como un loro en una jaula  
+y **alimentarlo** con leche  
+y **verlo volar** según su placer,  
+a un hombre de gustos cultivados,  
+quien **no necesita** nada.
 </details>
 
 
@@ -1105,7 +1127,7 @@ Therefore,
 
 <details><summary>Español</summary>
 
-Therefore, 
+Por lo tanto,
 </details>
 
 
@@ -1123,16 +1145,16 @@ Therefore,
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-स्व-निर्भरत्व-पर्यन्त-  
-रक्षकैकार्थ्य-भावनम् ।  
+स्व-निर्भरत्व-पर्यन्त+++(→भावनम्)+++--  
+रक्षकैकार्थ्य+++(←फलादि-प्रत्यर्पणेन)+++-भावनम् ।  
 त्यक्त-रक्षा-फल-स्वाम्यं  
 रक्ष्यस्यात्म-**समर्पणम्** ॥ २८-इ॥
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-स्व-निर्भरत्व-पर्यन्त-  
-रक्षकैकार्थ्य-भावनम् ।  
+स्व-निर्भरत्व-पर्यन्त+++(→भावनम्)+++--  
+रक्षकैकार्थ्य+++(←फलादि-प्रत्यर्पणेन)+++-भावनम् ।  
 त्यक्त-रक्षा-फल-स्वाम्यं  
 रक्ष्यस्यात्म-**समर्पणम्** ॥ २८-इ॥
 </details>
@@ -1147,10 +1169,10 @@ and this should be accompanied by the knowledge that the fruits of such surrende
 
 <details><summary>Español</summary>
 
-ātmasamarpanam (the surrendering of the self to the Lord for protection) means here  
-the realisation of the self as existing solely for the purpose of the Saviour  
-and that to such an extent that the self feels no further responsibility, whatever, for its own protection  
-and this should be accompanied by the knowledge that the fruits of such surrender are not one's own. 
+ātmasamarpanam (la **rendición** del yo al Señor para la **protección**) **significa** aquí  
+la **realización** del yo como **existente** únicamente para el **propósito** del Salvador  
+y eso hasta tal punto que el yo **no siente** más **responsabilidad**, lo que **sea**, para su propia **protección**  
+y esto **debería estar acompañado** por el **conocimiento** de que los frutos de tal **rendición no son** propios. 
 </details>
 
 
@@ -1162,7 +1184,21 @@ and this should be accompanied by the knowledge that the fruits of such surrende
 
 <details><summary>सार-बोधिनी</summary>
 
-स्वनिर्भरत्वपर्यन्तेत्यादि । रक्ष्यस्य – रक्ष्यभूतवस्तुवुक्कु; आत्मात्मीय माऩ रक्ष्यभूतवस्तुवुक्कॆऩ्ऱबडि। आत्मसमर्पणम् - ‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्ऱु विहितमाऩ आत्मसमर्पणमाऩदु। त्यक्तरक्षाफलस्वाम्यं – रक्षाफल ऎऩ्बदु स्वरूपत्तिऱ्कुम् उपलक्षणम्। तथा च स्वरूपरक्षाफलानां स्वाम्यं त्यक्तं यस्मिन् तत् । इदु भावऩैयिल् अन्वयिक्किऱदु। इदऩाल् स्वरूपभरफलङ्गळिल् स्वसम्बन्धत्यागम् सॊल्लप्पडुगिऱदु। स्वनिर्भरत्वपर्यन्तरक्षकैकार्थ्यभावनं – स्वनिर्भरत्वपर्यन्तं च तत् रक्षकैकार्थ्यभावनञ्चेति शीतोष्णवत्समासः । ‘‘मयि निक्षिप्तकर्तव्यः कृतकृत्यो भविष्यति’’ ऎऩ्ऱु सॊऩ्ऩ निर्भरत्वं पर्यन्तमवसाने यस्य तत् स्वनिर्भरत्वपर्यन्तम् । इतः परं मम रक्षायां भरो नास्तीति यथा दृढाध्यवसायः अन्ते भवेत् तादृशमिति यावत् । रक्षकैकार्थ्यभावनं – रक्षकस्य – भगवतः, ऐकार्थ्यं – तस्यैकस्यैव इमे स्वरूपरक्षाभरफलरूपार्थाः नान्यस्य । इति भावनं – रक्षकैकार्थ्यभावनं, कीऴ् त्यक्तरक्षाफलस्वाम्यं ऎऩ्गिऱ विडत्तिल् स्वरूपभरफलानां स्वसम्बन्धत्यागम् सॊल्लियिरुप्पदाल् तेषामेव रक्षकैकार्थ्यभावन मिङ्गु अवश्यम् कॊळ्ळवेण्डुम्। इदऩाल् आत्मसमर्पणम् स्वरूपभरफलङ्गळुक्कु स्वनिर्भरत्वपर्यन्तमाऩ परसम्बन्धानुसन्धानम् ऎऩ्ऱु निगमिक्कप्पट्टदु। तथाच ‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्ऱु विहितमाऩ केवलात्मनिक्षेपमात्रमऩ्ऱिक्के, ‘‘आत्मात्मीयभरन्यासः’’ ‘‘केशवार्पण पर्यन्ता’’ ऎऩ्ऱु कीऴ् उदाहरित्त वचनङ्गळ् सॊल्लुवदैयुमनुसरित्तु रक्षकऩिडत्तिल् स्वनिर्भरत्वपर्यन्तमाऩ स्वरूपभरफलसमर्पणमागवे निर्णयिक्कप्पट्टदायिऱ्ऱु। इदिल् त्यक्तरक्षाफलस्वाम्यं ऎऩ्गिऱ पदत्ताले इम्मूऩ्ऱुक्कुम् स्वसम्बन्धत्यागमुम् भाविक्कवेण्डुमॆऩ्ऱु सॊल्लप्पट्टदु। स्वरूपभरफलसमर्पणङ्गळै प्रत्येकम् आत्मनिक्षेपमागक् कीऴ्च् चॊऩ्ऩ वचनङ्गळिल् सॊल्लियिरुप्पदाल् स्वरूपभरफलङ्गळुडैय रक्षकैकार्थ्यभावनम् आत्मनिक्षेपशब्दत्ताले मुख्ययैव वृत्त्या अदावदु शक्त्या सॊल्लप्पडुगिऱदॆऩ्ऱु करुत्तु।   
+स्वनिर्भरत्वपर्यन्तेत्यादि । रक्ष्यस्य – रक्ष्यभूतवस्तुवुक्कु; आत्मात्मीय माऩ रक्ष्यभूतवस्तुवुक्कॆऩ्ऱबडि।  
+आत्मसमर्पणम् - ‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्ऱु विहितमाऩ आत्मसमर्पणमाऩदु।  
+त्यक्त-रक्षा-फल-स्वाम्यं – रक्षाफल ऎऩ्बदु स्वरूपत्तिऱ्कुम् उपलक्षणम्। तथा च स्वरूपरक्षाफलानां स्वाम्यं त्यक्तं यस्मिन् तत् । इदु भावऩैयिल् अन्वयिक्किऱदु।  
+इदऩाल् स्वरूप-भर-फलङ्गळिल् स्व-सम्बन्ध-त्यागम् सॊल्लप्पडुगिऱदु।  
+स्वनिर्भरत्व-पर्यन्त-रक्षकैकार्थ्य-भावनं – स्वनिर्भरत्वपर्यन्तं च तत् रक्षकैकार्थ्य-भावनञ् चेति शीतोष्णवत् समासः ।  
+
+> ‘‘मयि निक्षिप्तकर्तव्यः  
+> कृतकृत्यो भविष्यति’’ 
+
+ऎऩ्ऱु सॊऩ्ऩ निर्भरत्वं पर्यन्तम् अवसाने यस्य तत् स्वनिर्भरत्वपर्यन्तम् ।  
+इतः परं मम रक्षायां भरो नास्तीति  
+यथा दृढाध्यवसायः अन्ते भवेत्  
+तादृशमिति यावत् ।  
+
+**रक्षकैकार्थ्यभावनं** – रक्षकस्य – भगवतः, ऐकार्थ्यं – तस्यैकस्यैव इमे स्वरूप-रक्षा-भर-फल-रूपार्थाः नान्यस्य । इति भावनं – रक्षकैकार्थ्यभावनं, कीऴ् त्यक्तरक्षाफलस्वाम्यं ऎऩ्गिऱ विडत्तिल् स्वरूपभरफलानां स्वसम्बन्धत्यागम् सॊल्लियिरुप्पदाल् तेषामेव रक्षकैकार्थ्यभावन मिङ्गु अवश्यम् कॊळ्ळवेण्डुम्। इदऩाल् आत्मसमर्पणम् स्वरूपभरफलङ्गळुक्कु स्वनिर्भरत्वपर्यन्तमाऩ परसम्बन्धानुसन्धानम् ऎऩ्ऱु निगमिक्कप्पट्टदु। तथाच ‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्ऱु विहितमाऩ केवलात्मनिक्षेपमात्रमऩ्ऱिक्के, ‘‘आत्मात्मीयभरन्यासः’’ ‘‘केशवार्पण पर्यन्ता’’ ऎऩ्ऱु कीऴ् उदाहरित्त वचनङ्गळ् सॊल्लुवदैयुमनुसरित्तु रक्षकऩिडत्तिल् स्वनिर्भरत्वपर्यन्तमाऩ स्वरूपभरफलसमर्पणमागवे निर्णयिक्कप्पट्टदायिऱ्ऱु। इदिल् त्यक्तरक्षाफलस्वाम्यं ऎऩ्गिऱ पदत्ताले इम्मूऩ्ऱुक्कुम् स्वसम्बन्धत्यागमुम् भाविक्कवेण्डुमॆऩ्ऱु सॊल्लप्पट्टदु। स्वरूपभरफलसमर्पणङ्गळै प्रत्येकम् आत्मनिक्षेपमागक् कीऴ्च् चॊऩ्ऩ वचनङ्गळिल् सॊल्लियिरुप्पदाल् स्वरूपभरफलङ्गळुडैय रक्षकैकार्थ्यभावनम् आत्मनिक्षेपशब्दत्ताले मुख्ययैव वृत्त्या अदावदु शक्त्या सॊल्लप्पडुगिऱदॆऩ्ऱु करुत्तु।   
 </details>
 
 ## स्तेत्र-रत्नाभिप्रायः
@@ -1207,14 +1243,14 @@ The purport of the śloka  in Aḷavandār's Stotra (52) which says
 
 <details><summary>Español</summary>
 
-The purport of the śloka  in Aḷavandār's Stotra (52) which says 
+El significado del Śloka en el stotra de Aḷavandār (52) que **dice**
 
-> "Whatever I may be in the body, the senses and the like,  
-> and whatever may be the qualities of my Nature,  
-> I who know that I am Thy śeṣa  
-> hereby surrender myself at this very moment at thy two lotus-like feet"
+> "**Sea** lo que **sea** que esté en el cuerpo, los sentidos y similares,  
+> Y lo que **sea** que **sean** las cualidades de mi naturaleza,  
+> Yo que **sé** que **soy** tu Śeṣa  
+> por la presente, **rindome** en este mismo momento en tus dos pies de loto "
 
--- the purport of this śloka  is as follows:
+- El significado de este Śloka **es** el siguiente:
 </details>
 
 
@@ -1259,11 +1295,10 @@ in the hope that the king would take it back.
 
 <details><summary>Español</summary>
 
-If a man has (somehow) come into possession of a cloth bag with the king's seal on it,  
-he would return the bag (to the king),  
-even though he does not know for certain the nature and character of the gem contained within it,  
-in the hope that the king would take it back.  
-
+Si un hombre **ha** (de alguna manera) en posesión de una bolsa de tela con el sello del rey,  
+**Regresaría** la bolsa (al rey),  
+a pesar de que **no sabe** con certeza la naturaleza y el carácter de la gema **contenida** dentro de ella,  
+con la **esperanza** de que el rey **lo recupere**.
 </details>
 
 
@@ -1310,15 +1345,15 @@ This idea contained in the śāstras is what (Aḷavandār) has in mind.
 
 <details><summary>Español</summary>
 
-So also even those who have not the intelligence to know, with perfect clearness,  
-the nature, character and state of the soul as distinguished from the body  
-may surrender their self or soul with the little knowledge that they possess.  
-If they do so,  
-even for that much,  
-Bhagavān will be prepared to remit the punishment for the theft  
-consisting in making away with one's self (i. e. claiming it as one's own) from beginningless time. 
+Así también **incluso** aquellos que **no tienen** la inteligencia para **saber**, con perfecta claridad,  
+la naturaleza, el carácter y el estado del alma a diferencia del cuerpo  
+puede **entregar** su yo o alma con el pequeño conocimiento que poseen.  
+Si lo **hacen**,  
+Incluso por eso,  
+Bhagavān **estará preparado** para **remitir** el **castigo** por el **robo**  
+**consistir** en **prepararse** con uno mismo (es decir, **reclamarlo** como propio) desde el momento sin inicio.
 
-This idea contained in the śāstras is what (Aḷavandār) has in mind. 
+Esta idea **contenida** en los Śāstras es lo que (aḷavandār) **tiene** en mente.
 </details>
 
 
@@ -1329,7 +1364,12 @@ This idea contained in the śāstras is what (Aḷavandār) has in mind.
 
 <details><summary>सार-बोधिनी</summary>
 
-देहाद्यतिरिक्तात्माविऩिदि । इङ्गु आदिपदात् इन्द्रियादिसङ्ग्रहः । स्वरूपस्वभावस्थितिकळै - ज्ञानानन्दमयमाऩस्वरूपत्तैयुम्, ज्ञातृत्वादिरूपङ्गळाऩ स्वभावस्थितिकळैयुम्, विशदमाग विवेकिक्क अऱियादारुम् - विविच्य ज्ञातुमशक्तर्गळुम्, उळ्ळ अऱिवैक्कॊण्डु - नामॆऩ्बदु अहमर्थम्, अदु भगवाऩुक्कु शेषभूतमॆऩ्गिऱ अऱिवैक्कॊण्डु, अहमर्थम् देहेन्द्रियमनःप्राणेन्द्रिय(णादि)ङ्गळैक् काट्टिलुम् विलक्षणमॆऩ्ऱु तॆरियामल् पोऩालुम् अदु भगवाऩुक्कु शेषभूतमॆऩ्गिऱ ज्ञानमात्रत्तैक् कॊण्डॆऩ्ऱबडि। आत्मसमर्पणम् पण्णिऩालिति । अहमर्थमाऩ आत्मा अवऩुक्कु शेषभूतमॆऩ्ऱॆण्णिऩालॆऩ्ऱबडि। अव्वळवालुम् - आत्मस्वरूपगुणादिगळिल् वैशद्यमऩ्ऱिक्के समर्पणमात्रत्तालुम्। आत्मापहारचौर्यत्तालुण्डाऩ - भगवच्छेषभूतऩाऩ आत्मावै तऩक्के शेषऩाग अदावदु स्वतन्त्रऩाग निऩैक्कैयागिऱ चौर्यत्तालुण्डाऩ, भगवन्निग्रहम् - भगवन्निग्रहसङ्कल्पम्, शास्त्रार्थत्तिले तिरुवुळ्ळम् - ‘‘योऽहमस्मि स सन्यजे । यस्यास्मि न तमन्तरेमि’’ ऎऩ्गिऱ शास्त्रार्थत्तिले, अदावदु आत्माविऩुडैय स्वरूपस्वभावादिगळ् ऎऩक्कुत् तॆरियाविडिलुम्, योऽहमस्मि – वस्तुतो याऩ् यादृशस्वरूपस्वभावऩो, स सन् – तादृशऩागवे कॊण्डु, यजे – आत्मयागत्तैप् पण्णुगिऱेऩ्। अदावदु आत्मावै समर्पिक्किऱेऩ्। यस्यास्मि - ऎवऩुक्कु शेषभूतऩाग आगिऱेऩो, तमन्तरा - अवऩैविट्टु, नैमि – वेऱे रक्षकऩागप्पऱ्ऱुगिऱेऩल्लऩ् ऎऩ्गिऱ आत्मस्वरूपस्वभावङ्गळिल् वैशद्यमिल्लाविडिलुम् सामान्यतः तदनुसन्धानपूर्वकमाग शेषत्वानुसन्धानम् अनुष्ठिक्कवमैयुमॆऩ्गिऱ शास्त्रार्थत्तिले तिरुवुळ्ळम्।  
+देहाद्यतिरिक्तात्माविऩिदि । इङ्गु आदिपदात् इन्द्रियादिसङ्ग्रहः । स्वरूपस्वभावस्थितिकळै - ज्ञानानन्दमयमाऩस्वरूपत्तैयुम्, ज्ञातृत्वादिरूपङ्गळाऩ स्वभावस्थितिकळैयुम्, विशदमाग विवेकिक्क अऱियादारुम् - विविच्य ज्ञातुमशक्तर्गळुम्, उळ्ळ अऱिवैक्कॊण्डु - नामॆऩ्बदु अहमर्थम्, अदु भगवाऩुक्कु शेषभूतमॆऩ्गिऱ अऱिवैक्कॊण्डु, अहमर्थम् देहेन्द्रियमनःप्राणेन्द्रिय(णादि)ङ्गळैक् काट्टिलुम् विलक्षणमॆऩ्ऱु तॆरियामल् पोऩालुम् अदु भगवाऩुक्कु शेषभूतमॆऩ्गिऱ ज्ञानमात्रत्तैक् कॊण्डॆऩ्ऱबडि। आत्मसमर्पणम् पण्णिऩालिति । अहमर्थमाऩ आत्मा अवऩुक्कु शेषभूतमॆऩ्ऱॆण्णिऩालॆऩ्ऱबडि। अव्वळवालुम् - आत्मस्वरूपगुणादिगळिल् वैशद्यमऩ्ऱिक्के समर्पणमात्रत्तालुम्। आत्मापहारचौर्यत्तालुण्डाऩ - भगवच्छेषभूतऩाऩ आत्मावै तऩक्के शेषऩाग अदावदु स्वतन्त्रऩाग निऩैक्कैयागिऱ चौर्यत्तालुण्डाऩ, भगवन्निग्रहम् - भगवन्निग्रहसङ्कल्पम्, शास्त्रार्थत्तिले तिरुवुळ्ळम् -   
+
+> ‘‘योऽहम् अस्मि स सन् यजे ।  
+> यस्यास्मि न तम् अन्तरेमि’’ 
+
+ऎऩ्गिऱ शास्त्रार्थत्तिले, अदावदु आत्माविऩुडैय स्वरूपस्वभावादिगळ् ऎऩक्कुत् तॆरियाविडिलुम्, योऽहमस्मि – वस्तुतो याऩ् यादृशस्वरूपस्वभावऩो, स सन् – तादृशऩागवे कॊण्डु, यजे – आत्मयागत्तैप् पण्णुगिऱेऩ्। अदावदु आत्मावै समर्पिक्किऱेऩ्। यस्यास्मि - ऎवऩुक्कु शेषभूतऩाग आगिऱेऩो, तमन्तरा - अवऩैविट्टु, नैमि – वेऱे रक्षकऩागप्पऱ्ऱुगिऱेऩल्लऩ् ऎऩ्गिऱ आत्मस्वरूपस्वभावङ्गळिल् वैशद्यमिल्लाविडिलुम् सामान्यतः तदनुसन्धानपूर्वकमाग शेषत्वानुसन्धानम् अनुष्ठिक्कवमैयुमॆऩ्गिऱ शास्त्रार्थत्तिले तिरुवुळ्ळम्।  
 </details>
 
 
@@ -1337,7 +1377,7 @@ This idea contained in the śāstras is what (Aḷavandār) has in mind.
 
 इदुक्कु मेल्  
 ‘‘मम नाथ यदस्ति’’ (आळवन्दार् स्तोत्रम् ५३।) ऎऩ्गिऱ श्लोकत्तिल्  
-इस्-समर्पणत्तैप् पऱ्ऱ अनुशयम् पण्ण्-इऱ्ऱुम् स्व-रूपादि-विवेकम् अऩ्ऱिक्के  
+इस्-समर्पणत्तैप् पऱ्ऱ अनुशयम्+++(=शोकम्)+++ पण्ण्-इऱ्ऱुम् स्व-रूपादि-विवेकम् अऩ्ऱिक्के  
 समर्पिक्कप् पुक्कालुम् तऩ्ऩ्-उडैय द्रव्यत्तै राजावुक्कु उपहारम् आगक् कॊडुप्पारैप् पोलेय्  
 ऎऩ्ऩद् ऎऩ्गिऱ अभिमानत्तोडे समर्पिक्किल्  
 आत्मापहार-चौर्यम् अडिय्-अऱ्ऱद् आगाद्  
@@ -1347,12 +1387,37 @@ This idea contained in the śāstras is what (Aḷavandār) has in mind.
 <details><summary>नीलमेघः (सं)</summary>
 
 एतद् अग्रे, “9 मम नाथ यदस्ति" इति श्लोके  
-एतत्-समर्पण-विषये ऽनुशय-करणम् अपि  
+एतत्-समर्पण-विषये ऽनुशय+++(=शोक)+++-करणम् अपि  
+
 स्व-रूपादि-विवेकं विना समर्पणे प्रवृत्ताव् अपि  
 स्वकीयं द्रव्यं राज्ञे उपहारत्वेन ददान इव  
 मदीयम् इत्य् अभिमानेन सह यदि समर्पयेत्,  
+
 तर्हि आत्मापहार-चौर्यम् उन्मूलितं न भवतीत्य् एतज्-ज्ञापनार्थम् । 
 </details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+पॆरियव्-आच्चाऩ्-पिळ्ळै इत्य् अनेन स्तोत्र-रत्न-व्याख्याने -  
+
+> उम्मदै नीरे स्वीकरित्तीरि् इतनै,  
+> “आत्म-समर्पणमुम् आत्मापहारत्तोपाधि” ऎन्टु पण्णिन आत्मसमर्पणत्तै अनुशयिक्किरार्
+
+इति लेखितं  
+तद्-अनुयायिभिः -
+
+> अनेन यामुनस्यात्म-समर्पणम् अकार्यम् इति ज्ञानम् अवर्तत जातं वा, तत्-प्रदर्शनायैवं श्लोकं रचितवान्।  
+> तद् एव पॆरियव्-आच्चाऩ्-पिळ्ळै-महाशयेनोच्यते। 
+
+इत्य् उच्यते स्म।  
+तत्-प्रतिषेधाय यततेऽत्र वेङ्कटनाथार्यः। 
+
+पूर्वतन-श्लोक-व्याख्याने  
+पॆरियव्-आच्चाऩ्-पिळ्ळै-महाशयेन स्पष्टम् एव +आत्म-समर्पणस्य शास्त्रीयत्वं, कार्यत्वं सुपोषितम्।  
+तद्-उपेक्ष्यैवं नावगन्तव्यम्।  
+प्रत्युत +आत्म-प्रत्यर्पणं हि कार्यम् इत्य् आशयः। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1376,23 +1441,28 @@ it would not completely put an end to the crime of having stolen one's self.
 
 <details><summary>Español</summary>
 
-In the next *śloka  (53)[^es53] it might appear as if he revoked the surrender (made before);  
-but its meaning is only this :  
-Even when a person is bent on surrendering his self  
-without a knowledge of such things as the nature of his self,  
-if he surrenders it with the notion that it is his own,  
-like the presentation to a king of something belonging to oneself,  
-it would not completely put an end to the crime of having stolen one's self.
+En el siguiente *śloka (53) [^es53] **podría parecer** que **revocó** la rendición (hecha antes);  
+Pero su **significado** es solo esto:  
+
+Incluso cuando una persona está **empeñada** en **rendirse**  
+**sin conocimiento** de cosas como la naturaleza de su ser,  
+Si **lo entrega** con la noción de que **es** suyo,  
+como la **presentación** a un rey de algo que **pertenece** a uno mismo,  
+**No pondría fin** al delito de **haber robado** a uno mismo.
 
 
 [^es53]:
 
-    “मम नाथ यदस्ति योऽस्म्यहं सकलं तद्धि तवैव माधव । नियतस्वमिति प्रबुद्धधीरथवा किन्नु समर्पयामि ते॥ आळवन्दार् स्तोत्रम्-५३
+    "मम नाथ यदस्ति योऽस्म्यहं  
+    सकलं तद्धि तवैव माधव।  
+    नियतस्वमिति प्रबुद्धधीर्  
+    अथवा किन्नु समर्पयामि ते॥  
+    आळवन्दार्-स्तोत्रम् -५३ 
 
-    However O lord, what can I surrender to Thee, O Madhava,  
-    when I know that I and whatever belongs to me are always thine.  
-    As I have nothing of my own, I have nothing to surrender,  
-    I am only giving Thee what belongs to Thee",
+    Sin embargo, Señor, ¿qué **puedo rendirme** a ti, oh madhava?  
+    Cuando **sé** que yo y lo que me **pertenece** siempre **somos** tuyos.  
+    Como **no tengo** nada propio, **no tengo** nada que **rendirme**,  
+    Solo te **estoy dando** lo que te **pertenece** ",
 
 </details>
 
@@ -1434,8 +1504,9 @@ as having been made in ignorance.
 
 <details><summary>Español</summary>
 
-It does not mean that Aḷavandār considered his self surrender made in śloka  52 in accordance with the injunctions contained in the śāstras,  
-as having been made in ignorance.
+**No significa** que Aḷavandār **considerara** su auto -**rendición realizado** en Śloka 52  
+de **acuerdo** con los mandatos contenidos en los Śāstras,  
+como **habido** de ignorancia.
 </details>
 
 
@@ -1484,16 +1555,16 @@ about such things as the essential nature of the self.
 
 <details><summary>Español</summary>
 
-So from these two śloka s,  
-it is clear that the essence of the śāstras  
-which primarily prescribe bharasamarpaṇam  as in the words of Aḷavandār (60)  
+Entonces de estos dos Śloka s,  
+Está **claro** que la esencia de los Śāstras  
+que **prescribe** principalmente a Bharasamarpaṇam como en las palabras de Aḷavandār (60)
 
-> "The responsibility of protecting me is also Thine", 
+> "La **responsabilidad** de **protegerme** también **es** tuya",
 
-consists in saying "na mama" = “It is not mine"  
-and getting rid of the feeling of one's connection (with everything),  
-though one may not have a true and discriminatory knowledge  
-about such things as the essential nature of the self.
+**Consiste** en decir "Na Mama" = "No es mío"  
+y **deshacerse** de la **sensación** de la conexión de uno (con todo),  
+Aunque uno **puede no tener** un **conocimiento** verdadero y discriminatorio  
+sobre cosas como la naturaleza esencial del yo.
 </details>
 
 
@@ -1516,13 +1587,13 @@ THE MEANING OF THE AÑGĪ IN DVAYAM :
 
 <details><summary>Español</summary>
 
-THE MEANING OF THE AÑGĪ IN DVAYAM :
+EL **SIGNIFICADO** DE LA AÑGĪ EN DVAYAM:
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पडि शेषत्वानुसन्धान-विशिष्टम् आऩ स्व-रक्षा-भर-समर्पणम्  
+इप्-पडि +++(अष्टाक्षरय् ॐकारे मकारः→ उत्तम-पुरुषे /"अहं"→)+++ शेषत्वानुसन्धान-विशिष्टम् आऩ स्व-रक्षा-भर-समर्पणम्  
 द्वयत्तिल् उपाय-परम् आऩ पूर्व-खण्डत्तिल्  
 महा-विश्वास--पूर्वक--गोप्तृत्व-वरण--गर्भम् आऩ शरण-शब्दोपश्लिष्ट-क्रिया-पदत्तिले +++(→"प्रपद्ये")+++  
 सेर्त्तु अनुसन्धिक्क प्राप्तम्। 
@@ -1530,9 +1601,9 @@ THE MEANING OF THE AÑGĪ IN DVAYAM :
 
 <details><summary>नीलमेघः (सं)</summary>
 
-इत्थं शेषत्वानुसन्धान-विशिष्टं स्व-रक्षा-भर-समर्पणं  
+इत्थं +++(अष्टाक्षरय् ॐकारे मकारः→ उत्तम-पुरुषे /"अहं"→)+++ शेषत्वानुसन्धान-विशिष्टं स्व-रक्षा-भर-समर्पणं  
 द्वये उपाय-परे पूर्व-खण्डे  
-महा-विश्वास-पूर्वक--गोप्तृत्व-वरण-गर्भ--शरण-शब्दोपश्लिष्ट-क्रियापदे  +++(→"प्रपद्ये")+++  
+महा-विश्वास-पूर्वक--गोप्तृत्व-वरण-गर्भ--"शरण"-शब्दोपश्लिष्ट-क्रियापदे  +++(→"प्रपद्ये")+++  
 समुच्चित्यानुसन्धातुं युक्तम् । 
 </details>
 
@@ -1550,14 +1621,14 @@ and which contains within it, in an implicit form, the supplication for protecti
 
 <details><summary>Español</summary>
 
-Thus in the first part of the Dvaya which deals with the upāya or means,  
-the surrender to the Lord of the responsibility (for one's protection)  
-accompanied by the thought that one is śeṣa to the Lord  
-and exists only for Him  
-is to be understood in connection with the verb (prapadye)  
-joined with the word śaranam  
-which treats of the upāya preceded by supreme faith ( mahavisvāsa )  
-and which contains within it, in an implicit form, the supplication for protection.
+Así, en la primera parte del dvaya que **trata** con el upāya o los medios,  
+la **rendición** al Señor de la responsabilidad (por la protección de uno)  
+**Acompañado** por el **pensamiento** de que uno **es** Śeṣa para el Señor  
+y **existe** solo para él  
+se **debe entender** en relación con el verbo (Prapadye)  
+**unido** con la palabra Śaranam  
+que **trata** el upāya **precedido** por la fe suprema (Mahavisvāsa)  
+y que **contiene** dentro de él, en una forma implícita, la súplica de protección.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1570,17 +1641,30 @@ and which contains within it, in an implicit form, the supplication for protecti
 इप्पडि शेषत्वानुसन्धानविशिष्टस्वरक्षाभरसमपर्णरूपप्रधानार्थत्तै करणमन्त्रत्तिल् अनुसन्धिक्क वेण्डिय स्थलत्तैक् काट्टुगिऱार् इप्पडि शेषत्वानुसन्धानेत्यादियाल्। द्वयत्तिलुपायपरमाऩ पूर्वखण्डत्तिलिति । शरणशब्दोपश्लिष्टक्रियापदमिरुप्पदाल् पूर्वखण्डमे उपायपर मागवेण्डुमॆऩ्ऱु तिरुवुळ्ळम्। मुऩ्बु इन्द पूर्वखण्डत्तिल् महाविश्वासादिगळ् सॊल्लप्पट्टदे, अदिल् इदैयॆप्पडि अनुसन्धिप्पदॆऩ्ऩ वरुळिच्चॆय्गिऱार् महाविश्वासपूर्वकगोप्तृत्ववरणगर्भमाऩ शरणशब्दोपश्लिष्टक्रियापदत्तिले सेर्त्तु अनुसन्धिक्क प्राप्तमिति । शरणशब्दोपश्लिष्टक्रियापदत्तिल् महाविश्वासगोप्तृत्ववरणङ्गळ् सॊल्लप्पट्टिरुन्दालुम्, अदुगळुडऩ् शेषत्वानुसन्धानविशिष्टभरसमर्पणत्तैयुम् सेर्त्तु एकबुद्ध्यारूढमाक्कि अनुसन्धिक्क प्राप्तम्। यद्यपि शरणशब्दोपश्लिष्टक्रियापदत्तिले उपायत्वाद्ध्यवसायम् प्रतिपाद्यम्। तथापि अदिल् गोप्तृत्ववरणमुम् अर्थसिद्धमॆऩ्ऱु पूर्वाधिकारत्तिल् सॊऩ्ऩदै निऩैत्तु गोप्तृत्ववरण गर्भमाऩ इत्युक्तिः । तथाच आर्थिकगोप्तृत्ववरणविशिष्टोपायत्वाध्यवसायप्रतिपादक शरणशब्दोपश्लिष्टक्रियापदत्तिलॆऩ्ऱदायिऱ्ऱु। 
 </details>
 
+## क्षण-कृत्यम्
+
+<details><summary>English</summary>
+
+PRAPATTI IS A MOMENTARY ACTION.
+</details>
+
+<details><summary>Español</summary>
+
+PRAPATTI IS A MOMENTARY ACTION.
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्पडिय् इवैय् आऱुम् इम् मन्त्रत्तिले विमर्श-दशैयिल् तऩित्-तऩिये अनुसन्धित्तालुम्  
-वाक्यार्थ-प्रतिपत्ति-दशैयिल् अल्लाद +++(→पृथग्-भूता)+++ वाक्यार्थङ्गळ् पोले  
+इप्पडिय् इवैय् आऱुम् इम्-मन्त्रत्तिले विमर्श-दशैयिल् तऩित्-तऩिये अनुसन्धित्तालुम्  
+वाक्यार्थ-प्रतिपत्ति-दशैयिल्  
++++(शब्द-शक्तिमात्रम् अतिरिच्य →)+++  अल्लाद +++(→पृथग्-भूता)+++  +++(ध्वन्यादि-प्रतीत-)+++वाक्यार्थङ्गळ् पोले  
 साङ्गम् आऩ प्रधानम् एक-बुद्ध्य्-आरूढम् आम्। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 इत्थम् एषु षट्सु अस्मिन् मन्त्रे विमर्श-दशायां पृथक् पृथग् अनुसंहितेषु सत्स्व् अपि  
-वाक्यार्थ-प्रतिपत्ति-दशायाम् अन्यान्य-वाक्यार्थवत्  
+वाक्यार्थ-प्रतिपत्ति-दशायाम् +++(शब्द-शक्तिमात्रम् अतिरिच्य ध्वन्यादि-प्रतीत-)+++ अन्यान्य-वाक्यार्थवत्  
 साङ्गं प्रधानम् एक-बुद्ध्य्-आरूढं भवति । 
 </details>
 
@@ -1597,12 +1681,12 @@ just like the understanding of other sentences having several parts.
 
 <details><summary>Español</summary>
 
-Thus (from what has been said in this chapter and in the foregoing chapters),  
-although these six (the five aṅgas and the angī) may be understood separately,  
-while considering, in detail, the meaning of each part of the sentence,  
-yet they constitute only a single mental act  
-while understanding the whole sentence,  
-just like the understanding of other sentences having several parts. 
+Así (de lo que **se ha dicho** en este capítulo y en los capítulos anteriores),  
+Aunque estos seis (los cinco AṅGas y el Angī) **pueden entenderse** por separado,  
+mientras **considera**, en detalle, el significado de cada parte de la oración,  
+Sin embargo, **constituyen** un solo **acto** mental  
+mientras **comprende** toda la oración,  
+Al igual que la **comprensión** de otras oraciones que tienen varias partes.
 </details>
 
 
@@ -1615,7 +1699,7 @@ just like the understanding of other sentences having several parts.
 
 इप्पडि शरणशब्दोपश्लिष्टमाऩ ऒरु ज्ञानार्थकमाऩ पदल् धातुविले महाविश्वासमुम्, आर्थिकमाग गोप्तृत्ववरणमुम्, उपायत्वाध्यवसायमुम् सॊल्लप्पडुगैयाल् अदुगळोडु सेर्त्तु शेषत्वानुसन्धानविशिष्टमाऩ स्वरक्षाभरसमर्पणमनुष्ठेयमाऩालुम् आनु-कूल्यसङ्कल्पप्रातिकूल्यवर्जनकार्पण्यरूपाङ्गङ्गळिल् ऒऩ्ऱु औचित्यत्तालुम्, ऒऩ्ऱु शब्दशक्तियालुम्, ऒऩ्ऱु अर्थसामर्थ्यत्तालुम् भिन्नपदप्रतिपाद्यङ्गळायिरुप्पदाल् इन्द अङ्गाङ्गिषट्कङ्गळ् मन्त्रत्तिल् कथं एकबुद्ध्यारूढमागलामॆऩ्ऩ वरुळिच्चॆय्गिऱार् इप्पडि यिवै याऱुमित्यादिना । इप्पडि - शरणशब्दोपश्लिष्टक्रियापदत्तिलिवै नालुम् एकबुद्ध्यारूढमा किऱाप्पोले, इवैयाऱुम् - उपायत्वप्रार्थनापूर्वकस्वनिर्भरत्वशिरस्कनिक्षेपत्रयरूपाङ्गिताश्रय मॊऩ्ऱु, आनुकूल्यसङ्कल्पाद्यङ्गङ्गळ् अञ्जु ऎऩ्गिऱ अभिप्रायत्ताले इवैयाऱुमॆऩ्ऱु सॊऩ्ऩदु। इवैयाऱैयुमॆऩ्ऱबडि। इम् मन्त्रत्तिले - इन्द द्वयाख्यकरणमन्त्रत्तिले, विमर्शदशैयिल् - पदार्थानुसन्धानदशैयिल्, अदावदु आनुकूल्यसङ्कल्पादिगळिल् मन्त्रत्तिल् ऎन्द पदत्ताले ऎदु प्रतिपाद्यमॆऩ्ऱु पदार्थानुसन्धानदशैयिल्, पदानामर्थस्मरणदशैयिलॆऩ्ऱ पडि। तऩित्तऩिये - पृथक्पृथक्काग, अनुसन्धित्तालुम् - तत्तत्पदार्थतया स्मरित्तालुम्। वाक्यार्थप्रतिपत्तिदशैयिलिति । वाक्यार्थप्रतिपत्तिदशैयावदु तत्तत्पदङ्गळाले स्मृतमाऩ अर्थङ्गळुक्कु यथायोग्यम् प्रधानोपसर्जनभावेनान्वयमुखत्ताले महावाक्यार्थबोधात्पत्तिदशै । अल्लाद वाक्यार्थङ्गळ्बोले इति । इतरङ्गळाऩ ‘‘गामानय’’ ‘‘ज्योतिष्टोमेन स्वर्गकामो यजेत’’ इत्यादि लौकिकवैदिकवाक्यार्थङ्गळ्बोले ऎऩ्ऱबडि। वाक्यार्थमावदु तत्तत्पदार्थसंसर्गविशिष्टवाक्यार्थम्। साङ्गमाऩ प्रधानम् - अङ्गङ्गळोडु कूडिऩ अङ्गी । एकबुद्ध्यारूढमाम् - एकबुद्धिविषयमाम्। इङ्गु साङ्गमाऩ प्रधानम् उक्तरीत्या शाब्दबोधात्मकैकबुद्ध्यारूढमाऩालुम् तादृशशाब्दबोधभिन्न स्मृत्यद्ध्यवसायरूपविलक्षणबुद्धिरूपमाय्क्कॊण्डे उपायमागुम्। अत एव रहस्यशिखामणि यिल् ‘‘स्मर्ता’’ ऎऩ्गिऱ पदव्याख्यानावसरत्तिल्, (स्मर्ता) उपासनम्बोले प्रपदनमुम् शास्त्रजन्यज्ञानत्तळवऩ्ऱिक्के ‘‘मामेकं शरणं व्रज’’ ऎऩ्गिऱबडिये विधेयमायिरुप्पदॊरु स्मृतिविशेषमागैयाले इङ्गु अविधेयज्ञानवादिगळुक्कु अवकाशमिल्लैयॆऩ्ऱु साङ्गभरसमर्पणत्तै विधेयमाऩ स्मृतिविशेषमाग अरुळिच्चॆय्दारिऱे। इन्द स्मृति, भरसमर्पणादि विषयकतया पुरुषतन्त्रैयागैयाले विधेयमाऩ अध्यवसायरूपमॆऩ्बदु अन्यत्र विशदम्। 
 
-> ‘‘पदजातं श्रुतं सर्वं  
+> ‘‘पद-जातं श्रुतं सर्वं  
 > स्मारितानन्वितार्थकम् ।  
 > न्याय-सम्पादित-व्यक्ति  
 > पश्चाद्-वाक्यार्थ-बोधकम्’’ 
@@ -1641,8 +1725,8 @@ this principal action with its aṅgas is performed only once.
 
 <details><summary>Español</summary>
 
-Therefore, in accordance with the śastras,  
-this principal action with its aṅgas is performed only once.
+Por lo tanto, de acuerdo con los Śastras,  
+Esta acción principal con sus AṅGas **se realiza** solo una vez.
 </details>
 
 
@@ -1655,10 +1739,10 @@ this principal action with its aṅgas is performed only once.
 
 आगैयाल् - अङ्गङ्गळोडु कूडिय अङ्गिक्कु एकबुद्ध्यारूढत्वंसम्भविक्कुमागैयाल्, यथाशास्त्रं –
 
-> ‘‘सकृज्जप्तेन मन्त्रेण  
+> ‘‘सकृज् जप्तेन मन्त्रेण  
 > कृतकृत्यस् सुखी भवेत्’’
 
-> ‘‘सकृदेव हि शास्त्रार्थः  
+> ‘‘सकृद् एव हि शास्त्रार्थः  
 > कृतोऽयं तारयेन् नरम्’’
 
 ऎऩ्गिऱ शास्त्रत्तै अतिक्रमिक्कामल् अदावदु साङ्गस्य सकृदनुष्ठानम् अशक्य मागैयाले ‘‘सकृज्जप्तेन’’ ‘‘सकृदेव हि’’ ऎऩ्गिऱ शास्त्रत्तै अन्यपरमाक्कामल् ऎऩ्ऱबडि।
@@ -1669,24 +1753,19 @@ this principal action with its aṅgas is performed only once.
 </details>
 
 
-## क्षण-कृत्यम्
-
-<details><summary>English</summary>
-
-PRAPATTI IS A MOMENTARY ACTION.
-</details>
-
-<details><summary>Español</summary>
-
-PRAPATTI IS A MOMENTARY ACTION.
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्-एक-व्यापार-साद्ध्यम् आऩ धानुष्कऩ्-उडैय लक्ष्य-वेधार्थम् आऩ बाण-मोक्षम्  
 क्षण-कृत्यम् आगिऱाप् पोले  
 इव्व्-आत्म-रक्षा-भर-समर्पणम् इरुक्कुम् बडिय्  
 ऎऩ्ऱु श्रुतिसिद्धम्। +++(5)+++
+
+> (प्रणवो धनुश्, शरो ह्य् आत्मा  
+> ब्रह्म तल्-लक्ष्यम् **उच्यते** ।  
+> अप्रमत्तेन **वेद्धव्यं**  
+> शरवत् तन्मयो भवेत्॥
+
+इति श्रुतिः॥)
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -1694,6 +1773,14 @@ PRAPATTI IS A MOMENTARY ACTION.
 अनेक-व्यापार-साध्यो धानुष्कस्य लक्ष्य-वेधार्थी बाण-मोक्षो  
 यथा क्षण-कृत्यं ( क्षण-काल-साध्यो ) भवति,  
 तथेदम् आत्म-रक्षा-भर-समर्पणं भवतीति श्रुति-सिद्धम् ।+++(5)+++ 
+
+
+> (प्रणवो धनुश्, शरो ह्य् आत्मा  
+> ब्रह्म तल्-लक्ष्यम् **उच्यते** ।  
+> अप्रमत्तेन **वेद्धव्यं**  
+> शरवत् तन्मयो भवेत्॥
+
+इति श्रुतिः॥)
 </details>
 
 <details><summary>English</summary>
@@ -1716,20 +1803,21 @@ with great care and with keen concentration ").
 
 <details><summary>Español</summary>
 
-An archer's action in discharging an arrow for hitting a target  
-may be constituted of several separate acts  
-(like observing the object,  
-taking the aim  
-and discharging the arrow) 
-and yet it is all accomplished in a single moment.  
-Similar is the act of surrendering (to the Lord) the responsibility of (one's) protection.  
-This is evident from the śruti  itself.  
+La acción de un arquero al **descargar** una flecha para **golpear** un objetivo  
+**puede estar constituido** por varios actos separados  
+(como **observar** el objeto,  
+**Tomando** el objetivo  
+y **descargar** la flecha)  
+Y sin embargo, todo **se logra** en un solo momento.  
+Similar **es** el acto de entregar (al Señor) la responsabilidad de la protección (de uno).  
+Esto **es evidente** por el propio Śruti.
 
-(The śruti  says,  
-"* Praṇava (aum) is the bow:  
-the soul or self is the arrow;  
-it must be discharged at Brahman, which is the target,  
-with great care and with keen concentration ").
+(El Śruti dice que  
+
+> "* Praṇava (aum) **es** el arco:  
+El alma o el yo **es** la flecha;  
+**debe ser descargado** en Brahman, que **es** el objetivo,  
+con mucho cuidado y con una concentración aguda ").
 </details>
 
 
@@ -1742,10 +1830,10 @@ with great care and with keen concentration ").
 
 इव्वात्मरक्षाभरसमर्पणम् सकृत्कर्तव्यमॆऩ्बदै दृष्टान्तकथनपूर्वकम् श्रुति सॊल्लिऱ्ऱॆऩ्गिऱार् अनेकव्यापारेत्यादियाल्। दृष्टान्तत्तिल् लक्ष्यवेधार्थमाऩ बाणमोक्षम् क्षणकृत्यम्। पूर्वं पण्णिऩ अनेकशिक्षारूपव्यापारङ्गळ् (अभ्यासङ्गळ्) अदिऩ् परिकरङ्गळ्। दार्ष्टान्तिकत्तिल् इव्वात्मरक्षाभरसमर्पणम् क्षणकृत्यम्। तदर्थं पूर्वमङ्गाङ्गिपरामर्शादिगळॆऩ्ऱु श्रुत्यभिप्रेतमॆऩ्ऱु तिरुवुळ्ळम्। श्रुतियावदु - 
 
-> ‘‘प्रणवो धनुश् शरो ह्य् आत्मा  
-> ब्रह्म तल्-लक्ष्यम् उच्यते ।  
-> अप्रमत्तेन वेद्धव्यं  
-> शरवत् तन्मयो भवेत्’’ +++(5)+++
+> प्रणवो धनुश्, शरो ह्य् आत्मा  
+> ब्रह्म तल्-लक्ष्यम् **उच्यते** ।  
+> अप्रमत्तेन **वेद्धव्यं**  
+> शरवत् तन्मयो भवेत्॥ +++(5)+++
 
 ऎऩ्बदु। इदिल् प्रणवत्तै धनुस्सागवुम्, आत्मावै शरमागवुम्, ब्रह्मत्तै लक्ष्यमागवुम्, आत्मसमर्पणत्तै अत्यन्तावधानसहितऩाऩ पुरुषऩाले कर्तव्यमाऩ लक्ष्यवेधमागवुम् निरूपिक्कप्पट्टिरुप्पदाल् इदऱ्कु आत्मसमर्पणत्तिल् अनुष्ठेय व्यापारङ्गळ् बहुवायिरुन्दालुम् अवैगळिल् अभ्यासपाटवमुडैयवऩुक्कु, धानुष्कऩुडैय अनेकव्यापाराभ्यासपाटवत्ताले क्षणकालसाध्यमाऩ बाणमोक्षम्बोले आत्मसमर्पणम् क्षणकालसाध्यमॆऩ्ऱु ज्ञापिक्कैयिले नोक्कु। 
 </details>
@@ -1772,9 +1860,9 @@ is clearly stated as follows:
 
 <details><summary>Español</summary>
 
-That this surrender of the responsibility of protection (bharasamarpana)  
-should be chiefly thought of while uttering the mantras of prapatti  
-is clearly stated as follows: 
+Que esta **rendición** de la **responsabilidad** de la **protección** (bharasamarpana)  
+**Debe considerarse** principalmente mientras **pronuncia** los mantras de Prapatti  
+**está** claramente **declarado** de la siguiente manera:
 </details>
 
 
@@ -1790,7 +1878,7 @@ is clearly stated as follows:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘अनेनैव तु मन्त्रेण  
+> ‘‘अनेनैव +++(→तद्विष्णोः …)+++ तु मन्त्रेण  
 स्वात्मानं मयि **निक्षिपेत्** ।  
 मयि निक्षिप्त-कर्तव्यः  
 **कृत-कृत्यो** भविष्यति’’  
@@ -1799,7 +1887,7 @@ is clearly stated as follows:
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘अनेनैव तु मन्त्रेण  
+> ‘‘अनेनैव +++(→तद्विष्णोः …)+++ तु मन्त्रेण  
 स्वात्मानं मयि **निक्षिपेत्** ।  
 मयि निक्षिप्त-कर्तव्यः  
 **कृत-कृत्यो** भविष्यति’’  
@@ -1816,10 +1904,10 @@ is clearly stated as follows:
 
 <details><summary>Español</summary>
 
-> "With this mantra  
-> one should surrender one's self to me.  
-> The one who has surrendered to me the responsibility of doing what should be done  
-> will become one who has done one's duty."
+> "Con este mantra  
+> Uno **debería entregarme** a mí mismo.  
+> El que me **ha entregado** a mí la **responsabilidad** de **hacer** lo que **se debe hacer**  
+> **se convertirá** en uno que **haya cumplido** con el deber ".
 </details>
 
 
@@ -1831,7 +1919,13 @@ is clearly stated as follows:
 
 <details><summary>सार-बोधिनी</summary>
 
-अनेनैव तु मन्त्रेणेति । पूर्वोक्तमाऩ ‘‘तद्विष्णोः’’ ऎऩ्गिऱ मन्त्रत्ताले ऎऩ्ऱबडि। स्वात्मानं मयि निक्षिपेत् – भरसमर्पणप्रधानमाऩ आत्मनिक्षेबत्तै ऎऩ्ऩिडत्तिल् पण्णक् कडवऩ्। इङ्गु मन्त्रेणेति तृतीयाश्रुत्या मन्त्रत्तिऱ्कु भरसमर्पणप्रधानात्मनिक्षेपकरणत्वम् तोऩ्ऱु कैयाल् अनुष्ठेयार्थप्रकाशकमाऩ करणमन्त्रत्तिऱ्कु भरसमर्पणप्रकाशनमे मुख्यमागैयाले इदिल् भरसमर्पणमे प्रधानतया अनुसन्धेयमॆऩ्ऱु तोऩ्ऱुगिऱदु। मयि - ऎऩ्ऩिडत्तिल्। निक्षिप्तकर्तव्यः – निक्षिप्तः कर्तव्यः स्वरक्षाभरः येन सः, ऎऩ्ऩिडत्तिल् भरसमर्पणम् पण्णिऩवऩॆऩ्ऱबडि। कृतकृत्यो भविष्यति – कृतं कृत्यं – मोक्षार्थोपायानुष्ठानं येन सः । मयि भरसमर्पणकारीमोक्षार्थोपायानुष्ठाता । ऎऩ्ऱु सात्यकितन्त्रत्तिले - ऎऩ्ऱु सात्यकितन्त्रमॆऩ्गिऱ पाञ्चरात्रसंहितैयिले भरस्वीकारम् पण्णुगिऱ - समर्पितमाऩ आत्मरक्षाभरत्तै अङ्गीकरिक्किऱ। शरण्यऩ् ताऩे - रक्षणसमर्थऩाऩ भगवाऩ् ताऩे, तॆळियवरुळिच्चॆय्दाऩ् - शरणशब्दोपश्लिष्टक्रियापदत्तिल् महाविश्वासगोप्तृत्ववरण उपायत्वाध्यवसाय रक्षाभरसमर्पणङ्गळ् नालुम् सॊल्लप् पडुगैयाल् इम्मन्त्रत्तिल् प्रधानतया अनुसन्धेयम् ऎदुवो ऎऩ्ऱु सन्देहिक्कादबडि ‘‘अनेनैव तु मन्त्रेण स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्ऱु भरन्यासप्रधानमाऩ आत्मनिक्षेपत्तिल् भरन्यासमे इम्मन्त्रत्तिल् प्रधानप्रतिपाद्यमॆऩ्ऱु तॆळियुम्बडि अरुळिच्चॆय्दाऩॆऩ्ऱबडि। इदिल् महाविश्वासादिगळ् शब्दतः प्रतिपाद्यमाऩालुम् मन्त्रत्तै भरसमर्पणत्तिले विनियोगिक्किऱ शरण्याभिप्रायबलत्ताले भरसमर्पणमे प्रधानमाग अनुसन्धेयमॆऩ्ऱु तिरुवुळ्ळम्। ‘‘अनेन’’ ऎऩ्ऱु ऒरु मन्त्र विशेषत्तैच् चॊऩ्ऩदु उपलक्षणमॆऩ्गिऱ अभिप्रायत्ताले मुदलिल् प्रपत्तिमन्त्रङ्गळिल् ऎऩ्ऱु बहुवचनप्रयोगम्।+++(5)+++  
+अनेनैव तु मन्त्रेणेति । पूर्वोक्तमाऩ ‘‘तद्विष्णोः …’’ ऎऩ्गिऱ मन्त्रत्ताले ऎऩ्ऱबडि। स्वात्मानं मयि निक्षिपेत् – भरसमर्पणप्रधानमाऩ आत्मनिक्षेबत्तै ऎऩ्ऩिडत्तिल् पण्णक् कडवऩ्। इङ्गु मन्त्रेणेति तृतीयाश्रुत्या मन्त्रत्तिऱ्कु भरसमर्पणप्रधानात्मनिक्षेपकरणत्वम् तोऩ्ऱु कैयाल् अनुष्ठेयार्थप्रकाशकमाऩ करणमन्त्रत्तिऱ्कु भरसमर्पणप्रकाशनमे मुख्यमागैयाले इदिल् भरसमर्पणमे प्रधानतया अनुसन्धेयमॆऩ्ऱु तोऩ्ऱुगिऱदु। मयि - ऎऩ्ऩिडत्तिल्। निक्षिप्तकर्तव्यः – निक्षिप्तः कर्तव्यः स्वरक्षाभरः येन सः, ऎऩ्ऩिडत्तिल् भरसमर्पणम् पण्णिऩवऩॆऩ्ऱबडि। कृतकृत्यो भविष्यति – कृतं कृत्यं – मोक्षार्थोपायानुष्ठानं येन सः । मयि भरसमर्पणकारीमोक्षार्थोपायानुष्ठाता । ऎऩ्ऱु सात्यकितन्त्रत्तिले - ऎऩ्ऱु सात्यकितन्त्रमॆऩ्गिऱ पाञ्चरात्रसंहितैयिले भरस्वीकारम् पण्णुगिऱ - समर्पितमाऩ आत्मरक्षाभरत्तै अङ्गीकरिक्किऱ। शरण्यऩ् ताऩे - रक्षणसमर्थऩाऩ भगवाऩ् ताऩे, तॆळियवरुळिच्चॆय्दाऩ् - शरणशब्दोपश्लिष्टक्रियापदत्तिल् महाविश्वासगोप्तृत्ववरण उपायत्वाध्यवसाय रक्षाभरसमर्पणङ्गळ् नालुम् सॊल्लप् पडुगैयाल् इम्मन्त्रत्तिल् प्रधानतया अनुसन्धेयम् ऎदुवो ऎऩ्ऱु सन्देहिक्कादबडि 
+
+> ‘‘अनेनैव तु मन्त्रेण स्वात्मानं मयि निक्षिपेत्’’ 
+
+ऎऩ्ऱु भरन्यासप्रधानमाऩ आत्मनिक्षेपत्तिल् भरन्यासमे इम्मन्त्रत्तिल् प्रधानप्रतिपाद्यमॆऩ्ऱु तॆळियुम्बडि अरुळिच्चॆय्दाऩॆऩ्ऱबडि। इदिल् महाविश्वासादिगळ् शब्दतः प्रतिपाद्यमाऩालुम् मन्त्रत्तै भरसमर्पणत्तिले विनियोगिक्किऱ शरण्याभिप्रायबलत्ताले भरसमर्पणमे प्रधानमाग अनुसन्धेयमॆऩ्ऱु तिरुवुळ्ळम्।  
+‘‘अनेन’’ ऎऩ्ऱु ऒरु मन्त्र-विशेषत्तैच् चॊऩ्ऩदु उपलक्षणम् ऎऩ्गिऱ अभिप्रायत्ताले  
+मुदलिल् प्रपत्तिमन्त्रङ्गळिल् ऎऩ्ऱु बहुवचनप्रयोगम्।+++(5)+++  
 </details>
 
 
@@ -1855,8 +1949,8 @@ who undertakes the responsibility
 
 <details><summary>Español</summary>
 
-in Satyaki tantra by the Saviour Himself,  
-who undertakes the responsibility
+En Satyaki Tantra por el propio Salvador,  
+quien **asume** la responsabilidad
 </details>
 
 

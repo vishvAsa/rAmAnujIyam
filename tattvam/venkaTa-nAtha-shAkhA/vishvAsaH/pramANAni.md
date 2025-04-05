@@ -62,6 +62,11 @@ title = "प्रमाणानि"
 स्युक्त्य्-अपेक्षया श्रुति-दर्शित एव मार्गो ऽन्विष्य ग्राह्य इति -  
 यथा भेदाभेदश्रुत्योर् घटकश्रुतयः। 
 
+### ब्रह्म-सूत्राणि, उपनिषदः
+With clarity in the prameya-s in vedArthasangraha (or presumably shrI-bhAShya), there is almost no room for confusion when one encounters upaniShadic contradictions. So, it's natural that R didn't find a need to labor over that; and that his followers mostly feel the same.
+
+For S, BS does not resolve the upaniShadic contradictions (I heard that somewhere he clearly says that the sUtra-s have to be somehow interpreted in accordance with upaniShads - ie his bhAShya-s thereof).
+
 ## आगमः
 आगमाः पाञ्चरात्रिकास् तद्-अविरोधिन एवेति (विरोध-प्रतिभाने त्व् आगमवाक्यं त्याज्यम् इत्य् आगमप्रामाण्ये)।  
 किञ्च प्रमाणम् उभयपक्षाङ्गीकृतं स्याद् इति  
