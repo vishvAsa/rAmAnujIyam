@@ -1968,7 +1968,7 @@ A BRIEF STATEMENT OF WHAT BHARASAMARPAṆA IS:
 
 <details><summary>Español</summary>
 
-A BRIEF STATEMENT OF WHAT BHARASAMARPAṆA IS:
+Una breve **declaración** de lo que Bharasamarpaṇa es:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2016,28 +2016,27 @@ and the fruit or gain arising from it.
 
 <details><summary>Español</summary>
 
-In (the performance of) this (angī),  
-the conclusion regarding the adoption of this upāya with its aṅgas  
-is as follows:-  
-it consists in the act of surrendering  
-the responsibility for the protection of one's self  
-preceded by the following:--
+En (el **rendimiento** de) este (Angī),  
+la conclusión con respecto a la **adopción** de esto upāya con sus aṅgas  
+**es** el siguiente:-
+**consiste** en el acto de **rendir**  
+la responsabilidad de la **protección** de uno mismo  
+**precedido** por lo siguiente:-
 
-- the giving up of the thought that one is the doer  
-  (for it is the Lord that does everything), 
-- the giving up of the thought of 'mine'  
-  (that there is anything belonging to oneself),  
-- the giving up of the fruit of the action,  
-- the giving up of the thought  
-  that he himself adopts the means for obtaining that fruit;  
- 
-these must be accompanied by anukūlya saṅkalpa, pratikulyavarjana and the rest 
-and, likewise, reverent bowing down to the succession of gurus and with the utterance of Dvaya. 
+- **Dirigir** la idea de que uno es el hacedor  
+  (Porque **es** el Señor el que **hace** todo),
+- **Renunciar** a la idea de 'mía'  
+  (que **hay** algo que **pertenece** a uno mismo),  
+- **Renunciar** al fruto de la acción,
+- el **rendimiento** del **pensamiento**
+  que él mismo **adopta** los medios para **obtener** esa fruta;
 
-The surrender of the responsibility for the protection of one's self  
-carries with it implicitly the surrender of one's Svarūpa or self  
-and the fruit or gain arising from it. 
+Estos **deben estar acompañados** por Anukūlya Saṅkalpa, Pratikulyavarjana y el resto  
+y, del mismo modo, reverente **inclinándose** ante la sucesión de gurús y con la **expresión** de dvaya.
 
+La **rendición** de la responsabilidad de la **protección** de uno mismo  
+**lleva** consigo implícitamente la **rendición** de la svarūpa o el yo  
+y la fruta o ganancia que **surge** de ella.
 </details>
 
 
