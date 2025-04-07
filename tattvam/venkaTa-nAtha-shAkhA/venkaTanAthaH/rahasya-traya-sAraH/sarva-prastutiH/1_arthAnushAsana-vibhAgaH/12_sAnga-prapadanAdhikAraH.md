@@ -2206,14 +2206,14 @@ and that only Iśvara is the upāya for this fruit (mokṣa ).
 
 <details><summary>Español</summary>
 
-The giving up of the upāya for attaining the fruit (mokṣa )  
-will result from a knowledge that  
-the prapatti performed by a man for winning the grace of the Saviour  
+El **rendimiento** del upāya por **alcanzar** la fruta (mokṣa)  
+**resultará** del **conocimiento** de que  
+El Prapatti **realizado** por un hombre por **ganar** la gracia del Salvador
 
-- cannot directly and immediately be the cause of the main fruit, namely, mokṣa , 
-- that prapatti is non-sentient and, therefore, incapable of possessing the will to grant the fruit  
+- **No puede ser** la causa directa e inmediatamente de la fruta principal, a saber, mokṣa,
+- que Prapatti **no es sensible** y, por lo tanto, **es incapaz** de **poseer** la voluntad de **otorgar** la fruta
 
-and that only Iśvara is the upāya for this fruit (mokṣa ). 
+y que solo Iśvara **es** el upāya para esta fruta (mokṣa). 
 </details>
 
 
