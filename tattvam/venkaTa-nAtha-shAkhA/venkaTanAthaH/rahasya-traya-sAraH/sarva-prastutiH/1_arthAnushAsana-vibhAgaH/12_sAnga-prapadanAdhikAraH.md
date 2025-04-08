@@ -1974,18 +1974,19 @@ Una breve **declaración** de lo que Bharasamarpaṇa es:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदिल् साङ्गानुष्ठानम् आयऱ्ऱदु -  
-कर्तृत्व-त्याग--ममता-त्याग-- फल-त्याग--फलोपायत्व-**त्याग-पूर्वकम्** आऩ  
+कर्तृत्व-त्याग--ममता-त्याग+++(=स्वरूप-त्याग)+++--  
+फल-त्याग--+++(साक्षात्-)+++फलोपायत्व-**त्याग-पूर्वकम्** आऩ  
 आनुकूल्य-सङ्कल्पाद्य्-**अर्थानुसन्धानत्तोडे**  
-गुरु-परंपरोपसत्ति-पूर्वक--द्वय-वचन-मुखत्ताले स्व-रूप--फल-**न्यास**-गर्भम् आऩ  
++++(श्री-सहित-)+++गुरु-परंपरोपसत्ति-पूर्वक+++(←अनुष्ठाने पूर्वम् एव)+++--द्वय-वचन-मुखत्ताले स्व-रूप--फल-**न्यास**-गर्भम् आऩ  
 आत्म-रक्षा-भर-**समर्पणम्** पण्णुगै। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 अत्र साङ्गानुष्ठानतया निष्कृष्टं तावत् -  
-कर्तुत्व-त्याग--ममता-त्याग-- फल-त्याग--फलोपायत्व-त्याग-पूर्वकं  
+कर्तुत्व-त्याग--ममता-त्याग+++(=स्वरूप-त्याग)+++-- फल-त्याग--+++(साक्षात्-)+++फलोपायत्व-त्याग-पूर्वकं  
 आनुकूल्य-संकल्पाद्य्-अर्थानुसन्धानेन सह  
-गुरु-परम्परोपसत्ति-पूर्वक--द्वय-वचन-मुखेन  
++++(श्री-सहित-)+++गुरु-परम्परोपसत्ति-पूर्वक+++(अनुष्ठाने पूर्वम् एव)+++--द्वय-वचन-मुखेन  
 स्व-रूप--फल-न्यास--गर्भात्म-रक्षा--भर-समर्पण-करणम् ।
 </details>
 
@@ -2047,7 +2048,13 @@ y la fruta o ganancia que **surge** de ella.
 
 <details><summary>सार-बोधिनी</summary>
 
-इऩि मुमुक्षुक्कळुक्कु प्रयोगविधिसाध्यमाऩ साङ्गानुष्ठानप्रकारत्तैक् काट्टुगिऱार् इदिल् साङ्गानुष्ठानमायऱ्ऱदु इत्यादिना । इदिल् - मुमुक्षुक्कळुक्कुच् चॊऩ्ऩ भरन्यासविषयत्तिल्, साङ्गानुष्ठानमायऱ्ऱदु - साङ्गानुष्ठानमागत् तीर्न्ददु। इदऱ्कु आत्मरक्षाभरसमर्पणम् पण्णुगै ऎऩ्बदोडन्वयम्। कर्तृत्वत्यागादिगळ् सर्वनिवृत्तिधर्मसाधारणङ्गळागैयाले अङ्गिक्कुप् पोल् अङ्गङ्गळुक्कुम् आवश्यकमॆऩ्ऱु काट्टुगैक्काग आनुकूल्यसङ्कल्पादिगळुक्कु तत्पूर्वकत्वोक्तिः । आनुकूल्यसङ्कल्पादीत्यत्रादिपदत्ताले इतराङ्ग चतुष्टयङ्गळुक्कु ग्रहणम्। अर्थानुसन्धानत्तोडे इति । अर्थानुसन्धानमावदु आनुकूल्यसङ्कल्पादिरूपाङ्गङ्गळुडैय अनुष्ठानरूपार्थानुसन्धानम्। इदऱ्कुम् भरसमर्पणम् पण्णुगै ऎऩ्बदोडन्वयम्। इदऩाल् इन्द आनुकूल्यसङ्कल्पादिगळ् भरसमर्पणमॊऩ्ऱुक्के सन्निपत्योपकारकङ्गळाऩ अङ्गङ्गळॆऩ्ऱुम्, स्वरूपफलनिक्षेपङ्गळुक्कु अङ्गङ्गळऩ्ऱॆऩ्ऱुम् सूचिप्पिक्कप्पट्टदु।  
+इऩि मुमुक्षुक्कळुक्कु प्रयोगविधिसाध्यमाऩ साङ्गानुष्ठानप्रकारत्तैक् काट्टुगिऱार् इदिल् साङ्गानुष्ठानमायऱ्ऱदु इत्यादिना ।  
+
+इदिल् - मुमुक्षुक्कळुक्कुच् चॊऩ्ऩ भरन्यासविषयत्तिल्, साङ्गानुष्ठानमायऱ्ऱदु - साङ्गानुष्ठानमागत् तीर्न्ददु। इदऱ्कु आत्मरक्षाभरसमर्पणम् पण्णुगै ऎऩ्बदोडन्वयम्। कर्तृत्वत्यागादिगळ् सर्वनिवृत्तिधर्मसाधारणङ्गळागैयाले अङ्गिक्कुप् पोल् अङ्गङ्गळुक्कुम् आवश्यकमॆऩ्ऱु काट्टुगैक्काग आनुकूल्यसङ्कल्पादिगळुक्कु तत्पूर्वकत्वोक्तिः ।  
+आनुकूल्यसङ्कल्पादीत्यत्रादिपदत्ताले इतराङ्ग चतुष्टयङ्गळुक्कु ग्रहणम्।  
+अर्थानुसन्धानत्तोडे इति । अर्थानुसन्धानमावदु आनुकूल्यसङ्कल्पादिरूपाङ्गङ्गळुडैय अनुष्ठानरूपार्थानुसन्धानम्।  
+इदऱ्कुम् भरसमर्पणम् पण्णुगै ऎऩ्बदोडन्वयम्। इदऩाल् इन्द आनुकूल्यसङ्कल्पादिगळ् भरसमर्पणमॊऩ्ऱुक्के सन्निपत्योपकारकङ्गळाऩ अङ्गङ्गळॆऩ्ऱुम्, स्वरूपफलनिक्षेपङ्गळुक्कु अङ्गङ्गळऩ्ऱॆऩ्ऱुम् सूचिप्पिक्कप्पट्टदु।  
+
 गुरुपरम्परोपसत्ति-पूर्वकद्वयवचनमुखत्ताले इति ।  
 इङ्गु गुरुपरम्परोपसत्तियैच् चॊऩ्ऩदु  
 
@@ -2063,13 +2070,13 @@ y la fruta o ganancia que **surge** de ella.
 आनुकूल्य-सङ्कल्पाद्य्-अङ्गङ्गळैच् चॊल्लि  
 पिऱगु गुरु-परम्-परोपसत्तियैच् चॊल्लि  
 अङ्ग्यनुष्ठानम् सॊऩ्ऩदु  
-अङ्ग्य्-अनुष्ठानत्तिऱ्कु गुरुपरम्परोपसत्ति अत्यन्तावश्यकम् ऎऩ्ऱु द्योतनार्थम्। 
+अङ्ग्य्-अनुष्ठानत्तिऱ्कु गुरुपरम्परोपसत्ति अत्यन्तावश्यकम् ऎऩ्ऱु द्योतनार्थम्। +++(5)+++
 
 द्वयवचनमुखत्ताले - द्वयवचनम् - द्वयोच्चारणम्,  
 मुख-शब्दत्ताले इतर-मन्त्रङ्गळुडैयवुम्, ‘‘यदि वान्यवाक्यैः’’ ऎऩ्ऱु सॊल्लप्पट्ट मन्त्रेतर-वाक्यङ्गळ्-उडैयवुम् उच्चारणम् विवक्षितम्।  
 तथा च द्वयोच्चारणत्ताल् आवदु  
 करणतया परिगृहीत-मन्त्रान्तरोच्चारणत्ताल् आवदु  
-तादृशमन्त्रेतरवाक्योच्चारणत्तिऩालावदु ऎऩ्ऱबडि।  
+तादृश-मन्त्रेतरवाक्योच्चारणत्तिऩाल् आवदु ऎऩ्ऱबडि।  
 
 स्वरूपफलन्यासगर्भमाऩ इति ।  
 इङ्गु गर्भत्वोक्त्या  
@@ -2077,8 +2084,6 @@ y la fruta o ganancia que **surge** de ella.
 ऎऩ्ऱु ज्ञापिक्कप् पट्टदु।  
 भरसमर्पणम् पण्णुगै - मद्रक्षणभरस्तवेति भरसमर्पणत्तै अनुष्ठिक्कै।  
 इदऱ्कु साङ्गानुष्ठानमायऱ्ऱदु ऎऩ्बदोडन्वयम् ऎऩ्ऱु मुऩ्बे सॊल्लप्पट्टदु।  
-प्रपत्तियै अनुष्ठिक्कप् पुगुगिऱवऩ् प्रपत्तिक्कु कर्तावायिरुक्क कर्तृत्वत्यागपूर्वकमाग अदै ऎप्पडि अनुष्ठिक्कमुडियुम्?  
-
 </details>
 
 ## त्याग-स्रोतांसि
@@ -2125,6 +2130,8 @@ Este trabajador ha sido atendido a uno por el Señor mismo.
 </details>
 
 <details><summary>सार-बोधिनी</summary>
+
+प्रपत्तियै अनुष्ठिक्कप् पुगुगिऱवऩ् प्रपत्तिक्कु कर्तावायिरुक्क कर्तृत्वत्यागपूर्वकमाग अदै ऎप्पडि अनुष्ठिक्कमुडियुम्?  
 
 इङ्गु त्यागम् ऎऩ्बदु कर्तृत्वत्तै स्वरूपेण विडुगै यऩ्ऱु; किन्तु इन्द कर्तृत्वम् तऩ्ऩुडैयदऩ्ऱॆऩ्गिऱ बुद्धिमात्रमागैयाल् अदै अनुष्ठिक्क मुडियुमॆऩ्ऩिल्, तऩ्ऩुडैयदाऩ कर्तृत्वत्तै तऩ्ऩुडैयदऩ्ऱॆऩ्ऱु निऩैक्कुगैक्कुत्ताऩ् निबन्धनमॆऩ्ऩ वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इक्कर्तृत्वत्यागत्तुक्कु निबन्धनमित्यादिना । इक्कर्तृत्वत्यागत्तुक्कु - कर्तृत्वम् तऩ्ऩुडैयदागविरुक्क अदैत् तऩ्ऩुडैयदऩ्ऱॆऩ्ऱु भाविक्कैयागिऱ इक्कर्तृत्वत्यागत्तुक्कु, निबन्धनम् - कारणम्, तऩ् कर्तृत्वमुम् - तऩ्ऩुडैय प्रपत्तिकर्तृत्वमुम्, अवऩडियाग वन्ददॆऩ्ऱु - भगवन्मूलमाग वन्ददॆऩ्ऱु। तऩक्कु कर्तृत्वमिरुन्दालुम् अन्द कर्तृत्वशक्तियै भगवाऩे कॊडुक्कैयालुम् अन्द कर्तृत्वोपयुक्तमाऩ करणकळेबरङ्गळैक् कॊडुत्तु उपकरिक्कैयालुम् प्रपत्त्यनुष्ठानसमयत्तिल् स्वसङ्कल्पत्ताले ज्ञानचिकीर्षाप्रयत्नङ्गळै युण्डुबण्णि सहकरिक्कैयालुम् तऩ् कर्तृत्वमुम् अवऩ् मूलमागवे वन्ददॆऩ्ऱबडि। इदऱ्कु अऱिगै यॆऩ्बदोडन्वयम्। तऩक्कु यावदात्मभावियाऩ भगवदेकपारतन्त्र्यत्तै अऱिगै इति । तऩक्कु भगवत्पारतन्त्र्यम् कादाचित्कमाय् विच्छिन्नमाऩालुम् इतरपारतन्त्र्यम् वन्दालुम् कर्तृत्वम् अवऩडियाग वन्ददॆऩ्ऱु अऱियमुडियादागैया लिङ्गु यावदात्मभावियाऩ ऎऩ्ऱुम् भगवदेक ऎऩ्ऱुम् प्रयुक्तमायिऱ्ऱु। 
 </details>
@@ -2174,20 +2181,20 @@ existe, por la misma naturaleza,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**फलोपायत्व-त्यागत्तुक्कु** निबन्धनम्,  
++++(साक्षात्-)+++**फलोपायत्व-त्यागत्तुक्कु** निबन्धनम्,  
 शरण्य-प्रसादनम् आऩ इवऩ्-उडैय अनुष्ठानम् -  
 
 - प्रधान-फलत्तुक्कु व्यवहित-कारणम् आगैयुम्  
-- अचेतनम् आगैयाले फल-प्रदान-सङ्कल्पाश्रयम् अल्लामैयुम्।  
+- +++(कर्मणो)+++ अचेतनम् आगैयाले फल-प्रदान-सङ्कल्पाश्रयम् अल्लामैयुम्।  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-**फलोपायत्व-त्यागस्य** निबन्धनम् -  
++++(साक्षात्-)+++**फलोपायत्व-त्यागस्य** निबन्धनम् -  
 शरण्य-प्रसादनस्यैतदीयानुष्ठानस्य  
 
 - प्रधान-फलं प्रति व्यवहित-कारणत्वम्,  
-- अ-चेतनत्वात् फल-प्रदान-संकल्पानाश्रयत्वं च । 
+- +++(कर्मणो)+++ अ-चेतनत्वात् फल-प्रदान-संकल्पानाश्रयत्वं च । 
 </details>
 
 
@@ -2227,7 +2234,7 @@ y que solo Iśvara **es** el upāya para esta fruta (mokṣa).
 भक्तिपोले प्रपत्तियुम् भगवत्प्राप्त्युपायमाग 
 
 >‘‘भक्त्या परमया वापि  
-प्रपत्त्या वा महामते ।  
+प्रपत्त्या वा महा-मते ।  
 प्राप्योऽहं नान्यथा प्राप्यः’’ 
 
 इत्यादिगळिल् सॊल्लप्पट्टिरुक्क,  
@@ -2274,25 +2281,23 @@ y que solo Iśvara **es** el upāya para esta fruta (mokṣa).
   accompanied by the desire to show His grace  
   and is the immediate and direct cause (of the final fruit, viz. mokṣa )  
 - and since he also stands Himself in the place of the prescribed upāya  
-  in the case of the man who is incapable of (adopting) other 
-  upāyas,  
+  in the case of the man who is incapable of (adopting) other upāyas,  
 
 He alone is the upāya for the fruit. 
 </details>
 
 <details><summary>Español</summary>
 
-- Since Bhagavān who, out of the love natural to Him, has been the primaeval cause of everything  
-  from the time of giving the man the body and the senses  
-  to the time of his uttering the Dvaya-  
-- since Bhagavān is possessed of the will  
-  accompanied by the desire to show His grace  
-  and is the immediate and direct cause (of the final fruit, viz. mokṣa )  
-- and since he also stands Himself in the place of the prescribed upāya  
-  in the case of the man who is incapable of (adopting) other 
-  upāyas,  
+- Desde Bhagavān, quien, fuera del amor natural para él, **ha sido** la causa principal de todo  
+  desde el momento de **darle** al hombre el cuerpo y los sentidos  
+  al momento de su **pronunciar** el dvaya-  
+- Dado que Bhagavān **está poseído** de la voluntad  
+  **acompañado** por el **deseo** de **mostrar** su gracia  
+  y **es** la causa inmediata y directa (de la fruta final, a saber, mokṣa)  
+- y como él también **se mantiene** en lugar de los **prescritos** upāya
+  en el caso del hombre que **es incapaz** de (adoptar) otros upāyas,
 
-He alone is the upāya for the fruit. 
+Él solo **es** el upāya para la fruta.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2310,14 +2315,14 @@ He alone is the upāya for the fruit.
 इङ्ङऩ् इरुक्कैक्क् अडि  
 धर्मि-ग्राहकम् आऩ शास्त्रत्ताले  
 **अवगतम्** आऩ +++(भगवद्-आख्य-)+++वस्तु-स्वभावम् आगैयाल्  
-इव्व् अर्थम् युक्तिगळाल् **चलिप्पिक्क वॊण्णादु।** 
+इव्व् अर्थम् +++("व्याजोऽपि कुतः?"→)+++ युक्तिगळाल् **चलिप्पिक्क वॊण्णादु।** 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-एवंभावस्य मूलं  
+एवं-भावस्य मूलं  
 धर्मि-ग्राहक-शास्त्रावगतो वस्तु-स्वभाव इति,  
-अयम् अर्थो युक्तिभिर् विचालयितुं न युज्यते । 
+अयम् अर्थो +++("व्याजोऽपि कुतः?"→)+++ युक्तिभिर् विचालयितुं न युज्यते । 
 </details>
 
 
@@ -2493,7 +2498,7 @@ lo que te está desagradando.
 
 <details><summary>Español</summary>
 
-> No haré lo que desagradará (te).
+> **No haré** lo que desagradará (te).
 </details>
 
 
@@ -2532,7 +2537,7 @@ lo que te está desagradando.
 
 <details><summary>Español</summary>
 
-> No tengo capital para alcanzar te,
+> **No tengo** capital para alcanzar te,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2563,7 +2568,7 @@ lo que te está desagradando.
 
 <details><summary>Español</summary>
 
-> He decidido buscar solo a ti como el upāya.
+> **He decidido buscar** solo a ti como el upāya.
 </details>
 
 
@@ -2595,7 +2600,7 @@ lo que te está desagradando.
 
 <details><summary>Español</summary>
 
-> ¡Sea tú, mi upāya!
+> ¡**Sea** tú, mi upāya!
 </details>
 
 
@@ -2636,9 +2641,9 @@ lo que te está desagradando.
 
 <details><summary>Español</summary>
 
-> En adelante, ya sea en la eliminación de lo que es malvado  
-> o en el logro de lo que es bueno,  
-> No tengo más responsabilidad a partir de ahora.
+> En adelante, ya **sea** en la **eliminación** de lo que es malvado  
+> o en el **logro** de lo que es bueno,  
+> **No tengo** más responsabilidad a partir de ahora.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2651,7 +2656,7 @@ lo que te está desagradando.
 रक्षाभरसमर्पणत्तै वॆळियिडुगिऱार् अनिष्टनिवृत्तियिलित्यादिना । अनिष्टनिवृत्तिपूर्वकेष्टप्रापणमे रक्षाशब्दवाच्यमाग लोकप्रसिद्धम्। अन्द अनिष्टनिवृत्तियिलादल् इष्टप्राप्ति यिलादल् ऎऩक्किऩि भरमुण्डोवॆऩ्ऱदाल् रक्षाभरमुम्मुडैयदेयॆऩ्ऱु सॊल्लप्पट्टदागवागिऱदु, रक्षाभरमुम्मुडैयदेयॆऩ्ऱु सॊल्लामल्ऎऩक्किऩि ऒरु भरमुण्डोवॆऩ्ऱु निर्देशित्तदाल् भरत्तिल् स्वसम्बन्धनिवृत्ति स्पष्टमागिऱदिऱे। भरमुण्डोवॆऩ्ऱदाल् स्वनिर्भरत्वमुम् सूचितमागिऱदु। इङ्गु ऎऩ्ऱु ऎऩ्गिऱ पदम् सुरुक्किऩवसानत्तैच् चॊल्लुगिऱदु।  
 </details>
 
-## उत्तर-कालिकालय् आनुकूल्यादि नाङ्गम्
+## उत्तर-कालय् आनुकूल्यादि नाङ्गम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2665,6 +2670,19 @@ lo que te está desagradando.
 उपाय-परिकरतया सकृत् कर्तव्यानि भवन्ति । 
 </details>
 
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+यथा विद्यार्जनात् परम्  
+परीक्षां लिखित्वा  
+नैपुण्य-प्रमाण-पत्त्रं कश्चन लभेत,  
+पश्चात् तद्-विद्या-विस्मृताव् अपि  
+न तत् पत्त्रं प्रतिगृह्येत,  
+तथा - प्रपत्ताव् आनुकूल्य-सङ्कल्पादि  
+प्रपत्त्य्-अनुष्ठान-क्षणेष्व् एवापेक्षितम्,  
+न तद्-अनन्तरम्। +++(5)+++
+</details>
+
+
 <details><summary>English</summary>
 
 In this the determination  
@@ -2675,10 +2693,9 @@ have to be stated only once as accessories or aṅgas to the upāya.
 
 <details><summary>Español</summary>
 
-En esta la determinación  
-hacer lo que es agradable  
-y abstinencia de lo que es desagradable  
-Hay que declararse solo una vez  
+En esta la **determinación hacer** lo que es agradable  
+y **abstinencia** de lo que es desagradable  
+**Hay** que **declararse** solo una vez  
 como accesorios o aṅgas para el upāya.
 </details>
 
@@ -2697,8 +2714,8 @@ como accesorios o aṅgas para el upāya.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेल् इवऩ् कोलिऩ अनुकूल-वृत्त्य्-आदिगळोडे  
-पोरुगिऱ विडमुम्+++(=मोक्षोऽपि)+++  
-उपाय-फलम् आय्  
+पोरुगिऱव् इडमुम्  
++++(आनुकूल्यार्थ-प्रपत्तिः→)+++उपाय-फलम् आय्  
 **यावद्-आत्म-भाविय्** आय् इरुक्कुम्। 
 </details>
 
@@ -2720,8 +2737,8 @@ and will last as long as his self lasts.
 
 <details><summary>Español</summary>
 
-Su actuación más tarde  
-De acuerdo con esta determinación de hacer lo que es agradable, etc.  
+Su **actuación** más tarde  
+De acuerdo con esta determinación de **hacer** lo que es agradable, etc.  
 será el resultado o fruto de la upāya  
 y durará mientras dure su yo.
 </details>
@@ -2735,7 +2752,10 @@ y durará mientras dure su yo.
 <details><summary>सार-बोधिनी</summary>
 
 मेल् इवऩ् कोलिऩ अनुकूलवृत्त्यादिगळोडे पोरुगिऱविडमुम् इति ।  
-मेल् - उत्तरकालत्तिल्। इवऩ् कोलिऩ - इऩ्ऱु मुदल् अनुकूलऩागक् कडवेऩॆऩ्ऱु सङ्कल्पित्त। अनुकूलवृत्त्यादिगळोडे पोरुगिऱविडम् - अनुकूलाचरणत्तोडेयिरुक्किऱविडम्। इङ्गु आदिपदात् प्रातिकूल्यवर्जनत्तिऱ्कु ग्रहणम्। उपायफलमाय् यावदात्मभावियायिरुक्कुम् - उपायफलत्वादेव यावदात्मभावियायिरुक्कुम्। 
+**मेल्** - उत्तरकालत्तिल्। **इवऩ् कोलिऩ** - इऩ्ऱु मुदल् अनुकूलऩागक् कडवेऩ् ऎऩ्ऱु सङ्कल्पित्त।  
+**अनुकूलवृत्त्यादिगळोडे पोरुगिऱविडम्** - अनुकूलाचरणत्तोडेय् इरुक्किऱविडम्।  
+इङ्गु आदिपदात् प्रातिकूल्यवर्जनत्तिऱ्कु ग्रहणम्।  
+उपायफलमाय् यावदात्मभावियायिरुक्कुम् - उपायफलत्वादेव यावदात्मभावियायिरुक्कुम्। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2762,8 +2782,8 @@ it is evident that it has to be made only once (i.e at the time of prapatti).
 <details><summary>Español</summary>
 
 Si, de acuerdo con las palabras de Śrī Ammal,  
-Evitamos lo que es desagradable como significado solo la determinación de evitar lo que está desagradable,  
-Es evidente que debe hacerse solo una vez (es decir, en el momento de Prapatti).
+**Evitamos** lo que es desagradable como significado solo la determinación de **evitar** lo que está desagradable,  
+**Es evidente** que debe **hacerse** solo una vez (es decir, en el momento de Prapatti).
 </details>
 
 
@@ -2782,7 +2802,7 @@ Es evidente que debe hacerse solo una vez (es decir, en el momento de Prapatti).
 > ‘‘प्रातिकूल्यं **परित्यक्तम्**  
 > आनुकूल्यं च **संश्रितम्** ।  
 > आनुकूल्येतराभ्यान् तु +++(साध्यते)+++  
-> **विनिवृत्तिर्** अपायतः’’ 
+> **विनिवृत्तिर्** अपायतः॥’’ 
 
 इत्यादिगळिल्  
 अनुकूलाचरणत्तिऱ्के अङ्गत्वम् तोऩ्ऱा निऱ्क  
@@ -2794,7 +2814,7 @@ Es evidente que debe hacerse solo una vez (es decir, en el momento de Prapatti).
 ‘‘अपायेभ्यो निवृत्तोऽस्मि’’ (लक्ष्मीतन्त्रम् ५०-२१५) ऎऩ्गिऱ बडिये अभिसन्धि-विरामम् आदल्   
 प्रातिकूल्य-स्वरूप-निवृत्तिय् आदल् आऩालुम्  
 अदिल् प्रथम-क्षणम् अङ्गम् आय्  
-मेल् उळ्ळदु फलम् आगक् कडवदु। 
+मेल् उळ्ळदु +++(पापवारणार्थ-प्रपत्तेः)+++ फलम् आगक् कडवदु। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -2802,7 +2822,7 @@ Es evidente que debe hacerse solo una vez (es decir, en el momento de Prapatti).
 “12 अपायेभ्यो निवृत्तोऽस्मि" इत्य्-उक्त-रीत्या ऽभिसन्धि-विराम-रूपत्वेऽपि वा  
 प्रातिकूल्य-स्वरूप-निवृत्ति-रूपत्वे ऽपि वा  
 तत्र प्रथम-क्षण-कालिकम् अङ्गं भवति  
-पाश्चात्यं च फलं भवितुम् अर्हति ।  
+पाश्चात्यं च +++(पापवारणार्थ-प्रपत्तेः)+++ फलं भवितुम् अर्हति ।  
 </details>
 
 <details><summary>English</summary>
@@ -2902,10 +2922,10 @@ and also the determination made at the time of performing prapatti.
 
 <details><summary>Español</summary>
 
-Haciendo lo que es agradable (para el Señor)  
-y evitando lo que es desagradable (en la vida de uno después de Prapatti)  
-son el resultado de acciones meritorias realizadas en el pasado,  
-y también la determinación realizada en el momento de realizar Prapatti.
+**Haciendo** lo que es agradable (para el Señor)  
+y **evitando** lo que es desagradable (en la vida de uno después de Prapatti)  
+**son** el resultado de acciones meritorias realizadas en el pasado,  
+y también la determinación **realizada** en el momento de **realizar** Prapatti.
 </details>
 
 
@@ -2938,7 +2958,14 @@ y también la determinación realizada en el momento de realizar Prapatti.
 प्रारब्ध-शरीरानन्तरं मोक्षं च  
 समुच्चित्य फलत्वेनोद्दिश्य  
 प्रपत्त्य्-अनुष्ठायिनस् तावत् निपुणाः ॥ +++(5)+++
+</details>
 
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+दृष्टफलत्वाद्  
+अपात्रेषु वैफल्याभासेन  
+सत्सु विश्वासापायं वारयितुम्  
+अद्यत्वय् आचार्या आचार्यनिष्ठया प्रपत्तिषु नानुतिष्ठन्त्य् अप्रार्थिताः।
 </details>
 
 
@@ -2971,10 +2998,10 @@ y para alcanzar Mokṣa después de expulsar el cuerpo como resultado de Prārab
 ## उपसंहारः
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-"अऱवे+++(=निवर्ततां)+++ भरम्" ऎऩ्ऱ् अडैक्-कलम्+++(=रक्ष्य-वस्तु)+++ **वैत्तनर्** अऩ्ऱु नम्मैप्  
+"अऱवे+++(=निवर्ततां)+++ भरम्" ऎऩ्ऱ् अडैक्-कलम्+++(=रक्ष्य-वस्तु)+++ **वैत्तनर्**, अऩ्ऱु नम्मैप्  
 **पॆऱवे+++(=प्राप्तिं)+++ करुदिप्**+++(=काङ्क्षित्वा)+++ पॆरुन्-तगव्+++(=कृपाम्)+++ उऱ्ऱ पिरान्-अडिक्-कीऴ्  
 "उऱवेय्+++(=सम्बन्धतः)+++ इवन् उयिर् काक्किऩ्ऱव् ओर्-उयिर्+++(→अन्तर्यामि)+++-उण्मैयै नी  
-**मऱवेल्** +++(=न विस्मार्षीः)+++" **ऎन** नम् मऱै-मुडि+++(=मकुटं) चूटिय मन्नवरे+++(=राजानः)+++. (19)
+**मऱवेल्** +++(=न विस्मार्षीः)+++" **ऎन** +++(उपादिश्य)+++ नम् मऱै-मुडि+++(=मकुटं) चूटिय मन्नवरे+++(=राजानः)+++ . (19)
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
