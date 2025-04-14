@@ -4,7 +4,6 @@ title = "+पञ्च-काल-प्रकाशः"
 +++
 Source: [TW](https://archive.org/details/panchakalaprakas015157mbp/page/n65/mode/2up)
 
-[[TODO: परिष्कर्यम्]]
 
 श्री-निवास-पर-ब्रह्मणे नमः 
 
