@@ -48,15 +48,15 @@ que uno está en el estado apropiado o niṣṭhā. Página200
 To a man whose understanding is firmly and properly fixed on (a knowledge of) his essential nature, on the upāya adopted by him, viz. prapatti and on the ultimate aim of life (puruṣārtha),  
 a recognition that he is steadily fixed in this state gives more delight (even) than his approaching mokṣa .+++(5)+++  
 For by the might of this knowledge, he is able, with a disciplined mind, to close up the chasms lying before him (as obstacles)  
-which are deep and hard to fill and which are as immense as the sky,
+which are deep and hard to fill and which are as immense as the sky.
 </details>
 
 <details><summary>Español</summary>
 
-Para un hombre cuya comprensión se fija firme y adecuadamente en (un conocimiento) de su naturaleza esencial, en el upāya adoptado por él, a saber Prapatti, y sobre el objetivo final de la vida (Puruṣārtha),  
-Un reconocimiento de que se fija constantemente en este estado da más deleite (incluso) que su mokṣa. +++ (5) +++  
-Porque por el poder de este conocimiento, puede, con una mente disciplinada, cerrar los abismos que se encuentran ante él (como obstáculos)  
-que son profundos y difíciles de llenar y que son tan inmensos como el cielo,
+Para un hombre cuya **comprensión** se fija firme y adecuadamente en (un conocimiento) de su naturaleza esencial, en el upāya adoptado por él, a saber Prapatti, y sobre el objetivo final de la vida (Puruṣārtha),  
+Un **reconocimiento** de que se fija constantemente en este estado da más deleite (incluso) que su mokṣa. +++ (5) +++  
+Porque por el poder de este conocimiento, **puede**, con una mente disciplinada, **cerrar** los abismos que **se encuentran** ante él (como obstáculos)  
+que **son profundos** y difíciles de **llenar** y que **son** tan inmensos como el cielo.
 </details>
 
 

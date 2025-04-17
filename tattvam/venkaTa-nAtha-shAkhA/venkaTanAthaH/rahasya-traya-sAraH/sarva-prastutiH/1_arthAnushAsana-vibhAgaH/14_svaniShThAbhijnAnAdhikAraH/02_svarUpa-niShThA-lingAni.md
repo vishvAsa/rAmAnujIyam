@@ -79,8 +79,8 @@ have no connection (at all) with his essential nature,
 
 <details><summary>Español</summary>
 
-(1) Cuando es tratado con cosas como desprecio por otras,  
-Estaría libre de tristeza o depresión  
+(1) Cuando es **tratado** con cosas como desprecio por otras,  
+**Estaría libre** de tristeza o depresión  
 Debido al conocimiento de que estas fallas pertenecientes al cuerpo y similares (fealdad, bajo nacimiento, etc.)  
 no tiene conexión (en absoluto) con su naturaleza esencial,
 </details>
@@ -119,8 +119,11 @@ the sin of the reviled person passes on to the reviler".
 <details><summary>Español</summary>
 
 (2) Se ha dicho:-  
-"Cuando un hombre se revila a otro,  
-El pecado de la persona vilipendiada pasa al revilador ".</details>
+
+> "Cuando un hombre **se revila** a otro,  
+El pecado de la persona vilipendiada  
+**pasa** al revilador ".
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -149,7 +152,9 @@ So towards these fools that are to receive his sin by their derisive talk,
 
 <details><summary>Español</summary>
 
-Así que hacia estos tontos que recibirán su pecado por su charla burlona,
+Así para estos tontos  
+que **recibirán** su pecado  
+por su charla burlona,
 </details>
 
 
@@ -195,9 +200,9 @@ as the following -
 
 como el siguiente -
 
-> "Si otros seres creados albergan enemistad y muestran odio,  
-> El hombre sabio se compadece de ellos diciendo:  
-> "¡Cómo están envueltos en gran ilusión!"
+> "Si otros seres creados **albergan** enemistad y **muestran** odio,  
+> El hombre sabio **se compadece** de ellos **diciendo**:  
+> "¡Cómo están **envueltos** en gran ilusión!"
 </details>
 
 
@@ -245,10 +250,10 @@ and who is, therefore, like firewood destined for the flames of hell.”
 
 y
 
-> "Uno debería lástima del tonto  
-quien se hace mal a sí mismo violando los Śāstras  
-y alejándose del camino correcto  
-y quién es, por lo tanto, como leña destinada a las llamas del infierno ".
+> "Uno **debería lástima** del tonto  
+quien **se hace** mal a sí mismo violando los Śāstras  
+y **alejándose** del camino correcto  
+y quién **es**, por lo tanto, como leña **destinada** a las llamas del infierno ".
 </details>
 
 
@@ -282,7 +287,7 @@ he (the prapanna) should feel overwhelming compassion as stated in such ślokas
 
 <details><summary>Español</summary>
 
-Él (el Prapanna) debería sentirse abrumando compasión como se indica en tal Ślokas
+Él (el Prapanna) **debería sentirse** abrumando compasión como **se indica** en tal Ślokas
 </details>
 
 
@@ -334,9 +339,9 @@ In Aḷavandār's \*śloka
 
 En Aḷavandār's \*śloka
 
-> "¿Cómo puedo cruzar el mar de tristeza y prestar servicio a tus pies?
-> Yo que he transgredido todas las regulaciones de los Śāstra S
-> ¿Quién es malo, con mentalidad voluble, caverna, desagradecida, arrogante, lujuriosa, engañosa, malvada y pecaminosa? "
+> "¿Cómo puedo **cruzar** el mar de tristeza y prestar servicio a tus pies?  
+> Yo que **he transgredido** todas las regulaciones de los Śāstras  
+> ¿Quién **es** malo, con mentalidad voluble, caverna, desagradecida, arrogante, lujuriosa, engañosa, malvada y pecaminosa? "
 </details>
 
 
@@ -374,7 +379,8 @@ En Aḷavandār's \*śloka
 <details><summary>English</summary>
 
 and in such verses as those of Tirumaṅgai Alvar  
-["Born into this life, I fell into deep anguish of mind.  
+
+> ["Born into this life, I fell into deep anguish of mind.  
 I mingled with young women thinking it was greatly to be desired,  
 until at last I realised that salvation  
 consists only in the utterance of the name 'Nārāyaṇa”.]  
@@ -384,10 +390,10 @@ consists only in the utterance of the name 'Nārāyaṇa”.]
 
 y en versos como los de Tirumaṅgai Alvar
 
-> ["Nacido en esta vida, caí en una profunda angustia de la mente.  
-Me mezclé con mujeres jóvenes pensando que era muy desear,  
-Hasta que por fin me di cuenta de que la salvación  
-consiste solo en la expresión del nombre 'nārāyaṇa ”.]
+> ["**Nacido** en esta vida, caí en una profunda angustia de la mente.  
+**Me mezclé** con mujeres jóvenes pensando que era muy desear,  
+Hasta que por fin **me di cuenta** de que la salvación   
+**consiste** solo en la **expresión** del nombre 'nārāyaṇa ”.]+++(5)+++
 </details>
 
 
@@ -426,9 +432,9 @@ which have been described (in such verses) as fit to be reflected on in connecti
 
 <details><summary>Español</summary>
 
-La Prapanna se sentiría agradecida con estos reviladores como benefactores  
-que le recuerdan, por su censura, de fallas  
-que se han descrito (en tales versos) como adecuados para ser reflejados en relación con uno mismo.
+La Prapanna **se sentiría** agradecida con estos reviladores como benefactores  
+que **le recuerdan**, por su censura, de fallas  
+que **se han descrito** (en tales versos) como adecuados para ser reflejados en relación con uno mismo.
 </details>
 
 
@@ -483,14 +489,14 @@ He would therefore feel no aversion to them.
 
 <details><summary>Español</summary>
 
-(4) La Prapanna (que tiene el Niṣṭhā en Svarūpa) entendería  
+(4) El Prapanna (que **tiene** el Niṣṭhā en Svarūpa) **entendería**  
 que todas las almas dependen de Bhagavān debido a su naturaleza esencial,  
-que todos los Jīvas (kṣetrajnas) están bajo el dominio del karma pasado  
-y que estos reviladores su (por lo tanto) lo vilizan por la impulso de Iśvara,  
+que todos los Jīvas (kṣetrajnas) **están** bajo el **dominio** del karma pasado  
+y que estos **reviladores** su (por lo tanto) lo vilizan por la **impulso** de Iśvara,  
 quien es independiente y es el Śeṣī de todos  
-y quien disfruta del līlā que se deduce del karma pasado  
+y quien **disfruta** del līlā que **se deduce** del karma pasado  
 en las relaciones entre él y sus reviladores.  
-Por lo tanto, no sentiría aversión a ellos.
+Por lo tanto, **no sentiría** aversión a ellos.
 </details>
 
 
@@ -562,8 +568,8 @@ the prapanna may consider that he has realised his difference from acit or matte
 
 <details><summary>Español</summary>
 
-Como se aclara en la explicación del significado de la primera palabra (praṇava) y la palabra media "na mamá" (namo) en el mūlamantra,
-La Prapanna puede considerar que se ha dado cuenta de su diferencia de ACIT o Matter,
+Como **se aclara** en la explicación del significado de la primera palabra (praṇava) y la palabra media "na mamá" (namo) en el mūlamantra,  
+La Prapanna **puede considerar** que se ha dado cuenta de su diferencia de ACIT o Matter,
 </details>
 
 
