@@ -1144,13 +1144,46 @@ Que con respecto al que **posee** las glorias
 श्रियःपतियाऩ सर्वेश्वरऩै इल्लैयॆऩ्ऩुदलिति । सर्वेश्वरऩैयिल्लैयॆऩ्ऱु सॊल्वदु निरीश्वरमीमांसकसाङ्ख्यर्गळिऩ् मतम्। वेऱॊरुत्तऩैयित्यादि शैवादिमतम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विभूतियैय् अपहरिक्कैय् आवदु;  
+
+- विभूतियैय् ऒरु मुखत्तालेय् इल्लैय् ऎऩ्ऩुदल्  
+- उण्डाक्किय् ईश्वरऩोडु सम्बन्धम् अऱुत्तु स्वतन्त्रम् ऎऩ्ऩुदल्,  
+- परतन्त्रमाक्कित् तऩ्ऩोडु पिऱरोडु पुणैप्पुदल् सॆय्गै। 
+</details>
+
+<details><summary>English</summary>
+
+The misconception or misinterpretation concerning the glories consists in this : 
+
+- denying the existence of these glories (or objects created by God) 
+- or considering these vibhūtis as existing  
+  but as independent of the Lord  
+  by denying their relationship to Him,  
+- or declaring that they are dependent on oneself or others,
+</details>
+
+<details><summary>Español</summary>
+
+El concepto erróneo o la mala interpretación sobre las glorias **consiste** en esto:
+
+- **negando** la **existencia** de estas glorias (u objetos **creados** por Dios)
+- o **considerando** estos vibhūtis como **existentes**
+  Pero como independiente del Señor
+  para al **negar** su **relación** con él,
+- o **declarando** que **dependen** de uno mismo o de los demás,
+</details>
+
+<details><summary>मूलम्</summary>
+
+विभूतियैयपहरिक्कैयावदु; विभूतियैयॊरु मुखत्तालेयिल्लैयॆऩ्ऩुदल्, उण्डाक्कि यीश्वरऩोडु सम्बन्धमऱुत्तु स्वतन्त्रमॆऩ्ऩुदल्, परतन्त्रमाक्कित् तऩ्ऩोडु पिऱरोडु पुणैप्पुदल् सॆय्गै। 
+</details>
 
 
-The misconception or misinterpretation concerning the glories consists in this : denying the existence of these glories (or objects created by God) or considering these vibhūtis as existing but as independent of the Lord by denying their relationship to Him, or declaring that they are dependent on oneself or others,
 
-ASSOCIATION WITH WICKED MEN SHOULD BE
 
-AVOIDED:
+ASSOCIATION WITH WICKED MEN SHOULD BE AVOIDED:
 
 Any one of these forms of denial might occur in the case of a weak-minded man who has performed prapatti, on account of association with those who are not fit to be associated with If such a misconception should occur, it is worse "than the great sin of taking back a thing that has been given away (to charity)". That sin will deprive a man of the merit acquired by all previous gifts made from the time of birth onwards. Bat this is worse, for the object of the gift was itself acquired by stealth from the person to whom it was given later, and then the person is robbed of what was given to him. Therefore, of the many causes of delusion, association with rationalists (and sceptics) is most to be avoided. This has been declared in passages like the following:
 
