@@ -932,17 +932,69 @@ Formas de infidelidad:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘‘आर्षं धर्मोपदेशञ्च वेदशास्त्राविरोधिना । यस्तर्केणानुसन्धत्ते स धर्मं वेद नेतरः’’(मनुस्मृति १२-१०६।) 
+> ‘‘आर्षं धर्मोपदेशञ्च  
+> वेद-शास्त्राविरोधिना ।  
+> यस् तर्केणानुसन्धत्ते  
+> स धर्मं वेद नेतरः॥’’  
+> (मनुस्मृति १२-१०६।) 
+
+ऎऩ्गिऱबडिये 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘आर्षं धर्मोपदेशञ्च  
+> वेद-शास्त्राविरोधिना ।  
+> यस् तर्केणानुसन्धत्ते  
+> स धर्मं वेद नेतरः॥’’  
+> (मनुस्मृति १२-१०६।) 
+
+इत्य्-उक्त-रीत्या
+</details>
+
+<details><summary>विषयः</summary>
+
+तर्कः, धर्मः, शास्त्रम्, वेदाः
+</details>
+
+<details><summary>English</summary>
+
+It has been said, 
+
+> "He who understands dharma prescribed in the Vedas and the smṛtis  
+> with the help of arguments not opposed (to the spirit of) the Vedas and stāstras -  
+> he alone knows dharma, and not others." 
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho**,
+
+> "El que **entiende** el Dharma **prescrito** en los Vedas y los Smṛtis  
+> con la ayuda de argumentos no opuestos (al espíritu de) los Vedas y Stāstras -  
+> Él solo **conoce** al Dharma, y **​​no** otros ".
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 ‘‘आर्षं धर्मोपदेशञ्च वेदशास्त्राविरोधिना । यस्तर्केणानुसन्धत्ते स धर्मं वेद नेतरः’’(मनुस्मृति १२-१०६।) 
+
+ऎऩ्गिऱबडिये 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+ताऩ् तॆळिगैक्काग शास्त्रार्थङ्गळै सत्तर्कङ्गळोडु केट्कवेण्डुमॆऩ्बदिल् प्रमाणम् काट्टुगिऱार् आर्षमित्यादिना । आर्षं – ऋषिः – वदः, तदर्थः आर्षः, तं। ‘‘तदुक्तं ऋषिणा’’ ऎऩ्गिऱविडत्तिल् रुषिशब्दत्तै वदपरमाग शिष्टर्गळ् 
+व्याख्यानम् सॆय्दार्गळिऱे। धर्मोपदेशञ्च – धर्मशास्त्रार्थत्तैयुम्, वेदशास्त्राविरोधिना – प्रत्यक्षश्रुतिविरोधमिल्लाद, तर्केण – समीचीनमाऩ प्रमाणानुग्राहक तर्कत्तैक्कॊण्डु, यः – 
+यादॊरुवऩ्, अनुसन्धत्ते – युक्तमाऩ मुऱैयिल् निश्चयिक्किऱाऩो, सः - अवऩे, 
+धर्मं – श्रुतिस्मृत्युक्तधर्मत्तै, वेद - अऱिगिऱाऩ्। इतरः – समीचीनतर्कनिष्पाद्यमाऩ शास्त्रार्थनिर्णय 
+मिल्लादवऩ्, धर्मं न वेद – पूर्वोक्तधर्मत्तैयऱियमाट्टाऩ्। 
 </details>
 
 
 
-It has been said, "He who understands dharma prescribed in the Vedas and the smṛtis with the help of arguments not opposed (to the spirit of) the Vedas and stāstras - he alone knows dharma, and not others." Those who have not understood dharma by the proper exercise of reason will become rationalistic (and sceptical) and will misinterpret the true meaning with specious arguments inconsistent with the Vedas; it has been stated that "by the followers of Kanada (Vaiseshika logicians), the followers of Sakya (Buddhists ) and the heretics, the dharma ordained in the Vedas has disappeared."
+Those who have not understood dharma by the proper exercise of reason will become rationalistic (and sceptical) and will misinterpret the true meaning with specious arguments inconsistent with the Vedas; it has been stated that "by the followers of Kanada (Vaiseshika logicians), the followers of Sakya (Buddhists ) and the heretics, the dharma ordained in the Vedas has disappeared."
 
 This misinterpretation or denial is of two kinds--- that concerning the glorious possessions (vibhūti) and that concerning the One who possesses these glories. That concerning the One who possesses the glories consists in denying the existence of the Supreme Ruler, the Lord of Lakṣmī , or declaring some other deity as the Supreme Ruler and relegating the real Supreme Ruler to the category of His possessions (vibhūti). The misconception or misinterpretation concerning the glories consists in this : denying the existence of these glories (or objects created by God) or considering these vibhūtis as existing but as independent of the Lord by denying their relationship to Him, or declaring that they are dependent on oneself or others,
 
