@@ -912,9 +912,10 @@ y por **convencer** a los que están engañados por los argumentos engañosos (d
 शास्त्राधिकृतर् आऩालुम् मृदुप्रज्ञरागैयाले  
 कुतर्कङ्गळाले समीचीनार्थनिर्णयमिल्लादारैत्  
 तऩ् उपदेशत्ताले समीचीनार्थनिर्णयम् उळ्ळवर्गळागच् चॆय्गैक्कागवुम्,  
-समीचीनयुक्तिकळोडे - कुतर्कनिरसन-क्षमम् आऩ सत्-तर्कङ्गळोडे, केट्कप्राप्तिमिति ।  
+समीचीनयुक्तिगळोडे - कुतर्कनिरसन-क्षमम् आऩ सत्-तर्कङ्गळोडे, 
 
-सदाचार्यसकाशत्तिल् अवश्यम्म् श्रवणम् पण्ण वेण्डुमॆऩ्ऱु तात्पर्यम्। 
+केट्क प्राप्तम् इति - सदाचार्यसकाशत्तिल् अवश्यम्म् श्रवणम् पण्ण वेण्डुम्  
+ऎऩ्ऱु तात्पर्यम्। 
 </details>
 
 
@@ -1150,8 +1151,18 @@ Que con respecto al que **posee** las glorias
 
 - विभूतियैय् ऒरु मुखत्तालेय् इल्लैय् ऎऩ्ऩुदल्  
 - उण्डाक्किय् ईश्वरऩोडु सम्बन्धम् अऱुत्तु स्वतन्त्रम् ऎऩ्ऩुदल्,  
-- परतन्त्रमाक्कित् तऩ्ऩोडु पिऱरोडु पुणैप्पुदल् सॆय्गै। 
+- परतन्त्रम् आक्कित् तऩ्ऩोडु पिऱरोडु पुणैप्पुदल्+++(=बन्धनम्)+++ सॆय्गै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+विभुतेर् अपहरणं नाम -- 
+
+- विभूतेः कयाचिद् विधया नास्तित्व-साधनम्,  
+- सत्ताभ्युपगमेऽपि ईश्वर-संवन्धं निराकृत्य स्वातन्त्र्य-साधनम्  
+- पारतन्त्र्याभ्युपगमेऽपि स्व-पर-शेषत्व-प्रसाधनञ्च । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1180,12 +1191,176 @@ El concepto erróneo o la mala interpretación sobre las glorias **consiste** en
 विभूतियैयपहरिक्कैयावदु; विभूतियैयॊरु मुखत्तालेयिल्लैयॆऩ्ऩुदल्, उण्डाक्कि यीश्वरऩोडु सम्बन्धमऱुत्तु स्वतन्त्रमॆऩ्ऩुदल्, परतन्त्रमाक्कित् तऩ्ऩोडु पिऱरोडु पुणैप्पुदल् सॆय्गै। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
 
+विभूत्यपहारत्तै निरूपिक्किऱार् विभूतियै अपहरिक्कैयावदु इति । ऒरु मुखत्ताले - व्यावहारिकसत्य मॆऩ्गिऱ पर्यायत्ताले, इदु मायिमतम्। उण्डाक्कि ईश्वरऩोडु सम्बन्धमऱुत्तु स्वतन्त्रमॆऩ्ऩुदलिति । उण्डाक्कि - प्रामाणिकमाग ऒप्पुक्कॊण्डु; इदु विभूतियैयुम् ईश्वरऩैयुम् अङ्कीकरित्तु अवर्गळुक्कु नियन्तृनियाम्यभावत्तै ऒप्पुक् कॊळ्ळाद सश्वरसाङ्ख्यादिमतम्। परतन्त्रमार्क्कित् तऩ्ऩोडु पिऱरोडु पुणैप्पुदल् सॆय्गै इति । तऩ्ऩोडु - भोक्तृ जीवऩाऩ तऩ्ऩोडु, पिऱरोडु - देवतान्तरत्तोडु, पुणैप्पुदल् सॆय्गै - शेषशेषिभावसम्बन्धत्तैक् कट्टिवैत्तल्। इदु भगवत्सम्बन्धमऱ्ऱ केवल शैवमतम्। 
+</details>
 
+## कु-हैतुक-संसर्ग-वार्यता
+
+<details><summary>English</summary>
 
 ASSOCIATION WITH WICKED MEN SHOULD BE AVOIDED:
+</details>
 
-Any one of these forms of denial might occur in the case of a weak-minded man who has performed prapatti, on account of association with those who are not fit to be associated with If such a misconception should occur, it is worse "than the great sin of taking back a thing that has been given away (to charity)". That sin will deprive a man of the merit acquired by all previous gifts made from the time of birth onwards. Bat this is worse, for the object of the gift was itself acquired by stealth from the person to whom it was given later, and then the person is robbed of what was given to him. Therefore, of the many causes of delusion, association with rationalists (and sceptics) is most to be avoided. This has been declared in passages like the following:
+<details><summary>Español</summary>
+
+**Se debe evitar** la asociación con hombres malvados:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अपहारङ्गळिल्  
+एद् एऩुम् ऒऩ्ऱु स्व-रूपत्तिल्  
+मृदु-प्रज्ञऩ् आय् आत्म-समर्पणम् पण्णिऩ् अवऩुक्कु  
+विपरीत-संसर्गत्ताले वरुम् आगिल् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एष्व् अपहारेषु यस्य कस्यापि  
+स्वरूपतो मृदु-प्रज्ञे कृतात्म-समर्पणे पुंसि  
+विपरीत-संसर्गाद् उपनतौ  
+</details>
+
+<details><summary>English</summary>
+
+Any one of these forms of denial might occur  
+in the case of a weak-minded man  
+who has performed prapatti,  
+on account of association with those  
+who are not fit to be associated with. 
+</details>
+
+<details><summary>Español</summary>
+
+Cualquiera de estas formas de negación **podría ocurrir**  
+En el caso de un hombre de mente débil  
+quien ha **realizado** Prapatti,  
+Debido a la asociación con aquellos  
+que **no están** en condiciones de **estar asociados** con.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वपहारङ्गळिलेदेऩुमॊऩ्ऱु स्वरूपत्तिल् मृदुप्रज्ञऩायात्म समर्पणम् पण्णिऩवऩुक्कु विपरीतसंसर्गत्ताले वरुमागिल् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘दत्तस्य हरणेन च’’(शाण्डिल्यस्मृतिः)  
+
+ऎऩ्गिऱव् +++(दत्तस्य)+++ अपहारत्तिलुङ् कॊडियद्+++(=क्रूरम्)+++ आय्  
+
+कळवु+++(=चौर्यं)+++ कॊण्डु, कॊडुत्त द्रव्यत्तै +++(←आत्मानं)+++  
+मीळक् कळवु कॊण्डाऱ् पोलेय् आम्।+++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स 
+
+> ‘‘दत्तस्य हरणेन च’’(शाण्डिल्यस्मृतिः)  
+
+इत्य्-उक्त-पहारतो ऽपि क्रूरतरः -  
+
+स्वयम् अपहृत्य दत्तस्य द्रव्यस्य +++(←आत्मनः)+++  
+पुनर्-अपहार इव संपद्येत । 
+</details>
+
+<details><summary>English</summary>
+
+If such a misconception should occur,  
+it is worse "than the great sin of taking back a thing  
+that has been given away (to charity)".  
+That sin will deprive a man of the merit acquired by all previous gifts  
+made from the time of birth onwards.  
+But this is worse,  
+for the object of the gift  
+was itself acquired by stealth from the person to whom it was given later,  
+and then the person is robbed of what was given to him.+++(5)+++ 
+</details>
+
+<details><summary>Español</summary>
+
+Si tal concepto erróneo **se produzca**,  
+**es peor** "que el gran pecado de **recuperar** una cosa
+que se **ha dado** (a la caridad) ".  
+Que el pecado **privará** a un hombre del mérito **adquirido** por todos los regalos anteriores  
+**hecho desde** la hora del **nacimiento** en adelante.  
+
+Pero esto **es peor**,  
+para el objeto del regalo  
+**fue adquirido** por el **sigilo** de la persona a la que se **le dio** más tarde,  
+y luego la persona **es robada** de lo que **se le dio**. +++ (5) +++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘दत्तस्य हरणेन च’’(शाण्डिल्यस्मृतिः) ऎऩ्गिऱ वपहारत्तिलुङ्गॊडियदाय् कळवु कॊण्डु कॊडुत्तद्रव्यत्तै मीळक् कळवु कॊण्डाऱ्पोलेयाम्।
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+हैतुकसंसर्गम् इव्वपहारङ्गळुक्कु प्रधानकारणमागैयाले सुतरां परिहरणीयमॆऩ्गिऱार् इव्वपहारङ्गळिले एदेऩुमॊऩ्ऱु इत्यादिना ।  
+अप्रपन्न विषयत्तिल् हैतुकसंसर्गम् व्यामोहजनकमाय् बाधकमाऩालुम् प्रपन्नऩुक्कु बाधकमागुमो वॆऩ्ऩ सम्यङ्न्यस्तभरऩुक्कु बाधकमागाविडिलुम् सम्यङ्न्यस्तभररल्लादार्क्कु बाधकमा मॆऩ्गिऱार् स्वरूपत्तिल् मृदुप्रज्ञऩायित्यादिना ।  
+मृदुप्रज्ञऩाय् - तऩ् स्वरूपत्तिल् दृढमाऩ 
+शेषत्व निश्चयमिल्लादवऩाय्, आत्मसमर्पणम् पण्णिऩवऩुक्कु – भगवच्छेषत्वानुसन्धान रूपमाऩ स्वरूपसमर्पणम् पण्णिऩ प्रपन्नऩुक्कु, विपरीतसंसर्गत्ताले वरुमागिलिति ।  
+विपरीतसंसर्गत्ताले पूर्वोक्तपहारान्यतमम् वरुमागिलॆऩ्ऱबडि। दत्तस्य हरणेन च ऎऩ्गिऱ 
+अपहारत्तिलुङ्गॊडियदायिति ।  
+अपहारम् कॊडियदु; दत्तापहारम् अदिलुम् कॊडियदु; अपहृतदत्तापहारमदिलुङ् गॊडियदु ऎऩ्ऱभिप्रायम्।+++(5)+++  
+अदै विवरिक्किऱार् कळवु कॊण्डु कॊडुत्त द्रव्यत्तै मीळक् कळवुगॊण्डाऱ्पोलेयामिति ।  
+
+> ‘‘योऽन्यथा सन्तम् आत्मानम्  
+> अन्यथा प्रतिपद्यते ।  
+> किं तेन न कृतं पापं  
+> चोरेणात्मापहारिणा॥’’ +++(5)+++
+
+ऎऩ्गिऱबडि अनादिकालम् भगवच्छषभूतमाऩ स्वस्वरूपत्तै स्वतन्त्रमाग निऩैत्तु अपहरिरित्तुप्पोन्दविवऩ् भरसमर्पणकालत्तिल् भगवच्छेषत्वानुसन्धानरूपस्वरूपसमर्पणत्तैच् चॆय्दु हैतुकसंसर्गत्ताल् मऱुबडि तऩ् स्वरूपत्तै स्वतन्त्रमाग ऎण्णिऩाल् अदु अपहृतदत्तापहारतुल्यमामॆऩ्ऱु तिरुवुळ्ळम्। इदु दत्तापहारत्तिलुम् कॊडियदिऱे। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् बहु-विधङ्गळ् आऩ व्यामोह-कारणङ्गळिल्  
+हैतुक-संसर्गम् पोर परिहरणीयम्।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो बहु-विधेषु व्यामोह-कारणेषु  
+हैतुकसंसर्गः सुदूरं परिहरणीयः । 
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore, of the many causes of delusion,  
+association with rationalists (and sceptics) is most to be avoided. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, de las muchas causas de engaño,
+La **asociación** con racionalistas (y escépticos) **es** más **evitado**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् बहुविधङ्गळाऩ व्यामोहकारणङ्गळिल् हैतुक संसर्गम् पोर परिहरणीयम्।  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+आगैयाल् – अनर्थावहङ्गळिल् प्रधानमागैयाल्। बहुविधङ्गळाऩ व्यामोहकारणङ्गळिल् - अन्नदोषहैतुकसंसर्गादिरूपङ्गळाऩ व्यामोहकारणङ्गळिऩ् मध्यत्तिल्, पोरप्परिहरणीयम् - सुतरां परिहरणीयम्। 
+</details>
+
+
+This has been declared in passages like the following:
 
 “These who are heretics opposed to the Vedas, those who do things forbidden in the śāstras, those who are like cats (deceiving others ), sceptics, rationalists who depend only on reason, those who are like cranes ( ever injuring others who are near them) - these should never be honoured even with words "; so it is said also:-"A man  #suffering from starvation may beg money of a king, of his own pupil, and of the men whom he has helped to perform a sacrifice ( yajna); But one should never beg of those who are dissemblers, rationalists, heretics and men with the nature of cranes." Again, “One should associate with good men (i.e. men who know God.) Whether in dispute or friendship, one should associate only with them; one should never do any of these things with the wicked (those who do not believe in God), “Give up the company of the wicked; associate ever with the good; do whatever is righteous, both in the day and in the night, remember always that you yourself and those who are related to you are not immortal.” And again, "Far better is it to dwell in à cage of flaming fire than to commit the crime of dwelling with sceptics, who do not countenance any thought of Śaurī (Bhagavān)."
 
