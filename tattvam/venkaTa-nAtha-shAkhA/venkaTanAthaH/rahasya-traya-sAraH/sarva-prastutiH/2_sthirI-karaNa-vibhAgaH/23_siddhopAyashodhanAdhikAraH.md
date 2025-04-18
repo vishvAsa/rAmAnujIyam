@@ -821,7 +821,7 @@ La instrucción **recibida es** tal que arriba ~~ sigue ~~.
 ऎऩ्गिऱ कट्टळैयिले - ऎऩ्गिऱ रीदियिले। 
 </details>
 
-
+## शास्त्राभ्यासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बहु-क्लेशम् आय्  
@@ -865,10 +865,60 @@ Esta instrucción del Guru **es** solo importante.
 इदुवे प्रधानम् ऎऩ्गिऱार् बहुक्लेशमायित्यादिना । इदऩाल् ‘‘शास्त्रज्ञानं बहुक्लेश’’ मॆऩ्गिऱ श्लोकम् ज्ञापिक्कप्पडुगिऱदु। परमास्तिकरुमायिरुप्पार्क्किति । शास्त्रपरिश्रममिऩ्ऱिक्के परमास्तिकरायिरुप्पवर् विषयम् इन्द श्लोकम् ऎऩ्ऱु तिरुवुळ्ळम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-To others, the study of the śāstras with the proper exercise of reason is legitimate for their own clear understanding and for convincing those who are deluded by the specious arguments (of rival thinkers ).
+मऱ्ऱ् उळ्ळार्क्कुत्  
+ताङ्गळ् तॆळिगैक्क् आगवुम्  
+कु-तर्कङ्गळाले कलङ्गुवारैत् तॆळिविक्कैक्क् आगवुम्  
+समीचीन-युक्तिगळोडे +++(शास्त्र-)+++केट्क प्राप्तम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्येषां - स्वयं विशद-ज्ञान-प्राप्त्य्-अर्थं  
+कु-तर्कैर् व्यामुह्यतां प्रतिबोधनार्थञ्च  
+समीचीन-युक्तिभिः सह +++(शास्त्र-)+++श्रवणं प्राप्तम् (समुचितम्) ।
+</details>
+
+
+<details><summary>English</summary>
+
+To others,  
+the study of the śāstras with the proper exercise of reason  
+is legitimate for their own clear understanding  
+and for convincing those who are deluded by the specious arguments (of rival thinkers ).
+</details>
+
+<details><summary>Español</summary>
+
+A otros,  
+El **estudio** de los Śāstras con el **ejercicio** adecuado de la razón  
+**es** legítimo para su propia comprensión clara  
+y por **convencer** a los que están engañados por los argumentos engañosos (de los pensadores rivales).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुळ्ळार्क्कुत् ताङ्गळ् तॆळिगैक्कागवुम् कुतर्कङ्गळाले कलङ्गुवारैत् तॆळिविक्कैक्कागवुम् समीचीनयुक्तिकळोडे केट्कप्राप्तम्। 
+</details>
+
+
+
+
+<details><summary>English</summary>
 
 FORMS OF INFIDELITY:
+</details>
+
+<details><summary>Español</summary>
+
+Formas de infidelidad:
+</details>
+
+
+
+
 
 It has been said, "He who understands dharma prescribed in the Vedas and the smṛtis with the help of arguments not opposed (to the spirit of) the Vedas and stāstras - he alone knows dharma, and not others." Those who have not understood dharma by the proper exercise of reason will become rationalistic (and sceptical) and will misinterpret the true meaning with specious arguments inconsistent with the Vedas; it has been stated that "by the followers of Kanada (Vaiseshika logicians), the followers of Sakya (Buddhists ) and the heretics, the dharma ordained in the Vedas has disappeared."
 
