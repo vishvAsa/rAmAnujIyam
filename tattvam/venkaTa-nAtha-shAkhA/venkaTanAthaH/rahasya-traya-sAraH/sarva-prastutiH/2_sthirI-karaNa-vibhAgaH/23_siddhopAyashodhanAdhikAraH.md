@@ -1360,9 +1360,69 @@ La **asociación** con racionalistas (y escépticos) **es** más **evitado**.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्वर्थत्तै 
+
+> ‘‘पाषण्डिनो विकर्मस्थान्  
+> बैडाल-व्रतिकान् शठान् ।  
+> हैतुकान् बकवृत्तींश्च  
+> वाङ्मात्रेणापि नार्चयेत्॥’’  
+> (विष्णुपुराणम् ३-१८-१०१।)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इममर्थं 
+
+> ‘‘पाषण्डिनो विकर्मस्थान्  
+> बैडाल-व्रतिकान् शठान् ।  
+> हैतुकान् बकवृत्तींश्च  
+> वाङ्मात्रेणापि नार्चयेत्॥’’  
+> (विष्णुपुराणम् ३-१८-१०१।)
+</details>
+
+<details><summary>English</summary>
+
 This has been declared in passages like the following:
 
-“These who are heretics opposed to the Vedas, those who do things forbidden in the śāstras, those who are like cats (deceiving others ), sceptics, rationalists who depend only on reason, those who are like cranes ( ever injuring others who are near them) - these should never be honoured even with words "; so it is said also:-"A man  #suffering from starvation may beg money of a king, of his own pupil, and of the men whom he has helped to perform a sacrifice ( yajna); But one should never beg of those who are dissemblers, rationalists, heretics and men with the nature of cranes." Again, “One should associate with good men (i.e. men who know God.) Whether in dispute or friendship, one should associate only with them; one should never do any of these things with the wicked (those who do not believe in God), “Give up the company of the wicked; associate ever with the good; do whatever is righteous, both in the day and in the night, remember always that you yourself and those who are related to you are not immortal.” And again, "Far better is it to dwell in à cage of flaming fire than to commit the crime of dwelling with sceptics, who do not countenance any thought of Śaurī (Bhagavān)."
+> “These who are heretics opposed to the Vedas,  
+> those who do things forbidden in the śāstras,  
+> those who are like cats (deceiving others ),  
+> sceptics, rationalists who depend only on reason,  
+> those who are like cranes ( ever injuring others who are near them) -  
+> these should never be honoured even with words "; 
+</details>
+
+<details><summary>Español</summary>
+
+Esto ha sido declarado en pasajes como los siguientes:
+
+> “Estos que **son** herejes opuestos a los Vedas,  
+> Aquellos que **hacen** cosas **prohibidas** en los Śāstras,  
+> aquellos que **son** como gatos (engañando a otros),  
+> escépticos, racionalistas que **dependen** solo de la razón,  
+> Aquellos que **son** como grullas (alguna vez **hiriendo** a otros que **estén** cerca de ellos) -
+> Estos **nunca deberían ser honrados** incluso con palabras ";
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै ‘‘पाषण्डिनो विकर्मस्थान् बैडालव्रतिकान् शठान् । हैतुकान् बकवृत्तींश्च वाङ्मात्रेणापि नार्चयेत्’’(विष्णुपुराणम् ३-१८-१०१।)
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इदिल् प्रमाणम् काट्टुगिऱार् इव्वर्थत्तै इत्यादिना ।  
+पाषण्डिकळ् - योऽन्यं दवं परत्वेन, ‘‘य तु सामान्यभावन मन्यन्ते पुरुषोत्तमम् । त वै पाषण्डिनो ज्ञयाः’’ ऎऩ्गिऱबडि देवतान्तरत्तै  
+भगवाऩैक्काट्टिलुम् उत्कृष्टमायुम् भगवाऩुक्कु सममायुम् ऎण्णुमवर्गळ्, 
+विकर्मस्थर् - शिखायज्ञोपवीतत्यागिकळ्। बैडालव्रतिकर् - बिडालवत् वञ्चकर्गळ्, शठर् - गूढमाग वञ्चिक्कुमवर्गळाय् नास्तिगर्गळाऩ वेदाप्रामाण्यवादिगळ्। बकवृत्तिकळ् - बकम् पोल् सन्निहितहिंसकराऩ डम्भर्। वाङ्मात्रेणापि नार्चयेदिति । 
+</details>
+
+
+
+so it is said also:-"A man suffering from starvation may beg money of a king, of his own pupil, and of the men whom he has helped to perform a sacrifice ( yajna); But one should never beg of those who are dissemblers, rationalists, heretics and men with the nature of cranes." Again, “One should associate with good men (i.e. men who know God.) Whether in dispute or friendship, one should associate only with them; one should never do any of these things with the wicked (those who do not believe in God), “Give up the company of the wicked; associate ever with the good; do whatever is righteous, both in the day and in the night, remember always that you yourself and those who are related to you are not immortal.” And again, "Far better is it to dwell in à cage of flaming fire than to commit the crime of dwelling with sceptics, who do not countenance any thought of Śaurī (Bhagavān)."
 
 Conversation with rationalists makes men foolish in spite of their seeing, 'as their knowledge is lost by specious reasoning.' (this association with rationalists ) removes men from every one of the four classes which Iśvara calls His own, in the śloka  : “My "people" are of four classes and they are all known to be my bhaktas." It would take them away from the group of men whom Śrī Raṅganātha calls "lads who are worthy of His love." It would throw them into the midst of those who are outside the range of Bhagavān's love as declared in: " There are wicked men who do not seek my protection by performing prapatti; they are of four classes : fools, men who are vile, men who have lost their knowledge by specious reasoning and men who are of the nature of the Asuras."
 
