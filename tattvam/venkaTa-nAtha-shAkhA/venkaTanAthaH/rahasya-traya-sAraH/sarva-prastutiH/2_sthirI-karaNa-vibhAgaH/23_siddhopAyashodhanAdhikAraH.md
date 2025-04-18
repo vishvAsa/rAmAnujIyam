@@ -918,7 +918,7 @@ y por **convencer** a los que están engañados por los argumentos engañosos (d
 </details>
 
 
-
+## सद्-अर्थापहारः
 <details><summary>English</summary>
 
 FORMS OF INFIDELITY:
@@ -938,7 +938,7 @@ Formas de infidelidad:
 > स धर्मं वेद नेतरः॥’’  
 > (मनुस्मृति १२-१०६।) 
 
-ऎऩ्गिऱबडिये 
+ऎऩ्गिऱबडिये इव्व्-अर्थङ्गळै समीचीन-तर्कङ्गळाले तॆळियाद्-अवर्गळ् 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -949,7 +949,7 @@ Formas de infidelidad:
 > स धर्मं वेद नेतरः॥’’  
 > (मनुस्मृति १२-१०६।) 
 
-इत्य्-उक्त-रीत्या
+इत्य्-उक्त-रीत्या इमान् अर्थान् समीचीन-तर्कैर् अप्रबुध्यमानाः, 
 </details>
 
 <details><summary>विषयः</summary>
@@ -964,6 +964,8 @@ It has been said,
 > "He who understands dharma prescribed in the Vedas and the smṛtis  
 > with the help of arguments not opposed (to the spirit of) the Vedas and stāstras -  
 > he alone knows dharma, and not others." 
+
+Those who have not understood dharma by the proper exercise of reason will become rationalistic (and sceptical) 
 </details>
 
 <details><summary>Español</summary>
@@ -973,6 +975,9 @@ It has been said,
 > "El que **entiende** el Dharma **prescrito** en los Vedas y los Smṛtis  
 > con la ayuda de argumentos no opuestos (al espíritu de) los Vedas y Stāstras -  
 > Él solo **conoce** al Dharma, y **​​no** otros ".
+
+Aquellos que **no hayan entendido** el dharma por el ejercicio adecuado de la razón  
+**se volverán** racionalistas (y escépticos)
 </details>
 
 
@@ -981,6 +986,7 @@ It has been said,
 ‘‘आर्षं धर्मोपदेशञ्च वेदशास्त्राविरोधिना । यस्तर्केणानुसन्धत्ते स धर्मं वेद नेतरः’’(मनुस्मृति १२-१०६।) 
 
 ऎऩ्गिऱबडिये 
+इव्वर्थङ्गळै समीचीनतर्कङ्गळाले तॆळियादवर्गळ् 
 </details>
 
 <details><summary>सार-बोधिनी</summary>
@@ -990,13 +996,157 @@ It has been said,
 यादॊरुवऩ्, अनुसन्धत्ते – युक्तमाऩ मुऱैयिल् निश्चयिक्किऱाऩो, सः - अवऩे, 
 धर्मं – श्रुतिस्मृत्युक्तधर्मत्तै, वेद - अऱिगिऱाऩ्। इतरः – समीचीनतर्कनिष्पाद्यमाऩ शास्त्रार्थनिर्णय 
 मिल्लादवऩ्, धर्मं न वेद – पूर्वोक्तधर्मत्तैयऱियमाट्टाऩ्। 
+
+मेलुम् इप्पडि समीचीन-तर्कङ्गळोडु शास्त्रार्थानुसन्धानम् पण्णादवर्गळ् विबरीदरावर्गळॆऩ्गिऱार् इव्वर्थङ्गळै समीचीनतर्कङ्गळाले तॆळियादवर्गळित्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘काणाद-शाक्य-पाषण्डैस्  
+> त्रयी-धर्मो विलोपितः’’  
+> (अत्रिस्मृतिः) 
+
+ऎऩ्गिऱ बडिये  
+हैतुकर् आय् वेद-विरोधि-तर्कङ्गळैय् इट्टु  
+प्रामाणिकार्थङ्गळैय् अपहरिप्पार्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘काणाद-शाक्य-पाषण्डैस्  
+> त्रयी-धर्मो विलोपितः’’  
+> (अत्रिस्मृतिः) 
+
+इत्य्-उक्त-रीत्या  
+हैतुका भूत्वा वेदविरोधि-तर्कैः प्रामाणिकार्थान् अपहरन्ति । 
+</details>
+
+
+<details><summary>English</summary>
+
+will misinterpret the true meaning  
+with specious arguments inconsistent with the Vedas;  
+it has been stated that 
+
+> "by the followers of Kanada (Vaiseshika logicians),  
+> the followers of Sakya (Buddhists ) and the heretics,  
+> the dharma ordained in the Vedas has disappeared."
+</details>
+
+<details><summary>Español</summary>
+
+**malinterpretará** el verdadero significado  
+con argumentos engañosos inconsistentes con los Vedas;  
+**se ha dicho** que  
+
+> "Por los **seguidores** de Kanada (lógicos de Vaiseshika),
+> Los seguidores de Sakya (budistas) y los herejes,
+> El Dharma ordenado en los Vedas **ha desaparecido** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थङ्गळै समीचीनतर्कङ्गळाले तॆळियादवर्गळ् ‘‘काणादशाक्यपाषण्डैस्त्रयीधर्मो विलोपितः’’(अत्रिस्मृति।) ऎऩ्गिऱबडिये हैतुकराय् वेदविरोधितर्कङ्गळैयिट्टु प्रामाणिकार्थङ्गळैयपहरिप्पार्गळ्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+काणादेति । काणादैः 
+वैशेषिकशास्त्रनिष्ठैः, शाक्यैः – बौद्धैः, पाषण्डैः – पाशुपतमतस्थैः, हैतुकराय् - वदविरुद्धहेतुवादिगळाय्, शुष्कतार्किकर्गळाय् ऎऩ्ऱबडि। प्रामाणिकार्थङ्गळै अपहरिप्पार्गळ् - सत्तर्कसहितप्रमाणङ्गळाले सिद्धङ्गळाऩ अर्थङ्गळै इल्लै सॆय्वार्गळ्। 
 </details>
 
 
 
-Those who have not understood dharma by the proper exercise of reason will become rationalistic (and sceptical) and will misinterpret the true meaning with specious arguments inconsistent with the Vedas; it has been stated that "by the followers of Kanada (Vaiseshika logicians), the followers of Sakya (Buddhists ) and the heretics, the dharma ordained in the Vedas has disappeared."
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-This misinterpretation or denial is of two kinds--- that concerning the glorious possessions (vibhūti) and that concerning the One who possesses these glories. That concerning the One who possesses the glories consists in denying the existence of the Supreme Ruler, the Lord of Lakṣmī , or declaring some other deity as the Supreme Ruler and relegating the real Supreme Ruler to the category of His possessions (vibhūti). The misconception or misinterpretation concerning the glories consists in this : denying the existence of these glories (or objects created by God) or considering these vibhūtis as existing but as independent of the Lord by denying their relationship to Him, or declaring that they are dependent on oneself or others,
+इव्व् अपहारं विभूतियैयुम् विभूतिमाऩैयुम् पऱ्ऱव्  
+इरण्डु वगैय् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयम् अपहारो विभृति-विषयको विभूतिमद्-विषयकश् चेति  
+द्विविधो भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+This misinterpretation or denial is of two kinds---  
+that concerning the glorious possessions (vibhūti)  
+and that concerning the One who possesses these glories. 
+</details>
+
+<details><summary>Español</summary>
+
+Esta mala interpretación o negación **es** de dos tipos ---  
+que con respecto a las gloriosas posesiones (Vibhūti)  
+y eso con respecto al que **posee** estas glorias.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वपहारंविभूतियैयुम् विभूतिमाऩैयुम् पऱ्ऱविरण्डु वगैयायिरुक्कुम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इव्वपहारत्तै विभजित्तुक् काट्टुगिऱार् इव्वपहारम् विभूतियैयुम् विभूतिमाऩैयुम् पऱ्ऱ इरण्डु वगैयायिरुक्कुमिति । अदिल् विभूतिमदपहारम् क्रूरमागैयाल् मुन्दुऱ अदै निरूपिक्किऱार् अदिल् विभूतिमाऩै अपहरिक्कैयावदु इत्यादिना । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् विभूतिमाऩैय् अपहरिक्कैय् आवदु;  
+
+- श्रियः-पतिय् आऩ सर्वेश्वरऩै इल्लैय् ऎऩ्ऩुदल्,  
+- वेऱ् ऒरुत्तऩै ईश्वरऩ् आगक् कट्टि  
+  सर्वेश्वरऩै विभूति-कोटियिले वैत्तल् सॆय्गै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्र विभूतिमतोऽपहरणं नाम —  
+
+- श्रियः पत्यौ सर्वेश्वरे नास्तित्वाभिमानः,  
+- अन्यं कञ्चिद्-ईश्वरत्वेन परिकल्प्य  
+  सर्वेश्वरस्य विभूति-कोटौ निवेशनञ्च । 
+</details>
+
+
+<details><summary>English</summary>
+
+That concerning the One who possesses the glories  
+
+- consists in denying the existence of the Supreme Ruler, the Lord of Lakṣmī , 
+- or declaring some other deity as the Supreme Ruler 
+  and relegating the real Supreme Ruler to the category of His possessions (vibhūti). 
+</details>
+
+<details><summary>Español</summary>
+
+Que con respecto al que **posee** las glorias
+
+- **Consiste** en **negar** la **existencia** del gobernante supremo, el Señor de Lakṣmī,
+- o **declarar** a otra deidad como el gobernante supremo  
+  y **relegar** al gobernante supremo real a la categoría de sus posesiones (Vibhūti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिल् विभूतिमाऩैयपहरिक्कैयावदु; श्रियःपतियाऩ सर्वेश्वरऩै इल्लैयॆऩ्ऩुदल्, वेऱॊरुत्तऩै ईश्वरऩागक् कट्टि सर्वेश्वरऩै विभूतिकोटियिले वैत्तल् सॆय्गै। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+श्रियःपतियाऩ सर्वेश्वरऩै इल्लैयॆऩ्ऩुदलिति । सर्वेश्वरऩैयिल्लैयॆऩ्ऱु सॊल्वदु निरीश्वरमीमांसकसाङ्ख्यर्गळिऩ् मतम्। वेऱॊरुत्तऩैयित्यादि शैवादिमतम्। 
+</details>
+
+
+
+The misconception or misinterpretation concerning the glories consists in this : denying the existence of these glories (or objects created by God) or considering these vibhūtis as existing but as independent of the Lord by denying their relationship to Him, or declaring that they are dependent on oneself or others,
 
 ASSOCIATION WITH WICKED MEN SHOULD BE
 
