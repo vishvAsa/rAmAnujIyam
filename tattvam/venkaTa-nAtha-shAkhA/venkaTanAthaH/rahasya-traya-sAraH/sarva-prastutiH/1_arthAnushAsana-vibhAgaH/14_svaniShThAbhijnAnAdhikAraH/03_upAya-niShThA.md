@@ -22,9 +22,9 @@ he is in the proper state in relation to the knowledge concerning the upāya.
 
 <details><summary>Español</summary>
 
-Si, en él, se encuentran estas características que siguen,  
-el hombre que ha realizado Prapatti puede inferir que  
-está en el estado apropiado en relación con el conocimiento sobre el upāya.
+Si, en él, **se encuentran** estas características que siguen,  
+el hombre que **ha realizado** Prapatti **puede inferir** que  
+**está** en el estado apropiado en relación con el **conocimiento** sobre el upāya.
 </details>
 
 
@@ -44,12 +44,14 @@ está en el estado apropiado en relación con el conocimiento sobre el upāya.
 अवैगळै यडैवे उपपादिक्किऱार् सर्वेश्वरऩैयॊऴिय इत्यादियाल्। 
 </details>
 
-
+## लिङ्गानि
+### ईश्वर-सखिता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > सर्वेश्वरऩैय् ऒऴियत्  
-ताऩुम्, पिऱरुन्  
-तऩक्कुत् तञ्जम् अऩ्ऱ् 
++++(स्वतः, न तु तद्-अङ्गतया)+++ ताऩुम्, पिऱरुन्  
+तऩक्कुत् तञ्जम्+++(=आपत्-सखा)+++ अऩ्ऱ्  
+
 
 ऎऩ्गिऱ बुद्धियुम् 
 </details>
@@ -57,7 +59,7 @@ está en el estado apropiado en relación con el conocimiento sobre el upāya.
 <details><summary>नीलमेघः (सं)</summary>
 
 > सर्वेश्वरं विना  
-स्वात्मा च परे च  
++++(स्वतः, न तु तद्-अङ्गतया)+++ स्वात्मा च परे च  
 स्वस्य न रक्षका 
 
 इति बुद्धिः,  
@@ -74,8 +76,8 @@ and that Iśvara is his only Protector :
 
 <details><summary>Español</summary>
 
-(1) Comprende que, para él, no hay protección de sí mismo o de los demás  
-y que Iśvara es su único protector:
+(1) **Comprende** que, para él, **no hay protección** de sí mismo o de los demás  
+y que Iśvara **es** su único protector:
 </details>
 
 <details><summary>मूलम्</summary>
@@ -83,7 +85,7 @@ y que Iśvara es su único protector:
 सर्वेश्वरऩैयॊऴियत् ताऩुम् पिऱरुन्दऩक्कुत् तञ्जमऩ्ऱॆऩ्गिऱ बुद्धियुम् 
 </details>
 
-
+### मृत्याव् अ-भीः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृत्युपर्यन्तम् आऩ भयहेतुक्कळैक् कण्डालुम् 
@@ -109,13 +111,22 @@ y que Iśvara es su único protector:
 > ‘‘प्रायेणाकृत-कृत्यत्वान्  
 > मृत्योर् उद्विजते जनः ।  
 > कृत-कृत्याः प्रतीक्षन्ते  
-> मृत्युं प्रियम् इवातिथिम्’’  
+> मृत्युं प्रियम् इवातिथिम्॥’’  
 > (इतिहास-समुच्चयः ७-३८) 
 
 इत्य्-उक्त-रीत्या  
 एतच्-छरीरानन्तरं किं दुःखम् अनुभविष्याम इत्य् उद्वेगं हित्वा   
 अभिमतासत्त्या संप्रीततया ऽवस्थानम्, 
 </details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+यद्य् उन्नत-पदवीं प्रति गमने  
+नीच-पदवी त्याज्या,  
+तत्र को शोकः?  
+एवं प्रपन्नस्य जीव-त्यागोऽपि। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -133,15 +144,15 @@ for it has been said:
 
 <details><summary>Español</summary>
 
-(2) Aunque se enfrenta a causas de miedo incluso a la medida de la muerte,  
-El no lamenta su estado  
-y se siente satisfecho con el enfoque de lo que es deseable,  
-porque se ha dicho:
+(2) Aunque **se enfrenta** a causas de miedo incluso a la medida de la muerte,  
+El **no lamenta** su estado  
+y **se siente satisfecho** con el enfoque de lo que es deseable,  
+porque **se ha dicho**:
 
-> "La gente generalmente tiene miedo a la muerte  
-> Porque no han hecho lo que deberían haber hecho;  
-> Aquellos que han hecho lo que deben hacer  
-> Espere la muerte como si fuera un invitado bienvenido "
+> "La gente generalmente **tiene** miedo a la muerte  
+> Porque **no han hecho** lo que **deberían haber hecho**;  
+> Aquellos que **han hecho** lo que **deben hacer**  
+> **Espere** la muerte como si fuera un invitado bienvenido "
 </details>
 
 
@@ -158,10 +169,11 @@ porque se ha dicho:
 सर्वज्ञऩाय् सर्वशक्तियायिरुक्किऱ भगवाऩै नीये रक्षकऩागवेण्डुमॆऩ्ऱु वरित्तु भरत्तै समर्पित्तोम् अवऩुडैय आदरणम् इरुक्कुम्बोदु नमक्कु फलसिद्धि अवश्यं भावि ऎऩ्गिऱ नम्बिक्कै महाविश्वास इति यावत् ऒरुवऩुक्कु इरुन्दाल् अदै रक्षकावष्टम्भत्तालुण्डाऩ तेऱ्ऱमॆऩ्गिऱदु। इदु ऒरु उपायनिष्ठाज्ञापकलिङ्गम्। 
 </details>
 
+### भगवद्-रक्षायां विश्वासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘गजं वा **वीक्ष्य** सिंहं वा  
-> व्याघ्रं वाऽपि वरानना ।  
+> व्याघ्रं वाऽपि +++(भय-राहित्यात् →)+++ वरानना ।  
 > **नाहारयति** संत्रासं  
 > बाहू रामस्य संश्रिता’’  
 > (रामा अयोध्या-६०-२०।) +++(5)+++
@@ -172,7 +184,7 @@ porque se ha dicho:
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘गजं वा **वीक्ष्य** सिंहं वा  
-> व्याघ्रं वाऽपि वरानना ।  
+> व्याघ्रं वाऽपि +++(भय-राहित्यात् →)+++ वरानना ।  
 > **नाहारयति** संत्रासं  
 > बाहू रामस्य संश्रिता’’  
 > (रामा अयोध्या-६०-२०।) +++(5)+++
@@ -182,14 +194,14 @@ porque se ha dicho:
 
 <details><summary>English</summary>
 
-"The beautiful Sītā, resting on the arm of ŚrīRāma,  
+"The beautiful Sītā, resting on the arm of Śrī Rāma,  
 was not afraid at the sight of the elephant, the lion or the tiger (when she was with him in the forest)" 
 </details>
 
 <details><summary>Español</summary>
 
-"La hermosa sītā, descansando sobre el brazo de Śrīrāma,  
-no tenía miedo al ver al elefante, al león o al tigre (cuando ella estaba con él en el bosque) "
+"La hermosa sītā, **descansando** sobre el brazo de Śrī rāma,  
+**no tenía** miedo al **ver** al elefante, al león o al tigre (cuando ella **estaba** con él en el bosque) "
 </details>
 
 
@@ -240,12 +252,12 @@ no tenía miedo al ver al elefante, al león o al tigre (cuando ella estaba con 
 
 <details><summary>Español</summary>
 
-(Ella le dijo a Ravana :-)
+(Ella **le dijo** a Ravana :-)
 
-> ¡Oh, (Rākṣasa) con diez cabezas que merecen ser reducidas a cenizas!  
-> Porque no he obtenido el permiso de Śrīrāma  
-> Y porque tengo que apreciar mis tapas como pativratā (una esposa dedicada a su esposo),  
-> No te quito las cenizas por la llama (de mi castidad)
+> ¡Oh, (Rākṣasa) con diez cabezas que **merecen ser reducidas** a cenizas!  
+> Porque no **he obtenido** el permiso de Śrīrāma  
+> Y **porque tengo** que **apreciar** mis tapas como pativratā (una esposa dedicada a su esposo),  
+> **No te quito** las cenizas por la llama (de mi castidad)
 </details>
 
 
@@ -259,7 +271,6 @@ no tenía miedo al ver al elefante, al león o al tigre (cuando ella estaba con 
 ताऩ् भरन्यासम् पण्णिऩ विषयत्तिल् स्वयत्न मऱ्ऱिरुक्कै ऒरु उपायनिष्ठा ज्ञापकलिङ्गम्। इदै पिराट्टि नडत्तिक्काट्टिऩाळ् ऎऩ्बदिल् प्रमाणमरुळिच्चॆय्गिऱार् असन्देशादिति । रामस्य – रामऩुडैय, असन्देशात् – अनुज्ञैयिल्लामैयालुम्, रामानुज्ञैयिल्लाविट्टालुम् उऩ्ऩिष्टप्पडि सॆय्यलागादो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् तपस इति । तपसः – पातिव्रत्यरूपमाऩ तपस्सिऩुडैय, पतिपारतन्त्र्यरूपतपस्सिऩुडैय ऎऩ्ऱबडि। अनुपालनाच्च – संरक्षणत्तालेयुम्, इङ्गु चकारम् उक्तसमुच्चायकम्, संरक्ष्यमाणस्य अवश्यं कर्तव्यत्वात् ऎऩ्ऱबडि। भस्मार्ह – भस्मीकर्तुं योग्यऩाऩ, भस्मीकरणनिमित्तमाऩ महापराधत्तै युडैयवऩाऩ, दशग्रीव – पत्तु तलैयैप्पडैत् तोमॆऩ्ऱु अहङ्कारप्पडुम् रावणऩे! तेजसा – पातिव्रत्यरूपतेजस्साले, त्वा – इप्पडि अपराधप्पट्टु ऎदिरिलिरुक्कुम् उऩ्ऩै, भस्म न कुर्मि – भस्मनकरोमीत्यर्थः । कुर्मि ऎऩ्ऱु आर्षम् रूपव्यत्ययम्।  
 इदऩाल् फलत्तिल् स्वयत्नविरति सॊल्लप्पट्टदु अन्द फलत्तिल् अनिष्टनिवृत्तियुम् इष्टप्राप्तियुम् अवऩ् कैयदे ऎऩ्ऱिरुक्कै ऒरु उपायनिष्ठाज्ञापकलिङ्गम्।+++(5)+++  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -297,9 +308,9 @@ and likewise,
 
 Y de la misma manera,
 
-> "Si Rāma, que puede destruir las fuerzas de sus enemigos, llena a Lanka con sus flechas  
-> y llévame de aquí  
-> Estará de acuerdo con su personaje ".
+> "Si Rāma, que puede **destruir** las fuerzas de sus enemigos, **llena** a Lanka con sus flechas  
+> y **llévame** de aquí  
+> **Estará** de **acuerdo** con su personaje ".
 </details>
 
 
@@ -326,13 +337,13 @@ Y de la misma manera,
 
 <details><summary>English</summary>
 
-(3) Tiene la confianza perfecta de haber encontrado un salvador.  
-Sītā Devi enseñó esto por su ejemplo.
+(3) He has the perfect confidence of having found a Saviour. Sītā Devi taught this by her example. 
 </details>
 
 <details><summary>Español</summary>
 
-(3) He has the perfect confidence of having found a Saviour. Sītā Devi taught this by her example. 
+(3) **Tiene** la confianza perfecta de **haber encontrado** un salvador.  
+Sītā Devi enseñó esto por su ejemplo.
 </details>
 
 
@@ -341,7 +352,7 @@ Sītā Devi enseñó esto por su ejemplo.
 पिराट्टि नडत्तिक्काट्टिऩ रक्षकावष्टंभत्तालुळ्ळ तेऱ्ऱमुम्, 
 </details>
 
-
+### मोक्षे निर्भरता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताऩ् भरन्यासम् पण्णिऩ +++(फलस्य)+++ विषयत्तिल् स्व-यत्नम् अऱ्ऱ् इरुक्कैयुम्,
@@ -361,8 +372,8 @@ the prapanna is without any (further) effort of his own (to save himself).
 
 <details><summary>Español</summary>
 
-Con respecto al objeto por el que ha hecho bharanyāsa,  
-La Prapanna no tiene ningún esfuerzo (más) propio (para salvarse).
+Con respecto al objeto por el que **ha hecho** bharanyāsa,  
+La Prapanna **no tiene** ningún **esfuerzo** (más) propio (para salvarse).
 </details>
 
 
@@ -396,9 +407,9 @@ are in the Lord's hands alone.
 
 <details><summary>Español</summary>
 
-En ese asunto, se da cuenta de que la eliminación de lo que es mal  
-y el logro de lo que es bueno  
-están en las manos del Señor solas.
+En ese asunto, **se da cuenta** de que la **eliminación** de lo que es mal  
+y el **logro** de lo que es bueno  
+**están** en las manos del Señor solas.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -442,12 +453,12 @@ and which is implicit also in the middle word of Tirumantra (namo).
 
 <details><summary>Español</summary>
 
-Si tiene estas características,  
-Se puede inferir que se fija firmemente en el upāya que ha buscado  
-y cuál es el medio para obtener todos los beneficios deseados por él,  
-que se prescribe como un upāya en la primera mitad del carama Śloka,  
-que se debe pensar en la primera parte de Dvaya  
-y que está implícito también en la palabra media de tirumantra (namo).
+Si **tiene** estas características,  
+Se **puede inferir** que **se fija** firmemente en el upāya que **ha buscado**  
+y cuál **es** el medio para **obtener** todos los beneficios deseados por él,  
+que **se prescribe** como un upāya en la primera mitad del carama Śloka,  
+que **se debe pensar** en la primera parte de Dvaya  
+y que **está implícito** también en la palabra media de tirumantra (namo).
 </details>
 
 

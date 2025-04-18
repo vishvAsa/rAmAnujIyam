@@ -37,7 +37,7 @@ La respuesta es la siguiente:
 इऩि स्वरूपोपायार्थङ्गळिल् तऩक्कु निष्ठै उण्डॆऩ्ऱऱियलाम्बडियै प्रश्नपूर्वमाग वॆळियिडुगिऱार् इप्पडि तऩक्कु इत्यादि महाचूर्णिकैयाले। इप्पडि - कीऴ् श्लोकत्तिल् सॊऩ्ऩबडि। तऩक्कु – प्रपन्नोत्तमऩाऩ तऩक्कु, निष्ठै – स्वरूपोपायार्थङ्गळिल् अवितथनिविष्टस्थिरमतित्वरूपमाऩ दृढाद्ध्यवसायम्। 
 </details>
 
-
+## लिङ्गानि
 
 <details><summary>English</summary>
 
@@ -49,7 +49,7 @@ I. Signs or marks regarding niṣṭhā in Svarūpa
 I. Signos o marcas sobre Niṣṭhā en Svarūpa
 </details>
 
-
+### निन्दायाम् अविषादः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परराले परिभवादिगळ् उण्ड् आम् बोदु  
@@ -96,6 +96,7 @@ no tiene conexión (en absoluto) con su naturaleza esencial,
 मुदलिल् स्वरूपनिष्ठाभिज्ञानत्तिल् हेतुक्कळै उपपादिक्किऱार् परराले इत्यादिना । परिभवादिगळ् उण्डागुम्बोदु इति । इदऩाल् विषादादि हेतुसत्वम् सॊल्लप्पट्टदु। इवऩ् विषादमऱ्ऱिरुक्कुगैक्कु हेतुवाऩ परमार्था-नुसन्धानत्तैक् काट्टुगिऱार् तऩ् देहादिगळैप् पऱ्ऱ इत्यादिना । परपरिभावकर्गळ् सॊल्लुगिऱ कुऱ्ऱङ्गळ् अनभिजातत्वासुन्दरत्वादिगळ्। विषादादिगळिति । आदिपदत्ताल् क्रोधादिसङ्ग्रहः । अऱ्ऱिरुक्कै - उण्डाय् तणिन्दवै यऩ्ऱिक्के आत्यन्तिकमाग उण्डागामले इरुक्कै। 
 </details>
 
+### निन्दके ऽनुकम्पा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘‘शप्यमानस्य यत् पापं  
@@ -302,7 +303,7 @@ he (the prapanna) should feel overwhelming compassion as stated in such ślokas
 ऎऩ्गिऱबडिये - ‘‘सुतरामनुकम्पेत’’ ऎऩ्ऱु इन्द श्लोकत्तिल् सॊऩ्ऩबडिये, करैबुरण्ड कृपैयुम् - वेलातीतमाऩ कृपैयुम्, पापिकळिडत्तिलुम् व्याप्तमाऩ कृपैयुमॆऩ्ऱबडि। 
 </details>
 
-
+### निन्दके कृतज्ञता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘अमर्यादः क्षुद्रः’’ ( चल-मतिर् असूया-प्रसव-भूः  
@@ -371,8 +372,8 @@ En Aḷavandār's \*śloka
 [[१११]]
 
 "कान्तोऽभवम् क्लान्तो भूत्वा …"  
+
 इत्य्- आदिभिर् दिव्य-सूरि-गाथाभिश् च 
- 
 </details>
 
 
@@ -450,7 +451,7 @@ que **se han descrito** (en tales versos) como adecuados para ser reflejados en 
 परिभावकर्गळ् तऩ् दोषोक्तिकळाले मऱवामल्सॆय्दार्गळ् ऎऩ्गिऱ उपकारस्मृतियिऩ् आकारप्रदर्शनम् ।  
 </details>
 
-
+### कर्माभिज्ञानेन निर्विकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्माक्कळुक्क् ऎल्लाम् स्व-रूपानुबन्धिय् आऩ भगवत्-पारतन्त्र्यत्तैयुम्  
@@ -510,9 +511,10 @@ Por lo tanto, **no sentiría** aversión a ellos.
 ऒरु प्रपन्नऩुक्कु, सर्वात्माक्कळुम् ईश्वरपरतन्त्रर्गळॆऩ्ऱुम्, कर्मवश्यर्गळॆऩ्ऱुम्, परिभावकरै कर्मानुगुणमागप्रेरिप्पित्तु नमक्कु परिभवत्तै उण्डुबण्णुगिऱाऩॆऩ्ऱुम्, नम् कर्मानुगुणमाग नाम् परिभाव्य राऩोमॆऩ्ऱुम् निश्चयमुण्डाऩाल् परिभावकर् विषयत्तिल् अवऩुक्कु चित्तविकार मुण्डागादॆऩ्गिऱार् आत्माक्कळुक्कॆल्लामित्यादियाल्। इऩ्बुऱुमिव्विळै याट्टुडैयऩाऩ - इऩ्बुऱुगै - आनन्दत्तैय् उण्डुबण्णुगै, इव्विळैयाट्टुडैयऩाऩ - इन्द कर्मानुरूपफलप्रदानरूपलीलैयै युडैयवऩाऩ वॆऩ्ऱबडि। 
 </details>
 
+### पापनाशे तोषः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रारब्ध-पाप-विशेषञ् शिखैय् अऱुगिऱद्+++(=विनाभवति)+++ ऎऩ्गिऱ सन्तोषमुम् नडैय्-आड् इऱ्ऱागिल्+++(=भूतेषु)+++ 
+प्रारब्ध-पाप-विशेषञ् शिखैय् अऱुगिऱद्+++(=विनाभवति)+++ ऎऩ्गिऱ **सन्तोषमुम्** नडैय्-आड् इऱ्ऱागिल्+++(=भूतेषु)+++ 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -549,7 +551,8 @@ Si tiene estas marcas o características ...
 सन्तोषत्तिऩ् प्रकारत्तैक् काट्टुगिऱार् प्रारब्धपापविशेषमित्यादिना । सिगैयऱुगिऱदु - सिगै - एकदेशम्। अऱुगै - नसित्तल्, अनुभवैकनाश्यमाऩ अभ्युपगतप्रारब्धत्तिल् एकदेशम् परपरिभवादिरूपफलानुभवत्ताले नसित्तुप् पोगिऱदॆऩ्ऱबडि। ऎऩ्गिऱ सन्तोषमुम् - एतादृशाकारमाऩ सन्तोषमुम्, प्रारब्धपापविशेषञ्जिगैयऱुगिऱदु इत्यन्तम् सन्तोषाकारत्तैक् काट्टुगिऱदु। नडैयाडिऱ्ऱागिल् - तमक्कु इरुन्ददेयागिल्। 
 </details>
 
-## स्वरूप-विशेषाः
+## स्वरूप-विशेषा अनुमेयाः (ॐ नमः)
+### चित्ता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रथम+++(→ॐ)+++-मध्यम+++(→नमः)+++-पदङ्गळिले शोधितम् आऩ बडिये **अ-चिद्-वैलक्षण्यत्तैयुम्**,
@@ -589,6 +592,7 @@ La Prapanna **puede considerar** que se ha dado cuenta de su diferencia de ACIT 
 +अचिद्-विलक्षण-स्वरूप-निष्ठा--कार्यम् आगैयाले विषादाभावादिगळाल् तादृश-स्वरूप-निष्ठैयैय् अऱियलामॆऩ्ऱु करुत्तु। 
 </details>
 
+### सर्व-हितता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(परिभावकेषु कृपया कैमत्येन)+++ **सर्व-भूतानुकूल्यादिगळुक्कु** योग्यम् आऩ ज्ञानत्तैयुम्, +++(5)+++  
@@ -606,7 +610,7 @@ that he possesses knowledge which will enable him to act beneficially towards al
 
 <details><summary>Español</summary>
 
-que posee conocimiento que le permitirá actuar de manera beneficiosa hacia todos los seres,
+que **posee conocimiento** que le **permitirá actuar** de manera beneficiosa hacia todos los seres,
 </details>
 
 
@@ -621,6 +625,7 @@ que posee conocimiento que le permitirá actuar de manera beneficiosa hacia todo
 सर्वभूतानुकूल्यादिगळुक्कु योग्यमाऩ ज्ञानत्तैयुडैय तऩ् स्वरूपत्तिल् निष्ठैयुण्डॆऩ्ऱऱियलाम्। +++(5)+++
 </details>
 
+### आकिञ्चन्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(परिभावकोक्ति-स्मारितम्)+++ सर्वतोमुखमाऩ **आकिञ्चन्यत्तैयुम्**, 
@@ -638,7 +643,7 @@ that he feels his being destitute of upāyas of any kind,
 
 <details><summary>Español</summary>
 
-que siente que es indigente de upāyas de cualquier tipo,
+que **siente** que es indigente de upāyas de cualquier tipo,
 </details>
 
 
@@ -654,7 +659,7 @@ que siente que es indigente de upāyas de cualquier tipo,
 सर्वतोमुखम् आऩ आकिञ्चन्यत्तैय् उडैय तऩ् स्वरूपत्तिल् निष्ठैयुण्ड् ऎऩ्ऱऱियलाम्। 
 </details>
 
-
+### शेषता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वतस् सर्व-समऩ् आय्  
@@ -682,12 +687,12 @@ and who is the independent śeṣī for whom all else exist
 
 <details><summary>Español</summary>
 
-que él conoce su existente únicamente para el cumplimiento de los propósitos de Bhagavān  
-y depende completamente de él  
-y, por lo tanto, debe hacer lo que le agrade al Señor,  
+que él **conoce** su existente únicamente para el cumplimiento de los propósitos de Bhagavān  
+y **depende** completamente de él  
+y, por lo tanto, **debe hacer** lo que le agrade al Señor,  
 quien, por su propia naturaleza, es imparcial  
-quien recompensa (o castiga), cada uno según su karma,  
-y quien es el Śeṣī independiente, para quien todo lo demás existe
+quien **recompensa (o castiga)**, cada uno según su karma,  
+y quien **es** el Śeṣī independiente, para quien todo lo demás existe
 </details>
 
 
@@ -740,15 +745,15 @@ Direct me to do whatever is good for me, O Madhava!"
 
 <details><summary>Español</summary>
 
-y que entiende que su bien  
-puede surgir solo de la voluntad de otro (es decir) el Señor,
+y que **entiende** que su bien  
+**puede surgir** solo de la voluntad de otro (es decir) el Señor,
 
-Como se ha señalado en el Śloka;
+Como **se ha señalado** en el Śloka;
 
-> “¿Dónde estoy, que estoy tan lleno de pensamientos malvados?  
-¿Dónde está la posibilidad de mi búsqueda de lo que es bueno para mí?  
-¡Por lo tanto, oh tú, que controlan a los dioses!  
-¡Diríame a hacer lo que sea bueno para mí, oh Madhava! "
+> “¿Dónde **estoy**, que **estoy** tan **lleno** de **pensamientos** malvados?  
+¿Dónde **está** la posibilidad de mi **búsqueda** de lo que es bueno para mí?  
+¡Por lo tanto, oh tú, que **controlan** a los dioses!  
+**¡Diríame a hacer** lo que sea bueno para mí, oh Madhava! "
 </details>
 
 
