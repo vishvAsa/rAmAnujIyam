@@ -1,5 +1,5 @@
 +++
-title = "+डॆङ्कणी-कोट्टै-श्रीनिवासः - पञ्च-काल-प्रकाशः"
+title = "+डॆङ्कणि-कोट्टै-श्रीनिवासः - पञ्च-काल-प्रकाशः"
 
 +++
 Source: [TW](https://archive.org/details/panchakalaprakas015157mbp/page/n65/mode/2up)
