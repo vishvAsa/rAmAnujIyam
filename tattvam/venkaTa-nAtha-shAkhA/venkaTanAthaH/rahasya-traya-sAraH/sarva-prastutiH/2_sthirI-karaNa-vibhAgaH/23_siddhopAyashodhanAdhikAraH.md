@@ -1618,7 +1618,7 @@ Y de nuevo,
 > ‘‘मायया ऽपहृत-ज्ञानाः’’(गीता ७-१५।) 
 
 ऎऩ्गिऱबडिये  
-कण्डु मति-गॆट्टाऩ् आक्कि, 
+कण्डु-मति कॆट्टाऩ् आक्कि, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -1627,7 +1627,24 @@ Y de nuevo,
 
 > ‘‘मायया ऽपहृत-ज्ञानाः’’(गीता ७-१५।) 
 
-इति रीत्या लब्ध-ज्ञान-भ्रष्टम् आपाद्य,
+इति रीत्या  
+लब्ध-ज्ञान-भ्रष्टताम् आपाद्य,
+</details>
+
+<details><summary>English</summary>
+
+Conversation with rationalists makes men foolish  in spite of their seeing,  
+
+> 'as their knowledge is lost by specious reasoning.'  
+</details>
+
+<details><summary>Español</summary>
+
+La conversación con los racionalistas  
+**hace** que los hombres **sean**  
+tontos a **pesar** de su visión,
+
+> 'ya que **su conocimiento se pierde** por un **razonamiento** engañoso'.
 </details>
 
 
@@ -1637,15 +1654,170 @@ Y de nuevo,
 </details>
 
 
-Conversation with rationalists makes men foolish in spite of their seeing,  
+<details><summary>सार-बोधिनी</summary>
 
-> 'as their knowledge is lost by specious reasoning.'  
+इऩि हैतुकसम्भाषणत्तिऩ् अनर्थावहत्वत्तैक् काट्टुगिऱार् इन्द हैतुकरोट्टै सम्भाषणमित्यादिना । कण्डु मदिगॆट्टाऩाक्कि तॆरिन्दिरुन्दुम् पुत्तिगॆट्टवऩागप्पण्णि। 
+</details>
 
-(this association with rationalists ) removes men from every one of the four classes which Iśvara calls His own, in the śloka  : “My "people" are of four classes and they are all known to be my bhaktas." It would take them away from the group of men whom Śrī Raṅganātha calls "lads who are worthy of His love." It would throw them into the midst of those who are outside the range of Bhagavān's love as declared in: " There are wicked men who do not seek my protection by performing prapatti; they are of four classes : fools, men who are vile, men who have lost their knowledge by specious reasoning and men who are of the nature of the Asuras."
 
-Even men with supreme faith that have sought the protection of the Supreme Ruler who is the Saviour of those that have no one to protect them - even they[^64] , we know. become deluded by association with others; though they are not cast away, they have afterwards to be corrected by good ācāryas.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[^64]: Embar became subject to misconceptions owing to his association with Yādavaprakāśa and had to be corrected by Peria Tirumalai Nambi.
+> ‘‘चतुर्विधा मम जना  
+> भक्ता एव हि ते श्रुताः’’  
+> (भारतम् शान्ति-पर्व ३५०-३३) 
+
+ऎऩ्ऱु ईश्वरऩ् "नम्म्-उडैयवर्गळ्" ऎऩ्ऩुम्  
+नालु वगैयिलुङ् गूडादे 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘चतुर्विधा मम जना  
+> भक्ता एव हि ते श्रुताः’’  
+> (भारतम् शान्ति-पर्व ३५०-३३) 
+
+इतीश्वरेणास्मदीया इत्य्-उक्तेषु  
+चतुः-प्रकारेष्व् अनन्तर्भाव्य, 
+</details>
+
+<details><summary>English</summary>
+
+(this association with rationalists ) removes men from  
+every one of the four classes  
+which Iśvara calls His own, in the śloka  :  
+
+> “My "people" are of four classes  
+> and they are all known to be my bhaktas." 
+</details>
+
+<details><summary>Español</summary>
+
+(esta asociación con racionalistas) **elimina** a los hombres de  
+cada una de las cuatro clases  
+que iśvara **llama** suyo, en el śloka:
+
+> "Mi gente **son** de cuatro clases  
+> Y todos **son conocidos** por **ser** mis bhaktas ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘चतुर्विधा मम जना भक्ता एव हि ते श्रुताः’’(भारतम् शान्ति-पर्व ३५०-३३) ऎऩ्ऱु ईश्वरऩ् नम्मुडैयवर्गळॆऩ्ऩुम् नालु वगैयिलुङ् गूडादे 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+ईश्वरऩ् नम्मुडैयवर्गळॆऩ्ऩुम् नालुवगैयिलुङ्गूडादे - स्वविषयक भक्तिरूपसम्बन्धत्तैयिट्टु ईश्वरऩाले नम्मुडैयवर्गळॆऩ्ऱु आदरिक्कप्पट्ट ‘‘आर्तो जिज्ञासुरर्थार्थी ज्ञानी च’’ ऎऩ्गिऱ नालु वगैयिलुमन्तर्भूतऩागादे, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’अळिय+++(=स्निग्ध)+++ नम्-बैयल्+++(=शिषुः)+++ ’’(तिरुमालै ३७।) 
+
+ऎऩ्ऩाद बडि पण्णि 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अनुकम्पनीया अस्मद्-बालाः” 
+
+इत्य्-उक्त्य्-अ-विषयताम् अपाद्य,
+</details>
+
+<details><summary>English</summary>
+
+It would take them away from the group of men  
+whom Śrī Raṅganātha calls  
+"lads who are worthy of His love." 
+</details>
+
+<details><summary>Español</summary>
+
+Los **alejaría** del grupo de hombres  
+a quien Śrī Raṅganātha  
+"muchachos que **son dignos** de su amor".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’अळिय नम्बैय’’(तिरुमालै ३७।) लॆऩ्ऩादबडि पण्णि 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+अळिय - स्निग्धऩाऩ, नम् - नम्मुडैय, पैयल् - कुऴन्दै, ऎऩ्ऩादबडि पण्णि - ऎऩ्ऱभिमानित्तुच् चॊल्लादबडि पण्णि, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न मां दुष्-कृतिनो मूढाः प्रपद्यन्ते’’(गीता ७-१५।) 
+
+ऎऩ्गिऱ भगवद्-अभिमान--बाह्य-वर्गत्तिले कोप्पुण्णप् पण्णुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न मां दुष्-कृतिनो मूढाः प्रपद्यन्ते’’(गीता ७-१५।) 
+
+इत्य्-उक्ते भगवद्-अभिमान-बाह्य-वर्गे ऽन्तर्भावयति । 
+</details>
+
+<details><summary>English</summary>
+
+It would throw them into the midst of  
+those who are outside the range of Bhagavān's love  
+as declared in: 
+
+> " There are wicked men who do not seek my protection by performing prapatti;  
+> they are of four classes :  
+> fools, men who are vile,  
+> men who have lost their knowledge by specious reasoning  
+> and men who are of the nature of the Asuras."
+</details>
+
+<details><summary>Español</summary>
+
+Los **arrojaría** a medio de  
+los que **están** fuera del rango del amor de Bhagavān  
+Como **se declara** en:
+
+> "**Hay** hombres malvados que **no buscan** mi **protección** al realizar Prapatti;  
+> **Son** de cuatro clases:  
+> tontos, hombres que **son** viles,  
+> hombres que **han perdido su conocimiento** por **razonamiento** engañoso  
+> y los hombres que **son** de la naturaleza de los Asuras ".
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+‘‘न मां दुष्कृतिनोमूढाः प्रपद्यन्ते’’(गीता ७-१५।) ऎऩ्गिऱ भगवदभिमानबाह्यवर्गत्तिले कोप्पुण्णप्पण्णुम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि भगवदभिमानविषयत्वत्तै उण्डु पण्णादमात्रमऩ्ऱिक्के बाह्यवर्गत्तिलुम् सेर्क्कुमॆऩ्गिऱार् न मामिति । 
+</details>
+
+
+
+
+Even men with supreme faith  
+that have sought the protection of the Supreme Ruler who is the Saviour of those that have no one to protect them -  
+even they[^64], we know, become deluded by association with others;  
+though they are not cast away,  
+they have afterwards to be corrected by good ācāryas.
+
+[^64]: 
+
+    Embar became subject to misconceptions owing to his association with Yādavaprakāśa  
+    and had to be corrected by Peria Tirumalai Nambi.
+
 
 Have not the great sages declared :- "If there were only one śāstra, it would be possible to acquire knowledge free from doubts. Because there are many śāstras in this world, it is exceedingly difficult to obtain knowledge that is true" and again, "The Lord " dwells in all who are free from doubt. The Lord of Lakṣmī  never dwells with those who are full of doubt owing to the exercise of free thinking."
 
