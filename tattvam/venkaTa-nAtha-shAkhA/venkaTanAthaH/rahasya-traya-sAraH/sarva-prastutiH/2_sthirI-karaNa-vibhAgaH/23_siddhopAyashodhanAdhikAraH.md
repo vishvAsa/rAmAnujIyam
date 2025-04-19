@@ -1364,10 +1364,10 @@ La **asociación** con racionalistas (y escépticos) **es** más **evitado**.
 
 इव्वर्थत्तै 
 
-> ‘‘पाषण्डिनो विकर्मस्थान्  
+> ‘‘पाषण्डिनो विकर्म-स्थान्  
 > बैडाल-व्रतिकान् शठान् ।  
-> हैतुकान् बकवृत्तींश्च  
-> वाङ्मात्रेणापि नार्चयेत्॥’’  
+> हैतुकान् बकवृत्तींश् च  
+> वाङ्-मात्रेणापि नार्चयेत्॥’’  
 > (विष्णुपुराणम् ३-१८-१०१।)
 </details>
 
@@ -1418,13 +1418,230 @@ Esto ha sido declarado en pasajes como los siguientes:
 पाषण्डिकळ् - योऽन्यं दवं परत्वेन, ‘‘य तु सामान्यभावन मन्यन्ते पुरुषोत्तमम् । त वै पाषण्डिनो ज्ञयाः’’ ऎऩ्गिऱबडि देवतान्तरत्तै  
 भगवाऩैक्काट्टिलुम् उत्कृष्टमायुम् भगवाऩुक्कु सममायुम् ऎण्णुमवर्गळ्, 
 विकर्मस्थर् - शिखायज्ञोपवीतत्यागिकळ्। बैडालव्रतिकर् - बिडालवत् वञ्चकर्गळ्, शठर् - गूढमाग वञ्चिक्कुमवर्गळाय् नास्तिगर्गळाऩ वेदाप्रामाण्यवादिगळ्। बकवृत्तिकळ् - बकम् पोल् सन्निहितहिंसकराऩ डम्भर्। वाङ्मात्रेणापि नार्चयेदिति । 
+सल्लापस्सहभोजनमित्यादिषु सल्लापस्यापि संसर्गत्वाभिधानात् । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘डम्भि-हैतुक-पाषण्डि--  
+> बक-वृत्तींश् च वर्जयेत्’’  
+(मनुस्मृति ४-३०।) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘डम्भि-हैतुक-पाषण्डि--  
+> बक-वृत्तींश् च वर्जयेत्’’  
+(मनुस्मृति ४-३०।) 
+</details>
+
+<details><summary>English</summary>
+
+so it is said also:-
+
+> "A man suffering from starvation may beg money of a king, of his own pupil, and of the men whom he has helped to perform a sacrifice ( yajna);  
+> But one should never beg of those who are dissemblers, rationalists, heretics and men with the nature of cranes." 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces también se dice:-
+
+> "Un hombre que **sufre** de hambre **puede suplicar** dinero de un rey, de su propio alumno  
+> y de los hombres a quienes **ha ayudado** a **realizar** un sacrificio (Yajna);  
+> Pero uno **nunca debe rogar** a aquellos  
+> que son difundidos, racionalistas, herejes y hombres con la naturaleza de las grúas ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘डंभिहैतुकपाषण्डिबकवृत्तींश्च वर्जयेत्’’(मनुस्मृति ४-३०।) 
 </details>
 
 
 
-so it is said also:-"A man suffering from starvation may beg money of a king, of his own pupil, and of the men whom he has helped to perform a sacrifice ( yajna); But one should never beg of those who are dissemblers, rationalists, heretics and men with the nature of cranes." Again, “One should associate with good men (i.e. men who know God.) Whether in dispute or friendship, one should associate only with them; one should never do any of these things with the wicked (those who do not believe in God), “Give up the company of the wicked; associate ever with the good; do whatever is righteous, both in the day and in the night, remember always that you yourself and those who are related to you are not immortal.” And again, "Far better is it to dwell in à cage of flaming fire than to commit the crime of dwelling with sceptics, who do not countenance any thought of Śaurī (Bhagavān)."
 
-Conversation with rationalists makes men foolish in spite of their seeing, 'as their knowledge is lost by specious reasoning.' (this association with rationalists ) removes men from every one of the four classes which Iśvara calls His own, in the śloka  : “My "people" are of four classes and they are all known to be my bhaktas." It would take them away from the group of men whom Śrī Raṅganātha calls "lads who are worthy of His love." It would throw them into the midst of those who are outside the range of Bhagavān's love as declared in: " There are wicked men who do not seek my protection by performing prapatti; they are of four classes : fools, men who are vile, men who have lost their knowledge by specious reasoning and men who are of the nature of the Asuras."
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नासद्भिः किञ्चिद् आचरेत्’’(याज्ञवल्क्यस्मृति १-१३०।)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नासद्भिः किञ्चिद् आचरेत्’’(याज्ञवल्क्यस्मृति १-१३०।)
+</details>
+
+<details><summary>English</summary>
+
+Again, 
+
+> “One should associate with good men (i.e. men who know God.)  
+> Whether in dispute or friendship,  
+> one should associate only with them;  
+> one should never do any of these things  
+> with the wicked (those who do not believe in God)", 
+</details>
+
+<details><summary>Español</summary>
+
+De nuevo,
+
+> “Uno debe **asociarse** con hombres buenos (es decir, hombres que conocen a Dios).  
+> Ya **sea** en disputa o amistad,  
+> uno debe **asociarse** solo con ellos;  
+> uno **nunca debe hacer** ninguna de estas cosas  
+> con los malvados (aquellos que no creen en Dios) ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नासद्भिः किञ्चिदाचरेत्’’(याज्ञवल्क्यस्मृति १-१३०।)
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+असत्तुक्कळ् - ब्रह्मज्ञानमिल्लादवर्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> त्यज दुर्जनसंसर्गं
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> त्यज दुर्जनसंसर्गं
+</details>
+
+<details><summary>English</summary>
+
+> “Give up the company of the wicked;  
+> associate ever with the good;  
+> do whatever is righteous, both in the day and in the night,  
+> remember always that you yourself and those who are related to you are not immortal.” 
+</details>
+
+<details><summary>Español</summary>
+
+> “**Renuncia** a la compañía de los malvados;  
+> **Asociar** siempre con el bien;  
+> **Haz** lo que **sea** justo, tanto en el día como en la noche,  
+> **Recuerda** siempre que  
+> tú y aquellos que están relacionados con ti **no son** inmortales ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+त्यज दुर्जनसंसर्गं
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+दुर्जनर् - सज्जनस्थितियै सहियादवर्गळ्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘वरं हुत-वह-ज्वाला-  
+पञ्जरान्तर् **व्यवस्थितिः** । 
+न शौरि-चिन्ता-विमुख-  
+जन-संवास-वैशसम्॥’’  
+(भारतम् आरण्य-पर्व)  
+
+इत्यादिगळिले प्रपञ्चित्तार्गळ्।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘वरं हुत-वह-ज्वाला-  
+पञ्जरान्तर् **व्यवस्थितिः** । 
+न शौरि-चिन्ता-विमुख-  
+जन-संवास-वैशसम्॥’’  
+(भारतम् आरण्य-पर्व)  
+
+इत्यादिषु प्रपञ्चयामासुः । 
+</details>
+
+
+<details><summary>English</summary>
+
+And again, 
+
+> "Far better is it to dwell  
+> in à cage of flaming fire  
+> than to commit the crime of dwelling with sceptics,  
+> who do not countenance any thought of Śaurī (Bhagavān)."
+</details>
+
+<details><summary>Español</summary>
+
+Y de nuevo,
+
+> "Mucho mejor para **vivir**  
+> en à jaula de fuego **llameante**  
+> que **cometer** el crimen de **vivir** con escépticos,  
+> quienes **no cuentan ningún pensamiento** de Śaurī (Bhagavān) ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘वरं हुतवहज्वालापञ्जरान्तर्व्यवस्थितिः । 
+ न शौरिचिन्ताविमुखजनसंवासवैशसम्॥’’  
+ (भारतम् आरण्य-पर्व)  
+ इत्यादिगळिले प्रपञ्चित्तार्गळ्।  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+हुतवहज्वालपञ्जरान्तर्व्यवस्थितिः – अग्निज्वालैयाल् कट्टप्पट्ट पञ्जरत्तिल् इरुप् पाऩदु, वरं – मनाक् प्रियम्।  
+इदागिलुम् किञ्चित् प्रियमायिरुक्कुम्,  
+
+> ‘‘वरं त्रिषु क्लीबे मनाक् प्रिये’’ 
+
+ऎऩ्बदु निघण्टु । 
+
+शौरिचिन्ताविमुखजनसंवासवैशसमिति । संवासवैशसं – सहवासमागिऱवधम्; दुःखमिति वा । न वरं – ईषत्तुम् प्रियमऩ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द हैतुकरोट्टै संभाषणम्  
+
+> ‘‘मायया ऽपहृत-ज्ञानाः’’(गीता ७-१५।) 
+
+ऎऩ्गिऱबडिये  
+कण्डु मति-गॆट्टाऩ् आक्कि, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं हैतुक-संभाषणं 
+
+> ‘‘मायया ऽपहृत-ज्ञानाः’’(गीता ७-१५।) 
+
+इति रीत्या लब्ध-ज्ञान-भ्रष्टम् आपाद्य,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्द हैतुकरोट्टै संभाषणम्‘‘माययापहृतज्ञानाः’’(गीता ७-१५।) ऎऩ्गिऱबडिये कण्डु मदिगॆट्टाऩाक्कि, 
+</details>
+
+
+Conversation with rationalists makes men foolish in spite of their seeing,  
+
+> 'as their knowledge is lost by specious reasoning.'  
+
+(this association with rationalists ) removes men from every one of the four classes which Iśvara calls His own, in the śloka  : “My "people" are of four classes and they are all known to be my bhaktas." It would take them away from the group of men whom Śrī Raṅganātha calls "lads who are worthy of His love." It would throw them into the midst of those who are outside the range of Bhagavān's love as declared in: " There are wicked men who do not seek my protection by performing prapatti; they are of four classes : fools, men who are vile, men who have lost their knowledge by specious reasoning and men who are of the nature of the Asuras."
 
 Even men with supreme faith that have sought the protection of the Supreme Ruler who is the Saviour of those that have no one to protect them - even they[^64] , we know. become deluded by association with others; though they are not cast away, they have afterwards to be corrected by good ācāryas.
 
