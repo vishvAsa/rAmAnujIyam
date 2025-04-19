@@ -2203,18 +2203,170 @@ Y de nuevo,
 
 सत्यं शतेन ऎऩ्गिऱ वचनत्तिल् भक्तिशब्दम् निवारणार्हमाऩ भक्तियैच् चॊल्लुगैयालुम् इव्विरण्डु वचनङ्गळुम् आरुरुक्षु विषयमाग सिद्धिक्कैयाल्  
 आरुरुक्षुक्कळुक्के भक्तिविघ्नादिगळैच् चॊल्लुगिऱतॆऩ्ऱु तिरुवुळ्ळम्। 
+
+इदऩाल् मृदुप्रज्ञर्गळुक्कु सिद्धोपायादिविषयत्तिल् कलक्क मुण्डागुमॆऩ्ऱु सिद्धिक्कैयाल् तत्परिहारार्थम् स्थिरीकरणभागारम्भम् आवश्यकमॆऩ्ऱु मुडिन्ददु। 
 </details>
 
 
 ## सिद्धोपाय-संशयाः
 
-Here we will first speak of the doubts (or misconceptions) that are likely to arise in regard to Siddhopāya, the upāya, namely Bhagavān, that is already existent and consider the way in which these doubts may be cleared.
+<details><summary>English</summary>
 
 ( HEREAFTER THE AUTHOR STATES POSSIBLE DOUBTS AND MISCONCEPTIONS AND TRIES TO REMOVE THEM ):
+</details>
+
+<details><summary>Español</summary>
+
+(En lo sucesivo, el autor **afirma** posibles dudas y conceptos erróneos y **tratan** de **eliminarlas**):
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् मुऱ्+++(न्)+++-पड  
+सिद्धोपायत्तैप् पऱ्ऱ वरुङ् कलक्कङ्गळुम्  
+अवऱ्ऱिऩ् परिहारङ्गळुञ्  
+जॊल्लुगिऱोम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्र प्रथमतः सिद्धोपायविषये जायमानान् व्यामोहान्  
+तेषां परिहारांश्च ब्रूमः । 
+</details>
+
+
+<details><summary>English</summary>
+
+Here we will first speak of the doubts (or misconceptions)  
+that are likely to arise in regard to Siddhopāya, the upāya, namely Bhagavān, that is already existent  
+and consider the way in which these doubts may be cleared.
+</details>
+
+<details><summary>Español</summary>
+
+Aquí **hablaremos** primero de las dudas (o conceptos erróneos)  
+**Es** probable que **surjan** con respecto a Siddhopāya, el upāya, a saber, bhagavān, que **ya existe**  
+y **considere** la forma en que se **pueden aclarar** estas dudas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिल् मुऱ्पड सिद्धोपायत्तैप् पऱ्ऱ वरुङ्गलक्कङ्गळुम् अवऱ्ऱिऩ् परिहारङ्गळुञ् जॊल्लुगिऱोम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अदिल् सिद्धोपायम् प्रधानमागैयाल् तद्विषयकलक्कङ्गळैयुम्, तत्परिहारङ्गळैयुम् मुदलिल् सॊल्लुवदाग प्रतिज्ञैसॆय्गिऱार् अदिल् मुऱ्पडवित्यादिना । 
+</details>
+
+### जीवोपायापेक्षा
+
+<details><summary>English</summary>
 
 Doubt (1):- No upāya is necessary on the part of the jīva :
+</details>
 
-(1) Iśvara who ignored a man from beginningless time has now  concerned Himself with him (for his protection ). This is not due to any action or work on the man's part, but only to the Lord's omnipotence. If it is not so, how is it that when the Alvar asked "The Lord has now made me realise Him and placed Himself within me. Why is it that He allowed me formerly to stray from Him?," no reply was given except that "the cloud which adorned the measureless sky thundered in music". The implication is that there is no answer to this question except that it was the Lord's will to do so. Therefore why should we perform or adopt any upāya (for securing His protection)? Some say, therefore, that, of His own accord, and at the time when He chooses, the Lord saves us and that the Lord bestows His grace on His servants and protects them when He is pleased to do so and that no endeavour of any kind is incumbent on us.
+<details><summary>Español</summary>
+
+Duda (1):- **No es necesario** upāya por parte del jīva:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अन्-आदि-कालम् अन्-आदरित्तव् ईश्वरऩ्  
+इऩ्ऱ् ऒरुत्तऩैय् आदरिक्किऱदु  
+तऩ् स्वातन्त्र्य-मात्रत्तालेय् अऩ्ऱो;  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[१८६]]  
+
+> अन्-आदि-कालाद् अन्-आदृतवता ईश्वरेणाद्य  
+कस्यचिद् आदरण स्व-स्वातन्त्र्य-मात्रात् किल भवति ।  
+</details>
+
+
+<details><summary>English</summary>
+
+> (1) Iśvara who ignored a man from beginningless time  
+has now concerned Himself with him (for his protection ).  
+This is not due to any action or work on the man's part,  
+but only to the Lord's omnipotence. 
+</details>
+
+<details><summary>Español</summary>
+
+> (1) Iśvara que **ignoró** a un hombre desde el tiempo sin inicio  
+ahora **se ha preocupado** con él (por su **protección**).  
+Esto **no se debe** a ninguna acción o trabajo por parte del hombre,  
+pero solo a la omnipotencia del Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनादिकालम् अनादरित्तवीश्वरऩ् इऩ्ऱॊरुत्तऩैयादरिक्किऱदु तऩ् स्वातन्त्र्यमात्रत्तालेयऩ्ऱो;  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इङ्ङऩऩ्ऱागिल् १९  
+>
+> > ’’इऩ्ऱ् ऎऩ्ऩैप् +++(स्वावगत्या)+++ पॊरुळ् आक्कित्  
+> तऩ्ऩैय् ऎऩ्ऩ्-उळ् वैत्ताऩ्  
+> अऩ्ऱ् ऎऩ्ऩैप् +++(तत्-संयोगात्)+++ पुऱम् पोगप् पुणर्त्तद्+++(=योगं)+++ ऎऩ् सॆय्वाऩ्?’’(तिरुवाय्मॊऴि १०-८-९)  
+>
+> ऎऩ्ऱु आऴ्वार् विण्णप्पञ् जॆय्य,  
+</details>
+
+<details><summary>English</summary>
+
+> If it is not so,  
+how is it that when the Alvar asked  
+>
+> > "The Lord has now made me realise Him  
+> and placed Himself within me.  
+> Why is it that He allowed me formerly to stray from Him?,"  
+
+</details>
+
+<details><summary>Español</summary>
+
+> Si **no es** así,  
+¿Cómo **es** eso cuando el Alvar **preguntó**  
+>
+>> "El Señor ahora me **ha hecho darme cuenta** de él  
+> y **se colocó** dentro de mí.  
+> ¿Por qué **me permitió** que me **alejara** de él? "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩऩ्ऱागिल् १९  
+’’इऩ्ऱॆऩ्ऩैप् पॊरुळाक्कित् तऩ्ऩैयॆऩ्ऩुळ् वैत्ताऩ् अऩ्ऱॆऩ्ऩैप् पुऱम्बोगप् पुणर्त्तदॆऩ् सॆय्वाऩ्’’(तिरुवाय्मॊऴि १०-८-९)  
+ऎऩ्ऱु आऴ्वार् विण्णप्पञ्जॆय्य,  
+</details>
+
+
+> 
+> no reply was given except that  
+> 
+> > "the cloud which adorned the measureless sky thundered in music". 
+> 
+> The implication is that there is no answer to this question  
+> except that it was the Lord's will to do so.  
+> Therefore why should we perform or adopt any upāya (for securing His protection)?  
+
+Some say, therefore, that, of His own accord,  
+and at the time when He chooses, the Lord saves us  
+and that the Lord bestows His grace on His servants  
+and protects them  
+when He is pleased to do so  
+and that no endeavour of any kind is incumbent on us.
 
 This doubt may be cleared as follows :- Although Iśvara is omnipotent, He makes the man adopt some gesture, some means (vyāja) or pretext on his part and, in consideration of it, protects him in order that the faults of partiality and cruelty (vaiṣamya, nāirghṛṇya) may not stain Him. The Alwar himself has declared this truth in :-"I said Tirumalirunjolai" and immediately, the Lord of Lakṣmī  filled my mind with His presence." (The Vyāja, endeavour, or gesture, here, is the utterance of the word Tirumalirunjolai by the Alwar). It may be asked "This vyāja, too, is adopted by the Lord's grace. Why did He not make the person adopt it before ?" The answer is as follows:- The souls of men have streams of karma flowing from beginningless time. These streams of past karma produce their respective consequences at different times and Iśvara has to bestow, on each individual, the rewards or punishments that are in accordance with such karma. If He were to do otherwise, He would be tainted with partiality (and injustice). Iśvara did not make the person adopt the vyāja before, as the time for the ripening of the fruit of the karma had not yet come. Therefore, from the effect we have to infer the cause, as stated above. If this view be not accepted, no follower of any system will be able to answer the question why a person acquires ( at a certain time) such things as eagerness for mokṣa  which did not exist before. That these are due to the varied nature of the streams of beginningless karma is the common explanation for both those who believe in Iśvara and those who do not. Iśvara's independence and omnipotence consist in His determination to protect the jīva when He chooses to do so, on the adoption of a vyāja or some form of upāya (endeavour) (or even an apology for upāya ) and in there being no power to prevent Him from doing so.
 
