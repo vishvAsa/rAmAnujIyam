@@ -1804,11 +1804,34 @@ Como **se declara** en:
 इप्पडि भगवदभिमानविषयत्वत्तै उण्डु पण्णादमात्रमऩ्ऱिक्के बाह्यवर्गत्तिलुम् सेर्क्कुमॆऩ्गिऱार् न मामिति । 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-शरण्य-शरण्यऩ् आऩ सर्वेश्वरऩै शरणम् आगप् पऱ्ऱुगिऱ परमास्तिकऩुक्कुच्  
+चिलरोडु सेर्त्तियाल्  
+
+बाह्यतै वाराद् आगिलुम्,  
+अवऩुक्कुक् कलक्कङ्गळ् वरवुम्,  
+अदुक्कु सदाचार्यर्गळ् परिहारम् पण्णवुङ्  
+
+काणा निऩ्ऱोम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-शरण्य--शरण्यं सर्वेश्वरं शरणतया स्वीकुर्वतः परमास्तिकस्य  
+कैश्चित् सह संगत्या  
+बाह्यतायाः संभवाभावेऽपि  
+तस्य व्यामोहोत्पत्तिः,  
+तस्य सदाचार्यैः परिहरणं च पश्यामः  
++++(यथा गोविन्दो शैवीभूतो श्री-शौल-पूर्णेन पुनर् आनीतः)+++। 
+</details>
 
 
+<details><summary>English</summary>
 
 Even men with supreme faith  
-that have sought the protection of the Supreme Ruler who is the Saviour of those that have no one to protect them -  
+that have sought the protection of the Supreme Ruler who is the Saviour  
+of those that have no one to protect them -  
 even they[^64], we know, become deluded by association with others;  
 though they are not cast away,  
 they have afterwards to be corrected by good ācāryas.
@@ -1817,11 +1840,375 @@ they have afterwards to be corrected by good ācāryas.
 
     Embar became subject to misconceptions owing to his association with Yādavaprakāśa  
     and had to be corrected by Peria Tirumalai Nambi.
+</details>
+
+<details><summary>Español</summary>
+
+Incluso hombres con **fe** suprema  
+que **han buscado** la **protección** del gobernante supremo que **es** el **salvador**  
+de aquellos que **no tienen** a nadie que los proteja -  
+Incluso ellos [^es64], **sabemos**, **se vuelven** engañados por la **asociación** con otros;  
+Aunque **no sean rechazados**,  
+Posteriormente **tienen** que **ser corregidos** por el buen ācāryas.
+
+[^es64]:
+
+    El Embar **quedó sujeto** a conceptos erróneos debido a su asociación con Yādavaprakāśa  
+    y tuvo que **ser corregido** por Peria Tirumalai Nambi.
+</details>
 
 
-Have not the great sages declared :- "If there were only one śāstra, it would be possible to acquire knowledge free from doubts. Because there are many śāstras in this world, it is exceedingly difficult to obtain knowledge that is true" and again, "The Lord " dwells in all who are free from doubt. The Lord of Lakṣmī  never dwells with those who are full of doubt owing to the exercise of free thinking."
+<details><summary>मूलम्</summary>
 
-It is true that it has been stated: "In those  who have bhakti to Puruṣottama, there is no anger, no hatred, no covetousness nor impure minds", but this is applicable only to those individuals who are perfect in the possession of spiritual qualities. In the case of those who have yet to ascend to that high spiritual level, it is well-known that their minds may become deluded. Thus it has been said "We hear that the gods (devas), in dread of the diminution of saṁsāra among those who are devoted to Govinda, become their enemies, (i.e. try to hinder devotion)" and again, "To "truthfulness in speech, there are a hundred hindrances; to tapas or the performance of austerities, the hindrances are a thousand; and bhakti to Govinda meets with ten thousand hindrances". Here we will first speak of the doubts (or misconceptions) that are likely to arise in regard to Siddhopāya, the upāya, namely Bhagavān, that is already existent and consider the way in which these doubts may be cleared.
+अशरण्यशरण्यऩाऩ सर्वेश्वरऩै शरणमागप्पऱ्ऱुगिऱ परमास्तिकऩुक्कुच् चिलरोडु सेर्त्तियाल् बाह्यतै वारादागिलुम् अवऩुक्कुक् कलक्कङ्गळ् वरवुम् अदुक्कु सदाचार्यर्गळ् परिहारम् पण्णवुङ्गाणा निऩ्ऱोम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+भगवद्विमुखर्गळुक्कु हैतुकसंसर्गत्ताले बाह्यतै सम्भावितमाऩालुम्, वेदान्तश्रवणादिगळ् पण्णि परमास्तिकऩाय्प्पोन्दवऩुक्कु बाह्यतै वरुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् अशरण्यशरण्यऩाऩ इति । अवऩुक्कुक् कलक्कङ्गळ् वरवुम् इत्यादि । ऎम्बारुक्कु यादवप्रकाशादिसंसर्गत्ताले देवतान्तरसंसर्गपर्यन्तमाऩ कलक्कम् नेर्न्ददैयुम्, अवर् पॆरिय तिरुमलै नम्बियिऩुडैय उपन्यासोपदेशादिगळाले तिरुन्दि, परमैकान्तिसार्वभौमराऩदैयुम् इङ्गे अनुसन्धिप्पदु। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मह-र्षिगळुम् 
+
+> ‘‘एकं यदि भवेच् छास्त्रं  
+> ज्ञानं निस्संशयं भवेत् ।  
+> बहुत्वाद् इह शास्त्राणां  
+> ज्ञान-तत्त्वं सु-दुर्-लभम् ॥’’  
+> (इदिहाससमुच्चयम् ३३-१०५।) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मह-र्षयोऽपि
+
+> ‘‘एकं यदि भवेच् छास्त्रं  
+> ज्ञानं निस्संशयं भवेत् ।  
+> बहुत्वाद् इह शास्त्राणां  
+> ज्ञान-तत्त्वं सु-दुर्-लभम् ॥’’  
+> (इदिहाससमुच्चयम् ३३-१०५।) 
+
+इति, 
+</details>
+
+<details><summary>विषयः</summary>
+
+शास्त्रम्, भ्रमः, निश्चयः, संशयः
+</details>
+
+
+<details><summary>English</summary>
+
+Have not the great sages declared :- 
+
+> "If there were only one śāstra,  
+> it would be possible to acquire knowledge free from doubts.  
+> Because there are many śāstras in this world,  
+> it is exceedingly difficult to obtain knowledge that is true" 
+</details>
+
+<details><summary>Español</summary>
+
+**No he declarado** los grandes sabios:-
+
+> "Si solo **hubiera** un Śāstra,  
+> **Sería posible adquirir conocimiento** libre de dudas.  
+> Porque **hay** muchos Śāstras en este mundo,  
+> **Es** extremadamente difícil **obtener** un conocimiento que sea cierto "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+महर्षिकळुम् ‘‘एकं यदि भवेच्छास्त्रं ज्ञानं निस्संशयं भवेत् । बहुत्वादिह शास्त्राणां ज्ञानतत्त्वं सुदुर्लभम् ॥’’(इदिहाससमुच्चयम् ३३-१०५।) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि भगवदाश्रितर्गळुक्कुम् संशयमुण्डागुमॆऩ्ऱुम्, संशयमुण्डाऩाल् भगवाऩ् विलगिविडुवारॆऩ्ऱुम् महर्षिकळे सॊऩ्ऩार्गळॆऩ्गिऱार् महर्षिकळुमित्यादिना । एकं यदि ऎऩ्गिऱवचनम् साधारणमागैयालदु भगवदाश्रितरुक्कुम् संशयमुण्डागुमॆऩ्बदिल् प्रमाणमागुमॆऩ्ऱु करुत्तु। शास्त्रं एकं भवेद्यदि - ऎल्ला शास्त्रङ्गळुम् एककण्ठमागुमागिल्, बहुत्वात् - 
+भिन्नाभिप्रायकत्वात्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘निस्संशयेषु सर्वेषु  
+नित्यं **वसति** वै हरिः ।  
+ससंशयान् हेतुबलान्  
+**नाध्यावसति** माधवः ॥’’+++(4)+++  
+(भारतम् शान्ति-पर्व ८५९-७१।) 
+
+ऎऩ्ऱुञ् जॊऩ्ऩार्गळ् इऱे।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘निस्संशयेषु सर्वेषु  
+नित्यं **वसति** वै हरिः ।  
+ससंशयान् हेतुबलान्  
+**नाध्यावसति** माधवः ॥’’+++(4)+++  
+(भारतम् शान्ति-पर्व ८५९-७१।) 
+
+इत्य् ऊचुः किल ।
+</details>
+
+<details><summary>English</summary>
+
+and again, 
+
+> "The Lord dwells in all who are free from doubt.  
+> The Lord of Lakṣmī never dwells with those  
+> who are full of doubt  
+> owing to the exercise of free thinking."
+
+</details>
+
+<details><summary>Español</summary>
+
+Y de nuevo,
+
+> "El Señor **habita** en todos los que **están** libres de dudas.  
+> El Señor de Lakṣmī **nunca habita** con esos  
+> que **están llenos** de dudas  
+> Debido al **ejercicio** del pensamiento libre ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘निस्संशयेषु सर्वेषु नित्यं वसति वै हरिः ।  
+ससंशयान् हेतुबलान्नाद्ध्यावसति माधवः ॥’’  
+(भारतम् शान्ति-पर्व ८५९-७१।) ऎऩ्ऱुञ्जॊऩ्ऩार्गळिऱे।  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+नित्यं वसति – नित्यं सन्निहिता भवति । नाध्यावसति – विट्टुप्पोगिऱाऩॆऩ्गै। इव्वचनङ्गळिल् शास्त्रतात्पर्यभेदत्तिऩालुम्, हेतुबलत्तिऩालुम् संशयमुण्डागुमॆऩ्ऱु सॊल्लियिरुप्पदाल् इदु भगवदाश्रितरुक्कुम् सम्भावितमॆऩ्ऱु करुत्तु। 
+</details>
+
+## मध्यमाधिकारिष्व् अपायः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न क्रोधो न च मात्सर्यं  
+न लोभो नाशुभामतिः’’  
+(भारतम् आनुशासनिग-पर्व २५४-१३५।)  
+
+इत्यादिगळुम् +++(सात्त्विक-शास्त्र-ज्ञानम्→)+++आत्म-गुण-परिपूर्णाधिकारि-विशेष-विषयत्तिलेय् आगक् कडवऩ।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न क्रोधो न च मात्सर्यं  
+न लोभो नाशुभामतिः’’  
+(भारतम् आनुशासनिग-पर्व २५४-१३५।)  
+
+इत्यादीनि +++(सात्त्विक-शास्त्र-ज्ञानम्→)+++आत्म-गुण--परिपूर्णाधिकारि-विशेष-विषयाणि भवन्ति । 
+</details>
+
+<details><summary>English</summary>
+
+It is true that it has been stated: 
+
+> "In those  who have bhakti to Puruṣottama,  
+> there is no anger, no hatred,  
+> no covetousness, nor impure minds", 
+
+but this is applicable only to those individuals  
+who are perfect in the possession of spiritual qualities. 
+</details>
+
+<details><summary>Español</summary>
+
+Es cierto que **ha sido declarado**:
+
+> "En aquellos que **tienen** Bhakti a Puruṣottama,  
+> **No hay** ira, ni odio,  
+> Sin codicia, ni mentes impuras ",
+
+Pero esto **es aplicable** solo para esas personas  
+que **son** perfectos en posesión de cualidades espirituales.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘न क्रोधो न च मात्सर्यं  
+न लोभो नाशुभामतिः’’ (भारतम् आनुशासनिग-पर्व २५४-१३५।)  
+
+इत्यादिगळुम् आत्मगुणपरिपूर्णाधिकारिविशेषविषयत्तिलेयागक्कडवऩ।
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडियाऩाल् 
+भगवदाश्रितर्गळुक्कु संशयादि रूपाशुभबुद्धियुण्डागादॆऩ्ऱु सॊल्लुगिऱ ऋषिवचनत्तिऱ्कु 
+गति ऎऩ्ऩवॆऩ्ऩवरुळिच्चॆय्गिऱार् न क्रोधो न च मात्सर्यमित्यादिना । आत्मगुणपरिपूर्णाधिकारिविशेष विषयत्तिलेयागक्कडवऩ इति ।  
+हैतुकर्गळुडैय हेतुवादङ्गळालुम्,  
+राजस तामस शास्त्रङ्गळालुम् कलङ्गाद  
+सात्त्विक-शास्त्र-जन्य-समीचीन-ज्ञानादि-रूपात्मगुण-परिपूर्णाधिकारि-विशेष विषयमॆऩ्ऱबडि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩ पिऩ्बु  
+आरुरुक्षुक्कळुक्कुक् कलक्कम् उण्ड् ऎऩ्ऩुम् इडम्  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः आरुरुक्षूणां व्यामोहः संभवतीत्य् अय् अमर्थः,
+</details>
+
+
+
+<details><summary>English</summary>
+
+In the case of those who have yet to ascend to that high spiritual level,  
+it is well-known  
+that their minds may become deluded.  
+Thus it has been said - 
+</details>
+
+<details><summary>Español</summary>
+
+En el caso de aquellos que aún **tienen que ascender** a ese alto nivel espiritual,  
+**Es** bien **conocido**  
+que sus mentes **pueden ser engañadas**.
+Así **se ha dicho** -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩबिऩ्बु आरुरुक्षुक्कळुक्कुक् कलक्कमुण्डॆऩ्ऩुमिडम्  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+आऩबिऩ्बु - न क्रोध इति वचनम् आरूढऩाऩ पूर्णाधिकारि विषयमाऩ पिऩ्बु, आरुरुक्षुक्कळुक्कु - भगवद्विषयत्तिल् आरोहणम् पण्ण इच्छिप्पवर्गळुक्कु, अपूर्णाधिकारिगळुक्कु ऎऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘श्रूयते किल गोविन्दे  
+भक्तिम् उद्वहतां नृणाम् ।  
+संसार-न्यूनता-भीतास्  
+त्रि-दशाः परिपन्थिनः॥’’ +++(5)+++  
+(विष्णुधर्मः २-२५।)  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘श्रूयते किल गोविन्दे  
+भक्तिम् उद्वहतां नृणाम् ।  
+संसार-न्यूनता-भीतास्  
+त्रि-दशाः परिपन्थिनः॥’’ +++(5)+++  
+(विष्णुधर्मः २-२५।)  
+</details>
+
+<details><summary>विषयः</summary>
+
+भक्तिः, संसारः, विघ्नः, वैराग्यम्
+</details>
+
+
+<details><summary>English</summary>
+
+"We hear that the gods (devas),  
+in dread of the diminution of saṁsāra among those who are devoted to Govinda,  
+become their enemies, (i.e. try to hinder devotion)" 
+</details>
+
+<details><summary>Español</summary>
+
+"Escuchamos que los dioses (Devas),
+con temor a la disminución de Saṁsāra entre los que están dedicados a Govinda,
+Conviértase en sus enemigos (es decir, trate de obstaculizar la devoción) "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘श्रूयते किल गोविन्दे भक्तिमुद्वहतां नृणाम् ।  
+संसारन्यूनताभीतास्त्रिदशाः परिपन्थिनः॥’’  
+(विष्णुधर्मः २-२५।)  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+श्रूयत इत्यादि । उद्वहतां – वोढुमिच्छतां, इन्द वचनत्तिल् त्रिदशबन्धार्हमाऩ भक्त्युद्वहनम् श्रुतमागैयालुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सत्यं शतेन विघ्नानां,  
+सहस्रेण तथा तपः ।  
+विघ्नायुतेन गोविन्दे  
+नृणां **भक्तिर् निवार्यते**॥’’  
+(विष्णुधर्मः ७४-९४।) 
+
+इत्यादिगळिले प्रसिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सत्यं शतेन विघ्नानां,  
+सहस्रेण तथा तपः ।  
+विघ्नायुतेन गोविन्दे  
+नृणां **भक्तिर् निवार्यते**॥’’  
+(विष्णुधर्मः ७४-९४।) 
+
+इत्यादिषु प्रसिद्धः । 
+</details>
+
+
+<details><summary>विषयः</summary>
+
+भक्तिः, संसारः, विघ्नः, वैराग्यम्, तपः, सत्यम्
+</details>
+
+<details><summary>English</summary>
+
+and again,  
+
+> "To truthfulness in speech - there are a hundred hindrances;  
+> to tapas or the performance of austerities, the hindrances are a thousand;  
+> and bhakti to Govinda meets with ten thousand hindrances". 
+</details>
+
+<details><summary>Español</summary>
+
+Y de nuevo,
+
+> "A la veracidad en el habla, **hay** cien obstáculos;  
+> Para las tapas o al rendimiento de las austeridades, los obstáculos **son** mil;  
+> y Bhakti a Govinda **se reúne** con diez mil obstáculos ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सत्यं शतेन विघ्नानां सहस्रेण तथा तपः ।  
+विघ्नायुतेन गोविन्दे नृणां भक्तिर्निवार्यत॥’’  
+(विष्णुधर्मः ७४-९४।)  
+इत्यादिगळिले प्रसिद्धम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+सत्यं शतेन ऎऩ्गिऱ वचनत्तिल् भक्तिशब्दम् निवारणार्हमाऩ भक्तियैच् चॊल्लुगैयालुम् इव्विरण्डु वचनङ्गळुम् आरुरुक्षु विषयमाग सिद्धिक्कैयाल्  
+आरुरुक्षुक्कळुक्के भक्तिविघ्नादिगळैच् चॊल्लुगिऱतॆऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+
+## सिद्धोपाय-संशयाः
+
+Here we will first speak of the doubts (or misconceptions) that are likely to arise in regard to Siddhopāya, the upāya, namely Bhagavān, that is already existent and consider the way in which these doubts may be cleared.
 
 ( HEREAFTER THE AUTHOR STATES POSSIBLE DOUBTS AND MISCONCEPTIONS AND TRIES TO REMOVE THEM ):
 
