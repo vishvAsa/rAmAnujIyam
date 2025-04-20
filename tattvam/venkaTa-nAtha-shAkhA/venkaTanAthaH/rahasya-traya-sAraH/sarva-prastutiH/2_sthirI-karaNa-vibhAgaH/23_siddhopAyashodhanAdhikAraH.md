@@ -2553,6 +2553,13 @@ Para que las fallas de la parcialidad y la crueldad (Vaiṣamya, Nāirghṛṇya
 इवर्गळैत् तॆळिविक्कुम् पडि, ईश्वरऩ् स्वतन्त्रऩेयागिलुम् वैषम्यनैर्घृण्यङ्गळागिऱ दोषङ्गळ् तऩक्कुत् तट्टामैक्काग इवऩ् पक्कलिले यॊरु व्याजत्तैयुण्डाक्कि अत्तै अवलम्बित्तुत् ताऩ् रक्षिक्कुम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इदऱ्कु परिहारम् सॊल्ल आरम्भिक्किऱार्  
+इवर्गळैत् तॆळि-विक्कुम् बडि इति ।  
+तॆळिविक्कुम्बडि - तॆळिविक्कुम् प्रकारम्, सॊल्लुगिऱोमिति शेषः । वैषम्यम् - पक्षपातम्, अदावदु - निमित्तमिल्लामलिरुक्क ऒरुत्तऩै बद्धऩागवुम्, ऒरुत्तऩै मुक्तऩागवुम् पण्णुगै। नैर्घृण्यमावदु - कारणमिऩ्ऱिक्के ऒरुवऩै क्लेशिप्पिक्कै, अत्तैयवलम्बित्तुत्ताऩ् रक्षिक्कुमिति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2608,11 +2615,145 @@ El propio Alwar ha declarado esta verdad en:-
 </details>
 
 
+<details><summary>सार-बोधिनी</summary>
+
+अवधारणार्थकमाऩ ’’ताऩ्’’ शब्दत्ताल् व्याजावलम्बनमिऩ्ऱिक्के रक्षियाऩॆऩ्ऱु सॊल्लप्पट्टदु व्याजसापक्षऩागवे  
+रक्षिक्किऱाऩॆऩ्बदै नम्माऴ्वारे अरुळिच्चॆय्दारॆऩ्गिऱार् इव्वर्थत्तै इत्यादिना । तिरुमालिरुञ्जोलैमलैयॆऩ्ऱॆऩॆऩ्ऩ इति । तिरुमालिरुञ् जोलैमलै ऎऩ्ऱु उच्चरित्तदै व्याजमागक्कॊण्डॆऩ्ऱबडि। तिरु - लक्ष्मि यिऩिडत्तिले, माल् - व्यामोहत्तैयुडैय श्रियःपति, वन्दु - व्याजोत्तरकालमे वन्दु, 
+ऎऩ् नॆञ्जु निऱैय - ऎऩ् नॆञ्जु परिपूर्णमागुम्बडि, पुगुन्दाऩ् - प्रवशित्ताऩ्। 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इन्द व्याजन्-दाऩुम्  
+ईश्वरऩ् तऩ्ऩालेय् आगिल्  
+इत्तै मुऩ्बेय् उण्डाक्कादे विट्टद् ऎऩ्ऩ् 
+
+ऎऩ्ऩिल्;
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अयं व्याजोऽपि यदीश्वरेणैवोत्पाद्यते,  
+तर्हि +अयं पूर्वम् एव कुतो नोत्पादित  
+
+इति चेत्  
+</details>
+
+<details><summary>English</summary>
+
+It may be asked  
+
+> "This vyāja, too, is adopted by the Lord's grace.  
+> Why did He not make the person adopt it before ?"  
+</details>
+
+<details><summary>Español</summary>
+
+Se puede preguntar
+
+> "Este vyāja también **es adoptado** por la gracia del Señor.  
+> ¿Por qué **no hizo** que la persona **lo adoptara** antes? "
+</details>
 
 
-It may be asked "This vyāja, too, is adopted by the Lord's grace. Why did He not make the person adopt it before ?" The answer is as follows:- The souls of men have streams of karma flowing from beginningless time. These streams of past karma produce their respective consequences at different times and Iśvara has to bestow, on each individual, the rewards or punishments that are in accordance with such karma. If He were to do otherwise, He would be tainted with partiality (and injustice). Iśvara did not make the person adopt the vyāja before, as the time for the ripening of the fruit of the karma had not yet come. Therefore, from the effect we have to infer the cause, as stated above. If this view be not accepted, no follower of any system will be able to answer the question why a person acquires ( at a certain time) such things as eagerness for mokṣa  which did not exist before. That these are due to the varied nature of the streams of beginningless karma is the common explanation for both those who believe in Iśvara and those who do not. Iśvara's independence and omnipotence consist in His determination to protect the jīva when He chooses to do so, on the adoption of a vyāja or some form of upāya (endeavour) (or even an apology for upāya ) and in there being no power to prevent Him from doing so.
+<details><summary>मूलम्</summary>
+
+इन्द व्याजन्दाऩुम् ईश्वरऩ्  
+तऩ्ऩालेयागिलित्तै मुऩ्बेयुण्डाक्कादे विट्टदॆऩ्ऩॆऩ्ऩिल्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् आत्माक्कळुक्क्  
+अनादिय् आऩ कर्म-प्रवाहङ्गळ्  
+विषम-विपाक-समयङ्गळ् आय्क् कॊण्डु पोरुगैयाले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एषाम् आत्मनाम् अनादि-कर्म-प्रवाहाणां विषम-विपाक-समयकत्वेनावस्थितत्वाद्  
+</details>
+
+
+<details><summary>English</summary>
+
+The answer is as follows:-  
+The souls of men have streams of karma flowing from beginningless time.  
+These streams of past karma produce their respective consequences at different times  
+</details>
+
+<details><summary>Español</summary>
+
+La **respuesta es** la siguiente:-  
+Las almas de los hombres **tienen** corrientes de karma que **fluyen** desde un tiempo sin inicio.  
+Estas corrientes de karma pasada **producen** sus respectivas consecuencias en diferentes momentos
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वात्माक्कळुक्कनादियाऩ कर्मप्रवाहङ्गळ् विषमविपाकसमयङ्गळाय्क् कॊण्डु पोरुगैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वरऩ् कर्मानुरूप-फल-प्रदऩ् अल्लाद बोदु  
+वैषम्य-दोषम् वरुगैयाले  
+
+> मुऩ्ब् इदुक्क् अवसरम् आयिऱ्ऱ्-इल्लैय्  
+
+ऎऩ्ऩुम् इडम् कार्य-विशेष-दर्शनत्ताले कल्पितम्।
+</details>
+
+<details><summary>English</summary>
+
+and Iśvara has to bestow, on each individual, the rewards or punishments  
+that are in accordance with such karma.  
+
+If He were to do otherwise,  
+He would be tainted with partiality (and injustice).  
+
+Iśvara did not make the person adopt the vyāja before,  
+as the time for the ripening of the fruit of the karma had not yet come. 
+
+Therefore, from the effect we have to infer the cause, as stated above.  
+
+</details>
+
+<details><summary>Español</summary>
+
+y iśvara tiene que **otorgar**, en cada individuo, las recompensas o castigos  
+que **están de acuerdo** con tal karma.
+
+Si **fuera a hacer** lo contrario,  
+Estaría **contaminado** con la parcialidad (e injusticia).
+
+Iśvara **no hizo** que la persona **adoptara** el Vyāja antes,  
+Como el momento de la **maduración** del fruto del karma aún **no había llegado**.
+
+Por lo tanto, por el efecto **tenemos que inferir** la causa, como **se indicó** anteriormente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩ् कर्मानुरूपफलप्रदऩल्लादबोदु वैषम्यदोषम् वरुगैयाले मुऩ्बिदुक्कवसरमायिऱ्ऱिल्लै यॆऩ्ऩुमिडम्  
+कार्यविशेषदर्शनत्ताले कल्पितम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩिसैयाद पोदु सर्वसिद्धान्तिकळुक्कुमिदुक्कु मुऩ्बिल्लाद मोक्षश्रद्धादिगळिप्पोदु पिऱक्कैक्कडियॆऩ्ऩॆऩ्ऱालुत्तरञ्जॊल्लविरगिल्लै। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩिसैयाद पोदु सर्वसिद्धान्तिकळुक्कुमिदुक्कु मुऩ्बिल्लाद मोक्षश्रद्धादिगळिप्पोदु पिऱक्कैक्कडियॆऩ्ऩॆऩ्ऱालुत्तरञ्जॊल्लविरगिल्लै। 
+</details>
+
+
+If this view be not accepted, no follower of any system will be able to answer the question why a person acquires ( at a certain time) such things as eagerness for mokṣa  which did not exist before. That these are due to the varied nature of the streams of beginningless karma is the common explanation for both those who believe in Iśvara and those who do not. Iśvara's independence and omnipotence consist in His determination to protect the jīva when He chooses to do so, on the adoption of a vyāja or some form of upāya (endeavour) (or even an apology for upāya ) and in there being no power to prevent Him from doing so.
 
 If this is so, it may be asked how we are to explain the verse of the Alvar cited before, when be put the question why the Lord did not choose to save him before and received an answer and also the texts according to which the Lord is the unconditional Saviour: Our answer is as follows:--The Alvar attaches great importance to Iśvara's omnipotence and compassion and ignores the vyāja or vyājas adopted by himself, by which special means he secured the Lord's compassion, when he says. "For Thy neglect of me in former times and for taking me into Thy favour at present, I see no prominent causes other than Thy omnipotence and compassion. But, if owing to Thy omniscience, Thou hast seen any such cause, favour me with a knowledge of it". The Lord gave no reply and thereby the Alvar revealed to the world that the primary or prominent causes were only His omnipotence and compassion. This does not mean that there was no subsidiary cause or vyāja on the part of the Alvar. From this it follows that the primary cause for making the jīva an instrument of His Līlā is His omnipotence (svātantryam) and the subsidiary cause thereof is violation of the command of the omnipotent Lord which has been flowing like a stream from beginningless time. Now the primary cause for making the jīva an instrument of His bhoga (in Paramapada) is the Lord's natural compassion. The subsidiary cause (sahakāri kāraṇa ) is the vyāja (bhakti or prapatti) which extinguishes the Lord's punishment (hitherto) acting as a hindrance or obstacle. Bhakti and prapatti which are adopted as vyāja to secure Iśvara's favour, are, themselves, the result of His compassion due to special acts of merit. These reveal Iśvara's omnipotent and compassionate nature. The prapanna should bear in mind this attribute of the Lord, His being free from partiality and cruelty (vaiṣamya and nairghṛṇya) and bondage and mokṣa  being dependent on the violation of His command and the adoption of the vyāja, respectively, as they are all based on pramāṇas. Thus it becomes his duty to lead the life of staunch and exclusive devotion with firm faith in the compassion of the omnipotent. This is the (real) meaning,
 
