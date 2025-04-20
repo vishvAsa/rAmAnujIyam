@@ -3255,6 +3255,8 @@ es la compasión natural del Señor.
 इवऩै भोगोपकरणमाक्कुगैक्कु प्रधानकारणम् ईश्वरऩुडैय स्वाभाविककारुण्यम्, 
 </details>
 
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदुक्कु प्रतिबन्धकम् आऩ ईश्वर-निग्रहत्तै शमिप्पित्तुक् कॊण्डु  
@@ -3264,17 +3266,144 @@ es la compasión natural del Señor.
 ऎऩ्ऱु 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतत्-प्रतिबन्धकम् ईश्वर-संकल्पं शमयन्तः सन्तः  
+सहकारि-कारणत्वेन प्रथिता  
+एतदीय-सुकृत-विशेष-द्वारक--कृपा-मूलका--वशी-करण-विशेषा  
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+The subsidiary cause (sahakāri kāraṇa ) is the vyāja (bhakti or prapatti)  
+which extinguishes the Lord's punishment (hitherto) acting as a hindrance or obstacle.  
+Bhakti and prapatti  
+which are adopted as vyāja to secure Iśvara's favour,  
+are, themselves, the result of His compassion  
+due to special acts of merit.  
+
+These reveal Iśvara's omnipotent and compassionate nature.  
+</details>
+
+<details><summary>Español</summary>
+
+La causa subsidiaria (Sahakāri kāraṇa) es el Vyāja (Bhakti o Prapatti)  
+que **extingue** el castigo del Señor (hasta ahora) **actuando** como un obstáculo.  
+Bhakti y Prapatti  
+que **se adoptan** como Vyāja  
+para **asegurar** el favor de Iśvara,  
+**son**, ellos mismos, el **resultado** de su compasión  
+Debido a actos especiales de mérito.
+
+Estos **revelan** la naturaleza omnipotente y compasiva de Iśvara.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इदुक्कु प्रतिबन्धकमाऩ ईश्वरनिग्रहत्तै शमिप्पित्तुक्कॊण्डु सहकारिकारणमॆऩ्ऱुबेर् पॆऱ्ऱदु इवऩुडैय सुकृतविशेषद्वारककृपैयडियाग वन्द वशीकरणविशेषङ्गळॆऩ्ऱु 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
 
-The subsidiary cause (sahakāri kāraṇa ) is the vyāja (bhakti or prapatti)  
-which extinguishes the Lord's punishment (hitherto) acting as a hindrance or obstacle.  
-Bhakti and prapatti which are adopted as vyāja to secure Iśvara's favour, are, themselves, the result of His compassion due to special acts of merit. These reveal Iśvara's omnipotent and compassionate nature. The prapanna should bear in mind this attribute of the Lord, His being free from partiality and cruelty (vaiṣamya and nairghṛṇya) and bondage and mokṣa  being dependent on the violation of His command and the adoption of the vyāja, respectively, as they are all based on pramāṇas. Thus it becomes his duty to lead the life of staunch and exclusive devotion with firm faith in the compassion of the omnipotent. This is the (real) meaning,
+भक्तिप्रपत्तिरूपसहकारिकारणङ्गळ् ताऩ् इत्तऩैगालमिल्लामल् इप्पोदु उण्डावाऩेऩॆऩ्ऩ वरुळिच्चॆय्गिऱार् इवऩुडैय सुकृतविशेषद्वारककृपैयडियाग वन्द इति । सहजकारुण्यत्ताले यादृच्छिकसुकृतविशषम् परिपक्वमाऩ दशैयिले वशीकरणविशेषङ्गळ् उण्डामॆऩ्ऱबडि। 
+</details>
 
-The omnipotence of one who has no compassion is dangerous to others; the compassion of one who is not omnipotent is not helpful to others and may also cause pain to the one who feels compassion. But the compassion of a person who is also omnipotent can accomplish whatever is desired and will bring delight to him and be the cause of immediately relieving the distress of those who seek his help and of giving them what they long for.
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वरऩुऩ्-उडैय +++(स्वातन्त्र्य-कृपा-युक्तं)+++ स्वभावत्तैयुम्  
+वैषम्य-नैर्घृण्यङ्गळ् इल्लामैयैयुम्  
++++(पाप-व्याज-सहकार-कृत-)+++ बन्ध-मोक्षादि-व्यवस्थैयैयुम्  
+प्रमाण-प्रतिनियतम् आऩ पडियिले अनुसन्धित्तु  
+स्वतंत्रऩ्-उडैय कृपैयिलेय् ऊऩ्ऱिप्+++(=अवष्टभ्य)+++  
+पोरव् अडुक्कुम्+++(=??)+++  
+ऎऩ्ऱु करुत्तु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वरस्य +++(स्वातन्त्र्य-कृपा-युक्तं)+++ स्वभावं, वैषम्य-नैर्घुण्याभावं  
++++(पाप-व्याज-सहकार-कृत-)+++ बन्ध-मोक्षादि-व्यवस्थां च प्रमाण-प्रतिनियत-प्रकारेणानुसन्धाय  
+स्वतन्त्रस्य कृपायाम् अवधानं विधाय  
+वर्तनं युक्तम्  
+इति भावः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+The prapanna should bear in mind this attribute of the Lord,  
+His being free from partiality and cruelty (vaiṣamya and nairghṛṇya)  
+and bondage and mokṣa being dependent on  
+the violation of His command and the adoption of the vyāja, respectively,  
+as they are all based on pramāṇas.  
+Thus it becomes his duty to lead the life of staunch and exclusive devotion  
+with firm faith in the compassion of the omnipotent.  
+This is the (real) meaning.
+</details>
+
+<details><summary>Español</summary>
+
+La Prapanna **debe tener** en cuenta este atributo del Señor,  
+Su estado libre de parcialidad y crueldad (Vaiṣamya y Nairghṛṇya)  
+y la esclavitud y mokṣa **dependiendo** de  
+la **violación** de su comando y la **adopción** del Vyāja, respectivamente,  
+ya que todos **se basan** en Pramāṇas.  
+Por lo tanto, **se convierte** en su **deber llevar** la vida de la devoción firme y exclusiva  
+con una fe firme en la compasión de lo omnipotente.  
+Este **es** el significado (real).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩुडैय स्वभावत्तैयुम् वैषम्यनैर्घृण्यङ्गळिल्लामैयैयुम् बन्धमोक्षादिव्यवस्थैयैयुम् प्रमाणप्रतिनियतमाऩबडियिले अनुसन्धित्तु स्वतंत्रऩुडैय कृपैयिले यूऩ्ऱिप् पोरवडुक्कुमॆऩ्ऱु करुत्तु। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+स्वभावत्तैयुम् - स्वातन्त्र्यकारुण्यरूपमाऩ स्वभावत्तैयुम्, बन्धमोक्षादिव्यवस्थैयैयुम् - आज्ञातिलङ्घनम् पण्णिऩाल् बन्धं, भक्तिप्रपत्तिरूपव्याजानुष्ठान मोक्षमॆऩ्गिऱ मर्यादैयैयुम्, प्रमाणप्रतिनियतमाऩबडियिले - प्रमाणङ्गळ् यादृशप्रकारविशिष्टमागक् काट्टुगिऩ्ऱऩवो अप्पडिये, अनुसन्धित्तु - तॆळिन्दु कॊण्डु, ऊऩ्ऱिप् पोरवडुक्कुमिति । ईश्वरऩुडैय स्वातन्त्र्यविशिष्ट कृपैयिले एकान्तिकळागप् प्राप्तमॆऩ्ऱबडि। 
+</details>
+
+
+#### स्वातन्त्र्य-कारुण्य-बन्धः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निष्कृपऩ्-उडैय स्वातंत्र्यम् बाधकम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+निष्कृपऩुडैय स्वातंत्र्यम् बाधकम्। 
+</details>
+
+<details><summary>English</summary>
+
+The omnipotence of one who has no compassion is dangerous to others; 
+</details>
+
+<details><summary>Español</summary>
+
+La omnipotencia de alguien que **no tiene** compasión **es peligrosa** para los demás;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निष्कृपऩुडैय स्वातंत्र्यम् बाधकम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इवैगळिल् अन्यतरत्तिल् ऊऩ्ऱिप् पोगलागादो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् निष्कृपऩुडैय स्वातन्त्र्यम् बाधकमिति । कृपैयिल्लादवऩुडैय स्वातन्त्र्यम् बन्धत्तुक्के हेतुवागुमेयॊऴिय मोक्षकारणमागादॆऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+
+
+
+the compassion of one who is not omnipotent is not helpful to others and may also cause pain to the one who feels compassion. But the compassion of a person who is also omnipotent can accomplish whatever is desired and will bring delight to him and be the cause of immediately relieving the distress of those who seek his help and of giving them what they long for.
 
 In regard to incarnations, it has been said, "In the distresses of men, ŚrīRāma is greatly distressed". (It may be asked how this distress can be reconciled with the delight spoken of above ).
 
