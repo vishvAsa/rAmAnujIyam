@@ -1997,7 +1997,7 @@ Y de nuevo,
 न लोभो नाशुभामतिः’’  
 (भारतम् आनुशासनिग-पर्व २५४-१३५।)  
 
-इत्यादिगळुम् +++(सात्त्विक-शास्त्र-ज्ञानम्→)+++आत्म-गुण-परिपूर्णाधिकारि-विशेष-विषयत्तिलेय् आगक् कडवऩ।
+इत्यादिगळुम् +++(सात्त्विक-शास्त्र-ज्ञानम्→)+++आत्म-गुण-परिपूर्णाधिकारि-विशेष-विषयत्तिलेय् आगक् कडवऩ+++(=यान्ति)+++।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -2261,7 +2261,7 @@ y **considere** la forma en que se **pueden aclarar** estas dudas.
 अदिल् सिद्धोपायम् प्रधानमागैयाल् तद्विषयकलक्कङ्गळैयुम्, तत्परिहारङ्गळैयुम् मुदलिल् सॊल्लुवदाग प्रतिज्ञैसॆय्गिऱार् अदिल् मुऱ्पडवित्यादिना । 
 </details>
 
-### जीवोपायापेक्षा
+### व्याजापेक्षा
 
 <details><summary>English</summary>
 
@@ -2512,11 +2512,21 @@ y que **no** nos corresponde ningún **esfuerzo** de ningún tipo.
 इवर्गळैत् तॆळिविक्कुम् पडि,  
 
 ईश्वरऩ् स्वतन्त्रऩेय् आगिलुम्  
-वैषम्य-नैर्घृण्यङ्गळ् आगिऱ+++(=??)+++ दोषङ्गळ्  
+वैषम्य-नैर्घृण्यङ्गळ् आगिऱ दोषङ्गळ्  
 तऩक्कुत् तट्टामैक्क् आग  
 इवऩ् पक्कलिलेय् ऒरु व्याजत्तैय् उण्डाक्कि  
-अत्तै अवलम्बित्तुत् ताऩ् रक्षिक्कुम्। 
+अत्तै अवलम्बित्तुत् ताऩ् रक्षिक्कुम्। +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतेषां प्रतिबोधनं यथा—  
+ईश्वरः स्वतन्त्रः सन्न् अपि  
+वैषम्य-नैर्धृण्य-रूपयोर् दषयोः स्वस्मिन्न् अ-प्रसङ्गार्थम्  
+एतत्-सविधे कम् अपि व्याजम् उत्पाद्य  
+तम् अवलम्ब्यैव रक्षति । +++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2544,9 +2554,65 @@ Para que las fallas de la parcialidad y la crueldad (Vaiṣamya, Nāirghṛṇya
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अर्थत्तै 
+
+> ’’तिरु-माल्-इरुञ्-जोलै+++(=वन)+++-मलैय् ऎऩ्ऱेऩ्  
+> ऎऩ्ऩत् तिरु-माल् वन्द् ऎऩ्-ऩॆञ्जु निऱैयप् पुगुन्दाऩ्’’  
+> (तिरुवाय्मॊऴि १०-८-१।)  
+
+ऎऩ्ऱ् आऴ्वार्-तामेय् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमम् अर्थं 
+
+> "तिरुमाल्-इरुं-शोले-(महत्तम-वन)-गिरिर् इत्य् अवोचम्   
+इति श्री-वल्लभो मद्-धृदये पूर्णतया प्राविशत्" 
+
+इति दिव्यसूरिः स्वयम् एवानुजग्राह।  
+
+[[१८७]] 
+</details>
+
+<details><summary>English</summary>
+
+The Alwar himself has declared this truth in :-  
+
+> "I said "Tirumalirunjolai"  
+> and immediately, the Lord of Lakṣmī  
+> filled my mind with His presence."  
+
+(The Vyāja, endeavour, or gesture, here,  
+is the utterance of the word Tirumalirunjolai by the Alwar). 
+</details>
+
+<details><summary>Español</summary>
+
+El propio Alwar ha declarado esta verdad en:-
+
+> "**Dije** "Tirumalirunjolai"  
+> E inmediatamente, el Señor de Lakṣmī  
+> **llenó** mi mente con su presencia ".
+
+(El Vyāja, el esfuerzo o el gesto, aquí,  
+**es** la expresión de la palabra tirumalirunjolai por el Alwar).
+</details>
 
 
-The Alwar himself has declared this truth in :-"I said Tirumalirunjolai" and immediately, the Lord of Lakṣmī  filled my mind with His presence." (The Vyāja, endeavour, or gesture, here, is the utterance of the word Tirumalirunjolai by the Alwar). It may be asked "This vyāja, too, is adopted by the Lord's grace. Why did He not make the person adopt it before ?" The answer is as follows:- The souls of men have streams of karma flowing from beginningless time. These streams of past karma produce their respective consequences at different times and Iśvara has to bestow, on each individual, the rewards or punishments that are in accordance with such karma. If He were to do otherwise, He would be tainted with partiality (and injustice). Iśvara did not make the person adopt the vyāja before, as the time for the ripening of the fruit of the karma had not yet come. Therefore, from the effect we have to infer the cause, as stated above. If this view be not accepted, no follower of any system will be able to answer the question why a person acquires ( at a certain time) such things as eagerness for mokṣa  which did not exist before. That these are due to the varied nature of the streams of beginningless karma is the common explanation for both those who believe in Iśvara and those who do not. Iśvara's independence and omnipotence consist in His determination to protect the jīva when He chooses to do so, on the adoption of a vyāja or some form of upāya (endeavour) (or even an apology for upāya ) and in there being no power to prevent Him from doing so.
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै ’’तिरुमालिरुञ्जोलै मलैयॆऩ्ऱेऩॆऩ्ऩत् तिरुमाल् वन्दॆऩ्ऩॆञ्जु निऱैयप् पुगुन्दा’’(तिरुवाय्मॊऴि १०-८-१।) ऩॆऩ्ऱाऴ्वार् तामेयरुळिच् चॆय्दार्। 
+</details>
+
+
+
+
+
+
+It may be asked "This vyāja, too, is adopted by the Lord's grace. Why did He not make the person adopt it before ?" The answer is as follows:- The souls of men have streams of karma flowing from beginningless time. These streams of past karma produce their respective consequences at different times and Iśvara has to bestow, on each individual, the rewards or punishments that are in accordance with such karma. If He were to do otherwise, He would be tainted with partiality (and injustice). Iśvara did not make the person adopt the vyāja before, as the time for the ripening of the fruit of the karma had not yet come. Therefore, from the effect we have to infer the cause, as stated above. If this view be not accepted, no follower of any system will be able to answer the question why a person acquires ( at a certain time) such things as eagerness for mokṣa  which did not exist before. That these are due to the varied nature of the streams of beginningless karma is the common explanation for both those who believe in Iśvara and those who do not. Iśvara's independence and omnipotence consist in His determination to protect the jīva when He chooses to do so, on the adoption of a vyāja or some form of upāya (endeavour) (or even an apology for upāya ) and in there being no power to prevent Him from doing so.
 
 If this is so, it may be asked how we are to explain the verse of the Alvar cited before, when be put the question why the Lord did not choose to save him before and received an answer and also the texts according to which the Lord is the unconditional Saviour: Our answer is as follows:--The Alvar attaches great importance to Iśvara's omnipotence and compassion and ignores the vyāja or vyājas adopted by himself, by which special means he secured the Lord's compassion, when he says. "For Thy neglect of me in former times and for taking me into Thy favour at present, I see no prominent causes other than Thy omnipotence and compassion. But, if owing to Thy omniscience, Thou hast seen any such cause, favour me with a knowledge of it". The Lord gave no reply and thereby the Alvar revealed to the world that the primary or prominent causes were only His omnipotence and compassion. This does not mean that there was no subsidiary cause or vyāja on the part of the Alvar. From this it follows that the primary cause for making the jīva an instrument of His Līlā is His omnipotence (svātantryam) and the subsidiary cause thereof is violation of the command of the omnipotent Lord which has been flowing like a stream from beginningless time. Now the primary cause for making the jīva an instrument of His bhoga (in Paramapada) is the Lord's natural compassion. The subsidiary cause (sahakāri kāraṇa ) is the vyāja (bhakti or prapatti) which extinguishes the Lord's punishment (hitherto) acting as a hindrance or obstacle. Bhakti and prapatti which are adopted as vyāja to secure Iśvara's favour, are, themselves, the result of His compassion due to special acts of merit. These reveal Iśvara's omnipotent and compassionate nature. The prapanna should bear in mind this attribute of the Lord, His being free from partiality and cruelty (vaiṣamya and nairghṛṇya) and bondage and mokṣa  being dependent on the violation of His command and the adoption of the vyāja, respectively, as they are all based on pramāṇas. Thus it becomes his duty to lead the life of staunch and exclusive devotion with firm faith in the compassion of the omnipotent. This is the (real) meaning,
 
