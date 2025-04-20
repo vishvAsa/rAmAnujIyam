@@ -2525,7 +2525,7 @@ y que **no** nos corresponde ningún **esfuerzo** de ningún tipo.
 
 एतेषां प्रतिबोधनं यथा—  
 ईश्वरः स्वतन्त्रः सन्न् अपि  
-वैषम्य-नैर्धृण्य-रूपयोर् दषयोः स्वस्मिन्न् अ-प्रसङ्गार्थम्  
+वैषम्य-नैर्धृण्य-रूपयोर् दोषयोः स्वस्मिन्न् अ-प्रसङ्गार्थम्  
 एतत्-सविधे कम् अपि व्याजम् उत्पाद्य  
 तम् अवलम्ब्यैव रक्षति । +++(5)+++
 </details>
@@ -3104,7 +3104,7 @@ Cuando **dice** -
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ईश्वरऩ् निर्-उत्तरऩ् आय् इरुक्किऱव् इरुप्पाले+++(=??)+++  
+ईश्वरऩ् निर्-उत्तरऩ् आय् इरुक्किऱव् इरुप्पाले  
 स्वातन्त्र्य-कृपैगळिऩ्-उडैय प्राधान्यत्तै  
 नाट्टुक्कु वॆळिय् इडुगिऱार्। 
 </details>
@@ -3318,7 +3318,7 @@ Estos **revelan** la naturaleza omnipotente y compasiva de Iśvara.
 +++(पाप-व्याज-सहकार-कृत-)+++ बन्ध-मोक्षादि-व्यवस्थैयैयुम्  
 प्रमाण-प्रतिनियतम् आऩ पडियिले अनुसन्धित्तु  
 स्वतंत्रऩ्-उडैय कृपैयिलेय् ऊऩ्ऱिप्+++(=अवष्टभ्य)+++  
-पोरव् अडुक्कुम्+++(=??)+++  
+पोरव् अडुक्कुम्+++(=युक्तम्)+++  
 ऎऩ्ऱु करुत्तु। 
 </details>
 
@@ -3401,9 +3401,109 @@ La omnipotencia de alguien que **no tiene** compasión **es peligrosa** para los
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-स्वतंत्रऩ्-उडैय कारुण्यम्  
+परर्क्कुम् अनुपकारकम् आय्त्  
+तऩक्कुम् क्लेशावहम् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+the compassion of one who is not omnipotent  
+is not helpful to others  
+and may also cause pain to the one who feels compassion.
+</details>
+
+<details><summary>Español</summary>
+
+the compassion of one who is not omnipotent  
+is not helpful to others  
+and may also cause pain to the one who feels compassion.
+</details>
 
 
-the compassion of one who is not omnipotent is not helpful to others and may also cause pain to the one who feels compassion. But the compassion of a person who is also omnipotent can accomplish whatever is desired and will bring delight to him and be the cause of immediately relieving the distress of those who seek his help and of giving them what they long for.
+<details><summary>मूलम्</summary>
+
+अस्वतंत्रऩुडैय कारुण्यम् परर्क्कुम् अनुपकारकमाय्त् तऩक्कुम् क्लेशावहमायिरुक्कुम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+कारुण्यमात्रत्तिल् ऊऩ्ऱिप्पोऩाल् पोदादोवॆऩ्ऩ वरुळिच् चॆय्गिऱार् अस्वतन्त्रऩुडैय कारुण्यमिति । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वतंत्रऩ्-उडैय कारुण्यम्  
+निऩैत्तदु मुडिक्कैयाले  
+तऩक्कु अतिरसम् आय्  
+आश्रयिप्पार्क्क् ऎल्लाम्  
+अऩ्ऱेय् अन्-इष्ट-निवृत्तिक्कुम्  
+इष्ट-प्राप्तिक्कुमुडल् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+But the compassion of a person  
+who is also omnipotent  
+can accomplish whatever is desired  
+and will bring delight to him  
+and be the cause of immediately relieving the distress of those who seek his help  
+and of giving them what they long for.
+</details>
+
+<details><summary>Español</summary>
+
+Pero la compasión de una persona  
+quien también **es** omnipotente  
+**puede lograr** lo que se desee  
+y le **traerá** deleite  
+y ser la **causa** de **aliviar** inmediatamente la angustia de aquellos que **buscan** su ayuda  
+y de **darles** lo que **anhelan**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वतंत्रऩुडैय कारुण्यम् निऩैत्तदु मुडिक्कैयाले तऩक्कु अतिरसमाय् आश्रयिप्पार्क्कॆल्लामऩ्ऱे यनिष्टनिवृत्ति क्कुमिष्टप्राप्तिक्कुमुडलायिरुक्कुम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि प्रत्येकत्तिल् बाधकम् सॊल्लि उभयत्तिऩ् एऱ्ऱत्तैक् काट्टुगिऱार् स्वतन्त्रऩुडैय कारुण्यमित्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् आगैयाले  
+अवतार-दशैयिलुम्  
+
+> ‘‘व्यसनेषु मनुष्याणां  
+> भृशं भवति दुःखितः’’  
+> (रामायणम् अयोध्या-काण्डम् २-४०।) 
+
+ऎऩ्ऱ् इप्-पुडैयिऱ् सॊल्लुम् अवैय् ऎल्लाम्  
+अनुग्रह-विषयम् आयिरुप्पार् सिलरै रञ्जिप्पिक्कैक्कुम्  
+आसुर-प्रकृतिगळै मोहिप्पिक्कैक्कुम् आगव् अत्तऩै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘व्यसनेषु मनुष्याणां  
+> भृशं भवति दुःखितः’’  
+> (रामायणम् अयोध्या-काण्डम् २-४०।) 
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियागैयाले अवतारदशैयिलुम् ‘‘व्यसनेषु मनुष्याणां भृशं भवति दुःखितः’’(रामायणम् अयोध्या-काण्डम् २-४०।) ऎऩ्ऱिप्पुडैयिऱ् सॊल्लुमवैयॆल्लाम् अनुग्रहविषयमायिरुप्पार् सिलरै रञ्जिप्पिक्कैक्कुम् आसुरप्रकृति कळै मोहिप्पिक्कैक्कुमागवत्तऩै। 
+</details>
+
 
 In regard to incarnations, it has been said, "In the distresses of men, ŚrīRāma is greatly distressed". (It may be asked how this distress can be reconciled with the delight spoken of above ).
 
