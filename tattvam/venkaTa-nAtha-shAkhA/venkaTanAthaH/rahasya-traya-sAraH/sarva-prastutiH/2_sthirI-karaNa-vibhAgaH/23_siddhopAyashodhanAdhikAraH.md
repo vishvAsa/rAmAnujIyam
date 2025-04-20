@@ -2273,6 +2273,8 @@ Doubt (1):- No upāya is necessary on the part of the jīva :
 Duda (1):- **No es necesario** upāya por parte del jīva:
 </details>
 
+#### आक्षेपः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अन्-आदि-कालम् अन्-आदरित्तव् ईश्वरऩ्  
@@ -2507,6 +2509,7 @@ y que **no** nos corresponde ningún **esfuerzo** de ningún tipo.
 मडियाग वैत्तु, अवऩ्दाऩे - अन्द स्वतन्त्रस्वामिये, रक्षित्तबोदु काणु मत्तऩैयऩ्ऱो - रक्षित्त कालत्तिले काणुम् फलम् वरुमत्तऩैयऩ्ऱो? 
 </details>
 
+#### उत्तरम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवर्गळैत् तॆळिविक्कुम् पडि,  
@@ -3122,8 +3125,6 @@ were only His omnipotence and compassion.
 
 This does not mean that  
 there was no subsidiary cause or vyāja on the part of the Alvar.  
-From this it follows that  
-the primary cause for making the jīva an instrument of His Līlā is His omnipotence (svātantryam)  
 </details>
 
 <details><summary>Español</summary>
@@ -3135,9 +3136,6 @@ que el principal o prominente causa
 
 Esto **no significa** que  
 **No hubo** causa subsidiaria o Vyāja por parte del Alvar.  
-De esto **se deduce** que  
-La causa principal de **hacer** del Jīva un instrumento de su līlā  
-**es** su omnipotencia (svātantryam)  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3145,18 +3143,67 @@ La causa principal de **hacer** del Jīva un instrumento de su līlā
 ईश्वरऩ् निरुत्तरऩायिरुक्किऱविरुप्पाले स्वातन्त्र्यकृपैकळिऩुडैय प्राधान्यत्तै नाट्टुक्कु वॆळियिडुगिऱार्। 
 </details>
 
-#### पाप-धारा
+<details><summary>सार-बोधिनी</summary>
+
+ईश्वरऩित्यादि । प्रधानकारणान्तरमिल्लामैयाल् ईश्वरऩ् प्रत्युत्तरम् सॊल्लामलिरुन्दाऩॆऩ्ऱबडि। 
+</details>
+
+#### निगमनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताल्,  
+इच्-चेतनऩै लीलोपकरणम् आक्कुगैक्कु  
+प्रधान-कारणम् ईश्वर-स्वातन्त्र्यम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतोऽस्य चेतनस्य लीलोपकरणत्वापादनस्य  
+प्रधान-कारणम् ईश्वर-स्वातन्त्र्यम्,  
+</details>
+
+
+<details><summary>English</summary>
+
+From this it follows that  
+the primary cause for making the jīva an instrument of His Līlā is His omnipotence (svātantryam)  
+</details>
+
+<details><summary>Español</summary>
+
+De esto **se deduce** que  
+La causa principal de **hacer** del Jīva un instrumento de su līlā  
+**es** su omnipotencia (svātantryam)  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्ताल्, इच्चेतनऩै लीलोपकरणमाक्कुगैक्कु प्रधानकारणम् ईश्वरस्वातन्त्र्यम्, 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि केवलस्वातन्त्र्यमुम्, केवलकारुण्यमुम् प्रधानकारणङ्गळागिल् नैर्घृण्यमुम् सर्वमुक्तिप्रसङ्गमुम् वारादोवॆऩ्ऩिल्; सहकारिकारणसापेक्षङ्गळागैयाल् वारादॆऩ्गिऱार् इत्तालिति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदुक्कु सह-कारि-कारणम्  
 प्रवाहानादिय् आऩ स्व-तन्त्राज्ञातिलङ्घनम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य सह-कारि-कारणं प्रवाहानादि--स्व-तन्त्राज्ञाऽतिलङ्घनम्  
+</details>
+
 <details><summary>English</summary>
 
 and the subsidiary cause thereof is violation of the command of the omnipotent Lord  
 which has been flowing like a stream from beginningless time.  
-
 </details>
 
 <details><summary>Español</summary>
@@ -3166,19 +3213,66 @@ y la causa subsidiaria de la misma
 que **ha estado fluyendo** como una **transmisión** desde el momento sin inicio.
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 इदुक्कु सहकारिकारणम् प्रवाहानादियाऩ स्वतंत्राज्ञातिलङ्घनम्, 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इदुक्कु सहकारिकारणम् प्रवाहानादियाऩ स्वतन्त्राज्ञातिलङ्घनमिति ।  
+इदऩाल् इच्चेतनऩुडैय बन्धत्तिऱ्कु स्वातन्त्र्यम् प्रधानकारणमागिलुम् इदऱ्कु प्रवाहानादियाग वन्द आज्ञातिलङ्घनादिगळ् सहकारि-कारणङ्गळागैयाल् ईश्वरऩुक्कु नैर्घृण्यप्रसङ्गमिल्लैयॆऩ्ऱु सूचितम्।  
+इप्पडियेऒरुवऩुडैय बन्धत्तैक् कऴित्तु भोगोपकरणमाक्कुगैक्कु कारुण्यमे प्रधानकारणमागिलुम् अदऱ्कु प्रतिबन्धकमाऩ भगवन्निग्रहनिवर्तकङ्गळाऩ भक्तिप्रपत्तिकळ् सहकारिकारणङ्गळाग अपेक्षितङ्गळागैयाल् अवैगळिल्लाविडिल् सर्वमुक्तिप्रसङ्गम् वारादु ऎऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩै भोगोपकरणम् आक्कुगैक्कु प्रधान-कारणम्  
+ईश्वरऩ्-उडैय स्वाभाविक-कारुण्यम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य भोगोपकरणत्वापादनस्य प्रधान-कारणम्  
+ईश्वरस्य स्वाभाविक-कारुण्यम्,  
+</details>
 
 
+<details><summary>English</summary>
 
 Now the primary cause for making the jīva an instrument of His bhoga (in Paramapada)  
 is the Lord's natural compassion.  
-The subsidiary cause (sahakāri kāraṇa ) is the vyāja (bhakti or prapatti) which extinguishes the Lord's punishment (hitherto) acting as a hindrance or obstacle. Bhakti and prapatti which are adopted as vyāja to secure Iśvara's favour, are, themselves, the result of His compassion due to special acts of merit. These reveal Iśvara's omnipotent and compassionate nature. The prapanna should bear in mind this attribute of the Lord, His being free from partiality and cruelty (vaiṣamya and nairghṛṇya) and bondage and mokṣa  being dependent on the violation of His command and the adoption of the vyāja, respectively, as they are all based on pramāṇas. Thus it becomes his duty to lead the life of staunch and exclusive devotion with firm faith in the compassion of the omnipotent. This is the (real) meaning,
+</details>
+
+<details><summary>Español</summary>
+
+Ahora la causa principal de **hacer** del Jīva un instrumento de su bhoga (en Paramapada)  
+es la compasión natural del Señor.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऩै भोगोपकरणमाक्कुगैक्कु प्रधानकारणम् ईश्वरऩुडैय स्वाभाविककारुण्यम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कु प्रतिबन्धकम् आऩ ईश्वर-निग्रहत्तै शमिप्पित्तुक् कॊण्डु  
+सहकारि-कारणम् ऎऩ्ऱु पेर् पॆऱ्ऱदु  
+इवऩ्-उडैय सुकृत-विशेष-द्वारक-कृपैय् अडियाग वन्द वशी-करण--विशेषङ्गळ्  
+
+ऎऩ्ऱु 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदुक्कु प्रतिबन्धकमाऩ ईश्वरनिग्रहत्तै शमिप्पित्तुक्कॊण्डु सहकारिकारणमॆऩ्ऱुबेर् पॆऱ्ऱदु इवऩुडैय सुकृतविशेषद्वारककृपैयडियाग वन्द वशीकरणविशेषङ्गळॆऩ्ऱु 
+</details>
+
+
+The subsidiary cause (sahakāri kāraṇa ) is the vyāja (bhakti or prapatti)  
+which extinguishes the Lord's punishment (hitherto) acting as a hindrance or obstacle.  
+Bhakti and prapatti which are adopted as vyāja to secure Iśvara's favour, are, themselves, the result of His compassion due to special acts of merit. These reveal Iśvara's omnipotent and compassionate nature. The prapanna should bear in mind this attribute of the Lord, His being free from partiality and cruelty (vaiṣamya and nairghṛṇya) and bondage and mokṣa  being dependent on the violation of His command and the adoption of the vyāja, respectively, as they are all based on pramāṇas. Thus it becomes his duty to lead the life of staunch and exclusive devotion with firm faith in the compassion of the omnipotent. This is the (real) meaning,
 
 The omnipotence of one who has no compassion is dangerous to others; the compassion of one who is not omnipotent is not helpful to others and may also cause pain to the one who feels compassion. But the compassion of a person who is also omnipotent can accomplish whatever is desired and will bring delight to him and be the cause of immediately relieving the distress of those who seek his help and of giving them what they long for.
 
