@@ -2663,6 +2663,12 @@ Se puede preguntar
 तऩ्ऩालेयागिलित्तै मुऩ्बेयुण्डाक्कादे विट्टदॆऩ्ऩॆऩ्ऩिल्;
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इन्द व्याजत्तिऱ्कु ईश्वरऩ् कारणमिल्लाविडिल् सर्वकारणत्वभङ्गम् वरुम्, अवऩ् कारणमागिल् इत्तऩैगालम् इन्द व्याजत्तै युण्डाक्काददु स्वातन्त्र्यत्तिऩालेये यऩ्ऱो ऎऩ्ऱु शङ्किक्किऱार् इन्द व्याजन्दाऩुमित्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् आत्माक्कळुक्क्  
@@ -2696,6 +2702,12 @@ Estas corrientes de karma pasada **producen** sus respectivas consecuencias en d
 इव्वात्माक्कळुक्कनादियाऩ कर्मप्रवाहङ्गळ् विषमविपाकसमयङ्गळाय्क् कॊण्डु पोरुगैयाले 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+उत्तरमरुळिच्चॆय्गिऱर्इव्वात्माक्कळुक्कित्यादिना । कर्मप्रवाहङ्गळ् विषमविपाकसमयङ्गळाय्क्कॊण्डु पोरुगैयाले इति । इदऩाल् व्याजम् कर्मविपाकजन्यमागैयाल् इन्द व्याजजनकमाऩ कर्मविपाकम् इत्तऩै कालम् उण्डागविल्लैयॆऩ्ऱु सूचितम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईश्वरऩ् कर्मानुरूप-फल-प्रदऩ् अल्लाद बोदु  
@@ -2705,6 +2717,17 @@ Estas corrientes de karma pasada **producen** sus respectivas consecuencias en d
 
 ऎऩ्ऩुम् इडम् कार्य-विशेष-दर्शनत्ताले कल्पितम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वरस्य कर्मानुरूप-फल-प्रदत्वा-भावे  
+वैषम्य-दोषम्य प्रसङ्गाच् च  
+
+> पूर्वम् अस्यावसरो न जात  
+
+इत्य् एतत् कार्य-विशेष-दर्शनात् कल्पितम् ।  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2742,9 +2765,15 @@ Por lo tanto, por el efecto **tenemos que inferir** la causa, como **se indicó*
 कार्यविशेषदर्शनत्ताले कल्पितम्।
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+ईश्वरऩ् सर्वकारणमागैयाले इन्द व्याजत्तै मुऩ्बे उण्डुबण्णक्कूडादो ऎऩ्ऩिल्;उत्तरमरुळिच्चॆय्गिऱार् ईश्वरऩित्यादिना । ईश्वरऩ् स्वतन्त्रऩाय् सर्वकारणमाग इरुन्दालुम् तऩ्ऩिडत्तिल् वैषम्यादिदोषम् वारामैक्काग कर्मानुरूपमागवे फलत्तैत् तरुवदाग सङ्कल्पित्तिरुप्पदाल् इत्तऩै कालम् इन्द व्याजानुगुणमाऩ कर्मपरिपाकम् वरविल्लैयॆऩ्ऱुम् इप्पॊऴुदु ताऩ् अव्विद कर्मत्तिऱ्कु परिपाकम् वन्ददॆऩ्ऱुम्, व्याजरूपकार्यदर्शनत्ताले कल्पिक्कवेण्डुमॆऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इङ्ङऩ् इसैयाद पोदु  
+इङ्ङऩ् इसैयाद+++(=अनङ्गीकार)+++ पोदु  
 सर्व-सिद्धान्तिगळुक्कुम्  
 
 > इदुक्कु मुऩ्ब् इल्लाद मोक्ष-श्रद्धादिगळ्  
@@ -2753,15 +2782,193 @@ Por lo tanto, por el efecto **tenemos que inferir** la causa, como **se indicó*
 ऎऩ्ऱाल् उत्तरञ् जॊल्ल विरग्+++(=कौशलम्)+++ इल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एवम् अनभ्युपगमे सर्व-सिद्धान्तिनाम् अपि  
+
+> इतः पूर्वम् अनुत्पन्नस्य मोक्ष-श्रद्धादेर्  
+> इदानीम् उत्पत्तौ किं बीजम्?  
+
+इति प्रश्नय्,  
+उत्तर-प्रतिपादनार्थम् उपायो नास्ति । 
+</details>
+
+
+<details><summary>English</summary>
+
+If this view be not accepted,  
+no follower of any system will be able to answer the question  
+why a person acquires ( at a certain time) such things as eagerness for mokṣa  
+which did not exist before. 
+</details>
+
+<details><summary>Español</summary>
+
+Si este punto de vista **no es aceptado**,
+Ningún seguidor de ningún sistema **podrá responder** a la pregunta
+
+> Por qué una persona **adquiere** (en un momento determinado) cosas como el entusiasmo por Mokṣa  
+que **no existía** antes.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इङ्ङऩिसैयाद पोदु सर्वसिद्धान्तिकळुक्कुमिदुक्कु मुऩ्बिल्लाद मोक्षश्रद्धादिगळिप्पोदु पिऱक्कैक्कडियॆऩ्ऩॆऩ्ऱालुत्तरञ्जॊल्लविरगिल्लै। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
 
-If this view be not accepted, no follower of any system will be able to answer the question why a person acquires ( at a certain time) such things as eagerness for mokṣa  which did not exist before. That these are due to the varied nature of the streams of beginningless karma is the common explanation for both those who believe in Iśvara and those who do not. Iśvara's independence and omnipotence consist in His determination to protect the jīva when He chooses to do so, on the adoption of a vyāja or some form of upāya (endeavour) (or even an apology for upāya ) and in there being no power to prevent Him from doing so.
+इप्पडि इन्द व्याजम् विषमविपाकसुकृतसापेक्षमॆऩ्ऱुम्, ईश्वरऩ् ताऩ् सुकृतसापेक्षऩागवे व्याजत्तिऱ्कुक् कारणमागिऱाऩॆऩ्ऱुम् ऒप्पुक्कॊळ्ळादबोदु बाधकमरुळिच्चॆय्गिऱार् इङ्ङऩिसैयादबोदु इत्यादिना । ईश्वरस्वातन्त्र्यमे मोक्षकारणमॆऩ्ऱु सॊल्लुमवर्गळुम् स्वातन्त्र्यम् शक्तिविशेषमॆऩ्ऱाल् सर्वदा मोक्षंवर प्रसङ्गिक्कुमागैयालुम् इच्छैयॆऩ्ऱाल् अदु निर्हेतुकमाग वारादागैयालुम् सुकृतविशेषमूलमागवे ऒप्पुक्कॊळ्ळवेण्डु मॆऩ्ऱु करुत्तु। 
+</details>
 
-If this is so, it may be asked how we are to explain the verse of the Alvar cited before, when be put the question why the Lord did not choose to save him before and received an answer and also the texts according to which the Lord is the unconditional Saviour: Our answer is as follows:--The Alvar attaches great importance to Iśvara's omnipotence and compassion and ignores the vyāja or vyājas adopted by himself, by which special means he secured the Lord's compassion, when he says. "For Thy neglect of me in former times and for taking me into Thy favour at present, I see no prominent causes other than Thy omnipotence and compassion. But, if owing to Thy omniscience, Thou hast seen any such cause, favour me with a knowledge of it". The Lord gave no reply and thereby the Alvar revealed to the world that the primary or prominent causes were only His omnipotence and compassion. This does not mean that there was no subsidiary cause or vyāja on the part of the Alvar. From this it follows that the primary cause for making the jīva an instrument of His Līlā is His omnipotence (svātantryam) and the subsidiary cause thereof is violation of the command of the omnipotent Lord which has been flowing like a stream from beginningless time. Now the primary cause for making the jīva an instrument of His bhoga (in Paramapada) is the Lord's natural compassion. The subsidiary cause (sahakāri kāraṇa ) is the vyāja (bhakti or prapatti) which extinguishes the Lord's punishment (hitherto) acting as a hindrance or obstacle. Bhakti and prapatti which are adopted as vyāja to secure Iśvara's favour, are, themselves, the result of His compassion due to special acts of merit. These reveal Iśvara's omnipotent and compassionate nature. The prapanna should bear in mind this attribute of the Lord, His being free from partiality and cruelty (vaiṣamya and nairghṛṇya) and bondage and mokṣa  being dependent on the violation of His command and the adoption of the vyāja, respectively, as they are all based on pramāṇas. Thus it becomes his duty to lead the life of staunch and exclusive devotion with firm faith in the compassion of the omnipotent. This is the (real) meaning,
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनादि-कर्म-प्रवाह-वैचित्र्यत्तालेय्  
+
+ऎऩ्ऩुम् उत्तरम्  
+ईश्वरऩै इसैन्दार्क्कुम्  
+इसैयादार्क्कुम् तुल्यम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अनादि-कर्म-प्रवाह-वैचित्र्याद्  
+
+इत्य्-उत्तरणं तु 
+ईश्वरम् अभ्युपगच्छताम् अनभ्युपगच्छतां च तुल्यम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+That these are due to the varied nature of the streams of beginningless karma  
+is the common explanation  
+for both those who believe in Iśvara and those who do not.  
+</details>
+
+<details><summary>Español</summary>
+
+Que estos **se deben** a la naturaleza variada de las corrientes del karma sin inicio  
+**es** la **explicación** común  
+tanto para aquellos que **creen** en Iśvara como para los que **no lo hacen**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनादिकर्मप्रवाहवैचित्र्यत्ताले यॆऩ्ऩुमुत्तरम् ईश्वरऩै इसैन्दार्क्कु मिसैयादार्क्कुम् तुल्यम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+ईश्वरऩैयङ्गीगरियादार्क्कु विचित्रकर्म प्रवाहमूलत्वेन व्यवस्थै वेण्डु मागिलुम् नाम् ईश्वरस्वातन्त्र्यमडियागवे व्यवस्थै कॊळ्ळवेण्डावोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् अनादीत्यादिना । ईश्वरस्वातन्त्र्यमुम् ईश्वरऩिडत्तिल् वैषम्यनैर्घृण्यम् तट्टा मैक्काग कर्मसापेक्षमॆऩ्ऱे कॊळ्ळवेण्डुमागैयल् ईश्वरऩै इसैन्दार्क्कुम् इसैयादार्क्कुम् इदु तुल्यमॆऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वर-स्वातन्त्र्यम्  
+ऒरु व्याजत्तैक् कॊण्डु  
+अवऩ् निऩैत्त बोदे रक्षिक्कैक्कुं  
+विलक्क-वल्लार् इल्लामैक्कुम् उऱुप्प्+++(=प्रयोजकम्)+++ आम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+
+ईश्वर-स्वातन्त्र्यं  
+यत्-किञ्चिद्-व्याजावलम्बनेन  
+तत्-संकल्पित-समये रक्षणस्य निवारकाभावस्य च प्रयोजकम् । +++(5)+++
+
+</details>
+
+
+<details><summary>English</summary>
+
+Iśvara's independence and omnipotence  
+consist in His determination to protect the jīva  
+when He chooses to do so,  
+on the adoption of a vyāja or some form of upāya (endeavour) (or even an apology for upāya )  
+and in there being no power to prevent Him from doing so.+++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+Independencia y omnipotencia de Iśvara  
+**consisten** en su **determinación** de **proteger** el Jīva  
+Cuando **elige hacerlo**,  
+Sobre la **adopción** de un vyāja o alguna forma de upāya (esfuerzo) (o incluso una disculpa por upāya)  
+y **no hay** poder para **evitar** que **lo haga**.+++(5)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
+ईश्वरस्वातन्त्र्यमॊरु व्याजत्तैक्कॊण्डु अवऩ् निऩैत्तबोदे रक्षिक्कैक्कुंविलक्कवल्लारिल्लामैक्कुमुऱुप्पाम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+ईश्वरऩ् व्याजसापेक्षऩागवे रक्षिक्किऱाऩॆऩ्ऱाल् अवऩ् स्वातन्त्र्यत्तिऱ्कु नैष्फल्यम् वारादोवॆऩ्ऩ वरुळिच् चॆय्गिऱार् ईश्वरस्वातन्त्र्यमित्यादिना । ईश्वरस्वातन्त्र्यम् रक्षणत्तिल् व्याजसापेक्षमाऩालुम् व्याजमुण्डाऩवुडऩे रक्षिक्कैक्कुम् विलक्कुवारिल्लामैक्कुम् हेतुवागैयाल् निष्फलमागादॆऩ्ऱु करुत्तु। 
+</details>
+
+
+#### पूर्वोक्तगाथादिनिर्वाहः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप् पडिय् आऩाल्  
+’’इऩ्ऱ् ऎऩ्ऩैय्’’  ऎऩ्गिऱ पाट्टुक्कुम्  
+इदुक्कु मूलम् आऩ वचनङ्गळुक्कुम् निर्वाहम् ऎऩ्ऩ् 
+
+ऎऩ्ऩिल्; अदु सॊल्लुगिऱोम्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवं सति,  
+> "अद्य माम्" इति गाथायाः  
+> तन्-मूल-भूत-वचनानां च  
+> कथं निर्वाह? 
+
+इति चेत् — तं ब्रूमः । 
+</details>
+
+<details><summary>English</summary>
+
+If this is so,  
+it may be asked how we are to explain the verse of the Alvar cited before,  
+when be put the question why the Lord did not choose to save him before 
+and received an answer  
+and also the texts according to which the Lord is the unconditional Saviour:  
+Our answer is as follows:--
+</details>
+
+<details><summary>Español</summary>
+
+Si esto es así,  
+Se puede preguntar cómo estamos para explicar el verso del Alvar citado antes,  
+Cuando se le ponga la pregunta por qué el Señor no eligió salvarlo antes  
+y recibió una respuesta  
+y también los textos según los cuales el Señor es el Salvador incondicional:  
+Nuestra respuesta es la siguiente:-
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियाऩाल् ’’इऩ्ऱॆऩ्ऩै’’ यॆऩ्गिऱ पाट्टुक्कुम् इदुक्कु मूलमाऩ वचनङ्गळुक्कुम् निर्वाहमॆऩ्ऩॆऩ्ऩिल्; अदु सॊल्लुगिऱोम्; 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडियागिल् ’’इऩ्ऱॆऩ्ऩैप् पॊरुळाक्कि’’ऎऩ्गिऱ पासुरत्तिल् नम्माऴ्वार् इप्पडि इऩ्ऱॆऩ्ऩैप् पॊरुळाक्कुगैक्कु व्याजमॆऩ्ऩवॆऩ्ऱु केट्क अदऱ्कु ईश्वरऩ् प्रत्युत्तरम् सॊल्लाददऱ्कुम्, इप्पाट्टुक्कु मूलमाऩ वचनत्तिऱ्कुम् अभिप्रायमॆऩ्ऩ वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इप्पडियाऩालित्यादिना । 
+</details>
+
+
+
+The Alvar attaches great importance to Iśvara's omnipotence and compassion and ignores the vyāja or vyājas adopted by himself, by which special means he secured the Lord's compassion, when he says. "For Thy neglect of me in former times and for taking me into Thy favour at present, I see no prominent causes other than Thy omnipotence and compassion. But, if owing to Thy omniscience, Thou hast seen any such cause, favour me with a knowledge of it". The Lord gave no reply and thereby the Alvar revealed to the world that the primary or prominent causes were only His omnipotence and compassion. This does not mean that there was no subsidiary cause or vyāja on the part of the Alvar. From this it follows that the primary cause for making the jīva an instrument of His Līlā is His omnipotence (svātantryam) and the subsidiary cause thereof is violation of the command of the omnipotent Lord which has been flowing like a stream from beginningless time. Now the primary cause for making the jīva an instrument of His bhoga (in Paramapada) is the Lord's natural compassion. The subsidiary cause (sahakāri kāraṇa ) is the vyāja (bhakti or prapatti) which extinguishes the Lord's punishment (hitherto) acting as a hindrance or obstacle. Bhakti and prapatti which are adopted as vyāja to secure Iśvara's favour, are, themselves, the result of His compassion due to special acts of merit. These reveal Iśvara's omnipotent and compassionate nature. The prapanna should bear in mind this attribute of the Lord, His being free from partiality and cruelty (vaiṣamya and nairghṛṇya) and bondage and mokṣa  being dependent on the violation of His command and the adoption of the vyāja, respectively, as they are all based on pramāṇas. Thus it becomes his duty to lead the life of staunch and exclusive devotion with firm faith in the compassion of the omnipotent. This is the (real) meaning,
 
 The omnipotence of one who has no compassion is dangerous to others; the compassion of one who is not omnipotent is not helpful to others and may also cause pain to the one who feels compassion. But the compassion of a person who is also omnipotent can accomplish whatever is desired and will bring delight to him and be the cause of immediately relieving the distress of those who seek his help and of giving them what they long for.
 
