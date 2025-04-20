@@ -3145,12 +3145,28 @@ La causa principal de **hacer** del Jīva un instrumento de su līlā
 ईश्वरऩ् निरुत्तरऩायिरुक्किऱविरुप्पाले स्वातन्त्र्यकृपैकळिऩुडैय प्राधान्यत्तै नाट्टुक्कु वॆळियिडुगिऱार्। 
 </details>
 
-
+#### पाप-धारा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदुक्कु सह-कारि-कारणम्  
 प्रवाहानादिय् आऩ स्व-तन्त्राज्ञातिलङ्घनम्, 
 </details>
+
+<details><summary>English</summary>
+
+and the subsidiary cause thereof is violation of the command of the omnipotent Lord  
+which has been flowing like a stream from beginningless time.  
+
+</details>
+
+<details><summary>Español</summary>
+
+y la causa subsidiaria de la misma  
+**es** una violación del mandato del Señor omnipotente  
+que **ha estado fluyendo** como una **transmisión** desde el momento sin inicio.
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
@@ -3159,8 +3175,6 @@ La causa principal de **hacer** del Jīva un instrumento de su līlā
 
 
 
-and the subsidiary cause thereof is violation of the command of the omnipotent Lord  
-which has been flowing like a stream from beginningless time.  
 
 Now the primary cause for making the jīva an instrument of His bhoga (in Paramapada)  
 is the Lord's natural compassion.  
