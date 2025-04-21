@@ -3491,7 +3491,7 @@ y de **darles** lo que **anhelan**.
 इप्पडि प्रत्येकत्तिल् बाधकम् सॊल्लि उभयत्तिऩ् एऱ्ऱत्तैक् काट्टुगिऱार् स्वतन्त्रऩुडैय कारुण्यमित्यादिना । 
 </details>
 
-#### वस्तुतो दुःखित्वाभावः
+### वस्तुतो दुःखित्वाभावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिय् आगैयाले  
@@ -3502,19 +3502,61 @@ y de **darles** lo que **anhelan**.
 > (रामायणम् अयोध्या-काण्डम् २-४०।) 
 
 ऎऩ्ऱ् इप्-पुडैयिऱ् सॊल्लुम् अवैय् ऎल्लाम्  
-अनुग्रह-विषयम् आयिरुप्पार् सिलरै रञ्जिप्पिक्कैक्कुम्  
-आसुर-प्रकृतिगळै मोहिप्पिक्कैक्कुम् आगव् अत्तऩै। 
+अनुग्रह-विषयम् आयिरुप्पार् सिलरै +++(दण्डकारण्य-ऋषिनिभान्)+++ रञ्जिप्पिक्कैक्कुम्  
+आसुर-प्रकृतिगळै +++(अनीश्वरत्वादि-)+++मोहिप्पिक्कैक्कुम् आगव् अत्तऩै। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
+
+एवम्-भावाद् एवावतार-दशायाम्  
 
 > ‘‘व्यसनेषु मनुष्याणां  
 > भृशं भवति दुःखितः’’  
 > (रामायणम् अयोध्या-काण्डम् २-४०।) 
 
+इत्य् एवं-रीत्या प्रतिपाद्यमानानि सर्वाण्य् अपि (चेष्टादीनि )  
+अनुग्रह-विषयाणां सतां केषाञ्चिद् रञ्जनार्थानि  
+आसुरप्रकृतीनां +++(अनीश्वरत्वादि-)+++मोहनार्थानि चेत्य् एव ।
 </details>
 
+<details><summary>English</summary>
 
+In regard to incarnations, it has been said,  
+
+> "In the distresses of men,  
+> Śrī Rāma is greatly distressed".  
+
+(It may be asked how this distress can be reconciled  
+with the delight spoken of above).
+
+It means only this:  
+that this distress is only in order to  
+give delight to those who are worthy of His grace.  
+In the case of wicked men with the nature of Asuras,  
+the distress assumed by the avatār  
+is to make the evil-doer become deluded into thinking  
+that he is not Iśvara's incarnation. 
+</details>
+
+<details><summary>Español</summary>
+
+Con respecto a las encarnaciones, **se ha dicho**,
+
+> "En las angustias de los hombres,  
+> Śrī Rāma **está** muy angustiado ".
+
+(Se le **puede preguntar** cómo se **puede reconciliar** esta angustia  
+con el deleite **mencionado** de arriba).
+
+Significa solo esto:  
+que **esta angustia** es solo para  
+**Dar** deleite a los que **son** dignos de su gracia.  
+
+En el caso de los hombres malvados con la naturaleza de Asuras,  
+la angustia **asumida** por el avatār  
+**es hacer** que el malhechor **se engañe a pensar**  
+que él **no es** la encarnación de Iśvara.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3522,9 +3564,257 @@ y de **darles** lo que **anhelan**.
 </details>
 
 
-In regard to incarnations, it has been said, "In the distresses of men, ŚrīRāma is greatly distressed". (It may be asked how this distress can be reconciled with the delight spoken of above ).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-It means only this: that this distress is only  in order to give delight to those who are worthy of His grace. In the case of wicked men with the nature of Asuras, the distress assumed by the avatār is to make the evil-doer become deluded into thinking that he is not Iśvara's incarnation. The great sages have declared the truth of what has been said so far in the following ślokas: "It is Bhagavān alone that rules over time and death over those that move and those that do not move. I am stating the truth to you; the Lord of all the worlds, though possessed of omnipotence and omniscience, begins to act (during incarnations ), as if He were only a weak tiller of the soil. In this way, by His association with wonderful powers, He deludes the world, bat those who seek refuge under Him are never deluded", and "Śrī Kṛṣṇa, who had large eyes, removed the burden off the earth, deluded the whole world and has now gone back to His own abode," and again "He imitates the actions of those who have the bodies of men, but the līlā of the Lord of the world is dependent only on His will". Therefore in the stories of the avatārs or incarnations, the distress is only of the nature of play.acting and that, too, has compassion as its cause. It is of the nature of lilā or sport to the Omnipotent. Have we not seen hunchbacks and dwarfs often taken into protection by kings who do not expect any return from them? It is a matter of līlā or play to them and, at the same time, the consequence of compassion. That is why it is said, "The Upaniṣads  state that the Lord of Śrī creates, maintains, controls and does such other things in regard to sentient and non-sentient things, only for His own sake. It is therefore, O, Lord of Śrīraṅga, Thy nature to be the means of salvation (upāya ) for the jīva and also the object of attainment. Therefore I seek Thee as my upāya without any thought of my own interests."
+इव्व् अर्थत्तै 
+
+> २४‘‘कालस्य हि च मृत्योश् च  
+> जङ्गम-स्थावरस्य च ।  
+> **ईशते** भगवानेकस्  
+> सत्यम् एतद् ब्रवीमि ते ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमम् अर्थम् 
+
+> २४‘‘कालस्य हि च मृत्योश् च  
+> जङ्गम-स्थावरस्य च ।  
+> **ईशते** भगवानेकस्  
+> सत्यम् एतद् ब्रवीमि ते ॥ 
+</details>
+ 
+<details><summary>English</summary>
+
+the truth of what has been said so far -
+
+> "It is Bhagavān alone that rules  
+> over time and death  
+> over those that move and those that do not move.  
+> I am stating the truth to you;  
+
+</details>
+
+<details><summary>Español</summary>
+
+La verdad de lo que **se ha dicho** hasta ahora -
+
+> "**Es** solo Bhagavān lo que **gobierna**  
+> Con el tiempo y la muerte  
+> Sobre los que **se mueven** y los que **no se mueven**.  
+> Te **estoy declarando** la verdad;
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै २४‘‘कालस्य हि च मृत्योश्च जङ्गमस्थावरस्य च । ईशते भगवानेकस्सत्यमेतद् ब्रवीमि ते ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ईशन्न् अपि महा-योगी  
+सर्वस्य जगतः प्रभुः ।  
+कर्माण्य् आरभते कर्तुं  
+कीनाश इव दुर्बलः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ईशन्न् अपि महा-योगी  
+सर्वस्य जगतः प्रभुः ।  
+कर्माण्य् आरभते कर्तुं  
+कीनाश इव दुर्बलः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> the Lord of all the worlds,  
+> though possessed of omnipotence and omniscience,  
+> begins to act (during incarnations ),  
+> as if He were only a weak tiller of the soil.  
+</details>
+
+<details><summary>Español</summary>
+
+> El Señor de todos los mundos,  
+> Aunque **posee** omnipotencia y omnisciencia,  
+> **comienza a actuar** (durante las encarnaciones),  
+> Como si **fuera** solo una **oler** débil del suelo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ईशन्नपि महायोगी सर्वस्य जगतः प्रभुः ।  
+कर्माण्यारभते कर्तुं कीनाश इव दुर्बलः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तेन **वञ्चयते** लोकान्  
+माया-योगेन केशवः ।  
+ये तम् एव **प्रपद्यन्ते**  
+**न** ते **मुह्यन्ति** मानवाः ॥’’  
+(भारतम् उत्योग-पर्व ६७-१३,१४,१५)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तेन **वञ्चयते** लोकान्  
+माया-योगेन केशवः ।  
+ये तम् एव **प्रपद्यन्ते**  
+**न** ते **मुह्यन्ति** मानवाः ॥’’  
+(भारतम् उत्योग-पर्व ६७-१३,१४,१५)
+</details>
+
+
+<details><summary>English</summary>
+
+> In this way, by His association with wonderful powers,  
+> He deludes the world,  
+> but those who seek refuge under Him  
+> are never deluded", 
+</details>
+
+<details><summary>Español</summary>
+
+> De esta manera, por su **asociación** con poderes maravillosos,  
+> **Engaña** al mundo,  
+> Pero aquellos que **buscan** refugio debajo de él  
+> **nunca se engañan** ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तेन वञ्चयते लोकान् मायायोगेन केशवः ।  
+ये तमेवप्रपद्यन्ते न ते मुह्यन्ति मानवाः ॥’’  
+(भारतम् उत्योग-पर्व ६७-१३,१४,१५)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘कृत्वा भारावतरणं  
+पृथिव्याः पृथु-लोचनः ।  
+**मोहयित्वा** जगत् सर्वं  
+**गतस्** स्वं स्थानम् उत्तमम् ॥’’  
+(भारतम् मौसल-पर्व ९-३४)  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘कृत्वा भारावतरणं  
+पृथिव्याः पृथु-लोचनः ।  
+**मोहयित्वा** जगत् सर्वं  
+**गतस्** स्वं स्थानम् उत्तमम् ॥’’  
+(भारतम् मौसल-पर्व ९-३४)  
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "Śrī Kṛṣṇa, who had large eyes,  
+> removed the burden off the earth,  
+> deluded the whole world  
+> and has now gone back to His own abode," 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "Śrī Kṛṣṇa, que **tenía** ojos grandes,  
+> **Quitó** la carga de la tierra,  
+> **engañó** al mundo entero  
+> y ahora **ha vuelto** a su propia morada ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘कृत्वा भारावतरणं पृथिव्याः पृथुलोचनः ।  
+मोहयित्वा जगत्सर्वं गतस्स्वं स्थानमुत्तमम् ॥’’  
+(भारतम् मौसल-पर्व ९-३४)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> २६ ‘‘मनुष्य-देहिनां चेष्टाम्  
+इत्य् एवम् **अनुवर्तते** ।  
+लीला जगत्-पतेस् तस्य  
+छन्दतस् **संप्रवर्तते** ॥’’  
+(विष्णुपुराणम् ५-२२-१८।)  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> २६ ‘‘मनुष्य-देहिनां चेष्टाम्  
+इत्य् एवम् **अनुवर्तते** ।  
+लीला जगत्-पतेस् तस्य  
+छन्दतस् **संप्रवर्तते** ॥’’  
+(विष्णुपुराणम् ५-२२-१८।)  
+</details>
+
+<details><summary>English</summary>
+
+and again 
+
+> "He imitates the actions of those who have the bodies of men,  
+> but the līlā of the Lord of the world is dependent only on His will".  
+</details>
+
+<details><summary>Español</summary>
+
+y de nuevo
+
+> "Él **imita** las acciones de aquellos que **tienen** los cuerpos de los hombres,  
+> Pero el Līlā del Señor del mundo **depende** solo de su voluntad ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+२६‘‘मनुष्यदेहिनां चेष्टामित्येवमनुवर्तते ।  
+लीला जगत्पतेस्तस्य छन्दतस्संप्रवर्तते ॥’’(विष्णुपुराणम् ५-२२-१८।)  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिले महर्षिगळ् अऱुदिय् इट्टार्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[१८२]] 
+
+इत्यादिषु महर्षयो निर्धारयामासुः । 
+</details>
+
+<details><summary>English</summary>
+
+The great sages have declared in the above ~~following~~ ślokas.
+</details>
+
+<details><summary>Español</summary>
+
+Los grandes sabios han declarado en lo anterior ~~ siguiente ~~ Ślokas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिले महर्षिकळऱुदियिट्टार्गळ्। 
+</details>
+
+
+
+
+
+
+
+Therefore in the stories of the avatārs or incarnations, the distress is only of the nature of play-acting and that, too, has compassion as its cause. It is of the nature of lilā or sport to the Omnipotent. Have we not seen hunchbacks and dwarfs often taken into protection by kings who do not expect any return from them? It is a matter of līlā or play to them and, at the same time, the consequence of compassion. That is why it is said, "The Upaniṣads  state that the Lord of Śrī creates, maintains, controls and does such other things in regard to sentient and non-sentient things, only for His own sake. It is therefore, O, Lord of Śrīraṅga, Thy nature to be the means of salvation (upāya ) for the jīva and also the object of attainment. Therefore I seek Thee as my upāya without any thought of my own interests."
 
 Since Bhagavān is the seat of the activity for the good of others, He is the Saviour of those who seek refuge under Him and since He places Himself in the place of other upāyas (like parābhakti) (in order to protect them), He is also the upāya. Since He is the seat of the fruit of the activity of protecting (namely, His delight), He is the śeṣī  and consequently the object of attainment. That His being all this is due to His essential nature (svarūpa) is understood from the pramāṇas or authorities which help us to know Him, Of the principal qualities of Iśvara, such as jñāna (knowledge) śakti or power and compassion, knowledge and power are qualities which come into play for both punishment and favour, whereas compassion comes into play (only) in conferring favours. Compassion, here, means, the inclination to do good to others. Bhagavān's compassion comes into play in all the following in the creation and sustenance of the three kinds of sentient beings (baddha, mukta and nitya), in keeping them in activities pleasing to the Lord, in the eternal enjoyment of the eternal sūris, in seeing that those who have obtained release from bondage do not return to saṁsāra, in the creation of all things (like mahat, ahankāra, tanmātras, etc) in lilā vibhūti (i.e.) in this world, in the pure creation called His avatār untainted with matter, in propagating a knowledge of the śāstras and in causing through them a knowledge of the tattvas and of the means of attaining mukti, in creating an eagerness for mokṣa , in enabling a person to do meritorious actions which would become the vyāja or upāya for causing the eagerness for mokṣa , in prescribing upāyas suited to the nature of each individual for wiping out the punishment for violation of His commands, in being accessory to the mind being prompted to adopt the upāya, in removing any obstacles that might stand in the way of the man who has adopted bhakti as the upāya (upāsaka) in standing, in the case of those who are destitute of other upāyas (1.6.) prapannas, in the place of these upāyas and protecting them from all danger, in ignoring countless offences of a serious nature committed by the jīva from beginningless time, by being gracious to him on account of the vyāja or upāya performed by him and releasing him from saṁsāra so that he may enjoy endless bliss, in bestowing mokṣa
 
