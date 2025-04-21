@@ -4041,6 +4041,31 @@ Por eso **se dice**
 उपायान्तर-स्थान-निवेशत्ताले उपायमुम् आय् इरुक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं पर-हित-व्यापाराश्रयत्वाद्  
+आश्रितानां रक्षक:,  
+उपायान्तर-स्थाननिवेशाद् उपायश् च भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+Since Bhagavān is the seat of the activity for the good of others,  
+He is the Saviour of those who seek refuge under Him  
+and since He places Himself in the place of other upāyas (like parābhakti) (in order to protect them),  
+He is also the upāya.  
+</details>
+
+<details><summary>Español</summary>
+
+Dado que Bhagavān **es** la sede de la actividad para el bien de los demás, 
+Él **es** el Salvador de aquellos que **buscan** refugio debajo de él  
+y dado que **se coloca** en el lugar de otras upāyas (como parābhakti) (para protegerlos),  
+Él también **es** el upāya.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इप्पडि परहितव्यापाराश्रयमागैयाले आश्रितर्क्कु रक्षकऩुमाय् उपायान्तरस्थाननिवेशत्ताले उपायमुमायिरुक्कुम्। 
@@ -4048,7 +4073,9 @@ Por eso **se dice**
 
 
 
-Since Bhagavān is the seat of the activity for the good of others, He is the Saviour of those who seek refuge under Him and since He places Himself in the place of other upāyas (like parābhakti) (in order to protect them), He is also the upāya. Since He is the seat of the fruit of the activity of protecting (namely, His delight), He is the śeṣī  and consequently the object of attainment. That His being all this is due to His essential nature (svarūpa) is understood from the pramāṇas or authorities which help us to know Him, Of the principal qualities of Iśvara, such as jñāna (knowledge) śakti or power and compassion, knowledge and power are qualities which come into play for both punishment and favour, whereas compassion comes into play (only) in conferring favours. Compassion, here, means, the inclination to do good to others. Bhagavān's compassion comes into play in all the following in the creation and sustenance of the three kinds of sentient beings (baddha, mukta and nitya), in keeping them in activities pleasing to the Lord, in the eternal enjoyment of the eternal sūris, in seeing that those who have obtained release from bondage do not return to saṁsāra, in the creation of all things (like mahat, ahankāra, tanmātras, etc) in lilā vibhūti (i.e.) in this world, in the pure creation called His avatār untainted with matter, in propagating a knowledge of the śāstras and in causing through them a knowledge of the tattvas and of the means of attaining mukti, in creating an eagerness for mokṣa , in enabling a person to do meritorious actions which would become the vyāja or upāya for causing the eagerness for mokṣa , in prescribing upāyas suited to the nature of each individual for wiping out the punishment for violation of His commands, in being accessory to the mind being prompted to adopt the upāya, in removing any obstacles that might stand in the way of the man who has adopted bhakti as the upāya (upāsaka) in standing, in the case of those who are destitute of other upāyas (1.6.) prapannas, in the place of these upāyas and protecting them from all danger, in ignoring countless offences of a serious nature committed by the jīva from beginningless time, by being gracious to him on account of the vyāja or upāya performed by him and releasing him from saṁsāra so that he may enjoy endless bliss, in bestowing mokṣa
+
+
+Since He is the seat of the fruit of the activity of protecting (namely, His delight), He is the śeṣī  and consequently the object of attainment. That His being all this is due to His essential nature (svarūpa) is understood from the pramāṇas or authorities which help us to know Him, Of the principal qualities of Iśvara, such as jñāna (knowledge) śakti or power and compassion, knowledge and power are qualities which come into play for both punishment and favour, whereas compassion comes into play (only) in conferring favours. Compassion, here, means, the inclination to do good to others. Bhagavān's compassion comes into play in all the following in the creation and sustenance of the three kinds of sentient beings (baddha, mukta and nitya), in keeping them in activities pleasing to the Lord, in the eternal enjoyment of the eternal sūris, in seeing that those who have obtained release from bondage do not return to saṁsāra, in the creation of all things (like mahat, ahankāra, tanmātras, etc) in lilā vibhūti (i.e.) in this world, in the pure creation called His avatār untainted with matter, in propagating a knowledge of the śāstras and in causing through them a knowledge of the tattvas and of the means of attaining mukti, in creating an eagerness for mokṣa , in enabling a person to do meritorious actions which would become the vyāja or upāya for causing the eagerness for mokṣa , in prescribing upāyas suited to the nature of each individual for wiping out the punishment for violation of His commands, in being accessory to the mind being prompted to adopt the upāya, in removing any obstacles that might stand in the way of the man who has adopted bhakti as the upāya (upāsaka) in standing, in the case of those who are destitute of other upāyas (1.6.) prapannas, in the place of these upāyas and protecting them from all danger, in ignoring countless offences of a serious nature committed by the jīva from beginningless time, by being gracious to him on account of the vyāja or upāya performed by him and releasing him from saṁsāra so that he may enjoy endless bliss, in bestowing mokṣa
 
 immediately on those prapannas who are impatient of delay, and, in the case of those prapannas who are not impatient of delay and who have forgotten to beg for a life free from sin (after prapatti), in creating repentance for any offences committed by them owing to past karma which has begun to operate (prārabdha ) and inducing the person to perform the necessary prāyaścitta or expiation suited to his competency; in the case of those who are too hard-hearted to perform prāyaścitta, in preventing their entrance into the world of Yama and loss of the benefit begged for by them by seeing that they are punished for these offences (committed after prapatti) in this life itself with sufferings (like blindness and lameness ) - in all these the Lord's compassion is the principal and common cause.
 
