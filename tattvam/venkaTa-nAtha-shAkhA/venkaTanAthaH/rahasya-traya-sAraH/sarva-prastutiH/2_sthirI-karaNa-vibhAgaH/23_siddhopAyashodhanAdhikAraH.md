@@ -4033,7 +4033,17 @@ Por eso **se dice**
 इप्पडियागैयालिऱे २७‘‘उपादत्ते सत्तास्थितिनियमनाद्यैश्चि-दचितौ स्वमुद्दिश्य श्रीमान्’’(श्रीरङ्गराजस्तवम् उत्तरशदगम् ८७) ऎऩ्ऱदु। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
 
+जगद्रक्षणादिगळ् लीलैयाऩालुम् कृपाकार्यङ्गळे ऎऩ्गिऱ विषयत्तिलुम्, स्वातन्त्र्यकारुण्यव्याजसापक्षरक्षकत्वादिगळिलुम् अभियुक्तर् पासुरत्तैक् काट्टुगिऱार् इप्पडियागैयालेयिऱे इत्यादिना । चेतनरक्षणम् लीलैयायुम् कृपाकार्यमुमागैयाले ऎऩ्ऱबडि। सत्तास्थितिनियमनादिगळ् चेतनरुक्कु हिदमागैयाल् कृपाकार्यमॆऩ्ऱु सिद्धम्। चित्तैयुम् अचित्तैयुम् स्वार्थमाग स्वीकरिक्किऱाऩ् ऎऩ्गैयाल् शेषित्वमुम्, स्वातन्त्र्यमुम्, लीलैयुम् सॊल्लप्पट्टदु। श्लोकत्तिऩुडैय पूर्वार्धाथत्तै 
+
+> ‘‘उपायोपेयत्वे तदिह तव तत्त्वं न तु गुणाव्  
+> अतस्त्वां श्रीरङ्गेशय शरणमव्याजमभजम्’’ 
+
+ऎऩ्गिऱ उत्तरार्धार्थत्तिऱ्कु हेदुवागक्काट्टि, उत्तरार्धार्थत्तै यरुळिच् चॆय्गिऱार्। 
+</details>
+
+### स्वरूपतो रक्षकोपायोपेयता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि पर-हित-व्यापाराश्रयम् आगैयाले  
@@ -4071,11 +4081,223 @@ y dado que **se coloca** en el lugar de otras upāyas (como parābhakti) (para p
 इप्पडि परहितव्यापाराश्रयमागैयाले आश्रितर्क्कु रक्षकऩुमाय् उपायान्तरस्थाननिवेशत्ताले उपायमुमायिरुक्कुम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि परहितव्यापाराश्रयमागैयाले इत्यादिना । आश्रितर्क्कु रक्षकऩुमाय् उपायान्तरस्थान निवेशत्ताले उपायमुमायिरुक्कुमिति । इदऩाल् ईश्वरऩुक्कु ‘‘उपायोपयत्वे तदिह’’ ऎऩ्गिऱविडत्तिल् उपायान्तरनिरपेक्षरक्षकत्वरूपोपायत्वम् सूचितम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रक्षण-व्यापार-फलाश्रयम् आगैयाले शेषियुम् आय्  
+अद्-अडिय् आग प्राप्यऩुम् आयिरुक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+रक्षण-व्यापार-फलाश्रयत्वात् शेषी,  
+ततो हेतोः प्राप्यश् च भवति । 
+</details>
+
+<details><summary>English</summary>
+
+Since He is the seat of the fruit of the activity of protecting (namely, His delight),  
+He is the śeṣī   
+and consequently the object of attainment. 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que él **es** el asiento del fruto de la actividad de la **protección** (a saber, su deleite),  
+El **es** el Śeṣī  
+y en consecuencia el objeto de **logro**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रक्षणव्यापारफलाश्रयमागैयाले शेषियुमाय् अदडियाग प्राप्यऩुमायिरुक्कुम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+उपेयत्वशब्दार्थत्तै विवरिक्किऱार् रक्षणव्यापारेत्यादिना । रक्षणव्यापारफलाश्रयमागैयाले इति । उपायानुष्ठानत्तिऩालुण्डाऩ कैङ्गर्यरूबफलत्तिऱ्कु प्रतिसम्बन्धियायिरुप्पदालॆऩ्ऱ पडि। अदडियाग प्राप्यऩुमायिरुक्कुम् - शेषित्वमडियाग उपयमायुमिरुक्कुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडिय् इरुक्कै इवऩुक्कु स्व-रूप-प्रयुक्तम्  
+
+ऎऩ्ऱु धर्मि-ग्राहक-प्रमाण-सिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवं-भावोऽस्य स्व-रूप-प्रयुक्त  
+
+इति धर्मि-ग्राहक-प्रमाण-सिद्धम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+That His being all this is due to His essential nature (svarūpa)  
+is understood from the pramāṇas or authorities  
+which help us to know Him.  
+</details>
+
+<details><summary>Español</summary>
+
+Que **es** todo esto se debe a su naturaleza esencial (svarūpa)  
+**se entiende** por los pramāṇas o las autoridades  
+que nos **ayudan a conocerlo**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडियिरुक्कै इवऩुक्कु स्वरूपप्रयुक्तमॆऩ्ऱु धर्मिग्राहकप्रमाणसिद्धम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+तव तत्त्वमॆऩ्बदै विवरिक्किऱार् इप्पडियिरुक्कै इत्यादिना । 
+इवऩुक्कु स्वरूपप्रयुक्तमॆऩ्ऱु धर्मिग्राहकप्रमाणसिद्धमिति । स्वरूपप्रयुक्तम् - सहजम्। औपाधिकमऩ्ऱॆऩ्ऱबडि। 
+</details>
+
+
+### गुणेषु कारुण्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि रक्षकऩ् आऩ ईश्वरऩुक्कु प्रधानम् आऩ  
+ज्ञान-शक्ति-करुणैगळिल्  
+ज्ञान-शक्तिकळ् निग्रहानुग्रह-साधारणङ्गळ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं रक्षकस्येश्वरस्य प्रधानभूतासु ज्ञान-शक्ति-करुणासु  
+ज्ञानं शाक्तिश् च निग्रहानुग्रह-साधारणे । 
+</details>
+
+
+<details><summary>English</summary>
+
+Of the principal qualities of Iśvara,  
+such as jñāna (knowledge), śakti or power and compassion,  
+knowledge and power are qualities which come into play for both punishment and favour,  
+</details>
+
+<details><summary>Español</summary>
+
+De las principales cualidades de Iśvara,  
+como jñāna (conocimiento), Śakti o poder y compasión,  
+conocimiento y poder **son** cualidades que **entran** en juego tanto para el **castigo** como para el **favor**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि रक्षकऩाऩ ईश्वरऩुक्कु प्रधानमाऩ ज्ञानशक्तिकरुणैगळिल् ज्ञानशक्तिकळ् निग्रहानुग्रहसाधारणङ्गळ्।
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+कृपैयिले ऊऩ्ऱिप्पोरवडुक्कुम् ऎऩ्ऱु सॊऩ्ऩदऱ्कुक् कारणत्तै उपपादिक्किऱार् इप्पडि रक्षकऩाऩवित्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कारुण्यम् अनुग्रहत्तुक्क् अ-साधारणम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कारुण्यम् अनुग्रहस्यासाधारणम् ।
+</details>
+
+
+<details><summary>English</summary>
+
+whereas compassion comes into play (only) in conferring favours. 
+</details>
+
+<details><summary>Español</summary>
+
+Mientras que la compasión **entra** en juego (solo) para **conferir** favores.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कारुण्यमनुग्रहत्तुक्कसाधारणम्।
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+कारुण्यम् अनुग्रहत्तुक्कसाधारणमिति । ज्ञानशक्तिकळ् निग्रहानुग्रहसाधारणङ्गळागैयालुम्, कारुण्यम् अनुग्रहत्तिऱ्के असाधारणकारणमागैयालुम् अदिलेये ऊऩ्ऱिप्पोरवडुक्कुमॆऩ्ऱु करुत्तु। 
+</details>
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Since He is the seat of the fruit of the activity of protecting (namely, His delight), He is the śeṣī  and consequently the object of attainment. That His being all this is due to His essential nature (svarūpa) is understood from the pramāṇas or authorities which help us to know Him, Of the principal qualities of Iśvara, such as jñāna (knowledge) śakti or power and compassion, knowledge and power are qualities which come into play for both punishment and favour, whereas compassion comes into play (only) in conferring favours. Compassion, here, means, the inclination to do good to others. Bhagavān's compassion comes into play in all the following in the creation and sustenance of the three kinds of sentient beings (baddha, mukta and nitya), in keeping them in activities pleasing to the Lord, in the eternal enjoyment of the eternal sūris, in seeing that those who have obtained release from bondage do not return to saṁsāra, in the creation of all things (like mahat, ahankāra, tanmātras, etc) in lilā vibhūti (i.e.) in this world, in the pure creation called His avatār untainted with matter, in propagating a knowledge of the śāstras and in causing through them a knowledge of the tattvas and of the means of attaining mukti, in creating an eagerness for mokṣa , in enabling a person to do meritorious actions which would become the vyāja or upāya for causing the eagerness for mokṣa , in prescribing upāyas suited to the nature of each individual for wiping out the punishment for violation of His commands, in being accessory to the mind being prompted to adopt the upāya, in removing any obstacles that might stand in the way of the man who has adopted bhakti as the upāya (upāsaka) in standing, in the case of those who are destitute of other upāyas (1.6.) prapannas, in the place of these upāyas and protecting them from all danger, in ignoring countless offences of a serious nature committed by the jīva from beginningless time, by being gracious to him on account of the vyāja or upāya performed by him and releasing him from saṁsāra so that he may enjoy endless bliss, in bestowing mokṣa
+इङ्गु **कारुण्यम्** आवदु पर-हित-प्रवणतै । 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एषु कारुण्यं नाम - परहित-प्रवणता। 
+</details>
+
+<details><summary>English</summary>
+
+Compassion, here, means, the inclination to do good to others. 
+</details>
+
+<details><summary>Español</summary>
+
+Compasión, aquí, **significa**, la inclinación a **hacer** el bien a los demás.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु कारुण्यमावदु परहितप्रवणतै । 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+कारुण्यं परदुःखदुःखित्वमॆऩ्ऱाल् अन्यत्र सम्भावितमाऩालुम्, ईश्वरऩुक्कप्पोदु हेयप्रत्यनीकत्वम् घटियातागैयाल् अदै व्यावृत्तिप्पिक्किऱार् इङ्गु कारुण्यमावदु परहित प्रवणतै इति । इङ्गु - ईश्वरऩिडत्तिले, परहितप्रवणतै - परोपकृतिमनपक्ष्य, अदावदु निरुपाधिकमाग परऩुक्कु हिदत्तैप् पण्णवेण्डुमॆऩ्गिऱ इच्छै । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु त्रिविध-चेतनर्गळ्-उडैय सत्ता-स्थितिगळुक्कुम्, अनुकूल-वृत्तिगळुक्कुम्, 
+</details>
+
+<details><summary>English</summary>
+
+in all the following -  
+
+- in the creation and sustenance of the three kinds of sentient beings (baddha, mukta and nitya), in keeping them in activities pleasing to the Lord, 
+</details>
+
+<details><summary>Español</summary>
+
+in all the following -  
+
+- in the creation and sustenance of the three kinds of sentient beings (baddha, mukta and nitya), in keeping them in activities pleasing to the Lord, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु त्रिविधचेतनर्गळुडैय सत्तास्थितिकळुक्कुम्, अनुकूलवृत्तिकळुक्कुम्, 
+</details>
+
+
+
+Bhagavān's compassion comes into play  
+
+in the eternal enjoyment of the eternal sūris, in seeing that those who have obtained release from bondage do not return to saṁsāra, in the creation of all things (like mahat, ahankāra, tanmātras, etc) in lilā vibhūti (i.e.) in this world, in the pure creation called His avatār untainted with matter, in propagating a knowledge of the śāstras and in causing through them a knowledge of the tattvas and of the means of attaining mukti, in creating an eagerness for mokṣa , in enabling a person to do meritorious actions which would become the vyāja or upāya for causing the eagerness for mokṣa , in prescribing upāyas suited to the nature of each individual for wiping out the punishment for violation of His commands, in being accessory to the mind being prompted to adopt the upāya, in removing any obstacles that might stand in the way of the man who has adopted bhakti as the upāya (upāsaka) in standing, in the case of those who are destitute of other upāyas (1.6.) prapannas, in the place of these upāyas and protecting them from all danger, in ignoring countless offences of a serious nature committed by the jīva from beginningless time, by being gracious to him on account of the vyāja or upāya performed by him and releasing him from saṁsāra so that he may enjoy endless bliss, in bestowing mokṣa
 
 immediately on those prapannas who are impatient of delay, and, in the case of those prapannas who are not impatient of delay and who have forgotten to beg for a life free from sin (after prapatti), in creating repentance for any offences committed by them owing to past karma which has begun to operate (prārabdha ) and inducing the person to perform the necessary prāyaścitta or expiation suited to his competency; in the case of those who are too hard-hearted to perform prāyaścitta, in preventing their entrance into the world of Yama and loss of the benefit begged for by them by seeing that they are punished for these offences (committed after prapatti) in this life itself with sufferings (like blindness and lameness ) - in all these the Lord's compassion is the principal and common cause.
 
