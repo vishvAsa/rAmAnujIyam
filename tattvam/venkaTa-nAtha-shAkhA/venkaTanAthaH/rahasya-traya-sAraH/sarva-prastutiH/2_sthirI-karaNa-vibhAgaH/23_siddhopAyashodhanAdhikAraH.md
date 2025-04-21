@@ -3563,6 +3563,28 @@ que él **no es** la encarnación de Iśvara.
 इप्पडियागैयाले अवतारदशैयिलुम् ‘‘व्यसनेषु मनुष्याणां भृशं भवति दुःखितः’’(रामायणम् अयोध्या-काण्डम् २-४०।) ऎऩ्ऱिप्पुडैयिऱ् सॊल्लुमवैयॆल्लाम् अनुग्रहविषयमायिरुप्पार् सिलरै रञ्जिप्पिक्कैक्कुम् आसुरप्रकृति कळै मोहिप्पिक्कैक्कुमागवत्तऩै। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+स्वतन्त्रऩुडैय कारुण्यम् तऩक्कु रसावहमॆऩ्ऱु सॊऩ्ऩदु कूडुमो? अप्पडियागिल् 
+
+> ‘‘व्यसनेषु मनुष्याणां  
+> भृशं भवति दुःखितः’’ 
+
+ऎऩ्ऱु सक्रवर्त्तित् तिरुमगऩिऩ् कारुण्यम् अवरुक्कु शोकावहमागिऱदॆऩ्ऱु सॊऩ्ऩदु पॊरुन्दुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इप्पडियागैयाले इति । स्वतन्त्रऩुडैय कृपै अवऩुक्कु रसावहमॆऩ्बदु लोकसिद्धमागैयाले यॆऩ्ऱबडि।  
+व्यसनेष्व् इति ।  
+लोकत्तिल् अन्तःपुरत्तिलुळ्ळार्क्कावदु, तिरुत्तायार् तिरुत्तगप्पऩार्मार्गळुक्कावदु ऒरु व्यसनम् सम्भवित्ताल् अदऱ्काग तत्सम्बन्धिकळ् दुःखिप्पदुण्डु। अप्पडियऩ्ऱिक्के नाट्टिलुळ्ळ मनुष्यर्गळिल् ऎवर्गळुक्कु व्यसनम् वन्दालुम् इवर् दुःखिप्पारॆऩ्गिऱार् मनुष्याणामिति । लोकत्तिल् ऒरु व्यसनम्बोल् इरण्डु मूऩ्ऱु व्यसनम् नेर्न्दाल् अनुभववशत्ताले दुःखम् कुऱैन्दु काणुम्। अप्पडियिल्लैयिऱे इवरुक्कु ऎऩ्गिऱार् व्यसनेष्विति । भृशं दुःखितो भवतीति । व्यसनप्पडुम् मनुष्यऩुडैय दुःखत्तैक्काट्टिलुम् इवर् दुःखम् विञ्जि यिरुक्कुमिऱे। दुःखितो भवति – व्यसनिकळाऩ मनुष्यर्गळुक्कु दुःखमिऩ्ऱु ऒरुबडियाय् मऱुनाळ् ऒरुबडियाय् क्रमेण आऱिप्पोगुम्। अप्पडियऩ्ऱिक्के नाळ्दोऱुम् दुःखित्तेयिरुप्पारिवरॆऩ्ऱबडि।  
+इतरर् पडुगिऱ क्लेशम्  
+दैववशत्ताल् वन्दद् आगैयाल्  
+अदु क्रमेण शान्तमागलाम्।  
+इवऩ् पडुगिऱ क्लेशम्  
+तऩ् कावल् सोर्वालेय् अऩ्ऱो  
+अवर्गळ् क्लेशिप्पद् ऎऩ्गिऱ ऎण्णत्तालुण्डाऩदागैयाल् अनुवर्तित्तुक् कॊण्डेयिरुक्कुमॆऩ्ऱु तिरुवुळ्ळम्। रञ्जिप्पिक्कैक्कुमिति । तऩ् विषयत्तिल् अवर्गळुक्कु रञ्जनत्तै, अदावदु प्रीतियै युण्डाक्कुगैक्कुम्, लोकत्तिल् ऒरुवऩ् व्यसनप्पट्टाल् अदैप् पार्त्तु सुहृत्ताऩ मऱ्ऱॊरुवऩ् क्लेशप्पडुवा ऩागिल् अन्द सुहृद्विषयत्तिल् क्लेशप्पडुमवऩुक्कु निरवधिकप्रीतियुण्डागक् काण्गिऱोमिऱे! आसुरप्रकृतिकळै मोहिप्पिक्कैक्कुमिति ।  
+नम्बोले इवऩुम् दुःखितऩागप्पोरुगैयाल्  
+’’इवऩ् ईश्वरऩऩ्ऱु, इवऩै जयित्तुविडलाम्’’  
+ऎऩ्गिऱ मोहत्तै युण्डुबण्णुगैक्कुमॆऩ्ऱबडि। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3610,6 +3632,13 @@ La verdad de lo que **se ha dicho** hasta ahora -
 इव्वर्थत्तै २४‘‘कालस्य हि च मृत्योश्च जङ्गमस्थावरस्य च । ईशते भगवानेकस्सत्यमेतद् ब्रवीमि ते ॥ 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+अवतारदशैयिल् दुःख प्रलाप पलायनादिगळॆल्लाम् अभिनयमात्रङ्गळेयॊऴिय स्वाभाविकङ्गळऩ्ऱॆऩ्बदिल् प्रमाणङ्गळैक् काट्टुगिऱार् इव्वर्थत्तै इत्यादिना । कालस्येत्यादि । ईशत इति । वचनव्यत्ययश्छान्दसः । कालं मुदलाऩ सर्वत्तिऱ्कुम् भगवाऩ् ऒरुवऩे स्वतन्त्रऩाऩ नियन्ता ऎऩ्ऱबडि। 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ईशन्न् अपि महा-योगी  
@@ -3647,6 +3676,12 @@ La verdad de lo que **se ha dicho** hasta ahora -
 ईशन्नपि महायोगी सर्वस्य जगतः प्रभुः ।  
 कर्माण्यारभते कर्तुं कीनाश इव दुर्बलः ॥  
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+ईशन् प्रभुरपि – स्वतन्त्रऩाऩ फलप्रदऩाग इरुन्दालुम्, महायोगी - इदु हेतुगर्भविशेणम्। महत्ताऩ युक्तियोडु कूडिऩवऩागैयाल्, दुर्बलः कीनाश इव – दुर्बलऩाऩ कृषी- वलऩैप्पोले, कर्माण्यारभते कर्तुं – दूत्यसारथ्यादिकर्मङ्गळैप्पण्णवारम्भिक्किऱाऩ्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3689,6 +3724,12 @@ La verdad de lo que **se ha dicho** hasta ahora -
 तेन वञ्चयते लोकान् मायायोगेन केशवः ।  
 ये तमेवप्रपद्यन्ते न ते मुह्यन्ति मानवाः ॥’’  
 (भारतम् उत्योग-पर्व ६७-१३,१४,१५)
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+मयायोगेन – अशक्त्यकार्यकरणाभिनयरूपमाऩ मायायोगत्ताले, लोकान् – आसुरप्रकृतिकळाऩजनङ्गळै, वञ्चयते - इवऩ् ईश्वरऩऩ्ऱु, नम्मैक्काट्टिलुम् दुर्बलऩाऩ मऩिद ऩॆऩ्गिऱ ऎण्णत्तै उण्डुबण्णि मोहिप्पिक्किऱाऩ्। य इत्यादि । ऎवर्गळ् अवऩैये शरणमडैगिऱार्गळो अवर्गळ् दूत्यसारथ्यादिकर्मङ्गळै सौलभ्य सौशील्यकार्यङ्गळाग ऎण्णि मोहत्तै अडैगिऱार्गळिल्लै यॆऩ्ऱबडि। 
 </details>
 
 
@@ -3739,6 +3780,12 @@ y
 </details>
 
 
+<details><summary>सार-बोधिनी</summary>
+
+कृत्वेत्यादि । स्वं स्थानं – परमपदत्तै, इत्येवमनुवर्तते - इप्पडिये मनुष्यर्गळुडैय चेष्टैयै अभिनयिक् किऱाऩॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > २६ ‘‘मनुष्य-देहिनां चेष्टाम्  
@@ -3779,6 +3826,10 @@ y de nuevo
 लीला जगत्पतेस्तस्य छन्दतस्संप्रवर्तते ॥’’(विष्णुपुराणम् ५-२२-१८।)  
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+लीलेत्यादि । अभिनयरूपमाऩ इन्द लीलैयाऩदु अवऩुक्कु स्वच्छैयाले ये उण्डागिऱदु। इतरऩ् प्रेरिक्क वन्ददऩ्ऱॆऩ्ऱबडि। 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3809,12 +3860,193 @@ Los grandes sabios han declarado en lo anterior ~~ siguiente ~~ Ślokas.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् अवतार-वृत्तान्तङ्गळिलुम्  
+दुःखाभिनय-मात्रमेय् उळ्ळदु,  
+अदु-दाऩुम् कृपा-मूलम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतोऽवतार-वृत्तान्ते वपि दुःखाभिनय-मात्रम् एवास्ति ।  
+तद् अपि कृपामूलम् । 
+</details>
 
 
+<details><summary>English</summary>
+
+Therefore in the stories of the avatārs or incarnations,  
+the distress is only of the nature of play-acting  
+and that too has compassion as its cause. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, en las historias de los avatārs o encarnaciones,  
+La angustia **es** solo de la naturaleza de la acción de juego  
+Y eso también **tiene** compasión como causa.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् अवतारवृत्तान्तङ्गळिलुम् दुःखाभिनयमात्रमेयुळ्ळदु, अदुदाऩुम् कृपामूलम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+निगमिक्किऱार् आगैयालिति । दुर्बलव्यापारङ्गळै अभिनयमात्रङ्गळाग महर्षिकळ् सॊल्लियिरुक्किऱबडियालॆऩ्ऱबडि।  
+व्यसनेष्वित्यादिगळिल् सॊऩ्ऩदु दुःखाभिनयमेयॊऴिय वस्तुतः दुःखमऩ्ऱॆऩ्ऱु करुत्तु।  
+इप्पडि आश्रितरञ्जनार्थम् दुःखाभिनयमुम् कारुण्यकार्यमॆऩ्गिऱार् अदु ताऩुम् कृपामूलमिति । 
+
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Therefore in the stories of the avatārs or incarnations, the distress is only of the nature of play-acting and that, too, has compassion as its cause. It is of the nature of lilā or sport to the Omnipotent. Have we not seen hunchbacks and dwarfs often taken into protection by kings who do not expect any return from them? It is a matter of līlā or play to them and, at the same time, the consequence of compassion. That is why it is said, "The Upaniṣads  state that the Lord of Śrī creates, maintains, controls and does such other things in regard to sentient and non-sentient things, only for His own sake. It is therefore, O, Lord of Śrīraṅga, Thy nature to be the means of salvation (upāya ) for the jīva and also the object of attainment. Therefore I seek Thee as my upāya without any thought of my own interests."
+इदु स्वतन्त्रऩ् आऩ तऩक्कु लीलैयुम् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं स्वतन्त्रस्य स्वस्य लीलापि भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+It is of the nature of lilā or sport to the Omnipotent. 
+</details>
+
+<details><summary>Español</summary>
+
+**Es** de la naturaleza de lilā o **deporte** a los omnipotentes.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु स्वतन्त्रऩाऩ तऩक्कु लीलैयुमायिरुक्कुम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडियागिल् ‘‘लीला जगत्-पतेस् तस्य’’ ऎऩ्ऱु अदै लीलैयागच् चॊल्ललामोव् ऎऩ्ऩव् अरुळिच्चॆय्गिऱार् इदु स्वतन्त्रऩाऩ तऩक्कु लीलैयुमायिरुक्कुमिति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कूऩर् कुऱळरैक् कॊण्ड् आडि रक्षिक्कै  
+निरपेक्षर् आऩ राजाक्कळुक्कु लीलैयुम् आय्  
+कृपा-कार्यमुम् आय्क् काणा निऩ्ऱोम् इऱे। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कुब्ज-वामनादीनां साभिनन्दनं रक्षणं  
+निरपेक्षाणां राज्ञां लीला-रूपं कृपा-कार्यं च पश्यामः किल । 
+</details>
+
+
+<details><summary>English</summary>
+
+Have we not seen hunchbacks and dwarfs often taken into protection by kings  
+who do not expect any return from them?  
+It is a matter of līlā or play to them  
+and, at the same time, the consequence of compassion. 
+</details>
+
+<details><summary>Español</summary>
+
+**¿No hemos visto** jorobos y enanos a menudo **tomados** con **protección** por los reyes  
+Quién **no espera** ningún retorno de ellos?  
+**Es** una cuestión de līlā o juega para ellos  
+y, al mismo tiempo, la consecuencia de la compasión.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कूऩर्गुऱळरैक् कॊण्डाडिरक्षिक्कै निरपेक्षराऩ राजाक्कळुक्कु लीलैयुमाय् कृपाकार्यमुमाय्क् काणा निऩ्ऱोमिऱे। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+कृपाकार्यमाय् लीलैयुमायिरुक्कुमॆऩ्बदै दृष्टान्तत्ताले काट्टुगिऱार् कूऩरित्यादि । इतरर्गळैक्कॊण्डाडि रक्षिप्पदु अवर्गळुक्कु सन्तोषकरमायुम् इवऩुक्कु कृपाकार्यमुमाय् आऩालुम् कूऩर् कुऱळरैक् कॊण्डाडि रक्षिप्पदै निरपेक्षराजाक्कळिऩ् लीलार्थमागवुम् काण्गिऱोमॆऩ्ऱु करुत्तु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् आगैयाल् इऱे 
+
+> २७‘‘**उपादत्ते** सत्ता-स्थिति-नियमनाद्यैश् चिद्--अ-चितौ  
+> स्वम् उद्दिश्य श्रीमान्’’  
+> (श्रीरङ्गराजस्तवम् उत्तरशदगम् ८७) 
+
+ऎऩ्ऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवम्-भावाद् एव हि, 
+
+> २७‘‘**उपादत्ते** सत्ता-स्थिति-नियमनाद्यैश् चिद्--अ-चितौ  
+> स्वम् **उद्दिश्य** श्रीमान्’’  
+> (श्रीरङ्गराजस्तवम् उत्तरशदगम् ८७) 
+
+इत्य्-उक्तम् ।
+</details>
+
+
+<details><summary>English</summary>
+
+That is why it is said,  
+
+> "The Upaniṣads state that  
+> the Lord of Śrī creates, maintains, controls and does such other things  
+> in regard to sentient and non-sentient things,  
+> only for His own sake.  
+> It is therefore, O, Lord of Śrīraṅga,  
+> Thy nature to be the means of salvation (upāya ) for the jīva  
+> and also the object of attainment.  
+> Therefore I seek Thee as my upāya without any thought of my own interests."
+</details>
+
+<details><summary>Español</summary>
+
+Por eso **se dice**
+
+> "Los Upaniṣads **indican** que  
+> El Señor de Śrī **crea, mantiene, controla** y **hace** otras cosas  
+> con respecto a las cosas sensibles y no sensibles,  
+> Solo por su propio bien.  
+> Por lo tanto, O, Señor de śrīraṅga,  
+> Tu naturaleza **es** el medio de **salvación** (upāya) para el jīva  
+> y también el objeto de **logro**.  
+> Por lo tanto, te **busco** como mi upāya  
+> sin **pensar** en mis propios intereses ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियागैयालिऱे २७‘‘उपादत्ते सत्तास्थितिनियमनाद्यैश्चि-दचितौ स्वमुद्दिश्य श्रीमान्’’(श्रीरङ्गराजस्तवम् उत्तरशदगम् ८७) ऎऩ्ऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि पर-हित-व्यापाराश्रयम् आगैयाले  
+आश्रितर्क्कु रक्षकऩुम् आय्  
+उपायान्तर-स्थान-निवेशत्ताले उपायमुम् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि परहितव्यापाराश्रयमागैयाले आश्रितर्क्कु रक्षकऩुमाय् उपायान्तरस्थाननिवेशत्ताले उपायमुमायिरुक्कुम्। 
+</details>
+
+
 
 Since Bhagavān is the seat of the activity for the good of others, He is the Saviour of those who seek refuge under Him and since He places Himself in the place of other upāyas (like parābhakti) (in order to protect them), He is also the upāya. Since He is the seat of the fruit of the activity of protecting (namely, His delight), He is the śeṣī  and consequently the object of attainment. That His being all this is due to His essential nature (svarūpa) is understood from the pramāṇas or authorities which help us to know Him, Of the principal qualities of Iśvara, such as jñāna (knowledge) śakti or power and compassion, knowledge and power are qualities which come into play for both punishment and favour, whereas compassion comes into play (only) in conferring favours. Compassion, here, means, the inclination to do good to others. Bhagavān's compassion comes into play in all the following in the creation and sustenance of the three kinds of sentient beings (baddha, mukta and nitya), in keeping them in activities pleasing to the Lord, in the eternal enjoyment of the eternal sūris, in seeing that those who have obtained release from bondage do not return to saṁsāra, in the creation of all things (like mahat, ahankāra, tanmātras, etc) in lilā vibhūti (i.e.) in this world, in the pure creation called His avatār untainted with matter, in propagating a knowledge of the śāstras and in causing through them a knowledge of the tattvas and of the means of attaining mukti, in creating an eagerness for mokṣa , in enabling a person to do meritorious actions which would become the vyāja or upāya for causing the eagerness for mokṣa , in prescribing upāyas suited to the nature of each individual for wiping out the punishment for violation of His commands, in being accessory to the mind being prompted to adopt the upāya, in removing any obstacles that might stand in the way of the man who has adopted bhakti as the upāya (upāsaka) in standing, in the case of those who are destitute of other upāyas (1.6.) prapannas, in the place of these upāyas and protecting them from all danger, in ignoring countless offences of a serious nature committed by the jīva from beginningless time, by being gracious to him on account of the vyāja or upāya performed by him and releasing him from saṁsāra so that he may enjoy endless bliss, in bestowing mokṣa
 
