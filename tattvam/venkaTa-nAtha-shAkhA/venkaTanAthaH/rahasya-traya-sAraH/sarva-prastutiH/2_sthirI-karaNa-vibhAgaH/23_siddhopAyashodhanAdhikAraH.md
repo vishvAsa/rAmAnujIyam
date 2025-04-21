@@ -3408,6 +3408,13 @@ La omnipotencia de alguien que **no tiene** compasión **es peligrosa** para los
 तऩक्कुम् क्लेशावहम् आय् इरुक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्वतन्त्रस्य कारुण्यं परेषाम् अनुपकारकं  
+स्वस्यापि क्लेशावहं भवति । 
+</details>
+
+
 <details><summary>English</summary>
 
 the compassion of one who is not omnipotent  
@@ -3443,6 +3450,16 @@ and may also cause pain to the one who feels compassion.
 इष्ट-प्राप्तिक्कुमुडल् आय् इरुक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वतन्त्रस्य कारुण्यं  
+संकल्पितस्य निर्वहणात्  
+स्वस्याप्य् अतिरसावहम्  
+आश्रितानां सर्वेषां  
+सदैवानिष्ट-निवृत्तेर् इष्टप्राप्तेश् च हेतुर् भवति । 
+</details>
+
+
 <details><summary>English</summary>
 
 But the compassion of a person  
@@ -3474,7 +3491,7 @@ y de **darles** lo que **anhelan**.
 इप्पडि प्रत्येकत्तिल् बाधकम् सॊल्लि उभयत्तिऩ् एऱ्ऱत्तैक् काट्टुगिऱार् स्वतन्त्रऩुडैय कारुण्यमित्यादिना । 
 </details>
 
-
+#### वस्तुतो दुःखित्वाभावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिय् आगैयाले  
