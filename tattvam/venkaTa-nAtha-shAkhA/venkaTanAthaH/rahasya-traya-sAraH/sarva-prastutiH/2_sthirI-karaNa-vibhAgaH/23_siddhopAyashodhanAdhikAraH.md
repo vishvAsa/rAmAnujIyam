@@ -4281,6 +4281,13 @@ Compasión, aquí, **significa**, la inclinación a **hacer** el bien a los dem�
 इदु त्रिविध-चेतनर्गळ्-उडैय सत्ता-स्थितिगळुक्कुम्, अनुकूल-वृत्तिगळुक्कुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं त्रिविध-चेतनानां सत्ता-स्थित्योः,  
+अनुकूल-वृत्तीनाम्, 
+</details>
+
+
 <details><summary>English</summary>
 
 Bhagavān's compassion comes into play in all the following -  
@@ -4309,6 +4316,12 @@ en todo lo siguiente -
 मुक्तरुडैय अनावृत्तिक्कुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+नित्यानां नित्यानुभवस्य, मुक्तानाम् अनावृत्तेः, 
+</details>
+
+
 <details><summary>English</summary>
 
 - in the eternal enjoyment of the eternal sūris,  
@@ -4331,6 +4344,12 @@ en todo lo siguiente -
 लीलाविभूतियिल् सामान्य-सृष्ट्य्-आदिगळुक्कुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+लीला-विभृतौ सामान्य-सृष्ट्य्-आदीनाम्,  
+</details>
+
+
 <details><summary>English</summary>
 
 - in the creation of all things (like mahat, ahankāra, tanmātras, etc) in lilā vibhūti (i.e.) in this world, 
@@ -4351,6 +4370,13 @@ en todo lo siguiente -
 
 स्वावतार-रूपैय् आऩ शुद्ध-सृष्टिक्कुम्,  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वावतार-रूपायाः शुद्ध-सृष्टेः,  
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -4373,6 +4399,13 @@ en todo lo siguiente -
 शास्त्र-प्रवर्तनत्तुक्कुम्,  
 अद्-अडियाग तत्त्व-हित-विषयम् आऩ ज्ञानत्तैप् पिऱप्पिक्कैक्कुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शास्त्र-प्रवर्तनस्य  
+तन्-मूलक-तत्त्व-हित-विषयक-ज्ञानोत्पादनस्य, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4400,6 +4433,13 @@ en todo lo siguiente -
 इदु कॊडुक्कैक्कु व्याजम् आऩ सुकृत-विशेषत्तुक्कुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+मोक्ष-श्रद्धा-संपादनस्य  
+एतत्-प्रदानार्थं व्याज-भूतस्य सु-कृत-विशेषस्य, 
+</details>
+
+
 <details><summary>English</summary>
 
 in creating an eagerness for mokṣa ,  
@@ -4426,6 +4466,12 @@ which would become the vyāja or upāya for causing the eagerness for mokṣa ,
 अधिकारानुरूपङ्गळ् आऩ निग्रह-शमनोपायङ्गळैक् कॊडुक्कैक्कुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अधिकारानुरूप-निग्रह-शमनोपाय-प्रदानस्य, 
+</details>
+
+
 <details><summary>English</summary>
 
 - in prescribing upāyas suited to the nature of each individual  
@@ -4448,6 +4494,12 @@ which would become the vyāja or upāya for causing the eagerness for mokṣa ,
 
 इवऱ्ऱिल् +++(उपाय-ग्रहणे)+++ करण-प्रेरण-दशैयिल् सहकारिय् आय् निऱ्कैक्कुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र करण-प्रेरणादि-दशायां सहकारित्वेनावस्थानत्य 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4472,6 +4524,13 @@ which would become the vyāja or upāya for causing the eagerness for mokṣa ,
 उपासकऩुक्क् अन्तरायं वन्दाल्  
 प्रतिसमाधानम् पण्णुविक्कैक्कुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उपासकस्यान्तराये प्राप्ते  
+प्रतिसमाधान-करणस्य 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4498,6 +4557,12 @@ quien **ha adoptado** a Bhakti como el upāya (upāsaka) en pie,
 अकिञ्चनर्क्कु उपाय-स्थानत्तिले निऩ्ऱु निर्-अपायम् आग रक्षिक्कैक्कुम्,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अकिञ्चनानाम् उपायान्तर-स्थाने ऽवस्थिति-पूर्वं निरपाय-रक्षणस्य, 
+</details>
+
+
 <details><summary>English</summary>
 
 - in the case of those who are destitute of other upāyas (i.e.) prapannas, (standing) in the place of these upāyas  
@@ -4518,12 +4583,22 @@ quien **ha adoptado** a Bhakti como el upāya (upāsaka) en pie,
 अकिञ्चनर्क्कु उपायस्थानत्तिले निऩ्ऱु निरपायमाग रक्षिक्कैक्कुम्,
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव् व्याजङ्गळैक् कॊण्डु  
 प्रसन्नऩ् आय् अन्-आदि-कालम् पण्णिऩ अनन्त-महापराधङ्गळै अनादरित्तु  
 अन्-अन्त-सुखत्तिले विश्रमिक्कुम् बडि संसार-निवर्तकऩ् आगैक्कुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद्-व्याजावलम्बनेन  
+प्रसन्नस्यानादिकाल-कृतानन्तापराधानादरण-पूर्वकम्  
+अनन्त-सुखे विश्रमणं यथा स्यात्  
+तथा संसार-निवर्तकत्वस्य, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4552,6 +4627,12 @@ quien **ha adoptado** a Bhakti como el upāya (upāsaka) en pie,
 आर्त-प्रपन्नर्क्क् अप्-पोदे मोक्षङ् गॊडुक्कैक्कुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+आर्त-प्रपन्नेभ्यस् तदैव मोक्ष-प्रदानस्य, 
+</details>
+
+
 <details><summary>English</summary>
 
 - in bestowing mokṣa immediately on those prapannas who are impatient of delay, 
@@ -4578,6 +4659,17 @@ quien **ha adoptado** a Bhakti como el upāya (upāsaka) en pie,
 अनुतापत्तै **विळैप्पित्तु**,  
 अधिकारानुरूपम् आऩ प्रायश्चित्त-विशेषत्तिले **मूट्टुगैक्कुम्**+++(=प्रचोदने)+++, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> जीवन-काले निरपराधेन वर्तितव्यम् 
+
+इति फल-प्रार्थनं विस्मृतवतां दृप्त-प्रपन्नानां  
+प्रारब्ध-कर्म-वशाद्-उपनतस्यापराधस्य कृते 
+ऽनुतापं जनय्याधिकारानुरूपे प्रायश्चित्त-विशेषे प्रवर्तनस्य
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -4613,6 +4705,14 @@ quien **ha adoptado** a Bhakti como el upāya (upāsaka) en pie,
 उपक्लेशङ्गळाले शिक्षिक्कैक्कुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तथा-भूत-मृदु-प्रकृतिक-भिन्नानां  
+यम-विषय-गमनम् अभिमत-फल-प्रतिबन्धं च निरुध्योपक्लेशैः शिक्षणस्य च 
+</details>
+
+
+
 <details><summary>English</summary>
 
 in the case of those who are too hard-hearted to perform prāyaścitta,  
@@ -4641,6 +4741,11 @@ by seeing that they are punished for these offences (committed after prapatti) i
 प्रधानम् आऩ सामान्य-निदानम् आय् इरुक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रधानं सामान्य-निदानं भवति । 
+</details>
+
 <details><summary>English</summary>
 
 (in all these) the Lord's compassion is the principal and common cause.
@@ -4656,8 +4761,49 @@ by seeing that they are punished for these offences (committed after prapatti) i
 प्रधानमाऩ सामान्यनिदानमायिरुक्कुम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Iśvara, who is endowed with compassion as described above, is called Siddhopāya or the upāya that is already existent; thus it is said:- “Those Brahmins who know the first part of the Veda and those who know the latter part of it, which treats of the Supreme Being - they state that Śrī Kṛṣṇa is the eternal dharma (i.e.) the upāya that always exists. Bhakti and prapatti, which are adopted as the means for making Him gracious are called Sādhyopāyas (i.e.) upāyas to be adopted for securing His grace.
+इप्-पडिप् पट्ट कृपा-विशिष्टऩ् आऩ ईश्वरऩ्  
+
+> ‘‘कृष्णं धर्मं सनातनं’’(भारतम् आरण्य-पर्व ७१-१२३) 
+
+ऎऩ्गिऱ बडिये सिद्धोपायम्। 
+</details>
+
+<details><summary>English</summary>
+
+Iśvara, who is endowed with compassion as described above,  
+is called Siddhopāya or the upāya that is already existent;  thus it is said:-
+
+
+> Those Brahmins who know the first part of the Veda  
+> and those who know the latter part of it,  
+> which treats of the Supreme Being -  
+> they state that Śrī Kṛṣṇa is the eternal dharma (i.e.) the upāya that always exists.  
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara, who is endowed with compassion as described above,  
+is called Siddhopāya or the upāya that is already existent;  thus it is said:-
+
+
+> Those Brahmins who know the first part of the Veda  
+> and those who know the latter part of it,  
+> which treats of the Supreme Being -  
+> they state that Śrī Kṛṣṇa is the eternal dharma (i.e.) the upāya that always exists.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिप्पट्टकृपाविशिष्टऩाऩ ईश्वरऩ् ‘‘कृष्णं धर्मं सनातनं’’(भारतम् आरण्य-पर्व ७१-१२३) ऎऩ्गिऱबडिये सिद्धोपायम्। 
+</details>
+
+
+
+
+Bhakti and prapatti, which are adopted as the means for making Him gracious are called Sādhyopāyas (i.e.) upāyas to be adopted for securing His grace.
 
 THE CONTENTION THAT THERE IS NO INJUNCTION TO PERFORM PRAPATTI AS AN UPĀYA:
 
