@@ -27,6 +27,12 @@ title = "०५ निष्ठा-प्रयोजनम्"
 इत्य् उक्त-रीत्या
 </details>
 
+<details><summary>विषयः</summary>
+
+शेषत्वम्
+</details>
+
+
 <details><summary>English</summary>
 
 Thus by observing these signs in himself, 
@@ -41,13 +47,13 @@ as stated in the śloka
 
 <details><summary>Español</summary>
 
-Así observando estos signos en sí mismo,  
-Como se indica en el Śloka
+Así **observando** estos signos en sí mismo,  
+Como **se indica** en el Śloka
 
-> Soy un yo, no un cuerpo;  
-> Soy el Śeṣa que existe solo para el Señor;  
-> No tengo posesiones propias;  
-> He buscado su protección con el deseo de prestarle servicio a él "  
+> **Soy** un yo, **no** un cuerpo;  
+> **Soy** el Śeṣa que existe solo para el Señor;  
+> **No tengo** posesiones propias;  
+> **He buscado** su **protección** con el deseo de prestarle servicio a él "  
 </details>
 
 
@@ -93,9 +99,9 @@ in regard to his essential Nature (svarūpa), his upāya and his supreme aim (pu
 
 <details><summary>Español</summary>
 
-y como se entiende también de Tirumantra y similares,  
-El hombre puede darse cuenta de que  
-Está bien establecido en el estado de una verdadera Papanna
+y como **se entiende** también de Tirumantra y similares,  
+El hombre **puede darse cuenta** de que  
+Está bien **establecido** en el estado de una verdadera Papanna
 Con respecto a su naturaleza esencial (svarūpa), su upāya y su objetivo supremo (puruṣārtha).
 </details>
 
@@ -105,6 +111,8 @@ Con respecto a su naturaleza esencial (svarūpa), su upāya y su objetivo suprem
 स्व-रूपोपाय-पुरुषार्थङ्गळिल् तऩ्ऩ्-उडैय निष्ठैयैय् उणर्न्दु पोरुम् इव्व् अधिकारिक्कु  
 </details>
 
+
+## सीता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘**नैषा पश्यति** राक्षस्यो  
@@ -139,12 +147,12 @@ This may be seen in the case of Sītā devi of whom it is said,
 
 <details><summary>Español</summary>
 
-Esto se puede ver en el caso de Sītā Devi de quien se dice,
+Esto **se puede ver** en el caso de Sītā Devi de quien **se dice**,
 
-> "Sītā no mira estos rākṣasis;  
-> Ella no mira estos árboles llenos de flores y frutas.  
-> Su corazón está fijo en uno solo  
-> Y ella solo ve Śrī Rāma ".
+> "Sītā **no mira** estos rākṣasis;  
+> Ella **no mira** estos árboles llenos de flores y frutas.  
+> Su corazón **está fijo** en uno solo  
+> Y ella solo **ve** Śrī Rāma ".
 </details>
 
 
@@ -162,6 +170,7 @@ Esto se puede ver en el caso de Sītā Devi de quien se dice,
 कैङ्कर्यचिकीर्षया ऎऩ्गिऱबडिये मूलमन्त्रादिगळैक् कॊण्डु ताऩ् तॆळिन्द स्वरूपोपायपुरुषार्थङ्गळिल् तऩ्ऩुडैय निष्ठैयै यव्वो वडैयाळङ्गळाले उणर्न्दुबोरुमॆऩ्ऱन्वयम्। नैषेति । एषा – अशोकवनिकैयिल् इरुन्द पिराट्टि, राक्षस्यः – राक्षसीरित्यर्थः । वचनव्यत्यय आर्षः । भीतिहेतुक्कळाऩ राक्षसिकळै यॆऩ्ऱबडि। न पश्यति - पार्क्किऱाळिल्लै, इमान् – प्रीतिहेतुक्कळाऩ, पुष्पफलद्रुमान् – पुष्पाणि फलानि द्रुमांश्च, पुष्पफलयुक्तद्रुमानिति वा न पश्यति । किन्तु एकस्थहृदया – रामऩॊरुवऩिडत् तिलेये स्थितमाऩ हृदयमुडैयवळाय्क्कॊण्डु, नूनं – निश्चयमाग, मनसेति शेषः । राममेवानुपश्यति – दृढतरभावानाप्रकर्षत्ताले रामऩैये सर्वदा पार्क्किऱाळॆऩ्ऱु इदिऩर्थम्। ऎऩ्गिऱबडिये - इन्द श्लोकत्तिऱ्सॊऩ्ऩबडिये। 
 </details>
 
+## लाभ-नष्टयोर् अपवादौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(इन्द्रियादि-सहित-)+++विरोधियोडे कूडिय् इरुक्किऱ तऩक्कु  
@@ -172,7 +181,8 @@ Esto se puede ver en el caso de Sītā Devi de quien se dice,
 <details><summary>नीलमेघः (सं)</summary>
 
 विरोधिभिः सह वर्तमानस्य अस्य  
-पाक्षिकतया संभावितेषु ब्रह्म-विद्-अपचार-व्यतिरिक्तेषु येषु केषुचिद् भीतिहेतुषु,  
+पाक्षिकतया संभावितेषु ब्रह्म-विद्-अपचार-व्यतिरिक्तेषु  
+येषु केषुचिद् भीति-हेतुषु, +++(5)+++  
 </details>
 
 
@@ -188,10 +198,10 @@ which might occur (as a possibility) on account of his living in the midst of en
 
 <details><summary>Español</summary>
 
-(A la Prapanna que ha visto en sí mismo estos signos,   
-no habrá) causas de miedo confrontarlo  
-Aparte de la ofensiva para aquellos que conocen a Brahman,  
-que podría ocurrir (como una posibilidad) debido a su vida en medio de enemigos (el cuerpo y los sentidos),
+(A la Prapanna que **ha visto** en sí mismo estos signos,   
+**no habrá**) causas de miedo **confrontarlo**  
+Aparte de la **ofensiva** para aquellos que **conocen** a Brahman,  
+que **podría ocurrir** (como una posibilidad) debido a su vida en medio de enemigos (el cuerpo y los sentidos),
 </details>
 
 
@@ -213,7 +223,7 @@ que podría ocurrir (como una posibilidad) debido a su vida en medio de enemigos
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व-रूप--प्राप्त-कैङ्कर्य-व्यतिरिक्तङ्गळ् आऩ एद् एऩुम् ऒरु प्रीति-हेतुक्कळिलुम् कण्ण्-ओट्टम् उण्ड् आगादु
+स्व-रूप--प्राप्त-कैङ्कर्य-व्यतिरिक्तङ्गळ् आऩ एद् एऩुम् ऒरु प्रीति-हेतुक्कळिलुम् कण्ण्-ओट्टम् उण्ड् आगादु.
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -226,13 +236,17 @@ que podría ocurrir (como una posibilidad) debido a su vida en medio de enemigos
 <details><summary>English</summary>
 
 nor sources of delight  
-other than the service which suits his essential nature.  
+other than the service which suits his essential nature  
+
+(to be seen.)
 </details>
 
 <details><summary>Español</summary>
 
 ni fuentes de deleite  
-aparte del servicio que se adapta a su naturaleza esencial.
+aparte del servicio que **se adapta** a su naturaleza esencial
+
+(**ser visto**.)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -267,8 +281,8 @@ he will have neither fear nor delight.
 
 <details><summary>Español</summary>
 
-Si por casualidad, estas (otras causas de miedo y fuentes de deleite) vienen antes que él,  
-No tendrá miedo ni deleite.
+Si por casualidad, estas (otras causas de miedo y fuentes de deleite) **vienen** antes que él,  
+**No tendrá** miedo ni deleite.
 </details>
 
 

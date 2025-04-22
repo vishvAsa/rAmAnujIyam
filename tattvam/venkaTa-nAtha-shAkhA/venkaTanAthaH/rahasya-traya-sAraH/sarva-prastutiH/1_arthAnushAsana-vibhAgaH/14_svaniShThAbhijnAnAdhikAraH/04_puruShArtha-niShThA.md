@@ -15,7 +15,7 @@ III LA NISHTĀ RELATIVA A PURUSHĀRTHA:
 <details><summary>सार-बोधिनी</summary>
 
 - देहयात्रादिगळिल् करैदल् अऱ्ऱिक्क् उगैयुम्,  
-- नाम् ऎव्व्-अळवु प्रयासप् पट्टालुम् ईश्वर-सङ्कल्पम् अऩ्ऱियुम्, नाम् कॊडुत्तु वैक्काददुम्, किडैक्काद् ऎऩ्गिऱ नम्बिक्कैयुम्,  
+- नाम् ऎव्व्-अळवु प्रयासप् पट्टालुम् ईश्वर-सङ्कल्पम् अऩ्ऱियुम्, नाम् कॊडुत्तु वैक्काद् अदुम्, किडैक्काद् ऎऩ्गिऱ नम्बिक्कैयुम्,  
 - शास्त्राविरुद्धम् आय् नम् प्रयत्नम् अऩ्ऱिक्के वरुम् विषयङ्गळै विलक्कादे अनुभविक्कैयुम्, 
 - ऐहिक-पुरुषार्थत्तिऩ् वृद्धि-ह्रासङ्गळिल् हर्ष-शोकम् अऱ्ऱ् इरुक्कैयुम्, 
 - प्राप्य-रुचियुम् 
@@ -25,6 +25,7 @@ III LA NISHTĀ RELATIVA A PURUSHĀRTHA:
 </details>
 
 ## लिङ्गानि
+### देहयात्रायां कर्म-पुरस्-कृत्या निश्चिन्ता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘उत्पत्ति-स्थिति-नाशानां +++(मध्ये)+++  
@@ -55,10 +56,10 @@ It has been said:--
 
 Se ha dicho:-
 
-> "De los tres, tu nacimiento, continuación y perecida,  
-> ¿Por qué deberías estar ansioso solo por tu continuación?  
-> De la misma manera que el nacimiento y la muerte vienen de sí mismos (sin que se le quede la opción),  
-> Tu continuación en la vida tampoco dependerá de nada hecho por ti "
+> "De los tres, tu **nacimiento, continuación y perecida**,  
+> ¿Por qué **deberías estar** ansioso solo por tu **continuación**?  
+> De la misma manera que el **nacimiento** y la **muerte vienen** de sí mismos (sin que **se le quede** la opción),  
+> Tu **continuación** en la vida tampoco **dependerá** de nada **hecho** por ti "
 </details>
 
 
@@ -75,7 +76,7 @@ Se ha dicho:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘**अचेष्टमानम्** आसीनं  
+> ‘‘**अ-चेष्टमानम्** आसीनं  
 > श्रीः कञ्चिद् **उपतिष्ठति** ।  
 > **कर्मी** कर्मानुसृत्यान्यो  
 > **न** प्राश्यम् **अधिगच्छति** ॥’’  
@@ -107,12 +108,12 @@ and again:
 
 Y de nuevo:
 
-> "La diosa de Lakṣmī viene, por su propia cuenta,  
-> A alguien que no se esfuerza de ninguna manera.  
+> "La diosa de Lakṣmī **viene**, por su propia cuenta,  
+> A alguien que **no se esfuerza** de ninguna manera.  
 > 
-> Otro hombre que hace esfuerzos  
-> No obtiene ni siquiera la comida (él quiere).  
-> Esto está de acuerdo con el karma pasado ".
+> Otro hombre que **hace esfuerzos**  
+> **No obtiene** ni siquiera la comida (él quiere).  
+> Esto **está** de acuerdo con el karma pasado ".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -128,7 +129,7 @@ Y de nuevo:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎऩ्गिऱ पडिये प्रारब्ध-कर्म-विशेषाधीनम् आग  
-ईश्वरऩ् सॆय्युम् देह-यात्रादिगळिल् करैदल्+++(=चिन्तां)+++ अऱ्ऱु
+ईश्वरऩ् सॆय्युम् देह-यात्रादिगळिल् करैदल्+++(=संक्षयं)+++ अऱ्ऱु
 </details>
 
 <details><summary>सार-बोधिनी</summary>
@@ -148,10 +149,10 @@ that have begun to operate in this life.
 
 <details><summary>Español</summary>
 
-La Prapanna cuya comprensión se fija firmemente en el Purushūrtha  
-no se sentiría ansioso en relación con cosas como el mantenimiento del cuerpo  
-que están dirigidos por Iśvara de acuerdo con actos particulares de karma pasado  
-que han comenzado a operar en esta vida.
+La Prapanna cuya **comprensión se fija** firmemente en el Purushūrtha  
+**no se sentiría ansioso** en relación con cosas como el **mantenimiento** del cuerpo  
+que **están dirigidos** por Iśvara de acuerdo con actos particulares de karma pasado  
+que **han comenzado** a operar en esta vida.
 </details>
 
 
@@ -165,7 +166,7 @@ que han comenzado a operar en esta vida.
 ऎऩ्गिऱबडिये - उत्पत्त्यादिलोकत्तिलुपदेशित्त प्रकारमुम्, ‘‘अचेष्टमानं’’ ऎऩ्गिऱ श्लोकत्तिल् देहयात्रादिगळ् प्राचीनकर्माधीनङ्गळ् ऎऩ्ऱऱिवित्त प्रकारमुम्। इदऱ्कु करैदलऱ्ऱु ऎऩ्बदोडन्वयम्। 
 </details>
 
-
+### साफल्ये प्रयास-गौणता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताऩ् करैन्दालुम्  
@@ -199,14 +200,14 @@ He would reflect that, even if he grieved or felt anxious about these things,
 
 <details><summary>Español</summary>
 
-Reflejaría que, incluso si se llenara o se sintiera ansioso por estas cosas,  
+**Reflejaría** que, incluso si **se llenara** o **se sintiera** ansioso por estas cosas,  
 
 
-> "Aunque vuela en el aire,  
-> o ingresa al mundo inferior, llamado Rasatala,  
-> o deambula por toda la tierra,  
-> Un hombre no obtendrá  
-> lo que no está ordenado para él "
+> "Aunque **vuela** en el aire,  
+> o **ingresa** al mundo inferior, **llamado** Rasatala,  
+> o **deambula** por toda la tierra,  
+> Un hombre **no obtendrá**  
+> lo que **no está ordenado** para él "
 </details>
 
 
@@ -247,10 +248,10 @@ and again,
 
 Y de nuevo,
 
-> “Cualquier trabajo que se haga en el mundo  
-> es el trabajo realizado por mí.  
-> Entonces otros proponen  
-> Pero me pongo ".
+> “Cualquier **trabajo** que **se haga** en el mundo  
+> **es** el trabajo **realizado** por mí.  
+> Entonces otros **proponen**  
+> Pero **me pongo**".
 </details>
 
 
@@ -291,7 +292,7 @@ nothing would happen except according to the will of God,
 <details><summary>Español</summary>
 
 Como se indica en lo anterior ~~ siguiente ~~ pasajes  
-No pasaría nada excepto según la voluntad de Dios,
+**No pasaría** nada excepto según la voluntad de Dios,
 </details>
 
 
@@ -300,6 +301,7 @@ No pasaría nada excepto según la voluntad de Dios,
 ऎऩ्गिऱबडिये ईश्वरऩ् निऩैविऩ्बडियल्लदॊऩ्ऱुम् नडवादॆऩ्ऱु प्रतिसन्धानम् पण्णि  
 </details>
 
+### अप्रयत्नागत-शास्त्राविरुद्धानां भोगः
 <details><summary>English</summary>
 
 The prapanna who has attained niṣṭhā in puruṣārtha has neither pleasure nor pain,  :-
@@ -329,6 +331,12 @@ La prapanna que ha alcanzado niṣṭhā en puruṣārtha no tiene placer ni dol
 > (भारतम् शान्ति-पर्व ३०१-३६।) 
 </details>
 
+<details><summary>विषयः</summary>
+
+धर्मः, भोगः
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -340,10 +348,10 @@ La prapanna que ha alcanzado niṣṭhā en puruṣārtha no tiene placer ni dol
 
 <details><summary>Español</summary>
 
-> "Los titulares de casas deberían recibir lo que les llegue a  
-> sin ningún esfuerzo de su parte.  
+> "Los titulares de casas **deberían recibir** lo que **les llegue** a  
+> **sin ningún esfuerzo** de su parte.  
 > En cuanto a sus dharmas, por otro lado,  
-> Es mi opinión que, de todas las formas posibles, deberían ejercerse y cumplirlos ”,
+> **Es** mi opinión que, de todas las formas posibles, **deberían ejercerse y cumplirlos** ”,
 </details>
 
 
@@ -373,9 +381,14 @@ La prapanna que ha alcanzado niṣṭhā en puruṣārtha no tiene placer ni dol
 धर्मम् **एवानुचिन्तयेत्** ।  
 आहारो हि मनुष्याणां  
 जन्मना सह जायते ॥’’ +++(4)+++
-
 </details>
  
+<details><summary>विषयः</summary>
+
+धर्मः, आहारः
+</details>
+
+
 <details><summary>English</summary>
 
 and so also, 
@@ -389,8 +402,8 @@ and so also,
 
 Y así también,
 
-> “El hombre sabio no debería estar ansioso por su comida.  
-> Debería pensar solo en su dharma.  
+> “El hombre sabio **no debería estar ansioso** por su comida.  
+> **Debería pensar** solo en su dharma.  
 > La comida del hombre llega a él junto con su nacimiento ".
 </details>
 
@@ -409,7 +422,7 @@ Y así también,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎऩ्ऱु पराशरगीतादिगळिलुम्,  
+ऎऩ्ऱु पराशर-गीतादिगळिलुम्,  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -456,6 +469,12 @@ Porque se ha dicho (así) en Parāsaragita y en otros lugares;
 इत्य् अजगरोपाख्याने चोक्तरीत्या 
 </details>
 
+<details><summary>विषयः</summary>
+
+धर्मः, आहारः, भोगः
+</details>
+
+
 <details><summary>English</summary>
 
 Like-wise it has been stated in Ajagaropakhyāna :-
@@ -494,7 +513,8 @@ Me gusta en cuanto a Ajagaropakhyāna:-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शास्त्र-विरुद्धम् अल्लाद विषयङ्गळ्  
-ताऩ् ऒरु विरगु+++(=उपायम्)+++ सॆय्यादिरुक्क भगवत्-सङ्कल्पत्ताले ताऩे वरक् कण्डु  
+ताऩ् ऒरु विरगु+++(=उपायम्)+++ सॆय्याद् इरुक्क  
+भगवत्-सङ्कल्पत्ताले ताऩे वरक् कण्डु  
 प्रारब्ध-कर्म-फलम् आऩ तऩिसु+++(=ऋणं)+++ तीरुगिऱद् ऎऩ्ऱु  
 विलक्कादे अनुभविक्कैयुम्,
 </details>
@@ -520,11 +540,11 @@ Therefore he enjoys them without trying to avoid them.
 
 <details><summary>Español</summary>
 
-Cuando las cosas no están prohibidas en los Śāstras vienen a él  
-sin ninguna búsqueda de la suya y por la voluntad de Dios,  
-La Papanna se da cuenta de que la deuda que ha resultado del karma pasado  
-Eso ha comenzado a operar ahora está siendo descargado.  
-Por lo tanto, los disfruta sin tratar de evitarlos.
+Cuando las cosas **no están prohibidas** en los Śāstras **vienen** a él  
+sin ninguna **búsqueda** de la suya y por la **voluntad** de Dios,  
+La Papanna **se da cuenta** de que la deuda que ha **resultado** del karma **pasado**  
+Eso **ha comenzado a operar** ahora está siendo descargado.  
+Por lo tanto, los **disfruta** sin **tratar de evitarlos**.
 </details>
 
 
@@ -539,7 +559,7 @@ Por lo tanto, los disfruta sin tratar de evitarlos.
 ताऩॊरु विरगु सॆय्यादिरुक्क - वरुवदऱ्कु हेदुवै ताऩ् तेडादिरुक्क तऩिसु - कडऩ्। इदऩाल् विषयानुभवम् कर्मक्षयहेतुवागैयाले अदु पुरुषार्थनिष्ठाकार्यमॆऩ्ऱु सूचितमागिऱदु। ऐहिकवृद्धिह्रासङ्गळिल् हर्षशोकमऱ्ऱिरुक्कैयिल् प्रमाणङ्गाट्टुगिऱार् इप्पडि इत्यादिना । 
 </details>
 
-
+### ऐहिक-लाभ-नष्टेषु +उत्कट-हर्ष-शोकाभावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्पडि कर्म-विशेषाधीनम् आग वरुगिऱ प्राप्यान्तर-लाभालाभङ्गळिल्
@@ -558,8 +578,8 @@ as taught in the following ślokas
 
 <details><summary>Español</summary>
 
-Cuando se encuentra con o no obtiene objetos que generalmente se desean aparte de Mokṣa,
-como se enseña en el siguiente Ślokas
+Cuando **se encuentra** con o **no obtiene** objetos que generalmente **se desean** aparte de Mokṣa,  
+como **se enseña** en el siguiente Ślokas
 </details>
 
 
@@ -596,6 +616,12 @@ como se enseña en el siguiente Ślokas
 इति
 </details>
 
+<details><summary>विषयः</summary>
+
+समचित्तता
+</details>
+
+
 <details><summary>English</summary>
 
 > "When one of these two, pleasure and pain, arrives,  
@@ -628,7 +654,7 @@ como se enseña en el siguiente Ślokas
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-'उळद् ऎऩ्ऱ् इऱुमा+++(=दर्पम्)+++ ऽऽवार्' (इरण्डान्दिरुवन्दादि ४५) 
+> 'उळद् ऎऩ्ऱ् इऱुमा+++(=दर्पम्)+++ ऽऽवार्' (इरण्डान्दिरुवन्दादि ४५) 
 
 ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये  
 हर्ष--शकङ्गळ् अऱ्ऱु  
@@ -638,7 +664,9 @@ como se enseña en el siguiente Ślokas
 
 <details><summary>नीलमेघः (सं)</summary>
 
-"19 (धनं ) अस्तीति न दृप्यन्ति" इति चोक्तरीत्या 
+> "19 (धनं ) अस्तीति न दृप्यन्ति" 
+
+इति चोक्तरीत्या 
  हर्ष-शोक-त्यागेन सह  
  स्वरूपानुरूपे परम-प्राप्य-कैङ्कर्ये रुचिः, 
 </details>
@@ -659,13 +687,13 @@ and which is the supreme aim of his life.
 
 y
 
-> "El hombre que medita en los pies del Señor  
-no está eufórico en posesión de riqueza,  
-Tampoco se siente desanimado cuando lo que posee se pierde ".
+> "El hombre que **medita** en los pies del Señor  
+**no está eufórico** en **posesión** de riqueza,  
+Tampoco **se siente desanimado** cuando lo que **posee** se pierde ".
 
-Tiene, por otro lado, un gran anhelo de servicio al Señor  
-que se adapta a su naturaleza esencial.  
-y cuál es el objetivo supremo de su vida.
+**Tiene**, por otro lado, un gran **anhelo** de **servicio** al Señor  
+que **se adapta** a su naturaleza esencial.  
+y cuál **es** el objetivo supremo de su vida.
 </details>
 
 
@@ -679,11 +707,11 @@ y cuál es el objetivo supremo de su vida.
 उळदॆऩ्ऱिऱुमावारिति । 'उण्डिल्लै यॆऩ्ऱु तळर्दलदिऩ रुगुम् सारार्' ऎऩ्बदु इदऱ्कु मेल्बादम्। उळदॆऩ्ऱु - सम्बत्तु उण्डॆऩ्ऱु इऱुमावार् - गर्वियार्, उण्डिल्लै यॆऩ्ऱु - मुऩ्बु सम्बत्तु उण्डु इप्पॊऴुदु इल्लैयॆऩ्ऱु, तळर्दल् - अवसादम् - क्लेशमॆऩ्ऱबडि। अदिऩरुगुम् सारार् - अदिऩ् समीपत्तिलुम् पोगार्। अऱ्ऱु - इल्लामल्। परमप्राप्य-कैङ्कर्यत्तिले रुचियुमिति । ऒरुवऩ् प्रयोजनान्तरङ्गळिल् हर्षशोकमऩ्ऱिक्के सर्वदा मोक्षत्तिल् अभिरुचियुळ्ळवऩागिल् अवऩुक्कु परमपुरुषार्थत्तिल् निष्ठैयुण्डॆऩ्ऱु सुखमाग निश्चयिक्कलामिऱे। 
 </details>
 
-
+### प्राप्तौ त्वरा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्त्रोत्रत्तिलुम् श्री-वैकुण्ठ-गद्यादिगळिलुम्  
-"कदा? कदा?" ऎऩ्ऱु वाय्-पुलऱ्ऱप्+++(=विलापं??)+++ पण्णुगिऱ  
+"कदा? कदा?" ऎऩ्ऱु वाय्-पुल्+++(=पीडां)+++-अऱ्ऱप्+++(=शून्यं)+++ पण्णुगिऱ  
 प्राप्तियिल् त्वरैयुम् नडैय्-आड् इऱ्ऱागिल् 
 </details>
 
@@ -704,12 +732,11 @@ This urgent longing for the object to be gained will make him cry out as in Aḷ
 
 <details><summary>Español</summary>
 
-Este urgente anhelo de que se obtenga el objeto  
-lo hará llorar como en Stotram de Aḷavandār y en Gadya de Śrī Rāmānuja,
+Este urgente **anhelo** de que **se obtenga** el objeto  
+lo **hará llorar** como en Stotram de Aḷavandār y en Gadya de Śrī Rāmānuja,
 
-> "¿Cuándo, cuándo veré, cara a cara, bhagavān nārāyaṇa?  
-> ¿Cuándo presionaré sus dos pies de loto en mi cabeza? "
-
+> "¿Cuándo, cuándo **veré**, cara a cara, bhagavān nārāyaṇa?  
+> ¿Cuándo **presionaré** sus dos pies de loto en mi cabeza? "
 </details>
 
 
@@ -760,7 +787,7 @@ lo hará llorar como en Stotram de Aḷavandār y en Gadya de Śrī Rāmānuja,
 चरम-श्लोकत्तिल् ‘‘अहं त्वा सर्व-पापेभ्यो मोक्षयिष्यामि’’ ऎऩ्गिऱ वाक्यत्तालुम् 
 </details>
 
-<details><summary>Keith</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 तर्हि श्रीमन्त्रे नारायणशब्दे चतुर्थ्या,  
 द्वये चतुर्थी-नमोभ्याम्,  
@@ -769,7 +796,7 @@ lo hará llorar como en Stotram de Aḷavandār y en Gadya de Śrī Rāmānuja,
 
 <details><summary>English</summary>
 
-When such conduct and feeling are seen in the prapanna,  
+(When such conduct and feeling are seen in the prapanna,  )
 
 in the dative Nārāyanāya in Tirumantra,  
 in the dative Nārāyanāya and in the word namas in Dvaya  
@@ -779,11 +806,11 @@ and in the sentence "I shall release thee from all sins" in Carama śloka ,
 
 <details><summary>Español</summary>
 
-Cuando se ve tal conducta y sentimiento en el Prapanna,
+(Cuando **se ve** tal conducta y sentimiento en el Prapanna,)
 
 en el dativo nārāyanāya en tirumantra,  
 en el dativo nārāyanāya y en la palabra namas en dvaya  
-y en la oración "Te liberaré de todos los pecados" en Carama Śloka,  
+y en la oración "Te **liberaré** de todos los pecados" en Carama Śloka,  
 </details>
 
 
@@ -807,8 +834,8 @@ y en la oración "Te liberaré de todos los pecados" en Carama Śloka,
 
 <details><summary>नीलमेघः (सं)</summary>
 
-हस्त-निर्देश-कृत-समुद्र-प्रदर्शन-तुल्य-प्रदर्शन-विषयी-कृते  
-अपरिच्छेद्ये परम-पुरुषार्थे निष्ठाऽस्तीति सुज्ञानम् ।  
+… हस्त-निर्देश-कृत-समुद्र-प्रदर्शन-तुल्य-प्रदर्शन-विषयी-कृते  
+अपरिच्छेद्ये परम-पुरुषार्थे निष्ठाऽस्तीति सुज्ञानम् । +++(5)+++ 
 </details>
 
 <details><summary>English</summary>
@@ -820,8 +847,8 @@ as (an infinitesimal part of) the sea is by the finger.
 
 <details><summary>Español</summary>
 
-Se puede inferir que su mente se fija firmemente con respecto al objetivo supremo e infinito de la existencia  
-que se indica,  
+**Se puede inferir** que su mente **se fija** firmemente con respecto al objetivo supremo e infinito de la existencia  
+que **se indica**,  
 como (una parte infinitesimal de) el mar está por el dedo.
 </details>
 

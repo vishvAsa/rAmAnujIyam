@@ -2842,6 +2842,12 @@ que **no existía** antes.
 ईश्वरम् अभ्युपगच्छताम् अनभ्युपगच्छतां च तुल्यम् । 
 </details>
 
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+अनादि-कर्म = initial conditions इत्य् अनुवाद उचितः। 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -2865,7 +2871,8 @@ tanto para aquellos que **creen** en Iśvara como para los que **no lo hacen**.
 
 <details><summary>सार-बोधिनी</summary>
 
-ईश्वरऩैयङ्गीगरियादार्क्कु विचित्रकर्म प्रवाहमूलत्वेन व्यवस्थै वेण्डु मागिलुम् नाम् ईश्वरस्वातन्त्र्यमडियागवे व्यवस्थै कॊळ्ळवेण्डावोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् अनादीत्यादिना । ईश्वरस्वातन्त्र्यमुम् ईश्वरऩिडत्तिल् वैषम्यनैर्घृण्यम् तट्टा मैक्काग कर्मसापेक्षमॆऩ्ऱे कॊळ्ळवेण्डुमागैयल् ईश्वरऩै इसैन्दार्क्कुम् इसैयादार्क्कुम् इदु तुल्यमॆऩ्ऱु तिरुवुळ्ळम्। 
+ईश्वरऩैयङ्गीगरियादार्क्कु विचित्रकर्म प्रवाहमूलत्वेन व्यवस्थै वेण्डुम् आगिलुम्  
+नाम् ईश्वरस्वातन्त्र्यमडियागवे व्यवस्थै कॊळ्ळवेण्डावोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् अनादीत्यादिना । ईश्वरस्वातन्त्र्यमुम् ईश्वरऩिडत्तिल् वैषम्यनैर्घृण्यम् तट्टा मैक्काग कर्मसापेक्षमॆऩ्ऱे कॊळ्ळवेण्डुमागैयल् ईश्वरऩै इसैन्दार्क्कुम् इसैयादार्क्कुम् इदु तुल्यमॆऩ्ऱु तिरुवुळ्ळम्। 
 </details>
 
 
@@ -4268,6 +4275,7 @@ Compasión, aquí, **significa**, la inclinación a **hacer** el bien a los dem�
 कारुण्यं परदुःखदुःखित्वमॆऩ्ऱाल् अन्यत्र सम्भावितमाऩालुम्, ईश्वरऩुक्कप्पोदु हेयप्रत्यनीकत्वम् घटियातागैयाल् अदै व्यावृत्तिप्पिक्किऱार् इङ्गु कारुण्यमावदु परहित प्रवणतै इति । इङ्गु - ईश्वरऩिडत्तिले, परहितप्रवणतै - परोपकृतिमनपक्ष्य, अदावदु निरुपाधिकमाग परऩुक्कु हिदत्तैप् पण्णवेण्डुमॆऩ्गिऱ इच्छै । 
 </details>
 
+### कारुण्य-फलानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु त्रिविध-चेतनर्गळ्-उडैय सत्ता-स्थितिगळुक्कुम्, अनुकूल-वृत्तिगळुक्कुम्, 
@@ -4275,16 +4283,18 @@ Compasión, aquí, **significa**, la inclinación a **hacer** el bien a los dem�
 
 <details><summary>English</summary>
 
-in all the following -  
+Bhagavān's compassion comes into play in all the following -  
 
 - in the creation and sustenance of the three kinds of sentient beings (baddha, mukta and nitya), in keeping them in activities pleasing to the Lord, 
 </details>
 
 <details><summary>Español</summary>
 
-in all the following -  
+La compasión de Bhagavān **entra** en juego  
+en todo lo siguiente -
 
-- in the creation and sustenance of the three kinds of sentient beings (baddha, mukta and nitya), in keeping them in activities pleasing to the Lord, 
+- En la **creación y sustento** de los tres tipos de seres sensibles (Baddha, Mukta y Nitya),  
+- para **mantenerlos** en actividades agradables para el Señor,
 </details>
 
 
@@ -4293,19 +4303,363 @@ in all the following -
 इदु त्रिविधचेतनर्गळुडैय सत्तास्थितिकळुक्कुम्, अनुकूलवृत्तिकळुक्कुम्, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्यर्-उडैय नित्यानुभवत्तुक्कुम्,  
+मुक्तरुडैय अनावृत्तिक्कुम्, 
+</details>
+
+<details><summary>English</summary>
+
+- in the eternal enjoyment of the eternal sūris,  
+- in seeing that those who have obtained release from bondage do not return to saṁsāra, 
+</details>
+
+<details><summary>Español</summary>
+
+- En el disfrute eterno de la eterna sūris,  
+- Al **ver** que aquellos que **han obtenido** la liberación de la esclavitud **no regresan** a Saṁsāra,
+</details>
+
+<details><summary>मूलम्</summary>
+
+नित्यरुडैय नित्यानुभवत्तुक्कुम्, मुक्तरुडैय अनावृत्तिक्कुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+लीलाविभूतियिल् सामान्य-सृष्ट्य्-आदिगळुक्कुम्, 
+</details>
+
+<details><summary>English</summary>
+
+- in the creation of all things (like mahat, ahankāra, tanmātras, etc) in lilā vibhūti (i.e.) in this world, 
+</details>
+
+<details><summary>Español</summary>
+
+- en la **creación** de todas las cosas (como Mahat, Ahankāra, Tanmātras, etc.) en Lilā Vibhūti (es decir) en este mundo,
+</details>
 
 
-Bhagavān's compassion comes into play  
+<details><summary>मूलम्</summary>
 
-in the eternal enjoyment of the eternal sūris, in seeing that those who have obtained release from bondage do not return to saṁsāra, in the creation of all things (like mahat, ahankāra, tanmātras, etc) in lilā vibhūti (i.e.) in this world, in the pure creation called His avatār untainted with matter, in propagating a knowledge of the śāstras and in causing through them a knowledge of the tattvas and of the means of attaining mukti, in creating an eagerness for mokṣa , in enabling a person to do meritorious actions which would become the vyāja or upāya for causing the eagerness for mokṣa , in prescribing upāyas suited to the nature of each individual for wiping out the punishment for violation of His commands, in being accessory to the mind being prompted to adopt the upāya, in removing any obstacles that might stand in the way of the man who has adopted bhakti as the upāya (upāsaka) in standing, in the case of those who are destitute of other upāyas (1.6.) prapannas, in the place of these upāyas and protecting them from all danger, in ignoring countless offences of a serious nature committed by the jīva from beginningless time, by being gracious to him on account of the vyāja or upāya performed by him and releasing him from saṁsāra so that he may enjoy endless bliss, in bestowing mokṣa
+लीलाविभूतियिल् सामान्यसृष्ट्यादिगळुक्कुम्, 
+</details>
 
-immediately on those prapannas who are impatient of delay, and, in the case of those prapannas who are not impatient of delay and who have forgotten to beg for a life free from sin (after prapatti), in creating repentance for any offences committed by them owing to past karma which has begun to operate (prārabdha ) and inducing the person to perform the necessary prāyaścitta or expiation suited to his competency; in the case of those who are too hard-hearted to perform prāyaścitta, in preventing their entrance into the world of Yama and loss of the benefit begged for by them by seeing that they are punished for these offences (committed after prapatti) in this life itself with sufferings (like blindness and lameness ) - in all these the Lord's compassion is the principal and common cause.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वावतार-रूपैय् आऩ शुद्ध-सृष्टिक्कुम्,  
+</details>
+
+<details><summary>English</summary>
+
+- in the pure creation called His avatār untainted with matter,  
+</details>
+
+<details><summary>Español</summary>
+
+- En la **creación** pura **llamó** a su avatār **no contaminado** con la materia,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वावताररूपैयाऩ शुद्धसृष्टिक्कुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्र-प्रवर्तनत्तुक्कुम्,  
+अद्-अडियाग तत्त्व-हित-विषयम् आऩ ज्ञानत्तैप् पिऱप्पिक्कैक्कुम्, 
+</details>
+
+<details><summary>English</summary>
+
+- in propagating a knowledge of the śāstras  
+- and in causing through them a knowledge of the tattvas  
+  and of the means of attaining mukti,  
+</details>
+
+<details><summary>Español</summary>
+
+- En **propagación** de un **conocimiento** de los Śāstras
+- y al **causarles** un **conocimiento** de los tattvas
+  y de los medios de **alcanzar** Mukti,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शास्त्र-प्रवर्तनत्तुक्कुम्, अदडियाग तत्त्वहितविषयमाऩ ज्ञानत्तैप् पिऱप्पिक्कैक्कुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मोक्ष श्रद्धैयैय् उण्डाक्कुगैक्कुम्,  
+इदु कॊडुक्कैक्कु व्याजम् आऩ सुकृत-विशेषत्तुक्कुम्, 
+</details>
+
+<details><summary>English</summary>
+
+in creating an eagerness for mokṣa ,  
+in enabling a person to do meritorious actions  
+which would become the vyāja or upāya for causing the eagerness for mokṣa , 
+</details>
+
+<details><summary>Español</summary>
+
+- Al **crear** un entusiasmo por Mokṣa,  
+- Al **permitir** que una persona **haga** acciones meritorias  
+  que **se convertiría** en el vyāja o upāya por **causar** el afán por mokṣa,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मोक्ष श्रद्धैयैयुण्डाक्कुगैक्कुम्, इदु कॊडुक्कैक्कु व्याजमाऩ सुकृतविशेषत्तुक्कुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अधिकारानुरूपङ्गळ् आऩ निग्रह-शमनोपायङ्गळैक् कॊडुक्कैक्कुम्, 
+</details>
+
+<details><summary>English</summary>
+
+- in prescribing upāyas suited to the nature of each individual  
+  for wiping out the punishment for violation of His commands, 
+</details>
+
+<details><summary>Español</summary>
+
+- en **prescribir** upāyas **adecuado** para la naturaleza de cada individuo  
+  por **eliminar** el castigo por violación de sus órdenes,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अधिकारानुरूपङ्गळाऩ निग्रहशमनोपायङ्गळैक् कॊडुक्कैक्कुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱिल् +++(उपाय-ग्रहणे)+++ करण-प्रेरण-दशैयिल् सहकारिय् आय् निऱ्कैक्कुम्, 
+</details>
+
+<details><summary>English</summary>
+
+- in being accessory to the mind  
+  being prompted to adopt the upāya, 
+</details>
+
+<details><summary>Español</summary>
+
+- en **ser** accesorio a la mente
+  ser solicitado a **adoptar** el upāya,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिल् करणप्रेरणदशैयिल् सहकारियाय् निऱ्कैक्कुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपासकऩुक्क् अन्तरायं वन्दाल्  
+प्रतिसमाधानम् पण्णुविक्कैक्कुम्, 
+</details>
+
+<details><summary>English</summary>
+
+in removing any obstacles  
+that might stand in the way of the man  
+who has adopted bhakti as the upāya (upāsaka) in standing, 
+</details>
+
+<details><summary>Español</summary>
+
+en **eliminar** cualquier obstáculo  
+que **podría interponerse** en el camino del hombre  
+quien **ha adoptado** a Bhakti como el upāya (upāsaka) en pie,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपासकऩुक्कन्तरायम् वन्दाल् प्रतिसमाधानम् पण्णुविक्कैक्कुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अकिञ्चनर्क्कु उपाय-स्थानत्तिले निऩ्ऱु निर्-अपायम् आग रक्षिक्कैक्कुम्,
+</details>
+
+<details><summary>English</summary>
+
+- in the case of those who are destitute of other upāyas (i.e.) prapannas, (standing) in the place of these upāyas  
+  and protecting them from all danger,  
+</details>
+
+<details><summary>Español</summary>
+
+- En el caso de aquellos  
+  que **son** indigentes de otros upāyas (es decir) Prapannas,  
+**de pie** en el lugar de estos upāyas  
+  y **protegerlos** de todo peligro,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अकिञ्चनर्क्कु उपायस्थानत्तिले निऩ्ऱु निरपायमाग रक्षिक्कैक्कुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव् व्याजङ्गळैक् कॊण्डु  
+प्रसन्नऩ् आय् अन्-आदि-कालम् पण्णिऩ अनन्त-महापराधङ्गळै अनादरित्तु  
+अन्-अन्त-सुखत्तिले विश्रमिक्कुम् बडि संसार-निवर्तकऩ् आगैक्कुम्, 
+</details>
+
+<details><summary>English</summary>
+
+- in ignoring countless offences of a serious nature  
+  committed by the jīva from beginningless time,  
+  by being gracious to him on account of the vyāja or upāya performed by him  
+  and releasing him from saṁsāra so that he may enjoy endless bliss,  
+</details>
+
+<details><summary>Español</summary>
+
+- Al **ignorar** innumerables delitos de naturaleza grave  
+  **cometido** por el Jīva desde el momento sin inicio,  
+  por **ser amable** con él a causa del vyāja o upāya realizado por él  
+  y **liberándolo** de Saṁsāra para que **pueda disfrutar** de una dicha sin fin,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्व्याजङ्गळैक् कॊण्डु प्रसन्नऩाय् अनादिकालम् पण्णिऩ अनन्तमहापराधङ्गळै अनादरित्तु अनन्तसुखत्तिले विश्रमिक्कुम्बडि संसारनिवर्तकऩागैक्कुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आर्त-प्रपन्नर्क्क् अप्-पोदे मोक्षङ् गॊडुक्कैक्कुम्, 
+</details>
+
+<details><summary>English</summary>
+
+- in bestowing mokṣa immediately on those prapannas who are impatient of delay, 
+</details>
+
+<details><summary>Español</summary>
+
+- Al **otorgar** mokṣa inmediatamente a las prapanias que **están** impacientes por la demora,
+</details>
+
+<details><summary>मूलम्</summary>
+
+आर्तप्रपन्नर्क्कप्पोदे मोक्षङ्गॊडुक्कैक्कुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इरुन्द नाळ् निर्-अपराधऩ् आय् इरुक्क वेणुम् 
+
+ऎऩ्ऱु फलङ् गोल मऱन्द दृप्त-प्रपन्नऩुक्कु  
+
+प्रारब्ध-कर्म-वशत्ताले पुगुन्द अपराधत्तुक्क्  
+अनुतापत्तै **विळैप्पित्तु**,  
+अधिकारानुरूपम् आऩ प्रायश्चित्त-विशेषत्तिले **मूट्टुगैक्कुम्**+++(=प्रचोदने)+++, 
+</details>
+
+<details><summary>English</summary>
+
+- and, in the case of those prapannas  
+  who are not impatient of delay  
+  and who have forgotten to beg for a life free from sin (after prapatti),  
+  in creating repentance for any offences committed by them owing to past karma which has begun to operate (prārabdha )  
+  and inducing the person to perform the necessary prāyaścitta or expiation suited to his competency; 
+</details>
+
+<details><summary>Español</summary>
+
+- y, en el caso de esas Prapannas  
+  que **no están** impacientes por la demora  
+  y que **se han olvidado** de **rogar** por una vida **libre** de pecado (después de Prapatti),  
+  Al **crear arrepentimiento** por cualquier delito **cometido**  
+  por ellos debido al karma pasado  
+  que **ha comenzado a operar** (prārabdha)  
+  e **inducir** a la persona a **realizar** la prāyaścitta o expiación necesaria adecuada para su competencia;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इरुन्द नाळ् निरपराधऩायिरुक्क वेणुमॆऩ्ऱु फलङ्गोल मऱन्द दृप्तप्रपन्नऩुक्कु प्रारब्धकर्मवशत्ताले पुगुन्द अपराधत्तुक्कनुतापत्तै विळैप्पित्तु अधिकारानुरूपमाऩ प्रायश्चित्तविशेषत्तिले मूट्टुगैक्कुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्ङऩ् +++(→प्रायश्चित्तकरणे)+++ मृदु-प्रकृतिगळ् अल्लादार्क्कु  
+यम-विषय-गमनमुम्,  
+कोलिऩ फलत्तुक्कु प्रतिबन्धमुम् वाराद बडि पण्णि  
+उपक्लेशङ्गळाले शिक्षिक्कैक्कुम् 
+</details>
+
+<details><summary>English</summary>
+
+in the case of those who are too hard-hearted to perform prāyaścitta,  
+in preventing their entrance into the world of Yama  
+and loss of the benefit begged for by them  
+by seeing that they are punished for these offences (committed after prapatti) in this life itself with sufferings (like blindness and lameness ) -  
+</details>
+
+<details><summary>Español</summary>
+
+- En el caso de aquellos que **son** demasiado intensos para realizar prāyaścitta,  
+  Al **evitar** su entrada al mundo de Yama  
+  y **pérdida** del beneficio suplicada por ellos  
+  por al ver que **son castigados** por estos delitos (**cometidos** después de Prapatti) en esta vida misma con sufrimientos (como la ceguera y la cojera) -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अङ्ङऩ् मृदुप्रकृतिकळल्लादार्क्कु यमविषयगमनमुम् कोलिऩ फलत्तुक्कु प्रतिबन्धमुम् वारादबडि पण्णि उपक्लेशङ्गळाले शिक्षिक्कैक्कुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रधानम् आऩ सामान्य-निदानम् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+(in all these) the Lord's compassion is the principal and common cause.
+</details>
+
+<details><summary>Español</summary>
+
+(En todos estos) la compasión del Señor **es** la causa principal y común.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रधानमाऩ सामान्यनिदानमायिरुक्कुम्। 
+</details>
+
 
 Iśvara, who is endowed with compassion as described above, is called Siddhopāya or the upāya that is already existent; thus it is said:- “Those Brahmins who know the first part of the Veda and those who know the latter part of it, which treats of the Supreme Being - they state that Śrī Kṛṣṇa is the eternal dharma (i.e.) the upāya that always exists. Bhakti and prapatti, which are adopted as the means for making Him gracious are called Sādhyopāyas (i.e.) upāyas to be adopted for securing His grace.
 
-THE CONTENTION THAT THERE IS NO INJUNCTION
-
-TO PERFORM PRAPATTI AS AN UPĀYA:
+THE CONTENTION THAT THERE IS NO INJUNCTION TO PERFORM PRAPATTI AS AN UPĀYA:
 
 (2) The injunction to perform prapatti is contained in the words, "Seek refuge under me alone". Some say that it is not an injunction to perform prapatti and that this prapatti should be considered as an attribute of the person specified. We answer as follows :-- This attribute cannot be held as that of the person so concerned or qualified, as it does not satisfy the definition of an adjectival attribute[^65] . This statement is therefore contrary to pramâna or authority. If this were not so, while Iśvara is the upāya for bhakti, the śāstras which prescribe certain forms of meditation and the like might also be considered as speaking of the attributes of the person concerned and not actions to be performed.
 
