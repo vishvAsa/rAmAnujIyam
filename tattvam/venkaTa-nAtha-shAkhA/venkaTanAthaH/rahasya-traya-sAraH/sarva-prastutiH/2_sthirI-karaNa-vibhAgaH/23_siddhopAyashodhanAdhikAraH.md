@@ -4899,6 +4899,12 @@ is called Siddhopāya or the upāya that is already existent;  thus it is said:-
 इवऩुक्कुप् प्रसादनङ्गळ् आऩ भक्ति-प्रपत्तिगळ् साध्योपायङ्गळ्।  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य प्रसादन-भूते भक्ति-प्रपत्ती साध्योपायौ ।
+</details>
+
+
 <details><summary>English</summary>
 
 Bhakti and prapatti,  
@@ -4928,7 +4934,7 @@ upāyas para ser adoptado para **asegurar** su gracia.
 
 
 ## साध्योपाय-संशयाः
-### उपाय-विधिः
+### साध्योपाय-विधिः
 <details><summary>English</summary>
 
 THE CONTENTION THAT THERE IS NO INJUNCTION TO PERFORM PRAPATTI AS AN UPĀYA:
@@ -4955,6 +4961,18 @@ para **realizar** Prapatti como un upāya:
 अतिवादम्।  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+कस्यचिद् अधिकारि-विशेषस्य कर्तव्यतया  
+
+> २९‘‘माम् एकं शरणं व्रज’’(गीता १८-६६) 
+
+इति विधीयमानां प्रपत्तिम्  
+अधिकारि-विशेषणत्वेन यत् केचिद् अवोचन्,  
+सोऽधिकारि-विशेषणस्य विषये +उच्यमानेन लक्षणेनानन्वयाद् अतिवादः ।
+</details>
+
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 > स्वर्गकामो ज्योतिष्टोमेन यजेत
@@ -4963,7 +4981,12 @@ para **realizar** Prapatti como un upāya:
 तत् पूर्वम् एव वर्तते।  
 यजेतेति तु विधिः।  
 अत्र व्रज +इति विधिस् तद्वत्।  
-शरण-व्रज्यायाः प्राग्-अभावत्वात् न तद् अधिकारि-विशेषणम्। 
+
+> एवम् अत्रेश्वर एव उपायः,  
+शरण-व्रज्या ऽधिकारि-विशेषणम्  
+
+इति केचित्।  
+किञ्च शरण-व्रज्यायाः प्राग्-अभावत्वात् न तद् अधिकारि-विशेषणम्। 
 </details>
 
 
@@ -4980,7 +5003,6 @@ and that this prapatti should be considered as an attribute of the person specif
 We answer as follows :--  
 This attribute cannot be held as that of the person so concerned or qualified,  
 as it does not satisfy the definition of an adjectival attribute. 
-
 
 ("He who desires svarga should perform the Jyotiṣṭoma sacrifice".  
 Here, who desires svarga is an attribute or adjective of the person  
@@ -5045,16 +5067,413 @@ Por lo tanto, esta declaración **es contraria** a Pramâna o autoridad.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् अल्लाद बोदु  
+ईश्वरऩ् उपायम् आय् निऱ्क  
+उपासनादि-शास्त्रार्थङ्गळुम् अधिकारि-विशेषणङ्गळ् आम्।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा  
++ईश्वरे उपायत्वेनावस्थिते सति  
+उपासनादि-शास्त्रार्था अप्य् अधिकारि-विशेषणानि स्युः । 
+</details>
 
 
-If this were not so, while Iśvara is the upāya for bhakti, the śāstras which prescribe certain forms of meditation and the like might also be considered as speaking of the attributes of the person concerned and not actions to be performed.
+<details><summary>English</summary>
 
+If this were not so,  
+while Iśvara is the upāya for bhakti,  
+the śāstras which prescribe certain forms of meditation and the like  
+might also be considered as speaking of the attributes of the person concerned  
+and not actions to be performed.
+</details>
+
+<details><summary>Español</summary>
+
+Si esto **no fuera** así,  
+mientras que Iśvara **es** el upāya para bhakti,  
+los Śāstras que **prescriben** ciertas formas de meditación y similares  
+También **podría considerarse** como **hablar** de los atributos de la persona en cuestión  
+y no acciones a **realizar**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩल्लादबोदु ईश्वरऩ् उपायमाय् निऱ्क उपासनादिशास्त्रार्थङ्गळुम् अधिकारिविशेषणङ्गळाम्।  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+विपक्षत्तिल् बाधकत्तैक् काट्टुगिऱार् इङ्ङऩल्लादबोदु इत्यादिना । ईश्वरऩ् भक्तऩुक्कुम् सिद्धोपायमागैयाल् अवऩुडैय उपासनमुम् कर्मज्ञानङ्गळुम् अधिकारिविशेषणङ्गळागप् प्रसङ्गिक्कुमॆऩ्ऱबडि। 
+</details>
+
+
+<details><summary>English</summary>
 
 THE ROLE OF SIDDHOPĀYA AND SĀDHYOPĀYA
+</details>
 
-(3) Therefore the exaggerated statement of some that prapatti is not an upāya is only to be taken as stressing the importance of Siddhopāya (i.e.) Iśvara who is the existent upāya (and not to state that prapatti is not an upāya ). Siddhopāya is of prime importance, because if, by proper propitiation, the punishment of the Lord is cancelled, it becomes helpful for the enjoyment or experience (of Bhagavān) which is natural to the Self (in its purity). If it is asked how this happens, the answer is as follows:-- When the gem is cleansed of the dust (enveloping it), it shines with a natural radiance, but this natural radiance is due only to the will of Iśvara that ordains its having radiance. So also the expansion of knowledge and other attributes which the mukta acquires are due to the will of Iśvara, which ordains them. Likewise, in the case of the eternal süris (their eternal possession of certain attributes is due to the eternal will of the Lord). Learned men expressed this idea briefly in the śloka  : "All things have their being in accordance with Thy will; among them some are ever pleasing to Thee; they are eternal; Thy noble attributes which are, by nature, subject to Thee illustrate this truth to us". Therefore, though Siddhopāya or Iśvara who is the existent upāya is all-important, the means of obtaining His grace, otherwise called Sādhyopāya, has also to be adopted. This is not at variance with the statements of former ācāryas as seen in Tiruvaymoli (10-8-9), cited before.
+<details><summary>Español</summary>
 
-The śloka  which says: "The Lord who took the necessary means or upāya for making me live, while yet in my mother's womb - is He now asleep or is He now dead in regard to the means to be adopted for making me live after being born ?" - this is sometimes quoted in support of the statement that the Lord is alone the upāya and that the jīva has to do nothing at all by way of upāya or vyāja. It should be taken only as meaning that we should not seek any other protector (and not to forbid man from any form of endeavour). Otherwise one will have to give up evon such endeavours as have to be made for obtaining food.
+El papel de Siddhopāya y Sādhyopāya
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् 
+
+> प्रपत्तियुङ् गूड  
+उपायम् अऩ्ऱ् ऎऩ्ऱु  
+
+सिलर् अतिवादम् पण्णुगिऱदुवुम्  
+सिद्धोपायत्तिऩ्-उडैय प्राधान्यम् अडिय् आगव् इत्तऩै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः "प्रपत्तिर् अपि नोपय" इति कैश्चित् क्रियमाणो ऽतिवादोऽपि, 
+सिद्धोपाय-प्राधान्य-मूलक इत्य् एव ।
+</details>
+
+
+<details><summary>English</summary>
+
+(3) Therefore the exaggerated statement of some that prapatti is not an upāya  
+is only to be taken as stressing the importance of Siddhopāya (i.e.) Iśvara  
+who is the existent upāya (and not to state that prapatti is not an upāya ). 
+</details>
+
+<details><summary>Español</summary>
+
+(3) Por lo tanto, la **declaración** exagerada de algunos  
+de que Prapatti **no es** un upāya  
+Solo debe **ser tomado** como **estresando** la importancia de Siddhopāya (es decir) Iśvara  
+quien **es** el upāya existente  
+(y **no afirmar** que Prapatti **no es** un upāya).
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् प्रपत्तियुङ्गूड उपायमऩ्ऱॆऩ्ऱु सिलर् अतिवादम् पण्णुकिऱदुवुम् सिद्धोपायत्तिऩुडैय प्राधान्यमडियागवित्तऩै। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्-पडि प्रपत्तियुम् साध्योपायम् ऎऩ्ऱाल्  
+सिल अभियुक्तर् प्रपत्ति उपायमऩ्ऱॆऩ्ऱु सॊल्लुवदऱ्कु अभिप्रायमॆऩ्ऩॆऩ्ऩ वरुळिच्चॆय्गिऱार् आगैयालित्यादिना । अतिवादम् पण्णुगिऱदुवुमिति । इदऩाल् अवर्गळ् सॊल्लुगिऱदु अतिवादमे यॊऴिय वास्तवमऩ्ऱॆऩ्ऱु सूचितम्। इन्द अतिवादत्तुक्कुत्ताऩ् निमित्तमुण्डो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् सिद्धोपायत्तिऩुडैय प्रधान्यमडियागवित्तऩै इति । 
+</details>
+
+### साध्योपाय-पात्रम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदु +++(→सिद्धोपायः)+++ प्रधानम् आऩ पडि -  
++++(साध्योपायः→)+++ प्रसादनङ्गळाले  
+प्रतिबन्धकम् आऩ निग्रहम् शमित्ताल्  
+स्वाभाविकानुभवत्तुक्कुप् प्रयोजकम् आगैयाले। 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तस्य प्राधान्यं च  
+प्रसादनैः प्रतिबन्धके निग्रहे शान्ते सति  
+स्वाभाविकानुभवस्य प्रयोजकत्वात् । 
+</details>
+
+
+<details><summary>English</summary>
+
+Siddhopāya is of prime importance, because   
+if, by proper propitiation, the punishment of the Lord is cancelled,  
+it becomes helpful for the enjoyment or experience (of Bhagavān)  
+which is natural to the Self (in its purity). 
+</details>
+
+<details><summary>Español</summary>
+
+Siddhopāya **es** de gran importancia, porque  
+Si, por **propiciación** adecuada, el castigo del Señor **se cancela**,  
+**se vuelve** útil para el **disfrute** o la experiencia (de Bhagavān)  
+que **es** natural para el yo (en su pureza).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदु प्रधानमाऩ पडि; प्रसादनङ्गळाले प्रतिबन्धकमाऩ निग्रहम् शमित्ताल् स्वाभाविकानुभवत्तुक्कुप् प्रयोजकमागैयाले। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+फ़्फ़्प्रधानमाऩबडियैक् काट्टुगिऱार् अदु प्रधानमाऩबडि इत्यादिना । प्रतिबन्धकमाऩनिग्रहम् शमित्तालिति । इदऩाल् साध्योपायङ्गळ् निग्रहशमन उपक्षीणङ्गळागैयाल् 
+अप्रधानङ्गळ् ऎऩ्ऱु सूचितम्। 
+
+स्वाभाविकानुभवत्तुक्कुप् प्रयोजकमागैयाले इति । स्वाभाविक भगवदनुभवत्तिऱ्कुप् प्रयोजकमागैयाले ऎऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद् ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+रत्नत्तुक्कु अऴुक्क् अऱ्ऱाल् वरुम्  
+स्वाभाविकम् आऩ प्रभा-विकासमुम्  
+अदुक्क् अनुरूपम् आऩ भगवत्-सङ्कल्प-मात्रत्तालेय् आऩाऱ् पोले  
+मुक्तऩुक्कु वरुम् ज्ञान-विकासादिगळुम्  
+अदुक्क् अनुरूपम् आय्क् कॊण्डु  
+व्यवस्थितम् आऩ भगवत्-सङ्कल्पम् अडियागल् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[१९६]] 
+
+तत् कथम् इति चेत्---  
+रत्नस्य मालिन्ये नष्टे सति  
+जायमानः स्वाभाविकः प्रभा-विकासो  
+यथा तद्-अनुरूप भगवत्-संकल्प-मात्र-निबन्धनो भवति,  
+तथा मुक्तस्य जायमाना ज्ञान-विकासादयोऽपि  
+तद्-अनुरूप-व्यवस्थित-भगवत्-संकल्प-निबन्धना भवन्ति । 
+</details>
+
+
+<details><summary>English</summary>
+
+If it is asked how this happens, the answer is as follows:--  
+When the gem is cleansed of the dust (enveloping it),  
+it shines with a natural radiance,  
+but this natural radiance is due only to the will of Iśvara  
+that ordains its having radiance.  
+So also the expansion of knowledge and other attributes which the mukta acquires  
+are due to the will of Iśvara, which ordains them.  
+</details>
+
+<details><summary>Español</summary>
+
+Si **se pregunta** cómo **sucede** esto, la **respuesta** es la siguiente:-  
+Cuando la gema **se limpia** del polvo (**envuelto**),  
+**brilla** con un resplandor natural,  
+Pero este resplandor natural **se debe** solo a la voluntad de Iśvara  
+que **ordena** que tenga un resplandor.  
+Así también la **expansión** del conocimiento y otros atributos que el Mukta **adquiere**  
+**se deben** a la voluntad de Iśvara, que les **ordena**.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदॆङ्ङऩेयॆऩ्ऩिल्; रत्नत्तुक्कु अऴुक् कऱ्ऱाल् वरुम् स्वाभाविकमाऩ प्रभाविकासमुम् अदुक्कनुरूपमाऩ भगवत्सङ्कल्पमात्रत्तालेयाऩाऱ्पोले मुक्तऩुक्कु वरुम् ज्ञानविकासादिगळुम् अदुक्कनुरूपमाय्क्कॊण्डु व्यवस्थितमाऩ भगवत्सङ्कल्पमडियागलायिरुक्कुम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+साध्योपायङ्गळाले निग्रहम् शमित्ताल् स्वाभाविकानुभवम् ताऩाग वारादो? अदुक्कु सिद्धोपायम् प्रयोजकमाग वेण्डुमो? अऴुक्कुप्पोऩाल् रत्नत्तुक्कु स्वाभाविक प्रकाशम् ताऩाग वरक् काणविल्लैयो? ऎऩ्ऱु शङ्कैयिल् दृष्टान्तत्तिलुम् शिक्षणीयांशत्तैक्काट्टि उत्तरमरुळिच्चॆय्गिऱार् रत्नत्तुक्कु अऴुक्कऱ्ऱालित्यादिना । अदुक्कनुरूपमाऩविति । रत्नमुळ्ळवरैयिल् इदऱ्कु स्वाभाविकप्रकाशम् इरुक्कक्कडवदु ऎऩ्गिऱ ईश्वरऩ् सङ्गल्बत्ताले ऎऩ्ऱबडि। इदऩाल् दृष्टान्तत्तिलुम् स्वाभाविक प्रकाशम् भगवत्सङ्कल्प हेतुकमॆऩ्ऱु सिद्धिप्पदाल् दार्ष्टान्तिकमाऩ मुक्तादिगळुडैय भगवदनुभवत्तिऱ्कुम् सिद्धोपयसङ्कल्पमे प्रयोजकमागवेण्डुमागैयाले सिद्धोपायम् प्रधानमागलामॆऩ्ऱु सूचितम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि नित्यर्क्कुम् +++(ज्ञानासङ्कोचे भगवान् प्रधानं कारणम्)+++। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं नित्यानाम् अपि +++(ज्ञानासङ्कोचे भगवान् प्रधानं कारणम्)+++।  
+</details>
+
+<details><summary>English</summary>
+
+Likewise, in the case of the eternal süris  
+(their eternal possession of certain attributes  
+is due to the eternal will of the Lord).  
+</details>
+
+<details><summary>Español</summary>
+
+Del mismo modo, en el caso de la eterna Süris  
+(su eterna **posesión** de ciertos atributos  
+**se debe** a la voluntad eterna del Señor).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि नित्यर्क्कुम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि नित्यर्क्कुमिति । मुक्तऩुक्कु वरुम् ज्ञानविकासभगवदनुभवादिगळुक्कु तदनुरूपभगवत्सङ्कल्पम् कारणमागिऱाप्पोले, नित्यर्गळुडैय नित्यमाऩ भगवदनुभवादिगळुक्कुम् तदनुरूप भगवत्सङ्कल्पमे कारणमॆऩ्ऱबडि,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थत्तै 
+
+> (नित्यं प्रियास्तव तु केचन ते हि नित्या)  
+> ‘‘इच्छात एव तव विश्व-पदार्थपदार्थस्-असत्ता’’  
+> (वैकुण्ठ-स्तवः ३६) 
+
+ऎऩ्ऱु अभियुक्तर् संग्रहित्तार्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमम् अर्थम्  
+
+> (नित्यं प्रियास्तव तु केचन ते हि नित्या)  
+> ‘‘इच्छात एव तव विश्व-पदार्थपदार्थस्-असत्ता’’  
+> (वैकुण्ठ-स्तवः ३६) 
+
+इत्य् अभियुक्ताः संजगृहुः ।
+</details>
+
+
+<details><summary>English</summary>
+
+Learned men expressed this idea briefly in the śloka  : 
+
+> "All things have their being in accordance with Thy will;  
+> among them some are ever pleasing to Thee;  
+> they are eternal;  
+> Thy noble attributes which are, by nature, subject to Thee  
+> illustrate this truth to us". 
+</details>
+
+<details><summary>Español</summary>
+
+Los hombres **aprendidos expresaron** esta idea brevemente en el Śloka:
+
+> "Todas las cosas **tienen** su estar de acuerdo con tu voluntad;  
+> Entre ellos, algunos **son** siempre **agradables** para ti;
+> son eternos;  
+> Tus nobles atributos que, por naturaleza, **están** sujetos a ti  
+> **Ilustrar** esta verdad para nosotros ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै 
+
+> ‘‘इच्छात एव तव विश्वपदार्थसत्ता’’(वैकुण्ठ-स्तवः ३६) 
+
+ऎऩ्ऱु अभियुक्तर् संग्रहित्तार्गळ्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+ननु नित्यरुडैय भगवदनुभवम् नित्यमॆऩ्ऱु सॊल्लिक्कॊण्डे अदऱ्कु भगवत्सङ्कल्पाधीनत्वम् सॊल्लुवदु पॊरुन्दुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इव्वर्थत्तै इच्छात एव इत्यादिना । 
+
+> ‘‘नित्यं प्रियास्तव तु केचन ते हि नित्याः’’ ऎऩ्बदु मेल् पादम्। 
+
+नित्यङ्गळॆल्लाम् नित्येच्छा सिद्धङ्गळागैयाल् नित्यमाऩ नित्यर्गळुडैय भगवदनुभवमुम् नित्यमाऩ भगवत्सङ्कल्पाधीनमावदु उपपन्नमाग लामॆऩ्ऱु करुत्तु। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् सिद्धोपायम् प्रधानमेय् आगिलुम्  
+तद्-वशीकरणार्थम् आऩ साध्योपायानुष्ठानत्तुक्कु 
+
+> ’’इऩ्ऱ् ऎऩ्ऩै (पॊरुळाक्कित् तऩ्ऩैय् ऎऩ्ऩ्-उळ् वैत्ताऩ्  
+> अऩ्ऱ् ऎऩ्ऩैप् पुऱम् बोगप् पुणर्त्तद् ऎऩ् सॆय्वाऩ्)’’(तिरुवाय्मॊऴि १०-८-९) 
+
+इत्य्-आदि-+++(प्राधान्य-वाचि-)+++पूर्वाचार्य-वाक्य-विरोधम् इल्लै । 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः सिद्धोपाये प्रधाने सत्य् अपि  
+तद्-वशी-करणार्थं साध्योपायानुष्ठानस्य  
+“अद्य माम्” इत्य्-आदि-  
++++(पूर्वोदाहृत-प्राधान्य-वाचि-)+++पूर्वाचार्य-वाक्य-विरोधो नास्ति । 
+</details>
+
+<details><summary>English</summary>
+
+Therefore, though Siddhopāya or Iśvara  
+who is the existent upāya  
+is all-important,  
+the means of obtaining His grace, otherwise called Sādhyopāya, has also to be adopted.  
+This is not at variance with the statements of former ācāryas  
+as seen in Tiruvaymoli (10-8-9), cited before.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, aunque Siddhopāya o Iśvara  
+quien **es** el upāya existente  
+**es** muy importante,  
+También **se debe adoptar** los medios para **obtener** su gracia, de otra manera **llamado** Sādhyopāya.  
+Esto **no está** en desacuerdo con las **declaraciones** del antiguo ācāryas  
+Como **se ve** en Tiruvaymoli (10-8-9), **citado** antes.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् सिद्धोपायम् प्रधानमेयागिलुम् तद्वशीकरणार्थमाऩ साध्योपायानुष्ठानत्तुक्कु ’’इऩ्ऱॆऩ्ऩै’’(तिरुवाय्मॊऴि १०-८-९) इत्यादिपूर्वाचार्यवाक्य-विरोधमिल्लै। 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+साध्योपायानुष्ठानत्तिऱ्कु ’’इऩ्ऱॆऩ्ऩैप् पॊरुळाक्कि’’ इत्यादि श्रीसूक्तिविराधमिल्लैयॆऩ्ऱु निगमिक्किऱार् आगैयालित्यादिना । सिद्धोपायम् प्रधानमाऩालुम् तद्वशीकरणार्थम् साध्योपायम् अनुष्ठेयमागैयाल् साध्योपायानुष्ठानत्तिऱ्कु इऩ्ऱॆऩ्ऩैइत्यादि पूर्वाचार्यश्रीसूक्तिविराधमिल्लै यॆऩ्ऱन्वयम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यो मे गर्भ-गतस्यापि  
+वृत्तिं **कल्पितवान्** प्रभुः ।  
+शेष-वृत्ति-**विधाने** ऽपि  
+किं **सुप्तस्** सो ऽथवा **मृत**?॥’’  
+(विष्णुधर्मः (?))  
+
+इत्य्-आदिगळुम् रक्षकान्तरन् देडामैक्कुच् चॊऩ्ऩवैय् अत्तऩै; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यो मे गर्भ-गतस्यापि  
+वृत्तिं **कल्पितवान्** प्रभुः ।  
+शेष-वृत्ति-**विधाने** ऽपि  
+किं **सुप्तस्** सो ऽथवा **मृत**?॥’’  
+(विष्णुधर्मः (?))  
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यो मे गर्भगतस्यापि वृत्तिं कल्पितवान् प्रभुः ।  
+शेषवृत्तिविधानेऽपि किं सुप्तस्सोऽथवा मृत॥’’  
+(विष्णुधर्मः (?))  
+इत्यादिगळुम् रक्षकान्तरन्देडामैक्कुच् चॊऩ्ऩवैयत्तऩै; 
+</details>
+
+
+The śloka  which says:  
+
+> "The Lord who took the necessary means or upāya for making me live,  
+> while yet in my mother's womb -  
+> is He now asleep or is He now dead  
+> in regard to the means to be adopted  
+> for making me live after being born ?"  
+
+\- this is sometimes quoted in support of the statement that the Lord is alone the upāya  
+and that the jīva has to do nothing at all by way of upāya or vyāja.  
+It should be taken only as meaning that we should not seek any other protector  
+(and not to forbid man from any form of endeavour). 
+
+Otherwise one will have to give up  
+even such endeavours as have to be made for obtaining food.
 
 Likewise the following ślokas:-" The embodied being is like a lump of clay subject to the will of another and unable to help himself. How, then, can he protect another?," and " The jīva is ignorant and absolutely helpless in matters concerning his pleasures and pains. He goes to svarga or naraka being directed by Iśvara, who rules over all," and also, "Inscrutable is Bhagavān. He cannot be ordered by any one. He can go wherever He chooses. He has all beings under His control. Like a child playing with its toys, He plays with beings (and enjoys His līlā)" -- in these ślokas, what is intended to be stated is only the jīva's entire dependence (on the Lord) and Iśvara treating him in accordance with his karma. (They do not prescribe the giving up of all endeavour on the part of the jīva ). If this interpretation is not accepted for the verse in Tiruvoymozhi (quoted above ) and for these ślokas, there will be conflict with all śāstras and also inconsistencies with what has been said before,
 
