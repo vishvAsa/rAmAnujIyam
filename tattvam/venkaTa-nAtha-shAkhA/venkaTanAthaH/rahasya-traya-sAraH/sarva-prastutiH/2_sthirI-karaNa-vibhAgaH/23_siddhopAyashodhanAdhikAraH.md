@@ -4933,7 +4933,7 @@ upāyas para ser adoptado para **asegurar** su gracia.
 
 
 
-## साध्योपाय-संशयाः
+## साध्योपायावकाशः
 ### साध्योपाय-विधिः
 <details><summary>English</summary>
 
@@ -5547,15 +5547,20 @@ Incluso los esfuerzos que **deben hacerse** para **obtener** alimentos.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘स्वयं मृत्-पिण्ड-भूतस्य  
-> पर-तन्त्रस्य देहिनः’’  
+> पर-तन्त्रस्य देहिनः।’’  
+> (स्वरक्षणेऽप्यशक्तस्य को हेतुः पररक्षणे॥)  
 > (भारतम् शान्ति-पर्व २९४-१९) 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
-‘‘स्वयं मृत्पिण्डभूतस्य परतन्त्रस्य देहिनः’’(भारतम् शान्ति-पर्व २९४-१९) 
+> ‘‘स्वयं मृत्-पिण्ड-भूतस्य  
+> पर-तन्त्रस्य देहिनः’’  
+> (स्वरक्षणेऽप्यशक्तस्य को हेतुः पररक्षणे॥)  
+> (भारतम् शान्ति-पर्व २९४-१९) 
 </details>
 
+<details><summary>English</summary>
 
 Likewise the following ślokas:-  
 
@@ -5564,11 +5569,105 @@ Likewise the following ślokas:-
 > and unable to help himself.  
 > How, then, can he protect another?," 
 
+</details>
+
+<details><summary>Español</summary>
+
+Del mismo modo, los siguientes Ślokas:- 
+
+> "El **ser** encarnado es como un trozo de arcilla  
+> **sujeto** a la voluntad de otro  
+> e **incapaz** de **ayudarse** a sí mismo.  
+> ¿Cómo, entonces, **puede proteger** a otro? "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘स्वयं मृत्पिण्डभूतस्य परतन्त्रस्य देहिनः’’(भारतम् शान्ति-पर्व २९४-१९) 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+‘‘स्वयं मृत्पिण्डभूतस्य’’ त्यादिगळुक्कु जीवऩ् अत्यन्तपरतन्त्रऩ् ऎऩ्बदिलेये तात्पर्यम्। ‘‘अप्रमेय’’ इत्यादि कळुक्कु ईश्वरऩ् स्वतन्त्रऩाय् कर्मानुगुणमाग जीवऩ्गळै प्रवर्तिप्पिक्किऱाऩ् ऎऩ्बदिलेये तात्पर्यमॆऩ्गिऱार् स्वयं मृत्पिण्डेत्यादिना । ‘‘स्वरक्षणेऽप्यशक्तस्य को हेतुः पररक्षणे’’ ऎऩ्बदु इदिऩ् उत्तरार्धम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अज्ञो जन्तुर् अनीशोऽयम्  
+आत्मनस् सुख-दुःखयोः ।  
+ईश्वर-प्रेरितो गच्छेत्  
+स्वर्गं वा श्वभ्रम्+++(=गर्तम्)+++ एव वा॥’’  
+(भारतम् शान्ति-पर्व १२-३६)  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अज्ञो जन्तुर् अनीशोऽयम्  
+आत्मनस् सुख-दुःखयोः ।  
+ईश्वर-प्रेरितो गच्छेत्  
+स्वर्गं वा श्वभ्रम्+++(=गर्तम्)+++ एव वा॥’’  
+(भारतम् शान्ति-पर्व १२-३६)  
+</details>
+
+<details><summary>English</summary>
+
 and 
 
 > " The jīva is ignorant and absolutely helpless in matters concerning his pleasures and pains.  
 > He goes to svarga or naraka being directed by Iśvara,  
 > who rules over all," 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "El Jīva **es** ignorante y absolutamente indefenso en asuntos sobre sus placeres y dolores.  
+> Él **va** a Svarga o Naraka **dirigido** por Iśvara,  
+> Quién **gobierna** sobre todo "
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अज्ञो जन्तुरनीशोऽयमात्मनस्सुखदुःखयोः ।  
+ईश्वरप्रेरितो गच्छेत् स्वर्गं वा श्वभ्रमेव वा॥’’  
+(भारतम् शान्ति-पर्व १२-३६)  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अज्ञः – ज्ञानशून्यऩ्, अनीशः – शक्तियऱ्ऱवऩ्, इन्द इरण्डु श्लोकङ्गळुम् जीवपारतन्त्र्यपरम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अ-प्रमेयो ऽनियोज्यश् च  
+यत्र-काम-गमो वशी ।  
+**मोदते** भगवान् भूतैर्  
+बालः क्रिडनकैर् इव॥’’  
+(भारतम् सबा-पर्व ४०-७८)  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अ-प्रमेयो ऽनियोज्यश् च  
+यत्र-काम-गमो वशी ।  
+**मोदते** भगवान् भूतैर्  
+बालः क्रिडनकैर् इव॥’’  
+(भारतम् सबा-पर्व ४०-७८)  
+</details>
+
+<details><summary>विषयः</summary>
+
+लीला, देवः
+</details>
+
+<details><summary>English</summary>
 
 and also, 
 
@@ -5581,14 +5680,129 @@ and also,
 > He plays with beings  
 > (and enjoys His līlā)" 
 
+</details>
+
+<details><summary>Español</summary>
+
+Y también,
+
+> "Inscrutable **es** Bhagavān.  
+> **No puede ser ordenado** por nadie.  
+> **Puede ir** a donde **sea** que **elija**.  
+> **Tiene** todos los seres bajo su control.  
+>
+> Como un niño **jugando** con sus juguetes,  
+> **Juega** con seres  
+> (y **disfruta** de su līlā) "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अप्रमेयोऽनियोज्यश्च यत्र काम गमो वशी ।  
+मोदते भगवान् भूतैर्बालः क्रिडनकैरिव॥’’  
+(भारतम् सबा-पर्व ४०-७८)  
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+अप्रमेयः – प्रमातुमयोग्यः । परिपूर्णऩॆऩ्ऱबडि। अनियोज्यः – इतरप्रेर्यऩऩ्ऱु स्वतन्त्रऩॆऩ्ऱबडि। यत्र कामगमः – यत्र कामस्तत्र गमः – गमनं यस्य तथोक्तः । वशी – वशे सर्वमस्येति वशी । भूतैः – कर्मानुगुणप्रवृत्तैः प्राणिभिः, क्रीडनकैः – क्रीडापरिकरङ्गळाऩ कन्तुकादिगळाले, इप्पडि प्राणिकळुक्कु क्रीडनकसाधर्म्यम् सॊल्लियिरुप्पदाल् उपायानुष्ठानम् वेण्डामॆऩ्ऱु शङ्गिप्पवऩिऩभिप्रायम्।  
+इङ्गु भूतशब्दम् कर्मानुगुण-प्रवृत्त-प्राणि-परम् आगैयाले  
+उपायानुष्ठानरूपकर्मत्तैप् पण्णि वैत्तु  
+तदनुगुणम् आगवे रक्षिक्कुमॆऩ्ऱु परिहारतात्पर्यम्।+++(5)+++ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिल्  
+जीवऩ्-उडैय पारतन्त्र्यमुम्  
+ईश्वरऩ् इवऩ्-उडैय-कर्मानुगुणम् आग नडत्तुम् बडियैयुञ्  
+जॊऩ्ऩव् इत्तऩै।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आदिषु जीवस्य पारतन्त्र्यम् 
+ईश्वरस्य कर्मानुगुण-प्रवर्तन-प्रकारञ्चोच्यत इत्य् एतावद् एव । 
+</details>
+
+
+<details><summary>English</summary>
+
 \-- in these ślokas, what is intended to be stated  
 is only the jīva's entire dependence (on the Lord)  
 and Iśvara treating him in accordance with his karma.  
 (They do not prescribe the giving up of all endeavour on the part of the jīva ). 
+</details>
+
+<details><summary>Español</summary>
+
+\- En estos Ślokas, lo que **se pretende** que **se indique**  
+**es** solo la **dependencia** completa del Jīva (del Señor)  
+e iśvara lo **trató** de **acuerdo** con su karma.  
+(**No prescriben** la renuncia de todo el **esfuerzo** por parte del Jīva).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिल् जीवऩुडैय पारतन्त्र्यमुम् ईश्वरऩिवऩुडैयकर्मानुगुणमाग नडत्तुम्बडियैयुञ्जॊऩ्ऩवित्तऩै।
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पाट्टुक्कुम् इव्-वचनङ्गळुक्कुम्  
+इप्पडि तात्पर्यम् अल्लाद बोदु  
+सर्व-शास्त्र-विरोधमुम्  
++++("तिरुमालिरुञ्जोलैमलैय् ऎऩ्ऱेऩ्" → ’इऩ्ऱ् ऎऩ्ऩैप् पॊरुळ् आक्कि’ इत्यत्र यथा)+++  
+पूर्वापर-विरोधमुम् वरुम्।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्या गाथाया एषां वचनानां चैवं तात्पर्ये ऽसति  
+सर्व-शास्त्र-विरोधः  
++++("तिरुमालिरुञ्जोलैमलैय् ऎऩ्ऱेऩ्" → ’इऩ्ऱ् ऎऩ्ऩैप् पॊरुळ् आक्कि’ इत्यत्र यथा)+++  
+पूर्वापर-विरोधश् च प्रसज्येयाताम् । 
+</details>
+
+
+<details><summary>English</summary>
 
 If this interpretation is not accepted for the verse in Tiruvoymozhi (quoted above ) and for these ślokas,  
 there will be conflict with all śāstras  
 and also inconsistencies with what has been said before.
+</details>
+
+<details><summary>Español</summary>
+
+Si esta interpretación **no se acepta** para el versículo en Tiruvoymozhi (citado anteriormente) y para estos Ślokas,  
+**Habrá conflicto** con todos los Śāstras  
+y también inconsistencias con lo que **se ha dicho** antes.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पाट्टुक्कुमिव्वचनङ्गळुक्कुमिप्पडि तात्पर्य मल्लादबोदु सर्वशास्त्रविरोधमुम् पूर्वापरविरोधमुम् वरुम्।  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+विपक्षत्तिल् बाधकमरुळिच्चॆय्गिऱार् इप्पाट्टुक्कुमित्यादिना । सर्वशास्त्रविरोधमुमिति ।  
+‘‘ज्योतिष्टोमेन स्वर्गकामो यजेत’’त्यादि स्वर्गाद्युपायविधायकशास्त्रङ्गळ् विरोधिक्कुम् ऎऩ्ऱबडि। 
+
+पूर्वापरविरोधमुमिति। ’’तिरुमालिरुञ्जोलैमलैयॆऩ्ऱेऩ्’’ ऎऩ्गिऱ आरम्भप् पासुरत्तिऱ्कुम् ’’इऩ्ऱ् ऎऩ्ऩैप् पॊरुळ् आक्कि’’ ऎऩ्गिऱव् इप्-पासुरत्तिऱ्कुम् विरोधम् वरुमॆऩ्ऱु करुत्तु। 
+</details>
+
+
+## संबन्ध-विशेष-मूलक-शङ्का-परिहारः
+
+
 
 So far we have dispelled certain misconceptions that may arise from a consideration of Iśvara's omnipotence and the compassion which is natural to Him. We will now proceed to clear doubts which might arise from a consideration of the peculiar relationship ( that exists between the jīva and Iśvara ).
 
