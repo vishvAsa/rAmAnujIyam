@@ -4842,7 +4842,8 @@ by seeing that they are punished for these offences (committed after prapatti) i
 
 इप्-पडिप् पट्ट कृपा-विशिष्टऩ् आऩ ईश्वरऩ्  
 
-> ‘‘कृष्णं धर्मं सनातनं’’(भारतम् आरण्य-पर्व ७१-१२३) 
+> ‘‘कृष्णं धर्मं +++(←उपायं)+++ सनातनं’’  
+> (भारतम् आरण्य-पर्व ७१-१२३) 
 
 ऎऩ्गिऱ बडिये सिद्धोपायम्। 
 </details>
@@ -4851,7 +4852,7 @@ by seeing that they are punished for these offences (committed after prapatti) i
 
 एवं-विध-कृपा-विशिष्ट ईश्वरः, 
 
-> ‘‘कृष्णं धर्मं सनातनं’’(भारतम् आरण्य-पर्व ७१-१२३) 
+> ‘‘कृष्णं धर्मं +++(←उपायं)+++ सनातनं’’(भारतम् आरण्य-पर्व ७१-१२३) 
 
 इत्य्-उक्त-रीत्या सिद्धोपायः । 
 </details>
@@ -4886,16 +4887,168 @@ is called Siddhopāya or the upāya that is already existent;  thus it is said:-
 इप्पडिप्पट्टकृपाविशिष्टऩाऩ ईश्वरऩ् ‘‘कृष्णं धर्मं सनातनं’’(भारतम् आरण्य-पर्व ७१-१२३) ऎऩ्गिऱबडिये सिद्धोपायम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+एतादृशकारुण्यविशिष्टऩाऩ भगवाऩे अलौकिकश्रयोरूपमोक्षसाधनमागैयाल् अवऩे सिद्धोपायमॆऩ्गिऱार् इप्पडिप्पट्ट इत्यादिना ।  
+कृष्णमित्यादि । सनातनं – नित्यम्। धर्मं – अलौकिकश्रेयस्साधनम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩुक्कुप् प्रसादनङ्गळ् आऩ भक्ति-प्रपत्तिगळ् साध्योपायङ्गळ्।  
+</details>
+
+<details><summary>English</summary>
+
+Bhakti and prapatti,  
+which are adopted as the means for making Him gracious  
+are called Sādhyopāyas (i.e.)  
+upāyas to be adopted for securing His grace.
+</details>
+
+<details><summary>Español</summary>
+
+Bhakti y Prapatti,  
+que **son adoptados** como el medio para **hacerlo amable**  
+**se llaman** Sādhyopāyas (es decir)  
+upāyas para ser adoptado para **asegurar** su gracia.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऩुक्कुप् प्रसादनङ्गळाऩ भक्तिप्रपत्तिकळ् साध्योपायङ्गळ्।  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इवऩुक्कु प्रसादनङ्गळाऩ - भगवाऩुडैय निग्रहनिवृत्तिरूप-प्रसादजनकङ्गळाऩ, 
+</details>
 
 
 
-Bhakti and prapatti, which are adopted as the means for making Him gracious are called Sādhyopāyas (i.e.) upāyas to be adopted for securing His grace.
+## साध्योपाय-संशयाः
+### उपाय-विधिः
+<details><summary>English</summary>
 
 THE CONTENTION THAT THERE IS NO INJUNCTION TO PERFORM PRAPATTI AS AN UPĀYA:
+</details>
 
-(2) The injunction to perform prapatti is contained in the words, "Seek refuge under me alone". Some say that it is not an injunction to perform prapatti and that this prapatti should be considered as an attribute of the person specified. We answer as follows :-- This attribute cannot be held as that of the person so concerned or qualified, as it does not satisfy the definition of an adjectival attribute[^65] . This statement is therefore contrary to pramâna or authority. If this were not so, while Iśvara is the upāya for bhakti, the śāstras which prescribe certain forms of meditation and the like might also be considered as speaking of the attributes of the person concerned and not actions to be performed.
+<details><summary>Español</summary>
 
-[^65]: He who desires svarga should perform the Jyotiṣṭoma sacrifice". Here, who desires svarga is an attribute or adjective of the person and the injunction is that he should perform the sacrifice. In Mam Ekam Saranam Vraja, the prapatti has to be performed after hearing the vidhi or in junction; it did not exist before, like the desire for svarga in the example cited. Therefore, it is not an attribute; besides vraja is a verb that prescribes an action.
+La **afirmación** de que  
+**no hay** una orden judicial  
+para **realizar** Prapatti como un upāya:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ओर् अधिकारि-विशेषत्तुक्कु कर्तव्यम् आग 
+> 
+> > २९‘‘माम् एकं शरणं व्रज’’(गीता १८-६६) 
+> 
+> ऎऩ्ऱु विधिक्कप् पडुगिऱ प्रपत्तियै  
+अधिकारि-विशेषणम् 
+
+ऎऩ्ऱु सिलर् सॊऩ्ऩव् इडम्  
+अधिकारि-विशेषणत्तुक्कुच् चॊल्लुम् लक्षणत्तोडु सेरामैयाले  
+अतिवादम्।  
+</details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+> स्वर्गकामो ज्योतिष्टोमेन यजेत
+
+इत्यत्र स्वर्गकामना न विहिता - तद् अधिकारि-विशेषणम्।  
+तत् पूर्वम् एव वर्तते।  
+यजेतेति तु विधिः।  
+अत्र व्रज +इति विधिस् तद्वत्।  
+शरण-व्रज्यायाः प्राग्-अभावत्वात् न तद् अधिकारि-विशेषणम्। 
+</details>
+
+
+<details><summary>English</summary>
+
+(2) The injunction to perform prapatti is contained in the words, 
+
+> "Seek refuge under me alone".  
+
+Some say that  
+it is not an injunction to perform prapatti  
+and that this prapatti should be considered as an attribute of the person specified. 
+
+We answer as follows :--  
+This attribute cannot be held as that of the person so concerned or qualified,  
+as it does not satisfy the definition of an adjectival attribute. 
+
+
+("He who desires svarga should perform the Jyotiṣṭoma sacrifice".  
+Here, who desires svarga is an attribute or adjective of the person  
+and the injunction is that he should perform the sacrifice.  
+In Mam Ekam Saranam Vraja,  
+the prapatti has to be performed after hearing the vidhi or injunction;  
+it did not exist before, like the desire for svarga in the example cited.  
+Therefore, it is not an attribute;  
+besides vraja is a verb that prescribes an action.)
+
+This statement is therefore contrary to pramâna or authority. 
+</details>
+
+<details><summary>Español</summary>
+
+(2) El mandato para realizar Prapatti  
+**está** contenido en las palabras,
+
+> "**Busque refugio** bajo mí solo".
+
+Algunos **dicen** que  
+**No es** una orden para **realizar** Prapatti  
+y que este Prapatti **debe considerarse**  
+como un atributo de la persona especificada.
+
+**Respondemos** de la siguiente manera:-  
+Este atributo **no puede mantenerse**  
+como el de la persona tan **preocupada** o calificada,  
+ya que **no satisface** la definición de un atributo adjetivo .
+
+
+("El que **desea** que Svarga **debería realizar** el sacrificio de Jyotiṣṭoma".   
+Aquí, quién **desea** svarga **es** un atributo o adjetivo de la persona  
+Y la orden **es** que debe **realizar** el sacrificio.  
+En "Mam Ekam Saranam Vraja",  
+El Prapatti **debe realizarse** después de **escuchar** el Vidhi o orden;  
+**No existía** antes, como el **deseo** de Svarga en el ejemplo **citado**.  
+Por lo tanto, **no es** un atributo;  
+Además, Vraja **es** un verbo que **prescribe** una acción.)
+
+Por lo tanto, esta declaración **es contraria** a Pramâna o autoridad.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ओरधिकारिविशेषत्तुक्कु कर्तव्यमाग २९‘‘मामेकं शरणं व्रज’’(गीता १८-६६) ऎऩ्ऱु विधिक्कप्पडुगिऱ प्रपत्तियै अधिकारिविशेषणमॆऩ्ऱु सिलर् सॊऩ्ऩविडम् अधिकारिविशेषणत्तुक्कुच् चॊल्लुम् लक्षणत्तोडु सेरामैयाले अतिवादम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+प्रपन्नऩुक्कु भगवाऩ् उपायमागैयाल् प्रपन्नत्वं अदावदु प्रपत्ति, अधिकारि विशेषणमेयॊऴिय साध्योपायमऩ्ऱॆऩ्ऱु सिलर् सॊल्लुवदु अधिकारिविशेषणत्तिऱ्कुच् चॊऩ्ऩ लक्षणमिल्लामैयाल् अतिवादमॆऩ्गिऱार् ओरधिकारिविशेषत्तुक्कु इत्यादिना । लक्षणविरोधत्तै उपपादिक्किऱार् कर्तव्यमाग इति ।  
+अधिकारिविशेषणम् विधेयमागादु, विधेयमाऩदु अधिकारिविशेषणमागादॆऩ्ऱबडि।  
+विधीयमान-क्रियाङ्गतया विधि-वाक्य-गम्यत्वं हि तल्-लक्षणम् । उक्तञ्च – 
+
+> ‘‘फलादिभ्यो विभिन्नत्वात्  
+> प्रपत्तिर् विध्य्-अनन्वयात् ।  
+> विधयान्तरहानश्च??  
+> नाधिकारि-विशेषणम्’’  
+
+इति ।  
+</details>
+
+
+
+
+If this were not so, while Iśvara is the upāya for bhakti, the śāstras which prescribe certain forms of meditation and the like might also be considered as speaking of the attributes of the person concerned and not actions to be performed.
+
 
 THE ROLE OF SIDDHOPĀYA AND SĀDHYOPĀYA
 
