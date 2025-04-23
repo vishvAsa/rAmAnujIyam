@@ -5446,18 +5446,17 @@ Como **se ve** en Tiruvaymoli (10-8-9), **citado** antes.
 किं **सुप्तस्** सो ऽथवा **मृत**?॥’’  
 (विष्णुधर्मः (?))  
 
+इत्य्-आदीन्य् अपि  
+रक्षकान्तरानन्वेषणार्थम् उक्तानीत्य् एव । 
+</details>
+
+<details><summary>विषयः</summary>
+
+जीविका, वृत्तिः, अर्थः, धर्मः, देवः
 </details>
 
 
-
-<details><summary>मूलम्</summary>
-
-‘‘यो मे गर्भगतस्यापि वृत्तिं कल्पितवान् प्रभुः ।  
-शेषवृत्तिविधानेऽपि किं सुप्तस्सोऽथवा मृत॥’’  
-(विष्णुधर्मः (?))  
-इत्यादिगळुम् रक्षकान्तरन्देडामैक्कुच् चॊऩ्ऩवैयत्तऩै; 
-</details>
-
+<details><summary>English</summary>
 
 The śloka  which says:  
 
@@ -5471,19 +5470,129 @@ The śloka  which says:
 and that the jīva has to do nothing at all by way of upāya or vyāja.  
 It should be taken only as meaning that we should not seek any other protector  
 (and not to forbid man from any form of endeavour). 
+</details>
+
+<details><summary>Español</summary>
+
+El Śloka que dice:
+
+> "El Señor que **tomó** los medios necesarios o upāya por hacerme vivir,  
+> Mientras aún en el vientre de mi madre -  
+> ¿Está ahora **dormido** o ahora **está muerto**?  
+> con respecto a los medios a **adoptar**  
+> Por **hacerme vivir** después de **haber nacido**? "
+
+\- Esto a veces **se cita** en apoyo de la **declaración** de que el Señor **está** solo el upāya  
+y que el Jīva **no tiene** que **hacer** nada en absoluto a través de Upāya o Vyāja.  
+Debe tomarse solo como **significado** que **no debemos buscar** ningún otro protector  
+(y **no prohibir** al hombre de ninguna forma de esfuerzo).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यो मे गर्भगतस्यापि वृत्तिं कल्पितवान् प्रभुः ।  
+शेषवृत्तिविधानेऽपि किं सुप्तस्सोऽथवा मृत॥’’  
+(विष्णुधर्मः (?))  
+इत्यादिगळुम् रक्षकान्तरन्देडामैक्कुच् चॊऩ्ऩवैयत्तऩै; 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडियागिल् ‘‘या म गर्भगतस्यापी’’ - त्यादिवचनङ्गळुक्कु भावमॆऩ्ऩवॆऩ्ऩ वरुळिच्चॆय्गिऱार् यो मे गर्भगतस्यापीति । यः - प्रभुः, गर्भगतस्यापि – कै काल्गळै नीट्टवुम् मुडक्कवुम् क्षमऩऩ्ऱिक्के गर्भत्तिले यिरुन्दवऩुक्कुम्, वृत्तिं कल्पितवान् – जीवनानुगुणवृत्तियै सङ्गल्बित्ताऩो; शेषवृत्तिविधानेऽपि – बाल्याद्यवस्थैकळिल् जीवनविधानत्तिलुम्, किमित्यादि । अन्द ईश्वरऩ् सुप्तऩायिरुक्किऱाऩो अल्लदु मृतऩाऩाऩो ऎऩ्ऱबडि। 
+
+इङ्गु सामान्यमाग उपायानुष्ठानत्तै निषधिप्पदागत् तोऱ्ऱुगैयाल् मोक्षोपायानुष्ठाननिषेधमुम् सिद्धिक्कुमॆऩ्ऱु पूर्वपक्षियिऩ् अभिप्रायम्। इदिऩ् भावत्तैयरुळिच्चॆय्गिऱार् रक्षकान्तरम् तेडामैक्कुच् चॊऩ्ऩ वैयत्तऩै इति । 
+
+नमक्कु अत्यन्ताशक्यमाऩ गर्भवासादिदशैयिलुम् रक्षित्त ईश्वरऩ्  
+सर्वदा जागरूकऩ् आयिरुक्क  
+देहयात्रैक्काग वेऱॊरुवऩैत् तेडवेण्डाम् ऎऩ्ऱु  
+सॊऩ्ऩदत्तऩैबोक्कि निर्व्यापारऩाग इरुक्कवेणुमॆऩ्ऱु सॊऩ्ऩबडियऩ्ऱॆऩ्ऱु करुत्तु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लाद बोदु भोजनादिव्-यापारङ्गळुन् तविर+++(=विहानं)+++ वेणुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा भोजनादि-व्यापारा अपि त्याज्याः प्रसज्येरन् । 
+</details>
+
+<details><summary>English</summary>
 
 Otherwise one will have to give up  
 even such endeavours as have to be made for obtaining food.
+</details>
 
-Likewise the following ślokas:-" The embodied being is like a lump of clay subject to the will of another and unable to help himself. How, then, can he protect another?," and " The jīva is ignorant and absolutely helpless in matters concerning his pleasures and pains. He goes to svarga or naraka being directed by Iśvara, who rules over all," and also, "Inscrutable is Bhagavān. He cannot be ordered by any one. He can go wherever He chooses. He has all beings under His control. Like a child playing with its toys, He plays with beings (and enjoys His līlā)" -- in these ślokas, what is intended to be stated is only the jīva's entire dependence (on the Lord) and Iśvara treating him in accordance with his karma. (They do not prescribe the giving up of all endeavour on the part of the jīva ). If this interpretation is not accepted for the verse in Tiruvoymozhi (quoted above ) and for these ślokas, there will be conflict with all śāstras and also inconsistencies with what has been said before,
+<details><summary>Español</summary>
+
+De lo contrario, uno **tendrá** que **rendirse**+++(??)+++  
+Incluso los esfuerzos que **deben hacerse** para **obtener** alimentos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अल्लादबोदु भोजनादिव्यापारङ्गळुन् दविरवेणुम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+विपक्षे बाधकमरुळिच्चॆय्गिऱार् अल्लादबोदु इत्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘स्वयं मृत्-पिण्ड-भूतस्य  
+> पर-तन्त्रस्य देहिनः’’  
+> (भारतम् शान्ति-पर्व २९४-१९) 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘स्वयं मृत्पिण्डभूतस्य परतन्त्रस्य देहिनः’’(भारतम् शान्ति-पर्व २९४-१९) 
+</details>
+
+
+Likewise the following ślokas:-  
+
+> "The embodied being is like a lump of clay  
+> subject to the will of another  
+> and unable to help himself.  
+> How, then, can he protect another?," 
+
+and 
+
+> " The jīva is ignorant and absolutely helpless in matters concerning his pleasures and pains.  
+> He goes to svarga or naraka being directed by Iśvara,  
+> who rules over all," 
+
+and also, 
+
+> "Inscrutable is Bhagavān.  
+> He cannot be ordered by any one.  
+> He can go wherever He chooses.  
+> He has all beings under His control.  
+> 
+> Like a child playing with its toys,  
+> He plays with beings  
+> (and enjoys His līlā)" 
+
+\-- in these ślokas, what is intended to be stated  
+is only the jīva's entire dependence (on the Lord)  
+and Iśvara treating him in accordance with his karma.  
+(They do not prescribe the giving up of all endeavour on the part of the jīva ). 
+
+If this interpretation is not accepted for the verse in Tiruvoymozhi (quoted above ) and for these ślokas,  
+there will be conflict with all śāstras  
+and also inconsistencies with what has been said before.
 
 So far we have dispelled certain misconceptions that may arise from a consideration of Iśvara's omnipotence and the compassion which is natural to Him. We will now proceed to clear doubts which might arise from a consideration of the peculiar relationship ( that exists between the jīva and Iśvara ).
 
-(4) THE CONTENTION THAT BEGGING FOR
-
-PROTECTION IS INCONSISTENT WITH
-
-OUR RELATIONSHIP TO THE SESHI.
+(4) THE CONTENTION THAT BEGGING FOR PROTECTION IS INCONSISTENT WITH OUR RELATIONSHIP TO THE SESHI.
 
 There are some who deny the need for sādhyopaya or the means or endeavour for winning the Lord's grace, by stressing the point that He is the śeṣī  for whom we exist and to whom we belong. (They argue as follows): "Iśvara is the śeṣī  and we are like His sucklings as expressed by the sages to ŚrīRāma: "We are like babies in the embryo", who ever heard of a suckling doing anything other than crying for mother's milk, such as paying wages for it? Would it be consistent with the essential nature (svarūpa) of the jīva to perform the surrender of the self (atma samarpanam), to ask for protection, to have full faith in His protection and such other things ?".
 
