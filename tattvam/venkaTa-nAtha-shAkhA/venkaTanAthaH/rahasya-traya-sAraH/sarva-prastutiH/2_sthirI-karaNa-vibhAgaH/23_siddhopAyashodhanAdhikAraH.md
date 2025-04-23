@@ -4310,6 +4310,17 @@ en todo lo siguiente -
 इदु त्रिविधचेतनर्गळुडैय सत्तास्थितिकळुक्कुम्, अनुकूलवृत्तिकळुक्कुम्, 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इदिऩ् कार्यविशेषत्तिऩ् परम्परैयैक् काट्टुगिऱार्  
+इदु त्रिविधचेतनर्गळुडैय सत्तास्थितिकळुक्कुमित्यादिना ।  
+सत्ता – स्वरूप लाभम्।  
+स्थितिः – लब्धस्वरूपस्य कालान्तरानुवृत्तिः ।  
+अनुकूलवृत्तिकळ् - शेषिकैङ्कर्यमुम् तदुपयुक्तव्यापारङ्गळुम्।  
+त्रिविधचतनर्गळुडैय ऎऩ्बदै इङ्गेयुम् कूट्टुवदु।  
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्यर्-उडैय नित्यानुभवत्तुक्कुम्,  
@@ -4366,6 +4377,13 @@ en todo lo siguiente -
 लीलाविभूतियिल् सामान्यसृष्ट्यादिगळुक्कुम्, 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+लीलाविभूतियिल् सामान्यसृष्ट्यादिगळुक्कुमिति ।  
+सृष्टिमात्रे भगवत्कृपैये कारणम्, वैषम्यम् कर्मकृतमॆऩ्ऱु करुत्तु। आदिशब्दत्ताल्रक्षणसामान्यम् विवक्षितम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वावतार-रूपैय् आऩ शुद्ध-सृष्टिक्कुम्,  
@@ -4375,8 +4393,6 @@ en todo lo siguiente -
 
 स्वावतार-रूपायाः शुद्ध-सृष्टेः,  
 </details>
-
-
 
 <details><summary>English</summary>
 
@@ -4388,11 +4404,16 @@ en todo lo siguiente -
 - En la **creación** pura **llamó** a su avatār **no contaminado** con la materia,
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स्वावताररूपैयाऩ शुद्धसृष्टिक्कुम्,
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+स्वावताररूपैयाऩ शुद्ध सृष्टिक्कुमिति । कारुण्यत्तालेयेदाऩ् अवदरिक्किऱाऩ् ऎऩ्ऱबडि। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4427,6 +4448,13 @@ en todo lo siguiente -
 शास्त्र-प्रवर्तनत्तुक्कुम्, अदडियाग तत्त्वहितविषयमाऩ ज्ञानत्तैप् पिऱप्पिक्कैक्कुम्, 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+शास्त्र प्रवर्तनत्तुक्कुमिति । कारुण्यमिल्लाविडिल् सकलश्रेयोहेतुवाऩ शास्त्रत्तै प्रवर्तिप्पिक्कमाट्टाऩिऱे।  
+अदडियाग तत्त्वहितविषयमाऩ ज्ञानत्तैप् पिऱप्पिक्कैक्कुमिति । कारुण्यमिल्लाविडिल् शास्त्रप्रवर्तनमुम् तन्मूलमाऩ तत्त्वहितादिविषयकज्ञानजननमुम् घटियातिऱे। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मोक्ष श्रद्धैयैय् उण्डाक्कुगैक्कुम्,  
@@ -4460,6 +4488,12 @@ which would become the vyāja or upāya for causing the eagerness for mokṣa ,
 मोक्ष श्रद्धैयैयुण्डाक्कुगैक्कुम्, इदु कॊडुक्कैक्कु व्याजमाऩ सुकृतविशेषत्तुक्कुम्, 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+मोक्षश्रद्धैयैयुण्डाक्कुगैक्कुमिति । सहजकारुण्यमिल्लाविडिल् यादृच्छिकसुकृतादिमूलकमोक्षश्रद्धैयुण्डागादिऱे। इदु कॊडुक्कैक्कु – मोक्षप्रदानत्तिऱ्कु। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4488,6 +4522,12 @@ which would become the vyāja or upāya for causing the eagerness for mokṣa ,
 
 अधिकारानुरूपङ्गळाऩ निग्रहशमनोपायङ्गळैक् कॊडुक्कैक्कुम्, 
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अधिकारानुरूपङ्गळाऩ - सकिञ्चनत्वाकिञ्चनत्वरूपाधिकारानुगुणङ्गळाऩ, निग्रहशमनोपायङ्गळै - भक्तिप्रपत्तिकळै, 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4518,6 +4558,13 @@ which would become the vyāja or upāya for causing the eagerness for mokṣa ,
 
 इवऱ्ऱिल् करणप्रेरणदशैयिल् सहकारियाय् निऱ्कैक्कुम्, 
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+करणप्रेरणदशैयिल् -  
+मन-आदिकरणङ्गळै प्रेरेपित्तु उपायानुष्ठानम् पण्णुम् दशैयिल्,  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4552,6 +4599,18 @@ quien **ha adoptado** a Bhakti como el upāya (upāsaka) en pie,
 उपासकऩुक्कन्तरायम् वन्दाल् प्रतिसमाधानम् पण्णुविक्कैक्कुम्, 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+उपासकऩुक्कु अन्तरायम् वन्दाल् प्रतिसमाधानम् पण्णुविक्कैक्कुमिति । 
+
+> ‘‘अपि चेत् पातकं किञ्चिद्  
+> योगी कुर्यात् प्रमादतः ।  
+> योगमेव निषेवेत’’  
+
+ऎऩ्गिऱबडि लघुप्रायश्चित्तरूपमाऩ प्रतीकारत्तैप् पण्णुविक्कैक्कुमॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकिञ्चनर्क्कु उपाय-स्थानत्तिले निऩ्ऱु निर्-अपायम् आग रक्षिक्कैक्कुम्,
@@ -4581,6 +4640,11 @@ quien **ha adoptado** a Bhakti como el upāya (upāsaka) en pie,
 <details><summary>मूलम्</summary>
 
 अकिञ्चनर्क्कु उपायस्थानत्तिले निऩ्ऱु निरपायमाग रक्षिक्कैक्कुम्,
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अकिञ्चनर्क्कु इत्यादि । भक्तविषयत्तिल् अङ्गप्रपत्तियुम् पण्णि अङ्गियाऩ उपासनत्तैयुम् पण्णिऩाल् ‘‘माक्षयिष्यामि’’ ऎऩ्ऱु सङ्कल्पत्तैप् पण्णुमवऩ् स्वतन्त्रप्रपत्तियै अनुष्ठित्ताल् अङ्गियाऩ भक्तिरूपोपायस्थानत्तिले ताऩे निऩ्ऱु अदावदु भक्तिरूपोपायमिल्लामले निरपायमाग रक्षिक्कैक्कुमॆऩ्ऱबडि। 
 </details>
 
 
@@ -4621,6 +4685,8 @@ quien **ha adoptado** a Bhakti como el upāya (upāsaka) en pie,
 
 इव्व्याजङ्गळैक् कॊण्डु प्रसन्नऩाय् अनादिकालम् पण्णिऩ अनन्तमहापराधङ्गळै अनादरित्तु अनन्तसुखत्तिले विश्रमिक्कुम्बडि संसारनिवर्तकऩागैक्कुम्, 
 </details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4743,7 +4809,7 @@ by seeing that they are punished for these offences (committed after prapatti) i
 
 <details><summary>नीलमेघः (सं)</summary>
 
-प्रधानं सामान्य-निदानं भवति । 
++++(करुणा)+++ प्रधानं सामान्य-निदानं भवति । 
 </details>
 
 <details><summary>English</summary>
@@ -4761,6 +4827,17 @@ by seeing that they are punished for these offences (committed after prapatti) i
 प्रधानमाऩ सामान्यनिदानमायिरुक्कुम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+प्रधानमाऩ सामान्यनिदानमायिरुक्कुमिति ।  
+तत्-तद्-अङ्कुरादिगळुक्कु  
+तत्-तद्-बीजादिगळ् विशेष-कारणम् आगिऱाप् पोल्  
+अऩ्ऱिक्के सर्वाङ्कुर-साधारणम् आऩ जल-पङ्कादिगळैप् पोले  
+साधारणम् आय् प्रधान-कारणमुम् आय् इरुक्कुम् ऎऩ्ऱबडि। +++(5)+++
+</details>
+
+
+### सिद्धोपायता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिप् पट्ट कृपा-विशिष्टऩ् आऩ ईश्वरऩ्  
@@ -4770,11 +4847,20 @@ by seeing that they are punished for these offences (committed after prapatti) i
 ऎऩ्गिऱ बडिये सिद्धोपायम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं-विध-कृपा-विशिष्ट ईश्वरः, 
+
+> ‘‘कृष्णं धर्मं सनातनं’’(भारतम् आरण्य-पर्व ७१-१२३) 
+
+इत्य्-उक्त-रीत्या सिद्धोपायः । 
+</details>
+
+
 <details><summary>English</summary>
 
 Iśvara, who is endowed with compassion as described above,  
 is called Siddhopāya or the upāya that is already existent;  thus it is said:-
-
 
 > Those Brahmins who know the first part of the Veda  
 > and those who know the latter part of it,  
