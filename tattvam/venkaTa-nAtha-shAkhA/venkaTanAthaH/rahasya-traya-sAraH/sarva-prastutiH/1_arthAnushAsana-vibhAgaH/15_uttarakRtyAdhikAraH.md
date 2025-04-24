@@ -218,9 +218,9 @@ This line of conduct is an end in itself;
 
 <details><summary>Español</summary>
 
-... debería seguir una línea de conducta  
-Lo que sería más encantador como los servicios sucesivos prestados por las almas liberadas (en el cielo).  
-Esta línea de conducta es un fin en sí misma;
+... **debería seguir** una línea de conducta  
+Lo que **sería** más encantador como los servicios sucesivos prestados por las almas liberadas (en el cielo).  
+Esta línea de conducta **es** un fin en sí misma;
 </details>
 
 <details><summary>मूलम्</summary>
@@ -239,12 +239,12 @@ Esta línea de conducta es un fin en sí misma;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शास्त्र-विभक्त-काल-विशेष-नियतम् आय्  
+शास्त्र-विभक्त-काल-विशेष-नियतम् आय् +++(←न तु यथेष्टस्य)+++ +++(5)+++  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-[शास्त्र-विभक्त-काल-विशेष-नियतस्य]
+[शास्त्र-विभक्त-काल-विशेष-नियतस्य] +++(←न तु यथेष्टस्य)+++ +++(5)+++  
 </details>
 
 <details><summary>English</summary>
@@ -254,8 +254,8 @@ it has been prescribed for him in the śāstras as required to be done (in certa
 
 <details><summary>Español</summary>
 
-Se ha prescrito para él en los śāstras  
-como se requiere que se haga (en ciertas divisiones específicas de tiempo);  
+**Se ha prescrito** para él en los śāstras  
+como **se requiere** que se haga (en ciertas divisiones específicas de tiempo);  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -291,13 +291,13 @@ como se requiere que se haga (en ciertas divisiones específicas de tiempo);
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तर-कैङ्कर्यत्तुक्कु अवसर-लाभार्थम् आग  
-पूर्व-कैङ्कर्यम् +++(पूर्णतापत्त्या)+++ तलैक्-कट्ट-वेण्डुम् बडि सङ्गिलित् तुवक्क् आय् 
+पूर्व-कैङ्कर्यम् +++(पूर्णतापत्त्या सङ्कोचेन वापि)+++ तलैक्-कट्ट-वेण्डुम् बडि सङ्गिलित्+++(=शृङ्खलित)+++ तुवक्क् आय् 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 उत्तर-कैङ्कर्यस्यावसरलाभार्थं  
-पूर्व-कैङ्कर्यं यथा परिपूर्णं स्यात् तथा शृङ्खलितस्य, 
+पूर्व-कैङ्कर्यं यथा +++(क्वचित् सङ्कोचेन वापि)+++ परिपूर्णं स्यात् तथा शृङ्खलितस्य, 
 </details>
 
 <details><summary>English</summary>
@@ -307,7 +307,7 @@ it is a form of service connected by links to the service which is to follow imm
 
 <details><summary>Español</summary>
 
-Es una forma de servicio conectada por enlaces al servicio que debe seguir inmediatamente después
+**Es** una forma de servicio conectada por **enlaces** al servicio que debe seguir inmediatamente después
 </details>
 
 
@@ -318,20 +318,23 @@ Es una forma de servicio conectada por enlaces al servicio que debe seguir inmed
 
 <details><summary>सार-बोधिनी</summary>
 
-अवैगळिल् नियतमाय्, इन्द नैयत्यत्तै उपपादिक्किऱार् उत्तरकैङ्कर्यत्तुक्कु इत्यादिना । मेल् वरप्पोगिऱ उपादानकैङ्कर्यत्तिऱ्कु अवसरप्राप्ति आवश्यकमागैयाल् तदर्थम्, पूर्वकैङ्कर्यम् - प्रातरभिगमनरूपकैङ्कर्यम्।  
+अवैगळिल् नियतम् आय्,  
+इन्द नैयत्यत्तै उपपादिक्किऱार्  
+उत्तर-कैङ्कर्यत्तुक्कु इत्यादिना ।  
+मेल् वरप्-पोगिऱ उपादान-कैङ्कर्यत्तिऱ्कु अवसर-प्राप्ति आवश्यकम् आगैयाल्  
+तदर्थम्, पूर्वकैङ्कर्यम् - प्रातर्-अभिगमन-रूप-कैङ्कर्यम्।  
 तलैक् कट्टवेण्डुम्बडि - अवश्यम् मुडिक्क वेण्डुम्बडि। सङ्गिलित्तुवक्काय् - अयश्शृङ्खलाबन्धम्बोले अन्योन्यसक्तमाय्, 
 
 > ‘‘अभिगच्छन् हरिं प्रातः  
 > पश्चात् द्रव्याणि चार्जयन् ।  
 > अर्चयंश्च ततो देवं  
-> ततो मन्त्रान् जपन्नपि ॥  
+> ततो मन्त्रान् जपन्न् अपि ॥  
 > ध्यायन्नपि परं देवं  
 > कालेषूक्तेषु पञ्चसु’’ 
 
 ऎऩ्गिऱबडिये पूर्वोत्तरभावरूप-सम्बन्धविशिष्टमायॆऩ्ऱबडि। 
 
 </details>
-
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -353,8 +356,8 @@ and is also its effect.
 
 <details><summary>Español</summary>
 
-y es el medio para ganar el favor del maestro  
-y también es su efecto.
+y **es** el medio para ganar el favor del maestro  
+y también **es** su efecto.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -373,7 +376,8 @@ y también es su efecto.
 > ‘‘व्रतान्तम् अखिलं कालं  
 > **सेचयत्य्** अमृतेन तु’’ 
 
-ऎऩ्गिऱ बडि इवैगळ् भगवत्-प्रीति-कार्यङ्गळ् आगैयालेयुम्  
+ऎऩ्गिऱ बडि  
+इवैगळ् भगवत्-प्रीति-कार्यङ्गळ् आगैयालेयुम्  
 शेषत्व-रसिकऩुक्कु भगवत्-प्रसाद-लब्धत्वेन अवैगळुम् पुरुषार्थङ्गळ् आगुम् इऱे।  
 "कष्टं कर्म" ऎऩ्बदु अन्यविषयम् -  
 पुरुषार्थेतर-विषयम् ऎऩ्ऱबडि। 
@@ -381,7 +385,7 @@ y también es su efecto.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'वासित्तुङ्, केट्टुम्, वणङ्गि, वऴि पट्टुम्, पूजित्तुम् पोक्किऩेऩ् पोदु'
+> 'वासित्तुङ्, केट्टुम्, वणङ्गि, +++(सद्-)+++वऴि पट्टुम्, पूजित्तुम् पोक्किऩेऩ् पोदु'
 > (नाऩ्मुगऩ् तिरुवन्दादि ६३।) 
 
 ऎऩ्ऱुम्,  
@@ -390,7 +394,7 @@ y también es su efecto.
 <details><summary>नीलमेघः (सं)</summary>
 
 > '1 पठित्वा, श्रुत्वा, प्रणम्य,  
-> मार्गे एव गत्वा, संपूज्य, चानैषं कालम्" 
+> +++(सद्-)+++मार्गे एव गत्वा, संपूज्य, चानैषं कालम्" 
 
 इति 
 
@@ -411,15 +415,15 @@ and thus saw to it that my time was not spent in vain".
 
 <details><summary>Español</summary>
 
-Los siguientes pasajes indican esta línea de conducta;-
+Los siguientes pasajes **indican** esta línea de conducta;-
 
-"Leí los libros que describen los atributos y cualidades de Bhagavān;  
-Escuché a otras personas que los leían  
-Me incliné ante él  
-Lo adoraba siempre  
-y le realizó un servicio  
-y así me enteró que mi tiempo  
-no fue gastado en vano ".
+"**Leí** los libros que **describen** los atributos y cualidades de Bhagavān;  
+**Escuché** a otras personas que los **leían**  
+Me **incliné** ante él  
+Lo **adoraba** siempre  
+y le **realizó** un servicio  
+y así me **enteró** que mi tiempo  
+**no fue gastado en vano** ".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -434,9 +438,9 @@ no fue gastado en vano ".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'सीर्+++(=सुगुण)+++-कलन्द सॊल् निऩैन्दु पोक्कारेल्+++(=न निवर्तयेयुश् चेत्)+++  
-> सूऴ्+++(=व्यापि?)+++-विऩैयिऩ्-आऴ्+++(=गम्भीर)+++-तुयरैय्+++(=दुःखं)+++  
-> ऎऩ् ऩिऩैन्दु पोक्कुवर् इप्पोदु'  
+> 'सीर्+++(=सुगुण)+++-कलन्द सॊल् **निऩैन्दु +++(संसारदुःखं)+++ पोक्कारेल्**+++(=न निवर्तयेयुश् चेत्)+++  
+> सूऴ्+++(=पर्याक्रमत्)+++-विऩैयिऩ्-आऴ्+++(=गम्भीर)+++-तुयरैय्+++(=दुःखं)+++  
+> ऎऩ् **ऩिऩैन्दु पोक्कुवर्** इप्-पोदु'  
 > (पॆरिय तिरुवन्दादि ८६) 
 
 ऎऩ्ऱुम्,  
@@ -444,7 +448,7 @@ no fue gastado en vano ".
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> कल्याण-गुण-युक्त-सूक्तीर् **अनुसन्धाय न निवर्तयेयुश्** चेत्  
+> कल्याण-गुण-युक्त-सूक्तीर् **अनुसन्धाय न +++(संसारदुःखं)+++ निवर्तयेयुश्** चेत्  
 अभिव्यापि-कर्म-जनितम् अ-गाध-दुःखं,  
 किम् **अनुसन्धाय निवर्तयेयुर्** इदानीम्  
 
@@ -464,13 +468,13 @@ no fue gastado en vano ".
 
 <details><summary>Español</summary>
 
-> "Los hombres deberían deshacerse de su dolor  
-> que es tan profundo como el mar  
-> Debido al karma pasado que rodea el alma,  
-> meditando sobre esos pasajes  
-> que revelan las cualidades del Señor.  
-> Si no lo hicieran,  
-> ¿Por qué otro pensamiento pueden deshacerse de su dolor mientras están en Saṁsāra? "
+> "Los hombres **deberían** deshacerse de su dolor  
+> que **es** tan profundo como el mar  
+> Debido al karma pasado que **rodea** el alma,  
+> **meditando** sobre esos pasajes  
+> que **revelan** las cualidades del Señor.  
+> Si **no lo hicieran**,  
+> ¿Por qué otro pensamiento **pueden deshacerse** de su dolor mientras **están** en Saṁsāra? "
 </details>
 
 
@@ -487,8 +491,8 @@ no fue gastado en vano ".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'ऒऴिव्+++(=विच्छेद)+++-इल्-कालम् ऎल्लाम् उडऩ् आय्  
-> मऩ्ऩि+++(=सार्वत्रिक)+++-वऴुव्+++(=प्रमाद)+++-इलाव् अडिमै सॆय्य-वेण्डु नाम्' 
+> 'ऒऴिव्+++(=विच्छेद)+++-इल् कालम् ऎल्लाम् उडऩ् आय्  
+> मऩ्ऩि+++(=सह्य)+++-वऴुव्+++(=प्रमाद)+++-इलाव् अडिमै सॆय्य-वेण्डु नाम्' 
 > (तिरुवाय्मॊऴि ३-३-१) 
 
 ऎऩ्ऱुम्, 
@@ -512,7 +516,7 @@ no fue gastado en vano ".
 
 <details><summary>Español</summary>
 
-> "Deberíamos, sin intermedio, prender servicio al Señor  
+> "**Deberíamos**, sin intermedio, **prender** servicio al Señor  
 > en todos los lugares y en todas las circunstancias y en todo momento ".
 </details>
 
@@ -524,9 +528,9 @@ no fue gastado en vano ".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'पॊङ्ग् एऴ् पुगऴ्गळ् **वायव् आय्**  
+> 'पॊङ्ग् एऴ् पुगऴ्गळ् **वायवाय्**  
 > पुलऩ्+++(=इन्द्रिय)+++-गॊळ्-वडिवॆऩ्+++(=विग्रहः)+++ **मऩत्तद् आय्**  
-> अङ्गे मलर्गळ् **कैय्यव् आय्**  
+> अङ्गे मलर्गळ् **कैय्यवाय्**  
 > वऴि-पट्ट् **ओडव् अरुळिल्**'(तिरुवाय्मॊऴि ८-१०-४।) +++(5)+++  
 > +++(इङ्गे तिरिन्देर्क्कु इऴुक्क् उऱ्ऱ् ऎऩ्?)+++
 
@@ -556,13 +560,13 @@ no fue gastado en vano ".
 
 <details><summary>Español</summary>
 
-> "Si el Señor es tan amable  
-> como para permitirme pasar mi tiempo  
-> siempre con los pasajes que describen sus cualidades en mi boca,  
-> con su forma aliviar el ojo y otros sentidos en mi mente,  
-> y con flores se ajusta lo suficiente para su forma en mis manos  
-> - Si encuentro esta gracia,  
-> ¿Qué hay desagradable para mí mientras vive aquí?
+> "Si el Señor **es** tan amable  
+> como para **permitirme pasar** mi tiempo  
+> siempre con los pasajes que **describen** sus cualidades en mi boca,  
+> con su forma **aliviar** el ojo y otros sentidos en mi mente,  
+> y con flores **se ajusta** lo suficiente para su forma en mis manos  
+> \- Si **encuentro** esta gracia,  
+> ¿Qué **hay desagradable** para mí mientras vive aquí?
 </details>
 
 
@@ -579,7 +583,7 @@ no fue gastado en vano ".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-'नाडाद +++(=दुर्लभानि)+++ मलर् नाडि+++(=लब्ध्वा)+++'(तिरुवाय्मॊऴि १-४-९) +++(5)+++  
+'नाडाद +++(=दुर्लभानि)+++ +++(आत्म-गुणाः→)+++मलर् नाडि+++(=लब्ध्वा)+++'(तिरुवाय्मॊऴि १-४-९) +++(5)+++  
 (नाळ्-तोऱुम् नारणऩ्-तऩ्-वाडाद-मलर्-अडिक्-कीऴ् वैक्कवे)
 
 ऎऩ्ऱुम्,  
@@ -605,9 +609,9 @@ in order that they may be placed at the Lord's feet"
 
 <details><summary>Español</summary>
 
-> "Nací para buscar flores  
-> que sean difíciles de obtener  
-> Para que puedan colocarse a los pies del Señor "
+> "**Nací** para **buscar** flores  
+> que **sean** difíciles de **obtener**  
+> Para que **puedan colocarse** a los pies del Señor "
 </details>
 
 
@@ -618,7 +622,7 @@ in order that they may be placed at the Lord's feet"
 
 <details><summary>सार-बोधिनी</summary>
 
-नाडाद मलर् नाडि - तेडवरिय पुष्पङ्गळॆल्लाम् तेडि, अथवा आन्तरपुष्पत्तैच् चॊल्लुगिऱदु ऎऩ्बारुम् उण्डु।  
+नाडाद मलर् नाडि - तेडव् अरिय पुष्पङ्गळॆल्लाम् तेडि, अथवा आन्तर-पुष्पत्तैच् चॊल्लुगिऱदु ऎऩ्बारुम् उण्डु।  
 इदऱ्कु 'नाडोऱुम् नारणऩ् तऩ् वाडाद मलरडिक्कीऴ् वैक्कवे' ऎऩ्बदोडन्वयम्। नाळ्दोऱुम् नारायणऩुडैय सॆव्विमाऱाद पूप्पोलेयिरुक्किऱ तिरुवडिगळिऩ् समीबत्तिले समर्पिक्कैक्कागवे ऎऩ्गै। 
 </details>
 
@@ -627,7 +631,7 @@ in order that they may be placed at the Lord's feet"
 > 'वडिव्+++(=विग्रह)+++-इणैय्+++(=सादृश्य)+++-इल्ला मलर्-मगळ्,  
 > मऱ्ऱ निल+++(=भू)+++-मगळ् पिडिक्कु  
 > मॆल्ल्+++(=मृदु)+++-अडियैक्  
-> कॊडु+++(=क्रूर)+++-विऩैय् एऩुम्+++(=अहम् अपि)+++ पिडिक्क'(तिरुवाय्मॊऴि ९-२-१०) 
+> कॊडु+++(=क्रूर)+++-विऩैयेऩुम्+++(=कर्मवान् अपि)+++ **पिडिक्क**'(तिरुवाय्मॊऴि ९-२-१०) 
 
 ऎऩ्ऱुम्,  
 </details>
@@ -650,10 +654,10 @@ and the other, viz, the goddess of the Earth!”
 
 <details><summary>Español</summary>
 
-"¿Puedo yo, el pecador que soy?  
-Presione los pies tiernos del Señor  
-que son suavemente presionados por el lakṣmī incomparablemente hermoso  
-¡Y el otro, a saber, la diosa de la tierra!
+"**¿Puedo** yo, el **pecador** que soy  
+**Presione** los pies tiernos del Señor  
+que son suavemente **presionados** por el lakṣmī incomparablemente hermoso  
+Y el otro, a **saber**, la diosa de la tierra!
 </details>
 
 <details><summary>मूलम्</summary>
@@ -691,9 +695,9 @@ que son suavemente presionados por el lakṣmī incomparablemente hermoso
 
 <details><summary>Español</summary>
 
-> “This is the only object that I desire –  
-> that the Lord should take me into His service  
-> for His own satisfaction". 
+> “Este **es** el único objeto que deseo -  
+> que el Señor **me lleva** a su servicio  
+> por su propia satisfacción ".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -711,7 +715,7 @@ que son suavemente presionados por el lakṣmī incomparablemente hermoso
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'उऩक्के नाम् आट्+++(=क्रीडाम्??)+++ चॆय्वोम्'(तिरुप्पावै २९।) 
+> 'उऩक्के नाम् आट्+++(ळ्)+++ चॆय्वोम्'(तिरुप्पावै २९।) 
 
 ऎऩ्ऱुम्,  
 </details>
@@ -730,7 +734,7 @@ que son suavemente presionados por el lakṣmī incomparablemente hermoso
 
 <details><summary>Español</summary>
 
-> "Vamos a prender el servicio, oh Señor, solo para ti".
+> "**Vamos a prender el servicio**, oh Señor, solo para ti".
 </details>
 
 
