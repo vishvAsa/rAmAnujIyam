@@ -28,7 +28,7 @@ THE CHAPTER ON THE MANNER IN WHICH ONE SHOULD CONDUCT ONESELF AFTER PRAPATTI. pa
 
 <details><summary>Español</summary>
 
-El capítulo sobre la forma en que uno debe conducirse después de Prapatti.Página206
+El capítulo sobre la forma en que uno **debe conducirse** después de Prapatti. Página 206
 </details>
 
 <details><summary>मूलम्</summary>
@@ -49,19 +49,25 @@ El capítulo sobre la forma en que uno debe conducirse después de Prapatti.Pág
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-+++(पूर्वोक्त-स्वरूपोपाय-प्राप्य-निष्ठया)+++ सन्तोषार्थं **विमृशति** मुहुस् सद्भिर् अध्यात्म-विद्यां,  
++++(पूर्वोक्त-स्वरूपोपाय-प्राप्य-निष्ठया)+++ सन्तोषार्थं +++(न मुक्त्यै,)+++ **विमृशति** मुहुस् सद्भिर् +++(नेतरैः,)+++ अध्यात्म-विद्यां,  
 नित्यं **ब्रूते, निशमयति** च स्वादु सु-व्याहृतानि ।  
-**अङ्गी कुर्वन्न्** अन्-अघ-ललितां वृत्तिम् आदेह-पातात्  
-+++(भूयो-नियाम्यता-प्रपत्तिभ्याम्)+++ दृष्टादृष्ट+++(→ऐहिकामुष्मिक)+++--स्व-भर-विगमे **दत्त-दृष्टिः** प्रपन्नः ॥ ३४ ॥ +++(4)+++
+**अङ्गी कुर्वन्न्** अन्-अघ-ललितां +++(←नित्य-कर्म-साहित्यम्)+++ वृत्तिम् आदेह-पातात्  
++++(भूयो-नियाम्यता--प्रपत्तिभ्याम्)+++ दृष्टादृष्ट+++(→ऐहिकामुष्मिक)+++--स्व-भर-विगमे **दत्त-दृष्टिः** प्रपन्नः ॥ ३४ ॥ +++(4)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-+++(पूर्वोक्त-स्वरूपोपाय-प्राप्य-निष्ठया)+++ सन्तोषार्थं **विमृशति** मुहुस् सद्भिर् अध्यात्म-विद्यां,  
++++(पूर्वोक्त-स्वरूपोपाय-प्राप्य-निष्ठया)+++ सन्तोषार्थं +++(न मुक्त्यै,)+++ **विमृशति** मुहुस् सद्भिर् +++(नेतरैः,)+++ अध्यात्म-विद्यां,  
 नित्यं **ब्रूते, निशमयति**+++(=शृणोति)+++ च स्वादु सु-व्याहृतानि ।  
 **अङ्गी कुर्वन्न्** अन्-अघ-ललितां वृत्तिम् आदेह-पातात्  
 +++(भूयो-नियाम्यता-प्रपत्तिभ्याम्)+++ दृष्टादृष्ट+++(→ऐहिकामुष्मिक)+++--स्व-भर-विगमे **दत्त-दृष्टिः** प्रपन्नः ॥ ३४ ॥+++(4)+++
 </details>
+
+<details><summary>विषयः</summary>
+
+उत्तरकृत्यम्, सन्तोषः, प्रवचनम्, श्रवणम्, शिक्ष
+</details>
+
 
 <details><summary>English</summary>
 
@@ -158,15 +164,16 @@ and is still connected with certain things (like the body)
 
 <details><summary>Español</summary>
 
-El hombre que ha hecho lo que debe hacer  
-e infiere su logro adecuado de Niṣṭhā (en Svarūpa, Upāya y Puruṣārtha)  
-debe seguir la línea de conducta descrita a continuación mientras viva,  
-como un agricultor que, fuera de un gran campo apto para su uso en la adoración del Señor,
-Ringa una gran parte  
-y se reserva solo una pequeña fracción de la misma como suficiente para sus necesidades.  
-Este adhikārī, a saber, la Prapanna,  
-que ha renunciado a su conexión con muchas cosas  
-y todavía está conectado con ciertas cosas (como el cuerpo)
+El hombre que **ha hecho** lo que **debe hacer**  
+e **infiere** su logro adecuado de Niṣṭhā (en Svarūpa, Upāya y Puruṣārtha)  
+**debe seguir** la línea de conducta descrita a continuación mientras viva,  
+como un agricultor que, fuera de un gran campo apto para su uso en la **adoración** del Señor,
+**Ringa** una gran parte  
+y **se reserva** solo una pequeña fracción de la misma  
+como suficiente para sus necesidades.  
+Este adhikārī, **a saber**, la Prapanna,  
+que **ha renunciado** a su conexión con muchas cosas  
+y todavía está **conectado** con ciertas cosas (como el cuerpo)
 </details>
 
 <details><summary>मूलम्</summary>
