@@ -5977,14 +5977,155 @@ y a quien **pertenecemos**.
 परम-र्षिगळुम् भाष्य-कारादिगळुम् विश्वास-पूर्वक-प्रार्थनात्म-निक्षेपादिगळैत् ताङ्गळुम् अनुष्ठित्तु  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एषां निवारणं यथा -  
+महर्षिभिर् भाष्य-कारादिभिश् च  
+विश्वास-पूर्वक-प्रार्थनात्मनिक्षेपादीनि  
+स्वयम् अनुष्ठाय  
+
+</details>
+
+
+<details><summary>English</summary>
+
+We meet this objection as follows:-  
+The great sages and the author of Śrī Bhāṣya observed,  
+in their own lives, the injunction about self-surrender  
+by begging for the Lord's protection with faith preceding it. 
+</details>
+
+<details><summary>Español</summary>
+
+**Conocemos** esta objeción de la siguiente manera:-  
+Los grandes sabios y el autor de Śrī Bhāṣya **observaron**,  
+En sus propias vidas, la **orden** judicial sobre el auto-curvar  
+**pidiendo la protección** del Señor con la fe que **lo precede**.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इवर्गळै विलक्कुम्बडि; परमर्षिकळुम् भाष्यकारादिगळुम् विश्वासपूर्वकप्रार्थनात्मनिक्षेपादिगळैत् ताङ्गळुम् अनुष्ठित्तु 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इवर्गळै विलक्कुम्बडि इति । सॊल्लुगिऱो मिदि शेषः । साध्योपायविशेषत्तै अङ्गीगरिक्काविट्टाल् प्राचीनानुष्ठानम् विरोधिक्कुमॆऩ् किऱार् परमर्षिकळुम् भाष्यकारादिगळुमित्यादिना । 
+</details>
 
 
-We meet this objection as follows:- The great sages and the author of Śrī Bhāṣya observed, in their own lives, the injunction about self-surrender by begging for the Lord's protection with faith preceding it. They have cited śāstras in support of this (traditional) practice and have handed it down as instructions for successive (generations). Therefore though Iśvara's relationship as the śeṣī  is eternal, He will not protect the jīva who is subject to the influence of past karma, unless the jīva adopts some form of sādhyopaya or endeavour (for winning His grace). This truth has to be accepted by every one who holds by the śāstras. If the śāstras are given up (as authorities), there will be no Iśvara at all to stand in the relationship of the śeṣī (to the jīva ).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कु शास्त्रङ्गळैयुम् मूदलिप्पित्तुक् कॊण्डु  
+उपदेश-परं-परैयुम् नडत्तिप् पोरुगैयाले  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र शास्त्राणि प्रमाणीकृत्योपदेश-परम्परायाः प्रवर्तितत्वात्  
+</details>
+
+
+<details><summary>English</summary>
+
+They have cited śāstras in support of this (traditional) practice  
+and have handed it down as instructions for successive (generations).  
+
+</details>
+
+<details><summary>Español</summary>
+
+**Han citado** Śāstras en **apoyo** de esta práctica (tradicional)  
+y lo **han entregado** como instrucciones para sucesivas (generaciones).  
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+इदुक्कु शास्त्रङ्गळैयुम् मूदलिप्पित्तुक्कॊण्डु उपदेशपरंपरैयुम् </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> शेषित्वादि-सम्बन्धम् नित्यमेय् आगिलुम्  
+कर्मवाऩ्गळ् आऩ जीवर्गळ् विषयत्तिल्  
+ईश्वरऩ् ऒरु साध्योपाय-विशेषत्तै मुऩ्ऩिट्ट् अल्लदु रक्षियाऩ्  
+
+ऎऩ्ऱु शास्त्र-निष्ठर्क्कु परिग्रहिक्क वेणुम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> शेषित्वादि-संबन्धस्य नित्यत्वेऽपि  
+कर्मवतां जीवानां विषये  
+ईश्वरः कञ्चित् साध्योपाय-विशेषम् अ-पुरस्-कृत्य  
+न रक्षेद्  
+
+इति शास्त्र-निष्ठैः परिग्राह्यम् ।  
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore though Iśvara's relationship as the śeṣī is eternal,  
+He will not protect the jīva who is subject to the influence of past karma,  
+unless the jīva adopts some form of sādhyopaya or endeavour (for winning His grace).  
+
+This truth has to be accepted by every one who holds by the śāstras.  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, aunque la relación de Iśvara como Śeṣī **es** eterna,  
+**No protegerá** al Jīva que está sujeto a la influencia del karma pasado,  
+A menos que el Jīva **adopte** alguna forma de sādhyopaya o esfuerzo (por ganar su gracia).
+
+Esta verdad **tiene** que **ser aceptada** por todos los que **tienen** por los Śāstras.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शेषित्वादि-सम्बन्धम् नित्यमेय् आगिलुम्  
+कर्मवाऩ्गळाऩ जीवर्गळ् विषयत्तिल् ईश्वरऩॊरु साध्योपायविशेषत्तै मुऩ्ऩिट्टल्लदु रक्षियाऩॆऩ्ऱु शास्त्रनिष्ठर्क्कु परिग्रहिक्कवेणुम्।
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्रत्तैक् कै विट्टाल्  
+इस् सम्बन्धञ् जॊल्लुगैक्कु  
+ईश्वरऩैयुङ् किडैयादु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शास्त्रे त्यक्ते  
+अस्य संबन्धस्य प्रतिपादनार्थे  
+(अपेक्षितः) ईश्वरोऽपि न लभ्येत । 
+</details>
+
+
+<details><summary>English</summary>
+
+If the śāstras are given up (as authorities),  
+there will be no Iśvara at all to stand  
+in the relationship of the śeṣī (to the jīva ).
+</details>
+
+<details><summary>Español</summary>
+
+Si los Śāstras **se renuncian** (como autoridades),  
+**No habrá** iśvara en absoluto para **soportar**  
+en la relación del śeṣī (al jīva).
+</details>
+
+<details><summary>मूलम्</summary>
+
+शास्त्रत्तैक्कैविट्टाल् इस्सम्बन्धञ्जॊल्लुगैक्कु ईश्वरऩैयुङ्गिडैयादु। 
+</details>
+
+
+
 
 It was stated previously that, owing to His being the seshi, Iśvara is bound to protect the jīva and that the jīva being the śeṣa is neither called upon nor able to protect himself. What was said there is (not inconsistent with what is said here).
 
