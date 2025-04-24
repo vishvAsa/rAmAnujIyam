@@ -5802,13 +5802,160 @@ y también inconsistencias con lo que **se ha dicho** antes.
 
 ## संबन्ध-विशेष-मूलक-शङ्का-परिहारः
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि ईश्वर-स्वातन्त्र्य--सह-ज--कारुण्यङ्गळ् अडिय् आग वरुङ् गलक्कङ्गळुक्कुप् परिहारम् सॊऩ्ऩोम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवम् ईश्वर-स्वातन्त्र्य--सह-ज-कारुण्य-मूलकानां जायमानानां व्यामोहानां परिहारान् अवोचाम ।  
+</details>
 
 
-So far we have dispelled certain misconceptions that may arise from a consideration of Iśvara's omnipotence and the compassion which is natural to Him. We will now proceed to clear doubts which might arise from a consideration of the peculiar relationship ( that exists between the jīva and Iśvara ).
+<details><summary>English</summary>
+
+So far we have dispelled certain misconceptions that may arise from a consideration of Iśvara's omnipotence and the compassion which is natural to Him. 
+</details>
+
+<details><summary>Español</summary>
+
+Hasta ahora **hemos disipado** ciertos conceptos erróneos  
+que **pueden surgir** de una consideración de la omnipotencia y la compasión de Iśvara y la compasión que **es** natural para él.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि ईश्वरस्वातन्त्र्यसहजकारुण्यङ्गळडियाग वरुङ्गलक्कङ्गळुक्कुप् परिहारम् सॊऩ्ऩोम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सम्बन्ध-विशेषम् अडियाग वरुम् कलक्कत्तुक्कुप् परिहारञ् जॊल्लुगिऱोम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[१९२]]  
+अथ सम्बन्ध-विशेष-मूलकम् उपनमतो च्यामोहस्य परिहारं ब्रूमः । 
+</details>
+
+
+<details><summary>English</summary>
+
+We will now proceed to clear doubts which might arise from a consideration of the peculiar relationship ( that exists between the jīva and Iśvara ).
+</details>
+
+<details><summary>Español</summary>
+
+Ahora **procederemos** a **limpiar** dudas que **podrían surgir**  
+de una **consideración** de la relación peculiar  
+(que **existe** entre Jīva e Iśvara).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सम्बन्धविशेषमडियाग वरुम् कलक्कत्तुक्कुप् परिहारञ् जॊल्लुगिऱोम्। 
+</details>
+
+### याच्ञा स्वरूपानुरूपा
+<details><summary>English</summary>
 
 (4) THE CONTENTION THAT BEGGING FOR PROTECTION IS INCONSISTENT WITH OUR RELATIONSHIP TO THE SESHI.
+(4) La afirmación de que la mendicidad por la protección es inconsistente con nuestra relación con el Seshi.
 
-There are some who deny the need for sādhyopaya or the means or endeavour for winning the Lord's grace, by stressing the point that He is the śeṣī  for whom we exist and to whom we belong. (They argue as follows): "Iśvara is the śeṣī  and we are like His sucklings as expressed by the sages to ŚrīRāma: "We are like babies in the embryo", who ever heard of a suckling doing anything other than crying for mother's milk, such as paying wages for it? Would it be consistent with the essential nature (svarūpa) of the jīva to perform the surrender of the self (atma samarpanam), to ask for protection, to have full faith in His protection and such other things ?".
+<details><summary>Español</summary>
+
+(4) La **afirmación** de que la **mendicidad** por la protección **es inconsistente** con nuestra relación con el Seshi.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ईश्वरऩ् शेषिय् आयिरुक्क,  
+नाम् 
+> 
+> > ‘‘गर्भ-भूतास् तपो-धनाः’’(रामायणम् आरण्यकाण्डम् १-२१) 
+> 
+> ऎऩ्ऩुङ् कणक्किले स्तनन्-धय-प्रायर् आय् इरुक्कद् आय्  
+मुलैप्-पालुक्क् आर्तऩ् आय् अऴुदल् सॆय्युम् अळव्+++(=मानम्) अऩ्ऱिक्के  
++++(स्तन्य-दानस्य)+++ कूलि+++(=भृतिं)+++ कॊडुप्पारैप् पोले  
+नाम् आत्म-समर्पणम् पण्णुगैयुम्,  
+रक्षिक्क-वेणुम् ऎऩ्ऱ् अपेक्षिक्कैयुम्,  
+विश्वसिक्कैयुम् ऎऩ्ऱाऱ् पोले सॊल्लुगिऱव् इवैय् ऎल्लाम्  
+स्व-रूपत्तुक्कुप् पॊरुन्दुमोव् 
+
+ऎऩ्ऱु सिलर् सिद्धोपाय-मुखत्ताले साध्योपाय-शरीरत्तैय् अऴिक्कप् पार्प्पार्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ईश्वरे शेषित्वेनावस्थिते,  
+अस्मासु च "गर्भ-भूतास् तपोधनाः" इति न्यायेन स्तनन्-धय-प्रायेषु सत्सु  
+मातृ-स्तन्यार्थम् आर्तितया रोदन-करणाद् अतिरेकेण +++(स्तन्य-दानस्य)+++ भृतिं ददद्भिर् इवास्माभिर्  
+आत्म-समर्पणस्य करणं,  
+रक्षा कार्येत्य् अपेक्षणं, 
+विश्वसनं च कार्यम् इत्य् एवं-प्रकारेणोच्यमाना इमे सर्वेऽपि  
+स्वरूपानुरूपाः कथं स्युर् 
+
+इति केचित् सिद्धोपाय-मुखेन साध्योपाय-शरीरं विनाशयितुम् उद्युञ्जते । 
+</details>
+
+<details><summary>English</summary>
+
+There are some who deny the need for sādhyopaya or the means or endeavour  
+for winning the Lord's grace,  
+by stressing the point that He is the śeṣī   
+for whom we exist  
+and to whom we belong.  
+(They argue as follows): 
+
+> "Iśvara is the śeṣī  and we are like His sucklings  
+> as expressed by the sages to Śrī Rāma:  
+> 
+> > "We are like babies in the embryo", 
+> 
+> Who ever heard of a suckling doing anything other than crying for mother's milk,  
+> such as paying wages for it?  
+> Would it be consistent with the essential nature (svarūpa) of the jīva  
+> to perform the surrender of the self (atma samarpanam),  
+> to ask for protection,  
+> to have full faith in His protection and such other things ?".
+</details>
+
+<details><summary>Español</summary>
+
+**Hay** algunos que **niegan** la necesidad de sādhyopaya o los medios o esfuerzos  
+por **ganar** la gracia del Señor,  
+**estresando** el punto de que él es el Śeṣī  
+para quien **existimos**  
+y a quien **pertenecemos**.  
+(Argumentan de la siguiente manera):
+
+> "Iśvara **es** el Śeṣī y **somos** como sus sucios  
+> Como **expresan** los sabios a Śrī Rāma:
+>
+>> "**Somos** como bebés en el embrión",
+>
+> ¿Quién **ha oído hablar** de una succión **haciendo** algo más que **llorar** por la leche de madre  
+> Como pagar salarios por ello?  
+> ¿**Sería** consistente con la naturaleza esencial (svarūpa) del Jīva  
+> **realizar** la rendición del yo (Atma Samarpanam),  
+> **pedir** protección,  
+> **Tener** plena fe en su protección y otras cosas? ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩ् शेषियायिरुक्क, नाम् ‘‘गर्भभूतास्तपोधनाः’’(रामायणम् आरण्यकाण्डम् १-२१) यॆऩ्ऩुङ्गणक्किले स्तनन्धयप्रायरायिरुक्क, ताय्मुलैप्पालुक्कार्तऩायऴुदल् सॆय्युमळवऩ्ऱिक्के कूलि कॊडुप्पारैप् पोले नाम्  
+आत्मसमर्पणम् पण्णुगैयुम्, रक्षिक्कवेणुमॆऩ्ऱ पेक्षिक्कैयुम्, विश्वसिक्कैयुमॆऩ्ऱाऱ्पोले सॊल्लुगिऱविवैयॆल्लाम् स्वरूपत्तुक्कुप् पॊरुन्दुमोवॆऩ्ऱु सिलर् सिद्धोपायमुखत्ताले साध्योपायशरीरत्तैयऴिक्कप् पार्प्पार्गळ्। 
+</details>
+
+
+
+
 
 We meet this objection as follows:- The great sages and the author of Śrī Bhāṣya observed, in their own lives, the injunction about self-surrender by begging for the Lord's protection with faith preceding it. They have cited śāstras in support of this (traditional) practice and have handed it down as instructions for successive (generations). Therefore though Iśvara's relationship as the śeṣī  is eternal, He will not protect the jīva who is subject to the influence of past karma, unless the jīva adopts some form of sādhyopaya or endeavour (for winning His grace). This truth has to be accepted by every one who holds by the śāstras. If the śāstras are given up (as authorities), there will be no Iśvara at all to stand in the relationship of the śeṣī (to the jīva ).
 
