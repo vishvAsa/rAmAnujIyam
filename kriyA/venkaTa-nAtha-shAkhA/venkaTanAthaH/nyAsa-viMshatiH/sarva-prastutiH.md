@@ -118,6 +118,9 @@ The next 17 slOkams cover the svaroopam of Prapatthi, its five angams, doubts ab
 इतरविद्यासु परज्ञानरूपेण च कश्चन साक्षात्कारो विशिष्य विहित एव।  
 रामानुजोऽपि तत्र "**येन** - विद्या-विशेषेण" इति स्पष्टम् एव वदति।  
 
+(Logic - you want to ride a cycle, you need someone who has done it.  
+You just want to buy a plane ticket - no need to check for riding skills.)
+
 शाण्डिल्यविद्यानुजिगमिषया भौमविद्याविदं नोपेयात् इत्यादिर् अपि वर्तते।  
 अत्र तु ब्रह्मणि, न तु कैवल्यय् ऐश्वर्ये वा निष्ठा यस्य स इत्येव। 
 
