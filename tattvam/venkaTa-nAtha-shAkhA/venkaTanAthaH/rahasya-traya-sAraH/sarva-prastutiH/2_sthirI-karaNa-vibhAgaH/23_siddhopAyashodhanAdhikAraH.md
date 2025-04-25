@@ -6213,6 +6213,16 @@ y ser capaz de hacerlo.
 ऎऩ्ऱ बडिय् अऩ्ऱु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+न त्व् 
+
+> एतावद् एव रक्षणस्य निर्-अपेक्ष-कारणम्  
+
+इति प्रतिपादनार्थम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 It was not meant to show that the Protector would protect in every case,  
@@ -6239,6 +6249,12 @@ para **ganar** su gracia por **propiciación**.
 सर्वरुम् नित्य-मुक्तर् आग प्रसङ्गिक्कुम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तथाऽभ्युपगमे सर्वेऽपि नित्य-मुक्ताः प्रसज्येरन् । 
+</details>
+
+
 <details><summary>English</summary>
 
 If that view were taken,  
@@ -6264,6 +6280,13 @@ Si esa opinión **fue tomada**,
 मुऩ्बु सॊऩ्ऩ पडिये  
 वैषम्य-नैर्घृण्यङ्गळ् प्रसङ्गिक्कुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वातन्त्र्येण +++(स्वेच्छामात्र-)+++नियमय् उच्यमाने,  
+पूर्वोक्त-रीत्या वैषम्य-नैर्धृण्ये प्रसज्येयाताम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6301,6 +6324,17 @@ y cruel con los demás.
 ऎऩ्ऱु सॊल्ल वॊण्णादु +++(वक्ष्यमाणरीत्या)+++। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+युक्ति-मात्रेणेमान् अर्थान् वदद्भिः  
+
+> सम्बन्ध-ज्ञानम् एवापेक्षितम्,  
+रक्षापेक्षादीनि नापेक्षितानि  
+
+इति वक्तुम् अशक्यम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 Those who maintain these propositions merely on the basis of reason  
@@ -6334,6 +6368,15 @@ Aquellos que **mantienen** estas proposiciones simplemente sobre la base de la r
 अवऱ्ऱै रक्षिक्कक् काणा निऩ्ऱोम् इऱे। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अचिद्-द्रव्येषु पशु-मृग-पक्ष्य्-आदिषु स्तनन्-धयेषु च  
+रक्षापेक्षारहिततयेव  
+सम्बन्ध-ज्ञान-रहिततया ऽपि सत्सु  
+तेषां रक्षणं पश्यामः किल । 
+</details>
+
+
 <details><summary>English</summary>
 
 For have we not seen that non-sentient things, cattle, deer, birds and the like, and suckling children are protected,  
@@ -6362,6 +6405,8 @@ tal como **no piden protección**?
 ऎऩ्ऩिल्; 
 शास्त्रञ् जॊऩ्ऩ कट्टळैयिले +++(भक्ति-प्रपत्ति-रूप-)+++ज्ञान-विशेषम् स्वीकरिक्क वेणुम्। 
 </details>
+
+
 
 <details><summary>English</summary>
 
@@ -6487,10 +6532,64 @@ e **incluso** de seres sensibles como ganado e hijos que **intentan prevenirlo**
 ताऩ् विलक्कुगैक्कु योग्यतैयुळ्ळववस्थैयिले विलक्कादॊऴिगैये अपेक्षितमॆऩ्ऩवुमॊण्णादु - विलक्कुगैक्कु योग्यतैयिल्लादवचित् तैयुम् विलक्कुगिऱ पश्वादिगळैयुम् पुत्रादिगळैयुम् रक्षिक्कक् काण्गैयाल्। 
 </details>
 
+### नाथवत्ता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩबिऩ्बु  
+
+> ३७‘‘ये नाथवन्तो+++(←नाथ् याचने)+++ हि **भवन्ति** लोके  
+ते नात्म-कर्माणि **समारभन्ते** ।  
+तेषां हि कार्येषु **भवन्ति** नाथाश्  
+शैब्यादयो राम यथा ययातेः॥’’  
+(भारतम् आरण्य-पर्व १६१-२)  
+
+ऎऩ्गिऱ श्लोकत्तिलुम् 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऩबिऩ्बु  
+३७‘‘ये नाथवन्तो हि भवन्ति लोके ते नात्मकर्माणि समारभन्ते ।  
+तेषां हि कार्येषु भवन्ति नाथाश्शैब्यादयो राम यथा ययातेः॥’’  
+(भारतम् आरण्य-पर्व १६१-२)  
+ऎऩ्गिऱ श्लोकत्तिलुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाथ-शब्दत्तिल् व्युत्पत्तियालुम्,  
+निर्भरतैक्कु उपयुक्तम् आऩ सम्बन्ध-विशेषत्तैच् चॊल्लुगिऱ मतुप्-प्रत्ययत्तालुम्  
+याचनमुम्, आत्म-निक्षेपमुम् व्यञ्जितम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नाथशब्दत्तिल् व्युत्पत्तियालुम्, निर्भरतैक्कु उपयुक्तमाऩ सम्बन्धविशेषत्तैच् चॊल्लुगिऱ मतुप्प्रत्ययत्तालुम् याचनमुम् आत्मनिक्षेपमुम् व्यञ्जितमायिऱ्ऱु। 
+</details>
 
 
+From the śloka  : 
 
-From the śloka  : "Those that have nathas (lords or protectors) in the world do not perform their duty of protecting themselves. It is their Natha or lord who puts forth endeavours on their behalf, just as Sibi and others did the duties which should have been performed by Yayāti " - from this śloka , it should not be thought that endeavour on the part of those that are to be protected is not required at all. For the word Natha is from the root nath and means, here, the begging for protection and nāthavantah in that śloka means, by the force of the termination (vat or mathup) those who have a protector. So the word nāthavantah in the śloka  suggests, by the etymological meaning of natha and by the termination (mathup) which shows the relationship (of seshin and śeṣa) that is necessary for the state of being carefree, the prayer for protection and the act of self. surrender. Otherwise there should be (as said before ) rnokṣa for all and other such objections. If it is said that the word nāthavantah ia that śloka  should not be interpreted as having a suggestion of all the meanings (referred to), we have to state that analogies taken from ordinary life should not be pressed too far in the śastra on mokṣa , for they would be at variance with actual and explicit statements made in the śāstra).
+> "Those that have nathas (lords or protectors) in the world  
+> do not perform their duty of protecting themselves.  
+> It is their Natha or lord  
+> who puts forth endeavours on their behalf,  
+> just as Sibi and others did the duties  
+> which should have been performed by Yayāti " 
+
+\- from this śloka ,  
+it should not be thought that  
+endeavour on the part of those that are to be protected  
+is not required at all.  
+For the word Natha is from the root nath  
+and means, here, the begging for protection  
+and nāthavantah in that śloka means, by the force of the termination (vat or matup) those who have a protector.  
+So the word nāthavantah in the śloka  suggests,  
+by the etymological meaning of natha  
+and by the termination (matup) which shows the relationship (of seshin and śeṣa)  
+that is necessary for the state of being carefree, the prayer for protection and the act of self surrender. 
+
+Otherwise there should be (as said before ) rnokṣa for all and other such objections. If it is said that the word nāthavantah ia that śloka  should not be interpreted as having a suggestion of all the meanings (referred to), we have to state that analogies taken from ordinary life should not be pressed too far in the śastra on mokṣa , for they would be at variance with actual and explicit statements made in the śāstra).
 
 We shall now explain the real purport of the words of trust- worthy authors where the apparent meaning would seem to be that, while Iśvara is the Protector or Saviour of all, we are not required to put forth any endeavour for our protection. Their real meaning is this.
 
