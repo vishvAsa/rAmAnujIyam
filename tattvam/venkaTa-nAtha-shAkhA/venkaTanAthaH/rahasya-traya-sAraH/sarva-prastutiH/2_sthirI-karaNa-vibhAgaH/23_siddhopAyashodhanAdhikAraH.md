@@ -6105,7 +6105,9 @@ Esta verdad **tiene** que **ser aceptada** por todos los que **tienen** por los 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>English</summar
+
+y>
 
 If the śāstras are given up (as authorities),  
 there will be no Iśvara at all to stand  
@@ -6124,16 +6126,369 @@ en la relación del śeṣī (al jīva).
 शास्त्रत्तैक्कैविट्टाल् इस्सम्बन्धञ्जॊल्लुगैक्कु ईश्वरऩैयुङ्गिडैयादु। 
 </details>
 
+### निरपेक्ष-रक्षा नोक्ता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩ बिऩ्बु, 
+
+> सम्बन्धम् अडिय् आग  
+ईश्वरऩ् रक्षिक्कप् प्राप्तऩ् 
+
+ऎऩ्ऱुम्,  
+
+> शेष-भूतऩ् आऩ इवऩ् तऩ्ऩै रक्षित्तुक् कॊळ्ळ प्राप्तऩ् अऩ्ऱ् 
+
+ऎऩ्ऱुम्  
+मुऩ्बु सॊऩ्ऩदुवुम्  
+रक्ष्य-रक्षक-भावत्तुक्कु लोक-दृष्ट-प्रक्रियैयाले औचित्यञ् जॊऩ्ऩ बडि इत्तऩै, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अतः सम्बन्धाद् +धेतोर्  
+ईश्वरो रक्षायां स्वतः (अधिकृत) 
+
+इति, 
+
+> शेष-भूतोऽयं स्वरक्षणे न प्राप्तः (नाधिकृत) 
+
+इति पूर्वोक्तम् अपि  
+(प्रधान-प्रतितन्त्राधिकारोक्तम् अपि)  
+रक्ष्य-रक्षक-भावस्य लोक-दृष्ट-प्रक्रिययौचित्य-प्रदर्शनार्थम्,  
+</details>
+
+
+<details><summary>English</summary>
+
+It was stated previously that,  
+
+> owing to His being the seshi,  
+Iśvara is bound to protect the jīva  
+
+and that 
+
+> the jīva being the śeṣa  
+is neither called upon nor able to protect himself.  
+What was said there is (not inconsistent with what is said here).
+
+There, with an illustration from ordinary life,  
+the relationship between the protector and the protected  
+was shown to consist in the protector being bound to protect  
+and being capable of doing so. 
+</details>
+
+<details><summary>Español</summary>
+
+**Se dijo** anteriormente que,
+
+> debido a que **es** el seshi,
+Iśvara **está obligado** a **proteger** el jīva
+
+y que 
+
+> el Jīva **es** el Śeṣa
+no **se llama ni capaz de protegerse**.
+
+Lo que **se dijo hay**  
+(**no inconsistente** con lo que **se dice** aquí).
+
+Allí, con una ilustración de la vida ordinaria,  
+la relación **entre** el protector y el protegido  
+**se demostró** que **consistía** en que el protector esté destinado a proteger  
+y ser capaz de hacerlo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩबिऩ्बु सम्बन्धमडियाग ईश्वरऩ् रक्षिक्कप् प्राप्तऩॆऩ्ऱुम्, शेषभूतऩाऩ इवऩ् तऩ्ऩैरक्षित्तुक्कॊळ्ळ प्राप्तऩऩ्ऱॆऩ्ऱुम् मुऩ्बु सॊऩ्ऩदुवुम् रक्ष्यरक्षकभावत्तुक्कु लोकदृष्टप्रक्रियैयाले औचित्यञ्जॊऩ्ऩबडि इत्तऩै, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इव्व्-अळवे रक्षैक्कु निरपेक्ष-कारणम् 
+
+ऎऩ्ऱ बडिय् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+It was not meant to show that the Protector would protect in every case,  
+whether or not there is endeavour on the part of the jīva to win His grace by propitiation.  
+</details>
+
+<details><summary>Español</summary>
+
+**No estaba destinado a demostrar** que el protector **protegería** en todos los casos,  
+Ya sea que **haya o no** un **esfuerzo** por parte del Jīva  
+para **ganar** su gracia por **propiciación**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वळवेरक्षैक्कु निरपेक्षकारणमॆऩ्ऱबडियऩ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पडिक् कॊळ्ळिल्  
+सर्वरुम् नित्य-मुक्तर् आग प्रसङ्गिक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+If that view were taken,  
+it would mean that all souls should be eternally free from bondage.  
+</details>
+
+<details><summary>Español</summary>
+
+Si esa opinión **fue tomada**,  
+**Significaría** que todas las almas **deberían estar** eternamente **libres** de esclavitud.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पडिक्कॊळ्ळिल् सर्वरुम् नित्यमुक्तराग प्रसङ्गिक्कुम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वातन्त्र्यत्ताले +++(स्वेच्छामात्र-)+++नियमञ् जॊल्लिल्  
+मुऩ्बु सॊऩ्ऩ पडिये  
+वैषम्य-नैर्घृण्यङ्गळ् प्रसङ्गिक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+If it be maintained that,  
+in the matter of protection,  
+the Lord, being omnipotent, chooses to save some and not others,  
+then it would mean that the Lord is partial to some  
+and cruel to others.
+</details>
+
+<details><summary>Español</summary>
+
+Si **se mantiene** eso,  
+en materia de **protección**,  
+El Señor, **siendo** omnipotente, **elige salvar** a algunos y no otros,  
+Entonces **significaría** que el Señor **es** parcial para algunos  
+y cruel con los demás.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वातन्त्र्यत्ताले नियमञ्जॊल्लिल् मुऩ्बु सॊऩ्ऩ पडिये वैषम्यनैर्घृण्यङ्गळ् प्रसङ्गिक्कुम्। 
+</details>
+
+### सम्बन्ध-ज्ञान-मात्रेण नालम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+युक्ति-मात्रत्ताल् इव्व्-अर्थङ्गळ् सॊल्लुवार्क्कु  
+
+> सम्बन्ध-ज्ञानमेय् अपेक्षितम्  
+रक्षापेक्षादिगळ् वेण्डाव्  
+
+ऎऩ्ऱु सॊल्ल वॊण्णादु +++(वक्ष्यमाणरीत्या)+++। 
+</details>
+
+<details><summary>English</summary>
+
+Those who maintain these propositions merely on the basis of reason  
+cannot say that 
+
+> the knowledge of the relationship (of the śeṣin and the śeṣa ) is alone required for securing protection  
+> and that no request for protection need be made. 
+</details>
+
+<details><summary>Español</summary>
+
+Aquellos que **mantienen** estas proposiciones simplemente sobre la base de la razón  
+**no puedo decir** eso
+
+> El **conocimiento** de la relación (del Śeṣin y el śeṣa) es solo **requerido** para **asegurar** la **protección**  
+> y que **no se debe hacer** una **solicitud** de protección.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+युक्तिमात्रत्तालिव्वर्थङ्गळ् सॊल्लुवार्क्कु सम्बन्धज्ञानमेयपेक्षितम् रक्षापेक्षादिगळ् वेण्डावॆऩ्ऱु सॊल्ल वॊण्णादु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अचिद्-द्रव्यङ्गळुम् पशु-मृग-पक्ष्य्-आदिगळुम् स्तनन्धयरुम्  
+रक्षापेक्षा-रहितङ्गळ् आऩाऱ् पोले  
+सम्बन्ध-ज्ञान-रहितङ्गळुम् आय् इरुक्कव्  
+अवऱ्ऱै रक्षिक्कक् काणा निऩ्ऱोम् इऱे। 
+</details>
+
+<details><summary>English</summary>
+
+For have we not seen that non-sentient things, cattle, deer, birds and the like, and suckling children are protected,  
+though they have no knowledge of this relationship,  
+just as they do not ask for protection ? 
+</details>
+
+<details><summary>Español</summary>
+
+Porque **no hemos visto** que las cosas no sensibles, el ganado, los ciervos, las aves y los similares, y niñas **lactantes están protegidos**,  
+Aunque **no tienen conocimiento** de esta relación,  
+tal como **no piden protección**?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अचिद्द्रव्यङ्गळुम् पशुमृगपक्ष्यादिगळुम् स्तनन्धयरुम् रक्षापेक्षारहितङ्गळाऩाऱ्पोले सम्बन्धज्ञानरहितङ्गळुमायिरुक्कववऱ्ऱै रक्षिक्कक् काणानिऩ्ऱोमिऱे। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अप्-पडिक् कण्डोम् आगिलुम्  
+शास्त्र-बलत्ताले इङ्गु सम्बन्ध-ज्ञानम् अपेक्षितम् 
+
+ऎऩ्ऩिल्; 
+शास्त्रञ् जॊऩ्ऩ कट्टळैयिले +++(भक्ति-प्रपत्ति-रूप-)+++ज्ञान-विशेषम् स्वीकरिक्क वेणुम्। 
+</details>
+
+<details><summary>English</summary>
+
+If it be held that, 
+
+> though we have seen (such instances),  
+yet the knowledge of that relationship is required on the authority of the śāstras,  
+
+we answer that,  
+if so, by the very authority of the śāstras,  
+the special kind of knowledge consisting in bhakti and prapatti will also have to be accepted (as necessary).
+</details>
+
+<details><summary>Español</summary>
+
+Si **se sostiene** eso,
+
+> Aunque **hemos visto** (tales instancias),  
+Sin embargo, el **conocimiento** de esa relación  
+**se requiere** sobre la autoridad de los Śāstras,
+
+**Respondemos** eso,  
+Si **es** así, por la misma autoridad de los Śāstras,  
+El tipo especial de **conocimiento** que consiste en Bhakti y Prapatti  
+también **tendrá que ser aceptado** (según **sea necesario**).
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+अप्पडिक्कण्डोमागिलुम् शास्त्रबलत्ताले इङ्गु सम्बन्धज्ञानम् अपेक्षितमॆऩ्ऩिल्; शास्त्रञ् जॊऩ्ऩ कट्टळैयिले ज्ञानविशेषम् स्वीकरिक्कवेणुम्। 
+</details>
+ 
+### सम्बन्ध-भ्रमाभावेन नालम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तऩ्ऩै ईश्वरऩ् रक्षिक्कुम् बोदु  
+> सम्बन्धत्तोडे कूड  
+> +++(रक्षणस्य)+++ विलक्कामैये वेण्डुवद्  
+
+ऎऩ्ऩिल्; अदुवुम् अनुपपन्नम्; 
+
+सुषुप्त्य्-आद्य्-अवस्थैगळिलेय्  
+ऎल्लार्क्कुम् मोक्षङ् गॊडुक्कप् प्रसङ्गिक्कैयाल्। 
+</details>
+
+<details><summary>English</summary>
+
+If it be held that 
+
+> what is required for protection is that, while being protected, there should be,  
+> in addition to the relationship,  
+> no attempt to prevent protection, 
+
+we answer that,  
+in that case, the Lord should grant mokṣa  
+to all in such states as dreamless sleep (suṣupti),  
+(where there is the relationship  
+and no attempt on the part of the jīva to prevent protection). 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se sostiene** que
+
+> Lo que **se requiere** para la protección **es** que,  
+> mientras está protegido, **debería haber**,  
+> Además de la relación,  
+> **No hay** intento de **evitar** la protección,
+
+**Respondemos** eso,  
+En ese caso, el Señor **debe otorgar** a Mokṣa  
+a todos en estados como **sueño** sin ensueños (Suṣupti),  
+(donde **está** la relación  
+y **no hay intento** por parte del Jīva para **evitar** protección).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩ्ऩै ईश्वरऩ् रक्षिक्कुम्बोदु सम्बन्धत्तोडे कूड विलक्कामैये वेण्डुवदॆऩ्ऩिल्; अदुवुमनुपपन्नम्;सुषुप्त्याद्यवस्थैकळिलेयॆल्लार्क्कुम् मोक्षङ्गॊडुक्कप् प्रसङ्गिक्कैयाल्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ताऩ् विलक्कुगैक्कु योग्यतैय् उळ्ळव् अवस्थैयिले  
+विलक्काद् ऒऴिगैये अपेक्षितम् 
+
+ऎऩ्ऩवुम् ऒण्णादु -  
+विलक्कुगैक्कु योग्यतैय् इल्लादव् अचित्तैयुम्  
+विलक्कुगिऱ पश्व्-आदिगळैयुम् पुत्रादिगळैयुम्  
+रक्षिक्कक् काण्गैयाल्। 
+</details>
+
+<details><summary>English</summary>
+
+If, on the other hand, it be maintained that 
+
+> there should be no attempt to prevent protection in those mental states in which one is capable of doing so, 
+
+we answer that  
+we have seen protection of even non-sentient things which are incapable of preventing it  
+and of even such sentient beings as cattle and sons which attempt to prevent it.
+</details>
+
+<details><summary>Español</summary>
+
+Si, por otro lado, **se mantiene** que
+
+> **No debería haber intento** para **evitar** la protección  
+> en aquellos estados mentales  
+> en los que uno **es capaz de hacerlo**,
+
+**Respondemos** que  
+**Hemos visto protección** incluso de cosas no sensibles que **son incapaces de prevenirlo**  
+e **incluso** de seres sensibles como ganado e hijos que **intentan prevenirlo**.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+ताऩ् विलक्कुगैक्कु योग्यतैयुळ्ळववस्थैयिले विलक्कादॊऴिगैये अपेक्षितमॆऩ्ऩवुमॊण्णादु - विलक्कुगैक्कु योग्यतैयिल्लादवचित् तैयुम् विलक्कुगिऱ पश्वादिगळैयुम् पुत्रादिगळैयुम् रक्षिक्कक् काण्गैयाल्। 
+</details>
 
 
 
-It was stated previously that, owing to His being the seshi, Iśvara is bound to protect the jīva and that the jīva being the śeṣa is neither called upon nor able to protect himself. What was said there is (not inconsistent with what is said here).
-
-There, with an illustration from ordinary life, the relationship between the protector and the protected was shown to consist in the protector being bound to protect and being capable of doing so. It was not meant to show that the Protector would protect in every case, whether or not there is endeavour on the part of the jīva to win His grace by propitiation. If that view were taken, it would mean that all souls should be eternally free from bondage. If it be maintained that, in the matter of protection, the Lord, being omnipotent, chooses to save some and not others, then it would mean that the Lord is partial to some and cruel to others.
-
-Those who maintain these propositions merely on the basis of reason cannot say that the knowledge of the relationship (of the śeṣin and the śeṣa ) is alone required for securing protection and that no request for protection need be made. For have we not seen that non-sentient things, cattle, deer, birds and the like and suckling children are protected, though they have no knowledge of this relationship, just as they do not ask for protection ? If it be held that, though we have seen (such instances), yet the knowledge of that relationship is required on the authority of the śāstras, we answer that, if so, by the very authority of the śāstras, the special kind of knowledge consisting in bhakti and prapatti will also have to be accepted (as necessary).
-
-If it be held that what is required for protection is that, while being protected, there should be, in addition to the relationship, no attempt to prevent protection, we answer that, in that case, the Lord should grant mokṣa  to all in such states as dreamless sleep (suṣupti), (where there is the relationship and no attempt on the part of the jīva to prevent protection). If, on the other hand, it be maintained that there should be no attempt to prevent protection in those mental states in which one is capable of doing so, we answer that we have seen protection of even non-sentient things which are incapable of preventing it and of even such sentient beings as cattle and sons which attempt to prevent it.
 
 From the śloka  : "Those that have nathas (lords or protectors) in the world do not perform their duty of protecting themselves. It is their Natha or lord who puts forth endeavours on their behalf, just as Sibi and others did the duties which should have been performed by Yayāti " - from this śloka , it should not be thought that endeavour on the part of those that are to be protected is not required at all. For the word Natha is from the root nath and means, here, the begging for protection and nāthavantah in that śloka means, by the force of the termination (vat or mathup) those who have a protector. So the word nāthavantah in the śloka  suggests, by the etymological meaning of natha and by the termination (mathup) which shows the relationship (of seshin and śeṣa) that is necessary for the state of being carefree, the prayer for protection and the act of self. surrender. Otherwise there should be (as said before ) rnokṣa for all and other such objections. If it is said that the word nāthavantah ia that śloka  should not be interpreted as having a suggestion of all the meanings (referred to), we have to state that analogies taken from ordinary life should not be pressed too far in the śastra on mokṣa , for they would be at variance with actual and explicit statements made in the śāstra).
 
