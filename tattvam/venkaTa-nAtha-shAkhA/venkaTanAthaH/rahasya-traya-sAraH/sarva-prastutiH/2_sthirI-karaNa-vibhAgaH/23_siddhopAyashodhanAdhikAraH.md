@@ -6766,27 +6766,170 @@ la **oración** por la **protección** y el acto de la autocontrol.
 
 <details><summary>सार-बोधिनी</summary>
 
-नाथशब्दत्तिल् व्युत्पत्तियालुम् - नाथृ याच्ञायाम् ऎऩ्गिऱ धातुविल् एऱ्पट्ट व्युत्पत्तियालुम्, सम्बन्धविशेषत्तैच् चॊल्लुगिऱ मतुप्प्रत्ययत्तालुम् - भरस्वीकर्तृत्वरूपसम्बन्धत्तैच् चॊल्लुगिऱ मतुप् प्रत्ययत्तालुम्, याचनमुम् आत्मनिक्षेपमुम् व्यञ्जितमायिऱ्ऱु इति । 
+नाथशब्दत्तिल् व्युत्पत्तियालुम् - नाथृ याच्ञायाम् ऎऩ्गिऱ धातुविल् एऱ्पट्ट व्युत्पत्तियालुम्, सम्बन्धविशेषत्तैच् चॊल्लुगिऱ मतुप्प्रत्ययत्तालुम् - भरस्वीकर्तृत्वरूपसम्बन्धत्तैच् चॊल्लुगिऱ मतुप् प्रत्ययत्तालुम्, याचनमुम् आत्मनिक्षेपमुम् व्यञ्जितमायिऱ्ऱु इति । क्रमणेत्यादिः ।?? 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लाद पोदु अतिप्रसङ्गादि-दोषङ्गळ् वरुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा ऽतिप्रसङ्गादि-दोषाः स्युः । 
 </details>
 
 
+<details><summary>English</summary>
+
+Otherwise there should be (as said before ) mokṣa for all and other such objections. 
+</details>
+
+<details><summary>Español</summary>
+
+De lo contrario, **debería haber** (como se dijo antes) mokṣa para todas y otras objeciones similares.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अल्लाद पोदु अतिप्रसङ्गादिदोषङ्गळ् वरुम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+नाथवन्तः ऎऩ्बदऱ्कु इप्पडि अर्थङ्गॊळ्ळादबोदु अनिष्टम् सॊल्लुगिऱार् अल्लाद पोदु इति । 
+</details>
 
 
-Otherwise there should be (as said before ) mokṣa for all and other such objections. If it is said that the word nāthavantah ia that śloka  should not be interpreted as having a suggestion of all the meanings (referred to), we have to state that analogies taken from ordinary life should not be pressed too far in the śastra on mokṣa , for they would be at variance with actual and explicit statements made in the śāstra).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-We shall now explain the real purport of the words of trust- worthy authors where the apparent meaning would seem to be that, while Iśvara is the Protector or Saviour of all, we are not required to put forth any endeavour for our protection. Their real meaning is this.
++++(लोकनीति-तिरस्-क्रियया)+++ ‘‘नाथवन्तः’’ ऎऩ्गिऱव् इडत्तिल् इत्तऩै विवक्षै कॊळ्ळाद बोदु  
++++(भक्ति-प्रपत्ति-चोदना-विरुद्ध-)+++ लोक-नीतियिल् उळ्ळद् ऎल्लाम्  
+मोक्ष-शास्त्रत्तिल् ऊहिक्कै  
+वचन-विरुद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(लोकनीति-तिरस्-क्रियया)+++ नाथवन्त इत्यत्र एतावद्-विवक्षाया अनङ्गीकारे  
++++(भक्ति-प्रपत्ति-चोदना-विरुद्ध-)+++ लोक-नीतौ दृष्टानां सर्वेषाम् अर्थानां मोक्ष-शास्त्रे ऊहनं  
+वचन-विरुद्धम् । 
+</details>
+
+<details><summary>English</summary>
+
+If it is said that the word nāthavantah in that śloka  
+should not be interpreted as having a suggestion of all the meanings (referred to),  
+we have to state that analogies taken from ordinary life  
+should not be pressed too far in the śastra on mokṣa ,  
+(for they would be at variance with actual and explicit statements made in the śāstra).
+</details>
+
+<details><summary>Español</summary>
+
+Si **se dice** que la palabra nāthavantah en esto Śloka  
+**no debe interpretarse** como una **sugerencia** de todos los significados (mencionados),  
+**Tenemos** que **afirmar** que analogías **tomadas** de la vida ordinaria  
+**No debe presionarse** demasiado en el Śastra en Mokṣa,  
+(Porque **estarían en desacuerdo** con **declaraciones** reales y explícitas **hechas** en el Śāstra).
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नाथवन्तः’’ ऎऩ्गिऱविडत्तिलित्तऩै विवक्षै कॊळ्ळादबोदु लोकनीतियिलुळ्ळदॆल्लाम् मोक्षशास्त्रत्तिलूहिक्कै वचनविरुद्धम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इन्द श्लोकम् केवललोकसिद्धविषयमागैयाले इव्वळवु विवक्षै पण्णवेण्डुमोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् नाथवन्त इति । लोकनीतियिलुळ्ळदॆल्लाम् मोक्षशास्त्रत्तिल् ऊहिक्कै वचनविरुद्धमिति ।  
+लोकसिद्धनीतियैच्चॊल्लुम् वचनत्तिल्  
+नाथवन्त-शब्दत्तिऱ्कु व्युत्पत्तिगळाले अर्थङ् गॊळ्वदु विरुद्धम् आऩाल्  
+लोकनीतियैच् चॊल्लुमदैक् कॊण्डु मोक्षार्थमुम् उपायानुष्ठानम् वेण्डामॆऩ्ऱु ऊहिप्पदुम्  
+
+> ‘‘मामेकं शरणं व्रज’’  
+> ‘‘आत्मानं मयि निक्षिपेद्’’  
+
+इत्यादि वचनविरुद्धमाम्। 
+</details>
+
+### स्वरक्षणे ऽल्पान्वयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्व-रक्षकऩ् आऩव् ईश्वरऩ् उण्ड् आय् इरुक्क  
+स्व-रक्षण-व्यापारत्तिल् नमक्क् अन्वयम् इल्लैय् 
+
+ऎऩ्गिऱ आप्तर् पासुरत्तुक्कुत् तात्पर्यञ् जॊल्लुगिऱोम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"सर्वरक्षकय् ईश्वरे स्थिते सति  
+स्व-रक्षण-व्यापारे ऽस्माकम् अन्वयो नास्ती"त्य्-आप्त-वचनस्य तात्पर्यं ब्रूमः - 
+
+[[१९४]] 
+</details>
+
+
+<details><summary>English</summary>
+
+We shall now explain the real purport of the words of trust-worthy authors  
+where the apparent meaning would seem to be that,  
+
+> while Iśvara is the Protector or Saviour of all,  
+we are not required to put forth any endeavour for our protection.  
+
+Their real meaning is this.
+</details>
+
+<details><summary>Español</summary>
+
+Ahora **explicaremos** el verdadero significado de las palabras de los autores dignos de la confianza.  
+donde el **significado** aparente **parecería ser** eso,  
+
+> mientras que Iśvara **es** el **protector** o **salvador** de todos,  
+**No estamos obligados** a **presentar** ningún **esfuerzo** para nuestra protección.  
+
+Su verdadero significado **es** este.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+सर्वरक्षकऩाऩ वीश्वरऩुण्डायिरुक्क स्वरक्षणव्यापारत्तिल् नमक्कन्वयमिल् लैयॆऩ्गिऱ आप्तर् पासुरत्तुक्कुत् तात्पर्यञ् जॊल्लुगिऱोम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-यदर्थन्तु कृतो न्यासस्तदर्थं न पुनः क्रिया । पूर्वमप्यपराधीनप्रवृत्तावस्य नान्वयः ॥
+यद्-अर्थन् तु **कृतो न्यासस्**  
+तद्-अर्थं **न** पुनः **क्रिया** ।  
+पूर्वम् अप्य् अ-पराधीन-  
+प्रवृत्ताव् अस्य **नान्वयः** ॥+++(4)+++
 </details>
+
+<details><summary>English</summary>
+
+When self-surrender has been performed for the sake of a certain object,  
+there should be no repetition of that performance for the same object,  
+(The need for the adoption of the upāya or endeavour in the form of prapatti at first is not denied ).  
+Even before prapatti, the jīva could not act independently of the Lord.
+</details>
+
+<details><summary>Español</summary>
+
+Cuando se **ha realizado** un **auto-curandero** en aras de cierto objeto,  
+**No debe haber repetición** de esa actuación para el mismo objeto,  
+(Al principio **no se niega** la **necesidad** de la **adopción** del upāya o el esfuerzo en forma de Prapatti).  
+Incluso antes de Prapatti, el Jīva **no podía actuar independientemente** del Señor.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 यदर्थन्तु कृतो न्यासस्तदर्थं न पुनः क्रिया । पूर्वमप्यपराधीनप्रवृत्तावस्य नान्वयः ॥
 </details>
 
-When self-surrender has been performed for the sake of a certain object, there should be no repetition of that performance for the same object, (The need for the adoption of the upāya or endeavour in the form of prapatti at first is not denied ). Even before prapatti, the jīva could not act independently of the Lord.
+
 
 There is no injunction for an endeavour at a later time also for protection, when once the surrender of the responsibility for protection has been made in accordance with pramāṇas. For even in that act of the original prapatti, the surrender of the responsibility for one's protection was made possible by Iśvara, out of consideration for some meritorious act performed by the jīva as a result of the ripening of past karma flowing like a stream without any beginning. Since even this prapatti was the Lord's doing, we should not be under the impression that we are protecting ourselves. We should feel that the Lord who, we are taught in the Mūlamantram, is the Protector of all that He made us adopt a certain means and became propitiated thereby so as to protect us. The (following) śloka  conveys the same idea:-- My Master Himself makes me surrender myself to Him, as I am His śeṣa and am ever subject to Him. (I surrender myself to Him) with the help of the intelligence given to me by Him and am now free from all responsibility in regard to my protection as He has taken that responsibility on Himself".
 
