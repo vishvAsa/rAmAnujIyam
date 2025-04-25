@@ -6044,6 +6044,12 @@ y lo **han entregado** como instrucciones para sucesivas (generaciones).
 
 इदुक्कु शास्त्रङ्गळैयुम् मूदलिप्पित्तुक्कॊण्डु उपदेशपरंपरैयुम् </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडिये शास्त्रविरोधमुम् उपदेशक्रमविरोधमुम् वरुमॆऩ्गिऱार् इदुक्कु शास्त्रङ्गळैयुम् मूदलिप्पित्तुक्कॊण्डित्यादिना । 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6089,6 +6095,11 @@ Esta verdad **tiene** que **ser aceptada** por todos los que **tienen** por los 
 कर्मवाऩ्गळाऩ जीवर्गळ् विषयत्तिल् ईश्वरऩॊरु साध्योपायविशेषत्तै मुऩ्ऩिट्टल्लदु रक्षियाऩॆऩ्ऱु शास्त्रनिष्ठर्क्कु परिग्रहिक्कवेणुम्।
 </details>
  
+<details><summary>सार-बोधिनी</summary>
+
+नित्यमाऩ सम्बन्धमात्रम् रक्षणत्तुक्कु उऱुप्पागादॆऩ्गिऱार् शेषित्वादिसम्बन्धम् नित्यमे यागिलुमित्यादिना । कर्मवावाऩ्गळाऩ - अनाद्यपराधिकळाऩ, शास्त्रनिष्ठर्क्कु परिग्रहिक्क वेणुमिति । अन्यथा शास्त्रनिष्ठतै कूडादॆऩ्ऱु करुत्तु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6105,9 +6116,7 @@ Esta verdad **tiene** que **ser aceptada** por todos los que **tienen** por los 
 </details>
 
 
-<details><summary>English</summar
-
-y>
+<details><summary>English</summary>
 
 If the śāstras are given up (as authorities),  
 there will be no Iśvara at all to stand  
@@ -6125,6 +6134,12 @@ en la relación del śeṣī (al jīva).
 
 शास्त्रत्तैक्कैविट्टाल् इस्सम्बन्धञ्जॊल्लुगैक्कु ईश्वरऩैयुङ्गिडैयादु। 
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अदिल् इष्टापत्तियॆऩ्ऩिल्; अनिष्टत्तैक् काट्टुगिऱार् शास्त्रत्तैक् कैविट्टालिति । इस्सम्बन्धम् - जीवश्वरर् कळुडैय शेषशेषिभावसम्बन्धम्, ईश्वरऩैयुम् - अन्द सम्बन्धत्तिऱ्कु प्रतियोगियाऩ ईश्वरऩैयुम्, सॊल्लुगैक्कु - प्रतिपादिप्पदऱ्कु, किडैयादु इति । प्रमाणमिति शेषः । इप्पडि चतनऩै रक्षिक्कैक्कु ऒरु साध्योपायम् वेण्डुमॆऩ्ऱाल् प्रधानप्रतितन्त्राधिकारत् तिल् ईश्वरऩ् शेषियागैयाले चेतनरै रक्षिक्कप्प्राप्तऩ्। 
+</details>
+
 
 ### निरपेक्ष-रक्षा नोक्ता
 
@@ -6205,6 +6220,13 @@ y ser capaz de hacerlo.
 आऩबिऩ्बु सम्बन्धमडियाग ईश्वरऩ् रक्षिक्कप् प्राप्तऩॆऩ्ऱुम्, शेषभूतऩाऩ इवऩ् तऩ्ऩैरक्षित्तुक्कॊळ्ळ प्राप्तऩऩ्ऱॆऩ्ऱुम् मुऩ्बु सॊऩ्ऩदुवुम् रक्ष्यरक्षकभावत्तुक्कु लोकदृष्टप्रक्रियैयाले औचित्यञ्जॊऩ्ऩबडि इत्तऩै, 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+चेतनर् शेषर्गळागैयाले तङ्गळै रक्षित्तुक्कॊळ्ळ प्राप्तरल्लर् ऎऩ्ऱु सॊऩ्ऩदु विरोधियादोवॆऩ्ऩ? अन्द वाक्यत्तिऩ् भावत्तैयरुळिच्चॆय्गिऱार् आऩबिऩ्बु इत्यादिना ।  
+रक्ष्यरक्षकभावत् तुक्कित्यादि । शास्त्रसिद्धमागैयाले व्याजानुष्ठानम् वेण्डुमॆऩ्बदु ऒरुबुऱमिरुक् कट्टुम्, लोकन्यायत्तैप् पार्त्ताल् शेषिक्कु शेषभूततऩै सम्बन्धमात्रत्ताले रक्षिक्कप् प्राप्तियुण्डॆऩ्ऱुम्, शेषभूतऩाऩ स्तनन्धयऩुम् उडैमैयुम् रक्षित्तुक्कॊळ्ळ अप्राप्तर्गळॆऩ्ऱुम् औचित्यम् सॊऩ्ऩदु मात्रमागैयाल् पूर्ववाक्यम् विरुद्धमागादॆऩ्ऱु करुत्तु। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6242,6 +6264,18 @@ para **ganar** su gracia por **propiciación**.
 इव्वळवेरक्षैक्कु निरपेक्षकारणमॆऩ्ऱबडियऩ्ऱु। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इव्वळवे रक्षैक्कु निरपेक्षकारणमॆऩ्ऱबडियऩ्ऱु इति । अव्वधिकारत्तिलेये इदऱ्कुमेल् 
+
+> ‘‘रक्षिक्कुम् बोदु कर्म-वश्यरै  
+> ऒरु उपायत्तिले मूट्टि रक्षिक्कै  
+> ईश्वरऩुक्कु स्वसङ्कल्प-नियतम्’’ 
+
+ऎऩ्ऱु सॊऩ्ऩोमिऱे ऎऩ्ऱु भावम्। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6271,6 +6305,11 @@ Si esa opinión **fue tomada**,
 <details><summary>मूलम्</summary>
 
 अप्पडिक्कॊळ्ळिल् सर्वरुम् नित्यमुक्तराग प्रसङ्गिक्कुम्।
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+विपक्षत्तिल् बाधकमरुळिच्चॆय्गिऱार् अप्पडिक्कॊळ्ळिलिति । 
 </details>
 
 
@@ -6311,6 +6350,14 @@ y cruel con los demás.
 
 स्वातन्त्र्यत्ताले नियमञ्जॊल्लिल् मुऩ्बु सॊऩ्ऩ पडिये वैषम्यनैर्घृण्यङ्गळ् प्रसङ्गिक्कुम्। 
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+स्वातन्त्र्यत्ताले सिलरै रक्षिप्पऩ्, सिलरै रक्षियाऩॆऩ्ऱाल् सर्वमुक्तिप्रसङ्गम् वारादे यॆऩ्ऩ वरुळिच्चॆय्गिऱार् स्वातन्त्र्यत्ताले इति । 
+
+अनिष्टत्तै यरुळिच्चॆय्गिऱार् वैषम्यनैर्घृण्यङ्गळ् प्रसङ्गिक्कुमिति । 
+</details>
+
 
 ### सम्बन्ध-ज्ञान-मात्रेण नालम्
 
@@ -6360,6 +6407,13 @@ Aquellos que **mantienen** estas proposiciones simplemente sobre la base de la r
 </details>
 
 
+<details><summary>सार-बोधिनी</summary>
+
+इऩि रक्षणत्तिऱ्कु सम्बन्धज्ञानमे पोरुम्; रक्षापेक्षादिगळ् वेण्डा ऎऩ्गिऱ पक्षत्तैच् चॊल्लप्पोगिऱवऱाय् अदु युक्तियिऩाला? अल्लदु शास्त्रत्तिऩाला साधिक्कप् पडुगिऱदु ऎऩ्ऱु विकल्पित्तु आद्यपक्षत्तिल् सम्बन्धज्ञानमुम् वेण्डामॆऩ्गिऱार् युक्तिमात्रत्तालित्यादिना । 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अचिद्-द्रव्यङ्गळुम् पशु-मृग-पक्ष्य्-आदिगळुम् स्तनन्धयरुम्  
@@ -6397,6 +6451,12 @@ tal como **no piden protección**?
 अचिद्द्रव्यङ्गळुम् पशुमृगपक्ष्यादिगळुम् स्तनन्धयरुम् रक्षापेक्षारहितङ्गळाऩाऱ्पोले सम्बन्धज्ञानरहितङ्गळुमायिरुक्कववऱ्ऱै रक्षिक्कक् काणानिऩ्ऱोमिऱे। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+सम्बन्धज्ञानमुम् वेण्डामॆऩ्बदै सदृष्टान्तमुपपादिक्किऱार् अचिद्द्रव्यङ्गळुमित्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अप्-पडिक् कण्डोम् आगिलुम्  
@@ -6406,6 +6466,14 @@ tal como **no piden protección**?
 शास्त्रञ् जॊऩ्ऩ कट्टळैयिले +++(भक्ति-प्रपत्ति-रूप-)+++ज्ञान-विशेषम् स्वीकरिक्क वेणुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> सत्यं तथा ऽद्राक्ष्म;  
+> तथापि शास्त्र-बलाद् अत्र सम्बन्ध-ज्ञानम् अपेक्षितम् 
+
+इत्य् उच्येव चेत्---  
+शास्त्रोक्तरीत्या +++(भक्ति-प्रपत्ति-रूप-)+++ज्ञान-विशेषः स्वीकर्तव्यः । 
+</details>
 
 
 <details><summary>English</summary>
@@ -6439,7 +6507,15 @@ también **tendrá que ser aceptado** (según **sea necesario**).
 
 अप्पडिक्कण्डोमागिलुम् शास्त्रबलत्ताले इङ्गु सम्बन्धज्ञानम् अपेक्षितमॆऩ्ऩिल्; शास्त्रञ् जॊऩ्ऩ कट्टळैयिले ज्ञानविशेषम् स्वीकरिक्कवेणुम्। 
 </details>
- 
+
+<details><summary>सार-बोधिनी</summary>
+
+इदऱ्कु परिहारम् पोऩ्ऱ इरण्डाम् पक्षत्तै अनुवदिक् किऱार् अप्पडिक्कण्डोमागिलुम् शास्त्रबलत्ताले इङ्गु सम्बन्धज्ञानमपेक्षितम् ऎऩ्ऩिलिति ।  
+अदै परिहरिक्किऱार् शास्त्रञ्जॊऩ्ऩ कट्टळैयिले ज्ञानविशेषम् स्वीकरिक्क वेणुमिति ।  
+‘‘मामेकं शरणं व्रज’’ ऎऩ्ऱु शास्त्रम् सॊऩ्ऩ विधयज्ञानमे रक्षणो-पायमॆऩ्ऱु अकामऩुम् स्वीकरिक्कवेणुमॆऩ्ऱु करुत्तु। 
+</details>
+
+
 ### सम्बन्ध-भ्रमाभावेन नालम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6452,6 +6528,15 @@ también **tendrá que ser aceptado** (según **sea necesario**).
 सुषुप्त्य्-आद्य्-अवस्थैगळिलेय्  
 ऎल्लार्क्कुम् मोक्षङ् गॊडुक्कप् प्रसङ्गिक्कैयाल्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> स्वस्येश्वरेण रक्षण-समये सम्बन्धेन सहानिवारणम् एवापेक्षितम् 
+
+इति चेत् — तद् अप्य् अनुपपन्नम् —  
+सुषुप्त्य्-आद्य्-अवस्थासु सर्वेभ्योऽपि मोक्ष-प्रदान-प्रसङ्गात् ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6490,6 +6575,13 @@ y **no hay intento** por parte del Jīva para **evitar** protección).
 तऩ्ऩै ईश्वरऩ् रक्षिक्कुम्बोदु सम्बन्धत्तोडे कूड विलक्कामैये वेण्डुवदॆऩ्ऩिल्; अदुवुमनुपपन्नम्;सुषुप्त्याद्यवस्थैकळिलेयॆल्लार्क्कुम् मोक्षङ्गॊडुक्कप् प्रसङ्गिक्कैयाल्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+सर्वमुक्तिप्रसङ्ग परिहारत्तिऱ्काग सम्बन्धत्तोडुगूड विलक्कामैयुम् वेण्डुम्; अदावदु ताऩ् ऒरु व्याजत्तै अनुष्ठित्ताल् ताऩे तऩ्ऩै रक्षित्तुक्कॊळ्ळुवदायुम् रक्षकऩाऩ ईश्वरऩै रक्षणम् सॆय्यवेण्डामॆऩ्ऱु विलक्कुवदागवुमागुमागैयाल् व्याजानुष्ठानमे कूडादॆऩ्गिऱ मतत्तै अनुवदिक्किऱार् तऩ्ऩै इत्यादिना ।  
+परिहरिक्किऱार् अदुवुमनुपपन्नमिति ।  
+कारणमरुळिच्चॆय्गिऱार् सुषुप्त्यादीति ।  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6501,6 +6593,17 @@ y **no hay intento** por parte del Jīva para **evitar** protección).
 विलक्कुगिऱ पश्व्-आदिगळैयुम् पुत्रादिगळैयुम्  
 रक्षिक्कक् काण्गैयाल्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> स्वयं निवारणस्य योग्यायाम् अवस्थायाम्  
+अनिवारणम् एवापेक्षितम् 
+
+इति च वक्तुम् अ-शक्यम्,  
+निवारण-योग्यता-शून्यानाम् अचितां  
+निवारयतां पश्व्-आदीनां पुत्रादीनां च रक्षणस्य दर्शनात् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6532,6 +6635,12 @@ e **incluso** de seres sensibles como ganado e hijos que **intentan prevenirlo**
 ताऩ् विलक्कुगैक्कु योग्यतैयुळ्ळववस्थैयिले विलक्कादॊऴिगैये अपेक्षितमॆऩ्ऩवुमॊण्णादु - विलक्कुगैक्कु योग्यतैयिल्लादवचित् तैयुम् विलक्कुगिऱ पश्वादिगळैयुम् पुत्रादिगळैयुम् रक्षिक्कक् काण्गैयाल्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इदै परिष्करित्तुच्चॊल्लुमवर् पक्षत्तैयु मनुवदित्तु दृष्टविरोधत्ताले परिहरिक्किऱार् ताऩ् विलक्कुगैक्कु योग्यतैयुळ्ळ इत्यादिना । 
+</details>
+
+
 ### नाथवत्ता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6546,27 +6655,20 @@ e **incluso** de seres sensibles como ganado e hijos que **intentan prevenirlo**
 ऎऩ्गिऱ श्लोकत्तिलुम् 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
-आऩबिऩ्बु  
-३७‘‘ये नाथवन्तो हि भवन्ति लोके ते नात्मकर्माणि समारभन्ते ।  
-तेषां हि कार्येषु भवन्ति नाथाश्शैब्यादयो राम यथा ययातेः॥’’  
+अतो 
+
+> ३७‘‘ये नाथवन्तो+++(←नाथ् याचने)+++ हि **भवन्ति** लोके  
+ते नात्म-कर्माणि **समारभन्ते** ।  
+तेषां हि कार्येषु **भवन्ति** नाथाश्  
+शैब्यादयो राम यथा ययातेः॥’’  
 (भारतम् आरण्य-पर्व १६१-२)  
-ऎऩ्गिऱ श्लोकत्तिलुम् 
+
+इति श्लोके 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-नाथ-शब्दत्तिल् व्युत्पत्तियालुम्,  
-निर्भरतैक्कु उपयुक्तम् आऩ सम्बन्ध-विशेषत्तैच् चॊल्लुगिऱ मतुप्-प्रत्ययत्तालुम्  
-याचनमुम्, आत्म-निक्षेपमुम् व्यञ्जितम् आयिऱ्ऱु। 
-</details>
-
-<details><summary>मूलम्</summary>
-
-नाथशब्दत्तिल् व्युत्पत्तियालुम्, निर्भरतैक्कु उपयुक्तमाऩ सम्बन्धविशेषत्तैच् चॊल्लुगिऱ मतुप्प्रत्ययत्तालुम् याचनमुम् आत्मनिक्षेपमुम् व्यञ्जितमायिऱ्ऱु। 
-</details>
-
+<details><summary>English</summary>
 
 From the śloka  : 
 
@@ -6576,6 +6678,52 @@ From the śloka  :
 > who puts forth endeavours on their behalf,  
 > just as Sibi and others did the duties  
 > which should have been performed by Yayāti " 
+
+</details>
+
+<details><summary>Español</summary>
+
+Del Śloka:
+
+> "Los que **tienen** Nathas (señores o protectores) en el mundo  
+> **No realice** su **deber** de protegerse.  
+> **Es** su Natha o Señor  
+> quién **presenta esfuerzos** en su nombre,  
+> Así como Sibi y otros **hicieron** los **deberes**  
+> que **debería haber sido realizado** por Yayāti "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩबिऩ्बु  
+३७‘‘ये नाथवन्तो हि भवन्ति लोके ते नात्मकर्माणि समारभन्ते ।  
+तेषां हि कार्येषु भवन्ति नाथाश्शैब्यादयो राम यथा ययातेः॥’’  
+(भारतम् आरण्य-पर्व १६१-२)  
+ऎऩ्गिऱ श्लोकत्तिलुम् 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+ननु ‘‘ये नाथवन्तः’’ ऎऩ्गिऱ श्लोकत्तिल् जीवव्यापारम् वेण्डामॆऩ्गिऱ मतम् तोऱ्ऱुगिऱदे ऎऩ्ऩ वरुळिच्चॆय्गिऱार् आऩबिऩ्बु इत्यादिना । लोके ये नाथवन्ता भवन्ति ते, आत्मकर्माणि – आत्मरक्षणार्थमाऩ व्यापारङ्गळै, न समारभन्ते हि । तेषां हि कार्येषु - अवर्गळिऩ् रक्षणरूपकार्यङ्गळिल्, नाथाः – शेषिकळ्, भवन्ति – समर्थर्गळाग आगुवार्गळ्। हे बलराम! शैब्यादयः, ययातेः – ययाति ऎऩ्गिऱ राजाविऩुडैयै, कार्ये – रक्षणरूपकार्यत्तिल्, यथा – ऎप्पडि जागरूकर्गळाऩार्गळो अप्पडि ऎऩ्ऱु अन्वयम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाथ-शब्दत्तिल् व्युत्पत्तियालुम्,  
+निर्भरतैक्कु उपयुक्तम् आऩ सम्बन्ध-विशेषत्तैच् चॊल्लुगिऱ मतुप्-प्रत्ययत्तालुम्  
+याचनमुम्, आत्म-निक्षेपमुम् +++(क्रमशो)+++ व्यञ्जितम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+नाथ-शब्द-व्युत्पत्त्या  
+निर्भरतोपयुक्त-सम्बन्ध-विशेष-प्रतिपादक-मतुप्-प्रत्ययेन च  
+याचनम् आत्मनिक्षेपश् च +++(क्रमशो)+++ व्यञ्जिते भवतः । 
+</details>
+
+<details><summary>English</summary>
 
 \- from this śloka ,  
 it should not be thought that  
@@ -6588,8 +6736,43 @@ So the word nāthavantah in the śloka  suggests,
 by the etymological meaning of natha  
 and by the termination (matup) which shows the relationship (of seshin and śeṣa)  
 that is necessary for the state of being carefree, the prayer for protection and the act of self surrender. 
+</details>
 
-Otherwise there should be (as said before ) rnokṣa for all and other such objections. If it is said that the word nāthavantah ia that śloka  should not be interpreted as having a suggestion of all the meanings (referred to), we have to state that analogies taken from ordinary life should not be pressed too far in the śastra on mokṣa , for they would be at variance with actual and explicit statements made in the śāstra).
+<details><summary>Español</summary>
+
+\- De esto Śloka,  
+**no debe pensarse** que  
+**esforzarse** por parte de aquellos que deben **ser protegidos**  
+**no se requiere** en absoluto.  
+Porque la palabra natha **es** de la raíz nath  
+y **significa**, aquí, la **mendicidad** de protección  
+
+y Nāthavantah **en** ese sentido de Śloka,  
+por la fuerza de la terminación (vat o Matup),  
+aquellos que **tienen** un protector.
+
+Entonces la palabra nāthavantah en el Śloka **sugiere**,  
+por el significado etimológico de Natha  
+y por la terminación (Matup) que **muestra** la relación (de Seshin y Śeṣa)  
+Eso **es necesario** para el estado de **ser despreocupado**,  
+la **oración** por la **protección** y el acto de la autocontrol.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नाथशब्दत्तिल् व्युत्पत्तियालुम्, निर्भरतैक्कु उपयुक्तमाऩ सम्बन्धविशेषत्तैच् चॊल्लुगिऱ मतुप्प्रत्ययत्तालुम् याचनमुम् आत्मनिक्षेपमुम् व्यञ्जितमायिऱ्ऱु। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+नाथशब्दत्तिल् व्युत्पत्तियालुम् - नाथृ याच्ञायाम् ऎऩ्गिऱ धातुविल् एऱ्पट्ट व्युत्पत्तियालुम्, सम्बन्धविशेषत्तैच् चॊल्लुगिऱ मतुप्प्रत्ययत्तालुम् - भरस्वीकर्तृत्वरूपसम्बन्धत्तैच् चॊल्लुगिऱ मतुप् प्रत्ययत्तालुम्, याचनमुम् आत्मनिक्षेपमुम् व्यञ्जितमायिऱ्ऱु इति । 
+</details>
+
+
+
+
+Otherwise there should be (as said before ) mokṣa for all and other such objections. If it is said that the word nāthavantah ia that śloka  should not be interpreted as having a suggestion of all the meanings (referred to), we have to state that analogies taken from ordinary life should not be pressed too far in the śastra on mokṣa , for they would be at variance with actual and explicit statements made in the śāstra).
 
 We shall now explain the real purport of the words of trust- worthy authors where the apparent meaning would seem to be that, while Iśvara is the Protector or Saviour of all, we are not required to put forth any endeavour for our protection. Their real meaning is this.
 
