@@ -7380,6 +7380,21 @@ quien **es** la misma encarnación de la compasión ".
 ऎऩ्गिऱबडिये 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+लक्ष्म्या सहेति । हृषीकेशः – कर्मानुगुणमाग तऩक्कु रक्षणीयऩाग निऩैत्त जीवऩुडैय इन्द्रियादिगळै तदधिकारानुगुणमाग उपायानुष्ठानत्तिल् नियमिक्कुम् ईश्वरऩ्, कारुण्यरूपया – कृपैये वडिवुगॊण्डाळ्बोलिरुक्किऱ, देव्या - तऩक्कनुगुणमाऩ विहारत्तैयुडैय, लक्ष्म्या सह - पॆरियबिराट्टिया रोडुगूडिये, रक्षकः - रक्षगऩाग आगिऱाऩॆऩ्ऱु, सर्वसिद्धान्ते – आगम, मन्त्र, तन्त्र, तन्त्रान्तररूपमाऩ सिद्धान्त चतुष्टयत्तिलुम्, वेदान्तेऽपि च – सर्ववेदान्तङ्गळिलुम्, गीयते – उद्घोषिक् कप्पडुगिऱाऩॆऩ्गै। 
+
+इदिल् 
+
+> पिराट्टियोडु सेर्न्दे भगवाऩ् रक्षिक्किऱाऩ्,  
+अदावदु अनिष्टनिवृत्तियैयुम्, इष्टप्राप्तियैयुम् सॆय्विक्किऱाऩ् 
+
+ऎऩ्ऱु सॊल्लियिरुप्पदाल्  
+यज्ञत्तिल् पत्निक्कुक् कर्तृत्वम् बोल्  
+पिराट्टिक्कुम् रक्षणत्तिल् उपायत्वमुण्डॆऩ्ऱु स्पष्टमागत् तोऱ्ऱुगैयाल्  
+वक्ष्यमाण कलक्कम् अतिदुर्बलमॆऩ्ऱु सूचिप्पित्तुक् कॊण्डे परिहारप्रतिज्ञैयैप् पण्णिय् अरुळिगिऱार् ऎऩ्गिऱबडिये इत्यादिना ।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7421,6 +7436,13 @@ quien **se ha consagrado** a sí mismo por el sacrificio o yajna de **salvar** a
 सपत्नीकऩाय्क्कॊण्डु सर्वरक्षणयज्ञदीक्षितऩाऩ सर्वेश्वरऩुक्कु श्रीमच्छब्दत्तिले सॊल्लुगिऱबत्नीसम्बन्धत्तिल् वरुङ्गलक्कङ्गळुक्कु दिङ्मात्रत्ताले परिहारङ् गाट्टुगिऱोम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+‘‘पत्नीसम्बन्धत्तिल् वरुम् कलक्कङ्गळुक्कु’’ ऎऩ्ऱु  
+वक्ष्यमाणकलक्कङ्गळै निर्हेतुकङ्गळाग निर्देशित्तिरुप्पदाल् अवैगळ् सम्भावितङ्गळेअऩ्ऱॆऩ्ऱु सूचितमागिऱदु। अत एव दिङ्मात्रत्ताले परिहारम् काट्टुगिऱोम् ऎऩ्ऱु दिङ्मात्रप्रदर्शनत्ताले परिहारम् प्रतिज्ञातमायिऱ्ऱु। 
+</details>
+
+
 ### द्वये शरण्यत्वम् उक्तम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7430,6 +7452,14 @@ quien **se ha consagrado** a sí mismo por el sacrificio o yajna de **salvar** a
 पिरियच् चॊऩ्ऩार्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[१९५]] 
+
+केचित् द्वये पूर्वखण्डे श्रीमच्-छब्द उपलक्षणपर इति,  
+उत्तरखण्डे श्रीमच्-छब्दो विशेषण-पर इति  
+विभज्य व्याचचक्षिरे । 
+</details>
 
 
 <details><summary>English</summary>
@@ -7497,6 +7527,22 @@ pero esa **adoración y servicio se deben** a ella y a su cónyuge, Nārāyaṇa
 सिलर् द्वयत्तिल् पूर्वखण्डत्तिल् श्रीमच्छब्दमुपलक्षणपरमॆऩ्ऱुम्उत्तरखण्डत्तिल् श्रीमच्छब्दम् विशेषणपरमॆऩ्ऱुम् पिरियच्चॊऩ्ऩार्गळ्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+निरसिक्कवेण्डिय पक्षत्तै अनुवदिक्किऱार् सिलर् द्वयत्तिलित्यादिना । विद्यमानं सद्व्यावर्तकं विशेषणं । यथा गन्धवती पृथिवीत्यादौ गन्धादिः । गन्धमाऩदु पृथिवियिल् इरुन्दुगॊण्डे पृथिवियै इतरत्तिऩिऩ्ऱुम् व्यावर्तिप्पिक्किऱदु। अविद्यमानं सद्व्यावर्तकं उपलक्षणं । यथा "यत्रायं सारसः स देवदत्तकेदार" इत्यादौ सारसादिः । इन्द नम् मुऩ्ऩिरुक्कुम् सारसपक्षियाऩदु मुऩ्बु ऎन्द वयलिलिरुन्ददो अदु देवदत्तकदारमॆऩ्ऱाल् मुऩ्ऩिरुक्कुम् सारसम् देवदत्तकदारत्तिलिरामले अदै इतरव्यावृत्तमाग ज्ञापिक्किऱदिऱे। इन्द विशेषणत्वापलक्षणत्वङ्गळ् जन्माद्यधिकरण श्रीभाष्यत्तिल् सॊल्लप्पट्टदुगळ्। इन्द उपलक्षणत्वत्तै प्रकृतत्तिल् पिराट्टिविषयत् तिले एकदेशिकळुम् सॊल्लुगिऱार्गळिल्लै। सॊल्लवुम् मुडियादु।  
+
+> ‘‘विष्णोश् श्रीर् अनपायिनी’’  
+‘‘श्रीवत्स-वक्षा नित्य-श्रीः’’  
+
+इत्य्-आदि-वचनङ्गळिल् 
+ लक्ष्मिक्कु विष्णुविऩिडत्तिल् सर्वदासत्वं सॊल्लियिरुप्पदाल् अविद्यमानत्वम् घटियातिऱे। आगैयाल् विशेष्यान्वयिक्रियानन्वयित्वे सति विशेष्यव्यावर्तकत्वं विशेषणत्वम्। 
+
+यथा लम्बकर्णम् आनयेत्यादौ लम्बकर्णत्वादेः । 
+
+विशेष्यान्वयिक्रियानन्वयित्व सति विशेष्यव्यावर्तकत्वमुपलक्षणत्वं । यथा चित्रगुमानयत्यादौ चित्रगोत्वादः ऎऩ्ऱु परिष्करित्तुक्कॊळ्ळ वेण्डुम्। द्वयत्तिल् उत्तरखण्डत्तिल् नारायणशब्दोत्तर चतुर्थ्यर्थमाऩ कैङ्कर्यक्रियैयिल् प्रतिसम्बन्धित्वेन श्रीक्कुम् नारायणऩुक्कुम् अन्वयम् सर्वसम्मतमागैयाल् अङ्गु विशेष्यभूतनारायणान्वयिकैङ्कर्य क्रियान्वयित्व सति विशेष्यभूतनारायणव्यावर्तकत्वात् श्री, विशेषणमॆऩ्ऱुम्, श्रीमच्छब्दंविशेषणपरमॆऩ्ऱुम्, पूर्वखण्डत्तिल् ‘‘शरणं प्रपद्ये’’ ऎऩ्गिऱ उपायवरणक्रियैयिल् उपायमाऩ नारायणऩुक्कु मात्रमे अन्वयमुण्डु; अन्द क्रियैयिल् उपायमल्लाद श्रीक्कु अन्वय मिल्लैयागैयाल् विशेष्यान्वयिक्रियानन्वयित्व सति विशेष्यव्यावर्तकत्वरूपोपलक्षणत्वमे पिराट्टिक्कुच्चॊल्लवेण्डुमागैयाल् पूर्वखण्डत्तिल् श्रीमच्छब्दम् उपलक्षणपरमॆऩ्ऱुम् एकदेशिकळिऩ् पक्षमॆऩ्ऱबडि। पिरियच्चॊऩ्ऩार्गळ् - विभक्तमागच्चॊऩ्ऩार्गळ्। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7528,15 +7574,38 @@ en ambos lugares,
 इव्विडत्तिल् शब्दम् एकरूपमायिरुक्क स्वारस्यत्तुक्कु बाधकमुमऩ्ऱिक्केयिरुक्क 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+पूर्वखण्डश्रीमच्छब्दम् उपलक्षणपरमॆऩ्ऱुम्, उत्तरखण्डश्रीमच्छब्दम् विशेषणपरमॆऩ्ऱुंसॊल्लुवदु शब्दवैलक्षण्यत्तालो अल्लदु अर्थबाधत्तालो ऎऩ्ऱु विकल्पित्ताल् इरण्डु विदमागवुम् सॊल्लमुडियादागैयालुम् कूटस्थसम्प्रदायविरुद्धमागैयालुम् इव्विभागम् अनुपपन्नमॆऩ्गिऱार् इव्विडत्तिलित्यादिना । इव्विडत्तिल् - द्वयत्तिल्, शब्दम् - पूर्वात्तरखण्डङ्गळिलुळ्ळ श्रीमच्छब्दम्, एकरूपमायिरुक्क - किञ्चिदपि वैलक्षण्यमिल्लाद तायिरुक्क, स्वारस्यत्तुक्कु बाधकमुमऩ्ऱिक्केयिरुक्क - इरण्डिडत्तिलुम् श्रीमच्छब्दम् विशेषणपरमाऩाल् स्वरसमाऩ अर्थत्तिऱ्कु बाधकमिल्लामलिरुक्क, 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ३९‘‘स्वरूपं स्वातन्त्र्यं भगवत इदम्’’  
-> (श्रीगुणरत्नगोशम् २८) 
+> स्व-रूपं स्वातन्त्र्यम् भगवत इदं चन्द्र-वदने !  
+(**त्वद्-आश्लेषोत्कर्षाद् भवति** खलु, निष्कर्ष-समये +++(←"श्री-पतित्वाद् ईश्वर …")+++।  
+त्वम् **आसीर्** मातः श्रीः कमितुर् इदमित्थंत्व-विभवस्  
+तद्-अन्तर्-भावात् त्वां न पृथग् **अभिधत्ते** श्रुतिरपि ॥)  
+> (श्रीगुण-रत्न-कोशः २८) 
 
 इत्य्-आदिगळिले प्रसिद्धम् आऩ  
 कूट-स्थ--संप्रदाय-विरुद्धम् आगप् पण्णुगिऱ इव् विभागम्  
 अनुपपन्नम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र शब्दे एकरूपे वर्तमाने सति,  
+स्वारस्यस्य बाधके चासति,  
+
+> स्व-रूपं स्वातन्त्र्यम् भगवत इदं चन्द्र-वदने !  
+(**त्वद्-आश्लेषोत्कर्षाद् भवति** खलु, निष्कर्ष-समये +++(←"श्री-पतित्वाद् ईश्वर …")+++।  
+त्वम् **आसीर्** मातः श्रीः कमितुर् इदमित्थंत्व-विभवस्  
+तद्-अन्तर्-भावात् त्वां न पृथग् **अभिधत्ते** श्रुतिरपि) ॥   
+> (श्रीगुण-रत्न-कोशः २८) 
+
+इत्य्-आदिषु प्रसिद्धस्य कूटस्थ-संप्रदायस्य विरुद्धतया क्रियमाणोऽयं विभागो ऽनुपपन्नः । 
 </details>
 
 
@@ -7583,19 +7652,245 @@ Porque en el siguiente Śloka **se dice**:-
 
 <details><summary>मूलम्</summary>
 
-३९‘‘स्वरूपं स्वातन्त्र्यं भगवत इदम्’’(श्रीगुणरत्नगोशम् २८) इत्यादिगळिले प्रसिद्धमाऩ कूटस्थसंप्रदायविरुद्धमागप् पण्णुगिऱ इव्विभागमनुपपन्नम्। 
+३९‘‘स्वरूपं स्वातन्त्र्यं भगवत इदम्’’(श्रीगुण-रत्न-कोशः २८) इत्यादिगळिले प्रसिद्धमाऩ कूटस्थसंप्रदायविरुद्धमागप् पण्णुगिऱ इव्विभागमनुपपन्नम्। 
 </details>
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनन्योपायत्व विरुद्धम् आऩ उपाय-द्वित्व-प्रसङ्गम्  
+> इव्व् इडत्तिल् बाधकम् आऩालोव् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अन्-अन्योपायत्व-विरुद्धस्य उपाय-द्वित्वस्य प्रसङ्गोऽत्र बाधक  
+
+इति चेत् —  
+
+</details>
+
+
+<details><summary>English</summary>
+
+It may be asked whether,  
+if we take Śrīmat as an inseparable attribute of Nārāyaṇa in the first part of the Dvaya also,  
+it would not follow that there are two upāyas viz., Nārāyaṇa  and Lakṣmī ,  
+and whether this would not be at variance with the texts  
+which say that there is no other upāya than Bhagavān. 
+</details>
+
+<details><summary>Español</summary>
+
+Se **puede preguntar** si,  
+Si **tomamos** Śrīmat como un atributo inseparable de Nārāyaṇa en la primera parte del dvaya también,  
+**No seguiría** que **haya** dos upāyas - **a saber**, Nārāyaṇa y Lakṣmī,  
+y si esto **no estaría en desacuerdo** con los textos  
+que **dicen** que **no hay** otro upāya que bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनन्योपायत्व विरुद्धमाऩ उपायद्वित्वप्रसङ्गमिव्विडत्तिल् बाधकमाऩालोवॆऩ्ऩिल्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनन्य-प्रयोजनत्व-विरुद्धम् आऩ  
+प्राप्य-द्वित्व-प्रसङ्गत्ताले  
+उत्तर-खण्डत्तिलुम् विशेषणत्वन् तविर प्रसङ्गिक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्-अन्य-प्रयोजनत्व-विरुद्धस्य प्राप्य-द्वित्वस्य प्रसङ्गाद्  
+उत्तर-खण्डेऽपि विशेषणत्वं त्याज्यं प्रसज्येत ।  
+</details>
+
+
+<details><summary>English</summary>
+
+We counter this objection by asking whether,  
+if we take Lakṣmī  as the inseparable attribute, as you hold, in the second part of Dvaya,  
+it would not follow that  
+there are two objects of attainment, namely, Bhagavān and Lakṣmī  
+and whether this would not be at variance with the texts which say  
+
+> “There is no other interest or object of attainment than Bhagavān".
+</details>
+
+<details><summary>Español</summary>
+
+**Contrarrestamos** esta objeción **preguntando** si,  
+Si **tomamos** a Lakṣmī como el atributo inseparable, como **sostiene**, en la segunda parte de Dvaya,  
+**No seguiría** que  
+**Hay** dos objetos de logro, a saber, Bhagavān y Lakṣmī
+y si esto **no estaría** en desacuerdo con los textos que **dicen**
+
+> "**No hay** otro interés u objeto de logro que Bhagavān".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनन्यप्रयोजनत्वविरुद्ध माऩ प्राप्यद्वित्वप्रसङ्गत्ताले उत्तरखण्डत्तिलुम् विशेषणत्वन्दविर प्रसङ्गिक्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आऩाल् इरण्ड् इडत्तिलुम् उपलक्षणम् आऩालोव् 
+
+ऎऩ्ऩिल्;  
+गुण-विग्रह-व्यापार-विशेषङ्गळुम्  
+इरण्ड् इडत्तिलुम् उपलक्षणङ्गळ् आगप् प्रसङ्गिक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तर्ह्य् उभयत्राप्य् उपलक्षणं भवत्व् 
+
+इति चेत् -  
+गुण-विग्रह-व्यापार-विशेषा अपि उभयत्रोपलक्षणानि प्रसज्येरन् ।  
+</details>
+
+
+<details><summary>English</summary>
+
+If it is now asked: 
+
+> "In that case what is the objection to taking the word Śrīmat  
+> as only an accidentally associated mark (Upalakṣaṇa)  
+> by which Bhagavān is distinguished  
+> in both the parts of the Dvaya", 
+
+the answer is as follows:--
+
+Certain qualities, certain forms ( vigrahas) and certain activities are necessary for Iśvara being the upāya.  
+Likewise certain other qualities, certain other forms and certain activities are ever associated with Iśvara as the object of attainment.  
+These necessary ( things ), also, would be at variance with Iśvara being the only upāya and the only object of attainment respectively.  
+So they, too, would have to be considered as accidental features and not inseparable attributes,  
+but this would be against the view of these critics  
+who hold that Iśvara is the Protector or Saviour only in virtue of (such attributes as) His omnipotence and His compassion.  
+So they cannot concede that these qualities are only accidental features (Upalakṣaṇa).
+</details>
+
+<details><summary>Español</summary>
+
+Si ahora se pregunta:
+
+> "En ese caso, ¿cuál es la objeción a **tomar** la palabra Śrīmat  
+> Como solo una marca **asociada** accidentalmente (Upalakṣaṇa)  
+> por el cual **se distingue** bhagavān  
+> En ambas partes del dvaya?",
+
+La respuesta **es** la siguiente:-
+
+Ciertas cualidades, ciertas formas (Vigrahas) y ciertas actividades **son necesarias** para que Iśvara sea el upāya.  
+Del mismo modo, ciertas otras cualidades, ciertas otras formas y ciertas actividades **están asociadas** con Iśvara como objeto de logro.  
+Estas (cosas) necesarias, también, estarían en desacuerdo con que Iśvara **sea** el único upāya y el único objeto de logro respectivamente.  
+Por lo tanto, ellos también **tendrían** que **considerarse** características accidentales y no atributos inseparables,  
+Pero esto **estaría** en contra de la opinión de estos críticos  
+quienes **sostienen** que Iśvara es el protector o salvador solo en virtud de (tales atributos como) su omnipotencia y su compasión.  
+Por lo tanto, **no pueden admitir** que estas cualidades son solo características accidentales (upalakṣaṇa).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩालिरण्डिडत्तिलुम् उपलक्षणमाऩालो वॆऩ्ऩिल्; गुणविग्रहव्यापारविशेषङ्गळुमिरण्डिडत्तिलुमुपलक्षणङ्गळागप् प्रसङ्गिक्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उपयुक्तङ्गळ् आगैयालेय् अवै विशेषणङ्गळ् 
+
+ऎऩ्ऩिल्;  
+इदु पूर्वोत्तर-खण्डङ्गळिल् पत्नी-सम्बन्धत्तिलुम् तुल्यम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"उपयुक्तत्वात् ते विशेषणानी"ति चेत्  
+इदं पूर्वोत्तर-खण्डयोः पत्नी-संबन्धेऽपि तुल्यम् ।  
+
+</details>
+
+
+<details><summary>English</summary>
+
+They might argue that 
+
+> these qualities, forms and activities are inseparable attributes (viśeṣaṇa) and not accidental features (Upalakṣaṇas),  
+because they are useful for the purpose of protection. 
+
+We reply that the same may be said ( with justice ) of Lakṣmī's relationship as spouse,  
+both in the first part of the Dvaya and in the second part of the Dvaya.  
+(i.e.) (She, too, is useful for the respective purposes ). 
+</details>
+
+<details><summary>Español</summary>
+
+**Podrían argumentar** que
+
+> Estas cualidades, formas y actividades **son** atributos inseparables (viśeṣaṇa) y **no** características accidentales (upalakṣaṇas),  
+Porque **son útiles** para el propósito de protección.
+
+**Respondemos** que se puede decir lo mismo (con justicia) de la relación de Lakṣmī como cónyuge,  
+tanto en la primera parte del dvaya como en la segunda parte del dvaya.  
+(**es decir**) (ella también **es útil** para los respectivos fines).
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+उपयुक्तङ्गळागैयालेयवै विशेषणङ्गळॆऩ्ऩिल्; इदु पूर्वोत्तरखण्डङ्गळिल् पत्नीसम्बन्धत्तिलुम् तुल्यम्। 
+</details>
+
+## लक्ष्मी शरण्या प्राप्या च
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपयोग-विशेषङ्गळ्  
+तत्-तद्-वस्तुक्कळुक्क् अनुरूपमाऩ पडियिले  
+प्रमाण-संप्रदायङ्गळाले कण्डु गॊळ्वदु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+च्च्उपयोग-विशेषास् तत्-तद्-वस्त्व्-अनुरूप-रीत्या प्रमाण-संप्रदायाभ्यां द्रष्टव्याः ।  
+</details>
+
+
+<details><summary>English</summary>
+
+The respective uses of particular things or beings  
+are in accordance with their nature  
+and may be understood from the pramāṇas and from tradition.  
+</details>
+
+<details><summary>Español</summary>
+
+Los **usos** respectivos de cosas o seres particulares  
+**están de acuerdo** con su naturaleza  
+y puede **ser entendido** por los pramāṇas y de la tradición.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपयोगविशेषङ्गळ् तत्तद्वस्तुक्कळुक्कनुरूपमाऩ पडियिले प्रमाणसंप्रदायङ्गळाले कण्डुगॊळ्वदु।
+</details>
 
 
 
-It may be asked whether, if we take Śrīmat as an inseparable attribute of Nārāyaṇa  in the first part of the Dvaya also, it would not follow that there are two upāyas viz., Nārāyaṇa  and Lakṣmī , and whether this would not be at variance with the texts which say that there is no other upāya than Bhagavān. We counter this objection by asking whether, if we take Lakṣmī  as the inseparable attribute, as you hold, in the second part of Dvaya, it would not follow that there are two objects of attainment, namely, Bhagavān and Lakṣmī  and whether this would not be at variance with the texts which say “There is no other interest or object of attainment than Bhagavān".
-
-If it is now asked: "In that case what is the objection to taking the word Śrīmat as only an accidentally associated mark (Upalakṣaṇa) by which Bhagavān is distinguished in both the parts of the Dvaya, the answer is as follows:--Certain qualities, certain forms ( vigrahas) and certain activities are necessary for Iśvara being the upāya. Likewise certain other qualities, certain other forms and certain activities are ever associated with Iśvara as the object of attainment. These necessary ( things ), also, would be at variance with Iśvara being the only upāya and the only object of attainment respectively. So they, too, would have to be considered as accidental features and not inseparable attributes, but this would be against the view of these critics who hold that Iśvara is the Protector or Saviour only in virtue of (such attributes as) His omnipotence and His compassion. So they cannot concede that these qualities are only accidental features (Upalakṣaṇa)
-
-They might argue that these qualities, forms and activities are inseparable attributes (viśeṣaṇa) and not accidental features (Upalakṣaṇas), because they are useful for the purpose of protection. We reply that the same may be said ( with justice ) of Lakṣmī 's relationship as spouse, both in the first part of the Dvaya and in the second part of the Dvaya. (i.e.) (She, too, is useful for the respective purposes ). The respective uses of particular things or beings are in accordance with their nature and may be understood from the pramāṇas and from tradition. The use of a thing or of a being is determined, of course, by its nature.
+The use of a thing or of a being is determined, of course, by its nature.
 
 The usefulness of this attribute Srī in Śrīmat, both in the part dealing with upāya and in that which treats of the object to be attained by that upāya has been described by Nammalvar in the following verses :- " Lakṣmī  who abides in the ever-fragrant lotus will destroy the karma of jīvas (i.e.) those karmas which act as hindrances to Bhagavān becoming the upāya" and "I will sweep Thy temple with the help of Thy grace and that of Lakṣmī  who abides in the lotus." (So also ) Bhagavān Vālmīki declared in The Rāmāyaṇa, the earliest of all kavyas, which is the very essence of the doctrine of śaraṇāgati"This Sītā is capable of protecting us from the great danger (confronting us), O, Rākṣasis" and "She ''is capable of saving the host of Rākṣasis from (the anger of Raghava)". Such authors as Hiranyagarbha and Kasyapa declared: “We should“ meditate on Lakṣmī , who can grant us all the benefits that we desire, who can take us safe out of the sea of saṁsāra, who becomes easily gracious and who can make us happy." ŚrīBhagavān Śaunaka has given this precept. "The man" that prays for the attainment of Bhagavān, who is the purport of all words, should perform prapatti to Lakṣmī  also." The great sage Parāśara who received the knowledge concerning the truth about the Supreme Deity from boons granted to him by Vasiṣṭa and Pulastya has stated "Thou art, O Goddess, the knowledge concerning the soul, the giver of mokṣa , the object of attainment[^67] ." Even if, in this śloka , the conferring of mokṣa  be looked upon as an adjective qualifying the knowledge of the soul, it has to be considered as her glory or vibhūti on account of the appositional use (sāmānādhikaraṇya ). The Lord of Śrī has himself proclaimed in connection with the meditation on Bhagavān as the Lord of Śrī in Śrī Sātvata Saṁhitā -"Those who meditate on Bhagavān seek the protection of Lakṣmī  and with that they easily cross the sea of saṁsāra which is constituted of these three qualities". Apart from the śāstras treating specially of Śrī, these śāstras which do not pertain to any special sect or cult are of great authority.
 
