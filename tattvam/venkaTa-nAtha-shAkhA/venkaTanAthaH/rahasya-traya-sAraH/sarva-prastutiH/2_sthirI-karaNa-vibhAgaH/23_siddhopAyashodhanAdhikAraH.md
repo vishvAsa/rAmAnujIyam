@@ -7324,11 +7324,109 @@ que **se revelan** en la palabra nārāyaṇa,
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इऩि 
+
+> ३८‘‘लक्ष्म्या सह हृषीकेशो  
+देव्या कारुण्य-रूपया ।  
+रक्षकस् सर्व-सिद्धान्ते +++(←मन्त्रसिद्धान्तादि ४)+++   
+वेदान्तेऽपि च **गीयते**॥’’  
+(लक्ष्मीतन्त्रम् २८-१४) 
+
+ऎऩ्गिऱबडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ३८‘‘लक्ष्म्या सह हृषीकेशो  
+देव्या कारुण्य-रूपया ।  
+रक्षकस् सर्व-सिद्धान्ते +++(←मन्त्रसिद्धान्तादि ४)+++  
+वेदान्तेऽपि च **गीयते**॥’’  
+(लक्ष्मीतन्त्रम् २८-१४) 
+
+</details>
+
+<details><summary>English</summary>
+
+Hereafter As stated in the following śloka, 
+
+> "It is said in all religious systems and in the Vedānta  
+that Bhagavān acts as the Saviour only in the company of Lakṣmī ,  
+who is the very embodiment of compassion".  
+(The phrase, 'religious systems' here refers to the four Pāñcarātra systems).
+</details>
+
+<details><summary>Español</summary>
+
+En adelante como se indica en el siguiente Śloka,
+
+> "**Se dice** en todos los sistemas religiosos y en el Vedānta  
+que Bhagavān **actúa** como el Salvador solo en compañía de Lakṣmī,  
+quien **es** la misma encarnación de la compasión ".  
+(La frase, 'sistemas religiosos' aquí **se refiere** a los cuatro sistemas Pāñcarātra).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इऩि 
+
+> ३८‘‘लक्ष्म्या सहहृषीकेशो देव्या कारुण्यरूपया ।  
+> रक्षकस्सर्वसिद्धान्ते वेदान्तेऽपि च गीयते’’(लक्ष्मीतन्त्रम् २८-१४) 
+
+ऎऩ्गिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स-पत्नीकऩ् आय्क् कॊण्डु  
+सर्व-रक्षण-यज्ञ-दीक्षितऩ् आऩ सर्वेश्वरऩुक्कु  
+श्रीमच्-छब्दत्तिले सॊल्लुगिऱ पत्नी-सम्बन्धत्तिल्  
+वरुङ् कलक्कङ्गळुक्कु दिङ्-मात्रत्ताले परिहारङ् काट्टुगिऱोम्। 
+</details>
+
+<details><summary>English</summary>
+
+we shall proceed briefly to remove certain misconceptions  
+which arise from the relationship of spouse  
+that is expressed in the word Śrīmat (having Lakṣmī )  
+as existing between Śrī and the Supreme Ruler  
+who has consecrated Himself for the sacrifice or yajna of saving all. 
+</details>
+
+<details><summary>Español</summary>
+
+**procederemos** brevemente para **eliminar** ciertos conceptos erróneos  
+que **surgen** de la relación del cónyuge  
+que **se expresa** en la palabra Śrīmat (con Lakṣmī)  
+como **existente** entre śrī y el gobernante supremo  
+quien **se ha consagrado** a sí mismo por el sacrificio o yajna de **salvar** a todos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सपत्नीकऩाय्क्कॊण्डु सर्वरक्षणयज्ञदीक्षितऩाऩ सर्वेश्वरऩुक्कु श्रीमच्छब्दत्तिले सॊल्लुगिऱबत्नीसम्बन्धत्तिल् वरुङ्गलक्कङ्गळुक्कु दिङ्मात्रत्ताले परिहारङ् गाट्टुगिऱोम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिलर् द्वयत्तिल् पूर्व-खण्डत्तिल्  
+श्रीमच्-छब्दम् उपलक्षण-परम् ऎऩ्ऱुम्  
+उत्तर-खण्डत्तिल् श्रीमच्-छब्दम् विशेषण-परम् ऎऩ्ऱुम्  
+पिरियच् चॊऩ्ऩार्गळ्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सिलर् द्वयत्तिल् पूर्वखण्डत्तिल् श्रीमच्छब्दमुपलक्षणपरमॆऩ्ऱुम्उत्तरखण्डत्तिल् श्रीमच्छब्दम् विशेषणपरमॆऩ्ऱुम् पिरियच्चॊऩ्ऩार्गळ्। 
+</details>
 
 
 
 
-Hereafter we shall proceed briefly to remove certain misconceptions which arise from the relationship of spouse that is expressed in the word Śrīmat (having Lakṣmī ) as existing between Śrī and the Supreme Ruler who has consecrated Himself for the sacrifice or yajna of saving all. As stated in the following śloka, "It is said in all religious systems and in the Vedānta  that Bhagavān acts as the Saviour only in the company of Lakṣmī , who is the very embodiment of compassion". (The phrase, 'religious systems' here refers to the four Pāñcarātra systems).
 
 There are some who hold that, in the former part of the Dvaya, the word Śrīmat is an Upalakṣaṇa[^66] ( an accidental sign by which the thing is distinguished and not a permanent attribute (or viśeṣaṇa)), whereas in the latter part, the same word means a permanent attribute of Nārāyaṇa . (If this were true, it would follow that the words 'I seek as my refuge' śaraṇam prapadye would apply only to Nārāyaṇa  and not to Śrī or Lakṣmī  who, in that part, according to them, is not meant to be taken as an inseparable attribute but as only an accidental mark to distinguish Nārāyaṇa , Since in the latter part, Srīmat is, according to them, an inseparable attribute (viśeṣana), it would follow that the dative and the namah would apply to the attribute and the substantive, viz. Srī and Bhagavān. (It would then mean that Lakṣmī  is not to be sought as the upāya but that adoration and service are due to her as well as to her spouse, Nārāyaṇa  ).
 
