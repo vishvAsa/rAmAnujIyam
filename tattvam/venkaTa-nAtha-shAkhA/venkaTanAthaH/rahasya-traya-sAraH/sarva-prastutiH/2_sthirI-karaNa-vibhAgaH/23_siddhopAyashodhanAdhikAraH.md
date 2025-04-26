@@ -7339,12 +7339,15 @@ que **se revelan** en la palabra nārāyaṇa,
 
 <details><summary>नीलमेघः (सं)</summary>
 
+इतः परं  
+
 > ३८‘‘लक्ष्म्या सह हृषीकेशो  
 देव्या कारुण्य-रूपया ।  
 रक्षकस् सर्व-सिद्धान्ते +++(←मन्त्रसिद्धान्तादि ४)+++  
 वेदान्तेऽपि च **गीयते**॥’’  
 (लक्ष्मीतन्त्रम् २८-१४) 
 
+इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -7386,6 +7389,8 @@ quien **es** la misma encarnación de la compasión ".
 वरुङ् कलक्कङ्गळुक्कु दिङ्-मात्रत्ताले परिहारङ् काट्टुगिऱोम्। 
 </details>
 
+
+
 <details><summary>English</summary>
 
 we shall proceed briefly to remove certain misconceptions  
@@ -7410,7 +7415,7 @@ quien **se ha consagrado** a sí mismo por el sacrificio o yajna de **salvar** a
 सपत्नीकऩाय्क्कॊण्डु सर्वरक्षणयज्ञदीक्षितऩाऩ सर्वेश्वरऩुक्कु श्रीमच्छब्दत्तिले सॊल्लुगिऱबत्नीसम्बन्धत्तिल् वरुङ्गलक्कङ्गळुक्कु दिङ्मात्रत्ताले परिहारङ् गाट्टुगिऱोम्। 
 </details>
 
-
+### द्वयो शरण्यत्वम् उक्तम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिलर् द्वयत्तिल् पूर्व-खण्डत्तिल्  
@@ -7419,20 +7424,165 @@ quien **se ha consagrado** a sí mismo por el sacrificio o yajna de **salvar** a
 पिरियच् चॊऩ्ऩार्गळ्। 
 </details>
 
+
+<details><summary>English</summary>
+
+There are some who hold that,  
+in the former part of the Dvaya,  
+the word Śrīmat is an Upalakṣaṇa  
+( an accidental sign by which the thing is distinguished  
+and not a permanent attribute (or viśeṣaṇa)),  
+whereas in the latter part, the same word means a permanent attribute of Nārāyaṇa .  
+
+(In "That is Devadatta's field where the crane was sitting before",  
+the crane is an Upalakṣaṇa or accidental feature to identify the field with.  
+It is not a permanent attribute or viśeṣaṇa of the field.)
+
+
+(If this were true, it would follow that the words  
+'I seek as my refuge' / śaraṇam prapadye  
+would apply only to Nārāyaṇa  
+and not to Śrī or Lakṣmī  
+who, in that part, according to them,  
+is not meant to be taken as an inseparable attribute  
+but as only an accidental mark to distinguish Nārāyaṇa.  
+
+Since in the latter part, Srīmat is, according to them, an inseparable attribute (viśeṣana),  
+it would follow that the dative and the namah would apply to the attribute and the substantive, viz. Srī and Bhagavān.  
+(It would then mean that  
+Lakṣmī is not to be sought as the upāya  
+but that adoration and service are due to her as well as to her spouse, Nārāyaṇa  ).
+</details>
+
+<details><summary>Español</summary>
+
+**Hay** algunos que **sostienen** eso,  
+en la primera parte del dvaya,  
+La palabra śrīmat **es** un upalakṣaṇa  
+(un signo accidental por el cual se distingue la cosa  
+y **no** un atributo permanente (o viśeṣaṇa)),  
+Mientras que en la última parte,  
+la misma palabra significa un atributo permanente de Nārāyaṇa.
+
+(En "Ese **es** el campo de Devadatta donde la grúa **estaba sentada** antes",  
+La grúa **es** una característica upalakṣaṇa o accidental para identificar el campo.  
+**No es** un atributo permanente o viśeṣaṇa del campo).
+
+
+(Si esto **fuera** cierto, seguiría que las palabras  
+'**Busco** como mi refugio' / Śaraṇam Prapadye  
+**se aplicaría** solo a Nārāyaṇa  
+y **no** a Śrī o Lakṣmī  
+quien, en esa parte, según ellos,  
+**no está destinado** a **ser tomado** como un atributo inseparable  
+pero como solo una marca accidental para **distinguir** nārāyaṇa.
+
+Dado que en la última parte, Srīmat **es**, según ellos, un atributo inseparable (viśeṣana),  
+**Seguiría** que el dativo y el namah **se aplicarían** al atributo y al sustantivo, a saber Srī y Bhagavān.  
+(Entonces **significaría** que  
+Lakṣmī **no debe ser buscado** como el upāya  
+pero esa **adoración y servicio se deben** a ella y a su cónyuge, Nārāyaṇa).
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 सिलर् द्वयत्तिल् पूर्वखण्डत्तिल् श्रीमच्छब्दमुपलक्षणपरमॆऩ्ऱुम्उत्तरखण्डत्तिल् श्रीमच्छब्दम् विशेषणपरमॆऩ्ऱुम् पिरियच्चॊऩ्ऩार्गळ्। 
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिल्  
+शब्दम् एकरूपम् आय् इरुक्क  
+स्वारस्यत्तुक्कु बाधकमुम् अऩ्ऱिक्केय् इरुक्क  
+</details>
+
+<details><summary>English</summary>
+
+In this (wrong) view,  
+when the same word Śrīmat is found in both the parts (of Dvaya)  
+and when there is no objection to interpreting it in the same way,  
+in both the places,  
+
+</details>
+
+<details><summary>Español</summary>
+
+En esta vista (incorrecta),  
+Cuando **se encuentra** la misma palabra Śrīmat en ambas partes (de dvaya)  
+y cuando **no hay objeción a interpretarlo** de la misma manera,
+en ambos lugares,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् शब्दम् एकरूपमायिरुक्क स्वारस्यत्तुक्कु बाधकमुमऩ्ऱिक्केयिरुक्क 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ३९‘‘स्वरूपं स्वातन्त्र्यं भगवत इदम्’’  
+> (श्रीगुणरत्नगोशम् २८) 
+
+इत्य्-आदिगळिले प्रसिद्धम् आऩ  
+कूट-स्थ--संप्रदाय-विरुद्धम् आगप् पण्णुगिऱ इव् विभागम्  
+अनुपपन्नम्। 
+</details>
+
+
+<details><summary>English</summary>
+
+the adoption of an interpretation  
+which is at variance with the well-known view of the ancient ācāryas  
+and with the tradition connected with Nammalvar, the chief of all prapannas  
+and which would give two different interpretations to the same word in the same sentence  
+has no justification.  
+For in the following śloka it is said :- 
+
+> "O Lakṣmī , with a face delightful like the moon!  
+> When (we) try to study Thee as distinct from Bhagavān,  
+> (we feel) that His svarūpa or essential nature and His being the Ruler over all  
+> are the consequence of the greatness, which is His,  
+> by His being ever with Thee.  
+> Thou art, therefore, the part (or attribute) by which Bhagavān is understood  
+> as being of such and such a character.  
+> Since Thou and Bhagavān are thus (inseparably) united,  
+> the Veda does not speak of Thee separately".
+</details>
+
+<details><summary>Español</summary>
+
+la **adopción** de una interpretación  
+que está en **desacuerdo** con la **conocida visión** de los antiguos ācāryas  
+y con la tradición **conectada** con Nammalvar, el jefe de todas las Prapannas  
+y que **darían** dos interpretaciones diferentes a la misma palabra en la misma **oración**  
+**no tiene** justificación.  
+Porque en el siguiente Śloka **se dice**:-
+
+> "¡Oh Lakṣmī, con una cara encantadora como la luna!  
+> Cuando (nosotros) **tratamos** de **estudiarte** como distinto de Bhagavān,  
+> (sentimos) que su svarūpa o naturaleza esencial y su **ser** el gobernante sobre todo  
+> **son** la consecuencia de la grandeza, que **es** suya,  
+> Por su **ser** siempre **contigo**.  
+> Tú **eres**, por lo tanto, la parte (o atributo) por la cual **se entiende** Bhagavān  
+> como **ser** de tal y tal personaje.  
+> Dado que tú y Bhagavān **están**, por lo tanto, (inseparablemente) unidos,  
+> El Veda **no habla** de ti por **separado**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+३९‘‘स्वरूपं स्वातन्त्र्यं भगवत इदम्’’(श्रीगुणरत्नगोशम् २८) इत्यादिगळिले प्रसिद्धमाऩ कूटस्थसंप्रदायविरुद्धमागप् पण्णुगिऱ इव्विभागमनुपपन्नम्। 
+</details>
 
 
 
-There are some who hold that, in the former part of the Dvaya, the word Śrīmat is an Upalakṣaṇa[^66] ( an accidental sign by which the thing is distinguished and not a permanent attribute (or viśeṣaṇa)), whereas in the latter part, the same word means a permanent attribute of Nārāyaṇa . (If this were true, it would follow that the words 'I seek as my refuge' śaraṇam prapadye would apply only to Nārāyaṇa  and not to Śrī or Lakṣmī  who, in that part, according to them, is not meant to be taken as an inseparable attribute but as only an accidental mark to distinguish Nārāyaṇa , Since in the latter part, Srīmat is, according to them, an inseparable attribute (viśeṣana), it would follow that the dative and the namah would apply to the attribute and the substantive, viz. Srī and Bhagavān. (It would then mean that Lakṣmī  is not to be sought as the upāya but that adoration and service are due to her as well as to her spouse, Nārāyaṇa  ).
 
-[^66]: In "That is Devadatta's field where the crane was sitting before", the crane is an Upalakṣaṇa or accidental feature to identify the field with. It is not a permanent attribute or viśeṣaṇa of the field.
 
-In this (wrong) view, when the same word Śrīmat is found in both the parts (of Dvaya) and when there is no objection to interpreting it in the same way, in both the places, the adoption of an interpretation which is at variance with the well-known view of the ancient ācāryas and with the tradition connected with Nammalvar, the chief of all prapannas and which would give two different interpretations to the same word in the same sentence has no justification. For in the following śloka  it is said :- "O Lakṣmī , with a face delightful like the moon! When (we) try to study Thee as distinct from Bhagavān, (we feel) that His svarūpa or essential nature and His being the Ruler over all are the consequence of the greatness, which is His, by His being ever with Thee. Thou art, therefore, the part (or attribute) by which Bhagavān is understood as being of such and such a character. Since Thou and Bhagavān are thus (inseparably) united, the Veda does not speak of Thee separately".
 
 It may be asked whether, if we take Śrīmat as an inseparable attribute of Nārāyaṇa  in the first part of the Dvaya also, it would not follow that there are two upāyas viz., Nārāyaṇa  and Lakṣmī , and whether this would not be at variance with the texts which say that there is no other upāya than Bhagavān. We counter this objection by asking whether, if we take Lakṣmī  as the inseparable attribute, as you hold, in the second part of Dvaya, it would not follow that there are two objects of attainment, namely, Bhagavān and Lakṣmī  and whether this would not be at variance with the texts which say “There is no other interest or object of attainment than Bhagavān".
 
