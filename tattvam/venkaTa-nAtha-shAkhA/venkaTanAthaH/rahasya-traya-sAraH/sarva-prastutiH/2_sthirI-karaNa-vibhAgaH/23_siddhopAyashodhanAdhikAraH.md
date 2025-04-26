@@ -5800,7 +5800,7 @@ y también inconsistencias con lo que **se ha dicho** antes.
 </details>
 
 
-## संबन्ध-विशेष-मूलक-शङ्का-परिहारः
+## संबन्ध-विशेष-मूलक-शङ्काः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6852,7 +6852,7 @@ Si **se dice** que la palabra nāthavantah en esto Śloka
 इत्यादि वचनविरुद्धमाम्। 
 </details>
 
-### स्वरक्षणे ऽल्पान्वयः
+### स्वरक्षणे ऽन्वय-कारणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > सर्व-रक्षकऩ् आऩव् ईश्वरऩ् उण्ड् आय् इरुक्क  
@@ -6907,6 +6907,15 @@ Su verdadero significado **es** este.
 प्रवृत्ताव् अस्य **नान्वयः** ॥+++(4)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+यद्-अर्थन् तु **कृतो न्यासस्**  
+तद्-अर्थं **न** पुनः **क्रिया** ।  
+पूर्वम् अप्य् अ-पराधीन-  
+प्रवृत्ताव् अस्य **नान्वयः** ॥+++(4)+++
+</details>
+
+
 <details><summary>English</summary>
 
 When self-surrender has been performed for the sake of a certain object,  
@@ -6929,15 +6938,395 @@ Incluso antes de Prapatti, el Jīva **no podía actuar independientemente** del 
 यदर्थन्तु कृतो न्यासस्तदर्थं न पुनः क्रिया । पूर्वमप्यपराधीनप्रवृत्तावस्य नान्वयः ॥
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इवऩ् स्वरक्षणार्थम् आग निक्षेपादिगळैच् चॆय्यवेण्डुमॆऩ्ऱाल् तऩ्ऩुडैय रक्षणत्तिल् तऩक्कन्वयमिल्लै यॆऩ्गिऱ पॆरियोर् वचनङ्गळुक्कु गतियॆऩ्ऩ वॆऩ्ऩवरुळिच्चॆय्गिऱार् यदर्थं त्विति । यादॊरु फलार्थमाग भरन्यासमाऩदु सॆय्यप् पट्टदो? अन्द फलत्तिऱ्काग मऱुबडियुम् भरन्यासरूपक्रियै पण्णलागादु ऎऩ्बदु पूर्वार्धतात्पर्यम्। प्रपन्नऩिऩ् उत्तरावस्थैयैच् चॊल्लुगिऱदु इन्द आप्तवाक्यमॆऩ्ऱु करुत्तु। सामान्यमाऩ आप्तवाक्यत्तै उत्तरावस्थापरमागच् चॊल्ललामो वॆऩ्ऩ? प्रपत्तिपूर्वदशा-परमागवुम् अरुळिच्चॆय्गिऱार् पूर्वमप्यपराधीनप्रवृत्तावस्य नान्वयः ऎऩ्गिऱ उत्तरार्धत्ताल्। मुऩ्बु पण्णिऩ प्रपत्तियिलुम् इवऩुक्कु स्वातन्त्र्यण प्रवृत्तियिल्लैयॆऩ्बदु इदिऩर्थम्। प्रपत्त्यनुष्ठानत्तिऱ्कु मुऩ्बुम् स्वाधीनमायुम् स्वार्थमायुम् ऒरु प्रवृत्तियुम् जीवात्माविऱ्किल्लै यॆऩ्बदिलेये नोक्कुडैयदु आप्तपासुरमॆऩ्ऱबडि। 
+</details>
 
 
-There is no injunction for an endeavour at a later time also for protection, when once the surrender of the responsibility for protection has been made in accordance with pramāṇas. For even in that act of the original prapatti, the surrender of the responsibility for one's protection was made possible by Iśvara, out of consideration for some meritorious act performed by the jīva as a result of the ripening of past karma flowing like a stream without any beginning. Since even this prapatti was the Lord's doing, we should not be under the impression that we are protecting ourselves. We should feel that the Lord who, we are taught in the Mūlamantram, is the Protector of all that He made us adopt a certain means and became propitiated thereby so as to protect us. The (following) śloka  conveys the same idea:-- My Master Himself makes me surrender myself to Him, as I am His śeṣa and am ever subject to Him. (I surrender myself to Him) with the help of the intelligence given to me by Him and am now free from all responsibility in regard to my protection as He has taken that responsibility on Himself".
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-This is the form prescribed for enabling us to meditate on Bhagavān without the faults of the desire for renown, gain, honour or benefit, and of attachment to the fruit, the notion of one's being the (independent) doer and having an upāya. Therefore such things as the prayer for protection are like the child's act of suckling the mother's milk and the grace of the Lord flows like mother's milk (after the propitiation). From this it follows that (in stressing the need for the jīva's endeavour), we do not minimise the primary importance of Siddhopāya, namely, Iśvara, who is the existent upāya.
+यथा-प्रमाणम् स्व-रक्षण-भर-समर्पणम् पण्णिऩवऩुक्कुप्  
+पिऩ्बु स्व-रक्षणार्थ-व्यापारत्तिल् प्राप्तिय् इल्लै। 
+</details>
 
-So far we have dispelled the misconceptions that might arise from a consideration of the peculiar attributes and the peculiar relationship (of śeṣa and śeṣī ) which are revealed in the word Nārāyaṇa,
+<details><summary>नीलमेघः (सं)</summary>
+
+यथा-प्रमाणं स्व-रक्षण-भर-समर्पणं कृतवतः  
+पश्चात् स्व-रक्षणार्थ-व्यापारे प्राप्तिर् नास्ति ।  
+</details>
+
+
+<details><summary>English</summary>
+
+There is no injunction for an endeavour at a later time also for protection,  
+when once the surrender of the responsibility for protection has been made in accordance with pramāṇas. 
+</details>
+
+<details><summary>Español</summary>
+
+**No hay una orden** para un **esfuerzo** en un momento posterior también para **protección**,  
+Cuando una vez, la **rendición** de la responsabilidad de la protección **se ha hecho** de **acuerdo** con Pramāṇas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथाप्रमाणम् स्वरक्षणभरसमर्पणम् पण्णिऩवऩुक्कुप् पिऩ्बु स्वरक्षणार्थव्यापारत्तिल् प्राप्तियिल्लै। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इन्द कारिकैयैत् तामे विवरिक्किऱार् यथाप्रमाणमित्यादियाल्। यथाप्रमाणम् - प्रमाणम् सॊऩ्ऩबडि। इदऩाल् ताऩ् अनुष्ठित्त भरसमर्पणम् प्रमाणम् सॊऩ्ऩबडि अनुष्ठिक्कप्पडविल्लैयॆऩ्ऱु तोऱ्ऱिऩाल् पुनरपि तदनुष्ठानम् कूडुमॆऩ्ऱु सूचितम्। पिऩ्बु स्वरक्षणार्थव्यापारत्तिल् प्राप्तियिल्लै यॆऩ्ऱदाल् आप्तपासुरम् उत्तरावस्थापरमॆऩ्गिऱ पूर्वार्धतात्पर्यम् सॊल्लप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुऩ्बु ताऩुम्  
+स्व-रक्षणार्थम् आगप् पण्णिऩ समर्पणादि-व्यापारमुम्  
+सर्व-कर्ताव् आऩव् अवऩ् ताऩे  
+बीजाङ्कुर-न्यायत्ताले  
+अनादिय् आग प्रवर्तिप्पित्त कर्म-प्रवाह-विपाक-विशेषत्तिले वन्दद्  
+ऒरु यादृच्छिक-सुकृतादि विशेष-कारणत्तै मुऩ्ऩ् इट्टुक् कॊण्डु पण्ण-वित्ताऩ् आगैयाल्  
+
+> नामे नम्मै रक्षित्तुक् कॊळ्ळुगिऱोम् 
+
+ऎऩ्ऱ् इरुक्कप् प्राप्तिय् इल्लै। 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पूर्वम् अपि  
+स्वेन स्व-रक्षणार्थं कृतस्य समर्पणादि-व्यापारस्य  
+सर्व-कर्त्रा तेनैव बीजाङ्कुर-न्यायेन  
++अनादि-प्रवर्तित-कर्म-प्रवाह-विशेष-हेतुक--  
+यत्-किञ्चिद्--यादृच्छिक-सुकृतादि-विशेष-कारणं पुरस् कृत्य संपादितत्वात्  
+
+> "वयम् एवास्मान् रक्षाम"  
+
+इत्य् अवस्थानस्य प्राप्तिर् नास्ति । 
+
+</details>
+
+
+<details><summary>English</summary>
+
+For even in that act of the original prapatti,  
+the surrender of the responsibility for one's protection was made possible by Iśvara,  
+out of consideration for some meritorious act performed by the jīva  
+as a result of the ripening of past karma flowing like a stream without any beginning.  
+Since even this prapatti was the Lord's doing,  
+we should not be under the impression that we are protecting ourselves.  
+</details>
+
+<details><summary>Español</summary>
+
+Porque incluso **en** ese **acto** del Prapatti original,  
+La **rendición** de la responsabilidad de la protección fue posible por Iśvara,  
+Por **consideración** por algún acto meritorio **realizado** por el Jīva  
+Como **resultado** de la **maduración** del karma pasado que **fluye** como una corriente sin ningún **comienzo**.  
+
+Dado que incluso este Prapatti **era** el de el Señor,
+**No debemos tener** la impresión de que nos **estamos protegiendo**.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुऩ्बु ताऩुम् स्वरक्षणार्थमागप् पण्णिऩ समर्पणादिव्यापारमुम् सर्वकर्तावाऩ ववऩ् ताऩे बीजाङ्कुरन्यायत्ताले अनादियाग प्रवर्तिप्पित्त कर्मप्रवाहविपाकविशेषत्तिले वन्ददॊरु यादृच्छिकसुकृतादि विशेषकारणत्तै मुऩ्ऩिट्टुक् कॊण्डु पण्णुवित्ताऩागैयाल् नामे नम्मै रक्षित्तुक् कॊळ्ळुगिऱोमॆऩ्ऱिरुक्कप् प्राप्तियिल्लै। 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+उत्तरार्धार्थत्तै यरुळिच्चॆय्गिऱार् मुऩ्बु ताऩुमित्यादिना । स्वरक्षणार्थमाग नाम् पण्णिऩ भरसमर्पणादिव्यापारत्तैयुम् सर्वकर्तावाऩ भगवाऩे पण्णिवैत्ताऩागिल् अदै अवऩ् मुऩ्बे पण्णिवैक्कगूडादो ऎऩ्गिऱ शङ्गैयै इदऱ्कु अनुगुण-माग सुकृतविशषपरिपाकम् इप्पॊऴुदुदाऩ् वन्ददु; इदऱ्कु मुऩ्ऩालिल्लै यॆऩ्ऱु उपपादित्तु परिहरिक्किऱार् बीजाङ्कुरन्यायत्ताले इत्यादिना । नामे नम्मै रक्षित्तुक् कॊळ्ळुगिऱोमॆऩ्ऱिरुक्कप् प्राप्तियिल्लै इति । इदऩाल् स्वरक्षणार्थव्यापारत्तिल् नमक्कु अन्वयमिल्लै यॆऩ्गिऱ आप्तवाक्यार्थम् स्पष्टीकरिक्कप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्व-रक्षकऩ् आग मूल-मन्त्रादिगळिले शिक्षितऩ् आऩव् इवऩ्-दाऩे  
+नम्मैय् ऒरु उपायत्तिले व्यापरिप्पित्तु  
+अन्द व्यापारत्ताले प्रसन्नऩ् आय् रक्षिक्किऱाऩ्  
+
+ऎऩ्ऱ् इरुक्कप् प्राप्तम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> सर्व-रक्षकतया मूल-मन्त्रादौ शिक्षितो ऽयम् एव  
+अस्मान् कस्मिंश्चिद् उपाये व्यापार्य  
+तेन व्यापारेण प्रसन्नः सन् रक्षति
+
+इति स्थातुं युक्तम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+We should feel that the Lord who,  
+we are taught in the Mūlamantram,  
+is the Protector of all -  
+that He made us adopt a certain means  
+and became propitiated thereby so as to protect us.  
+</details>
+
+<details><summary>Español</summary>
+
+**Deberíamos sentir** que el Señor que,  
+Nos **enseñan** en el Mūlamantram,  
+**es el protector** de todo -  
+que **nos hizo adoptar** cierto medio  
+y **se propitió** así para **protegernos**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वरक्षकऩाग मूलमन्त्रादिगळिले शिक्षितऩाऩविवऩ्दाऩे नम्मैयॊरु उपायत्तिले व्यापरिप्पित्तु अन्द व्यापारत्ताले प्रसन्नऩाय् रक्षिक्किऱाऩॆऩ्ऱिरुक्कप् प्राप्तम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इदऩालेफलितमाऩ अर्थत्तै यरुळिच्चॆय्गिऱार् सर्वरक्षकऩाग इत्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वामी स्व-शेषं स्व-वशं  
+स्व-भरत्वेन निर्भरम् ।  
+स्व-दत्त--स्व-धिया स्वार्थं  
+स्वस्मिन् **न्यस्यति** मां स्वयम् ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वामी स्व-शेषं स्व-वशं  
+स्व-भरत्वेन निर्भरम् ।  
+स्व-दत्त--स्व-धिया स्वार्थं  
+स्वस्मिन् **न्यस्यति** मां स्वयम् ॥ 
+</details>
+
+<details><summary>विषयः</summary>
+
+सात्त्विक-त्यागः, भर-न्यासः
+</details>
+
+<details><summary>English</summary>
+
+The (following) śloka  conveys the same idea:-- 
+
+My Master Himself makes me surrender myself to Him,  
+as I am His śeṣa  
+and am ever subject to Him.  
+(I surrender myself to Him) with the help of the intelligence given to me by Him  
+and am now free from all responsibility in regard to my protection  
+as He has taken that responsibility on Himself.
+</details>
+
+<details><summary>Español</summary>
+
+El (siguiente) Śloka **transmite** la misma idea:-
+
+Mi maestro mismo me **hace entregarme** a él,  
+Como yo **soy** su Śeṣa  
+Y alguna vez **estoy** sujeto a él.  
+(Me entrego a él) con la **ayuda** de la inteligencia que me **dio**  
+y ahora **estoy** libre de toda responsabilidad con respecto a mi **protección**  
+como él **ha asumido** esa responsabilidad a sí mismo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वामी स्वशेषं स्ववशं स्वभरत्वेन निर्भरम् । स्वदत्तस्वधिया स्वार्थं स्वस्मिन्न्यस्यति मां स्वयम् ॥ 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+रक्षिक्किऱाऩॆऩ्ऱिरुक्कुम् प्रकारत्तै न्यासदशकश्लोकत्ताले यरुळिच्चॆय्गिऱार् स्वामीति । स्वामी – शेषि-याऩ नारायणऩ्, स्वशेषं - तऩक्कु शेषभूतऩाय्, स्ववशं- तऩक्कु परतन्त्रऩाय्, इवै यिरण्डुम् प्रणवनमस्सुक्कळिऩुडैय अर्थङ्गळ्। स्वभरत्वेन - तऩ्ऩिडत्तिल् न्यस्तभरऩाग इरुक्कुगैयाले, निर्भरं – भरमऱ्ऱवऩागप्पण्णुगैक्कु, अथवा निर्भरं यथा तथा स्वभरत्वेन मां न्यस्यतीत्यन्वयः । स्वदत्तस्वधिया - तऩ्ऩाले कॊडुक्कप्पट्ट स्वविषयकमाऩ भरसमर्पणरूपबुद्धियाले, स्वार्थं – शेषियाऩ तऩ् प्रयोजनत्तिऱ्कागवे, स्वयं – स्वतन्त्रऩाऩ ताऩागवे, स्वस्मिन् - तऩ्ऩिडत्तिलेये, न्यस्यति – निक्षेपिक्किऱाऩ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु आत्म-समर्पण-दशैयिल् ख्याति-लाभ-पूजा--फल-सङ्ग--कर्तृत्वोपायत्वङ्गळ् आगिऱ तूराल्+++(=कल्पषेण)+++ अऱ्ऱ  
+भगवद्-अनुसन्धानक् कट्टळै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इयम् आत्म-समर्पण-दशायां ख्याति-लाभ-पूजा--फल-सङ्ग--कर्तृत्वोपायत्व-रूप-दोष-रहिता  
+भगवद्-अनुसन्धान-पद्धतिः । 
+</details>
+
+<details><summary>English</summary>
+
+This is the form prescribed  
+for enabling us to meditate on Bhagavān  
+without the faults of the desire for renown, gain, honour or benefit, and of attachment to the fruit, the notion of one's being the (independent) doer and having an upāya. 
+</details>
+
+<details><summary>Español</summary>
+
+Este **es** el formulario **prescrito**  
+para **permitirnos meditar** en bhagavān  
+Sin las fallas del deseo de renombre, ganancia, honor o beneficio, y de **apego** a la fruta, la noción de que uno **es** el **hacedora** (independiente) y **tener** un upāya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु आत्मसमर्पणदशैयिल् ख्यातिलाभपूजाफलसङ्गकर्तृत्वोपायत्वङ्गळागिऱ तूरालऱ्ऱ भगवदनुसन्धानक् कट्टळै। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इव्वनुसन्धानम् आत्मरक्षाभर समर्पणदशैयिल् सङ्गरहितमागक् कर्तव्यमॆऩ्गिऱार् इदु इत्यादिना । तूराल् - कल्मषङ्गळ्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् ताय्-मुलैप्-पाल् बोले वरुगिऱव् ईश्वर-प्रसादत्तुक्कुम्  
+स्तनन्-धयऩ्-उडैय मुलैय्-उण्गिऱ व्यापारम् बोले  
+इवऩ्-उडैय अपेक्षादिगळ्।+++(5)+++ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो मातृ-स्तन्यवद् उपनमत ईश्वरप्रसादस्य  
+स्तनन्-धयीय-स्तन-चूषण-व्यापारवद्  
+अस्यापेक्षादीनि ।  
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore such things as the prayer for protection  
+are like the child's act of suckling the mother's milk  
+and the grace of the Lord flows like mother's milk (after the propitiation). 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, cosas como la **oración** por la protección  
+son como el acto del niño de **succionar** la leche de la madre  
+y la gracia del Señor **fluye** como la leche de la madre (después de la **propiciación**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ताय् मुलैप्पाल्बोले वरुगिऱ वीश्वरप्रसादत्तुक्कुम् स्तनन्धयऩुडैय मुलैयुण्गिऱ व्यापारम्बोले इवऩुडैय अपेक्षादिगळ्। 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+रक्षापेक्षै आवश्यकमॆऩ्बदऱ्कु कीऴ्च्चॊऩ्ऩ ताय्मुलैप्पाल् दृष्टान्तम् मिगवुम् अनुगुणमॆऩ्ऱु उपपादित्तु निगमिक्किऱार् आगैयालिति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताल् सिद्धोपाय-स्वरूपत्तुक्कुक् कॊत्तै+++(=दोषः)+++ वारादु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनेन सिद्धोपायस्वरूपस्य दोषो न भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+From this it follows that  
+(in stressing the need for the jīva's endeavour),  
+we do not minimise the primary importance of Siddhopāya, namely, Iśvara,  
+who is the existent upāya.
+
+</details>
+
+<details><summary>Español</summary>
+
+De esto **se deduce** que  
+(al **enfatizar** la **necesidad** del **esfuerzo** de Jīva),  
+No **minimizamos** la importancia principal de Siddhopāya, a **saber**, Iśvara,  
+quien **es** el upāya existente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्ताल् सिद्धोपायस्वरूपत्तुक्कुक् कॊत्तै वारादु।
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अङ्गु मुलै युण्णुम् व्यापारम्बोल् इङ्गुम् रक्षापेक्षादिगळ् आवश्यकमॆऩ्ऱु करुत्तु। रक्षापेक्षादिगळाले सर्वशक्तत्वादिगळुक्कु दोषम् वारादॆऩ्गिऱार् इत्तालिति । कॊत्तै - दोषम्, इन्द रक्षापेक्षणमुम् वैषम्यनैर्घृण्यसर्वमुक्ति प्रसङ्गादिपरिहारार्थमाग स्वसङ्कल्पनियतमागैयाले स्वातन्त्र्यकाष्ठाभूतमॆऩ्ऱु करुत्तु। 
+</details>
+
+## लक्ष्म्यां शङ्काः
+<details><summary>English</summary>
 
 (5) LAKṢMĪ IS AS MUCH THE UPĀYA AS THE LORD HIMSELF:
+</details>
+
+<details><summary>Español</summary>
+
+(5) Lakṣmī **es** tanto el Upāya como el Señor mismo:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि नारायण-शब्दत्तिल् सिद्धम् आऩ गुण-विशेष--सम्बन्ध-विशेषङ्गळ् अडिय् आगप् पिऱक्कुङ्  
+कलक्कङ्गळुक्कुप् परिहारम् उदाहरित्तोम्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं नारायण-शब्दे सिद्धान् गुण-विशेष--सम्बन्ध-विशेषान्  
+हेतुत्वेन +अवलम्ब्य जायमानानां व्यामोहानां परिहारान् उदाहार्ष्म । 
+</details>
+
+
+<details><summary>English</summary>
+
+So far we have dispelled the misconceptions that might arise  
+from a consideration of the peculiar attributes and the peculiar relationship (of śeṣa and śeṣī )  
+which are revealed in the word Nārāyaṇa,
+</details>
+
+<details><summary>Español</summary>
+
+Hasta ahora **hemos disipado** los conceptos erróneos que **podrían surgir**  
+De una **consideración** de los atributos peculiares y la relación peculiar (de Śeṣa y Śeṣī)  
+que **se revelan** en la palabra nārāyaṇa,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि नारायणशब्दत्तिल् सिद्धमाऩ गुणविशेषसम्बन्धविशेषङ्गळडियागप् पिऱक्कुङ् गलक्कङ्गळुक्कुप् परिहारम् उदाहरित्तोम्; 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इऩि वृत्तानुवादपूर्वकमाग शिष्यावधानार्थम् वक्ष्यमाणार्थत्तै प्रतिज्ञै पण्णुगिऱार् इप्पडि इत्यादिना । 
+
+> ‘‘गुणविशेषसम्बन्धविशेषङ्गळडियागप् पिऱक्कुम् कलक्कङ्गळुक्कु’’ 
+
+ऎऩ्ऱु मुऩ्सॊऩ्ऩ कलक्कङ्गळुक्कु हेतुक्कळै उदाहरित्तदाल्, अन्द कलक्कङ्गळ् सम्भावितङ्गळॆऩ्ऱु तोऩ्ऱुगिऱदु। 
+</details>
+
+
+
+
+
 
 Hereafter we shall proceed briefly to remove certain misconceptions which arise from the relationship of spouse that is expressed in the word Śrīmat (having Lakṣmī ) as existing between Śrī and the Supreme Ruler who has consecrated Himself for the sacrifice or yajna of saving all. As stated in the following śloka, "It is said in all religious systems and in the Vedānta  that Bhagavān acts as the Saviour only in the company of Lakṣmī , who is the very embodiment of compassion". (The phrase, 'religious systems' here refers to the four Pāñcarātra systems).
 

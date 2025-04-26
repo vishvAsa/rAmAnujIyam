@@ -147,13 +147,7 @@ These guNams are essential for a SadAcAryan and are stressed by Vedam, VedAntham
 
 **Meaning: **
 
-The sishyan desirous of gaining superior knowledge \(Jn~Anam\) about Prapatthi vidyA should seek the sacred feet of a SadAcAryan. He will be the right upadEshtA for nyAsa vidyA and can instruct the sishyan on nyAsa vidyA’s 7 
-
-
-
-
-
-angams, angi and phalan clearly. AcArya Jn~Ana roopa MangaLam is sung here. 
+The sishyan desirous of gaining superior knowledge \(Jn~Anam\) about Prapatthi vidyA should seek the sacred feet of a SadAcAryan. He will be the right upadEshtA for nyAsa vidyA and can instruct the sishyan on nyAsa vidyA’s 7 angams, angi and phala clearly. AcArya Jn~Ana roopa MangaLam is sung here. 
 
 Such a srEshtAcAryan would have the following fourteen auspicious attributes \(guNams\): 
 
