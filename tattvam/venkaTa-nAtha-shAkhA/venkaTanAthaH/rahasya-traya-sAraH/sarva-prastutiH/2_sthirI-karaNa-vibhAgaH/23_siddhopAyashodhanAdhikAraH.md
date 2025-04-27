@@ -8001,9 +8001,11 @@ por supuesto, por su naturaleza.
 
 <details><summary>मूलम्</summary>
 
-वस्त्वनुरूपमायिऱेउपयोगमिरुप्पदु। 
+वस्त्वनुरूपमायिऱे उपयोगमिरुप्पदु। 
 </details>
 
+
+### उपायता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8056,6 +8058,14 @@ y en lo que **trata** el objeto para **ser alcanzado** por eso upāya
 उपायोपेयपरमाऩ वाक्यद्वयत्तिलुम् श्रुतमाऩ इव्विशेषणत्तिऩुडैय उपयोगप्रकारत्तै ’’वेरि माऱाद पूमेलिरुप्पाळ् विऩै तीर्क्कुम्’’(तिरुवाय्मॊऴि ४-५-११) ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+फ़्फ़्उपाय-दशैयिलुम् प्राप्य-दशैयिलुम् पिराट्टिक्क् उळ्ळ उपकारत्तै  
+नम्माऴ्वार् अरुळिच् चॆय्दार् ऎऩ्गिऱार्  
+उपायोपेयपरम् आऩ वाक्य-द्वयत्तिलुम् इति ।  
+वेरिमाऱाद इत्यादि । वेरि - परिमळम्, माऱाद - विच्छदियाद, अदावदु सदा परिमळवत्ताऩ, पूमेल् - तामरसपुष्पत्तिऩ्मेल्, इरुप्पाळ् - वसित्तुक्कॊण्डिरुक्किऱ पॆरियबिराट्टि यार्, विऩै तीर्क्कुमिति । इङ्गु सङ्कोचकाभावात् उपायविरोधिपापङ्गळॆऩ्ऩ, प्राप्तिविरोधिपापङ्गळॆऩ्ऩ इवैयॆल्लावऱ्ऱैयुम् तीर्क्कुमॆऩ्ऱर्त्तम् कॊळ्वदे उसिदमॆऩ्ऱु करुत्तु। इदऩाल् पूर्वखण्डप्रतिपाद्यैयाऩ श्रीक्कु उभयविधपापनिवर्तकत्वरूपमाऩ उपयोगम् सिद्धिक्कैयाल् पूर्वखण्डत्तिल् श्री विशेषणमागवे आगवेण्डुमॆऩ्ऱु सिद्धमायिऱ्ऱु। प्राप्तिविरोधिपापनिवर्तकत्वमे उपायत्वमिऱे। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8064,6 +8074,15 @@ y en lo que **trata** el objeto para **ser alcanzado** por eso upāya
 
 ऎऩ्ऱुम् नम्म्-आऴ्वार् अरुळिच् चॆय्दार्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "तव श्री-कृपां, पङ्क-ज-वासिन्याः श्रीकृपां चावलम्ब्य  
+> तव मन्दिरं सम्मार्ज्य" 
+
+इति श्रीशठकोप-सूरयो ऽनुजगृहुः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8091,6 +8110,11 @@ Por Nammalvar.
 <details><summary>मूलम्</summary>
 
 ’’निऩ् तिरुवरुळुम् पङ्गयत्ताळ् तिरुवरुळुङ् गॊण्डु निऩ् कोयिल् सीय्त्त्’’(तिरुवाय्मॊऴि ९-२-१)  ऎऩ्ऱुम् नम्माऴ्वाररुळिच्चॆय्दार्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+निऩ् तिरुवरुळुम् - तेवरीरुडैय श्रीमत्ताऩ कृपैयैयुम्, पङ्गयत्ताळ् - पङ्कजवासिनियाऩ पॆरिय पिराट्टियारुडैय, तिरुवरुळुम् - श्रीमत्ताऩ कृपैयैयुम्, कॊण्डु - हेतु-वागक्कॊण्डु, निऩ् कोयिल् सीय्त्तु - तेवरीरुडैय दिव्यायतनत्तिले कैङ्गर्यम् पण्णि, इङ्गु लक्ष्मियिऩुडैय कृपैक्कुम् दिव्यायतन कैङ्कर्यकरणपर्यन्तहेतुभूत-गुणपरिपाकोत्पादकत्वरूपमाऩ उपयोगम् सॊल्लप्पट्टिरुप्पदाल् उत्तरखण्डत्तिलुम् श्रीमच्छब्दत्तिऱ्कु विशेषणपरत्वमे कॊळ्ळवेण्डुमॆऩ्ऱु निर्धारितमायिऱ्ऱु। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8132,6 +8156,12 @@ Por Nammalvar.
 ‘‘अलमेषा परित्रातुं राक्षस्यो महतो भयात्’’(रामायणम् सुन्दरकाण्डम् २७-४४) ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+पिराट्टियिऩुडैय सर्वविरोधि निवर्तकत्वत्तै श्री वाल्मीकिबगवाऩुम् अरुळिच्चॆय्दारॆऩ्गिऱार् अलमेषा परित्रातुमित्यादिना । इदु त्रिजटावाक्यम्। हे राक्षसिकळे! महत्ताऩ भयत्तिलिरुन्दुम् इवळ् उङ्गळै रक्षिक्क समर्थै ऎऩ्ऱबडि। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8148,7 +8178,7 @@ Por Nammalvar.
 > राघवाद् राक्षसीगणम्’’  
 > (रामायणम् सुन्दरकाण्डम् ५८-९१)
 
-इति
+इति च 
 </details>
 
 <details><summary>English</summary>
@@ -8171,29 +8201,292 @@ y
 ‘‘अलमेषा परित्रातुं राघवाद्राक्षसीगणम्’’(रामायणम् सुन्दरकाण्डम् ५८-९१)ऎऩ्ऱुम् 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+महत्ताऩ विबत्तिलिरुन्दुम्रक्षिप्पळॆऩ्ऱाल् इप्पोदुण्डायिरुक्कुम् प्राणभयत्तिऩिऩ्ऱुम् रक्षिप्पाळॆऩ्बदु कैमुतिकन्यायसिद्धमॆऩ्ऱु करुत्तु। अलमेषा परित्रातुं राघवाद्राक्षसीगणमिति । इदु वानर वीरर्गळैक् कुऱित्तु हनुमारुडैय अनुवादवाक्यम्। राघवऩ् उङ्गळैक् कॊल्ल निऩैत्तालुम् अवऩिडत्तिऩिऩ्ऱुम् इवळ् उङ्गळै रक्षिक्क समर्थै ऎऩ्ऱबडि। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्री-वाल्मीकि-भगवान् शरणागतिसारमाऩ आदिकाव्यत्तिले निबन्धित्ताऩ्। 
+श्री-वाल्मीकि-भगवान् शरणागति-सारमाऩ आदिकाव्यत्तिले निबन्धित्ताऩ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[१९६]] 
+
+श्रीवाल्मीकि-भगवान् शरणागति-सारे आदि-काव्ये निर्बबन्ध । 
+</details>
+
+
+<details><summary>English</summary>
+
+Bhagavān Vālmīki declared in The Rāmāyaṇa, the earliest of all kavyas,  
+which is the very essence of the doctrine of śaraṇāgati 
+</details>
+
+<details><summary>Español</summary>
+
+Bhagavān Vālmīki **declarado** en el Rāmāyaṇa, el más temprano de todas las Kavyas,  
+que **es** la esencia misma de la doctrina de Śaraṇāgati
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 श्री-वाल्मीकि-भगवान् शरणागतिसारमाऩ आदिकाव्यत्तिले निबन्धित्ताऩ्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि सामान्यमाग सर्वभयनिवर्तकत्वमुम् इङ्गु अभिप्रेतमागैयाले संसारभयनिवर्तकत्वमुम् सिद्धमॆऩ्ऱु करुत्तु। शरणागतिसारमाऩ इति । शरणागतिः, सारः – सारार्थः, यस्मिन् तत् ।  
+आदिकाव्यत्तिले - 
+
+> ‘‘न ते वागनृता काव्ये’’,  
+> ‘‘काव्यं रामायणं कृत्स्नं’’ 
+
+ऎऩ्ऱु काव्यमागच् चॊल्लप्पट्ट रामायणत्तिले।  
+</details>
 
 
-Bhagavān Vālmīki declared in The Rāmāyaṇa, the earliest of all kavyas,  
-which is the very essence of the doctrine of śaraṇāgati 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्व-काम-प्रदां रम्यां  
+> संसारार्णव-**तारिणीम्** ।  
+> क्षिप्र-प्रसादिनीं देवीं  
+> शरण्याम् **अनुचिन्तयत्॥**  
+> (कश्यप-स्मृतिः) 
+
+ऎऩ्ऱुम् हिरण्य-गर्भ--काश्यपादिगळुम् सॊऩ्ऩार्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> सर्व-काम-प्रदां रम्यां  
+> संसारार्णव-**तारिणीम्** ।  
+> क्षिप्र-प्रसादिनीं देवीं  
+> शरण्याम् **अनुचिन्तयत्॥**  
+> (कश्यप-स्मृतिः) 
+
+इति हिरण्यगर्भ-काश्यपादयो ऽप्य् अवोचन् । 
+</details>
+
+<details><summary>English</summary>
+
+Such authors as Hiranyagarbha and Kasyapa declared: 
+
+> “We should meditate on Lakṣmī ,  
+> who can grant us all the benefits that we desire,  
+> who can take us safe out of the sea of saṁsāra,  
+> who becomes easily gracious and who can make us happy." 
+</details>
+
+<details><summary>Español</summary>
+
+Autores como Hiranyagarbha y Kasyapa **declararon**:
+
+> **“Deberíamos meditar** en Lakṣmī,  
+> Quién **puede otorgarnos** todos los beneficios que deseamos,  
+> Quién **puede llevarnos** a **salvo** fuera del mar de Saṁsāra  
+> Quién **se vuelve** fácilmente amable y  
+> quién **puede hacernos felices** "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘संसारार्णवतारिणीं’’(कश्यप-स्मृतिः) ऎऩ्ऱुम् हिरण्यगर्भकाश्यपादिगळुम् सॊऩ्ऩार्गळ्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि सामान्यमाग सर्वपापनिवर्तकत्वम् सूचितमाऩ वळवऩ्ऱिक्के संसारतारकत्वमे स्पष्टमागच् चॊल्लप्पट्टदॆऩ्गिऱार् संसारार्णवतारिणीं ऎऩ्ऱु हिरण्यगर्भकाश्यपादिगळुम् सॊऩ्ऩार्गळिति । 
+
+> ‘‘सर्व-काम-प्रदां रम्यां  
+> संसारार्णव-तारिणीम् ।  
+> क्षिप्र-प्रसादिनीं देवीं  
+> शरण्याम् अनुचिन्तयत्॥’’  
+
+ऎऩ्बदु काश्यपवचनम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘वाचः परं +++(भगवन्तं)+++ प्रार्थयिता  
+> प्रपद्येन् नियतः श्रियं’’  
+> (शौनगसंहिता) 
+
+ऎऩ्ऱु शौनक-भगवान् विधित्ताऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘वाचः परं +++(भगवन्तं)+++ प्रार्थयिता  
+> प्रपद्येन् नियतः श्रियं’’  
+> (शौनगसंहिता) 
+
+इति श्रीशौनकभगवान् विदधौ ।
+</details>
+
+<details><summary>English</summary>
+
+Śrī Bhagavān Śaunaka has given this precept.  
+
+> "The man that prays for the attainment of Bhagavān,  
+> who is the purport of all words,  
+> should perform prapatti to Lakṣmī also." 
+</details>
+
+<details><summary>Español</summary>
+
+Śrī Bhagavān Śaunaka **ha dado** este precepto.
+
+> "El hombre que **reza** por el **logro** de Bhagavān,  
+> Quién **es** el **significado** de todas las palabras  
+> **Debería realizar** Prapatti a Lakṣmī también ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘वाचः परं प्रार्थयिता प्रपद्येन्नियतःश्रियं’’(शौनगसंहिता) ऎऩ्ऱु शौनकभगवान् विधित्ताऩ्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+वाचः परमित्यादि । वाचः परं वाक्कुक्कु गोचरमागाद, 
+
+> ‘‘न तत्र चक्षुर् गच्छति  
+> न वाक् गच्छति, नो मनः’’ 
+
+ऎऩ्ऱु श्रुतियिले वाचामगोचरमागच् चॊल्लप्पट्ट नारायणऩै, प्रार्थयिता - फलमागप् प्रार्थिक्किऱ, प्राप्तुकामः पुरुष इति यावत् ।  
+श्रियं - लक्ष्मियै, नियतः – नियमेन, प्रपद्येदिति । नियमविशिष्टस्सन् शरणमुपगच्छदित्यर्थः ।  
+श्रीप्रपत्तियै अवश्यम् सॆय्यक्कडवऩॆऩ्गै। 
+
+इङ्गु वाचः परं जिज्ञासुः ऎऩ्ऱु सॊल्लामल्, प्रार्थयिता - अदावदु प्राप्तिकामऩ् ऎऩ्ऱु सॊल्लियिरुप्पदाल् श्रीप्रपत्तिक्कु साक्षान्मोक्षसाधनत्वम् सॊल्लप्पट्टदॆऩ्ऱु करुत्तु।  
+शौनकभगावाऩ् विधित्ताऩॆऩ्ऱदाल् सर्वज्ञराल् विधिक्कप्पट्ट लक्ष्मियिऩ् उपायत्वत्तिल् अतिशङ्गै सॆय्वदु अनुचितमॆऩ्ऱु सूचितम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आत्मविद्या च देवि त्वं  
+विमुक्ति-फल-दायिनी’’  
+(विष्णुपुराणम् १-९२०) 
+
+ऎऩ्ऱु वसिष्ठ-पुलस्त्य-वर-प्रसाद-लब्ध--पर-देवता-पारमार्थ्य-ज्ञानम् उडैय  
+श्री-पराशर-ब्रह्मर्षिय् अरुळिच् चॆय्दाऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘आत्मविद्या च देवि त्वं  
+विमुक्ति-फल-दायिनी’’  
+(विष्णुपुराणम् १-९२०) 
+
+इति वसिष्ठ-पुलस्त्य-वर-प्रसाद-लब्ध--पर-देवता-पारमार्थ्य-ज्ञानवान्  
+श्री-पराशर-ब्रह्मर्षिर् अनुजग्राह। 
+</details>
+
+<details><summary>English</summary>
+
+The great sage Parāśara  
+who received the knowledge concerning the truth about the Supreme Deity  
+from boons granted to him by Vasiṣṭa and Pulastya  
+has stated 
+
+> "Thou art, O Goddess, the knowledge concerning the soul,  
+> the giver of mokṣa ,  
+> the object of attainment ." 
+
+(The śloka  says:  
+
+> Thou art the knowledge concerning the self or atma vidyā, 
+
+Lakṣmī is in apposition with atma vidyā.  
+The meaning is that atma vidyā is one of her vibhūtis or glorious possessions.  
+Since atma vidyā can confer mokṣa ,  
+it follows that Lakṣmī  can confer mokṣa .)
+</details>
+
+<details><summary>Español</summary>
+
+El gran sabio parāśara  
+quien **recibió** el **conocimiento** sobre la verdad sobre la deidad suprema  
+De Boons **otorgados** por Vasiṣṭa y Pulastya  
+**ha declarado**
+
+> "Tú **eres**, oh diosa,  
+> el **conocimiento** sobre el alma,  
+> El **dador** de mokṣa,  
+> El objeto de logro ".
+
+(El Śloka dice:
+
+> **Eres** el **conocimiento** sobre el yo o Atma Vidyā,
+
+Lakṣmī **está** en **aposición** con Atma Vidyā.  
+El significado **es** que Atma Vidyā es una de sus vibhūtis o posesiones gloriosas.  
+Dado que Atma Vidyā **puede conferir** a Mokṣa,  
+**Se deduce** que Lakṣmī **puede conferir** mokṣa.)
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+‘‘आत्मविद्या च देवि त्वं विमुक्तिफलदायिनी’’(विष्णुपुराणम् १-९२०) ऎऩ्ऱु वसिष्ठपुलस्त्यवरप्रसादलब्ध-परदेवतापारमार्थ्यज्ञानमुडैय श्रीपराशरब्रह्मर्षियरुळिच्चॆय्दाऩ्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+आत्मविद्येति । इङ्गु त्वमेव विमुक्तिफलदायिनी ऎऩ्ऱन्वयङ्गॊण्डु नीये मोक्षरूपफलत्तैक्कॊडुक्किऱाय् ऎऩ्ऱर्थम् सॊल्वदे दूरान्वयमिल्लामैयाल् स्वरसमाऩदु; विमुक्तिफलदायिनी, या आत्मविद्या सा च त्वमेव ऎऩ्ऱु सॊल्वदु व्यवहितान्वयदोषदूषितमागैयाल् स्वरसमऩ्ऱु। आगैयिऩाल् इङ्गु लक्ष्मिक्कु मोक्षोपायत्वम् कण्ठोक्तमॆऩ्ऩत् तट्टिल्लैयॆऩ्ऱबडि। पुलस्त्येत्यादिगळाऩ विशेषणङ्गळाले पराशरब्रह्मर्षि अरुळिच्चॆय्ददु अत्यन्तपरमार्थमॆऩ्ऱु ज्ञापिक्कप्पडुगिऱदु। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘विमुक्ति-फल-दायिनी’’ 
+
+ऎऩ्गिऱव् इदु आत्म-विद्या-विशेषणम् आऩालुम्  
+तत्-सामानाधिकरण्यत्ताले  
+अदु इवळ्-उडैय विभूतिय् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+“विमुक्ति-फल-दायिनी" इत्यस्याऽऽत्म-विद्या-विशेषणत्वेऽपि  
+तत्-सामानाधिकरण्यात्  
+सा अस्या विभूतिः सिद्धा । 
+</details>
+
+<details><summary>English</summary>
+
+Even if, in this śloka ,  
+the conferring of mokṣa be looked upon as an adjective qualifying the knowledge of the soul,  
+it has to be considered as her glory or vibhūti on account of the appositional use (sāmānādhikaraṇya ). 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso si, en este Śloka,  
+La **conferencia** de mokṣa **se considera** como un adjetivo que **califica** el **conocimiento** del alma,  
+Tiene que **ser considerado** como su gloria o vibhūti debido al **uso** de aposicional (sāmānādhikaraṇya).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘विमुक्तिफलदायिनी’’ ऎऩ्गिऱविदु आत्मविद्याविशेषणमाऩालुम् तत्सामानाधिकरण्यत्ताले अदु इवळुडैय विभूतियायिऱ्ऱु। 
+</details>
 
 
 
 
+The Lord of Śrī has himself proclaimed in connection with the meditation on Bhagavān as the Lord of Śrī in Śrī Sātvata Saṁhitā -"Those who meditate on Bhagavān seek the protection of Lakṣmī  and with that they easily cross the sea of saṁsāra which is constituted of these three qualities". Apart from the śāstras treating specially of Śrī, these śāstras which do not pertain to any special sect or cult are of great authority.
 
-Such authors as Hiranyagarbha and Kasyapa declared: “We should“ meditate on Lakṣmī , who can grant us all the benefits that we desire, who can take us safe out of the sea of saṁsāra, who becomes easily gracious and who can make us happy." ŚrīBhagavān Śaunaka has given this precept. "The man" that prays for the attainment of Bhagavān, who is the purport of all words, should perform prapatti to Lakṣmī  also." The great sage Parāśara who received the knowledge concerning the truth about the Supreme Deity from boons granted to him by Vasiṣṭa and Pulastya has stated "Thou art, O Goddess, the knowledge concerning the soul, the giver of mokṣa , the object of attainment[^67] ." Even if, in this śloka , the conferring of mokṣa  be looked upon as an adjective qualifying the knowledge of the soul, it has to be considered as her glory or vibhūti on account of the appositional use (sāmānādhikaraṇya ). The Lord of Śrī has himself proclaimed in connection with the meditation on Bhagavān as the Lord of Śrī in Śrī Sātvata Saṁhitā -"Those who meditate on Bhagavān seek the protection of Lakṣmī  and with that they easily cross the sea of saṁsāra which is constituted of these three qualities". Apart from the śāstras treating specially of Śrī, these śāstras which do not pertain to any special sect or cult are of great authority.
-
-[^67]: The śloka  says: Thou art the knowledge concerning the self or atma vidyā: Lakṣmī  is in apposition with atma vidyā. The meaning is that atma vidyā is one of her vibhūtis or glorious possessions. Since atma vidyā can confer mokṣa , it follows that Lakṣmī  can confer mokṣa .
 
 Aḷavandār, too, has stated:- "The whole world depends upon the glance of Śrī, for its support." and again "Without the grace of Lakṣmī , the beloved spouse of the lotus-eyed Lord, we cannot have those glorious experiences which one might desire in this life (saṁsāra), nor the experience of our disembodied self, nor the enjoyment of Bhagavān in mokṣa ". The author of Śrī Bhāṣya, in his Vaikuṇṭha   Gadya, says that she commands Adiśeṣa, Viṣvaksena and other attendants to render such service to Bhagavān as is suited to the time and the circumstance, and that the service to Bhagavān, which is the supreme goal, should be rendered in accordance with her commands. Koorathalvan too, sings his praise of Lakṣmī  in ślokas beginning with these words: "The "bounds of Thy greatness. O, Goddess, are not known to Bhagavān nor even to Thyself". These words are an elaboration of what is contained in the śloka  :- "May Lakṣmī   confer happiness (on us) --- Lakṣmī , looking at whose face, and with Her will as His aid, the Lord creates, destroys and sustains all the worlds, and grants also such things as svarga, naraka (hell) and mokṣa . Since the two are engaged in the same work and experience the same kind of delight, the Lord cannot feel happy if he performs the līlā of the work of the world without her participation in it," Bhattar, also, has commented on the word Udaara (generous ) used in the śruti  (viz., Śrī Sūktam) as an adjective for Śrī in this manner:-"How generous Thou art! O, Mother, to the man who merely raises his hands folded in worship to Thee, Thou grantest wealth, the enjoyment of his disembodied self and even paramapada and yet Thou feelest ashamed that Thou hast not done anything adequate for him." Peria Jeer, too, has brought out all these ideas in his commentary on Śrī Sukta. Thus, from what we find in the śruti , Smṛti and tradition, (the reader) gifted with insight can understand that the attribute expressed in the word Śrīmat in Dvaya has its uses, just like such things as forms (vigraha), in accordance with its own nature.
 
