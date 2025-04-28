@@ -8685,7 +8685,7 @@ debe **ser retenido** de acuerdo con **sus órdenes**.
 
 कूरत्ताऴ्वाऩुम् 
 
-> ५१ स्वस्ति श्रीर् दिशताद् अ-शेषजगतां सर्गोपसर्ग-स्थितीः  
+> ५१ स्वस्ति श्रीर् **दिशताद्** अ-शेषजगतां सर्गोपसर्ग-स्थितीः  
 स्वर्गं दुर्-गतिम् आपवर्गिक-पदं सर्वञ् च **कुर्वन्** हरिः ।   
 यस्या वीक्ष्य मुखं तद्-इङ्गित-पराधीनो **विधत्ते** ऽखिलं,  
 **क्रीडेयं** खलु **नान्यथा** ऽस्य **रस-दा स्याद्** ऐकरस्यात्+++(→अन्यथा)+++ तया ॥१॥  
@@ -8701,7 +8701,25 @@ debe **ser retenido** de acuerdo con **sus órdenes**.
 
 
 
-Koorathalvan too, sings his praise of Lakṣmī  in ślokas beginning with these words: "The "bounds of Thy greatness. O, Goddess, are not known to Bhagavān nor even to Thyself". These words are an elaboration of what is contained in the śloka  :- "May Lakṣmī   confer happiness (on us) --- Lakṣmī , looking at whose face, and with Her will as His aid, the Lord creates, destroys and sustains all the worlds, and grants also such things as svarga, naraka (hell) and mokṣa . Since the two are engaged in the same work and experience the same kind of delight, the Lord cannot feel happy if he performs the līlā of the work of the world without her participation in it," Bhattar, also, has commented on the word Udaara (generous ) used in the śruti  (viz., Śrī Sūktam) as an adjective for Śrī in this manner:-"How generous Thou art! O, Mother, to the man who merely raises his hands folded in worship to Thee, Thou grantest wealth, the enjoyment of his disembodied self and even paramapada and yet Thou feelest ashamed that Thou hast not done anything adequate for him." Peria Jeer, too, has brought out all these ideas in his commentary on Śrī Sukta. Thus, from what we find in the śruti , Smṛti and tradition, (the reader) gifted with insight can understand that the attribute expressed in the word Śrīmat in Dvaya has its uses, just like such things as forms (vigraha), in accordance with its own nature.
+Koorathalvan too, 
+
+sings his praise of Lakṣmī  in ślokas beginning with these words: 
+
+> "The bounds of Thy greatness, O, Goddess, are not known to Bhagavān nor even to Thyself". 
+
+in elaboration of what is contained in the śloka  :- 
+
+> "May Lakṣmī confer happiness (on us) ---  
+> Lakṣmī, looking at whose face, and with Her will as His aid,  
+> the Lord creates, destroys and sustains all the worlds,  
+> and grants also such things as svarga, naraka (hell) and mokṣa .  
+> Since the two are engaged in the same work and  
+> experience the same kind of delight,  
+> the Lord cannot feel happy  
+> if he performs the līlā of the work of the world  
+> without her participation in it," 
+
+Bhattar, also, has commented on the word Udaara (generous ) used in the śruti  (viz., Śrī Sūktam) as an adjective for Śrī in this manner:-"How generous Thou art! O, Mother, to the man who merely raises his hands folded in worship to Thee, Thou grantest wealth, the enjoyment of his disembodied self and even paramapada and yet Thou feelest ashamed that Thou hast not done anything adequate for him." Peria Jeer, too, has brought out all these ideas in his commentary on Śrī Sukta. Thus, from what we find in the śruti , Smṛti and tradition, (the reader) gifted with insight can understand that the attribute expressed in the word Śrīmat in Dvaya has its uses, just like such things as forms (vigraha), in accordance with its own nature.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
