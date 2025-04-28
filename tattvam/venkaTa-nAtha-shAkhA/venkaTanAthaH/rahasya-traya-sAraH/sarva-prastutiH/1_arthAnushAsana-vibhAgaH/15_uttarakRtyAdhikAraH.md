@@ -2416,11 +2416,11 @@ he should feel sure (that it is not due to any merit of his own).
 
 y
 
-> "Incluso si sé lo que es bueno y lo que es malvado,
-> No puedo obtener lo que es bueno  
-> y evita lo que es malvado " 
+> "Incluso si **sé** lo que es bueno y lo que es malvado,
+> **No puedo obtener** lo que es bueno  
+> y **evita** lo que es malvado " 
 
-Debería sentirse seguro (que no se debe a ningún mérito propio).  
+**Debería sentirse** seguro (que no se debe a ningún mérito propio).  
 </details>
 
 
@@ -2439,7 +2439,7 @@ Debería sentirse seguro (que no se debe a ningún mérito propio).
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पराधीन--स्व-रूप--स्थिति-प्रवृत्तिय् आऩ तऩ्ऩ्-अधिकारत्तिले **सॊरुगिऩव्**+++(=अन्तर्-भूतस्य)+++ आकिञ्चन्यत्तैय्  
-**अऴिय माऱादे**  
+**अऴिय +++(रीत्या)+++ माऱादे**  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -2503,9 +2503,9 @@ no sufre ningún cambio o pérdida.
 
 <details><summary>Español</summary>
 
-> “Soy la morada de todas las transgresiones,  
-> No tengo medios para protegerme  
-> Y no tengo nada más que lograr que ti ",
+> **“Soy** la morada de todas las transgresiones,  
+> **No tengo** medios para protegerme  
+> Y **no tengo** nada más que lograr que ti ",
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2559,8 +2559,8 @@ no sufre ningún cambio o pérdida.
 
 <details><summary>Español</summary>
 
-> "No he estado observando el código de la vida disciplinada,  
-> tampoco tengo aguda inteligencia ",
+> "**No he estado observando** el código de la vida disciplinada,  
+> **tampoco tengo** aguda inteligencia ",
 </details>
 
 
@@ -2594,7 +2594,7 @@ no sufre ningún cambio o pérdida.
 
 <details><summary>Español</summary>
 
-"¿Qué puedo hacer?"
+"¿Qué **puedo hacer**?"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2612,7 +2612,7 @@ no sufre ningún cambio o pérdida.
 
 > "कळैवाय् तुन्बङ्+++(=दुःखम्)+++,  
 > कळैयाद् ऒऴिवाय्+++(=त्यज)+++,  
-> कळै-गण्+++(=रक्षक)+++-मऱ्ऱिलेऩ्" 
+> कळै+++(=रक्षा)+++-गण्+++(=स्थानम्)+++-मऱ्ऱिलेऩ्" 
 > 
 > (तिरुवाय्मॊऴि 5-8-8.) 
 </details>
@@ -2636,9 +2636,9 @@ no sufre ningún cambio o pérdida.
 
 <details><summary>Español</summary>
 
-> ¡Que mi miseria se ponga fin!  
-> Si no lo haces,  
-> no hay nadie más que me protegiera ",
+> ¡Que mi miseria **se ponga** fin!  
+> Si **no lo haces**,  
+> **no hay** nadie más que me **protegiera** ",
 </details>
 
 
@@ -2671,7 +2671,7 @@ no sufre ningún cambio o pérdida.
 
 <details><summary>Español</summary>
 
-> "No tengo otra upāya y ningún otro protector".
+> "**No tengo** otra upāya y ningún otro protector".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2707,8 +2707,8 @@ whom I can hold as the Saviour of my soul!"
 
 <details><summary>Español</summary>
 
-"No conozco a nadie  
-quién puedo tener como el Salvador de mi alma! "
+"**No conozco** a nadie  
+quién **puedo tener** como el Salvador de mi alma! "
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2742,9 +2742,9 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details><summary>Español</summary>
 
-> "Somos mujeres tan ignorantes  
-> Pertenecer a la raza de Cowherds  
-> como comer en bosques mientras pasta las vacas allí ",
+> "**Somos** mujeres tan ignorantes  
+> **Pertenecer** a la raza de Cowherds  
+> como **comer** en **bosques** mientras **pasta** las vacas allí ",
 </details>
 
 
@@ -2778,8 +2778,8 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details><summary>Español</summary>
 
-> He renunciado a los ritos relacionados con los brahmanes
-> de adorar los tres incendios después de la ablución,ciones, 
+> **He renunciado** a los ritos relacionados con los brahmanes
+> de **adorar** los tres incendios después de la **abluciónes**, 
 </details>
 
 
@@ -2815,8 +2815,8 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details><summary>Español</summary>
 
-> "No nací en ninguna de las cuatro castas  
-> en donde uno está en forma para seguir dharma ",
+> "**No nací** en ninguna de las cuatro castas  
+> en donde uno **está** en forma para **seguir** dharma ",
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2833,7 +2833,8 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-'एऴैय्+++(=अज्ञः)+++ एदलऩ्+++(=परकीयः)+++'(पॆरिय तिरुमॊऴि ५-८-१),  
+> 'एऴैय्+++(=अज्ञः)+++ एदलऩ्+++(=परकीयः/शत्रुः)+++'  
+(पॆरिय तिरुमॊऴि ५-८-१),  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -2848,7 +2849,7 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details><summary>Español</summary>
 
-> "Soy ignorante y de bajo nacimiento",
+> "**Soy** ignorante y de bajo nacimiento",
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2880,7 +2881,7 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details><summary>Español</summary>
 
-> "No tengo a nadie que busque apoyo".
+> "**No tengo** a nadie que **busque** apoyo".
 </details>
 
 
@@ -2919,8 +2920,8 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details><summary>Español</summary>
 
-> "Incluso si no me quitas los sufrimientos debido al karma,  
-> No tengo otro refugio que ti ",
+> "Incluso si **no me quitas** los sufrimientos debido al karma,  
+> **No tengo** otro **refugio** que ti ",
 </details>
 
 
@@ -2974,10 +2975,10 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details><summary>Español</summary>
 
-> "No he practicado karma yoga;  
-> No he entendido la naturaleza real del yo incorpóreo  
-> (es decir) no he realizado jñānayoga,  
-> tampoco he bhakti hacia tus pies santos ".
+> "**No he practicado** karma yoga;  
+> **No he entendido** la naturaleza real del yo incorpóreo  
+> (es decir) **no he realizado** jñānayoga,  
+> **tampoco he** bhakti hacia tus pies santos ".
 </details>
 
 
@@ -3015,11 +3016,12 @@ and the prapanna should realise his own helplessness by remembering such verses)
 
 <details><summary>Español</summary>
 
-Debe recordar su total impotencia (kārpaṇya) como se describe en el Śloka y en versos como (arriba)
+**Debe recordar** su total impotencia (kārpaṇya)  
+como **se describe** en el Śloka y en versos como (arriba)
 
 (En estos versos tamiles y sánscrito Ślokas,  
-la sensación de impotencia está bien representada  
-y la Prapanna debería darse cuenta de su propia impotencia recordando tales versos).
+la sensación de impotencia **está** bien representada  
+y la Prapanna **debería darse cuenta** de su propia impotencia **recordando** tales versos).
 </details>
 
 
@@ -3060,9 +3062,9 @@ which may cause excessive disgust,
 
 <details><summary>Español</summary>
 
-Debido al conocimiento de su propia incapacidad desde el tiempo inmemorial  
-y la pérdida del servicio del Señor que resultó de él,
-que puede causar asco excesivo,
+Debido al **conocimiento** de su propia **incapacidad** desde el tiempo inmemorial  
+y la **pérdida** del servicio del Señor que resultó de él,
+que **puede causar** asco excesivo,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3101,9 +3103,9 @@ que puede causar asco excesivo,
 <details><summary>Español</summary>
 
 > “La naturaleza del hombre en Saṁsāra es tal que  
-> se identifica con el cuerpo perecido y lo llama "I";  
-> De esto también surge conducta malvada  
-> Y de él surge nuevamente el cuerpo que es asqueroso ".
+> **se identifica** con el cuerpo **perecido** y lo llama "I";  
+> De esto también **surge conducta** malvada  
+> Y de él **surge** nuevamente el cuerpo que es asqueroso ".
 </details>
 
 
@@ -3138,9 +3140,9 @@ which makes one lament in the words of the Alvar saying (above)
 
 <details><summary>Español</summary>
 
-La Prapanna no debería caer en desesperación  
-lo que hace un lamento  
-en las palabras del dicho Alvar (arriba)
+La Prapanna **no debería caer** en desesperación  
+lo que **hace** un lamento  
+en las palabras del **dicho** Alvar (arriba)
 </details>
 
 
@@ -3159,8 +3161,9 @@ en las palabras del dicho Alvar (arriba)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'उयिर् **अळिप्पाऩ्**  
-> ऎऩ्-ऩिऩ्ऱ +++(→नाना)+++ योऩियुम् आय्प् **पिऱन्द् आय्** इमैयोर्+++(= [विशिष्ट]निमेषवन्तः = अनिमेषाः)+++ तलैवा'(तिरुविरुत्तम् १) 
+> 'उयिर् **अळिप्पाऩ्**+++(=रक्षक)+++  
+> ऎऩ् ऩिऩ्ऱ +++(→नाना)+++ योऩियुम् आय्प् **पिऱन्द् आय्** इमैयोर्+++(= [विशिष्ट]निमेषवन्तः = अनिमेषाः)+++ तलैवा'  
+> (तिरुविरुत्तम् १) 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -3180,8 +3183,8 @@ en las palabras del dicho Alvar (arriba)
 <details><summary>Español</summary>
 
 > "Oh señor de los inmortales,  
-> Naciste en todas las castas e incluso de los úteros de animales  
-> ¡En tu entusiasmo por proteger a los Jīvas!"
+> **Naciste** en todas las castas e incluso de los úteros de animales  
+> ¡En tu entusiasmo por **proteger** a los Jīvas!"
 </details>
 
 
