@@ -32,10 +32,11 @@ title = "देवाः"
 
 <details><summary>पराशरभट्टोक्तिः</summary>
 
-श्रीमत्त्वं नारायण-स्वरूप-निरूपक-धर्मं मन्यते पराशरभट्टो गुणरत्नकोशे - घटे घटत्वम् इव,  
-नोपलक्षणमात्रम् - केदारे बक इव।  
-ततो हि वेदेषु न पृथग् उल्लेखः।  
-तद् इदं वेङ्कटनाथार्येण तद्-व्याख्यातृभिश् च रहस्यत्रयसारे साधु प्रतिपादितम्।
+4 forms of Vișņu are singled out as examples of Ugra Vișņumūrtis in Śrīmat-Kāmikāgama: Viśvarūpa, Vațapatraśāyī, Narasimha & Paraśurāma (& the first two can be seen as particularly Kārșņeya forms).
+
+These forms + Bhagavān’s Ugramūrtis (Gajāri, Kāmāri, Kālāri & Tripurāri) are recommended to be kept at the village’s outskirts in the north-east.
+
+
 </details>
 
 

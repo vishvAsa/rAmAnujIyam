@@ -8483,12 +8483,225 @@ Tiene que **ser considerado** como su gloria o vibhūti debido al **uso** de apo
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रियःपति ताऩुम् 
+
+> ४७‘‘याम् आलम्ब्य सुखेनेमं  
+> दुस्तरं हि गुणोदधिम् ।  
+> **निस्तरन्त्य्** अचिरेणैव  
+> व्यक्त-ध्यान-परायणाः॥’’  
+> (श्री सात्त्वत-संहिता १२-८४) 
+
+ऎऩ्ऱु श्री-सात्त्वत-संहितैयिले श्री-पति-रूप-ध्यानत्तिलेय् अरुळिच् चॆय्दाऩ्। 
+</details>
 
 
-The Lord of Śrī has himself proclaimed in connection with the meditation on Bhagavān as the Lord of Śrī in Śrī Sātvata Saṁhitā -"Those who meditate on Bhagavān seek the protection of Lakṣmī  and with that they easily cross the sea of saṁsāra which is constituted of these three qualities". Apart from the śāstras treating specially of Śrī, these śāstras which do not pertain to any special sect or cult are of great authority.
+
+<details><summary>English</summary>
+
+The Lord of Śrī has himself  
+proclaimed in connection with the meditation on Bhagavān as the Lord of Śrī  
+in Śrī Sātvata Saṁhitā -
+
+> "Those who meditate on Bhagavān seek the protection of Lakṣmī  
+> and with that they easily cross the sea of saṁsāra  
+> which is constituted of these three qualities". 
+</details>
+
+<details><summary>Español</summary>
+
+El Señor de Śrī **ha proclamado**  
+en relación con la meditación sobre Bhagavān como el Señor de Śrī  
+En Śrī Sātvata Saṁhitā -
+
+> "Aquellos que **meditan** en Bhagavān **buscan** la protección de Lakṣmī  
+> y con eso **cruzan** fácilmente el mar de Saṁsāra  
+> que **está constituido** de estas tres cualidades ".
+</details>
 
 
-Aḷavandār, too, has stated:- "The whole world depends upon the glance of Śrī, for its support." and again "Without the grace of Lakṣmī , the beloved spouse of the lotus-eyed Lord, we cannot have those glorious experiences which one might desire in this life (saṁsāra), nor the experience of our disembodied self, nor the enjoyment of Bhagavān in mokṣa ". The author of Śrī Bhāṣya, in his Vaikuṇṭha   Gadya, says that she commands Adiśeṣa, Viṣvaksena and other attendants to render such service to Bhagavān as is suited to the time and the circumstance, and that the service to Bhagavān, which is the supreme goal, should be rendered in accordance with her commands. Koorathalvan too, sings his praise of Lakṣmī  in ślokas beginning with these words: "The "bounds of Thy greatness. O, Goddess, are not known to Bhagavān nor even to Thyself". These words are an elaboration of what is contained in the śloka  :- "May Lakṣmī   confer happiness (on us) --- Lakṣmī , looking at whose face, and with Her will as His aid, the Lord creates, destroys and sustains all the worlds, and grants also such things as svarga, naraka (hell) and mokṣa . Since the two are engaged in the same work and experience the same kind of delight, the Lord cannot feel happy if he performs the līlā of the work of the world without her participation in it," Bhattar, also, has commented on the word Udaara (generous ) used in the śruti  (viz., Śrī Sūktam) as an adjective for Śrī in this manner:-"How generous Thou art! O, Mother, to the man who merely raises his hands folded in worship to Thee, Thou grantest wealth, the enjoyment of his disembodied self and even paramapada and yet Thou feelest ashamed that Thou hast not done anything adequate for him." Peria Jeer, too, has brought out all these ideas in his commentary on Śrī Sukta. Thus, from what we find in the śruti , Smṛti and tradition, (the reader) gifted with insight can understand that the attribute expressed in the word Śrīmat in Dvaya has its uses, just like such things as forms (vigraha), in accordance with its own nature.
+<details><summary>मूलम्</summary>
+
+श्रियःपति ताऩुम् ४७‘‘यामालम्ब्य सुखेनेमं दुस्तरं हि गुणोदधिम् । निस्तरन्त्यचिरेणैव व्यक्तध्यानपरायणाः’’(श्री सात्त्वत-संहिता १२-८४) ऎऩ्ऱु श्रीसात्त्वतसंहितैयिले श्रीपतिरूपध्यानत्तिले यरुळिच्चॆय्दाऩ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्+++(→श्री)+++-परङ्गळ् आऩ शास्त्रङ्गळ् निऱ्क  
+इम्-मध्य-स्थ-शास्त्रङ्गळ् अतिप्रबलङ्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+Apart from the śāstras treating specially of Śrī,  
+these śāstras which do not pertain to any special sect or cult  
+are of great authority.
+</details>
+
+<details><summary>Español</summary>
+
+Aparte de los Śāstras **tratados** especialmente de Śrī,  
+estos śāstras que **no pertenecen** a ninguna secta o culto especial  
+**son** de gran autoridad.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्परङ्गळाऩ शास्त्रङ्गळ् निऱ्क इम्मध्यस्थशास्त्रङ्गळतिप्रबलङ्गळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आळवन्दारुम् 
+
+> ४८‘‘जगत् समस्तं यद्-अपाङ्ग-संश्रयं’’  
+> (आळवन्दार् स्तोत्रम् ३७) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ४८‘‘जगत् समस्तं यद्-अपाङ्ग-संश्रयं’’  
+> (आळवन्दार् स्तोत्रम् ३७) 
+
+</details>
+
+
+<details><summary>English</summary>
+
+Aḷavandār, too, has stated:- 
+
+> "The whole world depends upon the glance of Śrī, for its support." 
+</details>
+
+<details><summary>Español</summary>
+
+Aḷavandār, también **ha declarado**:-
+
+> "El mundo entero **depende** de la **mirada** de Śrī, por su **apoyo**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आळवन्दारुम् ४८‘‘जगत्समस्तं यदपाङ्गसंश्रयं’’(आळवन्दार् स्तोत्रम् ३७) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ४९ **श्रेयो न** ह्य् अरविन्द-लोचन--मनः--कान्ता-प्रसादाद् ऋते  
+संसृत्य्+++(=धर्मार्थकाम)+++--अक्षर+++(=प्रत्यग्-आत्मानुभव)+++--वैष्णव+++(=भगवत्प्राप्त्य्)++++अध्वसु नृणां **संभाव्यते** कर्हिचित् ॥  
+(चतुः-श्लोकी ३)
+
+ऎऩ्ऱुम् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>English</summary>
+
+and again 
+
+> "Without the grace of Lakṣmī , the beloved spouse of the lotus-eyed Lord,  
+we cannot have  
+those glorious experiences which one might desire in this life (saṁsāra),  
+nor the experience of our disembodied self,  
+nor the enjoyment of Bhagavān in mokṣa ". 
+</details>
+
+<details><summary>Español</summary>
+
+y de nuevo
+
+> "Sin la gracia de Lakṣmī, la esposa amada del Señor de ojos de loto,  
+**No podemos tener**  
+esas **experiencias** gloriosas que uno **podría desear** en esta vida (saṁsāra),  
+ni la **experiencia** de nuestro yo incorpóreo,  
+ni el **disfrute** de Bhagavān en Mokṣa ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+४९‘‘श्रेयो न ह्यरविन्दलोचनमनः कान्ताप्रसादादृते संसृत्यक्षरवैष्णवाध्वसु नृणां संभाव्यते कर्हिचित्’’(चतुः-श्लोकी ३)ऎऩ्ऱुमरुळिच्चॆय्दार्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रीभाष्यकाररुम् श्रीवैकुण्ठ-गद्यत्तिले 
+
+> ५०‘‘शेष-शेषाशनादि सर्वं परिजनं  
+> भगवतस् तत्-तद्-अवस्थोचित-परिचर्यायाम्  
+> **आज्ञापयन्त्या**’’  
+> (वैकुण्ठ-गद्यम्) 
+
+ऎऩ्ऱु भगवत्-कैङ्कर्य-रूप-परम-पुरुषार्थम्  
+इवळ् नियोगत्तिऩ् बडिये नडत्त वेणुम्  
+ऎऩ्ऱु अरुळिच्चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ५०‘‘शेष-शेषाशनादि सर्वं परिजनं  
+> भगवतस् तत्-तद्-अवस्थोचित-परिचर्यायाम्  
+> **आज्ञापयन्त्या**’’  
+> (वैकुण्ठ-गद्यम्) 
+
+</details>
+
+
+
+<details><summary>English</summary>
+
+The author of Śrī Bhāṣya, in his Vaikuṇṭha Gadya, says  
+that she commands Adiśeṣa, Viṣvaksena and other attendants to render such service to Bhagavān  
+as is suited to the time and the circumstance,  
+and that the service to Bhagavān,  
+which is the supreme goal,  
+should be rendered in accordance with her commands. 
+</details>
+
+<details><summary>Español</summary>
+
+El autor de śrī bhāṣya, en su vaikuṇṭha gadya, **dice**  
+que ella **ordena** a Adiśeṣa, Viṣvaksena y otros asistentes  
+que **presten** dicho **servicio** a Bhagavān  
+como **se adapta** al tiempo y a las circunstancias,  
+y que el servicio a Bhagavān,  
+cual es el objetivo supremo,  
+debe **ser retenido** de acuerdo con **sus órdenes**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीभाष्यकाररुम् श्रीवैकुण्ठगद्यत्तिले ५०‘‘शेषशेषाशनादि सर्वं परिजनं भगवतस्तत्तदवस्थोचितपरिचर्यायामाज्ञापयन्त्या’’(वैकुण्ठ-गद्यम्) ऎऩ्ऱु भगवत्कैङ्कर्यरूपपरमपुरुषार्थम् इवळ् नियोगत्तिऩ्बडिये नडत्तवेणुमॆऩ्ऱु अरुळिच्चॆय्दार्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कूरत्ताऴ्वाऩुम् 
+
+> ५१ स्वस्ति श्रीर् दिशताद् अ-शेषजगतां सर्गोपसर्ग-स्थितीः  
+स्वर्गं दुर्-गतिम् आपवर्गिक-पदं सर्वञ् च **कुर्वन्** हरिः ।   
+यस्या वीक्ष्य मुखं तद्-इङ्गित-पराधीनो **विधत्ते** ऽखिलं,  
+**क्रीडेयं** खलु **नान्यथा** ऽस्य **रस-दा स्याद्** ऐकरस्यात्+++(→अन्यथा)+++ तया ॥१॥  
+(श्री स्तवम् १) 
+
+ऎऩ्ऱु संग्रहित्त अर्थत्तै
+</details>
+
+<details><summary>मूलम्</summary>
+
+कूरत्ताऴ्वाऩुम् ५१‘‘स्वस्ति श्रीर्दिशतादशेषजगतां सर्गोपसर्गस्थितीस्स्वर्गं दुर्गतिमापवर्गिकपदं सर्वञ्च कुर्वन् हरिः । यस्या वीक्ष्य मुखं तदिङ्गितपराधीनो विधत्तेऽखिलं क्रीडेयं खलु नान्यथास्य रसदा स्यादैकरस्यात्तया’’(श्री स्तवम् १) ऎऩ्ऱु संग्रहित्त अर्थत्तै
+</details>
+
+
+
+Koorathalvan too, sings his praise of Lakṣmī  in ślokas beginning with these words: "The "bounds of Thy greatness. O, Goddess, are not known to Bhagavān nor even to Thyself". These words are an elaboration of what is contained in the śloka  :- "May Lakṣmī   confer happiness (on us) --- Lakṣmī , looking at whose face, and with Her will as His aid, the Lord creates, destroys and sustains all the worlds, and grants also such things as svarga, naraka (hell) and mokṣa . Since the two are engaged in the same work and experience the same kind of delight, the Lord cannot feel happy if he performs the līlā of the work of the world without her participation in it," Bhattar, also, has commented on the word Udaara (generous ) used in the śruti  (viz., Śrī Sūktam) as an adjective for Śrī in this manner:-"How generous Thou art! O, Mother, to the man who merely raises his hands folded in worship to Thee, Thou grantest wealth, the enjoyment of his disembodied self and even paramapada and yet Thou feelest ashamed that Thou hast not done anything adequate for him." Peria Jeer, too, has brought out all these ideas in his commentary on Śrī Sukta. Thus, from what we find in the śruti , Smṛti and tradition, (the reader) gifted with insight can understand that the attribute expressed in the word Śrīmat in Dvaya has its uses, just like such things as forms (vigraha), in accordance with its own nature.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 

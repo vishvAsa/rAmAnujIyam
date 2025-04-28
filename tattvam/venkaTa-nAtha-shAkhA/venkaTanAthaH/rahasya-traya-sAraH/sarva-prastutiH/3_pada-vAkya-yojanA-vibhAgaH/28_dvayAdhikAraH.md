@@ -157,7 +157,10 @@ The pure and essential form of the jīva (free from bondage ) cannot come back t
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-॥ परावरसुखग्राह्यं प्रेमबोधप्रसावकम् । स्वरूपात् स्वामिनो रूपमुपादेयतमं विदुः ॥
+परावर-सुख-ग्राह्यं  
+प्रेम-बोध-प्रसावकम् ।  
++++(सत्यं ज्ञानम् अनन्तं→)+++ स्वरूपात् स्वामिनो रूपम्  
+उपादेयतमं विदुः ॥ +++(4)+++
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
