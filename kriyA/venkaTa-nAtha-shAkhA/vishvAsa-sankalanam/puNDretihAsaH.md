@@ -46,7 +46,7 @@ Perumal idols with such are very late.
 #### Old depictions
 The diamond urdhvapundra used on devaraja of kanchi during one utsavam was apparently donated by achyutaraya as per inscription, iirc. So, the usage of such urdhvapundra on bhagavan Himself is definitely more than 5 centuries old -  No doubt. We see such usages in hampi as well. But not in the chola and pandya murtis.
 
-We see puNDras in lepakshi Dashavatara murlas for instance (eg. Mahavishnu with abhayahasta) - These are datable to Achyutaraya if not slightly before- so post-1526, perhaps?
+We see puNDras in lepakshi Dashavatara murals for instance (eg. Mahavishnu with abhayahasta) - These are datable to Achyutaraya if not slightly before- so post-1526, perhaps?
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
