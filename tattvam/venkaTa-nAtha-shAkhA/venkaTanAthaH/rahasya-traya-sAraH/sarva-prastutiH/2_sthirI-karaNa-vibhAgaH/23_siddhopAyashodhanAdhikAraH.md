@@ -8694,20 +8694,11 @@ debe **ser retenido** de acuerdo con **sus órdenes**.
 ऎऩ्ऱु संग्रहित्त अर्थत्तै
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>English</summary>
 
-कूरत्ताऴ्वाऩुम् ५१‘‘स्वस्ति श्रीर्दिशतादशेषजगतां सर्गोपसर्गस्थितीस्स्वर्गं दुर्गतिमापवर्गिकपदं सर्वञ्च कुर्वन् हरिः । यस्या वीक्ष्य मुखं तदिङ्गितपराधीनो विधत्तेऽखिलं क्रीडेयं खलु नान्यथास्य रसदा स्यादैकरस्यात्तया’’(श्री स्तवम् १) ऎऩ्ऱु संग्रहित्त अर्थत्तै
-</details>
-
-
-
-Koorathalvan too, 
-
-sings his praise of Lakṣmī  in ślokas beginning with these words: 
-
-> "The bounds of Thy greatness, O, Goddess, are not known to Bhagavān nor even to Thyself". 
-
+Koorathalvan too,  
 in elaboration of what is contained in the śloka  :- 
+
 
 > "May Lakṣmī confer happiness (on us) ---  
 > Lakṣmī, looking at whose face, and with Her will as His aid,  
@@ -8718,6 +8709,40 @@ in elaboration of what is contained in the śloka  :-
 > the Lord cannot feel happy  
 > if he performs the līlā of the work of the world  
 > without her participation in it," 
+
+</details>
+
+<details><summary>Español</summary>
+
+Koorathalvan too,  
+in elaboration of what is contained in the śloka  :- 
+
+
+> "May Lakṣmī confer happiness (on us) ---  
+> Lakṣmī, looking at whose face, and with Her will as His aid,  
+> the Lord creates, destroys and sustains all the worlds,  
+> and grants also such things as svarga, naraka (hell) and mokṣa .  
+> Since the two are engaged in the same work and  
+> experience the same kind of delight,  
+> the Lord cannot feel happy  
+> if he performs the līlā of the work of the world  
+> without her participation in it," 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कूरत्ताऴ्वाऩुम् ५१‘‘स्वस्ति श्रीर्दिशतादशेषजगतां सर्गोपसर्गस्थितीस्स्वर्गं दुर्गतिमापवर्गिकपदं सर्वञ्च कुर्वन् हरिः । यस्या वीक्ष्य मुखं तदिङ्गितपराधीनो विधत्तेऽखिलं क्रीडेयं खलु नान्यथास्य रसदा स्यादैकरस्यात्तया’’(श्री स्तवम् १) ऎऩ्ऱु संग्रहित्त अर्थत्तै
+</details>
+
+
+
+
+sings his praise of Lakṣmī  in ślokas beginning with these words: 
+
+> "The bounds of Thy greatness, O, Goddess, are not known to Bhagavān nor even to Thyself". 
+
 
 Bhattar, also, has commented on the word Udaara (generous ) used in the śruti  (viz., Śrī Sūktam) as an adjective for Śrī in this manner:-"How generous Thou art! O, Mother, to the man who merely raises his hands folded in worship to Thee, Thou grantest wealth, the enjoyment of his disembodied self and even paramapada and yet Thou feelest ashamed that Thou hast not done anything adequate for him." Peria Jeer, too, has brought out all these ideas in his commentary on Śrī Sukta. Thus, from what we find in the śruti , Smṛti and tradition, (the reader) gifted with insight can understand that the attribute expressed in the word Śrīmat in Dvaya has its uses, just like such things as forms (vigraha), in accordance with its own nature.
 
