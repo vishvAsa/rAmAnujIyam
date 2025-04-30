@@ -118,6 +118,9 @@ The next 17 slOkams cover the svaroopam of Prapatthi, its five angams, doubts ab
 इतरविद्यासु परज्ञानरूपेण च कश्चन साक्षात्कारो विशिष्य विहित एव।  
 रामानुजोऽपि तत्र "**येन** - विद्या-विशेषेण" इति स्पष्टम् एव वदति।  
 
+(Logic - you want to ride a cycle, you need someone who has done it.  
+You just want to buy a plane ticket - no need to check for riding skills.)
+
 शाण्डिल्यविद्यानुजिगमिषया भौमविद्याविदं नोपेयात् इत्यादिर् अपि वर्तते।  
 अत्र तु ब्रह्मणि, न तु कैवल्यय् ऐश्वर्ये वा निष्ठा यस्य स इत्येव। 
 
@@ -144,13 +147,7 @@ These guNams are essential for a SadAcAryan and are stressed by Vedam, VedAntham
 
 **Meaning: **
 
-The sishyan desirous of gaining superior knowledge \(Jn~Anam\) about Prapatthi vidyA should seek the sacred feet of a SadAcAryan. He will be the right upadEshtA for nyAsa vidyA and can instruct the sishyan on nyAsa vidyA’s 7 
-
-
-
-
-
-angams, angi and phalan clearly. AcArya Jn~Ana roopa MangaLam is sung here. 
+The sishyan desirous of gaining superior knowledge \(Jn~Anam\) about Prapatthi vidyA should seek the sacred feet of a SadAcAryan. He will be the right upadEshtA for nyAsa vidyA and can instruct the sishyan on nyAsa vidyA’s 7 angams, angi and phala clearly. AcArya Jn~Ana roopa MangaLam is sung here. 
 
 Such a srEshtAcAryan would have the following fourteen auspicious attributes \(guNams\): 
 

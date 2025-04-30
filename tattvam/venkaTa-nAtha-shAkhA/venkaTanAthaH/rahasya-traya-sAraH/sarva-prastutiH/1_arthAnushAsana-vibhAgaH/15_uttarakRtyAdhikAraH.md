@@ -126,7 +126,7 @@ THE CODE OF CONDUCT SUITED FOR A PRAPANNA:
 
 <details><summary>Español</summary>
 
-El Código de Conducta adecuado para un Prapanna:
+El Código de Conducta **adecuado** para un Prapanna:
 </details>
  
 
@@ -383,6 +383,7 @@ y también **es** su efecto.
 पुरुषार्थेतर-विषयम् ऎऩ्ऱबडि। 
 </details>
 
+### विवरणानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > 'वासित्तुङ्, केट्टुम्, वणङ्गि, +++(सद्-)+++वऴि पट्टुम्, पूजित्तुम् पोक्किऩेऩ् पोदु'
@@ -530,7 +531,7 @@ y así me **enteró** que mi tiempo
 
 > 'पॊङ्ग् एऴ् पुगऴ्गळ् **वायवाय्**  
 > पुलऩ्+++(=इन्द्रिय)+++-गॊळ्-वडिवॆऩ्+++(=विग्रहः)+++ **मऩत्तद् आय्**  
-> अङ्गे मलर्गळ् **कैय्यवाय्**  
+> अङ्गे मलर्गळ् **कैय्यव् आय्**  
 > वऴि-पट्ट् **ओडव् अरुळिल्**'(तिरुवाय्मॊऴि ८-१०-४।) +++(5)+++  
 > +++(इङ्गे तिरिन्देर्क्कु इऴुक्क् उऱ्ऱ् ऎऩ्?)+++
 
@@ -751,7 +752,7 @@ Y el otro, a **saber**, la diosa de la tierra!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'पळ्ळि-गॊळ्ळुम्-इडत्त्--अडि-कॊट्ट्+++(=मर्दनम्??)+++-इडक् कॊळ्ळुम् आगिल्'(नाच्चियार् तिरुमॊऴि ४१) 
+> 'पळ्ळि+++(=शयन)+++-गॊळ्ळुम्-इडत्त्--अडि-कॊट्ट्+++(=मर्दनम्)+++-इडक् कॊळ्ळुम् आगिल्'(नाच्चियार् तिरुमॊऴि ४१) 
 
 ऎऩ्ऱुम्,  
 </details>
@@ -771,8 +772,8 @@ Y el otro, a **saber**, la diosa de la tierra!
 
 <details><summary>Español</summary>
 
-> "Si el Señor será tan amable  
-> como para dejar que presione suavemente  
+> "Si el Señor **será** tan amable  
+> como para **dejar** que **presione** suavemente  
 > sus pies en el lugar donde duerma",
 </details>
 
@@ -790,7 +791,9 @@ Y el otro, a **saber**, la diosa de la tierra!
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'ऎण्णक्+++(=गणनाम्)+++-कण्ड विरल्गळ्'(पॆरियाऴ्वार् तिरुमॊऴि ४-४-३) ऎऩ्ऱुम्; 
+> 'ऎण्णक्+++(=गणनाम्)+++-कण्ड विरल्गळ्'(पॆरियाऴ्वार् तिरुमॊऴि ४-४-३) 
+
+ऎऩ्ऱुम्; 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -810,8 +813,8 @@ when I utter the names of the Lord."
 
 <details><summary>Español</summary>
 
-> "Mis dedos mantendrán la cuenta  
-Cuando pronuncio los nombres del Señor ".
+> "Mis dedos **mantendrán** la cuenta  
+**Cuando pronuncio** los nombres del Señor ".
 </details>
 
 
@@ -831,9 +834,11 @@ Cuando pronuncio los nombres del Señor ".
 
 > 'उण्णा नाळ् पसिय् आवद् ऒऩ्ऱ् इल्लैय्  
 > 
-> ओवादे+++(=विच्छेदं विना)+++ नमो नारणाव् ऎऩ्ऱ् ऎण्णा नाळुम् इरुक्क्+++(=ऋक्)+++-ऎजुस्+++(=यजुस्)+++-साम-वेद नाण्+++(=नव)+++-मलर् **कॊण्ड्**  
+> ओवादे+++(=विच्छेदं विना)+++ "नमो नारणाव्" ऎऩ्ऱ् ऎण्णा नाळुम्  
+> इरुक्क्+++(=ऋक्)+++-ऎजुस्+++(=यजुस्)+++-साम-वेद नाण्+++(=नव)+++-मलर् **कॊण्ड्**  
 > उऩ पादम् नण्णा+++(=उपसर्पण-रहिता)+++ नाळ्-अवै **तत्तुऱुम्**+++(=उद्भूतं)+++ आगिल्  
-> अऩ्ऱ् ऎऩक्क् अवै पट्टिऩि+++(=निराहार)+++ नाळे'(पॆरियाऴ्वार् तिरुमॊऴि ५-१-६) 
+> अऩ्ऱ् ऎऩक्क् अवै पट्टिऩि+++(=निराहार)+++ नाळे'  
+> (पॆरियाऴ्वार् तिरुमॊऴि ५-१-६) 
 
 ऎऩ्ऱुम्, 
 </details>
@@ -865,11 +870,11 @@ which are (as it were) freshly bloomed flowers".
 
 <details><summary>Español</summary>
 
-"Los días de mi hambre no son aquellos en los que no como  
-\- (son) los días, si alguna vez ocurren,  
-en el que no medito constantemente decir "nāmo nārāyaṇa ''  
-y los días en los que no me acerco a tus pies con los tres Vedas  
-que son (por así decirlo) flores recién florecidas ".
+"Los días de mi hambre **no son** aquellos en los que **no como**  
+\- (son) los días, si alguna vez **ocurren**,  
+en el que **no medito** constantemente decir "nāmo nārāyaṇa ''  
+y los días en los que **no me acerco** a tus pies con los tres Vedas  
+que **son** (por así decirlo) flores recién **florecidas** ".
 </details>
 
 
@@ -888,7 +893,7 @@ que son (por así decirlo) flores recién florecidas ".
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > 'नाक्कु निऩ्ऩैय् अल्लाल् **अऱियादु**  
-> नाऩ् **अदञ्जुवऩ्** - ऎऩ् वशम् **अऩ्ऱु**' 
+> +++(तद्-अनौचित्ये)+++ नाऩ् अद् **अञ्जुवऩ्** - +++(किञ्च)+++ ऎऩ् वशम् **अऩ्ऱु**' 
 > (पॆरियाऴ्वार् तिरुमॊऴि ५-१-१) +++(5)+++
 
 ऎऩ्ऱुम्,  
@@ -897,7 +902,7 @@ que son (por así decirlo) flores recién florecidas ".
 <details><summary>नीलमेघः (सं)</summary>
 
 > “18 वाक् त्वद्-व्यतिरिक्तं न वेद ।  
-> अहं बिभेमि; मद्-वशगा सा न" +++(5)+++
+> +++(तद्-अनौचित्ये)+++ अहं बिभेमि; +++(किञ्च)+++ मद्-वशगा सा न" +++(5)+++
 
 इति  
 </details>
@@ -912,10 +917,10 @@ for my tongue is not under my control".+++(5)+++
 
 <details><summary>Español</summary>
 
-"Mi lengua no alabará a nadie más que a ti;  
-Me pregunto si sufrirás alguna pérdida de gloria por mis elogios;  
-Pero no puedo dejar de alabarte  
-porque mi lengua no está bajo mi control ". +++ (5) +++
+"Mi lengua **no alabará** a nadie más que a ti;  
+Me **pregunto** si **sufrirás** alguna pérdida de gloria por mis elogios;  
+Pero **no puedo dejar** de alabarte  
+porque mi lengua **no está** bajo mi control ". +++ (5) +++
 </details>
 
 
@@ -933,7 +938,8 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'वाय् अवऩैय् अल्लदु वाऴ्त्तादु'(मुदल् तिरुवन्दादि ११) 
+> 'वाय् अवऩैय् अल्लदु वाऴ्त्तादु'+++(=स्तौति)+++  
+> (मुदल् तिरुवन्दादि ११) 
 
 ऎऩ्ऱुम्
 </details>
@@ -954,7 +960,7 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 
 <details><summary>Español</summary>
 
-"Mi boca no elogia a nadie más que a él",
+"Mi boca **no elogia** a nadie más que a él",
 </details>
 
 
@@ -992,7 +998,7 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 
 <details><summary>Español</summary>
 
-> "Mis hombros no se inclinan ante nadie más que él",
+> "Mis hombros **no se inclinan** ante nadie más que él",
 </details>
 
 
@@ -1009,14 +1015,14 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'नयवेऩ् +++(=नेच्छेयम्)+++ पिऱर् पॊरुळै +++(आत्माख्यम्)+++'(मुदल् तिरुवन्दादि ६४) 
+> '**नयवेऩ्** +++(=नेच्छेयम्)+++ पिऱर्+++(→देवस्य)+++ पॊरुळै +++(आत्माख्यम्)+++'(मुदल् तिरुवन्दादि ६४) 
 
 ऎऩ्ऱुम्,  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> नेच्छेयं परेषां वस्तु +++(आत्माख्यम्)+++
+> **नेच्छेयं** परेषां+++(→देवस्य)+++ वस्तु +++(आत्माख्यम्)+++
 
 इति 
 </details>
@@ -1030,8 +1036,8 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 
 <details><summary>Español</summary>
 
-> "No miraré mi alma, que pertenece al Señor, como mía,  
-> Tampoco permaneceré en compañía de aquellas personas malas que piensan ",+++(5)+++
+> "**No miraré** mi alma, que **pertenece** al Señor, como mía,  
+> Tampoco **permaneceré** en compañía de aquellas personas malas que **piensan** ",+++(5)+++
 </details>
 
 
@@ -1071,7 +1077,7 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 
 <details><summary>Español</summary>
 
-> "Que seas tan amable como para hacer me meditar en ti",
+> "Que **seas** tan amable como para **hacer me meditar** en ti",
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1088,7 +1094,7 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'इरुळ् इरिय'(पॆरुमाळ् तिरुमॊऴि १-१)  
+> 'इरुळ् इरिय+++(=प्रतिगमयत्)+++'(पॆरुमाळ् तिरुमॊऴि १-१)  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -1108,9 +1114,10 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 
 <details><summary>Español</summary>
 
-> "¿Cuándo serán estos dos ojos míos?  
-> Déjate ver la frente del Señor  
-> ¿Dónde las dos gemas que arrojan luz brillan disipando la oscuridad? "
+> "¿Cuándo **serán** estos dos ojos míos?  
+> **Déjate ver** la frente del Señor  
+> Dónde las dos gemas que **arrojan** luz brillan  
+> **disipando** la oscuridad? "
 </details>
 
 
@@ -1147,9 +1154,9 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 
 <details><summary>Español</summary>
 
-> "No anhelo el nacimiento acompañado de riqueza  
-> Eso (solo) hace que la carne crezca  
-> Pero ore para nacer como pájaro en las colinas de Venkata ".
+> "**No anhelo** el **nacimiento** acompañado de riqueza  
+> Eso (solo) **hace** que la carne **crezca**  
+> Pero **ore** para **nacer** como pájaro en las colinas de Venkata ".
 </details>
 
 
@@ -1168,7 +1175,7 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 
 > 'नी+++(=दीर्घ)+++-णागम् सुऱ्ऱि'(पॆरियदिरुमॊऴि ११-७-१)  
 
-ऎऩ्गिऱ तिरुमॊऴिगळिलुम्,  
+ऎऩ्गिऱ तिरु-मॊऴिगळिलुम्+++(=दशक-सूक्तिषु)+++,  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -1196,16 +1203,16 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 
 <details><summary>Español</summary>
 
-> "Los ojos de aquellos que no han visto esa colina dorada que cabalga sobre el pájaro  
-> y que, hace mucho tiempo, plantó la herida de la colina con la serpiente en el mar  
-> y lo convirtió por el bien del néctar -
-> Sus ojos no son los ojos en absoluto "
+> "Los ojos de aquellos que **no han visto** esa colina dorada que **cabalga** sobre el pájaro  
+> y que, **hace** mucho tiempo, **plantó** la herida de la colina con la serpiente en el mar   
+> y lo **convirtió** para el nétar -
+> Sus ojos **no son** los ojos en absoluto "
 
-> ["Los ojos de aquellos que no han visto a Bhagavān que es una montaña de oro
-> y quién monta sobre un pájaro
-> Y quien, hace mucho tiempo, colocó la montaña ceñida con la serpiente en el mar
-> y lo convirtió por el bien del néctar -
-> Sus ojos no son ojos en absoluto "]
+> ["Los ojos de aquellos que **no han visto** a Bhagavān que **es** una montaña de oro  
+> y quién **monta** sobre un pájaro  
+> Y quien, **hace** mucho tiempo, **colocó** la montaña ceñida con la serpiente en el mar  
+> y lo **convirtió** por el bien del néctar -  
+> Sus ojos **no son** ojos en absoluto "]
 </details>
 
 
@@ -1235,7 +1242,7 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 
 > ‘‘पत्युः प्रजानाम् ऐश्वर्यं,  
 पशूनां +++(→पत्युर्)+++ वा न कामये ।  
-अहं कदम्बो भूयासं,  
+अहं कदम्बो **भूयासं**,  
 कुन्दो वा यमुना तटे’’() 
 
 इति
@@ -1355,8 +1362,8 @@ Del mismo modo, también estos sánscritos Ślokas:-
 
 <details><summary>Español</summary>
 
-> "Ya sea que esté despierto o dormido,  
-> Renderizaré todo el servicio que se requiere ".
+> "Ya **sea** que esté **despierto o dormido**,  
+> **Renderizaré** todo el servicio que se requiere ".
 </details>
 
 
@@ -1374,18 +1381,20 @@ Del mismo modo, también estos sánscritos Ślokas:-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > परवान् अस्मि काकुत्स्थ  
-> त्वयि वर्ष-शतं स्थिते ।  
-> स्वयन् तु रुचिरे देशे  
-> क्रियताम् इति मां वद॥ +++(5)+++  
+त्वयि वर्ष-शतं स्थिते +++(१४-वर्षावधिस् तवैवास्तु)+++।  
++++(जलाहरणादौ मत्-सौकर्यम् उपेक्ष्य)+++  
+स्वयं तु रुचिरे देशे  
+क्रियताम् इति मां वद ॥ +++(5)+++  
 > (रामायणम् आरण्यकाण्डम् १५-७)
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 > परवान् अस्मि काकुत्स्थ  
-> त्वयि वर्ष-शतं स्थिते ।  
-> स्वयन् तु रुचिरे देशे  
-> क्रियताम् इति मां वद॥ +++(5)+++  
+त्वयि वर्ष-शतं स्थिते +++(१४-वर्षावधिस् तवैवास्तु)+++।  
++++(जलाहरणादौ मत्-सौकर्यम् उपेक्ष्य)+++  
+स्वयं तु रुचिरे देशे  
+क्रियताम् इति मां वद ॥ +++(5)+++  
 > (रामायणम् आरण्यकाण्डम् १५-७)
 
 इति
@@ -1401,10 +1410,10 @@ Del mismo modo, también estos sánscritos Ślokas:-
 
 <details><summary>Español</summary>
 
-> "Vivir como puedas durante cien años,  
-> Estaré debajo de ti.  
-> Ordene usted mismo para que haga lo que quiera  
-> en lugares que considere hermosos ”.
+> "**Vivir** como puedas durante cien años,  
+> **Estaré** debajo de ti.  
+> **Ordene** usted mismo para que **haga** lo que quiera  
+> en lugares que **considere** hermosos ”.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1421,7 +1430,7 @@ Del mismo modo, también estos sánscritos Ślokas:-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘कामये वैष्णवत्वन् तु  
-> सर्वजन्मसु केवलम्’’  
+> सर्व-जन्मसु केवलम्’’  
 > (जितन्ता-स्तोत्रम् १-१३।) 
 
 ऎऩ्ऱुम्,
@@ -1443,7 +1452,7 @@ Del mismo modo, también estos sánscritos Ślokas:-
 
 <details><summary>Español</summary>
 
-> "Solo anhelo ser el sirviente de Bhagavān en todos mis nacimientos".
+> "Solo **anhelo ser** el sirviente de Bhagavān en todos mis **nacimientos**".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1470,7 +1479,7 @@ Del mismo modo, también estos sánscritos Ślokas:-
 शुभैश् शक्त्य्-अनुरूपतः ॥  
 **आराधयन्** हरिं भक्त्या  
 **गमयिष्यामि** वासरान्  
-(वङ्गीबुरत्तुनम्बि-कारिका।)  
+(वङ्गी-पुरत्तु-नम्बि-कारिका।)  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -1481,7 +1490,7 @@ Del mismo modo, también estos sánscritos Ślokas:-
 शुभैश् शक्त्य्-अनुरूपतः ॥  
 **आराधयन्** हरिं भक्त्या  
 **गमयिष्यामि** वासरान्  
-(वङ्गीबुरत्तुनम्बि-कारिका।)  
+(वङ्गी-पुरत्तु-नम्बि-कारिका।)  
 </details>
 
 <details><summary>English</summary>
@@ -1495,10 +1504,10 @@ Del mismo modo, también estos sánscritos Ślokas:-
 
 <details><summary>Español</summary>
 
-> "Pasaré mis días así,  
-> prestar el servicio designado en cada una de las cinco partes del día  
-> y al adorar a Bhagavān con buena Chandana, flores y similares -  
-> Como puedo obtener con mi propio esfuerzo ".
+> "**Pasaré** mis días así,  
+> **prestar** el **servicio designado** en cada una de las cinco partes del día  
+> y al **adorar** a Bhagavān con buena Chandana, flores y similares -  
+> Como **puedo obtener** con mi propio **esfuerzo** ".
 </details>
 
 
@@ -1506,7 +1515,7 @@ Del mismo modo, también estos sánscritos Ślokas:-
 
 ‘‘वर्तमानस्सदा चैवं पाञ्चकालिकवर्त्मना ।  
 स्वार्जितैर्गन्धपुष्पाद्यैश्शुभैश्शक्त्यनुरूपतः ॥  
-आराधयन् हरिं भक्त्या गमयिष्यामि वासरान्’’(वङ्गीबुरत्तुनम्बि-कारिका।)  
+आराधयन् हरिं भक्त्या गमयिष्यामि वासरान्’’(वङ्गी-पुरत्तुनम्बि-कारिका।)  
 </details>
 
 <details><summary>सार-बोधिनी</summary>
@@ -1543,8 +1552,8 @@ which are in keeping with one's essential nature (svarūpa) in spending the time
 
 <details><summary>Español</summary>
 
-Estas son las formas de servicio después de Prapatti  
-que están en consonancia con la naturaleza esencial de uno (svarūpa) para pasar el tiempo.
+**Estas** son las formas de servicio después de Prapatti  
+que **están** en consonancia con la naturaleza esencial de uno (svarūpa) para pasar el tiempo.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1575,7 +1584,7 @@ THE PRAPANNA SHOULD SEEK SPIRITUAL KNOWLEDGE:
 
 <details><summary>Español</summary>
 
-LA PRAPANNA DEBE BUSCAR CONOCIMIENTO ESPIRITUAL:
+LA PRAPANNA **DEBE BUSCAR CONOCIMIENTO** ESPIRITUAL:
 </details>
 
 
@@ -1583,15 +1592,15 @@ LA PRAPANNA DEBE BUSCAR CONOCIMIENTO ESPIRITUAL:
 
 तऩ् **निष्ठैक्क्** अनुरूपम् आगत् तॆळिय-वेण्डुम् अर्थङ्गळिल्  
 
-तऩक्कुत् तॆळियाद निलङ्गळै  
++++(अनिष्ठितांशान्→)+++ तऩक्कुत् तॆळियाद निलङ्गळै  
 "नाम् कृत-कृत्यऩ्" ऎऩ्ऱु **अनादरित्त् इरादे**  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 स्व-निष्ठाया अनुरूपेषु  
-विशदं ज्ञातव्येष्व् अर्थेषु स्वेनाज्ञातान् अर्थान्,  
-"अहं कृतकृत्य" इत्य् अनुपेक्ष्य  
+विशदं ज्ञातव्येष्व् अर्थेषु +++(अनिष्ठितांशान्→)+++ स्वेनाज्ञातान् अर्थान्,  
+"अहं कृत-कृत्य" इत्य् अनुपेक्ष्य  
 </details>
 
 
@@ -1604,10 +1613,10 @@ in the presumption that he has already done what should be done.
 
 <details><summary>Español</summary>
 
-Además, la Prapanna no debe permanecer complacientemente ignorante  
-de lo que debería ser conocido por uno en ese estado,  
-en la presunción de que ya ha hecho  
-lo que debe hacerse.
+Además, la Prapanna **no debe permanecer complacientemente** ignorante  
+de lo que **debería ser conocido** por uno en ese estado,  
+en la presunción de que ya **ha hecho**  
+lo que **debe hacerse**.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1631,7 +1640,6 @@ lo que debe hacerse.
 
 अनुभव-पूर्ति-संपत्ति-समये  
 विशद-ज्ञानस्य प्रेम्णश् चावश्यकत्वात्,  
-
 </details>
 
 
@@ -1643,8 +1651,8 @@ Therefore in accordance with the śloka ,
 
 <details><summary>Español</summary>
 
-En el estado de disfrute perfecto del Señor,  
-el conocimiento y el amor son (ambos) esenciales.  
+En el estado de **disfrute** perfecto del Señor,  
+el **conocimiento** y el amor **son** (ambos) esenciales.  
 Por lo tanto,
 </details>
 
@@ -1694,9 +1702,9 @@ The man who begs (for other things ) will surely perish ",
 
 de acuerdo con el Śloka,
 
-"Uno nunca debe rogarle al Señor nada  
-pero conocimiento y amor por sus pies santos.  
-El hombre que pide (por otras cosas) seguramente perecerá ", 
+"Uno nunca **debe rogarle** al Señor nada  
+pero **conocimiento** y amor por sus pies santos.  
+El hombre que **pide** (por otras cosas) seguramente **perecerá** ", 
 </details>
 
 
@@ -1732,7 +1740,7 @@ there is nothing improper in desiring knowledge and love of the Lord.
 
 <details><summary>Español</summary>
 
-No hay nada incorrecto en desear el conocimiento y el amor del Señor.
+**No hay** nada incorrecto en **desear** el **conocimiento** y el amor del Señor.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1773,14 +1781,14 @@ No hay nada incorrecto en desear el conocimiento y el amor del Señor.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
->'पीत-कवाडैप्+++(=वस्त्रम्??)+++ पिराऩार्+++(=उदारः)+++  
-पिरम+++(=ब्रह्म)+++-गुरुव् आगि वन्दु'  
+>'पीतकव् आडैप्+++(=वस्त्रम्)+++ पिराऩार्+++(=उपकारकः)+++  
+पिरम+++(=ब्रह्म[विद्या])+++-गुरुव् आगि वन्दु'  
 (पॆरियाऴ्वार् तिरुमॊऴि ५-२-८) 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> पीताम्बर उपकारको ब्रह्म-गुरुर्भूत्वा एत्य" 
+> पीताम्बर उपकारको ब्रह्म+++(-विद्या)+++-गुरुर् भूत्वा एत्य" 
 </details>
 
 
@@ -1791,10 +1799,10 @@ It has been said :- "The Lord of the yellow raiment has incarnated as the guru t
 
 <details><summary>Español</summary>
 
-Se ha dicho:- 
+**Se ha dicho**:- 
 
 > "El Señor de la Ralucción Amarilla  
-> ha encarnado como el Guru para enseñar al Veda".
+> ha **encarnado** como el Guru para **enseñar** al Veda".
 </details>
 
 
@@ -1816,7 +1824,7 @@ Se ha dicho:-
 
 <details><summary>नीलमेघः (सं)</summary>
 
-इत्युक्तरीतिकतया स्थितानां संप्रबुद्धानां परमेकान्तिनां सन्निधौ, 
+इत्युक्तरीतिकतया स्थितानां संप्रबुद्धानां परमैकान्तिनां सन्निधौ, 
 </details>
 
 <details><summary>English</summary>
@@ -1827,8 +1835,8 @@ and having a clear knowledge of (the truth ).
 
 <details><summary>Español</summary>
 
-Entonces la Prapanna debería aprender de tales gurús que poseen devoción exclusiva al Señor  
-y tener un conocimiento claro de (la verdad).
+Entonces la Prapanna debería **aprender** de tales gurús que **poseen** devoción exclusiva al Señor  
+y **tenen** un **conocimiento** claro de (la verdad).
 </details>
 
 
@@ -1882,11 +1890,11 @@ y tener un conocimiento claro de (la verdad).
 
 <details><summary>Español</summary>
 
-> "Inclínese ante tu gurú,  
-> Coloque tus dudas ante él  
-> y prestarle servicio a él,  
-> (entonces) Aprenda de él la verdadera naturaleza del yo.  
-> (Tu) ācāryas te enseñará la verdad sobre el yo ".
+> "**Inclínese** ante tu gurú,  
+> **Coloque** tus dudas ante él  
+> y **prestarle** servicio a él,  
+> (entonces) **Aprenda** de él la verdadera naturaleza del yo.  
+> (Tu) ācāryas te **enseñará** la verdad sobre el yo ".
 </details>
 
 
@@ -1921,8 +1929,8 @@ by following the injunction contained in the (above) śloka  -
 
 <details><summary>Español</summary>
 
-Debería obtener un conocimiento claro de ellos  
-siguiendo la orden judicial contenida en el (arriba) Śloka -
+**Debería obtener** un **conocimiento** claro de ellos  
+**siguiendo** la **orden contenida** en el (arriba) Śloka -
 </details>
 
 
@@ -1942,7 +1950,7 @@ siguiendo la orden judicial contenida en el (arriba) Śloka -
 
 > ‘‘मन्दोऽप्य् अमन्दताम् एति  
 > संसर्गेण विपश्चितः ।  
-> पङ्क-च्छिदः+++(=soapnut)+++ फलस्येव  
+> पङ्क-च्छिदः+++(="तत्तन्"-बीजम्)+++ फलस्येव  
 > निघर्षेणाविलं पयः ॥’’  
 > 
 > (मालविकाग्निमित्र-नाटकम्) 
@@ -1952,10 +1960,15 @@ siguiendo la orden judicial contenida en el (arriba) Śloka -
 
 > ‘‘मन्दोऽप्य् अमन्दताम् एति  
 > संसर्गेण विपश्चितः ।  
-> पङ्कच्-छिदः+++(=soapnut)+++ फलस्येव  
+> पङ्कच्-छिदः+++(="तत्तन्"-बीजम्)+++ फलस्येव  
 > निघर्षेणाविलं पयः ॥’’  
 > 
 > (मालविकाग्निमित्र-नाटकम्) 
+</details>
+
+<details><summary>विषयः</summary>
+
+सत्-सङ्गः
 </details>
 
 
@@ -1964,15 +1977,15 @@ siguiendo la orden judicial contenida en el (arriba) Śloka -
 > "Even a man that is dull becomes intelligent  
 > by seeking the company of the wise.  
 > Muddy water becomes clear and pure  
-> by being mixed with the lather from soapnut." 
+> by being mixed with the lather from Strychnos potatorum ~~soapnut~~ ." 
 </details>
 
 <details><summary>Español</summary>
 
-> "Even a man that is dull becomes intelligent  
-> by seeking the company of the wise.  
-> Muddy water becomes clear and pure  
-> by being mixed with the lather from soapnut." 
+> "Incluso un hombre que **es** aburrido **se vuelve** inteligente  
+> **buscando** la compañía de los sabios.  
+> El agua fangosa **se vuelve** clara y pura  
+> **siendo mezclado** con la espuma de Strychnos potatorum ~~Soapnut~~ ".
 </details>
 
 
@@ -2008,8 +2021,8 @@ He should have his knowledge rendered clear and pure, for (the poet) says (the a
 
 <details><summary>Español</summary>
 
-Debería tener su conocimiento claro y puro,  
-porque (el poeta) dice (lo anterior),
+**Debería tener** su **conocimiento** claro y puro,  
+porque (el poeta) **dice** (lo anterior),
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2026,7 +2039,7 @@ porque (el poeta) dice (lo anterior),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘+++(भगवति)+++ यस्यानुभव-पर्यन्ता  
+> ‘‘ यस्यानुभव+++(→भगवत्-सुखम्)+++-पर्यन्ता  
 > बुद्धिस् तत्त्वे **प्रतिष्ठिता** ।  
 > तद्-दृष्टि-गो-चरास् सर्वे  
 > **मुच्यन्ते** सर्व-किल्बिषैः ॥’’
@@ -2047,7 +2060,7 @@ porque (el poeta) dice (lo anterior),
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘+++(भगवति)+++ यस्यानुभव-पर्यन्ता  
+> ‘‘यस्यानुभव+++(→भगवत्-सुखम्)+++-पर्यन्ता  
 > बुद्धिस् तत्त्वे प्रतिष्ठिता ।  
 > तद्-दृष्टि-गो-चरास् सर्वे  
 > **मुच्यन्ते** सर्व-किल्बिषैः ॥’’
@@ -2065,10 +2078,10 @@ porque (el poeta) dice (lo anterior),
 
 <details><summary>Español</summary>
 
-> "Él cuyo conocimiento de la verdad (con respecto a Bhagavān)  
-> se extiende hasta el disfrute del Señor,  
-> Todos los que caen dentro del rango de sus ojos  
-> serán purificados de todos sus pecados ".
+> "Él cuyo **conocimiento** de la verdad (con respecto a Bhagavān)  
+> **se extiende** hasta el **disfrute** del Señor,  
+> Todos los que **caen** dentro del rango de sus ojos  
+> **serán purificados** de todos sus pecados ".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2086,7 +2099,7 @@ porque (el poeta) dice (lo anterior),
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎऩ्गिऱ बडिये  
-इव्व्-अर्थङ्गळिल् निष्ठैय्-उडैयवर्गळ्-उडऩे नॆरुङ्गि वर्त्तित्तु,+++(5)+++ 
+इव्व्-अर्थङ्गळिल् निष्ठैय्-उडैयवर्गळ्-उडऩे नॆरुङ्गि+++(=सम्मिल्य)+++ वर्त्तित्तु,+++(5)+++ 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -2104,9 +2117,9 @@ as are well established in this knowledge.
 
 <details><summary>Español</summary>
 
-Se ha dicho (así),  
-Entonces la Prapanna debería vivir en contacto cercano con tal,  
-como se establece bien en este conocimiento.
+**Se ha dicho** (así),  
+Entonces la Prapanna **debería vivir** en contacto cercano con tal,  
+como **se establece** bien en este conocimiento.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2179,12 +2192,12 @@ As stated (in the Gita):-
 
 <details><summary>Español</summary>
 
-Como se indicó (en el Gita):-  
+Como **se indicó** (en el Gita):-  
 
-> "En un tanque que está destinado a todos  
+> "En un tanque que **está** destinado a todos  
 > y para varios fines,  
-> uno debe tomar solo tanto (del agua)  
-> como se requiere para los propósitos ",
+> uno debe **tomar** solo tanto (del agua)  
+> como **se requiere** para los propósitos ",
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2221,9 +2234,9 @@ and conduct himself in keeping with that determination
 
 <details><summary>Español</summary>
 
-La Prapanna debe determinar qué debe elegir,  
-qué está de acuerdo con su varṇa, su āśrama, su gotra, su carácter y similares  
-y conducirse de acuerdo con esa determinación
+La Prapanna **debe determinar** qué **debe elegir**,  
+qué **está** de acuerdo con su varṇa, su āśrama, su gotra, su carácter y similares  
+y **conducirse** de acuerdo con esa determinación
 </details>
 
 
@@ -2237,7 +2250,7 @@ y conducirse de acuerdo con esa determinación
 ऎऩ्गिऱ प्रकारत्तिले - ऎऩ्ऱु सॊल्लुगिऱबडि। तऩ् वर्णाश्रमजातिगुणादिगळुक्कु अनुरूपमाऩ कर्तव्यांशत्तै निष्कर्षित्तऩुष्टित्तु इति । तथाच विरुद्धाश्रमिकळोडो, विरुद्धजातीयरोडो नॆरुङ्गि वर्तित्तालुम् तऩ् वर्णाश्रमजातिगुणादिगळुक्कु अविरुद्धमाऩ कर्तव्यांशङ्गळे इवऩुक्कु उपादेयङ्गळागैयाल् अतिप्रसङ्गादिगळ् सम्भविक्कादॆऩ्ऩदायिऱ्ऱु। अनुष्ठित्तु ऎऩ्गिऱ ल्यप्पुक्कु विधियिले तात्पर्यम्। 
 </details>
 
-
+## स्व-महत्तरता-वारणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इव्व्-अनुष्ठानादिगळैय् उडैयोम्" ऎऩ्ऩुम् भावनैय्-अडिय्-आग वरुम्  
@@ -2264,9 +2277,9 @@ which might arise from his conceit while observing this code of conduct.
 
 <details><summary>Español</summary>
 
-y debería caminar con cautela  
-para que no caiga en la trampa de pensar en su propia superioridad y la inferioridad de los demás,  
-lo que podría surgir de su presunción mientras observa este código de conducta.
+y **debería caminar** con cautela  
+para que **no caiga** en la trampa de **pensar** en su propia superioridad y la inferioridad de los demás,  
+lo que **podría surgir** de su **presunción** mientras **observa** este código de conducta.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2313,9 +2326,9 @@ so as to enjoy the rise of such benefits as the vision (of the Lord),
 
 <details><summary>Español</summary>
 
-Incluso si, como ocurrió, como Nammalvar y Nāthamunigal,  
-Está bendecido con la gracia especial del Salvador  
-para disfrutar del surgimiento de beneficios como la visión (del Señor),
+Incluso si, como **ocurrió**, como Nammalvar y Nāthamunigal,  
+Está **bendecido** con la gracia especial del Salvador  
+para **disfrutar** del **surgimiento** de beneficios como la **visión** (del Señor),
 </details>
 
 
@@ -2355,9 +2368,9 @@ as said in,
 
 <details><summary>Español</summary>
 
-como se dijo en
+como **se dijo** en
 
-> "No sé qué es bueno y qué es malo",
+> "**No sé** qué es bueno y qué es malo",
 </details>
 
 
@@ -2403,11 +2416,11 @@ he should feel sure (that it is not due to any merit of his own).
 
 y
 
-> "Incluso si sé lo que es bueno y lo que es malvado,
-> No puedo obtener lo que es bueno  
-> y evita lo que es malvado " 
+> "Incluso si **sé** lo que es bueno y lo que es malvado,
+> **No puedo obtener** lo que es bueno  
+> y **evita** lo que es malvado " 
 
-Debería sentirse seguro (que no se debe a ningún mérito propio).  
+**Debería sentirse** seguro (que no se debe a ningún mérito propio).  
 </details>
 
 
@@ -2426,7 +2439,7 @@ Debería sentirse seguro (que no se debe a ningún mérito propio).
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पराधीन--स्व-रूप--स्थिति-प्रवृत्तिय् आऩ तऩ्ऩ्-अधिकारत्तिले **सॊरुगिऩव्**+++(=अन्तर्-भूतस्य)+++ आकिञ्चन्यत्तैय्  
-**अऴिय माऱादे**  
+**अऴिय +++(रीत्या)+++ माऱादे**  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -2490,9 +2503,9 @@ no sufre ningún cambio o pérdida.
 
 <details><summary>Español</summary>
 
-> “Soy la morada de todas las transgresiones,  
-> No tengo medios para protegerme  
-> Y no tengo nada más que lograr que ti ",
+> **“Soy** la morada de todas las transgresiones,  
+> **No tengo** medios para protegerme  
+> Y **no tengo** nada más que lograr que ti ",
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2546,8 +2559,8 @@ no sufre ningún cambio o pérdida.
 
 <details><summary>Español</summary>
 
-> "No he estado observando el código de la vida disciplinada,  
-> tampoco tengo aguda inteligencia ",
+> "**No he estado observando** el código de la vida disciplinada,  
+> **tampoco tengo** aguda inteligencia ",
 </details>
 
 
@@ -2581,7 +2594,7 @@ no sufre ningún cambio o pérdida.
 
 <details><summary>Español</summary>
 
-"¿Qué puedo hacer?"
+"¿Qué **puedo hacer**?"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2599,7 +2612,7 @@ no sufre ningún cambio o pérdida.
 
 > "कळैवाय् तुन्बङ्+++(=दुःखम्)+++,  
 > कळैयाद् ऒऴिवाय्+++(=त्यज)+++,  
-> कळै-गण्+++(=रक्षक)+++-मऱ्ऱिलेऩ्" 
+> कळै+++(=रक्षा)+++-गण्+++(=स्थानम्)+++-मऱ्ऱिलेऩ्" 
 > 
 > (तिरुवाय्मॊऴि 5-8-8.) 
 </details>
@@ -2623,9 +2636,9 @@ no sufre ningún cambio o pérdida.
 
 <details><summary>Español</summary>
 
-> ¡Que mi miseria se ponga fin!  
-> Si no lo haces,  
-> no hay nadie más que me protegiera ",
+> ¡Que mi miseria **se ponga** fin!  
+> Si **no lo haces**,  
+> **no hay** nadie más que me **protegiera** ",
 </details>
 
 
@@ -2658,7 +2671,7 @@ no sufre ningún cambio o pérdida.
 
 <details><summary>Español</summary>
 
-> "No tengo otra upāya y ningún otro protector".
+> "**No tengo** otra upāya y ningún otro protector".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2694,8 +2707,8 @@ whom I can hold as the Saviour of my soul!"
 
 <details><summary>Español</summary>
 
-"No conozco a nadie  
-quién puedo tener como el Salvador de mi alma! "
+"**No conozco** a nadie  
+quién **puedo tener** como el Salvador de mi alma! "
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2729,9 +2742,9 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details><summary>Español</summary>
 
-> "Somos mujeres tan ignorantes  
-> Pertenecer a la raza de Cowherds  
-> como comer en bosques mientras pasta las vacas allí ",
+> "**Somos** mujeres tan ignorantes  
+> **Pertenecer** a la raza de Cowherds  
+> como **comer** en **bosques** mientras **pasta** las vacas allí ",
 </details>
 
 
@@ -2765,8 +2778,8 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details><summary>Español</summary>
 
-> He renunciado a los ritos relacionados con los brahmanes
-> de adorar los tres incendios después de la ablución,ciones, 
+> **He renunciado** a los ritos relacionados con los brahmanes
+> de **adorar** los tres incendios después de la **abluciónes**, 
 </details>
 
 
@@ -2802,8 +2815,8 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details><summary>Español</summary>
 
-> "No nací en ninguna de las cuatro castas  
-> en donde uno está en forma para seguir dharma ",
+> "**No nací** en ninguna de las cuatro castas  
+> en donde uno **está** en forma para **seguir** dharma ",
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2820,7 +2833,8 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-'एऴैय्+++(=अज्ञः)+++ एदलऩ्+++(=परकीयः)+++'(पॆरिय तिरुमॊऴि ५-८-१),  
+> 'एऴैय्+++(=अज्ञः)+++ एदलऩ्+++(=परकीयः/शत्रुः)+++'  
+(पॆरिय तिरुमॊऴि ५-८-१),  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -2835,7 +2849,7 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details><summary>Español</summary>
 
-> "Soy ignorante y de bajo nacimiento",
+> "**Soy** ignorante y de bajo nacimiento",
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2867,7 +2881,7 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details><summary>Español</summary>
 
-> "No tengo a nadie que busque apoyo".
+> "**No tengo** a nadie que **busque** apoyo".
 </details>
 
 
@@ -2906,8 +2920,8 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details><summary>Español</summary>
 
-> "Incluso si no me quitas los sufrimientos debido al karma,  
-> No tengo otro refugio que ti ",
+> "Incluso si **no me quitas** los sufrimientos debido al karma,  
+> **No tengo** otro **refugio** que ti ",
 </details>
 
 
@@ -2961,10 +2975,10 @@ quién puedo tener como el Salvador de mi alma! "
 
 <details><summary>Español</summary>
 
-> "No he practicado karma yoga;  
-> No he entendido la naturaleza real del yo incorpóreo  
-> (es decir) no he realizado jñānayoga,  
-> tampoco he bhakti hacia tus pies santos ".
+> "**No he practicado** karma yoga;  
+> **No he entendido** la naturaleza real del yo incorpóreo  
+> (es decir) **no he realizado** jñānayoga,  
+> **tampoco he** bhakti hacia tus pies santos ".
 </details>
 
 
@@ -3002,11 +3016,12 @@ and the prapanna should realise his own helplessness by remembering such verses)
 
 <details><summary>Español</summary>
 
-Debe recordar su total impotencia (kārpaṇya) como se describe en el Śloka y en versos como (arriba)
+**Debe recordar** su total impotencia (kārpaṇya)  
+como **se describe** en el Śloka y en versos como (arriba)
 
 (En estos versos tamiles y sánscrito Ślokas,  
-la sensación de impotencia está bien representada  
-y la Prapanna debería darse cuenta de su propia impotencia recordando tales versos).
+la sensación de impotencia **está** bien representada  
+y la Prapanna **debería darse cuenta** de su propia impotencia **recordando** tales versos).
 </details>
 
 
@@ -3047,9 +3062,9 @@ which may cause excessive disgust,
 
 <details><summary>Español</summary>
 
-Debido al conocimiento de su propia incapacidad desde el tiempo inmemorial  
-y la pérdida del servicio del Señor que resultó de él,
-que puede causar asco excesivo,
+Debido al **conocimiento** de su propia **incapacidad** desde el tiempo inmemorial  
+y la **pérdida** del servicio del Señor que resultó de él,
+que **puede causar** asco excesivo,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3088,9 +3103,9 @@ que puede causar asco excesivo,
 <details><summary>Español</summary>
 
 > “La naturaleza del hombre en Saṁsāra es tal que  
-> se identifica con el cuerpo perecido y lo llama "I";  
-> De esto también surge conducta malvada  
-> Y de él surge nuevamente el cuerpo que es asqueroso ".
+> **se identifica** con el cuerpo **perecido** y lo llama "I";  
+> De esto también **surge conducta** malvada  
+> Y de él **surge** nuevamente el cuerpo que es asqueroso ".
 </details>
 
 
@@ -3125,9 +3140,9 @@ which makes one lament in the words of the Alvar saying (above)
 
 <details><summary>Español</summary>
 
-La Prapanna no debería caer en desesperación  
-lo que hace un lamento  
-en las palabras del dicho Alvar (arriba)
+La Prapanna **no debería caer** en desesperación  
+lo que **hace** un lamento  
+en las palabras del **dicho** Alvar (arriba)
 </details>
 
 
@@ -3146,8 +3161,9 @@ en las palabras del dicho Alvar (arriba)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'उयिर् **अळिप्पाऩ्**  
-> ऎऩ्-ऩिऩ्ऱ +++(→नाना)+++ योऩियुम् आय्प् **पिऱन्द् आय्** इमैयोर्+++(= [विशिष्ट]निमेषवन्तः = अनिमेषाः)+++ तलैवा'(तिरुविरुत्तम् १) 
+> 'उयिर् **अळिप्पाऩ्**+++(=रक्षक)+++  
+> ऎऩ् ऩिऩ्ऱ +++(→नाना)+++ योऩियुम् आय्प् **पिऱन्द् आय्** इमैयोर्+++(= [विशिष्ट]निमेषवन्तः = अनिमेषाः)+++ तलैवा'  
+> (तिरुविरुत्तम् १) 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -3167,8 +3183,8 @@ en las palabras del dicho Alvar (arriba)
 <details><summary>Español</summary>
 
 > "Oh señor de los inmortales,  
-> Naciste en todas las castas e incluso de los úteros de animales  
-> ¡En tu entusiasmo por proteger a los Jīvas!"
+> **Naciste** en todas las castas e incluso de los úteros de animales  
+> ¡En tu entusiasmo por **proteger** a los Jīvas!"
 </details>
 
 
@@ -3400,7 +3416,7 @@ y
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘**प्रवहत्य्** एव हि जले  
-> सेतुः **कार्यो** विजानता’’(वङ्गीबुरत्तुनम्बिगारिगै ३१।) +++(5)+++
+> सेतुः **कार्यो** विजानता’’(वङ्गी-पुरत्तुनम्बिगारिगै ३१।) +++(5)+++
 
 ऎऩ्ऱुम्,  
 </details>
@@ -3408,7 +3424,7 @@ y
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘**प्रवहत्य्** एव हि जले  
-> सेतुः **कार्यो** विजानता’’(वङ्गीबुरत्तुनम्बिगारिगै ३१।) +++(5)+++
+> सेतुः **कार्यो** विजानता’’(वङ्गी-पुरत्तुनम्बिगारिगै ३१।) +++(5)+++
 
 इति
 </details>
@@ -3432,7 +3448,7 @@ y
 
 <details><summary>मूलम्</summary>
 
-‘‘प्रवहत्येव हि जले सेतुः कार्योविजानता’’(वङ्गीबुरत्तुनम्बिगारिगै ३१।) ऎऩ्ऱुम्,  
+‘‘प्रवहत्येव हि जले सेतुः कार्योविजानता’’(वङ्गी-पुरत्तुनम्बिगारिगै ३१।) ऎऩ्ऱुम्,  
 </details>
 
 

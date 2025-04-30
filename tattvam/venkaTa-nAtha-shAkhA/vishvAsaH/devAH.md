@@ -27,9 +27,18 @@ title = "देवाः"
 >
 > इति; तेऽपि ब्रह्मणः स्वरूपतो निरवयवत्वं प्रतिपादयद्भिः प्रमाणैर् निरस्ताः । 
 > 
-> … 
+> …
+</details>
+
+<details><summary>पराशरभट्टोक्तिः</summary>
+
+4 forms of Vișņu are singled out as examples of Ugra Vișņumūrtis in Śrīmat-Kāmikāgama: Viśvarūpa, Vațapatraśāyī, Narasimha & Paraśurāma (& the first two can be seen as particularly Kārșņeya forms).
+
+These forms + Bhagavān’s Ugramūrtis (Gajāri, Kāmāri, Kālāri & Tripurāri) are recommended to be kept at the village’s outskirts in the north-east.
+
 
 </details>
+
 
 
 ### नित्य-सूरयः
