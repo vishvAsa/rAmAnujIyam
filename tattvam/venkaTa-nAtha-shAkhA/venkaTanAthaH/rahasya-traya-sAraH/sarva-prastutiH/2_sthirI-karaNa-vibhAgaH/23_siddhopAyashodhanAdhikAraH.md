@@ -8896,30 +8896,395 @@ sings his praise of Lakṣmī  in ślokas beginning with these words:
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Bhattar, also, has commented on the word Udaara (generous ) used in the śruti  (viz., Śrī Sūktam) as an adjective for Śrī in this manner:-"How generous Thou art! O, Mother, to the man who merely raises his hands folded in worship to Thee, Thou grantest wealth, the enjoyment of his disembodied self and even paramapada and yet Thou feelest ashamed that Thou hast not done anything adequate for him." Peria Jeer, too, has brought out all these ideas in his commentary on Śrī Sukta. Thus, from what we find in the śruti , Smṛti and tradition, (the reader) gifted with insight can understand that the attribute expressed in the word Śrīmat in Dvaya has its uses, just like such things as forms (vigraha), in accordance with its own nature.
+भट्टरुम् 
+
+> ५३ ऐश्वर्यम्, +++(जीवात्म=)+++अक्षर-गतिम्, परमम् पदं वा  
+कस्मैचिद् **अञ्जलि-भरं वहते वितीर्य** ।  
+"अस्मै न किञ्चिद् उचितं कृतम्" इत्य् अथाम्ब  
+त्वं **लज्जसे** कथय को ऽयम् उदार-भावः ॥  
+(श्री-गुण-रत्न-कोशः ५८)  
+
+ऎऩ्ऱु +++(श्री-सूक्ते→)+++श्रुतियिल् उदार-शब्दत्तुक्कु व्याख्यानम् पण्णिऩार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रीभट्टोऽपि, 
+
+> ५३ ऐश्वर्यम्, +++(जीवात्म=)+++अक्षर-गतिम्, परमम् पदं वा  
+कस्मैचिद् **अञ्जलि-भरं वहते वितीर्य** ।  
+"अस्मै न किञ्चिद् उचितं कृतम्" इत्य् अथाम्ब  
+त्वं **लज्जसे** कथय को ऽयम् उदार-भावः ॥  
+(श्री-गुण-रत्न-कोशः ५८)  
+
+इति +++(श्री-सूक्ते)+++ **श्रौतम्** उदारशब्द **व्याचचक्षे** । 
+</details>
+
+<details><summary>English</summary>
+
+Bhattar, also, has commented on the word Udaara (generous ) used in the śruti  (viz., Śrī Sūktam)  
+as an adjective for Śrī in this manner:-
+
+> "How generous Thou art! O, Mother,  
+> to the man who merely raises his hands folded in worship to Thee,  
+> Thou grantest wealth, the enjoyment of his disembodied self and even paramapada  
+> and yet Thou feelest ashamed that Thou hast not done anything adequate for him." 
+</details>
+
+<details><summary>Español</summary>
+
+Bhattar, también, **ha comentado** sobre la palabra Udaara (generoso) **utilizado** en el Śruti (a saber, Śrī Sūktam)  
+Como adjetivo para Śrī de esta manera:-
+
+> "¡Qué **generoso eres** tú, madre,  
+> al hombre que **simplemente levanta** las manos **dobladas** en la **adoración** a ti,  
+> Tú **otorga** riqueza, el **disfrute** de su ser incorpóreo e incluso paramapada  
+> Y sin embargo, **te sientes** avergonzada  
+> de que **no hayas hecho** nada adecuado para él ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भट्टरुम् ५३‘‘ऐश्वर्यमक्षरगतिं परमं पदं वा कस्मैचिदञ्जलिभरं वहते वितीर्य । अस्मै न किञ्चिदुचितं कृतमित्यथाम्ब त्वं लज्जसे कथय कोऽयमुदारभावः’’(श्री-गुण-रत्न-कोशः ५८)  
+ऎऩ्ऱु श्रुतियिलुदारशब्दत्तुक्कु व्याख्यानम् पण्णिऩार्। 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+भट्टर् श्रीसूक्तियै उदाहरिक् किऱार् ऐश्वर्यमक्षरगतिं परमं पदं वेति । इङ्गु परमं पदं वा वितीर्य ऎऩ्ऱु विरोधिनिवृत्तिपूर्वकमाग परमपदवितरणत्तैच् चॊल्लियिरुप्पदाल् उपायत्वम् सॊल्लिऱ्ऱायिऱ्ऱु। श्रुतियिलुदार-शब्दत्तिऱ्कु व्याख्यानम् पण्णिऩार् - ‘‘श्रियं लोके देवजुष्टामुदारां’’ ऎऩ्गिऱ श्रुतियिलुळ्ळ उदारशब्दत्तिऱ्कु व्याख्यानम् पण्णिऩार्। पॆरिय जीयरुम् - नारायणमुनियॆऩ्गिऱ नञ्जीयरुम्। अपेक्षितार्थङ्गळॆल्लाम् - पिराट्टियिऩुडैय उपायत्वोपयत्वादिरूपङ्गळाऩ अपेक्षितार्थङ्गळैयॆल्लाम्। इङ्गु 
+
+> ‘‘स्वयं वस्तू कुर्वन् जनम् इमम् अकस्मात् सरसिज  
+> प्रकारौ पद्मायास् तव च चरणौ नश् शरणयन्’’ 
+
+ऎऩ्ऱु भट्टर् श्रीलक्ष्मीगल्याणत्तिल् नम्माऴ्वार् पासुरत्तिऱ्कर्थमाग वरुळिच्चॆय्द स्तोत्रत्तिऩ् श्लोकादिगळुम् अनुसन्धेयङ्गळ्।  
+इदिल् "पद्मायास्तव च चरणौ नश्शरणयन्" ऎऩ्ऱु पॆरुमाळुडैयवुम् पिराट्टियिऩुडैयवुम् तिरुवडिगळुक्कु उपायत्वम् स्पष्टमागच् चॊल्लप्पट्टदिऱे। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रीसूक्त-भाष्यत्तिले पॆरिय जीयरुम्  
+अपेक्षितार्थङ्गळ् ऎल्लाम् उपपादित्तार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रीसूक्तभाष्ये महा-यतिर् अपि  
+अपेक्षितार्थान् सर्वान् उपपादयामास । 
+</details>
+
+<details><summary>English</summary>
+
+Peria Jeer, too, has brought out all these ideas in his commentary on Śrī Sukta. 
+</details>
+
+<details><summary>Español</summary>
+
+Peria Jeer también **ha sacado** todas estas ideas  
+en su comentario sobre Śrī Sukta.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीसूक्तभाष्यत्तिले पॆरिय जीयरुम् अपेक्षितार्थङ्गळॆल्लाम् उपपादित्तार्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि श्रुति-स्मृति-संप्रदायम् निऱ्किऱ निलैगळैक् कॊण्डु  
+श्रीमच्-छब्दत्तिऱ् सॊऩ्ऩ विशेषणत्तुक्कु  
+विग्रहादिगळुक्कुप् पोले  
+वस्त्व्-अनुरूपम् आऩ उपयोग-विशेषङ्गळै  
+सहृदयर् अऱिन्दु गॊळ्वदु। 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं श्रुति-स्मृति-संप्रदाय-स्थितीर् **अवलम्ब्य**  
+श्रीमच्-छब्दोक्त-विशेषणस्य  
+विग्रहादीनाम् इव  
+वस्त्व्-अनुरूपा उपयोग-विशेषाः  
+सहृदयैर् ज्ञातव्याः ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+Thus, from what we find in the śruti , Smṛti and tradition,  
+(the reader) gifted with insight can understand that  
+the attribute expressed in the word Śrīmat in Dvaya has its uses,  
+just like such things as forms (vigraha),  
+in accordance with its own nature.
+</details>
+
+<details><summary>Español</summary>
+
+Así, por lo que **encontramos** en Śruti, Smṛti y Tradition,  
+(el lector) **Dotado** de Insight **puede entender** que  
+El atributo **expresado** en la palabra śrīmat en dvaya **tiene sus usos**,  
+Al igual que cosas como formas (Vigraha),
+de **acuerdo** con su propia naturaleza.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि श्रुतिस्मृतिसंप्रदायम् निऱ्किऱ निलैगळैक् कॊण्डु श्रीमच्छब्दत्तिऱ् सॊऩ्ऩ विशेषणत्तुक्कु विग्रहादिगळुक्कुप्पोले वस्त्वनुरूपमाऩ उपयोगविशेषङ्गळै सहृदयरऱिन्दुगॊळ्वदु। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+श्रुतिस्मृतिसम्प्रदाय श्रीसूक्तिकळ् निऱ्कुम् निलैयै नऩ्गु परामर्शित्ताल् श्रीमच्छब्दत्तिल् विशेषणमाऩ पिराट्टिक्कुम्, विशेषणमागच् चॊल्लप्पट्ट गुणविग्रहादिगळुक्कुप्पोल् तदनुरूपमाऩ भरस्वीकारोपयोगम् उण्डॆऩ्बदु सहृदयहृदयङ्गममागुमॆऩ्ऱु निगमिक्किऱार् इप्पडि इति । श्रुतियावदु द्वयमुम् श्रीसूक्तमुम्। सहृदयरिति । अहृदयर्गळुक्कु प्रमाणसम्प्रदायोपन्यासम् व्यर्थमाऩालुम् सहृदयर्गळुक्कु इदु निश्चयजनकमामॆऩ्ऱु करुत्तु। 
+</details>
+
+
+### विशेषणता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(अ-चित्त्वात्)+++  
+भर-**स्वीकार-रहितं**  
+रक्षा-**सङ्कल्प-वर्जितम्** ।  
++++(कारुण्यादि→)+++गुणादिकम् +++(सर्वैर्)+++ **इहेष्टं** हि  
+शरण्यस्य विशेषणम् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(अ-चित्त्वात्)+++  
+भर-**स्वीकार-रहितं**  
+रक्षा-**सङ्कल्प-वर्जितम्** ।  
++++(कारुण्यादि→)+++गुणादिकम् +++(सर्वैर्)+++ **इहेष्टं** हि  
+शरण्यस्य विशेषणम् ॥  
+
+</details>
+
+
+<details><summary>English</summary>
+
+(Critics who do not consider Lakṣmī as an inseparable attribute or viśeṣaṇa of Nārāyaṇa in the first part of Dvaya!)  
+You maintain that such things as the qualities of the Saviour (compassion etc) are attributes and not mere Upalakṣaṇa,  
+even though they cannot undertake the responsibility (bhara) of protection  
+and cannot have the will to protect (being only qualities and therefore non-sentient).  
+</details>
+
+<details><summary>Español</summary>
+
+(Los críticos  
+que **no consideran** a Lakṣmī como un atributo inseparable o Viśeṣaṇa de Nārāyaṇa en la primera parte de Dvaya!)  
+**Sostenes** que las cosas como las cualidades del Salvador (compasión, etc.) **son** atributos y no meros upalakṣaṇa,  
+a pesar de que **no pueden asumir** la responsabilidad (bhara) de **protección**  
+y **no puede tener** la voluntad de **proteger**  
+(siendo solo las cualidades y, por lo tanto, **no sonaciadas**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+भरस्वीकाररहितं रक्षासङ्कल्पवर्जितम् । गुणादिकमिहेष्टं हि शरण्यस्य विशेषणम् ॥  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऐकरस्य-जुषोश् शेषि-  
+दं-पत्योस् सर्व-कर्मसु ।  
+विशेषण-विशेष्यत्वं  
++++(श्रीमच्-छब्दे)+++ **श्रुतं कस्मान् न रोचते** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ऐकरस्य-जुषोश् शेषि-  
+दं-पत्योस् सर्व-कर्मसु ।  
+विशेषण-विशेष्यत्वं  
++++(श्रीमच्-छब्दे)+++ **श्रुतं कस्मान् न रोचते** ॥  
+
+</details>
+
+
+<details><summary>English</summary>
+
+Why do you object to the idea of Lakṣmī  being the attribute (viśeṣaṇa)  
+and Nārāyaṇa being the substantive (viseshya),  
+when this divine couple have the same pleasure or relish in all actions  
+and when they are both śeṣī s,  
+when there is the authority of the śāstras for it? 
+</details>
+
+<details><summary>Español</summary>
+
+¿Por qué **te opones** a la idea de que Lakṣmī **es** el atributo (viśeṣaṇa)  
+y nārāyaṇa **es** el sustantivo (viseshya),  
+Cuando esta pareja divina **tiene** el mismo placer o disfruta en todas las acciones  
+y cuando ambos **son** Śeṣī s,  
+Cuando **existe** la autoridad de los Śāstras?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऐकरस्यजुषोश्शेषिदंपत्योस्सर्वकर्मसु ।  
+विशेषणविशेष्यत्वं श्रुतं कस्मान्न रोचते ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(इन्द्रो विशेषणं यत्रोक्तः→)+++  
+प्रतर्दनादि-विद्यासु  
+**वेद्ये** ऽपि परमात्मनि ।  
+अ-चेतनवद् **इच्छामश्**  
+चेतनञ् च विशेषणम् ॥ +++(5)+++ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(इन्द्रो विशेषणं यत्रोक्तः→)+++  
+प्रतर्दनादि-विद्यासु  
+**वेद्ये** ऽपि परमात्मनि ।  
+अ-चेतनवद् **इच्छामश्**  
+चेतनञ् च विशेषणम् ॥ +++(5)+++ 
+</details>
+
+
+<details><summary>English</summary>
+
+In such vidyās or forms of meditation as that of Pratardana,  
+although the Supreme Being is the object of knowledge,  
+we admit that sentient beings like Indra can be attributes of Bhagavān just like non-sentient qualities.  
+</details>
+
+<details><summary>Español</summary>
+
+En tales vidyās o formas de **meditación** como la de Pratardana,  
+Aunque el ser supremo **es** el objeto del **conocimiento**,  
+**Admitimos** que los seres sintientes como Indra  
+**pueden ser** atributos de Bhagavān  
+al igual que las cualidades no sensibles.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रतर्दनादिविद्यासु वेद्येऽपि परमात्मनि ।  
+अचेतनवदिच्छामश्चेतनञ्च विशेषणम् ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-भरस्वीकाररहितं रक्षासङ्कल्पवर्जितम् । गुणादिकमिहेष्टं हि शरण्यस्य विशेषणम् ॥  
-ऐकरस्यजुषोश्शेषिदंपत्योस्सर्वकर्मसु । विशेषणविशेष्यत्वं श्रुतं कस्मान्न रोचते ॥  
-प्रतर्दनादिविद्यासु वेद्येऽपि परमात्मनि ।अचेतनवदिच्छामश्चेतनञ्च विशेषणम् ॥  
-इत्थं प्रपत्तिविद्यायां तत्तन्मन्त्रानुसारतः । विभुः पत्न्या गुणाद्यैश्च विशिष्टो विषयोऽत्र नः ॥
+इत्थं प्रपत्ति-विद्यायां  
+तत्-तन्-**मन्त्रानुसारतः** ।  
+विभुः पत्न्या गुणाद्यैश् च  
+**विशिष्टो** विषयोऽत्र नः ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं प्रपत्ति-विद्यायां  
+तत्-तन्-**मन्त्रानुसारतः** ।  
+विभुः पत्न्या गुणाद्यैश् च  
+**विशिष्टो** विषयोऽत्र नः ॥
+</details>
+
+<details><summary>English</summary>
+
+Similarly in this vidyā called prapatti,  
+the Omnipresent Lord is the object of approach with His Spouse  
+and with such things as His qualities  
+in accordance with what is stated in the respective mantras.
+</details>
+
+<details><summary>Español</summary>
+
+Del mismo modo en este vidyā **llamado** Prapatti,  
+El Señor omnipresente **es** el objeto de **acercarse** con su cónyuge  
+y con cosas como sus cualidades  
+de **acuerdo** con lo que **se indica** en los mantras respectivos.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-भरस्वीकाररहितं रक्षासङ्कल्पवर्जितम् । गुणादिकमिहेष्टं हि शरण्यस्य विशेषणम् ॥  
-ऐकरस्यजुषोश्शेषिदंपत्योस्सर्वकर्मसु । विशेषणविशेष्यत्वं श्रुतं कस्मान्न रोचते ॥  
-प्रतर्दनादिविद्यासु वेद्येऽपि परमात्मनि ।अचेतनवदिच्छामश्चेतनञ्च विशेषणम् ॥  
-इत्थं प्रपत्तिविद्यायां तत्तन्मन्त्रानुसारतः । विभुः पत्न्या गुणाद्यैश्च विशिष्टो विषयोऽत्र नः ॥
+इत्थं प्रपत्तिविद्यायां तत्तन्मन्त्रानुसारतः ।  
+विभुः पत्न्या गुणाद्यैश्च विशिष्टो विषयोऽत्र नः ॥
 </details>
 
-You (critics who do not consider Lakṣmī  as an inseparable) attribute or viśeṣaṇa of Nārāyaṇa  in the first part of Dvaya) maintain that such things as the qualities of the Saviour (compas. siop etc) are attributes and not mere Upalakṣaṇa, even though they cannot undertake the responsibility (bhara) of protection and cannot have the will to protect (being only qualities and therefore non-sentient). Why do you object to the idea of Lakṣmī  being the attribute (viśeṣaṇa) and Nārāyaṇa  being the substantive
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(viseshya), when this divine couple have the same pleasure or relish in all actions and when they are both śeṣī s, when there is the authority of the śāstras for it? In such vidyās or forms of meditation as that of Pratardana, although the Supreme Being is the object of knowledge, we admit that sentient beings like Indra can be attributes of Bhagavān just like non-sentient qualities. Similarly in this vidyā called prapatti, the Omnipresent Lord is the object of approach with His Spouse and with such things as His qualities in accordance with what is stated in the respective mantras.
+इङ्गु 
 
-We have already stated that what is understood from the pramāṇas should not be set aside by mere logic or reason. Therefore, just as we accept the Lord with His Spouse, as the object of attainment in accordance with the wish of the Saviour, there is no objection to the Lord with His Spouse being the upāya as well.
+> केवल--कुतर्कङ्गळैय् +++(←शास्त्रैकगम्ये विषये विपरीत-तर्कः)+++ इट्टु  
+प्रमाणङ्गळै बाधिक्कल् आगाद् 
+
+ऎऩ्ऩुम् इडम् मुऩ्बे सॊऩ्ऩोम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र "केवल-कुतर्कान् **आश्रित्य**  
+प्रमाणानि न बाधनीयानी"ति  
+पूर्वम् एवावोचाम । 
+</details>
+
+
+<details><summary>English</summary>
+
+We have already stated that what is understood from the pramāṇas  
+should not be set aside by mere logic or reason.  
+</details>
+
+<details><summary>Español</summary>
+
+Ya **hemos declarado** que lo que **se entiende** de los pramāṇas  
+**No debe reservarse** por mera lógica o razón.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु केवलकुतर्कङ्गळैयिट्टु प्रमाणङ्गळै बाधिक्कलागादॆऩ्ऩुमिडम् मुऩ्बे सॊऩ्ऩोम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् यथा-प्रमाणम् शरण्याभिप्राय-विशेषानुगुणम् आग  
+विशिष्टम् उपेयम् आऩाऱ् पोले  
+विशिष्टम् उपायम् आगक्  
+कुऱैय् इल्लै।+++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+Therefore, just as we accept the Lord with His Spouse, as the object of attainment  
+in accordance with the wish of the Saviour,  
+there is no objection to the Lord with His Spouse being the upāya as well.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, tal como aceptamos al Señor con su cónyuge, como el objeto de logro
+de acuerdo con el deseo del Salvador,
+No hay objeción al Señor, ya que su cónyuge también es el upāya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् यथाप्रमाणम् शरण्याभिप्रायविशेषानुगुणमाग विशिष्टमुपेयमाऩाऱ्पोले विशिष्टमुपायमागक् कुऱैयिल्लै। 
+</details>
+
+
+
+
+
 
 Just as Bhagavān with particular qualities (like omnipotence and compassion) and particular forms (vigraha) indicated, respectively, by the words Nārāyaṇa and caraṇau, (the two feet) which are attributes of Nārāyaṇa  forms a single upāya, so also Bhagavān with Lakṣmī , who appears in the word Śrīmat as an attribute in the eternal relationship of being His Spouse, may without any impropriety, be considered as a single upāya. If it is said that we should give up all the attributes of the upāya in order to make the upāya single, the dharma of being an upāya (i.e. upāyatva) will have to be given up also.
 
