@@ -9090,6 +9090,10 @@ y **no puede tener** la voluntad de **proteger**
 भरस्वीकाररहितं रक्षासङ्कल्पवर्जितम् । गुणादिकमिहेष्टं हि शरण्यस्य विशेषणम् ॥  
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+भरस्वीकारादिरहितङ्गळाऩ गुणादि कळुक्कु विशषणत्वत्तै ऒप्पुक्कॊण्डिरुक्किऱ नीङ्गळ् भरस्वीकारसमर्थैयाऩ पिराट्टिक्कु विशेषणत्वत्तै इसैयामैक्कुक् कारणमेयिल्लैयॆऩ्गिऱार् भरस्वीकाररहितमित्यादिना । श्लोकद्वयेन । भरस्वीकारमावदु त्वत्प्रयत्नं विना ‘‘अहमेव मोक्षयिष्यामि’’ ऎऩ्गिऱ सङ्गल्बम्। गोप्तृत्ववरणे कृत गोप्त्री भवानीति सङ्गल्बमे रक्षासङ्कल्पम्। गुणादिकमिहेष्टं हीति । भवतामिति शेषः । भरस्वीकाररक्षासङ्कल्पशून्यगुणादिगळुक्कु विशेषणत्वत्तै ऒप्पुक्कॊण्डिरुक्किऱ नीङ्गळ् तत्सहितैयाऩ पिराट्टिक्कु विशेषणत्वत्तै ऒप्पुक्कॊळ्ळाददऱ्कु हेतुविल्लैयॆऩ्ऱु करुत्तु। 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9135,6 +9139,13 @@ Cuando **existe** la autoridad de los Śāstras?
 विशेषणविशेष्यत्वं श्रुतं कस्मान्न रोचते ॥  
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+सर्वकर्मसु – आश्रितरक्षणादिसर्वकर्मङ्गळिलुम्, ऐकरस्यजुषोः समानसङ्कल्पमुळ्ळवर्गळाऩ, शेषिदम्पत्योः – शषिकळाऩ लक्ष्मिक्कुम् नारायणऩुक्कुम्,रक्षणादिगळिल् एकरस्यम् सॊऩ्ऩदु पूर्वखण्डत्तिल् लक्ष्म्याः विशेषणत्वोपपादकम्; शेषिदम्पत्योः ऎऩ्बदु उत्तरखण्डत्तिल् लक्ष्म्याः विशेषणत्वोपपादकम्। विशेषणविशेष्यत्वमिति । विशेष्यत्वमिति दृष्टान्तार्थम्। श्रुतं – द्वयादिगळिल् श्रुतमागिऱ। कस्मान्न रोचत इति । 
+
+रुच्यभावत्तिऱ्कुक् कारणमे यिल्लैयॆऩ्ऱु करुत्तु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9178,6 +9189,11 @@ al igual que las cualidades no sensibles.
 अचेतनवदिच्छामश्चेतनञ्च विशेषणम् ॥  
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+चेतनऩुक्कु अचेतनम् विशेषणमाऩालुम् चेतनऩ् चतनऩुक्कु विशेषणमागक् कण्डदुण्डोवॆऩ्ऩ दृष्टान्तप्रदर्शनपूर्वकम् निगमिक्किऱार् प्रतर्दनादीति । प्रतर्दनविद्यैयिल् परमात्मा प्राधान्यन वेद्यऩायिरुन्दालुम् अचेतन ङ्गळाऩ मुख्यप्राणादिगळैप् पोले चेतनऩाऩ इन्द्रऩैयुम् भगवाऩुक्कु विशेषणमाग ऒप्पुक्कॊळ्ळुगिऱोमिऱे। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -9218,6 +9234,12 @@ de **acuerdo** con lo que **se indica** en los mantras respectivos.
 विभुः पत्न्या गुणाद्यैश्च विशिष्टो विषयोऽत्र नः ॥
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+अप्पडिये प्रपत्तिविद्यैयिलुम् गुणविग्रहादिगळैप् पोल् पिराट्टियैयुम्द्वयादिमन्त्रानुसारत्ताले विशेषणमाग ऒप्पुक्कॊण्डाल् ऒरुविधबाधकमुमिल्लैयागैयाल् श्रीविशिष्टमे नमदु प्रपत्तिविषयमॆऩ्ऱु करुत्तु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गु 
@@ -9253,6 +9275,14 @@ Ya **hemos declarado** que lo que **se entiende** de los pramāṇas
 इङ्गु केवलकुतर्कङ्गळैयिट्टु प्रमाणङ्गळै बाधिक्कलागादॆऩ्ऩुमिडम् मुऩ्बे सॊऩ्ऩोम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+उक्तप्रमाणङ्गळै उपाय-द्वित्व-प्रसङ्गादि--कुतर्कङ्गळाले बाधिप्पदु अशक्यम्  
+ऎऩ्ऱु पूर्वमे सॊल्लप्पट्टदॆऩ्गिऱार् 
+इङ्गु केवलकुतर्कङ्गळैयिट्टु इत्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् यथा-प्रमाणम् शरण्याभिप्राय-विशेषानुगुणम् आग  
@@ -9281,12 +9311,88 @@ No hay objeción al Señor, ya que su cónyuge también es el upāya.
 आगैयाल् यथाप्रमाणम् शरण्याभिप्रायविशेषानुगुणमाग विशिष्टमुपेयमाऩाऱ्पोले विशिष्टमुपायमागक् कुऱैयिल्लै। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+आगैयालिति । विशिष्टोपायत्वम् प्रमाणसिद्धमागैयाल् ऎऩ्ऱबडि यथाप्रमाणम् - पिराट्टिक्कु उपायत्वम् सॊल्लुगिऱ पूर्वोदाहृतप्रमाणङ्गळै उल्लङ्घनम् सॆय्यामल्, शरण्याभिप्रायविशेषानुगुणमाग - 
+
+> ‘‘अनन्या राघवेणाहं  
+> भास्करेण प्रभा यथा’’, 
+
+> ‘‘अनन्या हि मया सीता  
+> भास्करेण प्रभा यथा’’, 
+
+> 'नित्यं तद्धर्मधर्मिणी’’
+
+ऎऩ्गिऱ प्रमाणप्रतिपन्नमाऩ शरण्यर्गळाऩ पॆरुमाळुडैयवुम्, पिराट्टियिऩुडैयवुम् अभिप्रायविशेषत्तुक्कनुगुणमाग, विशिष्टमुपेयमाऩाऱ्पोले विशिष्टमुपायमागक् कुऱैयिल्लै इति ।  
+प्रमाणङ्गळुम् शरण्याभिप्रायविशेषमुम् स्पष्टमाग इरुक्क  
+विशिष्टम् उपायम् अऩ्ऱ् ऎऩ्ऱाल्  
+विशिष्टम् उपेयम् आगवुम् प्रसक्तिय् इल्लैय्  
+ऎऩ्गिऱ प्रतिबन्धियिले  
+दृष्टान्तत्तिऱ्कुत् तात्पर्यम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नारायण-शब्दत्तिलुम् चरण-शब्दत्तिलुन् तोऱ्ऱुगिऱ गुण-विशेष-विग्रह-विशेषादि-विशिष्टम् आऩ  
+एकम् उपायम् आऩाऱ् पोले  
+तुल्य-योग-क्षेमम् आऩ श्रीमच्-छब्दत्तिल् तोऱ्ऱिऩ नित्य-पत्नी-सम्बन्ध-विशिष्टम् आऩालुम्  
+उपायैक्यत्तुक्कुक् कुऱैय् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+Just as Bhagavān with particular qualities (like omnipotence and compassion) and particular forms (vigraha)  
+indicated, respectively, by the words Nārāyaṇa and caraṇau, (the two feet)  
+which are attributes of Nārāyaṇa, forms a single upāya,  
+so also Bhagavān with Lakṣmī, who appears in the word Śrīmat as an attribute in the eternal relationship of being His Spouse,  
+may without any impropriety, be considered as a single upāya. 
+</details>
+
+<details><summary>Español</summary>
+
+Así como bhagavān con cualidades particulares (como omnipotencia y compasión) y formas particulares (Vigraha)  
+**indicado**, respectivamente, por las palabras nārāyaṇa y caraṇau, (los dos pies)  
+que **son** atributos de nārāyaṇa, **forma** un solo upāya,  
+Así también Bhagavān con Lakṣmī, que **aparece** en la palabra Śrīmat como un atributo  
+en la relación eterna de **ser** su cónyuge,  
+**Puede** que sin impropiedad, **se considere** como un solo upāya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नारायणशब्दत्तिलुम् चरणशब्दत्तिलुन्दोऱ्ऱुगिऱ गुणविशेषविग्रह विशेषादिविशिष्टमाऩ एकम् उपायमाऩाऱ्पोले तुल्ययोगक्षेममाऩ श्रीमच्छब्दत्तिल् तोऱ्ऱिऩ नित्यपत्नीसम्बन्धविशिष्टमाऩालुमुपायैक्यत्तुक्कुक् कुऱैयिल्लै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपाय-विशेषणङ्गळैय् ऎल्लाम् विट्टु  
+उपायत्तैये एकम् आक्क वेणुम् ऎऩ्ऩिल्;  
+उपायत्वमुम् विशेषणम् अऩ्ऱिक्के पोम्। 
+</details>
+
+<details><summary>English</summary>
+
+If it is said that we should give up all the attributes of the upāya in order to make the upāya single,  
+the dharma of being an upāya (i.e. upāyatva) will have to be given up also.
+</details>
+
+<details><summary>Español</summary>
+
+Si **se dice** que **deberíamos renunciar** a todos los atributos del upāya para **hacer** el upāya sencillo,  
+El dharma de **ser** un upāya (es decir, upāyatva) también **tendrá que renunciar**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उपायविशेषणङ्गळैयॆल्लाम् विट्टु उपायत्तैये एकमाक्कवेणुमॆऩ्ऩिल्; उपायत्वमुम् विशेषणमऩ्ऱिक्केबोम्। 
+</details>
 
 
 
 
 
-Just as Bhagavān with particular qualities (like omnipotence and compassion) and particular forms (vigraha) indicated, respectively, by the words Nārāyaṇa and caraṇau, (the two feet) which are attributes of Nārāyaṇa  forms a single upāya, so also Bhagavān with Lakṣmī , who appears in the word Śrīmat as an attribute in the eternal relationship of being His Spouse, may without any impropriety, be considered as a single upāya. If it is said that we should give up all the attributes of the upāya in order to make the upāya single, the dharma of being an upāya (i.e. upāyatva) will have to be given up also.
 
 It should not be thought that the substantive (here Bhagavān), when it gains some excellence from the attribute (here Lakṣmī ), should be considered as previously wanting in some excellence. Well has it been said in the śloka  :- “Thou art, O Lakṣmī,  the property of Bhagavān by Thine own will; hence, though His supreme excellence is due to Thee, His greatness is not dependent on any one else. A gem becomes valuable on account of its radiance. It does not thereby become in itself worthless; its
 
