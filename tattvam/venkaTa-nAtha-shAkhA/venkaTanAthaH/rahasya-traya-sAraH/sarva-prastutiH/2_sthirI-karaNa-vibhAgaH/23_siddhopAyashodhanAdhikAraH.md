@@ -9389,14 +9389,109 @@ El dharma de **ser** un upāya (es decir, upāyatva) también **tendrá que renu
 उपायविशेषणङ्गळैयॆल्लाम् विट्टु उपायत्तैये एकमाक्कवेणुमॆऩ्ऩिल्; उपायत्वमुम् विशेषणमऩ्ऱिक्केबोम्। 
 </details>
 
+### न विष्णु-वैगुण्योक्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विशेषण-प्रयुक्तम् आय् विशेष्यत्तुक्कु वरुम् एऱ्ऱत्ताल्  
+विशेष्यत्तुक्कु वैगुण्यादिगळ् वाराद्  
+
+ऎऩ्ऱु 
+</details>
+
+<details><summary>English</summary>
+
+It should not be thought that the substantive (here Bhagavān), when it gains some excellence from the attribute (here Lakṣmī ),  
+should be considered as previously wanting in some excellence. 
+</details>
+
+<details><summary>Español</summary>
+
+**No se debe pensar** que el sustantivo (aquí bhagavān), cuando **gana** cierta excelencia del atributo (aquí lakṣmī),
+**debe considerarse** como que previamente **quiere** en cierta excelencia.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विशेषणप्रयुक्तमाय् विशेष्यत्तुक्कु वरुमेऱ्ऱत्ताल् विशेष्यत्तुक्कु वैगुण्यादिगळ् वारादॆऩ्ऱु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> +++(निरुपाधिक-स्वभावतया→)+++ स्वतः श्रीस् त्वं विष्णोः स्वम् **असि**, +++(स्व-वस्तु-स्थ-र्द्धेः→)+++ तत एवैष भगवान्,  
+त्वद्-**आयत्त-र्द्धित्वे** ऽप्य् अ-भवद् **अ-पराधीन**-विभवः ।   
+स्वया **दीप्त्या** रत्नम् भवद् अपि महार्घं **न विगुणं**  
+**न कुण्ठ**-स्वातन्त्र्यम् भवति, च **न चान्याहित**-गुणम् ॥ ३१ ॥  
+(श्री-गुण-रत्न-कोशः ३१) 
+
+ऎऩ्गिऱ श्लोकत्तिले निर्णयिक्कप्पट्टदु। 
+
+</details>
+
+<details><summary>English</summary>
+
+Well has it been said in the śloka  :- 
+
+> “Thou art, O Lakṣmī, the property of Bhagavān by Thine own will;  
+> hence, though His supreme excellence is due to Thee,  
+> His greatness is not dependent on any one else.  
+> A gem becomes valuable on account of its radiance.  
+> It does not thereby become in itself worthless;  
+> its value, which is natural to it, does not diminish thereby,  
+> because its greatness is not due to anything else," 
+</details>
+
+<details><summary>Español</summary>
+
+Bueno, **se ha dicho** en el Śloka:-
+
+> “Tú **eres**, o Lakṣmī, propiedad de Bhagavān por tu propia voluntad;  
+> Por lo tanto, aunque su excelencia suprema **se debe** a ti,  
+> Su grandeza **no depende** de nadie más.  
+> Una gema **se vuelve** valiosa debido a su **resplandor**.  
+> Por lo tanto, **no se vuelve** en sí mismo sin valor;  
+> su valor, que **es** natural para él, **no disminuye** así,  
+> Porque su grandeza **no se debe** a nada más ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+५४‘‘स्वतःश्रीस्त्वं विष्णोस्स्वमसि तत एवैष भगवान् त्वदायत्तर्द्धित्वेऽप्यभवदपराधीनविभवः । स्वया दीप्त्या रत्नं भवदपि महार्घं न विगुणं न कुण्ठस्वातन्त्र्यं भवति च न चान्याहितगुणम्’’(श्री-गुण-रत्न-कोशः ३१) ऎऩ्गिऱ श्लोकत्तिले निर्णयिक्कप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विशेषणत्ताल् विशेष्यत्तुक्कु वरुम् अतिशयम् पोले  
+विशेष्यत्तुक्कु स्व-रूपानुबन्धिय् आऩ अतिशयमुम्  
+
+> ५५‘‘अनन्या राघवेणाहं  
+> भास्करेण प्रभा यथा’’  
+> (रामायणम् सुन्दरकाण्डम् २१-१५) 
+
+ऎऩ्गिऱ दृष्टान्तत्तिले काणल् आम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ५५‘‘अनन्या राघवेणाहं  
+> भास्करेण प्रभा यथा’’  
+> (रामायणम् सुन्दरकाण्डम् २१-१५) 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विशेषणत्ताल् विशेष्यत्तुक्कु वरुम् अतिशयम् पोले विशेष्यत्तुक्कु स्वरूपानुबन्धियाऩ अतिशयमुम् ५५‘‘अनन्या राघवेणाहं भास्करेण प्रभा यथा’’(रामायणम् सुन्दरकाण्डम् २१-१५) ऎऩ्गिऱ दृष्टान्तत्तिले काणलाम्। 
+</details>
 
 
 
-
-
-It should not be thought that the substantive (here Bhagavān), when it gains some excellence from the attribute (here Lakṣmī ), should be considered as previously wanting in some excellence. Well has it been said in the śloka  :- “Thou art, O Lakṣmī,  the property of Bhagavān by Thine own will; hence, though His supreme excellence is due to Thee, His greatness is not dependent on any one else. A gem becomes valuable on account of its radiance. It does not thereby become in itself worthless; its
-
-value, which is natural to it, does not diminish thereby, because its greatness is not due to anything else," In the same way as the substantive, (namely, Bhagavān) gains excellence from its attribute (viśeṣaṇa), namely, Lakṣmī , the substantive, too, has its own natural excellence. This is illustrated in the śloka  in the Rāmāyana :-"Just as radiance cannot be separated from the sun, I cannot remain separated from Raghava". Brightness is the natural quality common to radiance and the sun. So also ŚrīRāma and Sītā had, in common, auspicious qualities not dependent on any one else, as described in the śloka  :-"We bow to "Bhagavān and Lakṣmī , who have in their very nature, all auspicious qualities, who are the causes of the world and who are beyond all comparison".
+In the same way as the substantive, (namely, Bhagavān) gains excellence from its attribute (viśeṣaṇa), namely, Lakṣmī , the substantive, too, has its own natural excellence. This is illustrated in the śloka  in the Rāmāyana :-"Just as radiance cannot be separated from the sun, I cannot remain separated from Raghava". Brightness is the natural quality common to radiance and the sun. So also ŚrīRāma and Sītā had, in common, auspicious qualities not dependent on any one else, as described in the śloka  :-"We bow to "Bhagavān and Lakṣmī , who have in their very nature, all auspicious qualities, who are the causes of the world and who are beyond all comparison".
 
 There is nothing improper in stating that the substantive and the attribute give excellence to each other as indicated in the following: "That splendour which is ŚrīRāma is beyond all measure, for the daughter of Janaka is His". "Though she is always with Thee, Thy Lakṣmī  astonishes Thee every day as if she is new; she is in every way fit for Thee by her attributes, her forms, her sportful activity and her interest in protecting others". “Thy Śrī”  “Thou art the Śrī of Śrī" and "The Śrī of even Śrī" - these expressions show how Śrī and the Lord of Śrī are excellent in themselves and add also to each other's greatness.
 
