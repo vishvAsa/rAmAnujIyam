@@ -7821,7 +7821,6 @@ y si esto **no estaría** en desacuerdo con los textos que **dicen**
 गुण-विग्रह-व्यापार-विशेषा अपि उभयत्रोपलक्षणानि प्रसज्येरन् ।  
 </details>
 
-
 <details><summary>English</summary>
 
 If it is now asked: 
