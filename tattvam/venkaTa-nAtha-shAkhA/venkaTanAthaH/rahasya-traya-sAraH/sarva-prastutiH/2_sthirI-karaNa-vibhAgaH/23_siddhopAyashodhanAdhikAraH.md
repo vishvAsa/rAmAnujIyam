@@ -7821,6 +7821,7 @@ y si esto **no estaría** en desacuerdo con los textos que **dicen**
 गुण-विग्रह-व्यापार-विशेषा अपि उभयत्रोपलक्षणानि प्रसज्येरन् ।  
 </details>
 
+
 <details><summary>English</summary>
 
 If it is now asked: 
@@ -9482,6 +9483,26 @@ Bueno, **se ha dicho** en el Śloka:-
 
 </details>
 
+<details><summary>English</summary>
+
+In the same way as the substantive, (namely, Bhagavān) gains excellence from its attribute (viśeṣaṇa), namely, Lakṣmī ,  
+the substantive, too, has its own natural excellence.  
+This is illustrated in the śloka  in the Rāmāyana :-
+
+> "Just as radiance cannot be separated from the sun,  
+> I cannot remain separated from Raghava". 
+</details>
+
+<details><summary>Español</summary>
+
+De la misma manera que el sustantivo, (a saber, Bhagavān) **gana** excelencia de su atributo (viśeṣaṇa), a saber, lakṣmī,  
+El sustantivo también **tiene** su propia excelencia natural.  
+Esto **se ilustra** en el Śloka en el Rāmāyana:-
+
+> "Así como el **resplandor no se puede separar** del sol,  
+> **No puedo permanecer separado** de Raghava ".
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -9489,10 +9510,215 @@ Bueno, **se ha dicho** en el Śloka:-
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-In the same way as the substantive, (namely, Bhagavān) gains excellence from its attribute (viśeṣaṇa), namely, Lakṣmī , the substantive, too, has its own natural excellence. This is illustrated in the śloka  in the Rāmāyana :-"Just as radiance cannot be separated from the sun, I cannot remain separated from Raghava". Brightness is the natural quality common to radiance and the sun. So also ŚrīRāma and Sītā had, in common, auspicious qualities not dependent on any one else, as described in the śloka  :-"We bow to "Bhagavān and Lakṣmī , who have in their very nature, all auspicious qualities, who are the causes of the world and who are beyond all comparison".
+भास्करऩुक्कुम् प्रभैक्कुम् स्वतस्-सिद्धम् आऩ तेजस्त्वम् बोले+++(5)+++  
+इरुवर्क्कुम्  
 
-There is nothing improper in stating that the substantive and the attribute give excellence to each other as indicated in the following: "That splendour which is ŚrīRāma is beyond all measure, for the daughter of Janaka is His". "Though she is always with Thee, Thy Lakṣmī  astonishes Thee every day as if she is new; she is in every way fit for Thee by her attributes, her forms, her sportful activity and her interest in protecting others". “Thy Śrī”  “Thou art the Śrī of Śrī" and "The Śrī of even Śrī" - these expressions show how Śrī and the Lord of Śrī are excellent in themselves and add also to each other's greatness.
+> ५६‘‘अनन्याधीन-कल्याणं’’(लक्ष्मीकल्याणम्) 
+
+ऎऩ्गिऱ बडिये  
+स्वभाव-सिद्ध-कल्याणतैयाले 
+</details>
+
+<details><summary>English</summary>
+
+Brightness is the natural quality common to radiance and the sun.  
+
+So also Śrī Rāma and Sītā had, in common, auspicious qualities not dependent on any one else,  
+as described in the śloka  :-
+
+> "We bow to Bhagavān and Lakṣmī,  
+who have in their very nature, all auspicious qualities, who are the causes of the world  
+and who are beyond all comparison".
+</details>
+
+<details><summary>Español</summary>
+
+El brillo **es** la calidad natural común a la radiación y al sol.
+
+Así también Śrī Rāma y Sītā **tenían**, en común, cualidades auspiciosas **no dependientes** de nadie más,  
+Como **se describe** en el Śloka:-
+
+> "**Nos inclinamos** ante Bhagavān y Lakṣmī,  
+que **tienen** en su propia naturaleza, todas las cualidades auspiciosas,  
+que **son** las causas del mundo  
+y que **están** más allá de toda comparación ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+भास्करऩुक्कुम् प्रभैक्कुम् स्वतस्सिद्धमाऩ तेजस्त्वम्बोले इरुवर्क्कुम् ५६‘‘अनन्याधीनकल्याणं’’(लक्ष्मी-कल्याणम्) ऎऩ्गिऱबडिये स्वभावसिद्धकल्याणतैयाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ५७ ‘‘अप्-रमेयं हि तत् तेजो  
+यस्य सा जनकात्मजा’’  
+(रामायणम् आरण्यकाण्डम् ३७-१८) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ५७ ‘‘अप्-रमेयं हि तत् तेजो  
+यस्य सा जनकात्मजा’’  
+(रामायणम् आरण्यकाण्डम् ३७-१८) 
+
+</details>
+
+<details><summary>English</summary>
+
+as indicated in the following: 
+
+> "That splendour which is Śrī Rāma is beyond all measure,  
+> for the daughter of Janaka is His". 
+
+</details>
+
+<details><summary>Español</summary>
+
+Como **se indica** en lo siguiente:
+
+> "Ese esplendor que **es** Śrī Rāma  
+> **está** más allá de toda medida,
+> Porque la hija de Janaka **es** suya ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+५७‘‘अप्रमेयं हि तत्तेजो यस्य सा जनकात्मजा’’(रामायणम् आरण्यकाण्डम् ३७-१८) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+५८‘‘तव श्रिया’’(आळवन्दार् स्तोत्रम् ३८) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "Though she is always with Thee,  
+> Thy Lakṣmī astonishes Thee every day as if she is new;  
+> she is in every way fit for Thee by her attributes,  
+> her forms, her sportful activity and her interest in protecting others". 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Aunque ella siempre **está** contigo,  
+> Tu lakṣmī **te sorprende** todos los días como si **fuera** nueva;  
+> Ella **está** en todos los sentidos **apta** para ti por sus atributos,  
+> Sus formas, su **actividad deportiva** y su interés en **proteger** a los demás ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+५८‘‘तव श्रिया’’(आळवन्दार् स्तोत्रम् ३८) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ५९’’उऩ् तिरुव्’’  
+(पॆरियाऴ्वार् तिरुमॊऴि १०-१०-२)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> “Thy Śrī”  
+</details>
+
+<details><summary>Español</summary>
+
+> "Tu Śrī"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+५९’’उऩ् तिरु’’(पॆरियाऴ्वार् तिरुमॊऴि १०-१०-२) वॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘श्रियःश्रीः’’(श्री-गुण-रत्न-कोशः ९) +++(5)+++
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> “Thou art the Śrī of Śrī" 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Eres** la Śrī de Śrī"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘श्रियःश्रीः’’(श्री-गुण-रत्न-कोशः ९) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६१’’तिरुवुक्कुन् तिरुव्’’(पॆरियाऴ्वार् तिरुमॊऴि ७-७-१)  
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "The Śrī of even Śrī" 
+
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "El śrī de incluso Śrī"
+</details>
+
+<details><summary>मूलम्</summary>
+
+६१’’तिरुवुक्कुन्दिरुव्’’(पॆरियाऴ्वार् तिरुमॊऴि ७-७-१)  ऎऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्योन्यातिशयावहङ्गळ् आग  
+विशेषण-विशेष्यङ्गळै निर्देशिक्किऱदऱ्कुङ् गुऱैयिल्लै। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्योन्यातिशयावहङ्गळाग विशेषणविशेष्यङ्गळै निर्देशिक्किऱदऱ्कुङ् गुऱैयिल्लै। 
+</details>
+
+
+
+
+There is nothing improper in stating that the substantive and the attribute give excellence to each other 
+
+
+
+
+
+
+\- these expressions show how Śrī and the Lord of Śrī  
+are excellent in themselves  
+and add also to each other's greatness.
 
 By the authority of texts in the śruti  (such as "He is the Lord of the Universe", "The Spouse of Viṣṇu  who is the empress of the world", and "The syllable ma indicates that the jīva is the servant of both"), and by the authority of the following śloka , "The world of sentient and non-sentient beings is śeṣa to Lakṣmī , (i.e.) it exists for Lakṣmī : She and the world are śeṣa to Bhagavān, who is Her śeṣī . Notwithstanding this, the control of the world is common to both: the two together are śeṣī , in relation to the world". By these authorities it was determined by Somasi Andan in Shadarthasamkṣepa, that both form always a single śeṣī. In the case of certain special offerings (havis) enjoined in the Karmakāṇḍa, the offering is made to two deities like Agni and Viṣṇu as if they were single. So also in this offering of the soul called prapatti, the two may, without any impropriety, be the single recipient. As stated in the śloka, "Youth and certain other qualities are common to Thee and Bhagavān; however you have divided other qualities between you for your enjoyment and (that in this way) :- Bhagavān has manly qualities like independence of others, control over enemies, firmness and the like and Thou hast such feminine qualities as gentleness, existing only for the husband, compassion and forbearance"; the wife is ever dependent on her Lord and in the performance of yajnas or sacrifices, only the yajamāna is spoken of (as his wife who participates in the performance is implicit, as it were, in the word yajamāna, even when one yajamana is referred to). So also in regard to the teaching of the śāstras, the mention of a single person does not mean the absence of the wife who is, as it were, inseparable from her spouse. In the verse :-- "Bhakti  and prapatti are forms of knowledge which have, for their object, only Bhagavān, the Lord of Lakṣmī , who abides in the lotus and as also the knowledge called the perfect enjoyment of Brahman has only Him for its object" - in this verse this is really the meaning, viz., that Lakṣmī , being included in Bhagavān, no separate mention is made of her. This may be seen also in the passage: "Since Thousand Bhagavān are thus inseparably united, the śruti does not speak of Thee separately".
 
