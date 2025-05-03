@@ -231,7 +231,7 @@ like rivers flowing into the ocean, (although we do not desire them now)."
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎऩ्ऱु ईसाण्डानुम् तामरुळिच् चॆय्द स्तोत्रत्तिले निबन्धित्तार्. 
+ऎऩ्ऱु ईशाण्डाऩुम् ताम् अरुळिच् चॆय्द स्तोत्रत्तिले निबन्धित्तार्. 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -244,7 +244,7 @@ like rivers flowing into the ocean, (although we do not desire them now)."
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-ईशानाण्डान् इत्यसौ रामानुजाय नृसिंहमन्त्रम् उपादिशद् इति विजयेन श्रुतम्। 
+ईशाण्डान् इत्यसौ रामानुजाय नृसिंहमन्त्रम् उपादिशद् इति विजयेन श्रुतम्। 
 </details>
 
 <details><summary>English</summary>
