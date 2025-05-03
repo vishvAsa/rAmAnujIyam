@@ -872,12 +872,12 @@ Desde que Nāthamuni recibió la tradición sagrada de uno de los descendientes 
 
 <details><summary>English</summary>
 
-Nāthamuni's son was Iśvara Bhatta. To Iśvara Bhatta was born Aḷavandār (Yāmunācārya). The works of Aḷavandār are the following eight :-" Āgama Prāmānyam", " Puruṣa Nirnaya", the three Siddhis, namely, “ Ātma Siddhi", "Iśvara Siddhi", "Samvit Siddhi", "ŚrīGitārtha Sangraha", "Stotram" and "The Tetrad of ślokas," 
+Nāthamuni's son was Iśvara Bhatta. To Iśvara Bhatta was born Aḷavandār (Yāmunācārya). The works of Aḷavandār are the following eight :-" Āgama Prāmānyam", " Puruṣa Nirnaya", the three Siddhis, namely, “ Ātma Siddhi", "Iśvara Siddhi", "Samvit Siddhi", "Śrī Gitārtha Sangraha", "Stotram" and "The Tetrad of ślokas," 
 </details>
 
 <details><summary>Español</summary>
 
-El hijo de Nāthamuni era Iśvara Bhatta. A iśvara bhatta nació aḷavandār (yāmunācārya). Las obras de Aḷavandār son las siguientes ocho:-"āgama prāmānyam", "Puruṣa nirnaya", los tres siddhis, a saber, "ātma siddhi", "iśvara siddhi", "samvit siddhi", "," śrīgitārtha sangraha "," y "y" y "," y "y" y "y", "y" y "," y "," y "y", "y", "y", "y", "y", "y", "y", "y", "y", ",", ",", ",", "y", "y", ",", "," y ",", "y", ",", ",", ",", ",", ",", ",", ",", "," "La tétrada de Ślokas"
+El hijo de Nāthamuni era Iśvara Bhatta. A iśvara bhatta nació aḷavandār (yāmunācārya). Las obras de Aḷavandār son las siguientes ocho:-"āgama prāmānyam", "Puruṣa nirnaya", los tres siddhis, a saber, "ātma siddhi", "iśvara siddhi", "samvit siddhi", śrīgitārtha sangraha y "La tétrada de Ślokas"
 </details>
 
 <details><summary>मूलम्</summary>

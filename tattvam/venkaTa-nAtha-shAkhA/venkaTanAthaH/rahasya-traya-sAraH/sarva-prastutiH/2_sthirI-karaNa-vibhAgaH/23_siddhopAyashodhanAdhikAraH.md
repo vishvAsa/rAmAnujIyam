@@ -9596,7 +9596,7 @@ Esto **se ilustra** en el Śloka en el Rāmāyana:-
 
 इप्पडि भगवाऩुक्कु विशेषणत्ताल् वन्द अतिशयमेयॊऴिय स्वरूपप्रयुक्तमाऩ अतिशयमिल्लैयो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् विशेषणत्ताल् विशेष्यत्तुक्कु इत्यादिना । 
 
-अनन्येति । भास्करेण – भाःकरोतीति भास्करः, स्वरूपत एवातिशयितप्रकाशजनकः, तन, प्रभा - प्रकाशभूता प्रभा, यथा – ऎप्पडि, अनन्या – अपृथक्सिद्धमागिऱदो, अप्पडिये अहं - नाऩ् राघवेण – अतिशयित-प्रभावऩाऩ रामऩोडे, अनन्या – न विद्यत अन्यः आश्रयः यस्याः सा । अपृथक्सिद्धैयॆऩ्ऱबडि। दृष्टान्तत्तिले काणलामिति । दृष्टान्तत्तिल् सूर्यऩुक्कु स्वरूपप्रयुक्तमाऩ प्रकाशम् काणप् पडुगिऱाप्पोले राघवऩुक्कुम् स्वरूपाधीनातिशयम् सिद्धमामॆऩ्ऱबडि।  
+अनन्येति । भास्करेण – भाः करोतीति भास्करः, स्वरूपत एवातिशयितप्रकाशजनकः, तन, प्रभा - प्रकाशभूता प्रभा, यथा – ऎप्पडि, अनन्या – अपृथक्सिद्धमागिऱदो, अप्पडिये अहं - नाऩ् राघवेण – अतिशयित-प्रभावऩाऩ रामऩोडे, अनन्या – न विद्यत अन्यः आश्रयः यस्याः सा । अपृथक्सिद्धैयॆऩ्ऱबडि। दृष्टान्तत्तिले काणलामिति । दृष्टान्तत्तिल् सूर्यऩुक्कु स्वरूपप्रयुक्तमाऩ प्रकाशम् काणप् पडुगिऱाप्पोले राघवऩुक्कुम् स्वरूपाधीनातिशयम् सिद्धमामॆऩ्ऱबडि।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9651,6 +9651,10 @@ y que **están** más allá de toda comparación ".
 भास्करऩुक्कुम् प्रभैक्कुम् स्वतस्सिद्धमाऩ तेजस्त्वम्बोले इरुवर्क्कुम् ५६‘‘अनन्याधीनकल्याणं’’(लक्ष्मी-कल्याणम्) ऎऩ्गिऱबडिये स्वभावसिद्धकल्याणतैयाले 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि पॆरुमाळुम् पिराट्टियुम् स्वतस्सिद्धातिशयर्गळागिल् अवर्गळै परस्परमतिशयावहर्गळाग निर्दशित्तिरुप्पदऱ्कु निमित्तमॆऩ्ऩ वॆऩ्ऩ वरुळिच्चॆय्गिऱार् भास्करऩुक्कुम् प्रभैक्कुम् स्वतस्सिद्धमाऩ तेजस्त्वम्बोले इत्यादिना । 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9677,7 +9681,6 @@ as indicated in the following:
 
 > "That splendour which is Śrī Rāma is beyond all measure,  
 > for the daughter of Janaka is His". 
-
 </details>
 
 <details><summary>Español</summary>
@@ -9694,6 +9697,12 @@ Como **se indica** en lo siguiente:
 
 ५७‘‘अप्रमेयं हि तत्तेजो यस्य सा जनकात्मजा’’(रामायणम् आरण्यकाण्डम् ३७-१८) ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अप्रमेयं हीति । तत्तेजः - अन्द रामऩागिऱ तेजस्साऩदु, अप्रमेयं हि - अळविडमुडियाद माहात्म्यमुडैयदऩ्ऱो, सा जनकात्मजा यस्य – सर्वोत्कृष्टैयाऩ जनकपुत्रियाऩवळ् ऎवऩुक्कु शेषभूतैयो, इदऩाल् विशेष्यत्तिऱ्कु विशेषणाधीनातिशयम् सॊल्लप्पट्टदु 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9743,6 +9752,12 @@ Como **se indica** en lo siguiente:
 ५८‘‘तव श्रिया’’(आळवन्दार् स्तोत्रम् ३८) ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+‘‘तव श्रिया’’ ऎऩ्बदाल् विशेषणत्तिऱ्कु विशेष्यातिशयावहत्वम् सॊल्लित्तायिऱ्ऱु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ५९’’उऩ् तिरुव्’’  
@@ -9772,6 +9787,13 @@ Como **se indica** en lo siguiente:
 
 ५९’’उऩ् तिरु’’(पॆरियाऴ्वार् तिरुमॊऴि १०-१०-२) वॆऩ्ऱुम्, 
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+’’उऩ् तिरु’’ ऎऩ्बदालुम् अप्पडिये। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9803,6 +9825,12 @@ Como **se indica** en lo siguiente:
 
 ‘‘श्रियःश्रीः’’(श्री-गुण-रत्न-कोशः ९) ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+‘‘श्रियः श्रीः’’ ऎऩ्गिऱविडत्तिलुम्, 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9836,6 +9864,13 @@ y
 
 ६१’’तिरुवुक्कुन्दिरुव्’’(पॆरियाऴ्वार् तिरुमॊऴि ७-७-१)  ऎऩ्ऱुम् 
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+’’तिरुवुक्कुम् तिरु’’ वॆऩ्गिऱविडत्तिलुम्  
+विशेषणत्तुक्कु विशेष्याधीनातिशयम् निर्दिष्टम् आयिऱ्ऱु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9873,7 +9908,12 @@ y **agregar** también a la grandeza del otro.
 अन्योन्यातिशयावहङ्गळाग विशेषणविशेष्यङ्गळै निर्देशिक्किऱदऱ्कुङ् गुऱैयिल्लै। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
 
+अन्योन्याति शयावहङ्गळाग विशेषणविशेष्यङ्गळै निर्देशिक्किऱदऱ्कुम् कुऱैयिल्लै इति । स्वतस्सिद्धातिशयङ्गळाऩ वस्तुक्कळुक्कुम् धर्मधर्मिभावत्ताले परस्परातिशयावहत्वमुम् प्रामाणिकमॆऩ्ऱु करुत्तु। 
+</details>
+
+### उपेयता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुति-बलत्ताले, 
@@ -9909,12 +9949,58 @@ El Jīva **es** el **sirviente** de ambos "),
 </details>
 
 
+<details><summary>सार-बोधिनी</summary>
+
+> ऎप्पडिय् आऩालुम्  
+विशेष्यान्वयि-क्रियान्वयित्व-रूप-विशेषणत्वम्  
+पिराट्टिक्कुक् कूडुमो?  
+आत्म-हविस्-समर्पण-रूप-क्रियैक्कु  
+श्रीमाऩ् आऩ नारायणऩ् उद्देश्यऩ् आऩालुम्,  
+विशेषणम् आऩ श्रीक्कु तद्-उद्देश्यत्वम् सॊल्ललामो 
+
+ऎऩ्ऩ  
+अदऱ्कुम् कुऱैयिल्लैय् ऎऩ्गिऱार्  
+श्रुतिबलत्ताले इत्यादिना ।  
+
+> ‘‘पतिं विश्वस्य’’, +++(इति नारायणेश्वरत्वम्)+++  
+
+> ‘‘अस्येशाना जगतो विष्णुपत्नी’’,  
+
+> ‘‘अकारेणोच्यते विष्णुः,  
+सर्वलोकेश्वरो हरिः ।  
+उद्धृता विष्णुना लक्ष्मीर्  
+उकारेणोच्यते तथा ॥  
+मकारस् तु तयोर् दास  
+इति प्रणव-लक्षणम्।’’ 
+
+ऎऩ्ऱु इरुवरुक्कुम् शेषित्वम् सॊल्लुगिऱ श्रुतिबलत्ताले ऎऩ्ऱबडि। 
+
+इदु ऎऩ्गिऱ पडिये ऎऩ्बदिलुम्,  
+निष्कर्षित्त बडिये ऎऩ्बदिलुम् अन्वयिक्किऱदु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘द्वौ च सदैकशेषी’’(सात्त्वतम्) 
+> ‘‘(लक्ष्म्यास् समस्त-चिद्--अ-चित्--प्रपञ्चो  
+**व्याप्यस्**, तद् ईशस्य तु सापि सर्वं ।  
+तथापि साधारणम् ईशितृत्वं  
+श्री-श्रीशयोर्,) द्वौ च सदैक-शेषी ॥’’  
+(सात्त्वतम्) 
 
 ऎऩ्गिऱ बडिये 
 </details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘(लक्ष्म्यास् समस्त-चिद्--अ-चित्--प्रपञ्चो  
+**व्याप्यस्**, तद् ईशस्य तु सापि सर्वं ।  
+तथापि साधारणम् ईशितृत्वं  
+श्री-श्रीशयोर्,) द्वौ च सदैक-शेषी ॥’’  
+(सात्त्वतम्) 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9950,10 +10036,161 @@ en relación con el mundo ".
 ऎऩ्गिऱ बडिये 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+द्वौ च सदैकशेषीति ।  
+
+> ‘‘लक्ष्म्यास् समस्त-चिद्--अ-चित्--प्रपञ्चो  
+**व्याप्यस्**, तद् ईशस्य तु सापि सर्वं ।  
+तथापि साधारणम् ईशितृत्वं  
+श्री-श्रीशयोर्, द्वौ च सदैक-शेषी ॥’’ 
+
+ऎऩ्बदु भगवच्छास्त्र वचनम्। द्वौ च – लक्ष्मीनारायणर्गळिरुवरुम्, सदा – सर्वावस्थैयिलुम्, उपाय दशैयिलुम् उपेयदशैयिलुमॆऩ्ऱबडि। एकशेषी – एकञ्च तत् शेषि च एकशेषी । सामान्य नपुंसकम्। इङ्गु एकशब्दम् शेषिविशेषणमाऩालुम् एकत्वं, परमसुन्दरमित्यादौ सौन्दर्यत्तिल् पारम्यमन्वयिप्पदुबोल् शेषित्वत्तिले अन्वयिक्किऱदु। 
+</details>
 
 
 
-By these authorities it was determined by Somasi Andan in Shadarthasamkṣepa, that both form always a single śeṣī. In the case of certain special offerings (havis) enjoined in the Karmakāṇḍa, the offering is made to two deities like Agni and Viṣṇu as if they were single. So also in this offering of the soul called prapatti, the two may, without any impropriety, be the single recipient. As stated in the śloka, "Youth and certain other qualities are common to Thee and Bhagavān; however you have divided other qualities between you for your enjoyment and (that in this way) :- Bhagavān has manly qualities like independence of others, control over enemies, firmness and the like and Thou hast such feminine qualities as gentleness, existing only for the husband, compassion and forbearance"; the wife is ever dependent on her Lord and in the performance of yajnas or sacrifices, only the yajamāna is spoken of (as his wife who participates in the performance is implicit, as it were, in the word yajamāna, even when one yajamana is referred to). So also in regard to the teaching of the śāstras, the mention of a single person does not mean the absence of the wife who is, as it were, inseparable from her spouse. In the verse :-- "Bhakti  and prapatti are forms of knowledge which have, for their object, only Bhagavān, the Lord of Lakṣmī , who abides in the lotus and as also the knowledge called the perfect enjoyment of Brahman has only Him for its object" - in this verse this is really the meaning, viz., that Lakṣmī , being included in Bhagavān, no separate mention is made of her. This may be seen also in the passage: "Since Thousand Bhagavān are thus inseparably united, the śruti does not speak of Thee separately".
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘उभयाधिष्ठानञ् चैकं शेषित्वं’’   
+(षडर्थसंक्षेपः)  
+
+ऎऩ्ऱुम् सोमाशिय्-आण्डाऩ् षड्-अर्थ-संक्षेपत्तिल् निष्कर्षित्त बडिये 
+</details>
+
+
+<details><summary>English</summary>
+
+By these authorities it was determined by Somasi Andan in Shadarthasamkṣepa,  
+that both form always a single śeṣī. 
+</details>
+
+<details><summary>Español</summary>
+
+Por estas autoridades **fue determinado** por Somasi Andan en Shadarthasamkṣepa,  
+que ambos **forman** siempre un solo Śeṣī.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘उभयाधिष्ठानञ्चैकं शेषित्वं’’(षडर्थसंक्षेपम्) ऎऩ्ऱुम् सोमासियाण्डाऩ् षडर्थसंक्षेपत्तिल् निष्कर्षित्तबडिये 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+एकशेषित्वाश्रयौ ऎऩ्ऱबडि। उभयाधिष्ठानञ्चैकं शेषित्वमिति । जगन्निरूपितशेषित्वम् एकमेव द्वित्वादिवद्व्यासज्यवृत्ति तया उभयाश्रितमॆऩ्ऱबडि। षडर्थसङ्क्षेपमॆऩ्बदु ऒरु ग्रन्थविशेषम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इरुवरुम् एक-शेषित्वाश्रयम् आऩ बडियाले  
+हविर्-विशेषङ्गळिले अग्ना-विष्णु-प्रभृतिकळुक्कुप् पोले  
+आत्म-हविस्-समर्पण-प्रतिसम्बन्धिगळ् आगक् कुऱैयिल्लै।+++(5)+++
+</details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+एवं निष्कर्षितुं समर्थस्य शिष्यसन्ततिर्  
+अर्वाचीन-काले पुरोडाश-यजन-स्थाने bread-पुरोडाश-विक्रयादि-रता  
+इति स्मृतिपथम् आयाति केनचिद् उक्तं हास्यवचनम्। 
+</details>
+
+<details><summary>English</summary>
+
+In the case of certain special offerings (havis) enjoined in the Karmakāṇḍa,  
+the offering is made to two deities like Agni and Viṣṇu as if they were single. 
+So also in this offering of the soul called prapatti,  
+the two may, without any impropriety, be the single recipient.  
+</details>
+
+<details><summary>Español</summary>
+
+En el caso de ciertas **ofrendas** especiales (havis) **ordenadas** en el karmakāṇḍa,  
+La **ofrenda se realiza** a dos deidades como Agni y Viṣṇu como **si estuvieran** solteras.  
+Así también en esta oferta del alma **llamada** Prapatti,  
+Los dos **pueden**, sin incorrección, **ser** el **receptor** único.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इरुवरु मेकशेषित्वाश्रयमाऩबडियाले हविर्विशेषङ्गळिले अग्नाविष्णुप्रभृतिकळुक्कुप् पोले आत्महविस्समर्पणप्रतिसम्बन्धिकळागक् कुऱैयिल्लै।
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इरुवरुम् एकशेषित्वाश्रयमाऩ पडियाले इति । हविर्विशेषङ्गळिले अग्नाविष्णुप्रभृतिकळुक्कुप्पोले इति । अग्निक्कु 
+प्रमाणान्तरत्तिल् विष्णुशेषत्वम् प्रतिपन्नमायिरुन्दालुम् ‘‘आग्नावैष्णवमेकादशकपालं निर्वपेत्’’ ऎऩ्गिऱ श्रुतिविहितमाऩ यागत्तिऩुडैय हविर्विशेषत्तिले अग्निक्कुम् विष्णुविऱ्कुम् व्यासज्यवृत्तियाऩ एकमाऩ उद्देश्यत्वमिरुप्पदुबोलॆऩ्ऱबडि। आत्महविस्समर्पणप्रतिसम्बन्धिकळागक् कुऱैयिल्लै इति । जीवात्मनिरूपितोभयनिष्ठशेषित्वमे उद्देश्यत्वरूपमागैयाले इरण्डुबेर्गळिडत्तिलुम् जीवात्मरूपहविस्समर्पणप्रतिसम्बन्धित्वत्तिऱ्कुक्कुऱैयिल्लै यॆऩ्ऱबडि। 
+</details>
+
+### गुण-विभागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> युवत्वादौ तुल्येऽप्य् अ--पर-वशता--शत्रु-शमन-  
+स्थिरत्वादीन् **कृत्वा भगवति** गुणान् पुंस्त्व-सु-लभान् ।  
+त्वयि स्त्रीत्वैकान्तान् म्रदिम--पति-पारार्थ्य--करुणा-  
+क्षमादीन् वा **भोक्तुम् भवति** युवयोर् आत्मनि भिदा ॥  
+(श्री-गुण-रत्न-कोशः ३४) 
+
+ऎऩ्गिऱबडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> युवत्वादौ तुल्येऽप्य् अ--पर-वशता--शत्रु-शमन-  
+स्थिरत्वादीन् **कृत्वा भगवति** गुणान् पुंस्त्व-सु-लभान् ।  
+त्वयि स्त्रीत्वैकान्तान् म्रदिम--पति-पारार्थ्य--करुणा-  
+क्षमादीन् वा **भोक्तुम् भवति** युवयोर् आत्मनि भिदा ॥  
+(श्री-गुण-रत्न-कोशः ३४) 
+</details>
+
+<details><summary>English</summary>
+
+As stated in the śloka, 
+
+> "Youth and certain other qualities are common to Thee and Bhagavān;  
+however you have divided other qualities between you for your enjoyment and (that in this way) :-  
+Bhagavān has manly qualities like independence of others, control over enemies, firmness and the like  
+and Thou hast such feminine qualities as gentleness, existing only for the husband, compassion and forbearance"; 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se indica** en el Śloka,
+
+> "Los jóvenes y ciertas otras cualidades **son** comunes para ti y Bhagavān;  
+Sin embargo, ha **dividido** otras cualidades entre usted para su **disfrute** y (que de esta manera):-  
+Bhagavān **tiene** cualidades varoniles como la independencia de los demás, control sobre enemigos, firmeza y similares  
+y **tienes** cualidades femeninas como la gentileza, existente solo para el esposo, la compasión y la tolerancia ";
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘युवत्वादौ तुल्येऽप्यपरवशता शत्रुशमनस्थिरत्वादीन् कृत्वा भगवति गुणान् पुंस्त्वसुलभान् । त्वयि स्त्रीत्वैकान्तान्मृदिमपतिपारार्थ्य करुणा क्षमादीन्वा भोक्तुं भवति युवयोरात्मनि भिदा’’(श्री-गुण-रत्न-कोशः ३४) ऎऩ्गिऱबडिये
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि इरुवर्गळुम् आत्महविस्समर्पणप्रतिसम्बन्धिकळागिल् ‘‘स्वात्मानं मयि निक्षिपत्’’, ‘‘मामेकं शरणं व्रज’’, एक एव जगत्स्वामी’’ त्यादिगळिल् भगवन्मात्रनिर्देशमुम्, एकत्वव्यपदेशमुम् कूडुवदॆङ्ङऩे यॆऩ्ऩ वरुळिच्चॆय्गिऱार् युवत्वादाविति । पतिपत्निकळाऩ उङ्गळुक्कु युवत्वादिगळाऩ साधारणधर्मङ्गळ् तुल्यङ्गळायिरुक्कच् चॆय्देयुम् लोकदृष्टप्रक्रियैयाले अपरवशतादिरूपङ्गळाऩ पुरुषगुणङ्गळै भगवाऩिडत्तिलुम्, मृदिम-पतिपारार्थ्यादिरूपङ्गळाऩ स्त्रीगुणङ्गळै उऩ्ऩिडत्तिलुम् पिरित्तुवैत्तु परस्परमनुभविक्कैक्काग भेदमङ्गीकृतमॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पत्निक्कु नित्यपतिपारार्थ्यत्ताले यागतन्त्रत्तिऱ्पोले पतिप्रधानमाग शास्त्रङ् गळिलुपदेशङ्गळुक्कुम् एकऩ् यजमानऩॆऩ्ऩुमाप्पोले एकव्यपदेशत्तुक्कुङ् गुऱैयिल्लै।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+पत्निक्कु नित्यपतिपारार्थ्यत्ताले यागतन्त्रत्तिऱ्पोले पतिप्रधानमाग शास्त्रङ् गळिलुपदेशङ्गळुक्कुम् एकऩ् यजमानऩॆऩ्ऩुमाप्पोले एकव्यपदेशत्तुक्कुङ् गुऱैयिल्लै।  
+</details>
+
+
+
+the wife is ever dependent on her Lord  
+and in the performance of yajnas or sacrifices, only the yajamāna is spoken of (as his wife who participates in the performance is implicit, as it were, in the word yajamāna, even when one yajamana is referred to). So also in regard to the teaching of the śāstras, the mention of a single person does not mean the absence of the wife who is, as it were, inseparable from her spouse. In the verse :-- "Bhakti  and prapatti are forms of knowledge which have, for their object, only Bhagavān, the Lord of Lakṣmī , who abides in the lotus and as also the knowledge called the perfect enjoyment of Brahman has only Him for its object" - in this verse this is really the meaning, viz., that Lakṣmī , being included in Bhagavān, no separate mention is made of her. This may be seen also in the passage: "Since Thousand Bhagavān are thus inseparably united, the śruti does not speak of Thee separately".
 
 Nanjeeyar heard, from Kadambi Achan, what the author of Śrī Bhāṣyam had declared and summarised it thus:-"In places where Bhagavān is referred to, it should be understood that Lakṣmī  is also referred to".
 

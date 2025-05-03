@@ -56,12 +56,3 @@ title = "+हेयोपादेयदर्पणः"
 सर्वेषां सुखबोधाय सङ्कलय्य प्रदर्शयामः ॥
 
 
-<details><summary>ग्रन्थकाङ्क्षा</summary>
-
-In the Meitei Hindu ceremony 'laiming louba', both boys and girls are initiated usually into the Harināma-mahāmantra.
-
-Read more here: https://e-pao.net/epSubPageExtractor.asp?src=manipur.Arts_and_Culture.Meitei_Ceremony.Lugun_Thangba
-
-Here you can see the said ceremony being performed for a girl. https://youtube.com/watch?v=rwv_xY7tNYo
-</details>
-
