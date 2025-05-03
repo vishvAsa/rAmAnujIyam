@@ -9982,10 +9982,25 @@ El Jīva **es** el **sirviente** de ambos "),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘द्वौ च सदैकशेषी’’(सात्त्वतम्) 
+> ‘‘(लक्ष्म्यास् समस्त-चिद्--अ-चित्--प्रपञ्चो  
+**व्याप्यस्**, तद् ईशस्य तु सापि सर्वं ।  
+तथापि साधारणम् ईशितृत्वं  
+श्री-श्रीशयोर्,) द्वौ च सदैक-शेषी ॥’’  
+(सात्त्वतम्) 
 
 ऎऩ्गिऱ बडिये 
 </details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘(लक्ष्म्यास् समस्त-चिद्--अ-चित्--प्रपञ्चो  
+**व्याप्यस्**, तद् ईशस्य तु सापि सर्वं ।  
+तथापि साधारणम् ईशितृत्वं  
+श्री-श्रीशयोर्,) द्वौ च सदैक-शेषी ॥’’  
+(सात्त्वतम्) 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10022,9 +10037,53 @@ en relación con el mundo ".
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘उभयाधिष्ठानञ् चैकं शेषित्वं’’   
+(षडर्थसंक्षेपः)  
+
+ऎऩ्ऱुम् सोमाशिय्-आण्डाऩ् षड्-अर्थ-संक्षेपत्तिल् निष्कर्षित्त बडिये 
+</details>
 
 
-By these authorities it was determined by Somasi Andan in Shadarthasamkṣepa, that both form always a single śeṣī. In the case of certain special offerings (havis) enjoined in the Karmakāṇḍa, the offering is made to two deities like Agni and Viṣṇu as if they were single. So also in this offering of the soul called prapatti, the two may, without any impropriety, be the single recipient. As stated in the śloka, "Youth and certain other qualities are common to Thee and Bhagavān; however you have divided other qualities between you for your enjoyment and (that in this way) :- Bhagavān has manly qualities like independence of others, control over enemies, firmness and the like and Thou hast such feminine qualities as gentleness, existing only for the husband, compassion and forbearance"; the wife is ever dependent on her Lord and in the performance of yajnas or sacrifices, only the yajamāna is spoken of (as his wife who participates in the performance is implicit, as it were, in the word yajamāna, even when one yajamana is referred to). So also in regard to the teaching of the śāstras, the mention of a single person does not mean the absence of the wife who is, as it were, inseparable from her spouse. In the verse :-- "Bhakti  and prapatti are forms of knowledge which have, for their object, only Bhagavān, the Lord of Lakṣmī , who abides in the lotus and as also the knowledge called the perfect enjoyment of Brahman has only Him for its object" - in this verse this is really the meaning, viz., that Lakṣmī , being included in Bhagavān, no separate mention is made of her. This may be seen also in the passage: "Since Thousand Bhagavān are thus inseparably united, the śruti does not speak of Thee separately".
+<details><summary>English</summary>
+
+By these authorities it was determined by Somasi Andan in Shadarthasamkṣepa,  
+that both form always a single śeṣī. 
+</details>
+
+<details><summary>Español</summary>
+
+Por estas autoridades **fue determinado** por Somasi Andan en Shadarthasamkṣepa,  
+que ambos **forman** siempre un solo Śeṣī.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘उभयाधिष्ठानञ्चैकं शेषित्वं’’(षडर्थसंक्षेपम्) ऎऩ्ऱुम् सोमासियाण्डाऩ् षडर्थसंक्षेपत्तिल् निष्कर्षित्तबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इरुवरुम् एक-शेषित्वाश्रयम् आऩ बडियाले  
+हविर्-विशेषङ्गळिले अग्ना-विष्णु-प्रभृतिकळुक्कुप् पोले  
+आत्म-हविस्-समर्पण-प्रतिसम्बन्धिगळ् आगक् कुऱैयिल्लै।+++(5)+++
+</details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+एवं निष्कर्षितुं समर्थस्य शिष्यसन्ततिर्  
+अर्वाचीन-काले पुरोडाश-यजन-स्थाने bread-पुरोडाश-विक्रयादि-रता  
+इति स्मृतिपथम् आयाति केनचिद् उक्तं हास्यवचनम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इरुवरु मेकशेषित्वाश्रयमाऩबडियाले हविर्विशेषङ्गळिले अग्नाविष्णुप्रभृतिकळुक्कुप् पोले आत्महविस्समर्पणप्रतिसम्बन्धिकळागक् कुऱैयिल्लै।
+</details>
+
+
+In the case of certain special offerings (havis) enjoined in the Karmakāṇḍa, the offering is made to two deities like Agni and Viṣṇu as if they were single. So also in this offering of the soul called prapatti, the two may, without any impropriety, be the single recipient. As stated in the śloka, "Youth and certain other qualities are common to Thee and Bhagavān; however you have divided other qualities between you for your enjoyment and (that in this way) :- Bhagavān has manly qualities like independence of others, control over enemies, firmness and the like and Thou hast such feminine qualities as gentleness, existing only for the husband, compassion and forbearance"; the wife is ever dependent on her Lord and in the performance of yajnas or sacrifices, only the yajamāna is spoken of (as his wife who participates in the performance is implicit, as it were, in the word yajamāna, even when one yajamana is referred to). So also in regard to the teaching of the śāstras, the mention of a single person does not mean the absence of the wife who is, as it were, inseparable from her spouse. In the verse :-- "Bhakti  and prapatti are forms of knowledge which have, for their object, only Bhagavān, the Lord of Lakṣmī , who abides in the lotus and as also the knowledge called the perfect enjoyment of Brahman has only Him for its object" - in this verse this is really the meaning, viz., that Lakṣmī , being included in Bhagavān, no separate mention is made of her. This may be seen also in the passage: "Since Thousand Bhagavān are thus inseparably united, the śruti does not speak of Thee separately".
 
 Nanjeeyar heard, from Kadambi Achan, what the author of Śrī Bhāṣyam had declared and summarised it thus:-"In places where Bhagavān is referred to, it should be understood that Lakṣmī  is also referred to".
 
