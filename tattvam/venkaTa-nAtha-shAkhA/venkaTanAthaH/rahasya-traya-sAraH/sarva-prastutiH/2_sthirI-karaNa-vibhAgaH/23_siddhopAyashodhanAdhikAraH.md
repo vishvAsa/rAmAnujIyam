@@ -9291,6 +9291,14 @@ Ya **hemos declarado** que lo que **se entiende** de los pramāṇas
 कुऱैय् इल्लै।+++(4)+++ 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो यथा-प्रमाणं शरण्याभिप्राय-विशेषानुगुणं  
+विशिष्टस्योपेयत्ववत् विशिष्टस्योपायत्वेऽपि  
+न कश्चिद् दोषः ।  
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore, just as we accept the Lord with His Spouse, as the object of attainment  
@@ -9339,6 +9347,16 @@ No hay objeción al Señor, ya que su cónyuge también es el upāya.
 उपायैक्यत्तुक्कुक् कुऱैय् इल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[१९८]]  
+नारायण-शब्द--चरण-शब्द--प्रतिपादित-  
+गुण-विशेष--विग्रह-विशेषादि-विशिष्टस्यैकस्योपायत्ववत्  तुल्य-योग-क्षेम--श्रीमच्-छब्द--प्रतीत-  
+नित्य-पत्नी-संबन्ध-वैशिष्ट्ये ऽपि  
+उपायैक्यस्य न क्षतिः ।  
+</details>
+
+
 <details><summary>English</summary>
 
 Just as Bhagavān with particular qualities (like omnipotence and compassion) and particular forms (vigraha)  
@@ -9367,9 +9385,18 @@ en la relación eterna de **ser** su cónyuge,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपाय-विशेषणङ्गळैय् ऎल्लाम् विट्टु  
-उपायत्तैये एकम् आक्क वेणुम् ऎऩ्ऩिल्;  
+> उपाय-विशेषणङ्गळैय् ऎल्लाम् **विट्टु**  
+उपायत्तैये एकम् आक्क वेणुम् 
+
+ऎऩ्ऩिल्;  
 उपायत्वमुम् विशेषणम् अऩ्ऱिक्के पोम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> उपाय-विशेषणानि सर्वाणि हित्वोपायस्यैकत्वं संपादनीयम् 
+
+इति चेत् उपायत्वम् अपि विशेषणं न भवेत् । 
 </details>
 
 <details><summary>English</summary>
@@ -9399,6 +9426,14 @@ El dharma de **ser** un upāya (es decir, upāyatva) también **tendrá que renu
 ऎऩ्ऱु 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"विशेषण-प्रयुक्तेन  
+विशेष्यय् उपनमतोत्कर्षेण  
+विशेष्यस्य वैगुण्यादिकं न भवती"ति, 
+</details>
+
+
 <details><summary>English</summary>
 
 It should not be thought that the substantive (here Bhagavān), when it gains some excellence from the attribute (here Lakṣmī ),  
@@ -9427,8 +9462,19 @@ should be considered as previously wanting in some excellence.
 (श्री-गुण-रत्न-कोशः ३१) 
 
 ऎऩ्गिऱ श्लोकत्तिले निर्णयिक्कप्पट्टदु। 
-
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> +++(निरुपाधिक-स्वभावतया→)+++ स्वतः श्रीस् त्वं विष्णोः स्वम् **असि**, +++(स्व-वस्तु-स्थ-र्द्धेः→)+++ तत एवैष भगवान्,  
+त्वद्-**आयत्त-र्द्धित्वे** ऽप्य् अ-भवद् **अ-पराधीन**-विभवः ।   
+स्वया **दीप्त्या** रत्नम् भवद् अपि महार्घं **न विगुणं**  
+**न कुण्ठ**-स्वातन्त्र्यम् भवति, च **न चान्याहित**-गुणम् ॥ ३१ ॥  
+(श्री-गुण-रत्न-कोशः ३१) 
+
+इत्यस्मिन् श्लोके निरणायि । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9701,26 +9747,106 @@ y
 विशेषण-विशेष्यङ्गळै निर्देशिक्किऱदऱ्कुङ् गुऱैयिल्लै। 
 </details>
 
+<details><summary>English</summary>
+
+\- these expressions show how Śrī and the Lord of Śrī  
+are excellent in themselves  
+and add also to each other's greatness.
+
+There is nothing improper in stating that the substantive and the attribute give excellence to each other. 
+</details>
+
+<details><summary>Español</summary>
+
+\- Estas expresiones **muestran** cómo Śrī y el Señor de Śrī  
+**son** excelentes en sí mismos  
+y **agregar** también a la grandeza del otro.
+
+**No hay nada inadecuado en afirmar** que lo sustantivo y el atributo **se dan** excelencia entre sí.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 अन्योन्यातिशयावहङ्गळाग विशेषणविशेष्यङ्गळै निर्देशिक्किऱदऱ्कुङ् गुऱैयिल्लै। 
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रुति-बलत्ताले, 
+</details>
+
+<details><summary>English</summary>
+
+By the authority of texts in the śruti  
+(such as "He is the Lord of the Universe",  
+"The Spouse of Viṣṇu  who is the empress of the world",  
+and "The syllable ma indicates that  
+the jīva is the servant of both"), 
+</details>
+
+<details><summary>Español</summary>
+
+Por la autoridad de los textos en el Śruti  
+(como "Él **es** el Señor del Universo",  
+"El cónyuge de Viṣṇu que **es** la emperatriz del mundo",  
+y "la sílaba ma **indica** que  
+El Jīva **es** el **sirviente** de ambos "),
+</details>
 
 
-There is nothing improper in stating that the substantive and the attribute give excellence to each other 
+<details><summary>मूलम्</summary>
+
+श्रुतिबलत्ताले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘द्वौ च सदैकशेषी’’(सात्त्वतम्) 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>English</summary>
+
+and by the authority of the following śloka ,  
+
+> "The world of sentient and non-sentient beings is śeṣa to Lakṣmī , (i.e.)  
+it exists for Lakṣmī :  
+She and the world are śeṣa to Bhagavān,  
+who is Her śeṣī .  
+Notwithstanding this, the control of the world is common to both:  
+the two together are śeṣī ,  
+in relation to the world". 
+</details>
+
+<details><summary>Español</summary>
+
+y por la autoridad de los siguientes Śloka,
+
+> "El mundo de los seres sensibles y no sensibles **es Śeṣa** a Lakṣmī, (es decir)  
+**Existe** para Lakṣmī:  
+Ella y el mundo **son** Śeṣa a Bhagavān,  
+quien **es** su Śeṣī.  
+A **pesar** de esto, el **control** del mundo **es** común a ambos:  
+Los dos juntos **son** Śeṣī,
+en relación con el mundo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ‘‘द्वौ च सदैकशेषी’’(सात्त्वतम्) 
+
+ऎऩ्गिऱ बडिये 
+</details>
 
 
 
 
-
-
-\- these expressions show how Śrī and the Lord of Śrī  
-are excellent in themselves  
-and add also to each other's greatness.
-
-By the authority of texts in the śruti  (such as "He is the Lord of the Universe", "The Spouse of Viṣṇu  who is the empress of the world", and "The syllable ma indicates that the jīva is the servant of both"), and by the authority of the following śloka , "The world of sentient and non-sentient beings is śeṣa to Lakṣmī , (i.e.) it exists for Lakṣmī : She and the world are śeṣa to Bhagavān, who is Her śeṣī . Notwithstanding this, the control of the world is common to both: the two together are śeṣī , in relation to the world". By these authorities it was determined by Somasi Andan in Shadarthasamkṣepa, that both form always a single śeṣī. In the case of certain special offerings (havis) enjoined in the Karmakāṇḍa, the offering is made to two deities like Agni and Viṣṇu as if they were single. So also in this offering of the soul called prapatti, the two may, without any impropriety, be the single recipient. As stated in the śloka, "Youth and certain other qualities are common to Thee and Bhagavān; however you have divided other qualities between you for your enjoyment and (that in this way) :- Bhagavān has manly qualities like independence of others, control over enemies, firmness and the like and Thou hast such feminine qualities as gentleness, existing only for the husband, compassion and forbearance"; the wife is ever dependent on her Lord and in the performance of yajnas or sacrifices, only the yajamāna is spoken of (as his wife who participates in the performance is implicit, as it were, in the word yajamāna, even when one yajamana is referred to). So also in regard to the teaching of the śāstras, the mention of a single person does not mean the absence of the wife who is, as it were, inseparable from her spouse. In the verse :-- "Bhakti  and prapatti are forms of knowledge which have, for their object, only Bhagavān, the Lord of Lakṣmī , who abides in the lotus and as also the knowledge called the perfect enjoyment of Brahman has only Him for its object" - in this verse this is really the meaning, viz., that Lakṣmī , being included in Bhagavān, no separate mention is made of her. This may be seen also in the passage: "Since Thousand Bhagavān are thus inseparably united, the śruti does not speak of Thee separately".
+By these authorities it was determined by Somasi Andan in Shadarthasamkṣepa, that both form always a single śeṣī. In the case of certain special offerings (havis) enjoined in the Karmakāṇḍa, the offering is made to two deities like Agni and Viṣṇu as if they were single. So also in this offering of the soul called prapatti, the two may, without any impropriety, be the single recipient. As stated in the śloka, "Youth and certain other qualities are common to Thee and Bhagavān; however you have divided other qualities between you for your enjoyment and (that in this way) :- Bhagavān has manly qualities like independence of others, control over enemies, firmness and the like and Thou hast such feminine qualities as gentleness, existing only for the husband, compassion and forbearance"; the wife is ever dependent on her Lord and in the performance of yajnas or sacrifices, only the yajamāna is spoken of (as his wife who participates in the performance is implicit, as it were, in the word yajamāna, even when one yajamana is referred to). So also in regard to the teaching of the śāstras, the mention of a single person does not mean the absence of the wife who is, as it were, inseparable from her spouse. In the verse :-- "Bhakti  and prapatti are forms of knowledge which have, for their object, only Bhagavān, the Lord of Lakṣmī , who abides in the lotus and as also the knowledge called the perfect enjoyment of Brahman has only Him for its object" - in this verse this is really the meaning, viz., that Lakṣmī , being included in Bhagavān, no separate mention is made of her. This may be seen also in the passage: "Since Thousand Bhagavān are thus inseparably united, the śruti does not speak of Thee separately".
 
 Nanjeeyar heard, from Kadambi Achan, what the author of Śrī Bhāṣyam had declared and summarised it thus:-"In places where Bhagavān is referred to, it should be understood that Lakṣmī  is also referred to".
 
