@@ -10131,12 +10131,12 @@ and Thou hast such feminine qualities as gentleness, existing only for the husba
 
 <details><summary>Español</summary>
 
-As stated in the śloka, 
+Como **se indica** en el Śloka,
 
-> "Youth and certain other qualities are common to Thee and Bhagavān;  
-however you have divided other qualities between you for your enjoyment and (that in this way) :-  
-Bhagavān has manly qualities like independence of others, control over enemies, firmness and the like  
-and Thou hast such feminine qualities as gentleness, existing only for the husband, compassion and forbearance"; 
+> "Los jóvenes y ciertas otras cualidades **son** comunes para ti y Bhagavān;  
+Sin embargo, ha **dividido** otras cualidades entre usted para su **disfrute** y (que de esta manera):-  
+Bhagavān **tiene** cualidades varoniles como la independencia de los demás, control sobre enemigos, firmeza y similares  
+y **tienes** cualidades femeninas como la gentileza, existente solo para el esposo, la compasión y la tolerancia ";
 </details>
 
 
@@ -10145,10 +10145,20 @@ and Thou hast such feminine qualities as gentleness, existing only for the husba
 ‘‘युवत्वादौ तुल्येऽप्यपरवशता शत्रुशमनस्थिरत्वादीन् कृत्वा भगवति गुणान् पुंस्त्वसुलभान् । त्वयि स्त्रीत्वैकान्तान्मृदिमपतिपारार्थ्य करुणा क्षमादीन्वा भोक्तुं भवति युवयोरात्मनि भिदा’’(श्री-गुण-रत्न-कोशः ३४) ऎऩ्गिऱबडिये
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पत्निक्कु नित्यपतिपारार्थ्यत्ताले यागतन्त्रत्तिऱ्पोले पतिप्रधानमाग शास्त्रङ् गळिलुपदेशङ्गळुक्कुम् एकऩ् यजमानऩॆऩ्ऩुमाप्पोले एकव्यपदेशत्तुक्कुङ् गुऱैयिल्लै।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+पत्निक्कु नित्यपतिपारार्थ्यत्ताले यागतन्त्रत्तिऱ्पोले पतिप्रधानमाग शास्त्रङ् गळिलुपदेशङ्गळुक्कुम् एकऩ् यजमानऩॆऩ्ऩुमाप्पोले एकव्यपदेशत्तुक्कुङ् गुऱैयिल्लै।  
+</details>
 
 
 
-the wife is ever dependent on her Lord and in the performance of yajnas or sacrifices, only the yajamāna is spoken of (as his wife who participates in the performance is implicit, as it were, in the word yajamāna, even when one yajamana is referred to). So also in regard to the teaching of the śāstras, the mention of a single person does not mean the absence of the wife who is, as it were, inseparable from her spouse. In the verse :-- "Bhakti  and prapatti are forms of knowledge which have, for their object, only Bhagavān, the Lord of Lakṣmī , who abides in the lotus and as also the knowledge called the perfect enjoyment of Brahman has only Him for its object" - in this verse this is really the meaning, viz., that Lakṣmī , being included in Bhagavān, no separate mention is made of her. This may be seen also in the passage: "Since Thousand Bhagavān are thus inseparably united, the śruti does not speak of Thee separately".
+the wife is ever dependent on her Lord  
+and in the performance of yajnas or sacrifices, only the yajamāna is spoken of (as his wife who participates in the performance is implicit, as it were, in the word yajamāna, even when one yajamana is referred to). So also in regard to the teaching of the śāstras, the mention of a single person does not mean the absence of the wife who is, as it were, inseparable from her spouse. In the verse :-- "Bhakti  and prapatti are forms of knowledge which have, for their object, only Bhagavān, the Lord of Lakṣmī , who abides in the lotus and as also the knowledge called the perfect enjoyment of Brahman has only Him for its object" - in this verse this is really the meaning, viz., that Lakṣmī , being included in Bhagavān, no separate mention is made of her. This may be seen also in the passage: "Since Thousand Bhagavān are thus inseparably united, the śruti does not speak of Thee separately".
 
 Nanjeeyar heard, from Kadambi Achan, what the author of Śrī Bhāṣyam had declared and summarised it thus:-"In places where Bhagavān is referred to, it should be understood that Lakṣmī  is also referred to".
 
