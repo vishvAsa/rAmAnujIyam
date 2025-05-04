@@ -10124,7 +10124,8 @@ Los dos **pueden**, sin incorrección, **ser** el **receptor** único.
 प्रमाणान्तरत्तिल् विष्णुशेषत्वम् प्रतिपन्नमायिरुन्दालुम् ‘‘आग्नावैष्णवमेकादशकपालं निर्वपेत्’’ ऎऩ्गिऱ श्रुतिविहितमाऩ यागत्तिऩुडैय हविर्विशेषत्तिले अग्निक्कुम् विष्णुविऱ्कुम् व्यासज्यवृत्तियाऩ एकमाऩ उद्देश्यत्वमिरुप्पदुबोलॆऩ्ऱबडि। आत्महविस्समर्पणप्रतिसम्बन्धिकळागक् कुऱैयिल्लै इति । जीवात्मनिरूपितोभयनिष्ठशेषित्वमे उद्देश्यत्वरूपमागैयाले इरण्डुबेर्गळिडत्तिलुम् जीवात्मरूपहविस्समर्पणप्रतिसम्बन्धित्वत्तिऱ्कुक्कुऱैयिल्लै यॆऩ्ऱबडि। 
 </details>
 
-### गुण-विभागः
+#### एकत्व-व्यपदेशः
+##### गुण-विभागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > युवत्वादौ तुल्येऽप्य् अ--पर-वशता--शत्रु-शमन-  
@@ -10176,11 +10177,42 @@ y **tienes** cualidades femeninas como la gentileza, existente solo para el espo
 इप्पडि इरुवर्गळुम् आत्महविस्समर्पणप्रतिसम्बन्धिकळागिल् ‘‘स्वात्मानं मयि निक्षिपत्’’, ‘‘मामेकं शरणं व्रज’’, एक एव जगत्स्वामी’’ त्यादिगळिल् भगवन्मात्रनिर्देशमुम्, एकत्वव्यपदेशमुम् कूडुवदॆङ्ङऩे यॆऩ्ऩ वरुळिच्चॆय्गिऱार् युवत्वादाविति । पतिपत्निकळाऩ उङ्गळुक्कु युवत्वादिगळाऩ साधारणधर्मङ्गळ् तुल्यङ्गळायिरुक्कच् चॆय्देयुम् लोकदृष्टप्रक्रियैयाले अपरवशतादिरूपङ्गळाऩ पुरुषगुणङ्गळै भगवाऩिडत्तिलुम्, मृदिम-पतिपारार्थ्यादिरूपङ्गळाऩ स्त्रीगुणङ्गळै उऩ्ऩिडत्तिलुम् पिरित्तुवैत्तु परस्परमनुभविक्कैक्काग भेदमङ्गीकृतमॆऩ्ऱबडि। 
 </details>
 
-
+##### पत्नी यागे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पत्निक्कु नित्यपतिपारार्थ्यत्ताले यागतन्त्रत्तिऱ्पोले पतिप्रधानमाग शास्त्रङ् गळिलुपदेशङ्गळुक्कुम् एकऩ् यजमानऩॆऩ्ऩुमाप्पोले एकव्यपदेशत्तुक्कुङ् गुऱैयिल्लै।  
+पत्निक्कु नित्य-पतिपारार्थ्यत्ताले  
+याग-तन्त्रत्तिऱ् पोले  
+पति-प्रधानम् आग शास्त्रङ्गळिल् उपदेशङ्गळुक्कुम्  
+"एकऩ् यजमानऩ्" ऎऩ्ऩुमाप् पोले  
+एक-व्यपदेशत्तुक्कुङ् कुऱैयिल्लै।  
 </details>
+
+<details><summary>English</summary>
+
+the wife is ever dependent on her Lord  
+and in the performance of yajnas or sacrifices, only the yajamāna is spoken of  
+(as his wife who participates in the performance is implicit, as it were,  
+in the word yajamāna,  
+even when one yajamana is referred to). 
+
+So also in regard to the teaching of the śāstras,  
+the mention of a single person does not mean the absence of the wife who is, as it were, inseparable from her spouse. 
+</details>
+
+<details><summary>Español</summary>
+
+La esposa siempre **depende** de su Señor  
+y en el **desempeño** de Yajnas o sacrificios, solo **se habla** del Yajamāna  
+(Como su esposa que **participa** en la **actuación** **está implícita**, por así **decirlo**,  
+En la palabra yajamāna,  
+incluso cuando **se hace referencia** a un Yajamana).
+
+Así también con respecto a la enseñanza de los Śāstras,  
+La **mención** de una sola persona  
+**no significa** la **ausencia** de la esposa  
+que **es**, por así **decirlo**, inseparable de su cónyuge.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -10189,8 +10221,9 @@ y **tienes** cualidades femeninas como la gentileza, existente solo para el espo
 
 
 
-the wife is ever dependent on her Lord  
-and in the performance of yajnas or sacrifices, only the yajamāna is spoken of (as his wife who participates in the performance is implicit, as it were, in the word yajamāna, even when one yajamana is referred to). So also in regard to the teaching of the śāstras, the mention of a single person does not mean the absence of the wife who is, as it were, inseparable from her spouse. In the verse :-- "Bhakti  and prapatti are forms of knowledge which have, for their object, only Bhagavān, the Lord of Lakṣmī , who abides in the lotus and as also the knowledge called the perfect enjoyment of Brahman has only Him for its object" - in this verse this is really the meaning, viz., that Lakṣmī , being included in Bhagavān, no separate mention is made of her. This may be seen also in the passage: "Since Thousand Bhagavān are thus inseparably united, the śruti does not speak of Thee separately".
+
+
+In the verse :-- "Bhakti  and prapatti are forms of knowledge which have, for their object, only Bhagavān, the Lord of Lakṣmī , who abides in the lotus and as also the knowledge called the perfect enjoyment of Brahman has only Him for its object" - in this verse this is really the meaning, viz., that Lakṣmī , being included in Bhagavān, no separate mention is made of her. This may be seen also in the passage: "Since Thousand Bhagavān are thus inseparably united, the śruti does not speak of Thee separately".
 
 Nanjeeyar heard, from Kadambi Achan, what the author of Śrī Bhāṣyam had declared and summarised it thus:-"In places where Bhagavān is referred to, it should be understood that Lakṣmī  is also referred to".
 
