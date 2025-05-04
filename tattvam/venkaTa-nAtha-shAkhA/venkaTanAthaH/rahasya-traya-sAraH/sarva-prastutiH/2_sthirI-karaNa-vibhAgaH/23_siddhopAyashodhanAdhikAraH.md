@@ -9999,6 +9999,8 @@ El Jīva **es** el **sirviente** de ambos "),
 तथापि साधारणम् ईशितृत्वं  
 श्री-श्रीशयोर्,) द्वौ च सदैक-शेषी ॥’’  
 (सात्त्वतम्) 
+
+इत्य्-उक्त-प्रकारेण
 </details>
 
 
@@ -10058,6 +10060,14 @@ en relación con el mundo ".
 ऎऩ्ऱुम् सोमाशिय्-आण्डाऩ् षड्-अर्थ-संक्षेपत्तिल् निष्कर्षित्त बडिये 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘उभयाधिष्ठानञ् चैकं शेषित्वं’’   
+(षडर्थसंक्षेपः)  
+
+इति (सोमाशिय्-आण्डान्/) श्री-राम-मिश्रेण  षड्-अर्थ-संक्षेपे निष्कृष्ट-रीत्या
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10088,6 +10098,14 @@ que ambos **forman** siempre un solo Śeṣī.
 हविर्-विशेषङ्गळिले अग्ना-विष्णु-प्रभृतिकळुक्कुप् पोले  
 आत्म-हविस्-समर्पण-प्रतिसम्बन्धिगळ् आगक् कुऱैयिल्लै।+++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उभयोर् अपि +एक-शेषित्वाश्रयत्वात्  
+हविर्-विशेषेषु अग्ना-विष्णु-प्रभृतीनाम् इव  
+आत्म-समर्पण-प्रतिसम्बन्धि-भावस्य नानुपपन्नत्वम् । 
+</details>
+
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
@@ -10144,6 +10162,8 @@ Los dos **pueden**, sin incorrección, **ser** el **receptor** único.
 त्वयि स्त्रीत्वैकान्तान् म्रदिम--पति-पारार्थ्य--करुणा-  
 क्षमादीन् वा **भोक्तुम् भवति** युवयोर् आत्मनि भिदा ॥  
 (श्री-गुण-रत्न-कोशः ३४) 
+
+इत्य्-उक्त-रीत्या
 </details>
 
 <details><summary>English</summary>
@@ -10187,6 +10207,17 @@ y **tienes** cualidades femeninas como la gentileza, existente solo para el espo
 एक-व्यपदेशत्तुक्कुङ् कुऱैयिल्लै।  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[[१९१]]] 
+
+पत्न्या नित्य-पति-पारार्थ्याद्  
+याग-तन्त्र इव पति-प्राधान्येन शास्त्रेषु +उपदेशानाम्,  
+"एको यजमान" इतिवत्  
+एकव्यपदेशस्य च न दुष्टत्वम्। 
+</details>
+
+
 <details><summary>English</summary>
 
 the wife is ever dependent on her Lord  
@@ -10219,13 +10250,102 @@ que **es**, por así **decirlo**, inseparable de su cónyuge.
 पत्निक्कु नित्यपतिपारार्थ्यत्ताले यागतन्त्रत्तिऱ्पोले पतिप्रधानमाग शास्त्रङ् गळिलुपदेशङ्गळुक्कुम् एकऩ् यजमानऩॆऩ्ऩुमाप्पोले एकव्यपदेशत्तुक्कुङ् गुऱैयिल्लै।  
 </details>
 
+##### आप्तोक्तयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६५ ’’तामरैयाळ् केळ्वऩ्+++(=वल्लभः)+++ ऒरुवऩैये नोक्कुम्+++(=वीक्षमाणं)+++ उणर्व्+++(=ज्ञानम्)+++’’  
+(मुदल् तिरुवन्दादि ६७)  
+
+ऎऩ्गिऱदऱ्कुम् इदुवे तात्पर्यम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "पङ्कजालया-वल्लभम् एकम् एव विषयी करोति ज्ञानम्”  
+
+इति सूक्तेर् अपीदम् एव तात्पर्यम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+In the verse :-- 
+
+> "Bhakti and prapatti are forms of knowledge which have, for their object, only Bhagavān, the Lord of Lakṣmī, who abides in the lotus  
+and (as) also the knowledge called the perfect enjoyment of Brahman has only Him for its object" 
+
+\- in this verse this is really the meaning that 
+Lakṣmī, being included in Bhagavān,  
+no separate mention is made of her. 
+</details>
+
+<details><summary>Español</summary>
+
+En el verso:-
+
+> "Bhakti y Prapatti **son** formas de **conocimiento** que tienen, por su objeto, solo Bhagavān, el Señor de Lakṣmī, que **permanece** en el loto  
+y (como) también el **conocimiento llamado** el disfrute perfecto de Brahman solo lo **tiene** por su objeto "
+
+\- En **este** verso, este **es** realmente el significado de que  
+Lakṣmī, incluido en Bhagavān,  
+**No se hace** una **mención** separada de ella.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+६५’’तामरैयाळ् केळ्वऩॊरुवऩैये नोक्कुमुणर्व्’’(मुदल् तिरुवन्दादि ६७)  ऎऩ्गिऱदऱ्कुमिदुवे तात्पर्यम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६६ ‘‘तद्-**अन्तर्भावात्** त्वां **न** पृथग् **अभिधत्ते** श्रुतिर् अपि”  
+( श्री-गुण-रत्न-कोशः २८) 
+
+ऎऩ्गिऱ वऴिगळुङ् गण्डु गॊळ्वदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ६६ ‘‘तद्-**अन्तर्भावात्** त्वां **न** पृथग् **अभिधत्ते** श्रुतिर् अपि”  
+( श्री-गुण-रत्न-कोशः २८) 
+
+इत्य् एवं-रूपाः पन्थानोऽपि द्रष्टव्याः । 
+</details>
+
+<details><summary>English</summary>
+
+This may be seen also in the passage: 
+
+> "Since Thou and Bhagavān are thus inseparably united,  
+the śruti does not speak of Thee separately".
+</details>
+
+<details><summary>Español</summary>
+
+Esto **se puede ver** también en el pasaje:
+
+> "Dado que tú y Bhagavān **están**, por lo tanto, inseparablemente **unidos**,  
+El Śruti **no habla** de ti por **separado** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+६६ ‘‘तदन्तर्भावात् त्वां न पृथगभिधत्ते श्रुतिरपि” ( श्री-गुण-रत्न-कोशः २८) ऎऩ्गिऱ वऴिगळुङ् गण्डुगॊळ्वदु। 
+</details>
 
 
 
 
-In the verse :-- "Bhakti  and prapatti are forms of knowledge which have, for their object, only Bhagavān, the Lord of Lakṣmī , who abides in the lotus and as also the knowledge called the perfect enjoyment of Brahman has only Him for its object" - in this verse this is really the meaning, viz., that Lakṣmī , being included in Bhagavān, no separate mention is made of her. This may be seen also in the passage: "Since Thousand Bhagavān are thus inseparably united, the śruti does not speak of Thee separately".
+Nanjeeyar heard, from Kadambi Achan,  
+what the author of Śrī Bhāṣyam had declared  
+and summarised it thus:-  
 
-Nanjeeyar heard, from Kadambi Achan, what the author of Śrī Bhāṣyam had declared and summarised it thus:-"In places where Bhagavān is referred to, it should be understood that Lakṣmī  is also referred to".
+> "In places where Bhagavān is referred to,  
+it should be understood that Lakṣmī is also referred to".
+
 
 Those whose object is only mokṣa  and who have no other aim, or interest, worship Lakṣmī  in her situation as laya (on the chest of Bhagavān) and as bloga in the image of the spouse standing by the image of Bhagavān. But just as we bow before certain images of Bhagavān (like Santānakṛṣṇa), which bestow primarily the benefits desired in this world, there is, for even mumukṣus, no impropriety in such actions as bowing before the image of Lakṣmī  installed in a separate shrine and worshipped for certain worldly benefits (adhikaarārchā), just as we should bow before our mothers, since in all images of Lakṣmī  (wherever they may be) her being the Spouse of Viṣṇu  is an established fact.
 
