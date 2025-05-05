@@ -6932,7 +6932,7 @@ on the banks of the Thiruchitrāru that ornaments the southern land.
       where Vediyars make sacrifices and recite the four Vedas
       and the smoke from them darkens the sky.
 
-3601 He is my protection, my dear life,
+3601. He is my protection, my dear life,
 the father and mother of the gods.
 It is hard for anyone to know
 and understand the wonderful nature
