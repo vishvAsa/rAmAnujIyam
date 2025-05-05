@@ -1702,7 +1702,7 @@ The man who begs (for other things ) will surely perish ",
 
 de acuerdo con el Śloka,
 
-"Uno nunca **debe rogarle** al Señor nada  
+> "Uno nunca **debe rogarle** al Señor nada  
 pero **conocimiento** y amor por sus pies santos.  
 El hombre que **pide** (por otras cosas) seguramente **perecerá** ", 
 </details>
@@ -3232,18 +3232,18 @@ which reveal the secret of the avatārs and take courage (from passages like the
 
 <details><summary>Español</summary>
 
-(Sin caer en la desesperación), debe alegrarse con las (arriba) las palabras sucesivas allí.  
-Debería consolar a sí mismo  
+(Sin **caer** en la desesperación), debe **alegrarse** con las (arriba) las palabras sucesivas allí.  
+**Debería consolar** a sí mismo  
 con las palabras del Salvador  
-quien aparece en frente para salvarlo -  
+quien **aparece** en frente para **salvarlo** -  
 Las palabras que son saludables y dulces como la leche de madre, como ...
 
-> “Para la protección del bien y la destrucción de los malvados  
-y así también para el establecimiento de Dharma,  
-Nací una y otra vez en cada Yuga ".
+> “Para la **protección** del bien y la **destrucción** de los malvados  
+y así también para el **establecimiento** de Dharma,  
+**Nací** una y otra vez en cada Yuga ".
 
-Debería bañarse, por así decirlo, en las palabras (de Bhagavān)  
-que revelan el secreto de los avatārs y toman coraje (de pasajes como los siguientes)
+**Debería bañarse**, por así **decirlo**, en las palabras (de Bhagavān)  
+que **revelan** el secreto de los avatārs y **toman** coraje (de pasajes como los siguientes)
 </details>
 
 
@@ -3286,10 +3286,10 @@ his evil deeds in the past will do him no harm"
 
 <details><summary>Español</summary>
 
-> "Cualquiera que sea un hombre que haya sido en el pasado,  
-Si vive una vida justa en su vejez,  
-le hará bien;  
-Sus hechos malvados en el pasado no le harán daño "
+> "Cualquiera que sea un hombre que **haya sido** en el pasado,  
+Si **vive** una vida justa en su vejez,  
+le **hará** bien;  
+Sus **hechos** malvados en el pasado **no le harán** daño "
 </details>
 
 
@@ -3342,12 +3342,12 @@ and
 
 y
 
-> "Un hombre pudo haber sido malvado en su vida pasada;  
-> Puede haberse alimentado de cualquier cosa (por impuro);  
-> Puede haber sido ingrato;  
-> Puede haber sido un escéptico;  
-> A pesar de todo eso, si él busca fervientemente la protección del Señor, quién es la causa del mundo,  
-> Sepa que ese hombre es impecable debido a la grandeza del Señor ",
+> "Un hombre **peudo haber** sido malvado en su vida pasada;  
+> **Puede haberse** alimentado de cualquier cosa (por impuro);  
+> **Puede haber sido** ingrato;  
+> **Puede haber sido** un escéptico;  
+> A pesar de todo eso, si él **busca** fervientemente la **protección** del Señor, quién es la causa del mundo,  
+> **Sepa** que ese hombre **es impecable** debido a la grandeza del Señor ",
 </details>
 
 
@@ -3401,11 +3401,11 @@ y
 
 <details><summary>Español</summary>
 
-> "En la mitad de un instante, un Jīva comete un pecado  
-> que no se puede expiar incluso en el curso de diez mil kalpas de Brahma  
-> Pero lo perdonas si solo renuncie a la idea de pecar (nuevamente),  
-> Aunque ha transgredido.  
-> ¡Qué maravilloso es esto! "
+> "En la mitad de un instante, un Jīva **comete** un pecado  
+> que **no se puede expiar** incluso en el curso de diez mil kalpas de Brahma  
+> Pero lo **perdonas** si solo **renuncie** a la idea de **pecar** (nuevamente),  
+> Aunque ha **transgredido**.  
+> ¡Qué maravilloso **es** esto! "
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3424,7 +3424,7 @@ y
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘**प्रवहत्य्** एव हि जले  
-> सेतुः **कार्यो** विजानता’’(वङ्गी-पुरत्तुनम्बिगारिगै ३१।) +++(5)+++
+> सेतुः+++(→बन्धः)+++ **कार्यो** विजानता’’(वङ्गी-पुरत्तुनम्बिगारिगै ३१।) +++(5)+++
 
 इति
 </details>
@@ -3440,8 +3440,8 @@ y
 
 <details><summary>Español</summary>
 
-> "El pasado ha pasado, ¿qué podemos hacer con respecto a él?  
-> El hombre sabio debería pensar en erigir la presa  
+> "El pasado ha pasado, ¿qué **podemos hacer** con respecto a él?  
+> El hombre sabio **debería pensar** en **erigir** la presa  
 > Incluso cuando el agua fluye ",
 </details>
 
@@ -3454,7 +3454,7 @@ y
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'माळुमोर्+++(=मुमूर्षताम्)+++ इडत्तिलुम् वणक्कॊडु माळ्वदु+++(=मरणम्)+++ वलमे+++(=वरम् एव)+++'  
+> 'माळुम्+++(=मरण)+++ ओर् इडत्तिलुम् +++(→क्षणे)+++ वणक्कॊडु +++(=नत्या→ प्रपत्त्या)+++ माळ्वदु+++(=मरणम्)+++ वलमे+++(=वरम्/ बलम् एव)+++'  
 > (तिरुवाय्मॊऴि १-३-८) 
 </details>
 
@@ -3471,7 +3471,7 @@ y
 
 <details><summary>Español</summary>
 
-> "Es bueno morir después de realizar Prapatti al Señor al menos en los momentos moribundos"
+> "Es bueno **morir** después de **realizar** Prapatti al Señor al menos en los momentos moribundos"
 </details>
 
 
@@ -3501,7 +3501,7 @@ the prapanna should not lament for what is past
 <details><summary>Español</summary>
 
 De acuerdo con este principio,  
-La Prapanna no debe lamentarse por lo que ha pasado  
+La Prapanna **no debe lamentarse** por lo que ha pasado  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3527,7 +3527,7 @@ and without running away at the thought of his past unfitness,
 
 <details><summary>Español</summary>
 
-y sin huir ante la idea de su inadecuación pasada,
+y sin **huir** ante la idea de su inadecuación pasada,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3544,13 +3544,13 @@ y sin huir ante la idea de su inadecuación pasada,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ-पर्यनुयोज्यम् आय् अनवधिकम् आऩ शरण्य-प्रभावत्तालेय्  
+अ-पर्यनुयोज्यम् आय् अनवधिकम् आऩ शरण्य-प्रभावत्तालेय् +++(→भाग्यतः)+++  
 इप्पोदु **पिऱन्द** योग्यतैयैक् **कण्डु**  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-अ-पर्यनुयोज्येनानवधिकेन शरण्य-प्रभावेनेदानीं **समुत्पन्नां योग्यतां वीक्ष्य**  
+अ-पर्यनुयोज्येनानवधिकेन शरण्य-प्रभावेनेदानीं +++(→भाग्यतः)+++ **समुत्पन्नां योग्यतां वीक्ष्य**  
 </details>
 
 
@@ -3563,9 +3563,9 @@ which brooks no questioning,
 
 <details><summary>Español</summary>
 
-Debería hacerse en forma para el futuro reflexionando sobre la aptitud actual  
-que ha resultado de la grandeza infinita del Salvador  
-que no merece cuestionar
+**Debería hacerse** en forma para el futuro **reflexionando** sobre la aptitud actual  
+que **ha resultado** de la grandeza infinita del Salvador  
+que **no merece cuestionar**
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3582,13 +3582,13 @@ que no merece cuestionar
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वरुगिऱ नीरुक् कणै+++(=सेतु??)+++ कोलुङ् कणक्किलेय्  
+वरुगिऱ नीरुक्क् अणै+++(=बन्धं)+++ कोलुङ् कणक्किलेय्  
 इव्व्-अवस्थैक्क् अनुरूपम् आऩ आज्ञाऽनुज्ञा**ऽनुवर्तनम् आगिऱ** **कैङ्कर्यानुभवत्तैय् इऴवादे**, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-प्रवहज्-जल-सेतु-बन्धन-न्यायेन एतद्-अवस्थाऽनुरूपम् आज्ञाऽनुज्ञाऽनुवर्तन-रूप-**कैङ्कर्यानुभवम् अ-हित्वा** +++(5)+++  
+प्रवहज्-जल-सेतु+++(→बन्ध)+++-बन्धन-न्यायेन एतद्-अवस्थाऽनुरूपम् आज्ञाऽनुज्ञाऽनुवर्तन-रूप-**कैङ्कर्यानुभवम् अ-हित्वा** +++(5)+++  
 </details>
 
 
@@ -3622,12 +3622,14 @@ que están en consonancia con su estado actual como Prapanna.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-'मुडियाऩेय्' इऱ्-पडिये **विडाय्त्त**+++(=श्रान्त)+++ करणङ्गळै **सात्त्विकाहार-सेवादिगळाले योग्यङ्गळ् आक्कि**  
+'मुडियाऩेय्' +++(=किरीटिन्)+++ इऱ्-पडिये  
++++(भगवद्-भोगे परस्-पर-विषय-काङ्क्षया)+++ **विडाय्त्त**+++(=तृषार्त्त)+++ करणङ्गळै **सात्त्विकाहार-सेवादिगळाले योग्यङ्गळ् आक्कि**  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-"किरीटिन्" इति दशकोक्तरीत्या **श्रान्तानि** करणानि सात्त्विकाहार-सेवादिभिर् **योग्यानि कृत्वा**  
+"किरीटिन्" इति दशकोक्तरीत्या  
++++(भगवद्-भोगे परस्-पर-विषय-काङ्क्षया)+++ **श्रान्तानि** करणानि सात्त्विकाहार-सेवादिभिर् **योग्यानि कृत्वा**  
 </details>
 
 
@@ -3641,9 +3643,9 @@ by means of pure food and service
 
 <details><summary>Español</summary>
 
-Como se describe (por el Alvar),  
-Los sentidos que se han cansado con las expectativas de disfrutar del Señor  
-debe ser adecuado (para disfrutarlo)  
+Como **se describe** (por el Alvar),  
+Los sentidos que **se han cansado** con las **expectativas** de **disfrutar** del Señor  
+**deben hacer adecuados** (para **disfrutarlo**)  
 por medio de la comida y el servicio puro  
 </details>
 
@@ -3655,7 +3657,15 @@ por medio de la comida y el servicio puro
 
 <details><summary>सार-बोधिनी</summary>
 
-इऩि इन्द्रियङ्गळै भगवदनुभवत्तिऱ्कु योग्य माक्कवेण्डुमॆऩ्गिऱार् मुडियाऩिल्बडिये इत्यादि । 'मुडियाऩे मूवुलगुम् तॊऴुदेऱ्ऱुम्' ऎऩ्गिऱ तिरुवाय्मॊऴियिल् सॊऩ्ऩबडिये, विडाय्त्त करणङ्गळै - इन्द तिरुवाय्मॊऴियिल् आऴ्वारुडैय करणङ्गळ् विडाय्त्त प्रकारत्तैच् चॊल्लुगिऱदु। 'ऎऩ्ऱु किडक्कुमॆऩ् नॆञ्जमे', 'ऎऩ्ऩुमॆप् पोदुमॆऩ्वासगमे', 'ऎऩ्ऱु तडवुमॆऩ्गण्गळे', 'उऩ्ऩै मॆय्क् कॊळ्ळक्काणविरुम्बुमॆऩ्गण्गळे', 'तिण्गॊळ्ळवोर्क्कुङ्गिडन्दॆऩ् सॆविगळे' इत्यादिगळाल्। 
+इऩि इन्द्रियङ्गळै भगवदनुभवत्तिऱ्कु योग्य माक्कवेण्डुमॆऩ्गिऱार् मुडियाऩिल्बडिये इत्यादि । 'मुडियाऩे मूवुलगुम् तॊऴुदेऱ्ऱुम्' ऎऩ्गिऱ तिरुवाय्मॊऴियिल् सॊऩ्ऩबडिये, विडाय्त्त करणङ्गळै - इन्द तिरुवाय्मॊऴियिल् आऴ्वारुडैय करणङ्गळ् विडाय्त्त प्रकारत्तैच् चॊल्लुगिऱदु। 
+
+> 'ऎऩ्ऱु किडक्कुमॆऩ् नॆञ्जमे',  
+'ऎऩ्ऩुमॆप् पोदुमॆऩ्वाचगमे',  
+'ऎऩ्ऱु तडवुम् ऎऩ् गण्गळे',  
+'उऩ्ऩै मॆय्क् कॊळ्ळक्काणविरुम्बुमॆऩ्गण्गळे',  
+'तिण्गॊळ्ळवोर्क्कुङ् गिडन्दॆऩ् सॆविगळे' 
+
+इत्यादिगळाल्। 
 </details>
 
 
@@ -3666,7 +3676,7 @@ por medio de la comida y el servicio puro
 
 <details><summary>नीलमेघः (सं)</summary>
 
-स्व-रूप--**प्राप्तेष्व् अनुभवेषु प्रवर्त्य**,  
+(स्व-रूप--)**प्राप्तेष्व् अनुभवेषु प्रवर्त्य**,  
 </details>
 
 <details><summary>English</summary>
@@ -3676,7 +3686,7 @@ and directed towards such (spiritual) experiences as are available
 
 <details><summary>Español</summary>
 
-y dirigidas hacia las experiencias (espirituales) que están disponibles
+y **dirigidas** hacia las experiencias (espirituales) que **están disponibles**
 </details>
 
 
@@ -3693,25 +3703,25 @@ y dirigidas hacia las experiencias (espirituales) que están disponibles
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अ-योग्य-विषयान्तरङ्गळिल् पट्टि-बुक्क-वासऩैगळै **माऱ्ऱु-विक्कवुम्**, 
+अ-योग्य-विषयान्तरङ्गळिल् +++(गोवत्)+++ पट्टि+++(=परिधि)+++-बुक्क वासऩैगळै +++(←न कर्ममात्रस्य)+++ **माऱ्ऱु-विक्कवुम्**, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-अ-योग्य-विषयान्तरेषु स्वरस-प्रवृत्त-वासनानां **परिवर्तनम्** - 
+अ-योग्य-विषयान्तरेषु +++(परिधि-गत-गोवत्)+++ (स्वरस)-प्रवृत्त-वासनानां +++(←न कर्ममात्रस्य)+++ **परिवर्तनम्** - 
 </details>
 
 
 <details><summary>English</summary>
 
 and turned away from the desire for unwholesome objects,  
-like cows that are turned away from stealthily eating the crops (sic).
+like cows that are turned away from stealthily eating the crops.
 </details>
 
 <details><summary>Español</summary>
 
-y alejado del deseo de objetos inútiles,  
-como vacas que se alejan de comer sigilosamente los cultivos (sic).
+y **alejado** del **deseo** de objetos inútiles,  
+como vacas que **se alejan de comer** sigilosamente los cultivos.
 </details>
 
 
@@ -3751,10 +3761,10 @@ as it could not be stopped whenever desired
 
 <details><summary>Español</summary>
 
-Cuando la gente espera el bote  
-para que (cruzara el arroyo) vaya a un lugar de su deseo,  
-Algunos de ellos pueden evitar jugar ajedrez u otro juego con apuestas,  
-ya que no se pudo detener cuando desee
+Cuando la gente **espera** el bote  
+para que (**cruzara** el arroyo) **vaya** a un lugar de su deseo,  
+Algunos de ellos **pueden evitar jugar** ajedrez u otro juego con apuestas,  
+ya que **no se pudo detener** cuando **desee**
 </details>
 
 
@@ -3794,7 +3804,7 @@ ya que no se pudo detener cuando desee
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेण्डिऩ मट्टिले तलैक्-कट्टुगैक्क् ईड् आऩ विहार-द्यूतत्तिलेय् इऴिन्दालुम्  
-द्यूत-शास्त्रत्तिऩ् बडिये अडि तप्पादे +++(द्यूत-)+++करुवि+++(=साधनम्)+++ वैक्कुमाप् पोले  
+द्यूत-शास्त्रत्तिऩ् बडिये अडि तप्पादे +++(द्यूत-)+++करुवि+++(=साधनम् →अक्षान्)+++ वैक्कुमाप् पोले  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -3814,11 +3824,11 @@ they move the pawns (on the board) in strict accordance with the rules of the ga
 
 <details><summary>Español</summary>
 
-pero puede participar en jugar el juego sin nada que arriesgar  
-para que puedan estar en condiciones de renunciar al juego (cuando haya llegado el bote).
+pero **puede participar** en **jugar** el **juego** sin nada que arriesgar  
+para que **puedan estar** en condiciones de **renunciar** al juego (cuando **haya llegado** el bote).
 
-Aunque juegan simplemente por el disfrute (y no por dinero),  
-Mueven los peones (en el tablero) en estricta conformidad con las reglas del juego.
+Aunque juegan simplemente por el **disfrute** (y no por dinero),  
+Mueven los peones (en el tablero) en **estricta** conformidad con las reglas del juego.
 </details>
 
 
@@ -3873,10 +3883,10 @@ in accordance with the specific time and place at which they are ordained for pe
 
 <details><summary>Español</summary>
 
-De la misma manera (aunque la Prapanna no espera ganancias)  
-Realiza con gusto los ritos comandados y permitidos por el gobernante supremo,  
-que son realmente servicios para el Señor,  
-de acuerdo con el tiempo y el lugar específicos en el que están ordenados para su rendimiento.
+De la misma manera (aunque la Prapanna **no espera** ganancias)  
+**Realiza** con gusto los ritos comandados y permitidos por el gobernante supremo,  
+que **son** realmente **servicios** para el Señor,  
+de **acuerdo** con el tiempo y el lugar específicos en el que **están ordenados** para su **rendimiento**.
 </details>
 
 
@@ -3896,15 +3906,15 @@ de acuerdo con el tiempo y el lugar específicos en el que están ordenados para
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पित्त-परिहारार्थम् आग क्षीर-सेवैप् पण्णुवारैप् पोल् अऩ्ऱिक्के  
-अ-यत्न-लब्धम् आऩ औषधत्ताले अ-विलम्बितम् आग आरोग्यम् **पॆऱ्ऱव्-अर्गळ्**  
-पाल् वार्त्त्+++(=परिपाल्य?)+++ उण्णुमाप् पोलेय् **उगन्दु+++(=प्रीत्या →स्वयम्-प्रयोजनतया)+++ पण्णवुम्**, 
++++(भाग्येन!)+++ अ-यत्न-लब्धम् आऩ औषधत्ताले अ-विलम्बितम् आग आरोग्यम् **पॆऱ्ऱव्-अर्गळ्**  
+पाल् वार्त्त्+++(=पातयित्वा ऽऽसृज्य)+++ उण्णुमाप् पोलेय् **उगन्दु+++(=प्रीत्या →स्वयम्-प्रयोजनतया)+++ पण्णवुम्**, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 पित्त-परिहारार्थ--क्षीर-सेवक-रीतिं **विहाय**   
-अ-यत्न-लब्धेनौषधेनाविलम्बितम् आरोग्यं **प्राप्तवन्तो**  
-यथा क्षीरं **परिप्लाय भुञ्जते**,  
++++(भाग्येन!)+++ अ-यत्न-लब्धेनौषधेनाविलम्बितम् आरोग्यं **प्राप्तवन्तो**  
+यथा क्षीरं +++(पातयित्वा ऽऽसृज्य)+++ **परिप्लाय भुञ्जते**,  
 तथा प्रीत्या+++(→स्वयम्-प्रयोजनतया)+++ **ऽनुष्ठानम्**, 
 </details>
 
@@ -3918,10 +3928,10 @@ and who drink milk with pleasure (not as a cure for disease ).
 
 <details><summary>Español</summary>
 
-(Al realizarlos), debe parecerse  
-No aquellos que beben leche para aliviar el exceso de Pitta ~~ Bile ~~,  
-Pero al igual que aquellos que se han vuelto bien y rápido con la ayuda de un medicamento  
-y que beben leche con placer (no como una cura para la enfermedad).
+(Al **realizarlos**), debe parecerse  
+No aquellos que **beben** leche para **aliviar** el exceso de Pitta ~~ Bile ~~,  
+Pero al igual que aquellos que **se han vuelto** bien y rápido con la **ayuda** de un medicamento  
+y que **beben** leche con placer (no como una cura para la enfermedad).
 </details>
 
 
@@ -3973,11 +3983,11 @@ he should do these acts ...
 <details><summary>Español</summary>
 
 Servicio a Arcā:  
-Mientras presta este servicio,  
-La Prapanna debería hacer los actos de servicio que estén en consonancia con  
+Mientras **presta** este servicio,  
+La Prapanna **debería hacer** los actos de servicio que **estén** en **consonancia** con  
 Las respectivas relaciones entre él y el Señor  
 y con la majestad suprema del Señor y la fácil accesibilidad;  
-Debería hacer estos actos ...
+**Debería hacer** estos actos ...
 </details>
 
 
@@ -4027,8 +4037,8 @@ Debería hacer estos actos ...
 
 <details><summary>Español</summary>
 
-> "El que cree en la forma eterna y la majestad suprema del Señor -  
-> Él, Oh Pouṣkara, se acerca el Señor ",+++(5)+++
+> "El que **cree** en la forma eterna y la majestad suprema del Señor -  
+> Él, Oh Pouṣkara, **se acerca** el Señor ",+++(5)+++
 </details>
 
 
@@ -4066,6 +4076,20 @@ Debería hacer estos actos ...
 इति
 </details>
 
+
+<details><summary>विषयः</summary>
+
+अर्चा, मूर्तिः, योग्यता
+</details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+> कुम्भाभिषेके वैष्णवालयेषु विशिष्य सदाचारशीलान् शिष्टान् आहूय स्पर्शयति स्मार्चक 
+
+इति लक्ष्मीनरसिंहार्यः। 
+</details>
+
+
 <details><summary>English</summary>
 
 > "In the same way as the water of the ocean taken up by the clouds and let fall (as rain )  
@@ -4076,10 +4100,10 @@ Debería hacer estos actos ...
 
 <details><summary>Español</summary>
 
-> "De la misma manera que el agua del océano tomada por las nubes y dejar que la caída (como la lluvia)  
-> se ponga en forma para ser disfrutado por todos,
-> Bhagavān cuya imagen ha sido instalada por devotos
-> se vuelve en forma para ser servido y disfrutado por otros ".
+> "De la misma manera que el agua del océano **tomada** por las nubes y **dejar** que la **caída** (como la lluvia)  
+> se ponga en forma para **ser disfrutado** por todos,
+> Bhagavān cuya imagen **ha sido instalada** por devotos
+> **se vuelve** en forma para ser **servido y disfrutado** por otros ".
 </details>
 
 <details><summary>मूलम्</summary>
