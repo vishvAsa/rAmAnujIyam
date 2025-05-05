@@ -7,15 +7,22 @@ unicode_script = "devanagari"
 
 [नाट्टेरि-बोधनम्](https://archive.org/details/natteri-guru-paramparA_tamiL) ।
 [रहस्यत्रयसारः](/rAmAnujIyam/tattvam/venkaTanAthaH/rahasya-traya-sAraH/sarva-prastutiH/1_arthAnushAsana-vibhAgaH/00_shrIguruparaMparAsAraH/) ।
+</details>
+
+<details><summary>रविलोचनाभिप्रायः</summary>
 
 GPPs themselves are very late and very suspect anyway. 
 
 - Only yatiraja vaibhavam of vaduga nambi seems to be really contemporary. 
-- Venkatachala itihasa mala is later day fraud.
+- Venkatachala itihasa mala is later day fraud- not written by anandanpillai.
 - Divyasuri carita seems to be actually the work of a later garuDa-vAhana pandita and not the contemporary of ramanuja.
+- Almost no GP text is pre 1323 except yatiraja vaibhavam by vaduga nambi. 
 
 Koyilozhuku cannot be taken too seriously beyond a limit - unless you can substantiate it with inscriptions. The kind of dates which it gives for Azhvars or even the first turushka invasion are untenable. It also leaves out several ket events which are referred to in the vijayanagar inscriptions (like visit of the vnagar emperors and their grants).
+
+(Comments on 3k-paDi - see that file.)
 </details>
+
 
 ## आचार्य-विभागः
 - समाश्रयण/पञ्च-संस्कार-दाता

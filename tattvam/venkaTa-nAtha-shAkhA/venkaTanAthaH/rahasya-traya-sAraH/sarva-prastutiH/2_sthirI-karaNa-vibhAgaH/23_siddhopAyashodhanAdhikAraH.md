@@ -4933,8 +4933,8 @@ upāyas para ser adoptado para **asegurar** su gracia.
 
 
 
-## साध्योपायावकाशः
-### साध्योपाय-विधिः
+### साध्योपायावकाशः
+#### साध्योपाय-विधिः
 <details><summary>English</summary>
 
 THE CONTENTION THAT THERE IS NO INJUNCTION TO PERFORM PRAPATTI AS AN UPĀYA:
@@ -5167,7 +5167,7 @@ quien **es** el upāya existente
 सिल अभियुक्तर् प्रपत्ति उपायमऩ्ऱॆऩ्ऱु सॊल्लुवदऱ्कु अभिप्रायमॆऩ्ऩॆऩ्ऩ वरुळिच्चॆय्गिऱार् आगैयालित्यादिना । अतिवादम् पण्णुगिऱदुवुमिति । इदऩाल् अवर्गळ् सॊल्लुगिऱदु अतिवादमे यॊऴिय वास्तवमऩ्ऱॆऩ्ऱु सूचितम्। इन्द अतिवादत्तुक्कुत्ताऩ् निमित्तमुण्डो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् सिद्धोपायत्तिऩुडैय प्रधान्यमडियागवित्तऩै इति । 
 </details>
 
-### साध्योपाय-पात्रम्
+#### साध्योपाय-पात्रम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6512,7 +6512,7 @@ también **tendrá que ser aceptado** (según **sea necesario**).
 
 इदऱ्कु परिहारम् पोऩ्ऱ इरण्डाम् पक्षत्तै अनुवदिक् किऱार् अप्पडिक्कण्डोमागिलुम् शास्त्रबलत्ताले इङ्गु सम्बन्धज्ञानमपेक्षितम् ऎऩ्ऩिलिति ।  
 अदै परिहरिक्किऱार् शास्त्रञ्जॊऩ्ऩ कट्टळैयिले ज्ञानविशेषम् स्वीकरिक्क वेणुमिति ।  
-‘‘मामेकं शरणं व्रज’’ ऎऩ्ऱु शास्त्रम् सॊऩ्ऩ विधयज्ञानमे रक्षणो-पायमॆऩ्ऱु अकामऩुम् स्वीकरिक्कवेणुमॆऩ्ऱु करुत्तु। 
+‘‘मामेकं शरणं व्रज’’ ऎऩ्ऱु शास्त्रम् सॊऩ्ऩ विधय-ज्ञानमे रक्षणोपायम् ऎऩ्ऱु अकामऩुम् स्वीकरिक्कवेणुमॆऩ्ऱु करुत्तु। 
 </details>
 
 
@@ -7930,7 +7930,7 @@ tanto en la primera parte del dvaya como en la segunda parte del dvaya.
 </details>
 
 
-## लक्ष्मी शरण्या प्राप्या च
+### लक्ष्मी शरण्या प्राप्या च
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8003,6 +8003,7 @@ por supuesto, por su naturaleza.
 
 वस्त्वनुरूपमायिऱे उपयोगमिरुप्पदु। 
 </details>
+
 
 
 ### उपायता
@@ -9291,6 +9292,14 @@ Ya **hemos declarado** que lo que **se entiende** de los pramāṇas
 कुऱैय् इल्लै।+++(4)+++ 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो यथा-प्रमाणं शरण्याभिप्राय-विशेषानुगुणं  
+विशिष्टस्योपेयत्ववत् विशिष्टस्योपायत्वेऽपि  
+न कश्चिद् दोषः ।  
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore, just as we accept the Lord with His Spouse, as the object of attainment  
@@ -9339,6 +9348,16 @@ No hay objeción al Señor, ya que su cónyuge también es el upāya.
 उपायैक्यत्तुक्कुक् कुऱैय् इल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[१९८]]  
+नारायण-शब्द--चरण-शब्द--प्रतिपादित-  
+गुण-विशेष--विग्रह-विशेषादि-विशिष्टस्यैकस्योपायत्ववत्  तुल्य-योग-क्षेम--श्रीमच्-छब्द--प्रतीत-  
+नित्य-पत्नी-संबन्ध-वैशिष्ट्ये ऽपि  
+उपायैक्यस्य न क्षतिः ।  
+</details>
+
+
 <details><summary>English</summary>
 
 Just as Bhagavān with particular qualities (like omnipotence and compassion) and particular forms (vigraha)  
@@ -9364,12 +9383,29 @@ en la relación eterna de **ser** su cónyuge,
 नारायणशब्दत्तिलुम् चरणशब्दत्तिलुन्दोऱ्ऱुगिऱ गुणविशेषविग्रह विशेषादिविशिष्टमाऩ एकम् उपायमाऩाऱ्पोले तुल्ययोगक्षेममाऩ श्रीमच्छब्दत्तिल् तोऱ्ऱिऩ नित्यपत्नीसम्बन्धविशिष्टमाऩालुमुपायैक्यत्तुक्कुक् कुऱैयिल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इप्पडि पिराट्टिक्कुम् उपायत्वत्तै ऒप्पुक्कॊण्डाल् ‘‘मामेकं शरणं’’ ऎऩ्ऱु सॊल्लुगिऱ उपायैक्यत्तिऱ्कु हानि वारादोवॆऩ्गिऱ शङ्गैयै दृष्टान्तप्रदर्शनत्ताले परिहरिक्किऱार् नारायणशब्दत्तिलुम् इत्य्-आदिना,   
+नित्य-पत्नी-सम्बन्ध-विशिष्टम् आऩालुम् उपायैक्यत्तुक्कुक् कुऱैयिल्लै इत्यन्तेन ।  
+ऎप्पडि नारशब्दत्तालुम् चरणशब्दत्तालुम् तोऱ्ऱिऩ गुण-विग्रहादिगळुडऩ् कूडिऩ नारायणऩ् ऒरुवऩे उपायमॆऩ्ऱाल् उपायैक्यत्तिऱ्कु हानि वारादो, अप्पडिये श्रीमच्छब्दत्तिल् विशेषणमागत् तोऱ्ऱिऩ श्रीयुडऩ् कूडिऩनारायणऩ् ऒरुवऩे उपायमॆऩ्ऱालुम् उपायैक्यत्तिऱ्कु हानि वारादॆऩ्ऱु करुत्तु।
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपाय-विशेषणङ्गळैय् ऎल्लाम् विट्टु  
-उपायत्तैये एकम् आक्क वेणुम् ऎऩ्ऩिल्;  
-उपायत्वमुम् विशेषणम् अऩ्ऱिक्के पोम्। 
+> उपाय-विशेषणङ्गळैय् ऎल्लाम् **विट्टु**  
+उपायत्तैये एकम् आक्क वेणुम् 
+
+ऎऩ्ऩिल्;  
+उपायत्वमुम् विशेषणम् अऩ्ऱिक्के पोम्  +++(इत्य् अनिष्टो निर्विशेषत्व-प्रसङ्गः)+++। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> उपाय-विशेषणानि सर्वाणि हित्वोपायस्यैकत्वं संपादनीयम् 
+
+इति चेत् उपायत्वम् अपि विशेषणं न भवेत् +++(इत्य् अनिष्टो निर्विशेषत्व-प्रसङ्गः)+++। 
 </details>
 
 <details><summary>English</summary>
@@ -9389,6 +9425,19 @@ El dharma de **ser** un upāya (es decir, upāyatva) también **tendrá que renu
 उपायविशेषणङ्गळैयॆल्लाम् विट्टु उपायत्तैये एकमाक्कवेणुमॆऩ्ऩिल्; उपायत्वमुम् विशेषणमऩ्ऱिक्केबोम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+दृष्टान्तत्तिलो, दार्ष्टान्तिकत्तिलो, उपायत्तिऱ्कु ऒरु विशेषणमिरुन्दाल् उपायैक्यम् घटियातॆऩ्ऱाल् अनिष्टमरुळिच्चॆय्गिऱार् उपायविशेषणङ्गळैयॆल्लाम् विट्टु इति । उपायत्वमुम् विशेषणमऩ्ऱिक्केबोमिति । 
+
+‘‘मामेकं शरणम्’’  ऎऩ्गिऱव् इडत्तिल्  
+प्रतिपन्नम् आऩ उपायत्वमुम्  
+उपाय-विशेषणम् आग मुडिगैयाल्  
+अदैयुं विट्टु  
+निर्विशेषमे  उपायमॆऩ्ऩप् प्रसङ्गिक्कुम्  
+ऎऩ्ऱु करुत्तु। 
+</details>
+
+
 ### न विष्णु-वैगुण्योक्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -9398,6 +9447,14 @@ El dharma de **ser** un upāya (es decir, upāyatva) también **tendrá que renu
 
 ऎऩ्ऱु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"विशेषण-प्रयुक्तेन  
+विशेष्यय् उपनमतोत्कर्षेण  
+विशेष्यस्य वैगुण्यादिकं न भवती"ति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9417,6 +9474,12 @@ should be considered as previously wanting in some excellence.
 विशेषणप्रयुक्तमाय् विशेष्यत्तुक्कु वरुमेऱ्ऱत्ताल् विशेष्यत्तुक्कु वैगुण्यादिगळ् वारादॆऩ्ऱु 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+विशेषणसम्बन्धत्ताल् विशेष्यत्तिऱ्कु एऱ्ऱ मुण्डाऩाल् विशेष्यत्तिऱ्कु गुणहानियुम्, स्वातन्त्र्यादिहानियुम् वारादॆऩ्बदै अभियुक्तर् ‘‘स्वतःश्रीः’’ ऎऩ्गिऱ श्लोकत्ताल् निर्णयित्तारॆऩ्गिऱार् विशेषणप्रयुक्तमाय् इत्यादिना । 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9427,8 +9490,19 @@ should be considered as previously wanting in some excellence.
 (श्री-गुण-रत्न-कोशः ३१) 
 
 ऎऩ्गिऱ श्लोकत्तिले निर्णयिक्कप्पट्टदु। 
-
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> +++(निरुपाधिक-स्वभावतया→)+++ स्वतः श्रीस् त्वं विष्णोः स्वम् **असि**, +++(स्व-वस्तु-स्थ-र्द्धेः→)+++ तत एवैष भगवान्,  
+त्वद्-**आयत्त-र्द्धित्वे** ऽप्य् अ-भवद् **अ-पराधीन**-विभवः ।   
+स्वया **दीप्त्या** रत्नम् भवद् अपि महार्घं **न विगुणं**  
+**न कुण्ठ**-स्वातन्त्र्यम् भवति, च **न चान्याहित**-गुणम् ॥ ३१ ॥  
+(श्री-गुण-रत्न-कोशः ३१) 
+
+इत्यस्मिन् श्लोके निरणायि । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9462,6 +9536,11 @@ Bueno, **se ha dicho** en el Śloka:-
 ५४‘‘स्वतःश्रीस्त्वं विष्णोस्स्वमसि तत एवैष भगवान् त्वदायत्तर्द्धित्वेऽप्यभवदपराधीनविभवः । स्वया दीप्त्या रत्नं भवदपि महार्घं न विगुणं न कुण्ठस्वातन्त्र्यं भवति च न चान्याहितगुणम्’’(श्री-गुण-रत्न-कोशः ३१) ऎऩ्गिऱ श्लोकत्तिले निर्णयिक्कप्पट्टदु। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इत्थं लक्ष्मीस्वरूपमनुसन्धाय स्वरूपाश्रितान् दिव्यमङ्गलविग्रहा-श्रितांश्च कल्याणगुणान्विवक्षुः प्रथमं श्रीश्रीशयोस्साधारणगुणाननु-सन्धत्ते –
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9477,10 +9556,34 @@ Bueno, **se ha dicho** en el Śloka:-
 
 <details><summary>नीलमेघः (सं)</summary>
 
+विशेषणेन विशेष्यस्य जायमानो ऽतिशय इव  
+विशेष्यस्य स्वरूपानुबन्धी +अतिशयोऽपि,  
+
 > ५५‘‘अनन्या राघवेणाहं  
 > भास्करेण प्रभा यथा’’  
 > (रामायणम् सुन्दरकाण्डम् २१-१५) 
 
+इति दृष्टान्तानुसारेण दृष्टव्यः । 
+</details>
+
+<details><summary>English</summary>
+
+In the same way as the substantive, (namely, Bhagavān) gains excellence from its attribute (viśeṣaṇa), namely, Lakṣmī ,  
+the substantive, too, has its own natural excellence.  
+This is illustrated in the śloka  in the Rāmāyana :-
+
+> "Just as radiance cannot be separated from the sun,  
+> I cannot remain separated from Raghava". 
+</details>
+
+<details><summary>Español</summary>
+
+De la misma manera que el sustantivo, (a saber, Bhagavān) **gana** excelencia de su atributo (viśeṣaṇa), a saber, lakṣmī,  
+El sustantivo también **tiene** su propia excelencia natural.  
+Esto **se ilustra** en el Śloka en el Rāmāyana:-
+
+> "Así como el **resplandor no se puede separar** del sol,  
+> **No puedo permanecer separado** de Raghava ".
 </details>
 
 
@@ -9489,17 +9592,831 @@ Bueno, **se ha dicho** en el Śloka:-
 विशेषणत्ताल् विशेष्यत्तुक्कु वरुम् अतिशयम् पोले विशेष्यत्तुक्कु स्वरूपानुबन्धियाऩ अतिशयमुम् ५५‘‘अनन्या राघवेणाहं भास्करेण प्रभा यथा’’(रामायणम् सुन्दरकाण्डम् २१-१५) ऎऩ्गिऱ दृष्टान्तत्तिले काणलाम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि भगवाऩुक्कु विशेषणत्ताल् वन्द अतिशयमेयॊऴिय स्वरूपप्रयुक्तमाऩ अतिशयमिल्लैयो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् विशेषणत्ताल् विशेष्यत्तुक्कु इत्यादिना । 
+
+अनन्येति । भास्करेण – भाः करोतीति भास्करः, स्वरूपत एवातिशयितप्रकाशजनकः, तन, प्रभा - प्रकाशभूता प्रभा, यथा – ऎप्पडि, अनन्या – अपृथक्सिद्धमागिऱदो, अप्पडिये अहं - नाऩ् राघवेण – अतिशयित-प्रभावऩाऩ रामऩोडे, अनन्या – न विद्यत अन्यः आश्रयः यस्याः सा । अपृथक्सिद्धैयॆऩ्ऱबडि। दृष्टान्तत्तिले काणलामिति । दृष्टान्तत्तिल् सूर्यऩुक्कु स्वरूपप्रयुक्तमाऩ प्रकाशम् काणप् पडुगिऱाप्पोले राघवऩुक्कुम् स्वरूपाधीनातिशयम् सिद्धमामॆऩ्ऱबडि।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भास्करऩुक्कुम् प्रभैक्कुम् स्वतस्-सिद्धम् आऩ तेजस्त्वम् बोले+++(5)+++  
+इरुवर्क्कुम्  
+
+> ५६‘‘अनन्याधीन-कल्याणं’’(लक्ष्मीकल्याणम्) 
+
+ऎऩ्गिऱ बडिये  
+स्वभाव-सिद्ध-कल्याणतैयाले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भास्करस्य प्रभायाश् च स्वतः-सिद्ध-तेजस्त्ववत् +++(5)+++  
+उभयोर् अपि 
+
+> ५६‘‘अनन्याधीन-कल्याणं’’(लक्ष्मीकल्याणम्) 
+
+इत्य्-उक्त-रीत्या स्व-भाव--सिद्ध-कल्याणत्वात् 
+</details>
 
 
-In the same way as the substantive, (namely, Bhagavān) gains excellence from its attribute (viśeṣaṇa), namely, Lakṣmī , the substantive, too, has its own natural excellence. This is illustrated in the śloka  in the Rāmāyana :-"Just as radiance cannot be separated from the sun, I cannot remain separated from Raghava". Brightness is the natural quality common to radiance and the sun. So also ŚrīRāma and Sītā had, in common, auspicious qualities not dependent on any one else, as described in the śloka  :-"We bow to "Bhagavān and Lakṣmī , who have in their very nature, all auspicious qualities, who are the causes of the world and who are beyond all comparison".
+<details><summary>English</summary>
 
-There is nothing improper in stating that the substantive and the attribute give excellence to each other as indicated in the following: "That splendour which is ŚrīRāma is beyond all measure, for the daughter of Janaka is His". "Though she is always with Thee, Thy Lakṣmī  astonishes Thee every day as if she is new; she is in every way fit for Thee by her attributes, her forms, her sportful activity and her interest in protecting others". “Thy Śrī”  “Thou art the Śrī of Śrī" and "The Śrī of even Śrī" - these expressions show how Śrī and the Lord of Śrī are excellent in themselves and add also to each other's greatness.
+Brightness is the natural quality common to radiance and the sun.  
 
-By the authority of texts in the śruti  (such as "He is the Lord of the Universe", "The Spouse of Viṣṇu  who is the empress of the world", and "The syllable ma indicates that the jīva is the servant of both"), and by the authority of the following śloka , "The world of sentient and non-sentient beings is śeṣa to Lakṣmī , (i.e.) it exists for Lakṣmī : She and the world are śeṣa to Bhagavān, who is Her śeṣī . Notwithstanding this, the control of the world is common to both: the two together are śeṣī , in relation to the world". By these authorities it was determined by Somasi Andan in Shadarthasamkṣepa, that both form always a single śeṣī. In the case of certain special offerings (havis) enjoined in the Karmakāṇḍa, the offering is made to two deities like Agni and Viṣṇu as if they were single. So also in this offering of the soul called prapatti, the two may, without any impropriety, be the single recipient. As stated in the śloka, "Youth and certain other qualities are common to Thee and Bhagavān; however you have divided other qualities between you for your enjoyment and (that in this way) :- Bhagavān has manly qualities like independence of others, control over enemies, firmness and the like and Thou hast such feminine qualities as gentleness, existing only for the husband, compassion and forbearance"; the wife is ever dependent on her Lord and in the performance of yajnas or sacrifices, only the yajamāna is spoken of (as his wife who participates in the performance is implicit, as it were, in the word yajamāna, even when one yajamana is referred to). So also in regard to the teaching of the śāstras, the mention of a single person does not mean the absence of the wife who is, as it were, inseparable from her spouse. In the verse :-- "Bhakti  and prapatti are forms of knowledge which have, for their object, only Bhagavān, the Lord of Lakṣmī , who abides in the lotus and as also the knowledge called the perfect enjoyment of Brahman has only Him for its object" - in this verse this is really the meaning, viz., that Lakṣmī , being included in Bhagavān, no separate mention is made of her. This may be seen also in the passage: "Since Thousand Bhagavān are thus inseparably united, the śruti does not speak of Thee separately".
+So also Śrī Rāma and Sītā had, in common, auspicious qualities not dependent on any one else,  
+as described in the śloka  :-
 
-Nanjeeyar heard, from Kadambi Achan, what the author of Śrī Bhāṣyam had declared and summarised it thus:-"In places where Bhagavān is referred to, it should be understood that Lakṣmī  is also referred to".
+> "We bow to Bhagavān and Lakṣmī,  
+who have in their very nature, all auspicious qualities, who are the causes of the world  
+and who are beyond all comparison".
+</details>
 
-Those whose object is only mokṣa  and who have no other aim, or interest, worship Lakṣmī  in her situation as laya (on the chest of Bhagavān) and as bloga in the image of the spouse standing by the image of Bhagavān. But just as we bow before certain images of Bhagavān (like Santānakṛṣṇa), which bestow primarily the benefits desired in this world, there is, for even mumukṣus, no impropriety in such actions as bowing before the image of Lakṣmī  installed in a separate shrine and worshipped for certain worldly benefits (adhikaarārchā), just as we should bow before our mothers, since in all images of Lakṣmī  (wherever they may be) her being the Spouse of Viṣṇu  is an established fact.
+<details><summary>Español</summary>
+
+El brillo **es** la calidad natural común a la radiación y al sol.
+
+Así también Śrī Rāma y Sītā **tenían**, en común, cualidades auspiciosas **no dependientes** de nadie más,  
+Como **se describe** en el Śloka:-
+
+> "**Nos inclinamos** ante Bhagavān y Lakṣmī,  
+que **tienen** en su propia naturaleza, todas las cualidades auspiciosas,  
+que **son** las causas del mundo  
+y que **están** más allá de toda comparación ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+भास्करऩुक्कुम् प्रभैक्कुम् स्वतस्सिद्धमाऩ तेजस्त्वम्बोले इरुवर्क्कुम् ५६‘‘अनन्याधीनकल्याणं’’(लक्ष्मी-कल्याणम्) ऎऩ्गिऱबडिये स्वभावसिद्धकल्याणतैयाले 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि पॆरुमाळुम् पिराट्टियुम् स्वतस्सिद्धातिशयर्गळागिल् अवर्गळै परस्परमतिशयावहर्गळाग निर्दशित्तिरुप्पदऱ्कु निमित्तमॆऩ्ऩ वॆऩ्ऩ वरुळिच्चॆय्गिऱार् भास्करऩुक्कुम् प्रभैक्कुम् स्वतस्सिद्धमाऩ तेजस्त्वम्बोले इत्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ५७ ‘‘अ-प्रमेयं हि तत् तेजो  
+यस्य सा जनकात्मजा’’  
+(रामायणम् आरण्यकाण्डम् ३७-१८) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ५७ ‘‘अ-प्रमेयं हि तत् तेजो  
+यस्य सा जनकात्मजा’’  
+(रामायणम् आरण्यकाण्डम् ३७-१८) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+as indicated in the following: 
+
+> "That splendour which is Śrī Rāma is beyond all measure,  
+> for the daughter of Janaka is His". 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se indica** en lo siguiente:
+
+> "Ese esplendor que **es** Śrī Rāma  
+> **está** más allá de toda medida,
+> Porque la hija de Janaka **es** suya ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+५७‘‘अप्रमेयं हि तत्तेजो यस्य सा जनकात्मजा’’(रामायणम् आरण्यकाण्डम् ३७-१८) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अप्रमेयं हीति । तत्तेजः - अन्द रामऩागिऱ तेजस्साऩदु, अप्रमेयं हि - अळविडमुडियाद माहात्म्यमुडैयदऩ्ऱो, सा जनकात्मजा यस्य – सर्वोत्कृष्टैयाऩ जनकपुत्रियाऩवळ् ऎवऩुक्कु शेषभूतैयो, इदऩाल् विशेष्यत्तिऱ्कु विशेषणाधीनातिशयम् सॊल्लप्पट्टदु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+५८‘‘तव श्रिया’’(आळवन्दार् स्तोत्रम् ३८) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> (स्व-वैश्वरूप्येण सदा **ऽनुभूतया**  
+ऽप्य् अ-पूर्ववद् **विस्मयम् आदधानया** ।  
+गुणेन रूपेण विलास-**चेष्टितैस्**  
+सदा तवैवोचितया) तव श्रिया॥ (आळवन्दार् स्तोत्रम् ३८) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> (स्व-वैश्वरूप्येण सदा **ऽनुभूतया**  
+ऽप्य् अ-पूर्ववद् **विस्मयम् आदधानया** ।  
+गुणेन रूपेण विलास-**चेष्टितैस्**  
+सदा तवैवोचितया) तव श्रिया॥ (आळवन्दार् स्तोत्रम् ३८) 
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+> "Though she is always with Thee,  
+> Thy Lakṣmī astonishes Thee every day as if she is new;  
+> she is in every way fit for Thee by her attributes,  
+> her forms, her sportful activity and her interest in protecting others". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Aunque ella siempre **está** contigo,  
+> Tu lakṣmī **te sorprende** todos los días como si **fuera** nueva;  
+> Ella **está** en todos los sentidos **apta** para ti por sus atributos,  
+> Sus formas, su **actividad deportiva** y su interés en **proteger** a los demás ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+५८‘‘तव श्रिया’’(आळवन्दार् स्तोत्रम् ३८) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+‘‘तव श्रिया’’ ऎऩ्बदाल् विशेषणत्तिऱ्कु विशेष्यातिशयावहत्वम् सॊल्लित्तायिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ५९’’उऩ् तिरुव्’’  
+(पॆरियाऴ्वार् तिरुमॊऴि १०-१०-२)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"तव श्रीः” इति, 
+</details>
+
+
+<details><summary>English</summary>
+
+> “Thy Śrī”  
+</details>
+
+<details><summary>Español</summary>
+
+> "Tu Śrī"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+५९’’उऩ् तिरु’’(पॆरियाऴ्वार् तिरुमॊऴि १०-१०-२) वॆऩ्ऱुम्, 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+’’उऩ् तिरु’’ ऎऩ्बदालुम् अप्पडिये। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘श्रियःश्रीः’’(श्री-गुण-रत्न-कोशः ९) +++(5)+++
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘श्रियःश्रीः’’(श्री-गुण-रत्न-कोशः ९) +++(5)+++
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+> “Thou art the Śrī of Śrī" 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Eres** la Śrī de Śrī"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘श्रियःश्रीः’’(श्री-गुण-रत्न-कोशः ९) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+‘‘श्रियः श्रीः’’ ऎऩ्गिऱविडत्तिलुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६१’’तिरुवुक्कुन् तिरुव्’’(पॆरियाऴ्वार् तिरुमॊऴि ७-७-१)  
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+“श्रिया अपि श्रीभूत" इति 
+</details>
+
+
+<details><summary>English</summary>
+
+and 
+
+> "The Śrī of even Śrī" 
+
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "El śrī de incluso Śrī"
+</details>
+
+<details><summary>मूलम्</summary>
+
+६१’’तिरुवुक्कुन्दिरुव्’’(पॆरियाऴ्वार् तिरुमॊऴि ७-७-१)  ऎऩ्ऱुम् 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+’’तिरुवुक्कुम् तिरु’’ वॆऩ्गिऱविडत्तिलुम्  
+विशेषणत्तुक्कु विशेष्याधीनातिशयम् निर्दिष्टम् आयिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्योन्यातिशयावहङ्गळ् आग  
+विशेषण-विशेष्यङ्गळै निर्देशिक्किऱदऱ्कुङ् गुऱैयिल्लै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+चान्योन्यातिशयावहयोर् विशेषण-विशेष्ययोर् निर्देशस्य न दोषः । 
+</details>
+
+
+<details><summary>English</summary>
+
+\- these expressions show how Śrī and the Lord of Śrī  
+are excellent in themselves  
+and add also to each other's greatness.
+
+There is nothing improper in stating that the substantive and the attribute give excellence to each other. 
+</details>
+
+<details><summary>Español</summary>
+
+\- Estas expresiones **muestran** cómo Śrī y el Señor de Śrī  
+**son** excelentes en sí mismos  
+y **agregar** también a la grandeza del otro.
+
+**No hay nada inadecuado en afirmar** que lo sustantivo y el atributo **se dan** excelencia entre sí.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्योन्यातिशयावहङ्गळाग विशेषणविशेष्यङ्गळै निर्देशिक्किऱदऱ्कुङ् गुऱैयिल्लै। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अन्योन्याति शयावहङ्गळाग विशेषणविशेष्यङ्गळै निर्देशिक्किऱदऱ्कुम् कुऱैयिल्लै इति । स्वतस्सिद्धातिशयङ्गळाऩ वस्तुक्कळुक्कुम् धर्मधर्मिभावत्ताले परस्परातिशयावहत्वमुम् प्रामाणिकमॆऩ्ऱु करुत्तु। 
+</details>
+
+### उपेयता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रुति-बलत्ताले, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रुतिबलेन 
+</details>
+
+<details><summary>English</summary>
+
+By the authority of texts in the śruti  
+(such as "He is the Lord of the Universe",  
+"The Spouse of Viṣṇu  who is the empress of the world",  
+and "The syllable ma indicates that  
+the jīva is the servant of both"), 
+</details>
+
+<details><summary>Español</summary>
+
+Por la autoridad de los textos en el Śruti  
+(como "Él **es** el Señor del Universo",  
+"El cónyuge de Viṣṇu que **es** la emperatriz del mundo",  
+y "la sílaba ma **indica** que  
+El Jīva **es** el **sirviente** de ambos "),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रुतिबलत्ताले
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+> ऎप्पडिय् आऩालुम्  
+विशेष्यान्वयि-क्रियान्वयित्व-रूप-विशेषणत्वम्  
+पिराट्टिक्कुक् कूडुमो?  
+आत्म-हविस्-समर्पण-रूप-क्रियैक्कु  
+श्रीमाऩ् आऩ नारायणऩ् उद्देश्यऩ् आऩालुम्,  
+विशेषणम् आऩ श्रीक्कु तद्-उद्देश्यत्वम् सॊल्ललामो 
+
+ऎऩ्ऩ  
+अदऱ्कुम् कुऱैयिल्लैय् ऎऩ्गिऱार्  
+श्रुतिबलत्ताले इत्यादिना ।  
+
+> ‘‘पतिं विश्वस्य’’, +++(इति नारायणेश्वरत्वम्)+++  
+
+> ‘‘अस्येशाना जगतो विष्णुपत्नी’’,  
+
+> ‘‘अकारेणोच्यते विष्णुः,  
+सर्वलोकेश्वरो हरिः ।  
+उद्धृता विष्णुना लक्ष्मीर्  
+उकारेणोच्यते तथा ॥  
+मकारस् तु तयोर् दास  
+इति प्रणव-लक्षणम्।’’ 
+
+ऎऩ्ऱु इरुवरुक्कुम् शेषित्वम् सॊल्लुगिऱ श्रुतिबलत्ताले ऎऩ्ऱबडि। 
+
+इदु ऎऩ्गिऱ पडिये ऎऩ्बदिलुम्,  
+निष्कर्षित्त बडिये ऎऩ्बदिलुम् अन्वयिक्किऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘(लक्ष्म्यास् समस्त-चिद्--अ-चित्--प्रपञ्चो  
+**व्याप्यस्**, तद् ईशस्य तु सापि सर्वं ।  
+तथापि साधारणम् ईशितृत्वं  
+श्री-श्रीशयोर्,) द्वौ च सदैक-शेषी ॥’’  
+(सात्त्वतम्) 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘(लक्ष्म्यास् समस्त-चिद्--अ-चित्--प्रपञ्चो  
+**व्याप्यस्**, तद् ईशस्य तु सापि सर्वं ।  
+तथापि साधारणम् ईशितृत्वं  
+श्री-श्रीशयोर्,) द्वौ च सदैक-शेषी ॥’’  
+(सात्त्वतम्) 
+
+इत्य्-उक्त-प्रकारेण
+</details>
+
+
+<details><summary>English</summary>
+
+and by the authority of the following śloka ,  
+
+> "The world of sentient and non-sentient beings is śeṣa to Lakṣmī , (i.e.)  
+it exists for Lakṣmī :  
+She and the world are śeṣa to Bhagavān,  
+who is Her śeṣī .  
+Notwithstanding this, the control of the world is common to both:  
+the two together are śeṣī ,  
+in relation to the world". 
+</details>
+
+<details><summary>Español</summary>
+
+y por la autoridad de los siguientes Śloka,
+
+> "El mundo de los seres sensibles y no sensibles **es Śeṣa** a Lakṣmī, (es decir)  
+**Existe** para Lakṣmī:  
+Ella y el mundo **son** Śeṣa a Bhagavān,  
+quien **es** su Śeṣī.  
+A **pesar** de esto, el **control** del mundo **es** común a ambos:  
+Los dos juntos **son** Śeṣī,
+en relación con el mundo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ‘‘द्वौ च सदैकशेषी’’(सात्त्वतम्) 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+द्वौ च सदैकशेषीति ।  
+
+> ‘‘लक्ष्म्यास् समस्त-चिद्--अ-चित्--प्रपञ्चो  
+**व्याप्यस्**, तद् ईशस्य तु सापि सर्वं ।  
+तथापि साधारणम् ईशितृत्वं  
+श्री-श्रीशयोर्, द्वौ च सदैक-शेषी ॥’’ 
+
+ऎऩ्बदु भगवच्छास्त्र वचनम्। द्वौ च – लक्ष्मीनारायणर्गळिरुवरुम्, सदा – सर्वावस्थैयिलुम्, उपाय दशैयिलुम् उपेयदशैयिलुमॆऩ्ऱबडि। एकशेषी – एकञ्च तत् शेषि च एकशेषी । सामान्य नपुंसकम्। इङ्गु एकशब्दम् शेषिविशेषणमाऩालुम् एकत्वं, परमसुन्दरमित्यादौ सौन्दर्यत्तिल् पारम्यमन्वयिप्पदुबोल् शेषित्वत्तिले अन्वयिक्किऱदु। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘उभयाधिष्ठानञ् चैकं शेषित्वं’’   
+(षडर्थसंक्षेपः)  
+
+ऎऩ्ऱुम् सोमाशिय्-आण्डाऩ् षड्-अर्थ-संक्षेपत्तिल् निष्कर्षित्त बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘उभयाधिष्ठानञ् चैकं शेषित्वं’’   
+(षडर्थसंक्षेपः)  
+
+इति (सोमाशिय्-आण्डान्/) श्री-राम-मिश्रेण  षड्-अर्थ-संक्षेपे निष्कृष्ट-रीत्या
+</details>
+
+
+<details><summary>English</summary>
+
+By these authorities it was determined by Somasi Andan in Shadarthasamkṣepa,  
+that both form always a single śeṣī. 
+</details>
+
+<details><summary>Español</summary>
+
+Por estas autoridades **fue determinado** por Somasi Andan en Shadarthasamkṣepa,  
+que ambos **forman** siempre un solo Śeṣī.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘उभयाधिष्ठानञ्चैकं शेषित्वं’’(षडर्थसंक्षेपम्) ऎऩ्ऱुम् सोमासियाण्डाऩ् षडर्थसंक्षेपत्तिल् निष्कर्षित्तबडिये 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+एकशेषित्वाश्रयौ ऎऩ्ऱबडि। उभयाधिष्ठानञ्चैकं शेषित्वमिति । जगन्निरूपितशेषित्वम् एकमेव द्वित्वादिवद्व्यासज्यवृत्ति तया उभयाश्रितमॆऩ्ऱबडि। षडर्थसङ्क्षेपमॆऩ्बदु ऒरु ग्रन्थविशेषम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इरुवरुम् एक-शेषित्वाश्रयम् आऩ बडियाले  
+हविर्-विशेषङ्गळिले अग्ना-विष्णु-प्रभृतिकळुक्कुप् पोले  
+आत्म-हविस्-समर्पण-प्रतिसम्बन्धिगळ् आगक् कुऱैयिल्लै।+++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उभयोर् अपि +एक-शेषित्वाश्रयत्वात्  
+हविर्-विशेषेषु अग्ना-विष्णु-प्रभृतीनाम् इव  
+आत्म-समर्पण-प्रतिसम्बन्धि-भावस्य नानुपपन्नत्वम् । 
+</details>
+
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+एवं निष्कर्षितुं समर्थस्य शिष्यसन्ततिर्  
+अर्वाचीन-काले पुरोडाश-यजन-स्थाने bread-पुरोडाश-विक्रयादि-रता  
+इति स्मृतिपथम् आयाति केनचिद् उक्तं हास्यवचनम्। 
+</details>
+
+<details><summary>English</summary>
+
+In the case of certain special offerings (havis) enjoined in the Karmakāṇḍa,  
+the offering is made to two deities like Agni and Viṣṇu as if they were single. 
+So also in this offering of the soul called prapatti,  
+the two may, without any impropriety, be the single recipient.  
+</details>
+
+<details><summary>Español</summary>
+
+En el caso de ciertas **ofrendas** especiales (havis) **ordenadas** en el karmakāṇḍa,  
+La **ofrenda se realiza** a dos deidades como Agni y Viṣṇu como **si estuvieran** solteras.  
+Así también en esta oferta del alma **llamada** Prapatti,  
+Los dos **pueden**, sin incorrección, **ser** el **receptor** único.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इरुवरु मेकशेषित्वाश्रयमाऩबडियाले हविर्विशेषङ्गळिले अग्नाविष्णुप्रभृतिकळुक्कुप् पोले आत्महविस्समर्पणप्रतिसम्बन्धिकळागक् कुऱैयिल्लै।
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इरुवरुम् एकशेषित्वाश्रयमाऩ पडियाले इति । हविर्विशेषङ्गळिले अग्नाविष्णुप्रभृतिकळुक्कुप्पोले इति । अग्निक्कु 
+प्रमाणान्तरत्तिल् विष्णुशेषत्वम् प्रतिपन्नमायिरुन्दालुम् ‘‘आग्नावैष्णवमेकादशकपालं निर्वपेत्’’ ऎऩ्गिऱ श्रुतिविहितमाऩ यागत्तिऩुडैय हविर्विशेषत्तिले अग्निक्कुम् विष्णुविऱ्कुम् व्यासज्यवृत्तियाऩ एकमाऩ उद्देश्यत्वमिरुप्पदुबोलॆऩ्ऱबडि। आत्महविस्समर्पणप्रतिसम्बन्धिकळागक् कुऱैयिल्लै इति । जीवात्मनिरूपितोभयनिष्ठशेषित्वमे उद्देश्यत्वरूपमागैयाले इरण्डुबेर्गळिडत्तिलुम् जीवात्मरूपहविस्समर्पणप्रतिसम्बन्धित्वत्तिऱ्कुक्कुऱैयिल्लै यॆऩ्ऱबडि। 
+</details>
+
+#### एकत्व-व्यपदेशः
+##### गुण-विभागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> युवत्वादौ तुल्येऽप्य् अ--पर-वशता--शत्रु-शमन-  
+स्थिरत्वादीन् **कृत्वा भगवति** गुणान् पुंस्त्व-सु-लभान् ।  
+त्वयि स्त्रीत्वैकान्तान् म्रदिम--पति-पारार्थ्य--करुणा-  
+क्षमादीन् वा **भोक्तुम् भवति** युवयोर् आत्मनि भिदा ॥  
+(श्री-गुण-रत्न-कोशः ३४) 
+
+ऎऩ्गिऱबडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> युवत्वादौ तुल्येऽप्य् अ--पर-वशता--शत्रु-शमन-  
+स्थिरत्वादीन् **कृत्वा भगवति** गुणान् पुंस्त्व-सु-लभान् ।  
+त्वयि स्त्रीत्वैकान्तान् म्रदिम--पति-पारार्थ्य--करुणा-  
+क्षमादीन् वा **भोक्तुम् भवति** युवयोर् आत्मनि भिदा ॥  
+(श्री-गुण-रत्न-कोशः ३४) 
+
+इत्य्-उक्त-रीत्या
+</details>
+
+<details><summary>English</summary>
+
+As stated in the śloka, 
+
+> "Youth and certain other qualities are common to Thee and Bhagavān;  
+however you have divided other qualities between you for your enjoyment and (that in this way) :-  
+Bhagavān has manly qualities like independence of others, control over enemies, firmness and the like  
+and Thou hast such feminine qualities as gentleness, existing only for the husband, compassion and forbearance"; 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se indica** en el Śloka,
+
+> "Los jóvenes y ciertas otras cualidades **son** comunes para ti y Bhagavān;  
+Sin embargo, ha **dividido** otras cualidades entre usted para su **disfrute** y (que de esta manera):-  
+Bhagavān **tiene** cualidades varoniles como la independencia de los demás, control sobre enemigos, firmeza y similares  
+y **tienes** cualidades femeninas como la gentileza, existente solo para el esposo, la compasión y la tolerancia ";
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘युवत्वादौ तुल्येऽप्यपरवशता शत्रुशमनस्थिरत्वादीन् कृत्वा भगवति गुणान् पुंस्त्वसुलभान् । त्वयि स्त्रीत्वैकान्तान्मृदिमपतिपारार्थ्य करुणा क्षमादीन्वा भोक्तुं भवति युवयोरात्मनि भिदा’’(श्री-गुण-रत्न-कोशः ३४) ऎऩ्गिऱबडिये
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि इरुवर्गळुम् आत्महविस्समर्पणप्रतिसम्बन्धिकळागिल् ‘‘स्वात्मानं मयि निक्षिपत्’’, ‘‘मामेकं शरणं व्रज’’, एक एव जगत्स्वामी’’ त्यादिगळिल् भगवन्मात्रनिर्देशमुम्, एकत्वव्यपदेशमुम् कूडुवदॆङ्ङऩे यॆऩ्ऩ वरुळिच्चॆय्गिऱार् युवत्वादाविति । पतिपत्निकळाऩ उङ्गळुक्कु युवत्वादिगळाऩ साधारणधर्मङ्गळ् तुल्यङ्गळायिरुक्कच् चॆय्देयुम् लोकदृष्टप्रक्रियैयाले अपरवशतादिरूपङ्गळाऩ पुरुषगुणङ्गळै भगवाऩिडत्तिलुम्, मृदिम-पतिपारार्थ्यादिरूपङ्गळाऩ स्त्रीगुणङ्गळै उऩ्ऩिडत्तिलुम् पिरित्तुवैत्तु परस्परमनुभविक्कैक्काग भेदमङ्गीकृतमॆऩ्ऱबडि। 
+</details>
+
+##### पत्नी यागे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पत्निक्कु नित्य-पतिपारार्थ्यत्ताले  
+याग-तन्त्रत्तिऱ् पोले  
+पति-प्रधानम् आग शास्त्रङ्गळिल् उपदेशङ्गळुक्कुम्  
+"एकऩ् यजमानऩ्" ऎऩ्ऩुमाप् पोले  
+एक-व्यपदेशत्तुक्कुङ् कुऱैयिल्लै।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[[१९१]]] 
+
+पत्न्या नित्य-पति-पारार्थ्याद्  
+याग-तन्त्र इव पति-प्राधान्येन शास्त्रेषु +उपदेशानाम्,  
+"एको यजमान" इतिवत्  
+एकव्यपदेशस्य च न दुष्टत्वम्। 
+</details>
+
+
+<details><summary>English</summary>
+
+the wife is ever dependent on her Lord  
+and in the performance of yajnas or sacrifices, only the yajamāna is spoken of  
+(as his wife who participates in the performance is implicit, as it were,  
+in the word yajamāna,  
+even when one yajamana is referred to). 
+
+So also in regard to the teaching of the śāstras,  
+the mention of a single person does not mean the absence of the wife who is, as it were, inseparable from her spouse. 
+</details>
+
+<details><summary>Español</summary>
+
+La esposa siempre **depende** de su Señor  
+y en el **desempeño** de Yajnas o sacrificios, solo **se habla** del Yajamāna  
+(Como su esposa que **participa** en la **actuación** **está implícita**, por así **decirlo**,  
+En la palabra yajamāna,  
+incluso cuando **se hace referencia** a un Yajamana).
+
+Así también con respecto a la enseñanza de los Śāstras,  
+La **mención** de una sola persona  
+**no significa** la **ausencia** de la esposa  
+que **es**, por así **decirlo**, inseparable de su cónyuge.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पत्निक्कु नित्यपतिपारार्थ्यत्ताले यागतन्त्रत्तिऱ्पोले पतिप्रधानमाग शास्त्रङ् गळिलुपदेशङ्गळुक्कुम् एकऩ् यजमानऩॆऩ्ऩुमाप्पोले एकव्यपदेशत्तुक्कुङ् गुऱैयिल्लै।  
+</details>
+
+##### आप्तोक्तयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६५ ’’तामरैयाळ् केळ्वऩ्+++(=वल्लभः)+++ ऒरुवऩैये नोक्कुम्+++(=वीक्षमाणं)+++ उणर्व्+++(=ज्ञानम्)+++’’  
+(मुदल् तिरुवन्दादि ६७)  
+
+ऎऩ्गिऱदऱ्कुम् इदुवे तात्पर्यम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "पङ्कजालया-वल्लभम् एकम् एव विषयी करोति ज्ञानम्”  
+
+इति सूक्तेर् अपीदम् एव तात्पर्यम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+In the verse :-- 
+
+> "Bhakti and prapatti are forms of knowledge which have, for their object, only Bhagavān, the Lord of Lakṣmī, who abides in the lotus  
+and (as) also the knowledge called the perfect enjoyment of Brahman has only Him for its object" 
+
+\- in this verse this is really the meaning that 
+Lakṣmī, being included in Bhagavān,  
+no separate mention is made of her. 
+</details>
+
+<details><summary>Español</summary>
+
+En el verso:-
+
+> "Bhakti y Prapatti **son** formas de **conocimiento** que tienen, por su objeto, solo Bhagavān, el Señor de Lakṣmī, que **permanece** en el loto  
+y (como) también el **conocimiento llamado** el disfrute perfecto de Brahman solo lo **tiene** por su objeto "
+
+\- En **este** verso, este **es** realmente el significado de que  
+Lakṣmī, incluido en Bhagavān,  
+**No se hace** una **mención** separada de ella.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+६५’’तामरैयाळ् केळ्वऩॊरुवऩैये नोक्कुमुणर्व्’’(मुदल् तिरुवन्दादि ६७)  ऎऩ्गिऱदऱ्कुमिदुवे तात्पर्यम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६६ ‘‘तद्-**अन्तर्भावात्** त्वां **न** पृथग् **अभिधत्ते** श्रुतिर् अपि”  
+( श्री-गुण-रत्न-कोशः २८) 
+
+ऎऩ्गिऱ वऴिगळुङ् गण्डु गॊळ्वदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ६६ ‘‘तद्-**अन्तर्भावात्** त्वां **न** पृथग् **अभिधत्ते** श्रुतिर् अपि”  
+( श्री-गुण-रत्न-कोशः २८) 
+
+इत्य् एवं-रूपाः पन्थानोऽपि द्रष्टव्याः । 
+</details>
+
+<details><summary>English</summary>
+
+This may be seen also in the passage: 
+
+> "Since Thou and Bhagavān are thus inseparably united,  
+the śruti does not speak of Thee separately".
+</details>
+
+<details><summary>Español</summary>
+
+Esto **se puede ver** también en el pasaje:
+
+> "Dado que tú y Bhagavān **están**, por lo tanto, inseparablemente **unidos**,  
+El Śruti **no habla** de ti por **separado** ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+६६ ‘‘तदन्तर्भावात् त्वां न पृथगभिधत्ते श्रुतिरपि” ( श्री-गुण-रत्न-कोशः २८) ऎऩ्गिऱ वऴिगळुङ् गण्डुगॊळ्वदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’ऎम् बॆरुमाऩैच् चॊऩ्ऩव् इडत्तिले  
+बिराट्टियैयुञ् जॊल्लिऱ्ऱ् आम्’’  
+
+ऎऩ्ऱु तुडङ्गि  
+उडैय्-अवर् अरुळिच् चॆय्द वार्त्तैयै आच्चाऩ् बक्कलिले केट्टु  
+नञ्-जीयर् संग्रहित्तार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> भगवन्-निर्देश-स्थले  
+श्रीर् अपि निर्दिष्टा (निर्दिष्ट-प्राया ) 
+
+इत्य् आरभ्य   
+श्री-भाष्य-कारानुगृहीतां वार्तां  
+प्रणतार्ति-हराचार्य-(आच्चान्)-सन्निधौ श्रुत्वा  
+वेदान्ति-मुनिः (नञ्जीयर् ) संजग्राह । 
+
+</details>
+
+
+<details><summary>English</summary>
+
+Nanjeeyar heard, from Kadambi Achan,  
+what the author of Śrī Bhāṣyam had declared  
+and summarised it thus:-  
+
+> "In places where Bhagavān is referred to,  
+it should be understood that Lakṣmī is also referred to".
+</details>
+
+<details><summary>Español</summary>
+
+Nanjeeyar **escuche**, de Kadambi Achan,  
+Lo que el autor de Śrī Bhāṣyam **había declarado**  
+y lo **resumió** así:-
+
+> "En lugares donde **se hace referencia** a Bhagavān,  
+Debe **entenderse** que Lakṣmī también **se hace referencia** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’ऎम्बॆरुमाऩैच् चॊऩ्ऩविडत्तिलेबिराट्टियैयुञ् जॊल्लिऱ्ऱाम्’’  
+ऎऩ्ऱु तुडङ्गि उडैयवररुळिच् चॆय्द वार्त्तैयै आच्चाऩ्बक्कलिले केट्टु नञ्जीयर् संग्रहित्तार्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाले काम्य-प्रधानम् आऩ अधिकारार्चन-रूपत्तिलुम्  
+विष्णु-पत्नीत्वम् प्रतिष्ठितम् आगैयाले  
+
++++(वक्षस्-स्था→)+++लय-+++(तस्या विष्णु-)+++भोगार्चनङ्गळिले **प्रवृत्तर् आय्**  
+
+अनन्य-प्रयोजनर् आऩ मुमुक्षुक्कळुक्कुम्  
+काम्य-प्रधानम् आऩ +++(सन्तान-कृष्णादि-)+++ भगवद्-रूपत्तिऱ् पोले  
+
+मातृत्वाद्य्-उपाधिकम् आऩ प्रणामाद्य्-आचारङ्गळुक्कुक् कुऱैय् इल्लै। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाले काम्यप्रधानमाऩ अधिकारार्चनरूपत्तिलुम् विष्णुपत्नीत्वम् प्रतिष्ठित मागैयाले लयभोगार्चनङ्गळिले प्रवृत्तराय् अनन्यप्रयोजनराऩ मुमुक्षुक्कळुक् कुम् काम्यप्रधानमाऩ भगवद्रूपत्तिऱ्पोले मातृत्वाद्युपाधिकमाऩ प्रणामाद्याचारङ् गळुक्कुक्कुऱैयिल्लै। 
+</details>
+
+
+
+
+
+
+Those whose object is only mokṣa and who have no other aim, or interest, worship Lakṣmī in her situation as laya (on the chest of Bhagavān)  
+and as bhoga in the image of the spouse standing by the image of Bhagavān.  
+But just as we bow before certain images of Bhagavān (like Santānakṛṣṇa),  
+which bestow primarily the benefits desired in this world,  
+there is, for even mumukṣus, no impropriety in such actions as bowing before the image of Lakṣmī installed in a separate shrine  
+and worshipped for certain worldly benefits (adhikaarārchā),  
+just as we should bow before our mothers,  
+since in all images of Lakṣmī  (wherever they may be)  
+her being the Spouse of Viṣṇu is an established fact.
 
 When such authoritative doctrines are seen, in the words of those who are disinterested, those who are still so obstinate as not to give up their wrong notions, are in a state described in the following śloka s:- "The fool" who clings firmly to what he has learnt before, the man who is ignorant of dharma, the man who will not have his doubts cleared by those grown old in wisdom - this man will come to grief like a blind man falling into a ditch", and “ To  those who are weak in intelligence, who are wicked, who have been bitten by the serpent of specious reasoning and whose senses have become deluded -to these men, truths appear different from what they (really) are",
 
