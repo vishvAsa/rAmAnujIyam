@@ -10330,14 +10330,35 @@ Esto **se puede ver** también en el pasaje:
 El Śruti **no habla** de ti por **separado** ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ६६ ‘‘तदन्तर्भावात् त्वां न पृथगभिधत्ते श्रुतिरपि” ( श्री-गुण-रत्न-कोशः २८) ऎऩ्गिऱ वऴिगळुङ् गण्डुगॊळ्वदु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’ऎम् बॆरुमाऩैच् चॊऩ्ऩव् इडत्तिले  
+बिराट्टियैयुञ् जॊल्लिऱ्ऱ् आम्’’  
+
+ऎऩ्ऱु तुडङ्गि  
+उडैय्-अवर् अरुळिच् चॆय्द वार्त्तैयै आच्चाऩ् बक्कलिले केट्टु  
+नञ्-जीयर् संग्रहित्तार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> भगवन्-निर्देश-स्थले  
+श्रीर् अपि निर्दिष्टा (निर्दिष्ट-प्राया ) 
+
+इत्य् आरभ्य   
+श्री-भाष्य-कारानुगृहीतां वार्तां  
+प्रणतार्ति-हराचार्य-(आच्चान्)-सन्निधौ श्रुत्वा  
+वेदान्ति-मुनिः (नञ्जीयर् ) संजग्राह । 
+
+</details>
 
 
+<details><summary>English</summary>
 
 Nanjeeyar heard, from Kadambi Achan,  
 what the author of Śrī Bhāṣyam had declared  
@@ -10345,9 +10366,57 @@ and summarised it thus:-
 
 > "In places where Bhagavān is referred to,  
 it should be understood that Lakṣmī is also referred to".
+</details>
+
+<details><summary>Español</summary>
+
+Nanjeeyar **escuche**, de Kadambi Achan,  
+Lo que el autor de Śrī Bhāṣyam **había declarado**  
+y lo **resumió** así:-
+
+> "En lugares donde **se hace referencia** a Bhagavān,  
+Debe **entenderse** que Lakṣmī también **se hace referencia** ".
+</details>
 
 
-Those whose object is only mokṣa  and who have no other aim, or interest, worship Lakṣmī  in her situation as laya (on the chest of Bhagavān) and as bloga in the image of the spouse standing by the image of Bhagavān. But just as we bow before certain images of Bhagavān (like Santānakṛṣṇa), which bestow primarily the benefits desired in this world, there is, for even mumukṣus, no impropriety in such actions as bowing before the image of Lakṣmī  installed in a separate shrine and worshipped for certain worldly benefits (adhikaarārchā), just as we should bow before our mothers, since in all images of Lakṣmī  (wherever they may be) her being the Spouse of Viṣṇu  is an established fact.
+<details><summary>मूलम्</summary>
+
+’’ऎम्बॆरुमाऩैच् चॊऩ्ऩविडत्तिलेबिराट्टियैयुञ् जॊल्लिऱ्ऱाम्’’  
+ऎऩ्ऱु तुडङ्गि उडैयवररुळिच् चॆय्द वार्त्तैयै आच्चाऩ्बक्कलिले केट्टु नञ्जीयर् संग्रहित्तार्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाले काम्य-प्रधानम् आऩ अधिकारार्चन-रूपत्तिलुम्  
+विष्णु-पत्नीत्वम् प्रतिष्ठितम् आगैयाले  
+
++++(वक्षस्-स्था→)+++लय-+++(तस्या विष्णु-)+++भोगार्चनङ्गळिले **प्रवृत्तर् आय्**  
+
+अनन्य-प्रयोजनर् आऩ मुमुक्षुक्कळुक्कुम्  
+काम्य-प्रधानम् आऩ +++(सन्तान-कृष्णादि-)+++ भगवद्-रूपत्तिऱ् पोले  
+
+मातृत्वाद्य्-उपाधिकम् आऩ प्रणामाद्य्-आचारङ्गळुक्कुक् कुऱैय् इल्लै। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाले काम्यप्रधानमाऩ अधिकारार्चनरूपत्तिलुम् विष्णुपत्नीत्वम् प्रतिष्ठित मागैयाले लयभोगार्चनङ्गळिले प्रवृत्तराय् अनन्यप्रयोजनराऩ मुमुक्षुक्कळुक् कुम् काम्यप्रधानमाऩ भगवद्रूपत्तिऱ्पोले मातृत्वाद्युपाधिकमाऩ प्रणामाद्याचारङ् गळुक्कुक्कुऱैयिल्लै। 
+</details>
+
+
+
+
+
+
+Those whose object is only mokṣa and who have no other aim, or interest, worship Lakṣmī in her situation as laya (on the chest of Bhagavān)  
+and as bhoga in the image of the spouse standing by the image of Bhagavān.  
+But just as we bow before certain images of Bhagavān (like Santānakṛṣṇa),  
+which bestow primarily the benefits desired in this world,  
+there is, for even mumukṣus, no impropriety in such actions as bowing before the image of Lakṣmī installed in a separate shrine  
+and worshipped for certain worldly benefits (adhikaarārchā),  
+just as we should bow before our mothers,  
+since in all images of Lakṣmī  (wherever they may be)  
+her being the Spouse of Viṣṇu is an established fact.
 
 When such authoritative doctrines are seen, in the words of those who are disinterested, those who are still so obstinate as not to give up their wrong notions, are in a state described in the following śloka s:- "The fool" who clings firmly to what he has learnt before, the man who is ignorant of dharma, the man who will not have his doubts cleared by those grown old in wisdom - this man will come to grief like a blind man falling into a ditch", and “ To  those who are weak in intelligence, who are wicked, who have been bitten by the serpent of specious reasoning and whose senses have become deluded -to these men, truths appear different from what they (really) are",
 
