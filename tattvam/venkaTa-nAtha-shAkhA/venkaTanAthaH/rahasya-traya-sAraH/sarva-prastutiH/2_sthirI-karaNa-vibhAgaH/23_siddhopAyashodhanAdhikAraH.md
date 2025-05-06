@@ -10433,7 +10433,7 @@ Debe **entenderse** que Lakṣmī también **se hace referencia** ".
 </details>
 
 
-#### आनुषङ्गिक-नतिः
+#### पृथङ् नतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाले काम्य-प्रधानम् आऩ +++(पृथक्-प्रतिष्ठापिता→)+++ "अधिकारार्चन"-रूपत्तिलुम् विष्णु-पत्नीत्वम् **प्रतिष्ठितम्** आगैयाले  
@@ -10531,7 +10531,7 @@ Dado que en todas las **imágenes** de Lakṣmī (donde **sea** que **estén**)
 </details>
 
 
-### निगमनम्
+#### सत्-प्रमाण-तिरस्कारे दशा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि मध्य-स्थ-दृष्टियाले  
@@ -10581,7 +10581,7 @@ aquellos que todavía **son** tan obstinados como para **no renunciar** a sus no
 > ६७‘‘दृढ-पूर्व-श्रुतो मूर्खो  
 धर्माणाम् अ-विशारदः ।  
 वृद्धान् **अ-पृच्छन्** सन्देहान्  
-अन्ध-श्वभ्रम्+++(=गर्तम्)+++ **इवर्च्छति**॥’  
+अन्ध-श्वभ्रम्+++(=गर्तम्)+++ **इवर्च्छति**॥’ +++(5)+++  
 (भारतम् कर्ण-पर्व ७२-५४)’, 
 </details>
 
@@ -10590,10 +10590,32 @@ aquellos que todavía **son** tan obstinados como para **no renunciar** a sus no
 > ६७‘‘दृढ-पूर्व-श्रुतो मूर्खो  
 धर्माणाम् अ-विशारदः ।  
 वृद्धान् **अ-पृच्छन्** सन्देहान्  
-अन्ध-श्वभ्रम्+++(=गर्तम्)+++ **इवर्च्छति**॥’  
+अन्ध-श्वभ्रम्+++(=गर्तम्)+++ **इवर्च्छति**॥’+++(5)+++  
 (भारतम् कर्ण-पर्व ७२-५४)’, 
 </details>
 
+<details><summary>विषयः</summary>
+
+प्रश्नः, धर्मः, गुरुः
+</details>
+
+
+<details><summary>English</summary>
+
+> "The fool who clings firmly to what he has learnt before,  
+the man who is ignorant of dharma,  
+the man who will not have his doubts cleared by those grown old in wisdom -  
+this man will come to grief like a blind man falling into a ditch", 
+</details>
+
+<details><summary>Español</summary>
+
+> "El tonto que **se aferra** firmemente a lo que **ha aprendido** antes,  
+el hombre que **ignora** el dharma,  
+el hombre que **no tendrá** sus dudas despejadas por los envejecidos en la sabiduría  
+Este hombre **saldrá** al dolor  
+como un hombre ciego que **cae** en una zanja ",
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -10601,13 +10623,283 @@ aquellos que todavía **son** tan obstinados como para **no renunciar** a sus no
 ६७‘‘दृढपूर्वश्रुतो मूर्खो धर्माणामविशारदः । वृद्धानपृच्छन्सन्देहानन्धश्वभ्रमिवर्च्छति’(भारतम् कर्ण-पर्व ७२-५४)’, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६८‘‘अन्यथा मन्द-बुद्धीनां  
+**प्रतिभाति** दुरात्मानां ।  
+कुतर्क-व्याल-दष्टानां  
+विभ्रान्तेन्द्रिय-वाजिनाम्॥’’  
+(इदिहाससमुच्चयम् ३३-१०८) 
+
+ऎऩ्गिऱ दशैयाम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ६८‘‘अन्यथा मन्द-बुद्धीनां  
+**प्रतिभाति** दुरात्मानां ।  
+कुतर्क-व्याल-**दष्टानां**  
+विभ्रान्तेन्द्रिय-वाजिनाम्॥’’  
+(इदिहाससमुच्चयम् ३३-१०८) 
+
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> “ To  those who are weak in intelligence,  
+who are wicked,  
+who have been bitten by the serpent of specious reasoning  
+and whose senses have become deluded -  
+to these men, truths appear different from what they (really) are",
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> “Para aquellos que **son** débiles en inteligencia,  
+que **son** malvados  
+que **han sido mordidos** por la serpiente del **razonamiento engañoso**  
+y cuyos sentidos **se han engañado** -  
+Para estos hombres,  
+las verdades **parecen diferentes** de lo que ellos (realmente) **son** ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+६८‘‘अन्यथा मन्दबुद्धीनां प्रतिभाति दुरात्मानां । कुतर्क-व्यालदष्टानां विभ्रान्तेन्द्रियवाजिनां’’(इदिहाससमुच्चयम् ३३-१०८) ऎऩ्गिऱ दशैयाम्। 
+</details>
+
+
+#### निगमनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् सिद्धोपाय-शब्द-वाच्य-विमर्शत्तिल् 
+
+> ६९‘‘नानयोर् विद्यते परं’’  
+(विष्णुपुराणम् १-८-३५), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
 
 
 
+> ६९‘‘नानयोर् विद्यते परं’’  
+(विष्णुपुराणम् १-८-३५), 
+</details>
 
-"The fool who clings firmly to what he has learnt before, the man who is ignorant of dharma, the man who will not have his doubts cleared by those grown old in wisdom - this man will come to grief like a blind man falling into a ditch", and “ To  those who are weak in intelligence, who are wicked, who have been bitten by the serpent of specious reasoning and whose senses have become deluded -to these men, truths appear different from what they (really) are",
 
-In the investigation of the real meaning of the word Siddhopāya, the following passages should be remembered:- "There is nothing other than these two. The males are Bhagavān and the females are Lakṣmī ". "Just as Viṣṇu  is in all things, so also is she, O, best of Brahmins,". "The heart of this lady is fixed on ŚrīRāma and his heart is ever fixed on her. Therefore it is that she and ŚrīRāma who is the embodiment of dharma continue alive for even the fraction of an hour." "Both Bhagavān and Lakṣmī  aro omnipresent, since they are inseparably united, they are spoken of as one tattva or real." Therefore, since they form a single seshi, since they are ever of the same mind, since they are intimately attached to each other, and since they are inseparably connected with each other in their svarūpa or essential nature, and in their rūpa or forms, those who are established in sattva should understand the meaning of the word Nārāyaṇa with its adjective Śrīmat in such a manner as will not be at variance with the inseparable unity of the tattvam (Bhagavān ) with its attribute (Śrī) so well expressed in the śloka  :- "Thy essential nature svarūpa and the forms that Thou takest and the svarūpa and the forms assumed by Bhagavān are in close embrace with each other."
+
+<details><summary>English</summary>
+
+In the investigation of the real meaning of the word Siddhopāya, the following passages should be remembered:- 
+
+> "There is nothing other than these two.  
+The males are Bhagavān and the females are Lakṣmī ". 
+</details>
+
+<details><summary>Español</summary>
+
+En la **investigación** del significado real de la palabra siddhopāya,  
+**se deben recordar** los siguientes pasajes:--
+
+> "**No hay** nada más que estos dos.  
+Los machos **son** Bhagavān  
+y las hembras **son** Lakṣmī ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् सिद्धोपायशब्द-वाच्यविमर्शत्तिल् ६९‘‘नानयोर्विद्यते परं’’(विष्णुपुराणम् १-८-३५), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ७०‘‘यथा सर्वगतो विष्णुस्  
+तथैवेयं द्विजोत्तम’’  
+(विष्णुपुराणम् १-८-१७),  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ७०‘‘यथा सर्वगतो विष्णुस्  
+तथैवेयं द्विजोत्तम’’  
+(विष्णुपुराणम् १-८-१७),  
+
+</details>
+
+<details><summary>English</summary>
+
+> "Just as Viṣṇu is in all things,  
+so also is she, O, best of Brahmins,". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Así como Viṣṇu **está** en todas las cosas,
+También lo **es** ella, oh, lo mejor de los brahmanes ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+७०‘‘यथा सर्वगतो विष्णुस्तथैवेयं द्विजोत्तम’’(विष्णुपुराणम् १-८-१७),  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘अस्या देव्या मनस् तस्मिन्  
+तस्य चास्यां **प्रतिष्ठितं** ।  
+तेनेयं स च धर्मात्मा  
+मुहूर्तम् अपि **जीवति॥’’**  
+(रामायणम्  सुन्दर १५-५२),  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘अस्या देव्या मनस् तस्मिन्  
+तस्य चास्यां **प्रतिष्ठितं** ।  
+तेनेयं स च धर्मात्मा  
+मुहूर्तम् अपि **जीवति॥’’**  
+(रामायणम्  सुन्दर १५-५२),  
+</details>
+
+<details><summary>English</summary>
+
+> "The heart of this lady is fixed on Śrī Rāma  
+and his heart is ever fixed on her.  
+Therefore it is that she and Śrī Rāma  
+who is the embodiment of dharma  
+continue alive for even the fraction of an hour."  
+</details>
+
+<details><summary>Español</summary>
+
+> "El corazón de esta dama **está fijo** en Śrī Rāma  
+Y su corazón siempre **está fijo** en ella.  
+Por lo tanto, **es** que ella y Śrī Rāma  
+quien es la encarnación del dharma  
+**Continúen vivos** incluso por la fracción de una hora ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘अस्या देव्या मनस्तस्मिन् तस्य चास्यां प्रतिष्ठितं ।  
+तेनेयं स च धर्मात्मा मुहूर्तमपि जीवति॥’’  
+(रामा-सुन्दर १५-५२),  
+</details>
+ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘व्यापकाव् अतिसंश्लेषाद्  
+एक-तत्त्वम् इवोदितौ’’  
+(अहिर्बुध्न्य-संहिता ४-७८)  
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘व्यापकाव् अतिसंश्लेषाद्  
+एक-तत्त्वम् इवोदितौ’’  
+(अहिर्बुध्न्य-संहिता ४-७८)  
+
+</details>
+
+<details><summary>English</summary>
+
+> "Both Bhagavān and Lakṣmī are omnipresent,  
+since they are inseparably united,  
+they are spoken of as one tattva or real." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Tanto Bhagavān como Lakṣmī **son** omnipresentes,
+ya que **están inseparablemente** unidos,  
+Se les **habla** como un tattva o real ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘व्यापकावतिसंश्लेषादेकतत्त्वमिवोदितौ’’  
+(अहिर्बुध्न्य-संहिता ४-७८)  
+ऎऩ्गिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एक-शेषित्वत्तालुम्  
+एकाभिप्रायतैयालुम्  
+परस्-पर-प्रावण्यातिशयत्तालुम्  
+स्व-रूप--रूपादि-गळिल् पिरिव् अऱ्ऱ अन्वय-विशेषत्तालुम् 
+</details>
+
+<details><summary>English</summary>
+
+Therefore, since they form a single seshi,  
+since they are ever of the same mind,  
+since they are intimately attached to each other,  
+and since they are inseparably connected with each other in their svarūpa or essential nature, and in their rūpa or forms,  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, ya que **forman** un solo seshi,  
+ya que alguna vez **son** de la misma mente,  
+ya que **están** íntimamente unidos entre sí,  
+y dado que **están inseparablemente conectados** entre sí en su svarūpa o naturaleza esencial, y en su rūpa o formas,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एकशेषित्वत्तालुम् एकाभिप्रायतैयालुम् परस्पर प्रावण्यातिशयत्तालुम् स्वरूपरूपादिगळिल् पिरिवऱ्ऱ अन्वयविशेषत्तालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘गाढोपगूढानि ते’’(चतुः-श्लोकी ४) 
+
+ऎऩ्ऩुम्बडि  
+</details>
+
+<details><summary>English</summary>
+
+~~so~~ as well expressed in the śloka  :- 
+
+> "Thy essential nature svarūpa and the forms that Thou takest  
+and the svarūpa and the forms assumed by Bhagavān  
+are in close embrace with each other."
+</details>
+
+<details><summary>Español</summary>
+
+~~ así ~~ también **expresado** en el Śloka:-
+
+> "Tu naturaleza esencial svarūpa y las formas que **eres** más  
+y el Svarūpa y las formas **asumidas** por Bhagavān  
+**están** de cerca el uno del otro ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘गाढोपगूढानि ते’’(चतुः-श्लोकी ४) ऎऩ्ऩुम्बडि  
+</details>
+
+
+those who are established in sattva should understand the meaning of the word Nārāyaṇa with its adjective Śrīmat in such a manner as will not be at variance with the inseparable unity of the tattvam (Bhagavān ) with its attribute (Śrī) 
+
+
 
 ( The author summarises the gist of the chapter in a number of ślokas as follows:--)
 
