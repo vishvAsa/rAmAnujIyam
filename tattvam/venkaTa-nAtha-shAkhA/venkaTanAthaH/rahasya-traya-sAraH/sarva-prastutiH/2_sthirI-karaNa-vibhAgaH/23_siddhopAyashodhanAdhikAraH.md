@@ -10385,18 +10385,47 @@ Debe **entenderse** que Lakṣmī también **se hace referencia** ".
 ऎऩ्ऱु तुडङ्गि उडैयवररुळिच् चॆय्द वार्त्तैयै आच्चाऩ्बक्कलिले केट्टु नञ्जीयर् संग्रहित्तार्। 
 </details>
 
+#### आनुषङ्गिक-नतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आगैयाले काम्य-प्रधानम् आऩ अधिकारार्चन-रूपत्तिलुम्  
-विष्णु-पत्नीत्वम् प्रतिष्ठितम् आगैयाले  
+आगैयाले काम्य-प्रधानम् आऩ "अधिकारार्चन"-रूपत्तिलुम् +++(पृथक् प्रतिष्ठापितायाम् अपि)+++  
+विष्णु-पत्नीत्वम् **प्रतिष्ठितम्** आगैयाले  
 
 +++(वक्षस्-स्था→)+++लय-+++(तस्या विष्णु-)+++भोगार्चनङ्गळिले **प्रवृत्तर् आय्**  
 
 अनन्य-प्रयोजनर् आऩ मुमुक्षुक्कळुक्कुम्  
-काम्य-प्रधानम् आऩ +++(सन्तान-कृष्णादि-)+++ भगवद्-रूपत्तिऱ् पोले  
 
-मातृत्वाद्य्-उपाधिकम् आऩ प्रणामाद्य्-आचारङ्गळुक्कुक् कुऱैय् इल्लै। 
+काम्य-प्रधानम् आऩ +++(सन्तान-कृष्णादि-)+++ भगवद्-रूपत्तिऱ् पोले  
++++(जगन्-)+++मातृत्वाद्य्-उपाधिकम् आऩ प्रणामाद्य्-आचारङ्गळुक्कुक् कुऱैय् इल्लै। 
 </details>
+
+<details><summary>English</summary>
+
+Those whose object is only mokṣa and who have no other aim, or interest, worship Lakṣmī in her situation as laya (on the chest of Bhagavān)  
+and as bhoga in the image of the spouse standing by the image of Bhagavān.  
+But just as we bow before certain images of Bhagavān (like Santānakṛṣṇa),  
+which bestow primarily the benefits desired in this world,  
+there is, for even mumukṣus, no impropriety in such actions as bowing before the image of Lakṣmī installed in a separate shrine  
+and worshipped for certain worldly benefits (adhikaarārchā),  
+just as we should bow before our mothers,  
+since in all images of Lakṣmī  (wherever they may be)  
+her being the Spouse of Viṣṇu is an established fact.
+
+</details>
+
+<details><summary>Español</summary>
+
+Aquellos cuyo objeto **es** solo mokṣa y que **no tienen** otro objetivo, ni interés, **adoran** a Lakṣmī en su situación como Laya (en el cofre de Bhagavān)  
+y como bhoga en la imagen del cónyuge de **pie** junto a la imagen de Bhagavān.  
+Pero tal como nos **inclinamos** antes de ciertas imágenes de Bhagavān (como Santānakṛṣṇa),  
+que **otorgan** principalmente los beneficios **deseados** en este mundo,  
+**Hay**, incluso para Mumukṣus, **no es incorrección** en **acciones** como **inclinarse** ante la imagen de Lakṣmī **instalada** en un santuario separado  
+y **adorado** por ciertos beneficios mundanos (adhikaarārchā),  
+tal como **deberíamos inclinarnos** ante nuestras madres,  
+Dado que en todas las **imágenes** de Lakṣmī (donde **sea** que **estén**)  
+**Ser** el cónyuge de Viṣṇu **es** un hecho **establecido**.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -10408,15 +10437,6 @@ Debe **entenderse** que Lakṣmī también **se hace referencia** ".
 
 
 
-Those whose object is only mokṣa and who have no other aim, or interest, worship Lakṣmī in her situation as laya (on the chest of Bhagavān)  
-and as bhoga in the image of the spouse standing by the image of Bhagavān.  
-But just as we bow before certain images of Bhagavān (like Santānakṛṣṇa),  
-which bestow primarily the benefits desired in this world,  
-there is, for even mumukṣus, no impropriety in such actions as bowing before the image of Lakṣmī installed in a separate shrine  
-and worshipped for certain worldly benefits (adhikaarārchā),  
-just as we should bow before our mothers,  
-since in all images of Lakṣmī  (wherever they may be)  
-her being the Spouse of Viṣṇu is an established fact.
 
 When such authoritative doctrines are seen, in the words of those who are disinterested, those who are still so obstinate as not to give up their wrong notions, are in a state described in the following śloka s:- "The fool" who clings firmly to what he has learnt before, the man who is ignorant of dharma, the man who will not have his doubts cleared by those grown old in wisdom - this man will come to grief like a blind man falling into a ditch", and “ To  those who are weak in intelligence, who are wicked, who have been bitten by the serpent of specious reasoning and whose senses have become deluded -to these men, truths appear different from what they (really) are",
 
