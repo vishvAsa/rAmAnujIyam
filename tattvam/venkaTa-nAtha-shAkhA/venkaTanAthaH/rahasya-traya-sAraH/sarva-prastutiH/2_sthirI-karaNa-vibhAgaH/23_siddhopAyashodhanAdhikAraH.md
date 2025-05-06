@@ -10433,7 +10433,7 @@ Debe **entenderse** que Lakṣmī también **se hace referencia** ".
 </details>
 
 
-#### आनुषङ्गिक-नतिः
+#### पृथङ् नतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाले काम्य-प्रधानम् आऩ +++(पृथक्-प्रतिष्ठापिता→)+++ "अधिकारार्चन"-रूपत्तिलुम् विष्णु-पत्नीत्वम् **प्रतिष्ठितम्** आगैयाले  
@@ -10531,7 +10531,7 @@ Dado que en todas las **imágenes** de Lakṣmī (donde **sea** que **estén**)
 </details>
 
 
-### निगमनम्
+#### सत्-प्रमाण-तिरस्कारे दशा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि मध्य-स्थ-दृष्टियाले  
@@ -10581,7 +10581,7 @@ aquellos que todavía **son** tan obstinados como para **no renunciar** a sus no
 > ६७‘‘दृढ-पूर्व-श्रुतो मूर्खो  
 धर्माणाम् अ-विशारदः ।  
 वृद्धान् **अ-पृच्छन्** सन्देहान्  
-अन्ध-श्वभ्रम्+++(=गर्तम्)+++ **इवर्च्छति**॥’  
+अन्ध-श्वभ्रम्+++(=गर्तम्)+++ **इवर्च्छति**॥’ +++(5)+++  
 (भारतम् कर्ण-पर्व ७२-५४)’, 
 </details>
 
@@ -10590,10 +10590,32 @@ aquellos que todavía **son** tan obstinados como para **no renunciar** a sus no
 > ६७‘‘दृढ-पूर्व-श्रुतो मूर्खो  
 धर्माणाम् अ-विशारदः ।  
 वृद्धान् **अ-पृच्छन्** सन्देहान्  
-अन्ध-श्वभ्रम्+++(=गर्तम्)+++ **इवर्च्छति**॥’  
+अन्ध-श्वभ्रम्+++(=गर्तम्)+++ **इवर्च्छति**॥’+++(5)+++  
 (भारतम् कर्ण-पर्व ७२-५४)’, 
 </details>
 
+<details><summary>विषयः</summary>
+
+प्रश्नः, धर्मः, गुरुः
+</details>
+
+
+<details><summary>English</summary>
+
+> "The fool who clings firmly to what he has learnt before,  
+the man who is ignorant of dharma,  
+the man who will not have his doubts cleared by those grown old in wisdom -  
+this man will come to grief like a blind man falling into a ditch", 
+</details>
+
+<details><summary>Español</summary>
+
+> "El tonto que **se aferra** firmemente a lo que **ha aprendido** antes,  
+el hombre que **ignora** el dharma,  
+el hombre que **no tendrá** sus dudas despejadas por los envejecidos en la sabiduría  
+Este hombre **saldrá** al dolor  
+como un hombre ciego que **cae** en una zanja ",
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -10601,17 +10623,594 @@ aquellos que todavía **son** tan obstinados como para **no renunciar** a sus no
 ६७‘‘दृढपूर्वश्रुतो मूर्खो धर्माणामविशारदः । वृद्धानपृच्छन्सन्देहानन्धश्वभ्रमिवर्च्छति’(भारतम् कर्ण-पर्व ७२-५४)’, 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+दृढपूर्वेति । इदु भारतत्तिल् कर्णपर्वत्तिल् ७२-वदु अध्यायत्तिल् ५४-वदु श्लोकम्। इदु तऩ्ऩुडैय प्रतिज्ञापरिपालनधर्मलेशत्तिऱ्काग गुरुतरमाऩ भ्रातृवधत्तिल् उद्युक्तऩाऩ अर्जुनऩैत् तॆळिविक्कैक्काग भगवद्वचनम्। दृढपूर्वश्रुतः – पूर्वश्रुतः कश्चनापार्थः दृढा यस्य सः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६८‘‘अन्यथा मन्द-बुद्धीनां  
+**प्रतिभाति** दुरात्मानां ।  
+कुतर्क-व्याल-दष्टानां  
+विभ्रान्तेन्द्रिय-वाजिनाम्॥’’  
+(इदिहाससमुच्चयम् ३३-१०८) 
+
+ऎऩ्गिऱ दशैयाम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ६८‘‘अन्यथा मन्द-बुद्धीनां  
+**प्रतिभाति** दुरात्मानां ।  
+कुतर्क-व्याल-**दष्टानां**  
+विभ्रान्तेन्द्रिय-वाजिनाम्॥’’  
+(इदिहाससमुच्चयम् ३३-१०८) 
+
+इतीयं दशा भवति । 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> “ To  those who are weak in intelligence,  
+who are wicked,  
+who have been bitten by the serpent of specious reasoning  
+and whose senses have become deluded -  
+to these men, truths appear different from what they (really) are",
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> “Para aquellos que **son** débiles en inteligencia,  
+que **son** malvados  
+que **han sido mordidos** por la serpiente del **razonamiento engañoso**  
+y cuyos sentidos **se han engañado** -  
+Para estos hombres,  
+las verdades **parecen diferentes** de lo que ellos (realmente) **son** ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+६८‘‘अन्यथा मन्दबुद्धीनां प्रतिभाति दुरात्मानां । कुतर्क-व्यालदष्टानां विभ्रान्तेन्द्रियवाजिनां’’(इदिहाससमुच्चयम् ३३-१०८) ऎऩ्गिऱ दशैयाम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+मुऩ्बु केट्टिरुन्द अर्थत्तै विडादवऩायुम्, ताऩागवुम् धर्मसूक्ष्मङ्गळै विवचनम् पण्णुगैक्कु अशक्तऩायुम्, अत एव धर्मङ्गळैत् तॆरिन्दुगॊळ्ळादवऩायुमुळ्ळ ऒरुवऩ् तऩक्कु सन्दिग्धमाऩ अर्थङ्गळैप् पॆरियोर्गळिडत्तिल् केळादवऩाय्क्कॊण्डु कुरुडऩाऩवऩ् ऎप्पडि (श्वभ्रमृच्छति) पडुगुऴियिले विऴुवाऩो? अप्पडिये अनर्थत्तिल् विऴुवाऩॆऩ्गै। अन्यथेति । इदु इतिहाससमुच्चयत्तिल् ३३-वदु अध्यायत्तिल् १०८-वदु श्लोकम्। मन्दबुद्धिकळाय्, सत्तुक्कळै निन्दिप्पवर्गळाय्, कुत्सितमाऩ तर्कत्ताले दुष्टर्गळाय्, भ्रान्तेन्द्रियर्गळाऩ वादिगळुक्कु अन्यथावाग सर्वार्थङ्गळुम् प्रतिभासिक्किऱदुगळ् ऎऩ्ऱु इदिऩर्थम्। ऎऩ्गिऱ दशैयामिति । इन्द श्लाकद्वयत्तिल् सॊल्लप्पट्टवर्गळिऩ् दशै गृहीतग्राहिकळुक्कु वरुमॆऩ्ऱबडि। 
+</details>
 
 
 
+#### निगमनम्
 
-"The fool who clings firmly to what he has learnt before, the man who is ignorant of dharma, the man who will not have his doubts cleared by those grown old in wisdom - this man will come to grief like a blind man falling into a ditch", and “ To  those who are weak in intelligence, who are wicked, who have been bitten by the serpent of specious reasoning and whose senses have become deluded -to these men, truths appear different from what they (really) are",
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-In the investigation of the real meaning of the word Siddhopāya, the following passages should be remembered:- "There is nothing other than these two. The males are Bhagavān and the females are Lakṣmī ". "Just as Viṣṇu  is in all things, so also is she, O, best of Brahmins,". "The heart of this lady is fixed on ŚrīRāma and his heart is ever fixed on her. Therefore it is that she and ŚrīRāma who is the embodiment of dharma continue alive for even the fraction of an hour." "Both Bhagavān and Lakṣmī  aro omnipresent, since they are inseparably united, they are spoken of as one tattva or real." Therefore, since they form a single seshi, since they are ever of the same mind, since they are intimately attached to each other, and since they are inseparably connected with each other in their svarūpa or essential nature, and in their rūpa or forms, those who are established in sattva should understand the meaning of the word Nārāyaṇa with its adjective Śrīmat in such a manner as will not be at variance with the inseparable unity of the tattvam (Bhagavān ) with its attribute (Śrī) so well expressed in the śloka  :- "Thy essential nature svarūpa and the forms that Thou takest and the svarūpa and the forms assumed by Bhagavān are in close embrace with each other."
+आगैयाल् सिद्धोपाय-शब्द-वाच्य-विमर्शत्तिल् 
+
+> ६९‘‘नानयोर् विद्यते परं’’  
+(विष्णुपुराणम् १-८-३५), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२००]]  
+अतः सिद्धोपाय-शब्द-वाच्य-विमर्शे  
+
+> ६९‘‘नानयोर् विद्यते परं’’  
+(विष्णुपुराणम् १-८-३५), 
+
++++(इत्य् उभय-शेषित्वम्)+++
+</details>
+
+<details><summary>English</summary>
+
+In the investigation of the real meaning of the word Siddhopāya, the following passages should be remembered:- 
+
+> "There is nothing other than these two.  
+The males are Bhagavān and the females are Lakṣmī ". 
+</details>
+
+<details><summary>Español</summary>
+
+En la **investigación** del significado real de la palabra siddhopāya,  
+**se deben recordar** los siguientes pasajes:--
+
+> "**No hay** nada más que estos dos.  
+Los machos **son** Bhagavān  
+y las hembras **son** Lakṣmī ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् सिद्धोपायशब्द-वाच्यविमर्शत्तिल् ६९‘‘नानयोर्विद्यते परं’’(विष्णुपुराणम् १-८-३५), 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि कुतार्किकर्गळुक्कु अन्यथावागत् तोऩ्ऱुगैयाल् अदै विट्टु सत्वस्थर्क्कु सत्तर्कङ्गळाले सिद्धोपायशब्द वाच्यविमर्शत्तिल् सप्रमाणमाग सविशेषणमाऩ नारायणशब्दार्थमनुसन्धेय मॆऩ्गिऱार् आगैयालित्यादिना । आगैयाल् - कुतार्किकर्गळुक्कु अन्यथावागत् तोऩ्ऱुगैयाल्, 
+सिद्धोपायशब्दवाच्यविमर्शत्तिल् – यथा प्रमाणम् सिद्धोपायशब्दत्तिऩर्थ परामर्शत्तिल्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ७०‘‘यथा सर्वगतो विष्णुस्  
+तथैवेयं द्विजोत्तम’’  
+(विष्णुपुराणम् १-८-१७),  
+
++++(इत्य् उभय-शेषित्वम्)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ७०‘‘यथा सर्वगतो विष्णुस्  
+तथैवेयं द्विजोत्तम’’  
+(विष्णुपुराणम् १-८-१७),  
+
++++(इत्य् उभय-शेषित्वम्)+++
+</details>
+
+<details><summary>English</summary>
+
+> "Just as Viṣṇu is in all things,  
+so also is she, O, best of Brahmins,". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Así como Viṣṇu **está** en todas las cosas,
+También lo **es** ella, oh, lo mejor de los brahmanes ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+७०‘‘यथा सर्वगतो विष्णुस्तथैवेयं द्विजोत्तम’’(विष्णुपुराणम् १-८-१७),  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+नानयोर्विद्यत ऎऩ्गिऱदुम्, यथा सर्वगतो विष्णुः ऎऩ्बदुम् शेषित्व प्रमाणम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘अस्या देव्या मनस् तस्मिन्  
+तस्य चास्यां **प्रतिष्ठितं** ।  
+तेनेयं स च धर्मात्मा  
+मुहूर्तम् अपि **जीवति॥’’**  
+(रामायणम्  सुन्दर १५-५२),  
+
++++(इत्य् एकाभिप्रायता)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘अस्या देव्या मनस् तस्मिन्  
+तस्य चास्यां **प्रतिष्ठितं** ।  
+तेनेयं स च धर्मात्मा  
+मुहूर्तम् अपि **जीवति॥’’**  
+(रामायणम्  सुन्दर १५-५२),  
+
++++(इत्य् एकाभिप्रायता)+++
+</details>
+
+<details><summary>English</summary>
+
+> "The heart of this lady is fixed on Śrī Rāma  
+and his heart is ever fixed on her.  
+Therefore it is that she and Śrī Rāma  
+who is the embodiment of dharma  
+continue alive for even the fraction of an hour."  
+</details>
+
+<details><summary>Español</summary>
+
+> "El corazón de esta dama **está fijo** en Śrī Rāma  
+Y su corazón siempre **está fijo** en ella.  
+Por lo tanto, **es** que ella y Śrī Rāma  
+quien es la encarnación del dharma  
+**Continúen vivos** incluso por la fracción de una hora ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘अस्या देव्या मनस्तस्मिन् तस्य चास्यां प्रतिष्ठितं ।  
+तेनेयं स च धर्मात्मा मुहूर्तमपि जीवति॥’’  
+(रामा-सुन्दर १५-५२),  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अस्यादेव्या मनस्तस्मिन् ऎऩ्बदु परस्परप्रावण्यातिशयत्तिलुम्, एकाभिप्रायतैयिलुम् प्रमाणम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘व्यापकाव् अतिसंश्लेषाद्  
+एक-तत्त्वम् इवोदितौ’’  
+(अहिर्बुध्न्य-संहिता ४-७८)  
+
++++(इति स्वरूपतो ऽविश्लेषस्य प्रमाणम्)+++
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘व्यापकाव् अतिसंश्लेषाद्  
+एक-तत्त्वम् इवोदितौ’’  
+(अहिर्बुध्न्य-संहिता ४-७८)  
+
++++(इति स्वरूपतो ऽविश्लेषस्य प्रमाणम्)+++
+
+इत्य्-उक्त-रीत्या 
+</details>
+
+<details><summary>English</summary>
+
+> "Both Bhagavān and Lakṣmī are omnipresent,  
+since they are inseparably united,  
+they are spoken of as one tattva or real." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Tanto Bhagavān como Lakṣmī **son** omnipresentes,
+ya que **están inseparablemente** unidos,  
+Se les **habla** como un tattva o real ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘व्यापकावतिसंश्लेषादेकतत्त्वमिवोदितौ’’  
+(अहिर्बुध्न्य-संहिता ४-७८)  
+ऎऩ्गिऱबडिये 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+‘‘व्यापकावति संश्लेषात्’’ ऎऩ्बदु स्वरूपादिगळिऩ् पिरिवऱ्ऱ सम्बन्धविशषत्तिल् प्रमाणम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एक-शेषित्वत्तालुम्  
+एकाभिप्रायतैयालुम्  
+परस्-पर-प्रावण्यातिशयत्तालुम्  
+स्व-रूप--रूपादि-गळिल् पिरिव् अऱ्ऱ अन्वय-विशेषत्तालुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एक-शेषित्वात्,  
+एकाभिप्रायकत्वात्,  
+परस्-पर-प्रावण्यातिशयात्,  
+स्व-रूप--रूपादिषु वियोगानर्हान्वय-विशेषात, 
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore, since they form a single seshi,  
+since they are ever of the same mind,  
+since they are intimately attached to each other,  
+and since they are inseparably connected with each other in their svarūpa or essential nature, and in their rūpa or forms,  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, ya que **forman** un solo seshi,  
+ya que alguna vez **son** de la misma mente,  
+ya que **están** íntimamente unidos entre sí,  
+y dado que **están inseparablemente conectados** entre sí en su svarūpa o naturaleza esencial, y en su rūpa o formas,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एकशेषित्वत्तालुम् एकाभिप्रायतैयालुम् परस्पर प्रावण्यातिशयत्तालुम् स्वरूपरूपादिगळिल् पिरिवऱ्ऱ अन्वयविशेषत्तालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘गाढोपगूढानि ते’’(चतुः-श्लोकी ४) 
+
+ऎऩ्ऩुम्बडि  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘गाढोपगूढानि ते’’(चतुः-श्लोकी ४) 
+
+इति यथोच्येत 
+</details>
+
+
+<details><summary>English</summary>
+
+~~so~~ as well expressed in the śloka  :- 
+
+> "Thy essential nature svarūpa and the forms that Thou takest  
+and the svarūpa and the forms assumed by Bhagavān  
+are in close embrace with each other."
+</details>
+
+<details><summary>Español</summary>
+
+~~ así ~~ también **expresado** en el Śloka:-
+
+> "Tu naturaleza esencial svarūpa y las formas que **eres** más  
+y el Svarūpa y las formas **asumidas** por Bhagavān  
+**están** de cerca el uno del otro ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘गाढोपगूढानि ते’’(चतुः-श्लोकी ४) ऎऩ्ऩुम्बडि  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुश्लिष्टम् आऩ विशिष्ट-तत्त्वम् निऱ्किऱ निलै गुलैयाद बडि  
+सविशेषणम् आऩ नारायण-शब्दम् प्रतिपादिक्किऱ बडियै अनुसन्धिक्कै  
+सत्त्व-स्थर्क्कुप् प्राप्तम्।  
+</details>
+
+<details><summary>English</summary>
+
+those who are established in sattva  
+should understand the meaning of the word Nārāyaṇa with its adjective Śrīmat  
+in such a manner as will not be at variance with the inseparable unity of the tattvam (Bhagavān ) with its attribute (Śrī) 
+</details>
+
+<details><summary>Español</summary>
+
+los que **están establecidos** en Sattva  
+**debe entender** el significado de la palabra nārāyaṇa con su adjetivo Śrīmat  
+De tal manera que **no estará en desacuerdo**  
+con la unidad inseparable del tattvam (bhagavān) con su atributo (Śrī)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सुश्लिष्टमाऩ विशिष्टतत्त्वम् निऱ्किऱनिलैगुलैयादबडि सविशेषणमाऩ नारायणशब्दम् प्रतिपादिक्किऱबडियै अनुसन्धिक्कै सत्त्वस्थर्क्कुप् प्राप्तम्।  
+</details>
+
+
+
+## सङ्ग्रहः
+
+<details><summary>English</summary>
 
 ( The author summarises the gist of the chapter in a number of ślokas as follows:--)
+</details>
 
-The Lord of Śrī, who is the embodiment of compassion and who secures, for them, all the benefits desired by men is called Siddhopāya, because He is already an existent upāya. The ways of securing His favour are such as bhakti and prapatti and these are called Sādhyopāyas, because they can be adopted and accomplished by those who desire the respective benefits. When the Sādhyopāya flows with high mounting waves and increases the flood of compassion of the śeṣī , who is the Siddhopāya, the latter breaks through the flood of lilā which is also His. By (that very flood of compassion) all hindrances to His service, such as even the former will of the Omnipotent, disappear like dams built of fine sand. Though the acts of propitiation (like bhakti and prapatti ) are prescribed in the śāstras for securing the fruit, yet Siddhopāya is considered as of prime importance, because the Lord alone is capable of granting mokṣa , since bhakti or prapatti being non-sentient, cannot give the fruit directly and since Bhagavān alone can act directly. To those who have adopted prapatti as the primary and independent means, it is specially ordained that they should rest on the Omnipresent in order that they may know that their own endeavour perishes instantly after prapatti. Therefore with what aim, the surrender of responsibility has been made to Siddhopāya - for that aim, the man should make no further endeavour and depend only on the Siddhopāya, In the definition of prapatti in the mantra for prapatti, in the injunction concerning it and in other passages and so also in Śrī Bhāṣya and the like and by tradition, Brahman is declared as the upāya. Just as we admit that certain (holy) places and the like which exist already are called dharma productive of spiritual excellence, so also it is said by those who understand the truth that Śrī Kṛṣṇa is the eternal dharma (or upāya ). This Siddhopāya is to be thought of in the three mysteries or mantrās in such as the syllable a in aum etc.
+<details><summary>Español</summary>
+
+(El autor **resume** la esencia del capítulo  
+en varios Ślokas de la siguiente manera:-)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+समस्त-पुरुषार्थानां  
+**साधकस्य** दयानिधेः ।  
+श्रीमतः पूर्व-सिद्धत्वात्  
+सिद्धोपायम् इमं **विदुः** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+समस्त-पुरुषार्थानां  
+**साधकस्य** दयानिधेः ।  
+श्रीमतः पूर्व-सिद्धत्वात्  
+सिद्धोपायम् इमं **विदुः** ॥  
+</details>
+
+<details><summary>English</summary>
+
+The Lord of Śrī, who is the embodiment of compassion  
+and who secures, for them, all the benefits desired by men  
+is called Siddhopāya,  
+because He is already an existent upāya. 
+</details>
+
+<details><summary>Español</summary>
+
+El Señor de Śrī, que **es** la **encarnación** de la compasión  
+y quién **asegura**, para ellos, todos los beneficios **deseados** por los hombres  
+**se llama** Siddhopāya,  
+Porque ya **es** un upāya **existente**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+समस्तपुरुषार्थानां  
+साधकस्य दयानिधेः ।  
+श्रीमतः पूर्वसिद्धत्वात्  
+सिद्धोपायमिमं विदुः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**भक्ति-प्रपत्ति**-प्रमुखं  
+तद्-**वशीकार**-कारणम् ।  
+तत्-तत्-फलार्थि-**साध्यत्वात्**  
+साध्योपायं **विदुर्** बुधाः ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+**भक्ति-प्रपत्ति**-प्रमुखं  
+तद्-**वशीकार**-कारणम् ।  
+तत्-तत्-फलार्थि-**साध्यत्वात्**  
+साध्योपायं **विदुर्** बुधाः ॥  
+</details>
+
+<details><summary>English</summary>
+
+The ways of securing His favour are such as bhakti and prapatti  
+and these are called Sādhyopāyas,  
+because they can be adopted and accomplished  
+by those who desire the respective benefits. 
+</details>
+
+<details><summary>Español</summary>
+
+Las formas de **asegurar** su favor son como Bhakti y Prapatti  
+y **estos se llaman** sādhyopāyas,
+porque **pueden ser adoptados y logrados**
+por aquellos que **desean** los respectivos beneficios.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भक्तिप्रपत्तिप्रमुखं  
+तद्वशीकारकारणम् ।  
+तत्तत्फलार्थिसाध्यत्वात्  
+साध्योपायं विदुर्बुधाः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साध्योपायोत्तरङ्गेण  
+सिद्धोपायस्य शेषिणः ।  
+लीला-प्रवाहः कारुण्य-  
+**प्रवाहेण निरुध्यते** ॥ +++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+साध्योपायोत्तरङ्गेण  
+सिद्धोपायस्य शेषिणः ।  
+लीला-प्रवाहः कारुण्य-  
+**प्रवाहेण निरुध्यते** ॥ +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+When the Sādhyopāya flows with high mounting waves  
+and increases the flood of compassion of the śeṣī ,  
+who is the Siddhopāya,  
+the latter breaks through the flood of lilā  
+which is also His. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el Sādhyopāya **fluye** con olas altas en ascenso  
+y **aumenta** la **inundación** de la compasión del Śeṣī,  
+quien **es** el siddhopāya,  
+Este último **rompe** la **inundación** de Lilā  
+que también **es** suyo.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+साध्योपायोत्तरङ्गेण  
+सिद्धोपायस्य शेषिणः ।  
+लीलाप्रवाहः कारुण्य-  
+प्रवाहेण निरुध्यते ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेनैव सर्वे **लीयन्ते**  
+सिकता-सेतु-बन्धवत् ।  
+स्वतन्त्रस्यापि **सङ्कल्पास्**  
+स्व-कैङ्कर्य-**निरोधकाः** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तेनैव सर्वे **लीयन्ते**  
+सिकता-सेतु-बन्धवत् ।  
+स्वतन्त्रस्यापि **सङ्कल्पास्**  
+स्व-कैङ्कर्य-**निरोधकाः** ॥  
+</details>
+
+<details><summary>English</summary>
+
+By (that very flood of compassion)  
+all hindrances to His service,  
+such as even the former will of the Omnipotent,  
+disappear like dams built of fine sand.  
+</details>
+
+<details><summary>Español</summary>
+
+Por (esa misma inundación de compasión)  
+todos los obstáculos para su servicio,  
+como incluso la antigua voluntad del omnipotente,  
+**desaparecer** como presas **construidas** de arena fina.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तेनैव सर्वे लीयन्ते  
+सिकतासेतुबन्धवत् ।  
+स्वतन्त्रस्यापि सङ्कल्पास्  
+स्वकैङ्कर्यनिरोधकाः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रसादनस्योपायत्वे  
+शास्त्रीयेऽपि फलं प्रति ।  
+कर्तृत्वाव्यवधानाद्यैस्  
+सिद्धोपाय-**प्रधानता** ॥  
+</details>
+
+<details><summary>English</summary>
+
+Though the acts of propitiation (like bhakti and prapatti )  
+are prescribed in the śāstras for securing the fruit,  
+yet Siddhopāya is considered as of prime importance,  
+because the Lord alone is capable of granting mokṣa , since bhakti or prapatti being non-sentient,  
+cannot give the fruit directly  
+and since Bhagavān alone can act directly. 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque los **actos de propiciación** (como Bhakti y Prapatti)  
+**se prescriben** en los Śāstras para **asegurar** la fruta,  
+Sin embargo, Siddhopāya **se considera** de primordial importancia,  
+Porque el Señor solo **es capaz de otorgar** a Mokṣa, ya que Bhakti o Prapatti **no son** sensibles,  
+**no puedo dar** la fruta directamente  
+y dado que Bhagavān solo **puede actuar** directamente.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रसादनस्योपायत्वे  
+शास्त्रीयेऽपि फलं प्रति ।  
+कर्तृत्वाव्यवधानाद्यैस्  
+सिद्धोपायप्रधानता ॥  
+</details>
+
+
+
+To those who have adopted prapatti as the primary and independent means, it is specially ordained that they should rest on the Omnipresent in order that they may know that their own endeavour perishes instantly after prapatti. Therefore with what aim, the surrender of responsibility has been made to Siddhopāya - for that aim, the man should make no further endeavour and depend only on the Siddhopāya, In the definition of prapatti in the mantra for prapatti, in the injunction concerning it and in other passages and so also in Śrī Bhāṣya and the like and by tradition, Brahman is declared as the upāya. Just as we admit that certain (holy) places and the like which exist already are called dharma productive of spiritual excellence, so also it is said by those who understand the truth that Śrī Kṛṣṇa is the eternal dharma (or upāya ). This Siddhopāya is to be thought of in the three mysteries or mantrās in such as the syllable a in aum etc.
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
