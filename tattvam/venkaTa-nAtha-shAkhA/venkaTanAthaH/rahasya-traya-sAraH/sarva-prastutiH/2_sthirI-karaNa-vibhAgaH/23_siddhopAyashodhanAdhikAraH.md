@@ -10250,6 +10250,24 @@ que **es**, por así **decirlo**, inseparable de su cónyuge.
 पत्निक्कु नित्यपतिपारार्थ्यत्ताले यागतन्त्रत्तिऱ्पोले पतिप्रधानमाग शास्त्रङ् गळिलुपदेशङ्गळुक्कुम् एकऩ् यजमानऩॆऩ्ऩुमाप्पोले एकव्यपदेशत्तुक्कुङ् गुऱैयिल्लै।  
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+यागतन्त्रत्तिऱ्पोले इति । 
+
+> ‘‘स्वर्गकामो यजेत’’,  
+‘‘स्नाति’’,  
+‘‘अहतं वासः परिधत्त’’  
+
+इत्यादिकर्मत्तिल्  
+यजमाऩऩैये प्रधानमाग निर्देशित् तिरुप्पदु पोले ऎऩ्ऱबडि। 
+
+पतिप्रधानमाग शास्त्रङ्गळिलुपदेशङ्गळुक्कुमिति ।  
+‘‘स्वात्मानं मयि’’ ऎऩ्ऱुम्,  
+‘‘एकं मां’’ ऎऩ्ऱुम्  
+पतियाऩ भगवत्प्रधानमाऩ उपदेशङ्गळुक्कुम्, इदुक्कुक् कुऱैयिल्लै यॆऩ्बदोडन्वयम्। एकऩ् यजमाऩऩॆऩ्ऩु माप्पोले एकव्यपदेशत्तिऱ्कुम् कुऱैयिल्लै इति । यागत्तिल् पतिपत्निकळिरुवरुक्कुम् कर्तत्वमिरुक्कच् चॆय्देयुम् पतिये प्रधानमागैयाल् एकऩ् यजमाऩऩॆऩ्ऱु प्रामाणिकव्यवहारम्बोल् आत्महविस्समर्पणत्तिल् उभयोरुद्दश्यत्वमिरुन्दालुम्, मामकमॆऩ्ऱुम्, एक एव जगत्स्वामी ऎऩ्ऱुम् एकत्व व्यपदशत्तिऱ्कुक् कुऱैयिल्लै ऎऩ्ऱबडि। 
+</details>
+
+
 ##### आप्तोक्तयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10297,6 +10315,12 @@ Lakṣmī, incluido en Bhagavān,
 ६५’’तामरैयाळ् केळ्वऩॊरुवऩैये नोक्कुमुणर्व्’’(मुदल् तिरुवन्दादि ६७)  ऎऩ्गिऱदऱ्कुमिदुवे तात्पर्यम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडिये मुदलाऴ्वार् प्रभृतिकळ् दिव्यसूक्तिकळिल् एकशब्दत्तिऱ्कुम्, अवधारणत् तिऱ्कुम् विशेष्यप्राधान्यत्तिलेये तात्पर्यमॆऩ्गिऱार् तामरैयाळ्गेळ्वऩित्यादियाल्।  
+तामरैयाळ्गेळ्वऩ् - पङ्कजवासिनियाऩ पॆरियबिराट्टिक्कुप् पतियाऩ श्रीमाऩाऩ नारायणऩ्, ऒरुवऩैये - एकऩैये, इङ्गु नारायणऩॊरुवऩैये ऎऩ्ऱु सॊल्लामल् लक्ष्मीविशिष्टऩाऩ ऒरुवऩैये ऎऩ्ऱु विशिष्टवाचकशब्दत्तिऩ् पेरिल् एकत्ववाचकशब्दप्रयोगमुम्, अवधारणमुम् सॊल्लुगैयाल् इदऱ्कु विशेषणविशेष्योभयव्यतिरिक्त व्यावर्तकत्वमे कॊळ्ळ वेण्डुमागैयाल् प्रपत्तिज्ञानरूपमाऩ उणर्विऩ् विषयत्वम् विशेषणविशेष्यङ्गळिरण्डुक्कुमे सिद्धिक्कळामॆऩ्ऱु तात्पर्यम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10334,6 +10358,21 @@ El Śruti **no habla** de ti por **separado** ".
 
 ६६ ‘‘तदन्तर्भावात् त्वां न पृथगभिधत्ते श्रुतिरपि” ( श्री-गुण-रत्न-कोशः २८) ऎऩ्गिऱ वऴिगळुङ् गण्डुगॊळ्वदु। 
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+निर्वाहान्तरमरुळिच् चॆय्गिऱार् तदन्तर्भावात्त्वान्न पृथगभिधत्ते श्रुतिरपीति । भगवाऩुक्कु स्वरूपनिरूपकधर्ममाऩ नी, तत्प्रतीतिव्यवहारङ्गळिलन्तर्गतैयागैयाल् उऩ्ऩैत् तऩियागच् चॊल्लामल् तत्प्रधानमाग श्रुति सॊल्लिऱ्ऱॆऩ्ऱबडि। ऎऩ्गिऱ वऴिगळुम् कण्डुगॊळ्वदु इति ।  
+यागत्तिल् पतिपत्निकळुक्कुळ्ळे पति प्रधानऩाऩबडियाल्  
+‘‘स्नाति’’,  
+‘‘अहतं वासः परिधत्त’’, 
+
+ऎऩ्ऱुम्,  
+एकऩ् यजमाऩऩॆऩ्ऱुम् निर्देशमिरुप्पदुबोल्  
+‘‘मामेकं’’,  
+‘‘एक एव जगत्स्वामी’’त्यादिगळिल्  
+भगवन्निर्दशमुम् एकशब्दनिर्देशमुमॆऩ्ऱु निर्वाहम् सॊल्लक्कूडिय मार्गान्तरमुण्डॆऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10385,19 +10424,42 @@ Debe **entenderse** que Lakṣmī también **se hace referencia** ".
 ऎऩ्ऱु तुडङ्गि उडैयवररुळिच् चॆय्द वार्त्तैयै आच्चाऩ्बक्कलिले केट्टु नञ्जीयर् संग्रहित्तार्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इन्द निर्वाहत्तिल् ऒरु ऐतिह्यमरुळिच्चॆय्गिऱार् ऎम्बॆरुमाऩै इत्यादियाल्।  
+उडैयवर् अरुळिच्चॆय्द वार्त्तैयै इति ।  
+प्रपत्तिर्विश्वास इत्यादिगळाऩ संस्कृतवार्त्तैगळैप्पोल् ऎम्बॆरुमाऩैच् चॊऩ्ऩ इत्यादिद्रामिडवार्त्तैयैयुम् मुक्तकमाग उडैयवर् अरुळिच्चॆय्दारॆऩ्ऱु सम्प्रदायम्।  
+आच्चाऩ्बक्कलिले - माहानसिकराऩ किडाम्बि आच्चाऩ् पक्कलिले।  
+</details>
+
+
 #### आनुषङ्गिक-नतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आगैयाले काम्य-प्रधानम् आऩ "अधिकारार्चन"-रूपत्तिलुम् +++(पृथक् प्रतिष्ठापितायाम् अपि)+++  
-विष्णु-पत्नीत्वम् **प्रतिष्ठितम्** आगैयाले  
+आगैयाले काम्य-प्रधानम् आऩ +++(पृथक्-प्रतिष्ठापिता→)+++ "अधिकारार्चन"-रूपत्तिलुम् विष्णु-पत्नीत्वम् **प्रतिष्ठितम्** आगैयाले  
 
-+++(वक्षस्-स्था→)+++लय-+++(तस्या विष्णु-)+++भोगार्चनङ्गळिले **प्रवृत्तर् आय्**  
++++(वक्षस्-स्था→)+++लय-+++(विष्णु-सहिता→)+++भोगार्चनङ्गळिले   
+ **प्रवृत्तर् आय्**,  
 
 अनन्य-प्रयोजनर् आऩ मुमुक्षुक्कळुक्कुम्  
 
-काम्य-प्रधानम् आऩ +++(सन्तान-कृष्णादि-)+++ भगवद्-रूपत्तिऱ् पोले  
-+++(जगन्-)+++मातृत्वाद्य्-उपाधिकम् आऩ प्रणामाद्य्-आचारङ्गळुक्कुक् कुऱैय् इल्लै। 
++++(परम्)+++ काम्य-प्रधानम् आऩ +++(सन्तान-कृष्णादि-)+++ भगवद्-रूपत्तिऱ् पोले  
++++(पितृत्वापेक्षया)+++ मातृत्वाद्य्-उपाधिकम् आऩ प्रणामाद्य्-आचारङ्गळुक्कुक् कुऱैय् इल्लै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः काम्य-प्रधाने +++(पृथक्-प्रतिष्ठापिता→)+++ ऽधिकारार्चन-रूपेऽपि  
+विष्णु-पत्नीत्वस्य प्रतिष्ठितत्वात्  
+
++++(वक्षस्-स्था→)+++लय-+++(विष्णु-सहिता→)+++भोगार्चन-प्रवृत्तानाम्  
+अन्-अन्य--प्रयोजनानां मुमुक्षूणां  
+
++++(ततः परं सन्तान-कृष्णादि-)+++काम्य-प्रधान--भगवद्-रूपय् इव  
++++(पितृत्वापेक्षया)+++ मात्तृत्वाद्य्-उपाधिकानां प्रणामाद्य्-आचाराणां  
+न दोषः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10432,13 +10494,118 @@ Dado que en todas las **imágenes** de Lakṣmī (donde **sea** que **estén**)
 आगैयाले काम्यप्रधानमाऩ अधिकारार्चनरूपत्तिलुम् विष्णुपत्नीत्वम् प्रतिष्ठित मागैयाले लयभोगार्चनङ्गळिले प्रवृत्तराय् अनन्यप्रयोजनराऩ मुमुक्षुक्कळुक् कुम् काम्यप्रधानमाऩ भगवद्रूपत्तिऱ्पोले मातृत्वाद्युपाधिकमाऩ प्रणामाद्याचारङ् गळुक्कुक्कुऱैयिल्लै। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+प्रसङ्गात् लक्ष्मी विषयत्तिल् सिल विषयङ्गळै उपपादित्तुत्  
+तलैक्कट्टुगिऱार् आगैयाले इत्यादिना ।  
+
+आगैयाले -  
+लक्ष्मिक्कु पॆरुमाळैच् चॊऩ्ऩविडमॆल्लाम् ताऩुम् सॊऩ्ऩदागुम्बडियाऩ  
+नित्यपतिसाहित्यमिरुप्पदाले,  
+काम्यप्रधानमाऩ अधिकारार्चनरूपत्तिलुम् इत्यादि ।  
+पिराट्टिक्कु अर्चारूपत्तिल् लयम्, भोगम्, अधिकारार्चनमॆऩ्ऱु मूऩ्ऱु रूपङ्गळुण्डु।+++(5)+++  
+अदिल् **लयम्** तिरुमार्बिल् इरुक्कुम् नाच्चियार्;  
+**भोगम्** पक्कत्तिलिरुक्कुम् नाच्चियार्;  
+**अधिकारार्चनम्** तऩिक्-कोविल् नाच्चियार्।  
+अदिल् भोगार्चनरूपम् मोक्ष-प्रधानम् आयिरुक्कुम् ऎऩ्ऱुम्,  
+अधिकारार्चन-रूपम् काम्य-प्रधानम् आयिरुक्कुम् ऎऩ्ऱुम्,  
+भगवच्छास्त्रम् सॊल्लुगिऱदु।  
+अदिल् **भोगम्** पत्यर्चासहितम्।  
+**अधिकारार्चनम्** तद्रहितम्।  
+भगवाऩुडैय अर्चारूपमुम्  
+काम्यप्रधानमॆऩ्ऱुम्, मोक्षप्रधानमॆऩ्ऱुम् इरण्डु विधम्।+++(5)+++  
+**काम्यप्रधानम्** मदनगोपालदिरूपम्।  
+**मोक्षप्रधानम्** रामकृष्णादिरूपम्।  
+
+इप्पडि शास्त्रमिरुप्पदाल् पत्यर्चारहितमायुम् काम्यप्रधानमुमाऩ तऩिक्कोविल् नाच्चियारुक्कु पतिसाहित्यमुम्, अनन्यप्रयोजनपरमैकान्तिसेव्यत्वमुम् कूडुमोवॆऩ्गिऱ मध्यस्थशङ्गैयैप् परिहरिक्किऱार् काम्यप्रधानमाऩ अधिकारार्चनरूपत्तिलुमिति ।  
+विष्णुपत्नीत्वम् - विष्णुसाहित्यम्,  
+सुप्रतिष्ठितमागैयाले इति । विष्ण्वर्चारहितमाऩालुम् भास्करप्रभान्यायत्ताले विष्ण्वविनाभावम् सिद्धमागैयालॆऩ्ऱबडि।  
+लयभोगार्चनङ्गळिले प्रवृत्तर् आय्  
+अनन्यप्रयोजनराऩ मुमुक्षुक्कळुक्कुमिति । इदऩाल् लयभोगार्चनङ्गळ् मोक्षप्रधानङ्गळॆऩ्ऱुम्, अनन्यप्रयोजनमुमुक्षूपास्यङ्गळॆऩ्ऱुम् ज्ञापितम्। 
+
+विष्णुपत्नीत्वमिरुन्दालुम्  
+काम्यार्चऩैक्कु परमैकान्तिसेव्यत्वम् कूडुवद् ऎङ्ङऩे यॆऩ्ऩ? दृष्टान्तप्रदर्शनपूर्वकम् अदु कूडुमॆऩ्गिऱार् काम्यप्रधानमाऩ भगवद्रूपत्तिऱ्पोले इति । काम्यप्रधानमाऩ भगवद्रूपम् मदनगोपालादि । 
+
+सेव्यत्वे उपायान्तरमरुळिच्चॆय्गिऱार् मातृत्वाद्युपाधिकमाऩ प्रणामाद्याचारङ्गळुक्कुमिति ।  
+इङ्गु आदिपदत्ताले स्वामित्वपरिग्रहः ।  
+</details>
+
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि मध्य-स्थ-दृष्टियाले  
+प्रामाणिकार्थङ्गळ् **तोऱ्ऱच् चॆय्दे**  
+पऱ्ऱिऩदु विडाद् ऒऴियिल्,  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं मध्य-स्थ-दृष्ट्या प्रामाणिकार्थेषु प्रतीयमानेषु सत्स्व् अपि  
+गृहीतस्यापरित्यागे,  
+</details>
+
+
+<details><summary>English</summary>
+
+When such authoritative doctrines are seen,  
+in the words of those who are disinterested,  
+those who are still so obstinate as not to give up their wrong notions,  
+are in a state described in the following śloka-s - 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se ven** tales doctrinas autorizadas,  
+en palabras de aquellos que **están** desinteresados,  
+aquellos que todavía **son** tan obstinados como para **no renunciar** a sus nociones equivocadas,  
+**están** en un estado descrito en el siguiente Śloka-S -
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि मध्यस्थदृष्टियाले प्रामाणिकार्थङ्गळ् तोऱ्ऱच्चॆय्दे पऱ्ऱिऩदु विडादॊऴियिल्, 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि प्रमाणङ्गळैक्कॊण्डुम्,  सम्प्रदायङ्गळैक्कॊण्डुम् तेवरीर् सन्देहमऱ निरूपित्तालुम् वादिगळ् गृहीतग्राहिकळागिल् मुडिवदॆऩ्ऩॆऩ्ऩ वरुळिच्चॆय्गिऱार् इप्पडि मध्यस्थदृष्टियाले प्रामाणिकार्थङ्गळ् तोऱ्ऱच्चॆय्दे पऱ्ऱिऩदु विडादॊऴियिलिति । इदऱ्कु ’’ऎऩ्गिऱ दशैया’’ मॆऩ्बदोडन्वयम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६७‘‘दृढ-पूर्व-श्रुतो मूर्खो  
+धर्माणाम् अ-विशारदः ।  
+वृद्धान् **अ-पृच्छन्** सन्देहान्  
+अन्ध-श्वभ्रम्+++(=गर्तम्)+++ **इवर्च्छति**॥’  
+(भारतम् कर्ण-पर्व ७२-५४)’, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ६७‘‘दृढ-पूर्व-श्रुतो मूर्खो  
+धर्माणाम् अ-विशारदः ।  
+वृद्धान् **अ-पृच्छन्** सन्देहान्  
+अन्ध-श्वभ्रम्+++(=गर्तम्)+++ **इवर्च्छति**॥’  
+(भारतम् कर्ण-पर्व ७२-५४)’, 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+६७‘‘दृढपूर्वश्रुतो मूर्खो धर्माणामविशारदः । वृद्धानपृच्छन्सन्देहानन्धश्वभ्रमिवर्च्छति’(भारतम् कर्ण-पर्व ७२-५४)’, 
+</details>
 
 
 
 
 
-
-When such authoritative doctrines are seen, in the words of those who are disinterested, those who are still so obstinate as not to give up their wrong notions, are in a state described in the following śloka s:- "The fool" who clings firmly to what he has learnt before, the man who is ignorant of dharma, the man who will not have his doubts cleared by those grown old in wisdom - this man will come to grief like a blind man falling into a ditch", and “ To  those who are weak in intelligence, who are wicked, who have been bitten by the serpent of specious reasoning and whose senses have become deluded -to these men, truths appear different from what they (really) are",
+"The fool who clings firmly to what he has learnt before, the man who is ignorant of dharma, the man who will not have his doubts cleared by those grown old in wisdom - this man will come to grief like a blind man falling into a ditch", and “ To  those who are weak in intelligence, who are wicked, who have been bitten by the serpent of specious reasoning and whose senses have become deluded -to these men, truths appear different from what they (really) are",
 
 In the investigation of the real meaning of the word Siddhopāya, the following passages should be remembered:- "There is nothing other than these two. The males are Bhagavān and the females are Lakṣmī ". "Just as Viṣṇu  is in all things, so also is she, O, best of Brahmins,". "The heart of this lady is fixed on ŚrīRāma and his heart is ever fixed on her. Therefore it is that she and ŚrīRāma who is the embodiment of dharma continue alive for even the fraction of an hour." "Both Bhagavān and Lakṣmī  aro omnipresent, since they are inseparably united, they are spoken of as one tattva or real." Therefore, since they form a single seshi, since they are ever of the same mind, since they are intimately attached to each other, and since they are inseparably connected with each other in their svarūpa or essential nature, and in their rūpa or forms, those who are established in sattva should understand the meaning of the word Nārāyaṇa with its adjective Śrīmat in such a manner as will not be at variance with the inseparable unity of the tattvam (Bhagavān ) with its attribute (Śrī) so well expressed in the śloka  :- "Thy essential nature svarūpa and the forms that Thou takest and the svarūpa and the forms assumed by Bhagavān are in close embrace with each other."
 
