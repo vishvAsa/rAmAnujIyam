@@ -10969,6 +10969,14 @@ y el Svarūpa y las formas **asumidas** por Bhagavān
 सत्त्व-स्थर्क्कुप् प्राप्तम्।  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तथा सुश्लिष्ट-विशिष्ट-तत्त्व--स्थित्य्-अबाधेन  
+स-विशेषण-नारायण-शब्द(~~एन~~)--प्रतिपादन-प्रकारस्यानुसन्धाने  
+सत्त्व-स्थानां न्याय-प्राप्तम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 those who are established in sattva  
@@ -11180,6 +11188,15 @@ como incluso la antigua voluntad del omnipotente,
 सिद्धोपाय-**प्रधानता** ॥  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रसादनस्योपायत्वे  
+शास्त्रीयेऽपि फलं प्रति ।  
+कर्तृत्वाव्यवधानाद्यैस्  
+सिद्धोपाय-**प्रधानता** ॥  
+</details>
+
+
 <details><summary>English</summary>
 
 Though the acts of propitiation (like bhakti and prapatti )  
@@ -11208,13 +11225,185 @@ y dado que Bhagavān solo **puede actuar** directamente.
 सिद्धोपायप्रधानता ॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-तन्त्र--न्यास-**निष्ठानां**  
+सिद्धोपाये विभौ **स्थितिः** ।  
+क्षणात् स्व-यत्न-विरति-  
+**व्यक्त्यै प्रोक्ता** विशेषतः ॥  
+</details>
+
+<details><summary>English</summary>
+
+To those who have adopted prapatti as the primary and independent means,  
+it is specially ordained  
+that they should rest on the Omnipresent  
+in order that they may know that their own endeavour perishes instantly after prapatti.  
+</details>
+
+<details><summary>Español</summary>
+
+A aquellos que **han adoptado** Prapatti como medios principales e independientes,  
+**está** especialmente ordenado  
+que **deben descansar** en el omnipresente  
+Para que **sepan** que su propio esfuerzo **perece** instantáneamente después de Prapatti.
+</details>
 
 
-To those who have adopted prapatti as the primary and independent means, it is specially ordained that they should rest on the Omnipresent in order that they may know that their own endeavour perishes instantly after prapatti. Therefore with what aim, the surrender of responsibility has been made to Siddhopāya - for that aim, the man should make no further endeavour and depend only on the Siddhopāya, In the definition of prapatti in the mantra for prapatti, in the injunction concerning it and in other passages and so also in Śrī Bhāṣya and the like and by tradition, Brahman is declared as the upāya. Just as we admit that certain (holy) places and the like which exist already are called dharma productive of spiritual excellence, so also it is said by those who understand the truth that Śrī Kṛṣṇa is the eternal dharma (or upāya ). This Siddhopāya is to be thought of in the three mysteries or mantrās in such as the syllable a in aum etc.
+<details><summary>मूलम्</summary>
+
+स्वतन्त्रन्यासनिष्ठानां सिद्धोपाये विभौ स्थितिः ।  
+क्षणात्स्वयत्नविरतिव्यक्त्यै प्रोक्ता विशेषतः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो यद्-अर्थं स्व-भरस्  
+सिद्धोपाये **निवेशितः** ।  
+तद्-अर्थं शान्त-यत्नोऽसौ  
+सिद्धोपायं **प्रतीक्षते** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो यद्-अर्थं स्व-भरस्  
+सिद्धोपाये **निवेशितः** ।  
+तद्-अर्थं शान्त-यत्नोऽसौ  
+सिद्धोपायं **प्रतीक्षते** ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore with what aim the surrender of responsibility has been made to Siddhopāya -  
+for that aim, the man should make no further endeavour  
+and depend only on the Siddhopāya. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, con el objetivo de la **rendición** de la responsabilidad **se ha hecho** a Siddhopāya -  
+Para ese objetivo, el hombre **no debe hacer** más esfuerzo  
+y **depende** solo del Siddhopāya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो यदर्थं स्वभरस्  
+सिद्धोपाये निवेशितः ।  
+तदर्थं शान्त-यत्नोऽसौ  
+सिद्धोपायं प्रतीक्षते ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपत्तेर् लक्षणे मन्त्रे  
+विधौ वाक्यान्तरेषु च ।  
+भाष्यादौ संप्रदाये चो+  
++पायत्वं ब्रह्मणि **स्थितम्** ॥ 
+</details>
+
+<details><summary>English</summary>
+
+In the definition of prapatti in the mantra for prapatti,  
+in the injunction concerning it and in other passages and so also in Śrī Bhāṣya and the like, and by tradition,  
+Brahman is declared as the upāya. 
+</details>
+
+<details><summary>Español</summary>
+
+En la definición de Prapatti en el mantra para Prapatti,  
+en la orden sobre él y en otros pasajes y así también en Śrī Bhāṣya y similares, y por tradición,  
+Brahman **es declarado** como el upāya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तेर्लक्षणे मन्त्रे विधौ वाक्यान्तरेषु च ।  
+भाष्यादौ संप्रदाये चोपायत्वं ब्रह्मणि स्थितम् ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्व-सिद्धस्य देशादेर्  
++++(श्रेय-उत्पादकतया)+++ धर्मत्वं यद् **वदिष्यते** ।  
+एवं तत्त्व-**विदः प्राहुः**  
+कृष्णं धर्मं सनातनम् ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पूर्व-सिद्धस्य देशादेर्  
++++(श्रेय-उत्पादकतया)+++ धर्मत्वं यद् **वदिष्यते** ।  
+एवं तत्त्व-**विदः प्राहुः**  
+कृष्णं धर्मं सनातनम् ॥
+</details>
+
+<details><summary>English</summary>
+
+Just as we admit that  
+certain (holy) places and the like which exist already are called dharma - productive of spiritual excellence,  
+so also it is said by those who understand the truth  
+that Śrī Kṛṣṇa is the eternal dharma (or upāya ). 
+</details>
+
+<details><summary>Español</summary>
+
+Tal como **admitimos** que  
+ciertos lugares (santos) y los que **existen** ya **se llaman** dharma - **productivos** de la excelencia espiritual,   
+así también **lo dicen** aquellos que **entienden** la verdad  
+que Śrī Kṛṣṇa **es** el dharma eterno (o upāya).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पूर्वसिद्धस्य देशादेर्धर्मत्वं यद्वदिष्यते ।  
+एवं तत्त्वविदः प्राहुः कृष्णं धर्मं सनातनम् ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस्-सिद्धोपायम्  
+रहस्य-त्रयत्तिल् प्रथमाक्षरादि-स्थानङ्गळिले अनुसन्धेयम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं सिद्धोपायो रहस्य-त्रये प्रथमाक्षरादि-स्थानेष्व् अनुसन्धेयः ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+This Siddhopāya is to be thought of  
+in the three mysteries or mantrās,  
+such as in the syllable a in aum etc.
+
+</details>
+
+<details><summary>Español</summary>
+
+Este siddhopāya es **ser pensado** en  
+En los tres misterios o mantrās,  
+como en la sílaba a en aum, etc.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इस्सिद्धोपायम् रहस्यत्रयत्तिल् प्रथमाक्षरादिस्थानङ्गळिले अनुसन्धेयम्। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-मन्नुमनैत्तुऱवाय् मरुण्माऱ्ऱरुळाऴियुमाय्त्  
+मन्नुम् अनैत्त् उऱव् आय् मरुण्माऱ्ऱरुळाऴियुमाय्त्  
 तन्निनैवालनैत्तुन् दरित्तोङ्गुन्दनियिऱैयाय्  
 इन्नमुदत्तमुदालिरङ्गुन् दिरुनारणने  
 मन्नियवन्सरण्मऱ्ऱोर्बऱ्ऱिऩ्ऱि वरिप्पवर्क्के. (34)
