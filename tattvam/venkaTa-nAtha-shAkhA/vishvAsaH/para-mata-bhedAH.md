@@ -87,6 +87,7 @@ title = "पर-मत-भेदाः"
 ## अष्ट-प्रकरण-शैवाः
 - आचारः
   - उभयत्रापि वेदाविरोधः प्रशस्तः, आगमानुसरणं च - दीक्षानन्तरम् अपि। तद्-अतिचारिणां खण्डनम् कृतम्।
+  - लोकसङ्ग्रहार्थम् एव तद् इति - "The great Saiddhāntika Ācārya Vaktraśambhu stresses the importance of Śrautasmārtakarma (including Paśubandha) and states that Śaivas should do them without expecting fruits and even though such karmas do not add anything to Śaiva practice."
   - शैवा अपि प्रणवं विनैव नमश्शिवायेत्य् उपदिशन्ति स्म वेदबाह्येभ्यः।
 - देवता लोकाश् च
   - उभयत्र केषाञ्चन देवानां लोकानां च प्राकृत-शरीरत्वम्, बद्धत्वं चाङ्गीकृतम्। शैवा वदन्ति "विष्णु-ब्रह्मादयः प्राकृतशरीरवन्त" इति। श्रीवैष्णवास् तु "शिव-ब्रह्मादयोः प्राकृतशरीरवन्त" इति।
