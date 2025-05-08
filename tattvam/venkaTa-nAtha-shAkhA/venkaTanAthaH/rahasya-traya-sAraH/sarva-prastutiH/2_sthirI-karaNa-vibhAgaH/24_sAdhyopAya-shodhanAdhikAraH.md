@@ -109,7 +109,8 @@ Esto **es** también lo que **prescribe** la tradición religiosa.
 
 </details>
 
-
+## प्रयोजनम्
+### सौभाग्यम्
 <details><summary>English</summary>
 
 THE NEED FOR THE CLARIFICATION OF WHAT IS MEANT BY SĀDHYOPĀYA:
@@ -243,11 +244,219 @@ Al **ver** que lo que se **considera** agradable por personas no inteligentes
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘परमात्मनि यो रक्तः’’(बार्हस्पत्य-स्मृतिः) 
+
+ऎऩ्गिऱबडिये प्राप्य-रुचिय् उण्ड् आऩालुम्,
+</details>
+
+<details><summary>English</summary>
+
+He may have acquired an eager longing for the attainment of the Supreme Being  
+as stated in the śloka :- 
+
+> "He who loves Bhagavān, the Supreme Being,  
+has no love for anything else"; 
+</details>
+
+<details><summary>Español</summary>
+
+Es posible que **haya adquirido** un **anhelo** ansioso por el **logro** del ser supremo  
+Como **se indica** en el Śloka:-
+
+> "El que ama a Bhagavān, el ser supremo,
+**no tiene** amor por nada más ";
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘परमात्मनि यो रक्तः’’(बार्हस्पत्य-स्मृतिः) ऎऩ्गिऱबडिये प्राप्यरुचियुण्डाऩालुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘महता पुण्य-पण्येन  
+**क्रीतेयं** काय-नौस् त्वया ।  
+**प्राप्तुं** दुःखोदधेः पारं  
+त्वर यावन् न भिद्यते॥’’  
+(वराहपुराणम्) 
+
+ऎऩ्गिऱ पडिये त्वरै पिऱन्दालुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘महता पुण्य-पण्येन  
+**क्रीतेयं** काय-नौस् त्वया ।  
+**प्राप्तुं** दुःखोदधेः पारं  
+त्वर यावन् न भिद्यते॥’’  
+(वराहपुराणम्) 
+
+
+</details>
+
+<details><summary>विषयः</summary>
+
+मनुष्य-जन्म, मुमुक्षा
+</details>
+
+
+<details><summary>English</summary>
+
+he may have the feeling of urgency in regard to mokṣa as stated in the śloka :- 
+
+> "By paying a heavy price in the form of virtuous deeds,  
+this boat of a body has been bought.  
+Before this boat is broken (or becomes leaky),  
+hasten to cross the sea of sorrow'. 
+</details>
+
+<details><summary>Español</summary>
+
+Puede **tener** el sentimiento de urgencia con respecto a Mokṣa  
+como **se indica** en el Śloka:-
+
+> "Al **pagar** un precio pesado en forma de **hechos** virtuosos,  
+Este bote de un cuerpo **ha sido comprado**.  
+Antes de que **este** bote **se rompa** (o **se vuelva** con **fugas**),  
+**Agregarse** para **cruzar** el mar de tristeza '. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘महता पुण्यपण्येन क्रीतेयं कायनौस्त्वया ।  
+प्राप्तुं दुःखोदधेः पारं त्वर यावन्न भिद्यते’’(वराहपुराणम्) 
+
+ऎऩ्गिऱ पडिये त्वरै पिऱन्दालुम्, 
+</details>
+
+### छिद्रम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनादिय् आगव् अनुवृत्तम् आऩव् आज्ञातिलङ्घनम् अडियागप् पिऱन्दु निऱ्किऱ  
+बन्धकम् आऩ भगवन्-निग्रहत्तुक्कुप् प्रशमनम् आग 
+</details>
+
+<details><summary>English</summary>
+
+In spite of all these, (as that) which is the means of extinguishing the punishment inflicted by Bhagavān  
+which binds a man to saṁsāra  
+and which resulted from beginningless and continued violation of His commands -  
+</details>
+
+<details><summary>Español</summary>
+
+A pesar de todo esto, (como eso) que **es** el medio de **extinguir** el castigo **infligido** por Bhagavān  
+que une a un hombre a Saṁsāra  
+y que **resultó** de una **violación** sin inicio y continua de sus mandamientos -
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनादियागवनुवृत्तमाऩ वाज्ञातिलङ्घनमडियागप्पिऱन्दु निऱ्किऱ बन्धकमाऩ भगवन्निग्रहत्तुक्कुप् प्रशमनमाग 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘मामेकं शरणं व्रज’’  
+
+ऎऩ्ऱु विधि-वाक्यत्तालुम्, 
+
+> ‘‘प्रपद्ये’’ 
+
+ऎऩ्ऱ् अनुष्ठान-वाक्यत्तालुञ् जॊल्लप् पट्ट  
+साध्योपाय-विशेषन् तॆळियाद बोदु 
+</details>
+
+<details><summary>English</summary>
+
+if he does not clearly understand (all) about the Sādhyopāya,  
+prescribed in the injunction, “Seek refuge under me alone"  
+and in the sentence which expresses the action, "I seek refuge" (in Dvaya), 
+</details>
+
+<details><summary>Español</summary>
+
+Si **no entiende** claramente (todo) sobre el sādhyopāya,  
+**prescrito** en la orden, 
+
+> "**Busque** refugio bajo mí solo"
+
+y en la oración que expresa la acción, 
+
+> "**busco** refugio" (en dvaya),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मामेकं शरणं व्रज’’ ऎऩ्ऱु विधिवाक्यत्तालुम्, ‘‘प्रपद्ये’’ ऎऩ्ऱनुष्ठानवाक्यत्तालुञ् जॊल्लप्पट्ट साध्योपायविशेषन्तॆळियादबोदु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिद्धोपाय-भूतऩ् आऩ सर्वेश्वरऩै वशी-करिक्क विरगिल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+if he does not understand it,  
+there is no way of propitiating and winning the grace of the Supreme Ruler,  
+who is the Siddhopāya. 
+</details>
+
+<details><summary>Español</summary>
+
+Si **no lo entiende**  
+**No hay** forma de **propiciar** y **ganar** la gracia del gobernante supremo,  
+quien **es** el siddhopāya.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सिद्धोपायभूतऩाऩ सर्वेश्वरऩै वशीकरिक्क विरगिल्लै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल्  
+अदिऩ् अधिकारत्तिलुम्, स्वरूपत्तिलुम्, परिकरङ्गळिलुम् वरुम्  
+कलक्कङ्गळै शमिप्पिक्किऱोम्। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore we will remove misconceptions that might arise concerning  
+
+(1) competence thereof  
+(2) the nature of Sādhyopāya and  
+(3) the accessories pertaining to it.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **eliminaremos** los conceptos erróneos que **pueden surgir** con respecto
+
+(1) Competencia del mismo
+(2) la naturaleza de sādhyopāya y
+(3) Los accesorios relacionados con él.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् अदिऩधिकारत्तिलुम्, स्वरूपत्तिलुम्, परिकरङ् गळिलुम् वरुम् कलक्कङ्गळै शमिप्पिक्किऱोम्। 
+</details>
 
 
 
-
-He may have acquired an eager longing for the attainment of the Supreme Being as stated in the śloka :- "He who loves Bhagavān, the Supreme Being, has no love for anything else"; he may have the feeling of urgency in regard to mokṣa as stated in the śloka :- "By paying a heavy price in the form of virtuous deeds, this boat of a body has been bought. Before this boat is broken (or becomes leaky), hasten to cross the sea of sorrow'. In spite of all these, if he does not clearly understand (all) about the Sādhyopāya, prescribed in the injunction, “Seek refuge under me alone" and in the sentence which expresses the action, "I seek refuge" (in Dvaya), which is the means of extinguishing the punishment inflicted by Bhagavān which binds a map to saṁsāra and which resulted from beginningless and continued violation of His commands - if he does not understand it, there is no way of propitiating and winning the grace of the Supreme Ruler, who is the Siddhopāya. Therefore we will remove misconceptions that might arise concerning (1) competence therefor (2) the nature of Sādhyopāya and (3) the accessories pertaining to it.
 
 COMPETENCE: PRAPATTI IS OPEN TO ALL (CASTES):
 
