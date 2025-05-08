@@ -130,6 +130,14 @@ de lo que **se entiende** por sādhyopāya:
 सिद्धोपाय-विशेषन् तॆळिन्दालुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं सर्वज्ञस्य सर्वशक्तेः परम-कारुणिकस्य सर्वशेषिणः  
+स-पत्नीकस्य सर्व-लोक-शरण्यस्य सिद्धोपाय-विशेषस्य  
+विशदं वेदने ऽपि, 
+</details>
+
+
 <details><summary>English</summary>
 
 A man may have a clear knowledge of Siddhopāya (viz. Bhagavān)  
@@ -179,7 +187,7 @@ quien, junto con su cónyuge, **es** el Śeṣī de todos y el Salvador del mund
 वियोगो बान्धवैर् **आयुः**  
 किं तद् येनात्र तुष्यति॥’’()  
 
-
+इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>विषयः</summary>
@@ -215,7 +223,12 @@ La vida larga **hace** que uno **sufra** el **duelo** de las relaciones,
 
 ऎऩ्गिऱबडिये  
 </details>
- 
+
+<details><summary>सार-बोधिनी</summary>
+
+आरोग्यमिति । संसारिकळुक्कु गुणवत्तागत् तोऩ्ऱिऩ आरोग्यमुम्, ऐश्वर्यमुम्, आयुर्वृद्धियुम् विवेगिगळुक्कु इन्द्रियौल्बण्यापादकङ्गळा कैयालुम्, शत्रुशालिताजनकमागैयालुम्, बन्धुवियोगहेतुवागैयालुम्, दुष्टङ्गळागत् तोऩ्ऱुगैयाल् इन्द लोगत्तिल् विवेगिगळुक्कु सन्तोषजनकमाऩदु ऒऩ्ऱुण्डो? ऎऩ्बदु इन्द श्लोकत्तिऩ् तात्पर्यम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -223,6 +236,13 @@ La vida larga **hace** que uno **sufra** el **duelo** de las relaciones,
 दोषम् आऩ बडि कण्डु  
 संसार-वैराग्यम् पूर्णम् आऩालुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-विवेकिना गुणतया प्रतीतेष्व् अपि  
+दोषता-दर्शनेन संसार-वैराग्ये पूर्णे जातेऽपि 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -250,6 +270,14 @@ Al **ver** que lo que se **considera** agradable por personas no inteligentes
 
 ऎऩ्गिऱबडिये प्राप्य-रुचिय् उण्ड् आऩालुम्,
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘परमात्मनि यो रक्तः’’(बार्हस्पत्य-स्मृतिः) 
+
+इत्य्-उक्त-रीत्या प्राप्य-रुचौ जातायाम् अपि, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -295,7 +323,7 @@ Como **se indica** en el Śloka:-
 त्वर यावन् न भिद्यते॥’’  
 (वराहपुराणम्) 
 
-
+इत्य्-उक्त-रीत्या त्वरायाम् उत्पन्नायाम् अपि 
 </details>
 
 <details><summary>विषयः</summary>
@@ -334,6 +362,13 @@ Antes de que **este** bote **se rompa** (o **se vuelva** con **fugas**),
 ऎऩ्गिऱ पडिये त्वरै पिऱन्दालुम्, 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+महतेति । इदु वराहबुराणवसनम्। महता – अत्युक्तृष्टमाऩ पुण्यपण्येन - पुण्यमागिऱ क्रयसाधकद्रव्यत्ताले इयं इन्द काय नौः – शरीरमागिऱ ओडमाऩदु, त्वया - उऩ्ऩाले, दुःखोदधेः – दुःखरूपमाऩ संसारसमुद्रत्तिऩुडैय, पारं - अक्करैयागिऱ मोक्षत्तै, प्राप्तुं - अडैवदऱ्कागवे, क्रीता - वाङ्गप्पट्टदु। आगैयाले इन्द ओडम्, यावन्न भिद्यते - ऎव्वळवुपर्यन्तम् उडैयामलिरुक्कुमो, अदऱ्कुळ्ळेये, त्वर - दुःखसमुद्रत्तिऩ् अक्करैयागिऱ मोक्षत्तैयडैवदऱ्कुत्वरि ऎऩ्गै - उपायत्तै अनुष्ठि ऎऩ्ऱबडि। 
+</details>
+
+
+
 ### छिद्रम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -341,6 +376,13 @@ Antes de que **este** bote **se rompa** (o **se vuelva** con **fugas**),
 अनादिय् आगव् अनुवृत्तम् आऩव् आज्ञातिलङ्घनम् अडियागप् पिऱन्दु निऱ्किऱ  
 बन्धकम् आऩ भगवन्-निग्रहत्तुक्कुप् प्रशमनम् आग 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनाद्य्-अनुवृत्ताज्ञातिलङ्घनाद् +धेतोर् जातस्य  
+बन्धकस्य भगवनिग्रहस्य प्रशमनत्वेन 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -362,6 +404,7 @@ y que **resultó** de una **violación** sin inicio y continua de sus mandamient
 </details>
 
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘मामेकं शरणं व्रज’’  
@@ -373,6 +416,19 @@ y que **resultó** de una **violación** sin inicio y continua de sus mandamient
 ऎऩ्ऱ् अनुष्ठान-वाक्यत्तालुञ् जॊल्लप् पट्ट  
 साध्योपाय-विशेषन् तॆळियाद बोदु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘मामेकं शरणं व्रज’’  
+
+इति विधि-वाक्येन, 
+
+> ‘‘प्रपद्ये’’ 
+
+इत्य् अनुष्ठान-वाक्येन च प्रतिपादितस्य  
+साध्योपाय-विशेषस्य यथावद् वेदनाभावे, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -402,8 +458,15 @@ y en la oración que expresa la acción,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सिद्धोपाय-भूतऩ् आऩ सर्वेश्वरऩै वशी-करिक्क विरगिल्लै। 
+सिद्धोपाय-भूतऩ् आऩ सर्वेश्वरऩै वशी-करिक्क विरग्+++(=उपाय)+++ इल्लै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सिद्धोपाय-भूतस्य सर्वेश्वरस्य वशीकरणार्थम् उपायो नास्ति । 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -424,6 +487,11 @@ quien **es** el siddhopāya.
 सिद्धोपायभूतऩाऩ सर्वेश्वरऩै वशीकरिक्क विरगिल्लै। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+वशीकरिक्क विरगिल्लैयिति । आगैयाल् साध्योपायत्तै शोधित्तु अदिल् तॆळिवै सम्बादिक्क वेण्डुमॆऩ्ऱु करुत्तु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -431,6 +499,12 @@ quien **es** el siddhopāya.
 अदिऩ् अधिकारत्तिलुम्, स्वरूपत्तिलुम्, परिकरङ्गळिलुम् वरुम्  
 कलक्कङ्गळै शमिप्पिक्किऱोम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतस् तस्याधिकारे, स्वरूपे, परिकरेषु चोपनमतो व्यामोहान् शमयामः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -455,12 +529,189 @@ Por lo tanto, **eliminaremos** los conceptos erróneos que **pueden surgir** con
 आगैयाल् अदिऩधिकारत्तिलुम्, स्वरूपत्तिलुम्, परिकरङ् गळिलुम् वरुम् कलक्कङ्गळै शमिप्पिक्किऱोम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+आगैयाल् - तॆळियवेण्डुमागैयाल्, अदिऩ् - साध्योपायसम्बन्धिकळाऩ, कलक् कङ्गळै शमिप्पिक्किऱोमिति प्रतिज्ञा । 
+</details>
 
 
 
-COMPETENCE: PRAPATTI IS OPEN TO ALL (CASTES):
+## अधिकारः
+<details><summary>English</summary>
 
-There are some who will ask: " This prapatti is a dharma prescribed in the Vedas. If so, how can it be said that every one (of all castes) is qualified to perform it?" The answer to this question is given on the authority of the Svetasvatara Śruti, which says that the Supreme Ruler is the Saviour of all. This truth is confirmed by expository passages like the following: “Take me to Raghava who is the Protector of all the worlds”, and in ślokas like:--"You should seek the protection of Viṣṇu who is fit to be approached by every one, who is easy of approach, who can never go wrong and has no one to compare with Him and who removes the suffering of those who perform prapatti". It is confirmed also by passages in the Sātvatasamhita (2.9), which says that all the three castes beginning with the Kṣatriyas and ending with the Śūdras who have performed prapatti, are competent to adore the four vyūhas, without mantras. So also is
+COMPETENCE: PRAPATTI IS OPEN TO ALL (CASTES).
+</details>
+
+<details><summary>Español</summary>
+
+COMPETENCIA: PRAPATTI ESTÁ **ABIERTA** A TODOS (CASTOS).
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप् प्रपत्तियुम् ऒरु वैदिक-धर्मम् अऩ्ऱो?  
+इदुवुम् ऒरु याग-विशेषम् आगव् अऩ्ऱो  
+न्यास-विद्यैयिले ओदप्-पडुगिऱदु?  
++++("तस्माच् छूद्रो यज्ञेऽनवक्लृप्तः" इति च सति)+++  
+आगैयालिदु सर्वाधिकारम् आग कूडुमोव्? 
+
+ऎऩ्ऱु सिलर् विचारिप्पार्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२०३]] 
+
+> इयं प्रपत्तिर् अपि कश्चिद् वैदिकधर्मः किल ?  
+इयम् अपि कश्चित् याग-विशेष इति किल न्यास-विद्यायाम् आम्नायते ।  
++++("तस्माच् छूद्रो यज्ञेऽनवक्लृप्तः" इति च सति)+++  
+अत इयं सर्वाधिकारा कथं भवितुम् अर्हति
+
+इति केचिद् विचारयन्ति । 
+</details>
+
+
+<details><summary>English</summary>
+
+There are some who will ask: 
+
+> "This prapatti is a dharma prescribed in the Vedas.  
+If so, how can it be said that  
+every one (of all castes) is qualified to perform it?" 
+</details>
+
+<details><summary>Español</summary>
+
+Hay algunos que preguntarán:
+
+> "Este Prapatti **es** un Dharma **prescrito** en los Vedas.  
+¿Si **es** así, cómo **se puede decir** que -
+Todos (de todas las castas) **están calificados** para **realizarlo**? "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्प्रपत्तियुमॊरु वैदिकधर्ममऩ्ऱो; इदुवुमॊरु यागविशेषमागवऩ्ऱो न्यासविद्यैयिले ओदप्पडुगिऱदु; आगैयालिदु सर्वाधिकारमागगूडुमो वॆऩ्ऱु सिलर् विचारिप्पार्गळ्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अदिल् उद्देशक्रमत्ताले मुन्दुऱ साध्योपायत्तिऩु टैय अधिकारविषयगलक्कत्तै परिहरिक्क निऩैत्तु शङ्गैयै अनुवदिक्किऱार् इप् प्रपत्तियुमित्यादिना । प्रपत्तियुमॊरु वैदिकधर्ममऩ्ऱो इति । वेदोक्तधर्ममॆल्लाम् त्रैवर्णि-काधिकारमागैयाले इप्प्रपत्तिरूपवैदिकधर्मम् सर्वाधिकारमागादॆऩ्बदु मुदल् शङ्गै। ‘‘सत्यं वद’’ ऎऩ्ऱु सत्यवचनादिगळैप्पोले वैदिकमाऩालुम् सर्वाधिकारमागलामॆऩ्ऩिल्; बाधकान्तरत्तै शङ्गिक्किऱार् इदुवुमॊरु यागविशेषमागवऩ्ऱो न्यासविद्यैयिल् ओदप्पडुगिऱदु इति ।+++(4)+++  
+त्रैवर्णिकाधिकारम् आऩ ब्रह्म-विद्यैयिल् ऒऩ्ऱ् आऩ न्यासविद्यैयिल् सॊल्लप् पडुगिऱ बडियालुम्,  
+
+> ‘‘तस्यैवं विदुषो यज्ञस्यात्मा’’ 
+
+ऎऩ्ऱु इन्द प्रपत्ति  
+याग-विशेषम् आगच् चॊल्लप् पडुगिऱ बडियालुम्, 
+
+> ‘‘तस्माच् छूद्रो यज्ञेऽनवक्लृप्तः’’ 
+
+ऎऩ्ऱु शूद्रऩुक्कु यागसामान्यत्तिल् अधिकारम् निषिद्धम् आऩबडियालुम्  
+सर्वाधिकारत्वम् घटियाद् ऎऩ्ऱु शङ्काभिप्रायम्। 
+
+इदै स्पष्टमाग वरुळिच् चॆय्गिऱार् आगैयालिदु सर्वाधिकारमागक् कूडुमोवॆऩ्ऱु सिलर् विसारिप्पार्गळिति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु 
+
+> सर्वेश्वरऩै सर्वरुक्कुम् शरणम् 
+
+ऎऩ्ऱ् ओदुगिऱ श्वेताश्वतर-श्रुति-बलत्ताले परिहृतम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम्, सर्वेश्वरं "सर्वस्य शरणम्" इत्य् आमनन्त्याः श्वेताश्वतर-श्रुतेर् बलात् परिहृतम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+The answer to this question is given on the authority of the Svetasvatara Śruti,  
+which says that the Supreme Ruler is the Saviour of all. 
+</details>
+
+<details><summary>Español</summary>
+
+La respuesta a esta pregunta **se da** sobre la autoridad de Svetasvatara Śruti,  
+Lo que **dice** que el gobernante supremo **es** el **salvador** de todos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु सर्वेश्वरऩै सर्वरुक्कुम् शरणमॆऩ्ऱोदुगिऱ श्वेताश्वतरश्रुतिबलत्ताले परिहृतम्। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+परिहरिक्किऱार् इदु सर्वेश्वरऩै सर्वरुक्कुम् शरणमॆऩ्ऱोदुगिऱ श्वेताश्वतरश्रुतिबलत्ताले परिहृतमिति ।  
+‘‘सर्वस्य शरणं सुहृत्’’ ऎऩ्बदु श्वेताश्वतरश्रुति ।  
+इदिल् भगवाऩै अधिकारिविशेषनियममिऩ्ऱिक्के सर्वरुक्कुम् शरणमागिऱाऩॆऩ्ऱु सॊल्लियिरुप्पदाल् इन्द शरणागतिरूपवैदिकधर्ममाऩदु उत्सर्गापवादन्यायत्ताले सर्वाधिकारिकमाग सिद्धिक्कैयाल् मुऩ्बु सॊऩ्ऩ शङ्गैगळ् परिहृतङ्गळॆऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अर्थम् 
+
+> ‘‘सर्वलोकशरण्याय’’(रामा-युत्त १७-१५), 
+</details>
+
+<details><summary>English</summary>
+
+> “Take me to Raghava who is the Protector of all the worlds”, 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Llévame** a Raghava, que **es** el **protector** de todos los mundos",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थम् ‘‘सर्वलोकशरण्याय’’(रामा-युत्त १७-१५), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘सर्वयोग्यमनाया  
+समप्रमादमनूपमं ।  
+प्रपन्नार्तिहरं विष्णुं  
+शरणं गन्तुमर्हसि॥’’()  
+
+इत्य्-आद्य् उपबृंहणङ्गळालुम्
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘सर्वयोग्यमनाया  
+समप्रमादमनूपमं ।  
+प्रपन्नार्तिहरं विष्णुं  
+शरणं गन्तुमर्हसि॥’’()  
+
+इत्याद्युपबृंहणङ्गळालुम्
+</details>
+
+
+
+This truth is confirmed by expository passages like the following:  
+
+and in ślokas like:--
+
+> "You should seek the protection of Viṣṇu  
+who is fit to be approached by every one,  
+who is easy of approach,  
+who can never go wrong  
+and has no one to compare with Him  
+and who removes the suffering of those who perform prapatti". 
+
+It is confirmed also by passages in the Sātvatasamhita (2.9), which says that all the three castes beginning with the Kṣatriyas and ending with the Śūdras who have performed prapatti, are competent to adore the four vyūhas, without mantras. So also is
 
 "The man born even into low castes who has performed prapatti once to Bhagavān -- that man is protected by Bhagavān from the ills of saṁsāra even though he is a patricide or a matricide."
 
