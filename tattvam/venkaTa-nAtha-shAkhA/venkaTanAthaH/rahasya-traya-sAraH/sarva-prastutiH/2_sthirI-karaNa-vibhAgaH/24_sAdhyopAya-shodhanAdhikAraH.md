@@ -680,18 +680,56 @@ Lo que **dice** que el gobernante supremo **es** el **salvador** de todos.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘‘सर्वयोग्यमनाया  
-समप्रमादमनूपमं ।  
+> ‘‘सर्व-योग्यम् अनायासम्  
+अ-प्रमादम् अनूपमम् ।  
 प्रपन्नार्तिहरं विष्णुं  
-शरणं गन्तुमर्हसि॥’’()  
+**शरणं गन्तुम् अर्हसि**॥’’  
+()  
 
-इत्य्-आद्य् उपबृंहणङ्गळालुम्
+इत्य्-आद्य्-उपबृंहणङ्गळालुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सर्व-योग्यम् अनायासम्  
+अ-प्रमादम् अनूपमम् ।  
+प्रपन्नार्तिहरं विष्णुं  
+**शरणं गन्तुम् अर्हसि**॥’’  
+()  
+
+
+</details>
+
+
+<details><summary>English</summary>
+
+and in ślokas like:--
+
+> "You should seek the protection of Viṣṇu  
+who is fit to be approached by every one,  
+who is easy of approach,  
+who can never go wrong  
+and has no one to compare with Him  
+and who removes the suffering of those who perform prapatti". 
+</details>
+
+<details><summary>Español</summary>
+
+Y en Ślokas como:-
+
+> "**Deberías buscar** la **protección** de Viṣṇu  
+quien **es** apto para **ser abordado** por todos,  
+que **es fácil** de **enfoque**,  
+quien **nunca puede salir mal**  
+y **no tiene** a nadie con quien comparar con él  
+y **quién elimina** el sufrimiento de aquellos que **realizan** Prapatti ".
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 ‘‘सर्वयोग्यमनाया  
-समप्रमादमनूपमं ।  
+समप्रमादमनूपमम् ।  
 प्रपन्नार्तिहरं विष्णुं  
 शरणं गन्तुमर्हसि॥’’()  
 
@@ -702,14 +740,7 @@ Lo que **dice** que el gobernante supremo **es** el **salvador** de todos.
 
 This truth is confirmed by expository passages like the following:  
 
-and in ślokas like:--
 
-> "You should seek the protection of Viṣṇu  
-who is fit to be approached by every one,  
-who is easy of approach,  
-who can never go wrong  
-and has no one to compare with Him  
-and who removes the suffering of those who perform prapatti". 
 
 It is confirmed also by passages in the Sātvatasamhita (2.9), which says that all the three castes beginning with the Kṣatriyas and ending with the Śūdras who have performed prapatti, are competent to adore the four vyūhas, without mantras. So also is
 
