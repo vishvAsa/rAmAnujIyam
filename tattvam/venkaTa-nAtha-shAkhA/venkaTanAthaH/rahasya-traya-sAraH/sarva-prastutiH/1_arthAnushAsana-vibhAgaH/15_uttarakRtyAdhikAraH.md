@@ -4139,8 +4139,8 @@ for the sake of some devotees with exclusive devotion to Him;
 
 <details><summary>Español</summary>
 
-porque se ha dicho (como se indicó),  
-hacia las imágenes (arcā) en las que el Señor ha encarnado  
+porque **se ha dicho** (como **se indicó**),  
+**hacia** las imágenes (arcā) en las que el Señor ha encarnado  
 por el bien de algunos devotos con devoción exclusiva hacia él;
 </details>
 
@@ -4163,9 +4163,9 @@ por el bien de algunos devotos con devoción exclusiva hacia él;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘सर्वातिशयि-षाड्गुण्यं  
-> संस्थितं मन्त्र-बिम्बयोः +++(लक्षण-लक्ष्ययोः)+++’’  
+> **संस्थितं** मन्त्र-बिम्बयोः +++(←लक्षण-लक्ष्ययोः)+++’’  
 > (मन्त्रे वाच्यात्मना नित्यं  
->  बिम्बे तु कृपया स्वयम्)  
+>  बिम्बे तु कृपया स्वयम्॥)  
 > (विष्वक्सेनसंहिता) 
 
 ऎऩ्गिऱ पूर्तियैयुम्,  
@@ -4174,13 +4174,19 @@ por el bien de algunos devotos con devoción exclusiva hacia él;
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘सर्वातिशयि-षाड्गुण्यं  
-> संस्थितं मन्त्र-बिम्बयोः +++(लक्षण-लक्ष्ययोः)+++’’  
+> **संस्थितं** मन्त्र-बिम्बयोः +++(←लक्षण-लक्ष्ययोः)+++’’  
 > (मन्त्रे वाच्यात्मना नित्यं  
->  बिम्बे तु कृपया स्वयम्)  
+>  बिम्बे तु कृपया स्वयम्॥)  
 > (विष्वक्सेनसंहिता) 
 
 इत्य्-उक्तां पूर्तिम्, 
 </details>
+
+<details><summary>विषयः</summary>
+
+मन्त्रः, मूर्तिः
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4195,13 +4201,13 @@ This shows the fullness of perfection,
 
 <details><summary>Español</summary>
 
-> "Las seis cualidades como jñāna se encuentran en medida trascendente  
+> "Las seis cualidades como jñāna **se encuentran** en medida trascendente  
 > en los mantras y en las imágenes (arcā).  
-> Se describen en los mantras,  
-> y las cualidades se encuentran en Bhagavān,  
-> Desde que el, fuera de su compasión, ha elegido para permanecer en estas imágenes ".
+> **Se describen** en los mantras,  
+> y las cualidades **se encuentran** en Bhagavān,  
+> Desde que el, fuera de su compasión, **ha elegido** para permanecer en estas imágenes ".
 
-Esto muestra la plenitud de la perfección,
+Esto **muestra** la plenitud de la perfección,
 </details>
 
 
@@ -4224,8 +4230,8 @@ Esto muestra la plenitud de la perfección,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘आपीठान् मौलि-पर्यन्तं  
-पश्यतः पुरुषोत्तमं ।  
-पातकान्य् आशु नश्यन्ति  
+**पश्यतः** पुरुषोत्तमम् ।  
+पातकान्य् आशु **नश्यन्ति**  
 किं पुनस् तूपपातकम् ॥’’  
 (शाण्डिल्य-स्मृतिः २-८९।) 
 
@@ -4235,13 +4241,19 @@ Esto muestra la plenitud de la perfección,
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘आपीठान् मौलि-पर्यन्तं  
-पश्यतः पुरुषोत्तमं ।  
+**पश्यतः** पुरुषोत्तमम् ।  
 पातकान्य् आशु नश्यन्ति  
 किं पुनस् तूपपातकम् ॥’’  
 (शाण्डिल्य-स्मृतिः २-८९।) 
 
 इत्य्-उक्ताम्  पावनतमत्वम्,
 </details>
+
+<details><summary>विषयः</summary>
+
+मूर्तिः, अर्चावतारः, कुबुद्धि-नाशः, देव-दर्शनम्
+</details>
+
 
 
 <details><summary>English</summary>
@@ -4256,12 +4268,12 @@ This shows how supremely purificatory the arcā is.
 
 <details><summary>Español</summary>
 
-> "El que mira al Señor que reside en la imagen como Puruṣottama  
-> y lo contempla (una y otra vez) desde el pedestal del pie hasta la corona en la cabeza  
-> Sus cinco pecados mortales (Mahāpātaka) son destruidos rápidamente:  
-> ¿Es necesario declarar que los delitos menores también perecen?
+> "El que **mira** al Señor que **reside** en la imagen como Puruṣottama  
+> y lo **contempla** (una y otra vez) desde el pedestal del pie hasta la corona en la cabeza  
+> Sus cinco pecados mortales (Mahāpātaka) **son destruidos** rápidamente:  
+> ¿Es **necesario declarar** que los delitos menores también **perecen**?
 
-Esto muestra cuán sumamente purificador es el arcā.
+Esto **muestra** cuán sumamente **purificador** es el arcā.
 </details>
 
 
@@ -4335,14 +4347,14 @@ And again it is said -
 
 <details><summary>Español</summary>
 
-Y de nuevo se dice -
+Y de nuevo **se dice** -
 
-> "Si los hombres de intelectos nublados ven a Bhagavān permanecer en el arcā incluso por mera oportunidad,  
-> Todas las tendencias malvadas en ellas, como las siguientes, perecer:-  
-> el pensamiento de que el cuerpo es el yo;  
-> La falsa noción que surge de ella que ve el alma por percepción;
+> "Si los hombres de intelectos nublados **ven** a Bhagavān **permanecer** en el arcā incluso por mera oportunidad,  
+> Todas las tendencias malvadas en ellas, como las siguientes, **perecer** :-  
+> el **pensamiento** de que el cuerpo es el yo;  
+> La falsa noción que **surge** de ella que ve el alma por **percepción**;  
 > Conclusiones falsas llegando por razonamiento falaz,  
-> Inferencias falsas resultantes de premisas incorrectas,  
+> Inferencias falsas **resultantes** de premisas incorrectas,  
 > interpretaciones falsas de los textos bíblicos  
 > y falta de fe en los Śāstras ". 
 </details>
@@ -4382,7 +4394,7 @@ arising from a false understanding of cause and effect.
 <details><summary>Español</summary>
 
 Así, la adoración de la imagen (arcā) es una panacea para todas las enfermedades mentales  
-que surge de una falsa comprensión de la causa y el efecto.
+que **surge** de una falsa comprensión de la causa y el efecto.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4423,7 +4435,7 @@ que surge de una falsa comprensión de la causa y el efecto.
 
 <details><summary>Español</summary>
 
-> "Quien quiera verme y en cualquier forma -  
+> "Quien **quiera verme** y en cualquier forma -  
 > Para él me revelo en esa misma forma ".
 </details>
 
@@ -4482,9 +4494,9 @@ The same thing is stated also (in the Tamil verse)
 
 <details><summary>Español</summary>
 
-Lo mismo se dice también (en el verso tamil)  
+Lo mismo **se dice** también (en el verso tamil)  
 
-> "Asume la forma deseada por sus devotos".
+> "Asume la forma **deseada** por sus devotos".
 </details>
 
 
@@ -4518,9 +4530,9 @@ in a manner which cannot be understood by the mind or described in words, for it
 
 <details><summary>Español</summary>
 
-La Prapanna debería meditar  
-en la colocación del Señor a disposición de quienes buscan su protección  
-de una manera que no puede ser entendida por la mente o descrita en palabras, ya que se ha dicho (como se indicó),
+La Prapanna **debería meditar**  
+en la **colocación** del Señor a **disposición** de quienes **buscan** su **protección**  
+de una manera que **no puede ser entendida** por la mente o **descrita** en palabras, ya que **se ha dicho** (como **se indicó**),
 </details>
 
 
@@ -4555,11 +4567,11 @@ He should also meditate on the alluring beauty of the Lord of which (the Alvar) 
 
 <details><summary>Español</summary>
 
-También debe meditar en la seductora belleza del Señor  
-de la cual (el Alvar) dice
+También **debe meditar** en la seductora belleza del Señor  
+de la cual (el Alvar) **dice**
 
-> "Los ojos que han visto al Señor  
-> se negarán a ver otras cosas".
+> "Los ojos que **han visto** al Señor  
+> **se negarán** a **ver** otras cosas".
 </details>
 
 
@@ -4602,6 +4614,12 @@ de la cual (el Alvar) dice
 मित्रवल् **लालयेद्** +धरिम् ॥ +++(5)+++ 
 </details>
 
+<details><summary>विषयः</summary>
+
+अर्चावतारः, पूजा
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -4614,7 +4632,7 @@ de la cual (el Alvar) dice
 
 <details><summary>Español</summary>
 
-> "Uno debe prender el servicio al Señor  
+> "Uno debe **prender** el **servicio** al Señor  
 > Como una casta matrona de su amado esposo,  
 > Como una madre a su succión,  
 > como un discípulo a su ācārya  
@@ -4672,7 +4690,7 @@ de la cual (el Alvar) dice
 
 <details><summary>Español</summary>
 
-> El Señor de Lakṣmī siempre debe ser considerado
+> El Señor de Lakṣmī siempre **debe ser considerado**  
 > Como maestro, como amigo, como ācharya, como padre y como madre,
 </details>
 
@@ -4710,6 +4728,12 @@ de la cual (el Alvar) dice
 (शाण्डिल्य-स्मृतिः ४-३१।)  
 </details>
 
+<details><summary>विषयः</summary>
+
+पूजा
+</details>
+
+
 <details><summary>English</summary>
 
 > "One should serve the Lord with as much fear  
@@ -4723,12 +4747,12 @@ de la cual (el Alvar) dice
 
 <details><summary>Español</summary>
 
-> "Uno debería servir al Señor con tanto miedo  
-> Como uno se acercaría a un rey que es joven,  
+> "Uno **debería servir** al Señor con tanto miedo  
+> Como uno se **acercaría** a un rey que es joven,  
 > y un elefante en Rut.  
-> De la misma manera que uno entretendría a un invitado de bienvenida que ha venido a la casa de uno,  
-> uno debe adorar al Señor con devoción,  
-> recordando su fácil accesibilidad ".
+> De la misma manera que uno **entretendría** a un **invitado** de bienvenida que **ha venido** a la casa de uno,  
+> uno debe **adorar** al Señor con devoción,  
+> **recordando** su fácil accesibilidad ".
 </details>
 
 
@@ -4766,8 +4790,8 @@ de la cual (el Alvar) dice
 
 <details><summary>Español</summary>
 
-> "Uno debería tratar al Señor  
-> con tanto afecto como lo haría un niño querido".
+> "Uno debería **tratar** al Señor  
+> con tanto afecto como lo **haría** un niño querido".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4803,8 +4827,8 @@ in accordance with the above ~~following~~ verses.
 
 <details><summary>Español</summary>
 
-Después de haberlo hecho,  
-la Prapanna debe prestar el servicio adecuado para las respectivas relaciones entre él y el Señor  
+Después de **haberlo hecho**,  
+la Prapanna **debe prestar** el servicio adecuado para las respectivas relaciones entre él y el Señor  
 (como maestro y sirviente, padre e hijo)  
 y para su suprema majestad y fácil accesibilidad,  
 de acuerdo con los versos anteriores ~~ siguientes ~~.
@@ -4871,11 +4895,11 @@ de acuerdo con los versos anteriores ~~ siguientes ~~.
 <details><summary>Español</summary>
 
 > "Mientras las sandalias gobernaban,  
-> Bharata colocó, ante ellos primero,  
-> Cualquier negocio tenía que ser realizado  
-> y cualquier tributo valioso que se trajera  
-> Y luego logró lo que tuviera que hacer  
-> en la manera en que se debe hacer "
+> Bharata **colocó**, ante ellos primero,  
+> Cualquier negocio tenía que **ser realizado**  
+> y cualquier tributo valioso que **se trajera**  
+> Y luego **logró** lo que tuviera **que hacer**  
+> en la manera en que **se debe hacer** "
 </details>
 
 
@@ -4915,10 +4939,10 @@ as to a king, with materials earned righteously.
 
 <details><summary>Español</summary>
 
-Como Bharatalvan, que se condució como un sirviente de un rey, antes de las sandalias (de śrīrāma),  
-y de las cuales se dice (como se indicó) -
-Como él, la Prapanna debería prestar servicio  
-En cuanto a un rey, con materiales ganados rectamente.
+Como Bharatalvan, que **se condució** como un sirviente de un rey, antes de las sandalias (de śrīrāma),  
+y de las cuales **se dice** (como **se indicó**) -
+Como él, la Prapanna **debería prestar servicio**  
+En cuanto a un rey, con materiales **ganados** rectamente.
 </details>
 
 
@@ -4961,8 +4985,8 @@ as a wedded wife would look upon the careful custody of her sacred wedding-threa
 
 <details><summary>Español</summary>
 
-Debería mirar este servicio  
-como esposa casada, miraría la cuidadosa custodia de su sagrado hilo de boda y similares.
+**Debería mirar** este servicio  
+como esposa casada, **miraría** la cuidadosa custodia de su sagrado hilo de boda y similares.
 </details>
 
 
@@ -5007,9 +5031,9 @@ which begins from service to Bhagavān and extends up to the service to His devo
 
 <details><summary>Español</summary>
 
-Debería tener la convicción de que  
-ha alcanzado este objetivo final de la vida,  
-que comienza del servicio a Bhagavān y se extiende hasta el servicio a sus devotos, por ...
+**Debería tener** la convicción de que  
+**ha alcanzado** este objetivo final de la vida,  
+que **comienza** del **servicio** a Bhagavān y **se extiende** hasta el servicio a sus devotos, por ...
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5064,7 +5088,7 @@ porque se ha dicho:
 
 > "Kshatrabandhu, el gran pecador,  
 > y puṇḍarīka el virtuoso,  
-> Ambos alcanzaron mokṣa al tener ācāryas "
+> Ambos **alcanzaron** mokṣa al **tener** ācāryas "
 </details>
 
 
@@ -5080,7 +5104,7 @@ porque se ha dicho:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > 'ऎम्म्-ईशर् विण्णोर्+++(=दिविषदां)+++ पिराऩार्+++(=उदारः)+++ मास्+++(=दोष)+++-इऩ्+++(←ल्)+++ मलर्-अडिक्-कीऴ्  
-> ऎम्मैच् शेर्-विक्कुम् वण्डुगळे+++(=मधुपाः)+++'  
+> ऎम्मैच् शेर्-विक्कुम् वण्डुगळे+++(=षट्-पदाः → मधुपाः)+++'  
 > (तिरुविरुत्तम् ५४) 
 
 ऎऩ्ऱुम्, 
@@ -5106,12 +5130,12 @@ So also has it been said (in Tamil) :-
 
 <details><summary>Español</summary>
 
-Así también se ha dicho (en tamil):-
+Así también **se ha dicho** (en tamil):-
 
-> Nuestras ācharyas son como abejas  
-> que nos colocan en los pies santos del Señor, en forma de flor,  
-> Quién es nuestro maestro  
-> Y quién brinda ayuda a los sūris eternos
+> Nuestras ācharyas **son** como abejas  
+> que nos **colocan** en los pies santos del Señor, en forma de flor,  
+> Quién **es** nuestro maestro  
+> Y quién **brinda ayuda** a los sūris eternos
 </details>
 
 
@@ -5161,12 +5185,12 @@ they cannot do anything themselves).
 
 y
 
-> "Si Viṣṇu Cittar (Perialvar) que nació en la ciudad de Villipattur  
-> y quién era perfecto en las cualidades del espíritu,  
-> de alguna manera en su poder, haz que el Señor aparezca ante nosotros, podemos ver "
+> "Si Viṣṇu Cittar (Perialvar) que **nació** en la ciudad de Villipattur  
+> y quién **era perfecto** en las cualidades del espíritu,  
+> de alguna manera en su poder, **haz** que el Señor **aparezca** ante nosotros, **podemos ver** "
 
 (Es decir, sin la gracia de Viṣṇucitta, El ācharya,  
-no pueden hacer nada ellos mismos). 
+**no pueden hacer** nada ellos mismos). 
 </details>
 
 
