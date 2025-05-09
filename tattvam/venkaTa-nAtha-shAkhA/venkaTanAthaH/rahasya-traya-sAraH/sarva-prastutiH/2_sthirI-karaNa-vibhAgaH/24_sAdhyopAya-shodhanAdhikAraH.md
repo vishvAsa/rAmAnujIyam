@@ -881,7 +881,10 @@ a pesar de que **es** un patricidio o un matricidio ".
 अपशूद्राधिकरणत्तिले समर्त्थितमाऩालुम् 
 </details>
 
-फ़्फ़्
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्रोपासनं त्रैवर्णिकाधिकारिकम् इत्य् अपशूद्राधिकरणे समर्थितत्वेऽपि  
+</details>
 
 
 <details><summary>English</summary>
@@ -911,6 +914,14 @@ se **ha determinado** como un ajuste (solo) para las tres castas superiores en l
 प्रपत्तियुम् सामान्य-धर्मम् आगैयाले  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+वैदिकानां सत्य-वचनादीनाम् इव  
+प्रपत्तेर् अपि सामान्य-धर्मत्वात्  
+
+</details>
+
+
 <details><summary>English</summary>
 
 but speaking the truth, which is given as an injunction in the Vedas, is enjoined for all castes;  
@@ -938,6 +949,13 @@ Así también Prapatti **es** un dharma común a todos
 सर्वरुक्कुम् प्रपत्त्य्-अनुष्ठानत्तुक्कु विरोधम् इल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+यथाऽधिकारं वैदिक-मन्त्रेण तान्त्रिक-मन्त्रेण वा  
+सर्वेषां प्रपत्त्य्-अनुष्ठानस्य न विरोधः ।  
+</details>
+
+
 <details><summary>English</summary>
 
 and may be performed either with Vedic mantras or with mantras found in the Tantras  
@@ -962,6 +980,12 @@ sin ninguna violación de propiedad.
 
 काकादिगळुम् प्रपन्नर् आग शास्त्रङ्गळिले केळा निऩ्ऱोम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+काकादीन् अपि प्रपन्नत्वेन शास्त्रेषु शृणुमः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -999,6 +1023,8 @@ We have heard, in the śastras, of even such beings as crows performing prapatti
 तेऽपि यान्ति परां गतिम्’’  
 (गीता ९-३२)  
 
+इति भगवद्-आश्रयण-मात्रं  
+सर्व-साधारण्येन शरण्य एवानुजग्राह । 
 </details>
 
 <details><summary>English</summary>
@@ -1045,6 +1071,17 @@ Aquí la **búsqueda** del Señor para la **protección** de Bhakti o Prapatti s
 ऎऩ्ऩुम् इडम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> उपासनस्यापि प्रारम्भस्  
+त्रैवर्णिक-शरीर एव
+
++इति सत्य् अपि  
+अवसानं सर्वस्मिन् शरीरे घटत  
+इत्य् एतत्  
+</details>
+
+
 <details><summary>English</summary>
 
 Even in the matter of upāsana or meditation (according to the vidyās in the Upaniṣads)  
@@ -1085,6 +1122,9 @@ El final del curso **puede ser alcanzado** por hombres en los cuerpos de cualqui
 **संसिद्धिं**, श्रमणी यथा॥’’  
 (विष्णुधर्मः १०-२-२९) 
 
+[[२०४]] 
+
+इति श्री-विष्णु-धर्मे प्रत्यपादि । 
 </details>
 
 <details><summary>English</summary>
@@ -1130,6 +1170,15 @@ y **alcanzó** Mukti por Bhakti a Bhāgavatas y Bhagavān.)
 इप्-प्रपदनम् सर्वर्क्कुम् योग्यम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् उपासनस्य त्रैवर्णिक-मात्रारम्भणीयत्वात्  
+प्रपत्तौ केनचिन् नियामकेन सामान्य-वचन-संकोचस्याभावाद्  
+विशेष-वचन-प्राबल्याच्  
+चेदं प्रपदनं सर्वेषां योग्यम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 Thus upāsana or bhakti yoga should be commenced only by the three higher castes.  
@@ -1157,6 +1206,12 @@ Definitivamente **se declara** que todos **son aptos** para adoptar Prapatti.
 आऩबिऩ्बु इदु-तऩक्कु विशेषित्तु वेण्डुम् अधिकारांशमुम् मुऩ्बे सॊऩ्ऩोम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत एवास्य विशिष्यापेक्षितम् अधिकारांश पूर्वम् एवावोचाम । 
+</details>
+
+
 <details><summary>English</summary>
 
 The special qualifications requisite for prapatti  
@@ -1182,6 +1237,16 @@ ya lo **han descrito**.
 नाधिकारः प्रपत्तेस् स्याद्  
 आकिञ्चन्यम् अनाश्रितः ॥   
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतस् त्रैवर्णिकत्वादेर्  
+**भावो ऽभावो** ऽपि कस्यचित् ।  
+नाधिकारः प्रपत्तेस् स्याद्  
+आकिञ्चन्यम् अनाश्रितः ॥   
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -1215,6 +1280,16 @@ La única calificación que **es** esencial **es** ākiñcanya, incapacidad para
 ऎऩ्गिऱ पाट्टिलुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अयमर्थः,  
+
+> कुलयोर् द्वयोर् एकस्मिन्न् अपि न जातोऽस्मि  
+
+इति गाथायाम्  
+</details>
+
+
 <details><summary>English</summary>
 
 This may be seen from the Tamil verse: 
@@ -1245,6 +1320,14 @@ para **permitirme realizar** dharma ",
 
 ऎऩ्गिऱ श्लोकत्तिलुङ् गण्डु कॊळ्वदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "जनित्वाऽहं वंशे"  
+
+इति श्लोके च द्रष्टव्यः।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1283,6 +1366,14 @@ Estoy **hundido** en Saṁsāra;Y me **voy** a bajar ".
 आकिञ्चन्यादिगळ्-उडैय सर्व-जातीयर्क्कुम्  
 प्रपत्त्यधिकारम् सिद्धम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः शरण्य-शरणागति-ज्ञानम् आकिञ्चन्यादिकं च प्राप्तवतां  
+सर्व-जातीयानाम् अपि  
+प्रपत्त्य्-अधिकारः सिद्धः ॥ 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1337,12 +1428,20 @@ Conceptos erróneos sobre la naturaleza o svarupa de Prapatti:
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अस्योपाय-स्वरूपस्य विषये 
 
 > ‘‘नारायणं सलक्ष्मीकं  
 प्राप्तुं तच्-चरण-द्वयं ।  
 उपाय इति विश्वासो  
-द्वयार्थश् शरणागतिः॥’’() 
+द्वयार्थश् शरणागतिः॥’’  
+() 
 
+इत्य् अभियुक्त-वचनम्  
+
+> अधिकार-कोटाव् अङ्ग-कोटौ च निविष्टस्य विश्वासस्य  
+प्राधान्य-ख्यापनार्थम् 
+
+इत्य् एव ग्राह्यम् । 
 </details>
 
 <details><summary>English</summary>
@@ -1395,11 +1494,16 @@ y la fe como accesorio para Prapatti **son** muy importantes.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+तथैव 
+
 > ‘‘प्रपत्तिर् विश्वासः –  
 "सकृत् प्रार्थना-मात्रेणापेक्षितं दास्यती"ति  
 विश्वास-पूर्वकं प्रार्थनम् इति यावत्’’  
 (श्री-भाष्य-कार-वाक्यम्) 
 
+इति वाक्यम् अपि  
+प्राधान्य-विवक्षया  
+प्रथमतो विश्वासं प्रतिपाद्य,  
 </details>
 
 <details><summary>English</summary>
@@ -1444,6 +1548,18 @@ Estas palabras del Bhāṣyakara **enfatizan** la importancia de la fe al princi
 ऎऩ्ऱु निष्कर्षित्तदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अनन्य-साध्ये’’(भरत-मुनिः) 
+
+[[२०५]]
+
+इति भरत-मुनि-प्रणीत-लक्षण-वाक्यानुसारेण  
+"विश्वास-पूर्वं प्रार्थनम्"  
+इति निश्वकर्ष । 
+</details>
+
+
 <details><summary>English</summary>
 
 and then declare in the words of Bharatamuni  
@@ -1475,6 +1591,8 @@ que **definen** Prapatti que Prapatti es una **oración** (por **ayuda**) con la
 
 इत्य्-आदि-वचनङ्गळाले 
 </details>
+
+
 
 <details><summary>English</summary>
 
