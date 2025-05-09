@@ -881,6 +881,9 @@ a pesar de que **es** un patricidio o un matricidio ".
 अपशूद्राधिकरणत्तिले समर्त्थितमाऩालुम् 
 </details>
 
+फ़्फ़्
+
+
 <details><summary>English</summary>
 
 It is true that upāsana or meditation (in accordance with the teaching of the Upaniṣads )  
@@ -1557,8 +1560,17 @@ Este **es** solo uno de los AṅGas (y no el aṅgī).
 ईश्वरऩ् अपेक्षामात्रसापेक्षऩॆऩ्ऱिव्वङ्गत्तिऩ् प्राधान्यत्तै विवक्षित्तुच् चॊऩ्ऩबडि। 
 </details>
 
+### आत्म-निक्षेपः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+सिऱिय गद्यत्तिलुम्  
+विश्वास-पूर्वक-प्रार्थऩैयैप् पण्णि  
+‘‘नमोऽस्तु ते’’ ऎऩ्ऱु मुडिक्कैयालुम्  
+उपाय-वरण-शब्द+++(→"शरणं")+++-सामर्थ्यत्तालुम्  
+**निक्षेपमुम् सिद्धम्।** 
+</details>
 
+<details><summary>English</summary>
 
 In the shorter Gadya also (Śrīraṅgagadya),  
 Śrī Rāmānuja makes the prayer with faith preceding it  
@@ -1566,16 +1578,94 @@ and concludes with the words namostu te (i.e.) "I bow to Thee".
 Further he uses the word śaraṇam which means seeking (the Lord) as upāya.  
 From these two,  
 it is evident that self-surrender is present.  
+</details>
+
+<details><summary>Español</summary>
+
+En el Gadya más corto también (Śrīraṅgagadya),  
+Śrī rāmānuja **hace** la **oración** con fe que lo **precede**  
+y **concluye** con las palabras "namostu te" (es decir) "me **inclino** a ti".  
+Además, usa la palabra Śaraṇam, que **significa buscar** (el Señor) como upāya.  
+De estos dos,  
+**Es evidente** que el auto-**curandero** está **presente**.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+सिऱिय गद्यत्तिलुम् विश्वासपूर्वकप्रार्थऩैयैप् पण्णि ‘‘नमोऽस्तु ते’’ ऎऩ्ऱु मुडिक्कैयालुम् उपायवरणशब्दसामर्थ्यत्तालुम् निक्षेपमुम् सिद्धम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नमस्स् आत्मनिक्षेप-परम् ऎऩ्ऩुम् इडम् 
+
+> १८ ‘‘नमस्-कारात्मकं यस्मै  
+विधायात्म-निवेदनम्’’  
+(मन्त्र-राज-पद-स्तोत्रम्) 
+
+इत्य्-आदिगळिले प्रसिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
 That the word namas in namostute means surrender of self  
 is well-known from such passages as the following:--  
+
 > "I bow to Bhagavan to whom,  
 > having surrendered his self  
 > which is what is meant by namaskāra,  
 > a man gets rid of his suffering and enjoys whatever he desires." 
+</details>
+
+<details><summary>Español</summary>
+
+Que la palabra namas en Namostute **significa rendición** de sí mismo  
+**es** bien **conocido** por pasajes como los siguientes:-
+
+> "Me **inclino** ante Bhagavan a quién,  
+> **Habiendo entregado** su ser  
+> que **es** lo que **se entiende** por Namaskāra,  
+> Un hombre **se deshace** de su **sufrimiento** y **disfruta** de lo que **desee** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नमस् सात्मनिक्षेपपरमॆऩ्ऩुमिडम् १८‘‘नमस्कारात्मकं यस्मै विधायात्मनिवेदनम्’’(मन्त्र-राज-पद-स्तोत्रम्) इत्यादिगळिले प्रसिद्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्री-वैकुण्ठ-गद्यत्तिले  
+प्रार्थना-पूर्वकात्मनिक्षेपम् कण्ठोक्तम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
 
 In Śrī Vaikuṇṭha Gadya the surrender of self preceded by prayer is explicit.  
-Therefore (since Śrī Rāmānuja states in Vaikuṇṭha - Gadya:  
-"Praying for protection, the person should surrender his (or her) self to Bhagavan  
+</details>
+
+<details><summary>Español</summary>
+
+En Śrī Vaikuṇṭha Gadya, la **rendición** del yo  
+**precedido** por la **oración es** explícita.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीवैकुण्ठगद्यत्तिले प्रार्थनापूर्वकात्मनिक्षेपम् कण्ठोक्तमायिऱ्ऱु। 
+</details>
+
+
+
+
+Therefore  
+(since Śrī Rāmānuja states in Vaikuṇṭha - Gadya:  
+"Praying for protection,  
+the person should surrender his or her self to Bhagavan  
 after bowing to Him,")  
 it is clear that surrender of self  
 is different from the prayer for protection  
