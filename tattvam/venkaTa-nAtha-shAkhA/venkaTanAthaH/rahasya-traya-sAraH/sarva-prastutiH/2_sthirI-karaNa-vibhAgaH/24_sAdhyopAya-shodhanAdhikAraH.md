@@ -1587,11 +1587,23 @@ que **definen** Prapatti que Prapatti es una **oración** (por **ayuda**) con la
 
 ऎऩ्ऱु सॊल्लुगिऱ 
 
-१६‘‘न्यासः पञ्चाङ्ग संयुत’’(लक्ष्मीतन्त्रम् १७-७४) 
+> १६‘‘न्यासः पञ्चाङ्ग संयुत’’(लक्ष्मीतन्त्रम् १७-७४) 
 
 इत्य्-आदि-वचनङ्गळाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं वाक्यम् अपि,  
+
+> आत्म-निक्षेपोऽङ्गी, इतराण्य् अङ्गानि 
+
++इति प्रतिपादयद्भिः 
+
+> १६‘‘न्यासः पञ्चाङ्ग संयुत’’(लक्ष्मीतन्त्रम् १७-७४) 
+
+इत्यादि-वचनैः 
+</details>
 
 
 <details><summary>English</summary>
@@ -1633,7 +1645,13 @@ y que los otros (como Kārpaṇya) **son** AṅGas (es decir, accesorios) -
 
 <details><summary>नीलमेघः (सं)</summary>
 
+प्रार्थनाया अप्य् अङ्गत्वात्, 
+
 > १७‘‘रक्षापेक्षां प्रतीक्षते’’(लक्ष्मीतन्त्रम् १७-७८) 
+
+इत्य्-उक्त-रीत्या  
+"ईश्वरोऽपेक्षा-मात्र-सापेक्षोऽस्ती"ति  
+अन्याङ्गस्य प्राधान्य-विवक्षया प्रयुक्तम् । 
 </details>
 
 <details><summary>English</summary>
@@ -1688,6 +1706,15 @@ Este **es** solo uno de los AṅGas (y no el aṅgī).
 **निक्षेपमुम् सिद्धम्।** 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+लघु-गद्ये विश्वास-पूर्वक-प्रार्थनां कृत्वा  
+“नमोऽस्तु ते" इति निगमनात्  
+उपाय-वरण-शब्द-सामर्थ्याच् च  
+निक्षेपः सिद्धः । 
+</details>
+
+
 <details><summary>English</summary>
 
 In the shorter Gadya also (Śrīraṅgagadya),  
@@ -1725,6 +1752,19 @@ De estos dos,
 इत्य्-आदिगळिले प्रसिद्धम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+नमसः आत्म-निक्षेप-परत्वम्,  
+
+> १८ ‘‘नमस्-कारात्मकं यस्मै  
+विधायात्म-निवेदनम्’’  
+(मन्त्र-राज-पद-स्तोत्रम्) 
+
+इत्य्-आदिषु प्रसिद्धम् । 
+</details>
+
+
+
 <details><summary>English</summary>
 
 That the word namas in namostute means surrender of self  
@@ -1758,6 +1798,12 @@ Que la palabra namas en Namostute **significa rendición** de sí mismo
 
 श्री-वैकुण्ठ-गद्यत्तिले  
 प्रार्थना-पूर्वकात्मनिक्षेपम् कण्ठोक्तम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-वैकुण्ठ-गद्ये  
+प्रार्थना-पूर्वकात्म-निक्षेपः कण्ठोक्त एव । 
 </details>
 
 <details><summary>English</summary>
