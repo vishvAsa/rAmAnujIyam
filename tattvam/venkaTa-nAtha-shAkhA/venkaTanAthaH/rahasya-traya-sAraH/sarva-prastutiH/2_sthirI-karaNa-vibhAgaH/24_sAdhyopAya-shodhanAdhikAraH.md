@@ -1316,14 +1316,90 @@ Conceptos erróneos sobre la naturaleza o svarupa de Prapatti:
 </details>
 
 
-The statement of learned men  
-that the śaraṇāgati referred to in Dvaya  
+### विश्वासम् अतिरिच्यापि किञ्चित्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् उपाय-स्वरूपत्तैप् पऱ्ऱ 
+
+> "नारायणं स-लक्ष्मीकं  
+प्राप्तुं तच्-चरण-द्वयं ।  
+उपाय" इति विश्वासो  
+द्वयार्थश् शरणागतिः॥  
+() 
+
+ऎऩ्गिऱ अभियुक्तर् पासुरमुम्  
+अधिकार-कोटियिलुम् अङ्ग-कोटियिलुम् निऱ्किऱ  
+विश्वासत्तिऩ्-उडैय प्राधान्यञ् जॊल्लुगैक्क् आगव् अत्तऩै।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+
+> ‘‘नारायणं सलक्ष्मीकं  
+प्राप्तुं तच्-चरण-द्वयं ।  
+उपाय इति विश्वासो  
+द्वयार्थश् शरणागतिः॥’’() 
+
+</details>
+
+<details><summary>English</summary>
+
+The statement of learned men that 
+
+> the śaraṇāgati referred to in Dvaya  
 means only faith in the two feet of Nārāyaṇa  
 being the only upāya for the attainment of Nārāyaṇa with His Spouse-----  
+
 this statement should be taken to mean only that  
 faith in śaraṇāgati in the mind of the person  
 and faith as an accessory to prapatti are very important.  
 (It does not mean that faith alone is enough).  
+</details>
+
+<details><summary>Español</summary>
+
+La **declaración** de hombres eruditos que
+
+> El Śaraṇāgati **mencionado** en Dvaya  
+**significa** solo fe en los dos pies de Nārāyaṇa  
+Ser el único upāya para el **logro** de Nārāyaṇa con su cónyuge -----
+
+Esta **declaración** debe **considerarse** solo que  
+fe en śaraṇāgati en la mente de la persona  
+y la fe como accesorio para Prapatti **son** muy importantes.  
+(**No significa** que la fe sola **sea** suficiente).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वुपायस्वरूपत्तैप्पऱ्ऱ ‘‘नारायणं सलक्ष्मीकं प्राप्तुं तच्चरणद्वयं । उपाय इति विश्वासो द्वयार्थश्शरणागतिः॥’’() ऎऩ्गिऱ अभियुक्तर् पासुरमुम् अधिकारकोटियिलुम् अङ्गकोटियिलुम् निऱ्किऱ विश्वासत्तिऩुडैय प्राधान्यञ्जॊल्लुगैक्कागवत्तऩै।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पडिये 
+
+> ‘‘प्रपत्तिर् विश्वासः –  
+"सकृत् प्रार्थना-मात्रेणापेक्षितं दास्यती"ति  
+विश्वास-पूर्वकं प्रार्थनम् इति यावत्’’  
+(श्री-भाष्य-कार-वाक्यम्) 
+
+ऎऩ्गिऱ वाक्यमुम्  
+प्राधान्य-विवक्षैयाले मुदल् विश्वासत्तैच् चॊल्लि, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘प्रपत्तिर् विश्वासः –  
+"सकृत् प्रार्थना-मात्रेणापेक्षितं दास्यती"ति  
+विश्वास-पूर्वकं प्रार्थनम् इति यावत्’’  
+(श्री-भाष्य-कार-वाक्यम्) 
+
+</details>
+
+<details><summary>English</summary>
 
 So also the words of the author of Śrī Bhāṣya --  
 
@@ -1333,11 +1409,65 @@ So also the words of the author of Śrī Bhāṣya --
 > on account of a single act of prayer" 
 
 These words of the Bhāṣyakara emphasise the importance of faith at the beginning  
+</details>
+
+<details><summary>Español</summary>
+
+Así también las palabras del autor de Śrī Bhāṣya -
+
+> "Prapatti **es** fe;  
+> **Es** la oración **acompañada** de una fe que  
+> Bhagavān **otorgará** lo que **desee**  
+> Debido a un solo **acto de oración** "
+
+Estas palabras del Bhāṣyakara **enfatizan** la importancia de la fe al principio
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पडिये ‘‘प्रपत्तिर्विश्वासः – सकृत्प्रार्थनामात्रेणापेक्षितं दास्यतीति विश्वासपूर्वकं प्रार्थनमिति यावत्’’(श्री-भाष्य-कार-वाक्यम्) ऎऩ्गिऱ वाक्यमुम् प्राधान्यविवक्षैयाले मुदल् विश्वासत्तैच् चॊल्लि, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अनन्यसाध्ये’’(भरत-मुनिः) 
+
+ऎऩ्गिऱ भरत-मुनि-प्रणीत-लक्षण-वाक्यत्तिऩ् बडिये  
+
+> विश्वास-पूर्वकं प्रार्थनम् 
+
+ऎऩ्ऱु निष्कर्षित्तदु। 
+</details>
+
+<details><summary>English</summary>
+
 and then declare in the words of Bharatamuni  
 which define prapatti that prapatti is a prayer (for help) with faith (in the person whose help is sought).  
+</details>
+
+<details><summary>Español</summary>
+
+y luego **declara** en las palabras de Bharatamuni  
+que **definen** Prapatti que Prapatti es una **oración** (por **ayuda**) con la fe (en la persona cuya ayuda **se busca**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अनन्यसाध्ये’’(भरत-मुनिः) ऎऩ्गिऱ भरतमुनिप्रणीतलक्षणवाक्यत्तिऩ्बडिये विश्वासपूर्वकं प्रार्थनमॆऩ्ऱु निष्कर्षित्तदु। 
+</details>
+
 (It has been shown already that) surrender of self is the aṅgī  
 and that the others (like kārpaṇya) are aṅgas (ie Accessories) .  
-"Nyāsa (bastol??) been declared as having five accessories or aṅgas."  
+
+(Ya se **ha demostrado** que) la rendición del yo **es** el aṅgī
+y que los otros (como Kārpaṇya) **son** AṅGas (es decir, accesorios).
+
+
+
+"Nyāsa been declared as having five accessories or aṅgas."  
 Therefore these words of the Bhāṣyakāra  
 that prapatti consists in prayer (for help)  
 which might mean that the Lord expects only the prayer for help  
