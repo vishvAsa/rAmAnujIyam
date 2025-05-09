@@ -1376,7 +1376,7 @@ y la fe como accesorio para Prapatti **son** muy importantes.
 इव्वुपायस्वरूपत्तैप्पऱ्ऱ ‘‘नारायणं सलक्ष्मीकं प्राप्तुं तच्चरणद्वयं । उपाय इति विश्वासो द्वयार्थश्शरणागतिः॥’’() ऎऩ्गिऱ अभियुक्तर् पासुरमुम् अधिकारकोटियिलुम् अङ्गकोटियिलुम् निऱ्किऱ विश्वासत्तिऩुडैय प्राधान्यञ्जॊल्लुगैक्कागवत्तऩै।  
 </details>
 
-
+### प्रार्थनाङ्गत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्-पडिये 
@@ -1432,7 +1432,7 @@ Estas palabras del Bhāṣyakara **enfatizan** la importancia de la fe al princi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘अनन्यसाध्ये’’(भरत-मुनिः) 
+> ‘‘अनन्य-साध्ये’’(भरत-मुनिः) 
 
 ऎऩ्गिऱ भरत-मुनि-प्रणीत-लक्षण-वाक्यत्तिऩ् बडिये  
 
@@ -1459,23 +1459,107 @@ que **definen** Prapatti que Prapatti es una **oración** (por **ayuda**) con la
 ‘‘अनन्यसाध्ये’’(भरत-मुनिः) ऎऩ्गिऱ भरतमुनिप्रणीतलक्षणवाक्यत्तिऩ्बडिये विश्वासपूर्वकं प्रार्थनमॆऩ्ऱु निष्कर्षित्तदु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्-वाक्यन्-दाऩुम्  
+
+> आत्म-निक्षेपम् अङ्गि,  
+इतरङ्गळ् अङ्गङ्गळ् 
+
+ऎऩ्ऱु सॊल्लुगिऱ 
+
+१६‘‘न्यासः पञ्चाङ्ग संयुत’’(लक्ष्मीतन्त्रम् १७-७४) 
+
+इत्य्-आदि-वचनङ्गळाले 
+</details>
+
+<details><summary>English</summary>
+
 (It has been shown already that) surrender of self is the aṅgī  
-and that the others (like kārpaṇya) are aṅgas (ie Accessories) .  
+and that the others (like kārpaṇya) are aṅgas (ie Accessories) - 
+
+> "Nyāsa been declared as having five accessories or aṅgas."  
+
+</details>
+
+<details><summary>Español</summary>
 
 (Ya se **ha demostrado** que) la rendición del yo **es** el aṅgī
-y que los otros (como Kārpaṇya) **son** AṅGas (es decir, accesorios).
+y que los otros (como Kārpaṇya) **son** AṅGas (es decir, accesorios) -
+
+> "Nyāsa **ha sido declarado** que **tiene** cinco accesorios o AṅGas".
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-"Nyāsa been declared as having five accessories or aṅgas."  
+इव्वाक्यन्दाऩुम् आत्मनिक्षेपम् अङ्गि, इतरङ्गळ् अङ्गङ्गळॆऩ्ऱु सॊल्लुगिऱ १६‘‘न्यासः पञ्चाङ्ग संयुत’’(लक्ष्मीतन्त्रम् १७-७४) इत्यादिवचनङ्गळाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रार्थऩैयुम् अङ्गम् आगैयाल् 
+
+> १७‘‘रक्षापेक्षां प्रतीक्षते’’(लक्ष्मीतन्त्रम् १७-७८) 
+
+ऎऩ्गिऱ बडिये  
+
+> ईश्वरऩ् अपेक्षा-मात्र-सापेक्षऩ् 
+
+ऎऩ्ऱ् इव्व् +++(प्रार्थना-रूप-)+++अङ्गत्तिऩ् प्राधान्यत्तै विवक्षित्तुच् चॊऩ्ऩ बडि। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> १७‘‘रक्षापेक्षां प्रतीक्षते’’(लक्ष्मीतन्त्रम् १७-७८) 
+</details>
+
+<details><summary>English</summary>
+
 Therefore these words of the Bhāṣyakāra  
 that prapatti consists in prayer (for help)  
 which might mean that the Lord expects only the prayer for help  
 should be understood only as emphasising the importance of one of the aṅgas  
 (namely, the seeking of the Lord's protection ),  
-for it is said "The Lord expects the expression of the desire for protection". 
+for it is said 
+
+> "The Lord expects the expression of the desire for protection".  
+
 This is only one of the aṅgas (and not the aṅgī).  
 (The Bhāṣyakara should not be taken as stating that the prayer alone will do).  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, estas palabras del bhāṣyakāra  
+que 
+
+> Prapatti **consiste** en **oración** (por ayuda)  
+
+lo que **podría significar** que el Señor solo **espera** la **oración** de ayuda  
+debe **entenderse** solo como **enfatizar**  
+la importancia de uno de los AṅGas  
+(a saber, la **búsqueda** de la **protección** del Señor),  
+porque **se dice**
+
+> "El Señor **espera** la expresión del deseo de **protección**".
+
+Este **es** solo uno de los AṅGas (y no el aṅgī).  
+(El Bhāṣyakara **no debe tomarse** como **declarando** que la **oración** sola **servirá**). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रार्थऩैयुमङ्गमागैयाल् १७‘‘रक्षापेक्षां प्रतीक्षते’’(लक्ष्मीतन्त्रम् १७-७८) ऎऩ्गिऱबडिये 
+
+ईश्वरऩ् अपेक्षामात्रसापेक्षऩॆऩ्ऱिव्वङ्गत्तिऩ् प्राधान्यत्तै विवक्षित्तुच् चॊऩ्ऩबडि। 
+</details>
+
+
+
+
 In the shorter Gadya also (Śrīraṅgagadya),  
 Śrī Rāmānuja makes the prayer with faith preceding it  
 and concludes with the words namostu te (i.e.) "I bow to Thee".  
