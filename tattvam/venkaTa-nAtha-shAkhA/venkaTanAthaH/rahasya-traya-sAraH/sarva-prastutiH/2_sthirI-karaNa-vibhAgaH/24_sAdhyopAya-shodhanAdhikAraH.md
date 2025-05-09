@@ -881,6 +881,12 @@ a pesar de que **es** un patricidio o un matricidio ".
 अपशूद्राधिकरणत्तिले समर्त्थितमाऩालुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्रोपासनं त्रैवर्णिकाधिकारिकम् इत्य् अपशूद्राधिकरणे समर्थितत्वेऽपि  
+</details>
+
+
 <details><summary>English</summary>
 
 It is true that upāsana or meditation (in accordance with the teaching of the Upaniṣads )  
@@ -907,6 +913,14 @@ se **ha determinado** como un ajuste (solo) para las tres castas superiores en l
 वैदिकङ्गळ् आऩ सत्य-वचनादिगळ् बोले  
 प्रपत्तियुम् सामान्य-धर्मम् आगैयाले  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+वैदिकानां सत्य-वचनादीनाम् इव  
+प्रपत्तेर् अपि सामान्य-धर्मत्वात्  
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -935,6 +949,13 @@ Así también Prapatti **es** un dharma común a todos
 सर्वरुक्कुम् प्रपत्त्य्-अनुष्ठानत्तुक्कु विरोधम् इल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+यथाऽधिकारं वैदिक-मन्त्रेण तान्त्रिक-मन्त्रेण वा  
+सर्वेषां प्रपत्त्य्-अनुष्ठानस्य न विरोधः ।  
+</details>
+
+
 <details><summary>English</summary>
 
 and may be performed either with Vedic mantras or with mantras found in the Tantras  
@@ -959,6 +980,12 @@ sin ninguna violación de propiedad.
 
 काकादिगळुम् प्रपन्नर् आग शास्त्रङ्गळिले केळा निऩ्ऱोम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+काकादीन् अपि प्रपन्नत्वेन शास्त्रेषु शृणुमः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -996,6 +1023,8 @@ We have heard, in the śastras, of even such beings as crows performing prapatti
 तेऽपि यान्ति परां गतिम्’’  
 (गीता ९-३२)  
 
+इति भगवद्-आश्रयण-मात्रं  
+सर्व-साधारण्येन शरण्य एवानुजग्राह । 
 </details>
 
 <details><summary>English</summary>
@@ -1042,6 +1071,17 @@ Aquí la **búsqueda** del Señor para la **protección** de Bhakti o Prapatti s
 ऎऩ्ऩुम् इडम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> उपासनस्यापि प्रारम्भस्  
+त्रैवर्णिक-शरीर एव
+
++इति सत्य् अपि  
+अवसानं सर्वस्मिन् शरीरे घटत  
+इत्य् एतत्  
+</details>
+
+
 <details><summary>English</summary>
 
 Even in the matter of upāsana or meditation (according to the vidyās in the Upaniṣads)  
@@ -1082,6 +1122,9 @@ El final del curso **puede ser alcanzado** por hombres en los cuerpos de cualqui
 **संसिद्धिं**, श्रमणी यथा॥’’  
 (विष्णुधर्मः १०-२-२९) 
 
+[[२०४]] 
+
+इति श्री-विष्णु-धर्मे प्रत्यपादि । 
 </details>
 
 <details><summary>English</summary>
@@ -1127,6 +1170,15 @@ y **alcanzó** Mukti por Bhakti a Bhāgavatas y Bhagavān.)
 इप्-प्रपदनम् सर्वर्क्कुम् योग्यम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् उपासनस्य त्रैवर्णिक-मात्रारम्भणीयत्वात्  
+प्रपत्तौ केनचिन् नियामकेन सामान्य-वचन-संकोचस्याभावाद्  
+विशेष-वचन-प्राबल्याच्  
+चेदं प्रपदनं सर्वेषां योग्यम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 Thus upāsana or bhakti yoga should be commenced only by the three higher castes.  
@@ -1154,6 +1206,12 @@ Definitivamente **se declara** que todos **son aptos** para adoptar Prapatti.
 आऩबिऩ्बु इदु-तऩक्कु विशेषित्तु वेण्डुम् अधिकारांशमुम् मुऩ्बे सॊऩ्ऩोम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत एवास्य विशिष्यापेक्षितम् अधिकारांश पूर्वम् एवावोचाम । 
+</details>
+
+
 <details><summary>English</summary>
 
 The special qualifications requisite for prapatti  
@@ -1179,6 +1237,16 @@ ya lo **han descrito**.
 नाधिकारः प्रपत्तेस् स्याद्  
 आकिञ्चन्यम् अनाश्रितः ॥   
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतस् त्रैवर्णिकत्वादेर्  
+**भावो ऽभावो** ऽपि कस्यचित् ।  
+नाधिकारः प्रपत्तेस् स्याद्  
+आकिञ्चन्यम् अनाश्रितः ॥   
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -1212,6 +1280,16 @@ La única calificación que **es** esencial **es** ākiñcanya, incapacidad para
 ऎऩ्गिऱ पाट्टिलुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अयमर्थः,  
+
+> कुलयोर् द्वयोर् एकस्मिन्न् अपि न जातोऽस्मि  
+
+इति गाथायाम्  
+</details>
+
+
 <details><summary>English</summary>
 
 This may be seen from the Tamil verse: 
@@ -1242,6 +1320,14 @@ para **permitirme realizar** dharma ",
 
 ऎऩ्गिऱ श्लोकत्तिलुङ् गण्डु कॊळ्वदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "जनित्वाऽहं वंशे"  
+
+इति श्लोके च द्रष्टव्यः।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1280,6 +1366,14 @@ Estoy **hundido** en Saṁsāra;Y me **voy** a bajar ".
 आकिञ्चन्यादिगळ्-उडैय सर्व-जातीयर्क्कुम्  
 प्रपत्त्यधिकारम् सिद्धम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः शरण्य-शरणागति-ज्ञानम् आकिञ्चन्यादिकं च प्राप्तवतां  
+सर्व-जातीयानाम् अपि  
+प्रपत्त्य्-अधिकारः सिद्धः ॥ 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1334,12 +1428,20 @@ Conceptos erróneos sobre la naturaleza o svarupa de Prapatti:
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अस्योपाय-स्वरूपस्य विषये 
 
 > ‘‘नारायणं सलक्ष्मीकं  
 प्राप्तुं तच्-चरण-द्वयं ।  
 उपाय इति विश्वासो  
-द्वयार्थश् शरणागतिः॥’’() 
+द्वयार्थश् शरणागतिः॥’’  
+() 
 
+इत्य् अभियुक्त-वचनम्  
+
+> अधिकार-कोटाव् अङ्ग-कोटौ च निविष्टस्य विश्वासस्य  
+प्राधान्य-ख्यापनार्थम् 
+
+इत्य् एव ग्राह्यम् । 
 </details>
 
 <details><summary>English</summary>
@@ -1376,7 +1478,7 @@ y la fe como accesorio para Prapatti **son** muy importantes.
 इव्वुपायस्वरूपत्तैप्पऱ्ऱ ‘‘नारायणं सलक्ष्मीकं प्राप्तुं तच्चरणद्वयं । उपाय इति विश्वासो द्वयार्थश्शरणागतिः॥’’() ऎऩ्गिऱ अभियुक्तर् पासुरमुम् अधिकारकोटियिलुम् अङ्गकोटियिलुम् निऱ्किऱ विश्वासत्तिऩुडैय प्राधान्यञ्जॊल्लुगैक्कागवत्तऩै।  
 </details>
 
-
+### प्रार्थनाङ्गत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्-पडिये 
@@ -1392,11 +1494,16 @@ y la fe como accesorio para Prapatti **son** muy importantes.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+तथैव 
+
 > ‘‘प्रपत्तिर् विश्वासः –  
 "सकृत् प्रार्थना-मात्रेणापेक्षितं दास्यती"ति  
 विश्वास-पूर्वकं प्रार्थनम् इति यावत्’’  
 (श्री-भाष्य-कार-वाक्यम्) 
 
+इति वाक्यम् अपि  
+प्राधान्य-विवक्षया  
+प्रथमतो विश्वासं प्रतिपाद्य,  
 </details>
 
 <details><summary>English</summary>
@@ -1432,7 +1539,7 @@ Estas palabras del Bhāṣyakara **enfatizan** la importancia de la fe al princi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘अनन्यसाध्ये’’(भरत-मुनिः) 
+> ‘‘अनन्य-साध्ये’’(भरत-मुनिः) 
 
 ऎऩ्गिऱ भरत-मुनि-प्रणीत-लक्षण-वाक्यत्तिऩ् बडिये  
 
@@ -1440,6 +1547,18 @@ Estas palabras del Bhāṣyakara **enfatizan** la importancia de la fe al princi
 
 ऎऩ्ऱु निष्कर्षित्तदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अनन्य-साध्ये’’(भरत-मुनिः) 
+
+[[२०५]]
+
+इति भरत-मुनि-प्रणीत-लक्षण-वाक्यानुसारेण  
+"विश्वास-पूर्वं प्रार्थनम्"  
+इति निश्वकर्ष । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1459,39 +1578,258 @@ que **definen** Prapatti que Prapatti es una **oración** (por **ayuda**) con la
 ‘‘अनन्यसाध्ये’’(भरत-मुनिः) ऎऩ्गिऱ भरतमुनिप्रणीतलक्षणवाक्यत्तिऩ्बडिये विश्वासपूर्वकं प्रार्थनमॆऩ्ऱु निष्कर्षित्तदु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्-वाक्यन्-दाऩुम्  
+
+> आत्म-निक्षेपम् अङ्गि,  
+इतरङ्गळ् अङ्गङ्गळ् 
+
+ऎऩ्ऱु सॊल्लुगिऱ 
+
+> १६‘‘न्यासः पञ्चाङ्ग संयुत’’(लक्ष्मीतन्त्रम् १७-७४) 
+
+इत्य्-आदि-वचनङ्गळाले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं वाक्यम् अपि,  
+
+> आत्म-निक्षेपोऽङ्गी, इतराण्य् अङ्गानि 
+
++इति प्रतिपादयद्भिः 
+
+> १६‘‘न्यासः पञ्चाङ्ग संयुत’’(लक्ष्मीतन्त्रम् १७-७४) 
+
+इत्यादि-वचनैः 
+</details>
+
+
+<details><summary>English</summary>
+
 (It has been shown already that) surrender of self is the aṅgī  
-and that the others (like kārpaṇya) are aṅgas (ie Accessories) .  
+and that the others (like kārpaṇya) are aṅgas (ie Accessories) - 
+
+> "Nyāsa been declared as having five accessories or aṅgas."  
+
+</details>
+
+<details><summary>Español</summary>
 
 (Ya se **ha demostrado** que) la rendición del yo **es** el aṅgī
-y que los otros (como Kārpaṇya) **son** AṅGas (es decir, accesorios).
+y que los otros (como Kārpaṇya) **son** AṅGas (es decir, accesorios) -
+
+> "Nyāsa **ha sido declarado** que **tiene** cinco accesorios o AṅGas".
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-"Nyāsa been declared as having five accessories or aṅgas."  
+इव्वाक्यन्दाऩुम् आत्मनिक्षेपम् अङ्गि, इतरङ्गळ् अङ्गङ्गळॆऩ्ऱु सॊल्लुगिऱ १६‘‘न्यासः पञ्चाङ्ग संयुत’’(लक्ष्मीतन्त्रम् १७-७४) इत्यादिवचनङ्गळाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रार्थऩैयुम् अङ्गम् आगैयाल् 
+
+> १७‘‘रक्षापेक्षां प्रतीक्षते’’(लक्ष्मीतन्त्रम् १७-७८) 
+
+ऎऩ्गिऱ बडिये  
+
+> ईश्वरऩ् अपेक्षा-मात्र-सापेक्षऩ् 
+
+ऎऩ्ऱ् इव्व् +++(प्रार्थना-रूप-)+++अङ्गत्तिऩ् प्राधान्यत्तै विवक्षित्तुच् चॊऩ्ऩ बडि। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रार्थनाया अप्य् अङ्गत्वात्, 
+
+> १७‘‘रक्षापेक्षां प्रतीक्षते’’(लक्ष्मीतन्त्रम् १७-७८) 
+
+इत्य्-उक्त-रीत्या  
+"ईश्वरोऽपेक्षा-मात्र-सापेक्षोऽस्ती"ति  
+अन्याङ्गस्य प्राधान्य-विवक्षया प्रयुक्तम् । 
+</details>
+
+<details><summary>English</summary>
+
 Therefore these words of the Bhāṣyakāra  
 that prapatti consists in prayer (for help)  
 which might mean that the Lord expects only the prayer for help  
 should be understood only as emphasising the importance of one of the aṅgas  
 (namely, the seeking of the Lord's protection ),  
-for it is said "The Lord expects the expression of the desire for protection". 
+for it is said 
+
+> "The Lord expects the expression of the desire for protection".  
+
 This is only one of the aṅgas (and not the aṅgī).  
 (The Bhāṣyakara should not be taken as stating that the prayer alone will do).  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, estas palabras del bhāṣyakāra  
+que 
+
+> Prapatti **consiste** en **oración** (por ayuda)  
+
+lo que **podría significar** que el Señor solo **espera** la **oración** de ayuda  
+debe **entenderse** solo como **enfatizar**  
+la importancia de uno de los AṅGas  
+(a saber, la **búsqueda** de la **protección** del Señor),  
+porque **se dice**
+
+> "El Señor **espera** la expresión del deseo de **protección**".
+
+Este **es** solo uno de los AṅGas (y no el aṅgī).  
+(El Bhāṣyakara **no debe tomarse** como **declarando** que la **oración** sola **servirá**). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रार्थऩैयुमङ्गमागैयाल् १७‘‘रक्षापेक्षां प्रतीक्षते’’(लक्ष्मीतन्त्रम् १७-७८) ऎऩ्गिऱबडिये 
+
+ईश्वरऩ् अपेक्षामात्रसापेक्षऩॆऩ्ऱिव्वङ्गत्तिऩ् प्राधान्यत्तै विवक्षित्तुच् चॊऩ्ऩबडि। 
+</details>
+
+### आत्म-निक्षेपः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिऱिय गद्यत्तिलुम्  
+विश्वास-पूर्वक-प्रार्थऩैयैप् पण्णि  
+‘‘नमोऽस्तु ते’’ ऎऩ्ऱु मुडिक्कैयालुम्  
+उपाय-वरण-शब्द+++(→"शरणं")+++-सामर्थ्यत्तालुम्  
+**निक्षेपमुम् सिद्धम्।** 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+लघु-गद्ये विश्वास-पूर्वक-प्रार्थनां कृत्वा  
+“नमोऽस्तु ते" इति निगमनात्  
+उपाय-वरण-शब्द-सामर्थ्याच् च  
+निक्षेपः सिद्धः । 
+</details>
+
+
+<details><summary>English</summary>
+
 In the shorter Gadya also (Śrīraṅgagadya),  
 Śrī Rāmānuja makes the prayer with faith preceding it  
 and concludes with the words namostu te (i.e.) "I bow to Thee".  
 Further he uses the word śaraṇam which means seeking (the Lord) as upāya.  
 From these two,  
 it is evident that self-surrender is present.  
+</details>
+
+<details><summary>Español</summary>
+
+En el Gadya más corto también (Śrīraṅgagadya),  
+Śrī rāmānuja **hace** la **oración** con fe que lo **precede**  
+y **concluye** con las palabras "namostu te" (es decir) "me **inclino** a ti".  
+Además, usa la palabra Śaraṇam, que **significa buscar** (el Señor) como upāya.  
+De estos dos,  
+**Es evidente** que el auto-**curandero** está **presente**.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+सिऱिय गद्यत्तिलुम् विश्वासपूर्वकप्रार्थऩैयैप् पण्णि ‘‘नमोऽस्तु ते’’ ऎऩ्ऱु मुडिक्कैयालुम् उपायवरणशब्दसामर्थ्यत्तालुम् निक्षेपमुम् सिद्धम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नमस्स् आत्मनिक्षेप-परम् ऎऩ्ऩुम् इडम् 
+
+> १८ ‘‘नमस्-कारात्मकं यस्मै  
+विधायात्म-निवेदनम्’’  
+(मन्त्र-राज-पद-स्तोत्रम्) 
+
+इत्य्-आदिगळिले प्रसिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+नमसः आत्म-निक्षेप-परत्वम्,  
+
+> १८ ‘‘नमस्-कारात्मकं यस्मै  
+विधायात्म-निवेदनम्’’  
+(मन्त्र-राज-पद-स्तोत्रम्) 
+
+इत्य्-आदिषु प्रसिद्धम् । 
+</details>
+
+
+
+<details><summary>English</summary>
+
 That the word namas in namostute means surrender of self  
 is well-known from such passages as the following:--  
+
 > "I bow to Bhagavan to whom,  
 > having surrendered his self  
 > which is what is meant by namaskāra,  
 > a man gets rid of his suffering and enjoys whatever he desires." 
+</details>
+
+<details><summary>Español</summary>
+
+Que la palabra namas en Namostute **significa rendición** de sí mismo  
+**es** bien **conocido** por pasajes como los siguientes:-
+
+> "Me **inclino** ante Bhagavan a quién,  
+> **Habiendo entregado** su ser  
+> que **es** lo que **se entiende** por Namaskāra,  
+> Un hombre **se deshace** de su **sufrimiento** y **disfruta** de lo que **desee** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नमस् सात्मनिक्षेपपरमॆऩ्ऩुमिडम् १८‘‘नमस्कारात्मकं यस्मै विधायात्मनिवेदनम्’’(मन्त्र-राज-पद-स्तोत्रम्) इत्यादिगळिले प्रसिद्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्री-वैकुण्ठ-गद्यत्तिले  
+प्रार्थना-पूर्वकात्मनिक्षेपम् कण्ठोक्तम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-वैकुण्ठ-गद्ये  
+प्रार्थना-पूर्वकात्म-निक्षेपः कण्ठोक्त एव । 
+</details>
+
+<details><summary>English</summary>
 
 In Śrī Vaikuṇṭha Gadya the surrender of self preceded by prayer is explicit.  
-Therefore (since Śrī Rāmānuja states in Vaikuṇṭha - Gadya:  
-"Praying for protection, the person should surrender his (or her) self to Bhagavan  
+</details>
+
+<details><summary>Español</summary>
+
+En Śrī Vaikuṇṭha Gadya, la **rendición** del yo  
+**precedido** por la **oración es** explícita.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीवैकुण्ठगद्यत्तिले प्रार्थनापूर्वकात्मनिक्षेपम् कण्ठोक्तमायिऱ्ऱु। 
+</details>
+
+
+
+
+Therefore  
+(since Śrī Rāmānuja states in Vaikuṇṭha - Gadya:  
+"Praying for protection,  
+the person should surrender his or her self to Bhagavan  
 after bowing to Him,")  
 it is clear that surrender of self  
 is different from the prayer for protection  
