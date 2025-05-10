@@ -1629,7 +1629,11 @@ Estas palabras del Bhāṣyakara **enfatizan** la importancia de la fe al princi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘अनन्य-साध्ये’’(भरत-मुनिः) 
+> ‘‘अनन्य-साध्ये (स्वाभीष्टे  
+महाविश्वासपूर्वकं ।  
+तदेकोपायता याच्ञा  
+प्रपत्तिश् शरणागतिः॥)’’  
+(भरत-मुनिः) 
 
 ऎऩ्गिऱ भरत-मुनि-प्रणीत-लक्षण-वाक्यत्तिऩ् बडिये  
 
@@ -1640,7 +1644,11 @@ Estas palabras del Bhāṣyakara **enfatizan** la importancia de la fe al princi
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘अनन्य-साध्ये’’(भरत-मुनिः) 
+> ‘‘अनन्य-साध्ये (स्वाभीष्टे  
+महाविश्वासपूर्वकं ।  
+तदेकोपायता याच्ञा  
+प्रपत्तिश् शरणागतिः॥)’’  
+(भरत-मुनिः) 
 
 [[२०५]]
 
@@ -1668,6 +1676,18 @@ que **definen** Prapatti que Prapatti es una **oración** (por **ayuda**) con la
 ‘‘अनन्यसाध्ये’’(भरत-मुनिः) ऎऩ्गिऱ भरतमुनिप्रणीतलक्षणवाक्यत्तिऩ्बडिये विश्वासपूर्वकं प्रार्थनमॆऩ्ऱु निष्कर्षित्तदु। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि विश्वासत्तिऱ्कु प्रपत्तित्वम् सॊऩ्ऩदु अन्यपरमागैयाल् अदैविट्टु प्रपत्तिलक्षणवाक्यपर्यालोचनया विश्वासपूर्वकप्रार्थऩैये प्रपत्तियॆऩ्ऱु निष्कर्षित्तारॆऩ्गिऱार् अनन्यसाध्येत्यादिना ।  
+
+> ‘‘अनन्यसाध्ये स्वाभीष्टे  
+महाविश्वासपूर्वकं ।  
+तदेकोपायता याच्ञा  
+प्रपत्तिश् शरणागतिः॥’’ 
+
+ऎऩ्ऱिऱे लक्षणवाक्यम्। इदिल् विश्वासपूर्वकप्रार्थऩैये प्रपत्तियॆऩ्ऱु सॊल्लप्पट्टिरुक्किऱदु। 
+
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1719,6 +1739,11 @@ y que los otros (como Kārpaṇya) **son** AṅGas (es decir, accesorios) -
 <details><summary>मूलम्</summary>
 
 इव्वाक्यन्दाऩुम् आत्मनिक्षेपम् अङ्गि, इतरङ्गळ् अङ्गङ्गळॆऩ्ऱु सॊल्लुगिऱ १६‘‘न्यासः पञ्चाङ्ग संयुत’’(लक्ष्मीतन्त्रम् १७-७४) इत्यादिवचनङ्गळाले 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+निक्षेपमे प्रपत्तियॆऩ्ऱु पूर्वम् सिद्धान्तितमागै याल् इन्द लक्षणवाक्यमुम्, लक्षणवाक्यानुसारियाऩ भाष्यकारमुक्तकवाक्यमुम्, प्रार्थनारूपाङ्गत्तिऩ्प्राशस्त्यपरमॆऩ्गिऱार् इव्वाक्यन्दाऩुमित्यादिना । न्यासमे अङ्गियॆऩ्ऱुम्, इतरङ्गळ् अङ्गङ्गळॆऩ्ऱुम् सॊल्लुगिऱ स्पष्टवचनत्तै उदाहरिक्किऱार् न्यासः पञ्चाङ्गसंयुत इत्यादिवचनङ्गळाले इति । 
 </details>
 
 
@@ -1788,6 +1813,12 @@ Este **es** solo uno de los AṅGas (y no el aṅgī).
 ईश्वरऩ् अपेक्षामात्रसापेक्षऩॆऩ्ऱिव्वङ्गत्तिऩ् प्राधान्यत्तै विवक्षित्तुच् चॊऩ्ऩबडि। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+अङ्गमाऩ प्रार्थऩैयै प्रपत्तियाग प्रशंसिक्कक् कारणमरुळिच्चॆय्गिऱार् रक्षापेक्षां प्रतीक्षते ऎऩ्गिऱबडिये इति । चेतनगतङ्गळाऩ इतराङ्गङ्गळैक् काट्टिलुम् रक्षापेक्षैयै मात्तिरम् ईश्वरऩ् प्रधानमाग अपेक्षिप्पदाल् ईश्वरापेक्षितत्वरूपप्राधान्यत्तै विवक्षित्तु प्रार्थऩैयै प्रपत्तियॆऩ्गिऱदु ऎऩ्ऱु करुत्तु। 
+</details>
+
+
 ### आत्म-निक्षेपः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1833,12 +1864,20 @@ De estos dos,
 सिऱिय गद्यत्तिलुम् विश्वासपूर्वकप्रार्थऩैयैप् पण्णि ‘‘नमोऽस्तु ते’’ ऎऩ्ऱु मुडिक्कैयालुम् उपायवरणशब्दसामर्थ्यत्तालुम् निक्षेपमुम् सिद्धम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+ननु मुक्तकवाक्यं प्रार्थनाप्राशस्त्यपरमॆऩ्ऱु निर्वहिक्कक्कूडुमो? भाष्यकारर् अरुळिच्चॆय्द श्रीरङ्गगद्यत्तिल् ‘‘विश्वासपूर्वकं भगवते नित्यकिङ्करतां प्रार्थये’’ ऎऩ्ऱु प्रार्थनामात्रमऩ्ऱो अनुष्ठिक्कप्पट्टदु। पृथक्काग अङ्गियाऩ न्यासत्तै अनुष्ठित्तदागक् काणविल्लैये; आगैयालदुवे अङ्गियाग वेण्डावो ऎऩ्ऩ? अङ्गुम् ‘‘नमोऽस्तु ते’’ ऎऩ्ऱु मुडिविल् सॊल्लुगैयालुम्, ‘‘त्वच्चरणारविन्दयुगळं शरणमहं प्रपद्ये’’ ऎऩ्ऱु उपायवरणशब्दसामर्थ्यत्तालुम् प्रार्थनातिरिक्तमाऩ अङ्गियुम् सिद्धमॆऩ्गिऱार् सिऱिय गद्यत्तिलुमित्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नमस्स् आत्मनिक्षेप-परम् ऎऩ्ऩुम् इडम् 
 
 > १८ ‘‘नमस्-कारात्मकं यस्मै  
-विधायात्म-निवेदनम्’’  
+विधायात्म-निवेदनम्।  
+(त्यक्त-दुःखोऽखिलान् कामान्  
+अश्नुते तं नमाम्य् अहम्॥)’’  
 (मन्त्र-राज-पद-स्तोत्रम्) 
 
 इत्य्-आदिगळिले प्रसिद्धम्। 
@@ -1849,7 +1888,9 @@ De estos dos,
 नमसः आत्म-निक्षेप-परत्वम्,  
 
 > १८ ‘‘नमस्-कारात्मकं यस्मै  
-विधायात्म-निवेदनम्’’  
+विधायात्म-निवेदनम्।  
+(त्यक्त-दुःखोऽखिलान् कामान्  
+अश्नुते तं नमाम्य् अहम्॥)’’  
 (मन्त्र-राज-पद-स्तोत्रम्) 
 
 इत्य्-आदिषु प्रसिद्धम् । 
@@ -1885,6 +1926,18 @@ Que la palabra namas en Namostute **significa rendición** de sí mismo
 नमस् सात्मनिक्षेपपरमॆऩ्ऩुमिडम् १८‘‘नमस्कारात्मकं यस्मै विधायात्मनिवेदनम्’’(मन्त्र-राज-पद-स्तोत्रम्) इत्यादिगळिले प्रसिद्धम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+नमश्शब्दम् आत्मनिक्षेपपरमागुमोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् नमस् सात्मनिक्षेपपरमॆऩ्ऩुमिडमित्यादिना । 
+
+> ‘‘नमस्कारात्मकं यस्मै  
+विधायात्म-निवेदनम् ।  
+त्यक्त-दुःखोऽखिलान् कामान्  
+अश्नुते तं नमाम्य् अहम्॥’’ 
+
+ऎऩ्बदु मन्त्रराजपदस्तोत्रवचनम्। आदिपदत्ताल् अहिर्बुध्न्रयसंहितादिपरिग्रहः । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1900,13 +1953,21 @@ Que la palabra namas en Namostute **significa rendición** de sí mismo
 
 <details><summary>English</summary>
 
-In Śrī Vaikuṇṭha Gadya the surrender of self preceded by prayer is explicit.  
+In Śrī Vaikuṇṭha Gadya the surrender of self preceded by prayer is explicit  
+(since Śrī Rāmānuja states in Vaikuṇṭha - Gadya:  
+"Praying for protection,  
+the person should surrender his or her self to Bhagavan  
+after bowing to Him")  
 </details>
 
 <details><summary>Español</summary>
 
 En Śrī Vaikuṇṭha Gadya, la **rendición** del yo  
-**precedido** por la **oración es** explícita.
+**precedido** por la **oración es** explícita  
+(ya que Śrī Rāmānuja **dice** en Vaikuṇṭha - Gadya:  
+"**Rezando** por la **protección**,  
+La persona **debe entregarse** a Bhagavan  
+Después de **inclinarte** ante él ")
 </details>
 
 
@@ -1915,14 +1976,40 @@ En Śrī Vaikuṇṭha Gadya, la **rendición** del yo
 श्रीवैकुण्ठगद्यत्तिले प्रार्थनापूर्वकात्मनिक्षेपम् कण्ठोक्तमायिऱ्ऱु। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+अङ्गमाऩ प्रार्थऩैयुम् अङ्गियाऩ आत्मनिवेदनमुम् श्रीवैकुण्ठगद्यत्तिल् स्पष्टमागच् चॊल्लप्पट्टदॆऩ्गिऱार् श्री वैकुण्ठगद्यत्तिले इत्यादिना । कण्ठोक्तमायिऱ्ऱु इति । 
+
+> ‘‘माम् ऐकान्तिकात्यन्तिक-परिचर्या-करणाय  
+परिगृह्णीष्वेति याचमानः  
+प्रणम्यात्मानं भगवते निवेदयेत्’’ 
+
+ऎऩ्गिऱ वैकुण्ठगद्य-वाक्यत्तिल्  
+"याचमानः" ऎऩ्ऱु प्रार्थऩैयुम्,  
+"आत्मानं भगवते निवेदयेत्" ऎऩ्ऱु तत्-पूर्वकात्म-निवेदनमुम् स्पष्टमागच् चॊल्लप्पट्टदिऱे। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् +++(अङ्गाङ्गि-विभागेन)+++
+
+> ‘‘अनेनैव तु मन्त्रेण  
+स्वात्मानं मयि निक्षिपेत्’’  
+(सात्यकि-तन्त्रम्), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अनेनैव तु मन्त्रेण  
+स्वात्मानं मयि निक्षिपेत्’’  
+(सात्यकि-तन्त्रम्), 
+
+</details>
 
 
+<details><summary>English</summary>
 
 Therefore  
-(since Śrī Rāmānuja states in Vaikuṇṭha - Gadya:  
-"Praying for protection,  
-the person should surrender his or her self to Bhagavan  
-after bowing to Him,")  
 it is clear that surrender of self  
 is different from the prayer for protection  
 and is the angī with the prayer as an aṅga. 
@@ -1930,6 +2017,46 @@ and is the angī with the prayer as an aṅga.
 It has therefore to be concluded that in the words:  
 
 > "One should surrender one's self by uttering this mantra", 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto  
+**Está claro** que la **rendición** de sí mismo  
+**es** diferente de la **oración** por la **protección**
+y **es** el Angī con la **oración** como Aṅga.
+
+Por lo tanto, **debe concluir** que en las palabras:
+
+> "Uno **debería rendirse** a sí mismo **pronunciando** este mantra",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ‘‘अनेनैव तु मन्त्रेण स्वात्मानं मयि निक्षिपेत्’’(सात्यकि-तन्त्रम्), 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अङ्गिविधायकवचनङ्गळैक् काट्टुगिऱार् आगैयालित्यादिना । आगैयाल् - श्रीवैकुण्ठगद्यत्तिल् याच्ञैयुम्, आत्मनिवेदनमुम् अङ्गाङ्गिभावेन कण्ठोक्तमागैयाल्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आत्मात्मीय-भर-न्यास’’(लक्ष्मीतन्त्रम् १७-७९) 
+
+इत्य्-आदिगळिले अङ्गि-विधानम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘आत्मात्मीय-भर-न्यास’’(लक्ष्मीतन्त्रम् १७-७९) 
+
+</details>
+
+<details><summary>English</summary>
 
 and 
 
@@ -1938,24 +2065,186 @@ and
 the aṅgī which is surrender of self,  
 is declared as a vidhi or injunction.
 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "La **rendición** de uno mismo y de lo que **pertenece** a uno mismo",
+
+el aṅgī que **se rinde** de sí mismo,  
+**se declara** como un vidhi o mandato.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+‘‘आत्मात्मीयभरन्यास’’(लक्ष्मीतन्त्रम् १७-७९) इत्यादिगळिले अङ्गिविधानम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् पडिय् अल्लाद बोदु 
+
+> ‘‘षड्विधा शरणागतिः’’(अहिर्बुध्न्य-संहिता ३७-१८) 
+
+ऎऩ्गिऱ वाक्यत्तिल्  
+आपात-प्रतीतियैक् कॊण्डु 
+
+> ‘‘स्नानं सप्त-विधं स्मृतम्’’
+
+इत्य्-आदिगळिऱ् सॊऩ्ऩ स्नानादि-भेदङ्गळ् पोले  
+तऩित् तऩिये प्रपत्ति-विशेषङ्गळ् आगप् प्रसङ्गिक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
 If this were not accepted (as true),  
 it would lead to construing the sentence  
-"Saranāgati is of six kinds"  
+
+> "Saranāgati is of six kinds"  
+
 in its apparent meaning  
 and thinking that the five accessories or aṅgas of prapatti are, every one of them, a form of prapatti or angī,  
 in the same way as we conclude that there are seven different kinds of ablution (snāna) from the sentence :- 
 
 > "Ablution is said to be of seven kinds".
+</details>
+
+<details><summary>Español</summary>
+
+Si esto **no fuera aceptado** (como cierto),  
+**conduciría** a **construir** la **oración**
+
+> "Saranāgati **es** de seis tipos"
+
+En su **aparente significado**  
+y **pensar** que los cinco accesorios o aṅgas de Prapatti **son**, cada uno de ellos, una forma de Prapatti o Angī,  
+De la misma manera que **concluimos**  
+que **hay** siete tipos diferentes de ablución (snāna) de la **oración**:-
+
+> "**Se dice** que la ablución **es** de siete tipos".
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडियल्लादबोदु ‘‘षड्विधा शरणागतिः’’(अहिर्बुध्न्य-संहिता ३७-१८) ऎऩ्गिऱ वाक्यत्तिलापातप्रतीतियैक्कॊण्डु ‘‘स्नानं सप्तविधं स्मृत’’() मित्यादिगळिऱ्सॊऩ्ऩ स्नानादिभेदङ्गळ् पोले तऩित्तऩिये प्रपत्तिविशेषङ्गळागप् प्रसङ्गिक्कुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘प्रपत्तिं तां **प्रयुञ्जीत**  
+स्वाङ्गैः पञ्चभिर् **आवृताम्’’**  
+(लक्ष्मीतन्त्रम् २८-११)  
+
+इत्य्-आदि वचनान्तर-बलत्ताले  
+नियमिक्कप् पार्क्किल् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘प्रपत्तिं तां **प्रयुञ्जीत**  
+स्वाङ्गैः पञ्चभिर् **आवृताम्’’**  
+(लक्ष्मीतन्त्रम् २८-११)  
+
+
+</details>
+
+<details><summary>English</summary>
 
 If it is argued that the aṅgas are not considered to be aṅgīs on account of the statement: 
 
 > “One should perform prapatti with its five aṅgas or accessories," 
 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se argumenta** que los AṅGA **no se consideran** Aṅgīs debido a la **declaración**:
+
+> "Uno **debe realizar** Prapatti con sus cinco AṅGA o accesorios".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रपत्तिं तां प्रयुञ्जीत स्वाङ्गैः पञ्चभिरावृताम्’’(लक्ष्मीतन्त्रम् २८-११)  इत्यादि वचनान्तरबलत्ताले नियमिक्कप्पार्क्किल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पडिये 
+
+> "प्रार्थना-विश्वासादिगळै प्रपत्तिय्" 
+
+ऎऩ्ऱु सॊल्लुगिऱ वचनङ्गळैयुम् नियमित्तु 
+
+> ‘‘न्यासः पञ्चाङ्ग-संयुत’’ 
+
+इत्य्-आदिगळिऱ् पडिये  
+
+> निक्षेपम् ऒऩ्ऱुमे अङ्गि,  
+इतरङ्गळ् अङ्गङ्गळ् 
+
+ऎऩ्गैय् उचितम्। 
+</details>
+
+<details><summary>English</summary>
+
 then by the force of the same argument  
 and in accordance with the statement  
-"Nyása is accompanied by five aṅgas",  
+
+> "Nyása is accompanied by five aṅgas",  
+
 we should, in reason, correct such statements as  
-"Prapatti is prayer" and "Prapatti is faith", and hold that "Nikṣepa or surrender is the angi", and that the rest are ( only) aṅgas.
+
+> "Prapatti is prayer" 
+
+and 
+
+> "Prapatti is faith", 
+
+and hold that 
+
+> "Nikṣepa or surrender is the angi", 
+
+and that the rest are ( only) aṅgas.
+</details>
+
+<details><summary>Español</summary>
+
+luego por la fuerza del mismo argumento  
+y de **acuerdo** con la **declaración**
+
+> "Nyása **está acompañada** por cinco aṅgas",
+
+Deberíamos, en razón, **corregir declaraciones** como
+
+> "Prapatti **es oración**"
+
+y
+
+> "Prapatti **es** fe",
+
+y **sostener** eso
+
+> "Nikṣepa o la **rendición es** el Angi",
+
+y que el resto **son** (solo) aṅgas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पडिये प्रार्थनाविश्वासादिगळै प्रपत्तियॆऩ्ऱु सॊल्लुगिऱ वचनङ्गळैयुम् नियमित्तु ‘‘न्यासः पञ्चाङ्गसंयुत’’ इत्यादिगळिऱ्पडिये निक्षेपमॊऩ्ऱुमे अङ्गि इतरङ्गळ् अङ्गङ्गळॆऩ्गैयुचितम्।  
+</details>
+
+
+
+
+
 
 Even if we judge by the principle that,  
 (when there is a difference in the statements ),  
