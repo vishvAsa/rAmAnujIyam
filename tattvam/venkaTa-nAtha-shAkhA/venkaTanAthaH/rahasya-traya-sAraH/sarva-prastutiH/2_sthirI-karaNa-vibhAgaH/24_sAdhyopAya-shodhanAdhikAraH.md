@@ -1819,7 +1819,7 @@ Este **es** solo uno de los AṅGas (y no el aṅgī).
 </details>
 
 
-### आत्म-निक्षेपः
+### भर-न्यासो ऽङ्गी
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिऱिय गद्यत्तिलुम्  
@@ -2000,10 +2000,11 @@ Después de **inclinarte** ante él ")
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अतः 
+
 > ‘‘अनेनैव तु मन्त्रेण  
 स्वात्मानं मयि निक्षिपेत्’’  
 (सात्यकि-तन्त्रम्), 
-
 </details>
 
 
@@ -2054,6 +2055,7 @@ Por lo tanto, **debe concluir** que en las palabras:
 
 > ‘‘आत्मात्मीय-भर-न्यास’’(लक्ष्मीतन्त्रम् १७-७९) 
 
+इत्यादिषु +अङ्गि-विधानम् । 
 </details>
 
 <details><summary>English</summary>
@@ -2098,6 +2100,22 @@ el aṅgī que **se rinde** de sí mismo,
 इत्य्-आदिगळिऱ् सॊऩ्ऩ स्नानादि-भेदङ्गळ् पोले  
 तऩित् तऩिये प्रपत्ति-विशेषङ्गळ् आगप् प्रसङ्गिक्कुम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा 
+
+> ‘‘षड्विधा शरणागतिः’’(अहिर्बुध्न्य-संहिता ३७-१८) 
+
+इत्य्-अस्मिन् वाक्ये  
+आपात-प्रतीतिम् आश्रित्य 
+
+> ‘‘स्नानं सप्त-विधं स्मृतम्’’
+
+इत्य्-आद्य्-उक्त-स्नानादि-भेदवत्  
+पृथक् पृथक् प्रपत्ति-विशेषाः प्रसज्येरन् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2149,7 +2167,7 @@ que **hay** siete tipos diferentes de ablución (snāna) de la **oración**:-
 स्वाङ्गैः पञ्चभिर् **आवृताम्’’**  
 (लक्ष्मीतन्त्रम् २८-११)  
 
-
+इत्य्-आदि-वचन-बलात् नियमने ऽभिमते, 
 </details>
 
 <details><summary>English</summary>
@@ -2190,6 +2208,17 @@ Si **se argumenta** que los AṅGA **no se consideran** Aṅgīs debido a la **d
 
 ऎऩ्गैय् उचितम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तथैव प्रार्थना-विश्वासादीनां प्रपत्तित्व-प्रतिपादकानां वचनानां नियमन-पूर्वकं 
+
+> ‘‘न्यासः पञ्चाङ्ग-संयुत’’ 
+
+इत्य्-आदि-रीत्या,  
+निक्षेप एक एवाङ्गी, इतराण्य् अङ्गानीति मन्तुं युक्तम् ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2242,51 +2271,533 @@ y que el resto **son** (solo) aṅgas.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भूयसा-न्यायत्तैप् पार्त्तालुम्  
+सात्यकि-तन्त्र--लक्ष्मी-तन्त्राहिर्बुध्न्य-संहितादिगळिल्  
+प्रपत्त्य्-अध्यायङ्गळिले  
+निक्षेपम् अङ्गिय् ऎऩ्ऱे प्रसिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भूय-सांन्यायस्य दर्शनेऽपि  
+सात्यकि-तन्त्र--लक्ष्मी-तन्त्राहिर्बुध्न्य-संहितादिषु  
+प्रपत्त्य्-अध्यायेषु निक्षेपः अङ्गीत्य् एव प्रसिद्धः । 
+
+[[२०६]]
+</details>
 
 
-
+<details><summary>English</summary>
 
 Even if we judge by the principle that,  
 (when there is a difference in the statements ),  
 that statement which is made in a larger number of contexts should be accepted as true,  
 it would be evident,  
-from a study of the chapters on Prapatti in Sātvika Tantra, Lakṣmī Tantra, Ahirbudhriya Saṁhitā, and the like, that Nikṣepa or self-surrender is the aṅgī.  
-Even in the śloka :-"Thou alone, shouldst be my upāya. It is this idea of prayer that is called śaraṇāgati",  
+from a study of the chapters on Prapatti in Sātvika Tantra, Lakṣmī Tantra, Ahirbudhriya Saṁhitā, and the like,  
+that Nikṣepa or self-surrender is the aṅgī.  
+</details>
+
+<details><summary>Español</summary>
+
+Incluso si **juzgamos** por el principio que,  
+(Cuando **hay** una **diferencia** en las **declaraciones**),  
+Esa **declaración** que **se hace** en un mayor número de contextos **debe aceptarse** como verdadero,  
+**sería evidente**  
+de un **estudio** de los capítulos sobre Prapatti en Sātvika Tantra, Lakṣmī Tantra, Ahirbudhriya Saṁhitā, y similares, similares,  
+que Nikṣepa o **su corredor** propio **es** el aṅgī.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भूयसान्यायत्तैप्पार्त्तालुम् सात्यकितन्त्रलक्ष्मीतन्त्राहिर्बुध्न्यसंहितादिगळिल् प्रपत्त्यध्यायङ्गळिले निक्षेपम् अङ्गियॆऩ्ऱे प्रसिद्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘त्वम् एवोपाय-भूतो मे  
+भवेति प्रार्थना-मतिः ।  
+शरणागतिर् इत्य् उक्ता’’  
+(अहिर्बुध्न्य-संहिता ३७-३१) 
+
+ऎऩ्गिऱदुवुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘त्वम् एवोपाय-भूतो मे  
+भवेति प्रार्थना-मतिः ।  
+शरणागतिर् इत्य् उक्ता’’  
+(अहिर्बुध्न्य-संहिता ३७-३१) 
+
+इति वचनम् अपि 
+</details>
+
+
+<details><summary>English</summary>
+
+Even in the śloka :-
+
+> "Thou alone, shouldst be my upāya.  
+It is this idea of prayer  
+that is called śaraṇāgati",  
+</details>
+
+<details><summary>Español</summary>
+
+Incluso en el Śloka:-
+
+> "Tú solo, **deberías ser** mi upāya.  
+**Es** esta idea de **oración**  
+que **se llama** Śaraṇāgati ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘त्वमेवोपायभूतो मे भवेति प्रार्थनामतिः । शरणागतिरित्युक्ता’’(अहिर्बुध्न्य-संहिता ३७-३१) ऎऩ्गिऱदुवुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्-प्रकरणत्तिल् प्रधानम् आगच् चॊऩ्ऩ भर-न्यास-पर्यन्तम्  
+ऎऩ्ऩुम् इडम्  
+अवधारण--सह-कृत-+"उपाय"-शब्दत्ताले व्यञ्जितम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्-प्रकरणे प्राधान्येन प्रतिपादित-भर-न्यास-पर्यन्तम्  
+इत्य् एतद् अवधारण-सह-कृत-+"उपाय"-शब्देन व्यञ्जितम् । 
+</details>
+
+
+<details><summary>English</summary>
+
 it is indicated by suggestion in the word upāya coming along with the word 'alone'  
-that what is referred to is bharanyāsa or surrender of responsibility which is the main theme in that context.  
-Even in ordinary life, an accessory is often spoken of  
-as if it were the main thing in order to emphasise some one aspect or other.  
+that what is referred to is bharanyāsa or surrender of responsibility  
+which is the main theme in that context.  
+</details>
+
+<details><summary>Español</summary>
+
+**Se indica** por sugerencia en la palabra upāya  
+que **viene** junto con la palabra 'solo'  
+que lo que **se hace referencia es** Bharanyāsa o la **rendición** de la responsabilidad  
+Cuál **es** el tema principal en ese contexto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्प्रकरणत्तिल् प्रधानमागच्चॊऩ्ऩ भरन्यासपर्यन्तमॆऩ्ऩुमिडम् अवधारणसहकृतोपायशब्दत्ताले व्यञ्जितम्। 
+</details>
+
+### इतर-धात्व्-अर्थानां भरन्यासे ऽवसानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओर् ऒरु विवक्षैगळाले  
+अङ्गङ्गळै प्रधानम् आगच् चॊल्लुगै  
+लोकत्तिलुम् उण्डु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्-तद्-विवक्षा-विशेषैर्  
+अङ्गानां प्राधान्येन प्रतिपादनं  
+लोकेऽपि वर्तते । 
+</details>
+
+
+<details><summary>English</summary>
+
+Even in ordinary life,  
+an accessory is often spoken of  
+as if it were the main thing  
+in order to emphasise some one aspect or other.  
+</details>
+
+<details><summary>Español</summary>
+
+Incluso en la **vida** ordinaria,  
+a menudo **se habla** de un accesorio  
+Como si **fuera** lo principal  
+Para **enfatizar** un aspecto u otro.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ओरॊरु विवक्षैगळाले अङ्गङ्गळै प्रधानमागच् चॊल्लुगै लोकत्तिलुमुण्डु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आलम्भ-शब्दम्  
+याग-पर्यन्तम् आऩाऱ् पोले  
+‘‘शरणं व्रजे’’त्य्-आदिगळिल् धातुक्कळ्  
+न्यास-निक्षेप-त्यागादि-शब्दङ्गळाले सॊल्लप् पट्टव् आत्म-यागत्तैच् चॊल्लुगै  
+वैदिक-मर्यादैक्कुम् अनुगुणम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आलम्भ-शब्दस्य याग-पर्यन्तत्ववत्  
+“शरणं व्रज" इत्य्-आदिषु धातुभिः  
+न्यास-निक्षेप-त्यागादि-शब्दोक्तात्म-याग-प्रतिपादनं  
+वैदिक-मर्यादाया अप्य् अनुगुणम् । 
+</details>
+
+
+<details><summary>English</summary>
+
 The word ālambha, which means 'killing'  
 is employed to mean also 'yāga or sacrifice' in a wider sense;  
 so also in "seek refuge" in the Carama śloka and the like,  
 the verbs signify the sacrifice of the self or ātma yāga, which is usually expressed by such words as nyāsa, nikṣepa and tyāga (surrender).  
 This is in keeping with Vedic usage.
+</details>
 
-What is called yāga is a special form of thought indicating that a particular offering (havis) is made to a particular deity. Ātmayāga or the sacrifice (or surrender of self) is (likewise) a special form of thought indicating this : « My soul, which is the most delicious of offerings (havis ), is for Śrīman Nārāyaṇa. We have already stated (on page ) that in this surrender of self, the nature of the action to be performed which is common to all .who desire benefits of whatever kind is the surrender of the responsibility for protection.
+<details><summary>Español</summary>
+
+La palabra ālambha, que **significa** '**matar**'  
+**se emplea** para **significar** también 'yāga o **sacrificio**' en un sentido más amplio;  
+Así también en "**buscar refugio**" en el carama Śloka y similares,  
+Los verbos **significan** el **sacrificio** del yo o ātma yāga, que generalmente **se expresa** por palabras como Nyāsa, Nikṣepa y Tyāga (rendición).  
+Esto **está** en consonancia con el uso védico.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आलंभशब्दम् यागपर्यन्तमाऩाऱ्पोले ‘‘शरणं व्रजे’’त्यादिगळिल् धातुक्कळ् न्यासनिक्षेपत्यागादिशब्दङ्गळाले सॊल्लप्पट्टवात्मयागत्तैच् चॊल्लुगै वैदिकमर्यादैक्कुमनुगुणम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यागम् आवदु  
+
+> इऩ्ऩ देवतैक्क् इऩ्ऩ हविस्स् 
+
+ऎऩ्ऱ् इङ्ङऩेय् ऒरु बुद्धि-विशेषम्। +++(4)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+यागो नाम -  
+
+> अमुक-देवतार्थम् अमुक-हविर् 
+
+इत्य् एवं-रूपः कश्चिद् बुद्धि-विशेषः ।
+</details>
+
+
+<details><summary>English</summary>
+
+What is called yāga is a special form of thought indicating that  
+a particular offering (havis) is made to a particular deity. 
+</details>
+
+<details><summary>Español</summary>
+
+Lo que **se llama** yāga **es** una forma especial de **pensamiento** que indica que  
+Una **oferta** particular (Havis) **se hace** a una deidad particular.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यागमावदु इऩ्ऩ देवतैक्किऩ्ऩ हविस्सॆऩ्ऱिङ्ङऩे यॊरुबुद्धिविशेषम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् 
+
+> ऎऩ्ऩ् आत्माव् आगिऱ स्वादुतमम् आऩ हविस्सु  
+श्रीमाऩ् आऩ नारायणऩ् पॊरुट्ट्+++(=वस्तु)+++ 
+
+ऎऩ्ऱ् इङ्ङऩेय् इरुप्पद् ऒरु बुद्धि-विशेषम्  
+इव्व् इडत्तिल् आत्म-यागम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं 
+
+> मद्-आत्म-रूपं स्वादुतमं हविः  
+श्रीमन्-नारायणार्थम् 
+
+इत्य् एवं-भूतः कश्चिद् बुद्धि-विशेषो ऽत्राऽऽत्म-यागः । 
+</details>
+
+<details><summary>English</summary>
+
+Ātmayāga or the sacrifice (or surrender of self) is (likewise)  
+a special form of thought indicating this : 
+
+> My soul, which is the most delicious of offerings (havis ), is for Śrīman Nārāyaṇa. 
+</details>
+
+<details><summary>Español</summary>
+
+Ātmayāga o el **sacrificio** (o la **rendición** de uno mismo) **es** (igualmente)  
+Una forma especial de **pensamiento** que **indica** esto:
+
+> Mi alma, que **es** la más deliciosa de las **ofrendas** (Havis), **es** para Śrīman Nārāyaṇa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि यॆऩ्ऩात्मावागिऱ स्वादुतममाऩ हविस्सु श्रीमाऩाऩ नारायणऩ् पॊरुट्टॆऩ्ऱिङ्ङऩेयिरुप्पदॊरु बुद्धिविशेषमिव्विडत्तिलात्मयागम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इव्व् आत्म-निक्षेपत्तिल्  
+सर्व-फलार्थिगळुक्कुम् साधारणम् आऩ कर्तव्य-स्वरूपम्  
+रक्षा-भर-न्यासम् 
+
+ऎऩ्ऩुम् इडम् मुऩ्बे सॊऩ्ऩोम्।  
+</details>
+
+<details><summary>English</summary>
+
+We have already stated that in this surrender of self,  
+the nature of the action to be performed  
+which is common to all who desire benefits of whatever kind  
+is the surrender of the responsibility for protection.
+</details>
+
+<details><summary>Español</summary>
+
+Ya **hemos declarado** que en esta **rendición** de sí mismo,  
+la naturaleza de la **acción** a **realizar**  
+que **es** común a todos los que desean beneficios de cualquier tipo  
+**es** la rendición de la **responsabilidad** de la **protección**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वात्मनिक्षेपत्तिल् सर्वफलार्थिकळुक्कुम् साधारणमाऩ कर्तव्यस्वरूपम् रक्षाभरन्यासमॆऩ्ऩुमिडम् मुऩ्बे सॊऩ्ऩोम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हविस्-समर्पणाद् अत्र  
+प्रयोग-**विधि**-शक्तितः ।  
+आत्म-**रक्षा**--भर-**न्यासो**  
+ऽकिञ्चनस्य+ **अतिरिच्यते** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+हविस्-समर्पणाद् अत्र  
+प्रयोग-**विधि**-शक्तितः ।  
+आत्म-**रक्षा**--भर-**न्यासो**  
+ऽकिञ्चनस्य+ **अतिरिच्यते** ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+Here in the surrender of self for the sake of mokṣa,  
+since there is to be made an offering (havis),  
+owing to the injunction regarding the manner in which the offering should be made,  
+there is an additional feature for the man who is destitute of other upāyas,  
+namely, the surrender of the responsibility for the protection of the self. 
+</details>
+
+<details><summary>Español</summary>
+
+Aquí en la **rendición** de sí mismo por el bien de Mokṣa,  
+Dado que **se hace** una **ofrenda** (havis),  
+Debido a la **orden** con respecto a la forma en que se **debe hacer** la **ofrenda**,  
+**Hay** una característica adicional para el hombre que **es** indigente de otros upāyas,  
+a saber, la **rendición** de la **responsabilidad** de la **protección** del yo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+हविस्समर्पणादत्र प्रयोगविधिशक्तितः । आत्मरक्षाभरन्यासोऽकिञ्चनस्यातिरिच्यते ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतश् श्री-राम-मिश्राद्यैर्  
+भर-न्यास-विवक्षया ।  
+स्व-प्रवृत्ति-**निवृत्त्य्**-अंशः  
+प्रपत्तिर् इति **लक्षितः** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतश् श्री-राम-मिश्राद्यैर्  
+भर-न्यास-विवक्षया ।  
+स्व-प्रवृत्ति-**निवृत्त्य्**-अंशः  
+प्रपत्तिर् इति **लक्षितः** ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore by such authors as Rāma Misra (Uyyakkondar) and others,  
+when they want to speak of the surrender of responsibility (bharanyāsa),  
+a single aspect of it, namely, the abstention from his own activity on the part of the prapanna  
+has been used to indicate prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, por autores como Rāma Misra (Uyyakkondar) y otros,  
+Cuando **quieren hablar** de la **rendición** de la responsabilidad (Bharanyāsa),  
+Un solo aspecto de la misma, **a saber**, la **abstención** de su propia **actividad** por parte de la Prapanna  
+**se ha utilizado** para indicar Prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतश्श्रीराममिश्राद्यैर्भरन्यासविवक्षया ।  
+स्वप्रवृत्तिनिवृत्त्यंशः प्रपत्तिरिति लक्षितः ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-*हविस्समर्पणादत्र प्रयोगविधिशक्तितः । आत्मरक्षाभरन्यासोऽकिञ्चनस्यातिरिच्यते ॥  
-अतश्श्रीराममिश्राद्यैर्भरन्यासविवक्षया । स्वप्रवृत्तिनिवृत्त्यंशः प्रपत्तिरिति लक्षितः ॥  
-अकृते तु भरन्यासे रक्षापेक्षणमात्रतः । पश्चात् स्वयत्नविरतिर्न प्रसिद्ध्यति लोकवत् ॥  
-आकिञ्चन्यभरन्यासोपायत्वप्रार्थनात्मनाम् । त्रयाणां सौहृदं सूक्ष्मं यः पश्यति स पश्यति ॥
+**अकृते** तु भरन्यासे  
+**रक्षापेक्षण**-मात्रतः ।  
+पश्चात् स्व-यत्न-**विरतिर्**  
+**न प्रसिद्ध्यति** लोकवत् ॥+++(4)+++  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+**अकृते** तु भरन्यासे  
+**रक्षापेक्षण**-मात्रतः ।  
+पश्चात् स्व-यत्न-**विरतिर्**  
+**न प्रसिद्ध्यति** लोकवत् ॥+++(4)+++  
+</details>
+
+
+<details><summary>English</summary>
+
+As in the world of ordinary life,  
+when the surrender of responsibility has not been made,  
+abstention from one's own activity will not result thereafter  
+merely from the request for protection. 
+</details>
+
+<details><summary>Español</summary>
+
+Como en el mundo de la **vida** ordinaria,  
+Cuando **no se ha hecho** la **rendición** de la responsabilidad,  
+La **abstención** de la propia **actividad no resultará** a partir de entonces  
+simplemente de la **solicitud** de **protección**.
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-*हविस्समर्पणादत्र प्रयोगविधिशक्तितः । आत्मरक्षाभरन्यासोऽकिञ्चनस्यातिरिच्यते ॥  
-अतश्श्रीराममिश्राद्यैर्भरन्यासविवक्षया । स्वप्रवृत्तिनिवृत्त्यंशः प्रपत्तिरिति लक्षितः ॥  
 अकृते तु भरन्यासे रक्षापेक्षणमात्रतः । पश्चात् स्वयत्नविरतिर्न प्रसिद्ध्यति लोकवत् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकिञ्चन्य--भर-न्यासो-  
++पायत्व-प्रार्थनात्मनाम् ।  
+त्रयाणां सौहृदं सूक्ष्मं +++(स्वप्रयासाद् विरतिर् इति)+++  
+यः **पश्यति** स **पश्यति** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आकिञ्चन्य--भर-न्यासो-  
++पायत्व-प्रार्थनात्मनाम् ।  
+त्रयाणां सौहृदं सूक्ष्मं +++(स्वप्रयासाद् विरतिर् इति)+++  
+यः **पश्यति** स **पश्यति** ॥
+</details>
+
+<details><summary>English</summary>
+
+He who sees the subtle feature that is common to these three, namely, 
+
+- being destitute of all upāyas for protection, 
+- surrender of responsibility 
+- and the prayer for being the upāya 
+
+\--- he alone sees. 
+
+(That subtle feature which is common to all the three of them  
+is refraining from all activity of one's own for one's protection.  
+Since there is this common feature in all the three,  
+the other two are sometimes used to denote bharanyāsa).
+</details>
+
+<details><summary>Español</summary>
+
+El que **ve** la característica sutil que **es** común a estos tres, a saber,
+
+- **Ser indigente** de todos los upāyas para la **protección**,
+- **rendición** de la responsabilidad
+- y la **oración** por ser el upāya
+
+\ --- Él solo **ve**.
+
+(Esa característica sutil que **es** común a los tres  
+**se abstiene** de toda **actividad** de uno para la **protección** de uno.  
+Dado que **existe** esta característica común en los tres,  
+Los otros dos a veces **se usan** para **denotar** bharanyāsa).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 आकिञ्चन्यभरन्यासोपायत्वप्रार्थनात्मनाम् । त्रयाणां सौहृदं सूक्ष्मं यः पश्यति स पश्यति ॥
 </details>
 
-Here in the surrender of self for the sake of mokṣa, since there is to be made an offering (havis), owing to the injunction regarding the manner in which the offering should be made, there is an additional feature for the man who is destitute of other upāyas, namely, the surrender of the responsibility for the protection of the self. Therefore by sach authors as Rāma Misra (Uyyakkondar) and others, when they want to speak of the surrender of responsibility (bharanyāsa), a single aspect of it, namely, the abstention from his own activity on the part of the prapanna has been used to indicate prapatti. As in the world of ordinary life, when the surrender of responsibility has not been made, abstention from one's own activity will not result thereafter merely from the request for protection. He who sees the subtle feature that is common to these three, namely, being destitute of all upāyas for protection, surrender of responsibility and the prayer for being the upāya --- he alone sees. (That subtle feature which is common to all the three of them is refraining from all activity of one's own for one's protection. Since there is this common feature in all the three, the other two are sometimes used to denote bharanyāsa).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Thus the surrender of one's responsibility for the protection of one's self is the main injunction that is made in all śāstras treating of prapatti and it has five accessories. (Such eminent authorities) as Śrī Viṣṇucbitta, Vadihamsambuvaha, and Varadācārya have succinctly stated (this truth).
+> इप्-पडि अङ्ग-पञ्चक-संपन्नम् आऩ आत्म-रक्षा-भर-न्यासमे प्रपत्ति-शास्त्रम् ऎल्लात्तिलुम् प्रधानम् आऩ विधेयम्  
 
-THE KNOWLEDGE THAT ONE IS ŚEṣA TO THE
+ऎऩ्ऱु श्रीविष्णु-चित्त--वादि-हंसाम्बु-वाह--वरदाचार्यादिगळ् संग्रहित्तार्गळ्।  
+</details>
 
-LORD IS NOT IN ITSELF PRAPATTI:
+<details><summary>English</summary>
+
+Thus the surrender of one's responsibility for the protection of one's self is the main injunction  
+that is made in all śāstras treating of prapatti  
+and it has five accessories.  
+(Such eminent authorities as) Śrī Viṣṇucitta, Vadihamsambuvaha, and Varadācārya have succinctly stated (this truth).
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, la **rendición** de la responsabilidad de uno por la **protección** de uno mismo es el principal mandato  
+que **se hace** en todos los Śāstras **tratando** a Prapatti  
+Y **tiene** cinco accesorios.  
+(Tales autoridades eminentes como) Śrī Viṣṇucitta, Vadihamsambuvaha y Varadācārya **han declarado** sucintamente (esta verdad).
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+इप्पडि अङ्गपञ्चकसंपन्नमाऩ आत्मरक्षाभरन्यासमे प्रपत्ति शास्त्रमॆल्लात्तिलुम् प्रधानमाऩ विधेयमॆऩ्ऱु श्रीविष्णुचित्तवादिहंसाम्बुवाहवरदाचार्यादिगळ् संग्रहित्तार्गळ्।  
+</details>
+
+
+
+
+THE KNOWLEDGE THAT ONE IS ŚEṣA TO THE LORD IS NOT IN ITSELF PRAPATTI:
 
 3. There are some who say: "When a man has understood the truth regarding the tattvas from the śāstras, has he not realised his relationship as śeṣa to Bhagavān ? Further, in the śloka, "If you desire to attain the highest state and to adopt the upāya for it, remember that Hari is (your) master and that you are His servant and that this relationship exists for ever by the very nature (of things)” (in this śloka) -- is not the meaning as follows:- "If you desire the highest goal of life and the means of attaining it, you should understand clearly that you are the servant and that Iśvara is the master and that this relationship exists by nature"? They ask, "When this is so, is there an action (besides the thought of the relationship) enjoined called ātmasamarpanam?". This question does not deserve any consideration, just like the dictum (of the Advaitins) that, by the mere knowledge of the text of the *śruti [Texts like "That Thou art" and "I am Brahma"] . mokṣa can be attained.
 
@@ -2344,9 +2855,7 @@ The contention that the particular kind of knowledge called prapatti results mer
 
 If it is argued that “śaranam vraja”[ "seek protection" ] merely means “Know this truth (that the Lord is the Saviour)", the answer is that it is opposed to the natural and obvious meaning of the words. It would also be against the plain and explicit rules or vidhis for the performance of prapatti as in the sentence: "Perform this prapatti accompanied by its five accessories or aṅgas." If it is held that what is intended in the Carama śloka is merely this, that Iśvara is the upāya for mokṣa and that no activity is enjoined in this śloka for the man who wants mokṣa, it would mean that it is merely the teaching of a truth that is needed for bhakti yoga, which is the subject treated in that context. (The Carama śloka would then cease to have anything to do with prapatti),
 
-REFRAINING FROM ONE'S OWN ACTIVITY IS
-
-NOT IN ITSELF PRAPATTI:
+REFRAINING FROM ONE'S OWN ACTIVITY IS NOT IN ITSELF PRAPATTI:
 
 There are some who hold that prapatti is merely refraining from one's own activity for protecting oneself and that what is enjoined for its accomplishment is only the abandonment of all dharmas or upāyas. The answer to this view is as follows:- Even though it is abstention, this abandonment of all dharmas is itself an activity or dharma of the person for his own protection (and this would be inconsistent with their own words). Further this view is in conflict also with the passage (quoted above) enjoining the performance of prapatti with its five aṅgas.
 
@@ -2360,9 +2869,7 @@ If it is argued that what are to be abandoned are all dharmas other than the one
 
 . Therefore those pramāṇas or authoritative passages which state that Siddhopāya (the Lord) confers the ultimate goal of perfect service (kaiṅkarya ) along with preliminary benefits after removing all undesirable hindrances and that sādhyopaya (bhakti and prapatti) leads to these benefits by propitiating Siddhopāya - these pramāṇas are both apposite and agree with one another very well.
 
-IS THERE ANY NEED FOR THE ŚĀSTRA
-
-ENJOINING PRAPATTI ?
+IS THERE ANY NEED FOR THE ŚĀSTRA ENJOINING PRAPATTI ?
 
 Notwithstanding all this, some may ask: "Why should the śāstra enjoin this upāya called prapatti? (The śāstra has to help only when man cannot find out things for himself with his common sense or reason). In ordinary life, when a man is about to sink (into ruin ) because he cannot protect himself, he seeks the protection of some one who happens to be by his side and who has the ability to protect him. In the same way, if a man has understood himself and Iśvara from the śāstra which treats of the existent upāya, will he not seek Iśvara for protection, of his own accord, (without the śāstra enjoining it)? So there is no propriety in the śāstra prescribing prapatti in the place of bhakti.
 
@@ -2422,17 +2929,13 @@ DOES PRAPATTI REQUIRE AṅGAS OR ACCESSORIES ?
 
 So far we have removed the misconceptions that may arise about the competence for the upāya and its essential nature (svarūpa). Henceforward we will proceed to remove those misconceptions that might be entertained in regard to accessories of that upāya. (1) Is it necessary that this upāya should be accompanied by such things as the determination to do what is agreeable (ānukūlya saṅkalpa )? Will the Saviour who said, “If a * man seeks protection with the desire for the immediate attainment of an object (arta ) or with endurance of delay in the attainment (dripta), he should be protected by those who know the śāstras, even though he might be an enemy," "I will, in no circumstances, abandon one who has come to me in the guise of a friend, even though there are faults in him. The great will appreciate this," and "Bring him here, O Sugrīva, whether he be Vibhishana or even Ravana himself. I promise protection to him" - ( will the Saviour who said these words) and who was gracious even to his enemies care for the faults of those who have sought refuge under him? The ancients describe Him as the Protector of the whole world without any consideration of merit. Therefore these accessories (such as anukulya saṅkalpa) are not requisites but attributes that are most likely to be met with in those who have performed prapatti." Such is the contention of some critics. In reply to this misconception, it may be said that the passages on which it is based may really have, for their purport, the idea that though such attributes as anukulya do not continue after the performance of prapatti, some expiation will occur and there will be no diminution in the fruit of prapatti, (They do not mean that qualifications like ānukūlyasaṅkalpa are not required at the time of the performance of prapatti). If this explanation is not accepted, many authoritative passages which distinguish between the main rite (aṅgī) and its accessories (aṅga) such as "Śaraṇāgati is of six kinds," "Nyāsa has five aṅgas" and "Let him perform that prapatti which has five accessories " - many such authoritative passages would offer opposition. We have already stated that (the absence of these accessories) would be against what is the subject of experience in the world in regard to the conventions regarding the surrender of objects that have to be protected and that these accessories are required only once and so on. Even the divine missile, Brahmāstra, requires its own accessories (aṅgas). Hence the śloka that there is no other requisite for prapatti anywhere and at any time" only states that it does not require any other dharma or rite. (It does not mean that even) the aṅgas of prapatti are not required). Otherwise even intense faith (mahavisvasa) which these critics commend as an aṅga might be considered as an attribute which may be found (in a prapanna) and not as an aṅga.
 
-WHY SHOULD INTENSE FAITH BE CALLED AN
-
-AṅGA INSTEAD OF MERE FAITH ?
+WHY SHOULD INTENSE FAITH BE CALLED AN AṅGA INSTEAD OF MERE FAITH ?
 
 In this connection, some others may contend as follows:--- “When the believer has faith in what is stated in the śāstras, what is the meaning of saying that there is something else called 'intense faith' or mahavisvasa? Therefore there is no point in bolding that this mahāvisvõsa is anything other than the faith in the śāstra which is general and that it is a special aṅga or accessory of prapatti. This contention (or objection) is refuted by the well-known fact that there are degrees of faith as stated in the śloka:"One should never place confidence in a man whom one does not trust. Even in a man whom one trusts, too much confidence should not be reposed." It is also refuted by the text which prescribes extra ordinary faith as an aṅga or accessory (in regard to prapatti ).
 
 Bhagavān Nārada  has declared in Śrīmad aṣṭākṣara Brahma Vidyā that there are, in different men, varying degrees of faith in the Mūlamantra. (He says):- "In proportion to the degree of faith that a man has in aṣṭākṣara, will he attain the fruit thereof. It is impossible to measure its greatness." The Supreme Ruler of all will ultimately protect even those prapannas who are far from perfect and whose faith is not strong enough. If authority is asked for this statement, here it is :--"By the man who has once uttered the two syllables 'Harih' - by him steps have been taken for entering mokṣa". In accordance with this, Aḷavandār has conveyed the same idea in the śloka :-- "Whoever' folds his hands in worship to Thee in any manner and at any time - his sins vanish at once. It generates all good things. It never fails to bear fruit," and so also, “A single" drop of the ocean of nectar called bhakti towards the two lotuses of Thy feet will extinguish instantly the spreading wildfire called saṁsāra and confer superior happiness". By uttering the three syllables "Govinda", Kshatrabandu, who stood surrounded by his past karmas swarming (like ants ), attained the highest state." As implied in these passages, Iśvara will promote the perfection of the upāya And protect the man. Has not this idea been conveyed by Śrī Śāṇḍilya Bhagavān to Devala in the following śloka :- "Many of your previous births ended in vain. Consider how this life, too, may end in vain and perform prapatti? Froin the śloka :-"The divine seers say that Thou art to be sought as the Saviour and that 'Thou protectest those who have sought Thy protection." -- (from this śloka) it should be understood that intense faith can be found (only) in the divine seers and not in ordinary men) and that, by the authority of what is said by the divine seers, those whose faith is not strong should strengthen it. Therefore since there are varying degrees of faith, what is stated in the śāstra about intense faith being an aṅga of prapatti cannot be objected to.
 
-CAUSES OF THE DECAY OF FAITH AND THE
-
-REMEDY THEREFOR
+CAUSES OF THE DECAY OF FAITH AND THE REMEDY THEREFOR
 
 We will now show how some people suffer from diminution of faith and state how this tendency can be corrected. Some may ask: - "How could bhakti and prapatti lead to such opposite results as worldly prosperity and mokṣa  merely because of the difference in the mental attitude (of those who adopt them)? Have we ever seen the same seed yielding two different fruits owing to the diversity of intentions in the (mind of the) sower? The answer to this question is as follows:- "The śāstra which is the (sole) authority in regard to matters pertaining to it in the same way as sense perception (pratyakṣa) is in regard to what pertains to it -- the śāstra can certainly declare it to be so and reason has no right to attempt to disprove it. In worldly life, if we give an object to a charitable and generous king as an article for sale, we shall obtain a liberal return; but if it is given (without any thought of such return) merely as an offering or tribute, we see it produce whatever is desired (by the person).
 
@@ -2452,9 +2955,7 @@ Yet others might contend as follows:-"Such sages as Vyāsa who are alike the exp
 
 meditation so that the desire for the end in view may gain in strength without suffering any diminution. He does so in the passage which begins as follows: "In order to that one may continue to live the life of the spirit, one should meditate in this manner,"
 
-THE RITES NITYA AND NAIMITTIKA ARE,
-
-ON NO ACCOUNT TO BE GIVEN UP BY THE PRAPANNA:
+THE RITES NITYA AND NAIMITTIKA ARE, ON NO ACCOUNT TO BE GIVEN UP BY THE PRAPANNA:
 
 The author of Śrī Bhāṣya has also described in his Nitya the special form of worship (poojā) which is referred to in "I spent my time in studying the books which mention the attributes of the Lord, in listening to others reading them and in worshipping Him," (The description) begins (with the sentence):- "I will now explain the manner in which the man with exclusive devotion to Bhagavān should perform the adoration (ārādhana) of the Lord, Having become a worshipper with supreme and exclusive devotion to Him and with a desire only to serve Him", he goes on to say, "Remain meditating (on the Lord) with a vision as clear as visual perception and with extreme love ( to Him)".
 
@@ -2516,14 +3017,8 @@ The Śruti states at length that the Supreme Being chooses those who should win 
 स्सिद्धोपायवशीक्रियामिति हि नस्साद्ध्यां समध्यापयन् ॥ ५४ ॥
 </details>
 
-Those (great men) who were well-versed in the dialectical methods of rationalists which resemble the art of conjuring, who stand first like the little finger while counting men renowned in argument and whose thoughts have been rendered clear by the soap-nut of the Upaniṣads and the tradition that has followed therefrom-- (those great men) have taught us, in the manner described in this chapter, that Sādhyopāya (bhakti and prapatti) are the means of securing the favour of Siddhopāya (namely
-
-BHAGAVĀN ).
+Those (great men) who were well-versed in the dialectical methods of rationalists which resemble the art of conjuring, who stand first like the little finger while counting men renowned in argument and whose thoughts have been rendered clear by the soap-nut of the Upaniṣads and the tradition that has followed therefrom-- (those great men) have taught us, in the manner described in this chapter, that Sādhyopāya (bhakti and prapatti) are the means of securing the favour of Siddhopāya (namely BHAGAVĀN ).
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
 श्रीमद्रहस्यत्रयसारे साध्योपायशोधनाधिकारः चतुर्विंशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
-
-+१ अर्थानुशासन-विभागः  
-१ अर्थानुशासन-विभागः
-
