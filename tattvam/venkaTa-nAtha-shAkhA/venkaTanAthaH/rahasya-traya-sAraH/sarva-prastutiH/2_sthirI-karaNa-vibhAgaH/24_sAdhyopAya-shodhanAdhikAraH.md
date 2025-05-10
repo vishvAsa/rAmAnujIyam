@@ -1819,7 +1819,7 @@ Este **es** solo uno de los AṅGas (y no el aṅgī).
 </details>
 
 
-### आत्म-निक्षेपः
+### भर-न्यासो ऽङ्गी
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिऱिय गद्यत्तिलुम्  
@@ -2000,10 +2000,11 @@ Después de **inclinarte** ante él ")
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अतः 
+
 > ‘‘अनेनैव तु मन्त्रेण  
 स्वात्मानं मयि निक्षिपेत्’’  
 (सात्यकि-तन्त्रम्), 
-
 </details>
 
 
@@ -2054,6 +2055,7 @@ Por lo tanto, **debe concluir** que en las palabras:
 
 > ‘‘आत्मात्मीय-भर-न्यास’’(लक्ष्मीतन्त्रम् १७-७९) 
 
+इत्यादिषु +अङ्गि-विधानम् । 
 </details>
 
 <details><summary>English</summary>
@@ -2098,6 +2100,22 @@ el aṅgī que **se rinde** de sí mismo,
 इत्य्-आदिगळिऱ् सॊऩ्ऩ स्नानादि-भेदङ्गळ् पोले  
 तऩित् तऩिये प्रपत्ति-विशेषङ्गळ् आगप् प्रसङ्गिक्कुम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा 
+
+> ‘‘षड्विधा शरणागतिः’’(अहिर्बुध्न्य-संहिता ३७-१८) 
+
+इत्य्-अस्मिन् वाक्ये  
+आपात-प्रतीतिम् आश्रित्य 
+
+> ‘‘स्नानं सप्त-विधं स्मृतम्’’
+
+इत्य्-आद्य्-उक्त-स्नानादि-भेदवत्  
+पृथक् पृथक् प्रपत्ति-विशेषाः प्रसज्येरन् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2149,7 +2167,7 @@ que **hay** siete tipos diferentes de ablución (snāna) de la **oración**:-
 स्वाङ्गैः पञ्चभिर् **आवृताम्’’**  
 (लक्ष्मीतन्त्रम् २८-११)  
 
-
+इत्य्-आदि-वचन-बलात् नियमने ऽभिमते, 
 </details>
 
 <details><summary>English</summary>
@@ -2190,6 +2208,17 @@ Si **se argumenta** que los AṅGA **no se consideran** Aṅgīs debido a la **d
 
 ऎऩ्गैय् उचितम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तथैव प्रार्थना-विश्वासादीनां प्रपत्तित्व-प्रतिपादकानां वचनानां नियमन-पूर्वकं 
+
+> ‘‘न्यासः पञ्चाङ्ग-संयुत’’ 
+
+इत्य्-आदि-रीत्या,  
+निक्षेप एक एवाङ्गी, इतराण्य् अङ्गानीति मन्तुं युक्तम् ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2250,6 +2279,16 @@ y que el resto **son** (solo) aṅgas.
 निक्षेपम् अङ्गिय् ऎऩ्ऱे प्रसिद्धम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भूय-सांन्यायस्य दर्शनेऽपि  
+सात्यकि-तन्त्र--लक्ष्मी-तन्त्राहिर्बुध्न्य-संहितादिषु  
+प्रपत्त्य्-अध्यायेषु निक्षेपः अङ्गीत्य् एव प्रसिद्धः । 
+
+[[२०६]]
+</details>
+
+
 <details><summary>English</summary>
 
 Even if we judge by the principle that,  
@@ -2294,6 +2333,7 @@ que Nikṣepa o **su corredor** propio **es** el aṅgī.
 शरणागतिर् इत्य् उक्ता’’  
 (अहिर्बुध्न्य-संहिता ३७-३१) 
 
+इति वचनम् अपि 
 </details>
 
 
@@ -2325,8 +2365,15 @@ que **se llama** Śaraṇāgati ",
 
 तत्-प्रकरणत्तिल् प्रधानम् आगच् चॊऩ्ऩ भर-न्यास-पर्यन्तम्  
 ऎऩ्ऩुम् इडम्  
-अवधारण--सह-कृत-"उपाय"-शब्दत्ताले व्यञ्जितम्। 
+अवधारण--सह-कृत-+"उपाय"-शब्दत्ताले व्यञ्जितम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्-प्रकरणे प्राधान्येन प्रतिपादित-भर-न्यास-पर्यन्तम्  
+इत्य् एतद् अवधारण-सह-कृत-+"उपाय"-शब्देन व्यञ्जितम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2349,13 +2396,21 @@ Cuál **es** el tema principal en ese contexto.
 तत्प्रकरणत्तिल् प्रधानमागच्चॊऩ्ऩ भरन्यासपर्यन्तमॆऩ्ऩुमिडम् अवधारणसहकृतोपायशब्दत्ताले व्यञ्जितम्। 
 </details>
 
-### विवक्षा-भेदेन प्राधान्य-भेदः
+### इतर-धात्व्-अर्थानां भरन्यासे ऽवसानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ओर् ऒरु विवक्षैगळाले  
 अङ्गङ्गळै प्रधानम् आगच् चॊल्लुगै  
 लोकत्तिलुम् उण्डु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्-तद्-विवक्षा-विशेषैर्  
+अङ्गानां प्राधान्येन प्रतिपादनं  
+लोकेऽपि वर्तते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2389,6 +2444,15 @@ Para **enfatizar** un aspecto u otro.
 वैदिक-मर्यादैक्कुम् अनुगुणम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+आलम्भ-शब्दस्य याग-पर्यन्तत्ववत्  
+“शरणं व्रज" इत्य्-आदिषु धातुभिः  
+न्यास-निक्षेप-त्यागादि-शब्दोक्तात्म-याग-प्रतिपादनं  
+वैदिक-मर्यादाया अप्य् अनुगुणम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 The word ālambha, which means 'killing'  
@@ -2420,8 +2484,18 @@ Esto **está** en consonancia con el uso védico.
 
 > इऩ्ऩ देवतैक्क् इऩ्ऩ हविस्स् 
 
-ऎऩ्ऱ् इङ्ङऩेय् ऒरु बुद्धि-विशेषम्। 
+ऎऩ्ऱ् इङ्ङऩेय् ऒरु बुद्धि-विशेषम्। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+यागो नाम -  
+
+> अमुक-देवतार्थम् अमुक-हविर् 
+
+इत्य् एवं-रूपः कश्चिद् बुद्धि-विशेषः ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2441,9 +2515,67 @@ Una **oferta** particular (Havis) **se hace** a una deidad particular.
 यागमावदु इऩ्ऩ देवतैक्किऩ्ऩ हविस्सॆऩ्ऱिङ्ङऩे यॊरुबुद्धिविशेषम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् 
+
+> ऎऩ्ऩ् आत्माव् आगिऱ स्वादुतमम् आऩ हविस्सु  
+श्रीमाऩ् आऩ नारायणऩ् पॊरुट्ट्+++(=वस्तु)+++ 
+
+ऎऩ्ऱ् इङ्ङऩेय् इरुप्पद् ऒरु बुद्धि-विशेषम्  
+इव्व् इडत्तिल् आत्म-यागम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं 
+
+> मद्-आत्म-रूपं स्वादुतमं हविः  
+श्रीमन्-नारायणार्थम् 
+
+इत्य् एवं-भूतः कश्चिद् बुद्धि-विशेषो ऽत्राऽऽत्म-यागः । 
+</details>
+
+<details><summary>English</summary>
+
+Ātmayāga or the sacrifice (or surrender of self) is (likewise)  
+a special form of thought indicating this : 
+
+> My soul, which is the most delicious of offerings (havis ), is for Śrīman Nārāyaṇa. 
+</details>
+
+<details><summary>Español</summary>
+
+Ātmayāga o el **sacrificio** (o la **rendición** de uno mismo) **es** (igualmente)  
+Una forma especial de **pensamiento** que **indica** esto:
+
+> Mi alma, que **es** la más deliciosa de las **ofrendas** (Havis), **es** para Śrīman Nārāyaṇa.
+</details>
 
 
-Ātmayāga or the sacrifice (or surrender of self) is (likewise) a special form of thought indicating this : « My soul, which is the most delicious of offerings (havis ), is for Śrīman Nārāyaṇa. We have already stated (on page ) that in this surrender of self, the nature of the action to be performed which is common to all .who desire benefits of whatever kind is the surrender of the responsibility for protection.
+<details><summary>मूलम्</summary>
+
+इप्पडि यॆऩ्ऩात्मावागिऱ स्वादुतममाऩ हविस्सु श्रीमाऩाऩ नारायणऩ् पॊरुट्टॆऩ्ऱिङ्ङऩेयिरुप्पदॊरु बुद्धिविशेषमिव्विडत्तिलात्मयागम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इव्व् आत्म-निक्षेपत्तिल्  
+सर्व-फलार्थिगळुक्कुम् साधारणम् आऩ कर्तव्य-स्वरूपम्  
+रक्षा-भर-न्यासम् 
+
+ऎऩ्ऩुम् इडम् मुऩ्बे सॊऩ्ऩोम्।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वात्मनिक्षेपत्तिल् सर्वफलार्थिकळुक्कुम् साधारणमाऩ कर्तव्यस्वरूपम् रक्षाभरन्यासमॆऩ्ऩुमिडम् मुऩ्बे सॊऩ्ऩोम्।  
+</details>
+
+
+
+We have already stated (on page) that in this surrender of self, the nature of the action to be performed which is common to all .who desire benefits of whatever kind is the surrender of the responsibility for protection.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
