@@ -2568,34 +2568,234 @@ Una forma especial de **pensamiento** que **indica** esto:
 ऎऩ्ऩुम् इडम् मुऩ्बे सॊऩ्ऩोम्।  
 </details>
 
+<details><summary>English</summary>
+
+We have already stated that in this surrender of self,  
+the nature of the action to be performed  
+which is common to all who desire benefits of whatever kind  
+is the surrender of the responsibility for protection.
+</details>
+
+<details><summary>Español</summary>
+
+Ya **hemos declarado** que en esta **rendición** de sí mismo,  
+la naturaleza de la **acción** a **realizar**  
+que **es** común a todos los que desean beneficios de cualquier tipo  
+**es** la rendición de la **responsabilidad** de la **protección**.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इव्वात्मनिक्षेपत्तिल् सर्वफलार्थिकळुक्कुम् साधारणमाऩ कर्तव्यस्वरूपम् रक्षाभरन्यासमॆऩ्ऩुमिडम् मुऩ्बे सॊऩ्ऩोम्।  
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-We have already stated (on page) that in this surrender of self, the nature of the action to be performed which is common to all .who desire benefits of whatever kind is the surrender of the responsibility for protection.
+हविस्-समर्पणाद् अत्र  
+प्रयोग-**विधि**-शक्तितः ।  
+आत्म-**रक्षा**--भर-**न्यासो**  
+ऽकिञ्चनस्य+ **अतिरिच्यते** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+हविस्-समर्पणाद् अत्र  
+प्रयोग-**विधि**-शक्तितः ।  
+आत्म-**रक्षा**--भर-**न्यासो**  
+ऽकिञ्चनस्य+ **अतिरिच्यते** ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+Here in the surrender of self for the sake of mokṣa,  
+since there is to be made an offering (havis),  
+owing to the injunction regarding the manner in which the offering should be made,  
+there is an additional feature for the man who is destitute of other upāyas,  
+namely, the surrender of the responsibility for the protection of the self. 
+</details>
+
+<details><summary>Español</summary>
+
+Aquí en la **rendición** de sí mismo por el bien de Mokṣa,  
+Dado que **se hace** una **ofrenda** (havis),  
+Debido a la **orden** con respecto a la forma en que se **debe hacer** la **ofrenda**,  
+**Hay** una característica adicional para el hombre que **es** indigente de otros upāyas,  
+a saber, la **rendición** de la **responsabilidad** de la **protección** del yo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+हविस्समर्पणादत्र प्रयोगविधिशक्तितः । आत्मरक्षाभरन्यासोऽकिञ्चनस्यातिरिच्यते ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतश् श्री-राम-मिश्राद्यैर्  
+भर-न्यास-विवक्षया ।  
+स्व-प्रवृत्ति-**निवृत्त्य्**-अंशः  
+प्रपत्तिर् इति **लक्षितः** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतश् श्री-राम-मिश्राद्यैर्  
+भर-न्यास-विवक्षया ।  
+स्व-प्रवृत्ति-**निवृत्त्य्**-अंशः  
+प्रपत्तिर् इति **लक्षितः** ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore by such authors as Rāma Misra (Uyyakkondar) and others,  
+when they want to speak of the surrender of responsibility (bharanyāsa),  
+a single aspect of it, namely, the abstention from his own activity on the part of the prapanna  
+has been used to indicate prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, por autores como Rāma Misra (Uyyakkondar) y otros,  
+Cuando **quieren hablar** de la **rendición** de la responsabilidad (Bharanyāsa),  
+Un solo aspecto de la misma, **a saber**, la **abstención** de su propia **actividad** por parte de la Prapanna  
+**se ha utilizado** para indicar Prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतश्श्रीराममिश्राद्यैर्भरन्यासविवक्षया ।  
+स्वप्रवृत्तिनिवृत्त्यंशः प्रपत्तिरिति लक्षितः ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-*हविस्समर्पणादत्र प्रयोगविधिशक्तितः । आत्मरक्षाभरन्यासोऽकिञ्चनस्यातिरिच्यते ॥  
-अतश्श्रीराममिश्राद्यैर्भरन्यासविवक्षया । स्वप्रवृत्तिनिवृत्त्यंशः प्रपत्तिरिति लक्षितः ॥  
-अकृते तु भरन्यासे रक्षापेक्षणमात्रतः । पश्चात् स्वयत्नविरतिर्न प्रसिद्ध्यति लोकवत् ॥  
-आकिञ्चन्यभरन्यासोपायत्वप्रार्थनात्मनाम् । त्रयाणां सौहृदं सूक्ष्मं यः पश्यति स पश्यति ॥
+**अकृते** तु भरन्यासे  
+**रक्षापेक्षण**-मात्रतः ।  
+पश्चात् स्व-यत्न-**विरतिर्**  
+**न प्रसिद्ध्यति** लोकवत् ॥+++(4)+++  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+**अकृते** तु भरन्यासे  
+**रक्षापेक्षण**-मात्रतः ।  
+पश्चात् स्व-यत्न-**विरतिर्**  
+**न प्रसिद्ध्यति** लोकवत् ॥+++(4)+++  
+</details>
+
+
+<details><summary>English</summary>
+
+As in the world of ordinary life,  
+when the surrender of responsibility has not been made,  
+abstention from one's own activity will not result thereafter  
+merely from the request for protection. 
+</details>
+
+<details><summary>Español</summary>
+
+Como en el mundo de la **vida** ordinaria,  
+Cuando **no se ha hecho** la **rendición** de la responsabilidad,  
+La **abstención** de la propia **actividad no resultará** a partir de entonces  
+simplemente de la **solicitud** de **protección**.
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-*हविस्समर्पणादत्र प्रयोगविधिशक्तितः । आत्मरक्षाभरन्यासोऽकिञ्चनस्यातिरिच्यते ॥  
-अतश्श्रीराममिश्राद्यैर्भरन्यासविवक्षया । स्वप्रवृत्तिनिवृत्त्यंशः प्रपत्तिरिति लक्षितः ॥  
 अकृते तु भरन्यासे रक्षापेक्षणमात्रतः । पश्चात् स्वयत्नविरतिर्न प्रसिद्ध्यति लोकवत् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकिञ्चन्य--भर-न्यासो-  
++पायत्व-प्रार्थनात्मनाम् ।  
+त्रयाणां सौहृदं सूक्ष्मं +++(स्वप्रयासाद् विरतिर् इति)+++  
+यः **पश्यति** स **पश्यति** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आकिञ्चन्य--भर-न्यासो-  
++पायत्व-प्रार्थनात्मनाम् ।  
+त्रयाणां सौहृदं सूक्ष्मं +++(स्वप्रयासाद् विरतिर् इति)+++  
+यः **पश्यति** स **पश्यति** ॥
+</details>
+
+<details><summary>English</summary>
+
+He who sees the subtle feature that is common to these three, namely, 
+
+- being destitute of all upāyas for protection, 
+- surrender of responsibility 
+- and the prayer for being the upāya 
+
+\--- he alone sees. 
+
+(That subtle feature which is common to all the three of them  
+is refraining from all activity of one's own for one's protection.  
+Since there is this common feature in all the three,  
+the other two are sometimes used to denote bharanyāsa).
+</details>
+
+<details><summary>Español</summary>
+
+El que **ve** la característica sutil que **es** común a estos tres, a saber,
+
+- **Ser indigente** de todos los upāyas para la **protección**,
+- **rendición** de la responsabilidad
+- y la **oración** por ser el upāya
+
+\ --- Él solo **ve**.
+
+(Esa característica sutil que **es** común a los tres  
+**se abstiene** de toda **actividad** de uno para la **protección** de uno.  
+Dado que **existe** esta característica común en los tres,  
+Los otros dos a veces **se usan** para **denotar** bharanyāsa).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 आकिञ्चन्यभरन्यासोपायत्वप्रार्थनात्मनाम् । त्रयाणां सौहृदं सूक्ष्मं यः पश्यति स पश्यति ॥
 </details>
 
-Here in the surrender of self for the sake of mokṣa, since there is to be made an offering (havis), owing to the injunction regarding the manner in which the offering should be made, there is an additional feature for the man who is destitute of other upāyas, namely, the surrender of the responsibility for the protection of the self. Therefore by sach authors as Rāma Misra (Uyyakkondar) and others, when they want to speak of the surrender of responsibility (bharanyāsa), a single aspect of it, namely, the abstention from his own activity on the part of the prapanna has been used to indicate prapatti. As in the world of ordinary life, when the surrender of responsibility has not been made, abstention from one's own activity will not result thereafter merely from the request for protection. He who sees the subtle feature that is common to these three, namely, being destitute of all upāyas for protection, surrender of responsibility and the prayer for being the upāya --- he alone sees. (That subtle feature which is common to all the three of them is refraining from all activity of one's own for one's protection. Since there is this common feature in all the three, the other two are sometimes used to denote bharanyāsa).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Thus the surrender of one's responsibility for the protection of one's self is the main injunction that is made in all śāstras treating of prapatti and it has five accessories. (Such eminent authorities) as Śrī Viṣṇucbitta, Vadihamsambuvaha, and Varadācārya have succinctly stated (this truth).
+> इप्-पडि अङ्ग-पञ्चक-संपन्नम् आऩ आत्म-रक्षा-भर-न्यासमे प्रपत्ति-शास्त्रम् ऎल्लात्तिलुम् प्रधानम् आऩ विधेयम्  
+
+ऎऩ्ऱु श्रीविष्णु-चित्त--वादि-हंसाम्बु-वाह--वरदाचार्यादिगळ् संग्रहित्तार्गळ्।  
+</details>
+
+<details><summary>English</summary>
+
+Thus the surrender of one's responsibility for the protection of one's self is the main injunction  
+that is made in all śāstras treating of prapatti  
+and it has five accessories.  
+(Such eminent authorities as) Śrī Viṣṇucitta, Vadihamsambuvaha, and Varadācārya have succinctly stated (this truth).
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, la **rendición** de la responsabilidad de uno por la **protección** de uno mismo es el principal mandato  
+que **se hace** en todos los Śāstras **tratando** a Prapatti  
+Y **tiene** cinco accesorios.  
+(Tales autoridades eminentes como) Śrī Viṣṇucitta, Vadihamsambuvaha y Varadācārya **han declarado** sucintamente (esta verdad).
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+इप्पडि अङ्गपञ्चकसंपन्नमाऩ आत्मरक्षाभरन्यासमे प्रपत्ति शास्त्रमॆल्लात्तिलुम् प्रधानमाऩ विधेयमॆऩ्ऱु श्रीविष्णुचित्तवादिहंसाम्बुवाहवरदाचार्यादिगळ् संग्रहित्तार्गळ्।  
+</details>
+
+
+
 
 THE KNOWLEDGE THAT ONE IS ŚEṣA TO THE LORD IS NOT IN ITSELF PRAPATTI:
 
