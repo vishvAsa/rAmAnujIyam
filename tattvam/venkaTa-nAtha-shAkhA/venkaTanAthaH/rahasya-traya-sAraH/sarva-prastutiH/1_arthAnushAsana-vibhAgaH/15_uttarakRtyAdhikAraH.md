@@ -5240,15 +5240,16 @@ su relación con su buena ācārya
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **अभिषेकम् पण्णप् पुगुगिऱ** राज-कुमारऩुक्कु  
-रात्रियिल् **विळक्क् एऱ्ऱि वैक्कुमाप्** पोले  
-तऩक्कु अवर्गळ् पण्णिऩ वॆळिच्+++(=स्पष्टता)+++-चिऱप्पैयुम्+++(=समृद्धिम्)+++  
+रात्रियिल् +++(हर्षेण, सिद्धतासौकर्याय च)+++ **विळक्क् एऱ्ऱि वैक्कुमाप्** पोले  
+तऩक्कु अवर्गळ् पण्णिऩ वॆळिच्+++(=बाह्य→तत्त्व[ज्ञान])+++-चिऱप्पैयुम्+++(=समृद्धिम्)+++  
 अद्-अडियागत् तऩक्कु **वन्द** कैङ्कर्यादिगळैयुम् **अनुसन्धित्तु**  
 अवर्गळ् पक्कलिले **कृतज्ञऩ् आय् इरुक्कवुम्**, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-**अभिषेक्ष्यमाणस्य** राज-कुमारस्य कृते रात्रौ दीप-**प्रज्वालनवत्**  
+**अभिषेक्ष्यमाणस्य** राज-कुमारस्य कृते रात्रौ  
++++(हर्षेण, सिद्धतासौकर्याय च)+++ दीप-**प्रज्वालनवत्**  
 स्वस्य तैः **साधितां** ज्ञान-**समृद्धिं**  
 तन्-मूलकानि **स्वस्योपनतानि** कैङ्कर्यादीनि **चानुसन्धाय**  
 तद्-विषये **कार्तज्ञ्येनावस्थानम्**
@@ -5266,12 +5267,12 @@ as towards the servants (of the palace) who light the lamps  and keep them burni
 
 <details><summary>Español</summary>
 
-La Prapanna debe sentirse agradecida por la idea de la expansión del conocimiento  
-que los ācāryas han forjado en él  
-y de cosas como el servicio (del Señor y sus devotos) que han resultado de él.
+La Prapanna **debe sentirse agradecida** por la idea de la **expansión del conocimiento**  
+que los ācāryas **han forjado** en él  
+y de cosas como el **servicio** (del Señor y sus devotos) que **han resultado** de él.
 
-Debería comportarse con ellos  
-como hacia los sirvientes (del palacio) que encienden las lámparas y las mantienen ardiendo la noche anterior a la coronación del príncipe (como una muestra de su regocijo).
+Debería **comportarse** con ellos  
+**como hacia** los **sirvientes** (del palacio) que **encienden** las lámparas y las **mantienen ardiendo** la noche anterior a la coronación del príncipe (como una **muestra** de su regocijo).
 </details>
 
 
@@ -5283,7 +5284,17 @@ como hacia los sirvientes (del palacio) que encienden las lámparas y las mantie
 
 <details><summary>सार-बोधिनी</summary>
 
-अवर्गळाल् वन्द ज्ञानङ्गळैयुम् कैङ्कर्यत्तैयुमनुसन्धिक्क वेण्डुमॆऩ्गिऱार् अभिषेकमित्यादिना । अभिषेकम् पण्णप्पुगुगिऱ - श्वः अभिषेक्ष्यमाणऩाऩ, राजकुमारऩुक्कु, रात्रियिल् - मुदल्नाळ् रात्तिरियिले, विळक्केऱ्ऱि वैक्कुमाप्पोले इति । ऒरु राजकुमारऩुक्कु नाळैक्कु अभिषेकम् पण्णप् पोगिऱदाऩाल् राजान्तरङ्गर्गळ् उपचारार्थम् दीपिकासहस्रमेऱ्ऱिवैप्पदु वऴक्कम्। अदऩाल् राजकुमारऩुक्कु हर्षमुम्, श्वः अभिषेकोऽवश्यं भविष्यतीति निर्णयमुम्, तदनुगुणकार्यप्रवृत्तियुमुण्डागुम्। तादृशदीपारोपणम्बोले यॆऩ्ऱबडि। वॆळिच्चिऱप्पैयुम् - मोक्षमागिऱ दिनत्तिऱ्कु पूर्वरात्रिपोले यिरुक्किऱ संसारत्तिलवर्गळुण्डुबण्णिऩ तत्त्वहितपुरुषार्थज्ञानत्तैयुम्, अदडियाग - तन्मूलमाग, तऩक्कु वन्द - उत्तरकालत्तिल् तऩक्कुण्डाऩ, कैङ्कर्यादिगळैयुम् - भगवद्भागवताचार्यकैङ्कर्यङ्गळैयुम्, आदिपदत्ताल् मोक्षत्वरैक्कु, सङ्ग्रहम्। कृतज्ञऩायिरुक्कवुम् - इदऱ्कुम् प्राप्तमॆऩ्बदोडन्वयम् 
+अवर्गळाल् वन्द ज्ञानङ्गळैयुम् कैङ्कर्यत्तैयुमनुसन्धिक्क वेण्डुमॆऩ्गिऱार् अभिषेकमित्यादिना । अभिषेकम् पण्णप्पुगुगिऱ - श्वः अभिषेक्ष्यमाणऩाऩ, राजकुमारऩुक्कु, रात्रियिल् - मुदल्नाळ् रात्तिरियिले, विळक्केऱ्ऱि वैक्कुमाप्पोले इति ।  
+ऒरु राजकुमारऩुक्कु नाळैक्कु अभिषेकम् पण्णप् पोगिऱद् आऩाल्  
+राजान्तरङ्गर्गळ् उपचारार्थम्  
+दीपिका-सहस्रम् एऱ्ऱि वैप्पदु वऴक्कम्।  
+अदऩाल् राजकुमारऩुक्कु हर्षमुम्,  
+"श्वः अभिषेकोऽवश्यं भविष्यती"ति निर्णयमुम्,  
+तद्-अनुगुण-कार्य-प्रवृत्तियुम् उण्ड् आगुम्।  
+तादृश-दीपारोपणम् बोलेय् ऎऩ्ऱ बडि।  
+वॆळिच्चिऱप्पैयुम् - मोक्षमागिऱ दिनत्तिऱ्कु  
+पूर्वरात्रिपोलेय् इरुक्किऱ संसारत्तिल्  
+अवर्गळ् उण्डु बण्णिऩ तत्त्व-हित-पुरुषार्थ-ज्ञानत्तैयुम्,  अद् अडियाग - तन्मूलमाग, तऩक्कु वन्द - उत्तरकालत्तिल् तऩक्कुण्डाऩ, कैङ्कर्यादिगळैयुम् - भगवद्भागवताचार्यकैङ्कर्यङ्गळैयुम्, आदिपदत्ताल् मोक्षत्वरैक्कु, सङ्ग्रहम्। कृतज्ञऩायिरुक्कवुम् - इदऱ्कुम् प्राप्तमॆऩ्बदोडन्वयम् 
 </details>
 
 
@@ -5313,10 +5324,10 @@ whose independent will cannot be questioned.
 
 <details><summary>Español</summary>
 
-Debería sentirse agradecido también al Señor al pensar en su compasión innata  
-que es la causa común y principal de todos estos  
-y que, en el estado de Mukti, elimina la temida posibilidad de una ruptura en el disfrute de Bhagavān  
-cuya voluntad independiente no puede ser cuestionada.
+**Debería sentirse** agradecido también al Señor al **pensar** en su compasión innata  
+que **es** la causa común y principal de todos estos  
+y que, en el estado de Mukti, **elimina** la temida posibilidad de una ruptura en el **disfrute** de Bhagavān  
+cuya **voluntad** independiente **no puede ser cuestionada**.
 </details>
 
 
@@ -5358,12 +5369,12 @@ For it has been said:--
 
 <details><summary>Español</summary>
 
-Porque se ha dicho:-
+Porque **se ha dicho**:-
 
-> "El Señor nos hace subir a Vaikuṇṭha  
-> a través del centro de la esfera del sol cuyos rayos disipan la oscuridad  
-> y él quita la escalera que ayudó a escalar,  
-> para que no haya vuelto ",
+> "El Señor nos **hace subir** a Vaikuṇṭha  
+> a través del centro de la esfera del sol cuyos rayos **disipan** la oscuridad  
+> y él **quita** la escalera que ayudó a **escalar**,  
+> para que **no haya vuelto** ",
 </details>
 
 
@@ -5383,7 +5394,8 @@ Porque se ha dicho:-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > '**पोयिऩाल्**  
-> पिऩ्ऩैय् इद्-दिशैक्क् ऎऩ्ऱुम्+++(=कदापि)+++ पिणै+++(=प्रति-भू-)+++ गॊडुक्किलुम् पोगव् ऒट्टा+++(=नानुमन्यते)+++'  
+> पिऩ्ऩैय् इद्-दिशैक्क् ऎऩ्ऱुम्+++(=कदापि)+++  
+> +++("प्रत्यागन्तास्मि वैकुण्ठम्" इति)+++ पिणै+++(=प्रति-भू-)+++ गॊडुक्किलुम् पोगव् ऒट्टा+++(=नानुमन्यते)+++'  
 > (पॆरियाऴ्वार् तिरुमॊऴि ४-५-२) 
 
 ऎऩ्ऱुम्, 
@@ -5394,7 +5406,7 @@ Porque se ha dicho:-
 
 > "71 **गतं** चेत्,  
 > पश्चाद् इमां दिशं प्रति  
-> कदा ऽपि +++(वैकुण्ठ-प्रति-गत्यै)+++ प्रतिभू-दानेऽपि **गमनं नानुमन्येत** " 
+> कदा ऽपि +++("प्रत्यागन्तास्मि वैकुण्ठम्" इति)+++ प्रतिभू-दानेऽपि **गमनं नानुमन्येत** " 
 
 इति 
 </details>
@@ -5415,9 +5427,9 @@ and again,
 
 Y de nuevo,
 
-> "Si uno va a Vaikuṇṭha después de realizar Prapatti pronunciando las palabras 'Namo Narana',  
-> No dejará que uno vuelva al mundo de Saṁsāra,  
-> Incluso si uno debe proporcionar seguridad para volver a Vaikuṇṭha "+++ (5) +++.
+> "Si uno **va** a Vaikuṇṭha después de **realizar** Prapatti **pronunciando** las palabras 'Namo Narana',  
+> **No dejará** que uno **vuelva** al mundo de Saṁsāra,  
+> Incluso si uno **debe proporcionar** seguridad para **volver** a Vaikuṇṭha "+++ (5) +++.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5433,7 +5445,7 @@ Y de nuevo,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'वण्+++(=विशिष्ट)+++-बुगऴ्+++(=यशः)+++ नारणऩ् तिण्+++(=दृढ)+++-कऴल्+++(=चरणौ)+++'  
+> 'वण्+++(=विशिष्ट)+++-बुगऴ्+++(=यशः)+++ नारणऩ् तिण्+++(=दृढ →[स्थिर-ग्रहण-योग्यौ])+++-कऴल्+++(=चरणौ)+++'  
 > (तिरुवाय्मॊऴि १-२-१०।)
 
 ऎऩ्ऱुम्,  
@@ -5441,7 +5453,7 @@ Y de nuevo,
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> विलक्षण-यशस्क-नारायण-दृढ-चरणौ
+> विलक्षण-यशस्क-नारायण-दृढ+++(→स्थिर-ग्रहण-योग्य)+++-चरणौ
 
 इति, 
 </details>
@@ -5461,10 +5473,10 @@ Y de nuevo,
 (Nammalvar) dice:
 
 > "Los pies firmes de Nārāyaṇa  
-> cuyos elogios no se superan"  
-(Los pies son firmes,  
-aquellos que los han atrapado  
-nunca pueden resbalarse);
+> cuyos **elogios no se superan**"  
+(Los pies **son** firmes,  
+aquellos que los **han atrapado**  
+**nunca pueden resbalarse**);
 </details>
 
 
@@ -5517,11 +5529,11 @@ and again
 
 y de nuevo
 
-> "Bhagavān" es nuestro padre  
-> quien le quita a sus devotos sus futuros nacimientos,  
-> los lleva a Vaikuṇṭha,  
-> ayuda a la manifestación de su svarūpa o naturaleza esencial  
-> y ve a su restante debajo de sus pies, incluso como las líneas en las plantas (de sus pies) ",
+> "Bhagavān" **es** nuestro padre  
+> quien **le quita** a sus devotos sus futuros nacimientos,  
+> los **lleva** a Vaikuṇṭha,  
+> **ayuda** a la manifestación de su svarūpa o naturaleza esencial  
+> y **ve** a su **restante** debajo de sus pies, incluso como las líneas en las plantas (de sus pies) ",+++(5)+++
 </details>
 
 
@@ -5568,9 +5580,9 @@ and further,
 
 y además,
 
-> "El Señor cuida (nuestro) bienestar  
-> llevándonos a ponerse de pie  
-> y evitando nuestra caída de allí ".
+> "El Señor **cuida** (nuestro) bienestar  
+> **llevándonos** a **ponerse** de pie  
+> y **evitando** nuestra **caída** de allí ".
 </details>
 
 
@@ -5663,10 +5675,10 @@ y quién, incluso después de mokṣa, como durante saṁsāra,
 
 <details><summary>Español</summary>
 
-(Como el Alvar describe [esta compasión] en las siguientes palabras);-
+(Como el Alvar **describe** [esta compasión] en las siguientes palabras);-
 
-> "Por tu gracia y la gracia de tu cónyuge que vive en el loto,  
-> Serví en tu templo de la vieja "
+> "Por tu gracia y la gracia de tu cónyuge que **vive** en el loto,  
+> **Serví** en tu templo de la vieja "
 </details>
 
 
@@ -5705,8 +5717,8 @@ shows the same compassion .
 
 <details><summary>Español</summary>
 
-muestra la misma compasión.  
-(Entonces, debería estar agradecido en este asunto conocido).
+**muestra** la misma compasión.  
+(Entonces, **debería estar agradecido** en este asunto **conocido**).
 </details>
 
 
@@ -5730,7 +5742,7 @@ WHAT THE PRAPANNA SHOULD DO WITH HIS MIND, HIS SPEECH AND HIS BODY:
 
 <details><summary>Español</summary>
 
-Lo que la Prapanna debería hacer  
+Lo que la Prapanna **debería hacer**  
 con su mente, su discurso y su cuerpo:
 </details>
 
@@ -5755,9 +5767,11 @@ and also in regard to what should be observed or followed by them:
 
 <details><summary>Español</summary>
 
-Sobre este Código de Conducta (del Prapanna) ahora declararemos lo que se considera la esencia  
-con respecto a lo que los tres sentidos, es decir la mente, el discurso y el cuerpo, deben evitar  
-y también con respecto a lo que debe observarse o seguido por ellos:
+Sobre este Código de Conducta (del Prapanna) ahora **declararemos** lo que **se considera** la esencia  
+con respecto a lo que los tres sentidos,  
+es decir la mente, el discurso y el cuerpo,  
+**deben evitar**  
+y también con respecto a lo que **debe observarse** o **seguido** por ellos:
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5777,7 +5791,7 @@ y también con respecto a lo que debe observarse o seguido por ellos:
 > ‘‘विषस्य विषयाणाञ् च  
 > दूरम् अत्यन्तम् अन्तरम् ।  
 > **उपभुक्तं** विषं **हन्ति**  
-> विषयास् स्मरणाद् अपि’’+++(5)+++
+> विषयास् स्मरणाद् अपि॥’’+++(5)+++
 
 ऎऩ्ऱुम्, 
 </details>
@@ -5798,9 +5812,9 @@ whereas objects of sense kill even at their mere thought."
 <details><summary>Español</summary>
 
 "Entre el veneno (Visha) y los objetos del sentido (Vishaya)  
-hay una gran golfa de diferencia,  
-porque el veneno mata solo al hombre que lo come,  
-mientras que los objetos de sentido matan incluso en su mero pensamiento ".
+**hay** una gran golfa de diferencia,  
+porque el veneno **mata** solo al hombre que lo **come**,  
+mientras que los objetos de sentido **matan** incluso en su mero **pensamiento** ".
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -5831,7 +5845,7 @@ mientras que los objetos de sentido matan incluso en su mero pensamiento ".
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > 'आवि+++(=मनः)+++-**तिगैक्क्**+++(=व्याकुलतायै)+++ अव् ऐवर् **कुमैक्कुञ्**+++(=पीडक)+++-शिऱ्ऱ्-**इऩ्बम्**  
-> पावियेऩैप् पल नी काट्टिप् पडुप्पायोय्?'  
+> पावियेऩैप् पल नी काट्टिप् पडुप्पायोय्? +++(=नाशयसि)+++'  
 > (तिरुवाय्मॊऴि ६-९-९) 
 
 ऎऩ्ऱुञ् 
@@ -5860,11 +5874,11 @@ It has been said also,
 
 <details><summary>Español</summary>
 
-También se ha dicho,
+También **se ha dicho**,
 
-> "¿Es justo por tu parte engañar a mi alma?  
-> Mostrando antes de pecaminoso mi  
-> los diversos placeres por los cuales los sentidos me aseguran a mi sufrimiento? "
+> "¿Es justo por tu parte **engañar** a mi alma?  
+> **Mostrando** antes de mi  
+> los diversos placeres por los cuales los sentidos **me aseguran** a mi **sufrimiento**? "
 </details>
 
 
@@ -5885,13 +5899,13 @@ También se ha dicho,
 
 जॊल्लुगैयाले  
 परम-पुरुषार्थ-रुचि कुलैयामैक्क् आग  
-मऱक्क-वेण्डुम् अवऱ्ऱिल् प्रधानं विषयास्वादम्। 
+मऱक्क-वेण्डुम् अवऱ्ऱिल् प्रधानं +++(कैङ्कर्य-धर्म-व्यतिरिक्त-)+++ विषयास्वादम्। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 परम-पुरुार्थ-रुचेर् अभङ्गाय  
-विस्मर्तव्येषु प्रधान-भूतो विषयास्वादः 
+विस्मर्तव्येषु प्रधान-भूतो +++(कैङ्कर्य-धर्म-व्यतिरिक्त-)+++विषयास्वादः 
 </details>
 
 
@@ -5903,9 +5917,9 @@ the most important among those that should be forgotten is the enjoyment of sens
 
 <details><summary>Español</summary>
 
-Por lo tanto, para que el deseo del objeto final de la vida no languidice,  
-Lo más importante entre los que deben olvidarse  
-es el disfrute de los placeres sensoriales.
+Por lo tanto, para que el deseo del objeto final de la vida **no languidice**,  
+Lo más importante entre los que **deben olvidarse**  
+es el **disfrute** de los placeres sensoriales.
 </details>
 
 
@@ -5946,10 +5960,10 @@ from the time his glance first fell on us.
 
 <details><summary>Español</summary>
 
-Para que uno no se vuelva desagradecido,  
-la principal cosa que debería considerarse  
-es la ayuda que nos brinda para el ācārya  
-desde el momento en que su mirada cayó sobre nosotros.
+Para que uno **no se vuelva** desagradecido,  
+la principal cosa que **debería considerarse**  
+es la ayuda que **nos brinda** para el ācārya  
+desde el momento en que **su mirada** cayó sobre nosotros.
 </details>
 
 
@@ -5965,11 +5979,11 @@ desde el momento en que su mirada cayó sobre nosotros.
 > ‘‘गोघ्ने चैव सुरापे च  
 > चोरे भग्नव्रते तथा ।  
 > निष्कृतिर्विहिता सद्भिः  
-> कृतध्ने नास्ति निष्कृतिः ॥’’ 
+> कृतघ्ने नास्ति निष्कृतिः ॥’’ 
 
 ऎऩ्ऱु प्रायश्चित्तानर्हऩाय् सॊल्लप्पट्टुम्, 
 
-> ‘‘प्रथितं पातकिवर्गं  
+> ‘‘प्रथितं पातकि-वर्गं  
 > कृतघ्न एको हि कृत्स्नम् अतिशेते’’ 
 
 ऎऩ्ऱु पातकिकळुक्कॆल्लाम् प्रधानऩागच् चॊल्लप्पट्टुमिरुक्किऱ कृतघ्नऩुडैय तऩ्मै। अदु वारामैक्काग - प्राप्त मागामैक्काग, आचार्यऩाल् सॆय्यप्पट्ट उपकारत्तिऩुडैय स्मरणत्ताले वरुम् फलमऩेगङ्गळिरुन्दालुम् कृतघ्नताप्राप्तिरूपानिष्टत्तिऩ् निवृत्तिये प्रधानफलमॆऩ्ऱु करुत्तु। निऩैक्कवेण्डुमवऱ्ऱिल् - स्मरणीयविषयङ्गळिल्, प्रधानम् - अनिष्टनिवर्तकतया प्रधानभूतम्, आचार्यऩ् सॆय्द - आचार्यऩाल् सॆय्यप्पट्ट, प्रथमकटाक्षम् मुदलाऩ उपकारमिति । इङ्गु 'मुदलाऩ' शब्दत्ताल् मन्त्रार्थोपदेशोपायानुष्ठानादिसङ्ग्रहः । 
@@ -5984,7 +5998,27 @@ desde el momento en que su mirada cayó sobre nosotros.
 
 <details><summary>नीलमेघः (सं)</summary>
 
-कार्पण्यस्याविनाशार्थं **अ-वक्तव्येषु** प्रधान-भूत आत्मोत्कर्षः । 
+कार्पण्यस्याविनाशार्म् **अ-वक्तव्येषु** प्रधान-भूत आत्मोत्कर्षः । 
+</details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+सम्मानाद् ब्राह्मणो नित्यमुद्विजेत विषादिव ।
+अमृतस्येव चाकाङ्क्षेदवमानस्य सर्वदा ॥ १६२ ॥
+
+इति मनुः। 
+
+तथापि वेङ्कटनाथेन, तादृशैश् च तथा कृतं दृश्यते (सङ्कल्पसूर्योदये यथा)।  
+केषु सन्दर्भेष्व् एवं साधारणनियमस्योल्लङ्घनं धर्मशास्त्रेणानुमतम्?   
+​
+​नल्लासिरियर्-कृत-नन्नूल्-नाम्नि तु द्रमिड-व्याकयरणे काव्यलक्षणप्रकरणे क्वचित् स्पष्टीकृतम् -  
+
+> प्रबन्धेषु सभायां परावहेलनादौ च स्वयोग्यता-प्रतिष्ठापनार्थं प्रौढोक्तिः (खल-निन्दापि) अनुमता।  
+
+किञ्च तादृशं धर्मशास्त्रगतं वचनं काङ्क्षे।??  
+
+लोकेऽप्य् अपवादास् स्पष्टाः -  
+वैद्यः स्वार्जितपदवीः प्रकाशयति, येन चिकित्सित-प्रत्ययः स्यात्। 
 </details>
 
 
@@ -5996,9 +6030,9 @@ the chief thing that should be avoided in speech is the expression of our excell
 
 <details><summary>Español</summary>
 
-Para que no podamos perder la sensación de impotencia,  
-Lo principal que debe evitarse en el habla  
-es la expresión de nuestra excelencia.
+Para que **no podamos perder** la sensación de impotencia,  
+Lo principal que **debe evitarse** en el habla  
+es la **expresión** de nuestra excelencia.
 </details>
 
 
@@ -6014,7 +6048,7 @@ es la expresión de nuestra excelencia.
 </details>
 
 
-### उपाय-निष्ठा
+### जपः, उपाय-निष्ठा
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6029,6 +6063,14 @@ es la expresión de nuestra excelencia.
 **वक्तव्येषु** प्रधानं द्वयम् । 
 </details>
 
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+द्वयस्थार्था अष्टाक्षरेऽपि सन्ति, किञ्च सङ्क्षेपेण।  
+पुनर् द्वयस् सर्वावस्थोचित इति प्रतीतिः।  
+तेन स सूचितः। अन्यथा विज्ञा अष्टाक्षरम् अप्य् आश्रयेयुः। 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -6041,11 +6083,11 @@ the chief among the things that should be uttered is Dvaya;
 
 <details><summary>Español</summary>
 
-Para que uno no pueda olvidar la convicción de uno en el upāya,  
-El jefe de las cosas que deberían pronunciarse es Dvaya;  
-(El Bhāṣyakāra dice) 
+Para que uno **no pueda olvidar** la convicción de uno en el upāya,  
+El jefe de las cosas que **deberían pronunciarse** es Dvaya;  
+(El Bhāṣyakāra **dice**) 
 
-> "Uno debería pronunciar el dvaya con una comprensión de su significado".
+> "Uno **debería pronunciar** el dvaya con una **comprensión** de su significado".
 </details>
  
 
@@ -6063,7 +6105,7 @@ El jefe de las cosas que deberían pronunciarse es Dvaya;
 ### भगवत्-प्रीति-रक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उगन्दु पणि-गॊळ्ळ उरियऩ्+++(=योग्यः)+++ आऩव् ऎम्-बॆरुमाऩ् तिरुव्-उळ्ळम् अऴलामैक्क् आग  
+उगन्दु पणि+++(=सेवा)+++-गॊळ्ळ उरियऩ्+++(=योग्यः)+++ आऩव् ऎम्-बॆरुमाऩ् तिरुव्-उळ्ळम् +++(अप्रज्वालनाय=)+++अऴलामैक्क् आग  
 करण-त्रयत्तालुम् 'सॆय्यादऩ सॆय्योम्'(तिरुप्पावै २) ऎऩ्ऩुम् अवऱ्ऱिल् प्रधानम् ब्रह्म-विद्-अपचारम्।  
 </details>
 
@@ -6090,13 +6132,13 @@ as Andal says,
 <details><summary>Español</summary>
 
 Para que bhagavān  
-quien tiene derecho a recibir nuestro servicio con placer  
-puede que no se disgusten de corazón,  
-Los más importantes entre los que deben ser evitados por los tres sentidos  
-es una ofensa para aquellos que conocen a Brahman;  
+quien **tiene derecho** a **recibir** nuestro servicio con placer  
+puede que **no se disgusten** de corazón,  
+Los más importantes entre los que **deben ser evitados** por los tres sentidos  
+es una **ofensa** para aquellos que **conocen** a Brahman;  
 Como dice Andal, 
 
-> "Nunca haremos lo que no se debe hacer".
+> "**Nunca haremos** lo que **no se debe hacer**".
 </details>
 
 
