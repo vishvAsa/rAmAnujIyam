@@ -3212,10 +3212,39 @@ Piden,
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुवुम् 
+
+> वाक्य-जन्य-ज्ञान-मात्रत्ताले मोक्षम् 
+
+ऎऩ्गै पोले अनादरणीयम्।  
+</details>
+
+<details><summary>English</summary>
+
+This question does not deserve any consideration,  
+just like the dictum (of the Advaitins) that,  
+by the mere knowledge of the text of the śruti  
+[Texts like "That Thou art" and "I am Brahma"]  
+mokṣa can be attained.
+</details>
+
+<details><summary>Español</summary>
+
+Esta pregunta **no merece ninguna consideración**,  
+Al igual que el dictamen (de los Advaitins) que,  
+por el mero **conocimiento** del texto del Śruti  
+[Textos como "que tú **eres**" y "**soy** brahma"]  
+**se puede alcanzar** mokṣa.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदुवुम् वाक्यजन्यज्ञानमात्रत्ताले मोक्षमॆऩ्गै पोले अनादरणीयम्।  
+</details>
 
 
-
-This question does not deserve any consideration, just like the dictum (of the Advaitins) that, by the mere knowledge of the text of the *śruti [Texts like "That Thou art" and "I am Brahma"] . mokṣa can be attained.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
