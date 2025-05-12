@@ -2989,8 +2989,13 @@ Los otros dos a veces **se usan** para **denotar** bharanyāsa).
 
 सात्यकितन्त्रलक्ष्मीतन्त्राहिर्बुध्न्यसंहितादिगळिल् आत्मात्मीय-भरन्यासमे अङ्गियॆऩ्ऱुम्, अदुवे प्रपत्तियॆऩ्ऱुम् सॊल्लप्पट्टिरुक्किऱदु। तत्-कार्यत्व-सम्बन्ध-रूप-सौहार्दम् इरुप्पदाल्  
 पाश्चात्य-स्वप्रयत्न-निवृत्तिरूपाकिञ्चन्यम् प्रपत्तियॆऩ्ऱु सॊल्लप्पडुगिऱदु। 
-</details>
 
+> अप्पडिये भरन्यासकारणत्वरूप सौहार्दमिरुप्पदाल् उपायत्वप्रार्थऩैयुम् प्रपत्तियॆऩ्ऱु सॊल्लप्पडुगिऱदु, 
+
+ऎऩ्ऱु कार्यकारणभावरूपसम्बन्धत्तैयिट्टुम्  
+स्वरूपप्रयुक्तमुमाऩ प्रपत्तिव्यवहारनिमित्तत्तै ऎवऩ् अऱिगिऱाऩो,  
+अवऩे प्रपत्तिशास्त्रार्थवेत्ता ऎऩ्ऱबडि। 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3029,6 +3034,11 @@ Y **tiene** cinco accesorios.
 <details><summary>मूलम्</summary>
 
 इप्पडि अङ्गपञ्चकसंपन्नमाऩ आत्मरक्षाभरन्यासमे प्रपत्ति शास्त्रमॆल्लात्तिलुम् प्रधानमाऩ विधेयमॆऩ्ऱु श्रीविष्णुचित्तवादिहंसाम्बुवाहवरदाचार्यादिगळ् संग्रहित्तार्गळ्।  
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+कीऴ्च्चॊऩ्ऩ अर्थमॆल्लाम् सम्प्रदायसिद्धमॆऩ्गिऱार् इप्पडियित्यादिना । श्रीविष्णुचित्तर् - ऎङ्गळाऴ्वाऩ्, अवर् विष्णुचित्तीयव्याख्याता । वादिहंसाम्बुवाहर् - अप्पुळ्ळार्, वरदाचार्यर् - नडादूर् पॆरियम्माळ्, सङ्ग्रहित्तार्गळिति, प्रपन्न पारिजातादिप्रबन्धङ्गळिले ऎऩ्ऱबडि।  
 </details>
 
 
@@ -3076,21 +3086,136 @@ has he not realised his relationship as śeṣa to Bhagavān ?
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>> ‘‘स्वोज्जीवनेच्छा यदि ते  
+स्व-सत्तायां स्पृहा यदि ।  
+आत्म-दास्यं हरेस् स्वाम्यं  
+स्वभावञ् च सदा **स्मर**॥’’
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+>> ‘‘स्वोज्जीवनेच्छा यदि ते  
+स्व-सत्तायां स्पृहा यदि ।  
+आत्म-दास्यं हरेस् स्वाम्यं  
+स्वभावञ् च सदा **स्मर**॥’’
+</details>
+
+<details><summary>विषयः</summary>
+
+शेषत्वम्, दास्यम्, भक्तिः
+</details>
 
 
-
+<details><summary>English</summary>
 
 > Further, in the śloka, 
 > 
-> "If you desire to attain the highest state and to adopt the upāya for it,  
+>> "If you desire to attain the highest state and to adopt the upāya for it,  
 remember that Hari is (your) master  
 and that you are His servant  
 and that this relationship exists for ever by the very nature (of things)”  
 
-(in this śloka)  
-\-- is not the meaning as follows:- 
+</details>
 
-"If you desire the highest goal of life and the means of attaining it, you should understand clearly that you are the servant and that Iśvara is the master and that this relationship exists by nature"? They ask, "When this is so, is there an action (besides the thought of the relationship) enjoined called ātmasamarpanam?". This question does not deserve any consideration, just like the dictum (of the Advaitins) that, by the mere knowledge of the text of the *śruti [Texts like "That Thou art" and "I am Brahma"] . mokṣa can be attained.
+<details><summary>Español</summary>
+
+> Además, en el Śloka,
+>
+>> "Si **desea alcanzar** el estado más alto  
+y **adoptar** el upāya para él,  
+**Recuerda** que Hari es (tu) maestro  
+y que **eres** su siervo  
+y que esta relación **existe** para siempre por la misma naturaleza (de las cosas) "s) "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘स्वोज्जीवनेच्छा यदि ते स्व सत्तायां स्पृहा यदि ।  
+आत्मदास्यं हरेस्स्वाम्यं स्वभावञ्च सदा स्मर॥’’
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऎऩ्ऱ् अदुवुम्  
+>
+>> परम-पुरुषार्थ--तद्-उपायङ्गळै वेण्डिय् इरुन्द् आयागिल्  
+नी दासऩ् आय्  
+ईश्वरऩ् स्वामिय् आय् इरुक्किऱदु  
+स्व-भाव--सिद्धम्  
+ऎऩ्ऱु तत्त्वत्तिल् तॆळिवोडे वर्तिय् 
+>
+> ऎऩ्ऱ बडिय् अऩ्ऱो;
+</details>
+
+<details><summary>English</summary>
+
+> (in this śloka)  
+\-- is not the meaning as follows? :- 
+>
+> > "If you desire the highest goal of life and the means of attaining it,  
+you should understand clearly  
+that you are the servant  
+and that Iśvara is the master  
+and that this relationship exists by nature."  
+</details>
+
+<details><summary>Español</summary>
+
+> (En este Śloka)  
+\- **no es** el **significado** como sigue?:-
+> 
+> > "Si **deseas** el objetivo más alto de la vida y los medios para **lograrlo**,  
+Deberías **entender** claramente  
+que **eres** el sirviente  
+y que iśvara **es** el maestro  
+Y que esta relación **existe** por naturaleza."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱदुवुम् परमपुरुषार्थतदुपायङ्गळै वेण्डियिरुन्दायागिल् नी दासऩाय् ईश्वरऩ् स्वामियायिरुक्किऱदु स्वभावसिद्धमॆऩ्ऱु तत्त्वत्तिल् तॆळिवोडे वर्तियॆऩ्ऱबडियऩ्ऱो;
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आऩाल् इप्-पोदु +++(स्मरणाद् अधिकं)+++ आत्म-समर्पणम् ऎऩ्ऱ् ऒरु विधेयम् उण्डोव्? 
+
+ऎऩ्ऱु सॊल्लुवार्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+They ask, 
+
+> "When this is so,  
+is there an action (besides the thought of the relationship) enjoined called ātmasamarpanam?". 
+</details>
+
+<details><summary>Español</summary>
+
+Piden,
+
+> "Cuando esto es así,  
+**¿Hay** una acción (además del pensamiento de la relación) que **se llama** ātmasamarpanam? ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩालिप्पोदुआत्मसमर्पणमॆऩ्ऱॊरु विधेयमुण्डोवॆऩ्ऱु सॊल्लुवार्गळ्। 
+</details>
+
+
+
+
+
+This question does not deserve any consideration, just like the dictum (of the Advaitins) that, by the mere knowledge of the text of the *śruti [Texts like "That Thou art" and "I am Brahma"] . mokṣa can be attained.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
