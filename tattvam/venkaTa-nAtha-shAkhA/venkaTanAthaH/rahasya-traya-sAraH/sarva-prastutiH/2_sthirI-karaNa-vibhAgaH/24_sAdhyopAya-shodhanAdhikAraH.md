@@ -3063,6 +3063,14 @@ El conocimiento de que uno **es** Śeṣa para el Señor
 शेषत्वानुसन्धानम् पण्णिऩाऩ् अऩ्ऱो; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र केचित् —  
+
+> शास्त्रार्थ-तत्त्वस्य सम्यग्-ज्ञान-काले  
+शेषत्वानुसन्धानं कृतवान् किल ।  
+</details>
+
 <details><summary>English</summary>
 
 3. There are some who say: 
@@ -3151,6 +3159,18 @@ y que esta relación **existe** para siempre por la misma naturaleza (de las cos
 > ऎऩ्ऱ बडिय् अऩ्ऱो;
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> इति वचनम् अपि, 
+> 
+> > 'परम-पुरुषार्थ-तद्-उपायौ अपेक्षसे चेत्,  
+> "त्वं दासः, ईश्वरः स्वामी"त्य्-एवम्-भावः स्वभावसिद्ध 
+> इति तत्त्व-विषये विशद-ज्ञानवान् सन् वर्तस्व ' 
+> 
+> इत्येवं-परं किल ।  
+</details>
+
+
 <details><summary>English</summary>
 
 > (in this śloka)  
@@ -3189,6 +3209,14 @@ Y que esta relación **existe** por naturaleza."
 ऎऩ्ऱु सॊल्लुवार्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवं सति इदानीम् आत्म-समर्पणम् इति विधेयं किं भवति?
+
+इत्य् आचक्षते । 
+</details>
+
+
 <details><summary>English</summary>
 
 They ask, 
@@ -3220,6 +3248,16 @@ Piden,
 
 ऎऩ्गै पोले अनादरणीयम्।  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् अपि 
+
+> वाक्य-जन्य-ज्ञान-मात्रेण मोक्ष 
+
+इतिवत् अनादरणीयम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3327,18 +3365,133 @@ que **califica** la Prapanna,
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शेषत्वादि-विशिष्टम् आऩव् आत्म-तत्त्वत्तै  
+शास्त्रत्ताले तॆळिन्दवऩुक्कु  
+
+शेषत्व-प्रतिसन्धान-गर्भम् आऩ स्वात्म-रक्षा-भर-न्यासम् इऱे 
+
+अनाद्य्-अपराध-मूल-निग्रह-निवृत्तिक्क् उपायम् आग विधिक्कप् पडुगिऱव् आत्म-समर्पणम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शेषत्वादि-विशिष्टम् आत्म-तत्त्वं  
+शास्त्रेण यथावद् विदितवतो  
+
+अधिकार-विशेषेण परिकर-विशेषेण फल-संकल्प-विशेषेण च सहितः  
+शेषत्व-प्रतिसन्धान-गर्भः स्वात्म-रक्षा-भर-न्यासो हि  
+
+अनाद्य्-अपराध-मूल-निग्रह-निवृत्तेर् उपायत्वेन  
+विधीयमानम् आत्म-समर्पणम् । 
+</details>
+
+<details><summary>English</summary>
+
+The man first understands from the sāstras  
+that his self which is a Real (Tattva)  
+has the attribute of being a śeṣa.  
+Then with this competency and with the accessories pertaining (to prapatti)  
+and also with the specific idea of the particular benefit desired,  
+he surrenders the responsibility for the protection of his soul (to Bhagavān)  
+bearing in mind his relationship as a śeṣa.  
+
+This surrender of responsibility  
+which is enjoined as an upāya  
+for the remission of the punishment resulting from endless sins  
+is indeed what is called ātmasamarpana (the surrender of the self ).
+</details>
+
+<details><summary>Español</summary>
+
+El hombre **entiende** primero de los sāstras  
+que su yo **es** un real (tattva)  
+**tiene** el atributo de **ser** un Śeṣa.  
+Luego con esta competencia y con los accesorios relacionados (a Prapatti)  
+y también con la idea específica del beneficio particular **deseado**,  
+Él **entrega** la responsabilidad de la **protección** de su alma (a Bhagavān)  
+**Teniendo** en cuenta su relación como un Śeṣa.
+
+Esta **rendición** de la responsabilidad  
+que **se presenta** como un upāya  
+para la **remisión** del castigo **resultante** de los pecados interminables  
+**De hecho, es** lo que **se llama** ātma-samarpana (la rendición del yo).
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-The man first understands from the sāstras that his self which is a Real (Tattva) has the attribute of being a śeṣa. Then with this competency and with the accessories pertaining (to prapatti) and also with the specific idea of the particular benefit desired, he surrenders the responsibility for the protection of his soul (to Bhagavān) bearing in mind his relationship as a śeṣa. This surrender of responsibility which is enjoined as an upāya for the remission of the punishment resulting from endless sins is indeed what is called ātmasamarpana (the surrender of the self ).
+शेषत्वादिविशिष्टमाऩ वात्मतत्त्वत्तै शास्त्रत्ताले तॆळिन्दवऩुक्कु शेषत्वप्रतिसन्धानगर्भमाऩ स्वात्मरक्षाभरन्यासमिऱे अनाद्यपराधमूलनिग्रहनिवृत्तिक्कुपाय-माग विधिक्कप्पडुगिऱवात्मसमर्पणम्। 
+</details>
 
-When it is said that mokṣa is attained by a knowledge of the truth, it should be understood as meaning that it is only by way of leading to the adoption of an upāya. This is evident from the authority of the injunction (vidhi) contained in such passages as "Worship** me" and "seek 18cefage under me".
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तत्त्व-ज्ञानत्ताले मोक्षम् 
+
+ऎऩ्गिऱव् इदुवुम्  
+
+> ऒरु उपायानुष्ठानत्तै मुऩ्ऩिट्ट् 
+
+ऎऩ्ऩुम् इडम्  
+‘‘भजस्व मां, मामेकं शरणं व्रजे’’त्य्-आदि विधि-बल-प्राप्तम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तत्त्व-ज्ञानान् मोक्ष  
+
+इत्य् एतद् अपि  
+किञ्चिद् उपायानुष्ठानं पुरस्-कृत्येत्य् +++(~~कार्येत्य्~~)+++ अयम् अर्थः  
+‘‘भजस्व मां, मामेकं शरणं व्रजे’’त्य्-आदि विधि-बल-प्राप्तः।
+</details>
+
+<details><summary>English</summary>
+
+When it is said that  
+mokṣa is attained by a knowledge of the truth,  
+it should be understood as meaning that  
+it is only by way of leading to the adoption of an upāya. 
+
+This is evident from the authority of the injunction (vidhi) contained in such passages as "Worship me" and "seek refage under me".
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se dice** que  
+
+> mokṣa **se alcanza** por un **conocimiento** de la verdad,
+
+debe **entenderse** como significado que  
+**Es** solo a modo de **conducir** a la **adopción** de un upāya.
+
+Esto **es** evidente a partir de la autoridad de la orden (Vidhi) **contenida** en pasajes como "**adorarme**" y "**buscar** el refago debajo de mí".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्त्वज्ञानत्ताले मोक्षमॆऩ्गिऱविदुवुम् ऒरु उपायानुष्ठानत्तै मुऩ्ऩिट्टॆऩ्ऩुमिडम् ‘‘भजस्व मां, मामेकं शरणं व्रजे’’ त्यादि विधिबलप्राप्तम्। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-ज्ञानान्मोक्षोपदेशे हि तत्पूर्वोपासनादिना ।  
-उपासनादिरूपाद्वा ज्ञानान्मोक्षो विवक्षितः ॥
+ज्ञानान् मोक्षोपदेशे हि  
+तत्+++(→ज्ञान)+++-पूर्वोपासनादिना ।  
++++(ज्ञान-विशेषस्य)+++ उपासनादि-रूपाद् वा  
+**ज्ञानान् मोक्षो विवक्षितः** ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ज्ञानान् मोक्षोपदेशे हि  
+तत्+++(→ज्ञान)+++-पूर्वोपासनादिना ।  
++++(ज्ञान-विशेषस्य)+++ उपासनादि-रूपाद् वा  
+**ज्ञानान् मोक्षो विवक्षितः** ॥
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
