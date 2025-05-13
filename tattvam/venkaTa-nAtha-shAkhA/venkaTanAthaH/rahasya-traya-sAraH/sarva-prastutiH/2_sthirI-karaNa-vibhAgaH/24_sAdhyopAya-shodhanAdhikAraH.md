@@ -3244,25 +3244,91 @@ por el mero **conocimiento** del texto del Śruti
 इदुवुम् वाक्यजन्यज्ञानमात्रत्ताले मोक्षमॆऩ्गै पोले अनादरणीयम्।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जित-कौस्तुभ-चौर्यस्य,  
+सम्राजस् सर्व-पाप्मनाम् ।  
+**शिष्टं**+++(←शास्)+++ ह्य् आत्मापहारस्य  
+**निष्कृतिस्** स्व-भरार्पणम् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+जित-कौस्तुभ-चौर्यस्य,  
+सम्राजस् सर्व-पाप्मनाम् ।  
+**शिष्टं**+++(←शास्)+++ ह्य् आत्मापहारस्य  
+**निष्कृतिस्** स्व-भरार्पणम् ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+To the man who prides himself of having stolen from Bhagavān the gem Kaustubha  
+(which is the symbol of his soul)  
+and who is the prince of all sinners  
+(ie. the greatest of all sinners)  
+the surrender of responsibility (bharanyāsa) (to the Lord)  
+has been enjoined as an expiation. 
+</details>
+
+<details><summary>Español</summary>
+
+Al hombre que **se enorgullece** de **haber robado** de Bhagavān la gema Kaustubha  
+(que **es** el símbolo de su alma)  
+y quien **es** el príncipe de todos los pecadores  
+(es decir, el más grande de todos los pecadores)  
+la **rendición** de la responsabilidad (bharanyāsa) (al Señor)  
+**ha sido ordenado** como una expiación.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+जितकौस्तुभचौर्यस्य सम्राजस्सर्वपाप्मनाम् ।  
+शिष्टं ह्यात्मापहारस्य निष्कृतिस्स्वभरार्पणम् ॥  
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-जितकौस्तुभचौर्यस्य सम्राजस्सर्वपाप्मनाम् ।  
-शिष्टं ह्यात्मापहारस्य निष्कृतिस्स्वभरार्पणम् ॥  
-परशेषत्वधीमात्रमधिकारिविशेषकम् ।  
-पश्चादात्मापहारस्य निरोधाय च कल्पते ॥
+पर-शेषत्व-धी-मात्रम्  
+अधिकारि-**विशेषकम्** ।  
+पश्चाद् आत्मापहारस्य  
+**निरोधाय** च **कल्पते** ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पर-शेषत्व-धी-मात्रम्  
+अधिकारि-**विशेषकम्** ।  
+पश्चाद् आत्मापहारस्य  
+**निरोधाय** च **कल्पते** ॥
+</details>
+
+<details><summary>English</summary>
+
+The thought that he is the śeṣa of the Supreme Being,  
+which qualifies the prapanna,  
+serves also to prevent the theft of the soul (atmāpahāra) in the future (i.e.) after prapatti.
+</details>
+
+<details><summary>Español</summary>
+
+La idea de que él **es** el śeṣa del ser supremo,  
+que **califica** la Prapanna,  
+**Sirve** también para **evitar** el **robo** del alma (atmāpahāra) en el futuro (es decir) después de Prapatti.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-जितकौस्तुभचौर्यस्य सम्राजस्सर्वपाप्मनाम् ।  
-शिष्टं ह्यात्मापहारस्य निष्कृतिस्स्वभरार्पणम् ॥  
 परशेषत्वधीमात्रमधिकारिविशेषकम् ।  
 पश्चादात्मापहारस्य निरोधाय च कल्पते ॥
 </details>
 
-To the man who prides himself of having stolen from Bhagavān the gem Kaustubha (which is the symbol of his soul) and who is the prince of all sinners (ie. the greatest of all sinners) the surrender of responsibility (bharanyāsa) (to the Lord) has been enjoined as an expiation. The thought that he is the śeṣa of the Supreme Being, which qualifies the prapanna, serves also to prevent the theft of the soul (atmapahāra) in the future (1.6.) after prapatti.
+
+
+
 
 The man first understands from the sāstras that his self which is a Real (Tattva) has the attribute of being a śeṣa. Then with this competency and with the accessories pertaining (to prapatti) and also with the specific idea of the particular benefit desired, he surrenders the responsibility for the protection of his soul (to Bhagavān) bearing in mind his relationship as a śeṣa. This surrender of responsibility which is enjoined as an upāya for the remission of the punishment resulting from endless sins is indeed what is called ātmasamarpana (the surrender of the self ).
 
