@@ -33,11 +33,17 @@ unicode_script = "devanagari"
 
 इति स्वरं दर्शयन्त्य् अहोबिलमठाह्निकपुस्तके (मन्त्रे तृतीयाष्टमौ स्वरितौ, षष्ठः अनुदात्त इति साम्यम्)।
 
+> सर्वभूतस्थम् एकं नारायणम् ।  
+कारण-रूपम् अकार परं ब्रह्मोम् ।  
+- [नारायणाथर्वशीर्षोपनिषत्](/AgamaH_vaiShNavaH/content/upaniShat/120-sangrahaH/nArAyaNopaniShat_vA_nArAyaNAtharvashIrSham/)
+
+इत्यत्र "सर्वभूतस्थम्" इत्यनेन बहुव्रीहिर् अप्य् उपगतः।  
+
 व्युत्पत्तयः -
 
 नर आत्मा।  
-ततो जातान्याकाशादीनि नाराणि,  
-तानि कार्य्याणि अयते कारणात्मना व्याप्नुते नारायणः।  
+ततो जातान्य् आकाशादीनि नाराणि,  
+तानि कार्याणि अयते कारणात्मना व्याप्नुते नारायणः।  
 अस्मिन् पक्षे नारायण꣡ इति।
 
 > नराज्जातानि तत्त्वानि  
@@ -91,13 +97,13 @@ unicode_script = "devanagari"
 
 <details><summary>मूलम् (द्रष्टुं नोद्यम्)</summary>
 
-- नारायणाथर्वशीर्षोपनिषत्
-
-> Narayana atharvashira is  also called narayana upanishad and associated with Krishna YV. It has an exalted place in vaikhanasa paddhatis and there r reasons to believe that it is a vaikhanasa text which has become very popular later.
->
-> Interestingly, it is the Vedic text which still survives in Bali. No other upanishad survives there.. nor any samhita
->
-> - ravilochanaH
+> ओमित्यग्रे व्याहरेत् ।  
+नम इति पश्चात् ।  
+नारायणायेत्युपरिष्टात् ।   
+> 
+> ओमित्येकाक्षरम् । नम इति द्वे अक्षरे । नारायणायेति पञ्चाक्षराणि ।  
+एतद्वै नारायणस्याष्टाक्षरं पदम् ।   
+- [नारायणाथर्वशीर्षोपनिषत्](/AgamaH_vaiShNavaH/content/upaniShat/120-sangrahaH/nArAyaNopaniShat_vA_nArAyaNAtharvashIrSham/)
 </details>
 
 <details><summary>अर्थ-सङ्कलनम् (द्रष्टुं नोद्यम्)</summary>
@@ -118,3 +124,13 @@ unicode_script = "devanagari"
 - बहु-व्रीहि-घटनेन +बहिर्-व्याप्तिः (नारा गृहं यस्य सः)। बहुव्रीहिस्वरो ऽपि वेदेऽस्तीति केचित् - तन्मृग्यम्।
 - तत्-पुरुष-घटनेन +अन्ये ऽर्थाः। वेदे स्वरोऽपि तत्पुरुषपरः।  
 </details>
+
+<details><summary>प्रधान-वस्तु</summary>
+
+नैय्यायिक-शाब्द-बोध-प्रकारेण प्रथमाविभक्त्यन्तस्य कर्तुः प्राधान्यम्।  
+अतः शब्दतो जीवस्य +अकारवाच्यस्य प्राधान्यम्।  
+अर्थतस् तु नारायणस्य प्राधान्यम् - शेषित्वात्। 
+
+वैय्याकरणाभिमत-व्यापार-प्राधान्ये ऽङ्गीकृते तु शेषत्व-सम्बन्ध-प्राधान्यम्। 
+</details>
+
