@@ -55,7 +55,7 @@ title = "पञ्चसंस्कारप्रयोगः"
 <div class="js_include" url="../angAni/viShvaxena-pUjA"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ## सङ्कल्पः
-<div class="js_include" url="/rAmAnujIyam/prakIrNa-mantrAdi/gadyam/harir_OM_tat_govinda.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/prakIrNa-mantrAdi/gadyam/harir_OM_tat_govinda.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 > भगवत्-प्रीत्य्-अर्थं  

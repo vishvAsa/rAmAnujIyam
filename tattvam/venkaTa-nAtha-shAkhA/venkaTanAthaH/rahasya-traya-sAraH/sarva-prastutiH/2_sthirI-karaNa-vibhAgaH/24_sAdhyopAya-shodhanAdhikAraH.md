@@ -3526,16 +3526,76 @@ La instrucción que **establece**:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शास्त्र-जन्यम् आऩ शेषत्व-ज्ञान-मात्रम् निवृत्ति-धर्मङ्गळ् आऩ न्यासोपासनादिगळॆल्लात्तुक्कुम् पॊदुवायिरुक्कुम्। 
+शास्त्र-जन्यम् आऩ शेषत्व-ज्ञान-मात्रम्  
+निवृत्ति-धर्मङ्गळ् +++(ततः शेषत्व-केन्द्रिताः)+++ आऩ न्यासोपासनादिगळ् ऎल्लात्तुक्कुम् पॊदुव् आय् इरुक्कुम्। +++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+Similarly the knowledge of the relationship of being a śeṣa to the Lord  
+which arises from a study of the śāstra  
+is common to all forms of activity for mokṣa by refraining from the worldly life,  
+like bharanyāsa and upāsana or bhakti, 
+</details>
+
+<details><summary>Español</summary>
+
+Del mismo modo, el **conocimiento** de la relación de **ser** un Śeṣa para el Señor  
+que **surge** de un **estudio** del Śāstra  
+**es** común a todas las formas de actividad para mokṣa al **abstenerse** de la **vida** mundana,  
+como bharanyāsa y upāsana o bhakti,
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 शास्त्रजन्यमाऩ शेषत्वज्ञानमात्रम् निवृत्तिधर्मङ्गळाऩ न्यासोपासनादिगळॆल्लात्तुक्कुम् पॊदुवायिरुक्कुम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Similarly the knowledge of the relationship of being a śeṣa to the Lord which arises from a study of the śāstra is common to all forms of activity for mokṣa, by refraining from the worldly life, like bharanyāsa and upāsana or bhakti, Since the activity of the śeṣa, namely, service, is the extreme limit of the goal of attainment, it is certainly not possible to adopt any of the upāyas enjoined for mokṣa, without understanding the relationship of śeṣa to the Lord. Even if a man adopts the dharmas enjoined for the attainment of mokṣa without knowing this relationship of being a śeṣa, these dharmas or upāyas themselves will (in course of time) produce that knowledge of the relationship and will become the cause of mokṣa by making the adoption of the upāya perfect and complete. So the atmasamarpanam that is enjoined for performance is not the mere knowledge of the relationship of being a śeṣa; if it is asked what, then, it is, the answer is that it is the surrender of the responsibility for one's protection accompanied by such things as the knowledge of the relationship of being a śeṣa.
+शेष-वृत्ति-रूपम् आऩ कैङ्कर्यमे  
+मुमुक्षुवुक्कु पुरुषार्थ-काष्ठैय् आय् आगैयाले  
+शेषत्वम् अऱियादे मोक्षोपायम् अनुष्ठिक्कै घटियाद् इऱे। 
+</details>
+
+<details><summary>English</summary>
+
+Since the activity of the śeṣa,  
+namely, service, is the extreme limit of the goal of attainment,  
+it is certainly not possible to adopt any of the upāyas enjoined for mokṣa,  
+without understanding the relationship of śeṣa to the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+Desde la **actividad** del Śeṣa,  
+a saber, el **servicio** es el límite extremo del objetivo de logro,  
+Ciertamente **no es posible adoptar** ninguno de los upāyas **acompañados** de mokṣa,  
+**sin comprender** la relación de Śeṣa con el Señor.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शेषवृत्तिरूपमाऩ कैङ्कर्यमे मुमुक्षुवुक्कु पुरुषार्थकाष्ठैयायागैयाले शेषत्वमऱियादे मोक्षोपायमनुष्ठिक्कै घटियादिऱे। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शेषत्व-ज्ञानम् अऩ्ऱिक्के  
+मोक्षार्थम् आग विधित्त धर्मङ्गळैय् अनुष्ठित्ताऩ् आगिलुम्  
+इद्-धर्मङ्गळ् ताऩे शेषत्व-ज्ञानत्तैयुम् उण्डाक्कि  
+पूर्णानुष्ठान-मुखत्तालेय् इऱे मोक्ष-हेतुव् आवदु।
+</details>
+
+<details><summary>मूलम्</summary>
+
+शेषत्वज्ञानमऩ्ऱिक्के मोक्षार्थमाग विधित्त धर्मङ्गळैयनुष्ठित्ताऩागिलुम् इत्धर्मङ्गळ् ताऩे शेषत्वज्ञानत्तैयुमुण्डाक्कि पूर्णानुष्ठानमुखत्तालेयिऱे मोक्षहेतुवावदु।
+</details>
+
+
+Even if a man adopts the dharmas enjoined for the attainment of mokṣa without knowing this relationship of being a śeṣa, these dharmas or upāyas themselves will (in course of time) produce that knowledge of the relationship and will become the cause of mokṣa by making the adoption of the upāya perfect and complete. So the atmasamarpanam that is enjoined for performance is not the mere knowledge of the relationship of being a śeṣa; if it is asked what, then, it is, the answer is that it is the surrender of the responsibility for one's protection accompanied by such things as the knowledge of the relationship of being a śeṣa.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 

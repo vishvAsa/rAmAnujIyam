@@ -9,7 +9,7 @@ title = "पुण्ड्र-धारणम्"
 
 
 
-<div class="js_include" url="/rAmAnujIyam/prakIrNa-mantrAdi/padyam/chatush-chakram/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/prakIrNa-mantrAdi/padyam/chatush-chakram/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 इति च वाचयेत् ।

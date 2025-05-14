@@ -719,7 +719,7 @@ title = "०३ अष्टाक्षरजपविधिः"
 </details>
 
 
-<div class="js_include" url="/rAmAnujIyam/prakIrNa-mantrAdi/padyam/aShTAxara-RShyAdi-namaskAraH/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/prakIrNa-mantrAdi/padyam/aShTAxara-RShyAdi-namaskAraH/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -734,7 +734,7 @@ title = "०३ अष्टाक्षरजपविधिः"
 </details>
 
 
-<div class="js_include" url="/rAmAnujIyam/prakIrNa-mantrAdi/padyam/savyam_pAdam/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/prakIrNa-mantrAdi/padyam/savyam_pAdam/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
