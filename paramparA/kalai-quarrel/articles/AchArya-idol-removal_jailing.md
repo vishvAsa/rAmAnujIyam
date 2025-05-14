@@ -1,6 +1,7 @@
 +++
-title = "AchArya idol removal"
+title = "AchArya idol removal/ jailing"
 +++
+
 
 ## deshika-removal
 श्रीदेशिकनिष्कासने दश हस्त्या अङ्गुलयो दश पद्या अपर्याप्ता:
@@ -13,6 +14,13 @@ title = "AchArya idol removal"
 - तिरुप्पुल्लानि
 - ... अनुवर्तते
 
+> in mylapore when VD was taken out of keshava perumal koil to set up his own sannidhi since Tks won't allow vdks to to aradhanam to desikan, water mixed with cow dung were poured on the sripadam and desikan murti.  
+> 
+> Thooppul VD murti was taken out of garbhagrha and thrown into filth. There is a report by a sulla judge which decries it comparing it to what ghaznavi did. 
+> 
+> In srivi, Desikan murti was beheaded. U can see the broken murti in the sannidhi well even now. We have mellowed down now.
+> 
+> - ravilochanaH
 
 ### shrIvilliputtUr 1816
 

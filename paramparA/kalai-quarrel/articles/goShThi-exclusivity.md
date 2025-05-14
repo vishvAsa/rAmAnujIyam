@@ -7,10 +7,5 @@ title = "goShThi exclusivity"
 > - vijay
 
 
-> Villoor Nadadur Karunakarachariar was disallowed from participating in the veda ghosthi. 
-> 
-> Version 1 - by a young local boy for having visited the MM sannidhi just outside the temple.
->
-> Version 2 - thiruvahindapuram has just krama parayana and VSK swamy isn't a kramanta adhikari.
-
+> Villoor Nadadur Karunakarachariar was disallowed from participating in the ghosthi. VNK entered temple after paying respects to MM and when he joined the ghoshthi (may not be veda parayanam ghoshthi), a young teenage boy directed him with his finger to not join the ghoshthi.
 
