@@ -782,7 +782,7 @@ _मात्र_-पदेन पूर्वोदाहृत-वचनाव
 </details>
 
 
-<div class="js_include" url="/rAmAnujIyam/prakIrNa-mantrAdi/padyam/chatush-chakram/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/prakIrNa-mantrAdi/padyam/chatush-chakram/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 [[77]]
