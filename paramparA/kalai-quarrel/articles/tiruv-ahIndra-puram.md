@@ -1,0 +1,20 @@
++++
+title = "tiruv-ahIndra-puram"
++++
+
+## manavALa-muny-utsavaH
+
+> But, local people themselves have said during MM purappadu, their house doors would be shut & avar utsavam aan aDum, they'd pour water 😬  
+> there's a direction from court as to not shut Devanathan sannidhi's main dwaaram during his purappadu.  
+> - mukundaH
+
+
+> MM vigraha is neither there in the divyadesam temple nor does the murti enter the temple?
+> 
+> Actually that high court order was technically uncalled for. Purappadu happens post noon. No reason for temple to remain open esp since the deity doesn't enter the temple. But tk lawyers argued that this amounts to untouchability which was accepted by the bench of mahadevan. Behind closed doors, mahadevan stated that he gave the orders so as to enable better peace among the two sects. I don't understand how he thought this would happen 😃
+>
+> As for shutting doors, it happens to VD in some other places. Point is that if doors are open and you view the purappadu of an acharyan, you are supposed to come out and stand in respect. This closing of doors is claimed to be done to avoid this - by both sides wherever they do it.
+>
+> If real insult is to be given, people would be pouring water on streets to clear the kolam before purappadu. We do not seen it. Rather we can see some families actually put elaborate kolam before the purappadu. But they would shut the doors still.
+> 
+> - ravilochanaH

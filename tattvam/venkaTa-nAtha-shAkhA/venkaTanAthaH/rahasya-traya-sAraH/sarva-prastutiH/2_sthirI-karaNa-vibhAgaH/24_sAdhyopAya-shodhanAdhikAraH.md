@@ -3492,6 +3492,31 @@ Esto **es** evidente a partir de la autoridad de la orden (Vidhi) **contenida** 
 **ज्ञानान् मोक्षो विवक्षितः** ॥
 </details>
 
+<details><summary>English</summary>
+
+The instruction which states:- 
+
+> "From knowledge arises mokṣa", 
+
+should be understood in one of two ways:- 
+
+> Bhakti preceded by jñāna or knowledge leads to mokṣa  
+> or from jñāna or knowledge, which is of the nature of bhakti, results mokṣa (for bhakti is itself a form of knowledge).
+</details>
+
+<details><summary>Español</summary>
+
+La instrucción que **establece**:-
+
+> "Del conocimiento **surge** mokṣa",
+
+**debe entenderse** de una de dos maneras:-
+
+> Bhakti, **precedido** por jñāna o el **conocimiento**, **conduce** a mokṣa  
+> o de jñāna o **conocimiento**, que **es** de la naturaleza de bhakti, los **resultados** mokṣa  
+> (para bhakti **es** en sí misma una forma de **conocimiento**).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -3499,7 +3524,16 @@ Esto **es** evidente a partir de la autoridad de la orden (Vidhi) **contenida** 
 उपासनादिरूपाद्वा ज्ञानान्मोक्षो विवक्षितः ॥
 </details>
 
-The instruction which states:- "From knowledge arises mokṣa", should be understood in one of two ways:- Bhakti preceded by jñāna or knowledge leads to mokṣa or from jñāna or knowledge, which is of the nature of bhakti, results in mokṣa (for bhakti is itself a form of knowledge).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्र-जन्यम् आऩ शेषत्व-ज्ञान-मात्रम् निवृत्ति-धर्मङ्गळ् आऩ न्यासोपासनादिगळॆल्लात्तुक्कुम् पॊदुवायिरुक्कुम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+शास्त्रजन्यमाऩ शेषत्वज्ञानमात्रम् निवृत्तिधर्मङ्गळाऩ न्यासोपासनादिगळॆल्लात्तुक्कुम् पॊदुवायिरुक्कुम्। 
+</details>
+
 
 Similarly the knowledge of the relationship of being a śeṣa to the Lord which arises from a study of the śāstra is common to all forms of activity for mokṣa, by refraining from the worldly life, like bharanyāsa and upāsana or bhakti, Since the activity of the śeṣa, namely, service, is the extreme limit of the goal of attainment, it is certainly not possible to adopt any of the upāyas enjoined for mokṣa, without understanding the relationship of śeṣa to the Lord. Even if a man adopts the dharmas enjoined for the attainment of mokṣa without knowing this relationship of being a śeṣa, these dharmas or upāyas themselves will (in course of time) produce that knowledge of the relationship and will become the cause of mokṣa by making the adoption of the upāya perfect and complete. So the atmasamarpanam that is enjoined for performance is not the mere knowledge of the relationship of being a śeṣa; if it is asked what, then, it is, the answer is that it is the surrender of the responsibility for one's protection accompanied by such things as the knowledge of the relationship of being a śeṣa.
 
