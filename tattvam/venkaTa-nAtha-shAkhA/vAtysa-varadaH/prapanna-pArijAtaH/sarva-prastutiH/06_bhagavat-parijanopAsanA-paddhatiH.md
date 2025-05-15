@@ -52,10 +52,10 @@ I. 1. Then the goddess Lakshmi ought to be specially worshipped by a Prapanna, a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथाऽऽह भगवाञ् च्छास्त्रे  
-विष्वक्सेनाय शृण्वते-  
-“ लक्ष्म्यां मयि च युष्मासु  
-भक्तो यो भुवि दुर्लभः" ॥ ३ ॥
+यथा **ऽऽह** भगवाञ् च्छास्त्रे  
+विष्वक्सेनाय **शृण्वते**-  
+“लक्ष्म्यां मयि च युष्मासु  
+**भक्तो** यो भुवि **दुर्लभः**" ॥ ३ ॥
 </details>
 
 <details><summary>English</summary>
@@ -73,9 +73,9 @@ I. 1. Then the goddess Lakshmi ought to be specially worshipped by a Prapanna, a
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनन्तरं हरेः सर्वैर्  
-उपचारैः समाहितः ।  
-तद्वत् समर्चयेत् देवीं  
-देवदेवस्य वल्लभाम् ॥ ४ ॥
+उपचारैः **समाहितः** ।  
+तद्वत् **समर्चयेत्** देवीं  
+देव-देवस्य वल्लभाम् ॥ ४ ॥
 </details>
 
 <details><summary>English</summary>
@@ -95,7 +95,7 @@ I. 1. Then the goddess Lakshmi ought to be specially worshipped by a Prapanna, a
 अस्या वैभवम् **आख्याति**  
 तत्त्वतो हि (रत्ने) यथा हरिः ।  
 पर-व्यूहादिकान् पञ्च  
-प्रकारान् आत्मनो **वदन्** ‌-  
+प्रकारान् आत्मनो **वदन्** -  
 </details>
 
 <details><summary>English</summary>
@@ -118,7 +118,7 @@ The manifestations of God (Isvara) according to the Pancharatra sastras are five
 "तथा लक्ष्म्याः स्वरूपं च  
 वक्ष्ये शृणु समाहितः । (वि. सं.)  
 गुणतश् च स्वरूपेण  
-व्याप्तिस् साधारणी मता ॥
+व्याप्तिस् **साधारणी मता** ॥
 </details>
 
 <details><summary>English</summary>
@@ -141,7 +141,7 @@ The manifestations of God (Isvara) according to the Pancharatra sastras are five
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया यथा जगद् व्याप्तं  
-खरूपेण स्वभावतः ।  
+स्वरूपेण स्वभावतः ।  
 तया **व्याप्तम्** इदं **सर्वं**  
 नियन्त्री च तथेश्वरी ॥
 </details>
@@ -154,7 +154,7 @@ The manifestations of God (Isvara) according to the Pancharatra sastras are five
 
 <details><summary>मूलम्</summary>
 
-मया यथा जगद् व्याप्तं खरूपेण स्वभावतः ।  
+मया यथा जगद् व्याप्तं स्वरूपेण स्वभावतः ।  
 तया व्याप्तमिदं सर्वं नियन्त्री च तथेश्वरी ॥
 </details>
 
