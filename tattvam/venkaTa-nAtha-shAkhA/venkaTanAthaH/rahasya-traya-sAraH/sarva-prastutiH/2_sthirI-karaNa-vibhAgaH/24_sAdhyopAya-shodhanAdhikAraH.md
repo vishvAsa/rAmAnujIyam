@@ -3055,6 +3055,7 @@ El conocimiento de que uno **es** Śeṣa para el Señor
 **no es** en sí mismo Prapatti:
 </details>
 
+#### भ्रमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् इडत्तिले सिलर् 
@@ -3092,6 +3093,13 @@ has he not realised his relationship as śeṣa to Bhagavān ?
 
 इव्विडत्तिले सिलर् शास्त्रार्थतत्त्वं तॆळिन्दबोदे शेषत्वानुसन्धानम् पण्णिऩाऩऩ्ऱो; 
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इऩि शेषत्वज्ञानमात्रमे प्रपत्तियॆऩ्ऱु सॊल्लुगिऱ पक्षत्तै अनुवदित्तु परिहरिक्किऱार्  
+इव्विडत्तिले सिलर् ऎऩ्ऱु तुडङ्गि। 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3143,6 +3151,16 @@ y que esta relación **existe** para siempre por la misma naturaleza (de las cos
 
 ‘‘स्वोज्जीवनेच्छा यदि ते स्व सत्तायां स्पृहा यदि ।  
 आत्मदास्यं हरेस्स्वाम्यं स्वभावञ्च सदा स्मर॥’’
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+शास्त्रार्थतत्त्वम् तॆळिन्दबोदे - 
+
+> ‘‘ज्ञानानन्दमयस् त्व् आत्मा  
+शेषो हि परमात्मनः’’ 
+
+ऎऩ्गिऱबडि तऩ्ऩै परमात्मशेषऩागत् तॆळिन्दालुम्, इदऩाल् नमक्कु अपेक्षितङ्गळाऩ पुरुषार्थतदुपायङ्गळ् किट्टुमोवॆऩ्ऩ वरुळिच् चॆय्गिऱार् स्वोज्जीवनेच्छा यदीत्यादिना । 
 </details>
 
 
@@ -3201,6 +3219,11 @@ Y que esta relación **existe** por naturaleza."
 ऎऩ्ऱदुवुम् परमपुरुषार्थतदुपायङ्गळै वेण्डियिरुन्दायागिल् नी दासऩाय् ईश्वरऩ् स्वामियायिरुक्किऱदु स्वभावसिद्धमॆऩ्ऱु तत्त्वत्तिल् तॆळिवोडे वर्तियॆऩ्ऱबडियऩ्ऱो;
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इदऱ्कु पूर्वपक्ष्यभिप्रेतमाऩ अर्थत्तै यरुळिच्चॆय् किऱार् परमपुरुषार्थतदुपायङ्गळै वेण्डियिरुन्दायागिलिति । इन्द वचनत्तिल् स्वोज्जीवनेच्छा ऎऩ्गिऱ पदम् मुमुक्षापरमॆऩ्ऱुम्, स्वसत्तापदम् मोक्षोपायपरमॆऩ्ऱुम्, पूर्वपक्षि-यिऩभिप्रायम्। स्वभावसिद्धमॆऩ्ऱु इति । स्वभावञ्च ऎऩ्गिऱविडत्तिल् चकारम् अवधारणार्थक-मॆऩ्ऱु तिरुवुळ्ळम्। उभयं स्वाभाविकमॆऩ्ऱबडि। ऎऩ्ऱबडियऩ्ऱो इति । उऩक्कु मोक्षत्तिल् इच्चैयुमिरुन्दु तदुपायत्तिलुमासैयिरुन्दाल् भगवाऩ् स्वामियॆऩ्ऱुम्, नी अवऩुक्कु दासऩॆऩ्ऱुम् सर्वदा स्मरणम् पण्णु। इन्द शेषत्वानुसन्धानमे उपायमामॆऩ्ऱु सॊऩ्ऩबडियऩ्ऱो ऎऩ्ऱबडि। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3239,7 +3262,14 @@ Piden,
 आऩालिप्पोदुआत्मसमर्पणमॆऩ्ऱॊरु विधेयमुण्डोवॆऩ्ऱु सॊल्लुवार्गळ्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
 
+आऩाल् - इदु तत्त्वमाऩाल्, इप्पोदु -शास्त्रार्थतत्त्वम् तॆळिन्द पिऩ्बु। आत्मसमर्पणमॆऩ्ऱॊरु विधेयमुण्डोविति । भगवच्छेषत्वस्मरणम् तविर ज्ञातृत्वादिभिर्देहेन्द्रियविलक्ष्णोऽहं मदीयत्वेनाभितञ्च सर्वं तुभ्यमेव ऎऩ्गिऱाप्पोले भरन्याससहितमाऩ ऒरु विधेयज्ञानमुण्डो वॆऩ्ऱबडि। 
+</details>
+
+
+
+#### शाङ्करायणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदुवुम् 
@@ -3282,6 +3312,21 @@ por el mero **conocimiento** del texto del Śruti
 इदुवुम् वाक्यजन्यज्ञानमात्रत्ताले मोक्षमॆऩ्गै पोले अनादरणीयम्।  
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इदै परिहरिक्किऱार् इदुवुम् वाक्यजन्यज्ञानमात्रत्ताले मोक्षमॆऩ्गैबोले अनादरणीयमिति ।  
+‘‘तत्त्वमसि’’ ऎऩ्गिऱ वाक्यजन्यमाऩ अविधेयज्ञानत्ताल् मोक्षमॆऩ्ऱु सॊल्लुम् अद्वैतवादम् उपासनविधिवैयर्थ्यादि कळाले ऎप्पडि अनादरणीयमागवायिऱ्ऱो अप्पडिये अविधेयमाऩ शेषत्वज्ञानत्ताल् मोक्षमॆऩ्ऱु सॊल्लुम् वादमुम्  
+
+> ‘‘आत्मानं मयि निक्षिपेत्’’,  
+
+> ‘‘आत्मत्मीयभरन्यासो  
+ह्यात्मनिक्षेप उच्यत’’ 
+
+इति विधिवैयर्थ्यप्रसङ्गादिना सत्त्वस्थर्गळुक्कु अनादरणीयमॆऩ्ऱबडि। आत्मरक्षा भरसमर्पणमुम् आत्मापहारपापत्तिऱ्कु प्रायश्चित्तमाग शास्त्रत्तिल् विधिक्कप्पट्टदु। 
+</details>
+ 
+
+#### आत्मापहार-वारणम्, अधिकार-घटनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जित-कौस्तुभ-चौर्यस्य,  
@@ -3326,6 +3371,16 @@ la **rendición** de la responsabilidad (bharanyāsa) (al Señor)
 शिष्टं ह्यात्मापहारस्य निष्कृतिस्स्वभरार्पणम् ॥  
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इदऱ्कु हेदुवाय् इदैयनुष्टिक्कुम् अधिकारिक्कु विशेषणमाऩ परशेषत्वज्ञानमात्रमे आत्मापहारप्रायश्चित्तमागच् चॊल्लप्पडविल्लैयॆऩ्बदै इरण्डु कारिगैगळाल् सङ्ग्रहिक्किऱार् जितकौस्तुभेत्यादिना । जितं कौस्तुभचौर्यं येन सः जितकौस्तुभचौर्यः । ज्ञानानन्दमयमायुम्, अत एव निरतिशयभोग्यमायुम् ब्रह्मानुभवितृत्वप्रत्यक्त्वङ्गळाले कौस्तुभत्तैक्काट्टिलुम् उत्कृष्टमाऩ आत्माविऩुडैय अपहारमाऩदु कौस्तुभापहारत्तैक्काट्टिलुम् कॊडियदागैयाल् ‘‘अहं मम’’ ऎऩ्गिऱ इन्द आत्मापहारत्ताल् कौस्तुभापहारम् जयिक्कप्पट्टदॆऩ्ऱु करुत्तु। 
+
+अत एव सर्वपाप्मनां सम्राजः – महापातकत्तिल् प्रथमपरिगणितमाऩ स्वर्णापहारत्तैक्काट्टिलुम् सामान्यमाऩ रत्नापहारम् पाबत्तिल् उयर्न्ददु।  
+अदिलुम् उयर्न्ददु भगवद्वक्षस्थलत्तिलिरुक्कुम् कौस्तुभत्तिऩ् अपहारम्। अदैयुम् जयित्तिरुप्पदाल् आत्मापहारम् ऎल्ला पाबङ्गळुक्कुम् सम्राट् ऎऩ्ऱबडि।  
+शिष्टमिति । अप्पडिप्पट्ट आत्मापहारत्तिऱ्कु, निष्कृतिः – प्रायश्चित्तमाग, स्वभरार्पणं – तऩ्ऩुडैय भरसमर्पणम्, शिष्टं – विधिक्कप्पट्टदु। तथाच विधेयमाऩ तऩ्ऩुडैय भरसमर्पणमे आत्मापहारचौर्यत्तिऱ्कु प्रायश्चित्तमाग शास्त्रङ्गळिल् चोदितमागै याले अदुवे अनुष्ठेयमॆऩ्ऱु करुत्तु। आत्मापहारमावदु आत्मकर्मकात्मकर्तृकापहारम्। तऩ्ऩै स्वतन्त्रऩाग निऩैत्तिरुक्कै यॆऩ्ऱबडि। एतेन  
+स्वभरार्पणमिति शब्दस्यानन्वय प्रसङ्गमिल्लै। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -3364,12 +3419,18 @@ que **califica** la Prapanna,
 पश्चादात्मापहारस्य निरोधाय च कल्पते ॥
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+परशेषत्वेति । भगवच्छेषत्वज्ञानमाऩदु प्रपत्तिक्कु मुऩ्बु तदधिकारिक्कु विशेषण-कोटिप्रविष्टमाय् प्रपत्तिक्कुप् पिऩ्बुम् आत्मपहाररूपदोषम् वारामैक्कु हेतुवायिरुक्कु मॆऩ्बदु इदिऩर्थम्। इदऩाल् शास्त्रजन्याविधेयशेषत्वज्ञानमाऩदु अधिकारकोटिप्रविष्टमाय् भरसमर्पणरूपमाऩ अङ्गिक्कु प्रयोजकमाय् भरसमर्पणानन्तरम् आत्मापहारप्रतिबन्धकमाऩालुम् अदुवे आत्मापहारचौर्यत्तिऱ्कु प्रायश्चित्तमागादु ऎऩ्ऱु ज्ञापितम्।  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शेषत्वादि-विशिष्टम् आऩव् आत्म-तत्त्वत्तै  
 शास्त्रत्ताले तॆळिन्दवऩुक्कु  
 
+अधिकार-विशेषत्तोडुम् परिकर-विशेषत्तोडुम् फल-सङ्कल्प-विशेषत्तोडुङ् गूडिऩ  
 शेषत्व-प्रतिसन्धान-गर्भम् आऩ स्वात्म-रक्षा-भर-न्यासम् इऱे 
 
 अनाद्य्-अपराध-मूल-निग्रह-निवृत्तिक्क् उपायम् आग विधिक्कप् पडुगिऱव् आत्म-समर्पणम्। 
@@ -3425,6 +3486,36 @@ para la **remisión** del castigo **resultante** de los pecados interminables
 शेषत्वादिविशिष्टमाऩ वात्मतत्त्वत्तै शास्त्रत्ताले तॆळिन्दवऩुक्कु शेषत्वप्रतिसन्धानगर्भमाऩ स्वात्मरक्षाभरन्यासमिऱे अनाद्यपराधमूलनिग्रहनिवृत्तिक्कुपाय-माग विधिक्कप्पडुगिऱवात्मसमर्पणम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+मुदल् कारिगैयिऩुडैय अर्थत्तै विशदीकरिक्किऱार् शेषत्वादिविशिष्टमाऩ आत्मतत्त्वत्तै शास्त्रत्ताले तॆळिन्दवऩुक्कु इत्यादिना ।  
+तॆळिन्दवऩुक्के विधेयान्तरम् सॊल्लुगैयाल् शास्त्रत्तिऩ् तॆळिवु मात्तिरम् उपायमागादु ऎऩ्ऱु सूचितम्।  अधिकारविशेषत्तोडुम् - आकिञ्चन्याधिकारत्तोडु मॆऩ्ऱबडि।  परिकरविशेषत्तोडुम् - आनुकूल्याद्यङ्गङ्गळोडुम्, फल 
+सङ्कल्पविशेषत्तोडुम् - मोक्षार्थमाग भरसमर्पणं करिष्ये ऎऩ्गिऱ फल सङ्कल्पविशेषत्तोडुम्, कूडिऩ - सेर्न्ददाऩ, शेषत्वप्रतिसन्धानगर्भमाऩ -  
+
+> ‘‘अनेनैव तु मन्त्रेण  
+स्वात्मानं मयि निक्षिपेत्’’ 
+
+ऎऩ्ऱु विहितमाऩ 
+
+> ‘‘देहेन्द्रिय-विलक्षणोऽहं तुभ्यम् एव’’ 
+
+ऎऩ्गिऱ स्वरूपसमर्पणरूपशेषत्वप्रतिसन्धानत्तोडु कूडियदाऩ,  
+स्वरक्षा-भर-न्यासम् इऱे - 
+
+> ‘‘आत्मात्मीयभरन्यासो  
+> ह्यात्मनिक्षेप उच्यते’’ 
+
+ऎऩ्गिऱ प्रमाणत्तिल् प्रतिपन्नमाऩ  
+
+> ‘‘मद्-रक्षण-भरस् तुभ्यम् एव’’ 
+
+ऎऩ्गिऱ स्वात्मरक्षाभरसमर्पणमे ऎऩ्ऱबडि। 
+
+अनाद्यपराधमूलनिग्रहनिवृत्तिक्कु उपायमाग विधिक्कप्पडुगिऱ आत्मसमर्पणमिति । इन्द भरन्यासरूपात्मसर्पणमिल्लाविडिल् केवलशेषत्वज्ञानमात्रत्ताल् अनाद्यपराधमूल निग्रहम् निवृत्तिक्क वऴियिल्लैयॆऩ्ऱु करुत्तु। 
+</details>
+
+
+#### विधौ पर्यवसानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तत्त्व-ज्ञानत्ताले मोक्षम् 
@@ -3474,6 +3565,10 @@ Esto **es** evidente a partir de la autoridad de la orden (Vidhi) **contenida** 
 तत्त्वज्ञानत्ताले मोक्षमॆऩ्गिऱविदुवुम् ऒरु उपायानुष्ठानत्तै मुऩ्ऩिट्टॆऩ्ऩुमिडम् ‘‘भजस्व मां, मामेकं शरणं व्रजे’’ त्यादि विधिबलप्राप्तम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+तत्त्वज्ञानत्ताल् मोक्षमॆऩ्ऱु शास्त्रम् सॊल्लियिरुप्पदाल् शास्त्रजन्यशेषत्वज्ञानमात्रत्ताले मोक्षम् वरवेण्डावो ऎऩ्ऩ वरुळिच्चॆय्गिऱार् तत्त्वज्ञानत्तालेयित्यादिना । ऒरु उपायानुष्ठानत्तै मुऩ्ऩिट्टु ऎऩ्ऩुमिडमिति । तत्त्वज्ञानात् मोक्षमॆऩ्गिऱविडत्तिल् तत्त्वज्ञानपदम् केवलशास्त्रजन्य शेषत्वज्ञानपरमागिल् अदु भक्तिप्रपत्त्यन्यतरानुष्ठापनद्वारकमागवे मोक्षजनकमॆऩ्ऱे सॊऩ्ऩदागुमॆऩ्ऱबडि। अदऱ्कु नियामकमरुळिच्चॆय्गिऱार् भजस्व मां, मामेकं शरणं व्रजेत्यादि विधिबलप्राप्तमिति । तत्त्वज्ञानात् मोक्षमॆऩ्गिऱविडत्तिल् शास्त्रजन्य शेषत्वज्ञानत्तिऱ्कु साक्षात् मोक्षजनकत्वत्तै ऒप्पुक्कॊण्डाल् ‘‘भजस्व मां, मामेकं शरणं व्रजे’’ त्यादि विधिकळुक्कु वैयर्थ्यम् वरुमॆऩ्ऱु करुत्तु। 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
@@ -3524,11 +3619,22 @@ La instrucción que **establece**:-
 उपासनादिरूपाद्वा ज्ञानान्मोक्षो विवक्षितः ॥
 </details>
 
+
+
+#### निवृत्तौ साधारणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शास्त्र-जन्यम् आऩ शेषत्व-ज्ञान-मात्रम्  
 निवृत्ति-धर्मङ्गळ् +++(ततः शेषत्व-केन्द्रिताः)+++ आऩ न्यासोपासनादिगळ् ऎल्लात्तुक्कुम् पॊदुव् आय् इरुक्कुम्। +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२०८]]  
+
+शास्त्रजन्यं शेषत्व-ज्ञान-मात्रं निवृत्ति-धर्माणां न्यासोपासनादीनां सर्वेषां साधारणं भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3559,6 +3665,14 @@ como bharanyāsa y upāsana o bhakti,
 शेषत्वम् अऱियादे मोक्षोपायम् अनुष्ठिक्कै घटियाद् इऱे। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+शेष-वृत्ति-रूप-कैङ्कर्यस्यैव मुमुक्षोः पुरुषार्थ-काष्ठत्वात्  
+शेषत्व-ज्ञानं विना मोक्षोपायानुष्ठानं  
+न घटेत किल । 
+</details>
+
+
 <details><summary>English</summary>
 
 Since the activity of the śeṣa,  
@@ -3586,8 +3700,18 @@ Ciertamente **no es posible adoptar** ninguno de los upāyas **acompañados** de
 शेषत्व-ज्ञानम् अऩ्ऱिक्के  
 मोक्षार्थम् आग विधित्त धर्मङ्गळैय् अनुष्ठित्ताऩ् आगिलुम्  
 इद्-धर्मङ्गळ् ताऩे शेषत्व-ज्ञानत्तैयुम् उण्डाक्कि  
-पूर्णानुष्ठान-मुखत्तालेय् इऱे मोक्ष-हेतुव् आवदु।
+पूर्णानुष्ठान-मुखत्तालेय् इऱे मोक्ष-हेतुव् आवदु।+++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शेषत्वज्ञानं विना  
+मोक्षार्थं विहितानां धर्माणाम् अनुष्ठानेऽपि  
+
+त एव धर्माः स्वयं शेषत्व-ज्ञानम् उत्पाद्य  
+पूर्णानुष्ठान-मुखेन किल मोक्ष-हेतवो भवन्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3614,15 +3738,119 @@ Haciendo la adopción de la upāya perfecta y completa.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् इङ्गु विधेयम् आऩ समर्पणम्  
+शेषत्व-ज्ञान-मात्रम् अऩ्ऱु; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतोऽत्र विधेयं समर्पणं  
+न शेषत्व-ज्ञान-मात्रम् ॥ 
+</details>
 
 
-So the atmasamarpanam that is enjoined for performance is not the mere knowledge of the relationship of being a śeṣa; if it is asked what, then, it is, the answer is that it is the surrender of the responsibility for one's protection accompanied by such things as the knowledge of the relationship of being a śeṣa.
+<details><summary>English</summary>
+
+So the atmasamarpanam that is enjoined for performance is not the mere knowledge of the relationship of being a śeṣa; 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, el atmasamarpanam que **está ordenado** para el **rendimiento no es** el mero **conocimiento** de la relación de ser un Śeṣa;
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् इङ्गु विधेयमाऩ समर्पणम् शेषत्वज्ञानमात्रमऩ्ऱु; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"मऱ्ऱ् ऎद्?" ऎऩ्ऩिल्;  
+शेषत्व-ज्ञानादि-युक्तम् आऩ स्व-रक्षा-भर-न्यासम्।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> किम् अन्यद्? 
+
+इति चेत् --  
+शेषत्व-ज्ञानादि-युक्तः स्व-रक्षा-भर-न्यासः ।  
+</details>
+
+
+<details><summary>English</summary>
+
+if it is asked 
+
+> what, then, it is?, 
+
+the answer is that  
+it is the surrender of the responsibility for one's protection  
+accompanied by such things as the knowledge of the relationship of being a śeṣa.
+</details>
+
+<details><summary>Español</summary>
+
+Si **se le pregunta**
+
+> ¿Qué, entonces, **es**?,
+
+La **respuesta es** que
+**Es** la **rendición** de la responsabilidad de la **protección** de uno  
+**acompañado** de cosas como el **conocimiento** de la relación de **ser** un śeṣa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱॆदॆऩ्ऩिल्; शेषत्वज्ञानादियुक्तमाऩ स्वरक्षाभरन्यासम्।  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-वाक्यमात्रेण सिद्धत्वात्सिद्धोपाय इहोच्यते ।  
-प्रपत्तिरिति वादोऽपि विधिनात्र विहन्यते ॥
+"वाक्य-मात्रेण सिद्धत्वात्  
+सिद्धोपाय **इहोच्यते** ।  
+प्रपत्तिर्" इति **वादो** ऽपि  
+**विधिना** ऽत्र **विहन्यते** ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"वाक्य-मात्रेण सिद्धत्वात्  
+सिद्धोपाय **इहोच्यते** ।  
+प्रपत्तिर्" इति **वादो** ऽपि  
+**विधिना** ऽत्र **विहन्यते** ॥
+</details>
+
+
+<details><summary>English</summary>
+
+The contention that 
+
+> the particular kind of knowledge called prapatti  
+results merely from the sentences or passages of the śāstra,  
+that it is, on that account, called siddhopāya  
+and that it is not an upāya to be accomplished by a certain activity 
+
+-- this contention also is refuted by the injunction or vidhi (saranam vraja).
+</details>
+
+<details><summary>Español</summary>
+
+La **afirmación** de que
+
+> El tipo particular de **conocimiento llamado** Prapatti
+**resultados** simplemente de las **oraciones** o pasajes del Śāstra,  
+que **es**, por esa cuenta, **llamado** Siddhopāya
+y que **no es** un upāya **lograr** por una determinada **actividad**
+
+- Esta **afirmación** también **es refutada** por la **orden** o Vidhi (Saranam Vraja).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -3630,11 +3858,173 @@ So the atmasamarpanam that is enjoined for performance is not the mere knowledge
 प्रपत्तिरिति वादोऽपि विधिनात्र विहन्यते ॥
 </details>
 
-The contention that the particular kind of knowledge called prapatti results merely from the sentences or passages of the śāstra, that it is, on that account, called siddhopāya and that it is not an upāya to be accomplished by a certain activity -- this contention also is refuted by the injunction or vidhi (saranam vraja).
+#### विधि-स्वारस्य-रक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-If it is argued that “śaranam vraja”[ "seek protection" ] merely means “Know this truth (that the Lord is the Saviour)", the answer is that it is opposed to the natural and obvious meaning of the words. It would also be against the plain and explicit rules or vidhis for the performance of prapatti as in the sentence: "Perform this prapatti accompanied by its five accessories or aṅgas." If it is held that what is intended in the Carama śloka is merely this, that Iśvara is the upāya for mokṣa and that no activity is enjoined in this śloka for the man who wants mokṣa, it would mean that it is merely the teaching of a truth that is needed for bhakti yoga, which is the subject treated in that context. (The Carama śloka would then cease to have anything to do with prapatti),
+> > ‘‘शरणं व्रज’’ 
+> 
+> ऎऩ्गिऱव् इदु 
+> 
+> > ‘‘इमम् अर्थं जानीहि’’ 
+> 
+> ऎऩ्गिऱ मात्रम् आय्  
+> ऒरु कर्तव्योपाय-विधि-परम् अऩ्ऱिक्केय् ऒऴिन्दालोव् 
+
+ऎऩ्ऩिल्;  
+
+इदु शब्द-स्वारस्य-विरुद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+>> "शरणं व्रज" 
+>
+> इत्येतत्  
+>
+> "इमम् अर्थं जानीहि"
+>
+> इत्य् एतावन्-मात्रं सत्  
+कर्तव्योपायविधिपरतां विनैव किं न स्याद्? 
+
+इति चेत्-  
+इदं शब्द-स्वारस्य-विरुद्धम्। 
+</details>
+
+
+<details><summary>English</summary>
+
+If it is argued that  
+“śaranam vraja”[ "seek protection" ] merely means  
+
+> “Know this truth (that the Lord is the Saviour)", 
+
+the answer is that  
+it is opposed to the natural and obvious meaning of the words. 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se argumenta** que
+"Śaranam vraja" ["buscar protección"] simplemente **significa**
+
+> "**Sepa** esta verdad (que el Señor **es** el Salvador)",
+
+La **respuesta es** que  
+**Se opone** al significado natural y **obvio** de las palabras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘शरणं व्रज’’ ऎऩ्गिऱविदु ‘‘इममर्थं जानीहि’’ ऎऩ्गिऱ मात्रमाय् ऒरु कर्तव्यो-पायविधिपरमऩ्ऱिक्केयॊऴिन्दालोवॆऩ्ऩिल्; इदु शब्दस्वारस्यविरुद्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘प्रपत्तिं तां प्रयुञ्जीत  
+> स्वाङ्गैः पञ्चभिर् आवृताम्’’  
+
+इत्य्-आदिगळ् आऩ स-परिकर-स्फुटतर-प्रपत्ति-विधिगळोडुम् विरोधिक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘प्रपत्तिं तां प्रयुञ्जीत  
+> स्वाङ्गैः पञ्चभिर् आवृताम्’’  
+
+इत्य्-आदिभिः स-परिकर-स्फुटतर-प्रपत्ति-विधिभिश् च विरुध्येत । 
+</details>
+
+<details><summary>English</summary>
+
+It would also be against the plain and explicit rules or vidhis  
+for the performance of prapatti as in the sentence: 
+
+> "Perform this prapatti  
+> accompanied by its five accessories or aṅgas." 
+</details>
+
+<details><summary>Español</summary>
+
+También **estaría en contra** de las reglas simples y explícitas o vidhis  
+Para el **rendimiento** de Prapatti como en la **oración**:
+
+> "**Realizar** este Prapatti
+> **Acompañado** de sus cinco accesorios o AṅGas ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रपत्तिं तां प्रयुञ्जीत स्वाङ्गैः पञ्चभिरावृताम्’’  इत्यादिगळाऩ सपरिकरस्फुटतरप्रपत्तिविधिकळोडुम् विरोधिक्कुम्। 
+</details>
+
+##### चरमश्लोके प्रपत्ति-विधिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ईश्वरऩ् मोक्षोपायम्" ऎऩ्गिऱव् इव्व्-अळवेय्  
+इङ्गु वक्तव्यम् आय्  
+मोक्षाधिकारिक्कु +++(प्रपत्ति-रूप-)+++विधेयान्तरम् अऩ्ऱिक्केय् ऒऴिन्दाल्  
+इव्व्-इडम् प्रस्तुतम् आऩ भक्ति-योगत्तुक्क् अपेक्षितम् आऩ तत्त्वोपदेश-मात्रम् आम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"ईश्वरो मोक्षोपाय" इत्य् एतावन्-मात्रस्यात्र वक्तव्यत्वे  
+मोक्षाधिकारिणो +++(प्रपत्ति-रूप-)+++विधेयान्तरे चासति  
+इदं प्रस्तुत-भक्ति-योगापेक्षित-तत्त्वोपदेश-मात्रं संपद्येत । 
+</details>
+
+
+<details><summary>English</summary>
+
+If it is held that what is intended in the Carama śloka is merely this, that 
+
+> Iśvara is the upāya for mokṣa  
+and that no activity is enjoined in this śloka for the man who wants mokṣa, 
+
+it would mean that  
+it is merely the teaching of a truth  
+that is needed for bhakti yoga,  
+which is the subject treated in that context.  
+(The Carama śloka would then cease to have anything to do with prapatti).
+</details>
+
+<details><summary>Español</summary>
+
+Si **se sostiene** que lo que **se pretende** en el Carama Śloka **es** simplemente esto, eso
+
+> Iśvara **es** el upāya para mokṣa  
+y que **no se ordena ninguna actividad** en este Śloka para el hombre que **quiere** mokṣa,
+
+**significaría** que  
+**es** simplemente la **enseñanza** de una verdad  
+que **se necesita** para bhakti yoga,  
+que **es** el tema **tratado** en ese contexto.  
+(El Carama Śloka **dejaría de tener** algo que **ver** con Prapatti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩ् मोक्षोपायमॆऩ्गिऱविव्वळवेयिङ्गु वक्तव्यमाय् मोक्षाधिकारिक्कु विधेयान्तरमऩ्ऱिक्केयॊऴिन्दाल् इव्विडम् प्रस्तुतमाऩ भक्तियोगत्तुक्कपेक्षितमाऩ तत्त्वोपदेशमात्रमाम्। 
+</details>
+
+
+### न यत्नाद् विरतिर् एव
+<details><summary>English</summary>
 
 REFRAINING FROM ONE'S OWN ACTIVITY IS NOT IN ITSELF PRAPATTI:
+</details>
+
+<details><summary>Español</summary>
+
+**Abstenerse** de la propia **actividad no es** en sí mismo Prapatti:
+</details>
+
+
+
 
 There are some who hold that prapatti is merely refraining from one's own activity for protecting oneself and that what is enjoined for its accomplishment is only the abandonment of all dharmas or upāyas. The answer to this view is as follows:- Even though it is abstention, this abandonment of all dharmas is itself an activity or dharma of the person for his own protection (and this would be inconsistent with their own words). Further this view is in conflict also with the passage (quoted above) enjoining the performance of prapatti with its five aṅgas.
 
