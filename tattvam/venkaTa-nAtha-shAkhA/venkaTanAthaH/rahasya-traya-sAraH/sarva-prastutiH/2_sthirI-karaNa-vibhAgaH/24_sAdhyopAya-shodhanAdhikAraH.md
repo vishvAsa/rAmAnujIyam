@@ -3589,19 +3589,34 @@ Ciertamente **no es posible adoptar** ninguno de los upāyas **acompañados** de
 पूर्णानुष्ठान-मुखत्तालेय् इऱे मोक्ष-हेतुव् आवदु।
 </details>
 
+<details><summary>English</summary>
+
+Even if a man adopts the dharmas enjoined for the attainment of mokṣa  
+without knowing this relationship of being a śeṣa,  
+these dharmas or upāyas themselves will (in course of time) produce that knowledge of the relationship  
+and will become the cause of mokṣa  
+by making the adoption of the upāya perfect and complete. 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso si un hombre adopta los dharmas en el logro del logro de mokṣa
+sin conocer esta relación de ser un Śeṣa,
+Estos dharmas o upāyas mismos producirán (con el tiempo) ese conocimiento de la relación
+y se convertirá en la causa de mokṣa
+Haciendo la adopción de la upāya perfecta y completa.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 शेषत्वज्ञानमऩ्ऱिक्के मोक्षार्थमाग विधित्त धर्मङ्गळैयनुष्ठित्ताऩागिलुम् इत्धर्मङ्गळ् ताऩे शेषत्वज्ञानत्तैयुमुण्डाक्कि पूर्णानुष्ठानमुखत्तालेयिऱे मोक्षहेतुवावदु।
 </details>
 
-पङ्गयत्ताळ् तिरुवरुळुम् ऎण्ड्रु मुदलिल् कूऱप्पट्टिरुन्दाल्  
-पुरुषगार-पूदैयिन् अरुळ् ऎण्ड्रु कल्प्पिक्कप् पार्प्पर्।  
-अदनाल् ऎम्बॆरुमान् तिरुवुळ्ळत्तिऱ्‌कुप् पिन्ने  
-इवळ्-अरुळैयुम् सेर्त्तदाल्  
-अवन्-अरुळाल् वरुम् पलनुक्के नेराग  
-इवळरुळुम् कारणमॆण्ड्रदायिट्रु।
 
-Even if a man adopts the dharmas enjoined for the attainment of mokṣa without knowing this relationship of being a śeṣa, these dharmas or upāyas themselves will (in course of time) produce that knowledge of the relationship and will become the cause of mokṣa by making the adoption of the upāya perfect and complete. So the atmasamarpanam that is enjoined for performance is not the mere knowledge of the relationship of being a śeṣa; if it is asked what, then, it is, the answer is that it is the surrender of the responsibility for one's protection accompanied by such things as the knowledge of the relationship of being a śeṣa.
+
+
+So the atmasamarpanam that is enjoined for performance is not the mere knowledge of the relationship of being a śeṣa; if it is asked what, then, it is, the answer is that it is the surrender of the responsibility for one's protection accompanied by such things as the knowledge of the relationship of being a śeṣa.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
