@@ -35,7 +35,7 @@ It has been said :- "The Lord of the yellow raiment has incarnated as the guru t
 'पीदगवाडैप् पिराऩार् पिरमगुरुवागि वन्दु'(पॆरियाऴ्वार् तिरुमॊऴि ५-२-८) 
 </details>
 
-<details><summary>सार-बोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 पीदगवाडैप्पिराऩार् - पीताम्बरधारियाऩ महोपकारकऩ्। पिरमगुरुवागि वन्दु - ब्रह्मोपदेष्टावाऩ आचार्यऩागवन्दु ऎऩ्गै। 
 </details>
@@ -69,7 +69,7 @@ y **tenen** un **conocimiento** claro de (la verdad).
 ऎऩ्ऩुम्बडि निऱ्किऱ तॆळिवुडैय परमैकान्तिकळ् पक्कलिले 
 </details>
 
-<details><summary>सार-बोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 ऎऩ्ऩुम्बडि निऱ्किऱ - भगवाऩे आचार्यऩाग वन्दाऩ् ऎऩ्ऱु सॊल्लुम्बडि निऱ्किऱ। 
 तॆळिवुडैय - विशदज्ञानमुडैय 
@@ -128,7 +128,7 @@ y **tenen** un **conocimiento** claro de (la verdad).
 </details>
 
 
-<details><summary>सार-बोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 आचार्यानुवर्तनत्तै अरुळिच्चॆय्गिऱार् तद्विद्धीत्यादिना । प्रणिपातेन – पुनः पुनः प्रणामेन । परिप्रश्नेन – उचितकालत्तिल् अपेक्षितार्थत्तिऩुडैय पुनःपुनः प्रश्नत्तालेयुम्। सेवया – शुश्रूषैयालुम्। तत् ज्ञानं विद्धीत्यन्वयः । 
 </details>
@@ -163,7 +163,7 @@ by following the injunction contained in the (above) śloka  -
 ऎऩ्गिऱ कट्टळैयिले तॆळियक्केट्टु,  
 </details>
 
-<details><summary>सार-बोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 ऎऩ्गिऱ कट्टळैयिले - ऎऩ्गिऱ शास्त्रीयनियमप्पडि। तॆळियक्केट्टु - अज्ञान संशयविपर्ययमऩ्ऱिक्के अतिविशदमागक्केट्टु। 
 </details>

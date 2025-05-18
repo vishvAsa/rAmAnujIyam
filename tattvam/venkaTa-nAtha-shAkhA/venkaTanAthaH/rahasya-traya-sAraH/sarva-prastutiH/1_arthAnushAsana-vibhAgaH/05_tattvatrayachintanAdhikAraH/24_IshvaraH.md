@@ -679,7 +679,7 @@ and art meditated upon with attributes and weapons suited to each."
 [^37]: This śloka cannot be understood without the account given in the Appendix.
 </details>
 
-<details><summary>सार-बोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 इप्पडि त्रिव्यूहपक्षत्तिल् प्रमाणत्तैक्काण्बित्तु पुनरपि चातुर्व्यूहविशेषसंग्राहकमाऩ श्रीपराशरभट्टरुडैय श्लोकत्तैयरुळिच्चॆय्गिऱार् जाग्रदिति ।  
 इन्द श्लोकत्तिल् सदृशार्थम् आऩ प्राय-शब्दं द्वन्द्वान्त-स्थम् आगैयाल् जाग्रद्-आदि-प्रत्येकङ्गळिल् अन्वयिक्किऱदु.  
@@ -972,7 +972,7 @@ Among them, there are varied manifestations which are countless.
 So has it been said, "The [^f163] forms of Kṛṣṇa are innumerable"
 </details>
 
-<details><summary>सार-बोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 इवैगळ् अनन्तङ्गळॆऩ्ऱु सप्रमाणमरुळिच् चॆय्गिऱार् ‘‘कृष्णरूपाण्यसङ्ख्यानि’’ इत्यादिगळिऱ्पडिये अनन्तङ्गळ् इति ।  
 लक्ष्मीनृसिंहऩ् योगानन्दनृसिंहऩ् चतुर्भुजाष्टभुजनृसिंहऩ् इत्यादि नृसिंहभेदङ्गळुम्  
