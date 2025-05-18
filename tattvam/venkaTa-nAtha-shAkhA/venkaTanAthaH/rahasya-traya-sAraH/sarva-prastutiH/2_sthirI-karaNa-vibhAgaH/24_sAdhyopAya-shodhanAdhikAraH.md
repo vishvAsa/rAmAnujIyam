@@ -4304,18 +4304,292 @@ Esta vista **se basa** en el **razonamiento** falaz.
 इप्-प्रसङ्गङ्गळ् वरुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतेषु सत्-तर्कत्वाभिमाने,  
+उपासने ऽभ्युपगतेषु साधन-भावादिष्व् अपि  
+एते प्रसङ्गाः प्रवर्तेरन् ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+If it were considered sound reasoning,  
+it would mean that, even in upāsana,  
+whatever is accepted as auxiliary should be rejected as unnecessary.
+</details>
+
+<details><summary>Español</summary>
+
+Si **se considerara** un razonamiento sólido,  
+**significaría** que, incluso en upāsana,  
+Lo que **sea aceptado** como auxiliar debe **ser rechazado** como innecesario.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इवऱ्ऱै सत्तर्कङ्गळाग निऩैक्किल्उपासनत्तुक्किसैन्द साधनभावादिगळिलुमिप्प्रसङ्गङ्गळ् वरुम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उपासनन् दाऩुम् साधनम् अऩ्ऱ् 
+
+ऎऩ्ऩिल्;  
+
+> ‘‘सर्वधर्मान् परित्यज्य’’ 
+
+ऎऩ्गिऱव् इडत्तिल्  
+उपासनत्तैयुम् धर्म-शब्दार्थमाग व्याख्यानम् पण्णुगैयाले स्ववचन-विरोधम् उण्ड् आम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"उपासनम् अपि साधनं ने"ति चेत्,  
+"सर्वधर्मान् परित्यज्य" इत्य्-अत्रोपासनस्यापि धर्म-शब्दार्थत्वेन व्याख्यानात्  
+स्व-वचन-विरोधः स्यात् ॥ 
+</details>
 
 
-If it were considered sound reasoning,  
-it would mean that, even in upāsana,  
-whatever is accepted as auxiliary should be rejected as unnecessary.
+<details><summary>English</summary>
 
-If it were further argued that even upāsana is not a means or upāya, it would be inconsistent with what has been stated elsewhere by those who hold this view, for while commenting on the passage, "Having given up all dharmas, seek refuge under me", they interpret the word dharma as upāsana or upāya for the attainment of mokṣa. If they contend that in order to remove Arjuna's haughtiness, Śrī Kṛṣṇa prescribes unnecessary burdens and uses the word dharma to mean what Arjuna, in his delusion or inability to understand the real purport of the teaching, considers as necessary upāyas in the phrase "all dharmas", (the answer is as follows):It is stated (in Yagnyavalkya Smṛti 1-8):-- "The adoration of the Lord, personal purity, control of the senses, non-violence, giving in charity, repeating the Vedas, other Vedic rites - among all these, having a vision of the Supreme Being by karına yoga, jñāna yoga and bhakti yoga is the highest dharma". Again it is said - "Among all dharmas, the dharma which consists in the adoration of Viṣṇu is the highest, for He protects His devotee as if he were His own body"; and farther, "There is no other karma" enjoined in the Vedas for the expiation of sins than the adoration of Viṣṇu". If those well-known dharmas which are described as supreme and which are activities for mokṣa of the nature of abstention from worldly action, are stated to be no dharmas, much more so would the dharmas prescribed for worldly ends cease to be dharmas, and none of the śāstras would carry any authority or weight. Those who hold those views would then line up with atheists and heretics.
+If it were further argued that even upāsana is not a means or upāya,  
+it would be inconsistent with what has been stated elsewhere by those who hold this view,  
+for while commenting on the passage,  
+
+> "Having given up all dharmas,  
+seek refuge under me", 
+
+they interpret the word dharma as upāsana or upāya for the attainment of mokṣa. 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se argumentó** además que incluso Upāsana **no es** un medio o upāya,  
+**Sería inconsistente** con lo que **ha sido declarado** en otra parte por aquellos que **tienen** este punto de **vista**,  
+para mientras **comenta** sobre el pasaje,
+
+> "**Habiendo renunciado** a todos los dharmas,  
+**buscar** refugio debajo de mi ",
+
+**Interpretan** la palabra dharma  
+como upāsana o upāya para el **logro** de mokṣa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपासनन्दाऩुम् साधनमऩ्ऱॆऩ्ऩिल्; ‘‘सर्वधर्मान् परित्यज्य’’ ऎऩ्गिऱविडत्तिलुपासनत्तैयुम् धर्मशब्दार्थमाग व्याख्यानम् पण्णुगैयाले स्ववचन विरोधमुण्डाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सॆरुक्क्+++(=गर्व)+++ अडक्कुगैक्क्+++(=दमनार्थम्)+++ आग  
+वेण्डाच् चुमैगळैय्+++(=भारम्)+++ ऎडुत्तुगैयाले  
+अन्य+++(→अर्जुनेतर)+++-परम् आऩव् उपदेशत्ताले  
+पिऱन्दव् अर्जुनऩ् बुद्धियाले  
+धर्मम् ऎऩ्ऱु तोऱ्ऱिऩ् अवऱ्ऱै  
+‘‘सर्वधर्मान्’’ ऎऩ्ऱ् अनुवदिक्किऱद् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> गर्व-दमनार्थम् अनपेक्षित-भारस्यारोपणेन  
++अन्य-परात् शास्त्रात्  
+जातया ऽर्जुन-बुद्ध्या  
+धर्मत्वेन प्रतीतत्वात्  
+"सर्व-धर्मान्" इत्य् अनुवाद 
+
+इति चेत --  
+</details>
+
+
+<details><summary>English</summary>
+
+If they contend that 
+
+> in order to remove Arjuna's haughtiness,  
+Śrī Kṛṣṇa prescribes unnecessary burdens  
+and uses the word dharma to mean  
+what Arjuna, in his delusion or inability to understand the real purport of the teaching, considers as necessary upāyas  
+in the phrase "all dharmas", 
+
+(the answer is as follows):
+</details>
+
+<details><summary>Español</summary>
+
+Si **sostienen** eso
+
+> Para **eliminar** la arrogancia de Arjuna,  
+Śrī Kṛṣṇa **prescribe** cargas innecesarias  
+y usa la palabra dharma para **significar**  
+Que Arjuna, en su engaño o incapacidad para **comprender** el verdadero significado de la enseñanza,  
+**considera** como necesarias upāyas  
+en la frase "todos los dharmas",
+
+(La **respuesta es** la siguiente):
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सॆरुक् कडक्कुगैक्काग वेण्डाच् चुमैगळैयॆडुत्तुगैयाले अन्यपरमाऩवुपदेशत्ताले पिऱन्दव् अर्जुनऩ् बुद्धियाले धर्ममॆऩ्ऱु तोऱ्ऱिऩवऱ्ऱै ‘‘सर्वधर्मान्’’ ऎऩ्ऱनुवदिक्किऱदॆऩ्ऩिल्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘इज्याऽऽचार-दमाऽहिंसा-  
+दान-स्वाध्याय-कर्मणाम् ।  
+अयन् तु परमो धर्मो  
+यद् योगेनात्म-दर्शनम्॥’’  
+(याज्ञवल्क्य-स्मृतिः १-८),  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘इज्याऽऽचार-दमाऽहिंसा-  
+दान-स्वाध्याय-कर्मणाम् ।  
+अयन् तु परमो धर्मो  
+यद् योगेनात्म-दर्शनम्॥’’  
+(याज्ञवल्क्य-स्मृतिः १-८),  
+</details>
+
+<details><summary>विषयः</summary>
+
+योगः, आत्म-साक्षात्कारः
+</details>
+
+
+<details><summary>English</summary>
+
+It is stated (in Yagnyavalkya Smṛti 1-8):-- 
+
+> "The adoration of the Lord, personal purity,  
+control of the senses, non-violence,  
+giving in charity, repeating the Vedas, other Vedic rites -  
+among all these, having a vision of the Supreme Being by karma yoga, jñāna yoga and bhakti yoga is the highest dharma". 
+</details>
+
+<details><summary>Español</summary>
+
+**Se dice** (en Yagnyavalkya smṛti 1-8):-
+
+> "La **adoración** del Señor, pureza personal,  
+**control** de los sentidos, no violencia,  
+**Dar** en caridad, **repitiendo** los Vedas, otros ritos védicos -  
+Entre todos estos, **tener** una **visión** del ser supremo de Karma Yoga, Jñāna Yoga y Bhakti Yoga **es** el Dharma más alto ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘इज्याऽऽचारदमाऽहिंसादानस्वाध्यायकर्मणाम् ।  
+अयन्तु परमो धर्मो यद्योगेनात्मदर्शनम्॥’’  
+(याज्ञवल्क्यस्मृति १-८),  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सर्वेषाम् एव धर्माणाम्  
+उत्तमो वैष्णवो विधिः।’’  
+(भारतम् आनुशासनिग-पर्व ३६-२४),  
+</details>
+
+<details><summary>English</summary>
+
+Again it is said - 
+
+> "Among all dharmas, the dharma which consists in the adoration of Viṣṇu is the highest,  
+for He protects His devotee as if he were His own body"; 
+</details>
+
+<details><summary>Español</summary>
+
+De nuevo **se dice** -
+
+> "Entre todos los dharmas,  
+el dharma que consiste en la **adoración** de Viṣṇu **es** el más alto,  
+porque **protege** a su devoto como si **fuera** su propio cuerpo ";
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सर्वेषामेव धर्माणामुत्तमो वैष्णवो विधिः’’  
+(भारतम् आनुशासनिग-पर्व ३६-२४),  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न विष्ण्व्-आराधनात् पुण्यं  
+विद्यते कर्म वैदिकम्॥’’   
+(व्यास-स्मृतिः) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न विष्ण्व्-आराधनात् पुण्यं  
+विद्यते कर्म वैदिकम्॥’’   
+(व्यास-स्मृतिः) 
+</details>
+
+
+<details><summary>English</summary>
+
+and further, 
+
+> "There is no other karma enjoined in the Vedas for the expiation of sins  
+than the adoration of Viṣṇu". 
+</details>
+
+<details><summary>Español</summary>
+
+y además,
+
+> "**No hay** otro karma **orientado** en los Vedas para la **expiación** de los pecados  
+que la **adoración** de Viṣṇu ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न विष्ण्वाराधनात्पुण्यं विद्यते कर्मवैदिकम्’’  
+(व्यासस्मृति) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळाले परम-धर्मङ्गळ् आग प्रसिद्धङ्गळ् आऩ निवृत्तिधर्मङ्गळै "धर्मङ्गळ् अऩ्ऱ्" ऎऩ्ऱाल् 
+</details>
+
+<details><summary>English</summary>
+
+If those well-known dharmas which are described as supreme  
+and which are activities for mokṣa of the nature of abstention from worldly action,  
+are stated to be no dharmas,  
+</details>
+
+<details><summary>Español</summary>
+
+Si los **conocidos** dharmas que **se describen** como supremos  
+y que **son actividades** para mokṣa de la naturaleza de la **abstención** de la **acción** mundana,  
+**se dice** que **no son** dharmas,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळाले परमधर्मङ्गळाग प्रसिद्धङ्गळाऩ निवृत्तिधर्मङ्गळै धर्मङ्गळऩ्ऱॆऩ्ऱाल् 
+</details>
+
+
+
+much more so would the dharmas prescribed for worldly ends cease to be dharmas, and none of the śāstras would carry any authority or weight. Those who hold those views would then line up with atheists and heretics.
 
 It may be asked: (The words in the Gita are): "Give up all dharmas". In order that the meaning of the word ‘all’ may not be contracted or reduced in application, since the seeking of the Lord's protection is also denoted by the word dharma just like upāsanas, should it not also be given up, in as much as it is also an upāya or sādhana? Similarly to consider prapatti as a sādhana, or upāya or an auxiliary condition is at variance with the words in the Gita: "Give up all dharmas or upāyas.". We ask in reply :-"(What do you really mean?) If you mean that we should adopt the upāya giving up the thought that it will directly and by itself lead to the end in view, it applies also equally to bhakti yoga. If it is meant that we should give up the thought of prapatti being a dharma even for winding the grace of the Lord, we answer, “In that case, you will have to give up even the thought that Siddhopāya, namely, "Śrī Kṛṣṇa, is the eternal dharma or upāya ", in order that the meaning of all in all dharmas may not suffer reduction of application.
 
