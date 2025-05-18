@@ -3619,6 +3619,11 @@ La instrucción que **establece**:-
 उपासनादिरूपाद्वा ज्ञानान्मोक्षो विवक्षितः ॥
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+ज्ञानन्मोक्षमॆऩ्गिऱ वाक्यत्तिऱ्कु ऒरु कारिगैयाले इरण्डु विधमाग निर्वाहमरुळिच् चॆय्गिऱार् ज्ञानान्मोक्षोपदेशे हीति । तत्त्वज्ञानपदम् शेषत्वज्ञानपरमागिल् अदु तत्पूर्वकोपासनप्रपत्त्यन्यतरद्वारा मोक्षजनकमॆऩ्ऱर्थम् कॊळ्ळवेण्डुमॆऩ्बदु पूर्वार्धार्थम्। तत्त्वज्ञानपदम् यथावस्थितोपासनप्रपत्त्यन्यतरज्ञानपरमागिल् अदु साक्षात् मोक्षजनकमॆऩ्ऱु ‘‘तत्त्व-ज्ञानान् मोक्षः’’ ऎऩ्गिऱ वाक्यतात्पर्यमॆऩ्बदु उत्तरार्धार्थम्। 
+</details>
+ 
 
 
 #### निवृत्तौ साधारणम्
@@ -3658,6 +3663,12 @@ como bharanyāsa y upāsana o bhakti,
 शास्त्रजन्यमाऩ शेषत्वज्ञानमात्रम् निवृत्तिधर्मङ्गळाऩ न्यासोपासनादिगळॆल्लात्तुक्कुम् पॊदुवायिरुक्कुम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+किञ्च शेषत्वज्ञानमात्रम् निवृत्तिधर्मसामान्यङ्गळुक्कुप् पॊदु वागैयाले साक्षान्मोक्षोपायमऩ्ऱॆऩ्गिऱार् शास्त्रजन्यमाऩ शेषत्वज्ञानमात्रमित्यादिना । निवृत्तिधर्मङ्गळ् - सात्विकत्यागयुक्तधर्मङ्गळ्। सात्विकत्यागम् शेषत्वज्ञानघटितमागैयाले तादृशन्यासोपासनादिगळुक्कुम् शेषत्वज्ञानमपेक्षितमागैयाल् अदु साक्षान्मोक्षापायमागादॆऩ्ऱु करुत्तु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शेष-वृत्ति-रूपम् आऩ कैङ्कर्यमे  
@@ -3692,6 +3703,11 @@ Ciertamente **no es posible adoptar** ninguno de los upāyas **acompañados** de
 <details><summary>मूलम्</summary>
 
 शेषवृत्तिरूपमाऩ कैङ्कर्यमे मुमुक्षुवुक्कु पुरुषार्थकाष्ठैयायागैयाले शेषत्वमऱियादे मोक्षोपायमनुष्ठिक्कै घटियादिऱे। 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि निवृत्तिधर्मरूपतया उपासनादिगळुक्कु शेषत्वज्ञानमपेक्षितमॆऩ्ऱु सॊल्लि उपासनादिफलरूपमाऩ शेषवृत्तिरूपकैङ्कर्यमुम् शेषत्वज्ञानघटितमागैयाले अदिल्लाविडिल् फलज्ञानपूर्वकोपायानुष्ठानम् घटियातॆऩ्गिऱार् शेषवृत्तिरूपमाऩ इत्यादिना । 
 </details>
 
 
@@ -3737,6 +3753,17 @@ Haciendo la adopción de la upāya perfecta y completa.
 शेषत्वज्ञानमऩ्ऱिक्के मोक्षार्थमाग विधित्त धर्मङ्गळैयनुष्ठित्ताऩागिलुम् इत्धर्मङ्गळ् ताऩे शेषत्वज्ञानत्तैयुमुण्डाक्कि पूर्णानुष्ठानमुखत्तालेयिऱे मोक्षहेतुवावदु।
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+ननु शेषत्वज्ञानमिल्लामले मोक्षार्थधर्मानुष्ठानम् पण्णिऩाल् ऒरु फलमुम् सिद्धियादोवॆऩ्ऩ वरुळिच् चॆय्गिऱार् शेषत्वज्ञानमऩ्ऱिक्के इत्यादिना ।  
+इत् धर्मङ्गळ् ताऩे शेषत्वज्ञानत्तैयु मुण्डाक्कि इत्यादि । इदु शेषत्वज्ञानसात्विकत्यागरहितमाग अनुष्ठिक्कप्पट्टिरुन्दालुम् मोक्षार्थम् विहितधर्ममागैयाले स्वरूपतोऽनुष्ठानमात्रत्ताले  
+
+> ‘‘स्वल्पमप्यस्य धर्मस्य  
+> त्रायते महतो भयात्’’ 
+
+ऎऩ्गिऱ कणक्किले शेषत्वज्ञानत्तै युण्डाक्कि भक्तिप्रपत्तिरूपोपायानुष्ठानपूर्तियाले मोक्षहेतुवामॆऩ्ऱबडि। तथाच शेषत्वज्ञानम् अन्ततो गत्वापि उपायजननद्वारा मोक्षजनकमेयॊऴिय साक्षान्मोक्षहेतुवऩ्ऱॆऩ्ऱु करुत्तु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3765,6 +3792,12 @@ Por lo tanto, el atmasamarpanam que **está ordenado** para el **rendimiento no 
 
 आगैयाल् इङ्गु विधेयमाऩ समर्पणम् शेषत्वज्ञानमात्रमऩ्ऱु; 
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+शेषत्वज्ञानमूलमाऩ आत्मरक्षाभरन्यासमे प्रपत्तिशास्त्रार्थमॆऩ्बदै निगमिक्किऱार् आगैयालित्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3858,6 +3891,18 @@ y que **no es** un upāya **lograr** por una determinada **actividad**
 प्रपत्तिरिति वादोऽपि विधिनात्र विहन्यते ॥
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+> भगवाऩ् उपायमॆऩ्गिऱ ज्ञानमात्रमे प्रपत्तिः ।  
+> अदुवुम् शरणशब्दोपश्लिष्टम् आऩ वाक्यमात्रत्ताले सिद्धमागैयाल्  
+> सिद्धोपायम् ऎऩप्-पडुम् 
+
+ऎऩ्ऩुम् पक्षत्तै निरसिक्किऱार् वाक्यमात्रेणेति । वाक्यमात्रेण सिद्धत्वात् – भगवाऩे उपायमॆऩ्गिऱ ज्ञानम् भगवानेव शरणमॆऩ्गिऱ वाक्यमात्रत्ताले सिद्धमागैयाल्, पुरुषप्रयत्नानधीन केवलवाक्यजन्यज्ञानरूपमागैयालॆऩ्ऱबडि। 
+
+इह – प्रपत्तिशास्त्रत्तिल् सिद्धोपायः – कृत्य-साध्योपायमाग, प्रपत्तिः - प्रपत्तिरेव, उच्यते – सॊल्लप्पडुगिऱदु। इति - ऎऩ्गिऱ, वादोऽपि – वादमुम्, अत्र – प्रपत्तिविषयकमाऩ, विधिना – शरणं व्रज ऎऩ्ऱु स्वरसतः प्रतीयमानमाऩ विधिप्रत्यत्तोडु, विहन्यते – विरुद्ध्यत इत्यर्थः । 
+</details>
+
+
 #### विधि-स्वारस्य-रक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3919,6 +3964,13 @@ La **respuesta es** que
 ‘‘शरणं व्रज’’ ऎऩ्गिऱविदु ‘‘इममर्थं जानीहि’’ ऎऩ्गिऱ मात्रमाय् ऒरु कर्तव्यो-पायविधिपरमऩ्ऱिक्केयॊऴिन्दालोवॆऩ्ऩिल्; इदु शब्दस्वारस्यविरुद्धम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+इन्द वाक्यत्तिऱ्कु विधियिले तात्पर्यमिल्लै यॆऩ्ऱु शङ्गिक्किऱार् शरणं व्रज ऎऩ्गिऱविदु इममर्थं जानीहि ऎऩ्गिऱ मात्रमायित्यादिना । शरणं व्रज ऎऩ्गिऱ वाक्यम् नाऩॊरुवऩे उपायमॆऩ्ऱु तॆरिन्दु कॊळ् ऎऩ्बदिल् नोक्कुडैयदॆऩ्ऱबडि। आगैयाल् इङ्गु विधिविरोधम् इल्लैय् ऎऩ्ऱु करुत्तु। 
+
+परिहरिक्किऱार् इदु शब्दस्वारस्यविरुद्धमिति । लोट् मध्यमऩुक्कु विधियिले तात्पर्यम् स्वरससिद्धमागैयाले तद्विरुद्धमॆऩ्ऱबडि। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3959,6 +4011,13 @@ Para el **rendimiento** de Prapatti como en la **oración**:
 
 ‘‘प्रपत्तिं तां प्रयुञ्जीत स्वाङ्गैः पञ्चभिरावृताम्’’  इत्यादिगळाऩ सपरिकरस्फुटतरप्रपत्तिविधिकळोडुम् विरोधिक्कुम्। 
 </details>
+
+<details><summary>सार-बोधिनी</summary>
+
+अर्थान्तरपरमाग नयिप्पिक्कमुडियाद प्रमाणविरोधत्तै यरुळिच्चॆय्गिऱार् प्रपत्तिं तां प्रयुञ्जीत इत्यादिना । ‘‘प्रपत्तिं प्रयुञ्जीत’’ ऎऩ्गिऱ विधिवाक्यम् अन्यथानेतुमशक्यमॆऩ्ऱु करुत्तु। 
+</details>
+
+
 
 ##### चरमश्लोके प्रपत्ति-विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4011,6 +4070,13 @@ que **es** el tema **tratado** en ese contexto.
 ईश्वरऩ् मोक्षोपायमॆऩ्गिऱविव्वळवेयिङ्गु वक्तव्यमाय् मोक्षाधिकारिक्कु विधेयान्तरमऩ्ऱिक्केयॊऴिन्दाल् इव्विडम् प्रस्तुतमाऩ भक्तियोगत्तुक्कपेक्षितमाऩ तत्त्वोपदेशमात्रमाम्। 
 </details>
 
+<details><summary>सार-बोधिनी</summary>
+
+चरमश्लोकत्तिल् विधियिऩ्ऱिक्के पोऩाल् बाधकान्तरमरुळिच् चॆय्गिऱार् ईश्वरऩिदि । 
+
+भक्तियोगत्तुक्कपेक्षितमाऩ तत्त्वोपदेशमात्रमामिति । तथाच गीतैयिल् प्रपत्तिरूपोपायविवक्षैयऩ्ऱिक्के नाऩॊरुवऩे उपायमॆऩ्ऱु तॆरिन्दुगॊण्डु भक्तियैप् पण्णु ऎऩ्ऱु सॊऩ्ऩदागुमॆऩ्ऱु करुत्तु।  
+</details>
+
 
 ### न यत्नाद् विरतिर् एव
 <details><summary>English</summary>
@@ -4023,12 +4089,231 @@ REFRAINING FROM ONE'S OWN ACTIVITY IS NOT IN ITSELF PRAPATTI:
 **Abstenerse** de la propia **actividad no es** en sí mismo Prapatti:
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इङ्गु तत्त्व-ज्ञानम्-उडैयवऩुक्कु  
+> स्व-रक्षणार्थ--स्व-व्यापार-निवृत्तिये प्रपत्तिय् आय्  
+> सर्व-धर्म--स्व-रूप--त्याग-मात्रं  
+> साध्यम् आग विधिक्कप् पडुगिऱद्  
+
+ऎऩ्बार्क्कु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अत्र 
+> 
+> > तत्त्व-ज्ञानवतः स्व-रक्षणार्थ--स्व-व्यापार--निवृत्तिर् एव प्रपत्तिर्  
+> 
+> इति सर्व-धर्म--स्व-रूप--त्याग-मात्रं साध्यत्वेन विधीयत 
+
+इति वदतां  
+</details>
+
+
+<details><summary>English</summary>
+
+There are some who hold that 
+
+> prapatti is merely  
+refraining from one's own activity for protecting oneself  
+
+and that 
+
+> what is enjoined for its accomplishment  
+is only the abandonment of all dharmas or upāyas. 
+</details>
+
+<details><summary>Español</summary>
+
+Hay algunos que sostienen que
+
+> Prapatti es simplemente
+**abstenerse** de la propia actividad para **protegerse**  
+
+y que 
+
+> lo que **se encarga** de **su logro**  
+**es** solo el **abandono** de todos los dharmas o upāyas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु तत्त्वज्ञानमुडैयवऩुक्कु स्वरक्षणार्थस्वव्यापारनिवृत्तिये प्रपत्तियाय् सर्वधर्मस्वरूपत्यागमात्रम् साध्यमाग विधिक्कप्पडुगिऱदॆऩ्बार्क्कु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निवृत्ति-रूपमेय् आगिलुम्  
+साध्यम् आग विधिक्कप् पट्ट सर्व-धर्म-त्यागन्-दाऩ्  
+स्व-रक्षणार्थ--स्व-व्यापारम् आगैयाले  
+स्व-वचन-विरोधमुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+निवृत्ति-रूपत्वेऽपि साध्यत्वेन विहितस्य सर्व-धर्म-स्वरूप-त्यागस्यैव  
+स्व-रक्षणार्थ-स्व-व्यापारत्वात्  
+स्व-वचन-विरोधः,  
+</details>
+
+
+<details><summary>English</summary>
+
+The answer to this view is as follows:-  
+
+Even though it is abstention,  
+this abandonment of all dharmas is itself an activity or dharma of the person for his own protection  
+(and this would be inconsistent with their own words).
+</details>
+
+<details><summary>Español</summary>
+
+La respuesta a esta vista **es** la siguiente:-
+
+Aunque **es** una **abstención**,  
+Este **abandono** de todos los dharmas **es** en sí mismo una **actividad** o dharma de la persona por su propia **protección**  
+(Y esto **sería** inconsistente con sus propias palabras).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निवृत्तिरूपमेयागिलुम् साध्यमागविधिक्कप्पट्ट सर्वधर्मत्यागन्दाऩ् स्वरक्षणार्थस्वव्यापारमागैयाले स्ववचनविरोधमुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साङ्ग-प्रपत्ति-विधायकम् आऩ वाक्य-विरोधमुम् वरुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+साङ्ग-प्रपत्ति-विधायक-वाक्य-विरोधश् च प्रसज्यते । 
+</details>
+
+<details><summary>English</summary>
+
+Further this view is in conflict also with the passage (quoted above) enjoining the performance of prapatti with its five aṅgas.
+</details>
+
+<details><summary>Español</summary>
+
+Además, esta opinión **está** en conflicto también con el pasaje (citado anteriormente)  
+que **exige** el **rendimiento** de Prapatti con sus cinco AṅGA.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+साङ्गप्रपत्तिविधायकमाऩ वाक्यविरोधमुम् वरुम्। 
+</details>
+
+
+### न सिद्धोपाय-ह्रासः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रपत्तिक्कु साधनत्वम् आदल्  
+सिद्ध-साधन-सहकारित्वम् आदल् कॊळ्ळिल्  
+>
+> सिद्धोपायम् आऩव् ईश्वरऩ्-उडैय  
+एकत्वं, सिद्धत्वं, परम-चेतनत्वं, परम-कारुणिकत्वं,  
+सर्व-शक्तित्वं, निरपेक्षत्वं मुदल् आऩ  
+स्वभाव-विशेषङ्गळुक्कु विरुद्धम् आम् 
+
+ऎऩ्ऩुम् प्रसङ्गङ्गळ्  
+श्रुति-स्मृति-विरोध--व्याप्ति-शून्यत्वादि-दोषङ्गळाले तर्काभासङ्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> प्रपत्तेः साधनत्वस्य सिद्ध-साधन-सहकारित्वस्य वाऽऽश्रवणं  
+सिद्धोपायस्येश्वरस्य  
++++(उपायत्वेन)+++ एकत्वं सिद्धत्वं परम-चेतनत्वं परम-कारुणिकत्वं  
+सर्व-शक्तित्वं निरपेक्षत्वम् इत्य्-आदि-स्वभाव-विशेष-विरुद्धं भवेत् 
+
+इत्य् एते प्रसङ्गाः श्रुति-स्मृति-विरोध--व्याप्ति-शून्यत्वादि-दोषैस्  तर्काभासाः । 
+</details>
+
+<details><summary>English</summary>
+
+The view held by some that  
+
+> the regarding of prapatti as an upāya or as an auxiliary to Siddhopāya (for mokṣa )  
+is opposed to the doctrine that the Siddhopāya, namely, Iśvara, is the only upāya,  
+that He is already an existent upāya,  
+that He is the Supreme Sentient,  
+that He has supreme compassion, and omnipotence  
+and that He is independent of all others 
+
+-- this view is at variance with the śrutis and the smṛtis.  
+It is not based on any general proposition such as: 
+
+> "Wherever an auxiliary condition is required,  
+there cannot be a single upāya" 
+
+and 
+
+> "Where an accessory is required,  
+there is no independent doership". 
+
+Since there are these objections and others,  
+this view is based on fallacious reasoning. 
+</details>
+
+<details><summary>Español</summary>
+
+La opinión **sostenida** por algunos que
+
+> La relación de Prapatti como un upāya o como auxiliar de siddhopāya (para mokṣa)  
+**se opone** a la doctrina de que el Siddhopāya, a saber, Iśvara, **es** el único upāya,  
+que él ya **es** un upāya **existente**  
+que él **es** el supremo sensible,  
+que **tiene** compasión suprema y omnipotencia  
+y que él **es** independiente de todos los demás
+
+- Esta opinión está **en desacuerdo** con los Śrutis y los Smṛtis. 
+
+**No se basa** en ninguna propuesta general como:
+
+> "Donde sea que **se requiera** una condición auxiliar,
+**no puede haber** un solo upāya "
+
+y
+
+> "Donde **se requiere** un accesorio,  
+**No hay trabajos** independientes ".
+
+Ya que **hay** estas objeciones y otras,  
+Esta vista **se basa** en el **razonamiento** falaz.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तिक्कु साधनत्वमादल् सिद्धसाधनसहकारित्वमादल् कॊळ्ळिल् सिद्धोपायमाऩवीश्वरऩुडैय एकत्वं, सिद्धत्वं, परमचेतनत्वं, परमकारुणिकत्वं, सर्वशक्तित्वं, निरपेक्षत्वं मुदलाऩ स्वभावविशेषङ्गळुक्कु विरुद्धमामॆऩ्ऩुम् प्रसङ्गङ्गळ् श्रुतिस्मृतिविरोधव्याप्ति शून्यत्वादिदोषङ्गळाले तर्काभासङ्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱै सत्-तर्कङ्गळ् आग निऩैक्किल्  
+उपासनत्तुक्क् इसैन्द साधन-भावादिगळिलुम्  
+इप्-प्रसङ्गङ्गळ् वरुम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱै सत्तर्कङ्गळाग निऩैक्किल्उपासनत्तुक्किसैन्द साधनभावादिगळिलुमिप्प्रसङ्गङ्गळ् वरुम्। 
+</details>
 
 
 
-There are some who hold that prapatti is merely refraining from one's own activity for protecting oneself and that what is enjoined for its accomplishment is only the abandonment of all dharmas or upāyas. The answer to this view is as follows:- Even though it is abstention, this abandonment of all dharmas is itself an activity or dharma of the person for his own protection (and this would be inconsistent with their own words). Further this view is in conflict also with the passage (quoted above) enjoining the performance of prapatti with its five aṅgas.
-
-The view held by some that the regarding of prapatti as an upāya or as an auxiliary to Siddhopāya (for mokṣa ) is opposed to the doctrine that the Siddhopāya, namely, Iśvara, is the only upāya, that He is already an existent upāya, that He is the Supreme Sentient, that He has supreme compassion, and omnipotence and that He is independent of all others -- this view is at variance with the śrutis and the smṛtis. It is not based on any general proposition such as: "Wherever an auxiliary condition is required, there cannot be a single upāya" and "Where an accessory is required, there is no independent doership"). Since there are these objections and others, this view is based on fallacious reasoning. If it were considered sound reasoning, it would mean that, even in upāsana, whatever is accepted as auxiliary should be rejected as unnecessary.
+If it were considered sound reasoning,  
+it would mean that, even in upāsana,  
+whatever is accepted as auxiliary should be rejected as unnecessary.
 
 If it were further argued that even upāsana is not a means or upāya, it would be inconsistent with what has been stated elsewhere by those who hold this view, for while commenting on the passage, "Having given up all dharmas, seek refuge under me", they interpret the word dharma as upāsana or upāya for the attainment of mokṣa. If they contend that in order to remove Arjuna's haughtiness, Śrī Kṛṣṇa prescribes unnecessary burdens and uses the word dharma to mean what Arjuna, in his delusion or inability to understand the real purport of the teaching, considers as necessary upāyas in the phrase "all dharmas", (the answer is as follows):It is stated (in Yagnyavalkya Smṛti 1-8):-- "The adoration of the Lord, personal purity, control of the senses, non-violence, giving in charity, repeating the Vedas, other Vedic rites - among all these, having a vision of the Supreme Being by karına yoga, jñāna yoga and bhakti yoga is the highest dharma". Again it is said - "Among all dharmas, the dharma which consists in the adoration of Viṣṇu is the highest, for He protects His devotee as if he were His own body"; and farther, "There is no other karma" enjoined in the Vedas for the expiation of sins than the adoration of Viṣṇu". If those well-known dharmas which are described as supreme and which are activities for mokṣa of the nature of abstention from worldly action, are stated to be no dharmas, much more so would the dharmas prescribed for worldly ends cease to be dharmas, and none of the śāstras would carry any authority or weight. Those who hold those views would then line up with atheists and heretics.
 
