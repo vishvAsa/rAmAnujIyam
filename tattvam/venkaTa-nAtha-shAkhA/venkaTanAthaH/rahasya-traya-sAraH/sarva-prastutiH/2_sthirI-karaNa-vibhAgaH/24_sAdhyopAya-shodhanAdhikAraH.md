@@ -4588,7 +4588,7 @@ Entre todos estos, **tener** una **visión** del ser supremo de Karma Yoga, Jñ�
 Again it is said - 
 
 > "Among all dharmas, the dharma which consists in the adoration of Viṣṇu is the highest,  
-for He protects His devotee as if he were His own body"; 
+for He protects His devotee as if he were His own body"; +++(5)+++
 </details>
 
 <details><summary>Español</summary>
@@ -4597,7 +4597,7 @@ De nuevo **se dice** -
 
 > "Entre todos los dharmas,  
 el dharma que consiste en la **adoración** de Viṣṇu **es** el más alto,  
-porque **protege** a su devoto como si **fuera** su propio cuerpo ";
+porque **protege** a su devoto como si **fuera** su propio cuerpo "; +++(5)+++
 </details>
 
 
@@ -4606,6 +4606,12 @@ porque **protege** a su devoto como si **fuera** su propio cuerpo ";
 ‘‘सर्वेषामेव धर्माणामुत्तमो वैष्णवो विधिः’’  
 (भारतम् आनुशासनिग-पर्व ३६-२४),  
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+विधीयत इति विधिः । वैष्णवविधिः – विष्णुसम्बन्धितया विहितमाऩ धर्मम्। उत्तमः – सर्वोत्कृष्टः, विष्ण्वाराधनत्तैक्काट्टिलुम् वेदविहितमाऩ पुण्यकर्ममिल्लैयॆऩ्गै। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4671,6 +4677,7 @@ y que **son actividades** para mokṣa de la naturaleza de la **abstención** de
 </details>
 
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैमुतिक-न्यायत्ताले  
@@ -4699,9 +4706,124 @@ Aquellos que **sostienen** esos puntos de **vista se alinearían** con ateos y h
 कैमुतिकन्यायत्ताले प्रवृत्ति-धर्मङ्गळुम् धर्मङ्गळऩ्ऱिक्के सर्वशास्त्रङ्गळुक्कुम् प्रामाण्यमिल्लादबडियाय् परबाह्यकुदृष्टिपक्षङ्गळिले प्रवेशमाम्।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आऩालुम् उपासनादिगळ् पोले  
+शरण-वरणमुम् धर्म-शब्द-वाच्यम् आगैयाले  
+इङ्गु सर्व-शब्द-सङ्कोचं वारामैक्क् आग  
+इदुवुम् साधनत्व-वेषत्ताले त्याज्यम् अऩ्ऱो? 
+</details>
+
+<details><summary>English</summary>
+
+It may be asked:  
+
+> (The words in the Gita are): "Give up all dharmas".  
+In order that the meaning of the word ‘all’ may not be contracted or reduced in application,  
+since the seeking of the Lord's protection is also denoted by the word dharma just like upāsanas,  
+should it not also be given up, in as much as it is also an upāya or sādhana? 
+</details>
+
+<details><summary>Español</summary>
+
+Se **puede preguntar**:
+
+> (Las palabras en el Gita **son**): "**Renuncia** a todos los dharmas".  
+Para que el significado de la palabra "todo" **no se contraiga** o **se reduzca** en la aplicación,  
+Dado que la **búsqueda** de la protección del Señor también  
+**se denota** por la palabra dharma como upāsanas,  
+¿**No debería ser abandonado**, tanto como también es un upāya o sādhana?
+</details>
 
 
-It may be asked: (The words in the Gita are): "Give up all dharmas". In order that the meaning of the word ‘all’ may not be contracted or reduced in application, since the seeking of the Lord's protection is also denoted by the word dharma just like upāsanas, should it not also be given up, in as much as it is also an upāya or sādhana? Similarly to consider prapatti as a sādhana, or upāya or an auxiliary condition is at variance with the words in the Gita: "Give up all dharmas or upāyas.". We ask in reply :-"(What do you really mean?) If you mean that we should adopt the upāya giving up the thought that it will directly and by itself lead to the end in view, it applies also equally to bhakti yoga. If it is meant that we should give up the thought of prapatti being a dharma even for winding the grace of the Lord, we answer, “In that case, you will have to give up even the thought that Siddhopāya, namely, "Śrī Kṛṣṇa, is the eternal dharma or upāya ", in order that the meaning of all in all dharmas may not suffer reduction of application.
+<details><summary>मूलम्</summary>
+
+आऩालुम् उपासनादिगळ् पोले शरण-वरणमुम् धर्मशब्दवाच्यमागैयाले इङ्गु सर्वशब्दसङ्कोचं वारामैक्काग इदुवुम् साधनत्व वेषत्ताले त्याज्यमऩ्ऱो; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आगैयाल् प्रपत्तिक्कुम् साधनत्वम् आदल्  
+सिद्ध-साधन-सहकारित्वम् आदल्  
+कॊळ्ळुगैय् इव्व्-अवचनन्-दऩक्कुम् विरुद्धम् अऩ्ऱोव् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+> Similarly to consider prapatti as a sādhana, or upāya or an auxiliary condition  
+is at variance with the words in the Gita:  
+"Give up all dharmas or upāyas.". 
+</details>
+
+<details><summary>Español</summary>
+
+> De manera similar, **considerar** a Prapatti como un sādhana, o upāya o una condición auxiliar  
+**está** en desacuerdo con las palabras en el Gita:  
+"**Renuncia** a todos los dharmas o upāyas".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् प्रपत्तिक्कुम् साधनत्वमादल् सिद्धसाधनसहकारित्वमादल् कॊळ्ळुगै यिव्वचनन्दऩक्कुम् विरुद्धमऩ्ऱोवॆऩ्ऩिल्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु 
+
+> साक्षात्-साधनत्व-बुद्धियै विड वेणुम् 
+
+ऎऩ्ऩुम् पोदु भक्तियोगादिगळिलुम् तुल्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+We ask in reply :-  
+"(What do you really mean?)  
+If you mean that we should adopt the upāya giving up the thought that it will directly and by itself lead to the end in view,  
+it applies also equally to bhakti yoga. 
+</details>
+
+<details><summary>Español</summary>
+
+**Preguntamos** en respuesta:-  
+"(¿Qué quieres **decir** realmente?)  
+Si te **refieres** a que **debemos adoptar** el upāya dando la idea de que directamente y por sí solo **conducirá** al final a la vista,  
+**Se aplica** también a Bhakti Yoga.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु साक्षात्साधनत्व बुद्धियैविड वेणुमॆऩ्ऩुम् पोदु भक्तियोगादिगळिलुम् तुल्यम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रसादनत्व-वेषत्तालुम् धर्मत्वम् इदुक्कु विड-वेणुम् 
+
+ऎऩ्ऩिल्;  
+सर्व-शब्द-सङ्कोचम् वारामैक्क् आगवे  
+
+> २८‘‘कृष्णं धर्मं सनातनम्’’(भारतम् आरण्य-पर्व ७१-१२३) 
+
+इत्य्-आदिगळिऱ् पडिये  
+धर्मम् आऩ सिद्धोपायत्तिलुम्,  
+साधनत्व-बुद्धियै विड-प्रसङ्गिक्कुम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रसादनत्ववेषत्तालुम् धर्मत्वमिदुक्कु विडवेणुमॆऩ्ऩिल्; सर्वशब्दसंकोचम् वारामैक्कागवे २८‘‘कृष्णं धर्मं सनातनम्’’(भारतम् आरण्य-पर्व ७१-१२३) इत्यादिगळिऱ्पडिये धर्ममाऩ सिद्धोपायत्तिलुम्, साधनत्वबुद्धियै विड प्रसङ्गिक्कुम्। 
+</details>
+
+
+If it is meant that we should give up the thought of prapatti being a dharma  
+even for winding the grace of the Lord, we answer, “In that case, you will have to give up even the thought that Siddhopāya, namely, "Śrī Kṛṣṇa, is the eternal dharma or upāya ", in order that the meaning of all in all dharmas may not suffer reduction of application.
 
 If it is argued that what are to be abandoned are all dharmas other than the one described in this passage - (namely, the Carama śloka ), the same answer might be given in support of the performance of śaraṇāgati which is prescribed in this very passage: (saranam vraja).A further doubt might arise as follows:- “Upāsanas, as upāyas, require that they should be originated or started; upāsanas have to be promoted to higher and higher perfection; upāsanas require the fulfilment of auxiliary conditions - Not so, this upāya, namely Bhagavān. He does not require to be originated or increased in intensity nor does He require any auxiliary help or means of approach. He is eternal, has neither growth nor decay and has always such qualities as full and perfect compassion which are of His very nature. Without any means of approach, He is ever existent as an upāya and is of irresistible might: Of what use, then, are bhakti and prapatti in His case ?" The answer is that they help to obtain remission of the punishment which is the cause of saṁsāra and which has been inflicted for beginningless and successive acts of offence. When these upāyas are adopted for other benefits (than mokṣa ) (for instance, svarga), they generate favourable dispositions (in the Lord) suited to the attainment of the respective benefits, just like Jyotishtoma and the like and thus serve as aids. In the case of the man who desires mokṣa, they, as vyāja or Sādhyopāya, cause appeasement in Siddhopāya so as to cancel the punishment and then to remove the contraction of knowledge and the like due to that punishment, so that Siddhopāya or the Lord confers (on the person) benefits extending up to perfect service. It is in this way these upāyas help as long as the self lasts.
 
