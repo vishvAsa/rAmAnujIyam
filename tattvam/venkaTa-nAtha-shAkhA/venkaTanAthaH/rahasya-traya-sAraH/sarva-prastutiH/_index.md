@@ -31,7 +31,7 @@ Kumbakonam.
 Archive [link](https://archive.org/details/in.ernet.dli.2015.92385).
 </details>
 
-<details><summary>सार-बोधिनी - गुरुवन्दनम्</summary>
+<details><summary>४२तमाहोबिल-यतिः - गुरुवन्दनम्</summary>
 
 ॥ श्रीः ॥   
 श्रीमते हयग्रीवाय नमः ॥  
@@ -110,7 +110,7 @@ Archive [link](https://archive.org/details/in.ernet.dli.2015.92385).
 </details>
 
 
-<details><summary>सार-बोधिनी - प्रतिज्ञादि</summary>
+<details><summary>४२तमाहोबिल-यतिः - प्रतिज्ञादि</summary>
 
 एवं श्रीनृहरेः पदाम्बु-ज-युगं **ध्यात्वा**, गुरूणां ततिं   
 **नत्वा**, तत्र च वेद-मौलि-गुरु-राट्-पादाम्बु-जे **न्यस्त**-धीः ।  
@@ -148,7 +148,7 @@ Archive [link](https://archive.org/details/in.ernet.dli.2015.92385).
 मया **लिखति** सादरम् ॥२१॥  +++(5)+++
 </details>
 
-<details><summary>सार-बोधिनी - परिचयः</summary>
+<details><summary>४२तमाहोबिल-यतिः - परिचयः</summary>
 
 श्रियःपतियाय्, अखिल-हेयप्रत्यनीक-कल्याणैकतानऩाय्,  
 परम-कारुणिकऩ् आय्प् पोन्द नारायणऩ् 

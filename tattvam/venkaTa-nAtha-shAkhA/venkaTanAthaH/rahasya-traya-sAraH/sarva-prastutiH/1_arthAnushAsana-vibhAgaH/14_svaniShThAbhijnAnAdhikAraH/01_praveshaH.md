@@ -68,7 +68,7 @@ que **son profundos** y difíciles de **llenar** y que **son** tan inmensos como
 गभीरान् दुष्पूरान् गगनमहतश्छिद्रनिवहान् ॥ ३२ ॥
 </details>
 
-<details><summary>सार-बोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 ॥ श्रीः ॥  
 श्रीसारबोधिनीव्याख्यायां  
