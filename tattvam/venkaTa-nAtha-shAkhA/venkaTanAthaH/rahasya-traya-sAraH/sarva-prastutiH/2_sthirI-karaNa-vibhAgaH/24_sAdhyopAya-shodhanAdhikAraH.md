@@ -4974,10 +4974,194 @@ En **apoyo** del **desempeño** de Śaraṇāgati, que **se prescribe** en este 
 
 ### सिद्धोपायोपकारकत्वम्
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-A further doubt might arise as follows:- “Upāsanas, as upāyas, require that they should be originated or started; upāsanas have to be promoted to higher and higher perfection; upāsanas require the fulfilment of auxiliary conditions - Not so, this upāya, namely Bhagavān. He does not require to be originated or increased in intensity nor does He require any auxiliary help or means of approach. He is eternal, has neither growth nor decay and has always such qualities as full and perfect compassion which are of His very nature. Without any means of approach, He is ever existent as an upāya and is of irresistible might: Of what use, then, are bhakti and prapatti in His case ?" The answer is that they help to obtain remission of the punishment which is the cause of saṁsāra and which has been inflicted for beginningless and successive acts of offence. When these upāyas are adopted for other benefits (than mokṣa ) (for instance, svarga), they generate favourable dispositions (in the Lord) suited to the attainment of the respective benefits, just like Jyotishtoma and the like and thus serve as aids. In the case of the man who desires mokṣa, they, as vyāja or Sādhyopāya, cause appeasement in Siddhopāya so as to cancel the punishment and then to remove the contraction of knowledge and the like due to that punishment, so that Siddhopāya or the Lord confers (on the person) benefits extending up to perfect service. It is in this way these upāyas help as long as the self lasts.
+> उपासनादिगळैप् पोले  
+तऩक्क् उत्पादकम् आगव् आदल्, वर्धकम् आगवादल्, सहकारिय् आगव् आदल्, द्वारम् आगव् आदल्  
+ऒऩ्ऱाल् अपेक्षैय् अऱुम् बडि  
+नित्यम् आय् उपचयापचय-रहितम् आय्,  
+>
+> सर्वदा-परिपूर्णम् आऩ सहज-कारुण्यादिगळैय् उडैत्त् आय्  
+>
+> सङ्कल्पम् उण्ड् आऩ पोदु  
+द्वार-निरपेक्षम् आग कार्यम् पिऱक्कुम् बडि  
+सत्य-संकल्पम् आय् इरुक्किऱ सिद्धोपायत्तुक्कु  
+>
+> भक्ति-प्रपत्तिगळ् ऎव्व् आकारत्ताल् उपकारकङ्गळ् आग् इऩ्ऱऩव्? 
 
-. Therefore those pramāṇas or authoritative passages which state that Siddhopāya (the Lord) confers the ultimate goal of perfect service (kaiṅkarya ) along with preliminary benefits after removing all undesirable hindrances and that sādhyopaya (bhakti and prapatti) leads to these benefits by propitiating Siddhopāya - these pramāṇas are both apposite and agree with one another very well.
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> उपासनादिवत् स्वस्योत्पादक-रूपेण, वर्धक-रूपेण, सहकारि-रूपेण, द्वार-रूपेण वा  
+किम् अपि यथा स्वेन नापेक्ष्येत  
+तथा नित्यस्योपचयापचय-रहितस्य  
+> 
+> सर्वदा-परिपूर्णस्य सह-ज-कारुण्यादिमतः  
+संकल्पे सति द्वार-निरपेक्ष-कार्य-जननौपयिक--सत्य-संकल्पवतः  
+सतः सिद्धोपायस्य  
+भक्ति-प्रपत्ती केनाकारेणोपकारिके भवत  
+
+इति चेत् —  
+</details>
+
+<details><summary>English</summary>
+
+A further doubt might arise as follows:- 
+
+> “Upāsanas, as upāyas, require that they should be originated or started;  
+> upāsanas have to be promoted to higher and higher perfection;  
+> upāsanas require the fulfilment of auxiliary conditions -   
+> Not so, this upāya, namely Bhagavān.  
+> He does not require to be originated or increased in intensity  
+> nor does He require any auxiliary help or means of approach.  
+> He is eternal, has neither growth nor decay  
+> and has always such qualities as full and perfect compassion  
+> which are of His very nature.  
+> Without any means of approach,  
+> He is ever existent as an upāya and is of irresistible might:  
+> Of what use, then, are bhakti and prapatti in His case ?" 
+</details>
+
+<details><summary>Español</summary>
+
+Podría surgir una mayor duda de la siguiente manera:-
+
+> “Upāsanas, como upāyas, **requieren** que **se originaran** o **iniciaran**;  
+> upāsanas **tienen** que **ser promovidos** a una perfección cada vez mayor;  
+> upāsanas **requieren** el cumplimiento de las condiciones auxiliares -  
+> **No es** así, esto upāya, a **saber**, bhagavān.  
+> No requiere **ser originado o aumentado** en intensidad  
+> Tampoco **necesita** ninguna ayuda o medios auxiliares de enfoque.  
+> Él **es** eterno, **no tiene crecimiento ni descomposición**  
+> y siempre **tiene** cualidades como compasión completa y perfecta  
+> que **son** de su propia naturaleza.  
+> Sin ningún medio de **enfoque**,  
+> Él siempre **existe** como un upāya y es de poder irresistible:  
+> ¿De qué **sirve**, entonces, Bhakti y Prapatti en su caso? "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपासनादिगळैप्पोले तऩक्कुत्पादकमागवादल्, वर्धकमागवादल्, सहकारियागवादल्, द्वारमागवादलॊऩ्ऱालपेक्षैयऱुम्बडि नित्यमाय् उपचयापचयरहितमाय् सर्वदापरिपूर्णमाऩ सहजकारुण्यादिगळैयुडैत्ताय् सङ्कल्पमुण्डाऩ पोदु द्वारनिरपेक्षमाग कार्यम् पिऱक्कुम्बडि सत्यसंकल्पमायिरुक्किऱ सिद्धोपायत्तुक्कु भक्तिप्रपत्तिकळ् ऎव्वागारत्तालुपकारकङ्गळागिऩ्ऱऩवॆऩ्ऩिल्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् अनादिय् आऩ अपचार-परं-परैयालेय् उत्पन्नम् आय्  
+संसार-हेतुव् आय्क् किडक्किऱ निग्रहत्तै शमिप्पित्तुक् कॊण्ड् उपकरिक्किऩ्ऱऩ। 
+</details>
+
+<details><summary>English</summary>
+
+The answer is that they help to obtain remission of the punishment  
+which is the cause of saṁsāra  
+and which has been inflicted for beginningless and successive acts of offence. 
+</details>
+
+<details><summary>Español</summary>
+
+La respuesta es que ayudan a **obtener** la **remisión** del **castigo**  
+cual **es** la causa de saṁsāra  
+y que **ha sido infligido** por actos de ofensa sin principios y sucesivos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवैयनादियाऩ अपचारपरंपरैयाले युत्पन्नमाय् संसार हेतुवाय्क्किडक्किऱ निग्रहत्तै शमिप्पित्तुक्कॊण्डुपकरिक्किऩ्ऱऩ। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवै फलान्तरत्तुक्क् उपायङ्गळ् आम् बोदु  
+ज्योतिष्-टोमादिगळैप् पोले  
+तत्-तद्-अनुगुण-प्रीति-विशेषङ्गळैय् उत्पादित्तुक् कॊण्डम् मुखत्ताले  
+उपकारकङ्गळ् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+When these upāyas are adopted for other benefits (than mokṣa ) (for instance, svarga),  
+they generate favourable dispositions (in the Lord)  
+suited to the attainment of the respective benefits,  
+just like Jyotishtoma and the like  
+and thus serve as aids. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando estos upāyas **se adoptan** para otros beneficios (que mokṣa) (por ejemplo, svarga),  
+**Generan disposiciones** favorables (en el Señor)  
+**adecuado** para el logro de los beneficios respectivos,  
+Al igual que jyotishtoma y similares  
+y así **servir** como accesorios.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवै फलान्तरत्तुक्कुपायङ्गळाम्बोदु ज्योतिष्टोमादिगळैप् पोले तत्तदनुगुण प्रीतिविशेषङ्गळै युत्पादित्तुक्कॊण्डम्मुखत्ताले उपकारकङ्गळाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुमुक्षुवुक्कु साध्योपायङ्गळ् आगिऱ व्याज-मात्रत्ताले  
+शान्त-निग्रहम् आऩ सिद्धोपायम्  
+निग्रह-फलम् आऩ ज्ञान-सङ्कोचादिगळैक् कऴित्तु परिपूर्ण-कैङ्कर्य-पर्यन्त-फलत्तैक् कॊडुत्तु  
+यावद्-आत्म-भाविय् आग उपकरिक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+In the case of the man who desires mokṣa,  
+they, as vyāja or Sādhyopāya, cause appeasement in Siddhopāya  
+so as to cancel the punishment  
+and then to remove the contraction of knowledge and the like due to that punishment,  
+so that Siddhopāya or the Lord confers (on the person) benefits  
+extending up to perfect service.  
+
+It is in this way these upāyas help  
+as long as the self lasts.
+</details>
+
+<details><summary>Español</summary>
+
+En el caso del hombre que **desea** mokṣa,  
+Ellos, como Vyāja o Sādhyopāya, **causan apaciguamiento** en Siddhopāya  
+para **cancelar** el **castigo**  
+y luego para **eliminar** la **contracción** del **conocimiento** y similares debido a ese **castigo**,  
+para que Siddhopāya o el Señor **confieran** (en la persona) beneficios  
+**extendiéndose** al servicio perfecto.
+
+Es de esta manera, estos upāyas **ayudan**  
+Mientras **dure** el yo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुवुक्कु साध्योपायङ्गळागिऱव्याजमात्रत्ताले शान्तनिग्रहमाऩ सिद्धोपायम् निग्रहफलमाऩ ज्ञानसङ्कोचादिगळैक् कऴित्तु परिपूर्णकैङ्कर्यपर्यन्त फलत्तैक् कॊडुत्तु यावदात्मभावियाग उपकरिक्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् मुमुक्षुविऩ्-उडैय सर्वानिष्ट-निवृत्ति-पूर्वकम् आय्  
+परिपूर्ण-कैङ्कर्य-पर्यन्तम् आऩ फल-परं-परैय् ऎल्लाम् सिद्धोपाय कार्यमॆऩ्ऱुम् प्रसादनमाऩ साध्योपायमडियाग वरुगिऱदॆऩ्ऱुञ् जॊल्लुगिऱ प्रमाणङ्गळिरण्डुम् सुसङ्गतङ्गळ्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् मुमुक्षुविऩुडैय सर्वानिष्टनिवृत्तिपूर्वकमाय् परिपूर्ण कैङ्कर्यपर्यन्तमाऩ फलपरंपरैयॆल्लाम् सिद्धोपाय कार्यमॆऩ्ऱुम् प्रसादनमाऩ साध्योपायमडियाग वरुगिऱदॆऩ्ऱुञ् जॊल्लुगिऱ प्रमाणङ्गळिरण्डुम् सुसङ्गतङ्गळ्। 
+</details>
+
+
+
+Therefore those pramāṇas or authoritative passages which state that Siddhopāya (the Lord) confers the ultimate goal of perfect service (kaiṅkarya ) along with preliminary benefits after removing all undesirable hindrances and that sādhyopaya (bhakti and prapatti) leads to these benefits by propitiating Siddhopāya - these pramāṇas are both apposite and agree with one another very well.
 
 IS THERE ANY NEED FOR THE ŚĀSTRA ENJOINING PRAPATTI ?
 
