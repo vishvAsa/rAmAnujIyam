@@ -11,7 +11,7 @@ title = "१६ पुरुषार्थ-काष्ठाधिकारः
 
 <details><summary>Español</summary>
 
-(16) El capítulo sobre la extensión más lejana de nuestro objeto final en la vida. Página219
+(16) El capítulo sobre la **extensión** más lejana de nuestro objeto final en la **vida**. Página219
 </details>
 
 
@@ -52,14 +52,15 @@ as far as the service of those who are dear to Him (Bhāgavatas).
 
 <details><summary>Español</summary>
 
-In the world of everyday life (a king sometimes uses his dependents and ornaments to serve the purposes of those who are dear to him like his sons, wives etc.)  
-and in the Vedas, it is declared that all the gods make their offerings to the devotee.  
-Even so, the Lord of Lakṣmī  uses sentient beings and non-sentient things to serve for ever  
-the purposes of those who have won His regard,  
-because He is independent and is their Master.  
-So, for us whose minds have been disciplined by the teaching of such as the prince of sannayasins (viz. Śrī Rāmānuja),  
-the service of the Lord extends  
-as far as the service of those who are dear to Him (Bhāgavatas).
+En el mundo de la **vida** cotidiana (un rey a veces **usa** a sus dependientes y **adornos** para **servir** a los propósitos de aquellos que **son queridos** para él como sus hijos, esposas, etc.)  
+Y en los Vedas, se declara que todos los dioses **hacen** sus ofrendas al devoto.  
+Aun así, el Señor de Lakṣmī **usa** seres sensibles y cosas no sensibles para **servir** para siempre  
+los propósitos de aquellos que **han ganado** su respeto,  
+Porque él **es** independiente y **es** su maestro.  
+
+Entonces, para nosotros cuyas mentes **han sido disciplinadas** por la **enseñanza** de tales como el Príncipe de Sannayasins (a saber, Śrī Rāmānuja),  
+El **servicio** del Señor **se extiende**  
+En cuanto al **servicio** de aquellos que son **queridos** para él (Bhāgavatas).
 </details>
 
 
@@ -151,12 +152,12 @@ REASONS FOR RENDERING SERVICE TO BHĀGAVATĀS :
 
 <details><summary>Español</summary>
 
-Razones para prestar servicio a Bhāgavatās:
+Razones para **prestar servicio** a Bhāgavatās:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> इङ्गु भगवत्कैङ्कर्यत्तै भागवत-कैङ्कर्य-पर्यन्तम् आगच् चॊल्लुगैक्क् अडिय् ऎऩ् 
+> इङ्गु भगवत्-कैङ्कर्यत्तै भागवत-कैङ्कर्य-पर्यन्तम् आगच् चॊल्लुगैक्क् अडिय् ऎऩ् 
 
 ऎऩ्ऩिल्, 
 </details>
@@ -180,11 +181,11 @@ the answer is as follows:-
 
 <details><summary>Español</summary>
 
-Si se pregunta aquí
+Si **se pregunta** aquí
 
-> Cómo se puede afirmar que el servicio de Bhagavān se extiende hasta el servicio de sus devotos (los Bhāgavatas),
+> Cómo **se puede afirmar** que el **servicio** de Bhagavān se **extiende** hasta el **servicio** de sus devotos (los Bhāgavatas),
 
-La respuesta es la siguiente:-
+La **respuesta es** la siguiente:-
 </details>
 
 
@@ -202,9 +203,11 @@ La respuesta es la siguiente:-
 ### शेषत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘परगतातिशयाधानेच्छयोपादेयत्वम् एव यस्य स्व-रूपं  
+> ‘‘+++(चेतोऽन्तरस्यापि)+++ परगतातिशय+आधानेच्छया  
++++(अवस्था-विशेषेऽप्य्)+++ +उपादेयत्वम् एव  
+> यस्य स्व-रूपं+++(=अ-साधारण-धर्मः)+++  
 > स शेषः,  
-> परश्शेषी’’+++(5)+++  
+> परश् शेषी’’+++(5)+++  
 > (वेदार्थ-सङ्ग्रहः।) 
 
 ऎऩ्ऱु वेदार्थ-संग्रहत्तिलेय् अरुळिच्-चॆय्द बडिये
@@ -257,7 +260,7 @@ Se ha dicho en el Vedartha Sangraha:
 **अतिशय**-शब्दम् निकृष्टेतर-परम् आगैयाल्  
 पर-गत-विनाशादि-जनकम् आऩ शस्त्राग्नि-कण्टकादिगळिल् अतिव्याप्तियिल्लै।  
 
-इङ्गु **इच्छा**-शब्दत्तै तत्-तद्-वस्तु-गत-शेषत्वानुगुणम् आग शेषि-गतेच्छा-परम् आयुम्, शेष-गतेच्छा-परम् आयुम्, उभयगतेच्छा-परम् आयुम्, +++(अचित्त्वात्)+++ उदासीन-गतेच्छा-परम् आयुम् कॊळ्ळवेण्डुम्।  
+इङ्गु **इच्छा**-शब्दत्तै तत्-तद्-वस्तु-गत-शेषत्वानुगुणम् आग शेषि-गतेच्छा-परम् आयुम्, शेष-गतेच्छा-परम् आयुम्, उभयगतेच्छा-परम् आयुम्, +++(अचित्त्वात्)+++ उदासीन-गतेच्छा-परम् आयुम् कॊळ्ळवेण्डुम्।+++(4)+++  
 शेषिगतेच्छया उपादेयङ्गळुक्कु उदाहरणम् -  
 "इदं मदीयं भूयात्" ऎऩ्गिऱ शॆषियिऩुडैय इच्छैयिऩाले उपादेयङ्गळाऩ गृह-क्षेत्रादिगळ्।  
 शेषगतेच्छैयिऩाले उपादेयङ्गळुक्कु उदाहरणम् -  
@@ -272,15 +275,16 @@ Se ha dicho en el Vedartha Sangraha:
 ऎऩ्गिऱ यजमाऩऩ्-उडैय इच्छैयिऩाले  
 उपादेयङ्गळ् आऩ प्रयाजादिगळ्।  
 
-**उपादेयत्वं** – स्वीकार्यत्वं । व्यवहर्तव्यत्वमिति यावत् ।  
-इङ्गु उपादेयत्वम् उपादातुमर्हत्वरूपमागैयाल् सुषुप्त्याद्यकिञ्चित्कारदशैकळिल् अव्याप्तियिल्लै।  
+**उपादेयत्वं** – स्वीकार्यत्वं । व्यवहर्तव्यत्वम् इति यावत् ।  
+इङ्गु उपादेयत्वम् उपादातुम् अर्हत्व-रूपम् आगैयाल्  
+सुषुप्त्य्-आद्य्-अ-किञ्चित्-कार--दशैगळिल् अव्याप्तिय् इल्लै।+++(4)+++  
 
 इङ्गु **एव**कारत्ताल् कदाचित् स्वार्थ-निरपेक्षम् आग  
 भृत्यादि-प्रयोजन-साधकर्गळ् आऩ प्रकृष्ट-कृपा-स्नेहशालिगळाऩ शेषिगळ् इडत्तिल्  
 अतिव्याप्ति-वारितम् आगिऱदु;  
 अवर्गळ्-उडैय स्वरूपम् सर्वदा-भृत्यादि-गतातिशयाधानेच्छैयालेये उपादेयत्व-रूपम् अऩ्ऱिऱे।  
 
-**यस्य** - ऎन्द वस्तुविऩुडैय, **स्वरूपं** – स्वंरूपं, असाधारणधर्मः ।  
+**यस्य** - ऎन्द वस्तुविऩुडैय, **स्वरूपं** – स्वंरूपं, अ-साधारण-धर्मः ।  
 स्वरूप-निरूपक-धर्म इत्यर्थः ।  
 
 **स शेषः** – अवऩ् शेषशब्दवाच्यऩ्।  
