@@ -523,19 +523,19 @@ so that He extols him as in the words :-
 
 <details><summary>Español</summary>
 
-Se ha dicho:
+**Se ha dicho**:
 
-> "Bhagavān, que tiene todos los seres como su cuerpo,  
-> se regocija cuando un Jīva hace lo que es bueno  
-> y no se regocija cuando la acción es malvada ".
+> "Bhagavān, que **tiene** todos los seres como su cuerpo,  
+> **se regocija** cuando un Jīva **hace** lo que es bueno  
+> y **no se regocija** cuando la acción es malvada ".
 
-Cuando un hombre actúa de acuerdo con los Śāstras,  
-Él da el deleite al Señor  
-y por lo tanto no deja que su generosidad y otras cualidades se desperdicien,  
-pero promueve la gloria del Señor  
-para que lo ensalte como en las palabras:-
+Cuando un hombre **actúa** de acuerdo con los Śāstras,  
+Él da el **deleite** al Señor  
+y por lo tanto **no deja** que su generosidad y otras cualidades **se desperdicien**,  
+pero **promueve** la gloria del Señor  
+para que lo **ensalte** como en las palabras:-
 
-> "Todos estos son, de hecho, generosos".
+> "Todos estos **son**, de hecho, generosos".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -569,7 +569,7 @@ para que lo ensalte como en las palabras:-
 > “प्रहर्षयिष्यामि स-नाथ-जीवितः"  
 (आळवन्दार्-स्तोत्रम् ४६) 
 
-इत्य्-उक्त-रीत्या भोग-विशेषम् उत्पाद्य तन्-मुखेनातिशयाधायका भवन्ति । 
+इत्य्-उक्त-रीत्या भोग-विशेषम् **उत्पाद्य** तन्-मुखेनातिशयाधायका भवन्ति । 
 </details>
 
 <details><summary>English</summary>
@@ -589,17 +589,17 @@ as stated in the following śloka :-
 
 <details><summary>Español</summary>
 
-De la misma manera que los Muktas (almas liberadas) y los nityas (los sūris) promueven la gloria del Señor  
-por percepción directa de la voluntad del Señor  
-y actuando de tal manera que le diera bhoga o disfrute,
+De la misma manera que los Muktas (almas liberadas) y los nityas (los sūris) **promueven** la gloria del Señor   
+por **percepción** directa de la **voluntad** del Señor  
+y **actuando** de tal manera que le **diera** bhoga o disfrute,
 
-Las Prapannas también pueden dar lugar a un tipo especial de bhoga o disfrute del Señor  
-y así promueve su gloria  
+Las Prapannas también **pueden dar** lugar a un tipo especial de bhoga o disfrute del Señor  
+y así **promueve** su gloria  
 como se indica en el siguiente Śloka:-
 
-> "¿Cuándo seré siempre Tu siervo,  
-Te miraré como mi Maestro  
-y de esta manera Te daré deleite?"
+> "¿Cuándo **seré** siempre Tu **siervo**,  
+Te **miraré** como mi Maestro  
+y de esta manera Te **daré** deleite?"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -635,8 +635,8 @@ and renders service to the Lord.
 
 <details><summary>Español</summary>
 
-The prapanna learns the Lord's will from the śāstras (though not directly )  
-and renders service to the Lord.
+La Prapanna **aprende** la **voluntad** del Señor de los Śāstras (aunque no directamente)  
+y **presta** servicio al Señor.
 </details>
 
 
@@ -676,8 +676,8 @@ it will end in his ruin.
 
 <details><summary>Español</summary>
 
-When a man gives rise to Iśvara's līlā rasa by actions opposed to the śāstras,  
-it will end in his ruin. 
+Cuando un hombre **da lugar** a Līlā rasa de Iśvara por **acciones** opuestas a los śāstras,  
+**Terminará** en su ruina.
 </details>
 
 
@@ -699,7 +699,7 @@ THE LORD IS PLEASED AT THE SERVICE RENDERED TO HIS DEVOTEES :
 
 <details><summary>Español</summary>
 
-El Señor está contento con el servicio prestado a sus devotos:
+El Señor **está contento** con el **servicio prestado** a sus devotos:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -709,7 +709,7 @@ El Señor está contento con el servicio prestado a sus devotos:
 ईश्वराभिप्रायत्तैक् **कण्डु**  
 तद्-**अनुरूपम् आग वर्तिक्कुम्** बोदु  
 ईश्वरऩ् उडैय **लीलादि**-पुरुषार्थत्त्-उडऩेय्  
-आनुषङ्गिकम् आगत् तऩक्कुम् स्वाभिमत-**पुरुषार्थम् उण्ड् आम्**।  
++++(अप्रार्थ्यापि←)+++ आनुषङ्गिकम् आगत् तऩक्कुम् स्वाभिमत-**पुरुषार्थम् उण्ड् आम्**।  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -718,7 +718,7 @@ El Señor está contento con el servicio prestado a sus devotos:
 मुक्त-दशायां प्रत्यक्षेण चेश्वराभिप्रायं **विदित्वा**  
 तद्-अनुरूपं वर्तने  
 ईश्वरस्य लीलादि-पुरुषार्थेन सह  
-आनुषङ्गिकतया स्वस्यापि स्वाभिमत-पुरुषार्थः सिध्यति ।
++++(अप्रार्थ्यापि←)+++ आनुषङ्गिकतया स्वस्यापि स्वाभिमत-पुरुषार्थः सिध्यति ।
 </details>
 
 
@@ -733,11 +733,11 @@ but incidentally attain his own desired objects.
 
 <details><summary>Español</summary>
 
-If, in the state of bondage,  
-he acts according to the Lord's will as revealed in the śāstras  
-and, in the state of mokṣa , by direct perception of the Lord's will,  
-he will not only promote the Lord's līlā rasa and bhoga  
-but incidentally attain his own desired objects.  
+Si, en el estado de la esclavitud,
+Él **actúa** de acuerdo con la **voluntad** del Señor como **se revela** en los Śāstras  
+y, en el estado de Mokṣa, por percepción directa de la voluntad del Señor,  
+No solo **promoverá** el Līlā Rasa y Bhoga del Señor  
+pero incidentalmente **alcanza** sus propios objetos deseados.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -787,10 +787,10 @@ which disclose that the service rendered to His devotees is most delightful to h
 
 <details><summary>Español</summary>
 
-Cuando el Jīva actúa en cualquier ocasión conscientemente,  
-Dado que su fruta deseada, por lo que es incidental, tiene que venir de la voluntad del Señor,
-este último tiene que ser determinado de los śastras
-Lo que revela que el servicio prestó a sus devotos es más encantador para él.
+Cuando el Jīva **actúa** en cualquier ocasión conscientemente,  
+Dado que su fruta **deseada**, por lo que es incidental, tiene que **venir** de la voluntad del Señor,  
+este último **tiene** que ser determinado de los śastras  
+Lo que **revela** que el servicio **prestó** a sus devotos **es** más encantador para él.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -845,11 +845,11 @@ The following authoritative texts may be studied in this connection:
 
 <details><summary>Español</summary>
 
-Los siguientes textos autorizados se pueden estudiar a este respecto:
+Los siguientes textos autorizados **se pueden estudiar** a este respecto:
 
-> "De todas las formas de homenaje, el homenaje pagado a Viṣṇu es el mejor,  
+> "De todas las formas de homenaje, el homenaje **pagado** a Viṣṇu es el mejor,  
 > Pero superior incluso a esto,  
-> es el excelente homenaje o adoración ofrecida a los devotos de Viṣṇu ",
+> **es** el excelente **homenaje o adoración ofrecida** a los devotos de Viṣṇu ",
 </details>
 
 
@@ -895,8 +895,8 @@ Los siguientes textos autorizados se pueden estudiar a este respecto:
 
 <details><summary>Español</summary>
 
-> "Tengo un gran afecto por aquellos que están dedicados a mis devotos.  
-> Por lo tanto, se debe hacer un servicio devoto para ellos ".
+> "**Tengo** un gran afecto por aquellos que **están** dedicados a mis devotos.  
+> Por lo tanto, **se debe hacer un servicio devoto** para ellos ".
 </details>
 
 

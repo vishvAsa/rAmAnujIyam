@@ -5277,11 +5277,20 @@ Estos pramāṇas **son** apagados y ****están muy bien entre sí.
 आगैयाल् मुमुक्षुविऩुडैय सर्वानिष्टनिवृत्तिपूर्वकमाय् परिपूर्ण कैङ्कर्यपर्यन्तमाऩ फलपरंपरैयॆल्लाम् सिद्धोपाय कार्यमॆऩ्ऱुम् प्रसादनमाऩ साध्योपायमडियाग वरुगिऱदॆऩ्ऱुञ् जॊल्लुगिऱ प्रमाणङ्गळिरण्डुम् सुसङ्गतङ्गळ्। 
 </details>
 
+### विधेयत्वम्
 
-
-
+<details><summary>English</summary>
 
 IS THERE ANY NEED FOR THE ŚĀSTRA ENJOINING PRAPATTI ?
+</details>
+
+<details><summary>Español</summary>
+
+¿**Hay** alguna **necesidad** de la Śāstra que le da a Prapatti?
+</details>
+
+
+
 
 Notwithstanding all this, some may ask:  
 
