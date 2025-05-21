@@ -693,7 +693,7 @@ meditating on God for a moment he becomes anew an ascetie (lapasvin) and the pur
 **न** मूर्खाय गुरुर् **वदेत्** ।  
 य **आश्रयेद्** अ-विद्वांसं  
 तमसस् तु **तमो विशेत्** ॥ ३६ ॥  
-मूर्ख (र्खे ?) **दत्तं** तु यज् ज्ञानम्  
+मूर्खे **दत्तं** तु यज् ज्ञानम्  
 **उप्तं** बीजम् इवोषरे ।  
 </details>
 
@@ -996,7 +996,7 @@ With base mantras he shall not effect extraction of poison, exorcism of devils a
 **न धारयेज्** जटा-भारं  
 भस्म चैव **न धारयेत्** ।  
 बाह्य-लिङ्गानि सर्वाणि  
-सन्त्यजेद् यावद् आयुषम् ॥ ५३ ॥
+**सन्त्यजेद्** यावद् आयुषम् ॥ ५३ ॥
 </details>
 
 <details><summary>English</summary>
@@ -1063,8 +1063,8 @@ With base mantras he shall not effect extraction of poison, exorcism of devils a
 व्यासस् तु भगवान् **आह**  
 **वर्जनीयं** सताम् इह-  
 "न शब्द-शास्त्राभिरतस्य मोक्षो  
-न चापि रम्यावसथप्रियस्य ।  (इति. स. 2-10)  
-न भोजनाच्छादन-तत्परस्य  
+न चापि रम्यावसथ-प्रियस्य ।  (इति. स. 2-10)  
+न भोजनाच्छादन-तत्-परस्य  
 न लोक-चित्त-ग्रहणे रतस्य " ॥५७॥
 </details>
 
