@@ -130,7 +130,9 @@ Y **disfruta** de él con un **servicio** amoroso similar a las flores fragantes
 पुष्पङ्गळ्बोल् भोग्यङ्गळाऩ कैङ्कर्यङ्गळाले अनभिमुखमायुळ्ळ भगवाऩै मनुमयमाऩ मणिदर्पणत्तिल् अभिमुखमाक्कि  
 अनुभविक्किऱाऩ् +++(5)+++
 
-ऎऩ्ऱु तात्पर्यम्।  
+ऎऩ्ऱु तात्पर्यम्। 
+
+ 
 </details>
 
 <details open><summary>विश्वास-टिप्पनी</summary>
