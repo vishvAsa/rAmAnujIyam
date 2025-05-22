@@ -5277,6 +5277,8 @@ Estos pramāṇas **son** apagados y ****están muy bien entre sí.
 आगैयाल् मुमुक्षुविऩुडैय सर्वानिष्टनिवृत्तिपूर्वकमाय् परिपूर्ण कैङ्कर्यपर्यन्तमाऩ फलपरंपरैयॆल्लाम् सिद्धोपाय कार्यमॆऩ्ऱुम् प्रसादनमाऩ साध्योपायमडियाग वरुगिऱदॆऩ्ऱुञ् जॊल्लुगिऱ प्रमाणङ्गळिरण्डुम् सुसङ्गतङ्गळ्। 
 </details>
 
+
+
 ### विधेयत्वम्
 
 <details><summary>English</summary>
@@ -5289,10 +5291,19 @@ IS THERE ANY NEED FOR THE ŚĀSTRA ENJOINING PRAPATTI ?
 ¿**Hay** alguna **necesidad** de la Śāstra que le da a Prapatti?
 </details>
 
+#### शङ्का
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > आऩालुम् इप्-प्रपत्तिय् आगिऱ उपाय-विशेषत्तै शास्त्रम् विधिक्क-वेणुमो; 
 </details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अथाप्य् अयं प्रपत्ति-रूप उपाय-विशेषः  
+किं शास्त्रेण विधातव्यः ?  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5327,6 +5338,16 @@ con su sentido común o razón).
 तऩ्ऩैयुम् ईश्वरऩैयुम् सिद्ध-परम् आऩ शास्त्रत्ताले तॆळिन्दाल्  
 ताऩेय् अवऩै शरणम् आगप् पऱ्ऱाऩो;
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> लोके स्वस्य रक्षण-विषये उपाय-शून्यो दुःख्यन् कश्चित्  
+यथा तदात्वे सन्निहितं रक्षण-समर्थम् आश्रयति,  
+तथा स्व-स्व-रूपे ईश्वर--स्व-रूपे च  
+सिद्ध+++(-वस्तु)+++-पर-शास्त्रेण विदिते सति  
+स्वयम् एव तं शरणत्वेन किं नाश्रयेत् ? 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5368,6 +5389,15 @@ que **trata** de la **existente** upāya,
 ऎऩ्ऱुञ् सिलर् सॊल्लुवर्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अतो ऽकिञ्चनस्य भक्ति-स्थाने प्रपत्तिर्  
+न विधातव्या
+
+इति केचिदाचक्षते । 
+</details>
+
+
 <details><summary>English</summary>
 
 > So there is no propriety in the śāstra prescribing prapatti in the place of bhakti.
@@ -5388,6 +5418,12 @@ que **trata** de la **existente** upāya,
 इदुवुम् औचित्य-मूलम् आऩ अतिवादम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अयम् अपि औचित्य-मूलोऽतिवादः । 
+</details>
+
+
 <details><summary>English</summary>
 
 This question is based on appropriate reasoning but proceeds too far. 
@@ -5403,7 +5439,7 @@ Esta pregunta **se basa** en el razonamiento apropiado, pero **avanza** demasiad
 इदुवुम् औचित्यमूलमाऩ अतिवादम्। 
 </details>
 
-
+#### इति-कर्तव्यतापेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎङ्ङऩेय् ऎऩ्ऩिल्;  
@@ -5411,6 +5447,16 @@ Esta pregunta **se basa** en el razonamiento apropiado, pero **avanza** demasiad
 इऩ्ऩ बडियेय् आश्रयित्ताल्  
 इवऩ् इरङ्गुम् ऎऩ्ऩुम् इडत्तैय् ऒरुप्रमाणत्तालेय् अऱिन्द् आश्रयिक्कुमाप् पोले, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कथम् इति चेत् —  
+लोके केनचित् कस्यचिद् आश्रयणे प्राप्ते,  
+अनेन प्रकारेणाश्रयणे कृते  
+अयं दयेतेत्य् एतम् अर्थम्  
+केनचित् प्रमाणेन विदित्वा यथाऽऽश्रयणं क्रियते, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5452,6 +5498,19 @@ y luego **busca** su **protección**.
 वेऱ् ओरु प्रमाणम् इल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तथाऽत्रापि  
+
+> ईश्वरस्यानेन प्रकारेणानेनाधिकारिणा आश्रयणे क्रियमाणे  
+एतम् ईश्वरो रक्षेत् 
+
+इत्य्-अर्थस्य ज्ञानार्थं  
+कर्तव्य-पर-शास्त्रं विना  
+ऽन्यत् किमपि प्रमाणं नास्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 Similarly we should know  
@@ -5480,13 +5539,25 @@ y que **puede decirnos** cómo **debemos proceder** a **buscar** su **ayuda**.
 इङ्गु ईश्वरऩैयिऩ्ऩ प्रकारत्ताले इऩ्ऩ अधिकारि पऱ्ऱिऩालिवऩै ईश्वरऩ् रक्षिक्कुमॆऩ्ऩुमिडमऱियुम्बोदु कर्तव्यपरमाऩ शास्त्रमॊऴिय वेऱोरु प्रमाणमिल्लै। 
 </details>
 
+#### अधिकाराकाङ्क्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाम् आश्रयिक्क रक्षिक्कुम् ऎऩ्ऱ् अनुमानत्ताले  
-अऱुदिय् इट्ट् आश्रयिक्किल्  
+> नाम् आश्रयिक्क रक्षिक्कुम् 
+
+ऎऩ्ऱ् अनुमानत्ताले  
+अऱुदिय्+++(=निश्चयम्)+++ इट्ट् आश्रयिक्किल्  
 ईश्वर-तत्त्व-ज्ञानम् उडैयार् ऎल्लार्क्कुम्  
-अप्-पडिय् अनुष्ठिक्कलाम् आगैयाले  
-उपासन-विधायक शास्त्रङ्गळ् निरर्थकङ्गळ् आम्। 
+अप्-पडिय् अनुष्ठिक्कल् आम्।  
+आगैयाले उपासन-विधायक शास्त्रङ्गळ् निरर्थकङ्गळ् आम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अस्माभिर् आश्रयणे कृते रक्षेद्  
+
+इत्य्-अनुमानेन निर्णीयाश्रयणे क्रियमाणे,  
+ईश्वर-तत्त्व-ज्ञानवद्भिः सवैर् एवम्-अनुष्ठीयेतेति  
+उपासन-विधायक-शास्त्राति निरर्थकानि स्युः । 
 </details>
 
 <details><summary>English</summary>
@@ -5532,6 +5603,16 @@ y los textos en el Śāstra que **prescriben** upāsana (bhakti) se **volverían
 अनुमानत्ताल् कडप्-पडादु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> समर्थः उपासनादि कुर्यात् ;  
+तत्रासमर्थः प्रपत्तिं कुर्याद् 
+
+इति विशिष्य नियमनम्  
+अनुमानेनाशक्यम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 The distinction that he who is capable should adopt upāsana and the like  
@@ -5554,8 +5635,52 @@ Esta distinción **no puede establecerse** por medio de inferencia (anumāna).
 समर्थऩ् उपासनादिगळैप्पण्ण, अवऱ्ऱिल् समर्थऩल्लादवऩ् प्रपत्तियैप्पण्णवॆऩ्ऱु विशेषित्तु नियमिक्कै अनुमानत्ताल् कडप्पडादु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-If the sāstra does not enjoin the performance of prapatti in the place of other upāyas to those who are incapable of them, they will have to lose the fruit of these other upāyas as they are not competent enough for their proper performance. This is how it stands. Though in ordinary life (in the world), we see service to kings and the like conferring certain benefits, yet we hold that in regard to the weaving of garlands, the lighting of lamps, the singing of hymns, the act of prostrating, and so on (in temples), if these things are done without any reference to the śāstras (as to how they should be done!, they will become offences. The worship of Bhagavān and His service have to be done with the right accessories as laid down in the śāstras and the fruits arising therefrom have also to be understood only from the śāstras. In the same way, although we see instances of prapatti
+> मऱ्ऱ्-उळ्ळ उपायङ्गळिल्  
+समर्थऩ् अऩ्ऱिगेय् ऒऴिन्दाल्  
+अवऱ्ऱिऩ्-उडैय स्थानत्तिले प्रपत्तियैप् पण्णुवदु  
+
+ऎऩ्ऱु शास्त्रम् विधियाद बोदु  
+मुऩ्बु विधित्त उपायत्तुक्क् अनर्हऩ् आऩ बडियाले  
+अदिऩ् फलत्तै इऴक्कुम् बडिय् आम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> इतरेषूपायेषु सामर्थ्याभावे सति  
+तत्-स्थाने प्रपत्तिं कुर्याद् 
+
+इति शास्त्रेणाविधाने,  
+पूर्वं विहितस्योपायस्यानर्हत्वात्  
+तत्-फलाप्राप्तिर् एव स्यात् । 
+</details>
+
+
+<details><summary>English</summary>
+
+If the sāstra does not enjoin the performance of prapatti in the place of other upāyas  
+to those who are incapable of them,  
+they will have to lose the fruit of these other upāyas  
+as they are not competent enough for their proper performance. 
+</details>
+
+<details><summary>Español</summary>
+
+Si el Sāstra **no ordena** el **rendimiento** de Prapatti en el lugar de otros upāyas  
+a aquellos que **son incapaces** de ellos,  
+**Tendrán** que **perder** el fruto de estos otros upāyas  
+ya que **no son** lo **suficientemente** competentes para su **rendimiento** adecuado.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुळ्ळ उपायङ्गळिल् समर्थऩऩ्ऱिगेयॊऴिन्दाल् अवऱ्ऱिऩुडैय स्थानत्तिले प्रपत्तियैप्पण्णुवदु ऎऩ्ऱु शास्त्रम् विधियादबोदु मुऩ्बु विधित्त उपायत्तुक्कनर्हऩाऩबडियाले अदिऩ् फलत्तै इऴक्कुम्बडियाम्।
+</details>
+
+
+
+This is how it stands. Though in ordinary life (in the world), we see service to kings and the like conferring certain benefits, yet we hold that in regard to the weaving of garlands, the lighting of lamps, the singing of hymns, the act of prostrating, and so on (in temples), if these things are done without any reference to the śāstras (as to how they should be done!, they will become offences. The worship of Bhagavān and His service have to be done with the right accessories as laid down in the śāstras and the fruits arising therefrom have also to be understood only from the śāstras. In the same way, although we see instances of prapatti
 
 io worldly life and the benefits arising therefrom, yet we can understand only from the śāstras the relationship of cause and effect that exists between prapatti performed with particular mantras and in accordance with the instructions of the goodācārya and certain special benefits which would result therefrom. Just as certain special forms of worship and service are prescribed for certain special benefits, prapatti, too, has been enjoined. If it were otherwise, no rules would have to be prescribed for the service of Bhagavān, in the same way as there are none for the service of the king. It would lead to the wrong view that, for prapatti also, the initiation into mantras with the instructions of goodācāryas is unnecessary. That even those who are not competent for the utterance of mantras may perform prapatti to the Saviour who has certain specific attributes and that certain specific benefits will be derived therefrom, provided it is performed in the proper way without anything wanting and without any up due excess - this cannot be determined by any sound inference, Therefore just as particular forms of worship and service to Bhagavān are enjoined (in the śāstras) with certain accessories, there is nothing inappropriate in the śāstra prescribing the per formance of prapatti with certain accessories (aṅgas ).
 
