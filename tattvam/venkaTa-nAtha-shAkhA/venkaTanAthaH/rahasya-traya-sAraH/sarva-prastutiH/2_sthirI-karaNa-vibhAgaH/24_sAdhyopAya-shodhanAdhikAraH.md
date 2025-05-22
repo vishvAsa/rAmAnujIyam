@@ -5277,6 +5277,10 @@ Estos pramāṇas **son** apagados y ****están muy bien entre sí.
 आगैयाल् मुमुक्षुविऩुडैय सर्वानिष्टनिवृत्तिपूर्वकमाय् परिपूर्ण कैङ्कर्यपर्यन्तमाऩ फलपरंपरैयॆल्लाम् सिद्धोपाय कार्यमॆऩ्ऱुम् प्रसादनमाऩ साध्योपायमडियाग वरुगिऱदॆऩ्ऱुञ् जॊल्लुगिऱ प्रमाणङ्गळिरण्डुम् सुसङ्गतङ्गळ्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि सिद्धोपायमे अनिष्टनिवृत्तियैयुम् इष्टप्राप्तियैयुम् सॆय्गिऱदॆऩ्ऩिल्; साध्योपायत्ताले अनिष्टनिवृत्तियुम् इष्टप्राप्तियुम् वरुवदागच् चॊल्लुम् वचनङ्गळ् सङ्गतङ्गळागुमोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् आगैयालित्यादिना । आगैयाल् - अनिष्टनिवृत्तिपूर्वकेष्टप्राप्तियाऩदु साध्योपाय वशीकृतऩाऩ सिद्धोपायकार्यमॆऩ्ऱु निष्कर्षिक्कैयाल्, सिद्धोपायकार्यमॆऩ्ऱुम् प्रसादनमाऩ साध्योपायमडियागवरुगिऱदॆऩ्ऱुञ् जॊल्लुगिऱ प्रमाणङ्गळिरण्डुम् सुसङ्गतङ्गळिति । अनिष्टनिवृत्तियुम् इष्टप्राप्तियुम् सिद्धोपायकार्यमॆऩ्गिऱ वचनम् साक्षात्सिद्धोपायकार्यत्व तात्पर्यकमागैयालुम्, इवैयिरण्डुम् साध्योपायकार्यङ्गळ् ऎऩ्गिऱ वचनम् परम्परया (अदावदु) भगवत्प्रसादद्वारा साध्योपायकार्यङ्गळॆऩ्ऱु तात्पर्यकमागैयालुम् परस्पर विरुद्धङ्गळॆऩ्ऱॆऩ्ऱु तिरुवुळ्ळम्।
+</details>
 
 
 ### विधेयत्वम्
@@ -5329,11 +5333,16 @@ con su sentido común o razón).
 आऩालुम् इप्प्रपत्तियागिऱ उपायविशेषत्तै शास्त्रम् विधिक्कवेणुमो; 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडियाऩालुम् लोकसिद्धप्रक्रियैयिऩालेये असमर्थऩ् समर्थऩै आश्रयिप्पदागिऱ शरणागति उपपन्नमागानिऱ्क अदऱ्कु विधि वेण्डुमो? आगैयाल् चरमश्लोकम् अकिञ्चनऩाऩ तऩ् स्वरूपत्तैयुम् ईश्वरऩैयुम् अऱिन्दवऩुक्कु अर्थसिद्धार्थानुवादकमेयॊऴिय विधायकमऩ्ऱॆऩ्गिऱ पक्षत्तै अनुवदित्तु निरसिक्किऱार् आऩालुमित्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > लोकत्तिल् तऩ्ऩै रक्षित्तुक्-कॊळ्ळ विरग् इल्लादेय्  
-अऴुन्दुवाऩ् ऒरुवऩ्  
+अऴुन्दुवाऩ् +++(=निमज्जन्)+++ ऒरुवऩ्  
 अप्-पोदु सन्निहितऩ् आऩ रक्षण-समर्थऩैप् पऱ्ऱुम् आप् पोले  
 तऩ्ऩैयुम् ईश्वरऩैयुम् सिद्ध-परम् आऩ शास्त्रत्ताले तॆळिन्दाल्  
 ताऩेय् अवऩै शरणम् आगप् पऱ्ऱाऩो;
@@ -5381,6 +5390,12 @@ que **trata** de la **existente** upāya,
 लोकत्तिल् तऩ्ऩै रक्षित्तुक्कॊळ्ळ विरगिल्लादेय् अऴुन्दुवाऩॊरुवऩ् अप्पोदु सन्निहितऩाऩ रक्षणसमर्थऩैप् पऱ्ऱुमाप्पोले तऩ्ऩैयुमीश्वरऩैयुम् सिद्धपरमाऩ शास्त्रत्ताले तॆळिन्दाल् ताऩेयवऩै शरणमागप् पऱ्ऱाऩो;
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अऴुन्दुवाऩॊरुवऩ् - मुऴुगिप्पोवाऩॊरुवऩ्। ऒरुवऩ् किणऱ्ऱिले विऴुन्दु मुऴुगित् तऩ्ऩैत् ताऩे रक्षित्तुक् कॊळ्ळ असमर्थऩाऩ पोदु किणऱ्ऱिऩ् करैयिल् सन्निहितऩाय् तऩ्ऩै रक्षिक्क समर्थऩाऩ ऒरुवऩै आश्रयियिप्पदु कण्डदुण्डिऱे। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5413,6 +5428,12 @@ que **trata** de la **existente** upāya,
 आगैयाल् अकिञ्चनऩुक्कु भक्तिस्थानत्तिले प्रपत्तियै विधिक्कक्कूडादे यॆऩ्ऱुञ्जिलर् सॊल्लुवर्गळ्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदऱ्काग भक्तिस्थानत्तिले प्रपत्तियै विधिक्कवेण्डाम् ऎऩ्बदु घट्टाभिप्रायम्।  
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदुवुम् औचित्य-मूलम् आऩ अतिवादम्। 
@@ -5438,6 +5459,7 @@ Esta pregunta **se basa** en el razonamiento apropiado, pero **avanza** demasiad
 
 इदुवुम् औचित्यमूलमाऩ अतिवादम्। 
 </details>
+
 
 #### इति-कर्तव्यतापेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5678,9 +5700,37 @@ ya que **no son** lo **suficientemente** competentes para su **rendimiento** ade
 मऱ्ऱुळ्ळ उपायङ्गळिल् समर्थऩऩ्ऱिगेयॊऴिन्दाल् अवऱ्ऱिऩुडैय स्थानत्तिले प्रपत्तियैप्पण्णुवदु ऎऩ्ऱु शास्त्रम् विधियादबोदु मुऩ्बु विधित्त उपायत्तुक्कनर्हऩाऩबडियाले अदिऩ् फलत्तै इऴक्कुम्बडियाम्।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ऎङ्ङऩेय्?" ऎऩ्ऩिल्;  
+लोकत्तिल् राज-सेवादिगळुम् तत्-फलङ्गळुम् काणच् चॆय्दे +++(=दृश्यमाने सति)+++,  
+
+माला-करण, दीपारोपण, स्तुति--नमस्-कारादिगळै  
+शास्त्र-निरपेक्षम् आग अनिष्ठत्ताल्  
+अपचारङ्गळ् वरुम् बडिय् आय् इरुक्कैयाले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कथम् इति चेत् —  
+लोके राज-सेवादीनां तत्-फलानां च दृष्टत्वेऽपि  
+मालाकरण-दीपारोपण-स्तुति--नमस्-कारादीनां शास्त्र-नैरपेक्ष्येणानुष्ठाने ऽपचार-प्रसङ्गात्  
+</details>
 
 
-This is how it stands. Though in ordinary life (in the world), we see service to kings and the like conferring certain benefits, yet we hold that in regard to the weaving of garlands, the lighting of lamps, the singing of hymns, the act of prostrating, and so on (in temples), if these things are done without any reference to the śāstras (as to how they should be done!, they will become offences. The worship of Bhagavān and His service have to be done with the right accessories as laid down in the śāstras and the fruits arising therefrom have also to be understood only from the śāstras. In the same way, although we see instances of prapatti
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; लोकत्तिल् राजसेवादिगळुम् तत्फलङ्गळुम् काणच्चॆय्दे मालाकरण, दीपारोपण, स्तुतिनमस्कारादिगळै शास्त्र-निरपेक्षमाग अनिष्ठत्ताल् अपचारङ्गळ् वरुम्बडियायिरुक्कैयाले 
+</details>
+
+
+This is how it stands.  
+Though in ordinary life (in the world),   
+we see service to kings and the like conferring certain benefits,  
+yet we hold that in regard to the weaving of garlands, the lighting of lamps, the singing of hymns, the act of prostrating, and so on (in temples),  
+if these things are done without any reference to the śāstras (as to how they should be done),  
+they will become offences.  
+The worship of Bhagavān and His service have to be done with the right accessories as laid down in the śāstras and the fruits arising therefrom have also to be understood only from the śāstras. In the same way, although we see instances of prapatti
 
 io worldly life and the benefits arising therefrom, yet we can understand only from the śāstras the relationship of cause and effect that exists between prapatti performed with particular mantras and in accordance with the instructions of the goodācārya and certain special benefits which would result therefrom. Just as certain special forms of worship and service are prescribed for certain special benefits, prapatti, too, has been enjoined. If it were otherwise, no rules would have to be prescribed for the service of Bhagavān, in the same way as there are none for the service of the king. It would lead to the wrong view that, for prapatti also, the initiation into mantras with the instructions of goodācāryas is unnecessary. That even those who are not competent for the utterance of mantras may perform prapatti to the Saviour who has certain specific attributes and that certain specific benefits will be derived therefrom, provided it is performed in the proper way without anything wanting and without any up due excess - this cannot be determined by any sound inference, Therefore just as particular forms of worship and service to Bhagavān are enjoined (in the śāstras) with certain accessories, there is nothing inappropriate in the śāstra prescribing the per formance of prapatti with certain accessories (aṅgas ).
 
