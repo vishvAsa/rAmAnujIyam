@@ -5239,7 +5239,7 @@ Mientras **dure** el yo.
 अतो 
 
 > मुमुक्षोः  
-सर्वानिष्ट-निवृत्ति-पूर्विका परिपूर्ण-कैङ्कर्य-पर्यन्ता फल-परम्-परा सर्वाऽपि,  
+सर्वानिष्ट-निवृत्ति-पूर्विका परिपूर्ण-कैङ्कर्य-पर्यन्ता फल--परम्-परा सर्वाऽपि,  
 सिद्धोपाय-कार्या भवति
 
 इति,  
@@ -5289,24 +5289,273 @@ IS THERE ANY NEED FOR THE ŚĀSTRA ENJOINING PRAPATTI ?
 ¿**Hay** alguna **necesidad** de la Śāstra que le da a Prapatti?
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> आऩालुम् इप्-प्रपत्तिय् आगिऱ उपाय-विशेषत्तै शास्त्रम् विधिक्क-वेणुमो; 
+</details>
 
+<details><summary>English</summary>
 
 Notwithstanding all this, some may ask:  
 
 > "Why should the śāstra enjoin this upāya called prapatti?  
 (The śāstra has to help  
 only when man cannot find out things for himself with his common sense or reason).  
-In ordinary life, when a man is about to sink (into ruin )  
+</details>
+
+<details><summary>Español</summary>
+
+**No obstante** todo esto, algunos **pueden preguntar**:
+
+> "¿Por qué el Śāstra **debería ordenar** a este upāya **llamado** Prapatti?  
+(El Śāstra **tiene que ayudar**  
+Solo cuando el hombre **no puede averiguar** las cosas por sí mismo  
+con su sentido común o razón).
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऩालुम् इप्प्रपत्तियागिऱ उपायविशेषत्तै शास्त्रम् विधिक्कवेणुमो; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> लोकत्तिल् तऩ्ऩै रक्षित्तुक्-कॊळ्ळ विरग् इल्लादेय्  
+अऴुन्दुवाऩ् ऒरुवऩ्  
+अप्-पोदु सन्निहितऩ् आऩ रक्षण-समर्थऩैप् पऱ्ऱुम् आप् पोले  
+तऩ्ऩैयुम् ईश्वरऩैयुम् सिद्ध-परम् आऩ शास्त्रत्ताले तॆळिन्दाल्  
+ताऩेय् अवऩै शरणम् आगप् पऱ्ऱाऩो;
+</details>
+
+<details><summary>English</summary>
+
+> In ordinary life, when a man is about to sink (into ruin )  
 because he cannot protect himself,  
 he seeks the protection of some one  
 who happens to be by his side  
 and who has the ability to protect him.  
 In the same way, if a man has understood himself and Iśvara from the śāstra  
 which treats of the existent upāya,  
-will he not seek Iśvara for protection, of his own accord, (without the śāstra enjoining it)? So there is no propriety in the śāstra prescribing prapatti in the place of bhakti.
+will he not seek Iśvara for protection, of his own accord,  
+(without the śāstra enjoining it)?  
+</details>
 
-This question is based on appropriate reasoning but proceeds too far. This is how it goes too far. In ordinary life (in the world) when a man seeks the help of another, he tries to learn before-hand in what way he should approach the other, so that the latter may take pity on him and then he seeks his protection. Similarly we should know who is competent to seek Iśvara's protection and in what manner he should do so, so that the Lord may protect him; there is no pramāṇa or authority other than the śāstra which deals with what should be done and which can tell us how we should proceed to seek His help. It cannot be maintained that, by means of inference (or anumāna), we can understand that the Lord will protect if we seek refuge under Him and then seek His protection. For in that case, every one who has a know. ledge of the truth concerning Iśvara may adopt the means in the manner suggested by his own inference and the texts in the śāstra which prescribe upāsana (bhakti) would then become useless. The distinction that he who is capable should adopt upāsana and the like and that he who is not capable of them should resort to prapatti - this distinction cannot be established by means of inference ( anumāna ). If the stāstra does not enjoin the performance of prapatti in the place of other upāyas to those who are incapable of them, they will have to lose the fruit of these other upāyas as they are not competent enough for their proper performance. This is how it stands. Though in ordinary life (in the world), we see service to kings and the like conferring certain benefits, yet we hold that in regard to the weaving of garlands, the lighting of lamps, the singing of hymns, the act of prostrating, and so on (in temples), if these things are done without any reference to the śāstras (as to how they should be done!, they will become offences. The worship of Bhagavān and His service have to be done with the right accessories as laid down in the śāstras and the fruits arising therefrom have also to be understood only from the śāstras. In the same way, although we see instances of prapatti
+<details><summary>Español</summary>
+
+> En la vida ordinaria, cuando un hombre está a punto de **hundirse** (en ruina)  
+Porque **no puede protegerse**  
+Busca la **protección** de alguien  
+quien **pasa** a su lado  
+y quién tiene la capacidad de **protegerlo**.
+De la misma manera, si un hombre **se ha entendido** a sí mismo e Iśvara del Śāstra  
+que **trata** de la **existente** upāya,
+¿**No buscará** a iśvara para **protección**, por su propia cuenta?
+(sin el Śāstra que lo **ordena**)?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+लोकत्तिल् तऩ्ऩै रक्षित्तुक्कॊळ्ळ विरगिल्लादेय् अऴुन्दुवाऩॊरुवऩ् अप्पोदु सन्निहितऩाऩ रक्षणसमर्थऩैप् पऱ्ऱुमाप्पोले तऩ्ऩैयुमीश्वरऩैयुम् सिद्धपरमाऩ शास्त्रत्ताले तॆळिन्दाल् ताऩेयवऩै शरणमागप् पऱ्ऱाऩो;
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आगैयाल् अ-किञ्चनऩुक्कु भक्ति-स्थानत्तिले प्रपत्तियै विधिक्कक्-कूडादेय् 
+
+ऎऩ्ऱुञ् सिलर् सॊल्लुवर्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+> So there is no propriety in the śāstra prescribing prapatti in the place of bhakti.
+</details>
+
+<details><summary>Español</summary>
+
+> Entonces **no hay** propiedad en el Prapatti que **prescribe** Śāstra en el lugar de Bhakti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् अकिञ्चनऩुक्कु भक्तिस्थानत्तिले प्रपत्तियै विधिक्कक्कूडादे यॆऩ्ऱुञ्जिलर् सॊल्लुवर्गळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुवुम् औचित्य-मूलम् आऩ अतिवादम्। 
+</details>
+
+<details><summary>English</summary>
+
+This question is based on appropriate reasoning but proceeds too far. 
+</details>
+
+<details><summary>Español</summary>
+
+Esta pregunta **se basa** en el razonamiento apropiado, pero **avanza** demasiado.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदुवुम् औचित्यमूलमाऩ अतिवादम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+लोकत्तिल् ऒरुवऩैय् ऒरुवऩ् आश्रयिक्कुम् बोदु  
+इऩ्ऩ बडियेय् आश्रयित्ताल्  
+इवऩ् इरङ्गुम् ऎऩ्ऩुम् इडत्तैय् ऒरुप्रमाणत्तालेय् अऱिन्द् आश्रयिक्कुमाप् पोले, 
+</details>
+
+<details><summary>English</summary>
+
+This is how it goes too far.  
+In ordinary life (in the world)  
+when a man seeks the help of another,  
+he tries to learn before-hand  
+in what way he should approach the other,  
+so that the latter may take pity on him  
+and then he seeks his protection.  
+</details>
+
+<details><summary>Español</summary>
+
+Así **es** como **va** demasiado lejos.  
+En la **vida** ordinaria (en el mundo)  
+Cuando un hombre **busca** la ayuda de otro,  
+**Intenta aprender** de antemano  
+de qué manera **debe acercarse** al otro,  
+para que **este** último **pueda darle** una pena  
+y luego **busca** su **protección**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; लोकत्तिलॊरुवऩै यॊरुवऩाश्रयिक्कुम्बोदु इऩ्ऩबडिये याश्रयित्तालिवऩिरङ्गुमॆऩ्ऩुमिडत्तै यॊरुप्रमाणत्ताले यऱिन्दाश्रयिक्कुमाप्पोले, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु 
+
+> ईश्वरऩैय् इऩ्ऩ प्रकारत्ताले इऩ्ऩ अधिकारि पऱ्ऱिऩाल्  
+इवऩै ईश्वरऩ् रक्षिक्कुम्  
+
+ऎऩ्ऩुम् इडम् अऱियुम् बोदु  
+कर्तव्य-परम् आऩ शास्त्रम् ऒऴिय  
+वेऱ् ओरु प्रमाणम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+Similarly we should know  
+who is competent to seek Iśvara's protection  
+and in what manner he should do so,  
+so that the Lord may protect him;  
+there is no pramāṇa or authority  
+other than the śāstra which deals with what should be done  
+and which can tell us how we should proceed to seek His help.  
+</details>
+
+<details><summary>Español</summary>
+
+Del mismo modo **deberíamos saber**  
+quien **es** competente para **buscar** la **protección** de Iśvara  
+y de qué manera **debería hacerlo**,  
+para que el Señor **pueda protegerlo**;  
+**No hay** pramāṇa ni autoridad  
+aparte del Śāstra que **trata** de lo que **se debe hacer**  
+y que **puede decirnos** cómo **debemos proceder** a **buscar** su **ayuda**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु ईश्वरऩैयिऩ्ऩ प्रकारत्ताले इऩ्ऩ अधिकारि पऱ्ऱिऩालिवऩै ईश्वरऩ् रक्षिक्कुमॆऩ्ऩुमिडमऱियुम्बोदु कर्तव्यपरमाऩ शास्त्रमॊऴिय वेऱोरु प्रमाणमिल्लै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाम् आश्रयिक्क रक्षिक्कुम् ऎऩ्ऱ् अनुमानत्ताले  
+अऱुदिय् इट्ट् आश्रयिक्किल्  
+ईश्वर-तत्त्व-ज्ञानम् उडैयार् ऎल्लार्क्कुम्  
+अप्-पडिय् अनुष्ठिक्कलाम् आगैयाले  
+उपासन-विधायक शास्त्रङ्गळ् निरर्थकङ्गळ् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+It cannot be maintained that,  
+by means of inference (or anumāna),  
+we can understand that the Lord will protect  
+if we seek refuge under Him  
+and then seek His protection.  
+For in that case,  
+every one who has a knowledge of the truth concerning Iśvara  
+may adopt the means in the manner suggested by his own inference  
+and the texts in the śāstra which prescribe upāsana (bhakti) would then become useless. 
+</details>
+
+<details><summary>Español</summary>
+
+**No se puede mantener** eso  
+por medio de inferencia (o anumāna),  
+**Podemos entender** que el Señor **protegerá**  
+Si **buscamos refugio** bajo él,  
+y luego **busca** su **protección**.
+
+Porque en ese caso,
+Todos los que **tienen** un **conocimiento** de la verdad sobre Iśvara  
+**puede adoptar** los medios de la manera **sugerida** por su propia inferencia  
+y los textos en el Śāstra que **prescriben** upāsana (bhakti) se **volverían inútiles**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नामाश्रयिक्क रक्षिक्कुमॆऩ्ऱनुमानत्ताले अऱुदियिट्टाश्रयिक्किल् ईश्वरतत्त्वज्ञानमुडैयारॆल्लार्क्कुमप्पडि यनुष्ठिक्कलामागैयाले उपासनविधायक शास्त्रङ्गळ् निरर्थकङ्गळाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> समर्थऩ् उपासनादिगळैप् पण्ण,  
+अवऱ्ऱिल् समर्थऩ् अल्लाद्-अवऩ्  
+प्रपत्तियैप् पण्णव् 
+
+ऎऩ्ऱु विशेषित्तु नियमिक्कै  
+अनुमानत्ताल् कडप्-पडादु। 
+</details>
+
+<details><summary>English</summary>
+
+The distinction that he who is capable should adopt upāsana and the like  
+and that he who is not capable of them should resort to prapatti -  
+this distinction cannot be established by means of inference ( anumāna ). 
+</details>
+
+<details><summary>Español</summary>
+
+La distinción de que 
+
+> el que **es capaz debe adoptar** upāsana y similares  
+y que el que **no es capaz** de ellos debe recurrir a Prapatti -
+
+Esta distinción **no puede establecerse** por medio de inferencia (anumāna).
+</details>
+
+<details><summary>मूलम्</summary>
+
+समर्थऩ् उपासनादिगळैप्पण्ण, अवऱ्ऱिल् समर्थऩल्लादवऩ् प्रपत्तियैप्पण्णवॆऩ्ऱु विशेषित्तु नियमिक्कै अनुमानत्ताल् कडप्पडादु। 
+</details>
+
+
+If the sāstra does not enjoin the performance of prapatti in the place of other upāyas to those who are incapable of them, they will have to lose the fruit of these other upāyas as they are not competent enough for their proper performance. This is how it stands. Though in ordinary life (in the world), we see service to kings and the like conferring certain benefits, yet we hold that in regard to the weaving of garlands, the lighting of lamps, the singing of hymns, the act of prostrating, and so on (in temples), if these things are done without any reference to the śāstras (as to how they should be done!, they will become offences. The worship of Bhagavān and His service have to be done with the right accessories as laid down in the śāstras and the fruits arising therefrom have also to be understood only from the śāstras. In the same way, although we see instances of prapatti
 
 io worldly life and the benefits arising therefrom, yet we can understand only from the śāstras the relationship of cause and effect that exists between prapatti performed with particular mantras and in accordance with the instructions of the goodācārya and certain special benefits which would result therefrom. Just as certain special forms of worship and service are prescribed for certain special benefits, prapatti, too, has been enjoined. If it were otherwise, no rules would have to be prescribed for the service of Bhagavān, in the same way as there are none for the service of the king. It would lead to the wrong view that, for prapatti also, the initiation into mantras with the instructions of goodācāryas is unnecessary. That even those who are not competent for the utterance of mantras may perform prapatti to the Saviour who has certain specific attributes and that certain specific benefits will be derived therefrom, provided it is performed in the proper way without anything wanting and without any up due excess - this cannot be determined by any sound inference, Therefore just as particular forms of worship and service to Bhagavān are enjoined (in the śāstras) with certain accessories, there is nothing inappropriate in the śāstra prescribing the per formance of prapatti with certain accessories (aṅgas ).
 
