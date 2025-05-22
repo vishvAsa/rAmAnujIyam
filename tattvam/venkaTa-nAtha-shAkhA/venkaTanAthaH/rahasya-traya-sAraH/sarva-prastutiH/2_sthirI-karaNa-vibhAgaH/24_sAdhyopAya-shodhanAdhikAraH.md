@@ -5753,20 +5753,56 @@ ya que **no son** lo **suficientemente** competentes para su **rendimiento** ade
 
 +++(भगवद्-विषये)+++ माला-करण, दीपारोपण, स्तुति--नमस्-कारादिगळै  
 शास्त्र-निरपेक्षम् आग अनिष्ठत्ताल्  
-अपचारङ्गळ् वरुम् बडिय् आय् इरुक्कैयाले 
+अपचारङ्गळ् वरुम् बडिय् आय् इरुक्कैयाले  
+परिकर-नियमङ्गळोडे कूडिऩ भगवत्-सेवादि-प्रकारङ्गळुम्,  
+तत्-फलङ्गळुम् नियतङ्गळ् आग  
+शास्त्रङ् गॊण्ड् अऱिगिऱाप् पोले, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 कथम् इति चेत् —  
 लोके राज-सेवादीनां तत्-फलानां च दृष्टत्वेऽपि  
+
 +++(भगवद्-विषये)+++ मालाकरण-दीपारोपण-स्तुति--नमस्-कारादीनां शास्त्र-नैरपेक्ष्येणानुष्ठाने ऽपचार-प्रसङ्गात्  
+स-परिकर-नियमानां भगवत्-सेवादि-प्रकाराणां तत्-फलानां च नियतता  
+शास्त्रेणैव यथा विज्ञायते,  
+</details>
+
+<details><summary>English</summary>
+
+This is how it stands.  
+Though in ordinary life (in the world),   
+we see service to kings and the like conferring certain benefits,  
+yet we hold that in regard to the weaving of garlands, the lighting of lamps, the singing of hymns, the act of prostrating, and so on (in temples),  
+if these things are done without any reference to the śāstras (as to how they should be done),  
+they will become offences.  
+
+The worship of Bhagavān and His service have to be done  
+with the right accessories as laid down in the śāstras  
+and the fruits arising therefrom have also to be understood only from the śāstras. 
+</details>
+
+<details><summary>Español</summary>
+
+Así es como **se encuentra**.  
+Aunque en la vida ordinaria (en el mundo),  
+**Vemos** el servicio a los reyes y similares con ciertos beneficios,  
+
+Sin embargo, lo **sostenemos** con respecto al **tejido** de guirnaldas, la **iluminación** de lámparas, el **canto** de los himnos, el **acto** de postrarse, etc. (en templos),  
+Si estas cosas **se hacen** sin ninguna referencia a los Śāstras (en cuanto a cómo **se deben hacer**),  
+**Se convertirán** en delitos.
+
+La adoración de Bhagavān y su servicio **deben hacerse**  
+con los accesorios correctos **establecidos** en los Śāstras  
+y los frutos que **surgen** de allí también **deben entenderse** solo de los Śāstras.
 </details>
 
 
 <details><summary>मूलम्</summary>
 
 ऎङ्ङऩेयॆऩ्ऩिल्; लोकत्तिल् राजसेवादिगळुम् तत्फलङ्गळुम् काणच्चॆय्दे मालाकरण, दीपारोपण, स्तुतिनमस्कारादिगळै शास्त्र-निरपेक्षमाग अनिष्ठत्ताल् अपचारङ्गळ् वरुम्बडियायिरुक्कैयाले 
+परिकरनियमङ्गळोडे कूडिऩ भगवत्सेवादिप्रकारङ्गळुम्, तत्फलङ्गळुम् नियतङ्गळाग शास्त्रङ्गॊण्डऱिगिऱाप्पोले, 
 </details>
 
 
@@ -5783,23 +5819,27 @@ ya que **no son** lo **suficientemente** competentes para su **rendimiento** ade
 अपचारङ्गळुम् नेरुमागैयाल्  
 शास्त्रङ्गळैक् कॊण्डु  
 तत्तत्-कैङ्कर्य-नियमङ्गळैय् अऱिन्दु  
-भगवत्-सेवैयै ऎप्पडिच् चॆय्यवेण्डुमो ऎऩ्बदु दृष्टान्तार्थम्। 
+भगवत्-सेवैयै ऎप्पडिच् चॆय्यवेण्डुमो ऎऩ्बदु दृष्टान्तार्थम्।  
 </details>
 
 
-This is how it stands.  
-Though in ordinary life (in the world),   
-we see service to kings and the like conferring certain benefits,  
-yet we hold that in regard to the weaving of garlands, the lighting of lamps, the singing of hymns, the act of prostrating, and so on (in temples),  
-if these things are done without any reference to the śāstras (as to how they should be done),  
-they will become offences.  
-The worship of Bhagavān and His service have to be done with the right accessories as laid down in the śāstras and the fruits arising therefrom have also to be understood only from the śāstras. In the same way, although we see instances of prapatti
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-io worldly life and the benefits arising therefrom, yet we can understand only from the śāstras the relationship of cause and effect that exists between prapatti performed with particular mantras and in accordance with the instructions of the goodācārya and certain special benefits which would result therefrom. Just as certain special forms of worship and service are prescribed for certain special benefits, prapatti, too, has been enjoined. If it were otherwise, no rules would have to be prescribed for the service of Bhagavān, in the same way as there are none for the service of the king. It would lead to the wrong view that, for prapatti also, the initiation into mantras with the instructions of goodācāryas is unnecessary. That even those who are not competent for the utterance of mantras may perform prapatti to the Saviour who has certain specific attributes and that certain specific benefits will be derived therefrom, provided it is performed in the proper way without anything wanting and without any up due excess - this cannot be determined by any sound inference, Therefore just as particular forms of worship and service to Bhagavān are enjoined (in the śāstras) with certain accessories, there is nothing inappropriate in the śāstra prescribing the per formance of prapatti with certain accessories (aṅgas ).
+इङ्गुम् लोकत्तिल् प्रपत्तियुम्, तत्-फलङ्गळुङ् गण्डु पोन्दालुम्  
 
-THE VIEW THAT UPĀSANA OR BHAKTI IS INCONSISTENT WITH ONE'S ESSEN
+सद्-आचार्योपदेश-सापेक्ष-मन्त्र-विशेषादिगळोडे कूडिऩ प्रपत्तिक्कुम्, फल-विशेषङ्गळुक्कुम्  
+साध्य-साधन-भावम् शास्त्रङ् गॊण्ड् अऱिय वेण्डुगैयाल्  
+अव्वो फलङ्गळुक्काग सेवाविशेषङ्गळै विधिक्किऱाप् पोले प्रपत्तियैयुम् विधिक्किऱदु।
+</details>
 
-TIAL NATURE IS WRONG:
+<details><summary>मूलम्</summary>
+
+इङ्गुम् लोकत्तिल् प्रपत्तियुम् तत्फलङ्गळुङ् गण्डुबोन्दालुम् सदाचार्योपदेशसापेक्षमन्त्रविशेषादिगळोडे कूडिऩ प्रपत्तिक्कुम् फलविशेषङ्गळुक्कुम् साध्यसाधनभावम् शास्त्रङ्गॊण्डऱिय वेण्डुगैयाल् अव्वो फलङ्गळुक्काग सेवाविशेषङ्गळै विधिक्किऱाप् पोले प्रपत्तियैयुम् विधिक्किऱदु।
+</details>
+
+In the same way, although we see instances of prapatti in worldly life and the benefits arising therefrom, yet we can understand only from the śāstras the relationship of cause and effect that exists between prapatti performed with particular mantras and in accordance with the instructions of the goodācārya and certain special benefits which would result therefrom. Just as certain special forms of worship and service are prescribed for certain special benefits, prapatti, too, has been enjoined. If it were otherwise, no rules would have to be prescribed for the service of Bhagavān, in the same way as there are none for the service of the king. It would lead to the wrong view that, for prapatti also, the initiation into mantras with the instructions of goodācāryas is unnecessary. That even those who are not competent for the utterance of mantras may perform prapatti to the Saviour who has certain specific attributes and that certain specific benefits will be derived therefrom, provided it is performed in the proper way without anything wanting and without any up due excess - this cannot be determined by any sound inference, Therefore just as particular forms of worship and service to Bhagavān are enjoined (in the śāstras) with certain accessories, there is nothing inappropriate in the śāstra prescribing the per formance of prapatti with certain accessories (aṅgas ).
+
+THE VIEW THAT UPĀSANA OR BHAKTI IS INCONSISTENT WITH ONE'S ESSENTIAL NATURE IS WRONG:
 
 There are some who maintain that even among these upāyas which are enjoined by the śāstras, upūsanas are opposed to the essential nature (of the jīva ). This should be taken to mean only a desire to praise prapatti with emphasis on it and not to condemn upāsanas ( as being against one's nature). The reasons are as follows:
 
