@@ -13,8 +13,8 @@ ON SERVING THE VIRTUOUS.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रुतार्थ-संशयोच्छित्यै  
-बोधनाय परस्परम् ।  
+श्रुतार्थ-**संशयोच्छित्यै**  
+**बोधनाय** परस्-परम् ।  
 **साधवस्** त्व् **अभिगन्तव्याः**  
 सन्तः सङ्गस्य भेषजम् ॥ १ ॥
 </details>
@@ -33,11 +33,12 @@ ON SERVING THE VIRTUOUS.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथाह भगवान् व्यासो  
+**यथाह** भगवान् व्यासो  
 विषय-त्याग-भेषजम्-  
-'सङ्गः सर्वात्मना त्याज्यः  
-स चेत् त्यक्तुं न शक्यते ॥
-साधवस् त्व् अभिगन्तव्याः  
+
+> 'सङ्गः सर्वात्मना **त्याज्यः**  
+स चेत् **त्यक्तुं न शक्यते** ॥
+साधवस् त्व् **अभिगन्तव्याः**  
 सन्तः सङ्गस्य भेषजम् ।  
 </details>
 
@@ -58,7 +59,7 @@ ON SERVING THE VIRTUOUS.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विचिकित्सा यदा तु स्याद्  
+**विचिकित्सा** यदा तु स्याद्  
 आत्मनः कर्म-वृत्तयोः ।  
 तत्र सम्मर्शिनो युक्ताः  
 ये विप्राः सत्पथे स्थिताः ।  
@@ -96,10 +97,10 @@ ON SERVING THE VIRTUOUS.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभिगन्तव्याः सन्तो  
-यद्य् अपि कुर्वन्ति नैकम् उपदेशम् ।  
+**अभिगन्तव्याः** सन्तो  
+यद्य् अपि **कुर्वन्ति** नैकम् उपदेशम् ।  
 यास् तेषां स्वैर-कथाः  
-ता एव भवन्ति शास्त्राणि ॥ ६ ॥
+ता एव भवन्ति शास्त्राणि ॥ ६ ॥+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -116,12 +117,13 @@ ON SERVING THE VIRTUOUS.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शौनकस् तु यथा प्राह  
-साधूनां दर्शने फलम् -  
-“ सुदूरम् अपि गन्तव्यं  
-यत्र भागवताः (तः) स्थिताः (तः) ।  
-प्रयत्नेनापि द्रष्टव्याः  
-तत्र सन्निहितो हरिः।"  
+शौनकस् तु यथा **प्राह**  
+साधूनां **दर्शने** फलम् -  
+
+> “ सुदूरम् अपि **गन्तव्यं**  
+यत्र भागवताः (तः) **स्थिताः** (तः) ।  
+प्रयत्नेनापि ****द्रष्टव्याः  
+तत्र सन्निहितो हरिः।"+++(5)+++  
 </details>
 
 <details><summary>English</summary>
@@ -145,10 +147,11 @@ ON SERVING THE VIRTUOUS.
 
 इमम् एवार्थम् आह स्म  
 नारदः शौनकाय वै--  
-“पापावसानम् इच्छद्भिः  
+
+> “पापावसानम् इच्छद्भिः  
 नित्यं विष्णु-परायणैः ।  
-सुदूरम् अपि गत्वा च  
-द्रष्टव्या लोकपावनाः ॥ ९ ॥
+सुदूरम् अपि **गत्वा** च  
+**द्रष्टव्या** लोक-पावनाः ॥ ९ ॥+++(5)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -160,10 +163,10 @@ ON SERVING THE VIRTUOUS.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-साधूनां दर्शनं पुण्यं  
-तीर्थभूता हि साधवः ।  
-कालेन फलते तीर्थं  
-सद्यः साधु-समागमः" ॥१०॥ (वि.ध।)
+> साधूनां **दर्शनं** पुण्यं  
+तीर्थ-भूता हि साधवः ।  
+कालेन **फलते** तीर्थं  
+सद्यः साधु-समागमः" ॥१०॥ (वि.ध।) +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -183,10 +186,9 @@ ON SERVING THE VIRTUOUS.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुकोऽपि भगवान् आह  
-" सतां तु गुण-कीर्तनम् ।  
+सतां तु गुण-कीर्तनम् ।  
 चिर-कालार्जितस्यैतत्  
 श्रुतस्यैव फलं यथा-----  
-
 </details>
 
 <details><summary>English</summary>
@@ -204,15 +206,15 @@ ON SERVING THE VIRTUOUS.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रुतस्य पुंसां सुचिर-श्रमस्य  
-नन्व् अञ्जसा सूरिभिर् ईरितोऽर्थः ।  
+> **श्रुतस्य** पुंसां सुचिर-श्रमस्य  
+नन्व् अञ्जसा सूरिभिर् **ईरितो** ऽर्थः ।  
 यत् तद्-गुणानुस्मरणं मुकुन्द-  
 पादारविन्दं हृदयेषु येषाम्॥ (श्रीभाग)
 </details>
 
 <details><summary>English</summary>
 
-10. No fruit+++(??)+++ has directly been proclaimed by the sages to persons whose learning is one of long labour, therefore is (advised) the constant thinking of the qualities of those in whose heart is the lotus-feet of the lord (Makanda).' 
+> 10. The ~~No~~ fruit has directly been proclaimed by the sages to persons whose learning is one of long labour, ~~therefore~~ is ~~(advised)~~ the constant thinking of the qualities of those in whose heart is the lotus-feet of the lord (Makanda).' 
 </details>
 
 
@@ -226,7 +228,7 @@ ON SERVING THE VIRTUOUS.
 
 सद्भिर् गृहागताः सन्तः  
 **पूजनीया** विशेषतः ।  
-प्रिय-वाक्यैः तथाऽर्घ्याद्यैः  
+प्रिय-वाक्यैः तथाऽर् घ्याद्यैः  
 भोगैर् इष्टैर् यथोचितैः ॥ १३ ॥
 </details>
 
@@ -264,11 +266,17 @@ ON SERVING THE VIRTUOUS.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“'**व्यालालय-द्रुमा** ह्य् एते  
+> “'**व्यालालय-द्रुमा** ह्य् एते  
 ऽप्य् अ-रिक्ताखिल-सम्पदः ।  
 ये **गृहास्** तीर्थ-पादीय-  
 पाद-तीर्थ-(पादोदक)-विवर्जिताः ॥ १५ ॥
 </details>
+
+<details><summary>विषयः</summary>
+
+पाद-तीर्थम्
+</details>
+
 
 <details><summary>English</summary>
 
@@ -292,6 +300,11 @@ ON SERVING THE VIRTUOUS.
 पादोदक-निषेवणम् ॥ १६ ॥
 </details>
 
+<details><summary>विषयः</summary>
+
+पाद-तीर्थम्
+</details>
+
 <details><summary>English</summary>
 
 14. "The adoration of the holy-water from the feet of the devotees of God, is determined by the wise to be the atonement for all sins. 
@@ -307,9 +320,14 @@ ON SERVING THE VIRTUOUS.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्-तीर्थं शिरसा **धार्यं**  
-तथाङ्गैश् चक्षुरादिभिः ।  
+तथाङ्गैश् चक्षुर्-आदिभिः ।  
 **पेयम्** अन्तर्, यथा सोमे  
 तत्र **नाचमन-क्रिया** ॥
+</details>
+
+<details><summary>विषयः</summary>
+
+पाद-तीर्थम्
 </details>
 
 <details><summary>English</summary>
@@ -351,6 +369,10 @@ ON SERVING THE VIRTUOUS.
 कृष्णः **प्रक्षाल्य** पाणिभ्यां  
 **पपौ** पादोदकं मुनेः ॥ १९ ॥
 </details>
+<details><summary>विषयः</summary>
+
+पाद-तीर्थम्
+</details>
 
 <details><summary>English</summary>
 
@@ -366,9 +388,9 @@ ON SERVING THE VIRTUOUS.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भोगैरिष्टैश् च शास्त्रीयैः  
+भोगैर् इष्टैश् च शास्त्रीयैः  
 **तोषयेद्** वैष्णवान् गृहे ।  
-+++(कर्म-फल-कर्तृत्व-सङ्ग-रूप)+++त्रि-विध-त्याग-पूर्वं तु  
++++(??→)+++त्रि-विध-ज्ञान-पूर्वं तु  
 शेषत्व-ज्ञान-वृद्धये ॥ २० ॥
 </details>
 
@@ -411,7 +433,6 @@ ON SERVING THE VIRTUOUS.
 
 'ते त्व् अघं **भुञ्जते** पापाः  
 ये **पचन्त्य्** आत्म-कारणात् ।'  
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -440,7 +461,9 @@ ON SERVING THE VIRTUOUS.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(त्रिषु वर्णेषु सञ्जातो मामेव शरणं गतः ।) नित्यनैमितिकपरो .... .... ॥)
+(त्रिषु वर्णेषु सञ्जातो  
+मामेव शरणं गतः ।)  
+नित्य-नैमितिक-परो .... .... ॥)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -595,7 +618,7 @@ ON SERVING THE VIRTUOUS.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा पतित्वा सन्-मध्ये  
+यथा **पतित्वा** सन्-मध्ये  
 ययातिः पुनर् **आप्तवान्** ।  
 स्व-पदं तत् तथा सत्सु  
 पतितो **न विमुह्यति** ॥ ३० ॥

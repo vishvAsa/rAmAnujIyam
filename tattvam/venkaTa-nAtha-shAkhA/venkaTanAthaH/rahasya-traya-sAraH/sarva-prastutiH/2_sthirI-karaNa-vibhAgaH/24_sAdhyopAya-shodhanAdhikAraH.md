@@ -1084,7 +1084,9 @@ Aquí la **búsqueda** del Señor para la **protección** de Bhakti o Prapatti s
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-गीतैयिलुम् इदु सर्वाधिकारकमॆऩ्ऱु सॊल्लप्पट्टदॆऩ्गिऱार् मां हि पार्थेत्यादिना । इदिल् ‘‘व्यपाश्रित्य’’ इति आश्रयणशब्दम् प्रपत्तिसाधारणमागैयाले प्रपत्तिक्कु स्त्रीशूद्राधिकारत्वम् सॊऩ्ऩदायिऱ्ऱॆऩ्ऱु तिरुवुळ्ळम्। हे पार्थ! ये पापयोनयः स्त्रियो वैश्यास्तथा शूद्राः, मां हि व्यपाश्रित्य स्युः । तेऽपि पराङ्गतिं यान्ति ऎऩ्ऱन्वयिप्पदु। इदिल् त्रैवर्णिकऩाऩ वैश्यऩुक्कु पापयोनित्वकथनम् सत्राधिकारापादकमाऩ आर्त्विज्यानर्हतारूपापकर्षत्ताले ऎऩ्ऱु चन्द्रिकायां स्पष्टम्। 
+गीतैयिलुम् इदु सर्वाधिकारकमॆऩ्ऱु सॊल्लप्पट्टदॆऩ्गिऱार् मां हि पार्थेत्यादिना । इदिल् ‘‘व्यपाश्रित्य’’ इति आश्रयणशब्दम् प्रपत्तिसाधारणमागैयाले प्रपत्तिक्कु स्त्रीशूद्राधिकारत्वम् सॊऩ्ऩदायिऱ्ऱॆऩ्ऱु तिरुवुळ्ळम्।
+
+हे पार्थ! ये पापयोनयः स्त्रियो वैश्यास्तथा शूद्राः, मां हि व्यपाश्रित्य स्युः । तेऽपि पराङ्गतिं यान्ति ऎऩ्ऱन्वयिप्पदु। इदिल् त्रैवर्णिकऩाऩ वैश्यऩुक्कु पापयोनित्वकथनम् सत्राधिकारापादकमाऩ आर्त्विज्यानर्हतारूपापकर्षत्ताले ऎऩ्ऱु चन्द्रिकायां स्पष्टम्। 
 
 भगवदाश्रयणामात्रम् सर्वसाधारणमाग शरण्यऩ् ताऩुमरुळिच्चॆय्दाऩिदि । इङ्गु मात्रशब्दत्ताले भगवदाश्रयणसामान्यम् विवक्षितम्। 
 </details>
@@ -3221,7 +3223,9 @@ Y que esta relación **existe** por naturaleza."
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-इदऱ्कु पूर्वपक्ष्यभिप्रेतमाऩ अर्थत्तै यरुळिच्चॆय् किऱार् परमपुरुषार्थतदुपायङ्गळै वेण्डियिरुन्दायागिलिति । इन्द वचनत्तिल् स्वोज्जीवनेच्छा ऎऩ्गिऱ पदम् मुमुक्षापरमॆऩ्ऱुम्, स्वसत्तापदम् मोक्षोपायपरमॆऩ्ऱुम्, पूर्वपक्षि-यिऩभिप्रायम्। स्वभावसिद्धमॆऩ्ऱु इति । स्वभावञ्च ऎऩ्गिऱविडत्तिल् चकारम् अवधारणार्थक-मॆऩ्ऱु तिरुवुळ्ळम्। उभयं स्वाभाविकमॆऩ्ऱबडि। ऎऩ्ऱबडियऩ्ऱो इति । उऩक्कु मोक्षत्तिल् इच्चैयुमिरुन्दु तदुपायत्तिलुमासैयिरुन्दाल् भगवाऩ् स्वामियॆऩ्ऱुम्, नी अवऩुक्कु दासऩॆऩ्ऱुम् सर्वदा स्मरणम् पण्णु। इन्द शेषत्वानुसन्धानमे उपायमामॆऩ्ऱु सॊऩ्ऩबडियऩ्ऱो ऎऩ्ऱबडि। 
+इदऱ्कु पूर्वपक्ष्यभिप्रेतमाऩ अर्थत्तै यरुळिच्चॆय् किऱार् परमपुरुषार्थतदुपायङ्गळै वेण्डियिरुन्दायागिलिति । इन्द वचनत्तिल् स्वोज्जीवनेच्छा ऎऩ्गिऱ पदम् मुमुक्षापरमॆऩ्ऱुम्, स्वसत्तापदम् मोक्षोपायपरमॆऩ्ऱुम्, पूर्वपक्षि-यिऩभिप्रायम्। स्वभावसिद्धमॆऩ्ऱु इति । स्वभावञ्च ऎऩ्गिऱविडत्तिल् चकारम् अवधारणार्थक-मॆऩ्ऱु तिरुवुळ्ळम्।
+
+उभयं स्वाभाविकमॆऩ्ऱबडि। ऎऩ्ऱबडियऩ्ऱो इति । उऩक्कु मोक्षत्तिल् इच्चैयुमिरुन्दु तदुपायत्तिलुमासैयिरुन्दाल् भगवाऩ् स्वामियॆऩ्ऱुम्, नी अवऩुक्कु दासऩॆऩ्ऱुम् सर्वदा स्मरणम् पण्णु। इन्द शेषत्वानुसन्धानमे उपायमामॆऩ्ऱु सॊऩ्ऩबडियऩ्ऱो ऎऩ्ऱबडि। 
 </details>
 
 
@@ -4317,7 +4321,9 @@ Esta vista **se basa** en el **razonamiento** falaz.
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-सिद्धोपायऩाऩ भगवाऩ् इरुक्कच्चॆय्दे साङ्गमाऩ प्रपत्तिक्कुम् मोक्षसाधनत्वत्तैयो सिद्धोपायसहकारित्वादिगळैयो ऒप्पुक्कॊण्डाल् वादिगळ् सॊल्लुम् प्रसङ्गङ्गळॆल्लाम् तर्काभासङ्गळॆऩ्गिऱार् प्रपत्तिक्कु साधनत्वमादलित्यादिना । अवर्गळ् सॊल्लुम् प्रसङ्गत्तैयनुवदिक्किऱार् ईश्वरऩुडैय एकत्वमित्यादिना । प्रपत्तियैयुम् उपायमाग ऒप्पुक्कॊण्डाल् ‘‘मामेकं शरणं व्रज’’ ऎऩ्ऱु सॊल्लप्पडुगिऱ भगवन्निष्ठोपायैक्यत्तिऱ्कु विरुद्धमामॆऩ्ऱबडि। सिद्धत्वमिति । सिद्धोपायसहकारित्वत्तै ऒप्पुक्कॊण्डाल् सिद्धोपायत्तिऱ्कु किञ्चिदतिशयाधायकतया सहकारित्वम् कॊळ्ळवेण्डुमागैयाल् तादृशातिशयविशिष्टवेषेण भगवाऩुक्कु साध्यत्वम् प्रसङ्गिप्पदाल् सिद्धत्वविरुद्धमा मॆऩ्ऱु करुत्तु। परमचेतनत्वमिति । साध्योपायाधीनातिशयभाक्त्वे अनन्याधीनधर्मत्वरूपमाऩ परमचेतनत्वम् घटियादॆऩ्ऱु तिरुवुळ्ळम्। परमकारुणिकत्वमिति । व्याजनिरपेक्षपरदुःखनिवर्तकत्वरूपमाऩ परमकारुणिकत्वम् उपायान्तरसापेक्षत्वे विरुद्धमामॆऩ्ऱबडि। सर्वशक्तित्वमिति । सहकार्यन्तरमनपेक्ष्य रक्षितुमशक्तत्वात् सर्वशक्तत्वम् कूडादॆऩ्ऱु करुत्तु। निरपेक्षत्वमिति । शक्तस्यैव सतः सहकारि-सापेक्षत्वे निरपेक्षत्वम् पोमॆऩ्ऱु करुत्तु।  
+सिद्धोपायऩाऩ भगवाऩ् इरुक्कच्चॆय्दे साङ्गमाऩ प्रपत्तिक्कुम् मोक्षसाधनत्वत्तैयो सिद्धोपायसहकारित्वादिगळैयो ऒप्पुक्कॊण्डाल् वादिगळ् सॊल्लुम् प्रसङ्गङ्गळॆल्लाम् तर्काभासङ्गळॆऩ्गिऱार् प्रपत्तिक्कु साधनत्वमादलित्यादिना । अवर्गळ् सॊल्लुम् प्रसङ्गत्तैयनुवदिक्किऱार् ईश्वरऩुडैय एकत्वमित्यादिना । प्रपत्तियैयुम् उपायमाग ऒप्पुक्कॊण्डाल् ‘‘मामेकं शरणं व्रज’’ ऎऩ्ऱु सॊल्लप्पडुगिऱ भगवन्निष्ठोपायैक्यत्तिऱ्कु विरुद्धमामॆऩ्ऱबडि। सिद्धत्वमिति । सिद्धोपायसहकारित्वत्तै ऒप्पुक्कॊण्डाल् सिद्धोपायत्तिऱ्कु किञ्चिदतिशयाधायकतया सहकारित्वम् कॊळ्ळवेण्डुमागैयाल् तादृशातिशयविशिष्टवेषेण भगवाऩुक्कु साध्यत्वम् प्रसङ्गिप्पदाल् सिद्धत्वविरुद्धमा मॆऩ्ऱु करुत्तु। परमचेतनत्वमिति । साध्योपायाधीनातिशयभाक्त्वे अनन्याधीनधर्मत्वरूपमाऩ परमचेतनत्वम् घटियादॆऩ्ऱु तिरुवुळ्ळम्।
+
+परमकारुणिकत्वमिति । व्याजनिरपेक्षपरदुःखनिवर्तकत्वरूपमाऩ परमकारुणिकत्वम् उपायान्तरसापेक्षत्वे विरुद्धमामॆऩ्ऱबडि। सर्वशक्तित्वमिति । सहकार्यन्तरमनपेक्ष्य रक्षितुमशक्तत्वात् सर्वशक्तत्वम् कूडादॆऩ्ऱु करुत्तु। निरपेक्षत्वमिति । शक्तस्यैव सतः सहकारि-सापेक्षत्वे निरपेक्षत्वम् पोमॆऩ्ऱु करुत्तु।  
 श्रुतीत्यादि ।  
 ‘‘अमृतस्यैष सेतुः’’ ऎऩ्गिऱ श्रुति भगवाऩैये सिद्धोपायमॆऩ्ऱु सॊल्लियिरुक्कच्चॆय्देयुम्  
 
@@ -4927,6 +4933,12 @@ Para que el significado de todos en todos los dharmas **no sufra reducción** de
 प्रसादनत्ववेषत्तालुम् धर्मत्वमिदुक्कु विडवेणुमॆऩ्ऩिल्; सर्वशब्दसंकोचम् वारामैक्कागवे २८‘‘कृष्णं धर्मं सनातनम्’’(भारतम् आरण्य-पर्व ७१-१२३) इत्यादिगळिऱ्पडिये धर्ममाऩ सिद्धोपायत्तिलुम्, साधनत्वबुद्धियै विड प्रसङ्गिक्कुम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+द्वितीयपक्षत्तै प्रतिबन्दियाले निरसिक्किऱार् प्रसादनत्ववेषत्तालुम् धर्मत्वमिदुक्कु विडवेणुमॆऩ्ऩिलिति । प्रतिबन्दियै यरुळिच्चॆय्गिऱार् सर्वशब्दसङ्कोचम् वारामैक्कागवे इत्यादिना । धर्ममाऩ - सनातनधर्ममाऩ, सिद्धोपायत्तिलुम् - सिद्धोपायऩाऩ भगवाऩिडत्तिलुम्, साधनत्वबुद्धियै विड प्रसङ्गिक्कुमिति । साधनत्वबुद्धिसामान्यत्तै विडवेण्डुमॆऩ्बदु ‘‘सर्व धर्मान् परित्यज्य’’ ऎऩ्बदऱ्कु अर्थमागिल् सनातनधर्ममाऩ भगवाऩिडत्तिले युळ्ळ साधनत्वबुद्धियैयुम् विड प्रसङ्गिक्कु मॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इव्-वाक्यत्तिल् प्रतिपाद्यम् आऩ धर्मत्तैय् ऒऴिन्द धर्मङ्गळ् अऩ्ऱो त्याज्यङ्गळ् आवऩव् 
@@ -4971,6 +4983,17 @@ En **apoyo** del **desempeño** de Śaraṇāgati, que **se prescribe** en este 
 
 इव्वाक्यत्तिल् प्रतिपाद्यमाऩ धर्मत्तैयॊऴिन्द धर्मङ्गळऩ्ऱो त्याज्यङ्गळावऩ वॆऩ्ऩिल् - इङ्गु विहिदैयाऩ शरणागतियिलुम् तुल्यम्। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप् प्रतिबन्दिक्कु प्रतिवादिमुखत्ताले समाधानत्तै वचिप्पिक्किऱार् इव् वाक्यत्तिलित्यादिना । इव् वाक्यत्तिल् - चरमश्लोकपूर्वार्धरूपमाऩ 
+
+> ‘‘सर्वधर्मान् परित्यज्य  
+मामेकं शरणं व्रज’’ 
+
+ऎऩ्गिऱ इव्वाक्यत्तिल्, प्रतिपाद्यम् आऩ धर्मत्तैय् ऒऴिन्द धर्मङ्गळऩ्ऱो इति । इव्वाक्यत्तिल् शरणमाग प्रतिपादिक्कप्पट्ट (अदावदु) मोक्षसाधनमागच् चॊल्लप् पट्ट धर्मत्तै यॊऴिन्द धर्मङ्गळऩ्ऱो? भगवाऩैक्काट्टिलुम् व्यतिरिक्तङ्गळाऩ धर्मङ्गळऩ्ऱो ऎऩ्ऱबडि। त्याज्यङ्गळावऩ वॆऩ्ऩिलिति । नी सर्वधर्मङ्गळैयुम् विडु, भगवाऩ् ऒरुवऩैये धर्ममाग अडै। (अदावदु) उपायमाग अडै, ऎऩ्ऱु ऒरु वाक्यमिरुन्दाल् अदिल् अडैयुम्बडि सॊऩ्ऩ धर्मत्तैक्काट्टिलुंव्यतिरिक्तङ्गळागवऩ्ऱो विडुम्बडि सॊऩ्ऩ सर्वधर्मङ्गळिरुक्कवेण्डुम्। आगैयाल् सर्वधर्मशब्दत्तै भगवद्व्यतिरिक्तधर्मपरमागवे कॊळ्ळवेण्डुमॆऩ्ऩिलॆऩ्ऱबडि। इङ्गु विहिदैयाऩ शरणागतियिलुम् तुल्यमिति । इङ्गु - इन्द वाक्यत्तिल्, विहिदैयाऩ - अवश्यकर्तव्यमाग विधिक्कप्पट्ट। शरणागतियिलुम् - शरणवरणरूपसाध्योपायत्तिलुम्, तुल्यम् - इन्द न्यायम् तुल्यमॆऩ्ऱबडि। इन्द वाक्यत्तिल् नी सर्वत्तैयुम् विडु; भगवाऩैये उपायमाग शरणवरणम् पण्णु ऎऩ्ऱु सॊल्लियिरुप्पदाल् सर्वधर्मपरित्यागशब्दत्ताले विहिदमाऩ शरणवरणरूप प्रपत्तिव्यतिरिक्त सर्वधर्मपरित्यागमे सॊल्लप् पडुगिऱदॆऩ्ऱु प्रतिवादियुम् अभ्युपगमम् पण्णवेण्डुमॆऩ्ऱु करुत्तु।
+</details>
+
 
 ### सिद्धोपायोपकारकत्वम्
 
@@ -5048,11 +5071,22 @@ Podría surgir una mayor duda de la siguiente manera:-
 उपासनादिगळैप्पोले तऩक्कुत्पादकमागवादल्, वर्धकमागवादल्, सहकारियागवादल्, द्वारमागवादलॊऩ्ऱालपेक्षैयऱुम्बडि नित्यमाय् उपचयापचयरहितमाय् सर्वदापरिपूर्णमाऩ सहजकारुण्यादिगळैयुडैत्ताय् सङ्कल्पमुण्डाऩ पोदु द्वारनिरपेक्षमाग कार्यम् पिऱक्कुम्बडि सत्यसंकल्पमायिरुक्किऱ सिद्धोपायत्तुक्कु भक्तिप्रपत्तिकळ् ऎव्वागारत्तालुपकारकङ्गळागिऩ्ऱऩवॆऩ्ऩिल्; 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सिद्धोपायऩाऩ भगवाऩुक्कु साध्योपायङ्गळाऩ भक्तिप्रपत्तिकळ् ऎप्पडि उपकरिक्किऩ्ऱऩवॆऩ्बदै प्रश्नपूर्वकमुपपादिक्किऱार् उपासनादिगळैप्पोले तऩक्कु उत्पादकम् आगव् आदल् इत्यादिना । उपासनादिगळैप् पोले ऎऩ्बदु व्यतिरेकदृष्टान्तम्। कार्यङ्गळाऩ उपासनादिगळ् ऎप्पडि स्वोत्पादकापेक्षङ्गळो अप्पडि नित्यमाऩ सिद्धोपायम् स्वोत्पादकापेक्षमऩ्ऱॆऩ्ऱबडि। वर्धकमागवादलिति । उपचयापचयमिल्लामैयाल् वर्धकापेक्षमुमऩ्ऱॆऩ्ऱबडि। सहकारि-यागवादलिति । सर्वदा परिपूर्णमागैयाल् सहकार्यपेक्षमुमऩ्ऱु ऎऩ्गै। द्वारमागवादलिति । तऩक्कु सङ्गल्बमुण्डाऩबोदु द्वारनिरपेक्षमाग कार्यम् पिऱक्कुम्बडि सत्यसङ्कल्पऩायिरुप्पदाल् द्वारापेक्षमुमऩ्ऱॆऩ्ऱबडि। सिद्धोपायत्तिऱ्कु - इप्पडि इरुक्किऱ सिद्धोपायत्तिऱ्कु, भक्तिप्रपत्तिकळ् - साध्योपायङ्गळाऩ भक्तिप्रपत्तिकळ्, ऎव्वाकारत्तालुपकारकङ्गळागिऩ्ऱऩ वॆऩ्ऩिलिति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवैय् अनादिय् आऩ अपचार-परं-परैयालेय् उत्पन्नम् आय्  
 संसार-हेतुव् आय्क् किडक्किऱ निग्रहत्तै शमिप्पित्तुक् कॊण्ड् उपकरिक्किऩ्ऱऩ। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमे अनाद्य्-अपचार-परम्-परयोत्पन्नस्य संसार-हेतु-भूतस्य  
+सतो निग्रहस्य शमनेनोपकुरुतः । 
 </details>
 
 <details><summary>English</summary>
@@ -5075,6 +5109,12 @@ y que **ha sido infligido** por actos de ofensa sin principios y sucesivos.
 इवैयनादियाऩ अपचारपरंपरैयाले युत्पन्नमाय् संसार हेतुवाय्क्किडक्किऱ निग्रहत्तै शमिप्पित्तुक्कॊण्डुपकरिक्किऩ्ऱऩ। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ओर् आकारत्तालुम् उपकारकङ्गळागादॆऩ्बदु प्रश्नाभिप्रायम्। उत्तरमरुळिच्चॆय्गिऱार् इवै इत्यादिना । निग्रहत्तै शमिप्पित्तुक् कॊण्डु उपकरिक्किऩ्ऱऩ इति । इन्द साध्योपायङ्गळ् सिद्धोपायप्रसादजनकङ्गळाय्, अनाद्यपराध परम्पराजनित भगवन्निग्रहत्तैप् पोक्कडित्तुक्कॊण्डु उपकारकङ्गळामॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवै फलान्तरत्तुक्क् उपायङ्गळ् आम् बोदु  
@@ -5082,6 +5122,14 @@ y que **ha sido infligido** por actos de ofensa sin principios y sucesivos.
 तत्-तद्-अनुगुण-प्रीति-विशेषङ्गळैय् उत्पादित्तुक् कॊण्डम् मुखत्ताले  
 उपकारकङ्गळ् आम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एते फलान्तरोपायत्व-दशायां  
+ज्योतिष्-टोमादिवत् तद्-अनुगुण-प्रीति-विशेषम् उत्पाद्य  
+तन्-मुखेनोपकारिके भवतः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5106,7 +5154,13 @@ y así **servir** como accesorios.
 इवै फलान्तरत्तुक्कुपायङ्गळाम्बोदु ज्योतिष्टोमादिगळैप् पोले तत्तदनुगुण प्रीतिविशेषङ्गळै युत्पादित्तुक्कॊण्डम्मुखत्ताले उपकारकङ्गळाम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
+इन्द भक्तिप्रपत्तिकळ् फलान्तरत्तिऱ्कु साधनमागुम् प्रकारत्तैयरुळिच्चॆय्गिऱार् इवै फलान्तरत्तिऱ्कु इत्यादिना । ज्योतिष्टोमादिगळैप्पोले तत्तदनुगुणप्रीतिविशेषङ्गळैयुत्पादित्तुक्कॊण्डु इति । स्वर्गफलत्तिऱ्काग ज्योतिष्टोमादिकर्मङ्गळैच्चॆय्दाल् अवैगळ् सिद्धोपायऩाऩ भगवाऩुक्कु ‘‘स एनं प्रीतः प्रीणाति’’ ऎऩ्गिऱबडि प्रीतिविशेषत्तै युण्डुबण्णिक्कॊण्डु फलजननत्तिल् उपकारकङ्गळागिऱदुगळ्। अप्पडिये स्वर्गादिफलान्तरत्तिऱ्काग अनुष्ठिक्कप्पट्ट भक्तिप्रपत्तिकळ् सिद्धोपायत्तिऱ्कु ज्योतिष्टोमाद्यनुष्ठानजनितमाऩ प्रीतिक्कु सदृशमाऩ प्रीतिविशेषत्तै युण्डुबण्णिक्कॊण्डु सिद्धोपायत्ताले स्वर्गादिफलान्तरसाधने उपकारकङ्गळामॆऩ्ऱबडि।  
+</details>
+
+
+### सिद्धोपाय-कृत्य-निरूपणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुमुक्षुवुक्कु साध्योपायङ्गळ् आगिऱ व्याज-मात्रत्ताले  
@@ -5114,6 +5168,16 @@ y así **servir** como accesorios.
 निग्रह-फलम् आऩ ज्ञान-सङ्कोचादिगळैक् कऴित्तु परिपूर्ण-कैङ्कर्य-पर्यन्त-फलत्तैक् कॊडुत्तु  
 यावद्-आत्म-भाविय् आग उपकरिक्कुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुमुक्षोः साध्योपाय-रूप-व्याज-मात्रेण शान्त-निग्रहः सिद्धोपायो  
+निग्रह-फलानि ज्ञान-सङ्कोचादीनि विनिवर्त्य  
+परिपूर्ण-कैङ्कर्य-पर्यन्त-फलं प्रदाय  
+तद् यावद्-आत्म-भावि यथा स्यात्  
+तथोपकरोति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5147,12 +5211,66 @@ Mientras **dure** el yo.
 मुमुक्षुवुक्कु साध्योपायङ्गळागिऱव्याजमात्रत्ताले शान्तनिग्रहमाऩ सिद्धोपायम् निग्रहफलमाऩ ज्ञानसङ्कोचादिगळैक् कऴित्तु परिपूर्णकैङ्कर्यपर्यन्त फलत्तैक् कॊडुत्तु यावदात्मभावियाग उपकरिक्कुम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि मुमुक्षुक्कळुक्कु साध्योपायङ्गळाल् वरुम् उपकारङ्गळैयुम्, सिद्धोपायत्ताल् वरुम् उपकारङ्गळैयुम् विविच्य प्रदर्शनम् पण्णुगिऱार् मुमुक्षुवुक्कु इत्यादिना । शान्तनिग्रहमाऩ इति । इदऩाल् साध्योपायत्ताल् वरुम् उबगारम् सिद्धोपाय निग्रहशमनमे ऎऩ्ऱदायिऱ्ऱु। ज्ञानसङ्कोचादीत्यादि । इदऩाल् सिद्धोपायत्ताल् वरुम् उबगारम् ज्ञानसङ्कोचनिवर्तकत्वमुम् यावदात्मभावियाऩ परिपूर्णकैङ्कर्यपर्यन्त फलप्रदत्वमुम् ऎऩ्ऱदायिऱ्ऱु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आगैयाल् मुमुक्षुविऩ्-उडैय सर्वानिष्ट-निवृत्ति-पूर्वकम् आय्  
-परिपूर्ण-कैङ्कर्य-पर्यन्तम् आऩ फल-परं-परैय् ऎल्लाम् सिद्धोपाय कार्यमॆऩ्ऱुम् प्रसादनमाऩ साध्योपायमडियाग वरुगिऱदॆऩ्ऱुञ् जॊल्लुगिऱ प्रमाणङ्गळिरण्डुम् सुसङ्गतङ्गळ्। 
+आगैयाल् 
+
+> मुमुक्षुविऩ्-उडैय सर्वानिष्ट-निवृत्ति-पूर्वकम् आय्  
+परिपूर्ण-कैङ्कर्य-पर्यन्तम् आऩ फल--परं-परैय् ऎल्लाम्  
+सिद्धोपाय-कार्यम् 
+
+ऎऩ्ऱुम् 
+
+> +++(सिद्धोपायः)+++ प्रसादनम् आऩ साध्योपायम् अडिय् आग वरुगिऱद् 
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ प्रमाणङ्गळ् इरण्डुम् सु-सङ्गतङ्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२११]] 
+
+अतो 
+
+> मुमुक्षोः  
+सर्वानिष्ट-निवृत्ति-पूर्विका परिपूर्ण-कैङ्कर्य-पर्यन्ता फल--परम्-परा सर्वाऽपि,  
+सिद्धोपाय-कार्या भवति
+
+इति,  
+
+> +++(सिद्धोपायः)+++ प्रसादनात् साध्योपायाद् उपनमति
+
+इति च  
+प्रतिपादयन्ती प्रमाणे द्वे ऽपि सु-संगते ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore those pramāṇas or authoritative passages  
+which state that Siddhopāya (the Lord) confers the ultimate goal of perfect service (kaiṅkarya )  
+along with preliminary benefits  
+after removing all undesirable hindrances  
+and that sādhyopaya (bhakti and prapatti) leads to these benefits by propitiating Siddhopāya -  
+these pramāṇas are both apposite and agree with one another very well.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, esos pramāṇas o pasajes autorizados  
+qué afirma que Siddhopāya (el Señor) **confiere** el objetivo final del servicio perfecto (Kaiṅkarya)  
+junto con beneficios preliminares    
+Después de **eliminar** todos los obstáculos indeseables  
+y que Sādhyopaya (Bhakti y Prapatti) **conduce** a estos beneficios al propiciar a Siddhopāya -  
+Estos pramāṇas **son** apagados y ****están muy bien entre sí.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -5161,13 +5279,408 @@ Mientras **dure** el yo.
 
 
 
-Therefore those pramāṇas or authoritative passages which state that Siddhopāya (the Lord) confers the ultimate goal of perfect service (kaiṅkarya ) along with preliminary benefits after removing all undesirable hindrances and that sādhyopaya (bhakti and prapatti) leads to these benefits by propitiating Siddhopāya - these pramāṇas are both apposite and agree with one another very well.
+### विधेयत्वम्
+
+<details><summary>English</summary>
 
 IS THERE ANY NEED FOR THE ŚĀSTRA ENJOINING PRAPATTI ?
+</details>
 
-Notwithstanding all this, some may ask: "Why should the śāstra enjoin this upāya called prapatti? (The śāstra has to help only when man cannot find out things for himself with his common sense or reason). In ordinary life, when a man is about to sink (into ruin ) because he cannot protect himself, he seeks the protection of some one who happens to be by his side and who has the ability to protect him. In the same way, if a man has understood himself and Iśvara from the śāstra which treats of the existent upāya, will he not seek Iśvara for protection, of his own accord, (without the śāstra enjoining it)? So there is no propriety in the śāstra prescribing prapatti in the place of bhakti.
+<details><summary>Español</summary>
 
-This question is based on appropriate reasoning but proceeds too far. This is how it goes too far. In ordinary life (in the world) when a man seeks the help of another, he tries to learn before-hand in what way he should approach the other, so that the latter may take pity on him and then he seeks his protection. Similarly we should know who is competent to seek Iśvara's protection and in what manner he should do so, so that the Lord may protect him; there is no pramāṇa or authority other than the śāstra which deals with what should be done and which can tell us how we should proceed to seek His help. It cannot be maintained that, by means of inference (or anumāna), we can understand that the Lord will protect if we seek refuge under Him and then seek His protection. For in that case, every one who has a know. ledge of the truth concerning Iśvara may adopt the means in the manner suggested by his own inference and the texts in the śāstra which prescribe upāsana (bhakti) would then become useless. The distinction that he who is capable should adopt upāsana and the like and that he who is not capable of them should resort to prapatti - this distinction cannot be established by means of inference ( anumāna ). If the stāstra does not enjoin the performance of prapatti in the place of other upāyas to those who are incapable of them, they will have to lose the fruit of these other upāyas as they are not competent enough for their proper performance. This is how it stands. Though in ordinary life (in the world), we see service to kings and the like conferring certain benefits, yet we hold that in regard to the weaving of garlands, the lighting of lamps, the singing of hymns, the act of prostrating, and so on (in temples), if these things are done without any reference to the śāstras (as to how they should be done!, they will become offences. The worship of Bhagavān and His service have to be done with the right accessories as laid down in the śāstras and the fruits arising therefrom have also to be understood only from the śāstras. In the same way, although we see instances of prapatti
+¿**Hay** alguna **necesidad** de la Śāstra que le da a Prapatti?
+</details>
+
+#### शङ्का
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आऩालुम् इप्-प्रपत्तिय् आगिऱ उपाय-विशेषत्तै शास्त्रम् विधिक्क-वेणुमो; 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अथाप्य् अयं प्रपत्ति-रूप उपाय-विशेषः  
+किं शास्त्रेण विधातव्यः ?  
+</details>
+
+
+<details><summary>English</summary>
+
+Notwithstanding all this, some may ask:  
+
+> "Why should the śāstra enjoin this upāya called prapatti?  
+(The śāstra has to help  
+only when man cannot find out things for himself with his common sense or reason).  
+</details>
+
+<details><summary>Español</summary>
+
+**No obstante** todo esto, algunos **pueden preguntar**:
+
+> "¿Por qué el Śāstra **debería ordenar** a este upāya **llamado** Prapatti?  
+(El Śāstra **tiene que ayudar**  
+Solo cuando el hombre **no puede averiguar** las cosas por sí mismo  
+con su sentido común o razón).
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऩालुम् इप्प्रपत्तियागिऱ उपायविशेषत्तै शास्त्रम् विधिक्कवेणुमो; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> लोकत्तिल् तऩ्ऩै रक्षित्तुक्-कॊळ्ळ विरग् इल्लादेय्  
+अऴुन्दुवाऩ् ऒरुवऩ्  
+अप्-पोदु सन्निहितऩ् आऩ रक्षण-समर्थऩैप् पऱ्ऱुम् आप् पोले  
+तऩ्ऩैयुम् ईश्वरऩैयुम् सिद्ध-परम् आऩ शास्त्रत्ताले तॆळिन्दाल्  
+ताऩेय् अवऩै शरणम् आगप् पऱ्ऱाऩो;
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> लोके स्वस्य रक्षण-विषये उपाय-शून्यो दुःख्यन् कश्चित्  
+यथा तदात्वे सन्निहितं रक्षण-समर्थम् आश्रयति,  
+तथा स्व-स्व-रूपे ईश्वर--स्व-रूपे च  
+सिद्ध+++(-वस्तु)+++-पर-शास्त्रेण विदिते सति  
+स्वयम् एव तं शरणत्वेन किं नाश्रयेत् ? 
+</details>
+
+
+<details><summary>English</summary>
+
+> In ordinary life, when a man is about to sink (into ruin )  
+because he cannot protect himself,  
+he seeks the protection of some one  
+who happens to be by his side  
+and who has the ability to protect him.  
+In the same way, if a man has understood himself and Iśvara from the śāstra  
+which treats of the existent upāya,  
+will he not seek Iśvara for protection, of his own accord,  
+(without the śāstra enjoining it)?  
+</details>
+
+<details><summary>Español</summary>
+
+> En la vida ordinaria, cuando un hombre está a punto de **hundirse** (en ruina)  
+Porque **no puede protegerse**  
+Busca la **protección** de alguien  
+quien **pasa** a su lado  
+y quién tiene la capacidad de **protegerlo**.
+De la misma manera, si un hombre **se ha entendido** a sí mismo e Iśvara del Śāstra  
+que **trata** de la **existente** upāya,
+¿**No buscará** a iśvara para **protección**, por su propia cuenta?
+(sin el Śāstra que lo **ordena**)?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+लोकत्तिल् तऩ्ऩै रक्षित्तुक्कॊळ्ळ विरगिल्लादेय् अऴुन्दुवाऩॊरुवऩ् अप्पोदु सन्निहितऩाऩ रक्षणसमर्थऩैप् पऱ्ऱुमाप्पोले तऩ्ऩैयुमीश्वरऩैयुम् सिद्धपरमाऩ शास्त्रत्ताले तॆळिन्दाल् ताऩेयवऩै शरणमागप् पऱ्ऱाऩो;
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आगैयाल् अ-किञ्चनऩुक्कु भक्ति-स्थानत्तिले प्रपत्तियै विधिक्कक्-कूडादेय् 
+
+ऎऩ्ऱुञ् सिलर् सॊल्लुवर्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अतो ऽकिञ्चनस्य भक्ति-स्थाने प्रपत्तिर्  
+न विधातव्या
+
+इति केचिदाचक्षते । 
+</details>
+
+
+<details><summary>English</summary>
+
+> So there is no propriety in the śāstra prescribing prapatti in the place of bhakti.
+</details>
+
+<details><summary>Español</summary>
+
+> Entonces **no hay** propiedad en el Prapatti que **prescribe** Śāstra en el lugar de Bhakti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् अकिञ्चनऩुक्कु भक्तिस्थानत्तिले प्रपत्तियै विधिक्कक्कूडादे यॆऩ्ऱुञ्जिलर् सॊल्लुवर्गळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुवुम् औचित्य-मूलम् आऩ अतिवादम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयम् अपि औचित्य-मूलोऽतिवादः । 
+</details>
+
+
+<details><summary>English</summary>
+
+This question is based on appropriate reasoning but proceeds too far. 
+</details>
+
+<details><summary>Español</summary>
+
+Esta pregunta **se basa** en el razonamiento apropiado, pero **avanza** demasiado.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदुवुम् औचित्यमूलमाऩ अतिवादम्। 
+</details>
+
+#### इति-कर्तव्यतापेक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+लोकत्तिल् ऒरुवऩैय् ऒरुवऩ् आश्रयिक्कुम् बोदु  
+इऩ्ऩ बडियेय् आश्रयित्ताल्  
+इवऩ् इरङ्गुम् ऎऩ्ऩुम् इडत्तैय् ऒरुप्रमाणत्तालेय् अऱिन्द् आश्रयिक्कुमाप् पोले, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कथम् इति चेत् —  
+लोके केनचित् कस्यचिद् आश्रयणे प्राप्ते,  
+अनेन प्रकारेणाश्रयणे कृते  
+अयं दयेतेत्य् एतम् अर्थम्  
+केनचित् प्रमाणेन विदित्वा यथाऽऽश्रयणं क्रियते, 
+</details>
+
+
+<details><summary>English</summary>
+
+This is how it goes too far.  
+In ordinary life (in the world)  
+when a man seeks the help of another,  
+he tries to learn before-hand  
+in what way he should approach the other,  
+so that the latter may take pity on him  
+and then he seeks his protection.  
+</details>
+
+<details><summary>Español</summary>
+
+Así **es** como **va** demasiado lejos.  
+En la **vida** ordinaria (en el mundo)  
+Cuando un hombre **busca** la ayuda de otro,  
+**Intenta aprender** de antemano  
+de qué manera **debe acercarse** al otro,  
+para que **este** último **pueda darle** una pena  
+y luego **busca** su **protección**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; लोकत्तिलॊरुवऩै यॊरुवऩाश्रयिक्कुम्बोदु इऩ्ऩबडिये याश्रयित्तालिवऩिरङ्गुमॆऩ्ऩुमिडत्तै यॊरुप्रमाणत्ताले यऱिन्दाश्रयिक्कुमाप्पोले, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु 
+
+> ईश्वरऩैय् इऩ्ऩ प्रकारत्ताले इऩ्ऩ अधिकारि पऱ्ऱिऩाल्  
+इवऩै ईश्वरऩ् रक्षिक्कुम्  
+
+ऎऩ्ऩुम् इडम् अऱियुम् बोदु  
+कर्तव्य-परम् आऩ शास्त्रम् ऒऴिय  
+वेऱ् ओरु प्रमाणम् इल्लै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तथाऽत्रापि  
+
+> ईश्वरस्यानेन प्रकारेणानेनाधिकारिणा आश्रयणे क्रियमाणे  
+एतम् ईश्वरो रक्षेत् 
+
+इत्य्-अर्थस्य ज्ञानार्थं  
+कर्तव्य-पर-शास्त्रं विना  
+ऽन्यत् किमपि प्रमाणं नास्ति । 
+</details>
+
+
+<details><summary>English</summary>
+
+Similarly we should know  
+who is competent to seek Iśvara's protection  
+and in what manner he should do so,  
+so that the Lord may protect him;  
+there is no pramāṇa or authority  
+other than the śāstra which deals with what should be done  
+and which can tell us how we should proceed to seek His help.  
+</details>
+
+<details><summary>Español</summary>
+
+Del mismo modo **deberíamos saber**  
+quien **es** competente para **buscar** la **protección** de Iśvara  
+y de qué manera **debería hacerlo**,  
+para que el Señor **pueda protegerlo**;  
+**No hay** pramāṇa ni autoridad  
+aparte del Śāstra que **trata** de lo que **se debe hacer**  
+y que **puede decirnos** cómo **debemos proceder** a **buscar** su **ayuda**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु ईश्वरऩैयिऩ्ऩ प्रकारत्ताले इऩ्ऩ अधिकारि पऱ्ऱिऩालिवऩै ईश्वरऩ् रक्षिक्कुमॆऩ्ऩुमिडमऱियुम्बोदु कर्तव्यपरमाऩ शास्त्रमॊऴिय वेऱोरु प्रमाणमिल्लै। 
+</details>
+
+#### अधिकाराकाङ्क्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नाम् आश्रयिक्क रक्षिक्कुम् 
+
+ऎऩ्ऱ् अनुमानत्ताले  
+अऱुदिय्+++(=निश्चयम्)+++ इट्ट् आश्रयिक्किल्  
+ईश्वर-तत्त्व-ज्ञानम् उडैयार् ऎल्लार्क्कुम्  
+अप्-पडिय् अनुष्ठिक्कल् आम्।  
+आगैयाले उपासन-विधायक शास्त्रङ्गळ् निरर्थकङ्गळ् आम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अस्माभिर् आश्रयणे कृते रक्षेद्  
+
+इत्य्-अनुमानेन निर्णीयाश्रयणे क्रियमाणे,  
+ईश्वर-तत्त्व-ज्ञानवद्भिः सवैर् एवम्-अनुष्ठीयेतेति  
+उपासन-विधायक-शास्त्राति निरर्थकानि स्युः । 
+</details>
+
+<details><summary>English</summary>
+
+It cannot be maintained that,  
+by means of inference (or anumāna),  
+we can understand that the Lord will protect  
+if we seek refuge under Him  
+and then seek His protection.  
+For in that case,  
+every one who has a knowledge of the truth concerning Iśvara  
+may adopt the means in the manner suggested by his own inference  
+and the texts in the śāstra which prescribe upāsana (bhakti) would then become useless. 
+</details>
+
+<details><summary>Español</summary>
+
+**No se puede mantener** eso  
+por medio de inferencia (o anumāna),  
+**Podemos entender** que el Señor **protegerá**  
+Si **buscamos refugio** bajo él,  
+y luego **busca** su **protección**.
+
+Porque en ese caso,
+Todos los que **tienen** un **conocimiento** de la verdad sobre Iśvara  
+**puede adoptar** los medios de la manera **sugerida** por su propia inferencia  
+y los textos en el Śāstra que **prescriben** upāsana (bhakti) se **volverían inútiles**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नामाश्रयिक्क रक्षिक्कुमॆऩ्ऱनुमानत्ताले अऱुदियिट्टाश्रयिक्किल् ईश्वरतत्त्वज्ञानमुडैयारॆल्लार्क्कुमप्पडि यनुष्ठिक्कलामागैयाले उपासनविधायक शास्त्रङ्गळ् निरर्थकङ्गळाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> समर्थऩ् उपासनादिगळैप् पण्ण,  
+अवऱ्ऱिल् समर्थऩ् अल्लाद्-अवऩ्  
+प्रपत्तियैप् पण्णव् 
+
+ऎऩ्ऱु विशेषित्तु नियमिक्कै  
+अनुमानत्ताल् कडप्-पडादु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> समर्थः उपासनादि कुर्यात् ;  
+तत्रासमर्थः प्रपत्तिं कुर्याद् 
+
+इति विशिष्य नियमनम्  
+अनुमानेनाशक्यम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+The distinction that he who is capable should adopt upāsana and the like  
+and that he who is not capable of them should resort to prapatti -  
+this distinction cannot be established by means of inference ( anumāna ). 
+</details>
+
+<details><summary>Español</summary>
+
+La distinción de que 
+
+> el que **es capaz debe adoptar** upāsana y similares  
+y que el que **no es capaz** de ellos debe recurrir a Prapatti -
+
+Esta distinción **no puede establecerse** por medio de inferencia (anumāna).
+</details>
+
+<details><summary>मूलम्</summary>
+
+समर्थऩ् उपासनादिगळैप्पण्ण, अवऱ्ऱिल् समर्थऩल्लादवऩ् प्रपत्तियैप्पण्णवॆऩ्ऱु विशेषित्तु नियमिक्कै अनुमानत्ताल् कडप्पडादु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मऱ्ऱ्-उळ्ळ उपायङ्गळिल्  
+समर्थऩ् अऩ्ऱिगेय् ऒऴिन्दाल्  
+अवऱ्ऱिऩ्-उडैय स्थानत्तिले प्रपत्तियैप् पण्णुवदु  
+
+ऎऩ्ऱु शास्त्रम् विधियाद बोदु  
+मुऩ्बु विधित्त उपायत्तुक्क् अनर्हऩ् आऩ बडियाले  
+अदिऩ् फलत्तै इऴक्कुम् बडिय् आम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> इतरेषूपायेषु सामर्थ्याभावे सति  
+तत्-स्थाने प्रपत्तिं कुर्याद् 
+
+इति शास्त्रेणाविधाने,  
+पूर्वं विहितस्योपायस्यानर्हत्वात्  
+तत्-फलाप्राप्तिर् एव स्यात् । 
+</details>
+
+
+<details><summary>English</summary>
+
+If the sāstra does not enjoin the performance of prapatti in the place of other upāyas  
+to those who are incapable of them,  
+they will have to lose the fruit of these other upāyas  
+as they are not competent enough for their proper performance. 
+</details>
+
+<details><summary>Español</summary>
+
+Si el Sāstra **no ordena** el **rendimiento** de Prapatti en el lugar de otros upāyas  
+a aquellos que **son incapaces** de ellos,  
+**Tendrán** que **perder** el fruto de estos otros upāyas  
+ya que **no son** lo **suficientemente** competentes para su **rendimiento** adecuado.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुळ्ळ उपायङ्गळिल् समर्थऩऩ्ऱिगेयॊऴिन्दाल् अवऱ्ऱिऩुडैय स्थानत्तिले प्रपत्तियैप्पण्णुवदु ऎऩ्ऱु शास्त्रम् विधियादबोदु मुऩ्बु विधित्त उपायत्तुक्कनर्हऩाऩबडियाले अदिऩ् फलत्तै इऴक्कुम्बडियाम्।
+</details>
+
+
+
+This is how it stands. Though in ordinary life (in the world), we see service to kings and the like conferring certain benefits, yet we hold that in regard to the weaving of garlands, the lighting of lamps, the singing of hymns, the act of prostrating, and so on (in temples), if these things are done without any reference to the śāstras (as to how they should be done!, they will become offences. The worship of Bhagavān and His service have to be done with the right accessories as laid down in the śāstras and the fruits arising therefrom have also to be understood only from the śāstras. In the same way, although we see instances of prapatti
 
 io worldly life and the benefits arising therefrom, yet we can understand only from the śāstras the relationship of cause and effect that exists between prapatti performed with particular mantras and in accordance with the instructions of the goodācārya and certain special benefits which would result therefrom. Just as certain special forms of worship and service are prescribed for certain special benefits, prapatti, too, has been enjoined. If it were otherwise, no rules would have to be prescribed for the service of Bhagavān, in the same way as there are none for the service of the king. It would lead to the wrong view that, for prapatti also, the initiation into mantras with the instructions of goodācāryas is unnecessary. That even those who are not competent for the utterance of mantras may perform prapatti to the Saviour who has certain specific attributes and that certain specific benefits will be derived therefrom, provided it is performed in the proper way without anything wanting and without any up due excess - this cannot be determined by any sound inference, Therefore just as particular forms of worship and service to Bhagavān are enjoined (in the śāstras) with certain accessories, there is nothing inappropriate in the śāstra prescribing the per formance of prapatti with certain accessories (aṅgas ).
 

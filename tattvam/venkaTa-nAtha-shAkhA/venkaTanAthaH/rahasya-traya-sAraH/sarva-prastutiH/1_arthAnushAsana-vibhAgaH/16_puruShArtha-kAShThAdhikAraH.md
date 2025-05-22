@@ -11,7 +11,7 @@ title = "१६ पुरुषार्थ-काष्ठाधिकारः
 
 <details><summary>Español</summary>
 
-(16) El capítulo sobre la extensión más lejana de nuestro objeto final en la vida. Página219
+(16) El capítulo sobre la **extensión** más lejana de nuestro objeto final en la **vida**. Página219
 </details>
 
 
@@ -52,14 +52,15 @@ as far as the service of those who are dear to Him (Bhāgavatas).
 
 <details><summary>Español</summary>
 
-In the world of everyday life (a king sometimes uses his dependents and ornaments to serve the purposes of those who are dear to him like his sons, wives etc.)  
-and in the Vedas, it is declared that all the gods make their offerings to the devotee.  
-Even so, the Lord of Lakṣmī  uses sentient beings and non-sentient things to serve for ever  
-the purposes of those who have won His regard,  
-because He is independent and is their Master.  
-So, for us whose minds have been disciplined by the teaching of such as the prince of sannayasins (viz. Śrī Rāmānuja),  
-the service of the Lord extends  
-as far as the service of those who are dear to Him (Bhāgavatas).
+En el mundo de la **vida** cotidiana (un rey a veces **usa** a sus dependientes y **adornos** para **servir** a los propósitos de aquellos que **son queridos** para él como sus hijos, esposas, etc.)  
+Y en los Vedas, se declara que todos los dioses **hacen** sus ofrendas al devoto.  
+Aun así, el Señor de Lakṣmī **usa** seres sensibles y cosas no sensibles para **servir** para siempre  
+los propósitos de aquellos que **han ganado** su respeto,  
+Porque él **es** independiente y **es** su maestro.  
+
+Entonces, para nosotros cuyas mentes **han sido disciplinadas** por la **enseñanza** de tales como el Príncipe de Sannayasins (a saber, Śrī Rāmānuja),  
+El **servicio** del Señor **se extiende**  
+En cuanto al **servicio** de aquellos que son **queridos** para él (Bhāgavatas).
 </details>
 
 
@@ -151,12 +152,12 @@ REASONS FOR RENDERING SERVICE TO BHĀGAVATĀS :
 
 <details><summary>Español</summary>
 
-Razones para prestar servicio a Bhāgavatās:
+Razones para **prestar servicio** a Bhāgavatās:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> इङ्गु भगवत्कैङ्कर्यत्तै भागवत-कैङ्कर्य-पर्यन्तम् आगच् चॊल्लुगैक्क् अडिय् ऎऩ् 
+> इङ्गु भगवत्-कैङ्कर्यत्तै भागवत-कैङ्कर्य-पर्यन्तम् आगच् चॊल्लुगैक्क् अडिय् ऎऩ् 
 
 ऎऩ्ऩिल्, 
 </details>
@@ -180,11 +181,11 @@ the answer is as follows:-
 
 <details><summary>Español</summary>
 
-Si se pregunta aquí
+Si **se pregunta** aquí
 
-> Cómo se puede afirmar que el servicio de Bhagavān se extiende hasta el servicio de sus devotos (los Bhāgavatas),
+> Cómo **se puede afirmar** que el **servicio** de Bhagavān se **extiende** hasta el **servicio** de sus devotos (los Bhāgavatas),
 
-La respuesta es la siguiente:-
+La **respuesta es** la siguiente:-
 </details>
 
 
@@ -202,9 +203,11 @@ La respuesta es la siguiente:-
 ### शेषत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘परगतातिशयाधानेच्छयोपादेयत्वम् एव यस्य स्व-रूपं  
+> ‘‘+++(चेतोऽन्तरस्यापि)+++ परगतातिशय+आधानेच्छया  
++++(अवस्था-विशेषेऽप्य्)+++ +उपादेयत्वम् एव  
+> यस्य स्व-रूपं+++(=अ-साधारण-धर्मः)+++  
 > स शेषः,  
-> परश्शेषी’’+++(5)+++  
+> परश् शेषी’’+++(5)+++  
 > (वेदार्थ-सङ्ग्रहः।) 
 
 ऎऩ्ऱु वेदार्थ-संग्रहत्तिलेय् अरुळिच्-चॆय्द बडिये
@@ -257,7 +260,7 @@ Se ha dicho en el Vedartha Sangraha:
 **अतिशय**-शब्दम् निकृष्टेतर-परम् आगैयाल्  
 पर-गत-विनाशादि-जनकम् आऩ शस्त्राग्नि-कण्टकादिगळिल् अतिव्याप्तियिल्लै।  
 
-इङ्गु **इच्छा**-शब्दत्तै तत्-तद्-वस्तु-गत-शेषत्वानुगुणम् आग शेषि-गतेच्छा-परम् आयुम्, शेष-गतेच्छा-परम् आयुम्, उभयगतेच्छा-परम् आयुम्, +++(अचित्त्वात्)+++ उदासीन-गतेच्छा-परम् आयुम् कॊळ्ळवेण्डुम्।  
+इङ्गु **इच्छा**-शब्दत्तै तत्-तद्-वस्तु-गत-शेषत्वानुगुणम् आग शेषि-गतेच्छा-परम् आयुम्, शेष-गतेच्छा-परम् आयुम्, उभयगतेच्छा-परम् आयुम्, +++(अचित्त्वात्)+++ उदासीन-गतेच्छा-परम् आयुम् कॊळ्ळवेण्डुम्।+++(4)+++  
 शेषिगतेच्छया उपादेयङ्गळुक्कु उदाहरणम् -  
 "इदं मदीयं भूयात्" ऎऩ्गिऱ शॆषियिऩुडैय इच्छैयिऩाले उपादेयङ्गळाऩ गृह-क्षेत्रादिगळ्।  
 शेषगतेच्छैयिऩाले उपादेयङ्गळुक्कु उदाहरणम् -  
@@ -272,15 +275,16 @@ Se ha dicho en el Vedartha Sangraha:
 ऎऩ्गिऱ यजमाऩऩ्-उडैय इच्छैयिऩाले  
 उपादेयङ्गळ् आऩ प्रयाजादिगळ्।  
 
-**उपादेयत्वं** – स्वीकार्यत्वं । व्यवहर्तव्यत्वमिति यावत् ।  
-इङ्गु उपादेयत्वम् उपादातुमर्हत्वरूपमागैयाल् सुषुप्त्याद्यकिञ्चित्कारदशैकळिल् अव्याप्तियिल्लै।  
+**उपादेयत्वं** – स्वीकार्यत्वं । व्यवहर्तव्यत्वम् इति यावत् ।  
+इङ्गु उपादेयत्वम् उपादातुम् अर्हत्व-रूपम् आगैयाल्  
+सुषुप्त्य्-आद्य्-अ-किञ्चित्-कार--दशैगळिल् अव्याप्तिय् इल्लै।+++(4)+++  
 
 इङ्गु **एव**कारत्ताल् कदाचित् स्वार्थ-निरपेक्षम् आग  
 भृत्यादि-प्रयोजन-साधकर्गळ् आऩ प्रकृष्ट-कृपा-स्नेहशालिगळाऩ शेषिगळ् इडत्तिल्  
 अतिव्याप्ति-वारितम् आगिऱदु;  
 अवर्गळ्-उडैय स्वरूपम् सर्वदा-भृत्यादि-गतातिशयाधानेच्छैयालेये उपादेयत्व-रूपम् अऩ्ऱिऱे।  
 
-**यस्य** - ऎन्द वस्तुविऩुडैय, **स्वरूपं** – स्वंरूपं, असाधारणधर्मः ।  
+**यस्य** - ऎन्द वस्तुविऩुडैय, **स्वरूपं** – स्वंरूपं, अ-साधारण-धर्मः ।  
 स्वरूप-निरूपक-धर्म इत्यर्थः ।  
 
 **स शेषः** – अवऩ् शेषशब्दवाच्यऩ्।  
@@ -519,19 +523,19 @@ so that He extols him as in the words :-
 
 <details><summary>Español</summary>
 
-Se ha dicho:
+**Se ha dicho**:
 
-> "Bhagavān, que tiene todos los seres como su cuerpo,  
-> se regocija cuando un Jīva hace lo que es bueno  
-> y no se regocija cuando la acción es malvada ".
+> "Bhagavān, que **tiene** todos los seres como su cuerpo,  
+> **se regocija** cuando un Jīva **hace** lo que es bueno  
+> y **no se regocija** cuando la acción es malvada ".
 
-Cuando un hombre actúa de acuerdo con los Śāstras,  
-Él da el deleite al Señor  
-y por lo tanto no deja que su generosidad y otras cualidades se desperdicien,  
-pero promueve la gloria del Señor  
-para que lo ensalte como en las palabras:-
+Cuando un hombre **actúa** de acuerdo con los Śāstras,  
+Él da el **deleite** al Señor  
+y por lo tanto **no deja** que su generosidad y otras cualidades **se desperdicien**,  
+pero **promueve** la gloria del Señor  
+para que lo **ensalte** como en las palabras:-
 
-> "Todos estos son, de hecho, generosos".
+> "Todos estos **son**, de hecho, generosos".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -565,7 +569,7 @@ para que lo ensalte como en las palabras:-
 > “प्रहर्षयिष्यामि स-नाथ-जीवितः"  
 (आळवन्दार्-स्तोत्रम् ४६) 
 
-इत्य्-उक्त-रीत्या भोग-विशेषम् उत्पाद्य तन्-मुखेनातिशयाधायका भवन्ति । 
+इत्य्-उक्त-रीत्या भोग-विशेषम् **उत्पाद्य** तन्-मुखेनातिशयाधायका भवन्ति । 
 </details>
 
 <details><summary>English</summary>
@@ -585,17 +589,17 @@ as stated in the following śloka :-
 
 <details><summary>Español</summary>
 
-De la misma manera que los Muktas (almas liberadas) y los nityas (los sūris) promueven la gloria del Señor  
-por percepción directa de la voluntad del Señor  
-y actuando de tal manera que le diera bhoga o disfrute,
+De la misma manera que los Muktas (almas liberadas) y los nityas (los sūris) **promueven** la gloria del Señor   
+por **percepción** directa de la **voluntad** del Señor  
+y **actuando** de tal manera que le **diera** bhoga o disfrute,
 
-Las Prapannas también pueden dar lugar a un tipo especial de bhoga o disfrute del Señor  
-y así promueve su gloria  
+Las Prapannas también **pueden dar** lugar a un tipo especial de bhoga o disfrute del Señor  
+y así **promueve** su gloria  
 como se indica en el siguiente Śloka:-
 
-> "¿Cuándo seré siempre Tu siervo,  
-Te miraré como mi Maestro  
-y de esta manera Te daré deleite?"
+> "¿Cuándo **seré** siempre Tu **siervo**,  
+Te **miraré** como mi Maestro  
+y de esta manera Te **daré** deleite?"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -631,8 +635,8 @@ and renders service to the Lord.
 
 <details><summary>Español</summary>
 
-The prapanna learns the Lord's will from the śāstras (though not directly )  
-and renders service to the Lord.
+La Prapanna **aprende** la **voluntad** del Señor de los Śāstras (aunque no directamente)  
+y **presta** servicio al Señor.
 </details>
 
 
@@ -672,8 +676,8 @@ it will end in his ruin.
 
 <details><summary>Español</summary>
 
-When a man gives rise to Iśvara's līlā rasa by actions opposed to the śāstras,  
-it will end in his ruin. 
+Cuando un hombre **da lugar** a Līlā rasa de Iśvara por **acciones** opuestas a los śāstras,  
+**Terminará** en su ruina.
 </details>
 
 
@@ -695,7 +699,7 @@ THE LORD IS PLEASED AT THE SERVICE RENDERED TO HIS DEVOTEES :
 
 <details><summary>Español</summary>
 
-El Señor está contento con el servicio prestado a sus devotos:
+El Señor **está contento** con el **servicio prestado** a sus devotos:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -705,7 +709,7 @@ El Señor está contento con el servicio prestado a sus devotos:
 ईश्वराभिप्रायत्तैक् **कण्डु**  
 तद्-**अनुरूपम् आग वर्तिक्कुम्** बोदु  
 ईश्वरऩ् उडैय **लीलादि**-पुरुषार्थत्त्-उडऩेय्  
-आनुषङ्गिकम् आगत् तऩक्कुम् स्वाभिमत-**पुरुषार्थम् उण्ड् आम्**।  
++++(अप्रार्थ्यापि←)+++ आनुषङ्गिकम् आगत् तऩक्कुम् स्वाभिमत-**पुरुषार्थम् उण्ड् आम्**।  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -714,7 +718,7 @@ El Señor está contento con el servicio prestado a sus devotos:
 मुक्त-दशायां प्रत्यक्षेण चेश्वराभिप्रायं **विदित्वा**  
 तद्-अनुरूपं वर्तने  
 ईश्वरस्य लीलादि-पुरुषार्थेन सह  
-आनुषङ्गिकतया स्वस्यापि स्वाभिमत-पुरुषार्थः सिध्यति ।
++++(अप्रार्थ्यापि←)+++ आनुषङ्गिकतया स्वस्यापि स्वाभिमत-पुरुषार्थः सिध्यति ।
 </details>
 
 
@@ -729,11 +733,11 @@ but incidentally attain his own desired objects.
 
 <details><summary>Español</summary>
 
-If, in the state of bondage,  
-he acts according to the Lord's will as revealed in the śāstras  
-and, in the state of mokṣa , by direct perception of the Lord's will,  
-he will not only promote the Lord's līlā rasa and bhoga  
-but incidentally attain his own desired objects.  
+Si, en el estado de la esclavitud,
+Él **actúa** de acuerdo con la **voluntad** del Señor como **se revela** en los Śāstras  
+y, en el estado de Mokṣa, por percepción directa de la voluntad del Señor,  
+No solo **promoverá** el Līlā Rasa y Bhoga del Señor  
+pero incidentalmente **alcanza** sus propios objetos deseados.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -783,10 +787,10 @@ which disclose that the service rendered to His devotees is most delightful to h
 
 <details><summary>Español</summary>
 
-Cuando el Jīva actúa en cualquier ocasión conscientemente,  
-Dado que su fruta deseada, por lo que es incidental, tiene que venir de la voluntad del Señor,
-este último tiene que ser determinado de los śastras
-Lo que revela que el servicio prestó a sus devotos es más encantador para él.
+Cuando el Jīva **actúa** en cualquier ocasión conscientemente,  
+Dado que su fruta **deseada**, por lo que es incidental, tiene que **venir** de la voluntad del Señor,  
+este último **tiene** que ser determinado de los śastras  
+Lo que **revela** que el servicio **prestó** a sus devotos **es** más encantador para él.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -841,11 +845,11 @@ The following authoritative texts may be studied in this connection:
 
 <details><summary>Español</summary>
 
-Los siguientes textos autorizados se pueden estudiar a este respecto:
+Los siguientes textos autorizados **se pueden estudiar** a este respecto:
 
-> "De todas las formas de homenaje, el homenaje pagado a Viṣṇu es el mejor,  
+> "De todas las formas de homenaje, el homenaje **pagado** a Viṣṇu es el mejor,  
 > Pero superior incluso a esto,  
-> es el excelente homenaje o adoración ofrecida a los devotos de Viṣṇu ",
+> **es** el excelente **homenaje o adoración ofrecida** a los devotos de Viṣṇu ",
 </details>
 
 
@@ -891,8 +895,8 @@ Los siguientes textos autorizados se pueden estudiar a este respecto:
 
 <details><summary>Español</summary>
 
-> "Tengo un gran afecto por aquellos que están dedicados a mis devotos.  
-> Por lo tanto, se debe hacer un servicio devoto para ellos ".
+> "**Tengo** un gran afecto por aquellos que **están** dedicados a mis devotos.  
+> Por lo tanto, **se debe hacer un servicio devoto** para ellos ".
 </details>
 
 
@@ -974,21 +978,23 @@ Los siguientes textos autorizados se pueden estudiar a este respecto:
 
 <details><summary>Español</summary>
 
-> "La devoción para mí es de ocho formas:  
-> (1) Amor a mis devotos sin pensar en sus fallas;  
-> (2) regocijarse en la adoración que me ofrece otra;  
-> (3) Deleitarse en escuchar historias sobre mí;  
-> (4) un cambio en la voz, en los ojos y en el cuerpo, mientras escucha esas historias;  
-> (5) tratando de ofrecerme adoración;  
-> (6) libertad de hipocresía en las relaciones de uno conmigo;  
-> (7) Meditación de mí en todo momento;  
-> (8) y no considerarme como uno de quien se pueden tener beneficios mundanos -
+> "La devoción para mí **es** de ocho formas:  
 >
-> Si bhakti (que es de estas ocho formas) se encuentra en una mleccha,  
-> Debería ser respetado como el mejor de los brahmanes dotados de jñāna y bhakti;   
-> Es un verdadero sannyāsi, es un hombre sabio y se le puede enseñar (las Escrituras)  
-> Y de él uno puede aprender la verdad.
-> Es apto para ser adorado incluso como yo ".
+> (1) Amor a mis devotos **sin pensar** en sus fallas;  
+> (2) **regocijarse** en la **adoración** que me **ofrece** otra;  
+> (3) **Deleitarse** en escuchar historias sobre mí;  
+> (4) un **cambio** en la voz, en los ojos y en el cuerpo, mientras **escucha** esas historias;  
+> (5) **tratando** de **ofrecerme adoración**;  
+> (6) **libertad** de hipocresía en las relaciones de uno conmigo;  
+> (7) **Meditación** de mí en todo momento;  
+> (8) y **no considerarme** como uno de quien se **pueden tener** beneficios mundanos -
+>
+> Si bhakti (que **es** de estas ocho formas) **se encuentra** en una mleccha,  
+> Debería **ser respetado** como el mejor de los brahmanes dotados de jñāna y bhakti;   
+> **Es** un verdadero sannyāsi,  
+**es** un hombre sabio y se le **puede enseñar** (las Escrituras)  
+> Y de él uno **puede aprender** la verdad.
+> **Es** apto para ser adorado incluso como yo ".
 </details>
 
 
@@ -1000,9 +1006,12 @@ Los siguientes textos autorizados se pueden estudiar a este respecto:
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
 अथ भक्तिभेदत्तैक्काट्टुगिऱार् मद्भक्तेति । मद्भक्तजनवात्सल्यं – मद्भक्तविषयत्तिल् दोषम् पारामै, पूजायाञ्चानुमोदनं – परकृतमाऩ ऎऩ्ऩुडैय पूजैयिल् सन्तोषम्, स्वरनेत्राङ्गविक्रिया – स्वरविक्रिया – सगद्गदत्वं, नेत्रविक्रिया – आनन्दबाष्पप्रवाहम्, अङ्गविक्रिया – पुळकाङ्कितत्वम्, स्वयमाराधनेयत्नः – अन्यपूजानुमोदनमात्रमऩ्ऱिक्के स्वयमे आराधनम् सॆय्य प्रयत्नम्। ममार्थे – मद्विषये, मम कैङ्कर्यविषय इति यावत् । डम्भवर्जनं – ख्यातिलाभपूजापेक्षारहितत्वम्, ममानुस्मरणं नित्यं - अडिक्कडि ऎऩ्ऩुडैय शुभाश्रयानुसन्धानम्, मां नोपजीवतीति यत् तच्च - ऎऩ्ऩिडत्तिल् निऩ्ऱुम् प्रयोजनान्तरत्तै याचिक्कामलॆऩ्ऱबडि। एषा ह्यष्टविधा भक्तिः - मुऩ्सॊऩ्ऩ ऎट्टु प्रकारभेदत्तैयुडैय भक्तियाऩदु, भक्तियिलुम् भक्तिकार्यङ्गळिलुमुळ्ळ प्रभेदङ्गळै निऩैत्तु भक्तिये ऎट्टुविदमॆऩ्गिऱदु। यस्मिन् म्लेच्छेऽपि वर्तते – इङ्गु अपिर्विरोधे । क्रूरजातियाऩ म्लेच्छादिगळिडत्तिल् भक्तियिऩ् वर्तनम् विरुद्धमिऱे। अप्पडि विरुद्धमाऩ अधिकारियिऩिडत्तिल् भक्तियिरुन्दालॆऩ्ऱबडि। सः – अवऩ् श्रीमान् – शेषत्वज्ञानादिरूपविद्यावाऩायुम्, मुनिः – मननशीलऩायुम्, विप्रेन्द्रः – ब्राह्मणोत्तमऩायुम्, यतिः – सन्न्यासि यायुम्, पण्डितः – पण्डितऩायुम्, मन्तव्य इति शेषः ।  
-तस्मै देयं - अवऩिऩ्बॊरुट्टु तत्त्वज्ञानम् देयम्;  
+
+तस्मै देयं - अवऩिऩ् पॊरुट्टु तत्त्व-ज्ञानम् देयम्;  
 अवऩुक्कु तत्त्वज्ञानोपदेशम् पण्णलामॆऩ्ऱबडि।  
-ततो ग्राह्यं - अवऩ् इडत्तिऩिऩ्ऱुम् संशयनिरसनार्थम् आऩ ज्ञानम् उपादेयम्।  
+ततो ग्राह्यं - अवऩ् इडत्ति-ऩिऩ्ऱुम् संशयनिरसनार्थम् आऩ 
+
+ज्ञानम् उपादेयम्।  
 ब्राह्मणादिगळुक्कुम् संशयम् वन्दाल्  
 तन्-निरासार्थम् आग  
 अवऩ्-इडत्तिल् केट्टुत् तॆळियल् आम् ऎऩ्ऱ बडि।  
@@ -1037,10 +1046,10 @@ Los siguientes textos autorizados se pueden estudiar a este respecto:
 
 <details><summary>Español</summary>
 
-> "Son mis bhaktas o devotos  
-> que no muestran devoción a ninguna otra deidad,  
-> Quién aman a los que me dedican  
-> y eso me han buscado como su upāya ",
+> "**Son** mis bhaktas o devotos  
+> que **no muestran** devoción a ninguna otra deidad,  
+> Quién **aman** a los que **me dedican**  
+> y eso me **han buscado** como su upāya ",
 </details>
 
 
@@ -1086,9 +1095,9 @@ Los siguientes textos autorizados se pueden estudiar a este respecto:
 
 <details><summary>Español</summary>
 
-> "Ofrezco adoración también a aquellos  
-> que ofrecen adoración a que Yajna Varāha,  
-> que es de esplendor ilimitado",
+> "**Ofrezco adoración** también a aquellos  
+> que **ofrecen adoración** a que Yajna Varāha,  
+> que **es** de esplendor ilimitado",
 </details>
 
 
@@ -1123,11 +1132,11 @@ by doing so, men are released from all their sins."
 
 <details><summary>Español</summary>
 
-> "Al buscar la protección de aquellos  
-que buscan al Señor como su refugio  
-y prestando servicio a aquel que está dedicado al devoto,  
-quién es (a su vez) dedicado al devoto del Señor -  
-Al hacerlo, los hombres son liberados de todos sus pecados ".
+> "Al **buscar la protección** de aquellos  
+que **buscan** al Señor como su refugio  
+y **prestando servicio** a aquel que **está dedicado** al devoto,  
+quién **es** (a su vez) **dedicado** al **devoto** del Señor -  
+Al **hacerlo**, los hombres **son liberados** de todos sus pecados ".
 </details>
 
 
@@ -1170,12 +1179,12 @@ in the same way as the fondling of the prince is most pleasing to the king.
 
 <details><summary>Español</summary>
 
-Cuando estudiamos estos pasajes, (queda claro) que,  
-de todas las formas de servicio que un Śeṣa del Señor puede hacer,  
-que renderizado a las bhāgavatas es la más importante  
-y es el más agradable para el Señor,  
-de la misma manera que el acariciado del príncipe  
-es más agradable para el rey.
+Cuando **estudiamos** estos pasajes, (queda claro) que,  
+de todas las formas de **servicio** que un Śeṣa del Señor **puede hacer**,  
+que **renderizado** a las bhāgavatas es la más importante  
+y **es** el más **agradable** para el Señor,  
+de la misma manera que el **acariciado** del príncipe  
+**es** más agradable para el rey.
 </details>
 
 
@@ -1219,7 +1228,7 @@ In this matter, if we examine the path of the pramāṇas,
 
 <details><summary>Español</summary>
 
-En este asunto, si examinamos el camino de los pramāṇas,
+En este asunto, si **examinamos** el camino de los pramāṇas,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1263,9 +1272,9 @@ En este asunto, si examinamos el camino de los pramāṇas,
 
 <details><summary>Español</summary>
 
-> "Aquellos que adoran los Pitṛs, los Dioses, los Brahmins y Agni -  
-> adora solo al Señor  
-> Quién es el yo interior de todas las criaturas ".
+> "Aquellos que **adoran** los Pitṛs, los Dioses, los Brahmins y Agni -  
+> **adora** solo al Señor  
+> Quién **es** el yo interior de todas las criaturas ".
 </details>
 
 
@@ -1294,8 +1303,9 @@ Iśvara, who has the Bhāgavata as His body, is the object of worship as is decl
 
 <details><summary>Español</summary>
 
-Iśvara, que tiene el Bhāgavata como su cuerpo,  
-es el objeto de adoración como se declara en el (arriba) śloka
+Iśvara, que **tiene** el Bhāgavata como su cuerpo,  
+**es** el objeto de adoración  
+como **se declara** en el (arriba) śloka
 </details>
 
 
@@ -1336,7 +1346,7 @@ es el objeto de adoración como se declara en el (arriba) śloka
 
 <details><summary>Español</summary>
 
-(Como se dice) "Él también es querido para mí"
+(Como **se dice**) "Él también **es querido** para mí"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1371,9 +1381,9 @@ that is exclusively devoted to Him on account of His love for him,
 
 <details><summary>Español</summary>
 
-Si, por otro lado, consideramos la idea del prakari  
-que alguna vez está a disposición del hombre  
-que se dedica exclusivamente a él debido a su amor por él,
+Si, por otro lado, **consideramos** la idea del prakari  
+que alguna vez **está a disposición** del hombre  
+que **se dedica** exclusivamente a él debido a su amor por él,
 </details>
 
 
@@ -1416,7 +1426,7 @@ as has been said in the śloka  :
 
 Como se ha dicho en el Śloka:
 
-> "Entre ellos el Jnānī es mi propio"
+> "Entre ellos el Jnānī **es** mi propio"
 </details>
  
 
@@ -1435,7 +1445,7 @@ Como se ha dicho en el Śloka:
 <details><summary>नीलमेघः (सं)</summary>
 
 भागवत-**कैङ्कर्यं** भगवान्  
-[भागवते स्वान्तर्यामित्वारोपेण] स्वान्तर्यमि-विषये **कृतम्** इत्य् **अभिनन्देत्** । 
+[भागवते स्वान्तर्यामित्वारोपेण] स्वान्तर्यमि-विषये **कृतम्** इत्य् **अभिनन्देत्** । +++(5)+++
 </details>
 
 
@@ -1443,14 +1453,14 @@ Como se ha dicho en el Śloka:
 
 the Lord would be pleased at the service rendered to the Bhāgavata,  
 as if it were service rendered (directly) to His own inner self  
-and not as that done to His body.
+and not as that done to His body.+++(5)+++
 </details>
 
 <details><summary>Español</summary>
 
-El Señor estaría complacido por el servicio prestado al Bhāgavata,  
-Como si fuera el servicio prestado (directamente) a su propio ser interno  
-y no como se le hizo a su cuerpo.
+El Señor **estaría complacido** por el **servicio** prestado al Bhāgavata,  
+Como si **fuera** el **servicio prestado** (directamente) a su propio ser interno  
+y no como **se le hizo** a su cuerpo.+++(5)+++
 </details>
 
 
@@ -1494,11 +1504,11 @@ may also be mediated through the Bhāgavata.
 
 <details><summary>Español</summary>
 
-Además de causar placer al Śeṣī,  
+Además de **causar** placer al Śeṣī,  
 La relación del Jīva con Iśvara como su Śeṣa  
-También es mediatamente a través del Bhāgavata.  
-Por lo tanto, su servicio al Señor  
-También puede estar mediado a través del Bhāgavata.
+También **es mediatamente** a través del Bhāgavata.  
+Por lo tanto, su **servicio** al Señor  
+También **puede estar mediado** a través del Bhāgavata.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1531,7 +1541,7 @@ This may be explained as follows:
 
 <details><summary>Español</summary>
 
-Esto puede explicarse de la siguiente manera:
+Esto **puede explicarse** de la siguiente manera:
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1584,14 +1594,14 @@ are, mediately through these devotees,
 
 <details><summary>Español</summary>
 
-> Para el ser supremo que siempre está con Lakṣmī  
-> y quién mira a sus devotos como su propio yo,  
-> El atributo de ser un seshī  
-> ambos pueden ser por ser un seshi junto con Lakṣmī  
-> y por ser un Śeṣī mediémente a través de los devotos.  
+> Para el ser supremo que siempre **está** con Lakṣmī  
+> y quién **mira** a sus devotos como su propio yo,  
+> El atributo de **ser** un seshī  
+> ambos **pueden ser** por ser un seshi junto con Lakṣmī  
+> y por **ser** un Śeṣī mediémente a través de los devotos.  
 
-(Es decir, aquellos que se consideran a sí mismos como Śeṣas a sus devotos  
-son, mediatamente a través de estos devotos,  
+(Es decir, aquellos que **se consideran** a sí mismos como Śeṣas a sus devotos  
+**son**, mediatamente a través de estos devotos,  
 śeṣas al mismo Señor).
 </details>
 
@@ -1638,9 +1648,10 @@ round the necks of his servants and of his elephants and horses.
 
 <details><summary>Español</summary>
 
-Un rey que es independiente  
-y quien se complace en actuar como quiera  
-coloca los adornos y guirnaldas usados ​​por sí mismo  alrededor del cuello de sus sirvientes y de sus elefantes y caballos.
+Un rey que **es** independiente  
+y quien **se complace** en **actuar** como **quiera**  
+**coloca** los adornos y guirnaldas usados ​​por sí mismo  
+alrededor del cuello de sus sirvientes y de sus elefantes y caballos.
 </details>
 
 
@@ -1690,10 +1701,10 @@ coloca los adornos y guirnaldas usados ​​por sí mismo  alrededor del cuello
 
 <details><summary>Español</summary>
 
-(Tiruppan Alvar dice):-
+(Tiruppan Alvar dice****):-
 
-> "El Señor que está impecable  
-> y quién me ha convertido en el sirviente de sus sirvientes ".
+> "El Señor que **está** impecable  
+> y quién me **ha convertido** en el **sirviente** de sus sirvientes ".
 </details>
 
 
@@ -1712,8 +1723,8 @@ coloca los adornos y guirnaldas usados ​​por sí mismo  alrededor del cuello
 
 > ‘‘नारदो ऽहम् **अनुप्राप्तस्**  
 > त्वद्-दर्शन-कुतूहलात् ।  
-> **प्रभवो** भगवद्-भक्ता  
-> मादृशां सततं द्विज ॥’’+++(4)+++  
+> **प्रभवो** भगवद्-भक्ता +++(स्वरूपतः)+++  
+> +++(गुणतोऽपि→)+++ मादृशां सततं द्विज ॥’’+++(4)+++  
 > (इतिहास-समुच्चयः ३१-५४।) 
 
 ऎऩ्ऱुम्, 
@@ -1723,8 +1734,8 @@ coloca los adornos y guirnaldas usados ​​por sí mismo  alrededor del cuello
 
 > ‘‘नारदो ऽहम् **अनुप्राप्तस्**  
 > त्वद्-दर्शन-कुतूहलात् ।  
-> **प्रभवो** भगवद्-भक्ता  
-> मादृशां सततं द्विज ॥’’+++(4)+++  
+> **प्रभवो** भगवद्-भक्ता +++(स्वरूपतः)+++  
+> +++(गुणतोऽपि→)+++ मादृशां सततं द्विज ॥’’+++(4)+++  
 > (इतिहास-समुच्चयः ३१-५४।) 
 
 इति
@@ -1747,11 +1758,11 @@ coloca los adornos y guirnaldas usados ​​por sí mismo  alrededor del cuello
 
 <details><summary>Español</summary>
 
-(También dice Nārada):
+(También **dice** Nārada):
 
-> "Yo, Nārada, he venido aquí con un ansioso anhelo de verte.  
+> "Yo, Nārada, **he venido** aquí con un ansioso anhelo de **verte**.  
 > Para hombres como yo, oh brahmin,  
-> Los que son Bhaktas del Señor son maestros "
+> Los que **son** Bhaktas del Señor **son** maestros "
 </details>
 
 
@@ -1770,6 +1781,7 @@ coloca los adornos y guirnaldas usados ​​por sí mismo  alrededor del cuello
 
 > "मऱ्ऱुम् ओर् दॆय्वम् उळद्" ऎऩ्ऱ् इरुप्पारोड् **उऱ्ऱ्+++(=अङ्गीकारः)+++-इलेऩ्**  
 **उऱ्ऱदुम्** उऩ्ऩ्-अडियार्क्क् **अडिमैय्**'  
++++(इत्य् अष्टाक्षरोपदेशः!)+++  
 (पॆरियदिरुमॊऴि ८-१०-३।)  
 </details>
 
@@ -1779,7 +1791,8 @@ coloca los adornos y guirnaldas usados ​​por sí mismo  alrededor del cuello
 
 
 > "अन्यत् किम् अपि दैवम् अस्ती"त्य् **आतिष्ठमानैः** सह **न संसृज्येय**; 
-> **अङ्गीकृतञ्** च भवद्-दास-दास्यम्' 
+> **अङ्गीकृतञ्** च भवद्-दास-दास्यम्'  
++++(इत्य् अष्टाक्षरोपदेशः!)+++
 </details>
 
 
@@ -1795,10 +1808,10 @@ and again (Tirumaṅgai Alvar says ); -
 
 y nuevamente (dice Tirumaṅgai Alvar);-
 
-> No permaneceré en compañía de aquellos que piensan que  
-> "hay otra deidad mereciendo adoración que thee";  
-> También lo que he aceptado con deleite  
-> es el deber de servir a tus devotos ".
+> No **permaneceré** en compañía de aquellos que **piensan** que  
+> "**hay** otra deidad **mereciendo adoración** que thee";  
+> También lo que **he aceptado** con deleite  
+> **es** el **deber de servir** a tus devotos ".
 </details>
 
 
@@ -1843,10 +1856,10 @@ our being a śeṣa to the Lord extends even to the Bhāgavatas and should last 
 <details><summary>Español</summary>
 
 Según estos pasajes,  
-Dado que el Jīva está absolutamente sujeto a la voluntad del Señor  
-y dado que se debe el servicio del śeṣa  
-también para aquellos que son favoritos del Señor,  
-Ser un Śeṣa al Señor se extiende incluso a los Bhāgavatas y deberían durar mientras dure el yo.
+Dado que el Jīva **está** absolutamente sujeto a la voluntad del Señor  
+y dado que **se debe** el **servicio** del śeṣa  
+también para aquellos que **son** favoritos del Señor,  
+**Ser** un Śeṣa al Señor **se extiende** incluso a los Bhāgavatas y **deberían durar** mientras **dure** el yo.
 </details>
 
 
@@ -1898,21 +1911,24 @@ is also indicated (respectively) in the two phrases
 
 <details><summary>Español</summary>
 
-Nuestro ser Śeṣas a Bhāgavatas surge de sus devotos al Señor  
-y pertenece a nuestra naturaleza esencial.  
-Surge también de sus cualidades y conocimientos,  
+Nuestro **ser** Śeṣas a Bhāgavatas **surge** de sus **devotos** al Señor  
+y **pertenece** a nuestra naturaleza esencial.  
+**Surge** también de sus cualidades y conocimientos,  
 que causan un deseo en nosotros de servirles,
 
-> (Como dice Lakṣmaṇa) "Soy su hermano menor (por nacimiento);  
-Me he convertido en su sirviente por sus cualidades ".
+> (Como dice Lakṣmaṇa) "**Soy** su hermano menor (por **nacimiento**);  
+Me **he convertido** en su **sirviente** por sus cualidades ".
 
-(Que esta relación de ser un śeṣa se debe tanto a nuestra naturaleza esencial como a (nuestra admiración) por su sabiduría y carácter)  
-también está indicado (respectivamente) en las dos frases
+(Que esta relación de **ser** un śeṣa **es**  
+debe tanto a nuestra naturaleza esencial  
+y (nuestra **admiración**) por su sabiduría y carácter)  
+
+también **está** indicado (respectivamente) en las dos frases
 
 1) "Bhaktas del Señor" y  
 2) a "hombres como yo" 
 
-(en el discurso de Nārada citado anteriormente).
+(en el **discurso** de Nārada **citado** anteriormente).
 </details>
 
 
@@ -1925,7 +1941,9 @@ también está indicado (respectivamente) en las dos frases
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
 द्वार-भूतम् आऩ भागवतर्गळ्-उडैय शेषत्वम्  
-इरण्डु वगैय् आय् इरुक्कुम् ऎऩ्गिऱार् इङ्गित्यादिना । भागवतत्वमडियाग - भागवतत्त्वमे निबन्धनमाग, स्वरूपप्रयुक्तमागवुमिति । ऒरुवऩुक्कु भागवतत्वमिरुन्दाल् अवऩुडैय गुणागुणविचारमऩ्ऱिक्के तावन्मात्रत्ताले वरुम् तच्छेषत्वत्तै स्वरूपप्रयुक्तशेषत्वमॆऩ्गिऱदु। इदु भगवाऩुक्कु सद्वारकशेषित्वत्तै विधिक्किऱ प्रमाणत्ताले सिद्धम्। गुणैर्दास्यमुपागतः - इदु इळैयबॆरुमाळुडैय वाक्यम् ‘‘अहमस्यावरो भ्राता’’ ऎऩ्बदु इदिऩ् मुऩ् पादम्। पॆरुमाळुडैय समक्षत्तिल् हनूमाऩ् 'नीर् यार्' ऎऩ्ऱु केट्क, ऎऩ्ऩै पॆरुमाळ् ऒरुबडि निऩैत्तिरुप्पर् नाऩ् ऒरुबडि निऩैत्तिरुप्पेऩ् ऎऩ्गिऱार्। अवरुडैय बुद्धियाल् निऩैत्तिरुप्पदु अवरो भ्राताऎऩ्ऱु - इवरुक्कु नाऩ् पिऩ् पिऱन्द भ्राता ऎऩ्ऱु; ऎऩ्ऩुडैय बुद्धियाल् अवर् मिगवुम् गुणाढ्यरॆऩ्ऱुम्, अवरुडैय गुणत्ताले नाऩ् अवरुक्कु दासभूतऩॆऩ्ऱुम् निऩैत्तिरुप्पेऩॆऩ्ऱु सॊऩ्ऩार्। इन्द श्लोकन्यायत्तैप् पार्त्ताल् भागवतर्गळुडैय गुणङ्गळिलीडुबट्टु स्वेच्छैयिऩाले वरुम् भागवतशेषत्वमुम् ऒऩ्ऱुण्डॆऩ्ऱेऱ्पडुगिऱदु। इन्द इरण्डु शेषत्वमुम् ‘‘भगवद्भक्ताः’’ ‘‘मादृशां’’ ऎऩ्गिऱ इरण्डु पदत्तालुम् सूचितमिति । भगवद्भक्ताः ऎऩ्बदाल् स्वरूपप्रयुक्तदास्यमुम्, गुणसारस्य वेदिगळैच् चॊल्लुम् मादृशां ऎऩ्गिऱ पदत्ताले गुणकृतदास्यमुम् सूचितमॆऩ्ऱबडि। 
+इरण्डु वगैय् आय् इरुक्कुम् ऎऩ्गिऱार् इङ्गित्यादिना । भागवतत्वमडियाग - भागवतत्त्वमे निबन्धनमाग, स्वरूपप्रयुक्तमागवुमिति । ऒरुवऩुक्कु भागवतत्वमिरुन्दाल् अवऩुडैय गुणागुणविचारमऩ्ऱिक्के तावन्मात्रत्ताले वरुम् तच्छेषत्वत्तै स्वरूपप्रयुक्तशेषत्वमॆऩ्गिऱदु। इदु भगवाऩुक्कु सद्वारकशेषित्वत्तै विधिक्किऱ प्रमाणत्ताले सिद्धम्। गुणैर्दास्यमुपागतः - इदु इळैयबॆरुमाळुडैय वाक्यम् ‘‘अहमस्यावरो भ्राता’’ ऎऩ्बदु इदिऩ् मुऩ् पादम्। पॆरुमाळुडैय समक्षत्तिल् हनूमाऩ् 'नीर् यार्' ऎऩ्ऱु केट्क, ऎऩ्ऩै पॆरुमाळ् ऒरुबडि निऩैत्तिरुप्पर् नाऩ् ऒरुबडि निऩैत्तिरुप्पेऩ् ऎऩ्गिऱार्। अवरुडैय बुद्धियाल् निऩैत्तिरुप्पदु अवरो भ्राताऎऩ्ऱु - इवरुक्कु नाऩ् पिऩ् पिऱन्द भ्राता ऎऩ्ऱु; ऎऩ्ऩुडैय बुद्धियाल् अवर् मिगवुम् गुणाढ्यरॆऩ्ऱुम्, अवरुडैय गुणत्ताले नाऩ् अवरुक्कु दासभूतऩॆऩ्ऱुम् निऩैत्तिरुप्पेऩॆऩ्ऱु सॊऩ्ऩार्। इन्द श्लोकन्यायत्तैप् पार्त्ताल् भागवतर्गळुडैय गुणङ्गळिलीडुबट्टु स्वेच्छैयिऩाले वरुम् भागवतशेषत्वमुम् ऒऩ्ऱुण्डॆऩ्ऱेऱ्पडुगिऱदु। इन्द इरण्डु शेषत्वमुम् ‘‘भगवद्भक्ताः’’ ‘‘मादृशां’’ ऎऩ्गिऱ इरण्डु पदत्तालुम् सूचितमिति ।  
+भगवद्भक्ताः ऎऩ्बदाल् स्वरूपप्रयुक्तदास्यमुम्,  
+गुण-सारस्य वेदिगळैच् चॊल्लुम् मादृशां ऎऩ्गिऱ पदत्ताले गुणकृतदास्यमुम् सूचितमॆऩ्ऱबडि। 
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -1986,9 +2004,9 @@ también está indicado (respectivamente) en las dos frases
 
 <details><summary>Español</summary>
 
-> "Estos que son los sirvientes de Bhāgavatas  
-> y quién pronuncia los nombres de Bhagavān  
-> tienen derecho incluso a vendernos ".
+> "Estos que **son** los **sirvientes** de Bhāgavatas  
+> y quién **pronuncia** los nombres de Bhagavān  
+> **tienen** derecho incluso a **vendernos** ".
 </details>
 
 
@@ -2026,7 +2044,7 @@ Perialvar, the (great) commentator of Kalpa sūtras stated (in this connection):
 
 <details><summary>Español</summary>
 
-Perialvar, el (gran) comentarista de Kalpa Sūtras declaró (en este sentido):--
+Perialvar, el (gran) **comentaristo** de Kalpa Sūtras **declaró** (en este sentido):--
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2058,8 +2076,8 @@ This is the purport of the middle word in Tirumantra, namely, namo: na mama (not
 
 <details><summary>Español</summary>
 
-Este es el significado de la palabra media en Tirumantra,  
-a saber, namo: na mamá (no para mí).
+Este **es** el significado de la palabra media en Tirumantra,  
+**a saber**, namo: na mamá (no para mí).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2098,10 +2116,10 @@ is also (both ) mediate and direct.
 
 <details><summary>Español</summary>
 
-Si reflexionamos sobre este significado,  
-Nuestro ser Śeṣa para el Señor es mediado (a través de las Bhāgavatas) e inmediato (directamente a él).  
-En consecuencia, el servicio que debe ser prestado por el śeṣa  
-también (ambos) mediado y directo.
+Si **reflexionamos** sobre este significado,  
+Nuestro **ser** Śeṣa para el Señor **es mediado** (a través de las Bhāgavatas) e inmediato (directamente a él).  
+En consecuencia, el **servicio** que **debe ser prestado** por el śeṣa  
+es también (ambos) mediado y directo.
 </details>
 
 
@@ -2145,12 +2163,12 @@ so that it may not become fallow land full of weeds.
 
 <details><summary>Español</summary>
 
-Por lo tanto, es el límite más lejano del servicio de la Prapanna para realizar,  
-Por mucho que se encuentre en su poder, servicio al Bhāgavata,  
-ya que es parte del deber de alguien que es Śeṣa a Bhagavān.  
+Por lo tanto, **es** el límite más lejano del **servicio** de la Prapanna para **realizar**,  
+Por mucho que **se encuentre** en su poder, **servicio** al Bhāgavata,  
+ya que **es** parte del **deber** de alguien que **es** Śeṣa a Bhagavān.  
 Entonces esta región de servicio más externa a Bhāgavatas  
-debe mantenerse correctamente cultivado  
-de modo que no se convierta en tierra en barbecho, llena de malezas.
+**debe mantenerse** correctamente cultivado  
+de modo que **no se convierta** en tierra en barbecho, llena de malezas.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2201,9 +2219,9 @@ whether in his presence or in his absence."
 
 <details><summary>Español</summary>
 
-> "No está mal que una esposa casada honre a su esposo  
-y para honrar a sus sirvientes,  
-ya sea en su presencia o en su ausencia ".
+> "**No está** mal que una esposa casada **honre** a su esposo  
+y para **honrar** a sus sirvientes,  
+ya sea en su **presencia** o en su **ausencia** ".
 </details>
 
 
@@ -2247,9 +2265,8 @@ ya sea en su presencia o en su ausencia ".
 
 > +++(भागवताः→ [नित्यम्])+++ आप्तो विष्णोर् अनाप्तश् च  
 द्विधा परिकरस् स्मृतः ।  
-नित्यो **वन्द्यो**, न चानित्यः  
+नित्यो **वन्द्यो**, न चानित्यः +++(आप्ततायाम्)+++  
 कर्म-वश्यो मुमुक्षुभिः॥   
-
 (पौष्कर-संहिता) 
 </details>
 
@@ -2257,10 +2274,14 @@ ya sea en su presencia o en su ausencia ".
 
 > +++(भागवताः→ [नित्यम्])+++ आप्तो विष्णोर् अनाप्तश् च  
 द्विधा परिकरस् स्मृतः ।  
-नित्यो **वन्द्यो**, न चानित्यः  
+नित्यो **वन्द्यो**, न चानित्यः +++(आप्ततायाम्)+++  
 कर्म-वश्यो मुमुक्षुभिः॥   
-
 (पौष्कर-संहिता) 
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवतः, अभागवतः, नमस्कारः
 </details>
 
 
@@ -2281,13 +2302,13 @@ The seeker after mukti should not adore the latter;"
 
 y
 
-> "Entre el séquito del Señor hay dos clases:  
-> aquellos que son queridos para él y dignos de su confianza
-> Y los que no lo son.  
-> A la primera clase pertenecen a las nityas, los muktas y los bhagavatās.  
-A esta última clase pertenecen a Brahma y a los otros dioses  
-que están sujetos al dominio del karma pasado.  
-El buscador después de Mukti no debería adorar a este último ";
+> "Entre el séquito del Señor **hay** dos clases:  
+> aquellos que **son queridos** para él y dignos de su confianza
+> Y los que **no lo son**.  
+> A la primera clase **pertenecen** a las nityas, los muktas y los bhagavatās.  
+A esta última clase **pertenecen** a Brahma y a los otros dioses  
+que **están** sujetos al dominio del karma pasado.  
+El **buscador** después de Mukti **no debería adorar** a este último ";
 </details>
 
 
@@ -2329,10 +2350,10 @@ would therefore do well to act according to the will of his Lord.
 
 <details><summary>Español</summary>
 
-Como se indica en lo anterior ~~ siguiente ~~ Ślokas en Pauṣkara Samhita,  
-el devoto que está exclusivamente apegado al Señor  
-y cuyo dharma se parece al de una casta esposa  
-Por lo tanto, haría bien en actuar de acuerdo con la voluntad de su Señor.
+Como **se indica** en lo anterior ~~ siguiente ~~ Ślokas en Pauṣkara Samhita,  
+el **devoto** que **está** exclusivamente **apegado** al Señor  
+y cuyo dharma **se parece** al de una casta esposa  
+Por lo tanto, **haría** bien en **actuar** de **acuerdo** con la **voluntad** de su Señor.
 </details>
 
 
@@ -2368,10 +2389,10 @@ this service to Bhāgavatas is not improper,
 
 <details><summary>Español</summary>
 
-Dado que la relación de Śeṣa con Bhāgavatas surge de ninguna otra causa  
-que el conocimiento de nuestro ser Śeṣa solo para el Señor y para ningún otro,  
-Este servicio a Bhāgavatas no es incorrecto,  
-(Porque no surge de otras causas  
+Dado que la relación de Śeṣa con Bhāgavatas **surge** de ninguna otra causa  
+que el **conocimiento** de nuestro **ser** Śeṣa solo para el Señor y para ningún otro,  
+Este **servicio** a Bhāgavatas **no es** incorrecto,  
+(Porque **no surge** de otras causas  
 como el deseo de riqueza o poder).
 </details>
 
@@ -2397,7 +2418,7 @@ BHAGAVATĀS ARE ŚEṢAS TO ONE ANOTHER:
 
 <details><summary>Español</summary>
 
-BHAGAVATĀS SON ŚEṢAS A UNA OTRA:
+BHAGAVATĀS **SON** ŚEṢAS A UNA OTRA:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
