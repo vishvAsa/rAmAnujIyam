@@ -6050,6 +6050,7 @@ THE VIEW THAT UPĀSANA OR BHAKTI IS INCONSISTENT WITH ONE'S ESSENTIAL NATURE IS 
 La opinión de que Upāsana o Bhakti **es inconsistente** con la naturaleza esencial de uno **es** incorrecto:
 </details>
 
+### शङ्का
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इप्-पडि यथाऽधिकारम् शास्त्रम् विधित्त् अवऱ्ऱिलुम्  
@@ -6131,7 +6132,7 @@ y **no condenar** upāsanas (como estar en contra de la naturaleza).
 </details>
 
 
-
+### अ-नाशकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ऎङ्ङऩेय्?" ऎऩ्ऩिल्;  
@@ -6182,7 +6183,7 @@ porque el yo **es** eterno (y **no puede ser destruido**).
 ऎङ्ङऩेयॆऩ्ऩिल्; नित्यमाऩ आत्मस्वरूपत्तुक्कु इवै नाशकङ्गळाय्क्कॊण्डु स्वरूपविरुद्धङ्गळॆऩ्ऩ वॊण्णादु। 
 </details>
 
-
+### कर्तृत्वम् अस्ति
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रपत्त्य्-अनुष्ठानत्तिलुम् कैङ्कर्यत्तिलुम् बोले  
@@ -6408,7 +6409,7 @@ y, por lo tanto, **es** incapaz, por su propia naturaleza, de **realizar** upās
 **न प्राश्यम् अधिगच्छति॥’’**  
 (भारतम् शान्ति-पर्व ३३९-१५)  
 
-
+इति वचनम् अपि 
 </details>
 
 
@@ -6444,6 +6445,12 @@ Otro hombre **no obtiene** ni siquiera comida, aunque **trabaja**.
 शास्त्र-चोदितोपायङ्गळिऩ्-उडैय नैरर्थक्यञ् जॊऩ्ऩ बडिय् अऩ्ऱु; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+शास्त्र-चोदितोपायानां न नैरर्थक्य-प्रतिपादन-परम्  
+</details>
+
+
 <details><summary>English</summary>
 
 \- this śloka should not be interpreted as stating that 
@@ -6469,6 +6476,11 @@ Otro hombre **no obtiene** ni siquiera comida, aunque **trabaja**.
 पूर्वानुष्ठित-कर्म-विशेषङ्गळिऩ्-उडैय फल-विशेषञ् जॊऩ्ऩ पडिय् अत्तऩै।+++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+किन् तु पूर्वानुष्ठित-कर्म-विशेषाणां फल-विशेष-प्रतिपादकम् एव । 
+</details>
+
 <details><summary>English</summary>
 
 It only emphasises that certain benefits come to a man  
@@ -6486,16 +6498,175 @@ Como **resultado** de ciertas **acciones realizadas** en anteriores (**nacimient
 पूर्वानुष्ठितकर्मविशेषङ्गळिऩुडैय फलविशेषञ्जॊऩ्ऩ पडियत्तऩै।
 </details>
 
+### नानर्थावहकता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मोक्ष-प्रतिकूलङ्गळ् आऩ  
+रागाद्य्-उपाधिगळाले वन्द काम्य-निषिद्धङ्गळ् पोले  
+बन्धकङ्गळ् अल्लामैयालुम्  
+मोक्षार्थि-तऩक्के विधिक्कैयालुम्  
+उपासनादिगळुक्कु शास्त्र-मुखत्ताले  
+अन्-अर्थावहत्व-रूपम् आऩ स्वरूप-विरोधञ् जॊल्ल वॊण्णादु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मोक्ष-प्रतिकूल-रागाद्य्-उपाधि-मूलक-काम्य-निषिद्धवद् बन्धकत्वाभावात्  
+मोक्षार्थिनं प्रत्य् एव विहितत्वात्,  
+उपासनादीनां शास्त्र-मुखेनानर्थावहत्व-रूपः स्व-रूप-विरोधो वक्तुम् अ-शक्यः । 
+</details>
+
+
+<details><summary>English</summary>
+
+(c) Nor can it be maintained that upāsanas are, according to śāstras, against the essential nature of the jīva,  
+because they would bring evil consequences.  
+For, unlike actions performed out of the desire for worldly gains (kāmya) and actions prohibited in the śāstras (nishiddha),  
+which are obstacles to mokṣa  
+and which arise from desire (rāga) and the like,  
+upāsanas cannot bind the soul to saṁsāra,  
+because they are not performed out of a desire for worldly gains  
+and because they are enjoined in the śāstras only for those who want mokṣa.
+</details>
+
+<details><summary>Español</summary>
+
+(c) **Tampoco se puede mantener** que las upāsanas **son**, según Śāstras, **contra** la naturaleza esencial de Jīva,  
+Porque **traerían** consecuencias malvadas.  
+
+Porque, a diferencia de las acciones **realizadas** por el **deseo** de ganancias mundanas (kāmya) y las **acciones prohibidas** en los Śāstras (Nishiddha),  
+que **son obstáculos** para mokṣa  
+y que **surgen** del deseo (rāga) y similares,  
+upāsanas **no puede unir** el alma a saṁsāra,  
+porque **no se realizan** por **deseo** de ganancias mundanas  
+y porque **están ordenados** en los Śāstras solo para aquellos que **quieren** mokṣa.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मोक्षप्रतिकूलङ्गळाऩ रागाद्युपाधिकळाले वन्द काम्यनिषिद्धङ्गळ् पोले बन्धकङ्गळल्लामैयालुम् मोक्षार्थितऩक्के विधिक्कैयालुम् उपासनादिगळुक्कु शास्त्रमुखत्ताले अनर्थावहत्वरूपमाऩ स्वरूपविरोधञ् जॊल्ल वॊण्णादु। 
+</details>
+
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् आत्म--स्व-रूपत्तैप् पऱ्ऱ  
+उपासनादिगळुक्कु नाशकत्व++++(निष्क्रियत्वात्→)+++असंभावितत्व+अनर्थावहत्वङ्गळ् इल्लामैयालेय्  
+ऒरु बडियालुम्  
+स्वरूप-विरोध-प्रसङ्गम् इल्लै।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः आत्म--स्व-रूप-विषये उपासनादीनां नाशकत्व++++(निष्क्रियत्वात्→)+++असंभावितत्व+अनर्थावहत्वाभावात्  
+केनापि प्रकारेण स्व-रूप--विरोध-प्रसङ्गो नास्ति । 
+</details>
+
+
+<details><summary>English</summary>
+
+Thus upāsanas cannot destroy the essential nature of the self,  
+they are not impossible of performance  
+nor do they bring evil consequences;  
+there is, therefore, no justification for their being considered to be at variance with the essential nature (of the self).
+</details>
+
+<details><summary>Español</summary>
+
+Así, upāsanas **no puede destruir** la naturaleza esencial del yo,  
+**No son imposibles** del **rendimiento**  
+**ni traen** consecuencias malvadas;  
+Por lo tanto, **no hay justificación** para que **se considere**  
+que **están** en desacuerdo con la naturaleza esencial (del yo).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् आत्मस्वरूपत्तैप्पऱ्ऱ उपासनादिगळुक्कु नाशकत्वासंभावितत्वानर्थावहत्वङ्गळिल्लामैयाले यॊरुबडियालुम् स्वरूपविरोधप्रसङ्गमिल्लै।  
+</details>
+
+### वर्णाश्रमादि-निबन्धनं न प्रतिकूलम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > आऩालुम् आत्मा देहादि-विलक्षणऩ् आगैयाले  
+स्वरूपत्तिल् वर्णाश्रमादिगळ् इल्लैय् 
+> 
+> ऎऩ्ऱु तॆळिन्दवऩुक्कु  
+‘‘ब्राह्मणोऽहं, क्षत्रियोऽहं’’ ऎऩ्ऱाऱ् पोले वरुम् अभिमानङ्गळ् अडिय् आग  
+कर्तव्यङ्गळ् आऩ वर्णाश्रमादि-धर्मङ्गळुम्  
+अवऱ्ऱोडे तुवक्क् उण्ड् आऩ उपायान्तरङ्गळुम्  
+अनुष्ठेयङ्गळ् अल्लामैयाले  
+इव्-वर्णाश्रमादि-निबन्धनङ्गळ् आऩ धर्मङ्गळ्  
+स्व-रूप--विरुद्धङ्गळ् ऎऩ्ऩक् कुऱैय् ऎऩ्ऩ् 
+
+ऎऩिल्;  
+इदुवुम् अनुपपन्नम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ( 4 ) अथाप्य् आत्मनो देहादि-विलक्षणत्वात्  
+स्व-रूपे वर्णाश्रमादिकं नास्तीति प्रबुद्धस्य  
+'ब्राह्मणोऽहम्' 'क्षत्रियोऽहम्' इत्य्-एव्-अमभिमान-पूर्वकं कर्तव्यानां वर्णाश्रमादि-धर्माणां संबद्धानाम् उपायान्तराणां चानुष्ठेयत्वाभावाद्  
+एतद्-वर्णाश्रमादि-निबन्धन-धर्माः स्व-रूप-विरुद्धा 
+
+इत्य्-उक्तौ को दोष इति चेत् —  
+इदम् अप्य् अनुपपन्नम् । 
+
+[[२१४]] 
+</details>
+
+
+<details><summary>English</summary>
+
+(d) Again it may be argued that 
+
+> since the self is different from such things as the body,  
+there is no propriety in the man who knows that, in his essential nature as the self, there is no such thing as varṇa or āśrama,  
+performing the duties and rites (dharmas) and other upāyas which are connected with them, because they all arise from the (erroneous) notion  
+"I am a Brahmin, I am a Kṣatriya."  
+(It may be argued) on this ground  
+that these rites and duties (dharmas) which are dependent on one's caste (varṇa) and āśrama may justly be considered as being against the essential nature of the self.  
+
+This argument, too, is not sound for the following reason :-- 
+</details>
+
+<details><summary>Español</summary>
+
+(d) Nuevamente se puede argumentar que
+
+> Dado que el yo **es** diferente de las cosas como el cuerpo,  
+**No hay propiedad** en el hombre que **sabe** que,  
+en su naturaleza esencial como yo,  
+**no existe** tal cosa como varṇa o āśrama,  
+>
+> **realización** de los **deberes** y ritos (dharmas)  
+y otros upāyas que están **conectados** con ellos,  
+porque todos **surgen** de la noción (errónea)  
+"Soy un brahmán, soy un kṣatriya".
+>
+> (**Se puede argumentar**) en este terreno  
+Que **estos ritos y deberes** (dharmas) que **dependen** de la casta (varṇa) y el āśrama  
+**pueden considerarse** justa como en contra de la naturaleza esencial del yo.
+
+Este argumento **tampoco es** sólido por la siguiente razón:-
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩालुम् आत्मा देहादिविलक्षणऩागैयाले स्वरूपत्तिल् वर्णाश्रमादिगळिल्लैयॆऩ्ऱु तॆळिन्दवऩुक्कु ‘‘ब्राह्मणोऽहं, क्षत्रियोऽहं’’ ऎऩ्ऱाऱ् पोले वरुम् अभिमानङ्गळडियाग कर्तव्यङ्गळाऩ वर्णाश्रमादिधर्मङ्गळुम्अवऱ्ऱोडे तुवक्कुण्डाऩ उपायान्तरङ्गळुम् अनुष्ठेयङ्गळल्लामै याले इव्वर्णाश्रमादि निबन्धनङ्गळाऩ धर्मङ्गळ् स्वरूपविरुद्धङ्गळॆऩ्ऩक् कुऱैयॆऩ्ऩॆऩिल्; इदुवुम् अनुपपन्नम्। 
+</details>
 
 
 
 
 
-(c) Nor can it be maintained that upāsanas are, according to śāstras, against the essential nature of the jīva, because they would bring evil consequences. For, unlike actions performed out of the desire for worldly gains (kāmya) and actions prohibited in the śāstras (nishiddha), which are obstacles to mokṣa and which arise from desire (rāga) and the like, upāsanas cannot bind the soul to saṁsāra, because they are not performed out of a desire for worldly gains and because they are enjoined in the śāstras only for those who want mokṣa.
 
-Thus upāsanas cannot destroy the essential nature of the self, they are not impossible of performance nor do they bring evil consequences; there is, therefore, no justification for their being considered to be at variance with the essential nature (of the self).
-
-(d) Again it may be argued that since the self is different from such things as the body, there is no propriety in the man who knows that, in his essential nature as the self, there is no such thing as varṇa or āśrama, performing the duties and rites (dharmas) and other upāyas which are connected with them, because they all arise from the (erroneous) notion. "I am a Brahmin, I am a Kṣatriya." (It may be argued) on this ground that these rites and duties (dharmas) which are dependent on one's caste (varṇa) and āśrama may justly be considered as being against the essential nature of the self. This argument, too, is not sound for the following reason :-- Even if he understands that, in its essential nature, the self is not Brahmin and the like, yet since he is, owing to certain forms of past karma, in close association with the body which has the attributes of Brahmin and the like, he should not give up the dharmas enjoined by the śāstras in accordance with his varṇa and āśrama and also in accordance with his capacity for getting rid of the ills of life and for attaining good things, as long as he is with that body, in the same way as he makes endeavours to ward off such things as hunger and thirst which arise from that association with the body. Therefore it cannot be maintained that these dharmas should be given up on the ground that they are against the essential nature of the soul because the body is different from the soul to (the man endowed with discrimination.) In regard to the performance of these dharmas, it is not the delusion that the essential nature of the self has Brahminness and the like which gives competence, but the association with the body which has such attributes as Brahminness. Therefore we do not see any conflict between upāsanas and the essential nature of the self on account of the intelligent discrimination between the body and the soul which is necessary for the performance of all dharma. That upāsanas have within them the notion of "I" (ahamkara) finds no authority or sanction in the śāstras, but was merely assumed by these critics to exist. (In the performance of karma yoga, we are enjoined to give up the notion that we are free agents and that we want certain benefits ).
+Even if he understands that, in its essential nature, the self is not Brahmin and the like, yet since he is, owing to certain forms of past karma, in close association with the body which has the attributes of Brahmin and the like, he should not give up the dharmas enjoined by the śāstras in accordance with his varṇa and āśrama and also in accordance with his capacity for getting rid of the ills of life and for attaining good things, as long as he is with that body, in the same way as he makes endeavours to ward off such things as hunger and thirst which arise from that association with the body. Therefore it cannot be maintained that these dharmas should be given up on the ground that they are against the essential nature of the soul because the body is different from the soul to (the man endowed with discrimination.) In regard to the performance of these dharmas, it is not the delusion that the essential nature of the self has Brahminness and the like which gives competence, but the association with the body which has such attributes as Brahminness. Therefore we do not see any conflict between upāsanas and the essential nature of the self on account of the intelligent discrimination between the body and the soul which is necessary for the performance of all dharma. That upāsanas have within them the notion of "I" (ahamkara) finds no authority or sanction in the śāstras, but was merely assumed by these critics to exist. (In the performance of karma yoga, we are enjoined to give up the notion that we are free agents and that we want certain benefits ).
 
 (e) Some say that since karma yoga and the like have to be performed with the help of the body and the senses which are adventitious (upādhi) and which were acquired as the result of past karma, they are against the essential nature of the self. To them we reply that, even for a knowledge of one's essential nature and for learning Dvaya and the like, there is need for such things as the mind. (So they would have to say that knowledge of the essential nature and learning Dvaya are against the essential nature.) Thus their objection would extend to the latter also.
 
