@@ -5745,7 +5745,7 @@ ya que **no son** lo **suficientemente** competentes para su **rendimiento** ade
 ईश्वरविषयप्रपत्तिये सिद्धियादॆऩ्ऱु सॊऩ्ऩदायिऱ्ऱु।  
 </details>
 
-
+### पुष्पादि-सेवा-नियमवत्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ऎङ्ङऩेय्?" ऎऩ्ऩिल्;  
@@ -5829,29 +5829,844 @@ y los frutos que **surgen** de allí también **deben entenderse** solo de los �
 
 सद्-आचार्योपदेश-सापेक्ष-मन्त्र-विशेषादिगळोडे कूडिऩ प्रपत्तिक्कुम्, फल-विशेषङ्गळुक्कुम्  
 साध्य-साधन-भावम् शास्त्रङ् गॊण्ड् अऱिय वेण्डुगैयाल्  
-अव्वो फलङ्गळुक्काग सेवाविशेषङ्गळै विधिक्किऱाप् पोले प्रपत्तियैयुम् विधिक्किऱदु।
+
+अव्वो फलङ्गळुक्क् आग सेवा-विशेषङ्गळै विधिक्किऱाप् पोले  
+प्रपत्तियैयुम् विधिक्किऱदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तथाऽत्रापि लोके प्रपत्तेस् तत्-फलानां च दृष्टत्वेऽपि  
+सदाचार्योपदेशापेक्ष-मन्त्र-विशेषादि-संहित-प्रपत्तेः  
+फल-विशेषाणां च  
+साध्य-साधन-भावस्य शास्त्र-वेद्यत्वात्  
+तत्-तत्-फलार्थ-सेवा-विशेषाणां विधानवत्  
+प्रपत्तिर् अपि विधीयते । 
+</details>
+
+
+<details><summary>English</summary>
+
+In the same way, although we see instances of prapatti in worldly life  
+and the benefits arising therefrom,  
+yet we can understand only from the śāstras the relationship of cause and effect  
+that exists between prapatti performed with particular mantras and in accordance with the instructions of the good ācārya  
+and certain special benefits which would result therefrom. 
+
+Just as certain special forms of worship and service are prescribed for certain special benefits,  
+prapatti, too, has been enjoined. 
+</details>
+
+<details><summary>Español</summary>
+
+De la misma manera, aunque **vemos** instancias de Prapatti en la vida mundana  
+y los beneficios que **surgen** de allí,  
+Sin embargo, solo **podemos entender** de los Śāstras la relación de causa y efecto  
+que **existe** entre Prapatti **realizado** con mantras particulares y de **acuerdo** con las **instrucciones** del buen ācārya  
+y ciertos beneficios especiales que **resultarían** de ellos.
+
+Así como ciertas formas especiales de **adoración** y **servicio se prescriben** para ciertos beneficios especiales,  
+Prapatti también **ha sido ordenado**.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इङ्गुम् लोकत्तिल् प्रपत्तियुम् तत्फलङ्गळुङ् गण्डुबोन्दालुम् सदाचार्योपदेशसापेक्षमन्त्रविशेषादिगळोडे कूडिऩ प्रपत्तिक्कुम् फलविशेषङ्गळुक्कुम् साध्यसाधनभावम् शास्त्रङ्गॊण्डऱिय वेण्डुगैयाल् अव्वो फलङ्गळुक्काग सेवाविशेषङ्गळै विधिक्किऱाप् पोले प्रपत्तियैयुम् विधिक्किऱदु।
 </details>
 
-In the same way, although we see instances of prapatti in worldly life and the benefits arising therefrom, yet we can understand only from the śāstras the relationship of cause and effect that exists between prapatti performed with particular mantras and in accordance with the instructions of the goodācārya and certain special benefits which would result therefrom. Just as certain special forms of worship and service are prescribed for certain special benefits, prapatti, too, has been enjoined. If it were otherwise, no rules would have to be prescribed for the service of Bhagavān, in the same way as there are none for the service of the king. It would lead to the wrong view that, for prapatti also, the initiation into mantras with the instructions of goodācāryas is unnecessary. That even those who are not competent for the utterance of mantras may perform prapatti to the Saviour who has certain specific attributes and that certain specific benefits will be derived therefrom, provided it is performed in the proper way without anything wanting and without any up due excess - this cannot be determined by any sound inference, Therefore just as particular forms of worship and service to Bhagavān are enjoined (in the śāstras) with certain accessories, there is nothing inappropriate in the śāstra prescribing the per formance of prapatti with certain accessories (aṅgas ).
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+दार्ष्टान्तिकत्तै उपपादिक्किऱार् इङ्गुमिति । इङ्गुम् - प्रपत्तिस्थलत्तिलुम्, लोकत्तिल् प्रपत्तियुम् तत्फलङ्गळुङ्गण्डु पोन्दालुमित्यादि । शास्त्रीयनियममिऩ्ऱिक्के असमर्थऩ् समर्थऩिडत्तिल् प्रपत्ति पण्णुवदैयुम्, समर्थऩवऩै रक्षिप्पदैयुम् कण्डिरुन्दालुम् मोक्षादिफलविशेषङ्गळैक् कुऱित्तु प्रपत्ति पण्णुम्बोदु सदाचार्योपदेशलब्धमन्त्रत्तैक् कॊण्डे पण्णवेण्डुमॆऩ्ऱु तादृशप्रपत्तिक्कुम् मोक्षादि फलङ्गळुक्कुमे कार्यकारणभावम् नियदमॆऩ्ऱुम् शास्त्रम् कॊण्डे अऱियवेण्डुमॆऩ्बदु दार्ष्टान्तिकश्रीसूक्त्यर्थम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् अल्लाद-बोदु  
+राज-सेवैयैप् पोले भगवत्-सेवैयुम् विधिक्क वेण्डाद् ऒऴियुम्। +++(4)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा राजसेवावत् भगवत्-सेवाऽप्य् अविधेया स्यात् । 
+</details>
+
+
+<details><summary>English</summary>
+
+If it were otherwise,  
+no rules would have to be prescribed for the service of Bhagavān,  
+in the same way as there are none for the service of the king. 
+</details>
+
+<details><summary>Español</summary>
+
+Si **fuera** de otra manera,  
+**No se tendrían que prescribir** reglas para el **servicio** de Bhagavān,  
+De la misma manera que **no hay** ninguno para el **servicio** del rey.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩल्लादबोदु राजसेवैयैप् पोले भगवत्सेवैयुम् विधिक्कवेण्डादॊऴियुम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+विबक्षत्तिल् दृष्टान्ते बाधक मरुळिच्चॆय्गिऱार् इङ्ङऩल्लादबोदु इति । अर्थादिरागप्राप्तङ्गळाऩ राजसेवादिगळै ऎप्पडि विधिक्कवेण्डामो अप्पडिये भगवत्सेवादिगळैयुम् विधिक्कवेण्डा तॊऴियुम् ऎऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपत्तिक्कुम्  
+सद्-आचार्योपदेश-पूर्वक-मन्त्र-ग्रहणादिगळ् अनपेक्षितङ्गळ् आग प्रसङ्गिङ्गिक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रपत्तेः सद्-आचार्योपदेश-पूर्वक-मन्त्र-ग्रहणादयो ऽप्य् अनपेक्षिताः प्रसज्येरन् । 
+</details>
+
+
+<details><summary>English</summary>
+
+It would lead to the wrong view that, for prapatti also,  
+the initiation into mantras with the instructions of goodācāryas is unnecessary.  
+</details>
+
+<details><summary>Español</summary>
+
+Conduciría a la **visión** equivocada de que, para Prapatti también,  
+La **iniciación** en mantras con las **instrucciones** de Goodācāryas **es innecesaria**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तिक्कुम् सदाचार्योपदेशपूर्वक मन्त्रग्रहणादिगळनपेक्षितङ्गळाग प्रसङ्गिङ्गिक्कुम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+दार्ष्टान्तिकत्तिल् बाधकमरुळिच्चॆय्गिऱार् प्रपत्तिक्कुमित्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्त्राद्य्-अनर्हर्क्कुम्  
+शरण्य-विशेष--फल-विशेषानुबन्धिय् आऩ अन्यूनानधिक-कर्तव्य-विशेषत्तिऩ्-उडैय अध्यवसायत्तुक्कु  
+अन्-अन्यथा-सिद्धम् आऩ अनुमानङ् किडैयादु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मन्त्राद्य्-अन्-अर्हाणां  
+शरण्य-विशेष--फल-विशेषानुबन्धिनो ऽन्यूनाधिक-कर्तव्य-विशेषस्य अध्यवसानार्थम्  
+अन्-अन्यथा-सिद्धम् अनुमानम् अलभ्यम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+That even those who are not competent for the utterance of mantras  
+may perform prapatti to the Saviour who has certain specific attributes  
+and that certain specific benefits will be derived therefrom,  
+provided it is performed in the proper way without anything wanting and without any undue excess -  
+this cannot be determined by any sound inference. 
+</details>
+
+<details><summary>Español</summary>
+
+Que incluso aquellos que **no son competentes** por la **expresión** de los mantras  
+**puede realizar** Prapatti al Salvador que **tiene** ciertos atributos específicos  
+y que ciertos beneficios específicos **se derivarán** de ellos,  
+siempre que **se realice** de la manera adecuada sin nada que **quiera** y sin ningún exceso indebido.
+Esto **no puede ser determinado** por ninguna inferencia de sonido.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मन्त्राद्यनर्हर्क्कुम् शरण्यविशेष फलविशेषानुबन्धियाऩ अन्यूनानधिककर्तव्यविशेषत्तिऩुडैय अध्यवसायत्तुक्कु अनन्यथासिद्धमाऩ अनुमानङ्गिडैयादु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+वैदिकमन्त्राद्यनर्हरुक्कुम् कर्तव्यमाऩ अन्यूनानतिरिक्त प्रपत्तिरूपाध्यवसायमुम् शास्त्रं विना अनुमानत्ताले सिद्धियादॆऩ्गिऱार् मन्त्राद्यनर्हर्क्कुमित्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् स-परिकर-सेवा-विशेषङ्गळ् पोले  
+स-परिकर--भर-समर्पणमुम्  
+इङ्गु विधेयम् आगक् कुऱैय् इल्लै।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः स-परिकर-सेवा-विशेषाणाम् इव  
+स-परिकर-भर-समर्पणस्याप्य् अत्र विधेयत्वे  
+न कश्चिद् दोषः । 
+</details>
+
+<details><summary>English</summary>
+
+Therefore just as particular forms of worship and service to Bhagavān are enjoined (in the śāstras) with certain accessories,  
+there is nothing inappropriate in the śāstra prescribing the per formance of prapatti with certain accessories (aṅgas).
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, así como formas particulares de adoración y servicio a Bhagavān **se orientan** (en los Śāstras) con ciertos accesorios,  
+**No hay** nada inapropiado en el Śāstra que **prescribe** el formato de Prapatti con ciertos accesorios (AṅGAS).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् सपरिकरसेवाविशेषङ्गळ् पोले सपरिकरभरसमर्पणमुमिङ्गु विधेयमागक्कुऱैयिल्लै।  
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+हेतुसाध्यव्याप्त्यभावात् ऎऩ्ऱु करुत्तु प्रपत्तियिऩ् शास्त्रविधिसापेक्षत्वत्तै निगमिक्किऱार् आगैयालित्यादिना ।  
+</details>
+
+
+## भक्ति-योगः स्वरूपानुकूलः
+
+<details><summary>English</summary>
 
 THE VIEW THAT UPĀSANA OR BHAKTI IS INCONSISTENT WITH ONE'S ESSENTIAL NATURE IS WRONG:
+</details>
 
-There are some who maintain that even among these upāyas which are enjoined by the śāstras, upūsanas are opposed to the essential nature (of the jīva ). This should be taken to mean only a desire to praise prapatti with emphasis on it and not to condemn upāsanas ( as being against one's nature). The reasons are as follows:
+<details><summary>Español</summary>
 
-(a) It cannot be said that they are against the essential nature of the jīve on the ground that they would destroy the self, for the self is eternal (and cannot be destroyed).
+La opinión de que Upāsana o Bhakti **es inconsistente** con la naturaleza esencial de uno **es** incorrecto:
+</details>
 
-(b) It cannot be stated that the self or soul is, in its essential nature (svarūpa), incapable, as the Sankhya says, of being a doer, and is therefore incapable, by its very nature, of performing upāsanas. For the self is a doer in bhakti (or upa. sanas) and the like is in the performance of prapatti, and in rendering service (to Bhagavān and to Bhāgavatas). As stated in the Brahma Sūtras: "The 'Self is a doer (capable of endeavour or effort); otherwise the śāstras which enjoin doing certain things and refraining from certain other things would have no purpose or aim", and again, “This "doership of the self is dependent on Brahman" As stated in these passages, the self is a doer capable of endeavour, though his being a doer is dependent on Bhagavān. If it is maintained that the self is absolutely incapable of action, it would follow that, since purposeful action is the sign or mark, of the existence of a thing, the self is void or non-existent. If it is held that the self merely exists and is without jñāna (or knowledge), without the desire to act, and without the endeavour or effort needed for action, it would follow that it is incapable also of enjoyment (bhoktritvam). This would mean that saṁsāra is illusory and that there is no need for any upāya for the attainment of mokṣa. The śloka "Lakṣmī" comes of her own accord to a man who makes no endeavour. Another man does not obtain even food, hard though he works. This is also due to past karma" - this śloka should not be interpreted as stating that the upāyas prescribed in the śāstras are all of no use. It only emphasises that certain benefits come to a man as a result of certain actions performed in previous (births).
+### शङ्का
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(c) Nor can it be maintained that upāsanas are, according to śāstras, against the essential nature of the jīva, because they would bring evil consequences. For, unlike actions performed out of the desire for worldly gains (kāmya) and actions prohibited in the śāstras (nishiddha), which are obstacles to mokṣa and which arise from desire (rāga) and the like, upāsanas cannot bind the soul to saṁsāra, because they are not performed out of a desire for worldly gains and because they are enjoined in the śāstras only for those who want mokṣa.
+> इप्-पडि यथाऽधिकारम् शास्त्रम् विधित्त् अवऱ्ऱिलुम्  
+उपासनादिगळ् स्व-रूप--विरुद्धङ्गळ् 
 
-Thus upāsanas cannot destroy the essential nature of the self, they are not impossible of performance nor do they bring evil consequences; there is, therefore, no justification for their being considered to be at variance with the essential nature (of the self).
+ऎऩ्ऱु सिलर् सॊल्लुवर्गळ्। 
+</details>
 
-(d) Again it may be argued that since the self is different from such things as the body, there is no propriety in the man who knows that, in his essential nature as the self, there is no such thing as varṇa or āśrama, performing the duties and rites (dharmas) and other upāyas which are connected with them, because they all arise from the (erroneous) notion. "I am a Brahmin, I am a Kṣatriya." (It may be argued) on this ground that these rites and duties (dharmas) which are dependent on one's caste (varṇa) and āśrama may justly be considered as being against the essential nature of the self. This argument, too, is not sound for the following reason :-- Even if he understands that, in its essential nature, the self is not Brahmin and the like, yet since he is, owing to certain forms of past karma, in close association with the body which has the attributes of Brahmin and the like, he should not give up the dharmas enjoined by the śāstras in accordance with his varṇa and āśrama and also in accordance with his capacity for getting rid of the ills of life and for attaining good things, as long as he is with that body, in the same way as he makes endeavours to ward off such things as hunger and thirst which arise from that association with the body. Therefore it cannot be maintained that these dharmas should be given up on the ground that they are against the essential nature of the soul because the body is different from the soul to (the man endowed with discrimination.) In regard to the performance of these dharmas, it is not the delusion that the essential nature of the self has Brahminness and the like which gives competence, but the association with the body which has such attributes as Brahminness. Therefore we do not see any conflict between upāsanas and the essential nature of the self on account of the intelligent discrimination between the body and the soul which is necessary for the performance of all dharma. That upāsanas have within them the notion of "I" (ahamkara) finds no authority or sanction in the śāstras, but was merely assumed by these critics to exist. (In the performance of karma yoga, we are enjoined to give up the notion that we are free agents and that we want certain benefits ).
+<details><summary>नीलमेघः (सं)</summary>
+
+> इत्थं यथाधिकारम्  
+एषु शास्त्रेण विहितेष्व् अपि,  
+उपासनादीनि स्व-रूप-विरुद्धानि
+
+इति केचिद् आचक्षते । 
+</details>
+
+<details><summary>English</summary>
+
+There are some who maintain that 
+
+> even among these upāyas which are enjoined by the śāstras,  
+upūsanas are opposed to the essential nature (of the jīva ). 
+</details>
+
+Hay algunos que **mantienen** que
+
+> Incluso entre estos upāyas que **están ordenados** por los Śāstras,  
+Los upūsanas **se oponen** a la naturaleza esencial (del Jīva).  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि यथाधिकारम् शास्त्रम् विधित्तवऱ्ऱिलुम् उपासनादिगळ् स्वरूपविरुद्धङ्गळॆऩ्ऱु सिलर् सॊल्लुवर्गळ्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि प्रपत्तिरूप साध्योपायस्वरूपादिगळिल् वरुम् कलक्कङ्गळै शमिप्पित्तु भक्तिरूपसाध्योपायत्तिल् वरुम् कलक्कङ्गळै शमिप्पिक्कप्पोगिऱवराय्, मुदलिल् प्रपत्तिये अत्यन्तपरतन्त्रमाऩ स्वरूपत्तिऱ्कु अनुगुणैयॆऩ्ऱुम्, उपासनादिगळ् स्वरूपविरुद्धङ्गळॆऩ्ऱुम् सॊल्लुगिऱ पक्षत्तै अनुवदित्तुप् परिहरिक्किऱार् इप्पडि यथाधिकारमित्यादिना । शास्त्रम् विधित्तवऱ्ऱिलुमिति । शास्त्रविधि उभयत्र तुल्यमायिरुक्क ऒऩ्ऱु स्वरूपविरुद्धैयॆऩ्ऱुम्,ऒऩ्ऱु स्वरूपानुगुणैयॆऩ्ऱुम् सॊल्लुवदऱ्कु नियामकमिल्लैयॆऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुवुम् प्रपत्तियै स्तुतिक्कैक्क् आग  
+अतिवादम् पण्णिऩार्गळ् आम् इत्तऩै; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अयम् अपि प्रपत्ति-स्तुत्य्-अर्थं कृतोऽतिवाद  
+
+इत्य् एव् अमेव भवति ।
+</details>
+
+
+<details><summary>English</summary>
+
+This should be taken to mean only a desire to praise prapatti with emphasis on it  
+and not to condemn upāsanas ( as being against one's nature). 
+</details>
+
+<details><summary>Español</summary>
+
+Esto debe **tomarse** como solo un deseo de **alabar** a Prapatti con énfasis en ello.  
+y **no condenar** upāsanas (como estar en contra de la naturaleza).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुवुम् प्रपत्तियै स्तुतिक्कैक्कागअतिवादम् पण्णिऩार्गळामित्तऩै; 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+निरसिक् किऱार् इदुवुमिति । इदुवुम् - भक्ति स्वरूपविरुद्धैयॆऩ्गिऱ इदुवुम्, प्रपत्तियै स्तुतिक् कैक्काग अतिवादमिति । न हि निन्दान्यायमिङ्गु अनुसन्धेयमॆऩ्ऱु करुत्तु।
+</details>
+
+
+### अ-नाशकता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ऎङ्ङऩेय्?" ऎऩ्ऩिल्;  
+
+> नित्यम् आऩ आत्म--स्व-रूपत्तुक्कु  
+इवै नाशकङ्गळ् आय्क् कॊण्डु  
+स्व-रूप--विरुद्धङ्गळ् 
+
+ऎऩ्ऩ वॊण्णादु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कथमिति चेत् - 
+
+(1) नित्यस्य (त्वाद्) आत्म-स्वरूपस्य,  
+इमानि नाशकानि सन्ति स्वरूप विरुद्धानि
+
+इति वक्तुम् अशक्यम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+The reasons are as follows:
+
+(a) It cannot be said that 
+
+> they are against the essential nature of the jīva  
+on the ground that they would destroy the self,  
+for the self is eternal (and cannot be destroyed).
+</details>
+
+<details><summary>Español</summary>
+
+Las razones **son** las siguientes:
+
+(a) **No se puede decir** que
+
+> **Están** en contra de la naturaleza esencial de Jīva
+en el suelo que **destruirían** el yo,  
+porque el yo **es** eterno (y **no puede ser destruido**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; नित्यमाऩ आत्मस्वरूपत्तुक्कु इवै नाशकङ्गळाय्क्कॊण्डु स्वरूपविरुद्धङ्गळॆऩ्ऩ वॊण्णादु। 
+</details>
+
+### कर्तृत्वम् अस्ति
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपत्त्य्-अनुष्ठानत्तिलुम् कैङ्कर्यत्तिलुम् बोले  
+भक्त्य्-आदिगळिलुम् 
+
+> ‘‘कर्ता शास्त्रार्थवत्वात्’’(ब्रह्मसूत्रम् २-३-३३),  
+
+> ‘‘+++(कर्तृत्वं)+++ परात् तु तच्-छ्रुतेः’’(ब्रह्मसूत्रम् २-३-४०) 
+
+ऎऩ्गिऱ बडिये  
+भगवद्-अधीन-कर्तृत्वम् उण्ड्-आगैयालुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(2) प्रपत्त्य्-अनुष्ठाने कैङ्कर्ये चैव,  
+भक्त्य्-आदिष्व् अपि  
+
+> ‘‘कर्ता शास्त्रार्थवत्वात्’’(ब्रह्मसूत्रम् २-३-३३),  
+
+> ‘‘+++(कर्तृत्वं)+++ परात् तु तच्-छ्रुतेः’’(ब्रह्मसूत्रम् २-३-४०) 
+
+इत्य्-उक्त-रीत्या 
+भगवद्-अधीन-कर्तृत्वस्य सत्त्वात्, 
+
+[[२१३]] 
+</details>
+
+
+<details><summary>English</summary>
+
+For the self is a doer in bhakti (or upasanas) and the like as in the performance of prapatti,  
+and in rendering service (to Bhagavān and to Bhāgavatas).  
+As stated in the Brahma Sūtras: 
+
+> "The 'Self is a doer (capable of endeavour or effort);  
+otherwise the śāstras which enjoin doing certain things and refraining from certain other things  
+would have no purpose or aim", 
+
+and again, 
+
+> “This doership of the self is dependent on Brahman" 
+
+As stated in these passages, the self is a doer capable of endeavour,  
+though his being a doer is dependent on Bhagavān.  
+</details>
+
+<details><summary>Español</summary>
+
+Porque el yo **es** un **hacedor** en bhakti (o upasanas) y similares como en el **rendimiento** de Prapatti,  
+y en el **servicio** de prestación (a Bhagavān y a Bhāgavatas).  
+Como **se indica** en el Brahma Sūtras:
+
+> "El yo **es** un **hacedor** (capaz de esfuerzo o esfuerzo);  
+de lo contrario, los Śāstras que **ordenan hacer** ciertas cosas y **abstenerse** de ciertas otras cosas  
+**no tendría** ningún propósito ni objetivo ",
+
+Y de nuevo,
+
+> "Esta **donación** del yo **depende** de Brahman"
+
+Como **se indica** en estos pasajes, el yo **es** un **hacedor** capaz de esforzarse,  
+Aunque su **ser** un **hacedor** depende de Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्त्यनुष्ठानत्तिलुम् कैङ्कर्यत्तिलुम्बोले भक्त्यादिगळिलुम् ‘‘कर्ता शास्त्रार्थवत्वात्’’(ब्रह्मसूत्रम् २-३-३३), ‘‘परात्तु तच्छ्रुतेः’’(ब्रह्मसूत्रम् २-३-४०) ऎऩ्गिऱबडिये भगवदधीनकर्तत्वमुण्डागैयालुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्म--स्व-रूपम् अत्यन्त-निर्व्यापारम् ऎऩ्ऩुम् बोदु  
+सत्त्व-लक्षणम् आऩ अर्थ-क्रिया-कारित्वम् इल्लामैयाले  
+तुच्छत्वम् प्रसङ्गिक्कैयालुम् +++(4)+++  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आत्म-स्वरूपस्यात्यन्त-निर्व्यापारत्वोक्तौ  
+सत्त्व-लक्षणस्य +अर्थ-क्रिया-कारित्वस्याभावेन तुच्छत्व-प्रसङ्गात्, 
+</details>
+
+
+<details><summary>English</summary>
+
+If it is maintained that the self is absolutely incapable of action,  
+it would follow that, since purposeful action is the sign or mark, of the existence of a thing,  
+the self is void or non-existent. 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se mantiene** que el yo **es** absolutamente incapaz de **acción**,  
+Seguiría que, dado que la **acción** intencional **es** el signo o marca, de la **existencia** de una cosa,  
+El yo **es** nulo o inexistente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आत्मस्वरूपमत्यन्तनिर्व्यापारमॆऩ्ऩुम्बोदु सत्त्वलक्षणमाऩ अर्थक्रियाकारित्वमिल्लामैयाले तुच्छत्वम् प्रसङ्गिक्कैयालुम्  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान-चिकीर्षा-प्रयत्नाश्रयत्व-रूपम् आऩ कर्तृत्वम् इल्लैय् आक्कि  
+
+> आत्मावुक्कु सन्निधि-मात्रमे व्यापारम् 
+
+ऎऩ्ऩिल् भोक्तृत्वादिगळुम् अऩ्ऱिक्के  
+इवऩुक्कु संसारमुम् मिथ्याव् आय्  
+मोक्षोपाय-नैरपेक्ष्यादि-प्रसङ्गम् वरुम् आगैयालुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ज्ञान-चिकीर्षा-प्रयत्नाश्रयत्व-रूपं कर्तृत्वं निषिध्य  
+
+> आत्मनः सन्निधि-मात्रम् एव व्यापार 
+
+इत्य् उक्तौ  
+भोक्तृत्वादेर् अप्य् अ-भाव-प्रसङ्गेन  
+अस्यात्मनः संसारस्यापि मिथ्यात्वेन  
+मोक्षोपाय-नैरपेक्ष्यादि-प्रसङ्गापाताच् च, 
+</details>
+
+<details><summary>English</summary>
+
+If it is held that 
+
+> the self merely exists  
+and is without jñāna (or knowledge),  
+without the desire to act,  
+and without the endeavour or effort needed for action,  
+
+it would follow that it is incapable also of enjoyment (bhoktritvam).  
+This would mean that saṁsāra is illusory  
+and that there is no need for any upāya for the attainment of mokṣa. 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se sostiene** que
+
+> el yo simplemente **existe**  
+y **está** sin jñāna (o conocimiento),  
+Sin el **deseo de actuar**,  
+y sin el esfuerzo o esfuerzo **necesario** para la acción,
+
+**Seguiría** que también **es incapaz de disfrutar** (bhoktritvam).  
+**Esto significaría** que Saṁsāra **es** ilusorio  
+y que **no hay necesidad** de cualquier upāya para el **logro** de mokṣa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानचिकीर्षाप्रयत्नाश्रयत्वरूपमाऩ कर्तृत्वमिल्लैयाक्कि आत्मावुक्कु सन्निधिमात्रमे व्यापारमॆऩ्ऩिल् भोक्तृत्वादिगळुमऩ्ऱिक्के इवऩुक्कु संसारमुम् मिथ्यावाय् मोक्षोपाय नैरपेक्ष्यादि प्रसङ्गम् वरुमागैयालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साङ्ख्यादिगळ् सॊल्लुमाप्पोले स्वरूपत्तिल् कर्तृत्वमिल्लामैयाले उपासनादिगळ् स्वरूपविरुद्धङ्गळ् ऎऩ्ऱुसॊल्लवुमॊण्णादु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+साङ्ख्यादि-वचनानुसारं 
+
+> स्वरूपे कर्तृत्वाभावाद्  
+उपासनादीनि स्व-रूप-विरुद्धानि  
+
+इति वक्तुम् अ-शक्यम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+(b) It cannot be stated that, as the Sankhya says  
+
+> the self or soul is, in its essential nature (svarūpa), incapable, of being a doer,  
+and is therefore incapable, by its very nature, of performing upāsanas. 
+</details>
+
+<details><summary>Español</summary>
+
+(b) **No se puede afirmar** que, como **dice** el Sankhya
+
+> El yo o el alma **es**, en su naturaleza esencial (svarūpa), **incapaz**, de **ser** un **hacedor**,  
+y, por lo tanto, **es** incapaz, por su propia naturaleza, de **realizar** upāsanas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+साङ्ख्यादिगळ् सॊल्लुमाप् पोले  
+
+> स्व-रूपत्तिल् कर्तृत्वम् इल्लामैयाले  
+उपासनादिगळ् स्व-रूप--विरुद्धङ्गळ्  
+
+ऎऩ्ऱु सॊल्लवुम् ऒण्णादु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **‘‘अचेष्टमानम् आसीनं**  
+श्रीः कञ्चिद् **उपतिष्ठति** ।  
+कर्मी कर्मानुसृत्यान्यो  
+**न प्राश्यम् अधिगच्छति॥’’**  
+(भारतम् शान्ति-पर्व ३३९-१५)  
+
+ऎऩ्ऱ् अदुवुम्  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **‘‘अचेष्टमानम् आसीनं**  
+श्रीः कञ्चिद् **उपतिष्ठति** ।  
+कर्मी कर्मानुसृत्यान्यो  
+**न प्राश्यम् अधिगच्छति॥’’**  
+(भारतम् शान्ति-पर्व ३३९-१५)  
+
+इति वचनम् अपि 
+</details>
+
+
+<details><summary>English</summary>
+
+The śloka 
+
+> "Lakṣmī" comes of her own accord to a man who makes no endeavour.  
+Another man does not obtain even food, hard though he works. This is also due to past karma"  
+</details>
+
+<details><summary>Español</summary>
+
+El Śloka
+
+> "Lakṣmī" **viene** por su propia cuenta a un hombre que **no hace** ningún esfuerzo.  
+Otro hombre **no obtiene** ni siquiera comida, aunque **trabaja**.  
+**Esto** también se debe al pasado karma "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अचेष्टमानमासीनं श्रीः कञ्चिदुपतिष्ठति ।  
+कर्मी कर्मानुसृत्यान्यो न प्राश्यमधिगच्छति॥’’  
+(भारतम् शान्ति-पर्व ३३९-१५)  
+ऎऩ्ऱदुवुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्र-चोदितोपायङ्गळिऩ्-उडैय नैरर्थक्यञ् जॊऩ्ऩ बडिय् अऩ्ऱु; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शास्त्र-चोदितोपायानां न नैरर्थक्य-प्रतिपादन-परम्  
+</details>
+
+
+<details><summary>English</summary>
+
+\- this śloka should not be interpreted as stating that 
+
+> the upāyas prescribed in the śāstras are all of no use. 
+</details>
+
+<details><summary>Español</summary>
+
+\- Este Śloka **no debe interpretarse** como **afirmar** que 
+
+> los upāyas **prescritos** en los Śāstras **no sirven** de nada.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱदुवुम् शास्त्रचोदितोपायङ्गळिऩुडैय नैरर्थक्यञ् जॊऩ्ऩबडियऩ्ऱु; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्वानुष्ठित-कर्म-विशेषङ्गळिऩ्-उडैय फल-विशेषञ् जॊऩ्ऩ पडिय् अत्तऩै।+++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+किन् तु पूर्वानुष्ठित-कर्म-विशेषाणां फल-विशेष-प्रतिपादकम् एव । 
+</details>
+
+<details><summary>English</summary>
+
+It only emphasises that certain benefits come to a man  
+as a result of certain actions performed in previous (births).
+</details>
+
+<details><summary>Español</summary>
+
+Solo **enfatiza** que ciertos beneficios **llegan** a un hombre  
+Como **resultado** de ciertas **acciones realizadas** en anteriores (**nacimientos**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+पूर्वानुष्ठितकर्मविशेषङ्गळिऩुडैय फलविशेषञ्जॊऩ्ऩ पडियत्तऩै।
+</details>
+
+### नानर्थावहकता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मोक्ष-प्रतिकूलङ्गळ् आऩ  
+रागाद्य्-उपाधिगळाले वन्द काम्य-निषिद्धङ्गळ् पोले  
+बन्धकङ्गळ् अल्लामैयालुम्  
+मोक्षार्थि-तऩक्के विधिक्कैयालुम्  
+उपासनादिगळुक्कु शास्त्र-मुखत्ताले  
+अन्-अर्थावहत्व-रूपम् आऩ स्वरूप-विरोधञ् जॊल्ल वॊण्णादु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मोक्ष-प्रतिकूल-रागाद्य्-उपाधि-मूलक-काम्य-निषिद्धवद् बन्धकत्वाभावात्  
+मोक्षार्थिनं प्रत्य् एव विहितत्वात्,  
+उपासनादीनां शास्त्र-मुखेनानर्थावहत्व-रूपः स्व-रूप-विरोधो वक्तुम् अ-शक्यः । 
+</details>
+
+
+<details><summary>English</summary>
+
+(c) Nor can it be maintained that upāsanas are, according to śāstras, against the essential nature of the jīva,  
+because they would bring evil consequences.  
+For, unlike actions performed out of the desire for worldly gains (kāmya) and actions prohibited in the śāstras (nishiddha),  
+which are obstacles to mokṣa  
+and which arise from desire (rāga) and the like,  
+upāsanas cannot bind the soul to saṁsāra,  
+because they are not performed out of a desire for worldly gains  
+and because they are enjoined in the śāstras only for those who want mokṣa.
+</details>
+
+<details><summary>Español</summary>
+
+(c) **Tampoco se puede mantener** que las upāsanas **son**, según Śāstras, **contra** la naturaleza esencial de Jīva,  
+Porque **traerían** consecuencias malvadas.  
+
+Porque, a diferencia de las acciones **realizadas** por el **deseo** de ganancias mundanas (kāmya) y las **acciones prohibidas** en los Śāstras (Nishiddha),  
+que **son obstáculos** para mokṣa  
+y que **surgen** del deseo (rāga) y similares,  
+upāsanas **no puede unir** el alma a saṁsāra,  
+porque **no se realizan** por **deseo** de ganancias mundanas  
+y porque **están ordenados** en los Śāstras solo para aquellos que **quieren** mokṣa.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मोक्षप्रतिकूलङ्गळाऩ रागाद्युपाधिकळाले वन्द काम्यनिषिद्धङ्गळ् पोले बन्धकङ्गळल्लामैयालुम् मोक्षार्थितऩक्के विधिक्कैयालुम् उपासनादिगळुक्कु शास्त्रमुखत्ताले अनर्थावहत्वरूपमाऩ स्वरूपविरोधञ् जॊल्ल वॊण्णादु। 
+</details>
+
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् आत्म--स्व-रूपत्तैप् पऱ्ऱ  
+उपासनादिगळुक्कु नाशकत्व++++(निष्क्रियत्वात्→)+++असंभावितत्व+अनर्थावहत्वङ्गळ् इल्लामैयालेय्  
+ऒरु बडियालुम्  
+स्वरूप-विरोध-प्रसङ्गम् इल्लै।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः आत्म--स्व-रूप-विषये उपासनादीनां नाशकत्व++++(निष्क्रियत्वात्→)+++असंभावितत्व+अनर्थावहत्वाभावात्  
+केनापि प्रकारेण स्व-रूप--विरोध-प्रसङ्गो नास्ति । 
+</details>
+
+
+<details><summary>English</summary>
+
+Thus upāsanas cannot destroy the essential nature of the self,  
+they are not impossible of performance  
+nor do they bring evil consequences;  
+there is, therefore, no justification for their being considered to be at variance with the essential nature (of the self).
+</details>
+
+<details><summary>Español</summary>
+
+Así, upāsanas **no puede destruir** la naturaleza esencial del yo,  
+**No son imposibles** del **rendimiento**  
+**ni traen** consecuencias malvadas;  
+Por lo tanto, **no hay justificación** para que **se considere**  
+que **están** en desacuerdo con la naturaleza esencial (del yo).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् आत्मस्वरूपत्तैप्पऱ्ऱ उपासनादिगळुक्कु नाशकत्वासंभावितत्वानर्थावहत्वङ्गळिल्लामैयाले यॊरुबडियालुम् स्वरूपविरोधप्रसङ्गमिल्लै।  
+</details>
+
+### वर्णाश्रमादि-निबन्धनं न प्रतिकूलम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > आऩालुम् आत्मा देहादि-विलक्षणऩ् आगैयाले  
+स्वरूपत्तिल् वर्णाश्रमादिगळ् इल्लैय् 
+> 
+> ऎऩ्ऱु तॆळिन्दवऩुक्कु  
+‘‘ब्राह्मणोऽहं, क्षत्रियोऽहं’’ ऎऩ्ऱाऱ् पोले वरुम् अभिमानङ्गळ् अडिय् आग  
+कर्तव्यङ्गळ् आऩ वर्णाश्रमादि-धर्मङ्गळुम्  
+अवऱ्ऱोडे तुवक्क् उण्ड् आऩ उपायान्तरङ्गळुम्  
+अनुष्ठेयङ्गळ् अल्लामैयाले  
+इव्-वर्णाश्रमादि-निबन्धनङ्गळ् आऩ धर्मङ्गळ्  
+स्व-रूप--विरुद्धङ्गळ् ऎऩ्ऩक् कुऱैय् ऎऩ्ऩ् 
+
+ऎऩिल्;  
+इदुवुम् अनुपपन्नम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ( 4 ) अथाप्य् आत्मनो देहादि-विलक्षणत्वात्  
+स्व-रूपे वर्णाश्रमादिकं नास्तीति प्रबुद्धस्य  
+'ब्राह्मणोऽहम्' 'क्षत्रियोऽहम्' इत्य्-एव्-अमभिमान-पूर्वकं कर्तव्यानां वर्णाश्रमादि-धर्माणां संबद्धानाम् उपायान्तराणां चानुष्ठेयत्वाभावाद्  
+एतद्-वर्णाश्रमादि-निबन्धन-धर्माः स्व-रूप-विरुद्धा 
+
+इत्य्-उक्तौ को दोष इति चेत् —  
+इदम् अप्य् अनुपपन्नम् । 
+
+[[२१४]] 
+</details>
+
+
+<details><summary>English</summary>
+
+(d) Again it may be argued that 
+
+> since the self is different from such things as the body,  
+there is no propriety in the man who knows that, in his essential nature as the self, there is no such thing as varṇa or āśrama,  
+performing the duties and rites (dharmas) and other upāyas which are connected with them, because they all arise from the (erroneous) notion  
+"I am a Brahmin, I am a Kṣatriya."  
+(It may be argued) on this ground  
+that these rites and duties (dharmas) which are dependent on one's caste (varṇa) and āśrama may justly be considered as being against the essential nature of the self.  
+
+This argument, too, is not sound for the following reason :-- 
+</details>
+
+<details><summary>Español</summary>
+
+(d) Nuevamente se puede argumentar que
+
+> Dado que el yo **es** diferente de las cosas como el cuerpo,  
+**No hay propiedad** en el hombre que **sabe** que,  
+en su naturaleza esencial como yo,  
+**no existe** tal cosa como varṇa o āśrama,  
+>
+> **realización** de los **deberes** y ritos (dharmas)  
+y otros upāyas que están **conectados** con ellos,  
+porque todos **surgen** de la noción (errónea)  
+"Soy un brahmán, soy un kṣatriya".
+>
+> (**Se puede argumentar**) en este terreno  
+Que **estos ritos y deberes** (dharmas) que **dependen** de la casta (varṇa) y el āśrama  
+**pueden considerarse** justa como en contra de la naturaleza esencial del yo.
+
+Este argumento **tampoco es** sólido por la siguiente razón:-
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩालुम् आत्मा देहादिविलक्षणऩागैयाले स्वरूपत्तिल् वर्णाश्रमादिगळिल्लैयॆऩ्ऱु तॆळिन्दवऩुक्कु ‘‘ब्राह्मणोऽहं, क्षत्रियोऽहं’’ ऎऩ्ऱाऱ् पोले वरुम् अभिमानङ्गळडियाग कर्तव्यङ्गळाऩ वर्णाश्रमादिधर्मङ्गळुम्अवऱ्ऱोडे तुवक्कुण्डाऩ उपायान्तरङ्गळुम् अनुष्ठेयङ्गळल्लामै याले इव्वर्णाश्रमादि निबन्धनङ्गळाऩ धर्मङ्गळ् स्वरूपविरुद्धङ्गळॆऩ्ऩक् कुऱैयॆऩ्ऩॆऩिल्; इदुवुम् अनुपपन्नम्। 
+</details>
+
+
+
+
+
+
+Even if he understands that, in its essential nature, the self is not Brahmin and the like, yet since he is, owing to certain forms of past karma, in close association with the body which has the attributes of Brahmin and the like, he should not give up the dharmas enjoined by the śāstras in accordance with his varṇa and āśrama and also in accordance with his capacity for getting rid of the ills of life and for attaining good things, as long as he is with that body, in the same way as he makes endeavours to ward off such things as hunger and thirst which arise from that association with the body. Therefore it cannot be maintained that these dharmas should be given up on the ground that they are against the essential nature of the soul because the body is different from the soul to (the man endowed with discrimination.) In regard to the performance of these dharmas, it is not the delusion that the essential nature of the self has Brahminness and the like which gives competence, but the association with the body which has such attributes as Brahminness. Therefore we do not see any conflict between upāsanas and the essential nature of the self on account of the intelligent discrimination between the body and the soul which is necessary for the performance of all dharma. That upāsanas have within them the notion of "I" (ahamkara) finds no authority or sanction in the śāstras, but was merely assumed by these critics to exist. (In the performance of karma yoga, we are enjoined to give up the notion that we are free agents and that we want certain benefits ).
 
 (e) Some say that since karma yoga and the like have to be performed with the help of the body and the senses which are adventitious (upādhi) and which were acquired as the result of past karma, they are against the essential nature of the self. To them we reply that, even for a knowledge of one's essential nature and for learning Dvaya and the like, there is need for such things as the mind. (So they would have to say that knowledge of the essential nature and learning Dvaya are against the essential nature.) Thus their objection would extend to the latter also.
 
