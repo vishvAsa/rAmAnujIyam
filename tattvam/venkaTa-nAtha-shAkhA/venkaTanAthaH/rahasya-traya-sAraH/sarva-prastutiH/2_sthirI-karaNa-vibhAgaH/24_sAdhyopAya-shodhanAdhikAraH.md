@@ -6038,7 +6038,8 @@ Por lo tanto, así como formas particulares de adoración y servicio a Bhagavān
 </details>
 
 
-## भक्ति-योगः स्वरूपानुकूलः
+## भक्ति-योगः 
+### स्वरूपानुकूलः
 
 <details><summary>English</summary>
 
@@ -6050,7 +6051,7 @@ THE VIEW THAT UPĀSANA OR BHAKTI IS INCONSISTENT WITH ONE'S ESSENTIAL NATURE IS 
 La opinión de que Upāsana o Bhakti **es inconsistente** con la naturaleza esencial de uno **es** incorrecto:
 </details>
 
-### शङ्का
+#### शङ्का
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इप्-पडि यथाऽधिकारम् शास्त्रम् विधित्त् अवऱ्ऱिलुम्  
@@ -6132,7 +6133,7 @@ y **no condenar** upāsanas (como estar en contra de la naturaleza).
 </details>
 
 
-### अ-नाशकता
+#### अ-नाशकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ऎङ्ङऩेय्?" ऎऩ्ऩिल्;  
@@ -6183,7 +6184,13 @@ porque el yo **es** eterno (y **no puede ser destruido**).
 ऎङ्ङऩेयॆऩ्ऩिल्; नित्यमाऩ आत्मस्वरूपत्तुक्कु इवै नाशकङ्गळाय्क्कॊण्डु स्वरूपविरुद्धङ्गळॆऩ्ऩ वॊण्णादु। 
 </details>
 
-### कर्तृत्वम् अस्ति
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि स्तुतिपरत्वत्तै इसैन्दु सामरस्यत्तै स्थापिक्कवेण्डुमेयॊऴिय उपासनादिगळुक्कु स्वरूपविरुद्धत्वत्तै निर्वहिक्कमुडियादॆऩ्गिऱार् ऎङ्ङऩेयॆऩ्ऩिलित्यादिना । उपासनादिगळुक्कु स्वरूपविरुद्धत्वमावदु आत्मस्वरूप नाशकत्वमो, आत्मस्वरूपत्तिल् असम्भावितत्वमो, आत्मस्वरूपत्तिल् अनर्थावहत्वमो ऎऩ्गिऱ विकल्पत्तै हृदयत्तिलॆण्णि मुदल् पक्षत्तिल् दूषणमरुळिच्चॆय्गिऱार् नित्यमाऩ आत्मस्वरूपत्तुक्कु इत्यादिना । नित्यमाऩ ऎऩ्बदु हेतुगर्भविशेणम्। आत्मनो नित्यत्वात्, उपासनादिगळ् आत्मस्वरूपत्तिऱ्कु नाशकङ्गळॆऩ्ऱु सॊल्ल मुडियादॆऩ्ऱबडि। 
+</details>
+
+
+#### कर्तृत्वम् अस्ति
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रपत्त्य्-अनुष्ठानत्तिलुम् कैङ्कर्यत्तिलुम् बोले  
@@ -6255,6 +6262,18 @@ Aunque su **ser** un **hacedor** depende de Bhagavān.
 प्रपत्त्यनुष्ठानत्तिलुम् कैङ्कर्यत्तिलुम्बोले भक्त्यादिगळिलुम् ‘‘कर्ता शास्त्रार्थवत्वात्’’(ब्रह्मसूत्रम् २-३-३३), ‘‘परात्तु तच्छ्रुतेः’’(ब्रह्मसूत्रम् २-३-४०) ऎऩ्गिऱबडिये भगवदधीनकर्तत्वमुण्डागैयालुम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+द्वितीय विकल्पत्तिल् दूषणमरुळिच्चॆय्गिऱार् प्रपत्त्यनुष्ठानत्तिलुमित्यादिना । आत्मावुक्कु कर्तृत्वमिल्लामैयाल् उपासनादिकर्तृत्वमसम्भावितमॆऩ्ऱाल् 
+
+> ‘‘एष हि द्रष्टा श्रोता मन्ता बोद्धा कर्ता’’,  
+> ‘‘कर्ता शास्त्रार्थवत्वात्’’,  
+> ‘‘परात्तु तच्छ्रुतेः’’ 
+
+इत्यादिश्रुतिसूत्रार्थङ्गळ् विरुद्धङ्गळामॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्म--स्व-रूपम् अत्यन्त-निर्व्यापारम् ऎऩ्ऩुम् बोदु  
@@ -6288,6 +6307,12 @@ El yo **es** nulo o inexistente.
 
 आत्मस्वरूपमत्यन्तनिर्व्यापारमॆऩ्ऩुम्बोदु सत्त्वलक्षणमाऩ अर्थक्रियाकारित्वमिल्लामैयाले तुच्छत्वम् प्रसङ्गिक्कैयालुम्  
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कर्तृत्वानभ्युपगमे अनिष्टत्तैक् काण्बिक्किऱार् आत्मस्वरूपम् अत्यन्त निर्व्यापारमॆऩ्ऩुम्बोदु इति । सत्त्वलक्षणमाऩ अर्थक्रियाकारित्वमिल्लामैयाले इति । फलजनक यत्किञ्चिद्व्यापारवत्वम् सत्त्वम्; अदु सन्निष्ठम्। तल्लक्षणमाऩ – तत्स्वरूपमाऩ, सत्वस्वरूपमाऩ ऎऩ्ऱबडि। तुच्छत्वम् प्रसङ्गिक्कैयालुमिति । असत्त्वम् प्रसङ्गिक्कैयालुमॆऩ्ऱ पडि। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6344,6 +6369,11 @@ y que **no hay necesidad** de cualquier upāya para el **logro** de mokṣa.
 <details><summary>मूलम्</summary>
 
 ज्ञानचिकीर्षाप्रयत्नाश्रयत्वरूपमाऩ कर्तृत्वमिल्लैयाक्कि आत्मावुक्कु सन्निधिमात्रमे व्यापारमॆऩ्ऩिल् भोक्तृत्वादिगळुमऩ्ऱिक्के इवऩुक्कु संसारमुम् मिथ्यावाय् मोक्षोपाय नैरपेक्ष्यादि प्रसङ्गम् वरुमागैयालुम् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सन्निधिमात्रमे व्यापारम्; अदु आत्मावुक्कुमुण्डागैयाले तुच्छत्वमिल्लै; ज्ञानचिकीर्षाप्रयत्नरूपमाऩ व्यापारमिल्लैयागैयाल् कर्तृत्वमसम्भावितमॆऩ्ऩुम् पक्षत्तै दूषिक्किऱार् ज्ञानचिकीर्षेत्यादिना । इन्द पक्षत्तिल् मोक्षोपायनैरपेक्ष्यादि प्रसङ्गम् वरुमागैयालेउपासनादिगळ् स्वरूपविरुद्धङ्गळॆऩ्ऱु सॊल्लमुडियादॆऩ्ऱु करुत्तु।
 </details>
 
 
@@ -6498,7 +6528,7 @@ Como **resultado** de ciertas **acciones realizadas** en anteriores (**nacimient
 पूर्वानुष्ठितकर्मविशेषङ्गळिऩुडैय फलविशेषञ्जॊऩ्ऩ पडियत्तऩै।
 </details>
 
-### नानर्थावहकता
+#### नानर्थावहकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मोक्ष-प्रतिकूलङ्गळ् आऩ  
@@ -6549,7 +6579,7 @@ y porque **están ordenados** en los Śāstras solo para aquellos que **quieren*
 </details>
 
 
-### निगमनम्
+#### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् आत्म--स्व-रूपत्तैप् पऱ्ऱ  
@@ -6588,7 +6618,7 @@ que **están** en desacuerdo con la naturaleza esencial (del yo).
 आगैयाल् आत्मस्वरूपत्तैप्पऱ्ऱ उपासनादिगळुक्कु नाशकत्वासंभावितत्वानर्थावहत्वङ्गळिल्लामैयाले यॊरुबडियालुम् स्वरूपविरोधप्रसङ्गमिल्लै।  
 </details>
 
-### वर्णाश्रमादि-निबन्धनं न प्रतिकूलम्
+#### वर्णाश्रमादि-निबन्धनं न प्रतिकूलम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > आऩालुम् आत्मा देहादि-विलक्षणऩ् आगैयाले  
@@ -6661,12 +6691,233 @@ Este argumento **tampoco es** sólido por la siguiente razón:-
 आऩालुम् आत्मा देहादिविलक्षणऩागैयाले स्वरूपत्तिल् वर्णाश्रमादिगळिल्लैयॆऩ्ऱु तॆळिन्दवऩुक्कु ‘‘ब्राह्मणोऽहं, क्षत्रियोऽहं’’ ऎऩ्ऱाऱ् पोले वरुम् अभिमानङ्गळडियाग कर्तव्यङ्गळाऩ वर्णाश्रमादिधर्मङ्गळुम्अवऱ्ऱोडे तुवक्कुण्डाऩ उपायान्तरङ्गळुम् अनुष्ठेयङ्गळल्लामै याले इव्वर्णाश्रमादि निबन्धनङ्गळाऩ धर्मङ्गळ् स्वरूपविरुद्धङ्गळॆऩ्ऩक् कुऱैयॆऩ्ऩॆऩिल्; इदुवुम् अनुपपन्नम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+स्व-रूपत्तिल् ब्राह्मणत्वादिगळ् इल्लैय् ऎऩ्ऱु तॆळिन्दाऩेय् आगिलुम्  
+
+कर्म-विशेषङ्गळ् अडियाग  
+ब्राह्मणत्वादि-विशिष्ट-शरीरत्तोडे सम्बद्धऩ् आय् इरुक्कैयाले  
+
+अश् शरीर-सम्बन्धमेय् अडियाग वरुगिऱ क्षुत्-पिपासादिगळुक्कु परिहारम् पण्णुगिऱ कणक्किले  
+
+अश्-शरीरम् विडुम् अळवुम्  
+अव्वो वर्णाश्रमादिगळुक्कुम्  
+तऩ् शक्तिक्कुम् अनुरूपम् आग  
+अनिष्ट-निवृत्तीष्टप्राप्तिगळैप् पऱ्ऱ  
+शास्त्रङ्गळ् विधित्त धर्मङ्गळै विडव् ऒण्णादु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कथम् इति चेत् —  
+
+स्वरूपे ब्राह्मणत्वादीनि न सन्तीति प्रबुद्धत्वेऽपि  
+कर्म-विशेषाद् +धेतोः  
+ब्राह्मणत्वादि-विशिष्ट-शरीरेण सह संबद्धतया ऽवस्थानाद्  
+
+एतच्-छरीर-संबन्ध-निबन्धन--  
+क्षुत्-पिपासादि-परिहार-करण-न्यायेन  
+
+यावच्-छरीर-त्यागं तद्-वर्णाश्रमादीनां स्व-शक्त्य्-अनुरूपम् अनिष्ट-निवृत्तीष्टप्राप्त्य्-उद्देशेन  
+
+शास्त्र-विहितानां धर्माणां त्यागो न युज्यते । 
+
+</details>
+
+
+<details><summary>English</summary>
+
+Even if he understands that, in its essential nature, the self is not Brahmin and the like,  
+yet since he is, owing to certain forms of past karma, in close association with the body  
+which has the attributes of Brahmin and the like,  
+he should not give up the dharmas enjoined by the śāstras  
+in accordance with his varṇa and āśrama  
+and also in accordance with his capacity for getting rid of the ills of life and for attaining good things,  
+as long as he is with that body,  
+
+\- in the same way as he makes endeavours to ward off such things as hunger and thirst  
+which arise from that association with the body. 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso si **entiende** que, en su naturaleza esencial, el yo **no es** Brahmin y similares,  
+Sin embargo, dado que lo está, debido a ciertas formas de karma pasado, en estrecha **asociación** con el cuerpo  
+que **tiene** los atributos de Brahmin y similares,  
+**No debería renunciar** a los dharmas **orientados** por los Śāstras  
+De **acuerdo** con su varṇa y āśrama  
+y también de **acuerdo** con su capacidad para **deshacerse** de los males de la vida y para **lograr** cosas buenas,  
+Mientras esté con ese cuerpo,
+
+\- de la misma manera que **hace** esfuerzos por **evitar** cosas como el hambre y la sed  
+que **surgen** de esa asociación con el cuerpo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; स्वरूपत्तिल् ब्राह्मणत्वादिगळिल्लैयॆऩ्ऱु तॆळिन्दाऩेयागिलुम् कर्मविशेषङ्गळडियाग ब्राह्मणत्वादिविशिष्ट शरीरत्तोडे सम्बद्धऩायिरुक्कैयाले अच् शरीरसम्बन्धमेयडियाग वरुगिऱ क्षुत्पिपासादिगळुक्कु परिहारम् पण्णुगिऱ कणक्किले अच्शरीरम् विडुमळवुम् अव्वो वर्णाश्रमादिगळुक्कुम् तऩ् शक्तिक्कुम् अनुरूपमाग अनिष्टनिवृत्तीष्टप्राप्तिकळैप् पऱ्ऱ शास्त्रङ्गळ् विधित्त धर्मङ्गळै विडवॊण्णादु। 
+</details>
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् इद्-धर्मङ्गळै  
+देहात्म-विवेकम् अडियाग  
+स्व-रूप--विरुद्धङ्गळ् आक्कि  
+इवऱ्ऱुक्कु त्याज्यतै सॊल्लव् ऒण्णादु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत इमान् धर्मान्  
+देहात्म-विवेकाद् +धेतोः स्व-रूप-विरुद्धान् आपाद्य  
+एषां त्याज्यता  
+वक्तुं न युज्यते । 
+</details>
 
 
-Even if he understands that, in its essential nature, the self is not Brahmin and the like, yet since he is, owing to certain forms of past karma, in close association with the body which has the attributes of Brahmin and the like, he should not give up the dharmas enjoined by the śāstras in accordance with his varṇa and āśrama and also in accordance with his capacity for getting rid of the ills of life and for attaining good things, as long as he is with that body, in the same way as he makes endeavours to ward off such things as hunger and thirst which arise from that association with the body. Therefore it cannot be maintained that these dharmas should be given up on the ground that they are against the essential nature of the soul because the body is different from the soul to (the man endowed with discrimination.) In regard to the performance of these dharmas, it is not the delusion that the essential nature of the self has Brahminness and the like which gives competence, but the association with the body which has such attributes as Brahminness. Therefore we do not see any conflict between upāsanas and the essential nature of the self on account of the intelligent discrimination between the body and the soul which is necessary for the performance of all dharma. That upāsanas have within them the notion of "I" (ahamkara) finds no authority or sanction in the śāstras, but was merely assumed by these critics to exist. (In the performance of karma yoga, we are enjoined to give up the notion that we are free agents and that we want certain benefits ).
+<details><summary>English</summary>
+
+Therefore it cannot be maintained that these dharmas should be given up  
+on the ground that they are against the essential nature of the soul  
+because the body is different from the soul to (the man endowed with discrimination.) 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **no se puede mantener** que estos dharmas se **deben renunciar**  
+por el terreno de que **están** en **contra** de la naturaleza esencial del alma  
+Porque el cuerpo **es** diferente del alma a (el hombre **dotado** de discriminación).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् इत् धर्मङ्गळै देहात्मविवेकमडियाग स्वरूपविरुद्धङ्गळाक्कि इवऱ्ऱुक्कु त्याज्यतै सॊल्लवॊण्णादु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देहात्म-विवेकम् उडैयवऩुक्के  
+पारलौकिक-भोग-साधनम् आऩ धर्मत्तिल् अधिकारम् आगैयाल्  
+इद्-धर्मङ्गळ्-उडैय अनुष्ठानत्तुक्कु  
+स्व-रूपत्तिल् ब्राह्मण्यादि-भ्रमम् अधिकारम् अऩ्ऱु;+++(4)+++  
+ब्राह्मण्यादि-विशिष्ट-शरीर-सम्बन्धमे अधिकारम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+देहात्म-विवेकवत एव पारलौकिक-भोग-साधने धर्मेऽधिकार इति  
+एषां धर्माणाम् अनुष्ठानस्य स्वरूपे ब्राह्मण्यादि-भ्रमो नाधिकारः -  
+ब्राह्मण्यादि-विशिष्ट-शरीर-संबन्ध एवाधिकारः । 
+</details>
+
+
+<details><summary>English</summary>
+
+In regard to the performance of these dharmas,  
+it is not the delusion that the essential nature of the self has Brahminness and the like which gives competence,  
+but the association with the body which has such attributes as Brahminness.  
+</details>
+
+<details><summary>Español</summary>
+
+Con respecto al **rendimiento** de estos dharmas,  
+**No es** el **engaño** que la naturaleza esencial del yo **tiene** brahmanidad y similares que **da** competencia,  
+pero la **asociación** con el cuerpo que **tiene** atributos como brahmanidad.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देहात्मविवेकमुडैयवऩुक्के पारलौकिकभोगसाधनमाऩ धर्मत्तिल् अधिकारमागैयाल् इत्धर्मङ्गळुडैय अनुष्ठानत्तुक्कु स्वरूपत्तिल् ब्राह्मण्यादि भ्रम मधिकारमऩ्ऱु;
+ब्राह्मण्यादिविशिष्ट शरीरसम्बन्धमे अधिकारम्। 
+
+आगैयाल् सर्व-धर्मानुष्ठानत्तुक्कुम् उपयुक्तम् आऩ  
+प्रकृत्य्-आत्म-विवेकम् अडिय् आग  
+उपासनादिगळुक्कु विरोधङ् कण्डिलोम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः सर्व-धर्मानुष्ठानोपयुक्त-प्रकृत्यात्म-विवेकाद् धेतोर् उपासनादीनां स्वरूप-विरोधं न पश्यामः । 
+</details>
+
+<details><summary>English</summary>
+
+Therefore we do not see any conflict between upāsanas and the essential nature of the self  
+on account of the intelligent discrimination between the body and the soul  
+which is necessary for the performance of all dharma.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **no vemos** ningún conflicto entre upāsanas y la naturaleza esencial del yo  
+Debido a la **discriminación** inteligente entre el cuerpo y el alma  
+lo cual **es necesario** para el **rendimiento** de todos los dharma.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् सर्वधर्मानुष्ठानत्तुक्कुम् उपयुक्तमाऩ प्रकृत्यात्मविवेकमडियाग उपासनादिगळुक्कु विरोधङ्गण्डिलोम्। 
+</details>
+
+### अहं-कार-गर्भत्वं न
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उपासनादिगळ् अहङ्कार-गर्भङ्गळ् 
+
+ऎऩ्ऩुम् इडम्  
+शास्त्रम् इसैयाद् इरुक्कच् चॆय्दे आरोपित्तार्गळ् अत्तऩै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> उपासनादयो ऽहं-कारादि-गर्भा 
+
+इत्य् एतत्तु शास्त्रानभिमतम् । 
+
+> एवन्त्वे ऽपीदम् आरोपयामासुर् 
+
+इत्य् एव भाव्यम् । 
+</details>
+
+<details><summary>English</summary>
+
+That upāsanas have within them the notion of "I" (ahamkara)  
+finds no authority or sanction in the śāstras,  
+but was merely assumed by these critics to exist.  
+(In the performance of karma yoga,  
+we are enjoined to give up the notion  
+that we are free agents  
+and that we want certain benefits ).+++(4)+++
+</details>
+
+<details><summary>Español</summary>
+
+Que upāsanas **tienen** dentro de ellos la noción de "yo" (ahamkara)  
+**no encuentra** autoridad ni sanción en los Śāstras,  
+pero estos críticos **fueron asumidos** simplemente por **existir**.  
+(En el **desempeño** de Karma Yoga,  
+Nos **ordenó renunciar** a la noción  
+que **somos** agentes libres  
+y que **queremos** ciertos beneficios).+++(4)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपासनादिगळ् अहङ्कारगर्भङ्गळॆऩ्ऩुमिडम् शास्त्रमिसैयादिरुक्कच्चॆय्दे आरोपित्तार्गळत्तऩै। 
+</details>
+
+
+
 
 (e) Some say that since karma yoga and the like have to be performed with the help of the body and the senses which are adventitious (upādhi) and which were acquired as the result of past karma, they are against the essential nature of the self. To them we reply that, even for a knowledge of one's essential nature and for learning Dvaya and the like, there is need for such things as the mind. (So they would have to say that knowledge of the essential nature and learning Dvaya are against the essential nature.) Thus their objection would extend to the latter also.
 
