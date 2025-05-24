@@ -6038,8 +6038,7 @@ Por lo tanto, así como formas particulares de adoración y servicio a Bhagavān
 </details>
 
 
-## भक्ति-योगः 
-### स्वरूपानुकूलः
+## भक्ति-योगः स्वरूपानुकूलः
 
 <details><summary>English</summary>
 
@@ -6051,7 +6050,7 @@ THE VIEW THAT UPĀSANA OR BHAKTI IS INCONSISTENT WITH ONE'S ESSENTIAL NATURE IS 
 La opinión de que Upāsana o Bhakti **es inconsistente** con la naturaleza esencial de uno **es** incorrecto:
 </details>
 
-#### शङ्का
+### शङ्का
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इप्-पडि यथाऽधिकारम् शास्त्रम् विधित्त् अवऱ्ऱिलुम्  
@@ -6133,7 +6132,7 @@ y **no condenar** upāsanas (como estar en contra de la naturaleza).
 </details>
 
 
-#### अ-नाशकता
+### अ-नाशकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ऎङ्ङऩेय्?" ऎऩ्ऩिल्;  
@@ -6190,7 +6189,7 @@ porque el yo **es** eterno (y **no puede ser destruido**).
 </details>
 
 
-#### कर्तृत्वम् अस्ति
+### कर्तृत्वम् अस्ति
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रपत्त्य्-अनुष्ठानत्तिलुम् कैङ्कर्यत्तिलुम् बोले  
@@ -6533,7 +6532,7 @@ Como **resultado** de ciertas **acciones realizadas** en anteriores (**nacimient
 पूर्वानुष्ठितकर्मविशेषङ्गळिऩुडैय फलविशेषञ्जॊऩ्ऩ पडियत्तऩै।
 </details>
 
-#### नानर्थावहकता
+### नानर्थावहकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मोक्ष-प्रतिकूलङ्गळ् आऩ  
@@ -6590,7 +6589,7 @@ y porque **están ordenados** en los Śāstras solo para aquellos que **quieren*
 </details>
 
 
-#### निगमनम्
+### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् आत्म--स्व-रूपत्तैप् पऱ्ऱ  
@@ -6635,7 +6634,7 @@ que **están** en desacuerdo con la naturaleza esencial (del yo).
 </details>
 
 
-#### वर्णाश्रमादि-निबन्धनं न प्रतिकूलम्
+### वर्णाश्रमादि-निबन्धनं न प्रतिकूलम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > आऩालुम् आत्मा देहादि-विलक्षणऩ् आगैयाले  
@@ -6787,7 +6786,7 @@ que **surgen** de esa asociación con el cuerpo.
 
 <details><summary>मूलम्</summary>
 
-ऎङ्ङऩेयॆऩ्ऩिल्; स्वरूपत्तिल् ब्राह्मणत्वादिगळिल्लैयॆऩ्ऱु तॆळिन्दाऩेयागिलुम् कर्मविशेषङ्गळडियाग ब्राह्मणत्वादिविशिष्ट शरीरत्तोडे सम्बद्धऩायिरुक्कैयाले अच् शरीरसम्बन्धमेयडियाग वरुगिऱ क्षुत्पिपासादिगळुक्कु परिहारम् पण्णुगिऱ कणक्किले अश्शरीरम् विडुमळवुम् अव्वो वर्णाश्रमादिगळुक्कुम् तऩ् शक्तिक्कुम् अनुरूपमाग अनिष्टनिवृत्तीष्टप्राप्तिकळैप् पऱ्ऱ शास्त्रङ्गळ् विधित्त धर्मङ्गळै विडवॊण्णादु। 
+ऎङ्ङऩेयॆऩ्ऩिल्; स्वरूपत्तिल् ब्राह्मणत्वादिगळिल्लैयॆऩ्ऱु तॆळिन्दाऩेयागिलुम् कर्मविशेषङ्गळडियाग ब्राह्मणत्वादिविशिष्ट शरीरत्तोडे सम्बद्धऩायिरुक्कैयाले अश् शरीरसम्बन्धमेयडियाग वरुगिऱ क्षुत्पिपासादिगळुक्कु परिहारम् पण्णुगिऱ कणक्किले अश्शरीरम् विडुमळवुम् अव्वो वर्णाश्रमादिगळुक्कुम् तऩ् शक्तिक्कुम् अनुरूपमाग अनिष्टनिवृत्तीष्टप्राप्तिकळैप् पऱ्ऱ शास्त्रङ्गळ् विधित्त धर्मङ्गळै विडवॊण्णादु। 
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -6926,6 +6925,7 @@ lo cual **es necesario** para el **rendimiento** de todos los dharma.
 
 
 
+## उपाय-स्वरूपम्
 ### अहं-कार-गर्भत्वं न
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6991,6 +6991,18 @@ y que **queremos** ciertos beneficios).+++(4)+++
 ऎऩ्बार्क्कुम् स्वरूप-ज्ञान--द्वय+++(-मन्त्र)+++-श्रवणादिगळुम् मनः-प्रभृति-सापेक्षङ्गळ् आगैयाले तुल्य-दोषङ्गळ् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> कर्मोपार्जित-करण-कलेवराद्य्-उपाधीन् अवलम्ब्यानुष्ठेयत्वात्  
+कर्म-योगादयो निर्-उपाधिक--स्व-रूप--विरुद्धा 
+
+इति वदतां  
+
+स्व-रूप--ज्ञान-द्वय-श्रवणादयोऽपि  
+मनः-प्रभृति-सापेक्षत्वात् तुल्य-दोषाः । +++(4)+++
+</details>
+
+
 <details><summary>English</summary>
 
 (e) Some say that 
@@ -7031,7 +7043,15 @@ Por lo tanto, su objeción también **se extendería** a este último.
 कर्मोपार्जितङ्गळाऩ करणकळेबरङ्गळागिऱ उपाधिकळैक् कॊण्डनुष्ठिक्कैयाले कर्मयोगादिगळ् निरुपाधिक स्वरूप विरुद्धङ्गळॆऩ्बार्क्कुम् स्वरूप ज्ञानद्वयश्रवणादिगळुम् मनःप्रभृतिसापेक्षङ्गळागैयाले तुल्यदोषङ्गळाम्। 
 </details>
 
-## शेषत्वं न बाधते - व्याजापेक्षया
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उपासनादिगळ् करणकळेबरादिगळाऩ उपाधिकळाल् अनुष्ठिक्कप्पडुवदाल् निरुपाधिकस्वरूपविरुद्धङ्गळ् ऎऩ्बदै अनुवदित्तु निरसिक्किऱार् कर्मोपार्जितङ्गळाऩ इत्यादिना ।
+
+स्वरूपज्ञानेत्यादि परिहारपरम्। 
+</details>
+
+
+### शेषत्व-पारतन्त्र्ये न बाधेते
 <details><summary>English</summary>
 
 THE OBJECTION THAT THE JĪVA WHO IS ENTIRELY DEPENDENT ON THE LORD  
@@ -7046,16 +7066,33 @@ La objeción que el Jīva que **depende** completamente del Señor
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> आऩालुम् शेष-भूतऩ् आगैयाले,  
-तऩ्ऩैत् ताऩ् रक्षित्तुक् कॊळ्ळप् प्राप्तऩुम् अऩ्ऱिक्के  
-अत्यन्त-पर-तन्त्रऩ् आगैयाले,  
-> 
-> तऩ्ऩैत् ताऩ् रक्षित्तुक् कॊळ्ळ शक्तऩुम् अऩ्ऱिक्केय् इरुक्किऱव् इवऩुक्कु  
+> आऩालुम् शेष-भूतऩ् आगैयाले  
+तऩ्ऩैत् ताऩ् रक्षित्तुक् कॊळ्ळप् प्राप्तऩुम् अऩ्ऱिक्के,  
+>  
+> अत्यन्त-पर-तन्त्रऩ् आगैयाले,  
+> तऩ्ऩैत् ताऩ् रक्षित्तुक् कॊळ्ळ शक्तऩुम् अऩ्ऱिक्केय्,  
 >
+> इरुक्किऱव् इवऩुक्कु  
 > "स्व-रक्षणार्थम् आग कर्तव्यम्" ऎऩ्ऱ् ऒरु उपायत्तै विधिक्कैयुम्,  
 अद् इवऩुक्कु साध्यम् आय्  
 "साध्योपायम्" ऎऩ्ऱु पेर् पॆऱुगिऱद् ऎऩ्ऱु सॊल्लुगैयुम् उपपन्नमो? 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२१५]] 
+
+> ( 6 ) अथापि शेष-भूतत्वात्  
+स्वेन स्वस्य रक्षणे ऽप्राप्तस्य,  
+अत्यन्त-पर-तन्त्रत्वात्  
+स्वेन स्वस्य रक्षणेऽशक्तस्य च सतोऽस्य  
+स्व-रक्षणार्थं कर्तव्यत्वेन कस्यचिद् उपायस्य विधानम्,  
+> 
+> > स एतत्-साध्यत्वात् साध्योपाय इति नाम लभते 
+>
+> इत्य्-उक्तिश् च कथम् उपपद्यते? 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7089,9 +7126,17 @@ Y **llamar** a esto un upāya que **sea capaz** de **ser adoptado** por él?
 आऩालुम् शेषभूतऩागैयाले तऩ्ऩैत् ताऩ् रक्षित्तुक् कॊळ्ळप् प्राप्तऩुमऩ्ऱिक्के अत्यन्तपरतन्त्रऩागैयाले तऩ्ऩैत्ताऩ् रक्षित्तुक्कॊळ्ळ शक्तऩुमऩ्ऱिक्केयिरुक्किऱविवऩुक्कु स्वरक्षणार्थमाग कर्तव्यमॆऩ्ऱॊरु उपायत्तै विधिक्कैयुम् अदिवऩुक्कु साध्यमाय् साध्योपायमॆऩ्ऱु पेर् पॆऱुगिऱदॆऩ्ऱु सॊल्लुगैयुम् उपपन्नमो? 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रकारान्तरत्ताले असम्भावितत्वानर्थावहत्वरूपमाऩ स्वरूपविरोधत्तै शङ्गित्तु मुऩ्बे परिहृतमॆऩ्गिऱार् आऩालुमित्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > आऩ पिऩ्बु भक्ति-योगादिगळ् शेषत्वानुरूपङ्गळ् अल्लामैयाले  
+>  आऩ पिऩ्बु
+>
+> > भक्ति-योगादिगळ् शेषत्वानुरूपङ्गळ् अल्लामैयाले  
 स्व-रूपत्तिऱ्क् अनिष्ठावहङ्गळ् 
 > 
 > ऎऩ्ऱुम्, 
@@ -7103,6 +7148,22 @@ Y **llamar** a esto un upāya que **sea capaz** de **ser adoptado** por él?
 
 ऎऩ्ऩिल्; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अतो 
+> 
+> > भक्ति-योगादयः शेषत्वानुरूपत्वाभावात् स्व-रूपस्यानिष्टावहा  
+>
+> इति,  
+>
+> > अत्यन्त-पारतन्त्र्य-विरुद्धत्वाद् अ-संभाविता 
+> 
+> इति च किं न वक्तुं युज्यते? 
+
+इति चेत्-
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7131,11 +7192,23 @@ con que **estén** absolutamente bajo la voluntad y el control de Iśvara ".
 आऩ पिऩ्बु भक्तियोगादिगळ् शेषत्वानुरूपङ्गळल्लामैयाले स्वरूपत्तिऱ्कनिष्ठावहङ्गळॆऩ्ऱुम्, अत्यन्तपारतन्त्र्यविरुद्धङ्गळागैयाले असंभावितङ्गळॆऩ्ऱुञ् जॊल्लवॊण्णादोवॆऩ्ऩिल्; 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अनिष्टावहम् - शेषत्वत्तिऱ्कु हानिकरम्। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु सर्व-मोक्ष-प्रसङ्गादिगळाले मुऩ्बे परिहृतम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं सर्व-मोक्ष-प्रसङ्गादिभिः पूर्वम् एव परिहृतम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7160,6 +7233,13 @@ Esta objeción ya **ha sido respondida** que **conduce** a la conclusión lógic
 अनादिय् आग मुक्तऩ् आगप् प्रसङ्गिक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतत्-कृत-यत्-किञ्चिद्-व्याजाप्रतीक्षया मुक्तत्वापादने  
+अनादि-कालान् मुक्तत्वापादनं प्रसज्येत । 
+</details>
+
+
 <details><summary>English</summary>
 
 If the Lord were to grant a jīva mukti or salvation without any consideration (vyāja) whatsoever,  
@@ -7178,11 +7258,25 @@ El Jīva **debería ser** un Mukta desde que **comienza** menos tiempo.
 इवऩ् सॆय्ददॊरु व्याजङ्गॊळ्ळादे मुक्तऩाक्किल् अनादियाग मुक्तऩागप् प्रसङ्गिक्कुम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पूर्वोक्तपरिहारत्तैये स्पष्टीकरिक्किऱार् इवऩ् सॆय्ददॊरु व्याजमित्यादिना ।  
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईश्वरऩ् केवल-स्वातन्त्र्यत्ताले निऩैत्त बोदु मुक्तऩ् आक्किल्  
 वैषम्य-नैर्घृण्यादि-दोषङ्गळुम् वरुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वरेण केवल-स्वातन्त्र्याद्  
+अभिमत-समये मुक्तत्वापादने  
+वैषम्य-नैर्घुण्यादि-दोषा प्रसज्यन्ते ।  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7212,6 +7306,12 @@ Las herejías similares **seguirían**.
 मोक्षोपायविधायकङ्गळ् आऩ शास्त्रङ्गळुम् ऎल्लाम् निरर्थकङ्गळुम् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+मोक्षोपाय-विधायकानां शास्त्राणां सर्वेषां निरर्थकता च स्यात् । 
+</details>
+
+
 <details><summary>English</summary>
 
 Further those śāstras which prescribe the means for attaining mukti would become meaningless. 
@@ -7230,10 +7330,27 @@ Además, aquellos Śāstras que **prescriben** los medios para **alcanzar** Mukt
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आगैयाल् इश् शेषत्वत्ताल् वगुत्त विषयत्तैप् पऱ्ऱुगैयिल्  
-औचित्यमुम्,  
+आगैयाल् इश् शेषत्वत्ताल् वगुत्त+++(=सम्भक्त)+++ विषयत्तैप् पऱ्ऱुगैयिल् औचित्यमुम्,  
 उडैयवऩ् उडैमैयै रक्षिक्कैयिल् औचित्यमुम्  
 उण्ड् आम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतोऽनेन शेषत्वेनास्य व्यवस्थित-विषयाश्रयणे औचित्यं  
+(स्वामिना) स्वस्य रक्षणे औचित्यं च सिध्येत् ; 
+</details>
+
+<details><summary>English</summary>
+
+Therefore in adopting this means enjoined as the result of the jīva's being a śeṣa there is appropriateness  
+and also a like appropriateness in the owner protecting what is his own. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, al **adoptar** esto implementos **ejoed** como el resultado de que el Jīva es un Śeṣa **hay** idoneidad  
+y también una idoneidad similar en el propietario que **protege** lo suyo.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -7241,9 +7358,63 @@ Además, aquellos Śāstras que **prescriben** los medios para **alcanzar** Mukt
 आगैयाल् इश्शेषत्वत्ताल्वगुत्त विषयत्तैप्पऱ्ऱुगैयिल् औचित्यमुम्, उडैयवऩ् उडैमैयै रक्षिक्कैयिल् औचित्यमुमुण्डाम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शङ्गिदङ्गळाऩ अनिष्टावहत्वासम्भावितत्वङ्गळै परिहरिक्किऱार् आगैयालित्यादिना ।  
+
+शेषत्व-शेषित्वङ्गळुक्कु उचितम् आग वरुम् प्रयोजनत्तैय् अरुळिच्चॆय्गिऱार्  
+इश् शेषत्वत्ताल् वगुत्त विषयत्तै इत्यादिना । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्यन्त-पारतन्त्र्यत्ताल्  
+अवऩ् कॊडुत्त स्वातन्त्र्यत्तैच् चुमन्दु  
+अवऩुक्क् अभिमतङ्गळ् आऩ उपायङ्गळै अनुष्ठिक्कैयुम्  
+फलम् पॆऱुगैक्क् अवऩ् कै पार्त्त् इरुक्क वेण्डुगैयुम्  
+सिद्धिक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+It would become possible to adopt such means as are agreeable to Him  
+with the help of the measure of independence granted (to us) by Him as the Supreme Controller  
+and to expect His favour in regard to the fruit or object of attainment.  
+</details>
+
+<details><summary>Español</summary>
+
+**Sería** posible **adoptar** los medios que están de **acuerdo** para él  
+con la ayuda de la medida de la independencia **otorgada** (a nosotros) por él como el **controlador** supremo  
+y **esperar** su favor con respecto al fruto u objeto de **logro**.
+</details>
 
 
-Therefore in adopting this means enjoined as the result of the jīva's being a śeṣa there is appropriateness and also a like appropriateness in the owner protecting what is his own. It would become possible to adopt such means as are agreeable to Him with the help of the measure of independence granted (to us) by Him as the Supreme Controller and to expect His favour in regard to the fruit or object of attainment. This śeṣatva or existing solely for the Lord and being absolutely subject to His will and control - these two will help, in the stage of realisation, to perform the kind of service that is agreeable to Him as that ordained by Him.
+<details><summary>मूलम्</summary>
+
+अत्यन्तपारतन्त्र्यत्ताल् अवऩ् कॊडुत्त स्वातन्त्र्यत्तैच् चुमन्दु अवऩुक्कभिमतङ्गळाऩ उपायङ्गळै अनुष्ठिक्कैयुम् फलम् पॆऱुगैक्कवऩ् कैबार्त्तिरुक्कवेण्डुगैयुम् सिद्धिक्कुम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इश् शेषत्व-पारतन्त्र्यङ्गळ्  
+इरण्डुम् फल-दशैयिल्  
+अवऩ् उगन्द कैङ्कर्यत्तै  
+अवऩिट्ट वऴक्क् आग नडत्तुगैक्कुम् उऱुप्प् आम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इश्शेषत्वपारतन्त्र्यङ्गळिरण्डुम् फलदशैयिलवऩुगन्द कैङ्कर्यत्तै अवऩिट्ट वऴक्काग नडत्तुगैक्कुमुऱुप्पाम्। 
+</details>
+
+
+This śeṣatva or existing solely for the Lord and being absolutely subject to His will and control -  
+these two will help, in the stage of realisation, to perform the kind of service  
+that is agreeable to Him  
+as that ordained by Him.
 
 If these objectors hold that, on account of the knowledge of being the śeṣa and of entire dependence on Iśvara, the jīva should make no effort for his own protection, it would follow that the service (kaiṅkarya ) rendered in accordance with the śāstras for the attainment of the Lord's favour and so also prapatti which is prescribed as possible, would he beyond his competence, because they are understood as being opposed to his essential nature. We have already stated that prapatti is capable of being adopted as a means in as much as it has been prescribed in the words "saranam vraja" (seek refuge), as something that has to be performed over and above the mere knowledge of the relationship (between the jīva and Iśvara ) arising from the texts. Therefore there is no inappropriateness in the jīva, who exists only for the Lord and who is entirely subject to His control, adopting such means of his own for his protection as he is competent to adopt,
 
