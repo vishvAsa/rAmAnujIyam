@@ -6787,7 +6787,7 @@ que **surgen** de esa asociación con el cuerpo.
 
 <details><summary>मूलम्</summary>
 
-ऎङ्ङऩेयॆऩ्ऩिल्; स्वरूपत्तिल् ब्राह्मणत्वादिगळिल्लैयॆऩ्ऱु तॆळिन्दाऩेयागिलुम् कर्मविशेषङ्गळडियाग ब्राह्मणत्वादिविशिष्ट शरीरत्तोडे सम्बद्धऩायिरुक्कैयाले अच् शरीरसम्बन्धमेयडियाग वरुगिऱ क्षुत्पिपासादिगळुक्कु परिहारम् पण्णुगिऱ कणक्किले अच्शरीरम् विडुमळवुम् अव्वो वर्णाश्रमादिगळुक्कुम् तऩ् शक्तिक्कुम् अनुरूपमाग अनिष्टनिवृत्तीष्टप्राप्तिकळैप् पऱ्ऱ शास्त्रङ्गळ् विधित्त धर्मङ्गळै विडवॊण्णादु। 
+ऎङ्ङऩेयॆऩ्ऩिल्; स्वरूपत्तिल् ब्राह्मणत्वादिगळिल्लैयॆऩ्ऱु तॆळिन्दाऩेयागिलुम् कर्मविशेषङ्गळडियाग ब्राह्मणत्वादिविशिष्ट शरीरत्तोडे सम्बद्धऩायिरुक्कैयाले अच् शरीरसम्बन्धमेयडियाग वरुगिऱ क्षुत्पिपासादिगळुक्कु परिहारम् पण्णुगिऱ कणक्किले अश्शरीरम् विडुमळवुम् अव्वो वर्णाश्रमादिगळुक्कुम् तऩ् शक्तिक्कुम् अनुरूपमाग अनिष्टनिवृत्तीष्टप्राप्तिकळैप् पऱ्ऱ शास्त्रङ्गळ् विधित्त धर्मङ्गळै विडवॊण्णादु। 
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -6982,13 +6982,268 @@ y que **queremos** ciertos beneficios).+++(4)+++
 अहङ्कारगर्भत्वत्तै शास्त्रमिसैयविल्लै ऎऩ्ऱु करुत्तु।
 </details>
 
+### करण-सापेक्षतया न स्वरूप-विरोधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कर्मोपार्जितङ्गळ् आऩ करण-कळेबरङ्गळ् आगिऱ उपाधिगळैक् कॊण्ड् अनुष्ठिक्कैयाले  
+कर्म-योगादिगळ् निर्-उपाधिक-स्वरूप-विरुद्धङ्गळ् 
+
+ऎऩ्बार्क्कुम् स्वरूप-ज्ञान--द्वय+++(-मन्त्र)+++-श्रवणादिगळुम् मनः-प्रभृति-सापेक्षङ्गळ् आगैयाले तुल्य-दोषङ्गळ् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+(e) Some say that 
+
+> since karma yoga and the like have to be performed with the help of the body and the senses  
+which are adventitious (upādhi)  
+and which were acquired as the result of past karma,  
+they are against the essential nature of the self.  
+
+To them we reply that,  
+even for a knowledge of one's essential nature and for learning Dvaya and the like,  
+there is need for such things as the mind.  
+(So they would have to say that knowledge of the essential nature and learning Dvaya  
+are against the essential nature.)  
+Thus their objection would extend to the latter also.
+</details>
+
+<details><summary>Español</summary>
+
+(e) Algunos **dicen** que, 
+
+> dado que Karma yoga y similares, **deben realizarse** con la ayuda del cuerpo y los sentidos  
+que son adventicios (upādhi)  
+y que **fueron adquiridos** como resultado del pasado karma,  
+**Están** en contra de la naturaleza esencial del yo.
+
+A ellos **respondemos** que,  
+incluso para el **conocimiento** de la naturaleza esencial de uno y para **aprender** dvaya y similares,  
+**hay necesidad** de cosas como la mente.  
+(Entonces **tendrían** que **decir** que el **conocimiento** de la naturaleza esencial y el aprendizaje de Dvaya  
+**están** en contra de la naturaleza esencial.)  
+Por lo tanto, su objeción también **se extendería** a este último.
+</details>
 
 
-(e) Some say that since karma yoga and the like have to be performed with the help of the body and the senses which are adventitious (upādhi) and which were acquired as the result of past karma, they are against the essential nature of the self. To them we reply that, even for a knowledge of one's essential nature and for learning Dvaya and the like, there is need for such things as the mind. (So they would have to say that knowledge of the essential nature and learning Dvaya are against the essential nature.) Thus their objection would extend to the latter also.
+<details><summary>मूलम्</summary>
 
-THE OBJECTION THAT THE JĪVA WHO IS ENTIRELY DEPENDENT ON THE LORD CANNOT AND SHOULD NOT ADOPT AN UPĀYA.
+कर्मोपार्जितङ्गळाऩ करणकळेबरङ्गळागिऱ उपाधिकळैक् कॊण्डनुष्ठिक्कैयाले कर्मयोगादिगळ् निरुपाधिक स्वरूप विरुद्धङ्गळॆऩ्बार्क्कुम् स्वरूप ज्ञानद्वयश्रवणादिगळुम् मनःप्रभृतिसापेक्षङ्गळागैयाले तुल्यदोषङ्गळाम्। 
+</details>
 
-(f) It might be asked, “ Whatever that might be, since the jīva exists solely for Iśvara (śeṣa ), he is not expected to protect himself and since he is absolutely subject to the will and control of Iśvara, be cannot protect himself; is it proper then to prescribe a means or upāya as necessary to be adopted by him for his protection and to call this an upāya that is capable of being adopted by him? Whea this is so, bhakti yoga and the like are productive of evil to the essential nature of the self (svarūpa); as they are inconsistent with his being a śeṣa who exists only for Iśvara and are not possible of adoption, as they are inconsistent with his being absolutely under the will and control of Iśvara". This objection has already been answered as leading to the logical conclusion of the possibility of salvation for all. If the Lord were to grant a jīva mukti or salvation without any consideration (vyāja) whatsoever, the jīva should be a mukta from beginning less time, If it is beld that Iśvara, being independent and omnipotent, makes a man a mukta whenever He is pleased, it would mean that he is partial to some and cruel to others. Similar heresies would follow : Further those śāstras which prescribe the means for attaining mukti would become meaningless. Therefore in adopting this means enjoined as the result of the jīva's being a śeṣa there is appropriateness and also a like appropriateness in the owner protecting what is his own. It would become possible to adopt such means as are agreeable to Him with the help of the measure of independence granted (to us) by Him as the Supreme Controller and to expect His favour in regard to the fruit or object of attainment. This śeṣatva or existing solely for the Lord and being absolutely subject to His will and control - these two will help, in the stage of realisation, to perform the kind of service that is agreeable to Him as that ordained by Him.
+## शेषत्वं न बाधते - व्याजापेक्षया
+<details><summary>English</summary>
+
+THE OBJECTION THAT THE JĪVA WHO IS ENTIRELY DEPENDENT ON THE LORD  
+CANNOT AND SHOULD NOT ADOPT AN UPĀYA.
+</details>
+
+<details><summary>Español</summary>
+
+La objeción que el Jīva que **depende** completamente del Señor  
+**No puede ni debe adoptar** un upāya.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आऩालुम् शेष-भूतऩ् आगैयाले,  
+तऩ्ऩैत् ताऩ् रक्षित्तुक् कॊळ्ळप् प्राप्तऩुम् अऩ्ऱिक्के  
+अत्यन्त-पर-तन्त्रऩ् आगैयाले,  
+> 
+> तऩ्ऩैत् ताऩ् रक्षित्तुक् कॊळ्ळ शक्तऩुम् अऩ्ऱिक्केय् इरुक्किऱव् इवऩुक्कु  
+>
+> "स्व-रक्षणार्थम् आग कर्तव्यम्" ऎऩ्ऱ् ऒरु उपायत्तै विधिक्कैयुम्,  
+अद् इवऩुक्कु साध्यम् आय्  
+"साध्योपायम्" ऎऩ्ऱु पेर् पॆऱुगिऱद् ऎऩ्ऱु सॊल्लुगैयुम् उपपन्नमो? 
+</details>
+
+<details><summary>English</summary>
+
+(f) It might be asked, 
+
+> “ Whatever that might be, since the jīva exists solely for Iśvara (śeṣa ),  
+he is not expected to protect himself  
+and since he is absolutely subject to the will and control of Iśvara,  
+he cannot protect himself;  
+is it proper then to prescribe a means or upāya  
+as necessary to be adopted by him for his protection  
+and to call this an upāya that is capable of being adopted by him?  
+</details>
+
+<details><summary>Español</summary>
+
+(f) **Se puede preguntar**,
+
+> **“Sea** lo que **sea**, ya que el Jīva **existe** únicamente para Iśvara (śeṣa),   
+**No se espera** que **se proteja**  
+y dado que **está** absolutamente sujeto a la voluntad y el control de Iśvara,  
+**No puede protegerse** a sí mismo;  
+¿**Es apropiado prescribir** un medio o upāya  
+según **sea necesario** para ser **adoptado** por él para su **protección** 
+Y **llamar** a esto un upāya que **sea capaz** de **ser adoptado** por él?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩालुम् शेषभूतऩागैयाले तऩ्ऩैत् ताऩ् रक्षित्तुक् कॊळ्ळप् प्राप्तऩुमऩ्ऱिक्के अत्यन्तपरतन्त्रऩागैयाले तऩ्ऩैत्ताऩ् रक्षित्तुक्कॊळ्ळ शक्तऩुमऩ्ऱिक्केयिरुक्किऱविवऩुक्कु स्वरक्षणार्थमाग कर्तव्यमॆऩ्ऱॊरु उपायत्तै विधिक्कैयुम् अदिवऩुक्कु साध्यमाय् साध्योपायमॆऩ्ऱु पेर् पॆऱुगिऱदॆऩ्ऱु सॊल्लुगैयुम् उपपन्नमो? 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > आऩ पिऩ्बु भक्ति-योगादिगळ् शेषत्वानुरूपङ्गळ् अल्लामैयाले  
+स्व-रूपत्तिऱ्क् अनिष्ठावहङ्गळ् 
+> 
+> ऎऩ्ऱुम्, 
+> 
+> > अत्यन्त-पारतन्त्र्य-विरुद्धङ्गळ् आगैयाले  
+असंभावितङ्गळ् 
+> 
+> ऎऩ्ऱुञ् जॊल्ल वॊण्णादोव् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+> When this is so, bhakti yoga and the like  
+are productive of evil to the essential nature of the self (svarūpa);  
+as they are inconsistent with his being a śeṣa who exists only for Iśvara  
+> 
+> and are not possible of adoption,  
+as they are inconsistent with his being absolutely under the will and control of Iśvara". 
+</details>
+
+<details><summary>Español</summary>
+
+> Cuando esto **es** así, bhakti yoga y similares  
+**son productivos** del mal a la naturaleza esencial del yo (svarūpa);  
+Como **son inconsistentes** con que **sea** un Śeṣa que **existe** solo para Iśvara
+>
+> y **no son posibles de adopción**,  
+ya que **son** inconsistentes  
+con que **estén** absolutamente bajo la voluntad y el control de Iśvara ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩ पिऩ्बु भक्तियोगादिगळ् शेषत्वानुरूपङ्गळल्लामैयाले स्वरूपत्तिऱ्कनिष्ठावहङ्गळॆऩ्ऱुम्, अत्यन्तपारतन्त्र्यविरुद्धङ्गळागैयाले असंभावितङ्गळॆऩ्ऱुञ् जॊल्लवॊण्णादोवॆऩ्ऩिल्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु सर्व-मोक्ष-प्रसङ्गादिगळाले मुऩ्बे परिहृतम्। 
+</details>
+
+<details><summary>English</summary>
+
+This objection has already been answered as leading to the logical conclusion of the possibility of salvation for all. 
+</details>
+
+<details><summary>Español</summary>
+
+Esta objeción ya **ha sido respondida** que **conduce** a la conclusión lógica de la posibilidad de **salvación** para todos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु सर्वमोक्षप्रसङ्गादिगळाले मुऩ्बे परिहृतम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩ् सॆय्दद् ऒरु व्याजङ् गॊळ्ळादे  
+मुक्तऩ् आक्किल्  
+अनादिय् आग मुक्तऩ् आगप् प्रसङ्गिक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+If the Lord were to grant a jīva mukti or salvation without any consideration (vyāja) whatsoever,  
+the jīva should be a mukta from beginning less time.
+</details>
+
+<details><summary>Español</summary>
+
+Si el Señor **otorgara** un Jīva Mukti o **salvación** sin ninguna **consideración** (Vyāja) alguna,  
+El Jīva **debería ser** un Mukta desde que **comienza** menos tiempo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩ् सॆय्ददॊरु व्याजङ्गॊळ्ळादे मुक्तऩाक्किल् अनादियाग मुक्तऩागप् प्रसङ्गिक्कुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वरऩ् केवल-स्वातन्त्र्यत्ताले निऩैत्त बोदु मुक्तऩ् आक्किल्  
+वैषम्य-नैर्घृण्यादि-दोषङ्गळुम् वरुम्। 
+</details>
+
+<details><summary>English</summary>
+
+If it is held that Iśvara, being independent and omnipotent,  
+makes a man a mukta whenever He is pleased,  
+it would mean that he is partial to some and cruel to others.  
+Similar heresies would follow. 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se sostiene** que Iśvara, **siendo** independiente y omnipotente,  
+**hace** de un hombre un mukta cada vez que **está** satisfecho,  
+Significaría que **es** parcial para algunos y crueles para otros.  
+Las herejías similares **seguirían**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩ् केवलस्वातन्त्र्यत्ताले निऩैत्तबोदु मुक्तऩाक्किल् वैषम्यनैर्घृण्यादिदोषङ्गळुम् वरुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मोक्षोपायविधायकङ्गळ् आऩ शास्त्रङ्गळुम् ऎल्लाम् निरर्थकङ्गळुम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+Further those śāstras which prescribe the means for attaining mukti would become meaningless. 
+</details>
+
+<details><summary>Español</summary>
+
+Además, aquellos Śāstras que **prescriben** los medios para **alcanzar** Mukti **no dejarían** sin sentido.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मोक्षोपायविधायकङ्गळाऩ शास्त्रङ्गळुमॆल्लाम् निरर्थकङ्गळुमाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् इश् शेषत्वत्ताल् वगुत्त विषयत्तैप् पऱ्ऱुगैयिल्  
+औचित्यमुम्,  
+उडैयवऩ् उडैमैयै रक्षिक्कैयिल् औचित्यमुम्  
+उण्ड् आम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् इश्शेषत्वत्ताल्वगुत्त विषयत्तैप्पऱ्ऱुगैयिल् औचित्यमुम्, उडैयवऩ् उडैमैयै रक्षिक्कैयिल् औचित्यमुमुण्डाम्। 
+</details>
+
+
+
+Therefore in adopting this means enjoined as the result of the jīva's being a śeṣa there is appropriateness and also a like appropriateness in the owner protecting what is his own. It would become possible to adopt such means as are agreeable to Him with the help of the measure of independence granted (to us) by Him as the Supreme Controller and to expect His favour in regard to the fruit or object of attainment. This śeṣatva or existing solely for the Lord and being absolutely subject to His will and control - these two will help, in the stage of realisation, to perform the kind of service that is agreeable to Him as that ordained by Him.
 
 If these objectors hold that, on account of the knowledge of being the śeṣa and of entire dependence on Iśvara, the jīva should make no effort for his own protection, it would follow that the service (kaiṅkarya ) rendered in accordance with the śāstras for the attainment of the Lord's favour and so also prapatti which is prescribed as possible, would he beyond his competence, because they are understood as being opposed to his essential nature. We have already stated that prapatti is capable of being adopted as a means in as much as it has been prescribed in the words "saranam vraja" (seek refuge), as something that has to be performed over and above the mere knowledge of the relationship (between the jīva and Iśvara ) arising from the texts. Therefore there is no inappropriateness in the jīva, who exists only for the Lord and who is entirely subject to His control, adopting such means of his own for his protection as he is competent to adopt,
 
