@@ -7605,7 +7605,7 @@ y quien **está** completamente **sujeto** a su control,
 </details>
 
 
-### पारमैकान्त्य-विरुद्धं न
+### पारमैकान्त्य-विरुद्धो न धर्मः
 
 <details><summary>English</summary>
 
@@ -7617,9 +7617,170 @@ THE OBJECTION THAT THE RITES OF VARŅA AND ĀŚRAMA AND BHAKTI YOGA ARE INCONSIS
 La **objeción** de que los ritos de Varņa y āśrama y bhakti yoga **son** inconsistentes con la **devoción** exclusiva al Señor.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आऩालुम् अनन्यार्ह-शेष-भूतऩ् आगत् तऩ्ऩैत् तॆळिन्दु  
+परमैकान्तिय् आय् इरुक्किऱ इवऩुक्कु  
+>
+> देवतान्तर द्वारकङ्गळ् आऩ वर्णाश्रम-धर्मङ्गळुम्,  
+अवऱ्ऱैय् इतिकर्तव्यतैय् आगव् उडैत्ताऩ भक्ति-योगादिगळुम्   
+ऐकान्त्य-विरुद्धङ्गळ् अऩ्ऱो;
+</details>
+
+<details><summary>English</summary>
+
+> (g) However, it may be stated,  
+since the jīva has understood clearly that He exists solely for Iśvara and for no other,  
+it is opposed to his nature as a supreme and exclusive devotee of the Lord  
+> 
+> to practise the rites (dharma ) ordained for his varṇa and āśrama,  
+because they imply the mediatorship of other deities (like Agni, Surya and Varuna)  
+and also to practise such things as bhakti yoga which have these rites as their aṅga or accessory. 
+</details>
+
+<details><summary>Español</summary>
+
+> (g) Sin embargo, **se puede afirmar**,  
+Dado que el Jīva **ha entendido** claramente que **existe** únicamente para Iśvara y para ningún otro,  
+**se opone** a su naturaleza como devoto supremo y exclusivo del Señor  
+>
+> **practicar** los ritos (dharma) **ordenados** por su varṇa y āśrama,  
+Porque **implican** la **mediación** de otras deidades (como Agni, Surya y Varuna)  
+y también para **practicar** cosas como Bhakti Yoga que tienen estos ritos como su AṅGA o **accesorio**.
+</details>
 
 
-(g) However, it may be stated, since the jīva has understood clearly that He exists solely for Iśvara and for no other, it is opposed to his nature as a supreme and exclusive devotee of the Lord to practise the rites (dharma ) ordained for his varṇa and āśrama, because they imply the mediatorship of other deities (like Agni, Surya and Varuna) and also to practise such things as bhakti yoga which have these rites as their aṅga or accessory. It is only śuddha yājis[Śuddha Yajis . Those whose adoration is solely to Bhagavān without any intermediary like Agni, Varuna and the like.] who worship the Lord alone (without any reference to other deities) that deserve to be called men with supreme and exclusive devotion to the Lord (paramaikānti)". This objection can arise only from a lack of clear understanding of the conclusion arrived at in such treatises as Śrī Bhāṣya. It may be asked how. The answer is that in such vidyās as Pratardana and Madhu vidyā, it is distinctly stated that the Supreme Being is to be worshipped or meditated upon by the aspirant for mukti as having Indra and other deities as His body. The author of Śrī Bhāṣya has declared that in regard to the rites and duties of the varṇa and āśrama also, which are aṅgas or accessories to the vidyās, the object of worship or meditation is only the Supreme Self who has the respective deities as His body. Therefore what is opposed to exclusive devotion to the Lord is the worship of other deities as if they were independent, and also connection with other deities owing to a desire for certain specific fruits, when these deities have nothing to do with the rites and duties which are compulsory and recurrent (nitya ) as well as those which are incidental and occasional (naimittika ). There is no opposition to supreme and exclusive devotion to the Lord in performing one's ordained rites and duties without any attachment to or desire for any other fruit and with the thought that these deities are attributes of the Lord and that such words as Agni denote the Lord who has Agni and the like as His body or attributes. There is no opposition to exclusive devotion, likewise, in following the principle: "These words (Agni, Indra etc.) directly denote, by their etymological significance, the Supreme Self. It is not improper to think so. So says Jaimini", for these are rites and duties enjoined (in the śāstras).
+<details><summary>मूलम्</summary>
+
+आऩालुम् अनन्यार्हशेषभूतऩागत् तऩ्ऩैत् तॆळिन्दु परमैकान्तियायिरुक्किऱ इवऩुक्कु देवतान्तर द्वारकङ्गळाऩ वर्णाश्रमधर्मङ्गळुम् अवऱ्ऱैयितिकर्तव्यतैयागवुडैत्ताऩ भक्तियोगादिगळुम् ऐकान्त्यविरुद्धङ्गळऩ्ऱो;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> शुद्ध-याजिगळुक्क् अऩ्ऱो परमैकान्तित्वङ् कूडुवद् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+>  It is only śuddha yājis who worship the Lord alone (without any reference to other deities)  
+that deserve to be called men with supreme and exclusive devotion to the Lord (paramaikānti)". 
+
+[Śuddha Yajis - Those whose adoration is solely to Bhagavān without any intermediary like Agni, Varuna and the like.] 
+</details>
+
+<details><summary>Español</summary>
+
+> **Es** solo Śuddha Yājis quien **adora** al Señor solo (sin ninguna **referencia** a otras deidades)  
+Eso **merece ser llamados** hombres con **devoción** suprema y exclusiva al Señor (Paramaikānti) ".
+
+[Śuddha Yajis: aquellos cuya **adoración** es únicamente a Bhagavān sin ningún intermediario como Agni, Varuna y similares.] 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शुद्धयाजिकळुक्कऩ्ऱो परमैकान्तित्वङ्गूडुवदॆऩ्ऩिल्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु भाष्यादिगळिल् निष्कर्षन् तॆळियामैय् अडिय् आग वन्द चोद्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+This objection can arise only from a lack of clear understanding of the conclusion arrived at in such treatises as Śrī Bhāṣya. 
+</details>
+
+<details><summary>Español</summary>
+
+Esta **objeción** solo puede **surgir** de la falta de una **comprensión** clara de la **conclusión** a la que llegó en tratados como Śrī Bhāṣya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु भाष्यादिगळिल् निष्कर्षन्तॆळियामैयडियाग वन्द चोद्यम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्; 
+
+> प्रतर्दनादि-विद्यैगळिल्  
+परमात्मा इन्द्रादि-शरीरकऩ् आग  
+मुमुक्षुवुक्कु उपास्यऩ् 
+
+ऎऩ्ऱ् अऱुदिय् इट्टार्। 
+</details>
+
+<details><summary>English</summary>
+
+It may be asked how.  
+The answer is that 
+
+> in such vidyās as Pratardana and Madhu vidyā,  
+it is distinctly stated that the Supreme Being is to be worshipped or meditated upon by the aspirant for mukti  
+as having Indra and other deities as His body. 
+</details>
+
+<details><summary>Español</summary>
+
+**Se puede preguntar** cómo.
+La **respuesta** es que
+
+> En Vidyās como Pratardana y Madhu Vidyā,  
+**Se afirma** claramente que el **ser** supremo debe **ser adorado o meditado** por el aspirante para Mukti  
+como **tener** a Indra y otras deidades como su cuerpo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्; प्रतर्दनादिविद्यैकळिल् परमात्मा इन्द्रादिशरीरकऩागमुमुक्षुवुक्कु उपास्यऩॆऩ्ऱऱुदियिट्टार्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विद्याङ्गम् आऩ वर्णाश्रम-धर्मङ्गळिलुम्  
+अव्वो देवतैगळै शरीरम् आगक् कॊण्डु निऱ्किऱ परमात्मावे आराध्यऩ् 
+
+ऎऩ्ऱु निष्कर्षित्तार्।
+</details>
+
+<details><summary>English</summary>
+
+The author of Śrī Bhāṣya has declared that 
+
+> in regard to the rites and duties of the varṇa and āśrama also,  
+which are aṅgas or accessories to the vidyās,  
+the object of worship or meditation is only the Supreme Self  
+who has the respective deities as His body. 
+</details>
+
+<details><summary>Español</summary>
+
+The author of Śrī Bhāṣya has declared that 
+
+> in regard to the rites and duties of the varṇa and āśrama also,  
+which are aṅgas or accessories to the vidyās,  
+the object of worship or meditation is only the Supreme Self  
+who has the respective deities as His body. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विद्याङ्गमाऩ वर्णाश्रमधर्मङ्गळिलुम् अव्वो देवतैगळै शरीरमागक् कॊण्डु निऱ्किऱ परमात्मावे आराध्यऩॆऩ्ऱु निष्कर्षित्तार्।
+</details>
+
+
+
+
+Therefore what is opposed to exclusive devotion to the Lord is the worship of other deities as if they were independent, and also connection with other deities owing to a desire for certain specific fruits, when these deities have nothing to do with the rites and duties which are compulsory and recurrent (nitya ) as well as those which are incidental and occasional (naimittika ). There is no opposition to supreme and exclusive devotion to the Lord in performing one's ordained rites and duties without any attachment to or desire for any other fruit and with the thought that these deities are attributes of the Lord and that such words as Agni denote the Lord who has Agni and the like as His body or attributes. There is no opposition to exclusive devotion, likewise, in following the principle: "These words (Agni, Indra etc.) directly denote, by their etymological significance, the Supreme Self. It is not improper to think so. So says Jaimini", for these are rites and duties enjoined (in the śāstras).
 
 (h) "But", it may be argued again, "the śāstras have enjoined also rites for such things as bewitchment ( abhichāra)[^69] to produce conviction. In the same manner, the forms of meditation (or upāsana ) have been enjoined only in order to produce conviction or faith in the efficacy of what is prescribed (by the śāstras) viz., prapatti. It does not mean that they are to be performed. To the aspirant for mukti, the end or object of attainment and the means of attaining it are both one and the same. Therefore the means favourable for the attainment of that end is only Iśvara, It is on account of this that the god presiding over dharma condemned upāsanas as opposed to the end in view, while saying to his son :-"O, "Bharata, If you are afraid of sins, do not begin any activity and remain with the thought that Nārāyaṇa is the only end to be attained with all your heart." This argument too, is not tenable for the following reasons:
 
