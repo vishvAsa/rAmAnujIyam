@@ -8009,10 +8009,17 @@ porque estos **son** ritos y **deberes orientados** (en los Śāstras).
 
 (h) It may be argued again,  
 
-> "But the śāstras have enjoined also rites for such things as bewitchment ( abhichāra)[^69] to produce conviction.  
+> "But the śāstras have enjoined also rites for such things as bewitchment ( abhichāra) to produce conviction.  
 In the same manner, the forms of meditation (or upāsana ) have been enjoined  
 only in order to produce conviction or faith in the efficacy of what is prescribed (by the śāstras) viz., prapatti.  
+
+It does not mean that they are to be performed.  
+
+(The Vedas prescribe the rites called abhichara for causing the death of one's enemy.  
+They do so in order that by seeing the effect,  
+men may have faith in the śāstra.)
 </details>
+
 
 <details><summary>Español</summary>
 
@@ -8021,25 +8028,283 @@ only in order to produce conviction or faith in the efficacy of what is prescrib
 > "Pero los śāstras también **han ordenado** ritos para cosas como **embrujos** (abhichāra) [^69] para **producir convicción**.  
 De la misma manera, las formas de **meditación** (o upāsana) **se han ordenado**  
 Solo para **producir convicción** o fe en la eficacia de lo que **se prescribe** (por los Śāstras) a saber, Prapatti.
+
+**No significa** que **deben realizarse**.
+
+(Los Vedas **prescriben** los ritos **llamados** Abhichara por **causar** la **muerte** del enemigo.  
+Lo hacen para que al **ver** el efecto,  
+Los hombres **pueden tener** fe en el Śāstra.)
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-आऩालुम् अभिचारादिगळै विधित्त कट्टळैयिले शास्त्रप्ररोचनादिगळि लभिसन्धियाले अधिकारिविशेषत्तिले उपासनादिगळै विधित्तदत्तऩै यऩ्ऱो; 
+आऩालुम् अभिचारादिगळै विधित्त कट्टळैयिले शास्त्रप्ररोचनादिगळि लभिसन्धियाले अधिकारिविशेषत्तिले उपासनादिगळै विधित्तदत्तऩैयऩ्ऱो; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुमुक्षुवुक्कु प्राप्य-प्रापकङ्गळ् एकम् आगैयाले  
+प्राप्यानुरूपम् आऩ उपायम् सर्वेश्वरऩ् ऒरुवऩुमे; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> मुमुक्षोः प्राप्य-प्रापकयोर् एकत्वात्  
+प्राप्यानुरूप उपायः सर्वेश्वर एक एव ।  
+</details>
+
+
+<details><summary>English</summary>
+
+To the aspirant for mukti,  
+the end or object of attainment  
+and the means of attaining it  
+are both one and the same.  
+Therefore the means favourable for the attainment of that end is only Iśvara. 
+</details>
+
+<details><summary>Español</summary>
+
+Al **aspirante** de Mukti,  
+el fin o el objeto de **logro**  
+y los medios para **alcanzarlo**  
+son uno y lo mismo.  
+Por lo tanto, el medio favorable para el **logro** de ese fin **es** solo Iśvara.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुवुक्कु प्राप्यप्रापकङ्गळ् एकमागैयाले प्राप्यानुरूपमाऩ उपायम् सर्वेश्वरऩॊरुवऩुमे; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आगैयालेय् अऩ्ऱो 
+> 
+> > ‘‘अथ पातक-भीतस् त्वं  
+सर्वभावेन भारत ।  
+विमुक्तान्य-समारम्भो  
+नारायण-परो भव॥’’  
+(विष्णुधर्मः ६६-७२)  
+>
+> ऎऩ्ऱु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अत एव हि 
+> 
+> > ‘‘अथ पातक-भीतस् त्वं  
+सर्वभावेन भारत ।  
+विमुक्तान्य-समारम्भो  
+नारायण-परो भव॥’’  
+(विष्णुधर्मः ६६-७२)  
+>
+> इति 
+</details>
+
+
+<details><summary>English</summary>
+
+> It is on account of this 
+> 
+> > "O, Bharata, If you are afraid of sins,  
+do not begin any activity  
+and remain with the thought that  
+Nārāyaṇa is the only end to be attained  
+with all your heart." 
+</details>
+
+<details><summary>Español</summary>
+
+> **Es** por esto
+>
+>> "O, Bharata, si **tienes** miedo de los pecados,  
+**No comience** ninguna **actividad**  
+y **permanecer** con la idea de que  
+Nārāyaṇa **es** el único final que **se alcanza**  
+con todo tu corazón ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयालेयऩ्ऱो ‘‘अथ पातकभीतस्त्वं सर्वभावेन भारत । विमुक्तान्यसमारंभो नारायणपरो भव’’(विष्णुधर्मः ६६-७२) ऎऩ्ऱु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> धर्म-देवतै  
+तऩ् पुत्रऩुक्कु उपासनादिगळै प्राप्य-विरोधिगळ् ऎऩ्ऱु निऩैत्तु  
+निन्दित्तद् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> धर्म-देवता स्व-पुत्रायोपदेशे  
+उपासनादिकं प्राप्य-विरोधीति मत्वा निनिन्द
+
+इति चेत् 
+</details>
+
+
+
+<details><summary>English</summary>
+
+> that the god presiding over dharma  
+condemned upāsanas as opposed to the end in view,  
+while saying to his son (the above) 
+</details>
+
+<details><summary>Español</summary>
+
+> que el dios **presidiendo** sobre el dharma  
+**condenado** upāsanas en lugar del final a la vista,  
+mientras le **dice** a su hijo (lo anterior)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+धर्मदेवतै तऩ् पुत्रऩुक्कु उपासनादिगळै प्राप्यविरोधिकळॆऩ्ऱु निऩैत्तु निन्दित्तदॆऩ्ऩिल्; 
+</details>
+
+#### फल-भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदुवुम् अनुपपन्नम्। ऎङ्ङऩेय् ऎऩ्ऩिल्; 
+
+अभिचारादिगळ् फल-विशेषम् अडिय् आगव् इऱे  
+अनर्थ-हेतुक्कळ् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तद् अप्य् अत्यन्तानुपपन्नम् ।  
+कथम् इति चेत् —–  
+
+अभिचारादीनि फल-विशेष-मूलकतया किलानर्थहेतवो भवन्ति । 
+</details>
+
+
+<details><summary>English</summary>
+
+This argument too, is not tenable for the following reasons:
+
+(1) The rites of bewitchment ( abhichāra) and the like are sources of evil,  
+because they are performed for purposes or fruits that are evil.  
+</details>
+
+<details><summary>Español</summary>
+
+Este argumento **tampoco es sostenible** por las siguientes razones:
+
+(1) Los ritos del **hechizo** (abhichāra) y similares **son fuentes** del mal,  
+Porque se **realizan** para fines o frutas que **son** malvadas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदुवुम् अनुपपन्नम्। ऎङ्ङऩेयॆऩ्ऩिल्; अभिचारादिगळ् फलविशेषमडियागविऱेअनर्थहेतुक्कळायिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु फलम् मोक्षम् आऩ बडियाले  
+अम्-मुखत्ताल् अनर्थ-प्रसङ्गम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+Since bhakti or upāsana is enjoined for attaining mokṣa,  
+it cannot be a source of evil.
+</details>
+
+<details><summary>Español</summary>
+
+Dado que Bhakti o Upāsana **se practica** por **alcanzar** mokṣa,  
+**No puede ser** una **fuente** de maldad.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु फलम् मोक्षमाऩबडियाले अम्मुखत्ताल् अनर्थप्रसङ्गमिल्लै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र फलस्य मोक्ष-रूपत्वात्  
+तन्-मुखेनानर्थप्रसङ्गो नास्ति । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एकाधिकारि-विषयत्तिले एक-फलत्तुक्कु  
+गुरुव् आय् इरुप्पद् ऒऩ्ऱै उपायम् आगक् काट्टि  
+लघुव् आय् इरुप्पद् ऒऩ्ऱिले रुचियैप् पिऱप्पिक्किऱद्  
+
+ऎऩ्गै +++("भक्त्या न मोक्षोपायो विहित" इत्यपि वदतां भवताम् एव)+++ विवक्षित-विपरीतम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एकाधिकारि-विषये +एक-फलार्थं  
+गुरु-भृतं किम् अपि उपायत्वेन प्रदर्श्य  
+लघु-भूते कस्मिंश्चित् रच्य्-उत्पादनम् 
+
+इत्य्-एतत् +++("भक्त्या न मोक्षोपायो विहित" इत्यपि वदतां भवताम् एव)+++  विवक्षित-विपरीतम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+(2) It would be inconsistent with the view of these critics  
+to hold that bhakti or upāsana is enjoined only to produce an eager desire for the adoption of an easier means, viz., prapatti,  
+by describing a more difficult means, viz, bhakti,  
+for they hold that bhakti is no means at all (to attain mokṣa). 
+</details>
+
+<details><summary>Español</summary>
+
+(2) **Sería** inconsistente con la opinión de estos críticos  
+**Sostener** que Bhakti o Upāsana **se ordena** solo para **producir** un **deseo** ansioso por la **adopción** de un medio más fácil, a **saber**, Prapatti,  
+Al **describir** un medio más difícil, a **saber**, bhakti,  
+porque **sostienen** que Bhakti **no es** nada medio (para alcanzar mokṣa).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एकाधिकारिविषयत्तिले एकफलत्तुक्कु गुरुवायिरुप्प तॊऩ्ऱै उपायमागक् काट्टि लघुवायिरुप्पदॊऩ्ऱिले रुचियैप् पिऱप्पिक्किऱदॆऩ्गै विवक्षितविपरीतम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्गत्तिले अङ्गि-फल-निर्देशम् आय्  
+स्तुति-मात्रम् आय् इऱे  
+अप्-पोदु फलिप्पदु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अङ्गत्तिले अङ्गिफलनिर्देशमाय् स्तुतिमात्रमायिऱे अप्पोदु फलिप्पदु। 
 </details>
 
 
 
 
-It does not mean that they are to be performed.  
-To the aspirant for mukti, the end or object of attainment and the means of attaining it are both one and the same. Therefore the means favourable for the attainment of that end is only Iśvara, It is on account of this that the god presiding over dharma condemned upāsanas as opposed to the end in view, while saying to his son :-"O, "Bharata, If you are afraid of sins, do not begin any activity and remain with the thought that Nārāyaṇa is the only end to be attained with all your heart." This argument too, is not tenable for the following reasons:
-
-[^69]: The Vedas prescribe the rites called abhichara for causing the death of one's enemy. They do so in order that by seeing the effect, men may have faith in the śāstra.
-
-(1) The rites of bewitchment ( abhichāra) and the like are sources of evil, because they are performed for purposes or fruits that are evil. Since bhakti or upāsana is enjoined for attaining mokṣa, it cannot be a source of evil:
-
-(2) It would be inconsistent with the view of these critics to hold that bhakti or upāsana is enjoined only to produce an eager desire for the adoption of an easier means, viz., prapatti, by describing a more difficult means, viz, bhakti, for they hold that bhakti is no means at all (to attain mokṣa). Besides, bhakti does not yield its fruit in this life but only after it. So it cannot create faith or conviction in the other means prescribed, viz., prapatti. Men generally adopt, of their own accord, the easier means in preference to the more difficult means. The success of the easier means in producing the desired result will create faith or conviction in regard to the more difficult means and not vice versa. So the more difficult upāya cannot cause faith in the efficacy of the easier means. It will, therefore, have to be argued in support of their view that, when certain fruits or good results which will arise from a main rite or angī are stated to arise from its aṅga or accessory rite, it should be considered only as arthavada or mere praise having no literal truth according to a principle (or nyāya) of the Mimamsakas. Here mokṣa is really the fruit of prapatti, which is the angī and this fruit is, in the view of these critics, for the sake of mere praise (which is not true), assigned to its aṅga bhakti also. So, bhakti is, according to them, really not capable of yielding mokṣa. This argument, too, is no good as it would be inconsistent with the contention of these critics, for they would then have to admit that bhakti is an aṅga or accessory of prapatti (which they deny).
+Besides, bhakti does not yield its fruit in this life  
+but only after it.  
+So it cannot create faith or conviction in the other means prescribed, viz., prapatti. Men generally adopt, of their own accord, the easier means in preference to the more difficult means. The success of the easier means in producing the desired result will create faith or conviction in regard to the more difficult means and not vice versa. So the more difficult upāya cannot cause faith in the efficacy of the easier means. It will, therefore, have to be argued in support of their view that, when certain fruits or good results which will arise from a main rite or angī are stated to arise from its aṅga or accessory rite, it should be considered only as arthavada or mere praise having no literal truth according to a principle (or nyāya) of the Mimamsakas. Here mokṣa is really the fruit of prapatti, which is the angī and this fruit is, in the view of these critics, for the sake of mere praise (which is not true), assigned to its aṅga bhakti also. So, bhakti is, according to them, really not capable of yielding mokṣa. This argument, too, is no good as it would be inconsistent with the contention of these critics, for they would then have to admit that bhakti is an aṅga or accessory of prapatti (which they deny).
 
 The means or upāya, that is favoured by Iśvara, who is the object of attainment, can be understood only from the śāstra (and it is no use asserting that bhakti is not favoured by Him). Reason is not competent to say that the means, viz., bhakti is opposed to the end in view (Bhagavān). If we are to object to any one thing that is prescribed in the stāstras by reasoning which is against the śāstra, there would, by parity of reasoning, be no validity in any of the things or dharmas prescribed in the śāstras and, likewise, in the śastras prescribing prapatti as well.
 
