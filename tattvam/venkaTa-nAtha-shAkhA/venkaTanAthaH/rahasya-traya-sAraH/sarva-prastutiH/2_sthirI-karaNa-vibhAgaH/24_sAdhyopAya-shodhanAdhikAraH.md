@@ -7064,6 +7064,8 @@ La objeción que el Jīva que **depende** completamente del Señor
 **No puede ni debe adoptar** un upāya.
 </details>
 
+#### शङ्का
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > आऩालुम् शेष-भूतऩ् आगैयाले  
@@ -7198,7 +7200,7 @@ con que **estén** absolutamente bajo la voluntad y el control de Iśvara ".
 </details>
 
 
-
+#### व्याजापेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु सर्व-मोक्ष-प्रसङ्गादिगळाले मुऩ्बे परिहृतम्। 
@@ -7366,14 +7368,23 @@ y también una idoneidad similar en el propietario que **protege** lo suyo.
 इश् शेषत्वत्ताल् वगुत्त विषयत्तै इत्यादिना । 
 </details>
 
+#### दत्ताल्प-स्वातन्त्र्य-प्रयोगः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्यन्त-पारतन्त्र्यत्ताल्  
-अवऩ् कॊडुत्त स्वातन्त्र्यत्तैच् चुमन्दु  
-अवऩुक्क् अभिमतङ्गळ् आऩ उपायङ्गळै अनुष्ठिक्कैयुम्  
+अवऩ् कॊडुत्त स्वातन्त्र्यत्तैच् चुमन्दु+++(=ऊढ्वा)+++  
+अवऩुक्क् अभिमतङ्गळ् आऩ उपायङ्गळै अनुष्ठिक्कैयुम्,  
 फलम् पॆऱुगैक्क् अवऩ् कै पार्त्त् इरुक्क वेण्डुगैयुम्  
 सिद्धिक्कुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्यन्त-पारतन्त्र्येण चास्य  
+तत्-प्रत्त-स्वातन्त्र्य-वहन-पूर्वं तद्-अभिमतोपायानाम् अनुष्ठानं,  
+फल-प्राप्तये तद्-+धस्त-प्रतीक्षणावश्यम्-भावश् च सिध्येत् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7395,30 +7406,218 @@ y **esperar** su favor con respecto al fruto u objeto de **logro**.
 अत्यन्तपारतन्त्र्यत्ताल् अवऩ् कॊडुत्त स्वातन्त्र्यत्तैच् चुमन्दु अवऩुक्कभिमतङ्गळाऩ उपायङ्गळै अनुष्ठिक्कैयुम् फलम् पॆऱुगैक्कवऩ् कैबार्त्तिरुक्कवेण्डुगैयुम् सिद्धिक्कुम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
+अत्यन्त-पारतन्त्र्य-कार्यत्तैक् काट्टुगिऱार् अत्यन्त-पारतन्त्र्यत्ताल् इत्य्-आदिना । 
+</details>
 
+#### कैङ्कर्ये शेषत्व-पारतन्त्र्ये
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इश् शेषत्व-पारतन्त्र्यङ्गळ्  
-इरण्डुम् फल-दशैयिल्  
-अवऩ् उगन्द कैङ्कर्यत्तै  
-अवऩिट्ट वऴक्क् आग नडत्तुगैक्कुम् उऱुप्प् आम्। 
+इश् शेषत्व-पारतन्त्र्यङ्गळ् इरण्डुम्  
+फल-दशैयिल् अवऩ् उगन्द कैङ्कर्यत्तै  
+अवऩ् इट्ट वऴक्क् आग नडत्तुगैक्कुम्  
+उऱुप्प्+++(=अङ्गम् →कारणम्)+++ आम्।  
++++(अतः … )+++  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमे शेषत्व-पारतन्त्र्ये उभे  
+फल-दशायां तद्-अभिमत-कैङ्कर्यस्य  
+तद्-आज्ञप्त-पद्धत्या करणस्य हेतू भवतः ।   
++++(अतः … )+++  
+</details>
+
+<details><summary>English</summary>
+
+This śeṣatva or existing solely for the Lord,  
+and being absolutely subject to His will and control -  
+these two will help, in the stage of realisation,  
+to perform the kind of service  
+that is agreeable to Him  
+as that ordained by Him.
+</details>
+
+<details><summary>Español</summary>
+
+Este Śeṣatva o **existente** únicamente para el Señor,  
+y **estar** absolutamente sujeto a su voluntad y control -  
+Estos dos **ayudarán**, en la etapa de realización,  
+Para **realizar** el tipo de **servicio**  
+que **es** agradable para él  
+como lo **ordenado** por él.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इश्शेषत्वपारतन्त्र्यङ्गळिरण्डुम् फलदशैयिलवऩुगन्द कैङ्कर्यत्तै अवऩिट्ट वऴक्काग नडत्तुगैक्कुमुऱुप्पाम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-This śeṣatva or existing solely for the Lord and being absolutely subject to His will and control -  
-these two will help, in the stage of realisation, to perform the kind of service  
-that is agreeable to Him  
-as that ordained by Him.
+प्रसङ्गात् शेषत्वपारतन्त्र्यङ्गळुक्कु  
+फलदशैयिल् उपयोगत्तैक् काट्टुगिऱार् इश् शेषत्व-पारतन्त्र्यङ्गळ् इरण्डुम् इत्यादिना ।  
+</details>
 
-If these objectors hold that, on account of the knowledge of being the śeṣa and of entire dependence on Iśvara, the jīva should make no effort for his own protection, it would follow that the service (kaiṅkarya ) rendered in accordance with the śāstras for the attainment of the Lord's favour and so also prapatti which is prescribed as possible, would he beyond his competence, because they are understood as being opposed to his essential nature. We have already stated that prapatti is capable of being adopted as a means in as much as it has been prescribed in the words "saranam vraja" (seek refuge), as something that has to be performed over and above the mere knowledge of the relationship (between the jīva and Iśvara ) arising from the texts. Therefore there is no inappropriateness in the jīva, who exists only for the Lord and who is entirely subject to His control, adopting such means of his own for his protection as he is competent to adopt,
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवैय्-अडिय् आग  
+स्व-रक्षणार्थ--स्व-व्यापारम् आगाद् 
+
+ऎऩ्बार्क्कुत्  
+ताङ्गळ् यथा-शास्त्रं भगवत्-प्रीत्य्-आदि-फलत्तैक् कोलि अनुष्ठिक्किऱ कैङ्कर्यत्तिलुम्  
+साध्यम् आग विधिक्कप् पडुगिऱ प्रपत्ति-तऩ्ऩिलुम्  
+स्व-रूप--विरोध-बुद्धियाले अधिकारम् इल्लैय् आम्। +++(4)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एते हेतूकृत्य स्वरक्षणार्थ-स्वव्यापारो न युज्यत 
+
+इति वदताम्,  
+स्वेन यथा-शास्त्रं भगवत्-प्रीत्य्-आदि-फलम् उद्दिश्यानुष्ठीयमाने कैङ्कर्ये,  
+साध्यत्वेन विधीयमानायां प्रपत्तौ च  
+स्व-रूप--विरोध-बुद्ध्या ऽधिकारो न स्यात् । 
+</details>
+
+
+<details><summary>English</summary>
+
+If these objectors hold that, 
+
+> on account of the knowledge of being the śeṣa  
+and of entire dependence on Iśvara,  
+the jīva should make no effort for his own protection,  
+it would follow that the service (kaiṅkarya ) rendered in accordance with the śāstras  
+for the attainment of the Lord's favour  
+and so also prapatti which is prescribed as possible,  
+would be beyond his competence,  
+because they are  understood as being opposed to his essential nature. 
+</details>
+
+<details><summary>Español</summary>
+
+Si estos objetores lo **sostienen**,
+
+> Debido al **conocimiento** de **ser** el Śeṣa  
+y de toda la **dependencia** de Iśvara,  
+El Jīva **no debería hacer** ningún esfuerzo por su propia protección,  
+**Seguiría** que  
+> 
+> el **servicio** (Kaiṅkarya) **prestó** de acuerdo con los śāstras  
+Para el **logro** del favor del Señor  
+y también Prapatti que **se prescribe** como **sea posible**,  
+**estaría** más allá de su competencia,  
+>
+> Porque **se entiende** como **oponerse** a su naturaleza esencial.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवैयडियाग स्वरक्षणार्थस्वव्यापारमागा तॆऩ्बार्क्कुत् ताङ्गळ् यथाशास्त्रं भगवत्प्रीत्यादिफलत्तैक् कोलि अनुष्ठिक्किऱ कैङ्कर्यत्तिलुम् साध्यमाग विधिक्कप्पडुगिऱ प्रपत्तितऩ्ऩिलुम् स्वरूपविरोधबुद्धियाले अधिकारमिल्लैयाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वाक्य-जन्यम् आऩ सम्बन्ध-ज्ञानादि-मात्रत्तिऱ् काट्टिल् अतिरिक्तम् आग  
+‘‘शरणं व्रज’’ ऎऩ्ऱु विधेयम् आगैयाले  
+साध्यम् आयिरुक्कुम् प्रपत्ति--स्व-रूपम् 
+
+ऎऩ्ऩुम् इडम् मुऩ्बे सॊऩ्ऩोम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+वाक्य-जन्यात् संबन्ध-ज्ञानादि-मात्राद् अतिरिक्त-रूपेण  
+"शरणं व्रज" इति विधेयत्वात्  
+साध्य-भूतं प्रपत्ति-स्वरूपम्  
+इति पूर्वम् एवावोचाम ।  
+
+</details>
+
+
+<details><summary>English</summary>
+
+We have already stated that  
+
+> prapatti is capable of being adopted as a means  
+in as much as it has been prescribed in the words "saranam vraja" (seek refuge),  
+as something that has to be performed over and above  
+the mere knowledge of the relationship (between the jīva and Iśvara ) arising from the texts. 
+</details>
+
+<details><summary>Español</summary>
+
+Ya **hemos declarado** que
+
+> Prapatti **es** capaz de **ser adoptado** como un medio  
+tanto como **se ha prescrito** en las palabras "saranam vraja" (**buscar refugio**),  
+como algo que **debe realizarse** por encima de  
+El mero **conocimiento** de la relación (entre Jīva e Iśvara) que **surge** de los textos.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+वाक्यजन्यमाऩ सम्बन्धज्ञानादिमात्रत्तिऱ्काट्टिल् अतिरिक्तमाग ‘‘शरणं व्रज’’ ऎऩ्ऱु विधेयमागैयाले साध्यमायिरुक्कुम् प्रपत्तिस्वरूपमॆऩ्ऩुमिडम् मुऩ्बे सॊऩ्ऩोम्।
+</details>
+
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् शेष-भूतऩुम् आय् पर-तन्त्रऩुम् आऩ इवऩुक्कु  
+यथा-ऽधिकारम् स्व-रक्षणार्थ--स्व-व्यापारम् पण्णक् कुऱैय् इल्लै।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः शेष-भूतस्य पर-तन्त्रस्यास्य  
+यथाऽधिकारं स्व-रक्षणार्थ--स्व-व्यापार-करणे न दोषः॥ 
+
+[[२१६]] 
+</details>
+
+<details><summary>English</summary>
+
+Therefore there is no inappropriateness in the jīva,  
+who exists only for the Lord  
+and who is entirely subject to His control,  
+adopting such means of his own for his protection as he is competent to adopt.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **no hay** inapropiado en el Jīva,  
+quien **existe** solo para el Señor  
+y quien **está** completamente **sujeto** a su control,  
+**adoptar** los medios propios para su **protección**, ya que **es** competente para **adoptar**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् शेषभूतऩुमाय् परतन्त्रऩुमाऩ इवऩुक्कु यथाधिकारम् स्वरक्षणार्थस्वव्यापारम् पण्णक्कुऱैयिल्लै।
+</details>
+
+
+### पारमैकान्त्य-विरुद्धं न
+
+<details><summary>English</summary>
 
 THE OBJECTION THAT THE RITES OF VARŅA AND ĀŚRAMA AND BHAKTI YOGA ARE INCONSISTENT WITH EXCLUSIVE DEVOTION TO THE LORD.
+</details>
+
+<details><summary>Español</summary>
+
+La **objeción** de que los ritos de Varņa y āśrama y bhakti yoga **son** inconsistentes con la **devoción** exclusiva al Señor.
+</details>
+
+
 
 (g) However, it may be stated, since the jīva has understood clearly that He exists solely for Iśvara and for no other, it is opposed to his nature as a supreme and exclusive devotee of the Lord to practise the rites (dharma ) ordained for his varṇa and āśrama, because they imply the mediatorship of other deities (like Agni, Surya and Varuna) and also to practise such things as bhakti yoga which have these rites as their aṅga or accessory. It is only śuddha yājis[Śuddha Yajis . Those whose adoration is solely to Bhagavān without any intermediary like Agni, Varuna and the like.] who worship the Lord alone (without any reference to other deities) that deserve to be called men with supreme and exclusive devotion to the Lord (paramaikānti)". This objection can arise only from a lack of clear understanding of the conclusion arrived at in such treatises as Śrī Bhāṣya. It may be asked how. The answer is that in such vidyās as Pratardana and Madhu vidyā, it is distinctly stated that the Supreme Being is to be worshipped or meditated upon by the aspirant for mukti as having Indra and other deities as His body. The author of Śrī Bhāṣya has declared that in regard to the rites and duties of the varṇa and āśrama also, which are aṅgas or accessories to the vidyās, the object of worship or meditation is only the Supreme Self who has the respective deities as His body. Therefore what is opposed to exclusive devotion to the Lord is the worship of other deities as if they were independent, and also connection with other deities owing to a desire for certain specific fruits, when these deities have nothing to do with the rites and duties which are compulsory and recurrent (nitya ) as well as those which are incidental and occasional (naimittika ). There is no opposition to supreme and exclusive devotion to the Lord in performing one's ordained rites and duties without any attachment to or desire for any other fruit and with the thought that these deities are attributes of the Lord and that such words as Agni denote the Lord who has Agni and the like as His body or attributes. There is no opposition to exclusive devotion, likewise, in following the principle: "These words (Agni, Indra etc.) directly denote, by their etymological significance, the Supreme Self. It is not improper to think so. So says Jaimini", for these are rites and duties enjoined (in the śāstras).
 
