@@ -9281,9 +9281,109 @@ Por lo tanto, incluso estas upāsanas y similares **son**, para otros adhikārī
 
 
 ## प्रपत्त्य्-उत्कर्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऱ्ऱुक्कु सामर्थ्यम् इल्लामैय् आदल्  
+विळम्ब-क्षमऩ् अल्लामैय् आदल्  
+
+इप्-प्रपत्तियै स्वतन्त्रोपायम् आगप् पऱ्ऱिऩ् अवऩै 
+</details>
+
+<details><summary>English</summary>
+
+Incompetence for them arises  
+from inability to adopt them  
+or the inability to endure delay (in attaining salvation).  
+The man who has this incompetence adopts prapatti.  
+The man who has adopted prapatti as an independent and direct upāya  
+</details>
+
+<details><summary>Español</summary>
+
+La incompetencia para ellos **surge**  
+De la incapacidad para **adoptarlos**  
+o la incapacidad para **soportar** el **retraso** (para **alcanzar** la **salvación**).  
+El hombre que **tiene** esta incompetencia **adopta** Prapatti.  
+El hombre que **ha adoptado** a Prapatti como un independiente y dirigido upāya
+</details>
 
 
-Incompetence for them arises from inability to adopt them or the inability to endure delay (in attaining salvation). The man who has this incompetence adopts prapatti. The man who has adopted prapatti as an independent and direct upāya is proclaimed as "one who has  performed a sacrifice, one who has done what he ought to do' and 'one who has performed a hundred sacrifices' by the Alvars, the great sages and the Lord's Śāstras ( Bhagavat Sāstra) and the Vedas. Further these authorities also praise all his activities up to the time of death, as if they were the varied duties connected with yajnas and ending with the final bath (avabhrita). They hold also that, in the same way as the man who has performed a yajna performs the compulsory and occasional rites (nitya and naimittika ) after it, the man who has adopted prapatti should perform the duties of his varṇa and āśrama as the commands of the Lord who is omnipotent and that the man who has performed the sacrifice or yajna of the self does not require the performance of any other activity for the fruit desired by him. Therefore as stated in such places as the śloka :-"The Yogi is superior to all those who practise austerities (tapas); he is superior also to the jnānīs and to those who perform the rites and duties (ordained for them). Therefore, O Arjuna, become a yogin"; the dharmas or activities of renunciation are superior to the activities or dharmas of action (pravṛtti); so also the yoga connected with the self is superior to all other yogas; of all yogas the highest is the yoga connected with (Śrī Kṛṣṇa), the son of Vāsudeva, for it has been said, "The man who fixes his mind on me and worships me with earnest faith should be considered as the highest among yogis". Similarly of all the vidyās or forms of meditation on the Supreme Self, only the particular vidyā which is called nyāsa, nikṣepa and so on is the highest, for, among other reasons, it is easy, it has to be performed only once, and it leads to the attainment of the end soon. This truth regarding the Nyāsa vidyā is stated explicitly in the Bhagavat Śāstra in the following ślokas: "Of all the austerities (tapas) prescribed for the attainment of mokṣa, the austerity called nyāsa (prapatti) is the highest ", and "Those who, with their thoughts fixed only on mokṣa, are absorbed in the per
+<details><summary>मूलम्</summary>
+
+अवऱ्ऱुक्कु सामर्थ्यमिल्लामैयादल् विळम्बक्षमऩल्लामैयादल् इप्प्रपत्तियै स्वतन्त्रोपायमागप्पऱ्ऱिऩवऩै 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+४२’’सॆय्द वेळ्वियऩ्’’(तिरुवाय्मॊऴि ५-७-५) ऎऩ्ऱुम्,  
+४३‘‘कृतकृत्यऩ् ’’(सात्यकि-तन्त्रम्) ऎऩ्ऱुम्,  
+४४‘‘अनुष्ठित-क्रतु-शतऩ्’’(अहिर्बुध्न्य-सम् ३७-४९) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+is proclaimed as 
+
+> "one who has  performed a sacrifice",  
+one who has done what he ought to do' 
+
+and 
+
+> 'one who has performed a hundred sacrifices' 
+
+by the Alvars, the great sages and the Lord's Śāstras ( Bhagavat Sāstra) and the Vedas. 
+</details>
+
+<details><summary>Español</summary>
+
+**se proclama** como
+
+> "Uno que **ha realizado** un **sacrificio**",
+uno que **ha hecho** lo que **debería hacer** '
+
+y
+
+> 'Uno que **ha realizado** cien sacrificios'
+
+por los Alvars, los grandes sabios y los Śāstras del Señor (Bhagavat Sāstra) y los Vedas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+४२’’सॆय्दवेळ्वियऩ्’’(तिरुवाय्मॊऴि ५-७-५) ऎऩ्ऱुम्, ४३‘‘कृतकृत्यऩ् ’’(सात्यकि-तन्त्रम्) ऎऩ्ऱुम्, ४४‘‘अनुष्ठितक्रतुशतऩ्’’(अहिर्बुध्न्य-सम् ३७-४९) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩुक्कु मरणान्तम् आग नडक्किऱ व्यापारङ्गळै  
+अवभृथ-पर्यन्त-कर्तव्य-कलापङ्गळ् आग स्तुतित्तुम् 
+</details>
+
+<details><summary>English</summary>
+
+Further these authorities also praise all his activities up to the time of death,  
+as if they were the varied duties connected with yajnas  
+and ending with the final bath (avabhritha). 
+</details>
+
+<details><summary>Español</summary>
+
+Además, estas autoridades también **elogian** todas sus **actividades** hasta el momento de la **muerte**,  
+Como si **fueran** los **deberes** variados relacionados con Yajnas  
+y **terminando** con el baño final (Avabhritha).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩुक्कु मरणान्तमाग नडक्किऱव्यापारङ्गळै अवभृथपर्यन्तकर्तव्यकलापङ्गळाग स्तुतित्तुम् 
+</details>
+
+
+
+They hold also that, in the same way as the man who has performed a yajna performs the compulsory and occasional rites (nitya and naimittika ) after it, the man who has adopted prapatti should perform the duties of his varṇa and āśrama as the commands of the Lord who is omnipotent and that the man who has performed the sacrifice or yajna of the self does not require the performance of any other activity for the fruit desired by him. Therefore as stated in such places as the śloka :-"The Yogi is superior to all those who practise austerities (tapas); he is superior also to the jnānīs and to those who perform the rites and duties (ordained for them). Therefore, O Arjuna, become a yogin"; the dharmas or activities of renunciation are superior to the activities or dharmas of action (pravṛtti); so also the yoga connected with the self is superior to all other yogas; of all yogas the highest is the yoga connected with (Śrī Kṛṣṇa), the son of Vāsudeva, for it has been said, "The man who fixes his mind on me and worships me with earnest faith should be considered as the highest among yogis". Similarly of all the vidyās or forms of meditation on the Supreme Self, only the particular vidyā which is called nyāsa, nikṣepa and so on is the highest, for, among other reasons, it is easy, it has to be performed only once, and it leads to the attainment of the end soon. This truth regarding the Nyāsa vidyā is stated explicitly in the Bhagavat Śāstra in the following ślokas: "Of all the austerities (tapas) prescribed for the attainment of mokṣa, the austerity called nyāsa (prapatti) is the highest ", and "Those who, with their thoughts fixed only on mokṣa, are absorbed in the per
 
 formance of karmayoga and those, again, who follow jñāna yoga aod bhaktiyoga do not deserve to be placed on a par with even one-ten millionth of the man who has performed prapatti".
 
