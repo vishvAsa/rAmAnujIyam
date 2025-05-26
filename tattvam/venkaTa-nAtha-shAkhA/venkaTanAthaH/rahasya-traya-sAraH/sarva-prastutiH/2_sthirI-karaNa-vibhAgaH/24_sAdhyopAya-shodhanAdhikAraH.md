@@ -8310,6 +8310,15 @@ Dado que Bhakti o Upāsana **se practica** por **alcanzar** mokṣa,
 इत्य्-एतत् +++("भक्त्या न मोक्षोपायो विहित" इत्यपि वदतां भवताम् एव)+++  विवक्षित-विपरीतम् । 
 </details>
 
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+> दृष्ट-फलस्यैव विधेः प्ररोचकत्वं भवितुम् अर्हति।  
+भक्ति-योगस् त्व् अदृष्टफलः।  
+
+इति स्वतः स्फुटं दूषणम् उपेक्ष्य  
+दूषणान्तरम् अपि प्रस्तौति। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8317,6 +8326,14 @@ Dado que Bhakti o Upāsana **se practica** por **alcanzar** mokṣa,
 to hold that bhakti or upāsana is enjoined only to produce an eager desire for the adoption of an easier means, viz., prapatti,  
 by describing a more difficult means, viz, bhakti,  
 for they hold that bhakti is no means at all (to attain mokṣa). 
+
+(Besides, bhakti does not yield its fruit in this life  
+but only after it.  
+So it cannot create faith or conviction in the other means prescribed, viz., prapatti.)  
+
+(Men generally adopt, of their own accord, the easier means in preference to the more difficult means.  
+The success of the easier means in producing the desired result will create faith or conviction in regard to the more difficult means and not vice versa.  
+So the more difficult upāya cannot cause faith in the efficacy of the easier means.)  
 </details>
 
 <details><summary>Español</summary>
@@ -8325,6 +8342,14 @@ for they hold that bhakti is no means at all (to attain mokṣa).
 **Sostener** que Bhakti o Upāsana **se ordena** solo para **producir** un **deseo** ansioso por la **adopción** de un medio más fácil, a **saber**, Prapatti,  
 Al **describir** un medio más difícil, a **saber**, bhakti,  
 porque **sostienen** que Bhakti **no es** nada medio (para alcanzar mokṣa).
+
+(Además, Bhakti **no produce** su fruto en esta vida
+pero solo después.  
+Por lo tanto, **no puede crear** fe o convicción en los otros medios **prescritos**, a saber, Prapatti.)
+
+(Los hombres generalmente **adoptan**, por su propia cuenta, los medios más fáciles en preferencia a los medios más difíciles.  
+El éxito de los medios más fáciles en la **producción** del resultado **deseado creará** fe o convicción con respecto a los medios más difíciles, y no viceversa.  
+Por lo tanto, los más difíciles upāya **no pueden causar** fe en la eficacia de los medios más fáciles.)
 </details>
 
 
@@ -8335,30 +8360,135 @@ porque **sostienen** que Bhakti **no es** nada medio (para alcanzar mokṣa).
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-इरण्डावदु शिरस्सै दूषिक्कप्पोगिऱवराय् इप्पक्षत्तिल् अभिचारविधि दृष्टमाऩ शत्रुवधरूपफलत्तैक् काण्बित्तु तन्मुखत्ताले सर्वशास्त्रत्तिऱ्कुम् ऎप्पडि प्ररोचकमागिऱदो अप्पडि अदृष्टमाऩ मोक्षत्तै फलमागवुडैय भक्तियाऩदु स्वफलप्रदर्शनत्ताले प्रपत्तिविधि प्ररोचकमागादॆऩ्गिऱ दूषणम् स्पष्टमागैयाले अदै उबेक्षित्तु दूषणान्तरमरुळिच्चॆय्गिऱार् एकाधिकारिविषयत्तिले इत्यादिना । भक्तिप्रपत्तिकळिरण्डुम् परस्परम् निरपेक्षोपायङ्गळागिल् लघूपायमाऩ प्रपत्तियिले स्वरसतः प्रवृत्तियुण्डागुमागैयाल् भक्तिविधियैयिट्टु प्रपत्तियिल् प्ररोचिप्पिक्कवेण्डियदिल्लै। अन्यतरम् अनुपायमाऩालुम् आलस्यादिगळाल् प्रवृत्तियिल्लाद पुरुषऩै लघुविले मुदलिल् प्रवर्तिप्पित्तु पिऱगु गुरुविले प्रवर्तिप्पिक्कवेण्डुमेयॊऴिय गुरुवाऩ भक्तियिल् प्रवर्तिप्पित्तु पिऱगु प्रपत्तियिल् प्रवर्तिप्पिक्किऱदॆऩ्बदु कूडादागैयाल् ऒरु अधिकारिविषयत्तिल् एकफलत्तिऱ्काग विहिदङ्गळाऩ भक्तिप्रपत्तिकळिल् भक्तिविधि प्रपत्तिप्ररोचकमॆऩ्ऱदु। 
+इरण्डावदु शिरस्सै दूषिक्कप् पोगिऱवर् आय्  
+
+> इप्-पक्षत्तिल् अभिचार-विधि  
+दृष्टम् आऩ शत्रु-वध-रूप-फलत्तैक् काण्बित्तु  
+तन्-मुखत्ताले सर्व-शास्त्रत्तिऱ्कुम् ऎप्पडि प्ररोचकम् आगिऱदो  
+> 
+> अप्-पडि अ-दृष्टम् आऩ मोक्षत्तै फलम् आगव्-उडैय भक्तिय् आऩदु  
+स्व-फल-प्रदर्शनत्ताले प्रपत्ति-विधि प्ररोचकम् आगाद्  
+
+ऎऩ्गिऱ दूषणम् स्पष्टम् आगैयाले  
+अदै उबेक्षित्तु  
+दूषणान्तरम् अरुळिच् चॆय्गिऱार् - एकाधिकारिविषयत्तिले इत्यादिना । +++(5)+++  
+
+भक्तिप्रपत्तिकळिरण्डुम् परस्परम् निरपेक्षोपायङ्गळागिल्  
+लघूपायम् आऩ प्रपत्तियिले  
+स्वरसतः प्रवृत्तिय् उण्डागुम् आगैयाल्  
+भक्ति-विधियैय् इट्टु प्रपत्तियिल् प्ररोचिप्पिक्कवेण्डियदिल्लै।+++(4)+++  
+
+अन्यतरम् अनुपायम् आऩालुम्  
+आलस्यादिगळाल् प्रवृत्तियिल्लाद पुरुषऩै लघुविले मुदलिल् प्रवर्तिप्पित्तु  
+पिऱगु गुरुविले प्रवर्तिप्पिक्क वेण्डुमेय् ऒऴिय  
+
+गुरुवाऩ भक्तियिल् प्रवर्तिप्पित्तु पिऱगु प्रपत्तियिल् प्रवर्तिप्पिक्किऱदॆऩ्बदु कूडाद् आगैयाल्  
+
+ऒरु अधिकारि-विषयत्तिल् एक-फलत्तिऱ्क् आग विहिदङ्गळाऩ भक्तिप्रपत्तिकळिल्  
+भक्तिविधि प्रपत्ति-प्ररोचकम् ऎऩ्ऱदु। 
+
+
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अङ्गत्तिले अङ्गि-फल-निर्देशम् आय्  
++++(अन्यथा)+++  
++++(प्रपत्ति-रूपे)+++ अङ्गत्तिले +++(भक्ति-रुप-)+++अङ्गि-फल-निर्देशम् आय्  
 स्तुति-मात्रम् आय् इऱे  
-अप्-पोदु फलिप्पदु। 
+अप्-पोदु फलिप्पदु।  
++++(अयम् अङ्गाङ्गि-भावो भवताम् अनिष्टः।)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(अन्यथा)+++  
++++(प्रपत्ति-रूपे)+++ अङ्गे +++(भक्ति-रुप-)+++ऽङ्गि-फल-निर्देश-रूपं स्तुति-मात्रम्  
+इति किल तदा फलेत् ।  
++++(अयम् अङ्गाङ्गि-भावो भवताम् अनिष्टः।)+++
+</details>
+
+<details><summary>English</summary>
+
+(It will, therefore, have to be argued in support of their view that,  
+when certain fruits or good results which will arise from a main rite or angī  
+are stated to arise from its aṅga or accessory rite,  
+it should be considered only as arthavada or mere praise  
+having no literal truth according to a principle (or nyāya) of the Mimamsakas.  
+Here mokṣa is really the fruit of prapatti, which is the angī  
+and this fruit is, in the view of these critics, for the sake of mere praise (which is not true), assigned to its aṅga bhakti also.  
+So, bhakti is, according to them, really not capable of yielding mokṣa.)  
+This argument, too, is no good  
+as it would be inconsistent with the contention of these critics,  
+for they would then have to admit that bhakti is an aṅga or accessory of prapatti (which they deny).
+</details>
+
+<details><summary>Español</summary>
+
+(Por lo tanto, **tendrá** que **ser argumentado** en apoyo de su punto de vista de que,  
+Cuando ciertas frutas o buenos **resultados** que **surgirán** de un rito principal o Angī  
+**se dicen** que **surgen** de su AṅGA o rito de accesorios,  
+**Debe considerarse** solo como Arthavada o mera **alabanza**  
+**no tener** verdad literal de acuerdo con un principio (o nyāya) de los mimamsakas.  
+
+Aquí Mokṣa **es** realmente el fruto de Prapatti, que **es** el Angī  
+Y este fruto **es**, en opinión de estos críticos, en aras de la mera **alabanza** (lo cual **no es** cierto), **asignado** a su aṅga bhakti también.  
+Entonces, Bhakti, **según** ellos, **no es** realmente **capaz** de producir mokṣa).  
+
+Este argumento **tampoco es** bueno  
+ya que **sería inconsistente** con la **afirmación** de estos críticos,  
+porque entonces **tendrían** que **admitir** que Bhakti es un AṅGA o accesorio de Prapatti (que **niegan**).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 अङ्गत्तिले अङ्गिफलनिर्देशमाय् स्तुतिमात्रमायिऱे अप्पोदु फलिप्पदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
++++(ततः)+++
+
+> कर्माङ्ग-स्तुति कर्म-प्रशंसा-द्वारा तत्-प्ररोचकम् आऩाऱ् पोले  
+प्रपत्त्य्-अङ्ग-भक्ति-स्तुति प्रपत्ति-प्रशंसया प्रपत्ति-प्ररोचना-परम्  
+
+ऎऩ्ऱ् ऒप्पुक् कॊळ्ळ वेण्डुम् आगैयाल्  
+अप्पोदु भक्तिक्कु अङ्गतया उपादेयत्वमे अभ्युपगन्तव्यम् आगैयाल्  
+वाद्य्-अभिमतमाऩ अनुपादेयत्वम् सिद्धिक्काद्  
+ऎऩ्ऱु करुत्तु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राप्यत्तुक्क् इऩ्ऩद् अनुरूपम् ऎऩ्ऩुम् इडम्  
+शास्त्र-वेद्यम् आगैयाले  
+युक्ति-मात्रत्ताले प्राप्य-विरोधञ् जॊल्ल वॊण्णादु।
+</details>
+
+<details><summary>English</summary>
+
+The means or upāya, that is favoured by Iśvara, who is the object of attainment,  
+can be understood only from the śāstra  
+(and it is no use asserting that bhakti is not favoured by Him). 
+</details>
+
+<details><summary>Español</summary>
+
+Los medios o upāya, que **es** favorecido por Iśvara, que **es** el objeto de **logro**,  
+**se puede entender** solo del Śāstra  
+(Y **no sirve** de nada **afirmar** que Bhakti **no es favorecido** por él).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राप्यत्तुक्किऩ्ऩदनुरूपमॆऩ्ऩुमिडम् शास्त्रवेद्यमागैयाले युक्तिमात्रत्ताले प्राप्यविरोधञ् जॊल्लवॊण्णादु।
+</details>
 
 
 
-Besides, bhakti does not yield its fruit in this life  
-but only after it.  
-So it cannot create faith or conviction in the other means prescribed, viz., prapatti. Men generally adopt, of their own accord, the easier means in preference to the more difficult means. The success of the easier means in producing the desired result will create faith or conviction in regard to the more difficult means and not vice versa. So the more difficult upāya cannot cause faith in the efficacy of the easier means. It will, therefore, have to be argued in support of their view that, when certain fruits or good results which will arise from a main rite or angī are stated to arise from its aṅga or accessory rite, it should be considered only as arthavada or mere praise having no literal truth according to a principle (or nyāya) of the Mimamsakas. Here mokṣa is really the fruit of prapatti, which is the angī and this fruit is, in the view of these critics, for the sake of mere praise (which is not true), assigned to its aṅga bhakti also. So, bhakti is, according to them, really not capable of yielding mokṣa. This argument, too, is no good as it would be inconsistent with the contention of these critics, for they would then have to admit that bhakti is an aṅga or accessory of prapatti (which they deny).
-
-The means or upāya, that is favoured by Iśvara, who is the object of attainment, can be understood only from the śāstra (and it is no use asserting that bhakti is not favoured by Him). Reason is not competent to say that the means, viz., bhakti is opposed to the end in view (Bhagavān). If we are to object to any one thing that is prescribed in the stāstras by reasoning which is against the śāstra, there would, by parity of reasoning, be no validity in any of the things or dharmas prescribed in the śāstras and, likewise, in the śastras prescribing prapatti as well.
+Reason is not competent to say that the means, viz., bhakti is opposed to the end in view (Bhagavān). If we are to object to any one thing that is prescribed in the stāstras by reasoning which is against the śāstra, there would, by parity of reasoning, be no validity in any of the things or dharmas prescribed in the śāstras and, likewise, in the śastras prescribing prapatti as well.
 
 Further there is no authority for the statement that in the śloka quoted above (from Viṣṇu dharma :66-72), the word pātaka (sin) refers to upāsanas and the like. Therefore since bhakti and prapatti are both enjoined for the aspirant to mukti, they are, either of them, to be adopted in accordance with the competence (of the individual concerned).
 
