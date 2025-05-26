@@ -6038,7 +6038,9 @@ Por lo tanto, así como formas particulares de adoración y servicio a Bhagavān
 </details>
 
 
-## भक्ति-योगः स्वरूपानुकूलः
+## भक्ति-योगः 
+
+### स्वरूपानुकूलः
 
 <details><summary>English</summary>
 
@@ -6050,7 +6052,7 @@ THE VIEW THAT UPĀSANA OR BHAKTI IS INCONSISTENT WITH ONE'S ESSENTIAL NATURE IS 
 La opinión de que Upāsana o Bhakti **es inconsistente** con la naturaleza esencial de uno **es** incorrecto:
 </details>
 
-### शङ्का
+#### शङ्का
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इप्-पडि यथाऽधिकारम् शास्त्रम् विधित्त् अवऱ्ऱिलुम्  
@@ -6132,7 +6134,7 @@ y **no condenar** upāsanas (como estar en contra de la naturaleza).
 </details>
 
 
-### अ-नाशकता
+#### अ-नाशकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ऎङ्ङऩेय्?" ऎऩ्ऩिल्;  
@@ -6189,7 +6191,7 @@ porque el yo **es** eterno (y **no puede ser destruido**).
 </details>
 
 
-### कर्तृत्वम् अस्ति
+#### कर्तृत्वम् अस्ति
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रपत्त्य्-अनुष्ठानत्तिलुम् कैङ्कर्यत्तिलुम् बोले  
@@ -6532,7 +6534,7 @@ Como **resultado** de ciertas **acciones realizadas** en anteriores (**nacimient
 पूर्वानुष्ठितकर्मविशेषङ्गळिऩुडैय फलविशेषञ्जॊऩ्ऩ पडियत्तऩै।
 </details>
 
-### नानर्थावहकता
+#### नानर्थावहकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मोक्ष-प्रतिकूलङ्गळ् आऩ  
@@ -6589,7 +6591,7 @@ y porque **están ordenados** en los Śāstras solo para aquellos que **quieren*
 </details>
 
 
-### निगमनम्
+#### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् आत्म--स्व-रूपत्तैप् पऱ्ऱ  
@@ -6634,7 +6636,7 @@ que **están** en desacuerdo con la naturaleza esencial (del yo).
 </details>
 
 
-### वर्णाश्रमादि-निबन्धनं न प्रतिकूलम्
+#### वर्णाश्रमादि-निबन्धनं न प्रतिकूलम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > आऩालुम् आत्मा देहादि-विलक्षणऩ् आगैयाले  
@@ -6924,8 +6926,6 @@ lo cual **es necesario** para el **rendimiento** de todos los dharma.
 </details>
 
 
-
-## उपाय-स्वरूपम्
 ### अहं-कार-गर्भत्वं न
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8291,7 +8291,7 @@ Dado que Bhakti o Upāsana **se practica** por **alcanzar** mokṣa,
 उपासनत्तिल् अदऱ्कुप् प्रसक्तिये इल्लै यॆऩ्गिऱार् इङ्गु फलमित्यादिना । 
 </details>
 
-
+#### प्ररोचनार्थो न भक्ति-विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > एकाधिकारि-विषयत्तिले एक-फलत्तुक्कु  
@@ -8310,6 +8310,15 @@ Dado que Bhakti o Upāsana **se practica** por **alcanzar** mokṣa,
 इत्य्-एतत् +++("भक्त्या न मोक्षोपायो विहित" इत्यपि वदतां भवताम् एव)+++  विवक्षित-विपरीतम् । 
 </details>
 
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+> दृष्ट-फलस्यैव विधेः प्ररोचकत्वं भवितुम् अर्हति।  
+भक्ति-योगस् त्व् अदृष्टफलः।  
+
+इति स्वतः स्फुटं दूषणम् उपेक्ष्य  
+दूषणान्तरम् अपि प्रस्तौति। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8317,6 +8326,14 @@ Dado que Bhakti o Upāsana **se practica** por **alcanzar** mokṣa,
 to hold that bhakti or upāsana is enjoined only to produce an eager desire for the adoption of an easier means, viz., prapatti,  
 by describing a more difficult means, viz, bhakti,  
 for they hold that bhakti is no means at all (to attain mokṣa). 
+
+(Besides, bhakti does not yield its fruit in this life  
+but only after it.  
+So it cannot create faith or conviction in the other means prescribed, viz., prapatti.)  
+
+(Men generally adopt, of their own accord, the easier means in preference to the more difficult means.  
+The success of the easier means in producing the desired result will create faith or conviction in regard to the more difficult means and not vice versa.  
+So the more difficult upāya cannot cause faith in the efficacy of the easier means.)  
 </details>
 
 <details><summary>Español</summary>
@@ -8325,6 +8342,14 @@ for they hold that bhakti is no means at all (to attain mokṣa).
 **Sostener** que Bhakti o Upāsana **se ordena** solo para **producir** un **deseo** ansioso por la **adopción** de un medio más fácil, a **saber**, Prapatti,  
 Al **describir** un medio más difícil, a **saber**, bhakti,  
 porque **sostienen** que Bhakti **no es** nada medio (para alcanzar mokṣa).
+
+(Además, Bhakti **no produce** su fruto en esta vida
+pero solo después.  
+Por lo tanto, **no puede crear** fe o convicción en los otros medios **prescritos**, a saber, Prapatti.)
+
+(Los hombres generalmente **adoptan**, por su propia cuenta, los medios más fáciles en preferencia a los medios más difíciles.  
+El éxito de los medios más fáciles en la **producción** del resultado **deseado creará** fe o convicción con respecto a los medios más difíciles, y no viceversa.  
+Por lo tanto, los más difíciles upāya **no pueden causar** fe en la eficacia de los medios más fáciles.)
 </details>
 
 
@@ -8335,36 +8360,1030 @@ porque **sostienen** que Bhakti **no es** nada medio (para alcanzar mokṣa).
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-इरण्डावदु शिरस्सै दूषिक्कप्पोगिऱवराय् इप्पक्षत्तिल् अभिचारविधि दृष्टमाऩ शत्रुवधरूपफलत्तैक् काण्बित्तु तन्मुखत्ताले सर्वशास्त्रत्तिऱ्कुम् ऎप्पडि प्ररोचकमागिऱदो अप्पडि अदृष्टमाऩ मोक्षत्तै फलमागवुडैय भक्तियाऩदु स्वफलप्रदर्शनत्ताले प्रपत्तिविधि प्ररोचकमागादॆऩ्गिऱ दूषणम् स्पष्टमागैयाले अदै उबेक्षित्तु दूषणान्तरमरुळिच्चॆय्गिऱार् एकाधिकारिविषयत्तिले इत्यादिना । भक्तिप्रपत्तिकळिरण्डुम् परस्परम् निरपेक्षोपायङ्गळागिल् लघूपायमाऩ प्रपत्तियिले स्वरसतः प्रवृत्तियुण्डागुमागैयाल् भक्तिविधियैयिट्टु प्रपत्तियिल् प्ररोचिप्पिक्कवेण्डियदिल्लै। अन्यतरम् अनुपायमाऩालुम् आलस्यादिगळाल् प्रवृत्तियिल्लाद पुरुषऩै लघुविले मुदलिल् प्रवर्तिप्पित्तु पिऱगु गुरुविले प्रवर्तिप्पिक्कवेण्डुमेयॊऴिय गुरुवाऩ भक्तियिल् प्रवर्तिप्पित्तु पिऱगु प्रपत्तियिल् प्रवर्तिप्पिक्किऱदॆऩ्बदु कूडादागैयाल् ऒरु अधिकारिविषयत्तिल् एकफलत्तिऱ्काग विहिदङ्गळाऩ भक्तिप्रपत्तिकळिल् भक्तिविधि प्रपत्तिप्ररोचकमॆऩ्ऱदु। 
+इरण्डावदु शिरस्सै दूषिक्कप् पोगिऱवर् आय्  
+
+> इप्-पक्षत्तिल् अभिचार-विधि  
+दृष्टम् आऩ शत्रु-वध-रूप-फलत्तैक् काण्बित्तु  
+तन्-मुखत्ताले सर्व-शास्त्रत्तिऱ्कुम् ऎप्पडि प्ररोचकम् आगिऱदो  
+> 
+> अप्-पडि अ-दृष्टम् आऩ मोक्षत्तै फलम् आगव्-उडैय भक्तिय् आऩदु  
+स्व-फल-प्रदर्शनत्ताले प्रपत्ति-विधि प्ररोचकम् आगाद्  
+
+ऎऩ्गिऱ दूषणम् स्पष्टम् आगैयाले  
+अदै उबेक्षित्तु  
+दूषणान्तरम् अरुळिच् चॆय्गिऱार् - एकाधिकारिविषयत्तिले इत्यादिना । +++(5)+++  
+
+भक्तिप्रपत्तिकळिरण्डुम् परस्परम् निरपेक्षोपायङ्गळागिल्  
+लघूपायम् आऩ प्रपत्तियिले  
+स्वरसतः प्रवृत्तिय् उण्डागुम् आगैयाल्  
+भक्ति-विधियैय् इट्टु प्रपत्तियिल् प्ररोचिप्पिक्कवेण्डियदिल्लै।+++(4)+++  
+
+अन्यतरम् अनुपायम् आऩालुम्  
+आलस्यादिगळाल् प्रवृत्तियिल्लाद पुरुषऩै लघुविले मुदलिल् प्रवर्तिप्पित्तु  
+पिऱगु गुरुविले प्रवर्तिप्पिक्क वेण्डुमेय् ऒऴिय  
+
+गुरुवाऩ भक्तियिल् प्रवर्तिप्पित्तु पिऱगु प्रपत्तियिल् प्रवर्तिप्पिक्किऱदॆऩ्बदु कूडाद् आगैयाल्  
+
+ऒरु अधिकारि-विषयत्तिल् एक-फलत्तिऱ्क् आग विहिदङ्गळाऩ भक्तिप्रपत्तिकळिल्  
+भक्तिविधि प्रपत्ति-प्ररोचकम् ऎऩ्ऱदु। 
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अङ्गत्तिले अङ्गि-फल-निर्देशम् आय्  
++++(अन्यथा)+++  
++++(प्रपत्ति-रूपे)+++ अङ्गत्तिले +++(भक्ति-रुप-)+++अङ्गि-फल-निर्देशम् आय्  
 स्तुति-मात्रम् आय् इऱे  
-अप्-पोदु फलिप्पदु। 
+अप्-पोदु फलिप्पदु।  
++++(अयम् अङ्गाङ्गि-भावो भवताम् अनिष्टः।)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(अन्यथा)+++  
++++(प्रपत्ति-रूपे)+++ अङ्गे +++(भक्ति-रुप-)+++ऽङ्गि-फल-निर्देश-रूपं स्तुति-मात्रम्  
+इति किल तदा फलेत् ।  
++++(अयम् अङ्गाङ्गि-भावो भवताम् अनिष्टः।)+++
+</details>
+
+<details><summary>English</summary>
+
+(It will, therefore, have to be argued in support of their view that,  
+when certain fruits or good results which will arise from a main rite or angī  
+are stated to arise from its aṅga or accessory rite,  
+it should be considered only as arthavada or mere praise  
+having no literal truth according to a principle (or nyāya) of the Mimamsakas.  
+Here mokṣa is really the fruit of prapatti, which is the angī  
+and this fruit is, in the view of these critics, for the sake of mere praise (which is not true), assigned to its aṅga bhakti also.  
+So, bhakti is, according to them, really not capable of yielding mokṣa.)  
+This argument, too, is no good  
+as it would be inconsistent with the contention of these critics,  
+for they would then have to admit that bhakti is an aṅga or accessory of prapatti (which they deny).
+</details>
+
+<details><summary>Español</summary>
+
+(Por lo tanto, **tendrá** que **ser argumentado** en apoyo de su punto de vista de que,  
+Cuando ciertas frutas o buenos **resultados** que **surgirán** de un rito principal o Angī  
+**se dicen** que **surgen** de su AṅGA o rito de accesorios,  
+**Debe considerarse** solo como Arthavada o mera **alabanza**  
+**no tener** verdad literal de acuerdo con un principio (o nyāya) de los mimamsakas.  
+
+Aquí Mokṣa **es** realmente el fruto de Prapatti, que **es** el Angī  
+Y este fruto **es**, en opinión de estos críticos, en aras de la mera **alabanza** (lo cual **no es** cierto), **asignado** a su aṅga bhakti también.  
+Entonces, Bhakti, **según** ellos, **no es** realmente **capaz** de producir mokṣa).  
+
+Este argumento **tampoco es** bueno  
+ya que **sería inconsistente** con la **afirmación** de estos críticos,  
+porque entonces **tendrían** que **admitir** que Bhakti es un AṅGA o accesorio de Prapatti (que **niegan**).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 अङ्गत्तिले अङ्गिफलनिर्देशमाय् स्तुतिमात्रमायिऱे अप्पोदु फलिप्पदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
++++(ततः)+++
+
+> कर्माङ्ग-स्तुति कर्म-प्रशंसा-द्वारा तत्-प्ररोचकम् आऩाऱ् पोले  
+प्रपत्त्य्-अङ्ग-भक्ति-स्तुति प्रपत्ति-प्रशंसया प्रपत्ति-प्ररोचना-परम्  
+
+ऎऩ्ऱ् ऒप्पुक् कॊळ्ळ वेण्डुम् आगैयाल्  
+अप्पोदु भक्तिक्कु अङ्गतया उपादेयत्वमे अभ्युपगन्तव्यम् आगैयाल्  
+वाद्य्-अभिमतमाऩ अनुपादेयत्वम् सिद्धिक्काद्  
+ऎऩ्ऱु करुत्तु।
+</details>
+
+#### शब्दः प्रमाणम् अनुरूपत्वे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राप्यत्तुक्क् इऩ्ऩद् अनुरूपम् ऎऩ्ऩुम् इडम्  
+शास्त्र-वेद्यम् आगैयाले  
+युक्ति-मात्रत्ताले प्राप्य-विरोधञ् जॊल्ल वॊण्णादु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्राप्यस्येदृशम् अनुरूपम् इत्य् अर्थस्य शास्त्र-वेद्यत्वात्  
+युक्ति-मात्रेण प्राप्य-विरोधो वक्तुं न युज्यते ।
+</details>
+
+
+<details><summary>English</summary>
+
+The means or upāya, that is favoured by Iśvara, who is the object of attainment,  
+can be understood only from the śāstra  
+(and it is no use asserting that bhakti is not favoured by Him).  
+Reason is not competent to say that the means, viz., bhakti is opposed to the end in view (Bhagavān).  
+</details>
+
+<details><summary>Español</summary>
+
+Los medios o upāya, que **es** favorecido por Iśvara, que **es** el objeto de **logro**,  
+**se puede entender** solo del Śāstra  
+(Y **no sirve** de nada **afirmar** que Bhakti **no es favorecido** por él).  
+La razón no es competente para decir que los medios, a saber, Bhakti se oponen al final a la vista (Bhagavān).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राप्यत्तुक्किऩ्ऩदनुरूपमॆऩ्ऩुमिडम् शास्त्रवेद्यमागैयाले युक्तिमात्रत्ताले प्राप्यविरोधञ् जॊल्लवॊण्णादु।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कीऴ्च्चॊऩ्ऩ मुमुक्षुवुक्कु इत्यादि इरण्डाम् पक्षत्तै प्रतिवदिक्किऱार् प्राप्यत्तुक्कु इऩ्ऩदु इत्यादिना । 
+
+युक्तिमात्रत्ताले प्राप्यविरोधम् सॊल्लवॊण्णादु इति ।  
+‘‘यम् एवैष वृणुते’’,  
+‘‘भक्त्या त्व् अनन्यया शक्य’’  
+इत्य्-आदि-शास्त्रङ्गळ् प्राप्यऩ् आऩ भगवाऩुक्कु अनुरूपम् आगवे  
+तत्-प्रसाद-द्वारा प्रापकम् आऩ भक्तियैच् चॊल्लियिरुप्पदाल्  
+प्राप्य-भिन्नत्व-मात्रत्ताले भक्ति,  
+प्राप्य-विरुद्धम् ऎऩ्ऱु सॊल्लुवदु साहसम् ऎऩ्ऱु करुत्तु।+++(4)+++
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगम-सिद्धङ्गळिल्  
+ऒऩ्ऱै विरुद्ध-तर्कङ्गळाले बाधिक्किल्;  
+तुल्य-न्यायत्ताले सर्व-शास्त्रङ्गळुम्, प्रपत्ति-शास्त्रन्-दाऩुम्  
+प्रमाणम् अऩ्ऱिक्केय् ऒऴियुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आगम-सिद्धेषु एकस्य विरुद्ध-तर्क-बाधने  
+तुल्य-न्यायेन सर्व-शास्त्राणि, प्रपत्ति-शास्त्रं च  
+अ-प्रमाणानि स्युः ।  
+</details>
+
+
+<details><summary>English</summary>
+
+If we are to object to any one thing that is prescribed in the sāstras  
+by reasoning which is against the śāstra,  
+there would, by parity of reasoning, be no validity in any of the things or dharmas prescribed in the śāstras  
+and, likewise, in the śastras prescribing prapatti as well.
+</details>
+
+<details><summary>Español</summary>
+
+Si **queremos oponernos** a alguna cosa que **se prescriba** en los sāstras  
+por razonamiento que **está** contra el Śāstra,  
+Por paridad de razonamiento, **no habría** validez en ninguna de las cosas o dharmas **prescritos** en los Śāstras  
+Y, del mismo modo, en los Śastras que **prescriben** Prapatti también.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगमसिद्धङ्गळिलॊऩ्ऱै विरुद्धतर्कङ्गळाले बाधिक्किल्; तुल्यन्यायत्ताले सर्वशास्त्रङ्गळुम् प्रपत्ति शास्त्रन्दाऩुम् प्रमाणमऩ्ऱिक्के यॊऴियुम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शास्त्रङ्गळ् भक्तियै भगवत्प्रसादद्वारा तत्प्राप्तिहेतुवागच् चॊल्लियिरुन्दालुम् अदै युक्तियिऩाल् बाधिक्कलागादो वॆऩ्ऩ अनिष्टमरुळिच्चॆय्गिऱार् आगमसिद्धङ्गळिलित्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘अथ पातक-भीतस्त्वं’’ ऎऩ्गिऱव् इडत्तिलुम्  
+पातक-शब्दत्ताले उपासनादिगळै निन्दिक्किऱद् ऎऩ्गैक्कुम्  
+प्रमाणम् इल्लै  
++++("उपासन-विरोधि-पापानी"ति तु सुलभम् एव)+++। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"अथ पातक-भीतस् त्वम्" इत्य्-अत्रापि 
+ 
+> पातक-शब्देन +उपासनादीनि निन्द्यन्ते 
+
+इत्य्-अत्र प्रमाणं नास्ति  
++++("उपासन-विरोधि-पापानी"ति तु सुलभम् एव)+++।
+</details>
+
+
+<details><summary>English</summary>
+
+Further there is no authority for the statement that in the śloka quoted above (from Viṣṇu dharma :66-72),  
+the word pātaka (sin) refers to upāsanas and the like.  
+</details>
+
+<details><summary>Español</summary>
+
+Además, **no hay** autoridad para la **declaración** de que en el Śloka **citado** anteriormente (de Viṣṇu dharma: 66-72),  
+La palabra pātaka (pecado) **se refiere** a upāsanas y similares.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अथ पातकभीतस्त्वं’’ ऎऩ्गिऱविडत्तिलुम् पातकशब्दत्ताले उपासनादिगळै निन्दिक्किऱदॆऩ्गैक्कुम् प्रमाणमिल्लै। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+यौक्तिकमाग प्राप्यविरुद्धत्वंसॊऩ्ऩालऩ्ऱो इप्पडि अनिष्टापादनम् सॆय्वदु; ‘‘अथ पातकभीतस्त्वम्’’ ऎऩ्गिऱ प्रमाणत्तिलेये पातकशब्दत्तिले उपासनादिगळ् विवक्षितङ्गळागैयाले अवै कळुक्कु प्राप्यविरुद्धत्वम् तोऩ्ऱविल्लैयो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् अथ पातक-भीतस्त्वमित्यादिना । 
+
+ऎडुत्त वचनत्तिल् पातकशब्दम् उपासनादिपरमॆऩ्बदऱ्कु अनन्यथासिद्धप्रमाण मिल्लैयॆऩ्गिऱार् पातकशब्दत्ताले इत्यादिना । इन्द श्लोकम् भक्तिप्रकरणस्थमाऩालुम् पातकशब्दत्ताले भक्तिनिवृत्तिप्रतिबन्धकङ्गळाऩ अनादिकालसञ्चितङ्गळाऩ पातकङ्गळे सॊल्लप्पडुगिऱदुगळ्। 
+
+> > नाम् उपासनादिगळिल् इऴिन्दाल् उपासन-निष्पत्ति-प्रतिबन्धकङ्गळाऩ पाबङ्गळाले उपासनम् निष्पन्नम् आगाविडिल् सॆय्वद् ऎऩ्?  
+अदऱ्कु प्रायश्चित्तम् आग कृच्छ्र, चान्द्रायण, कूश्माण्ड, वैश्वानर, व्रातपति, पवित्रेष्टि मुदलियवैगळैच् चॆय्वदुम् अशक्यम् आच्चुदे  
+> 
+> ऎऩ्ऱु ऎण्णि  
+उपाय-विरोधि-पापत्तिल् निऩ्ऱुम् पयन्दायेयागिल्  
+अन्योपायालम्भन-सम्भ्रमत्तै विट्टु  
+नारायणऩैये उपायम् आगप् पऱ्ऱु  
+
+ऎऩ्बदु प्रमाणानुगुणम् आऩ श्लोकार्थम् आगैयाल्  
+
+तद्-विरुद्धम् आग  
+
+> ‘‘राजविद्या राजगुह्यं  
+पवित्रम् इदम् उत्तमं ।  
+प्रत्यक्षावगमं धर्म्यं  
+सुसुखं कर्तुम् अव्ययम् ॥’’ 
+
+ऎऩ्ऱु भगवाऩाले पवित्रम् आगक् कॊण्डाडप् पट्ट उपासनत्तै  
+धर्म-देवतै पातकम् आग निन्दित्तद्  
+
+ऎऩ्बदु प्रमाण-विरुद्धम् आम्  
+ऎऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् मुमुक्षुवुक्कु विहितङ्गळ् आगैयाले  
+भक्ति-प्रपत्तिगळ् इरण्डुम्  
+यथाऽधिकारं परिग्राह्यङ्गळ्।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो मुमुक्षोर् विहितत्वात् भक्ति-प्रपत्ती द्वे अपि यथाधिकारं परिग्राह्ये॥
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore since bhakti and prapatti are both enjoined for the aspirant to mukti,  
+they are, either of them, to be adopted in accordance with the competence (of the individual concerned).
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, dado que Bhakti y Prapatti están **ordenados** para el **aspirante** a Mukti,  
+Son, cualquiera de ellos, **ser adoptados** de acuerdo con la competencia (del individuo en cuestión).
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् मुमुक्षुवुक्कु विहितङ् गळागैयाले भक्तिप्रपत्तिकळिरण्डुम् यथाधिकारं परिग्राह्यङ्गळ्।  
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि भक्ति, स्वरूपविरुद्ध मॆऩ्बदु सर्वात्मना असङ्गतमागैयाले अकिञ्चनऩुक्कु प्रपत्तिपोले शक्तऩुक्कु भक्तियुम् परिग्राह्यमॆऩ्गिऱार् आगैयाल् मुमुक्षुवुक्कु इति ।  
+</details>
+
+
+### शिष्ट-परिग्रहः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विहितङ्गळेय् आगिलुम्  
+आचार्य-रुचि-परिगृहीतङ्गळ् अल्लाद बडियाले  
+अतिथि-सत्-कारादिगळिले विहितङ्गळ् आऩ गवालम्भादिगळ् पोले  
+उपासनादिगळ् शिष्ट-परिग्रह-विरुद्धङ्गळ् आगैयाले  
+अनादरणीयङ्गळ् अऩ्ऱोव् 
+
+ऎऩ्गैयुम् निरूपक-वाक्यम् अऩ्ऱु; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ( 9 ) विहितत्वेऽपि  
+आचार्य-रुचि-परिगृहीतत्वाभावाद्  
+अतिथि-स्सत्कारादिषु विहित-गवालम्भादिवद्  
+उपासनादीनि शिष्ट-परिग्रह-विरुद्धत्वाद् अनादरणीयानि न किम्? 
+
+इति वचोऽपि न निरूपक-वाक्यम् ।  
+</details>
+
+
+<details><summary>English</summary>
+
+(i) Nor would it be proper to hold that, 
+
+> though these two bhakti and prapatti are enjoined (in the śāstras),  
+bhakti or upāsana and the like are not to be practised  
+in as much as they have not been favoured for adoption by the ācāryas;  
+(for instance) such things as the slaying of a bull for the entertainment of a guest at dinner, though enjoined,  
+are opposed to the traditional practice of the learned (siṣṭa). 
+
+This objection, too, is not that of a thinking mind. 
+</details>
+
+<details><summary>Español</summary>
+
+(i) **tampoco sería apropiado sostener** eso,
+
+> Aunque estos dos Bhakti y Prapatti **están ordenados** (en los Śāstras),  
+bhakti o upāsana y similares **no se pueden practicar**  
+en la medida en que **no hayan sido favorecidos** para la **adopción** por los ācāryas;  
+(por ejemplo) cosas como el **asesinato** de un toro para el **entretenimiento** de un **invitado** en la cena, aunque **ordenado**,  
+**se oponen** a la **práctica** tradicional de los eruditos (Siṣṭa).
+
+Esta objeción **tampoco es** la de una mente **pensante**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विहितङ्गळेयागिलुम् आचार्यरुचिपरिगृहीतङ्गळल्लादबडियाले अतिथि-सत्कारादिगळिले विहितङ्गळाऩ गवालंभादिगळ् पोले उपासनादिगळ् शिष्टपरिग्रहविरुद्धङ्गळागैयाले अनादरणीययङ्गळऩ्ऱोव् ऎऩ्गैयुम् निरूपकवाक्यमऩ्ऱु; 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ननु भक्त्यादिगळ् विहितङ्गळागिलुम् आचार्यरुचिपरिगृहीतङ्गळल्लादबडियाले स्वरूपविरुद्धङ्गळॆऩ्गिऱ पक्षत्तै अनुवदित्तु निरसिक्किऱार् विहितङ्गळेयागिलुमित्यादिना । अतिथिसत्कारादिगळिले विहितङ्गळाऩ गवालम्भादिगळ् पोले इति ।  
+
+> ‘‘समांसो मधुपर्कः’’,  
+‘‘मधुपर्के तु गोवध’’ 
+
+इत्यादि विहितङ्गळाऩ गोवधङ्गळ् पोले ऎऩ्ऱबडि।  
+इन्द पक्षत्तै निरसिक्किऱार् ऎऩ्गैयुम् निरूपकवाक्यमऩ्ऱु इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वाचार्य-परिग्रहम् इल्लाद बोद् अऩ्ऱो 
+
+> ३४‘‘अस्वर्ग्यं लोक-विद्विष्टं  
+धर्मम् अप्याचरेन् न तु’’  
+(याज्ञवल्च्यस्मृति १-१५६) 
+
+ऎऩ्ऱु कऴिक्कल् आवदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वाचार्य-परिग्रहाभावे किल,  
+
+> ३४‘‘अस्वर्ग्यं लोकविद्विष्टं  
+धर्मम् अप्याचरेन् न तु’’  
+(याज्ञवल्च्यस्मृति १-१५६) 
+
+इति त्याज्यता भवति। 
+</details>
+
+<details><summary>English</summary>
+
+It is only when all the ācāryas avoid the performance of a rite or observance,  
+that it should be abandoned in accordance with the saying: 
+
+> "Though a ritead has been prescribed in the śāstra,  
+yet if it will retard the attainment of svarga  
+and is also repugnant to the general public,  
+it should not be performed". 
+</details>
+
+<details><summary>Español</summary>
+
+Es solo cuando todos los ācāryas **evitan** el **rendimiento** de un **rito u observancia**,  
+que **debe ser abandonado** de acuerdo con el **dicho**:
+
+> "Aunque **se ha prescrito** un ritead en el Śāstra,  
+Sin embargo, si **retrasará** el **logro** de Svarga  
+y también **es repugnante** al público en general,  
+**No debe realizarse** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वाचार्यपरिग्रहमिल्लादबोदऩ्ऱो ३४‘‘अस्वर्ग्यं लोकविद्विष्टं धर्ममप्याचरेन्न तु’’(याज्ञवल्च्यस्मृति १-१५६) ऎऩ्ऱु कऴिक्कलावदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु 
+
+> ‘‘तस्मै नमो मुनिवराय पराशराय’’  
+(आळवन्दार् स्तोत्रम् ४) 
+
+ऎऩ्ऩुम् बडि श्लाघ्यर् आऩ पराशरादि-पूर्वाचार्यर्गळ् अनुष्ठिक्कैयाले  
+सर्व-शिष्ट-बहिष्कारञ् जॊल्ल वॊण्णादु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र 
+
+> ‘‘तस्मै नमो मुनिवराय पराशराय’’  
+(आळवन्दार् स्तोत्रम् ४) 
+
+इत्य्-एवं श्लाघ्यैः पराशरादि-पूर्वाचार्यैर् अनुष्ठितत्वात्  
+सर्व-शिष्ट-बहिष्कारं वक्तुं न युज्यते ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+In regard to the rites in question, since they were adopted by such ancient ācāryas as Parāśara  
+who is described by Aḷavandār as one of the best sages,  
+it cannot be maintained that they are against the traditional observance of all learned men.
+</details>
+
+<details><summary>Español</summary>
+
+Con respecto a los ritos en **cuestión**, ya que **fueron adoptados** por ācāryas tan antiguos como parāśara  
+quien **es descrito** por Aḷavandār como uno de los mejores sabios,  
+**No se puede mantener** que **estén** en contra de la observancia tradicional de todos los hombres **aprendidos**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु ‘‘तस्मै नमो मुनिवराय पराशराय’’(आळवन्दार् स्तोत्रम् ४) ऎऩ्ऩुम्बडि श्लाघ्यराऩ पराशरादि पूर्वाचार्यर्गळनुष्ठिक्कैयाले सर्वशिष्टबहिष्कारञ् जॊल्लवॊण्णादु। 
+</details>
+
+### कलि-युग-योग्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडि युगान्तरङ्गळिल् इवै धर्मङ्गळ् आऩालुम्  
+कलि-युगत्तिल् यथोक्तम् आऩ परमात्मोपासनादिगळुक्क् अधिकारिगळ् दुर्लभर् आगैयाले  
+इवै इक्-कालत्तुक्कुप् पॊरुन्दुमवैय् अऩ्ऱु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ( 10 ) इत्थं युगान्तरेष्व् एषां धर्मत्वेऽपि  
+कलियुगे यथोक्त-परमात्मोपासनादीनाम् अधिकारि-दौर्लभ्यात्  
+इमान्य् अस्य कालस्याननुगुणानि ;  
+
+</details>
+
+
+<details><summary>English</summary>
+
+> “In this same way, though these rites were suitable as dharmas to be practised in other yugas,  
+since in Kali Yuga, it is not possible to find men competent to perform such things as the upusana or meditation of the Supreme Self,  
+they are not suited for observance in this age. 
+</details>
+
+<details><summary>Español</summary>
+
+> “De esta misma manera Aunque estos ritos **eran adecuados** como dharmas para ser **practicados** en otras yugas,  
+Dado que en Kali Yuga, **no es posible encontrar** hombres competentes para **realizar** cosas como la upusana o la meditación del yo supremo,  
+**No son adecuados** para la **observancia** en esta era.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि युगान्तरङ्गळिलिवै धर्मङ्गळाऩालुम् कलियुगत्तिल् यथोक्तमाऩ परमात्मोपासनादिगळुक्कधिकारिकळ् दुर्लभरागैयाले इवै इक्कालत्तुक्कुप्पॊरुन्दुमवैयऩ्ऱु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आगैयालेयऩ्ऱो ‘‘कलौ संकीर्त्य केशवम्’’(विष्णुपुराणम् ६-२-१७) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अत एव किल,  
+“कलौ संकीत्य केशवम् " (विष्णुपुराणम् ६-२-१७) इति,  
+
+</details>
+
+
+<details><summary>English</summary>
+
+> That is why it has been said :-  
+>
+> > “Whatever fruit a man obtained in Krita Yuga by renunciation (tyāga),  
+whatever fruit a man obtained in the Dvāpara Yuga by the performance of yajnas,  
+whatever a man obtained in Tretayuga by worshipping the Lord,  
+that a man attains in Kali Yuga by the mere mention of His names",  
+
+</details>
+
+<details><summary>Español</summary>
+
+> Por eso **se ha dicho**:-
+>
+>> “Cualquiera que **sea** el fruto que un hombre **obtenido** en Krita Yuga por **renuncia** (Tyāga),  
+Cualquiera que **sea** la fruta que un hombre **obtuvo** en el dvāpara yuga por la **actuación** de Yajnas,  
+Cualquiera que **sea** un hombre **obtenido** en Tretayuga **adorando** al Señor,  
+esto un hombre **alcanza** en Kali Yuga  
+por la mera **mención** de sus nombres ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयालेयऩ्ऱो ‘‘कलौ संकीर्त्य केशवम्’’(विष्णुपुराणम् ६-२-१७) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>> ‘‘कलेर् दोष-निधे+++(ः)+++ राजन्न्  
+**अस्ति** ह्य् एको महागुणः ।  
+**कीर्तनाद्** एव कृष्णस्य  
+**मुक्त-बन्धः** परं **व्रजेत्**॥’’  
+(श्री भारतम् ११-३-५१) 
+>
+> ऎऩ्ऱुञ् जॊल्लुगिऱद् 
+
+ऎऩ्ऩवुम् ऒण्णादु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+>> ‘‘कलेर् दोष-निधे+++(ः)+++ राजन्न्  
+**अस्ति** ह्य् एको महागुणः ।  
+**कीर्तनाद्** एव कृष्णस्य  
+**मुक्त-बन्धः** परं **व्रजेत्**॥’’  
+(श्री भारतम् ११-३-५१) 
+>
+> इत्य् उच्यते
+
+\- इत्यपि न युक्तम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+>
+> and so also in the Mahābhārata  
+>
+> > " Kali Yuga has this one great advantage, O, king;  
+in Kali, a man gets rid of his past karma by the mere mention of Śrī Kṛṣṇa's names  
+and attains the Lord"
+
+In this way, it cannot be argued. 
+</details>
+
+<details><summary>Español</summary>
+
+>
+> Y así también en el Mahābhārata
+>
+>> "Kali Yuga **tiene** esta gran ventaja, oh, rey;  
+En Kali, un hombre **se deshace** de su karma pasado por la mera **mención** de los nombres de Śrī Kṛṣṇa  
+y **alcanza** el Señor "
+
+De esta manera, **no se puede discutir**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘कलेर्दोषनिधे राजन्नस्ति ह्येको महागुणः ।  
+कीर्तनादेव कृष्णस्य मुक्तबन्धः परं व्रजेत्॥’’  
+(श्री भारतम् ११-३-५१) ऎऩ्ऱुञ्जॊल्लुगिऱदॆऩ्ऩवुमॊण्णादु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘कलौ कृत-युगं तस्य,  
+कलिस् तस्य कृते युगे ।  
+यस्य चेतसि गोविन्दो,  
+हृदये यस्य नाच्युतः॥’’ +++(5)+++  
+(विष्णुधर्मः १०९-५७) 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘कलौ कृत-युगं तस्य,  
+कलिस् तस्य कृते युगे ।  
+यस्य चेतसि गोविन्दो,  
+हृदये यस्य नाच्युतः॥’’ +++(5)+++   
+(विष्णुधर्मः १०९-५७) 
+
+इत्य्-उक्त-रीत्या 
+</details>
+
+<details><summary>विषयः</summary>
+
+भक्तिः, कालः, युगः
+</details>
+
+<details><summary>English</summary>
+
+Against this objection, for it is said :-
+
+> " To the man who has Govinda at heart,  
+there is Kritayuga in Kali yuga  
+and to him who does not entertain Acyuta at heart,  
+there is Kali Yuga even in Krita Yuga," 
+</details>
+
+<details><summary>Español</summary>
+
+Contra esta **objeción**, porque **se dice**:-
+
+> "Para el hombre que **tiene** Govinda en el corazón,  
+**Hay** Kritayuga en Kali Yuga  
+y para el que **no entretiene** a Acyuta en el corazón,  
+**Hay** Kali Yuga incluso en Krita Yuga ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘कलौ कृतयुगं तस्य कलिस्तस्य कृते युगे ।  
+यस्य चेतसि गोविन्दो हृदये यस्य नाच्युतः॥’’  
+(विष्णुधर्मः १०९-५७) ऎऩ्गिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इक्-कालत्तिलुम् उपासनादिगळुक्क् अधिकारिगळ्  
+स्वयं-प्रयोजन-योग-निष्ठर् आऩ पूर्वाचार्यर्गळ् पोले  
+संभावितर् इऱे। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् कालेऽपि  
+उपासनादीनाम् अधिकारिणः  
+स्वयं-प्रयोजन-योग-निष्ठ-पूर्वाचार्यवत् संभाविताः किल । 
+</details>
+
+
+<details><summary>English</summary>
+
+we may state that even at the present time,  
+there may be present men who are competent to perform such things as upāsanas  
+and who, like the ancient ācāryas, are established in yoga for its own sake. 
+</details>
+
+<details><summary>Español</summary>
+
+Podemos **afirmar** que incluso en la actualidad,  
+**Puede haber** hombres presentes que **son** competentes para **realizar** cosas como upāsanas  
+y quién, como el antiguo ācāryas, **se establecen** en yoga por su propio bien.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इक्कालत्तिलुम् उपासनादिगळुक्कधिकारिकळ् स्वयं प्रयोजनयोगनिष्ठराऩ पूर्वाचार्यर्गळ् पोले संभावितरिऱे। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् अल्लाद बोदु  
+संकीर्तन-व्यतिरिक्तैय् आऩ प्रपत्तिक्कुम् 
+
+> ३९‘‘किन्नु तस्य च मन्त्रस्य  
+कर्मणः कमलासन ।  
+**न लभ्यते** ऽधिकारी वा  
+श्रोतु-कामोऽपि वा नर॥’’  
+(पौष्करसंहिता) 
+
+इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा संकीर्तन-व्यतिरिक्तायाः प्रपत्तेर् अपि 
+
+> ३९‘‘किन्नु तस्य च मन्त्रस्य  
+कर्मणः कमलासन ।  
+**न लभ्यते** ऽधिकारी वा  
+श्रोतु-कामोऽपि वा नर॥’’  
+(पौष्करसंहिता) 
+
+इत्य्-आद्य्-उक्त-रीत्या 
+</details>
+
+
+<details><summary>English</summary>
+
+If these were not admitted,  
+it would follow that even prapatti,  
+which is different from the mention of the Lord's names (samkārtana),  
+for it has been said :-
+
+> “There is no man (O Brahma)  
+who is competent to be initiated into this mantra,  
+who is competent to perform the rite uttering this mantra  
+or who will listen to it." 
+</details>
+
+<details><summary>Español</summary>
+
+Si estos **no fueron admitidos**, 
+**Seguiría** que incluso Prapatti,  
+que **es** diferente de la mención de los nombres del Señor (Samkārtana),  
+porque **se ha dicho**:-
+
+> **“No hay** hombre (O Brahma)
+quien **es** competente para ser **iniciado** en este mantra,  
+quien **es** competente para **realizar** el rito que **pronuncia** este mantra  
+o quién lo **escuchará** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩल्लादबोदु संकीर्तन-व्यतिरिक्तैयाऩ प्रपत्तिक्कुम् ३९‘‘किन्नु तस्य च मन्त्रस्य कर्मणः कमलासन । न लभ्यतेऽधिकारी वा श्रोतुकामोऽपि वा नर॥’’(पौष्करसंहिता) इत्यादिगळिऱ्पडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महा-विश्वासादि-युक्तर् आऩव् अधिकारिगळ् तेट्टम् आगैयाले  
+अव्व् इडत्तिलुम् इप्-प्रसङ्गम् वरुम्।  
+</details>
+
+<details><summary>English</summary>
+
+is not to be performed,  
+because it is difficult to find men who are competent to perform it and who have the intense faith (maha-visvasa ) necessary for it. 
+</details>
+
+<details><summary>Español</summary>
+
+**no se debe realizar**,  
+Porque **es** difícil **encontrar** hombres que **sean** competentes para **realizarlo**  
+y que **tengan** la fe intensa (Maha-Visvasa) **necesaria** para ello.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+महाविश्वासादियुक्तराऩवधिकारिकळ् तेट्टमागैयाले अव्विडत्तिलुम् इप्प्रसङ्गम् वरुम्।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+महा-विश्वासादि-युक्तानाम् अधिकारिणां दौलभ्यात्  
+तत्रापि +अयं प्रसङ्गः प्रवर्तेत । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩ बिऩ्बु  
+उपासनादिगळुक्कु वेऱ् ऒरु विरोधम् इल्लामैयाले  
+यथा-शास्त्रं  
+आतुरादिगळुक्क् अवगाहनादिगळ् पोले  
+इवै 
+
+> ४०‘‘अकिञ्चनोऽनन्य-गतिः’’  
+(आळवन्दार् स्तोत्रम् २२)
+
+ऎऩ्ऱ् इरुक्कुम् अधिकारिक्कु  
+स्वाधिकार-विरुद्धङ्गळ् ऎऩ्ऩप् प्राप्तम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत उपासनादिष्व् अन्यस्य कस्यचिद् विरोधस्याभावात्  
+यथा-शास्त्रम्  
+आतुरादीनाम् अवगाहनादीनीव  
+इमानि 
+> ४०‘‘अकिञ्चनोऽनन्य-गतिः’’  
+(आळवन्दार् स्तोत्रम् २२)
+
+इति वर्तमानस्याधिकारिणः स्वाधिकार-विरुद्धानीति वक्तुं युक्तम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore since there is no other objection to such things as upāsanas,  
+they can be said to be unsuitable only for those adhikarīs  
+who are "destitute of all upāyas  
+and who have no other way of salvation",  
+because they are inappropriate for their competence  
+in the same way as ablutions by complete immersion in water  
+are unsuitable for those that are ill. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, dado que **no hay** otra **objeción** a cosas como upāsanas,  
+**Se puede decir** que **son** inadecuados solo para esos adhikarīs  
+que **son** 
+
+> "indigentes de todos los upāyas
+y que **no tienen** otra forma de **salvación** ",
+
+porque **son** inapropiados para **su competencia**  
+De la misma manera que las **abluciones** por **inmersión** completa en el agua  
+**son** inadecuados para aquellos que **están** enfermos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩबिऩ्बु उपासनादिगळुक्कु वेऱॊरु विरोधमिल्लामैयाले यथाशास्त्रं आतुरादिगळुक्कवगाहनादिगळ् पोले इवै 
+४०‘‘अकिञ्चनोऽनन्य-गतिः’’ (आळवन्दार् स्तोत्रम् २२)
+ऎऩ्ऱिरुक्कुमधिकारिक्कु स्वाधिकारविरुद्धङ्गळॆऩ्ऩप्प्राप्तम्।
+</details>
+
+#### अनधिकारिण्य् एव विरोधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अधिकार-विरोधम् अऱियादे  
+उपासनादिगळिले प्रवर्तिक्कुम् अवऩैप् पऱ्ऱ 
+
+> ४१ ‘‘+++(अनधिकृत-)+++नरस्य बुद्धि-दौर्बल्याद्  
++++(भक्ति-रूप-)+++उपायान्तरम् इष्यते’’(लक्ष्मीतन्त्रम् २८-१७) 
+
+ऎऩ्ऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमम् अधिकार-विरोधम् अ-ज्ञात्वा  
+उपासनादिषु प्रवर्तमानं प्रति, 
+
+> ४१ ‘‘+++(अनधिकृत-)+++नरस्य बुद्धि-दौर्बल्याद्  
++++(भक्ति-रूप-)+++उपायान्तरम् इष्यते’’(लक्ष्मीतन्त्रम् २८-१७) 
+
+इत्य्-उक्तम् ।
+</details>
+
+<details><summary>English</summary>
+
+It is in regard to such men as do not understand their being incompetent ( for bhakti or upāsana )  
+and who adopt it as a means  
+that it is said: 
+
+> “It is owing to the weakness of mind  
+which fails to understand its competence or incompetence  
+that a man adopts bhakti as an upāya."  
+</details>
+
+<details><summary>Español</summary>
+
+**Se trata** de que los hombres **no entiendan** que **son incompetentes** (para Bhakti o Upāsana)  
+y que lo **adoptan** como un medio  
+que **se dice**:
+
+> “**Se** debe a la debilidad mental  
+que **no entiende** su competencia o incompetencia  
+que un hombre **adopta** Bhakti como un upāya ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वधिकार-विरोधमऱियादे उपासनादिगळिले प्रवर्तिक्कुमवऩैप् पऱ्ऱ ४१‘‘नरस्य बुद्धि-दौर्बल्यादुपायान्तरमिष्यते’’(लक्ष्मीतन्त्रम् २८-१७) ऎऩ्ऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् इव्व्-उपासनादिगळुम्  
+अधिकार्य्-अन्तरत्तिऱ्कु यथाऽधिकारम् अनुगुणङ्गळ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत इमान्य् उपासनादीनि  
+अधिकार्य्-अन्तरस्य यथाधिकारम् अनुगुणानि ॥
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore even these upāsanas and the like are, for other adhikārīs, suitable to the extent of their competence. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, incluso estas upāsanas y similares **son**, para otros adhikārīs, **adecuados** para la extensión de su competencia.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् इव्वुपासनादिगळुम् अधिकार्यन्तरत्तिऱ्कु यथाधिकारमनुगुणङ्गळ्।
+</details>
+
+
+## प्रपत्त्य्-उत्कर्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऱ्ऱुक्कु सामर्थ्यम् इल्लामैय् आदल्  
+विळम्ब-क्षमऩ् अल्लामैय् आदल्  
+
+इप्-प्रपत्तियै स्वतन्त्रोपायम् आगप् पऱ्ऱिऩ् अवऩै 
+</details>
+
+<details><summary>English</summary>
+
+Incompetence for them arises  
+from inability to adopt them  
+or the inability to endure delay (in attaining salvation).  
+The man who has this incompetence adopts prapatti.  
+The man who has adopted prapatti as an independent and direct upāya  
+</details>
+
+<details><summary>Español</summary>
+
+La incompetencia para ellos **surge**  
+De la incapacidad para **adoptarlos**  
+o la incapacidad para **soportar** el **retraso** (para **alcanzar** la **salvación**).  
+El hombre que **tiene** esta incompetencia **adopta** Prapatti.  
+El hombre que **ha adoptado** a Prapatti como un independiente y dirigido upāya
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवऱ्ऱुक्कु सामर्थ्यमिल्लामैयादल् विळम्बक्षमऩल्लामैयादल् इप्प्रपत्तियै स्वतन्त्रोपायमागप्पऱ्ऱिऩवऩै 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+४२’’सॆय्द वेळ्वियऩ्’’(तिरुवाय्मॊऴि ५-७-५) ऎऩ्ऱुम्,  
+४३‘‘कृतकृत्यऩ् ’’(सात्यकि-तन्त्रम्) ऎऩ्ऱुम्,  
+४४‘‘अनुष्ठित-क्रतु-शतऩ्’’(अहिर्बुध्न्य-सम् ३७-४९) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+is proclaimed as 
+
+> "one who has  performed a sacrifice",  
+one who has done what he ought to do' 
+
+and 
+
+> 'one who has performed a hundred sacrifices' 
+
+by the Alvars, the great sages and the Lord's Śāstras ( Bhagavat Sāstra) and the Vedas. 
+</details>
+
+<details><summary>Español</summary>
+
+**se proclama** como
+
+> "Uno que **ha realizado** un **sacrificio**",
+uno que **ha hecho** lo que **debería hacer** '
+
+y
+
+> 'Uno que **ha realizado** cien sacrificios'
+
+por los Alvars, los grandes sabios y los Śāstras del Señor (Bhagavat Sāstra) y los Vedas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+४२’’सॆय्दवेळ्वियऩ्’’(तिरुवाय्मॊऴि ५-७-५) ऎऩ्ऱुम्, ४३‘‘कृतकृत्यऩ् ’’(सात्यकि-तन्त्रम्) ऎऩ्ऱुम्, ४४‘‘अनुष्ठितक्रतुशतऩ्’’(अहिर्बुध्न्य-सम् ३७-४९) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩुक्कु मरणान्तम् आग नडक्किऱ व्यापारङ्गळै  
+अवभृथ-पर्यन्त-कर्तव्य-कलापङ्गळ् आग स्तुतित्तुम् 
+</details>
+
+<details><summary>English</summary>
+
+Further these authorities also praise all his activities up to the time of death,  
+as if they were the varied duties connected with yajnas  
+and ending with the final bath (avabhritha). 
+</details>
+
+<details><summary>Español</summary>
+
+Además, estas autoridades también **elogian** todas sus **actividades** hasta el momento de la **muerte**,  
+Como si **fueran** los **deberes** variados relacionados con Yajnas  
+y **terminando** con el baño final (Avabhritha).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩुक्कु मरणान्तमाग नडक्किऱव्यापारङ्गळै अवभृथपर्यन्तकर्तव्यकलापङ्गळाग स्तुतित्तुम् 
+</details>
 
 
 
-Besides, bhakti does not yield its fruit in this life  
-but only after it.  
-So it cannot create faith or conviction in the other means prescribed, viz., prapatti. Men generally adopt, of their own accord, the easier means in preference to the more difficult means. The success of the easier means in producing the desired result will create faith or conviction in regard to the more difficult means and not vice versa. So the more difficult upāya cannot cause faith in the efficacy of the easier means. It will, therefore, have to be argued in support of their view that, when certain fruits or good results which will arise from a main rite or angī are stated to arise from its aṅga or accessory rite, it should be considered only as arthavada or mere praise having no literal truth according to a principle (or nyāya) of the Mimamsakas. Here mokṣa is really the fruit of prapatti, which is the angī and this fruit is, in the view of these critics, for the sake of mere praise (which is not true), assigned to its aṅga bhakti also. So, bhakti is, according to them, really not capable of yielding mokṣa. This argument, too, is no good as it would be inconsistent with the contention of these critics, for they would then have to admit that bhakti is an aṅga or accessory of prapatti (which they deny).
-
-The means or upāya, that is favoured by Iśvara, who is the object of attainment, can be understood only from the śāstra (and it is no use asserting that bhakti is not favoured by Him). Reason is not competent to say that the means, viz., bhakti is opposed to the end in view (Bhagavān). If we are to object to any one thing that is prescribed in the stāstras by reasoning which is against the śāstra, there would, by parity of reasoning, be no validity in any of the things or dharmas prescribed in the śāstras and, likewise, in the śastras prescribing prapatti as well.
-
-Further there is no authority for the statement that in the śloka quoted above (from Viṣṇu dharma :66-72), the word pātaka (sin) refers to upāsanas and the like. Therefore since bhakti and prapatti are both enjoined for the aspirant to mukti, they are, either of them, to be adopted in accordance with the competence (of the individual concerned).
-
-(i) Nor would it be proper to hold that, though these two bhakti and prapatti are enjoined (in the śāstras), bhakti or upāsana and the like are not to be practised in as much as they have not been favoured for adoption by the ācāryas; (for instance) such things as the slaying of a bull for the entertainment of a guest at dinner, though enjoined, are opposed to the traditional practice of the learned (siṣṭa). This objection, too, is not that of a thinking mind. It is only when all the ācāryas avoid the performance of a rite or observance, that it should be abandoned in accordance with the saying: "Though a ritead has been prescribed in the śāstra, yet if it will retard the attainment of svarga and is also repugnant to the general public, it should not be performed". In regard to the rites in question, since they were adopted by such ancientācāryas as Parāśara who is described by Aḷavandār as one of the best sages, it cannot be maintained that they are against the traditional observance of all learned men.
-
-(j) In the same way, it cannot be argued that, “though these rites were suitable as dharmas to be practised in other yugas, since in Kali Yuga, it is not possible to find men competent to perform such things as the upusana or meditation of the Supreme Self, they are pot suited for observance in this age. That is why it has been said :-“Whatever fruit a nan obtained in Krita Yuga by renunciation (tyāga), whatever fruit a man obtained in the Dvāpara Yuga by the performance of yajnas, whatever a man obtained in Tretayuga by worshipping the Lord, that a man attains in Kali Yuga by the mere mention of His names", and so also in the Mahābhārata " Kali Yuga has this one great advantage, O, king; in Kali, a man gets rid of his past karma by the mere mention of Śrī Kṛṣṇa's names and attains the Lord": Against this objection we may state that even at the present time, there may be present men who are competent to perform such things as upāsanas and who, like the ancient ācāryas, are established in yoga for its own sake, for it is said :-" To the * man who has Govinda at heart, there is Kritayuga in Kali yuga and to him who does not entertain Acyuta at heart, there is Kali Yuga even in Krita Yuga," If these were not admitted, it would follow that even prapatti, which is different from the mention of the Lord's names (samkārtana) is not to be performed, because it is difficult to find men who are competent to perform it and who have the intense faith (maha visvasa ) necessary for it, for it has been said :-“There is no man (O Brahma) who is competent to be initiated into this mantru. who is competent to perform the rite uttering this mantra or who will listen to it." Therefore since there is no other objection to such things as upāsanas, they can be said to be unsuitable only for those adhikūrīs who are "destitute of all upāyas and who have no other way of salvation", because they are inappropriate for their competence in the same way as ablutions by complete immersion in water are unsuitable for those that are ill. It is in regard to such men as do not understand their being incompetent ( for bhakti or upāsana ) and who adopt it as a means that it is said: “It is owing to the weakness of mind which fails to understand its competence or incompetence that a man adopts bhakti as an upāya. Therefore even these upāsanas and the like are, for other adhikārīs, suitable to the extent of their competence. Incompetence for them arises from inability to adopt them or the inability to endure delay (in attaining salvation). The man who has this incompetence adopts prapatti. The man who has adopted prapatti as an independent and direct upāya is proclaimed as "one who has  performed a sacrifice, one who has done what he ought to do' and 'one who has performed a hundred sacrifices' by the Alvars, the great sages and the Lord's Śāstras ( Bhagavat Sāstra) and the Vedas. Further these authorities also praise all his activities up to the time of death, as if they were the varied duties connected with yajnas and ending with the final bath (avabhrita). They hold also that, in the same way as the man who has performed a yajna performs the compulsory and occasional rites (nitya and naimittika ) after it, the man who has adopted prapatti should perform the duties of his varṇa and āśrama as the commands of the Lord who is omnipotent and that the man who has performed the sacrifice or yajna of the self does not require the performance of any other activity for the fruit desired by him. Therefore as stated in such places as the śloka :-"The Yogi is superior to all those who practise austerities (tapas); he is superior also to the jnānīs and to those who perform the rites and duties (ordained for them). Therefore, O Arjuna, become a yogin"; the dharmas or activities of renunciation are superior to the activities or dharmas of action (pravṛtti); so also the yoga connected with the self is superior to all other yogas; of all yogas the highest is the yoga connected with (Śrī Kṛṣṇa), the son of Vāsudeva, for it has been said, "The man who fixes his mind on me and worships me with earnest faith should be considered as the highest among yogis". Similarly of all the vidyās or forms of meditation on the Supreme Self, only the particular vidyā which is called nyāsa, nikṣepa and so on is the highest, for, among other reasons, it is easy, it has to be performed only once, and it leads to the attainment of the end soon. This truth regarding the Nyāsa vidyā is stated explicitly in the Bhagavat Śāstra in the following ślokas: "Of all the austerities (tapas) prescribed for the attainment of mokṣa, the austerity called nyāsa (prapatti) is the highest ", and "Those who, with their thoughts fixed only on mokṣa, are absorbed in the per
+They hold also that, in the same way as the man who has performed a yajna performs the compulsory and occasional rites (nitya and naimittika ) after it, the man who has adopted prapatti should perform the duties of his varṇa and āśrama as the commands of the Lord who is omnipotent and that the man who has performed the sacrifice or yajna of the self does not require the performance of any other activity for the fruit desired by him. Therefore as stated in such places as the śloka :-"The Yogi is superior to all those who practise austerities (tapas); he is superior also to the jnānīs and to those who perform the rites and duties (ordained for them). Therefore, O Arjuna, become a yogin"; the dharmas or activities of renunciation are superior to the activities or dharmas of action (pravṛtti); so also the yoga connected with the self is superior to all other yogas; of all yogas the highest is the yoga connected with (Śrī Kṛṣṇa), the son of Vāsudeva, for it has been said, "The man who fixes his mind on me and worships me with earnest faith should be considered as the highest among yogis". Similarly of all the vidyās or forms of meditation on the Supreme Self, only the particular vidyā which is called nyāsa, nikṣepa and so on is the highest, for, among other reasons, it is easy, it has to be performed only once, and it leads to the attainment of the end soon. This truth regarding the Nyāsa vidyā is stated explicitly in the Bhagavat Śāstra in the following ślokas: "Of all the austerities (tapas) prescribed for the attainment of mokṣa, the austerity called nyāsa (prapatti) is the highest ", and "Those who, with their thoughts fixed only on mokṣa, are absorbed in the per
 
 formance of karmayoga and those, again, who follow jñāna yoga aod bhaktiyoga do not deserve to be placed on a par with even one-ten millionth of the man who has performed prapatti".
 
