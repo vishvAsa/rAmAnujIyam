@@ -8776,11 +8776,301 @@ y también **es repugnante** al público en general,
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु 
+
+> ‘‘तस्मै नमो मुनिवराय पराशराय’’  
+(आळवन्दार् स्तोत्रम् ४) 
+
+ऎऩ्ऩुम् बडि श्लाघ्यर् आऩ पराशरादि-पूर्वाचार्यर्गळ् अनुष्ठिक्कैयाले  
+सर्व-शिष्ट-बहिष्कारञ् जॊल्ल वॊण्णादु। 
+</details>
+
+<details><summary>English</summary>
+
+In regard to the rites in question, since they were adopted by such ancient ācāryas as Parāśara  
+who is described by Aḷavandār as one of the best sages,  
+it cannot be maintained that they are against the traditional observance of all learned men.
+</details>
+
+<details><summary>Español</summary>
+
+Con respecto a los ritos en **cuestión**, ya que **fueron adoptados** por ācāryas tan antiguos como parāśara  
+quien **es descrito** por Aḷavandār como uno de los mejores sabios,  
+**No se puede mantener** que **estén** en contra de la observancia tradicional de todos los hombres **aprendidos**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु ‘‘तस्मै नमो मुनिवराय पराशराय’’(आळवन्दार् स्तोत्रम् ४) ऎऩ्ऩुम्बडि श्लाघ्यराऩ पराशरादि पूर्वाचार्यर्गळनुष्ठिक्कैयाले सर्वशिष्टबहिष्कारञ् जॊल्लवॊण्णादु। 
+</details>
+
+### कलि-युग-योग्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडि युगान्तरङ्गळिल् इवै धर्मङ्गळ् आऩालुम्  
+कलि-युगत्तिल् यथोक्तम् आऩ परमात्मोपासनादिगळुक्क् अधिकारिगळ् दुर्लभर् आगैयाले  
+इवै इक्-कालत्तुक्कुप् पॊरुन्दुमवैय् अऩ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+> “In this same way, though these rites were suitable as dharmas to be practised in other yugas,  
+since in Kali Yuga, it is not possible to find men competent to perform such things as the upusana or meditation of the Supreme Self,  
+they are not suited for observance in this age. 
+</details>
+
+<details><summary>Español</summary>
+
+> “De esta misma manera Aunque estos ritos **eran adecuados** como dharmas para ser **practicados** en otras yugas,  
+Dado que en Kali Yuga, **no es posible encontrar** hombres competentes para **realizar** cosas como la upusana o la meditación del yo supremo,  
+**No son adecuados** para la **observancia** en esta era.
+</details>
 
 
-In regard to the rites in question, since they were adopted by such ancientācāryas as Parāśara who is described by Aḷavandār as one of the best sages, it cannot be maintained that they are against the traditional observance of all learned men.
+<details><summary>मूलम्</summary>
 
-(j) In the same way, it cannot be argued that, “though these rites were suitable as dharmas to be practised in other yugas, since in Kali Yuga, it is not possible to find men competent to perform such things as the upusana or meditation of the Supreme Self, they are pot suited for observance in this age. That is why it has been said :-“Whatever fruit a nan obtained in Krita Yuga by renunciation (tyāga), whatever fruit a man obtained in the Dvāpara Yuga by the performance of yajnas, whatever a man obtained in Tretayuga by worshipping the Lord, that a man attains in Kali Yuga by the mere mention of His names", and so also in the Mahābhārata " Kali Yuga has this one great advantage, O, king; in Kali, a man gets rid of his past karma by the mere mention of Śrī Kṛṣṇa's names and attains the Lord": Against this objection we may state that even at the present time, there may be present men who are competent to perform such things as upāsanas and who, like the ancient ācāryas, are established in yoga for its own sake, for it is said :-" To the * man who has Govinda at heart, there is Kritayuga in Kali yuga and to him who does not entertain Acyuta at heart, there is Kali Yuga even in Krita Yuga," If these were not admitted, it would follow that even prapatti, which is different from the mention of the Lord's names (samkārtana) is not to be performed, because it is difficult to find men who are competent to perform it and who have the intense faith (maha visvasa ) necessary for it, for it has been said :-“There is no man (O Brahma) who is competent to be initiated into this mantru. who is competent to perform the rite uttering this mantra or who will listen to it." Therefore since there is no other objection to such things as upāsanas, they can be said to be unsuitable only for those adhikūrīs who are "destitute of all upāyas and who have no other way of salvation", because they are inappropriate for their competence in the same way as ablutions by complete immersion in water are unsuitable for those that are ill. It is in regard to such men as do not understand their being incompetent ( for bhakti or upāsana ) and who adopt it as a means that it is said: “It is owing to the weakness of mind which fails to understand its competence or incompetence that a man adopts bhakti as an upāya. Therefore even these upāsanas and the like are, for other adhikārīs, suitable to the extent of their competence. Incompetence for them arises from inability to adopt them or the inability to endure delay (in attaining salvation). The man who has this incompetence adopts prapatti. The man who has adopted prapatti as an independent and direct upāya is proclaimed as "one who has  performed a sacrifice, one who has done what he ought to do' and 'one who has performed a hundred sacrifices' by the Alvars, the great sages and the Lord's Śāstras ( Bhagavat Sāstra) and the Vedas. Further these authorities also praise all his activities up to the time of death, as if they were the varied duties connected with yajnas and ending with the final bath (avabhrita). They hold also that, in the same way as the man who has performed a yajna performs the compulsory and occasional rites (nitya and naimittika ) after it, the man who has adopted prapatti should perform the duties of his varṇa and āśrama as the commands of the Lord who is omnipotent and that the man who has performed the sacrifice or yajna of the self does not require the performance of any other activity for the fruit desired by him. Therefore as stated in such places as the śloka :-"The Yogi is superior to all those who practise austerities (tapas); he is superior also to the jnānīs and to those who perform the rites and duties (ordained for them). Therefore, O Arjuna, become a yogin"; the dharmas or activities of renunciation are superior to the activities or dharmas of action (pravṛtti); so also the yoga connected with the self is superior to all other yogas; of all yogas the highest is the yoga connected with (Śrī Kṛṣṇa), the son of Vāsudeva, for it has been said, "The man who fixes his mind on me and worships me with earnest faith should be considered as the highest among yogis". Similarly of all the vidyās or forms of meditation on the Supreme Self, only the particular vidyā which is called nyāsa, nikṣepa and so on is the highest, for, among other reasons, it is easy, it has to be performed only once, and it leads to the attainment of the end soon. This truth regarding the Nyāsa vidyā is stated explicitly in the Bhagavat Śāstra in the following ślokas: "Of all the austerities (tapas) prescribed for the attainment of mokṣa, the austerity called nyāsa (prapatti) is the highest ", and "Those who, with their thoughts fixed only on mokṣa, are absorbed in the per
+इप्पडि युगान्तरङ्गळिलिवै धर्मङ्गळाऩालुम् कलियुगत्तिल् यथोक्तमाऩ परमात्मोपासनादिगळुक्कधिकारिकळ् दुर्लभरागैयाले इवै इक्कालत्तुक्कुप्पॊरुन्दुमवैयऩ्ऱु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आगैयालेयऩ्ऱो ‘‘कलौ संकीर्त्य केशवम्’’(विष्णुपुराणम् ६-२-१७) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> That is why it has been said :-  
+>
+> > “Whatever fruit a man obtained in Krita Yuga by renunciation (tyāga),  
+whatever fruit a man obtained in the Dvāpara Yuga by the performance of yajnas,  
+whatever a man obtained in Tretayuga by worshipping the Lord,  
+that a man attains in Kali Yuga by the mere mention of His names",  
+
+</details>
+
+<details><summary>Español</summary>
+
+> Por eso **se ha dicho**:-
+>
+>> “Cualquiera que **sea** el fruto que un hombre **obtenido** en Krita Yuga por **renuncia** (Tyāga),  
+Cualquiera que **sea** la fruta que un hombre **obtuvo** en el dvāpara yuga por la **actuación** de Yajnas,  
+Cualquiera que **sea** un hombre **obtenido** en Tretayuga **adorando** al Señor,  
+esto un hombre **alcanza** en Kali Yuga  
+por la mera **mención** de sus nombres ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयालेयऩ्ऱो ‘‘कलौ संकीर्त्य केशवम्’’(विष्णुपुराणम् ६-२-१७) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>> ‘‘कलेर् दोष-निधे+++(ः)+++ राजन्न्  
+**अस्ति** ह्य् एको महागुणः ।  
+**कीर्तनाद्** एव कृष्णस्य  
+**मुक्त-बन्धः** परं **व्रजेत्**॥’’  
+(श्री भारतम् ११-३-५१) 
+>
+> ऎऩ्ऱुञ् जॊल्लुगिऱद् 
+
+ऎऩ्ऩवुम् ऒण्णादु। 
+</details>
+
+<details><summary>English</summary>
+
+>
+> and so also in the Mahābhārata  
+>
+> > " Kali Yuga has this one great advantage, O, king;  
+in Kali, a man gets rid of his past karma by the mere mention of Śrī Kṛṣṇa's names  
+and attains the Lord"
+
+In this way, it cannot be argued. 
+</details>
+
+<details><summary>Español</summary>
+
+>
+> Y así también en el Mahābhārata
+>
+>> "Kali Yuga **tiene** esta gran ventaja, oh, rey;  
+En Kali, un hombre **se deshace** de su karma pasado por la mera **mención** de los nombres de Śrī Kṛṣṇa  
+y **alcanza** el Señor "
+
+De esta manera, **no se puede discutir**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘कलेर्दोषनिधे राजन्नस्ति ह्येको महागुणः ।  
+कीर्तनादेव कृष्णस्य मुक्तबन्धः परं व्रजेत्॥’’  
+(श्री भारतम् ११-३-५१) ऎऩ्ऱुञ्जॊल्लुगिऱदॆऩ्ऩवुमॊण्णादु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘कलौ कृत-युगं तस्य,  
+कलिस् तस्य कृते युगे ।  
+यस्य चेतसि गोविन्दो,  
+हृदये यस्य नाच्युतः॥’’ +++(5)+++  
+(विष्णुधर्मः १०९-५७) 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘कलौ कृत-युगं तस्य,  
+कलिस् तस्य कृते युगे ।  
+यस्य चेतसि गोविन्दो,  
+हृदये यस्य नाच्युतः॥’’ +++(5)+++   
+(विष्णुधर्मः १०९-५७) 
+
+</details>
+
+<details><summary>विषयः</summary>
+
+भक्तिः, कालः, युगः
+</details>
+
+<details><summary>English</summary>
+
+Against this objection, for it is said :-
+
+> " To the man who has Govinda at heart,  
+there is Kritayuga in Kali yuga  
+and to him who does not entertain Acyuta at heart,  
+there is Kali Yuga even in Krita Yuga," 
+</details>
+
+<details><summary>Español</summary>
+
+Contra esta **objeción**, porque **se dice**:-
+
+> "Para el hombre que **tiene** Govinda en el corazón,  
+**Hay** Kritayuga en Kali Yuga  
+y para el que **no entretiene** a Acyuta en el corazón,  
+**Hay** Kali Yuga incluso en Krita Yuga ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘कलौ कृतयुगं तस्य कलिस्तस्य कृते युगे ।  
+यस्य चेतसि गोविन्दो हृदये यस्य नाच्युतः॥’’  
+(विष्णुधर्मः १०९-५७) ऎऩ्गिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इक्-कालत्तिलुम् उपासनादिगळुक्क् अधिकारिगळ्  
+स्वयं-प्रयोजन-योग-निष्ठर् आऩ पूर्वाचार्यर्गळ् पोले  
+संभावितर् इऱे। 
+</details>
+
+<details><summary>English</summary>
+
+we may state that even at the present time,  
+there may be present men who are competent to perform such things as upāsanas  
+and who, like the ancient ācāryas, are established in yoga for its own sake. 
+</details>
+
+<details><summary>Español</summary>
+
+Podemos **afirmar** que incluso en la actualidad,  
+**Puede haber** hombres presentes que **son** competentes para **realizar** cosas como upāsanas  
+y quién, como el antiguo ācāryas, **se establecen** en yoga por su propio bien.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इक्कालत्तिलुम् उपासनादिगळुक्कधिकारिकळ् स्वयं प्रयोजनयोगनिष्ठराऩ पूर्वाचार्यर्गळ् पोले संभावितरिऱे। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् अल्लाद बोदु  
+संकीर्तन-व्यतिरिक्तैय् आऩ प्रपत्तिक्कुम् 
+
+> ३९‘‘किन्नु तस्य च मन्त्रस्य  
+कर्मणः कमलासन ।  
+**न लभ्यते** ऽधिकारी वा  
+श्रोतु-कामोऽपि वा नर॥’’  
+(पौष्करसंहिता) 
+
+इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>English</summary>
+
+If these were not admitted,  
+it would follow that even prapatti,  
+which is different from the mention of the Lord's names (samkārtana),  
+for it has been said :-
+
+> “There is no man (O Brahma)  
+who is competent to be initiated into this mantra,  
+who is competent to perform the rite uttering this mantra  
+or who will listen to it." 
+</details>
+
+<details><summary>Español</summary>
+
+Si estos **no fueron admitidos**, 
+**Seguiría** que incluso Prapatti,  
+que **es** diferente de la mención de los nombres del Señor (Samkārtana),  
+porque **se ha dicho**:-
+
+> **“No hay** hombre (O Brahma)
+quien **es** competente para ser **iniciado** en este mantra,  
+quien **es** competente para **realizar** el rito que **pronuncia** este mantra  
+o quién lo **escuchará** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩल्लादबोदु संकीर्तन-व्यतिरिक्तैयाऩ प्रपत्तिक्कुम् ३९‘‘किन्नु तस्य च मन्त्रस्य कर्मणः कमलासन । न लभ्यतेऽधिकारी वा श्रोतुकामोऽपि वा नर॥’’(पौष्करसंहिता) इत्यादिगळिऱ्पडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महा-विश्वासादि-युक्तर् आऩव् अधिकारिगळ् तेट्टम् आगैयाले  
+अव्व् इडत्तिलुम् इप्-प्रसङ्गम् वरुम्।  
+</details>
+
+<details><summary>English</summary>
+
+is not to be performed,  
+because it is difficult to find men who are competent to perform it and who have the intense faith (maha-visvasa ) necessary for it. 
+</details>
+
+<details><summary>Español</summary>
+
+**no se debe realizar**,  
+Porque **es** difícil **encontrar** hombres que **sean** competentes para **realizarlo**  
+y que **tengan** la fe intensa (Maha-Visvasa) **necesaria** para ello.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+महाविश्वासादियुक्तराऩवधिकारिकळ् तेट्टमागैयाले अव्विडत्तिलुम् इप्प्रसङ्गम् वरुम्।  
+</details>
+
+
+
+
+
+
+Therefore since there is no other objection to such things as upāsanas, they can be said to be unsuitable only for those adhikūrīs who are "destitute of all upāyas and who have no other way of salvation", because they are inappropriate for their competence in the same way as ablutions by complete immersion in water are unsuitable for those that are ill. It is in regard to such men as do not understand their being incompetent ( for bhakti or upāsana ) and who adopt it as a means that it is said: “It is owing to the weakness of mind which fails to understand its competence or incompetence that a man adopts bhakti as an upāya. Therefore even these upāsanas and the like are, for other adhikārīs, suitable to the extent of their competence. Incompetence for them arises from inability to adopt them or the inability to endure delay (in attaining salvation). The man who has this incompetence adopts prapatti. The man who has adopted prapatti as an independent and direct upāya is proclaimed as "one who has  performed a sacrifice, one who has done what he ought to do' and 'one who has performed a hundred sacrifices' by the Alvars, the great sages and the Lord's Śāstras ( Bhagavat Sāstra) and the Vedas. Further these authorities also praise all his activities up to the time of death, as if they were the varied duties connected with yajnas and ending with the final bath (avabhrita). They hold also that, in the same way as the man who has performed a yajna performs the compulsory and occasional rites (nitya and naimittika ) after it, the man who has adopted prapatti should perform the duties of his varṇa and āśrama as the commands of the Lord who is omnipotent and that the man who has performed the sacrifice or yajna of the self does not require the performance of any other activity for the fruit desired by him. Therefore as stated in such places as the śloka :-"The Yogi is superior to all those who practise austerities (tapas); he is superior also to the jnānīs and to those who perform the rites and duties (ordained for them). Therefore, O Arjuna, become a yogin"; the dharmas or activities of renunciation are superior to the activities or dharmas of action (pravṛtti); so also the yoga connected with the self is superior to all other yogas; of all yogas the highest is the yoga connected with (Śrī Kṛṣṇa), the son of Vāsudeva, for it has been said, "The man who fixes his mind on me and worships me with earnest faith should be considered as the highest among yogis". Similarly of all the vidyās or forms of meditation on the Supreme Self, only the particular vidyā which is called nyāsa, nikṣepa and so on is the highest, for, among other reasons, it is easy, it has to be performed only once, and it leads to the attainment of the end soon. This truth regarding the Nyāsa vidyā is stated explicitly in the Bhagavat Śāstra in the following ślokas: "Of all the austerities (tapas) prescribed for the attainment of mokṣa, the austerity called nyāsa (prapatti) is the highest ", and "Those who, with their thoughts fixed only on mokṣa, are absorbed in the per
 
 formance of karmayoga and those, again, who follow jñāna yoga aod bhaktiyoga do not deserve to be placed on a par with even one-ten millionth of the man who has performed prapatti".
 
