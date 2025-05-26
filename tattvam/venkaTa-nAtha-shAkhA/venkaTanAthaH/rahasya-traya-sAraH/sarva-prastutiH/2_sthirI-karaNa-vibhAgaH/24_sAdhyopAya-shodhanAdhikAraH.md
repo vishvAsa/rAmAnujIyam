@@ -6038,7 +6038,9 @@ Por lo tanto, así como formas particulares de adoración y servicio a Bhagavān
 </details>
 
 
-## भक्ति-योगः स्वरूपानुकूलः
+## भक्ति-योगः 
+
+### स्वरूपानुकूलः
 
 <details><summary>English</summary>
 
@@ -6050,7 +6052,7 @@ THE VIEW THAT UPĀSANA OR BHAKTI IS INCONSISTENT WITH ONE'S ESSENTIAL NATURE IS 
 La opinión de que Upāsana o Bhakti **es inconsistente** con la naturaleza esencial de uno **es** incorrecto:
 </details>
 
-### शङ्का
+#### शङ्का
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इप्-पडि यथाऽधिकारम् शास्त्रम् विधित्त् अवऱ्ऱिलुम्  
@@ -6132,7 +6134,7 @@ y **no condenar** upāsanas (como estar en contra de la naturaleza).
 </details>
 
 
-### अ-नाशकता
+#### अ-नाशकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ऎङ्ङऩेय्?" ऎऩ्ऩिल्;  
@@ -6189,7 +6191,7 @@ porque el yo **es** eterno (y **no puede ser destruido**).
 </details>
 
 
-### कर्तृत्वम् अस्ति
+#### कर्तृत्वम् अस्ति
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रपत्त्य्-अनुष्ठानत्तिलुम् कैङ्कर्यत्तिलुम् बोले  
@@ -6532,7 +6534,7 @@ Como **resultado** de ciertas **acciones realizadas** en anteriores (**nacimient
 पूर्वानुष्ठितकर्मविशेषङ्गळिऩुडैय फलविशेषञ्जॊऩ्ऩ पडियत्तऩै।
 </details>
 
-### नानर्थावहकता
+#### नानर्थावहकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मोक्ष-प्रतिकूलङ्गळ् आऩ  
@@ -6589,7 +6591,7 @@ y porque **están ordenados** en los Śāstras solo para aquellos que **quieren*
 </details>
 
 
-### निगमनम्
+#### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् आत्म--स्व-रूपत्तैप् पऱ्ऱ  
@@ -6634,7 +6636,7 @@ que **están** en desacuerdo con la naturaleza esencial (del yo).
 </details>
 
 
-### वर्णाश्रमादि-निबन्धनं न प्रतिकूलम्
+#### वर्णाश्रमादि-निबन्धनं न प्रतिकूलम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > आऩालुम् आत्मा देहादि-विलक्षणऩ् आगैयाले  
@@ -6924,8 +6926,6 @@ lo cual **es necesario** para el **rendimiento** de todos los dharma.
 </details>
 
 
-
-## उपाय-स्वरूपम्
 ### अहं-कार-गर्भत्वं न
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8787,6 +8787,18 @@ y también **es repugnante** al público en general,
 सर्व-शिष्ट-बहिष्कारञ् जॊल्ल वॊण्णादु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र 
+
+> ‘‘तस्मै नमो मुनिवराय पराशराय’’  
+(आळवन्दार् स्तोत्रम् ४) 
+
+इत्य्-एवं श्लाघ्यैः पराशरादि-पूर्वाचार्यैर् अनुष्ठितत्वात्  
+सर्व-शिष्ट-बहिष्कारं वक्तुं न युज्यते ॥ 
+</details>
+
+
 <details><summary>English</summary>
 
 In regard to the rites in question, since they were adopted by such ancient ācāryas as Parāśara  
@@ -8814,6 +8826,15 @@ quien **es descrito** por Aḷavandār como uno de los mejores sabios,
 इवै इक्-कालत्तुक्कुप् पॊरुन्दुमवैय् अऩ्ऱु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> ( 10 ) इत्थं युगान्तरेष्व् एषां धर्मत्वेऽपि  
+कलियुगे यथोक्त-परमात्मोपासनादीनाम् अधिकारि-दौर्लभ्यात्  
+इमान्य् अस्य कालस्याननुगुणानि ;  
+
+</details>
+
+
 <details><summary>English</summary>
 
 > “In this same way, though these rites were suitable as dharmas to be practised in other yugas,  
@@ -8838,6 +8859,14 @@ Dado que en Kali Yuga, **no es posible encontrar** hombres competentes para **re
 
 > आगैयालेयऩ्ऱो ‘‘कलौ संकीर्त्य केशवम्’’(विष्णुपुराणम् ६-२-१७) ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अत एव किल,  
+“कलौ संकीत्य केशवम् " (विष्णुपुराणम् ६-२-१७) इति,  
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8879,6 +8908,20 @@ por la mera **mención** de sus nombres ",
 
 ऎऩ्ऩवुम् ऒण्णादु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+>> ‘‘कलेर् दोष-निधे+++(ः)+++ राजन्न्  
+**अस्ति** ह्य् एको महागुणः ।  
+**कीर्तनाद्** एव कृष्णस्य  
+**मुक्त-बन्धः** परं **व्रजेत्**॥’’  
+(श्री भारतम् ११-३-५१) 
+>
+> इत्य् उच्यते
+
+\- इत्यपि न युक्तम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8932,6 +8975,7 @@ De esta manera, **no se puede discutir**.
 हृदये यस्य नाच्युतः॥’’ +++(5)+++   
 (विष्णुधर्मः १०९-५७) 
 
+इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>विषयः</summary>
@@ -8974,6 +9018,14 @@ y para el que **no entretiene** a Acyuta en el corazón,
 संभावितर् इऱे। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् कालेऽपि  
+उपासनादीनाम् अधिकारिणः  
+स्वयं-प्रयोजन-योग-निष्ठ-पूर्वाचार्यवत् संभाविताः किल । 
+</details>
+
+
 <details><summary>English</summary>
 
 we may state that even at the present time,  
@@ -9006,6 +9058,20 @@ y quién, como el antiguo ācāryas, **se establecen** en yoga por su propio bie
 
 इत्य्-आदिगळिऱ् पडिये 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा संकीर्तन-व्यतिरिक्तायाः प्रपत्तेर् अपि 
+
+> ३९‘‘किन्नु तस्य च मन्त्रस्य  
+कर्मणः कमलासन ।  
+**न लभ्यते** ऽधिकारी वा  
+श्रोतु-कामोऽपि वा नर॥’’  
+(पौष्करसंहिता) 
+
+इत्य्-आद्य्-उक्त-रीत्या 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9065,12 +9131,159 @@ y que **tengan** la fe intensa (Maha-Visvasa) **necesaria** para ello.
 महाविश्वासादियुक्तराऩवधिकारिकळ् तेट्टमागैयाले अव्विडत्तिलुम् इप्प्रसङ्गम् वरुम्।  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+महा-विश्वासादि-युक्तानाम् अधिकारिणां दौलभ्यात्  
+तत्रापि +अयं प्रसङ्गः प्रवर्तेत । 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩ बिऩ्बु  
+उपासनादिगळुक्कु वेऱ् ऒरु विरोधम् इल्लामैयाले  
+यथा-शास्त्रं  
+आतुरादिगळुक्क् अवगाहनादिगळ् पोले  
+इवै 
+
+> ४०‘‘अकिञ्चनोऽनन्य-गतिः’’  
+(आळवन्दार् स्तोत्रम् २२)
+
+ऎऩ्ऱ् इरुक्कुम् अधिकारिक्कु  
+स्वाधिकार-विरुद्धङ्गळ् ऎऩ्ऩप् प्राप्तम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत उपासनादिष्व् अन्यस्य कस्यचिद् विरोधस्याभावात्  
+यथा-शास्त्रम्  
+आतुरादीनाम् अवगाहनादीनीव  
+इमानि 
+> ४०‘‘अकिञ्चनोऽनन्य-गतिः’’  
+(आळवन्दार् स्तोत्रम् २२)
+
+इति वर्तमानस्याधिकारिणः स्वाधिकार-विरुद्धानीति वक्तुं युक्तम् । 
+</details>
 
 
+<details><summary>English</summary>
 
-Therefore since there is no other objection to such things as upāsanas, they can be said to be unsuitable only for those adhikūrīs who are "destitute of all upāyas and who have no other way of salvation", because they are inappropriate for their competence in the same way as ablutions by complete immersion in water are unsuitable for those that are ill. It is in regard to such men as do not understand their being incompetent ( for bhakti or upāsana ) and who adopt it as a means that it is said: “It is owing to the weakness of mind which fails to understand its competence or incompetence that a man adopts bhakti as an upāya. Therefore even these upāsanas and the like are, for other adhikārīs, suitable to the extent of their competence. Incompetence for them arises from inability to adopt them or the inability to endure delay (in attaining salvation). The man who has this incompetence adopts prapatti. The man who has adopted prapatti as an independent and direct upāya is proclaimed as "one who has  performed a sacrifice, one who has done what he ought to do' and 'one who has performed a hundred sacrifices' by the Alvars, the great sages and the Lord's Śāstras ( Bhagavat Sāstra) and the Vedas. Further these authorities also praise all his activities up to the time of death, as if they were the varied duties connected with yajnas and ending with the final bath (avabhrita). They hold also that, in the same way as the man who has performed a yajna performs the compulsory and occasional rites (nitya and naimittika ) after it, the man who has adopted prapatti should perform the duties of his varṇa and āśrama as the commands of the Lord who is omnipotent and that the man who has performed the sacrifice or yajna of the self does not require the performance of any other activity for the fruit desired by him. Therefore as stated in such places as the śloka :-"The Yogi is superior to all those who practise austerities (tapas); he is superior also to the jnānīs and to those who perform the rites and duties (ordained for them). Therefore, O Arjuna, become a yogin"; the dharmas or activities of renunciation are superior to the activities or dharmas of action (pravṛtti); so also the yoga connected with the self is superior to all other yogas; of all yogas the highest is the yoga connected with (Śrī Kṛṣṇa), the son of Vāsudeva, for it has been said, "The man who fixes his mind on me and worships me with earnest faith should be considered as the highest among yogis". Similarly of all the vidyās or forms of meditation on the Supreme Self, only the particular vidyā which is called nyāsa, nikṣepa and so on is the highest, for, among other reasons, it is easy, it has to be performed only once, and it leads to the attainment of the end soon. This truth regarding the Nyāsa vidyā is stated explicitly in the Bhagavat Śāstra in the following ślokas: "Of all the austerities (tapas) prescribed for the attainment of mokṣa, the austerity called nyāsa (prapatti) is the highest ", and "Those who, with their thoughts fixed only on mokṣa, are absorbed in the per
+Therefore since there is no other objection to such things as upāsanas,  
+they can be said to be unsuitable only for those adhikarīs  
+who are "destitute of all upāyas  
+and who have no other way of salvation",  
+because they are inappropriate for their competence  
+in the same way as ablutions by complete immersion in water  
+are unsuitable for those that are ill. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, dado que **no hay** otra **objeción** a cosas como upāsanas,  
+**Se puede decir** que **son** inadecuados solo para esos adhikarīs  
+que **son** 
+
+> "indigentes de todos los upāyas
+y que **no tienen** otra forma de **salvación** ",
+
+porque **son** inapropiados para **su competencia**  
+De la misma manera que las **abluciones** por **inmersión** completa en el agua  
+**son** inadecuados para aquellos que **están** enfermos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩबिऩ्बु उपासनादिगळुक्कु वेऱॊरु विरोधमिल्लामैयाले यथाशास्त्रं आतुरादिगळुक्कवगाहनादिगळ् पोले इवै 
+४०‘‘अकिञ्चनोऽनन्य-गतिः’’ (आळवन्दार् स्तोत्रम् २२)
+ऎऩ्ऱिरुक्कुमधिकारिक्कु स्वाधिकारविरुद्धङ्गळॆऩ्ऩप्प्राप्तम्।
+</details>
+
+#### अनधिकारिण्य् एव विरोधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अधिकार-विरोधम् अऱियादे  
+उपासनादिगळिले प्रवर्तिक्कुम् अवऩैप् पऱ्ऱ 
+
+> ४१ ‘‘+++(अनधिकृत-)+++नरस्य बुद्धि-दौर्बल्याद्  
++++(भक्ति-रूप-)+++उपायान्तरम् इष्यते’’(लक्ष्मीतन्त्रम् २८-१७) 
+
+ऎऩ्ऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमम् अधिकार-विरोधम् अ-ज्ञात्वा  
+उपासनादिषु प्रवर्तमानं प्रति, 
+
+> ४१ ‘‘+++(अनधिकृत-)+++नरस्य बुद्धि-दौर्बल्याद्  
++++(भक्ति-रूप-)+++उपायान्तरम् इष्यते’’(लक्ष्मीतन्त्रम् २८-१७) 
+
+इत्य्-उक्तम् ।
+</details>
+
+<details><summary>English</summary>
+
+It is in regard to such men as do not understand their being incompetent ( for bhakti or upāsana )  
+and who adopt it as a means  
+that it is said: 
+
+> “It is owing to the weakness of mind  
+which fails to understand its competence or incompetence  
+that a man adopts bhakti as an upāya."  
+</details>
+
+<details><summary>Español</summary>
+
+**Se trata** de que los hombres **no entiendan** que **son incompetentes** (para Bhakti o Upāsana)  
+y que lo **adoptan** como un medio  
+que **se dice**:
+
+> “**Se** debe a la debilidad mental  
+que **no entiende** su competencia o incompetencia  
+que un hombre **adopta** Bhakti como un upāya ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वधिकार-विरोधमऱियादे उपासनादिगळिले प्रवर्तिक्कुमवऩैप् पऱ्ऱ ४१‘‘नरस्य बुद्धि-दौर्बल्यादुपायान्तरमिष्यते’’(लक्ष्मीतन्त्रम् २८-१७) ऎऩ्ऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् इव्व्-उपासनादिगळुम्  
+अधिकार्य्-अन्तरत्तिऱ्कु यथाऽधिकारम् अनुगुणङ्गळ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत इमान्य् उपासनादीनि  
+अधिकार्य्-अन्तरस्य यथाधिकारम् अनुगुणानि ॥
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore even these upāsanas and the like are, for other adhikārīs, suitable to the extent of their competence. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, incluso estas upāsanas y similares **son**, para otros adhikārīs, **adecuados** para la extensión de su competencia.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् इव्वुपासनादिगळुम् अधिकार्यन्तरत्तिऱ्कु यथाधिकारमनुगुणङ्गळ्।
+</details>
+
+
+## प्रपत्त्य्-उत्कर्षः
+
+
+Incompetence for them arises from inability to adopt them or the inability to endure delay (in attaining salvation). The man who has this incompetence adopts prapatti. The man who has adopted prapatti as an independent and direct upāya is proclaimed as "one who has  performed a sacrifice, one who has done what he ought to do' and 'one who has performed a hundred sacrifices' by the Alvars, the great sages and the Lord's Śāstras ( Bhagavat Sāstra) and the Vedas. Further these authorities also praise all his activities up to the time of death, as if they were the varied duties connected with yajnas and ending with the final bath (avabhrita). They hold also that, in the same way as the man who has performed a yajna performs the compulsory and occasional rites (nitya and naimittika ) after it, the man who has adopted prapatti should perform the duties of his varṇa and āśrama as the commands of the Lord who is omnipotent and that the man who has performed the sacrifice or yajna of the self does not require the performance of any other activity for the fruit desired by him. Therefore as stated in such places as the śloka :-"The Yogi is superior to all those who practise austerities (tapas); he is superior also to the jnānīs and to those who perform the rites and duties (ordained for them). Therefore, O Arjuna, become a yogin"; the dharmas or activities of renunciation are superior to the activities or dharmas of action (pravṛtti); so also the yoga connected with the self is superior to all other yogas; of all yogas the highest is the yoga connected with (Śrī Kṛṣṇa), the son of Vāsudeva, for it has been said, "The man who fixes his mind on me and worships me with earnest faith should be considered as the highest among yogis". Similarly of all the vidyās or forms of meditation on the Supreme Self, only the particular vidyā which is called nyāsa, nikṣepa and so on is the highest, for, among other reasons, it is easy, it has to be performed only once, and it leads to the attainment of the end soon. This truth regarding the Nyāsa vidyā is stated explicitly in the Bhagavat Śāstra in the following ślokas: "Of all the austerities (tapas) prescribed for the attainment of mokṣa, the austerity called nyāsa (prapatti) is the highest ", and "Those who, with their thoughts fixed only on mokṣa, are absorbed in the per
 
 formance of karmayoga and those, again, who follow jñāna yoga aod bhaktiyoga do not deserve to be placed on a par with even one-ten millionth of the man who has performed prapatti".
 
