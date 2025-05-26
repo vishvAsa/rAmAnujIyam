@@ -8291,7 +8291,7 @@ Dado que Bhakti o Upāsana **se practica** por **alcanzar** mokṣa,
 उपासनत्तिल् अदऱ्कुप् प्रसक्तिये इल्लै यॆऩ्गिऱार् इङ्गु फलमित्यादिना । 
 </details>
 
-
+#### प्ररोचनार्थो न भक्ति-विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > एकाधिकारि-विषयत्तिले एक-फलत्तुक्कु  
@@ -8459,12 +8459,20 @@ porque entonces **tendrían** que **admitir** que Bhakti es un AṅGA o accesori
 ऎऩ्ऱु करुत्तु।
 </details>
 
+#### शब्दः प्रमाणम् अनुरूपत्वे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्यत्तुक्क् इऩ्ऩद् अनुरूपम् ऎऩ्ऩुम् इडम्  
 शास्त्र-वेद्यम् आगैयाले  
 युक्ति-मात्रत्ताले प्राप्य-विरोधञ् जॊल्ल वॊण्णादु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्राप्यस्येदृशम् अनुरूपम् इत्य् अर्थस्य शास्त्र-वेद्यत्वात्  
+युक्ति-मात्रेण प्राप्य-विरोधो वक्तुं न युज्यते ।
+</details>
+
 
 <details><summary>English</summary>
 
