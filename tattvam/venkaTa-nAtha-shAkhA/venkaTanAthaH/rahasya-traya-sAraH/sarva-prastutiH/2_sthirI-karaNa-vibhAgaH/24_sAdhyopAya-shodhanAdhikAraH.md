@@ -9289,13 +9289,24 @@ Por lo tanto, incluso estas upāsanas y similares **son**, para otros adhikārī
 इप्-प्रपत्तियै स्वतन्त्रोपायम् आगप् पऱ्ऱिऩ् अवऩै 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२१९]] 
+
+तेषु सामर्थ्याभावात् विलम्ब-क्षमत्वाभावाद् वा  
+इमां प्रपत्ति स्व-तन्त्रोपायत्वेन परिगृहीतवन्तम् -  
+
+</details>
+
+
 <details><summary>English</summary>
 
 Incompetence for them arises  
 from inability to adopt them  
 or the inability to endure delay (in attaining salvation).  
 The man who has this incompetence adopts prapatti.  
-The man who has adopted prapatti as an independent and direct upāya  
+
+The man who has adopted prapatti as an independent and direct upāya … 
 </details>
 
 <details><summary>Español</summary>
@@ -9304,7 +9315,7 @@ La incompetencia para ellos **surge**
 De la incapacidad para **adoptarlos**  
 o la incapacidad para **soportar** el **retraso** (para **alcanzar** la **salvación**).  
 El hombre que **tiene** esta incompetencia **adopta** Prapatti.  
-El hombre que **ha adoptado** a Prapatti como un independiente y dirigido upāya
+El hombre que **ha adoptado** a Prapatti como un independiente y dirigido upāya …
 </details>
 
 
@@ -9320,6 +9331,14 @@ El hombre que **ha adoptado** a Prapatti como un independiente y dirigido upāya
 ४४‘‘अनुष्ठित-क्रतु-शतऩ्’’(अहिर्बुध्न्य-सम् ३७-४९) ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+४२’’कृत-याग’’(तिरुवाय्मॊऴि ५-७-५) इति,  
+४३‘‘कृतकृत्य’’(सात्यकि-तन्त्रम्) इति,  
+४४‘‘अनुष्ठित-क्रतु-शत’’(अहिर्बुध्न्य-सम् ३७-४९) इति चोक्त्वा,  
+</details>
+
+
 <details><summary>English</summary>
 
 is proclaimed as 
@@ -9330,8 +9349,6 @@ one who has done what he ought to do'
 and 
 
 > 'one who has performed a hundred sacrifices' 
-
-by the Alvars, the great sages and the Lord's Śāstras ( Bhagavat Sāstra) and the Vedas. 
 </details>
 
 <details><summary>Español</summary>
@@ -9344,8 +9361,6 @@ uno que **ha hecho** lo que **debería hacer** '
 y
 
 > 'Uno que **ha realizado** cien sacrificios'
-
-por los Alvars, los grandes sabios y los Śāstras del Señor (Bhagavat Sāstra) y los Vedas.
 </details>
 
 
@@ -9360,6 +9375,13 @@ por los Alvars, los grandes sabios y los Śāstras del Señor (Bhagavat Sāstra)
 इवऩुक्कु मरणान्तम् आग नडक्किऱ व्यापारङ्गळै  
 अवभृथ-पर्यन्त-कर्तव्य-कलापङ्गळ् आग स्तुतित्तुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य मरणान्तं प्रवर्तमानान् व्यापारान्  
+अवभृथ-पर्यन्त-कर्तव्य-कलापत्वेन स्तुत्वा च  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9381,11 +9403,369 @@ y **terminando** con el baño final (Avabhritha).
 इवऩुक्कु मरणान्तमाग नडक्किऱव्यापारङ्गळै अवभृथपर्यन्तकर्तव्यकलापङ्गळाग स्तुतित्तुम् 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्रत्व्-अन्तरानुष्ठानम् पण्णिऩवऩुक्कु  
+मेल्-उळ्ळ नित्य-नैमित्तिकङ्गळ् पोले  
+इवऩुक्कु स्व-तन्त्र-विधियाले वर्णाश्रमादि-धर्मङ्गळ् नडवा निऱ्कच् चॆय्देयुम् 
+</details>
+
+<details><summary>English</summary>
+
+They hold also that,  
+in the same way as the man who has performed a yajna  
+performs the compulsory and occasional rites (nitya and naimittika ) after it,  
+the man who has adopted prapatti should perform the duties of his varṇa and āśrama  
+as the commands of the Lord who is omnipotent.  
+</details>
+
+<details><summary>Español</summary>
+
+También **sostienen** que,
+De la misma manera que el hombre que **ha realizado** un Yajna  
+**realiza** los ritos obligatorios y ocasionales (nitya y naimittika) después de él,  
+El hombre que ha **adoptado** Prapatti **debe realizar** los **deberes** de su varṇa y āśrama  
+Como los **mandamientos** del Señor que es omnipotente.
+</details>
 
 
-They hold also that, in the same way as the man who has performed a yajna performs the compulsory and occasional rites (nitya and naimittika ) after it, the man who has adopted prapatti should perform the duties of his varṇa and āśrama as the commands of the Lord who is omnipotent and that the man who has performed the sacrifice or yajna of the self does not require the performance of any other activity for the fruit desired by him. Therefore as stated in such places as the śloka :-"The Yogi is superior to all those who practise austerities (tapas); he is superior also to the jnānīs and to those who perform the rites and duties (ordained for them). Therefore, O Arjuna, become a yogin"; the dharmas or activities of renunciation are superior to the activities or dharmas of action (pravṛtti); so also the yoga connected with the self is superior to all other yogas; of all yogas the highest is the yoga connected with (Śrī Kṛṣṇa), the son of Vāsudeva, for it has been said, "The man who fixes his mind on me and worships me with earnest faith should be considered as the highest among yogis". Similarly of all the vidyās or forms of meditation on the Supreme Self, only the particular vidyā which is called nyāsa, nikṣepa and so on is the highest, for, among other reasons, it is easy, it has to be performed only once, and it leads to the attainment of the end soon. This truth regarding the Nyāsa vidyā is stated explicitly in the Bhagavat Śāstra in the following ślokas: "Of all the austerities (tapas) prescribed for the attainment of mokṣa, the austerity called nyāsa (prapatti) is the highest ", and "Those who, with their thoughts fixed only on mokṣa, are absorbed in the per
+<details><summary>मूलम्</summary>
 
-formance of karmayoga and those, again, who follow jñāna yoga aod bhaktiyoga do not deserve to be placed on a par with even one-ten millionth of the man who has performed prapatti".
+क्रत्वन्तरानुष्ठानम् पण्णिऩवऩुक्कु मेलुळ्ळ नित्यनैमित्तिकङ्गळ् पोले इवऩुक्कु स्वतन्त्रविधियाले वर्णाश्रमादिधर्मङ्गळ् नडवा निऱ्कच्चॆय्देयुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुष्ठितात्म-याग-फलत्तैप् पऱ्ऱ कर्तव्यान्तर-निरपेक्षऩ् आगवुम् 
+</details>
+
+<details><summary>English</summary>
+
+and that the man who has performed the sacrifice or yajna of the self  
+does not require the performance of any other activity for the fruit desired by him. 
+</details>
+
+<details><summary>Español</summary>
+
+y que el hombre que **ha realizado** el sacrificio o yajna del yo  
+**no requiere** el **rendimiento** de ninguna otra **actividad** para la fruta **deseada** por él.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुष्ठितात्मयागफलत्तैप्पऱ्ऱ कर्तव्यान्तरनिरपेक्षऩागवुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऴ्वार्गळुम्, महर्षिगळुम्, भगवच्-छास्त्रङ्गळुम्, वेदङ्गळुम् घोषिया निऩ्ऱऩ। 
+</details>
+
+<details><summary>English</summary>
+
+(This is declared) by the Alvars, the great sages and the Lord's Śāstras ( Bhagavat Sāstra) and the Vedas. 
+</details>
+
+<details><summary>Español</summary>
+
+(Esto **es declarado**) por los Alvars, los grandes sabios y los Śāstras del Señor (Bhagavat Sāstra) y los Vedas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऴ्वार्गळुम्, महर्षिकळुम्, भगवच्छास्त्रङ्गळुम्, वेदङ्गळुम् घोषिया निऩ्ऱऩ। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् 
+
+> ‘‘तपस्विभ्यो ऽधिको योगी  
+ज्ञानिभ्योऽपि मतोऽधिकः ।  
+कर्मिभ्यश् चाधिको योगी  
+तस्माद् योगी भवार्जुन॥’’  
+(गीता ६-४६) 
+
+इत्यादिगळाले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तपस्विभ्यो ऽधिको योगी  
+ज्ञानिभ्योऽपि मतोऽधिकः ।  
+कर्मिभ्यश् चाधिको योगी  
+तस्माद् योगी भवार्जुन॥’’  
+(गीता ६-४६) 
+
+</details>
+
+<details><summary>विषयः</summary>
+
+योगी, योगः, ज्ञानम्, ज्ञानी, तपस्वी, तपः
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore as stated in such places as the śloka :-
+
+> "The Yogi is superior to all those who practise austerities (tapas);  
+he is superior also to the jnānīs  
+and to those who perform the rites and duties (ordained for them).  
+Therefore, O Arjuna, become a yogin"; 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, como se indica en lugares como el Śloka:-
+
+> "El yogui es superior a todos los que practican austeridades (tapas);
+Él es superior también para los Jnānīs
+y para aquellos que realizan los ritos y deberes (ordenados para ellos).
+Por lo tanto, oh arjuna, conviértete en un yoguin ";
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ‘‘तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः । कर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन॥’’(गीता ६-४६) इत्यादिगळाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रवृत्तिधर्मङ्गळिऱ् काट्टिल्  
+निवृत्तिधर्मङ्गळ् श्रेष्ठङ्गळ् आऩाऱ् पोलवुम्, 
+</details>
+
+<details><summary>English</summary>
+
+the dharmas or activities of renunciation are superior to the activities or dharmas of action (pravṛtti); 
+</details>
+
+<details><summary>Español</summary>
+
+Los dharmas o actividades de **renuncia son** superiores a las actividades o dharmas de **acción** (pravṛtti);
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रवृत्तिधर्मङ्गळिऱ्काट्टिल् निवृत्तिधर्मङ्गळ् श्रेष्ठङ्गळाऩाऱ्पोलवुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवै तऩ्ऩिल् आत्म-विषयम् आऩ योगम् श्रेष्ठम् आऩाऱ् पोलवुम्, 
+</details>
+
+<details><summary>English</summary>
+
+so also the yoga connected with the self is superior to all other yogas; 
+</details>
+
+<details><summary>Español</summary>
+
+Así también el yoga **conectado** con el yo **es** superior a todos los demás yogas;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवै तऩ्ऩिल् आत्मविषयमाऩ योगम् श्रेष्ठमाऩाऱ्पोलवुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+योगङ्गळिऱ् काट्टिल्  
+
+> ‘‘योगिनाम् अपि सर्वेषां’’(गीता ६-४७) 
+
+ऎऩ्गिऱ बडिये वसु-देव--नन्दन-विषयम् आऩ योगम् श्रेष्ठम् आऩाऱ् पोलवुम् 
+</details>
+
+<details><summary>English</summary>
+
+of all yogas the highest is the yoga connected with (Śrī Kṛṣṇa) the son of Vāsudeva,  
+for it has been said, 
+
+> "The man who fixes his mind on me and worships me with earnest faith  
+should be considered as the highest among yogis". 
+</details>
+
+<details><summary>Español</summary>
+
+De todos los yogas, el más alto **es** el yoga **conectado** con (Śrī Kṛṣṇa) el hijo de Vāsudeva,  
+porque **se ha dicho**  
+
+> "El hombre que **me arregla** la mente y **me adora** con fe sincera  
+**debe considerarse** como el más alto entre los yoguis ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+योगङ्गळिऱ्काट्टिल् ‘‘योगिनामपि सर्वेषां’’(गीता ६-४७) ऎऩ्गिऱबडिये वसुदेवनन्दनविषयमाऩ योगम् श्रेष्ठमाऩाऱ्पोलवुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(तादृशेषु)+++ परमात्म-विषय-विद्या-विशेषङ्गळ् ऎल्लात्तिलुम्  
+न्यास-निक्षेपादि-शब्दङ्गळाले सॊल्लप् पट्ट विद्या-विशेषमे  
+सु-करत्व सकृत्-कर्तव्यत्व शीघ्र-फल-प्रदत्वादिगळाले श्रेष्ठतमम्। 
+</details>
+
+<details><summary>English</summary>
+
+Similarly of all the vidyās or forms of meditation on the Supreme Self,  
+only the particular vidyā which is called nyāsa, nikṣepa and so on is the highest,  
+for, among other reasons, it is easy,  
+it has to be performed only once,  
+and it leads to the attainment of the end soon. 
+</details>
+
+<details><summary>Español</summary>
+
+Del mismo modo de todos los vidyās o formas de **meditación** en el **ser** supremo,  
+Solo el Vidyā particular que **se llama** Nyāsa, Nikṣepa, etc. **es** el más alto,  
+Por, entre otras razones, **es** fácil,  
+**tiene** que **realizarse** solo una vez,  
+Y **lleva** al logro del final pronto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परमात्मविषयविद्याविशेषङ्गळॆल्लात्तिलुम् न्यासनिक्षेपादिशब्दङ्गळाले सॊल्लप्पट्ट विद्याविशेषमे सुकरत्व सकृत्कर्तव्यत्व शीघ्रफलप्रदत्वादिगळाले श्रेष्ठतमम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न्यास-विद्यैयिले कण्ठोक्तम् आऩ इव्व्-अर्थत्तै 
+</details>
+
+<details><summary>English</summary>
+
+This truth regarding the Nyāsa vidyā 
+</details>
+
+<details><summary>Español</summary>
+
+Esta verdad con respecto al Nyāsa Vidyā
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न्यासविद्यैयिले कण्ठोक्तमाऩ इव्वर्थत्तै 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तेषां तु तपसां न्यासम्  
+अतिरिक्तं तपश् श्रुतं’’  
+(अहिर्बुध्न्य-संहिता ३७-३६) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तेषां तु तपसां न्यासम्  
+अतिरिक्तं तपश् श्रुतं’’  
+(अहिर्बुध्न्य-संहिता ३७-३६) 
+</details>
+
+<details><summary>English</summary>
+
+> "Of all the austerities (tapas) prescribed for the attainment of mokṣa,  
+the austerity called nyāsa (prapatti) is the highest ", 
+</details>
+
+<details><summary>Español</summary>
+
+> "De todas las austeridades (tapas) **prescritas** para el **logro** de mokṣa,  
+La austeridad llamada Nyāsa (Prapatti) **es** la más alta ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तेषां तु तपसां न्यासमतिरिक्तं तपश्श्रुतं’’(अहिर्बुध्न्य-संहिता ३७-३६) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सत्-कर्म-**निरताश्** शुद्धास्  
+सांख्य-योग-**विदस्** तथा ।  
+**नार्हन्ति** शरण-स्थस्य  
+कलां कोटितमीम् अपि॥’’  
+(लक्ष्मीतन्त्रम् १७-६२) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सत्-कर्म-**निरताश्** शुद्धास्  
+सांख्य-योग-**विदस्** तथा ।  
+**नार्हन्ति** शरण-स्थस्य  
+कलां कोटितमीम् अपि॥’’  
+(लक्ष्मीतन्त्रम् १७-६२) 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "Those who, with their thoughts fixed only on mokṣa, are absorbed in the performance of karmayoga  
+and those, again, who follow jñāna yoga aod bhaktiyoga  
+do not deserve to be placed on a par with even one-ten millionth of the man who has performed prapatti".
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "Aquellos que, con **sus pensamientos** se **fijan** solo en mokṣa, **están absorbidos** en el **rendimiento** de Karmayoga  
+y aquellos, de nuevo, que **siguen** a Jñāna Yoga Aod Bhaktiyoga  
+**No merezca ser colocado** a la par con incluso una meseta del hombre que **ha realizado** Prapatti ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सत्कर्मनिरताश्शुद्धास्सांख्ययोगविदस्तथा ।  
+नार्हन्ति शरणस्थस्य कलां कोटितमीमपि॥’’  
+(लक्ष्मीतन्त्रम् १७-६२) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु भगवच्छास्त्रमुपबृंहित्तदु। 
+</details>
+
+<details><summary>English</summary>
+
+is stated explicitly in the Bhagavat Śāstra in the above ~~following~~ ślokas.
+</details>
+
+<details><summary>Español</summary>
+
+**se afirma** explícitamente en el Bhagavat Śāstra en lo anterior ~~siguiente~~ ślokas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु भगवच्छास्त्रमुपबृंहित्तदु। 
+</details>
+
+
+ 
+
+
+
+
 
 To the man who is unable (owing to illness ) to perform such things as ablution by immersion," the medita:ion on  Viṣṇu, which is called mental ablation, is ordained; thereby he obtains not only the purity of those who perform the other kinds of ablution, but acquires freedom from sins and the pleasure of the immediate enjoyment of Bhagavān. In the same way, though prapatti is ordained for those who are not competent to perform such things as upāsanas, it confers the fruits attainable from them; it secures them (the upāya, namely, upāsana also); it redeems the man who is destitute of all other upāyas ( akiñcana ); and further it secures the fruit (desired by him) at the time when he wants it. Therefore prapatti has superior potency.
 
