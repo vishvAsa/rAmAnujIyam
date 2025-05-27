@@ -10714,17 +10714,139 @@ WHY SHOULD INTENSE FAITH BE CALLED AN AṅGA INSTEAD OF MERE FAITH ?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्ववकाशत्तिले वेऱे सिलर् आस्तिकऩुक्कु शास्त्रार्थविश्वासम् पिऱक्कुमदुक्कु मेऱ्पड महाविश्वासमॆऩ्ऱॆऩ्ऱुण्डो; 
+इव्ववकाशत्तिले वेऱे सिलर् 
+
+> आस्तिकऩुक्कु शास्त्रार्थ-विश्वासम् पिऱक्कुम्  
+अदुक्कु मेऱ्-पड महा-विश्वासम् ऎऩ्ऱ् ऒऩ्ऱ् उण्डो; 
 </details>
+
+<details><summary>English</summary>
+
+In this connection, some others --- 
+
+> When the believer has faith in what is stated in the śāstras,  
+what is the meaning of saying that there is something else called 'intense faith' or mahavisvasa?  
+
+</details>
+
+<details><summary>Español</summary>
+
+A este respecto, otros ---
+
+> Cuando el **creyente tiene** fe en lo que **se dice** en los Śāstras,  
+¿Cuál es el **significado** de **decir** que hay algo más **llamado** 'fe intensa' o mahavisvasa?
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-इव्ववकाशत्तिले वेऱे सिलर् आस्तिकऩुक्कु शास्त्रार्थविश्वासम् पिऱक्कुमदुक्कु मेऱ्पड महाविश्वासमॆऩ्ऱॆऩ्ऱुण्डो; 
+इव्ववकाशत्तिले वेऱे सिलर् आस्तिकऩुक्कु शास्त्रार्थविश्वासम् पिऱक्कुमदुक्कु मेऱ्पड महाविश्वासमॆऩ्ऱॊऩ्ऱुण्डो; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आगैयाल् इदुवुम् सर्व-शास्त्रार्थ-साधारणम् आम् अत्तऩै पोक्कि  
+> प्रपत्तिक्कु विशेषित्त् अङ्गम् आगव् अऱ्ऱोव् 
+
+ऎऩ्ऱु निऩैप्पर्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+> Therefore there is no point in holding that  
+>
+>> this mahāvisvasa is anything other than the faith in the śāstra, which is general  
+and that it is a special aṅga or accessory of prapatti.  
+
+
+(some) may contend as above ~~follows~~.
+</details>
+
+<details><summary>Español</summary>
+
+> Por lo tanto, **no tiene** sentido **sostener** que
+>
+>> Este Mahāvisvasa **es** otra cosa que la fe en el Śāstra, que **es** general  
+y que **es** un AṅGA o accesorio especial de Prapatti.
+
+(algunos) **pueden contener** como arriba ~~sigue~~.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् इदुवुम् सर्वशास्त्रार्थसाधारणमामत्तऩै पोक्कि प्रपत्तिक्कु विशेषित्तङ्गमागवऱ्ऱोवॆऩ्ऱु निऩैप्पर्गळ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदुवुम् 
+
+> ‘‘न विश्वसेद् अ-विश्वस्ते  
+विश्वस्ते नातिविश्वसेत्’’ +++(5)+++  
+(भारतम् उद्योग-पर्व ३८-९) 
+
+इत्यादिगळिले विश्वास-तारतम्यम् प्रसिद्धम् आगैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+This contention (or objection) is refuted by the well-known fact that  
+there are degrees of faith as stated in the śloka:
+
+> "One should never place confidence in a man whom one does not trust.  
+Even in a man whom one trusts,  
+too much confidence should not be reposed." 
+</details>
+
+<details><summary>Español</summary>
+
+Esta contención (u objeción) **es refutada** por **el hecho conocido** de que  
+**Hay** grados de fe como **se indica** en el Śloka:
+
+> "Uno **nunca debe poner** confianza en un hombre en el que **no confía**.  
+Incluso en un hombre en el que uno **confía**,  
+Demasiada confianza **no debe ser repuesta** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदुवुम् ‘‘न विश्वसेदविश्वस्ते विश्वस्ते नातिविश्वसेत्’’(भारतम् उद्योग-पर्व ३८-९) इत्यादिगळिले विश्वासतारतम्यम् प्रसिद्धमागैयालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इव्व्-इडत्तिल् अतिशयित-विश्वासम् अङ्गम्  
+
+ऎऩ्गिऱ वचनत्तालुम् परिहृतम्।
+</details>
+
+<details><summary>English</summary>
+
+It is also refuted by the text  
+which prescribes extra ordinary faith as an aṅga or accessory (in regard to prapatti ).
+</details>
+
+<details><summary>Español</summary>
+
+También **es refutado** por el texto
+que **prescribe** la fe extra ordinaria como AṅGA o accesorio (con respecto a Prapatti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिलतिशयित विश्वासम् अङ्गमॆऩ्गिऱ वचनत्तालुम् परिहृतम्।
 </details>
 
 
 
-In this connection, some others may contend as follows:--- “When the believer has faith in what is stated in the śāstras, what is the meaning of saying that there is something else called 'intense faith' or mahavisvasa? Therefore there is no point in bolding that this mahāvisvõsa is anything other than the faith in the śāstra which is general and that it is a special aṅga or accessory of prapatti. This contention (or objection) is refuted by the well-known fact that there are degrees of faith as stated in the śloka:"One should never place confidence in a man whom one does not trust. Even in a man whom one trusts, too much confidence should not be reposed." It is also refuted by the text which prescribes extra ordinary faith as an aṅga or accessory (in regard to prapatti ).
+
+
+
+
+
 
 Bhagavān Nārada  has declared in Śrīmad aṣṭākṣara Brahma Vidyā that there are, in different men, varying degrees of faith in the Mūlamantra. (He says):- "In proportion to the degree of faith that a man has in aṣṭākṣara, will he attain the fruit thereof. It is impossible to measure its greatness." The Supreme Ruler of all will ultimately protect even those prapannas who are far from perfect and whose faith is not strong enough. If authority is asked for this statement, here it is :--"By the man who has once uttered the two syllables 'Harih' - by him steps have been taken for entering mokṣa". In accordance with this, Aḷavandār has conveyed the same idea in the śloka :-- "Whoever' folds his hands in worship to Thee in any manner and at any time - his sins vanish at once. It generates all good things. It never fails to bear fruit," and so also, “A single" drop of the ocean of nectar called bhakti towards the two lotuses of Thy feet will extinguish instantly the spreading wildfire called saṁsāra and confer superior happiness". By uttering the three syllables "Govinda", Kshatrabandu, who stood surrounded by his past karmas swarming (like ants ), attained the highest state." As implied in these passages, Iśvara will promote the perfection of the upāya And protect the man. Has not this idea been conveyed by Śrī Śāṇḍilya Bhagavān to Devala in the following śloka :- "Many of your previous births ended in vain. Consider how this life, too, may end in vain and perform prapatti? Froin the śloka :-"The divine seers say that Thou art to be sought as the Saviour and that 'Thou protectest those who have sought Thy protection." -- (from this śloka) it should be understood that intense faith can be found (only) in the divine seers and not in ordinary men) and that, by the authority of what is said by the divine seers, those whose faith is not strong should strengthen it. Therefore since there are varying degrees of faith, what is stated in the śāstra about intense faith being an aṅga of prapatti cannot be objected to.
 
