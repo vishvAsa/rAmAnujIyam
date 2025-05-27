@@ -9437,6 +9437,10 @@ El hombre que **ha adoptado** a Prapatti como un independiente y dirigido upāya
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि भक्तियुम् शक्तऩुक्कु मोक्षोपायमागिल् स्वतन्त्रप्रपत्तिनिष्ठऩै उत्कृष्टऩाग आऴ्वार् मुदलाऩवर्गळ् स्तोत्रम् सॆय्वदऱ्कुक् कारणमॆऩ्ऩ वॆऩ्ऩवरुळिच्चॆय्गिऱार् अवऱ्ऱुक्कु सामर्थ्यम् इल्लामैयादल् इत्य्-आदिना । 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9483,6 +9487,11 @@ y
 ४२’’सॆय्दवेळ्वियऩ्’’(तिरुवाय्मॊऴि ५-७-५) ऎऩ्ऱुम्, ४३‘‘कृतकृत्यऩ् ’’(सात्यकि-तन्त्रम्) ऎऩ्ऱुम्, ४४‘‘अनुष्ठितक्रतुशतऩ्’’(अहिर्बुध्न्य-सम् ३७-४९) ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सॆय्दवेळ्वियऩ् इति । नऩ्ऱागवनुष्टिक्कप् पट्ट यज्ञङ्गळैयुडैयवऩ्, इदु आऴ्वारुडैय उद्घोषम्। कृतकृत्यऩिदि । कृतं कृत्यं येन, कर्तव्यमाऩ मोक्षोपायानुष्ठानम् ऎवऩाले अनुष्ठिक्कप्पट्टदो अवऩ् ऎऩ्ऱबडि। इदु महर्षिकळिऩ् उद्घोषम्। अनुष्ठितक्रतुशतऩिदि । अनुष्ठितं क्रतुशतं येन, इदु भगवच्छास्त्रोद्घोषम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9516,6 +9525,12 @@ y **terminando** con el baño final (Avabhritha).
 
 इवऩुक्कु मरणान्तमाग नडक्किऱव्यापारङ्गळै अवभृथपर्यन्तकर्तव्यकलापङ्गळाग स्तुतित्तुम् 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इवऩुक्कित्यादि । ‘‘तस्यैवं विदुषः’’ ऎऩ्ऱु आरम्बित्तु ‘‘यन्मरणं तदवभृथ’’ इत्यन्तमाग प्रपन्नऩुडैय व्यापारङ्गळैयॆल्लाम् स्तोत्तरित्तु ऎऩ्ऱबडि। इदु उबनिषदिऩुद्घोषम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9554,6 +9569,16 @@ Como los **mandamientos** del Señor que es omnipotente.
 
 क्रत्वन्तरानुष्ठानम् पण्णिऩवऩुक्कु मेलुळ्ळ नित्यनैमित्तिकङ्गळ् पोले इवऩुक्कु स्वतन्त्रविधियाले वर्णाश्रमादिधर्मङ्गळ् नडवा निऱ्कच्चॆय्देयुम् 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इवैगळिऩ् भावत्तै यरुळिच्चॆय्गिऱार् क्रत्वन्तरानुष्ठानम् पण्णिऩवऩुक्कु इत्यादिना । क्रत्वन्तरत्तैयनुष्ठित्तवऩुक्कुप्पोले तद्-अनुष्ठानान्तर-कालिक-नित्य-नैमित्तिक-कर्मङ्गळ्  
+स्व-तन्त्र-प्रपत्ति-निष्ठऩुक्कुम् ‘ 
+‘विहितत्वाच् चाश्रमकर्मापि’’ ऎऩ्गिऱबडि  
+अवश्यानुष्ठेयङ्गळाऩालुम् आत्मयागफलत्तैप्पऱ्ऱि अवैगळ् अनपेक्षितङ्गळॆऩ्ऱु तिरुवुळ्ळम्।
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9667,6 +9692,12 @@ Por lo tanto, oh arjuna, conviértete en un yoguin ";
 आगैयाल् ‘‘तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः । कर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन॥’’(गीता ६-४६) इत्यादिगळाले 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि भक्ति-निष्ठऩैक्काट्टिलुम् प्रपन्नऩै उत्कृष्टऩाग आऴ्वार् मुदलाऩोर्गळ् घोषिक्कैयाले भक्त्यपेक्षया प्रपत्ति श्रेष्ठतममॆऩ्बदै सदृष्टान्तमरुळिच्चॆय्गिऱार् आगैयालित्यादिना । आगैयाल् - प्रपन्नऩै भक्तापेक्षया उत्कृष्टऩाग स्तुतिक्कैयाल्। तपस्विभ्य इत्यादि । योगी – आत्मविषयकयोगवान् । आत्मविषयकमाऩ योगत्तैप् पण्णुगिऱवऩ्, तपस्विभ्यः – केवलकृच्छ्रचान्द्रायणादिप्रवृत्तिधर्मनिष्ठऩैक्काट्टिलुम् अधिकः – उत्कृष्टः, ज्ञानिभ्यः – आत्मव्यतिरिक्तज्ञानवाऩ्गळैक् काट्टिलुम्, अधिको मतः – उत्कृष्टऩागक् करुदप्पट्टाऩ्। कर्मिभ्यश्च – अश्वमेधादिकर्मनिष्ठरैक्काट्टिलुम्, अधिकः – उत्कृष्टः, तस्मात् आत्मविषयकयोगवान् भव ऎऩ्बदु श्लोकार्थम्। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9694,6 +9725,12 @@ Los dharmas o actividades de **renuncia son** superiores a las actividades o dha
 
 प्रवृत्तिधर्मङ्गळिऱ्काट्टिल् निवृत्तिधर्मङ्गळ् श्रेष्ठङ्गळाऩाऱ्पोलवुम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रवृत्तिधर्मङ्गळिऱ्काट्टिल् निवृत्तिधर्मङ्गळ् श्रेष्ठङ्गळाऩाऱ्पोलवुम् अवैदऩ्ऩिल् आत्मविषयमाऩ योगम् श्रेष्ठमाऩाऱ्पोलवुमिति । इदु इन्द श्लोकत्तिऩ् शब्दार्थमऩ्ऱु। किन्तु अभिप्रेतार्थम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9764,6 +9801,11 @@ porque **se ha dicho**
 योगङ्गळिऱ्काट्टिल् ‘‘योगिनामपि सर्वेषां’’(गीता ६-४७) ऎऩ्गिऱबडिये वसुदेवनन्दनविषयमाऩ योगम् श्रेष्ठमाऩाऱ्पोलवुम् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+योगिनामपि सर्वेषामिति । पञ्चम्यर्थे षष्ठी । अपिना तपस्विप्रभृतिग्रहणम्। वसुदेवनन्दन-विषयमाऩ योगम् श्रेष्ठमाऩाऱ्पोलवुमिति । कीऴ् उदाहरित्त श्लोकङ्गळिल् धर्म्युत्कर्ष कथनत्ताले धर्मश्रैष्ठ्यम् सिद्धिक्कुमाप्पोले ऎऩ्ऱबडि। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9804,6 +9846,12 @@ Y **lleva** al logro del final pronto.
 परमात्मविषयविद्याविशेषङ्गळॆल्लात्तिलुम् न्यासनिक्षेपादिशब्दङ्गळाले सॊल्लप्पट्ट विद्याविशेषमे सुकरत्व सकृत्कर्तव्यत्व शीघ्रफलप्रदत्वादिगळाले श्रेष्ठतमम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कीऴ् उदाहरित्त आत्मयोगादिगळुक्कु अतिशयितफलसाधनतया उपर्युपरि श्रैष्ठ्यम् सिद्धित्तालुम् समानफलकमाऩ भक्तियैक् काट्टिलुम् प्रपत्तिक्कु श्रैष्ठ्यम् सिद्धिप्पदु कूडुमोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् सुकरत्वेत्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यास-विद्यैयिले कण्ठोक्तम् आऩ इव्व्-अर्थत्तै 
@@ -9831,6 +9879,16 @@ Esta verdad con respecto al Nyāsa Vidyā
 न्यासविद्यैयिले कण्ठोक्तमाऩ इव्वर्थत्तै 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+एतादृशमाऩ प्रपत्तियिऩ् श्रैष्ठ्यम् न्यासविद्यैयिले 
+
+> ‘‘तस्मान् न्यासम् एषां  
+तपसाम् अतिरिक्तम् आहुः’’ 
+
+ऎऩ्गिऱ वाक्यत्तिले स्पष्टमागच् चॊल्लप्पट्टदॆऩ्ऱुम्, अन्द वाक्यार्थम् संहितावचनङ्गळाले उपबृंहिक्कप्पट्टदॆऩ्ऱुम् अरुळिच्चॆय्गिऱार् न्यासविद्यैयिलेयित्यादिना । कण्ठोक्तमाऩ इव्वर्थत्तै - अतिरिक्तपदत्ताले स्पष्टमागच् चॊल्लप्पट्ट प्रपत्तियिऩ्श्रैष्ठ्यरूपमाऩ इव्वर्थत्तै। इदऩाल् श्रुतियिल् अतिरिक्तपदम् केवलभेदबोधकमऩ्ऱु; किन्तु श्रैष्ठ्यरूपवैलक्षण्यबोधकमॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9841,7 +9899,7 @@ Esta verdad con respecto al Nyāsa Vidyā
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘तेषां तु तपसां न्यासम्  
+> ‘‘तेषां तु तपसां न्यासम्+++(→ः)+++  
 अतिरिक्तं तपश् श्रुतं’’  
 (अहिर्बुध्न्य-संहिता ३७-३६) 
 </details>
@@ -9862,6 +9920,16 @@ La austeridad llamada Nyāsa (Prapatti) **es** la más alta ",
 <details><summary>मूलम्</summary>
 
 ‘‘तेषां तु तपसां न्यासमतिरिक्तं तपश्श्रुतं’’(अहिर्बुध्न्य-संहिता ३७-३६) 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> ननु ‘‘एषां तपसां न्यासमतिरिक्तमाहुः’’ ऎऩ्ऱु सॊल्लिय् इरुप्पदाल्  
+अन्द प्रकरणत्तिल् ‘‘सत्यं तपो दमश् शमः’’ ऎऩ्ऱु अधीतमाऩ तबस्सैक् काट्टिलुम् न्यासत्तिऱ्कु उत्कर्षमेऱ्पट्टालुम्  
+भक्त्यपेक्षया उत्कर्षम् सिद्धिक्कविल्लैये 
+
+ऎऩ्ऩ उपबृंहणबलत्ताले भक्तिश्रैष्ठ्यमुम् सिद्धिक्कुमॆऩ्गिऱवभिप्रायत्ताले उपबृंहणवचनत् तैयरुळिच्चॆय्गिऱार् तेषां त्वित्यादिना । न्यासमॆऩ्ऱु नपुंसकत्वम् आर्षम्। प्रथमार्थे द्वितीयेति यावत् । 
 </details>
 
 
@@ -9907,6 +9975,11 @@ y aquellos, de nuevo, que **siguen** a Jñāna Yoga Aod Bhaktiyoga
 ‘‘सत्कर्मनिरताश्शुद्धास्सांख्ययोगविदस्तथा ।  
 नार्हन्ति शरणस्थस्य कलां कोटितमीमपि॥’’  
 (लक्ष्मीतन्त्रम् १७-६२) 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सत्कर्मनिरताः – निवृत्तिधर्मरूपकर्मयोगनिष्ठाः । साङ्ख्ययोगविदः – साङ्ख्यवित्तुक्कळावार् ज्ञानयोगनिष्ठर्, योगवित्तुक्कळावार् भक्तियोगनिष्ठर्। इन्द उपबृंहणसहितमाऩ श्रुतियाले प्रपत्तिक्कु सर्वोत्कर्षम् सिद्धमॆऩ्ऱु करुत्तु।
 </details>
 
 
@@ -9989,15 +10062,20 @@ y el placer del **disfrute** inmediato de Bhagavān.
 अवगाहनादिगळिल् समर्थऩल्लादवऩुक्कु ‘‘मानसं विष्णुचिन्तनं’’(गार्ग्य-स्मृतिः) ऎऩ्ऱु भगवच्चिन्तनत्तै स्नानमाग विधित्तालदु स्नानान्तरङ्गळ् पण्णुगिऱ शुद्धियैयुम् पण्णि, पापान्तरङ्गळैयुम् शमिप्पित्तु अप्पोदे भगवदनुभवरसत्तै युण्डाक्कुमाप्पोले 
 </details>
 
- 
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘नार्हन्ति शरणस्थस्य’’ ऎऩ्ऱु सॊऩ्ऩ प्रपत्तियिऩ् प्रभावत्तै सदृष्टान्तमाग उपपादिक्किऱार् अवगाहनादिगळिल् समर्थऩल्लादवऩुक्कु इत्यादिना । समर्थऩल्लादवऩुक्कु इत्यनेन मानसस्नानम् मुख्यमाऩ वारुणस्नानापेक्षया गौणमॆऩ्ऱु सूचितम्। अप्पडि अदु गौणमाऩालुम् मुख्यस्नानत्तैक्काट्टिलुम् अदऱ्कुळ्ळ उत्कर्षत् तैक्काट्टुगिऱार् स्नानान्तरङ्गळित्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपासनादिगळिल् समर्थऩ् अल्लाद्-अवऩुक्कु  
 प्रपत्तियै विधित्तालुम्  
 
-इप्-प्रपत्ति-ताऩे अवै गॊडुक्कुम् फलत्तैयुम्  
-अवै-दऩ्ऩैयुङ्+++(=??)+++ कॊडुक्कवऱ्ऱाय् 
+इप्-प्रपत्ति-ताऩे अवै गॊडुक्कुम् फलत्तैयुम्,  
+अवै+++(→उपासनादि)+++-दऩ्ऩैयुङ् कॊडुक्कवऱ्ऱाय् 
 
 अकिञ्चनऩुक्कुत् तारकम् आय्  
 
@@ -10011,24 +10089,13 @@ y el placer del **disfrute** inmediato de Bhagavān.
 प्रपत्तेर् विधाने  
 
 इयं प्रपत्तिर् एव तत्-प्रदेयानि फलानि,  
-तान्य् अपि च प्रदातुं प्रभवन्ती  
+तान्य्+++(→उपासनादि)+++ अपि च प्रदातुं प्रभवन्ती  
 अकिञ्चनस्योत्तारिका  
 तद्-अपेक्षित-फलाविनाभावं च वहतीत्य्  
 अधिक-प्रभावा भवति ॥ 
 </details>
 
-
-<details><summary>मूलम्</summary>
-
-उपासनादिगळिल् समर्थऩल्लादवऩुक्कु प्रपत्तियै विधित्तालुम् इप्प्रपत्तिताऩे अवैगॊडुक्कुम् फलत्तै युमवैदऩ्ऩैयुङ्गॊडुक्कवऱ्ऱाय् अकिञ्चनऩुक्कुत्तारकमाय् अवऩ  
-  
-पेक्षित्त कालत्तिले फलाविनाभावत्तैयुमुडैत्तायिरुक्कैयाले अधिक-प्रभावमायिरुक्कुम्। 
-</details>
-
-
-
-
-
+<details><summary>English</summary>
 
 In the same way, though prapatti is ordained  
 for those who are not competent to perform such things as upāsanas,  
@@ -10037,12 +10104,625 @@ it secures them (the upāya, namely, upāsana also);
 it redeems the man who is destitute of all other upāyas ( akiñcana );  
 and further it secures the fruit (desired by him) at the time when he wants it.  
 Therefore prapatti has superior potency.
+</details>
+
+<details><summary>Español</summary>
+
+De la misma manera, aunque Prapatti **está ordenada**  
+para aquellos que **no son competentes** para **realizar** cosas como upāsanas,  
+**confiere** los frutos que **se pueden alcanzar**;  
+Les **asegura** (el upāya, a **saber**, upāsana también);  
+**Redime** al hombre que es indigente de todos los otros upāyas (akiñcana);  
+y además **asegura** la fruta (deseada por él) en el momento en que lo **quiere**.  
+Por lo tanto, Prapatti **tiene** una potencia superior.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपासनादिगळिल् समर्थऩल्लादवऩुक्कु प्रपत्तियै विधित्तालुम् इप्प्रपत्तिताऩे अवैगॊडुक्कुम् फलत्तै युमवैदऩ्ऩैयुङ्गॊडुक्कवऱ्ऱाय् अकिञ्चनऩुक्कुत्तारकमाय् अवऩपेक्षित्त कालत्तिले फलाविनाभावत्तैयुमुडैत्तायिरुक्कैयाले अधिक-प्रभावमायिरुक्कुम्। 
+</details>
+
+## प्रपत्तेर् अङ्गानि
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि इव्व्-उपायत्तिऩ् अधिकारत्तिलुम्, स्वरूपत्तिलुम् वरुम् कलक्कङ्गळ् शमिप्पित्तोम्; 
+</details>
+
+
+<details><summary>English</summary>
+
+So far we have removed the misconceptions that may arise  
+about the competence for the upāya  
+and its essential nature (svarūpa). 
+</details>
+
+<details><summary>Español</summary>
+
+Hasta ahora **hemos eliminado** los conceptos erróneos que **pueden surgir**  
+sobre la competencia por el upāya  
+y su naturaleza esencial (svarūpa).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि इव्वुपायत्तिऩधिकारत्तिलुम् स्वरूपत्तिलुम् वरुम् कलक्कङ्गळ् शमिप्पित्तोम्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इऩि मेल् परिकरङ्गळिल् वरुम् व्यामोहम् शमिप्पिक्किऱोम्। 
+</details>
+
+<details><summary>English</summary>
+
+Henceforward we will proceed to remove those misconceptions  
+that might be entertained in regard to accessories of that upāya. 
+</details>
+
+<details><summary>Español</summary>
+
+De aquí en adelante **procederemos** a **eliminar** esos conceptos erróneos  
+Eso **podría entretenerse** con respecto a los accesorios de ese upāya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इऩिमेल् परिकरङ्गळिल् वरुम् व्यामोहम् शमिप्पिक्किऱोम्। 
+</details>
+
+
+### अङ्गापेक्षा
+<details><summary>English</summary>
 
 DOES PRAPATTI REQUIRE AṅGAS OR ACCESSORIES ?
+</details>
 
-So far we have removed the misconceptions that may arise about the competence for the upāya and its essential nature (svarūpa). Henceforward we will proceed to remove those misconceptions that might be entertained in regard to accessories of that upāya. (1) Is it necessary that this upāya should be accompanied by such things as the determination to do what is agreeable (ānukūlya saṅkalpa )? Will the Saviour who said, “If a * man seeks protection with the desire for the immediate attainment of an object (arta ) or with endurance of delay in the attainment (dripta), he should be protected by those who know the śāstras, even though he might be an enemy," "I will, in no circumstances, abandon one who has come to me in the guise of a friend, even though there are faults in him. The great will appreciate this," and "Bring him here, O Sugrīva, whether he be Vibhishana or even Ravana himself. I promise protection to him" - ( will the Saviour who said these words) and who was gracious even to his enemies care for the faults of those who have sought refuge under him? The ancients describe Him as the Protector of the whole world without any consideration of merit. Therefore these accessories (such as anukulya saṅkalpa) are not requisites but attributes that are most likely to be met with in those who have performed prapatti." Such is the contention of some critics. In reply to this misconception, it may be said that the passages on which it is based may really have, for their purport, the idea that though such attributes as anukulya do not continue after the performance of prapatti, some expiation will occur and there will be no diminution in the fruit of prapatti, (They do not mean that qualifications like ānukūlyasaṅkalpa are not required at the time of the performance of prapatti). If this explanation is not accepted, many authoritative passages which distinguish between the main rite (aṅgī) and its accessories (aṅga) such as "Śaraṇāgati is of six kinds," "Nyāsa has five aṅgas" and "Let him perform that prapatti which has five accessories " - many such authoritative passages would offer opposition. We have already stated that (the absence of these accessories) would be against what is the subject of experience in the world in regard to the conventions regarding the surrender of objects that have to be protected and that these accessories are required only once and so on. Even the divine missile, Brahmāstra, requires its own accessories (aṅgas). Hence the śloka that there is no other requisite for prapatti anywhere and at any time" only states that it does not require any other dharma or rite. (It does not mean that even) the aṅgas of prapatti are not required). Otherwise even intense faith (mahavisvasa) which these critics commend as an aṅga might be considered as an attribute which may be found (in a prapanna) and not as an aṅga.
+<details><summary>Español</summary>
+
+¿Prapatti **requiere** AṅGAS o accesorios?
+</details>
+
+#### शङ्का
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इव्व् उपायत्तुक्कु आनुकूल्य-सङ्कल्पादिगळ् वेणुमो; 
+</details>
+
+<details><summary>English</summary>
+
+> (1) Is it necessary that this upāya should be accompanied by such things as the determination to do what is agreeable (ānukūlya saṅkalpa )? 
+</details>
+
+<details><summary>Español</summary>
+
+> (1) ¿Es **necesario** que este upāya **se acompañe** de cosas como la **determinación de hacer** lo que está agradable (ānukūlya saṅkalpa)?
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वुपायत्तुक्कु आनुकूल्यसङ्कल्पादिगळ् वेणुमो; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ‘‘आर्तो वा यदि वा दृप्तः’’() 
+> 
+> ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> > “If a man seeks protection  
+with the desire for the immediate attainment of an object (arta )  
+or with endurance of delay in the attainment (dripta),  
+he should be protected by those who know the śāstras,  
+even though he might be an enemy," 
+</details>
+
+<details><summary>Español</summary>
+
+>> "Si un hombre **busca protección**  
+con el **deseo** de **lograr** un objeto (Arta) inmediato  
+o con resistencia de **retraso** en el **logro** (Dripta),  
+Debe **ser protegido** por aquellos que **conocen** los Śāstras,  
+a pesar de que **podría ser** un enemigo ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘आर्तो वा यदि वा दृप्तः’’() ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>> ‘‘मित्रभावेन संप्राप्तं  
+**न त्यजेयं** कथञ्चन ।  
+दोषो यद्य् अपि तस्य **स्यात्**  
+सताम् एतद् अ-गर्हितम्॥’’  
+(रामायणम् युद्ध-काण्डम् १८-२८।) 
+>
+> ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+>> "I will, in no circumstances, abandon one who has come to me in the guise of a friend,  
+even though there are faults in him.  
+The great will appreciate this," 
+
+</details>
+
+<details><summary>Español</summary>
+
+>> "En ninguna circunstancia, **abandonaré** a uno que **haya venido** a mí con la **apariencia** de un amigo,  
+Aunque **hay** fallas en él.  
+El gran **apreciará** esto ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मित्रभावेन संप्राप्तं न त्यजेयं कथञ्चन । दोषो यद्यपि तस्य स्यात्सतामेतदगर्हितम्॥’’(रामायणम् युद्ध-काण्डम् १८-२८।) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>> ‘‘यदि वा रावणस्स्वयं’’(रामायणम् युद्ध-काण्डम् १४-३४।) 
+> 
+> ऎऩ्ऱुञ् 
+</details>
+
+<details><summary>English</summary>
+
+> and 
+>
+>> "Bring him here, O Sugrīva, whether he be Vibhishana or even Ravana himself.  
+I promise protection to him" - 
+</details>
+
+<details><summary>Español</summary>
+
+> y
+>
+>> "**Tráelo** aquí, oh sugrīva, ya **sea** que **sea** Vibhishana o incluso el propio Ravana.  
+**Prometo protección** para él " -
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘यदि वा रावणस्स्वयं’’(रामायणम् युद्ध-काण्डम् १४-३४।) ऎऩ्ऱुञ्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> जॊल्लुगिऱ रिपूणाम् अपि वत्सलर् आऩ शरण्यऩ्  
+शरणागतऩ्-उडैय दोषङ्गळैप् पार्क्कुमो; 
+</details>
+
+<details><summary>English</summary>
+
+> will the Saviour who said these words  
+and who was gracious even to his enemies  
+care for the faults of those who have sought refuge under him? 
+</details>
+
+<details><summary>Español</summary>
+
+> ¿El salvador que **dijo** estas palabras  
+y que **fue amable** incluso para sus enemigos  
+**Cuidar** las fallas de aquellos que **han buscado refugio** bajo él?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जॊल्लुगिऱ रिपूणामपि वत्सलराऩ शरण्यऩ् शरणागतऩुडैय दोषङ्गळैप् पार्क्कुमो; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>> अनालोचित-विशेषाशेष-लोक-शरण्यऩ्  
+(शरणागति-गद्यम्।)  
+> 
+> ऎऩ्ऱऩ्ऱो पूर्वर्गळ् पासुरम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+>> अनालोचित-विशेषाशेष-लोक-शरण्यऩ्  
+(शरणागति-गद्यम्।)  
+
+</details>
+
+<details><summary>English</summary>
+
+The ancients describe Him as the Protector of the whole world  
+without any consideration of merit. 
+</details>
+
+<details><summary>Español</summary>
+
+Los antiguos lo **describen** como el **protector** de todo el mundo  
+sin ninguna **consideración** de mérito.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनालोचितविशेषाशेषलोकशरण्य(शरणागति-गद्यम्।) ऩॆऩ्ऱऩ्ऱो पूर्वर्गळ् पासुरम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आगैयाल् इवै +++(शरणागतानां प्रायिक→)+++ संभावित-स्वभावङ्गळ् आम् इत्तऩैय् अऩ्ऱोव् 
+
+ऎऩ्ऱु सिलर् सॊल्लुवर्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+> Therefore these accessories (such as anukulya saṅkalpa) are not requisites  
+but attributes that are most likely to be met with  
+in those who have performed prapatti."  
+
+Such is the contention of some critics. 
+</details>
+
+<details><summary>Español</summary>
+
+> Por lo tanto, estos accesorios (como Anukulya Saṅkalpa) **no son requisitos**  
+pero atributos que **tienen** más probabilidades de **cumplir**  
+en aquellos que **han realizado** Prapatti ".
+
+Tal **es** la **afirmación** de algunos críticos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयालिवै संभावितस्वभावङ्गळामित्तऩैयऩ्ऱोवॆऩ्ऱु सिलर् सॊल्लुवर्गळ्। 
+</details>
+
+#### परिहारः
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कु 
+
+> प्रपत्त्य्-उत्तर-कालत्तिल्  
+आनुकूल्यादिगळ् अनुवर्तियाद् ऒऴियिलुम्  
+प्रति-समाधानम् पिऱन्दु  
+प्रपत्ति-फलमु कुऱैव् अऱ्ऱ् इरुक्कुम्  
+
+ऎऩ्गैयिले तात्पर्यङ् गॊळ्ळलाम्। 
+</details>
+
+<details><summary>English</summary>
+
+In reply to this misconception,  
+it may be said that 
+
+> the passages on which it is based  
+may really have, for their purport,  
+the idea that though such attributes as anukulya do not continue after the performance of prapatti,  
+some expiation will occur  
+and there will be no diminution in the fruit of prapatti.  
+
+(They do not mean that qualifications like ānukūlyasaṅkalpa are not required  
+at the time of the performance of prapatti). 
+</details>
+
+<details><summary>Español</summary>
+
+En **respuesta** a este error,  
+**se puede decir** que
+
+> los pasajes en los que **se basa**  
+**Puede** que realmente **tenga**, para su **significado**,  
+La idea de que, aunque los atributos como Anukulya no **continúan** después del **rendimiento** de Prapatti,  
+Se **producirá** alguna **expiación**  
+y **no habrá disminución** en el fruto de Prapatti.  
+
+(**No quieren decir** que  
+**no se requieran** calificaciones como ānukūlyasaṅkalpa  
+en el momento del rendimiento de Prapatti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुक्कु प्रपत्त्युत्तरकालत्तिल् आनुकूल्यादिगळ् अनुवर्तियादॊऴियिलुम् प्रतिसमाधानम् पिऱन्दु प्रपत्तिफलमुङ्गुऱैवऱ्ऱिरुक्कुमॆऩ्गैयिले तात्पर्यङ् गॊळ्ळलाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩलादबोदु 
+
+> ‘‘षड्विधा शरणागतिः’’(अहिर्बुध्न्य-सम् ३७-१८) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘षड्विधा शरणागतिः’’(अहिर्बुध्न्य-सम् ३७-१८) 
+</details>
+
+
+<details><summary>English</summary>
+
+If this explanation is not accepted,  
+
+> "Śaraṇāgati is of six kinds," 
+</details>
+
+<details><summary>Español</summary>
+
+Si esta explicación **no es aceptada**,
+
+> "Śaraṇāgati **es** de seis tipos", "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩलादबोदु ‘‘षड्विधा शरणागतिः’’(अहिर्बुध्न्य-सम् ३७-१८) ऎऩ्ऱुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न्यासः पञ्चाङ्गसंयुतः’’(लक्ष्मीतन्त्रम् १७-७४) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न्यासः पञ्चाङ्गसंयुतः’’(लक्ष्मीतन्त्रम् १७-७४) 
+</details>
+
+
+<details><summary>English</summary>
+
+> "Nyāsa has five aṅgas" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Nyāsa **tiene** cinco aṅgas"
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘न्यासः पञ्चाङ्गसंयुतः’’(लक्ष्मीतन्त्रम् १७-७४) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘स्वाङ्गैः पञ्चभिरावृतां’’(लक्ष्मीतन्त्रम् २८-११) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘स्वाङ्गैः पञ्चभिरावृतां’’(लक्ष्मीतन्त्रम् २८-११) 
+</details>
+
+
+<details><summary>English</summary>
+
+and "Let him perform that prapatti which has five accessories " 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "**Déjelo realizar** ese Prapatti que **tiene** cinco accesorios"
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘स्वाङ्गैः पञ्चभिरावृतां’’(लक्ष्मीतन्त्रम् २८-११) ऎऩ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+अङ्गाङ्गिकळै विभजित्तुच् चॊल्लुगिऱ पल प्रमाणङ्गळुक्कुम् विरुद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+many authoritative passages which distinguish between the main rite (aṅgī) and its accessories (aṅga),  
+such as (the above),  
+would offer opposition.  
+</details>
+
+<details><summary>Español</summary>
+
+muchos pasajes autorizados que **distinguen** entre el rito principal (aṅgī) y sus accesorios (aṅga),  
+como (lo anterior),  
+**Ofrecería oposición.**
+</details>
+
+
+<details><summary>Español</summary>
+
+अङ्गाङ्गिकळै विभजित्तुच् चॊल्लुगिऱ पल प्रमाणङ्गळुक्कुम् विरुद्धम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> लोकत्तिल् रक्ष्य-द्रव्य-समर्पण-मर्यादैक्कुम् पॊरुन्दाद्  
+
+ऎऩ्ऱुम्  
+इव्व्-अङ्गङ्गळ्-उडैय सकृत्-करणादि-प्रकारङ्गळुम्  
+मुऩ्बे सॊऩ्ऩोम्।
+</details>
+
+<details><summary>English</summary>
+
+We have already stated that (the absence of these accessories) would be against what is the subject of experience in the world  
+in regard to the conventions regarding the surrender of objects that have to be protected  
+and that these accessories are required only once and so on. 
+</details>
+
+<details><summary>Español</summary>
+
+Ya **hemos declarado** que (la **ausencia** de estos accesorios) **estaría** en contra de lo que es el tema de la **experiencia** en el mundo.  
+con respecto a las convenciones  
+con respecto a la **rendición** de objetos que **tienen** que **ser protegidos**  
+y que **estos** accesorios **se requieren** solo una vez y así sucesivamente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+लोकत्तिल् रक्ष्यद्रव्यसमर्पणमर्यादैक्कुम् पॊरुन्दादॆऩ्ऱुम् इव्वङ्गङ्गळुडैय सकृत्करणादिप्रकारङ्गळुम् मुऩ्बे सॊऩ्ऩोम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मास्त्रमुम् स्वाङ्ग-सापेक्षम् आय् इऱेय् इरुप्पदु। 
+</details>
+
+<details><summary>English</summary>
+
+Even the divine missile, Brahmāstra, requires its own accessories (aṅgas). 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso el misil divino, Brahmāstra, **requiere** sus propios accesorios (AṅGAS).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मास्त्रमुम् स्वाङ्गसापेक्षमायिऱे यिरुप्पदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् 
+
+> ‘‘प्रपत्तेः क्वचिद् अप्य् एवं  
+परापेक्षा न विद्यते ।  
+सा हि सर्वत्र सर्वेषां  
+सर्व-काम-फल-प्रदा॥’’  
+(सनत्कुमारसंहिता।) 
+
+ऎऩ्ऱ् अदुवुम् धर्मान्तर-नैरपेक्ष्यञ् जॊऩ्ऩ बडि।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः
+
+> ‘‘प्रपत्तेः क्वचिद् अप्य् एवं  
+परापेक्षा न विद्यते ।  
+सा हि सर्वत्र सर्वेषां  
+सर्व-काम-फल-प्रदा॥’’  
+(सनत्कुमारसंहिता।) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+Hence the śloka that 
+
+> there is no other requisite for prapatti anywhere and at any time  
+
+only states that it does not require any other dharma or rite.  
+(It does not mean that even the aṅgas of prapatti are not required). 
+</details>
+
+<details><summary>Español</summary>
+
+De ahí el Śloka que
+
+> **No hay** otro requisito para Prapatti en ningún lado y en cualquier momento
+
+Solo **afirma** que **no requiere** ningún otro dharma o rito.  
+(**No significa** que incluso los AṅGas de Prapatti **no sean necesarios**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ‘‘प्रपत्तेः क्वचिदप्येवं परापेक्षा न विद्यते । सा हि सर्वत्र सर्वेषां सर्वकामफलप्रदा’’(सनत्कुमारसंहिता।) ऎऩ्ऱदुवुम् धर्मान्तरनैरपेक्ष्यञ्जॊऩ्ऩबडि।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् अल्लाद पोदु  
+इवर्गळ् इसैन्द महा-विश्वासत्तैयुम्  
+इक्-कट्टळैयिले  
++++(प्रपन्ने)+++ संभावित-स्वभावम् आक्कल् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+Otherwise even intense faith (mahavisvasa) which these critics commend as an aṅga  
+might be considered as an attribute  
+which may be found (in a prapanna) and not as an aṅga.
+</details>
+
+<details><summary>Español</summary>
+
+De lo contrario, incluso la fe intensa (Mahavisvasa) que estos críticos **eligen** como AṅGA  
+**podría considerarse** como un atributo  
+que **se puede encontrar** (en una prapanna) y no como un aṅga.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियल्लाद पोदु इवर्गळिसैन्द महाविश्वासत्तैयुमिक्कट्टळैयिले संभावितस्वभावमाक्कलाम्। 
+</details>
+
+
+
+### विश्वास-महत्त्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 WHY SHOULD INTENSE FAITH BE CALLED AN AṅGA INSTEAD OF MERE FAITH ?
+</details>
+
+<details><summary>मूलम्</summary>
+
+¿Por qué **debería llamarse** fe intensa a Aṅga en lugar de mera fe?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्ववकाशत्तिले वेऱे सिलर् आस्तिकऩुक्कु शास्त्रार्थविश्वासम् पिऱक्कुमदुक्कु मेऱ्पड महाविश्वासमॆऩ्ऱॆऩ्ऱुण्डो; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्ववकाशत्तिले वेऱे सिलर् आस्तिकऩुक्कु शास्त्रार्थविश्वासम् पिऱक्कुमदुक्कु मेऱ्पड महाविश्वासमॆऩ्ऱॆऩ्ऱुण्डो; 
+</details>
+
+
 
 In this connection, some others may contend as follows:--- “When the believer has faith in what is stated in the śāstras, what is the meaning of saying that there is something else called 'intense faith' or mahavisvasa? Therefore there is no point in bolding that this mahāvisvõsa is anything other than the faith in the śāstra which is general and that it is a special aṅga or accessory of prapatti. This contention (or objection) is refuted by the well-known fact that there are degrees of faith as stated in the śloka:"One should never place confidence in a man whom one does not trust. Even in a man whom one trusts, too much confidence should not be reposed." It is also refuted by the text which prescribes extra ordinary faith as an aṅga or accessory (in regard to prapatti ).
 
