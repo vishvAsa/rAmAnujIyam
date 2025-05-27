@@ -8775,6 +8775,10 @@ y también **es repugnante** al público en general,
 सर्वाचार्यपरिग्रहमिल्लादबोदऩ्ऱो ३४‘‘अस्वर्ग्यं लोकविद्विष्टं धर्ममप्याचरेन्न तु’’(याज्ञवल्च्यस्मृति १-१५६) ऎऩ्ऱु कऴिक्कलावदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अदैयुपपादिक्किऱार् सर्वाचार्यपरिग्रहमिल्लादबोदऩ्ऱो इत्यादिना । अस्वर्ग्यमिति । लोकविद्विष्टं – सर्वलोकद्वेषविषयीकृतम्। सर्वलोकैरननुष्ठितमिति यावत् । अतएव अस्वर्ग्यं – अलौकिकश्रेयस्-साधनता-शून्यम्, धर्ममपि – चोदितमपि, न त्वाचरेत् – नैवाचरेत् ऎऩ्गै। 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8818,6 +8822,19 @@ quien **es descrito** por Aḷavandār como uno de los mejores sabios,
 इङ्गु ‘‘तस्मै नमो मुनिवराय पराशराय’’(आळवन्दार् स्तोत्रम् ४) ऎऩ्ऩुम्बडि श्लाघ्यराऩ पराशरादि पूर्वाचार्यर्गळनुष्ठिक्कैयाले सर्वशिष्टबहिष्कारञ् जॊल्लवॊण्णादु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कतिपयशिष्टापरिग्रहम् पराशरादिगळ् अनुष्ठिक्काददाले प्रपत्तिक्कुमुण्डु।  
+आगैयाल् सर्वशिष्टापरिग्रहमे बाधकमागक् कॊळ्ळवेण्डुम्।  
+अदु श्लाघ्यराऩ पराशरादिगळ् अनुष्ठिक्कैयाल् भक्तिक्कुमिल्लैयॆऩ्ऱु करुत्तु।
+
+श्लाघ्यर् आऩ ऎऩ्बदाल्  
+कतिपय-शिष्ट-परिग्रहापरिग्रह-सम्मेलने  
+परमाप्ततया सर्व-श्लाघनीय-शिष्ट-परिग्रहम् उपादेयता-नियामकम् ऎऩ्ऱु सूचितम्। +++(5)+++
+
+</details>
+
+
 ### कलि-युग-योग्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8855,15 +8872,38 @@ Dado que en Kali Yuga, **no es posible encontrar** hombres competentes para **re
 इप्पडि युगान्तरङ्गळिलिवै धर्मङ्गळाऩालुम् कलियुगत्तिल् यथोक्तमाऩ परमात्मोपासनादिगळुक्कधिकारिकळ् दुर्लभरागैयाले इवै इक्कालत्तुक्कुप्पॊरुन्दुमवैयऩ्ऱु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+भक्तिक्कु स्वरूपविरुद्धत्वम् इल्लामऱ्पोऩालुम् कलियुगत्तिल् इदै अनुष्ठिक्कुमधिकारिकळ् किडै यादागैयाल् इदु इक्कालत्तिऱ्कुप् पॊरुन्दादु ऎऩ्गिऱ पक्षत्तै अनुवदित्तु निरसिक्किऱार् इप्पडि युगान्तरङ्गळिलित्यादिना ।  
+इवै इक्कालत्तिऱ्कुप् पॊरुन्दुमवैयऩ्ऱु इति ।  
+पॊरुन्दुगै उपायमाग आगुगै। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> आगैयालेयऩ्ऱो ‘‘कलौ संकीर्त्य केशवम्’’(विष्णुपुराणम् ६-२-१७) ऎऩ्ऱुम्, 
+> आगैयालेयऩ्ऱो 
+>
+>> (ध्यायन् कृते यजन् यज्ञैस्  
+त्रेतायां द्वापरेऽर्चयन् ।  
+यद् आप्नोति तद् आप्नेति)  
+“कलौ संकीत्य केशवम् ॥"  
+(विष्णुपुराणम् ६-२-१७) 
+>
+> ऎऩ्ऱुम्, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 > अत एव किल,  
-“कलौ संकीत्य केशवम् " (विष्णुपुराणम् ६-२-१७) इति,  
+>
+>> (ध्यायन् कृते यजन् यज्ञैस्  
+त्रेतायां द्वापरेऽर्चयन् ।  
+यद् आप्नोति तद् आप्नेति)  
+“कलौ संकीत्य केशवम् ॥"  
+(विष्णुपुराणम् ६-२-१७) 
+>
+> इति,  
 
 </details>
 
@@ -8895,6 +8935,18 @@ por la mera **mención** de sus nombres ",
 
 आगैयालेयऩ्ऱो ‘‘कलौ संकीर्त्य केशवम्’’(विष्णुपुराणम् ६-२-१७) ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कलियुगत्तिल् भक्त्यनुष्ठानम् अशक्यमागैयाले भक्तिफलमाऩ मोक्षत्तिऱ्कु लघुवाऩ उपायान्तरत्तै शास्त्रम् सॊल्लुगिऱदॆऩ्गिऱार् आगैयालेयऩ्ऱो इत्यादिना । कलौ सङ्कीर्त्य केशवमिति । 
+
+> ‘‘ध्यायन् कृते यजन् यज्ञैस्  
+त्रेतायां द्वापरेऽर्चयन् ।  
+यद् आप्नोति तद् आप्नेति’’  
+
+ऎऩ्बदु कीऴ् पादङ्गळ्। इदऩाल् कलियुगत्तिल् लघुवाऩ केशवसङ्कीर्तनम् मोक्षोपायमेयॊऴिय अशक्यङ्गळाऩ भक्त्यादिगळ् उपायङ्गळागमाट्टादॆऩ्ऱु सूचितम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -8956,6 +9008,12 @@ De esta manera, **no se puede discutir**.
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कलेर्दोषनिधेरिति । कीर्तनादेव ऎऩ्गिऱ अवधारणत्ताले भक्तिक्कु मोक्षोपायत्वम् व्यवच्छेदिक्कप्पडुगिऱदॆऩ्बदु पूर्वपक्ष्यभिप्रायम्। ऎऩ्ऩवुमॊण्णादु इत्यादि । ऎऩ्ऱु सॊल्लुवदुम् उपपन्नमऩ्ऱु ऎऩ्बदु प्रतिज्ञा । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘कलौ कृत-युगं तस्य,  
@@ -9011,6 +9069,12 @@ y para el que **no entretiene** a Acyuta en el corazón,
 (विष्णुधर्मः १०९-५७) ऎऩ्गिऱबडिये 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अदिल् सप्रमाणम् हेतुवैक् काण्बिक्किऱार् कलौ कृतयुगं तस्येत्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्-कालत्तिलुम् उपासनादिगळुक्क् अधिकारिगळ्  
@@ -9044,6 +9108,12 @@ y quién, como el antiguo ācāryas, **se establecen** en yoga por su propio bie
 
 इक्कालत्तिलुम् उपासनादिगळुक्कधिकारिकळ् स्वयं प्रयोजनयोगनिष्ठराऩ पूर्वाचार्यर्गळ् पोले संभावितरिऱे। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+स्वयम्प्रयोजन-योग-निष्ठर् आऩ पूर्वाचार्यर्गळ् - नाथमुनि, कुरुगैक्कावलप्पऩ् मुदलाऩ पूर्वाचार्यर्गळ्। सम्भावितरिऱे इति । इदऩाल् कलियिल् अधिकारिदौर्लभ्यात् भक्त्यनुपायम् ऎऩ्ऱुसॊऩ्ऩदु सङ्गतमागादॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9105,12 +9175,35 @@ o quién lo **escuchará** ".
 इङ्ङऩल्लादबोदु संकीर्तन-व्यतिरिक्तैयाऩ प्रपत्तिक्कुम् ३९‘‘किन्नु तस्य च मन्त्रस्य कर्मणः कमलासन । न लभ्यतेऽधिकारी वा श्रोतुकामोऽपि वा नर॥’’(पौष्करसंहिता) इत्यादिगळिऱ्पडिये 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि यऩ्ऱिक्के अधिकारिदौर्लभ्यत्ताले भक्तिक्कु अनुपादेयत्वम् सॊल्लिल् प्रपत्तिक्कुम् अनुपादे-यत्वप्रसङ्गम् वरुमॆऩ्गिऱार् इङ्ङऩल्लादबोदु इत्यादिना ।  
+सङ्कीर्तन-व्यतिरिक्तैयाऩ प्रपत्तिक्कुमिति । इदऩाल् कीर्तनादेव ऎऩ्गिऱविडत्तिल् अवधारणत्तिऱ्कु अन्ययोगव्यवच्छेदपरत्वम् कॊण्डाल् सङ्कीर्तनव्यतिरिक्तैयाऩ प्रपत्तिक्कुम् मोक्षोपायत्वत्तैत् तविर प्रसङ्गिक्कुमॆऩ्ऱु सूचितम्।  
+इप्पडि एवकारत्तिऱ्कु अन्य-योग-व्यवच्छेदकत्वम् कॊण्डाल् भक्तिप्रपत्तिकळिरण्डुक्कुमे अनुपादेयत्वम् प्रसङ्गिक्कुमागैयालुम् अदु वादिप्रतिवादिगळिरुवरुक्कुम् अनिष्टमागैयालुम् सॆय्वदॆऩ्ऩॆऩ्ऩिल्; 
+
+> ‘‘तमेव विदित्वाऽतिमृत्युमेति’’ 
+
+ऎऩ्गिऱ विडत्तिल् एवकारत्तिऱ्कु अन्ययोगव्यवच्छेदपरत्वम् कॊण्डाल् नम् सिद्धान्तरीत्या सगुणोपासनम् सिद्धिक्कादागैयाल् एवकारत्तै भिन्नक्रममाक्कि तं विदित्वैव ऎऩ्ऱन्वयिप्पदु पोल् इङ्गुम् एवकारत्तै भिन्नक्रममाक्कि कृष्णस्यैव कीर्तनात् ऎऩ्ऱु अन्वयित्ताल् उभयवादिगळुक्कुम् अनिष्टप्रसङ्गम् वारादॆऩ्ऱु गूढाभिप्रायम्। 
+
+> भक्तिक्कुप्पोल् प्रपत्तिक्कु अधिकारिदौर्लभ्यम् इल्लामैयाले  
+अनुपादेयत्वम् सॊल्ल-मुडियुमोव् 
+
+ऎऩ्ऩ वरुळिच् चॆय्गिऱार् किन्नु तस्य च मन्त्रस्येति । किन्नु – किन्तु, न लभ्यतेऽधिकारी वेत्यादि । वा शब्दोऽवधारणार्थः । न लभ्यत एवेत्यर्थः । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महा-विश्वासादि-युक्तर् आऩव् अधिकारिगळ् तेट्टम् आगैयाले  
+महा-विश्वासादि-युक्तर् आऩव् अधिकारिगळ् तेट्टम्+++(=दुर्लभम्)+++ आगैयाले  
 अव्व् इडत्तिलुम् इप्-प्रसङ्गम् वरुम्।  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+महा-विश्वासादि-युक्तानाम् अधिकारिणां दौलभ्यात्  
+तत्रापि +अयं प्रसङ्गः प्रवर्तेत । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9131,12 +9224,14 @@ y que **tengan** la fe intensa (Maha-Visvasa) **necesaria** para ello.
 महाविश्वासादियुक्तराऩवधिकारिकळ् तेट्टमागैयाले अव्विडत्तिलुम् इप्प्रसङ्गम् वरुम्।  
 </details>
 
-<details><summary>नीलमेघः (सं)</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-महा-विश्वासादि-युक्तानाम् अधिकारिणां दौलभ्यात्  
-तत्रापि +अयं प्रसङ्गः प्रवर्तेत । 
+लघूपायत्तिऱ्कुम् अधिकारिदौर्लभ्यमुण्डॊवॆऩ्ऩ वरुळिच्चॆय्गिऱार् महाविश्वासादियुक्तराऩ अधिकारिकळ् तेट्टमागैयाले इति । तेट्टमागैयाले – दुर्लभमागैयाले।  
 </details>
 
+
+
+#### अनधिकारिण्य् एव विरोधः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9199,7 +9294,12 @@ De la misma manera que las **abluciones** por **inmersión** completa en el agua
 ऎऩ्ऱिरुक्कुमधिकारिक्कु स्वाधिकारविरुद्धङ्गळॆऩ्ऩप्प्राप्तम्।
 </details>
 
-#### अनधिकारिण्य् एव विरोधः
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आऩाल् भक्तिस्वरूपविरुद्धमॆऩ्बदै ऒरु पडियालुम् निर्वहिक्कमुडियादोवॆऩ्ऩिल्; प्रमाणान्तराविरोधेन स्वरूपविरुद्धत्वत्तै निर्वहित्तुक्काट्टुगिऱार् आऩबिऩ्बु इत्यादिना । आतुरादिगळुक्कु अवगाहनम् ऎप्पडि स्वाधिकारविरुद्धमो? अप्पडिये अकिञ्चनऩुक्कु भक्ति स्वाधिकारविरुद्धैयॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व्-अधिकार-विरोधम् अऱियादे  
@@ -9251,6 +9351,12 @@ que un hombre **adopta** Bhakti como un upāya ".
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि भक्तिक्कुम् मोक्षोपायत्वम् उण्डॆऩ्ऱाल् ‘‘नरस्य बुद्धिदौर्बल्यादुपायान्तरमिष्यते’’ ऎऩ्ऱु भक्तियै उपायमाग स्वीकरिक्कैयै बुद्धिदौर्बल्यकार्यमागच् चॊऩ्ऩ वचनम् विरोधियादोवॆऩ्ऩ अदिऩ् तात्पर्यत्तै यरुळिच्चॆय्गिऱार् इव्वधिकारविरोधमऱियादे इत्यादिना । इव्वधिकारविरोधम् - तऩक्कुळ्ळ आकिञ्चन्याद्यधिकारविरोधम्, तथाच अकिञ्चनऩाऩ वधिकारिक्कु उपायान्तरपरिग्रहम् स्वाधिकारविरुद्धमागैयाले बुद्धिदौर्बल्यकृतमॆऩ्ऱु इन्द श्लोकत्तिल् सॊल्लप्पट्टदेयॊऴिय भक्तिक्कु अनुपायत्वम् इदिल् सॊल्लप्पडविल्लैयॆऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् इव्व्-उपासनादिगळुम्  
@@ -9278,6 +9384,12 @@ Por lo tanto, incluso estas upāsanas y similares **son**, para otros adhikārī
 
 आगैयाल् इव्वुपासनादिगळुम् अधिकार्यन्तरत्तिऱ्कु यथाधिकारमनुगुणङ्गळ्।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अकिञ्चनऩुक्कु स्वाधिकारविरुद्धमागैयाले अनुपायमाऩ भक्तिये समर्थऩुक्कु फलोपायमागुमॆऩ्गिऱार् आगैयालित्यादिना । आगैयाल् - अकिञ्चनाधिकारिक्के भक्ति, स्वाधिकारविरुद्धमागैयाल्। 
+</details>
+
 
 
 ## प्रपत्त्य्-उत्कर्षः
@@ -9323,6 +9435,8 @@ El hombre que **ha adoptado** a Prapatti como un independiente y dirigido upāya
 
 अवऱ्ऱुक्कु सामर्थ्यमिल्लामैयादल् विळम्बक्षमऩल्लामैयादल् इप्प्रपत्तियै स्वतन्त्रोपायमागप्पऱ्ऱिऩवऩै 
 </details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -9410,6 +9524,13 @@ y **terminando** con el baño final (Avabhritha).
 इवऩुक्कु स्व-तन्त्र-विधियाले वर्णाश्रमादि-धर्मङ्गळ् नडवा निऱ्कच् चॆय्देयुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+क्रत्व्-अन्तरानुष्ठानं कृतवतां पाश्चात्य-नित्य-नैमित्तिकवत्  
+अस्य स्व-तन्त्र-विधितो वर्णाश्रम-धर्मेषु प्रवर्तमानेष्व् अपि  
+</details>
+
+
 <details><summary>English</summary>
 
 They hold also that,  
@@ -9439,6 +9560,12 @@ Como los **mandamientos** del Señor que es omnipotente.
 अनुष्ठितात्म-याग-फलत्तैप् पऱ्ऱ कर्तव्यान्तर-निरपेक्षऩ् आगवुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अनुष्ठितात्म-याग-फलार्थं कर्तव्यान्तर-निरपेक्षो ऽयम् इति च  
+</details>
+
+
 <details><summary>English</summary>
 
 and that the man who has performed the sacrifice or yajna of the self  
@@ -9460,6 +9587,12 @@ y que el hombre que **ha realizado** el sacrificio o yajna del yo
 
 आऴ्वार्गळुम्, महर्षिगळुम्, भगवच्-छास्त्रङ्गळुम्, वेदङ्गळुम् घोषिया निऩ्ऱऩ। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+दिव्यसूरयो महर्षयो भगवच्छास्त्राणि वेदाश् च घोषयन्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9491,12 +9624,15 @@ y que el hombre que **ha realizado** el sacrificio o yajna del yo
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अतः, 
+
 > ‘‘तपस्विभ्यो ऽधिको योगी  
 ज्ञानिभ्योऽपि मतोऽधिकः ।  
 कर्मिभ्यश् चाधिको योगी  
 तस्माद् योगी भवार्जुन॥’’  
 (गीता ६-४६) 
 
+इत्यादिभिः 
 </details>
 
 <details><summary>विषयः</summary>
@@ -9538,6 +9674,12 @@ Por lo tanto, oh arjuna, conviértete en un yoguin ";
 निवृत्तिधर्मङ्गळ् श्रेष्ठङ्गळ् आऩाऱ् पोलवुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रवृत्तिधर्मेभ्यो निवृत्तिधर्मा यथा श्रेष्ठाः ( उत्कृष्टा), 
+</details>
+
+
 <details><summary>English</summary>
 
 the dharmas or activities of renunciation are superior to the activities or dharmas of action (pravṛtti); 
@@ -9556,6 +9698,11 @@ Los dharmas o actividades de **renuncia son** superiores a las actividades o dha
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवै तऩ्ऩिल् आत्म-विषयम् आऩ योगम् श्रेष्ठम् आऩाऱ् पोलवुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तेष्व् अपि आत्म-विषयक योगो यथा श्रेष्ठः, 
 </details>
 
 <details><summary>English</summary>
@@ -9582,6 +9729,16 @@ Así también el yoga **conectado** con el yo **es** superior a todos los demás
 
 ऎऩ्गिऱ बडिये वसु-देव--नन्दन-विषयम् आऩ योगम् श्रेष्ठम् आऩाऱ् पोलवुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आत्म-विषय-योगापेक्षया 
+
+> ‘‘योगिनाम् अपि सर्वेषां’’(गीता ६-४७) 
+
+इत्य्-उक्त-रीत्या वसु-देव--नन्दन-विषयो योगो यथा श्रेष्ठः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9615,6 +9772,14 @@ porque **se ha dicho**
 सु-करत्व सकृत्-कर्तव्यत्व शीघ्र-फल-प्रदत्वादिगळाले श्रेष्ठतमम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तथा परमात्म-विषय-विद्या-विशेषेभ्यः सर्वेभ्यो  
+न्यास-निक्षेपादि-शब्दोक्तो विद्या-विशेष एव  
+सु-करत्व--सकृत्-कर्तव्यत्व--शीघ्र-फल-प्रदत्वादिभिः श्रेष्ठतमः । 
+</details>
+
+
 <details><summary>English</summary>
 
 Similarly of all the vidyās or forms of meditation on the Supreme Self,  
@@ -9643,6 +9808,12 @@ Y **lleva** al logro del final pronto.
 
 न्यास-विद्यैयिले कण्ठोक्तम् आऩ इव्व्-अर्थत्तै 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+न्यास-विद्यायां कण्ठोत्तम् अमुम् अर्थं, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9744,6 +9915,14 @@ y aquellos, de nuevo, que **siguen** a Jñāna Yoga Aod Bhaktiyoga
 ऎऩ्ऱु भगवच्छास्त्रमुपबृंहित्तदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२२०]] 
+
+इति भगवच्-छास्त्रम् उपबृंहयाम् आस । 
+</details>
+
+
 <details><summary>English</summary>
 
 is stated explicitly in the Bhagavat Śāstra in the above ~~following~~ ślokas.
@@ -9761,13 +9940,103 @@ is stated explicitly in the Bhagavat Śāstra in the above ~~following~~ ślokas
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवगाहनादिगळिल् समर्थऩ् अल्लाद्-अवऩुक्कु  
+
+‘‘मानसं विष्णु-चिन्तनं’’(गार्ग्य-स्मृतिः)  
+ऎऩ्ऱु भगवच्-चिन्तनत्तै स्नानम् आग विधित्ताल्  
+
+अदु स्नानान्तरङ्गळ् पण्णुगिऱ शुद्धियैयुम् पण्णि,  
+पापान्तरङ्गळैयुम् शमिप्पित्तु  
+अप्-पोदे भगवद्-अनुभव-रसत्तैय् उण्डाक्कुमाप् पोले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अवगाहनादिषु सामर्थ्य-हीनस्य  
+
+‘‘मानसं विष्णु-चिन्तनं’’(गार्ग्य-स्मृतिः)  
+इति भगवच्-चिन्तनस्य स्नानत्वेन विधाने  
+
+तत् स्नानान्तर-साध्यां **शुद्धिम् उत्पाद्य**  
+
+पापान्तराणि च **प्रशमय्य**,  
+तदानीम् एव भगवदनुभव-रसं च यथोत्पादयति, 
+</details>
+
+
+<details><summary>English</summary>
+
+To the man who is unable (owing to illness ) to perform such things as ablution by immersion,  
+the meditation on  Viṣṇu, which is called mental ablation, is ordained;  
+thereby he obtains not only the purity of those who perform the other kinds of ablution,  
+but acquires freedom from sins and the pleasure of the immediate enjoyment of Bhagavān.  
+</details>
+
+<details><summary>Español</summary>
+
+Al hombre que **no puede** (debido a la enfermedad) **realizar** cosas como la **ablución** por **inmersión**,  
+La **meditación** sobre Viṣṇu, que **se llama ablación** mental, se **ordena**;  
+De este modo **obtiene** no solo la pureza de aquellos que **realizan** los otros tipos de **ablución**,  
+pero **adquiere** la libertad de los pecados  
+y el placer del **disfrute** inmediato de Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवगाहनादिगळिल् समर्थऩल्लादवऩुक्कु ‘‘मानसं विष्णुचिन्तनं’’(गार्ग्य-स्मृतिः) ऎऩ्ऱु भगवच्चिन्तनत्तै स्नानमाग विधित्तालदु स्नानान्तरङ्गळ् पण्णुगिऱ शुद्धियैयुम् पण्णि, पापान्तरङ्गळैयुम् शमिप्पित्तु अप्पोदे भगवदनुभवरसत्तै युण्डाक्कुमाप्पोले 
+</details>
+
  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपासनादिगळिल् समर्थऩ् अल्लाद्-अवऩुक्कु  
+प्रपत्तियै विधित्तालुम्  
+
+इप्-प्रपत्ति-ताऩे अवै गॊडुक्कुम् फलत्तैयुम्  
+अवै-दऩ्ऩैयुङ्+++(=??)+++ कॊडुक्कवऱ्ऱाय् 
+
+अकिञ्चनऩुक्कुत् तारकम् आय्  
+
+अवऩ् अपेक्षित्त कालत्तिले  
+फलाविनाभावत्तैयुम् उडैत्त् आय् इरुक्कैयाले अधिक-प्रभावमायिरुक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तथोपासनादिष्व् असमर्थं प्रति  
+प्रपत्तेर् विधाने  
+
+इयं प्रपत्तिर् एव तत्-प्रदेयानि फलानि,  
+तान्य् अपि च प्रदातुं प्रभवन्ती  
+अकिञ्चनस्योत्तारिका  
+तद्-अपेक्षित-फलाविनाभावं च वहतीत्य्  
+अधिक-प्रभावा भवति ॥ 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपासनादिगळिल् समर्थऩल्लादवऩुक्कु प्रपत्तियै विधित्तालुम् इप्प्रपत्तिताऩे अवैगॊडुक्कुम् फलत्तै युमवैदऩ्ऩैयुङ्गॊडुक्कवऱ्ऱाय् अकिञ्चनऩुक्कुत्तारकमाय् अवऩ  
+  
+पेक्षित्त कालत्तिले फलाविनाभावत्तैयुमुडैत्तायिरुक्कैयाले अधिक-प्रभावमायिरुक्कुम्। 
+</details>
 
 
 
 
-To the man who is unable (owing to illness ) to perform such things as ablution by immersion," the medita:ion on  Viṣṇu, which is called mental ablation, is ordained; thereby he obtains not only the purity of those who perform the other kinds of ablution, but acquires freedom from sins and the pleasure of the immediate enjoyment of Bhagavān. In the same way, though prapatti is ordained for those who are not competent to perform such things as upāsanas, it confers the fruits attainable from them; it secures them (the upāya, namely, upāsana also); it redeems the man who is destitute of all other upāyas ( akiñcana ); and further it secures the fruit (desired by him) at the time when he wants it. Therefore prapatti has superior potency.
+
+
+In the same way, though prapatti is ordained  
+for those who are not competent to perform such things as upāsanas,  
+it confers the fruits attainable from them;  
+it secures them (the upāya, namely, upāsana also);  
+it redeems the man who is destitute of all other upāyas ( akiñcana );  
+and further it secures the fruit (desired by him) at the time when he wants it.  
+Therefore prapatti has superior potency.
 
 DOES PRAPATTI REQUIRE AṅGAS OR ACCESSORIES ?
 
