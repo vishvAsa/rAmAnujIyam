@@ -10445,11 +10445,284 @@ en el momento del rendimiento de Prapatti).
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩलादबोदु 
+
+> ‘‘षड्विधा शरणागतिः’’(अहिर्बुध्न्य-सम् ३७-१८) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘षड्विधा शरणागतिः’’(अहिर्बुध्न्य-सम् ३७-१८) 
+</details>
 
 
-If this explanation is not accepted, many authoritative passages which distinguish between the main rite (aṅgī) and its accessories (aṅga) such as "Śaraṇāgati is of six kinds," "Nyāsa has five aṅgas" and "Let him perform that prapatti which has five accessories " - many such authoritative passages would offer opposition. We have already stated that (the absence of these accessories) would be against what is the subject of experience in the world in regard to the conventions regarding the surrender of objects that have to be protected and that these accessories are required only once and so on. Even the divine missile, Brahmāstra, requires its own accessories (aṅgas). Hence the śloka that there is no other requisite for prapatti anywhere and at any time" only states that it does not require any other dharma or rite. (It does not mean that even) the aṅgas of prapatti are not required). Otherwise even intense faith (mahavisvasa) which these critics commend as an aṅga might be considered as an attribute which may be found (in a prapanna) and not as an aṅga.
+<details><summary>English</summary>
+
+If this explanation is not accepted,  
+
+> "Śaraṇāgati is of six kinds," 
+</details>
+
+<details><summary>Español</summary>
+
+Si esta explicación **no es aceptada**,
+
+> "Śaraṇāgati **es** de seis tipos", "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩलादबोदु ‘‘षड्विधा शरणागतिः’’(अहिर्बुध्न्य-सम् ३७-१८) ऎऩ्ऱुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न्यासः पञ्चाङ्गसंयुतः’’(लक्ष्मीतन्त्रम् १७-७४) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न्यासः पञ्चाङ्गसंयुतः’’(लक्ष्मीतन्त्रम् १७-७४) 
+</details>
+
+
+<details><summary>English</summary>
+
+> "Nyāsa has five aṅgas" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Nyāsa **tiene** cinco aṅgas"
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘न्यासः पञ्चाङ्गसंयुतः’’(लक्ष्मीतन्त्रम् १७-७४) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘स्वाङ्गैः पञ्चभिरावृतां’’(लक्ष्मीतन्त्रम् २८-११) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘स्वाङ्गैः पञ्चभिरावृतां’’(लक्ष्मीतन्त्रम् २८-११) 
+</details>
+
+
+<details><summary>English</summary>
+
+and "Let him perform that prapatti which has five accessories " 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "**Déjelo realizar** ese Prapatti que **tiene** cinco accesorios"
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘स्वाङ्गैः पञ्चभिरावृतां’’(लक्ष्मीतन्त्रम् २८-११) ऎऩ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+अङ्गाङ्गिकळै विभजित्तुच् चॊल्लुगिऱ पल प्रमाणङ्गळुक्कुम् विरुद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+many authoritative passages which distinguish between the main rite (aṅgī) and its accessories (aṅga),  
+such as (the above),  
+would offer opposition.  
+</details>
+
+<details><summary>Español</summary>
+
+muchos pasajes autorizados que **distinguen** entre el rito principal (aṅgī) y sus accesorios (aṅga),  
+como (lo anterior),  
+**Ofrecería oposición.**
+</details>
+
+
+<details><summary>Español</summary>
+
+अङ्गाङ्गिकळै विभजित्तुच् चॊल्लुगिऱ पल प्रमाणङ्गळुक्कुम् विरुद्धम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> लोकत्तिल् रक्ष्य-द्रव्य-समर्पण-मर्यादैक्कुम् पॊरुन्दाद्  
+
+ऎऩ्ऱुम्  
+इव्व्-अङ्गङ्गळ्-उडैय सकृत्-करणादि-प्रकारङ्गळुम्  
+मुऩ्बे सॊऩ्ऩोम्।
+</details>
+
+<details><summary>English</summary>
+
+We have already stated that (the absence of these accessories) would be against what is the subject of experience in the world  
+in regard to the conventions regarding the surrender of objects that have to be protected  
+and that these accessories are required only once and so on. 
+</details>
+
+<details><summary>Español</summary>
+
+Ya **hemos declarado** que (la **ausencia** de estos accesorios) **estaría** en contra de lo que es el tema de la **experiencia** en el mundo.  
+con respecto a las convenciones  
+con respecto a la **rendición** de objetos que **tienen** que **ser protegidos**  
+y que **estos** accesorios **se requieren** solo una vez y así sucesivamente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+लोकत्तिल् रक्ष्यद्रव्यसमर्पणमर्यादैक्कुम् पॊरुन्दादॆऩ्ऱुम् इव्वङ्गङ्गळुडैय सकृत्करणादिप्रकारङ्गळुम् मुऩ्बे सॊऩ्ऩोम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मास्त्रमुम् स्वाङ्ग-सापेक्षम् आय् इऱेय् इरुप्पदु। 
+</details>
+
+<details><summary>English</summary>
+
+Even the divine missile, Brahmāstra, requires its own accessories (aṅgas). 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso el misil divino, Brahmāstra, **requiere** sus propios accesorios (AṅGAS).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मास्त्रमुम् स्वाङ्गसापेक्षमायिऱे यिरुप्पदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् 
+
+> ‘‘प्रपत्तेः क्वचिद् अप्य् एवं  
+परापेक्षा न विद्यते ।  
+सा हि सर्वत्र सर्वेषां  
+सर्व-काम-फल-प्रदा॥’’  
+(सनत्कुमारसंहिता।) 
+
+ऎऩ्ऱ् अदुवुम् धर्मान्तर-नैरपेक्ष्यञ् जॊऩ्ऩ बडि।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः
+
+> ‘‘प्रपत्तेः क्वचिद् अप्य् एवं  
+परापेक्षा न विद्यते ।  
+सा हि सर्वत्र सर्वेषां  
+सर्व-काम-फल-प्रदा॥’’  
+(सनत्कुमारसंहिता।) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+Hence the śloka that 
+
+> there is no other requisite for prapatti anywhere and at any time  
+
+only states that it does not require any other dharma or rite.  
+(It does not mean that even the aṅgas of prapatti are not required). 
+</details>
+
+<details><summary>Español</summary>
+
+De ahí el Śloka que
+
+> **No hay** otro requisito para Prapatti en ningún lado y en cualquier momento
+
+Solo **afirma** que **no requiere** ningún otro dharma o rito.  
+(**No significa** que incluso los AṅGas de Prapatti **no sean necesarios**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ‘‘प्रपत्तेः क्वचिदप्येवं परापेक्षा न विद्यते । सा हि सर्वत्र सर्वेषां सर्वकामफलप्रदा’’(सनत्कुमारसंहिता।) ऎऩ्ऱदुवुम् धर्मान्तरनैरपेक्ष्यञ्जॊऩ्ऩबडि।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् अल्लाद पोदु  
+इवर्गळ् इसैन्द महा-विश्वासत्तैयुम्  
+इक्-कट्टळैयिले  
++++(प्रपन्ने)+++ संभावित-स्वभावम् आक्कल् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+Otherwise even intense faith (mahavisvasa) which these critics commend as an aṅga  
+might be considered as an attribute  
+which may be found (in a prapanna) and not as an aṅga.
+</details>
+
+<details><summary>Español</summary>
+
+De lo contrario, incluso la fe intensa (Mahavisvasa) que estos críticos **eligen** como AṅGA  
+**podría considerarse** como un atributo  
+que **se puede encontrar** (en una prapanna) y no como un aṅga.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियल्लाद पोदु इवर्गळिसैन्द महाविश्वासत्तैयुमिक्कट्टळैयिले संभावितस्वभावमाक्कलाम्। 
+</details>
+
+
+
+### विश्वास-महत्त्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 WHY SHOULD INTENSE FAITH BE CALLED AN AṅGA INSTEAD OF MERE FAITH ?
+</details>
+
+<details><summary>मूलम्</summary>
+
+¿Por qué **debería llamarse** fe intensa a Aṅga en lugar de mera fe?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्ववकाशत्तिले वेऱे सिलर् आस्तिकऩुक्कु शास्त्रार्थविश्वासम् पिऱक्कुमदुक्कु मेऱ्पड महाविश्वासमॆऩ्ऱॆऩ्ऱुण्डो; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्ववकाशत्तिले वेऱे सिलर् आस्तिकऩुक्कु शास्त्रार्थविश्वासम् पिऱक्कुमदुक्कु मेऱ्पड महाविश्वासमॆऩ्ऱॆऩ्ऱुण्डो; 
+</details>
+
+
 
 In this connection, some others may contend as follows:--- “When the believer has faith in what is stated in the śāstras, what is the meaning of saying that there is something else called 'intense faith' or mahavisvasa? Therefore there is no point in bolding that this mahāvisvõsa is anything other than the faith in the śāstra which is general and that it is a special aṅga or accessory of prapatti. This contention (or objection) is refuted by the well-known fact that there are degrees of faith as stated in the śloka:"One should never place confidence in a man whom one does not trust. Even in a man whom one trusts, too much confidence should not be reposed." It is also refuted by the text which prescribes extra ordinary faith as an aṅga or accessory (in regard to prapatti ).
 
