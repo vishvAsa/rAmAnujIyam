@@ -10123,12 +10123,37 @@ Por lo tanto, Prapatti **tiene** una potencia superior.
 उपासनादिगळिल् समर्थऩल्लादवऩुक्कु प्रपत्तियै विधित्तालुम् इप्प्रपत्तिताऩे अवैगॊडुक्कुम् फलत्तै युमवैदऩ्ऩैयुङ्गॊडुक्कवऱ्ऱाय् अकिञ्चनऩुक्कुत्तारकमाय् अवऩपेक्षित्त कालत्तिले फलाविनाभावत्तैयुमुडैत्तायिरुक्कैयाले अधिक-प्रभावमायिरुक्कुम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उपासनादिगळिल् इत्यादिना दार्ष्टान्तिकोत्कर्षकथनम्। इङ्गु आदिशब्दत्ताल् उपायविरोधिपापनिवर्तनम् सॊल्लप्पडुगिऱदु।  
+इप् प्रपत्ति ताऩे अवै कॊडुक्कुम् फलत्तैयुम् अवै तऩ्ऩैयुम् कॊडुक्कवऱ्ऱायिति ।  
+    
+अवै कॊडुक्कुम् फलत्तैयुम् ऎऩ्बदाल् उपासनसाम्यम् सॊल्लप्पडुगिऱदु।  
+अवै तऩ्ऩैयुम् कॊडुक्कवऱ्ऱाय् ऎऩ्ऱु  
+
+> ‘‘सुदुष्करेण शोचेद्यः’’(गार्ग्य-स्मृतिः) 
+
+ऎऩ्गिऱबडि  
+उपाय-विरोधि-पाप-निवृत्ति-द्वारा  
+उपासनादि-सर्व-फल-प्रदत्वम् सॊल्लुगैयाल्  
+उपासनाद्युत्कर्षमुम् सॊल्लप्पडुगिऱदु।  
+अकिञ्चनऩुक्कु ऎऩ्ऱु वर्णाद्यनपेक्षै सॊल्लप्पडुगिऱदु।  
+इत्ताल् सर्वाधिकारत्व-रूपोत्कर्षम् सिद्धिक्किऱदु।  
+अवऩ् अपेक्षितकालत्तिले इत्यादिना अविळम्बितफलत्व, अमोघफलत्व प्रारब्धनाशकत्वरूपोत्कर्षम् सॊल्लप्पडुगिऱदु। 
+</details>
+
+
 ## प्रपत्तेर् अङ्गानि
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि इव्व्-उपायत्तिऩ् अधिकारत्तिलुम्, स्वरूपत्तिलुम् वरुम् कलक्कङ्गळ् शमिप्पित्तोम्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् अस्योपायस्याधिकारे स्वरूपे चोपनमतो व्यामोहान् अशीशमाम । 
 </details>
 
 
@@ -10151,11 +10176,22 @@ y su naturaleza esencial (svarūpa).
 इप्पडि इव्वुपायत्तिऩधिकारत्तिलुम् स्वरूपत्तिलुम् वरुम् कलक्कङ्गळ् शमिप्पित्तोम्; 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि उक्तानुवादपूर्वकमाग वक्ष्यमाणत्तै प्रतिज्ञै पण्णुगिऱार् इप्पडि इत्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इऩि मेल् परिकरङ्गळिल् वरुम् व्यामोहम् शमिप्पिक्किऱोम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अथ परिकरेषु जायमानान् व्यामोहान् शमयामः- 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10193,6 +10229,11 @@ DOES PRAPATTI REQUIRE AṅGAS OR ACCESSORIES ?
 > इव्व् उपायत्तुक्कु आनुकूल्य-सङ्कल्पादिगळ् वेणुमो; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अस्योपायस्यानुकूल्य-सङ्कल्पादयः कुतोऽपेक्षिताः ? 
+</details>
+
 <details><summary>English</summary>
 
 > (1) Is it necessary that this upāya should be accompanied by such things as the determination to do what is agreeable (ānukūlya saṅkalpa )? 
@@ -10208,6 +10249,11 @@ DOES PRAPATTI REQUIRE AṅGAS OR ACCESSORIES ?
 इव्वुपायत्तुक्कु आनुकूल्यसङ्कल्पादिगळ् वेणुमो; 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परिकरविषयत्तिल् वरुम् शङ्गैयैक्काट्टुगिऱार् इव्वुपायत्तुक्कित्यादियाल्।  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10215,6 +10261,14 @@ DOES PRAPATTI REQUIRE AṅGAS OR ACCESSORIES ?
 > 
 > ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘आर्तो वा यदि वा दृप्तः’’() 
+> 
+> इति
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10252,6 +10306,18 @@ a pesar de que **podría ser** un enemigo ",
 > ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+>> ‘‘मित्रभावेन संप्राप्तं  
+**न त्यजेयं** कथञ्चन ।  
+दोषो यद्य् अपि तस्य **स्यात्**  
+सताम् एतद् अ-गर्हितम्॥’’  
+(रामायणम् युद्ध-काण्डम् १८-२८।) 
+>
+> इति
+</details>
+
+
 <details><summary>English</summary>
 
 >> "I will, in no circumstances, abandon one who has come to me in the guise of a friend,  
@@ -10279,6 +10345,14 @@ El gran **apreciará** esto ",
 > 
 > ऎऩ्ऱुञ् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+>> ‘‘यदि वा रावणस्स्वयं’’(रामायणम् युद्ध-काण्डम् १४-३४।) 
+> 
+> इति च
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10308,6 +10382,12 @@ I promise protection to him" -
 शरणागतऩ्-उडैय दोषङ्गळैप् पार्क्कुमो; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+वदन् रिपूणाम् अपि वत्सलः शरण्यः  
+शरणागतस्य दोषान् किमु पश्येत् ? 
+</details>
+
 <details><summary>English</summary>
 
 > will the Saviour who said these words  
@@ -10328,6 +10408,17 @@ y que **fue amable** incluso para sus enemigos
 जॊल्लुगिऱ रिपूणामपि वत्सलराऩ शरण्यऩ् शरणागतऩुडैय दोषङ्गळैप् पार्क्कुमो; 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> ‘‘दोषो यद्यपि तस्य स्यात्  
+सताम् एतद् अ-गर्हितं’’ 
+
+ऎऩ्ऱु शरणागत-विषयत्तिल् दोषम् उण्डाऩालुम्  
+अवऩैय् अङ्गीकरिप्पदागत् तिरुवुळ्ळम् बऱ्ऱिय् इरुक्किऱ शरण्यऩ् विषयत्तिल्  
+अनुकूलानाचरणमुम् प्रतिकूलाचरणमुम् दोषमागादैयाल् अनुकूलाचरणमुम् प्रातिकूल्यवर्जनमुम् प्रपत्तिक्कु अङ्गमागादॆऩ्ऱु शङ्काभिप्रायम्। 
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10339,9 +10430,10 @@ y que **fue amable** incluso para sus enemigos
 
 <details><summary>नीलमेघः (सं)</summary>
 
->> अनालोचित-विशेषाशेष-लोक-शरण्यऩ्  
+>> अनालोचित-विशेषाशेष-लोक-शरण्य  
 (शरणागति-गद्यम्।)  
-
+>
+> इति किल पूर्वेषां वचः । 
 </details>
 
 <details><summary>English</summary>
@@ -10361,12 +10453,26 @@ sin ninguna **consideración** de mérito.
 अनालोचितविशेषाशेषलोकशरण्य(शरणागति-गद्यम्।) ऩॆऩ्ऱऩ्ऱो पूर्वर्गळ् पासुरम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अनालोचितेति । अनुकूलाचरणप्रतिकूलाचरणरूपविशेषत्तै यालोसिक् कामले अनुकूलप्रतिकूलरूपमाऩ सर्वलोकत्तिऱ्कुम् शरण्यऩॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > आगैयाल् इवै +++(शरणागतानां प्रायिक→)+++ संभावित-स्वभावङ्गळ् आम् इत्तऩैय् अऩ्ऱोव् 
 
 ऎऩ्ऱु सिलर् सॊल्लुवर्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अत एते +++(शरणागतानां प्रायिक→)+++संभावित-स्वभावा इत्येव हि (युक्तम्) 
+
+इति केचिद् आचक्षते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10392,6 +10498,14 @@ Tal **es** la **afirmación** de algunos críticos.
 आगैयालिवै संभावितस्वभावङ्गळामित्तऩैयऩ्ऱोवॆऩ्ऱु सिलर् सॊल्लुवर्गळ्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आगैयालिवै सम्भावितस्वभावङ्गळामित्यादि । आगैयाल् - आश्रितर्गळुडैय दोषादोषङ्गळै शरण्यऩ् कणिसियाऩागैयाल्, इवैगळ् - आनुकूल्यसङ्कल्पादिगळ्, सम्भावितस्वभावङ्गळिति । प्रपत्तेः पूर्वमवश्यम् इरुन्दे तीरवेण्डुमॆऩ्गिऱ निर्बन्धमिल्लै; किन्तु सम्भावितस्वभावङ्गळ्। 
+
+अदावदु - ऒरुवऩ् ऒरुवऩिडत्तिल् प्रपत्तिसॆय्युम्बोदु प्रपत्तव्यऩ् विषयत्तिल् प्रायशः अनुकूलऩागवे इरुप्पाऩॆऩ्बदुम् प्रातिकूल्याचरणम् सॆय्याऩॆऩ्बदुम् लोकत्तिल् सम्भावितङ्गळॆऩ्ऱबडि। एतावता आनुकूल्यसङ्कल्पादिगळुक्कु प्रपत्त्यङ्गत्वम् सिद्धियाद् ऎऩ्ऱु करुत्तु।
+</details>
+
+
 #### परिहारः
 
 
@@ -10406,6 +10520,19 @@ Tal **es** la **afirmación** de algunos críticos.
 
 ऎऩ्गैयिले तात्पर्यङ् गॊळ्ळलाम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य वचनस्य - 
+
+> प्रपत्त्य्-उत्तर-कालम्  
+आनुकूल्यादीनाम् अननुवृत्ताव् अपि  
+प्रतिसमाधान-जननात् प्रपत्ति-फलम्  
+अ-म्न्यूनं भवति
+
+इति तात्पर्यं सुग्रहम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10444,6 +10571,18 @@ en el momento del rendimiento de Prapatti).
 इदुक्कु प्रपत्त्युत्तरकालत्तिल् आनुकूल्यादिगळ् अनुवर्तियादॊऴियिलुम् प्रतिसमाधानम् पिऱन्दु प्रपत्तिफलमुङ्गुऱैवऱ्ऱिरुक्कुमॆऩ्गैयिले तात्पर्यङ् गॊळ्ळलाम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उत्तरमरुळिच्चॆय्गिऱार् इदुक्कु इत्यादिना । 
+
+> ‘‘प्रपत्तिं तां प्रयुञ्जीत  
+स्वाङ्गैः पञ्चभिर् आवृताम् ।  
+एवम् अङ्गैर् उपाङ्गैश् च  
+नमनं ते प्रकीर्तितम्॥’’  
+
+‘‘न्यासः पञ्चाङ्गसंयुत’’ इत्यादिप्रमाणङ्गळिल् आनुकूल्य-सङ्कल्पादिगळै प्रपत्त्यङ्गङ्गळागच् चॊल्लियिरुक्कैयाल् अवैगळ् अङ्गङ्गळऩ्ऱॆऩ्ऱुम् सम्भावितस्वभावङ्गळॆऩ्ऱुम् सॊल्लुवदु प्रमाणविरुद्धमागैयाल् इन्द अभियुक्तवाक्यत्तिऱ्कु प्रपत्त्युत्तरकालम् प्रपन्नऩुक्कु आनुकूल्याद्यङ्गङ्गळिऩ् अनुवृत्तियिल्लाविडिलुम् प्रतिसमाधानमुण्डाय् प्रपत्तिफलाविनाभूतमागुमॆऩ्बदिलेये तात्पर्यम् कॊळ्ळवेण्डुमे यॊऴिय, प्रपत्तेः पूर्वमानुकूल्याद्यङ्गङ्गळ् वेण्डामॆऩ्बदिल् तात्पर्यमॆऩ्ऱु सॊल्वदु युक्तमऩ्ऱॆऩ्ऱु करुत्तु।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10456,7 +10595,11 @@ en el momento del rendimiento de Prapatti).
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अन्यथेदम्, 
+
 > ‘‘षड्विधा शरणागतिः’’(अहिर्बुध्न्य-सम् ३७-१८) 
+
+इति, 
 </details>
 
 
@@ -10481,6 +10624,12 @@ Si esta explicación **no es aceptada**,
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+विपक्षत्तिल् बाधकत्तैक् काट्टुगिऱार् इङ्ङऩल्लाद पोदु इति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘न्यासः पञ्चाङ्गसंयुतः’’(लक्ष्मीतन्त्रम् १७-७४) 
@@ -10492,6 +10641,8 @@ Si esta explicación **no es aceptada**,
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘न्यासः पञ्चाङ्गसंयुतः’’(लक्ष्मीतन्त्रम् १७-७४) 
+
+इति
 </details>
 
 
@@ -10519,7 +10670,11 @@ Si esta explicación **no es aceptada**,
 
 <details><summary>नीलमेघः (सं)</summary>
 
+[[२२१]]
+
 > ‘‘स्वाङ्गैः पञ्चभिरावृतां’’(लक्ष्मीतन्त्रम् २८-११) 
+
+इति, 
 </details>
 
 
@@ -10540,10 +10695,17 @@ y
 ‘‘स्वाङ्गैः पञ्चभिरावृतां’’(लक्ष्मीतन्त्रम् २८-११) ऎऩ्ऱुम् 
 </details>
 
-<details><summary>English</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गाङ्गिकळै विभजित्तुच् चॊल्लुगिऱ पल प्रमाणङ्गळुक्कुम् विरुद्धम्। 
 </details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+चाङ्गाङ्गीनि विभज्य प्रतिपादयतां बहूनां प्रमाणानां विरुद्धम् आपद्येत । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10560,11 +10722,16 @@ como (lo anterior),
 </details>
 
 
-<details><summary>Español</summary>
+<details><summary>मूलम्</summary>
 
 अङ्गाङ्गिकळै विभजित्तुच् चॊल्लुगिऱ पल प्रमाणङ्गळुक्कुम् विरुद्धम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अङ्गाङ्गिगळै विभजित्तुच् चॊल्लुगिऱ इत्यादि ।  
+‘‘न्यासः पञ्चाङ्गसंयुत’’ इत्यादिगळिल् न्यासशब्दवाच्यम् अङ्गियॆऩ्ऱुम्, आनुकूल्यसङ्कल्पादिगळ् अङ्गङ्गळॆऩ्ऱुम् स्पष्टमागच् चॊल्लियिरुप्पदाल् आनुकूल्यसङ्कल्पादिगळ् सम्भावितस्वभावङ्गळ् अङ्गङ्गळऩ्ऱु ऎऩ्ऱु सॊऩ्ऩाल् अन्द प्रमाणविरोधम् दुरुद्धरमामॆऩ्ऱबडि। 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -10574,6 +10741,15 @@ como (lo anterior),
 ऎऩ्ऱुम्  
 इव्व्-अङ्गङ्गळ्-उडैय सकृत्-करणादि-प्रकारङ्गळुम्  
 मुऩ्बे सॊऩ्ऩोम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> लोके रक्ष्य-द्रव्य-समर्पण-मर्यादाया अप्य् अन्-अनुगुणं स्याद् 
+
+इतीमम् अर्थम्,  
+एषाम् अङ्गानां सकृत्-करणादि-प्रकारांश् च  
+पूर्वम् एवावोचाम । 
 </details>
 
 <details><summary>English</summary>
@@ -10597,10 +10773,20 @@ y que **estos** accesorios **se requieren** solo una vez y así sucesivamente.
 लोकत्तिल् रक्ष्यद्रव्यसमर्पणमर्यादैक्कुम् पॊरुन्दादॆऩ्ऱुम् इव्वङ्गङ्गळुडैय सकृत्करणादिप्रकारङ्गळुम् मुऩ्बे सॊऩ्ऩोम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+लोकरीतियिलुम् रक्ष्यद्रव्यसमर्पणकालत्तिलेये आनुकूल्यसङ्कल्पादिगळ् वेण्डुमॆऩ्ऱुम् इवैगळिऩ् सकृदनुष्ठानप्रकारत्तैयुम् मुऩ्बे सॊऩ्ऩोमॆऩ्गिऱार् लोकत्तिलित्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मास्त्रमुम् स्वाङ्ग-सापेक्षम् आय् इऱेय् इरुप्पदु। 
++++(प्रपत्ति-रूप-)+++ब्रह्मास्त्रमुम् स्वाङ्ग-सापेक्षम् आय् इऱेय् इरुप्पदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(प्रपत्ति-रूप-)+++ब्रह्मास्त्रम् अपि स्वाङ्ग-सापेक्षं किल भवति । 
 </details>
 
 <details><summary>English</summary>
@@ -10618,6 +10804,12 @@ Incluso el misil divino, Brahmāstra, **requiere** sus propios accesorios (AṅG
 
 ब्रह्मास्त्रमुम् स्वाङ्गसापेक्षमायिऱे यिरुप्पदु। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ब्रह्मास्त्रतुल्यमाऩ प्रपत्तिक्कु अन्यापेक्षै सह्यमागुमोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् ब्रह्मास्त्रमुम् स्वाङ्गसापेक्षमायिऱे इरुप्पदु इति । स्वाङ्गमाऩ मन्त्रोच्चारणाद्यभावे ब्रह्मास्त्रमुम् कार्यकरमागादॆऩ्ऱु करुत्तु।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10642,7 +10834,7 @@ Incluso el misil divino, Brahmāstra, **requiere** sus propios accesorios (AṅG
 सर्व-काम-फल-प्रदा॥’’  
 (सनत्कुमारसंहिता।) 
 
-
+इति वचनम् अपि धर्मान्तर-नैरपेक्ष्य-प्रतिपादन-परम् । 
 </details>
 
 <details><summary>English</summary>
@@ -10671,6 +10863,12 @@ Solo **afirma** que **no requiere** ningún otro dharma o rito.
 आगैयाल् ‘‘प्रपत्तेः क्वचिदप्येवं परापेक्षा न विद्यते । सा हि सर्वत्र सर्वेषां सर्वकामफलप्रदा’’(सनत्कुमारसंहिता।) ऎऩ्ऱदुवुम् धर्मान्तरनैरपेक्ष्यञ्जॊऩ्ऩबडि।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि ब्रह्मास्त्रमुम् स्वाङ्गातिरिक्तपरापेक्षाशून्यमागैयाले तत्तुल्यमाऩ प्रपत्तियिऩुडैय प्रभावत्तैच्चॊल्लुगिऱ ‘‘प्रपत्तेः क्वचिदप्येवं परापेक्षा न विद्यते’’ ऎऩ्गिऱ वचनत्तिल् परशब्दत्तै स्वाङ्गातिरिक्तपरमाग सङ्कोचिक्कवेण्डुमॆऩ्गिऱार् आगैयालित्यादिना । धर्मान्तरनैरपेक्ष्यम् - आनुकूल्यसङ्कल्पाद्यङ्गव्यतिरिक्तधर्मनिरपेक्षत्वम्, 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिय् अल्लाद पोदु  
@@ -10678,6 +10876,15 @@ Solo **afirma** que **no requiere** ningún otro dharma o rito.
 इक्-कट्टळैयिले  
 +++(प्रपन्ने)+++ संभावित-स्वभावम् आक्कल् आम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा एतैर् अभ्युपगतं महा-विश्वासम् अपि  
+अनया रीत्या  
++++(प्रपन्ने)+++ संभावित-स्वभावं कर्तुं शक्यम् ॥ 
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10699,6 +10906,10 @@ que **se puede encontrar** (en una prapanna) y no como un aṅga.
 इप्पडियल्लाद पोदु इवर्गळिसैन्द महाविश्वासत्तैयुमिक्कट्टळैयिले संभावितस्वभावमाक्कलाम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+विपक्षत्तिल् अङ्गमाग अवर्गळिसैन्द महाविश्वासमुम् अङ्गमागादॊऴियुमॆऩ्गिऱार् इप्पडियल्लादबोदु इत्यादिना । परशब्दम् विश्वास-साधारणमागैयालॆऩ्ऱु करुत्तु।
+</details>
 
 
 ### विश्वास-महत्त्वम्
@@ -10714,11 +10925,20 @@ WHY SHOULD INTENSE FAITH BE CALLED AN AṅGA INSTEAD OF MERE FAITH ?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्ववकाशत्तिले वेऱे सिलर् 
+इव्व् अवकाशत्तिले वेऱे सिलर् 
 
 > आस्तिकऩुक्कु शास्त्रार्थ-विश्वासम् पिऱक्कुम्  
 अदुक्कु मेऱ्-पड महा-विश्वासम् ऎऩ्ऱ् ऒऩ्ऱ् उण्डो; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन्न् अवकाशेऽन्ये केचित् - 
+
+> आस्तिक(सामान्य)स्य जायमानात् शास्त्रार्थ-विश्वासाद्  
+अधिकः कोऽयं महा-विश्वासो नाम ? 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10743,6 +10963,12 @@ A este respecto, otros ---
 इव्ववकाशत्तिले वेऱे सिलर् आस्तिकऩुक्कु शास्त्रार्थविश्वासम् पिऱक्कुमदुक्कु मेऱ्पड महाविश्वासमॆऩ्ऱॊऩ्ऱुण्डो; 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+महाविश्वासमुम् प्रपत्त्यङ्गमऩ्ऱॆऩ्गिऱ पक्षत्तै उपक्षेपिक्किऱार् इव्ववकाशत्तिले इत्यादिना । इव्ववकाशत्तिले - महाविश्वासप्रस्तावमुळ्ळ इन्द समयत्तिले, 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > आगैयाल् इदुवुम् सर्व-शास्त्रार्थ-साधारणम् आम् अत्तऩै पोक्कि  
@@ -10750,6 +10976,16 @@ A este respecto, otros ---
 
 ऎऩ्ऱु निऩैप्पर्गळ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अतोऽयम् अपि  
+सर्व-शास्त्रार्थ-साधारणत्वातिरेकेण  
+प्रपत्तेर् विशिष्याङ्गं कथं भवितुम् अर्हति 
+
+इति मन्वते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10789,6 +11025,18 @@ y que **es** un AṅGA o accesorio especial de Prapatti.
 इत्यादिगळिले विश्वास-तारतम्यम् प्रसिद्धम् आगैयालुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तद् अपि 
+
+> ‘‘न विश्वसेद् अ-विश्वस्ते  
+विश्वस्ते नातिविश्वसेत्’’ +++(5)+++  
+(भारतम् उद्योग-पर्व ३८-९) 
+
+इत्य्-आदिषु विश्वास तारतम्यस्य प्रसिद्धत्वात्, 
+</details>
+
+
 <details><summary>English</summary>
 
 This contention (or objection) is refuted by the well-known fact that  
@@ -10815,12 +11063,25 @@ Demasiada confianza **no debe ser repuesta** ".
 अदुवुम् ‘‘न विश्वसेदविश्वस्ते विश्वस्ते नातिविश्वसेत्’’(भारतम् उद्योग-पर्व ३८-९) इत्यादिगळिले विश्वासतारतम्यम् प्रसिद्धमागैयालुम् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द पक्षत्तै विकल्पित्तु निरसिक्किऱार् अदुवुमिति । इङ्गु विश्वासतारतम्यत्तिल् प्रमाणमिल्लै यॆऩ्ऱु अभिप्रेतमो? अऩ्ऱिक्के महाविश्वासमॆऩ्बदु उण्डाऩालुम् अदु प्रपत्त्यङ्गमॆऩ्बदिल् प्रमाणमिल्लै यॆऩ्ऱभिप्रेतमो ऎऩ्गिऱ विगल्बम् अभिप्रेतम्। तारतम्यत्तिल् प्रमाणत्तैक्काट्टुगिऱार् न विश्वसेदिति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इव्व्-इडत्तिल् अतिशयित-विश्वासम् अङ्गम्  
 
 ऎऩ्गिऱ वचनत्तालुम् परिहृतम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र 'अतिशयित-विश्वासोऽङ्गम्'  
+इति प्रतिपादयतो वचनाच् च परिहृतम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10840,6 +11101,19 @@ que **prescribe** la fe extra ordinaria como AṅGA o accesorio (con respecto a 
 इव्विडत्तिलतिशयित विश्वासम् अङ्गमॆऩ्गिऱ वचनत्तालुम् परिहृतम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+महाविश्वासम् प्रपत्त्यङ्गमॆऩ्बदु वचनबलसिद्धमॆऩ्गिऱार् अतिशयितविश्वासम् अङ्गमॆऩ्गिऱ वचनत्तालुमिति । 
+
+> ‘‘रक्षिष्यत्य् अनुकूलान् न  
+इति या सुदृढा मतिः’’,  
+
+> ‘‘अनन्य-साध्ये स्वाभीष्टे  
+महाविश्वास-पूर्वकम्’’ 
+
+इत्यादि-वचनङ्गळ् इङ्गु अभिप्रेतङ्गळ्।  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10848,27 +11122,311 @@ que **prescribe** la fe extra ordinaria como AṅGA o accesorio (con respecto a 
 ऎऩ्ऩुम् इडत्तै  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> (एवं) पुरुषविशेषेषु विश्वास-तारतम्यं संभवति
+
+इत्य् एतम् अर्थं 
+</details>
+
+<details><summary>English</summary>
+
+that there are, in different men, varying degrees of faith in the Mūlamantra. 
+</details>
+
+<details><summary>Español</summary>
+
+que **hay**, en diferentes hombres, diversos grados de fe en el Mūlamantra.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इप्पडि पुरुषविशेषङ्गळिले विश्वासतारतम्यमुण्डॆऩ्ऩुमिडत्तै श्रीमदष्टाक्षर ब्रह्मविद्यैयिले
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आश्रयिक्कुम् पुरुषभेदत्ताले विश्वासतारतम्यत्तै अष्टाक्षरब्रह्मविद्यैयिले नारदभगवाऩरुळिच् चॆय्दारॆऩ्गिऱार् इप्पडि पुरुषविशेषङ्गळिले इत्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रीमदष्टाक्षर ब्रह्मविद्यैयिले ५९‘‘यस्य यावांश्च विश्वासस्तस्य सिद्धिश्च तावती । एतावानिति नैतस्य प्रभावः परिमीयते’’(नारदीयगल्बम् १-१४) ऎऩ्ऱु श्री नारदभगवाऩरुळिच्चॆय्दाऩ्। 
+श्रीमद्-अष्टाक्षर-ब्रह्म-विद्यैयिले  
+
+> ५९‘‘यस्य यावांश् च **विश्वासस्**  
+तस्य **सिद्धिश्** च तावती ।  
+एतावान् इति नैतस्य  
+प्रभावः **परिमीयते**॥’’+++(4)+++  
+(नारदीय-कल्पः १-१४) 
+
+ऎऩ्ऱु श्री-नारद-भगवान् अरुळिच् चॆय्दाऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रीमद्-अष्टाक्षर-ब्रह्म-विद्यायाम्, 
+
+> ५९‘‘यस्य यावांश् च **विश्वासस्**  
+तस्य **सिद्धिश्** च तावती ।  
+एतावान् इति नैतस्य  
+प्रभावः **परिमीयते**॥’’+++(4)+++  
+(नारदीय-कल्पः १-१४) 
+
+इति श्री-नारद-भगवान् अनुजग्राह । 
+</details>
+
+<details><summary>विषयः</summary>
+
+विश्वासः, श्रद्धा
+</details>
+
+<details><summary>English</summary>
+
+Bhagavān Nārada has declared in Śrīmad aṣṭākṣara Brahma Vidyā  
+(He says):- 
+
+> "In proportion to the degree of faith that a man has in aṣṭākṣara, will he attain the fruit thereof.  
+It is impossible to measure its greatness." 
+</details>
+
+<details><summary>Español</summary>
+
+Bhagavān Nārada **ha declarado** en Śrīmad aṣṭākṣara Brahma Vidyā  
+(Él **dice**):-
+
+> "En proporción al grado de fe que un hombre **tiene** en Aṣṭākṣara, **alcanzará** el fruto de los mismos.
+**Es imposible medir** su grandeza ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीमदष्टाक्षर ब्रह्मविद्यैयिले ५९‘‘यस्य यावांश्च विश्वासस्तस्य सिद्धिश्च तावती । एतावानिति नैतस्य प्रभावः परिमीयते’’(नारदीय-कल्पः १-१४) ऎऩ्ऱु श्री नारदभगवाऩरुळिच्चॆय्दाऩ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्द-विश्वासर् आऩ प्रपन्नाभासरैयुम्  
+मुडिविले सर्वेश्वरऩ् रक्षिक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मन्दविश्वासान् प्रपन्नाभासान् अप्य् अन्ते सर्वेश्वरो रक्षति । 
+</details>
+
+
+<details><summary>English</summary>
+
+The Supreme Ruler of all will ultimately protect even those prapannas who are far from perfect  
+and whose faith is not strong enough. 
+</details>
+
+<details><summary>Español</summary>
+
+El gobernante supremo de todos, en última instancia, **protegerá** incluso aquellos que **están** lejos de ser perfectos  
+y cuya fe **no es** lo suficientemente fuerte.
 </details>
 
 <details><summary>मूलम्</summary>
 
-श्रीमदष्टाक्षर ब्रह्मविद्यैयिले ५९‘‘यस्य यावांश्च विश्वासस्तस्य सिद्धिश्च तावती । एतावानिति नैतस्य प्रभावः परिमीयते’’(नारदीयगल्बम् १-१४) ऎऩ्ऱु श्री नारदभगवाऩरुळिच्चॆय्दाऩ्। 
+मन्दविश्वासराऩ प्रपन्नाभासरैयुम् मुडिविले सर्वेश्वरऩ् रक्षिक्कुम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आऩाल् मन्दविश्वासर्गळुक्कु प्रपत्ति सफलमागादोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् मन्दविश्वासराऩ प्रपन्नाभासरैयुम् मुडिविले सर्वेश्वरऩ् रक्षिक्कुमिति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्; 
+
+> ‘‘सकृदुच्चरितं येन  
+हरिर् इत्य् अक्षर-द्वयम् ।  
+**बद्धः** परिकरस् तेन  
+मोक्षाय **गमनं** प्रति॥’’  
+(विष्णुधर्मः ७०-८४) 
+
+इत्य्-आदिगळिलुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कथमिति चेत् — 
+
+> ‘‘सकृदुच्चरितं येन  
+हरिर् इत्य् अक्षर-द्वयम् ।  
+**बद्धः** परिकरस् तेन  
+मोक्षाय **गमनं** प्रति॥’’  
+(विष्णुधर्मः ७०-८४) 
+
+इत्य्-आदिषु
+</details>
+
+<details><summary>विषयः</summary>
+
+नाम-जपः, जपः, हरिः
+</details>
+
+
+<details><summary>English</summary>
+
+If authority is asked for this statement, here it is :--
+
+> "By the man who has once uttered the two syllables 'Harih' -  
+by him steps have been taken for entering mokṣa". 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se solicita** autoridad para esta declaración, aquí **está**:-
+
+> "Por el hombre que una vez **ha pronunciado** las dos sílabas 'Harih' -  
+Por él **se han tomado** pasos para **ingresar** a Mokṣa ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; ‘‘सकृदुच्चरितं येन हरिरित्यक्षरद्वयम् । बद्धः परिकरस्तेन मोक्षाय गमनं प्रति॥’’(विष्णुधर्मः ७०-८४) इत्यादिगळिलुम् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदै सप्रमाणमाग उपपादिक्किऱार् ऎङ्ङऩे यॆऩ्ऩिलिति । बद्धः परिकरस्तेन मोक्षाय गमनं प्रतीति । इदिल् हरिशब्दोच्चारणत्तै परिकरमागच् चॊल्लुगैयाल् इदु पूर्णप्रपत्तिद्वारा मोक्षजनकमॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱैय् अडिय् ऒत्तिऩ 
+
+> ‘‘त्वद्-अङ्घ्रिम् उद्दिश्य’’  
+(आळवन्दार् स्तोत्रम् २८) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद्-अनुसारिषु 
+
+> ‘‘त्वद्-अङ्घ्रिम् उद्दिश्य’’  
+(आळवन्दार् स्तोत्रम् २८) 
+</details>
+
+
+<details><summary>English</summary>
+
+In accordance with this,  
+Aḷavandār has conveyed the same idea in the śloka :-- 
+
+> "Whoever folds his hands in worship to Thee in any manner and at any time -  
+his sins vanish at once.  
+It generates all good things.  
+It never fails to bear fruit," 
+</details>
+
+<details><summary>Español</summary>
+
+De acuerdo con esto,
+Aḷavandār **ha transmitido** la misma idea en Śloka:-
+
+> "Quien se dobla las manos en la **adoración** de cualquier manera y en cualquier momento -  
+Sus pecados **desaparecen** de inmediato.  
+**Genera** todas las cosas buenas.
+**Nunca deja** de **dar** fruto ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱैयडियॊत्तिऩ ‘‘त्वदङ्घ्रिमुद्दिश्य’’ (आळवन्दार् स्तोत्रम् २८) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘उदीर्ण-संसार’’   
+(आळवन्दार् स्तोत्रम् २९) 
+
+ऎऩ्गिऱ श्लोकङ्गळिलुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२२२]]
+
+> ‘‘उदीर्ण-संसार’’   
+(आळवन्दार् स्तोत्रम् २९) 
+
+इति श्लोकयोः, 
+</details>
+
+
+<details><summary>English</summary>
+
+and so also, 
+
+> “A single drop of the ocean of nectar called bhakti towards the two lotuses of Thy feet  
+will extinguish instantly the spreading wildfire called saṁsāra  
+and confer superior happiness".+++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+and so also, 
+
+> “Una sola gota del océano de néctar llamado Bhakti hacia los dos lotos de tus pies
+se extinguirá instantáneamente el incendio forestal llamado saṁsāra
+y conferir felicidad superior ".+++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘उदीर्णसंसार’’ (आळवन्दार् स्तोत्रम् २९) ऎऩ्गिऱ श्लोकङ्गळिलुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’मॊय्त्त+++(=निभिड)+++ वल्+++(=बल)+++-विऩैयुळ्+++(=कर्ममध्ये)+++ निऩ्ऱु’’  
+(तिरुमालै ४) 
+
+इत्य्-आदिगळिलुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> " निबिड-दृढ-पापान्तः स्थित्वा " इत्य्-आदि(दिव्य-सूक्ति)ष्व् अपि 
 </details>
 
 
 
+<details><summary>English</summary>
+
+> By uttering the three syllables "Govinda",  
+Kshatrabandu, who stood surrounded by his past karmas swarming (like ants ), attained the highest state." 
+</details>
+
+<details><summary>Español</summary>
+
+> Al **pronunciar** las tres sílabas "Govinda",  
+Kshatrabandu, que **estaba rodeado** por sus karmas pasados **​​enjambre** (como hormigas), **alcanzó** el estado más alto ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’मॊय्त्त वल्विऩैयुळ् निऩ्ऱु’’(तिरुमालै ४) इत्यादिगळिलुम्
+</details>
 
 
 
-Bhagavān Nārada  has declared in Śrīmad aṣṭākṣara Brahma Vidyā that there are, in different men, varying degrees of faith in the Mūlamantra. (He says):- "In proportion to the degree of faith that a man has in aṣṭākṣara, will he attain the fruit thereof. It is impossible to measure its greatness." The Supreme Ruler of all will ultimately protect even those prapannas who are far from perfect and whose faith is not strong enough. If authority is asked for this statement, here it is :--"By the man who has once uttered the two syllables 'Harih' - by him steps have been taken for entering mokṣa". In accordance with this, Aḷavandār has conveyed the same idea in the śloka :-- "Whoever' folds his hands in worship to Thee in any manner and at any time - his sins vanish at once. It generates all good things. It never fails to bear fruit," and so also, “A single" drop of the ocean of nectar called bhakti towards the two lotuses of Thy feet will extinguish instantly the spreading wildfire called saṁsāra and confer superior happiness". By uttering the three syllables "Govinda", Kshatrabandu, who stood surrounded by his past karmas swarming (like ants ), attained the highest state." As implied in these passages, Iśvara will promote the perfection of the upāya And protect the man. Has not this idea been conveyed by Śrī Śāṇḍilya Bhagavān to Devala in the following śloka :- "Many of your previous births ended in vain. Consider how this life, too, may end in vain and perform prapatti? Froin the śloka :-"The divine seers say that Thou art to be sought as the Saviour and that 'Thou protectest those who have sought Thy protection." -- (from this śloka) it should be understood that intense faith can be found (only) in the divine seers and not in ordinary men) and that, by the authority of what is said by the divine seers, those whose faith is not strong should strengthen it. Therefore since there are varying degrees of faith, what is stated in the śāstra about intense faith being an aṅga of prapatti cannot be objected to.
+ 
+
+As implied in these passages, Iśvara will promote the perfection of the upāya And protect the man. Has not this idea been conveyed by Śrī Śāṇḍilya Bhagavān to Devala in the following śloka :- "Many of your previous births ended in vain. Consider how this life, too, may end in vain and perform prapatti? Froin the śloka :-"The divine seers say that Thou art to be sought as the Saviour and that 'Thou protectest those who have sought Thy protection." -- (from this śloka) it should be understood that intense faith can be found (only) in the divine seers and not in ordinary men) and that, by the authority of what is said by the divine seers, those whose faith is not strong should strengthen it. Therefore since there are varying degrees of faith, what is stated in the śāstra about intense faith being an aṅga of prapatti cannot be objected to.
 
 CAUSES OF THE DECAY OF FAITH AND THE REMEDY THEREFOR
 
