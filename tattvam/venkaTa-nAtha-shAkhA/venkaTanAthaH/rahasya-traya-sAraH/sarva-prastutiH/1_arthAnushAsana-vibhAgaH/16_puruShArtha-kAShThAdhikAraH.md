@@ -2440,9 +2440,9 @@ the answer is, that it is both natural and adventitious.
 
 <details><summary>Español</summary>
 
-Si se pregunta si esta relación de ser Śeṣa a Bhagavatās  
-se debe a la naturaleza de uno o si es adventicio (debido a upādhi),  
-la respuesta es que es natural y adventicio.
+Si **se pregunta** si esta relación de ser Śeṣa a Bhagavatās  
+se debe a la naturaleza de uno o si **es** adventicio (debido a upādhi),  
+la **respuesta es** que **es** natural y adventicio.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2488,13 +2488,13 @@ even after release from bondage).
 
 <details><summary>Español</summary>
 
-(No dice Koorattalvan):-
+(**No dice** Koorattalvan):-
 
-> "¿Cuándo me uniré al Eternal Suris?  
-> que siempre están ansiosos por ser Śeṣas el uno al otro "
+> "¿Cuándo me **uniré** al Eternal Suris?  
+> que siempre **están** ansiosos por **ser** Śeṣas el uno al otro "
 
-(Esta relación de un Śeṣa continuará  
-incluso después de la liberación de la esclavitud).
+(Esta relación de un Śeṣa **continuará**  
+incluso después de la **liberación** de la esclavitud).
 </details>
 
 
@@ -2532,8 +2532,8 @@ it may be called natural.
 <details><summary>Español</summary>
 
 En la medida en que dure mientras dure el yo  
-y continuará también en el estado de Mokṣa,  
-puede llamarse natural.
+y **continuará** también en el estado de Mokṣa,  
+**puede llamarse** natural.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2567,8 +2567,8 @@ as it arises from a knowledge of one's relationship to Bhagavān.
 
 <details><summary>Español</summary>
 
-Se puede decir que es adventicio también (debido a upādhi o condiciones),
-como surge del conocimiento de la relación de uno con Bhagavān.
+**Se puede decir** que **es** adventicio también (debido a upādhi o condiciones),  
+como **surge** del **conocimiento** de la relación de uno con Bhagavān.
 </details>
 
 
@@ -2626,11 +2626,11 @@ If so, it may be asked,
 
 <details><summary>Español</summary>
 
-Si es así, se puede preguntar,
+Si **es** así, **se puede preguntar**,
 
-> "Si ambos son bhāgavatas,  
-> ¿No sería inconsistente  
-> Que deberían ser Śeṣa y śeshī el uno al otro? "
+> "Si ambos **son** bhāgavatas,  
+> ¿**No sería** inconsistente  
+> Que deberían **ser** Śeṣa y śeshī el uno al otro? "
 </details>
 
 
@@ -2673,10 +2673,10 @@ and also to receive help from him.
 
 <details><summary>Español</summary>
 
-La respuesta es la siguiente:-  
-No hay nada inconsistente en esto,  
-ya que es posible que la misma persona brinde ayuda a otra  
-y también para recibir ayuda de él.
+La **respuesta es** la siguiente:-  
+**No hay** nada inconsistente en esto,  
+ya que **es** posible que la misma persona **brinde** ayuda a otra  
+y también para **recibir** ayuda de él.
 </details>
 
 
@@ -2702,7 +2702,7 @@ y también para recibir ayuda de él.
 <details><summary>नीलमेघः (सं)</summary>
 
 अधिकार्य्-अवस्थायां क्रियायाः स्वयं **शेषि-भूत** एव पुरुषः  
-कर्त्र्-अवस्थायां क्रियायाः **शेष-भूतो** ऽवतिष्ठते ।  
+कर्त्र्-अवस्थायां क्रियायाः **शेष-भूतो** ऽवतिष्ठते । +++(5)+++  
 </details>
 
 
@@ -2717,10 +2717,10 @@ he is śeṣa in relation to the sacrifice.
 
 <details><summary>Español</summary>
 
-(En el rendimiento de un sacrificio),  
-El sacrificador que lo realiza por alguna ganancia o beneficio (Phala) es el Śeṣī  
-pero cuando se lo considera el hacedor del sacrificio,  
-Él es Śeṣa en relación con el sacrificio.
+(En el **rendimiento** de un **sacrificio**),  
+El **sacrificador** que lo **realiza** por alguna ganancia o beneficio (Phala) es el Śeṣī  
+pero cuando se lo **considera** el **hacedor** del **sacrificio**,  
+Él **es** Śeṣa en relación con el **sacrificio**.
 </details>
 
 
@@ -2767,11 +2767,11 @@ though they themselves may not desire it.
 <details><summary>Español</summary>
 
 Entonces, también cuando cada una de las dos bhāgavatas  
-se empeñe en promover la gloria (atisaya) del otro,
-sin ninguno de ellos esperando esa gloria,  
-Se convierten en Śeṣas por ser la causa de la promoción de la gloria del otro;  
-También son Śeṣīs en la medida en que son los destinatarios de la gloria (atisaya),  
-aunque ellos mismos no lo deseen.
+**se empeñe** en **promover** la gloria (atisaya) del otro,  
+**sin** ninguno de ellos **esperando** esa gloria,  
+**Se convierten** en Śeṣas por ser la causa de la promoción de la gloria del otro;  
+También **son** Śeṣīs en la medida en que **son** los **destinatarios** de la gloria (atisaya),  
+aunque ellos mismos **no lo deseen**.
 </details>
 
 
@@ -2815,8 +2815,8 @@ the relationship of being śeṣa to Bhāgavatas is, in the case of both, based 
 
 <details><summary>Español</summary>
 
-Ya que han sido dirigidos por la voluntad de Iśvara de promover la gloria del otro,  
-La relación de ser Śeṣa con Bhāgavatas es, en el caso de ambos, basada en la autoridad Śāstraica.
+Ya que **han sido dirigidos** por la voluntad de Iśvara de **promover** la gloria del otro,  
+La relación de **ser** Śeṣa con Bhāgavatas **es**, en el caso de ambos, **basada** en la autoridad Śāstraica.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2860,10 +2860,10 @@ and promotes one's own exaltation.
 
 <details><summary>Español</summary>
 
-La relación de ser un sirviente (Dása) con Bhagavān y Bhāgavatas  
-debido a una apreciación de sus cualidades o carácter  
-se suma a la delicia o disfrute  
-y promueve la propia exaltación.
+La relación de **ser** un sirviente (Dása) con Bhagavān y Bhāgavatas  
+debido a una **apreciación** de sus cualidades o carácter  
+**se suma** a la delicia o disfrute  
+y **promueve** la propia **exaltación**.
 </details>
 
 
@@ -2905,8 +2905,8 @@ enables all Bhāgavatas to become śeṣī-s.
 
 <details><summary>Español</summary>
 
-En esto, iśvara, por su omnipotencia y su voluntad que lo acompaña,  
-Permite que todos los bhāgavatas se conviertan en Śeṣī-s.
+En esto, iśvara, por su omnipotencia y su voluntad que lo **acompaña**,  
+**Permite** que todos los bhāgavatas **se conviertan** en Śeṣī-s.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2942,8 +2942,8 @@ Iśvara makes them śeṣas to Bhāgavatas.
 
 <details><summary>Español</summary>
 
-Tomando su deseo también junto con su propia voluntad,  
-Iśvara los hace Śeṣas a Bhāgavatas.
+**Tomando** su deseo también junto con su propia voluntad,  
+Iśvara los **hace** Śeṣas a Bhāgavatas.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2957,7 +2957,7 @@ Iśvara los hace Śeṣas a Bhāgavatas.
 </details>
 
 
-
+### प्रयोजनानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि स्वामिक्क् इष्ट-**विनियोगार्हर् आय्क्** कॊण्डु  
@@ -2980,10 +2980,10 @@ both of them attain their true and essential nature (svarūpa).
 
 <details><summary>Español</summary>
 
-Dado que ambos Bhāgavatas están en la relación de Śeṣī-s entre sí  
-como en apto para ser dirigido por el maestro  
-para hacer su voluntad,  
-Ambos alcanzan su naturaleza verdadera y esencial (svarūpa).
+Dado que ambos Bhāgavatas **están** en la relación de Śeṣī-s entre sí  
+como en apto para **ser dirigido** por el maestro  
+para **hacer** su voluntad,  
+Ambos **alcanzan** su naturaleza verdadera y esencial (svarūpa).
 </details>
 
 
@@ -3029,11 +3029,11 @@ which follows from it.
 
 <details><summary>Español</summary>
 
-Alcanzan el límite final de su puruṣārtha o objetivo de la vida,  
-ya que alcanzan la relación de ser Śeṣas,  
-que están ansiosos por tener  
-y también el privilegio de prestar servicio al Bhāgavata  
-que se le sigue de él.
+**Alcanzan** el límite final de su puruṣārtha o objetivo de la vida,  
+ya que **alcanzan** la relación de **ser** Śeṣas,  
+que **están** ansiosos por **tener**  
+y también el privilegio de **prestar servicio** al Bhāgavata  
+que **se le sigue** de él.
 </details>
 
 
@@ -3071,9 +3071,9 @@ and of being an enjoyer.
 
 <details><summary>Español</summary>
 
-Ya que Iśvara se deleita en haberles dirigido a convertirse en Śeṣas y Śeshīs el uno al otro,  
-Iśvara alcanza el estado de ser un iśvara o regla  
-y de ser un disfrute.
+Ya que Iśvara **se deleita** en **haberles dirigido** a **convertirse** en Śeṣas y Śeshīs el uno al otro,  
+Iśvara **alcanza** el estado de **ser** un iśvara o **regla**  
+y de **ser** un disfrute.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3116,10 +3116,10 @@ they attain the faultless and ultimate limit of puruṣārtha.
 
 <details><summary>Español</summary>
 
-Ya que se dan cuenta claramente  
-de que esta relación de ser Śeṣas y Śeṣīs  
-contribuye al disfrute (bhoga) de Iśvara,  
-alcanzan el límite impecable y supremo de Puruṣārtha.
+Ya que **se dan cuenta** claramente  
+de que esta relación de **ser** Śeṣas y Śeṣīs  
+**contribuye** al **disfrute** (bhoga) de Iśvara,  
+**alcanzan** el límite impecable y supremo de Puruṣārtha.
 </details>
 
 
