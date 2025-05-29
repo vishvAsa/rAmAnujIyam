@@ -11346,6 +11346,13 @@ Sus pecados **desaparecen** de inmediato.
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इवऱ्ऱैयडियॊत्तिऩ इत्यादि । एतत्समानतात्पर्यकङ्गळाऩ ऎऩ्ऱबडि। एतन्मूलकङ्गळाऩ ऎऩ्ऩवुमाम्। अभिप्रेतमाऩबडिये इति । 
+
+‘‘त्वदङ्घ्रिमुद्दिश्य’’ ऎऩ्गिऱ श्लोकत्तिल् अञ्जलिक्कुम्, </details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘उदीर्ण-संसार’’   
@@ -11378,9 +11385,9 @@ and confer superior happiness".+++(5)+++
 
 and so also, 
 
-> “Una sola gota del océano de néctar llamado Bhakti hacia los dos lotos de tus pies
-se extinguirá instantáneamente el incendio forestal llamado saṁsāra
-y conferir felicidad superior ".+++(5)+++
+> “Una sola gota del océano de néctar **llamado** Bhakti hacia los dos lotos de tus pies
+**se extinguirá** instantáneamente el **incendio** forestal **llamado** saṁsāra  
+y **conferir** felicidad superior ".+++(5)+++
 </details>
 
 
@@ -11388,6 +11395,12 @@ y conferir felicidad superior ".+++(5)+++
 
 ‘‘उदीर्णसंसार’’ (आळवन्दार् स्तोत्रम् २९) ऎऩ्गिऱ श्लोकङ्गळिलुम्
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘उदीर्णसंसार’’ ऎऩ्गिऱ श्लोकत्तिल् अनुरागत्तिऱ्कुम्, 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11399,7 +11412,9 @@ y conferir felicidad superior ".+++(5)+++
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> " निबिड-दृढ-पापान्तः स्थित्वा " इत्य्-आदि(दिव्य-सूक्ति)ष्व् अपि 
+> " निबिड-दृढ-पापान्तः स्थित्वा " 
+
+इत्य्-आदि(दिव्य-सूक्ति)ष्व् अपि 
 </details>
 
 
@@ -11422,15 +11437,390 @@ Kshatrabandu, que **estaba rodeado** por sus karmas pasados **​​enjambre** (
 ’’मॊय्त्त वल्विऩैयुळ् निऩ्ऱु’’(तिरुमालै ४) इत्यादिगळिलुम्
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+’’मॊय्त्त वल्विऩै’’ ऎऩ्गिऱ पाट्टिल् गोविन्दनामसङ्कीर्तनत्तिऱ्कुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अभिप्रेतम् आऩ बडिये  
+इवऩ् फल-सिद्धिक्कुक् कोलिऩ कालत्तुक्क् उळ्ळे  
+उपाय-पूर्तियैय् उण्डाक्कि रक्षिक्कुम् ऎऩ्ऩुम् इडत्तै निऩैत्तु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अभिप्रेत-रीत्या  
+अनेन फल-सिद्ध्य्-अर्थम् उद्दिष्टात् कालाद् अर्वाग् एव  
+उपाय पूर्तिम् उत्पाद्य रक्षतीत्य् एतम् अर्थम् अभिसन्धाय, 
+</details>
 
 
- 
+<details><summary>English</summary>
 
-As implied in these passages, Iśvara will promote the perfection of the upāya And protect the man. Has not this idea been conveyed by Śrī Śāṇḍilya Bhagavān to Devala in the following śloka :- "Many of your previous births ended in vain. Consider how this life, too, may end in vain and perform prapatti? Froin the śloka :-"The divine seers say that Thou art to be sought as the Saviour and that 'Thou protectest those who have sought Thy protection." -- (from this śloka) it should be understood that intense faith can be found (only) in the divine seers and not in ordinary men) and that, by the authority of what is said by the divine seers, those whose faith is not strong should strengthen it. Therefore since there are varying degrees of faith, what is stated in the śāstra about intense faith being an aṅga of prapatti cannot be objected to.
+As implied in these passages,  
+Iśvara will promote the perfection of the upāya  
+and protect the man. 
+</details>
+
+<details><summary>Español</summary>
+
+Como **implica** en estos pasajes,  
+Iśvara **promoverá** la **perfección** de la upāya  
+y **proteger** al hombre.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अभिप्रेतमाऩबडिये इवऩ् फलसिद्धिक्कुक्कोलिऩ कालत्तुक्कुळ्ळे उपायपूर्तियैयुण्डाक्कि रक्षिक्कुमॆऩ्ऩुमिडत्तै निऩैत्तु 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+साक्षान्मोक्षजनकत्वम् प्रतीतमाऩालुम् ज्ञानान्मोक्षत्तैच्चॊल्लुगिऱ प्रमाणाविरोधेन पूर्ण प्रपत्तिद्वारा मोक्षजनकत्वमे अभिप्रेतमाऩाऱ्पोले ऎऩ्ऱबडि। इवऩ् - मन्दविश्वासमुळ्ळवऩ्, कोलिऩ कालत्तुक्कुळ्ळे - मन्दविश्वासत्तोडु अनुष्ठित्त प्रपत्तियिऩ् सङ्कल्पत्तिले प्रार्थितकालत्तुक्कुळ्ळे, उपायपूर्तियै युण्डाक्कि - महाविश्वासगर्भमाऩ पूर्णप्रपत्तियै युण्डाक्कि, रक्षिक्कुमॆऩ्ऩुमिडत्तै निऩैत्तु - मन्दविश्वासरैयुम् रक्षिक्कुमॆऩ्ऩुमिडत्तै मऩस्सिल् निश्चयित्तुक्कॊण्डु, 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘वृथैव भवतो याता  
+भूयसी जन्म-सन्ततिः ।  
+तस्याम् अन्यतमं जन्म  
+**सञ्चिन्त्य शरणं व्रज**॥’’  
+(शाण्डिल्यस्मृति) 
+
+ऎऩ्ऱु देवलऩैक् कुऱित्तु  
+श्री-शाण्डिल्यभगवाऩ् अरुळिच् चॆय्दाऩ् इऱे। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘वृथैव भवतो याता  
+भूयसी जन्म-सन्ततिः ।  
+तस्याम् अन्यतमं जन्म  
+**सञ्चिन्त्य शरणं व्रज**॥’’  
+(शाण्डिल्यस्मृति) 
+
+इति देवलं प्रति  
+श्री-शाण्डिल्य-भगवान् अनुजग्राह किल । 
+</details>
+
+<details><summary>English</summary>
+
+Has not this idea been conveyed by Śrī Śāṇḍilya Bhagavān to Devala in the following śloka :- 
+
+> "Many of your previous births ended in vain.  
+Consider how this life, too, may end in vain  
+and perform prapatti? "
+
+</details>
+
+<details><summary>Español</summary>
+
+**¿No ha sido transmitida** esta idea por Śrī Śāṇḍilya Bhagavān a Devala en el siguiente Śloka:--
+
+> "Muchos de sus **nacimientos** anteriores **terminaron** en vano.  
+**Considere** cómo esta **vida** también **puede terminar** en vano  
+¿Y **realizar** Prapatti?"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘वृथैव भवतो याता भूयसी जन्मसन्ततिः ।  
+तस्यामन्यतमं जन्म सञ्चिन्त्य शरणं व्रज॥’’(शाण्डिल्यस्मृति) ऎऩ्ऱु देवलऩैक्कुऱित्तु श्री शाण्डिल्यभगवाऩरुळिच्चॆय्दाऩिऱे। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+वृथैवेत्यादि । इदु देवलऩैक्कुऱित्तु शाण्डिल्यवाक्यम्। ओ! देवलऩे! उऩक्कु अनेकजन्मसन्तति मोक्षमिऩ्ऱिक्के वृथावागप्पोय्विट्टदु। वृथावागप्पोऩ जन्मसन्ततिमध्यत्तिल् इप्पोदुळ्ळ जन्मत्तैयुम् ऒरु जन्ममाग ऎण्णि विश्वासमान्द्यमिरुन्दालुम् शरणागतियैच् चॆय् ऎऩ्बदु इदिऩर्थम्। इदऩाल् मन्दविश्वासत्तोडेयागिलुम् इवऩुबायत्तै अनुष्ठित्ताल् अदु महाविश्वासगर्भमाऩ पूर्णप्रपत्तियै युण्डाक्कि रक्षित्तु विडुमॆऩ्बदे शाण्डिल्यरुडैय अभिप्रायमे तविर मन्दविश्वासत्तोडु प्रपत्त्यनुष्ठानम् पण्णाल् इन्द जन्मम् वृथावागप्पोम् ऎऩ्बदिल् अभिप्रायमिल्लैयॆऩ्ऱु ज्ञापिक्कप्पडुगिऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘शरण्यं शरणञ् च त्वाम्  
+**आहुर्** दिव्या महर्षयः’’  
+(रामायणम् युद्ध-काण्डम् १२०-१८) 
+
+ऎऩ्ऱदुवुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘शरण्यं शरणञ् च त्वाम्  
+**आहुर्** दिव्या महर्षयः’’  
+(रामायणम् युद्ध-काण्डम् १२०-१८) 
+
+इति वचनमपि - 
+</details>
+
+<details><summary>English</summary>
+
+From the śloka :-
+
+> "The divine seers say that  
+Thou art to be sought as the Saviour  
+and that Thou protectest those who have sought Thy protection."  
+</details>
+
+<details><summary>Español</summary>
+
+Del Śloka:-
+
+> "Los **videntes** divinos **dicen** que  
+**Eres** para **ser buscado** como el **Salvador**  
+y que **protejas** a los que **han buscado** tu **protección** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘शरण्यं शरणञ्च त्वामाहुर्दिव्या महर्षयः’’(रामायणम् युद्ध-काण्डम् १२०-१८) ऎऩ्ऱदुवुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> महर्षिगळुक्के विश्वासङ् गूडुवदु,  
+इवर्गळ् वाक्यत्तैय् इट्टु  
+मन्द-विश्वासरैत् तॆळि विक्क वेणुम्  
+
+ऎऩ्ऱ बडि। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> महर्षीणाम् एव विश्वासः संभवति,  
+एषां वाक्यानि प्रयुज्य ( प्रदर्श्य)  
+मन्दविश्वासाः प्रतिबोधनीया 
+
+इत्य्-एवम्-परम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+\-- (from this śloka) it should be understood that  
+
+> intense faith can be found (only) in the divine seers (and not in ordinary men)  
+and that, by the authority of what is said by the divine seers,  
+those whose faith is not strong should strengthen it. 
+</details>
+
+<details><summary>Español</summary>
+
+\- (de este Śloka) **debe entenderse** que  
+
+> **Se puede encontrar** una fe intensa (solo) en los **videntes** divinos (y no en hombres comunes)  
+y eso, por la autoridad de lo que los **videntes** divinos,  
+Aquellos cuya fe **no es** fuerte **deberían fortalecerla**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+महर्षिकळुक्के विश्वासङ्गूडुवदु इवर्गळ् वाक्यत्तैयिट्टु मन्दविश्वासरैत्तॆळिविक्कवेणुमॆऩ्ऱबडि। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि महाविश्वासम् प्रपत्तिक्कु अङ्गमाग सिद्धित्तालुम् ऎल्लोरुक्कुम् तादृशविश्वासपूर्वकप्रपत्ति सिद्धिक्कुमो?  
+
+> ‘‘शरण्यं शरणञ्च त्वाम्  
+आहुर् दिव्या महर्षयः’’ 
+
+ऎऩ्गिऱ वचनत्तिल्  
+दिव्यर् आऩ महर्षिकळे  
+भगवाऩै शरणम् आगच् चॊल्लुगिऱार्गळ्  
+अदावदु उपायम् आगच् चॊल्लुगिऱार्गळ्  
+ऎऩ्ऱ् इरुप्पदालुम्  
+
+इन्द उपायत्वोक्ति 
+
+> ‘‘यद्धि मनसा ध्यायति  
+तद् वाचा वदति’’ 
+
+ऎऩ्गिऱ बडि मानसिक-ज्ञान-पूर्वकम् आगवे उण्ड्-आग-वेण्डुम् आगैयालुम् +++(5)+++  
+दिव्य-महर्षिगळुक्कुमात्रम् अऩ्ऱो महाविश्वासम् सिद्धिप्पदु;  
+प्रपन्न-सामान्यत्तिऱ्कु अदु कूडादे ऎऩ्गिऱ शङ्गैयिल् अन्द वचनत्तिऩ् तात्पर्यत्तै यरुळिच्चॆय्गिऱार् शरण्यं शरणञ्च त्वामाहुर्दिव्या महर्षयः ऎऩ्ऱदुवुमित्यादिना । महर्षिकळुक्के विश्वासङ्गूडुवदु इति । वचनत्तिल् ‘‘महर्षयः’’ ऎऩ्बदु सावधारणम् ऎऩ्ऱु तिरुवुळ्ळम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि विश्वास-तारतम्यम् उण्डागैयाल्  
+यथा-शास्त्रं महा-विश्वासम् प्रपत्त्य्-अङ्गम् आगक्  
+कुऱैय् इल्लै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं विश्वास-तारतम्यस्य सत्त्वात्  
+यथा-शास्त्रं महा-विश्वासस्य प्रपत्त्य्-अङ्गत्वे न दोषः । 
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore since there are varying degrees of faith,  
+what is stated in the śāstra about intense faith being an aṅga of prapatti  
+cannot be objected to.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, dado que **hay** diversos grados de fe,  
+Lo que **se dice** en el Śāstra sobre la fe intensa que es un aṅga de Prapatti  
+**no se puede objetar**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि विश्वास तारतम्यमुण्डागैयाल् यथाशास्त्रं महाविश्वासम् प्रपत्त्यङ्गमागक्कुऱैयिल्लै। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आऩाल् इतरर्गळुक्कु तत्-सिद्धि-कूडुवद् ऎङ्ङऩेय् ऎऩ्ऩ? तत्सिद्ध्युपायत्तैयरुळिच्चॆय्गिऱार् इवर्गळ् वाक्यत् तैयिट्टु मन्दविश्वासरैत् तॆळिविक्कवेणुमॆऩ्ऱबडि इति । महाविश्वासाङ्गत्वत्तै निगमिक्किऱार् इप्पडि विश्वासतारतम्यमुण्डागैयालित्यादिना ।  
+</details>
+
+
+### विश्वास-ह्रास-परिहारः
+
+<details><summary>English</summary>
 
 CAUSES OF THE DECAY OF FAITH AND THE REMEDY THEREFOR
+</details>
 
-We will now show how some people suffer from diminution of faith and state how this tendency can be corrected. Some may ask: - "How could bhakti and prapatti lead to such opposite results as worldly prosperity and mokṣa  merely because of the difference in the mental attitude (of those who adopt them)? Have we ever seen the same seed yielding two different fruits owing to the diversity of intentions in the (mind of the) sower? The answer to this question is as follows:- "The śāstra which is the (sole) authority in regard to matters pertaining to it in the same way as sense perception (pratyakṣa) is in regard to what pertains to it -- the śāstra can certainly declare it to be so and reason has no right to attempt to disprove it. In worldly life, if we give an object to a charitable and generous king as an article for sale, we shall obtain a liberal return; but if it is given (without any thought of such return) merely as an offering or tribute, we see it produce whatever is desired (by the person).
+<details><summary>Español</summary>
+
+Causas de la **descomposición** de la fe  
+y el **remedio** para ello
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिलर्क्क् इवऱ्ऱिल् विश्वासङ् गुलैयुम् बडियुम्  
+अदुक्कु परिहारमुञ् जॊल्लुगिऱोम्। 
+</details>
+
+<details><summary>English</summary>
+
+We will now show how some people suffer from diminution of faith  
+and state how this tendency can be corrected. 
+</details>
+
+<details><summary>Español</summary>
+
+Ahora **mostraremos** cómo algunas personas **sufren** de **disminución** de la fe  
+y **indique** cómo **se puede corregir** esta tendencia.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिलर्क्किवऱ्ऱिल् विश्वासङ्गुलैयुम्बडियुम् अदुक्कु परिहारमुञ्जॊल्लुगिऱोम्। 
+</details>
+
+#### विपरीत-फल-दत्वम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> भक्ति-प्रपत्तिगळ्, बुद्धि-भेदत्ताले, ऐश्वर्य-मोक्षङ्गळ् आगिऱ विरुद्ध-फलङ्गळैक् कॊडुक्क गूडुमो; 
+</details>
+
+<details><summary>English</summary>
+
+> "How could bhakti and prapatti lead to such opposite results as worldly prosperity and mokṣa  
+merely because of the difference in the mental attitude (of those who adopt them)? 
+</details>
+
+<details><summary>Español</summary>
+
+> "¿Cómo **podrían** Bhakti y Prapatti **conducir** a resultados tan opuestos como la prosperidad mundana y Mokṣa  
+Simplemente por la diferencia en la actitud mental (de aquellos que los **adoptan**)?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भक्तिप्रपत्तिकळ् बुद्धिभेदत्ताले ऐश्वर्यमोक्षङ्गळागिऱ विरुद्धफलङ् गळैक्कॊडुक्कगूडुमो; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विरैक्किऱवऩुडै+++(=वपकस्य)+++ अभिसन्धिभेदत्ताले  
+ऒरु विरै वेऱ् ऒरु फलत्तैक् कॊडुक्कक् कण्डोमोव् +++(5)+++
+
+ऎऩ्ऱु सिलर् पार्प्पर्गळ्,
+</details>
+
+<details><summary>English</summary>
+
+> Have we ever seen the same seed yielding two different fruits  
+owing to the diversity of intentions in the (mind of the) sower? 
+
+Some may ask (the above).
+</details>
+
+<details><summary>Español</summary>
+
+> ¿Alguna vez **hemos visto** la misma semilla **produciendo** dos frutas diferentes  
+Debido a la diversidad de intenciones en la (mente del) **sembrador**?
+
+Algunos pueden preguntar (lo anterior).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विरैक्किऱवऩुडै अभिसन्धिभेदत्ताले ऒरु विरै वेऱॊरु फलत्तैक् कॊडुक्कक् कण्डोमोवॆऩ्ऱु सिलर् पार्प्पर्गळ्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कुप् परिहारम्;  
+न्यायङ्गळाले बाधिक्क वॊण्णाद पडि  
+प्रत्यक्षादिगळैप् पोले स्व-विषयत्तिल् प्रमाणम् आऩ  
+शास्त्रङ् गाट्टुगैयाल्  
+इप्-पडिक् कूडुम्। 
+</details>
+
+<details><summary>English</summary>
+
+The answer to this question is as follows:-  
+
+> "The śāstra, which is the (sole) authority in regard to matters pertaining to it in the same way as sense perception (pratyakṣa) is in regard to what pertains to it --  
+the śāstra can certainly declare it to be so  
+and reason has no right to attempt to disprove it. 
+</details>
+
+<details><summary>Español</summary>
+
+La **respuesta** a esta **pregunta es** la siguiente:-
+
+> "El Śāstra, que **es** la (única) autoridad con respecto a los asuntos relacionados con ella  
+de la misma manera que la **percepción** de sentido (pratyakṣa) **se trata** de lo que **se refiere** a él,  
+El Śāstra ciertamente **puede declarar** que **es** así  
+Y la razón **no tiene** derecho a **intentar refutarlo**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुक्कुप् परिहारम्; न्यायङ्गळाले बाधिक्कवॊण्णाद पडि प्रत्यक्षादिगळैप्पोले स्वविषयत्तिल् प्रमाणमाऩ शास्त्रङ्गाट्टुगैया लिप्पडिक्कूडुम्। 
+</details>
+
+
+
+
+In worldly life, if we give an object to a charitable and generous king as an article for sale, we shall obtain a liberal return; but if it is given (without any thought of such return) merely as an offering or tribute, we see it produce whatever is desired (by the person).
 
 These two bhakti and prapatti, are of the nature of a rite prompted by pravṛtti (activity prompted by worldly interests), when they are adopted by a person who expects some benefit other than (mokṣa) and in the case of those who desire only the feet of Bhagavān, they are of the nature of a rite of renunciation (nivṛtti). The same holds good of such things as the rites and duties which are compulsory and regularly recurrent and those which are compulsory and occasional (ritya and naimittika),
 
