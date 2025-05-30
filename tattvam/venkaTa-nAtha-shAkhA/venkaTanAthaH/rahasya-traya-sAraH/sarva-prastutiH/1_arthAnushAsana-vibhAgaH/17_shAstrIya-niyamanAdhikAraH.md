@@ -38,7 +38,7 @@ title = "१७ शास्त्रीय-नियमनाधिकारः
 
 मुकुन्दे **निक्षिप्य** स्व-भरम् अन्-अघो मुक्तवद् असौ  
 स्व-तन्त्राज्ञा-सिद्धां स्वयम् **अ-विदित**-स्वामि-हृदयः ।  
-**परित्यागे** +++(सति)+++ सद्यस् स्व-पर-विविधानर्थ-**जननाद्** -  
+**परित्यागे** +++(सति)+++ सद्यस् स्व-+++(अनुकर्तृ-सहित-)+++पर-विविधानर्थ-**जननाद्** -  
 **अ-लङ्घ्याम्** आमोक्षाद् **अनुसरति** शास्त्रीय-सरणिम् ॥ ३८ ॥ +++(4)+++
 </details>
 
@@ -52,7 +52,7 @@ title = "१७ शास्त्रीय-नियमनाधिकारः
 
 मुकुन्दे **निक्षिप्य** स्व-भरम् अन्-अघो मुक्तवद् असौ  
 स्व-तन्त्राज्ञा-सिद्धां स्वयम् **अ-विदित**-स्वामि-हृदयः ।  
-**परित्यागे** +++(सति)+++ सद्यस् स्व-पर-विविधानर्थ-**जननाद्** -  
+**परित्यागे** +++(सति)+++ सद्यस् स्व-+++(अनुकर्तृ-सहित-)+++पर-विविधानर्थ-**जननाद्** -  
 **अ-लङ्घ्याम्** आमोक्षाद् **अनुसरति** शास्त्रीय-सरणिम् ॥ ३८ ॥
 </details>
 
@@ -70,14 +70,14 @@ he will immediately **bring**, on himself and on others, ills of various kinds.
 
 <details><summary>Español</summary>
 
-Habiendo **puesto**, en Mukunda, la responsabilidad de su protección  
-y liberarse del pecado como los **lanzados** de Saṁsāra,  
+Habiendo **puesto**, en Mukunda, la responsabilidad de su **protección**  
+y **liberarse** del pecado como los **lanzados** de Saṁsāra,  
 La Prapanna **camina** por el camino colocada en los Śāstras  
-hasta su liberación de la esclavitud,   
-Dado que (a diferencia del mukta) no puede **leer** la mente del Señor directamente  
-y dado que el camino ha **sido ordenado** para nosotros por el mandato del Señor omnipotente
+hasta su **liberación** de la **esclavitud**,   
+Dado que (a diferencia del mukta) **no puede leer** la mente del Señor directamente  
+y dado que el camino ha **sido ordenado** para nosotros por el **mandato** del Señor omnipotente
 y desde que, al **alejarse** de ese camino,  
-Inmediatamente traerá, sobre sí mismo y en otros, males de varios tipos.
+Inmediatamente **traerá**, sobre sí mismo y en otros, males de varios tipos.
 </details>
 
 
@@ -91,7 +91,12 @@ Inmediatamente traerá, sobre sí mismo y en otros, males de varios tipos.
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-पूर्वाधिकारान्तिम गाथैयिलुपक्षिप्तमाऩ शास्त्रीयवर्णाश्रमानुष्ठान नियमत्तै इव्वधिकारत्तिल् विस्तरिक्कप्पोगिऱवराय् अधिकारार्थत्तै श्लोकत्ताले सङ्ग्रहिक्किऱार् मुकुन्द इत्यादिना । असौ – अधिकारी, मुकुन्दे – मोक्षप्रदऩाऩ भगवाऩिडत्तिल्, स्वभरं – स्वरक्षणभरत्तै, निक्षिप्य – समर्पित्तु अनघः – अघरहितः, सर्वपापत्तिल् निऩ्ऱुम् विडुबट्टवऩायॆऩ्ऱबडि। अत एव मुक्तवत् – मुक्ततुल्यस्सन्, सर्वपापविनिर्मुक्तत्वांशे मुक्तसदृशऩाय्क् कॊण्डॆऩ्ऱबडि। इङ्गु इव् वंशत्तिलेये मुक्तसादृश्यं विवक्षितम्; न तु शास्त्रीय सरण्यनुसारे । अथवा मुक्तवत् ऎऩ्बदु व्यतिरेकदृष्टान्तम्। स्वयमविदितस्वामिहृदयः ऎऩ्बदोडन्वयिक्किऱदु। मुक्तर्गळ् ऎप्पडि प्रत्यक्षत्तालेये विदितस्वामिहृदयर्गळो अप्पडि विदितस्वामिहृदयऩल्लादवऩाय्क् कॊण्डॆऩ्ऱबडि। इदु हेतुगर्भविशेषणम्। अविदितस्वामिहृदयत्वादित्यर्थः । स्वतन्त्राज्ञासिद्धां – स्वतन्त्रऩाऩ भगवाऩुडैय श्रुतिस्मृतिरूपमाऩ आज्ञैयिऩाले विहितमायुम्, परित्याग इति । परित्यागे – शास्त्रीयमाऩ नियमङ्गळै विडिल्, सद्यः – अन्द जन्मत्तिलेये, स्व - तऩक्कुम्, पर – तऩ्ऩनुष्ठानत्तैप् पार्त्तु शास्त्रीयनियमपरित्यागियाऩ परऩुक्कुम्, विविधानर्थ – ‘‘इहैव केचिदुपक्लेशा भवन्ति। खञ्जा भवन्ति, काणा भवन्ति, अविधेयपुत्रा भवन्ति, अविधेयभार्या भवन्ति’’ इत्यादिगळिऱ् सॊऩ्ऩ नानाविधानर्थ ङ्गळुडैय, जननात् – उत्पादनत्ताले, अलङ्घ्यां – लङ्घनानर्हां, शास्त्रीयसरणिं – श्रुतिस्मृतिरूपमाऩ शास्त्रविहितमार्गत्तै, आमोक्षात् – देहावसानपर्यन्तम्, अनुसरति – अनुसरिक्किऱाऩ्। अनुसरेदिति विधियिले तात्पर्यम्। 
+पूर्वाधिकारान्तिम गाथैयिलुपक्षिप्तमाऩ शास्त्रीयवर्णाश्रमानुष्ठान नियमत्तै इव्वधिकारत्तिल् विस्तरिक्कप्पोगिऱवराय् अधिकारार्थत्तै श्लोकत्ताले सङ्ग्रहिक्किऱार् मुकुन्द इत्यादिना । असौ – अधिकारी, मुकुन्दे – मोक्षप्रदऩाऩ भगवाऩिडत्तिल्, स्वभरं – स्वरक्षणभरत्तै, निक्षिप्य – समर्पित्तु अनघः – अघरहितः, सर्वपापत्तिल् निऩ्ऱुम् विडुबट्टवऩायॆऩ्ऱबडि। अत एव मुक्तवत् – मुक्ततुल्यस्सन्, सर्वपापविनिर्मुक्तत्वांशे मुक्तसदृशऩाय्क् कॊण्डॆऩ्ऱबडि। इङ्गु इव् वंशत्तिलेये मुक्तसादृश्यं विवक्षितम्; न तु शास्त्रीय सरण्यनुसारे । अथवा मुक्तवत् ऎऩ्बदु व्यतिरेकदृष्टान्तम्। स्वयमविदितस्वामिहृदयः ऎऩ्बदोडन्वयिक्किऱदु। मुक्तर्गळ् ऎप्पडि प्रत्यक्षत्तालेये विदितस्वामिहृदयर्गळो अप्पडि विदितस्वामिहृदयऩल्लादवऩाय्क् कॊण्डॆऩ्ऱबडि। इदु हेतुगर्भविशेषणम्। अविदितस्वामिहृदयत्वादित्यर्थः । स्वतन्त्राज्ञासिद्धां – स्वतन्त्रऩाऩ भगवाऩुडैय श्रुतिस्मृतिरूपमाऩ आज्ञैयिऩाले विहितमायुम्, परित्याग इति । परित्यागे – शास्त्रीयमाऩ नियमङ्गळै विडिल्, सद्यः – अन्द जन्मत्तिलेये, स्व - तऩक्कुम्, पर – तऩ्ऩनुष्ठानत्तैप् पार्त्तु शास्त्रीय-नियम-परित्यागिय् आऩ परऩुक्कुम्, विविधानर्थ – 
+
+> ‘‘इहैव केचिदुपक्लेशा भवन्ति।  
+खञ्जा भवन्ति, काणा भवन्ति, अविधेयपुत्रा भवन्ति, अविधेयभार्या भवन्ति’’  
+
+इत्यादिगळिऱ् सॊऩ्ऩ नानाविधानर्थ ङ्गळुडैय, जननात् – उत्पादनत्ताले, अलङ्घ्यां – लङ्घनानर्हां, शास्त्रीयसरणिं – श्रुतिस्मृतिरूपमाऩ शास्त्रविहितमार्गत्तै, आमोक्षात् – देहावसानपर्यन्तम्, अनुसरति – अनुसरिक्किऱाऩ्। अनुसरेदिति विधियिले तात्पर्यम्। 
 
 इन्द श्लोकत्तिल् ओरर्थम् ध्वनिक्किऱदु। तऩ्ऩाले सुमक्कमुडियाद अर्थरूपमाऩ भरमुडैय ऒरुवऩ् मुकुन्दकुन्दनीलाश्च ऎऩ्ऱुसॊल्लप्पट्ट मुकुन्दमॆऩ्गिऱ ऒरु निधियिले तऩ्ऩुडैय स्वम्माऩ अर्थत्तिऩुडैय भरत्तै निक्षेपम् पण्णि भरमिल्लामैयाले सर्वविधबन्धत्तालुम् मुक्तऩ् पोऩ्ऱवऩाग आगि, अन्द निध्यधिकारियिऩुडैय हृदयत्तै प्रत्यक्षमागत् तॆरिन्दु कॊळ्ळादवऩाय् अन्द निधियिऩ् सट्टदिट्टङ्गळै निर्दुष्टऩाऩ इवऩ् परित्यागम् पण्णिऩाल् तऩक्कुम् तऩ्ऩोडु अन्द निधियिल् पणम् वैत्तवऩुक्कुम् नानाविधानर्थङ्गळ् वरुमागैयाले अतिलङ्घनम् पण्णक्कूडाददाऩ शासितावाऩ अन्द यजमाऩऩेऱ्पडुत्तिय सट्टदिट्टरूपमाऩ मार्गत्तै पणत्तैत् तिरुम्बि वाङ्गुगैयागिऱ मोक्षपर्यन्तम् अनुसरिक्कक् कडवऩॆऩ्ऱु।  
 </details>
@@ -105,14 +110,14 @@ THE PRAPANNA SHOULD HAVE THE ŚĀSTRA FOR HIS GUIDE:
 
 <details><summary>Español</summary>
 
-La Prapanna debería tener el Śāstra para su guía:
+La Prapanna **debería tener** el Śāstra para su guía:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इश् शेषत्व-सम्बन्धम् अडिय् आग  
 भगवद्-भागवत-विषयङ्गळिल् इवऩ् पण्णुम् कैङ्कर्यम्  
-शास्त्र-सापेक्ष-रुचियालेयो  
+शास्त्र-सापेक्ष-रुचियालेयो +++(5)+++  
 शास्त्र-निरपेक्षरुचियालेयोव् 
 
 ऎऩ्ऩिल्, 
@@ -122,7 +127,7 @@ La Prapanna debería tener el Śāstra para su guía:
 
 एतच्-छेषत्व-संबन्ध-निबन्धनतया  
 भगवद्-भागवत-विषये ऽनेन क्रियमाणं कैङ्कर्यं  
-किं शास्त्र-सापेक्ष-रुच्या  
+किं शास्त्र-सापेक्ष-रुच्या+++(5)+++  
 उत शास्त्र-निरपेक्ष-रुच्या 
 
 इति चेत् — 
@@ -140,9 +145,9 @@ or from his mere desire without any reference at all to the śāstras.
 
 <details><summary>Español</summary>
 
-(Se ha declarado hasta ahora que) debido a su relación como un śeṣa,  
-La Prapanna tiene que prestar servicio a Bhagavān y a Bhāgavatas.  
-Ahora se le puede preguntar si surge este servicio  
+(**Se ha declarado** hasta ahora que) debido a su relación como un śeṣa,  
+La Prapanna **tiene** que **prestar servicio** a Bhagavān y a Bhāgavatas.  
+Ahora **se le puede preguntar** si **surge** este **servicio**  
 de su deseo y de acuerdo con los Śāstras  
 o de su mero deseo sin ninguna referencia en absoluto a los Śāstras.
 </details>
@@ -190,12 +195,12 @@ he may follow his own discretion.
 <details><summary>Español</summary>
 
 La respuesta es la siguiente;  
-Al hombre **que está** en este mundo lleno de la oscuridad de la ignorancia,
+Al hombre **que está** en este mundo **lleno** de la oscuridad de la ignorancia,
 El Śāstra **se requiere** como una lámpara (para mostrar el camino que **debe tomar**).  
 Entonces el servicio que **debe prestar**  
 **debería ser** de acuerdo con el Śāstra;
-en asuntos donde el Śāstra ofrece una opción o alternativas,
-**Puede seguir** su propia discreción.
+en asuntos donde el Śāstra **ofrece** una opción o alternativas,
+**Puede seguir** su propia **discreción**.
 </details>
 
 
@@ -234,7 +239,7 @@ en asuntos donde el Śāstra ofrece una opción o alternativas,
 
 <details><summary>Español</summary>
 
-"Cómo es esto", se puede preguntar.
+"Cómo **es** esto", se puede preguntar.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -264,14 +269,13 @@ en asuntos donde el Śāstra ofrece una opción o alternativas,
 When Śrī Rāmānuja was about to leave this world,  
 he observed his foremost disciples grieving exceedingly,  
 He called them to his side  
-
 </details>
 
 <details><summary>Español</summary>
 
-Cuando Śrī Rāmānuja estaba a punto de abandonar este mundo,  
-Observó a sus principales discípulos afligidos de manera extremadamente,  
-Los llamó a su lado
+Cuando Śrī Rāmānuja **estaba** a punto de **abandonar** este mundo,  
+**Observó** a sus principales discípulos **afligidos** de manera extremadamente,  
+Los **llamó** a su lado
 </details>
 
 
@@ -323,7 +327,7 @@ not to think of taking their own lives owing to their sorrow at his death.
 
 <details><summary>Español</summary>
 
-y les **ordenó** dolor de ofensa a aḷavandār  
+y les **ordenó** dolor de **ofensa** a Aḷavandār  
 **No pensar** en **quitarse** las propias vidas  
 debido a su tristeza a su muerte.  
 "Ellos (si lo **hacen**) **no tendrán** conexión conmigo", **dijo**.
@@ -460,13 +464,13 @@ Su **rendición** de la responsabilidad (Prapatti o ātma Samarpaṇam) **debe h
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> देह-यात्रै कर्माधीनैय् आगैयालेय्  
-> अदुक्कुक् करैय+++(=चिन्तिक्क)+++ वेण्डा।
+> देह-यात्रै +++(स्वाङ्गीकृत-)+++कर्माधीनैय् आगैयालेय्  
+> अदुक्कुक् करैय+++(=विलय → चिन्तिक्क)+++ वेण्डा।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> देहयात्रायाः कर्माधीनत्वात्  
+> देहयात्रायाः +++(स्वाङ्गीकृत-)+++कर्माधीनत्वात्  
 > तदर्थं चिन्ता न कार्या ।  
 </details>
 
@@ -493,12 +497,12 @@ Y **no debería sentirse** ansioso por eso.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> करैन्दाऩ्+++(=व्याकुल)+++ आगिल् नास्तिकऩ् आम् इत्तऩै। +++(4)+++
+> करैन्दाऩ्+++(=विलीन)+++ आगिल् +++(वैकुण्ठ-प्राप्त्य्-अश्रद्धया)+++ नास्तिकऩ् आम् इत्तऩै। +++(4)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> चिन्तां कुर्याच् चेत्, नास्तिक एव ।+++(4)+++  
+> चिन्तां कुर्याच् चेत्, +++(वैकुण्ठ-प्राप्त्य्-अश्रद्धया)+++ नास्तिक एव ।+++(4)+++  
 </details>
 
 
@@ -866,15 +870,16 @@ y **pasar** su vida con él
 
 ### सावधानतापेक्षाः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
 
 PITFALLS IN THE PATH OF THE PRAPANNA:
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Español</summary>
 
 Trampas en el camino de la Prapanna:
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1108,7 +1113,7 @@ y (otros) objetos **queridos**.
 </details>
 
 
-<details><sumary>English</summary>
+<details><summary>English</summary>
 
 > At the sight of the unsuitable (pratiküla),  
 he will be full of dread  
@@ -1184,7 +1189,7 @@ como a la **vista** de la serpiente y el fuego.
 > "इवर्गळ् अनुकूलियार्गळ् आगिलैयोव्" ऎऩ्ऱ्  
 इवर्गळ् पक्कलिले **कृपै पण्णिय् इरुक्कवुम्**  
 > 
-> **अडुक्कुम्।**+++(=व्यवस्थातवम्)+++ +++(4)+++
+> **अडुक्कुम्।**+++(=व्यवस्थापितम्)+++ +++(4)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
