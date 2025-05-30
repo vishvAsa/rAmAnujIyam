@@ -1022,7 +1022,7 @@ y (3) aquellos que no son ni uno ni el otro.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> अनुभयर् आवार् इव्व्-इरण्डुम् इल्लाद संसारिकळ्। 
+> अनुभयर् आवार् इव्व्-इरण्डुम् इल्लाद संसारिगळ्। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
