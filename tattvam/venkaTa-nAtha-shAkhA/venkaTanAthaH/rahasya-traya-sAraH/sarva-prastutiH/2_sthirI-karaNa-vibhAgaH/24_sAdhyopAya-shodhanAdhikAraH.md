@@ -11709,6 +11709,12 @@ y el **remedio** para ello
 अदुक्कु परिहारमुञ् जॊल्लुगिऱोम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+केषाञ्चिद् एषु विश्वासस्य ह्रास-प्रकारं तत्-परिहारं च ब्रूमः । 
+</details>
+
+
 <details><summary>English</summary>
 
 We will now show how some people suffer from diminution of faith  
@@ -11733,6 +11739,8 @@ y **indique** cómo **se puede corregir** esta tendencia.
 
 > भक्ति-प्रपत्तिगळ्, बुद्धि-भेदत्ताले, ऐश्वर्य-मोक्षङ्गळ् आगिऱ विरुद्ध-फलङ्गळैक् कॊडुक्क गूडुमो; 
 </details>
+
+
 
 <details><summary>English</summary>
 
