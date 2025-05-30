@@ -870,15 +870,16 @@ y **pasar** su vida con él
 
 ### सावधानतापेक्षाः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
 
 PITFALLS IN THE PATH OF THE PRAPANNA:
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Español</summary>
 
 Trampas en el camino de la Prapanna:
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1112,7 +1113,7 @@ y (otros) objetos **queridos**.
 </details>
 
 
-<details><sumary>English</summary>
+<details><summary>English</summary>
 
 > At the sight of the unsuitable (pratiküla),  
 he will be full of dread  
