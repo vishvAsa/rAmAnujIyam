@@ -117,7 +117,7 @@ La Prapanna **debería tener** el Śāstra para su guía:
 
 > इश् शेषत्व-सम्बन्धम् अडिय् आग  
 भगवद्-भागवत-विषयङ्गळिल् इवऩ् पण्णुम् कैङ्कर्यम्  
-शास्त्र-सापेक्ष-रुचियालेयो  
+शास्त्र-सापेक्ष-रुचियालेयो +++(5)+++  
 शास्त्र-निरपेक्षरुचियालेयोव् 
 
 ऎऩ्ऩिल्, 
@@ -127,7 +127,7 @@ La Prapanna **debería tener** el Śāstra para su guía:
 
 एतच्-छेषत्व-संबन्ध-निबन्धनतया  
 भगवद्-भागवत-विषये ऽनेन क्रियमाणं कैङ्कर्यं  
-किं शास्त्र-सापेक्ष-रुच्या  
+किं शास्त्र-सापेक्ष-रुच्या+++(5)+++  
 उत शास्त्र-निरपेक्ष-रुच्या 
 
 इति चेत् — 
@@ -145,9 +145,9 @@ or from his mere desire without any reference at all to the śāstras.
 
 <details><summary>Español</summary>
 
-(Se ha declarado hasta ahora que) debido a su relación como un śeṣa,  
-La Prapanna tiene que prestar servicio a Bhagavān y a Bhāgavatas.  
-Ahora se le puede preguntar si surge este servicio  
+(**Se ha declarado** hasta ahora que) debido a su relación como un śeṣa,  
+La Prapanna **tiene** que **prestar servicio** a Bhagavān y a Bhāgavatas.  
+Ahora **se le puede preguntar** si **surge** este **servicio**  
 de su deseo y de acuerdo con los Śāstras  
 o de su mero deseo sin ninguna referencia en absoluto a los Śāstras.
 </details>
@@ -195,12 +195,12 @@ he may follow his own discretion.
 <details><summary>Español</summary>
 
 La respuesta es la siguiente;  
-Al hombre **que está** en este mundo lleno de la oscuridad de la ignorancia,
+Al hombre **que está** en este mundo **lleno** de la oscuridad de la ignorancia,
 El Śāstra **se requiere** como una lámpara (para mostrar el camino que **debe tomar**).  
 Entonces el servicio que **debe prestar**  
 **debería ser** de acuerdo con el Śāstra;
-en asuntos donde el Śāstra ofrece una opción o alternativas,
-**Puede seguir** su propia discreción.
+en asuntos donde el Śāstra **ofrece** una opción o alternativas,
+**Puede seguir** su propia **discreción**.
 </details>
 
 
@@ -239,7 +239,7 @@ en asuntos donde el Śāstra ofrece una opción o alternativas,
 
 <details><summary>Español</summary>
 
-"Cómo es esto", se puede preguntar.
+"Cómo **es** esto", se puede preguntar.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -269,14 +269,13 @@ en asuntos donde el Śāstra ofrece una opción o alternativas,
 When Śrī Rāmānuja was about to leave this world,  
 he observed his foremost disciples grieving exceedingly,  
 He called them to his side  
-
 </details>
 
 <details><summary>Español</summary>
 
-Cuando Śrī Rāmānuja estaba a punto de abandonar este mundo,  
-Observó a sus principales discípulos afligidos de manera extremadamente,  
-Los llamó a su lado
+Cuando Śrī Rāmānuja **estaba** a punto de **abandonar** este mundo,  
+**Observó** a sus principales discípulos **afligidos** de manera extremadamente,  
+Los **llamó** a su lado
 </details>
 
 
@@ -328,7 +327,7 @@ not to think of taking their own lives owing to their sorrow at his death.
 
 <details><summary>Español</summary>
 
-y les **ordenó** dolor de ofensa a aḷavandār  
+y les **ordenó** dolor de **ofensa** a Aḷavandār  
 **No pensar** en **quitarse** las propias vidas  
 debido a su tristeza a su muerte.  
 "Ellos (si lo **hacen**) **no tendrán** conexión conmigo", **dijo**.
@@ -465,13 +464,13 @@ Su **rendición** de la responsabilidad (Prapatti o ātma Samarpaṇam) **debe h
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> देह-यात्रै कर्माधीनैय् आगैयालेय्  
-> अदुक्कुक् करैय+++(=चिन्तिक्क)+++ वेण्डा।
+> देह-यात्रै +++(स्वाङ्गीकृत-)+++कर्माधीनैय् आगैयालेय्  
+> अदुक्कुक् करैय+++(=विलय → चिन्तिक्क)+++ वेण्डा।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> देहयात्रायाः कर्माधीनत्वात्  
+> देहयात्रायाः +++(स्वाङ्गीकृत-)+++कर्माधीनत्वात्  
 > तदर्थं चिन्ता न कार्या ।  
 </details>
 
@@ -498,12 +497,12 @@ Y **no debería sentirse** ansioso por eso.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> करैन्दाऩ्+++(=व्याकुल)+++ आगिल् नास्तिकऩ् आम् इत्तऩै। +++(4)+++
+> करैन्दाऩ्+++(=विलीन)+++ आगिल् +++(वैकुण्ठ-प्राप्त्य्-अश्रद्धया)+++ नास्तिकऩ् आम् इत्तऩै। +++(4)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> चिन्तां कुर्याच् चेत्, नास्तिक एव ।+++(4)+++  
+> चिन्तां कुर्याच् चेत्, +++(वैकुण्ठ-प्राप्त्य्-अश्रद्धया)+++ नास्तिक एव ।+++(4)+++  
 </details>
 
 
@@ -1189,7 +1188,7 @@ como a la **vista** de la serpiente y el fuego.
 > "इवर्गळ् अनुकूलियार्गळ् आगिलैयोव्" ऎऩ्ऱ्  
 इवर्गळ् पक्कलिले **कृपै पण्णिय् इरुक्कवुम्**  
 > 
-> **अडुक्कुम्।**+++(=व्यवस्थातवम्)+++ +++(4)+++
+> **अडुक्कुम्।**+++(=व्यवस्थापितम्)+++ +++(4)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
