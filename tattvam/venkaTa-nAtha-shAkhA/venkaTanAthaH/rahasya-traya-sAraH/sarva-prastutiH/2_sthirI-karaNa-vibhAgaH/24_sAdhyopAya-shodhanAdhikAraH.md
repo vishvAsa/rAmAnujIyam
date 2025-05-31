@@ -11733,6 +11733,12 @@ y **indique** cómo **se puede corregir** esta tendencia.
 सिलर्क्किवऱ्ऱिल् विश्वासङ्गुलैयुम्बडियुम् अदुक्कु परिहारमुञ्जॊल्लुगिऱोम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि भक्तिप्रपत्तिकळिल् विश्वासशैथिल्यत्तिऱ्कु हेतुवाऩ सिल शङ्गैगळैक् काट्टि परिहरिक्कप्पोगिऱवराय् सङ्गत्यर्थम् प्रतिज्ञै सॆय्गिऱार् सिलर्क्किवऱ्ऱिलित्यादिना । 
+</details>
+
+
 #### विपरीत-फल-दत्वम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -11740,6 +11746,12 @@ y **indique** cómo **se puede corregir** esta tendencia.
 > भक्ति-प्रपत्तिगळ्, बुद्धि-भेदत्ताले, ऐश्वर्य-मोक्षङ्गळ् आगिऱ विरुद्ध-फलङ्गळैक् कॊडुक्क गूडुमो; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+>> भक्ति-प्रपत्ती बुद्धि-भेदेन ऐश्वर्य-मोक्ष-रूपे विरुद्ध-फले ददाते  
+> 
+> इति कथं युज्यते ? 
+</details>
 
 
 <details><summary>English</summary>
@@ -11761,6 +11773,12 @@ Simplemente por la diferencia en la actitud mental (de aquellos que los **adopta
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+विश्वासशैथिल्यहेतुक्कळै उपपादिक्किऱार् भक्तिप्रपत्तिकळित्यादिना । विरुद्धफलङ्गळैक्कॊडुक् कक्कूडुमो इति । ऒरे भक्ति ऐश्वर्यादिकामनैयुळ्ळवर्गळुक्कु बद्धदशैयिल् अनुभाव्यमाऩ ऐश्वर्यत्तैयुम् मोक्षकामऩुक्कु बन्धराहित्यदशैयिल् अनुभाव्यतया तद्विरुद्धमाऩ मोक्षफलत्तैयुम् कॊडुक्कक्कूडुमो ऎऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > विरैक्किऱवऩुडै+++(=वपकस्य)+++ अभिसन्धिभेदत्ताले  
@@ -11768,6 +11786,14 @@ Simplemente por la diferencia en la actitud mental (de aquellos que los **adopta
 
 ऎऩ्ऱु सिलर् पार्प्पर्गळ्,
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> वापकस्याभिसन्धि-भेदेनैकस्यैव बीजस्य फलान्तर-जनकत्वं किम् अपश्याम?
+
+इति केचिद् उत्पश्यन्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11791,6 +11817,12 @@ Algunos pueden preguntar (lo anterior).
 विरैक्किऱवऩुडै अभिसन्धिभेदत्ताले ऒरु विरै वेऱॊरु फलत्तैक् कॊडुक्कक् कण्डोमोवॆऩ्ऱु सिलर् पार्प्पर्गळ्,
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कूडुमॆऩ्ऩिल् दृष्टान्तत्तै प्रदर्शनम् पण्णि अदु लोकानुभवविरुद्धमॆऩ्गिऱार् विरैक्किऱवऩुडैय अभिसन्धिभेदत्ताले ऒरु विरै इति । विरै - बीजम्, 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदुक्कुप् परिहारम्;  
@@ -11799,6 +11831,15 @@ Algunos pueden preguntar (lo anterior).
 शास्त्रङ् गाट्टुगैयाल्  
 इप्-पडिक् कूडुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य परिहारो यथा—  
+न्यायाबाध्यत्व-रूपेण  
+प्रत्यक्षादिवत् स्व-विषये प्रमाणेन शास्त्रेण प्रदश्यमानत्वाद्  
+एवम्-भावो युज्यते ।  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11826,11 +11867,95 @@ Y la razón **no tiene** derecho a **intentar refutarlo**.
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदऱ्कु शास्त्रप्रक्रियैयिऩाले परिहारमरुळिच्चॆय्गिऱार् न्यायङ् गळाले बाधिक्कवॊण्णादबडि इति । स्वविषयत्तिल् प्रमाणमाऩ शास्त्रङ्गाट्टु कैयालिप्पडिक्कूडुमिति । ऎप्पडि चक्षुरादिप्रमाणङ्गळाले काट्टप्पट्ट रूपादिगळै न्यायत्तैक् कॊण्डु इल्लै सॆय्यमुडियादो अप्पडिये अतीन्द्रियमाय् शास्त्रैकवेद्यमाऩ विषयत्तै शास्त्रम् सॊऩ्ऩाल् अदै युक्तिकळाले बाधिक्कमुडिया तॆऩ्ऱु तिरुवुळ्ळम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+लोकत्तिलुम् धर्म-शीलऩ् आय् उदारऩ् आऩ राजावुक्कु  
+विलैय् आग एद् एनुम् ऒऱ्ऱैक् कॊडुत्ताल् पॆरुम् विलै किडैक्कवुम्,  
+अदु तन्नैये उपहार-बुद्धियाले कॊडुत्ताल् वेण्डुवद् ऎल्लाम् किडैक्कवुम्  
+काणा निण्ड्रोम्.
+</details>
+
+<details><summary>English</summary>
+
+In worldly life, if we give an object to a charitable and generous king as an article for sale,  
+we shall obtain a liberal return;  
+but if it is given (without any thought of such return) merely as an offering or tribute,  
+we see it produce whatever is desired (by the person).
+</details>
+
+<details><summary>Español</summary>
+
+En la vida mundana, si **damos** un objeto a un rey caritativo y generoso como artículo para la venta,  
+**Obtendremos** un retorno liberal;  
+pero si se **da** (sin **pensar** en tal **retorno**) simplemente como una **oferta** o tributo,  
+**Vemos** que produce lo que **desee** (por la persona).
+</details>
 
 
-In worldly life, if we give an object to a charitable and generous king as an article for sale, we shall obtain a liberal return; but if it is given (without any thought of such return) merely as an offering or tribute, we see it produce whatever is desired (by the person).
+<details><summary>मूलम्</summary>
 
-These two bhakti and prapatti, are of the nature of a rite prompted by pravṛtti (activity prompted by worldly interests), when they are adopted by a person who expects some benefit other than (mokṣa) and in the case of those who desire only the feet of Bhagavān, they are of the nature of a rite of renunciation (nivṛtti). The same holds good of such things as the rites and duties which are compulsory and regularly recurrent and those which are compulsory and occasional (ritya and naimittika),
+लोकत्तिलुम् धर्मशीलऩायुदारऩाऩ राजावुक्कु विलैयाग एदेनुमॊण्ड्रैक् कॊडुत्ताल् पॆरुम् विलै किडैक्कवुम् अदु तन्नैये उपहारबुद्धियाले कॊडुत्ताल् वेण्डुवदॆल्लाम् किडैक्कवुम् काणानिण्ड्रोम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इब् भक्ति-प्रपत्तिगळ् प्रयोजनान्तर-परऩुक्कु प्रवृत्ति-धर्म-कोटियिले निऱ्‌कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+These two - bhakti and prapatti,  
+are of the nature of a rite prompted by pravṛtti (activity prompted by worldly interests),  
+when they are adopted by a person who expects some benefit other than mokṣa  
+</details>
+
+<details><summary>Español</summary>
+
+Estos dos - bhakti y prapatti,
+**son** de la naturaleza de un rito **provocado** por Pravṛtti (**actividad provocada** por los intereses mundanos),  
+Cuando **son adoptados** por una persona que **espera** algún beneficio que **no sea** mokṣa
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इब् भक्ति-प्रपत्तिगळ् प्रयोजनान्तरपरऩुक्कु प्रवृत्तिधर्मकोटियिले निऱ्‌कुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवच्-छरणार्थिगळुक्कु निवृत्ति-धर्मङ्गळ् आम्।  +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+and in the case of those who desire only the feet of Bhagavān,  
+they are of the nature of a rite of renunciation (nivṛtti).+++(4)+++ 
+</details>
+
+<details><summary>Español</summary>
+
+y en el caso de aquellos que **desean** solo los pies de Bhagavān,  
+**Son** de la naturaleza de un rito de **renuncia** (nivṛtti).+++(4)+++ 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवच्छरणार्थिगळुक्कु निवृत्तिधर्मङ्गळाम्।  
+</details>
+
+
+
+
+The same holds good of such things as the rites and duties which are compulsory and regularly recurrent  
+and those which are compulsory and occasional (nitya and naimittika).
 
 If it be asked whether üpasāna (bhakti) and prapatti, which are different in their nature since the former has to be repeated continuously (till death) and the latter to be performed only once -- whether these two could yield the same fruit; the answer is as follows:- "It is certainly possible, since it depends upon the competency of the person (adopting the upāya), as in worldly life and in the Vedic tradition.
 
