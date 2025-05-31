@@ -11880,6 +11880,15 @@ Y la razón **no tiene** derecho a **intentar refutarlo**.
 काणा निण्ड्रोम्.
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+लोकेऽपि धर्म-शीलायोदाराय राज्ञे  
+क्रय्य-रूपेण कस्यचिद् अर्पणे महतो मूल्यस्य लाभं,  
+तस्यैवोपहार-बुद्धया समर्पणे ऽपेक्षितस्य सर्वस्यापि लाभं च  
+पश्यामः किल । 
+</details>
+
+
 <details><summary>English</summary>
 
 In worldly life, if we give an object to a charitable and generous king as an article for sale,  
@@ -11905,8 +11914,15 @@ pero si se **da** (sin **pensar** en tal **retorno**) simplemente como una **ofe
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इब् भक्ति-प्रपत्तिगळ् प्रयोजनान्तर-परऩुक्कु प्रवृत्ति-धर्म-कोटियिले निऱ्‌कुम्। 
+इब् भक्ति-प्रपत्तिगळ् प्रयोजनान्तर-परऩुक्कु प्रवृत्ति-धर्म-कोटियिले निऱ्‌कुम्। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमे भक्ति-प्रपत्ती  
+प्रयोजनान्तर-परस्य प्रवृत्ति-धर्म-कोटौ निविशेते । +++(4)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11930,8 +11946,14 @@ Cuando **son adoptados** por una persona que **espera** algún beneficio que **n
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भगवच्-छरणार्थिगळुक्कु निवृत्ति-धर्मङ्गळ् आम्।  +++(5)+++
+भगवच्-चरणार्थिगळुक्कु निवृत्ति-धर्मङ्गळ् आम्।  +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवच्-चरणार्थिनां निवृत्ति-धर्मौ भवतः । +++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11947,13 +11969,19 @@ y en el caso de aquellos que **desean** solo los pies de Bhagavān,
 
 <details><summary>मूलम्</summary>
 
-भगवच्छरणार्थिगळुक्कु निवृत्तिधर्मङ्गळाम्।  
+भगवच्चरणार्थिगळुक्कु निवृत्तिधर्मङ्गळाम्।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् अर्थं नित्य-नैमित्तिकादिगळिलुम् ऒक्कुम्। +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयम् अर्थो नित्य-नैमित्तिकादिष्व् अपि समानः । +++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11976,13 +12004,29 @@ y aquellos que **son** obligatorios y ocasionales (naimittika).
 #### आवृत्ति-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> इप्-पडियेय्  
-आवृत्त्य्-अनावृत्त्य्-आदिगळाले विषम--स्व-भावङ्गळ् आऩ उपासन-प्रपदनङ्गळ्  
+इप्-पडियेय्  
+
+> आवृत्त्य्-अनावृत्त्य्-आदिगळाले विषम--स्व-भावङ्गळ् आऩ उपासन-प्रपदनङ्गळ्  
 एक-फल-साधनम् अगक् कूडुमोव् 
 
 ऎन्नुम् इदुक्कुम् उत्तरम्  
 अधिकारि-विशेषत्ताले लोक-वेदङ्गळिऱ्‌ पडिये सिद्धम्।  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२२३]] 
+
+इत्थम् एव -  
+
+> आवृत्त्य्-अनावृत्त्य्-आदिभिर् विषम--स्व-भावे उपासन-प्रपदने  
+कथम् एक-फल-साधने भवत  
+
+इति चेत्,  
+अस्योत्तरम् अपि  
+अधिकारि-विशेषात् लोक-वेद-रीत्या सिद्धम् ॥ 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -12023,10 +12067,20 @@ como en la **vida** mundana y en la tradición védica.
 
 मुमुक्षुक्कळ् आय् स्व-तन्त्र-प्रपत्ति पण्णिऩ् अवर्गळुक्कु -  
 उपायमुम् मोक्षमुम् एकरूपम् आय् इरुक्कच् चेय्देयुम्  
-संसारत्तिल् अडिच्-चूट्टाल्+++(=दाहात्??)+++ वरुं त्वरैयिन् तारतमत्तक्क् ईड् आग  
-तम्-तम्-इच्छैयाले कालङ् कुऱिक्किऱदिल् एऱ्ऱच्-चुरुक्कत्ताले  
+संसारत्तिल् अडिच्-चूट्टाल्+++(=तापतः)+++ वरुं त्वरैयिन् तारतमत्तक्क् ईड् आग +++(5)+++  
+तम्-तम्-इच्छैयाले कालङ् गुऱिक्किऱदिल् एऱ्ऱच्-चुरुक्कत्ताले  
 फलत्तिल् विळम्बाविळम्बङ्गळ् कूडुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुमुक्षूणां स्व-तन्त्र-प्रपत्तिं कृतवताम्  
+उपाये मोक्षे चैक-रूपे सत्य् अपि  
+संसारे पाद-संतापेन (आर्त्या) जायमानायास् त्वरायास् तारतम्यम् अनुसृत्य  
+स्व-स्वेच्छा-कृत-निर्देशे काले संभवद्भ्याम् आधिक्य-न्यूनत्वाभ्यां  
+फले विलम्बाविलम्बौ युज्येते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -12066,6 +12120,15 @@ de acuerdo con el momento en que las personas interesadas lo **desean** respecti
 प्रारब्ध-सु-कृत-विशेषम् आगवुम् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+दिव्य-सूरि--नाथ-मुनि-पर्यन्तानां भगवत्-साक्षात्-कारादिषु जातेषु स्थितेषु  
+केषाञ्चिद् एतद्-राहित्येनावस्थितेः कारणं  
+प्रपत्ति-कालिक संकल्पे वैषम्यं वा  
+प्रारब्ध-सुकृत-विशेषो वा । 
+</details>
+
+
 <details><summary>English</summary>
 
 The reason why the Alvars, Nāthamuni and the like obtained such things as direct vision (sākṣatkāra) of Bhagavān,  
@@ -12097,6 +12160,15 @@ y también la diferencia en el buen karma pasado que había **comenzado a operar
 पिऩ्बु तीव्र-संवेगम् बिऱन्दार्क्कु पुनः प्रपत्ति-पण्णवुम् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+पूर्वम् उद्दिष्टस्य फलांशस्य सकृत्-प्रपत्त्या सिद्धत्वेऽपि  
+पश्चाज्-जात-तीव्र-संवेगैः  
+अनुद्दिष्टांशोद्देशेन  
+पुनः प्रपत्तिः कर्तुं युज्यते । 
+</details>
+
+
 <details><summary>English</summary>
 
 Though that part of the fruit formerly desired is certain  
@@ -12127,6 +12199,13 @@ Otro Prapatti también **es** apropiado.
 स-कल--फल-साधनम् आऩ प्रपत्तियिले अतिशङ्कै पण्णुवर्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्ये केचित् दृष्टार्थ-प्रपत्तिषु कासांचिन् निष्फलत्वं दृष्ट्वा  
+स-कल--फल-साधन-भूतायां प्रपत्तौ अतिशङ्कां कुर्वते ।
+</details>
+
+
 <details><summary>English</summary>
 
 Some critics may entertain doubts in regard to the effectiveness of prapatti which is the means of attaining all benefits without exception,  
@@ -12151,6 +12230,13 @@ Cuando **se encuentra** que algunas formas de Prapatti, **pretendían asegurar**
 अल्लाद शास्त्रार्थङ्गळिऱ् पडिगळिले  
 कर्म-कर्तृ-साधन-वैगुण्यत्तै वॆळिय् इट्टुत् तॆळि-विक्क वेणुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तेऽप्य् अन्यान्य-शास्त्रार्थेष्व् इव  
+कर्म-कर्तृ-साधन-वैगुण्यं प्रदर्श्य प्रतिबोधनीयाः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -12189,6 +12275,12 @@ Si la lluvia **no sigue** al Yajna,
 महा-विश्वासादिगळ् कुऱैगै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र कर्म-वैगुण्यं नाम महा-विश्वासादीनां न्यूनता । 
+</details>
+
+
 <details><summary>English</summary>
 
 Defect in the performance (of prapatti) consists in the lack of intense faith, (mahavisvasa ), and the like.
@@ -12211,6 +12303,12 @@ El defecto en el **rendimiento** (de Prapatti) **consiste** en la falta de fe in
 प्रपत्तिक्कुच् चॊऩ्ऩ अधिकारम् न्यूनम् आगै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+कर्तृ-वैगुण्यं नाम प्रपत्त्य्-अर्थतयोक्त-स्वाधिकारस्य न्यूनता । 
+</details>
+
+
 <details><summary>English</summary>
 
 Defect in the doer consists in the absence of competency prescribed for prapatti.  
@@ -12231,6 +12329,14 @@ El defecto en el **hacedor** consiste en **ausencia** de competencia **prescrita
 साधन-वैगुण्यम् आवदु;  
 यथा-शास्त्रम् प्रपत्त्य्-अनुष्ठानत्तुक्कु मूलम् आऩ सद्-उपदेशादिगळ् अऩ्ऱिक्केय् ऒऴिगै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+साधन-वैगुण्यं नाम  
+यथा-शास्त्रं प्रपत्त्य्-अनुष्ठान-मूलभूत--   
+सद्-उपदेशादि-राहित्येनावस्थानम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -12259,6 +12365,15 @@ de **acuerdo** con los Śāstras.
 तत्-फलङ्गळ् आगक् कोलिऩ दृष्टङ्गळुम् सिद्धिक्कक् काणा निऩ्ऱोम्।  +++(4)+++ 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद्-वैगुण्य-शून्यतया प्रपत्तौ +अनुष्ठितायां सत्यां  
+तत्-फलत्वेनोद्दिष्टानां दृष्टानाम् अपि सिद्धिं पश्यामः ॥ 
+
+[[२२७]] 
+</details>
+
+
 <details><summary>English</summary>
 
 When prapatti is done without any of these defects,  
@@ -12277,10 +12392,141 @@ Cuando Prapatti **se realiza** sin ninguno de estos defectos,
 इव् वैगुण्यङ्गळऱ प्रपत्तिपण्णिऩबोदु तत्फलङ्गळागक् कोलिऩ दृष्टङ्गळुम् सिद्धिक्कक् काणा निऩ्ऱोम्।  
 </details>
 
+## चरमश्लोकेन स्वतन्त्र-प्रपत्तेर् अपि विधिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वेऱे सिलर्  
+
+> प्रपत्ति-शास्त्रत्तोडु शास्त्रान्तरङ्गळोडु वासिय् अऱ  
+सर्व-शास्त्रङ्गळुक्कुम् प्रवर्तकर् आऩ व्यासादिगळ्  
+> 
+> > ६६‘‘आलोड्य सर्व-शास्त्राणि  
+विचार्य च पुनः पुनः ।  
+इदम् एकं सु निष्पन्नं  
+**ध्येयो** नारायणस् सदा॥’’  
+(भारतम् आनुशासनिग-पर्व १७८-११) 
+> 
+> ऎऩ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+Yet others:- 
+
+> "Such sages as Vyāsa who are alike the expounders of all śāstras including the śāstra on prapatti state:--  
+>
+> > "After studying all the śāstras  
+and after frequent investigation of their meaning with the help of reason,  
+this one truth alone becomes evident:  
+Nārāyaṇa should always be meditated on,"  
+>
+
+</details>
+
+<details><summary>Español</summary>
+
+Aún otros:-
+
+> "Sabios como Vyāsa que **son** los **expositores** de todos los Śāstras, incluido el Śāstra de Prapatti **declaran**:--
+>
+>> "Después de **estudiar** todos los Śāstras  
+y después de una **investigación** frecuente de su significado con la ayuda de la razón,  
+Esta verdad por sí sola **se hace** evidente:  
+Nārāyaṇa siempre **debe ser meditado** ",
+>
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-Yet others might contend as follows:-"Such sages as Vyāsa who are alike the expounders of all śāstras including the śāstra on prapatti state:-- "After studying all the śāstras and after frequent investigation of their meaning with the help of reason, this one truth alone becomes evident: Nārāyaṇa should always be meditated on," "Hari alone is fit to be meditated on always by people like you who are sāttvikas." " Viṣṇu " is constantly to be meditated on. He should never be forgotten." When they have arrived at this conclusion, how could it be said that, by the performance of prapatti on a single occasion, mokṣa could be attained? The passage in the Gita which says :- " Those  who perform prapatti to me alone, get over mayā which cannot be easily got over -- this passage and others like it refer to prapatti which is an aṅga or accessory to bhakti (upāsana) or meditation, Similarly such texts as the Carama śloka should be considered as prescribing prapatti with its accessories only as an aṅga of bhakti". This contention of theirs is inappropriate. (For it has been said): " Those who are incapable of meditation (upāsana or bhakti) and seek Thee as their upāya-even they cross over saṁsāra and enter Thy abode, Vaikuṇṭha,” “Whatever object is desired, by whatsoever person and whatever cannot be obtained by other means, and that mokṣa from which abode there is no return and which cannot be attained by karma yoga, jñānayoga, or bhakti yoga, all these fruits are obtained, O great sage, by those who respectively strive for them by the performance of prapatti. The Supreme Self is attained only thereby." As stated in these passages, if prapatti adopted as a direct and independent upāya is well established, the prapanna acquires, as its reward, the capacity to meditate constantly on Nārāyaṇa as stated in Śrī Vaikuṇṭha Gadya. This is just like milk being a suitable drink for both the healthy man and the man who is in ill-health. Though meditation (upāsana or bhakti) with its (Vedic) aṅgas is not within the competency of every one, yet it is not impossible for everyone to meditate on the Lord in such measure as is possible for one with his competency, as may be seen in the passage - "May 1, "as the result of Thy will, be endowed with the power of constantly meditating on Thee!" The author of Śrī Bhāṣya, too, after teaching this upāya (prapatti) in his smaller Gadya (Śrī Raṅga Gadya) and in the longer Gadya (Śaraṇāgati Gadya) and referred to it briefly in the Vaikuṇṭhagadya, is pleased to teach this form of
+वेऱे सिलर् प्रपत्तिशास्त्रत्तोडु शास्त्रान्तरङ्गळोडु वासियऱ सर्वशास्त्रङ्गळुक्कुम् प्रवर्तकराऩ व्यासादिगळ् ६६‘‘आलोड्य सर्वशास्त्राणि विचार्य च पुनः पुनः । इदमेकं सु निष्पन्नं ध्येयो नारायणस्सदा’’(भारतम् आनुशासनिग-पर्व १७८-११) ऎऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ६७‘‘हरिर् एकस् सदा ध्येयो  
+भवद्भिस् सत्त्व-संस्थितैः’’(हरि-वंशम् १३२-१४) 
+> 
+> ऎऩ्ऱुम् 
+</details>
+
+<details><summary>मूलम्</summary>
+
+६७‘‘हरिरेकस्सदा ध्येयो भवद्भिस्सत्वसंस्थितैः’’(हरि-वंशम् १३२-१४) ऎऩ्ऱुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ‘‘स्मर्तव्यस् सततं विष्णुः’’(हरि-वंशम् १३२-१४) 
+> 
+> ऎऩ्ऱुम्  
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘स्मर्तव्यस्सततं विष्णुः’’(हरि-वंशम् १३२-१४) ऎऩ्ऱुम्  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप् पडि निष्कर्षिया निऱ्क  
+सकृत्-प्रपत्ति-मात्रत्ताले मोक्षम् आगक् कूडुमो; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि निष्कर्षिया निऱ्क सकृत्प्रपत्तिमात्रत्ताले मोक्षमागक्कूडुमो; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ‘‘मामेव ये प्रपद्यन्त’’(गीता ७-१४) 
+>
+> इत्यादिगळ् अङ्ग-प्रपत्ति-विषयङ्गळ् आऩाऱ् पोले 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘मामेव ये प्रपद्यन्त’’(गीता ७-१४) इत्यादिगळ् अङ्गप्रपत्तिविषयङ्गळाऩाऱ्पोले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> चरम-श्लोकादिगळुम्  
+स-परिकर-प्रपत्तियै भक्त्य्-अङ्गम् आग  
+विधिक्किऱऩव् आग वेण्डावोव् 
+
+ऎऩ्ऱु सॊल्लुवर्गळ्
+</details>
+
+<details><summary>मूलम्</summary>
+
+चरमश्लोकादिगळुम् सपरिकरप्रपत्तियै भक्त्यङ्गमाग विधिक्किऱऩवाग वेण्डावोवॆऩ्ऱु सॊल्लुवर्गळ्
+</details>
+
+
+> > "Hari alone is fit to be meditated on always by people like you who are sāttvikas."  
+>
+> > " Viṣṇu is constantly to be meditated on.  
+He should never be forgotten."  
+>
+> When they have arrived at this conclusion,  
+> how could it be said that, by the performance of prapatti on a single occasion, mokṣa could be attained? 
+> 
+> The passage in the Gita which says :- 
+> 
+> > " Those who perform prapatti to me alone, get over mayā  
+which cannot be easily got over  
+>
+> \-- this passage and others like it refer to prapatti  
+which is an aṅga or accessory to bhakti (upāsana) or meditation.  
+> Similarly such texts as the Carama śloka should be considered as prescribing prapatti with its accessories only as an aṅga of bhakti". 
+
+might contend as above.
+
+This contention of theirs is inappropriate. (For it has been said): " Those who are incapable of meditation (upāsana or bhakti) and seek Thee as their upāya-even they cross over saṁsāra and enter Thy abode, Vaikuṇṭha,” “Whatever object is desired, by whatsoever person and whatever cannot be obtained by other means, and that mokṣa from which abode there is no return and which cannot be attained by karma yoga, jñānayoga, or bhakti yoga, all these fruits are obtained, O great sage, by those who respectively strive for them by the performance of prapatti. The Supreme Self is attained only thereby." As stated in these passages, if prapatti adopted as a direct and independent upāya is well established, the prapanna acquires, as its reward, the capacity to meditate constantly on Nārāyaṇa as stated in Śrī Vaikuṇṭha Gadya. This is just like milk being a suitable drink for both the healthy man and the man who is in ill-health. Though meditation (upāsana or bhakti) with its (Vedic) aṅgas is not within the competency of every one, yet it is not impossible for everyone to meditate on the Lord in such measure as is possible for one with his competency, as may be seen in the passage - "May 1, "as the result of Thy will, be endowed with the power of constantly meditating on Thee!" The author of Śrī Bhāṣya, too, after teaching this upāya (prapatti) in his smaller Gadya (Śrī Raṅga Gadya) and in the longer Gadya (Śaraṇāgati Gadya) and referred to it briefly in the Vaikuṇṭhagadya, is pleased to teach this form of
 
 meditation so that the desire for the end in view may gain in strength without suffering any diminution. He does so in the passage which begins as follows: "In order to that one may continue to live the life of the spirit, one should meditate in this manner,"
 
