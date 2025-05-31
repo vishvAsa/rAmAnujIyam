@@ -12127,15 +12127,86 @@ Otro Prapatti también **es** apropiado.
 स-कल--फल-साधनम् आऩ प्रपत्तियिले अतिशङ्कै पण्णुवर्गळ्। 
 </details>
 
+<details><summary>English</summary>
+
+Some critics may entertain doubts in regard to the effectiveness of prapatti which is the means of attaining all benefits without exception,  
+when it is found that some forms of prapatti intended to secure tangible benefits in this life itself fail to do so. 
+</details>
+
+<details><summary>Español</summary>
+
+Algunos críticos **pueden entretener** dudas con respecto a la efectividad de Prapatti, que **es** el medio **para obtener** todos los beneficios sin excepción,  
+Cuando **se encuentra** que algunas formas de Prapatti, **pretendían asegurar** beneficios tangibles en esta vida en sí, **no lo hacen**.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 वेऱे सिलर् दृष्टार्थप्रपत्ति कळिले सिल फलियादॊऴियक् कण्डु सकलफलसाधनमाऩ प्रपत्तियिले अतिशङ्गै पण्णुवर्गळ्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवर्गळैयुम्  
+अल्लाद शास्त्रार्थङ्गळिऱ् पडिगळिले  
+कर्म-कर्तृ-साधन-वैगुण्यत्तै वॆळिय् इट्टुत् तॆळि-विक्क वेणुम्। 
+</details>
+
+<details><summary>English</summary>
+
+These critics should be made to understand that if there is no effect,  
+it is due to some defect in the activity (karma), in the doer (kartā) or in the means or accessories ( sadhana ),  
+just as in the case of other rites prescribed in the śāstras.  
+
+(For instance, the śāstra says,  
+“He who desires rain should perform a yajna with kariri (bamboo sprouts )".  
+If the rain does not follow the yajna,  
+it must be due to some defect in the performance of the karma, in the doer, or in the sacrificer or in the accessories or sadhanas employed in the sacrifice). 
+</details>
+
+<details><summary>Español</summary>
+
+**Se debe hacer** que estos críticos **comprendan** que si **no hay** efecto,  
+Se debe a algún defecto en la actividad (karma), en el hacedor (kartā) o en los medios o accesorios (sadhana),  
+así como en el caso de otros ritos **prescritos** en los Śāstras.
+
+(Por ejemplo, el Śāstra **dice**:  
+"El que **desea** lluvia debe **realizar** un Yajna con Kariri (brotes de bambú)".  
+Si la lluvia **no sigue** al Yajna,  
+**Debe deberse** a algún defecto en el **rendimiento** del karma, en el hacedor, o en el sacrificador o en los accesorios o sadhanas empleados en el sacrificio).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवर्गळैयुम् अल्लाद शास्त्रार्थङ्गळिऱ्पडिगळिले कर्मकर्तृसाधनवैगुण्यत्तै वॆळियिट्टुत् तॆळिविक्कवेणुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु कर्म-वैगुण्यम् आवदु -  
+महा-विश्वासादिगळ् कुऱैगै। 
+</details>
+
+<details><summary>English</summary>
+
+Defect in the performance (of prapatti) consists in the lack of intense faith, (mahavisvasa ), and the like.
+</details>
+
+<details><summary>Español</summary>
+
+El defecto en el **rendimiento** (de Prapatti) **consiste** en la falta de fe intensa, (Mahavisvasa) y similares.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु कर्मवैगुण्यमावदु; महाविश्वासादिगळ् कुऱैगै। 
+</details>
 
 
 
-Some critics may entertain doubts in regard to the effectiveness of prapatti which is the means of attaining all benefits without exception, when it is found that some forms of prapatti intended to secure taṅgīble benefits in this life itself fail to do so. These critics should be made to understand that if there is no effect, it is due to some defect in the activity (karma), in the doer (kartā) or in the means or accessories ( sadhana ), just as in the case of other rites prescribed in the śāstras. (For instance, the śāstra says, “He who desires rain should perform a yajna with kariri (bamboo sprouts )". If the rain does not follow the yajna, it must be due to some defect in the performance of the karma, in the doer, or in the sacrificer or in the accessories or sadhanas employed in the sacrifice). Defect in the performance (of prapatti) consists in the lack of intense faith, (mahavisvasa ), and the like, Defect in the doer consists in the absence of competency prescribed for prapatti. Defect in the sadhanas or accessories is the absence of such things as the teaching of the wise which is essential for the performance of prapatti in accordance with the śāstras. When prapatti is done without any of these defects, we see even the attainment of visible and (taṅgīble) fruits that have been desired as the result.
+Defect in the doer consists in the absence of competency prescribed for prapatti. Defect in the sadhanas or accessories is the absence of such things as the teaching of the wise which is essential for the performance of prapatti in accordance with the śāstras. When prapatti is done without any of these defects, we see even the attainment of visible and (taṅgīble) fruits that have been desired as the result.
 
 Yet others might contend as follows:-"Such sages as Vyāsa who are alike the expounders of all śāstras including the śāstra on prapatti state:-- "After studying all the śāstras and after frequent investigation of their meaning with the help of reason, this one truth alone becomes evident: Nārāyaṇa should always be meditated on," "Hari alone is fit to be meditated on always by people like you who are sāttvikas." " Viṣṇu " is constantly to be meditated on. He should never be forgotten." When they have arrived at this conclusion, how could it be said that, by the performance of prapatti on a single occasion, mokṣa could be attained? The passage in the Gita which says :- " Those  who perform prapatti to me alone, get over mayā which cannot be easily got over -- this passage and others like it refer to prapatti which is an aṅga or accessory to bhakti (upāsana) or meditation, Similarly such texts as the Carama śloka should be considered as prescribing prapatti with its accessories only as an aṅga of bhakti". This contention of theirs is inappropriate. (For it has been said): " Those who are incapable of meditation (upāsana or bhakti) and seek Thee as their upāya-even they cross over saṁsāra and enter Thy abode, Vaikuṇṭha,” “Whatever object is desired, by whatsoever person and whatever cannot be obtained by other means, and that mokṣa from which abode there is no return and which cannot be attained by karma yoga, jñānayoga, or bhakti yoga, all these fruits are obtained, O great sage, by those who respectively strive for them by the performance of prapatti. The Supreme Self is attained only thereby." As stated in these passages, if prapatti adopted as a direct and independent upāya is well established, the prapanna acquires, as its reward, the capacity to meditate constantly on Nārāyaṇa as stated in Śrī Vaikuṇṭha Gadya. This is just like milk being a suitable drink for both the healthy man and the man who is in ill-health. Though meditation (upāsana or bhakti) with its (Vedic) aṅgas is not within the competency of every one, yet it is not impossible for everyone to meditate on the Lord in such measure as is possible for one with his competency, as may be seen in the passage - "May 1, "as the result of Thy will, be endowed with the power of constantly meditating on Thee!" The author of Śrī Bhāṣya, too, after teaching this upāya (prapatti) in his smaller Gadya (Śrī Raṅga Gadya) and in the longer Gadya (Śaraṇāgati Gadya) and referred to it briefly in the Vaikuṇṭhagadya, is pleased to teach this form of
 
