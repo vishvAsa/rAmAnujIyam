@@ -629,7 +629,7 @@ From the following śloka  :
 <details><summary>English</summary>
 
 -from this śloka , we may infer that,  
-if there is success in achieving taṅgīble fruits  
+if there is success in achieving tangible fruits  
 by following these false śāstra s,  
 it is only for making men fall into delusion and thence into hell.
 </details>
@@ -637,7 +637,7 @@ it is only for making men fall into delusion and thence into hell.
 <details><summary>Español</summary>
 
 -from this śloka , we may infer that,  
-if there is success in achieving taṅgīble fruits  
+if there is success in achieving tangible fruits  
 by following these false śāstra s,  
 it is only for making men fall into delusion and thence into hell.
 </details>

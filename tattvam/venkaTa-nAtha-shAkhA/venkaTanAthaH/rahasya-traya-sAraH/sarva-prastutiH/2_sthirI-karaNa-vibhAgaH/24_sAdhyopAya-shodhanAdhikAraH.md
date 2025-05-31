@@ -12205,8 +12205,80 @@ El defecto en el **rendimiento** (de Prapatti) **consiste** en la falta de fe in
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Defect in the doer consists in the absence of competency prescribed for prapatti. Defect in the sadhanas or accessories is the absence of such things as the teaching of the wise which is essential for the performance of prapatti in accordance with the śāstras. When prapatti is done without any of these defects, we see even the attainment of visible and (taṅgīble) fruits that have been desired as the result.
+कर्तृ-वैगुण्यम् आवदु;  
+प्रपत्तिक्कुच् चॊऩ्ऩ अधिकारम् न्यूनम् आगै। 
+</details>
+
+<details><summary>English</summary>
+
+Defect in the doer consists in the absence of competency prescribed for prapatti.  
+</details>
+
+<details><summary>Español</summary>
+
+El defecto en el **hacedor** consiste en **ausencia** de competencia **prescrita** para Prapatti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कर्तृवैगुण्यमावदु; प्रपत्तिक्कुच् चॊऩ्ऩ अधिकारम् न्यूनमागै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साधन-वैगुण्यम् आवदु;  
+यथा-शास्त्रम् प्रपत्त्य्-अनुष्ठानत्तुक्कु मूलम् आऩ सद्-उपदेशादिगळ् अऩ्ऱिक्केय् ऒऴिगै। 
+</details>
+
+<details><summary>English</summary>
+
+Defect in the sadhanas or accessories is the absence of such things as the teaching of the wise  
+which is essential for the performance of prapatti  
+in accordance with the śāstras.  
+</details>
+
+<details><summary>Español</summary>
+
+Defecto en las sadhanas o accesorios **es** la **ausencia** de cosas como la **enseñanza** de los sabios  
+que **es** esencial para el **rendimiento** de Prapatti  
+de **acuerdo** con los Śāstras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+साधन वैगुण्यमावदु; यथाशास्त्रम् प्रपत्त्यनुष्ठानत्तुक्कु मूलमाऩ सदुपदेशादिगळऩ्ऱिक्के यॊऴिगै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव् वैगुण्यङ्गळ् अऱ प्रपत्ति पण्णिऩ बोदु  
+तत्-फलङ्गळ् आगक् कोलिऩ दृष्टङ्गळुम् सिद्धिक्कक् काणा निऩ्ऱोम्।  +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+When prapatti is done without any of these defects,  
+we see even the attainment of visible and (tangible) fruits that have been desired as the result.
+</details>
+
+<details><summary>Español</summary>
+
+Cuando Prapatti **se realiza** sin ninguno de estos defectos,  
+**Vemos** incluso el **logro** de frutas visibles y (tangibles) que **se han deseado** como resultado.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव् वैगुण्यङ्गळऱ प्रपत्तिपण्णिऩबोदु तत्फलङ्गळागक् कोलिऩ दृष्टङ्गळुम् सिद्धिक्कक् काणा निऩ्ऱोम्।  
+</details>
+
+
+
 
 Yet others might contend as follows:-"Such sages as Vyāsa who are alike the expounders of all śāstras including the śāstra on prapatti state:-- "After studying all the śāstras and after frequent investigation of their meaning with the help of reason, this one truth alone becomes evident: Nārāyaṇa should always be meditated on," "Hari alone is fit to be meditated on always by people like you who are sāttvikas." " Viṣṇu " is constantly to be meditated on. He should never be forgotten." When they have arrived at this conclusion, how could it be said that, by the performance of prapatti on a single occasion, mokṣa could be attained? The passage in the Gita which says :- " Those  who perform prapatti to me alone, get over mayā which cannot be easily got over -- this passage and others like it refer to prapatti which is an aṅga or accessory to bhakti (upāsana) or meditation, Similarly such texts as the Carama śloka should be considered as prescribing prapatti with its accessories only as an aṅga of bhakti". This contention of theirs is inappropriate. (For it has been said): " Those who are incapable of meditation (upāsana or bhakti) and seek Thee as their upāya-even they cross over saṁsāra and enter Thy abode, Vaikuṇṭha,” “Whatever object is desired, by whatsoever person and whatever cannot be obtained by other means, and that mokṣa from which abode there is no return and which cannot be attained by karma yoga, jñānayoga, or bhakti yoga, all these fruits are obtained, O great sage, by those who respectively strive for them by the performance of prapatti. The Supreme Self is attained only thereby." As stated in these passages, if prapatti adopted as a direct and independent upāya is well established, the prapanna acquires, as its reward, the capacity to meditate constantly on Nārāyaṇa as stated in Śrī Vaikuṇṭha Gadya. This is just like milk being a suitable drink for both the healthy man and the man who is in ill-health. Though meditation (upāsana or bhakti) with its (Vedic) aṅgas is not within the competency of every one, yet it is not impossible for everyone to meditate on the Lord in such measure as is possible for one with his competency, as may be seen in the passage - "May 1, "as the result of Thy will, be endowed with the power of constantly meditating on Thee!" The author of Śrī Bhāṣya, too, after teaching this upāya (prapatti) in his smaller Gadya (Śrī Raṅga Gadya) and in the longer Gadya (Śaraṇāgati Gadya) and referred to it briefly in the Vaikuṇṭhagadya, is pleased to teach this form of
 
