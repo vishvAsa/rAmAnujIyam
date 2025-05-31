@@ -12018,7 +12018,7 @@ como en la **vida** mundana y en la tradición védica.
 इप्पडिये आवृत्त्यनावृत्त्यादिगळाले विषमस्वभावङ्गळाऩ उपासनप्रपदनङ्गळ् एकफलसाधनम् अगक्कूडुमोवॆन्नुमिदुक्कुम् उत्तरम् अधिकारिविशेषत्ताले लोकवेदङ्गळिऱ्‌पडिये सिद्धम्।  
 </details>
 
-
+#### प्राप्ति-विलम्बः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुमुक्षुक्कळ् आय् स्व-तन्त्र-प्रपत्ति पण्णिऩ् अवर्गळुक्कु -  
@@ -12055,27 +12055,85 @@ de acuerdo con el momento en que las personas interesadas lo **desean** respecti
 उपायमुम् मोक्षमुम् एकरूपम् आयिरुक्कच् चेय्देयुम् संसारत्तिल् अडिच्चूट्टाल् वरुं त्वरैयिन् तारतमत्तक्कीडाग तम्-तम्-इच्छैयाले कालङ्गुऱिक्किऱदिलेऱ्ऱच् चुरुक्कत्ताले फलत्तिल् विळम्बाविळम्बङ्गळ् कूडुम्। 
 </details>
 
-
+#### भगवद्-अनुभव-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आऴ्वार्गळ्, नाथमुनिगळ् उळ्ळ्-इट्टार्क्कु  
 भगवत्-साक्षात्-कारादिगळ् उण्ड् आयिरुक्क,  
-
 सिलर्क्क् इवैय् अऩ्ऱिक्केय् ऒऴिगैक्कुक् कारणम्  
+
 प्रपत्ति-कालत्तिल् फल-सङ्कल्पत्तिल् वैषम्यम्,  
 प्रारब्ध-सु-कृत-विशेषम् आगवुम् आम्। 
 </details>
+
+<details><summary>English</summary>
+
+The reason why the Alvars, Nāthamuni and the like obtained such things as direct vision (sākṣatkāra) of Bhagavān,  
+while others who adopted prapatti had to go without it is (two fold)--  
+the difference in the desire for the fruit expressed at the time of prapatti  
+and also the difference in the past good karma which had begun to operate in this life.
+</details>
+
+<details><summary>Español</summary>
+
+La razón por la cual los Álvars, Nāthamuni y similares **obtuvieron** cosas como la **visión** directa (Sākṣatkāra) de Bhagavān,  
+mientras que otros que **adoptaron** Prapatti **tuvieron** que **ir sin** él (dos veces)- 
+La diferencia en el **deseo** de la fruta expresada en el momento de Prapatti  
+y también la diferencia en el buen karma pasado que había **comenzado a operar** en esta vida.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 आऴ्वार्गळ्, नाथमुनिकळुळ्ळिट्टार्क्कु भगवत्साक्षात्कारादिगळुण्डायिरुक्क सिलर्क्किवैयऩ्ऱिक्के यॊऴिगैक्कुक् कारणम् प्रपत्तिकालत्तिल् फल संकल्पत्तिल् वैषम्यम्, प्रारब्धसुकृत विशेषमागवुमाम्। 
 </details>
 
+#### पुनः-प्रपत्ति-सम्भावना
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुऩ्बु कोलिऩ फलांशम्  
+सकृत्-प्रपत्तियाले सिद्धम् आऩालुम्  
+कोलाद अंशत्तैप् पऱ्ऱप्  
+पिऩ्बु तीव्र-संवेगम् बिऱन्दार्क्कु पुनः प्रपत्ति-पण्णवुम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+Though that part of the fruit formerly desired is certain  
+owing to the performance of prapatti on a single occasion,  
+yet, if a person eagerly desires some other part of the fruit not desired before,  
+a further prapatti is also appropriate.
+</details>
+
+<details><summary>Español</summary>
+
+Aunque esa parte de la fruta anteriormente **deseada es segura**  
+Debido al **rendimiento** de Prapatti en una sola ocasión,  
+Sin embargo, si una persona **desea** ansiosamente alguna otra parte de la fruta **no deseada** antes,  
+Otro Prapatti también **es** apropiado.
+</details>
 
 
-The reason why the Alvars, Nāthamuni and the like obtained such things as direct vision (sākṣatkāra) of Bhagavān, while others who adopted prapatti had to go without it is (two fold)--the difference in the desire for the fruit expressed at the time of prapatti and also the difference in the past good karma which had begun to operate in this life.
+<details><summary>मूलम्</summary>
 
-Though that part of the fruit formerly desired is certain owing to the performance of prapatti on a single occasion, yet, if a person eagerly desires some other part of the fruit not desired before, a further prapatti is also appropriate.
+मुऩ्बु कोलिऩ फलांशम् सकृत्प्रपत्तियाले सिद्धमाऩालुम् कोलाद अंशत्तैप्पऱ्ऱप्पिऩ्बु तीव्रसंवेगम्बिऱन्दार्क्कुपुनःप्रपत्तिपण्णवुमाम्। 
+</details>
+
+#### दृष्टार्थ-प्रपत्ति-वैफल्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वेऱे सिलर्  
+दृष्टार्थ-प्रपत्तिगळिले सिल फलियाद् ऒऴियक् कण्डु  
+स-कल--फल-साधनम् आऩ प्रपत्तियिले अतिशङ्कै पण्णुवर्गळ्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+वेऱे सिलर् दृष्टार्थप्रपत्ति कळिले सिल फलियादॊऴियक् कण्डु सकलफलसाधनमाऩ प्रपत्तियिले अतिशङ्गै पण्णुवर्गळ्। 
+</details>
+
+
+
 
 Some critics may entertain doubts in regard to the effectiveness of prapatti which is the means of attaining all benefits without exception, when it is found that some forms of prapatti intended to secure taṅgīble benefits in this life itself fail to do so. These critics should be made to understand that if there is no effect, it is due to some defect in the activity (karma), in the doer (kartā) or in the means or accessories ( sadhana ), just as in the case of other rites prescribed in the śāstras. (For instance, the śāstra says, “He who desires rain should perform a yajna with kariri (bamboo sprouts )". If the rain does not follow the yajna, it must be due to some defect in the performance of the karma, in the doer, or in the sacrificer or in the accessories or sadhanas employed in the sacrifice). Defect in the performance (of prapatti) consists in the lack of intense faith, (mahavisvasa ), and the like, Defect in the doer consists in the absence of competency prescribed for prapatti. Defect in the sadhanas or accessories is the absence of such things as the teaching of the wise which is essential for the performance of prapatti in accordance with the śāstras. When prapatti is done without any of these defects, we see even the attainment of visible and (taṅgīble) fruits that have been desired as the result.
 
