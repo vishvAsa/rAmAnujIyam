@@ -11945,21 +11945,119 @@ y en el caso de aquellos que **desean** solo los pies de Bhagavān,
 **Son** de la naturaleza de un rito de **renuncia** (nivṛtti).+++(4)+++ 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 भगवच्छरणार्थिगळुक्कु निवृत्तिधर्मङ्गळाम्।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अर्थं नित्य-नैमित्तिकादिगळिलुम् ऒक्कुम्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+The same holds good of such things as the rites and duties which are compulsory and regularly recurrent (nitya)  
+and those which are compulsory and occasional (naimittika).
+</details>
+
+<details><summary>Español</summary>
+
+Lo mismo **ocurre** con las cosas como los ritos y deberes que **son** obligatorios y regularmente recurrentes (nitya)  
+y aquellos que **son** obligatorios y ocasionales (naimittika).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्व् अर्थं नित्यनैमित्तिकादिगळिलुम् ऒक्कुम्। 
+</details>
+
+#### आवृत्ति-भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडियेय्  
+आवृत्त्य्-अनावृत्त्य्-आदिगळाले विषम--स्व-भावङ्गळ् आऩ उपासन-प्रपदनङ्गळ्  
+एक-फल-साधनम् अगक् कूडुमोव् 
+
+ऎन्नुम् इदुक्कुम् उत्तरम्  
+अधिकारि-विशेषत्ताले लोक-वेदङ्गळिऱ्‌ पडिये सिद्धम्।  
+</details>
+
+<details><summary>English</summary>
+
+If it be asked whether  
+upasāna (bhakti) and prapatti, which are different in their nature  
+since the former has to be repeated continuously (till death)  
+and the latter to be performed only once --  
+whether these two could yield the same fruit;  
+the answer is as follows:- 
+
+It is certainly possible,  
+since it depends upon the competency of the person (adopting the upāya),  
+as in worldly life and in the Vedic tradition.
+</details>
+
+<details><summary>Español</summary>
+
+Si **se le pregunta** si  
+upasāna (bhakti) y prapatti, que **son** diferentes en su naturaleza  
+ya que el primero **tiene** que **repetirse** continuamente (hasta la muerte)  
+y este último **se realizará** solo una vez -  
+si **estos** dos **podrían producir** la misma fruta;
+La **respuesta** es la siguiente:-
+
+Ciertamente **es posible**,  
+ya que **depende** de la competencia de la persona (**adoptando** el upāya),
+como en la **vida** mundana y en la tradición védica.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिये आवृत्त्यनावृत्त्यादिगळाले विषमस्वभावङ्गळाऩ उपासनप्रपदनङ्गळ् एकफलसाधनम् अगक्कूडुमोवॆन्नुमिदुक्कुम् उत्तरम् अधिकारिविशेषत्ताले लोकवेदङ्गळिऱ्‌पडिये सिद्धम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुमुक्षुक्कळ् आय् स्व-तन्त्र-प्रपत्ति पण्णिऩ् अवर्गळुक्कु -  
+उपायमुम् मोक्षमुम् एकरूपम् आय् इरुक्कच् चेय्देयुम्  
+संसारत्तिल् अडिच्-चूट्टाल्+++(=दाहात्??)+++ वरुं त्वरैयिन् तारतमत्तक्क् ईड् आग  
+तम्-तम्-इच्छैयाले कालङ् कुऱिक्किऱदिल् एऱ्ऱच्-चुरुक्कत्ताले  
+फलत्तिल् विळम्बाविळम्बङ्गळ् कूडुम्। 
+</details>
+
+<details><summary>English</summary>
+
+To those aspirants to mukti who have adopted prapatti as an independent and direct means,  
+the upāya (means) and the end (which is) mokṣa, namely, the attainment of Bhagavān are one and the same (i. e) Bhagavān.  
+However, owing to the degree of urgency (tvarā) in the desire for mokṣa  
+which arises from the suffering of saṁsāra,  
+there may be delay or absence of delay in the attainment of the fruit  
+in accordance with the time when it is respectively desired by the persons concerned (viz. ārta and dripta).
+</details>
+
+<details><summary>Español</summary>
+
+A aquellos **aspirantes** a Mukti que **han adoptado** a Prapatti como un medio independiente y directo,  
+El upāya (medios) y el fin (que es) mokṣa, a saber, el **logro** de bhagavān es el mismo (i. e) bhagavān.  
+Sin embargo, debido al grado de urgencia (tvarā) en el **deseo** de mokṣa  
+que **surge** del **sufrimiento** de Saṁsāra,  
+**Puede haber retraso** o **ausencia** de **retraso** en el **logro** de la fruta  
+de acuerdo con el momento en que las personas interesadas lo **desean** respectivamente (a saber, ārta y dripta).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुक्कळाय् स्वतन्त्रप्रपत्ति पण्णिऩवर्गळुक्कु -  
+उपायमुम् मोक्षमुम् एकरूपम् आयिरुक्कच् चेय्देयुम् संसारत्तिल् अडिच्चूट्टाल् वरुं त्वरैयिन् तारतमत्तक्कीडाग तम्-तम्-इच्छैयाले कालङ्गुऱिक्किऱदिलेऱ्ऱच् चुरुक्कत्ताले फलत्तिल् विळम्बाविळम्बङ्गळ् कूडुम्। 
+</details>
 
 
 
-The same holds good of such things as the rites and duties which are compulsory and regularly recurrent  
-and those which are compulsory and occasional (nitya and naimittika).
 
-If it be asked whether üpasāna (bhakti) and prapatti, which are different in their nature since the former has to be repeated continuously (till death) and the latter to be performed only once -- whether these two could yield the same fruit; the answer is as follows:- "It is certainly possible, since it depends upon the competency of the person (adopting the upāya), as in worldly life and in the Vedic tradition.
-
-To those aspirants to mukti who have adopted prapatti as an independent and direct means, the upāya (means) and the end (which is) mokṣa, namely, the attainment of Bhagavān are one and the same (i. e) Bhagavān. However, owing to the degree of urgency (tvarā) in the desire for mokṣa which arises from the suffering of saṁsāra, there may be delay or absence of delay in the attainment of the fruit in accordance with the time when it is respectively desired by the persons concerned (viz.) ārta and dripta).
 
 The reason why the Alvars, Nāthamuni and the like obtained such things as direct vision (sākṣatkāra) of Bhagavān, while others who adopted prapatti had to go without it is (two fold)--the difference in the desire for the fruit expressed at the time of prapatti and also the difference in the past good karma which had begun to operate in this life.
 
