@@ -12613,7 +12613,59 @@ Esta afirmación de las suyas **es** inapropiada.
 </details>
 
 
-(For it has been said): " Those who are incapable of meditation (upāsana or bhakti) and seek Thee as their upāya-even they cross over saṁsāra and enter Thy abode, Vaikuṇṭha,” “Whatever object is desired, by whatsoever person and whatever cannot be obtained by other means, and that mokṣa from which abode there is no return and which cannot be attained by karma yoga, jñānayoga, or bhakti yoga, all these fruits are obtained, O great sage, by those who respectively strive for them by the performance of prapatti. The Supreme Self is attained only thereby." As stated in these passages, if prapatti adopted as a direct and independent upāya is well established, the prapanna acquires, as its reward, the capacity to meditate constantly on Nārāyaṇa as stated in Śrī Vaikuṇṭha Gadya. This is just like milk being a suitable drink for both the healthy man and the man who is in ill-health. Though meditation (upāsana or bhakti) with its (Vedic) aṅgas is not within the competency of every one, yet it is not impossible for everyone to meditate on the Lord in such measure as is possible for one with his competency, as may be seen in the passage - "May 1, "as the result of Thy will, be endowed with the power of constantly meditating on Thee!" The author of Śrī Bhāṣya, too, after teaching this upāya (prapatti) in his smaller Gadya (Śrī Raṅga Gadya) and in the longer Gadya (Śaraṇāgati Gadya) and referred to it briefly in the Vaikuṇṭhagadya, is pleased to teach this form of
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘शरणं त्वां **प्रपन्ना** ये  
+ध्यान-योग-**विवर्जिताः** ।  
+तेऽपि मृत्युम् **अतिक्रम्य**  
+**यान्ति** तत् वैष्णवं पदम्॥’’  
+(ब्राह्म-पुराणम्) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘शरणं त्वां **प्रपन्ना** ये  
+ध्यान-योग-**विवर्जिताः** ।  
+तेऽपि मृत्युम् **अतिक्रम्य**  
+**यान्ति** तत् वैष्णवं पदम्॥’’  
+(ब्राह्म-पुराणम्) 
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+(For it has been said): 
+
+> "Those who are incapable of meditation (upāsana or bhakti)  
+and seek Thee as their upāya-  
+even they cross over saṁsāra  
+and enter Thy abode, Vaikuṇṭha,” 
+</details>
+
+<details><summary>Español</summary>
+
+(Porque **se ha dicho**):
+
+> "Aquellos que **son** incapaces de **meditar** (upāsana o bhakti)  
+y **buscarte** como su upāya-  
+Incluso **se cruzan** sobre Saṁsāra  
+y **entra** en tu morada, Vaikuṇṭha, "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘शरणं त्वां प्रपन्ना ये ध्यानयोगविवर्जिताः । तेऽपि मृत्युमतिक्रम्य यान्ति तत् वैष्णवं पदम्॥’’(ब्राह्म-पुराणम्) ऎऩ्ऱुम्, 
+</details>
+
+
+
+
+“Whatever object is desired, by whatsoever person and whatever cannot be obtained by other means, and that mokṣa from which abode there is no return and which cannot be attained by karma yoga, jñānayoga, or bhakti yoga, all these fruits are obtained, O great sage, by those who respectively strive for them by the performance of prapatti. The Supreme Self is attained only thereby." As stated in these passages, if prapatti adopted as a direct and independent upāya is well established, the prapanna acquires, as its reward, the capacity to meditate constantly on Nārāyaṇa as stated in Śrī Vaikuṇṭha Gadya. This is just like milk being a suitable drink for both the healthy man and the man who is in ill-health. Though meditation (upāsana or bhakti) with its (Vedic) aṅgas is not within the competency of every one, yet it is not impossible for everyone to meditate on the Lord in such measure as is possible for one with his competency, as may be seen in the passage - "May 1, "as the result of Thy will, be endowed with the power of constantly meditating on Thee!" The author of Śrī Bhāṣya, too, after teaching this upāya (prapatti) in his smaller Gadya (Śrī Raṅga Gadya) and in the longer Gadya (Śaraṇāgati Gadya) and referred to it briefly in the Vaikuṇṭhagadya, is pleased to teach this form of
 
 meditation so that the desire for the end in view may gain in strength without suffering any diminution. He does so in the passage which begins as follows: "In order to that one may continue to live the life of the spirit, one should meditate in this manner,"
 
