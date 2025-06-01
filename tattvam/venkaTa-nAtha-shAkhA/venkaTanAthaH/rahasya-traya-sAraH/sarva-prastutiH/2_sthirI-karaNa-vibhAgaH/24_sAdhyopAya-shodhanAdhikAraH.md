@@ -11911,6 +11911,12 @@ pero si se **da** (sin **pensar** en tal **retorno**) simplemente como una **ofe
 लोकत्तिलुम् धर्मशीलऩायुदारऩाऩ राजावुक्कु विलैयाग एदेनुमॊण्ड्रैक् कॊडुत्ताल् पॆरुम् विलै किडैक्कवुम् अदु तन्नैये उपहारबुद्धियाले कॊडुत्ताल् वेण्डुवदॆल्लाम् किडैक्कवुम् काणानिण्ड्रोम्.
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+लोकरीत्या शङ्कितमाऩ विरोधत्तिऱ्कु लोकरीतियिऩालुम् परिहारमरुळिच्चॆय्गिऱार् लोकत्तिलुमित्यादियाल्। उदारऩाऩ राजावुक्कु इति । इन्द इरण्डु पदङ्गळाल् मेल् सॊल्लप्पोगिऱ पॆरुविलै किडैक्कुगैक्कुं वेण्डिऱ्ऱॆल्लाम् किडैक्कुगैक्कुम् हेतुक्कळाऩ गुणङ्गळ् सूचितङ्गळ्। विलैयाग - मूल्यबुद्ध्या ऎऩ्ऱबडि। उपहारबुद्धियाले कॊडुत्तालिति । उपहारम् - काणिक्कै। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -11944,6 +11950,12 @@ Cuando **son adoptados** por una persona que **espera** algún beneficio que **n
 इब् भक्ति-प्रपत्तिगळ् प्रयोजनान्तरपरऩुक्कु प्रवृत्तिधर्मकोटियिले निऱ्‌कुम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदै दार्ष्टान्तिकत्तिल् उपपादिक्किऱार् इब् भक्तिप्रपत्तिकळित्यादिना । प्रयोजनान्तरपरऩुक्कु इति । मोक्षव्यतिरिक्तैश्वर्यादिकामऩुक्कॆऩ्ऱबडि। इदऩाल् ऒरेविदमाऩ भक्तिप्रपत्तिकळ् कामनाभेदत्ताल् अर्वाचीनफलजनकङ्गळाय् प्रवृत्तिधर्मतुल्यङ्गळायुम् निऱ्कुमॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवच्-चरणार्थिगळुक्कु निवृत्ति-धर्मङ्गळ् आम्।  +++(5)+++
@@ -11972,14 +11984,20 @@ y en el caso de aquellos que **desean** solo los pies de Bhagavān,
 भगवच्चरणार्थिगळुक्कु निवृत्तिधर्मङ्गळाम्।  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+भगवच्चरणार्थिकळुक्कु निवृत्तिधर्मङ्गळामिति । भगवच्चरणप्राप्तिकामनावाऩ्गळुक्कु निवृत्तिधर्मकोटिप्रविष्टङ्गळाय् मोक्षसाधनङ्गळामॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्व् अर्थं नित्य-नैमित्तिकादिगळिलुम् ऒक्कुम्। +++(5)+++
+इव्व् अर्थं नित्य-नैमित्तिकादिगळिलुम् +++(←अनुज्ञा-कैङ्कर्येऽपि)+++ ऒक्कुम्। +++(5)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-अयम् अर्थो नित्य-नैमित्तिकादिष्व् अपि समानः । +++(5)+++
+अयम् अर्थो नित्य-नैमित्तिकादिष्व् अपि +++(←अनुज्ञा-कैङ्कर्येऽपि)+++ समानः । +++(5)+++
 </details>
 
 
@@ -12000,6 +12018,17 @@ y aquellos que **son** obligatorios y ocasionales (naimittika).
 
 इव्व् अर्थं नित्यनैमित्तिकादिगळिलुम् ऒक्कुम्। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द न्यायत्तै अन्यत्रातिदेशम् पण्णुगिऱार् इव्वर्थम् नित्यनैमित्तिकादिगळिलुमॊक्कुमिति । इव्वर्थम् – भक्तिप्रपत्तिकळुक्कु कामनाभेत्ताल् विभिन्नफलजनकत्वरूपमाऩ इव्वर्थम्।  
+आदिपदत्ताले अनुज्ञा-कैङ्कर्य-ग्रहणम्।  
+तथा च आश्रम-धर्मतया नित्यम् आऩ अग्निहोत्रादिगळुक्कुम्  
+कामना-भेदत्ताले स्वर्गादि-फल-जनकत्वमुम्  
+भक्तिद्वारा मोक्ष-फल-जनकत्वमुम् उण्डागैयाल्  
+अवैगळुम् भक्ति-प्रपत्ति-तुल्यङ्गळ् आम् ऎऩ्ऱत् आयिऱ्ऱु।  
+</details>
+
 
 #### आवृत्ति-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12062,6 +12091,14 @@ como en la **vida** mundana y en la tradición védica.
 इप्पडिये आवृत्त्यनावृत्त्यादिगळाले विषमस्वभावङ्गळाऩ उपासनप्रपदनङ्गळ् एकफलसाधनम् अगक्कूडुमोवॆन्नुमिदुक्कुम् उत्तरम् अधिकारिविशेषत्ताले लोकवेदङ्गळिऱ्‌पडिये सिद्धम्।  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि ऒऩ्ऱुक्के विषममाऩ फलद्वयसाधनत्वासम्भव शङ्गैयैप् परिहरित्तु इऩि विषमङ्गळाऩ भक्तिप्रपत्तिकळिरण्डिऱ्कुम् एकफलसाधनत्वासम्भव शङ्गैयै अधिकारिभेदत्ताले परिहरिक्किऱार् इप्पडिये इत्यादिना । अधिकारि विशेषत्ताले इति । सकिञ्चनाकिञ्चनरूपाधिकारिविशेषत्ताले ऎऩ्ऱबडि। लोकवेदङ्गळिऱ्पडिये सिद्धमिति । शक्ता-शक्तभेदेन लोकत्तिल् कृषिवाणिज्यङ्गळ् एकफलसाधकङ्गळागवुम्, वेदत्तिल् वारुणमानसस्नानङ्गळ् एकफलसाधनङ्गळागवुम् सिद्धमॆऩ्ऱु करुत्तु।
+
+इङ्गु वाणिज्यमुम् वारुणस्नानमुम् शक्ताधिकारिकमिऱे। 
+</details>
+
+
 #### प्राप्ति-विलम्बः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12109,6 +12146,12 @@ de acuerdo con el momento en que las personas interesadas lo **desean** respecti
 उपायमुम् मोक्षमुम् एकरूपम् आयिरुक्कच् चेय्देयुम् संसारत्तिल् अडिच्चूट्टाल् वरुं त्वरैयिन् तारतमत्तक्कीडाग तम्-तम्-इच्छैयाले कालङ्गुऱिक्किऱदिलेऱ्ऱच् चुरुक्कत्ताले फलत्तिल् विळम्बाविळम्बङ्गळ् कूडुम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मुमुक्षुक्कळाय् स्वतन्त्रप्रपत्तिनिष्ठर्गळाऩ आर्तदृप्तर्गळिरुवर्क्कुम् भगवाऩ् ऒरुवऩे उबायमागवुम् फलमागवुमिरुक्क फलत्तिल् विळम्बाविळम्बङ्गळ्गूडुवदॆङ्ङऩे यॆऩ्गिऱ शङ्गैयैप् परिहरिक्किऱार् मुमुक्षुक्कळायित्यादिना । संसारत्तिल् अडिच्चूट्टाल् वरुमिति । अडिच्चूडु - ग्रीष्मकालत्तिल् आदित्यकिरणतप्तङ् गळाऩ पांसुक्कळिल् नडक्कुम्बोदु वरुम् पादोष्ण सदृशमाऩ संसारदाबमॆऩ्ऱ पडि। त्वरैयिऩ् तारतम्यत्तुक्कीडाग इत्यादि । संसारतापमान्द्यात्त्वरामान्द्यमुम्, तदाधिक्यात्त्वराधिक्यमुम्, त्वरामान्द्यत्ताले फलत्तिऱ्कु विप्रकृष्टकालत्तै अवधित्वेन सङ्गल्बित्ताल् फल-विळम्बमुम्, त्वराधिक्यत्ताले समीबगालत्तै अवधित्वेन सङ्गल्बित्ताल् फलाविळम्बमुम् उपपन्नमागलामॆऩ्ऱु करुत्तु।
+</details>
+
+
 #### भगवद्-अनुभव-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12151,6 +12194,12 @@ y también la diferencia en el buen karma pasado que había **comenzado a operar
 आऴ्वार्गळ्, नाथमुनिकळुळ्ळिट्टार्क्कु भगवत्साक्षात्कारादिगळुण्डायिरुक्क सिलर्क्किवैयऩ्ऱिक्के यॊऴिगैक्कुक् कारणम् प्रपत्तिकालत्तिल् फल संकल्पत्तिल् वैषम्यम्, प्रारब्धसुकृत विशेषमागवुमाम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि ऒऩ्ऱुक्कु विषमफलसाधनत्वानुपपत्तियुम्, विषममाऩ इरण्डुक्कु एकफलसाधनत्वानुपपत्तियुम्, प्रपन्नर्गळुक्कुळ्ळे फलविळम्बाविळम्बानुपपत्तियुम् परिहृतङ्गळ्। इऩि प्रसङ्गात् इङ्गिरुन्द कालत्तिल् सिल प्रपन्नर्गळुक्कु भगवत्साक्षात्कारम् वरुवदुम् सिलरुक्कु वाराददुमागिऱ वैषम्यत्तिऱ्कुक् कारणमरुळिच्चॆय्गिऱार् आऴ्वार्गळित्यादिना । भगवत्साक्षात्कारादिगळिति । आदिपदत्ताल् अदऩालुण्डाऩ आनन्दादिगळ् सॊल्लप्पडुगिऱदुगळ्। प्रपत्तिकालत्तिल् फलसङ्कल्पत्तिल् वैषम्यम्, प्रारब्धसुकृतविशेषमागवुमामिति । एतद्देहावसानपर्यन्तविशदतमभगवत्साक्षात्कारपूर्वकं तदवसाने मोक्षार्थं आत्मरक्षाभरसमर्पणं करिष्ये ऎऩ्ऱु सङ्गल्बित्तु प्रपत्ति पण्णिऩवर्गळुक्कु इङ्गिरुन्द कालत्तिलेये साक्षात्कारम् वरुम्। अप्पडि यऩ्ऱिक्के देहावसाने मोक्षसिद्धियै मात्तिरम् सङ्गल्बित्तु प्रपत्ति पण्णिऩवर्गळुक्कु इङ्गिरुन्द कालत्तिल् भगवत्साक्षात्कारम् वारादु। अतिशयितप्रारब्ध सुकृतशालिकळुक्कु प्रपत्तिकालत्तिल् सङ्गल्बमिऩ्ऱिये भगवत्साक्षात्कारम् इङ्गेये उण्डागुमॆऩ्ऱु तिरुवुळ्ळम्।
+</details>
+
+
 #### पुनः-प्रपत्ति-सम्भावना
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12191,6 +12240,18 @@ Otro Prapatti también **es** apropiado.
 मुऩ्बु कोलिऩ फलांशम् सकृत्प्रपत्तियाले सिद्धमाऩालुम् कोलाद अंशत्तैप्पऱ्ऱप्पिऩ्बु तीव्रसंवेगम्बिऱन्दार्क्कुपुनःप्रपत्तिपण्णवुमाम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सिंहावलोकन न्यायेन कीऴ्च्चॊऩ्ऩ मन्दमाऩ आर्तियैयुडैय दृप्तप्रपन्नऩुक्कु प्रपत्त्यनन्तरम् आर्त्यतिशयत् ताले फलत्तिल् त्वरैयुण्डाऩाल् पूर्वप्रपत्तियिल् देहावसानपर्यन्तम् अभ्युपगतमाऩ प्रारब्धांशमुम् कऴियवेण्डुमॆऩ्ऱु मऱुबडियुम् ऒरु प्रपत्ति पण्णलामॆऩ्गिऱार् मुऩ्बु कोलिऩ फलांशमित्यादिना । कोलाद वंशत्तैप् पऱ्ऱ इति । इदऩाल् पूर्वप्रपत्तिक्कुम् इप्पोदु सॆय्युम् आर्तप्रपत्तिक्कुम् फलभेदमिरुप्पदाल् 
+
+> यद्-अर्थन् तु कृतो न्यासस्  
+तदर्थं न पुनःक्रिया’’ 
+
+ऎऩ्गिऱ वचनविरोधमिल्लैयॆऩ्ऱु सूचितम्। 
+</details>
+
+
+
 #### दृष्टार्थ-प्रपत्ति-वैफल्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12223,6 +12284,12 @@ Cuando **se encuentra** que algunas formas de Prapatti, **pretendían asegurar**
 
 वेऱे सिलर् दृष्टार्थप्रपत्ति कळिले सिल फलियादॊऴियक् कण्डु सकलफलसाधनमाऩ प्रपत्तियिले अतिशङ्गै पण्णुवर्गळ्। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि दृष्टार्थमाऩ सिल प्रपत्ति फलियामैयैक् कण्डु सिलर्क्कु सकलफलसाधनमाऩ प्रपत्तिविषयत्तिले अतिशङ्गै युण्डागु मॆऩ्ऱु सॊल्लि, अदै परिहरिक्कवेण्डिय प्रकारत्तै यरुळिच्चॆय्गिऱार् वेऱे सिलरित्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12268,6 +12335,11 @@ Si la lluvia **no sigue** al Yajna,
 अवर्गळैयुम् अल्लाद शास्त्रार्थङ्गळिऱ्पडिगळिले कर्मकर्तृसाधनवैगुण्यत्तै वॆळियिट्टुत् तॆळिविक्कवेणुम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अल्लाद शास्त्रङ्गळिऱ्पडिगळिले इति । अल्लाद शास्त्रङ्गळ् - प्रपत्तिभिन्नमाऩ ‘‘वृष्टिकामः कारीर्या यजेत’’ ‘‘पुत्रकामः पुत्रेष्ट्या यजेत’’ इत्यादि शास्त्रङ्गळ्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12297,6 +12369,12 @@ El defecto en el **rendimiento** (de Prapatti) **consiste** en la falta de fe in
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रपत्तिविषयत्तिल् कर्मवैगुण्यादिगळै क्रममागक् काट्टुगिऱार् इङ्गु कर्मवैगुण्यमावदु इत्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्तृ-वैगुण्यम् आवदु;  
@@ -12323,6 +12401,12 @@ El defecto en el **hacedor** consiste en **ausencia** de competencia **prescrita
 
 कर्तृवैगुण्यमावदु; प्रपत्तिक्कुच् चॊऩ्ऩ अधिकारम् न्यूनमागै। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अधिकारम् न्यूनमागै - आकिञ्चन्यानन्यगतित्वादिगळिल् कुऱैवु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12356,6 +12440,11 @@ de **acuerdo** con los Śāstras.
 <details><summary>मूलम्</summary>
 
 साधन वैगुण्यमावदु; यथाशास्त्रम् प्रपत्त्यनुष्ठानत्तुक्कु मूलमाऩ सदुपदेशादिगळऩ्ऱिक्के यॊऴिगै। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सदुपदेशादिगळिति । उपदेशत्तिऱ्कु सत्त्वमावदु परम्पराप्राप्तत्वम्। आदिपदत्ताल् गुणवदाचार्यवत्वम् विवक्षितम्। 
 </details>
 
 
@@ -12392,6 +12481,13 @@ Cuando Prapatti **se realiza** sin ninguno de estos defectos,
 इव् वैगुण्यङ्गळऱ प्रपत्तिपण्णिऩबोदु तत्फलङ्गळागक् कोलिऩ दृष्टङ्गळुम् सिद्धिक्कक् काणा निऩ्ऱोम्।  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+वैगुण्यत्रयमिल्लादबोदु दृष्टार्थप्रपत्तियुम् सफलमाग दृष्टमॆऩ्गिऱार् इव् वैगुण्यङ्गळऱ प्रपत्ति पण्णिऩबोदु इत्यादिना ।  
+</details>
+
+
+
 ## चरमश्लोकेन स्वतन्त्र-प्रपत्तेर् अपि विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12408,6 +12504,24 @@ Cuando Prapatti **se realiza** sin ninguno de estos defectos,
 > 
 > ऎऩ्ऱुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्ये केचित् 
+
+> प्रपत्ति-शास्त्रान्तर-निर्विशेषं  
+सर्व-शास्त्राणां प्रवर्तकेषु व्यासादिषु, 
+> 
+> > ६६‘‘आलोड्य सर्व-शास्त्राणि  
+विचार्य च पुनः पुनः ।  
+इदम् एकं सु निष्पन्नं  
+**ध्येयो** नारायणस् सदा॥’’  
+(भारतम् आनुशासनिग-पर्व १७८-११) 
+> 
+> इति, 
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -12442,6 +12556,18 @@ Nārāyaṇa siempre **debe ser meditado** ",
 वेऱे सिलर् प्रपत्तिशास्त्रत्तोडु शास्त्रान्तरङ्गळोडु वासियऱ सर्वशास्त्रङ्गळुक्कुम् प्रवर्तकराऩ व्यासादिगळ् ६६‘‘आलोड्य सर्वशास्त्राणि विचार्य च पुनः पुनः । इदमेकं सु निष्पन्नं ध्येयो नारायणस्सदा’’(भारतम् आनुशासनिग-पर्व १७८-११) ऎऩ्ऱुम् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सर्वशास्त्रप्रवर्तकर्गळाऩ व्यासादिगळ् ‘‘ध्येयो नारायणस्सदा’’ ऎऩ्ऱु असकृदावृत्तज्ञानत्तिऱ्के मोक्षसाधनत्वत्तैच् चॊल्लियिरुप्पदाल् अनावृत्तमाऩ प्रपत्तिक्कु मोक्षसाधनत्वम् कूडादु। चरमश्लोकादिगळिल् सर्वपापनिवर्तकमागच् चॊऩ्ऩ प्रपत्ति 
+
+> ‘‘मामेव ये प्रपद्यन्ते  
+मायामेतां तरन्ति ते’’ 
+
+इत्यादिगळिऱ्पडिये भक्तिक्कु अङ्गभूतमाय्क्कॊण्डु परम्परया सर्वपापनिवर्तकमॆऩ्ऱे सॊल्ल वेण्डुमॆऩ्गिऱ वेऱे सिलरुडैय पक्षत्तै अनुवदित्तुप् परिहरिक्किऱार्वेऱे सिलरित्यादिना ।
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > ६७‘‘हरिर् एकस् सदा ध्येयो  
@@ -12449,6 +12575,15 @@ Nārāyaṇa siempre **debe ser meditado** ",
 > 
 > ऎऩ्ऱुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ६७‘‘हरिर् एकस् सदा ध्येयो  
+भवद्भिस् सत्त्व-संस्थितैः’’(हरि-वंशम् १३२-१४) 
+> 
+> इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -12476,12 +12611,18 @@ Nārāyaṇa siempre **debe ser meditado** ",
 > ऎऩ्ऱुम्  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘स्मर्तव्यस् सततं विष्णुः’’(हरि-वंशम् १३२-१४) 
+> 
+> इति च  
+</details>
+
 <details><summary>English</summary>
 
 > > " Viṣṇu is constantly to be meditated on.  
 He should never be forgotten."  
 >
-
 </details>
 
 <details><summary>Español</summary>
@@ -12503,6 +12644,13 @@ Nunca debería **ser olvidado** ".
 > इप् पडि निष्कर्षिया निऱ्क  
 सकृत्-प्रपत्ति-मात्रत्ताले मोक्षम् आगक् कूडुमो; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> निष्कर्षत्सु सत्सु  
+सकृत्-प्रपत्ति-मात्रेण मोक्षः कथं युज्येत ?  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -12527,10 +12675,23 @@ Nunca debería **ser olvidado** ".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > ‘‘मामेव ये प्रपद्यन्त’’(गीता ७-१४) 
+> > ‘‘मामेव ये प्रपद्यन्ते  
+(मायामेतां तरन्ति ते।)’’  
+(गीता ७-१४) 
 >
 > इत्यादिगळ् अङ्ग-प्रपत्ति-विषयङ्गळ् आऩाऱ् पोले 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘मामेव ये प्रपद्यन्ते  
+(मायामेतां तरन्ति ते।)’’  
+(गीता ७-१४) 
+>
+> इत्यादीनाम् अङ्ग-प्रपत्ति-विषयकत्ववत्  
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -12570,6 +12731,14 @@ que **es** un AṅGA o accesorio para Bhakti (upāsana) o **meditación**.
 ऎऩ्ऱु सॊल्लुवर्गळ्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> चरम-श्लोकादीनां स-परिकर-प्रपत्तेर् भक्त्य्-अङ्गतया विधायकत्वं हि युक्तम्  
+
+
+इत्य् आचक्षते । 
+</details>
+
 <details><summary>English</summary>
 
 > Similarly such texts as the Carama śloka should be considered as prescribing prapatti with its accessories only as an aṅga of bhakti". 
@@ -12596,6 +12765,12 @@ que **es** un AṅGA o accesorio para Bhakti (upāsana) o **meditación**.
 इदुवुम् अनुपपन्नम्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् अप्य् अनुपपन्नम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 This contention of theirs is inappropriate. 
@@ -12610,6 +12785,11 @@ Esta afirmación de las suyas **es** inapropiada.
 <details><summary>मूलम्</summary>
 
 इदुवुमनुपपन्नम्; 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदुवुमनुपपन्नमित्यादि परिहारपरम्। 
 </details>
 
 
@@ -12662,14 +12842,437 @@ y **entra** en tu morada, Vaikuṇṭha, "
 ‘‘शरणं त्वां प्रपन्ना ये ध्यानयोगविवर्जिताः । तेऽपि मृत्युमतिक्रम्य यान्ति तत् वैष्णवं पदम्॥’’(ब्राह्म-पुराणम्) ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शरणमित्यादि । ध्यानयोगविवर्जितर्गळाय् ऎवर्गळ् उऩ्ऩैये मोक्षार्थमाग शरणमागप्पऱ्ऱुगिऱार्गळो अवर्गळुम् संसारत्तै अतिक्रमित्तु वैष्णवपरमपदत्तैयडैगिऱार्गळॆऩ्ऱु श्लोकार्थम्। इदिल् भक्तियोगत्तै अनुष्ठिक्कादवर्गळुम् अनावृत्तमाऩ शरणागतियाले मोक्षत्तैयडैगिऱार्गळॆऩ्ऱु सॊल्लियिरुप्पदालुम्, इदै अङ्गप्रपत्तियागच्चॊल्ल वऴियिल्लामैयालुम्, स्वतन्त्रप्रपत्तिक्के साक्षान्मोक्ष साधनत्वत्तै अकामऩुम् ऒप्पुक्कॊळ्ळवेणुमॆऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यद् येन काम-कामेन  
+**न साध्यं** साधनान्तरैः ।  
+मुमुक्षुणा यत् सांख्येन  
+योगेन न च भक्तितः ॥  
+**प्राप्यते** परमं धाम  
+यतो **नावर्तते** यतिः ।  
+तेन **तेनाप्यते** तत् तन्  
+**न्यासेनैव** महामुने ॥  
+परमात्मा च तेनैव  
+**साध्यते** पुरुषोत्तमः। ’’  
+(अहिर्बुध्न्य-संहिता ३७-२५) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यद् येन काम-कामेन  
+**न साध्यं** साधनान्तरैः ।  
+मुमुक्षुणा यत् सांख्येन  
+योगेन न च भक्तितः ॥  
+**प्राप्यते** परमं धाम  
+यतो **नावर्तते** यतिः ।  
+तेन **तेनाप्यते** तत् तन्  
+**न्यासेनैव** महामुने ॥  
+परमात्मा च तेनैव  
+**साध्यते** पुरुषोत्तमः। ’’  
+(अहिर्बुध्न्य-संहिता ३७-२५) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+> “Whatever object is desired, by whatsoever person  
+and whatever cannot be obtained by other means,  
+and that mokṣa from which abode there is no return  
+and which cannot be attained by karma yoga, jñānayoga, or bhakti yoga,  
+all these fruits are obtained, O great sage,  
+by those who respectively strive for them by the performance of prapatti.  
+The Supreme Self is attained only thereby." 
+</details>
+
+<details><summary>Español</summary>
+
+> “Cualquiera que **sea** el objeto deseado, por cualquier persona  
+y lo que **no se puede obtener** por otros medios,  
+y ese mokṣa de la cual no hay retorno  
+y que **no puede ser logrado** por Karma Yoga, Jñānayoga o Bhakti Yoga,  
+**Se obtienen** todas estas frutas, oh gran salvia,  
+por aquellos que respectivamente **se esfuerzan** por ellos por el desempeño de Prapatti.  
+El **Ser** Supremo **se alcanza** solo de ese modo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यद्येन कामकामेन न साध्यं साधनान्तरैः । मुमुक्षुणा यत् सांख्येन योगेन न च भक्तितः ॥ प्राप्यते परमं धाम यतो नावर्तते यतिः । तेन तेनाप्यते तत्तन्न्यासेनैव महामुने ॥ परमात्मा च तेनैव साध्यते पुरुषोत्तमः’’(अहिर्बुध्न्य-संहिता ३७-२५) ऎऩ्ऱुम् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+यद्येनेति । कामकामेन येन साधनान्तरैः यत्फलं न साध्यं, येन मुमुक्षुणा कर्मयोग ज्ञानयोग भक्तियोगैः मोक्षाख्यं यत्फलं न साध्यं तेन – कामकामऩालुम्, तेन च – मुमुक्षुवालुम् तत् – प्रयोजनान्तर-मुम्, तच्च – मोक्षमुम्, न्यासेनैवाप्यते – न्यासत्तालेये यडैयप्पडुगिऱदु। पुरुषोत्तमः परमात्मा च तेनैव साध्यते ऎऩ्बदु श्लोकार्थम्। इन्द श्लोकङ्गळिल् ‘‘न च भक्तितः’’ ऎऩ्ऱुम् ‘‘न्यासेनैव’’ ऎऩ्ऱुम् सॊल्लियिरुप्पदाल् स्वतन्त्रप्रपत्तिक्के साक्षान्मोक्षसाधनत्वम् सॊल्लप् पट्टदॆऩ्ऱु तिरुवुळ्ळम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदि-वचनङ्गळाले  
+स्व-तन्त्र-प्रपत्ति सिद्धित्ताल्  
+इन्-निष्ठैय्-उडैयवऩुक्कु  
+श्री-वैकुण्ठ-गद्यत्तिऱ् पडियिले  
+
+स्वयं-फलम् आग 
+
+> ‘‘ध्येयो नारायणस् सदा’’  
+(भारतम् आनुशासनिग-पर्व १७८-२१) 
+
+ऎऩ्गिऱव् अर्थत्तिल्  
+तऩ्-विऴुक्+++(=पतत्)+++-काड्+++((प्रत्ययः)=मात्रम्)+++-अन्वयत्तुक्कु विरोधम् इल्लै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आदिभिर् वचनैः  
+स्व-तन्त्र-प्रपत्तेः सिद्धौ एतन्-निष्ठावतः  
+श्री-वैकुण्ठ-गद्योक्त-रीत्या स्वयं फल-रूपेण  
+
+> ‘‘ध्येयो नारायणस् सदा’’  
+(भारतम् आनुशासनिग-पर्व १७८-२१) 
+
+इत्य्-उक्ते ऽर्थे  
+स्वतः-प्राप्तांशान्वियस्य विरोधो नास्ति । 
+</details>
+
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+उपासन-शक्तौ तु ध्यानस्य +उपायरूपेणान्वयः,  
+प्रपन्ने हि फल-रूपेण। 
+</details>
 
 
 
-“Whatever object is desired, by whatsoever person and whatever cannot be obtained by other means, and that mokṣa from which abode there is no return and which cannot be attained by karma yoga, jñānayoga, or bhakti yoga, all these fruits are obtained, O great sage, by those who respectively strive for them by the performance of prapatti. The Supreme Self is attained only thereby." As stated in these passages, if prapatti adopted as a direct and independent upāya is well established, the prapanna acquires, as its reward, the capacity to meditate constantly on Nārāyaṇa as stated in Śrī Vaikuṇṭha Gadya. This is just like milk being a suitable drink for both the healthy man and the man who is in ill-health. Though meditation (upāsana or bhakti) with its (Vedic) aṅgas is not within the competency of every one, yet it is not impossible for everyone to meditate on the Lord in such measure as is possible for one with his competency, as may be seen in the passage - "May 1, "as the result of Thy will, be endowed with the power of constantly meditating on Thee!" The author of Śrī Bhāṣya, too, after teaching this upāya (prapatti) in his smaller Gadya (Śrī Raṅga Gadya) and in the longer Gadya (Śaraṇāgati Gadya) and referred to it briefly in the Vaikuṇṭhagadya, is pleased to teach this form of
+<details><summary>English</summary>
 
-meditation so that the desire for the end in view may gain in strength without suffering any diminution. He does so in the passage which begins as follows: "In order to that one may continue to live the life of the spirit, one should meditate in this manner,"
+As stated in these passages,  
+if prapatti adopted as a direct and independent upāya is well established,  
+the prapanna acquires, as its reward,  
+the capacity to meditate constantly on Nārāyaṇa as stated in Śrī Vaikuṇṭha Gadya.  
+</details>
+
+<details><summary>Español</summary>
+
+Como **declarado** en estos pasajes,  
+Si Prapatti **adoptado** como un upāya directo e independiente **está** bien **establecido**,  
+La Prapanna **adquiere**, como su **recompensa**,  
+La **capacidad** de **meditar** constantemente en Nārāyaṇa como **se indica** en Śrī Vaikuṇṭha Gadya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिवचनङ्गळाले स्वतन्त्रप्रपत्ति सिद्धित्ताल् इन्निष्ठैयुडैयवऩुक्कु श्रीवैकुण्ठगद्यत्तिऱ्पडियिले स्वयंफलमाग ‘‘ध्येयो नारायणस्सदा’’(भारतम् आनुशासनिग-पर्व १७८-२१) ऎऩ्गिऱवर्थत्तिल् तऩ् विऴुक्काडन्वयत्तुक्कु विरोधमिल्लै। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+स्वतन्त्रप्रपत्तिसिद्धित्तालिति ।  
+अङ्ग-प्रपत्तितया नयिप्पिक्क मुडियाद पडि  
+स्वतन्त्र प्रपत्ति सिद्धित्ताल् ऎऩ्ऱ बडि।  
+
+> इप्-पडियागिल्  
+सर्वाधिकारिक्कुम् साधारणम् आग  
+‘‘ध्येयो नारायणस्सदा’’  
+ऎऩ्ऱु निरन्तर-चिन्तऩैयै विधिक्किऱ वचनत्तुक्कु गतिय्? 
+
+ऎऩ्ऩव्  अरुळिच्चॆय्गिऱार् इन् निष्ठैयै युडैयवऩुक्कु इत्यादिना ।  
+तऩ् विऴुक्काडन्वयत्तिऱ्कु विरोधमिल्लैयिति ।  
+तऩ् विऴुक्काडन्वयत्तिऱ्कु – स्वतः प्राप्तमाऩ अन्वयत्तुक्कु, उपाय-फल-साधारणम् आग  
+‘‘ध्येयो नारायणस् सदा’’ ऎऩ्ऱु विहितम् आऩ ध्यानरूपार्थत्तिल्  
+शक्तऩुक्कु उपायतया ऽन्वयत्तुक्कुम्,  
+अशक्तऩुक्कु फलतया ऽन्वयत्तिऱ्कुम् विरोधम् इल्लैय् ऎऩ्ऱबडि। +++(4)+++  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु अरोगऩुक्कुम् आरोग्यार्थिक्कुम् क्षीरं सेव्यम् ऎऩ्ऱदोड् ऒक्कुम्। +++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् 
+
+> अ-रोगेणारोग्यार्थिना च क्षीरं सेव्यम् 
+
+इत्य् उक्त्या तुल्यम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+This is just like milk being a suitable drink for both the healthy man and the man who is in ill-health. 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **es** como la leche **es** una bebida adecuada  
+tanto para el hombre sano  
+como para el hombre que **está** en mal estado.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु अरोगऩुक्कुम् आरोग्यार्थिक्कुम् क्षीरं सेव्यम् ऎऩ्ऱदोडॊक्कुम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> ऒरु वाक्यत्तिल् विहितम् आऩ ओरर्थत्तिल्  
+उपायतया ऒरुवऩुक्कुम्  
+फलतया ऒरुवऩुक्कुम्  
+अन्वयम् कण्डद् उण्डोव्?  
+
+ऎऩ्ऩ दृष्टान्त-प्रदर्शनत्ताले  
+इप्-पडि उण्ड् ऎऩ्गिऱार्  
+इदु अरोगऩुक्कुम् आरोग्यार्थिक्कुम् क्षीरम् सेव्यमॆऩ्ऱदोडॊक्कुमिति । वैद्यशास्त्रत्तिल् क्षीरम् सेव्यमॆऩ्ऱु क्षीरसेवै अरोगऩुक्कुम्, आरोग्यार्थिक्कुम् तन्त्रेण विधिक्कप्पट्टदॆऩ्ऱु तिरुवुळ्ळम्।
+</details>
+
+
+
+### अ-वैदिक-ध्यानाधिकारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साङ्गम् आऩ ध्यान-विशेषम् सर्वाधिकारम् अऩ्ऱेय् आगिलुम्  
+भगवद्-विषयत्तिल् अधिकारानुरूपम् आग वऱियल् आम् अळवुम् 
+
+> ’’निरन्तरम् निऩैप्पद् आग  
+नी निऩैक्क वेण्डुमे’’  
+(तिरुच्चन्दविरुत्तम् १०१) 
+
+इत्य्-आदिगळिऱ् पडिये  
+अनुसन्धिक्कवुङ् कुऱैय् इल्लै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+साङ्गस्य ध्यान-विशेषस्य सर्वाधिकारकत्वाभावेऽपि,  
+भगवद्-विषये ऽधिकारानुरूपं  
+यावज् ज्ञातुं शक्यम्,  
+तावत्-पर्यन्तस्य 
+
+> "निरन्तरं यथा चिन्तनं स्यात्  
+तथा त्वया संकल्पनीयम्" 
+
+इत्य्-आद्य्-उक्त-रीत्या  
+ऽनुसन्धानस्य न क्षतिः । 
+</details>
+
+
+<details><summary>English</summary>
+
+Though meditation (upāsana or bhakti) with its (Vedic) aṅgas is not within the competency of every one,  
+yet it is not impossible for everyone to meditate on the Lord  
+in such measure as is possible for one with his competency,  
+as may be seen in the passage - 
+
+> "May I, as the result of Thy will,  
+be endowed with the power of constantly meditating on Thee!" 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque la **meditación** (upāsana o bhakti) con sus aṅgas (védicos) **no está** dentro de la competencia de cada uno,  
+Sin embargo, **no es** imposible que todos **mediten** en el Señor  
+En la medida que sea posible para su competencia,  
+Como **se puede ver** en el pasaje -
+
+> "¿Puedo, **como** resultado de tu voluntad,
+¡Estar dotado del poder de meditar constantemente en ti! "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+साङ्गमाऩ ध्यानविशेषम् सर्वाधिकारमऩ्ऱेयागिलुम् भगवद्विषयत्तिल् अधिकारानुरूपमाग वऱियलामळवुम् ’’निरन्दरम् निऩैप्पदाग नी निऩैक्क वेण्डुमे’’(तिरुच्चन्दविरुत्तम् १०१) इत्यादिगळिऱ्पडिये अनुसन्धिक्कवुङ् गुऱैयिल्लै। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> अत्रैवर्णिकर्गळिलुम् स्व-तन्त्र-प्रपत्ति-निष्ठर्गळ् उण्डागैयाल्  
+अवर्गळुक्कु अष्टाङ्गभक्तियिल् अधिकारम् इल्लैयागैयाल्  
+फलतयापि अदिल् अन्वयम् कूडादे 
+
+ऎऩ्ऩव् अरुळिच्चॆय्गिऱार्  
+साङ्गमाऩ ध्यानविशेषम् सर्वाधिकारमऩ्येऱागिलुमिति । 
+
+अधिकारानुरूपमाग - त्रैवर्णिकत्वात्रैवर्णिकत्व-रूपाधिकारानुगुणम् आग, 
+
+निरन्तरम् इति ।  
+निरन्दरम् - सर्वकालत्ति लुम्, निऩैप्पदाग - उऩ्ऩै ध्यानम् पण्णुम्बडि। नी निऩैक्कवेण्डुमे - नी सङ्कल्पिक्कवेण्डुमॆऩ्गै।  
+
+अनुसन्धिक्कवुम् कुऱैयिल्लै इति ।  
+त्रैवर्णिकर् आगिल् स्वाधिकारानुगुणम् आग अष्टाङ्ग-योग-रूपानुसन्धानत्तैच् चॆय्यवुम्,  
+अत्रैवर्णिकरागिल् स्वाधिकारानुरूपमाग प्रेम-भक्ति-रूपानुसन्धानत्तैच् चॆय्यवुम् कुऱैव् इल्लैय् ऎऩ्ऱ बडि।  
+</details>
+
+
+### रामानुजाभिमतता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भाष्य-काररुम्  
+इव्व्+++(→प्रपत्ति)+++-उपाय-निष्ठैयै सिऱिय गद्यत्तिलुम्, पॆरिय गद्यत्तिलुम् अरुळिच् चॆय्दु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२२५]] 
+
+श्रीभाष्यकारो ऽप्य् एतद्+++(→प्रपत्ति)+++-उपाय-निष्ठां  
+लघु-गद्ये पृथु-गद्ये च प्रतिपाद्य  
+</details>
+
+
+<details><summary>English</summary>
+
+The author of Śrī Bhāṣya, too,  
+after teaching this upāya (prapatti) in his smaller Gadya (Śrī Raṅga Gadya) and in the longer Gadya (Śaraṇāgati Gadya)  
+</details>
+
+<details><summary>Español</summary>
+
+El autor de Śrī Bhāṣya también,
+Después de **enseñar** esto upāya (Prapatti) en su gadya más pequeño (Śrī Raṅga Gadya) y en el más largo Gadya (Śaraṇāgati Gadya)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भाष्यकाररुमिव्वुपायनिष्ठैयै सिऱिय गद्यत्तिलुम् पॆरिय गद्यत्तिलुमरुळिच्चॆय्दु 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+श्रीभाष्यकारर् शरणागति-गद्यत्तिल् स्व-तन्त्र-प्रपत्ति-निष्ठैयै विस्तारम् आगवुम्, श्रीरङ्गगद्यत्तिल् सङ्ग्रहमागवुम् अरुळिच् चॆय्दु इन्द निष्ठैयैयुडैयवऩुक्के ‘‘ध्येयो नारायणस्सदे’’ त्यादिगळिल् विहितमाऩ ध्यानविशेषत्तै प्रत्यहमनुस्मरणीयमाग अरुळिच्चॆय्दारॆऩ्गिऱार् भाष्यकाररुमित्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रीवैकुण्ठ-गद्यत्तिलुम् इन्-निष्ठैयैच् चुरुङ्गक् काट्टि 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-वैकुण्ठ-गद्यय् इमां निष्ठां संक्षेपेण प्रदश्ये 
+</details>
+
+
+<details><summary>English</summary>
+
+and referring to it briefly in the Vaikuṇṭhagadya,  
+</details>
+
+<details><summary>Español</summary>
+
+y **refiriéndose** brevemente en el Vaikuṇṭhagadya,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीवैकुण्ठगद्यत्तिलुम् इन्निष्ठैयैच् चुरुङ्गक्काट्टि 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इरुन्द नाळ् प्राप्य-रुचि कुलैयादे वळर्न्दु  
+पोरुम् बडिक्क् ईड् आऩ अनुसन्धान-विशेषत्तै 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+जीवन-काले प्राप्य-रुचिर् यथा न विनश्येत्,  
+प्रत्युत वर्धेत --  
+तद्-अनुगुणम् अनुसन्धान-विशेषं 
+</details>
+
+
+<details><summary>English</summary>
+
+so that the desire for the end in view may gain in strength  
+without suffering any diminution
+</details>
+
+<details><summary>Español</summary>
+
+para que el **deseo** de final de la vista **pueda ganar** en fuerza  
+sin **sufrir** ninguna **disminución**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इरुन्दनाळ् प्राप्यरुचि कुलैयादे वळर्न्दु पोरुम्बडिक्कीडाऩ अनुसन्धानविशेषत्तै 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘ततश् च प्रत्यहम् आत्मोज्जीवनायैवम् अनुस्मरेत्’’(वैकुण्ठ-गद्यम्) 
+
+ऎऩ्ऱु तुडङ्गि अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘ततश् च प्रत्यहम् आत्मोज्जीवनायैवम् अनुस्मरेत्’’(वैकुण्ठ-गद्यम्) 
+
+इत्य् आरभ्यानुजग्राह ।
+</details>
+
+
+<details><summary>English</summary>
+
+in the passage which begins as follows,  
+is pleased to teach this form of meditation : 
+
+> "In order to that one may continue to live the life of the spirit,  
+one should meditate in this manner."
+</details>
+
+<details><summary>Español</summary>
+
+en el pasaje que **comienza** como **sigue**,  
+se **complace** en **enseñar** esta forma de meditación:
+
+> "Para que uno **pueda continuar viviendo** la **vida** del Espíritu,  
+Uno **debería meditar** de esta manera ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘ततश्च प्रत्यहमात्मोज्जीवनायैवमनुस्मरेत्’’(वैकुण्ठ-गद्यम्) ऎऩ्ऱु तुडङ्गि अरुळिच्चॆय्दार्। 
+</details>
+
+
+
+
+<details><summary>English</summary>
 
 THE RITES NITYA AND NAIMITTIKA ARE, ON NO ACCOUNT TO BE GIVEN UP BY THE PRAPANNA:
+</details>
+
+<details><summary>Español</summary>
+
+Los ritos Nitya y Naimittika **no deben ser renunciados** por la Prapanna en ninguna cuenta:
+</details>
+
+
 
 The author of Śrī Bhāṣya has also described in his Nitya the special form of worship (poojā) which is referred to in "I spent my time in studying the books which mention the attributes of the Lord, in listening to others reading them and in worshipping Him," (The description) begins (with the sentence):- "I will now explain the manner in which the man with exclusive devotion to Bhagavān should perform the adoration (ārādhana) of the Lord, Having become a worshipper with supreme and exclusive devotion to Him and with a desire only to serve Him", he goes on to say, "Remain meditating (on the Lord) with a vision as clear as visual perception and with extreme love ( to Him)".
 
