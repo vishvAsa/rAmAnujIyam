@@ -12450,6 +12450,19 @@ Nārāyaṇa siempre **debe ser meditado** ",
 > ऎऩ्ऱुम् 
 </details>
 
+<details><summary>English</summary>
+
+> > "Hari alone is fit to be meditated on always by people like you who are sāttvikas."  
+>
+
+</details>
+
+<details><summary>Español</summary>
+
+>> "Hari solo **es** apto para **ser meditado** siempre por personas como tú que **son** sāttvikas".
+></details>
+
+
 <details><summary>मूलम्</summary>
 
 ६७‘‘हरिरेकस्सदा ध्येयो भवद्भिस्सत्वसंस्थितैः’’(हरि-वंशम् १३२-१४) ऎऩ्ऱुम् 
@@ -12463,6 +12476,22 @@ Nārāyaṇa siempre **debe ser meditado** ",
 > ऎऩ्ऱुम्  
 </details>
 
+<details><summary>English</summary>
+
+> > " Viṣṇu is constantly to be meditated on.  
+He should never be forgotten."  
+>
+
+</details>
+
+<details><summary>Español</summary>
+
+>> "Viṣṇu **se debe meditar** constantemente.
+Nunca debería **ser olvidado** ".
+>
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 ‘‘स्मर्तव्यस्सततं विष्णुः’’(हरि-वंशम् १३२-१४) ऎऩ्ऱुम्  
@@ -12475,6 +12504,22 @@ Nārāyaṇa siempre **debe ser meditado** ",
 सकृत्-प्रपत्ति-मात्रत्ताले मोक्षम् आगक् कूडुमो; 
 </details>
 
+<details><summary>English</summary>
+
+> When they have arrived at this conclusion,  
+> how could it be said that, by the performance of prapatti on a single occasion, mokṣa could be attained? 
+> 
+
+</details>
+
+<details><summary>Español</summary>
+
+> Cuando **han llegado** a esta **conclusión**,  
+> ¿Cómo **podría decirse** que, por el **desempeño** de Prapatti en una sola ocasión, **se podría alcanzar** mokṣa?
+>
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इप्पडि निष्कर्षिया निऱ्क सकृत्प्रपत्तिमात्रत्ताले मोक्षमागक्कूडुमो; 
@@ -12486,6 +12531,30 @@ Nārāyaṇa siempre **debe ser meditado** ",
 >
 > इत्यादिगळ् अङ्ग-प्रपत्ति-विषयङ्गळ् आऩाऱ् पोले 
 </details>
+
+<details><summary>English</summary>
+
+> The passage in the Gita which says :- 
+> 
+> > Those who perform prapatti to me alone, get over mayā  
+which cannot be easily got over  
+>
+> \-- this passage and others like it refer to prapatti  
+which is an aṅga or accessory to bhakti (upāsana) or meditation.  
+
+</details>
+
+<details><summary>Español</summary>
+
+> El pasaje en el Gita que **dice**:-
+>
+>> Aquellos que me **entregan** prapatti solo, **superen** a Mayā  
+que **no se puede superar** fácilmente
+>
+> \- Este pasaje y otros como este **se refieren** a Prapatti  
+que **es** un AṅGA o accesorio para Bhakti (upāsana) o **meditación**.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -12501,32 +12570,50 @@ Nārāyaṇa siempre **debe ser meditado** ",
 ऎऩ्ऱु सॊल्लुवर्गळ्
 </details>
 
+<details><summary>English</summary>
+
+> Similarly such texts as the Carama śloka should be considered as prescribing prapatti with its accessories only as an aṅga of bhakti". 
+
+(Some) might contend as above.
+</details>
+
+<details><summary>Español</summary>
+
+> Del mismo modo, los textos como el Carama Śloka **deben considerarse** como **prescribir** Prapatti con sus accesorios solo como Aṅga de Bhakti ".
+
+(Algunos) podría contener como arriba.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 चरमश्लोकादिगळुम् सपरिकरप्रपत्तियै भक्त्यङ्गमाग विधिक्किऱऩवाग वेण्डावोवॆऩ्ऱु सॊल्लुवर्गळ्
 </details>
 
 
-> > "Hari alone is fit to be meditated on always by people like you who are sāttvikas."  
->
-> > " Viṣṇu is constantly to be meditated on.  
-He should never be forgotten."  
->
-> When they have arrived at this conclusion,  
-> how could it be said that, by the performance of prapatti on a single occasion, mokṣa could be attained? 
-> 
-> The passage in the Gita which says :- 
-> 
-> > " Those who perform prapatti to me alone, get over mayā  
-which cannot be easily got over  
->
-> \-- this passage and others like it refer to prapatti  
-which is an aṅga or accessory to bhakti (upāsana) or meditation.  
-> Similarly such texts as the Carama śloka should be considered as prescribing prapatti with its accessories only as an aṅga of bhakti". 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-might contend as above.
+इदुवुम् अनुपपन्नम्; 
+</details>
 
-This contention of theirs is inappropriate. (For it has been said): " Those who are incapable of meditation (upāsana or bhakti) and seek Thee as their upāya-even they cross over saṁsāra and enter Thy abode, Vaikuṇṭha,” “Whatever object is desired, by whatsoever person and whatever cannot be obtained by other means, and that mokṣa from which abode there is no return and which cannot be attained by karma yoga, jñānayoga, or bhakti yoga, all these fruits are obtained, O great sage, by those who respectively strive for them by the performance of prapatti. The Supreme Self is attained only thereby." As stated in these passages, if prapatti adopted as a direct and independent upāya is well established, the prapanna acquires, as its reward, the capacity to meditate constantly on Nārāyaṇa as stated in Śrī Vaikuṇṭha Gadya. This is just like milk being a suitable drink for both the healthy man and the man who is in ill-health. Though meditation (upāsana or bhakti) with its (Vedic) aṅgas is not within the competency of every one, yet it is not impossible for everyone to meditate on the Lord in such measure as is possible for one with his competency, as may be seen in the passage - "May 1, "as the result of Thy will, be endowed with the power of constantly meditating on Thee!" The author of Śrī Bhāṣya, too, after teaching this upāya (prapatti) in his smaller Gadya (Śrī Raṅga Gadya) and in the longer Gadya (Śaraṇāgati Gadya) and referred to it briefly in the Vaikuṇṭhagadya, is pleased to teach this form of
+<details><summary>English</summary>
+
+This contention of theirs is inappropriate. 
+</details>
+
+<details><summary>Español</summary>
+
+Esta afirmación de las suyas **es** inapropiada.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुवुमनुपपन्नम्; 
+</details>
+
+
+(For it has been said): " Those who are incapable of meditation (upāsana or bhakti) and seek Thee as their upāya-even they cross over saṁsāra and enter Thy abode, Vaikuṇṭha,” “Whatever object is desired, by whatsoever person and whatever cannot be obtained by other means, and that mokṣa from which abode there is no return and which cannot be attained by karma yoga, jñānayoga, or bhakti yoga, all these fruits are obtained, O great sage, by those who respectively strive for them by the performance of prapatti. The Supreme Self is attained only thereby." As stated in these passages, if prapatti adopted as a direct and independent upāya is well established, the prapanna acquires, as its reward, the capacity to meditate constantly on Nārāyaṇa as stated in Śrī Vaikuṇṭha Gadya. This is just like milk being a suitable drink for both the healthy man and the man who is in ill-health. Though meditation (upāsana or bhakti) with its (Vedic) aṅgas is not within the competency of every one, yet it is not impossible for everyone to meditate on the Lord in such measure as is possible for one with his competency, as may be seen in the passage - "May 1, "as the result of Thy will, be endowed with the power of constantly meditating on Thee!" The author of Śrī Bhāṣya, too, after teaching this upāya (prapatti) in his smaller Gadya (Śrī Raṅga Gadya) and in the longer Gadya (Śaraṇāgati Gadya) and referred to it briefly in the Vaikuṇṭhagadya, is pleased to teach this form of
 
 meditation so that the desire for the end in view may gain in strength without suffering any diminution. He does so in the passage which begins as follows: "In order to that one may continue to live the life of the spirit, one should meditate in this manner,"
 
