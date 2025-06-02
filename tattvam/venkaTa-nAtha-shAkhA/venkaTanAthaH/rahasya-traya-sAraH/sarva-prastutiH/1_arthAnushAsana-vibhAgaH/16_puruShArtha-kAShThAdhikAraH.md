@@ -353,7 +353,7 @@ whether it be sentient or non-sentient.
 
 <details><summary>Español</summary>
 
-Esa gloria dependerá de la naturaleza del Śeṣa,
+Esa gloria **dependerá** de la naturaleza del Śeṣa,
 ya sea sensible o no sensible.
 </details>
 
@@ -407,16 +407,16 @@ The special glory that he can be the cause of promoting must be by means of his 
 
 <details><summary>Español</summary>
 
-Se puede preguntar,
+**Se puede preguntar**,
 
-> ¿Cuál es la gloria que el Jīva es capaz de conferir al ser supremo?
+> ¿Cuál es la gloria que el Jīva **es capaz** de **conferir** al ser supremo?
 
-Con su cuerpo y similares, puede conferir solo una gloria como lo hacen las cosas no sensibles.  
-Entonces, este servicio es común para él y ACIT.  
-La gloria especial de que él puede ser la causa de la promoción  
-debe ser mediante su inteligencia o Chaitanya. [^es_55]
+Con su cuerpo y similares, **puede conferir** solo una gloria como lo hacen las cosas no sensibles.  
+Entonces, este servicio **es** común para él y ACIT.  
+La gloria especial de que él **puede ser** la causa de la **promoción**  
+debe **ser mediante** su inteligencia o Chaitanya. [^es_55]
 
-[^es_55]: En las oraciones que siguen, el autor señala las diferentes formas en que diferentes tipos de personas (incluidas las que violan sus órdenes) promueven su gloria como sus Śeṣas.
+[^es_55]: En las **oraciones** que **siguen**, el autor **señala** las diferentes formas en que diferentes tipos de personas (incluidas las que **violan** sus **órdenes**) **promueven** su gloria como sus Śeṣas.
 </details>
 
 
@@ -462,10 +462,10 @@ and thus attains atisaya glory.
 
 <details><summary>Español</summary>
 
-Cuando el Jīva actúa contra el espíritu de los Śāstras,  
-Iśvara, que es el gobernante y el dispensador del castigo,  
-disfruta solo de deleite o deleción de līlā  
-y así alcanza la gloria de Atisaya.
+Cuando el Jīva **actúa** contra el espíritu de los Śāstras,  
+Iśvara, que **es** el **gobernante** y el **dispensador** del **castigo**,  
+**disfruta** solo de deleite o **deleción** de līlā  
+y así **alcanza** la gloria de Atisaya.
 </details>
 
 

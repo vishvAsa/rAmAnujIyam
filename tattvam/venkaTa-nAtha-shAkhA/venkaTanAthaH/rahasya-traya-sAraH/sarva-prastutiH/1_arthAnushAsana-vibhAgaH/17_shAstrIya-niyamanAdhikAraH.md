@@ -557,20 +557,20 @@ tiene algo más por hacer.
 ### कैङ्कर्ये ऽन्वयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > आऩाल् मनो-वाक्-कायङ्गळ् आगिऱ त्रिविध-करणङ्गळैयुङ् गॊण्डु  
+> > आऩाल् +++(कृतकृत्यत्वात्)+++ मनो-वाक्-कायङ्गळ् आगिऱ त्रिविध-करणङ्गळैयुङ् गॊण्डु  
 > वेण्डिऱ्ऱु चॆय्दु  
 > तिरियव्+++(=भ्रान्तुम्)+++ अमैयुमोव्+++(=योग्यमो)+++ 
 > 
 > ऎऩ्ऩिल्;  
-> अदु इवऩुक्कु स्व-रूपम् अऩ्ऱु। 
+> अदु इवऩुक्कु स्व-रूपम् अऩ्ऱु। +++(5)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
->> तर्हि मनो-वाक्-काय-रूपैः त्रि-विध-करणैः  
+>> तर्हि +++(कृतकृत्यत्वात्)+++ मनो-वाक्-काय-रूपैः त्रि-विध-करणैः  
 > स्वैर-कृत्या किं संचरितुं युक्तम्? 
 > 
-> इति चेत्, तद् अस्य न स्वरूपम् । 
+> इति चेत्, तद् अस्य न स्वरूपम् । +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -1270,7 +1270,7 @@ De lo contrario, **debe lástima** su triste destino.
 राज-सन्निधियिले **परिभवित्ताल्**  
 राजा **वॆऱुक्कुमाप्** पोले  
 >
-> ऎम्बॆरुमाऩ् तिरुव्-उळ्ळञ् **शीऱुम्।**+++(=कुप्येत)+++ 
+> ऎम्-बॆरुमाऩ् तिरुव्-उळ्ळञ् **शीऱुम्।**+++(=कुप्येत्)+++ 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -1324,11 +1324,11 @@ como un hombre que **trata** al príncipe con falta de respeto en presencia del 
 > प्रतिकूलरै **आदरित्त् इरुक्कुम्** आगिल्,  
 > 
 > राजा **सार्वभौमऩ् आय्** इरुक्क  
-> राज-महिषी क्षुद्र-जन्तुक्कळ् पक्कलिले मडिप्+++(=उत्तरीयं [प्रसार्य])+++-**पिच्चै+++(=भिक्ष्यायै)+++ पुक्काल्**  
+> राज-महिषी +++(राज-द्विट्-)+++क्षुद्र-जन्तुक्कळ् पक्कलिले मडिप्+++(=उत्तरीयं [प्रसार्य])+++-**पिच्चै+++(=भिक्ष्यायै)+++ पुक्काल्**  
 > राजावुक्कु **अवद्यम् आय्**   
 > अत्तालेय् अवळैय् अवऩ् **वॆऱुक्कुमाप्** पोले  
 > 
-> ऎम्बॆरुमाऩ् तिरुव्-उळ्ळम् **वॆऱुत्त्+++(=जुगुप्स्य)+++ इरुक्कुम्।**
+> ऎम्बॆरुमाऩ् तिरुव्-उळ्ळम् +++(द्रोहाभिज्ञानेन)+++ **वॆऱुत्त्+++(=जुगुप्स्य)+++ इरुक्कुम्।**
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -1340,7 +1340,13 @@ como un hombre que **trata** al príncipe con falta de respeto en presencia del 
 तस्य राजावद्यावहत्वात्  
 तेन निमित्तेन तां स यथा तिरस्-कुर्यात्  
 >
-> तथा भगवान् अन्तःकरणेनैनं तिरस्-कुर्यात् ।  
+> तथा भगवान् +++(द्रोहाभिज्ञानेन)+++ अन्तःकरणेनैनं तिरस्-कुर्यात् ।  
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अत्र देवो द्रोहिणो निग्रहय् उद्यतः।  
+अत्र +द्वेषोपेक्षया स्नेह एवोक्तः - न सर्पेणैव शुष्को जागरूको वा व्यवहारः। 
 </details>
 
 
@@ -1398,6 +1404,14 @@ como una reina que, mientras su Señor es un emperador,
 
 इति । 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+तटस्थे सादरस्य भागवतादरे सावधानता न स्याद् इति दोष-मूलम्।  
+अतो देव उपेक्षते तम् - नानुग्रहोन्मुखो भवति।  
+न चात्रापि तद्-अभागवतत्व-स्मरणेन शुष्क एव व्यवहारो दूषितः। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1549,10 +1563,10 @@ and who are dumb in the matter of censuring others."
 
 <details><summary>Español</summary>
 
-"Son queridos para mí -  
-los que nacen ciegos a las imperfecciones de los demás,  
-que son eunucos con respecto a las esposas de otros hombres  
-y que son tontos en la cuestión de censurar a otros ".
+"**Son queridos** para mí -  
+los que **nacen ciegos** a las imperfecciones de los demás,  
+que **son** eunucos con respecto a las esposas de otros hombres  
+y que **son** tontos en la cuestión de **censurar** a otros ".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1625,8 +1639,8 @@ Los adecuados, los inadecuados y los que no son de estos dos.
 धर्माविरुद्धङ्गळाऩव् अर्थकामङ्गळ् उपाधियागवुमिति । प्रपन्नाधिकारियैक् कुऱित्ते उपदेशिक्कप्पडुम् भाष्यकारवाक्यत्तिऱ्कु अनुकूलादिविषयङ्गळिल् अनादरादिनिषेधम् धर्माविरुद्धार्थकामौपाधिकमागवुम् कूडा तॆऩ्बदे तात्पर्यमॆऩ्ऱु तिरुवुळ्ळम्। 
 </details>
 
-
-### अनुकूलानादर-फले प्रमाणम्
+### शब्द-प्रमाणम्
+#### अनुकूलानादर-फले
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदिल् अनुकूलरैय् अनादरिक्कल् आगाद् ऎऩ्ऩुम् इडम्  
@@ -1716,7 +1730,7 @@ Que aquellos que son adecuados **no deben ser tratados** sin tener en cuenta **s
 </details>
 
 
-### प्रतिकूल-संसर्ग-फले प्रमाणम्
+#### प्रतिकूल-संसर्ग-फले
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतिकूल-संसर्गम् आगाद् ऎऩ्ऩुम् इडम् महाभारतत्तिले  
@@ -1769,6 +1783,12 @@ Que los que **no son adecuados** no deben estar asociados, **se declara** en el 
 
 [[१३७]]  
 इति प्रत्यवादि । 
+</details>
+
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अत्र सादर-संसर्ग एवोक्तः, न सावधानः शुष्क-व्यवहारः। 
 </details>
 
 
@@ -1885,7 +1905,7 @@ Entonces también se dice:
 </details>
 
 
-### उदासीन-त्यागे प्रमाणम्
+#### उदासीन-त्यागे
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1924,16 +1944,16 @@ Que aquellos que **no son** ni el uno ni el otro
 
 अद्य प्रभृति हे लोका  
 यूयं यूयं वयं वयम् ।  
-अर्थकामपरा यूयं  
-नारायणपरा वयम् ॥ +++(5)+++
+अर्थ-काम-परा यूयं  
+नारायण-परा वयम् ॥ +++(5)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 अद्य प्रभृति हे लोका  
 यूयं यूयं वयं वयम् ।  
-अर्थकामपरा यूयं  
-नारायणपरा वयम् ॥ +++(5)+++
+अर्थ-काम-परा यूयं  
+नारायण-परा वयम् ॥ +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -2130,7 +2150,7 @@ Se **puede preguntar**:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
->> वेण्डिऱ्ऱुच् चॆय्दु  
+>> +++(कृतकृत्यत्वात्)+++ वेण्डिऱ्ऱुच् चॆय्दु  
 > तिरियव्+++(=भ्रान्तुम्)+++ अमैयुमोव्+++(=योग्यमो)+++  
 > 
 > ऎऩ्ऩिल् अद् इवऩुक्कु स्वरूपम् अऩ्ऱ्'  
@@ -2140,7 +2160,7 @@ Se **puede preguntar**:
 
 <details><summary>नीलमेघः (सं)</summary>
 
->> "स्वैरं तत् तत् कुर्वता  
+>> "+++(कृतकृत्यत्वात्)+++ स्वैरं तत् तत् कुर्वता  
 > किं संचरितुं युक्तम्? 
 > 
 > इति चेत् - तद् अस्य न स्व-रूपम्" 
@@ -2473,12 +2493,12 @@ and this idea is elaborated in
 <details><summary>Español</summary>
 
 En su gītārtha-sangraha aḷavandār **dice** (así).  
-Es obvio que  
-'por amor solo' excluye la noción de que es un upāya  
+**Es obvio** que  
+'por **amor** solo' **excluye** la noción de que **es** un upāya  
 debido a la palabra 'solo'  
-y esta idea se elabora en
+y esta idea **se elabora** en
 
-> "Habiendo renunciado a la noción de que estos son upāyas o medios".
+> "**Habiendo renunciado** a la noción de que estos son upāyas o medios".
 </details>
 
 
@@ -2513,9 +2533,9 @@ as having a wonderful power of inspiring one to service prescribed in the śāst
 
 <details><summary>Español</summary>
 
-Es cierto que el amor (del Señor) está indicado  
-como tener un poder maravilloso de inspirar uno  
-a el servicio prescrito en el Śāstra.
+Es **cierto** que el **amor** (del Señor) **está indicado**  
+como **tener** un poder maravilloso de **inspirar** uno  
+a el **servicio prescrito** en el Śāstra.
 </details>
 
 
@@ -2597,7 +2617,7 @@ Se muestra que la naturaleza de estos karmas
 
 <details><summary>Español</summary>
 
-(Acerca de) Esta ordenanza impuesta por los Śāstras
+(Acerca de) Esta **ordenanza impuesta** por los Śāstras
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2678,10 +2698,10 @@ Se muestra que la naturaleza de estos karmas
 
 <details><summary>Español</summary>
 
-> Por mi (lakṣmī 's) satisfacción  
-> Y por la satisfacción del Señor armado con Sarnga,  
-> quién es el dios de todos los dioses,  
-> La Prapanna que es sabia  
+> Por mi (lakṣmī 's) **satisfacción**  
+> Y por la **satisfacción** del Señor **armado** con Sarnga,  
+> quién **es** el dios de todos los dioses,  
+> La Prapanna que **es** sabia  
 > **ni siquiera debería pensar en transgredir** las ordenanzas del Veda.
 </details>
 
@@ -2744,7 +2764,7 @@ Se muestra que la naturaleza de estos karmas
 
 <details><summary>Español</summary>
 
-(Con respecto) el mal que resultaría de la transgresión
+(Con respecto) el mal que **resultaría** de la **transgresión**
 </details>
 
 
@@ -2950,15 +2970,15 @@ algún mal u otro de acuerdo con su calificación específica.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदु निऱ्क  
-सत्त्व-प्रकृतिय् आऩव् इवऩुक्कु  
-भगवद्-अप्रीतिक्कु मेऱ्-पट्ट नरकम् इल्लै। +++(5)+++ 
+सत्त्व-प्रकृतिय् +++(→शास्त्रे श्रद्-दधानः)+++ आऩव् इवऩुक्कु  
++++(न निग्रहाधिगतम् → शास्त्राधिगत-)+++भगवद्-अप्रीतिक्कु मेऱ्-पट्ट नरकम् इल्लै। +++(5)+++ 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 तद् अस्तु ;  
-सत्त्व-प्रकृतेर् अस्य  
-भगवद्-अ-प्रीतेर् अधिको नरको नास्ति । +++(5)+++ 
+सत्त्व-प्रकृतेर् +++(→शास्त्रे श्रद्-दधानः)+++ अस्य  
++++(न निग्रहाधिगतम् → शास्त्राधिगत-)+++भगवद्-अ-प्रीतेर् अधिको नरको नास्ति । +++(5)+++ 
 </details>
 
 
@@ -3040,7 +3060,7 @@ le **dará** el dolor insoportable a Prapanna.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इङ्ङऩ् इराद् अवऩुक्कु  
+इङ्ङऩ् इराद् अवऩुक्कु +++(शास्त्रे श्रद्-दधानस्यापि)+++  
 स्वामि-विषयत्तिल् प्रावण्यमुम्  
 कैङ्कर्य-रूपम् आऩ मोक्षत्तिल् रुचियुम्  
 शङ्किक्कव् अडुक्कुम्+++(=व्यवस्थातव्यम्??)+++। 
@@ -3048,7 +3068,8 @@ le **dará** el dolor insoportable a Prapanna.
 
 <details><summary>नीलमेघः (सं)</summary>
 
-अन्-एवम्-भूतस्य स्वामि-विषये प्रावण्यम्,  
+अन्-एवम्-भूतस्य +++(शास्त्रे श्रद्-दधानस्यापि)+++   
+स्वामि-विषये प्रावण्यम्,  
 कैङ्कर्यरूपे मोक्षे रुचिश् च शङ्कितव्ये भवतः ।+++(5)+++ 
 
 [[१३९]] 
@@ -3093,7 +3114,7 @@ tengo que **ser dudado**.
 ‘‘प्रहर्षयिष्यामि’’(आळवन्दार् स्तोत्रम् ४६) ऎऩ्ऱु **उद्देश्यैय् आऩ** भगवत्-प्रीतिक्कु  
 **विरोधिय् आऩ** बडियाले  
 इश् शास्त्रीय-नियमम्  
-रहस्य-त्रयत्तिल् विरोधि-निवृत्तियै अनुसन्धिक्कुम् इडङ्गळिले  
+रहस्य-त्रयत्तिल् विरोधि-निवृत्तियै अनुसन्धिक्कुम् इडङ्गळिले +++(→"न-मः", "सर्वपापेभ्यो मोक्षयिष्यामि")+++  
 **अनुसन्धिक्कप् प्राप्तम्।** 
 </details>
 
@@ -3102,7 +3123,8 @@ tengo que **ser dudado**.
 अस्याज्ञातिलङ्घनस्य  
 ‘‘प्रहर्षयिष्यामि’’ इति **उद्देश्याया** भगवत्-प्रीतेर् **विरोधित्वात्**  
 अयं शास्त्रीय-नियमो  
-रहस्य-त्रये विरोधि-निवृत्त्य्-अनुसन्धान-प्रदेशेषु **अनुसन्धातुम् अर्हः** । 
+रहस्य-त्रये विरोधि-निवृत्त्य्-अनुसन्धान-प्रदेशेषु +++(→"न-मः", "सर्वपापेभ्यो मोक्षयिष्यामि")+++  
+**अनुसन्धातुम् अर्हः** । 
 </details>
 
 
@@ -3286,7 +3308,7 @@ y este último para **obtener** los beneficios respectivos.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुज्ञया **प्रवृत्ते**ऽपि  
-क्रम-कोपादि-**संभवे** ।  
+क्रम-कोपादि+++(←देश-काल-द्रव्यादि-कोप)+++-**संभवे** ।  
 **आज्ञातिक्रम**-दोषस् स्यान्  
 **नियमो** ऽतो दुर्-अत्ययः ॥ +++(4)+++  
 </details>
@@ -3299,7 +3321,7 @@ y este último para **obtener** los beneficios respectivos.
 <details><summary>नीलमेघः (सं)</summary>
 
 अनुज्ञया **प्रवृत्ते**ऽपि  
-क्रम-कोपादि-**संभवे** ।  
+क्रम-कोपादि+++(←देश-काल-द्रव्यादि-कोप)+++-**संभवे** ।  
 **आज्ञातिक्रम**-दोषस् स्यान्  
 **नियमो** ऽतो दुर्-अत्ययः ॥ +++(4)+++  
 </details>
@@ -3331,7 +3353,12 @@ Por lo tanto, la **transgresión** de la regla **prescrita** en el Śastra
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-अनुज्ञया प्रवृत्तेऽपि – अनुज्ञैयाले आरम्बिक्कप्पट्ट कर्मत्तिलुम्, क्रमकोपः – क्रमविपर्यासः, ‘‘द्यति हृदयस्याग्रेऽवद्यति, अथ जिह्वायाः, अथ वक्षसः’’ इत्यादि विहितक्रमत्तिऱ्कु पौर्वापर्यत्तिऩुडैय माऱुदल् ऎऩ्ऱबडि। आदिपदत्ताल् देशकालकर्तृ द्रव्यादिविपर्यासत्तिऱ्कु ग्रहणम्। आज्ञातिक्रमदोषस्स्यात् – आज्ञाकर्मत्तिऩुडैय अतिक्रमत्तिल् - अकरणत्तिल् यो देाषः - यादृशो भगवन्निग्रहस्तादृशो भगवन्निग्रहस्स्यात् । अतः – आगैयिऩाले, नियमः – शास्त्रोक्तक्रमादि नियममाऩदु, दुरत्ययः – दुरतिक्रममॆऩ्ऱबडि। इदऩाल् अनुज्ञाकैङ्कर्यत्तिलुम् शास्त्रानुसरणम् वेण्डुमॆऩ्ऱु ज्ञापिक्कप्पट्टदु। 
+अनुज्ञया प्रवृत्तेऽपि – अनुज्ञैयाले आरम्बिक्कप्पट्ट कर्मत्तिलुम्, क्रमकोपः – क्रमविपर्यासः, 
+
+> ‘‘द्यति हृदयस्याग्रे ऽवद्यति,  
+अथ जिह्वायाः, अथ वक्षसः’’ 
+
+इत्यादि विहित-क्रमत्तिऱ्कु पौर्वापर्यत्तिऩुडैय माऱुदल् ऎऩ्ऱबडि। आदिपदत्ताल् देशकालकर्तृ द्रव्यादिविपर्यासत्तिऱ्कु ग्रहणम्। आज्ञातिक्रमदोषस्स्यात् – आज्ञाकर्मत्तिऩुडैय अतिक्रमत्तिल् - अकरणत्तिल् यो देाषः - यादृशो भगवन्निग्रहस्तादृशो भगवन्निग्रहस्स्यात् । अतः – आगैयिऩाले, नियमः – शास्त्रोक्तक्रमादि नियममाऩदु, दुरत्ययः – दुरतिक्रममॆऩ्ऱबडि। इदऩाल् अनुज्ञाकैङ्कर्यत्तिलुम् शास्त्रानुसरणम् वेण्डुमॆऩ्ऱु ज्ञापिक्कप्पट्टदु। 
 </details>
 
 
