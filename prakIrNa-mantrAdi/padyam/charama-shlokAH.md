@@ -9,6 +9,13 @@ title = "चरम-श्लोकाः"
 मोक्षषिष्यामि मा शुचः ॥
 
 
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+रामानुज-व्याख्या [ऽन्यत्र](/mahAbhAratam/vyAsaH/shlokashaH/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit) । 
+</details>
+
+
+
 ## रामः
 सकृदेव प्रपन्नाय  
 तवास्मीति च याचते।  
