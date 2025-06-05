@@ -26,3 +26,10 @@ title = "+वेङ्कट-नाथ-शाखा"
 ## सङ्ख्याः
 देशिकपरम्परायां ६०% जना अहोबिलमठशिष्याः, ३०% इतर-मठानाम्, १०% स्वयमाचार्यायुयायिन इति पलवेरि-लक्ष्मीनरसिंहार्यस्योहः।  
 नैवम् इत्य् अन्ये। 
+
+### ताताचार्याः
+1480s to 1640s - for 160 yrs they were rajagurus of vnagar. Then till early 1700s, they were still in a decent position due to support of mysore. Navalpakkam TTs lost their strength once Tanjore nayaks lost their power. 18th century saw gradual decline. 19th century was a disaster.
+
+PM spent some money on veda parayanam etc of kanchi but did not send money for TT sancharam. 
+
+In 1800s, TTs also lost patronage of mysore maharaja over a misunderstanding regarding kanchi brahmotsavam. Maharaja came a bit late but perumal purappadu happened without waiting for the Maharaja.

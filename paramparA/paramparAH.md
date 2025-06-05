@@ -25,7 +25,7 @@ Koyilozhuku cannot be taken too seriously beyond a limit - unless you can substa
 
 
 ## आचार्य-विभागः
-- समाश्रयण/पञ्च-संस्कार-दाता
+- समाश्रयण/ पञ्च-संस्कार-दाता
 - भरन्यासा-कारकः
 - ग्रन्थ-बोधकः
   - श्रीभाष्यम्
@@ -36,6 +36,28 @@ Koyilozhuku cannot be taken too seriously beyond a limit - unless you can substa
 - ग्रन्थ-पुनर्-बोधकः (चिन्तनाचार्यः)
   - साधारणतया गुरुपरम्परासु न गण्यते।
 
+### समाश्रयण-दातारः
+#### अधिकारः
+Ramanuja nominated 74 simhasanadhipathis and ordained them to do pancha samskaram to sishyas at their places.  
+
+In many cases, this tradition was continued by succeeding filial generations. However, this does not necessarily exclude other qualified people from doing the same. 
+
+
+समाश्रयण-दातॄणां विशिष्ट-दीक्षा भवतीति केचित्,  
+समाश्रयण-प्राप्त्या ऽऽचार्यानुमत्या चालम् इति तु बहवः।  
+तया व्यक्तिर् वा कुलम् अपि वा ऽऽचार्यपदम् आरोप्यत इति केचित्।  
+स्वतः संस्कृतस्य प्रयोग-ज्ञानेनालम् इति तु निश्चयः। 
+
+
+#### प्रतिनिधयः
+"मुद्रा-कर्तार" इति लोके।  
+
+- Ahobila-MaTha had mudrakartas till Dhaka and Lahore once. Was slowly phased out in HH 42-43's period, as transport facilities increased.
+- Parakala Matha also had a few, like one in revA, prayAga.
+- PM also shared mudrakartas of AM in a few places like wanapurthy. Wanapurthy raja was PM sishya. But the broms there were AM sishyas.
+- ANDavan-Ashrama also reputedly had some in rural KA.
+
+This is an inferior setup. The pratinidhi-s will have less incentive to locally/ filially "preserve" the samAshrayaNa-paramparA.
 
 ## रामानुजं यावत्
 **नारायणः** → लक्ष्मीः → विष्वक्सेनः … →  
@@ -73,15 +95,6 @@ Vijay read an article which made the following points:
 - It appears unlikely that when both Ramanuja and Kurattazhvan were alive, Parasara Bhattar could have had Embar as acharya.
 </details>
 
-
-
-### समाश्रयण-दातारः
-- He nominated 74 simhasanadhipathis and ordained them to do pancha samskaram to sishyas at their places.
-
-#### आचार्य-दीक्षा
-समाश्रयण-दातॄणां विशिष्ट-दीक्षा भवतीति केचित्,  
-समाश्रयण-प्राप्त्या ऽऽचार्यानुमत्या चालम् इति तु बहवः।  
-तया व्यक्तिर् वा कुलम् अपि वा ऽऽचार्यपदम् आरोप्यत इति केचित्। 
 
 ### भाष्योपदेश-परम्परा
 - From the 74 simhasanadhipathis, he selected four, gave them the Sri Bhashya kosha and instructed them to do Sri Bhashya pravachanam thereby making them Sri bhashya simhasanadhipathis. कूरेशस् तु पूर्वम् एव मृतः। 
@@ -221,3 +234,15 @@ Acharya-hrdayam was composed by lokAchArya's younger brother.
 
 ### आन्ध्र-प्रदेशः
 - tenkalai majority.
+
+
+> Rayadurgam was a tirumalai tAtAchArya stronghold in the past. Again the lack of sancharam in 1800s led to a good number of sishyas moving out. Broms became mostly madhvas while v4s have moved to chinna-jIyar nowadays. Brit rule was a disaster for the Tatacharyas who once reigned supreme across South india in the spiritual sphere.
+> 
+> Rayalaseema was the biggest loss for us. Lots of sishyas were lost. AM should have taken over all TT sishyas when their sancharam stopped. But it did not happen.  
+1800s was the time of gadadarapuram domination in the matham. They were mostly concentrating on chola desham, their territory. Entering into disputes with munitrayam guys there when we were losing nos in rayalaseema
+
+### पल्लव-देशः
+Tatacharyas lost lot of sishyas in the 19th century since they lost the income from temple manyams in early 1800s (when Brits stopped varadan temple manyams from 1200+ villages and took over direct control of temple for a few decades). Tatacharyas were very active in sancharam till then. Those four decades led to them losing most of their sishyas
+
+### कॊङ्गु-प्रदेशः
+Lots of v4 vdk sishyas in Kongu area were lost to tks
