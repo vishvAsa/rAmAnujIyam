@@ -210,3 +210,14 @@ Acharya-hrdayam was composed by lokAchArya's younger brother.
 > This work was the start of an open revolt against vaidikas among vaishnavas. Eg. "You guys follow Rishi gotras . We belong to azhvaar gotra .."  
 > इति रविलोचनः। 
 
+## प्रदेशाः
+### उत्कलः
+- देशिक-सम्प्रदायः
+  - Mukunda deva harishchandra reconquered Puri using 6th AM swamys mantrabala as per tradition.
+- लोकाचार्य-सम्प्रदायः
+  - Odia Sri Vaishnavaites are almost all Thenkalais. 
+  - Tenkalai sub-sect held more sway in Odisha and got more royal support, due to its association with Emāra Swami ( aka Manamatha sain in Odia).
+  - many vaDakalais are opting for Thengalai Emar maTha branch at Puri, mostly due to greater proximity and linguistic affliation.
+
+### आन्ध्र-प्रदेशः
+- tenkalai majority.
