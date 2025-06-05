@@ -59,6 +59,18 @@ In many cases, this tradition was continued by succeeding filial generations. Ho
 
 This is an inferior setup. The pratinidhi-s will have less incentive to locally/ filially "preserve" the samAshrayaNa-paramparA.
 
+### स्वयम्-आचार्य-सम्प्रदाय-रक्षा
+सम्प्रदायेषु परस्-पर-स्पर्धा ऽनिवार्या। ततः -
+
+> अस्ति मत्स्यस् तिमिर् नाम  
+शतयोजनम् आयतः ।  
+तिमिङ्गिल-गिलोऽप्य् अस्ति  
+तद्-गिलोऽप्यस्ति सागरे ॥
+
+लोके तर्हि कथं लघुमत्स्यका वर्तन्ते? बहुसन्तति-जननेन। 
+
+एवं स्वयमाचार्यैश् शिष्य-सङ्ग्रहम् अन्तरा, आचार्योत्पत्ताव् अवहिते, कल्याणम् भवतितराम्।
+
 ## रामानुजं यावत्
 **नारायणः** → लक्ष्मीः → विष्वक्सेनः … →  
 नम्माळ्वार् → मधुरकविः … →  
@@ -238,7 +250,7 @@ Acharya-hrdayam was composed by lokAchArya's younger brother.
 
 > Rayadurgam was a tirumalai tAtAchArya stronghold in the past. Again the lack of sancharam in 1800s led to a good number of sishyas moving out. Broms became mostly madhvas while v4s have moved to chinna-jIyar nowadays. Brit rule was a disaster for the Tatacharyas who once reigned supreme across South india in the spiritual sphere.
 > 
-> Rayalaseema was the biggest loss for us. Lots of sishyas were lost. AM should have taken over all TT sishyas when their sancharam stopped. But it did not happen.  
+> Rayalaseema was the biggest loss. Lots of sishyas were lost. AM should have taken over all TT sishyas when their sancharam stopped. But it did not happen.  
 1800s was the time of gadadarapuram domination in the matham. They were mostly concentrating on chola desham, their territory. Entering into disputes with munitrayam guys there when we were losing nos in rayalaseema
 
 ### पल्लव-देशः

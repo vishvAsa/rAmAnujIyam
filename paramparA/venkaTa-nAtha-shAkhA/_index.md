@@ -27,6 +27,9 @@ title = "+वेङ्कट-नाथ-शाखा"
 देशिकपरम्परायां ६०% जना अहोबिलमठशिष्याः, ३०% इतर-मठानाम्, १०% स्वयमाचार्यायुयायिन इति पलवेरि-लक्ष्मीनरसिंहार्यस्योहः।  
 नैवम् इत्य् अन्ये। 
 
+## अहोबिल-मठः
+गदाधरपुरम् - place near kumbhakonam. One family provided multiple AS in the 19th century. Father son and grandson became AS. They also got the narasimhapuram village as well as the two temples of Adhanur and pullamboothangudi from Serfoji II.
+
 ### ताताचार्याः
 1480s to 1640s - for 160 yrs they were rajagurus of vnagar. Then till early 1700s, they were still in a decent position due to support of mysore. Navalpakkam TTs lost their strength once Tanjore nayaks lost their power. 18th century saw gradual decline. 19th century was a disaster.
 
