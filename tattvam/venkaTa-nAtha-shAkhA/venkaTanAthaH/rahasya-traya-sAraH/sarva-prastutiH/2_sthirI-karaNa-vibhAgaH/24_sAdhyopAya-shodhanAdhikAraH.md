@@ -13260,7 +13260,7 @@ Uno **debería meditar** de esta manera ".
 </details>
 
 
-
+## अ-त्याज्य-कर्माणि
 
 <details><summary>English</summary>
 
@@ -13272,11 +13272,375 @@ THE RITES NITYA AND NAIMITTIKA ARE, ON NO ACCOUNT TO BE GIVEN UP BY THE PRAPANNA
 Los ritos Nitya y Naimittika **no deben ser renunciados** por la Prapanna en ninguna cuenta:
 </details>
 
+### आराधन-ध्याने स्वयम्-प्रयोजने
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् प्रपन्नऩुक्कु ’’पूजित्तुम् पोक्किऩेऩ् पोद्’’(नाऩ्मुगऩ् तिरुवन्दादि ६३)  
+
+ऎऩ्गिऱ अन्-अन्य-प्रयोजनम् आऩ पूजा-विशेषत्तै 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य प्रपन्नस्य 
+
+> “1 पूजयित्वा ऽयापयं कालम्" 
+
+इत्य्-उक्तम् अनन्य-प्रयोजनं पूजा-विशेषम् 
+</details>
 
 
-The author of Śrī Bhāṣya has also described in his Nitya the special form of worship (poojā) which is referred to in "I spent my time in studying the books which mention the attributes of the Lord, in listening to others reading them and in worshipping Him," (The description) begins (with the sentence):- "I will now explain the manner in which the man with exclusive devotion to Bhagavān should perform the adoration (ārādhana) of the Lord, Having become a worshipper with supreme and exclusive devotion to Him and with a desire only to serve Him", he goes on to say, "Remain meditating (on the Lord) with a vision as clear as visual perception and with extreme love ( to Him)".
+<details><summary>English</summary>
 
-This service to the Lord which is the overflow of uninterrupted meditation and seeks no other interest or profit and which consists in five forms of service in the course of the day, is in accord with what is enjoined in the scripture of Bhagavān (Bhagavat Śāstra ) and with what has been prescribed by Vyāsa, Dakṣa and other great sages. It is also implicit in the following Tamil verses: "Giving up anger and deceit and controlling the senses, one should perform adoration five times in the day", as commented on by the ācāryas. "Approaching" the Lord in the morning (abhigamana), then proceeding to collect the materials required for his worship (upādāna); next performing the adoration (aradhana), afterwards uttering the sacred mantras (japa); lastly meditating on the Supreme Lord (dhyāna); thas in the aforesaid five parts of the day, I will spend my days adoring Him with the good incense and flowers gathered by me with my own effort." Having heard, from the author of Śrī Bhāṣya, this five-fold division of the day and what should be done in each, Vaṅgīpuram Nambi briefly summarised it in his Nitya in the words quoted above. This may be seen also in the treatise on daily life written by Periajeer and others. Any differences that might appear in these descriptions are easily explained as due to differences found in different Saṁhitās.
+The special form of worship (poojā),  
+which seeks no other interest or profit,  
+which is referred to in  
+
+> "I spent my time  
+in studying the books which mention the attributes of the Lord,  
+in listening to others reading them  
+and in worshipping Him," 
+
+</details>
+
+<details><summary>Español</summary>
+
+La forma especial de **adoración** (poojā),  
+que **no busca** otro interés o **ganancia**,  
+que **se menciona** en
+
+> "**Pasé** mi tiempo  
+Al **estudiar** los libros que **mencionan** los atributos del Señor,  
+Al **escuchar** a otros **leyéndolos**  
+y al **adorarlo** "
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् प्रपन्नऩुक्कु ’’पूसित्तुम्बोक्किऩेऩ् पोद्’’(नाऩ्मुगऩ् तिरुवन्दादि ६३)  ऎऩ्गिऱ अनन्यप्रयोजनमाऩ पूजाविशेषत्तै 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अथ परमैकान्तिनो भगवद्-आराधन-प्रयोगं वक्ष्ये,  
+भगवत्-कैङ्कयैक-रतिः परमैकान्ती भूत्वा’’  
+(नित्यम्) 
+
+ऎऩ्ऱुदुडङ्गि नित्यत्तिले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अथ परमैकान्तिनो भगवद्-आराधन-प्रयोगं वक्ष्ये,  
+भगवत्-कैङ्कयैक-रतिः परमैकान्ती भूत्वा’’  
+(नित्यम्) 
+
+इत्य्-आरभ्य नित्ये, 
+</details>
+
+
+<details><summary>English</summary>
+
+The author of Śrī Bhāṣya has also described in his Nitya.   
+
+(The description) begins (with the sentence):- 
+
+> "I will now explain the manner in which  
+the man with exclusive devotion to Bhagavān should perform the adoration (ārādhana) of the Lord,  
+Having become a worshipper with supreme and exclusive devotion to Him  
+and with a desire only to serve Him", 
+</details>
+
+<details><summary>Español</summary>
+
+El autor de Śrī Bhāṣya también **ha descrito** en su nitya.
+
+(La descripción) **comienza** (con la **oración**):-
+
+> "Ahora **explicaré** la manera en que  
+El hombre con devoción exclusiva a Bhagavān **debe realizar** la **adoración** (ārādhana) del Señor,  
+**Haberse convertido** en un **adorador** de suprema y exclusiva devoción a él  
+y con el deseo solo de **servirle** ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अथ परमैकान्तिनो भगवदाराधनप्रयोगं वक्ष्ये, भगवत्कैङ्कयैकरतिः परमैकान्ती भूत्वा’’(नित्यम्) ऎऩ्ऱुदुडङ्गि नित्यत्तिले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अत्यर्थ-प्रियाविरत-विशदतम-प्रत्यक्ष-रूपानुध्यानेन ध्यायन्न् आसीत’’  
+(नित्यम्) 
+
+ऎऩ्ऱुम् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अत्यर्थ-प्रियाविरत-विशदतम-प्रत्यक्ष-रूपानुध्यानेन ध्यायन्न् आसीत’’  
+(नित्यम्) 
+
+इत्य् अनुजग्राह । 
+</details>
+
+
+<details><summary>English</summary>
+
+he goes on to say, 
+
+> "Remain meditating (on the Lord) with a vision as clear as visual perception and with extreme love ( to Him)".
+</details>
+
+<details><summary>Español</summary>
+
+**Continúa diciendo**
+
+> "**Sigue meditando** (en el Señor) con una **visión** tan clara como la **percepción** visual y con amor extremo (para él)".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अत्यर्थप्रियाविरतविशदतमप्रत्यक्षरूपानुध्यानेन ध्यायन्नासीत’’(नित्यम्) ऎऩ्ऱुमरुळिच्चॆय्दार्। 
+</details>
+
+### पाञ्च-कालिक-वृत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि अन्-अन्य-प्रयोजन--निरन्तर--  
+भगवद्-अनुसन्धान-परीवाहम् आऩ कैङ्कर्यत्तिले  
+भगवच्-छास्त्रोक्तमुम् आय्,  
+व्यास-दक्षादि-महर्षि-मतङ्गळोडुम् सङ्गतम् आय्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमम् अन्-अन्य-प्रयोजन-निरन्तर--  
+भगवद्-अनुसन्धान-परवाहरूपे कैङ्कर्ये  
+भगवच्-छास्त्रोक्तं व्यास-दक्षादि-महर्षि-मतैः संगतम् 
+</details>
+
+
+<details><summary>English</summary>
+
+This service to the Lord which is the overflow of uninterrupted meditation  
+and which seeks no other interest or profit  
+is in accord with what is enjoined in the scripture of Bhagavān (Bhagavat Śāstra )  
+and with what has been prescribed by Vyāsa, Dakṣa and other great sages. 
+</details>
+
+<details><summary>Español</summary>
+
+Este **servicio** al Señor, que **es** el **desbordamiento** de la **meditación** ininterrumpida.  
+y que **no busca** otro interés o **ganancia**  
+**está** de **acuerdo** con lo que se **ordena** en la Escritura de Bhagavān (Bhagavat Śāstra)  
+y con lo que **ha sido prescrito** por Vyāsa, Dakṣa y otros grandes sabios.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि अनन्यप्रयोजन निरन्तर भगवदनुसन्धान परीवाहमाऩ कैङ्कर्यत्तिले भगवच्छास्त्रोक्तमुमाय् व्यासदक्षादि महर्षिमतङ्गळोडुम् सङ्गतमाय्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’मऱन्-दिगऴुम्’’(पॆरुमाळ् तिरुमॊऴि १-७)  
+
+ऎऩ्गिऱ पाट्टिलुम् 
+
+> ’’इरु-मुप्-पॊऴुद् एत्तिय्+++(=स्तुत्वा)+++’’  
+(पॆरुमाळ् तिरुमॊऴि १-७)  
+
+ऎऩ्ऱ पासुरत्तुक्कु विवक्षितम् आग  
+आचार्यर्गळ् व्याख्यानम् बण्णिऩ काल-विभागत्तै
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+“कोपोज्ज्वलम् " इति गाथायां 
+
+> "द्वयोस् त्रिषु कालेषु च स्तुत्वा"  
+
+इति पद-जात-विवक्षितत्वेनाचायैर् व्याख्यातं कालविभागम्, 
+</details>
+
+<details><summary>English</summary>
+
+(This service) which consists in five forms of service in the course of the day,  
+is also implicit in the following Tamil verses: 
+
+> "Giving up anger and deceit,  
+and controlling the senses,  
+one should perform adoration five times in the day", 
+
+as commented on by the ācāryas. 
+</details>
+
+<details><summary>Español</summary>
+
+(Este **servicio**) que **consiste** en cinco formas de **servicio** en el transcurso del día,  
+También **está implícito** en los **siguientes** versos tamiles:
+
+> "**Renunciar** a la ira y el engaño,  
+y **controlar** los sentidos,  
+Uno **debería prestar adoración** cinco veces en el día ",  
+
+Según lo **comentado** por los ācāryas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’मऱन्दिगऴुम्’’(पॆरुमाळ् तिरुमॊऴि १-७)  ऎऩ्गिऱ पाट्टिलुम् ’’इरुमुप्पॊऴुदेत्तिय्’’(पॆरुमाळ् तिरुमॊऴि १-७)  ऎऩ्ऱ पासुरत्तुक्कु विवक्षितमाग आचार्यर्गळ् व्याख्यानम्बण्णिऩ कालविभागत्तै
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **अभिगच्छन्** हरिं प्रातः  
+पश्चाद् द्रव्याणि **चार्जयन्** ।  
+**अर्चयंश्** च ततो देवं  
+ततो मन्त्रान् **जपन्न्** अपि ।  
+**ध्यायन्न्** अपि परं देवं  
+**कालेषूक्तेषु** पञ्चसु ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **अभिगच्छन्** हरिं प्रातः  
+पश्चाद् द्रव्याणि **चार्जयन्** ।  
+**अर्चयंश्** च ततो देवं  
+ततो मन्त्रान् **जपन्न्** अपि ।  
+**ध्यायन्न्** अपि परं देवं  
+**कालेषूक्तेषु** पञ्चसु ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> "Approaching the Lord in the morning (abhigamana),  
+then proceeding to collect the materials required for his worship (upādāna);  
+next performing the adoration (aradhana),  
+afterwards uttering the sacred mantras (japa);  
+lastly meditating on the Supreme Lord (dhyāna);  
+thus in the aforesaid five parts of the day, 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Acercándose** al Señor por la mañana (Abhigamana),  
+luego **proceder** a **recolectar** los materiales **requeridos** para su **adoración** (upādāna);  
+A continuación, **realizando** la **adoración** (Aradhana),  
+luego **pronunciaba** los mantras sagrados (japa);  
+finalmente **meditando** sobre el Señor Supremo (dhyāna);  
+así en las cinco partes **mencionadas** del día,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अभिगच्छन् हरिं प्रातः पश्चाद्द्रव्याणि चार्जयन् । अर्चयंश्च ततो देवं ततो मन्त्रान् जपन्नपि । ध्यायन्नपि परं देवं कालेषूक्तेषु पञ्चसु ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **वर्तमानस्** सदा चैवं  
+पाञ्चकालिक-वर्त्मना ।  
+**स्वार्जितैर्** गन्ध-पुष्पाद्यैः  
+शुभैश् शक्त्य्-अनुरूपतः ॥  
+**आराधयन्** हरिं भक्त्या  
+**गमयिष्यामि** वासरान्॥’’  
+(वङ्गिबुरत्तुनम्बि-कारिका ३४-३६) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **वर्तमानस्** सदा चैवं  
+पाञ्चकालिक-वर्त्मना ।  
+**स्वार्जितैर्** गन्ध-पुष्पाद्यैः  
+शुभैश् शक्त्य्-अनुरूपतः ॥  
+**आराधयन्** हरिं भक्त्या  
+**गमयिष्यामि** वासरान्॥’’  
+(वङ्गिबुरत्तुनम्बि-कारिका ३४-३६) 
+</details>
+
+<details><summary>English</summary>
+
+> I will spend my days adoring Him  
+with the good incense and flowers gathered by me with my own effort."  
+</details>
+
+<details><summary>Español</summary>
+
+> **Pasaré** mis días **adorándolo**  
+con el buen incienso y las flores **reunidas** por mí con mi propio esfuerzo ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+वर्तमानस्सदा चैवं पाञ्चकालिकवर्त्मना । स्वार्जितैर्गन्धपुष्पाद्यैः शुभैश्शक्त्यनुरूपतः ॥ आराधयन् हरिं भक्त्या गमयिष्यामि वासरान्॥’’(वङ्गिबुरत्तुनम्बि-कारिका ३४-३६) 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु भाष्य-कारर् अरुळिच्-चॆय्यक् केट्टु  
+वङ्गिपुरत्तु नम्बि नित्यत्तिले संग्रहित्तार्। 
+</details>
+
+<details><summary>English</summary>
+
+Having heard, from the author of Śrī Bhāṣya, this five-fold division of the day  
+and what should be done in each,  
+Vaṅgīpuram Nambi briefly summarised it in his Nitya in the words quoted above. 
+</details>
+
+<details><summary>Español</summary>
+
+**Habiendo escuchado**, del autor de śrī bhāṣya, esta **división** de cinco veces del día  
+y que **se debe hacer** en cada uno,  
+Vaṅgīpuram Nambi lo **resumió** brevemente en su nitya en las palabras **citadas** anteriormente.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु भाष्यकारररुळिच्चॆय्यक् केट्टु वङ्गिपुरत्तु नम्बि नित्यत्तिले संग्रहित्तार्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि पॆरिय जीयर् उळ्ळ्-इट्टार् नित्यङ्गळिलुङ् गण्डुगॊळ्वदु।
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> Today periya jeeyar term is used to refer to Manavala Mamunigal. But Swami Desikan has also used this term. For him, this term must have been a reference to Nanjiyar or Kura Narayana Jiyar.
+</details>
+
+
+<details><summary>English</summary>
+
+This may be seen also in the treatise on daily life written by Periajeer and others. 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **se puede ver** también  
+en el **tratado** sobre la **vida** diaria  
+**escrita** por Periajeer y otros.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि पॆरिय जीयरुळ्ळिट्टार् नित्यङ्गळिलुङ्गण्डुगॊळ्वदु।
+</details>
+
+
+
+Any differences that might appear in these descriptions are easily explained as due to differences found in different Saṁhitās.
 
 Hence the prapanna should spend his time in accordance with such śāstraic scheme of life as has been taught by hisācārya in rendering service to Bhagavān with no other purpose than to please Him. (In this context the following passages may be borne in mind):- "I do not desire to go to the divine world leaving Thee; oor do I desire to enjoy immortality so also without Thee, I have no desire for the glory which comes of ruling the world". “ You will enjoy yourself with Sītā on the slopes of the mountains. I will render all service to you whether you are awake or asleep''. "I may be born to any one in whatever family; (wherever I may be born), may I have the eager longing to enjoy the pleasure of rendering service to Thee! I will never do anything on behalf of any other deity with my body, mind, speech or head". "The only object that I have in view is that the Lord should take me into His service for His own pleasure."
 
