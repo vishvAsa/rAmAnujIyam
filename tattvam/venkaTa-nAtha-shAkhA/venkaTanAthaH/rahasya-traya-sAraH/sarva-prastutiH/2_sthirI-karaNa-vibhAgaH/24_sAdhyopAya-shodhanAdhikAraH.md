@@ -13639,10 +13639,110 @@ en el **tratado** sobre la **vida** diaria
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Any differences that might appear in these descriptions are easily explained as due to differences found in different Saṁhitās.
+इवऱ्ऱिल् उळ्ळ वैषम्यङ्गळ्  
+अव्वो-संहिता-विशेषङ्गळिले सॊल्लुम् विकल्पङ्गळाले सङ्गतङ्गळ्।  
+</details>
 
-Hence the prapanna should spend his time in accordance with such śāstraic scheme of life as has been taught by hisācārya in rendering service to Bhagavān with no other purpose than to please Him. (In this context the following passages may be borne in mind):- "I do not desire to go to the divine world leaving Thee; oor do I desire to enjoy immortality so also without Thee, I have no desire for the glory which comes of ruling the world". “ You will enjoy yourself with Sītā on the slopes of the mountains. I will render all service to you whether you are awake or asleep''. "I may be born to any one in whatever family; (wherever I may be born), may I have the eager longing to enjoy the pleasure of rendering service to Thee! I will never do anything on behalf of any other deity with my body, mind, speech or head". "The only object that I have in view is that the Lord should take me into His service for His own pleasure."
+<details><summary>English</summary>
+
+Any differences that might appear in these descriptions are easily explained  
+as due to differences found in different Saṁhitās.
+</details>
+
+<details><summary>Español</summary>
+
+Cualquier diferencia que **pueda aparecer** en estas **descripciones se explican** fácilmente  
+como debido a las diferencias **encontradas** en diferentes saṁhitās.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिलुळ्ळ वैषम्यङ्गळ् अव्वो संहिताविशेषङ्गळिले सॊल्लुम् विकल्पङ्गळाले सङ्गतङ्गळ्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् आगैयाले  
+
+> ‘‘न देव-लोकाक्रमणं’’  
+(रामायणम् अयोध्या-काण्डम् ३१-५)  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न देव-लोकाक्रमणं’’  
+(रामायणम् अयोध्या-काण्डम् ३१-५)  
+
+</details>
+
+<details><summary>English</summary>
+
+(In this context the following passages may be borne in mind):- 
+
+> "I do not desire to go to the divine world leaving Thee;  
+nor do I desire to enjoy immortality so also without Thee,  
+I have no desire for the glory which comes of ruling the world". 
+</details>
+
+<details><summary>Español</summary>
+
+(En este contexto, los **siguientes** pasajes **pueden tener** en cuenta):-
+
+> "**No deseo ir** al mundo divino dejándote;  
+**ni deseo disfrutar** de la inmortalidad también sin ti,  
+**No tengo ganas** de la gloria  
+que **viene** de **gobernar** el mundo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियागैयाले ‘‘न देवलोकाक्रमणं’’(रामायणम् अयोध्या-काण्डम् ३१-५)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘भवांस् तु सह वैदेह्या’’  
+(रामायणम् युद्ध-काण्डम् ११४-१५)
+</details>
+
+<details><summary>English</summary>
+
+> “ You will enjoy yourself with Sītā on the slopes of the mountains.  
+I will render all service to you whether you are awake or asleep".
+</details>
+
+<details><summary>Español</summary>
+
+> “Te **disfrutarás** con Sītā en las laderas de las montañas.  
+Le **prestaré** todo el **servicio**  
+si **está despierto o dormido** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ‘‘भवांस् तु सह वैदेह्या’’  
+(रामायणम् युद्ध-काण्डम् ११४-१५)
+
+</details>
+
+
+Hence the prapanna should spend his time in accordance with such śāstraic scheme of life as has been taught by his ācārya in rendering service to Bhagavān with no other purpose than to please Him. 
+ 
+
+> "I may be born to any one in whatever family; (wherever I may be born),  
+may I have the eager longing  
+to enjoy the pleasure of rendering service to Thee!  
+I will never do anything on behalf of any other deity  
+with my body, mind, speech or head". 
+
+> "The only object that I have in view  
+is that the Lord should take me into His service for His own pleasure."
 
 This daily worship of Bhagavān consisting of abhigamana (approach) (and the four other duties) should not be done for the sake of such things as vanity, gain or honours as done by up believers; nor should it be done for the sake of any other object in
 
