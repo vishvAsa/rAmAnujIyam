@@ -13731,17 +13731,130 @@ si **está despierto o dormido** ".
 </details>
 
 
-Hence the prapanna should spend his time in accordance with such śāstraic scheme of life as has been taught by his ācārya in rendering service to Bhagavān with no other purpose than to please Him. 
- 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यत्र कुत्र कुले **वासो**  
+येषु केषु **भवो ऽस्तु** मे ।  
+तव दास्यैक-**भोगे स्यात्**  
+सदा सर्वत्र मे **रतिः** ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यत्र कुत्र कुले **वासो**  
+येषु केषु **भवो ऽस्तु** मे ।  
+तव दास्यैक-**भोगे स्यात्**  
+सदा सर्वत्र मे **रतिः** ॥ 
+</details>
+
+<details><summary>विषयः</summary>
+
+भक्तिः, दास्यम्
+</details>
+
+
+<details><summary>English</summary>
 
 > "I may be born to any one in whatever family; (wherever I may be born),  
 may I have the eager longing  
 to enjoy the pleasure of rendering service to Thee!  
-I will never do anything on behalf of any other deity  
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Puedo nacer de cualquiera en cualquier familia; (donde sea que pueda nacer),
+¿Puedo tener el ansioso anhelo
+¡Para disfrutar el placer de prestar servicio a ti!
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यत्र कुत्र कुले वासो येषु केषु भवोस्तु मे । तव दास्यैकभोगे स्यात् सदा सर्वत्र मे रतिः ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कर्मणा मनसा वाचा  
+शिरसा वा कथञ्चन ।  
+त्वां विना नान्यम् **उद्दिश्य**  
+**करिष्ये** किञ्चिद् अप्य् अहं’’  
+(द्वितीया जितन्ता- ८) 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> कर्मणा मनसा वाचा  
+शिरसा वा कथञ्चन ।  
+त्वां विना नान्यम् **उद्दिश्य**  
+**करिष्ये** किञ्चिद् अप्य् अहं’’  
+(द्वितीया जितन्ता- ८) 
+</details>
+
+
+<details><summary>English</summary>
+
+> I will never do anything on behalf of any other deity  
 with my body, mind, speech or head". 
+
+</details>
+
+<details><summary>Español</summary>
+
+> Nunca haré nada en nombre de ninguna otra deidad
+con mi cuerpo, mente, habla o cabeza ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+कर्मणा मनसा वाचा शिरसा वा कथंचन । त्वां विना नान्यमुद्दिश्य करिष्ये किञ्चिदप्यहं’’(इरण्डावदु जितन्ता- ८) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'तऩक्केय् आगव् ऎऩैक् कॊळ्ळुम् ईदे +++(काङ्क्षितम्)+++'(तिरुवाय्मॊऴि २-९-४) 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>English</summary>
 
 > "The only object that I have in view  
 is that the Lord should take me into His service for His own pleasure."
+
+</details>
+
+<details><summary>Español</summary>
+
+> "El único objeto que **tengo** a la vista  
+**es** que el Señor **debería llevarme** a su **servicio** por su propio placer ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’तऩक्केयाग वॆऩैक् कॊळ्ळुमीदेय्’’(तिरुवाय्मॊऴि २-९-४)  ऎऩ्गिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-प्रीति-मात्रम् प्रयोजनम् आऩ कैङ्कर्यत्तिले  
+स्वाचार्योपदिष्टम् आय् इरुप्पद्  
+ऒरु शास्त्रीय-प्रक्रियैयैक् कॊण्डु  
+यथा-कालम् अन्वयिक्कप् प्राप्तम्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवत्प्रीतिमात्रम् प्रयोजनमाऩगैङ्कर्यत्तिले स्वाचार्योपदिष्टमायिरुप्पदॊरु शास्त्रीयप्रक्रियैयैक्कॊण्डु यथाकालमन्वयिक्कप्प्राप्तम्।
+</details>
+
+
+Hence the prapanna should spend his time in accordance with such śāstraic scheme of life as has been taught by his ācārya in rendering service to Bhagavān with no other purpose than to please Him.
 
 This daily worship of Bhagavān consisting of abhigamana (approach) (and the four other duties) should not be done for the sake of such things as vanity, gain or honours as done by up believers; nor should it be done for the sake of any other object in
 
