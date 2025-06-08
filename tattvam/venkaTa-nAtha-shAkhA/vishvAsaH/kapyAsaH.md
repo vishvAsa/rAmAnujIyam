@@ -30,6 +30,7 @@ title = "कप्यासः"
 
 इति पराशरभट्टः। 
 
+It must be noted that the vyutpatti is in support of _a_ rUDhArtha from nirukta (sun), and not anything novel (like blotting paper). As such, the objection of rUDhi> yoga is not applicable here.
 
 
 > **कप्यासं** – सलिलस्थम् इत्यर्थः ।  
@@ -58,16 +59,40 @@ Refer to verses 20-26 of Tattvasara by Vatsya Varadaguru of 13th century. This e
 
 A rebuttal to "कम् पिबति" has been provided by Rāma Śāstrī in his Kapyāsa-Kaumudī.
 
+Strikes me as a case where some vyAkaraNa knowledge hindered rather than helped. Obvious to common sense (without vyAk) that "monkey-butt" doesn't fit, but vyAkaraNa leads to superficial "vyutpatti" bias, instead of going straight for avyutpatti or nirukti.
+
+
 ### भट्ट-भास्करः
 > " कं पिबति इति कपिः"
 
 इति तैत्तिरीयारण्यके। 
 
+### निरुक्तकारः कम्प्-धातोः 
+> अथ यद् रश्मिभिरभिप्रकम्पयन्नेति तद् वृषाकपिर्भवति ।  वृषाकम्पनः । [निरु० १२।२७] 
+
+इति कम्प्-धातोर् निरुक्तिर् वरा।  
+
+Bottom line is by nirukta time, kapi was rUDha as sun among the early vaidika-s (precisely the kind who would use kapyAsa in a contemporaneous upaniShat) 
+
+> अथ यद् रश्मिभिरभिप्रकम्पयन्नेति तद् वृषाकपिर्भवति । 
+
+### वर्णार्थे
+
+> कुठिकम्प्योर् नलोपश्च ॥ १४३ ॥
+कुठि गतिप्रतिघाते । कपि चलने ॥  
+श्राभ्यामिः किन्वति धातोर्नलोपश्च । १०  
+कुठिः पर्वतवृक्षयोः ॥  
+कपिर्वानरो वर्णनाम च ।  
+वृषः कपिरस्येत्य् अन्येषाम् अपोति दीर्घः ।  
+वृषाकपिः शिवे विष्णौ पांते ऽमरः । कपिज्ञात्योर्ढक् । पा ५, १० १२७. । कापेयं । वृषाकपायी श्रीर् गौर्योर् इति यांते?? ऽमरः । कपिशकपिलौ लोमादिसिध्मादी ॥
 
 
-### कुशाग्रः
+इत्य् उज्ज्वलदत्त उणादिसूत्रेषु । 
 
 > A word such as kapyāsa, denoting a particular variety of lotus, may have no meaningful connection to either kapi or āsa. ... 
+
+\- कुशाग्रः
+
 
 ## व्युत्पत्ति-निरुक्तयः
 
@@ -76,5 +101,3 @@ A rebuttal to "कम् पिबति" has been provided by Rāma Śāstrī i
 `सर्वधातुभ्य इन्। आतो लोपः` इत्य् अनेन च व्युत्पत्तिः। 
 
 
-### कम्प्-धातोः
-“रश्मिभिरभिप्रकम्पयन्नेति तद्वृषाकपिः” [निरु० १२।२७] इति कम्प्-धातोर् निरुक्तिर् वरा।  
