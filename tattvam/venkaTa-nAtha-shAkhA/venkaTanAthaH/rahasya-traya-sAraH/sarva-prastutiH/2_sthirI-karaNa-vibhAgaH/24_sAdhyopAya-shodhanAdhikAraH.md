@@ -13320,6 +13320,13 @@ y al **adorarlo** "
 इप् प्रपन्नऩुक्कु ’’पूसित्तुम्बोक्किऩेऩ् पोद्’’(नाऩ्मुगऩ् तिरुवन्दादि ६३)  ऎऩ्गिऱ अनन्यप्रयोजनमाऩ पूजाविशेषत्तै 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द ध्यान विशेषत्तैयेयरुळिच्चॆय्दारॆऩ्गिऱार् इप् प्रपन्नऩुक्कु इत्यादिना ।  
+स्वतन्त्रप्रपत्तिनिष्ठऩुक्कु ध्यानम् स्वयम्प्रयोजनमाग अन्वयिक्किऱदु ऎऩ्ऱार्।  
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘अथ परमैकान्तिनो भगवद्-आराधन-प्रयोगं वक्ष्ये,  
@@ -13406,6 +13413,16 @@ he goes on to say,
 ‘‘अत्यर्थप्रियाविरतविशदतमप्रत्यक्षरूपानुध्यानेन ध्यायन्नासीत’’(नित्यम्) ऎऩ्ऱुमरुळिच्चॆय्दार्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अप्पडिये नित्यत्तिल्  
+
+> ‘‘अथ परमैकान्तिनो भगवदाराधनप्रयोगं वक्ष्ये’’  
+
+ऎऩ्ऱु इन्द निष्ठैयैयुडैय परमैकान्तिक्के अनन्यप्रयोजनपूजाविशेषत्तैच् चॊल्लत्तुडङ्गि अत्यर्थ-प्रियेत्यादिना ।  
+</details>
+
+
 ### पाञ्च-कालिक-वृत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -13443,6 +13460,22 @@ y con lo que **ha sido prescrito** por Vyāsa, Dakṣa y otros grandes sabios.
 
 इप्पडि अनन्यप्रयोजन निरन्तर भगवदनुसन्धान परीवाहमाऩ कैङ्कर्यत्तिले भगवच्छास्त्रोक्तमुमाय् व्यासदक्षादि महर्षिमतङ्गळोडुम् सङ्गतमाय्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ध्यानपरीवाहङ्गळ् आऩ पाञ्चकालिक-कैङ्कर्यङ्गळै स्वयम्-प्रयोजन-ध्यान-घटितङ्गळ् आगवे  
+काल-विभाग-प्रदर्शन-पूर्वकम्  
+वङ्गिबुरत्तु नम्बि, भाष्यकारर् उपदेशित्त बडि  
+तऩ् नित्यत्तिल् सङ्ग्रहित्तार् ऎऩ्गिऱार्  
+इप्पडि अनन्यप्रयोजनेत्यादियाल्।  
+भगवदनुसन्धानपरीवाहमाऩ कैङ्कर्यत्तिलिति । अभिगमनादिगळिलॆऩ्ऱबडि। इदऱ्कु कालविभागत्तै ऎऩ्बदोडन्वयम्।   
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि इवर् कालविभागादिगळैच् चॆय्वदऱ्कु प्रमाणम् वेण्डावोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् भगवच्छास्त्रोक्तमुमायिति । इदऱ्कु भगवच्छास्त्रम् प्रमाणमॆऩ्ऱबडि। आऩाल् इदु ऎट्टागवुम् पदिऩैन्दागवुम् कालङ्गळैप् पिरित्तु कैङ्गर्यङ्गळै यरुळिच्चॆय्द व्यासदक्षादिमतङ्गळोडु मुरण् पडादोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् व्यासदक्षादिमहर्षिमतङ्गळोडुम् सङ्गतमायिति । कालविभागङ्गळिल् एऱ्ऱच्चुरुक्कङ्गळिरुन्दालुम् कैङ्गर्यङ्गळ् सङ्गिलित् तुवक्काय् व्यासदक्षादिस्मृतिकळिलुम्, पाञ्चरात्रादिगळिलुम् सङ्गतङ्गळागवे इरुक्किऩ्ऱऩ वॆऩ्ऱु करुत्तु।
+</details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -13496,6 +13529,12 @@ Según lo **comentado** por los ācāryas.
 ’’मऱन्दिगऴुम्’’(पॆरुमाळ् तिरुमॊऴि १-७)  ऎऩ्गिऱ पाट्टिलुम् ’’इरुमुप्पॊऴुदेत्तिय्’’(पॆरुमाळ् तिरुमॊऴि १-७)  ऎऩ्ऱ पासुरत्तुक्कु विवक्षितमाग आचार्यर्गळ् व्याख्यानम्बण्णिऩ कालविभागत्तै
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मऱन्दिगऴुमिति । पॆरुमाळ् तिरुमॊऴि मुदऱ्पत्तु एऴाम् पाट्टु। इरुमुप्पॊऴुदेत्ति - पञ्चकालङ्गळिलुम् स्तोत्रम् पण्णि, कालविभागत्तै - पञ्चकालविभागत्तै, 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **अभिगच्छन्** हरिं प्रातः  
@@ -13542,6 +13581,14 @@ así en las cinco partes **mencionadas** del día,
 ‘‘अभिगच्छन् हरिं प्रातः पश्चाद्द्रव्याणि चार्जयन् । अर्चयंश्च ततो देवं ततो मन्त्रान् जपन्नपि । ध्यायन्नपि परं देवं कालेषूक्तेषु पञ्चसु ॥ 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कैङ्कर्यत्तिल् कालविभागत्तै सङ्ग्रहित्तारॆऩ्ऱु सॊऩ्ऩदाल्  
+अभिगच्छन्नित्यादिवाक्यत्तिल् अभिगमनादिकैङ्कर्यमुम् तदुचितकालमुम् सङ्गृहीतमॆऩ्ऱद् आयिऱ्ऱु। 
+
+…मन्त्रान् जपन्नपि – मन्त्रजपरूपस्वाध्यायं कुर्वन् ऎऩ्ऱबडि। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -13582,6 +13629,10 @@ con el buen incienso y las flores **reunidas** por mí con mi propio esfuerzo ".
 वर्तमानस्सदा चैवं पाञ्चकालिकवर्त्मना । स्वार्जितैर्गन्धपुष्पाद्यैः शुभैश्शक्त्यनुरूपतः ॥ आराधयन् हरिं भक्त्या गमयिष्यामि वासरान्॥’’(वङ्गिबुरत्तुनम्बि-कारिका ३४-३६) 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘गमयिष्यामि वासरान्’’ ऎऩ्ऱु भाष्यकारर् अरुळिच्चॆय्यक्केट्टु ऎऩ्गिऱ श्रीसूक्तियैप् परामर्शित्तालुम्, सङ्ग्रहित्तारॆऩ्बदै नोक्किऩालुम् ‘‘अभिगच्छन् हरिं प्रातः’’ ऎऩ्बदु मुदल् ‘‘गमयिष्यामि वासरान्’’ ऎऩ्गिऱ पर्यन्तम् श्रीभाष्यकाररुडैय श्रीसूक्तियॆऩ्ऱु तोऱ्ऱुगिऱदु। सम्प्रदायज्ञाः प्रमाणम्। +++(5)+++ 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13592,7 +13643,7 @@ con el buen incienso y las flores **reunidas** por mí con mi propio esfuerzo ".
 
 <details><summary>नीलमेघः (सं)</summary>
 
-ss[[२२६]] 
+[[२२६]] 
 
 इति भाष्यकारानुगृहीतं श्रुत्वा,  
 वङ्गि-पुर-पूर्णो नित्ये संजग्राह । 
@@ -13617,6 +13668,12 @@ Vaṅgīpuram Nambi lo **resumió** brevemente en su nitya en las palabras **cit
 
 ऎऩ्ऱु भाष्यकारररुळिच्चॆय्यक् केट्टु वङ्गिपुरत्तु नम्बि नित्यत्तिले संग्रहित्तार्। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नित्यत्तिले – पञ्चशतकारिकारूपमाऩ तऩ् नित्यत्तिले, नम्बि-कारिकैयिले ऎऩ्ऱबडि। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -13653,16 +13710,21 @@ en el **tratado** sobre la **vida** diaria
 इप्पडि पॆरिय जीयरुळ्ळिट्टार् नित्यङ्गळिलुङ्गण्डुगॊळ्वदु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पॆरिय जीयर् - नञ्जीयर् +++(नेति केचित्)+++, 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवऱ्ऱिल् उळ्ळ वैषम्यङ्गळ्  
++++(सम्प्रदाये)+++ इवऱ्ऱिल् उळ्ळ वैषम्यङ्गळ्  
 अव्वो-संहिता-विशेषङ्गळिले सॊल्लुम् विकल्पङ्गळाले सङ्गतङ्गळ्।  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-अत्रत्यानि वैषम्याणि  
++++(सम्प्रदाये)+++ अत्रत्यानि वैषम्याणि  
 तत्-तत्-संहिता-विशेषेषूक्तैर् विकल्पैः संगतानि । 
 </details>
 
@@ -13685,12 +13747,20 @@ como debido a las diferencias **encontradas** en diferentes saṁhitās.
 इवऱ्ऱिलुळ्ळ वैषम्यङ्गळ् अव्वो संहिताविशेषङ्गळिले सॊल्लुम् विकल्पङ्गळाले सङ्गतङ्गळ्।  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+श्रीभाष्यकारसम्प्रदायस्थर्गळाऩ तच्छिष्यप्रशिष्यर्गळुडैय नित्यङ्गळिल् वैषम्यङ्गळ् वन्ददॆप्पडि यॆऩ्ऩवरुळिच्चॆय्गिऱार् इवऱ्ऱिलुळ्ळ वैषम्यङ्गळ् अव्वो संहिताविशेषङ्गळिले सॊल्लुम् विकल्पङ्गळाले सङ्गतङ्गळिति । इङ्गु विगल्बङ्गळाले ऎऩ्ऱु सॊऩ्ऩदाल् संहितैकळि लॆल्लाम् वैषम्यम् ऎदऩाल् ऎऩ्गिऱ शङ्गै परिहृतम्।  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिय् आगैयाले  
 
 > ‘‘न देव-लोकाक्रमणं’’  
+> ‘‘(नामरत्वम् अहं वृणे ।  
+ऐश्वर्यं वाऽपि लोकानां  
+कामये न त्वया विना॥)’’  
 (रामायणम् अयोध्या-काण्डम् ३१-५)  
 </details>
 
@@ -13699,6 +13769,9 @@ como debido a las diferencias **encontradas** en diferentes saṁhitās.
 एवंभावात्, 
 
 > ‘‘न देव-लोकाक्रमणं’’  
+> ‘‘(नामरत्वम् अहं वृणे ।  
+ऐश्वर्यं वाऽपि लोकानां  
+कामये न त्वया विना॥)’’  
 (रामायणम् अयोध्या-काण्डम् ३१-५)  
 </details>
 
@@ -13726,6 +13799,18 @@ que **viene** de **gobernar** el mundo ".
 
 इप्पडियागैयाले ‘‘न देवलोकाक्रमणं’’(रामायणम् अयोध्या-काण्डम् ३१-५)
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि अभिगमनादि ध्यानान्तकैङ्कर्यङ्गळुक्कु साम्प्रदायिकत्वत्तैप् प्रदर्शनम् पण्णि अभिगमनादिगळै स्वयम्प्रयोजनमागप् पण्णवेण्डुमॆऩ्बदै उपपादिक्किऱार् इप्पडि यागैयाले इत्यादिना । इप्पडियागैयाल् - स्वयं प्रयोजनमाग विहितमागैया लॆऩ्गै। न देवलोकाक्रमणमिति । 
+
+> ‘‘नामरत्वम् अहं वृणे ।  
+ऐश्वर्यं वाऽपि लोकानां  
+कामये न त्वया विना॥’’ 
+
+ऎऩ्बवै मेल् पादङ्गळ्। देवलोकाक्रमणं – ‘‘देवानां पूर् अयोध्या’’ ऎऩ्ऱु सॊल्लप्पट्ट परम-पदत्तैयुम्, त्वया विना न वृणे - उऩ्ऩुडैय कैङ्गर्यमिल्लाविडिल् इच्चिक्किऱेऩिल्लै। अमरत्वं – कैवल्यत्तैयुम्, त्वया विना न वृणे । लोकानां ऐश्वर्यं - मूऩ्ऱु लोगत्तिऩुडैय ऐश्वर्यत्तैयुम्, अदावदु ब्रह्मत्वत्तैयुम्, त्वया विना न कामये ऎऩ्बदु श्लोकार्थम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -13757,6 +13842,12 @@ si **está despierto o dormido** ".
 
 > ‘‘भवांस् तु सह वैदेह्या’’  
 (रामायणम् युद्ध-काण्डम् ११४-१५)
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उऩ्ऩै विट्टु मोक्षत्तैयुम् आसैप्पडाद नाऩ् ऐश्वर्यकैवल्यङ्गळै आसैप्पडमाट्टेऩ् ऎऩ्ऱभिप्रायम्। भवांस्त्विति । इदु पिराट्टियोडु सेर्त्तियिले कैङ्कर्याभिलाषैयैच् चॊल्लुगिऱदु। 
 </details>
 
 
@@ -13803,6 +13894,12 @@ to enjoy the pleasure of rendering service to Thee!
 ‘‘यत्र कुत्र कुले वासो येषु केषु भवोस्तु मे । तव दास्यैकभोगे स्यात् सदा सर्वत्र मे रतिः ॥ 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+यत्र कुत्रेति । इदु इरण्डावदु जितन्तास्तोत्रत्तिल् ऎट्टावदु श्लोकम्। ऎन्दक् कुलत्तिले नाऩ् वसित्तालुम्, ऎन्दक् कुलत्तिल् पिऱन्दालुमुम्मुडैय कैङ्कर्यानुभवत्तिलेये सर्वगालत्तिलुम् सर्वदेशत्तिलुम् ऎऩक्कु प्रीतियुण्डागवेण्डुमॆऩ्बदु इदिऩर्थम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > कर्मणा मनसा वाचा  
@@ -13841,6 +13938,11 @@ con mi cuerpo, mente, habla o cabeza ".
 कर्मणा मनसा वाचा शिरसा वा कथंचन । त्वां विना नान्यमुद्दिश्य करिष्ये किञ्चिदप्यहं’’(इरण्डावदु जितन्ता- ८) 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कर्मणेति । कायिककर्मत्तालेयुम्,मनस्सिऩालेयुम्, वाक्कालेयुम्, शिरस्सिऩालेयुम् उऩ्ऩै विट्टु अन्यऩै युद्देशित्तु ऒरु कार्यत्तैयुम् निर्बन्धित्तालुम् सॆय्यमाट्टेऩॆऩ्गै। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -13874,6 +13976,11 @@ is that the Lord should take me into His service for His own pleasure."
 <details><summary>मूलम्</summary>
 
 ’’तऩक्केयाग वॆऩैक् कॊळ्ळुमीदेय्’’(तिरुवाय्मॊऴि २-९-४)  ऎऩ्गिऱबडिये 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तऩक्के यागवॆऩैक्कॊळ्ळु मीदे - उम्मुडैय कैङ्गर्यत्तिऱ्कागवे ऎऩ्ऩैक् किङ्गरऩागक्कॊळ्ळवेण्डुम्; ऎऩ्ऩुडैय प्रयोजनसिद्ध्यर्थमाग वेण्डाम्; इदैये नाऩुम्मैप् प्रार्थिप्पदॆऩ्गै। 
 </details>
 
 
@@ -13915,6 +14022,12 @@ sin otro propósito que **complacerlo**.
 भगवत्प्रीतिमात्रम् प्रयोजनमाऩगैङ्कर्यत्तिले स्वाचार्योपदिष्टमायिरुप्पदॊरु शास्त्रीयप्रक्रियैयैक्कॊण्डु यथाकालमन्वयिक्कप्प्राप्तम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+स्वाचार्योपदिष्टेत्यादि । भगवत्प्रीतिमात्रप्रयोजनमाऩ कैङ्गर्यङ्गळ् शास्त्रङ्गळिल् पलबडि सॊल्लप्पट्टिरुन्दालुम् स्वाचार्यरुचिपरिगृहीतङ्गळाऩ कैङ्गर्यङ्गळिल् अन्वयिक्कैये उसिदमॆऩ्ऱु करुत्तु।
+</details>
+
+
 #### आर्थम् फलम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13947,11 +14060,23 @@ Esta **adoración** diaria de Bhagavān que **consiste** en abhigamana (enfoque)
 इप्पडि नित्यमाग विधिक्किऱ भगवदभिगमनादिगळिल् लोकायतिकरैप्पोले ख्यातिलाभपूजैगळुक्कागवादल्,
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि नित्यमाग विधिक्कप्पट्ट अभिगमनादिगळै ख्यातिलाभाभिलाषैयैयुम्, प्रयोजनान्तरेच्छैयैयुम्, मोक्षोपायत्वबुद्धियैयुम् विट्टु मुक्तरैप्पोले भगवत्प्रीत्येकप्रयोजनमाग नडत्तिप् पोन्दाल् अवैगळ् अन्याभिगमनादिछिद्रङ्गळुक्कुम् निवारकङ्गळायिरुक्कुमॆऩ्गिऱार् इप्पडि नित्यमाग इत्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्त्व-ज्ञान--वैराग्यादिगळ् इल्लादारैप् पोले  
 प्रयोजनान्तरत्तुक्क् आगव् आदल्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्त्व-ज्ञान-वैराग्यादि-विधुरवद् अ-प्रयोजनान्तरार्थतां वा 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -13981,6 +14106,12 @@ y otras virtudes similares.
 पूर्णोपायर् अल्लादारैप् पोले  
 मोक्षार्थम् आगव् आदल् अऩ्ऱिक्के 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-पूर्णोपायवन् मोक्षार्थतां वा विनैव  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -14013,6 +14144,17 @@ Pero **no lo he completado**,
 यथा-शास्त्रं स्वयं-प्रयोजनम् आग विऴिन्दाल् +++(5)+++ 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+मुक्तवत्  
+
+> स्वाम्य्-अभिमतं निर्वहणीयम् 
+
+इति रुच्या  
+यथाशास्त्रं स्वयं-प्रयोजन-भावेन प्रवृत्तौ  
+</details>
+
+
 <details><summary>English</summary>
 
 if this mode of worship is performed  
@@ -14037,9 +14179,18 @@ Como lo **hacen** los que ya **han alcanzado** Mukti,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व्-अभिगमनादिगळ्  
-अन्याभिगमनमुम्, अन्यार्थ-प्रवृत्तियुम् +++(←उपादानम्)+++, अन्य-यजनमुम्, अन्य-शब्दङ्गळुम् +++(←स्वाध्यायः)+++, अन्य-चिन्तैयुम् +++(←योगः)+++ आगिऱ छिद्रङ्गळ् पुगामैक्कुक्क्  
-अडकम् आय् इरुक्कुम्। +++(5)+++
+अन्याभिगमनमुम्, अन्यार्थ-प्रवृत्तियुम् +++(←उपादानम्)+++, अन्य-यजनमुम्, अन्य-शब्दङ्गळुम् +++(←स्वाध्यायः)+++, अन्य-चिन्तैयुम् +++(←योगः)+++ आगिऱ छिद्रङ्गळ् पुगामैक्कुक्  
+कटकम्+++(=प्राकारः)+++ आय् इरुक्कुम्। +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमान्य् अभिगमनादीनि  
+अन्याभिगमन--अन्यार्थप्रवृत्ति--अन्य-यजन--  
+अन्य-शब्द--अन्य-चिन्तन-रूपच्-छिद्राणां  
+प्रवेशाप्रसङ्गार्थं प्राकारायन्ते ।  +++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -14067,10 +14218,74 @@ y de la **meditación** (dhyāna) de las otras deidades.
 इव्वभिगमनादिगळ् अन्याभिगमनमुम्, अन्यार्थप्रवृत्तियुम्, अन्ययजनमुम्, अन्यशब्दङ्गळुम्, अन्यचिन्तैयुमागिऱ छिद्रङ्गळ् पुगामैक्कुक्कडगमायिरुक्कुम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कडगमायिरुक्कुम् - कोट्टैयायिरुक्कुम्। प्रतिबन्धकमायिरुक्कुमॆऩ्ऱबडि। 
+</details>
 
 
 
-Periāḻvār has pointed out that there will be no approach to other deities (abhigamana) in the following verse - "Now to that I have the austerity (tapas) of rendering service to Thee, it would be a detraction from Thy glory, if I were hereafter to stand with bowed head in front of the house of any other. Kindly note", He has also pointed out that there will be no activity for securing other things (upādāna) in the verge :-- "I will not so beg of Thee food for eating or cloth for wear." That there will be no yajna or sacrifice to others is brought out in passages like these :- "She will never adore any deity other than Bhagavān even in her thoughts”, “Who else merits our flowers and our adoration than our Lord ?" "(The worship of other deities than Bhagavān) is like washing a wooden doll when ones' mother is at hand to be served", and "O men" of the world who neglect Bhagavān and worship jīvas as if they were deities! Are you washing a wooden doll with warm water when similar service can and should be rendered to the mothers that gave you birth? Are you without the grace of the Lord tbat you cannot render service to Him ?." In the discourse of the seven sages also, it has been declared thus :
+#### अन्याभिगमनादि-निषेधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्याभिगमनम् आगाद् ऎऩ्ऩुम् इडत्तै 
+
+> ८५’’इऩिप् पोय्, ऒरुवऩ्-+तऩक्कुप् **पणिन्दु**+++(=सेवित्वा /नत्वा)+++, कडैत्+++(=द्वार)+++-तलै+++(=मुख्ये)+++ निऱ्कै  
+निऩ् +++(तेजसे)+++ छायैय् अऴिवु - कण्डाय्’’  
+(पॆरियाऴ्वार् तिरुमॊऴि ५-६-३)  
+
+ऎऩ्ऱु पॆरिय्-आऴ्वार् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२२७]] 
+
+अन्याभिगमनं न युक्तम् इत्य् एतम् अर्थम् 
+
+> " इतः परं गत्वा  
+कंचित् प्रणम्य,  
+द्वारि स्थितिः +++(छायया)+++ त्वन्-महिम-नाश-हेतुः ;  
+पश्य"  
+
+इति महा-सूरिर् अनुजग्राह । 
+</details>
+
+
+<details><summary>English</summary>
+
+Periāḻvār has pointed out that there will be no approach to other deities (abhigamana) in the following verse - 
+
+> "Now that I have the austerity (tapas) of rendering service to Thee,  
+it would be a detraction from Thy glory,  
+if I were hereafter to stand with bowed head in front of the house of any other.  
+Kindly note", 
+</details>
+
+<details><summary>Español</summary>
+
+Periāḻvār **ha señalado** que **no habrá** un **enfoque** para otras deidades (abhigamana) en el **siguiente** verso -
+
+> "Ahora que **tengo** la **austeridad** (tapas) de **prestar servicio** a ti,  
+**sería una detracción** de tu gloria,  
+Si **fuera** de adelante para **pararme** con la cabeza **inclinada** frente a la casa de cualquier otra.  
+**Nota** amable ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्याभिगमनमागादॆऩ्ऩुमिडत्तै ८५’’इऩिप्पोयॊरुवऩ्ऱऩक्कुप् पणिन्दु कडैत्तलै निऱ्कै निऩ् सायैयऴिवुगण्डाय्’’(पॆरियाऴ्वार् तिरुमॊऴि ५-६-३)  ऎऩ्ऱु पॆरियाऴ्वाररुळिच्चॆय्दार्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अन्याभिगमनादिगळिऩ् त्याज्यतैयैप् पॆरियाऴ्वार् मुदलाऩवर्गळ् अरुळिच्चॆय्दार्गळॆऩ्गिऱार् अन्याभिगमनमागादॆऩ्ऩुमिडत्तै इत्यादिना । इऩिप्पोयिति । तेवरीरुडैय कैङ्गर्यत्तिल् ईडुबडुम्बडियाऩ भाग्यम् पॆऱ्ऱ नाऩ्, इऩि - इऩिमेल्, पोय् - इन्दक् कैङ्गर्यत्तै विट्टुप्पोय्, ऒरुवऩ् तऩक्कु अप्राप्तऩाऩ ऒरुवऩुक्कु, पणिन्दु - सेवै सॆय्दु, कडैत्तलै - तलैक्कडै, पादपरिसरत्तिलॆऩ्ऱबडि। निऱ्कै - निऱ्कैयाऩदु। निऩ् सायैयऴिवु कण्डाय् - उऩ् तेजस्सुक्कु हानि कण्डाय्। 
+</details>
+
+
+
+He has also pointed out that there will be no activity for securing other things (upādāna) in the verge :-- "I will not so beg of Thee food for eating or cloth for wear." That there will be no yajna or sacrifice to others is brought out in passages like these :- "She will never adore any deity other than Bhagavān even in her thoughts”, “Who else merits our flowers and our adoration than our Lord ?" "(The worship of other deities than Bhagavān) is like washing a wooden doll when ones' mother is at hand to be served", and "O men" of the world who neglect Bhagavān and worship jīvas as if they were deities! Are you washing a wooden doll with warm water when similar service can and should be rendered to the mothers that gave you birth? Are you without the grace of the Lord tbat you cannot render service to Him ?." In the discourse of the seven sages also, it has been declared thus :
 
 “He who has stolen the[^70] bulb of the lotus - let him worship other deities than Viṣṇu, who does good to Brahmins, who exercises control over the gods, who is worshipped by all those who live in the three worlds, who is the cause of the creation, the maintenance, and the destruction of the three worlds, who is under the control of no one else, who is the support of the world and who both creates and destroys the world, and who is the guru of the world," and again, “He who has stolen the bulb of the lotus - he is one who never performs those dharmas which please the Lord, who never favours them, and who is of such a nature that he practises evil dharmas and evil rites." That the prapanna will never utter the praise of others is declared in verses like the following:--Tiruvoymozhi 3-9 and also in: "The mouth will never sing the praise of any one other than the Lord.” So also that the prapanna will never think of others is declared in the following passages :-"My thoughts are never with any deity other than the Lord. Bhagavān who helps the gods is aware of this." and "I will never think that there are other deities that I want to attain and that will come to me."
 
