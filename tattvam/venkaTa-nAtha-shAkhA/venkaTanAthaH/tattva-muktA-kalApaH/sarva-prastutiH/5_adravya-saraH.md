@@ -1225,7 +1225,7 @@ unicode_script = "devanagari"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्टेऽपह्नुत्यभावादनुमितिविषये लाघवस्यानुरोधाच्छास्त्रेणैवावसेये विहतिविरहिते नास्तिकत्वप्रहाणात् ।  
-नाथोपज्ञं प्रवृत्तं बहुभिरुपचितं यामुनेयप्रबन्धैस्त्रातं सम्यग्यतीन्द्रैरिदमखिलतमःकर्शनं दर्शनं नः ॥ १३६ ॥
+नाथोपज्ञं प्रवृत्तं बहुभिर् उपचितं यामुनेयप्रबन्धैस् त्रातं सम्यग् यतीन्द्रैर् इदम् अखिल-तमः-कर्शनं दर्शनं नः ॥ १३६ ॥
 </details>
 
 <div class="js_include " url="/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/5_adravya-saraH/136_dRShTe-pahnutyabhAvAdanumitiviShaye_lAghavasyA.md"  newLevelForH1="3" includeTitle="false"  > </div>

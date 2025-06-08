@@ -13590,6 +13590,15 @@ con el buen incienso y las flores **reunidas** por mí con mi propio esfuerzo ".
 वङ्गिपुरत्तु नम्बि नित्यत्तिले संग्रहित्तार्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+ss[[२२६]] 
+
+इति भाष्यकारानुगृहीतं श्रुत्वा,  
+वङ्गि-पुर-पूर्णो नित्ये संजग्राह । 
+</details>
+
+
 <details><summary>English</summary>
 
 Having heard, from the author of Śrī Bhāṣya, this five-fold division of the day  
@@ -13613,6 +13622,12 @@ Vaṅgīpuram Nambi lo **resumió** brevemente en su nitya en las palabras **cit
 
 इप्पडि पॆरिय जीयर् उळ्ळ्-इट्टार् नित्यङ्गळिलुङ् गण्डुगॊळ्वदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं महा-यति-पर्यन्तानां नित्येषु द्रष्टव्यम् । 
+</details>
+
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -13645,6 +13660,13 @@ en el **tratado** sobre la **vida** diaria
 अव्वो-संहिता-विशेषङ्गळिले सॊल्लुम् विकल्पङ्गळाले सङ्गतङ्गळ्।  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्रत्यानि वैषम्याणि  
+तत्-तत्-संहिता-विशेषेषूक्तैर् विकल्पैः संगतानि । 
+</details>
+
+
 <details><summary>English</summary>
 
 Any differences that might appear in these descriptions are easily explained  
@@ -13674,9 +13696,10 @@ como debido a las diferencias **encontradas** en diferentes saṁhitās.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+एवंभावात्, 
+
 > ‘‘न देव-लोकाक्रमणं’’  
 (रामायणम् अयोध्या-काण्डम् ३१-५)  
-
 </details>
 
 <details><summary>English</summary>
@@ -13705,6 +13728,12 @@ que **viene** de **gobernar** el mundo ".
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘भवांस् तु सह वैदेह्या’’  
+(रामायणम् युद्ध-काण्डम् ११४-१५)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘भवांस् तु सह वैदेह्या’’  
 (रामायणम् युद्ध-काण्डम् ११४-१५)
@@ -13820,6 +13849,14 @@ con mi cuerpo, mente, habla o cabeza ".
 ऎऩ्गिऱ बडिये 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> “4 स्वार्थम् एव (त्वद्-अर्थम् एव ) यथा स्याम्,  
+तथा मे स्वीकरणम् एव" 
+
+इत्य्-उक्त-रीत्या 
+</details>
+
 <details><summary>English</summary>
 
 > "The only object that I have in view  
@@ -13848,17 +13885,190 @@ is that the Lord should take me into His service for His own pleasure."
 यथा-कालम् अन्वयिक्कप् प्राप्तम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवत्-प्रीति-मात्र-प्रयोजनके कैङ्कर्ये  
+स्वाचार्योपदिष्टां काञ्चिच् छास्त्रीय-प्रक्रियाम् अवलम्ब्य  
+यथा-कालम् अन्वेतुं युक्तम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+Hence the prapanna should spend his time in accordance with such śāstraic scheme of life  
+as has been taught by his ācārya  
+in rendering service to Bhagavān  
+with no other purpose than to please Him.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, la Prapanna **debería pasar** su tiempo de **acuerdo** con **dicho** esquema de la vida Śāstraic  
+Como **ha sido enseñado** por su ācārya  
+en **prestar servicio** a Bhagavān  
+sin otro propósito que **complacerlo**.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 भगवत्प्रीतिमात्रम् प्रयोजनमाऩगैङ्कर्यत्तिले स्वाचार्योपदिष्टमायिरुप्पदॊरु शास्त्रीयप्रक्रियैयैक्कॊण्डु यथाकालमन्वयिक्कप्प्राप्तम्।
 </details>
 
+#### आर्थम् फलम्
 
-Hence the prapanna should spend his time in accordance with such śāstraic scheme of life as has been taught by his ācārya in rendering service to Bhagavān with no other purpose than to please Him.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-This daily worship of Bhagavān consisting of abhigamana (approach) (and the four other duties) should not be done for the sake of such things as vanity, gain or honours as done by up believers; nor should it be done for the sake of any other object in
+इप्-पडि नित्यम् आग विधिक्किऱ भगवद्-अभिगमनादिगळिल् लोकायतिकरैप् पोले  
+ख्याति-लाभ-पूजैगळुक्क् आगव् आदल्,
+</details>
 
-view (than pleasing Bhagavān, as may be done by those who have no knowledge of the truth and have not yet acquired freedom from the desire for worldly pleasures (vairāgya) and other such virtues. Without any desire even for the attainment of mokṣa as by those who adopt bhakti yoga but have not completed it, if this mode of worship is performed with the sole desire of doing what is agreeable to the Lord for its own sake, as it is done by those who have already attained mukti, this abhigamana (approach) and other things will shield the prapanna from the approach to other deities (abhigamana), from activities for the sake of other interests (upadana), from yajnas to other deities, from words about other (deities ) and from meditation (dhyāna ) of the other deities.
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं नित्यतया विहितेषु भगवद्-अभिगमनादिषु लोकायतिकवत् ख्याति-लाभ-पूजार्थतां वा 
+</details>
+
+
+<details><summary>English</summary>
+
+This daily worship of Bhagavān consisting of abhigamana (approach) (and the four other duties) should not be done for the sake of such things as vanity, gain or honours as done by unbelievers; 
+</details>
+
+<details><summary>Español</summary>
+
+Esta **adoración** diaria de Bhagavān que **consiste** en abhigamana (enfoque) (y los otros cuatro deberes)  
+**no debe hacerse** por el bien de las cosas como la vanidad, la **ganancia** o los honores  
+**según** lo **hecho** por los **no creyentes**;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि नित्यमाग विधिक्किऱ भगवदभिगमनादिगळिल् लोकायतिकरैप्पोले ख्यातिलाभपूजैगळुक्कागवादल्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्त्व-ज्ञान--वैराग्यादिगळ् इल्लादारैप् पोले  
+प्रयोजनान्तरत्तुक्क् आगव् आदल्, 
+</details>
+
+<details><summary>English</summary>
+
+nor should it be done for the sake of any other object in view (than pleasing Bhagavān),  
+as may be done by those who have no knowledge of the truth  
+and have not yet acquired freedom from the desire for worldly pleasures (vairāgya)  
+and other such virtues. 
+</details>
+
+<details><summary>Español</summary>
+
+Tampoco **se debe hacer** por el bien de ningún otro objeto a la vista (que complacer a Bhagavān),  
+Como **pueden hacer** aquellos que **no tienen conocimiento** de la verdad  
+y aún **no han adquirido** la libertad del deseo de placeres mundanos (Vairāgya)  
+y otras virtudes similares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्त्वज्ञानवैराग्यादिगळिल्लादारैप्पोले प्रयोजनान्तरत्तुक्कागवादल्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्णोपायर् अल्लादारैप् पोले  
+मोक्षार्थम् आगव् आदल् अऩ्ऱिक्के 
+</details>
+
+<details><summary>English</summary>
+
+Without any desire even for the attainment of mokṣa  
+as by those who adopt bhakti yoga  
+but have not completed it, 
+</details>
+
+<details><summary>Español</summary>
+
+Sin ningún **deseo** incluso por el **logro** de Mokṣa  
+como por los que **adoptan** el yoga bhakti  
+Pero **no lo he completado**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पूर्णोपायरल्लादारैप् पोले मोक्षार्थमागवादलऩ्ऱिक्के 
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्तरैप् पोले 
+
+> स्वाम्य्-अभिमतत्तै नडत्त वेणुम्  
+
+ऎऩ्गिऱ रुचियाले  
+यथा-शास्त्रं स्वयं-प्रयोजनम् आग विऴिन्दाल् +++(5)+++ 
+</details>
+
+<details><summary>English</summary>
+
+if this mode of worship is performed  
+with the sole desire of doing what is agreeable to the Lord for its own sake,  
+as it is done by those who have already attained mukti,
+</details>
+
+<details><summary>Español</summary>
+
+Si **se realiza** este modo de **adoración**  
+con el único deseo de **hacer** lo que **está agradable** para el Señor por sí mismo,  
+Como lo **hacen** los que ya **han alcanzado** Mukti,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुक्तरैप्पोले स्वाम्यभिमतत्तै नडत्तवेणुमॆऩ्गिऱ रुचियाले यथाशास्त्रं स्वयंप्रयोजनमाग विऴिन्दाल् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अभिगमनादिगळ्  
+अन्याभिगमनमुम्, अन्यार्थ-प्रवृत्तियुम् +++(←उपादानम्)+++, अन्य-यजनमुम्, अन्य-शब्दङ्गळुम् +++(←स्वाध्यायः)+++, अन्य-चिन्तैयुम् +++(←योगः)+++ आगिऱ छिद्रङ्गळ् पुगामैक्कुक्क्  
+अडकम् आय् इरुक्कुम्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+this abhigamana (approach) and other things  
+will shield the prapanna from the approach to other deities (abhigamana),  
+from activities for the sake of other interests (upadana),  
+from yajnas to other deities,  
+from words about other (deities )  
+and from meditation (dhyāna ) of the other deities.
+</details>
+
+<details><summary>Español</summary>
+
+este abhigamana (enfoque) y otras cosas  
+**protegerá** el Prapanna del **acercamiento** a otras deidades (Abhigamana),  
+de **actividades** por el bien de otros intereses (upadana),  
+de yajnas a otras deidades,  
+De las palabras sobre otras (deidades)  
+y de la **meditación** (dhyāna) de las otras deidades.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वभिगमनादिगळ् अन्याभिगमनमुम्, अन्यार्थप्रवृत्तियुम्, अन्ययजनमुम्, अन्यशब्दङ्गळुम्, अन्यचिन्तैयुमागिऱ छिद्रङ्गळ् पुगामैक्कुक्कडगमायिरुक्कुम्। 
+</details>
+
+
+
 
 Periāḻvār has pointed out that there will be no approach to other deities (abhigamana) in the following verse - "Now to that I have the austerity (tapas) of rendering service to Thee, it would be a detraction from Thy glory, if I were hereafter to stand with bowed head in front of the house of any other. Kindly note", He has also pointed out that there will be no activity for securing other things (upādāna) in the verge :-- "I will not so beg of Thee food for eating or cloth for wear." That there will be no yajna or sacrifice to others is brought out in passages like these :- "She will never adore any deity other than Bhagavān even in her thoughts”, “Who else merits our flowers and our adoration than our Lord ?" "(The worship of other deities than Bhagavān) is like washing a wooden doll when ones' mother is at hand to be served", and "O men" of the world who neglect Bhagavān and worship jīvas as if they were deities! Are you washing a wooden doll with warm water when similar service can and should be rendered to the mothers that gave you birth? Are you without the grace of the Lord tbat you cannot render service to Him ?." In the discourse of the seven sages also, it has been declared thus :
 
