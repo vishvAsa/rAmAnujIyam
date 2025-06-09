@@ -14283,9 +14283,41 @@ Si **fuera** de adelante para **pararme** con la cabeza **inclinada** frente a l
 अन्याभिगमनादिगळिऩ् त्याज्यतैयैप् पॆरियाऴ्वार् मुदलाऩवर्गळ् अरुळिच्चॆय्दार्गळॆऩ्गिऱार् अन्याभिगमनमागादॆऩ्ऩुमिडत्तै इत्यादिना । इऩिप्पोयिति । तेवरीरुडैय कैङ्गर्यत्तिल् ईडुबडुम्बडियाऩ भाग्यम् पॆऱ्ऱ नाऩ्, इऩि - इऩिमेल्, पोय् - इन्दक् कैङ्गर्यत्तै विट्टुप्पोय्, ऒरुवऩ् तऩक्कु अप्राप्तऩाऩ ऒरुवऩुक्कु, पणिन्दु - सेवै सॆय्दु, कडैत्तलै - तलैक्कडै, पादपरिसरत्तिलॆऩ्ऱबडि। निऱ्कै - निऱ्कैयाऩदु। निऩ् सायैयऴिवु कण्डाय् - उऩ् तेजस्सुक्कु हानि कण्डाय्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यार्थ-प्रवृत्तिय् आगाद् ऎऩ्ऩुम् इडत्तैयुम् 
+
+> ’’कूऱै+++(=वस्त्रम्)+++ सोऱ्+++(=अन्नम्)+++ इवै वेण्डुवद् इल्लैय्’’(पॆरियाऴ्वार् तिरुमॊऴि ५-१-४)  
+
+ऎऩ्ऱ् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>English</summary>
+
+He has also pointed out that  
+there will be no activity for securing other things (upādāna) in the verse :-- 
+
+> "I will not so beg of Thee food for eating or cloth for wear." 
+</details>
+
+<details><summary>Español</summary>
+
+También **ha señalado** que  
+**No habrá actividad** para **asegurar** otras cosas (upādāna) en el verso:-
+
+> "**No le ruego** tanto a la comida por **comer** o tela para **usar**".
+</details>
 
 
-He has also pointed out that there will be no activity for securing other things (upādāna) in the verge :-- "I will not so beg of Thee food for eating or cloth for wear." That there will be no yajna or sacrifice to others is brought out in passages like these :- "She will never adore any deity other than Bhagavān even in her thoughts”, “Who else merits our flowers and our adoration than our Lord ?" "(The worship of other deities than Bhagavān) is like washing a wooden doll when ones' mother is at hand to be served", and "O men" of the world who neglect Bhagavān and worship jīvas as if they were deities! Are you washing a wooden doll with warm water when similar service can and should be rendered to the mothers that gave you birth? Are you without the grace of the Lord tbat you cannot render service to Him ?." In the discourse of the seven sages also, it has been declared thus :
+<details><summary>मूलम्</summary>
+
+अन्यार्थप्रवृत्तियाकादॆऩ्ऩुमिडत्तैयुम् ’’कूऱैसोऱिवै वेण्डुवदिल्लैय्’’(पॆरियाऴ्वार् तिरुमॊऴि ५-१-४)  ऎऩ्ऱरुळिच्चॆय्दार्। 
+</details>
+
+
+
+
+That there will be no yajna or sacrifice to others is brought out in passages like these :- "She will never adore any deity other than Bhagavān even in her thoughts”, “Who else merits our flowers and our adoration than our Lord ?" "(The worship of other deities than Bhagavān) is like washing a wooden doll when ones' mother is at hand to be served", and "O men" of the world who neglect Bhagavān and worship jīvas as if they were deities! Are you washing a wooden doll with warm water when similar service can and should be rendered to the mothers that gave you birth? Are you without the grace of the Lord tbat you cannot render service to Him ?." In the discourse of the seven sages also, it has been declared thus :
 
 “He who has stolen the[^70] bulb of the lotus - let him worship other deities than Viṣṇu, who does good to Brahmins, who exercises control over the gods, who is worshipped by all those who live in the three worlds, who is the cause of the creation, the maintenance, and the destruction of the three worlds, who is under the control of no one else, who is the support of the world and who both creates and destroys the world, and who is the guru of the world," and again, “He who has stolen the bulb of the lotus - he is one who never performs those dharmas which please the Lord, who never favours them, and who is of such a nature that he practises evil dharmas and evil rites." That the prapanna will never utter the praise of others is declared in verses like the following:--Tiruvoymozhi 3-9 and also in: "The mouth will never sing the praise of any one other than the Lord.” So also that the prapanna will never think of others is declared in the following passages :-"My thoughts are never with any deity other than the Lord. Bhagavān who helps the gods is aware of this." and "I will never think that there are other deities that I want to attain and that will come to me."
 
