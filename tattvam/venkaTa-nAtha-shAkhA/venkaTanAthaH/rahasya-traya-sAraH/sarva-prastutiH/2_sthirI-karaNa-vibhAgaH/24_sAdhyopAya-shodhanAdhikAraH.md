@@ -14457,8 +14457,50 @@ Cuando la madre de Ones está a la mano para ser atendida ",
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-’’मऱ्ऱिङ्गोर् पुदुत् तॆय्वङ्गॊण्डाडुन्दॊण्डीर्! पॆऱ्ऱ तायिरुक्क मणै वॆन् नीराट्टुदिरो माट्टाद तगवऱ्ऱीरेय्’’(पॆरिय तिरुमॊऴि ११-६-६)  ऎऩ्ऱुम् इत्यादिगळाले यरुळिच्चॆय्दार्गळ्। 
+> ’’मऱ्ऱ् इङ्ग् ओर् पुदुत् दैवङ् गॊण्ड्-आडुन् तॊण्डीर्+++(=दासाः)+++!  
+पॆऱ्ऱ ताय् इरुक्क  
++++(पुत्तलिका-)+++मणै वॆन्-नीर्-आट्टुदिरो?  
++++(भगवत्कैङ्कर्यम्)+++ माट्टाद तगव्+++(=कृपा)+++-अऱ्ऱीरेय्!’’  
+(पॆरिय तिरुमॊऴि ११-६-६)  
+
+ऎऩ्ऱुम् इत्य्-आदिगळालेय् अरुळिच् चॆय्दार्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “10 अन्यम् अत्र केचिन् नूतनं देवं स्तुवन्तो दासाः!  
+प्रसूतवत्यां मातरि स्थितायां  
+दारुकम् उष्ण-जलेन स्नपयध्वे  
+हे युक्त-करणाक्षमाः दयाया अगोचराः"  
+
+इत्य्-आदिभिर् अनुजगृहुः । 
+</details>
+
+
+<details><summary>English</summary>
+
+and 
+
+> "O men of the world who neglect Bhagavān  
+and worship jīvas as if they were deities!  
+Are you washing a wooden doll with warm water  
+when similar service can and should be rendered to the mothers that gave you birth?  
+Are you without the grace of the Lord  
+that you cannot render service to Him ?." 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "Oh hombres del mundo que **descuidan** a Bhagavān  
+¡Y **adora** a Jīvas como si **fueran** deidades!  
+¿Estás **lavando** una muñeca de madera con agua tibia
+Cuando un **servicio** similar **puede** y **debe ser prestado** a las madres que le **dieron a luz**?  
+**¿Estás** sin la gracia del Señor?  
+¿Que **no puedes prestarle servicio** a él? "
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -14466,8 +14508,15 @@ Cuando la madre de Ones está a la mano para ser atendida ",
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-and "O men of the world who neglect Bhagavān and worship jīvas as if they were deities! Are you washing a wooden doll with warm water when similar service can and should be rendered to the mothers that gave you birth? Are you without the grace of the Lord tbat you cannot render service to Him ?." In the discourse of the seven sages also, it has been declared thus :
+इङ्गु - इन्द लोगत्तिल्, मऱ्ऱु - नारायणव्यतिरिक्तमाऩ, ओर् - सम्बन्धमऱ्ऱ, पुदुत्तॆय्वम् - पुदियदागक् कल्बिदमाऩ तॆय्वत्तै, कॊण्डाडुम् - पूजिक्कुम्, तॊण्डीर् – शब्दादिविषयचपलर्गळे!  
+पॆऱ्ऱ तायिरुक्क - पॆऱ्ऱ तायार् इरुक्कुम्बोदु, मणैवॆन् नीराट्टुदिरो - मणैक्कु वॆन्नीर् विट्टु उबसरिक्किऱीर्गळो? माट्टाद तगवऱ्ऱीरे - भगवत्कैङ्कर्यम् सॆय्यमाट्टादबडि कृपैयैयिऴन्दीर्गळे ऎऩ्गै। 
+</details>
+
+
+
+In the discourse of the seven sages also, it has been declared thus :
 
 “He who has stolen the[^70] bulb of the lotus - let him worship other deities than Viṣṇu, who does good to Brahmins, who exercises control over the gods, who is worshipped by all those who live in the three worlds, who is the cause of the creation, the maintenance, and the destruction of the three worlds, who is under the control of no one else, who is the support of the world and who both creates and destroys the world, and who is the guru of the world," and again, “He who has stolen the bulb of the lotus - he is one who never performs those dharmas which please the Lord, who never favours them, and who is of such a nature that he practises evil dharmas and evil rites." That the prapanna will never utter the praise of others is declared in verses like the following:--Tiruvoymozhi 3-9 and also in: "The mouth will never sing the praise of any one other than the Lord.” So also that the prapanna will never think of others is declared in the following passages :-"My thoughts are never with any deity other than the Lord. Bhagavān who helps the gods is aware of this." and "I will never think that there are other deities that I want to attain and that will come to me."
 
