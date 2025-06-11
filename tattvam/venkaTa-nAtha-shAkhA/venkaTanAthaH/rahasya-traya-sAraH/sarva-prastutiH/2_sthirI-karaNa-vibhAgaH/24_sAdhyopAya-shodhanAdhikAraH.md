@@ -14292,6 +14292,16 @@ Si **fuera** de adelante para **pararme** con la cabeza **inclinada** frente a l
 ऎऩ्ऱ् अरुळिच् चॆय्दार्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यार्थ प्रवृत्तिर् न युक्तेत्य् एतम् अर्थम् ; 
+
+> "वस्त्रान्ने - एते नापेक्षे" 
+
+इत्य् अनुजग्राह । 
+</details>
+
+
 <details><summary>English</summary>
 
 He has also pointed out that  
@@ -14314,16 +14324,32 @@ También **ha señalado** que
 अन्यार्थप्रवृत्तियाकादॆऩ्ऩुमिडत्तैयुम् ’’कूऱैसोऱिवै वेण्डुवदिल्लैय्’’(पॆरियाऴ्वार् तिरुमॊऴि ५-१-४)  ऎऩ्ऱरुळिच्चॆय्दार्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अन्यार्थप्रवृत्तियागादॆऩ्ऩुमिडत्तैयुमिति । भगवदाराधनव्यतिरिक्तप्रयोजनत्तिऱ्काग प्रवृत्ति कूडादॆऩ्बदैयुम् ऎऩ्ऱबडि। कूऱै सोऱिवै इति । कूऱै - वस्त्रम्, सोऱु - अऩ्ऩम्, इवै वेण्डुवदिल्लै। भगवदाराधनानुपयुक्तमाऩ अन्नवस्त्रादिगळ् वेण्डा मॆऩ्ऱबडि। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्य-यजनम् आगाद् ऎऩ्ऩुम् इडत्तै 
 
-> ’’उऩ्ऩ् इत्तु मऱ्ऱ् ऒरु दॆय्वन् तॊऴाळ् अवऩैय् अल्लाल्’’  
+> ’’उऩ्ऩित्तु+++(=स्मृत्वा)+++ मऱ्ऱ् ऒरु दैवन् तॊऴाळ् अवऩैय् अल्लाल्’’  
 (तिरुवाय्मॊऴि ४-६-१०)  
 
 ऎऩ्ऱुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्य-यजनं न युक्तम् इत्य् एतम् अर्थम् 
+
+> " स्मृत्वाऽन्यत् किम् अपि दैवं नाश्रयेत् तं विना"  
+
+इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -14348,11 +14374,25 @@ incluso en sus **pensamientos** ”,
 अन्य-यजनमागादॆऩ्ऩुमिडत्तै ’’उऩ्ऩित्तु मऱ्ऱॊरु तॆय्वन्दॊऴा ळवऩैयल्लाल्’’(तिरुवाय्मॊऴि ४-६-१०)  ऎऩ्ऱुम् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अन्ययजनमागादॆऩ्ऩुमिडत्तै - भगवद्व्यतिरिक्तपूजै कूडादॆऩ्बदै, उऩ्ऩित्तु इति । उऩ्ऩित्तु - मऩस्साले निऩैत्तु, अवऩैयल्लाल् -अवऩैयऩ्ऱिक्के, मऱ्ऱॊरु तॆय्वम् - देवतान्तरत्तै, तॊऴाळ् - सेवियाळ्, पूजियाळॆऩ्ऱबडि। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-’’देवऩ् ऎम्बॆरुमाऩुक्क् अल्लाऱ् पूवुम् पूजऩैयुन् तगुमे+++(=योग्यः)+++?’’(तिरुवाय्मॊऴि २-२-४) यॆऩ्ऱुम्, 
+’’देवऩ् ऎम्-बॆरुमाऩुक्क् अल्लाऱ् पूवुम् पूजऩैयुन् तगुमे+++(=योग्यः)+++?’’(तिरुवाय्मॊऴि २-२-४) यॆऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> देवाद् अस्मत्-स्वामिनो ऽतिरिक्तस्य  
+पुष्पं पूजनं चानुरूपं किम्? 
+
+इति 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -14370,12 +14410,27 @@ incluso en sus **pensamientos** ”,
 ’’तेवऩॆम्बॆरुमाऩुक्कल्लाऱ् पूवुम् पूसऩैयुन् दगुमे’’(तिरुवाय्मॊऴि २-२-४) यॆऩ्ऱुम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तेवऩिदि । नाभिकमलत्तिल् चतुर्मुखऩैप् पडैत्त नम् स्वामिक्कल्लदु पूवुम् पूसऩैयुम् तगुमो? सडैयाण्डिक्कुप् पू तगादु, पिच्चै याण्डिक्कुप् पूसऩै तगादॆऩ्गै। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ’’ईऩ्ऱोळ्+++(=प्रसवित्री)+++ इरुक्क मणै नीर्-आट्टिय्’’(तिरुवासिरियम् ६।) 
+> ’’ईऩ्ऱोळ्+++(=प्रसवित्री)+++ इरुक्क +++(पुत्तलिका-)+++मणै नीर्-आट्टिय्’’(तिरुवासिरियम् ६।) 
 
 ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> प्रसूतवत्यां स्थितायां  
+दारुकं जलेन स्नपयित्वा 
+
+इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -14395,11 +14450,24 @@ Cuando la madre de Ones está a la mano para ser atendida ",
 ’’ईऩ्ऱोळिरुक्क मणैनीराट्टिय्’’(तिरुवासिरियम् ६।) ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ईऩ्ऱोळिति । ईऩ्ऱोळ् - पॆऱ्ऱदायार्, इरुक्क - इरुक्कुम्बोदु, मणै - सम्बन्धमऱ्ऱ ऒरु अचेतनमाऩ मणैयै, अदावदु मरप्पाच्चियै, तऩ्ऩैप् पॆऱ्ऱ तायिरुक्क मणैयै नीराट्टुवदु पोल् तऩ्ऩै सृष्टित्तवऩाऩ ऎम्बॆरुमाऩिरुक्क सम्बन्धमऱ्ऱ देवतान्तरत्तैप् पूजिप्पदे! ऎऩ्ऱु आऴ्वार् विस्मयप्पडुगिऱार्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+’’मऱ्ऱिङ्गोर् पुदुत् तॆय्वङ्गॊण्डाडुन्दॊण्डीर्! पॆऱ्ऱ तायिरुक्क मणै वॆन् नीराट्टुदिरो माट्टाद तगवऱ्ऱीरेय्’’(पॆरिय तिरुमॊऴि ११-६-६)  ऎऩ्ऱुम् इत्यादिगळाले यरुळिच्चॆय्दार्गळ्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’मऱ्ऱिङ्गोर् पुदुत् तॆय्वङ्गॊण्डाडुन्दॊण्डीर्! पॆऱ्ऱ तायिरुक्क मणै वॆन् नीराट्टुदिरो माट्टाद तगवऱ्ऱीरेय्’’(पॆरिय तिरुमॊऴि ११-६-६)  ऎऩ्ऱुम् इत्यादिगळाले यरुळिच्चॆय्दार्गळ्। 
+</details>
 
 
 
-
-and "O men" of the world who neglect Bhagavān and worship jīvas as if they were deities! Are you washing a wooden doll with warm water when similar service can and should be rendered to the mothers that gave you birth? Are you without the grace of the Lord tbat you cannot render service to Him ?." In the discourse of the seven sages also, it has been declared thus :
+and "O men of the world who neglect Bhagavān and worship jīvas as if they were deities! Are you washing a wooden doll with warm water when similar service can and should be rendered to the mothers that gave you birth? Are you without the grace of the Lord tbat you cannot render service to Him ?." In the discourse of the seven sages also, it has been declared thus :
 
 “He who has stolen the[^70] bulb of the lotus - let him worship other deities than Viṣṇu, who does good to Brahmins, who exercises control over the gods, who is worshipped by all those who live in the three worlds, who is the cause of the creation, the maintenance, and the destruction of the three worlds, who is under the control of no one else, who is the support of the world and who both creates and destroys the world, and who is the guru of the world," and again, “He who has stolen the bulb of the lotus - he is one who never performs those dharmas which please the Lord, who never favours them, and who is of such a nature that he practises evil dharmas and evil rites." That the prapanna will never utter the praise of others is declared in verses like the following:--Tiruvoymozhi 3-9 and also in: "The mouth will never sing the praise of any one other than the Lord.” So also that the prapanna will never think of others is declared in the following passages :-"My thoughts are never with any deity other than the Lord. Bhagavān who helps the gods is aware of this." and "I will never think that there are other deities that I want to attain and that will come to me."
 
