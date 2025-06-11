@@ -14315,9 +14315,91 @@ También **ha señalado** que
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्य-यजनम् आगाद् ऎऩ्ऩुम् इडत्तै 
+
+> ’’उऩ्ऩ् इत्तु मऱ्ऱ् ऒरु दॆय्वन् तॊऴाळ् अवऩैय् अल्लाल्’’  
+(तिरुवाय्मॊऴि ४-६-१०)  
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+That there will be no yajna or sacrifice to others is brought out in passages like these :- 
+
+> "She will never adore any deity other than Bhagavān  
+even in her thoughts”, 
+</details>
+
+<details><summary>Español</summary>
+
+Que **no habrá** yajna ni sacrificio a los demás  
+**se saca** en pasajes como estos:-
+
+> "Ella **nunca adorará** ninguna deidad que **no sea** bhagavān  
+incluso en sus **pensamientos** ”,
+</details>
 
 
-That there will be no yajna or sacrifice to others is brought out in passages like these :- "She will never adore any deity other than Bhagavān even in her thoughts”, “Who else merits our flowers and our adoration than our Lord ?" "(The worship of other deities than Bhagavān) is like washing a wooden doll when ones' mother is at hand to be served", and "O men" of the world who neglect Bhagavān and worship jīvas as if they were deities! Are you washing a wooden doll with warm water when similar service can and should be rendered to the mothers that gave you birth? Are you without the grace of the Lord tbat you cannot render service to Him ?." In the discourse of the seven sages also, it has been declared thus :
+<details><summary>मूलम्</summary>
+
+अन्य-यजनमागादॆऩ्ऩुमिडत्तै ’’उऩ्ऩित्तु मऱ्ऱॊरु तॆय्वन्दॊऴा ळवऩैयल्लाल्’’(तिरुवाय्मॊऴि ४-६-१०)  ऎऩ्ऱुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+’’देवऩ् ऎम्बॆरुमाऩुक्क् अल्लाऱ् पूवुम् पूजऩैयुन् तगुमे+++(=योग्यः)+++?’’(तिरुवाय्मॊऴि २-२-४) यॆऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> “Who else merits our flowers and our adoration than our Lord ?" 
+</details>
+
+<details><summary>Español</summary>
+
+> "¿Quién más merece nuestras flores y nuestra **adoración** que nuestro Señor?"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’तेवऩॆम्बॆरुमाऩुक्कल्लाऱ् पूवुम् पूसऩैयुन् दगुमे’’(तिरुवाय्मॊऴि २-२-४) यॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’ईऩ्ऱोळ्+++(=प्रसवित्री)+++ इरुक्क मणै नीर्-आट्टिय्’’(तिरुवासिरियम् ६।) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "(The worship of other deities than Bhagavān) is like washing a wooden doll  
+when ones' mother is at hand to be served", 
+</details>
+
+<details><summary>Español</summary>
+
+> "(La adoración de otras deidades que Bhagavān) es como lavar una muñeca de madera
+Cuando la madre de Ones está a la mano para ser atendida ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’ईऩ्ऱोळिरुक्क मणैनीराट्टिय्’’(तिरुवासिरियम् ६।) ऎऩ्ऱुम्, 
+</details>
+
+
+
+
+
+and "O men" of the world who neglect Bhagavān and worship jīvas as if they were deities! Are you washing a wooden doll with warm water when similar service can and should be rendered to the mothers that gave you birth? Are you without the grace of the Lord tbat you cannot render service to Him ?." In the discourse of the seven sages also, it has been declared thus :
 
 “He who has stolen the[^70] bulb of the lotus - let him worship other deities than Viṣṇu, who does good to Brahmins, who exercises control over the gods, who is worshipped by all those who live in the three worlds, who is the cause of the creation, the maintenance, and the destruction of the three worlds, who is under the control of no one else, who is the support of the world and who both creates and destroys the world, and who is the guru of the world," and again, “He who has stolen the bulb of the lotus - he is one who never performs those dharmas which please the Lord, who never favours them, and who is of such a nature that he practises evil dharmas and evil rites." That the prapanna will never utter the praise of others is declared in verses like the following:--Tiruvoymozhi 3-9 and also in: "The mouth will never sing the praise of any one other than the Lord.” So also that the prapanna will never think of others is declared in the following passages :-"My thoughts are never with any deity other than the Lord. Bhagavān who helps the gods is aware of this." and "I will never think that there are other deities that I want to attain and that will come to me."
 

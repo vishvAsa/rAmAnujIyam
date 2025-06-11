@@ -213,3 +213,15 @@ title = "पर-मत-भेदाः"
 
 > **यजन्ते** पूजयन्ति **सात्त्विकाः** सत्त्वनिष्ठाः **देवान्; यक्षरक्षांसि राजसाः; प्रेतान् भूतगणांश्च** सप्तमातृकादींश्च **अन्ये यजन्ते तामसाः जनाः**॥
 
+## Platonism
+### Platonic formulation
+(Inspired from GA's shaiva formulation)
+
+Each Ātman’s (Self/Soul) has its inseparable dharma-bhūta-jñāna + pratyaktva/dharmi-jñāna (which is the Ātman’s individuality). Every Ātman, when divested of all non-innate, insentient characteristics (form, name, māyā which supplies it with the stream of bodies/faculties through births, karmic baggage, etc), is a unique sentient, whose fundamental nature cannot be further simplified.
+
+1. Every sentient is *an* Ātman (*a* Cetana, a unique unit of consciousness) and therefore has an inseparable dharma-bhūta-jñāna + pratyaktva/ dharmi-jñāna (individuality), which is but its cetanatvam.
+2. Imagine a set consisting of every Cetana. One may therefore speak of a universal Cetanatvam, for discussion’s sake.
+3. There is no universal separate from the individuals which partake in it.
+4. “The Cetanatvam neither is”— Cetanatvam as universal does not exist, separate from individual instances of Cetanatvam.
+5. “Nor is Cetanatvam one”—  Cetanatvam cannot partake in itself to become a unique entity as only *an* Ātman’s can partake in Cetanatvam.
+6. Therefore, Cetanatvam is an infinite class of members, one for each sentient. 
