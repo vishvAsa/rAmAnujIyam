@@ -12081,7 +12081,7 @@ si **estos** dos **podrían producir** la misma fruta;
 La **respuesta** es la siguiente:-
 
 Ciertamente **es posible**,  
-ya que **depende** de la competencia de la persona (**adoptando** el upāya),
+ya que **depende** de la competencia de la persona (**adoptando** el upāya),  
 como en la **vida** mundana y en la tradición védica.
 </details>
 
@@ -14515,12 +14515,166 @@ Cuando un **servicio** similar **puede** y **debe ser prestado** a las madres qu
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सप्त-र्षि-संवादत्तिलुम् 
+
+> … भजत्व् अन्यं  
+बिस-स्तैन्यं करोति यः ॥  
+विष्णु-धर्म-परो न स्याद्  
+विष्णु-धर्म-पराङ्मुखः । 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२२८]]
+
+सप्तर्षि-संवादेऽपि 
+
+> "विष्णुं ब्रह्मण्य-देवेशं  
+सर्व-लोक-नमस्-कृतम् ।  
+त्रैलोक्य-स्थिति-संहार-  
+सृष्टि-हेतुं निरीश्वरम् ॥  
+आधातारं विधातारं  
+सन्धातारं जगद्-गुरुम् ।  
+विहाय स भजत्व् अन्यं  
+बिस-स्तैन्यं करोति यः ॥  
+</details>
+
+
+<details><summary>English</summary>
 
 In the discourse of the seven sages also, it has been declared thus :
 
-“He who has stolen the[^70] bulb of the lotus - let him worship other deities than Viṣṇu, who does good to Brahmins, who exercises control over the gods, who is worshipped by all those who live in the three worlds, who is the cause of the creation, the maintenance, and the destruction of the three worlds, who is under the control of no one else, who is the support of the world and who both creates and destroys the world, and who is the guru of the world," and again, “He who has stolen the bulb of the lotus - he is one who never performs those dharmas which please the Lord, who never favours them, and who is of such a nature that he practises evil dharmas and evil rites." That the prapanna will never utter the praise of others is declared in verses like the following:--Tiruvoymozhi 3-9 and also in: "The mouth will never sing the praise of any one other than the Lord.” So also that the prapanna will never think of others is declared in the following passages :-"My thoughts are never with any deity other than the Lord. Bhagavān who helps the gods is aware of this." and "I will never think that there are other deities that I want to attain and that will come to me."
+> “He who has stolen the bulb of the lotus -  
+let him worship other deities than Viṣṇu,  
+who does good to Brahmins,  
+who exercises control over the gods,  
+who is worshipped by all those who live in the three worlds,  
+who is the cause of the creation, the maintenance, and the destruction of the three worlds,  
+who is under the control of no one else,  
+who is the support of the world  
+and who both creates and destroys the world,  
+and who is the guru of the world," 
 
-[^70]: During a famine, seven sages obtained the bulb of a lotus for food and went out for their bath. Indra stole it and hid it. When the sages returned and found it missing, each of them had to swear in these words to prove that he had not stolen it.
+
+(During a famine, seven sages obtained the bulb of a lotus for food  
+and went out for their bath.  
+Indra stole it and hid it.  
+When the sages returned and found it missing,  
+each of them had to swear in these words  
+to prove that he had not stolen it.+++(5)+++)
+</details>
+
+<details><summary>Español</summary>
+
+En el **discurso** de los Siete Sabios también, **se ha declarado** así:
+
+> "El que **ha robado** la bombilla del loto -  
+Deja que **adore** a otras deidades que Viṣṇu,  
+quien **hace** el bien con los brahmanes,  
+quien **ejerce** control sobre los dioses,  
+quien **es adorado** por todos los que **viven** en los tres mundos,  
+quien **es** la causa de la **creación**, el **mantenimiento** y la **destrucción** de los tres mundos,  
+quien **está** bajo el control de nadie más   
+quien **es** el **apoyo** del mundo  
+y quien **crea** y **destruye** el mundo,  
+y quién **es** el gurú del mundo ",
+
+
+(Durante una hambruna,  
+siete sabios **obtuvieron** el bulbo de un loto para la **comida**  
+y **salió** para su baño.  
+Indra lo **robó** y lo **escondió**.  
+Cuando los sabios **regresaron** y lo **encontraron faltando**,  
+Cada uno de ellos **tuvo** que **jurar** en estas palabras  
+Para **demostrar** que **no lo había robado**.+++(5)+++)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सप्तर्षिसंवादत्तिलुम् ‘‘विष्णुं ब्रह्मण्यदेवेशं सर्वलोकनमस्कृतम् । त्रैलोक्यस्थितिसंहारसृष्टिहेतुं निरीश्वरम् ॥ आधातारं विधातारं सन्धातारं जगद्गुरुम् । विहाय स यः भजत्वन्यं बिसस्तैन्यं करोति यः ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विष्णुधर्मपरो न स्याद्विष्णुधर्मपराङ्मुखः । कुधर्मवृत्तशीलस्स्याद्बिसस्तैन्यं करोति यः’’(इतिहास-समुच्चयः १२-७७) ऎऩ्ऱुञ्जॊल्लप्पट्टदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> विष्णु-धर्म-परो न स्याद्  
+विष्णु-धर्म-पराङ्मुखः ।  
+कु-धर्म-वृत्त-शीलः स्यात्  
+बिस-स्तैन्यं करोति यः ॥"  
+(इतिहास-समुच्चयः १२-७७) 
+
+इत्य्-उक्तम् । 
+</details>
+
+<details><summary>English</summary>
+
+and again,  
+
+> “He who has stolen the bulb of the lotus -  
+he is one who never performs those dharmas which please the Lord, who never favours them,  
+and who is of such a nature that he practises evil dharmas and evil rites." 
+</details>
+
+<details><summary>Español</summary>
+
+Y de nuevo,
+
+> "El que ha **robado** la bombilla del loto -  
+Él es aquel que **nunca realiza** esos dharmas que **complacen** al Señor, que **nunca los favorece**,  
+y quién es de tal naturaleza que **practica** dharmas malos y ritos malvados ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विष्णुधर्मपरो न स्याद्विष्णुधर्मपराङ्मुखः । कुधर्मवृत्तशीलस्स्याद्बिसस्तैन्यं करोति यः’’(इतिहास-समुच्चयः १२-७७) ऎऩ्ऱुञ्जॊल्लप्पट्टदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्य-कीर्तनम् आगाद् ऎऩ्ऩुम् इडत्तै 
+
+> ’’वाय् अवऩैय् अल्लदु वाऴ्त्तादु’’  
+(मुदल् तिरुवन्दादि ११) 
+</details>
+
+<details><summary>English</summary>
+
+That the prapanna will never utter the praise of others is declared in verses like the following:--  
+
+> "The mouth will never sing the praise of any one other than the Lord.” 
+</details>
+
+<details><summary>Español</summary>
+
+Que la Prapanna nunca pronuncie los elogios de los demás se declara en versos como los siguientes:-
+
+> "La boca nunca cantará la alabanza de nadie más que el Señor".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्यकीर्तनमागादॆऩ्ऩुमिडत्तै ’’वायवऩैयल्लदु वाऴ्त्तादु’’(मुदल् तिरुवन्दादि ११) 
+</details>
+
+
+
+
+
+
+and also in Tiruvoymozhi 3-9. 
+
+So also that the prapanna will never think of others is declared in the following passages :-"My thoughts are never with any deity other than the Lord. Bhagavān who helps the gods is aware of this." and "I will never think that there are other deities that I want to attain and that will come to me."
+
 
 (Our ancient seers) have declared that even those who are not competent to perform this five-fold scheme of adoration may not fail to render this service or kaiṅkarya, if they will perform such compulsory and occasional rites as they are competent for, if they sing the praise of the Lord and the like and if they render service to such persons as have the competency to perform that adoration and as have exclusive devotion to the Lord in accordance with their competence and in perfect dependence on them. And this may be seen in the following passages :-“The adoration of Viṣṇu is
 
