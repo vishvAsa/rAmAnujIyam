@@ -14640,11 +14640,23 @@ y quién es de tal naturaleza que **practica** dharmas malos y ritos malvados ".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्य-कीर्तनम् आगाद् ऎऩ्ऩुम् इडत्तै 
+> अन्य-कीर्तनम् आगाद् 
+
+ऎऩ्ऩुम् इडत्तै 
 
 > ’’वाय् अवऩैय् अल्लदु वाऴ्त्तादु’’  
 (मुदल् तिरुवन्दादि ११) 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अन्य कीर्तनं न युक्तम् 
+
+इत्य् एतम् अर्थम्, 
+
+> “11 वाक् तं विनाऽन्यं न स्तुयात् ”, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -14667,11 +14679,33 @@ Que la Prapanna nunca pronuncie los elogios de los demás se declara en versos c
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> ’’सॊऩ्ऩाल् विरोधम्’’(तिरुवाय्मॊऴि ३-९-१) 
 
+इत्य्-आदिगळिलेय् अरुळिच् चॆय्दार्। 
+</details>
 
+<details><summary>English</summary>
 
 and also in Tiruvoymozhi 3-9. 
+</details>
+
+<details><summary>Español</summary>
+
+y también en Tiruvoymozhi 3-9.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’सॊऩ्ऩाल् विरोधम्’’(तिरुवाय्मॊऴि ३-९-१) इत्यादिगळिलेय् अरुळिच्चॆय्दार्। 
+</details>
+
+
+
+
+
 
 So also that the prapanna will never think of others is declared in the following passages :-"My thoughts are never with any deity other than the Lord. Bhagavān who helps the gods is aware of this." and "I will never think that there are other deities that I want to attain and that will come to me."
 
