@@ -1160,15 +1160,391 @@ and makes other things shine forth (ākāśayati).
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## पूर्वपक्षोक्तानुवादपूर्वकं तत्समाधानम्
+किञ्च अनेनाकाश-शब्देन विशेष+++(-अर्थ)+++-समर्पण-क्षमेणापि  
++++(कार्ये जगति)+++ चेतनांशं प्रत्य् अ-सम्भावित-कारण-भावं अ-चेतन-विशेषम् +++(खाख्यम्)+++ अभिदधानेन 
+</details>
 
-किञ्च अनेनाकाशशब्देन विशेषसमर्पणक्षमेणापि चेतनांशं प्रत्यसम्भावितकारणभावं अचेतनविशेषमभिदधानेन तदैक्षत बहु स्यां प्रजायेय (छा.६.२.३) सोऽकामयत। बहुस्यां प्रजायेय (तै.आन.६) इत्यादि वाक्यशेषावधारितसार्वज्ञ्यसत्यसङ्कल्पत्वादिविशष्टापूर्वार्थप्रतिपादन-समर्थवाक्यार्थान्यथाकरणं न प्रमाणपदवीमधिरोहति। एवमपूर्वानन्तविशेषणविशिष्टापूर्वार्थप्रतिपादन-समर्थानेकवाक्यगतिसामान्यं चैकेनानुवादस्वरूपेणान्यथा कर्त्तुं न शक्यते।
+<details><summary>English</summary>
 
-## आत्मशब्दानैकान्त्यस्य अनूद्य समाधानम्
+Moreover, the word 'ether' is indeed capable of conveying the idea of a special being (as cause),  
+but as it denotes a special non-intelligent thing which cannot be admitted as the cause of the intelligent part of the world  
+</details>
 
-यत्तु आत्मशब्दश्चेतनैकान्तो न भवति, मृदात्मको घटः इत्यादिदर्शनादित्युक्तम्; तत्रोच्यते – यद्यपि चेतनादन्यत्रापि क्वचिदात्मशब्दः प्रयुज्यते; तथापि शरीरप्रतिसम्बन्धिन्यात्मशब्दस्य प्रयोगप्राचुर्यात् आत्मा वा इदमेक एवाग्र आसीत् (ऐत.१.१.१) आत्मन आकाशसस्म्भूतः (तै.आन.१.२) इत्यादिषु शरीरप्रतिसम्बन्धिचेतन एव प्रतीयते। यथा गोशब्दस्यानेकार्थवाचित्वेऽपि प्रयोगप्राचुर्यात्सास्नादिमानेव स्वतः प्रतीयते; अर्थान्तरप्रतीतिस्तु तत्तदसाधारणनिर्देशापेक्षा; तथा स्वतः प्राप्तं शरीरप्रतिसम्बन्धिचेतनाभिधानमेव स ईक्षत लोकान्नु सृजा इति (ऐ.१.१.१), सोऽकामयत, बहु स्यां प्रजायेय (छा.१.९.१) इत्यादितत्तद्वाक्यविशेषा एव स्थिरीकुर्वन्ति। एवं वाक्यशेषावधारित- अनन्यसाधारणानेकापूर्वार्थविशिष्टं निखिलजगदेककारणं सदेव सोम्य (छां.६.२.१) इत्यादिवाक्यसिद्धं ब्रह्मैवाकाशशहब्देन प्रसिद्धवत् सर्वाणि ह वा इमानि भूतानि (छां.१.९.१) इत्यादिवाक्येन निर्दिश्यत इति सिद्धम् ॥ २३॥
+
+<details><summary>मूलम्</summary>
+
+किञ्च अनेनाकाशशब्देन विशेषसमर्पणक्षमेणापि चेतनांशं प्रत्यसम्भावितकारणभावं अचेतनविशेषमभिदधानेन 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तदैक्षत - बहु स्यां प्रजायेय (छा.६.२.३) 
+</details>
+
+<details><summary>English</summary>
+
+> 'it thought, may I be many, may I grow forth,' 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदैक्षत बहु स्यां प्रजायेय (छा.६.२.३) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सोऽकामयत। बहुस्यां प्रजायेय (तै.आन.६) 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> 'it desired, may I be many, may I grow forth.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> सोऽकामयत। बहुस्यां प्रजायेय (तै.आन.६) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्यादि वाक्य-शेषावधारित-सार्वज्ञ्य--सत्य-सङ्कल्पत्वादि-  
+विशिष्टापूर्वार्थ-प्रतिपादन-समर्थ--वाक्यार्थान्यथा-करणं  
+न प्रमाण-पदवीम् अधिरोहति। 
+</details>
+
+<details><summary>English</summary>
+
+we must deny all authoritativeness to the attempt to tamper,  
+in the interest of that one word,  
+with the sense of other texts  
+which have the power of giving instruction as to an entirely new thing (viz. Brahman),  
+distinguished by the possession of omniscience,  
+the power of realising its purposes and similar attributes,  
+which we ascertain from certain complementary texts-such as (the above).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादि वाक्यशेषावधारितसार्वज्ञ्यसत्यसङ्कल्पत्वादि- विशिष्टापूर्वार्थप्रतिपादन-समर्थवाक्यार्थान्यथाकरणं न प्रमाणपदवीमधिरोहति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् अपूर्वानन्त-विशेषण-विशिष्ट-- 
++अपूर्वार्थ-प्रतिपादन-समर्थ-  
++अनेक-वाक्य--गति-सामान्यं च  
++एकेनानुवाद--स्व-रूपेण +++(न त्व्-अपूर्वार्थ-ज्ञापकेन)+++  
++अन्यथा कर्त्तुं न शक्यते।
+</details>
+
+<details><summary>English</summary>
+
+We also point out that the agreement in purport of a number of texts capable of establishing the existence of a wonderful being possessing infinite wonderful attributes  
+is not lightly to be disregarded  
+in favour of one single text  
+which moreover (has not the power of intimating something not known before, but)  
+only makes a reference to what is already established by other texts.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवमपूर्वानन्तविशेषणविशिष्टापूर्वार्थप्रतिपादन-समर्थानेकवाक्यगतिसामान्यं चैकेनानुवादस्वरूपेणान्यथा कर्त्तुं न शक्यते।
+</details>
+
+### आत्म-शब्दानैकान्त्यं न
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् तु 
+
+> आत्म-शब्दश् चेतनैकान्तो न भवति,  
+मृद्-आत्मको घटः इत्य्-आदि-दर्शनाद् 
+
+इत्य् उक्तम्; तत्रोच्यते – 
+</details>
+
+<details><summary>English</summary>
+
+As to the averment that 
+
+> the word 'Self' is not exclusively limited to sentient beings,  
+
+we remark that  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत्तु आत्मशब्दश्चेतनैकान्तो न भवति, मृदात्मको घटः इत्यादिदर्शनादित्युक्तम्; तत्रोच्यते – 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्य् अपि चेतनाद् अन्यत्रापि क्वचिद् आत्म-शब्दः प्रयुज्यते; 
+</details>
+
+<details><summary>English</summary>
+
+that word is indeed applied occasionally to non-sentient things, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद्यपि चेतनादन्यत्रापि क्वचिदात्मशब्दः प्रयुज्यते; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथापि शरीर-प्रतिसम्बन्धिन्य् आत्म-शब्दस्य प्रयोग-प्राचुर्यात् +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+but prevailingly to that which is the correlative of a body, i.e. the soul or spirit; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथापि शरीरप्रतिसम्बन्धिन्यात्मशब्दस्य प्रयोगप्राचुर्यात् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आत्मा वा इदम् एक एवाग्र आसीत् (ऐत.१.१.१) 
+</details>
+
+<details><summary>English</summary>
+
+in texts such as 
+
+> 'the Self only was this in the beginning,' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आत्मा वा इदमेक एवाग्र आसीत् (ऐत.१.१.१) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आत्मन आकाशस् सम्भूतः (तै.आन.१.२) 
+
+इत्य्-आदिषु
+</details>
+
+<details><summary>English</summary>
+
+> 'from the Self there sprang the ether,' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आत्मन आकाशस्सम्भूतः (तै.आन.१.२) इत्यादिषु
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरीर-प्रतिसम्बन्धि-चेतन एव प्रतीयते। 
+</details>
+
+<details><summary>English</summary>
+
+we must therefore understand by the 'Self,' the universal spirit. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शरीरप्रतिसम्बन्धिचेतन एव प्रतीयते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा गो-शब्दस्यानेकार्थ-वाचित्वेऽपि  
+प्रयोग-प्राचुर्यात् सास्नादिमान् एव स्वतः प्रतीयते; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथा गोशब्दस्यानेकार्थवाचित्वेऽपि प्रयोगप्राचुर्यात्सास्नादिमानेव स्वतः प्रतीयते; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्थान्तर-प्रतीतिस् तु तत्-तद्--अ-साधारण-निर्देशापेक्षा; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अर्थान्तरप्रतीतिस्तु तत्तदसाधारणनिर्देशापेक्षा; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा स्वतः प्राप्तं शरीर-प्रतिसम्बन्धि-चेतनाभिधानम् एव 
+</details>
+
+<details><summary>English</summary>
+
+The denotative power of the term 'atman,'  
+which is thus proved by itself,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा स्वतः प्राप्तं शरीरप्रतिसम्बन्धिचेतनाभिधानमेव 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स ईक्षत - लोकान्नु सृजा इति (ऐ.१.१.१), 
+</details>
+
+
+<details><summary>English</summary>
+
+'it desired, may I send forth the worlds', 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स ईक्षत लोकान्नु सृजा इति (ऐ.१.१.१), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सोऽकामयत, बहु स्यां प्रजायेय (छा.१.९.१) 
+</details>
+
+<details><summary>English</summary>
+
+> 'it desired, may I be many, may I grow forth.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+सोऽकामयत, बहु स्यां प्रजायेय (छा.१.९.१) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदि--तत्-तद्-वाक्य-विशेषा एव स्थिरीकुर्वन्ति। 
+</details>
+
+<details><summary>English</summary>
+
+is moreover confirmed by the(se) complementary passages 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादितत्तद्वाक्यविशेषा एव स्थिरीकुर्वन्ति। 
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं वाक्य-शेषावधारित--अनन्य-साधारणानेकापूर्वार्थ-विशिष्टं 
+</details>
+
+<details><summary>English</summary>
+
+We thus arrive at the following conclusion:  
+
+Brahman, possessing all those manifold wonderful attributes  
+which are ascertained from the complementary passages, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं वाक्यशेषावधारित- अनन्यसाधारणानेकापूर्वार्थविशिष्टं 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निखिल-जगद्-एक-कारणं 
+
+> सद् एव सोम्य (छां.६.२.१) 
+
+इत्यादि-वाक्य-सिद्धं ब्रह्मैव  
+</details>
+
+<details><summary>English</summary>
+
+which -- by the passage  
+
+> 'Being only this was in the beginning'--
+
+is established as the sole cause of the world,  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निखिलजगदेककारणं सदेव सोम्य (छां.६.२.१) इत्यादिवाक्यसिद्धं ब्रह्मैव  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अकाशशब्देन प्रसिद्धवत् 
+
+> सर्वाणि ह वा इमानि भूतानि (छां.१.९.१) 
+
+इत्य्-आदि-वाक्येन निर्दिश्यत  
+इति सिद्धम् ॥ २३॥
+</details>
+
+<details><summary>English</summary>
+
+is, in the text under discussion,  
+referred to as something already known,  
+by means of the term 'ether.'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अकाशशब्देन प्रसिद्धवत् सर्वाणि ह वा इमानि भूतानि (छां.१.९.१) इत्यादिवाक्येन निर्दिश्यत इति सिद्धम् ॥ २३॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **इति श्रीशारीरकमीमांसाभाष्ये आकाशाधिकरणम् ॥ ८ ॥**
+</details>
+
+<details><summary>English</summary>
+
+--Here terminates the adhikaraṇa of' ether.'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**इति श्रीशारीरकमीमांसाभाष्ये आकाशाधिकरणम् ॥ ८ ॥**
+</details>
+
 
 
