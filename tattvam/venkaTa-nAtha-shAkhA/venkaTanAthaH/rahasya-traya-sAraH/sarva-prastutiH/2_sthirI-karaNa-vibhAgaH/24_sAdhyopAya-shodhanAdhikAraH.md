@@ -14831,10 +14831,36 @@ Y eso **vendrá** a mí ".
 
 तङ्गळुक्कु योग्यम् आऩ नित्य-नैमित्तिकङ्गळालुम्,  
 सङ्कीर्तनादिगळालुम्,  
-समाराधनादि-योग्यर् आऩ परम-भागवतर्क्कु परतन्त्रर् आय्  
-यथाधिकारम् वल्ल तेवै सॆय्दुम्  
-इक्-कैङ्कर्यम् इऴवाद् ऒऴियल् आम्।
+समाराधनादि-योग्यर् आऩ परम-भागवतर्क्कु पर-तन्त्रर् आय्  
+यथाऽधिकारम् वल्ल तेवै सॆय्दुम्  
+
+इक्-कैङ्कर्यम् इऴवाद् ऒऴियल् आम्। +++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+(Our ancient seers) have declared that even those who are not competent to perform this five-fold scheme of adoration  
+may not fail to render this service or kaiṅkarya,  
+if they will perform such compulsory and occasional rites as they are competent for,  
+if they sing the praise of the Lord and the like  
+and if they render service to such persons  
+as have the competency to perform that adoration  
+and as have exclusive devotion to the Lord in accordance with their competence  
+and in perfect dependence on them.  
+</details>
+
+<details><summary>Español</summary>
+
+(Nuestros antiguos **videntes**) **han declarado** que incluso aquellos que **no son competentes** para **realizar** este esquema de **adoración** de cinco veces  
+**puede no dejar de prestar** este **servicio** o kaiṅkarya,  
+Si **realizarán** ritos tan obligatorios y ocasionales que **son competentes** por,  
+Si **cantan** el alabanza del Señor y lo similar  
+y si **prestan servicio** a las personas  
+que **tienen** la competencia para **realizar** esa adoración  
+y al igual que **tienen** la **devoción** exclusiva al Señor de acuerdo con su competencia  
+y en perfecta **dependencia** de ellos.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -14842,13 +14868,92 @@ Y eso **vendrá** a mí ".
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अर्थत्तै 
+
+> ‘‘आराधनानां सर्वेषां  
+विष्णोर् आराधनं परम् ।  
+तस्मात्परतरं प्रोक्तं  
+तदीयाराधनं परम्॥’’  
+(पाद्मोत्तरम्म् २९-८१) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘आराधनानां सर्वेषां  
+विष्णोर् आराधनं परम् ।  
+तस्मात्परतरं प्रोक्तं  
+तदीयाराधनं परम्॥’’  
+(पाद्मोत्तरम्म् २९-८१) 
+
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवत-कैङ्कर्यम्
+</details>
+
+<details><summary>English</summary>
+
+And this may be seen in the following passages :-
+
+> “The adoration of Viṣṇu is superior to all other adorations.  
+The adoration of Viṣṇu's devotee,  
+which is different from it,  
+is said to be superior even to that "; 
+</details>
+
+<details><summary>Español</summary>
+
+Y esto **se puede ver** en los siguientes pasajes:-
+
+> “La **adoración** de Viṣṇu **es** superior a todas las demás **adoraciones**.  
+La adoración del devoto de Viṣṇu,  
+que **es** diferente de eso  
+**se dice** que **es** superior incluso para eso ";
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै ‘‘आराधनानां सर्वेषां विष्णोरा-राधनं परम् । तस्मात्परतरं प्रोक्तं तदीयाराधनं परम्’’(पाद्मोत्तरम्म् २९-८१) ऎऩ्ऱुम्, 
+</details>
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(Our ancient seers) have declared that even those who are not competent to perform this five-fold scheme of adoration may not fail to render this service or kaiṅkarya, if they will perform such compulsory and occasional rites as they are competent for, if they sing the praise of the Lord and the like and if they render service to such persons as have the competency to perform that adoration and as have exclusive devotion to the Lord in accordance with their competence and in perfect dependence on them. And this may be seen in the following passages :-“The adoration of Viṣṇu is
+> ’’कुऩ्ऱम्+++(=गिरिम्)+++ **ऎडुत्त** पिराऩ्-अडियारॊडुम्  
+ऒऩ्ऱि **निऩ्ऱ** शठकोपऩ् उरै सॆयल्’’  
+(तिरुवाय्मॊऴि ७-४-११) 
 
-superior to all other adorations. The adoration of Viṣṇu's devotee, which is different from it, is said to be superior even to that "; "Satagopan" is ever in the company of the servants of Bhagavān who saved Gokula with the hill (as an umbrella)" and "The tapas of those who are attached to the devotees of the Lord will surpass that of (even) those who sing the praise of the Lord." The joy of those who render this service and of those who look with delight on this service rendered by them is of the same nature as that of Iśvara, who alone is competent to rule over the affairs of the world (jagad vyāpāra) and of those who have already attained mukti and merely look on. There is nothing inappropriate in this joy being the same in the case of those who perform the service and of those who look on it with delight, for it is just like the purifying influence described in the following śloka :-"To hear of the performance of dharma ( done by others), to see it, to think of it, to speak of it and to find delight in it - all these, O best of kings, purify always the person doing so."
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "Satagopan is ever in the company of the servants of Bhagavān  
+who saved Gokula with the hill (as an umbrella)" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Satagopan **está** en compañía de los **sirvientes** de Bhagavān  
+quien **salvó** a Gokula con la colina (como un paraguas) "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’कुऩ्ऱमॆडुत्त पिराऩडियारॊडुमॊऩ्ऱि निऩ्ऱ सडगोबऩुरैसॆयल्’’(तिरुवाय्मॊऴि ७-४-११) ऎऩ्ऱुम्, 
+</details>
+
+
+
+and "The tapas of those who are attached to the devotees of the Lord will surpass that of (even) those who sing the praise of the Lord." The joy of those who render this service and of those who look with delight on this service rendered by them is of the same nature as that of Iśvara, who alone is competent to rule over the affairs of the world (jagad vyāpāra) and of those who have already attained mukti and merely look on. There is nothing inappropriate in this joy being the same in the case of those who perform the service and of those who look on it with delight, for it is just like the purifying influence described in the following śloka :-"To hear of the performance of dharma ( done by others), to see it, to think of it, to speak of it and to find delight in it - all these, O best of kings, purify always the person doing so."
 
 So also it is said in the Mahābhārata :-"Therefore a Śūdra should not utter my names with the praṇava (the syllable Om), and in the Nāradiyakalpa "The japa of the ashtakṣara has been prescribed, for women and for Śūdras to be performed without the dative suffix thus:- (namonārāyaṇa). Similarly there are no rules for them about the svara, about praṇava and about touching the limbs (aṅganyāsa ). It is declared in the śāstras that for women and for Śūdras, japa consists in the mere utterance of the mantra (without them)". In the Varāhapurāṇam, it is said, “The man born of the caste of those who eat dog's flesh woke up as soon as the day dawned, finished his obser. vance which consisted in singing the praise of Bhagavān and returned after uttering the mantra "Namo Nārāyaṇa". So also we find the following :- " If a man goes to Vaikuṇṭha uttering the mūlamantra, 'Namo Nārana' with his hands folded in reverence over his head, he will never return to the world of saṁsāra etc , and “If one is "to utter the name of Bhagavān, one should say "namo Narana". The middle of the sugar.cane (i.e.) aṣṭākṣara with eight joints becomes suitable to everyone, if the root and the top (i.e.) the first and the last syllable are cut off. So also there is nothing inappropriate in all prapannas enjoying the delight (rasa) of thinking of Bhagavān at any time whatever. It is only for bhakti yoga, which has its aṅgas or accessories and which is different from prapatti, that some are not competent. Even though prapatti becomes perfect by the rite which lasts only for a moment (we are taught) thus by the Saviour: "Always utter the dvaya with the thought of its meaning (in your mind)". Therefore the command "Nārāyaṇa is to be meditated on always" should be taken as an upāya for some (viz. those who adopt bhakti) and as the fruit for others, (namely prapannas). Thus the command is in no way opposed to prapatti adopted as a direct and independent means.
 
