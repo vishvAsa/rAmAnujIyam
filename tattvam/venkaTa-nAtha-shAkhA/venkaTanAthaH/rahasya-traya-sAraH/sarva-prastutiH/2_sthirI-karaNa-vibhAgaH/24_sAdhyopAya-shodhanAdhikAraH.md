@@ -14945,11 +14945,11 @@ who saved Gokula with the hill (as an umbrella)"
 quien **salvó** a Gokula con la colina (como un paraguas) "
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ’’कुऩ्ऱमॆडुत्त पिराऩडियारॊडुमॊऩ्ऱि निऩ्ऱ सडगोबऩुरैसॆयल्’’(तिरुवाय्मॊऴि ७-४-११) ऎऩ्ऱुम्, 
 </details>
+
 
 
 
