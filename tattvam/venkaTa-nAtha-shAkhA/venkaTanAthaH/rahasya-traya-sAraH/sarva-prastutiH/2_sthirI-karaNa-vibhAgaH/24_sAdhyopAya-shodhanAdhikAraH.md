@@ -15150,11 +15150,13 @@ Todo esto, oh lo mejor de los reyes, **purifica** siempre a la persona que lo ha
 
 <details><summary>नीलमेघः (सं)</summary>
 
+तथैव, 
+
 > १००‘‘तस्मात् स-प्रणवं शूद्रो  
 मन्नामानि न कीर्तयेत्।’’  
 (भारतम् आश्वमेधिकम् ११८-१४) 
 
-
+इति महाभारते, 
 </details>
 
 
@@ -15201,6 +15203,8 @@ Entonces también **se dice** en el Mahābhārata:-
 स्त्रीणान्तु शूद्राजातीनां  
 मन्त्र-मात्रोक्तिर् इष्यते।’’  
 (नारदीय-कल्पः)
+
+इति नारदीयादिषु, 
 </details>
 
 <details><summary>English</summary>
@@ -15247,6 +15251,7 @@ para **ser realizado** sin el sufijo dativo así:- (namo nārāyaṇa) ".
 श्वपाकः पुनर् आगमत्।’’  
 (वराहपुराणम् १३९-५३) 
 
+इति श्री-वराह-पुराणे, 
 </details>
 
 <details><summary>English</summary>
@@ -15276,10 +15281,74 @@ y **regresó** después de **pronunciar** el mantra "namo nārāyaṇa".
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’वायिऩाल् "नमो नारणाव्" ऎऩ्ऱु  
+मत्तगत्त्+++(=मस्तकस्य)+++ इडैक् कैगळैक् कूप्पिय्’’(पॆरियाऴ्वार् तिरुमॊऴि ४-५-२) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+So also we find the following :- 
+
+> " If a man goes to Vaikuṇṭha uttering the mūlamantra, 'Namo Nārana'  
+with his hands folded in reverence over his head,  
+he will never return to the world of saṁsāra" etc , 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces también **encontramos** lo siguiente:-
+
+> "Si un hombre **va** a Vaikuṇṭha **pronunciando** el mūlamantra, 'namo nārana'  
+con las manos **dobladas** en reverencia sobre su cabeza  
+**Nunca volverá** al mundo de Saṁsāra ", etc.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’वायिऩाल् नमो नारणावॆऩ्ऱु मत्तगत्तिडैक् कैगळैक् कूप्पिय्’’(पॆरियाऴ्वार् तिरुमॊऴि ४-५-२) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’नामञ् जॊल्लिल्  
+नमो नारायणमेय्’’  
+(पॆरिय तिरुमॊऴि ६-१०-१)  
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> If one is to utter the name of Bhagavān,  
+one should say "namo Narana".  
+
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> Si uno **es pronunciar** el nombre de Bhagavān,  
+Uno **debería decir** "Namo Narana".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’नामञ्जॊल्लिल् नमो नारायणमेय्’’ (पॆरिय तिरुमॊऴि ६-१०-१)  ऎऩ्ऱुञ् जॊल्लुगिऱबडिये 
+</details>
 
 
 
-So also we find the following :- " If a man goes to Vaikuṇṭha uttering the mūlamantra, 'Namo Nārana' with his hands folded in reverence over his head, he will never return to the world of saṁsāra etc , and “If one is "to utter the name of Bhagavān, one should say "namo Narana". The middle of the sugar.cane (i.e.) aṣṭākṣara with eight joints becomes suitable to everyone, if the root and the top (i.e.) the first and the last syllable are cut off. So also there is nothing inappropriate in all prapannas enjoying the delight (rasa) of thinking of Bhagavān at any time whatever. It is only for bhakti yoga, which has its aṅgas or accessories and which is different from prapatti, that some are not competent. Even though prapatti becomes perfect by the rite which lasts only for a moment (we are taught) thus by the Saviour: "Always utter the dvaya with the thought of its meaning (in your mind)". Therefore the command "Nārāyaṇa is to be meditated on always" should be taken as an upāya for some (viz. those who adopt bhakti) and as the fruit for others, (namely prapannas). Thus the command is in no way opposed to prapatti adopted as a direct and independent means.
+
+The middle of the sugarcane (i.e.) aṣṭākṣara with eight joints becomes suitable to everyone,  
+if the root and the top (i.e.) the first and the last syllable are cut off.  
+So also there is nothing inappropriate in all prapannas enjoying the delight (rasa) of thinking of Bhagavān at any time whatever. It is only for bhakti yoga, which has its aṅgas or accessories and which is different from prapatti, that some are not competent. Even though prapatti becomes perfect by the rite which lasts only for a moment (we are taught) thus by the Saviour: "Always utter the dvaya with the thought of its meaning (in your mind)". Therefore the command "Nārāyaṇa is to be meditated on always" should be taken as an upāya for some (viz. those who adopt bhakti) and as the fruit for others, (namely prapannas). Thus the command is in no way opposed to prapatti adopted as a direct and independent means.
 
 Śrī Rāmānuja has explained in such treatises as Śrī Bhāṣya how prapatti is an aṅga to bhakti or upāsana. In the Gadya he explains how prapatti can also be an independent and direct means. It is true we find the following :-"There is nothing other than yoga which can destroy such evil traits as ignorance (avidyā) (and conceit)” and, “Past karmas cannot be destroyed even in ten thousand births without yoga. Only the fire of yoga can consume away the dry grass of karma." But since prapatti has been enjoined as a direct and independent means, on the strength of that ordinance, the passages cited above (on yoga) should be considered as applicable only to those others who are competent for them.
 
