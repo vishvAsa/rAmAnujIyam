@@ -14832,6 +14832,12 @@ Y eso **vendrá** a mí ".
 ’’वरुदेवर् मऱ्ऱुळरॆऩ्ऱॆऩ् मऩत्तिऱैयुम् करुदे’’(पॆरियदिरुमॊऴि ८-१०-२) ऩॆऩ्ऱुमरुळिच्चॆय्दार्।  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+वरुदेवरित्यादि । इदु पॆरिय तिरुमॊऴि ऎट्टाम्बत्तु इरण्डाम् पाट्टु। प्रळयम् वन्द पोदाग उऩ् वयिऱ्ऱिले पोय् पुक्कु नी वॆळिनाडुगाण पुऱप्पट्टविट्टवाऱे नाऩ् आश्रयणीयऩॆऩ्ऱु वरुम् वेऱुबट्ट तेवदैगळै, उळरॆऩ्ऱु - इरुक्किऱार्गळॆऩ्ऱु, मऩत्तु - मऩदिल्, इऱैयुम् - ईषत्तुम्, अदावदु पूर्वपक्षत्वेनापि, करुदेऩ् - ऎण्णियऱियेऩ्।  
+</details>
+
+
 ### पाञ्च-कालिक-साहायक-वृत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -14887,6 +14893,25 @@ y en perfecta **dependencia** de ellos.
 
 इस् समाराधनादिक्रमङ्गळिलनधिकृतर्क्कुमिक् कालङ्गळॆल्लात्तिलुम् तङ्गळुक्कु योग्यमाऩ नित्यनैमित्तिकङ्गळालुम्, सङ्कीर्तनादिगळालुम् समाराधनादियोग्यराऩबरमभागवतर्क्कु परतन्त्रराय् यथाधिकारम् वल्ल तेवै सॆय्दु मिक्कैङ्कर्यमिऴवादॊऴियलाम्।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> ‘‘जपस् तपस् तीर्थ-सेवा  
+प्रव्रज्या मन्त्र-साधनम् ।  
+देवताराधनञ् चेति  
+स्त्री-शूद्र-पतनानि षट्॥’’ 
+
+ऎऩ्ऱु स्त्रीशूद्रादिगळुक्कु देवताराधनम् निषिद्धम् आयिरुप्पदाल्  
+स्वतन्त्रप्रपत्तिनिष्ठर्गळाऩ अवर्गळुक्कु समाराधनम् कूडादे?  
+अप्पडिये वार्द्धक्यादिशैकळिलुम् अदु शक्यमऩ्ऱे? इवर्गळुक्कु अच्छिद्रपाञ्चकालिककैङ्कर्यम् सिद्धिप्पदु ऎङ्ङऩे यॆऩ्ऩ वरुळिच्चॆय्गिऱार् इस्समाराधनादि क्रमङ्गळिलनधिकृतर्क्कुमित्यादिना । अनधिकृतर्क्कुम् - स्त्रीशूद्रादिगळुक्कुम्, अवर्गळुक्कुम् पाञ्चकालिककैङ्कर्यसिद्धिप्रकारत्तै यरुळिच्चॆय्गिऱार् इक्कालङ्गळॆल्लात्ति लुमित्यादिना । तङ्गळुक्कु योग्यमाऩ नित्यनैमित्तिगङ्गळालुम् सङ्कीर्तनादिगळालुमिति ।  
+उत्थान गुरुपरम्परानुसन्धान द्रमिडगाथानुसन्धान नित्यस्नान  
+नैमित्तिकग्रहणादिस्नान द्वादशोर्ध्वपुण्ड्रधारण  
+पुष्पाद्याहरण मालाकरण दीपारोपण भगवन्मिन्दिरमार्जन सङ्कीर्तनादिरूपङ्गळाऩ कर्मङ्गळालुम् ऎऩ्ऱबडि।+++(4)+++  
+सङ्कीर्तनादिगळ् ऒरुवरुक्कुम् निषिद्धङ्गळऩ्ऱिऱे। 
+
+समाराधनादियोग्यराऩ परमभागवतर्क्कु परतन्त्रराय् यथाधिकारम् वल्लदेवैसॆय्दु इति । इङ्गु यथाधिकारमॆऩ्ऱदाल् भागवतकैङ्कर्यमुम् तऩ् अधिकारत्तै मीऱिच् चॆय्यलागादॆऩ्ऱु सॊल्लप्पट्टदु। इक् कैङ्गर्यमिऴवादॊऴियलामिति । इप् पाञ्चकालिककैङ्कर्यत्तैय् इऴन्दु पोगादबडि यथाकथञ्चिदनुष्ठिक्कलामॆऩ्ऱबडि। 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -14950,6 +14975,10 @@ que **es** diferente de eso
 इव्वर्थत्तै ‘‘आराधनानां सर्वेषां विष्णोरा-राधनं परम् । तस्मात्परतरं प्रोक्तं तदीयाराधनं परम्’’(पाद्मोत्तरम्म् २९-८१) ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+भागवतर्गळ् विषयत्तिल् अत्यन्तपारतन्त्र्यत्ताल् सॆय्युम् कैङ्कर्यमे सर्वोत्कृष्टमागैयाल् अदऩाल् अभिगमनादिसिद्धियुण्डॆऩ्बदै ऎण्णि भागवताराधनत्तिऩ् सर्वोत्कृष्टतैयिल् प्रमाणङ्गळै यरुळिच्चॆय्गिऱार् इव्वर्थत्तै इत्यादिना । इव्वर्थत्तै - भगवदाराधनसिद्धिहेतुभूतोत्कर्षम् भागवताराधनत्तिल् उण्डॆऩ्गिऱ अर्थत्तै, 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -14985,6 +15014,12 @@ quien **salvó** a Gokula con la colina (como un paraguas) "
 
 ’’कुऩ्ऱमॆडुत्त पिराऩडियारॊडुमॊऩ्ऱि निऩ्ऱ सडगोबऩुरैसॆयल्’’(तिरुवाय्मॊऴि ७-४-११) ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कुऩ्ऱमित्यादि । गोवर्द्धनपर्वतत्तैयॆडुत्तु गोगोपर्गळुक्कु उपकारकऩाऩ कण्णऩुडैय, अडियारॊडु - दासर्गळाऩ भागवतर्गळोडु, ऒऩ्ऱि निऩ्ऱ सडगोबऩ् - कैङ्कर्यकरणत्तिल् एकीभवित्तुनिऩ्ऱ सडगोबऩ्, एऴाम् पत्तु नाऩ्गाम् तिरुवाय्मॊऴि पदिऩोराम्बाट्टु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15024,6 +15059,13 @@ superará el de (incluso) a quienes cantan el alabanza del Señor ".
 
 ’’एत्तियिरुप्पारै वॆल्लुमे मऱ्ऱवरैच् चाऱ्ऱियिरुप्पार् तव’’(नाऩ्मुगऩ् तिरुवन्दादि १८) मॆऩ्ऱु मरुळिच्चॆय्दार्गळ्। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+एत्तीति । नाऩ्मुगऩ् तिरुवन्दादि पदिऩॆट्टाम्बाट्टु, एत्तियिरुप्पारै - भगवाऩै स्तोत्रम्बण्णियिरुप्पारै वॆल्लुम् - वॆऩ्ऱिरुक्कुम्, अतिशयित्तिरुक्कुमॆऩ्ऱबडि। मऱ्ऱवरै - भगवद्व्य-तिरिक्तर्गळाऩ भागवतरै, साऱ्ऱियिरुप्पार् - आराधित्तिरुप्पार्, तवम् - तबस्, भग-वाऩै स्तोत्तरित्तिरुप्पारैयुम् भागवतरैप्पूजित्तिरुप्पारुडैय तबस्साऩदु  
+(पुण्यमाऩदु) जयिक्कुमॆऩ्ऱबडि। 
+</details>
+
 
 ##### तुल्य-भोगः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -15072,6 +15114,12 @@ Y simplemente **mira**.
 
 इक् कैङ्कर्यङ्गळै अनुष्ठित्तुगप्पार्क्कुमिदुगण्डुगप्पार्क्कुम्, जगद्व्यापारम् पण्ण अधिकृतऩाऩ ईश्वरऩुक्कुम् मुक्तरुक्कुम् पोले भोगमेकरूपम्। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि अभिगमनादिकैङ्कर्यङ्गळै अनुष्ठिप्पवर्गळुक्कुप्पोले इव्वनुष्ठानोपकारकर्गळुक्कुम् फलम् एकरूपमॆऩ्ऱु सॊल्लि इक्कैङ्कर्यङ्गळै अनुष्ठित्तु उगप्पार्क्कुम्, अव्वनुष्ठानत्तैक् कण्डुगप्पार्क्कुम् आनन्दमेकरूपमॆऩ्गिऱार् इक् कैङ्कर्यङ्गळै इत्यादिना । अनुष्ठित्तुगप्पार्क्कुम् अदैक्कण्डुगप्पार्क्कुम् आनन्दम् एकरूपमाग इरुक्कुमो वॆऩ्ऩ? इरुक्कुमॆऩ्बदिल् दृष्टान्तमरुळिच्चॆय्गिऱार् जगद्व्यापारमित्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15135,6 +15183,11 @@ Todo esto, oh lo mejor de los reyes, **purifica** siempre a la persona que lo ha
 ९९‘‘धर्मश्श्रुतो वा दृष्टो वा स्मृतो वा कथितोऽपि वा । अनुमोदितो वा राजेन्द्र! पुनाति पुरुषं सदा’’(भारतम् आश्वमेधिकम् ९६-३१) ऎऩ्गिऱ पावनत्वम्बोले भोग्यत्वमुमेकरूपमागक् कुऱैयिल्लै।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शास्त्रवश्यतैयिल्लाद मोक्षदशैयिल् भोगमेकरूपमायिरुक्कलामॆऩ्ऱु प्रमाणबलत्ताले ऒप्पुक्कॊण्डालुम् संसारदशैयिल् कैङ्कर्यम् पण्णुगिऱवऩुक्कुम् अदैप् पार्त्तुगक्किऱवऩुक्कुम् आनन्दमेकरूपमागुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् धर्मः श्रुतो वेत्यादिना । इन्द श्लोकत्तिल् धर्मानुष्ठातृविषयत्तिलुम्, इदैक् केट्पवऩ् मुदलाऩोर् विषयत्तिलुम् पावनत्वम् एकरूपमॆऩ्ऱु सॊल्लियिरुन्दालुम् भोगमेकरूपमागुमोवॆऩ्ऩ? तुल्यन्यायत्ताले अदुवुम् एकरूपमागलामॆऩ्गिऱार् पावनत्वम् पोले भोग्यत्वमुम् एकरूपमागक् कुऱैयिल्लै इति । अनुष्ठानत्तालुण्डाऩ स्वामियिऩुडैय प्रीतिक्कुत् तुल्यमागवे इतरऩुडैय धर्मत्तै उगप्पोडु दर्शनम् पण्णिऩालुम् स्वामिप्रीतियुण्डागुमागैयाल् धर्म विशेष्येकैकविधप्रीतिहेतुत्वबुद्ध्या अनुष्ठातृश्रोत्रोः एकविधानन्दम् उण्डागलामॆऩ्ऱु तिरुवुळ्ळम्।
+</details>
+
 
 ### यथा-शक्ति-स्मरणम् 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -15178,6 +15231,11 @@ Entonces también **se dice** en el Mahābhārata:-
 <details><summary>मूलम्</summary>
 
 अप्पडिये १००‘‘तस्मात्सप्रणवं शूद्रो मन्नामानि न कीर्तयेत्’’(भारतम् आश्वमेधिकम् ११८-१४) ऎऩ्ऱु महाभारतत्तिलुम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि सर्वरुक्कुम् पूजासिद्धिप्रकारत्तैच् चॊल्लि सर्वोपजीव्यमाऩ प्रणवचतुर्थियिल्लाद मूलमन्त्रत्ताले सर्वरुक्कुम् स्वाध्यायसिद्धिपोले ऎल्ला प्रपन्नर्गळुक्कुम् सर्वकालत्तिलुम् फलरूपमाऩ भगवदनुस्मरणात्मकयोगत्तिऱ्कु अधिकारमुण्डॆऩ्गिऱार् अप्पडिये तस्मात्सप्रणवमित्यादिना । इदु भारतम् आश्वमेधिकपर्वम् नूऱ्ऱुप्पदिऩॆट्टावदु अद्ध्यायम् पदिऩाऩ्गावदु श्लोकम्। 
 </details>
 
 
@@ -15235,6 +15293,11 @@ para **ser realizado** sin el sufijo dativo así:- (namo nārāyaṇa) ".
 ‘‘अष्टाक्षरजपस्स्त्रीणां प्रकृत्यैव विधीयते । न स्वरः प्रणवोऽङ्गानि नाप्यन्यविधयस्तथा ॥ स्त्रीणान्तु शूद्राजातीनां मन्त्रमात्रोक्तिरिष्यते।’’(नारदीय-कल्पः)ऎऩ्ऱु नारदीयादिगळिलुम् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अष्टाक्षरजपस्त्रीणामिति । इदु नारदीयकल्पम्। प्रकृत्यैव – प्रणवं विना सप्ताक्षरमात्रेण, विधीयते – उपदेश्यतया जप्यतया च विधीयते, न स्वरः – उदात्तादिस्वरो नोपदेश्यः, न जप्यश्चेत्यर्थः । अङ्गानि – अङ्गन्यासकरन्यासरूपाङ्गानि, नेत्यनुषज्यते । अन्यविधयः – होमतर्पणपुष्पाञ्जलिप्रदानपुरश्चरणादयः । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15281,11 +15344,28 @@ y **regresó** después de **pronunciar** el mantra "namo nārāyaṇa".
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नमो नारायणेत्युक्त्वेति ‘‘मूलमन्त्रं समुच्चार्य श्वपाकः पुनरागमत्’’ ऎऩ्ऱु सॊल्लामल् ‘‘नमो नारायणेत्युक्त्वा’’ ऎऩ्ऱु इतिकारम् पण्णि सॊल्लियिरुप्पदाल् नम्बाडुवाऩुडैय मन्त्रोच्चारणम् प्रणवचतुर्थीरहितमॆऩ्ऱे एऱ्पडुवदाल् तादृशर्गळुक्कु प्रणवचतुर्थीसहितमन्त्रोच्चारणत्तिल् अधिकारमिल्लैयॆऩ्ऱु सिद्धम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ’’वायिऩाल् "नमो नारणाव्" ऎऩ्ऱु  
-मत्तगत्त्+++(=मस्तकस्य)+++ इडैक् कैगळैक् कूप्पिय्’’(पॆरियाऴ्वार् तिरुमॊऴि ४-५-२) ऎऩ्ऱुम्, 
+मत्तगत्त्+++(=मस्तकस्य)+++ इडैक्+++(=मध्ये)+++ कैगळैक् कूप्पिय् +++(प्रेतो न प्रत्यायाति)+++ ’’(पॆरियाऴ्वार् तिरुमॊऴि ४-५-२) 
+
+ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "17 वाचा नमो नारायणेत्य् उक्त्वा  
+मस्तक-मध्ये हस्ताभ्याम् अञ्जलिं बद्ध्वा +++(प्रेतो न प्रत्यायाति)+++" 
+
+इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -15311,6 +15391,12 @@ con las manos **dobladas** en reverencia sobre su cabeza
 ’’वायिऩाल् नमो नारणावॆऩ्ऱु मत्तगत्तिडैक् कैगळैक् कूप्पिय्’’(पॆरियाऴ्वार् तिरुमॊऴि ४-५-२) ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+वायिऩालिति । तमिऴिल् नारणशब्दम् नारायणशब्द पर्यायम्। ऎट्टुक्कण्णाऩ करुम्बिले - कण् - कणुवु, अदावदु पर्वम्। वेर्प् पऱ्ऱु - मूलभागम्, तलैयाडै - अग्रभागम्, इङ्गु शूद्रादिगळुक्कु प्रणवम् कूडा तॆऩ्बदिल् प्रमाणम् महाभारतवचनम्। स्वरादिराहित्ये प्रमाणम् नारदीयवचनम्। प्रणवचतुर्थीरहितमन्त्रत्तिल् सर्वरुक्कुमधिकारमुण्डॆऩ्बदिल् प्रमाणम् वराहवचनम्। सर्वप्रकारोच्चारणत्तिऱ्कुम् फल-प्रतिपादकम् वायिऩालित्यादि पासुरम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ’’नामञ् जॊल्लिल्  
@@ -15320,13 +15406,20 @@ con las manos **dobladas** en reverencia sobre su cabeza
 ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> “18 नामोच्चारणे - नमो नारायण इत्य् एव" 
+
+इति चोक्तरीत्या 
+</details>
+
+
 <details><summary>English</summary>
 
 and 
 
 > If one is to utter the name of Bhagavān,  
 one should say "namo Narana".  
-
 </details>
 
 <details><summary>Español</summary>
@@ -15343,12 +15436,68 @@ Uno **debería decir** "Namo Narana".
 ’’नामञ्जॊल्लिल् नमो नारायणमेय्’’ (पॆरिय तिरुमॊऴि ६-१०-१)  ऎऩ्ऱुञ् जॊल्लुगिऱबडिये 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+तिरु-मन्त्रम् आगिऱ ऎट्टुक्-कण्ण्+++(=बन्ध)+++ आऩ करुम्बिले  
+वेर्-पऱ्ऱुन् तलैय्-आडैयुङ्+++(←कम्पमानान्ते??)+++ गऴिन्दाल्  
+नडुव् उळ्ळ अंशं सर्वोपजीव्यम् आगिऱाप् पोले 
+</details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-मन्त्र-रूपे ऽष्ट-पर्वणि इक्षु-दण्डे  
+मूलाग्र-भागयोस् त्यागे  
+मध्य-स्थांशस्य सर्वोपजीव्यत्ववत्  
+</details>
+
+<details><summary>English</summary>
 
 The middle of the sugarcane (i.e.) aṣṭākṣara with eight joints becomes suitable to everyone,  
 if the root and the top (i.e.) the first and the last syllable are cut off.  
-So also there is nothing inappropriate in all prapannas enjoying the delight (rasa) of thinking of Bhagavān at any time whatever. It is only for bhakti yoga, which has its aṅgas or accessories and which is different from prapatti, that some are not competent. Even though prapatti becomes perfect by the rite which lasts only for a moment (we are taught) thus by the Saviour: "Always utter the dvaya with the thought of its meaning (in your mind)". Therefore the command "Nārāyaṇa is to be meditated on always" should be taken as an upāya for some (viz. those who adopt bhakti) and as the fruit for others, (namely prapannas). Thus the command is in no way opposed to prapatti adopted as a direct and independent means.
+</details>
+
+<details><summary>Español</summary>
+
+El medio de la caña de azúcar (es decir) aṣṭākṣara con ocho articulaciones  
+**se vuelve adecuada** para todos,  
+Si la raíz y la parte superior (es decir) **se cortan** la primera y la última sílaba.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तिरुमन्त्रमागिऱ ऎट्टुक्कण्णाऩ करुम्बिले वेर्बऱ्ऱुन् दलैयाडैयुङ् गऴिन्दाल् नडुवुळ्ळ अंशम् सर्वोपजीव्यमागिऱाप्पोले 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सर्वोपजीव्यमागिऱाप्पोले इति । इदु दृष्टान्तकथनम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपत्ति-निष्ठर् ऎल्लार्क्कुम्  
+सर्व-कालत्तिलुम् भगवद्-अनुस्मरण-रसत्तुक्कुम् विरोधम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+So also there is nothing inappropriate in all prapannas enjoying the delight (rasa) of thinking of Bhagavān at any time whatever. 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces, tampoco **hay nada** inapropiado en todas las Prapannas que **disfrutan** del deleite (rasa) de **pensar** en Bhagavān en cualquier momento.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तिनिष्ठरॆल्लार्क्कुम् सर्वकालत्तिलुम् भगवदनुस्मरणरसत्तुक्कुम् विरोधमिल्लै। 
+</details>
+
+
+It is only for bhakti yoga, which has its aṅgas or accessories and which is different from prapatti, that some are not competent. Even though prapatti becomes perfect by the rite which lasts only for a moment (we are taught) thus by the Saviour: "Always utter the dvaya with the thought of its meaning (in your mind)". Therefore the command "Nārāyaṇa is to be meditated on always" should be taken as an upāya for some (viz. those who adopt bhakti) and as the fruit for others, (namely prapannas). Thus the command is in no way opposed to prapatti adopted as a direct and independent means.
 
 Śrī Rāmānuja has explained in such treatises as Śrī Bhāṣya how prapatti is an aṅga to bhakti or upāsana. In the Gadya he explains how prapatti can also be an independent and direct means. It is true we find the following :-"There is nothing other than yoga which can destroy such evil traits as ignorance (avidyā) (and conceit)” and, “Past karmas cannot be destroyed even in ten thousand births without yoga. Only the fire of yoga can consume away the dry grass of karma." But since prapatti has been enjoined as a direct and independent means, on the strength of that ordinance, the passages cited above (on yoga) should be considered as applicable only to those others who are competent for them.
 
