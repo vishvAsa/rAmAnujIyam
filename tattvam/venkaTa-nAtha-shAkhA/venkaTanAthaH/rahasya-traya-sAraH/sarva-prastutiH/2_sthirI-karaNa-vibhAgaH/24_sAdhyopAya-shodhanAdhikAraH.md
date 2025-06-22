@@ -15706,7 +15706,37 @@ En el Gadya **explica** cómo Prapatti también **puede ser** un medio independi
 स्वतन्त्रमाऩ वेषत्तै गद्यत्तिले यरुळिच्चॆय्दार्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
+इप्पडि स्वतन्त्र-प्रपत्तिय् ऎऩ्बदु ऒऩ्ऱ् उण्ड् आगिल्  
+गीता-भाष्यत्तिल् चरम-श्लोक-व्याख्यानावसरत्तिल् शरण-वरणत्तै  
+अङ्ग-प्रपत्ति-परम् आगच् चॊल्लुवाऩ् एऩ् 
+
+ऎऩ्ऩव् अरुळिच् चॆय्गिऱार्  
+
+> इप्प्रपत्ति अङ्गमाऩ वेषत्तै भाष्यादिगळिले उदाहरित्तरुळिऩार्। स्वतन्त्रमाऩ वेषत्तै गद्यत्तिले यरुळिच् चॆय्दार् 
+
+इति ।  
+गीतैयिल् साधनभक्तियोगप्रस्तावम् नडन्दु वरुवदालुम्,  
+मुऩ् श्लोकत्तिल् 
+
+> ‘‘मन्मना भव मद्भक्तो  
+मद्याजी मां नमस्कुरु ।  
+मामेवैष्यसि सत्यन्ते  
+प्रतिजाने प्रियोऽसि मे ॥’’ 
+
+ऎऩ्ऱु भक्तियोगम् सॊल्लप्पट्ट बडियालुम्  
+प्रकरणानुरोधेन सर्वफलसाधनमाऩ प्रपत्तियै भक्तिक्कु साधनमाग उदाहरित्तार्।+++(4)+++  
+अदऩाल् 
+
+> प्रपत्तिक्कु स्वातन्त्र्येण मोक्षसाधनत्वम् इल्लैय्  
+
+ऎऩ्ऱु भाष्यकाररुक्कु अभिप्रेतम् अऩ्ऱु।  
+आगैयालेये स्वतन्त्रमाऩ वेषत्तै अदावदु स्वातन्त्र्येण मोक्षसाधनत्वत्तै गद्यत्तिले यरुळिच्चॆय्दारागैयाल् श्रीभाष्यकाररुक्कु उभयमुम् अदावदु अङ्गत्वमुम् स्वतन्त्रत्वमुम् तत्तत्प्रकरणानुरोधेन अभिप्रेतमागैयाल् ऒरु विधविरोधमुमिल्लै यॆऩ्ऱु करुत्तु।
+</details>
+
+
+## प्रपत्त्याऽपि कर्म-क्षयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘क्लेशानाञ् च क्षय-करं  
@@ -15743,6 +15773,11 @@ que **puede destruir** rasgos tan malvados como la ignorancia (avidyā) (y la pr
 ‘‘क्लेशानाञ्च क्षयकरं योगादन्यन्न विद्यते’’(विष्णुपुराणम् ६-७-२५) 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि स्वतन्त्रप्रपत्ति सर्वकर्मक्षयपूर्वकं मोक्षजनकमॆऩ्ऱाल् साधनभक्ति व्यतिरिक्तत्तिऱ्कु क्लेशादिनाशकत्वमिल्लैयॆऩ्ऱु सॊल्लुगिऱ वचनङ्गळुक्कु गति यॆऩ्ऩ वॆऩ्ऩ वरुळिच्चॆय्गिऱार् क्लेशानाञ्च क्षयकरमित्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -15763,6 +15798,7 @@ que **puede destruir** rasgos tan malvados como la ignorancia (avidyā) (y la pr
 योगाग्निः **क्षपयेत्** परम्॥’’  
 (विष्णु-धर्मः १०२-४)  
 
+इत्य्-आदीन्य् अपि
 </details>
 
 <details><summary>English</summary>
@@ -15791,20 +15827,142 @@ La hierba seca del karma ".
 ‘‘न कर्मणां क्षयो भूप! जन्मनामयुतैरपि । ऋते योगात्कर्मकक्षं योगाग्निः क्षपयेत्परम्॥’’(विष्णु-धर्मः १०२-४)  इत्यादिगळुम् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+भक्तियोगत्तैक्काट्टिलुम् वेऱुबट्ट मोक्षप्रदमाऩ उपायमिल्लैयॆऩ्बदु वचनार्थम्। न कर्मणामित्यादि । भक्तियोगत्तै विट्टु जन्मायुतङ्गळालुम् कर्मक्षयमुण्डागादु। भक्तियोगमागिऱ अङ्गिये कर्मसमूहत्तै नाशम् सॆय्युमॆऩ्बदु इदिऩर्थम्। 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-तन्त्र--प्रपत्ति-विधि-बलत्ताले  
+अधिकार्य्-अन्तर-विषयङ्गळ् आगक् कडवऩ।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-तन्त्र-प्रपत्ति-विधि-बलाद्  
+अधिकार्य्-अन्तर-विषयाणि स्युः । 
+</details>
+
+<details><summary>English</summary>
+
+But since prapatti has been enjoined as a direct and independent means,  
+on the strength of that ordinance,  
+the passages cited above (on yoga) should be considered as applicable  
+only to those others who are competent for them.
+</details>
+
+<details><summary>Español</summary>
+
+Pero dado que Prapatti **ha sido ordenado** como un medio directo e independiente,  
+sobre la fuerza de esa **ordenanza**,  
+Los pasajes **citados** anteriormente (en yoga) **deben considerarse** como **aplicables**  
+Solo para aquellos otros que **son competentes** para ellos.
+</details>
 
 
-But since prapatti has been enjoined as a direct and independent means, on the strength of that ordinance, the passages cited above (on yoga) should be considered as applicable only to those others who are competent for them.
+<details><summary>मूलम्</summary>
 
-Similarly answers to other misconceptions that might arise in regard to sūdhyopāya (bhakti and prapatti) may be found in Nikṣepa rakṣa. Sādhyopāya as clarified in this chapter should be borne in mind in regard to the three mysteries (mantras) in the appropriate place.
+स्वतन्त्रप्रपत्तिविधिबलत्ताले अधिकार्यन्तरविषयङ्गळागक् कडवऩ।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इव्वचनङ्गळ् 
+
+> ‘‘शरणं त्वां प्रपन्ना ये’’, 
+
+‘‘यद् येन काम-कामेने’’त्यादि-भक्ति-योगं विना स्वतन्त्र-प्रपत्तिक्कु मोक्ष-कारणत्व-प्रतिपादक-वचन-बलत्ताले  
+शक्ताधिकारिविषयङ्गळॆऩ्ऱु समाधानमरुळिच्चॆय्गिऱार् स्वतन्त्रप्रपत्तिविधिबलत्ताले अधिकार्यन्तरविषयङ्गळागक् कडवऩ इति । 
+</details>
+
+
+## उपसंहारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि साध्योपाय-विषयम् आग  
+मऱ्ऱुम् पिऱक्कुङ् कलक्कङ्गळुक्कुप् परिहारम्  
+निक्षेपरक्षैयिले कण्डु कॊळ्वदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं साध्योपाय-विषये जायमानानाम् अन्येषाम् अपि व्यामोहानां परिहारो  
+निक्षेप-रक्षायां द्रष्टव्यः।
+</details>
+
+
+<details><summary>English</summary>
+
+Similarly answers to other misconceptions that might arise in regard to sādhyopāya (bhakti and prapatti)  
+may be found in Nikṣepa rakṣa. 
+</details>
+
+<details><summary>Español</summary>
+
+De manera similar, **responde** a otros conceptos erróneos  
+que **pueden surgir** con respecto a Sādhyopāya (Bhakti y Prapatti)  
+**se puede encontrar** en Nikṣepa rakṣa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि साध्योपायविषयमागमऱ्ऱुम् पिऱक्कुङ् गलक्कङ्गळुक्कुप् परिहारम् निक्षेपरक्षैयिले कण्डु कॊळ्वदु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि इव्वधिकारत्तिल् शोधितमाऩ वळवाले स्वतन्त्रप्रपत्ति विषयत्तिल् प्रपत्तिस्वरूपमे दुर्निरूपमॆऩ्ऱुम्, मानसवाचिककायिकरूपङ्गळाऩ प्रपत्तिकळुक्कु अनुगतलक्षणम् घटियातॆऩ्ऱुम्, इदु अननुष्ठानपराहतमॆऩ्ऱुम् सम्प्रदायविरुद्धमॆऩ्ऱुम् सॊल्लुगिऱ वादिगळुडैय आक्षेपङ्गळुक्कुप् परिहारम् सॊल्लप्पडविल्लैये यॆऩ्ऩ वरुळिच्चॆय्गिऱार् इप्पडि साध्योपायविषयमाग इत्यादिना । निक्षेपरक्षैयिले कण्डुगॊळ्वदु इति । निक्षेपरक्षैयिले सिद्धान्तकथनावसरत्तिल् प्रायशः वादिगळुडैय आक्षेपत्तिऱ्कु समाधानम् सॊल्लप्पट्टिरुप्पदाल् अङ्गेये कण्डुगॊळ्वदॆऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस् साध्योपायम्  
+इङ्गु शेधितम् आऩ कट्टळैयिले  
+रहस्य-त्रयत्तिल् यथा-स्थानम् अनुसन्धेयम्।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं साध्योपायोऽत्र शोधित-रीत्या  
+रहस्य-त्रये यथा-स्थानम् अनुसंधेयः ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+Sādhyopāya as clarified in this chapter  
+should be borne in mind in regard to the three mysteries (mantras) in the appropriate place.
+</details>
+
+<details><summary>Español</summary>
+
+Sādhyopāya como **se aclara** en este capítulo  
+**debe tenerse** en cuenta con respecto a los tres misterios (mantras) en el lugar apropiado.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इस् साध्योपायम् इङ्गु शेधितमाऩ कट्टळैयिले रहस्यत्रयत्तिल् यथास्थानमनुसन्धेयम्।  
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आऩाल् इङ्गु इव्वळवु शोधनत्तिऱ्कु प्रयोजनमॆऩ् ऎऩ्ऩ? शोधितप्रकारत्ताले रहस्यत्रयत्तिल् नमःपदादिगळिल् अनुसन्धानमे प्रयोजनमॆऩ्गिऱर् इस्साध्योपायमित्यादिना ।  
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-वरिक्किऩ्ऱनन् परन् यावरैयॆन्नु मऱैयदनिल्  
-विरिक्किऩ्ऱदुङ्गुऱियॊऩ्ऱाल् विनैयरैयादलिनाम्  
-उरैक्किऩ्ऱ नन्नॆऱियोरुम्बडिगळिलोर्न्दुलगम्  
-तरिक्किऩ्ऱ तारगनार् तगवाऱ्‌ ऱरिक्किऩ्ऱनमे. ( 35 )
+"वरिक्किऩ्ऱनन् परन् यावरैय्" ऎन्नु मऱैय् +++(←'यम् एवैष वृणुते…')+++ अदनिल्,  
+**वि+++(व)+++रिक्किऩ्ऱदुङ्** गुऱिय् ऒऩ्ऱाल् विऩैयरैय्+++(=कर्मवतः)+++; आदलि+++(न्)+++ नाम्  
+उरैक्किऩ्ऱ+++(=उक्त)+++ नऩ्-नॆऱिय्+++(=मार्ग)+++ ओरुम्+++(=निश्चित)+++ बडिगळिल् **ओर्न्द्**+++(=निश्चित्य)+++, उलगम्  
+तरिक्किऩ्ऱ तारकनार् तगवाऱ्‌+++(ल्=योग्यतया)+++ +**तरिक्किऩ्ऱनमे**. ( 35 )
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
@@ -15815,7 +15973,15 @@ Similarly answers to other misconceptions that might arise in regard to sūdhyop
 तरिक्किऩ्ऱ तारगनार् तगवाऱ्‌ ऱरिक्किऩ्ऱनमे. ( 35 )
 </details>
 
-The Śruti states at length that the Supreme Being chooses those who should win His grace; but this choice (of the jīva bound by karma for the bestowal of His grace) is based on some consideration. Therefore we obtain redemption by the mercy of the Lord who, as antaryāmī, supports the world and, as Saviour, helps us cross the sea of saṁsāra and by understanding clearly the good paths for winning His grace (bhakti and prapatti) as described in the śāstras.
+The Śruti states at length  
+that the Supreme Being chooses those who should win His grace;  
+but this choice (of the jīva bound by karma for the bestowal of His grace)  
+is based on some consideration.  
+Therefore we obtain redemption by the mercy of the Lord  
+who, as antaryāmī, supports the world  
+and, as Saviour, helps us cross the sea of saṁsāra  
+and by understanding clearly the good paths for winning His grace (bhakti and prapatti)  
+as described in the śāstras.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
