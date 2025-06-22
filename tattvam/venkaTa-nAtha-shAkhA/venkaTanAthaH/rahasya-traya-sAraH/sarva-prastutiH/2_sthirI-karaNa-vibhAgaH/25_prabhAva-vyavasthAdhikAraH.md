@@ -169,7 +169,7 @@ por los pramāṇas (fuentes de conocimiento verdadero).
 </details>
 
 
-## उपायनिष्ठ-प्रभावः
+## उपायनिष्ठ-प्रशंसा
 <details><summary>English</summary>
 
 THE GREATNESS OF THE DEVOTEES OF BHAGAVĀN:
@@ -274,16 +274,292 @@ y esas siete generaciones que **nacerán** después de mí
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Those who have adopted these upāyas are, indeed, described as having the greatness of being capable of securing redemption even to those who are connected with them. 
+अनुबन्धिगळुक्कुम् उत्तारकम् आऩ प्रभावत्तैय् उडैयऩ् आय् इऱेय्  
+इव्व्-उपाय-निष्ठऩ् इरुप्पदु। 
+</details>
 
-Similarly it has indeed been stated that the greatness of the man who has a knowledge of Bhagavān cannot be (adequately) estimated by the gods even ": "Even the gods cannot measure the greatness of the man who knows Śrī Kṛṣṇa as He is ". However we will now state the limits (of this greatness) so far as caste is concerned, by the force of pramāṇas which are not opposed to these texts (quoted above).
+<details><summary>English</summary>
 
-DOES PRAPATTI ENTITLE A ŚŪDRA TO BE
+Those who have adopted these upāyas are, indeed, described as having the greatness of being capable of securing redemption  
+even to those who are connected with them. 
+</details>
 
-CONSIDERED A BRAHMIN
+<details><summary>Español</summary>
 
-It is said: “Those Sūdras" who have devotion' (bhakti ) to Bhagavān are not Śūdras; they who are devotees of Bhagavān are Brahmins. Those who have no bhakti to Bhagavān (Janārdana), whatever might be their caste - they alone are sūdras". Thus by the presence or absence in them of the specific attribute of bhakti to Bhagavān, men of lower castes are called by the names of the higher and men of higher castes are called by the names of the lower respectively. From this, men of poor understanding might ask, “Are not the devotees of Bhagavān of one and the same caste?" If this view were accepted, it would be in conflict with all the śāstras that prescribe the respective course of right conduct stating, "Thus will the devotee of the Lord who is a Brahmin conduct himself and thus will the devotee who is a Śūdra conduct himself." The distance that exists between the mere Brahmin and the mere Śūdra should be considered to exist (also) between the Lord's devotee who is a Brahmin and the Lord's devotee who is a Śūdra. The śāstras which state that they are equal refer only to such things as the attainment of the final goal (mokṣa). Kadambi Appullar has made this point clear. Further learned scholars (like Peria Achan Pillai) while commenting on the verse, "The name, Nārāyaṇa confers a (higher) kulam", express the following conclusion:- "If a man who is low by birth and by conduct attains contact with Bhagavān, one who has them both should shrink from calling him low, because of the potency of his devotion to Bhagavān". In answer to the question . “But this does not mean intermarriage among them ", they declared that this (prohibition of inter-marriage) is due to caste and that the praise of the man is due to his possession of virtues. The words, " It confers a higher kulan", and likewise, the passage - “ We will give up our former kulam, and sing the praise of Bhagavān " mean only exaltation in the Vaiṣṇava kulam. His kulam is indeed such as will not entertain the worship of other deities as well as the Lord. The saying current in the families of those who are exclusively devoted to Bhagavān (ekantī) is indeed as follows : "He to 'whom Vāsudeva is not the (sole) deity from birth to death let him not be born into our family and even if he is born, let him die soon." Though the kulam is changed, since the words caste and kulam have been used in different senses, we may say that the caste will remain the same, but that the kulam will be different. " Though the cow may be of the temple, it does not cease to be a cow". In such passages as this:-"He should be considered as a Śūdra", the great sages called men of higher castes by the words applicable to the lower castes and vice versa merely to indicate the degree of consideration or respect to be shown. Therefore the purport of the śāstra is only this much:“Brahmins who are not devotees of Bhagavān are not to be held in esteem, whereas Śūdras who are devotees of Bhagavān should be as much esteemed as Brahmins."
+Aquellos que **han adoptado** estos upāyas, de hecho, **se describen** como la grandeza de ser capaces de **asegurar** la **redención**  
+Incluso para aquellos que **están conectados** con ellos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुबन्धिकळुक्कुमुत्तारकमाऩ प्रभावत्तै युडैयऩायिऱे यिव्वुपायनिष्ठऩिरुप्पदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यो ह्य् एनं पुरुषं **वेद**  
+देवा अपि **न** तं **विदुः**।’’  
+(भारतम् आरण्य-पर्व १९१-२९ ) 
+
+ऎऩ्ऱु भगवज्-ज्ञानम् उडैयवऩ्-उडैय प्रभावम्  
+देवर्गळालुम् परिच्छेदिक्क वॊण्णाद् ऎऩ्ऱार्गळ् इऱे।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यो ह्य् एनं पुरुषं **वेद**  
+देवा अपि **न** तं **विदुः**।’’  
+(भारतम् आरण्य-पर्व १९१-२९ ) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+Similarly it has indeed been stated that  
+the greatness of the man who has a knowledge of Bhagavān cannot be (adequately) estimated by the gods even : 
+
+> "Even the gods cannot measure the greatness of the man  
+who knows Śrī Kṛṣṇa as He is ". 
+</details>
+
+<details><summary>Español</summary>
+
+Del mismo modo, de hecho **se ha dicho** que  
+La grandeza del hombre que **tiene** un **conocimiento** de Bhagavān  
+**no puede ser** (adecuadamente) **estimada** por los dioses incluso:
+
+> "Incluso los dioses **no pueden medir** la grandeza del hombre  
+Quién **conoce** a Śrī Kṛṣṇa como es ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यो ह्येनं पुरुषं वेद देवा अपि न तं विदुः’’(भारतम् आरण्य-पर्व १९१-२९ ) ऎऩ्ऱु भगवद्ज्ञानमुडैयवऩुडैय प्रभावम् देवर्गळालुम् परिच्छेदिक्कवॊण्णादॆऩ्ऱार्गळिऱे।
+</details>
+
+## जातिः
+### प्रतिज्ञा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩालुम्  
+इदुक्कु विरुद्धम् अल्लाद प्रमाण-बलत्ताले मुऱ्-पड  
+जाति-व्यवस्थै **सॊल्लुगिऱोम्**। 
+</details>
+
+<details><summary>English</summary>
+
+However we will now state the limits (of this greatness) so far as caste is concerned,  
+by the force of pramāṇas which are not opposed to these texts (quoted above).
+</details>
+
+<details><summary>Español</summary>
+
+Sin embargo, ahora **declararemos** los límites (de esta grandeza) en lo que respecta a la casta,  
+por la fuerza de Pramāṇas que **no se oponen** a estos textos (**citado** anteriormente).
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऩालुम् इदुक्कु विरुद्धमल्लाद प्रमाणबलत्ताले मुऱ्पड जातिव्यवस्थै सॊल्लुगिऱोम्। 
+</details>
+
+
+### शङ्का
+<details><summary>English</summary>
+
+DOES PRAPATTI ENTITLE A ŚŪDRA TO BE CONSIDERED A BRAHMIN
+</details>
+
+<details><summary>Español</summary>
+
+¿Prapatti **da** derecho a un Śūdra para **ser considerado** un brahmán
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ‘‘न शूद्रा भगवद्-भक्ता  
+विप्रा भागवतास् स्मृताः ।  
+सर्व-वर्णेषु ते शूद्रा  
+ये ह्य् अ-भक्ता जनार्दने॥’’  
+(भारतम् आश्वमेधिक-पर्व ११८-३२) 
+> 
+> ऎऩ्ऱु
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘न शूद्रा भगवद्-भक्ता  
+विप्रा भागवतास् स्मृताः ।  
+सर्व-वर्णेषु ते शूद्रा  
+ये ह्य् अ-भक्ता जनार्दने॥’’  
+(भारतम् आश्वमेधिक-पर्व ११८-३२) 
+> 
+> इति
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवतः, जातिः, विप्रः, शूद्रः
+</details>
+
+<details><summary>English</summary>
+
+It is said: 
+
+> “Those Sūdras who have devotion (bhakti ) to Bhagavān are not Śūdras;  
+they who are devotees of Bhagavān are Brahmins.  
+Those who have no bhakti to Bhagavān (Janārdana),  
+whatever might be their caste -  
+they alone are sūdras". 
+</details>
+
+<details><summary>Español</summary>
+
+**Se dice**:
+
+> “Los sūdras que **tienen** devoción (bhakti) a bhagavān **no son** Śūdras;  
+Los que **son devotos** de Bhagavān **son** brahmanes.  
+Aquellos que **no tienen** Bhakti a Bhagavān (Janārdana),  
+Cualquiera que **sea** su casta -  
+Ellos solo **son** sūdras ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न शूद्रा भगवद्भक्ता विप्रा भागवतास्स्मृताः । सर्ववर्णेषु ते शूद्रा ये ह्यभक्ता जनार्दने॥’’(भारतम् आश्वमेधिक-पर्व ११८-३२) ऎऩ्ऱु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> भगवद्-भक्तिय् आगिऱ गुण-विशेष-सद्--अ-सद्-भावङ्गळाले  
+अपकृष्ट-जातीयरै उत्कृष्ट-जातीय-वाचक-शब्दत्ताले **सॊल्लियुम्**,
+</details>
+
+
+<details><summary>English</summary>
+
+> Thus by the presence or absence in them of the specific attribute of bhakti to Bhagavān,  
+men of lower castes are called by the names of the higher  
+</details>
+
+<details><summary>Español</summary>
+
+> Así por la **presencia** o **ausencia** en ellos del atributo específico de Bhakti a Bhagavān,  
+Los hombres de las castas inferiores **son llamados** por los nombres de los más altos
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवद्भक्तियागिऱ गुणविशेषसदसद्भावङ्गळाले अपकृष्टजातीयरै उत्कृष्टजातीयवाचकशब्दत्ताले सॊल्लियुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उत्कृष्ट-जातीयरै अपकृष्ट-जातीय-वाचक-शब्दत्ताले सॊल्लियुम् इरुन्ददु, 
+</details>
+
+
+<details><summary>English</summary>
+
+> and men of higher castes are called by the names of the lower respectively. 
+</details>
+
+<details><summary>Español</summary>
+
+> y los hombres de castas superiores **son llamados** por los nombres de la parte inferior respectivamente.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उत्कृष्टजातीयरै अपकृष्ट जातीयवाचकशब्दत्ताले सॊल्लियुमिरुन्ददु, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इद्-अडिय् आग  
+भगवद्-भक्तर् ऎल्लारुम्  
+एक-जातीयर् अऩ्ऱोव् 
+
+ऎऩ्ऱु मृदु-प्रज्ञर् निऩैप्पर्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+From this, men of poor understanding might ask, 
+
+> “Are not the devotees of Bhagavān of one and the same caste?" 
+</details>
+
+<details><summary>Español</summary>
+
+A partir de esto, los hombres de mal **entendimiento podrían preguntar**,
+
+> "**¿No son** los devotos de Bhagavān de la misma casta?"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदडियाग भगवद्भक्तरॆल्लारुम् एकजातीयरऩ्ऱोवॆऩ्ऱु मृदुप्रज्ञर् निऩैप्पर्गळ्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩेय् आगिल्  
+
+> भागवत-ब्राह्मणऩ् इऩ्ऩ बडिये वर्तिप्पाऩ्, 
+</details>
+
+<details><summary>English</summary>
+
+> "Thus will the devotee of the Lord who is a Brahmin conduct himself 
+</details>
+
+<details><summary>Español</summary>
+
+> "Así, el devoto del Señor, que **es** un brahmán mismo, **se conduce** a sí mismo
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩेयागिल् भागवतब्राह्मणऩिऩ्ऩबडिये वर्तिप्पाऩ्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> भागवतशूद्रऩिऩ्ऩबडिये वर्तिप्पाऩ्
+</details>
+
+<details><summary>English</summary>
+
+> and thus will the devotee who is a Śūdra conduct himself." 
+</details>
+
+<details><summary>Español</summary>
+
+> Y así **se conducirá** el devoto que **es** un Śūdra mismo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भागवतशूद्रऩिऩ्ऩबडिये वर्तिप्पाऩ्
+</details>
+
+
+
+If this view were accepted, it would be in conflict with all the śāstras that prescribe the respective course of right conduct stating (the above).
+
+
+The distance that exists between the mere Brahmin and the mere Śūdra should be considered to exist (also) between the Lord's devotee who is a Brahmin and the Lord's devotee who is a Śūdra. The śāstras which state that they are equal refer only to such things as the attainment of the final goal (mokṣa). Kadambi Appullar has made this point clear. Further learned scholars (like Peria Achan Pillai) while commenting on the verse, "The name, Nārāyaṇa confers a (higher) kulam", express the following conclusion:- "If a man who is low by birth and by conduct attains contact with Bhagavān, one who has them both should shrink from calling him low, because of the potency of his devotion to Bhagavān". In answer to the question . “But this does not mean intermarriage among them ", they declared that this (prohibition of inter-marriage) is due to caste and that the praise of the man is due to his possession of virtues. The words, " It confers a higher kulan", and likewise, the passage - “ We will give up our former kulam, and sing the praise of Bhagavān " mean only exaltation in the Vaiṣṇava kulam. His kulam is indeed such as will not entertain the worship of other deities as well as the Lord. The saying current in the families of those who are exclusively devoted to Bhagavān (ekantī) is indeed as follows : "He to 'whom Vāsudeva is not the (sole) deity from birth to death let him not be born into our family and even if he is born, let him die soon." Though the kulam is changed, since the words caste and kulam have been used in different senses, we may say that the caste will remain the same, but that the kulam will be different. " Though the cow may be of the temple, it does not cease to be a cow". In such passages as this:-"He should be considered as a Śūdra", the great sages called men of higher castes by the words applicable to the lower castes and vice versa merely to indicate the degree of consideration or respect to be shown. Therefore the purport of the śāstra is only this much:“Brahmins who are not devotees of Bhagavān are not to be held in esteem, whereas Śūdras who are devotees of Bhagavān should be as much esteemed as Brahmins."
 
 If this were not accepted (as the right interpretation), all rules and regulations (regarding caste) would be set at naught on the strength of the censure and praise (which) alone are intended to be conveyed) in such passages as the following :- "Auspicious qualities which carry esteem do not arise from caste. The gods consider as a Brahmin even a caṇḍāla who conducts himself in accordance with his caste," "Sannyasins and those who perform tapas (austerities) become caṇḍālas when they lapse from the code of conduct prescribed for them", and "Because" a man's hair has turned grey, he is not esteemed as old. He who has jñāna, even if he be a child, is esteemed by the gods as an old man". This is the right explanation of all such passages :
 
