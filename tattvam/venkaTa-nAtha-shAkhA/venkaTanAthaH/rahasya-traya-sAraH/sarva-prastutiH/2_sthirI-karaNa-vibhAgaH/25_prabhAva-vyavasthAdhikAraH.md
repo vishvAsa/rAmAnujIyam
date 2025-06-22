@@ -2,15 +2,38 @@
 title = "२५ प्रभाव-व्यवस्थाधिकारः"
 
 +++
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ॥ श्रीः ॥  
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे प्रभावव्यवस्थाधिकारः ॥
 
 २५ प्रभाव-व्यवस्थाधिकारः
+</details>
 
-(25) THE CHAPTER ON THE LIMITS WITHIN WHICH THE UPĀYAS BHAKTI AND
+<details><summary>English</summary>
 
-PRAPATTI HAVE POTENCY:page358
+(25) THE CHAPTER ON THE LIMITS WITHIN WHICH THE UPĀYAS BHAKTI AND PRAPATTI HAVE POTENCY:  
+page 358
+</details>
+
+<details><summary>Español</summary>
+
+(25) El capítulo sobre los límites dentro de los cuales los Upāyas Bhakti y Prapatti **tienen** potencia:  
+Página 358
+</details>
+
+<details><summary>मूलम्</summary>
+
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+॥ श्रीमद्रहस्यत्रयसारे प्रभावव्यवस्थाधिकारः ॥
+
+२५ प्रभाव-व्यवस्थाधिकारः
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
