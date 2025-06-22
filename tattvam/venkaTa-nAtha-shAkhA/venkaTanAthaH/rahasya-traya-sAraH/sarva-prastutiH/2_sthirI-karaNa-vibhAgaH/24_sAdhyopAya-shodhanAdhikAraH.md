@@ -15190,6 +15190,7 @@ Todo esto, oh lo mejor de los reyes, **purifica** siempre a la persona que lo ha
 
 
 ### यथा-शक्ति-स्मरणम् 
+#### अष्टाक्षर-विकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्-पडिये 
@@ -15439,7 +15440,7 @@ Uno **debería decir** "Namo Narana".
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिरु-मन्त्रम् आगिऱ ऎट्टुक्-कण्ण्+++(=बन्ध)+++ आऩ करुम्बिले  
-वेर्-पऱ्ऱुन् तलैय्-आडैयुङ्+++(←कम्पमानान्ते??)+++ गऴिन्दाल्  
+वेर्-पऱ्ऱुन् तलैय्-आडैयुङ्+++(=कम्पमान-शिरोऽपि)+++ गऴिन्दाल्  
 नडुव् उळ्ळ अंशं सर्वोपजीव्यम् आगिऱाप् पोले 
 </details>
 
@@ -15474,11 +15475,20 @@ Si la raíz y la parte superior (es decir) **se cortan** la primera y la última
 सर्वोपजीव्यमागिऱाप्पोले इति । इदु दृष्टान्तकथनम्। 
 </details>
 
+#### शास्त्र-विरोधो न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रपत्ति-निष्ठर् ऎल्लार्क्कुम्  
 सर्व-कालत्तिलुम् भगवद्-अनुस्मरण-रसत्तुक्कुम् विरोधम् इल्लै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रपत्ति-निष्ठानां सर्वेषां  
+(योग-रूप-ध्यानायोगेऽपि ) सर्व-कालेऽपि  
+भगवद्-अनुस्मरणस्य न विरोधः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -15496,10 +15506,296 @@ Entonces, tampoco **hay nada** inapropiado en todas las Prapannas que **disfruta
 प्रपत्तिनिष्ठरॆल्लार्क्कुम् सर्वकालत्तिलुम् भगवदनुस्मरणरसत्तुक्कुम् विरोधमिल्लै। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-It is only for bhakti yoga, which has its aṅgas or accessories and which is different from prapatti, that some are not competent. Even though prapatti becomes perfect by the rite which lasts only for a moment (we are taught) thus by the Saviour: "Always utter the dvaya with the thought of its meaning (in your mind)". Therefore the command "Nārāyaṇa is to be meditated on always" should be taken as an upāya for some (viz. those who adopt bhakti) and as the fruit for others, (namely prapannas). Thus the command is in no way opposed to prapatti adopted as a direct and independent means.
+सर्वकालत्तिलुम् भगवदनुस्मरणरसत्तुक्कुम् - ‘‘ध्येयो नारायणस्सदा’’ ऎऩ्ऱु विहितमाऩ फलरूपभगवदनुस्मरणत्तिऱ्कुम्, विरोधमिल्लै इति । योगकालत्तिल् विरोधमिल्लै यॆऩ्ऱबडि। मूलमन्त्रम् प्रणवरहितमाऩबोदु ऎप्पडि सर्वयोग्यमागिऱदो अप्पडिये परिकररहितमाऩ फलरूपध्यानयोगम् स्वतन्त्र प्रपत्तिनिष्ठरॆल्लारुक्कुम् योग्यमागुमॆऩ्ऱबडि। 
+</details>
 
-Śrī Rāmānuja has explained in such treatises as Śrī Bhāṣya how prapatti is an aṅga to bhakti or upāsana. In the Gadya he explains how prapatti can also be an independent and direct means. It is true we find the following :-"There is nothing other than yoga which can destroy such evil traits as ignorance (avidyā) (and conceit)” and, “Past karmas cannot be destroyed even in ten thousand births without yoga. Only the fire of yoga can consume away the dry grass of karma." But since prapatti has been enjoined as a direct and independent means, on the strength of that ordinance, the passages cited above (on yoga) should be considered as applicable only to those others who are competent for them.
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स-परिकरम् आऩ विलक्षण-भक्ति-योगम् आगिल् इऱे  
+सिलर्क्कु विरोधम् उळ्ळदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स-परिकर-विलक्षण--भक्ति-योग-रूपत्वे हि  
+केषाञ्चिद् विरोधः संभवी ।  
+</details>
+
+<details><summary>English</summary>
+
+It is only for bhakti yoga,  
+which has its aṅgas or accessories  
+and which is different from prapatti,  
+that some are not competent. 
+</details>
+
+<details><summary>Español</summary>
+
+**Es** solo para bhakti yoga,
+que **tiene** sus AṅGA o accesorios  
+y que **es** diferente de Prapatti,  
+que algunos **no son** competentes.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सपरिकरमाऩ विलक्षणभक्तियोगमागिलिऱे सिलर्क्कु विरोधमुळ्ळदु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+साधनभक्तियिल् सिलर्क्कु विरुद्धांशत्तै उपपादिक्किऱार् सपरिकरमाऩ विलक्षणेत्यादिना । परिकरम् - यज्ञादि, वैलक्षण्यं – नैरन्तर्यादि, 
+</details>
+
+#### न प्रपत्ति-विरोधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्षण-मात्र साध्यम् आऩ प्रपदनम्  
+सिद्धम् आऩव् अळविलुम्  
+
+> ‘‘द्वयम् अर्थानुसन्धानेन सह सदैवं वक्ता’’ 
+(शरणागति-गद्यम्)
+
+ऎऩ्ऱु शरण्यऩ् अरुळिच् चॆय्दाऩ् इऱे। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+क्षण-मात्र-साध्यस्य प्रपदनस्य सिद्धत्वेऽपि,  
+
+> "द्वयम् अर्थानुसन्धानेन सह  
+सदैव वक्ता" 
+
+इति शरण्यो ऽनुजग्राह किल । 
+</details>
+
+
+<details><summary>English</summary>
+
+Even though prapatti becomes perfect  
+by the rite which lasts only for a moment  
+(we are taught) thus by the Saviour:  
+
+> "Always utter the dvaya with the thought of its meaning (in your mind)". 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque Prapatti **se vuelve** perfecto  
+por el rito que **dura** solo por un momento  
+(**Nos enseñan**) por el Salvador:
+
+> "Siempre **pronuncie** el dvaya con la idea de su **significado** (en tu mente)".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+क्षणमात्र साध्यमाऩ प्रपदनम् सिद्धमाऩवळविलुम् ‘‘द्वयमर्थानुसन्धानेन सह सदैवं वक्ता’’(शरणागति-गद्यम्)ऎऩ्ऱु शरण्यऩरुळिच्चॆय्दाऩिऱे। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+स्वतन्त्र-प्रपत्ति-निष्ठऩ् सॆय्युम् इव्व् अनुसन्धानम् उपायमऩ्ऱु,  
+किन्तु फलमॆऩ्बदिल् भगवदुक्तियुम् प्रमाणमॆऩ्गिऱार् क्षणमात्रसाध्यमाऩ प्रपदनम् सिद्धमाऩव् अळविलुम् इत्यादिना । 
+
+> ‘‘अनन्य शरणस् त्वत्-पादारविन्द-युगलं शरणमहं प्रपद्ये’’ ऎऩ्गिऱविडत्तिलेयेप्रपदनम् सिद्धमॆऩ्ऱु तिरुवुळ्ळम्।
+
+द्वयमर्थानुसन्धानेन सह सदैवं वक्तेति । ‘‘अर्थानुसन्धानेन सह सदैवं वक्ता’’ ऎऩ्बदाल् स्वतन्त्रप्रपत्तिनिष्ठऩुक्कुम् सर्वदा भगवदनुसन्धानम् सॊल्लित्तायिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् 
+
+> ‘‘ध्येयो नारायणस् सदा’’ 
+
+ऎऩ्ऱ् अदुवुम्  
+यथाऽधिकारं सिलर्क्कु उपायम् आगवुम्  
+सिलर्क्कु फलम् आगवुङ् गॊळ्ळुगैयाल्  
+इदु स्व-तन्त्र-प्रपत्तिक्कु विरुद्धम् अऩ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः, 
+
+> "ध्येयो नारायणः सदा" 
+
+इत्य्-उक्तस्यापि यथाऽधिकारं कैश्चिद् उपायतया  
+कैश्चित् फलतया च स्वी-कृतत्वाद्  
+इदं न स्व-तन्त्र--प्रपत्ति-विरुद्धम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore the command 
+
+> "Nārāyaṇa is to be meditated on always" 
+
+should be taken as an upāya for some (viz. those who adopt bhakti)  
+and as the fruit for others, (namely prapannas).  
+Thus the command is in no way opposed to prapatti  
+adopted as a direct and independent means.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto el comando
+
+> "Nārāyaṇa **se debe meditar** siempre"
+
+Debe **tomarse** como un upāya para algunos (a saber. Aquellos que **adoptan** bhakti)  
+y como fruta para otros, (a **saber**, Prapannas).  
+Por lo tanto, el **comando no se opone** de ninguna manera a Prapatti  
+**adoptado** como un medio directo e independiente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ‘‘ध्येयो नारायणस्सदा’’ ऎऩ्ऱदुवुम् यथाधिकारम् सिलर्क्कु उपायमागवुम् सिलर्क्कु फलमागवुङ् गॊळ्ळुगैयालिदु स्वतन्त्रप्रपत्तिक्कु विरुद्धमऩ्ऱु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परम-प्रकृतार्थत्तै उपसंहरिक्किऱार् आगैयालिति ।  
+आगैयाल् - अभिगमनादिगळैप् पोले ध्यानमुम् फलरूपमागैयालॆऩ्ऱबडि।  
+इदु स्वतन्त्र--प्रपत्तिक्कु विरुद्धम् अऩ्ऱु इति ।  
+
+इदु - ‘‘ध्येयो नारायणस् सदा’’ ऎऩ्ऱु सॊऩ्ऩव् इदु,  
+</details>
+
+##### स्वतन्त्र-प्रपत्ति-विरोधो न
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-प्रपत्ति अङ्गम् आऩ वेषत्तै  
+भाष्यादिगळिले उदाहरित्त् अरुळिऩार्,  
+स्वतन्त्रम् आऩ वेषत्तै गद्यत्तिलेय् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्याः प्रपत्तेर् अङ्गत्व-रूपं वेषं  
+भाष्यादिषूदाजहार,  
+स्वातन्त्र्य-वेषं गद्येऽनुजग्राह । 
+</details>
+
+<details><summary>English</summary>
+
+Śrī Rāmānuja has explained in such treatises as Śrī Bhāṣya  
+how prapatti is an aṅga to bhakti or upāsana.  
+In the Gadya he explains how prapatti can also be an independent and direct means. 
+</details>
+
+<details><summary>Español</summary>
+
+Śrī Rāmānuja **ha explicado** en tratados como Śrī Bhāṣya  
+Cómo Prapatti **es** un AṅGA a Bhakti o Upāsana.  
+En el Gadya **explica** cómo Prapatti también **puede ser** un medio independiente y directo. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्प्रपत्ति अङ्गमाऩ वेषत्तै भाष्यादिगळिले उदाहरित्तरुळिऩार्,  
+स्वतन्त्रमाऩ वेषत्तै गद्यत्तिले यरुळिच्चॆय्दार्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘क्लेशानाञ् च क्षय-करं  
+योगाद् अन्यन् न विद्यते।’’  
+(विष्णुपुराणम् ६-७-२५) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘क्लेशानाञ् च क्षय-करं  
+योगाद् अन्यन् न विद्यते।’’  
+(विष्णुपुराणम् ६-७-२५) 
+</details>
+
+<details><summary>English</summary>
+
+It is true we find the following :-
+
+> "There is nothing other than yoga  
+which can destroy such evil traits as ignorance (avidyā) (and conceit)” 
+</details>
+
+<details><summary>Español</summary>
+
+**Es** cierto que **encontramos** lo **siguiente**:-
+
+> "**No hay** nada más que yoga  
+que **puede destruir** rasgos tan malvados como la ignorancia (avidyā) (y la presunción) "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘क्लेशानाञ्च क्षयकरं योगादन्यन्न विद्यते’’(विष्णुपुराणम् ६-७-२५) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘**न** कर्मणां **क्षयो** भूप!  
+जन्मनाम् अयुतैर् अपि ।  
+ऋते योगात् कर्म-कक्षं+++(=तृणं)+++  
+योगाग्निः **क्षपयेत्** परम्॥’’  
+(विष्णु-धर्मः १०२-४)  
+
+इत्य्-आदिगळुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘**न** कर्मणां **क्षयो** भूप!  
+जन्मनाम् अयुतैर् अपि ।  
+ऋते योगात् कर्म-कक्षं+++(=तृणं)+++  
+योगाग्निः **क्षपयेत्** परम्॥’’  
+(विष्णु-धर्मः १०२-४)  
+
+</details>
+
+<details><summary>English</summary>
+
+and, 
+
+> “Past karmas cannot be destroyed  
+even in ten thousand births without yoga.  
+Only the fire of yoga can consume away  
+the dry grass of karma." 
+</details>
+
+<details><summary>Español</summary>
+
+y,
+
+> “El pasado karmas **no puede ser destruido**  
+Incluso en diez mil **nacimientos** sin yoga.  
+Solo el fuego del yoga **puede consumir**  
+La hierba seca del karma ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न कर्मणां क्षयो भूप! जन्मनामयुतैरपि । ऋते योगात्कर्मकक्षं योगाग्निः क्षपयेत्परम्॥’’(विष्णु-धर्मः १०२-४)  इत्यादिगळुम् 
+</details>
+
+
+
+
+
+But since prapatti has been enjoined as a direct and independent means, on the strength of that ordinance, the passages cited above (on yoga) should be considered as applicable only to those others who are competent for them.
 
 Similarly answers to other misconceptions that might arise in regard to sūdhyopāya (bhakti and prapatti) may be found in Nikṣepa rakṣa. Sādhyopāya as clarified in this chapter should be borne in mind in regard to the three mysteries (mantras) in the appropriate place.
 
