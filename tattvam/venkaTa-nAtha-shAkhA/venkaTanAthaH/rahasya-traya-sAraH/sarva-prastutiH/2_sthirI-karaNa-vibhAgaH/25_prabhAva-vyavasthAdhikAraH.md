@@ -3,6 +3,7 @@ title = "२५ प्रभाव-व्यवस्थाधिकारः"
 
 +++
 
+## उपोद्घातः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ॥ श्रीः ॥  
@@ -37,29 +38,246 @@ Página 358
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-स्वरूपं यद्यादृग्गुणविभवलीलादि च विभो  
-स्तदाज्ञासेतुश्च श्रुतिभिरवसेयं तदखिलम् ।  
-तथा तद्भक्तानां तदुपसदनादेश्च महिमा  
-यथाधीतं सद्भिर्यतिपतिमुखैरद्ध्यवसितः ॥ ५५ ॥
+स्व-रूपं यद् यादृग्, गुण-विभव-लीलादि च विभोस्  
+तद्-आज्ञा-सेतुश् च श्रुतिभिर् **अवसेयं** तद् अखिलम् ।  
+तथा तद्-भक्तानां तद्-उपसदनादेश् च महिमा  
+यथा **ऽधीतं** सद्भिर् यति-पति-मुखैर् **अध्यवसितः** ॥ ५५ ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-रूपं यद् यादृग्, गुण-विभव-लीलादि च विभोस्  
+तद्-आज्ञा-सेतुश् च श्रुतिभिर् **अवसेयं** तद् अखिलम् ।  
+तथा तद्-भक्तानां तद्-उपसदनादेश् च महिमा  
+यथा **ऽधीतं** सद्भिर् यति-पति-मुखैर् **अध्यवसितः** ॥ ५५ ॥
+</details>
+
+
+<details><summary>English</summary>
+
+The essential nature (svarūpa) of the Omnipresent Lord (vibhu), what and of what description are His qualities,  
+His vibhavas (avatārs), His sportful activities  
+and the like and the limits set by His command --  
+all these can be determined from the śrutis.  
+So also the greatness of His devotees  
+and the potency of the ways in which we should worship Him (bhakti) and the like (prapatti)  
+have been determined by great men like Śrī Rāmānuja  
+in accordance with what is stated (in the sūtras).
+</details>
+
+<details><summary>Español</summary>
+
+La naturaleza esencial (svarūpa) del señor omnipresente (vibhu), qué y de qué **descripción** son sus cualidades,  
+Sus vibhavas (avatārs), sus **actividades** deportivas  
+y lo similar y los límites **establecidos** por su comando -  
+Todo esto **puede determinarse** a partir del Śrutis.  
+Así también la grandeza de sus devotos  
+y la **potencia** de las formas en que **debemos adorarlo** (Bhakti) y similares (Prapatti)  
+**han sido determinados** por grandes hombres como Śrī Rāmānuja  
+de acuerdo con lo que **se dice** (en los sūtras).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 स्वरूपं यद्यादृग्गुणविभवलीलादि च विभो  
 स्तदाज्ञासेतुश्च श्रुतिभिरवसेयं तदखिलम् ।  
 तथा तद्भक्तानां तदुपसदनादेश्च महिमा  
-यथाधीतं सद्भिर्यतिपतिमुखैरद्ध्यवसितः ॥ ५५ ॥
+यथाधीतं सद्भिर्यतिपतिमुखैरध्यवसितः ॥ ५५ ॥
 </details>
 
-The essential nature (svarūpa) of the Omnipresent Lord (vibhu), what and of what description are His qualities, His vibhavas (avatārs), His sportful activities and the like and the limits set by His command -- all these can be determined from the śrutis. So also the greatness of His devotees and the potency of the ways in which we should worship Him (bhakti) and the like (prapatti) have been determined by great men like Śrī Rāmānuja in accordance with what is stated (in the sūtras).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-We have so far shown the manner in which the misconceptions that arise in regard to the Siddhopāya which is revealed by the words in the second or accusative case in Dvaya (Śrīman Nārāyaṇa caraṇau) and Saranam and the specific Sādhyopāya (prapatti) mentioned in the predicate (prapadye) can be removed. It now remains to clear those misconceptions that may arise about the potency of the upāya - misconceptions assigning to it a greater or less potency than that warranted by the pramāṇas (sources of true knowledge ).
+इप्-पडि द्वयत्तिल् द्वितीयान्त-पदङ्गळाले +++(←"श्रीमन्नारायणचरणौ शरणम्")+++ प्रकाशितम् आऩ सिद्धोपाय-विषयम् आगवुम्  
+आख्यात-पदत्ताले +++("←प्रपद्ये")+++ सॊल्लप्पट्ट साध्योपाय-विषयम् आगवुम्  
 
-THE GREATNESS OF THE DEVOTEES OF
+पिऱक्कुम् व्याकुलङ्गळ् शमिप्पिक्कुम् वऴि काट्टिऩोम्। 
+</details>
 
-BHAGAVĀN:
+<details><summary>नीलमेघः (सं)</summary>
 
-Those who have adopted these upāyas are, indeed, described as having the greatness of being capable of securing redemption even to those who are connected with them. It is said: “Their 'fathers and their grand-fathers dance in joy clapping (their hands) saying: “A devotee of Viṣṇu is born into our family and he will help to save us from saṁsāra " and again, " Those seven' generations of men who were born before into my family and those seven generations who will be born after me have become the servants of the Lord. We have obtained this glorious and great existence". Similarly it has indeed been stated that the greatness of the man who has a knowledge of Bhagavān cannot be (adequately) estimated by the gods even ": "Even the gods cannot measure the greatness of the man who knows Śrī Kṛṣṇa as He is ". However we will now state the limits (of this greatness) so far as caste is concerned, by the force of pramāṇas which are not opposed to these texts (quoted above).
+[[२३२]]  
+इत्थं द्वये (मन्त्रे )  
+द्वितीयान्त-पद-प्रकाशित-सिद्धोपाय-विषये  
+आख्यात-पदोक्त-साध्योपाय-विषये च  
+जायमानानां व्यामोहानां प्रशमनस्य पन्थानं प्रादीदृशाम । 
+</details>
+
+
+<details><summary>English</summary>
+
+We have so far shown the manner in which the misconceptions that arise  
+
+in regard to the Siddhopāya which is revealed by the words in the second or accusative case in Dvaya (Śrīman Nārāyaṇa caraṇau) and Saranam  
+and the specific Sādhyopāya (prapatti) mentioned in the predicate (prapadye)  
+
+can be removed.  
+</details>
+
+<details><summary>Español</summary>
+
+Hasta ahora **hemos mostrado** la manera en que **surgen** los conceptos erróneos que **surgen**  
+
+Con respecto al Siddhopāya que **se revela** por las palabras en el segundo caso o acusativo en Dvaya (Śrīman Nārāyaṇa Caraṇau) y Saranam  
+y el Sādhyopāya (Prapatti) específico en el predicado (Prapadye)  
+
+**se puede eliminar** .
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि द्वयत्तिल् द्वितीयान्तपदङ्गळाले प्रकाशितमाऩ सिद्धोपायविषयमागवुम् आख्यातपदत्ताले सॊल्लप्पट्ट साध्योपायविषयमागवुम् पिऱक्कुम् व्याकुलङ्गळ् शमिप्पिक्कुम् वऴि काट्टिऩोम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् उपाय-प्रभाव-विषयम् आग प्रमाणङ्गळ् काट्टिऩव् अळवुक्कु  
+एऱ निऩैत्तुङ्, गुऱैय निऩैत्तुम् वरुङ् कलक्कङ्गळ्  
+शमिप्पिक्क वेणुम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद्-उपाय प्रभाव-विषये प्रमाण-प्रदर्शित-सीमापेक्षया  
+ऽधिक-ज्ञान--न्यून-ज्ञानाभ्यां जायमानाः व्यामोहाः प्रशमनीयाः । 
+</details>
+
+
+<details><summary>English</summary>
+
+It now remains to clear those misconceptions  
+that may arise about the potency of the upāya -  
+misconceptions assigning to it a greater or less potency than that warranted  
+by the pramāṇas (sources of true knowledge ).
+</details>
+
+<details><summary>Español</summary>
+
+Ahora **queda** para **aclarar** esos conceptos erróneos  
+que puede **surgir** sobre la potencia del upāya -  
+conceptos erróneos que **asignan** una **potencia** mayor o menos que la justificada  
+por los pramāṇas (fuentes de conocimiento verdadero).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वुपायप्रभावविषयमाग प्रमाणङ्गळ् काट्टिऩवळवुक्कु एऱ निऩैत्तुङ् गुऱैय निऩैत्तुम् वरुङ् गलक्कङ्गळ् शमिप्पिक्कवेणुम्।
+</details>
+
+
+## उपायनिष्ठ-प्रभावः
+<details><summary>English</summary>
+
+THE GREATNESS OF THE DEVOTEES OF BHAGAVĀN:
+</details>
+
+<details><summary>Español</summary>
+
+La grandeza de los devotos de Bhagavān:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **‘‘आस्फोटयन्ति** पितरः  
+**प्रणृत्यन्ति** पितामहाः ।  
+वैष्णवो नः कुले जातस्  
+स नस् **सन्तारयिष्यति॥**’’  
+(वराहपुराणम्) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **‘‘आस्फोटयन्ति** पितरः  
+**प्रणृत्यन्ति** पितामहाः ।  
+वैष्णवो नः कुले जातस्  
+स नस् **सन्तारयिष्यति॥**’’  
+(वराहपुराणम्) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+It is said: 
+
+> “Their fathers and their grand-fathers dance in joy clapping (their hands) saying:  
+>
+> > “A devotee of Viṣṇu is born into our family  
+and he will help to save us from saṁsāra " 
+</details>
+
+<details><summary>Español</summary>
+
+**Se dice**:
+
+> “Sus padres y sus abuelos **bailan** con alegría **aplaudiendo** (sus manos) **diciendo**:
+>
+>> “Un **devoto** de Viṣṇu **nace** en nuestra familia
+y él **ayudará** a **salvarnos** de Saṁsāra "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘आस्फोटयन्ति पितरः प्रणृत्यन्ति पितामहाः । वैष्णवो नः कुले जातस्सनस्सन्तारयिष्यति॥’’(वराहपुराणम्) ऎऩ्ऱुम्, 
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’केशवऩ्-+तमर्  
+कीऴ् मेल् ऎमर् एऴ् ऎऴु पिऱप्पुम्  
+मा-चतिर्+++(=चातुर्यं)+++ इदु बॆऱ्ऱ्’’  
+(तिरुवाय्मॊऴि २-७-१)  
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "केशवीया अधस्ताद् उपरि च मदीयाः  
+सप्तसु सप्तसु जन्मस्व् अपि  
+महा-चातुर्यम् इदं प्राप्ताः" 
+
+इत्य्-उक्त-रीत्या
+</details>
+
+<details><summary>English</summary>
+
+and again, 
+
+> " Those seven' generations of men who were born before into my family  
+and those seven generations who will be born after me  
+have become the servants of the Lord.  
+We have obtained this glorious and great existence". 
+</details>
+
+<details><summary>Español</summary>
+
+Y de nuevo,
+
+> "Esas siete generaciones de hombres que **nacieron** antes en mi familia  
+y esas siete generaciones que **nacerán** después de mí  
+**se han convertido** en los siervos del Señor.  
+**Hemos obtenido** esta gloriosa y gran existencia ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’केसवऩ्ऱमर् कीऴ् मेलॆमरेऴॆऴुबिऱप्पुम् मासदिरिदुबॆऱ्ऱ्’’(तिरुवाय्मॊऴि २-७-१)  ऎऩ्ऱुञ्जॊल्लुगिऱबडिये 
+</details>
+
+
+
+Those who have adopted these upāyas are, indeed, described as having the greatness of being capable of securing redemption even to those who are connected with them. 
+
+Similarly it has indeed been stated that the greatness of the man who has a knowledge of Bhagavān cannot be (adequately) estimated by the gods even ": "Even the gods cannot measure the greatness of the man who knows Śrī Kṛṣṇa as He is ". However we will now state the limits (of this greatness) so far as caste is concerned, by the force of pramāṇas which are not opposed to these texts (quoted above).
 
 DOES PRAPATTI ENTITLE A ŚŪDRA TO BE
 
