@@ -3,6 +3,7 @@ title = "२५ प्रभाव-व्यवस्थाधिकारः"
 
 +++
 
+## उपोद्घातः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ॥ श्रीः ॥  
@@ -37,49 +38,1216 @@ Página 358
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-स्वरूपं यद्यादृग्गुणविभवलीलादि च विभो  
-स्तदाज्ञासेतुश्च श्रुतिभिरवसेयं तदखिलम् ।  
-तथा तद्भक्तानां तदुपसदनादेश्च महिमा  
-यथाधीतं सद्भिर्यतिपतिमुखैरद्ध्यवसितः ॥ ५५ ॥
+स्व-रूपं यद् यादृग्, गुण-विभव-लीलादि च विभोस्  
+तद्-आज्ञा-सेतुश् च श्रुतिभिर् **अवसेयं** तद् अखिलम् ।  
+तथा तद्-भक्तानां तद्-उपसदनादेश् च महिमा  
+यथा **ऽधीतं** सद्भिर् यति-पति-मुखैर् **अध्यवसितः** ॥ ५५ ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-रूपं यद् यादृग्, गुण-विभव-लीलादि च विभोस्  
+तद्-आज्ञा-सेतुश् च श्रुतिभिर् **अवसेयं** तद् अखिलम् ।  
+तथा तद्-भक्तानां तद्-उपसदनादेश् च महिमा  
+यथा **ऽधीतं** सद्भिर् यति-पति-मुखैर् **अध्यवसितः** ॥ ५५ ॥
+</details>
+
+
+<details><summary>English</summary>
+
+The essential nature (svarūpa) of the Omnipresent Lord (vibhu), what and of what description are His qualities,  
+His vibhavas (avatārs), His sportful activities  
+and the like and the limits set by His command --  
+all these can be determined from the śrutis.  
+So also the greatness of His devotees  
+and the potency of the ways in which we should worship Him (bhakti) and the like (prapatti)  
+have been determined by great men like Śrī Rāmānuja  
+in accordance with what is stated (in the sūtras).
+</details>
+
+<details><summary>Español</summary>
+
+La naturaleza esencial (svarūpa) del señor omnipresente (vibhu), qué y de qué **descripción** son sus cualidades,  
+Sus vibhavas (avatārs), sus **actividades** deportivas  
+y lo similar y los límites **establecidos** por su comando -  
+Todo esto **puede determinarse** a partir del Śrutis.  
+Así también la grandeza de sus devotos  
+y la **potencia** de las formas en que **debemos adorarlo** (Bhakti) y similares (Prapatti)  
+**han sido determinados** por grandes hombres como Śrī Rāmānuja  
+de acuerdo con lo que **se dice** (en los sūtras).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 स्वरूपं यद्यादृग्गुणविभवलीलादि च विभो  
 स्तदाज्ञासेतुश्च श्रुतिभिरवसेयं तदखिलम् ।  
 तथा तद्भक्तानां तदुपसदनादेश्च महिमा  
-यथाधीतं सद्भिर्यतिपतिमुखैरद्ध्यवसितः ॥ ५५ ॥
+यथाधीतं सद्भिर्यतिपतिमुखैरध्यवसितः ॥ ५५ ॥
 </details>
 
-The essential nature (svarūpa) of the Omnipresent Lord (vibhu), what and of what description are His qualities, His vibhavas (avatārs), His sportful activities and the like and the limits set by His command -- all these can be determined from the śrutis. So also the greatness of His devotees and the potency of the ways in which we should worship Him (bhakti) and the like (prapatti) have been determined by great men like Śrī Rāmānuja in accordance with what is stated (in the sūtras).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-We have so far shown the manner in which the misconceptions that arise in regard to the Siddhopāya which is revealed by the words in the second or accusative case in Dvaya (Śrīman Nārāyaṇa caraṇau) and Saranam and the specific Sādhyopāya (prapatti) mentioned in the predicate (prapadye) can be removed. It now remains to clear those misconceptions that may arise about the potency of the upāya - misconceptions assigning to it a greater or less potency than that warranted by the pramāṇas (sources of true knowledge ).
+इप्-पडि द्वयत्तिल् द्वितीयान्त-पदङ्गळाले +++(←"श्रीमन्नारायणचरणौ शरणम्")+++ प्रकाशितम् आऩ सिद्धोपाय-विषयम् आगवुम्  
+आख्यात-पदत्ताले +++("←प्रपद्ये")+++ सॊल्लप्पट्ट साध्योपाय-विषयम् आगवुम्  
 
-THE GREATNESS OF THE DEVOTEES OF
+पिऱक्कुम् व्याकुलङ्गळ् शमिप्पिक्कुम् वऴि काट्टिऩोम्। 
+</details>
 
-BHAGAVĀN:
+<details><summary>नीलमेघः (सं)</summary>
 
-Those who have adopted these upāyas are, indeed, described as having the greatness of being capable of securing redemption even to those who are connected with them. It is said: “Their 'fathers and their grand-fathers dance in joy clapping (their hands) saying: “A devotee of Viṣṇu is born into our family and he will help to save us from saṁsāra " and again, " Those seven' generations of men who were born before into my family and those seven generations who will be born after me have become the servants of the Lord. We have obtained this glorious and great existence". Similarly it has indeed been stated that the greatness of the man who has a knowledge of Bhagavān cannot be (adequately) estimated by the gods even ": "Even the gods cannot measure the greatness of the man who knows Śrī Kṛṣṇa as He is ". However we will now state the limits (of this greatness) so far as caste is concerned, by the force of pramāṇas which are not opposed to these texts (quoted above).
+[[२३२]]  
+इत्थं द्वये (मन्त्रे )  
+द्वितीयान्त-पद-प्रकाशित-सिद्धोपाय-विषये  
+आख्यात-पदोक्त-साध्योपाय-विषये च  
+जायमानानां व्यामोहानां प्रशमनस्य पन्थानं प्रादीदृशाम । 
+</details>
 
-DOES PRAPATTI ENTITLE A ŚŪDRA TO BE
 
-CONSIDERED A BRAHMIN
+<details><summary>English</summary>
 
-It is said: “Those Sūdras" who have devotion' (bhakti ) to Bhagavān are not Śūdras; they who are devotees of Bhagavān are Brahmins. Those who have no bhakti to Bhagavān (Janārdana), whatever might be their caste - they alone are sūdras". Thus by the presence or absence in them of the specific attribute of bhakti to Bhagavān, men of lower castes are called by the names of the higher and men of higher castes are called by the names of the lower respectively. From this, men of poor understanding might ask, “Are not the devotees of Bhagavān of one and the same caste?" If this view were accepted, it would be in conflict with all the śāstras that prescribe the respective course of right conduct stating, "Thus will the devotee of the Lord who is a Brahmin conduct himself and thus will the devotee who is a Śūdra conduct himself." The distance that exists between the mere Brahmin and the mere Śūdra should be considered to exist (also) between the Lord's devotee who is a Brahmin and the Lord's devotee who is a Śūdra. The śāstras which state that they are equal refer only to such things as the attainment of the final goal (mokṣa). Kadambi Appullar has made this point clear. Further learned scholars (like Peria Achan Pillai) while commenting on the verse, "The name, Nārāyaṇa confers a (higher) kulam", express the following conclusion:- "If a man who is low by birth and by conduct attains contact with Bhagavān, one who has them both should shrink from calling him low, because of the potency of his devotion to Bhagavān". In answer to the question . “But this does not mean intermarriage among them ", they declared that this (prohibition of inter-marriage) is due to caste and that the praise of the man is due to his possession of virtues. The words, " It confers a higher kulan", and likewise, the passage - “ We will give up our former kulam, and sing the praise of Bhagavān " mean only exaltation in the Vaiṣṇava kulam. His kulam is indeed such as will not entertain the worship of other deities as well as the Lord. The saying current in the families of those who are exclusively devoted to Bhagavān (ekantī) is indeed as follows : "He to 'whom Vāsudeva is not the (sole) deity from birth to death let him not be born into our family and even if he is born, let him die soon." Though the kulam is changed, since the words caste and kulam have been used in different senses, we may say that the caste will remain the same, but that the kulam will be different. " Though the cow may be of the temple, it does not cease to be a cow". In such passages as this:-"He should be considered as a Śūdra", the great sages called men of higher castes by the words applicable to the lower castes and vice versa merely to indicate the degree of consideration or respect to be shown. Therefore the purport of the śāstra is only this much:“Brahmins who are not devotees of Bhagavān are not to be held in esteem, whereas Śūdras who are devotees of Bhagavān should be as much esteemed as Brahmins."
+We have so far shown the manner in which the misconceptions that arise  
 
-If this were not accepted (as the right interpretation), all rules and regulations (regarding caste) would be set at naught on the strength of the censure and praise (which) alone are intended to be conveyed) in such passages as the following :- "Auspicious qualities which carry esteem do not arise from caste. The gods consider as a Brahmin even a caṇḍāla who conducts himself in accordance with his caste," "Sannyasins and those who perform tapas (austerities) become caṇḍālas when they lapse from the code of conduct prescribed for them", and "Because" a man's hair has turned grey, he is not esteemed as old. He who has jñāna, even if he be a child, is esteemed by the gods as an old man". This is the right explanation of all such passages :
+in regard to the Siddhopāya which is revealed by the words in the second or accusative case in Dvaya (Śrīman Nārāyaṇa caraṇau) and Saranam  
+and the specific Sādhyopāya (prapatti) mentioned in the predicate (prapadye)  
+
+can be removed.  
+</details>
+
+<details><summary>Español</summary>
+
+Hasta ahora **hemos mostrado** la manera en que **surgen** los conceptos erróneos que **surgen**  
+
+Con respecto al Siddhopāya que **se revela** por las palabras en el segundo caso o acusativo en Dvaya (Śrīman Nārāyaṇa Caraṇau) y Saranam  
+y el Sādhyopāya (Prapatti) específico en el predicado (Prapadye)  
+
+**se puede eliminar** .
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि द्वयत्तिल् द्वितीयान्तपदङ्गळाले प्रकाशितमाऩ सिद्धोपायविषयमागवुम् आख्यातपदत्ताले सॊल्लप्पट्ट साध्योपायविषयमागवुम् पिऱक्कुम् व्याकुलङ्गळ् शमिप्पिक्कुम् वऴि काट्टिऩोम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् उपाय-प्रभाव-विषयम् आग प्रमाणङ्गळ् काट्टिऩव् अळवुक्कु  
+एऱ निऩैत्तुङ्, गुऱैय निऩैत्तुम् वरुङ् कलक्कङ्गळ्  
+शमिप्पिक्क वेणुम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद्-उपाय प्रभाव-विषये प्रमाण-प्रदर्शित-सीमापेक्षया  
+ऽधिक-ज्ञान--न्यून-ज्ञानाभ्यां जायमानाः व्यामोहाः प्रशमनीयाः । 
+</details>
+
+
+<details><summary>English</summary>
+
+It now remains to clear those misconceptions  
+that may arise about the potency of the upāya -  
+misconceptions assigning to it a greater or less potency than that warranted  
+by the pramāṇas (sources of true knowledge ).
+</details>
+
+<details><summary>Español</summary>
+
+Ahora **queda** para **aclarar** esos conceptos erróneos  
+que puede **surgir** sobre la potencia del upāya -  
+conceptos erróneos que **asignan** una **potencia** mayor o menos que la justificada  
+por los pramāṇas (fuentes de conocimiento verdadero).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वुपायप्रभावविषयमाग प्रमाणङ्गळ् काट्टिऩवळवुक्कु एऱ निऩैत्तुङ् गुऱैय निऩैत्तुम् वरुङ् गलक्कङ्गळ् शमिप्पिक्कवेणुम्।
+</details>
+
+
+## उपायनिष्ठ-प्रशंसा
+<details><summary>English</summary>
+
+THE GREATNESS OF THE DEVOTEES OF BHAGAVĀN:
+</details>
+
+<details><summary>Español</summary>
+
+La grandeza de los devotos de Bhagavān:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **‘‘आस्फोटयन्ति** पितरः  
+**प्रणृत्यन्ति** पितामहाः ।  
+वैष्णवो नः कुले जातस्  
+स नस् **सन्तारयिष्यति॥**’’  
+(वराहपुराणम्) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **‘‘आस्फोटयन्ति** पितरः  
+**प्रणृत्यन्ति** पितामहाः ।  
+वैष्णवो नः कुले जातस्  
+स नस् **सन्तारयिष्यति॥**’’  
+(वराहपुराणम्) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+It is said: 
+
+> “Their fathers and their grand-fathers dance in joy clapping (their hands) saying:  
+>
+> > “A devotee of Viṣṇu is born into our family  
+and he will help to save us from saṁsāra " 
+</details>
+
+<details><summary>Español</summary>
+
+**Se dice**:
+
+> “Sus padres y sus abuelos **bailan** con alegría **aplaudiendo** (sus manos) **diciendo**:
+>
+>> “Un **devoto** de Viṣṇu **nace** en nuestra familia
+y él **ayudará** a **salvarnos** de Saṁsāra "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘आस्फोटयन्ति पितरः प्रणृत्यन्ति पितामहाः । वैष्णवो नः कुले जातस्सनस्सन्तारयिष्यति॥’’(वराहपुराणम्) ऎऩ्ऱुम्, 
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’केशवऩ्-+तमर्  
+कीऴ् मेल् ऎमर् एऴ् ऎऴु पिऱप्पुम्  
+मा-चतिर्+++(=चातुर्यं)+++ इदु बॆऱ्ऱ्’’  
+(तिरुवाय्मॊऴि २-७-१)  
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "केशवीया अधस्ताद् उपरि च मदीयाः  
+सप्तसु सप्तसु जन्मस्व् अपि  
+महा-चातुर्यम् इदं प्राप्ताः" 
+
+इत्य्-उक्त-रीत्या
+</details>
+
+<details><summary>English</summary>
+
+and again, 
+
+> " Those seven' generations of men who were born before into my family  
+and those seven generations who will be born after me  
+have become the servants of the Lord.  
+We have obtained this glorious and great existence". 
+</details>
+
+<details><summary>Español</summary>
+
+Y de nuevo,
+
+> "Esas siete generaciones de hombres que **nacieron** antes en mi familia  
+y esas siete generaciones que **nacerán** después de mí  
+**se han convertido** en los siervos del Señor.  
+**Hemos obtenido** esta gloriosa y gran existencia ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’केसवऩ्ऱमर् कीऴ् मेलॆमरेऴॆऴुबिऱप्पुम् मासदिरिदुबॆऱ्ऱ्’’(तिरुवाय्मॊऴि २-७-१)  ऎऩ्ऱुञ्जॊल्लुगिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुबन्धिगळुक्कुम् उत्तारकम् आऩ प्रभावत्तैय् उडैयऩ् आय् इऱेय्  
+इव्व्-उपाय-निष्ठऩ् इरुप्पदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनुबन्धिनाम् अपि उत्तारकं प्रभावम् आवहन् किल एतद्-उपाय-निष्ठो वर्तते । 
+</details>
+
+
+<details><summary>English</summary>
+
+Those who have adopted these upāyas are, indeed, described as having the greatness of being capable of securing redemption  
+even to those who are connected with them. 
+</details>
+
+<details><summary>Español</summary>
+
+Aquellos que **han adoptado** estos upāyas, de hecho, **se describen** como la grandeza de ser capaces de **asegurar** la **redención**  
+Incluso para aquellos que **están conectados** con ellos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुबन्धिकळुक्कुमुत्तारकमाऩ प्रभावत्तै युडैयऩायिऱे यिव्वुपायनिष्ठऩिरुप्पदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यो ह्य् एनं पुरुषं **वेद**  
+देवा अपि **न** तं **विदुः**।’’  
+(भारतम् आरण्य-पर्व १९१-२९ ) 
+
+ऎऩ्ऱु भगवज्-ज्ञानम् उडैयवऩ्-उडैय प्रभावम्  
+देवर्गळालुम् परिच्छेदिक्क वॊण्णाद् ऎऩ्ऱार्गळ् इऱे।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यो ह्य् एनं पुरुषं **वेद**  
+देवा अपि **न** तं **विदुः**।’’  
+(भारतम् आरण्य-पर्व १९१-२९ ) 
+
+इति भगवज्-ज्ञानिनः प्रभावो  
+देवैर् अप्य् अपरिच्छेद्य इत्य् ऊचुः किल । 
+</details>
+
+<details><summary>English</summary>
+
+Similarly it has indeed been stated that  
+the greatness of the man who has a knowledge of Bhagavān cannot be (adequately) estimated by the gods even : 
+
+> "Even the gods cannot measure the greatness of the man  
+who knows Śrī Kṛṣṇa as He is ". 
+</details>
+
+<details><summary>Español</summary>
+
+Del mismo modo, de hecho **se ha dicho** que  
+La grandeza del hombre que **tiene** un **conocimiento** de Bhagavān  
+**no puede ser** (adecuadamente) **estimada** por los dioses incluso:
+
+> "Incluso los dioses **no pueden medir** la grandeza del hombre  
+Quién **conoce** a Śrī Kṛṣṇa como es ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यो ह्येनं पुरुषं वेद देवा अपि न तं विदुः’’(भारतम् आरण्य-पर्व १९१-२९ ) ऎऩ्ऱु भगवद्ज्ञानमुडैयवऩुडैय प्रभावम् देवर्गळालुम् परिच्छेदिक्कवॊण्णादॆऩ्ऱार्गळिऱे।
+</details>
+
+## जातिः
+### प्रतिज्ञा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩालुम्  
+इदुक्कु विरुद्धम् अल्लाद प्रमाण-बलत्ताले मुऱ्+++(न्)+++-पड  
+जाति-व्यवस्थै **सॊल्लुगिऱोम्**। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अथाप्य् एतद्--अ-विरुद्ध--प्रमाण-बलेन  
+प्रथमतो जाति-व्यवस्थां ब्रूमः । 
+</details>
+
+<details><summary>English</summary>
+
+However we will now state the limits (of this greatness) so far as caste is concerned,  
+by the force of pramāṇas which are not opposed to these texts (quoted above).
+</details>
+
+<details><summary>Español</summary>
+
+Sin embargo, ahora **declararemos** los límites (de esta grandeza) en lo que respecta a la casta,  
+por la fuerza de Pramāṇas que **no se oponen** a estos textos (**citado** anteriormente).
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऩालुम् इदुक्कु विरुद्धमल्लाद प्रमाणबलत्ताले मुऱ्पड जातिव्यवस्थै सॊल्लुगिऱोम्। 
+</details>
+
+
+### शङ्का
+<details><summary>English</summary>
+
+DOES PRAPATTI ENTITLE A ŚŪDRA TO BE CONSIDERED A BRAHMIN
+</details>
+
+<details><summary>Español</summary>
+
+¿Prapatti **da** derecho a un Śūdra para **ser considerado** un brahmán
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ‘‘न शूद्रा भगवद्-भक्ता  
+विप्रा भागवतास् स्मृताः ।  
+सर्व-वर्णेषु ते शूद्रा  
+ये ह्य् अ-भक्ता जनार्दने॥’’  
+(भारतम् आश्वमेधिक-पर्व ११८-३२) 
+> 
+> ऎऩ्ऱु
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘न शूद्रा भगवद्-भक्ता  
+विप्रा भागवतास् स्मृताः ।  
+सर्व-वर्णेषु ते शूद्रा  
+ये ह्य् अ-भक्ता जनार्दने॥’’  
+(भारतम् आश्वमेधिक-पर्व ११८-३२) 
+> 
+> इति
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवतः, जातिः, विप्रः, शूद्रः
+</details>
+
+<details><summary>English</summary>
+
+It is said: 
+
+> “Those Sūdras who have devotion (bhakti ) to Bhagavān are not Śūdras;  
+they who are devotees of Bhagavān are Brahmins.  
+Those who have no bhakti to Bhagavān (Janārdana),  
+whatever might be their caste -  
+they alone are sūdras". 
+</details>
+
+<details><summary>Español</summary>
+
+**Se dice**:
+
+> “Los sūdras que **tienen** devoción (bhakti) a bhagavān **no son** Śūdras;  
+Los que **son devotos** de Bhagavān **son** brahmanes.  
+Aquellos que **no tienen** Bhakti a Bhagavān (Janārdana),  
+Cualquiera que **sea** su casta -  
+Ellos solo **son** sūdras ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न शूद्रा भगवद्भक्ता विप्रा भागवतास्स्मृताः । सर्ववर्णेषु ते शूद्रा ये ह्यभक्ता जनार्दने॥’’(भारतम् आश्वमेधिक-पर्व ११८-३२) ऎऩ्ऱु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> भगवद्-भक्तिय् आगिऱ गुण-विशेष-सद्--अ-सद्-भावङ्गळाले  
+अपकृष्ट-जातीयरै उत्कृष्ट-जातीय-वाचक-शब्दत्ताले **सॊल्लियुम्**,
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> भगवद्-भक्ति-रूप-गुण-विशेष-- सद्--अ-सद्-भावाभ्याम्  अपकृष्ट-जातीयानाम् उत्कृष्टजातीय-वाचक-शब्देन निर्देशनम्  
+</details>
+
+
+<details><summary>English</summary>
+
+> Thus by the presence or absence in them of the specific attribute of bhakti to Bhagavān,  
+men of lower castes are called by the names of the higher  
+</details>
+
+<details><summary>Español</summary>
+
+> Así por la **presencia** o **ausencia** en ellos del atributo específico de Bhakti a Bhagavān,  
+Los hombres de las castas inferiores **son llamados** por los nombres de los más altos
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवद्भक्तियागिऱ गुणविशेषसदसद्भावङ्गळाले अपकृष्टजातीयरै उत्कृष्टजातीयवाचकशब्दत्ताले सॊल्लियुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उत्कृष्ट-जातीयरै अपकृष्ट-जातीय-वाचक-शब्दत्ताले सॊल्लियुम् इरुन्ददु, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> उत्कृष्ट-जातीयानाम् अपकृष्ट-जातीय-वाचक-शब्देन निर्देशनं च स्थितम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+> and men of higher castes are called by the names of the lower respectively. 
+</details>
+
+<details><summary>Español</summary>
+
+> y los hombres de castas superiores **son llamados** por los nombres de la parte inferior respectivamente.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उत्कृष्टजातीयरै अपकृष्ट जातीयवाचकशब्दत्ताले सॊल्लियुमिरुन्ददु, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इद्-अडिय् आग  
+भगवद्-भक्तर् ऎल्लारुम्  
+एक-जातीयर् अऩ्ऱोव् 
+
+ऎऩ्ऱु मृदु-प्रज्ञर् निऩैप्पर्गळ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एतस्माद् +धेतोर् भगवद्-भक्ताः सर्वेऽप्य् एक-जातीयाः किल
+
+इति मृदुप्रज्ञा मन्यन्ते । 
+</details>
+
+
+<details><summary>English</summary>
+
+From this, men of poor understanding might ask, 
+
+> “Are not the devotees of Bhagavān of one and the same caste?" 
+</details>
+
+<details><summary>Español</summary>
+
+A partir de esto, los hombres de mal **entendimiento podrían preguntar**,
+
+> "**¿No son** los devotos de Bhagavān de la misma casta?"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदडियाग भगवद्भक्तरॆल्लारुम् एकजातीयरऩ्ऱोवॆऩ्ऱु मृदुप्रज्ञर् निऩैप्पर्गळ्।
+</details>
+
+
+
+### शास्त्रानर्थक्य-प्रसङ्गः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩेय् आगिल्  
+
+> भागवत-ब्राह्मणऩ् इऩ्ऩ बडिये वर्तिप्पाऩ्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं सति 
+
+> भागवत-ब्राह्मण इत्थम् एव वर्तेत, 
+</details>
+
+
+<details><summary>English</summary>
+
+> "Thus will the devotee of the Lord who is a Brahmin conduct himself 
+</details>
+
+<details><summary>Español</summary>
+
+> "Así, el devoto del Señor, que **es** un brahmán mismo, **se conduce** a sí mismo
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩेयागिल् भागवतब्राह्मणऩिऩ्ऩबडिये वर्तिप्पाऩ्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> भागवतशूद्रऩिऩ्ऩबडिये वर्तिप्पाऩ्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> भागवतशूद्र इत्थम् एव वर्तेत
+</details>
+
+
+<details><summary>English</summary>
+
+> and thus will the devotee who is a Śūdra conduct himself." 
+</details>
+
+<details><summary>Español</summary>
+
+> Y así **se conducirá** el devoto que **es** un Śūdra mismo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भागवतशूद्रऩिऩ्ऩबडिये वर्तिप्पाऩ्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु आचार-नियमङ्गळ् सॊल्लुम् सर्वशास्त्रङ्गळुम् विरोधिक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इति +आचार-नियम-प्रतिपादकानि सर्व-शास्त्राणि विरुध्येरन् । 
+</details>
+
+
+<details><summary>English</summary>
+
+If this view were accepted, it would be in conflict with all the śāstras that prescribe the respective course of right conduct stating (the above).
+</details>
+
+<details><summary>Español</summary>
+
+Si este punto de vista **fuera aceptado**,  
+**estaría** en **conflicto** con todos los śāstras  
+que **prescribe** el curso respectivo de la conducta correcta que **indica** (lo anterior).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु आचारनियमङ्गळ् सॊल्लुम् सर्वशास्त्रङ्गळुम् विरोधिक्कुम्। 
+</details>
+
+
+### वादि-हंसाम्बु-वाह-निर्णयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> केवल-ब्राह्मणऩुक्कुम् केवल-शूद्रऩुक्कुम् उळ्ळ ऎल्लै  
+भागवत-ब्राह्मणऩुक्कुम् भागवत-शूद्रऩुक्कुङ् कॊळ्ळवेणुम्  
+
+ऎऩ्ऱुम्,
+</details>
+
+
+
+<details><summary>English</summary>
+
+The distance that exists between the mere Brahmin and the mere Śūdra  
+should be considered to exist (also) between the Lord's devotee who is a Brahmin and the Lord's devotee who is a Śūdra. 
+</details>
+
+<details><summary>Español</summary>
+
+La distancia que **existe** entre el mero brahmán y el mero Śūdra  
+**Debe considerarse** que existe (también) entre el **devoto** del Señor que **es** un brahmán y el **devoto** del Señor que **es** un Śūdra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+केवलब्राह्मणऩुक्कुम् केवलशूद्रऩुक्कुमुळ्ळ ऎल्लै भागवतब्राह्मणऩुक्कुम् भागवतशूद्रऩुक्कुङ्गॊळ्ळवेणुमॆऩ्ऱुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवर्गळै समर् ऎऩ्गिऱ शास्त्रङ्गळुम्  
+परम-पुरुषार्थ-साम्यादिगळालेय् 
+
+ऎऩ्ऱुम् किडाम्बियप्पुळ्ळाररुळिच्चॆय्दार्।   
+</details>
+
+<details><summary>English</summary>
+
+The śāstras which state that they are equal  
+refer only to such things as the attainment of the final goal (mokṣa).  
+Kadambi Appullar has made this point clear. 
+</details>
+
+<details><summary>Español</summary>
+
+Los Śāstras que **afirman** que **son** iguales  
+**Consulte** solo a las cosas como el **logro** del gol final (mokṣa).  
+Kadambi Appullar **ha dejado** en claro este punto.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवर्गळै समरॆऩ्गिऱ शास्त्रङ्गळुम् परमपुरुषार्थसाम्यादिगळालेयॆऩ्ऱुम् किडाम्बियप्पुळ्ळाररुळिच्चॆय्दार्।   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’कुलन् दरुम्’’(पॆरियदिरुमॊऴि १-१। ९)  
+
+ऎऩ्गिऱ पाट्टुक्कु व्याख्यानम् पण्णिऩ अभियुक्तरुम् 
+</details>
+
+<details><summary>English</summary>
+
+Further learned scholars (like Peria Achan Pillai) while commenting on the verse,  
+
+> "The name, Nārāyaṇa confers a (higher) kulam", 
+</details>
+
+<details><summary>Español</summary>
+
+**Aprendidos** académicos (como Peria Achan Pillai) mientras **comentan** sobre el verso,
+
+> "El nombre, Nārāyaṇa **confiere** un (más alto) Kulam",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’कुलन्दरुम्’’(पॆरियदिरुमॊऴि १-१। ९)  ऎऩ्गिऱ पाट्टुक्कु व्याख्यानम् पण्णिऩ अभियुक्तरुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जन्मत्ताल् वृत्तत्ताल् कुऱैन्दाऩ् ऒरुत्तऩुक्कु   
+भगवत्-सम्बन्धम् उण्डाऩाल्  
+अवऩै +++(जाति-वृत्ते→)+++इवैय्-उडैयाऩ् ऒरुत्तऩ्  
+ताऴ निऩैक्कक् कूसुम्+++(=लज्जत्)+++ बडिय् आयिऱ्ऱु भगवत्-प्रभावम् इरुक्कुम् बडि; 
+</details>
+
+<details><summary>English</summary>
+
+> "If a man who is low by birth and by conduct attains contact with Bhagavān,  
+one who has them both should shrink from calling him low,  
+because of the potency of his devotion to Bhagavān". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Si un hombre que **está** bajo por **nacimiento** y por **conducta alcanza** el **contacto** con Bhagavān,  
+uno que los tiene a ambos **debería encogerse** de **llamarlo** bajo,  
+Debido a la **potencia** de su **devoción** a Bhagavān ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जन्मत्ताल् वृत्तत्ताल् कुऱैन्दाऩॊरुत्तऩुक्कु भगवत्सम्बन्धमुण्डाऩाल् अवऩै इवैयुडैयाऩॊरुत्तऩ् ताऴ निऩैक्कक् कूसुम्बडियायिऱ्ऱु भगवत्प्रभावमिरुक्कुम्बडि; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > आऩाल् अवर्गळोडु पॆण् कॊडुत्तुक् कॊळ्ळुगिऱद् इल्लैयेय् >
+> ऎऩ्ऩिल्;  
+अदु जाति-निबन्धनम्;  
+श्लाघै गुण-निबन्धनैय् 
+
+ऎऩ्ऱु निष्कर्षित्तार्गळ्। 
+</details>
+
+
+<details><summary>English</summary>
+
+> In answer to the question 
+>
+>> “But this does not mean intermarriage among them ",  
+>
+> they declared that this (prohibition of inter-marriage) is due to caste  
+> and that the praise of the man is due to his possession of virtues.  
+
+(They) express the above ~~following~~ conclusion.
+</details>
+
+<details><summary>Español</summary>
+
+> En **respuesta** a la **pregunta**
+>
+>> "Pero esto **no significa** matrimonios mixtos entre ellos",
+>
+> **Declararon** que esta (**prohibición** del matrimonio) **se debe** a la casta  
+> y que el **elogio** del hombre **se debe** a su **posesión** de virtudes.
+
+(Ellos) expresan lo anterior conclusión.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऩाल् अवर्गळोडु पॆण् कॊडुत्तुक् कॊळ्ळुगिऱदिल्लैयेयॆऩ्ऩिल्; अदु जातिनिबन्धनम्; श्लाघै गुण निबन्धनैयॆऩ्ऱु निष्कर्षित्तार्गळ्। 
+</details>
+
+
+### वैष्णव-कुले तात्पर्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’कुलन् दरुम्’’  
+
+ऎऩ्ऱ् अदुवुम्, 
+
+> ’’पण्डैक्+++(=प्राचीनम्)+++ कुलत्तैत् तविर्न्द्’’(तिरुप्पल्लाण्डु ५) 
+
+ऎऩ्ऱ् अदुवुम् 
+</details>
+
+<details><summary>English</summary>
+
+The words, 
+
+> " It confers a higher kulam",  
+
+and likewise, the passage - 
+
+> “ We will give up our former kulam,  
+and sing the praise of Bhagavān " 
+</details>
+
+<details><summary>Español</summary>
+
+Las palabras,
+
+> "**Confiere** a un Kulam más alto",
+
+Y de la misma manera, el pasaje -
+
+> “**Renunciaremos** a nuestro antiguo Kulam,  
+y **cantar** el **elogio** de Bhagavān "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’कुलन्दरुम्’’  ऎऩ्ऱदुवुम्, ’’पण्डैक् कुलत्तैत् तविर्न्द्’’(तिरुप्पल्लाण्डु ५) ऎऩ्ऱदुवुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तॊण्डक्+++(=भक्त)+++-कुलत्तिल् उत्कर्षञ् जॊऩ्ऩबडि। 
+</details>
+
+<details><summary>English</summary>
+
+mean only exaltation in the Vaiṣṇava kulam. 
+</details>
+
+<details><summary>Español</summary>
+
+**significa** solo **exaltación** en el Vaiṣṇava Kulam.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तॊण्डक्कुलत्तिलुत्कर्षञ् जॊऩ्ऩबडि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देवतान्तरादि-सङ्कीर्ण-कुलम् अऩ्ऱेय् इवऩदु।
+</details>
+
+<details><summary>English</summary>
+
+His kulam is indeed such  
+as will not entertain the worship of other deities as well as the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+Su kulam **es** de hecho tal  
+como **no entretendrá** la **adoración** de otras deidades y del Señor.
+</details>
+
+<details><summary>मूलम्</summary>
+
+देवतान्तरादिसङ्कीर्णकुलमऩ्ऱेयिवऩदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘मा जनिष्ट स नो वंशे  
+जातो वा द्राग् विपद्यताम् ।  
+आ-जन्म-मरणं यस्य  
+वासुदेवो न दैवतम्॥’’  
+(वराहपुराणम्) 
+
+ऎऩ्ऱ् इऱे एकान्ति-कुलत्तिऱ् पासुरम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘मा जनिष्ट स नो वंशे  
+जातो वा द्राग् विपद्यताम् ।  
+आ-जन्म-मरणं यस्य  
+वासुदेवो न दैवतम्॥’’  
+(वराहपुराणम्) 
+
+</details>
+
+<details><summary>विषयः</summary>
+
+परमैकान्ती, कुलम्, भागवतः
+</details>
+
+<details><summary>English</summary>
+
+The saying current in the families of those who are exclusively devoted to Bhagavān (ekantī) is indeed as follows : 
+
+> "He to whom Vāsudeva is not the (sole) deity from birth to death  
+let him not be born into our family  
+and even if he is born,  
+let him die soon." 
+</details>
+
+<details><summary>Español</summary>
+
+El **dicho** actual en las familias de aquellos que **están dedicados** exclusivamente a Bhagavān (Ekantī) es de hecho la **siguiente**:
+
+> "Aquel a quien Vāsudeva **no es** la deidad (única) desde el **nacimiento** hasta la **muerte**  
+Que **no nazca** en nuestra familia  
+e incluso si **nace**,  
+Déjalo **morir** pronto ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘मा जनिष्ट स नो वंशे जातो वा द्राग्विपद्यताम् । आजन्ममरणं यस्य वासुदेवो न दैवतम्॥’’(वराहपुराणम्) ऎऩ्ऱिऱे एकान्तिकुलत्तिऱ् पासुरम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि वेऱ् ऒरु कुलम् आऩालुम्  
+जाति-शब्दमुम् कुल-शब्दमुम् भिन्नार्थम् आगवुम् प्रयुक्तम् आगैयाले  
+जाति-भेदियादु। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Though the kulam is changed,  
+since the words caste and kulam have been used in different senses,  
+we may say that the caste will remain the same,  
+but that the kulam will be different. 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque el Kulam **ha cambiado**,  
+Desde las palabras, la casta y el kulam **se han utilizado** en diferentes sentidos,  
+Podemos **decir** que la casta **seguirá siendo** la misma  
+Pero que el Kulam **será** diferente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि वेऱॊरु कुलमाऩालुम् जातिशब्दमुम् कुलशब्दमुम् भिन्नार्थमागवुम् प्रयुक्तमागैयाले जाति भेदियातु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरु-सुरभिय् आऩालुम् गोत्वङ् कऴियाद् इऱे। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+"Though the cow may be of the temple,  
+it does not cease to be a cow". 
+</details>
+
+<details><summary>Español</summary>
+
+"Aunque la vaca **puede ser** del templo,  
+**No deja** de **ser** una vaca ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तिरुसुरभियाऩालुम् गोत्वङ्गऴियादिऱे। 
+</details>
+
+### शास्त्रे ऽर्थवादः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महर्षिगळुम् 
+
+> ‘‘स शूद्र इति मन्तव्यः’’  
+(पारमेष्ठ्य-संहिता) 
+
+इत्य्-आदिगळिऱ् पडिये  
+
+प्रतिपत्ति-विशेषङ्गळैप् पऱ्ऱ  
+उत्कृष्टर् बक्कल् अ-पकृष्ट-शब्दमुम्,  
+अपकृष्टर् बक्कल् उत्कृष्ट-शब्दमुम् प्रयोगित्तार्गळ् अत्तऩै। 
+</details>
+
+<details><summary>English</summary>
+
+In such passages as this:-
+
+> "He should be considered as a Śūdra", 
+
+the great sages called men of higher castes  
+by the words applicable to the lower castes  
+and vice versa  
+merely to indicate the degree of consideration or respect to be shown. 
+</details>
+
+<details><summary>Español</summary>
+
+En pasajes como este:-
+
+> "Debería **ser considerado** como un Śūdra",
+
+Los grandes sabios **llamados** hombres de castas superiores  
+por las palabras **aplicables** a las castas inferiores
+y viceversa  
+simplemente para **indicar** el grado de **consideración** o respeto que **se mostrará**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+महर्षिगळुम् ‘‘स शूद्र इति मन्तव्य’’(पारमेष्ठ्य-संहिता) इत्यादिगळिऱ्पडिये प्रतिपत्ति विशेषङ्गळैप् पऱ्ऱ उत्कृष्टर्बक्कल् अपकृष्टशब्दमुम्, अपकृष्टर्बक्कल् उत्कृष्टशब्दमुम् प्रयोगित्तार्गळत्तऩै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् 
+
+> भगवद्-भक्तर् अल्लाद ब्राह्मणर् शूद्रर्गळैप् पोलेय् अनादरणीयर् 
+
+ऎऩ्ऱुम्,  
+
+> भगवद्भक्तर् आऩ शूद्रर्गळ् ब्राह्मणरैप् पोले श्लाघनीयर् 
+
+ऎऩ्ऱुम् शास्त्र-तात्पर्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore the purport of the śāstra is only this much:
+
+> “Brahmins who are not devotees of Bhagavān  
+are not to be held in esteem,  
+whereas Śūdras who are devotees of Bhagavān  
+should be as much esteemed as Brahmins."
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, el **significado** del Śāstra **es** solo esto:
+
+> “Brahmanes que **no son devotos** de Bhagavān  
+**no deben ser retenidos** en estima  
+mientras que Śūdras que **son** devotos de Bhagavān  
+**Debería ser** tan **estimado** como los brahmanes ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् भगवद्भक्तरल्लाद ब्राह्मणर् शूद्रर्गळैप्पोले यनादरणीयरॆऩ्ऱुम्, भगवद्भक्तराऩ शूद्रर्गळ् ब्राह्मणरैप्पोले श्लाघनीयरॆऩ्ऱुम् शास्त्रतात्पर्यम्। 
+</details>
+
+### अव्यवस्था-प्रसङ्गः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् अल्लाद बोदु 
+
+> ९‘‘चण्डालम् अपि वृत्त-स्थं  
+तं देवा ब्राह्मणं विदुः’’  
+(भारतम् आश्वमेधिक-पर्व ११६-८), 
+</details>
+
+<details><summary>English</summary>
+
+If this were not accepted (as the right interpretation), 
+
+> "Auspicious qualities which carry esteem do not arise from caste.  
+The gods consider as a Brahmin even a caṇḍāla  
+who conducts himself in accordance with his caste," 
+</details>
+
+<details><summary>Español</summary>
+
+Si esto **no fuera aceptado** (como la **interpretación** correcta),
+
+> "Las cualidades auspiciosas que **tienen estima no surgen** de la casta.  
+Los dioses **consideran** como un brahmán incluso un caṇḍāla  
+quien **se conduce** de **acuerdo** con su casta ",
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩल्लादबोदु ९‘‘चण्डाळमपि वृत्तस्थं तं देवाब्राह्मणं विदुः’’(भारतम् आश्वमेधिक-पर्व ११६-८), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘चण्डालाः **प्रत्यवसिताः**  
+परिव्राजक-तापसाः।’’(दशस्मृतिः?? ४-२०),
+</details>
+
+<details><summary>English</summary>
+
+> "Sannyasins and those who perform tapas (austerities)  
+become caṇḍālas  
+when they lapse from the code of conduct prescribed for them", 
+</details>
+
+<details><summary>Español</summary>
+
+> "Sannyasins y los que **realizan** tapas (austeridades)  
+**convertirse** en caṇḍālas  
+Cuando **eligen** el Código de Conducta **prescrito** para ellos ",
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘चण्डालाः प्रत्यवसिताः परिव्राजकतापसाः’’(दशस्मृतिः?? ४-२०),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न तेन वृद्धो भवति  
+येनास्य पलितं शिरः ।  
+बालोऽपि यः प्रजानाति  
+तं देवास् स्थविरं विदुः॥’’  
+(मनुस्मृतिः २-१५६)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न तेन वृद्धो भवति  
+येनास्य पलितं शिरः ।  
+बालोऽपि यः प्रजानाति  
+तं देवास् स्थविरं विदुः॥’’  
+(मनुस्मृतिः २-१५६)
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "Because a man's hair has turned grey,  
+he is not esteemed as old.  
+He who has jñāna,  
+even if he be a child,  
+is esteemed by the gods as an old man". 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "Porque el cabello de un hombre **se ha vuelto** gris,  
+**No es estimado** como viejo.  
+El que **tiene** jñāna,  
+Incluso si él **es** un niño  
+**es estimado** por los dioses como un anciano ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न तेन वृद्धो भवति येनास्य पलितं शिरः । बालोऽपि यः प्रजानाति तं देवास्स्थविरं विदुः॥’’(मनुस्मृति २-१५६)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱ् इप्-पुटैगळिले+++(=पक्षेषु)+++ निन्दा-प्रशंसै पण्णुगिऱ वाक्यङ्गळैक् कॊण्डु  
+सर्व-मर्यादैगळुङ् कलङ्गुम् पडिय् आम्।
+</details>
+
+<details><summary>English</summary>
+
+all rules and regulations (regarding caste) would be set at naught  
+on the strength of the censure and praise (which alone are intended to be conveyed)  
+in such passages as the ~~following~~ above.
+</details>
+
+<details><summary>Español</summary>
+
+Todas las reglas y regulaciones (con respecto a la casta) **se establecerían** en nada  
+Sobre la fuerza de la censura y elogios (que solo **están** destinados a **ser transmitidos**)  
+en pasajes como el ~~siguiente~~ arriba.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱिप्पुडैगळिले निन्दाप्रशंसैपण्णुगिऱ वाक्यङ्गळैक्कॊण्डु सर्वमर्यादैकळुङ्गलङ्गुम् पडियाम्।
+</details>
+
+
+### निगमनम्
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-प्रतिपत्तिविशेषार्थमन्यत्रान्यत्वकीर्तनम् । विशेषविधिसाकांक्षास्तत्र तत्तत् प्रवृत्तयः ॥
+आऩबिऩ्बु 
+
+**प्रतिपत्ति**-विशेषार्थम् +++(न तु प्रवृत्त्यै)+++  
+अन्यत्रान्यत्व-**कीर्तनम्** ।  
++++(जाति-)+++विशेष-विधि-**साकाङ्क्षास्**  
+तत्र तत्-तत्-+++(व्यक्ति-)+++**प्रवृत्तयः** ॥
 </details>
+
+<details><summary>English</summary>
+
+When a member of one caste is praised as being of another Caste,  
+it is to state that he should be esteemed as such at heart.  
+But social conduct is regulated by special rules governing it.
+</details>
+
+<details><summary>Español</summary>
+
+When a member of one caste is praised as being of another Caste,  
+it is to state that he should be esteemed as such at heart.  
+But social conduct is regulated by special rules governing it.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
+आऩबिऩ्बु 
+
 प्रतिपत्तिविशेषार्थमन्यत्रान्यत्वकीर्तनम् । विशेषविधिसाकांक्षास्तत्र तत्तत् प्रवृत्तयः ॥
 </details>
 
-When a member of one caste is praised as being of another Caste, it is to state that he should be esteemed as such at heart. But social conduct is regulated by special rules governing it.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱ् इङ्गुऱ्ऱैक्कुम्+++(=??-)+++ समाधानम्। 
+</details>
+
+<details><summary>English</summary>
+
+This is the right explanation of all such passages.
+</details>
+
+<details><summary>Español</summary>
+
+Esta es la explicación correcta de todos estos pasajes.
+Esta es la explicación correcta de todos estos pasajes.
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱिङ्गुऱ्ऱैक्कुम् समाधानम्। 
+</details>
+
 
 Śrī Vidura, too, performed marriages and the like in accordance with the rules of his caste. “After the best of the Brahmins had eaten, Śrī Kṛṣṇa'' sat on a high seat and ate the pure and delicious food offered by Vidura.” On bearing of this, Duryodhana said to Śrī Kṛṣṇa:-"Without coming to Bhīṣma, Droṇa or to me, O Thou of lotus eyes, why didst thou eat, O Madhusūdana, in the house of a Śūdra?" Śrī Kṛṣṇa replied, “The food" offered by an enemy should not be eaten. (So also ) an enemy should not be given food to eat. You hate the Pandavas, O king. Are they not my very life?" In answering thus, it is evident that Śrī Kṛṣṇa admitted the truth of the particular caste ascribed to Vidura by Duryodhana.
 
