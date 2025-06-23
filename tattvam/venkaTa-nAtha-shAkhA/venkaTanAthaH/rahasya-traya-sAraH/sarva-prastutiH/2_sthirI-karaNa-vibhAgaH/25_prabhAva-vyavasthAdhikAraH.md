@@ -641,6 +641,15 @@ que **prescribe** el curso respectivo de la conducta correcta que **indica** (lo
 ऎऩ्ऱुम्,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२३३]]
+
+> केवल-ब्राह्मणस्य केवल-शूद्रस्य च विद्यमानं तारतम्यं  
+भागवत-ब्राह्मणस्य भागवत-शूद्रस्य च विषये स्वी-कार्यम् 
+
+इति, 
+</details>
 
 
 <details><summary>English</summary>
@@ -669,6 +678,16 @@ La distancia que **existe** entre el mero brahmán y el mero Śūdra
 ऎऩ्ऱुम् किडाम्बियप्पुळ्ळाररुळिच्चॆय्दार्।   
 </details>
 
+### पॆरियव्-आचाऩ्
+<details><summary>नीलमेघः (सं)</summary>
+
+> एषां साम्य-बोधकानि शास्त्राणि  
+परम-पुरुषार्थ-साम्यादिभिः प्रवृत्तानि
+
+इति च किडाम्बियप्पुळ्ळार्-स्वामिनः (वादि-हंसाम्बुदाचार्यः) अन्वगृह्णन् । 
+</details>
+
+
 <details><summary>English</summary>
 
 The śāstras which state that they are equal  
@@ -695,6 +714,14 @@ Kadambi Appullar **ha dejado** en claro este punto.
 ऎऩ्गिऱ पाट्टुक्कु व्याख्यानम् पण्णिऩ अभियुक्तरुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "कुलं दद्यात्" 
+
+इति गाथां व्याख्यातवन्तो ऽभियुक्ता अपि 
+</details>
+
+
 <details><summary>English</summary>
 
 Further learned scholars (like Peria Achan Pillai) while commenting on the verse,  
@@ -717,11 +744,22 @@ Further learned scholars (like Peria Achan Pillai) while commenting on the verse
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जन्मत्ताल् वृत्तत्ताल् कुऱैन्दाऩ् ऒरुत्तऩुक्कु   
+> जन्मत्ताल् वृत्तत्ताल् कुऱैन्दाऩ् ऒरुत्तऩुक्कु   
 भगवत्-सम्बन्धम् उण्डाऩाल्  
 अवऩै +++(जाति-वृत्ते→)+++इवैय्-उडैयाऩ् ऒरुत्तऩ्  
-ताऴ निऩैक्कक् कूसुम्+++(=लज्जत्)+++ बडिय् आयिऱ्ऱु भगवत्-प्रभावम् इरुक्कुम् बडि; 
+ताऴ निऩैक्कक् कूसुम्+++(=लज्जत्)+++ बडिय् आयिऱ्ऱु  
+भगवत्-प्रभावम् इरुक्कुम् बडि; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> 'जन्मना वृत्तेन निहीनस्य कस्यचिद्  
+भगवत्-संबन्धे जाते सति  
+तद्-विषये एतद्वता  
+अपकर्षज्ञान-प्रसक्तौ संयमः कार्य 
+इत्य् एवं किलास्ति भगवत्प्रभाव प्रकारः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -753,6 +791,14 @@ Debido a la **potencia** de su **devoción** a Bhagavān ".
 ऎऩ्ऱु निष्कर्षित्तार्गळ्। 
 </details>
 
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> (सत्यम् ;) "परं तु तैः सह कन्यादानाऽऽदानव्यवहारो नास्ति किले"ति चेत्-  
+स जाति-निबन्धनः ; श्लाघा गुण-निबन्धना' 
+
+इति निष्कर्षं चकुः । 
+</details>
 
 <details><summary>English</summary>
 
@@ -796,6 +842,18 @@ Debido a la **potencia** de su **devoción** a Bhagavān ".
 ऎऩ्ऱ् अदुवुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> " कुलं दद्यात्" 
+
+इत्य्-एतत् 
+
+> 8 प्राचीन-कुलं परित्यज्य 
+
+इत्य्-एतच् च 
+</details>
+
+
 <details><summary>English</summary>
 
 The words, 
@@ -829,7 +887,12 @@ y **cantar** el **elogio** de Bhagavān "
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तॊण्डक्+++(=भक्त)+++-कुलत्तिल् उत्कर्षञ् जॊऩ्ऩबडि। 
+तॊण्डक्+++(=दास)+++-कुलत्तिल् उत्कर्षञ् जॊऩ्ऩबडि। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+दास-कुलोत्कर्ष-प्रतिपादन-परम् ।  
 </details>
 
 <details><summary>English</summary>
@@ -852,6 +915,12 @@ mean only exaltation in the Vaiṣṇava kulam.
 
 देवतान्तरादि-सङ्कीर्ण-कुलम् अऩ्ऱेय् इवऩदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+देवतान्तरादि-संकीर्ण-कुलं नास्ति किलैतदीयम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -890,6 +959,7 @@ como **no entretendrá** la **adoración** de otras deidades y del Señor.
 वासुदेवो न दैवतम्॥’’  
 (वराहपुराणम्) 
 
+इति किलैकान्ति-कुले वचः । 
 </details>
 
 <details><summary>विषयः</summary>
@@ -929,6 +999,19 @@ Déjalo **morir** pronto ".
 जाति-भेदियादु। +++(4)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं कुलान्तरत्वेऽपि जाति-शब्द--कुल-शब्दयोर् भिन्नार्थकतयाऽपि प्रयुक्तत्वाज्  
+जातिर् न भिद्येत,  
+(कुलं भिद्येत) । 
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अनुवादयोर् दृश्यमानं शब्दद्वयं मूले नास्ति। कश्चित् पाठान्तरं परीक्ष्य वदेत्?? (प्रभावव्यवस्थाधिकारः)
+</details>
+
+
 <details><summary>English</summary>
 
 Though the kulam is changed,  
@@ -956,6 +1039,12 @@ Pero que el Kulam **será** diferente.
 
 तिरु-सुरभिय् आऩालुम् गोत्वङ् कऴियाद् इऱे। +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-सुरभि-भावेऽपि गोत्वं न हीयेत किल । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -989,6 +1078,16 @@ it does not cease to be a cow".
 उत्कृष्टर् बक्कल् अ-पकृष्ट-शब्दमुम्,  
 अपकृष्टर् बक्कल् उत्कृष्ट-शब्दमुम् प्रयोगित्तार्गळ् अत्तऩै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२३४]] 
+
+महर्षयोऽपि "स शूद्र इति मन्तव्यः" इत्य्-आद्य्-उक्त-रीत्या  
+प्रति-पत्ति-विशेष-तात्पर्येणोत्कृष्ट-विषये अपकृष्ट-शब्दम्, अपकृष्टविषये उत्कृष्ट-शब्दं च प्रयुयुजिरे  
+इत्य् एतावद् एव । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1033,6 +1132,8 @@ simplemente para **indicar** el grado de **consideración** o respeto que **se m
 
 ऎऩ्ऱुम् शास्त्र-तात्पर्यम्। 
 </details>
+
+
 
 <details><summary>English</summary>
 
