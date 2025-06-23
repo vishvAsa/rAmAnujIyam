@@ -3068,7 +3068,7 @@ For in the case of Pañcaratra Sastra we have positive certainty that it is base
 ### वेद-मूलता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ननु च श्रुतिमूलत्वे  
+> ननु च श्रुति-मूलत्वे  
 वेदाद् एवार्थ-सिद्धितः ॥  
 तत्-प्रणेतृ--स्व-तन्त्रत्व-  
 कल्पना नेत्य् **अचूचुदम्** ।
