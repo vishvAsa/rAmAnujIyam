@@ -1605,11 +1605,31 @@ But social conduct is regulated by special rules governing it.
 प्रतिपत्तिविशेषार्थमन्यत्रान्यत्वकीर्तनम् । विशेषविधिसाकांक्षास्तत्र तत्तत् प्रवृत्तयः ॥
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उक्तार्थत्तै कारिकैयिऩाल् सङ्ग्रहिक्किऱार् आऩबिऩ्बु इत्यादिना । प्रतिपत्तीति । अन्यत्रान्य त्वकीर्तनं – उत्कृष्टे अपकृष्टत्वकीर्तनमुम् अपकृष्टे उत्कृष्टत्वकीर्तनमुम्, प्रतिपत्तिविशेषार्थं – ब्राह्मणऩिडत्तिल् शूद्रऩॆऩ्गिऱ बुद्धिपण्णुवदऱ्कागवुम्, शूद्रऩिडत्तिल् ब्राह्मणऩॆऩ्गिऱ बुद्धि पण्णुवदऱ्कागवुमे, तत्र तत्तत्प्रवृत्तय इति ।  
+इङ्गु प्रवृत्तिशब्दम् निवृत्तिक्कुमुपलक्षणम्।  
+तत्र – भागवतब्राह्मणे, तत्तत्प्रवृत्तयः – अन्य-कर्तृक-प्रणामादि-प्रवृत्तिगळुम्, स्वकर्तृक-सन्ध्यावन्दनादि-प्रवृत्तिकळुम्,  
+शूद्रादि-भागवतऩ् इडत्तिले तन्-निवृत्तिगळुम्, विशेष-विधि-साकाङ्क्षाः – विशेषविधि साकाङ्क्षङ्गळ्, 
+
+> ‘‘ब्राह्मणेभ्यो वेदविद्भ्यो  
+दिवेदिवे नमस्कुर्यात्’’, 
+
+> ‘‘अष्टवर्षं ब्राह्मणम्  
+उपनयीत तमध्यापयेत्’’, 
+
+> ‘‘अहरहस् सन्ध्याम् उपासीत’’, 
+
+> ‘‘शूद्र एक-जातिर्  
+न च संस्कारमर्हति’’ 
+
+इत्यादि-विशेषविधियै अपेक्षित्तुवरक्कडवऩ। शास्त्रानुगुणप्रवृत्ति वेण्डुमे तविर प्रतिपत्त्यनुगुणप्रवृत्ति कूडादॆऩ्ऱु करुत्तु।
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎऩ्ऱ् इङ्ग्-उऱ्ऱैक्कुम्+++(=??-)+++ समाधानम्। 
+ऎऩ्ऱ् इङ्ग्-उऱ्ऱैक्कुम्+++(=उक्तानाम् अपि)+++ समाधानम्। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -1633,12 +1653,419 @@ Esta es la explicación correcta de todos estos pasajes.
 ऎऩ्ऱिङ्गुऱ्ऱैक्कुम् समाधानम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-Śrī Vidura, too, performed marriages and the like in accordance with the rules of his caste. “After the best of the Brahmins had eaten, Śrī Kṛṣṇa'' sat on a high seat and ate the pure and delicious food offered by Vidura.” On bearing of this, Duryodhana said to Śrī Kṛṣṇa:-"Without coming to Bhīṣma, Droṇa or to me, O Thou of lotus eyes, why didst thou eat, O Madhusūdana, in the house of a Śūdra?" Śrī Kṛṣṇa replied, “The food" offered by an enemy should not be eaten. (So also ) an enemy should not be given food to eat. You hate the Pandavas, O king. Are they not my very life?" In answering thus, it is evident that Śrī Kṛṣṇa admitted the truth of the particular caste ascribed to Vidura by Duryodhana.
+इङ्गुऱ्ऱैक्कुम् समाधानमिति ।  
+बालऩ्, परिव्राट् मुदलाऩ्-अवर्गळ् विषयत्तिल्  
+स्थविरत्व-चण्डालत्वादि-कथनादिगळुक्कुम् समाधानम् ऎऩ्ऱबडि।  
+</details>
 
-It may be asked: "Is not the eating of food cooked by a Śūdra forbidden to Brahmins and Kṣatriyas ?" The answer is as follows: "Apastamba and others state that Śūdras who are under the supervision of Aryas are competent to cook their food", In other yugas (than Kali) there was no prohibition, because good Śūdras under the control of Aryas were permitted to cook the food of the Aryas. (We read) further :-- "The pure Vidura, having the qualities necessary for it, brought the food." testifies to it, as Vidura's exceptional qualities are referred to.
+### विदुरः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-When this Brahma Jnani (Vidura) gave up his life by the power of yoga, Dharmaputra (it is true) felt it his duty (as his nephew) to perform his funeral obsequies in the special form (of Brahmamedha ). But it may have been performed in silence (without mantras;) or it was justifiable in the case of that exceptional individual. This should not be considered as a precedent in the case of other individuals (as a principle applicable to all). If (this answer) were not accepted, it would follow that, because the virtuous Pandavas had a common wife, owing to the force of certain exceptional circumstances, others, too, might do likewise. (This would lead to promiscuity in social relations ). Therefore each individual should stand firm in his caste and render service (kaiṅkarya) to Bhagavān in accordance with what is prescribed as competent for that caste. .
+श्री-विदुररुम् स्व-जात्य्-अनुरूपम् आग विवाहादिगळ् पण्णिऩार्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+Śrī Vidura, too, performed marriages and the like in accordance with the rules of his caste. 
+</details>
+
+<details><summary>Español</summary>
+
+Śrī Vidura también **realizó** matrimonios y similares de acuerdo con las reglas de su casta.
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रीविदुररुम् स्वजात्यनुरूपमाग विवाहादिगळ् पण्णिऩार्गळ्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘भुक्तवत्सु द्विजाग्र्येषु  
+निषण्णः परमासने ।  
+विदुरान्नानि बुभुजे  
+शुचीनि गुणवन्ति च॥’’  
+(भारतम् उद्योग-पर्व ९३-४३, ४५) 
+
+ऎऩ्ऱिदैक् केट्टु
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘भुक्तवत्सु द्विजाग्र्येषु  
+निषण्णः परमासने ।  
+विदुरान्नानि बुभुजे  
+शुचीनि गुणवन्ति च॥’’  
+(भारतम् उद्योग-पर्व ९३-४३, ४५) 
+
+</details>
+
+<details><summary>English</summary>
+
+> “After the best of the Brahmins had eaten,  
+Śrī Kṛṣṇa sat on a high seat  
+and ate the pure and delicious food offered by Vidura.”
+</details>
+
+<details><summary>Español</summary>
+
+> “Después de que lo mejor de los brahmanes **hubiera comido**,  
+Śrī Kṛṣṇa **se sentó** en un asiento alto  
+y se **comió** la comida pura y deliciosa **ofrecida** por Vidura ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘भुक्तवत्सु द्विजाग्र्येषु निषण्णः परमासने । विदुरान्नानिबुभुजे शुचीनि गुणवन्ति च॥’’(भारतम् उद्योग-पर्व ९३-४३, ४५) ऎऩ्ऱिदैक् केट्टु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दुर्योधनऩ् 
+
+> ‘‘भीष्म-द्रोणाव् **अतिक्रम्य**  
+माञ् चैव मधु-सूदन ।  
+किम्-अर्थं पुण्डरीकाक्ष!  
+**भुक्तं** वृषल-भोजनम्॥’’  
+(भारत-सावित्री) 
+
+ऎऩ्ऱु केट्क, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘भीष्म-द्रोणाव् **अतिक्रम्य**  
+माञ् चैव मधु-सूदन ।  
+किम्-अर्थं पुण्डरीकाक्ष!  
+**भुक्तं** वृषल-भोजनम्॥’’  
+(भारत-सावित्री) 
+
+</details>
+
+<details><summary>English</summary>
+
+On hearing of this, Duryodhana said to Śrī Kṛṣṇa:-
+
+> "Without coming to Bhīṣma, Droṇa or to me,  
+O Thou of lotus eyes,  
+why didst thou eat, O Madhusūdana,  
+in the house of a Śūdra?" 
+</details>
+
+<details><summary>Español</summary>
+
+Al **enterarse** de esto, Duryodhana **dijo** a Śrī Kṛṣṇa:-
+
+> "**Sin venir** a bhīṣma, droṇa o a mí,  
+Oh tú de los ojos de loto,  
+¿Por qué **comiste**, O Madhusūdana?  
+¿En la casa de un Śūdra? "
+</details>
+
+<details><summary>मूलम्</summary>
+
+दुर्योधनऩ् ‘‘भीष्मद्रोणावतिक्रम्य माञ्चैव मधुसूदन । किमर्थं पुण्डरीकाक्ष! भुक्तं वृषलभोजनम्’’(भारत-सावित्री) ऎऩ्ऱु केट्क, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘द्विषद्-अन्नं न भोक्तव्यं  
+द्विषन्तं नैव भोजयेत् ।  
+पाण्डवान् द्विषसे राजन्!  
+मम प्राणा हि पाण्डवाः॥’’  
+(भारतम् उद्योग ९१-२७)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘द्विषद्-अन्नं न भोक्तव्यं  
+द्विषन्तं नैव भोजयेत् ।  
+पाण्डवान् द्विषसे राजन्!  
+मम प्राणा हि पाण्डवाः॥’’  
+(भारतम् उद्योग ९१-२७)
+</details>
+
+<details><summary>विषयः</summary>
+
+द्वेषः, अन्नम्
+</details>
+
+
+<details><summary>English</summary>
+
+Śrī Kṛṣṇa replied, 
+
+> “The food offered by an enemy should not be eaten.  
+(So also ) an enemy should not be given food to eat.  
+You hate the Pandavas, O king.  
+Are they not my very life?" 
+
+</details>
+
+<details><summary>Español</summary>
+
+Śrī Kṛṣṇa **respondió**,
+
+> “La comida **ofrecida** por un enemigo **no debe comerse**.  
+(Así también) Un enemigo **no debe recibir** comida para **comer**.  
+**Odias** a los Pandavas, oh rey.  
+¿**No son** mi propia vida? "</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘द्विषदन्नं न भोक्तव्यं द्विषन्तं नैव भोजयेत् । पाण्डवान् द्विषसे राजन्! मम प्राणा हि पाण्डवाः’’(भारतम् उद्योग ९१-२७)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱ् उत्तरम् अरुळिच् चॆय्गैयाले  
+श्री-विदुररुक्कु दुर्योधनऩ् सॊऩ्ऩ जाति-विशेषत्तै  
+भगवाऩ् इसैन्दाऩ् आयिऱ्ऱु। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+In answering thus,  
+it is evident that Śrī Kṛṣṇa admitted the truth of the particular caste ascribed to Vidura by Duryodhana.
+</details>
+
+<details><summary>Español</summary>
+
+Al **responder** así,  
+Es evidente que Śrī Kṛṣṇa **admitió** la verdad de la casta particular **atribuida** a Vidura por Duryodhana.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱुत्तरमरुळिच् चॆय्गैयाले श्रीविदुररुक्कु दुर्योधनऩ् सॊऩ्ऩ जातिविशेषत्तै भगवाऩिसैन्दाऩायिऱ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आऩाल् ब्राह्मणर्क्कुम् क्षत्रियर्क्कुम् शूद्रऩुडैय पक्वान्नत्तै भुजिक्कै निषिद्धम् अऩ्ऱोव् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+It may be asked: 
+
+> "Is not the eating of food cooked by a Śūdra forbidden to Brahmins and Kṣatriyas ?" 
+</details>
+
+<details><summary>Español</summary>
+
+**Se puede preguntar**:
+
+> "¿**No está** el consumo de comida **cocinado** por un Śūdra **prohibido** a los brahmanes y kṣatriyas?"
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऩाल् ब्राह्मणर्क्कुम् क्षत्रियर्क्कुम् शूद्रऩुडैय पक्वान्नत्तै भुजिक्कै निषिद्धमऩ्ऱोवॆऩ्ऩिल्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आर्याधिष्ठिता वा शूद्रा अन्न-संस्कर्तारस् स्युः’’(आबस्तम्बसूत्रम् २-२-४) 
+
+ऎऩ्ऱु आपस्तम्बादिगळ् सॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>English</summary>
+
+The answer is as follows:  
+Apastamba and others state that 
+
+> "Śūdras who are under the supervision of Aryas  
+are competent to cook their food", 
+</details>
+
+<details><summary>Español</summary>
+
+La **respuesta es** la siguiente:  
+Apastamba y otros **afirman** que 
+
+> "Śūdras que **están** bajo la **supervisión** de Aryas
+**son** competentes para **cocinar** su comida ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘आर्याधिष्ठिता वा शूद्रा अन्नसंस्कर्तारस्स्युः’’(आबस्तम्बसूत्रम् २-२-४) ऎऩ्ऱु आपस्तम्बादिगळ् सॊल्लुगिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+युगान्तरङ्गळिल् आर्य-परतन्त्रर् आऩ गुणवच्-छूद्रर्गळ्  
+आर्यर्क्क् अन्न-संस्कारम् पण्ण अनुज्ञातर् आगैयाले  
+अव्व् इडत्तिल् निषेधम् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+In other yugas (than Kali) there was no prohibition,  
+because good Śūdras under the control of Aryas were permitted to cook the food of the Aryas. 
+</details>
+
+<details><summary>Español</summary>
+
+En otras yugas (que Kali) no hubo prohibición,
+Porque los buenos Śūdras bajo el control de Aryas podían cocinar la comida de los Aryas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+युगान्तरङ्गळिल् आर्यपरतन्त्रराऩ गुणवच्छूद्रर्गळ् आर्यर्क्कन्नसंस्कारम् पण्ण अनुज्ञातरागैयालेअव्विडत्तिल् निषेधमिल्लै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु 
+
+> ‘‘शुचिस् तु प्रयतो भूत्वा  
+विदुरोऽन्नम् उपाहरत्।’’  
+(भारतम् उद्योग-पर्व ९१-४३)  
+
+ऎऩ्ऱु श्रीविदुरर्-उडैय गुण-विशेषङ्गळ् +++(प्रयतत्व-)+++ सॊल्लुगैयाले सूचितम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘शुचिस् तु प्रयतो भूत्वा  
+विदुरोऽन्नम् उपाहरत्।’’  
+(भारतम् उद्योग-पर्व ९१-४३)  
+
+</details>
+
+<details><summary>English</summary>
+
+(We read) further :-- 
+
+> "The pure Vidura, having the qualities necessary for it, brought the food."  
+
+testifies to it, as Vidura's exceptional qualities are referred to.
+
+</details>
+
+<details><summary>Español</summary>
+
+(**Leemos**) más:-
+
+> "El puro Vidura, que **tiene** las cualidades necesarias para ello, **trajo** la comida".  
+
+**Testifica** a él, como **se hace referencia** a las cualidades excepcionales de Vidura.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु ‘‘शुचिस्तु प्रयतो भूत्वा विदुरोऽन्नमुपाहरत्’’(भारतम् उद्योग-पर्व ९१-४३) ऎऩ्ऱु श्रीविदुररुडैय गुणविशेषङ्गळ् सॊल्लुगैयाले सूचितम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म-वित्तुक्कळ् आऩ इवर्  
+योग-प्रभावत्ताले देह-न्यासम् पण्णिऩ पिऩ्बु  
+प्राप्तऩ् आऩ धर्म-पुत्रऩ् सॆय्द +++(ब्रह्म-मेध-)+++संस्कार-विशेषम्  
+तूष्णीम् अनुष्ठितम् आदल्,  
+व्यक्ति-विशेष-नियतम् आदल् आम् इत्तऩै।+++(4)+++
+</details>
+
+
+<details><summary>English</summary>
+
+When this Brahma Jnani (Vidura) gave up his life by the power of yoga,  
+Dharmaputra (it is true) felt it his duty (as his nephew) to perform his funeral obsequies in the special form (of Brahmamedha ).  
+But it may have been performed in silence (without mantras;)  
+or it was justifiable in the case of that exceptional individual. +++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+Cuando este Brahma Jnani (Vidura) **renunció** a su vida por el poder del yoga,  
+Dharmaputra (**es** cierto) **sintió** que **era** su deber (como su sobrino) **realizar** sus obsequias funerarias en la forma especial (de Brahmamedha).  
+Pero **puede haberse realizado** en silencio (sin mantras;)  
+O **era** justificable en el caso de ese individuo excepcional.+++(5)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मवित्तुक्कळाऩ इवर् योगप्रभावत्ताले देहन्यासम् पण्णिऩ पिऩ्बु प्राप्तऩाऩ धर्मपुत्रऩ् सॆय्द संस्कारविशेषम् तूष्णीमनुष्ठितमादल्, व्यक्तिविशेष नियतमादलामित्तऩै।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु कॊण्डु व्यक्त्य्-अन्तरङ्गळिल् न्याय-सञ्चारम् पण्ण वॊण्णादु। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+This should not be considered as a precedent in the case of other individuals (as a principle applicable to all). 
+</details>
+
+<details><summary>Español</summary>
+
+Esto no debe **considerarse** como un **precedente** en el caso de otras personas (como un principio aplicable a todos).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु कॊण्डु व्यक्त्यन्तरङ्गळिल् न्यायसञ्चारम् पण्णवॊण्णादु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् अल्लाद बोदु  
+धर्मोत्तरर् आऩ पाण्डवर्गळुक्क्  
+ऒरु नियति-विशेषत्ताले वन्द दार-साधारण्यत्तैक् कॊण्डु  
+सर्व-लोकमुम् व्याकुलम् आम् बडिय् आम्। +++(5)+++
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+साक्षात्-कृत-शिव-निर्देशेन व्यासेन द्रौपदी-पञ्च-पतित्वं धर्म इति पूर्वम् एव निश्चित्य युधिष्ठिरायोक्तम्,  
+पश्चात् तेनानुष्ठितम्।  
+एवं देवाज्ञाः क्वचिच् छास्त्रम् अतिक्रम्य +अविवदनीय-स्वप्नादिभिर् अपि ज्ञायन्ते।  
+</details>
+
+
+<details><summary>English</summary>
+
+If (this answer) were not accepted,  
+it would follow that, because the virtuous Pandavas had a common wife,  
+owing to the force of certain exceptional circumstances,  
+others, too, might do likewise.  
+(This would lead to promiscuity in social relations ). 
+</details>
+
+<details><summary>Español</summary>
+
+Si (esta respuesta) **no fuera aceptado**,  
+**Seguiría** eso, porque los Pandavas virtuosos **tenían** una esposa común,  
+Debido a la fuerza de ciertas circunstancias excepcionales,  
+Otros también **podrían hacer** lo mismo.  
+(Esto **conduciría** a la promiscuidad en las relaciones sociales).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩल्लादबोदु धर्मोत्तरराऩ पाण्डवर्गळुक्कॊरु नियतिविशेषत्ताले वन्द दारसाधारण्यत्तैक्कॊण्डु सर्वलोकमुम् व्याकुलमाम्बडियाम्। 
+</details>
+
+
+
+Therefore each individual should stand firm in his caste and render service (kaiṅkarya) to Bhagavān in accordance with what is prescribed as competent for that caste.
 
 Those who abide by the śāstras should not believe in the elevation from (lower) castes stated in the deceptive śāstras (of heretics ). The case of such as Visvamitra (who became a Brahmin after being a Kṣatriya, was due to certain special causes as the charu (oblation of grain cooked in milk and other things) eaten by his mother without knowing that it was intended for pro ducing a Brahmin child - it should not be considered that it is applicable to others as well, for it is against the texts (in the śastras). The incidents and conduct of the Alvars who were possessed of powers even superior to those of Vidura and others should not be taken as precedents for our conduct. If we examine even their cond.ict carefully, (we shall find) that they did not transgress the rules of their respective castes.
 
