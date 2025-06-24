@@ -2598,12 +2598,253 @@ Si **examinamos** incluso su **conducta** con cuidado,
 अवर्गळ् स्वजातिनियमत्तै अतिलङ्घनम् सॆय्दार्गळिल्लै यॆऩ्ऱुदोऩ्ऱुगिऱदु ऎऩ्ऱबडि। 
 </details>
 
+### शूद्रेभ्यस् तत्त्व-ज्ञानम्, न विद्या-मन्त्रादि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘विष्णुर् नित्यं विद्यया तात **ईड्यस्**  
+तस्मात् ज्ञानं नित्य-रूपं वरेण्यम् ।  
+**प्राप्यं** ज्ञानं ब्राह्मणात्क् षत्रियाद् वा  
+वैश्याच् छूद्राद् वापि नीचाद् अभीक्ष्णम्॥’’  
+(भारतम् शान्ति-पर्व ३२३-८८) 
+
+ऎऩ्गिऱ श्लोकत्तिल् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘विष्णुर् नित्यं विद्यया तात **ईड्यस्**  
+तस्मात् ज्ञानं नित्य-रूपं वरेण्यम् ।  
+**प्राप्यं** ज्ञानं ब्राह्मणात्क् षत्रियाद् वा  
+वैश्याच् छूद्राद् वापि नीचाद् अभीक्ष्णम्॥’’  
+(भारतम् शान्ति-पर्व ३२३-८८) 
+
+इति श्लोके
+</details>
+
+<details><summary>विषयः</summary>
+
+ज्ञानम्, शिक्षा, जातिः
+</details>
+
+
+<details><summary>English</summary>
+
+The śloka :-
+
+> "Viṣṇu" is always to be praised (in song) with true knowledge (jñāna).  
+Therefore the pure knowledge concerning the eternal Lord  
+should be obtained in clearness  
+either from Brahmins or from Kṣatriyas or from Vaiśyas or from Śūdras or from even lower castes -  
+</details>
+
+<details><summary>Español</summary>
+
+El Śloka:-
+
+> "Viṣṇu" siempre es ser alabado (en la canción) con verdadero conocimiento (jñāna).
+Por lo tanto, el conocimiento puro sobre el señor eterno
+debe obtenerse en claridad
+ya sea de brahmanes o de kṣatriyas o de vaiśyas o de śūdras o de castas incluso inferiores -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘विष्णुर्नित्यं विद्यया तात ईड्यस्तस्मात् ज्ञानं नित्यरूपं वरेण्यं । प्राप्यं ज्ञानं ब्राह्मणात्क्षत्रियाद्वा वैश्याच्छूद्राद्वापि नीचादभीक्ष्णम्॥’’(भारतम् शान्ति-पर्व ३२३-८८) ऎऩ्गिऱ श्लोकत्तिल् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवज्-ज्ञानम् अवश्यं संपादनीयम् आगैयाले  
+पूर्व-पूर्वालाभत्तिल् मऱ्ऱ्-उळ्ळार् पक्कलिलुम्  
+ज्ञान-मात्रम् विशदम् आग पादनीयम्  
+ऎऩ्ऱ् इव्व्-अळवु सॊल्लिऱ्ऱु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवज्-ज्ञानस्यावश्यं संपादनीयत्वात्  
+पूर्व-पूर्वालाभे ऽन्येभ्यो ज्ञान-मात्रं विशदं संपादनीयम्  
+इत्य् एतावद् एव प्रत्यपादि ।
+</details>
+
+
+<details><summary>English</summary>
+
+this śloka means merely that since knowledge of Bhagavān is essential as an acquisition,  
+mere knowledge in its clearness should be obtained,  
+when men of the previous castes are not available,  
+even from those that are below them. 
+</details>
+
+<details><summary>Español</summary>
+
+Este Śloka **significa** simplemente que, dado que el **conocimiento** de Bhagavān **es** esencial como **adquisición**,  
+**Se debe obtener** un mero **conocimiento** en su claridad,  
+Cuando los hombres de las castas anteriores **no están disponibles**,  
+Incluso de los que **están** debajo de ellos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवज्ज्ञानमवश्यम् संपादनीयमागैयाले पूर्वपूर्वालाभत्तिल् मऱ्ऱुळ्ळार् पक्कलिलुम् ज्ञानमात्रम् विशदमाग पादनीयमॆऩ्ऱिव्वळवु सॊल्लिऱ्ऱु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् आऩालुम्  
+
+> +++(उपासना-)+++विद्या-मन्त्रादिगळ्-उडैय ग्रहणम्  
+ब्राह्मणादि-विषयत्तिलेय् आग वेणुम्  
+
+ऎऩ्ऩुम् इडम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं सत्य् अपि 
+
+> +++(उपासना-)+++विद्या-मन्त्रादीनां ग्रहणं  
+ब्रह्मणादित एव कार्यम् 
+
+इत्य्-एतत्,
+</details>
+
+
+<details><summary>English</summary>
+
+Notwithstanding this,  
+the initiation into vidyās (upāsanas), mantras and the like should be only from such as Brahmins. 
+</details>
+
+<details><summary>Español</summary>
+
+A pesar de esto,  
+La **iniciación** en vidyās (upāsanas), mantras y similares **debe ser** solo de los brahmanes.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडियाऩालुम् विद्यामन्त्रादिगळुडैय ग्रहणम् ब्राह्मणादिविषयत्तिलेयागवेणुमॆऩ्ऩुमिडम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘शूद्र-योनाव् अहं जातो  
+नातोऽन्यद् वक्तुम् उत्सहे।’’+++(4)+++  
+(भारतम् उद्योग-पर्व ४१-५) 
+
+ऎऩ्ऱ श्री-विदुर-वाक्यत्ताले सिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘शूद्र-योनाव् अहं जातो  
+नातोऽन्यद् वक्तुम् उत्सहे।’’+++(4)+++  
+(भारतम् उद्योग-पर्व ४१-५) 
+
+इति विदुर-वाक्यात् सिद्धम् । 
+</details>
+
+<details><summary>English</summary>
+
+This is clearly established from Vidura's words:-
+
+> "As I was born a Śūdra,  
+I cannot teach any further."
+</details>
+
+<details><summary>Español</summary>
+
+Esto **está** claramente **establecido** a partir de las palabras de Vidura:-
+
+> "Como **nací** un Śūdra,  
+**No puedo enseñar** más ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘शूद्रयोनावहं जातो नातोऽन्यद्वक्तुमुत्सहे’’(भारतम् उद्योग-पर्व ४१-५) ऎऩ्ऱ श्रीविदुरवाक्यत्ताले सिद्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तुला-धार--धर्म-व्याधादिगळुम्  
+धर्म-सन्देहङ् केट्क वन्द ब्राह्मणरैत्  
+ताङ्गळ् संभावित्तु तीर्थ-यात्रैयिले वऴिदि-गैत्तारै वऴियिले सेर्त्त-मात्रम् अवर्गळैत् तॆळिवित्तु विट्टार्गळ् इत्तऩैय् अल्लदु  
+मुख्यमाऩ आचार्यकम् पण्णिऩार्गळ् अऩ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तुला-धार--धर्म-व्याधादयो ऽपि  
+धर्म-सन्देहात् प्रष्टुम् आगतान् ब्राह्मणान् संभाव्य  
+तीर्थ-यात्रायां मार्ग-सन्दिहानानां मार्गे-योजन-मात्र-करणवत्  
+तान् संप्रबोध्य व्यसृजन्न् इत्य् एतावद् एव ;   
+न तु मुख्यम् आचार्यकं चक्रुः । 
+</details>
+
+<details><summary>English</summary>
+
+Tuladhara and Dharmavyadha (who were of lower castes) only did this much:  
+they treated with respect the Brahmins who came to them  
+to have their doubts cleared regarding dharma  
+and made them understand the points at issue,  
+just like people who put pilgrims on the right path  
+when they happen to have lost their way.  
+They did not become the main ācāryas (of the Brahmins).  
+</details>
+
+<details><summary>Español</summary>
+
+Tuladhara y Dharmavyadha (que eran de castas inferiores) solo **hicieron** esto:  
+**trataron** con respeto a los brahmanes que **vinieron** a ellos  
+**tener** sus dudas **despejadas** con respecto al dharma  
+y les **hizo entender** los puntos en cuestión,  
+Al igual que las personas que **ponen** a los **peregrinos** en el camino correcto  
+cuando **han perdido** su rumbo.  
+**No se convirtieron** en el principal ācāryas (de los brahmanes).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तुलाधारधर्मव्याधादिगळुम् धर्मसन्देहङ्गेट्क वन्द ब्राह्मणरैत् ताङ्गळ् संभावित्तु  
+तीर्थ-यात्रैयिले वऴि तिगैत्तारै+++(=भ्रान्तान्)+++ वऴियिले सेर्त्त-मात्रम्  
+अवर्गळैत् तॆळि-वित्तु विट्टार्गळ् इत्तऩैय् अल्लदु  
+मुख्यम् आऩ आचार्यकम् पण्णिऩार्गळ् अऩ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-प्रकारङ्गळ् इव्व्-इतिहासङ्गळिले कण्डु गॊळ्वदु। 
+</details>
+
+<details><summary>English</summary>
+
+This is how the incidents in the Itihasas should be understood.
+</details>
+
+<details><summary>Español</summary>
+
+Así **es** como se deben **entender** los incidentes en las Itihasas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्प्रकारङ्गळिव्वितिहासङ्गळिले कण्डुगॊळ्वदु। 
+</details>
 
 
 
-The śloka :-"Viṣṇu" is always to be praised (in song) with true knowledge (jñāna). Therefore the pure knowledge concerning the eternal Lord should be obtained in clearness either from Brahmins or from Kṣatriyas or from Vaiśyas or from Śūdras or from even lower castes - this śloka means merely that since knowledge of Bhagavān is essential as an acquisition, mere knowledge in its clearness should be obtained, when men of the previous castes are not available, even from those that are below them. Notwithstanding this, the initiation into vidyās (upāsanas), mantras and the like should be only from such as Brahmins. This is clearly established from Vidura's words:-"As I was born a Śūdra, I cannot teach any further."
 
-Tuladhara and Dharmavyadha (who were of lower castes) only did this much: they treated with respect the Brahmins who came to them to have their doubts cleared regarding dharma and made them understand the points at issue, just like people who put pilgrims on the right path when they happen to have lost their way. They did not become the main ācāryas (of the Brahmins). This is how the incidents in the Itihasas should be understood.
 
 "Bhakti or devotion is of eight kinds. If this bhakti is found in a mleccha, he should be considered as a devout and knowing Brahmin. To him giving is proper and from him taking is proper. He should be treated with the same reverence as I myself". This śloka has been commented upon (by Peria Achan Pillai) As meaning not that girls might be given in marriage to him and the like, but that he may be given the gift of knowledge and such like. "Treatment with reverence" (poojyah) is a general term. Therefore it means that if a man has devotion to Bhagavān, he should be treated with as much respect as the śāstras permit. Its purport is merely this much, that if a man treats such a devotee in the same way as he would treat others of the same caste, he would go to hell. The great sage summarised this in the śloka “He who treats a devotee of Bhagavān, be he a Śūdra, a huntsman, or even a man who eats dog's flesh, as he would treat other men of these castes - he would go to hell." Therefore the potency of devotion to Bhagavān should be so estimated as not to infringe the regulations of caste.
 
