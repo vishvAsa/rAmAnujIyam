@@ -2842,27 +2842,331 @@ Así **es** como se deben **entender** los incidentes en las Itihasas.
 इप्प्रकारङ्गळिव्वितिहासङ्गळिले कण्डुगॊळ्वदु। 
 </details>
 
+### देयताऽऽदेयता-पूज्यताः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘भक्तिर् अष्टविधा ह्येषा  
+यस्मिन् म्लेच्छेऽपि **वर्तते** ।  
+तस्मै **देयं** ततो **ग्राह्यं**  
+स च **पूज्यो** यथा ह्य् अहम्॥’’  
+(गारुड-पुराणम्) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘भक्तिर् अष्टविधा ह्येषा  
+यस्मिन् म्लेच्छेऽपि **वर्तते** ।  
+तस्मै **देयं** ततो **ग्राह्यं**  
+स च पूज्यो यथा ह्य् अहम्॥’’  
+(गारुड-पुराणम्) 
+</details>
+
+<details><summary>English</summary>
+
+> > "Bhakti or devotion is of eight kinds.  
+If this bhakti is found in a mleccha,  
+he should be considered as a devout and knowing Brahmin.  
+To him giving is proper and from him taking is proper.  
+He should be treated with the same reverence as I myself". 
+</details>
+
+<details><summary>Español</summary>
+
+> > "Bhakti o la devoción **son** de ocho tipos.  
+Si este bhakti **se encuentra** en una mleccha,  
+**Debería ser considerado** como un brahmán **devoto y conocido**.  
+Para él, **dar es apropiado**  
+y de él **tomar es apropiado**.  
+**Debería ser tratado** con la misma reverencia que yo mismo ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘भक्तिरष्टविधा ह्येषा यस्मिन् म्लेच्छेऽपि वर्तते । तस्मै देयं ततो ग्राह्यं स च पूज्यो यथा ह्यहम्॥’’(गारुड-पुराणम्) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऎऩ्ऱ् अदुवुम्  
+कन्या-प्रदानादि-परम् अऩ्ऱु -  
+ज्ञान-प्रदानादि-परम्  
+
+ऎऩ्ऱु व्याख्यानम् पण्णिऩार्गळ् +++(पॆरियव्-आचाऩ्)+++। 
+</details>
+
+<details><summary>English</summary>
+
+This śloka has been commented upon (by Peria Achan Pillai) as meaning  
+not that girls might be given in marriage to him and the like,  
+but that he may be given the gift of knowledge and such like. 
+</details>
+
+<details><summary>Español</summary>
+
+Este Śloka **ha sido comentado** (por peria achan pillai) como **significado**  
+**No es** que las chicas **puedan ser dadas** en matrimonio con él y similares,  
+pero que **se le puede dar** el don del **conocimiento** y como.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱदुवुम् कन्याप्रदानादिपरमऩ्ऱु - ज्ञानप्रदानादि परमॆऩ्ऱु व्याख्यानम् पण्णिऩार्गळ्। 
+</details>
+
+### पूज्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘पूज्यः’’ ऎऩ्गिऱ शब्दमुम् साधारणम् आगैयाले  
+भागवतत्वम् उण्डाऩाल्  
+सर्वरुम् शास्त्रञ् जॊऩ्ऩ मट्टुक्कळिले आदरणीयर्,
+</details>
+
+<details><summary>English</summary>
+
+"Treatment with reverence" (poojyah) is a general term.  
+Therefore it means that if a man has devotion to Bhagavān,  
+he should be treated with as much respect as the śāstras permit. 
+</details>
+
+<details><summary>Español</summary>
+
+El "**tratamiento** con reverencia" (poojyah) es un término general.  
+Por lo tanto, **significa** que si un hombre **tiene devoción** a Bhagavān,  
+Debe **ser tratado** con tanto respeto como el permiso Śāstras.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘पूज्यः’’ ऎऩ्गिऱशब्दमुम् साधारणमागैयाले भागवतत्वम् उण्डाऩाल् सर्वरुम् शास्त्रञ्जॊऩ्ऩ मट्टुक्कळिले आदरणीयर्,
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवर्गळै स-जातीयरोड् ऒक्क+++(=समं)+++ निऩैत्त्  
+अवज्ञै पण्णिऩ पोदु  
+नरकम् आम् 
+
+ऎऩ्ऱ् इव्व्-अळविले तात्पर्यम्।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Its purport is merely this much, that  
+if a man treats such a devotee in the same way as he would treat others of the same caste,  
+he would go to hell. 
+
+</details>
+
+<details><summary>Español</summary>
+
+Su **pretens es** simplemente esto, que  
+Si un hombre **trata** a un devoto de la misma manera que **trataría** a otros de la misma casta,  
+él **iría** al infierno.
+</details>
 
 
-"Bhakti or devotion is of eight kinds. If this bhakti is found in a mleccha, he should be considered as a devout and knowing Brahmin. To him giving is proper and from him taking is proper. He should be treated with the same reverence as I myself". This śloka has been commented upon (by Peria Achan Pillai) As meaning not that girls might be given in marriage to him and the like, but that he may be given the gift of knowledge and such like. "Treatment with reverence" (poojyah) is a general term. Therefore it means that if a man has devotion to Bhagavān, he should be treated with as much respect as the śāstras permit. Its purport is merely this much, that if a man treats such a devotee in the same way as he would treat others of the same caste, he would go to hell. The great sage summarised this in the śloka “He who treats a devotee of Bhagavān, be he a Śūdra, a huntsman, or even a man who eats dog's flesh, as he would treat other men of these castes - he would go to hell." Therefore the potency of devotion to Bhagavān should be so estimated as not to infringe the regulations of caste.
+<details><summary>मूलम्</summary>
+
+इवर्गळै सजातीयरोडॊक्क निऩैत्तवज्ञै पण्णिऩ पोदु नरकमामॆऩ्ऱिव्वळविले तात्पर्यम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थत्तै 
+
+> ‘‘यश् शूद्रं भगवद्-भक्तं’’  
+(इतिहास-समुच्चयः २७-२६) 
+
+ऎऩ्ऱु तुडङ्गि महर्षि संग्रहित्ताऩ्।
+</details>
+
+<details><summary>English</summary>
+
+The great sage summarised this in the śloka 
+
+> “He who treats a devotee of Bhagavān,  
+be he a Śūdra, a huntsman, or even a man who eats dog's flesh,  
+as he would treat other men of these castes -  
+he would go to hell." 
+</details>
+
+<details><summary>Español</summary>
+
+El gran sabio **resumió** esto en el Śloka
+
+> "El que **trata** a un **devoto** de Bhagavān,  
+ya **sea** un Śūdra, un **cazador**, o incluso un hombre que **come** carne de perro,  
+Como **trataría** a otros hombres de estas castas -   
+Él **iría** al infierno ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै ‘‘यश्शूद्रं भगवद्भक्तं’’(इतिहास-समुच्चयः २७-२६) ऎऩ्ऱु तुडङ्गि महर्षि संग्रहित्ताऩ्।
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् जाति-व्यवस्थै कुलैयादे निऱ्क  
+भागवत-प्रभावं कण्डु-गॊळ्वदु।
+</details>
+
+<details><summary>English</summary>
+
+Therefore the potency of devotion to Bhagavān should be so estimated as not to infringe the regulations of caste.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, la potencia de la **devoción** a Bhagavān **debería ser tan estimado**  
+como para **no infringir** las regulaciones de la casta.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् जातिव्यवस्थै कुलैयादे निऱ्क भागवतप्रभावम्गण्डुगॊळ्वदु।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-अतो जातेर्निकृष्टायास्सर्वस्या वा विनाशतः । साजात्यं विष्णुभक्तानामिति मन्दमिदं वचः ॥  
-वैष्णवत्वेन मान्यत्वं समानं मुनि सम्मतम् । जात्यादिध्वंसतस्साम्यं मुक्तिकाले भविष्यति ॥
+अतो जातेर् निकृष्टायास्  
+सर्वस्या वा **विनाशतः** ।  
+साजात्यं विष्णु-भक्तानाम्  
+इति मन्दम् इदं वचः ॥  
+</details>
+
+<details><summary>English</summary>
+
+Therefore the contention that all devotees of Viṣṇu are of the same caste  
+either because of the lower caste perishing or of all castes perishing--  
+this contention is foolish. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, la **afirmación** de que todos los devotos de Viṣṇu **son** de la misma casta  
+ya **sea** por la casta inferior que **perecía** o de todas las castas que **perecían**  
+Esta afirmación **es** tonta.
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 अतो जातेर्निकृष्टायास्सर्वस्या वा विनाशतः । साजात्यं विष्णुभक्तानामिति मन्दमिदं वचः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वैष्णवत्वेन मान्यत्वं  
+समानं मुनि सम्मतम् ।  
+जात्य्-आदि-ध्वंसतस् साम्यं  
+मुक्ति-काले **भविष्यति** ॥
+</details>
+
+<details><summary>English</summary>
+
+Reverence for the sake of devotion to Bhagavān is common, according to the sages, to all.  
+Equality by the destruction of castes and the like  
+will occur (only) at the time of mukti.
+</details>
+
+<details><summary>Español</summary>
+
+La reverencia por el bien de la devoción a Bhagavān **es** común, según los sabios, a todos.  
+Igualdad por la **destrucción** de castas y similares  
+**ocurrirá** (solo) en el momento de Mukti.
+</details>
+
+<details><summary>मूलम्</summary>
+
 वैष्णवत्वेन मान्यत्वं समानं मुनि सम्मतम् । जात्यादिध्वंसतस्साम्यं मुक्तिकाले भविष्यति ॥
 </details>
 
-Therefore the contention that all devotees of Viṣṇu are of the same caste either because of the lower caste perishing or of all castes perishing--this contention is foolish. Reverence for the sake of devotion to Bhagavān is common, according to the sages, to all. Equality by the destruction of castes and the like will occur (only) at the time of mukti.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-In the Bhagavadgītā and elsewhere, in such passages as the following, the regulations and limits of the respective castes and regulations of conduct in accordance with castes have been declared in unequivocal terms, even in the case of men who have devotion to Bhagavān:-"Women," Vaiśyas and Śūdras, even among these, whoever seek me as refuge will attain the highest state". "The man who is absorbed in the performance of the duties and rites pertaining to his caste will attain the supreme end of life. Learn from me how this happens. The man attains his end by worshipping Bhagavān with the performance of his ordained karma"; "Therefore the Śūdra should not utter my names with the praṇava (aum)", "Bhagavān who is the Supreme Person is adored by the man who performs the duties and rites of his varṇa and his āśrama. There is nothing which delights Bhagavān other than this". "The man who does not deviate in the least from the karmas ordained for his caste, who considers alike those who wish him well and those who wish him ill, and who never deprives another of what belongs to him and never does any action of violence (himsā) - know that this man who has a mind free from faults like desire is a devotee of Viṣṇu". Thus the virtue of being a devotee of Bhagavān and the specific fruit which will result from it (mukti) are common, whereas diversity of castes and diversity of codes of conduct persist (uptil mukti). This is evident from such passages as this." The Śūdra is ( really) "fortunate and Kaliyuga is (really ) fortunate".
+भगवद्-गीतादिगळिलुम् 
+
+> ‘‘स्त्रियो वैश्यास् तथा शूद्रास्   
+तेऽपि यान्ति परां गतिम्।’’  
+(गीता ९-३२), 
+</details>
+
+<details><summary>English</summary>
+
+In the Bhagavadgītā and elsewhere, in such passages as the following, 
+
+> "Women, Vaiśyas and Śūdras, even among these,  
+whoever seek me as refuge will attain the highest state". 
+
+</details>
+
+<details><summary>Español</summary>
+
+En el bhagavadgītā y en otros lugares, en pasajes como los **siguientes**,
+
+> "Mujeres, Vaiśyas y Śūdras, **incluso** entre estos,
+Quien **me busque** como **refugio alcanzará** el estado más alto ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवद्गीतादिगळिलुम् ‘‘स्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम्’’(गीता ९-३२), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘स्वे स्वे कर्मण्य् **अभिरतस्**  
+संसिद्धिं **लभते** नरः ।  
+स्व-कर्म-निरतस् सिद्धिं  
+यथा **विन्दति** तच् छृणु ।  
+स्व-कर्मणा तम् **अभ्यर्च्य**  
+सिद्धिं **विन्दति** मानवः । ’’  
+(गीता १८-४५, ४६)
+</details>
+
+<details><summary>English</summary>
+
+> "The man who is absorbed in the performance of the duties and rites pertaining to his caste  
+will attain the supreme end of life.  
+Learn from me how this happens.  
+The man attains his end by worshipping Bhagavān with the performance of his ordained karma"; 
+</details>
+
+<details><summary>Español</summary>
+
+> "El hombre que **está absorto** en el **desempeño** de los deberes y ritos relacionados con su casta  
+**alcanzará** el final supremo de la vida.  
+**Aprenda** de mí cómo **sucede** esto.  
+El hombre **alcanza** su fin **adorando** a Bhagavān con la **actuación** de su karma **ordenado** ";
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘स्वे स्वे कर्मण्यभिरतस्संसिद्धिं लभते नरः । स्वकर्मनिरतस्सिद्धिं यथा विन्दति तच्छृणु । स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः । ’’(गीता १८-४५, ४६)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘तस्मात्सप्रणवं शूद्रो मन्नामानि न कीर्तयेत्’’(भारतम् आश्वमेधिक-पर्व ११८-१४), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘तस्मात्सप्रणवं शूद्रो मन्नामानि न कीर्तयेत्’’(भारतम् आश्वमेधिक-पर्व ११८-१४), 
+</details>
+
+
+the regulations and limits of the respective castes and regulations of conduct in accordance with castes have been declared in unequivocal terms, even in the case of men who have devotion to Bhagavān:-
+
+
+"Therefore the Śūdra should not utter my names with the praṇava (aum)", "Bhagavān who is the Supreme Person is adored by the man who performs the duties and rites of his varṇa and his āśrama. There is nothing which delights Bhagavān other than this". "The man who does not deviate in the least from the karmas ordained for his caste, who considers alike those who wish him well and those who wish him ill, and who never deprives another of what belongs to him and never does any action of violence (himsā) - know that this man who has a mind free from faults like desire is a devotee of Viṣṇu". Thus the virtue of being a devotee of Bhagavān and the specific fruit which will result from it (mukti) are common, whereas diversity of castes and diversity of codes of conduct persist (uptil mukti). This is evident from such passages as this." The Śūdra is ( really) "fortunate and Kaliyuga is (really ) fortunate".
 
 SATTVAM OF THE BODY AND SATTVAM OF THE MIND.
 
