@@ -3086,6 +3086,7 @@ Igualdad por la **destrucción** de castas y similares
 वैष्णवत्वेन मान्यत्वं समानं मुनि सम्मतम् । जात्यादिध्वंसतस्साम्यं मुक्तिकाले भविष्यति ॥
 </details>
 
+### इतिहासादिषु प्रमाणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवद्-गीतादिगळिलुम् 
@@ -3154,7 +3155,26 @@ El hombre **alcanza** su fin **adorando** a Bhagavān con la **actuación** de s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘‘तस्मात्सप्रणवं शूद्रो मन्नामानि न कीर्तयेत्’’(भारतम् आश्वमेधिक-पर्व ११८-१४), 
+> ‘‘तस्मात् स-प्रणवं शूद्रो  
+मन्-नामानि न कीर्तयेत्’’  
+(भारतम् आश्वमेधिक-पर्व ११८-१४), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तस्मात् स-प्रणवं शूद्रो  
+मन्-नामानि न कीर्तयेत्’’  
+(भारतम् आश्वमेधिक-पर्व ११८-१४), 
+</details>
+
+<details><summary>English</summary>
+
+> "Therefore the Śūdra should not utter my names with the praṇava (aum)", 
+</details>
+
+<details><summary>Español</summary>
+
+> "Por lo tanto, el Śūdra **no debería pronunciar** mis nombres con la praṇava (aum)",,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3162,13 +3182,227 @@ El hombre **alcanza** su fin **adorando** a Bhagavān con la **actuación** de s
 ‘‘तस्मात्सप्रणवं शूद्रो मन्नामानि न कीर्तयेत्’’(भारतम् आश्वमेधिक-पर्व ११८-१४), 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-the regulations and limits of the respective castes and regulations of conduct in accordance with castes have been declared in unequivocal terms, even in the case of men who have devotion to Bhagavān:-
+> ‘‘वर्णाश्रमाचारवता  
+पुरुषेण परः पुमान् ।  
+विष्णुर् **आराध्यते** पन्था  
+नान्यस् तत्-**तोष-कारकः**॥’’  
+(विष्णुपुराणम् ३-८-९), 
+</details>
 
 
-"Therefore the Śūdra should not utter my names with the praṇava (aum)", "Bhagavān who is the Supreme Person is adored by the man who performs the duties and rites of his varṇa and his āśrama. There is nothing which delights Bhagavān other than this". "The man who does not deviate in the least from the karmas ordained for his caste, who considers alike those who wish him well and those who wish him ill, and who never deprives another of what belongs to him and never does any action of violence (himsā) - know that this man who has a mind free from faults like desire is a devotee of Viṣṇu". Thus the virtue of being a devotee of Bhagavān and the specific fruit which will result from it (mukti) are common, whereas diversity of castes and diversity of codes of conduct persist (uptil mukti). This is evident from such passages as this." The Śūdra is ( really) "fortunate and Kaliyuga is (really ) fortunate".
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘वर्णाश्रमाचारवता  
+पुरुषेण परः पुमान् ।  
+विष्णुर् **आराध्यते** पन्था  
+नान्यस् तत्-**तोष-कारकः**॥’’  
+(विष्णुपुराणम् ३-८-९), 
+</details>
+
+<details><summary>विषयः</summary>
+
+वर्णाश्रमधर्मः, भागवतः, आराधनम्
+</details>
+
+
+<details><summary>English</summary>
+
+> "Bhagavān who is the Supreme Person  
+is adored by the man who performs the duties and rites of his varṇa and his āśrama.  
+There is nothing which delights Bhagavān other than this". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Bhagavān quien **es** la persona suprema  
+**es adorado** por el hombre que **realiza** los deberes y ritos de su varṇa y su āśrama.  
+**No hay** nada que **deleite** a Bhagavān aparte de esto ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘वर्णाश्रमाचारवतापुरुषेण परः पुमान् । विष्णुराराध्यते पन्था नान्यस्तत्तोषकारकः’’(विष्णुपुराणम् ३-८-९), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न चलति निज-वर्ण-धर्मतो य’’  
+(विष्णुपुराणम् ३-७-२०) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न चलति निज-वर्ण-धर्मतो य’’  
+(विष्णुपुराणम् ३-७-२०) 
+</details>
+
+
+<details><summary>English</summary>
+
+> "The man who does not deviate in the least from the karmas ordained for his caste,  
+who considers alike  
+those who wish him well  
+and those who wish him ill,  
+and who never deprives another of what belongs to him  
+and never does any action of violence (himsā) -  
+know that this man, who has a mind free from faults like desire,  
+is a devotee of Viṣṇu". 
+</details>
+
+<details><summary>Español</summary>
+
+> "El hombre que **no se desvía** en lo más mínimo de los karmas **ordenados** por su casta,  
+que **considera** igual  
+los que le **desean** bien  
+y aquellos que le **desean** enfermo  
+y quien **nunca priva** a otro de lo que le pertenece  
+y **nunca hace** alguna **acción** de violencia (himsā) -  
+**Sepa** que este hombre, que **tiene** una mente libre de fallas como el deseo,
+**es** un devoto de Viṣṇu ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न चलति निजवर्णधर्मतो य’’(विष्णुपुराणम् ३-७-२०) 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळाले  
+भागवतऩुक्के यथा-पूर्वं जाति-व्यवस्थैयुम्  
+अदुक्क् अनुरूपम् आऩ वृत्त-व्यवस्थैयुम्  
+सु-स्पष्टम् आगच् चॊल्लप् पट्टदु।
+</details>
+
+<details><summary>English</summary>
+
+The regulations and limits of the respective castes and regulations of conduct in accordance with castes have (thus) been declared in unequivocal terms,  
+even in the case of men who have devotion to Bhagavān.
+</details>
+
+<details><summary>Español</summary>
+
+Las regulaciones y límites de las respectivas castas y regulaciones de conducta de **acuerdo** con las castas **han sido** (por lo tanto) en términos inequívocos,  
+Incluso en el caso de los hombres que **tienen devoción** a Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळाले भागवतऩुक्के यथापूर्वं जातिव्यवस्थैयुमदुक्कनुरूपमाऩ वृत्तव्य वस्थैयुम् सुस्पष्टमागच् चॊल्लप्पट्टदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि 
+
+> भागवतत्वम् आगिऱ गुणमुम्,  
+अद्-अडियाग वरुम् पुरुषार्थ-विशेषमुम्,  
+समानम् आय् इरुक्क 
+</details>
+
+<details><summary>English</summary>
+
+Thus  
+the virtue of being a devotee of Bhagavān  
+and the specific fruit which will result from it (mukti) are common,  
+</details>
+
+<details><summary>Español</summary>
+
+De este modo  
+la virtud de **ser** un **devoto** de Bhagavān  
+y la fruta específica que **resultará** de él (mukti) **son** comunes,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि भागवतत्वमागिऱ गुणमुम्, अदडियाग वरुम् पुरुषार्थ विशेषमुम् समानमायिरुक्क जातिविशेषङ्गळुम् वृत्ति विशेषङ्गळुम् नित्यव्यवस्थिङ्गळॆऩ्ऩुमिडम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> जाति-विशेषङ्गळुम् वृत्ति-विशेषङ्गळुम्  
+नित्य-व्यवस्थिङ्गळ्  
+
+ऎऩ्ऩुम् इडम् 
+</details>
+
+<details><summary>English</summary>
+
+whereas diversity of castes and diversity of codes of conduct persist (up till mukti). 
+</details>
+
+<details><summary>Español</summary>
+
+mientras que la diversidad de castas y diversidad de códigos de conducta **persisten** (a Muktii).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जाति-विशेषङ्गळुम् वृत्ति-विशेषङ्गळुम्  
+नित्य-व्यवस्थिङ्गळ् ऎऩ्ऩुम् इडम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “शूद्रस् साधुः कलिस् साधुर्’’  
+(विष्णुपुराणम् ६-२-६)  
+
+इत्य्-आदिगळालुम् प्रसिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “शूद्रस् साधुः कलिस् साधुर्’’  
+(विष्णुपुराणम् ६-२-६)  
+
+</details>
+
+<details><summary>English</summary>
+
+This is evident from such passages as this -  
+
+> " The Śūdra is ( really) fortunate  
+and Kaliyuga is (really ) fortunate".
+</details>
+
+<details><summary>Español</summary>
+
+Esto **es** evidente por pasajes como este -
+
+> "El Śūdra **es** (realmente) afortunado  
+Y Kaliyuga **es** (realmente) afortunado ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+“शूद्रस्साधुः कलिस्साधुर्’’(विष्णुपुराणम् ६-२-६)  इत्यादिगळालुम् प्रसिद्धम्। 
+</details>
+
+
+
+<details><summary>English</summary>
 
 SATTVAM OF THE BODY AND SATTVAM OF THE MIND.
+</details>
+
+<details><summary>Español</summary>
+
+Sattvam del cuerpo y sattvam de la mente.
+</details>
+
+
 
 It has been said, "Tamas" (ignorance, sloth etc., ) is found in great measure in the Śūdra, rajas in the Kṣatriya and sattvam in the Brahmin". Owing to the preponderance of such qualities as sattvam, in the body, a man is entitled to be called a Brahmin, a Kṣatriya and the like. But this is different from the praise of being a Brahmin that is often given in certain passages, owing to the quality of sattvam and the like in the mind. The qualities of caste pertaining to the body which are due to the special qualities of the body arise even at the time of birth and remain until death. The Brahmin-like qualities which arise out of the preponderance of sattvam in the mind may be present in all castes. In such as Prahlāda they are present even at the time of birth. In others, owing to such specific causes as contact with āchāryas, these (mental) qualities are acquired (later). Some (texts in the) śāstras are applicable to a person as a consequence of the particular caste pertaining to the body. Owing to the Brahmin-like qualities (of the mind) and the like, the attainment of the supreme end of life and the upāyas therefor and also such things as eulogy may be found in all castes. If in a Brahmin are found such features as are incongruous (with his caste), it will meet with censure that, born in a caste which is declared by the Śāstras as being capable of such virtues as self restraint and mental serenity, he lapsed from the condition suitable to him. If a man born in other castes acquires the higher virtues, he will be extolled bigbly as stated in the śloka :-"Men are to be honoured in the following order of preference--for the possession of vidyā (jñāna), of right karma, of age, of relatives and of wealth. Even a Śūdra possessing these is fit to be honoured in old age".
 
