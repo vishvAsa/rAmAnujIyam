@@ -182,11 +182,12 @@ title = "०३ श्रीवचनम्"
 
 श्लोकः प्रक्षिप्तोऽत्र??
 
-First half indicates the thought that the bhashya is only for attracting outsiders.  
+First half indicates the thought that the bhashya is only for entertaining outsiders.  
 The second half seems to address those disturbed by as per the first half.
-Now the ambiguous thing is if it addresses those who hold that the first half is right or those who are disturbed by others holding that the first half is right.
 
-In either case, it seems something appended by a reader (weird place).
+It seems something appended by a reader (weird place).
+
+The following sources all contain it -
 
 Source: [melukoTe](https://archive.org/details/gadyatrayamramanujacharyasrutaprakasikabhasyasudarsanasurirahasyaraksavedantades/page/20/mode/1up)  
 प्रतिवादिभयङ्करार्यप्रकाशितेऽप्य् अस्ति।   
