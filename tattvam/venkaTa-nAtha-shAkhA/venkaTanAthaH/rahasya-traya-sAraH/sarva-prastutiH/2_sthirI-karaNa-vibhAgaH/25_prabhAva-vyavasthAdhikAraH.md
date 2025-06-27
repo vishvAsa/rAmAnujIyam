@@ -2826,6 +2826,12 @@ cuando **han perdido** su rumbo.
 इप्-प्रकारङ्गळ् इव्व्-इतिहासङ्गळिले कण्डु गॊळ्वदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इमे प्रकाराः एष्व् इतिहासेषु द्रष्टव्याः । 
+</details>
+
+
 <details><summary>English</summary>
 
 This is how the incidents in the Itihasas should be understood.
@@ -2894,6 +2900,15 @@ y de él **tomar es apropiado**.
 ऎऩ्ऱु व्याख्यानम् पण्णिऩार्गळ् +++(पॆरियव्-आचाऩ्)+++। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> इति वचनमपि न कन्या-दानादिपरम्,  
+किन्तु ज्ञान-प्रदानादि-परम् 
+
+इति व्याचख्युः । 
+</details>
+
+
 <details><summary>English</summary>
 
 This śloka has been commented upon (by Peria Achan Pillai) as meaning  
@@ -2920,6 +2935,17 @@ pero que **se le puede dar** el don del **conocimiento** y como.
 भागवतत्वम् उण्डाऩाल्  
 सर्वरुम् शास्त्रञ् जॊऩ्ऩ मट्टुक्कळिले आदरणीयर्,
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२३७]] 
+
+
+"पूज्य" इति शब्दस्य साधारणत्वात्,  
+भागवतत्वे सति  
+सर्वेऽपि यथा-शास्त्रोक्त-मर्यादम् आदरणीयाः ; 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2949,6 +2975,16 @@ Debe **ser tratado** con tanto respeto como el permiso Śāstras.
 
 ऎऩ्ऱ् इव्व्-अळविले तात्पर्यम्।+++(4)+++
 </details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एषां स-जातीय-साम्य-बुद्ध्या ऽवज्ञाने कृते सति  
+नरको भवति
+
+इत्य् एतावत्य् एव तात्पर्यम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2981,6 +3017,16 @@ Si un hombre **trata** a un devoto de la misma manera que **trataría** a otros 
 
 ऎऩ्ऱु तुडङ्गि महर्षि संग्रहित्ताऩ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमम् अर्थं- 
+
+> "यः शूद्रं भगवद्-भक्तम्" 
+
+इत्य्-आरभ्य महर्षिः संजग्राह । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3015,6 +3061,13 @@ Como **trataría** a otros hombres de estas castas -
 भागवत-प्रभावं कण्डु-गॊळ्वदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो जाति-व्यवस्था यथा क्षोभ-रहिता वर्तेत,  
+तथा भागवत-प्रभावो द्रष्टव्यः । 
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore the potency of devotion to Bhagavān should be so estimated as not to infringe the regulations of caste.
@@ -3040,6 +3093,15 @@ como para **no infringir** las regulaciones de la casta.
 इति मन्दम् इदं वचः ॥  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो जातेर् निकृष्टायास्  
+सर्वस्या वा **विनाशतः** ।  
+साजात्यं विष्णु-भक्तानाम्  
+इति मन्दम् इदं वचः ॥  
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore the contention that all devotees of Viṣṇu are of the same caste  
@@ -3062,10 +3124,19 @@ Esta afirmación **es** tonta.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैष्णवत्वेन मान्यत्वं  
-समानं मुनि सम्मतम् ।  
+समानं मुनि-सम्मतम् ।  
 जात्य्-आदि-ध्वंसतस् साम्यं  
 मुक्ति-काले **भविष्यति** ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+वैष्णवत्वेन मान्यत्वं  
+समानं मुनि-सम्मतम् ।  
+जात्य्-आदि-ध्वंसतस् साम्यं  
+मुक्ति-काले **भविष्यति** ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3095,6 +3166,16 @@ Igualdad por la **destrucción** de castas y similares
 तेऽपि यान्ति परां गतिम्।’’  
 (गीता ९-३२), 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवद्-गीतादिषु, 
+
+> ‘‘स्त्रियो वैश्यास् तथा शूद्रास्   
+तेऽपि यान्ति परां गतिम्।’’  
+(गीता ९-३२), 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3130,6 +3211,19 @@ Quien **me busque** como **refugio alcanzará** el estado más alto ".
 सिद्धिं **विन्दति** मानवः । ’’  
 (गीता १८-४५, ४६)
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘स्वे स्वे कर्मण्य् **अभिरतस्**  
+संसिद्धिं **लभते** नरः ।  
+स्व-कर्म-निरतस् सिद्धिं  
+यथा **विन्दति** तच् छृणु ।  
+स्व-कर्मणा तम् **अभ्यर्च्य**  
+सिद्धिं **विन्दति** मानवः । ’’  
+(गीता १८-४५, ४६)
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -3280,6 +3374,13 @@ y **nunca hace** alguna **acción** de violencia (himsā) -
 सु-स्पष्टम् आगच् चॊल्लप् पट्टदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आदिभिर् भागवतस्यैव यथा-पूर्वं जातिव्यवस्था, तद्-अनुरूप-वृत्त-व्यवस्था च  
+सुस्पष्टं प्रतिपादिता । 
+</details>
+
+
 <details><summary>English</summary>
 
 The regulations and limits of the respective castes and regulations of conduct in accordance with castes have (thus) been declared in unequivocal terms,  
@@ -3308,6 +3409,16 @@ Incluso en el caso de los hombres que **tienen devoción** a Bhagavān.
 समानम् आय् इरुक्क 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं 
+
+> भागवतत्व-रूपे गुणे  
+तन्-निबन्धने पुरुषार्थ-विशेषे च समाने सत्य् एव  
+
+</details>
+
+
 <details><summary>English</summary>
 
 Thus  
@@ -3335,6 +3446,14 @@ y la fruta específica que **resultará** de él (mukti) **son** comunes,
 
 ऎऩ्ऩुम् इडम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> जाति-विशेषाः वृत्ति-विशेषाश् च नित्य-व्यवस्थिता 
+
+इत्य् अयम् अर्थः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3367,7 +3486,10 @@ mientras que la diversidad de castas y diversidad de códigos de conducta **pers
 > “शूद्रस् साधुः कलिस् साधुर्’’  
 (विष्णुपुराणम् ६-२-६)  
 
+इत्य्-आदिष्व् अपि प्रसिद्धः । 
 </details>
+
+
 
 <details><summary>English</summary>
 
@@ -3391,7 +3513,7 @@ Y Kaliyuga **es** (realmente) afortunado ".
 </details>
 
 
-
+### शारीर-मानस-गुण-भेदः
 <details><summary>English</summary>
 
 SATTVAM OF THE BODY AND SATTVAM OF THE MIND.
@@ -3402,21 +3524,785 @@ SATTVAM OF THE BODY AND SATTVAM OF THE MIND.
 Sattvam del cuerpo y sattvam de la mente.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तमश् शूद्रे, रजः क्षत्रे,  
+ब्राह्मणे सत्त्वम् उत्कटम्।’’  
+(भारतम् आश्वमेधिक-पर्व ४०-११)  
+
+इत्य्-आदिगळिऱ् सॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तमश् शूद्रे, रजः क्षत्रे,  
+ब्राह्मणे सत्त्वम् उत्कटम्।’’  
+(भारतम् आश्वमेधिक-पर्व ४०-११)  
+
+इत्य्-आदिषूक्त-रीत्या 
+</details>
+
+<details><summary>English</summary>
+
+It has been said, 
+
+> "Tamas (ignorance, sloth etc., ) is found in great measure in the Śūdra,  
+rajas in the Kṣatriya and sattvam in the Brahmin". 
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho**,
+
+> "Tamas (ignorancia, perezoso, etc.) **se encuentra** en gran medida en Śūdra,
+Rajas en Kṣatriya y Sattvam en el brahmán ".
+</details>
 
 
-It has been said, "Tamas" (ignorance, sloth etc., ) is found in great measure in the Śūdra, rajas in the Kṣatriya and sattvam in the Brahmin". Owing to the preponderance of such qualities as sattvam, in the body, a man is entitled to be called a Brahmin, a Kṣatriya and the like. But this is different from the praise of being a Brahmin that is often given in certain passages, owing to the quality of sattvam and the like in the mind. The qualities of caste pertaining to the body which are due to the special qualities of the body arise even at the time of birth and remain until death. The Brahmin-like qualities which arise out of the preponderance of sattvam in the mind may be present in all castes. In such as Prahlāda they are present even at the time of birth. In others, owing to such specific causes as contact with āchāryas, these (mental) qualities are acquired (later). Some (texts in the) śāstras are applicable to a person as a consequence of the particular caste pertaining to the body. Owing to the Brahmin-like qualities (of the mind) and the like, the attainment of the supreme end of life and the upāyas therefor and also such things as eulogy may be found in all castes. If in a Brahmin are found such features as are incongruous (with his caste), it will meet with censure that, born in a caste which is declared by the Śāstras as being capable of such virtues as self restraint and mental serenity, he lapsed from the condition suitable to him. If a man born in other castes acquires the higher virtues, he will be extolled bigbly as stated in the śloka :-"Men are to be honoured in the following order of preference--for the possession of vidyā (jñāna), of right karma, of age, of relatives and of wealth. Even a Śūdra possessing these is fit to be honoured in old age".
+<details><summary>मूलम्</summary>
 
-If the excellence arising from the body and from the qualities of the mind were to cause pride or arrogance, it would lead to evil consequences. If the inferiority in the one (caste due to the body) and in the other (mental virtues) as described respectively in the following passages, "I was not born in any of the four castes where dharma could be practised.'; and “I was born in a family renowned in the world wherein every one was pure and performed yoga, where every one knew the truth about prakṛti with its three qualities, and the jīvas, where every one had his mind firmly fixed at Thy lotus-like feet and yet I inclined to sin and am now sunk in saṁsāra, O Saviour" -- if these two kinds of inferiority are realised by a person and if it should generate in him kārpaṇya (humility) so that he adopts the particular upāya suitable for his ākiñcanya (helplessness), it will be extolled, because it will lead to the attainment of the ultimate end. Thus though there are regulations regarding castes and the code of conduct pertaining to each caste, there is nothing to prevent a person from being honoured in the mind as established above.
+‘‘तमश्शूद्रे रजः क्षत्रे ब्राह्मणे सत्वमुत्कटम्’’(भारतम् आश्वमेधिक-पर्व ४०-११)  इत्यादिगळिऱ् सॊल्लुगिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्त्वादि-गुण-तारतम्यवत्त् आऩ शरीरत्तिल् ब्राह्मण्यादिगळ् वेऱे;
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२३८]] 
+
+सत्त्वादि-गुण-तारतम्यवति शरीरे  
+ब्राह्मण्यादीन्य् अन्यानि ।  
+
+</details>
+
+
+<details><summary>English</summary>
+
+Owing to the preponderance of such qualities as sattvam, in the body,  
+a man is entitled to be called a Brahmin, a Kṣatriya and the like. 
+</details>
+
+<details><summary>Español</summary>
+
+Debido a la preponderancia de cualidades como Sattvam, en el cuerpo,  
+Un hombre **tiene derecho** a **ser llamado** brahmán, kṣatriya y similares.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सत्त्वादिगुणतारतम्यवत्ताऩ शरीरत्तिल् ब्राह्मण्यादिगळ् वेऱे;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मनस्सिल् सत्त्वादि-गुण-विशेषम् अडिय् आग  
+सर्व-जातिगळिलुम् प्रशंसा-वाक्यङ्गळाले सॊल्लप्पट्ट ब्राह्मण्यादिगळुम् वेऱे। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मनसि सत्त्वादि-गुण-विशेष-निबन्धनानि  
+प्रशंसा-वाक्यैः सर्व-जातिष्व् अपि प्रतिपादितानि ब्राह्मण्य्-आदीन्य् अन्यानि । 
+</details>
+
+
+<details><summary>English</summary>
+
+But this is different from the praise of being a Brahmin that is often given in certain passages,  
+owing to the quality of sattvam and the like in the mind.
+</details>
+
+<details><summary>Español</summary>
+
+Pero esto **es** diferente de los elogios de ser un brahmán que a menudo **se da** en ciertos pasajes,  
+Debido a la calidad de Sattvam y similares en la mente.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मनस्सिल् सत्त्वादिगुणविशेषमडियाग सर्वजातिकळिलुम् प्रशंसावाक्यङ्गळाले सॊल्लप्पट्ट ब्राह्मण्यादिगळुम् वेऱे। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱिल्  
+शारीर-गुण-विशेषम् अडिय् आग व्यवस्थितङ्गळ् आऩ शारीर-जाति-विशेषङ्गळ्  
+उत्पत्ति-सिद्धङ्गळ् आय्  
+मरणान्तम् आग स्थिरङ्गळ् आय् इरुक्कुम्। 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र शारीर-गुण-विशेष-निबन्धनतया व्यवस्थिताः  शारीर-जति-विशेषा उत्पत्ति-सिद्धा  
+आमरणं स्थिरा भवन्ति । 
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+बन्धु-मित्रादि-सामाजिक-गुणान् अप्य् अत्रान्तर्भाव्यावगन्तुम् उचितम्। 
+</details>
+
+<details><summary>English</summary>
+
+The qualities of caste pertaining to the body  
+which are due to the special qualities of the body  
+arise even at the time of birth  
+and remain until death. 
+</details>
+
+<details><summary>Español</summary>
+
+Las cualidades de la casta **pertenecientes** al cuerpo  
+que **se deben** a las cualidades especiales del cuerpo  
+**surgir** incluso en el momento del **nacimiento**  
+y **permanecer** hasta la muerte.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिल् शारीरगुणविशेषमडियाग व्यवस्थितङ्गळाऩ शारीरजातिविशेषङ्गळ् उत्पत्तिसिद्धङ्गळाय् मरणान्तमाग स्थिरङ्गळायिरुक्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मानसम् आऩ सत्त्वादि-गुणोन्मेषम् अडिय् आगच् चॊल्लुगिऱ ब्राह्मण्यादिगळ्  
+सर्व-जातिगळुक्कुम् संभावितङ्गळ् आय्  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मानस-सत्त्वादि-गुणोन्मेष-निबन्धनतया प्रतिपादिता ब्राह्मण्यादयः  
+सर्व-जातीनाम् अपि संभाविताः 
+</details>
+
+
+<details><summary>English</summary>
+
+The Brahmin-like qualities which arise out of the preponderance of sattvam in the mind  
+may be present in all castes. 
+</details>
+
+<details><summary>Español</summary>
+
+Las cualidades de brahmán que **surgen** de la **preponderancia** de Sattvam en la mente  
+puede **estar presente** en todas las castas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मानसमाऩ सत्वादिगुणोन्मेषमडियागच् चॊल्लुगिऱ ब्राह्मण्यादिगळ् सर्वजातिकळुक्कुम् संभावितङ्गळाय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रह्लादादिगळुक्कु जन्म-सिद्धङ्गळ् आय्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रहादादीनां जन्म-सिद्धा
+</details>
+
+
+<details><summary>English</summary>
+
+In such as Prahlāda they are present even at the time of birth. 
+</details>
+
+<details><summary>Español</summary>
+
+En como Prahlāda **están presentes** incluso en el momento del nacimiento.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रह्लादादिगळुक्कु जन्म-सिद्धङ्गळ् आय्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(तादृशान्)+++ नीक्किय् उळ्ळार्क्कु  
+आचार्य-सम्बन्धादि-हेतुक्कळाले आगन्तुकङ्गळ् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्येषाम् आचार्य-सम्बन्धादि-हेतुभिर् आगन्तुकाश् च भवन्ति । 
+</details>
+
+<details><summary>English</summary>
+
+In others, owing to such specific causes as contact with āchāryas,  
+these (mental) qualities are acquired (later). 
+</details>
+
+<details><summary>Español</summary>
+
+En otros, debido a causas tan específicas como el **contacto** con āchāryas,  
+Estas cualidades (mentales) **se adquieren** (más tarde).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नीक्कियुळ्ळार्क्कु आचार्यसम्बन्धादिहेतुक्कळाले आगन्तुकङ्गळायिरुक्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् शारीर-जाति-विशेषङ्गळैय् इट्टु  
+सिल शास्त्रङ्गळ् नियतङ्गळ् आम्।
+</details>
+
+<details><summary>English</summary>
+
+Some (texts in the) śāstras are applicable to a person as a consequence of the particular caste pertaining to the body. 
+</details>
+
+<details><summary>Español</summary>
+
+Algunos (textos en el) Śāstras **son aplicables** a una persona  
+como consecuencia de la casta particular relacionada con el cuerpo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदिल् शारीरजातिविशेषङ्गळैयिट्टु सिल शास्त्रङ्गळ् नियतङ्गळाम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मानसम् आऩ ब्राह्मण्यादिगळैय् इट्टु  
+अवऱ्ऱुक्क् अनुरूपम् आऩ पुरुषार्थ--तद्-उपायङ्गळुम्, प्रशंसादिगळुम्  
+सर्व-जातियिलुम् भावितङ्गळ् आम्।
+</details>
+
+<details><summary>English</summary>
+
+Owing to the Brahmin-like qualities (of the mind) and the like,  
+the attainment of the supreme end of life and the upāyas therefor  
+and also such things as eulogy may be found in all castes. 
+</details>
+
+<details><summary>Español</summary>
+
+Debido a las cualidades de brahmán (de la mente) y similares,  
+el **logro** del fin de la vida supremo y los upāyas por ello  
+y también cosas como elogio  
+**se pueden encontrar** en todas las castas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मानसमाऩ ब्राह्मण्यादिगळैयिट्टु अवऱ्ऱुक्कनुरूपमाऩ पुरुषार्थतदुपायङ्गळुम् प्रशंसादिगळुम् सर्वजातियिलुम् भावितङ्गळाम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् ब्राह्मणादिगळ् पक्कलिले  
+मानसम् आऩ विपरीताकारङ्गळ् वन्दाल्  
+शम-दमादि-योग्यम् आग शास्त्र-सिद्धमाऩ जन्मत्तिले पिऱन्दु तप्पिऩाऩ्  
+ऎऩ्ऱु मिगवुम् निन्दै किडैक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+If in a Brahmin are found such features as are incongruous (with his caste),  
+it will meet with censure that,  
+born in a caste which is declared by the Śāstras as being capable of such virtues as self restraint and mental serenity,  
+he lapsed from the condition suitable to him. 
+</details>
+
+<details><summary>Español</summary>
+
+Si en un brahmán **se encuentran** características que son incongruentes (con su casta),  
+**se reunirá** con la censura de que,  
+**Nacido** en una casta declarada por los Śāstras como **capaces** de virtudes como la autoestimación y la serenidad mental,  
+**Lapsó** de la condición adecuada para él.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् ब्राह्मणादिगळ् पक्कलिले मानसमाऩ विपरीताकारङ्गळ् वन्दाल् शमदमादियोग्यमाग शास्त्रसिद्धमाऩ जन्मत्तिले पिऱन्दु तप्पिऩाऩॆऩ्ऱु मिगवुम् निन्दै किडैक्कुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जात्य्-अन्तरङ्गळिले पिऱन्दु  
+गुणोत्तरऩ् आय्प् पोन्दाऩ् आगिल् 
+
+> ‘‘एतैस् समेतैश् शूद्रो ऽपि  
+वार्धके मानम् अर्हति।’’  
+(याज्ञवल्क्यस्मृति १-११६) 
+
+इत्य्-आदिगळिऱ् पडिये  
+प्रशंसै मिगवुम् नडक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+If a man born in other castes acquires the higher virtues,  
+he will be extolled highly as stated in the śloka :-
+
+> "Men are to be honoured in the following order of preference--  
+for the possession of vidyā (jñāna), of right karma, of age, of relatives and of wealth.  
+Even a Śūdra possessing these is fit to be honoured in old age".
+</details>
+
+<details><summary>Español</summary>
+
+Si un hombre **nacido** en otras castas **adquiere** las virtudes más altas,  
+**Será exaltado** altamente como **se indica** en el Śloka:-
+
+> "Los hombres **deben ser honrados** en el siguiente orden de preferencia  
+por la **posesión** de Vidyā (jñāna), del karma derecho, de edad, de familiares y de riqueza.  
+Incluso un Śūdra que **posee** estos **es adecuado** para **ser honrado** en la vejez ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जात्यन्तरङ् गळिले पिऱन्दु गुणोत्तरऩाय्प्पोन्दाऩागिल् ‘‘एतैस्समेतैश्शूद्रोऽपिवार्धकेमानमर्हती’’(याज्ञवल्क्यस्मृति १-११६) त्यादिगळिऱ्पडिये प्रशंसै मिगवुम् नडक्कुम्। 
+</details>
+
+### गर्व-कार्पण्ये
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱिल् शारीरम् आयुम् मानसम् आयुम् वरुम् उत्कर्षम्  
+गर्व-हेतुव् आम् आगिल्  
+अनर्थकरम् आम्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+If the excellence arising from the body and from the qualities of the mind  
+were to cause pride or arrogance,  
+it would lead to evil consequences. 
+</details>
+
+<details><summary>Español</summary>
+
+Si la excelencia que **surge** del cuerpo y de las cualidades de la mente  
+debían **causar** orgullo o arrogancia,  
+**conduciría** a malas consecuencias.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिल् शारीरमायुम् मानसमायुम् वरुमुत्कर्षम् गर्वहेतुवामागिलनर्थकरमाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इरण्डु वऴियालुम् उळ्ळव् अपकर्षम् 
+
+> 'कुलङ्गळ् आय् अव् ईर्-इरण्डिल्' +++(न जातः)+++  
+> (तिरुच्चन्दविरुत्तम् ९०),  
+
+ऎऩ्गिऱ बाट्टिलुम्, 
+</details>
+
+<details><summary>English</summary>
+
+If the inferiority in the one (caste due to the body) and in the other (mental virtues)  
+as described respectively in the following passages, 
+
+> "I was not born in any of the four castes where dharma could be practised.'; 
+</details>
+
+<details><summary>Español</summary>
+
+Si la inferioridad en la única (casta debido al cuerpo) y en la otra (virtudes mentales)  
+Como **se describe** respectivamente en los siguientes pasajes,
+
+> "**No nací** en ninguna de las cuatro castas donde se **podía practicar** el dharma".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विरण्डु वऴियालुमुळ्ळवपकर्षम् ’’कुलङ्गळायवीरिरण्डिल्’’(तिरुच्चन्दविरुत्तम् ९०)  ऎऩ्गिऱबाट्टिलुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘जनित्वाहं वंशे’’(आळवन्दार् स्तोत्रम् ६१) 
+
+ऎऩ्गिऱ श्लोकत्तिलुञ् जॊल्लुगिऱ बडिये
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> “I was born in a family renowned in the world wherein every one was pure and performed yoga,  
+where every one knew the truth about prakṛti with its three qualities, and the jīvas,  
+where every one had his mind firmly fixed at Thy lotus-like feet  
+and yet I inclined to sin  
+and am now sunk in saṁsāra, O Saviour" 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> **“Nací** en una familia **reconocida** en el mundo en la que cada uno **era** puro y **realizado** yoga,  
+Donde todos **sabían** la verdad sobre Prakṛti con sus tres cualidades, y los Jīvas,  
+Donde todos **tenían** su mente firmemente **fijada** en tus pies de loto  
+Y sin embargo **me incliné** al pecado  
+y ahora **estoy hundido** en Saṁsāra, oh Salvador "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘जनित्वाहं वंशे’’(आळवन्दार् स्तोत्रम् ६१) ऎऩ्गिऱ श्लोकत्तिलुञ्जॊल्लुगिऱबडिये
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताऩ् निऩ्ऱ निलै तॆळिन्दु  
+कार्पण्यत्तै विळैत्तु  
+अ-किञ्चनाधिकारम् आऩ उपाय-विशेषत्तिले मूट्टुम् आगिल्  
+पुरुषार्थ-कारणम् आगैयाले श्लाघ्यमाम्। 
+</details>
+
+<details><summary>English</summary>
+
+-- if these two kinds of inferiority are realised by a person  
+and if it should generate in him kārpaṇya (humility)  
+so that he adopts the particular upāya suitable for his ākiñcanya (helplessness),  
+it will be extolled,  
+because it will lead to the attainment of the ultimate end. 
+</details>
+
+<details><summary>Español</summary>
+
+-- Si estos dos tipos de inferioridad son **realizados** por una persona  
+y si **se genere** en él kārpaṇya (humildad)  
+para que **adopte** el upāya particular adecuado para su ākiñcanya (impotencia),  
+**se exaltará**,  
+Porque **conducirá** al logro del final final.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ताऩ् निऩ्ऱ निलै तॆळिन्दु कार्पण्यत्तै विळैत्तु अकिञ्चनाधिकारमाऩ उपायविशेषत्तिले मूट्टुमागिल् पुरुषार्थकारणमागैयाले श्लाघ्यमाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिक्कु जाति-व्यवस्थैयुम्  
+जात्य्-अनुरूपम् आऩ वृत्त-व्यस्थैयुम् उण्ड् आऩालुम्  
+
+सर्वरुक्कुम् भागवतत्व-निबन्धनम् आग  
+मुऩ्बु-समर्थित्त--उद्देश्यत्व-प्रतिपत्तिक्कु विरोधम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+Thus though there are regulations regarding castes and the code of conduct pertaining to each caste,  
+there is nothing to prevent a person from being honoured in the mind as established above.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, aunque **hay** regulaciones sobre las castas y el código de **conducta** relacionados con cada casta,  
+**No hay** nada que **evite** que una persona **sea honrada** en la mente  
+como **se estableció** anteriormente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिक्कु जाति व्यवस्थैयुम् जात्यनुरूपमाऩ वृत्तव्यस्थैयुमुण्डाऩालुम् सर्वरुक्कुम् भागवतत्व निबन्धनमाग मुऩ्बु समर्थित्त उद्देश्यत्व प्रतिपत्तिक्कु विरोधमिल्लै। 
+</details>
+
+
+
+
+## परमैकान्तित्वम्
+<details><summary>English</summary>
 
 EKĀNTINS AND PARAMAIKĀNTINS:
+</details>
 
-Among those who are devoted to Bhagavān, those who do not bow to any other deity are Ekāntins (i.e.) men with exclusive devotion to Bhagavān, as stated in the śloka :-- "Exclusive devotion (Ekāntitvam) to Bhagavān is common to all these three. Exclusive devotion consists in indifference to all other deities and in depending on Him alone."
+<details><summary>Español</summary>
 
-Among them the man with jñāna is called Paramaikantin or man with supreme and exclusive devotion to Bhagavān, because he does not want anything else and among these latter, the supreme and exclusive devotion of those who, impatient of delay, have performed bharanyāsa to the Almighty śeṣī, and who, understanding the truth of the śruti that those asking for other things are like putting their money to interest, do not ask even for mokṣa as a reward and consider service (kaiṅkarya) as an end in itself (5) -- the supreme and exclusive devotion of these men is like gold which is sixteen points pure.[^71]
+EKĀNTIN y Paramaikantin:
+</details>
 
-The great sages who can estimate this degree of purity have described, at considerable length, the greatness of these men with supreme and exclusive devotion to Bhagavān, in such treatises as the Mahābhārata.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[^71]: This means cent per cent purity.
+इब् भगवत्-पररिल् 
+
+> ‘‘ऐकान्त्यं भगवत्य् एषां  
+समानम् अधिकारिणाम्’’  
+(गीतार्थ-सङ्ग्रहः २८) 
+
+ऎऩ्गिऱ बडिये  
+</details>
+
+<details><summary>English</summary>
+
+As stated in the śloka :-- 
+
+"Exclusive devotion (Ekāntitvam) to Bhagavān is common to all these three.  
+Exclusive devotion consists in indifference to all other deities  
+and in depending on Him alone."
+</details>
+
+<details><summary>Español</summary>
+
+Como **se indica** en el Śloka:-
+
+"La **devoción** exclusiva (Ekāntitvam) a Bhagavān **es** común a todos estos tres.
+La **devoción** exclusiva **consiste en** indiferencia a todas las demás deidades  
+y **dependiendo** de él solo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इब् भगवत्पररिल् ‘‘ऐकान्त्यं भगवत्येषां समानमधिकारिणाम्’’(गीतार्थ-सङ्ग्रहः २८) ऎऩ्गिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देवतान्तर-स्पर्शम् अऱ्ऱ्-अवर्गळ् एकान्तिगळ्। 
+</details>
+
+<details><summary>English</summary>
+
+Among those who are devoted to Bhagavān,  
+those who do not bow to any other deity are Ekāntins  
+(i.e.) men with exclusive devotion to Bhagavān,  
+</details>
+
+<details><summary>Español</summary>
+
+Entre los que **están dedicados** a Bhagavān,  
+Aquellos que **no se inclinan** ante ninguna otra deidad **son** Ekāntins  
+(**es decir**) hombres con **devoción** exclusiva a Bhagavān.
+</details>
+
+<details><summary>मूलम्</summary>
+
+देवतान्तरस्पर्शमऱ्ऱवर्गळ् एकान्तिकळ्। 
+</details>
+ 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवर्गळिल् वैत्तुक्कॊण्डु 
+
+> ‘‘ज्ञानी तु परमैकान्ती’’  
+(गीतार्थ-सङ्ग्रहः ३२) 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>English</summary>
+
+Among them 
+
+> the man with jñāna is called Paramaikantin  
+or man with supreme and exclusive devotion to Bhagavān, 
+
+</details>
+
+<details><summary>Español</summary>
+
+Entre ellos
+
+> El hombre con jñāna **se llama** Paramaikantin  
+o hombre **con devoción** suprema y exclusiva a Bhagavān,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवर्गळिल् वैत्तुक्कॊण्डु ‘‘ज्ञानी तु परमैकान्ती’’(गीतार्थ-सङ्ग्रहः ३२) ऎऩ्गिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रयोजनान्तर-स्पर्शमुम् अऱ्ऱ्-अवर्गळ् परमैकान्तिकळ्। 
+</details>
+
+<details><summary>English</summary>
+
+because he does not want anything else  
+</details>
+
+<details><summary>Español</summary>
+
+Porque no quiere nada más
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रयोजनान्तरस्पर्शमुमऱ्ऱवर्गळ् परमैकान्तिकळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवर्गळिल् वैत्तुक्कॊण्डु  
+विळम्बाक्षमर् आय्  
+
+सर्व-शक्तिय् आऩ शेषि-पक्कलिले भर-न्यासम् पण्णिच्  
+</details>
+
+<details><summary>English</summary>
+
+and among these latter,  
+the supreme and exclusive devotion of those  
+who, impatient of delay, have performed bharanyāsa to the Almighty śeṣī,  
+</details>
+
+<details><summary>Español</summary>
+
+y entre estos últimos,
+la **devoción** suprema y exclusiva de esos  
+quien, impaciente de demora, **ha realizado** bharanyāsa al todo-poderoso Śeṣī,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवर्गळिल् वैत्तुक्कॊण्डु विळम्बाक्षमराय् सर्वशक्तियाऩ शेषिपक्कलिले भरन्यासम् पण्णिच् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> चॆय्गिऱ कैङ्कर्यत्तुक्कु प्रयोजनान्तरङ् कोलुगै  
+पॊलिसैक्क्+++(=लाभाय [मूल-धनम्])+++ इडुवार् मात्रम् 
+
+ऎऩ्गिऱ श्रुत्यर्थत्तैत् तॆळिन्दु
+</details>
+
+<details><summary>English</summary>
+
+and who, understanding the truth of the śruti that  
+
+> those asking for other things  
+are like putting their money to interest,  
+</details>
+
+<details><summary>Español</summary>
+
+y quién, **entendiendo** la verdad del Śruti que
+
+> Aquellos que **piden** otras cosas  
+son como **poner** su dinero en intereses,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+चॆय्गिऱ कैङ्कर्यत्तुक्कु प्रयोजनान्तरङ् गोलुगै पॊलिसैक्किडुवार् मात्रम् ऎऩ्गिऱ श्रुत्यर्थत्तैत् तॆळिन्दु
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इक् कैङ्कर्यत्तुक्कु मोक्षमुम् प्रयोजनम् ऎऩ्ऱु कोलादे +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+do not ask even for mokṣa as a reward  
+</details>
+
+<details><summary>Español</summary>
+
+**No pidas ni siquiera** a Mokṣa como recompensa
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इक् कैङ्कर्यत्तुक्कु मोक्षमुम् प्रयोजनमॆऩ्ऱु कोलादे 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कैङ्कर्यैक-प्रयोजनर् आय् इरुक्कुम् अवर्गळ् उडैय परमैकान्तित्वम्  
+षोडश-वर्ण-स्वर्णत्तोड् ऒक्कुम्+++(=त्यज्येत)+++ ।
+</details>
+
+<details><summary>English</summary>
+
+and consider service (kaiṅkarya) as an end in itself (5) --  
+the supreme and exclusive devotion of these men is like gold which is sixteen points pure.  
+(This means cent per cent purity)
+</details>
+
+<details><summary>Español</summary>
+
+y **considere** el **servicio** (kaiṅkarya) como un fin en sí mismo (5) -  
+La **devoción** suprema y exclusiva de estos hombres **es** como el oro, que **es** de dieciséis puntos puro.  
+(Esto **significa** un centavo por ciento de pureza)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कैङ्कर्यैकप्रयोजनरायिरुक्कुमवर्गळुडैय परमैकान्तित्वम् षोडशवर्णस्वर्णत्तोडॊक्कुम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इम् माऱ्ऱ्+++(=मानम्)+++ अऱियुम् महर्षिकळ्  
+महा-भारतादिगळिले इप् परमैकान्तिगळ्-उडैय माहात्म्यत्तैप् प्रपञ्चित्तार्गळ्।   
+</details>
+
+<details><summary>English</summary>
+
+The great sages who can estimate this degree of purity  
+have described, at considerable length, the greatness of these men with supreme and exclusive devotion to Bhagavān,  
+in such treatises as the Mahābhārata.
+</details>
+
+<details><summary>Español</summary>
+
+Los grandes sabios que **pueden estimar** este grado de pureza  
+**han descrito**, en una duración considerable, la grandeza de estos hombres con devoción suprema y exclusiva a Bhagavān,  
+En **tratados** como el Mahābhārata.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इम्माऱ्ऱऱियुम् महर्षिकळ् महाभारतादिगळिले इप् परमैकान्तिकळुडैय माहात्म्यत्तैप् प्रपञ्चित्तार्गळ्।   
+</details>
+
+
+
+
+
 
 It is said in the " Vihagendra Saṁhitā" as follows: "The man who is always thinking of Nārāyaṇa - whatever be the calling (vritti) he $ ($ another reading is cheshta (i.e.) movement (instead of vritti)) follows for his living, that is adoration; whatever he says (jalpah) is japam; whatever he sees is meditation or dhyāna; the water that has received contact with his feet is incomparably holy water; whatever is left after he has eaten will purify; his mere words are a sacred mantra: whatever he touches becomes pure." These ślokas, it is true, are authoritative, but "whatever be the calling, that is adoration" does not refer to any calling that is condemned in the śāstras. It means that even if the man is obliged, owing to the unfavourable conditions brought about by place, time and the like, to follow a calling which is not ordained for him, it will be a proper means of obtaining the materials required for the adoration of the Lord, for it has been said: "In times of adversity, a man may follow a calling slightly lower than that prescribed for him." The passage which says : - "Even the sin committed for my sake will be counted as dharma" has also the same purport. If this (interpretation) were not accepted, it would extend even to those callings that are prohibited. Even if the reading (in the śloka cited above) be cheshta ( movement) and not vritti (calling), just like the acts intended for keeping the body alive and those that are enjoined by the śāstra, which are (therefore ) accepted, the word cheshta (movements) would refer to such things as the closing and the opening of the eyes which are natural and which are reckoned in the secret śāstra (i.e.) Bhagavat Śāstra as among [^72] the offerings to the Lord. This will not extend to those movements that are forbidden (in the śāstras). Only those which are not forbidden and which are consistent with one's nature and reason and with śāstra are ordained as fit to be offered. This applies also to the śloka in the Gita which elaborates this idea, namely, “ Whatever you do for the protection of the body, whatever you eat, whatever offerings you make in the fire and whatever tapas you perform, do it, O son of Kunti, as if it were an offering to be placed before me." If, in such cases, any offence is committed against the śāstras, one should perform, on the occasion, expiatory rites which are of the nature of service obligatory for the occasion (naimittika), in accordance with what is competent for one. "Whatever he says (jalpah) is japa" does not refer to vain chattering such as is forbidden in the śloka : “Harsh speech, exaggeration of merits, tale- bearing, inappropriate talk-- these are the four sins of speech." It refers to the series of speeches and counter-speeches that are held by the man with his disciples, preceptors, fellow students, scholars and those who are in pursuit of spiritual excellence in order to teach what is not known, to confirm what is already known or to remove doubts. Or the word jalpah in that śloka might mean the succession of speeches that are made in debate to refute infidels and heretics, for, though it is stated as a general rule, "One should not debate merely for the sake of a quarrel without the desire to know the truth", yet the dharma - śāstras declare: "One should condemn, according to one's ability, those who speak ill of Bhagavān or of one'sācārya". "Whatever he sees is meditation or dhyāna" does not refer to such things as witnessing forbidden dances. It describes how when this man proceeds to render service (kaiṅkarya), whatever object meets his eye appears to him as having Brahman as its inner self, for it has been said, 'I am Hari: all this is Janārdana; the causal substances like mahat and the effects which are producd therefrom are not different from Him. The man who thinks in this manner -- he will never fall a victim to the diseases of pleasure and pain which arise in saṁsāra", So also it is said, “Whatever appears ( before his eyes) is the Supreme Self". The sentence “ T'he water that has received contact with his feet is incomparably holy water" only assigns a superior merit when it is due. When the water from the feet is considered as holy, if there is exclusive devotion to Nārāyaṇa in the person, it is said to be holier than other sacred waters. It does not refer to such things as impure water which may, by chance, come into contact with his feet. The statement "Whatever is left after he has eaten purifies” refers only to certain specific remnants (of food) (ucchishta) which are prescribed as purificatory in contexts like a repeated Upanayana. Owing to the excellence of this quality, (the remnant of the food) is said to have superior purifying power. The words, certainly, do not mean that when disciples, sons and the like are devoted to Nārāyaṇa, whatever is left as remnant after they have eaten is purificatory for ācāryas and parents. It is said in the Sanatkumāra Saṁhitā that the man who has eaten the food that has been offered to other deities or what is left as a remnant after those who are other than gurus have eaten should, for purification, live on milk alone for a month (payovrata), should always utter ashtākṣara and eat also Brahmakurcha - pañcagavya. This passage prescribes the code of conduct for one who follows the dharma of Bhagavān and has been taken for illustration by Aḷavandār in his Āgama Prāmānya. Therefore the verse - "If the *remnant of the food that has been already eaten by the devotees of the Lord is given to me, it will immediately make me pure"--- is only applicable to gurus. Even if it is of general application, it means only this much - "If those who are devotees of the Lord should give me what is left over after their meal, it would purify me, even though they have been obliged, by force of unfavourable circumstances like place and time, to follow occupations lower than those ordained for them and to make others also follow them." In this (Tamil) passage, if the word śeṣa should mean only what is left in the vessels in which the food was cooked as in the question and answer (after a srāddha) - "what is to be done with the food left over ?," and "let it be eaten in the company of friends" - if it should mean only this, there is nothing wrong. The word ucchishta, too, has been employed in the śrutis to mean what is left in the cooking vessel after (people) have dined. Madu and others have determined to this effect :- "One should give up wealth and pleasure (artha and kama) when they are against dharma. Even dharma which is likely to bring suffering or which is likely to rouse disgust among people in the world should be given up".
 
