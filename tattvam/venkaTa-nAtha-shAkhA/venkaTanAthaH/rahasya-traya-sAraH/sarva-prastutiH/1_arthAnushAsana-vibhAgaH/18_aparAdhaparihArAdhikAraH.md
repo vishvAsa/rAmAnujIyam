@@ -3297,7 +3297,6 @@ from such episodes, it is evident that
 even for those who are in immediate contact with Bhagavān,  
 even slight offences against the righteous  
 are productive of evil consequences. 
-
 </details>
 
 <details><summary>Español</summary>
