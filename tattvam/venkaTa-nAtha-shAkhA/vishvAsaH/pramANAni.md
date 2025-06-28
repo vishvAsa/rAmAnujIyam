@@ -117,7 +117,7 @@ For S, BS does not resolve the upaniShadic contradictions (I heard that somewher
 ## इतिहासौ
 "इतिहासपुराणञ् च" TB.3.12.8.2a., "इतिहास-पुराणाभ्यां वेदान् समुपबृंहयेद्" (महाभारतम्) इत्यत्र +इतास-पूर्वनिपातेन व्याकरणोक्तरीत्या +इतिहास-प्रमाणतरत्वम् उच्यते श्रीवैष्णवादिभिः।   
 तत्रापि रामायणं प्रधानम् मन्यन्ते।  
-तेन रामायणाख्यानान्तराणि पुराणपदम् आप्तानि वाल्मिकिकृतेर् अपेक्षया ऽल्पतराणि।
+तेन रामायणाख्यानान्तराणि पुराण-पदम् आप्तानि वाल्मिकि-कृतेर् अपेक्षया ऽवगण्यन्ते।
 
 ## पुराणानि
 पुराणेषु पुनस् तारतम्यं स्वतः पुराणैर् एवोच्यते ।  
@@ -152,10 +152,12 @@ For S, BS does not resolve the upaniShadic contradictions (I heard that somewher
 आऴ्वार्-भक्ताः दिव्यसूरयो ऽवतीर्ण-नित्य-मुक्ता इति वेङ्कटनाथार्य-शाखा।  
 मानुषा एवेति लोकाचार्यशाखा। 
 
-द्राविड-दिव्य-प्रबन्धा अपि वेदतुल्या एवेति विचारेण ज्ञायते।  
+द्राविड-दिव्य-प्रबन्धा अपि वेदतुल्या एवेति प्रशस्यन्ते।  
+यामुन-रामानुजादिभिस् तद्-वचनानि हृदि निधाय व्याख्या रचिताः।  
 किञ्च प्रमाणम् उभय-पक्षाङ्गीकृतं स्याद् इति  
 तानि वाक्यानि नोदाह्रियन्ते सदस्य-ग्रन्थेषु। 
 
+### Limitations
 DP-s are not indispensable, there being lots of other pramANas including pAncharAtras.  
 If one thinks otherwise, as I said, one may have likely misunderstood exultations in AchAryas' kAlaxepas or other works  
 \- just like what the tenkalais do with their AchAryas' words.
@@ -163,6 +165,6 @@ If one thinks otherwise, as I said, one may have likely misunderstood exultation
 Neither do they guarantee correct understanding and practice of vedas (as proved by lokAchArya-branchers).
 
 It's also wrong to think that exposure to DP would have altered shankara's perceptions. S had some exposure to pAncharAtra, but was not as interested in that as he was in the gauDapAda quasi-bauddha view. He knowingly twisted BS. No reason to think exposre to DP would've hindered him.  
-Neither R or VD state this as a reason. Rather, they point out how they have failed to use the shruti/ smRti/ sUtra pramANas properly.
+Neither R or VD state this lack of exposure as a reason. Rather, they point out how they have failed to use the shruti/ smRti/ sUtra pramANas properly.
 
 
