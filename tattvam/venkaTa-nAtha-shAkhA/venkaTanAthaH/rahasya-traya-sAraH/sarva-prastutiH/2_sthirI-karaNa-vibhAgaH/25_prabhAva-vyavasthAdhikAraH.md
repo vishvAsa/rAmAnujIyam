@@ -3679,7 +3679,7 @@ y **permanecer** hasta la muerte.
 <details><summary>नीलमेघः (सं)</summary>
 
 मानस-सत्त्वादि-गुणोन्मेष-निबन्धनतया प्रतिपादिता ब्राह्मण्यादयः  
-सर्व-जातीनाम् अपि संभाविताः 
+सर्व-जातीनाम् अपि संभाविताः … 
 </details>
 
 
@@ -3764,6 +3764,12 @@ Estas cualidades (mentales) **se adquieren** (más tarde).
 सिल शास्त्रङ्गळ् नियतङ्गळ् आम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र शारीर-जाति-विशेष-विषयकतया कानिचिच् छास्त्राणि नियतानि ।  
+</details>
+
+
 <details><summary>English</summary>
 
 Some (texts in the) śāstras are applicable to a person as a consequence of the particular caste pertaining to the body. 
@@ -3786,6 +3792,14 @@ como consecuencia de la casta particular relacionada con el cuerpo.
 अवऱ्ऱुक्क् अनुरूपम् आऩ पुरुषार्थ--तद्-उपायङ्गळुम्, प्रशंसादिगळुम्  
 सर्व-जातियिलुम् भावितङ्गळ् आम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मानस-ब्राह्मण्यादि-विषयकतया  
+तद्-अनुरूपाः पुरुषार्थ--तद्-उपायाः प्रशंसादयश् च  
+सर्व-जातिषु संभाविताः । 
+</details>
+
 
 <details><summary>English</summary>
 
