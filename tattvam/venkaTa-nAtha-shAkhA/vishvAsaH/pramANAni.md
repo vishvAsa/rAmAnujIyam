@@ -1,12 +1,13 @@
 +++
 title = "प्रमाणानि"
 +++
-+++(अत्र रामानुजमतम् प्रतिपाद्यते। )+++
 
-## प्रत्यक्षानुमाने
-"अप्राप्ते शास्त्र अर्थवद्" इति प्रसिद्धोक्तिः। 
+## प्रामाण्य-क्रमः
+श्रीवैष्णवाभ्युपगत-प्रामाण्य-क्रमः (वेङ्कटनाथशाखा) -
 
-## भगवद्-आज्ञा-ज्ञान-क्रमः
+वेदाः, ब्रह्म-सूत्राणि > स्मृतयः > इतिहासौ (रामायणं विशिष्य) > सात्त्विक-पुराणानि (विशिष्य विष्णु-पुराणम्) > प्रसिद्धा वैष्णवा आगमाः, द्रविडगाथाः > राजस-तामस-पुराणानि, इतरागमाः।
+
+### भगवद्-आज्ञा-ज्ञान-क्रमः
 बद्ध-दशायाम् भगवद्-आज्ञा-ज्ञान-क्रमः -
 
 > श्रुति-स्मृत्य्-**आचारैस्**, स्व-मति-गतिभिश् शुद्ध-मनसां,  
@@ -28,7 +29,7 @@ title = "प्रमाणानि"
 अङ्गु ‘‘आत्मनस्तुष्टिरेव च’’ ऎऩ्गिऱबडि तऩ् तुष्टिक्कु विषयमाऩ अन्यतरत्तिल्,  
 स्वमतिगतिभिः - तऩ् बुद्धिप्रवृत्तिकळाले, आदेरभिमतमन्विच्छति ।
 
-### शास्त्रानुसरणम्
+#### शास्त्रानुसरणम्
 बुद्धि-पूर्वकं क्रियमाणेषु शास्त्र-नियमनम् भवति।  
 तत्रापि क्वचित् शास्त्र-कण्ठोक्ति-मात्र-ग्रहणेन लोकाचारातिक्रमे साहसः कृतो दृश्यते। 
 यथा - 
@@ -37,7 +38,7 @@ title = "प्रमाणानि"
 - अन्त्यजस्य महाभक्तस्य स्कन्धय् आरोपणेन +अर्चा-विग्रह-दर्शनम् ब्राह्मण-भक्तेन।  
 - गरुड-स्तम्भं यावद् अस्पृश्यानाम् अपि मन्दिर-प्रवेश-कारणम्। 
 
-### विशेष-विषये
+#### विशेष-विषये
 विशेष-विषये शास्त्रं न वर्तेत,  
 यथा
 
@@ -56,6 +57,47 @@ title = "प्रमाणानि"
 
 इत्यादिभिर् आपद्-धर्मा अप्य् अङ्गीकृताः। 
 
+## प्रत्यक्षानुमाने
+
+> श्रुतोपपत्तये ऽप्य् अनुपपन्नं विरुद्धं च न कल्पनीयम्। - रामानुजः
+
+> अप्राप्ते तु शास्त्रम् अर्थवत्।  - रामानुजः
+
+स एव शब्दानां स्वतः प्रामाण्यम्, परतोऽप्रामाण्यम् आह श्रीभाष्ये।
+
+स एव शाङ्कर-मिथ्या-वाद-खण्डन-प्रकरणे - 
+
+> आकाश-वाय्व्-आदि--भूत--  
+तद्-आरब्ध-शब्द-स्पर्शादि-युक्त-मनुष्यत्वादि--  
+संस्थान-संस्थित-पदार्थ-ग्राहि प्रत्यक्षम् । 
+> 
+> शास्त्रं तु  
+प्रत्यक्षाद्य्--अ-परिच्छेद्य--  
+सर्वान्तरात्मत्व-सत्यत्वाद्य्- 
+अनन्त-विशेषण-विशिष्ट-ब्रह्म--स्व-रूप--  
+तद्-उपासनाद्य्-आराधन-प्रकार-  
+तत्-प्राप्ति-पूर्वक--  
+तत्-प्रसाद-लभ्य-फल-विशेष--  
+तद्-अनिष्ट-करण-मूल--निग्रह-विशेष-विषयम्>   
+इति न शात्र-प्रत्यक्षयोर् विरोधः । 
+
+
+> “परश्-शत-परिक्षोदात्  
+> परस्ताद् अपि वादिभिः ।  
+> **उपलम्भ**-बले **स्थेयं**  
+> किम् आदौ तन् न **गृह्यते**॥"  
+(वेङ्कटनाथः न्यायसिद्धाञ्जनम् जड. परि. ४)
+
+## शब्द-व्याप्तिः
+शास्त्रैकगम्ये विषये  
+युक्तिः शास्त्र-वचनं न प्रतिषेद्धुम् अर्हति।  
+
+> न हि वचनविरोधे न्यायः प्रभवति॥
+
+प्रमाणान्तरगम्ये तु शास्त्रप्राधान्यं न वर्ततय् इत्य् अतस्  
+तत्र विरोधः शक्यः।
+
+
 ## श्रुतिः
 श्रुतिः प्रमाणम्।  
 श्रुति-वाक्ययोर् विरोधे सति  
@@ -63,14 +105,9 @@ title = "प्रमाणानि"
 यथा भेदाभेदश्रुत्योर् घटकश्रुतयः। 
 
 ### ब्रह्म-सूत्राणि, उपनिषदः
-With clarity in the prameya-s in vedArthasangraha (or presumably shrI-bhAShya), there is almost no room for confusion when one encounters upaniShadic contradictions. So, it's natural that R didn't find a need to labor over that; and that his followers mostly feel the same.
+With clarity in the prameya-s in vedArthasangraha (or presumably shrI-bhAShya), there is almost no room for confusion when one encounters upaniShadic contradictions. So, it's natural that R didn't find a need to labor over that; and that his followers mostly feel the same. Yet, rangarAmAnuja, kUranArAyaNa etc.. have commented on some upaniShats.
 
-For S, BS does not resolve the upaniShadic contradictions (I heard that somewhere he clearly says that the sUtra-s have to be somehow interpreted in accordance with upaniShads - ie his bhAShya-s thereof).
-
-## आगमः
-आगमाः पाञ्चरात्रिकास् तद्-अविरोधिन एवेति (विरोध-प्रतिभाने त्व् आगमवाक्यं त्याज्यम् इत्य् आगमप्रामाण्ये)।  
-किञ्च प्रमाणम् उभयपक्षाङ्गीकृतं स्याद् इति  
-तानि वाक्यानि नोदाह्रियन्ते सदस्य-ग्रन्थेषु।
+For S, BS does not resolve the upaniShadic contradictions (I heard that somewhere he clearly says/ implies that the sUtra-s have to be somehow interpreted in accordance with upaniShads - ie his bhAShya-s thereof).
 
 ## स्मृतिः
 **पुराणापेक्षया स्मृतिः प्रबलेति** प्रपन्न-धर्म-सार-समुच्चयः -
@@ -91,11 +128,41 @@ For S, BS does not resolve the upaniShadic contradictions (I heard that somewher
 (अयं न्यायः शठकोपेनापि स्वगाथायां "लिङ्गं वैत्त पुराणम्" इति प्रयोगेणेङ्कितम् इति +ईडु-प्रभृतिषु व्याख्यातम्।)  
 भगवद्-अनुभवे कामं भागवतम् परमम् मन्यताम्।  
 
+
+## आगमः
+आगमाः पाञ्चरात्रिकास् तद्-अविरोधिन एव ग्राह्याः।  
+
+> "विरोध-प्रतिभाने त्व् आगमवाक्यं त्याज्यम्" 
+
+इत्य् आगम-प्रामाण्ये।  
+
+पाञ्चरात्रागमेभ्योऽपि (भगवच्-छास्त्रात्) स्मृतिर् बलीयसीति नडातूर्-अम्माळ्-विरचिते प्रपन्न-पारिजाते -
+
+> वर्णाश्रम-विरुद्धं यन्  
+मन्वाद्य्-उक्तं विशेषतः ।  
+स्वाधिकार-विरुद्धं च  
+शास्त्रोक्तं *न समाचरेत्* ॥ २ ॥
+
+
+किञ्च प्रमाणम् उभय-पक्षाङ्गीकृतं स्याद् इति  
+तानि वाक्यानि नोदाह्रियन्ते सदस्य-ग्रन्थेषु।
+
+
 ## द्राविड-दिव्य-प्रबन्धाः
-आऴ्वार्-भक्ताः दिव्यसूरयो ऽवतीर्णनित्यमुक्ता इति वेङ्कटनाथार्यशाखा।  
+आऴ्वार्-भक्ताः दिव्यसूरयो ऽवतीर्ण-नित्य-मुक्ता इति वेङ्कटनाथार्य-शाखा।  
 मानुषा एवेति लोकाचार्यशाखा। 
 
 द्राविड-दिव्य-प्रबन्धा अपि वेदतुल्या एवेति विचारेण ज्ञायते।  
-किञ्च प्रमाणम् उभयपक्षाङ्गीकृतं स्याद् इति  
+किञ्च प्रमाणम् उभय-पक्षाङ्गीकृतं स्याद् इति  
 तानि वाक्यानि नोदाह्रियन्ते सदस्य-ग्रन्थेषु। 
+
+DP-s are not indispensable, there being lots of other pramANas including pAncharAtras.  
+If one thinks otherwise, as I said, one may have likely misunderstood exultations in AchAryas' kAlaxepas or other works  
+\- just like what the tenkalais do with their AchAryas' words.
+
+Neither do they guarantee correct understanding and practice of vedas (as proved by lokAchArya-branchers).
+
+It's also wrong to think that exposure to DP would have altered shankara's perceptions. S had some exposure to pAncharAtra, but was not as interested in that as he was in the gauDapAda quasi-bauddha view. He knowingly twisted BS. No reason to think exposre to DP would've hindered him.  
+Neither R or VD state this as a reason. Rather, they point out how they have failed to use the shruti/ smRti/ sUtra pramANas properly.
+
 
