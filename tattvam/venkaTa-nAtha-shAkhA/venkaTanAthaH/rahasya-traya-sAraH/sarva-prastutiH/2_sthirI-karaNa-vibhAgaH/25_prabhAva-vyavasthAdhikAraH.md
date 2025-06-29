@@ -3831,6 +3831,16 @@ y también cosas como elogio
 ऎऩ्ऱु मिगवुम् निन्दै किडैक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र ब्राह्मणादिषु मानस-विपरीताकाराणां जनने,  
+
+> शम-दमादि-योग्यतया शास्त्र-सिद्धे जन्मनि जनित्वा भ्रष्ट  
+
+इति अतीव निन्दा प्रवर्तत । 
+</details>
+
+
 <details><summary>English</summary>
 
 If in a Brahmin are found such features as are incongruous (with his caste),  
@@ -3866,6 +3876,19 @@ Si en un brahmán **se encuentran** características que son incongruentes (con 
 प्रशंसै मिगवुम् नडक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+जात्यन्तरेषु जनित्वा गुणोत्तरो वर्तत चेत्,  
+
+> ‘‘एतैस् समेतैश् शूद्रो ऽपि  
+वार्धके मानम् अर्हति।’’  
+(याज्ञवल्क्यस्मृति १-११६) 
+
+इत्य्-आद्य्-उक्त-रीत्या  
+प्रशंसाऽत्यन्तं प्रवर्तत । 
+</details>
+
+
 <details><summary>English</summary>
 
 If a man born in other castes acquires the higher virtues,  
@@ -3900,6 +3923,13 @@ Incluso un Śūdra que **posee** estos **es adecuado** para **ser honrado** en l
 अनर्थकरम् आम्। +++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र शारीरो मानसश् च जायमान उत्कर्षः गर्व-हेतुश् चेत्,  
+अन्-अर्थकरः । +++(5)+++
+</details>
+
+
 <details><summary>English</summary>
 
 If the excellence arising from the body and from the qualities of the mind  
@@ -3929,6 +3959,16 @@ debían **causar** orgullo o arrogancia,
 ऎऩ्गिऱ बाट्टिलुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद्-उभय-प्रकार-सिद्धो ऽपकर्षः 
+
+> "कुलयोर् द्वयोर् द्वयोः" 
+
+इति गाथायाम् 
+</details>
+
+
 <details><summary>English</summary>
 
 If the inferiority in the one (caste due to the body) and in the other (mental virtues)  
@@ -3956,6 +3996,13 @@ Como **se describe** respectivamente en los siguientes pasajes,
 > ‘‘जनित्वाहं वंशे’’(आळवन्दार् स्तोत्रम् ६१) 
 
 ऎऩ्गिऱ श्लोकत्तिलुञ् जॊल्लुगिऱ बडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘जनित्वाहं वंशे’’(आळवन्दार् स्तोत्रम् ६१) 
+
+इति श्लोके चोक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -3995,6 +4042,14 @@ y ahora **estoy hundido** en Saṁsāra, oh Salvador "
 पुरुषार्थ-कारणम् आगैयाले श्लाघ्यमाम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-स्थिति-प्रबोधन-पूर्वकं कार्पण्यम् उत्पाद्य  
+अकिञ्चनाधिकारय् उपाय-विशेषे प्रवर्तयेच् चेत्,  
+पुरुषार्थ-कारणत्वात् श्लाघ्यो भवति । 
+</details>
+
+
 <details><summary>English</summary>
 
 -- if these two kinds of inferiority are realised by a person  
@@ -4027,6 +4082,8 @@ Porque **conducirá** al logro del final final.
 सर्वरुक्कुम् भागवतत्व-निबन्धनम् आग  
 मुऩ्बु-समर्थित्त--उद्देश्यत्व-प्रतिपत्तिक्कु विरोधम् इल्लै। 
 </details>
+
+
 
 <details><summary>English</summary>
 
@@ -4693,7 +4750,6 @@ Y las tapas que **realices**,
 **hazlo**, oh hijo de Kunti,  
 Como si **fuera** una **ofrenda** para colocar ante mí ".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
