@@ -493,7 +493,7 @@ The interpretation (which is given by some) that what is asked to be given up is
 मूण्डालु मरियदनिन् मुयलवेण्डा मुन्नमदिलासैदनै विडुगै तिण्मै  
 वेण्डादु सरणनॆऱि वेऱोर्गूट्टु वेण्डि लयनत्तिरम्बोल् वॆळ्गि निऱ्‌कुम्  
 नीण्डागुनिऱैमदियोर् नॆऱियिऱ्‌कूडा निऩ्ऱनिमै तुणैयाग वॆऩ्ऱन् पादम्  
-पूण्डा लुन्बिऴैगळॆल्लाम् पॊऱुप्पेनॆऩ्ऱ पुण्णियनार् पुगऴनैत्तुम् पुगऴुवोमे. || 42 ||
+पूण्डा लुन्बिऴैगळॆल्लाम् पॊऱुप्पेनॆऩ्ऱ पुण्णियनार् पुगऴनैत्तुम् पुगऴुवोमे. ॥ 42 ॥
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
@@ -501,7 +501,7 @@ The interpretation (which is given by some) that what is asked to be given up is
 मूण्डालु मरियदनिन् मुयलवेण्डा मुन्नमदिलासैदनै विडुगै तिण्मै  
 वेण्डादु सरणनॆऱि वेऱोर्गूट्टु वेण्डि लयनत्तिरम्बोल् वॆळ्गि निऱ्‌कुम्  
 नीण्डागुनिऱैमदियोर् नॆऱियिऱ्‌कूडा निऩ्ऱनिमै तुणैयाग वॆऩ्ऱन् पादम्  
-पूण्डा लुन्बिऴैगळॆल्लाम् पॊऱुप्पेनॆऩ्ऱ पुण्णियनार् पुगऴनैत्तुम् पुगऴुवोमे. || 42 ||
+पूण्डा लुन्बिऴैगळॆल्लाम् पॊऱुप्पेनॆऩ्ऱ पुण्णियनार् पुगऴनैत्तुम् पुगऴुवोमे. ॥ 42 ॥
 </details>
 
 "Do not endeavour to do what is beyond your power though you have begun the attempt; at the outset, it is the part of wisdom to give up the desire to do what lies beyond your ability; the path of prapatti does not require any aids ; if you desire other aids for it, it will lose its potency like the Brahma missile ; you are not among those who have the full knowledge required to follow the path of bhakti  or upāsana, which takes a long time to bear fruit; hence if you seek my feet as your refuge reflecting on your being destitute of other upāyas, I will pardon all your sins": Let us extol the great and good qualities of the holy Śrī Kṛṣṇa who spoke these words.

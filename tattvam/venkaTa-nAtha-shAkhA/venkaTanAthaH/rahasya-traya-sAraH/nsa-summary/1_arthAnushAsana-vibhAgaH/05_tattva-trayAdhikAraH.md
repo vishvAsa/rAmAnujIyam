@@ -21,7 +21,7 @@ It is to be known that all entities other than Paramatman are real and subordina
 ## Prayojana
 In the previous section, the five factors such as the nature of the Prapya and others and the unique relationship between Paramatman and others were taught expressly. Then, where is the need for introducing this section dealing with the three tatvas viz., Prakriti, Jivatman and Paramatman? This verily forms a part of Arthapanchaka. The answer to this question is given by Vedantha Desika in the preliminary verse and further explanation of the meaning of the verse. Every aspirant has to get rid of three powerful illusions - 
 
-1. The illusion that the body itself is the Atman. This is known as '????' || 
+1. The illusion that the body itself is the Atman. This is known as '????' ॥ 
 2. The illusion that the Jivatman is all independent and not subordinated to anyone. This is known as '????'!
 3. The illusion, Most Harmful, that there is no Isvara at all, who is the creator, protector and destructor, and that all the activities of the universe are going on according to their nature. This is known as ????.
 

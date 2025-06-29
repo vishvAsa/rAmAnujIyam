@@ -433,4 +433,4 @@ CIIL
 
 the great Veda Vyasa. This verse is also very dear and pleasing to the Lord, just like that 'Koustubha gem'. Our Acharyas realised that this verse enshrines the supreme meaning of 'sharanagati, as propounded by the shrutis and the smrutis. The path taught in this celebrated verse, is cherished by all people with great respect. The interpretations of our Acharyas happen to be the staircase (a flight of stairs) to the highest place of liberation. The cminent Vyshampayana as well as Shuka, Shounaka, Narada and other celebrated sages nod their heads with joy and appreciation in response to the glorious way of explanation of this great verse. They consider that it is their good fortune to listen to such eminent exposition.
 
-'व्यासाम्नायपयोधि - कौस्तुभनिभं हृद्यं हरेरुत्तमं श्लोकं केचन लोकवेदपदवीविश्वासितार्थं विदुः । येषामुक्तिषु मुक्तिसौघविशिखा सोपानपंक्तिष्वमी ari4144 1445494: 81: For: appa:' ||
+'व्यासाम्नायपयोधि - कौस्तुभनिभं हृद्यं हरेरुत्तमं श्लोकं केचन लोकवेदपदवीविश्वासितार्थं विदुः । येषामुक्तिषु मुक्तिसौघविशिखा सोपानपंक्तिष्वमी ari4144 1445494: 81: For: appa:' ॥

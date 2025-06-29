@@ -110,7 +110,7 @@ There are a number of references in the Tamil Prabhandams, where 'pranava' and '
 
 The meanings that are enshrined in 'pranava' are very many, and 'pranava' is used for offering the atman unto the Paramatman.
 
-'हविर्गृहीत्वात्मरूपं वसुरण्येति मन्त्रतः । जुहुयात्प्रणवेनाग्नौ अच्युताख्ये सनातने' ||
+'हविर्गृहीत्वात्मरूपं वसुरण्येति मन्त्रतः । जुहुयात्प्रणवेनाग्नौ अच्युताख्ये सनातने' ॥
 
 286
 

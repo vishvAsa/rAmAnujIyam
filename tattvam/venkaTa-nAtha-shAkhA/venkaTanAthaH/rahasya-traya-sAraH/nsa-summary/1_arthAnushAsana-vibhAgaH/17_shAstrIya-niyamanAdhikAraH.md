@@ -70,7 +70,7 @@ If there is any transgression, it displeases the Lord and if he does not pray fo
 
 आज्ञानुज्ञाविभागेन द्विधा शास्त्रीयपद्धतिः । निग्रहानुदयायाद्या परा तत्तत्फलामये ॥ अनुज्ञया प्रवृत्तेऽपि क्रमकोपादि संभवे ।
 
-आज्ञातिक्रमदोषस्स्यात् नियमोऽतो दुरत्ययः ||
+आज्ञातिक्रमदोषस्स्यात् नियमोऽतो दुरत्ययः ॥
 
 The code of the shastras is two-fold viz. (1) those that are commanded and (2) those that are permitted. The
 

@@ -15,7 +15,7 @@ Having discussed about the various requirements that are essential for surrender
 
 In the introductory verse, the essential nature of Prapatti is clearly expounded. It is declared here as 'Bharanyasa' preceded by a prayer for protection. The essential nature of Prapatti is Bharanyasa. This is common to all people who seek the Lord to be their chief means of securing their object of desire. For people who aspire for different benefits, other than liberation, Bharanyasa is a necessity; but, surrendering of the 'swarupa' and 'phala' is not required. This entrusting of the burden of securing the object of desire, is to be necessarily combined with a prayer for his protection. The 'yachana' or prayer, signifies
 
-gopertva-varanam'. This means of prapatti also is a kind of knowledge or 'mathi-vishesha'. This kind of understanding is called Prapatti. Prapani is defined as 37ARATE FOR महाविश्वासपूर्वकम् । तदेकोपायता याञ्छा प्रपत्तिः शरणागतिः' || by ancient masters. Desika gives the definition of Prapatti according to this here as follows:
+gopertva-varanam'. This means of prapatti also is a kind of knowledge or 'mathi-vishesha'. This kind of understanding is called Prapatti. Prapani is defined as 37ARATE FOR महाविश्वासपूर्वकम् । तदेकोपायता याञ्छा प्रपत्तिः शरणागतिः' ॥ by ancient masters. Desika gives the definition of Prapatti according to this here as follows:
 
 अभीष्टे दुस्साधे स्वत इतरतो वा क्वचन तत् भरन्यासं याच्नान्वितमभिवदन्ति प्रपदनम् । इतः पश्चादस्मद्यतननिरपेक्षेण भवता समोऽसावर्थस्त्विति मतिविशेषं तदविदुः ॥
 

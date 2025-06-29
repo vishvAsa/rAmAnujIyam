@@ -31,7 +31,7 @@ Acharya Kritya Adhikara
 
 to one who has no devotion towards the teacher as well as the Supreme Paramatman, to one who is not eager to listen to those truths and never to one who sees faults only in the virtues of the Lord and his devotees. Desika quotes this and applies this inter-alia in the case of instruction of these profound truths of the three rahasyas. He who imparts this secret teachings to the devotees of the Lord, will gain supremc devotion towards the Lord, and attain Him alone undoubtedly. It is pointed out in the Mahabharata, in the context of a dialogue between Vashista and Karala that the supreme knowledge of tattva, hita and purusharta should not be taught to the following persons:
 
-'नावेदनिष्ठस्य जनस्य राजन् प्रदेयमेतत् परमं त्वया भवेत् । विवित्समानस्य विबोधकारकं प्रबोधहेतोः प्रणतस्य शासनम् ॥ न देयमेतच्च तथानृतात्मने शठाय क्लीबाय न जिम्हबुद्धये । न पण्डितज्ञाय परोपतापिने" ||
+'नावेदनिष्ठस्य जनस्य राजन् प्रदेयमेतत् परमं त्वया भवेत् । विवित्समानस्य विबोधकारकं प्रबोधहेतोः प्रणतस्य शासनम् ॥ न देयमेतच्च तथानृतात्मने शठाय क्लीबाय न जिम्हबुद्धये । न पण्डितज्ञाय परोपतापिने" ॥
 
 "This profound knowledge of the shastra, which is the cause of enlightenment, should not be taught to one who is not steadfast in the teachings of the Veda, to one who is untrue in his mind, to one who is a deceiver, to one who is a napumsaka, to one who is crooked-minded, to one who thinks of himself as a scholar, and to one who causes offences to others."
 
