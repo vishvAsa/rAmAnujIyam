@@ -179,7 +179,7 @@ T
 
 ' and others. Thus it is maintained that Anukulya Sankalpa and others are absolutely necessary at the time of Prapatti. Prapatti does not, however, require any other thing than these. Even Brahmastra requires its accessories.
 
-The verse '97: fagud 414837 7 faed 1 TB Has सर्वेषां सर्व कामफलप्रदा' || points out that there is no nced of any other accessory than these.
+The verse '97: fagud 414837 7 faed 1 TB Has सर्वेषां सर्व कामफलप्रदा' ॥ points out that there is no nced of any other accessory than these.
 
 LRG
 
