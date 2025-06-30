@@ -4948,7 +4948,7 @@ En **tratados** como el Mahābhārata.
 इवऩ् प्रभावत्तैप् पऱ्ऱ 
 
 > ‘‘नारायणैकनिष्ठस्य  
-या या वृत्तिस् तद् अर्चनम् ।  
++++(आपत्तस्, स्वभावतो वा)+++ या या वृत्तिस् (/चेष्टा) तद् अर्चनम् +++(तद्-अर्पणात्)+++।  
 यो यो जल्पस् स स जपस्  
 तद्-ध्यानं यन् निरीक्षणम् ॥  
 </details>
@@ -4958,7 +4958,7 @@ En **tratados** como el Mahābhārata.
 एतत्-प्रभाव-गोचरयोः
 
 > ‘‘नारायणैकनिष्ठस्य  
-या या वृत्तिस् तद् अर्चनम् ।  
++++(आपत्तस्, स्वभावतो वा)+++ या या वृत्तिस् (/चेष्टा) तद् अर्चनम् +++(तद्-अर्पणात्)+++।  
 यो यो जल्पस् स स जपस्  
 तद्-ध्यानं यन् निरीक्षणम् ॥  
 </details>
@@ -5341,6 +5341,26 @@ y con mi cuerpo, mi discurso, mis sentidos, mi inteligencia o mi alma,
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि वृत्तिशब्दघटितपाठत्तिल् ‘‘आपत्स्वनन्तरा वृत्तिः’’ ऎऩ्गिऱ वचनानुरोधेनार्थवर्णनम् सङ्गतमाऩालुम् चेष्टाशब्दघटितपाठत्तिल् अर्थसाङ्गत्यमुण्डो वॆऩ्ऩ वरुळिच् चॆय्गिऱार् या या चेष्टा ऎऩ्ऱु पाठमाऩालुमित्यादिना । 
+
+अर्थप्राप्तेति ।  
+अर्थप्राप्तङ्गळ् - यादृश-व्यापारङ्गळ् इल्लाविडिल् देह-धारणम् घटियादो अवैगळ्,  
+शास्त्र-प्राप्तङ्गळ् - शास्त्रविहितङ्गळाऩ सन्ध्यावन्दनादिकर्मङ्गळ्।  
+इवैगळ् नारायणैक-निष्ठर् अल्लाद्-अवर्गळुक्कुम् धर्म-साधनम् आऩ शरीर-धारणार्थम् आगैयालुम्  
+अ-करणे प्रत्यवाय-करङ्गळ् आगैयालुम्  
+भगवद्-अर्चन-रूपङ्गळ् आगैयाले  
+अवैगळै इङ्गु दृष्टान्तम् आगच् चॊऩ्ऩदु।  
+समर्पणीयङ्गळ् आग रहस्य-शास्त्र-सिद्धम् आगैयाले इति । रहस्यशास्त्रम् - गोपनीयमाऩ पाञ्चरात्रशास्त्रम्, पाञ्चरात्रशास्त्रत्तिल् 
+
+> ‘‘कायेन वाचा मनसेन्द्रियैर् वा  
+बुद्ध्यात्मना वा प्रकृतेः स्वभावात् ।  
+करोमि यद् यत् सकलं परस्मै  
+नारायणायेति समर्पयामि॥’’ 
+
+ऎऩ्ऱु स्व-भाव--प्राप्त-व्यापारङ्गळ् उळ्बड ऎल्ला व्यापारमुम् भगवाऩिडत्तिल् समर्पणीयमागच् चॊल्लप्पट्टदिऱे। 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5367,6 +5387,12 @@ Esto **no se extenderá** a aquellos movimientos que **están prohibidos** (en l
 <details><summary>मूलम्</summary>
 
 इदु निषिद्धत्तिल् प्रसङ्गियादु। 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि निमेषोन्मेषादिस्वभावप्राप्तव्यापारमुम् समर्पणीयमागच् चॊल्लप्पडुगैयाल् चेष्टाशब्दम् अदैच् चॊल्लुमेयॊऴिय निषिद्धत्तिल् पर्यवसिक् कादॆऩ्गिऱार् इदु निषिद्धत्तिल् प्रसङ्गियादु इति । 
 </details>
 
 
@@ -5402,12 +5428,29 @@ y que **son consistentes** con la naturaleza y la razón de uno y con Śāstra
 प्रतिषिद्धमल्लाद स्वभावार्थशास्त्रप्राप्तङ्गळिऱे समर्पणीयङ्गळागवोदबट्टदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रसङ्गियामैक्कु युक्ति यरुळिच्चॆय्गिऱार् प्रतिषिद्धमल्लाद इति । प्रतिषिद्धङ्गळ् ऎङ्गुम् समर्पणीयङ्गळागच् चॊल्लप्पडामैयाल् तद्व्यतिरिक्तमाऩ समर्पणीयमागच् चॊल्लप्पट्ट स्वभावप्राप्तव्यापारत्तिलेये अर्चनशब्दसमभिव्याहृतचेष्टाशब्दत्तिऱ्कु प्रसङ्गमुण्डॆऩ्ऱु करुत्तु।
+
+ओदप्पट्टदु इति । तात्पर्यचन्द्रिकोपात्तङ्गळाऩ 
+
+> ‘यत् करोमि यद् अश्नामि  
+यज्जुहोमि ददामि यत् ।  
+यत् तपस्यामि भगवन्  
+तत् करोमि त्वद्-अर्पणम्॥’’ +++(5)+++
+
+इत्यादिमन्त्रङ्गळिले सॊल्लप्पट्टदॆऩ्ऱबडि। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदिऩ् उपबृंहणम् आऩ 
 
 > ‘‘यत् करोषि यद् अश्नासि’’  
+(यज्जुहोषि ददासि यत् ।
+यत्तपस्यसि कौन्तेय  
+तत्कुरुष्व मदर्पणम्॥)  
 (गीता ९-२७) 
 
 ऎऩ्गिऱ श्लोकत्तुक्कुम्  
@@ -5419,6 +5462,9 @@ y que **son consistentes** con la naturaleza y la razón de uno y con Śāstra
 एतद्-उपबृंहणस्य 
 
 > ‘‘यत् करोषि यद् अश्नासि’’  
+(यज्जुहोषि ददासि यत् ।
+यत्तपस्यसि कौन्तेय  
+तत्कुरुष्व मदर्पणम्॥)  
 (गीता ९-२७) 
 
 इति श्लोकस्यापीत्थं शास्त्राविरूद्ध-विषये तात्पर्यम् । 
@@ -5453,9 +5499,79 @@ Como si **fuera** una **ofrenda** para colocar ante mí ".
 इदिऩुबबृंहणमाऩ ‘‘यत्करोषि यदश्नासि’’(गीता ९-२७) ऎऩ्गिऱ श्लोकत्तुक्कुम् इप्पडि शास्त्रविरोध मिल्लादविषयत्तिले तात्पर्यम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱिल् शास्त्र-विरुद्धङ्गळ् वन्दाल्  
+अधिकारानुरूपम् आऩ नैमित्तिकम् निग्रह-शमन-कार्यम्।   
+</details>
+
+<details><summary>English</summary>
+
+If, in such cases, any offence is committed against the śāstras,  
+one should perform, on the occasion, expiatory rites  
+which are of the nature of service obligatory for the occasion (naimittika),  
+in accordance with what is competent for one. 
+</details>
+
+<details><summary>Español</summary>
+
+Si, en tales casos, cualquier delito **se comete** contra los Śāstras,  
+uno debe **realizar**, en la ocasión, ritos expiatorios  
+que **son** de la naturaleza del **servicio** obligatorio para la ocasión (naimittika),  
+de **acuerdo** con lo que **es** competente para uno.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिल् शास्त्रविरुद्धङ्गळ् वन्दाल् अधिकारानुरूपमाऩ नैमित्तिकम् निग्रहशमनकार्यम्।   
+</details>
 
 
-If, in such cases, any offence is committed against the śāstras, one should perform, on the occasion, expiatory rites which are of the nature of service obligatory for the occasion (naimittika), in accordance with what is competent for one. "Whatever he says (jalpah) is japa" does not refer to vain chattering such as is forbidden in the śloka : “Harsh speech, exaggeration of merits, tale- bearing, inappropriate talk-- these are the four sins of speech." It refers to the series of speeches and counter-speeches that are held by the man with his disciples, preceptors, fellow students, scholars and those who are in pursuit of spiritual excellence in order to teach what is not known, to confirm what is already known or to remove doubts. Or the word jalpah in that śloka might mean the succession of speeches that are made in debate to refute infidels and heretics, for, though it is stated as a general rule, "One should not debate merely for the sake of a quarrel without the desire to know the truth", yet the dharma - śāstras declare: "One should condemn, according to one's ability, those who speak ill of Bhagavān or of one'sācārya". "Whatever he sees is meditation or dhyāna" does not refer to such things as witnessing forbidden dances. It describes how when this man proceeds to render service (kaiṅkarya), whatever object meets his eye appears to him as having Brahman as its inner self, for it has been said, 'I am Hari: all this is Janārdana; the causal substances like mahat and the effects which are producd therefrom are not different from Him. The man who thinks in this manner -- he will never fall a victim to the diseases of pleasure and pain which arise in saṁsāra", So also it is said, “Whatever appears ( before his eyes) is the Supreme Self". The sentence “ T'he water that has received contact with his feet is incomparably holy water" only assigns a superior merit when it is due. When the water from the feet is considered as holy, if there is exclusive devotion to Nārāyaṇa in the person, it is said to be holier than other sacred waters. It does not refer to such things as impure water which may, by chance, come into contact with his feet. The statement "Whatever is left after he has eaten purifies” refers only to certain specific remnants (of food) (ucchishta) which are prescribed as purificatory in contexts like a repeated Upanayana. Owing to the excellence of this quality, (the remnant of the food) is said to have superior purifying power. The words, certainly, do not mean that when disciples, sons and the like are devoted to Nārāyaṇa, whatever is left as remnant after they have eaten is purificatory for ācāryas and parents. It is said in the Sanatkumāra Saṁhitā that the man who has eaten the food that has been offered to other deities or what is left as a remnant after those who are other than gurus have eaten should, for purification, live on milk alone for a month (payovrata), should always utter ashtākṣara and eat also Brahmakurcha - pañcagavya. This passage prescribes the code of conduct for one who follows the dharma of Bhagavān and has been taken for illustration by Aḷavandār in his Āgama Prāmānya. Therefore the verse - "If the *remnant of the food that has been already eaten by the devotees of the Lord is given to me, it will immediately make me pure"--- is only applicable to gurus. Even if it is of general application, it means only this much - "If those who are devotees of the Lord should give me what is left over after their meal, it would purify me, even though they have been obliged, by force of unfavourable circumstances like place and time, to follow occupations lower than those ordained for them and to make others also follow them." In this (Tamil) passage, if the word śeṣa should mean only what is left in the vessels in which the food was cooked as in the question and answer (after a srāddha) - "what is to be done with the food left over ?," and "let it be eaten in the company of friends" - if it should mean only this, there is nothing wrong. The word ucchishta, too, has been employed in the śrutis to mean what is left in the cooking vessel after (people) have dined. Madu and others have determined to this effect :- "One should give up wealth and pleasure (artha and kama) when they are against dharma. Even dharma which is likely to bring suffering or which is likely to rouse disgust among people in the world should be given up".
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यो यो जल्पस्स स जपः’’ 
+
+ऎऩ्ऱ् अदुवुम् 
+
+> ‘‘पारुष्यम् अतिवादश् च  
+पैशुनञ् चैव सर्वशः ।  
+अनिबद्ध-प्रलापश् च  
+वाङ्मयं स्याच् चतुर्विधम्॥’’  
+(मनुस्मृति १२-६) 
+
+ऎऩ्ऱु शास्त्र-प्रतिषिद्धम् आऩ वृथा-जल्पत्तैच् चॊऩ्ऩ बडिय् अऩ्ऱु; 
+</details>
+
+<details><summary>English</summary>
+
+> "Whatever he says (jalpah) is japa" 
+
+does not refer to vain chattering such as is forbidden in the śloka : 
+
+> “Harsh speech, exaggeration of merits, tale-bearing, inappropriate talk--  
+these are the four sins of speech." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Lo que sea que diga (Jalpah) es japa"
+
+no se refiere a la vana parlotación como está prohibida en el Śloka:
+
+> “Discurso duro, exageración de méritos, con historia, charla inapropiada
+Estos son los cuatro pecados del habla ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यो यो जल्पस्स स जपः’’ ऎऩ्ऱदुवुम् ‘‘पारुष्यमतिवादश्च पैशुनञ्चै वसर्वशः । अनिबद्धप्रलापश्च वाङ्मयं स्याच्चतुर्विधम्॥’’(मनुस्मृति १२-६) ऎऩ्ऱु शास्त्रप्रतिषिद्धमाऩ वृथाजल्पत्तैच्चॊऩ्ऩबडियऩ्ऱु; 
+</details>
+
+
+
+
+It refers to the series of speeches and counter-speeches that are held by the man with his disciples, preceptors, fellow students, scholars and those who are in pursuit of spiritual excellence in order to teach what is not known, to confirm what is already known or to remove doubts. Or the word jalpah in that śloka might mean the succession of speeches that are made in debate to refute infidels and heretics, for, though it is stated as a general rule, "One should not debate merely for the sake of a quarrel without the desire to know the truth", yet the dharma - śāstras declare: "One should condemn, according to one's ability, those who speak ill of Bhagavān or of one'sācārya". "Whatever he sees is meditation or dhyāna" does not refer to such things as witnessing forbidden dances. It describes how when this man proceeds to render service (kaiṅkarya), whatever object meets his eye appears to him as having Brahman as its inner self, for it has been said, 'I am Hari: all this is Janārdana; the causal substances like mahat and the effects which are producd therefrom are not different from Him. The man who thinks in this manner -- he will never fall a victim to the diseases of pleasure and pain which arise in saṁsāra", So also it is said, “Whatever appears ( before his eyes) is the Supreme Self". The sentence “ T'he water that has received contact with his feet is incomparably holy water" only assigns a superior merit when it is due. When the water from the feet is considered as holy, if there is exclusive devotion to Nārāyaṇa in the person, it is said to be holier than other sacred waters. It does not refer to such things as impure water which may, by chance, come into contact with his feet. The statement "Whatever is left after he has eaten purifies” refers only to certain specific remnants (of food) (ucchishta) which are prescribed as purificatory in contexts like a repeated Upanayana. Owing to the excellence of this quality, (the remnant of the food) is said to have superior purifying power. The words, certainly, do not mean that when disciples, sons and the like are devoted to Nārāyaṇa, whatever is left as remnant after they have eaten is purificatory for ācāryas and parents. It is said in the Sanatkumāra Saṁhitā that the man who has eaten the food that has been offered to other deities or what is left as a remnant after those who are other than gurus have eaten should, for purification, live on milk alone for a month (payovrata), should always utter ashtākṣara and eat also Brahmakurcha - pañcagavya. This passage prescribes the code of conduct for one who follows the dharma of Bhagavān and has been taken for illustration by Aḷavandār in his Āgama Prāmānya. Therefore the verse - "If the *remnant of the food that has been already eaten by the devotees of the Lord is given to me, it will immediately make me pure"--- is only applicable to gurus. Even if it is of general application, it means only this much - "If those who are devotees of the Lord should give me what is left over after their meal, it would purify me, even though they have been obliged, by force of unfavourable circumstances like place and time, to follow occupations lower than those ordained for them and to make others also follow them." In this (Tamil) passage, if the word śeṣa should mean only what is left in the vessels in which the food was cooked as in the question and answer (after a srāddha) - "what is to be done with the food left over ?," and "let it be eaten in the company of friends" - if it should mean only this, there is nothing wrong. The word ucchishta, too, has been employed in the śrutis to mean what is left in the cooking vessel after (people) have dined. Madu and others have determined to this effect :- "One should give up wealth and pleasure (artha and kama) when they are against dharma. Even dharma which is likely to bring suffering or which is likely to rouse disgust among people in the world should be given up".
 
 " His very speech should be considered as a sacred mantra ". This means that even the words in the vernacular language employed by him as necessary for spiritual elevation should be cherished like Tirumantra and reflected upon. It does not mean that his talk on worldly affairs is fit to be uttered as japa. The saying : "His words in jest should be cherished as the texts in the śrutis" should also be interpreted in this sense. “All that he touches becomes pure'; This should be interpreted as follows:- When a man is ill (and cannot himself bathe ), another is allowed to touch him and bathe for his sake; when the ācārya initiates the śiṣya into the sacred mantras, he touches the śiṣya with his hand; this touch is called "touch with the hand of Viṣṇu". When an idol is newly installed, it is touched with the hand by great devotees of the Lord. In certain other circumstances, too, the touch with the hand is prescribed as purificatory. The passage means, therefore, that his touch of all things is even more purificatory in such contexts as are ordained in the śāstras.
 
