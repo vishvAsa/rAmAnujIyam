@@ -878,7 +878,7 @@ a pesar de que **es** un patricidio o un matricidio ".
 
 आगैयाल्  
 उपासनम् त्रैवर्णिकाधिकारम् आग  
-अपशूद्राधिकरणत्तिले समर्त्थितमाऩालुम् 
+अपशूद्राधिकरणत्तिले समर्थितमाऩालुम् 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -904,7 +904,7 @@ se **ha determinado** como un ajuste (solo) para las tres castas superiores en l
 
 आगैयाल्  
 उपासनम् त्रैवर्णिकाधिकारम् आग  
-अपशूद्राधिकरणत्तिले समर्त्थितमाऩालुम् 
+अपशूद्राधिकरणत्तिले समर्थितमाऩालुम् 
 </details>
 
 

@@ -295,7 +295,7 @@ Since the jīva while performing saraṇagati (with this mantra) is praying to t
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 अप्राप्तितःपरिहरन्स्वपरैस्स्वरक्षां  
-तादर्त्थ्यधीपरिहृतस्वपरार्थभावः ।  
+तादर्थ्यधीपरिहृतस्वपरार्थभावः ।  
 अन्योपभोगविरहादनघः प्रपन्नो  
 भुङ्क्ते स्वभोगमखिलं पतिभोगशेषम् ॥
 </details>
@@ -303,7 +303,7 @@ Since the jīva while performing saraṇagati (with this mantra) is praying to t
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 अप्राप्तितःपरिहरन्स्वपरैस्स्वरक्षां  
-तादर्त्थ्यधीपरिहृतस्वपरार्थभावः ।  
+तादर्थ्यधीपरिहृतस्वपरार्थभावः ।  
 अन्योपभोगविरहादनघः प्रपन्नो  
 भुङ्क्ते स्वभोगमखिलं पतिभोगशेषम् ॥
 </details>
