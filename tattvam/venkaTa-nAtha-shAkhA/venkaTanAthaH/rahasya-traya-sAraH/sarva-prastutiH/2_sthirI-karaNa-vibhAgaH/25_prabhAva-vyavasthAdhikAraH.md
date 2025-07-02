@@ -5505,6 +5505,13 @@ Como si **fuera** una **ofrenda** para colocar ante mí ".
 अधिकारानुरूपम् आऩ नैमित्तिकम् निग्रह-शमन-कार्यम्।   
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एषु शास्त्र-विरुद्धानाम् उपनिपाते  
+ऽधिकारानुरूपं नैमित्तिकं निग्रह-शमनं कैङ्कर्यम् ( कार्यम्) ।
+</details>
+
+
 <details><summary>English</summary>
 
 If, in such cases, any offence is committed against the śāstras,  
@@ -5542,6 +5549,24 @@ de **acuerdo** con lo que **es** competente para uno.
 ऎऩ्ऱु शास्त्र-प्रतिषिद्धम् आऩ वृथा-जल्पत्तैच् चॊऩ्ऩ बडिय् अऩ्ऱु; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२४०]] 
+
+> ‘‘यो यो जल्पस्स स जपः’’ 
+
+इत्य्-एतद् अपि, 
+
+> ‘‘पारुष्यम् अतिवादश् च  
+पैशुनञ् चैव सर्वशः ।  
+अनिबद्ध-प्रलापश् च  
+वाङ्मयं स्याच् चतुर्विधम्॥’’  
+(मनुस्मृति १२-६) 
+
+इति शास्त्र-प्रतिषिद्ध-वृथा-जल्प-परं न 
+</details>
+
+
 <details><summary>English</summary>
 
 > "Whatever he says (jalpah) is japa" 
@@ -5578,6 +5603,16 @@ Estos son los cuatro pecados del habla ".
 संशय-निराकरणार्थम् आगवुम् पण्णुम्  
 उक्ति--प्रत्युक्ति-परं-परैगळैच् चॊल्लुगिऱदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+किं तु तत्त्व-हित-विषये  
+शिष्य-गुरु--स-ब्रह्म-चारि--शिष्ट-श्रेयोऽर्थिभिः  
+सह  
+अज्ञात-ज्ञापनार्थं, ज्ञात-स्थिरीकरणार्थं, संशय-निराकरणार्थं च क्रियमाणाः  
+उक्ति-प्रत्युक्ति-परम्पराः प्रतिपादयति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5618,12 +5653,13 @@ o para **eliminar** dudas.
 > ‘‘न विगृह्य कथां कुर्यात्’’  
 (मनुस्मृति ४-७२) 
 
+इति सामान्येनोक्तत्वेऽपि 
 </details>
 
 
 <details><summary>English</summary>
 
-for, though it is stated as a general rule, 
+For, though it is stated as a general rule, 
 
 > "One should not debate merely for the sake of a quarrel  
 without the desire to know the truth", 
@@ -5631,10 +5667,10 @@ without the desire to know the truth",
 
 <details><summary>Español</summary>
 
-porque, aunque se establece como regla general,
+Porque, aunque **se establece** como regla general,
 
-> "Uno no debe debatir simplemente por el bien de una pelea
-sin el deseo de conocer la verdad ",
+> "Uno **no debe debatir** simplemente por el bien de una pelea  
+sin el deseo de **conocer** la verdad ",
 </details>
 
 
@@ -5656,6 +5692,7 @@ sin el deseo de conocer la verdad ",
 > ‘‘यथा-शक्ति निगृह्णीयाद्  
 देवता-गुरु-निन्दकान्’’() +++(5)+++
 
+इति विशिष्य धर्म-शास्त्र-सिद्धत्वाद् 
 </details>
 
 
@@ -5669,10 +5706,10 @@ those who speak ill of Bhagavān or of one's ācārya".
 
 <details><summary>Español</summary>
 
-Sin embargo, el Dharma - Śāstras declara:
+Sin embargo, el Dharma - Śāstras **declara**:
 
-> "Uno debería condenar, según la habilidad de uno,
-Aquellos que hablan mal de Bhagavān o del ācārya ".
+> "Uno **debería condenar**, **según** la habilidad de uno,  
+Aquellos que **hablan** mal de Bhagavān o del ācārya ".
 </details>
 
 
@@ -5681,14 +5718,497 @@ Aquellos que hablan mal de Bhagavān o del ācārya ".
 ‘‘यथाशक्ति निगृह्णीयाद्देवतागुरुनिन्दकान्’’() ऎऩ्ऱु विशेषित्तु धर्मशास्त्रसिद्धमागैयाले 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बाह्य--कु-दृष्टिगळैप् पऱ्ऱ विजिगीषुव् आगच् चॊल्लुम् वाक्य--परं-परैयै  
++++(प्रशंसा-श्लोके)+++ "जल्पम्" ऎऩ्ऱद् आगवुम् आम्।+++(5)+++ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+बाह्य--कु-दृष्टि-विषये  
+विजिगीषु-भावेनोच्यमानां वाक्य-परम्परां  
+"जल्प" इति प्रतिपादयतीति वा । +++(5)+++
+</details>
+
+
+<details><summary>English</summary>
+
+(Or) the word jalpah in that śloka might mean the succession of speeches  
+that are made in debate to refute infidels and heretics. 
+</details>
+
+<details><summary>Español</summary>
+
+la palabra jalpah en que Śloka **podría significar** la **sucesión** de discursos  
+que **se hacen** en debate para **refutar** infieles y herejes.
+</details>
+
+<details><summary>मूलम्</summary>
+
+बाह्यकुदृष्टिकळैप् पऱ्ऱ विजिगीषुवागच् चॊल्लुम् वाक्यपरंपरैयै जल्पमॆऩ्ऱदागवुमाम्। 
+</details>
+
+
+## निरीक्षणेन ध्यानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तद्-ध्यानं यन् निरीक्षणं’’ 
+
+ऎऩ्ऱदु निषिद्ध-नृत्तादि-दर्शनत्तैच् चॊऩ्ऩ बडिय् अऩ्ऱु; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तद्-ध्यानं यन् निरीक्षणं’’ 
+
+इत्य्-एतद् अपि  
+निषिद्ध-नृत्तादि-दर्शनं न ब्रवीति, 
+</details>
+
+<details><summary>English</summary>
+
+> "Whatever he sees is meditation or dhyāna" 
+
+does not refer to such things as witnessing forbidden dances. 
+</details>
+
+<details><summary>Español</summary>
+
+> "Lo que **vea es meditación** o dhyāna"
+
+**No se refiere** a cosas como **testigo** de **bailes prohibidos**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘तद्ध्यानं यन्नि रीक्षणं’’ ऎऩ्ऱदु निषिद्धनृत्तादिदर्शनत्तैच्चॊऩ्ऩबडियऩ्ऱु; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कैङ्कर्यार्थम् आगप् प्रवर्तिक्कुम् बोद्  
+इवऩ् कण्णुक्क् इलक्क् आऩ पदार्थङ्गळ् ऎल्लाम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+किं तु कैङ्कर्यार्थं प्रवृत्तौ  
+एतद्-दृष्टि-गोचराणां पदार्थानां सर्वेषाम्,  
+</details>
+
+
+<details><summary>English</summary>
+
+When this man proceeds to render service (kaiṅkarya),  
+whatever object meets his eye,  
+
+</details>
+
+<details><summary>Español</summary>
+
+Cuando este hombre **procede** a **prestar** el **servicio** (Kaiṅkarya),  
+Cualquiera que **sea** el objeto que se encuentre con sus ojos
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कैङ्कर्यार्थमागप् प्रवर्तिक्कुम्बोदिवऩ् कण्णुक्किलक्काऩ पदार्थङ्गळॆल्लाम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अहं हरिस् सर्वम् इदं जनार्दन’’  
+(विष्णुपुराणम् १-२२-८७) 
+
+इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अहं हरिस् सर्वम् इदं जनार्दन’’  
+(विष्णुपुराणम् १-२२-८७) 
+
+इत्य्-आद्य्-उक्त-रीत्या, 
+</details>
+
+
+<details><summary>English</summary>
+
+for it has been said, 
+
+> 'I am Hari:  
+all this is Janārdana;  
+the causal substances like mahat and the effects which are produced therefrom  
+are not different from Him.  
+The man who thinks in this manner --  
+he will never fall a victim to the diseases of pleasure and pain  
+which arise in saṁsāra", 
+
+</details>
+
+<details><summary>Español</summary>
+
+porque **se ha dicho**
+
+> '**Soy** Hari:  
+Todo esto **es** Janārdana;  
+las sustancias causales como Mahat y los efectos que **se producen** de ellos  
+**no son** diferentes de él.  
+El hombre que **piensa** de esta manera -  
+**Nunca será** víctima de las enfermedades del placer y el dolor  
+que **surgen** en saṁsāra ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अहं हरिस्सर्वमिदं जनार्दन’’(विष्णुपुराणम् १-२२-८७) इत्यादिगळिऱ्पडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’निऱ्किऩ्ऱद्+++(=तिष्ठत्)+++ ऎल्लाम् नॆडु+++(=महा)+++-माल्+++(=व्यामुग्ध)+++’’  
+(नाऩ्मुगऩ् तिरुवन्दादि ५४)  
+
+ऎऩ्ऱु
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "तिष्ठत् सर्वं - महा-व्यामुग्धो भगवान्" 
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+~~So~~ As also it is said, 
+
+> “Whatever appears ( before his eyes) is the Supreme Self". 
+
+</details>
+
+<details><summary>Español</summary>
+
+~~ así ~~ como también **se dice** que
+
+> "Lo que **aparezca** (ante sus ojos) **es** el **ser** supremo".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’निऱ्किऩ्ऱदॆल्लाम् नॆडुमाल्’’(नाऩ्मुगऩ् तिरुवन्दादि ५४)  ऎऩ्ऱु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मात्मकम् आय्त् तोऩ्ऱुम् प्रकारत्तैच् चॊऩ्ऩ बडि। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ब्रह्मात्मकतया प्रतीयमानता-रूपं प्रकारं ब्रवीति । 
+</details>
+
+
+<details><summary>English</summary>
+
+It describes how appears to him as having Brahman as its inner self.
+</details>
+
+<details><summary>Español</summary>
+
+**Describe** cómo **le parece tener** a Brahman como ser interno.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मात्मकमाय्त् तोऩ्ऱुम् प्रकारत्तैच् चॊऩ्ऩबडि। 
+</details>
+
+
+## पादोदकम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तत्-पादाम्ब्व् अतुलं तीर्थं’’ 
+
+ऎऩ्ऱदुवुम् प्राप्त-विषयत्तिले गुणाधिक्यञ् जॊल्लुगिऱदु -
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तत्-पादाम्ब्व् अतुलं तीर्थं’’ 
+
+इत्य्-एतद् अपि  
+प्राप्त-विषये गुणाधिक्यं प्रतिपादयति । 
+</details>
+
+
+<details><summary>English</summary>
+
+The sentence 
+
+> “The water that has received contact with his feet  
+is incomparably holy water"  
+
+only assigns a superior merit when it is due. 
+</details>
+
+<details><summary>Español</summary>
+
+La **oración**
+
+> “El agua que **ha recibido contacto** con sus pies
+**Es** incomparablemente agua bendita "
+
+Solo **asigna** un mérito superior cuando **se debe**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तत्पादाम्ब्वतुलं तीर्थं’’ ऎऩ्ऱदुवुम् प्राप्तविषयत्तिले गुणाधिक्यञ्जॊल्लुगिऱदु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(आचार्यादिषु)+++ पादोदकं तीर्थम् आगच् चॊऩ्ऩ विषयत्तिल्  
+नारायणैक-निष्ठत्वम् उण्ड् आयिऱ्ऱ् आगिल्  
+अदु सर्वाधिक-तीर्थम् ऎऩ्ऱ बडि;
+</details>
+
+<details><summary>English</summary>
+
+When the water from the feet is considered as holy,  
+if there is exclusive devotion to Nārāyaṇa in the person,  
+it is said to be holier than other sacred waters. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el agua de los pies **se considera** santia,   
+Si **hay** una **devoción** exclusiva a Nārāyaṇa en la persona,  
+**Se dice** que **es** más sagrado que otras aguas sagradas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पादोदकम् तीर्थमागच् चॊऩ्ऩविषयत्तिल् नारायणैकनिष्ठत्वमुण्डायिऱ्ऱागिल् अदु सर्वाधिकतीर्थमॆऩ्ऱबडि;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लदु भागवतऩ्-उडैय पादत्तिले  
+यादृच्छिकम् आगप् पट्ट+++(=प्राप्त/स्पृष्ट)+++ निर्माल्य-जलादिगळुम्  
+अतुलम् आऩ तीर्थम् ऎऩ्ऱ बडिय् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+It does not refer to such things as impure water  
+which may, by chance, come into contact with his feet.
+</details>
+
+<details><summary>Español</summary>
+
+**No se refiere** a cosas como agua impura  
+lo que **puede**, por casualidad, **entrar en contacto** con sus pies.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अल्लदु भागवतऩुडैय पादत्तिले यादृच्छिकमागप्पट्ट निर्माल्यजलादिगळुम् अतुलमाऩ तीर्थमॆऩ्ऱबडियऩ्ऱु। 
+</details>
+
+## उच्छिष्टं देवतान्तरस्यापि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तद्-उच्छिष्टं सुपावनं’’ 
+
+ऎऩ्ऱ् अदुवुम्  
+पुनर्-उपनयनादि-प्रकरणङ्गळिले  
+पावनम् आग शास्त्र-प्राप्तम् आऩ उच्छिष्ट-विशेषत्तुक्कु  
+इग्-गुण-विशेषम् अडिय् आग  
+पावनत्वातिशयञ् जॊऩ्ऩ बडि; 
+</details>
+
+<details><summary>English</summary>
+
+The statement 
+
+> "Whatever is left after he has eaten purifies” 
+
+refers only to certain specific remnants (of food) (ucchishta)  
+which are prescribed as purificatory  
+in contexts like a repeated Upanayana. 
+
+Owing to the excellence of this quality,  
+(the remnant of the food) is said to have superior purifying power. 
+</details>
+
+<details><summary>Español</summary>
+
+La **declaración**
+
+> "Lo que **sea** que **quede** después de que **haya comido** purifica"
+
+**se refiere** solo a ciertos restos específicos (de alimentos) (Ucchishta)  
+que **se prescriben** como purificador  
+en contextos como un upanayana repetido.
+
+Debido a la excelencia de esta calidad,  
+(**se dice** que el remanente de la comida) **tiene** un poder **purificador** superior.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तदुच्छिष्टं सुपावनं’’ ऎऩ्ऱदुवुम् पुनरुपनयनादिप्रकरणङ्गळिले पावनमाग शास्त्रप्राप्तमाऩ उच्छिष्टविशेषत्तुक्कु इग्गुणविशेषमडियाग पावनत्वातिशयञ् जॊऩ्ऩबडि; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मऱ्ऱुम् शिष्य-पुत्रादिगळुक्कु  
+नारायणैक-निष्ठत्वम् उण्ड् आऩाल्  
+आचार्यादिगळुक्कुम् अवर्गळ्-उडैय उच्छिष्टम् सुपावनम् ऎऩ्ऱ बडिय् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+The words, certainly, do not mean that  
+when disciples, sons and the like are devoted to Nārāyaṇa,  
+whatever is left as remnant after they have eaten  
+is purificatory for ācāryas and parents. 
+</details>
+
+<details><summary>Español</summary>
+
+Las palabras, ciertamente, **no significan** que  
+Cuando los discípulos, los hijos y similares **están dedicados** a Nārāyaṇa,  
+lo que **sea** que quede como **remanente** después de **haber comido**  
+**es purificador** para ācāryas y padres.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुम् शिष्यपुत्रादिगळुक्कु नारायणैकनिष्ठत्वमुण्डाऩाल् आचार्यादिगळुक्कु मवर्गळुडैय उच्छिष्टम् सुपावनमॆऩ्ऱबडियऩ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘निर्माल्यं **भक्षयित्वैवम्**  
+उच्छिष्टम् अ-गुरोर् अपि ।  
+मासं पयो-व्रतो भूत्वा  
+**जपन्न्** अष्टाक्षरं सदा ।  
+ब्रह्म-कूर्चं ततः **पीत्वा**  
+**पूतो** भवति मानवः॥’’  
+(सनत्कुमारसंहिता) 
+
+ऎऩ्ऱु 
+</details>
+
+<details><summary>English</summary>
+
+It is said in the Sanatkumāra Saṁhitā that  
+the man who has eaten the food that has been offered to other deities  
+or what is left as a remnant after those who are other than gurus have eaten  
+should, for purification, live on milk alone for a month (payovrata),  
+should always utter ashtākṣara  
+and eat also Brahmakurcha - pañcagavya. 
+</details>
+
+<details><summary>Español</summary>
+
+Se dice en el sanatkumāra saṁhitā que  
+el hombre que **ha comido** la comida que se **ha ofrecido** a otras deidades  
+o lo que **queda** como un **remanente** después de que aquellos que **no sean** gurús **han comido**  
+**Debería**, para la **purificación**, **vivir** solo de leche durante un mes (payovrata),  
+siempre debe **pronunciar** ashtākṣara  
+y **comer** también Brahmakurcha - Pañcagavya.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘निर्माल्यं भक्षयित्वैव मुच्छिष्टमगुरोरपि । मासं पयोव्रतो भूत्वा जपन्नष्टाक्षरं सदा । ब्रह्मकूर्चं ततः पीत्वा पूतो भवति मानवः॥’’(सनत्कुमारसंहिता) ऎऩ्ऱु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवद्-धर्म-निष्ठऩुक्कु समयाचारञ् जॊल्लुगिऱ सनत्-कुमार-संहिता-वचनत्तै  
+आगम-प्रामाण्यत्तिले आळ-वन्दार् उदाहरित्त् अरुळिऩार्।
+</details>
+
+<details><summary>English</summary>
+
+This passage prescribes the code of conduct for one who follows the dharma of Bhagavān  
+and has been taken for illustration by Aḷavandār in his Āgama Prāmānya. 
+</details>
+
+<details><summary>Español</summary>
+
+Este pasaje **prescribe** el código de conducta para alguien que **sigue** el dharma de Bhagavān  
+y **ha sido tomado** para **ilustración** por Aḷavandār en su āgama prāmānya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवद्धर्मनिष्ठऩुक्कु समयाचारञ्जॊल्लुगिऱ सनत्कुमारसंहितावचनत्तै आगमप्रामाण्यत्तिले आळवन्दार् उदाहरित्तरुळिऩार्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाले 
+
+> ’’पोऩ् अगञ् जॆय्द  
+सेडन्दरुवरेऱ् पुऩितम् अऩ्ऱेय्’’(तिरुमालै ४२)  
+
+ऎऩ्ऱ् अदुवुम् गुरु-विषयम् आम् इत्तऩै। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore the verse - 
+
+> "If the remnant of the food  
+that has been already eaten by the devotees of the Lord is given to me,  
+it will immediately make me pure"  
+
+--- is only applicable to gurus. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, el verso -
+
+> "Si el **remanente** de la comida  
+que ya me **han comido** los devotos del Señor, **me dan**,  
+inmediatamente **me hará** puro "
+
+--- Solo **es** aplicable a los gurús.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाले ’’पोऩगञ् जॆय्द सेडन्दरुवरेऱ्पुऩिदमऩ्ऱे’’(तिरुमालै ४२) यॆऩ्ऱदुवुम् गुरुविषयमामित्तऩै। 
+</details>
 
 
 
-Or the word jalpah in that śloka might mean the succession of speeches that are made in debate to refute infidels and heretics, 
-
-
-
-"Whatever he sees is meditation or dhyāna" does not refer to such things as witnessing forbidden dances. It describes how when this man proceeds to render service (kaiṅkarya), whatever object meets his eye appears to him as having Brahman as its inner self, for it has been said, 'I am Hari: all this is Janārdana; the causal substances like mahat and the effects which are producd therefrom are not different from Him. The man who thinks in this manner -- he will never fall a victim to the diseases of pleasure and pain which arise in saṁsāra", So also it is said, “Whatever appears ( before his eyes) is the Supreme Self". The sentence “ T'he water that has received contact with his feet is incomparably holy water" only assigns a superior merit when it is due. When the water from the feet is considered as holy, if there is exclusive devotion to Nārāyaṇa in the person, it is said to be holier than other sacred waters. It does not refer to such things as impure water which may, by chance, come into contact with his feet. The statement "Whatever is left after he has eaten purifies” refers only to certain specific remnants (of food) (ucchishta) which are prescribed as purificatory in contexts like a repeated Upanayana. Owing to the excellence of this quality, (the remnant of the food) is said to have superior purifying power. The words, certainly, do not mean that when disciples, sons and the like are devoted to Nārāyaṇa, whatever is left as remnant after they have eaten is purificatory for ācāryas and parents. It is said in the Sanatkumāra Saṁhitā that the man who has eaten the food that has been offered to other deities or what is left as a remnant after those who are other than gurus have eaten should, for purification, live on milk alone for a month (payovrata), should always utter ashtākṣara and eat also Brahmakurcha - pañcagavya. This passage prescribes the code of conduct for one who follows the dharma of Bhagavān and has been taken for illustration by Aḷavandār in his Āgama Prāmānya. Therefore the verse - "If the *remnant of the food that has been already eaten by the devotees of the Lord is given to me, it will immediately make me pure"--- is only applicable to gurus. Even if it is of general application, it means only this much - "If those who are devotees of the Lord should give me what is left over after their meal, it would purify me, even though they have been obliged, by force of unfavourable circumstances like place and time, to follow occupations lower than those ordained for them and to make others also follow them." In this (Tamil) passage, if the word śeṣa should mean only what is left in the vessels in which the food was cooked as in the question and answer (after a srāddha) - "what is to be done with the food left over ?," and "let it be eaten in the company of friends" - if it should mean only this, there is nothing wrong. The word ucchishta, too, has been employed in the śrutis to mean what is left in the cooking vessel after (people) have dined. Madu and others have determined to this effect :- "One should give up wealth and pleasure (artha and kama) when they are against dharma. Even dharma which is likely to bring suffering or which is likely to rouse disgust among people in the world should be given up".
+Even if it is of general application, it means only this much - "If those who are devotees of the Lord should give me what is left over after their meal, it would purify me, even though they have been obliged, by force of unfavourable circumstances like place and time, to follow occupations lower than those ordained for them and to make others also follow them." In this (Tamil) passage, if the word śeṣa should mean only what is left in the vessels in which the food was cooked as in the question and answer (after a srāddha) - "what is to be done with the food left over ?," and "let it be eaten in the company of friends" - if it should mean only this, there is nothing wrong. The word ucchishta, too, has been employed in the śrutis to mean what is left in the cooking vessel after (people) have dined. Madu and others have determined to this effect :- "One should give up wealth and pleasure (artha and kama) when they are against dharma. Even dharma which is likely to bring suffering or which is likely to rouse disgust among people in the world should be given up".
 
 " His very speech should be considered as a sacred mantra ". This means that even the words in the vernacular language employed by him as necessary for spiritual elevation should be cherished like Tirumantra and reflected upon. It does not mean that his talk on worldly affairs is fit to be uttered as japa. The saying : "His words in jest should be cherished as the texts in the śrutis" should also be interpreted in this sense. “All that he touches becomes pure'; This should be interpreted as follows:- When a man is ill (and cannot himself bathe ), another is allowed to touch him and bathe for his sake; when the ācārya initiates the śiṣya into the sacred mantras, he touches the śiṣya with his hand; this touch is called "touch with the hand of Viṣṇu". When an idol is newly installed, it is touched with the hand by great devotees of the Lord. In certain other circumstances, too, the touch with the hand is prescribed as purificatory. The passage means, therefore, that his touch of all things is even more purificatory in such contexts as are ordained in the śāstras.
 
