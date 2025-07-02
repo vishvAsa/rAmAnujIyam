@@ -7816,20 +7816,239 @@ Esta **es**, oh Arjuna, **renuncia** debido a Sattvam ".
 इप् प्रीतिक्कु मोक्षमुम् फलम् आगक् कोलादे 
 </details>
 
+<details><summary>English</summary>
+
+The man should observe (these rites and regulations ) solely for the purpose of pleasing Bhagavān.  
+He should not even ask for mokṣa as a reward,  
+</details>
+
+<details><summary>Español</summary>
+
+El hombre **debe observar** (estos ritos y regulaciones) únicamente con el propósito de **complacer** a Bhagavān.  
+**Ni siquiera debería pedir** mokṣa como recompensa,
+</details>
+
 <details><summary>मूलम्</summary>
 
 इब् भगवत्प्रीतिप्रयोजनमाग अनुष्ठिक्किऱविडत्तिले इप् प्रीतिक्कु मोक्षमुम् फलमागक्कोलादे 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पूर्व-प्रपत्तियाल् पिऱन्द परम-कारुणिकऩ् प्रसादत्ताले  
+मोक्षम् सिद्धम् 
+
+ऎऩ्ऱु निऩैत्तु 
+</details>
+
+<details><summary>English</summary>
+
+for he should realise that,  
+by the grace of the All merciful Lord  
+which has been won by the prapatti performed before,  
+mokṣa is certain. 
+</details>
+
+<details><summary>Español</summary>
+
+porque **debe darse cuenta** de que,  
+por la gracia del todo mis misericordioso Señor  
+que **ha sido ganado** por el Prapatti **realizado** antes,  
+Mokṣa **es seguro**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पूर्वप्रपत्तियाल् पिऱन्द परमकारुणिकऩ्प्रसादत्ताले मोक्षम् सिद्धमॆऩ्ऱु निऩैत्तु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्तऩ्-उडैय कैङ्कर्यम् बोलवुम्  
+</details>
+
+<details><summary>English</summary>
+
+(He should) render service (kaiṅkarya)  
+like those who have already attained mukti.  
+</details>
+
+<details><summary>Español</summary>
+
+**(Debería) prender** el **servicio** (Kaiṅkarya)  
+como aquellos que ya **han alcanzado** Mukti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुक्तऩुडैय कैङ्कर्यम्बोलवुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अरोगऩ्-उडैय पाल् वार्त्त्+++(=स्राव्य)+++ उण्गै पोलवुम्  
+</details>
+
+<details><summary>English</summary>
+
+As would resemble a healthy man eating food with milk  
+(without any thought of the care from illness to be obtained from milk).  
+</details>
+
+<details><summary>Español</summary>
+
+Como **se parecería** a un hombre sano **comiendo** alimentos con leche
+(sin **pensar** en la **atención** de la enfermedad a **obtener** de la leche).
+</details>
 
 
-The man should observe (these rites and regulations ) solely for the purpose of pleasing Bhagavān. He should not even ask for mokṣa as a reward, for he should realise that, by the grace of the All merciful Lord which has been won by the prapatti performed before, mokṣa is certain. (He should) render service (kaiṅkarya) like those who have already attained mukti. This would resemble a healthy man eating food with milk (without any thought of the care from illness to be obtained from milk). Such a code of conduct is the highest limit of renunciation due to sattvam. This is like eating food when men are hungry. Otherwise their conduct would resemble that of men who eat cakes for winning a wager, (They cannot derive any true pleasure therefrom). (The man that eats food when hungry enjoys it, because he does so with no other object than satisfying his hunger. The man who eats cakes for winding a wager, cannot find any relish in doing so.)
+<details><summary>मूलम्</summary>
 
-THE REAL MEANING OF "HAVING GIVEN UP ALL DHARMAS"
+अरोगऩ्-उडैय पाल्वार्त्त्+++(=??)+++ उण्गै पोलवुम्  
+</details>
 
-IN THE CARAMA ŚLOKA:
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-While commenting on the words (in the Carama Śloka ) “Having given up all dharmas", the author of Śrī Bhāṣya interpreted them at first to mean that the giving up of dharmas means the giving up of the thought that, in his action, the man himself is the doer seeking a certain gain for himself by that means. This is renunciation of action due to sattvam (and not the giving up of the dharma itself  viz., nitya and naimittika). This form of thought should be borne in mind by the man who has adopted prapatti as a direct and independent upāya, at the time of the performance of prapatti and also in his further actions (after prapatti), which are ends in themselves and have no relation of any kind to an upāya. In the second interpretation given of those words (by the author of of the Bhāṣya), they mean that when the man of poor ability who cannot brook any delay in the attainment of mukti falls into grief or despair at the thought of all the dharmas or rites prescribed in the śāstras and his inability to perform them, the Lord, in order to dispel his despair, ordained another means which is easy of perforinance and has to be adopted only once and said: "You need not go about seeking other upāyas" The prapanna should note that in order that one may be competent for prapatti, the absence of adoption of any other upāya before its performance is a requisite which has been present of its own accord by the grace of God. In regard to actions after the performance of prapatti, this giving up of the adoption of other upāyas is insisted on in the śāstra itself and this shows how prapatti does not require any aid (after it is once done).
+अनुष्ठिक्कै सात्त्विक-त्यागत्तिऩ् ऎल्लै  
+निलम् आगक् कडवदु।
+</details>
+
+<details><summary>English</summary>
+
+Such a code of conduct is the highest limit of renunciation due to sattvam. 
+</details>
+
+<details><summary>Español</summary>
+
+Tal código de conducta **es** el límite más alto de **renuncia** debido a Sattvam.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुष्ठिक्कै सात्त्विकत्यागत्तिऩॆल्लै निलमागक्कडवदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु पसित्त् उण्बार् मात्रम्;
+</details>
+
+<details><summary>English</summary>
+
+This is like eating food when men are hungry. 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **es** como **comer** comida cuando los hombres **tienen** hambre.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु पसित्तुण्बार् मात्रम्;
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् अल्लाद बोदु ऒट्टत्तुक्क्+++(→स्पर्धया)+++ अप्पम् +++(=दोषाम्)+++ तिऩ्बार् मात्रम्। +++(4)+++  
+</details>
+
+<details><summary>English</summary>
+
+Otherwise their conduct would resemble that of men  
+who eat cakes for winning a wager.  
+(They cannot derive any true pleasure therefrom). 
+
+(The man that eats food when hungry enjoys it,  
+because he does so with no other object than satisfying his hunger.  
+The man who eats cakes for winding a wager,  
+cannot find any relish in doing so.)
+</details>
+
+<details><summary>Español</summary>
+
+De lo contrario, su conducta **se parecería** a la de los hombres  
+quienes **comen** pasteles por **ganar** una apuesta.  
+(**No pueden obtener** ningún verdadero placer de esto).
+
+(El hombre que **come** comida cuando hambrienta lo **disfruta**,  
+Porque **no lo hace** sin otro objeto que **satisfacer** su hambre.  
+El hombre que **come** pasteles por **enrollar** una apuesta,  
+**No puedo encontrar** ningún gusto al **hacerlo**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩल्लादबोदु ऒट्टत्तुक्कप्पम् तिऩ्बार् मात्रम्।   
+</details>
+
+
+
+### चरम-श्लोकार्थः
+
+<details><summary>English</summary>
+
+THE REAL MEANING OF "HAVING GIVEN UP ALL DHARMAS" IN THE CARAMA ŚLOKA:
+</details>
+
+<details><summary>Español</summary>
+
+El verdadero **significado** de "**haber renunciado** a todos los dharmas" en el Carama Śloka:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सर्व-धर्मान् परित्यज्य’’ 
+
+ऎऩ्गिऱव् इडत्तिल् प्रथम-योजनैयिल् 
+
+> बुद्धि-विशेष-रूपम् आऩ  
+सात्त्विक-त्यागञ् जॊल्लुगिऱद्  
+
+ऎऩ्ऱु भाष्यकारर् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>English</summary>
+
+While commenting on the words (in the Carama Śloka ) “Having given up all dharmas",  
+the author of Śrī Bhāṣya interpreted them at first to mean that  
+the giving up of dharmas means the giving up of the thought that,  
+in his action, the man himself is the doer seeking a certain gain for himself by that means.  
+This is renunciation of action due to sattvam  
+(and not the giving up of the dharma itself  viz., nitya and naimittika). 
+</details>
+
+<details><summary>Español</summary>
+
+Mientras **comenta** sobre las palabras (en el carama Śloka) "**habiendo renunciado** a todos los dharmas",  
+El autor de Śrī Bhāṣya **los interpretó** al principio para **significar** que  
+**renunciar** a los dharmas **significa renunciar** al **pensamiento** de que,  
+En su **acción**, el hombre mismo **es** el **hacedor** que **busca** una cierta **ganancia** para sí mismo por ese medio.  
+Esto **es renuncia** a la acción debido a sattvam  
+(y **no se rinde** del Dharma en sí, a **saber**, Nitya y Naimittika).
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘सर्वधर्मान् परित्यज्य’’ ऎऩ्गिऱविडत्तिल् प्रथमयोजनैयिल् बुद्धिविशेषरूपमाऩ सात्त्विकत्यागञ् जॊल्लुगिऱदॆऩ्ऱु भाष्यकारररुळिच्चॆय्दार्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् बुद्धि-विशेषम्  
+स्व-तन्त्र--प्रपत्ति-निष्ठऩुक्कु प्रपत्त्य्-अनुष्ठान-कालत्तिलुम्  
+पिऩ्बु स्वयं-प्रयोजनम् आय् उपायत्तोडु तुवक्क्-अऱ्ऱ उत्तर-कृत्यत्तिल् उपजीव्यम्।+++(4)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् बुद्धिविशेषम् स्वतन्त्रप्रपत्तिनिष्ठऩुक्कु प्रपत्त्यनुष्ठानकालत्तिलुम् पिऩ्बु स्वयंप्रयोजनमायुपायत्तोडु तुवक्कऱ्ऱ उत्तरकृत्यत्तिलुपजीव्यम्।
+</details>
+
+
+This form of thought should be borne in mind by the man who has adopted prapatti as a direct and independent upāya, at the time of the performance of prapatti and also in his further actions (after prapatti), which are ends in themselves and have no relation of any kind to an upāya. In the second interpretation given of those words (by the author of of the Bhāṣya), they mean that when the man of poor ability who cannot brook any delay in the attainment of mukti falls into grief or despair at the thought of all the dharmas or rites prescribed in the śāstras and his inability to perform them, the Lord, in order to dispel his despair, ordained another means which is easy of perforinance and has to be adopted only once and said: "You need not go about seeking other upāyas" The prapanna should note that in order that one may be competent for prapatti, the absence of adoption of any other upāya before its performance is a requisite which has been present of its own accord by the grace of God. In regard to actions after the performance of prapatti, this giving up of the adoption of other upāyas is insisted on in the śāstra itself and this shows how prapatti does not require any aid (after it is once done).
 
 If the word parityajya (having given up) merely states what has, on account of inability, already occurred (and not what is enjoined), the meaning (of the first part of the carama śloka) would be that this having given up is a qualification for prapatti. If, on the other hand, the words (having given up) state what is ordained or enjoined to be done, then the meaning would be that prapatti does not require anything else to be performed. Thus, if parityajya (having given up) merely states what has already taken place or what has already occurred, the words mām ekam will have to be thought of as meaning that nothing else (than Bhagavān) is required for the attainment of the desired end. If, on the other hand*[^73] parityajya means that prapatti requires nothing else for yielding its fruit, the words, mã suchah (do not grieve), show, by the force of logic or meaning, that the grief or despair which is a mark of being destitute of other means is what is required for competency for praputti (adhikāra;)
 
