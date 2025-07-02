@@ -6760,7 +6760,7 @@ como **están ordenados** en los Śāstras.
 मऱ्ऱुम् स्पर्शम् विहितमाऩविडङ्गळिले इवऩुडैय स्पर्शम् पॆऱ्ऱदागिल् स्पृष्टमाऩवैयॆल्लाम् परिशुद्धमामॆऩ्ऱबडि;
 </details>
 
-
+### विपक्षे भोजने ऽव्यवस्था
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अल्लदु 
@@ -6788,14 +6788,556 @@ Si esta (interpretación) **no fue aceptada**,
 अल्लदु ‘‘उदुम्बरं न खादेत्तु”( भारतम् आनुशासनिक-पर्व १६१-९७), 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘कालिङ्गोदुम्बरालाबु-  
+बिम्बानि परिवर्जयेत् ।  
+तान्य् अश्नतस् तु सततं  
+नित्यं दूरतरो हरिः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘कालिङ्गोदुम्बरालाबु-  
+बिम्बानि परिवर्जयेत् ।  
+तान्य् अश्नतस् तु सततं  
+नित्यं दूरतरो हरिः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> "One should not eat kommatti or (mullaṅgī), athikkāi, suraikkai and kovaippazham.  
+Bhagavān ever stands far away from the man who always eats them." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Uno **no debe comer** Kommatti o (Mullaṅgī), Athikkāi, Suraikkai y Kavaippazham.  
+Bhagavān alguna vez **está** muy lejos del hombre que siempre los **come**. "
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘कालिङ्गोदुम्बरालाबु बिम्बानि परिवर्जयेत् । तान्यश्नतस्तु सततं नित्यं दूरतरो हरिः ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वृन्ताक-कतकालिङ्ग-  
+बिल्वोदुम्बर-भिस्सटाः ।  
+यो **भक्षयति** संमोहात्  
+तस्य दूरतरो हरिः ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> वृन्ताक-कतकालिङ्ग-  
+बिल्वोदुम्बर-भिस्सटाः ।  
+यो **भक्षयति** संमोहात्  
+तस्य दूरतरो हरिः ॥
+</details>
+
+<details><summary>English</summary>
+
+> He who eats white brinjals, soap-nut (nettamkottai), kommatti (or mullaṅgī), kuvalai, athikkai, kāndal in ignorance-  
+to him Bhagavān is always at a distance. 
+</details>
+
+<details><summary>Español</summary>
+
+> El que **come** Brinjals blancos, jabón (nettamkottai), kommatti (o mullaṅgī), kuvalai, athikkai, kāndal en egnorance-  
+Para el, bhagavān siempre **está** en una disancia.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वृन्ताककतकालिङ्गबिल्वोदुम्बरभिस्सटाः । यो भक्षयति संमोहात्तस्य दूरतरो हरिः ॥
+</details>
 
 
-it would follow that the things which are condemned in the following ślokas  
-would become pure by his touch:-
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"One" should not eat kommatti or (mullaṅgī), athikkāi, suraikkai and kovaippazham. Bhagavān ever stands far away from the man who always eats them." He who eats white brinjals, soap-nut (nettamkottai), kommatti (or mullaṅgī), kuvalai, athikkai, kāndal in ignorance-to him Bhagavān is always at a distance. He who eats, kommatti, sittavarai, kāṇḍal, nilaippanai and suraikkai - to him Bhagavān is ever at a distance." He who eats white brinjals, kommatti, cheese (or curds) made from the milk of a cow within ten days of its calfing, the bulb of the lotus -- he will never think in his last moments of Bhagavān, the Lord of the world, "He who has eaten "velangãi , peerku, irulli, vellulli, nāikkudai (mushroom) urpanrikkizhangu - he should perform the expiatory ceremony called 'Chandrāyana'. “To eat the sprout of the cocoanut, sanaippukkirai, mushroom, kusumbai, suraikkai, fruits or vegetables that have been produced with nightsoil as manure, milk mixed with salt, ghee that has been poured into the remnants of food on the leaf or plate, water in the place where the dhoby washes clothes to eat these is the same as to drink toddy." "The man who thinks of“ Bhagavān should never drink vinegar (kadi). It is reckoned as liquor. Therefore one should earnestly avoid it." "The "Vaiṣṇava who touches blood even without knowing what it is - I never condone his offence, O goddess of the earth, even after a thousand apologies." "He who is born a * Brahmin and eats anna (cooked food) on the Ekādaśī day - he eats sin in every morsel and the morsel is comparable to the dung of the dog "." He who is not ill and yet eats anna (cooked food) on the Ekādaśī day-be sins as though he has drunk liquor. There
+> कालिङ्गीं क्षुद्र-वार्ताञ् च  
+दग्धान्नं मौसलीं तथा ।  
+तुम्बिका-फलम् **अश्नीयात्**  
+तस्य दूरतरो हरिः ॥
+</details>
 
-is no doubt of this. The man who drinks liquor goes to hell by himself, whereas the man who eata anna on Ekādasi day drags his ancestors (also) into hell". "The mind becomes impure by eating forbidden food, by coveting what one has not got, by seeing various objects of sense-pleasure and by want of cleanliness in the body". " Yama plans to kill the Brahmin with (the weapons of) failure to study the Vedas, the absence of right observances, laziness and forbidden food."
+<details><summary>नीलमेघः (सं)</summary>
+
+> कालिङ्गीं क्षुद्र-वार्ताञ् च  
+दग्धान्नं मौसलीं तथा ।  
+तुम्बिका-फलम् **अश्नीयात्**  
+तस्य दूरतरो हरिः ॥
+</details>
+
+<details><summary>English</summary>
+
+> He who eats, kommatti, sittavarai, kāṇḍal, nilaippanai and suraikkai -  
+to him Bhagavān is ever at a distance." 
+</details>
+
+<details><summary>Español</summary>
+
+> El que **come**, Kommatti, Sittavarai, Kāṇḍal, Nilaippanai y Suraikkai -  
+Para el, bhagavān siempre **está** en una disancia.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कालिङ्गीं क्षुद्रवार्ताञ्च दग्धान्नं मौसलीं तथा । तुम्बिकाफलमश्नीयात्तस्य दूरतरो हरिः ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यो **ऽत्ति** वार्ताक-कालिङ्ग-  
+मसूर-बिसकान्य् अपि ।  
+अन्त-काले जगन्नाथं  
+गोविन्दं **न स्मरिष्यति** ॥’’  
+(),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> यो **ऽत्ति** वार्ताक-कालिङ्ग-  
++++(प्रसवाद् दशाहे दुग्ध्वा सृष्टम् =)+++मसूर--+++(पद्म-)+++बिसकान्य् अपि ।  
+अन्त-काले जगन्नाथं  
+गोविन्दं **न स्मरिष्यति** ॥’’  
+(),
+</details>
+
+<details><summary>English</summary>
+
+> He who eats white brinjals, kommatti, cheese (or curds) made from the milk of a cow within ten days of its calfing, the bulb of the lotus --  
+he will never think in his last moments of Bhagavān,  
+the Lord of the world, 
+</details>
+
+<details><summary>Español</summary>
+
+> El que **come** Brinjals blancos, Kommatti, queso (o cuajada) **hecho** de la leche de una vaca  
+dentro de los diez días posteriores a la pantorrilla,  
+el bulbo del loto -  
+**Nunca pensará** en sus últimos momentos de Bhagavān,
+el señor del mundo,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+योऽत्ति वार्ताक कालिङ्ग मसूरबिसकान्यपि । अन्तकाले जगन्नाथं गोविन्दं न स्मरिष्यति ॥’’(), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तुम्बं कोशातकञ् चैव  
+पलण्डुं ग्रञ्जनं तथा ।  
+छत्राकं विड्-वराहञ् च  
+**भुक्त्वा** चान्द्रायणां चरेत् ॥’’  
+(भारतम् आश्वमेधिक-पर्व ११२-४४),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तुम्बं कोशातकञ् चैव  
+पलण्डुं ग्रञ्जनं तथा ।  
+छत्राकं विड्-वराहञ् च  
+**भुक्त्वा** चान्द्रायणां चरेत् ॥’’  
+(भारतम् आश्वमेधिक-पर्व ११२-४४),
+</details>
+
+<details><summary>English</summary>
+
+> "He who has eaten velangãi , peerku, irulli, vellulli, nāikkudai (mushroom) urpanrikkizhangu -  
+he should perform the expiatory ceremony called 'Chandrāyana'. 
+</details>
+
+<details><summary>Español</summary>
+
+> "El que **come** Velanganai, Peerku, Irulli, Vellulli, Nāikkudai (hongo) Urpanrikkizhangu -  
+**Debería realizar** la ceremonia expiatoria **llamada** 'Chandrāyana'.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तुम्बं कोशातकञ्चैव पलण्डुं ग्रञ्जनं तथा । छत्राकं विड्वराहञ्च भुक्त्वा चान्द्रायणां चरेत् ॥’’(भारतम् आश्वमेधिक-पर्व ११२-४४),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नालिका-चण-छत्राक-  
+कुसुम्भालाबु--विड्-भवान् ॥  
+कुम्भी-कञ्चुक-वृन्ताक-  
+कोविदारांश् च **वर्जयेत्** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नालिका-चण-छत्राक-  
+कुसुम्भालाबु--विड्-भवान् ॥  
+कुम्भी-कञ्चुक-वृन्ताक-  
+कोविदारांश् च **वर्जयेत्** ॥
+</details>
+
+<details><summary>English</summary>
+
+> “(One should avoid) the sprout of the cocoanut, sanaippukkirai, mushroom, kusumbai, suraikkai,  
+fruits or vegetables that have been produced with nightsoil as manure,  
+(kumbhi??, kanchuka??, white brinjal, kovidAra??)
+</details>
+
+<details><summary>Español</summary>
+
+> "(Uno **debe evitar**) el brote del cacao, Sanaippukkirai, hongos, kusumbai, suraikkai,  
+frutas o verduras que **se han producido** con la cuna de noche como estiércol,  
+(Kumbhi ??, Kanchuka ??, White Brinjal, Kovidara ??)
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नालिकाचण छत्राक कुसुम्भालाबु विड्भवान् ॥ कुंभी कञ्चुक-वृन्ताक-कोविदारांश्च वर्जयेत् ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> क्षीरं लवण-संमिश्रम्  
+**उच्छिष्टे** ऽपि च घृतं ।  
+**पानं** रजक-तीर्थे च  
+सुरा-पान-समं **विदुः** ॥’’(),+++(4)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> क्षीरं लवण-संमिश्रम्  
+**उच्छिष्टे** ऽपि च घृतं ।  
+**पानं** रजक-तीर्थे च  
+सुरा-पान-समं **विदुः** ॥’’(),
+</details>
+
+<details><summary>English</summary>
+
+> Milk mixed with salt,  
+ghee that has been poured into the remnants of food on the leaf or plate,  
+water in the place where the washerman washes clothes  
+to eat these is the same as to drink toddy." 
+</details>
+
+<details><summary>Español</summary>
+
+> Leche **mezclada** con sal,  
+Ghee que **se ha vertido** en los restos de la comida**** en la hoja o el plato,  
+Agua en el lugar donde el lavabo **lava** la ropa  
+**Comer** estos **es** lo mismo que beber ponche ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+क्षीरं लवणसंमिश्रमुच्छिष्टेपि च घृतं । पानं रजकतीर्थे च सुरापानसमं विदुः ॥’’(),
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आरनालं **न सेवेत**  
+कदाचिद् भगवत्-परः ।  
+सुरा-कल्पं हि तद् **ज्ञेयं**  
+तस्माद् **यत्नेन वर्जयेत्** ॥’’  
+(शाण्डिल्य-स्मृतिः २-५१),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘आरनालं **न सेवेत**  
+कदाचिद् भगवत्-परः ।  
+सुरा-कल्पं हि तद् **ज्ञेयं**  
+तस्माद् **यत्नेन वर्जयेत्** ॥’’  
+(शाण्डिल्य-स्मृतिः २-५१),
+</details>
+
+<details><summary>English</summary>
+
+> "The man who thinks of Bhagavān should never drink vinegar (kadi).  
+It is reckoned as liquor.  
+Therefore one should earnestly avoid it." 
+</details>
+
+<details><summary>Español</summary>
+
+> "El hombre que **piensa** de Bhagavān **nunca debe beber** vinagre (Kadi).  
+**Se considera** licor.  
+Por lo tanto, uno **debe evitarlo** sinceramente ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘आरनालं न सेवेत कदाचिद्भगवत्परः । सुराकल्पं हि तद्ज्ञेयं तस्माद्यत्नेन वर्जयेत् ॥’’(शाण्डिल्य-स्मृतिः २-५१),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘प्रमादाद् अपि कीलालं+++(=रक्तं)+++  
+यस् **स्पृशेद्** वैष्णवो नरः ।  
+उपचार-शतेनापि  
+**न क्षमामि** वसुन्धरे ॥’’  
+(वराहपुराणम्), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘प्रमादाद् अपि कीलालं+++(=रक्तं)+++  
+यस् **स्पृशेद्** वैष्णवो नरः ।  
+उपचार-शतेनापि  
+**न क्षमामि** वसुन्धरे ॥’’  
+(वराहपुराणम्), 
+</details>
+
+<details><summary>English</summary>
+
+> "The Vaiṣṇava who touches blood even without knowing what it is -  
+I never condone his offence, O goddess of the earth,  
+even after a thousand apologies." 
+</details>
+
+<details><summary>Español</summary>
+
+> "El Vaiṣṇava que **toca** la sangre incluso **sin saber** qué es -  
+**Nunca apruebo** su ofensa, oh diosa de la tierra,  
+Incluso después de mil disculpas ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रमादादपि कीलालं यस्स्पृशेद्वैष्णवो नरः । उपचार शतेनापि न क्षमामि वसुन्धरे ॥’’(वराहपुराणम्), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘एकादश्यां सुर-श्रेष्ठ  
+यो **भुङ्ते** द्विज-जन्मवान् ।  
+प्रति ग्रासम् अयं **भुङ्ते**  
+किल्बिषं श्वान-विट्-समम् ॥’’  
+(सात्त्वत-संहिता), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘एकादश्यां सुर-श्रेष्ठ  
+यो **भुङ्ते** द्विज-जन्मवान् ।  
+प्रति ग्रासम् अयं **भुङ्ते**  
+किल्बिषं श्वान-विट्-समम् ॥’’  
+(सात्त्वत-संहिता), 
+</details>
+
+<details><summary>English</summary>
+
+> "He who is born a Brahmin and eats anna (cooked food) on the Ekādaśī day -  
+he eats sin in every morsel  
+and the morsel is comparable to the dung of the dog "
+</details>
+
+<details><summary>Español</summary>
+
+> "El que **nace** un brahmán y **come** Anna (comida cocinada) en el día de ekādaśī -  
+**come** pecado en cada bocado  
+y el bocado **es** comparable al estiércol del perro "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘एकादश्यां सुरश्रेष्ठ यो भुङ्ते द्विजजन्मवान् । प्रति ग्रासमयं भुङ्ते किल्बिषं श्वानविट्समम् ॥’’(सात्त्वत-संहिता), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘एकादश्यान् तु यो **भुङ्ते**  
+शक्तस् सन् निरुपद्रवः ।  
+सुरा-पान-समं पापं  
+**भवेत्** तस्य न संशयः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘एकादश्यान् तु यो **भुङ्ते**  
+शक्तस् सन् निरुपद्रवः ।  
+सुरा-पान-समं पापं  
+**भवेत्** तस्य न संशयः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> " He who is not ill  
+and yet eats anna (cooked food) on the Ekādaśī day-  
+he sins as though he has drunk liquor.  
+There is no doubt of this. 
+</details>
+
+<details><summary>Español</summary>
+
+> "El que **no está** enfermo  
+y sin embargo **come** Anna (comida **cocinada**) en el día de ekādaśī-  
+Él **peca** como si **hubiera bebido** licor.  
+**No hay** duda de esto.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘एकादश्यान्तु यो भुङ्ते शक्तस्सन्निरुपद्रवः । सुरापानसमं पापं भवेत्तस्य न संशयः ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मद्यपानात् सुर-श्रेष्ठ  
+पातैव नरकं **व्रजेत्** ।  
+एकादश्य्-अन्न-कामस् तु  
+पितृभिस् सह **मज्जति** ॥’’  
+(), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> मद्यपानात् सुर-श्रेष्ठ  
+पातैव नरकं **व्रजेत्** ।  
+एकादश्य्-अन्न-कामस् तु  
+पितृभिस् सह **मज्जति** ॥’’  
+(), 
+</details>
+
+<details><summary>English</summary>
+
+> The man who drinks liquor goes to hell by himself,  
+whereas the man who eata anna on Ekādasi day  
+drags his ancestors (also) into hell". 
+</details>
+
+<details><summary>Español</summary>
+
+> El hombre que **bebe** licor va al infierno solo,  
+Mientras que el hombre que **come** a Anna en el día de Ekādasi  
+**arrastra** a sus antepasados ​​(también) al infierno ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+मद्यपानात्सुरश्रेष्ठ पातैव नरकं व्रजेत् । एकादश्यन्नकामस्तु पितृभिस्सह मज्जति ॥’’(), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अन्न-दोषाद् अशमनान्  
+नाना-विषय-दर्शनात् ।  
+देह-शौचादि-विरहात्  
+स-मलं जायते मनः ॥’’  
+(श्री-रङ्ग-माहात्म्यम् ४७-१०), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अन्न-दोषाद् अशमनान्  
+नाना-विषय-दर्शनात् ।  
+देह-शौचादि-विरहात्  
+स-मलं जायते मनः ॥’’  
+(श्री-रङ्ग-माहात्म्यम् ४७-१०), 
+
+</details>
+
+
+<details><summary>English</summary>
+
+> "The mind becomes impure by eating forbidden food,  
+by coveting what one has not got,  
+by seeing various objects of sense-pleasure  
+and by want of cleanliness in the body". 
+</details>
+
+<details><summary>Español</summary>
+
+> "La mente **se vuelve impura** al **comer** comida prohibida,  
+Al **codiciar** lo que uno **no tiene**,  
+**viendo** varios objetos de placer del sentido  
+y por falta de **limpieza** en el cuerpo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अन्नदोषादशमनान्नानाविषयदर्शनात् । देहशौचादिविरहात् समलं जायतेमनः ॥’’(श्रीरङ्गमाहात्म्यम् ४७-१०), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आलस्याद् अन्न-दोषाच् च  
+मृत्युर् विप्रान् **जिघांसति**’’  
+(मनुस्मृति ५-३)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘आलस्याद् अन्न-दोषाच् च  
+मृत्युर् विप्रान् **जिघांसति**’’  
+(मनुस्मृति ५-३)
+</details>
+
+<details><summary>English</summary>
+
+> " Yama plans to **kill** the Brahmin with (the weapons of) failure to study the Vedas,  
+the absence of right observances, laziness and forbidden food."
+</details>
+
+<details><summary>Español</summary>
+
+> "Yama **planea matar** el brahmán con (las armas de) no **estudiar** los Vedas,  
+La **ausencia** de observancias correctas, pereza y **comida prohibida** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘आलस्यादन्नदोषाच्च मृत्युर्विप्रान् जिघांसति’’(मनुस्मृति ५-३)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> … इत्य्-आदिगळाले निषिद्धम् आऩ्-अवैय् ऎल्लाम्  
+इवऩ् तॊट्ट वाऱे+++(=विधिना)+++ शुद्धम् आम् 
+
+ऎऩ्ऱ बडिय् अऩ्ऱु।
+</details>
+
+
+<details><summary>English</summary>
+
+it would follow that the things which are condemned in the ~~following~~ above ślokas  
+would become pure by his touch.  
+(That would be wrong.)
+</details>
+
+<details><summary>Español</summary>
+
+**Seguiría** que las cosas que **están condenadas** en Ślokas arribas  
+**se volvería** puro por su toque.  
+(Eso **estaría** mal).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळाले निषिद्धमाऩवै यॆल्लाम् इवऩ् तॊट्टवाऱे शुद्धमामॆऩ्ऱबडियऩ्ऱु।
+</details>
+
+
+
 
 If no such discrimination were accepted, it would conflict with many śāstras which have been recognised as great authorities and also with the traditional observances of the learned (siṣṭa ). Therefore to state such views is merely of the nature of exaggera. tion (of some one aspect). Even by the man who, has supreme and exclusive devotion (paramaikāntin) and whose greatness is boundless, these restrictions imposed by the sāstras are not violated. This may be understood from the observances until the last day of their lives, of greatācāryas like Nāthamuni, Aḷavandār and Śrī Rāmānuja.
 
