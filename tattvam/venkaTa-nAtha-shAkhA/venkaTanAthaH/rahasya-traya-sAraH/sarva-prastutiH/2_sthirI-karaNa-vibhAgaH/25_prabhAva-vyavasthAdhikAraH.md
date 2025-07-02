@@ -7339,6 +7339,7 @@ would become pure by his touch.
 इत्यादिगळाले निषिद्धमाऩवै यॆल्लाम् इवऩ् तॊट्टवाऱे शुद्धमामॆऩ्ऱबडियऩ्ऱु।
 </details>
 
+## शास्त्र-नियतता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि विषय-व्यवस्थै पण्णाद बोदु  
@@ -7370,15 +7371,459 @@ Por lo tanto, **declarar** tales puntos de vista **es** simplemente de la natura
 इप्पडि विषयव्यवस्थै पण्णादबोदु परिगृहीततमङ्गळाऩ बहुशास्त्रङ्गळोडुम् शिष्टानुष्ठानत्तोडुम् विरोधिक्कैयाले अतिवादमात्रमाय्विडुम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> महा-प्रभावऩ् आऩ परमैकान्ति पक्कलिलुम्  
+इश्-शास्त्रीय-नियमम् कुलैयाद् 
+
+ऎऩ्ऩुम् इडम् 
+</details>
+
+<details><summary>English</summary>
+
+Even by the man who, has supreme and exclusive devotion (paramaikāntin) and whose greatness is boundless,  
+these restrictions imposed by the sāstras are not violated. 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso por el hombre que tiene devoción suprema y exclusiva (paramaikāntin) y cuya grandeza **es** ilimitada,  
+Estas **restricciones impuestas** por los Sāstras **no se violan**.
+</details>
 
 
-Even by the man who, has supreme and exclusive devotion (paramaikāntin) and whose greatness is boundless, these restrictions imposed by the sāstras are not violated. This may be understood from the observances until the last day of their lives, of greatācāryas like Nāthamuni, Aḷavandār and Śrī Rāmānuja.
+<details><summary>मूलम्</summary>
+
+महाप्रभावऩाऩ परमैकान्ति पक्कलिलुम् इश् शास्त्रीयनियमम् कुलैयादॆऩ्ऩुमिडम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाथ-मुनिगळ्, आळ-वन्दार्, ऎम्-बॆरुमाऩार् उळ्ळ् इट्ट परमाचार्यर्गळ्-उडैय  
+अन्तिम-दिवसावधिय् आऩव् अनुष्ठानङ्गळैक् केट्टुत् तॆळिन्दु गॊळ्वदु।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+This may be understood from the observances until the last day of their lives,  
+of great ācāryas like Nāthamuni, Aḷavandār and Śrī Rāmānuja.
+
+</details>
+
+<details><summary>Español</summary>
+
+Esto **puede entenderse** desde las **observancias** hasta el último día de sus **vidas**,  
+de grandes ācāryas como Nāthamuni, Aḷavandār y śrī rāmānuja.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नाथमुनिकळ् आळवन्दार् ऎम्बॆरुमाऩारुळ्ळिट्ट परमाचार्यर्गळुडैय अन्तिमदिवसावधियाऩ वनुष्ठानङ्गळैक् केट्टुत्तॆळिन्दुगॊळ्वदु।
+</details>
+
+
+## त्याग-प्रकारः
+<details><summary>English</summary>
 
 THE PERFORMANCE OF THE RITES OF THE VARṆAS AND ĀŚRAMAS IS OBLIGATORY:
+</details>
 
-Those who are outside the pale of the Vedas and those who hold heretical views give up, owing to delusion, these restrictions and regulations which are ordained in the Vedas and the śāstras based on the Vedas. That this kind of renunciation is due to tamas is declared by Bhagavān in the śloka :- "One  should not give up the karma ordained for the castes and the āśramas. Their omission arising from ignorance is renunciation (tyāga) due to tamas". He has (also) declared that the giving up of activities and abstentions which are of the nature of pain is renunciation due to rajas, in the following:- "He who gives up karma,because it is painful and fatiguing to the body - he renounces owing to rajas and does not obtain the fruit of renunci ation." His tyāga or renunciation is like that of the man who becomes sannyāsin because of the difficulties of maintaining a family.
+<details><summary>Español</summary>
 
-While giving up, in accordance with our competence, what should be given ap and doing what should be done, we should give up the thought, "I am doing all this as an independent agent, this activity is dependent on me; this will be the means of my attaining such and such an object". We should, on the other hand, think that the Supreme Ruler is the (real) doer and that we render service to Him, which is His due, with the sole object of pleasing Him. If we follow this line of thought (in what we do and in what we refrain from ), it is renunciation due to sattvan, and this has been declared by Bhagavān in :-"To perform the karma ordained for a man with the thought that it is an end in itself and that it ought to be done without the thought that the karma is his (independent) action and without the desire for gain of any kind - this is, O Arjuna, renunciation due to sattvam" The man should observe (these rites and regulations ) solely for the purpose of pleasing Bhagavān. He should not even ask for mokṣa as a reward, for he should realise that, by the grace of the All merciful Lord which has been won by the prapatti performed before, mokṣa is certain. (He should) render service (kaiṅkarya) like those who have already attained mukti. This would resemble a healthy man eating food with milk (without any thought of the care from illness to be obtained from milk). Such a code of conduct is the highest limit of renunciation due to sattvam. This is like eating food when men are hungry. Otherwise their conduct would resemble that of men who eat cakes for winning a wager, (They cannot derive any true pleasure therefrom). (The man that eats food when hungry enjoys it, because he does so with no other object than satisfying his hunger. The man who eats cakes for winding a wager, cannot find any relish in doing so.)
+El **rendimiento** de los **ritos** de los varṇas y āśramas es obligatorio:
+</details>
+
+### तामस-त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वेद--वैदिक-शास्त्रङ्गळिऱ् सॊल्लुगिऱ नियमङ्गळै  
+बाह्यरुम् कु-दृष्टिगळुम् भ्रान्तियाले विडुगिऱव् इडम्  
+तामस-त्यागम् 
+
+ऎऩ्ऩुम् इडत्तै 
+</details>
+
+<details><summary>English</summary>
+
+Those who are outside the pale of the Vedas  
+and those who hold heretical views  
+give up, owing to delusion,  
+these restrictions and regulations which are ordained in the Vedas and the śāstras based on the Vedas.  
+That this kind of renunciation is due to tamas …
+</details>
+
+<details><summary>Español</summary>
+
+Los que **están** fuera del pálido de los Vedas  
+y los que **tienen** puntos de vista heréticos  
+**rendirse**, debido a la ilusión,  
+Estas **restricciones** y **regulaciones** que **se ordenan** en los Vedas y los Śāstras **basados** ​​en los Vedas.  
+Que este tipo de **renuncia se debe** a los tamas ...
+</details>
+
+<details><summary>मूलम्</summary>
+
+वेदवैदिकशास्त्रङ्गळिऱ् सॊल्लुगिऱ नियमङ्गळै बाह्यरुम् कुदृष्टिकळुम् भ्रान्तियाले विडुगिऱविडम् तामसत्यागमॆऩ्ऩुमिडत्तै 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नियतस्य तु सन्न्यासः  
+कर्मणो **नोपपद्यते** ।  
+मोहात् तस्य परित्यागस्  
+तामसः **परिकीर्तितः**॥’’  
+(गीता १८-७) 
+
+ऎऩ्गिऱ श्लोकत्तालेय् अरुळिच् चॆय्दाऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नियतस्य तु सन्न्यासः  
+कर्मणो **नोपपद्यते** ।  
+मोहात् तस्य परित्यागस्  
+तामसः **परिकीर्तितः**॥’’  
+(गीता १८-७) 
+
+</details>
+
+<details><summary>English</summary>
+
+is declared by Bhagavān in the śloka :- 
+
+> "One should not give up the karma  
+ordained for the castes and the āśramas.  
+Their omission arising from ignorance is renunciation (tyāga) due to tamas". 
+</details>
+
+<details><summary>Español</summary>
+
+es declarado por Bhagavān en el Śloka:-
+
+> "Uno no debe renunciar al karma
+Ordenado para las castas y los āśramas.
+Su omisión derivada de la ignorancia es la renuncia (tyāga) debido a los tamas ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नियतस्य तु सन्न्यासः कर्मणो नोपपद्यते । मोहात्तस्य परित्यागस्तामसः परिकीर्तितः’’(गीता १८-७) ऎऩ्गिऱ श्लोकत्तालेयरुळिच् चॆय्दाऩ्। 
+</details>
+
+### राजस-त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कुटुम्ब-भरणादिगळुक्क् अलैन्दु  
+सन्न्यासादिगळैप् पऱ्ऱुवारैप् पोले 
+</details>
+
+<details><summary>English</summary>
+
+> His tyāga or renunciation is like that of the man  
+who becomes sannyāsin because of the difficulties of maintaining a family (when)
+</details>
+
+<details><summary>Español</summary>
+
+> Su tyāga o **renuncia es** como la del hombre  
+quien **se convierte** en sannyāsin debido a las dificultades de mantener una familia (cuándo)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुटुम्बभरणादिगळुक्कलैन्दु सन्न्यासादिगळैप् पऱ्ऱुवारैप्पोले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> दुःख-रूपगळ् आऩ प्रवृत्ति-निवृत्तिगळुक्कुच् चोम्बि+++(=आलसी भूत्वा)+++ विडुगिऱव् इडम्  
+राजस-त्यागम्  
+
+ऎऩ्ऩुमिडत्तै
+</details>
+
+<details><summary>English</summary>
+
+> the giving up of activities and abstentions  
+which are of the nature of pain  
+is renunciation due to rajas,  
+</details>
+
+<details><summary>Español</summary>
+
+> **Renunciar** a **actividades** y **abstenciones**  
+que **son** de la naturaleza del dolor  
+**es renuncia** debido a rajas,
+</details>
+
+<details><summary>मूलम्</summary>
+
+दुःखरूपकळाऩ प्रवृत्तिनिवृत्तिकळुक्कुच्चोम्बि विडुगिऱविडम् राजसत्यागमॆऩ्ऩुमिडत्तै
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘दुःखम् इत्य् एव यः कर्म  
+काय-क्लेश-भयात् **त्यजेत्** ।  
+स **कृत्वा** राजस-त्यागं  
+नैव त्याग-फलं **लभेत्**॥’’  
+(गीता १८-८) 
+
+ऎऩ्ऱ् अरुळिच् चॆय्दाऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘दुःखम् इत्य् एव यः कर्म  
+काय-क्लेश-भयात् **त्यजेत्** ।  
+स **कृत्वा** राजस-त्यागं  
+नैव त्याग-फलं **लभेत्**॥’’  
+(गीता १८-८) 
+
+</details>
+
+<details><summary>English</summary>
+
+He has (also) declared that in the following:- 
+
+> "He who gives up karma,  
+because it is painful and fatiguing to the body -  
+he renounces owing to rajas  
+and does not obtain the fruit of renunciation." 
+</details>
+
+<details><summary>Español</summary>
+
+Él **ha declarado** (también) que en lo **siguiente**:-
+
+> "El que **renuncia** al karma,  
+Porque **es** doloroso y fatigante para el cuerpo -  
+Él **renuncia** debido a Rajas  
+y **no obtiene** el fruto de la **renuncia** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘दुःखमित्येव यः कर्म कायक्लेशभयात्त्यजेत् । स कृत्वा राजसत्यागं नैव त्यागफलं लभेत्’’(गीता १८-८) ऎऩ्ऱरुळिच्चॆय्दाऩ्। 
+</details>
+
+
+### सात्त्विक-त्यागः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तऩ्ऩ् अधिकारानुरूपम् आगत्  
+तविर+++(=वारणीय)+++ वेण्डुम्-अवै तविर्न्दु  
+सॆय्य वेण्डुम्-अवै सॆय्युम् इडत्तिल् 
+</details>
+
+<details><summary>English</summary>
+
+> While giving up, in accordance with our competence, what should be given up  
+and doing what should be done,  
+</details>
+
+<details><summary>Español</summary>
+
+> Mientras **se rinde**, de acuerdo con nuestra competencia, lo que **se debe renunciar**  
+Y **haciendo** lo que **se debe hacer**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩ्ऩधिकारानुरूपमागत् तविर वेण्डुमवै तविर्न्दु सॆय्यवेण्डुमवै सॆय्युमिडत्तिल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > नाऩ् स्वतन्त्रऩ् आय्च् चॆय्गिऱेऩ् 
+> 
+> ऎऩ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+> > "I am doing all this as an independent agent, 
+</details>
+
+<details><summary>Español</summary>
+
+> > "Estoy **haciendo** todo esto como un agente independiente,
+</details>
+
+<details><summary>मूलम्</summary>
+
+नाऩ् स्वतन्त्रऩाय्च्चॆय्गिऱेऩॆऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ऎऩक्क् इक्-कर्मम् शेष-भूतम् +++(5)+++
+> 
+> ऎऩ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+> > this activity is dependent on me; +++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+> > Esta actividad **depende** de mí;+++(5)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩक्किक्कर्मम् शेषभूतमॆऩ्ऱुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ऎऩक्क् इऩ्ऩ फलत्तुक्क् इदु ताऩे साधनम् 
+> 
+> ऎऩ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+> > this will be the means of my attaining such and such an object". 
+</details>
+
+<details><summary>Español</summary>
+
+> > Este **será** el medio de **lograr** tal y tal objeto ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩक्किऩ्ऩ फलत्तुक्किदुदाऩे साधनमॆऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पिऱक्कुम् निऩैवै माऱ्ऱि
+</details>
+
+<details><summary>English</summary>
+
+> \- we should give up such thought,  
+</details>
+
+<details><summary>Español</summary>
+
+> \- **Deberíamos renunciar** a tal **pensamiento**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+पिऱक्कुम् निऩैवै माऱ्ऱि
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्वेश्वरऩ् सॆय्विक्क अवऩुक्कु शेषमाऩ कैङ्कर्यत्तै  
+अवऩ्-उगप्पे प्रयोजनम् आग अनुसन्धित्त् अनुष्ठिक्कै  
+सात्त्विक-त्यागम् 
+
+ऎऩ्ऩुम् इडत्तै 
+</details>
+
+<details><summary>English</summary>
+
+> We should, on the other hand, think that the Supreme Ruler is the (real) doer  
+and that we render service to Him,  
+which is His due,  
+with the sole object of pleasing Him.  
+If we follow this line of thought (in what we do and in what we refrain from ),  
+it is renunciation due to sattva,  
+</details>
+
+<details><summary>Español</summary>
+
+> **Deberíamos**, por otro lado, **pensar** que el **gobernante** supremo **es** el **hacedor** (real)  
+y que **le prestamos servicio** a él,  
+que **es** su debido,  
+con el único objeto de **complacerlo**.  
+Si **seguimos** esta línea de **pensamiento** (en lo que **hacemos** y en lo que **nos abstenemos**),  
+**es renuncia** debido a sattva,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वेश्वरऩ् सॆय्विक्क अवऩुक्कु शेषमाऩ कैङ्कर्यत्तै अवऩुगप्पे प्रयोजनमाग अनुसन्धित्तनुष्ठिक्कै सात्त्विकत्यागमॆऩ्ऩुमिडत्तै 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘+++(कैङ्कर्य-रूप-स्वयम्-प्रयोजनतया)+++ कार्यम् इत्य् एव यत् कर्म  
+नियतं **क्रियते** ऽर्जन ।  
++++(प्रधान-कर्तृत्व-)+++सङ्गं **त्यक्त्वा** फलञ् चैव  
+स **त्यागस्** सात्त्विको **मतः**॥’’  
+(गीता १८-९) 
+
+ऎऩ्ऱ् अरुळिच् चॆय्दाऩ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘+++(कैङ्कर्य-रूप-स्वयम्-प्रयोजनतया)+++ कार्यम् इत्य् एव यत् कर्म  
+नियतं **क्रियते** ऽर्जन ।  
++++(प्रधान-कर्तृत्व-)+++सङ्गं **त्यक्त्वा** फलञ् चैव  
+स **त्यागस्** सात्त्विको **मतः**॥’’  
+(गीता १८-९) 
+
+</details>
+
+<details><summary>English</summary>
+
+and this has been declared by Bhagavān in :-
+
+> "To perform the karma ordained for a man  
+with the thought that it is an end in itself  
+and that it ought to be done without the thought  
+that the karma is his (independent) action  
+and without the desire for gain of any kind -  
+this is, O Arjuna, renunciation due to sattvam." 
+</details>
+
+<details><summary>Español</summary>
+
+y esto **ha sido declarado** por Bhagavān en:-
+
+> "Para **realizar** el karma **ordenado** para un hombre  
+con la idea de que **es** un fin en sí mismo  
+y que **debería hacerse** sin el **pensamiento**  
+que el karma **es** su acción (independiente)  
+y sin el deseo de **ganancia** de ningún tipo -  
+Esta **es**, oh Arjuna, **renuncia** debido a Sattvam ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जन । सङ्गं त्यक्त्वा फलञ्चैव स त्यागस्सात्त्विको मतः’’(गीता १८-९) ऎऩ्ऱरुळिच्चॆय्दाऩ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इब् भगवत्-प्रीति-प्रयोजनम् आग अनुष्ठिक्किऱव् इडत्तिले  
+इप् प्रीतिक्कु मोक्षमुम् फलम् आगक् कोलादे 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इब् भगवत्प्रीतिप्रयोजनमाग अनुष्ठिक्किऱविडत्तिले इप् प्रीतिक्कु मोक्षमुम् फलमागक्कोलादे 
+</details>
+
+
+
+The man should observe (these rites and regulations ) solely for the purpose of pleasing Bhagavān. He should not even ask for mokṣa as a reward, for he should realise that, by the grace of the All merciful Lord which has been won by the prapatti performed before, mokṣa is certain. (He should) render service (kaiṅkarya) like those who have already attained mukti. This would resemble a healthy man eating food with milk (without any thought of the care from illness to be obtained from milk). Such a code of conduct is the highest limit of renunciation due to sattvam. This is like eating food when men are hungry. Otherwise their conduct would resemble that of men who eat cakes for winning a wager, (They cannot derive any true pleasure therefrom). (The man that eats food when hungry enjoys it, because he does so with no other object than satisfying his hunger. The man who eats cakes for winding a wager, cannot find any relish in doing so.)
 
 THE REAL MEANING OF "HAVING GIVEN UP ALL DHARMAS"
 
