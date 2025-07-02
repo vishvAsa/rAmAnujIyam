@@ -7277,6 +7277,8 @@ y por falta de **limpieza** en el cuerpo ".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> (अनभ्यासेन वेदानाम्  
+आचारस्य च वर्जनात्।)  
 > ‘‘आलस्याद् अन्न-दोषाच् च  
 मृत्युर् विप्रान् **जिघांसति**’’  
 (मनुस्मृति ५-३)
@@ -7284,6 +7286,8 @@ y por falta de **limpieza** en el cuerpo ".
 
 <details><summary>नीलमेघः (सं)</summary>
 
+> (अनभ्यासेन वेदानाम्  
+आचारस्य च वर्जनात्।)  
 > ‘‘आलस्याद् अन्न-दोषाच् च  
 मृत्युर् विप्रान् **जिघांसति**’’  
 (मनुस्मृति ५-३)
@@ -7316,7 +7320,6 @@ La **ausencia** de observancias correctas, pereza y **comida prohibida** ".
 ऎऩ्ऱ बडिय् अऩ्ऱु।
 </details>
 
-
 <details><summary>English</summary>
 
 it would follow that the things which are condemned in the ~~following~~ above ślokas  
@@ -7336,14 +7339,42 @@ would become pure by his touch.
 इत्यादिगळाले निषिद्धमाऩवै यॆल्लाम् इवऩ् तॊट्टवाऱे शुद्धमामॆऩ्ऱबडियऩ्ऱु।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि विषय-व्यवस्थै पण्णाद बोदु  
+परिगृहीततमङ्गळ् आऩ बहु-शास्त्रङ्गळोडुम्, शिष्टानुष्ठानत्तोडुम् विरोधिक्कैयाले  
+अतिवाद-मात्रम् आय् विडुम्। 
+</details>
+
+<details><summary>English</summary>
+
+If no such discrimination were accepted,  
+it would conflict with many śāstras  
+which have been recognised as great authorities  
+and also with the traditional observances of the learned (siṣṭa ).  
+Therefore to state such views is merely of the nature of exaggeration (of some one aspect). 
+</details>
+
+<details><summary>Español</summary>
+
+Si **no se aceptara** tal **discriminación**,  
+En **conflicto** con muchos śāstras  
+que **han sido reconocidos** como grandes autoridades  
+y también con las **observancias** tradicionales de los eruditos (Siṣṭa).  
+Por lo tanto, **declarar** tales puntos de vista **es** simplemente de la naturaleza de la **exageración** (de un solo aspecto).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि विषयव्यवस्थै पण्णादबोदु परिगृहीततमङ्गळाऩ बहुशास्त्रङ्गळोडुम् शिष्टानुष्ठानत्तोडुम् विरोधिक्कैयाले अतिवादमात्रमाय्विडुम्। 
+</details>
 
 
 
-If no such discrimination were accepted, it would conflict with many śāstras which have been recognised as great authorities and also with the traditional observances of the learned (siṣṭa ). Therefore to state such views is merely of the nature of exaggera. tion (of some one aspect). Even by the man who, has supreme and exclusive devotion (paramaikāntin) and whose greatness is boundless, these restrictions imposed by the sāstras are not violated. This may be understood from the observances until the last day of their lives, of greatācāryas like Nāthamuni, Aḷavandār and Śrī Rāmānuja.
+Even by the man who, has supreme and exclusive devotion (paramaikāntin) and whose greatness is boundless, these restrictions imposed by the sāstras are not violated. This may be understood from the observances until the last day of their lives, of greatācāryas like Nāthamuni, Aḷavandār and Śrī Rāmānuja.
 
-THE PERFORMANCE OF THE RITES OF THE VARṆAS
-
-AND ĀŚRAMAS IS OBLIGATORY:
+THE PERFORMANCE OF THE RITES OF THE VARṆAS AND ĀŚRAMAS IS OBLIGATORY:
 
 Those who are outside the pale of the Vedas and those who hold heretical views give up, owing to delusion, these restrictions and regulations which are ordained in the Vedas and the śāstras based on the Vedas. That this kind of renunciation is due to tamas is declared by Bhagavān in the śloka :- "One  should not give up the karma ordained for the castes and the āśramas. Their omission arising from ignorance is renunciation (tyāga) due to tamas". He has (also) declared that the giving up of activities and abstentions which are of the nature of pain is renunciation due to rajas, in the following:- "He who gives up karma,because it is painful and fatiguing to the body - he renounces owing to rajas and does not obtain the fruit of renunci ation." His tyāga or renunciation is like that of the man who becomes sannyāsin because of the difficulties of maintaining a family.
 
