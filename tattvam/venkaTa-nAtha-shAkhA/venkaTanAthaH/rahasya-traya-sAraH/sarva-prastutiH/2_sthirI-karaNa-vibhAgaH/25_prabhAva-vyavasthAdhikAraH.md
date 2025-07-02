@@ -6323,7 +6323,7 @@ y **ha sido tomado** para **ilustración** por Aḷavandār en su āgama prāmā
 
 आगैयाले 
 
-> ’’पोऩगञ्+++(=अन्नम्)+++ सॆय्द  
+> ’’भोऩगञ्+++(←भोजनम्)+++ सॆय्द  
 शेड+++(ष)+++न् तरुवरेऱ्  
 पुऩितम् अऩ्ऱेय्’’(तिरुमालै ४२)  
 
@@ -6374,11 +6374,426 @@ inmediatamente **me hará** puro "
 </details>
 
 
-Even if it is of general application, it means only this much - "If those who are devotees of the Lord should give me what is left over after their meal, it would purify me, even though they have been obliged, by force of unfavourable circumstances like place and time, to follow occupations lower than those ordained for them and to make others also follow them." In this (Tamil) passage, if the word śeṣa should mean only what is left in the vessels in which the food was cooked as in the question and answer (after a srāddha) - "what is to be done with the food left over ?," and "let it be eaten in the company of friends" - if it should mean only this, there is nothing wrong. The word ucchishta, too, has been employed in the śrutis to mean what is left in the cooking vessel after (people) have dined. Madu and others have determined to this effect :- "One should give up wealth and pleasure (artha and kama) when they are against dharma. Even dharma which is likely to bring suffering or which is likely to rouse disgust among people in the world should be given up".
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-" His very speech should be considered as a sacred mantra ". This means that even the words in the vernacular language employed by him as necessary for spiritual elevation should be cherished like Tirumantra and reflected upon. It does not mean that his talk on worldly affairs is fit to be uttered as japa. The saying : "His words in jest should be cherished as the texts in the śrutis" should also be interpreted in this sense. “All that he touches becomes pure'; This should be interpreted as follows:- When a man is ill (and cannot himself bathe ), another is allowed to touch him and bathe for his sake; when the ācārya initiates the śiṣya into the sacred mantras, he touches the śiṣya with his hand; this touch is called "touch with the hand of Viṣṇu". When an idol is newly installed, it is touched with the hand by great devotees of the Lord. In certain other circumstances, too, the touch with the hand is prescribed as purificatory. The passage means, therefore, that his touch of all things is even more purificatory in such contexts as are ordained in the śāstras.
+पॊदुव् आऩालुम्  
+भगवत्-सङ्कीर्तन-परर् देश-कालादि-वैगुण्यत्ताले ऊन-वृत्तिगळुम् आय्  
+ऊन-कारकर्गळुम् आय् इरुन्दार्गळेय् आगिलुम्  
 
-If this (interpretation) were not accepted, it would follow that the things which are condemned in the following ślokas would become pure by his touch:-"The fruit of the fig tree (attikkai in Tamil) should not be eaten". "One" should not eat kommatti or (mullaṅgī), athikkāi, suraikkai and kovaippazham. Bhagavān ever stands far away from the man who always eats them." He who eats white brinjals, soap-nut (nettamkottai), kommatti (or mullaṅgī), kuvalai, athikkai, kāndal in ignorance-to him Bhagavān is always at a distance. He who eats, kommatti, sittavarai, kāṇḍal, nilaippanai and suraikkai - to him Bhagavān is ever at a distance." He who eats white brinjals, kommatti, cheese (or curds) made from the milk of a cow within ten days of its calfing, the bulb of the lotus -- he will never think in his last moments of Bhagavān, the Lord of the world, "He who has eaten "velangãi , peerku, irulli, vellulli, nāikkudai (mushroom) urpanrikkizhangu - he should perform the expiatory ceremony called 'Chandrāyana'. “To eat the sprout of the cocoanut, sanaippukkirai, mushroom, kusumbai, suraikkai, fruits or vegetables that have been produced with nightsoil as manure, milk mixed with salt, ghee that has been poured into the remnants of food on the leaf or plate, water in the place where the dhoby washes clothes to eat these is the same as to drink toddy." "The man who thinks of“ Bhagavān should never drink vinegar (kadi). It is reckoned as liquor. Therefore one should earnestly avoid it." "The "Vaiṣṇava who touches blood even without knowing what it is - I never condone his offence, O goddess of the earth, even after a thousand apologies." "He who is born a * Brahmin and eats anna (cooked food) on the Ekādaśī day - he eats sin in every morsel and the morsel is comparable to the dung of the dog "." He who is not ill and yet eats anna (cooked food) on the Ekādaśī day-be sins as though he has drunk liquor. There
+> ताङ्गळ् अमुदु सॆय्द शेड+++(ष)+++न् तरुवर् आगिल्  
+पुऩिदम् आम्   
+
+ऎऩ्ऱद् इत्तऩै।
+</details>
+
+<details><summary>English</summary>
+
+Even if it is of general application,  
+it means only this much - 
+
+> "If those who are devotees of the Lord should give me  
+what is left over after their meal,  
+it would purify me,  
+even though they have been obliged, by force of unfavourable circumstances like place and time,  
+to follow occupations lower than those ordained for them  
+and to make others also follow them." 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso si **es** de **aplicación** general,  
+**Significa** solo esto
+
+> "Si aquellos que **son devotos** del Señor me **dan**  
+Lo que **queda** después de su **comida**,  
+me **purificaría**  
+a pesar de que **han sido obligados**, por la fuerza de circunstancias desfavorables como el lugar y el tiempo,  
+**seguir** las ocupaciones más bajas que las ordenadas para ellos  
+y **hacer** que otros también los **sigan** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पॊदुवाऩालुम् भगवत्सङ्कीर्तनपरर् देशकालादिवैगुण्यत्ताले ऊनवृत्तिकळुमाय् ऊनकारकर्गळुमायिरुन्दार्गळेयागिलुम्दाङ्गळमुदुसॆय्द सेडन्दरुवरागिल् पुऩिदमामॆऩ्ऱदित्तऩै।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् शेष-शब्दम् 
+
+> ‘‘अन्न-शेषः किं क्रियताम्?  
+इष्टैस् सह भुज्यताम्’’  
+
+इत्य्-आदिगळिल् न्यायत्ताले  
+भाण्ड-स्थ-विषयम् आऩाल् विरोधम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+In this (Tamil) passage,  
+if the word śeṣa should mean only what is left  
+in the vessels in which the food was cooked  
+as in the question and answer (after a srāddha) - 
+
+> "what is to be done with the food left over ?," 
+
+and 
+
+> "let it be eaten in the company of friends" 
+
+-- if it should mean only this,  
+there is nothing wrong. 
+</details>
+
+<details><summary>Español</summary>
+
+En este pasaje (tamil),  
+Si la palabra śeṣa **signifique** solo lo que **queda**  
+en los buques en los que **se cocinó** la **comida**  
+Como en la **pregunta** y **respuesta** (después de un srāddha) -
+
+> "¿Qué **se debe hacer** con la **comida sobrante**?",
+
+y
+
+> "Que **se coma** en compañía de amigos"
+
+- Si solo **signifique** esto,
+**No hay** nada malo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् शेषशब्दम् ‘‘अन्नशेषः किं क्रियतामिष्टैस्सह भुज्यताम्’’  इत्यादिगळिल् न्यायत्ताले भाण्डस्थविषयमाऩाल् विरोधमिल्लै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उच्छिष्ट-शब्दन् ताऩुम्  
+श्रुत्य्-आदिगळिले भुक्त-शिष्टम् आय्  
+पाक-पात्र-स्थम् आऩ् अदिलुम् प्रयुक्तम्
+</details>
+
+<details><summary>English</summary>
+
+The word ucchishta, too, has been employed in the śrutis  
+to mean what is left in the cooking vessel  
+after (people) have dined. 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra ucchishta **también ha sido empleada** en el Śrutis  
+**significar** lo que **queda** en el recipiente de **cocción**  
+Después de (las personas) **han cenado**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उच्छिष्टशब्दन्दाऩुम् श्रुत्यादिगळिले भुक्तशिष्टमाय् पाकपात्रस्थमाऩदिलुम् प्रयुक्तम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ४‘‘परित्यजेद् अर्थ-कामौ  
+यौ स्यातां धर्म-वर्जितौ ।  
+धर्मं चाप्य् अ-सुखोदर्कं  
+लोक-संरुष्टम् एव च॥’’ +++(5)+++  
+(मनुस्मृति ४-१७६) 
+
+ऎऩ्ऱु मन्व्-आदिगळ् व्यवस्थै पण्णिऩार्गळ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ४‘‘परित्यजेद् अर्थ-कामौ  
+यौ स्यातां धर्म-वर्जितौ ।  
+धर्मं चाप्य् अ-सुखोदर्कं  
+लोक-संरुष्टम् एव च॥’’ +++(5)+++  
+(मनुस्मृति ४-१७६) 
+
+</details>
+
+<details><summary>English</summary>
+
+Manu and others have determined to this effect :- 
+
+> "One should give up wealth and pleasure (artha and kama)  
+when they are against dharma.  
+Even dharma which is likely to bring suffering  
+or which is likely to rouse disgust among people in the world  
+should be given up".
+</details>
+
+<details><summary>Español</summary>
+
+Manu y otros **han determinado** a este efecto:-
+
+> "Uno debería **renunciar** a la riqueza y el placer (Artha y Kama)  
+Cuando **están** en contra del dharma.  
+Incluso el dharma que probablemente **traiga** sufrimiento  
+o que **es** probable que **se disguste** entre las personas en el mundo  
+**debe renunciarse** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+४‘‘परित्यजेदर्थकामौ यौ स्यातां धर्मवर्जितौ । धर्मं चाप्यसुखोदर्कं लोकसंरुष्टमेव च’’(मनुस्मृति ४-१७६) ऎऩ्ऱु मन्वादिगळ् व्यवस्थै पण्णिऩार्गळ्।
+</details>
+
+## उपदेशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तद्-उक्ति-मात्रं मन्त्राग्र्यं’’ 
+
+ऎऩ्ऱ्-अदु 
+
+> इवऩ् तञ्जम्+++(=शरणम्)+++ आग उपदेशित्त भाषा-वाक्यङ्गळुम्  
+तिरु-मन्त्रम् बोले आदरित्त् अनुसन्धिक्क वेणुम् 
+
+ऎऩ्ऱ बडि;
+</details>
+
+<details><summary>English</summary>
+
+> " His very speech should be considered as a sacred mantra ". 
+
+This means that even the words in the vernacular language employed by him  
+as necessary for spiritual elevation  
+should be cherished like Tirumantra and reflected upon. 
+</details>
+
+<details><summary>Español</summary>
+
+> "Su mismo **discurso debe considerarse** como un mantra sagrado".
+
+Esto significa que **incluso** las palabras en el idioma vernácula **empleadas** por él  
+**según sea necesario** para la **elevación** espiritual  
+debe **apreciarse** como tirumantra y **reflejarse**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तदुक्तिमात्रं मन्त्राग्र्यं’’ ऎऩ्ऱदु इवऩ् तञ्जमाग उपदेशित्त भाषावाक्यङ्गळुम् तिरुमन्त्रम्बोले आदरित्तनुसन्धिक्कवेणुमॆऩ्ऱबडि;
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लद् इवऩ् सॊल्लुम् लौकिक-व्यवहारङ्गळ् जपादि-योग्यङ्गळ् ऎऩ्ऱ बडिय् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+It does not mean that his talk on worldly affairs is fit to be uttered as japa. 
+</details>
+
+<details><summary>Español</summary>
+
+**No significa** que su **charla** sobre asuntos mundanos **sea apto** para **ser pronunciado** como Japa.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अल्लदिवऩ् सॊल्लुम् लौकिकव्यवहारङ्गळ् जपादियोग्यङ्गळॆऩ्ऱबडियऩ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’सॊल्लुम् अविडु+++(←अपटु)+++ सुरुदिय् आम्’’ 
+
+ऎऩ्ऱ् अदुक्कुम्  
+इप्-पडि हितार्थम् आऩ वाक्यमे विषयम्।
+</details>
+
+<details><summary>English</summary>
+
+The saying : 
+
+> "His words in jest should be cherished  
+as the texts in the śrutis"  
+
+should also be interpreted in this sense. 
+</details>
+
+<details><summary>Español</summary>
+
+El **dicho**:
+
+> "Sus palabras en broma  
+**deberían ser apreciadas**
+Como los textos en el Śrutis "
+
+también **debe interpretarse** en este sentido.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’सॊल्लुमविडु सुरुदियाम्’’  ऎऩ्ऱदुक्कुमिप्पडि हितार्थमाऩ वाक्यमे विषयम्।
+</details>
+
+## स्पर्शः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तत्-स्पृष्टम् अखिलं शुचि’’ 
+
+ऎऩ्ऱ् अदु  
+आतुर-विषयत्तिल् +++(अन्येन)+++ स्पृष्ट्वा स्नानम् बोलवुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> “All that he touches becomes pure'; 
+
+This should be interpreted as follows:-  
+
+> When a man is ill (and cannot himself bathe ), another is allowed to touch him and bathe for his sake; 
+</details>
+
+<details><summary>Español</summary>
+
+> "Todo lo que **toca se vuelve** puro";
+
+Esto **debe interpretarse** de la siguiente manera:-
+
+> Cuando un hombre **está** enfermo (y **no puede bañarse**),  
+otro **puede tocarlo** y **bañarse** por su bien;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तत्स्पृष्टमखिलं शुचि’’ ऎऩ्ऱदु आतुरविषयत्तिल् स्पृष्ट्वास्नानम्बोलवुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दीक्षा-कालत्तिल् विष्णु-हस्त-प्रदानाख्य-स्पर्शम् पोलवुम्, 
+</details>
+
+<details><summary>English</summary>
+
+when the ācārya initiates the śiṣya into the sacred mantras,  
+he touches the śiṣya with his hand;  
+this touch is called "touch with the hand of Viṣṇu". 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el ācārya **inicia** el Śiṣya en los mantras sagrados,  
+**Toca** el Śiṣya con su mano;  
+Este toque **se llama** "**Toque** con la mano de Viṣṇu".
+</details>
+
+<details><summary>मूलम्</summary>
+
+दीक्षाकालत्तिल् विष्णुहस्तप्रदानाख्यस्पर्शम् पोलवुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरु-प्रतिष्ठैयिल् महा-भागवत-स्पर्शम् पोलवुम् 
+</details>
+
+<details><summary>English</summary>
+
+When an idol is newly installed,  
+it is touched with the hand by great devotees of the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando un ídolo **está** recién **instalado**,  
+Es **tocado** con la mano por grandes **devotos** del Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तिरुप्रतिष्ठैयिल् महाभागवतस्पर्शम् पोलवुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मऱ्ऱुम् स्पर्शम् विहितम् आऩव् इडङ्गळिले  
+इवऩ्-उडैय स्पर्शम् पॆऱ्ऱद् आगिल्  
+स्पृष्टम् आऩ् अवैय् ऎल्लाम्  
+परिशुद्धम् आम् 
+
+ऎऩ्ऱ बडि;
+</details>
+
+<details><summary>English</summary>
+
+In certain other circumstances, too,  
+the touch with the hand is prescribed as purificatory.  
+The passage means, therefore,  
+that his touch of all things  
+is even more purificatory in such contexts  
+as are ordained in the śāstras.
+</details>
+
+<details><summary>Español</summary>
+
+En ciertas otras circunstancias también,  
+El **toque** con la mano **se prescribe** como purificador.  
+El pasaje **significa**, por lo tanto,  
+que su **toque** de todas las cosas  
+es aún más **purificador** en tales contextos  
+como **están ordenados** en los Śāstras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुम् स्पर्शम् विहितमाऩविडङ्गळिले इवऩुडैय स्पर्शम् पॆऱ्ऱदागिल् स्पृष्टमाऩवैयॆल्लाम् परिशुद्धमामॆऩ्ऱबडि;
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लदु 
+
+> ‘‘उदुम्बरं न खादेत् तु”  
+( भारतम् आनुशासनिक-पर्व १६१-९७), 
+</details>
+
+<details><summary>English</summary>
+
+If this (interpretation) were not accepted, 
+
+> "The fruit of the fig tree (attikkai in Tamil) should not be eaten". 
+</details>
+
+<details><summary>Español</summary>
+
+Si esta (interpretación) **no fue aceptada**,
+
+> "El fruto de la higuera (Attikkai en tamil) **no debe comer**".
+</details>
+
+<details><summary>मूलम्</summary>
+
+अल्लदु ‘‘उदुम्बरं न खादेत्तु”( भारतम् आनुशासनिक-पर्व १६१-९७), 
+</details>
+
+
+
+it would follow that the things which are condemned in the following ślokas  
+would become pure by his touch:-
+
+"One" should not eat kommatti or (mullaṅgī), athikkāi, suraikkai and kovaippazham. Bhagavān ever stands far away from the man who always eats them." He who eats white brinjals, soap-nut (nettamkottai), kommatti (or mullaṅgī), kuvalai, athikkai, kāndal in ignorance-to him Bhagavān is always at a distance. He who eats, kommatti, sittavarai, kāṇḍal, nilaippanai and suraikkai - to him Bhagavān is ever at a distance." He who eats white brinjals, kommatti, cheese (or curds) made from the milk of a cow within ten days of its calfing, the bulb of the lotus -- he will never think in his last moments of Bhagavān, the Lord of the world, "He who has eaten "velangãi , peerku, irulli, vellulli, nāikkudai (mushroom) urpanrikkizhangu - he should perform the expiatory ceremony called 'Chandrāyana'. “To eat the sprout of the cocoanut, sanaippukkirai, mushroom, kusumbai, suraikkai, fruits or vegetables that have been produced with nightsoil as manure, milk mixed with salt, ghee that has been poured into the remnants of food on the leaf or plate, water in the place where the dhoby washes clothes to eat these is the same as to drink toddy." "The man who thinks of“ Bhagavān should never drink vinegar (kadi). It is reckoned as liquor. Therefore one should earnestly avoid it." "The "Vaiṣṇava who touches blood even without knowing what it is - I never condone his offence, O goddess of the earth, even after a thousand apologies." "He who is born a * Brahmin and eats anna (cooked food) on the Ekādaśī day - he eats sin in every morsel and the morsel is comparable to the dung of the dog "." He who is not ill and yet eats anna (cooked food) on the Ekādaśī day-be sins as though he has drunk liquor. There
 
 is no doubt of this. The man who drinks liquor goes to hell by himself, whereas the man who eata anna on Ekādasi day drags his ancestors (also) into hell". "The mind becomes impure by eating forbidden food, by coveting what one has not got, by seeing various objects of sense-pleasure and by want of cleanliness in the body". " Yama plans to kill the Brahmin with (the weapons of) failure to study the Vedas, the absence of right observances, laziness and forbidden food."
 
