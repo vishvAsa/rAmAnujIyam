@@ -5499,6 +5499,12 @@ Como si **fuera** una **ofrenda** para colocar ante mí ".
 इदिऩुबबृंहणमाऩ ‘‘यत्करोषि यदश्नासि’’(गीता ९-२७) ऎऩ्गिऱ श्लोकत्तुक्कुम् इप्पडि शास्त्रविरोध मिल्लादविषयत्तिले तात्पर्यम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘यत्करोषि यदश्नासि’’ ऎऩ्गिऱ गीतावचनत्तिऱ्कुम् शास्त्रविरुद्धेतरविषयत्तिलेये तात्पर्यमॆऩ्गिऱार् इदिऩ् उपबृंहणमाऩ इत्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवऱ्ऱिल् शास्त्र-विरुद्धङ्गळ् वन्दाल्  
@@ -5532,6 +5538,8 @@ de **acuerdo** con lo que **es** competente para uno.
 
 इवऱ्ऱिल् शास्त्रविरुद्धङ्गळ् वन्दाल् अधिकारानुरूपमाऩ नैमित्तिकम् निग्रहशमनकार्यम्।   
 </details>
+
+
 
 ## वादादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5984,6 +5992,14 @@ Solo **asigna** un mérito superior cuando **se debe**.
 अदु सर्वाधिक-तीर्थम् ऎऩ्ऱ बडि;
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"पादोदकं तीर्थम्" इत्य् उक्त-विषये  
+नारायणैक-निष्ठत्वे सति  
+तत्-सर्वाधिक-तीर्थम् इत्य् उक्तं भवति ; 
+</details>
+
+
 <details><summary>English</summary>
 
 When the water from the feet is considered as holy,  
@@ -6009,6 +6025,13 @@ Si **hay** una **devoción** exclusiva a Nārāyaṇa en la persona,
 यादृच्छिकम् आगप् पट्ट+++(=प्राप्त/स्पृष्ट)+++ निर्माल्य-जलादिगळुम्  
 अतुलम् आऩ तीर्थम् ऎऩ्ऱ बडिय् अऩ्ऱु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+न तु भागवतस्य पादे यादृच्छिक-सम्बन्धवन्ति निर्माल्यादीन्य् अप्य्  
+अतुलं तीर्थम् इत्य् उक्तं भवेत् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6040,6 +6063,17 @@ lo que **puede**, por casualidad, **entrar en contacto** con sus pies.
 इग्-गुण-विशेषम् अडिय् आग  
 पावनत्वातिशयञ् जॊऩ्ऩ बडि; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तद्-उच्छिष्टं सुपावनं’’ 
+
+इत्य् एतद् अपि  
+पुनर्-उपनयनादि-प्रकरणे  
+पावनत्वेन शास्त्रप्राप्तस्योच्छिष्ट-विशेषस्य  
+एतद्-गुण-विशेष-नियमन-पावनत्वातिशयं ब्रवीति; 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6080,8 +6114,24 @@ Debido a la excelencia de esta calidad,
 
 मऱ्ऱुम् शिष्य-पुत्रादिगळुक्कु  
 नारायणैक-निष्ठत्वम् उण्ड् आऩाल्  
-आचार्यादिगळुक्कुम् अवर्गळ्-उडैय उच्छिष्टम् सुपावनम् ऎऩ्ऱ बडिय् अऩ्ऱु। 
+
+> आचार्यादिगळुक्कुम् अवर्गळ्-उडैय उच्छिष्टम् सुपावनम् 
+
+ऎऩ्ऱ बडिय् अऩ्ऱु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२४१]] 
+
+न तु 
+
+> शिष्य-पुत्रादीनां नारायणैक-निष्ठत्वे सति  
+आचार्यादीनाम् अपि तद्-उच्छिष्टं सु-पावनम्  
+
+इत्य् अपि प्रतिपादयेत् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6119,6 +6169,20 @@ lo que **sea** que quede como **remanente** después de **haber comido**
 ऎऩ्ऱु 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘निर्माल्यं **भक्षयित्वैवम्**  
+उच्छिष्टम् अ-गुरोर् अपि ।  
+मासं पयो-व्रतो भूत्वा  
+**जपन्न्** अष्टाक्षरं सदा ।  
+ब्रह्म-कूर्चं ततः **पीत्वा**  
+**पूतो** भवति मानवः॥’’  
+(सनत्कुमारसंहिता) 
+
+इति
+</details>
+
+
 <details><summary>English</summary>
 
 It is said in the Sanatkumāra Saṁhitā that  
@@ -6150,6 +6214,13 @@ y **comer** también Brahmakurcha - Pañcagavya.
 आगम-प्रामाण्यत्तिले आळ-वन्दार् उदाहरित्त् अरुळिऩार्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवद्-धर्म-निष्ठ-समयाचार-प्रतिपादकं  
+सनत्-कुमार-संहिता-वचनम् आगम-प्रामाण्ये श्री-यामुनाचार्या उदाजह्रुः । 
+</details>
+
+
 <details><summary>English</summary>
 
 This passage prescribes the code of conduct for one who follows the dharma of Bhagavān  
@@ -6176,6 +6247,16 @@ y **ha sido tomado** para **ilustración** por Aḷavandār en su āgama prāmā
 सेडन्दरुवरेऱ् पुऩितम् अऩ्ऱेय्’’(तिरुमालै ४२)  
 
 ऎऩ्ऱ् अदुवुम् गुरु-विषयम् आम् इत्तऩै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः 
+
+> "मुक्त-शिष्टं दद्युश् चेत्  
+पावनं किल" 
+
+इत्य् अपि गुरु-विषयम् इत्येव । 
 </details>
 
 <details><summary>English</summary>
