@@ -14,15 +14,13 @@ title = "AchArya idol removal/ jailing"
 - तिरुप्पुल्लानि
 - ... अनुवर्तते
 
-> in mylapore when VD was taken out of keshava perumal koil to set up his own sannidhi since Tks won't allow vdks to to aradhanam to desikan, water mixed with cow dung were poured on the sripadam and desikan murti.  
-> 
+### tUpul
 > Thooppul VD murti was taken out of garbhagrha and thrown into filth. There is a report by a sulla judge which decries it comparing it to what ghaznavi did. 
-> 
-> In srivi, Desikan murti was beheaded. U can see the broken murti in the sannidhi well even now. We have mellowed down now.
 > 
 > - ravilochanaH
 
 ### shrIvilliputtUr 1816
+> In srivi, Desikan murti was beheaded. U can see the broken murti in the sannidhi well even now. We have mellowed down now.
 
 15\. In the year 1816, the Thenkalais interfered with the Vadakalais feeding Brahmins in the Vedanta Desikar shrine and even in this interference they were worstedvide Exhibits G1, XIV (b), G3, G2 and G4. These documents show that the Tenkalais even went so far as to spitting in the Desikar shrine so as to prevent completely the feast being given in it and that for this outrage they were tried and convicted by the Magistrate. In all these documents the Collector calls this shrine as belonging to the Vadakalais only.
 
@@ -45,6 +43,9 @@ This was all over by May 1822, Vide Exhibit JJ.
 and in the following year plaintiff's predecessors applied to the Collector  
 that the pa-tithram which was being given to the Desikar shrine for daily performance of the puja in it from the Nachiar temple should be ordered to be given to them as before-Exhibit F dated 4-1-1823.
 
+### Mylapore
+> in mylapore when VD was taken out of keshava perumal koil to set up his own sannidhi, since Tks won't allow vdks to aradhanam to desikan, water mixed with cow dung were poured on the sripadam tangis (idol carriers) and desikan murti.
+
 ## mahAmuni removal
 महामुनि: निष्कासित इत्यत्र  
 एकं स्थलं काञ्चीति कनिष्ठिकया गण्यते चेत् अनामिका सार्थवती पुनः बभूव
@@ -53,3 +54,4 @@ Throwing of mAmunigaL's Thirumeni into the periya puSkariNi in Kanchi before 19t
 
 The idol was restored.  
 Thence even an utsava for mahAmuni was instituted.
+
