@@ -8037,18 +8037,88 @@ Esto **es renuncia** a la acción debido a sattvam
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप् बुद्धि-विशेषम्  
-स्व-तन्त्र--प्रपत्ति-निष्ठऩुक्कु प्रपत्त्य्-अनुष्ठान-कालत्तिलुम्  
+इब् बुद्धि-विशेषम्  
+स्व-तन्त्र--प्रपत्ति-निष्ठऩुक्कु प्रपत्त्य्-अनुष्ठान-कालत्तिलुम्,  
 पिऩ्बु स्वयं-प्रयोजनम् आय् उपायत्तोडु तुवक्क्-अऱ्ऱ उत्तर-कृत्यत्तिल् उपजीव्यम्।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+This form of thought should be borne in mind  
+by the man who has adopted prapatti as a direct and independent upāya,  
+at the time of the performance of prapatti  
+and also in his further actions (after prapatti),  
+which are ends in themselves  
+and have no relation of any kind to an upāya. 
+</details>
+
+<details><summary>Español</summary>
+
+Esta forma de **pensamiento** debe **tener** en cuenta  
+por el hombre que **ha adoptado** a Prapatti como un upāya directo e independiente,  
+En el momento del **rendimiento** de Prapatti  
+y también en sus otras **acciones** (después de Prapatti),
+que **son** objetivos en sí mismos  
+y **no tienen relación** de ningún tipo con un upāya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इब् बुद्धिविशेषम् स्वतन्त्रप्रपत्तिनिष्ठऩुक्कु प्रपत्त्यनुष्ठानकालत्तिलुम् पिऩ्बु स्वयंप्रयोजनमायुपायत्तोडु तुवक्कऱ्ऱ उत्तरकृत्यत्तिलुपजीव्यम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वितीय-योजनैयिल् 
+
+> अल्प-शक्तिय् आय्  
+विळम्बाक्षमऩ् आऩव् अऩुक्कु दुष्करम् आय्  
+चिर-काल-साध्यम् आऩ उपायान्तरत्तैप् पार्त्तु  
+शोकम् पिऱक्क,
+</details>
+
+<details><summary>English</summary>
+
+In the second interpretation given of those words (by the author of of the Bhāṣya), they mean that  
+when the man of poor ability who cannot brook any delay in the attainment of mukti  
+falls into grief or despair  
+at the thought of all the dharmas or rites prescribed in the śāstras and his inability to perform them,  
+</details>
+
+<details><summary>Español</summary>
+
+En la segunda interpretación **dada** de esas palabras (por el autor de los bhāṣya), **significan** que  
+Cuando el hombre de pobre capacidad que **no puede tolerar** cualquier **retraso** en el **logro** de Mukti  
+**cae** en dolor o desesperación  
+al **pensar** en todos los dharmas o ritos **prescritos** en los Śāstras y su incapacidad para **realizarlos**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+द्वितीययोजनैयिल् अल्पशक्तियाय् विळम्बाक्षमऩाऩवऩुक्कु दुष्करमाय् चिरकालसाध्यमाऩ उपायान्तरत्तैप् पार्त्तुशोकम् पिऱक्क,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अवऩ्-उडैय शोकापनोदनार्थम् आग  
+सुकरम् आय् सकृत्-कर्तव्यमुम् आऩ उपायान्तरत्तै विधित्तद् आक्कि  
+> 
+> > नी उपायान्तरत्तिल् अलैय वेण्डाव्  
+> 
+> ऎऩ्गिऱद् 
+
+ऎऩ्ऱ् अरुळिच् चॆय्दार्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-इप् बुद्धिविशेषम् स्वतन्त्रप्रपत्तिनिष्ठऩुक्कु प्रपत्त्यनुष्ठानकालत्तिलुम् पिऩ्बु स्वयंप्रयोजनमायुपायत्तोडु तुवक्कऱ्ऱ उत्तरकृत्यत्तिलुपजीव्यम्।
+अवऩुडैय शोकापनोदनार्थमाग सुकरमाय् सकृत्कर्तव्यमुमाऩ उपायान्तरत्तै विधित्तदाक्कि नी उपायान्तरत्तिललैयवेण्डा वॆऩ्गिऱतॆऩ्ऱरुळिच् चॆय्दार्।
 </details>
 
 
-This form of thought should be borne in mind by the man who has adopted prapatti as a direct and independent upāya, at the time of the performance of prapatti and also in his further actions (after prapatti), which are ends in themselves and have no relation of any kind to an upāya. In the second interpretation given of those words (by the author of of the Bhāṣya), they mean that when the man of poor ability who cannot brook any delay in the attainment of mukti falls into grief or despair at the thought of all the dharmas or rites prescribed in the śāstras and his inability to perform them, the Lord, in order to dispel his despair, ordained another means which is easy of perforinance and has to be adopted only once and said: "You need not go about seeking other upāyas" The prapanna should note that in order that one may be competent for prapatti, the absence of adoption of any other upāya before its performance is a requisite which has been present of its own accord by the grace of God. In regard to actions after the performance of prapatti, this giving up of the adoption of other upāyas is insisted on in the śāstra itself and this shows how prapatti does not require any aid (after it is once done).
+the Lord, in order to dispel his despair, ordained another means which is easy of perforinance and has to be adopted only once and said: "You need not go about seeking other upāyas" The prapanna should note that in order that one may be competent for prapatti, the absence of adoption of any other upāya before its performance is a requisite which has been present of its own accord by the grace of God. In regard to actions after the performance of prapatti, this giving up of the adoption of other upāyas is insisted on in the śāstra itself and this shows how prapatti does not require any aid (after it is once done).
 
 If the word parityajya (having given up) merely states what has, on account of inability, already occurred (and not what is enjoined), the meaning (of the first part of the carama śloka) would be that this having given up is a qualification for prapatti. If, on the other hand, the words (having given up) state what is ordained or enjoined to be done, then the meaning would be that prapatti does not require anything else to be performed. Thus, if parityajya (having given up) merely states what has already taken place or what has already occurred, the words mām ekam will have to be thought of as meaning that nothing else (than Bhagavān) is required for the attainment of the desired end. If, on the other hand*[^73] parityajya means that prapatti requires nothing else for yielding its fruit, the words, mã suchah (do not grieve), show, by the force of logic or meaning, that the grief or despair which is a mark of being destitute of other means is what is required for competency for praputti (adhikāra;)
 
