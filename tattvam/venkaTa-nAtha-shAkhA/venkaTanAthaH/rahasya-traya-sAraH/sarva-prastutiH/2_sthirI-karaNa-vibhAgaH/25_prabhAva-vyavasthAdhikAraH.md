@@ -7998,6 +7998,7 @@ THE REAL MEANING OF "HAVING GIVEN UP ALL DHARMAS" IN THE CARAMA ŚLOKA:
 El verdadero **significado** de "**haber renunciado** a todos los dharmas" en el Carama Śloka:
 </details>
 
+#### सात्त्विक-त्यागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘सर्व-धर्मान् परित्यज्य’’ 
@@ -8068,6 +8069,7 @@ y **no tienen relación** de ningún tipo con un upāya.
 इब् बुद्धिविशेषम् स्वतन्त्रप्रपत्तिनिष्ठऩुक्कु प्रपत्त्यनुष्ठानकालत्तिलुम् पिऩ्बु स्वयंप्रयोजनमायुपायत्तोडु तुवक्कऱ्ऱ उत्तरकृत्यत्तिलुपजीव्यम्।
 </details>
 
+#### प्रपत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वितीय-योजनैयिल् 
@@ -8080,7 +8082,9 @@ y **no tienen relación** de ningún tipo con un upāya.
 
 <details><summary>English</summary>
 
-In the second interpretation given of those words (by the author of of the Bhāṣya), they mean that  
+In the second interpretation given of those words (by the author of of the Bhāṣya), 
+
+> they mean that  
 when the man of poor ability who cannot brook any delay in the attainment of mukti  
 falls into grief or despair  
 at the thought of all the dharmas or rites prescribed in the śāstras and his inability to perform them,  
@@ -8088,7 +8092,9 @@ at the thought of all the dharmas or rites prescribed in the śāstras and his i
 
 <details><summary>Español</summary>
 
-En la segunda interpretación **dada** de esas palabras (por el autor de los bhāṣya), **significan** que  
+En la segunda interpretación **dada** de esas palabras (por el autor de los bhāṣya), 
+
+> **significan** que  
 Cuando el hombre de pobre capacidad que **no puede tolerar** cualquier **retraso** en el **logro** de Mukti  
 **cae** en dolor o desesperación  
 al **pensar** en todos los dharmas o ritos **prescritos** en los Śāstras y su incapacidad para **realizarlos**,
@@ -8112,26 +8118,242 @@ al **pensar** en todos los dharmas o ritos **prescritos** en los Śāstras y su 
 ऎऩ्ऱ् अरुळिच् चॆय्दार्।
 </details>
 
+<details><summary>English</summary>
+
+> the Lord, in order to dispel his despair,  
+ordained another means  
+which is easy of performance  
+and has to be adopted only once  
+and said:   
+>
+> > "You need not go about seeking other upāyas"  
+</details>
+
+<details><summary>Español</summary>
+
+> El Señor, para **disipar** su desesperación,  
+**ordenado** otro medio  
+que **es** fácil de **rendimiento**  
+y **tiene** que **ser adoptado** solo una vez  
+y **dijo**:  
+>
+>> "**No necesitas buscar** otros upāyas"
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 अवऩुडैय शोकापनोदनार्थमाग सुकरमाय् सकृत्कर्तव्यमुमाऩ उपायान्तरत्तै विधित्तदाक्कि नी उपायान्तरत्तिललैयवेण्डा वॆऩ्गिऱतॆऩ्ऱरुळिच् चॆय्दार्।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-the Lord, in order to dispel his despair, ordained another means which is easy of perforinance and has to be adopted only once and said: "You need not go about seeking other upāyas" The prapanna should note that in order that one may be competent for prapatti, the absence of adoption of any other upāya before its performance is a requisite which has been present of its own accord by the grace of God. In regard to actions after the performance of prapatti, this giving up of the adoption of other upāyas is insisted on in the śāstra itself and this shows how prapatti does not require any aid (after it is once done).
+इप् प्रपत्त्य्-अनुष्ठानत्तुक्कु पूर्वावस्थैयिल् उपायान्तरानन्वयम्  
+दैवाद् आगतम् आय्  
+प्रपत्त्य्-अधिकारत्तिले सॊरुगक्+++(=निवेशं)+++ कडवदु। 
+</details>
 
-If the word parityajya (having given up) merely states what has, on account of inability, already occurred (and not what is enjoined), the meaning (of the first part of the carama śloka) would be that this having given up is a qualification for prapatti. If, on the other hand, the words (having given up) state what is ordained or enjoined to be done, then the meaning would be that prapatti does not require anything else to be performed. Thus, if parityajya (having given up) merely states what has already taken place or what has already occurred, the words mām ekam will have to be thought of as meaning that nothing else (than Bhagavān) is required for the attainment of the desired end. If, on the other hand*[^73] parityajya means that prapatti requires nothing else for yielding its fruit, the words, mã suchah (do not grieve), show, by the force of logic or meaning, that the grief or despair which is a mark of being destitute of other means is what is required for competency for praputti (adhikāra;)
+<details><summary>English</summary>
 
-[^73]: To the man or adhikārī who grieves at his inability to adopt the dharmas or aṅgas enjoined for bhakti yoga, the Carama Śloka says, “Perform prapatti to me and you need not adopt any other dharma".
+The prapanna should note that  
+in order that one may be competent for prapatti,  
+the absence of adoption of any other upāya before its performance is a requisite  
+which has been present of its own accord 
+by the grace of God. 
+</details>
+
+<details><summary>Español</summary>
+
+La Prapanna debe **tener** en cuenta que  
+Para que uno **pueda ser competente** para Prapatti,  
+La **ausencia** de **adopción** de cualquier otro upāya  
+antes de su **desempeño es** un **requisito**  
+que ha **estado presente** por su propia cuenta  
+por la gracia de Dios.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् प्रपत्त्यनुष्ठानत्तुक्कु पूर्वावस्थैयिलुपायान्तरानन्वयम् दैवादागतमाय् प्रपत्त्यधिकारत्तिले सॊरुगक्कडवदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्तरावस्थैयिल् उपायान्तरानन्वयं  
+शास्त्राद् आगतम् आय्  
+इप् प्रपत्तियिऩ्-उडैय नैरपेक्ष्यत्तिले निऱ्कक् कडवदु। 
+</details>
+
+<details><summary>English</summary>
+
+In regard to actions after the performance of prapatti,  
+this giving up of the adoption of other upāyas  
+is insisted on in the śāstra itself  
+and this shows how prapatti does not require any aid (after it is once done).
+</details>
+
+<details><summary>Español</summary>
+
+Con respecto a las **acciones** después del **rendimiento** de Prapatti,  
+Este **renuncia** a la **adopción** de otros upāyas  
+está **insistido** en el Śāstra en sí mismo  
+Y esto **muestra** cómo Prapatti **no requiere** ninguna **ayuda** (después de que alguna vez **esté hecha**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+उत्तरावस्थैयिलुपायान्तरानन्वयम् शास्त्रादागतमायिप् प्रपत्तियिऩुडैय नैरपेक्ष्यत्तिले निऱ्कक्कडवदु। 
+</details>
+
+##### परित्यज्य
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘परित्यज्य’’ ऎऩ्गिऱव् इदु अनुवादम् ऎऩ्बार्क्कु  
+
+> अधिकारञ् जॊल्लुगिऱद् 
+
+ऎऩ्ऱु तात्पर्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+If the word parityajya (having given up) merely states what has, on account of inability, already occurred  
+(and not what is enjoined),  
+the meaning (of the first part of the carama śloka) would be that  
+this - having given up - is a qualification for prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+Si la palabra parityajya (**habiendo renunciado**) simplemente **establece** lo que, debido a la incapacidad, **ya ocurrió**  
+(y no lo que **se ordena**),  
+El **significado** (de la primera parte del carama śloka) sería que  
+Esto, **habiendo renunciado, es** una calificación para Prapatti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘परित्यज्य’’ ऎऩ्गिऱविदु अनुवादमॆऩ्बार्क्कु अधिकारञ्जॊल्लुगिऱ तॆऩ्ऱु तात्पर्यम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++("परित्यज्ये"ति)+++ विधिय् ऎऩ्बार्क्कु  
+
+> प्रपत्तिय् आगिऱ उपायत्तिऩ्-उडैय नैरपेक्ष्यादिगळैच् चॊल्लुगिऱद्  
+
+ऎऩ्ऱु तात्पर्यम्॥
+</details>
+
+<details><summary>English</summary>
+
+If, on the other hand, the words (having given up) state what is ordained or enjoined to be done,  
+then the meaning would be that  
+prapatti does not require anything else to be performed. 
+</details>
+
+<details><summary>Español</summary>
+
+Si, por otro lado, las palabras (que **habían renunciado**) **indican** lo que **se ordena** que **se haga**,  
+entonces el **significado** sería que  
+Prapatti **no requiere** que **se realice** nada más.
+</details>
+
+<details><summary>मूलम्</summary>
+
+विधियॆऩ्बार्क्कु प्रपत्तियागिऱ उपायत्तिऩुडैयनैरपेक्ष्यादिगळैच् चॊल्लुगिऱदॆऩ्ऱु तात्पर्यम्॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि ‘‘परित्यज्य’’ ऎऩ्गिऱव् इडत्तिल्  
+अधिकारम् विवक्षितम् आऩाल्  
+‘‘माम् एकं’’ ऎऩ्गिऱव् इडत्तिले  
+नैरपेक्ष्यम् अनुसन्धिक्कप् प्राप्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+Thus, if parityajya (having given up) merely states what has already taken place or what has already occurred,  
+the words "mām ekam" will have to be thought of as meaning that  
+nothing else (than Bhagavān) is required for the attainment of the desired end. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, si Parityajya (**habiendo renunciado**) simplemente **establece** lo que ya **ha ocurrido**,
+Las palabras "mām ekam" **deberán considerarse** como un **significado** de que  
+**No se requiere** nada más (que Bhagavān) para el **logro** del fin **deseado**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि ‘‘परित्यज्य’’ ऎऩ्गिऱविडत्तिलधिकारम् विवक्षितमाऩाल् ‘‘मामेकं’’ ऎऩ्गिऱविडत्तिले नैरपेक्ष्यम् अनुसन्धिक्कप् प्राप्तम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘परित्यज्य’’ ऎऩ्ऱु नैरपेक्ष्यम् विवक्षितम् आऩाल्  
+‘‘मा शुचः’’ ऎऩ्गिऱ शोक-निषेधत्ताले  
+अकिञ्चनऩ् आय् निऱ्किऱ निलै तोऱ्ऱुगैयाले  
+अधिकारमुम् अर्थसिद्धम् आगक्कडवदु।   
+</details>
+
+<details><summary>English</summary>
+
+If, on the other hand parityajya means that prapatti requires nothing else for yielding its fruit,  
+the words, "mã suchah" (do not grieve), show, by the force of logic or meaning,  
+that the grief or despair which is a mark of being destitute of other means is what is required for competency for praputti (adhikāra;)
+
+(
+To the man or adhikārī who grieves at his inability to adopt the dharmas or aṅgas enjoined for bhakti yoga,  
+the Carama Śloka says,  
+
+> “Perform prapatti to me and you need not adopt any other dharma".
+
+)
+</details>
+
+<details><summary>Español</summary>
+
+Si, por otro lado, Parityajya **significa** que Prapatti **no requiere** nada más para **producir** su fruto,  
+Las palabras, "Má Suchah" (**no lloren**), **muestre**, por la fuerza de la lógica o el significado,  
+Que el dolor o la desesperación que **es** una marca de **ser** indigente de otros medios  
+**es** lo que **se requiere** para la competencia para Praputti (adhikāra;)
+
+(
+Al hombre o adhikārī que **se aflige** por su incapacidad para **adoptar** los dharmas o aṅgas orientados a Bhakti Yoga,  
+el carama Śloka **dice**:
+
+> "**Realiza** Prapatti para mí  
+y **no necesitas adoptar** ningún otro dharma".
+
+)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘परित्यज्य’’ ऎऩ्ऱु नैरपेक्ष्यम् विवक्षितमाऩाल् ‘‘मा शुचः’’ ऎऩ्गिऱ शोकनिषेधत्ताले अकिञ्चनऩाय् निऱ्किऱ निलै तोऱ्ऱुगैयाले अधिकारमुमर्थसिद्धमागक्कडवदु।   
+</details>
+
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-प्रकृतोपासन न्यायात्तदङ्गानामुपस्थितौ । अन्येषाञ्चैतदङ्गत्व त्यागोऽत्र प्रतिपाद्यते ॥
+प्रकृतोपासन-न्यायात्  
+तद्-अङ्गानाम् उपस्थितौ ।  
+अन्येषाञ् चैतद् अङ्गत्व-  
+त्यागोऽत्र प्रतिपाद्यते ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-प्रकृतोपासन न्यायात्तदङ्गानामुपस्थितौ । अन्येषाञ्चैतदङ्गत्व त्यागोऽत्र प्रतिपाद्यते ॥
+प्रकृतोपासनन्यायात्तदङ्गानामुपस्थितौ । अन्येषाञ्चैतदङ्गत्वत्यागोऽत्र प्रतिपाद्यते ॥
 </details>
 
 If prapatti stands in the place of bhakti or upāsana as one of the Brahma Vidyās, then the question arises whether the aṅgas of bhakti might be considered as the aṅgas of prapatti as well. But, in prapatti, they are not required as aṅgas. This is indicated by the words mām and ekam.
