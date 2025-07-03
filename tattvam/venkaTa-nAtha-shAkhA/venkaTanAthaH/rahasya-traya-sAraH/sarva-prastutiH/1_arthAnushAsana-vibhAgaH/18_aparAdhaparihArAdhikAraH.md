@@ -448,7 +448,8 @@ __________
 
 आहत्य तद्-अभिप्राये गृहीतोपाय-विषय उक्तः। 
 
-राजगोपालो ऽन्यथा कथयति। +++(5)+++
+राजगोपालो ऽन्यथा कथयति -  
+प्रपदनात् परम् उपायान्तरग्रहणे पुनः प्रपत्तिर् उक्तेति। तद् अदुष्टम्, किन्त्व् अप्रासङ्गिकम्। +++(5)+++
 </details>
 
 
@@ -456,12 +457,14 @@ __________
 
 > "If there is offence,  
 > the atonement that is to be done is only the performance of prapatti again.  
-> If, ~~after performing prapatti for the sake of mokṣa ,~~  
-> a man should perform karma yoga and the like with the thought that these are upāyas (to mokṣa),  
-> ~~it would also constitute an offence.~~  
+> If a man should perform karma yoga and the like with the thought that these are upāyas (to mokṣa),  
 > (he commits an offence)  
 > In order that this offence might disappear,  
 > prapatti alone should be performed again". 
+
+(If after performing prapatti for the sake of mokṣa,  
+a man should perform karma yoga and the like with the thought that these are upāyas (to mokṣa), 
+it would also constitute an offence.)
 </details>
 
 <details><summary>Español</summary>
@@ -469,12 +472,14 @@ __________
 > "Si **hay ofensa**,  
 > La expiación que **se debe hacer**  
 > es solo el **rendimiento de Prapatti** nuevamente.  
-> Si, ~~después de **realizar** Prapatti por el bien de Mokṣa,~~
-> Un hombre **debe realizar** karma yoga y similares con la idea de que estos son upāyas (para mokṣa),
-> ~~También **constituiría** un delito.~~
+> Si, Un hombre **debe realizar** karma yoga y similares con la idea de que estos son upāyas (para mokṣa),
 > (él comete un delito)  
-> Para que este delito **desaparezca**,
-> Prapatti solo debe **realizarse** nuevamente ".
+> Para que este delito **desaparezca**,  
+> Prapatti solo debe **realizarse** nuevamente ". 
+
+(Si después de **realizar** Prapatti por el bien de Mokṣa,  
+Un hombre **debe realizar** karma yoga y similares con la idea de que estos son upāyas (para mokṣa),  
+También **constituiría** un delito.)
 </details>
 
 
@@ -4901,15 +4906,15 @@ en estos Ślokas
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप्-पडियेय् +++(कर्तित=)+++ईर्त्त-वाय् तॆरियामल्  
-वज्र-लेप-घटितम् आऩाऱ् पोले  
+अप्-पडियेय् +++(कर्तित=)+++ईर्त्त-वाय् +++(किणी भूय)+++ तॆरियामल्  
++++(व्रणे)+++ वज्र-लेप-घटितम् आऩाऱ् पोले  
 **पॊरुन्दिप्+++(=संयुज्य)+++ पोरवुम् प्राप्तम्**। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-सस्नेहं विदीर्ण-प्रदेशो यथा न ज्ञायेत  
-तथा वज्र-लेप-घटितवत् वर्तनञ् चेतीमानि युक्तानि । 
+सस्नेहं विदीर्ण-प्रदेशो यथा +++(किणी भूय)+++ न ज्ञायेत  
+तथा +++(व्रणे)+++ वज्र-लेप-घटितवत् वर्तनञ् चेतीमानि युक्तानि । 
 </details>
 
 
