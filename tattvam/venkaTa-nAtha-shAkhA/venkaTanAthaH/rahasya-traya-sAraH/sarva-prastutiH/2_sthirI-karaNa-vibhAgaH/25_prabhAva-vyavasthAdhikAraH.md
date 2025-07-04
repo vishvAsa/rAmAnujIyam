@@ -6377,13 +6377,24 @@ inmediatamente **me hará** puro "
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पॊदुव् आऩालुम्  
-भगवत्-सङ्कीर्तन-परर् देश-कालादि-वैगुण्यत्ताले ऊन-वृत्तिगळुम् आय्  
-ऊन-कारकर्गळुम् आय् इरुन्दार्गळेय् आगिलुम्  
 
-> ताङ्गळ् अमुदु सॆय्द शेड+++(ष)+++न् तरुवर् आगिल्  
+> भगवत्-सङ्कीर्तन-परर् देश-कालादि-वैगुण्यत्ताले ऊन-वृत्तिगळुम् आय्  
+ऊन-कारकर्गळुम् आय् इरुन्दार्गळेय् आगिलुम्  
+ताङ्गळ् अमुदु सॆय्द शेड+++(ष)+++न् तरुवर् आगिल्  
 पुऩिदम् आम्   
 
 ऎऩ्ऱद् इत्तऩै।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्स्साधारण्येऽपि  
+
+> भगवत्-संकीर्तन-परा देश-काल-वैगुण्याद् ऊन-वृत्तय ऊन-कारकाश् च सन्तोऽपि  
+स्व-भुक्त-शिष्टं दद्युश् चेत्,  
+तत् पावनम् 
+
+इत्य् एवम्-परम् इत्य्-एतावत् । 
 </details>
 
 <details><summary>English</summary>
@@ -6428,6 +6439,18 @@ y **hacer** que otros también los **sigan** ".
 इत्य्-आदिगळिल् न्यायत्ताले  
 भाण्ड-स्थ-विषयम् आऩाल् विरोधम् इल्लै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र शेष-शब्दस 
+
+> "अन्नशेषः किं क्रियताम्?  
+इष्टैः सह भुज्यताम्" 
+
+इत्य्-आदि-न्यायेन  
+भाण्ड-स्थ-विषयत्वे न विरोधः । 
+</details> 
+
 
 <details><summary>English</summary>
 
@@ -6477,6 +6500,12 @@ y
 पाक-पात्र-स्थम् आऩ् अदिलुम् प्रयुक्तम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+उच्छिष्ट-शब्दोऽपि श्रुत्य्-आदिषु भुक्त-शिष्टे पाक-पात्र-स्थेऽपि प्रयुक्तः । 
+</details>
+
+
 <details><summary>English</summary>
 
 The word ucchishta, too, has been employed in the śrutis  
@@ -6517,6 +6546,7 @@ Después de (las personas) **han cenado**.
 लोक-संरुष्टम् एव च॥’’ +++(5)+++  
 (मनुस्मृति ४-१७६) 
 
+इति मन्वादयो व्यवस्थापयाम् आसुः ॥ 
 </details>
 
 <details><summary>English</summary>
@@ -6560,6 +6590,19 @@ o que **es** probable que **se disguste** entre las personas en el mundo
 ऎऩ्ऱ बडि;
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तद्-उक्ति-मात्रं मन्त्राग्र्यं’’ 
+
+इत्य्-एतत् 
+
+> अनेन रक्षकतयोपदिष्टानि भाषा-वाक्यान्य् अपि  
+श्री-मन्त्रवत् सादरम् अनुसन्धेयानि
+
+इत्य्-एवम्-परम् ; 
+</details>
+
+
 <details><summary>English</summary>
 
 > " His very speech should be considered as a sacred mantra ". 
@@ -6587,8 +6630,22 @@ debe **apreciarse** como tirumantra y **reflejarse**.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अल्लद् इवऩ् सॊल्लुम् लौकिक-व्यवहारङ्गळ् जपादि-योग्यङ्गळ् ऎऩ्ऱ बडिय् अऩ्ऱु। 
+अल्लद् 
+
+> इवऩ् सॊल्लुम् लौकिक-व्यवहारङ्गळ् जपादि-योग्यङ्गळ् 
+
+ऎऩ्ऱ बडिय् अऩ्ऱु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+न तु 
+
+> अनेनोच्यमांना लौकिक-व्यवहाराः जपादि-योग्या 
+
+इत्य्-एवम्-परम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6613,6 +6670,15 @@ It does not mean that his talk on worldly affairs is fit to be uttered as japa.
 ऎऩ्ऱ् अदुक्कुम्  
 इप्-पडि हितार्थम् आऩ वाक्यमे विषयम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> उच्यमाने परिहास-वाक्यं श्रुतिः 
+
+इत्य्-अस्याप्य्  
+एवं हितार्थ-वाक्यम् एव विषयः ॥ 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6649,6 +6715,14 @@ también **debe interpretarse** en este sentido.
 ऎऩ्ऱ् अदु  
 आतुर-विषयत्तिल् +++(अन्येन)+++ स्पृष्ट्वा स्नानम् बोलवुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तत्-स्पृष्टम् अखिलं शुचि’’ 
+
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8343,22 +8417,39 @@ y **no necesitas adoptar** ningún otro dharma".
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
+अप्पोदु 
+
 प्रकृतोपासन-न्यायात्  
 तद्-अङ्गानाम् उपस्थितौ ।  
-अन्येषाञ् चैतद् अङ्गत्व-  
+अन्येषाञ् चैतद्-अङ्गत्व-  
 त्यागोऽत्र प्रतिपाद्यते ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
+अप्पोदु  
 प्रकृतोपासनन्यायात्तदङ्गानामुपस्थितौ । अन्येषाञ्चैतदङ्गत्वत्यागोऽत्र प्रतिपाद्यते ॥
 </details>
 
-If prapatti stands in the place of bhakti or upāsana as one of the Brahma Vidyās, then the question arises whether the aṅgas of bhakti might be considered as the aṅgas of prapatti as well. But, in prapatti, they are not required as aṅgas. This is indicated by the words mām and ekam.
+If prapatti stands in the place of bhakti or upāsana as one of the Brahma Vidyās,  
+then the question arises  
+whether the aṅgas of bhakti might be considered as the aṅgas of prapatti as well.  
+But, in prapatti, they are not required as aṅgas.  
+This is indicated by the words mām and ekam.
 
-(If the word, parityajya, makes an injunction that other things should not be considered as aṅgas for prapatti, and if the words (māsuchan) (do not grieve or despair) show that the previous grief or despair is qualification for prapatti (ākiñcanya), then, where is the appropriateness of the word ekam (it may be asked ). The answer is :- the word ekam is intended to show that in the mental or sāttvika renunciation of action by sattvam, it should be borne in mind that the jīva's doership is all dependent on the Lord and other such things, that in prapatti, the means (upāya) and the end are one and the same (viz., the Lord) and that prapatti stands in the place of all (other) upāyas.
+(If the word, parityajya, makes an injunction  
+that other things should not be considered as aṅgas for prapatti,  
+and if the words (mā suchaH) (do not grieve or despair)  
+show that the previous grief or despair is qualification for prapatti (ākiñcanya),  
+then, where is the appropriateness of the word ekam (it may be asked ).  
+The answer is :-  
+the word ekam is intended to show that in the mental or sāttvika renunciation of action by sattvam,  
+it should be borne in mind  
+that the jīva's doership is all dependent on the Lord and other such things,  
+that in prapatti, the means (upāya) and the end are one and the same (viz., the Lord)  
+and that prapatti stands in the place of all (other) upāyas.
 
-Our acharyās like (Appallar) have argued thus:
+Our acharyās like (Appullar) have argued thus:
 
 Since nitya and naimittika karma are enjoined on a man (irrespective of all fruit or gain that might arise from it) simply by virtue of his being a servant of the Lord, they should not be given up, lest he should be violating the command of the Master, (although they may not be required as aṅgas for prapatti).
 
