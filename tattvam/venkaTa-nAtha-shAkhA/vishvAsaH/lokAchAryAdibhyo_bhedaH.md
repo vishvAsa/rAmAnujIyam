@@ -2,6 +2,10 @@
 title = "लोकाचार्यादिभ्यो भेदः"
 +++
 
+## प्रामुख्य-तारतम्यम्
+anAchAra resulting from misunderstanding vidhi and tyAga is the most serious part.  
+These other issues (status of lakshmi, kaivalya, vyApti), though, add to the arrogance and intransigence of anAchAra-para-s if ignored.
+
 ## प्रमाणम्
 लोकाचार्य-शाखायाम् (वैश्वदेवाकरणे काचनाप्रसिद्धा "वासुदेवसंहिता" पुरस् क्रियत इति) -
 
@@ -79,6 +83,8 @@ title = "लोकाचार्यादिभ्यो भेदः"
 - कारणानि नानोच्यन्ते -
   - दोषाणां भोग्यत्वं तद्-आचार्यैर् उक्तम्। 
   - परमैकान्तित्व-विरोध इति। 
+
+अर्चाकैङ्कर्ये कृते सन्ध्यावन्दनादि-त्यागम् (न केवलं विलम्बम्) अप्य् अङ्गीकुर्वन्ति । 
 
 ### Cognitive dissonance
 > A set of tenkalais take acharya hrdayam like texts too seriously. When you do that (where they talk about identifying with Azhvar gotra and not Rishi gotras) and not giving due importance to karma, but still continue to hold on to varna in practice - you have a dissonance.

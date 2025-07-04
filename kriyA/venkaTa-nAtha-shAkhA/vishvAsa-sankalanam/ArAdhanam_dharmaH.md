@@ -355,10 +355,15 @@ title = "आराधनम्, धर्मः"
 मिथ्या-प्रचारकोज्जृम्भा-  
 बन्धे क्रीडितम् अन्तरा॥
 
-First VD thoroughly shatters the wrong position;  
-and only then does he offer a reconciliatory take - from a dominant position.
+<details><summary>प्रतिवाद-शैली</summary>
 
-Atleast vAda-grantha-s tell one's side how the other side is wrong. Beyond a point, "They too meant what we say" type reconciliation just hides genuine difference in opinion and confuses one's fellows.
+First VD thoroughly shatters the wrong position;  
+and only then does he offer a reconciliatory take, where appropriate -  
+from a dominant position.
+</details>
+
+
+vAda-grantha-s tell one's side how the other side is wrong. Beyond a point, "They too meant what we say" type reconciliation just hides genuine difference in opinion and confuses one's fellows.
 
 ### भगवद्-भागवत-गुणानुसन्धानम्
 भगवद्-अपेक्षया भगवद्-गुणा भोग्यतराः, तद्-अपेक्षया बहुदा भागवत-गुणाः।  

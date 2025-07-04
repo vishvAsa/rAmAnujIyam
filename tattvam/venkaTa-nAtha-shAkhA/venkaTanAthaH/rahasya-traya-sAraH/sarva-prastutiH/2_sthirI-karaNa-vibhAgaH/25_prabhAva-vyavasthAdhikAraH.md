@@ -6720,7 +6720,8 @@ también **debe interpretarse** en este sentido.
 
 > ‘‘तत्-स्पृष्टम् अखिलं शुचि’’ 
 
-
+इत्य्-एतत्  
+आतुर-विषये स्पृष्ट्वा स्नानवत् 
 </details>
 
 
@@ -6755,6 +6756,12 @@ otro **puede tocarlo** y **bañarse** por su bien;
 दीक्षा-कालत्तिल् विष्णु-हस्त-प्रदानाख्य-स्पर्शम् पोलवुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+दीक्षा-काले विष्णु-हस्त-प्रदानाख्य-स्पर्शवत् 
+</details>
+
+
 <details><summary>English</summary>
 
 when the ācārya initiates the śiṣya into the sacred mantras,  
@@ -6778,6 +6785,12 @@ Este toque **se llama** "**Toque** con la mano de Viṣṇu".
 
 तिरु-प्रतिष्ठैयिल् महा-भागवत-स्पर्शम् पोलवुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-प्रतिष्ठायां महा-भागवत स्पर्शवच् च 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6807,6 +6820,16 @@ Es **tocado** con la mano por grandes **devotos** del Señor.
 
 ऎऩ्ऱ बडि;
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अन्यान्य-स्पर्श-विधान-स्थलेषु  
+एतस्य स्पर्शे लब्धे  
+स्पृष्टं सर्वम् अपि परिशुद्धम् 
+
+इत्य् एवम्-परम् ; 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6842,6 +6865,15 @@ como **están ordenados** en los Śāstras.
 > ‘‘उदुम्बरं न खादेत् तु”  
 ( भारतम् आनुशासनिक-पर्व १६१-९७), 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+न तु -- 
+
+> ‘‘उदुम्बरं न खादेत् तु”  
+( भारतम् आनुशासनिक-पर्व १६१-९७), 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7394,6 +7426,19 @@ La **ausencia** de observancias correctas, pereza y **comida prohibida** ".
 ऎऩ्ऱ बडिय् अऩ्ऱु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२४३]] 
+
+इत्य्-आदिभिर् 
+
+> निषिद्धानि सर्वाण्य् अप्य्  
+एतत्-स्पर्श-मात्रेण शुद्धानि भवन्ति
+
+इति । 
+</details>
+
+
 <details><summary>English</summary>
 
 it would follow that the things which are condemned in the ~~following~~ above ślokas  
@@ -7420,6 +7465,14 @@ would become pure by his touch.
 परिगृहीततमङ्गळ् आऩ बहु-शास्त्रङ्गळोडुम्, शिष्टानुष्ठानत्तोडुम् विरोधिक्कैयाले  
 अतिवाद-मात्रम् आय् विडुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं विषय-व्यवस्थाया अकरणे  
+परिगृहीततमैर् बहु-शास्त्रैः शिष्टानुष्ठानैश् च विरोधाद्  
+अतिवाद-मात्रं संपद्येत । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7453,6 +7506,13 @@ Por lo tanto, **declarar** tales puntos de vista **es** simplemente de la natura
 ऎऩ्ऩुम् इडम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+महा-प्रभावाणां परमैकान्तिनाम् अपि विषये  
+अस्य शास्त्रीय-नियामस्याविचाल्यता  
+</details>
+ 
+
 <details><summary>English</summary>
 
 Even by the man who, has supreme and exclusive devotion (paramaikāntin) and whose greatness is boundless,  
@@ -7477,6 +7537,12 @@ Estas **restricciones impuestas** por los Sāstras **no se violan**.
 नाथ-मुनिगळ्, आळ-वन्दार्, ऎम्-बॆरुमाऩार् उळ्ळ् इट्ट परमाचार्यर्गळ्-उडैय  
 अन्तिम-दिवसावधिय् आऩव् अनुष्ठानङ्गळैक् केट्टुत् तॆळिन्दु गॊळ्वदु।+++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-नाथ-मुनि--यामुनार्य--भाष्य-कारान्तानां परमाचार्याणाम् अन्तिम-दशावधिकानि +अनुष्ठानानि श्रुत्वा ज्ञातव्या । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7517,6 +7583,16 @@ El **rendimiento** de los **ritos** de los varṇas y āśramas es obligatorio:
 
 ऎऩ्ऩुम् इडत्तै 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> वेद-वैदिक-शास्त्रोक्तानां नियमानां  
+बाह्यैः कु-दृष्टिभिश् च भ्रान्त्या त्यागस्  
+तामस-त्याग 
+
+इतीमम् अर्थम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7560,6 +7636,7 @@ Que este tipo de **renuncia se debe** a los tamas ...
 तामसः **परिकीर्तितः**॥’’  
 (गीता १८-७) 
 
+इति श्लोकेनानुजग्राह । 
 </details>
 
 <details><summary>English</summary>
