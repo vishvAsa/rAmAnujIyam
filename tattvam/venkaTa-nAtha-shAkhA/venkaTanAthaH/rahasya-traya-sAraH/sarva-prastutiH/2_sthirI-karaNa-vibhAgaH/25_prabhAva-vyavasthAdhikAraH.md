@@ -7652,9 +7652,9 @@ Their omission arising from ignorance is renunciation (tyāga) due to tamas".
 
 es declarado por Bhagavān en el Śloka:-
 
-> "Uno no debe renunciar al karma
-Ordenado para las castas y los āśramas.
-Su omisión derivada de la ignorancia es la renuncia (tyāga) debido a los tamas ".
+> "Uno **no debe renunciar** al karma  
+**Ordenado** para las castas y los āśramas.  
+**Su omisión derivada** de la ignorancia es la **renuncia** (tyāga) debido a los tamas ".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -7668,6 +7668,12 @@ Su omisión derivada de la ignorancia es la renuncia (tyāga) debido a los tamas
 > कुटुम्ब-भरणादिगळुक्क् अलैन्दु  
 सन्न्यासादिगळैप् पऱ्ऱुवारैप् पोले 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> कुटुम्ब-भरणाद्य्-अर्थम् अटित्वा सन्न्यासादीनि परिगृहद्भिर् इव  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7694,6 +7700,15 @@ quien **se convierte** en sannyāsin debido a las dificultades de mantener una f
 
 ऎऩ्ऩुमिडत्तै
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+दुःख-रूप-प्रवृत्ति-निवृत्तीनाम् आलस्येन  
+क्रियमाणस् त्यागो राजसत्याग 
+
+इतीमम् अर्थम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7733,6 +7748,7 @@ que **son** de la naturaleza del dolor
 नैव त्याग-फलं **लभेत्**॥’’  
 (गीता १८-८) 
 
+इत्य् अनुजग्राह । 
 </details>
 
 <details><summary>English</summary>
@@ -7766,10 +7782,17 @@ y **no obtiene** el fruto de la **renuncia** ".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> तऩ्ऩ् अधिकारानुरूपम् आगत्  
+> तऩ्ऩ्-अधिकारानुरूपम् आगत्  
 तविर+++(=वारणीय)+++ वेण्डुम्-अवै तविर्न्दु  
 सॆय्य वेण्डुम्-अवै सॆय्युम् इडत्तिल् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> स्वाधिकारानुरूपं त्यक्तव्यानां त्याग-पूर्वं  
+कर्तव्यानां करणस्य समये,  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7796,6 +7819,11 @@ Y **haciendo** lo que **se debe hacer**,
 > ऎऩ्ऱुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "अहं स्वतन्त्रः करोमी"ति, 
+</details>
+
 <details><summary>English</summary>
 
 > > "I am doing all this as an independent agent, 
@@ -7817,6 +7845,12 @@ Y **haciendo** lo que **se debe hacer**,
 > 
 > ऎऩ्ऱुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "ममेदं कर्म शेष-भूतम्" इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7841,6 +7875,12 @@ Y **haciendo** lo que **se debe hacer**,
 > ऎऩ्ऱुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "ममैतत्-फलार्थम् इदम् एव साधनम्" इति च 
+</details>
+
+
 <details><summary>English</summary>
 
 > > this will be the means of my attaining such and such an object". 
@@ -7860,6 +7900,12 @@ Y **haciendo** lo que **se debe hacer**,
 
 > पिऱक्कुम् निऩैवै माऱ्ऱि
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> जायमानां बुद्धिं विनिवर्त्य, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7884,6 +7930,17 @@ Y **haciendo** lo que **se debe hacer**,
 
 ऎऩ्ऩुम् इडत्तै 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> सर्वेश्वरे कारयति सति  
+तच्-छेष-भूतस्य कैङ्कर्यस्य  
+तत्-प्रीत्येक-प्रयोजनत्वानुसन्धानेनानुष्ठानं  
+सात्त्विक-त्याग 
+
+इतीमम् अर्थम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7930,6 +7987,7 @@ Si **seguimos** esta línea de **pensamiento** (en lo que **hacemos** y en lo qu
 स **त्यागस्** सात्त्विको **मतः**॥’’  
 (गीता १८-९) 
 
+इत्य् अनुजग्राह । 
 </details>
 
 <details><summary>English</summary>
@@ -7966,6 +8024,13 @@ Esta **es**, oh Arjuna, **renuncia** debido a Sattvam ".
 इब् भगवत्-प्रीति-प्रयोजनम् आग अनुष्ठिक्किऱव् इडत्तिले  
 इप् प्रीतिक्कु मोक्षमुम् फलम् आगक् कोलादे 
 </details>
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद् भगवत्-प्रीति-प्रयोजनैकत्वेनानुष्ठानस्थले  
+अस्याः प्रीतेर् मोक्षम् अपि फलत्वेनानुद्दिश्य, 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -7991,6 +8056,15 @@ El hombre **debe observar** (estos ritos y regulaciones) únicamente con el prop
 
 ऎऩ्ऱु निऩैत्तु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> पूर्व-प्रपत्ति-जेन परम-कारुणिक-प्रसादेन  
+मोक्षः सिद्ध 
+
+इति मत्वा 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8018,6 +8092,12 @@ Mokṣa **es seguro**.
 मुक्तऩ्-उडैय कैङ्कर्यम् बोलवुम्  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+मुक्त-कैङ्कर्यवत्, 
+</details>
+
+
 <details><summary>English</summary>
 
 (He should) render service (kaiṅkarya)  
@@ -8037,8 +8117,14 @@ como aquellos que ya **han alcanzado** Mukti.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अरोगऩ्-उडैय पाल् वार्त्त्+++(=स्राव्य)+++ उण्गै पोलवुम्  
+अरोगऩ्-उडैय पाल् वार्त्त्+++(=स्राव्य)+++ उण्गै पोलवुम् +++(4)+++ 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अरोगस्य क्षीरोपस्कृत-भोजनवत्
+</details> 
+
 
 <details><summary>English</summary>
 
@@ -8060,9 +8146,16 @@ Como **se parecería** a un hombre sano **comiendo** alimentos con leche
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनुष्ठिक्कै सात्त्विक-त्यागत्तिऩ् ऎल्लै  
-निलम् आगक् कडवदु।
+अनुष्ठिक्कै सात्त्विक-त्यागत्तिऩ्  
+ऎल्लै निलम् आगक् कडवदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वानुष्ठानं सात्त्विक-त्यागस्य  
+सीमा-भूमिर् भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8085,6 +8178,12 @@ Tal código de conducta **es** el límite más alto de **renuncia** debido a Sat
 इदु पसित्त् उण्बार् मात्रम्;
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं बुभुक्षु-भोजन-मात्रम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 This is like eating food when men are hungry. 
@@ -8105,6 +8204,12 @@ Esto **es** como **comer** comida cuando los hombres **tienen** hambre.
 
 इङ्ङऩ् अल्लाद बोदु ऒट्टत्तुक्क्+++(→स्पर्धया)+++ अप्पम् +++(=दोषाम्)+++ तिऩ्बार् मात्रम्। +++(4)+++  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा पण-बन्धार्थापूप-भक्षणमात्रम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8162,6 +8267,17 @@ El verdadero **significado** de "**haber renunciado** a todos los dharmas" en el
 ऎऩ्ऱु भाष्यकारर् अरुळिच् चॆय्दार्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> “सर्व-धर्मान् परित्यज्य” 
+
+इत्य्-अत्र प्रथम-योजनायाम्, 
+
+> बुद्धि-विशेष-रूपः सात्त्विक-त्यागः प्रतिपाद्यते
+
+इति भाष्य-कारोऽनुजग्राह । 
+</details>
+
 <details><summary>English</summary>
 
 While commenting on the words (in the Carama Śloka ) “Having given up all dharmas",  
@@ -8192,6 +8308,14 @@ Esto **es renuncia** a la acción debido a sattvam
 इब् बुद्धि-विशेषम्  
 स्व-तन्त्र--प्रपत्ति-निष्ठऩुक्कु प्रपत्त्य्-अनुष्ठान-कालत्तिलुम्,  
 पिऩ्बु स्वयं-प्रयोजनम् आय् उपायत्तोडु तुवक्क्-अऱ्ऱ उत्तर-कृत्यत्तिल् उपजीव्यम्।+++(4)+++
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं बुद्धि-विशेषः  
+स्व-तन्त्र-प्रपत्ति-निष्ठस्य प्रपत्य्-अनुष्ठानकाले,  
+पश्चात् स्वयं-प्रयोजने उपायासंबद्धे उत्तर-कृत्ये ऽप्य् उपजीव्यः ।+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -8231,6 +8355,14 @@ y **no tienen relación** de ningún tipo con un upāya.
 शोकम् पिऱक्क,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+ द्वितीय-योजनायाम् 
+ 
+ > अल्प-शक्तेर् विलम्बाक्षमस्य दुष्-कर--चिर-काल-साध्योपायान्तर-दर्शनेन शोके जाते  
+</details>
+
+
 <details><summary>English</summary>
 
 In the second interpretation given of those words (by the author of of the Bhāṣya), 
@@ -8269,6 +8401,18 @@ al **pensar** en todos los dharmas o ritos **prescritos** en los Śāstras y su 
 ऎऩ्ऱ् अरुळिच् चॆय्दार्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> तच्-छोकापनोदनार्थं "सुकरं सकृत्-कर्तव्यम् उपायान्तरं विधीयत" इति कृत्वा  
+>
+> > त्वयोपायान्तरेषु न परिभ्रमितव्यम् 
+>
+> इति प्रतिपाद्यत 
+
+इत्य् अनुजग्राह । 
+</details>
+
+
 <details><summary>English</summary>
 
 > the Lord, in order to dispel his despair,  
@@ -8304,6 +8448,13 @@ y **dijo**:
 प्रपत्त्य्-अधिकारत्तिले सॊरुगक्+++(=निवेशं)+++ कडवदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य प्रपत्त्य्-अनुष्ठानस्य पूर्वावस्थायाम् उपायान्तरानन्वयो दैवाद् आगतो  
+ऽस्याः प्रपत्तेर् नैरपेक्ष्ये निविशते।  
+</details>
+
+
 <details><summary>English</summary>
 
 The prapanna should note that  
@@ -8334,6 +8485,8 @@ por la gracia de Dios.
 शास्त्राद् आगतम् आय्  
 इप् प्रपत्तियिऩ्-उडैय नैरपेक्ष्यत्तिले निऱ्कक् कडवदु। 
 </details>
+
+
 
 <details><summary>English</summary>
 
