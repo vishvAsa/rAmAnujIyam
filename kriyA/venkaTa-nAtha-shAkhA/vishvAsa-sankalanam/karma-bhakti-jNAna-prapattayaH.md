@@ -656,6 +656,15 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 > "द्वयम् अप्य् उच्चारये"त्य् उक्ते  
 > महाविश्वास-पूर्वकं तथानुसन्दधानस्य द्वय-वचनं मुक्तिरूपोपाय…’’
 
+<details><summary>अभिमानान्तर्भावे श्रीवासः</summary>
+
+> When you mean someone is attaining mukti by X acharya sambandham, it means that they r directly or indirectly using words of that acharya.  
+In vyakhyanam of 6.10.11 Nampillai tells all sambandhis of Nammazhwar get mukti. And method is to recite these pasurams of Nammazhwar sharanagati and become "antarbhUtas" of his prapatti.  
+In same way as all SVs use verses of gadyam only today, all can be taken as "antarbhUtas" of ramanuja abhimana.  
+Ig this is what ppl meant early on, and it became misunderstood
+</details>
+
+
 #### आचार्य-निष्ठा
 अत्राचार्यः स्वयं जीवं प्रपन्नं निवेदयति।
 
@@ -677,7 +686,39 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 
 इति श्रीवासः।  
 
-तत्र साम्प्रतानुष्ठान-विचारो [ऽन्यत्र](rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/lokAchAryAnugopa-prapattayaH) ।
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अदु तान् कडगत्व उपायत्वब्-आ-भेदेन द्विविधम्।  
+कडगत्वम् आवदु तिरुत्तिप् पणि-गॊळ्ळुगैक्कु  
+योग्यर् आऩ् अवरै  
+‘संवत्सरं तदर्धं वा  
+मासत्रयम् अथापि वा’  
+ऎण्ड्रु हृदयत्तै परीक्षित्तु  
+अवर्गळ् प्रकृति-वासना-रुचिगळ् तलै मडिन्दु+++(=नमयित्वा)+++  
+परमार्थर् आऩ बडियैक् कण्डु  
+अनन्य-प्रयोजनर् आय् मङ्गळाशासन-परर् आवर् ऎण्ड्रु तोट्र बिन्बु  
+अवनै शरण-वरणम् पण्णु वैत्तु  
+स्वरूपानुरूपम् आग नडक्कुम् बडि शिक्षित्तुक् कॊण्डु पोरुगै।  
+उपायत्वम् आवदु, स्वरूपानुरूपम् आन वृत्ति-विशेषङ्गळैच् चॊन्नाल्  
+अऱिय-तक्क ज्ञान-वैषद्यमुम्  
+अनुष्टिक्क-तक्क शक्तियुम् इल्लाद बाल-मूक-जडान्ध-पङ्गु-बधिरादिगळ् भगवन्-निर्हेतुक-कटाक्ष-प्रसरणम् उण्ड् आय्  
+सांसारिक-कर्म-प्रवृत्तियिल् विरक्तियुम्  
+जन्म-जरा-मरणादि शोकङ्गळिल् भीतियुम् जनित्तु  
+आर्तर् आनव् इवरै कैक् कॊण्डु  
+दया-पर-वशर् आय् ज्ञानानुष्ठानोपदेश-योग्यतैय् इल्लामैयाले  
+अवर्गळुक्क् आग तामे शरण-वरणम् पण्णि  
+औषध-सेवा-योग्यतैय् इल्लाद स्तनन्दय-प्रजैक्कु  
+व्याधिय् उण्डनाल् तान् औषधसेवैप् पण्णि  
+तन् स्तन्य-पानत्ताले रोगत्तै निवृत्तिप्पिक्कुम् मातावैप् पोले  
+इवर्गळैत् ताम् अभिमानित्तु  
+तम्मुडैय तीर्थ-प्रसाद-सेवामाहात्म्यत्ताले  
+इवर्गळ् संसाराद् उत्तीर्णर् आम् पडि पण्णुगै॥
+
+- इत्य् ऎरुम्बियप्पेन विलक्षण-मोक्षाधिकारि-निर्णये। 
+</details>
+
+
+तत्र साम्प्रतानुष्ठान-विचारो [ऽन्यत्र](rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/lokAryAnuga-bhedaH) ।
 
 
 ##### भागवत-निष्ठा
