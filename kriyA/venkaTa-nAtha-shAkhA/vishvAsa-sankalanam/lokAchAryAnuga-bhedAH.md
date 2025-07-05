@@ -44,7 +44,13 @@ gAdi-PBA-शिष्यः रङ्गनाथार्यः - [TW](https://
 ### सौष्ठवम्
 अत्र कृतासु प्रपत्तिषु स्वाभिप्रायनिवेदनं नामाङ्गम् अस्पष्टम् भवति बहुदा।  
 ततो ऽपेक्षित-समये मोक्षार्थ-प्राप्तेर् दृष्ट्या प्रपत्तिर् विकला।  
-यत्र तु शरणागतिगद्य-चूर्णिकाः स्फुटं वादयन्ति, तत्रेदम् पूर्यतेतराम्, किन्तु कालावचनाद् वैकल्यम् अनुवर्तते। 
+यत्र तु शरणागतिगद्य-चूर्णिकाः स्फुटं वादयन्ति, तत्रेदम् पूर्यतेतराम्, किन्तु कालावचनाद् वैकल्यम् अनुवर्तते।  
+
+> शरीर-पात-समये तु  
+केवलं मदीयया +एव दयया ऽतिप्रबुद्धो  
+माम् एव +अवलोकयन्न्
+
+इति भगवत्-प्रतिवचनम् अपि वदन्ति चेत् तेन तद् अपि पूर्यते। 
 
 ## सत्त्विक-त्यागः
 > Some claim they do sAttvika tyAga only once in lifetime during 5S. in fact they claim post prapatti sankalpam only not needed for karma as it all gets included in Anukulyasya sankalpam during prapatti. Also its not true that all tks don't do this. A friend of mine on X is tk, his acharya told him to do sAttvika tyAgam with every karma. So he does daily.

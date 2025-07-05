@@ -718,7 +718,7 @@ Ig this is what ppl meant early on, and it became misunderstood
 </details>
 
 
-तत्र साम्प्रतानुष्ठान-विचारो [ऽन्यत्र](rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/lokAryAnuga-bhedaH) ।
+तत्र साम्प्रतानुष्ठान-विचारो [ऽन्यत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/lokAryAnuga-bhedaH) ।
 
 
 ##### भागवत-निष्ठा

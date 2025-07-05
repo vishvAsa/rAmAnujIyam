@@ -4,9 +4,11 @@ title = "श्रीवा॰ - रामानुजसम्बन्धे�
 
 [TODO: लेखकेन काले काले वर्ध्यमानम्। ]
 
-On the performance of prapatti:
+## On the performance of prapatti
+
 This is an important difference that has lead to heated debates from both sides. Contrary to what is often projected by stalwarts in dwesham from each side, the truth is that both sides have prapatti integral and both sides accept that its acharya sambandham, and in particular of well known acharyas like Ramanuja,Nammazhwar who’s Prapatti is famous plays a good part in confirming the Adhikari of moksha. 
 
+## AchArya abhimAna = AchArya-niShThA
 The first point to understand here is that ‘Acharya Nishtai’ as mentioned by Vedanta Desika is the same as ‘Acharya Abhimana’. Normally people think that the latter just means the acharya having a regard for shishya. However this alone isn’t what constitutes it. Pillai Lokacharya gives in his Arthapanchakam a brief account of what happens:
 
 “ஆசார்ய​ ஆபிமானமாவது இவையொன்றுக்கும் 𑌶 𑌶 ஶக்தனன்றிக்கே இருப்பானொருவனை குறித்து, இவனுடைய​ விழ்வையும், இவனைபெற்றால் ஈச்வரனுக்கு உண்டான​ ப்ரீதியையும் அநுஸந்தித்து, ஸ்தநந்தய​ப்ப்ரஜைக்கு வ்யாதி உண்டானாலது தன் குறையாக​ நினைத்து ஔஷத​ ஸேவையை பண்ணும் மாதாவைப்போலே இவனுக்காக​ தான் உபாயானுஷ்டானம் பன்னி ரக்ஷிக்கவல்ல​ பரம​ தயாளுவான​ மஹாபாகவத​ அபிமாநத்திலே ஒதுக்கி”. 
@@ -65,7 +67,8 @@ This again explains the difference between svanishtai and achArya nishtai clearl
 
 > “பரதந்த்ரனான​ ஸ்வாசார்யனும் இச்சேதநனை நிகிலஹேயப்ரத்யநீகனானவனுக்கு அர்ஹனாக்கும்போது நெடுநாள் அந்ய​பரனாய் திரிந்த​ இவனுடைய​ அவித்யாகர்மவாஸநாருசிகளகிற​ தோஷங்களுள்ளே கிடக்கசெய்தேயும் நாமரூபங்களுண்டாம்படி பண்ணினதேபோருமென்று ஸமர்ப்பித்தால் இருவருக்கும் விநாஶமே பலிக்குமென்று நன்றாக​ திருத்திக்கொடுக்குமாகையாலே ஸதாசார்ய​ ஸம்பந்தம் ஶீக்ரபலப்ரதமென்றபேக்ஷிக்கப்பட்டது”
 
-In the above quote he warns against doing atma samarpanam of a shishya who isn’t proper yet, as it may lead to svarupa nAsham of AchArya.
+In the above quote he warns against doing atma samarpanam of a shishya who isn’t proper yet, as it may lead to svarupa nAsham of AchArya.+++(5)+++
+
 Next is the Tattva Deepam of Vadikesari Azhagiyamanavala Jeeyar:
 In the introduction to dvaya prakaranam, he tells
 
@@ -75,10 +78,12 @@ In Tattva Bhushanam, Yamunacharya, a disciple of Nayanarachan Pillai describes w
 
 > “ஏவம்பூதமான த்வயத்தில் நிஷ்டையாவது ஸ்வாசார்ய​ புரஸ்ஸரமாக​ கோவலர் பொற்கொடியான​ பிராட்டியிருக்க​ ஶரணம்புக்கு கொடிவழியாகச்சென்று ப்ரஹ்மதருவை ஆஶ்ரயித்து இளைப்பாறிருக்கை”. 
 
+## गद्य-प्रयोगः
 Furthermore, Andhra Purna in his Yatiraja Vaibhavam mentions that prapatti is to be done with the help of sharanagati gadyam:
 
 “भाष्यादिभिस्तत्त्वविदोऽथ गद्यैः श्रीशं प्रपन्नस्य तदेक वृत्तेः ।
 कैङ्कर्यमाप्रायणकार्यमाह नित्याभिधग्रन्थमुखाद्यतीशः ॥ ”
+
 
 This is followed by thenkalai swayamacharyas who use gadyam recitation.
 In the commentary on Varavaramuni shatakam of devaraja guru, while discussing about the author devarajaramanuja dAsa, the below is mentioned:
@@ -88,11 +93,12 @@ In the commentary on Varavaramuni shatakam of devaraja guru, while discussing ab
 
 
 From this we understand that a recitation of some select churnikais of sharanagati gadyam is performed by the thenkalai sampradaya acharya along with some more verses “remembering” Ramanuja for his Prapatti done and an entreatment to bhagavAn to protect the shishya. Therefore, the claim that Bharanyasam is absent in Thenkalai sampradayam is incorrect. 
+
 Finally, we have a statement from Kumara Varadacharya himself in his work virodha pariharam to the effect that all acharyas belonging to Ramanuja sampradayam of his time made use of the sharanagati mantra as follows:
 
 > “अत एव श्रीमल्लक्ष्मणाचार्य-संप्रदायस्थः सर्वाचार्यैरपि गुरुपरंपरानुसन्धाने पुरुषकारत्वेन पूर्व अनुसन्धाय पुनरपि शरणागतिमन्त्र उपक्रमे शरण्य-विशेषणत्वेनापि श्रीमच्छब्दः प्रयुज्यते । मातुर्हि सापराधं प्रति पुरुषकारभूतायाः पुत्रसंरक्षणे सहकारित्वं युज्यत एवेति सर्वं अवदातम् ।”
 
-Reg Ramanuja sambandham:
+## Reg Ramanuja sambandham:
 
 When you mean someone is attaining mukti by X acharya sambandham, it means that they r directly or indirectly using words of that acharya. In vyakhyanam of 6.10.11 Nampillai tells all sambandhis of Nammazhwar get mukti. 
 
@@ -101,3 +107,6 @@ When you mean someone is attaining mukti by X acharya sambandham, it means that 
 > "Ivar panninna prapattiye namakkellam. Thanitthu vendaam. IppAsuratthai solli phalatthil anvayikkum atthanai". 
 
 Nampillai tells Nammazhwar prapatti is for us, no need to do separate prapatti, just recite these verses and join in to get same phala. If one extends the same logic to usage of sharanagati gadyam, all becomes very clear. When ppl tell ramanuja prapatti is for all, separate not needed what is meant is we need not make any new prapatti verses. Just reciting verses of gadyam properly is enough.
+
+## Separate prapatti
+The presence of separate prapatti is attested to and performed among members of thennacharya sampradaya even today, though under exceptional circumstances. A few families do it especially for very young children who have congenital defects and may not live long enough or have capacity to put on tApa samskara. This is recorded in the families of Thirukkovalur Jeeyar and Kidambis. This is said to have been quite common in olden days among thenkalais when infant mortality was quite high. In another case, a thenkalai person got his panchasamskaram done under ahobila mutt as he didn’t know his family AchArya. However, once he got to know, he approached the acharya, who then told that as panchasamskara is already done, he doesn’t need to do it again. However, the acharya (belonging to the srirangam ananthanpillai family) administered him separate prapatti alone and gave a new dAsya nAma. He had asked the disciple to stay prostrate until he tells him to get up. He then uttered the chants of prapatti and performed acharya nishta for the disciple.
