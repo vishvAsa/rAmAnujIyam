@@ -1,5 +1,5 @@
 +++
-title = "लोकाचार्यादिभ्यो भेदः"
+title = "लोकार्यानुगेभ्यो भेदः"
 +++
 
 ## प्रामुख्य-तारतम्यम्
@@ -16,7 +16,6 @@ These other issues (status of lakshmi, kaivalya, vyApti), though, add to the arr
 वेदाः, ब्रह्म-सूत्राणि > स्मृतयः > इतिहासौ (रामायणं विशिष्य) > सात्त्विक-पुराणानि (विशिष्य विष्णु-पुराणम्) > प्रसिद्धा वैष्णवा आगमाः, द्रविडगाथाः > राजस-तामस-पुराणानि, इतरागमाः।
 
 ## प्रपत्तौ  
-### लोकाचार्यानुयायि-मतम्
 - रामानुजस्य सानुग-प्रपत्तेः परम्, तत्-सम्बन्धतस् तत्-प्रशिष्यादीनाम् अपि मोक्षार्था प्रपत्तिर् जातैवेति।
   - "भगवच्-चरण+अरविन्द-शरणागतिर् ... अस्तु मय्" इति शरणागति-गद्ये "तयैव सर्वं सम्पत्स्यते" इति लक्ष्मी-वचनस्य व्याख्याने "तत्सम्बन्धसम्बन्धिनिस्तरणमपि सर्वशब्दाभिप्रेतम्" इति सुदर्शन-भट्टः । तावता निस्तरणार्थ-प्रपत्तिर् नापेक्षितेति केचित्। (किन्तु  "भगवच्-चरण-शरणागती रामानुज-सम्बन्धि-सम्बन्धीनाम् अप्य् अनुगृहीतम्" इत्य् अभिप्रायो भाति।)
 
@@ -28,40 +27,12 @@ These other issues (status of lakshmi, kaivalya, vyApti), though, add to the arr
 
 मोक्षार्थ-प्रपत्तिर् नाम कर्मावश्यं न करणीयम् - अपचारो भवतीति च केचित्।
 
-
-समाश्रयणसमये द्वयुच्चारणानूच्चारणाद्य् एव प्रपत्तिर् (साऽपि न साक्षान्-मोक्षार्था) इति केचित्। तत्र भाष्यकृता शरणागतिगद्ये क्रमशो लक्ष्मीप्रपत्तिः, ततः द्वयवचनम्, दोषक्षमायाचनम्, भक्ति-मिक्ति-प्रार्थनम् … इति यः क्रमो दर्शितः, सोऽपि तत्रान्तर्भवतीति केचित्।   
+समाश्रयणसमये द्वयोच्चारणानूच्चारणाद्य् एव प्रपत्तिर् (साऽपि न साक्षान्-मोक्षार्था) इति केचित्। तत्र भाष्यकृता शरणागतिगद्ये क्रमशो लक्ष्मीप्रपत्तिः, ततः द्वयवचनम्, दोषक्षमायाचनम्, भक्ति-मिक्ति-प्रार्थनम् … इति यः क्रमो दर्शितः, सोऽपि तत्रान्तर्भवतीति केचित्।   
 
 पुनः "अस्य शिष्यस्य रामानुजीयत्वम् अस्तु" इति प्रपत्तिः क्रियते, न तु "अस्य शिष्यस्य मुक्तिर् अस्त्व्" इति केचित्।  
 (किन्तु, रामानुजीयत्वं समाश्रयणमात्रेण ("भवान् ममाचार्यः, त्वं मच्छिष्यः" इत्य् एतावता) परम्परया सिध्यति खलु? पुनस् तस्यापि काऽपेक्षा यदि भगवान् एव स्वतः सर्वं करोति?) 
 
-<details><summary>श्रीवासोक्तयः</summary>
-
-PL himself tells that acharya abhimanam means acharya does prapatti for shishya.
-
-They have preserved like the skeleton of the anushtanam.
-
-> In some AchArya peetams, this practice of AchArya praying to bhagavAn after performing pancha samskAram is present. It is done by reciting some chUrNikais from SaraNAgathi gadhyam - here it is not extra prapaththi. It is just a gentle reminder - not that bhagavAn forgets, but it is a small gesture from the side of AchArya.
-
-This was explanation given by 1 tk. He tells bhagavAn has natural krupa but acharya still does to remind him.
-
-दॊड्डयाचार्यसम्प्रदाये प्रपत्तिनाम्ना पञ्चसंस्कारसमये भगवच्-चरणयोश् शिष्यो स्वसदृश-रक्ष्यत्वेन समर्प्यते - [TW](https://youtu.be/BUB929lXvWE?t=211) । ("Offering shishya like flower at feet of perumal")
-
-shrI, Ramanuja act like chief purushakara in prapatti( coz guruparampara is treated so).
-</details>
-
-पृथग् अपि प्रपत्तिः क्वचिद् अनुष्ठीयते ।  
-
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्) - प्रस्तावः</summary>
-
-> Thirukkovalur jeeyar and some members of the ananthanpillai family do it separately. My friend it happened so.
-
-इति श्रीवासः। 
-</details>
-
-
-
-एवम् आहत्य वेङ्कटनाथार्य-दृष्ट्या,  
-लोकाचार्य-सम्प्रदाये सद्योऽनुष्ठीयमानाऽपि प्रपत्तिर् विकलेति मन्यते। 
+अनुष्ठानविचारो [ऽन्यत्रोक्तः](rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/lokAchAryAnugopa-prapattayaH)। 
 
 <details><summary>भेदोद्गम-क्रमः</summary>
 

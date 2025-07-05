@@ -389,7 +389,8 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 एवं केचिद् विरक्ता अपि  
 लोक-कल्याणाय दृप्तप्रपत्त्या शरीरत्यागं विलम्बयेयुः।
 
-#### स्व-निष्ठादौ
+#### अधिकारभेदः स्व-निष्ठादौ
+स्नाने शक्ति-भेदवत्  
 प्रपत्त्य्-अङ्ग-ज्ञान-तारतम्यम् एवात्र +अधिकार-भेद-कारक इत्य् अहोबिल-मठ-परम्परा।  
 
 **स्व-निष्ठायाम्** अत्राधिकारिणस् ते येषां प्रपत्त्य्-अङ्गेषु विशद-ज्ञानम् अस्ति, ये च मन्त्रे ऽत्यन्तं निष्ठाः।
@@ -401,16 +402,38 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 **भागवत-निष्ठायाम्** अधिकारिणः - ये ऽत्यन्ताज्ञा अपि भागवतानुकूलाः, मूर्च्छिता, पशुनिभाः, पशवः।  
 मूर्छितस्य सन्ध्यावन्दनम् परकृतम् इवैतत्।
 
-स्वनिष्ठा सम्भवति, नोक्तिनिष्ठा। तस्मिन् सम्भवति, नाचार्यनिष्ठा +इति ते।  
-तस्मिन्न् सम्भवति, न भागवत-निष्ठा।  
-रामानुजशिष्येषु रामानुजेन न सर्वत्राचार्य-निष्ठाऽनुसृतति च।
+> स्वनिष्ठा सम्भवति चेत्, नोक्तिनिष्ठा। सा सम्भवति चेत्, नाचार्यनिष्ठा।  
+सा सम्भवति चेत्, न भागवत-निष्ठा।  
+रामानुज-शिष्येषु रामानुजेन न सर्वत्राचार्य-निष्ठाऽनुसृता।
 
-आचार्य-भक्ति-प्रदर्शनतो ऐहिक-भगवत्-प्रीति-रूपय् उपफले भेदो वर्तत इति मुनि-त्रय-सम्प्रदाये।  
-ततस् तत्र +आचार्य-निष्ठायाम् अधिका रतिः।  
++इत्य् अहोबिल-परम्परा। 
+
+> आचार्य-भक्ति-प्रदर्शनतो ऐहिक-भगवत्-प्रीति-रूपय् उपफले भेदो वर्तते।  
 रामानुजार्येण तत्-परिवर्तिनां महताम् एव स्व-भरन्यास-समये प्रपत्तिः कारितेति,  
-पराशर-भट्टेनाप्य् आचार्य-निष्ठया प्रपन्नम् इति च मन्यन्ते।
+पराशर-भट्टेनाप्य् आचार्य-निष्ठया प्रपन्नम्
 
-किञ्चैतत् केवलम् अनुमानसिद्धं न शास्त्रसिद्धम् इत्य् आक्षिपन्त्य् अहोबिल-मतानुयायिनः।
+इति मुनि-त्रय-सम्प्रदाये।  
+ततस् तत्र +आचार्य-निष्ठायाम् अधिका रतिः।  
+
+> किञ्चैतत् केवलम् अनुमानसिद्धं न शास्त्रसिद्धम्,  
+स्नानभेदवद् विपरीताऽपि युक्तिस् सङ्गच्छतय् 
+
+इत्य् आक्षिपन्त्य् अहोबिल-मतानुयायिनः।
+
+<details><summary>अनुष्ठानम्</summary>
+
+सामूहिक-प्रपत्तिः कार्यते ऽहोबिलादि-मठेषु २०२५-परिसरे।  
+सङ्कल्पे हि व्यत्यासः।  
+यदि समूहे कश्चित् तज्ज्ञः, तर्हि सर्वेषाम् उक्ति-निष्ठा।  
+तदा दीर्घतरं विवरणम्।  
+१५ षष्टिक+++(=minutes)+++-कालापेक्षा।  
+यदि समूहे कश्चिच् छूद्रः, तर्हि सर्वेषाम् आचार्यनिष्ठा।  
+२ षष्टिक-कालापेक्षा।  
+
+इदं श्रीवासेन सभ्रात्रा साक्षात्-कृतम्। 
+</details>
+
+
 
 ### अनुष्ठेयता
 #### मनो-भावनोत कर्म?
@@ -648,6 +671,13 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 > Also many sought Vazhur Andavan and Periyandavan, especially the latter. Many great scholars sought him after this incident (Tirupputkuzhi Swamy taking bharanyAsa). Until then he was relatively unknown as he shyed away from sadases and didn't particularly do any kalakshepam etc. People even thought he was not that erudite. This was before Andavan Ashramam was formed as an organization. Until then the 3 sanyasis of this parampara (Vazhutur-Tirutturaipundi-Periya-andavans) lived on the banks of the Kaveri sleeping under bushes mostly. 
 > 
 > - Vijay
+
+##### लोकाचार्य-शाखायाम्
+> PL himself tells that acharya abhimanam means acharya does prapatti for shishya.
+
+इति श्रीवासः।  
+
+तत्र साम्प्रतानुष्ठान-विचारो [ऽन्यत्र](rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/lokAchAryAnugopa-prapattayaH) ।
 
 
 ##### भागवत-निष्ठा

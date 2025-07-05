@@ -13,7 +13,7 @@ title = "समाश्रयणम्"
 
 ## आचार्याः
 ### आचार्यत्वम्
-- "दीक्षिता एवाधिकृता इति नात्सी"ति शठकोप-तातार्यः २०२४-तमे वर्षे। एवम् लक्ष्मीतातार्यसुत आळ्वार्-महोदयो ऽपि। 
+- "दीक्षिता एवाधिकृता इति नात्सी"ति शठकोप-तातार्यः २०२४-तमे वर्षे। एवम् लक्ष्मीतातार्यसुत आळ्वार्-महोदयो ऽपि। अहोबिल-मठ-सार-सार-वित्-पुत्रो लक्ष्मी-नृसिंहार्यो ऽपि। 
 - यः कोऽपि ज्ञानवैराग्यादि-निधिर् वैष्णव आचार्यो भवितुम् अर्हति।
 - पितुर् आचार्य एवोपसर्पणीय इति केचित्। नैवम् इत्यपरे (यथा नाट्टेरि-विद्वान्, यः वेङ्कटनाथार्योदाहरणम् आह)। पिता न समाश्रितवान् चेत् स्वातन्त्र्यम् इति केचिद् अपि।
 
@@ -36,7 +36,8 @@ title = "समाश्रयणम्"
 Met (\~2024) देशिकाचार्यदीक्षित, a vAdyAr, (whose great-grandfather was an AhitAgni in shAntigrAma, KA), who comes from a family which has been doing samAshrayaNa for nearby folks, as a representative of the ANDavan, since olden days.
 
 ## विधिः
-- साधारणः समाश्रयणविधिर् [अन्यत्रोक्तः](../prayogamAlA/panchasmskArAdi/) । 
+- [वीरराघव-ग्रन्थे](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/uttamUru-vIrarAghavArya-prayoga-mAlA/09_pancha-saMskAra-prayogaH/) । 
+- वैकुण्ठदीक्षितस्य प्रपन्न-धर्म-सार-समुच्चये - पञ्च-संस्कार-प्रकरणे [साङ्ग-प्रपत्तिकम्](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vaikuNTha-dIxita-prapanna-dharma-sAra-samuchchayaH/01_paribhAShA/16_pancha-saMskAra-prayogaH)।
 
 
 ### उपसर्पणम्
