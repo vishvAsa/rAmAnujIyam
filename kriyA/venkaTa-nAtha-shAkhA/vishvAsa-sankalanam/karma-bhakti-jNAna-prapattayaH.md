@@ -462,7 +462,6 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 
 **अत्राङ्गी** भर-न्यासः (= मुमुक्षु-पक्षय् आत्म-निक्षेपः) - "मत्-कार्य-साधन-भरस् त्वयि" इति।
 
-
 #### ५ अङ्गानि
 आनुकूल्य-सङ्कल्पः +++(तदा)+++,  
 प्रातिकूल्यस्य+++(←तद्-अभिसन्धेस् तदा)+++ वर्जनम्,  
@@ -583,9 +582,10 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 अत्राचार्यं विना स्वयं शरणं प्रपद्यते जनः।
 
 ##### प्रयोगे प्रमाणानि
-- वैखानस-प्रक्रिया - आह्निकामृते [ऽत्र](/vedAH_yajuH/taittirIyam/sUtram/vaikhAnasaH/paddhatiH/vAsudevaH_AhnikAmRtam/01/12_prapattiH) ।
 - शरणागति-गद्यम्। 
 - रहस्य-त्रय-सारे साङ्गप्रपदनाधिकारे "इदिल् साङ्गानुष्ठानम् आयऱ्ऱदु" इत्यादि । [अत्र](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/rahasya-traya-sAraH/sarva-prastutiH/1_arthAnushAsana-vibhAgaH/12_sAnga-prapadanAdhikAraH/)। तत्रैव सारबोधिनी द्रष्टव्या। 
+- वैकुण्ठदीक्षितस्य प्रपन्न-धर्म-सार-समुच्चये - पञ्च-संस्कार-प्रकरणे ऽङ्ग-प्रपत्ती [रक्षामात्रार्था](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vaikuNTha-dIxita-prapanna-dharma-sAra-samuchchayaH/01_paribhAShA/16_pancha-saMskAra-prayogaH) प्रोक्ता। 
+- वैखानस-प्रक्रिया - आह्निकामृते [ऽत्र](/vedAH_yajuH/taittirIyam/sUtram/vaikhAnasaH/paddhatiH/vAsudevaH_AhnikAmRtam/01/12_prapattiH) ।
 
 ##### प्रयोगः
 - भर-निश्चयः
