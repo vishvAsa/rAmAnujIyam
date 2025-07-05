@@ -26,7 +26,9 @@ gAdi-PBA-शिष्यः रङ्गनाथार्यः - [TW](https://
 विद्याभास्करः - शरणागति-गद्य-भाग-वचनेन सह पादेन शिरस्-स्पर्शः - [TW](https://www.youtube.com/watch?v=MRP0Wnq8whU&t=29s) ।  
 सिद्ध-दाताश्रमे [ऽत्र](/rAmAnujIyam/kriyA/lokAchArya-shAkhA/articles/siddha-dAtAshrama-pancha-saMskAraH)। 
 
+अनेनात्मापहार-पापं निर्वर्तते। 
 
+#### मोक्षार्था क्वचित्
 > DoDDayAchArya alias VAdUla SrInivAsAchArya alias MahAchArya, a great ThennAchArya of the 16th Century has supposed to have accepted Prapatti as NyAsa Vidya, with all the five angAs etc as explained by SwAmi DESikan. It is told that, during SamASrayanam, he would make the disciple recite NammAzhwAr's " akalakillEn ... " pAsuram in front of Divya Dampati after he recites it etc. This way, he used to perform " Ukti nishta " Prapatti it seems.... In the book " YatIndra Mata DIpikA " by SrInivAsAchArya, the ardent disciple of SrI DoDDayAchArya, the section on Prapatti lists the five angAs and eqautes it to a Brahma Vidya as a positive act
 
 
@@ -53,6 +55,25 @@ gAdi-PBA-शिष्यः रङ्गनाथार्यः - [TW](https://
 इति भगवत्-प्रतिवचनम् अपि वदन्ति चेत् तेन तद् अपि पूर्यते। 
 
 ## सत्त्विक-त्यागः
+> > कैङ्कर्यम् अखिला वृत्तिर् 
+> 
+> इति भरद्वाजोक्त-रीत्या  
+> 
+> > श्रीभगवद्-आज्ञा-कैङ्कर्य--देव-र्षि-पितृ-तर्पणं करिष्ये 
+> 
+> इत्य्-आदि-संकल्पः ॥ 
+> 
+> यद्य् अपि आनुकूल्यस्य संकल्पः  
+> यावज्जीवं विहित-कर्मानुष्ठान-सङ्कल्प-रूपः प्राग् एवानुष्ठितः -  
+> तत एव प्रपन्नस्य नित्य-कर्मसु सङ्कल्पः पृथक् पृथङ् नापेक्षितः ।  
+अत एव च नित्य-स्नानादिषु शिष्टाः संकल्पं नानुतिष्ठन्ति ।  
+तथा ऽपि शिष्टाचारानुरोधात् वैकल्पिकं संकल्पानुष्ठानं कर्मसु उपपन्नम् ।  
+मन्त्रादिभिः सङ्कल्प-विशेषस्य नैयत्य-वचनं प्रपन्नेतर-विषयम् ।  
+प्रपन्न-विषये तु  
+सङ्कल्पस् तत्-प्रकार-भेदव?? वैकल्पिकः ।  
+
+इति वरदराजः [सद्-अनुष्ठान-दर्पणे](/rAmAnujIyam/kriyA/lokAchArya-shAkhA/varadarAja-sadanuShThAna-darpaNam) । 
+
 > Some claim they do sAttvika tyAga only once in lifetime during 5S. in fact they claim post prapatti sankalpam only not needed for karma as it all gets included in Anukulyasya sankalpam during prapatti. Also its not true that all tks don't do this. A friend of mine on X is tk, his acharya told him to do sAttvika tyAgam with every karma. So he does daily.
 
 ## पुण्ड्रम्

@@ -9069,9 +9069,9 @@ y **no necesitas adoptar** ningún otro dharma".
 अप्पोदु 
 
 प्रकृतोपासन-न्यायात्  
-तद्-अङ्गानाम् उपस्थितौ ।  
-अन्येषाञ् चैतद्-अङ्गत्व-  
-त्यागोऽत्र प्रतिपाद्यते ॥
+तद्+++(→उपासना)+++-अङ्गानाम्+++(←वर्णाश्रमधर्मादि)+++ **उपस्थितौ** ।  
++++(आनुकूल्यसङ्कल्पादेर्)+++ अन्येषाञ् चैतद्-अङ्गत्व-  
+त्यागोऽत्र +++(←"परित्यज्य")+++ **प्रतिपाद्यते** ॥
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -9095,12 +9095,10 @@ If prapatti stands in the place of bhakti or upāsana as one of the Brahma Vidy�
 then the question arises  
 whether the aṅgas of bhakti might be considered as the aṅgas of prapatti as well.  
 But, in prapatti, they are not required as aṅgas.  
-This is indicated by the words mām and ekam.
+This is indicated by the word parityajya ~~mām and ekam~~.
 
-(If the word, parityajya, makes an injunction  
-that other things should not be considered as aṅgas for prapatti,  
-and if the words (mā suchaH) (do not grieve or despair)  
-show that the previous grief or despair is qualification for prapatti (ākiñcanya),  
+(If the word, parityajya, makes an injunction that other things should not be considered as aṅgas for prapatti,  
+and if the words (mā suchaH) (do not grieve or despair) show that the previous grief or despair is qualification for prapatti (ākiñcanya),  
 then, where is the appropriateness of the word ekam (it may be asked ).  
 The answer is :-  
 the word ekam is intended to show that in the mental or sāttvika renunciation of action by sattvam,  
@@ -9303,9 +9301,7 @@ When prapatti is remembered, the thought will arise that sins committed in ignor
 
 The activities of the man who performed prapatti ( at first) praying that he should be sinless and of the man who performed a further prapatti in order that his later life may be free from sin will invariably be free from sin.
 
-PRĀYASCHITTA FOR DELIBERATE OFFENCES
-
-IS ABSOLUTELY NECESSARY:
+PRĀYASCHITTA FOR DELIBERATE OFFENCES IS ABSOLUTELY NECESSARY:
 
 Some may say, in (utter) disregard of texts to the contrary, that (even ) the offences committed deliberately by the prapanna would be pardoned, their opinion being based on certain incidents in the Itihāsas and the Purāṇas. This contention, too, arises from an ignorance of the real opinions in the respective contexts. (For instance) when Sugrīva transgressed the time fixed by him for carrying out the terms of the alliance, the offence caused the appearance of great grief in Śrī Rāma's mind and he said, "The way in which Vālin was slain is not yet closed. Abide by the terms of the agreement, O Sugrīva. Do not go the way of Vālin." On hearing these words, Lakṣmaṇa became so angry that the Lord had to bring down his wrath. He went to Sugrīva (to denounce him). On that occasion, did not (Hanuman), the scholar versed in the science of Indra's grammer, counsel Sugrīva as follows:- "I do not see any other means for you, the offender, to escape from this situation except by begging the pardon of Lakṣmaṇa with folded hands". Sugrīva, too, accepted this advice and said to Lakṣman. "If out of over-confidence or out of affection, I have transgressed in any way, pray, let the offence of your servant be pardoned". And Lakṣmaṇa too, had to seek Sugrīva's pardon for overstepping the proper bounds of speech by
 
