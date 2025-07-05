@@ -2,6 +2,8 @@
 title = "श्रीवा॰ - रामानुजसम्बन्धेन प्रपत्तिः"
 +++
 
+[TODO: लेखकेन काले काले वर्ध्यमानम्। ]
+
 On the performance of prapatti:
 This is an important difference that has lead to heated debates from both sides. Contrary to what is often projected by stalwarts in dwesham from each side, the truth is that both sides have prapatti integral and both sides accept that its acharya sambandham, and in particular of well known acharyas like Ramanuja,Nammazhwar who’s Prapatti is famous plays a good part in confirming the Adhikari of moksha. 
 
