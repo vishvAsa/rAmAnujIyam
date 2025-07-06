@@ -657,7 +657,7 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 > "द्वयम् अप्य् उच्चारये"त्य् उक्ते  
 > महाविश्वास-पूर्वकं तथानुसन्दधानस्य द्वय-वचनं मुक्तिरूपोपाय…’’
 
-<details><summary>अभिमानान्तर्भावे श्रीवासः</summary>
+<details><summary>अभिमानान्तर्भावे SV</summary>
 
 > When you mean someone is attaining mukti by X acharya sambandham, it means that they r directly or indirectly using words of that acharya.  
 In vyakhyanam of 6.10.11 Nampillai tells all sambandhis of Nammazhwar get mukti. And method is to recite these pasurams of Nammazhwar sharanagati and become "antarbhUtas" of his prapatti.  
@@ -686,7 +686,7 @@ Ig this is what ppl meant early on, and it became misunderstood
 ##### लोकाचार्य-शाखायाम्
 > PL himself tells that acharya abhimanam means acharya does prapatti for shishya.
 
-इति श्रीवासः।  
+इति SV।  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 

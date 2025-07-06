@@ -9,7 +9,7 @@ title = "लोकाचार्यानुग-भेदाः"
 रक्षामात्रार्था संक्षिप्ता प्रपत्तिर् इव काचिद् अनुष्ठीयते पञ्च-संस्कार-समये।  
 तत्र सामान्यतो ऽन्तिमे याग-संस्कारे ‌/ इज्या-संस्कारय् अन्तर्-भाव्यते । 
 
-<details><summary>श्रीवासोक्तयः</summary>
+<details><summary>SV-सूचनाः</summary>
 
 They have preserved like the skeleton of the anushtanam.
 
@@ -26,10 +26,10 @@ gAdi-PBA-शिष्यः रङ्गनाथार्यः - [TW](https://
 विद्याभास्करः - शरणागति-गद्य-भाग-वचनेन सह पादेन शिरस्-स्पर्शः - [TW](https://www.youtube.com/watch?v=MRP0Wnq8whU&t=29s) ।  
 सिद्ध-दाताश्रमे [ऽत्र](/rAmAnujIyam/kriyA/lokAchArya-shAkhA/articles/siddha-dAtAshrama-pancha-saMskAraH)। 
 
-अनेनात्मापहार-पापं निर्वर्तते। 
+अनेनात्मापहार-पापं निर्वर्तते। इदं याग-शब्देनापि व्यवह्रियते ([TW](https://www.youtube.com/watch?t=1112&v=Pj4AJhK_2wA&feature=youtu.be))। 
 
 #### मोक्षार्था क्वचित्
-> DoDDayAchArya alias VAdUla SrInivAsAchArya alias MahAchArya, a great ThennAchArya of the 16th Century has supposed to have accepted Prapatti as NyAsa Vidya, with all the five angAs etc as explained by SwAmi DESikan. It is told that, during SamASrayanam, he would make the disciple recite NammAzhwAr's " akalakillEn ... " pAsuram in front of Divya Dampati after he recites it etc. This way, he used to perform " Ukti nishta " Prapatti it seems.... In the book " YatIndra Mata DIpikA " by SrInivAsAchArya, the ardent disciple of SrI DoDDayAchArya, the section on Prapatti lists the five angAs and eqautes it to a Brahma Vidya as a positive act
+> DoDDayAchArya alias VAdUla SrInivAsAchArya alias MahAchArya, a great ThennAchArya of the 16th Century has supposed to have accepted Prapatti as NyAsa Vidya, with all the five angAs etc as explained by SwAmi DESikan. It is told that, during SamASrayanam, he would make the disciple recite NammAzhwAr's " akalakillEn ... " pAsuram in front of Divya Dampati after he recites it etc. This way, he used to perform " Ukti nishta " Prapatti it seems.... In the book " YatIndra Mata DIpikA " by SrInivAsAchArya, the ardent disciple of SrI DoDDayAchArya, the section on Prapatti lists the five angAs and eqautes it to a Brahma Vidya as a positive act  
 
 
 
@@ -40,7 +40,7 @@ gAdi-PBA-शिष्यः रङ्गनाथार्यः - [TW](https://
 
 > Thirukkovalur jeeyar and some members of the ananthanpillai family do it separately (from pancha-saMskAra). My friend it happened so.
 
-इति श्रीवासः। 
+इति SV। 
 </details>
 
 ### सौष्ठवम्
@@ -74,7 +74,7 @@ gAdi-PBA-शिष्यः रङ्गनाथार्यः - [TW](https://
 
 इति वरदराजः [सद्-अनुष्ठान-दर्पणे](/rAmAnujIyam/kriyA/lokAchArya-shAkhA/varadarAja-sadanuShThAna-darpaNam) । 
 
-> Some claim they do sAttvika tyAga only once in lifetime during 5S. in fact they claim post prapatti sankalpam only not needed for karma as it all gets included in Anukulyasya sankalpam during prapatti. Also its not true that all tks don't do this. A friend of mine on X is tk, his acharya told him to do sAttvika tyAgam with every karma. So he does daily.
+> Some claim they do sAttvika tyAga only once in lifetime during 5S. in fact they claim post prapatti sankalpam only not needed for karma as it all gets included in Anukulyasya sankalpam during prapatti. Also its not true that all tks don't do this. Xyz is tk, his acharya told him to do sAttvika tyAgam with every karma. So he does daily. - SV
 
 ## पुण्ड्रम्
 पृथग् उक्तम्। 
