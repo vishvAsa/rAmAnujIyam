@@ -30,10 +30,7 @@ title = "समाश्रयणम्"
 
 
 ### लक्ष्यावलोकनम्
-लोकाचार्यानुगेषु 
 
-- [1960s](https://www.youtube.com/watch?time_continue=1&v=n7jG3GJ8NK0)
-- समाश्रयणाङ्ग-प्रपत्तयो [ऽन्यत्रोक्ताः](../lokAryAnuga-bhedaH) । 
 
 
 > A previous pontiff (श्रीमुश्नम् आण्डवन् इति प्रसिद्धः श्रीमद् रङ्गरमानुज महादेशिकन्) of Andavan Ashramam has recommended that svayamacharya families try their best to continue the samasrayana practice within the family even if it may be suboptimal for as long as possible and only come to Him for prapatti.
@@ -46,6 +43,11 @@ Met (\~2024) देशिकाचार्यदीक्षित, a vAdyAr, (
 - [वीरराघव-ग्रन्थे](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/uttamUru-vIrarAghavArya-prayoga-mAlA/09_pancha-saMskAra-prayogaH/) । 
 - वैकुण्ठदीक्षितस्य प्रपन्न-धर्म-सार-समुच्चये - पञ्च-संस्कार-प्रकरणे [साङ्ग-प्रपत्तिकम्](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vaikuNTha-dIxita-prapanna-dharma-sAra-samuchchayaH/01_paribhAShA/16_pancha-saMskAra-prayogaH)।
 
+### अनुष्ठान-चित्रादि
+लोकाचार्यानुगेषु 
+
+- [1960s](https://www.youtube.com/watch?time_continue=1&v=n7jG3GJ8NK0)
+- समाश्रयणाङ्ग-प्रपत्तयो [ऽन्यत्रोक्ताः](../lokAryAnuga-bhedaH) । 
 
 ### उपसर्पणम्
 ANDavan Ashrama makes you recite:
@@ -58,6 +60,15 @@ ANDavan Ashrama makes you recite:
 - Samhara and srishti nyasas are not performed on each sishya.
 
 ### दास-नाम
+प्रायेण "रामानुजदास" इत्य् एव दास-नाम दीयते (न तु हरिदास इत्यादि)।  
+दॊड्डयाचार्य-सम्प्रदाये - श्रीनिवास-दास इति। 
+
+रामानुजीयत्व-घटनार्थं हि समाश्रयणम् आचरणीयम् इति  
+तत्-कालाद् एव पद्धतिर् वर्तत इति कथयन्ति लोकाचार्यसम्प्रदाये (तद् अग्रे मुक्तिं प्रेरयतीति)।  
+
+तातार्यसम्प्रदाये साधारण-नामकरणागतं शर्म-नाम दासीकृत्य दीयते। 
+
+
 #### नाम-होमः
 
 #### पङ्क्त्य्-उपदेशे

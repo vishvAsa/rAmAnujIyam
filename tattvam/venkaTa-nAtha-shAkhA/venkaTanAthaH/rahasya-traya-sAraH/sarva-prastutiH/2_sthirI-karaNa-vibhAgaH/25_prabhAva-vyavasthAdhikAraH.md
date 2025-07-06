@@ -9084,6 +9084,23 @@ y **no necesitas adoptar** ningún otro dharma".
 त्यागोऽत्र प्रतिपाद्यते ॥
 </details>
 
+<details><summary>English</summary>
+
+If prapatti stands in the place of bhakti or upāsana as one of the Brahma Vidyās,  
+then the question arises  
+whether the aṅgas of bhakti might be considered as the aṅgas of prapatti as well.  
+But, in prapatti, they are not required as aṅgas.  
+This is indicated by the word parityajya ~~mām and ekam~~.
+</details>
+
+<details><summary>Español</summary>
+
+Si Prapatti **se encuentra** en el lugar de Bhakti o Upāsana como uno de los Brahma Vidyās,  
+Entonces **surge** la pregunta  
+Si las AṅGas de Bhakti también **podrían considerarse** como las AṅGas de Prapatti.  
+Pero, en Prapatti, **no se requieren** como AṅGas.
+Esto **se indica** por la palabra parityajya.
+</details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -9091,11 +9108,7 @@ y **no necesitas adoptar** ningún otro dharma".
 प्रकृतोपासनन्यायात्तदङ्गानामुपस्थितौ । अन्येषाञ्चैतदङ्गत्वत्यागोऽत्र प्रतिपाद्यते ॥
 </details>
 
-If prapatti stands in the place of bhakti or upāsana as one of the Brahma Vidyās,  
-then the question arises  
-whether the aṅgas of bhakti might be considered as the aṅgas of prapatti as well.  
-But, in prapatti, they are not required as aṅgas.  
-This is indicated by the word parityajya ~~mām and ekam~~.
+
 
 (If the word, parityajya, makes an injunction that other things should not be considered as aṅgas for prapatti,  
 and if the words (mā suchaH) (do not grieve or despair) show that the previous grief or despair is qualification for prapatti (ākiñcanya),  
