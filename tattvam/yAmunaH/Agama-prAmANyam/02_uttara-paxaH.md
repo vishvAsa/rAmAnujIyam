@@ -1101,7 +1101,7 @@ That the ground would be unestablished through reversal is utterly out of the qu
 विपर्ययासिद्धिस्तु दूरोत्सारितैव ।  
 </details>
 
-## स-दोषता न
+## पौरुषेयस्यापि ग्राह्यता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4091,10 +4091,10 @@ at the end of the Dvapara age and the beginning of the Kali age." (Mahabharata, 
 ननु कथं वेदा वा निरपेक्षा यावता तेषामपि भगवदनुभवसापेक्षमेव प्रमाणत्वं तत्कारणत्वात्, यथैव हि पञ्चरात्रस्मृतयः तदनुभवसापेक्षाः एवं वेदा अपीति तत्रोच्यते न च कर्त्तुः करणं न कर्त्तुरीश्वरस्य करणं वेदाः क्रियन्त इति करणम्,  कर्णि ल्युट्, अपौरुषेया वेदा इति यावत् ।  
 विज्ञानादिभावे वा तदप्रतिषेध, न चेदस्ति पञ्चरात्रशास्त्रमप्रमाणैति किन्तर्हि तदप्रतिषेधः प्रमित्युत्पत्तेरप्रतिषेधः विरुद्धार्धमपि विकल्पेन प्रमाणमित्यर्थः असम्भवद्भ्रमविप्रलम्भगवदनुभवमूलत्वाद्, विज्ञानादिभावे विज्ञानं -विशिष्टं ज्ञानम् असम्भवत्स्खलनमिति यावत्, अन्येषां हि सर्वधर्मशास्त्रनिबन्धणां सांसारिकत्त्वेनासार्वज्ञ्यात् अनवाप्तकामत्वाच्च सम्भाव्यमानविविधविप्लवं ज्ञानम्,  भगवतस्तु स्वाभाविकनिरङ्कुशैश्वर्यस्य श्रुतिशतसमधिगतावितथसहजसमस्तधर्माधर्मादिसाक्षात्कार ं ज्ञानमिति विज्ञानमित्युक्तम्,  तादृशस्य (अस्मिन्नर्थे विज्ञानस्यादिभावोविज्ञानादिभाव इति षष्ठीतत्पुरुषो ज्ञेयः)तस्यादिभावे मूलत्वे सति तदप्रतिषेधः प्रमाणमेवेति ।  
 
-## वेद-पाञ्चरात्र-विकल्पः
+## पाञ्चरात्र-निरपेक्षता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ननु कथं श्रुतिविरुद्धस्य तन्त्रस्य प्रामाण्याभ्युपगमः?  
+> ननु कथं श्रुति-विरुद्धस्य तन्त्रस्य प्रामाण्याभ्युपगमः?  
 </details>
 
 <details><summary>English</summary>
@@ -4128,7 +4128,7 @@ it becomes optional beside 89 scripture;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> +++(पाञ्चरात्रेण)+++ विकल्पश्च अष्टदोषदुष्टः, 
+> +++(पाञ्चरात्रेण)+++ विकल्पश् च अष्ट-दोष-दुष्टः, 
 </details>
 
 <details><summary>English</summary>
@@ -4166,7 +4166,8 @@ beside "he must sacrifice with barley."
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> न हि तत्रान्यतरद् अपहर्तुं शक्यम् - उभयोर् अप्य् अनपेक्षत्वाविशिष्टत्वात् ।
+> न हि तत्रान्यतरद् अपहर्तुं शक्यम् -  
+उभयोर् अप्य् अन्-अपेक्षत्वाविशिष्टत्वात् ।
 </details>
 
 <details><summary>English</summary>
@@ -4261,15 +4262,16 @@ OBJECTION. How can a statement deriving from a person be independent?
 किम् अस्य बोधकत्वाय  
 परापेक्षा **ऽभ्युपेयते** ।  
 किं वा निश्चायकत्त्वाय  
-यथार्थज्ञापनाय वा ॥  
-पुमर्थत्वाय वा तत्र  
+यथाऽर्थ-ज्ञापनाय वा ॥  
+पुम्-अर्थत्वाय वा तत्र  
 चतुर्णाम् अप्य् असम्भवः ।
 </details>
 
 <details><summary>English</summary>
 
 REFUTATION.  
-Let us ask the logician to explain this must dependence on something else  
+Let us ask the logician to explain this-  
+must dependence on something else  
 be assumed for a statement to be informative,  
 to give positive certainty,  
 or to state the truth about its content,  
@@ -4289,8 +4291,9 @@ All four are impossible.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न खलु "चक्रवर्त्य्-उपचारेण भगवन्तं समर्चयेद्" इतीदं वचनं श्रूयमाणं  
-बोधकत्वाय किञ्चिद् अपेक्षते  
+न खलु "चक्रवर्त्य्-उपचारेण भगवन्तं समर्चयेद्"  
+इतीदं वचनं श्रूयमाणं  
+बोधकत्वाय किञ्चिद् अपेक्षते,  
 अन्यत्र व्युत्पत्ति-ग्रहणात्, 
 </details>
 
@@ -4310,7 +4313,8 @@ because the meaning of the words has already become known from other contexts.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च तावता सापेक्षत्वेन दौर्बल्यं श्रुतावपि दौर्बल्यप्रसङ्गात् ।
+न च तावता सापेक्षत्वेन दौर्बल्यं -  
+श्रुताव् अपि दौर्बल्य-प्रसङ्गात् ।+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -4359,7 +4363,7 @@ since that would entail a negation of the direct declaration of the real sense.
 नापि यथार्थत्वाय,  
 **न** ह्य् **उत्पन्नं** ज्ञानं  
 स्व-कारण-व्यतिरेकेण यथार्थत्वाय अपरम् **अपेक्षते** -  
-+++(वेद-वाक्य-??)+++गुणतः प्रामाण्यस्यायुक्तत्वात् अनभ्युपगमाच् च ।  
++++(वेद-वाक्य-??)+++गुणतः प्रामाण्यस्यायुक्तत्वात्, +++(गुणत्व-)+++अनभ्युपगमाच् च ।  
 </details>
 
 <details><summary>English</summary>
@@ -4414,7 +4418,7 @@ for the proof of this purpose follows from a consideration of the entire body of
 
 In this case, those who have undergone the afore-mentioned sacraments have knowledge of the content of the statement  
 when they have heard the doctrine,  
-and hence they perform the "five-timesa-day" rites, which form this content,  
+and hence they perform the "five-timesa-day" rites ([228]: Vaisnava rite observed five times a day: pañcakálika.), which form this content,  
 and hence they attain to supreme perfection;  
 this is learnt solely from the Sastra itself.
 
@@ -4426,6 +4430,7 @@ this is learnt solely from the Sastra itself.
 इह हि यथोक्तसंस्कारवतां शास्त्रश्रवणात् तदर्थज्ञानं ततस्तदर्थंपाञ्चकालिकानुष्ठानम्,  ततो निरतिशयसंपत्प्राप्तिरिति शास्त्रादेवावगम्यते ।  
 </details>
 
+### आप्ति-निश्चयो नापेक्षितः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोच्येत 
@@ -4455,8 +4460,9 @@ after it has been made certain that the speaker is reliable,-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदसत्, **न** हि दोषाभाव-ज्ञानं प्रामाण्यं **निष्पादयति**  
-निर्दोष-ज्ञान-कारणाद् एव तद्-उत्पत्तेः ।  
+तद् असत्,  
+**न** हि दोषाभाव-ज्ञानं प्रामाण्यं **निष्पादयति**  
+निर्दोष-ज्ञान-कारणाद् एव तद्-उत्पत्तेः । +++(4)+++ 
 </details>
 
 <details><summary>English</summary>
@@ -4473,28 +4479,376 @@ and not from the defectlessness of this knowledge.
 तदसत्, न हि दोषाभावज्ञानं प्रामाण्यं निष्पादयति निर्दोषज्ञानकारणादेव तदुत्पत्तेः ।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च निर्दोषत्वायाप्तत्वादिगुणनिश्चयः सत्तामात्रेण तत्सिद्धेः, यथाह वार्तिककारः ।  
-तदा न व्याप्रियन्ते तु ज्ञायमानतया गुणाः ।  
-इति, दोषाभावज्ञानेऽपि गुणानां सत्तयोपयोगो दर्शितः, दोषाभावे तु विज्ञेये सत्तामात्रोपकारिणः ।  
-इति, न चोत्पन्नमपि प्रमाणं हानोपादानादिव्यवहारायापरममेक्षते स्मरणाभिलाषाभ्यामेव तत्सिद्धेः, यथाहुः स्मरणादभिलाषाच्च व्यवहारः प्रवर्तते इति ।  
+न च निर्दोषत्वायाप्तत्वादि-गुण-निश्चयः -  
+सत्ता-मात्रेण तत्-सिद्धेः,  
+</details>
+
+<details><summary>English</summary>
+
+[[91]] 111\. Nor is positive certainty about such of the speaker's qualities as his reliability  
+required for his statement to be defectless,  
+because the statement's defectlessness is proved solely by its being defectless.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च निर्दोषत्वायाप्तत्वादिगुणनिश्चयः सत्तामात्रेण तत्सिद्धेः, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथाह वार्तिककारः -  
+
+> तदा **न व्याप्रियन्ते** तु  
++++(अदुष्टताया)+++ ज्ञायमानतया +++(वक्तृ-)+++गुणाः ।  
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+As the Author of the Varttika declares, 
+
+> "Then the qualities (of the speaker) do not exert any influence (on the validity of his statement)  
+because (its defectlessness) is already known."229 
+
+[229]: ślokavārttika, 2.6 7 ab.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथाह वार्तिककारः -  
+
+> तदा न व्याप्रियन्ते तु  
+ज्ञायमानतया गुणाः ।  
+
+इति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दोषाभाव-ज्ञानेऽपि  
+गुणानां सत्तयोपयोगो दर्शितः,  
+
+> दोषाभावे तु विज्ञेये  
+सत्तामात्रोपकारिणः ।  
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+The same Author also shows that,  
+even when there is certainty about its defectlessness,  
+the existence of qualities (like reliability in the speaker) is helpful:  
+
+> "When defectlessness is known,  
+they are helpful by merely existing." 
+
+[230]: ib. 2.67 cd.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दोषाभावज्ञानेऽपि गुणानां सत्तयोपयोगो दर्शितः, दोषाभावे तु विज्ञेये सत्तामात्रोपकारिणः ।  
+इति, 
+</details>
+
+#### हानोपादानादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चोत्पन्नम् अपि प्रमाणं  
+हानोपादानादि-व्यवहारायापरमम् अपेक्षते  -  
+स्मरणाभिलाषाभ्याम् एव तत्सिद्धेः, 
+</details>
+
+<details><summary>English</summary>
+
+Nor does the validity, when it has been established  
+require something else in order that  
+consequent actions of acceptance, rejection etc. proceed,  
+because action proceeds on the basis of recollection and desire. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चोत्पन्नमपि प्रमाणं हानोपादानादिव्यवहारायापरममपेक्षते स्मरणाभिलाषाभ्यामेव तत्सिद्धेः, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथाहुः 
+
+> स्मरणाद् अभिलाषाच् च  
+व्यवहारः प्रवर्तते 
+
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+As they say, 
+
+> "Action proceeds on the basis of recollection and desire." 
+
+[231]: not identified.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथाहुः स्मरणादभिलाषाच्च व्यवहारः प्रवर्तते इति ।  
+</details>
+
+### वेदे तुल्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च  
+
+> स्वतः-प्राप्त-प्रामाण्यानां वेदानाम् अपि  
+यावत्-कर्तृ-भाव--निश्चय--पुरस्-सरं दोषाभावो नावधार्यते  
+न तावत् प्रामाण्यं प्रतिष्ठिति
+
+इति समानं सापेक्षत्वम् ।  
+</details>
+
+<details><summary>English</summary>
+
+Moreover, in the case of the self-valid Vedas, too,  
+we find this same dependence in that their validity would not be completely established  
+as long as there were no certainty of their defectlessness  
+after the certainty about the non-existence of their author.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अपि च स्वतःप्राप्तप्रामाण्यानां वेदानामपि यावत्कर्तृभावनिश्चयपुरस्सरं दोषाभावो नावधार्यते न तावत्प्रामाण्यं प्रतिष्ठितीति समानं सापेक्षत्वम् ।  
-अथ योग्यानुपलम्भादेवानायाससिद्धे वक्तृभावे निराश्रयदोषाणमसम्भवादप्रामाण्यशङ्कैव वेदे नास्ति इति चेत् यथाहुः ।  
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ
+
+> योग्यानुपलम्भाद् एवानायास-सिद्धे वक्त्र्-अभावे  
++++(तद्-अभावात्)+++ निराश्रय+++(←वक्तृ)+++-दोषाणाम् अ-सम्भवाद्  
+अ-प्रामाण्य-शङ्कैव वेदे नास्ति 
+
+इति चेत् 
+</details>
+
+<details><summary>English</summary>
+
+> 112\. OBJECTION. But when the non-existence of their author is proved without effort  
+by the non-apprehension of what ought to be there,  
+the question of the non-validity does not arise for the Veda, for defects are impossible without something or someone in which they could reside.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथ योग्यानुपलम्भादेवानायाससिद्धे वक्तृ??भावे निराश्रयदोषाणामसम्भवादप्रामाण्यशङ्कैव वेदे नास्ति इति चेत् 
+</details>
+
+#### ईश्वरकृततया दोषाभावः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यथाहुः ।  
+>
+> > +++(वक्त्र्-अभावे)+++ तत्रापवाद-निर्मुक्तिर् +++(प्रामाण्ये)+++  
+वक्तृ-भावाल् लघीयसी ।  
+वेदे तेनाप्रमाणत्वं  
+**न शङ्काम् अधिगच्छति** ॥
+
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+As they say: 
+
+> "In that case (the Veda) the absence of non-validity follows quite naturally from the absence of an author;  
+therefore its validity cannot be questioned."\*\*" 
+
+[[92]]
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> यथाहुः ।  
 तत्रापवादनिर्मुक्तिर्वक्तृभावाल्लघीयसी ।  
 वेदे तेनाप्रमाणत्वं न शङ्कामधिगच्छति ॥
 
 इति ।  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हन्त तर्हि पञ्च-रात्र-तन्त्रेऽपि  
+सर्व-ज्ञ--सर्वेश्वर-वक्तृ-भावाद् एव  
+अ-यत्न-सिद्धे दोषाभावे  
+अप्रामाण्य-शङ्का नावतरतीति समानश् चर्चः ।  
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION. Why, in the case of Pañcarátra too no question can arise about its validity, since the absence of defects is easily proved by the fact that the omniscient and omnipotent God is its speaker; so the argument is the same.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 हन्त तर्हि पञ्चरात्रतन्त्रेऽपि सर्वज्ञसर्वेश्वरवक्तृभावादेव अयत्नसिद्धे दोषाभावे अप्रामाण्यशङ्का नावतरतीति समानश्चर्चः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतद् उक्तं भवति -  
+
+> उभयोर् अपि स्वतःप्रामाण्ययोर् एकत्र दोषाभावनिश्चयः  
+तद्-आश्रय-पुरुषाभाव-निश्चयात्,  
+अन्यत्र तद्-विरुद्ध-गुण-वक्तृकत्व निश्चयाद् 
+
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+In other words, in both cases of self-validity there is positive certainty that there are no defects; in the case of the Veda because there is positive certainty that no person is involved who could possess these defects; in the case of Pañcarātra because there is positive certainty that its speaker possesses virtues which preclude defects. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 एतदुक्तं भवति उभयोरपि स्वतःप्रामाण्ययोरेकत्र दोषाभावनिश्चयः तदाश्रयपुरुषाभावनिश्चयात्, अन्यत्र तद्विरुद्धगुणवक्तृकत्व निश्चयादिति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा 
+
+> औष्ण्याभाव-निश्चयो नभसि  
+तद्-आधाराभाव-निश्चयाज्,  
+जले तु तद्-विरुद्ध-शैत्योपलम्भाद् 
+
+इति । +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+It is here as in the following two cases of absence of heat: there is no heat in ether because it is certain that there is no locus for heat in ether; nor is there heat in cold water because there is coldness which precludes heat.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यथा औष्ण्याभावनिश्चयो नभसि तदाधाराभावनिश्चयाज्जले तु तद्विरुद्धशैत्योपलम्भादिति ।  
+</details>
+
+### सापेक्षता न बाधिका
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किञ्च -  
+
+सापेक्ष-निरपेक्षत्वे  
+न हि बाधस्य कारणम् ।  
+</details>
+
+<details><summary>English</summary>
+
+
+113\. Moreover, neither dependence nor independence is by itself a cause of invalidation.29  
+
+[232] this speaks to 108, that the independent cognition cancels the dependent cognition, if there is conflict between them. Yamuna makes the point that this is not invariably true; that neither dependence nor independence is a cause of invalidation, sapeksanirapeksatve is a dual and requires the correction of karanam into kārane, If my understanding of the text is correct.+++(4)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 किञ्च ।  
 सापेक्षनिरपेक्षत्वे न हि बाधस्य कारणम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शुक्तौ रजत-बोधस्य  
+निरपेक्षस्य बाधकम् …॥  
+"नेदं-रजत"-विज्ञानं  
+तत्-सापेक्षम् अपीष्यते ।  
+</details>
+
+<details><summary>English</summary>
+
+The independent cognition that some substance is silver  
+while in reality it is nacre  
+is invalidated by the cognition: "This is not silver:"  
+this cognition itself is considered as dependent. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 शुक्तौ रजतबोधस्य निरपेक्षस्य बाधकम् ॥  
 नेदं रजतविज्ञानं तत्सापेक्षमपीष्यते ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"सेयं +++(समाना)+++ ज्वाले"ति संवित्तेस्  
+तैल-वर्ति-विनाश-जा ॥  
+अनुमा बाधिका दृष्टा  
+सापेक्षाऽप्य् - अक्ष-जन्मनः ।  
+</details>
+
+<details><summary>English</summary>
+
+The cognition "This is that flame," is found to be invalidated  
+by the inferential cognition that arises from the disappearance of oil";  
+the latter cognition itself is dependent because it arises from a sense-perception. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 सेयं ज्वालेति संवित्तेस्तैलवर्तिविनाशजा ॥  
 अनुमा बाधिका दृष्टा सापेक्षाऽप्यक्षजन्मनः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो निरवकाशेन  
+सावकाशं **निषिध्यते** +++(न तु निरपेक्षेण)+++ ॥  
+न चेह सावकाशत्वं  
+भगवच्-छास्त्र-वेदयोः ।  
+</details>
+
+<details><summary>English</summary>
+
+The simple truth therefore is  
+that which is susceptible to invalidation  
+is invalidated by that which is not so susceptible;  
+in our present case there is no such susceptibility either of Scripture or of Pañcaratra.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अतो निरवकाशेन सावकाशं निषिध्यते ॥  
 न चेह सावकाशत्वं भगवच्छास्त्रवेदयोः ।  
+</details>
+
 अथ श्रुतिविरुद्धस्य तन्त्रभागस्य दुश्शकम् ॥  
 वासुदेवप्रणीतत्वं निश्चेतुमिति मन्यसे ।  
 पञ्चरात्रविरुद्धस्य वेदभागस्य वा कथम् ॥  
@@ -4564,7 +4918,7 @@ and not from the defectlessness of this knowledge.
 ### वेद-विरोधि-वाक्यानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> नन्वत्र भवतां भाष्यकाराणां विरुद्धांशाप्रामाण्याभिधानं कथम् इव?  
+> नन्व् अत्र-भवतां +++(शाबर-)+++भाष्यकाराणां विरुद्धांशाप्रामाण्याभिधानं कथम् इव?  
 </details>
 
 <details><summary>English</summary>
@@ -4586,7 +4940,7 @@ Sabarabhasya and KMS.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्य् अपि विरोधः - कृत्वा चिन्तया परिहृतस्  
+यद्य् अपि विरोधः - कृत्वा चिन्तया परिहृतस्,  
 तद् अपि गम्भीर-न्याय-सागरम् अवगाढुम् अपरिवृढानां कोमल-मनसां  
 वेदानादरो मा भूद् इत्य्-एवम्-परम्, 
 </details>

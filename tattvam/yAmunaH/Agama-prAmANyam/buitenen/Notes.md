@@ -133,15 +133,13 @@ title = "Notes"
 ## 
 [[141]] 
 
-[228]: Vaisnava rite observed five times a day: pañcakálika.
 
-[229]: ślokavārttika, 2.6 7 ab.
 
-[230]: ib. 2.67 cd.
 
-[231]: not identified.
 
-[232]: this speaks to 108, that the independent cognition cancels the dependent cognition, if there is conflict between them. Yamuna makes the point that this is not invariably true; that neither dependence nor independence is a cause of invalidation, sapeksanira peksatve is a dual and requires the correction of karanam into kārane, If my understanding of the text is correct.
+
+
+
 
 [233]: namely, because it requires another cognition in order to be denied.
 
