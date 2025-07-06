@@ -5089,7 +5089,7 @@ On the other hand, some experts dispute that the Veda is eternal! ([[142]] [235]
 तेन निर्दोष-विज्ञान-  
 कारणत्वाद् द्वयोर् अपि ॥  
 निर्विशङ्कं प्रमाणत्वं  
-भगवच्छास्त्रवेदयोः ।  
+भगवच्छास्त्रवेदयोः ।  +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -5104,6 +5104,18 @@ is this that both are causes of defectless knowledge.
 तेन निर्दोषविज्ञानकारणत्वाद् द्वयोरपि ॥  
 निर्विशङ्कं प्रमाणत्वं भगवच्छास्त्रवेदयोः ।  
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अन्ततो ऽस्मद्-आप्तानां चिरन्तनानुभवे निर्दोषत्वे साक्षात्कृते, नानवस्था, न चान्योऽन्याश्रयः।  
+कश्चन नूतनो ग्रन्थश् चेत् समस्या स्यात्। नानयोः।  
+आप्ति-निश्चयः - रक्त-विद्यादि-सम्बन्ध-परम्परया सफलया।  
+साफल्य-निश्चयः - 
+
+- धारणाद् धर्मम् इत्याहुः। केन प्रजा वरं धृता इति साक्षात्कार्यम्
+
+</details>
+
 
 ### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5177,7 +5189,7 @@ or that it has been stated according to the truth with complete attentiveness of
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्रोच्यते "विप्रतिषेधात्" इति,  
+तत्रोच्यते "विप्रतिषेधात्" इति -  
 समस्त-श्रुतीतिहास-पुराण-लोक-विप्रतिषेधात्।
 </details>
 
@@ -5186,29 +5198,271 @@ or that it has been stated according to the truth with complete attentiveness of
 REFUTATION. To this objection the Author replies vipratisedhat, i.e., on account of the contradiction of all śruti, epic, purana and worldly experience. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तत्रोच्यते विप्रतिषेधात् इति, समस्तश्रुतीतिहासपुराणलोकविप्रतिषेधात्।
 </details>
 
+### नाकारणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि विना कारणेन भगवतः सर्वशक्तित्वमात्राद् विप्लावनशङ्का ।  
+यदि विना कारणेन भगवतः सर्व-शक्तित्व-मात्राद् विप्लावन-शङ्का -  
+</details>
+
+<details><summary>English</summary>
+
+If, without any reason, merely because the Bhagavan is omnipotent, the question is raised  
+if He might bave intended to ruin His devotees, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि विना कारणेन भगवतः सर्वशक्तित्वमात्राद् विप्लावनशङ्का - 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हन्तैवं सर्वशक्तित्वान्  
+नरके धार्मिकान् अपि ।  
+पातयेन् नेति सन्देहान्  
+निश्चेष्टं जगद् आपतेत् ॥ +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+why, then one could also raise the question whether He would not hurl even the virtuous into hell by a whim of His omnipotence and consequently the whole world would fall into inactivity! 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 हन्तैवं सर्वशक्तित्वान्नरके धार्मिकानपि ।  
 पातयेन्नेति सन्देहान्निश्चेष्टं जगदापतेत् ॥
+</details>
 
-अपि चायं सर्वशक्तित्वेन विप्रलिप्समानः किमतीन्द्रियासत्यार्थान् वेदानादौ निर्माय स्व स्वनिर्माणस्मरणशक्तिमपि हिरण्यगर्भादेरपहृत्य तत्प्रभृति स्वाध्यायपरम्परामिमां प्रवर्तितवान्न वेति संशयानाः कथं विश्वसिमः ।  
-अथास्य सत्यपि सर्वशक्तित्वे यावच्छक्ति करणे प्रमाणाभावात् अनवस्थानाद् भगवतश्च स्वभावाप्तकामतया विप्रलम्भप्रयोजनविरहाद् वैषम्यनैर्घृण्यादिदोषैर्मात्रयापि चासंस्पृष्टत्वात् सर्वप्राणिजातस्य स्वभावसौहृदेन व्यवस्थानाद् विप्रलब्धुं प्रणीतत्वे च विदुषामद्य यावत् स्वाध्यायाध्ययन -तदर्थानुष्ठानवतां तत्कर्तृदोषविस्मरणानुपपत्तेस्तादृशाशङ्का नास्तीति चेत्तदेतत्सर्वमन्यत्रापि समानम् ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि चायं सर्वशक्तित्वेन विप्रलिप्समानः  
+किम् अतीन्द्रियासत्यार्थान् वेदान् आदौ निर्माय   
+स्व-स्व-निर्माण-स्मरण-शक्तिम् अपि हिरण्य-गर्भादेर् अपहृत्य  
+तत्-प्रभृति स्वाध्याय-परम्पराम् इमां प्रवर्तितवान् न वेति संशयानाः  
+कथं विश्वसिमः ।+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+[[95]] 
+
+Besides, we could also raise the question whether He did not wish to deceive people, because He is omnipotent, and thus created in the beginning the Vedas themselves with false meanings, which are also suprasensible, took away from Brahma etc. also the power of recollecting that He was the creator of the Vedas,  
+and from then onward set in motion the transmission of Vedic instruction until the present day:  
+how can we be sure about it? 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि चायं सर्वशक्तित्वेन विप्रलिप्समानः किमतीन्द्रियासत्यार्थान् वेदानादौ निर्माय  स्व-स्वनिर्माणस्मरणशक्तिमपि हिरण्यगर्भादेरपहृत्य तत्प्रभृति स्वाध्यायपरम्परामिमां प्रवर्तितवान्न वेति संशयानाः कथं विश्वसिमः ।  
+</details>
+
+### स्वरूप-विरुद्धम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथास्य सत्य् अपि सर्व-शक्तित्वे  
+यावच्-छक्ति-करणे प्रमाणाभावाद् अनवस्थानाद् 
+</details>
+
+<details><summary>English</summary>
+
+Or the position can be taken that  
+since there is no evidence that,  
+while He is indeed omnipotent,  
+He acted up to the full measure of His omnipotence, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथास्य सत्यपि सर्वशक्तित्वे यावच्छक्तिकरणे प्रमाणाभावाद् अनवस्थानाद् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवतश् च स्व-भावाप्त-कामतया विप्रलम्भ-प्रयोजन-विरहाद् 
+</details>
+
+<details><summary>English</summary>
+
+since there is no purpose for Him to deceive people  
+because He is satisfied in all His desires,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवतश्च स्वभावाप्तकामतया विप्रलम्भप्रयोजनविरहाद् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वैषम्य-नैर्घृण्यादि-दोषैर् मात्रया ऽपि चासंस्पृष्टत्वात् 
+</details>
+
+<details><summary>English</summary>
+
+and since He is not in the least affected by defects of partiality and cruelty etc.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+वैषम्यनैर्घृण्यादिदोषैर्मात्रयापि चासंस्पृष्टत्वात् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वप्राणिजातस्य स्वभावसौहृदेन व्यवस्थानात्। 
+</details>
+
+<details><summary>English</summary>
+
+because He abides with natural affection for all living beings; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वप्राणिजातस्य स्वभावसौहृदेन व्यवस्थानात् 
+</details>
+
+### दोषास्मरणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विप्रलब्धुं प्रणीतत्वे च  
+विदुषाम् अद्य यावत् स्वाध्यायाध्ययन--तद्-अर्थानुष्ठानवतां  
+तत्-कर्तृ-दोष-विस्मरणानुपपत्तेस्  
+तादृशाशङ्का नास्ति
+
+इति चेत्  
+तद् एतत् सर्वम् अन्यत्रापि समानम् ।  
+</details>
+
+<details><summary>English</summary>
+
+> and since, if He had composed ~~the Pañcaratra~~ in order to deceive, 
+it would be impossible to demonstrate that  
+the wise men who, up to now, learn its instructions  
+and perform the contents of these instructions  
+have forgotten the defects of its author,  
+it must follow that such a suspicion does not arise; 
+
+and if this view is taken, all this will equally apply to the other ~~Vedas~~ as well.
+</details>
+
+<details><summary>मूलम्</summary>
+
+विप्रलब्धुं प्रणीतत्वे च  
+विदुषामद्य यावत् स्वाध्यायाध्ययन-तदर्थानुष्ठानवतां तत्कर्तृदोषविस्मरणानुपपत्तेस्तादृशाशङ्का नास्तीति चेत्तदेतत्सर्वमन्यत्रापि समानम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि -  
+</details>
+
+<details><summary>English</summary>
+
+Therefore, 
+</details>
+
+<details><summary>मूलम्</summary>
+
 तथा हि ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किम् अस्यावाप्त-कामस्य  
+सर्वज्ञस्य दया-निधेः ।  
+अल्प-सत्त्वैर् अ-लब्धार्थैर्  
+विप्रलब्धैः प्रयोजनम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+what possible purpose could He who is satisfied in all His desires,  
+who is omniscient and a treasury of compassion  
+have in deceiving the poor people  
+who have failed to understand the meaning (of the Veda)? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 किमस्यावाप्तकामस्य सर्वज्ञस्य दयानिधेः ।  
 अल्पसत्त्वैरलब्धार्थैर्विप्रलब्धैः प्रयोजनम् ॥  
+</details>
+
+### महाजन-गृहीतता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विप्रलब्धुं कृतं तन्त्रं  
+कथं वा परम-र्षयः ।  
+इतस् ततः प्रशंसन्ति  
+तुल्य-वच् छ्रुति-मूर्धभिः ॥  +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Or how could the supreme sages everywhere praise the Tantra as being equal to the Upanisads,  
+if it had been composed in order to deceive? 
+</details>
+
+<details><summary>मूलम्</summary>
+
 विप्रलब्धुं कृतं तन्त्रं कथं वा परमर्षयः ।  
 इतस्ततः प्रशंसन्ति तुल्यवच्छ्रुतिमूर्द्धभिः ॥  
-तथा हि वेदैस्सह निर्विशेषं वाराह -रामायण -भारतादौ ।  
-अमुष्य तन्त्रस्य रहस्यभावं व (पठन्तीति द्रविडपाठः ।)दन्ति सन्तस्तमिमं वदामः ॥
+</details>
 
-वेदेन पञ्चरात्रेण भक्त्या यज्ञेन च द्विज? ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि वेदैस् सह निर्विशेषं  
+वाराह-रामायण-भारतादौ ।  
+अमुष्य तन्त्रस्य रहस्यभावं  
+वदन्ति सन्तस् तम् इमं वदामः ॥
+</details>
+
+<details><summary>English</summary>
+
+For thus the saints declare in Vārāha Purana, the Ramayana and the Bharata etc. that this Tantra is an equally esoteric doctrine as the Vedas; and we declare the same. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा हि वेदैस्सह निर्विशेषं वाराह-रामायण-भारतादौ ।  
+अमुष्य तन्त्रस्य रहस्यभावं व (पठन्तीति द्रविडपाठः ।)दन्ति सन्तस्तमिमं वदामः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वेदेन पञ्चरात्रेण  
+भक्त्या यज्ञेन च द्विज ।  
+प्राप्योऽहं नान्यथा प्राप्यो  
+वर्षलक्षशतैरपि ॥  
+</details>
+
+<details><summary>English</summary>
+
+[[96]]
+
+> "Through Veda, Pañcaratra, through devotion and sacrifice, O Brahmin, I can be attained,  
+and not in any other way, even in hundreds of lacs of years. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> वेदेन पञ्चरात्रेण भक्त्या यज्ञेन च द्विज? ।  
 प्राप्योऽहं नान्यथा प्राप्यो वर्षलक्षशतैरपि ॥  
+</details>
+
 पञ्चरात्रं सहस्राणां यदि कश्चिद् ग्रहीष्यति ।  
 कर्मक्षये च मद्भक्तो यदि कश्चिद् भविष्यति ॥  
 तस्य वेदाः पञ्चरात्रं नित्यं हृदि व(वत्स्य प्राप्ते वसिष्यतीत्यार्षम् ।)सिष्यति ।  
