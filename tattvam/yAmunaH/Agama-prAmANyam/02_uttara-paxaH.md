@@ -4091,7 +4091,7 @@ at the end of the Dvapara age and the beginning of the Kali age." (Mahabharata, 
 ननु कथं वेदा वा निरपेक्षा यावता तेषामपि भगवदनुभवसापेक्षमेव प्रमाणत्वं तत्कारणत्वात्, यथैव हि पञ्चरात्रस्मृतयः तदनुभवसापेक्षाः एवं वेदा अपीति तत्रोच्यते न च कर्त्तुः करणं न कर्त्तुरीश्वरस्य करणं वेदाः क्रियन्त इति करणम्,  कर्णि ल्युट्, अपौरुषेया वेदा इति यावत् ।  
 विज्ञानादिभावे वा तदप्रतिषेध, न चेदस्ति पञ्चरात्रशास्त्रमप्रमाणैति किन्तर्हि तदप्रतिषेधः प्रमित्युत्पत्तेरप्रतिषेधः विरुद्धार्धमपि विकल्पेन प्रमाणमित्यर्थः असम्भवद्भ्रमविप्रलम्भगवदनुभवमूलत्वाद्, विज्ञानादिभावे विज्ञानं -विशिष्टं ज्ञानम् असम्भवत्स्खलनमिति यावत्, अन्येषां हि सर्वधर्मशास्त्रनिबन्धणां सांसारिकत्त्वेनासार्वज्ञ्यात् अनवाप्तकामत्वाच्च सम्भाव्यमानविविधविप्लवं ज्ञानम्,  भगवतस्तु स्वाभाविकनिरङ्कुशैश्वर्यस्य श्रुतिशतसमधिगतावितथसहजसमस्तधर्माधर्मादिसाक्षात्कार ं ज्ञानमिति विज्ञानमित्युक्तम्,  तादृशस्य (अस्मिन्नर्थे विज्ञानस्यादिभावोविज्ञानादिभाव इति षष्ठीतत्पुरुषो ज्ञेयः)तस्यादिभावे मूलत्वे सति तदप्रतिषेधः प्रमाणमेवेति ।  
 
-## पाञ्चरात्र-निरपेक्षता
+## वेद-तुल्य-प्रामाण्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु कथं श्रुति-विरुद्धस्य तन्त्रस्य प्रामाण्याभ्युपगमः?  
@@ -4222,6 +4222,7 @@ So how can they be alternatives and optional?
 </details>
 
 
+### इतर-निरपेक्षता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयतां - पञ्च-रात्र-शास्त्रस्यापि निरपेक्षत्वाद् एव +++(विकल्पत्वम्)+++।  
@@ -4430,7 +4431,7 @@ this is learnt solely from the Sastra itself.
 इह हि यथोक्तसंस्कारवतां शास्त्रश्रवणात् तदर्थज्ञानं ततस्तदर्थंपाञ्चकालिकानुष्ठानम्,  ततो निरतिशयसंपत्प्राप्तिरिति शास्त्रादेवावगम्यते ।  
 </details>
 
-### आप्ति-निश्चयो नापेक्षितः
+#### आप्ति-निश्चयो नापेक्षितः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोच्येत 
@@ -4558,7 +4559,7 @@ they are helpful by merely existing."
 इति, 
 </details>
 
-#### हानोपादानादि
+##### हानोपादानादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चोत्पन्नम् अपि प्रमाणं  
@@ -4604,13 +4605,13 @@ As they say,
 यथाहुः स्मरणादभिलाषाच्च व्यवहारः प्रवर्तते इति ।  
 </details>
 
-### वेदे तुल्यम्
+#### (अ)कर्तृवत्ता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च  
 
 > स्वतः-प्राप्त-प्रामाण्यानां वेदानाम् अपि  
-यावत्-कर्तृ-भाव--निश्चय--पुरस्-सरं दोषाभावो नावधार्यते  
+यावत् कर्तृ-भाव--निश्चय--पुरस्-सरं दोषाभावो नावधार्यते  
 न तावत् प्रामाण्यं प्रतिष्ठिति
 
 इति समानं सापेक्षत्वम् ।  
@@ -4629,8 +4630,9 @@ after the certainty about the non-existence of their author.
 
 अपि च स्वतःप्राप्तप्रामाण्यानां वेदानामपि यावत्कर्तृभावनिश्चयपुरस्सरं दोषाभावो नावधार्यते न तावत्प्रामाण्यं प्रतिष्ठितीति समानं सापेक्षत्वम् ।  
 </details>
- 
 
+
+##### ईश्वरकृततया दोषाभावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ
@@ -4655,7 +4657,6 @@ the question of the non-validity does not arise for the Veda, for defects are im
 अथ योग्यानुपलम्भादेवानायाससिद्धे वक्तृ??भावे निराश्रयदोषाणामसम्भवादप्रामाण्यशङ्कैव वेदे नास्ति इति चेत् 
 </details>
 
-#### ईश्वरकृततया दोषाभावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यथाहुः ।  
@@ -4755,7 +4756,7 @@ It is here as in the following two cases of absence of heat: there is no heat in
 यथा औष्ण्याभावनिश्चयो नभसि तदाधाराभावनिश्चयाज्जले तु तद्विरुद्धशैत्योपलम्भादिति ।  
 </details>
 
-### सापेक्षता न बाधिका
+#### सापेक्षता न बाधिका
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किञ्च -  
@@ -4768,6 +4769,9 @@ It is here as in the following two cases of absence of heat: there is no heat in
 
 
 113\. Moreover, neither dependence nor independence is by itself a cause of invalidation.29  
+</details>
+
+<details><summary>English - Note</summary>
 
 [232] this speaks to 108, that the independent cognition cancels the dependent cognition, if there is conflict between them. Yamuna makes the point that this is not invariably true; that neither dependence nor independence is a cause of invalidation, sapeksanirapeksatve is a dual and requires the correction of karanam into kārane, If my understanding of the text is correct.+++(4)+++
 </details>
@@ -4793,6 +4797,8 @@ The independent cognition that some substance is silver
 while in reality it is nacre  
 is invalidated by the cognition: "This is not silver:"  
 this cognition itself is considered as dependent. 
+
+([233]: namely, because it requires another cognition in order to be denied.)
 </details>
 
 
@@ -4816,6 +4822,11 @@ this cognition itself is considered as dependent.
 The cognition "This is that flame," is found to be invalidated  
 by the inferential cognition that arises from the disappearance of oil";  
 the latter cognition itself is dependent because it arises from a sense-perception. 
+</details>
+
+<details><summary>English - Note</summary>
+
+[234]: namely, in the example of the burning lamp: is it the same flame that burns at six o'clock and at seven o'clock? We don't see the flame change or be succeeded by another flame. Only inference shows that since there is a different amount of oil in the lamp at different times, it is different oil that is burning as a flame, so that the flame is really different. The sense perception is of the varying amounts of oil.
 </details>
 
 
@@ -4849,36 +4860,340 @@ in our present case there is no such susceptibility either of Scripture or of Pa
 न चेह सावकाशत्वं भगवच्छास्त्रवेदयोः ।  
 </details>
 
+### कर्ता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ श्रुतिविरुद्धस्य  
+तन्त्रभागस्य दुश्शकम् ॥  
+वासुदेव-प्रणीतत्वं  
+निश्चेतुम् इति मन्यसे ।  
+</details>
+
+<details><summary>English</summary>
+
+[[93]]  
+114\. Or if you think that it is impossible to give positive certainty that the Tantra is promulgated by Vasudeva,  
+as it is in conflict with Scripture, 
+</details>
+
+<details><summary>मूलम्</summary>
+
 अथ श्रुतिविरुद्धस्य तन्त्रभागस्य दुश्शकम् ॥  
 वासुदेवप्रणीतत्वं निश्चेतुमिति मन्यसे ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पञ्चरात्र-विरुद्धस्य  
+वेदभागस्य वा कथम् ॥  
+अपौरुषेयता-ज्ञानम्  
+आविर्भवति बाधितम् ।  
+</details>
+
+<details><summary>English</summary>
+
+I ask you :  
+Why then does the knowledge arise that Scripture is preterpersonal,  
+while it is invalidated because it conflicts with Pañcaratra? 
+</details>
+
+<details><summary>मूलम्</summary>
+
 पञ्चरात्रविरुद्धस्य वेदभागस्य वा कथम् ॥  
 अपौरुषेयताज्ञानमाविर्भवति बाधितम् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्यापि वेद-भागत्वात्  
+तथाभावोऽभ्युपेयते ॥  
+अस्यापि पञ्चरात्रत्वात्  
+तत्-प्रणीतत्वम् इष्यताम् ।  
+</details>
+
+<details><summary>English</summary>
+
+They accept it that the Veda is preterpersonal just because it is Veda; but then one can equally claim that Pañcaratra is promulgated by Vasudeva just because it is Pañcaratra. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तस्यापि वेदभागत्वात् तथाभावोऽभ्युपेयते ॥  
 अस्यापि पञ्चरात्रत्वात् तत्प्रणीतत्वमिष्यताम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कर्तुर् अस्मरणात् तत्र  
+यदि चापौरुषेयता ॥  
+तत्-कर्तृकत्व-स्मृत्याऽत्र  
+किन् न स्यात् तत्-प्रणीतता ।  
+</details>
+
+<details><summary>English</summary>
+
+If the preterpersonal origin of the Veda is proved by the fact that there is no recollection of an author, then why not agree that Pañcaratra is promulgated by Vasudeva just because there is recollection of his authorship? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 कर्तुरस्मरणात्तत्र यदि चापौरुषेयता ॥  
 तत्कर्तृकत्वस्मृत्याऽत्र किन्न स्यात्तत्प्रणीतता ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्ति ह्य् आ-स्त्री-कुमारं सा  
+दृढा स्मृति-परम्परा ॥  
+पञ्चरात्रस्य निर्माता  
+केशवो भगवान् इति ।  
+</details>
+
+<details><summary>English</summary>
+
+For there exists a strong transmission of the recollection, extending to women and children, that Kesava is the author of the Pancarãtra. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 अस्ति ह्यास्त्रीकुमारं सा दृढा स्मृतिपरम्परा ॥  
 पञ्चरात्रस्य निर्माता केशवो भगवानिति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्प्रणीतत्वविश्वासाद्  
+गजानश्वान् धनं बहु ॥  
+दक्षिणां विविधां दत्त्वा  
+प्रतिष्ठादीनि कुर्वते ।  
+</details>
+
+<details><summary>English</summary>
+
+So great a faith do people have in His authorship that they erect monuments according to the precepts of Pañcarātra, donating elephants, horses and great wealth in various fees, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तत्प्रणीतत्वविश्वासाद् गजानश्वान् धनं बहु ॥  
 दक्षिणां विविधां दत्त्वा प्रतिष्ठादीनि कुर्वते ।  
-साङ्ख्यस्य कपिलो वक्ता पञ्चरात्रस्य केशवः ॥  
-इति स्कन्दपुराणेऽपि पठ्यते भारते तथा ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एसाङ्ख्यस्य कपिलो वक्ता  
+पञ्चरात्रस्य केशवः ॥  
+इति स्कन्दपुराणेऽपि  
+पठ्यते भारते तथा ।  
+</details>
+
+<details><summary>English</summary>
+
+In the Skanda Purana it is said that "Kapila is the promulgator of Samkhya, Kesava of Pañcaratra." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एसाङ्ख्यस्य कपिलो वक्ता  
+पञ्चरात्रस्य केशवः ॥  
+इति स्कन्दपुराणेऽपि  
+पठ्यते भारते तथा ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पञ्चरात्रस्य कृत्स्नस्य  
+वक्ता नारायणः स्वयम् ॥  
+इदं महोपनिषदं  
+चतुर्-वेद-समन्वितम् ।  
+</details>
+
+<details><summary>English</summary>
+
+Likewise in the Mahabharata: 
+
+> "Narayana Himself is the promulgator of the entire Pañcaratra.  
+This great Upanisada, consistent with the four Vedas,  
+</details>
+
+<details><summary>मूलम्</summary>
+
 पञ्चरात्रस्य कृत्स्नस्य वक्ता नारायणः स्वयम् ॥  
 इदं महोपनिषदं चतुर्वेदसमन्वितम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> साङ्ख्य-योग-कृतान्तेन  
+पञ्च-रात्रानुशब्दितम् ॥  
+नारायण-मुखोद्गीतं  
+नारदोऽश्रावयन् मुनीन् ।  
+ब्रह्मणस्सदने तात!  
+यथादृष्टं यथाश्रुतम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+> as well as with the doctrines of Samkhya and Yoga, called Pañcaratra,  
+which was revealed by Nārāyaṇa's tongue,  
+has been taught to the sages by Narada  
+as he had seen it and heard it in the abode of Brahma."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 साङ्ख्ययोगकृतान्तेन पञ्चरात्रानुशब्दितम् ॥  
 नारायणमुखोद्गीतं नारदोऽश्रावयन्मुनीन् ।  
 ब्रह्मणस्सदने तात! यथादृष्टं यथाश्रुतम् ॥  
-एवमादिपुराणोक्तैः सहस्रैर्न्यायवृंहितैः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवमादिपुराणोक्तैः  
+सहस्रैर् न्याय-बृंहितैः ।  
+वासुदेव-प्रणीतत्वं  
+पञ्चरात्रस्य निर्व्यथम् ॥  
+किन्तु वेदस्य नित्यत्वे  
+**विवदन्ते** विपश्चितः ।  
+</details>
+
+<details><summary>English</summary>
+
+From these and thousands of other statements in the Puranas, which are supported by the rules of interpretation, the conclusion follows naturally that Pañcaratra was indeed composed by Vasudeva Himself. 
+
+On the other hand, some experts dispute that the Veda is eternal! ([[142]] [235]: The Naiyayikas.) [[91]]
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवमादिपुराणोक्तैः सहस्रैर्न्यायबृंहितैः ।  
 वासुदेवप्रणीतत्वं पञ्चरात्रस्य निर्व्यथम् ॥  
-किन्तु वेदस्य नित्यत्वे विवदन्दे विपश्चितः ।  
+किन्तु वेदस्य नित्यत्वे विवदन्ते विपश्चितः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेन निर्दोष-विज्ञान-  
+कारणत्वाद् द्वयोर् अपि ॥  
+निर्विशङ्कं प्रमाणत्वं  
+भगवच्छास्त्रवेदयोः ।  
+</details>
+
+<details><summary>English</summary>
+
+Therefore, the real ground for the thesis that the validity of the doctrine of the Bhagavan and that of the Veda is above question  
+is this that both are causes of defectless knowledge.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तेन निर्दोषविज्ञानकारणत्वाद् द्वयोरपि ॥  
 निर्विशङ्कं प्रमाणत्वं भगवच्छास्त्रवेदयोः ।  
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश्च तुल्यशिष्टत्वाद्  
+विकल्पेन प्रमाणता ॥  
+इति मत्वैतद् आचष्टे  
+सूत्रकारो महामनाः ।  
+विज्ञानादिभावे वा  
+तदप्रतिषेध इति ॥
+</details>
+
+<details><summary>English</summary>
+
+Consequently, because both are equally exemplary, they are optionally valid. It is with this view in mind that the wise Author of the Sūtras has explained: vijñanādibhave vaa tadapratiṣedhah.
+</details>
+
+<details><summary>मूलम्</summary>
+
 ततश्च तुल्यशिष्टत्वाद् विकल्पेन प्रमाणता ॥  
 इति मत्वैतदाचष्टे सूत्रकारो महामनाः ।  
 विज्ञानादिभावे वा तदप्रतिषेध इति ॥
+</details>
 
-ननु च भगवतस्सर्वज्ञत्वेनासंभाव्यमानायामपि भ्रान्तौ सर्वशक्तित्वेन विप्रलब्धमपि भवतीति किमिदमपि शास्त्रं व्यामोहयितुमभिहितम् उत वस्तुतोऽवहितबुद्ध्या निबद्धमित्यन्यतरपक्षावलम्बनविक्लबमनसां क इव निर्णयोपायः, प्रत्युत वेदविरोधादेव विप्लवनफलमित्यध्यवस्याम इति ।  
-तत्रोच्यते विप्रतिषेधात् इति, समस्तश्रुतीतिहासपुराणलोकविप्रतिषेधाद् यदि विना कारणेन भगवतः सर्वशक्तित्वमात्राद् विप्लावनशङ्का ।  
+## अमोहकता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च भगवतस् सर्व-ज्ञत्वेनासंभाव्यमानायाम् अपि भ्रान्तौ  
+सर्व-शक्तित्वेन विप्रलब्धमपि भवतीति  
+किम् इदम् अपि शास्त्रं व्यामोहयितुम् अभिहितम्?  
+उत वस्तुतोऽवहितबुद्ध्या निबद्धम् इति? 
+</details>
+
+<details><summary>English</summary>
+
+> 115\. OBJECTION. However, granted that error is made inconceivable by the Bhagavan's omniscience,  
+yet, since He is also omnipotent,  
+He can also have composed the Pancarātra in order to deceive.  
+Now, when people, considering this possibility, are confused in their minds as to  
+which view they should take,  
+that this Sastra has been promulgated to deceive them,  
+or that it has been stated according to the truth with complete attentiveness of mind, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ननु च भगवतस्सर्वज्ञत्वेनासंभाव्यमानायामपि भ्रान्तौ सर्वशक्तित्वेन विप्रलब्धमपि भवतीति  
+किमिदमपि शास्त्रं व्यामोहयितुमभिहितम् उत वस्तुतोऽवहितबुद्ध्या निबद्धम् इति? 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अन्यतर-पक्षावलम्बन-विक्लव-मनसां  
+क इव निर्णयोपायः?  
+प्रत्युत वेद-विरोधाद् एव विप्लवन-फलम् इत्य् अध्यवस्याम 
+
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+> what way is there to resolve their dilemma? We should prefer to decide that since it militates against Scripture it results in disaster.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यतरपक्षावलम्बनविक्लबमनसां क इव निर्णयोपायः, प्रत्युत वेदविरोधादेव विप्लवनफलमित्यध्यवस्याम इति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्रोच्यते "विप्रतिषेधात्" इति,  
+समस्त-श्रुतीतिहास-पुराण-लोक-विप्रतिषेधात्।
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION. To this objection the Author replies vipratisedhat, i.e., on account of the contradiction of all śruti, epic, purana and worldly experience. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्रोच्यते विप्रतिषेधात् इति, समस्तश्रुतीतिहासपुराणलोकविप्रतिषेधात्।
+</details>
+
+
+यदि विना कारणेन भगवतः सर्वशक्तित्वमात्राद् विप्लावनशङ्का ।  
 हन्तैवं सर्वशक्तित्वान्नरके धार्मिकानपि ।  
 पातयेन्नेति सन्देहान्निश्चेष्टं जगदापतेत् ॥
 
@@ -4915,7 +5230,6 @@ in our present case there is no such susceptibility either of Scripture or of Pa
 विरोधेऽपि विकल्पः स्याद् भगवच्छास्त्रवेदयोः ।  
 विरोध एव नास्तीति प्रागेव प्रत्यपादयम् ॥
 
-### वेद-विरोधि-वाक्यानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > नन्व् अत्र-भवतां +++(शाबर-)+++भाष्यकाराणां विरुद्धांशाप्रामाण्याभिधानं कथम् इव?  
@@ -5797,6 +6111,8 @@ then there can be certainty of their being genuine brahmins
 in all cases when no misapprehension occurs,  
 because otherwise doubt would conflict with Perception  
 and lead to infinite regress.
+
+
 
 </details>
 

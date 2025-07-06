@@ -141,11 +141,11 @@ title = "Notes"
 
 
 
-[233]: namely, because it requires another cognition in order to be denied.
 
-[234]: namely, in the example of the burning lamp: is it the same flame that burns at six o'clock and at seven o'clock? We don't see the flame change or be succeeded by another flame. Only inference shows that since there is a different amount of oil in the lamp at different times, it is different oil that is burning as a flame, so that the flame is really different. The sense perception is of the varying amounts of oil.
 
-142 [235]: The Naiyayikas.
+
+
+
 
 [236]: Since Brahma is the creator of the world, he can know whether there were Vedas or not before creation; by taking away Brahma's memory, God in His omnipotence could start the myth of the preterpersonal origin of the Veda..
 
