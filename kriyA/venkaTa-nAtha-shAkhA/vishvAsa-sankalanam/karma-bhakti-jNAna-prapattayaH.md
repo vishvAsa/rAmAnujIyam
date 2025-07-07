@@ -424,11 +424,14 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 
 सामूहिक-प्रपत्तिः कार्यते ऽहोबिलादि-मठेषु २०२५-परिसरे।  
 सङ्कल्पे हि व्यत्यासः।  
-यदि समूहे कश्चित् तज्ज्ञः, तर्हि सर्वेषाम् उक्ति-निष्ठा।  
+
+शरणागति-कारण-प्रार्थना-समये ऽधिकारि-विवेको भवति।  
+यदि समूहे कश्चित् तज्ज्ञः, तर्हि सर्वेषाम् उक्ति-निष्ठेति भात्य् अज्ञेभ्यः।  
+
+उक्तिनिष्ठायै १५ षष्टिक+++(=minutes)+++-कालापेक्षा।  
 तदा दीर्घतरं विवरणम्।  
-१५ षष्टिक+++(=minutes)+++-कालापेक्षा।  
-यदि समूहे कश्चिच् छूद्रः, तर्हि सर्वेषाम् आचार्यनिष्ठा।  
-२ षष्टिक-कालापेक्षा।  
+
+आचार्यनिष्ठायै २ षष्टिक-कालापेक्षा।  
 
 इदं श्रीवासेन सभ्रात्रा साक्षात्-कृतम्।  
 किन्तु नैवम् इति लक्ष्मीनरसिंहार्यः। 
@@ -543,7 +546,7 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 #### आराद् अङ्गम् / उपाङ्गम्
 - श्र्याः पुरुष-कार-प्रार्थनम्। 
 - आचार्य-ततेः स्मरणम्। 
-- स्वरूप-त्यागः, फल-त्यागः।
+- स्वरूप-त्यागः, फल-त्यागः। (साधारण-निवृत्ति-धर्माङ्गेषु विचारितौ।)
 
 ### साफल्यम्
 अविकला प्रपत्तिः सदा सफलम् भवतीति शास्त्रम्।  
@@ -602,7 +605,7 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 ### प्रक्रिया-भेदः
 अस्य विस्तारो [ऽत्र रहस्यत्रयसारे](/rAmAnujIyam/tattvam/venkaTanAthaH/rahasya-traya-sAraH/rAjagopAla-translation/1_arthAnushAsana-vibhAgaH/08_adhikArivibhAgAdhikAraH/)। 
 
-#### स्वनिष्ठा 
+#### स्व-निष्ठा 
 अत्राचार्यं विना स्वयं शरणं प्रपद्यते जनः।
 
 ##### प्रयोगे प्रमाणानि
@@ -627,6 +630,8 @@ karma, jnana and bhakti by themselves don't mean the respective yoga-s (which ar
 
 गजेन्द्र-द्रौपदी-त्रिजटा-विभीषणादिभिर् आत्म-निक्षेपः कृतो वाचा (यथा ऽस्माभिर् इतरैः) -  
 ततः जजाप, समभाषत, … इति क्रियापदानि वर्तन्ते, "शरणं गतः", "प्रपन्नः/ प्रपन्ना" इति शब्दाश् च।
+
+कोऴियाळ-रङ्ग-रामानुजः - Arta prapatti to thirumalai perumal coz his disciples doubted such a thing is there. he kept 7 days time. (Time it takes to go to his native). But they got stuck in middle due to rain or something, and he passed away on 7th day without getting to his town.
 
 २०१२ इति वर्षे पॆरुक्कारणै-चक्रवर्त्याचार्य इत्यनेनाप्य् एवं कृतम् महाविदुषा।
 

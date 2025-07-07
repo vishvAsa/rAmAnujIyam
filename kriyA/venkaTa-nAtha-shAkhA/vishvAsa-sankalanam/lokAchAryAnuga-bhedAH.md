@@ -5,7 +5,8 @@ title = "लोकाचार्यानुग-भेदाः"
 ## प्रपत्तिः
 विचारभेदो मतिविभ्रमाद्य् [ऽन्यत्र](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaH/lokAryAnugebhyo_bhedaH)। 
 
-### पञ्च-संस्कार-समये
+### अनुष्ठान-कालः
+#### पञ्च-संस्कार-समये
 रक्षामात्रार्था संक्षिप्ता प्रपत्तिर् इव काचिद् अनुष्ठीयते पञ्च-संस्कार-समये।  
 तत्र सामान्यतो ऽन्तिमे याग-संस्कारे ‌/ इज्या-संस्कारय् अन्तर्-भाव्यते । 
 
@@ -19,21 +20,7 @@ This was explanation given by 1 tk. He tells bhagavAn has natural krupa but acha
 Ramanuja acts like chief purushakara in prapatti( coz guruparampara is treated so).
 </details>
 
-
-#### रक्षा-मात्रार्था
-दॊड्डयाचार्यसम्प्रदाये प्रपत्तिनाम्ना पञ्चसंस्कारसमये भगवच्-चरणयोश् शिष्यो स्वसदृश-रक्ष्यत्वेन समर्प्यते - [TW](https://youtu.be/BUB929lXvWE?t=211) । ("Offering shishya like flower at feet of perumal")  
-gAdi-PBA-शिष्यः रङ्गनाथार्यः - [TW](https://www.youtube.com/watch?v=5loL0Sy18-Y&t=196s)।  
-विद्याभास्करः - शरणागति-गद्य-भाग-वचनेन सह पादेन शिरस्-स्पर्शः - [TW](https://www.youtube.com/watch?v=MRP0Wnq8whU&t=29s) ।  
-सिद्ध-दाताश्रमे [ऽत्र](/rAmAnujIyam/kriyA/lokAchArya-shAkhA/articles/siddha-dAtAshrama-pancha-saMskAraH)। 
-
-अनेनात्मापहार-पापं निर्वर्तते। इदं याग-शब्देनापि व्यवह्रियते ([TW](https://www.youtube.com/watch?t=1112&v=Pj4AJhK_2wA&feature=youtu.be))। 
-
-#### मोक्षार्था क्वचित्
-> DoDDayAchArya alias VAdUla SrInivAsAchArya alias MahAchArya, a great ThennAchArya of the 16th Century has supposed to have accepted Prapatti as NyAsa Vidya, with all the five angAs etc as explained by SwAmi DESikan. It is told that, during SamASrayanam, he would make the disciple recite NammAzhwAr's " akalakillEn ... " pAsuram in front of Divya Dampati after he recites it etc. This way, he used to perform " Ukti nishta " Prapatti it seems.... In the book " YatIndra Mata DIpikA " by SrInivAsAchArya, the ardent disciple of SrI DoDDayAchArya, the section on Prapatti lists the five angAs and eqautes it to a Brahma Vidya as a positive act  
-
-
-
-### पृथग्-अनुष्ठानम्
+#### पृथग्-अनुष्ठानम्
 क्वचित् पृथग् अप्य् अनुष्ठीयते। 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्) - प्रस्तावः</summary>
@@ -43,16 +30,43 @@ gAdi-PBA-शिष्यः रङ्गनाथार्यः - [TW](https://
 इति SV। 
 </details>
 
-### सौष्ठवम्
+### रक्षा-मात्रार्था
+#### लक्षणम्
+क्व लभ्यते प्रयोगः??
+
+शरणागतिगद्य-चूर्णीका उच्यन्ते। विशेषतः मनोवाक्कायैः इत्यारभ्य प्रार्थनाविशेषाणि कानिचन वाक्यानि ।
+
+"रामानुजीयोऽसि" इति हि आचार्याणां स्वीकारवचनम् - शरणागति-गद्य-पठनानन्तरम्। 
+
+#### लक्ष्यम्
+विद्याभास्करः - शरणागति-गद्य-भाग-वचनेन सह पादेन शिरस्-स्पर्शः - [TW](https://www.youtube.com/watch?v=MRP0Wnq8whU&t=29s) ।  
+
+#### विवरणम्
+दॊड्डयाचार्यसम्प्रदाये प्रपत्तिनाम्ना पञ्चसंस्कारसमये भगवच्-चरणयोश् शिष्यो स्वसदृश-रक्ष्यत्वेन समर्प्यते - [TW](https://youtu.be/BUB929lXvWE?t=211) । ("Offering shishya like flower at feet of perumal")  
+gAdi-PBA-शिष्यः रङ्गनाथार्यः - [TW](https://www.youtube.com/watch?v=5loL0Sy18-Y&t=196s)।  
+सिद्ध-दाताश्रमे [ऽत्र](/rAmAnujIyam/kriyA/lokAchArya-shAkhA/articles/siddha-dAtAshrama-pancha-saMskAraH)। 
+
+#### सौष्ठवम्
+तत्र स्वरूपसमर्पणम् भवति, न भरसमर्पणम् फलसमर्पणं वा। साधारण-रक्षकत्वमात्रं पूर्वम् एव सिद्धम्, अतो न किञ्चित् साध्यते - कैङ्कर्यम् अन्तरा।  
+अनेनात्मापहार-पापं निर्वर्तते। इदं याग-शब्देनापि व्यवह्रियते ([TW](https://www.youtube.com/watch?t=1112&v=Pj4AJhK_2wA&feature=youtu.be))। 
+
 अत्र कृतासु प्रपत्तिषु स्वाभिप्रायनिवेदनं नामाङ्गम् अस्पष्टम् भवति बहुदा।  
 ततो ऽपेक्षित-समये मोक्षार्थ-प्राप्तेर् दृष्ट्या प्रपत्तिर् विकला।  
 यत्र तु शरणागतिगद्य-चूर्णिकाः स्फुटं वादयन्ति, तत्रेदम् पूर्यतेतराम्, किन्तु कालावचनाद् वैकल्यम् अनुवर्तते।  
+कास् ताश् चूर्णिकाः??
 
 > शरीर-पात-समये तु  
 केवलं मदीयया +एव दयया ऽतिप्रबुद्धो  
 माम् एव +अवलोकयन्न्
 
 इति भगवत्-प्रतिवचनम् अपि वदन्ति चेत् तेन तद् अपि पूर्यते। 
+
+
+### मोक्षार्था क्वचित्
+> DoDDayAchArya alias VAdUla SrInivAsAchArya alias MahAchArya, a great ThennAchArya of the 16th Century has supposed to have accepted Prapatti as NyAsa Vidya, with all the five angAs etc as explained by SwAmi DESikan. It is told that, during SamASrayanam, he would make the disciple recite NammAzhwAr's " akalakillEn ... " pAsuram in front of Divya Dampati after he recites it etc. This way, he used to perform " Ukti nishta " Prapatti it seems.... In the book " YatIndra Mata DIpikA " by SrInivAsAchArya, the ardent disciple of SrI DoDDayAchArya, the section on Prapatti lists the five angAs and eqautes it to a Brahma Vidya as a positive act  
+
+
+
 
 ## सत्त्विक-त्यागः
 > > कैङ्कर्यम् अखिला वृत्तिर् 
