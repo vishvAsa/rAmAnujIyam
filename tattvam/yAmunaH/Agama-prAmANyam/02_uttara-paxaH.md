@@ -5676,8 +5676,8 @@ Sabarabhasya and KMS.
 
 <details><summary>English</summary>
 
-"If there be conflict, it is carefully eliminated."  
-REFUTATION. This statement means that those of frail minds,  
+REFUTATION. "If there be conflict, it is carefully eliminated."  
+This statement means that those of frail minds,  
 who are not strong enough to plunge into the deep ocean of rules of interpretation, 
 must not be [[97]] disrespectful to the Veda. 
 </details>
@@ -5688,10 +5688,16 @@ must not be [[97]] disrespectful to the Veda.
 यद्यपि विरोधः कृत्वा चिन्तया परिहृतस्तदपि गम्भीरन्यायसागरमवगाढुमपरिवृढानां कोमलमनसां वेदानादरो माभूदित्येवम्परम्, 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अत्रैव वेदस्य सुबोधतरत्वम् उक्तम्।  
+तच् च वेदाङ्गैस् तद्-उपबृंहणेन सिध्यतीति सुवचम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथैव हि भगवतो जैमिनेः "कर्म-फलोपन्यासः कर्म-श्रद्धा-संवर्द्धनाये"ति ।+++(5)+++
+यथैव हि भगवतो जैमिनेः "कर्म-फलोपन्यासः कर्म-श्रद्धा-संवर्धनाये"ति ।+++(5)+++
 </details>
 
 <details><summary>English</summary>
