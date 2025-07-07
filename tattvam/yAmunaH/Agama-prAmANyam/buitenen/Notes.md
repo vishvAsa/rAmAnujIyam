@@ -147,11 +147,11 @@ title = "Notes"
 
 
 
-[236]: Since Brahma is the creator of the world, he can know whether there were Vedas or not before creation; by taking away Brahma's memory, God in His omnipotence could start the myth of the preterpersonal origin of the Veda..
 
-[237]: not identified.
 
-[238]: not identified.
+
+
+
 
 [239]: 
 

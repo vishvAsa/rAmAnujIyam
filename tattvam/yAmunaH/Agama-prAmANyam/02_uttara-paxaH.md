@@ -5120,12 +5120,12 @@ is this that both are causes of defectless knowledge.
 ### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततश्च तुल्यशिष्टत्वाद्  
+ततश् च तुल्यशिष्टत्वाद्  
 विकल्पेन प्रमाणता ॥  
 इति मत्वैतद् आचष्टे  
 सूत्रकारो महामनाः ।  
 विज्ञानादिभावे वा  
-तदप्रतिषेध इति ॥
+तद्-अ-प्रतिषेध इति ॥
 </details>
 
 <details><summary>English</summary>
@@ -5257,6 +5257,13 @@ Besides, we could also raise the question whether He did not wish to deceive peo
 and from then onward set in motion the transmission of Vedic instruction until the present day:  
 how can we be sure about it? 
 </details>
+
+<details><summary>English - Note</summary>
+
+[236]: Since Brahma is the creator of the world, he can know whether there were Vedas or not before creation; by taking away Brahma's memory, God in His omnipotence could start the myth of the preterpersonal origin of the Veda..
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
@@ -5456,33 +5463,187 @@ For thus the saints declare in Vārāha Purana, the Ramayana and the Bharata etc
 and not in any other way, even in hundreds of lacs of years. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 > वेदेन पञ्चरात्रेण भक्त्या यज्ञेन च द्विज? ।  
 प्राप्योऽहं नान्यथा प्राप्यो वर्षलक्षशतैरपि ॥  
 </details>
 
-पञ्चरात्रं सहस्राणां यदि कश्चिद् ग्रहीष्यति ।  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पञ्चरात्रं सहस्राणां  
+यदि कश्चिद् ग्रहीष्यति ।  
+कर्म-क्षये च मद्-भक्तो  
+यदि कश्चिद् भविष्यति ॥  
+तस्य वेदाः पञ्चरात्रं नित्यं हृदि वसिष्यति +++(=वत्स्यति)+++ ।  
+</details>
+
+<details><summary>English</summary>
+
+> If one among thousands will grasp the Pancaratra and,  
+at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra will dwell in his heart forever.237
+
+[237]: not identified.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> पञ्चरात्रं सहस्राणां यदि कश्चिद् ग्रहीष्यति ।  
 कर्मक्षये च मद्भक्तो यदि कश्चिद् भविष्यति ॥  
 तस्य वेदाः पञ्चरात्रं नित्यं हृदि व(वत्स्य प्राप्ते वसिष्यतीत्यार्षम् ।)सिष्यति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यद् इदं पञ्च-रात्रम् मे  
+शास्त्रं परम-दुर्लभम् ॥  
+तद् भवान् वेत्स्यते सर्वं  
+मत्-प्रसादाद् अ-संशयम् ।  
+</details>
+
+<details><summary>English</summary>
+
+> This supreme Pañcarātra doctrine of mine, which is not difficult to grasp, that you shall reach to all the world by my grace, doubtless.25 
+
+[238]: not identified.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यदिदं पञ्चरात्रम्मे शास्त्रं परमदुर्लभम् ॥  
 तद् भवान् वेत्स्यते सर्वं मत्प्रसादादसंशयम् ।  
-पुराणैश्चैव वेदैश्च पञ्चरात्रस्तथैव च ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पुराणैश्चैव वेदैश्च  
+पञ्चरात्रैस् तथैव च ॥  
+**ध्यायन्ति** योगिनो नित्यं  
+क्रतुभिश् च **यजन्ति** तम् ।  
+</details>
+
+
+<details><summary>English</summary>
+
+> The Yogins mediate upon the Eternal One with Puranas, Vedas and Pañcaratras, and worship Him with the proper rites. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुराणैश्चैव वेदैश्च पञ्चरात्रैस्तथैव च ॥  
 ध्यायन्ति योगिनो नित्यं क्रतुभिश्च यजन्ति तम् ।  
-एवमेकं साङ्ख्ययोगं वेदारण्यकमेव च ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एवम् एकं साङ्ख्य-योगं  
+वेदारण्यकम् एव च ।  
+परस्-पराङ्गान्य् एतानि  
+पञ्च-रात्रञ् च सत्तम ॥  
+</details>
+
+<details><summary>English</summary>
+
+> Thus Samkhya and Yoga on the one hand, and Veda and Aranyaka on the other hand are one and the same; all together they are the members that constitute Pañcaratra
+</details>
+
+<details><summary>मूलम्</summary>
+
+> एवमेकं साङ्ख्ययोगं वेदारण्यकमेव च ।  
 परस्पराङ्गान्येतानि पञ्चरात्रञ्च सत्तम? ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वेदेन पञ्चरात्रेण  
+यः पश्यति स पश्यति ।  
+इदम् महोपनिषदं  
+चतुर्-वेद-समन्वितम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+> O excellent one! He who sees through Veda and Pañcaratra sees truly; this great Upanisada, consistent with the four Vedas...." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 वेदेन पञ्चरात्रेण यः पश्यति स पश्यति ।  
 इदम्महोपनिषदं चतुर्वेदसमन्वितम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वचसाम् एवम्-आदीनाम्  
+आनन्त्याद् उपरम्यते ।  
+इत्थं-भूतस्य तन्त्रस्य  
+विप्लवं यदि शङ्कसे ॥  
+सर्वत्र स्यादनाश्वास  
+इत्य् एतद् उपदिश्यते ।  
+</details>
+
+<details><summary>English</summary>
+
+Since the number of these and similar statements is infinite, we stop here. If you still raise the question if there cannot be ruin in such a Tantra,  
+then there can be no faith in anything. It is with this view in mind that the Author sets forth: 
+</details>
+
+<details><summary>मूलम्</summary>
+
 वचसामेवमादीनामानन्त्यादुपरम्यते ।  
 इत्थंभूतस्य तन्त्रस्य विप्लवं यदि शङ्कसे ॥  
 सर्वत्र स्यादनाश्वास इत्येतदुपदिश्यते ।  
-विप्रतिषेधात् ।  
-इति,
+</details>
 
-एवञ्च ।  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"विप्रतिषेधात्"   
+इति।
+</details>
+
+<details><summary>English</summary>
+
+vipratisedAt.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"विप्रतिषेधात्"   
+इति।
+</details>
+
+## विरोधाभासे तारतम्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवञ्च -  
+
+विरोधेऽपि विकल्पः स्याद्  
+भगवच्-छास्त्र-वेदयोः ।  
+विरोध एव नास्तीति  
+प्राग् एव प्रत्यपादयम् ॥
+</details>
+
+<details><summary>English</summary>
+
+Therefore, even if there were a conflict between the Bhagavan's doctrine and the Veda, there still would be option between them; but we have already expounded that there is no conflict between them at all.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवञ्च -  
+
 विरोधेऽपि विकल्पः स्याद् भगवच्छास्त्रवेदयोः ।  
 विरोध एव नास्तीति प्रागेव प्रत्यपादयम् ॥
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
