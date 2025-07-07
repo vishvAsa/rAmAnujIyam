@@ -11,7 +11,7 @@ title = "प्रमाणानि"
 (The purpose of the Brahmasutras is to establish the right interpretation of the Shruti; hence equal priority.)
 
 
-क्रमे साधारण-विचारो [ऽन्यत्र](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/speculation/internal-contradictions/authority-contests)। अत्र सम्प्रदाय-विशिष्टवचनादीन्य् उच्यन्ते। 
+क्रमे साधारण-विचारो [ऽन्यत्र](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/5_internal-contradictions/hierarchy)। अत्र सम्प्रदाय-विशिष्टवचनादीन्य् उच्यन्ते। 
 
 ### भगवद्-आज्ञा-ज्ञान-क्रमः
 बद्ध-दशायाम् भगवद्-आज्ञा-ज्ञान-क्रमः -
@@ -135,8 +135,7 @@ For S, BS does not resolve the upaniShadic contradictions (I heard that somewher
 भगवद्-अनुभवे कामं भागवतम् परमम् मन्यताम्।  
 
 
-## आगमः
-
+## आगमः पाञ्चरात्रः
 > प्रियाय मम विष्णोश्च  
 > देवदेवस्य शार्ङ्गिणः ।  
 > मनीषी वैदिकाचारं  
@@ -175,6 +174,9 @@ For S, BS does not resolve the upaniShadic contradictions (I heard that somewher
 यामुन-रामानुजादिभिस् तद्-वचनानि हृदि निधाय व्याख्या रचिताः।  
 किञ्च प्रमाणम् उभय-पक्षाङ्गीकृतं स्याद् इति  
 तानि वाक्यानि नोदाह्रियन्ते सदस्य-ग्रन्थेषु। 
+
+सम्प्रदाय-रहस्य-ग्रन्था अपि तद्-आशय-निश्चायकाः।  
+तैः श्रुतिस्मृत्य्-अनुरोधेन तत्रत्योक्तीनां ग्राह्यतोक्ता। 
 
 ### Limitations
 DP-s are not indispensable, there being lots of other pramANas including pAncharAtras.  
