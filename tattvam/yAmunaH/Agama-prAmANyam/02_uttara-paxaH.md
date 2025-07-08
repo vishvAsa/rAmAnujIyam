@@ -7268,7 +7268,7 @@ The difference between nacre and silver, which are similar in appearance and con
 प्रत्यक्षो न भवेदेवं विप्रक्षत्रविशां भिदा ।  
 </details>
 
-### सन्तति-कार्यम्
+### सन्तति-कार्यत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्वा संतति-विशेष-प्रभवत्वम् एव ब्राह्मण्यम्,  
@@ -7325,30 +7325,245 @@ e.g. "what are the specific characteristics to which the elders apply the term b
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **उक्तं** गोत्रार्षेयादि-  
-स्मृतिमत्स्वित्य् अनेकशः ।  
-आस्ताम् अप्रस्तुता चिन्ता  
+स्मृतिमत्स्व् इत्य् अनेकशः ।  
+आस्ताम् अ-प्रस्तुता चिन्ता  
 प्राची **प्रस्तूयते** कथा ॥  
+सिद्धं गोत्रादि-युक्तत्वाद्  
+विप्रा भागवता इति ।  
 </details>
 
+<details><summary>English</summary>
 
+[[106]]  
+It has been said often that it applies to those who possess recollection of gotra, Vedic ancestry etc.; let us not start discussing this question again, or we must repeat our old argument:  
+
+it is established that the Bhagavatas are brahmins, because they possess gotra etc.
+</details>
 
 <details><summary>मूलम्</summary>
 
 उक्तं गोत्रार्षेयादिस्मृतिमत्स्वित्यनेकशः ।  
 आस्तामप्रस्तुता चिन्ता प्राची प्रस्तूयते कथा ॥  
-
+सिद्धं गोत्रादियुक्तत्वाद् विप्रा भागवता इति ।  
 </details>
 
 
-सिद्धं गोत्रादियुक्तत्वाद् विप्रा भागवता इति ।  
+### वैश्व-व्रात्य-मूलं न
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वैश्यव्रात्यान्वये जन्म  
+यद् एषाम् उपवर्णितम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+126\. The objection that was made that the Bhāgavatas are born from a vaiśya vratya: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 वैश्यव्रात्यान्वये जन्म यदेषामुपवर्णितम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पञ्चमस् सात्त्वतो नाम  
+विष्णोर् आयतनानि सः ।  
+पूजयेद् आज्ञया राज्ञः  
+स तु भागवतः स्मृतः ॥  
+</details>
+
+<details><summary>English</summary>
+
+([253]: supra § 15. [[143]]  )
+
+> "The fifth one, the Sarvata, must worship the sanctuaries of Visnu by royal decree;" 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 पञ्चमस्सात्त्वतो नाम विष्णोरायतनानि सः ।  
 पूजयेदाज्ञया राज्ञः स तु भागवतः स्मृतः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वैश्यात् तु जायते व्रात्याद्  
+
+इति वाक्यद्वयेक्षणात् ।  
+</details>
+
+
+<details><summary>English</summary>
+
+and 
+
+> "he is also called a Bhagavata; he is born from a vaisya vratya." 
+
+\- On the authority of the two statements.
+</details>
+
+<details><summary>मूलम्</summary>
+
 वैश्यात्तु जायते व्रात्यादिति वाक्यद्वयेक्षणात् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र ब्रूमः किम् एताभ्यां  
+वचनाभ्यां प्रतीयते ॥  
+अभिधानान्वयो वा स्यान्  
+नियमो वाऽभिधीयताम् ।  
+</details>
+
+<details><summary>English</summary>
+
+To this we reply:  
+precisely what do we learn from these two statements?  
+Is there a simple connection of names,  
+or must an invariable rule be stated ?
+
+[254]: ie., is the same name used for several groups or only one? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अत्र ब्रूमः किमेताभ्यां वचनाभ्यां प्रतीयते ॥  
 अभिधानान्वयो वा स्यान्नियमो वाऽभिधीयताम् ।  
-न तावत् सात्त्वत् -भागवत -शब्दौ वैश्यव्रात्याभिधायकावेवेति नियन्तुं शक्यौ अप्रतीतेः, अतिप्रसङ्गाच्च, न हि पञ्चमः सात्त्वत इत्यत्र सात्त्वत -भागवत -शब्दयोरर्थान्तराभिधानप्रतिषेधः प्रतीयते श्रुतहान्यश्रुतकल्पनाप्रसङ्गात् इह हि व्रात्यवैश्यान्वयजन्मा यः पञ्चमः सात्त्वत इति तस्य सात्त्वतसंज्ञान्वयोऽवगम्यते पञ्चम शब्दस्य प्रथम निर्दिष्टत्वेनोद्देश (उद्देश्यसमर्थकृत्वादित्यर्थः)कत्वात् ।  
-न च पञ्चमस्य सात्त्वतत्वे सात्त्वतेनापि वैश्यव्रात्यपञ्चमेन भवितव्यम्,  न हि उद्दिश्यमानस्याग्निमत्त्वे उपादीयमानस्याग्ने धूमवत्त्वेन भवितव्यम् अतो नेदृशस्मृतिपर्यालोचनया सात्त्वत -भागवत -शाब्दितानां व्रात्यत्वनिश्चयः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तावत् 
+
+> "सात्त्वत-भागवत-शब्दौ वैश्य-व्रात्याभिधायकाव् एव"
+
+इति नियन्तुं शक्यौ - अप्रतीतेः, अतिप्रसङ्गाच्च, 
+</details>
+
+<details><summary>English</summary>
+
+In It is impossible to make it a rule that the words Bhagavata and Satvata denote a vaiśya vratya, for that is not known from the text, and it involves overextension. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न तावत् सात्त्वत-भागवत-शब्दौ वैश्यव्रात्याभिधायकावेवेति नियन्तुं शक्यौ अप्रतीतेः, अतिप्रसङ्गाच्च, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि "पञ्चमः सात्त्वत" इत्यत्र  
+सात्त्वत-भागवत-शब्दयोर् अर्थान्तराभिधान-प्रतिषेधः प्रतीयते -  
+श्रुत-हान्य्--अश्रुत-कल्पना-प्रसङ्गात्। 
+</details>
+
+<details><summary>English</summary>
+
+In the statement, "the fifth one, Satvata," we do not find a denial that the words Bhagavata and Satvata denote other meanings, for that would mean ignoring the explicit and inventing the unstated. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि "पञ्चमः सात्त्वत" इत्यत्र  
+सात्त्वतभागवतशब्दयोरर्थान्तराभिधानप्रतिषेधः प्रतीयते   
+श्रुतहान्यश्रुतकल्पनाप्रसङ्गात्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इह हि व्रात्य-वैश्यान्वय-जन्मा यः पञ्चमः  
+सात्त्वत इति तस्य सात्त्वत-संज्ञान्वयो ऽवगम्यते  
+पञ्चम-शब्दस्य प्रथम-निर्दिष्टत्वेनोद्देशकत्वात्।  
+</details>
+
+<details><summary>English</summary>
+
+In our statement the fifth one,  
+who is born from an vaisya vratya,  
+is understood to bear the name of Satvata:  
+"The fifth one, Sarvata...", since the word 'fifth' is the operative term as it is mentioned first. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इह हि व्रात्यवैश्यान्वयजन्मा यः पञ्चमः सात्त्वत इति तस्य सात्त्वतसंज्ञान्वयोऽवगम्यते पञ्चम शब्दस्य प्रथम निर्दिष्टत्वेनोद्देशकत्वात् (उद्देश्यसमर्थकृत्वादित्यर्थः)।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उद्देश्यसमर्थकृत्वादित्यर्थः
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च पञ्चमस्य सात्त्वतत्वे  
+सात्त्वतेनापि वैश्यव्रात्यपञ्चमेन भवितव्यम्,  
+</details>
+
+<details><summary>English</summary>
+
+And if the fifth is the Satvata,  
+the Satvata is not necessarily also be the fifth, namely the vaiśya vratya. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च पञ्चमस्य सात्त्वतत्वे सात्त्वतेनापि वैश्यव्रात्यपञ्चमेन भवितव्यम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि उद्दिश्यमानस्याग्निमत्त्वे  
+उपादीयमानस्याग्नेर् धूमवत्त्वेन भवितव्यम्  
++++(अयोगलोऽपि स्यात् तत्र)+++  
+</details>
+
+<details><summary>English</summary>
+
+For when the stated subject (e.g. a mountain) is possessed of fire,  
+the predicated fire does not necessarily possess smoke.255 
+
+255. The argument is: if S is P, then P is not therefore S.
+
+The example is 'parvato 'gnimin dhumavattvāt if we interchange S and P, we get parvato dhumavin agnimattvåt, but this is not true, for though there is no fireless smoke, there is smokeless fire. Similarly here: the fifth may be a sitvata or a vaidya vratya, but being the fifth does not make the sitvata a vaidya vratya, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि उद्दिश्यमानस्याग्निमत्त्वे उपादीयमानस्याग्नेर् धूमवत्त्वेन भवितव्यम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो नेदृश-स्मृति-पर्यालोचनया सात्त्वत-भागवत-शाब्दितानां व्रात्यत्व-निश्चयः ।  
+</details>
+
+<details><summary>English</summary>
+
+Consequently the consideration if a smrti statement of this kind cannot give certainty that the words Satvata, Bhagavata etc mean vratya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो नेदृश-स्मृति-पर्यालोचनया सात्त्वत-भागवत-शाब्दितानां व्रात्यत्व-निश्चयः ।  
+</details>
+
+
+
+
 यदि पुनरनयोर्जात्यन्तरेऽपि प्रयोगो दृष्ट इति एतावता तच्छब्दाभिधेयतया भगवच्छास्त्रानुगामिनामपि विप्राणां तज्जातीयत्वनिश्चयः, ततस्तत्रैव सहपठिताचार्यशब्दस्यापि निकृष्टव्रात्यापत्ये प्रयोगदर्शनात् साङ्गसरहस्यवेददातुर्द्विजपरस्यापि व्रात्यत्वं स्यात् ।  
 अथ तस्य व्रात्यवाचकाचार्य -शब्दाभिधेयत्वेऽपि प्रमाणान्तरेणाप्लुतब्राह्मण्यनिश्चयात् आचार्य -शब्दस्य आचिनोत्यस्य बुद्धिम् इत्यादिगुणयोगेनापि वृत्तिसंभवान्न व्रात्यत्वशङ्का तदत्रापि जात्यन्तरवाचकसात्त्वत -भागवत -शब्दाभिधेयत्वेऽपि भगवच्छास्त्रानुगामिनाममीषामतिस्पष्टविशिष्टगोत्रार्षेयादिस्मरणदृढावगतत्वाद् ब्राह्मण्यस्य सात्त्वत -भागवत -शब्दयोश्च सत्त्ववति भगवति भक्तियोगेनैव वृत्तिसम्भवान्न व्रात्यत्वशङ्कावतारः, एतदुक्तं भवति ।  
 न चैकशब्दावाच्यत्वादेकजातीयता भवेत् ।  

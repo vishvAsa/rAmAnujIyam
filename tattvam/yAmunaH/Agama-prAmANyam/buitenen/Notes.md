@@ -150,11 +150,11 @@ title = "Notes"
 
 [252]: not identified.
 
-[253]: supra § 15.
+ 
 
-143 [254]: ie., is the same name used for several groups or only one? 255. The argument is: if S is P, then P is not therefore S.
 
-The example is 'parvato 'gnimin dhumavattvāt if we interchange S and P, we get parvato dhumavin agnimattvåt, but this is not true, for though there is no fireless smoke, there is smokeless fire. Similarly here: the fifth may be a sitvata or a vaidya vratya, but being the fifth does not make the sitvata a vaidya vratya, [256]: In the Manu quotation supra § 15.
+
+[256]: In the Manu quotation supra § 15.
 
 257, explained below, § 130.
 
