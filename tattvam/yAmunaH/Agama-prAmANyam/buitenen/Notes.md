@@ -131,29 +131,6 @@ title = "Notes"
 [223]: Karmani Lyu! Papini.
 
 ## 
-[[141]] 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[239]: 
 
 [240]: supra § 17: vedabahyagrhitatrāt. I have rendered grhito by "accepted' to cover approximately the variety of meanings that Yamuna detects in the word.
 
