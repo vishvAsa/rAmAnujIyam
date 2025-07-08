@@ -7064,33 +7064,282 @@ It is the natural function of the sense-organ as such to relate itself to these 
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+यथा ऽऽह -  
 
-यथाह ।  
+> न हि तत् +++(ज्ञान-)+++कारणं लोके  
+वेदे वा किञ्चिद् ईदृशम् ।  
+इति-कर्तव्यता-साध्ये  
+यस्य नानुग्रहेऽर्थिता ॥ 
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+As the author says: 
+
+> "No organ of knowledge, whether in Veda or in ordinary process,  
+becomes efficacious in determining the object  
+that is to be realized through the accompanying circumstances  
+unless it is favoured by these circumstances.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+यथा ऽऽह -  
 न हि तत्कारणं लोके वेदे वा किञ्चिदीदृशम् ।  
-इति कर्तव्यतासाध्ये यस्य नानुग्रहेऽर्थिता ॥ इति, ततश्च सन्ततिस्मृत्यानुगृहीतेन चक्षुषा ।  
+इतिकर्तव्यतासाध्ये यस्य नानुग्रहेऽर्थिता ॥ इति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश् च सन्तति-स्मृत्या  
+**ऽनुगृहीतेन** चक्षुषा ।  
+**विज्ञायमानं** ब्राह्मण्यं  
+प्रत्यक्षत्वं **न मुञ्चति** ॥  
+</details>
+
+<details><summary>English</summary>
+
+[[105]]  
+Consequently the visual sense, when favoured by the recollection of genus,  
+gives knowledge of brahminhood  
+without the object giving up its perceptuality. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततश्च सन्ततिस्मृत्यानुगृहीतेन चक्षुषा ।  
 विज्ञायमानं ब्राह्मण्यं प्रत्यक्षत्वं न मुञ्चति ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च दृश्यते नाना  
+सहकारि-व्यपेक्षया ।  
+चक्षुषो जाति-विज्ञान-  
+करणत्वं यथोदितम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+So it is evident that the visual sense can be the instrument of knowledge of genus in dependence on a variety of accompanying factors. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तथा च दृश्यते नाना सहकारिव्यपेक्षया ।  
 चक्षुषोजातिविज्ञानकरणत्वं यथोदितम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुवर्णं व्यज्यते रूपात्  
+ताम्रत्वादेर् असंशयम् ।  
+तैलाद् घृतं विलीनञ् च  
+गन्धेन तु रसेन वा ॥  
+</details>
+
+<details><summary>English</summary>
+
+Gold becomes manifest through its colour fromcopper etc., gheeis differentiated from oil, through its smell and taste; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 सुवर्णं व्यज्यते रूपात् ताम्रत्वादेरसंशयम् ।  
 तैलाद् घृतं विलीनञ्च गन्धेन तु रसेन वा ॥  
-भस्मप्रच्छादितो वन्हिः स्पर्शनेनोपलभ्यते ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भस्म-प्रच्छादितो वह्निः  
+स्पर्शनेनोपलभ्यते ।  
+अश्वत्वादौ च दूरस्थे  
+निश्चयो जायते ध्वनेः ॥  
+</details>
+
+<details><summary>English</summary>
+
+fire, which is hidden by ashes, perceived through touching the ashes.
+
+Sound may provide us with proof that there is a horse in the distance; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भस्मप्रच्छादितो वह्निः स्पर्शनेनोपलभ्यते ।  
 अश्वत्वादौ च दूरस्थे निश्चयो जायते ध्वनेः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संस्थानेन घटत्वादि  
+ब्राह्मणत्वादि योनितः ।  
+क्वचिद् आचारतश् चापि  
+सम्यग् राज्यानुपालितात् ॥ +++(4)+++
+
+इति ॥
+</details>
+
+<details><summary>English</summary>
+
+a pitcher etc. are known through their configuration; brahminhood through descent, and also through conduct in certain particulars, which is completely protected by the king.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 संस्थानेन घटत्वादि ब्राह्मणत्वादियोनितः ।  
 क्वचिदाचारतश्चापि सम्यग्राज्यानुपालितात् ॥
 
 इति ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् समान-वयो-वेष-  
+पिण्ड-द्वय--**विलोकने** ।  
+तत्-क्षणाद् अक्षतो भेदो  
+**नावभातीति** भाषितम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+It has been contended that when we see two individuals of the same age and appearance, the difference between the two does not immediately appear to eye;  
+but the perceptuality of their differentness is not refuted by just this.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 यत्समानवयोवेषपिण्डद्वयविलोकने ।  
 तत्क्षणादक्षतो भेदो नावभातीति भाषितम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**नैतावता** विभागस्य  
+प्रत्यक्षत्वं **निवर्तते** ।  
+सादृश्य-दोषात् तत्र स्याद्  
+विभागस्यानवग्रहः ॥  
+</details>
+
+<details><summary>English</summary>
+
+In this case the non-perception of their differentness is caused by the defect of similarity. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 नैतावता विभागस्य प्रत्यक्षत्वं निवर्तते ।  
 सादृश्यदोषात्तत्र स्याद् विभागस्यानवग्रहः ॥  
-समानरूपसंस्थानशुक्तिका -कलधौतयोः ।  
-विवेकः सहसा नाभादिति कालान्तरेऽपि किम् ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+समान-रूप-संस्थान-  
+शुक्तिका--कल-धौतयोः ।  
+विवेकः सहसा नाभाद्  
+इति कालान्तरेऽपि किम् ॥  
+प्रत्यक्षो न भवेद् एवं  
+विप्र-क्षत्र-विशां भिदा ।  +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+The difference between nacre and silver, which are similar in appearance and configuration, may not be immediately visible, yet that does not mean that their difference is not visible at another time; and the same holds for the difference between brahmin, kṣatriya and vaisya. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+समानरूपसंस्थानशुक्तिका-कलधौतयोः ।  
+विवेकः सहसा नाभादिति कालान्तरेऽपि किम् ॥
 प्रत्यक्षो न भवेदेवं विप्रक्षत्रविशां भिदा ।  
-यद्वा संततिविशेषप्रभवत्वमेव ब्राह्मण्यम्,  तच्चान्वयव्यतिरेकाभ्यां यथालोकं कार्यान्तरवदवगन्तव्यमेव, के पुनः सन्ति विशेषा येषु ब्राह्मणशब्दं प्रयुञ्जते वृद्धाः केषु वा प्रयुञ्जते, ।  
+</details>
+
+### सन्तति-कार्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्वा संतति-विशेष-प्रभवत्वम् एव ब्राह्मण्यम्,  
+</details>
+
+<details><summary>English</summary>
+
+Or else, brahminhood is that which arises from the differentiae of genus, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद्वा संततिविशेषप्रभवत्वमेव ब्राह्मण्यम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तच् चान्वय-व्यतिरेकाभ्यां  
+यथाऽऽलोकं कार्यान्तरवद् अवगन्तव्यम् एव, 
+</details>
+
+
+<details><summary>English</summary>
+
+and such a product can empirically be known just like any other product  
+by a process of positive and negative consideration, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तच्चान्वयव्यतिरेकाभ्यां यथालोकं कार्यान्तरवदवगन्तव्यमेव, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(यथा)+++  
+
+> के पुनः सन्ति विशेषा,  
+येषु ब्राह्मण-शब्दं प्रयुञ्जते वृद्धाः?  
+केषु वा प्रयुञ्जते?  
+</details>
+
+<details><summary>English</summary>
+
+e.g. "what are the specific characteristics to which the elders apply the term brahminhood, or to which ~~characteristics~~ is the term applied?" 
+</details>
+
+<details><summary>मूलम्</summary>
+
+के पुनः सन्ति विशेषा येषु ब्राह्मणशब्दं प्रयुञ्जते वृद्धाः केषु वा प्रयुञ्जते, ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**उक्तं** गोत्रार्षेयादि-  
+स्मृतिमत्स्वित्य् अनेकशः ।  
+आस्ताम् अप्रस्तुता चिन्ता  
+प्राची **प्रस्तूयते** कथा ॥  
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
 उक्तं गोत्रार्षेयादिस्मृतिमत्स्वित्यनेकशः ।  
 आस्तामप्रस्तुता चिन्ता प्राची प्रस्तूयते कथा ॥  
+
+</details>
+
+
 सिद्धं गोत्रादियुक्तत्वाद् विप्रा भागवता इति ।  
 वैश्यव्रात्यान्वये जन्म यदेषामुपवर्णितम् ॥  
 पञ्चमस्सात्त्वतो नाम विष्णोरायतनानि सः ।  
