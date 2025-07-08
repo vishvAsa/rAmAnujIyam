@@ -1492,7 +1492,7 @@ Definite knowledge of the donation of words in a sentence is had through the wor
 
 योऽपि मन्यते लोके किर्याकार्ये व्युत्पन्नशब्दः फलपदसमभिव्याहारबलप्रतिलब्धतत्साधनभावभङ्गुरयाग् आदिधात्वर्थोत्तीर्णापूर्वकार्याभिधानशक्तिर्वेदे मोदते, लोके तु सं (सममुग्धेनेति पा. ।)मुग्धेनापि व्यवहारोपपत्तेर्न शब्दार्थतत्त्वावधारणमाद्रियते इति ।  
 तस्यापीदं मनोरथमात्रम्,  न हि क्रियाकार्ये व्युत्पन्नस्थायिकार्यं प्रतिपादयति अतिप्रसङ्गात् ।  
-यदि वृद्धव्यवहारे समधिगतपदसामर्थ्येऽनुरुध्यमानेऽन्वयावगतिर्नोपपद्यते, मोपपादि न न तु तदनुपप्रत्या कॢप्तशक्तिपरित्यागेन शब्दशक्त्यन्तरं भजते कामं लक्षणाऽश्रीयताम् ।  
+यदि वृद्धव्यवहारे समधिगतपदसामर्थ्येऽनुरुध्यमानेऽन्वयावगतिर्नोपपद्यते, मोपपादि न न तु तदनुपपत्त्या कॢप्तशक्तिपरित्यागेन शब्दशक्त्यन्तरं भजते कामं लक्षणाऽश्रीयताम् ।  
 न हि विरुद्धार्थपदसमभिव्याहारे पदानामभिधानमेवान्यथा नीयते, सर्वशब्दार्थेष्वनाश्वासप्रसङ्गात् ।  
 किञ्च मानान्तरापूर्वकार्यबोधनशक्तता ।  
 न कर्मफलसम्बन्धसिद्ध्यै तावदुपेयते ॥  
@@ -6766,7 +6766,7 @@ either Perception, or Inference, or Circumstantial-Implication.
 प्रत्यक्षं वाऽनुमानं वा यद्वाऽर्थापत्तिरेव वा ॥
 </details>
 
-#### प्रत्यक्षम्
+#### प्रत्यक्षे शङ्का
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु कथं प्रत्यक्षं ब्राह्मण्यमवगमयति,  
@@ -6803,12 +6803,269 @@ either Perception, or Inference, or Circumstantial-Implication.
 > न हि प्रथमाक्षसन्निपातसमनन्तरमदृष्टपूर्वविप्र -क्षत्रसमानवयोवेषपिण्डद्वयसन्निधावजगजमहिषादिविशेषवद् अयं ब्राह्मणः अयं क्षत्रिय इति विभागेन प्रतिपद्यामहे ।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च तत्पित्रादिब्राह्मण्यस्मरणसापेक्षमक्षमेव सन्निहितव्यक्तिवर्ति ब्राह्मण्यमवगमयतीति साम्प्रतम्,  तत्स्मरस्यैव पूर्वानुभवविरहेण बन्ध्यासुतस्मरणवदनुपपत्तेः ।  
+> न च  
+> 
+> > तत्-पित्रादि-ब्राह्मण्य-स्मरण-सापेक्षम् अक्षम् एव  
+सन्निहित-व्यक्ति-वर्ति ब्राह्मण्यम् अवगमयति
+> 
+> इति साम्प्रतम्,  
+तत्-स्मरणस्यैव  
++++(तत्-पितृ-)+++पूर्वानुभव-विरहेण वन्ध्या-सुत-स्मरणवद् अनुपपत्तेः ।  
++++(पूर्वानुभव-साहित्ये ऽप्य् अनवस्था-दोषेणानुपपत्तेः। )+++
+</details>
+
+<details><summary>English</summary>
+
+> Nor is it proper to maintain that  
+>
+> > the visual sense conveys the brahminhood of a nearby individual  
+in dependence on our recollection of his father's brahminhood etc.;  
+for that recollection itself is impossible without a previous immediate cognition,  
+just as the recollection of the son of a sterile mother is impossible. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च तत्पित्रादिब्राह्मण्यस्मरणसापेक्षमक्षमेव सन्निहितव्यक्तिवर्ति ब्राह्मण्यमवगमयतीति साम्प्रतम्,  तत्स्मरणस्यैव पूर्वानुभवविरहेण बन्ध्यासुतस्मरणवदनुपपत्तेः ।  
+</details>
+
+#### अनुमाने शङ्का
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न चानुमानात् -  
+तत्-प्रतिबद्ध-लिङ्गादर्शनात् ।  
+</details>
+
+<details><summary>English</summary>
+
+> Nor can we know from Inference that a man is a brahmin,  
+for we do not find a concomitant mark. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 न चानुमानात्तत्प्रतिबद्धलिङ्गादर्शनात् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न च शम-दम-तपश्-शौचादयो ब्राह्मण्ये लिङ्गम्,   
+तेषां ब्राह्मणेन सता संपाद्यत्वाद्, व्यभिचाराच् च ।  
+</details>
+
+<details><summary>English</summary>
+
+And such qualities as tranquillity, self-restraint, austerity, purity etc., cannot be taken as marks of brahminhood, because they are available only in the case of a good brahmin and because they are not exclusively confined to brahmins. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 न च शम दम तपश्शौचादयो ब्राह्मण्ये लिङ्गम्,  तेषां ब्राह्मणेन सता संपाद्यत्वाद् व्यभिचाराच्च ।  
-न चार्थाप्रत्या ब्राह्मण्यनिर्णयः, अनुपप्रत्यभावात्, न च वसन्ते ब्राह्मणोऽग्नीनादधीत इत्यादिवाक्यार्थानुपप्रत्या ब्राह्मण्यनिर्णयः, ब्राह्मण्यादिपदार्थावगमपूर्वकत्वात् तद्वाक्यार्थावगमस्य, नायं दोषः, न हि प्रथमाक्षसंप्रयोगसमय एव भासमानं प्रत्यक्षं नान्यदित्यस्ति नियमः, यदेवेन्द्रियव्यापारानुवृत्तौ सत्यामपरोक्षमवभासते तत्प्रत्यक्षं तथा च ब्राह्मण्यमिति तदपि प्रत्यक्षम्,  प्रतीमो हि वयमुन्मीलितलोचनाः तत्सन्ततिविशेषानुसंधानसमनन्तरं वसिष्ठ -काश्यपीय -शठमर्षणप्रभृतिविचित्रगोत्रकुलशालिषु समाचारशुचिषु विलसदुपवीतोत्तरीयशिखामौञ्जीबन्धेषु स्फुटतरसंदधद् ब्राह्मण्यम् ।  
-न चैतदलौकिकं यत्सन्ततिविशेषानुसंधानसापेक्षमक्षं ब्राह्मण्यं ग्राहयतीति, सर्वत्र देशकालसंस्थानादितिकर्त्तव्यतानुगृहीतमेन्द्रियं स्वगोचरपरिच्छेदोत्पादे कारणम्भवति करणमात्रस्यायं स्वभावो यदितिकर्त्तव्यतापेक्षणम् ।  
+</details>
+
+### अर्थापत्तौ शङ्का
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न चार्थाप्रत्या ब्राह्मण्य-निर्णयः, अनुपपत्त्य्-अभावात्, 
+</details>
+
+<details><summary>English</summary>
+
+> Nor can Circumstantial-Implication furnish proof of brahminhood,  
+because it is not lacking in reason 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चार्थाप्रत्या ब्राह्मण्यनिर्णयः, अनुपपत्त्यभावात्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > न च वसन्ते ब्राह्मणोऽग्नीन् आदधीत 
+>
+> इत्य्-आदि-वाक्यार्थानुपपत्त्या ब्राह्मण्यनिर्णयः, ब्राह्मण्यादिपदार्थावगमपूर्वकत्वात् तद्वाक्यार्थावगमस्य, 
+</details>
+
+<details><summary>English</summary>
+
+> [[104]]  
+and the fact that the sentence-meaning of the statement, 
+> 
+> > "In spring the brahmin must add fuel to the fire," 
+>
+> is otherwise unestablished  
+does not therefore by Circumstantial-Implication  
+furnish proof that a man is a brahmin;  
+for knowledge of that sentencemeaning presupposes knowledge of the word-meaning of brahminhood etc.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च वसन्ते ब्राह्मणोऽग्नीनादधीत इत्यादिवाक्यार्थानुपपत्त्या ब्राह्मण्यनिर्णयः, ब्राह्मण्यादिपदार्थावगमपूर्वकत्वात् तद्वाक्यार्थावगमस्य, 
+</details>
+
+#### प्रत्यक्षम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नायं दोषः, 
+</details>
+
+<details><summary>English</summary>
+
+125\. REFUTATION. All this does not make for a defect in my argument. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नायं दोषः, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि 
+
+> प्रथमाक्ष-संप्रयोगसमय एव भासमानं प्रत्यक्षं  
+नान्यद् 
+
+इत्य् अस्ति नियमः, 
+</details>
+
+<details><summary>English</summary>
+
+There is no invariable rule that  
+Perception becomes manifest only at the first contact between sense and object and not otherwise. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि प्रथमाक्षसंप्रयोगसमय एव भासमानं प्रत्यक्षं नान्यदित्यस्ति नियमः, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् एवेन्द्रिय-व्यापारानुवृत्तौ सत्याम्  
+अ-परोक्षम् अवभासते  
+तत् प्रत्यक्षं  
+</details>
+
+<details><summary>English</summary>
+
+Perception is that which illumines the unmanifest  
+while there is continuity of the operation of the senses.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदेवेन्द्रियव्यापारानुवृत्तौ सत्यामपरोक्षमवभासते तत्प्रत्यक्षं 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च ब्राह्मण्यम् इति - तद् अपि प्रत्यक्षम्,  +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Thus there can be Perception of brahminhood; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा च ब्राह्मण्यमिति तदपि प्रत्यक्षम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रतीमो हि वयम् उन्मीलित-लोचनाः  
+तत्-सन्तति-विशेषानुसंधान-समनन्तरं  
+वसिष्ठ-काश्यपीय--शठ-मर्षण--प्रभृति- विचित्र-गोत्र-कुल-शालिषु समाचार-शुचिषु  
+विलसद्-उपवीतोत्तरीय-शिखा-मौञ्जी-बन्धेषु  
+स्फुटतर-सन्दधद्-ब्राह्मण्यम् । +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+for when we keep our eyes open we note,  
+immediately upon observing the particular differentiae of the genus brahminhood,  
+that the brahminhood is quite clearly noticeable in those who belong to the families of the different gotras-Vasistha, Kasyapiya Sathamarṣaṇa etc.--,  
+who are pure in their conduct,  
+and who display the sacred thread, upper cloth, hairtuft and munja grass girdle. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रतीमो हि वयमुन्मीलितलोचनाः तत्सन्ततिविशेषानुसंधानसमनन्तरं वसिष्ठ-काश्यपीय -शठमर्षणप्रभृतिविचित्रगोत्रकुलशालिषु समाचारशुचिषु विलसदुपवीतोत्तरीयशिखामौञ्जीबन्धेषु स्फुटतरसंदधद् ब्राह्मण्यम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चैतद् अ-लौकिकं  
+यत् "सन्तति-विशेषानुसंधान-सापेक्षम् अक्षं  
+ब्राह्मण्यं ग्राहयती"ति, 
+</details>
+
+<details><summary>English</summary>
+
+Nor does it run counter to ordinary experience that the eyes can convey brahminhood in dependence on the observation of the peculiarities of genus. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चैतदलौकिकं यत्सन्ततिविशेषानुसंधानसापेक्षमक्षं ब्राह्मण्यं ग्राहयतीति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वत्र देश-काल-संस्थानादीतिकर्तव्यताऽनुगृहीतम् एवेन्द्रियं  
+स्व-गोचर-परिच्छेदोत्पादे कारणम् भवति। +++(5)+++ 
+</details>
+
+<details><summary>English</summary>
+
+every case the sense becomes the cause of the rise of determination of sense-object when favoured by the accompanying circumstances of place, time, configuration etc. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वत्र देशकालसंस्थानादीतिकर्त्तव्यतानुगृहीतमेवेन्द्रियं स्वगोचरपरिच्छेदोत्पादे कारणम्भवति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+करण-मात्रस्यायं स्वभावो यद् इतिकर्त्तव्यतापेक्षणम् ।  
+</details>
+
+<details><summary>English</summary>
+
+It is the natural function of the sense-organ as such to relate itself to these accompanying circumstances. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+करणमात्रस्यायं स्वभावो यदितिकर्त्तव्यतापेक्षणम् ।  
+</details>
+
+
+
+
 यथाह ।  
 न हि तत्कारणं लोके वेदे वा किञ्चिदीदृशम् ।  
 इति कर्तव्यतासाध्ये यस्य नानुग्रहेऽर्थिता ॥ इति, ततश्च सन्ततिस्मृत्यानुगृहीतेन चक्षुषा ।  
