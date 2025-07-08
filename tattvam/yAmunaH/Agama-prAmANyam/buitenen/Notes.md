@@ -134,8 +134,6 @@ title = "Notes"
 
 [240]: supra § 17: vedabahyagrhitatrāt. I have rendered grhito by "accepted' to cover approximately the variety of meanings that Yamuna detects in the word.
 
-[241]: Manusmrti, 8.107.
-
 ## 
 
 [246]: supra §14.
@@ -160,11 +158,13 @@ The example is 'parvato 'gnimin dhumavattvāt if we interchange S and P, we get 
 
 257, explained below, § 130.
 
-[258]: Hari has apparently a meaning 'lion. Or did Yamuna think of Nrsimha ? [259]: gauḥ can mean 'cow' and 'word." [260]: supra §15.
+[258]: Hari has apparently a meaning 'lion. Or did Yamuna think of Nrsimha ? [259]: gauḥ can mean 'cow' and 'word." 
+
+[260]: supra §15.
 
 [261]: taddhita suffix, cf. Panini.
 
-[262]: "conventionally the two words are synonymous, 'etymo logically' they have difl'erent meanings.
+[262]: "conventionally the two words are synonymous, 'etymologically' they have difl'erent meanings.
 
 263, Pipini.
 

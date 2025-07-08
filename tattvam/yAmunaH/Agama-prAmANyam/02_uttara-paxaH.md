@@ -5710,8 +5710,7 @@ that the fruits of acts serve to increase people's faith in the acts.
 </details>
   
 
-## शिष्ट-ग्राह्यतादि
-### बाह्य-ग्रहणम्
+## बाह्य-ग्रहणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेद-बाह्य-गृहीतत्वाद्  
@@ -5734,17 +5733,17 @@ because they are accepted by those who are outside Pancarātra?
 एतद्बाह्यगृहीतत्वाद् वेदानां वा कुतो न तत् ॥
 </details>
 
-
+### बाह्यत्वे गृहीतत्वे च विकल्पाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च ।  
 
-किं चेदं वेदबाह्यत्वं  
+किं चेदं वेद-**बाह्यत्वं**,  
 का वा स्यात् तद्-गृहीतता ।  
-किम् अङ्ग वेदाद् अन्यत्वं  
+किम् अङ्ग वेदाद् अन्यत्वं,  
 वेद-बाह्यत्वम् उच्यते ॥  
-तन्-निषिद्धार्थ-कारित्वम्  
-आहो तद्-द्वेष-शीलता । 
++++(उत)+++ तन्-निषिद्धार्थ-कारित्वम्,  
+आहो+++(स्वित्)+++ तद्-द्वेष-शीलता । 
 </details>
 
 <details><summary>English</summary>
@@ -5772,7 +5771,7 @@ or "being hostile to the Vedas?"
 
 तथा -  
 
-गृहीतत्वम् +++(नाम)+++ अधीतत्वं  
+**गृहीतत्वम्** +++(नाम)+++ अधीतत्वं  
 ज्ञातत्वं वा विचार्यताम् ।  
 क्रियमाणार्थता वा स्याद्  
 +धेतुः सर्वत्र **दुष्यति** ॥
@@ -5782,7 +5781,6 @@ or "being hostile to the Vedas?"
 
 Likewise we must inquire whether "accepted" means learnt" or "known" or "observed."  
 In all  cases the ground proves to be defective, 35 
-
 </details>
 
 
@@ -5793,18 +5791,17 @@ In all  cases the ground proves to be defective, 35
 क्रियमाणार्थता वा स्याद्धेतुः सर्वत्र दुष्यति ॥
 </details>
  
+### वेद-भिन्नैर् अधीतता ज्ञातता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र तावद् -  
 
-यदि वेदाद् विभिन्नत्वं  
-बाह्यत्वं, साऽप्य् अधीतता ।  
-वेदाद् अन्यैस् त्रिभिर् वर्णैर्  
-अधीतं वैदिकं वचः ।  
-प्रमाणम् इत्य् अनैकान्त्यं  
-हेतोस् तत्र प्रसज्यते ॥  
-ज्ञातत्वेऽपि गृहीतत्वे  
-दोषाद् अस्मान् न मुच्यसे ।
+यदि वेदाद् **विभिन्नत्वं**  
+बाह्यत्वं, साऽप्य् **अधीतता** ।  
+"वेदाद् अन्यैस् त्रिभिर् वर्णैर्  
+**अधीतं** वैदिकं वचः ।  
+प्रमाणम् +++(पाञ्चरात्रं त्व् अप्रमाणम् उक्तम्)+++" इत्य् अनैकान्त्यं  
+हेतोस् तत्र **प्रसज्यते** ॥  
 </details>
 
 <details><summary>English</summary>
@@ -5816,8 +5813,6 @@ since it equally applies to the Vedas themselves :
 the Vedic statements, which are valid,  
 are "learnt" by members of the three estates,  
 which themselves are "different from the Veda." 
-
-If you take "accepted" to mean "known," you do not get rid of the same defect. 
 </details>
 
 
@@ -5827,16 +5822,32 @@ If you take "accepted" to mean "known," you do not get rid of the same defect.
 यदि वेदाद्विभिन्नत्वं बाह्यत्वं साऽप्यधीतता ।  
 वेदादन्यैस्त्रिभिर्वर्णैरधीतं वैदिकं वचः ।  
 प्रमाणमित्यनैकान्त्यं हेतोस्तत्र प्रसज्यते ॥  
-ज्ञातत्वेऽपि गृहीतत्वे दोषादस्मान्न मुच्यसे ।
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पूर्वोक्तं वेद-बाह्यत्वं  
+ज्ञातत्वे ऽपि गृहीतत्वे  
+दोषाद् अस्मान् न मुच्यसे ।
+</details>
+
+<details><summary>English</summary>
+
+If you take "accepted" to mean "known," you do not get rid of the same defect. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञातत्वेऽपि गृहीतत्वे दोषादस्मान्न मुच्यसे ।
+</details>
+
+### वेद-भिन्नैः क्रियमाणार्थता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्वोक्तं वेद-बाह्यत्वं,  
 क्रियमाणार्थता यदि ॥  
-गृहीतताऽपि वेदैः स्यात्  
-तथैव व्यभिचारिता ।
+गृहीतताऽपि, वेदैः +++(तद्-गृहीतैः)+++ स्यात्  
+तथैव व्यभिचारिता ।  
 </details>
 
 <details><summary>English</summary>
@@ -5853,20 +5864,20 @@ then there would likewise be an occasional application of the ground to the Veda
 गृहीतताऽपि वेदैः स्यात्तथैव व्यभिचारिता ।
 </details>
 
-
+### प्रतिषिद्धार्थ-कर्तृत्वे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रतिषिद्धार्थकर्तृत्वे  
-वेदबाह्यत्वलक्षणे ॥  
-व्यभिचारस् त्रयीवाक्यैः  
-प्रायश्चित्त-विधायकैः ।  
+प्रतिषिद्धार्थ-कर्तृत्वे  
+वेद-बाह्यत्व-लक्षणे ॥  
+व्यभिचारस् त्रयी-वाक्यैः  
+प्रायश्चित्त-विधायकैः । +++(4)+++ 
 </details>
 
 <details><summary>English</summary>
 
 If outside the Veda" is taken to mean "performing forbidden acts," 
 the ground has an occasional application to those statements of the Veda  
-which enjoin expiatory 241 ceremonies. 
+which enjoin expiatory ceremonies. ([241]: Manusmrti, 8.107.)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5877,7 +5888,8 @@ which enjoin expiatory 241 ceremonies.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रायश्चित्त-विधायकानि वाक्यानि "कूष्माण्डैर् जुहुयात्" इत्यादीनि  
+प्रायश्चित्त-विधायकानि वाक्यानि  
+"कूष्माण्डैर् जुहुयात्" इत्यादीनि  
 प्रतिषिद्ध-कारिभिर् अधीत-गृहीतानुष्ठीयमानार्थान्य् एव प्रमाणानीति  
 तादृश-वेद-बाह्य-गृहीतत्वम् अनैकान्तिकम् ।  
 </details>
@@ -5921,7 +5933,7 @@ for the ground is unproved.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च न वेदद्वेषिजनपरिग्रहः प्रामाण्यं प्रतिहन्ति, 
+अपि च न वेद-द्वेषि-जन-परिग्रहः प्रामाण्यं प्रतिहन्ति, 
 </details>
 
 <details><summary>English</summary>
@@ -5939,7 +5951,7 @@ Besides, acceptance by people hostile to the Veda does not by itself refute the 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि हि प्रतिहन्यात् - 
-निरर्गलस् तर्हि नास्तिकानां पन्थाः,  
+निरर्गलस् तर्हि नास्तिकानां पन्थाः +++(तत्-परिग्रहेण)+++,  
 ते हि वेद-प्रामाण्य-प्रोत्सादनाय प्रयस्यन्तः+++(←यस्)+++ ।  
 </details>
 
@@ -5948,7 +5960,6 @@ Besides, acceptance by people hostile to the Veda does not by itself refute the 
 If it did, the Path of the Heretics would be unbarred;  
 for they endeavour to uproot the validity of the Veda. 
 </details>
-
 
 
 <details><summary>मूलम्</summary>
@@ -6056,6 +6067,7 @@ supra § 17: this Buddhist injunction is outside the Veda
 अथ मतं वेदबाह्यत्वं नाम वैदिककर्मानधिकारित्वं तदनधिकारिभिर्वेदबाह्यैर्गृहीतत्वात् चैत्यवन्दनवाक्यवत् अप्रमाणमिति 
 </details>
 
+#### अनधिकारः क्व?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रापि किम् अखिल-वैदिक-कर्मानधिकारि-जन-परिगृहीतत्वं हेतुः,  
@@ -6077,6 +6089,7 @@ This point should be clarified.
 तत्रापि किमखिलवैदिककर्मानधिकारिजनपरिगृहीतत्वं हेतुः, उत कतिपयवैदिककर्मानधिकारिगृहीतत्वमिति विविच्य व्याचष्टाम् ।
 </details>
 
+#### अनधिकारो ऽखिले
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** तावद् अग्रिमः कल्पः  
@@ -6084,7 +6097,7 @@ This point should be clarified.
 **न** हि सो **ऽस्ति** मनुष्येषु  
 **यः** श्रौते क्वापि कर्मणि ॥  
 **नाधिकुर्याद्** अहिंसादौ  
-नृमात्रस्याधिकारः ।
+नृमात्रस्याधिकारः । +++(5)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6163,6 +6176,7 @@ For the observance of a prohibition is as much a ritual action as the observance
 अतः सर्वेषामीदृशवैदिककर्मणि अधिकारो विद्यत एवेत्यसिद्धो हेतुः, साधनविकलश्च दृष्टान्तः ।  
 </details>
 
+#### अनधिकार एकदेशे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि कतिपय-वैदिक-कर्मानधिकारिभिर् गृहीतत्वाद् अ-प्रामाण्यं समस्त-वेद-वाक्यानाम् अप्रामाण्य-प्रसङ्गात्, 
@@ -6223,7 +6237,7 @@ and is therefore inconclusive.
 अतो व्यवस्थितवर्णाधिकारिगृहीतवेदवचनैरनैकान्तिकोहेतुः, अप्रयोजकश्च ।
 </details>
 
-
+#### कारणदोषः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चैत्यवन्दनतः स्वर्गो  
@@ -6268,7 +6282,7 @@ but by the deficiency of its cause, [[100]]
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्यत्वेऽपि हि पञ्च-रात्र-तन्त्र-विहित-मार्गेण  
-प्रासाद-करण--प्रतिमा-प्रतिष्ठापन--प्रणाम-प्रदक्षिणोत्सवादीनि प्रत्यक्ष-श्रुति-विहिताग्निहोत्रादिवत् श्रेयस्-करतर-बुद्ध्या ऽनुतिष्ठतः शिष्टान् पश्यामः, 
+प्रासाद-करण--प्रतिमा-प्रतिष्ठापन--प्रणाम-प्रदक्षिणोत्सवादीनि प्रत्यक्ष-श्रुति-विहिताग्निहोत्रादिवत् श्रेयस्-करतर-बुद्ध्या ऽनुतिष्ठतः शिष्टान् पश्यामः। 
 </details>
 
 <details><summary>English</summary>
@@ -6285,6 +6299,7 @@ just as they perform the agnihotra and other rituals enjoined directly by Script
 अद्यत्वेऽपि हि पञ्चरात्रतन्त्रविहितमार्गेण प्रासादकरण -प्रतिमाप्रतिष्ठापन -प्रणाम -प्रदक्षिणोत्सवादीनि प्रत्यक्षश्रुतिविहिताग्निहोत्रादिवत् श्रेयस्करतरबुद्ध्याऽनुतिष्ठतः शिष्टान् पश्यामः, 
 </details>
 
+#### श्रेयस्-साधनता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चैतदाचरणं निर्मूलम् इति युक्तं  
@@ -6306,7 +6321,8 @@ for that would entail that such smārta rites as crepuscular worship, astaka etc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उक्तं च शिष्टाचारस्य प्रामाण्यम् - अपि वा कारणाग्रहणे -  
+उक्तं च शिष्टाचारस्य प्रामाण्यम् -  
+अपि वा कारणाग्रहणे -  
 प्रयुक्तानि प्रतीयेरन्न् इति ।
 </details>
 
@@ -6375,6 +6391,7 @@ Why is Pancaratra rendered invalid by their acceptance?
 किमिति वा तत्परिग्रहादप्रामाण्यम्? 
 </details>
 
+#### नात्रैवर्णिकत्वात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अत्रैवर्णिकत्वाद्" इति चेत्  
@@ -6393,8 +6410,6 @@ would also be invalid.
 
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 अत्रैवर्णिकत्वादिति चेत् किं भोः त्रैवर्णिकेतरसवर्णरथकारनिषादादिपरिगृहीतानुष्ठीयमानार्थानामाथर्वणवचसां रथकार आदधीत एतया निषादस्थपतिं याजयेत् इत्यादिवचसां प्रामाण्यं नास्ति ।  
@@ -6402,7 +6417,7 @@ would also be invalid.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्तुवाऽत्रवर्णिक-परिग्रहो ऽप्रामाण्य-हेतुः,  
+अस्तुवाऽत्रैवर्णिक-परिग्रहो ऽप्रामाण्य-हेतुः,  
 एतेषां तु भगवच्-छास्त्रानुगामिनां भागवतानाम्  
 उत्कृष्ट-ब्राह्मण्यं सर्व-प्रमाण-समवगतम् इति  
 तत्-परिग्रहः प्रामाण्यम् एव द्रढयति ।  
@@ -6420,10 +6435,10 @@ their acceptance of Pañcaratra rather confirms its validity.
 
 <details><summary>मूलम्</summary>
 
-अस्तुवाऽत्रवर्णिकपरिग्रहोऽप्रामाण्यहेतुः, एतेषां तु भगवच्छास्त्रानुगामिनां भागवतानामुत्कृष्टब्राह्मण्यं सर्वप्रमाणसमवगतमिति तत्परिग्रहः प्रामाण्यमेव द्रढयति ।  
+अस्तुवाऽत्रैवर्णिकपरिग्रहोऽप्रामाण्यहेतुः, एतेषां तु भगवच्छास्त्रानुगामिनां भागवतानामुत्कृष्टब्राह्मण्यं सर्वप्रमाणसमवगतमिति तत्परिग्रहः प्रामाण्यमेव द्रढयति ।  
 </details>
 
-### ब्राह्मण्य-प्रमाणम्
+## भागवत-ब्राह्मण्य-प्रमाणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आह केन पुनः प्रमाणेनैषां ब्राह्मण्यमवगतम्,  केन वाऽन्येषाम् ।  
@@ -6442,6 +6457,7 @@ the brahminhood of another set of people is evident.
 आह केन पुनः प्रमाणेनैषां ब्राह्मण्यमवगतम्,  केन वाऽन्येषाम् ।  
 </details>
 
+### शिखादिभिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु चक्षुर्-विस्फारण-समनन्तरं शिखा-यज्ञोपवीत--पालाश-दण्ड--मौञ्जी-युजो द्विज-कुमारकान् **पश्यन्तो**  
@@ -6475,9 +6491,10 @@ REFUTATION. And in our case, when one sees learned people who day after day stud
 
 <details><summary>मूलम्</summary>
 
-इह वा किमहरहरधीयमानवाजसनेयकैकायनशाखान् विलसदुपवीतोत्तरीयशिखाशालिनोऽध्यापयतो याजयत प्रतिगृह्णतो विदुषः ****पश्यन्तो**** ब्राह्मणा इति नावयन्ति ।
+इह वा किमहरहरधीयमानवाजसनेयकैकायनशाखान् विलसदुपवीतोत्तरीयशिखाशालिनोऽध्यापयतो याजयत प्रतिगृह्णतो विदुषः पश्यन्तो ब्राह्मणा इति नावयन्ति ।
 </details>
 
+### यजनादिभिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ 
@@ -6500,14 +6517,18 @@ If it be held that outcastes, low-caste people etc., may also illegitimately sac
 अथ याजन -प्रवचन -पालाशदण्डादीनां दुष्टशूद्रादिषु व्यभिचारसंभवाद् ब्राह्मण्यसिद्धवत्कारेण प्रवृत्तेश्च न तेभ्यो ब्राह्मण्य निर्णयः, तद्भागवतेतरविप्राणमपि समानम् ।  
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ सत्यपि तेषां क्वचिद् व्यभिचारे,  
-तत्-सामान्याद् अन्यत्र व्यभिचार-शङ्कायां  
+अथ सत्य् अपि तेषां क्वचिद् व्यभिचारे,  
+तत्-सामान्याद् अन्यत्र +++(सद्-भागवतेषु)+++ व्यभिचार-शङ्कायां  
+
 शुक्तौ रजत-धियो व्यभिचारात्,  
-रजते रजत-धियां व्यभिचार-शङ्कावत् प्रत्यक्ष-विरोधात् अनवस्थानाच् च  
+रजते रजत-धियां व्यभिचार-शङ्कावत् 
+प्रत्यक्ष-विरोधात्, अनवस्थानाच् च  
 अनुपलभ्यमान-व्यभिचारोदाहरणेषु तथात्व-निश्चयस्,  
-तद्-अन्यत्रापि समानम् ।+++(5)+++  
+
+तद्+++(←रजत)+++-अन्यत्रापि समानम् ।+++(5)+++  
 </details>
 
 <details><summary>English</summary>
@@ -6519,9 +6540,6 @@ then there can be certainty of their being genuine brahmins
 in all cases when no misapprehension occurs,  
 because otherwise doubt would conflict with Perception  
 and lead to infinite regress.
-
-
-
 </details>
 
 
@@ -6531,10 +6549,15 @@ and lead to infinite regress.
 तत्सामान्यादन्यत्र व्यभिचारशङ्कायां शुक्तौ रजतधियो व्यभिचारात् रजते रजतधियां व्यभिचारशङ्कावत् प्रत्यक्षविरोधात् अनवस्थानाच्च अनुपलभ्यमानव्यभिचारोदाहरणेषु तथात्वनिश्चयस्तदन्यत्रापि समानम् ।  
 </details>
 
+### गोत्रतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ मतम् अन्येषां ब्राह्मण्यं तद्-असाधारण-गोत्र-स्मरणाद् इति,  
-तद् भागवतानामपि समानम्,   
+अथ मतम् 
+
+> अन्येषां ब्राह्मण्यं तद्-असाधारण-गोत्र-स्मरणाद् 
+
+इति,  
+तद् भागवतानाम् अपि समानम्,   
 </details>
 
 <details><summary>English</summary>
@@ -6568,7 +6591,7 @@ for the Bhagavatas have the tradition: "We are descendants of Bharadvaja, of Kas
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चेदं गोत्रस्मरणं निर्मूलं सामयिकं (आधुनिकम्) वा  
-सर्वगोत्रस्मरणानां तथाभावप्रसङ्गात् ।  
+सर्वगोत्रस्मरणानां तथाभावप्रसङ्गात् । +++(4)+++ 
 </details>
 
 <details><summary>English</summary>
@@ -6587,7 +6610,7 @@ Nor is this recollection or tradition of gotras unfounded or merely contemporary
 संभाव्यमान-दोषत्वाद्  
 वंशानां यदि संशयः ।  
 तद्-ब्राह्मण्ये ततो लोकं  
-सर्वं **व्याकुलयेद्** अयम् ॥
+सर्वं **व्याकुलयेद्** अयम् ॥ +++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -6610,7 +6633,7 @@ this would confuse the whole world about the authenticity of their brahminhood.
 जननी-जार-सन्देह-  
 **जातश्** चण्डाल-संशयः ।  
 **निर्विशङ्कः** कथं वेदम्  
-**अधीषे** साधु सत्तम +++(प्रतिवादिन्)+++? ॥
+**अधीषे** साधु सत्तम +++(प्रतिवादिन्)+++? ॥+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -6650,17 +6673,24 @@ between the brahminhood of Bhagavatas and of others.
 तेन भागवतानामविच्छिन्नपरम्पराप्राप्तविचित्रगोत्रस्मरणपर्यवस्थापितं ब्राह्मण्यमनपोदितमास्ते इति न भागवतानामन्येषाञ्च ब्राह्मण्ये कश्चिद्विशेषः ।  
 </details>
 
-
+### देवता-विवेकतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि परं ते परम-पुरुषम् एवाश्रिता एकान्तिनः,  
-अन्ये क्षुद्र-दैवतिकास् साधारणा इति,  
-किं पुनर् एतेषां ब्राह्मण्ये प्रमाणम् अभिहितं यद् एवान्येषाम्?
+यदि परं 
+
+> ते परम-पुरुषम् एवाश्रिता एकान्तिनः,  
+अन्ये क्षुद्र-दैवतिकास् साधारणा 
+
+इति,  
+
+किं पुनर् एतेषां ब्राह्मण्ये प्रमाणम् अभिहितं  
+यद् एवान्येषाम्?
 </details>
 
 <details><summary>English</summary>
 
 123\. Further, if some who believe in the Supreme Person are monotheists and others who believe in [[103]] petty godlings are polytheists,  
+
 is then the same authority stated for the brahminhood of the ones as well as of the others,
 </details>
 
@@ -6709,7 +6739,7 @@ if not by that same authority?
 तस्य निरूपणीयत्वेन समत्वाद् इति भावः ।
 </details>
 
-
+### निर्णय-प्रकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि च कौतूहलम् -  
@@ -6736,9 +6766,44 @@ either Perception, or Inference, or Circumstantial-Implication.
 प्रत्यक्षं वाऽनुमानं वा यद्वाऽर्थापत्तिरेव वा ॥
 </details>
 
+#### प्रत्यक्षम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु कथं प्रत्यक्षं ब्राह्मण्यमवगमयति,  
-न हि प्रथमाक्षसन्निपातसमनन्तरमदृष्टपूर्वविप्र -क्षत्रसमानवयोवेषपिण्डद्वयसन्निधावजगजमहिषादिविशेषवद् अयं ब्राह्मणः अयं क्षत्रिय इति विभागेन प्रतिपद्यामहे ।  
+> ननु कथं प्रत्यक्षं ब्राह्मण्यमवगमयति,  
+</details>
+
+<details><summary>English</summary>
+
+> 124\. OBJECTION. But how can Perception convey that they are brahmins? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ननु कथं प्रत्यक्षं ब्राह्मण्यमवगमयति,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न हि प्रथमाक्ष-सन्निपात-समनन्तरम्  
+अ-दृष्ट-पूर्व-विप्र-क्षत्र-समान-वयो-वेष- पिण्ड-द्वय-सन्निधाव्  
+अज-गज-महिषादि-विशेषवद्  
+"अयं ब्राह्मणः", "अयं क्षत्रिय"  
+इति विभागेन प्रतिपद्यामहे ।  
+</details>
+
+<details><summary>English</summary>
+
+> For when we are close to two individuals whom we have not seen before, one a brahmin, the other a ksatriya, of the same age and the same appearance, we do not immediately observe the distinction that one is a brahmin and the other a ksatriya in the same way as we instantly observe the differentness of a goat, an elephant, a buffalo etc. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> न हि प्रथमाक्षसन्निपातसमनन्तरमदृष्टपूर्वविप्र -क्षत्रसमानवयोवेषपिण्डद्वयसन्निधावजगजमहिषादिविशेषवद् अयं ब्राह्मणः अयं क्षत्रिय इति विभागेन प्रतिपद्यामहे ।  
+</details>
+
+
 न च तत्पित्रादिब्राह्मण्यस्मरणसापेक्षमक्षमेव सन्निहितव्यक्तिवर्ति ब्राह्मण्यमवगमयतीति साम्प्रतम्,  तत्स्मरस्यैव पूर्वानुभवविरहेण बन्ध्यासुतस्मरणवदनुपपत्तेः ।  
 न चानुमानात्तत्प्रतिबद्धलिङ्गादर्शनात् ।  
 न च शम दम तपश्शौचादयो ब्राह्मण्ये लिङ्गम्,  तेषां ब्राह्मणेन सता संपाद्यत्वाद् व्यभिचाराच्च ।  
