@@ -156,7 +156,6 @@ title = "Notes"
 
 [256]: In the Manu quotation supra § 15.
 
-257, explained below, § 130.
 
 [258]: Hari has apparently a meaning 'lion. Or did Yamuna think of Nrsimha ? [259]: gauḥ can mean 'cow' and 'word." 
 

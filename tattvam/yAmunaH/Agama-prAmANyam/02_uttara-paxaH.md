@@ -7410,7 +7410,7 @@ and
 वैश्यात्तु जायते व्रात्यादिति वाक्यद्वयेक्षणात् ।  
 </details>
 
-
+#### प्रयोगान्तराणि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र ब्रूमः किम् एताभ्यां  
@@ -7507,7 +7507,7 @@ is understood to bear the name of Satvata:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च पञ्चमस्य सात्त्वतत्वे  
-सात्त्वतेनापि वैश्यव्रात्यपञ्चमेन भवितव्यम्,  
+सात्त्वतेनापि वैश्य-व्रात्य-पञ्चमेन भवितव्यम्,  
 </details>
 
 <details><summary>English</summary>
@@ -7561,20 +7561,178 @@ Consequently the consideration if a smrti statement of this kind cannot give cer
 अतो नेदृश-स्मृति-पर्यालोचनया सात्त्वत-भागवत-शाब्दितानां व्रात्यत्व-निश्चयः ।  
 </details>
 
+#### आचार्य-शब्दादौ व्यभिचारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि पुनर् 
+
+> अनयोर् जात्य्-अन्तरे ऽपि प्रयोगो दृष्ट 
+
+इति +एतावता तच्-छब्दाभिधेयतया भगवच्-छास्त्रानुगामिनाम् अपि विप्राणां तज्-जातीयत्व-निश्चयः,  
+ततस् तत्रैव सह-पठिताचार्य-शब्दस्यापि निकृष्ट-व्रात्यापत्ये प्रयोग-दर्शनात्  
+साङ्ग-स-रहस्य-वेद--दातुर् द्विज-परस्यापि व्रात्यत्वं स्यात् । +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+127\. If it be argued that since these two words also may denote another caste (namely of the vaisya vratyas),  
+then the mere fact that certain brahmins are denoted by these words proves that these brahmins belong to that caste,  
+even though they follow the doctrine of the Bbagavan,  
+it would also follow that, since we find the collocated word acaryas also used to denote the issue of a lowly vaisya,  
+therefore an eminent brahmin who is an acarya imparting teaching of the Veda with its ancillae and its esoteric teachings is thereby denoted as being a vaisya vratya! 
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-यदि पुनरनयोर्जात्यन्तरेऽपि प्रयोगो दृष्ट इति एतावता तच्छब्दाभिधेयतया भगवच्छास्त्रानुगामिनामपि विप्राणां तज्जातीयत्वनिश्चयः, ततस्तत्रैव सहपठिताचार्यशब्दस्यापि निकृष्टव्रात्यापत्ये प्रयोगदर्शनात् साङ्गसरहस्यवेददातुर्द्विजपरस्यापि व्रात्यत्वं स्यात् ।  
-अथ तस्य व्रात्यवाचकाचार्य -शब्दाभिधेयत्वेऽपि प्रमाणान्तरेणाप्लुतब्राह्मण्यनिश्चयात् आचार्य -शब्दस्य आचिनोत्यस्य बुद्धिम् इत्यादिगुणयोगेनापि वृत्तिसंभवान्न व्रात्यत्वशङ्का तदत्रापि जात्यन्तरवाचकसात्त्वत -भागवत -शब्दाभिधेयत्वेऽपि भगवच्छास्त्रानुगामिनाममीषामतिस्पष्टविशिष्टगोत्रार्षेयादिस्मरणदृढावगतत्वाद् ब्राह्मण्यस्य सात्त्वत -भागवत -शब्दयोश्च सत्त्ववति भगवति भक्तियोगेनैव वृत्तिसम्भवान्न व्रात्यत्वशङ्कावतारः, एतदुक्तं भवति ।  
-न चैकशब्दावाच्यत्वादेकजातीयता भवेत् ।  
-मा भूदाचार्यशब्दत्वाद् ब्राह्मणस्य मण्डूकवाचिता ।  
+यदि पुनरनयोर्जात्यन्तरेऽपि प्रयोगो दृष्ट इति एतावता तच्छब्दाभिधेयतया भगवच्छास्त्रानुगामिनामपि विप्राणां तज्जातीयत्वनिश्चयः, 
+ततस्तत्रैव सहपठिताचार्यशब्दस्यापि निकृष्टव्रात्यापत्ये प्रयोगदर्शनात् साङ्गसरहस्यवेददातुर्द्विजपरस्यापि व्रात्यत्वं स्यात् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ 
+
+> > तस्य व्रात्य-वाचकाचार्य-शब्दाभिधेयत्वेऽपि  
+प्रमाणान्तरेणाप्लुत-ब्राह्मण्य-निश्चयात्  
+आचार्य-शब्दस्य 
+> 
+> > आचिनोत्य् अस्य बुद्धिम् 
+> 
+> इत्य्-आदि-गुण-योगेनापि वृत्ति-संभवान्  
+न व्रात्यत्व-शङ्का।  
+</details>
+
+<details><summary>English</summary>
+
+If, on the other hand, even though a true brahmin is denoted by the word ācārya which dea vratya, there still can be no suspicion that he actually is a vratya, because there is positive certainty of his brabminhood which is clearly proved by other means of knowledge, and because it is possible that the word acarya is used figuratively (ācārya as one who "accumulates"— acinoti the pupil's knowledge) for a Brahmin teacher, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथ तस्य व्रात्यवाचकाचार्य-शब्दाभिधेयत्वेऽपि प्रमाणान्तरेणाप्लुतब्राह्मण्यनिश्चयात्  
+आचार्य-शब्दस्य आचिनोत्यस्य बुद्धिम् इत्यादिगुणयोगेनापि वृत्तिसंभवान्न व्रात्यत्वशङ्का।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् अत्रापि  
+जात्य्-अन्तर-वाचक--सात्त्वत-भागवत --शब्दाभिधेयत्वेऽपि  
+भगवच्-छास्त्रानुगामिनाम् अमीषाम् अतिस्पष्ट-विशिष्ट-गोत्रार्षेयादि-स्मरण- दृढावगतत्वाद्  
+ब्राह्मण्यस्य सात्त्वत-भागवत-शब्दयोश् च  
+सत्त्ववति भगवति भक्ति-योगेनैव वृत्ति-सम्भवान्  
+न व्रात्यत्व-शङ्काऽवतारः।
+</details>
+
+<details><summary>English</summary>
+
+then in our case, too, the same argument can be made, namely thus: even though they are denoted by the terms Satvata and Bhagavata, which denote another caste, yet there can rise no suspicion that they actually are vratyas, because the brahminhood of these followers of the Bhagavan's doctrine is firmly known from the recollection of completely obvious clans, Vedic ancestry etc., and because it is possible that the terms Sātvata and Bhāgavata have a figurative denotation of sattva-vat57 and bhaga-vat.
+
+(257, explained below, § 130.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद् अत्रापि जात्यन्तरवाचकसात्त्वत-भागवत -शब्दाभिधेयत्वेऽपि भगवच्छास्त्रानुगामिनाममीषामतिस्पष्टविशिष्टगोत्रार्षेयादिस्मरणदृढावगतत्वाद् ब्राह्मण्यस्य सात्त्वत-भागवत-शब्दयोश्च सत्त्ववति भगवति भक्तियोगेनैव वृत्तिसम्भवान्न व्रात्यत्वशङ्कावतारः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतद् उक्तं भवति ।  
+
+न चैक-शब्द-वाच्यत्वाद्  
+एक-जातीयता भवेत् ।  
+मा भूद् आचार्य-शब्दत्वाद्  
+ब्राह्मणस्य निकृष्टता । +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+In other words, 
+
+the fact that the same word denotes both classes of people  
+does not mean that therefore both belong to one and the same caste,  
+lest the true brahmin be not made into a low-caste man because he is also denoted by the word AchArya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतदुक्तं भवति ।  
+न चैकशब्दवाच्यत्वादेकजातीयता भवेत् ।  
+मा भूदाचार्यशब्दत्वाद् ब्राह्मणस्य निकृष्टता ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च 'हरि'-शब्दस्य  
+दृष्टा मण्डूकवाचिता ।  
+इति तच्-छब्द-वाच्यत्वात्  
+सिंहो मण्डूक एव किम् ॥  
+तथा गो-शब्द-वाच्यत्वाच्  
+छब्दश् चापि विषाणवान् । +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+We find that the word hari also means 'frog.' Does it follow that a lion is a frog because both are denoted by the same word? Then word itself would be horned, since 'word' is denoted by gau !" 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा च 'हरि'-शब्दस्य दृष्टा मण्डूकवाचिता ।  
 इति तच्छब्दवाच्यत्वात् सिंहो मण्डूक एव किम् ॥  
-तथा गो -शब्दवाच्यत्वाच्छब्दश्चापि विषाणवान् ।  
-ततश्च ।  
-सुधन्वाचार्य इत्याद्या यथाऽर्थान्तरवाचकाः ।  
-व्रात्यान्वये प्रयुज्यन्ते तथैवैतो भविष्यतः ॥
+तथा गो-शब्दवाच्यत्वाच्छब्दश्चापि विषाणवान् ।  
+</details>
 
-यदुक्तं योगरूढिशक्तिद्वयोपनिपाते सात्त्वत -भागवत=शब्दयोरूढिशक्तिरेवाश्रयितुमुचितेति ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश्च -  
+
+सुधन्वाचार्य इत्याद्या  
+यथाऽर्थान्तरवाचकाः ।  
+व्रात्यान्वये प्रयुज्यन्ते  
+तथैवैतौ +++(सात्त्वत-भागवतौ)+++ भविष्यतः ॥
+</details>
+
+<details><summary>English</summary>
+
+Consequently, just as the words sudhanvan, ācārya etc., which denote more than one meaning, are also used for someone born from a vaiśya vratya, so also the words Bhagavata and Satvata.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततश्च -  
+
+सुधन्वाचार्य इत्याद्या यथाऽर्थान्तरवाचकाः ।  
+व्रात्यान्वये प्रयुज्यन्ते तथैवैतौ भविष्यतः ॥
+</details>
+
+#### रूढिर् न 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् उक्तं 
+
+> योग-रूढि-शक्ति-द्वयोपनिपाते  
+सात्त्वत-भागवत-शब्दयो रूढि-शक्तिर् एवाश्रयितुम् उचिता
+
+इति ,  
+</details>
+
+<details><summary>English</summary>
+
+128. The contention that when the conventional meaning and the etymological meaning of a word collide, it is right to assume the conventional meaning of the term, in this case of the terms Bhagavata and Satvata, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदुक्तं योगरूढिशक्तिद्वयोपनिपाते सात्त्वत-भागवत-शब्दयो रूढिशक्तिरेवाश्रयितुमुचितेति ।  
+</details>
+
+
 तदयुक्तं कॢप्तावयवश्क्त्यैवाभिधानोपपत्तौ सत्यामकॢप्ताखण्डशक्तिकल्पनाऽनुपपत्तेः ।  
 योऽपि हि सात्त्वत -भागवतशब्दयोर्वैश्यव्रात्यान्वयजन्मनि रूढिशक्तिमभ्युपगच्छति अभ्युपगच्छत्येव असावन्यत्र सत्त्ववद्भगवच्छब्दयोः प्रकृतिभूतयोस्तदुत्पन्नस्य च तद्धितप्रत्ययस्यार्थान्तराभिधानसामर्थ्यं सात्त्वतं विधिमास्थाय, जन्मान्तरकृतैः पुण्यैर्नरो भागवतो भवेदित्यादौ तदिहापि तद्योगेनैव व्रात्यान्वयजन्मनि वृत्तिसम्भवेन शक्त्यन्तरकल्पनायां प्रमाणं क्रमते, संभवति चैतेषामपि साक्षाद्भगवदाराधनाभावेऽपि वासुदेवस्यायतनशोधन -बलिनिर्हरण -प्रतिमासंरक्षणादिक्रियायोगेनैव सात्त्वत -भागवत -शब्दाभिधेयत्वम्,  तस्येदम् इति संबन्धमात्रेऽपि चाण्प्रत्ययस्मरणात्, उक्तश्च वैश्यव्रात्यान्वयजन्मनोऽपि भगवदायतनादिशोधनादिक्रियायोगः, सात्त्वतानाञ्च देवायतनशोधनं नैवेद्यभोजनं प्रतिमासंरक्षणम् इति, तथा विष्णोरायतनानि संपूजयेति ।  
 एतेन इदमप्यपास्तं यदेषामपि वृत्तिसाम्याद् व्रात्यात्वमिति अन्यदेव हि देवायतनशोधनबलिनिर्हरणप्रतिमासंरक्षणादिकम् ।  
