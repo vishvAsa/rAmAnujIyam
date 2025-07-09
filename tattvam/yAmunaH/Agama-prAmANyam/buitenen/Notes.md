@@ -157,17 +157,11 @@ title = "Notes"
 [256]: In the Manu quotation supra § 15.
 
 
-[258]: Hari has apparently a meaning 'lion. Or did Yamuna think of Nrsimha ? [259]: gauḥ can mean 'cow' and 'word." 
 
-[260]: supra §15.
 
-[261]: taddhita suffix, cf. Panini.
 
-[262]: "conventionally the two words are synonymous, 'etymologically' they have difl'erent meanings.
 
-263, Pipini.
 
-[264]: quoted supra.
 
 [265]: supra note.
 

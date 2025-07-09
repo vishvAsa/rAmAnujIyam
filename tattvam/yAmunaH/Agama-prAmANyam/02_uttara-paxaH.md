@@ -7627,7 +7627,7 @@ If, on the other hand, even though a true brahmin is denoted by the word ācāry
 
 <details><summary>English</summary>
 
-then in our case, too, the same argument can be made, namely thus: even though they are denoted by the terms Satvata and Bhagavata, which denote another caste, yet there can rise no suspicion that they actually are vratyas, because the brahminhood of these followers of the Bhagavan's doctrine is firmly known from the recollection of completely obvious clans, Vedic ancestry etc., and because it is possible that the terms Sātvata and Bhāgavata have a figurative denotation of sattva-vat57 and bhaga-vat.
+then in our case, too, the same argument can be made, namely thus: even though they are denoted by the terms Satvata and Bhagavata, which denote another caste, yet there can rise no suspicion that they actually are vratyas, because the brahminhood of these followers of the Bhagavan's doctrine is firmly known from the recollection of completely obvious clans, Vedic ancestry etc., and because it is possible that the terms Sātvata and Bhāgavata have a figurative denotation of sattva-vat and bhaga-vat.
 
 (257, explained below, § 130.)
 </details>
@@ -7678,6 +7678,8 @@ lest the true brahmin be not made into a low-caste man because he is also denote
 <details><summary>English</summary>
 
 We find that the word hari also means 'frog.' Does it follow that a lion is a frog because both are denoted by the same word? Then word itself would be horned, since 'word' is denoted by gau !" 
+
+([259]: gauḥ can mean 'cow' and 'word." )
 </details>
 
 <details><summary>मूलम्</summary>
@@ -7711,7 +7713,7 @@ Consequently, just as the words sudhanvan, ācārya etc., which denote more than
 व्रात्यान्वये प्रयुज्यन्ते तथैवैतौ भविष्यतः ॥
 </details>
 
-#### रूढिर् न 
+#### अवयव-रूढिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् उक्तं 
@@ -7725,6 +7727,8 @@ Consequently, just as the words sudhanvan, ācārya etc., which denote more than
 <details><summary>English</summary>
 
 128. The contention that when the conventional meaning and the etymological meaning of a word collide, it is right to assume the conventional meaning of the term, in this case of the terms Bhagavata and Satvata, 
+
+[260]: supra §15.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -7732,12 +7736,266 @@ Consequently, just as the words sudhanvan, ācārya etc., which denote more than
 यदुक्तं योगरूढिशक्तिद्वयोपनिपाते सात्त्वत-भागवत-शब्दयो रूढिशक्तिरेवाश्रयितुमुचितेति ।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदयुक्तं कॢप्तावयवश्क्त्यैवाभिधानोपपत्तौ सत्यामकॢप्ताखण्डशक्तिकल्पनाऽनुपपत्तेः ।  
-योऽपि हि सात्त्वत -भागवतशब्दयोर्वैश्यव्रात्यान्वयजन्मनि रूढिशक्तिमभ्युपगच्छति अभ्युपगच्छत्येव असावन्यत्र सत्त्ववद्भगवच्छब्दयोः प्रकृतिभूतयोस्तदुत्पन्नस्य च तद्धितप्रत्ययस्यार्थान्तराभिधानसामर्थ्यं सात्त्वतं विधिमास्थाय, जन्मान्तरकृतैः पुण्यैर्नरो भागवतो भवेदित्यादौ तदिहापि तद्योगेनैव व्रात्यान्वयजन्मनि वृत्तिसम्भवेन शक्त्यन्तरकल्पनायां प्रमाणं क्रमते, संभवति चैतेषामपि साक्षाद्भगवदाराधनाभावेऽपि वासुदेवस्यायतनशोधन -बलिनिर्हरण -प्रतिमासंरक्षणादिक्रियायोगेनैव सात्त्वत -भागवत -शब्दाभिधेयत्वम्,  तस्येदम् इति संबन्धमात्रेऽपि चाण्प्रत्ययस्मरणात्, उक्तश्च वैश्यव्रात्यान्वयजन्मनोऽपि भगवदायतनादिशोधनादिक्रियायोगः, सात्त्वतानाञ्च देवायतनशोधनं नैवेद्यभोजनं प्रतिमासंरक्षणम् इति, तथा विष्णोरायतनानि संपूजयेति ।  
-एतेन इदमप्यपास्तं यदेषामपि वृत्तिसाम्याद् व्रात्यात्वमिति अन्यदेव हि देवायतनशोधनबलिनिर्हरणप्रतिमासंरक्षणादिकम् ।  
-अन्ये चाभिगमनोपादानेज्या -स्वाध्याययोगा भागवतैरहरहरनुष्ठीयमानाः क्रियाकलापा इति ज्योतिष्टोमादाविव तथैव ज्योतिष्टोमे ग्रहचमसजुह्वादिपात्रकरणतक्ष्णादिषु तक्ष्णो व्यापारः, ऋत्विजस्तु विशिष्टमन्त्रोच्चारणदेवताभिध्यानाऽभिष्टवप्रभृतिषु ।  
-न च तावता तेषां तक्ष्णाञ्चैकजातित्वसंशयः, एवमिहापि भगवच्छास्त्रसिद्धपाञ्चकालिकानुष्ठातॄणामन्येषामायतनशोधनादि कुर्वतां प्रासादपालकावरनाम्नामन्त्यानां चेति ।  
+तद् अ-युक्तं -  
+कॢप्तावयव-शक्त्यैवाभिधानोपपत्तौ सत्याम्  
+अ-कॢप्ताखण्ड-शक्ति-कल्पनाऽनुपपत्तेः +++(वक्ष्यमाण-रीत्या)+++।  
+</details>
+
+<details><summary>English</summary>
+
+is not correct;  
+for when a denotation is appropriate  
+which is the composite of the denotations of the component elements of the words,  
+then it is not right to assume a non-composite denotation.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदयुक्तं कॢप्तावयवशक्त्यैवाभिधानोपपत्तौ सत्यामकॢप्ताखण्डशक्तिकल्पनाऽनुपपत्तेः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+योऽपि हि  
+सात्त्वत-भागवत-शब्दयोर् वैश्य-व्रात्यान्वय-जन्मनि रूढि-शक्तिम् अभ्युपगच्छति  
+
+अभ्युपगच्छत्येव +असाव् अन्यत्र  
+सत्त्ववद्-भगवच्-छब्दयोः प्रकृति-भूतयोस्  
+तद्-उत्पन्नस्य च तद्धित-प्रत्ययस्यार्थान्तराभिधान-सामर्थ्यम् 
+
+> सात्त्वतं विधिम् आस्थाय,  
+जन्मान्तर-कृतैः पुण्यैर्  
+नरो भागवतो भवेद् 
+
+इत्य्-आदौ। 
+</details>
+
+<details><summary>English</summary>
+
+For he who theorizes that the words satvata and bhagavata have their conventional meaning  
+in denoting someone born from a vaisya vratya,  
+must also theorize that the words sattvavat and bhagarut, which are the stem and the taddhita suffix built on the stem,261 have a different meaning in a sentence like, "having observed the satvata rules, a man becomes a Bhagavata because of the merits he has won in a previous existence." 262
+
+[261]: taddhita suffix, cf. Panini.
+
+[262]: "conventionally the two words are synonymous, 'etymologically' they have different meanings.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+योऽपि हि सात्त्वत-भागवतशब्दयोर्वैश्यव्रात्यान्वयजन्मनि रूढिशक्तिमभ्युपगच्छति अभ्युपगच्छत्येव असावन्यत्र सत्त्ववद्भगवच्छब्दयोः प्रकृतिभूतयोस्तदुत्पन्नस्य च तद्धितप्रत्ययस्यार्थान्तराभिधानसामर्थ्यं सात्त्वतं विधिमास्थाय, जन्मान्तरकृतैः पुण्यैर्नरो भागवतो भवेदित्यादौ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् इहापि +++(पूर्वेक्त-तद्धितान्त←)+++तद्-योगेनैव  
+व्रात्यान्वय-जन्मनि +++(प्रयोग=)+++वृत्ति-सम्भवेन  
+शक्त्य्-अन्तर-कल्पनायां प्रमाणं क्रमते। 
+</details>
+
+<details><summary>English</summary>
+
+This goes to prove the assumption that  
+in this case the word may have a double meaning by etymology alone,  
+because it is possible for it to be used in the sense of "issue of a vaisya vratya." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदिहापि तद्योगेनैव व्रात्यान्वयजन्मनि वृत्तिसम्भवेन शक्त्यन्तरकल्पनायां प्रमाणं क्रमते, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संभवति चैतेषाम् अपि साक्षाद्-भगवद्-आराधनाभावे ऽपि  
+वासुदेवस्यायतनशोधन-बलिनिर्हरण-- प्रतिमा-संरक्षणादि-क्रिया-योगेनैव  
+सात्त्वत-भागवत-शब्दाभिधेयत्वम्,  
+तस्येदम् इति संबन्ध-मात्रेऽपि चाण्-प्रत्यय-स्मरणात्। 
+</details>
+<details><summary>English</summary>
+
+And it is possible that those vratyas too, despite the fact that they fail to [[109]] worship the Bhagavan directly,  
+yet may be denoted by the words satvata and bhagavata,  
+because of their work discipline of cleaning up Vasudeva's temple,  
+clearing away the bali offerings,  
+guarding the idol etc., for it is taught that the can suffix may occur in the sense of a simple relation, "this is of that." (263, Panini.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+संभवति चैतेषामपि साक्षाद्भगवदाराधनाभावेऽपि वासुदेवस्यायतनशोधन -बलिनिर्हरण -प्रतिमासंरक्षणादिक्रियायोगेनैव सात्त्वत -भागवत -शब्दाभिधेयत्वम्, तस्येदम् इति संबन्धमात्रेऽपि चाण्प्रत्ययस्मरणात्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उक्तश्च वैश्य-व्रात्यान्वय-जन्मनोऽपि भगवद्-आयतनादि-शोधनादि-क्रिया-योगः, 
+</details>
+
+
+<details><summary>English</summary>
+
+And it is declared that the issue of a vaiśya vratya has the work discipline of cleaning the Bhagavan's temple etc., 
+</details>
+
+<details><summary>मूलम्</summary>
+
+उक्तश्च वैश्यव्रात्यान्वयजन्मनोऽपि भगवदायतनादिशोधनादिक्रियायोगः, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सात्त्वतानाञ् च देवायतन-शोधनं नैवेद्य-भोजनं प्रतिमा-संरक्षणम् 
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+"and (the task) of the satvatas is the cleaning of the deity's temple, the eating of the offerings, the guarding of the idol;" 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सात्त्वतानाञ्च देवायतनशोधनं नैवेद्यभोजनं प्रतिमासंरक्षणम् इति, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा "विष्णोर् आयतनानि संपूजये"ति ।  
+</details>
+
+<details><summary>English</summary>
+
+and "he must worship Visnu's sanctuaries."'264 
+
+([264]: quoted supra.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा विष्णोरायतनानि संपूजयेति ।  
+</details>
+
+#### वृत्तिसाम्यान् न व्रात्यत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतेन इदम् अप्य् अपास्तं  
+यद् एषाम् अपि वृत्ति-साम्याद् व्रात्यत्वम् इति।
+</details>
+
+<details><summary>English</summary>
+
+129\. Herewith is also rejected the contention that the Bhāgavatas are vratyas because they would have the same profession. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतेन इदमप्यपास्तं यदेषामपि वृत्तिसाम्याद् व्रात्यत्वमिति।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यद् एव हि देवायतन-शोधन--बलि-निर्हरण--प्रतिमासंरक्षणादिकम्,  
+</details>
+
+<details><summary>English</summary>
+
+For it is one thing to clean the temple, clear away the bali offerings, guard the idol, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्यदेव हि देवायतनशोधनबलिनिर्हरणप्रतिमासंरक्षणादिकम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्ये चाभिगमनोपादानेज्या -स्वाध्याययोगा  
+भागवतैर् अहर्-अहर् अनुष्ठीयमानाः क्रिया-कलापा  
+इति ज्योतिष्टोमादाव् इव ।
+</details>
+
+<details><summary>English</summary>
+
+and quite another thing to perform the variety of actions that are daily observed by the Bhagavatas: ~~the cleaning of the way to the idol~~ approaching, the preparation for worship, offering, daily study, and meditation.  
+It is as it is in the case of the jyotistoma etc. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्ये चाभिगमनोपादानेज्या -स्वाध्याययोगा भागवतैरहरहरनुष्ठीयमानाः क्रियाकलापा इति ज्योतिष्टोमादाविव  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथैव ज्योतिष्टोमे -  
+ग्रह--चमस-जुह्वादि-पात्र-करण-तक्ष्णादिषु तक्ष्णो व्यापारः,  
+ऋत्विजस् तु विशिष्ट-मन्त्रोच्चारण-देवताभिध्यानाऽभिष्टव-प्रभृतिषु ।  
+</details>
+
+<details><summary>English</summary>
+
+In the jyotistoma, too, a carpenter has a task in making the various receptacles, soma-cups, soma-decanters, ladles etc., while the officiating priests have their tasks in reciting various different mantra recitations, representing the deity, pressing of the soma etc. +++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथैव ज्योतिष्टोमे ग्रहचमसजुह्वादिपात्रकरणतक्ष्णादिषु तक्ष्णो व्यापारः, ऋत्विजस्तु विशिष्टमन्त्रोच्चारणदेवताभिध्यानाऽभिष्टवप्रभृतिषु ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च तावता तेषां तक्ष्णाञ् चैक-जातित्व-संशयः, 
+</details>
+
+<details><summary>English</summary>
+
+And this occupational similarity, limited as it is, does not raise the question whether the priests have the same caste as the carpenters! 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च तावता तेषां तक्ष्णाञ्चैकजातित्वसंशयः, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम् इहापि भगवच्-छास्त्र-सिद्ध--पाञ्च-कालिकानुष्ठातॄणाम्  
+अन्येषाम् आयतन-शोधनादि कुर्वतां  
+प्रासाद-पालकापर-नाम्नाम् अन्त्यानां चेति ।  
+</details>
+
+<details><summary>English</summary>
+
+So here, too, there is a difference between those who perform the pañcakālikā ritual, which is established by the Bhagavan's doctrine, and the low-caste people who do the cleaning-up of the temple and are also called temple-guards.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवमिहापि भगवच्छास्त्रसिद्धपाञ्चकालिकानुष्ठातॄणामन्येषामायतनशोधनादि कुर्वतां प्रासादपालकापरनाम्नामन्त्यानां चेति ।  
+</details>
+
+
+
 यत्पुनरुक्तं सात्त्वत -भागवत -शब्दयोर्यौगिकत्वे रथकार आदधीत इत्यत्रापि रथकार -शब्दस्य रथकरणयोगेन त्रैवर्णिकवृत्तिप्रसङ्ग इति तदनुपपन्नम्,  युक्तं हि तत्राधानोत्पत्तिवाक्यावगतवसन्तादिकालबाधप्रसङ्गात्, सौधन्वना ऋभवः सूरचक्षस इति मन्त्रवर्णावगतजात्यन्तरवृत्तिबाधप्रसङ्गाच्च ।  
 माहिष्येण करिण्यां तु रथकारः प्रजायते ।  
 इति स्मृत्यवगतजात्यन्तरत्वेऽपि क्षत्रियवैश्यानुलोमोत्पन्नो रथकारस्तस्येज्याधानोपनयनक्रियाश्चाप्रतिषिद्धा इति शङ्खवचनाद् विद्यासाध्येऽपि कर्मणि अधिकाराविरोधात्, त्रैवर्णिकानाञ्च शिल्पोपजीवित्वस्य प्रतिषिद्धत्वेन तेषु रथकारशब्दस्यानुचितत्वाच्च जात्यन्तरवाचित्वाध्यवसानम्,  न चेह तथा विरोधोऽस्ति ।  
