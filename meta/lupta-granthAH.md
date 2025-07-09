@@ -7,8 +7,27 @@ title = "लुप्त-ग्रन्थाः"
 ## सूचिः
 - एकायन-श्रुतिः। 
 - महोपनिषत् 
-  - सद्यो लभ्यमाना महोपनिषच् छाङ्कर-प्रक्षेपग्रस्तेति ज्ञायते। श्रीवैष्णवप्रतयः रीरङ्गदाहे नष्टा भान्ति - वेङ्कटनाथार्येण पूर्णालाभ उक्तश् श्रूयते। अपि माध्वैः क्वचिद् रक्षिता??
-- काशकृत्स्न-कृतः सङ्कर्षण-काण्डः, बोधायन-वृत्तिः, द्रमिड-भाष्यम्। 
+  - सद्यो लभ्यमाना महोपनिषच् छाङ्कर-प्रक्षेपग्रस्तेति ज्ञायते। श्रीवैष्णवप्रतयः श्रीरङ्गदाहे नष्टा भान्ति - वेङ्कटनाथार्येण पूर्णालाभ उक्तश् श्रूयते। अपि माध्वैः क्वचिद् रक्षिता??
+
+- काशकृत्स्न-कृतः सङ्कर्षण-काण्डः
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Sutras of sankarsha kanda which were cited by Vedanta Desika are from Kashakrtsnas daivi mimamsa only. Madhvacharya also quoted from it.  
+Though our swami cites one more sutra iirc. 
+
+Mahabhashyam says that kashakrtsna wrote a separate 20 chapter mimamsa shastra. 
+
+Currently available sankarsha kanda was written by Jaimini and has indeed been quoted by Sri Bhashyakarar as well in his Sri Bhashya. 
+
+But since Kashakrtsnas daivi mimamsa supposedly has sa vishnur aha hi and tam brahmetyacakshate as the last two sutras, Kashakrtsna is quoted with due respect by Swami Desikan.
+</details>
+
+
+
+- बोधायन-वृत्तिः
+- द्रमिड-भाष्यम्
+  - उल्लेखस्थानम् - रामानुजस्य श्रीभाष्ये, वेदार्थसङ्ग्रहे
 - ईशाण्डान् - स्तोत्रम्। 
   - उल्लेखस्थानम् - **रहस्यत्रयसारः**
 - यामुनः - काश्मीरागम-प्रामाण्यम्, महापुरुष-निर्णयः। 
