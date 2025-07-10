@@ -642,7 +642,7 @@ the consorts of God; the attendants of Lakshmi, Sútravati and others;-all these
 विष्वक्सेनाय शृण्वते ।  
 अधिकृत्य मुमुक्षूणाम्  
 अनुपास्यान् विशेषतः-  
-+++(सात्त्वत-संहितायाम्)+++
++++(विष्वक्सेन-संहितायाम्)+++
 </details>
 
 <details><summary>English</summary>
