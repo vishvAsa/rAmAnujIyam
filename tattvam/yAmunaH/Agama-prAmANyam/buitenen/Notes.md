@@ -169,7 +169,6 @@ title = "Notes"
 
 [267]: not identified.
 
-[268]: For the word means etymologically "maker of chariots, carts."" [269]: not identified.
 
 [270]: By refusing to accept a rudhi meaning the authority of the Vedic statements concerning all the features of the sacrifice made by the now disqualified chariot-maker would be lost, and the authority of the statement that caste names may designate more than one caste would also be lost.
 
