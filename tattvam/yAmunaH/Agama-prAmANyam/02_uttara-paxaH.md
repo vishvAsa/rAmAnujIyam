@@ -9077,39 +9077,267 @@ it must needs be accepted by those who admit the validity of the Pañcarātra Ta
 एतद् उक्तं भवति पुष्पौदनादि-स्वरूप-मात्र-त्यागस्यानिष्टत्वात् स्व-दर्शनानुसारेण च विशेषणासंभवात् पर-दर्शनानुसारेण विशेषण-निरूपणे तस्यैव परम-पावनत्वापातात् तत्र प्रामाण्यम् अभ्युपगच्छद्भिर् अन्यैश् च निर्माल्य-निवेद्योपयोगोऽवश्याङ्गीकरणीय इति ।  
 </details>
 
+#### पाञ्चरात्रे ऽनिषेधः
+##### निषेधाभासाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+आह 
 
+> कथं पुनस् तत्र प्रामाण्यम् अङ्गीकुर्वता निर्माल्यं निवेद्यं च न परिहरणीयम् ।  
+</details>
 
+<details><summary>English</summary>
 
+[[114]]
 
+> 135\. OBJECTION. But how is it possible then that even one who admits the validity of Pāñcarātra  
+should reject nevertheless the nirmālya and nivedya? 
+</details>
+
+<details><summary>मूलम्</summary>
 
 आह कथं पुनस् तत्र प्रामाण्यम् अङ्गीकुर्वता निर्माल्यं निवेद्यं च न परिहरणीयम् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निषिध्यते हि तन्त्रेषु  
+निर्माल्य-प्राशनादिकम् ।  
+यथा सनत्-कुमारीय-  
+संहितायाम् उदीरितम् ।  
+</details>
+
+<details><summary>English</summary>
+
+> For in the Tantras the tasting etc. of the nirmālya is prohibited. For instance, it is said in the Sanatkumārīya Saṃhitā: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 निषिध्यते हि तन्त्रेषु निर्माल्य-प्राशनादिकम् ।  
 यथा सनत्-कुमारीय-संहितायाम् उदीरितम् ।  
-निवेदितं तु यद् धव्यं पुष्पं फलम् अथापि वा ।  
-तन् निर्माल्यम् इति प्रोक्तं तत् प्रयत्नेन वर्जयेत् ॥
+</details>
 
-तथा प्रदेशान्तरे ।  
-निर्माल्यं भक्षयित्वैवम् उच्छिष्टम् अगुरोर् अपि ।  
-मासं पयो-व्रतो भूत्वा जपन्न् अष्टाक्षरं सदा ॥
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निवेदितं तु यद् धव्यं  
+पुष्पं फलम् अथापि वा ।  
+तन् निर्माल्यम् इति प्रोक्तं  
+तत् प्रयत्नेन वर्जयेत् ॥
+</details>
+
+<details><summary>English</summary>
+
+> "The offering that is proffered (to the deity), flower or fruit, is called nirmālya; that must be avoided meticulously." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निवेदितं तु यद् धव्यं  
+पुष्पं फलम् अथापि वा ।  
+तन् निर्माल्यम् इति प्रोक्तं  
+तत् प्रयत्नेन वर्जयेत् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा प्रदेशान्तरे -  
+
+> निर्माल्यं भक्षयित्वैवम्  
+उच्छिष्टम् अगुरोर् अपि ।  
+मासं पयो-व्रतो भूत्वा  
+जपन्न् अष्टाक्षरं सदा ॥  
+ब्रह्म-कूर्चं ततः पीत्वा  
+पूतो भवति मानवः ।  
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+Similarly in another passage: "When one has eaten nirmālya, or the foodrests of someone who is not one's guru, one must observe a milk-vow for a month, continuously recite the eight-syllable formula, 
+and drink the pañcagavya,279 in order to be purified." 
+
+279: The {{pancagavya|pañcagavya}} is a substance in which the 5 products of the cow are mingled.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा प्रदेशान्तरे -  
+
+> निर्माल्यं भक्षयित्वैवम् उच्छिष्टम् अगुरोर् अपि ।  
+मासं पयो-व्रतो भूत्वा जपन्न् अष्टाक्षरं सदा ॥  
 ब्रह्म-कूर्चं ततः पीत्वा पूतो भवति मानवः ।  
-इति, तथा इन्द्र-रात्रे ।  
+इति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा इन्द्र-रात्रे ।  
+
+> न चोपजीवेद् देवेशं  
+न निर्माल्यानि भक्षयेत् ।  
+</details>
+
+<details><summary>English</summary>
+
+Likewise in the {{Indraratra|Indrarātra}}: "One should not live off the Supreme God, nor eat the nirmālya offerings." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा इन्द्र-रात्रे ।  
 न चोपजीवेद् देवेशं न निर्माल्यानि भक्षयेत् ।  
-तथा ।  
-न चोपभोगयोग्यानि निर्माल्यानि कदाचन । (न चोपभोगयोग्यानीति पा. ।)
-इति, तथा संहितान्तरे ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा -  
+
+> न चोपभोगयोग्यानि  
+निर्माल्यानि कदाचन ।  
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+Also: 
+
+> "And the nirmālya offerings are never fit for consumption." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा -  
+
+> न चोपभोगयोग्यानि  
+निर्माल्यानि कदाचन ।  
+(न चोपभोगयोग्यानीति पा. ।)
+इति, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा संहितान्तरे -  
+
+> निर्माल्यानि न चाश्नीयान्  
+न जिघ्रेन् न च लङ्घयेत् ।  
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+Similarly in another Saṃhitā: 
+
+> "One should not eat the nirmālya offerings, nor smell them, nor step over them."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा संहितान्तरे ।  
 निर्माल्यानि न चाश्नीयान् न जिघ्रेन् न च लङ्घयेत् ।  
-इति, तदेवम् अनेक-संहिता-समधिगत-निषेधस्य निर्माल्योपभोगस्य कथम् इव पावनत्वाङ्गीकारः, ।  
+इति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तद् एवम् अनेक-संहिता-समधिगत-निषेधस्य निर्माल्योपभोगस्य  
+कथम् इव पावनत्वाङ्गीकारः ।  
+</details>
+
+<details><summary>English</summary>
+
+How then can one accept the purity of the utilization of the nirmālya when we thus know from several Saṃhitā that it is prohibited?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदेवम् अनेक-संहिता-समधिगत-निषेधस्य निर्माल्योपभोगस्य कथम् इव पावनत्वाङ्गीकारः ।  
+</details>
+
+##### विलम्ब्य प्रयोगः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्राह देवम् उद्दिश्य  
+त्यक्तस्यापि च वस्तुनः ।  
+नाडिका-दशकाद् अर्वाग्  
+उपयोगो न निन्द्यते ॥
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION. To this he says: The utilization of a proffered substance which has been offered up to the deity is not condemned if it is done within a period of ten nāḍikās.280 
+
+280: one nāḍikā is a half muhūrta.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अत्राह देवम् उद्दिश्य त्यक्तस्यापि च वस्तुनः ।  
 नाडिका-दशकाद् अर्वाग् उपयोगो न निन्द्यते ॥
+</details>
 
-तथा इन्द्र-रात्रे एव ।  
-दश-नाड्याधिकं पूरं स्थापयेत् तु विचक्षणः ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा इन्द्र-रात्रे एव -  
+
+> दश-नाड्य्-अधिकं पूरं  
+स्थापयेत् तु विचक्षणः ।  
+काल-योगस् समुद्दिष्टो  
+रात्राव् अहनि चैव हि ॥
+</details>
+
+<details><summary>English</summary>
+
+Thus in the same Indrarātra: 
+
+> "The wise one must let the offering-cake stand for ten nāḍikās. This period of time has been prescribed both for night and for day. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा इन्द्र-रात्रे एव -  
+दशनाड्यधिकं पूरं स्थापयेत् तु विचक्षणः ।  
 कालयोगस् समुद्दिष्टो रात्राव् अहनि चैव हि ॥
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अ-काल-योगातिरिक्तं तु  
+निर्माल्यं परिचक्षते ।  
+ततस् तद् अप्सु चैवाग्नौ  
+क्षिपेद् भूमौ खनेत् तु वा ॥
+
+इति ।  
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
 कालयोगातिरिक्तं तु निर्माल्यं परिचक्षते ।  
 ततस् तद् अप्सु चैवाग्नौ क्षिपेद् भूमौ खनेत् तु वा ॥
 
 इति ।  
+</details>
+
+
 उच्यते नात्र निर्माल्य-प्राशनादि प्रशस्यते ।  
 किं तु पूरण-पूजायां विनियुक्तस्य वस्तुनः ॥
 नाडिका-दशके पूर्णे पश्चात् त्यागो विधीयते ।  
