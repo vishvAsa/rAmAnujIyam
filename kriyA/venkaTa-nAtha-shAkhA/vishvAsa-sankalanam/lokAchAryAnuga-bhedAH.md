@@ -49,6 +49,9 @@ Ramanuja acts like chief purushakara in prapatti( coz guruparampara is treated s
 #### लक्ष्यम्
 विद्याभास्करः - शरणागति-गद्य-भाग-वचनेन सह पादेन शिरस्-स्पर्शः - [TW](https://www.youtube.com/watch?v=MRP0Wnq8whU&t=29s) ।  
 
+सिद्ध-दाताश्रमे [ऽत्र](https://youtu.be/7kU1R2klybQ?t=1578)।
+
+
 #### विवरणम्
 दॊड्डयाचार्यसम्प्रदाये प्रपत्तिनाम्ना पञ्चसंस्कारसमये भगवच्-चरणयोश् शिष्यो स्वसदृश-रक्ष्यत्वेन समर्प्यते - [TW](https://youtu.be/BUB929lXvWE?t=211) । ("Offering shishya like flower at feet of perumal")  
 gAdi-PBA-शिष्यः रङ्गनाथार्यः - [TW](https://www.youtube.com/watch?v=5loL0Sy18-Y&t=196s)।  

@@ -369,7 +369,7 @@ But I don't see how the objector can reasonably infer the validity of Pañcarāt
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि वेदान्यत्वं ततः +++(वेद-भिन्नत्वात्)+++ प्रत्यक्षादिभिर् अनैकान्तः ।
+यदि वेदान्यत्वं ततः +++(वेद-भिन्नत्वात्)+++ प्रत्यक्षादिभिर् अनैकान्तः ।  
 </details>
 
 <details><summary>English</summary>
@@ -383,7 +383,7 @@ which are also different from the Veda.
 
 <details><summary>मूलम्</summary>
 
-यदि वेदान्यत्वं ततः प्रत्यक्षादिभिरनैकान्तः ।
+यदि वेदान्यत्वं ततः प्रत्यक्षादिभिरनैकान्तः ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -579,7 +579,7 @@ since the great majority of its Statements concern Brahman.
 
 <details><summary>मूलम्</summary>
 
-अथोक्तविशेषणविशिष्टत्वे धर्माधर्मविषयत्वेऽपि सत्यवेदमूलत्वादिति हेतुः, ततो भागासिद्धो हेतुः, न हि पञ्चरात्रशास्त्रं कृत्स्नं धर्माधर्मविषयम् ब्रह्मविषयाणामेव वचसां बाहुल्यात् ।
+अथोक्तविशेषणविशिष्टत्वे धर्माधर्मविषयत्वेऽपि सत्यवेदमूलत्वादिति हेतुः, ततो भागासिद्धो हेतुः, न हि पञ्चरात्रशास्त्रं कृत्स्नं धर्माधर्मविषयम् ब्रह्मविषयाणामेव वचसां बाहुल्यात् ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -925,7 +925,7 @@ Like the ground "because it is knowable" which applies to things regardless of w
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि निर्द्दोष-ज्ञानकारणत्वम् अ-प्रमाण-भूत--विप्रलम्भक-वचनादिषु विपक्षेषु दृष्टचरम् ।
+न हि निर्द्दोष-ज्ञानकारणत्वम् अ-प्रमाण-भूत--विप्रलम्भक-वचनादिषु विपक्षेषु दृष्टचरम् ।  
 </details>
 
 <details><summary>English</summary>
@@ -938,7 +938,7 @@ that Pañcaratra is deceptive and hence nonauthoritative.
 
 <details><summary>मूलम्</summary>
 
-न हि निर्द्दोषज्ञानकारणत्वमप्रमाणभूतविप्रलम्भकवचनादिषु विपक्षेषु दृष्टचरम् ।
+न हि निर्द्दोषज्ञानकारणत्वमप्रमाणभूतविप्रलम्भकवचनादिषु विपक्षेषु दृष्टचरम् ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2004,7 +2004,7 @@ and who concentrates on the soul Vasudeva as the cause of the entire Universe:
 
 <details><summary>मूलम्</summary>
 
-ता ह्यैहिकामुष्मिकसकलविषयाभिलाषविमुखस्य अखिलजगत्कारणवासुदेवात्मभावैकलभ्यं मोक्षमाचक्षते ।
+ता ह्यैहिकामुष्मिकसकलविषयाभिलाषविमुखस्य अखिलजगत्कारणवासुदेवात्मभावैकलभ्यं मोक्षमाचक्षते ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2375,7 +2375,7 @@ A man becomes an ascetic by accepting the Kāpālika vow."
 #### शिवाप्रणीतता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च वाच्यम् अ-प्रमाण-भूतम् इयन्तं ग्रन्थराशिं कथं प्रत्ययिततरो रुद्रः प्रणयतीति ।
+न च वाच्यम् अ-प्रमाण-भूतम् इयन्तं ग्रन्थराशिं कथं प्रत्ययिततरो रुद्रः प्रणयतीति ।  
 </details>
 
 <details><summary>English</summary>
@@ -2821,7 +2821,7 @@ These practices are well-known in the Saiva scriptures:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा चैतेषामादित्य-पुराणेऽपि  
-भगवत्-त्यागेन समं वेद-त्यागं कथयति ।
+भगवत्-त्यागेन समं वेद-त्यागं कथयति ।  
 </details>
 
 <details><summary>English</summary>
@@ -2833,7 +2833,7 @@ along with relinquishing the Bhagavan they relinquish the Veda:
 
 <details><summary>मूलम्</summary>
 
-तथा चैतेषामादित्यपुराणेऽपि भगवत्त्यागेन समं वेदत्यागं कथयति ।
+तथा चैतेषामादित्यपुराणेऽपि भगवत्त्यागेन समं वेदत्यागं कथयति ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2920,7 +2920,7 @@ are to be regarded as heretics who are expelled from the Way of the Veda," (not 
 पाषण्डिनो विकर्मस्थान्"  
 इत्य्-आदि-स्मृतिषूदितम् ॥  
 "या वेद-बाह्या" इत्य्-एतद्  
-अपि चेदृशगोचरम् ।
+अपि चेदृशगोचरम् ।  
 </details>
 
 <details><summary>English</summary>
@@ -2954,7 +2954,7 @@ supra §52.
 तस्मान् न वेद-मूलत्वं  
 नापि प्रत्यक्ष-मूलता ॥  
 तन्त्रान्तराणां युक्तेति  
-**कल्प्यते** कारणान्तरम् ।
+**कल्प्यते** कारणान्तरम् ।  
 </details>
 
 <details><summary>English</summary>
@@ -2970,7 +2970,7 @@ another cause must be assumed for them.
 <details><summary>मूलम्</summary>
 
 तस्मान्न वेदमूलत्वं नापि प्रत्यक्षमूलता ॥  
-तन्त्रान्तराणां युक्तेति कल्प्यते कारणान्तरम् ।
+तन्त्रान्तराणां युक्तेति कल्प्यते कारणान्तरम् ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3071,7 +3071,7 @@ For in the case of Pañcaratra Sastra we have positive certainty that it is base
 > ननु च श्रुति-मूलत्वे  
 वेदाद् एवार्थ-सिद्धितः ॥  
 तत्-प्रणेतृ--स्व-तन्त्रत्व-  
-कल्पना नेत्य् **अचूचुदम्** ।
+कल्पना नेत्य् **अचूचुदम्** ।  
 </details>
 
 <details><summary>English</summary>
@@ -3085,7 +3085,7 @@ then it cannot be assumed that the author was independent.
 <details><summary>मूलम्</summary>
 
 ननु च श्रुतिमूलत्वे वेदादेवार्थसिद्धितः ॥  
-तत्प्रणेतृस्वतन्त्रत्वकल्पना नेत्यचूचुदम् ।
+तत्प्रणेतृस्वतन्त्रत्वकल्पना नेत्यचूचुदम् ।  
 </details>
 
 
@@ -3094,7 +3094,7 @@ then it cannot be assumed that the author was independent.
 नैवं **न कल्प्यते** पुंसि  
 स्वातन्त्र्यं, **श्रूयते** हि तत् ॥  
 "तस्याध्यक्षम् इदं सर्वं"  
-"भीषाऽस्माद् इदम्" आदिषु ।
+"भीषाऽस्माद् इदम्" आदिषु ।  
 </details>
 
 <details><summary>English</summary>
@@ -3109,7 +3109,7 @@ but for God it is revealed in Scripture, e.g.,
 <details><summary>मूलम्</summary>
 
 नैवं न कल्प्यते पुंसि स्वातन्त्र्यं श्रूयते हि तत् ॥  
-तस्याध्यक्षमिदं सर्वं भीषाऽस्मादिदमादिषु ।
+तस्याध्यक्षमिदं सर्वं भीषाऽस्मादिदमादिषु ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3480,7 +3480,7 @@ In this same way the above statement must be taken as praise of the Pancarãtra.
 
 <details><summary>मूलम्</summary>
 
-एवं पञ्चरात्रप्रशंसेति गम्यते ।
+एवं पञ्चरात्रप्रशंसेति गम्यते ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3530,7 +3530,7 @@ In Pañcaratra, too, we frequently find praise of the Veda;
 वेदान्तैर् इदम् एवोक्तं  
 तत्त्व-ज्ञानोपपादकैः ॥  
 
-इत्यादौ ।
+इत्यादौ ।  
 </details>
 
 <details><summary>English</summary>
@@ -4167,7 +4167,7 @@ beside "he must sacrifice with barley."
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न हि तत्रान्यतरद् अपहर्तुं शक्यम् -  
-उभयोर् अप्य् अन्-अपेक्षत्वाविशिष्टत्वात् ।
+उभयोर् अप्य् अन्-अपेक्षत्वाविशिष्टत्वात् ।  
 </details>
 
 <details><summary>English</summary>
@@ -4179,7 +4179,7 @@ because both ~~neither~~ of these statements is characterized by independence.
 
 <details><summary>मूलम्</summary>
 
-न हि तत्रान्यतरदपहर्तुं शक्यम् उभयोरप्यनपेक्षत्वाविशिष्टत्वात् ।
+न हि तत्रान्यतरदपहर्तुं शक्यम् उभयोरप्यनपेक्षत्वाविशिष्टत्वात् ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4218,7 +4218,7 @@ So how can they be alternatives and optional?
 
 निरपेक्षं हि वैदिकं वचनं - अपौरुषेयत्वात्,  
 सापेक्षं च पञ्चरात्रवचनमिति।  
-कथमनयोर्विकल्पः ।
+कथमनयोर्विकल्पः ।  
 </details>
 
 
@@ -4265,7 +4265,7 @@ OBJECTION. How can a statement deriving from a person be independent?
 किं वा निश्चायकत्त्वाय  
 यथाऽर्थ-ज्ञापनाय वा ॥  
 पुम्-अर्थत्वाय वा तत्र  
-चतुर्णाम् अप्य् असम्भवः ।
+चतुर्णाम् अप्य् असम्भवः ।  
 </details>
 
 <details><summary>English</summary>
@@ -4286,7 +4286,7 @@ All four are impossible.
 इति चेदिदमाचष्टां पृष्टस्सन्नेष तार्किकः ॥  
 किमस्य बोधकत्वाय परापेक्षाऽभ्युपेयते ।  
 किं वा निश्चायकत्त्वाय यथार्थज्ञापनाय वा ॥  
-पुमर्थत्वाय वा तत्र चतुर्णामप्यसम्भवः ।
+पुमर्थत्वाय वा तत्र चतुर्णामप्यसम्भवः ।  
 </details>
 
 
@@ -4334,7 +4334,7 @@ but this must also apply to Vedic statements.
 
 <details><summary>मूलम्</summary>
 
-न च तावता सापेक्षत्वेन दौर्बल्यं श्रुतावपि दौर्बल्यप्रसङ्गात् ।
+न च तावता सापेक्षत्वेन दौर्बल्यं श्रुतावपि दौर्बल्यप्रसङ्गात् ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5190,7 +5190,7 @@ or that it has been stated according to the truth with complete attentiveness of
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रोच्यते "विप्रतिषेधात्" इति -  
-समस्त-श्रुतीतिहास-पुराण-लोक-विप्रतिषेधात्।
+समस्त-श्रुतीतिहास-पुराण-लोक-विप्रतिषेधात्।  
 </details>
 
 <details><summary>English</summary>
@@ -5200,7 +5200,7 @@ REFUTATION. To this objection the Author replies vipratisedhat, i.e., on account
 
 <details><summary>मूलम्</summary>
 
-तत्रोच्यते विप्रतिषेधात् इति, समस्तश्रुतीतिहासपुराणलोकविप्रतिषेधात्।
+तत्रोच्यते विप्रतिषेधात् इति, समस्तश्रुतीतिहासपुराणलोकविप्रतिषेधात्।  
 </details>
 
 ### नाकारणम्
@@ -5604,7 +5604,7 @@ then there can be no faith in anything. It is with this view in mind that the Au
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "विप्रतिषेधात्"   
-इति।
+इति।  
 </details>
 
 <details><summary>English</summary>
@@ -5616,7 +5616,7 @@ vipratisedAt.
 <details><summary>मूलम्</summary>
 
 "विप्रतिषेधात्"   
-इति।
+इति।  
 </details>
 
 ## विरोधाभासे तारतम्यम्
@@ -5706,7 +5706,7 @@ that the fruits of acts serve to increase people's faith in the acts.
 
 <details><summary>मूलम्</summary>
 
-यथैव हि भगवतो जैमिनेः कर्मफलोपन्यासः कर्मश्रद्धासंवर्द्धनायेति ।
+यथैव हि भगवतो जैमिनेः कर्मफलोपन्यासः कर्मश्रद्धासंवर्द्धनायेति ।  
 </details>
   
 
@@ -5828,7 +5828,7 @@ which themselves are "different from the Veda."
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञातत्वे ऽपि गृहीतत्वे  
-दोषाद् अस्मान् न मुच्यसे ।
+दोषाद् अस्मान् न मुच्यसे ।  
 </details>
 
 <details><summary>English</summary>
@@ -5838,7 +5838,7 @@ If you take "accepted" to mean "known," you do not get rid of the same defect.
 
 <details><summary>मूलम्</summary>
 
-ज्ञातत्वेऽपि गृहीतत्वे दोषादस्मान्न मुच्यसे ।
+ज्ञातत्वेऽपि गृहीतत्वे दोषादस्मान्न मुच्यसे ।  
 </details>
 
 ### वेद-भिन्नैः क्रियमाणार्थता
@@ -5861,7 +5861,7 @@ then there would likewise be an occasional application of the ground to the Veda
 <details><summary>मूलम्</summary>
 
 पूर्वोक्तं वेदबाह्यत्वं क्रियमाणार्थता यदि ॥  
-गृहीतताऽपि वेदैः स्यात्तथैव व्यभिचारिता ।
+गृहीतताऽपि वेदैः स्यात्तथैव व्यभिचारिता ।  
 </details>
 
 ### प्रतिषिद्धार्थ-कर्तृत्वे
@@ -6072,7 +6072,7 @@ supra § 17: this Buddhist injunction is outside the Veda
 
 तत्रापि किम् अखिल-वैदिक-कर्मानधिकारि-जन-परिगृहीतत्वं हेतुः,  
 उत कतिपय-वैदिक-कर्मानधिकारि-गृहीतत्वम्  
-इति विविच्य व्याचष्टाम् ।
+इति विविच्य व्याचष्टाम् ।  
 </details>
 
 <details><summary>English</summary>
@@ -6086,7 +6086,7 @@ This point should be clarified.
 
 <details><summary>मूलम्</summary>
 
-तत्रापि किमखिलवैदिककर्मानधिकारिजनपरिगृहीतत्वं हेतुः, उत कतिपयवैदिककर्मानधिकारिगृहीतत्वमिति विविच्य व्याचष्टाम् ।
+तत्रापि किमखिलवैदिककर्मानधिकारिजनपरिगृहीतत्वं हेतुः, उत कतिपयवैदिककर्मानधिकारिगृहीतत्वमिति विविच्य व्याचष्टाम् ।  
 </details>
 
 #### अनधिकारो ऽखिले
@@ -6104,7 +6104,7 @@ This point should be clarified.
 
 न तावदग्रिमः कल्पः कल्पते हेत्वसिद्धितः ।  
 न हि सोऽस्ति मनुष्येषु यः श्रौते क्वापि कर्मणि ॥  
-नाधिकुर्यादहिंसादौ नृमात्रस्याधिकारः ।
+नाधिकुर्यादहिंसादौ नृमात्रस्याधिकारः ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6221,7 +6221,7 @@ the ksatriya not for the ritual drinking of soma.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो व्यवस्थित-वर्णाधिकारि-गृहीत-वेद-वचनैर् अनैकान्तिको हेतुः, अ-प्रयोजकश् च ।
+अतो व्यवस्थित-वर्णाधिकारि-गृहीत-वेद-वचनैर् अनैकान्तिको हेतुः, अ-प्रयोजकश् च ।  
 </details>
 
 <details><summary>English</summary>
@@ -6234,7 +6234,7 @@ and is therefore inconclusive.
 
 <details><summary>मूलम्</summary>
 
-अतो व्यवस्थितवर्णाधिकारिगृहीतवेदवचनैरनैकान्तिकोहेतुः, अप्रयोजकश्च ।
+अतो व्यवस्थितवर्णाधिकारिगृहीतवेदवचनैरनैकान्तिकोहेतुः, अप्रयोजकश्च ।  
 </details>
 
 #### कारणदोषः
@@ -6323,7 +6323,7 @@ for that would entail that such smārta rites as crepuscular worship, astaka etc
 
 उक्तं च शिष्टाचारस्य प्रामाण्यम् -  
 अपि वा कारणाग्रहणे -  
-प्रयुक्तानि प्रतीयेरन्न् इति ।
+प्रयुक्तानि प्रतीयेरन्न् इति ।  
 </details>
 
 <details><summary>English</summary>
@@ -6336,7 +6336,7 @@ they do know what is proper custom.
 
 <details><summary>मूलम्</summary>
 
-उक्तं च शिष्टाचारस्य प्रामाण्यम् अपि वा कारणाग्रहणे प्रयुक्तानि प्रतीयेरन्निति ।
+उक्तं च शिष्टाचारस्य प्रामाण्यम् अपि वा कारणाग्रहणे प्रयुक्तानि प्रतीयेरन्निति ।  
 </details>
 
 ### भागवत-परिग्रहे ऽदोषः
@@ -6491,7 +6491,7 @@ REFUTATION. And in our case, when one sees learned people who day after day stud
 
 <details><summary>मूलम्</summary>
 
-इह वा किमहरहरधीयमानवाजसनेयकैकायनशाखान् विलसदुपवीतोत्तरीयशिखाशालिनोऽध्यापयतो याजयत प्रतिगृह्णतो विदुषः पश्यन्तो ब्राह्मणा इति नावयन्ति ।
+इह वा किमहरहरधीयमानवाजसनेयकैकायनशाखान् विलसदुपवीतोत्तरीयशिखाशालिनोऽध्यापयतो याजयत प्रतिगृह्णतो विदुषः पश्यन्तो ब्राह्मणा इति नावयन्ति ।  
 </details>
 
 ### यजनादिभिः
@@ -6573,7 +6573,7 @@ and lead to infinite regress.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मरन्ति हि भागवताः -  
-वयं भारद्वाजाः वयं काश्यपाः वयं गौतमाः वयमौपगवा इति ।
+वयं भारद्वाजाः वयं काश्यपाः वयं गौतमाः वयमौपगवा इति ।  
 </details>
 
 <details><summary>English</summary>
@@ -6585,7 +6585,7 @@ for the Bhagavatas have the tradition: "We are descendants of Bharadvaja, of Kas
 <details><summary>मूलम्</summary>
 
 स्मरन्ति हि भागवताः -  
-वयं भारद्वाजाः वयं काश्यपाः वयं गौतमाः वयमौपगवा इति ।
+वयं भारद्वाजाः वयं काश्यपाः वयं गौतमाः वयमौपगवा इति ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6709,7 +6709,7 @@ is then the same authority stated for the brahminhood of the ones as well as of 
 > तेऽपि मामेव कौन्तेय  
 > यजन्त्य् अविधिपूर्वकम् 
 
-इति विनिनिन्द ।
+इति विनिनिन्द ।  
 </details>
 
 
@@ -6736,7 +6736,7 @@ if not by that same authority?
 
 न केवलं ममैव ब्राह्मण्य-निरुपण-भार  
 आवयोर् उभयोर् एव  
-तस्य निरूपणीयत्वेन समत्वाद् इति भावः ।
+तस्य निरूपणीयत्वेन समत्वाद् इति भावः ।  
 </details>
 
 ### निर्णय-प्रकारः
@@ -6867,7 +6867,7 @@ And such qualities as tranquillity, self-restraint, austerity, purity etc., cann
 न च शम दम तपश्शौचादयो ब्राह्मण्ये लिङ्गम्,  तेषां ब्राह्मणेन सता संपाद्यत्वाद् व्यभिचाराच्च ।  
 </details>
 
-### अर्थापत्तौ शङ्का
+#### अर्थापत्तौ शङ्का
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7348,7 +7348,7 @@ it is established that the Bhagavatas are brahmins, because they possess gotra e
 </details>
 
 
-### वैश्व-व्रात्य-मूलं न
+### वैश्य-व्रात्य-मूलं न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैश्यव्रात्यान्वये जन्म  
@@ -7622,7 +7622,7 @@ If, on the other hand, even though a true brahmin is denoted by the word ācāry
 भगवच्-छास्त्रानुगामिनाम् अमीषाम् अतिस्पष्ट-विशिष्ट-गोत्रार्षेयादि-स्मरण- दृढावगतत्वाद्  
 ब्राह्मण्यस्य सात्त्वत-भागवत-शब्दयोश् च  
 सत्त्ववति भगवति भक्ति-योगेनैव वृत्ति-सम्भवान्  
-न व्रात्यत्व-शङ्काऽवतारः।
+न व्रात्यत्व-शङ्काऽवतारः।  
 </details>
 
 <details><summary>English</summary>
@@ -7635,7 +7635,7 @@ then in our case, too, the same argument can be made, namely thus: even though t
 
 <details><summary>मूलम्</summary>
 
-तद् अत्रापि जात्यन्तरवाचकसात्त्वत-भागवत -शब्दाभिधेयत्वेऽपि भगवच्छास्त्रानुगामिनाममीषामतिस्पष्टविशिष्टगोत्रार्षेयादिस्मरणदृढावगतत्वाद् ब्राह्मण्यस्य सात्त्वत-भागवत-शब्दयोश्च सत्त्ववति भगवति भक्तियोगेनैव वृत्तिसम्भवान्न व्रात्यत्वशङ्कावतारः।
+तद् अत्रापि जात्यन्तरवाचकसात्त्वत-भागवत -शब्दाभिधेयत्वेऽपि भगवच्छास्त्रानुगामिनाममीषामतिस्पष्टविशिष्टगोत्रार्षेयादिस्मरणदृढावगतत्वाद् ब्राह्मण्यस्य सात्त्वत-भागवत-शब्दयोश्च सत्त्ववति भगवति भक्तियोगेनैव वृत्तिसम्भवान्न व्रात्यत्वशङ्कावतारः।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7889,7 +7889,7 @@ and "he must worship Visnu's sanctuaries."'264
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतेन इदम् अप्य् अपास्तं  
-यद् एषाम् अपि वृत्ति-साम्याद् व्रात्यत्वम् इति।
+यद् एषाम् अपि वृत्ति-साम्याद् व्रात्यत्वम् इति।  
 </details>
 
 <details><summary>English</summary>
@@ -7900,7 +7900,7 @@ and "he must worship Visnu's sanctuaries."'264
 
 <details><summary>मूलम्</summary>
 
-एतेन इदमप्यपास्तं यदेषामपि वृत्तिसाम्याद् व्रात्यत्वमिति।
+एतेन इदमप्यपास्तं यदेषामपि वृत्तिसाम्याद् व्रात्यत्वमिति।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7924,7 +7924,7 @@ For it is one thing to clean the temple, clear away the bali offerings, guard th
 
 अन्ये चाभिगमनोपादानेज्या -स्वाध्याययोगा  
 भागवतैर् अहर्-अहर् अनुष्ठीयमानाः क्रिया-कलापा  
-इति ज्योतिष्टोमादाव् इव ।
+इति ज्योतिष्टोमादाव् इव ।  
 </details>
 
 <details><summary>English</summary>
@@ -7995,7 +7995,7 @@ So here, too, there is a difference between those who perform the pañcakālikā
 </details>
 
 
-### रथ-कारे न व्यभिचारः
+#### रथ-कारे न व्यभिचारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् पुनर् उक्तं -  
@@ -8031,7 +8031,7 @@ So here, too, there is a difference between those who perform the pañcakālikā
 
 > सौधन्वना ऋभवः सूर-चक्षस 
 
-इति मन्त्र-वर्णावगत-जात्यन्तर-वृत्ति-बाध-प्रसङ्गाच् च ।
+इति मन्त्र-वर्णावगत-जात्यन्तर-वृत्ति-बाध-प्रसङ्गाच् च ।  
 </details>
 
 <details><summary>English</summary>
@@ -8050,7 +8050,7 @@ would be invalidated.
 
 <details><summary>मूलम्</summary>
 
-युक्तं हि तत्राधानोत्पत्ति-वाक्यावगत-वसन्तादि-काल-बाध-प्रसङ्गात्, सौधन्वना ऋभवः सूर-चक्षस इति मन्त्र-वर्णावगत-जात्यन्तर-वृत्ति-बाध-प्रसङ्गाच् च ।
+युक्तं हि तत्राधानोत्पत्ति-वाक्यावगत-वसन्तादि-काल-बाध-प्रसङ्गात्, सौधन्वना ऋभवः सूर-चक्षस इति मन्त्र-वर्णावगत-जात्यन्तर-वृत्ति-बाध-प्रसङ्गाच् च ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8140,7 +8140,7 @@ therefore we can only conclude that in both cases different castes are denoted b
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चेह तथा विरोधो ऽस्ति ।
+न चेह तथा विरोधो ऽस्ति ।  
 </details>
 
 <details><summary>English</summary>
@@ -8151,21 +8151,21 @@ and so there is no conflict (here).
 
 <details><summary>मूलम्</summary>
 
-न चेह तथा विरोधो ऽस्ति ।
+न चेह तथा विरोधो ऽस्ति ।  
 </details>
 
-### अवयव-शक्ति-प्राधान्यम्
+#### अवयव-शक्ति-प्राधान्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च ।  
 
 कॢप्तावयव-शक्त्यैव  
-**लब्धे** स्वार्थावबोधने ।
+**लब्धे** स्वार्थावबोधने ।  
 नष्टावयव-मानत्वं  
 **प्रत्याचष्ट** च सूत्रकृत् ॥  
 प्रोक्षणीष्व् अर्थ-संयोगाद् 
 
-इति ।
+इति ।  
 </details>
 
 <details><summary>English</summary>
@@ -8180,17 +8180,17 @@ Moreover, when knowledge of the thing meant by a word is obtained from the denot
 
 <details><summary>मूलम्</summary>
 
-अपि च ।
-कॢप्तावयव-शक्त्यैव लब्धे स्वार्थावबोधने ।
+अपि च ।  
+कॢप्तावयव-शक्त्यैव लब्धे स्वार्थावबोधने ।  
 नष्टावयवमानत्वं प्रत्याचष्ट च सूत्रकृत् ॥  
-प्रोक्षणीष्व् अर्थ-संयोगाद् इति ।
+प्रोक्षणीष्व् अर्थ-संयोगाद् इति ।  
 </details>
 
-### निगमनम्
+#### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश् च सत्त्वाद् भगवान्  
-भज्यते यैः परः पुमान् ।
+भज्यते यैः परः पुमान् ।  
 ते सात्त्वता भागवता  
 इत्य् उच्यन्ते द्विजोत्तमाः ॥
 </details>
@@ -8203,14 +8203,14 @@ Therefore, those emine~nt brahmins are called sāttvatas and bhāgavatas who bec
 
 <details><summary>मूलम्</summary>
 
-ततश् च सत्त्वाद् भगवान् भज्यते यैः परः पुमान् ।
+ततश् च सत्त्वाद् भगवान् भज्यते यैः परः पुमान् ।  
 ते सात्त्वता भागवता इत्युच्यन्ते द्विजोत्तमाः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मृत्य्-अन्तराणि च भागवतानाम् उत्कृष्ट-ब्राह्मण्य-प्रतिपादकानीति  
-परस्तात् प्रदर्शयिष्यन्ते ।
+परस्तात् प्रदर्शयिष्यन्ते ।  
 </details>
 
 <details><summary>English</summary>
@@ -8220,7 +8220,7 @@ Later on we shall show that other smṛtis set forth the eminent brahminhood of 
 
 <details><summary>मूलम्</summary>
 
-स्मृत्यन्तराणि च भागवतानाम् उत्कृष्ट-ब्राह्मण्य-प्रतिपादकानीति परस्तात् प्रदर्शयिष्यन्ते ।
+स्मृत्यन्तराणि च भागवतानाम् उत्कृष्ट-ब्राह्मण्य-प्रतिपादकानीति परस्तात् प्रदर्शयिष्यन्ते ।  
 </details>
 
 ### पृथङ्-निर्देशः
@@ -8232,7 +8232,7 @@ Later on we shall show that other smṛtis set forth the eminent brahminhood of 
 किम् इति सात्त्वत-भागवतैकान्तिक-शब्दैर् एवैतेषां नियमेन व्यपदेश 
 
 इति,  
-तत् परिव्राजक-निगदादिवद् इत्य् अदोषः ।
+तत् परिव्राजक-निगदादिवद् इत्य् अदोषः ।  
 </details>
 
 <details><summary>English</summary>
@@ -8244,7 +8244,7 @@ Later on we shall show that other smṛtis set forth the eminent brahminhood of 
 
 <details><summary>मूलम्</summary>
 
-यत् पुनर् उक्तं समाने ब्राह्मण्ये किम् इति सात्त्वत-भागवतैकान्तिक-शब्दैर् एवैतेषां नियमेन व्यपदेश इति, तत् परिव्राजक-निगदादिवद् इत्य् अदोषः ।
+यत् पुनर् उक्तं समाने ब्राह्मण्ये किम् इति सात्त्वत-भागवतैकान्तिक-शब्दैर् एवैतेषां नियमेन व्यपदेश इति, तत् परिव्राजक-निगदादिवद् इत्य् अदोषः ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8292,7 +8292,7 @@ the nigadas take place, not the yajuḥ formulae;"271
 > निगदाश् चतुर्थं मन्त्र-जातं  
 यजूंषि वा तद्-रूपत्वाद् 
 
-इति न्यायाभिधानात् ।
+इति न्यायाभिधानात् ।  
 </details>
 
 <details><summary>English</summary>
@@ -8305,7 +8305,7 @@ and this is so because of the interpretation:
 
 <details><summary>मूलम्</summary>
 
-तथेहापि भविष्यति, निगदाश् चतुर्थं मन्त्र-जातं यजूंषि वा तद्रूपत्वाद् इति न्यायाभिधानात् ।
+तथेहापि भविष्यति, निगदाश् चतुर्थं मन्त्र-जातं यजूंषि वा तद्रूपत्वाद् इति न्यायाभिधानात् ।  
 </details>
 
 
@@ -8319,181 +8319,892 @@ and this is so because of the interpretation:
 तत्र प्रतिविधीयते ॥
 </details>
 
+<details><summary>English</summary>
+
+132\. The contention that the bhāgavatas are bad brahmins because they perform pūjā to the God, partake of the offering substance etc. for a livelihood, is countered in the following manner: 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
-वृत्त्यर्थं देवता-पूजा-नैवेद्य-प्राशनादिभिः ।
+वृत्त्यर्थं देवता-पूजा-नैवेद्य-प्राशनादिभिः ।  
 दौर्ब्राह्मण्यं यद् अप्य् उक्तं तत्र प्रतिविधीयते ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**न** हि भागवतैस् सर्वैर्  
+वृत्तये **ऽभ्यार्चितो** हरिः ।  
+दृष्टा हि बहवस् स्वार्थं  
+**पूजयन्तो** ऽपि सात्त्वताः ॥
+</details>
+
+<details><summary>English</summary>
+
+Surely not all bhāgavatas worship Hari for their profession, for many Sātvatas are found who perform pūjā for themselves. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि भागवतैस् सर्वैर् वृत्तये ऽभ्यार्चितो हरिः ।  
+दृष्टा हि बहवस् स्वार्थं पूजयन्तो ऽपि सात्त्वताः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+केचिद् यदि परं सन्तः  
+सात्त्वता वृत्ति-कार्शिताः ।  
+**याजयन्ति** महा-भागैर्  
+वैष्णवैर् वृत्ति-कारणात् ॥
+</details>
+
+<details><summary>English</summary>
+
+If there are certain people who, while being Sātvatas, follow a reprehensible profession and perform sacrifices for respectable bhāgavatas professionally, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+केचिद् यदि परं सन्तः सात्त्वता वृत्ति-कार्शिताः ।  
+याजयन्ति महा-भागैर् वैष्णवैर् वृत्ति-कारणात् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तावतैषां ब्राह्मण्यं  
+शक्यं नास्तीति भाषितुम् ।  
+न खल्व् आध्वर्यवं कुर्वन्  
+ज्योतिष्टोमे पतिष्यति ॥
+</details>
+
+<details><summary>English</summary>
+
+this fact alone does not mean that one may say that they are not brahmins. A vedic priest who officiates as an adhvaryu at a jyotiṣṭoma does not thereby lose caste. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न तावतैषां ब्राह्मण्यं शक्यं नास्तीति भाषितुम् ।  
+न खल्व् आध्वर्यवं कुर्वन् ज्योतिष्टोमे पतिष्यति ॥
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि **न प्रतिगृह्णीयुः**  
+पूजैवाविफला भवेत् ।  
+पूजा-साद्गुण्य-सिद्ध्य्-अर्थम्  
+अतस् ते **प्रतिगृह्णते** ॥
+</details>
+
+<details><summary>English</summary>
+
+If the priest were not to receive fees, the pūjā itself would remain fruitless; they take fees in order to realize completely the excellence of the pūjā. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदि न प्रतिगृह्णीयुः पूजैवाविफला भवेत् ।  
+पूजा-साद्गुण्य-सिद्ध्यर्थम् अतस् ते प्रतिगृह्णते ॥
 
 </details>
 
 
-न हि भागवतैस् सर्वैर् वृत्तये ऽभ्यार्चितो हरिः ।
-दृष्टा हि बहवस् स्वार्थं पूजयन्तो ऽपि सात्त्वताः ॥
-केचिद् यदि परं सन्तः सात्त्वता वृत्ति-कार्शिताः ।
-याजयन्ति महा-भागैर् वैष्णवैर् वृत्ति-कारणात् ॥
-न तावतैषां ब्राह्मण्यं शक्यं नास्तीति भाषितुम् ।
-न खल्व् आध्वर्यवं कुर्वन् ज्योतिष्टोमे पतिष्यति ॥
-यदि न प्रतिगृह्णीयुः पूजैवाविफला भवेत् ।
-पूजा-साद्गुण्य-सिद्ध्यर्थम् अतस् ते {{प्रतिगृह्णते|प्रतिगृह्णन्ति}} ॥
-अर्चनान्ते हिरण्यं च तस्मै देयं स्व-शक्तितः ।
-अन्यथा पूजकस्यैव तत्र पूजा-फलं भवेत् ॥
-हन्त्यल्प-दक्षिणो यज्ञ इत्यादि-स्मृति-दर्शनात् ।
-ऋत्विजा द्रव्य-लुब्धेन स्वयं याञ्चा-पुरस्सरम् ॥
-यद् आर्त्विज्यं कृतं कर्म तद् एव हि निषिध्यते ।
-तद् यथा यदाशंसमानम् आर्त्विज्यं कारयन्त्युत वा मे दद्याद् उत वा मा वृणीत इति तद् ध तत् परागेव यथा जग्धं न हैवं त्यज्यमानं भुनक्ति ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्चनान्ते हिरण्यं च  
+तस्मै देयं स्व-शक्तितः ।  
+अन्यथा पूजकस्यैव  
+तत्र पूजा-फलं भवेत् ॥+++(5)+++  
+हन्त्य् अल्प-दक्षिणो यज्ञ  
+इत्य्-आदि-स्मृति-दर्शनात् ।  
+</details>
+
+<details><summary>English</summary>
+
+At the conclusion of the worship one must give gold to the priest according to capacity; otherwise the fruit will go to the pūjā priest himself,  
+as is shown by the smṛti: "A sacrifice for which a small fee is given kills (the sacrificer)."272 
+
+272: cf. Manu, 11\.40\.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अर्चनान्ते हिरण्यं च तस्मै देयं स्व-शक्तितः ।  
+अन्यथा पूजकस्यैव तत्र पूजा-फलं भवेत् ॥  
+हन्त्यल्प-दक्षिणो यज्ञ इत्यादि-स्मृति-दर्शनात् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऋत्विजा द्रव्य-लुब्धेन  
+स्वयं याञ्चा-पुरस्सरम् ॥  
+यद् आर्त्विज्यं कृतं कर्म  
+तद् एव हि निषिध्यते ।  
+</details>
+
+<details><summary>English</summary>
+
+It is however prohibited that a covetous Vedic priest officiate as a priest after he himself has put up his demands for a fee, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऋत्विजा द्रव्य-लुब्धेन स्वयं याञ्चा-पुरस्सरम् ॥  
+यद् आर्त्विज्यं कृतं कर्म तद् एव हि निषिध्यते ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् यथा 
+
+> यद् आशंसमानम् आर्त्विज्यं कारयन्त्य्  
+> 
+> > उत वा मे दद्याद्  
+उत वा मा वृणीत  
+> 
+> इति  
+तद् ध तत् पराग् एव यथा जग्धं,  
+न हैवं तद् यज्यमानं भुनक्ति ।  
+
+इति,+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+e.g. in the statement: 
+
+> ("There is an error called 'garbage"").  
+> When the sacrificer appoints as an officiant priest  
+who covets the office, thinking either  
+"He should give me (a fee)"  
+or "He should choose me."  
+"This is as far from the sacrificer as garbage; this does not benefit the sacrificer."273 
+
+273: AitBr., 3\.46\.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद् यथा 
+
+> यद् आशंसमानम् आर्त्विज्यं कारयन्त्य्  
+> 
+> > उत वा मे दद्याद्  
+उत वा मा वृणीत  
+> 
+> इति  
+तद् ध तत् पराग् एव।  
+यथा जग्धं (वान्तं) न हैवं तद्यज्यमानं भुनक्ति ।  
+
 इति,
+</details>
 
-श्रद्धा-पूत-दक्षिणा-दानं तूभयोर् अपि श्रेयस्करम् एव ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रद्धा-पूत-दक्षिणा-दानं  
+तूभयोर् अपि श्रेयस्करम् एव ।  
+</details>
+
+<details><summary>English</summary>
+
+The donation of the sacerdotal fee which is purified by faith is felicitous for both, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रद्धापूतदक्षिणादानं तूभयोरपि श्रेयस्करमेव ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+योऽर्चितं **प्रतिगृह्णाति**  
+**दद्याद्** अर्चितम् एव च ॥
+ताव् उभौ **गच्छतः** स्वर्गम्  
+इत्यादि-स्मृति-दर्शनात् ।  
+</details>
+
+<details><summary>English</summary>
+
+as according to the smṛti, "He who receives the offering and he who {{deit|gives it}} both go to heaven."274
+
+274: not identified.  
+
+[[112]]
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 योऽर्चितं प्रतिगृह्णाति दद्याद् अर्चितम् एव च ॥
-ताव् उभौ गच्छतः स्वर्गम् इत्यादि-स्मृति-दर्शनात् ।
-यद् अपि वृत्त्यर्थं देव-पूजनाद् देवकोशोपजीवित्वाच् च देवलकत्व-प्राप्तिर् इति, {{तदषि|तद् अपि}} देवतान्तर-वृत्त्यर्थाराधन-तत्कोशोपजीवन-विषयम् इति द्रष्टव्यम् ।
-तथा च भगवान् व्यासः ।
-भवेद् देवलको यो वै रुद्रकाद्युपजीवकः इति, अपि भवति शाण्डिल्य-वचनम् ।
-वृत्त्यर्थं याजिनस् सर्वे दीक्षा-हीनाश् च केवलम् ।
-कर्म-देवलका एते स्मृता ह्यत्र पुरा मुने ॥
-तान् श् च संवत्सराद् ऊर्ध्वं न स्पृशेन् न च संविशेत् ।
-तथा ।
-कल्प-देवलकाः केचित् कर्म-देवलका अपि ।
-अथ त्रिवर्षाद् ऊर्ध्वम् अयोग्या देव-कर्मणि ॥
-ये कल्पोक्तं प्रकुर्वन्ति दीक्षा-हीना द्वि-जातयः ।
-वृत्त्यर्थं वा यशोऽर्थं वा कल्प-देवलकास् तु ते ॥
-वृत्तिं कृत्वा तु विप्रेण दीक्षितेन विधानतः ।
-अन्येन {{यूजयेद्देवमशक्तः|याजयेद् देवम् अशक्तः}} स्वयम् अर्चने ॥
-यजनं मुख्यम् एवैतद् गौणम् एवान्यथा भवेत् ।
-अन्यथा इत्य् अदीक्षितेन इत्य् अर्थः, तद् एव स्पष्टयति अदीक्षितेन विप्रेण येन केन विधानतः ।
-वृत्त्यर्थं यत् कृतं कर्म तज् जघन्यम् उदाहृतम् ॥
+ताव् उभौ गच्छतः स्वर्गम् इत्यादि-स्मृति-दर्शनात् ।  
+</details>
 
-इत्यादि-स्मृति-शत-पर्यालोचनात् पञ्चरात्र-सिद्ध-दीक्षा-संस्कार-विरहितानां ब्राह्मणानां देवकोशोपजीवन-वृत्त्यर्थ-पूजनादिकम् उपब्राह्मणत्व-देवलकत्वावहम् इति निश्चीयते, यत् पुनश् शिष्ट-विगर्हित-निर्माल्य-निवेद्योपयोगाद् भागवतानाम् अशिष्टत्वम् इति ।
-तत्र ब्रूमः किम् इदं निर्माल्यं निवेद्यं चाभिप्रेतं श्रोत्रियस्य ।
-पुष्पौदनादि-मात्रं चेत् सर्वलोकाविरुद्धता ।
+### देवालकता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अपि 
+
+> वृत्त्यर्थं देव-पूजनाद् देवकोशोपजीवित्वाच् च देवलकत्व-प्राप्तिर् 
+
+इति,  
+</details>
+
+<details><summary>English</summary>
+
+133\. The statements that professional worship of the deity and living off the god's treasure makes a man a devalaka275 
+
+275: supra § 16\.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद् अपि वृत्त्यर्थं देव-पूजनाद् देवकोशोपजीवित्वाच् च देवलकत्व-प्राप्तिर् इति,  
+</details>
+
+#### देवतान्तर-वृत्तौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् अपि देवतान्तर-वृत्त्य्-अर्थाराधन- तत्-कोशोपजीवन-विषयम् इति द्रष्टव्यम् ।  
+</details>
+
+<details><summary>English</summary>
+
+must be taken to refer to the professional worship of, and the living off the treasure of, other deities than Vāsudeva. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद् अपि देवतान्तर-वृत्त्यर्थाराधन-तत्कोशोपजीवन-विषयम् इति द्रष्टव्यम् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च भगवान् व्यासः -  
+
+> भवेद् देवलको यो वै  
+रुद्रकाद्य्-उपजीवकः  
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+Thus the blessed Vyāsa: "A devalaka is he who lives on Rudra etc." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा च भगवान् व्यासः -  
+भवेद् देवलको यो वै रुद्रकाद्युपजीवकः  
+इति, 
+</details>
+
+#### दीक्षा-हीनाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि भवति शाण्डिल्य-वचनम् -  
+
+> वृत्त्यर्थं याजिनस् सर्वे  
+दीक्षा-हीनाश् च केवलम् ।  
+कर्म-देवलका एते  
+स्मृता ह्यत्र पुरा मुने ॥  
+तांश् च संवत्सराद् ऊर्ध्वं  
+न स्पृशेन् न च संविशेत् ।  
+</details>
+
+<details><summary>English</summary>
+
+And there is also Śāṇḍilya's word: 
+
+> "All those who perform sacrifices professionally  
+and are also not consecrated  
+are the only ones who are traditionally known as karmadevalakas in this world, O sage.  
+One should not touch them or consort with them for a year." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि भवति शाण्डिल्य-वचनम् -  
+वृत्त्यर्थं याजिनस् सर्वे दीक्षा-हीनाश् च केवलम् ।  
+कर्म-देवलका एते स्मृता ह्यत्र पुरा मुने ॥
+तांश् च संवत्सराद् ऊर्ध्वं न स्पृशेन् न च संविशेत् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा  
+
+> कल्प-देवलकाः केचित्  
+कर्म-देवलका अपि ।  
+अथ त्रिवर्षाद् ऊर्ध्वम्  
+अयोग्या देव-कर्मणि ॥
+</details>
+
+<details><summary>English</summary>
+
+Likewise: 
+
+> "Certain people who are karmadevalakas and kalpadevalakas are unqualified for ritual before the deity for a period of three years. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा ।  
+कल्प-देवलकाः केचित् कर्म-देवलका अपि ।  
+अथ त्रिवर्षाद् ऊर्ध्वम् अयोग्या देव-कर्मणि ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ये कल्पोक्तं प्रकुर्वन्ति  
+दीक्षा-हीना द्वि-जातयः ।  
+वृत्त्य-र्थं वा यशोऽर्थं वा  
+**कल्प-देवलकास्** तु ते ॥
+</details>
+
+<details><summary>English</summary>
+
+Those brahmins who, without being consecrated, perform rites set forth in the Kalpa, either professionally or for the fame of it, are kalpadevalakas. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ये कल्पोक्तं प्रकुर्वन्ति दीक्षा-हीना द्वि-जातयः ।  
+वृत्त्यर्थं वा यशोऽर्थं वा कल्प-देवलकास् तु ते ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> +++(कस्यचिद् विप्रस्य)+++ वृत्तिं **कृत्वा**, तु विप्रेण  
+दीक्षितेन विधानतः ।  
+अन्येन **याजयेद्** देवम्  
+अशक्तः स्वयम् अर्चने ॥  
+यजनं मुख्यम् एवैतद्  
+गौणम् एवान्यथा भवेत् ।  
+</details>
+
+<details><summary>English</summary>
+
+One must have pūjā offered by another professional priest who has been properly consecrated; (if) one is unable to worship the god oneself.   
+This is the principal offering; in another manner it is secondary." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वृत्तिं कृत्वा तु विप्रेण दीक्षितेन विधानतः ।  
+अन्येन याजयेद् देवम् अशक्तः स्वयम् अर्चने ॥  
+यजनं मुख्यम् एवैतद् गौणम् एवान्यथा भवेत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यथा +++(←गौणाराधनम्)+++ +इत्य् अदीक्षितेन +इत्य् अर्थः,  
+</details>
+
+<details><summary>English</summary>
+
+"In another manner,' that is to say, when it is done by a non-consecrated priest. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यथा +इत्य् अदीक्षितेन +इत्य् अर्थः,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् एव स्पष्टयति -  
+
+> अदीक्षितेन विप्रेण  
+येन केन विधानतः ।  
+वृत्त्य्-अर्थं यत् कृतं कर्म  
+तज् जघन्यम् उदाहृतम् ॥
+</details>
+
+<details><summary>English</summary>
+
+This the author elucidates: 
+
+> "The rite performed professionally by 'some priest who has not been properly consecrated is called of the lowest degree." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद् एव स्पष्टयति -  
+अदीक्षितेन विप्रेण येन केन विधानतः ।  
+वृत्त्यर्थं यत् कृतं कर्म तज् जघन्यम् उदाहृतम् ॥
+</details>
+
+
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्यादि-स्मृति-शत-पर्यालोचनात्  
+
+> पञ्चरात्र-सिद्ध-दीक्षा-संस्कार-विरहितानां ब्राह्मणानां  
+देवकोशोपजीवन-वृत्त्यर्थ-पूजनादिकम् उपब्राह्मणत्व-देवलकत्वावहम् 
+
+इति निश्चीयते। 
+</details>
+
+<details><summary>English</summary>
+
+By considering these and a hundred similar smṛti statements we can be sure that living off the deity's treasure and professional pūjā offering of brahmins who go without the sacrament of consecration as established by Pañcaratra renders them sub-Brahmins and devalakas.276
+
+276: This and the following quotations could not be identified.  
+
+[[113]]
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादि-स्मृति-शत-पर्यालोचनात् पञ्चरात्र-सिद्ध-दीक्षा-संस्कार-विरहितानां ब्राह्मणानां देवकोशोपजीवन-वृत्त्यर्थ-पूजनादिकम् उपब्राह्मणत्व-देवलकत्वावहम् इति निश्चीयते। 
+</details>
+
+### निर्माल्योपयोगाद् अशिष्टता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् पुनश् 
+
+> शिष्ट-विगर्हित-निर्माल्य-निवेद्योपयोगाद् भागवतानाम् अशिष्टत्वम् 
+
+इति -  
+तत्र ब्रूमः  
+किम् इदं निर्माल्यं, निवेद्यं चाभिप्रेतं श्रोत्रियस्य ?
+</details>
+
+<details><summary>English</summary>
+
+134\. As to the statement that the bhāgavatas cannot pass for exemplary persons because they make use of flower and food offerings, which practice is abhorred by exemplary persons, to this we say: what does the śrotriya 277 mean by left-over flowers and leftover food? 
+
+277: a Brahman erudite in the Veda and following its observances.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत् पुनश् शिष्ट-विगर्हित-निर्माल्य-निवेद्योपयोगाद् भागवतानाम् अशिष्टत्वम् इति -  
+तत्र ब्रूमः किम् इदं निर्माल्यं निवेद्यं चाभिप्रेतं श्रोत्रियस्य ?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(विग्रहायार्पणस्यानङ्गीकारात्)+++  
++++(निवेदनाद्य्-अविशिष्टं)+++ पुष्पौदनादि-मात्रं चेत्  
+सर्व-लोक-विरुद्धता ।  
+पुष्पौदन-परित्यागं  
+न हि लोकोऽनुमन्यते ॥
+</details>
+
+<details><summary>English</summary>
+
+When he takes it only as the flowers and the cakes,278 he is contradicted by all the world, for nobody approves of wasting flowers and cakes. 
+
+278: If he does not believe that God is present in the effigy, the offerings are obviously not used and cannot be characterized as left-overs. The priest's avoidance of them would simply amount to sinful waste.+++(4)+++  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुष्पौदनादि-मात्रं चेत् सर्वलोकविरुद्धता ।  
 पुष्पौदन-परित्यागं न हि लोकोऽनुमन्यते ॥
-विशिष्ट-प्रतिषेधोऽपि न युक्तस् तदसिद्धितः ।
-न ह्यनिरूपित-विशेषणा विशिष्ट-बुद्धिर् आविर् अस्ति, न चेह विशेषणं निरूपयितुं शक्यते, किम् इति न शक्यते यावता देवोद्देशेन परित्यागो विशेषणम्, किम् इदानीं पञ्चरात्र-शास्त्रम् अपि प्रमाणम् अङ्गीकृतं भवता येन पञ्चरात्र-तन्त्र-विहित-मन्त्र-प्रतिष्ठापित-प्रतिमासु देवताम् अभ्युपेत्य तदुद्देशेन त्यागो विशेषणम् अभिलष्यते, कथं हि तत्प्रामाण्यानभ्युपगमे तत्प्रतिपाद्यमानाया देवतात्वम्, कथन्तरां च तदुद्देशेन त्यक्तस्य निर्माल्य-निवेद्य-भावः, न हि काचिज् जात्या देवता नामास्ति, यैव हि हविः-प्रतियोगितया प्रमाण-भूताच् शब्दाद् अवगम्यते सा तत्र देवता इति हि वः सिद्धान्तः ।
-अथ पञ्चरात्रिकैर् देवतोद्देशेन परित्यक्तत्वाभ्युपगमान् निर्माल्य-निवेद्य-भावः, हन्त तर्हि, तैर् एव परम-पावनतयाऽपि निर्माल्य-निवेद्योपयोगस्याङ्गीकृतत्वात् तद्वद् एव पावनत्वम् अङ्गीक्रियताम् ।
-अथापावनम् एव तैः पावन-बुद्ध्या परिगृहीतम् इति न तत् {{प्राशत्यमङ्गीक्रियते|प्राशस्त्यम् अङ्गीक्रियते}}, हन्त तर्ह्यदेवतैव देवताबुद्ध्यारोपेण तैः परिगृहीतेति न तदुद्देशेन त्यक्तस्य निर्माल्य-निवेद्य-भावोऽङ्गीक्रियताम् ।
-एतद् उक्तं भवति पुष्पौदनादि-स्वरूप-मात्र-त्यागस्यानिष्टत्वात् स्व-दर्शनानुसारेण च विशेषणासंभवात् पर-दर्शनानुसारेण विशेषण-निरूपणे तस्यैव परम-पावनत्वापातात् तत्र प्रामाण्यम् अभ्युपगच्छद्भिर् अन्यैश् च निर्माल्य-निवेद्योपयोगोऽवश्याङ्गीकरणीय इति ।
-आह कथं पुनस् तत्र प्रामाण्यम् अङ्गीकुर्वता निर्माल्यं निवेद्यं च न परिहरणीयम् ।
-निषिध्यते हि तन्त्रेषु निर्माल्य-प्राशनादिकम् ।
-यथा सनत्-कुमारीय-संहितायाम् उदीरितम् ।
-निवेदितं तु यद् धव्यं पुष्पं फलम् अथापि वा ।
+</details>
+  
+
+##### कौमारीलादि-पक्षे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(देव-निवेदन-)+++विशिष्ट-प्रतिषेधोऽपि  
+न युक्तस् तद्-असिद्धितः +++(आक्षेपक-मते)+++ ।  
+</details>
+
+<details><summary>English</summary>
+
+Also, a particularized prohibition is not in order, because it is not established. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विशिष्ट-प्रतिषेधोऽपि न युक्तस् तदसिद्धितः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् अनिरूपित-विशेषणा विशिष्ट-बुद्धिर् आविर् अस्ति, 
+</details>
+
+<details><summary>English</summary>
+
+No notion of a particularized thing occurs when the particularization is not determined; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न ह्यनिरूपित-विशेषणा विशिष्ट-बुद्धिर् आविर् अस्ति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चेह विशेषणं निरूपयितुं शक्यते। 
+</details>
+
+<details><summary>English</summary>
+
+and here it is impossible to determine the particularization. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चेह विशेषणं निरूपयितुं शक्यते, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> किम् इति न शक्यते -  
+यावता देवोद्देशेन परित्यागो विशेषणम्।  
+</details>
+
+<details><summary>English</summary>
+
+> OBJECTION. Why should it be impossible, since the particularization is that it is forbidden to use food what has been offered up to the deity? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> किम् इति न शक्यते -  
+यावता देवोद्देशेन परित्यागो विशेषणम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किम् इदानीं पञ्चरात्र-शास्त्रम् अपि प्रमाणम् अङ्गीकृतं भवता  
+येन पञ्चरात्र-तन्त्र-विहित-मन्त्र-प्रतिष्ठापित-प्रतिमासु देवताम् अभ्युपेत्य  
+तद्-उद्देशेन त्यागो विशेषणम् अभिलष्यते? 
+</details>
+
+<details><summary>English</summary>
+
+REPLY. Are you now accepting the validity of Pañcaratra? For only when one admits that there is a deity present in the idols that are erected with the sacred formulae enjoined by Pañcaratra Tantra can one postulate that the particularization of the prohibition lies in the offering-up to the deity. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किमिदानीं पञ्चरात्रशास्त्रमपि प्रमाणमङ्गीकृतं भवता  
+येन पञ्चरात्रतन्त्रविहितमन्त्रप्रतिष्ठापितप्रतिमासु देवतामभ्युपेत्य  
+तदुद्देशेन त्यागो विशेषणमभिलष्यते? 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कथं हि तत्-प्रामाण्यानभ्युपगमे  
+तत्-प्रतिपाद्यमानाया देवतात्वम्,  
+कथन्तरां च तद्-उद्देशेन त्यक्तस्य निर्माल्य-निवेद्य-भावः? 
+</details>
+
+<details><summary>English</summary>
+
+For unless the validity of the Tantra is admitted, how can an idol which is set forth in the Tantra be a deity, and, a fortiori, how can the substance that is offered up for this deity's sake be nirmālya and nivedya, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कथं हि तत्प्रामाण्यानभ्युपगमे तत्प्रतिपाद्यमानाया देवतात्वम्, 
+कथन्तरां च तदुद्देशेन त्यक्तस्य निर्माल्य-निवेद्य-भावः, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न हि काचिज् जात्या देवता नामास्ति,  
+यैव हि हविः-प्रतियोगितया +++(न तद्-अन्तरा)+++ प्रमाण-भूताच् शब्दाद् अवगम्यते  
+सा तत्र देवता 
+
+इति हि वः सिद्धान्तः ।  +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+> For a deity does not exist by just being a deity;  
+only that deity which is known to be correlated with an oblation on the authority of scriptural testimony is the deity to that oblation; 
+
+that is your own doctrine.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि काचिज् जात्या देवता नामास्ति, यैव हि हविः-प्रतियोगितया प्रमाण-भूताच् शब्दाद् अवगम्यते सा तत्र देवता इति हि वः सिद्धान्तः ।  
+</details>
+
+##### पाञ्चरात्रिक-पक्षे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ 
+
+> पञ्चरात्रिकैर् देवतोद्देशेन परित्यक्तत्वाभ्युपगमान्  
+निर्माल्य-निवेद्य-भावः, 
+</details>
+
+<details><summary>English</summary>
+
+Or if it be held that 
+
+> something is nirmālya and nivedya because it is admitted by the Pāñcarātrikas that it is offered up to the deity, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथ पञ्चरात्रिकैर् देवतोद्देशेन परित्यक्तत्वाभ्युपगमान् निर्माल्य-निवेद्य-भावः, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हन्त तर्हि,  
+तैर् एव परम-पावनतयाऽपि निर्माल्य-निवेद्योपयोगस्याङ्गीकृतत्वात्  
+तद्वद् एव पावनत्वम् अङ्गी क्रियताम् ।  
+</details>
+
+<details><summary>English</summary>
+
+well, in that case you must also admit its purity because the Pāñcarātrikas accept also that the utilization of nirmālya and nivedya is perfectly pure.
+</details>
+
+<details><summary>मूलम्</summary>
+
+हन्त तर्हि, तैर् एव परम-पावनतयाऽपि निर्माल्य-निवेद्योपयोगस्याङ्गीकृतत्वात् तद्वद् एव पावनत्वम् अङ्गीक्रियताम् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथापावनम् एव तैः +++(पाञ्चरात्र-मोहितैः)+++ पावन-बुद्ध्या परिगृहीतम् इति न तत् प्राशस्त्यम् अङ्गीक्रियते, 
+</details>
+
+<details><summary>English</summary>
+
+Or if you do not accept this peculiar excellence, since in your opinion the Pāñcarātrikas have accepted as pure something that is really impure,
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथापावनम् एव तैः पावन-बुद्ध्या परिगृहीतम् इति न तत् प्राशस्त्यम् अङ्गीक्रियते, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हन्त तर्ह्य् अ-देवतैव देवता-बुद्ध्यारोपेण तैः परिगृहीतेति  
+न तद्-उद्देशेन त्यक्तस्य निर्माल्य-निवेद्य-भावो ऽङ्गीक्रियताम् । +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+—well, in that case you must accept it that the substance which is offered up is not really nirmālya and nivedya, since then you opine that the Pañcarātrikas have adopted someone who is not really a deity by mistaking him for a deity!
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+हन्त तर्ह्यदेवतैव देवताबुद्ध्यारोपेण तैः परिगृहीतेति न तदुद्देशेन त्यक्तस्य निर्माल्य-निवेद्य-भावोऽङ्गीक्रियताम् ।  
+</details>
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतद् उक्तं भवति 
+
+- पुष्पौदनादि-स्वरूप-मात्र-त्यागस्यानिष्टत्वात्,  
+- स्व-दर्शनानुसारेण च विशेषणासंभवात्  
+- पर-दर्शनानुसारेण विशेषण-निरूपणे  
+  तस्यैव परम-पावनत्वापातात्  
+
+तत्र प्रामाण्यम् अभ्युपगच्छद्भिर् अन्यैश् च  
+निर्माल्य-निवेद्योपयोगो ऽवश्याङ्गीकरणीय  
+इति । +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+In other words, inasmuch as the ~~offering up~~ abandonment of mere flowers, cakes etc. 289 is not approved,  
+and because it is impossible to particularize the prohibition of utilizing these substances according to the terms of one's own doctrine,  
+therefore the particularization must be determined in the terms of the others', i.e. the Pañcarātrikas', doctrine;  
+and thus the offering up becomes greatly purifying.  
+And inasmuch as therefore the utilization of nirmālya and nivedya becomes most purifying,  
+it must needs be accepted by those who admit the validity of the Pañcarātra Tantra as well by others who do not.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतद् उक्तं भवति पुष्पौदनादि-स्वरूप-मात्र-त्यागस्यानिष्टत्वात् स्व-दर्शनानुसारेण च विशेषणासंभवात् पर-दर्शनानुसारेण विशेषण-निरूपणे तस्यैव परम-पावनत्वापातात् तत्र प्रामाण्यम् अभ्युपगच्छद्भिर् अन्यैश् च निर्माल्य-निवेद्योपयोगोऽवश्याङ्गीकरणीय इति ।  
+</details>
+
+
+
+
+
+
+
+आह कथं पुनस् तत्र प्रामाण्यम् अङ्गीकुर्वता निर्माल्यं निवेद्यं च न परिहरणीयम् ।  
+निषिध्यते हि तन्त्रेषु निर्माल्य-प्राशनादिकम् ।  
+यथा सनत्-कुमारीय-संहितायाम् उदीरितम् ।  
+निवेदितं तु यद् धव्यं पुष्पं फलम् अथापि वा ।  
 तन् निर्माल्यम् इति प्रोक्तं तत् प्रयत्नेन वर्जयेत् ॥
 
-तथा प्रदेशान्तरे ।
-निर्माल्यं भक्षयित्वैवम् उच्छिष्टम् अगुरोर् अपि ।
+तथा प्रदेशान्तरे ।  
+निर्माल्यं भक्षयित्वैवम् उच्छिष्टम् अगुरोर् अपि ।  
 मासं पयो-व्रतो भूत्वा जपन्न् अष्टाक्षरं सदा ॥
-ब्रह्म-कूर्चं ततः पीत्वा पूतो भवति मानवः ।
-इति, तथा इन्द्र-रात्रे ।
-न चोपजीवेद् देवेशं न निर्माल्यानि भक्षयेत् ।
-तथा ।
+ब्रह्म-कूर्चं ततः पीत्वा पूतो भवति मानवः ।  
+इति, तथा इन्द्र-रात्रे ।  
+न चोपजीवेद् देवेशं न निर्माल्यानि भक्षयेत् ।  
+तथा ।  
 न चोपभोगयोग्यानि निर्माल्यानि कदाचन । (न चोपभोगयोग्यानीति पा. ।)
-इति, तथा संहितान्तरे ।
-निर्माल्यानि न चाश्नीयान् न जिघ्रेन् न च लङ्घयेत् ।
-इति, तदेवम् अनेक-संहिता-समधिगत-निषेधस्य निर्माल्योपभोगस्य कथम् इव पावनत्वाङ्गीकारः, ।
-अत्राह देवम् उद्दिश्य त्यक्तस्यापि च वस्तुनः ।
+इति, तथा संहितान्तरे ।  
+निर्माल्यानि न चाश्नीयान् न जिघ्रेन् न च लङ्घयेत् ।  
+इति, तदेवम् अनेक-संहिता-समधिगत-निषेधस्य निर्माल्योपभोगस्य कथम् इव पावनत्वाङ्गीकारः, ।  
+अत्राह देवम् उद्दिश्य त्यक्तस्यापि च वस्तुनः ।  
 नाडिका-दशकाद् अर्वाग् उपयोगो न निन्द्यते ॥
 
-तथा इन्द्र-रात्रे एव ।
-दश-नाड्याधिकं पूरं स्थापयेत् तु विचक्षणः ।
+तथा इन्द्र-रात्रे एव ।  
+दश-नाड्याधिकं पूरं स्थापयेत् तु विचक्षणः ।  
 कालयोगस् समुद्दिष्टो रात्राव् अहनि चैव हि ॥
-कालयोगातिरिक्तं तु निर्माल्यं परिचक्षते ।
+कालयोगातिरिक्तं तु निर्माल्यं परिचक्षते ।  
 ततस् तद् अप्सु चैवाग्नौ क्षिपेद् भूमौ खनेत् तु वा ॥
 
-इति ।
-उच्यते नात्र निर्माल्य-प्राशनादि प्रशस्यते ।
+इति ।  
+उच्यते नात्र निर्माल्य-प्राशनादि प्रशस्यते ।  
 किं तु पूरण-पूजायां विनियुक्तस्य वस्तुनः ॥
-नाडिका-दशके पूर्णे पश्चात् त्यागो विधीयते ।
-सामान्येन निवेदितस्य पुष्पौदनादेः कृत-कार्यताया निर्माल्यत्वेन अपनये प्राप्ते नाडिका-दश-पूरणं पूजाङ्गतया स्थापनं विधीयते दश-नाड्याधिकं पूरं स्थापयेद् इति ।
-ततश् च तन्त्र-सिद्धान्त-पर्यालोचनयापि वः ।
+नाडिका-दशके पूर्णे पश्चात् त्यागो विधीयते ।  
+सामान्येन निवेदितस्य पुष्पौदनादेः कृत-कार्यताया निर्माल्यत्वेन अपनये प्राप्ते नाडिका-दश-पूरणं पूजाङ्गतया स्थापनं विधीयते दश-नाड्याधिकं पूरं स्थापयेद् इति ।  
+ततश् च तन्त्र-सिद्धान्त-पर्यालोचनयापि वः ।  
 हरिद्रा-चूर्ण-नैवेद्य-पादाम्बु-स्पर्शन-आदिकम् ॥
-न सिद्ध्येत् तन्त्र-सिद्धान्तः क्व नु यूयं क्व चाल्पकाः ।
+न सिद्ध्येत् तन्त्र-सिद्धान्तः क्व नु यूयं क्व चाल्पकाः ।  
 अहो विद्यालवोल्लासि-जिह्वा-ग्रस्त-विचेतसः ॥
-सितासितं वचो भाति सकलङ्केन्दुबिम्बवत् ।
+सितासितं वचो भाति सकलङ्केन्दुबिम्बवत् ।  
 ये हि युष्मद्-विधा मूर्खास् तेषाम् एव निषेध-गीः ॥
-{{सेव्यमानः|सेव्यमानं}} हि तत् सर्वं वैष्णवैर् अधिकारिभिः ।
+{{सेव्यमानः|सेव्यमानं}} हि तत् सर्वं वैष्णवैर् अधिकारिभिः ।  
 अघौघ-ध्वंसनाय अलं सोम-पानम् इवाध्वरे ॥
-अन्येषां हि तद् अस्पृश्यं पुरो-डाशः शुनाम् इव ।
-तद् यथेश्वर-संहितायाम् ।
-दुर्लभो भगवद्-भक्तो लोकेऽस्मिन् पुरुषः सुत ।
+अन्येषां हि तद् अस्पृश्यं पुरो-डाशः शुनाम् इव ।  
+तद् यथेश्वर-संहितायाम् ।  
+दुर्लभो भगवद्-भक्तो लोकेऽस्मिन् पुरुषः सुत ।  
 तत्रापि दुर्लभतरो भावो वै यस्य तत्त्वतः ॥
 
-पादोदकं प्रति {{शुभस्सिद्धान्नै|शुभं सिद्धान्ते?}} (श्रीमद्भागवते यथाऽह भगवन्तं श्रीकृष्णमुद्धवः - तवोच्छिष्ट-भुजो दासास् तव मायां जयेमहि इति ।) च निवेदिते ।
+पादोदकं प्रति {{शुभस्सिद्धान्नै|शुभं सिद्धान्ते?}} (श्रीमद्भागवते यथाऽह भगवन्तं श्रीकृष्णमुद्धवः - तवोच्छिष्ट-भुजो दासास् तव मायां जयेमहि इति ।) च निवेदिते ।  
 स्रगादिके चोपभुक्ते ह्य् उपभोगार्थम् एव च ॥
-अतश् च भाव-हीनानाम् अभक्तानां च षण्मुख ।
+अतश् च भाव-हीनानाम् अभक्तानां च षण्मुख ।  
 निषिद्धं भगवन्मन्त्र-दृक्-पूतम् अखिलं हि यत् ॥ इति,
 
-तथा प्रदेशान्तरे ।
-कुङ्कुमं चन्दनं चैतत् कर्पूरम् अनुलेपनम् ।
+तथा प्रदेशान्तरे ।  
+कुङ्कुमं चन्दनं चैतत् कर्पूरम् अनुलेपनम् ।  
 विष्णु-देह-परामृष्टं तद् वै पावन-पावनम् ॥
 
-इति, तथा पद्मोद्भवे ।
-विष्णु-देह-परामृष्टं यश् चूर्णं शिरसा वहेत् ।
+इति, तथा पद्मोद्भवे ।  
+विष्णु-देह-परामृष्टं यश् चूर्णं शिरसा वहेत् ।  
 सोऽश्वमेध-फलं प्राप्य विष्णु-लोके महीयते ॥
 
-तथेश्वर-संहितायाम् ।
-उपभुक्तस्य सर्वस्य गन्ध-पुष्पादिकस्य च ।
+तथेश्वर-संहितायाम् ।  
+उपभुक्तस्य सर्वस्य गन्ध-पुष्पादिकस्य च ।  
 स्नानादाव् उपयुक्तस्य दधि-क्षीरादिकस्य च ॥
 दूषणं न प्रयोक्तव्यं शब्दैर् अप्रतिपत्तिजैः । (निन्दाऽसूयाद्याविष्कारकारकैरित्यर्थः ।)
 निर्माल्य-बुद्ध्या देवीयं पावनं दूषयन्ति ये ॥
-ते यान्ति नरकं मूढास् तत्प्रभावापलापिनः ।
+ते यान्ति नरकं मूढास् तत्प्रभावापलापिनः ।  
 इति,
 
 यानि पुनर् दीक्षितम् एवाधिकृत्य समयानुशासन-समये निर्माल्योपयोग-निषेध-पराणि वचनानि तानि पारिषदेशोपयोगोत्तर-कालाभिप्रायेण द्रष्टव्यानि । (भगवत्-पारिषदानम् ईशो विष्वक्सेनस् तद्-उपयोगानन्तर-काले निषेध-पराणि द्रष्टव्यानि ।)
-यतो भगवदर्थेन त्यक्तं स्रक्-चन्दनादिकम् ।
+यतो भगवदर्थेन त्यक्तं स्रक्-चन्दनादिकम् ।  
 पश्चाद् अभोग्यतां याति विष्वक्सेन-निवेदनात् ॥
-अत एव निवेद्यादि ततोऽर्वाग् एव सात्त्वतैः ।
+अत एव निवेद्यादि ततोऽर्वाग् एव सात्त्वतैः ।  
 सेव्यते तेन तत् तेषाम् उत्कर्षस्यैव कारणम् ॥
 
-अपि च ।
-देवतान्तर-निर्माल्यं शिष्टैर् इष्टं विगर्हितम् ।
+अपि च ।  
+देवतान्तर-निर्माल्यं शिष्टैर् इष्टं विगर्हितम् ।  
 इदं तु वैदिकत्वेन सोम-पानवद् इष्यते ॥
-ये नाम भगवच्छास्त्र-प्रामाण्यं नानुजानते ।
+ये नाम भगवच्छास्त्र-प्रामाण्यं नानुजानते ।  
 न निरूपयितुं शक्यं तैर् निर्माल्यम् इतीरितम् ॥
-निरूपणेऽपि भगवन्निर्माल्यम् अतिपावनम् ।
+निरूपणेऽपि भगवन्निर्माल्यम् अतिपावनम् ।  
 समस्त-वैदिकाचार्य-वचनैर् अवसीयते ॥
-शब्द-प्रमाणके ह्य् अर्थे यथा-शब्दं व्यवस्थितिः ।
+शब्द-प्रमाणके ह्य् अर्थे यथा-शब्दं व्यवस्थितिः ।  
 न चात्र शब्दो नास्तीति वक्तव्यं बधिरेतरैः ॥
 
-यथा ब्रह्म-पुराणे च पठ्यते ।
-विष्णोर् नैवेद्यकं शुद्धं मुनिभिर् भोज्यम् उच्यते ।
+यथा ब्रह्म-पुराणे च पठ्यते ।  
+विष्णोर् नैवेद्यकं शुद्धं मुनिभिर् भोज्यम् उच्यते ।  
 अन्यन् निवेद्य निर्माल्यं {{मुक्त्वा|भुक्त्वा}} चान्द्रायणं चरेत् ॥
-विष्णु-देह-परामृष्टं माल्यं पाप-हरं शुभम् ।
+विष्णु-देह-परामृष्टं माल्यं पाप-हरं शुभम् ।  
 यो नरश् शिरसा धत्ते स याति परमां गतिम् ॥
 
-एतेन ।
-निर्माल्यं च निवेद्यं च भुक्त्वा चान्द्रायणं चरेत् ।
-इति स्मरणम् अपि रुद्रकाल्यादिविषयम् इत्यावेदितव्यम्, तथा महा-भारते ।
-हृदि ध्यायन् हरिं तस्मै निवेद्य अन्नं समाहितः ।
+एतेन ।  
+निर्माल्यं च निवेद्यं च भुक्त्वा चान्द्रायणं चरेत् ।  
+इति स्मरणम् अपि रुद्रकाल्यादिविषयम् इत्यावेदितव्यम्, तथा महा-भारते ।  
+हृदि ध्यायन् हरिं तस्मै निवेद्य अन्नं समाहितः ।  
 मध्यमानामिकाङ्गुष्ठैर् गृहीत्वान्नम् इतं पुनः ॥
-प्राणाय चेत्यपानाय व्यानाय च ततः परम् ।
+प्राणाय चेत्यपानाय व्यानाय च ततः परम् ।  
 उदानाय समानाय स्वाहेति जुहुयात् क्रमात् ॥
 
-इति, तथा प्रदेशान्तरे ।
-निवेदितं तु यद् देवे तद् दद्याद् ब्रह्म-चारिणे ।
-इति ।
-तथा महा-भारते ।
-पञ्चरात्र-विदो मुख्यास् तस्य गेहे महात्मनः ।
+इति, तथा प्रदेशान्तरे ।  
+निवेदितं तु यद् देवे तद् दद्याद् ब्रह्म-चारिणे ।  
+इति ।  
+तथा महा-भारते ।  
+पञ्चरात्र-विदो मुख्यास् तस्य गेहे महात्मनः ।  
 {{प्रापणं|प्राशनं}} भगवद्-भुक्तं भुञ्जते चाग्र-भोजनम् ॥
 
-इति, तथा च भगवान् शौनकः नैवेद्यं स्वयम् अश्नीयाद् इति, ।
-इत्यादि-स्मृति-शत-सिद्ध-शुद्धि विष्णोर् नैवेद्यं भव-भय-भेदि यो विनिन्देत् ।
-नास्तिक्यात् स्मृति-वचनान्य् उपेक्षमाणस् तज्जिह्वा-विशसनम् एव युक्तम् अत्र ।
-ननु प्राणाग्निहोत्रस्य नैवेद्यं साधनं कथम् ।
+इति, तथा च भगवान् शौनकः नैवेद्यं स्वयम् अश्नीयाद् इति, ।  
+इत्यादि-स्मृति-शत-सिद्ध-शुद्धि विष्णोर् नैवेद्यं भव-भय-भेदि यो विनिन्देत् ।  
+नास्तिक्यात् स्मृति-वचनान्य् उपेक्षमाणस् तज्जिह्वा-विशसनम् एव युक्तम् अत्र ।  
+ननु प्राणाग्निहोत्रस्य नैवेद्यं साधनं कथम् ।  
 निर्-इष्टकं न शिष्टानाम् इष्टं होमादि-साधनम् ॥
-न च द्रव्यान्तराक्षेपो होमायेत्यकल्पते ।
+न च द्रव्यान्तराक्षेपो होमायेत्यकल्पते ।  
 रागतः प्राप्तम् एवान्नं यतस् तेनोपजीव्यते ॥
-नापि भुक्त्यन्तराक्षेपो नैवेद्यायोपपाद्यते ।
+नापि भुक्त्यन्तराक्षेपो नैवेद्यायोपपाद्यते ।  
 सायं-प्रातर् द्वि-जातीनाम् अशनं श्रुति-चोदितम् ॥
-नान्तरा भोजनं कुर्याद् इति तत्-प्रतिषेधनात् ।
+नान्तरा भोजनं कुर्याद् इति तत्-प्रतिषेधनात् ।  
 नैष दोषो यतः प्राण-प्रभृतिर् देवता-गणः ॥
-गुण-भूतः श्रुतो विष्णोर् विष्णुपारिषदेशवत् ।
-यथैव हि भगवन्निवेदितम् अपि पुष्पौदनादि-विष्वक्सेनाय दीयमानं नानौचित्यम् आवहति ।
-यथा वा होतुरुच्छिष्ट एव सोम-रसोऽध्वरे ।
+गुण-भूतः श्रुतो विष्णोर् विष्णुपारिषदेशवत् ।  
+यथैव हि भगवन्निवेदितम् अपि पुष्पौदनादि-विष्वक्सेनाय दीयमानं नानौचित्यम् आवहति ।  
+यथा वा होतुरुच्छिष्ट एव सोम-रसोऽध्वरे ।  
 अध्वर्य्वादेर् विशुद्ध्यै स्याद् एवम् अत्र भविष्यति ॥
 
-अपि च ।
-भोज्याभोज्य-व्यवस्थायाः शास्त्रम् एव निबन्धनम् ।
+अपि च ।  
+भोज्याभोज्य-व्यवस्थायाः शास्त्रम् एव निबन्धनम् ।  
 तत् चेद् भोज्यम् इदं ब्रूते किं वयं विदधीमहि ॥
-यथा अनुष्ठान-तन्त्रत्वं नित्य-काम्य-अग्निहोत्रयोः ।
+यथा अनुष्ठान-तन्त्रत्वं नित्य-काम्य-अग्निहोत्रयोः ।  
 एवं प्राणाग्निहोत्रेऽपि नैवेद्याशनतन्त्रता ॥
 
 
@@ -8696,7 +9407,7 @@ and this is so because of the interpretation:
 इति तत्राप्य् अज्ञानम् एवापराध्यति,  
 न पुनर् आयुष्मतो दोषः,  
 यद् एते वंश-परम्परया वाजसनेय-शाखा-मधीयानाः  
-कात्यायनादि-गृह्योक्त-मार्गेण गर्भाधानादि-संस्कारान् कुर्वते ।
+कात्यायनादि-गृह्योक्त-मार्गेण गर्भाधानादि-संस्कारान् कुर्वते ।  
 </details>
 
 <details><summary>English</summary>
@@ -8713,7 +9424,7 @@ observe the sacraments of conception ceremony etc. according to the manner laid 
 
 <details><summary>मूलम्</summary>
 
-यदप्युक्तं गर्भाधानादिदाहान्तसंस्कारान्तरसेवनाद् भागवतानामब्रह्मण्यमिति तत्राप्यज्ञानमेवापराध्यति, न पुनरायुष्मतो दोषः, यदेते वंशपरम्परया वाजसनेयशाखामधीयानाः कात्यायनादिगृह्योक्तमार्गेण गर्भाधानादिसंस्कारान् कुर्वते ।
+यदप्युक्तं गर्भाधानादिदाहान्तसंस्कारान्तरसेवनाद् भागवतानामब्रह्मण्यमिति तत्राप्यज्ञानमेवापराध्यति, न पुनरायुष्मतो दोषः, यदेते वंशपरम्परया वाजसनेयशाखामधीयानाः कात्यायनादिगृह्योक्तमार्गेण गर्भाधानादिसंस्कारान् कुर्वते ।  
 </details>
 
 
@@ -8752,7 +9463,7 @@ since otherwise it would follow that other brahmins too would forfeit their brah
 यद्यपि अनूपसृष्टात्तिष्ठतेर्नात्मनेपदं प्राप्नोतीति अनुतिष्ठन्त इत्येव स्यात्  
 तथापि अनुष्ठानशीला अनुष्ठानपरायणा इत्यर्थस्य प्रतिपिपादयितत्वेन  
 ताच्छील्यवयोवचनशक्तिषु चानश् इति पाणिनीयेन चानश्प्रत्ययो  
-न तु शानच्प्रत्यय इत्यवधारयन्तु निपुणाः ।
+न तु शानच्प्रत्यय इत्यवधारयन्तु निपुणाः ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -8850,7 +9561,7 @@ and is therefore here not further discussed.
 <details><summary>राममिश्रशास्त्री</summary>
 
 काश्मीरागमपदेन किं विवक्षितमिति न विशिष्य जानीमः काश्मीरागमप्रामाण्यनिरूपणपरोग्रन्थोऽपि चास्मदृष्टेरगोचर इति न किंचिदीश्महे वक्तुम् ।  
-यत्नेन तु तत् सर्वम् आसाध्य समये प्रकाशयिष्यते ।
+यत्नेन तु तत् सर्वम् आसाध्य समये प्रकाशयिष्यते ।  
 </details>
 
 
