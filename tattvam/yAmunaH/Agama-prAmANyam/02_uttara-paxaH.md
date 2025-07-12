@@ -9305,7 +9305,6 @@ REFUTATION. To this he says: The utilization of a proffered substance which has 
 Thus in the same Indrarātra: 
 
 > "The wise one must let the offering-cake stand for ten nāḍikās. This period of time has been prescribed both for night and for day. 
-
 </details>
 
 
@@ -9327,6 +9326,11 @@ Thus in the same Indrarātra:
 इति ।  
 </details>
 
+<details><summary>English</summary>
+
+> They condemn the nirmālya that has stood for ~~more~~ other than this period of time;  
+thereupon he must throw it in water, or in fire, or bury it in the ground." 
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -9337,10 +9341,29 @@ Thus in the same Indrarātra:
 इति ।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उच्यते नात्र निर्माल्य-प्राशनादि प्रशस्यते ।  
+उच्यते - नात्र निर्माल्य-  
+प्राशनादि प्रशस्यते ।  
+किं तु पूरण-पूजायां  
+विनियुक्तस्य वस्तुनः ॥
+नाडिका-दशके पूर्णे  
+पश्चात् त्यागो विधीयते ।  
+</details>
+
+<details><summary>English</summary>
+
+OBJECTION. But what is said here is not to praise the tasting etc. of the nirmālya, but to prescribe that the substance of the cake pūjā is thrown away after a period of ten nāḍikās. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+उच्यते - नात्र निर्माल्य-प्राशनादि प्रशस्यते ।  
 किं तु पूरण-पूजायां विनियुक्तस्य वस्तुनः ॥
 नाडिका-दशके पूर्णे पश्चात् त्यागो विधीयते ।  
+</details>
+
+
 सामान्येन निवेदितस्य पुष्पौदनादेः कृत-कार्यताया निर्माल्यत्वेन अपनये प्राप्ते नाडिका-दश-पूरणं पूजाङ्गतया स्थापनं विधीयते दश-नाड्याधिकं पूरं स्थापयेद् इति ।  
 ततश् च तन्त्र-सिद्धान्त-पर्यालोचनयापि वः ।  
 हरिद्रा-चूर्ण-नैवेद्य-पादाम्बु-स्पर्शन-आदिकम् ॥
