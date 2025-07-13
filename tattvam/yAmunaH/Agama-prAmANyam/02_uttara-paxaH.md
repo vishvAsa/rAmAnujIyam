@@ -9145,21 +9145,21 @@ should reject nevertheless the nirmālya and nivedya?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा प्रदेशान्तरे -  
-
-> निर्माल्यं भक्षयित्वैवम्  
+> तथा प्रदेशान्तरे -  
+> 
+> > निर्माल्यं भक्षयित्वैवम्  
 उच्छिष्टम् अगुरोर् अपि ।  
 मासं पयो-व्रतो भूत्वा  
 जपन्न् अष्टाक्षरं सदा ॥  
 ब्रह्म-कूर्चं ततः पीत्वा  
 पूतो भवति मानवः ।  
-
-इति, 
+> 
+> इति, 
 </details>
 
 <details><summary>English</summary>
 
-Similarly in another passage: "When one has eaten nirmālya, or the foodrests of someone who is not one's guru, one must observe a milk-vow for a month, continuously recite the eight-syllable formula, 
+> Similarly in another passage: "When one has eaten nirmālya, or the foodrests of someone who is not one's guru, one must observe a milk-vow for a month, continuously recite the eight-syllable formula, 
 and drink the pañcagavya,279 in order to be purified." 
 
 279: The {{pancagavya|pañcagavya}} is a substance in which the 5 products of the cow are mingled.  
@@ -9179,15 +9179,15 @@ and drink the pañcagavya,279 in order to be purified."
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा इन्द्र-रात्रे ।  
-
-> न चोपजीवेद् देवेशं  
+> तथा इन्द्र-रात्रे ।  
+> 
+> > न चोपजीवेद् देवेशं  
 न निर्माल्यानि भक्षयेत् ।  
 </details>
 
 <details><summary>English</summary>
 
-Likewise in the {{Indraratra|Indrarātra}}: "One should not live off the Supreme God, nor eat the nirmālya offerings." 
+> Likewise in the Indrarātra: "One should not live off the Supreme God, nor eat the nirmālya offerings." 
 </details>
 
 
@@ -9199,19 +9199,19 @@ Likewise in the {{Indraratra|Indrarātra}}: "One should not live off the Supreme
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा -  
-
-> न चोपभोगयोग्यानि  
+> तथा -  
+> 
+>>  न चोपभोगयोग्यानि  
 निर्माल्यानि कदाचन ।  
-
-इति, 
+> 
+> इति, 
 </details>
 
 <details><summary>English</summary>
 
-Also: 
-
-> "And the nirmālya offerings are never fit for consumption." 
+> Also: 
+> 
+>>  "And the nirmālya offerings are never fit for consumption." 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9227,19 +9227,19 @@ Also:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा संहितान्तरे -  
-
-> निर्माल्यानि न चाश्नीयान्  
+> तथा संहितान्तरे -  
+> 
+> > निर्माल्यानि न चाश्नीयान्  
 न जिघ्रेन् न च लङ्घयेत् ।  
-
-इति, 
+> 
+> इति, 
 </details>
 
 <details><summary>English</summary>
 
-Similarly in another Saṃhitā: 
-
-> "One should not eat the nirmālya offerings, nor smell them, nor step over them."
+> Similarly in another Saṃhitā: 
+> 
+> > "One should not eat the nirmālya offerings, nor smell them, nor step over them."
 </details>
 
 
@@ -9252,13 +9252,13 @@ Similarly in another Saṃhitā:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> तद् एवम् अनेक-संहिता-समधिगत-निषेधस्य निर्माल्योपभोगस्य  
+>>  तद् एवम् अनेक-संहिता-समधिगत-निषेधस्य निर्माल्योपभोगस्य  
 कथम् इव पावनत्वाङ्गीकारः ।  
 </details>
 
 <details><summary>English</summary>
 
-How then can one accept the purity of the utilization of the nirmālya when we thus know from several Saṃhitā that it is prohibited?
+> How then can one accept the purity of the utilization of the nirmālya when we thus know from several Saṃhitā that it is prohibited?
 </details>
 
 
@@ -9278,7 +9278,7 @@ How then can one accept the purity of the utilization of the nirmālya when we t
 
 <details><summary>English</summary>
 
-REFUTATION. To this he says: The utilization of a proffered substance which has been offered up to the deity is not condemned if it is done within a period of ten nāḍikās.280 
+REFUTATION. To this he says: The utilization of a proffered substance which has been offered up to the deity is not condemned if it is done ~~within~~ after a period of ten nāḍikās.280 
 
 280: one nāḍikā is a half muhūrta.  
 </details>
@@ -9343,7 +9343,7 @@ thereupon he must throw it in water, or in fire, or bury it in the ground."
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उच्यते - नात्र निर्माल्य-  
+> उच्यते - नात्र निर्माल्य-  
 प्राशनादि प्रशस्यते ।  
 किं तु पूरण-पूजायां  
 विनियुक्तस्य वस्तुनः ॥
@@ -9353,7 +9353,7 @@ thereupon he must throw it in water, or in fire, or bury it in the ground."
 
 <details><summary>English</summary>
 
-OBJECTION. But what is said here is not to praise the tasting etc. of the nirmālya, but to prescribe that the substance of the cake pūjā is thrown away after a period of ten nāḍikās. 
+> OBJECTION. But what is said here is not to praise the tasting etc. of the nirmālya, but to prescribe that the substance of the cake pūjā is thrown away after a period of ten nāḍikās. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9365,24 +9365,73 @@ OBJECTION. But what is said here is not to praise the tasting etc. of the nirmā
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सामान्येन निवेदितस्य पुष्पौदनादेः  
+> सामान्येन निवेदितस्य पुष्पौदनादेः  
 कृत-कार्यताया निर्माल्यत्वेन +अपनये प्राप्ते  
-नाडिका-दश-पूरणं पूजाङ्गतया स्थापनं विधीयते दश-नाड्याधिकं पूरं स्थापयेद् इति ।  
+नाडिका-दश-पूरणं पूजाङ्गतया स्थापनं विधीयते 
+> 
+> > दश-नाड्य्-अधिकं पूरं स्थापयेत् 
+> 
+> इति ।  
 </details>
+
+<details><summary>English</summary>
+
+In the statement: 
+
+> "He must let the offering cake stand for over ten nāḍikās,” 
+
+the injunction is laid down that when the proffered flowers, cake etc. in general have been taken off as nirmālya,  
+because they have now fulfilled their ritual function,  
+they must be kept by way of accessory pūjā rite for a period of ten nāḍikās. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 सामान्येन निवेदितस्य पुष्पौदनादेः  
 कृत-कार्यताया निर्माल्यत्वेन +अपनये प्राप्ते  
-नाडिका-दश-पूरणं पूजाङ्गतया स्थापनं विधीयते दश-नाड्याधिकं पूरं स्थापयेद् इति ।  
+नाडिका-दश-पूरणं पूजाङ्गतया स्थापनं विधीयते दशनाड्यधिकं पूरं स्थापयेत् इति ।  
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ततश् च तन्त्र-सिद्धान्त-  
+पर्यालोचनयापि वः ।  
+हरिद्रा-चूर्ण-नैवेद्य-  
+पादाम्बु-स्पर्शनादिकम् ॥
+न सिद्ध्येत् तन्त्र-सिद्धान्तः  
+क्व, नु यूयं क्व चाल्पकाः ।  
+</details>
+
+<details><summary>English</summary>
+
+> And consequently even a study of the conclusions of your own Tantras shows that the touching etc. of the turmeric powder, the food offerings and the water used to clean the idol's feet is not established by Tantric doctrine. Now, where are you!
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 ततश् च तन्त्र-सिद्धान्त-पर्यालोचनयापि वः ।  
-हरिद्रा-चूर्ण-नैवेद्य-पादाम्बु-स्पर्शन-आदिकम् ॥
+हरिद्रा-चूर्ण-नैवेद्य-पादाम्बु-स्पर्शनादिकम् ॥  
 न सिद्ध्येत् तन्त्र-सिद्धान्तः क्व नु यूयं क्व चाल्पकाः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहो विद्यालवोल्लासि-  
+जिह्वा-ग्रस्त-विचेतसः ॥
+सितासितं वचो भाति  
+स-कलङ्केन्दु-बिम्बवत् । +++(5)+++ 
+</details>
+
+<details><summary>मूलम्</summary>
+
 अहो विद्यालवोल्लासि-जिह्वा-ग्रस्त-विचेतसः ॥
 सितासितं वचो भाति सकलङ्केन्दुबिम्बवत् ।  
+</details>
+
+
 ये हि युष्मद्-विधा मूर्खास् तेषाम् एव निषेध-गीः ॥
 {{सेव्यमानः|सेव्यमानं}} हि तत् सर्वं वैष्णवैर् अधिकारिभिः ।  
 अघौघ-ध्वंसनाय अलं सोम-पानम् इवाध्वरे ॥
