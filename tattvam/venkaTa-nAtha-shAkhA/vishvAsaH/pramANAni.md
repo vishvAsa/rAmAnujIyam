@@ -110,6 +110,9 @@ title = "प्रमाणानि"
 युक्त्य्-अपेक्षया श्रुति-दर्शित एव मार्गो ऽन्विष्य ग्राह्य इति -  
 यथा भेदाभेदश्रुत्योर् घटकश्रुतयः। 
 
+वेदस्य प्रामाण्यं शब्द-प्रमाणतमत्वं वा न तावद् अपौरुषेयत्वात्,  
+अपि त्व् आर्येषु शिष्टेषु प्रतिष्ठिततमत्वाद् इत्य् आह यामुन आगमप्रामाण्ये। 
+
 ### ब्रह्म-सूत्राणि, उपनिषदः
 With clarity in the prameya-s in vedArthasangraha (or presumably shrI-bhAShya), there is almost no room for confusion when one encounters upaniShadic contradictions. So, it's natural that R didn't find a need to labor over that; and that his followers mostly feel the same. Yet, rangarAmAnuja, kUranArAyaNa etc.. have commented on some upaniShats.
 
