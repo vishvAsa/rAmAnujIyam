@@ -9341,6 +9341,7 @@ thereupon he must throw it in water, or in fire, or bury it in the ground."
 इति ।  
 </details>
 
+##### अनधिकारिभ्यो निषेधः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > उच्यते - नात्र निर्माल्य-  
@@ -9419,90 +9420,663 @@ they must be kept by way of accessory pūjā rite for a period of ten nāḍikā
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहो विद्यालवोल्लासि-  
+अहो विद्या-लवोल्लासि-  
 जिह्वा-ग्रस्त-विचेतसः ॥
 सितासितं वचो भाति  
-स-कलङ्केन्दु-बिम्बवत् । +++(5)+++ 
+स-कलङ्केन्दु-बिम्बवत् । +++(5)+++   
+ये हि युष्मद्-विधा मूर्खास्  
+तेषाम् एव निषेध-गीः ॥  
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION. Where are you, loquacious debaters, witless fools who have been swallowed by your own tongue which plays around with a grain of knowledge! Your objection looks black and white at once, like the moon with its spots.  
+This prohibition applies only to fools like you, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अहो विद्यालवोल्लासि-जिह्वा-ग्रस्त-विचेतसः ॥  
+सितासितं वचो भाति सकलङ्केन्दुबिम्बवत् ।  
+ये हि युष्मद्-विधा मूर्खास् तेषाम् एव निषेध-गीः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सेव्यमानं हि तत् सर्वं  
+वैष्णवैर् अधिकारिभिः ।  
+अघौघ-ध्वंसनायालं  
+सोम-पानम् इवाध्वरे ॥  
+</details>
+
+<details><summary>English</summary>
+
+since all this is indeed to be observed by Vaiṣṇavas who are qualified to do so, and thus it is capable of wiping off a multitude of sins in the same way as the drinking of soma at a Vedic sacrifice; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सेव्यमानं हि तत् सर्वं वैष्णवैर् अधिकारिभिः ।  
+अघौघ-ध्वंसनायालं सोम-पानम् इवाध्वरे ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्येषां हि तद् अस्पृश्यं  
+पुरो-डाशः शुनाम् इव । +++(5)+++ 
+</details>
+
+<details><summary>English</summary>
+
+for it is not to be touched by others, just as the puroḍaśa cake is not to be touched by dogs! 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्येषां हि तद् अस्पृश्यं पुरो-डाशः शुनाम् इव ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् यथेश्वर-संहितायाम् -  
+
+दुर्लभो भगवद्-भक्तो  
+लोकेऽस्मिन् पुरुषः सुत ।  
+तत्रापि **दुर्लभतरो**  
+भावो वै यस्य तत्त्वतः ॥  
+पादोदकं प्रति **शुभस्**  
+सिद्धान्नैश् च **निवेदिते** ।  
+स्रग्-आदिके **चोपभुक्ते**  
+ह्य् **उपभोगार्थम्** एव च ॥
+</details>
+
+<details><summary>English</summary>
+
+Thus in the Īśvara Saṃhitā, 
+
+> "It is difficult to find in this world a true votary of the lord, my son,  
+and, among those who are, it is even more difficult to find a disposition which is truly pure enough for the footwater, or to use the garlands etc. which have been mentioned in the doctrine,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद् यथेश्वर-संहितायाम् -  
+
+दुर्लभो भगवद्-भक्तो लोकेऽस्मिन् पुरुषः सुत ।  
+तत्रापि दुर्लभतरो भावो वै यस्य तत्त्वतः ॥
+पादोदकं प्रति शुभस्सिद्धान्नैश् च निवेदिते ।  
+स्रगादिके चोपभुक्ते ह्य् उपभोगार्थम् एव च ॥
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+(श्रीमद्भागवते यथाऽह भगवन्तं श्रीकृष्णम् उद्धवः - 
+
+> तवोच्छिष्ट-भुजो दासास्  
+तव मायां जयेमहि 
+
+इति ।) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अतश् च भाव-हीनानाम्  
+अभक्तानां च षण्-मुख ।  
+निषिद्धं भगवन्-मन्त्र-  
+दृक्-पूतम् अखिलं हि यत् ॥ 
+
+इति,
+</details>
+
+<details><summary>विषयः</summary>
+
+प्रसादः, निर्माल्यम्, भक्तिः
+</details>
+
+<details><summary>English</summary>
+
+> Therefore, O six-faced One, all this which is purified by the formulae and the glance of the Bhagavān is forbidden to those who lack this disposition and are not votaries." 
 </details>
 
 <details><summary>मूलम्</summary>
 
-अहो विद्यालवोल्लासि-जिह्वा-ग्रस्त-विचेतसः ॥
-सितासितं वचो भाति सकलङ्केन्दुबिम्बवत् ।  
+अतश् च भाव-हीनानाम् अभक्तानां च षण्मुख ।  
+निषिद्धं भगवन्मन्त्र-दृक्-पूतम् अखिलं हि यत् ॥ 
+
+इति,
+
+</details>
+
+##### पावित्र्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा प्रदेशान्तरे -  
+
+> कुङ्कुमं चन्दनं चैतत्  
+कर्पूरम् अनुलेपनम् ।  
+विष्णु-देह-परामृष्टं  
+तद् वै पावन-पावनम् ॥
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+And in another passage: "The saffron, sandal, camphor and oils that have been taken off Viṣṇu's body are supremely purifying." 
 </details>
 
 
-ये हि युष्मद्-विधा मूर्खास् तेषाम् एव निषेध-गीः ॥
-{{सेव्यमानः|सेव्यमानं}} हि तत् सर्वं वैष्णवैर् अधिकारिभिः ।  
-अघौघ-ध्वंसनाय अलं सोम-पानम् इवाध्वरे ॥
-अन्येषां हि तद् अस्पृश्यं पुरो-डाशः शुनाम् इव ।  
-तद् यथेश्वर-संहितायाम् ।  
-दुर्लभो भगवद्-भक्तो लोकेऽस्मिन् पुरुषः सुत ।  
-तत्रापि दुर्लभतरो भावो वै यस्य तत्त्वतः ॥
+<details><summary>मूलम्</summary>
 
-पादोदकं प्रति {{शुभस्सिद्धान्नै|शुभं सिद्धान्ते?}} (श्रीमद्भागवते यथाऽह भगवन्तं श्रीकृष्णमुद्धवः - तवोच्छिष्ट-भुजो दासास् तव मायां जयेमहि इति ।) च निवेदिते ।  
-स्रगादिके चोपभुक्ते ह्य् उपभोगार्थम् एव च ॥
-अतश् च भाव-हीनानाम् अभक्तानां च षण्मुख ।  
-निषिद्धं भगवन्मन्त्र-दृक्-पूतम् अखिलं हि यत् ॥ इति,
+तथा प्रदेशान्तरे -  
 
-तथा प्रदेशान्तरे ।  
 कुङ्कुमं चन्दनं चैतत् कर्पूरम् अनुलेपनम् ।  
 विष्णु-देह-परामृष्टं तद् वै पावन-पावनम् ॥
 
-इति, तथा पद्मोद्भवे ।  
-विष्णु-देह-परामृष्टं यश् चूर्णं शिरसा वहेत् ।  
-सोऽश्वमेध-फलं प्राप्य विष्णु-लोके महीयते ॥
+इति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा पद्मोद्भवे -  
+
+> विष्णु-देह-परामृष्टं  
+यश् चूर्णं शिरसा वहेत् ।  
+सोऽश्वमेध-फलं प्राप्य  
+विष्णु-लोके महीयते ॥
+</details>
+
+<details><summary>English</summary>
+
+Likewise in the Padmodbhava: "He who wears the powder that is taken of Viṣṇu's body on his head obtains the fruit of a Horse Sacrifice and glories in Viṣṇu's heaven." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा पद्मोद्भवे -  
+विष्णुदेहपरामृष्टं यश्चूर्णं शिरसा वहेत्।  
+सोऽश्वमेधफलं प्राप्य विष्णुलोके महीयते ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथेश्वर-संहितायाम् ।  
+
+> **उपभुक्तस्य** सर्वस्य  
+गन्ध-पुष्पादिकस्य च ।  
+स्नानादाव् **उपयुक्तस्य**  
+दधि-क्षीरादिकस्य च ॥  
+**दूषणं न** प्रयोक्तव्यं  
+शब्दैर् अ-प्रतिपत्ति-जैः ।
+</details>
+
+<details><summary>English</summary>
+
+Similarly in the Īśvara Saṃhitā, 
+
+> "No blame should be put by statements arising from ignorance on all that is used, the perfume, flowers etc., (the water) of the idol's bath etc., and the curds, milk etc. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथेश्वर-संहितायाम् ।  
+
 उपभुक्तस्य सर्वस्य गन्ध-पुष्पादिकस्य च ।  
 स्नानादाव् उपयुक्तस्य दधि-क्षीरादिकस्य च ॥
-दूषणं न प्रयोक्तव्यं शब्दैर् अप्रतिपत्तिजैः । (निन्दाऽसूयाद्याविष्कारकारकैरित्यर्थः ।)
-निर्माल्य-बुद्ध्या देवीयं पावनं दूषयन्ति ये ॥
-ते यान्ति नरकं मूढास् तत्प्रभावापलापिनः ।  
-इति,
+दूषणं न प्रयोक्तव्यं शब्दैर् अप्रतिपत्तिजैः ।
+</details>
 
-यानि पुनर् दीक्षितम् एवाधिकृत्य समयानुशासन-समये निर्माल्योपयोग-निषेध-पराणि वचनानि तानि पारिषदेशोपयोगोत्तर-कालाभिप्रायेण द्रष्टव्यानि । (भगवत्-पारिषदानम् ईशो विष्वक्सेनस् तद्-उपयोगानन्तर-काले निषेध-पराणि द्रष्टव्यानि ।)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+(अप्रतिपत्तिजैः = निन्दाऽसूयाद्य्-आविष्कार-कारकैर् इत्यर्थः ।)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निर्माल्य-बुद्ध्या देवीयं  
+पावनं **दूषयन्ति** ये ॥
+ते **यान्ति** नरकं मूढास्  
+तत्-प्रभावापलापिनः ।  
+
+इति,
+</details>
+
+<details><summary>English</summary>
+
+> Those who condemn this divine purifying agent because they consider it nirmālya, those witless detractors of its power will go to hell." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> निर्माल्य-बुद्ध्या देवीयं पावनं दूषयन्ति ये ॥
+ते यान्ति नरकं मूढास् तत्प्रभावापलापिनः ।  
+
+इति।
+</details>
+
+##### वैष्वक्सेने निषेधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यानि पुनर् दीक्षितम् एवाधिकृत्य  
+समयानुशासन-समये निर्माल्योपयोग-निषेध-पराणि वचनानि  
+तानि पारिषदेशोपयोगोत्तर-कालाभिप्रायेण द्रष्टव्यानि । 
+</details>
+
+<details><summary>English</summary>
+
+The above statements which to the consecrated prohibit the use of nirmālya at the time mentioned in the time instruction must be understood to mean a time subsequent to that when the (offerings to) the chief of the Bhagavān's retinue281 is being used. 
+
+281: Viśvaksena, to whom pūjā is performed after the main pūjā.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+यानि पुनर् दीक्षितम् एवाधिकृत्य समयानुशासन-समये निर्माल्योपयोग-निषेध-पराणि वचनानि तानि पारिषदेशोपयोगोत्तर-कालाभिप्रायेण द्रष्टव्यानि । 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+(भगवत्-पारिषदानम् ईशो विष्वक्सेनस्  
+तद्-उपयोगानन्तर-काले निषेध-पराणि द्रष्टव्यानि ।)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यतो भगवद्-अर्थेन  
+त्यक्तं स्रक्-चन्दनादिकम् ।  
+पश्चाद् अभोग्यतां याति  
+विष्वक्सेन-निवेदनात् ॥
+</details>
+
+<details><summary>English</summary>
+
+Since the garlands, sandal etc, which are offered up to the Bhagavān, later on, after the Viśvaksena offering, become unfit to eat, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यतो भगवदर्थेन त्यक्तं स्रक्-चन्दनादिकम् ।  
 पश्चाद् अभोग्यतां याति विष्वक्सेन-निवेदनात् ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव निवेद्य्-आदि  
+ततोऽर्वाग् एव सात्त्वतैः ।  
+सेव्यते तेन तत् तेषाम्  
+उत्कर्षस्यैव कारणम् ॥
+</details>
+
+<details><summary>English</summary>
+
+therefore the Sātvatas use the nivedya etc. before that time. Consequently the use of the nirmālya is a cause of excellence for the Sātvatas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अत एव निवेद्यादि ततोऽर्वाग् एव सात्त्वतैः ।  
 सेव्यते तेन तत् तेषाम् उत्कर्षस्यैव कारणम् ॥
+</details>
+
+#### देवतान्तर-निर्माल्ये
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च ।  
+
+देवतान्तर-निर्माल्यं  
+शिष्टैर् इष्टं विगर्हितम् +++(सुरा-पानवत्)+++ ।  
+इदं तु वैदिकत्वेन  
+सोम-पानवद् इष्यते ॥
+</details>
+
+<details><summary>English</summary>
+
+[[118]]
+
+136\. Moreover, it is our postulation that the exemplary people hold the nirmālya of other gods in contempt; this is postulated like the drinking of soma (which is good) because it is Vedic (in contrast to the drinking of liquor which is evil). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि च ।  
+
 देवतान्तर-निर्माल्यं शिष्टैर् इष्टं विगर्हितम् ।  
 इदं तु वैदिकत्वेन सोम-पानवद् इष्यते ॥
+</details>
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ये नाम भगवच्छास्त्र-  
+प्रामाण्यं नानुजानते ।  
+न निरूपयितुं शक्यं  
+तैर् निर्माल्यम् इतीरितम् ॥
+</details>
+
+<details><summary>English</summary>
+
+So I have said that those who do not accept the validity of the Bhagavān's doctrine are unable to determine what is nirmālya. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 ये नाम भगवच्छास्त्र-प्रामाण्यं नानुजानते ।  
 न निरूपयितुं शक्यं तैर् निर्माल्यम् इतीरितम् ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निरूपणेऽपि भगवन्-  
+निर्माल्यम् अतिपावनम् ।  
+समस्त-वैदिकाचार्य-  
+वचनैर् अवसीयते ॥
+</details>
+
+<details><summary>English</summary>
+
+When it is properly determined (namely according to the Bhagavān's doctrine) the Bhagavān's nirmālya proves to be extremely purifying, as is demonstrated by the statements of all Vedic teachers. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 निरूपणेऽपि भगवन्निर्माल्यम् अतिपावनम् ।  
 समस्त-वैदिकाचार्य-वचनैर् अवसीयते ॥
+</details>
+
+#### शब्द-प्रमाणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शब्द-प्रमाणके ह्य् अर्थे  
+यथा-शब्दं व्यवस्थितिः ।  
+न चात्र शब्दो नास्तीति  
+वक्तव्यं बधिरेतरैः ॥+++(5)+++
+</details>
+
+<details><summary>विषयः</summary>
+
+शब्दः, पाञ्चरात्रम्
+</details>
+
+<details><summary>English</summary>
+
+In a matter for which the only means of knowledge is verbal testimony, it must be so as verbal testimony says that it is. Unless one is deaf, one cannot say that there is no verbal testimony concerning it.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 शब्द-प्रमाणके ह्य् अर्थे यथा-शब्दं व्यवस्थितिः ।  
 न चात्र शब्दो नास्तीति वक्तव्यं बधिरेतरैः ॥
+</details>
 
-यथा ब्रह्म-पुराणे च पठ्यते ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा ब्रह्म-पुराणे च पठ्यते -  
+
+> विष्णोर् नैवेद्यकं शुद्धं  
+मुनिभिर् भोज्यम् उच्यते ।  
+अन्यन् निवेद्य-निर्माल्यं  
+भुक्त्वा चान्द्रायणं चरेत् ॥
+</details>
+
+<details><summary>English</summary>
+
+For instance it is said in the Brahma Purāṇa: 
+
+> "The nivedya of Viṣṇu is declared by the sages to be pure and fit for consumption; one who eats other nirmālya and nivedya must perform the cāndrāyaṇa in expiation. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा ब्रह्म-पुराणे च पठ्यते -  
+
 विष्णोर् नैवेद्यकं शुद्धं मुनिभिर् भोज्यम् उच्यते ।  
-अन्यन् निवेद्य निर्माल्यं {{मुक्त्वा|भुक्त्वा}} चान्द्रायणं चरेत् ॥
+अन्यन् निवेद्य-निर्माल्यं भुक्त्वा चान्द्रायणं चरेत् ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विष्णु-देह-परामृष्टं  
+माल्यं पाप-हरं शुभम् ।  
+यो नरश् शिरसा धत्ते  
+स याति परमां गतिम् ॥
+</details>
+
+<details><summary>English</summary>
+
+> The mālya which is taken from the body of Viṣṇu takes away evil and is holy.  
+He who wears it on his head goes to supreme bliss." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 विष्णु-देह-परामृष्टं माल्यं पाप-हरं शुभम् ।  
 यो नरश् शिरसा धत्ते स याति परमां गतिम् ॥
+</details>
 
-एतेन ।  
-निर्माल्यं च निवेद्यं च भुक्त्वा चान्द्रायणं चरेत् ।  
-इति स्मरणम् अपि रुद्रकाल्यादिविषयम् इत्यावेदितव्यम्, तथा महा-भारते ।  
-हृदि ध्यायन् हरिं तस्मै निवेद्य अन्नं समाहितः ।  
-मध्यमानामिकाङ्गुष्ठैर् गृहीत्वान्नम् इतं पुनः ॥
-प्राणाय चेत्यपानाय व्यानाय च ततः परम् ।  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतेन -  
+
+> निर्माल्यं च निवेद्यं च भुक्त्वा चान्द्रायणं चरेत् ।  
+
+इति स्मरणम् अपि रुद्रकाल्यादिविषयम् इत्यावेदितव्यम्, 
+</details>
+
+<details><summary>English</summary>
+
+It follows that the smṛti statement that a man who eats nirmālya and nivedya must perform the cāndrāyaṇa should be taken to bear upon the nirmālya of Rudra, Kālī etc.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतेन -  
+
+> निर्माल्यं च निवेद्यं च भुक्त्वा चान्द्रायणं चरेत् ।  
+
+इति स्मरणम् अपि रुद्रकाल्यादिविषयम् इत्यावेदितव्यम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा महा-भारते -  
+
+> हृदि ध्यायन् हरिं तस्मै  
+निवेद्यान्नं समाहितः ।  
+मध्यमानामिकाङ्गुष्ठैर्  
+गृहीत्वान्न-मितं पुनः ॥
+</details>
+
+<details><summary>English</summary>
+
+(282: Mahābhārata quotations not verifiable.  )
+
+Thus in the Mahābhārata: 
+
+> "Meditating in one's heart upon Hari, one must offer food to Him with full attention, thereupon pick up this food again with the middlefinger and the thumb, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा महा-भारते -  
+
+> हृदि ध्यायन् हरिं तस्मै निवेद्यान्नं समाहितः ।  
+मध्यमानामिकाङ्गुष्ठैर् गृहीत्वान्नमितं पुनः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्राणाय चेत्य् अपानाय  
+व्यानाय च ततः परम् ।  
+उदानाय समानाय  
+स्वाहेति जुहुयात् क्रमात् ॥
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+> and then sacrifice it bit by bit, saying: "Prāṇāya svāhā, Apānāya svāhā, Vyānāya svāhā, Udānāya svāhā, Samānāya svāhā." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> प्राणाय चेत्यपानाय व्यानाय च ततः परम् ।  
 उदानाय समानाय स्वाहेति जुहुयात् क्रमात् ॥
 
-इति, तथा प्रदेशान्तरे ।  
-निवेदितं तु यद् देवे तद् दद्याद् ब्रह्म-चारिणे ।  
-इति ।  
-तथा महा-भारते ।  
-पञ्चरात्र-विदो मुख्यास् तस्य गेहे महात्मनः ।  
-{{प्रापणं|प्राशनं}} भगवद्-भुक्तं भुञ्जते चाग्र-भोजनम् ॥
+इति, 
+</details>
 
-इति, तथा च भगवान् शौनकः नैवेद्यं स्वयम् अश्नीयाद् इति, ।  
-इत्यादि-स्मृति-शत-सिद्ध-शुद्धि विष्णोर् नैवेद्यं भव-भय-भेदि यो विनिन्देत् ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा प्रदेशान्तरे  -  
+
+> निवेदितं तु यद् देवे  
+तद् दद्याद् ब्रह्म-चारिणे ।  
+
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+Likewise in another passage, "what has been offered to the god must be given to a brahmacārin." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा प्रदेशान्तरे  -  
+
+> निवेदितं तु यद् देवे  
+तद् दद्याद् ब्रह्म-चारिणे ।  
+
+इति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा महा-भारते -  
+
+> पञ्चरात्र-विदो मुख्यास्  
+तस्य गेहे महात्मनः ।  
+प्राशनं भगवद्-भुक्तं  
+भुञ्जते चाग्र-भोजनम् ॥
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+Thus in the Mahābhārata: 
+
+> "The saintly knowers of the Pañcaratra ate in his house that which had been left over by the Bhagavān, as a means to attain to bliss, as supreme nourishment." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा महा-भारते -  
+
+पञ्चरात्र-विदो मुख्यास् तस्य गेहे महात्मनः ।  
+प्राशनं भगवद्-भुक्तं भुञ्जते चाग्र-भोजनम् ॥
+
+इति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च भगवान् शौनकः 
+
+> नैवेद्यं स्वयम् अश्नीयाद् 
+
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+And likewise the blessed Śaunaka:  
+"He himself eats the nivedya." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा च भगवान् शौनकः नैवेद्यं स्वयम् अश्नीयाद् इति, ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्यादि-स्मृति-शत-सिद्ध-शुद्धि विष्णोर्  
+नैवेद्यं भव-भय-भेदि यो विनिन्देत् ।  
 नास्तिक्यात् स्मृति-वचनान्य् उपेक्षमाणस् तज्जिह्वा-विशसनम् एव युक्तम् अत्र ।  
-ननु प्राणाग्निहोत्रस्य नैवेद्यं साधनं कथम् ।  
+</details>
+
+<details><summary>English</summary>
+
+He who condemns Viṣṇu's nivedya, whose purity is proved by hundreds of similar smṛtis and which dispels the fear of rebirth, really ignores the statements of the smṛti because of his heterodoxy and ought to have his tongue cut off.
+
+[[119]]
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादि-स्मृति-शत-सिद्ध-शुद्धि विष्णोर्  
+नैवेद्यं भव-भय-भेदि यो विनिन्देत् ।  
+नास्तिक्यात् स्मृति-वचनान्य् उपेक्षमाणस् तज्जिह्वा-विशसनम् एव युक्तम् अत्र ।  
+</details>
+
+#### प्राणाग्निहोत्र-नैवेद्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु प्राणाग्निहोत्रस्य  
+नैवेद्य-साधनं कथम् ।  
+निर्-इष्टकं न शिष्टानाम्  
+इष्टं होमादि-साधनम् ॥
+</details>
+
+<details><summary>English</summary>
+
+137\. OBJECTION. But how can the nivedya be a means for the prāṇāgnihotra?283 The exemplary people do not approve of a means for homa etc. for which no building bricks are used. 
+
+283: The ritual taking of food is considered a performance of the prāṇāgnihotra.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ननु प्राणाग्निहोत्रस्य नैवेद्यसाधनं कथम् ।  
 निर्-इष्टकं न शिष्टानाम् इष्टं होमादि-साधनम् ॥
+</details>
+
+
 न च द्रव्यान्तराक्षेपो होमायेत्यकल्पते ।  
 रागतः प्राप्तम् एवान्नं यतस् तेनोपजीव्यते ॥
 नापि भुक्त्यन्तराक्षेपो नैवेद्यायोपपाद्यते ।  
