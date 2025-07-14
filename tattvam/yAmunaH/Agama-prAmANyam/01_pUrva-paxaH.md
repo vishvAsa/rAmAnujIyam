@@ -796,7 +796,8 @@ as in the case of the kitchen.
 न ह्यदृष्टचरवह्नयस्तदविनाभावितया धूममनुसंदधति ।
 </details>
 
-## न श्ब्दः
+## न शब्दः
+### वेदादौ न विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चागमस् सात्त्वत-समय-सिद्ध-क्रिया-कलाप-कर्तव्यतोपस्थापन-परः परिदृश्यते,  
@@ -816,11 +817,6 @@ carried authority.
 
 Yamuna throughout treats Satvata and Bhāgavata as 
 synonymous. 
-
-pauruşėya and apauruseya;  
-the latter has in the sequel been rendered with "preterpersonal."  
-Person here does not mean only "human person"  
-but "any being endowed with personal features, including God." 
 </details>
 
 
@@ -831,9 +827,8 @@ but "any being endowed with personal features, including God."
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चादृश्यमानो ऽप्य् +++(निगमतः)+++ अनुमान-गोचरः,  
-यथैव हि तन्त्र-प्रसिद्ध-दीक्षाऽऽराधन--तत्-फलाभिमत-स्वर्गादि-साध्य-साधन-भावो नानुमान-गोचरः - सम्बन्धावधारण-विरहात्,  
-एवं तन्-मूलागमोऽपि तत एव नानुमातुं शक्यः ।  
+न चादृश्यमानो +++(विधिर्)+++ ऽप्य् +++(निगमतः)+++ अनुमान-गोचरः,  
+यथैव हि तन्त्र-प्रसिद्ध-दीक्षाऽऽराधन--तत्-फलाभिमत-स्वर्गादि-साध्य-साधन-भावो नानुमान-गोचरः - सम्बन्धावधारण-विरहात्।  
 </details>
 
 <details><summary>Buitenen</summary>
@@ -842,10 +837,7 @@ Nor is it possible, in the absence of explicit revelation,
 to infer such evidence from Scripture.  
 For just as the relation of means to certain ends which are their fruits, e.g., heaven, as Pafcarātra maintains Consecration, worship etc. to be,  
 does not allow of being inferred  
-because no such relation can be verified by Perception,  
-just so, no scriptural authority to furnish the basis of such a relation  
-can be inferred from Scripture. 
-
+because no such relation can be (determined) ~~verified by Perception~~,  
 </details>
 
 
@@ -854,10 +846,26 @@ can be inferred from Scripture.
 न चादृश्यमानोऽप्यनुमानगोचरः, यथैव हि तन्त्रप्रसिद्धदीक्षाराधनतत्फलाभिमतस्वर्गादिसाध्यसाधनभावो नानुमानगोचरः सम्बन्धावधारणविरहात्, एवं तन्मूलागमोऽपि तत एव नानुमातुं शक्यः ।  
 </details>
 
-## न पौरुषागमः
+### न मूलागमानुमानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चागमेनापि प्रस्तुत-स्मरण-मूल-भूतागमावगमः सम्भवति -  
+एवं तन्-मूलागमोऽपि तत एव नानुमातुं शक्यः ।  
+</details>
+
+<details><summary>English</summary>
+
+just so, no scriptural authority to furnish the basis of such a relation  
+can be inferred from Scripture. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं तन्-मूलागमोऽपि तत एव नानुमातुं शक्यः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चागमेनापि प्रस्तुत-स्मरण-मूल-भूतागमावगमः सम्भवति।  
 स हि द्वेधा पौरुषेयापौरुषेय-भेदात् ।
 </details>
 
@@ -873,6 +881,11 @@ or not originating from a person.
 
 <details><summary>English - Notes</summary>
 
+pauruşėya and apauruseya;  
+the latter has in the sequel been rendered with "preterpersonal."  
+Person here does not mean only "human person"  
+but "any being endowed with personal features, including God." 
+
 "Eternal Scripture" (āgama) is preter-personal scripture,  
 since any verbal statement originating from a person is cotemporal with that person,  
 and the purvapaksin does not admit the existence of an eternal personal deity. 
@@ -884,6 +897,8 @@ and the purvapaksin does not admit the existence of an eternal personal deity.
 न चागमेनापि प्रस्तुतस्मरणमूलभूतागमावगमः सम्भवति स हि द्वेधा पौरुषेयापौरुषेयभेदात् ।
 </details>
 
+
+#### पौरुषेय-शब्दतो न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** तावत् पौरुषेयेण  
@@ -955,7 +970,7 @@ who write as their fancy takes them!
 तदिह पञ्चरात्रग्रन्थप्रबन्द्धृणामपि तन्मूलभूतागमावगमपुरःसरी किं स्वनिबन्धनानां वेदमूलत्त्वप्रतिज्ञा, किं वा यथारुचि रचयतां प्ररोचनाय तथा वचनमिति शङ्कामहे ।  
 </details>
 
-## न श्रुति-सिद्धः
+#### न श्रुति-सिद्धः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तावता च प्रमाणत्वं  
@@ -979,12 +994,12 @@ for there is no eternal Scripture to support the claim.
 न हि नित्यागमः कश्चिदस्ति तादृशगोचरः ॥
 </details>
 
-## नोपमानात्
+##### नोपमानात्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चोपमानात् तन्-मूल-  
-श्रुति-सिद्धिर् अ-सम्भवात् ।  
+श्रुति-सिद्धिर् - अ-सम्भवात् ।  
 कथं ह्य् अ-दृष्ट-पूर्वा सा +++(श्रुति-सिद्धिर्)+++  
 स-दृश-ज्ञान-गोचरा ॥  
 </details>
@@ -1005,7 +1020,7 @@ be within the scope of the mere knowledge of similitude?
 कथं ह्यदृष्टपूर्वा सा सदृशज्ञानगोचरा ॥  
 </details>
   
-### नार्थापत्तेः
+#### नार्थापत्तेः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चार्थापत्तितस् तन्-मूल-श्रुति-सिद्धिः,  
@@ -1176,7 +1191,7 @@ could these traditions possibly be true?
 #### अष्टकादौ भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ननु तत्रापि प्रागुक्ता युक्तयः पराक्रमन्ते - 
+> ननु तत्रापि प्राग्-उक्ता युक्तयः पराक्रमन्ते - 
 न ह्य् "अष्टकां दृष्टवताम् इष्ट-साधनम्"  
 इति मतिर् आविर् अस्ति ।  
 </details>
@@ -1512,6 +1527,7 @@ do not accept the doctrines of Traditions of this kind.
 न हि त्रैवर्णिकाः शिष्टास्तदुक्तार्थानुपासते ॥  
 </details>
 
+#### भागवतानाम् अब्राह्मण्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु तत्रापि श्रुति-स्मृति-प्राप्त-शिखा-यज्ञोपवीतादि-धारयद्भिर्  
@@ -1535,7 +1551,6 @@ the very negation of valid authority?.
 
 </details>
 
-### भागवतानाम् अब्राह्मण्यम्
 <details><summary>मूलम्</summary>
 
 > ननु तत्रापि श्रुतिस्मृतिप्राप्तशिखायज्ञोपवीतादिधारयद्भिर्भागवतब्राह्मणैरहरहरनुष्ठीयमानार्थत्वेन चोदनामूलत्त्वे संभाव्य माने कथमिव प्रामाण्यप्रत्यनीकभूता भ्रमविप्रलम्भादयः स्मरणकारणतया कल्प्यन्ते ।  
@@ -1657,7 +1672,7 @@ which give us irrefutable proof.
 शिखायज्ञोपवीतादयस्तु ब्राह्मणदीनां विधीयमाना न तद्भावमापादयितुं क्षमन्ते, नाप्यवगमयन्ति, दुष्टशूद्रादिषु व्यभिचारदर्शनात्, अतोनिर्विवादसिद्धवृद्धव्यवहार एवात्रावगमनिदानम् ।  
 </details>
 
-#### लौकिकाः
+##### लौकिकाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च भागवतेषु ब्राह्मण-पदम् अविशङ्कं लौकिकाः प्रयुञ्जते ।  
@@ -1688,7 +1703,7 @@ There is also a distinct difference in the two appellations: here Brahmins, ther
 भवति च भेदेन व्यपदेशः -इतो ब्राह्मणा इतो भागवता इति ।  
 </details>
 
-#### अब्राह्मणेषु रूढिः
+##### अब्राह्मणेषु रूढिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > स्याद् एतद्  
@@ -1820,7 +1835,7 @@ on this point see infra.
 अपरथा कथमिव रथकारशब्दोऽध्ययनसिद्धबुद्ध्यङ्गत्वभङ्गेनापि यौगिकीं वृत्तिमपहाय जातिविशेषमभिनिविशते ।  
 </details>
 
-#### अद्विजत्वं शास्त्रोक्तम्
+##### अद्विजत्वं शास्त्रोक्तम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्ति च सात्त्वता नाम उपनयनादि-संस्कार-हीना वैश्य-व्रात्यान्वयिनो ऽवर-जन्मानः केचिद्,   
@@ -2036,7 +2051,7 @@ Elsewhere (unidentified) the same is stated thus:
 तथाऽन्यत्रापि सात्त्वतानां च देवायतनशोधनं नैवेद्यशोधनं प्रतिमासंरक्षणम् इति, 
 </details>
 
-#### वृत्ति-भेदः
+##### वृत्ति-भेदः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2237,7 +2252,7 @@ shows plainly that they are not Brahmins.
 यदपि समस्तविशिष्टविगर्हितनिर्माल्यधारणनैवेद्यभक्षणाद्यनुष्ठानं तदपि तेषामब्राह्मण्यमेवाभिद्योतयति इति ।  
 </details>
 
-#### शिष्ट-गर्ह्यता
+##### शिष्ट-गर्ह्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च यद् अवलोकनादाव् अपि  
@@ -2835,7 +2850,7 @@ it cannot be compared with the Tradition of Manu etc.
 अनन्तरोक्तैरपि हेतुभिस्तन्न मानवादिस्मरणैस्समानम् ॥
 </details>
 
-## क्षुद्र-विद-परता
+## क्षुद्र-विद्या-परता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं सति  
