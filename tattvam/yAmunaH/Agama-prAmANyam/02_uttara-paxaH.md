@@ -2,7 +2,7 @@
 title = "०२ उत्तर-पक्षः"
 
 +++
-## निर्दोष-ज्ञान-जन्यता
+## निर्दोष-ज्ञान-जन्यतया प्रामाण्यानुमानम्
 ### प्रतिज्ञा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -12,7 +12,7 @@ title = "०२ उत्तर-पक्षः"
 ज्योतिष्टोमादि-वाक्यवत्॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Against this prima-facie case  
 we now submit that the Tantra in question must be accepted as valid,  
@@ -36,7 +36,7 @@ like the scriptural statements on the Vedic sacrifices jyotiştoma etc.
 तत्र पक्षः **परीक्ष्यताम्** ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 54\. Now, such defects as are elicited by the science of logic  
 cannot be detected in this inference.  
@@ -58,7 +58,7 @@ Let us consider the Object of the Proposition.
 यः साधयितुम् ईप्सितः ॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The Object of the Proposition is, by definition,  
 the content of a certain thesis is proposed;  
@@ -91,7 +91,7 @@ a non-thing like a hare's horn can be neither S nor P.
 प्रामाण्य-नाम्नः पदार्थस्य उभय-वादि-सिद्धत्वात् प्रत्यक्षादौ,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In the present case the term which particularizes the object is not unknown,  
 for this term, ie. "validity," is for both parties established with regard to the valid means of knowledge, Perception, Inference, Verbal Testimony etc. 
@@ -109,7 +109,7 @@ for this term, ie. "validity," is for both parties established with regard to th
 नाप्य् अ-प्रसिद्ध-विशेष्यः +++(सविशेषणः पक्षः)+++ पञ्च-रात्र-शास्त्रस्य सर्व-लोक-प्रसिद्धत्वात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor is the subject itself unknown, for the Pañcaratra system is known universally. 
 </details>
@@ -126,7 +126,7 @@ Nor is the subject itself unknown, for the Pañcaratra system is known universal
 प्रस्तुत-शास्त्र-प्रामण्यस्य प्रतिवादिनो ऽसिद्धत्वात्,+++(4)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor is the Object to be proved already proved,  
 for this Object, "The Pañcaratra is valid," is not proved for the opponent. 
@@ -141,10 +141,10 @@ for this Object, "The Pañcaratra is valid," is not proved for the opponent.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च प्रत्य-क्षविरुद्धः +++(सविशेषणः पक्षः)+++ अ-प्रामाण्यस्यातीन्द्रियत्वात्, 
+न च प्रत्यक्ष-विरुद्धः +++(सविशेषणः पक्षः)+++ अ-प्रामाण्यस्यातीन्द्रियत्वात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor is this Object incompatible with Perception,  
 since its opposite, ie. nonvalidity, is beyond perceptual verifiability. 
@@ -162,7 +162,7 @@ since its opposite, ie. nonvalidity, is beyond perceptual verifiability.
 नाप्य् अनुमानविरुद्धः +++(सविशेषणः पक्षः)+++, अनुपलम्भनात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor is this Object incompatible with Inference,  
 because no inference proving non-validity is found. 
@@ -174,7 +174,7 @@ because no inference proving non-validity is found.
 नाप्यनुमानविरुद्धः, अनुपलम्भनात् ।  
 </details>
 
-## बाह्यत्वादौ
+## बाह्यत्वादौ सङ्क्षेपः
 ### न बाह्यत्वाद् अप्रामाण्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -182,7 +182,7 @@ because no inference proving non-validity is found.
 > पञ्च-रात्र-शास्त्रमप्रमाणम् वेद-बाह्यत्वात् बौद्धागमवत् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 55\. OBJECTION. But such an inference is actually found: Pañcarātra Sastra is non-authoritative,  
 because it is non-Vedic, like Buddhism, 
@@ -200,7 +200,7 @@ because it is non-Vedic, like Buddhism,
 अत्र ब्रूमः कतरद् इहाप्रामाण्यं सिषाधयिषितम्  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION. We reply, What is this nonauthoritativeness which this reasoning seeks to prove? 
 </details>
@@ -219,7 +219,7 @@ REFUTATION. We reply, What is this nonauthoritativeness which this reasoning see
 पञ्च-रात्र-शास्त्र-वाक्य-श्रवण-समनन्तरम् उपजायमानं तद्-अर्थ-विषयं ज्ञानम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[44]] 
 
@@ -237,7 +237,7 @@ he hears is perceptually evident.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नापि +++(अप्रामाण्यम्)+++ संशयलक्षणं - तत +++(→प्रत्यक्षतः)+++ एव विरोधात्।  
+नापि +++(अप्रामाण्यम्)+++ संशय-लक्षणं - तत +++(→प्रत्यक्षतः)+++ एव विरोधात्।  
 न खलु  
 
 > पद्ममध्ये चतुर्बाहुं  
@@ -246,7 +246,7 @@ he hears is perceptually evident.
 इतीदं वचनं "पूजयेन् न वे"ति संशयितं प्रत्ययमुत्पादयति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor is the predicate, sc. "nonauthoritativeness," defined by dubiety,  
 since then we have the same conflict with Perception;  
@@ -265,10 +265,10 @@ does not occasion a doubtful cognition:
 
 नापि विपर्यय-लक्षणं योग्यानुपलम्भाभावात्,  
 अनागत-विपर्ययोत्प्रेक्षायाः प्रत्यक्ष-विरोधात्, अशेष-व्यवहारोच्छेद-हेतुत्वाच् च।  
-प्रपञ्चयिष्यते चैतदुपरिष्टात् ।  
+प्रपञ्चयिष्यते चैतद् उपरिष्टात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor, in the third place, is the predicate, defined by reversion,  
 since there is no non-apprehension of what should be there,  
@@ -279,7 +279,7 @@ This point shall be discussed in detail later on.
 
 <details><summary>English - Notes</summary>
 
-this "non-apprehension of what should be there (yogānupalambha) is the criterion by which we know the absence of a thing. Here it is the absence of truth in Pancaratra that needs be proved by yoganupalambha, if the objector's contention that Pancaratra is invalid-through-reversion be correct. 
+this "non-apprehension of what should be there (yogānupalambha) is the criterion by which we know the absence of a thing. Here it is the absence of truth in Pañcarātra that needs be proved by yoganupalambha, if the objector's contention that Pañcarātra is invalid-through-reversion be correct. 
 </details>
 
 
@@ -288,22 +288,42 @@ this "non-apprehension of what should be there (yogānupalambha) is the criterio
 नापि विपर्ययलक्षणं योग्यानुपलम्भाभावात्, अनागतविपर्ययोत्प्रेक्षायाः प्रत्यक्षविरोधात् अशेषव्यवहारोच्छेदहेतुत्वाच्च, प्रपञ्चयिष्यते चैतदुपरिष्टात् ।  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+विपर्ययो मिथ्याज्ञानम् ।  
+
+> 'पञ्चरात्रं मिथ्या इत्येतज् ज्ञानं इदानीं नास्ति,  
+कालान्तरे भविष्यति' 
+
+इति, तद् आदाय अप्रामाण्य-वचनं प्रत्यक्षेण विरुध्यते ।  
+तथा सति सकल-लोक-व्यवहार-बाधश् चेति भावः । 
+</details>
+
+
+
 ### वेद-भिन्नत्वान् नाप्रामाण्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> आगम+++(=वेद)+++-विरुद्धञ् च -  
->
-> पञ्च-रात्रागमे स्वार्थस्  
++++([वेद-बाह्यत्वाद् अप्रमाणम् इति] पञ्चरात्र-)+++आगम-विरुद्धञ् च -  
+
+पञ्च-रात्रागमे स्वार्थस्  
 तथैवेत्य् **अवबोधनात्** ।  
-अथ तस्याप्रमाणत्वे  
-तद्-विरोधो न दूषणम् ॥
+
+> > अथ "+++(पञ्चरात्र→)+++तस्याप्रमाणत्वे  
++++(पञ्चरात्र→)+++तद्-विरोधो न दूषणम्" ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
-56\. OBJECTION. Still, the proposed validity of Pancaratra militates against Scripture.  
-Since in Pañcarātra Agama we have its meaning conveyed exactly as it is, this conflict between Scripture and Pañcarātra is not vicious only if Pañcaratra is not authoritative.
+56\. ~~Still, the proposed validity of Pañcarātra militates against Scripture. Since in Pañcarātra Agama we have its meaning conveyed exactly as it is, this conflict between Scripture and Pañcarātra is not vicious only if Pañcaratra is not authoritative.~~
+</details>
+
+<details><summary>En - विश्वासः</summary>
+
+The claim that Pañcarātra is invalid is opposed by the Pañcarātra Agama itself. In Pañcarātra, it's validity is understood. Or you say -
+
+> As Pañcarātra itself is invalid, it's opposition (to our inference of invalidity) is not a fault.
 </details>
 
 
@@ -315,15 +335,26 @@ Since in Pañcarātra Agama we have its meaning conveyed exactly as it is, this 
 अथ तस्याप्रमाणत्वे तद्विरोधो न दूषणम् ॥
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+' पञ्च-रात्रम् अ-प्रमाणं वेद-बाह्यत्वात्' इति विरोधानुमानं पूर्व-पक्षिणा प्रदर्शितम् ।  
+तत्रोच्यते सिद्धान्तिना 
+' आगमविरुद्धं च ' इति ।  
+आगम-पदेन पाञ्चरात्रागमः अभिप्रेतः ।  
+पाञ्चरात्रागमे प्रतिपाद्यमानोऽर्थः प्रमाणम्  
+इति तेनैवागमेन बोध्यते इत्यर्थः । तत्र आक्षिपति मीमांसक: ' अथे 'ति । ' तस्य' पाञ्चरात्रागमस्यैव अप्रामाण्ये निश्चिते सति, मदुक्तेनानुमानवाक्येन विरोधः स्फुट एव । तत्र को दोषः ? इति तस्य प्रश्नः 1 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त एवं सति  
 तद्+++(→शब्दतः)+++-अप्रामाण्ये ऽनुमान-प्रामाण्यम् +++(इष्यते)+++,  
 अनुमान-प्रामाण्ये +++(प्रदर्शिते)+++ तद्+++(→शब्दतः)+++-अप्रामण्यम् +++(इष्यते)+++  
-इत्य् अन्योन्याश्रयणम् ।  
+इत्य् अन्योन्याश्रयणम् । +++(5)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION.  
 Why, if that were so, that would mean that  
@@ -353,10 +384,10 @@ But I don't see how the objector can reasonably infer the validity of Pañcarāt
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च किमिदं वेद-बाह्यत्वम्?   
+अपि च किम् इदं वेद-बाह्यत्वम्?   
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 57\. Besides, what does this mean, "being nonVedic, or outside the Veda?" 
 </details>
@@ -372,7 +403,7 @@ But I don't see how the objector can reasonably infer the validity of Pañcarāt
 यदि वेदान्यत्वं ततः +++(वेद-भिन्नत्वात्)+++ प्रत्यक्षादिभिर् अनैकान्तः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[45]]  
 If it means that Pañcaratra is different from the Veda,  
@@ -396,7 +427,7 @@ which are also different from the Veda.
 इति,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If, in order to avoid this defect, the ground is thus specified, 'because, while being language, it is different from the Veda,' we have a hetvantaram deadlock,  
 which, as they say, occurs when into a syllogism with an unqualified ground  
@@ -423,7 +454,7 @@ By the rules of debate this means a defeat.
 अनैकान्तिकश्च मन्वादिवाक्यै ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Also, we then have an occasional application to the statements of Manu, 
 which also are language and different from the Veda, 
@@ -444,7 +475,7 @@ which also are language and different from the Veda,
 **मन्यसे** किन् नु तार्किक? ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If then, my slow-witted opponent, in order to remove this defect from your ground  
 you claim that being outside the Veda means  
@@ -466,7 +497,7 @@ then what do you, logician, think of it?
 ततो वेदैर् अनैकान्त्यम्,   
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Well, by this definition of the ground we get meaning,  
 
@@ -488,7 +519,7 @@ which does not derive from the Veda!
 अथवा अ-वेदत्वे सति शब्दत्वे सति अ-वेद-मूलत्वाद् इति हेतुः,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 When the ground is redefined as 
 
@@ -512,7 +543,7 @@ When the ground is redefined as
 अनैकान्त्यं **प्रसज्यते** ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 then again there would inevitably be an occasional application to statements of reliable persons  
 which do not derive from the Veda  
@@ -537,7 +568,7 @@ and yet are valid, like
 अत्रापि "अजीर्णे मन्दम् अश्नीयाद्" इत्यादौ व्यभिचारिता ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If the reason is further corrected into:  
 "because it does not derive from the Veda, namely, in case of a language-statement -but not a Vedic statement-  
@@ -564,7 +595,7 @@ then still we have a vicious applicability to such precepts as
 +++(अतः पक्षोऽसिद्धो भवति)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[46]]  
 Again, if the ground is then reformulated as 
@@ -591,7 +622,7 @@ since the great majority of its Statements concern Brahman.
 तच्-चैतद् अनन्तरम् एव वक्ष्यामः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If then, the specification is added  
 "....when it deals with objects that are outside the scope of other pramāņas,"  
@@ -612,7 +643,7 @@ that the Perception of God encompasses all things related to dharma and adharma.
 तद् अलम् अनेनाशिक्षिताक्षपाद-मतानाम् अ-प्रतिष्ठित-प्रतिभा-विजृम्भितेन ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 We shall discuss this point presently (infra §§ 76 F.);  
 this suffices for the time being to expose the baseless fancies  
@@ -637,10 +668,10 @@ Akshapada - The founder of the school of logic.
 अतो नानुमान-विरुद्धः पक्षः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Other conceivable inferences will be presented; and refuted, later on.  
-We conclude therefore, that the proposition "Pancaratra is authoritative," is not in conflict with Inference.
+We conclude therefore, that the proposition "Pañcarātra is authoritative," is not in conflict with Inference.
 </details>
 
 
@@ -656,7 +687,7 @@ We conclude therefore, that the proposition "Pancaratra is authoritative," is no
 पञ्च-रात्र-शास्त्र-प्रामाण्य-प्रतिपादकस्य "इदम् महोपनिषदम्" इत्य्-आद्य्-आगम-शतस्य प्रदर्शयिष्यमाणत्वात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 58\. Nor is it in conflict with Scripture,  
 for hundreds of scriptural statements, like idam mahopaniṣadam,  
@@ -669,13 +700,14 @@ will be adduced which set forth that Pañcarātra is authoritative.
 नाप्यागमविरुद्धः पञ्चरात्रशास्त्रप्रामाण्यप्रतिपादकस्य इदम्महोपनिषदम् इत्याद्यागमशतस्य प्रदर्शयिष्यमाणत्वात् ।  
 </details>
 
+## न स्व-व्याघातादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-वचन+++(→विरोधः)+++--स्वाभ्युपगम+++(→विरोधः)+++--सर्व-लोक-प्रसिद्धि-विरोधाश्  
 **शब्द-विरोध**-प्रकारास् त्व् अनाशङ्कनीया एव, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 There are no grounds to suspect in our proposition  
 anyone of the three kinds of contradiction of language-statements;  
@@ -697,7 +729,7 @@ or contradiction with universally accepted facts.
 स हि त्रेधा - उक्तिमात्रविरोधः, धर्मोक्तिविरोधः, धर्म्युक्तिविरोधश् चेति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[47]]  
 First, there is no contradiction within the statement.  
@@ -720,7 +752,7 @@ and of utterance of substance.
 यथा "यावज्-जीवम् अहं मौनी" इति,+++(5)+++  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Firstly, the proposition is not contradicted by its mere utterance,  
 for the statement of the thesis "Pañcarātra Sastra is authoritative"  
@@ -745,7 +777,7 @@ does not cancel its own content, as does, for instance, the statement:
 सर्ववाक्यानाम् इव मिथ्यात्व-वचनम्,+++(5)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Secondly, there is no contradiction through utterance of property,  
 as for example the statement: "All statements are untrue;"  
@@ -768,7 +800,7 @@ does not cancel the proposition.
 पञ्च-रात्र-शास्त्रत्वं प्रामाण्येन विरुद्धम्, (प्. ३२)+++(5)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Thirdly, there is no contradiction through utterance of substance,  
 since in the given substance a connection with the given property is not contradictory:  
@@ -789,7 +821,7 @@ as motherhood is contradicted by the property sterility.
 +++(वेद-)+++विहित-हिंसानाम् इवाधर्मत्व-प्रतिज्ञाने +++(तत्-तत्-परिहारेण)+++ विवादाध्यासस्योपलक्षत्वात्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For upon the assertion of the authoritativeness of the substance in question,  
 it is not contradicted by any particular substance named in Revelation,  
@@ -821,7 +853,7 @@ So far the argument is not for validity but against invalidity.
 तद् एवं प्रतिपन्नः पक्षः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 There is, therefore, no contradiction by language statement;  
 so that we conclude that the proposition is presentable. 
@@ -839,7 +871,7 @@ so that we conclude that the proposition is presentable.
 नापि हेतोर् अनैकान्तिकत्वादयो दोषाः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 59\. Nor is the ground affected by logical defects, like occasional application etc. 
 </details>
@@ -855,7 +887,7 @@ so that we conclude that the proposition is presentable.
 तथा हि न तावद् अनैकान्तिकः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The ground is not occasionally applicable to other terms. 
 </details>
@@ -874,7 +906,7 @@ The ground is not occasionally applicable to other terms.
 असाधारणस्य "तत्रैव गन्धवत्त्वम्" +++(इत्य् अन्यत्रादृश्यमानो हेतुः)+++,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[48]]  
 This fallacy of occasionalness is of two kinds, general occasionalness and special occasionalness.  
@@ -898,7 +930,7 @@ Since only earth (as an element) possesses smell, this ground has no general app
 असाधारणस्यतत्रैव गन्धवत्त्वम्,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Our ground, namely,  
 'Pañcaratra is authoritative, because it produces faultless knowledge',  
@@ -928,7 +960,7 @@ Like the ground "because it is knowable" which applies to things regardless of w
 न हि निर्द्दोष-ज्ञानकारणत्वम् अ-प्रमाण-भूत--विप्रलम्भक-वचनादिषु विपक्षेषु दृष्टचरम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For this ground, namely its being a cause of faultless knowledge,  
 has not been found before in the alternative propositions  
@@ -948,7 +980,7 @@ that Pañcaratra is deceptive and hence nonauthoritative.
 ज्योतिष्-टोमादि-वाक्य-दृष्टान्ताभिधानेनैव स-पक्षान्वयस्य प्रदर्शितत्वात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Neither does the ground have a specially occasional application,  
 because the illustration "like statements on Vedic sacrifices such as jyotiṣṭoma etc."  
@@ -968,7 +1000,7 @@ shows its connection with other instances on the same side of the argument.
 न हि निर्दोष-ज्ञान-कारणत्वम् अप्रामाण्येन व्याप्तम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor is the ground precluded,  
 since there is no concomitance of its opposite; being a cause of faultless knowledge is not invariably accompanied by nonauthoritativeness.  
@@ -987,7 +1019,7 @@ since there is no concomitance of its opposite; being a cause of faultless knowl
 आगमानुगुण्याच् च ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor is the ground cancelled by lapse of time,  
 since there is no conflict with Perception  
@@ -1007,7 +1039,7 @@ and in this it is analogous with Scripture.
 पञ्च-रात्र-शास्त्रस्याश्रयत्वात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor is the ground itself unproved or unestablished.  
 If a ground is unestablished,  
@@ -1026,7 +1058,7 @@ The first does not apply, for its locus is Pañicarātra Sastra, which is proved
 सोऽपि त्रेधा - अज्ञान-सन्देह-विपर्ययभेदात्,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor does the second apply:  
 for there are three ways in which a ground may be unestablished as to its essence:  
@@ -1046,7 +1078,7 @@ through ignorance, through dubiety, or through reversion.
 तत्-प्रतिपादक-शब्दोच्चारणात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Ignorance does not apply,  
 as follows from the fact that the words describing the ground are pronounced.
@@ -1071,7 +1103,7 @@ Obviously, if the ground were not known, it could not be stated.
 प्रतिवादिनो ऽपि दोषानुपलम्भाद् एवानायास-सिद्धत्वात्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor does dubiety apply,  
 for that the ground is correct is undoubted and self-evident to the defender of the proposition,  
@@ -1089,7 +1121,7 @@ while for the opponent the same is easily proved by the fact that no defects are
 विपर्ययासिद्धिस्तु दूरोत्सारितैव ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[49]]  
 That the ground would be unestablished through reversal is utterly out of the question.
@@ -1108,7 +1140,7 @@ That the ground would be unestablished through reversal is utterly out of the qu
 > ननु कथं पौरुषेयत्व-सामान्याद् आपतन्ती दोष-संभावना अपनीयते 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 60\. OBJECTION. But how can we discard the supposition that the Pañcaratra texts are faulty?128  
 This supposition arises instantly since the texts are of personal origin. 
@@ -1131,7 +1163,7 @@ This objection seems to speak to the summary denial that the ground is unestabli
 पञ्चरात्रमन्त्राणां कथं वाक्यत्व-सामान्याद् आपतन्ती वेदेषु सा +++(दोषसंभावना)+++ वार्यते, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION. How do you avoid the same supposition in the case of the Vedas?  
 There too it arises instantly, since the Vedas are language-statements.  
@@ -1149,7 +1181,7 @@ There too it arises instantly, since the Vedas are language-statements.
 तद् इहापि सर्व-ज्ञावाप्त-काम--परम-पुरुष-प्रणीततयेत्य् अवगम्य शाम्यतु भवान् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 When you reply, it is avoided because the Vedas have no personal author,  
 then you may realize that in our case, too, it is avoided, since the Tantras have been composed by the Supreme Person,  
@@ -1174,7 +1206,7 @@ and you may keep quiet!
 प्रमाणत्वम् इति स्थितिः ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 What I mean to say is this.  
 
@@ -1206,7 +1238,7 @@ hence the following debate with the Prabhakara,
 यूथम् इत्य्-एवम्-आदिषु ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Its authority is in certain cases invalidated by defects in the character of the speaker,  
 for instance in a language statement,  
@@ -1228,7 +1260,7 @@ for instance in a language statement,
 ध्वनिर् **एवापमार्ष्टि** नः ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The statements in the upanisad portion of the Veda  
 remove whatever suspicion we may have  
@@ -1251,7 +1283,7 @@ about any defects in the character of the speaker in the text collection here un
 +++(वञ्चन=)+++विप्रलम्भादयः कथम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For the Vedanta texts set forth that the omniscient Lord of the world is supremely compassionate;  
 then how can we suppose Him to be deceitful etc.? 
@@ -1276,7 +1308,7 @@ then how can we suppose Him to be deceitful etc.?
 व्युत्पत्त्यग्रहणाद् इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 61\. OBJECTION.  
 However, I have said that language statements have no authority  
@@ -1306,7 +1338,7 @@ they do not have proper denotative power.
 शक्तिं, कार्यपराद् इव ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION.  
 This view is not correct, language, eliciting a fact by direct application,  
@@ -1334,7 +1366,7 @@ by applications which concern karyas.
 तद्-भाव-भावितया शब्दस्यैव प्रियार्थाऽवबोधकताम् **अव्यवस्यति** ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Consider the illustration that has been given above (supra § 37.),  
 When certain manifestations (of joy) in a man's face,  
@@ -1364,7 +1396,7 @@ the statement itself has the power to convey an agreeable meaning.
 तद्-अनन्तर-संजात--जात-कर्मावबोधतः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If there arises a doubt as to which particular ground of happiness  
 amongst the many different grounds that may occur according to past, present and future, then consider this.  
@@ -1387,7 +1419,7 @@ receives knowledge that a birth ceremony is being held.
 प्रतीतेः किन् नु कारणम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 He thinks to himself, "There must be a reason for this."  
 Then he considers,  
@@ -1409,7 +1441,7 @@ Then he considers,
 इति **व्युत्पित्सुर्** अर्भकः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 and he realizes that this meaning was precisely this that a son had been born. 13 
 </details>
@@ -1449,7 +1481,7 @@ but a communication of an established fact,
 सिद्धासिद्धार्थ-वाचिता ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And on that issue:  
 Definite knowledge of the donation of words in a sentence is had through the words that are included or excluded. This being so, 51 words denote their meanings, whether these are established things or not.
@@ -1464,15 +1496,26 @@ Definite knowledge of the donation of words in a sentence is had through the wor
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु न तद्भावभावितामात्रेण कार्यकारणभावः, अति प्रसङ्गात् ।  
-न च जातकर्मकर्तव्यताऽवगतिर्नियमेन प्रियार्थावगमपुरस्सरी, दृश्यते हि कुटुम्बभरणायासविदूयमानमनसोऽप्रीतिपूर्विकापि तत्कर्तव्यतावगतिः, कार्यावगतिः किं शब्दकारणिका दृष्टा येन गामानयेत्यादौ गवानयनादिकर्तव्यतावगतिः शब्दकारणिकाऽभ्युपेयते ।  
-अथ आकस्मिकत्वानुपपत्तेः सन्निहितशब्द एव तदवगमहेतुरिति चेत् समानोऽयं विधिरितरत्रापि ।  
-यापि प्रवृत्तिहेत्वर्थप्रतिपादकता क्वचित् ।  
-लिङादिप्रत्ययावापहैतुकी साऽवसीयते ॥  
-यश्च कार्यपरतामेवाखिलपदानामातिष्ठते, तेनाप्यावापोद्धारविनिर्द्धारितासंसृष्टशरीराणामेव गवाश्वादीनां तत्पदार्थता समर्थनीया, समर्थ्यमानापि कार्यान्वयिन्येव समर्थ्यत इति चेत् अलं व्यसनेन अन्यान्विताभिधानेनापि व्यवहारोपपत्तेः ।  
-अवश्याश्रयणीयेयमन्वितार्थाभिधायिता ।  
-कार्यान्विताभिधायित्वमन्यथा दुर्वचं यतः ॥
+ननु न तद्-भाव-भाविता-मात्रेण कार्य-कारण-भावः, अति प्रसङ्गात्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+ननु न तद्-भाव-भाविता-मात्रेण कार्य-कारण-भावः, अति प्रसङ्गात्।
+</details>
+
+
+न च जात-कर्म-कर्तव्यताऽवगतिर् नियमेन प्रियार्थावगम-पुरस्सरी, दृश्यते हि कुटुम्ब-भरणायास-विदूयमान-मनसोऽप्रीति-पूर्विकापि तत्-कर्तव्यतावगतिः, कार्यावगतिः किं शब्द-कारणिका दृष्टा येन गाम्-आनयेत्य् आदौ गवानयनादि-कर्तव्यतावगतिः शब्द-कारणिकाऽभ्युपेयते। अथ आकस्मिकत्वानुपपत्तेः सन्निहित-शब्द एव तद्-अवगम-हेतुर् इति चेत् समानोऽयं विधिर् इतरत्रापि।
+
+> यापि प्रवृत्ति-हेत्व्-अर्थ-प्रतिपादकता क्वचित्।  
+> लिङादि-प्रत्ययावाप-हैतुकी साऽवसीयते॥
+
+यश् च कार्य-परताम् एवाखिल-पदानाम् आतिष्ठते, तेनाप्य्-आवापोद्धार-विनिर्द्धारितासंसृष्ट-शरीराणाम् एव गवाश्वादीनां तत्-पदार्थता समर्थनीया, समर्थ्यमानापि कार्यान्वयिन्य् एव समर्थ्यत इति चेत् अलं व्यसनेन अन्यान्विताभिधानेनापि व्य्-अवहारोपपत्तेः।
+
+> अवश्याश्रयणीयेयम् अन्वितार्थाभिधायिता।  
+> कार्यान्विताभिधायित्वम् अन्यथा दुर्-वचं यतः॥
 
 अव्याप्तञ्चैतत् कार्यान्वितमेव सर्वत्र पदाभिधेयमिति लिङादिषु व्यभिचारात्, लिङादयो हि परिनिष्ठिताधिकाराद्यनुबन्धसंबन्धिनमेव स्वार्थमभिदधति ।  
 अथ तेष्वान्विताभिधानमितरत्र कार्यान्विताभिधानमिति चेत् तदर्द्धजरतीयम्,  ततो वरं सर्वत्रान्विताभिधानमेवाश्रीयताम् ।  
@@ -1716,7 +1759,7 @@ Definite knowledge of the donation of words in a sentence is had through the wor
 न चातिचिरम् अनुवर्तत इति
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 82\. Considering that the sensual pleasure to be had  
 from attainment of heaven, the birth of a son etc.  
@@ -1738,13 +1781,13 @@ is inseparable from various forms of misery and does not, continue for long,
 स्वावगमाराधनावबोधिनीं पञ्चरात्र-संहितां निरमिमीतेति निश्चीयते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 the supreme sages Sandilya,. Narada and others have rejected this pleasure,  
 which in their view was really misery,  
 and in order to attain the release left their dwellings to become mendicants;  
 and they have decided definitively that  
-He has created the Pancaratra Sastra  
+He has created the Pañcarātra Sastra  
 which sets forth the knowledge and manner of propitiation of Himself  
 which constitute the sole means of attaining the unparalleled beatitude they sought. 
 </details>
@@ -1768,7 +1811,7 @@ which constitute the sole means of attaining the unparalleled beatitude they sou
 विभ्रमाद्य् अपि **संभवि** ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 83\. This argument cannot be extended to other Tantras,  
 for in the various authors of those Tantras error etc. is possible.  
@@ -1789,7 +1832,7 @@ for in the various authors of those Tantras error etc. is possible.
 मूलं तैर् एव नेष्यते ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 It is impossible that Perception [[69]] 
 or another means of knowledge forms the basis for the other Tantras,  
@@ -1811,7 +1854,7 @@ and they themselves do also not claim that Scripture is the basis.
 कल्पना तेषु **बाध्यते** ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Besides, because they communicate a meaning  
 that is incompatible with the conclusions of the upanisads  
@@ -1832,7 +1875,7 @@ the view that these Tantras are based on Perception or Scripture is sublated.
 चर्या-मार्गानुसारिणः ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For there are four kinds of followers of the way of life set forth in those Tantras, 
 </details>
@@ -1852,7 +1895,7 @@ For there are four kinds of followers of the way of life set forth in those Tant
 मतम् एवं प्रचक्षते ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 the Kāpālikas, Kālamukhas, Pasupatas and Saivas.  
 The Kapalika doctrine is described as follows: 
@@ -1874,7 +1917,7 @@ The Kapalika doctrine is described as follows:
 **न ब्रह्मावगमाद्** इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 the reward of release is attained by knowing  
 what the six mudrikas are and by wearing them,  
@@ -1904,7 +1947,7 @@ External signs worn by Saiva sectarians.
 ध्यात्वा निर्वाणम् ऋच्छति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 As they say, 
 
@@ -1932,7 +1975,7 @@ As they say,
 च मुद्रा-षट्कं **प्रचक्षते** ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The six mudrikas of the Kāpālikas are stated to be the earring, necklace, pendent, head ornament, ashes and the sacrificial thread: 
 </details>
@@ -1953,7 +1996,7 @@ The six mudrikas of the Kāpālikas are stated to be the earring, necklace, pend
 **न** भूय इह **जायते** ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 there are two more subsidiary mudras described, namely skull and skull-staff.  
 One whose body is marked by these mudras will not be reborn in the world." 
@@ -1972,7 +2015,7 @@ One whose body is marked by these mudras will not be reborn in the world."
 निन्दित-भगासन-स्थ-देह-ध्यानस्यापवर्ग-साधनत्वं श्रुतयो **मृष्यन्ति**,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Now, the śrutis do not bear out their view that the knowledge of such paraphernalia, the wearing of them  
 and the concentration on the body in the immoral vulva posture  
@@ -1994,7 +2037,7 @@ are means to attain release,
 **आचक्षते** -
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 for the śrutis expound that  
 release is attainable only by one who has renounced all sensual desires of this world and the other world  
@@ -2016,7 +2059,7 @@ and who concentrates on the soul Vasudeva as the cause of the entire Universe:
 इत्य्-आद्याः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 "knowing Him one goes beyond death;  
 there is no other path to tread etc." (Svet Up. 3.8.) 
@@ -2046,7 +2089,7 @@ there is no other path to tread etc." (Svet Up. 3.8.)
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The same is. true of the Kalamukhas who teach 
 that certain practices,  
@@ -2071,7 +2114,7 @@ these teachings are outside the Veda.
 तद् अपि श्रुति-बहिष्-कृतम् एव ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 84\. Also some of the teachings of the Pasupatas and the Saivas  
 in which compatible and incompatible elements are indiscriminately mixed  
@@ -2089,7 +2132,7 @@ are likewise outside the Veda,
 तत्रैषा पाशुपतप्रक्रिया ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The Pasupata system is as follows: 
 </details>
@@ -2108,7 +2151,7 @@ The Pasupata system is as follows:
 पञ्चाध्यायीम् **अचीकॢपत्** ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 there are individual souls which are called paśus, cattle,  
 and their overlord is Siva, the Lord of Cattle.  
@@ -2132,7 +2175,7 @@ To assist the souls Siva has composed the Paficādhyāyi. ("The Doctrine of the 
 इति,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 There the five Categories are explained, namely,  
 Cause, Effect, Injunction, Yoga and the Cessation of Misery. 
@@ -2154,7 +2197,7 @@ Cause, Effect, Injunction, Yoga and the Cessation of Misery.
 तत्-कला कारणान्तरम् ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The Cause is of two kinds, material and instrumental.  
 Rudra is the instrumental cause  
@@ -2175,7 +2218,7 @@ and a sixteenth part of him is the material cause.
 +++(छन्दः??)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The Effect comprises the elements from Mahat to earth.  
 The Injunction is stated to comprehend principally a number of rites, secret practices, bathing and lying in ashes etc. 182  
@@ -2203,7 +2246,7 @@ The text reads güṭhācāramukhasmasānabhasitāvasānaḥ pareļi??, which is
 इति ते पञ्चापि संकीर्तिताः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The Yoga is said to be concentration and the muttering of formula, OM etc.   
 The Cessation of Misery is held to be release;   
@@ -2231,7 +2274,7 @@ The text reads yogo dharanam ucjate hydi dhiyām onkarapuream tatha, and seems o
 ताम् एव निश्शेष-वैशेषिकात्म-गुणोच्छेद-लक्षणां मुक्तिं **मन्यते**। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The system holds that this cessation or release is defined by the annihilation of all the qualities of the differential soul. 
 </details>
@@ -2248,7 +2291,7 @@ The system holds that this cessation or release is defined by the annihilation o
 इयमेव चेश्वरकल्पना शैवानामन्येषां च ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 This conception of God is held by the Saivas as well as the others. 
 </details>
@@ -2264,7 +2307,7 @@ This conception of God is held by the Saivas as well as the others.
 सेयं सर्वा श्रुति-विरुद्धा कल्पना यतः -  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[71]]  
 And this view of God is entirely, incompatible with Scripture, for   
@@ -2284,7 +2327,7 @@ And this view of God is entirely, incompatible with Scripture, for
 तत्र तत्रासकृच् छृतः ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 it is revealed in śruti that the Supreme Brahman is both the material and the instrumental cause of the Universe.  
 Also, it is repeatedly revealed in the scriptures that release consists in perfect bliss. 
@@ -2305,7 +2348,7 @@ Also, it is repeatedly revealed in the scriptures that release consists in perfe
 किञ्चिन् नैव **प्रतीक्षते** ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 As the authoritativeness of these Tantras is already vitiated by their mutual contradictions,  
 it is not really necessary for them to be rejected with the stick of the Veda. 
@@ -2327,7 +2370,7 @@ it is not really necessary for them to be rejected with the stick of the Veda.
 ततोऽपि श्रुति-बाह्यता ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 85\. Moreover, the Saivas etc. accept stages of life etc.  
 that are outside the varnasrama system  
@@ -2354,7 +2397,7 @@ and are consequently outside the Veda.
 इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 As they say," merely by entering Consecration one becomes instantly a Brahmin.  
 A man becomes an ascetic by accepting the Kāpālika vow." 
@@ -2378,7 +2421,7 @@ A man becomes an ascetic by accepting the Kāpālika vow."
 न च वाच्यम् अ-प्रमाण-भूतम् इयन्तं ग्रन्थराशिं कथं प्रत्ययिततरो रुद्रः प्रणयतीति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 86\. Let it not be said, How could Rudra, who is very trustworthy, promulgate such a vast collection of texts which are not authoritative?
 </details>
@@ -2395,7 +2438,7 @@ A man becomes an ascetic by accepting the Kāpālika vow."
 अति-प्रसङ्गादिति, यतः-
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
  Nor is it right to hold  
  that these texts are based upon the recollection of an author of the same name as Siva,  
@@ -2415,7 +2458,7 @@ A man becomes an ascetic by accepting the Kāpālika vow."
 तावता **ऽतिप्रसज्यते** ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For the theory that the author was in error  
 and could be in error,  
@@ -2439,7 +2482,7 @@ and entails no overextension to other texts.
 प्रमादोऽपि च नात्यन्तं रुद्रादिषु न सम्भवी ।+++(4)+++  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And error is not entirely impossible in the case of such persons as Rudra etc. 
 </details>
@@ -2458,7 +2501,7 @@ And error is not entirely impossible in the case of such persons as Rudra etc.
 इति नावश्यं प्रमाद एवाश्रयितव्यः,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Or else one may reason that since Rudra may have composed such a system  
 for the purpose of deceiving the world  
@@ -2482,7 +2525,7 @@ it is not even necessary to assume error on his part.
 विरुद्धाचरणानि च ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[72]]  
 For thus it reads in the Varaha Purana, 
@@ -2510,7 +2553,7 @@ For thus it reads in the Varaha Purana,
 इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > Having shown that the fruit can be won with little effort,  
 > you must delude all these people quickly."84
@@ -2538,7 +2581,7 @@ corresponds to Varaha Purana. 70.36 tvam ca rudra mahabaho mokatastrāni kāraya
 वेद-बाह्यत्वं वेद-मार्गाप-भ्रष्ट-जनाधिकारित्वं तद्-व्यामोहैक-प्रयोजनतां च **दर्शयति** ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Similarly, the venerable Rudra himself shows in the same Purana  
 that the Saiva and the like scriptures which are there being discussed  
@@ -2561,7 +2604,7 @@ and that their only purpose is just to deceive them.
 मया शास्त्रं **प्रदर्शितम्** ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 "I have propounded this sastra  
 as though it were correct doctrine  
@@ -2588,7 +2631,7 @@ cf. Varāha Pur., 70.41, which in cd reads nayasiddhanta sam jñabhir maya shās
 **न** वेदान् बहु **मन्यते** ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 From that time onward, O excellent Ones,  
 the people who believe in the scriptures promulgated by myself  
@@ -2614,7 +2657,7 @@ cf. Variha Pur., 70.38, which reads in cd shastrejo?? abhirato loko bahuljena bh
 > प्रवर्तन्ते कलौ युगे ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Thus the Pasupata and like doctrines are active in the Kali Age.
 </details>
@@ -2637,7 +2680,7 @@ nearest is Varaha Pur., 70.42, tada pasupatam sastram jāyate vedasanjaitam.
 स्व-प्रधान-पूजां पाशुपतादि-तन्त्र-सिद्धां वेद-बाह्यां दर्शयति । +++(4)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Likewise he shows that the worship concerning himself  
 as it is propounded in the Pasupata Tantras and other such Tantras  
@@ -2659,7 +2702,7 @@ and does not form part of the worship of the Bhagavan:
 कनिष्ठम् मोहनं नृणाम् ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 "The said act of worship concerning me which is being observed is really outside the Veda.  
 This ritual called Pasupata is the lowliest and deceives men.188" 
@@ -2686,7 +2729,7 @@ cf. Varaha Pur., 70.21, yad vedabāḥyam karma ṣṣācchāstram udditya senza
 न लिख्यन्तेऽतिगौरवात् ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 "Only the lowest people worship me with exclusion of Visņu."  
 The large numbers of statements like the preceding ones will not be written out here,  
@@ -2711,7 +2754,7 @@ because they are too numerous.
 व्यक्तञ्च वेदबाह्यत्वम् एतच्-छास्त्रानुगामिनाम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 It is clear enough that those who follow these scriptures  
 are outside the Veda, 
@@ -2733,7 +2776,7 @@ are outside the Veda,
 वेद-कर्म-बहिष्-कृताः ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 as is stated in the same Purana: 
 
@@ -2764,7 +2807,7 @@ as is stated in the same Purana:
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[73]]
 In the Kali Age all those who assume that appearance,  
@@ -2786,7 +2829,7 @@ all these hair-tuft wearing devotees of Rudra are consumed by the fire of Brahma
 प्रसिद्धञ् चैतच् छैवागमेषु ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 These practices are well-known in the Saiva scriptures: 
 </details>
@@ -2806,7 +2849,7 @@ These practices are well-known in the Saiva scriptures:
 इत्यादि ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 "Rosary, and bracelet in the hand, a hair-tuft on the head, a skull, bathing in ashes etc," 
 </details>
@@ -2824,7 +2867,7 @@ These practices are well-known in the Saiva scriptures:
 भगवत्-त्यागेन समं वेद-त्यागं कथयति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Similarly, he declares in the Aditya Purana that  
 along with relinquishing the Bhagavan they relinquish the Veda: 
@@ -2846,7 +2889,7 @@ along with relinquishing the Bhagavan they relinquish the Veda:
 इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 "Others, those that wear ashes and hair-tufts as described  
 have formerly been made to relinquish the Veda  
@@ -2871,7 +2914,7 @@ as well as God Nārāyaṇa on account of Gautama's curse."
 यथा लैङ्गै **समीरितम्** ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Moreover, those fools who pass censure on Vasudeva  
 are to be regarded as heretics,  
@@ -2895,7 +2938,7 @@ for thus it is declared in the Linga Puriņa,
 इति,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 "Those who consider the Supreme Person to be equal (to Siva)  
 are to be regarded as heretics who are expelled from the Way of the Veda," (not identified.)
@@ -2923,7 +2966,7 @@ are to be regarded as heretics who are expelled from the Way of the Veda," (not 
 अपि चेदृशगोचरम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 To conclude, it is these followers of other Tantras of whom it is said, in the smrtis:  
 "Heretics, criminals etc.", that they should not be honoured even with a word;  
@@ -2957,7 +3000,7 @@ supra §52.
 **कल्प्यते** कारणान्तरम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 and the declaration "Which are outside the Veda..."  refers to them.  
 Consequently, since it cannot properly be said of the other Tantras  
@@ -2981,7 +3024,7 @@ another cause must be assumed for them.
 भवतां ननु दर्शने ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 87\. OBJECTION. If it is true that for these Tantras another basis must be assumed,  
 let the defect be granted. 
@@ -3004,7 +3047,7 @@ But is in your own view knowledge not self-proved?
 ताव् अपि द्वाव् इह स्फुटौ ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[74]]   
 REFUTATION.  
@@ -3029,7 +3072,7 @@ for both these defects are plain in their case.
 +++(हेतुना ←)+++ तन्त्रत्वेनाभिधित्सितम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The equality of Pañcaratra Tantra and those other Tantras  
 which has been postulated on the ground that both happen to be Tantra,  
@@ -3051,7 +3094,7 @@ while in fact one of the two is incompatible with Scripture and plainly shows a 
 यतो मूलत्व-निश्चयः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 would mean that Brahmin Murder and Horse Sacrifice are on the same level because both are actions:  
 For in the case of Pañcaratra Sastra we have positive certainty that it is based on Scripture and Perception. 
@@ -3074,7 +3117,7 @@ For in the case of Pañcaratra Sastra we have positive certainty that it is base
 कल्पना नेत्य् **अचूचुदम्** ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 88\. OBJECTION. I made the objections (supra 12) that  
 if its being based on Scripture follows from its being established by the Veda,  
@@ -3097,7 +3140,7 @@ then it cannot be assumed that the author was independent.
 "भीषाऽस्माद् इदम्" आदिषु ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION. No. Surely, we can assume no independence in man,  
 but for God it is revealed in Scripture, e.g.,  
@@ -3118,7 +3161,7 @@ but for God it is revealed in Scripture, e.g.,
 > किं तर्हि तद्-अर्थ-स्मरणवत् तन्-मूल-भूत-वेद-वाक्य-स्मरणं नानुवर्तते पाञ्च-रात्रिकाणाम् ?  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 89\. OBJECTION.  
 But if the Pañcaratra traditions are really derived from the Veda,  
@@ -3141,7 +3184,7 @@ whereas the meaning of these words apparently does persist?
 न हि यतः प्रामाण्यं तदेव विस्मर्तुं युक्तम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 It is not right to contend that  
 only the recollection of the meaning is important  
@@ -3163,7 +3206,7 @@ for it is not proper to forget that from which the meaning's authority derives.
 > अथ विस्मरणोपपत्तये प्रलीन-नित्यानुमेय-शाखा-मूलता आश्रीयते।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[75]]  
 Or if, in order to justify this oblivion,  
@@ -3182,7 +3225,7 @@ the standpoint is taken that the doctrine is based on a Vedic sakha which has be
 > नित्यानुमेय-प्रलीन-शाखयोस्तु स्व-रूप-सिद्धिर् एव दुर्लभा ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 then whatever doctrine a person adopts  
 he can always make authoritative simply by attributing it to a lost śākhā;  
@@ -3203,7 +3246,7 @@ however, it is hard to prove what a lost or deducible śākhā actually contain.
 इति ग्रन्थ-प्रणयन-प्रयास-वैयर्थ्यम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Or if these traditions are based on an extant Sakha,  
 then others would know it as well as the author,  
@@ -3227,7 +3270,7 @@ and hence his taking the trouble of promulgating these texts would be purposeles
 न किञ्चिद् अनुपपन्नम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION.  
 The reply to this is as follows:  
@@ -3260,7 +3303,7 @@ On this showing, nothing is unestablished.
 इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 As they say 
 
@@ -3286,7 +3329,7 @@ the Sage, out of compassion with his devotees for their convenience."
 इति नेह प्रपञ्च्यते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The other objections made,  
 which are equally applicable to all Traditions of Manu and the others,  
@@ -3308,10 +3351,10 @@ are easily answered by all those who have made a diligent study of the commentar
 > ननु चेदं वेद-मूलत्वं पञ्च-रात्र-तन्त्राणाम् अनुपपन्नं वेद-निन्दा-दर्शनात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 90\. OBJECTION.  
-The thesis that the Pancaratra Tantras are based on the Veda  
+The thesis that the Pañcarātra Tantras are based on the Veda  
 is disproved by the fact that  
 we find in these very Tantras a condemnation of the Veda. 
 </details>
@@ -3332,7 +3375,7 @@ we find in these very Tantras a condemnation of the Veda.
 > इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For it is said that 
 
@@ -3353,7 +3396,7 @@ For it is said that
 अपि तु - निन्दिताद् इतरत् प्रशंसितुं -
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION.  
 This is the objection of someone  
@@ -3378,7 +3421,7 @@ but rather to praise something else than that which is censured.
 इत्य्-अनुदित-होम-निन्दा उदित-होम-प्रशंसार्थेति गम्यते ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For instance, in the Aitareya Brahmana  
 the censure passed on the pre-dawn oblation  
@@ -3405,7 +3448,7 @@ is understood to praise the post-dawn oblation.
 इति साम-वेद-निन्दा इतर-वेद-प्रशंसार्था, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 It is as in the Manavadharma Shastra (Manusmrti, 4.124.):  
 
@@ -3444,7 +3487,7 @@ here the censure of the Samaveda serves to praise the other Vedas.
 न वेद-निन्देति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Or as in the Mahabharata (Mahabharata 1.265 f):  
 "Formerly the assembled seers placed the four Vedas and the Mahabharata in the balance,  
@@ -3472,7 +3515,7 @@ but to bestow praise on the Mahabharata.
 एवं पञ्चरात्रप्रशंसेति गम्यते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In this same way the above statement must be taken as praise of the Pancarãtra. 
 </details>
@@ -3491,7 +3534,7 @@ In this same way the above statement must be taken as praise of the Pancarãtra.
 तथा ऽत्रापि **भविष्यति** ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Just as the censure of the pre-dawn oblation etc.  
 does not really intend censure,  
@@ -3511,7 +3554,7 @@ so will it be in our case too.
 वेदप्रशंसा बहुशः पञ्चरात्रेऽपि दृश्यते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[77]]  
 In Pañcaratra, too, we frequently find praise of the Veda; 
@@ -3533,7 +3576,7 @@ In Pañcaratra, too, we frequently find praise of the Veda;
 इत्यादौ ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 for example: "Nothing that is made up of words is superior to the Veda,  
 thou who art seated on the Lotus.  
@@ -3561,7 +3604,7 @@ etc.
 इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 91\. Besides in the quotation caturşu vedeşu  (supra §17)  
 the meaning is not that there is no purpose of human importance in the Vedas  
@@ -3580,7 +3623,7 @@ but simply "failing to find the purpose of human importance which is in the Veda
 +++(येन "वेदेषु पुरुषार्थो वर्ततय्" इत्य् अर्थं गृह्णीयात्)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 OBJECTION. However, the principal connection in this sentence is between  
 "failing to find" and "a purpose of human importance;"  
@@ -3599,7 +3642,7 @@ not between "purpose of human importance" and "in the Vedas."
 मैवं - व्यावर्त्याभावात्,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION. Don't argue like that,  
 for there is no negation in the sentence. 
@@ -3621,7 +3664,7 @@ for there is no negation in the sentence.
 इति पञ्च-रात्र-श्रुत्योर् ऐकार्थ्यम् एव प्रतीयते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For it is not so that this purpose of human importance is absent from the Vedas;  
 hence the sentence "failing to find that purpose of human importance which is in the Vedas,  
@@ -3648,7 +3691,7 @@ conveys that both Revelation and Pañcaratra have the same meaning.
 दीक्षादि-संस्कार-विधायकम् "आग्ना-वैष्णवम्" इत्य्-आदि-वाक्यम् अवैदिकं भवति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 92\. The further objection (Supra § 17) that Pañcaratra is non-Vedic because of the injunction that  
 those who are qualified for Vedic sacraments etc.  
@@ -3679,7 +3722,7 @@ do not therefore become non-Vedic.
 तत्-सिद्धौ च तस्यावैदिकत्व-सिद्धिर् इत्य् अन्योन्याश्रयणात् ।+++(4)+++  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[78]]  
 Or if the ground for its non-Vedic character is the injunction of sacraments other than the Vedic ones,  
@@ -3703,7 +3746,7 @@ and if the latter is proved, it is proved that Pañcaratra Sastra is non Vedic.
 उत कतिपयेभ्यः संस्कारेभ्यः?  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Moreover, the ground is either that the Pancarātra sacraments are different from all Vedic sacraments,  
 or that they are different from some Vedic sacraments. 
@@ -3722,7 +3765,7 @@ or that they are different from some Vedic sacraments.
 उपनयनादि-संस्कारस्यापि चौलादि-संस्कारात् संस्कारान्तरत्वेनावैदिकत्व-प्रसङ्गात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Not the latter alternative,  
 for this would mean that the sacrament of Initiation ctc. is non-Vedic  
@@ -3744,7 +3787,7 @@ because it is different from the sacrament of Tonsure;
 पञ्च-रात्र-शास्त्रस्यापि वैदिकत्वाद् इत्य् उक्तम् एव ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 nor the first alternative,  
 because it does not escape the said defect?  
@@ -3769,7 +3812,7 @@ is disproved on the ground that Pañcarātra Sastra is Vedic.
 इति तद् अपि द्वैपायन-वाल्मीकि-प्रणीत-भारत-रामायणादि-ग्रन्थैर् अनैकान्तिकम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 93\. The objection (supra § 17) that Pancarātra is outside the Veda,  
 because like the Pasupata Tantra it is not included among the fourteen sciences  
@@ -3793,7 +3836,7 @@ would also have an occasional application to the texts of the Bharata and Rāmā
 भागवतं शास्त्रं निरस्यतीत्य् उत्प्रेक्ष्येत ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The objection that Pancharatra is non-Vedic  
 because it is rejected by the blessed Badarayana is incorrect.  
@@ -3825,7 +3868,7 @@ model for the all the world?
 दघ्नो घृतम् **इवोद्धृतम्** ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[79]] 
 This has been extracted from the Bharata in its full length of thousand Slokas after it had been churned with the stick of thought,  
@@ -3849,7 +3892,7 @@ as butter is extracted from curds,
 ओषधीभ्यो यथाऽमृतम् ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 and curds from milk,  
 the Brahmin from the bipeds,  
@@ -3872,7 +3915,7 @@ and the amṛta from the herbs
 पञ्च-रात्रानु-**शब्दितम्** ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 this Mahopanisada which is consistent with the four Vedas and the demonstrations of Sankhya and Yoga is called the Pañcaratra. 
 </details>
@@ -3892,7 +3935,7 @@ this Mahopanisada which is consistent with the four Vedas and the demonstrations
 अथर्वाङ्गिरसैस् तथा ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 This is bliss, this is brahman,  
 this is the summum bonum.  
@@ -3913,7 +3956,7 @@ Being consistent with Rk, Yajuh and Saman and the Atharvāngirasas,
 इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 this discipline will of a certainty be authoritative. (Mahabharata, 12 340 (129.76) ff.)
 </details>
@@ -3935,7 +3978,7 @@ this discipline will of a certainty be authoritative. (Mahabharata, 12 340 (129.
 **पूजनीयश्** च माधवः ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And in the Bhismaparvan too: 
 
@@ -3963,7 +4006,7 @@ And in the Bhismaparvan too:
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 according to the Satvata ritual that has been promulgated by Samkarṣaṇa,  
 at the end of the Dvapara age and the beginning of the Kali age." (Mahabharata, 6.66 (3012).) 
@@ -4097,7 +4140,7 @@ at the end of the Dvapara age and the beginning of the Kali age." (Mahabharata, 
 > ननु कथं श्रुति-विरुद्धस्य तन्त्रस्य प्रामाण्याभ्युपगमः?  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 108\. OBJECTION. But how can it be assumed that the Tantra,  
 which conflicts with scripture, has validity? 
@@ -4114,7 +4157,7 @@ which conflicts with scripture, has validity?
 तत्प्रामाण्ये हि श्रुत्या सह विकल्पः प्राप्नोति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For if it is valid,  
 it becomes optional beside 89 scripture;  
@@ -4131,7 +4174,7 @@ it becomes optional beside 89 scripture;
 > +++(पाञ्चरात्रेण)+++ विकल्पश् च अष्ट-दोष-दुष्टः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 and optionality is deficient in the case of the Tantras by eight defects. 
 </details>
@@ -4148,7 +4191,7 @@ and optionality is deficient in the case of the Tantras by eight defects.
 यथा "व्रीहिभिर् यजेत यवैर् यजेत" इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Option is assumed  
 when there is no invariable rule that something should be such and not otherwise,  
@@ -4170,7 +4213,7 @@ beside "he must sacrifice with barley."
 उभयोर् अप्य् अन्-अपेक्षत्वाविशिष्टत्वात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In the latter case it is impossible to eliminate one or the other  
 because both ~~neither~~ of these statements is characterized by independence. 
@@ -4187,7 +4230,7 @@ because both ~~neither~~ of these statements is characterized by independence.
 > **न** चैवम् अपि पञ्च-रात्र-श्रुत्योर् **विकल्पेन भवितव्यम्** अतुल्यत्वात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In the former case, however, there can be no such option between scripture and Pafcarātra,  
 because the two are not equal; 
@@ -4206,7 +4249,7 @@ because the two are not equal;
 कथम् अनयोर् विकल्पः?  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 for the Vedic statement is independent, because it is preterhuman,  
 whereas the Pañcaratra statement is dependent.  
@@ -4228,7 +4271,7 @@ So how can they be alternatives and optional?
 श्रूयतां - पञ्च-रात्र-शास्त्रस्यापि निरपेक्षत्वाद् एव +++(विकल्पत्वम्)+++।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 109\. REFUTATION. Listen: because Pañcarātra too is independent.
 </details>
@@ -4245,7 +4288,7 @@ So how can they be alternatives and optional?
 > वचसो निरपेक्षता ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 OBJECTION. How can a statement deriving from a person be independent? 
 </details>
@@ -4268,7 +4311,7 @@ OBJECTION. How can a statement deriving from a person be independent?
 चतुर्णाम् अप्य् असम्भवः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION.  
 Let us ask the logician to explain this-  
@@ -4298,7 +4341,7 @@ All four are impossible.
 अन्यत्र व्युत्पत्ति-ग्रहणात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 When the statement is heard,  
 "One must worship the Bhagavan with the attendance due an emperor," (not identified)  
@@ -4318,7 +4361,7 @@ because the meaning of the words has already become known from other contexts.
 श्रुताव् अपि दौर्बल्य-प्रसङ्गात् ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor does this small measure of dependence prove the weakness of the statement's [[90]] validity, for the same weakness would follow for śruthi too.
 </details>
@@ -4344,7 +4387,7 @@ but this must also apply to Vedic statements.
 व्युत्पत्ति-प्रतिपत्ति-व्याकोप-प्रसङ्गात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor is anything else required for the statement to give positive certainty;  
 for the statement "One must worship...." does not occasion doubt  
@@ -4367,7 +4410,7 @@ since that would entail a negation of the direct declaration of the real sense.
 +++(वेद-वाक्य-??)+++गुणतः प्रामाण्यस्यायुक्तत्वात्, +++(गुणत्व-)+++अनभ्युपगमाच् च ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor is anything required for the statement to be true to the facts,  
 for the knowledge produced by the statement does not require anything outside its own cause226 to be true to the facts,  
@@ -4394,7 +4437,7 @@ The validity itself must be proved (namely by the character of the personal auth
 शास्त्र-शरीर-पर्यालोचनाद् एव तत्-सिद्धेः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor is it necessary for the statement to be dependent on something else  
 in order to serve a purpose of human importance,  
@@ -4415,7 +4458,7 @@ for the proof of this purpose follows from a consideration of the entire body of
 इति शास्त्राद् एवावगम्यते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In this case, those who have undergone the afore-mentioned sacraments have knowledge of the content of the statement  
 when they have heard the doctrine,  
@@ -4443,7 +4486,7 @@ this is learnt solely from the Sastra itself.
 इति 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 110\. Or if the objection is raised that,  
 granted the self-validity of Pañcaratra,  
@@ -4466,7 +4509,7 @@ after it has been made certain that the speaker is reliable,-
 निर्दोष-ज्ञान-कारणाद् एव तद्-उत्पत्तेः । +++(4)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 I reply that this view is not correct;  
 knowledge that there are no defects does not completely establish validity,  
@@ -4486,7 +4529,7 @@ and not from the defectlessness of this knowledge.
 सत्ता-मात्रेण तत्-सिद्धेः,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[91]] 111\. Nor is positive certainty about such of the speaker's qualities as his reliability  
 required for his statement to be defectless,  
@@ -4508,7 +4551,7 @@ because the statement's defectlessness is proved solely by its being defectless.
 इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 As the Author of the Varttika declares, 
 
@@ -4540,7 +4583,7 @@ because (its defectlessness) is already known."229
 इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The same Author also shows that,  
 even when there is certainty about its defectlessness,  
@@ -4567,7 +4610,7 @@ they are helpful by merely existing."
 स्मरणाभिलाषाभ्याम् एव तत्सिद्धेः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor does the validity, when it has been established  
 require something else in order that  
@@ -4591,7 +4634,7 @@ because action proceeds on the basis of recollection and desire.
 इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 As they say, 
 
@@ -4617,7 +4660,7 @@ As they say,
 इति समानं सापेक्षत्वम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Moreover, in the case of the self-valid Vedas, too,  
 we find this same dependence in that their validity would not be completely established  
@@ -4644,7 +4687,7 @@ after the certainty about the non-existence of their author.
 इति चेत् 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > 112\. OBJECTION. But when the non-existence of their author is proved without effort  
 by the non-apprehension of what ought to be there,  
@@ -4669,7 +4712,7 @@ the question of the non-validity does not arise for the Veda, for defects are im
 इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 As they say: 
 
@@ -4700,7 +4743,7 @@ therefore its validity cannot be questioned."\*\*"
 अप्रामाण्य-शङ्का नावतरतीति समानश् चर्चः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION. Why, in the case of Pañcarátra too no question can arise about its validity, since the absence of defects is easily proved by the fact that the omniscient and omnipotent God is its speaker; so the argument is the same.
 </details>
@@ -4722,7 +4765,7 @@ REFUTATION. Why, in the case of Pañcarátra too no question can arise about its
 इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In other words, in both cases of self-validity there is positive certainty that there are no defects; in the case of the Veda because there is positive certainty that no person is involved who could possess these defects; in the case of Pañcarātra because there is positive certainty that its speaker possesses virtues which preclude defects. 
 </details>
@@ -4745,7 +4788,7 @@ In other words, in both cases of self-validity there is positive certainty that 
 इति । +++(4)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 It is here as in the following two cases of absence of heat: there is no heat in ether because it is certain that there is no locus for heat in ether; nor is there heat in cold water because there is coldness which precludes heat.
 </details>
@@ -4765,7 +4808,7 @@ It is here as in the following two cases of absence of heat: there is no heat in
 न हि बाधस्य कारणम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 
 113\. Moreover, neither dependence nor independence is by itself a cause of invalidation.29  
@@ -4791,7 +4834,7 @@ It is here as in the following two cases of absence of heat: there is no heat in
 तत्-सापेक्षम् अपीष्यते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The independent cognition that some substance is silver  
 while in reality it is nacre  
@@ -4817,7 +4860,7 @@ this cognition itself is considered as dependent.
 सापेक्षाऽप्य् - अक्ष-जन्मनः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The cognition "This is that flame," is found to be invalidated  
 by the inferential cognition that arises from the disappearance of oil";  
@@ -4845,7 +4888,7 @@ the latter cognition itself is dependent because it arises from a sense-percepti
 भगवच्-छास्त्र-वेदयोः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The simple truth therefore is  
 that which is susceptible to invalidation  
@@ -4870,7 +4913,7 @@ in our present case there is no such susceptibility either of Scripture or of Pa
 निश्चेतुम् इति मन्यसे ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[93]]  
 114\. Or if you think that it is impossible to give positive certainty that the Tantra is promulgated by Vasudeva,  
@@ -4892,7 +4935,7 @@ as it is in conflict with Scripture,
 आविर्भवति बाधितम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 I ask you :  
 Why then does the knowledge arise that Scripture is preterpersonal,  
@@ -4914,7 +4957,7 @@ while it is invalidated because it conflicts with Pañcaratra?
 तत्-प्रणीतत्वम् इष्यताम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 They accept it that the Veda is preterpersonal just because it is Veda; but then one can equally claim that Pañcaratra is promulgated by Vasudeva just because it is Pañcaratra. 
 </details>
@@ -4934,7 +4977,7 @@ They accept it that the Veda is preterpersonal just because it is Veda; but then
 किन् न स्यात् तत्-प्रणीतता ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If the preterpersonal origin of the Veda is proved by the fact that there is no recollection of an author, then why not agree that Pañcaratra is promulgated by Vasudeva just because there is recollection of his authorship? 
 </details>
@@ -4955,7 +4998,7 @@ If the preterpersonal origin of the Veda is proved by the fact that there is no 
 केशवो भगवान् इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For there exists a strong transmission of the recollection, extending to women and children, that Kesava is the author of the Pancarãtra. 
 </details>
@@ -4975,7 +5018,7 @@ For there exists a strong transmission of the recollection, extending to women a
 प्रतिष्ठादीनि कुर्वते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 So great a faith do people have in His authorship that they erect monuments according to the precepts of Pañcarātra, donating elephants, horses and great wealth in various fees, 
 </details>
@@ -4995,7 +5038,7 @@ So great a faith do people have in His authorship that they erect monuments acco
 पठ्यते भारते तथा ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In the Skanda Purana it is said that "Kapila is the promulgator of Samkhya, Kesava of Pañcaratra." 
 </details>
@@ -5018,7 +5061,7 @@ In the Skanda Purana it is said that "Kapila is the promulgator of Samkhya, Kesa
 चतुर्-वेद-समन्वितम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Likewise in the Mahabharata: 
 
@@ -5042,7 +5085,7 @@ This great Upanisada, consistent with the four Vedas,
 यथादृष्टं यथाश्रुतम् ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > as well as with the doctrines of Samkhya and Yoga, called Pañcaratra,  
 which was revealed by Nārāyaṇa's tongue,  
@@ -5069,7 +5112,7 @@ as he had seen it and heard it in the abode of Brahma."
 **विवदन्ते** विपश्चितः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 From these and thousands of other statements in the Puranas, which are supported by the rules of interpretation, the conclusion follows naturally that Pañcaratra was indeed composed by Vasudeva Himself. 
 
@@ -5092,7 +5135,7 @@ On the other hand, some experts dispute that the Veda is eternal! ([[142]] [235]
 भगवच्छास्त्रवेदयोः ।  +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Therefore, the real ground for the thesis that the validity of the doctrine of the Bhagavan and that of the Veda is above question  
 is this that both are causes of defectless knowledge.
@@ -5128,7 +5171,7 @@ is this that both are causes of defectless knowledge.
 तद्-अ-प्रतिषेध इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Consequently, because both are equally exemplary, they are optionally valid. It is with this view in mind that the wise Author of the Sūtras has explained: vijñanādibhave vaa tadapratiṣedhah.
 </details>
@@ -5149,7 +5192,7 @@ Consequently, because both are equally exemplary, they are optionally valid. It 
 उत वस्तुतोऽवहितबुद्ध्या निबद्धम् इति? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > 115\. OBJECTION. However, granted that error is made inconceivable by the Bhagavan's omniscience,  
 yet, since He is also omnipotent,  
@@ -5176,7 +5219,7 @@ or that it has been stated according to the truth with complete attentiveness of
 इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > what way is there to resolve their dilemma? We should prefer to decide that since it militates against Scripture it results in disaster.
 </details>
@@ -5193,7 +5236,7 @@ or that it has been stated according to the truth with complete attentiveness of
 समस्त-श्रुतीतिहास-पुराण-लोक-विप्रतिषेधात्।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION. To this objection the Author replies vipratisedhat, i.e., on account of the contradiction of all śruti, epic, purana and worldly experience. 
 </details>
@@ -5209,7 +5252,7 @@ REFUTATION. To this objection the Author replies vipratisedhat, i.e., on account
 यदि विना कारणेन भगवतः सर्व-शक्तित्व-मात्राद् विप्लावन-शङ्का -  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If, without any reason, merely because the Bhagavan is omnipotent, the question is raised  
 if He might bave intended to ruin His devotees, 
@@ -5228,7 +5271,7 @@ if He might bave intended to ruin His devotees,
 निश्चेष्टं जगद् आपतेत् ॥ +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 why, then one could also raise the question whether He would not hurl even the virtuous into hell by a whim of His omnipotence and consequently the whole world would fall into inactivity! 
 </details>
@@ -5249,7 +5292,7 @@ why, then one could also raise the question whether He would not hurl even the v
 कथं विश्वसिमः ।+++(5)+++  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[95]] 
 
@@ -5277,7 +5320,7 @@ how can we be sure about it?
 यावच्-छक्ति-करणे प्रमाणाभावाद् अनवस्थानाद् 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Or the position can be taken that  
 since there is no evidence that,  
@@ -5295,7 +5338,7 @@ He acted up to the full measure of His omnipotence,
 भगवतश् च स्व-भावाप्त-कामतया विप्रलम्भ-प्रयोजन-विरहाद् 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 since there is no purpose for Him to deceive people  
 because He is satisfied in all His desires,  
@@ -5313,7 +5356,7 @@ because He is satisfied in all His desires,
 वैषम्य-नैर्घृण्यादि-दोषैर् मात्रया ऽपि चासंस्पृष्टत्वात् 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 and since He is not in the least affected by defects of partiality and cruelty etc.  
 </details>
@@ -5329,7 +5372,7 @@ and since He is not in the least affected by defects of partiality and cruelty e
 सर्वप्राणिजातस्य स्वभावसौहृदेन व्यवस्थानात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 because He abides with natural affection for all living beings; 
 </details>
@@ -5351,7 +5394,7 @@ because He abides with natural affection for all living beings;
 तद् एतत् सर्वम् अन्यत्रापि समानम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > and since, if He had composed ~~the Pañcaratra~~ in order to deceive, 
 it would be impossible to demonstrate that  
@@ -5374,7 +5417,7 @@ and if this view is taken, all this will equally apply to the other ~~Vedas~~ as
 तथा हि -  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Therefore, 
 </details>
@@ -5392,7 +5435,7 @@ Therefore,
 विप्रलब्धैः प्रयोजनम् ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 what possible purpose could He who is satisfied in all His desires,  
 who is omniscient and a treasury of compassion  
@@ -5416,7 +5459,7 @@ who have failed to understand the meaning (of the Veda)?
 तुल्य-वच् छ्रुति-मूर्धभिः ॥  +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Or how could the supreme sages everywhere praise the Tantra as being equal to the Upanisads,  
 if it had been composed in order to deceive? 
@@ -5436,7 +5479,7 @@ if it had been composed in order to deceive?
 वदन्ति सन्तस् तम् इमं वदामः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For thus the saints declare in Vārāha Purana, the Ramayana and the Bharata etc. that this Tantra is an equally esoteric doctrine as the Vedas; and we declare the same. 
 </details>
@@ -5455,7 +5498,7 @@ For thus the saints declare in Vārāha Purana, the Ramayana and the Bharata etc
 वर्षलक्षशतैरपि ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[96]]
 
@@ -5479,9 +5522,9 @@ and not in any other way, even in hundreds of lacs of years.
 तस्य वेदाः पञ्चरात्रं नित्यं हृदि वसिष्यति +++(=वत्स्यति)+++ ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
-> If one among thousands will grasp the Pancaratra and,  
+> If one among thousands will grasp the Pañcarātra and,  
 at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra will dwell in his heart forever.237
 
 [237]: not identified.
@@ -5503,7 +5546,7 @@ at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra
 मत्-प्रसादाद् अ-संशयम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > This supreme Pañcarātra doctrine of mine, which is not difficult to grasp, that you shall reach to all the world by my grace, doubtless.25 
 
@@ -5527,7 +5570,7 @@ at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > The Yogins mediate upon the Eternal One with Puranas, Vedas and Pañcaratras, and worship Him with the proper rites. 
 </details>
@@ -5546,7 +5589,7 @@ at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra
 पञ्च-रात्रञ् च सत्तम ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > Thus Samkhya and Yoga on the one hand, and Veda and Aranyaka on the other hand are one and the same; all together they are the members that constitute Pañcaratra
 </details>
@@ -5565,7 +5608,7 @@ at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra
 चतुर्-वेद-समन्वितम् ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > O excellent one! He who sees through Veda and Pañcaratra sees truly; this great Upanisada, consistent with the four Vedas...." 
 </details>
@@ -5587,7 +5630,7 @@ at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra
 इत्य् एतद् उपदिश्यते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Since the number of these and similar statements is infinite, we stop here. If you still raise the question if there cannot be ruin in such a Tantra,  
 then there can be no faith in anything. It is with this view in mind that the Author sets forth: 
@@ -5607,7 +5650,7 @@ then there can be no faith in anything. It is with this view in mind that the Au
 इति।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 vipratisedAt.
 </details>
@@ -5630,7 +5673,7 @@ vipratisedAt.
 प्राग् एव **प्रत्यपादयम्** ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Therefore, even if there were a conflict between the Bhagavan's doctrine and the Veda, there still would be option between them; but we have already expounded that there is no conflict between them at all.
 </details>
@@ -5650,7 +5693,7 @@ Therefore, even if there were a conflict between the Bhagavan's doctrine and the
 > नन्व् अत्र-भवतां +++(शाबर-)+++भाष्यकाराणां विरुद्धांशाप्रामाण्याभिधानं कथम् इव?  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 116\. OBJECTION. However, how can the venerable Author of the Bhasya239 state that those parts which are in conflict are invalid: 
 </details>
@@ -5673,7 +5716,7 @@ Sabarabhasya and KMS.
 वेदानादरो मा भूद् इत्य्-एवम्-परम्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION. "If there be conflict, it is carefully eliminated."  
 This statement means that those of frail minds,  
@@ -5698,7 +5741,7 @@ must not be [[97]] disrespectful to the Veda.
 यथैव हि भगवतो जैमिनेः "कर्म-फलोपन्यासः कर्म-श्रद्धा-संवर्धनाये"ति ।+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 This is comparable to the venerable Jaimini's exposition  
 that the fruits of acts serve to increase people's faith in the acts.
@@ -5719,9 +5762,9 @@ that the fruits of acts serve to increase people's faith in the acts.
 वेदानां वा कुतो न तत् ॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
-117\. The contention has been voiced that Pancaratra is invalid because it is accepted by those who are outside the Veda."  
+117\. The contention has been voiced that Pañcarātra is invalid because it is accepted by those who are outside the Veda."  
 But why could one not equally well contend that the Vedas are invalid  
 because they are accepted by those who are outside Pancarātra? 
 </details>
@@ -5746,7 +5789,7 @@ because they are accepted by those who are outside Pancarātra?
 आहो+++(स्वित्)+++ तद्-द्वेष-शीलता । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Furthermore, what exactly does this mean, being "outside the Veda,"  
 and what means "accepted by those who are outside the Veda?"  
@@ -5777,7 +5820,7 @@ or "being hostile to the Vedas?"
 +धेतुः सर्वत्र **दुष्यति** ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Likewise we must inquire whether "accepted" means learnt" or "known" or "observed."  
 In all  cases the ground proves to be defective, 35 
@@ -5804,7 +5847,7 @@ In all  cases the ground proves to be defective, 35
 हेतोस् तत्र **प्रसज्यते** ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 First of all, if "outside the Veda" means "different from the Veda,"  
 and "accepted" means "learnt",  
@@ -5831,7 +5874,7 @@ which themselves are "different from the Veda."
 दोषाद् अस्मान् न मुच्यसे ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If you take "accepted" to mean "known," you do not get rid of the same defect. 
 </details>
@@ -5850,7 +5893,7 @@ If you take "accepted" to mean "known," you do not get rid of the same defect.
 तथैव व्यभिचारिता ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If the term "outside the Veda" means "different from the Veda,"  
 and "accepted" means "observed,"  
@@ -5873,7 +5916,7 @@ then there would likewise be an occasional application of the ground to the Veda
 प्रायश्चित्त-विधायकैः । +++(4)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If outside the Veda" is taken to mean "performing forbidden acts," 
 the ground has an occasional application to those statements of the Veda  
@@ -5894,7 +5937,7 @@ which enjoin expiatory ceremonies. ([241]: Manusmrti, 8.107.)
 तादृश-वेद-बाह्य-गृहीतत्वम् अनैकान्तिकम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For since statements enjoining expiations, e.g. "One must sacrifice with the kusmanda verses,"  
 whose content is to be "learnt", "known" and "observed," by those who perform forbidden acts, are authoritative,  
@@ -5919,7 +5962,7 @@ People who do prohibited acts follow Vedic expiations; but if acceptance by peop
 हेतोर् असिद्धत्वात्,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor are the Pañcaratra Tantras invalid  
 because they are "accepted" by people hostile to the Veda,  
@@ -5936,7 +5979,7 @@ for the ground is unproved.
 अपि च न वेद-द्वेषि-जन-परिग्रहः प्रामाण्यं प्रतिहन्ति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Besides, acceptance by people hostile to the Veda does not by itself refute the validity of what is accepted. +++(5)+++
 </details>
@@ -5955,7 +5998,7 @@ Besides, acceptance by people hostile to the Veda does not by itself refute the 
 ते हि वेद-प्रामाण्य-प्रोत्सादनाय प्रयस्यन्तः+++(←यस्)+++ ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If it did, the Path of the Heretics would be unbarred;  
 for they endeavour to uproot the validity of the Veda. 
@@ -5975,7 +6018,7 @@ for they endeavour to uproot the validity of the Veda.
 वेदान् कुर्युर् दिगम्बराः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Thus the naked Jainas could effortlessly render the Vedas untruthful  
 simply by accepting" the Vedas in some manner by way of deception.
@@ -6005,7 +6048,7 @@ simply by accepting" the Vedas in some manner by way of deception.
 इति चेत् 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 118\. OBJECTION, A consideration of such statements as "He should never use the Veda, except at a funerary offering," (Manusmrti) shows that the defect affects only the unqualified students, not the defectless Vedic statements themselves.
 </details>
@@ -6024,7 +6067,7 @@ simply by accepting" the Vedas in some manner by way of deception.
 इति सर्वं समानम् अन्यत्राभिनिवेशात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REPLY. Then the defect affects only the unqualified students in the case of the Tantras under discussion as well,  
 and not the defectless Tantras themselves;  
@@ -6049,7 +6092,7 @@ so everything is the same, depending on what partisan view one takes.
 इति 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 244 Or if it be held that "outside the Veda" means "unqualified to perform Vedic acts,"  
 and that Pañcaratra is invalid, like the caityavandana statements,"  
@@ -6075,7 +6118,7 @@ supra § 17: this Buddhist injunction is outside the Veda
 इति विविच्य व्याचष्टाम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 the following distinction must be 99 considered  
 is the ground here that the Tantras are accepted by people unqualified for all Vedic rites,  
@@ -6112,7 +6155,7 @@ This point should be clarified.
 अन्यथा हि ब्राह्मण-हनन--तद्-धनापहरण--वर्णाङ्गना-संगम--वेदाध्ययनादि कुर्वाणाश् चण्डालादयो न दुष्येयुः - तद्-अनधिकारित्वात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Now, the first alternative cannot be adopted,  
 because the ground is not proved.  
@@ -6136,7 +6179,7 @@ simply because they were not qualified to observe these prohibitions.
 तस्य हि तत्-करणं प्रत्यवायाय, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If a man does something he should not do,  
 he commits an offence. 
@@ -6155,7 +6198,7 @@ he commits an offence.
 साधन-विकलश् च +++(चैत्य-वन्दन-)+++दृष्टान्तः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 It follows that everybody is qualified to these Vedic rites,243  
 which shows that the ground is not proved  
@@ -6163,7 +6206,7 @@ and that the illustration falls short of the means of proof.
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 in one sense.
 
@@ -6182,7 +6225,7 @@ For the observance of a prohibition is as much a ritual action as the observance
 नापि कतिपय-वैदिक-कर्मानधिकारिभिर् गृहीतत्वाद् अ-प्रामाण्यं समस्त-वेद-वाक्यानाम् अप्रामाण्य-प्रसङ्गात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor can the second alternative be adopted  
 that the Tantras are invalid because they are accepted by people  
@@ -6204,7 +6247,7 @@ because that would entail the conclusion that all Vedic statements are invalid.
 राजन्यस्येव सोम-पाने,+++(5)+++  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For every man has some Vedic rites for which he is not qualified:  
 the brahmin is not qualified for the Royal Consecration,  
@@ -6224,7 +6267,7 @@ the ksatriya not for the ritual drinking of soma.
 अतो व्यवस्थित-वर्णाधिकारि-गृहीत-वेद-वचनैर् अनैकान्तिको हेतुः, अ-प्रयोजकश् च ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Consequently, this ground has an occasional application to the Vedic statements,  
 which are accepted by qualified persons belonging to the three estates,  
@@ -6246,7 +6289,7 @@ and is therefore inconclusive.
 किन्तु कारण-दोषतः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 As to the illustration,  
 the view that heaven is attained by worshipping a caitya  
@@ -6267,7 +6310,7 @@ but by the deficiency of its cause, [[100]]
 उक्तश्च वैदिक-समस्तास्तिक-प्रवर-भृगु-भरद्वाज-द्वैपायन-प्रभृति-मह-र्षि-जन-परिग्रहः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 119\. We have already said that Pancarâtra has been accepted by the Vedic, and among all orthodox pre-eminent, sages Bhṛgu, Bharadvāja, Dvaipāyaṇa etc. 
 </details>
@@ -6285,7 +6328,7 @@ but by the deficiency of its cause, [[100]]
 प्रासाद-करण--प्रतिमा-प्रतिष्ठापन--प्रणाम-प्रदक्षिणोत्सवादीनि प्रत्यक्ष-श्रुति-विहिताग्निहोत्रादिवत् श्रेयस्-करतर-बुद्ध्या ऽनुतिष्ठतः शिष्टान् पश्यामः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And in the present day we can also observe how exemplary persons of great learning,  
 believing that these rites are most effective in attaining bliss,  
@@ -6306,7 +6349,7 @@ just as they perform the agnihotra and other rituals enjoined directly by Script
 सन्ध्या-वन्दनाष्टका-चरणादेर् अपि निर्मूलत्व-प्रसङ्गात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And it is improper to maintain that their conduct has no foundation,  
 for that would entail that such smārta rites as crepuscular worship, astaka etc., are similarly without foundation. 
@@ -6326,7 +6369,7 @@ for that would entail that such smārta rites as crepuscular worship, astaka etc
 प्रयुक्तानि प्रतीयेरन्न् इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 It has been said that the conduct of exemplary people is authoritative,26  
 and also that even when they do not know the cause of their custom,  
@@ -6346,7 +6389,7 @@ they do know what is proper custom.
 हन्त तर्हि तत्-परिगृहीतत्वाद् वाजसनेयकैकायन-शाखा-वचसां प्रत्यक्षादीनां चाप्रामाण्यप्रसङ्गः ।+++(5)+++  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 120\. If the ground for the invalidity of Pañcaratra is that it is accepted by Bhagavatas, well, then the scriptural statements of the Ekayana Sakha and the Vājasaneyaka sakhas and the means of knowledge Perception, Inference etc., would also be invalid since the Bhagavatas accept those too! 
 </details>
@@ -6364,7 +6407,7 @@ they do know what is proper custom.
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 This same ground, moreover, namely that Pancarãtra is invalid because it is accepted by the Bhagavatas, suffers from two defects; it is both specially-occasional and unproved.249
 </details>
@@ -6381,9 +6424,9 @@ This same ground, moreover, namely that Pancarãtra is invalid because it is acc
 किमिति वा तत्परिग्रहादप्रामाण्यम्? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
-Why is Pancaratra rendered invalid by their acceptance? 
+Why is Pañcarātra rendered invalid by their acceptance? 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6399,7 +6442,7 @@ Why is Pancaratra rendered invalid by their acceptance?
 "रथकार आदधीत" "एतया निषादस्थपतिं याजयेत्" इत्यादि-वचसां प्रामाण्यं नास्ति ?  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If it is because they do not belong to the three estates,  
 then the Atharvanic statements whose content is accepted and observed by rathakaras, nisadas and other groups  
@@ -6423,7 +6466,7 @@ would also be invalid.
 तत्-परिग्रहः प्रामाण्यम् एव द्रढयति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Or, be it granted that the acceptance of certain rites by outcastes renders them invalid;  
 yet, in view of the fact that the eminent brahminhood of these Bhagavatas  
@@ -6444,7 +6487,7 @@ their acceptance of Pañcaratra rather confirms its validity.
 आह केन पुनः प्रमाणेनैषां ब्राह्मण्यमवगतम्,  केन वाऽन्येषाम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 He says: By the same means of knowledge by which the brahminhood of one set of people is evident  
 the brahminhood of another set of people is evident.
@@ -6464,7 +6507,7 @@ the brahminhood of another set of people is evident.
 "ब्राह्मणा" इत्य् **अवगच्छन्ति**।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 121\. OBJECTION. But when one sees the small sons of the twice-born who wear the customary hairtuft, sacred thread, palasa wood stick and munjagrass girdle, one knows, the moment the eyes fall on them, that they are brahmins.
 
@@ -6482,7 +6525,7 @@ the brahminhood of another set of people is evident.
 इह वा किम् अहर् अहर् अधीयमान-वाजसनेयकैकायन-शाखान् विलसद्-उपवीतोत्तरीय-शिखा-शालिनो ऽध्यापयतो याजयत प्रतिगृह्णतो विदुषः **पश्यन्तो** ब्राह्मणा इति नावयन्ति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION. And in our case, when one sees learned people who day after day study the Vajasaneyaka and Ekāyana śākhās, wear prominently their sacred threads, upper garments and hairtufts, impart teaching, sacrifice, receive priestly stipends---does one not instantly know that they are brahmins? 
 </details>
@@ -6506,7 +6549,7 @@ REFUTATION. And in our case, when one sees learned people who day after day stud
 तद्-भागवतेतर-विप्राणम् अपि समानम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If it be held that outcastes, low-caste people etc., may also illegitimately sacrifice, teach, carry palata sticks etc. and that they behave as though they were legitimate brahmins, and that therefore neither costume nor conduct provides positive certainty that a man is a brahmin, then the same applies to other priests than Bhagavatas.
 </details>
@@ -6531,7 +6574,7 @@ If it be held that outcastes, low-caste people etc., may also illegitimately sac
 तद्+++(←रजत)+++-अन्यत्रापि समानम् ।+++(5)+++  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Or be it granted that there are cases where people illegitimately display the marks of brahminhood;  
 still, [[102]] though there may be doubt about the legitimacy of these marks in others because of their resemblance to pretenders  
@@ -6560,7 +6603,7 @@ and lead to infinite regress.
 तद् भागवतानाम् अपि समानम्,   
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 122\. Or if it be held that the others are genuine brahmins because they recollect those gotras which are peculiar to brahmins, the same applies to the Bhagavatas; 
 </details>
@@ -6576,7 +6619,7 @@ and lead to infinite regress.
 वयं भारद्वाजाः वयं काश्यपाः वयं गौतमाः वयमौपगवा इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 for the Bhagavatas have the tradition: "We are descendants of Bharadvaja, of Kasyapa, of Gotama, of Upagava." 
 </details>
@@ -6594,7 +6637,7 @@ for the Bhagavatas have the tradition: "We are descendants of Bharadvaja, of Kas
 सर्वगोत्रस्मरणानां तथाभावप्रसङ्गात् । +++(4)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor is this recollection or tradition of gotras unfounded or merely contemporary, for the same can be argued for all tradition of gotras. 
 </details>
@@ -6613,7 +6656,7 @@ Nor is this recollection or tradition of gotras unfounded or merely contemporary
 सर्वं **व्याकुलयेद्** अयम् ॥ +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If there were doubt about descent since error could conceivably occur,  
 this would confuse the whole world about the authenticity of their brahminhood. 
@@ -6636,7 +6679,7 @@ this would confuse the whole world about the authenticity of their brahminhood.
 **अधीषे** साधु सत्तम +++(प्रतिवादिन्)+++? ॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 After all, anyone may fear that he really is a candala  
 if he suspects his mother of having had a lover;   
@@ -6658,7 +6701,7 @@ and how, my excellent opponent, can you be quite sure yourself that your birth e
 इति न भागवतानाम् अन्येषाञ्च ब्राह्मण्ये कश्चिद् विशेषः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Therefore if the brahminhood of Bhagavatas,  
 which is completely established by the recollection of the various gotras  
@@ -6687,7 +6730,7 @@ between the brahminhood of Bhagavatas and of others.
 यद् एवान्येषाम्?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 123\. Further, if some who believe in the Supreme Person are monotheists and others who believe in [[103]] petty godlings are polytheists,  
 
@@ -6702,7 +6745,7 @@ is then the same authority stated for the brahminhood of the ones as well as of 
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>राममिश्रशास्त्री</summary>
 
 तांस्तु भगवानेव - 
 
@@ -6719,7 +6762,7 @@ is then the same authority stated for the brahminhood of the ones as well as of 
 किन् न एतेन,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 or how else is their brahminhood known  
 if not by that same authority? 
@@ -6732,7 +6775,7 @@ if not by that same authority?
 </details>
  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>राममिश्रशास्त्री</summary>
 
 न केवलं ममैव ब्राह्मण्य-निरुपण-भार  
 आवयोर् उभयोर् एव  
@@ -6750,7 +6793,7 @@ if not by that same authority?
 यद् वाऽर्थापत्तिर् एव वा ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If this is the question, then listen:  
 there remains a criterion to determine brahminhood in either case,  
@@ -6772,7 +6815,7 @@ either Perception, or Inference, or Circumstantial-Implication.
 > ननु कथं प्रत्यक्षं ब्राह्मण्यमवगमयति,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > 124\. OBJECTION. But how can Perception convey that they are brahmins? 
 </details>
@@ -6792,7 +6835,7 @@ either Perception, or Inference, or Circumstantial-Implication.
 इति विभागेन प्रतिपद्यामहे ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > For when we are close to two individuals whom we have not seen before, one a brahmin, the other a ksatriya, of the same age and the same appearance, we do not immediately observe the distinction that one is a brahmin and the other a ksatriya in the same way as we instantly observe the differentness of a goat, an elephant, a buffalo etc. 
 </details>
@@ -6816,7 +6859,7 @@ either Perception, or Inference, or Circumstantial-Implication.
 +++(पूर्वानुभव-साहित्ये ऽप्य् अनवस्था-दोषेणानुपपत्तेः। )+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > Nor is it proper to maintain that  
 >
@@ -6838,7 +6881,7 @@ just as the recollection of the son of a sterile mother is impossible.
 तत्-प्रतिबद्ध-लिङ्गादर्शनात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > Nor can we know from Inference that a man is a brahmin,  
 for we do not find a concomitant mark. 
@@ -6856,7 +6899,7 @@ for we do not find a concomitant mark.
 तेषां ब्राह्मणेन सता संपाद्यत्वाद्, व्यभिचाराच् च ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And such qualities as tranquillity, self-restraint, austerity, purity etc., cannot be taken as marks of brahminhood, because they are available only in the case of a good brahmin and because they are not exclusively confined to brahmins. 
 </details>
@@ -6874,7 +6917,7 @@ And such qualities as tranquillity, self-restraint, austerity, purity etc., cann
 > न चार्थाप्रत्या ब्राह्मण्य-निर्णयः, अनुपपत्त्य्-अभावात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > Nor can Circumstantial-Implication furnish proof of brahminhood,  
 because it is not lacking in reason 
@@ -6894,7 +6937,7 @@ because it is not lacking in reason
 > इत्य्-आदि-वाक्यार्थानुपपत्त्या ब्राह्मण्यनिर्णयः, ब्राह्मण्यादिपदार्थावगमपूर्वकत्वात् तद्वाक्यार्थावगमस्य, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > [[104]]  
 and the fact that the sentence-meaning of the statement, 
@@ -6919,7 +6962,7 @@ for knowledge of that sentencemeaning presupposes knowledge of the word-meaning 
 नायं दोषः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 125\. REFUTATION. All this does not make for a defect in my argument. 
 </details>
@@ -6940,7 +6983,7 @@ for knowledge of that sentencemeaning presupposes knowledge of the word-meaning 
 इत्य् अस्ति नियमः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 There is no invariable rule that  
 Perception becomes manifest only at the first contact between sense and object and not otherwise. 
@@ -6960,7 +7003,7 @@ Perception becomes manifest only at the first contact between sense and object a
 तत् प्रत्यक्षं  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Perception is that which illumines the unmanifest  
 while there is continuity of the operation of the senses.  
@@ -6977,7 +7020,7 @@ while there is continuity of the operation of the senses.
 तथा च ब्राह्मण्यम् इति - तद् अपि प्रत्यक्षम्,  +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Thus there can be Perception of brahminhood; 
 </details>
@@ -6997,7 +7040,7 @@ Thus there can be Perception of brahminhood;
 स्फुटतर-सन्दधद्-ब्राह्मण्यम् । +++(4)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 for when we keep our eyes open we note,  
 immediately upon observing the particular differentiae of the genus brahminhood,  
@@ -7019,7 +7062,7 @@ and who display the sacred thread, upper cloth, hairtuft and munja grass girdle.
 ब्राह्मण्यं ग्राहयती"ति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor does it run counter to ordinary experience that the eyes can convey brahminhood in dependence on the observation of the peculiarities of genus. 
 </details>
@@ -7036,7 +7079,7 @@ Nor does it run counter to ordinary experience that the eyes can convey brahminh
 स्व-गोचर-परिच्छेदोत्पादे कारणम् भवति। +++(5)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 every case the sense becomes the cause of the rise of determination of sense-object when favoured by the accompanying circumstances of place, time, configuration etc. 
 </details>
@@ -7053,7 +7096,7 @@ every case the sense becomes the cause of the rise of determination of sense-obj
 करण-मात्रस्यायं स्वभावो यद् इतिकर्त्तव्यतापेक्षणम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 It is the natural function of the sense-organ as such to relate itself to these accompanying circumstances. 
 </details>
@@ -7076,7 +7119,7 @@ It is the natural function of the sense-organ as such to relate itself to these 
 इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 As the author says: 
 
@@ -7101,7 +7144,7 @@ unless it is favoured by these circumstances.
 प्रत्यक्षत्वं **न मुञ्चति** ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[105]]  
 Consequently the visual sense, when favoured by the recollection of genus,  
@@ -7124,7 +7167,7 @@ without the object giving up its perceptuality.
 करणत्वं यथोदितम् ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 So it is evident that the visual sense can be the instrument of knowledge of genus in dependence on a variety of accompanying factors. 
 </details>
@@ -7144,7 +7187,7 @@ So it is evident that the visual sense can be the instrument of knowledge of gen
 गन्धेन तु रसेन वा ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Gold becomes manifest through its colour fromcopper etc., gheeis differentiated from oil, through its smell and taste; 
 </details>
@@ -7165,7 +7208,7 @@ Gold becomes manifest through its colour fromcopper etc., gheeis differentiated 
 निश्चयो जायते ध्वनेः ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 fire, which is hidden by ashes, perceived through touching the ashes.
 
@@ -7189,7 +7232,7 @@ Sound may provide us with proof that there is a horse in the distance;
 इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 a pitcher etc. are known through their configuration; brahminhood through descent, and also through conduct in certain particulars, which is completely protected by the king.
 </details>
@@ -7212,7 +7255,7 @@ a pitcher etc. are known through their configuration; brahminhood through descen
 **नावभातीति** भाषितम् ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 It has been contended that when we see two individuals of the same age and appearance, the difference between the two does not immediately appear to eye;  
 but the perceptuality of their differentness is not refuted by just this.
@@ -7233,7 +7276,7 @@ but the perceptuality of their differentness is not refuted by just this.
 विभागस्यानवग्रहः ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In this case the non-perception of their differentness is caused by the defect of similarity. 
 </details>
@@ -7256,7 +7299,7 @@ In this case the non-perception of their differentness is caused by the defect o
 विप्र-क्षत्र-विशां भिदा ।  +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The difference between nacre and silver, which are similar in appearance and configuration, may not be immediately visible, yet that does not mean that their difference is not visible at another time; and the same holds for the difference between brahmin, kṣatriya and vaisya. 
 </details>
@@ -7274,7 +7317,7 @@ The difference between nacre and silver, which are similar in appearance and con
 यद्वा संतति-विशेष-प्रभवत्वम् एव ब्राह्मण्यम्,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Or else, brahminhood is that which arises from the differentiae of genus, 
 </details>
@@ -7292,7 +7335,7 @@ Or else, brahminhood is that which arises from the differentiae of genus,
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 and such a product can empirically be known just like any other product  
 by a process of positive and negative consideration, 
@@ -7312,7 +7355,7 @@ by a process of positive and negative consideration,
 केषु वा प्रयुञ्जते?  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 e.g. "what are the specific characteristics to which the elders apply the term brahminhood, or to which ~~characteristics~~ is the term applied?" 
 </details>
@@ -7332,7 +7375,7 @@ e.g. "what are the specific characteristics to which the elders apply the term b
 विप्रा भागवता इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[106]]  
 It has been said often that it applies to those who possess recollection of gotra, Vedic ancestry etc.; let us not start discussing this question again, or we must repeat our old argument:  
@@ -7355,7 +7398,7 @@ it is established that the Bhagavatas are brahmins, because they possess gotra e
 यद् एषाम् उपवर्णितम् ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 126\. The objection that was made that the Bhāgavatas are born from a vaiśya vratya: 
 </details>
@@ -7374,7 +7417,7 @@ it is established that the Bhagavatas are brahmins, because they possess gotra e
 स तु भागवतः स्मृतः ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 ([253]: supra § 15. [[143]]  )
 
@@ -7396,7 +7439,7 @@ it is established that the Bhagavatas are brahmins, because they possess gotra e
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 and 
 
@@ -7419,7 +7462,7 @@ and
 नियमो वाऽभिधीयताम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 To this we reply:  
 precisely what do we learn from these two statements?  
@@ -7446,7 +7489,7 @@ or must an invariable rule be stated ?
 इति नियन्तुं शक्यौ - अप्रतीतेः, अतिप्रसङ्गाच्च, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In It is impossible to make it a rule that the words Bhagavata and Satvata denote a vaiśya vratya, for that is not known from the text, and it involves overextension. 
 </details>
@@ -7465,7 +7508,7 @@ In It is impossible to make it a rule that the words Bhagavata and Satvata denot
 श्रुत-हान्य्--अश्रुत-कल्पना-प्रसङ्गात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In the statement, "the fifth one, Satvata," we do not find a denial that the words Bhagavata and Satvata denote other meanings, for that would mean ignoring the explicit and inventing the unstated. 
 </details>
@@ -7485,7 +7528,7 @@ In the statement, "the fifth one, Satvata," we do not find a denial that the wor
 पञ्चम-शब्दस्य प्रथम-निर्दिष्टत्वेनोद्देशकत्वात्।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In our statement the fifth one,  
 who is born from an vaisya vratya,  
@@ -7499,7 +7542,7 @@ is understood to bear the name of Satvata:
 इह हि व्रात्यवैश्यान्वयजन्मा यः पञ्चमः सात्त्वत इति तस्य सात्त्वतसंज्ञान्वयोऽवगम्यते पञ्चम शब्दस्य प्रथम निर्दिष्टत्वेनोद्देशकत्वात् (उद्देश्यसमर्थकृत्वादित्यर्थः)।  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>राममिश्रशास्त्री</summary>
 
 उद्देश्यसमर्थकृत्वादित्यर्थः
 </details>
@@ -7510,7 +7553,7 @@ is understood to bear the name of Satvata:
 सात्त्वतेनापि वैश्य-व्रात्य-पञ्चमेन भवितव्यम्,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And if the fifth is the Satvata,  
 the Satvata is not necessarily also be the fifth, namely the vaiśya vratya. 
@@ -7529,7 +7572,7 @@ the Satvata is not necessarily also be the fifth, namely the vaiśya vratya.
 +++(अयोगलोऽपि स्यात् तत्र)+++  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For when the stated subject (e.g. a mountain) is possessed of fire,  
 the predicated fire does not necessarily possess smoke.255 
@@ -7550,7 +7593,7 @@ The example is 'parvato 'gnimin dhumavattvāt if we interchange S and P, we get 
 अतो नेदृश-स्मृति-पर्यालोचनया सात्त्वत-भागवत-शाब्दितानां व्रात्यत्व-निश्चयः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Consequently the consideration if a smrti statement of this kind cannot give certainty that the words Satvata, Bhagavata etc mean vratya.
 </details>
@@ -7573,7 +7616,7 @@ Consequently the consideration if a smrti statement of this kind cannot give cer
 साङ्ग-स-रहस्य-वेद--दातुर् द्विज-परस्यापि व्रात्यत्वं स्यात् । +++(4)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 127\. If it be argued that since these two words also may denote another caste (namely of the vaisya vratyas),  
 then the mere fact that certain brahmins are denoted by these words proves that these brahmins belong to that caste,  
@@ -7603,7 +7646,7 @@ therefore an eminent brahmin who is an acarya imparting teaching of the Veda wit
 न व्रात्यत्व-शङ्का।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If, on the other hand, even though a true brahmin is denoted by the word ācārya which dea vratya, there still can be no suspicion that he actually is a vratya, because there is positive certainty of his brabminhood which is clearly proved by other means of knowledge, and because it is possible that the word acarya is used figuratively (ācārya as one who "accumulates"— acinoti the pupil's knowledge) for a Brahmin teacher, 
 </details>
@@ -7625,7 +7668,7 @@ If, on the other hand, even though a true brahmin is denoted by the word ācāry
 न व्रात्यत्व-शङ्काऽवतारः।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 then in our case, too, the same argument can be made, namely thus: even though they are denoted by the terms Satvata and Bhagavata, which denote another caste, yet there can rise no suspicion that they actually are vratyas, because the brahminhood of these followers of the Bhagavan's doctrine is firmly known from the recollection of completely obvious clans, Vedic ancestry etc., and because it is possible that the terms Sātvata and Bhāgavata have a figurative denotation of sattva-vat and bhaga-vat.
 
@@ -7648,7 +7691,7 @@ then in our case, too, the same argument can be made, namely thus: even though t
 ब्राह्मणस्य निकृष्टता । +++(4)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In other words, 
 
@@ -7675,7 +7718,7 @@ lest the true brahmin be not made into a low-caste man because he is also denote
 छब्दश् चापि विषाणवान् । +++(4)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 We find that the word hari also means 'frog.' Does it follow that a lion is a frog because both are denoted by the same word? Then word itself would be horned, since 'word' is denoted by gau !" 
 
@@ -7699,7 +7742,7 @@ We find that the word hari also means 'frog.' Does it follow that a lion is a fr
 तथैवैतौ +++(सात्त्वत-भागवतौ)+++ भविष्यतः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Consequently, just as the words sudhanvan, ācārya etc., which denote more than one meaning, are also used for someone born from a vaiśya vratya, so also the words Bhagavata and Satvata.
 </details>
@@ -7724,7 +7767,7 @@ Consequently, just as the words sudhanvan, ācārya etc., which denote more than
 इति ,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 128. The contention that when the conventional meaning and the etymological meaning of a word collide, it is right to assume the conventional meaning of the term, in this case of the terms Bhagavata and Satvata, 
 
@@ -7743,7 +7786,7 @@ Consequently, just as the words sudhanvan, ācārya etc., which denote more than
 अ-कॢप्ताखण्ड-शक्ति-कल्पनाऽनुपपत्तेः +++(वक्ष्यमाण-रीत्या)+++।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 is not correct;  
 for when a denotation is appropriate  
@@ -7773,7 +7816,7 @@ then it is not right to assume a non-composite denotation.
 इत्य्-आदौ। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For he who theorizes that the words satvata and bhagavata have their conventional meaning  
 in denoting someone born from a vaisya vratya,  
@@ -7797,7 +7840,7 @@ must also theorize that the words sattvavat and bhagarut, which are the stem and
 शक्त्य्-अन्तर-कल्पनायां प्रमाणं क्रमते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 This goes to prove the assumption that  
 in this case the word may have a double meaning by etymology alone,  
@@ -7816,7 +7859,7 @@ because it is possible for it to be used in the sense of "issue of a vaisya vrat
 सात्त्वत-भागवत-शब्दाभिधेयत्वम्,  
 तस्येदम् इति संबन्ध-मात्रेऽपि चाण्-प्रत्यय-स्मरणात्। 
 </details>
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And it is possible that those vratyas too, despite the fact that they fail to [[109]] worship the Bhagavan directly,  
 yet may be denoted by the words satvata and bhagavata,  
@@ -7838,7 +7881,7 @@ guarding the idol etc., for it is taught that the can suffix may occur in the se
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And it is declared that the issue of a vaiśya vratya has the work discipline of cleaning the Bhagavan's temple etc., 
 </details>
@@ -7855,7 +7898,7 @@ And it is declared that the issue of a vaiśya vratya has the work discipline of
 इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 "and (the task) of the satvatas is the cleaning of the deity's temple, the eating of the offerings, the guarding of the idol;" 
 </details>
@@ -7872,7 +7915,7 @@ And it is declared that the issue of a vaiśya vratya has the work discipline of
 तथा "विष्णोर् आयतनानि संपूजये"ति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 and "he must worship Visnu's sanctuaries."'264 
 
@@ -7892,7 +7935,7 @@ and "he must worship Visnu's sanctuaries."'264
 यद् एषाम् अपि वृत्ति-साम्याद् व्रात्यत्वम् इति।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 129\. Herewith is also rejected the contention that the Bhāgavatas are vratyas because they would have the same profession. 
 </details>
@@ -7908,7 +7951,7 @@ and "he must worship Visnu's sanctuaries."'264
 अन्यद् एव हि देवायतन-शोधन--बलि-निर्हरण--प्रतिमासंरक्षणादिकम्,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For it is one thing to clean the temple, clear away the bali offerings, guard the idol, 
 </details>
@@ -7927,7 +7970,7 @@ For it is one thing to clean the temple, clear away the bali offerings, guard th
 इति ज्योतिष्टोमादाव् इव ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 and quite another thing to perform the variety of actions that are daily observed by the Bhagavatas: ~~the cleaning of the way to the idol~~ approaching, the preparation for worship, offering, daily study, and meditation.  
 It is as it is in the case of the jyotistoma etc. 
@@ -7947,7 +7990,7 @@ It is as it is in the case of the jyotistoma etc.
 ऋत्विजस् तु विशिष्ट-मन्त्रोच्चारण-देवताभिध्यानाऽभिष्टव-प्रभृतिषु ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In the jyotistoma, too, a carpenter has a task in making the various receptacles, soma-cups, soma-decanters, ladles etc., while the officiating priests have their tasks in reciting various different mantra recitations, representing the deity, pressing of the soma etc. +++(5)+++
 </details>
@@ -7964,7 +8007,7 @@ In the jyotistoma, too, a carpenter has a task in making the various receptacles
 न च तावता तेषां तक्ष्णाञ् चैक-जातित्व-संशयः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And this occupational similarity, limited as it is, does not raise the question whether the priests have the same caste as the carpenters! 
 </details>
@@ -7983,7 +8026,7 @@ And this occupational similarity, limited as it is, does not raise the question 
 प्रासाद-पालकापर-नाम्नाम् अन्त्यानां चेति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 So here, too, there is a difference between those who perform the pañcakālikā ritual, which is established by the Bhagavan's doctrine, and the low-caste people who do the cleaning-up of the temple and are also called temple-guards.
 </details>
@@ -8010,7 +8053,7 @@ So here, too, there is a difference between those who perform the pañcakālikā
 इति, तद् अनुपपन्नम्,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[110]]
 
@@ -8034,7 +8077,7 @@ So here, too, there is a difference between those who perform the pañcakālikā
 इति मन्त्र-वर्णावगत-जात्यन्तर-वृत्ति-बाध-प्रसङ्गाच् च ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For in the case of rathakāra  
 it is correct that the term refers to someone belonging to the three varṇas,  
@@ -8060,7 +8103,7 @@ would be invalidated.
 इति स्मृत्य्-अवगत-जात्यन्तरत्वे ऽपि  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Despite the fact that rathakāra is also a name for another caste-as learnt from the smṛti 
 
@@ -8083,7 +8126,7 @@ Despite the fact that rathakāra is also a name for another caste-as learnt from
 इति शङ्ख-वचनाद्  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 nevertheless, since, on Śaṅkha's evidence that ~~so that~~ the rathakāra is born from an anuloma marriage of a kṣatriya man and a vaiśya woman,265  
 the rathakāra is not forbidden to perform rites of sacrificing, fire-building and initiation,266  
@@ -8106,7 +8149,7 @@ the rathakāra is not forbidden to perform rites of sacrificing, fire-building a
 विद्या-साध्ये ऽपि कर्मण्य् अधिकाराविरोधात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 there is no conflict of qualification for rites that can only be realized through knowledge of the Veda,267 
 
@@ -8126,7 +8169,7 @@ there is no conflict of qualification for rites that can only be realized throug
 जात्यन्तर-वाचित्वाध्यवसानम्।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 and since the word rathakāra (in its etymological meaning) is inappropriate for members of the three varṇas  
 because they are forbidden to follow an artisan's profession,  
@@ -8143,7 +8186,7 @@ therefore we can only conclude that in both cases different castes are denoted b
 न चेह तथा विरोधो ऽस्ति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 and so there is no conflict (here). 
 </details>
@@ -8168,7 +8211,7 @@ and so there is no conflict (here).
 इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Moreover, when knowledge of the thing meant by a word is obtained from the denotation of the separate members that compose the word, then the Author of the Sūtras rules out the validity of a denotation in which the meanings of the component members are lost, namely in prokṣaṇīṣv arthasaṃyogāt. 268
 
@@ -8195,7 +8238,7 @@ Moreover, when knowledge of the thing meant by a word is obtained from the denot
 इत्य् उच्यन्ते द्विजोत्तमाः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Therefore, those emine~nt brahmins are called sāttvatas and bhāgavatas who because of their pure character (sattva) devote themselves to the Bhagavān who is the Supreme Person. 
 </details>
@@ -8213,7 +8256,7 @@ Therefore, those emine~nt brahmins are called sāttvatas and bhāgavatas who bec
 परस्तात् प्रदर्शयिष्यन्ते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Later on we shall show that other smṛtis set forth the eminent brahminhood of the bhāgavatas.
 </details>
@@ -8235,7 +8278,7 @@ Later on we shall show that other smṛtis set forth the eminent brahminhood of 
 तत् परिव्राजक-निगदादिवद् इत्य् अदोषः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 131\. The further objection,269 namely why these people should invariably be denoted by the exclusive names of Sāttvata and Bhāgavata, if their brahminhood were the same as that of others, can be answered thus: there is no defect in that, for it is as it is in the case of the names parivrājaka and nigada. 
 
@@ -8271,7 +8314,7 @@ Later on we shall show that other smṛtis set forth the eminent brahminhood of 
 तिष्ठन्तु ब्राह्मणाः परिव्राजका आनीयन्ताम्, यजूंषि वर्तन्ते न निगदाः, निगदा वर्तन्ते न यजूंषि इति च, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Certain brahmins are called bhāgavatas, just as certain brahmins are called parivrājakas, and certain yajuḥ formulae nigadas, though both are equally brahmins and equally yajuḥ formulae; namely in the statements:  
 
@@ -8295,7 +8338,7 @@ the nigadas take place, not the yajuḥ formulae;"271
 इति न्यायाभिधानात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 and this is so because of the interpretation: 
 
@@ -8319,7 +8362,7 @@ and this is so because of the interpretation:
 तत्र प्रतिविधीयते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 132\. The contention that the bhāgavatas are bad brahmins because they perform pūjā to the God, partake of the offering substance etc. for a livelihood, is countered in the following manner: 
 </details>
@@ -8339,7 +8382,7 @@ and this is so because of the interpretation:
 **पूजयन्तो** ऽपि सात्त्वताः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Surely not all bhāgavatas worship Hari for their profession, for many Sātvatas are found who perform pūjā for themselves. 
 </details>
@@ -8359,7 +8402,7 @@ Surely not all bhāgavatas worship Hari for their profession, for many Sātvatas
 वैष्णवैर् वृत्ति-कारणात् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If there are certain people who, while being Sātvatas, follow a reprehensible profession and perform sacrifices for respectable bhāgavatas professionally, 
 </details>
@@ -8379,7 +8422,7 @@ If there are certain people who, while being Sātvatas, follow a reprehensible p
 ज्योतिष्टोमे पतिष्यति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 this fact alone does not mean that one may say that they are not brahmins. A vedic priest who officiates as an adhvaryu at a jyotiṣṭoma does not thereby lose caste. 
 </details>
@@ -8401,7 +8444,7 @@ this fact alone does not mean that one may say that they are not brahmins. A ved
 अतस् ते **प्रतिगृह्णते** ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If the priest were not to receive fees, the pūjā itself would remain fruitless; they take fees in order to realize completely the excellence of the pūjā. 
 </details>
@@ -8425,7 +8468,7 @@ If the priest were not to receive fees, the pūjā itself would remain fruitless
 इत्य्-आदि-स्मृति-दर्शनात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 At the conclusion of the worship one must give gold to the priest according to capacity; otherwise the fruit will go to the pūjā priest himself,  
 as is shown by the smṛti: "A sacrifice for which a small fee is given kills (the sacrificer)."272 
@@ -8450,7 +8493,7 @@ as is shown by the smṛti: "A sacrifice for which a small fee is given kills (t
 तद् एव हि निषिध्यते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 It is however prohibited that a covetous Vedic priest officiate as a priest after he himself has put up his demands for a fee, 
 </details>
@@ -8479,7 +8522,7 @@ It is however prohibited that a covetous Vedic priest officiate as a priest afte
 इति,+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 e.g. in the statement: 
 
@@ -8517,7 +8560,7 @@ or "He should choose me."
 तूभयोर् अपि श्रेयस्करम् एव ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The donation of the sacerdotal fee which is purified by faith is felicitous for both, 
 </details>
@@ -8537,7 +8580,7 @@ The donation of the sacerdotal fee which is purified by faith is felicitous for 
 इत्यादि-स्मृति-दर्शनात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 as according to the smṛti, "He who receives the offering and he who {{deit|gives it}} both go to heaven."274
 
@@ -8564,7 +8607,7 @@ as according to the smṛti, "He who receives the offering and he who {{deit|giv
 इति,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 133\. The statements that professional worship of the deity and living off the god's treasure makes a man a devalaka275 
 
@@ -8583,7 +8626,7 @@ as according to the smṛti, "He who receives the offering and he who {{deit|giv
 तद् अपि देवतान्तर-वृत्त्य्-अर्थाराधन- तत्-कोशोपजीवन-विषयम् इति द्रष्टव्यम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 must be taken to refer to the professional worship of, and the living off the treasure of, other deities than Vāsudeva. 
 </details>
@@ -8605,7 +8648,7 @@ must be taken to refer to the professional worship of, and the living off the tr
 इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Thus the blessed Vyāsa: "A devalaka is he who lives on Rudra etc." 
 </details>
@@ -8631,7 +8674,7 @@ Thus the blessed Vyāsa: "A devalaka is he who lives on Rudra etc."
 न स्पृशेन् न च संविशेत् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And there is also Śāṇḍilya's word: 
 
@@ -8661,7 +8704,7 @@ One should not touch them or consort with them for a year."
 अयोग्या देव-कर्मणि ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Likewise: 
 
@@ -8685,7 +8728,7 @@ Likewise:
 **कल्प-देवलकास्** तु ते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Those brahmins who, without being consecrated, perform rites set forth in the Kalpa, either professionally or for the fame of it, are kalpadevalakas. 
 </details>
@@ -8707,7 +8750,7 @@ Those brahmins who, without being consecrated, perform rites set forth in the Ka
 गौणम् एवान्यथा भवेत् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 One must have pūjā offered by another professional priest who has been properly consecrated; (if) one is unable to worship the god oneself.   
 This is the principal offering; in another manner it is secondary." 
@@ -8726,7 +8769,7 @@ This is the principal offering; in another manner it is secondary."
 अन्यथा +++(←गौणाराधनम्)+++ +इत्य् अदीक्षितेन +इत्य् अर्थः,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 "In another manner,' that is to say, when it is done by a non-consecrated priest. 
 </details>
@@ -8746,7 +8789,7 @@ This is the principal offering; in another manner it is secondary."
 तज् जघन्यम् उदाहृतम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 This the author elucidates: 
 
@@ -8774,7 +8817,7 @@ This the author elucidates:
 इति निश्चीयते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 By considering these and a hundred similar smṛti statements we can be sure that living off the deity's treasure and professional pūjā offering of brahmins who go without the sacrament of consecration as established by Pañcaratra renders them sub-Brahmins and devalakas.276
 
@@ -8801,7 +8844,7 @@ By considering these and a hundred similar smṛti statements we can be sure tha
 किम् इदं निर्माल्यं, निवेद्यं चाभिप्रेतं श्रोत्रियस्य ?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 134\. As to the statement that the bhāgavatas cannot pass for exemplary persons because they make use of flower and food offerings, which practice is abhorred by exemplary persons, to this we say: what does the śrotriya 277 mean by left-over flowers and leftover food? 
 
@@ -8824,7 +8867,7 @@ By considering these and a hundred similar smṛti statements we can be sure tha
 न हि लोकोऽनुमन्यते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 When he takes it only as the flowers and the cakes,278 he is contradicted by all the world, for nobody approves of wasting flowers and cakes. 
 
@@ -8846,7 +8889,7 @@ When he takes it only as the flowers and the cakes,278 he is contradicted by all
 न युक्तस् तद्-असिद्धितः +++(आक्षेपक-मते)+++ ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Also, a particularized prohibition is not in order, because it is not established. 
 </details>
@@ -8862,7 +8905,7 @@ Also, a particularized prohibition is not in order, because it is not establishe
 न ह्य् अनिरूपित-विशेषणा विशिष्ट-बुद्धिर् आविर् अस्ति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 No notion of a particularized thing occurs when the particularization is not determined; 
 </details>
@@ -8878,7 +8921,7 @@ No notion of a particularized thing occurs when the particularization is not det
 न चेह विशेषणं निरूपयितुं शक्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 and here it is impossible to determine the particularization. 
 </details>
@@ -8895,7 +8938,7 @@ and here it is impossible to determine the particularization.
 यावता देवोद्देशेन परित्यागो विशेषणम्।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > OBJECTION. Why should it be impossible, since the particularization is that it is forbidden to use food what has been offered up to the deity? 
 </details>
@@ -8915,7 +8958,7 @@ and here it is impossible to determine the particularization.
 तद्-उद्देशेन त्यागो विशेषणम् अभिलष्यते? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REPLY. Are you now accepting the validity of Pañcaratra? For only when one admits that there is a deity present in the idols that are erected with the sacred formulae enjoined by Pañcaratra Tantra can one postulate that the particularization of the prohibition lies in the offering-up to the deity. 
 </details>
@@ -8935,7 +8978,7 @@ REPLY. Are you now accepting the validity of Pañcaratra? For only when one admi
 कथन्तरां च तद्-उद्देशेन त्यक्तस्य निर्माल्य-निवेद्य-भावः? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For unless the validity of the Tantra is admitted, how can an idol which is set forth in the Tantra be a deity, and, a fortiori, how can the substance that is offered up for this deity's sake be nirmālya and nivedya, 
 </details>
@@ -8957,7 +9000,7 @@ For unless the validity of the Tantra is admitted, how can an idol which is set 
 इति हि वः सिद्धान्तः ।  +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > For a deity does not exist by just being a deity;  
 only that deity which is known to be correlated with an oblation on the authority of scriptural testimony is the deity to that oblation; 
@@ -8979,7 +9022,7 @@ that is your own doctrine.
 निर्माल्य-निवेद्य-भावः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Or if it be held that 
 
@@ -9000,7 +9043,7 @@ Or if it be held that
 तद्वद् एव पावनत्वम् अङ्गी क्रियताम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 well, in that case you must also admit its purity because the Pāñcarātrikas accept also that the utilization of nirmālya and nivedya is perfectly pure.
 </details>
@@ -9016,7 +9059,7 @@ well, in that case you must also admit its purity because the Pāñcarātrikas a
 अथापावनम् एव तैः +++(पाञ्चरात्र-मोहितैः)+++ पावन-बुद्ध्या परिगृहीतम् इति न तत् प्राशस्त्यम् अङ्गीक्रियते, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Or if you do not accept this peculiar excellence, since in your opinion the Pāñcarātrikas have accepted as pure something that is really impure,
 
@@ -9035,7 +9078,7 @@ Or if you do not accept this peculiar excellence, since in your opinion the Pā�
 न तद्-उद्देशेन त्यक्तस्य निर्माल्य-निवेद्य-भावो ऽङ्गीक्रियताम् । +++(4)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 —well, in that case you must accept it that the substance which is offered up is not really nirmālya and nivedya, since then you opine that the Pañcarātrikas have adopted someone who is not really a deity by mistaking him for a deity!
 </details>
@@ -9061,7 +9104,7 @@ Or if you do not accept this peculiar excellence, since in your opinion the Pā�
 इति । +++(4)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In other words, inasmuch as the ~~offering up~~ abandonment of mere flowers, cakes etc. 289 is not approved,  
 and because it is impossible to particularize the prohibition of utilizing these substances according to the terms of one's own doctrine,  
@@ -9086,7 +9129,7 @@ it must needs be accepted by those who admit the validity of the Pañcarātra Ta
 > कथं पुनस् तत्र प्रामाण्यम् अङ्गीकुर्वता निर्माल्यं निवेद्यं च न परिहरणीयम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[114]]
 
@@ -9108,7 +9151,7 @@ should reject nevertheless the nirmālya and nivedya?
 संहितायाम् उदीरितम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > For in the Tantras the tasting etc. of the nirmālya is prohibited. For instance, it is said in the Sanatkumārīya Saṃhitā: 
 </details>
@@ -9129,7 +9172,7 @@ should reject nevertheless the nirmālya and nivedya?
 तत् प्रयत्नेन वर्जयेत् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > "The offering that is proffered (to the deity), flower or fruit, is called nirmālya; that must be avoided meticulously." 
 </details>
@@ -9157,7 +9200,7 @@ should reject nevertheless the nirmālya and nivedya?
 > इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > Similarly in another passage: "When one has eaten nirmālya, or the foodrests of someone who is not one's guru, one must observe a milk-vow for a month, continuously recite the eight-syllable formula, 
 and drink the pañcagavya,279 in order to be purified." 
@@ -9185,7 +9228,7 @@ and drink the pañcagavya,279 in order to be purified."
 न निर्माल्यानि भक्षयेत् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > Likewise in the Indrarātra: "One should not live off the Supreme God, nor eat the nirmālya offerings." 
 </details>
@@ -9207,7 +9250,7 @@ and drink the pañcagavya,279 in order to be purified."
 > इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > Also: 
 > 
@@ -9235,7 +9278,7 @@ and drink the pañcagavya,279 in order to be purified."
 > इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > Similarly in another Saṃhitā: 
 > 
@@ -9256,7 +9299,7 @@ and drink the pañcagavya,279 in order to be purified."
 कथम् इव पावनत्वाङ्गीकारः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > How then can one accept the purity of the utilization of the nirmālya when we thus know from several Saṃhitā that it is prohibited?
 </details>
@@ -9276,7 +9319,7 @@ and drink the pañcagavya,279 in order to be purified."
 उपयोगो न निन्द्यते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION. To this he says: The utilization of a proffered substance which has been offered up to the deity is not condemned if it is done ~~within~~ after a period of ten nāḍikās.280 
 
@@ -9300,7 +9343,7 @@ REFUTATION. To this he says: The utilization of a proffered substance which has 
 रात्राव् अहनि चैव हि ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Thus in the same Indrarātra: 
 
@@ -9326,7 +9369,7 @@ Thus in the same Indrarātra:
 इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > They condemn the nirmālya that has stood for ~~more~~ other than this period of time;  
 thereupon he must throw it in water, or in fire, or bury it in the ground." 
@@ -9352,7 +9395,7 @@ thereupon he must throw it in water, or in fire, or bury it in the ground."
 पश्चात् त्यागो विधीयते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > OBJECTION. But what is said here is not to praise the tasting etc. of the nirmālya, but to prescribe that the substance of the cake pūjā is thrown away after a period of ten nāḍikās. 
 </details>
@@ -9375,7 +9418,7 @@ thereupon he must throw it in water, or in fire, or bury it in the ground."
 > इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In the statement: 
 
@@ -9405,7 +9448,7 @@ they must be kept by way of accessory pūjā rite for a period of ten nāḍikā
 क्व, नु यूयं क्व चाल्पकाः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > And consequently even a study of the conclusions of your own Tantras shows that the touching etc. of the turmeric powder, the food offerings and the water used to clean the idol's feet is not established by Tantric doctrine. Now, where are you!
 </details>
@@ -9428,7 +9471,7 @@ they must be kept by way of accessory pūjā rite for a period of ten nāḍikā
 तेषाम् एव निषेध-गीः ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION. Where are you, loquacious debaters, witless fools who have been swallowed by your own tongue which plays around with a grain of knowledge! Your objection looks black and white at once, like the moon with its spots.  
 This prohibition applies only to fools like you, 
@@ -9451,7 +9494,7 @@ This prohibition applies only to fools like you,
 सोम-पानम् इवाध्वरे ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 since all this is indeed to be observed by Vaiṣṇavas who are qualified to do so, and thus it is capable of wiping off a multitude of sins in the same way as the drinking of soma at a Vedic sacrifice; 
 </details>
@@ -9469,7 +9512,7 @@ since all this is indeed to be observed by Vaiṣṇavas who are qualified to do
 पुरो-डाशः शुनाम् इव । +++(5)+++ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 for it is not to be touched by others, just as the puroḍaśa cake is not to be touched by dogs! 
 </details>
@@ -9494,7 +9537,7 @@ for it is not to be touched by others, just as the puroḍaśa cake is not to be
 ह्य् **उपभोगार्थम्** एव च ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Thus in the Īśvara Saṃhitā, 
 
@@ -9514,7 +9557,7 @@ and, among those who are, it is even more difficult to find a disposition which 
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>राममिश्रशास्त्री</summary>
 
 (श्रीमद्भागवते यथाऽह भगवन्तं श्रीकृष्णम् उद्धवः - 
 
@@ -9539,7 +9582,7 @@ and, among those who are, it is even more difficult to find a disposition which 
 प्रसादः, निर्माल्यम्, भक्तिः
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > Therefore, O six-faced One, all this which is purified by the formulae and the glance of the Bhagavān is forbidden to those who lack this disposition and are not votaries." 
 </details>
@@ -9566,7 +9609,7 @@ and, among those who are, it is even more difficult to find a disposition which 
 इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And in another passage: "The saffron, sandal, camphor and oils that have been taken off Viṣṇu's body are supremely purifying." 
 </details>
@@ -9592,7 +9635,7 @@ And in another passage: "The saffron, sandal, camphor and oils that have been ta
 विष्णु-लोके महीयते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Likewise in the Padmodbhava: "He who wears the powder that is taken of Viṣṇu's body on his head obtains the fruit of a Horse Sacrifice and glories in Viṣṇu's heaven." 
 </details>
@@ -9618,7 +9661,7 @@ Likewise in the Padmodbhava: "He who wears the powder that is taken of Viṣṇu
 शब्दैर् अ-प्रतिपत्ति-जैः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Similarly in the Īśvara Saṃhitā, 
 
@@ -9636,7 +9679,7 @@ Similarly in the Īśvara Saṃhitā,
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>राममिश्रशास्त्री</summary>
 
 (अप्रतिपत्तिजैः = निन्दाऽसूयाद्य्-आविष्कार-कारकैर् इत्यर्थः ।)
 </details>
@@ -9651,7 +9694,7 @@ Similarly in the Īśvara Saṃhitā,
 इति,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > Those who condemn this divine purifying agent because they consider it nirmālya, those witless detractors of its power will go to hell." 
 </details>
@@ -9673,7 +9716,7 @@ Similarly in the Īśvara Saṃhitā,
 तानि पारिषदेशोपयोगोत्तर-कालाभिप्रायेण द्रष्टव्यानि । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The above statements which to the consecrated prohibit the use of nirmālya at the time mentioned in the time instruction must be understood to mean a time subsequent to that when the (offerings to) the chief of the Bhagavān's retinue281 is being used. 
 
@@ -9685,7 +9728,7 @@ The above statements which to the consecrated prohibit the use of nirmālya at t
 यानि पुनर् दीक्षितम् एवाधिकृत्य समयानुशासन-समये निर्माल्योपयोग-निषेध-पराणि वचनानि तानि पारिषदेशोपयोगोत्तर-कालाभिप्रायेण द्रष्टव्यानि । 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>राममिश्रशास्त्री</summary>
 
 (भगवत्-पारिषदानम् ईशो विष्वक्सेनस्  
 तद्-उपयोगानन्तर-काले निषेध-पराणि द्रष्टव्यानि ।)
@@ -9700,7 +9743,7 @@ The above statements which to the consecrated prohibit the use of nirmālya at t
 विष्वक्सेन-निवेदनात् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Since the garlands, sandal etc, which are offered up to the Bhagavān, later on, after the Viśvaksena offering, become unfit to eat, 
 </details>
@@ -9721,7 +9764,7 @@ Since the garlands, sandal etc, which are offered up to the Bhagavān, later on,
 उत्कर्षस्यैव कारणम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 therefore the Sātvatas use the nivedya etc. before that time. Consequently the use of the nirmālya is a cause of excellence for the Sātvatas.
 </details>
@@ -9745,7 +9788,7 @@ therefore the Sātvatas use the nivedya etc. before that time. Consequently the 
 सोम-पानवद् इष्यते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[118]]
 
@@ -9770,7 +9813,7 @@ therefore the Sātvatas use the nivedya etc. before that time. Consequently the 
 तैर् निर्माल्यम् इतीरितम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 So I have said that those who do not accept the validity of the Bhagavān's doctrine are unable to determine what is nirmālya. 
 </details>
@@ -9791,7 +9834,7 @@ So I have said that those who do not accept the validity of the Bhagavān's doct
 वचनैर् अवसीयते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 When it is properly determined (namely according to the Bhagavān's doctrine) the Bhagavān's nirmālya proves to be extremely purifying, as is demonstrated by the statements of all Vedic teachers. 
 </details>
@@ -9816,7 +9859,7 @@ When it is properly determined (namely according to the Bhagavān's doctrine) th
 शब्दः, पाञ्चरात्रम्
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In a matter for which the only means of knowledge is verbal testimony, it must be so as verbal testimony says that it is. Unless one is deaf, one cannot say that there is no verbal testimony concerning it.
 </details>
@@ -9838,7 +9881,7 @@ In a matter for which the only means of knowledge is verbal testimony, it must b
 भुक्त्वा चान्द्रायणं चरेत् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For instance it is said in the Brahma Purāṇa: 
 
@@ -9863,7 +9906,7 @@ For instance it is said in the Brahma Purāṇa:
 स याति परमां गतिम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > The mālya which is taken from the body of Viṣṇu takes away evil and is holy.  
 He who wears it on his head goes to supreme bliss." 
@@ -9886,7 +9929,7 @@ He who wears it on his head goes to supreme bliss."
 इति स्मरणम् अपि रुद्रकाल्यादिविषयम् इत्यावेदितव्यम्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 It follows that the smṛti statement that a man who eats nirmālya and nivedya must perform the cāndrāyaṇa should be taken to bear upon the nirmālya of Rudra, Kālī etc.
 </details>
@@ -9912,7 +9955,7 @@ It follows that the smṛti statement that a man who eats nirmālya and nivedya 
 गृहीत्वान्न-मितं पुनः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 (282: Mahābhārata quotations not verifiable.  )
 
@@ -9940,7 +9983,7 @@ Thus in the Mahābhārata:
 इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > and then sacrifice it bit by bit, saying: "Prāṇāya svāhā, Apānāya svāhā, Vyānāya svāhā, Udānāya svāhā, Samānāya svāhā." 
 </details>
@@ -9964,7 +10007,7 @@ Thus in the Mahābhārata:
 इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Likewise in another passage, "what has been offered to the god must be given to a brahmacārin." 
 </details>
@@ -9992,7 +10035,7 @@ Likewise in another passage, "what has been offered to the god must be given to 
 इति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Thus in the Mahābhārata: 
 
@@ -10019,7 +10062,7 @@ Thus in the Mahābhārata:
 इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And likewise the blessed Śaunaka:  
 "He himself eats the nivedya." 
@@ -10038,7 +10081,7 @@ And likewise the blessed Śaunaka:
 नास्तिक्यात् स्मृति-वचनान्य् उपेक्षमाणस् तज्जिह्वा-विशसनम् एव युक्तम् अत्र ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 He who condemns Viṣṇu's nivedya, whose purity is proved by hundreds of similar smṛtis and which dispels the fear of rebirth, really ignores the statements of the smṛti because of his heterodoxy and ought to have his tongue cut off.
 
@@ -10058,13 +10101,14 @@ He who condemns Viṣṇu's nivedya, whose purity is proved by hundreds of simil
 
 > ननु प्राणाग्निहोत्रस्य  
 नैवेद्य-साधनं कथम् ।  
-निर्-इष्टकं न शिष्टानाम्  
+निर्-इष्टकं +++(शरीरं)+++ न शिष्टानाम्  
 इष्टं होमादि-साधनम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
-137\. OBJECTION. But how can the nivedya be a means for the prāṇāgnihotra?283 The exemplary people do not approve of a means for homa etc. for which no building bricks are used. 
+137\. OBJECTION. But how can the nivedya be a means for the prāṇāgnihotra?283  
+The exemplary people do not approve of a means for homa etc. for which ~~no building bricks are used.??~~ (no sacrifice has been made.) 
 
 283: The ritual taking of food is considered a performance of the prāṇāgnihotra.  
 </details>
@@ -10076,214 +10120,164 @@ He who condemns Viṣṇu's nivedya, whose purity is proved by hundreds of simil
 निर्-इष्टकं न शिष्टानाम् इष्टं होमादि-साधनम् ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च द्रव्यान्तराक्षेपो होमायेत्यकल्पते ।  
-रागतः प्राप्तम् एवान्नं यतस् तेनोपजीव्यते ॥
-नापि भुक्त्यन्तराक्षेपो नैवेद्यायोपपाद्यते ।  
-सायं-प्रातर् द्वि-जातीनाम् अशनं श्रुति-चोदितम् ॥
-नान्तरा भोजनं कुर्याद् इति तत्-प्रतिषेधनात् ।  
-नैष दोषो यतः प्राण-प्रभृतिर् देवता-गणः ॥
-गुण-भूतः श्रुतो विष्णोर् विष्णुपारिषदेशवत् ।  
-यथैव हि भगवन्निवेदितम् अपि पुष्पौदनादि-विष्वक्सेनाय दीयमानं नानौचित्यम् आवहति ।  
-यथा वा होतुरुच्छिष्ट एव सोम-रसोऽध्वरे ।  
-अध्वर्य्वादेर् विशुद्ध्यै स्याद् एवम् अत्र भविष्यति ॥
+> न च +++(शरीरार्थं)+++ द्रव्यान्तराक्षेपो  
+होमायेत्य् अ-कल्पते ।  
+रागतः प्राप्तम् एवान्नं  
+यतस् तेनोपजीव्यते ॥
+</details>
 
-अपि च ।  
-भोज्याभोज्य-व्यवस्थायाः शास्त्रम् एव निबन्धनम् ।  
-तत् चेद् भोज्यम् इदं ब्रूते किं वयं विदधीमहि ॥
-यथा अनुष्ठान-तन्त्रत्वं नित्य-काम्य-अग्निहोत्रयोः ।  
-एवं प्राणाग्निहोत्रेऽपि नैवेद्याशनतन्त्रता ॥
+<details><summary>Buitenen</summary>
 
-
-<details><summary>मूलं शिष्टम्</summary>
-
-अपि च ।  
-कॢप्तावयवशक्त्यैव लब्धे स्वार्थावबोधने ।  
-नष्टावयवमानत्वं प्रत्याचष्ट च सूत्रकृत् ॥
-
-प्रोक्षणीष्वर्थसंयोगात् इति ।  
-ततश्च सत्त्वाद्भगवान् भज्यते यैः परः पुमान् ।  
-ते सात्त्वता भागवता इत्युच्यन्ते द्विजोत्तमाः ॥
-
-स्मृत्यन्तराणि च भागवतानामुत्कृष्टब्राह्मण्यप्रतिपादकानीति परस्तात् प्रदर्शयिष्यन्ते ।  
-यत् पुनरुक्तं समाने ब्राह्मण्ये किमिति सात्त्वत -भागवतैकान्तिक -शब्दैरेवैतेषां नियमेन व्यपदेश इति तत्परिव्राजकनिगदादिवदित्यदोषः ।  
-यथैव हि समाने ब्राह्मण्ये यजुष्ट्वे च केचिदेव ब्राह्मणाः कानिचिदेव यजूंषि परिव्राजकनिगदशब्दाभ्यामधीयन्ते तिष्ठन्तु ब्राह्मणाः परिव्राजका आनीयन्ताम्,  यजूंषि वर्त्तने न निगदाः, निगदा वर्त्तन्ते न यजूंषि इति च तथेहापि भविष्यति, निगदाश्चतुर्थम्मन्त्रजातं यजूंषि वा तद्रूपत्त्वात् इति न्यायाभिधानात् ।  
-वृत्त्यर्थं देवतापूजानैवेद्यप्राशनादिभिः ।  
-दौर्ब्राह्मण्यं यदप्युक्तं तत्र प्रतिविधीयते ॥  
-न हि भागवतैस्सर्वैर्वृत्तयेऽभ्यार्चितो हरिः ।  
-दृष्टा हि बहवस्सवार्थं पूजयन्तोऽपि सात्त्वताः ॥  
-केचिद्यदि परं सन्तः सात्त्वता वृत्तिकार्शिताः ।  
-याजयन्ति महाभागैर्वैष्णवैर्वृत्तिकारणात् ॥  
-न तावतैषां ब्राह्मण्यं शक्यं नास्तीति भाषितुम् ।  
-न खल्वाध्वर्यवं कुर्वञ् ज्योतिष्टोमे पतिष्यति ॥  
-यदि न प्रतिगृह्णीयुः पूजैव विफला भवेत् ।  
-पूजासाद्गुण्यसिद्ध्यर्थमतस्ते प्रतिगृह्णते ॥  
-अर्चनान्ते हिरण्यञ्च तस्मै देयं स्वशक्तितः ।  
-अन्यथा पूजकस्यैव तत्र पूजाफलं भवेत् ॥  
-हन्त्यल्पदक्षिणो यज्ञ इत्यादिस्मृतिदर्शनात् ।  
-ऋत्विजा द्रव्यलुब्धेन स्वयं याञ्चापुरस्सरम् ॥  
-यदार्त्विज्यं कृतं कर्म तदेव हि निषिध्यते ।  
-तद्यथा यदाशंसमानमार्त्विज्यं कारयन्ति उत वामे दद्यात् उत वा मा वृणीत इति तद्ध तत्परागेव यथा जग्धं न हैवं त्यज्यमानं भुनक्ति ।  
-इति,
-
-श्रद्धापूतदक्षिणादानं तूभयोरपि श्रेयस्करमेव ।  
-योऽर्चितं प्रतिगृह्णाति दद्यादर्चितमेव च ॥  
-ता उभौ गच्छतः स्वर्गमित्यादिस्मृतिदर्शनात् ।  
-यदपि वृत्त्यर्थं देवपूजनाद् देवकोशोपजीवित्वाच्च देवलकत्त्वप्राप्तिरिति तदषि देवतान्तरवृत्त्यर्थाराधन तत्कोशोपजीवनविषयमिति द्रष्टव्यम् ।  
-तथा च भगवान् व्यासः ।  
-भवेद्देवलको यो वै रुद्रकाद्युपजीवकः इति, अपि भवति शाण्डिल्यवचनम् ।  
-वृत्त्यर्थं याजिनस्सर्वे दीक्षाहीनाश्च केवलम् ।  
-कर्मदेवलका एते स्मृता ह्यत्र पुरा मुने ॥  
-तांश्च संवत्सरादूर्ध्वं न स्पृशेन्न च संविशेत् ।  
-तथा ।  
-कल्पदेवलकाः केचित् कर्मदेवलका अपि ।  
-अथ त्रिवर्षादूर्ध्वमयोग्या देवकर्मणि ॥  
-ये कल्पोक्तं प्रकुर्वन्ति दीक्षाहीना द्विजातयः ।  
-वृत्त्यर्थं वा यशोऽर्थं वा कल्पदेवलकास्तु ते ॥  
-वृत्तिं कृत्वा तु विप्रेण दीक्षितेन विधानतः ।  
-अन्येन यूजयेद्देवमशक्तः स्वयमर्चने ॥  
-यजनं मुख्यमेवैतद् गौणमेवान्यथा भवेत् ।  
-अन्यथा इति -अदीक्षितेनेत्यर्थः, तदेव स्पष्टयति अदीक्षितेन विप्रेण येनकेन विधानतः ।  
-वृत्त्यर्थं यत्कृतं कर्म तज्जघन्यमुदाहृतं ॥
-
-इत्यादिस्मृतिशतपर्यालोचनात् पञ्चरात्रसिद्धदीक्षासंस्कारविरहितानां ब्राह्मणानां देवकोशोपजीवनवृत्त्यर्थपूजनादिकमुपब्राह्मणत्वदेवलकत्वावहमिति निश्चीयते, यत्पुनः शिष्टविगर्हितनिर्माल्यनिवेद्योपयोगाद् भागवतानामशिष्टत्वमिति ।  
-तत्र ब्रूमः किमिदं निर्माल्यं निवेद्यं चाभिप्रेतं श्रोत्रियस्य ।  
-पुष्पौदनादिमात्रं चेत् सर्वलोकाविरुद्धता ।  
-पुष्पौदनपरित्यागं न हि लोकोऽनुमन्यते ॥  
-विशिष्टप्रतिषेधोऽपि न युक्तस्तदसिद्धितः ।  
-न ह्यनिरूपितविशेषणा विशिष्टबुद्धिराविरस्ति, न चेह विशेषणं निरूपयितुं शक्यते, किमिति न शक्यते यावता देवोद्देशेन परित्यागो विशेषणम्,  किमिदानीं पञ्चरात्रशास्त्रमपि प्रमाणमङ्गीकृतं भवता येन पञ्चरात्रतन्त्रविहितमन्त्रप्रतिष्ठापितप्रतिमासु देवतामभ्युपेत्य तदुद्देशेन त्यागो विशेषणमभिलष्यते, कथं हि तत्प्रामाण्यानभ्युपगमे तत्प्रतिपाद्यमानाया देवतात्वम्,  कथन्तराञ्च तदुद्देशेन त्यक्तस्य निर्माल्यनिवेद्यभावः, न हि काचिज्जात्या देवता नामास्ति, यैव हि हविः प्रतियोगितया प्रमाणभूताच्छब्दादवगम्यते सा तत्र देवता इति हि वः सिद्धान्तः ।  
-अथ पञ्चरात्रिकैर्देवतोद्देशेन परित्यक्तत्वाभ्युपगमान्निर्माल्यनिवेद्यभावः, हन्त तर्हि, तैरेव परमपावनतयाऽपि निर्माल्यनिवेद्योपयोगस्याङ्गीकृतत्वात् तद्वदेव पावनत्वमङ्गीक्रियताम् ।  
-अथापावनमेव तैः पावनबुद्ध्या परिगृहीतमिति न तत्प्राशत्यमङ्गीक्रियते, हन्त तर्ह्यदेवतैव देवताबुद्ध्यारोपेण तैः परिगृहीतेति न तदुद्देशेन त्यक्तस्य निर्माल्यनिवेद्यभावोऽङ्गीक्रियताम् ।  
-एतदुक्तं भवति पुष्पौदनादिस्वरूपमात्रत्यागस्यानिष्टत्वात् स्वदर्शनानुसारेण च विशेषणासंभवात् परदर्शनानुसारेण विशेषणनिरूपणे तस्यैव परमपावनत्वापातात् तत्र प्रामाण्यमभ्युपगच्छद्भिरन्यैश्च निर्माल्यनिवेद्योपयोगोऽवश्याङ्गीकरणीय इति ।  
-आह कथं पुनस्तत्र प्रामाण्यमङ्गीकुर्वता निर्माल्यं निवेद्यञ्च न परिहरणीयम् ।  
-निषिध्यते हि तन्त्रेषु निर्माल्यप्राशनादिकम् ।  
-यथा सनत्कुमारीयसंहितायामुदीरितम् ।  
-निवेदितं तु यद्धव्यं पुष्पम् फलमथापि वा ।  
-तन्निर्माल्यमिति प्रोक्तं तत्प्रयत्नेन वर्जयेत् ॥
-
-तथा प्रदेशान्तरे ।  
-निर्माल्यं भक्षयित्वैवमुच्छिष्टमगुरोरपि ।  
-मासं पयोव्रतो भूत्वा जपन्नष्टाक्षरं सदा ॥  
-ब्रह्मकूर्चं ततः पीत्वा पूतो भवति मानवः ।  
-इति, तथेन्द्ररात्रे ।  
-न चोपजीवेद्देवेशं न निर्माल्यानि भक्षयेत् ।  
-तथा ।  
-न चोपयो (न चोपभोगयोग्यानीति पा. ।)गयोग्यानि निर्माल्यानि कदाचन ।  
-इति, तथा संहितान्तरे ।  
-निर्माल्यानि न चाश्नीयान्न जिघ्रेन्न च लङ्घयेत् ।  
-इति, तदेवमनेकसंहितासमधिगतनिषेधस्य निर्माल्योपभोगस्य कथमिव पावनत्वाङ्गीकारः, ।  
-अत्राह देवमुद्दिश्य त्यक्तस्यापि च वस्तुनः ।  
-नाडिकादशकादर्वागुपयोगो न निन्द्यते ॥
-
-तथेन्द्ररात्र एव ।  
-दशनाड्याधिकं पूरं स्थापयेत्तु विचक्षणः ।  
-कालयोगस्समुद्दिष्टो रात्रावहनि चैव हि ॥  
-कालयोगातिरिक्तं तु निर्माल्यं परिचक्षते ।  
-ततस्तदप्सु चैवाग्रौ क्षिपेद्भूमौ खनेत्तु वा ॥
-
-इति ।  
-उच्यते नात्र निर्माल्यप्राशनादि प्रशस्यते ।  
-किन्तु पूरणपूजायां विनियुक्तस्य वस्तुनः ॥  
-नाडिकादशके पूर्णे पश्चात्त्यागो विधीयते ।  
-सामान्येन निवेदितस्य पुष्पौदनादेः कृतकार्यतया निर्माल्यत्वेनापनये प्राप्ते नाडिकादशपूरणं पूजाङ्गतया स्थापनं विधीयते दशनाड्याधिकं पूरं स्थापयेदिति ।  
-ततश्च तन्त्रसिद्धान्तपर्यालोचनयापि वः ।  
-हरिद्राचूर्ण -नैवेद्य -पादाम्बुस्पर्शनादिकम् ॥  
-न सिद्ध्येत् तन्त्रसिद्धान्तः क्व नु यूयं क्व चाल्पकाः ।  
-अहो विद्यालवोल्लासिजिह्वाग्रस्तविचेतसः ॥  
-सितासितं वचो भाति सकलङ्केन्दुबिम्बवत् ।  
-ये हि युष्मद्विधा मूर्खास्तेषामेव निषेधगीः ॥  
-सेव्यमानः हि तत्सर्वं वैष्णवैरधिकारिभिः ।  
-अघौघध्वंसनायालं सोमपानमिवाध्वरे ॥  
-अन्येषां हि तदस्पृश्यं पुरोडाशः शुनामिव ।  
-तद्यथेश्वरसंहितायाम् ।  
-दुर्लभो भगवद्भक्तो लोकेस्मिन् पुरुषः सुत? ।  
-तत्रापि दुर्लभतरो भावो वै यस्य तत्त्वतः ॥
-
-पादोदकं प्रति शुभस्सिद्धान्नै (श्रीमद्भागवते यथाऽह भगवन्तं श्रीकृष्णमुद्धवः -तवोच्छिष्टभुजो दासास्तव मायां जयेमहि इति ।) च निवेदिते ।  
-स्रगादिके चोपभुक्ते ह्युपभोगार्थमेव च ॥  
-अतश्च भावहीनानामभक्तानां च षणमुख? ।  
-निषिद्धं भगवन्मन्त्रदृक्पूतमखिलं हि यत् ॥ इति,
-
-तथा प्रदेशान्तरे ।  
-कुङ्कुमं चन्दनञ्चैतत् कर्पूरमनुलेपनम् ।  
-विष्णुदेहपरामृष्टं तद्वै पावनपावनम् ॥
-
-इति, तथा पद्मोद्भवे ।  
-विष्णुदेहपरामृष्टं यश्चूर्णं शिरसा वहेत् ।  
-सोऽश्वमेधफलं प्राप्य विष्णुलोके महीयते ॥
-
-तथेश्वरसंहितायाम् ।  
-उपभुक्तस्य सर्वस्य गन्धपुष्पादिकस्य च ।  
-स्नानादावुपयुक्तस्य दधिक्षीरादिकस्य च ॥  
-दूषणं न प्रयोक्तव्यं शब्दैरप्र (निन्दाऽसूयाद्याविष्कारकारकैरित्यर्थः ।)तिपत्तिजैः ।  
-निर्माल्यबुद्ध्या देवीयं पावनं दूषयन्ति ये ॥  
-ते यान्ति नरकं मूढास्तत्प्रभावापलापिनः ।  
-इति,
-
-यानि पुनर्दीक्षितमेवाधिकृत्य समयानुशासनसमये निर्माल्योपयोगनिषेधपराणि वचनानि तानि पा(भगवत्पारिषदानमीशोविष्वक्सेनस्तदुपयोगानन्तरकाले निषेधपराणि द्रष्टव्यानि ।)रिषदेशोपयोगोत्तरकालाभिप्रायेण द्रष्टव्यानि ।  
-यतो भगवदर्थेन त्यक्तं स्रक्चन्दनादिकम् ।  
-पश्चादभोग्यतां याति विष्वक्सेननिवेदनात् ॥  
-अत एव निवेद्यादि ततोऽर्वागेव सात्त्वतैः ।  
-सेव्यते तेन तत्तेषामुत्कर्षस्यैव कारणम् ॥
-
-अपि च ।  
-देवतान्तरनिर्माल्यं शिष्टैरिष्टं विगर्हितम् ।  
-इदन्तु वैदिकत्वेन सोमपानवदिष्यते ॥  
-ये नाम भगवच्छास्त्रप्रामाण्यं नानुजानते ।  
-न निरूपयितुं शक्यं तैर्निर्माल्यमितीरितम् ॥  
-निरूपणेऽपि भगवन्निर्माल्यमतिपावनम् ।  
-समस्तवैदिकाचार्यवचनैरवसीयते ॥  
-शब्दप्रमाणके ह्यर्थे यथाशब्दं व्यवस्थितिः ।  
-न चात्र शब्दो नास्तीति वक्तव्यं बधिरेतरैः ॥
-
-यथा ब्रह्मपुराणे च पठ्यते ।  
-विष्णोर्नैवेद्यकं शुद्धं मुनिभिर्भोज्यमुच्यते ।  
-अन्यन्निवेद्य निर्माल्यं मुक्त्वा चान्द्रायणञ्चरेत् ॥  
-विष्णुदेहपरामृष्टम्माल्यं पापहरं शुभम् ।  
-यो नरश्शिरसा धत्ते स याति परमाङ्गतिम् ॥
-
-एतेन ।  
-निर्माल्यञ्च निवेद्यञ्च भुक्त्वा चान्द्रायणञ्चरेत् ।  
-इति स्मरणमपि रुद्रकाल्यादिविषयमित्यावेदितव्यम्,  तथा महाभारते ।  
-हृदि ध्यायन् हरिं तस्मै निवेद्यान्नं समाहितः ।  
-मध्यमाऽनामिकाङ्गुष्ठैर्गृहीत्वान्नमितं पुनः ॥  
-प्राणाय चेत्यपानाय व्यानाय च ततः परम् ।  
-उदानाय समानाय स्वाहेति जुहुयात् क्रमात् ॥
-
-इति, तथा प्रदेशान्तरे ।  
-निवेदितन्तु यद्देवे तद्दद्याद् ब्रह्मचारिणे ।  
-इति ।  
-तथा महाभारते ।  
-पञ्चरात्रविदो मुख्यास्तस्य गेहे महात्मनः ।  
-प्रापणं भगवद्भुक्तं भुञ्जते चाग्रभोजनम् ॥
-
-इति, तथा च भगवान् शौनकः नैवेद्यं स्वयमश्नीयात् इति, ।  
-इत्यादिस्मृतिशतसिद्धशुद्धि विष्णोर्नैवेद्यं भवभयभेदि यो विनिन्देत् ।  
-नास्तिक्यात् स्मृतिवचनान्युपेक्षमाणस्तज्जिह्वाविशसनमेव युक्तमत्र ।  
-ननु प्राणाग्निहोत्रस्य नैवेद्यं साधनं कथम् ।  
-निरिष्टकं न शिष्टानामिष्टं होमादिसाधनम् ॥  
-न च द्रव्यान्तराक्षेपो होमायेत्वकल्पते ।  
-रागतः प्राप्तमेवान्नं यतस्तेनोपजीव्यते ॥  
-नापि भुक्त्यन्तराक्षेपो नैवेद्यायोपपाद्यते ।  
-सायं प्रातर्द्विजातीनामशनं श्रुतिचोदितम् ॥  
-नान्तरा भोजनं कुर्यादिति तत्प्रतिषेधनात् ।  
-नैष दोषो यतः प्राणप्रभृतिर्देवतागणः ॥  
-गुणभूतः श्रुतो विष्णोर्विष्णुपारिषदेशवत् ।  
-यथैव हि भगवन्निवेदितमपि पुष्पौदनादिविष्वक्सेनाय दीयमानं नानौचित्यमावहति ।  
-यथा वा होतुरुच्छिष्ट एव सोमरसोऽध्वरे ।  
-अध्वर्य्वादेर्विशुद्ध्यै स्यादेवमत्र भविष्यति ॥
-
-अपि च ।  
-भोज्याभोज्यव्यवस्थायाः शास्त्रमेव निबन्धनम् ।  
-तच्चेद्भोज्यमिदं ब्रूते किं वयं विदधीमहि ॥  
-यथाऽनुष्ठानतन्त्रत्वं नित्यकाम्याग्निहोत्रयोः ।  
-एवं प्राणाग्निहोत्रेऽपि नैवेद्याशनतन्त्रता ॥
-
-
+> Nor can a substitution of another substance do duty as a homa, because he lives off food that has been obtained according to taste. 
 </details>
 
 
-## वैदिक-कर्मातिरस्कारः
+<details><summary>मूलम्</summary>
+
+न च द्रव्यान्तराक्षेपो होमायेत्यकल्पते ।  
+रागतः प्राप्तम् एवान्नं यतस् तेनोपजीव्यते ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नापि +++(सायम्-प्रातर्-अपेक्षया)+++ भुक्त्य्-अन्तराक्षेपो  
+नैवेद्यायोपपाद्यते ।  
+सायं-प्रातर् द्वि-जातीनाम्  
+अशनं श्रुति-चोदितम् ॥  
+नान्तरा भोजनं कुर्याद्  
+इति तत्-प्रतिषेधनात् ।  
+</details>
+
+<details><summary>Buitenen</summary>
+
+> Nor can a substitution of another consumption be made to replace the nivedya,  
+for scripture enjoins upon the twiceborn a meal in the evening and a meal in the morning,  
+as follows from the prohibition: "One should not take food in between."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नापि भुक्त्यन्तराक्षेपो नैवेद्यायोपपाद्यते ।  
+सायं-प्रातर् द्वि-जातीनाम् अशनं श्रुति-चोदितम् ॥
+नान्तरा भोजनं कुर्याद् इति तत्-प्रतिषेधनात् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैष दोषो यतः प्राण-  
+प्रभृतिर् देवता-गणः ॥  
+गुण-**भूतः श्रुतो** विष्णोर्  
+विष्णु-पारिषदेशवत् ।  
+</details>
+
+<details><summary>Buitenen</summary>
+
+REFUTATION. That is no defect, since the multitude of deities, like prāṇa etc. are revealed to be parts of Viṣṇu, in the same way as Viśvaksena, the chief of Viṣṇu's retinue. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नैष दोषो यतः प्राण-प्रभृतिर् देवता-गणः ॥  
+गुण-भूतः श्रुतो विष्णोर् विष्णुपारिषदेशवत् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथैव हि भगवन्-निवेदितम् अपि पुष्पौदनादि  
+विष्वक्सेनाय दीयमानं नानौचित्यम् आवहति ।  
+</details>
+
+<details><summary>Buitenen</summary>
+
+For just as the flowers, cake etc., though proffered to the Bhagavān  
+but actually given to Viśvaksena shows that. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथैव हि भगवन्निवेदितम् अपि पुष्पौदनादि  
+विष्वक्सेनाय दीयमानं नानौचित्यम् आवहति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा वा होतुर् उच्छिष्ट  
+एव सोम-रसो ऽध्वरे ।  
+अध्वर्य्व्-आदेर् विशुद्ध्यै स्याद्  
+एवम् अत्र भविष्यति ॥+++(4)+++
+</details>
+
+<details><summary>Buitenen</summary>
+
+He is familiar under various guises, or just as at a sacrifice the soma juice that is left over by the hotṛ is pure to the adhvaryu, so it is also with the nirmālya.284
+
+284: The hotṛ is the principal reciting priest at the soma sacrifice, the adhvaryu the main executive.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा वा होतुरुच्छिष्ट एव सोम-रसोऽध्वरे ।  
+अध्वर्य्वादेर् विशुद्ध्यै स्याद् एवम् अत्र भविष्यति ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च - 
+
+भोज्याभोज्य-व्यवस्थायाः  
+शास्त्रम् एव निबन्धनम् ।  
+तच् चेद् भोज्यम् इदं ब्रूते  
+किं वयं विदधीमहि ॥
+</details>
+
+<details><summary>Buitenen</summary>
+
+Moreover, only scripture can be our criterion for what is to be eaten and what is not to be eaten. When it says that something is fit to be eaten, what injunction are we to invent ourselves? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि च ।  
+भोज्याभोज्य-व्यवस्थायाः शास्त्रम् एव निबन्धनम् ।  
+तच् चेद् भोज्यम् इदं ब्रूते किं वयं विदधीमहि ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा ऽनुष्ठान-तन्त्रत्वं  
+नित्य-काम्याग्निहोत्रयोः ।  
+एवं प्राणाग्निहोत्रेऽपि  
+नैवेद्याशन-तन्त्रता ॥+++(5)+++
+</details>
+
+<details><summary>Buitenen</summary>
+
+Just as the same rule governs both the periodical and the desiderative agnihotra, so the same rule governing the eating of the nivedya applies also to the prāṇāgnihotra.
+
+[[120]]
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा ऽनुष्ठान-तन्त्रत्वं नित्य-काम्याग्निहोत्रयोः ।  
+एवं प्राणाग्निहोत्रेऽपि नैवेद्याशनतन्त्रता ॥
+
+</details>
+
+### वैदिक-कर्मातिरस्कारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् अप्य् उक्तं 
@@ -10297,7 +10291,7 @@ He who condemns Viṣṇu's nivedya, whose purity is proved by hundreds of simil
 कात्यायनादि-गृह्योक्त-मार्गेण गर्भाधानादि-संस्कारान् कुर्वते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 138\. As to the remark299 that from the observance of different sacraments,  
 from conception ceremony to cremation,  
@@ -10315,7 +10309,7 @@ observe the sacraments of conception ceremony etc. according to the manner laid 
 </details>
 
 
-### एकायन-शाखा
+#### एकायन-शाखा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये पुनः सावित्र्य्-अनुवचन-प्रभृति--त्रयी-धर्म-**त्यागेन** 
@@ -10325,7 +10319,7 @@ observe the sacraments of conception ceremony etc. according to the manner laid 
 अन्येषाम् अपि पर-शाखा-विहित-कर्माननुष्ठान-निमित्ताब्राह्मण्य-प्रसङ्गात्
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Those who perform the forty sacraments  
 which are enjoined by the Ekayana scripture  
@@ -10358,7 +10352,7 @@ since otherwise it would follow that other brahmins too would forfeit their brah
 सर्वत्र हि जाति-चरण-गोत्राधिकारादि-व्यवस्थिता एव समाचारा उपलभ्यन्ते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For everywhere among brahmins we find customs that differ according to birth, caraṇa, gotra, qualification etc. 
 </details>
@@ -10376,11 +10370,11 @@ For everywhere among brahmins we find customs that differ according to birth, ca
 क्वचित् समुच्चीयन्ते, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Even though one ritual is understood for all śākhās,  
 still all the various dharmas relating to mutually different qualified performers  
-do not all together accumulate in anyone place.  
+do not all together accumulate in any one place.  
 </details>
 
 
@@ -10399,7 +10393,7 @@ do not all together accumulate in anyone place.
 इति नोभयेषाम् अप्य् अन्योन्य-शाखा-विहित-कर्माननुष्ठानम् अ-ब्राह्मण्यम् आपादयति।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And the Aspirants who are distinct from those brahmins who are qualified for rites of the aindragneya etc.,  
 which are means leading to the enjoyment of rewards like heaven etc.,  
@@ -10423,10 +10417,10 @@ does not mean that either one forfeits his brahminhood-
 
 यथा चैकायन-शाखाया अपौरुषेयत्वं  
 तथा काश्मीरागम-प्रामाण्ये प्रपञ्चितम् इति  
-नेह प्रस्तूयते ।  
+नेह प्रस्तूयते ।  +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 that the Ekāyana sākhā is preterpersonal scripture has been enlarged upon in the Treatise on the Validity of Kasmira Agama,\*  
 and is therefore here not further discussed. 
@@ -10441,7 +10435,7 @@ and is therefore here not further discussed.
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-अनेन यामुनो ऽपौरुषेयत्वम् अङ्गीचकारेति ज्ञायते। 
+अनेन यामुनो ऽपौरुषेयत्वम् अङ्गीचकारेति ज्ञायते। +++(5)+++
 </details>
 
 
@@ -10452,6 +10446,7 @@ and is therefore here not further discussed.
 </details>
 
 
+#### इतरे भागवताः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रकृतानां तु भागवतानां  
@@ -10459,7 +10454,7 @@ and is therefore here not further discussed.
 न तत्-त्याग-निमित्त-व्रात्यत्वादि-संदेहं सहते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 But since it is quite obvious that the Bhagavatas, which we are discussing here,  
 are connected with the dharmas of the three Vedas, like the savitri recitation,  
@@ -10481,6 +10476,61 @@ because they would have abandoned these Vedic dharmas.
 गायत्रीमन्त्रापेक्षा-विषयिणी टिप्पन्य् [अत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/rAma-mishra-shAstri-sAvitrI-japApexA/) । 
 </details>
 
+## समाप्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्-तत्-कल्पित-युक्तिभिस् **शकलशः कृत्वा** तदीयं मतं   
+यच्-छिष्यैर् **उदमर्दि** सात्त्वत-मत-स्पर्धावताम् **उद्धतिः** ॥  
+यच् चैतत् सततं मुकुन्द-चरण-द्वन्द्वास्पदं **वर्तते**  
+**जीयान्** नाथ-मुनिस् स्व-योग-महिम-प्रत्यक्ष-तत्त्व-त्रयः ॥  
+</details>
+
+<details><summary>Buitenen</summary>
+
+139\. May Nāthamuni 285 be victorious, he to whom the Three Principles are immediately evident by virtue of his own miraculous power, he by whose pupils the arrogance of the rivals of the Sāttvata Doctrine is terminated after their own view was rent to pieces by variously apposite arguments, he whose spirit is for ever the abode of the feet of Mukunda. 
+
+285: Predecessor of Yāmuna at Śrīraṅga.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्-तत्-कल्पित-युक्तिभिस् शकलशः कृत्वा तदीयं मतं ।  
+यच्छिष्यैर् उदमर्दि सात्त्वत-मत-स्पर्द्धावताम् उद्धतिः ॥  
+यच्चैतत् सततं मुकुन्द-चरण-द्वन्द्वास्पदं वर्तते ।  
+जीयान्नाथमुनिस् स्व-योग-महिम-प्रत्यक्ष-तत्त्व-त्रयः ॥  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकल्पं **विलसन्तु** सात्त्वत-मत-प्रस्पर्धि--दुष्-पद्धति--  
+व्यामुग्धोद्धत-दुर्विदग्ध-परिषद्-वैदग्ध्य-विध्वंसिनः ।  
+श्रीमन्-नाथ-मुनीन्द्र-वर्द्धित-धियो निर्धूत-विश्वाशिवाः  
+सन्तस् सन्तत-गद्य-पद्य-पदवी-**हृद्यानवद्योक्तयः** ।  
+</details>
+
+<details><summary>Buitenen</summary>
+
+May, for the length of this Aeon, play on the pious, enchanting and irreproachable sayings of the extensive collection of prose and verse compositions which eclipse the cleverness of the befuddled, conceited and witless assembly of the evil crowd of the rivals of the Sāttvata doctrine, whose spirit has been increased by the glorious Nāthamunīndra,286 and by which all the unholy powers are cleansed,
+
+286: Nāthamuni compiled the sayings of the Vaiṣṇava saints, the Āḻvārs.  
+
+[[122]]
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आकल्पं विलसन्तु सात्त्वत-मत-प्रस्पर्द्धि-दुष्पद्धति-व्यामुग्धोद्धत-दुर्विदग्ध-परिषद्-वैदग्ध्य-विध्वंसिनः ।  
+श्रीमन्-नाथ-मुनीन्द्र-वर्द्धित-धियो निर्धूत-विश्वाशिवाः सन्तस् सन्तत-गद्य-पद्य-पदवी-हृद्यानवद्योक्तयः ।  
+</details>
+
+
+**इति श्री-यामुन-मुनि-विरचितम् आगम-प्रामाण्यम् ॥**```
 
 तत्तत्कल्पितयुक्तिभिस्शकलशः कृत्वा तदीयं मतं ।  
 यच्छिष्यैरुदमर्दि सात्त्वतमतस्पर्द्धावतामुद्धतिः ॥  
