@@ -1351,7 +1351,7 @@ they do not have proper denotative power.
 तद् असत् सिद्धम् अप्य् अर्थम्  
 **आचक्षाणाः** प्रयोगतः ।  
 लौकिकाः **प्रतिपद्यन्तेः**  
-शक्तिं, कार्यपराद् इव ॥
+शक्तिं, कार्य-पराद् इव ॥
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1407,25 +1407,60 @@ the statement itself has the power to convey an agreeable meaning.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्राप्य् अतीतानागतादि-भेद-भिन्नेषु हर्ष-हेतुषूपप्लवमानेषु  
-कस्य वक्ताऽयम् इति विचिकित्सोदये सति   
-तद्-अनन्तर-संजात--जात-कर्मावबोधतः ।  
+तत्राप्य् 
+
+> अतीतानागतादि-भेद-भिन्नेषु हर्ष-हेतुषूपप्लवमानेषु  
+कस्य वक्ताऽयम् 
+
+इति विचिकित्सोदये सति -  
 </details>
 
 <details><summary>Buitenen</summary>
 
-If there arises a doubt as to which particular ground of happiness  
+If there arises a doubt as to 
+
+> which particular ground of happiness  
 amongst the many different grounds that may occur according to past, present and future, then consider this.  
-A young boy, who wants to understand the meaning of speech, immediately upon hearing the same statement  
-receives knowledge that a birth ceremony is being held. 
 </details>
 
 
 <details><summary>मूलम्</summary>
 
 तत्राप्यतीतानागतादिभेदभिन्नेषु हर्षहेतुषूपप्लवमानेषु कस्य वक्ताऽयमिति विचिकित्सोदये सति   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(तद्-अनन्तर-संजात--जात-कर्मावबोधतः ।  )
+</details>
+
+<details><summary>English</summary>
+
+(A young boy, who wants to understand the meaning of speech, immediately upon hearing the same statement  
+receives knowledge that a birth ceremony is being held. )
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तदनन्तरसंजातजातकर्मावबोधतः ।  
 </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(तद्-अन्तर-सञ्जातं  
+ज्ञापकम् **अन्विष्यतः** ।  
+तद्-अनुभूतः को ऽपीति  
+भिन्न-वस्त्राभरणम् पुरा ॥)  
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्-अन्तर-सञ्जातं ज्ञापकम् अन्विष्यतः¹ ।  
+तद्-अनुभूतः को ऽपीति भिन्न-वस्त्राभरणम्² पुरा³ ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1515,8 +1550,17 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ननु न तद्-भाव-भाविता-मात्रेण कार्य-कारण-भावः, अति प्रसङ्गात्।
+> ननु न तद्-भाव-भाविता-मात्रेण कार्य-कारण-भावः,  
+अति प्रसङ्गात्।
 </details>
+
+<details><summary>English</summary>
+
+[[51]]
+
+> 62\. OBJECTION. However, the relation of cause and effect is not just known from the fact that one comes into existence upon the existence of the other, for that would mean over-extension. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1524,7 +1568,53 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 </details>
 
 
-न च जात-कर्म-कर्तव्यताऽवगतिर् नियमेन प्रियार्थावगम-पुरस्सरी, दृश्यते हि कुटुम्ब-भरणायास-विदूयमान-मनसोऽप्रीति-पूर्विकापि तत्-कर्तव्यतावगतिः, कार्यावगतिः किं शब्द-कारणिका दृष्टा येन गाम्-आनयेत्य् आदौ गवानयनादि-कर्तव्यतावगतिः शब्द-कारणिकाऽभ्युपेयते। अथ आकस्मिकत्वानुपपत्तेः सन्निहित-शब्द एव तद्-अवगम-हेतुर् इति चेत् समानोऽयं विधिर् इतरत्रापि।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न च जात-कर्म-कर्तव्यताऽवगतिर् नियमेन प्रियार्थावगम-पुरस्सरी, 
+</details>
+
+<details><summary>English</summary>
+
+> Nor does the realization that a birth ceremony is to be held follow invariably upon the knowledge of an agreeable meaning; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च जात-कर्म-कर्तव्यताऽवगतिर् नियमेन प्रियार्थावगम-पुरस्सरी, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> दृश्यते हि कुटुम्ब-भरणायास-विदूयमान-मनसो ऽप्रीति-पूर्विकापि तत्-कर्तव्यतावगतिः, 
+</details>
+
+<details><summary>English</summary>
+
+> for we find also that the same realization follows upon a feeling of distress, namely when the informed father is vexed by the trouble of maintaining his family.132
+
+132: Then, one may suppose, the child would not so readily associate the birth ceremony with the previous communication.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+दृश्यते हि कुटुम्ब-भरणायास-विदूयमान-मनसोऽप्रीति-पूर्विकापि तत्-कर्तव्यतावगतिः, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कार्यावगतिः किं शब्द-कारणिका दृष्टा  
+येन "गाम् आनये"त्य् आदौ  
+गव्-आनयनादि-कर्तव्यताऽवगतिः शब्द-कारणिका ऽभ्युपेयते। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+कार्यावगतिः किं शब्द-कारणिका दृष्टा येन गाम्-आनयेत्य् आदौ गवानयनादि-कर्तव्यतावगतिः शब्द-कारणिकाऽभ्युपेयते। 
+</details>
+
+
+अथ आकस्मिकत्वानुपपत्तेः सन्निहित-शब्द एव तद्-अवगम-हेतुर् इति चेत् समानोऽयं विधिर् इतरत्रापि।
 
 > यापि प्रवृत्ति-हेत्व्-अर्थ-प्रतिपादकता क्वचित्।  
 > लिङादि-प्रत्ययावाप-हैतुकी साऽवसीयते॥
