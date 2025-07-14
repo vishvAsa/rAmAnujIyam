@@ -288,7 +288,7 @@ this "non-apprehension of what should be there (yogānupalambha) is the criterio
 नापि विपर्ययलक्षणं योग्यानुपलम्भाभावात्, अनागतविपर्ययोत्प्रेक्षायाः प्रत्यक्षविरोधात् अशेषव्यवहारोच्छेदहेतुत्वाच्च, प्रपञ्चयिष्यते चैतदुपरिष्टात् ।  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नरसिंहाचार्यः</summary>
 
 विपर्ययो मिथ्याज्ञानम् ।  
 
@@ -335,7 +335,7 @@ The claim that Pañcarātra is invalid is opposed by the Pañcarātra Agama itse
 अथ तस्याप्रमाणत्वे तद्विरोधो न दूषणम् ॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नरसिंहाचार्यः</summary>
 
 ' पञ्च-रात्रम् अ-प्रमाणं वेद-बाह्यत्वात्' इति विरोधानुमानं पूर्व-पक्षिणा प्रदर्शितम् ।  
 तत्रोच्यते सिद्धान्तिना 

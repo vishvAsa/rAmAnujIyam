@@ -3556,7 +3556,7 @@ can actually produce.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> न च कर्मजन्यापूर्व-साक्षात्-कार-क्षमः क्षेत्र-ज्ञः कश्चित् प्रज्ञायते प्रतिज्ञायते वा, 
+> न च कर्म-जन्यापूर्व-साक्षात्-कार-क्षमः क्षेत्र-ज्ञः कश्चित् प्रज्ञायते प्रतिज्ञायते वा, 
 </details>
 
 <details><summary>Buitenen</summary>
@@ -4776,7 +4776,7 @@ and of composing the Vedas.
 अतो नास्ति तादृशः पुरुषः यस्समस्तजगन्निर्माणक्षमः साक्षात्कृतधर्माधर्मो वेदानारचयति ।  
 </details>
 
-### वेद-कत्र्-अस्मरणम्
+### वेद-कर्त्र्-अस्मरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च यदि वेदाः केनचिद् असृज्यन्त  
@@ -4884,7 +4884,7 @@ Therefore the Vedas do not originate from a person.
 तस्मादपौरुषेया वेदा इति ।  
 </details>
 
-### न तुल्यापौरुषेयता
+### न तुल्या ऽपौरुषेयता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-सिद्धान्ताभिनिवेश-व्यामुग्ध-बुद्धिभिर् अभिहितम् इदम् -  
@@ -6578,9 +6578,9 @@ I read tatha pi.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इत्थं नाना-श्रुति-मुनि-वचस्-सन्तत-स्तूयमान-  
-ज्ञानैश्वर्यः परम-पुरुषः पञ्च-रात्रं व्यधत्त ।  
+ज्ञानैश्वर्यः परम-पुरुषः पञ्च-रात्रं **व्यधत्त** ।  
 तच् चेद् एतच् छ्रुति-पथ-परिभ्रष्ट-तन्त्रैः समानं  
-पातृत्वेन **प्रसजति** तदा सोमपस् ते सुरा-पैः ॥ +++(5)+++ 
+पातृत्वेन **प्रसजति** तदा सोम-पस् ते सुरा-पैः ॥ +++(5)+++ 
 </details>
 
 <details><summary>Buitenen</summary>
@@ -6600,9 +6600,15 @@ just because he is a drinker!
 तच्चेदेतच्छुतिपथपरिभ्रष्टतन्त्रैः समानं पातृत्वेन प्रसजति तदा सोमपस्ते सुरापैः ॥  
 </details>
 
+<details><summary>नरसिंहाचार्यः</summary>
+
+केवलं तन्त्रत्व-साम्यम् आदाय यदि पञ्चरात्रम् अपि अवैदिकम् इति वक्तुम् उत्सहसे, तर्हि, ते तव प्रीति-पात्रं सोमपोऽपि, पातृत्व-साम्यम् आदाय, सुरा-पैः समानः प्रसजति इत्य्-अन्वयः। "समान" पदं पूर्व-पादाद् अध्याहार्यम्। मीमांसकस्य पूर्व-पक्षित्वाद् अत्र सोम-प-दृष्टान्तः सरस इति च ध्येयम्।c
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> नैतज् ज्यायः किम् अङ्ग? श्रुतिषु भगवतो **न प्रसिद्धा** विशुद्ध-  
+> नैतज् +++(तन्त्रं)+++ ज्यायः किम् अङ्ग? श्रुतिषु भगवतो **न प्रसिद्धा** विशुद्ध-  
 ज्ञानैश्वर्यादि-धर्मास् त्रिपुर-विजयिनस् - तेन यत् किञ्चिदेतत् ।  
 यद् वा देवस् स एव त्रि-भुवन-भवन-त्राण-विध्वंस-हेतुर्  
 वेदान्तैक-प्रमाणः **कथयति** स, कथं वेद-गोष्ठी-बहिः-ष्ठम् ॥
@@ -6665,10 +6671,11 @@ which ascribe omniscience and omnipotence to lord Pasupati as well:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्व-ज्ञेश्वर-शब्दौ च  
+> सर्व-ज्ञेश्वर-शब्दौ च  
 न र्ते देवात् पिनाकिनः +++(→तस्मिन्न् अपि)+++ ।  
 +++(पदार्थ-ज्ञान+-)+++उत्पत्ति-शक्त्या वर्तेते  
 सत्य् अप्य् अन्यत्र तद्वति ॥  
++++(इति प्रत्याक्षेपः।)+++
 </details>
 
 <details><summary>Buitenen</summary>
@@ -6688,12 +6695,13 @@ who are as it were all-knowing and supreme.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
++++("यस् सर्व-ज्ञः सर्व-वित्"→)+++  
 किञ्च सर्व-ज्ञ-शब्देन  
-सर्वज्ञे **प्रतिपादिते** ।  
+सर्व-ज्ञे **प्रतिपादिते** ।  
 **पौनर्-उक्त्यं** प्रसज्येत  
 सर्व-विद्-ग्रहणस्य वः ॥+++(5)+++  
-अतः सर्वज्ञशब्दोऽयं  
-महादेवैकगोचरः ।  
+अतः सर्वज्ञ-शब्दोऽयं  
+महादेवैक-गोचरः ।  
 </details>
 
 <details><summary>Buitenen</summary>
@@ -6762,7 +6770,7 @@ applies to this Pasupata Tantra too.
 </details>
 
 
-## श्रुति-विरोधः
+### श्रुति-विरोधः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च भवतु भगवान् वासुदेव एवौपनिषदः पुरुषः,  
@@ -6811,7 +6819,7 @@ discussion.
 प्रणीतं प्रस्तुतं तन्त्रमिति निश्चिनुमो वयम् ॥
 </details>
 
-## मोहनोद्देशः?
+### मोहनोद्देशः?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6858,7 +6866,7 @@ How are we to resolve it?
 व्याजह्रे किमिदं न वेति विशये जाते कथं निर्णयः ॥
 </details>
 
-## वैदिकैर् अनङ्गीकारः
+#### वैदिकैर् अनङ्गीकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्त्युत **भ्रमयन्न्** एव  
@@ -6907,7 +6915,7 @@ supra § 12.
 वैदिकापरिग्रहश्च प्रागेव प्रपञ्चित इति, तस्मान्न स्वतन्त्रानुभवमूलतया प्रमाणम् ।  
 </details>
 
-## न मन्वादि-स्मृतिवत्
+### न मन्वादि-स्मृतिवत्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7031,9 +7039,9 @@ we arrive at the conclusion that Pañcarātra is outside the Veda.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शैवं पाशुपतं सौम्यं  
+> शैवं पाशुपतं सौम्यं  
 लागुडञ्च चतुर्विधम् ।  
-तन्त्रभेदः समुद्दिष्टः  
+तन्त्र-भेदः समुद्दिष्टः  
 सङ्करं न समाचरेत् ॥ 
 
 इति ।  
@@ -7041,7 +7049,7 @@ we arrive at the conclusion that Pañcarātra is outside the Veda.
 
 <details><summary>Buitenen</summary>
 
-"Tantra is of four kinds: Saiva, Pasupata, Saumya and Laguḍa;  
+> "Tantra is of four kinds: Saiva, Pasupata, Saumya and Laguḍa;  
 thus are described the divisions of Tantra;  
 one should not confuse them." 
 </details>
@@ -7057,8 +7065,9 @@ one should not confuse them."
 
 तथा -  
 
-भाक्तं भागवतञ्चैव  
+> भाक्तं भागवतञ्चैव  
 सात्त्वतं च त्रिधा मतम् ।  
+
 इत्य् एवं **तन्त्रभेदोक्तिः**  
 पञ्चरात्रेऽपि **दृश्यते** ॥
 </details>
@@ -7066,7 +7075,8 @@ one should not confuse them."
 <details><summary>Buitenen</summary>
 
 Likewise:  
-"There are three distinct doctrines, the Bhakta, the Bhagavata and the Satvata;"  
+
+> "There are three distinct doctrines, the Bhakta, the Bhagavata and the Satvata;"  
 this description of the divisions of Tantra is also found in Pancarātra. 
 </details>
 
