@@ -67,7 +67,7 @@ and of which it is now to be proved that it is particularized by another term,
 which is also established." 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 pratijñārthah, the object or content of the pratijñā,  
 which is the first step of the five-membered syllogism,  
@@ -84,7 +84,8 @@ a non-thing like a hare's horn can be neither S nor P.
 स्वयं सिद्धो विशिष्टस्सन् यः साधयितुमीप्सितः ॥
 </details>
 
-### पक्ष-सौष्ठवम्
+## पक्ष-सौष्ठवम्
+### प्रसिद्धिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र न तावद् अ-प्रसिद्ध-विशेषणः पक्षः -  
@@ -120,6 +121,7 @@ Nor is the subject itself unknown, for the Pañcaratra system is known universal
 नाप्यप्रसिद्धविशेष्यः पञ्चरात्रशास्त्रस्य सर्वलोकप्रसिद्धत्वात्, 
 </details>
 
+### न सिद्ध-साधनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि सिद्ध-साधनः +++(सविशेषणः पक्षः)+++,  
@@ -138,7 +140,7 @@ for this Object, "The Pañcaratra is valid," is not proved for the opponent.
 नापि सिद्धसाधनः, प्रस्तुतशास्त्रप्रामण्यस्य प्रतिवादिनोऽसिद्धत्वात्, 
 </details>
 
-
+### न प्रत्यक्ष-विरोधः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च प्रत्यक्ष-विरुद्धः +++(सविशेषणः पक्षः)+++ अ-प्रामाण्यस्यातीन्द्रियत्वात्, 
@@ -156,7 +158,7 @@ since its opposite, ie. nonvalidity, is beyond perceptual verifiability.
 न च प्रत्यक्षविरुद्धः अप्रामाण्यस्यातीन्द्रियत्वात्, 
 </details>
 
-
+### नानुमानतो विरोधो बाह्यत्वादिभिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाप्य् अनुमानविरुद्धः +++(सविशेषणः पक्षः)+++, अनुपलम्भनात् ।  
@@ -174,8 +176,7 @@ because no inference proving non-validity is found.
 नाप्यनुमानविरुद्धः, अनुपलम्भनात् ।  
 </details>
 
-## बाह्यत्वादौ सङ्क्षेपः
-### न बाह्यत्वाद् अप्रामाण्यम्
+#### न बाह्यत्वाद् अप्रामाण्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **ननूपलभ्यत** एवानुमानम् -  
@@ -277,7 +278,7 @@ and would put an end to all operations.
 This point shall be discussed in detail later on. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 this "non-apprehension of what should be there (yogānupalambha) is the criterion by which we know the absence of a thing. Here it is the absence of truth in Pañcarātra that needs be proved by yoganupalambha, if the objector's contention that Pañcarātra is invalid-through-reversion be correct. 
 </details>
@@ -301,7 +302,7 @@ this "non-apprehension of what should be there (yogānupalambha) is the criterio
 
 
 
-### वेद-भिन्नत्वान् नाप्रामाण्यम्
+#### वेद-भिन्नत्वान् नाप्रामाण्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -339,18 +340,21 @@ The claim that Pañcarātra is invalid is opposed by the Pañcarātra Agama itse
 
 ' पञ्च-रात्रम् अ-प्रमाणं वेद-बाह्यत्वात्' इति विरोधानुमानं पूर्व-पक्षिणा प्रदर्शितम् ।  
 तत्रोच्यते सिद्धान्तिना 
-' आगमविरुद्धं च ' इति ।  
+' आगम-विरुद्धं च ' इति ।  
 आगम-पदेन पाञ्चरात्रागमः अभिप्रेतः ।  
 पाञ्चरात्रागमे प्रतिपाद्यमानोऽर्थः प्रमाणम्  
-इति तेनैवागमेन बोध्यते इत्यर्थः । तत्र आक्षिपति मीमांसक: ' अथे 'ति । ' तस्य' पाञ्चरात्रागमस्यैव अप्रामाण्ये निश्चिते सति, मदुक्तेनानुमानवाक्येन विरोधः स्फुट एव । तत्र को दोषः ? इति तस्य प्रश्नः 1 
+इति तेनैवागमेन बोध्यते इत्यर्थः ।  
+
+तत्र आक्षिपति मीमांसक: ' अथे 'ति ।  
+' तस्य' पाञ्चरात्रागमस्यैव अप्रामाण्ये निश्चिते सति, मदुक्तेनानुमानवाक्येन विरोधः स्फुट एव । तत्र को दोषः ? इति तस्य प्रश्नः । 
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त एवं सति  
-तद्+++(→शब्दतः)+++-अप्रामाण्ये ऽनुमान-प्रामाण्यम् +++(इष्यते)+++,  
-अनुमान-प्रामाण्ये +++(प्रदर्शिते)+++ तद्+++(→शब्दतः)+++-अप्रामण्यम् +++(इष्यते)+++  
+तद्+++(=पाञ्चरात्र)+++-अप्रामाण्ये +++(त्वत्-प्रयुक्त-)+++ऽनुमान-प्रामाण्यम् +++(इष्यते)+++,  
++++(अस्मत्-प्रयुक्त-)+++अनुमान+++(तः)+++-प्रामाण्ये +++(प्रदर्शिते)+++ तद्+++(=पाञ्चरात्र)+++-अप्रामण्यम् +++(इष्यते)+++  
 इत्य् अन्योन्याश्रयणम् । +++(5)+++ 
 </details>
 
@@ -358,15 +362,24 @@ The claim that Pañcarātra is invalid is opposed by the Pañcarātra Agama itse
 
 REFUTATION.  
 Why, if that were so, that would mean that  
-if its authority is disproved by Scripture  
+~~if its authority is disproved by Scripture  
 it is proved by Inference,  
 and if it is proved by inference  
 it is disproved by Scripture;  
-which is a vicious circle.
+which is a vicious circle.~~
+</details>
+
+<details><summary>En - विश्वासः</summary>
+
+Why, if that were so, that would mean that  
+for proving it's invalidity,  
+you want (your) inference's validity accepted.  
+But where we infer it's validity,  
+you want it's invalidity (to counter us).
 </details>
 
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 I have difficulty in understanding the argument unless I assume an illogicality. By stating as his ground since in agama we have its meaning exactly conveyed as it is the objector not only agrees with the preceding argumentation that on inferential grounds Pañcaratra is not invalid, but even goes so far as accepting that it is valid in other words, confuse non-invalidity with validity. 
 
@@ -419,7 +432,7 @@ which are also different from the Veda.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ "शब्दत्वे सती"ति हेतुर् विशेष्यते ततो निग्रहस्थानम्,  
+अथ +++(प्रत्यक्ष-ग्रहणं वारयितुं)+++ "शब्दत्वे सती"ति हेतुर् विशेष्यते ततो निग्रहस्थानम्,  
 यथाऽहुः 
 
 > निर्विशेष-हेतु-प्रयोगे पुनर् विशेषणोपादानं निग्रहः, 
@@ -434,7 +447,7 @@ which, as they say, occurs when into a syllogism with an unqualified ground
 and additional qualification is accepted 120
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 a hetvantaram constitutes on the part of the debator a confession of importance  
 since the ground which he gave does not hold  
@@ -451,7 +464,7 @@ By the rules of debate this means a defeat.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनैकान्तिकश्च मन्वादिवाक्यै ।  
+अनैकान्तिकश्च मन्वादिवाक्यैः ।  
 </details>
 
 <details><summary>Buitenen</summary>
@@ -462,10 +475,10 @@ which also are language and different from the Veda,
 
 <details><summary>मूलम्</summary>
 
-अनैकान्तिकश्च मन्वादिवाक्यै ।  
+अनैकान्तिकश्च मन्वादिवाक्यैः ।  
 </details>
 
-### अ-वेद-मूलत्वान् न
+#### अ-वेद-मूलत्वान् न
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -650,7 +663,7 @@ this suffices for the time being to expose the baseless fancies
 of those who have not made a study of Akṣapada's system.  
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Akshapada - The founder of the school of logic.
 </details>
@@ -680,7 +693,7 @@ We conclude therefore, that the proposition "Pañcarātra is authoritative," is 
 संभाव्यमानान्यप्यनुमानान्तराणि परस्तादुपन्यस्य निरस्यन्ते अतो नानुमानविरुद्धः पक्षः ।  
 </details>
 
-### नागम-विरोधः
+#### नागम-विरोधः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाप्य् आगम-विरुद्धः -  
@@ -700,7 +713,7 @@ will be adduced which set forth that Pañcarātra is authoritative.
 नाप्यागमविरुद्धः पञ्चरात्रशास्त्रप्रामाण्यप्रतिपादकस्य इदम्महोपनिषदम् इत्याद्यागमशतस्य प्रदर्शयिष्यमाणत्वात् ।  
 </details>
 
-## न स्व-व्याघातादि
+### न स्व-व्याघातादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-वचन+++(→विरोधः)+++--स्वाभ्युपगम+++(→विरोधः)+++--सर्व-लोक-प्रसिद्धि-विरोधाश्  
@@ -774,7 +787,7 @@ does not cancel its own content, as does, for instance, the statement:
 नापि धर्मोक्ति-विरोधः,  
 **न** हि प्रामाण्यं  
 पञ्च-रात्रोद्देशेन विधीयमानं पक्षं **प्रतिक्षिपति**  
-सर्ववाक्यानाम् इव मिथ्यात्व-वचनम्,+++(5)+++ 
+सर्व-वाक्यानाम् इव मिथ्यात्व-वचनम्,+++(5)+++ 
 </details>
 
 <details><summary>Buitenen</summary>
@@ -830,7 +843,7 @@ as in the case of the assertion that
 certain acts of violence which are enjoined are against the dharma,12  
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 The Vedic injunction na hinṇsyāt sarvabhūtāni "one should not injure any being"  
 raises the question of the validity of injunctions which do require injury to beings.  
@@ -898,7 +911,7 @@ The ground is not occasionally applicable to other terms.
 तथा हि न तावदनैकान्तिकः, 
 </details>
 
-
+### नानैकान्तिकः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि द्वेधा साधारणासाधारणभेदात् -  
@@ -915,7 +928,7 @@ An instance of the first kind provides the ground in the argument:
 Of the second kind: "The earth is eternal, because it, possesses smell." 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Since pots are knowable, the ground would also apply to prove the eternality of pots and all things that are knowable. 
 
@@ -938,12 +951,12 @@ does not apply equally whether it is authoritative or not,
 which would render the ground generally-occasional.126 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Like the ground "because it is knowable" which applies to things regardless of whether they are eternal or not.
 </details>
 
-
+#### न साधारणत्वात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र न तावन् निर्दोष-ज्ञान-कारणत्वं प्रमाणाप्रमाण-साधारणं,  
@@ -973,6 +986,7 @@ that Pañcaratra is deceptive and hence nonauthoritative.
 न हि निर्द्दोषज्ञानकारणत्वमप्रमाणभूतविप्रलम्भकवचनादिषु विपक्षेषु दृष्टचरम् ।  
 </details>
 
+#### नासाधारणत्वात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाप्य् असाधारणः -  
@@ -993,6 +1007,7 @@ shows its connection with other instances on the same side of the argument.
 नाप्यसाधारणः ज्योतिष्टोमादिवाक्यदृष्टान्ताभिधानेनैव सपक्षान्वयस्य प्रदर्शितत्वात् ।  
 </details>
   
+### न विरुद्धः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि विरुद्धः,  
@@ -1012,6 +1027,7 @@ since there is no concomitance of its opposite; being a cause of faultless knowl
 नापि विरुद्धः, विपरीतव्याप्त्यभावात्, न हि निर्दोषज्ञानकारणत्वमप्रामाण्येन व्याप्तम् ।  
 </details>
 
+### न कालात्ययः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च कालात्ययापदिष्टः -  
@@ -1031,7 +1047,7 @@ and in this it is analogous with Scripture.
 न च कालात्ययापदिष्टः प्रत्यक्षविरोधाभावात् आगमानुगुण्याच्च ।  
 </details>
 
-
+### नासिद्धः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चासिद्धत्वम्,  
@@ -1084,7 +1100,7 @@ Ignorance does not apply,
 as follows from the fact that the words describing the ground are pronounced.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Obviously, if the ground were not known, it could not be stated.
 </details>
@@ -1133,7 +1149,7 @@ That the ground would be unestablished through reversal is utterly out of the qu
 विपर्ययासिद्धिस्तु दूरोत्सारितैव ।  
 </details>
 
-## पौरुषेयस्यापि ग्राह्यता
+### पौरुषेयस्यापि ग्राह्यता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1146,7 +1162,7 @@ That the ground would be unestablished through reversal is utterly out of the qu
 This supposition arises instantly since the texts are of personal origin. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 This objection seems to speak to the summary denial that the ground is unestablished through reversion.
 </details>
@@ -1214,7 +1230,7 @@ Our position is that in language as such there are no defects that invalidate it
 as language, language is authoritative, 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Be it repeated that the validity, authoritativeness, etc. of Verbal Statements (ie, shabdapramāna) is founded on the basic assumption that statements truly and accurately communicate their things-meant (artha), that a word accurately conveys its meaning.  
 Among these things meant Yamuna includes facts as well as karyas,  
@@ -1254,7 +1270,7 @@ for instance in a language statement,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रस्तुत-ग्रन्थ-संदर्भे  
+प्रस्तुत-ग्रन्थ-सन्दर्भे  
 वक्तुर् आशय-गामिनीम् ।  
 दोष-शङ्कां त्रयी-मूर्ध-  
 ध्वनिर् **एवापमार्ष्टि** नः ॥  
@@ -1305,7 +1321,7 @@ then how can we suppose Him to be deceitful etc.?
 > सिद्धे वस्तुनि शब्दानां  
 प्रामाण्यं नेत्यवादिषम् ।  
 तत्-परेषु प्रयोगेषु  
-व्युत्पत्त्यग्रहणाद् इति ॥
+व्युत्पत्त्य्-अग्रहणाद् इति ॥
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1446,7 +1462,7 @@ Then he considers,
 and he realizes that this meaning was precisely this that a son had been born. 13 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Yamuna here takes up the Prabhakara's theory that a child learns the meaning of language  
 through the action his elders take on hearing a statement,  
@@ -1474,8 +1490,9 @@ but a communication of an established fact,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र च ।  
-आवापोद्धार-भेदेन  
+तत्र च -  
+
++++(नाना-वाक्येषु)+++ आवापोद्धार-भेदेन  
 पदानां शक्ति-**निश्चयः** ।  
 **उपपद्यत** इत्य् एवं  
 सिद्धासिद्धार्थ-वाचिता ॥
@@ -1484,7 +1501,7 @@ but a communication of an established fact,
 <details><summary>Buitenen</summary>
 
 And on that issue:  
-Definite knowledge of the donation of words in a sentence is had through the words that are included or excluded. This being so, 51 words denote their meanings, whether these are established things or not.
+Definite knowledge of the denotion of words in a sentence is had through the words that are included or excluded. This being so, [51] words denote their meanings, whether these are established things or not.
 </details>
 
 
@@ -1498,7 +1515,7 @@ Definite knowledge of the donation of words in a sentence is had through the wor
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु न तद्-भाव-भाविता-मात्रेण कार्य-कारण-भावः, अति प्रसङ्गात्।
+> ननु न तद्-भाव-भाविता-मात्रेण कार्य-कारण-भावः, अति प्रसङ्गात्।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1924,7 +1941,7 @@ what the six mudrikas are and by wearing them,
 not by knowing Brahman. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 External signs worn by Saiva sectarians.
 </details>
@@ -2224,7 +2241,7 @@ The Effect comprises the elements from Mahat to earth.
 The Injunction is stated to comprehend principally a number of rites, secret practices, bathing and lying in ashes etc. 182  
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Mahat - The highest material evolute; the sloka is out of order.
 
@@ -2255,7 +2272,7 @@ thus the five Categories are enumerated.
 </details>
 
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 The text reads yogo dharanam ucjate hydi dhiyām onkarapuream tatha, and seems out of order. The sense is clear however.
 </details>
@@ -2559,7 +2576,7 @@ For thus it reads in the Varaha Purana,
 > you must delude all these people quickly."84
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 [[139]]  
 corresponds to Varaha Purana. 70.36 tvam ca rudra mahabaho mokatastrāni kāraya al pajasam?? darsayitva mahajātu mahetoarah. 
@@ -2611,7 +2628,7 @@ as though it were correct doctrine
 in order to deceive those who have deserted the Way of the Veda.185 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 cf. Varāha Pur., 70.41, which in cd reads nayasiddhanta sam jñabhir maya shāstran tu darshitam.
 </details>
@@ -2638,7 +2655,7 @@ the people who believe in the scriptures promulgated by myself
 do not respect the Vedas.16 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 cf. Variha Pur., 70.38, which reads in cd shastrejo?? abhirato loko bahuljena bhaved atah. 
 </details>
@@ -2662,7 +2679,7 @@ cf. Variha Pur., 70.38, which reads in cd shastrejo?? abhirato loko bahuljena bh
 Thus the Pasupata and like doctrines are active in the Kali Age.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 nearest is Varaha Pur., 70.42, tada pasupatam sastram jāyate vedasanjaitam.
 </details>
@@ -2709,7 +2726,7 @@ This ritual called Pasupata is the lowliest and deceives men.188"
 </details>
 
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 cf. Varaha Pur., 70.21, yad vedabāḥyam karma ṣṣācchāstram udditya senzate I tad raudram iti cikk?? yatam tan nestam gaditam nṛṇām.
 </details>
@@ -2736,7 +2753,7 @@ The large numbers of statements like the preceding ones will not be written out 
 because they are too numerous. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 [189]: cf. Varaha Pur., 70.40, mam vimor oyatiriktam ye brahmasiat ca doijottama bhajante pāpakarmāņas te panti narakam narāḥ, 
 </details>
@@ -2974,7 +2991,7 @@ To conclude, it is these followers of other Tantras of whom it is said, in the s
 </details>
 
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 read yesAm for eṣām.
 
@@ -3703,7 +3720,7 @@ which enjoin the sacrament of consecration upon those qualified for Initiation e
 do not therefore become non-Vedic. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 āgnavaisNava, name of a sacrificial cake offered at the dikşaniyeşti.
 </details>
@@ -3845,7 +3862,7 @@ while he himself is a supreme Bhagavata,
 model for the all the world?
 </details >
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 [[140]] The author of the Brahmasutras is identified with Vyasa Dvaipayana, composer of the Mahabharata
 </details>
@@ -4366,7 +4383,7 @@ because the meaning of the words has already become known from other contexts.
 Nor does this small measure of dependence prove the weakness of the statement's [[90]] validity, for the same weakness would follow for śruthi too.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 in order to understand any statement, one must first know the meaning of the words that compose it;  
 this may be called dependence,  
@@ -4417,7 +4434,7 @@ for the knowledge produced by the statement does not require anything outside it
 because secondary validity is inappropriate and not admitted.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 If the cause (here: God) is above suspicion, the statement will be accurate.
 
@@ -5698,7 +5715,7 @@ Therefore, even if there were a conflict between the Bhagavan's doctrine and the
 116\. OBJECTION. However, how can the venerable Author of the Bhasya239 state that those parts which are in conflict are invalid: 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Sabarabhasya and KMS.
 </details>
@@ -5944,7 +5961,7 @@ whose content is to be "learnt", "known" and "observed," by those who perform fo
 it would follow that the ground "because they are accepted by people outside the Veda" is occasional,242
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 People who do prohibited acts follow Vedic expiations; but if acceptance by people who commit forbidden acts is sufficient to deny the validity of what they accept, this means that the validity of the Veda would be denied.
 </details>
@@ -6099,7 +6116,7 @@ and that Pañcaratra is invalid, like the caityavandana statements,"
 because it is accepted by those who, being unqualified, are outside the Veda, 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 supra § 17: this Buddhist injunction is outside the Veda
 </details>

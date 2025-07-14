@@ -16,7 +16,7 @@ title = "०१ पूर्व-पक्षः"
 4. There are certain people whose minds are confused by the noise of multitudes of sophisms and falsehoods which are borrowed from anyone that comes and claiming superiority for their own studies and learning, and pretending to protect the Way of the Veda,' they refuse to accept the authority of Pañcaratra Tantra which, being composed by the Supreme Person Himself, leads to unparalleled beatitude. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 In the purva paksa the principal opponents introduced are what one may already call smārta brahmins, and among them especially the orthodox followers of Mimāmsa. Vedanta opposition will be discussed. 
 </details>
@@ -58,7 +58,7 @@ And they contend:
 It has been decided that Verbal Testimony is a means of knowledge in two ways: dependent testimony which depends on other authority, and independent testimony. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 shabda, and its synonyms, have been translated variously as Verbal Testimony, Verbal Evidence in general, or Scripture in particular, depending on the context. 
 </details>
@@ -124,7 +124,7 @@ which has already been truly established by other means of knowledge,
 and which enables the speaker to take this fact for granted. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 prāmāna has generally been rendered with "means of knowledge," sometimes with "criterion." 
 </details>
@@ -275,7 +275,7 @@ for we know from experience
 that knowledges exceed one another as their contents exceed one another. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 jagati or toke??: "in the world of experience, in common experience." 
 </details>
@@ -498,7 +498,7 @@ You insist, as it were, on full maturity in a little boy!
 even as a boy, after attaining the full growth, cannot grow physically further?'
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Punctuate after iti which closes the question introduced in prsto vyācasṭām;  
 abhi-ni-vis "to stick to a partisan view (in the teeth of contrary evidence)."  
@@ -596,7 +596,7 @@ In the alternative
 you cannot avoid the illogicality we have pointed out:
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 siddhasadhana, one of the defects of an argumentation  
 by which proof is sought of that which is already proved or established.  
@@ -629,7 +629,7 @@ Consequently, there remains the defect of
 mutual exclusion. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 vibhu in the sense of "omnipresent, infinite." 
 </details>
@@ -753,7 +753,7 @@ its authority is entirely non-existent.
 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Relation of means to ends - namely, the Pañcaratra postulation that such tantric ceremonies as consecration (ditsa), etc, are means leading to the summum bonum. 
 </details>
@@ -782,7 +782,7 @@ If no fires have ever been observed before,
 they cannot prove that smoke is invariably concomitant with them." 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 In the standard inference:  
 the mountain has fire, because it has smoke,  
@@ -813,7 +813,7 @@ being based upon this mandate,
 carried authority.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Yamuna throughout treats Satvata and Bhāgavata as 
 synonymous. 
@@ -879,7 +879,7 @@ originating from a person
 or not originating from a person.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 pauruşėya and apauruseya;  
 the latter has in the sequel been rendered with "preterpersonal."  
@@ -1041,7 +1041,7 @@ as it cannot be proved otherwise.
 …
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Implication - namely, the relation of being a means to a certain end.
 
@@ -1076,7 +1076,7 @@ and this tradition is comparable to the tradition of Manu and others
 that certain non-Vedic rites, as the astaka etc., are dharma; 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 KMS 1.3.2 api od kartrsamanyāt pramāṇam anumānam syat - "smr̥ti is authoritative, because both smr̥ti and Veda have the same agent performing its mandates,"
 
@@ -1427,7 +1427,7 @@ and the ritual acts enjoined by Tradition (e.g., aṣṭakā, ācamana, sandhya 
 because they have been instructed in both varieties of acts by their fathers or preceptors. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 The morning and evening oblations, the New and Full Moon oblations, and the soma sacrifice,  
 examples respectively of nitya (daily recurring), naimittika (occasional) and kamya (desiderative) rites.
@@ -1724,7 +1724,7 @@ There is also a distinct difference in the two appellations: here Brahmins, ther
 > by some sort of transference of properties, just as the word parivrajaka is used to designate a Brahmin.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 The point is taken up in detail infra §§ 119 f.
 </details>
@@ -1788,7 +1788,7 @@ that it is improper to use a certain word in its etymological sense
 if it can also be taken in a customary sense which is more common, e.g., rathakāra.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Respectively yoga, whereby the component parts of the word are given their own meaning;  
 and rūḍhi, the total meaning of a word that has become conventional  
@@ -1819,7 +1819,7 @@ how could the word *rathakara give up its etymological meaning of "chariotmaker"
 even to the extent of cancelling all connotations which we have learnt? 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 adhyayanasiddhabuddhyangato??abkangenāpi.  
 Such a "connotation" is, for example, that the rathakara in the literal sense of cartwright  
@@ -1848,7 +1848,7 @@ and belongs to the lowest castes,
 and is thus excluded from the sacraments of initiation, etc. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 upanayana, which is the first step to his acquisition of Vedic knowledge.
 </details>
@@ -1931,7 +1931,7 @@ Smrti has it that
 > he is also called Bhagavata."
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 the term "by royal decree" shows that it is a caste profession. Quotation not identified
 </details>
@@ -1988,7 +1988,7 @@ Thus Uśanas:
 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 not found in Ausanasasmrti (AAS 48). 
 </details>
@@ -2215,7 +2215,7 @@ Their own Parama Samhita states the same prohibition:
 > one must never worship the God of gods for a living."
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 This point is detailed upon infra § 134 f
 </details>
@@ -2330,7 +2330,7 @@ Thus Devala:
 "One who lives on temple treasure. is called a devalaka." 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 not in Devalasmr̥ti.
 </details>
@@ -2446,7 +2446,7 @@ Atri, too, very explicitly declares that they are not Brahmins:
 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 not in Atrismr̥ti:  
 Avaluka is unknown to me.  
@@ -2772,7 +2772,7 @@ If it were authoritative,
 then it would have been recognized as such by tradition;  
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 fourteen sources of knowledge - namely, the four Vedas, six Vedāngas, the Purāṇas, Mimansā, Nyāya and Dharmaśāstra.
 </details>
@@ -2922,7 +2922,7 @@ of the delegated and indirect authority of the Tradition of Manu etc.
 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 A Naiyayika. Traditionally, Nyaya does not accept the Mimānsā view that the Vedas have not originated from a person.
 </details>
@@ -3096,7 +3096,7 @@ that it whirls irrepressibly sky-high without fire!
 It is utterly out of the question. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 The argument is thus:  
 The Veda is of personal origin, because it is language;  
@@ -3134,7 +3134,7 @@ the mountain has fire, because it has smoke.
 </details>
 
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 avatara "descent, emergence." The meaning is as follows: Dharma is by definition that action which leads to a certain end by suprasensible law. Since the process (the Incans-end?? relation) is suprasensible, there can be no other authority for it than Scriptural authority. 
 </details>
@@ -3209,7 +3209,7 @@ Consequently we must postulate a certain person who has this perceptual knowledg
 and that person must also be the one who created the Veda at the beginning. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 This envisages the world as the sum total of the fruits (phala) brought about by observance or non-observance of dharma, which is thus instrumental to world creation.
 </details>
@@ -3356,7 +3356,7 @@ which are the instrumental causes of origination and annihilation.
 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Since they are products, they have been produced by a person (God) who knew the means by which to produce them (dharma and adharma).
 </details>
@@ -3433,7 +3433,7 @@ just because it is subject to origination and annihilation, like a house.
 between acts that bring about the desires of the person who undertakes them, 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 This is the Mimaṁsā view  
 which holds that the dharma and adharma as instruments in creation  
@@ -3513,7 +3513,7 @@ And we are not able to create through the instrumentality of apurva factors:
 for before the actual fruition of the ritual act we cannot know their instrumentality,
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 apūrva lit. "that which is unprecedented, not known before, se. by other means of knowledge" in Mimāmsā it describes especially that suprasensible power inherent in the act which makes it produce its result.
 </details>
@@ -3538,7 +3538,7 @@ and it has been said that only a person who has actual knowledge of the material
 can be a maker with respect to these causes. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 The argument is that one cannot know that the act will indeed produce an effect until this effect has materialized;  
 thus the act's power- apūrva- cannot be known beforehand  
@@ -3635,7 +3635,7 @@ As they say:
 Mantras, arthavadas, epic and purana corroborate this point; e.g. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 mantra and arthavada: the terms indicate that the Naiyayika continues to address the Mimimsaka, for these of course are Mimāmsā terms, mantra being the Vedic formula used at the ritual, arthavada the descriptive, noninjunctive passages of Brahmana and later Vedic texts. 
 </details>
@@ -3791,7 +3791,7 @@ REFUTATION.
 He is not directly perceived. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Yamuna concurs in the Mimāmsaka's refutation of the Naiyayika's views,  
 to the extent that  
@@ -3894,7 +3894,7 @@ for if dharma-the Law-is not independent of other means of knowledge,
 there is no exclusive authority of the Vedas. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 That which makes the Veda authoritative, i.e., a means of valid knowledge, is just this that it communicates knowledge of apurva facts, e.g., that a soma sacrifice is a means of attaining heaven, i.e., generally matters pertaining to dharma.
 </details>
@@ -4054,7 +4054,7 @@ but merely, as now, subject to varying degrees of increase and decrease which ar
 To say that the Mimāmsakas accept origination and annihilation in this sense is to prove the proved.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 The Mimimsaka admits that the universe, being made up of parts, is subject to origination and destruction,  
 but never at one time, since all entities presuppose former acts that have brought them about. 
@@ -4128,7 +4128,7 @@ can never be open to perception.
 How then can we have use for a supervising God?   
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Since the apūrva power is suprasensible,  
 it can never be perceived,  
@@ -4356,7 +4356,7 @@ this same ground cannot prove the same fact
 when it does not involve a contradiction.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 read na labhyate .avirodhe" pi; the meaning is this: when a certain fact (the eternality of pots) cannot be proved by a ground (recollection)  
 because this ground contains a contradiction  
@@ -4508,7 +4508,7 @@ whatever has parts must come to an end is not universally true.
 The solution of others, namely that God's special properties can be demonstrated by an ad-hoc conclusion, does not hold good either. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 adhikaranasiddhanta is a conclusion which, as soon as one thing is established (e.g., that there is a world creator),  
 establishes another topic discussed (e.g., omniscience).  
@@ -4919,7 +4919,7 @@ If it consists in this that the Vedas are composed of eternal words,
 the same holds true of the Pañicarātra Tantra.  
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 It is the contention of Mimamsa that words and their capacity of conveying meaning are eternal.
 </details>
@@ -4957,7 +4957,7 @@ It could not be the eternity of the word-sequence,
 for sequence cannot be natural to eternal entities. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Sequence, of course, supposes priority and posteriority of the entities in sequence, while eternals are co-eternal.
 </details>
@@ -5025,7 +5025,7 @@ should not be denied.
 And with this we conclude our lengthy disquisition. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 kramāvāntarajati; the difference resides in the createdness of the Pancarātra and the uncreatedness of the Veda, which introduces a difference of degree between the word sequences of both corpora of verbal statements.
 </details>
@@ -5098,7 +5098,7 @@ As it is, this is a fallacy,
 for the great Lord is known on the authority of the upaniṣads. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 This is Yamuna's objection, which states the extent to which he concurs in the preceding Mimāmsā argument against Nyaya.
 </details>
@@ -5151,7 +5151,7 @@ for similar statements made by persons concerning facts that are extremely remot
 cannot be denied the authority which is afforded them naturally. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 This starts the discussion of the Prabhakara theory on the limitations of the validity of verbal statements.  
 First general Mimāmsā views on the subject are discussed. 
@@ -5181,7 +5181,7 @@ for the same may equally well happen to a statement concerning, not a fact, but 
 </details>
 
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 The validity of shabda lies in its communicating contents that cannot be known through other means of knowledge.  
 What I translate as 'facts' are more literally "established [[129]] entities," established, that is, by other means of knowledge than shabda.  
@@ -5216,7 +5216,7 @@ are also known through other means of knowledge,
 as in the case of the cooking of the odana.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 (The injunction concerning the odana oblation includes an injunction concerning the preparation of the odana and the fetching of firewood for the cooking. Since experience shows that for a cooking fire one needs firewood, this karya is not strictly known on scriptural authority.)
 </details>
@@ -5306,7 +5306,7 @@ merely because it is deduced that its validity is cancelled by a prior means of 
 This is absurd. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 This objection ignores the priorities among pramanas, or means of knowledge;  
 for the Prabhakara, Perception, etc. are prior to, take precedence of, Scripture in case of perceptible, etc. contents.  
@@ -5337,7 +5337,7 @@ find no room in the Bhagavan whose supernal manifestation of miraculous knowledg
 just as cold can find no place in fire.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 This sums up the conclusion of the refutations of both the Naiyayika's and Mimamsaka's views:  
 the defects consequent upon the Nyaya proofs of God are avoided  
@@ -5394,7 +5394,7 @@ while it is composed by the Omniscient One Himself
 </details>
 
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 The Prabhakaras, who are notorious for the gaurava 'complicatedness" of their argumentations.+++(5)+++
 </details>
@@ -5471,7 +5471,7 @@ he concludes with certainty that the denoting power of the sentence as inferred 
 terminates completely in the karya that has been conveyed by that sentence.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 "Denotation, denoting power, denotativeness" in the following Prabhakara discussions  
 have to be understood as the power of verbal statements to provide unprecedented and non-superfluous knowledge  
@@ -5525,7 +5525,7 @@ that he proceed to his action immediately upon become aware of what he has to do
 </details>
 
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 [[130]]  
 Thus śalikanatha, Prakaranapancika, p. 182: niyo?? yali?? sarvakarye yaft soakiyalvena?? budhyate. 
@@ -5560,7 +5560,7 @@ only in strict accordance to this kārya, 71
 which thus constitutes the primarily known principal element of the statement.  
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 That is to say that the denotativeness of the words composing the statement  
 is dependent upon the injunctive denotation of the statement as a whole. 
@@ -5591,7 +5591,7 @@ by describing consequent matters which required by the karya, e.g. a person's qu
 </details>
 
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 The linādi verbal terminations of Sanskrit to which in English correspond verbs compounded with auxiliaries like "should, must, to be to, ought to." 
 
@@ -5639,7 +5639,7 @@ is really due to the denotative power of the statement.
 </details>
 
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 This is an example like "it is hot today;" the young father's happy countenance is not considered an action, 
 </details>
@@ -5668,7 +5668,7 @@ in it we have a substitute with a positive (i.e. injunctive) denotation of words
 without actually having explicit reference to a kārya.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 E.g., the sentence "he who desires to go to heaven offers the soma sacrifice," is an injunctive statement in indicative form.
 </details>
@@ -5693,7 +5693,7 @@ E.g., the sentence "he who desires to go to heaven offers the soma sacrifice," i
 when it is known what is the denotation, of the other words with which it is collocated.  
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 This is the Prabhakara view of the denotativeness of single words,  
 summarized in the formula anvitābhidhāna, which is short for kāryānvitābhidhana "denotation of words syntactically connected in an injunctive sentence,"
@@ -5746,7 +5746,7 @@ is that they deal with a karya,
 so that the contention suffers of the vice of being unproved. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 This point will be taken up and confirmed infra §04. 
 </details>
@@ -5943,7 +5943,7 @@ one must know the omniscient soul which is beatitude, i.e. an injunction.
 </details>
 
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 This is again the Prabhakara view. The Bhatta view is somewhat different;  
 according to the latter the upanisads are arthavadas (subsidiary substantive statements laudatory of elements of injunctions) to the eternality of the performer's personality (atman),+++(5)+++  
@@ -6016,7 +6016,7 @@ where the time of fruition is not specified.
 </details>
 
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 In this the Prabhakara concurs with the Bhatta. Injunctions without time of fruition specified are not guaranteed to bring about the desired effect during the present lifetime of the performer.
 </details>
@@ -6059,7 +6059,7 @@ it is shown that they merely serve to give praise in contextual connection with 
 which may be comparatively remote.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 I read ata avarthavādānām.
 
@@ -6160,7 +6160,7 @@ only if the omniscient person knows the objects
 exactly as they are known by means of the different means of knowledge; 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 On the Bhatta view of omniscience, cf. Kumārila, Samb. 47-59; 114-116.
 </details>
@@ -6232,7 +6232,7 @@ if there were a conflict with these other means of knowledge
 that are required primarily for the cognition to arise! 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 i.e, the appropriateness or propriety of a word in collocation with other words; in the sentence "his mother is barren," "barren" is obviously inappropriate. 
 </details>
@@ -6258,7 +6258,7 @@ If a statement concerning an object that is contradicted by perception etc., wer
 who could then reject the identity of sun and sacrificial pole? +++(5)+++
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 The identification is considered an arthavada, i,e., laudatory of the sacrificial pole
 </details>
@@ -6285,7 +6285,7 @@ And if there is a person who possesses this peculiar excellency,
 what happens to the authority of the texts which is sought to be proved?87 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 The relation between God and the texts has to be proved. 
 I read yadi ca for api ca.
@@ -6562,7 +6562,7 @@ Manu, too, declared that He is the lord:
 </details>
 
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Not in Manusmrti; reference perhaps to Manu 1.9-10? 
 I read tatha pi.
@@ -6904,7 +6904,7 @@ Consequently, then,  Pancaratra Tantra is not authoritative
 because it derives from the cognition of an independent Person. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 supra § 12.
 </details>
@@ -6927,7 +6927,7 @@ supra § 12.
 47\. Nor is it proper to argue the validity of the Pancaratra Tradition "like the Manu Tradition etc. 101
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 supra §11.
 </details>
@@ -7381,7 +7381,7 @@ The verb jianti "they live" in the text can only apply to the souls,
 the expression tena jayante "by whom they are born" evidently refers to these same souls. 
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 Taitt Up. 3.1.1. 
 The whole sentence includes tena jivanti, on which the present exegesis of bhuta is based. 
@@ -7413,7 +7413,7 @@ Of these elements, ether etc. which are primarily understood by the word bhuta,
 it is stated that they are variously modified and that they live.  
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 namely, that they are born (jātāri) and die (prayanti).
 </details>
@@ -7855,7 +7855,7 @@ that the Pañcaritra in its entirety has no validity
 whatever as a means of knowledge.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 I read rityā.
 </details>
