@@ -639,9 +639,10 @@ the consorts of God; the attendants of Lakshmi, Sútravati and others;-all these
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा भगवतैवोक्तं  
-विष्वक्सेनाय शृण्यते ।  
+विष्वक्सेनाय शृण्वते ।  
 अधिकृत्य मुमुक्षूणाम्  
 अनुपास्यान् विशेषतः-  
++++(विष्वक्सेन-संहितायाम्)+++
 </details>
 
 <details><summary>English</summary>
@@ -652,13 +653,13 @@ the consorts of God; the attendants of Lakshmi, Sútravati and others;-all these
 
 <details><summary>मूलम्</summary>
 
-यथा भगवतैवोक्तं विष्वक्सेनाय शृण्यते ।  
+यथा भगवतैवोक्तं विष्वक्सेनाय शृण्वते ।  
 अधिकृत्य मुमुक्षूणामनुपास्यान् विशेषतः-  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"**अनर्च्यान्** अपि **वक्ष्यामि**  
+> "**अनर्च्यान्** अपि **वक्ष्यामि**  
 प्रादुर्भावान् यथाक्रमम् ।  
 **चतुर्-मुखस्** तु भगवान्  
 सृष्टि-कार्ये नियोजितः ।  
@@ -683,7 +684,6 @@ the consorts of God; the attendants of Lakshmi, Sútravati and others;-all these
 वेदानां व्यसने तत्र देवेन विनियोजितः ।  
 अर्जुनो धन्विनां श्रेष्ठो जामदग्न्यः प्रतापवान् ।  
 वसूनां पावकश्चापि वित्तेशश्च तथैव च ।  
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -713,7 +713,7 @@ the consorts of God; the attendants of Lakshmi, Sútravati and others;-all these
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवम्-आद्यास् तु सेनेश !  
+> एवम्-आद्यास् तु सेनेश !  
 प्रादुर्भावैर् अधिष्ठिताः ।  
 **जीवात्मानः** सर्व एते  
 **नोपास्या** वै मुमुक्षुभिः ॥
@@ -800,11 +800,11 @@ And they, even though dwelt in by me, do, indeed, partake of the nature of jtva 
 
 यथाह भगवान् व्यासः  
 पुराणे च पराशरः-  
-" ब्रह्माणं शिति-कण्ठं च  
+
+> " ब्रह्माणं शिति-कण्ठं च  
 याश् चान्या देवतास् तु ताः ॥  
 प्रतिबुद्धा न सेवन्ते  
 यस्मात् परिमितं फलम् " ॥ (भा. शा. 350)  
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -815,14 +815,13 @@ And they, even though dwelt in by me, do, indeed, partake of the nature of jtva 
 </details>
 
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-'अन्ये तु पुरुषव्याघ्र !  
+> 'अन्ये तु पुरुषव्याघ्र !  
 चेतसो ये व्यपाश्रयाः ।  
 अ-शुद्धास् ते समस्तास् तु  
-देवाद्याः कर्म-योनयः ” ॥ 46 ॥(वि. पु. 6.7.77)
+देवाद्याः कर्म-योनयः ” ॥ 46 ॥  
+(वि. पु. 6.7.77)
 </details>
 
 <details><summary>English</summary>
@@ -836,5 +835,6 @@ And they, even though dwelt in by me, do, indeed, partake of the nature of jtva 
 'अन्ये तु पुरुषव्याघ्र ! चेतसो ये व्यपाश्रयाः ।  
 अशुद्धास्ते समस्तास्तु देवाद्याः कर्मयोनयः ” ॥ 46 ॥(वि. पु. 6.7.77)
 </details>
+
 इति श्रीगुरुवरवात्स्यवरदाचार्यविरचिते  
 प्रपन्नपारिजाते भगवत्परिजनोपासनापद्धतिः षष्ठी  

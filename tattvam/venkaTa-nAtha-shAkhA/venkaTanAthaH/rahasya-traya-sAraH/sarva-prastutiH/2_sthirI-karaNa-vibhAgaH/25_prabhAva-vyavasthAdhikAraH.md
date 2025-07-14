@@ -5270,7 +5270,7 @@ Se **extendería** incluso a aquellas profesiones que **están prohibidas**.
 विपक्षत्तिल् बाधकमरुळिच्चॆय्गिऱार् इङ्ङऩल्लाद पोदु इति । 
 </details>
 
-
+## स्वाभाविक-चेष्टा-समर्पणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘‘या या चेष्टा’’ ऎऩ्ऱु पाठम् आऩालुम्  
@@ -5442,7 +5442,7 @@ y que **son consistentes** con la naturaleza y la razón de uno y con Śāstra
 इत्यादिमन्त्रङ्गळिले सॊल्लप्पट्टदॆऩ्ऱबडि। 
 </details>
 
-
+### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदिऩ् उपबृंहणम् आऩ 
@@ -5499,11 +5499,24 @@ Como si **fuera** una **ofrenda** para colocar ante mí ".
 इदिऩुबबृंहणमाऩ ‘‘यत्करोषि यदश्नासि’’(गीता ९-२७) ऎऩ्गिऱ श्लोकत्तुक्कुम् इप्पडि शास्त्रविरोध मिल्लादविषयत्तिले तात्पर्यम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘यत्करोषि यदश्नासि’’ ऎऩ्गिऱ गीतावचनत्तिऱ्कुम् शास्त्रविरुद्धेतरविषयत्तिलेये तात्पर्यमॆऩ्गिऱार् इदिऩ् उपबृंहणमाऩ इत्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवऱ्ऱिल् शास्त्र-विरुद्धङ्गळ् वन्दाल्  
 अधिकारानुरूपम् आऩ नैमित्तिकम् निग्रह-शमन-कार्यम्।   
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एषु शास्त्र-विरुद्धानाम् उपनिपाते  
+ऽधिकारानुरूपं नैमित्तिकं निग्रह-शमनं कैङ्कर्यम् ( कार्यम्) ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5526,7 +5539,13 @@ de **acuerdo** con lo que **es** competente para uno.
 इवऱ्ऱिल् शास्त्रविरुद्धङ्गळ् वन्दाल् अधिकारानुरूपमाऩ नैमित्तिकम् निग्रहशमनकार्यम्।   
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
+चेष्टाशब्दत्तिऱ्कु निषिद्धव्यापारमुमर्थमॆऩ्ऱाल् प्रपन्नऩैक्कुऱित्ते प्रवृत्तङ्गळाऩ ‘‘अपायसम्प्लवे सद्यः प्रायश्चित्तं समाचरे’’ दित्यादिवचनङ्गळ् विरुद्धङ्गळामॆऩ्गिऱ अभिप्रायत्ताले यरुळिच्चॆय्गिऱार् इवऱ्ऱिल् शास्त्रविरुद्धङ्गळ् वन्दालिति ।   
+</details>
+
+
+## वादादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘यो यो जल्पस्स स जपः’’ 
@@ -5541,6 +5560,24 @@ de **acuerdo** con lo que **es** competente para uno.
 
 ऎऩ्ऱु शास्त्र-प्रतिषिद्धम् आऩ वृथा-जल्पत्तैच् चॊऩ्ऩ बडिय् अऩ्ऱु; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२४०]] 
+
+> ‘‘यो यो जल्पस्स स जपः’’ 
+
+इत्य्-एतद् अपि, 
+
+> ‘‘पारुष्यम् अतिवादश् च  
+पैशुनञ् चैव सर्वशः ।  
+अनिबद्ध-प्रलापश् च  
+वाङ्मयं स्याच् चतुर्विधम्॥’’  
+(मनुस्मृति १२-६) 
+
+इति शास्त्र-प्रतिषिद्ध-वृथा-जल्प-परं न 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5568,52 +5605,3522 @@ Estos son los cuatro pecados del habla ".
 ‘‘यो यो जल्पस्स स जपः’’ ऎऩ्ऱदुवुम् ‘‘पारुष्यमतिवादश्च पैशुनञ्चै वसर्वशः । अनिबद्धप्रलापश्च वाङ्मयं स्याच्चतुर्विधम्॥’’(मनुस्मृति १२-६) ऎऩ्ऱु शास्त्रप्रतिषिद्धमाऩ वृथाजल्पत्तैच्चॊऩ्ऩबडियऩ्ऱु; 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘यो यो जल्पस्स स जप’’ इत्यत्रापि जल्पशब्दम् निषिद्धवृथाजल्पपरमऩ्ऱु; किन्तु तत्वबुभुत्सुकथैयाऩ वादपरमॆऩ्गिऱार् यो यो जल्पस्स स जपः ऎऩ्गिऱदुवुमित्यादिना । पारुष्यमिति । पारुष्यं – क्रूरमाऩ भाषणम्, अतिवादः – अनुत्कृष्टे उत्कर्षकथनम्, पैशुनं – परपीडार्थमन्यकर्णे जपः, कोळ्सॊल्लुदलॆऩ्ऱबडि।  
+अनिबद्ध-प्रलापः – असङ्गतम् आऩ वार्त्तै, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्त्व-हित-विषयम् आग  
+शिष्य-गुरु--स-ब्रह्म-चारि--शिष्ट-श्रेयोऽर्थिगळोडे  
+अ-ज्ञात--ज्ञापनार्थम् आगवुम्,  
+ज्ञात-स्थिरी-करणार्थम् आगवुम्,  
+संशय-निराकरणार्थम् आगवुम् पण्णुम्  
+उक्ति--प्रत्युक्ति-परं-परैगळैच् चॊल्लुगिऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+किं तु तत्त्व-हित-विषये  
+शिष्य-गुरु--स-ब्रह्म-चारि--शिष्ट-श्रेयोऽर्थिभिः  
+सह  
+अज्ञात-ज्ञापनार्थं, ज्ञात-स्थिरीकरणार्थं, संशय-निराकरणार्थं च क्रियमाणाः  
+उक्ति-प्रत्युक्ति-परम्पराः प्रतिपादयति । 
+</details>
+
+
+<details><summary>English</summary>
+
+It refers to the series of speeches and counter-speeches  
+that are held by the man with his disciples, preceptors, fellow students, scholars  
+and those who are in pursuit of spiritual excellence  
+in order to teach what is not known,  
+to confirm what is already known  
+or to remove doubts. 
+</details>
+
+<details><summary>Español</summary>
+
+**Se refiere** a la serie de **discursos** y **contrapecos**  
+que **tienen** el hombre con sus discípulos, preceptores, compañeros de estudiantes, académicos  
+y aquellos que **persiguen** la excelencia espiritual  
+Para **enseñar** lo que **no se sabe**,  
+Para **confirmar** lo que **ya se sabe**  
+o para **eliminar** dudas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्त्वहितविषयमाग शिष्यगुरुसब्रह्मचारिशिष्टश्रेयोर्थिकळोडे अज्ञातज्ञापनार्थमागवुम्, ज्ञातस्थिरीकरणार्थमागवुम्, संशयनिराकरणार्थमागवुम् पण्णुमुक्तिप्रत्युक्तिपरंपरैकळैच् चॊल्लुगिऱदु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तत्त्वेत्यादि । इप्पडि जल्पशब्दम् निषिद्धवृथाजल्पपरमागादागैयालुम् विजिगीषुकथारूपजल्पशब्दमुख्यार्थम् वीतरागऩिडत्तिल् कूडादागैयालुम् उक्तिप्रत्युक्तिसाधर्म्याल्लक्षणया तत्त्वबुभुत्सुकथारूपवादपरमॆऩ्ऱु निष्कर्षिक्कक्करुदि अन्द कथैयिऩ् स्वरूपत्तै यरुळिच्चॆय्गिऱार् शिष्यगुरुसब्रह्मचारिशिष्टश्रेयोर्थिकळोडे इत्यादिना । इदऩाल् 
+
+> ‘‘तं शिष्य-गुरु--स-ब्रह्म-चारि--शिष्ट-श्रेयोऽर्थिभिर् अभ्युपेयात्’’ 
+
+ऎऩ्गिऱ वाद-विषय-न्याय-सूत्रम् ज्ञापितमायिऱ्ऱु। +++(5)+++  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न विगृह्य कथां कुर्यात्’’  
+(मनुस्मृति ४-७२) 
+
+ऎऩ्ऱु सामान्येन सॊल्लच् चॆय्देयुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न विगृह्य कथां कुर्यात्’’  
+(मनुस्मृति ४-७२) 
+
+इति सामान्येनोक्तत्वेऽपि 
+</details>
+
+
+<details><summary>English</summary>
+
+For, though it is stated as a general rule, 
+
+> "One should not debate merely for the sake of a quarrel  
+without the desire to know the truth", 
+</details>
+
+<details><summary>Español</summary>
+
+Porque, aunque **se establece** como regla general,
+
+> "Uno **no debe debatir** simplemente por el bien de una pelea  
+sin el deseo de **conocer** la verdad ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न विगृह्य कथां कुर्यात्’’(मनुस्मृति ४-७२) ऎऩ्ऱु सामान्येन सॊल्लच् चॆय्देयुम्
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+विजिगीषुकथारूपजल्पशब्दार्थमुख्यार्थत्तै अङ्गीकरित्तु भाव मरुळिच्चॆय्गिऱार् न विगृह्येत्यादिना । विगृह्यकथा – शत्रु निग्रहार्थमागवे पण्णुम् कथै । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यथा-शक्ति निगृह्णीयाद्  
+देवता-गुरु-निन्दकान्’’() +++(5)+++
+
+ऎऩ्ऱु विशेषित्तु धर्म-शास्त्र-सिद्धम् आगैयाले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यथा-शक्ति निगृह्णीयाद्  
+देवता-गुरु-निन्दकान्’’() +++(5)+++
+
+इति विशिष्य धर्म-शास्त्र-सिद्धत्वाद् 
+</details>
+
+
+<details><summary>English</summary>
+
+yet the dharma - śāstras declare: 
+
+> "One should condemn, according to one's ability,  
+those who speak ill of Bhagavān or of one's ācārya". 
+</details>
+
+<details><summary>Español</summary>
+
+Sin embargo, el Dharma - Śāstras **declara**:
+
+> "Uno **debería condenar**, **según** la habilidad de uno,  
+Aquellos que **hablan** mal de Bhagavān o del ācārya ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यथाशक्ति निगृह्णीयाद्देवतागुरुनिन्दकान्’’() ऎऩ्ऱु विशेषित्तु धर्मशास्त्रसिद्धमागैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बाह्य--कु-दृष्टिगळैप् पऱ्ऱ विजिगीषुव् आगच् चॊल्लुम् वाक्य--परं-परैयै  
++++(प्रशंसा-श्लोके)+++ "जल्पम्" ऎऩ्ऱद् आगवुम् आम्।+++(5)+++ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+बाह्य--कु-दृष्टि-विषये  
+विजिगीषु-भावेनोच्यमानां वाक्य-परम्परां  
+"जल्प" इति प्रतिपादयतीति वा । +++(5)+++
+</details>
+
+
+<details><summary>English</summary>
+
+(Or) the word jalpah in that śloka might mean the succession of speeches  
+that are made in debate to refute infidels and heretics. 
+</details>
+
+<details><summary>Español</summary>
+
+la palabra jalpah en que Śloka **podría significar** la **sucesión** de discursos  
+que **se hacen** en debate para **refutar** infieles y herejes.
+</details>
+
+<details><summary>मूलम्</summary>
+
+बाह्यकुदृष्टिकळैप् पऱ्ऱ विजिगीषुवागच् चॊल्लुम् वाक्यपरंपरैयै जल्पमॆऩ्ऱदागवुमाम्। 
+</details>
+
+
+## निरीक्षणेन ध्यानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तद्-ध्यानं यन् निरीक्षणं’’ 
+
+ऎऩ्ऱदु निषिद्ध-नृत्तादि-दर्शनत्तैच् चॊऩ्ऩ बडिय् अऩ्ऱु; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तद्-ध्यानं यन् निरीक्षणं’’ 
+
+इत्य्-एतद् अपि  
+निषिद्ध-नृत्तादि-दर्शनं न ब्रवीति, 
+</details>
+
+<details><summary>English</summary>
+
+> "Whatever he sees is meditation or dhyāna" 
+
+does not refer to such things as witnessing forbidden dances. 
+</details>
+
+<details><summary>Español</summary>
+
+> "Lo que **vea es meditación** o dhyāna"
+
+**No se refiere** a cosas como **testigo** de **bailes prohibidos**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘तद्ध्यानं यन्नि रीक्षणं’’ ऎऩ्ऱदु निषिद्धनृत्तादिदर्शनत्तैच्चॊऩ्ऩबडियऩ्ऱु; 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तद्ध्यानमित्यादि । निषिद्धशब्दम् हेतुगर्भविशेषणम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कैङ्कर्यार्थम् आगप् प्रवर्तिक्कुम् बोद्  
+इवऩ् कण्णुक्क् इलक्क् आऩ पदार्थङ्गळ् ऎल्लाम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+किं तु कैङ्कर्यार्थं प्रवृत्तौ  
+एतद्-दृष्टि-गोचराणां पदार्थानां सर्वेषाम्,  
+</details>
+
+
+<details><summary>English</summary>
+
+When this man proceeds to render service (kaiṅkarya),  
+whatever object meets his eye,  
+
+</details>
+
+<details><summary>Español</summary>
+
+Cuando este hombre **procede** a **prestar** el **servicio** (Kaiṅkarya),  
+Cualquiera que **sea** el objeto que se encuentre con sus ojos
+</details>
+
+<details><summary>मूलम्</summary>
+
+कैङ्कर्यार्थमागप् प्रवर्तिक्कुम्बोदिवऩ् कण्णुक्किलक्काऩ पदार्थङ्गळॆल्लाम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अहं हरिस् सर्वम् इदं जनार्दन’’  
+(विष्णुपुराणम् १-२२-८७) 
+
+इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अहं हरिस् सर्वम् इदं जनार्दन’’  
+(विष्णुपुराणम् १-२२-८७) 
+
+इत्य्-आद्य्-उक्त-रीत्या, 
+</details>
+
+
+<details><summary>English</summary>
+
+for it has been said, 
+
+> 'I am Hari:  
+all this is Janārdana;  
+the causal substances like mahat and the effects which are produced therefrom  
+are not different from Him.  
+The man who thinks in this manner --  
+he will never fall a victim to the diseases of pleasure and pain  
+which arise in saṁsāra", 
+
+</details>
+
+<details><summary>Español</summary>
+
+porque **se ha dicho**
+
+> '**Soy** Hari:  
+Todo esto **es** Janārdana;  
+las sustancias causales como Mahat y los efectos que **se producen** de ellos  
+**no son** diferentes de él.  
+El hombre que **piensa** de esta manera -  
+**Nunca será** víctima de las enfermedades del placer y el dolor  
+que **surgen** en saṁsāra ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अहं हरिस्सर्वमिदं जनार्दन’’(विष्णुपुराणम् १-२२-८७) इत्यादिगळिऱ्पडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’निऱ्किऩ्ऱद्+++(=तिष्ठत्)+++ ऎल्लाम् नॆडु+++(=महा)+++-माल्+++(=व्यामुग्ध)+++’’  
+(नाऩ्मुगऩ् तिरुवन्दादि ५४)  
+
+ऎऩ्ऱु
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "तिष्ठत् सर्वं - महा-व्यामुग्धो भगवान्" 
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+~~So~~ As also it is said, 
+
+> “Whatever appears ( before his eyes) is the Supreme Self". 
+
+</details>
+
+<details><summary>Español</summary>
+
+~~ así ~~ como también **se dice** que
+
+> "Lo que **aparezca** (ante sus ojos) **es** el **ser** supremo".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’निऱ्किऩ्ऱदॆल्लाम् नॆडुमाल्’’(नाऩ्मुगऩ् तिरुवन्दादि ५४)  ऎऩ्ऱु
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+निऱ्किऩ्ऱदॆलाम् - कण्णुक्कु इलक्काग निऱ्किऱ पदार्थङ्गळॆल्लाम्, नॆडुमाल् - ‘‘ज्योतींषि विष्णुः’’ ऎऩ्गिऱबडि भगवदात्मकङ्गळॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मात्मकम् आय्त् तोऩ्ऱुम् प्रकारत्तैच् चॊऩ्ऩ बडि। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ब्रह्मात्मकतया प्रतीयमानता-रूपं प्रकारं ब्रवीति । 
+</details>
+
+
+<details><summary>English</summary>
+
+It describes how appears to him as having Brahman as its inner self.
+</details>
+
+<details><summary>Español</summary>
+
+**Describe** cómo **le parece tener** a Brahman como ser interno.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मात्मकमाय्त् तोऩ्ऱुम् प्रकारत्तैच् चॊऩ्ऩबडि। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तथा च नारायणैकनिष्ठऩुक्कु सर्वमुम् भगवदात्मकमाय् तोऩ्ऱुगैयाल् अवऩुडैय निरीक्षणमॆल्लाम् भगवद्ध्यानमाग मुडियुमॆऩ्ऱु करुत्तु।
+</details>
+
+
+## पादोदकम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तत्-पादाम्ब्व् अतुलं तीर्थं’’ 
+
+ऎऩ्ऱदुवुम् प्राप्त-विषयत्तिले गुणाधिक्यञ् जॊल्लुगिऱदु -
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तत्-पादाम्ब्व् अतुलं तीर्थं’’ 
+
+इत्य्-एतद् अपि  
+प्राप्त-विषये गुणाधिक्यं प्रतिपादयति । 
+</details>
+
+
+<details><summary>English</summary>
+
+The sentence 
+
+> “The water that has received contact with his feet  
+is incomparably holy water"  
+
+only assigns a superior merit when it is due. 
+</details>
+
+<details><summary>Español</summary>
+
+La **oración**
+
+> “El agua que **ha recibido contacto** con sus pies
+**Es** incomparablemente agua bendita "
+
+Solo **asigna** un mérito superior cuando **se debe**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तत्पादाम्ब्वतुलं तीर्थं’’ ऎऩ्ऱदुवुम् प्राप्तविषयत्तिले गुणाधिक्यञ्जॊल्लुगिऱदु 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘तत्पादाम्ब्वतुलं तीर्थं’’ ऎऩ्बदै विवरिक्किऱार् तत्पादाम्ब्विति । प्राप्तविषयत्तिलिले गुणाधिक्यञ् जॊल्लुगिऱदु इति । प्रायश्चित्तकालत्तिलेयो श्राद्धकालत्तिलेयो विहितमाऩ ब्राह्मणश्रीपादतीर्थम् नारायणैकनिष्ठऩुडैयदाऩाल् 
+
+> ‘‘ब्राह्मणाः पादतो मेध्याः’’ 
+
+ऎऩ्ऱु सॊल्लप्पट्ट तीर्थत्वमात्रम् इऩ्ऱिक्के अतुलमाऩ तीर्थमामॆऩ्ऱु सॊल्लुगिऱदॆऩ्ऱु तिरुवुळ्ळम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(आचार्यादिषु)+++ पादोदकं तीर्थम् आगच् चॊऩ्ऩ विषयत्तिल्  
+नारायणैक-निष्ठत्वम् उण्ड् आयिऱ्ऱ् आगिल्  
+अदु सर्वाधिक-तीर्थम् ऎऩ्ऱ बडि;
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"पादोदकं तीर्थम्" इत्य् उक्त-विषये  
+नारायणैक-निष्ठत्वे सति  
+तत्-सर्वाधिक-तीर्थम् इत्य् उक्तं भवति ; 
+</details>
+
+
+<details><summary>English</summary>
+
+When the water from the feet is considered as holy,  
+if there is exclusive devotion to Nārāyaṇa in the person,  
+it is said to be holier than other sacred waters. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el agua de los pies **se considera** santia,   
+Si **hay** una **devoción** exclusiva a Nārāyaṇa en la persona,  
+**Se dice** que **es** más sagrado que otras aguas sagradas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पादोदकम् तीर्थमागच् चॊऩ्ऩविषयत्तिल् नारायणैकनिष्ठत्वमुण्डायिऱ्ऱागिल् अदु सर्वाधिकतीर्थमॆऩ्ऱबडि;
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदै विवरिक्किऱार् पादोदकम् तीर्थमागच् चॊऩ्ऩ विषयत्तिलित्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लदु भागवतऩ्-उडैय पादत्तिले  
+यादृच्छिकम् आगप् पट्ट+++(=प्राप्त/स्पृष्ट)+++ निर्माल्य-जलादिगळुम्  
+अतुलम् आऩ तीर्थम् ऎऩ्ऱ बडिय् अऩ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+न तु भागवतस्य पादे यादृच्छिक-सम्बन्धवन्ति निर्माल्यादीन्य् अप्य्  
+अतुलं तीर्थम् इत्य् उक्तं भवेत् । 
+</details>
+
+
+<details><summary>English</summary>
+
+It does not refer to such things as impure water  
+which may, by chance, come into contact with his feet.
+</details>
+
+<details><summary>Español</summary>
+
+**No se refiere** a cosas como agua impura  
+lo que **puede**, por casualidad, **entrar en contacto** con sus pies.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अल्लदु भागवतऩुडैय पादत्तिले यादृच्छिकमागप्पट्ट निर्माल्यजलादिगळुम् अतुलमाऩ तीर्थमॆऩ्ऱबडियऩ्ऱु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इङ्गुअर्थान्तरत्तै व्यवच्छेदक्किऱार् अल्लदु इत्यादिना । निर्माल्यजलादिगळ् – देवतान्तराभिषेकोपयुक्त जलादिगळ्, 
+</details>
+
+
+## उच्छिष्टं देवतान्तरस्यापि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तद्-उच्छिष्टं सुपावनं’’ 
+
+ऎऩ्ऱ् अदुवुम्  
+पुनर्-उपनयनादि-प्रकरणङ्गळिले  
+पावनम् आग शास्त्र-प्राप्तम् आऩ उच्छिष्ट-विशेषत्तुक्कु  
+इग्-गुण-विशेषम् अडिय् आग  
+पावनत्वातिशयञ् जॊऩ्ऩ बडि; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तद्-उच्छिष्टं सुपावनं’’ 
+
+इत्य् एतद् अपि  
+पुनर्-उपनयनादि-प्रकरणे  
+पावनत्वेन शास्त्रप्राप्तस्योच्छिष्ट-विशेषस्य  
+एतद्-गुण-विशेष-नियमन-पावनत्वातिशयं ब्रवीति; 
+</details>
+
+
+<details><summary>English</summary>
+
+The statement 
+
+> "Whatever is left after he has eaten purifies” 
+
+refers only to certain specific remnants (of food) (ucchishta)  
+which are prescribed as purificatory  
+in contexts like a repeated Upanayana. 
+
+Owing to the excellence of this quality,  
+(the remnant of the food) is said to have superior purifying power. 
+</details>
+
+<details><summary>Español</summary>
+
+La **declaración**
+
+> "Lo que **sea** que **quede** después de que **haya comido** purifica"
+
+**se refiere** solo a ciertos restos específicos (de alimentos) (Ucchishta)  
+que **se prescriben** como purificador  
+en contextos como un upanayana repetido.
+
+Debido a la excelencia de esta calidad,  
+(**se dice** que el remanente de la comida) **tiene** un poder **purificador** superior.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तदुच्छिष्टं सुपावनं’’ ऎऩ्ऱदुवुम् पुनरुपनयनादिप्रकरणङ्गळिले पावनमाग शास्त्रप्राप्तमाऩ उच्छिष्टविशेषत्तुक्कु इग्गुणविशेषमडियाग पावनत्वातिशयञ् जॊऩ्ऩबडि; 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘तदुच्छिष्टं सुपावनं’’ ऎऩ्बदुम् प्राप्तविषयत्तिल् गुणाधिक्यपरमॆऩ्गिऱार् तदुच्छिष्टं सुपावनं ऎऩ्ऱदुवुमिति । उच्छिष्टत्तिऱ्कु प्राप्तियैयरुळिच्चॆय्गिऱार् पुनरुपनयनादिप्रकरणङ्गळिले इत्यादिना ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मऱ्ऱुम् शिष्य-पुत्रादिगळुक्कु  
+नारायणैक-निष्ठत्वम् उण्ड् आऩाल्  
+
+> आचार्यादिगळुक्कुम् अवर्गळ्-उडैय उच्छिष्टम् सुपावनम् 
+
+ऎऩ्ऱ बडिय् अऩ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२४१]] 
+
+न तु 
+
+> शिष्य-पुत्रादीनां नारायणैक-निष्ठत्वे सति  
+आचार्यादीनाम् अपि तद्-उच्छिष्टं सु-पावनम्  
+
+इत्य् अपि प्रतिपादयेत् । 
+</details>
+
+
+<details><summary>English</summary>
+
+The words, certainly, do not mean that  
+when disciples, sons and the like are devoted to Nārāyaṇa,  
+whatever is left as remnant after they have eaten  
+is purificatory for ācāryas and parents. 
+</details>
+
+<details><summary>Español</summary>
+
+Las palabras, ciertamente, **no significan** que  
+Cuando los discípulos, los hijos y similares **están dedicados** a Nārāyaṇa,  
+lo que **sea** que quede como **remanente** después de **haber comido**  
+**es purificador** para ācāryas y padres.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुम् शिष्यपुत्रादिगळुक्कु नारायणैकनिष्ठत्वमुण्डाऩाल् आचार्यादिगळुक्कु मवर्गळुडैय उच्छिष्टम् सुपावनमॆऩ्ऱबडियऩ्ऱु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इग्गुणविशेषम् अडियाग - नारायणैक-निष्ठ-सम्बन्धित्व-रूप-गुण-विशेषम् अडियाग, सुपावनमित्यत्र सुशब्दलब्धार्थमाह पावनत्वातिशयमिति । अप्राप्तस्थलत्तै व्यवच्छेदिक्किऱार् मऱ्ऱुम् शिष्यपुत्रादिगळुक्कु इत्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘निर्माल्यं **भक्षयित्वैवम्**  
+उच्छिष्टम् अ-गुरोर् अपि ।  
+मासं पयो-व्रतो भूत्वा  
+**जपन्न्** अष्टाक्षरं सदा ।  
+ब्रह्म-कूर्चं ततः **पीत्वा**  
+**पूतो** भवति मानवः॥’’  
+(सनत्कुमारसंहिता) 
+
+ऎऩ्ऱु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘निर्माल्यं **भक्षयित्वैवम्**  
+उच्छिष्टम् अ-गुरोर् अपि ।  
+मासं पयो-व्रतो भूत्वा  
+**जपन्न्** अष्टाक्षरं सदा ।  
+ब्रह्म-कूर्चं ततः **पीत्वा**  
+**पूतो** भवति मानवः॥’’  
+(सनत्कुमारसंहिता) 
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+It is said in the Sanatkumāra Saṁhitā that  
+the man who has eaten the food that has been offered to other deities  
+or what is left as a remnant after those who are other than gurus have eaten  
+should, for purification, live on milk alone for a month (payovrata),  
+should always utter ashtākṣara  
+and eat also Brahmakurcha - pañcagavya. 
+</details>
+
+<details><summary>Español</summary>
+
+Se dice en el sanatkumāra saṁhitā que  
+el hombre que **ha comido** la comida que se **ha ofrecido** a otras deidades  
+o lo que **queda** como un **remanente** después de que aquellos que **no sean** gurús **han comido**  
+**Debería**, para la **purificación**, **vivir** solo de leche durante un mes (payovrata),  
+siempre debe **pronunciar** ashtākṣara  
+y **comer** también Brahmakurcha - Pañcagavya.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘निर्माल्यं भक्षयित्वैवमुच्छिष्टमगुरोरपि । मासं पयोव्रतो भूत्वा जपन्नष्टाक्षरं सदा । ब्रह्मकूर्चं ततः पीत्वा पूतो भवति मानवः॥’’(सनत्कुमारसंहिता) ऎऩ्ऱु 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अविहितोच्छिष्टभोजनत्तिल् भगवद्धर्मनिष्ठऩुक्के प्रायश्चित्तविधायकमाऩ सनत्कुमारसंहितावचनत्तै आगमप्रामाण्यत्तिल् आळवन्दार् अरुळिच्चॆय्दारॆऩ्ऱु सवचनमाग वरुळिच्चॆय्गिऱार् निर्माल्य भक्षयित्वैवमित्यादिना । निर्माल्यं – देवतान्तरत्तिऱ्कु निवेदितमाऩ् अन्नम् मुदलियवै उच्छिष्टमगुरोरपीति । आचार्यपितृज्येष्ठभ्रातृपतिव्यतिरिक्तर्गळुडैय उच्छिष्टमॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवद्-धर्म-निष्ठऩुक्कु समयाचारञ् जॊल्लुगिऱ सनत्-कुमार-संहिता-वचनत्तै  
+आगम-प्रामाण्यत्तिले आळ-वन्दार् उदाहरित्त् अरुळिऩार्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवद्-धर्म-निष्ठ-समयाचार-प्रतिपादकं  
+सनत्-कुमार-संहिता-वचनम् आगम-प्रामाण्ये श्री-यामुनाचार्या उदाजह्रुः । 
+</details>
+
+
+<details><summary>English</summary>
+
+This passage prescribes the code of conduct for one who follows the dharma of Bhagavān  
+and has been taken for illustration by Aḷavandār in his Āgama Prāmānya. 
+</details>
+
+<details><summary>Español</summary>
+
+Este pasaje **prescribe** el código de conducta para alguien que **sigue** el dharma de Bhagavān  
+y **ha sido tomado** para **ilustración** por Aḷavandār en su āgama prāmānya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवद्धर्मनिष्ठऩुक्कु समयाचारञ्जॊल्लुगिऱ सनत्कुमारसंहितावचनत्तै आगमप्रामाण्यत्तिले आळवन्दार् उदाहरित्तरुळिऩार्।
+</details>
 
 
 
-It refers to the series of speeches and counter-speeches that are held by the man with his disciples, preceptors, fellow students, scholars and those who are in pursuit of spiritual excellence in order to teach what is not known, to confirm what is already known or to remove doubts. Or the word jalpah in that śloka might mean the succession of speeches that are made in debate to refute infidels and heretics, for, though it is stated as a general rule, "One should not debate merely for the sake of a quarrel without the desire to know the truth", yet the dharma - śāstras declare: "One should condemn, according to one's ability, those who speak ill of Bhagavān or of one'sācārya". "Whatever he sees is meditation or dhyāna" does not refer to such things as witnessing forbidden dances. It describes how when this man proceeds to render service (kaiṅkarya), whatever object meets his eye appears to him as having Brahman as its inner self, for it has been said, 'I am Hari: all this is Janārdana; the causal substances like mahat and the effects which are producd therefrom are not different from Him. The man who thinks in this manner -- he will never fall a victim to the diseases of pleasure and pain which arise in saṁsāra", So also it is said, “Whatever appears ( before his eyes) is the Supreme Self". The sentence “ T'he water that has received contact with his feet is incomparably holy water" only assigns a superior merit when it is due. When the water from the feet is considered as holy, if there is exclusive devotion to Nārāyaṇa in the person, it is said to be holier than other sacred waters. It does not refer to such things as impure water which may, by chance, come into contact with his feet. The statement "Whatever is left after he has eaten purifies” refers only to certain specific remnants (of food) (ucchishta) which are prescribed as purificatory in contexts like a repeated Upanayana. Owing to the excellence of this quality, (the remnant of the food) is said to have superior purifying power. The words, certainly, do not mean that when disciples, sons and the like are devoted to Nārāyaṇa, whatever is left as remnant after they have eaten is purificatory for ācāryas and parents. It is said in the Sanatkumāra Saṁhitā that the man who has eaten the food that has been offered to other deities or what is left as a remnant after those who are other than gurus have eaten should, for purification, live on milk alone for a month (payovrata), should always utter ashtākṣara and eat also Brahmakurcha - pañcagavya. This passage prescribes the code of conduct for one who follows the dharma of Bhagavān and has been taken for illustration by Aḷavandār in his Āgama Prāmānya. Therefore the verse - "If the *remnant of the food that has been already eaten by the devotees of the Lord is given to me, it will immediately make me pure"--- is only applicable to gurus. Even if it is of general application, it means only this much - "If those who are devotees of the Lord should give me what is left over after their meal, it would purify me, even though they have been obliged, by force of unfavourable circumstances like place and time, to follow occupations lower than those ordained for them and to make others also follow them." In this (Tamil) passage, if the word śeṣa should mean only what is left in the vessels in which the food was cooked as in the question and answer (after a srāddha) - "what is to be done with the food left over ?," and "let it be eaten in the company of friends" - if it should mean only this, there is nothing wrong. The word ucchishta, too, has been employed in the śrutis to mean what is left in the cooking vessel after (people) have dined. Madu and others have determined to this effect :- "One should give up wealth and pleasure (artha and kama) when they are against dharma. Even dharma which is likely to bring suffering or which is likely to rouse disgust among people in the world should be given up".
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-" His very speech should be considered as a sacred mantra ". This means that even the words in the vernacular language employed by him as necessary for spiritual elevation should be cherished like Tirumantra and reflected upon. It does not mean that his talk on worldly affairs is fit to be uttered as japa. The saying : "His words in jest should be cherished as the texts in the śrutis" should also be interpreted in this sense. “All that he touches becomes pure'; This should be interpreted as follows:- When a man is ill (and cannot himself bathe ), another is allowed to touch him and bathe for his sake; when the ācārya initiates the śiṣya into the sacred mantras, he touches the śiṣya with his hand; this touch is called "touch with the hand of Viṣṇu". When an idol is newly installed, it is touched with the hand by great devotees of the Lord. In certain other circumstances, too, the touch with the hand is prescribed as purificatory. The passage means, therefore, that his touch of all things is even more purificatory in such contexts as are ordained in the śāstras.
+आगैयाले 
 
-If this (interpretation) were not accepted, it would follow that the things which are condemned in the following ślokas would become pure by his touch:-"The fruit of the fig tree (attikkai in Tamil) should not be eaten". "One" should not eat kommatti or (mullaṅgī), athikkāi, suraikkai and kovaippazham. Bhagavān ever stands far away from the man who always eats them." He who eats white brinjals, soap-nut (nettamkottai), kommatti (or mullaṅgī), kuvalai, athikkai, kāndal in ignorance-to him Bhagavān is always at a distance. He who eats, kommatti, sittavarai, kāṇḍal, nilaippanai and suraikkai - to him Bhagavān is ever at a distance." He who eats white brinjals, kommatti, cheese (or curds) made from the milk of a cow within ten days of its calfing, the bulb of the lotus -- he will never think in his last moments of Bhagavān, the Lord of the world, "He who has eaten "velangãi , peerku, irulli, vellulli, nāikkudai (mushroom) urpanrikkizhangu - he should perform the expiatory ceremony called 'Chandrāyana'. “To eat the sprout of the cocoanut, sanaippukkirai, mushroom, kusumbai, suraikkai, fruits or vegetables that have been produced with nightsoil as manure, milk mixed with salt, ghee that has been poured into the remnants of food on the leaf or plate, water in the place where the dhoby washes clothes to eat these is the same as to drink toddy." "The man who thinks of“ Bhagavān should never drink vinegar (kadi). It is reckoned as liquor. Therefore one should earnestly avoid it." "The "Vaiṣṇava who touches blood even without knowing what it is - I never condone his offence, O goddess of the earth, even after a thousand apologies." "He who is born a * Brahmin and eats anna (cooked food) on the Ekādaśī day - he eats sin in every morsel and the morsel is comparable to the dung of the dog "." He who is not ill and yet eats anna (cooked food) on the Ekādaśī day-be sins as though he has drunk liquor. There
+> ’’भोऩगञ्+++(←भोजनम्)+++ सॆय्द  
+शेड+++(ष)+++न् तरुवरेऱ्  
+पुऩितम् अऩ्ऱेय्’’(तिरुमालै ४२)  
 
-is no doubt of this. The man who drinks liquor goes to hell by himself, whereas the man who eata anna on Ekādasi day drags his ancestors (also) into hell". "The mind becomes impure by eating forbidden food, by coveting what one has not got, by seeing various objects of sense-pleasure and by want of cleanliness in the body". " Yama plans to kill the Brahmin with (the weapons of) failure to study the Vedas, the absence of right observances, laziness and forbidden food."
+ऎऩ्ऱ् अदुवुम् गुरु-विषयम् आम् इत्तऩै। 
+</details>
 
-If no such discrimination were accepted, it would conflict with many śāstras which have been recognised as great authorities and also with the traditional observances of the learned (siṣṭa ). Therefore to state such views is merely of the nature of exaggera. tion (of some one aspect). Even by the man who, has supreme and exclusive devotion (paramaikāntin) and whose greatness is boundless, these restrictions imposed by the sāstras are not violated. This may be understood from the observances until the last day of their lives, of greatācāryas like Nāthamuni, Aḷavandār and Śrī Rāmānuja.
+<details><summary>नीलमेघः (सं)</summary>
 
-THE PERFORMANCE OF THE RITES OF THE VARṆAS
+अतः 
 
-AND ĀŚRAMAS IS OBLIGATORY:
+> "मुक्त-शिष्टं दद्युश् चेत्  
+पावनं किल" 
 
-Those who are outside the pale of the Vedas and those who hold heretical views give up, owing to delusion, these restrictions and regulations which are ordained in the Vedas and the śāstras based on the Vedas. That this kind of renunciation is due to tamas is declared by Bhagavān in the śloka :- "One  should not give up the karma ordained for the castes and the āśramas. Their omission arising from ignorance is renunciation (tyāga) due to tamas". He has (also) declared that the giving up of activities and abstentions which are of the nature of pain is renunciation due to rajas, in the following:- "He who gives up karma,because it is painful and fatiguing to the body - he renounces owing to rajas and does not obtain the fruit of renunci ation." His tyāga or renunciation is like that of the man who becomes sannyāsin because of the difficulties of maintaining a family.
+इत्य् अपि गुरु-विषयम् इत्येव । 
+</details>
 
-While giving up, in accordance with our competence, what should be given ap and doing what should be done, we should give up the thought, "I am doing all this as an independent agent, this activity is dependent on me; this will be the means of my attaining such and such an object". We should, on the other hand, think that the Supreme Ruler is the (real) doer and that we render service to Him, which is His due, with the sole object of pleasing Him. If we follow this line of thought (in what we do and in what we refrain from ), it is renunciation due to sattvan, and this has been declared by Bhagavān in :-"To perform the karma ordained for a man with the thought that it is an end in itself and that it ought to be done without the thought that the karma is his (independent) action and without the desire for gain of any kind - this is, O Arjuna, renunciation due to sattvam" The man should observe (these rites and regulations ) solely for the purpose of pleasing Bhagavān. He should not even ask for mokṣa as a reward, for he should realise that, by the grace of the All merciful Lord which has been won by the prapatti performed before, mokṣa is certain. (He should) render service (kaiṅkarya) like those who have already attained mukti. This would resemble a healthy man eating food with milk (without any thought of the care from illness to be obtained from milk). Such a code of conduct is the highest limit of renunciation due to sattvam. This is like eating food when men are hungry. Otherwise their conduct would resemble that of men who eat cakes for winning a wager, (They cannot derive any true pleasure therefrom). (The man that eats food when hungry enjoys it, because he does so with no other object than satisfying his hunger. The man who eats cakes for winding a wager, cannot find any relish in doing so.)
+<details><summary>English</summary>
 
-THE REAL MEANING OF "HAVING GIVEN UP ALL DHARMAS"
+Therefore the verse - 
 
-IN THE CARAMA ŚLOKA:
+> "If the remnant of the food  
+that has been already eaten by the devotees of the Lord is given to me,  
+it will immediately make me pure"  
 
-While commenting on the words (in the Carama Śloka ) “Having given up all dharmas", the author of Śrī Bhāṣya interpreted them at first to mean that the giving up of dharmas means the giving up of the thought that, in his action, the man himself is the doer seeking a certain gain for himself by that means. This is renunciation of action due to sattvam (and not the giving up of the dharma itself  viz., nitya and naimittika). This form of thought should be borne in mind by the man who has adopted prapatti as a direct and independent upāya, at the time of the performance of prapatti and also in his further actions (after prapatti), which are ends in themselves and have no relation of any kind to an upāya. In the second interpretation given of those words (by the author of of the Bhāṣya), they mean that when the man of poor ability who cannot brook any delay in the attainment of mukti falls into grief or despair at the thought of all the dharmas or rites prescribed in the śāstras and his inability to perform them, the Lord, in order to dispel his despair, ordained another means which is easy of perforinance and has to be adopted only once and said: "You need not go about seeking other upāyas" The prapanna should note that in order that one may be competent for prapatti, the absence of adoption of any other upāya before its performance is a requisite which has been present of its own accord by the grace of God. In regard to actions after the performance of prapatti, this giving up of the adoption of other upāyas is insisted on in the śāstra itself and this shows how prapatti does not require any aid (after it is once done).
+--- is only applicable to gurus. 
+</details>
 
-If the word parityajya (having given up) merely states what has, on account of inability, already occurred (and not what is enjoined), the meaning (of the first part of the carama śloka) would be that this having given up is a qualification for prapatti. If, on the other hand, the words (having given up) state what is ordained or enjoined to be done, then the meaning would be that prapatti does not require anything else to be performed. Thus, if parityajya (having given up) merely states what has already taken place or what has already occurred, the words mām ekam will have to be thought of as meaning that nothing else (than Bhagavān) is required for the attainment of the desired end. If, on the other hand*[^73] parityajya means that prapatti requires nothing else for yielding its fruit, the words, mã suchah (do not grieve), show, by the force of logic or meaning, that the grief or despair which is a mark of being destitute of other means is what is required for competency for praputti (adhikāra;)
+<details><summary>Español</summary>
 
-[^73]: To the man or adhikārī who grieves at his inability to adopt the dharmas or aṅgas enjoined for bhakti yoga, the Carama Śloka says, “Perform prapatti to me and you need not adopt any other dharma".
+Por lo tanto, el verso -
+
+> "Si el **remanente** de la comida  
+que ya me **han comido** los devotos del Señor, **me dan**,  
+inmediatamente **me hará** puro "
+
+--- Solo **es** aplicable a los gurús.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाले ’’पोऩगञ् जॆय्द सेडन्दरुवरेऱ्पुऩिदमऩ्ऱे’’(तिरुमालै ४२) यॆऩ्ऱदुवुम् गुरुविषयमामित्तऩै। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पोऩगञ् जॆय्द सेडन्दरुवरेल् - ताङ्गळ् अमुदु सॆय्दु मिगुन्द शेषत्तै तरुवरागिल्, अऩ्ऱे - अप्पोदे, पुऩिदम् - पुऩिदमाम्। पञ्चगव्यादिगळैप् पोलऩ्ऱिक्के शीघ्रमागवे पुऩिदमामॆऩ्ऱबडि। गुरुविषय मामित्तऩै इति । इदुवुम् प्राप्तमाऩ गुर्वाद्युच्छिष्टभोजनत्तिऱ्के उत्कर्षम् सॊऩ्ऩदॆऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पॊदुव् आऩालुम्  
+
+> भगवत्-सङ्कीर्तन-परर् देश-कालादि-वैगुण्यत्ताले ऊन-वृत्तिगळुम् आय्  
+ऊन-कारकर्गळुम् आय् इरुन्दार्गळेय् आगिलुम्  
+ताङ्गळ् अमुदु सॆय्द शेड+++(ष)+++न् तरुवर् आगिल्  
+पुऩिदम् आम्   
+
+ऎऩ्ऱद् इत्तऩै।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्स्साधारण्येऽपि  
+
+> भगवत्-संकीर्तन-परा देश-काल-वैगुण्याद् ऊन-वृत्तय ऊन-कारकाश् च सन्तोऽपि  
+स्व-भुक्त-शिष्टं दद्युश् चेत्,  
+तत् पावनम् 
+
+इत्य् एवम्-परम् इत्य्-एतावत् । 
+</details>
+
+<details><summary>English</summary>
+
+Even if it is of general application,  
+it means only this much - 
+
+> "If those who are devotees of the Lord should give me  
+what is left over after their meal,  
+it would purify me,  
+even though they have been obliged, by force of unfavourable circumstances like place and time,  
+to follow occupations lower than those ordained for them  
+and to make others also follow them." 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso si **es** de **aplicación** general,  
+**Significa** solo esto
+
+> "Si aquellos que **son devotos** del Señor me **dan**  
+Lo que **queda** después de su **comida**,  
+me **purificaría**  
+a pesar de que **han sido obligados**, por la fuerza de circunstancias desfavorables como el lugar y el tiempo,  
+**seguir** las ocupaciones más bajas que las ordenadas para ellos  
+y **hacer** que otros también los **sigan** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पॊदुवाऩालुम् भगवत्सङ्कीर्तनपरर् देशकालादिवैगुण्यत्ताले ऊनवृत्तिकळुमाय् ऊनकारकर्गळुमायिरुन्दार्गळेयागिलुम्दाङ्गळमुदुसॆय्द सेडन्दरुवरागिल् पुऩिदमामॆऩ्ऱदित्तऩै।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नामसङ्कीर्तनपरभागवतसामान्यविषयमाऩ इन्द गाथैक्कु गुरुविषयत्वम् सॊल्वदु स्वरसमागुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् पॊदुवाऩालुमित्यादिना ।  
+ऊनवृत्तिकळ् - आपत्तिले कृष्यादिगळैच् चॆय्युमवर्गळ्,  
+ऊनकारकर्गळ् - इन्द ऊनवृत्तियैप् पिऱरुक्कुम् उपदेशित्तुच् चॆय्विक्कुमवर्गळ्, 
+
+इरुन्दार्गळेयागिलुमिति । आपत्कालत्तिल् इप्पडिप्पट्टवर्गळाग इरुन्दार्गळेयागिलुमॆऩ्ऱबडि। ताङ्गळित्यादि ’’पोऩगञ् जॆय्द सेडम्’’  ऎऩ्बदऱ्कु व्याख्यानम्।  
+इङ्गु 
+
+> ‘‘दिव्यैर् अ-वेद्य-विभवेति यदि ब्रुवन्ति  
+माध्वी-मनोज्ञ-तुलसीक यदीति चाहुः ।  
+ऊनक्रिया अपि परान् अपि कारयन्तो  
+भुक्ताधिकं ददति चेन् ननु तत् पवित्रम् ॥’’ 
+
+ऎऩ्गिऱ तात्पर्यचन्द्रिकैयिलुपात्तमाऩ  
+इन्द पाट्टुक्कु समानार्थकमाऩ श्लोकमनुसन्धेयम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् शेष-शब्दम् 
+
+> ‘‘अन्न-शेषः किं क्रियताम्?  
+इष्टैस् सह भुज्यताम्’’  
+
+इत्य्-आदिगळिल् न्यायत्ताले  
+भाण्ड-स्थ-विषयम् आऩाल् विरोधम् इल्लै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र शेष-शब्दस 
+
+> "अन्नशेषः किं क्रियताम्?  
+इष्टैः सह भुज्यताम्" 
+
+इत्य्-आदि-न्यायेन  
+भाण्ड-स्थ-विषयत्वे न विरोधः । 
+</details> 
+
+
+<details><summary>English</summary>
+
+In this (Tamil) passage,  
+if the word śeṣa should mean only what is left  
+in the vessels in which the food was cooked  
+as in the question and answer (after a srāddha) - 
+
+> "what is to be done with the food left over ?," 
+
+and 
+
+> "let it be eaten in the company of friends" 
+
+-- if it should mean only this,  
+there is nothing wrong. 
+</details>
+
+<details><summary>Español</summary>
+
+En este pasaje (tamil),  
+Si la palabra śeṣa **signifique** solo lo que **queda**  
+en los buques en los que **se cocinó** la **comida**  
+Como en la **pregunta** y **respuesta** (después de un srāddha) -
+
+> "¿Qué **se debe hacer** con la **comida sobrante**?",
+
+y
+
+> "Que **se coma** en compañía de amigos"
+
+- Si solo **signifique** esto,
+**No hay** nada malo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् शेषशब्दम् ‘‘अन्नशेषः किं क्रियतामिष्टैस्सह भुज्यताम्’’  इत्यादिगळिल् न्यायत्ताले भाण्डस्थविषयमाऩाल् विरोधमिल्लै। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द इरण्डावदु पक्षत्तिल् पोऩगञ्जॆय्द सेडम् ऎऩ्बदु भागवतभुक्तभाण्डस्थशेषमाऩाल् शास्त्रविरोधमिल्लै यॆऩ्गिऱार् इदिल् शेषशब्दमित्यादिना । ‘‘अन्नशेषः किं क्रियतां’’ ऎऩ्गिऱविडत्तिल् शेषशब्दम् भाण्डस्थशेषपरमॆऩ्बदु सर्व सम्प्रतिपन्नमागैयाल् अदऱ्कु दृष्टान्तत्वकथनम्। विरोधमिल्लै इति । इन्द शेषशब्दम् भाण्डस्थशेषपरमागैयालुम्, ‘‘उच्छिष्टमगुरोरपि’’ ऎऩ्गिऱविडत्तिल् उच्छिष्टशब्दम् भुक्तोच्छिष्टपरमागैयालुम्, विरोधमिल्लै यॆऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उच्छिष्ट-शब्दन् ताऩुम्  
+श्रुत्य्-आदिगळिले भुक्त-शिष्टम् आय्  
+पाक-पात्र-स्थम् आऩ् अदिलुम् प्रयुक्तम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उच्छिष्ट-शब्दोऽपि श्रुत्य्-आदिषु भुक्त-शिष्टे पाक-पात्र-स्थेऽपि प्रयुक्तः । 
+</details>
+
+
+<details><summary>English</summary>
+
+The word ucchishta, too, has been employed in the śrutis  
+to mean what is left in the cooking vessel  
+after (people) have dined. 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra ucchishta **también ha sido empleada** en el Śrutis  
+**significar** lo que **queda** en el recipiente de **cocción**  
+Después de (las personas) **han cenado**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उच्छिष्टशब्दन्दाऩुम् श्रुत्यादिगळिले भुक्तशिष्टमाय् पाकपात्रस्थमाऩदिलुम् प्रयुक्तम्
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘तदुच्छिष्टं सुपावनं’’ ऎऩ्गिऱविडत्तिलुम् उच्छिष्टशब्दम् भुक्तशिष्टमाऩ पात्रस्थशेषपरमॆऩ्ऱु निर्वहिक्कक्करुदि श्रुत्यादिगळिल् पात्रस्थशेषत्तिलुम् उच्छिष्टशब्दम् प्रयुक्तमॆऩ्गिऱार् उच्छिष्टशब्दन्दाऩुमित्यादिना । 
+
+श्रुत्यादिगळिलिति । 
+
+> अदि॑तिᳶ पु॒त्त्रका॑मा ।
+सा॒ध्येभ्यो॑ दे॒वेभ्यो᳚ ब्रह्मौद॒नम॑पचत् ।
+तस्या॑ उ॒च्छेष॑णमददुः ।
+तत्प्राश्ञा᳚त् ।
+सा रेतो॑ऽधत्त 
+
+इत्यादि श्रुतिगळिले ऎऩ्ऱबडि।  
+तथा च श्रुत्यादिगळिल् उच्छिष्टशब्दम् पात्रस्थभुक्तशेषपरमायुम् प्रयुक्तमागैयाले  
+तदुच्छिष्टं सुपावनं ऎऩ्गिऱविडत्तिलुम्  
+‘‘दम्पत्योः शेष-भोजनं’’ ऎऩ्ऱु विहितम् आऩ भुक्त-शिष्ट--भाण्ड-स्थ-शेष--भोजनम् नारायणैक-निष्ठ-विषयम् आऩाल् गुणाधिक्यम् सॊऩ्ऩदामॆऩ्ऱु तिरुवुळ्ळम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ४‘‘परित्यजेद् अर्थ-कामौ  
+यौ स्यातां धर्म-वर्जितौ ।  
+धर्मं चाप्य् अ-सुखोदर्कं  
+लोक-संरुष्टम् एव च॥’’ +++(5)+++  
+(मनुस्मृति ४-१७६) 
+
+ऎऩ्ऱु मन्व्-आदिगळ् व्यवस्थै पण्णिऩार्गळ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ४‘‘परित्यजेद् अर्थ-कामौ  
+यौ स्यातां धर्म-वर्जितौ ।  
+धर्मं चाप्य् अ-सुखोदर्कं  
+लोक-संरुष्टम् एव च॥’’ +++(5)+++  
+(मनुस्मृति ४-१७६) 
+
+इति मन्वादयो व्यवस्थापयाम् आसुः ॥ 
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+कुत्र यावद् इदं वचनं नेयम्??  
+सोमे यथोक्त-पशु-वारणं सङ्कराङ्गीकारं वा यावत्?
+</details>
+
+
+<details><summary>English</summary>
+
+Manu and others have determined to this effect :- 
+
+> "One should give up wealth and pleasure (artha and kama)  
+when they are against dharma.  
+Even dharma which is likely to bring suffering  
+or which is likely to rouse disgust among people in the world  
+should be given up".
+</details>
+
+<details><summary>Español</summary>
+
+Manu y otros **han determinado** a este efecto:-
+
+> "Uno debería **renunciar** a la riqueza y el placer (Artha y Kama)  
+Cuando **están** en contra del dharma.  
+Incluso el dharma que probablemente **traiga** sufrimiento  
+o que **es** probable que **se disguste** entre las personas en el mundo  
+**debe renunciarse** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+४‘‘परित्यजेदर्थकामौ यौ स्यातां धर्मवर्जितौ । धर्मं चाप्यसुखोदर्कं लोकसंरुष्टमेव च’’(मनुस्मृति ४-१७६) ऎऩ्ऱु मन्वादिगळ् व्यवस्थै पण्णिऩार्गळ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> इप्पडि इन्द श्रुतियिल् उच्छिष्टशब्दम् भाण्डस्थशेषपरम् आयुम्  
+> 
+> > ‘‘उच्छिष्टं मे पीतं स्यात्’’ 
+> 
+> ऎऩ्गिऱ श्रुतियिल् भुक्त-शेष-परम् आयुम् प्रयुक्तम् आगैयाले  
+> ‘‘तद् उच्छिष्टं सुपावनं’’ ऎऩ्गिऱव् इडत्तिल्  
+उच्छिष्ट-शब्दत्तै पाक-भाण्ड-स्थ--भुक्त-शेष-परम् आगवे सॊल्ल वेण्डुम् ऎऩ्बदिल् नियामकम् उण्डोव् 
+
+ऎऩ्ऩव् अरुळिच्चॆय्गिऱार् परित्यजेदित्यादिना ।  
+
+इन्द वचनत्तिल् धर्मम् आगिलुम्  
+लोकानभिमतम् आऩाल् त्याज्यम् ऎऩ्ऱु सॊल्लिय् इरुप्पदाल्   
+धर्मत्व-सन्देहम् उळ्ळ 
+
+> लोक-संरुष्ट--गुरु-भिन्न-भागवत-भुक्तोच्छिष्ट-भोजनम् त्याज्यम् 
+
+ऎऩ्बदु कैमुतिक-न्याय-सिद्धम् आगैयाल्  
+इदुवे ‘‘तद् उच्छिष्टं सुपावनं’’ ऎऩ्गिऱव् इडत्तिल्  
+उच्छिष्ट-शब्दम् भाण्ड-स्थ-शेष-परम् ऎऩ्बदऱ्कु पर्याप्तम् आऩ नियामकम् 
+
+ऎऩ्ऱु करुत्तु।
+</details>
+
+
+## उपदेशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तद्-उक्ति-मात्रं मन्त्राग्र्यं’’ 
+
+ऎऩ्ऱ्-अदु 
+
+> इवऩ् तञ्जम्+++(=शरणम्)+++ आग उपदेशित्त भाषा-वाक्यङ्गळुम्  
+तिरु-मन्त्रम् बोले आदरित्त् अनुसन्धिक्क वेणुम् 
+
+ऎऩ्ऱ बडि;
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तद्-उक्ति-मात्रं मन्त्राग्र्यं’’ 
+
+इत्य्-एतत् 
+
+> अनेन रक्षकतयोपदिष्टानि भाषा-वाक्यान्य् अपि  
+श्री-मन्त्रवत् सादरम् अनुसन्धेयानि
+
+इत्य्-एवम्-परम् ; 
+</details>
+
+
+<details><summary>English</summary>
+
+> " His very speech should be considered as a sacred mantra ". 
+
+This means that even the words in the vernacular language employed by him  
+as necessary for spiritual elevation  
+should be cherished like Tirumantra and reflected upon. 
+</details>
+
+<details><summary>Español</summary>
+
+> "Su mismo **discurso debe considerarse** como un mantra sagrado".
+
+Esto significa que **incluso** las palabras en el idioma vernácula **empleadas** por él  
+**según sea necesario** para la **elevación** espiritual  
+debe **apreciarse** como tirumantra y **reflejarse**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तदुक्तिमात्रं मन्त्राग्र्यं’’ ऎऩ्ऱदु इवऩ् तञ्जमाग उपदेशित्त भाषावाक्यङ्गळुम् तिरुमन्त्रम्बोले आदरित्तनुसन्धिक्कवेणुमॆऩ्ऱबडि;
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘तदुक्तिमात्रं मन्त्राग्र्यं’’ ऎऩ्बदऱ्कु अर्थमरुळिच्चॆय्गिऱार्  
+तदुक्तिमात्रं मन्त्राग्र्यं ऎऩ्ऱदु इत्यादिना ।  
+तञ्जमाग उपदेशित्त - रक्षकमाग उपदेशित्त,  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लद् 
+
+> इवऩ् सॊल्लुम् लौकिक-व्यवहारङ्गळ् जपादि-योग्यङ्गळ् 
+
+ऎऩ्ऱ बडिय् अऩ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+न तु 
+
+> अनेनोच्यमाना लौकिक-व्यवहाराः जपादि-योग्या 
+
+इत्य्-एवम्-परम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+It does not mean that his talk on worldly affairs is fit to be uttered as japa. 
+</details>
+
+<details><summary>Español</summary>
+
+**No significa** que su **charla** sobre asuntos mundanos **sea apto** para **ser pronunciado** como Japa.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अल्लदिवऩ् सॊल्लुम् लौकिकव्यवहारङ्गळ् जपादियोग्यङ्गळॆऩ्ऱबडियऩ्ऱु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+व्यवच्छेद्यत्तैक् काण्बिक्किऱार् अल्लद् इवऩ् सॊल्लुम् इत्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’सॊल्लुम् अविडु+++(←अपटु)+++ सुरुदिय् आम्’’ 
+
+ऎऩ्ऱ् अदुक्कुम्  
+इप्-पडि हितार्थम् आऩ वाक्यमे विषयम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> उच्यमाने परिहास-वाक्यं श्रुतिः 
+
+इत्य्-अस्याप्य्  
+एवं हितार्थ-वाक्यम् एव विषयः ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+The saying : 
+
+> "His words in jest should be cherished  
+as the texts in the śrutis"  
+
+should also be interpreted in this sense. 
+</details>
+
+<details><summary>Español</summary>
+
+El **dicho**:
+
+> "Sus palabras en broma  
+**deberían ser apreciadas**
+Como los textos en el Śrutis "
+
+también **debe interpretarse** en este sentido.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’सॊल्लुमविडु सुरुदियाम्’’  ऎऩ्ऱदुक्कुमिप्पडि हितार्थमाऩ वाक्यमे विषयम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडियागिल् भागवतर्गळ् सॊल्लुम् परिहास वार्त्तैयुम् श्रुतियामॆऩ्ऱु सॊल्लुगिऱ ’’सॊल्लुमविडुसुरुदिया’’ मॆऩ्गिऱ पाट्टुक्कु विषयमॆदॆऩ्ऩ वरुळिच्चॆय्गिऱार् सॊल्लुमविडुसुरुदिया मॆऩ्ऱदुक्कुमित्यादिना । इप्पडि हितार्थमाऩ वाक्यमे विषयमिति । अविडुशब्दम् परिहासवार्तार्थकमाऩालुम् इङ्गु तत्त्वहितविषयकमाऩ परिहासवार्तापरमागवे कॊळ्ळ वेण्डुमॆऩ्ऱु करुत्तु।
+</details>
+
+
+## स्पर्शः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तत्-स्पृष्टम् अखिलं शुचि’’ 
+
+ऎऩ्ऱ् अदु  
+आतुर-विषयत्तिल् +++(अन्येन)+++ स्पृष्ट्वा स्नानम् बोलवुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तत्-स्पृष्टम् अखिलं शुचि’’ 
+
+इत्य्-एतत्  
+आतुर-विषये +++(अन्येन)+++ स्पृष्ट्वा स्नानवत् 
+</details>
+
+
+<details><summary>English</summary>
+
+> “All that he touches becomes pure'; 
+
+This should be interpreted as follows:-  
+
+> When a man is ill (and cannot himself bathe ), another is allowed to touch him and bathe for his sake; 
+</details>
+
+<details><summary>Español</summary>
+
+> "Todo lo que **toca se vuelve** puro";
+
+Esto **debe interpretarse** de la siguiente manera:-
+
+> Cuando un hombre **está** enfermo (y **no puede bañarse**),  
+otro **puede tocarlo** y **bañarse** por su bien;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तत्स्पृष्टमखिलं शुचि’’ ऎऩ्ऱदु आतुरविषयत्तिल् स्पृष्ट्वा स्नानम्बोलवुम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तत्स्पृष्टमखिलं शुचि ऎऩ्बदऱ्कु भावमरुळिच्चॆय्गिऱार् तत्स्पृष्टमकिलं शुचि ऎऩ्ऱदु इत्यादिना । 
+
+इदुवुम् प्राप्तविषयत्तिलेदाऩ् शुचित्वप्रतिपादकमॆऩ्ऱु सॊल्लुगैक्काग प्राप्तियै उपपादिक्किऱार् आतुरविषयत्तिल् स्पृष्ट्वा स्नानम् पोलवुमित्यादिना ।  
+आतुरऩ् – रोगपिडितऩ्, स्पृष्ट्वास्नानम् - 
+
+> ‘‘आतुरस्नान उत्पन्ने  
+दश-कृत्वो ह्य् अनातुरः ।  
+स्नात्वा स्नात्वा स्पृशेद् एनं  
+ततश् शुद्ध्येत् स आतुरः ॥  
+आतुरा चेद् ऋतुमती  
+सूतिका वा तथाविधा ।  
+स्पृष्ट्वा ताम् अपरा स्नायात्  
+द्वात्रिंशद्-वारम् एव वा’’ 
+
+इत्याद्युक्तम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दीक्षा-कालत्तिल् विष्णु-हस्त-प्रदानाख्य-स्पर्शम् पोलवुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+दीक्षा-काले विष्णु-हस्त-प्रदानाख्य-स्पर्शवत् 
+</details>
+
+
+<details><summary>English</summary>
+
+when the ācārya initiates the śiṣya into the sacred mantras,  
+he touches the śiṣya with his hand;  
+this touch is called "touch with the hand of Viṣṇu". 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el ācārya **inicia** el Śiṣya en los mantras sagrados,  
+**Toca** el Śiṣya con su mano;  
+Este toque **se llama** "**Toque** con la mano de Viṣṇu".
+</details>
+
+<details><summary>मूलम्</summary>
+
+दीक्षाकालत्तिल् विष्णुहस्तप्रदानाख्यस्पर्शम् पोलवुम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+दीक्षाकालत्तिल् विष्णुहस्तप्रदानाख्यस्पर्शम् पोलवुमिति । 
+
+> ‘‘करेण संस्पृशन् गात्रम्  
+मन्त्र-विद् भावयेत् तु यत् ।  
+एषा सा सर्वमन्त्राणां  
+दीक्षेत्य् आह मुनिः स्वयम् ॥’’
+
+ऎऩ्ऱु वचनत्तिल् सॊल्लप्पट्ट दीक्षाचार्यकर्तृकमाऩ विष्णुहस्तप्रदानमॆऩ्गिऱ दीक्षणीयऩुडैय उरोदेशस्पर्शम् पोलवुमॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरु-प्रतिष्ठैयिल् महा-भागवत-स्पर्शम् पोलवुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-प्रतिष्ठायां महा-भागवत स्पर्शवच् च 
+</details>
+
+
+<details><summary>English</summary>
+
+When an idol is newly installed,  
+it is touched with the hand by great devotees of the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando un ídolo **está** recién **instalado**,  
+Es **tocado** con la mano por grandes **devotos** del Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तिरुप्रतिष्ठैयिल् महाभागवतस्पर्शम् पोलवुम् 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तिरुप्रतिष्ठैयिल् महाभागवतस्पर्शम्बोलवुमिति । 
+
+> ‘‘अधिवासादिकं कर्म  
+यथावत् कर्तुम् अक्षमः ।  
+महा-भागवत-स्पर्शम्  
+एकं वा कारयेत् सुधीः॥’’ 
+
+ऎऩ्ऱु सॊल्लप्पट्ट भगवद्दिव्यमङ्गळविग्रह कर्मकमहाभागवतकर्तकस्पर्शम्बोलवुमॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मऱ्ऱुम् स्पर्शम् विहितम् आऩव् इडङ्गळिले  
+इवऩ्-उडैय स्पर्शम् पॆऱ्ऱद् आगिल्  
+स्पृष्टम् आऩ् अवैय् ऎल्लाम्  
+परिशुद्धम् आम् 
+
+ऎऩ्ऱ बडि;
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अन्यान्य-स्पर्श-विधान-स्थलेषु  
+एतस्य स्पर्शे लब्धे  
+स्पृष्टं सर्वम् अपि परिशुद्धम् 
+
+इत्य् एवम्-परम् ; 
+</details>
+
+
+<details><summary>English</summary>
+
+In certain other circumstances, too,  
+the touch with the hand is prescribed as purificatory.  
+The passage means, therefore,  
+that his touch of all things  
+is even more purificatory in such contexts  
+as are ordained in the śāstras.
+</details>
+
+<details><summary>Español</summary>
+
+En ciertas otras circunstancias también,  
+El **toque** con la mano **se prescribe** como purificador.  
+El pasaje **significa**, por lo tanto,  
+que su **toque** de todas las cosas  
+es aún más **purificador** en tales contextos  
+como **están ordenados** en los Śāstras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुम् स्पर्शम् विहितमाऩविडङ्गळिले इवऩुडैय स्पर्शम् पॆऱ्ऱदागिल् स्पृष्टमाऩवैयॆल्लाम् परिशुद्धमामॆऩ्ऱबडि;
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मऱ्ऱुम् स्पर्शम् विहितमाऩविडङ्गळिले - वेऱु ऎव्विडङ्गळिल् स्पर्शम् विहितमो अव्विडङ्गळिले, इवऩुडैय स्पर्शम् पॆऱ्ऱदागिल् - नारायणैकनिष्ठऩुडैय स्पर्शम् पॆऱ्ऱदागिल्, स्पृष्टमाऩवैयॆल्लाम् परिशुद्धमामॆऩ्ऱबडि इति । इङ्गु स्पृष्टमाऩवैयॆल्लामॆऩ्बदालुम्, परि ऎऩ्गिऱ उपसर्गत्तालुम् अखिलशब्दम् स्पृष्टान्वितमाय् अवऩाले तॊडप्पट्ट सर्ववस्तुवुम् ऎऩ्गिऱवर्थत्तैयुम् अखिलं शुचि ऎऩ्ऱु शुचिविशेषणमाय् खिलमिल्लादबडिएकदेशमिल्लादबडि । 
+
+परितश्शुद्धमामॆऩ्गिऱ अर्थत्तैयुम् बोधिक्कुमॆऩ्ऱ करुत्तु वॆळियिडप्पट्टदु। 
+</details>
+
+
+### विपक्षे भोजने ऽव्यवस्था
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लदु 
+
+> ‘‘उदुम्बरं न खादेत् तु”  
+( भारतम् आनुशासनिक-पर्व १६१-९७), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+न तु -- 
+
+> ‘‘उदुम्बरं न खादेत् तु”  
+( भारतम् आनुशासनिक-पर्व १६१-९७), 
+</details>
+
+
+<details><summary>English</summary>
+
+If this (interpretation) were not accepted, 
+
+> "The fruit of the fig tree (attikkai in Tamil) should not be eaten". 
+</details>
+
+<details><summary>Español</summary>
+
+Si esta (interpretación) **no fue aceptada**,
+
+> "El fruto de la higuera (Attikkai en tamil) **no debe comer**".
+</details>
+
+<details><summary>मूलम्</summary>
+
+अल्लदु ‘‘उदुम्बरं न खादेत्तु”( भारतम् आनुशासनिक-पर्व १६१-९७), 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+व्यवच्छेद्यमाऩ अर्थत्तै वॆळियिडुगिऱार् अल्लदु इत्यादिना । उदुम्बरमित्यादि । उदुम्बरं - अत्तिक्काय्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘कालिङ्गोदुम्बरालाबु-  
+बिम्बानि परिवर्जयेत् ।  
+तान्य् अश्नतस् तु सततं  
+नित्यं दूरतरो हरिः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘कालिङ्गोदुम्बरालाबु-  
+बिम्बानि परिवर्जयेत् ।  
+तान्य् अश्नतस् तु सततं  
+नित्यं दूरतरो हरिः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> "One should not eat kommatti or (mullaṅgī), athikkāi, suraikkai and kovaippazham.  
+Bhagavān ever stands far away from the man who always eats them." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Uno **no debe comer** Kommatti o (Mullaṅgī), Athikkāi, Suraikkai y Kavaippazham.  
+Bhagavān alguna vez **está** muy lejos del hombre que siempre los **come**. "
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘कालिङ्गोदुम्बरालाबु बिम्बानि परिवर्जयेत् । तान्यश्नतस्तु सततं नित्यं दूरतरो हरिः ॥ 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+काळिङ्गं - कॊम्मट्टि, अलाबु - सॊऱैक्काय्, बिम्बं - कोवैप्पऴम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वृन्ताक-कतकालिङ्ग-  
+बिल्वोदुम्बर-भिस्सटाः ।  
+यो **भक्षयति** संमोहात्  
+तस्य दूरतरो हरिः ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> वृन्ताक-कतकालिङ्ग-  
+बिल्वोदुम्बर-भिस्सटाः ।  
+यो **भक्षयति** संमोहात्  
+तस्य दूरतरो हरिः ॥
+</details>
+
+<details><summary>English</summary>
+
+> He who eats white brinjals, soap-nut (nettamkottai), kommatti (or mullaṅgī), kuvalai, athikkai, kāndal in ignorance-  
+to him Bhagavān is always at a distance. 
+</details>
+
+<details><summary>Español</summary>
+
+> El que **come** Brinjals blancos, jabón (nettamkottai), kommatti (o mullaṅgī), kuvalai, athikkai, kāndal en egnorance-  
+Para el, bhagavān siempre **está** en una disancia.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वृन्ताककतकालिङ्गबिल्वोदुम्बरभिस्सटाः । यो भक्षयति संमोहात्तस्य दूरतरो हरिः ॥
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+वृन्ताकः - वॆण्गत्तारि, कतकं - तेत्ताङ्गॊट्टै, भिस्सटा - कान्दल्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कालिङ्गीं क्षुद्र-वार्ताञ् च  
+दग्धान्नं मौसलीं तथा ।  
+तुम्बिका-फलम् **अश्नीयात्**  
+तस्य दूरतरो हरिः ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> कालिङ्गीं क्षुद्र-वार्ताञ् च  
+दग्धान्नं मौसलीं तथा ।  
+तुम्बिका-फलम् **अश्नीयात्**  
+तस्य दूरतरो हरिः ॥
+</details>
+
+<details><summary>English</summary>
+
+> He who eats, kommatti, sittavarai, kāṇḍal, nilaippanai and suraikkai -  
+to him Bhagavān is ever at a distance." 
+</details>
+
+<details><summary>Español</summary>
+
+> El que **come**, Kommatti, Sittavarai, Kāṇḍal, Nilaippanai y Suraikkai -  
+Para el, bhagavān siempre **está** en una disancia.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कालिङ्गीं क्षुद्रवार्ताञ्च दग्धान्नं मौसलीं तथा । तुम्बिकाफलमश्नीयात्तस्य दूरतरो हरिः ॥
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+क्षुद्रवार्ता - सिऱ्ऱवळै, मौसली - निलप्पऩै, तुम्बिका - सॊऱैक्काय्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यो **ऽत्ति** वार्ताक-कालिङ्ग-  
+मसूर-बिसकान्य् अपि ।  
+अन्त-काले जगन्नाथं  
+गोविन्दं **न स्मरिष्यति** ॥’’  
+(),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> यो **ऽत्ति** वार्ताक-कालिङ्ग-  
++++(प्रसवाद् दशाहे दुग्ध्वा सृष्टम् =)+++मसूर--+++(पद्म-)+++बिसकान्य् अपि ।  
+अन्त-काले जगन्नाथं  
+गोविन्दं **न स्मरिष्यति** ॥’’  
+(),
+</details>
+
+<details><summary>English</summary>
+
+> He who eats white brinjals, kommatti, cheese (or curds) made from the milk of a cow within ten days of its calfing, the bulb of the lotus --  
+he will never think in his last moments of Bhagavān,  
+the Lord of the world, 
+</details>
+
+<details><summary>Español</summary>
+
+> El que **come** Brinjals blancos, Kommatti, queso (o cuajada) **hecho** de la leche de una vaca  
+dentro de los diez días posteriores a la pantorrilla,  
+el bulbo del loto -  
+**Nunca pensará** en sus últimos momentos de Bhagavān,
+el señor del mundo,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+योऽत्ति वार्ताक कालिङ्ग मसूरबिसकान्यपि । अन्तकाले जगन्नाथं गोविन्दं न स्मरिष्यति ॥’’(), 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मसूरं – अन्तर्दशाहपयोत्पन्नामिक्षा, कऩ्ऱुबोट्ट पत्तुनाट्कुट्पट्ट पसु मुदलाऩवैगळिऩ् पालालुण्डाऩ इळन्दोच्चलॆऩ्ऱबडि। बिसकं - तामरैक्किऴङ्गु, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तुम्बं कोशातकञ् चैव  
+पलण्डुं ग्रञ्जनं तथा ।  
+छत्राकं विड्-वराहञ् च  
+**भुक्त्वा** चान्द्रायणां चरेत् ॥’’  
+(भारतम् आश्वमेधिक-पर्व ११२-४४),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तुम्बं कोशातकञ् चैव  
+पलण्डुं ग्रञ्जनं तथा ।  
+छत्राकं विड्-वराहञ् च  
+**भुक्त्वा** चान्द्रायणां चरेत् ॥’’  
+(भारतम् आश्वमेधिक-पर्व ११२-४४),
+</details>
+
+<details><summary>English</summary>
+
+> "He who has eaten velangãi , peerku, irulli, vellulli, nāikkudai (mushroom) urpanrikkizhangu -  
+he should perform the expiatory ceremony called 'Chandrāyana'. 
+</details>
+
+<details><summary>Español</summary>
+
+> "El que **come** Velanganai, Peerku, Irulli, Vellulli, Nāikkudai (hongo) Urpanrikkizhangu -  
+**Debería realizar** la ceremonia expiatoria **llamada** 'Chandrāyana'.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तुम्बं कोशातकञ्चैव पलण्डुं ग्रञ्जनं तथा । छत्राकं विड्वराहञ्च भुक्त्वा चान्द्रायणां चरेत् ॥’’(भारतम् आश्वमेधिक-पर्व ११२-४४),
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कोशातकी - पीर्क्कङ्गाय्, पलण्डु - ईरुळ्ळिक्किऴङ्गु, ग्रञ्जनं - वॆळ्ळुळ्ळि, छत्राकं - नाय्क्कॊडै, विड्वराहं - ऊर्प्पऩ्ऱि, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नालिका-चण-छत्राक-  
+कुसुम्भालाबु--विड्-भवान् ॥  
+कुम्भी-कञ्चुक-वृन्ताक-  
+कोविदारांश् च **वर्जयेत्** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नालिका-चण-छत्राक-  
+कुसुम्भालाबु--विड्-भवान् ॥  
+कुम्भी-कञ्चुक-वृन्ताक-  
+कोविदारांश् च **वर्जयेत्** ॥
+</details>
+
+<details><summary>English</summary>
+
+> “(One should avoid) the sprout of the cocoanut, sanaippukkirai, mushroom, kusumbai, suraikkai,  
+fruits or vegetables that have been produced with nightsoil as manure,  
+(kumbhi??, kanchuka??, white brinjal, kovidAra??)
+</details>
+
+<details><summary>Español</summary>
+
+> "(Uno **debe evitar**) el brote del cacao, Sanaippukkirai, hongos, kusumbai, suraikkai,  
+frutas o verduras que **se han producido** con la cuna de noche como estiércol,  
+(Kumbhi ??, Kanchuka ??, White Brinjal, Kovidara ??)
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नालिकाचण छत्राक कुसुम्भालाबु विड्भवान् ॥ कुंभी कञ्चुक(कन्दुक)-वृन्ताक-कोविदारांश्च वर्जयेत् ॥
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नाळीकं - तेङ्गाय् मुळै, चणं - सणप्पिऩ् कीरै, कुसुम्बं - कुसुम्बक्कीरै, विड्भवन् - विष्टैयिलुण्डाऩदुम्, अदिले पट्टदुम्, कुम्बी - कूऴ्, 
+कन्तुकं - वर्तलमाऩ सॊऱैक्काय्, कोविदारं - कॊऩ्ऱैक्कीरै, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> क्षीरं लवण-संमिश्रम्  
+**उच्छिष्टे** ऽपि च घृतं ।  
+**पानं** रजक-तीर्थे च  
+सुरा-पान-समं **विदुः** ॥’’(),+++(4)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> क्षीरं लवण-संमिश्रम्  
+**उच्छिष्टे** ऽपि च घृतं ।  
+**पानं** रजक-तीर्थे च  
+सुरा-पान-समं **विदुः** ॥’’(),
+</details>
+
+<details><summary>English</summary>
+
+> Milk mixed with salt,  
+ghee that has been poured into the remnants of food on the leaf or plate,  
+water in the place where the washerman washes clothes  
+to eat these is the same as to drink toddy." 
+</details>
+
+<details><summary>Español</summary>
+
+> Leche **mezclada** con sal,  
+Ghee que **se ha vertido** en los restos de la comida**** en la hoja o el plato,  
+Agua en el lugar donde el lavabo **lava** la ropa  
+**Comer** estos **es** lo mismo que beber ponche ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+क्षीरं लवणसंमिश्रमुच्छिष्टेपि च घृतं । पानं रजकतीर्थे च सुरापानसमं विदुः ॥’’(),
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आरनालं **न सेवेत**  
+कदाचिद् भगवत्-परः ।  
+सुरा-कल्पं हि तद् **ज्ञेयं**  
+तस्माद् **यत्नेन वर्जयेत्** ॥’’  
+(शाण्डिल्य-स्मृतिः २-५१),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘आरनालं **न सेवेत**  
+कदाचिद् भगवत्-परः ।  
+सुरा-कल्पं हि तद् **ज्ञेयं**  
+तस्माद् **यत्नेन वर्जयेत्** ॥’’  
+(शाण्डिल्य-स्मृतिः २-५१),
+</details>
+
+<details><summary>English</summary>
+
+> "The man who thinks of Bhagavān should never drink vinegar (kadi).  
+It is reckoned as liquor.  
+Therefore one should earnestly avoid it." 
+</details>
+
+<details><summary>Español</summary>
+
+> "El hombre que **piensa** de Bhagavān **nunca debe beber** vinagre (Kadi).  
+**Se considera** licor.  
+Por lo tanto, uno **debe evitarlo** sinceramente ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘आरनालं न सेवेत कदाचिद्भगवत्परः । सुराकल्पं हि तद्ज्ञेयं तस्माद्यत्नेन वर्जयेत् ॥’’(शाण्डिल्य-स्मृतिः २-५१),
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आरनाळं - काडि, 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘प्रमादाद् अपि कीलालं+++(=रक्तं)+++  
+यस् **स्पृशेद्** वैष्णवो नरः ।  
+उपचार-शतेनापि  
+**न क्षमामि** वसुन्धरे ॥’’  
+(वराहपुराणम्), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘प्रमादाद् अपि कीलालं+++(=रक्तं)+++  
+यस् **स्पृशेद्** वैष्णवो नरः ।  
+उपचार-शतेनापि  
+**न क्षमामि** वसुन्धरे ॥’’  
+(वराहपुराणम्), 
+</details>
+
+<details><summary>English</summary>
+
+> "The Vaiṣṇava who touches blood even without knowing what it is -  
+I never condone his offence, O goddess of the earth,  
+even after a thousand apologies." 
+</details>
+
+<details><summary>Español</summary>
+
+> "El Vaiṣṇava que **toca** la sangre incluso **sin saber** qué es -  
+**Nunca apruebo** su ofensa, oh diosa de la tierra,  
+Incluso después de mil disculpas ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रमादादपि कीलालं यस्स्पृशेद्वैष्णवो नरः । उपचार शतेनापि न क्षमामि वसुन्धरे ॥’’(वराहपुराणम्), 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कीलालं - रक्तम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘एकादश्यां सुर-श्रेष्ठ  
+यो **भुङ्ते** द्विज-जन्मवान् ।  
+प्रति ग्रासम् अयं **भुङ्ते**  
+किल्बिषं श्वान-विट्-समम् ॥’’  
+(सात्त्वत-संहिता), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘एकादश्यां सुर-श्रेष्ठ  
+यो **भुङ्ते** द्विज-जन्मवान् ।  
+प्रति ग्रासम् अयं **भुङ्ते**  
+किल्बिषं श्वान-विट्-समम् ॥’’  
+(सात्त्वत-संहिता), 
+</details>
+
+<details><summary>English</summary>
+
+> "He who is born a Brahmin and eats anna (cooked food) on the Ekādaśī day -  
+he eats sin in every morsel  
+and the morsel is comparable to the dung of the dog "
+</details>
+
+<details><summary>Español</summary>
+
+> "El que **nace** un brahmán y **come** Anna (comida cocinada) en el día de ekādaśī -  
+**come** pecado en cada bocado  
+y el bocado **es** comparable al estiércol del perro "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘एकादश्यां सुरश्रेष्ठ यो भुङ्ते द्विजजन्मवान् । प्रति ग्रासमयं भुङ्ते किल्बिषं श्वानविट्समम् ॥’’(सात्त्वत-संहिता), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘एकादश्यान् तु यो **भुङ्ते**  
+शक्तस् सन् निरुपद्रवः ।  
+सुरा-पान-समं पापं  
+**भवेत्** तस्य न संशयः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘एकादश्यान् तु यो **भुङ्ते**  
+शक्तस् सन् निरुपद्रवः ।  
+सुरा-पान-समं पापं  
+**भवेत्** तस्य न संशयः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> " He who is not ill  
+and yet eats anna (cooked food) on the Ekādaśī day-  
+he sins as though he has drunk liquor.  
+There is no doubt of this. 
+</details>
+
+<details><summary>Español</summary>
+
+> "El que **no está** enfermo  
+y sin embargo **come** Anna (comida **cocinada**) en el día de ekādaśī-  
+Él **peca** como si **hubiera bebido** licor.  
+**No hay** duda de esto.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘एकादश्यान्तु यो भुङ्ते शक्तस्सन्निरुपद्रवः । सुरापानसमं पापं भवेत्तस्य न संशयः ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मद्यपानात् सुर-श्रेष्ठ  
+पातैव नरकं **व्रजेत्** ।  
+एकादश्य्-अन्न-कामस् तु  
+पितृभिस् सह **मज्जति** ॥’’  
+(), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> मद्यपानात् सुर-श्रेष्ठ  
+पातैव नरकं **व्रजेत्** ।  
+एकादश्य्-अन्न-कामस् तु  
+पितृभिस् सह **मज्जति** ॥’’  
+(), 
+</details>
+
+<details><summary>English</summary>
+
+> The man who drinks liquor goes to hell by himself,  
+whereas the man who eata anna on Ekādasi day  
+drags his ancestors (also) into hell". 
+</details>
+
+<details><summary>Español</summary>
+
+> El hombre que **bebe** licor va al infierno solo,  
+Mientras que el hombre que **come** a Anna en el día de Ekādasi  
+**arrastra** a sus antepasados ​​(también) al infierno ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+मद्यपानात्सुरश्रेष्ठ पातैव नरकं व्रजेत् । एकादश्यन्नकामस्तु पितृभिस्सह मज्जति ॥’’(), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अन्न-दोषाद् अशमनान्  
+नाना-विषय-दर्शनात् ।  
+देह-शौचादि-विरहात्  
+स-मलं जायते मनः ॥’’  
+(श्री-रङ्ग-माहात्म्यम् ४७-१०), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अन्न-दोषाद् अशमनान्  
+नाना-विषय-दर्शनात् ।  
+देह-शौचादि-विरहात्  
+स-मलं जायते मनः ॥’’  
+(श्री-रङ्ग-माहात्म्यम् ४७-१०), 
+
+</details>
+
+
+<details><summary>English</summary>
+
+> "The mind becomes impure by eating forbidden food,  
+by coveting what one has not got,  
+by seeing various objects of sense-pleasure  
+and by want of cleanliness in the body". 
+</details>
+
+<details><summary>Español</summary>
+
+> "La mente **se vuelve impura** al **comer** comida prohibida,  
+Al **codiciar** lo que uno **no tiene**,  
+**viendo** varios objetos de placer del sentido  
+y por falta de **limpieza** en el cuerpo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अन्नदोषादशमनान्नानाविषयदर्शनात् । देहशौचादिविरहात् समलं जायतेमनः ॥’’(श्रीरङ्गमाहात्म्यम् ४७-१०), 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अन्नदोषादिति, दुष्टान्नभोजनत्तालुण्डाऩ दोषत्ता लॆऩ्ऱबडि। 
+
+अशमनं - किडैक्कादविषयत्तिल् आसै, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> (अनभ्यासेन वेदानाम्  
+आचारस्य च वर्जनात्।)  
+> ‘‘आलस्याद् अन्न-दोषाच् च  
+मृत्युर् विप्रान् **जिघांसति**’’  
+(मनुस्मृति ५-३)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> (अनभ्यासेन वेदानाम्  
+आचारस्य च वर्जनात्।)  
+> ‘‘आलस्याद् अन्न-दोषाच् च  
+मृत्युर् विप्रान् **जिघांसति**’’  
+(मनुस्मृति ५-३)
+</details>
+
+<details><summary>English</summary>
+
+> " Yama plans to **kill** the Brahmin with (the weapons of) failure to study the Vedas,  
+the absence of right observances, laziness and forbidden food."
+</details>
+
+<details><summary>Español</summary>
+
+> "Yama **planea matar** el brahmán con (las armas de) no **estudiar** los Vedas,  
+La **ausencia** de observancias correctas, pereza y **comida prohibida** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘आलस्यादन्नदोषाच्च मृत्युर्विप्रान् जिघांसति’’(मनुस्मृति ५-३)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> … इत्य्-आदिगळाले निषिद्धम् आऩ्-अवैय् ऎल्लाम्  
+इवऩ् तॊट्ट वाऱे+++(=विधिना)+++ शुद्धम् आम् 
+
+ऎऩ्ऱ बडिय् अऩ्ऱु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२४३]] 
+
+इत्य्-आदिभिर् 
+
+> निषिद्धानि सर्वाण्य् अप्य्  
+एतत्-स्पर्श-मात्रेण शुद्धानि भवन्ति
+
+इति । 
+</details>
+
+
+<details><summary>English</summary>
+
+it would follow that the things which are condemned in the ~~following~~ above ślokas  
+would become pure by his touch.  
+(That would be wrong.)
+</details>
+
+<details><summary>Español</summary>
+
+**Seguiría** que las cosas que **están condenadas** en Ślokas arribas  
+**se volvería** puro por su toque.  
+(Eso **estaría** mal).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळाले निषिद्धमाऩवै यॆल्लाम् इवऩ् तॊट्टवाऱे शुद्धमामॆऩ्ऱबडियऩ्ऱु।
+</details>
+
+## शास्त्र-नियतता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि विषय-व्यवस्थै पण्णाद बोदु  
+परिगृहीततमङ्गळ् आऩ बहु-शास्त्रङ्गळोडुम्, शिष्टानुष्ठानत्तोडुम् विरोधिक्कैयाले  
+अतिवाद-मात्रम् आय् विडुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं विषय-व्यवस्थाया अकरणे  
+परिगृहीततमैर् बहु-शास्त्रैः शिष्टानुष्ठानैश् च विरोधाद्  
+अतिवाद-मात्रं संपद्येत । 
+</details>
+
+
+<details><summary>English</summary>
+
+If no such discrimination were accepted,  
+it would conflict with many śāstras  
+which have been recognised as great authorities  
+and also with the traditional observances of the learned (siṣṭa ).  
+Therefore to state such views is merely of the nature of exaggeration (of some one aspect). 
+</details>
+
+<details><summary>Español</summary>
+
+Si **no se aceptara** tal **discriminación**,  
+En **conflicto** con muchos śāstras  
+que **han sido reconocidos** como grandes autoridades  
+y también con las **observancias** tradicionales de los eruditos (Siṣṭa).  
+Por lo tanto, **declarar** tales puntos de vista **es** simplemente de la naturaleza de la **exageración** (de un solo aspecto).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि विषयव्यवस्थै पण्णादबोदु परिगृहीततमङ्गळाऩ बहुशास्त्रङ्गळोडुम् शिष्टानुष्ठानत्तोडुम् विरोधिक्कैयाले अतिवादमात्रमाय्विडुम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नारायणैकनिष्ठस्येत्यादिवचनङ्गळुक्कु इम्मादिरि व्यवस्थै कॊळ्ळामल् आपातप्रतीतार्थत्तैये कॊण्डाल् वरुम् अनिष्टत्तैक् काट्टुगिऱार् इप्पडि विषयव्यवस्थैपण्णादबोदु इत्यादिना । परिगृहीततमङ्गळाऩ इति । इदऩाल् इव्वचनङ्गळ् परिगृहीतङ्गळऩ्ऱॆऩ्ऱु सूचितम्। बहुशास्त्रङ् गळोडुमिति । इदऩाल् भूयसां न्यायत्ताले कतिपयवचनङ्गळिल् व्यवस्थै बाधकमागादॆऩ्ऱु सूचितम्। अतिवादमात्रमाय्विडुमिति । इप्पडि व्यवस्थै सॆय्दाल् प्राप्तविषयङ्गळिल् नारायणैकनिष्ठऩुडैय सम्बन्धमुण्डाऩाल् उत्कर्षम् सिद्धिक्कैयाले इन्द वचनङ्गळ् प्रमाणङ्गळाम्; अऩ्ऱिक्के सामान्यविषयमाक्किल् बहुशास्त्रविरोधमुम् बहुशिष्टाचार विरोधमुंवरुगैयाल् तत्स्पृष्टमित्यादि वचनङ्गळ् केवलप्रशंसापरङ्गळाय् प्राप्तविषयविशेषत्तिल् नाम् नियमित्त प्रभावमुम् इल्लादॊऴियुमॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> महा-प्रभावऩ् आऩ परमैकान्ति पक्कलिलुम्  
+इश्-शास्त्रीय-नियमम् कुलैयाद् 
+
+ऎऩ्ऩुम् इडम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+महा-प्रभावाणां परमैकान्तिनाम् अपि विषये  
+अस्य शास्त्रीय-नियामस्याविचाल्यता  
+</details>
+ 
+
+<details><summary>English</summary>
+
+Even by the man who, has supreme and exclusive devotion (paramaikāntin) and whose greatness is boundless,  
+these restrictions imposed by the sāstras are not violated. 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso por el hombre que tiene devoción suprema y exclusiva (paramaikāntin) y cuya grandeza **es** ilimitada,  
+Estas **restricciones impuestas** por los Sāstras **no se violan**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+महाप्रभावऩाऩ परमैकान्ति पक्कलिलुम् इश् शास्त्रीयनियमम् कुलैयादॆऩ्ऩुमिडम् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परमैकान्तिसार्वभौमऩुम् इन्द शास्त्रीयनियमनत्तै अतिक्रमिक्कलागादॆऩ्बदिल् प्राचीनशिष्टाचारत्तैक् काट्टुगिऱार् महा प्रभावऩाऩ इत्यादिना । 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाथ-मुनिगळ्, आळ-वन्दार्, ऎम्-बॆरुमाऩार् उळ्ळ् इट्ट परमाचार्यर्गळ्-उडैय  
+अन्तिम-दिवसावधिय् आऩव् अनुष्ठानङ्गळैक् केट्टुत् तॆळिन्दु गॊळ्वदु।+++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-नाथ-मुनि--यामुनार्य--भाष्य-कारान्तानां परमाचार्याणाम् अन्तिम-दशावधिकानि +अनुष्ठानानि श्रुत्वा ज्ञातव्या । 
+</details>
+
+
+<details><summary>English</summary>
+
+This may be understood from the observances until the last day of their lives,  
+of great ācāryas like Nāthamuni, Aḷavandār and Śrī Rāmānuja.
+
+</details>
+
+<details><summary>Español</summary>
+
+Esto **puede entenderse** desde las **observancias** hasta el último día de sus **vidas**,  
+de grandes ācāryas como Nāthamuni, Aḷavandār y śrī rāmānuja.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नाथमुनिकळ् आळवन्दार् ऎम्बॆरुमाऩारुळ्ळिट्ट परमाचार्यर्गळुडैय अन्तिमदिवसावधियाऩ वनुष्ठानङ्गळैक् केट्टुत्तॆळिन्दुगॊळ्वदु।
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परमाचार्यर्गळुडैय इति । परमैकान्तिसार्वभौमऩाऩालुम् परमाचार्यर्गळिऩ् अनुष्ठानङ्गळैक्केट्टुत् तॆळिन्दु शास्त्रार्थङ्गळै तदविराधेनानुष्ठिक्कवेण्डुमॆऩ्ऱु करुत्तु।
+</details>
+
+
+## त्याग-प्रकारः
+<details><summary>English</summary>
+
+THE PERFORMANCE OF THE RITES OF THE VARṆAS AND ĀŚRAMAS IS OBLIGATORY:
+</details>
+
+<details><summary>Español</summary>
+
+El **rendimiento** de los **ritos** de los varṇas y āśramas es obligatorio:
+</details>
+
+### तामस-त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वेद--वैदिक-शास्त्रङ्गळिऱ् सॊल्लुगिऱ नियमङ्गळै  
+बाह्यरुम् कु-दृष्टिगळुम् भ्रान्तियाले विडुगिऱव् इडम्  
+तामस-त्यागम् 
+
+ऎऩ्ऩुम् इडत्तै 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> वेद-वैदिक-शास्त्रोक्तानां नियमानां  
+बाह्यैः कु-दृष्टिभिश् च भ्रान्त्या त्यागस्  
+तामस-त्याग 
+
+इतीमम् अर्थम्, 
+</details>
+
+
+<details><summary>English</summary>
+
+Those who are outside the pale of the Vedas  
+and those who hold heretical views  
+give up, owing to delusion,  
+these restrictions and regulations which are ordained in the Vedas and the śāstras based on the Vedas.  
+That this kind of renunciation is due to tamas …
+</details>
+
+<details><summary>Español</summary>
+
+Los que **están** fuera del pálido de los Vedas  
+y los que **tienen** puntos de vista heréticos  
+**rendirse**, debido a la ilusión,  
+Estas **restricciones** y **regulaciones** que **se ordenan** en los Vedas y los Śāstras **basados** ​​en los Vedas.  
+Que este tipo de **renuncia se debe** a los tamas ...
+</details>
+
+<details><summary>मूलम्</summary>
+
+वेदवैदिकशास्त्रङ्गळिऱ् सॊल्लुगिऱ नियमङ्गळै बाह्यरुम् कुदृष्टिकळुम् भ्रान्तियाले विडुगिऱविडम् तामसत्यागमॆऩ्ऩुमिडत्तै 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडियागिल् सिलर् सर्वधर्मङ्गळुम् स्वरूपतः त्याज्यङ्गळॆऩ्ऱुम् अदु चरमश्लोकादिगळिल् विवक्षितमॆऩ्ऱुम् सॊल्लुगिऱार्गळे यॆऩ्ऩिल् अदु समीचीनमऩ्ऱॆऩ्ऱुम् चरमश्लोकत्तिल् सात्त्विकत्यागमे विवक्षितमॆऩ्ऱुम् सॊल्लक्करुदि गीतोक्तङ्गळाऩ तामस राजस सात्त्विकत्यागङ्गळिऩ् स्वरूपत्तै यरुळिच्चॆय्गिऱार् वेदवैदिकशास्त्रङ्गळिऱ् सॊल्लुगिऱ नियमङ्गळै इत्यादिना । भ्रान्तियाले विडुगिऱ विडमिति । इदऩाल् अन्दत्यागम् प्रमामूलमऩ्ऱागैयाल् प्रामाणिकमऩ्ऱॆऩ्ऱु ज्ञापितमागिऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नियतस्य तु सन्न्यासः  
+कर्मणो **नोपपद्यते** ।  
+मोहात् तस्य परित्यागस्  
+तामसः **परिकीर्तितः**॥’’  
+(गीता १८-७) 
+
+ऎऩ्गिऱ श्लोकत्तालेय् अरुळिच् चॆय्दाऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नियतस्य तु सन्न्यासः  
+कर्मणो **नोपपद्यते** ।  
+मोहात् तस्य परित्यागस्  
+तामसः **परिकीर्तितः**॥’’  
+(गीता १८-७) 
+
+इति श्लोकेनानुजग्राह । 
+</details>
+
+<details><summary>English</summary>
+
+is declared by Bhagavān in the śloka :- 
+
+> "One should not give up the karma  
+ordained for the castes and the āśramas.  
+Their omission arising from ignorance is renunciation (tyāga) due to tamas". 
+</details>
+
+<details><summary>Español</summary>
+
+es declarado por Bhagavān en el Śloka:-
+
+> "Uno **no debe renunciar** al karma  
+**Ordenado** para las castas y los āśramas.  
+**Su omisión derivada** de la ignorancia es la **renuncia** (tyāga) debido a los tamas ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नियतस्य तु सन्न्यासः कर्मणो नोपपद्यते । मोहात्तस्य परित्यागस्तामसः परिकीर्तितः’’(गीता १८-७) ऎऩ्गिऱ श्लोकत्तालेयरुळिच् चॆय्दाऩ्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मोहात्तस्य परित्याग इति । नियतमाऩ कर्मत्तिऩ् त्यागम् मोहकृतमागैयाले तामसमॆऩ्ऱु सॊल्लप्पट्टदॆऩ्गै। 
+</details>
+
+
+### राजस-त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कुटुम्ब-भरणादिगळुक्क् अलैन्दु  
+सन्न्यासादिगळैप् पऱ्ऱुवारैप् पोले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> कुटुम्ब-भरणाद्य्-अर्थम् अटित्वा सन्न्यासादीनि परिगृहद्भिर् इव  
+</details>
+
+
+<details><summary>English</summary>
+
+> His tyāga or renunciation is like that of the man  
+who becomes sannyāsin because of the difficulties of maintaining a family (when)
+</details>
+
+<details><summary>Español</summary>
+
+> Su tyāga o **renuncia es** como la del hombre  
+quien **se convierte** en sannyāsin debido a las dificultades de mantener una familia (cuándo)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुटुम्बभरणादिगळुक्कलैन्दु सन्न्यासादिगळैप् पऱ्ऱुवारैप्पोले 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+राजसत्यागस्वरूपत्तै भगवाऩरुळिच्चॆय्दाऩॆऩ्गिऱार् कुटुम्बभरणादिगळुक्कलैन्दु इत्यादिना । यः, कर्मदुःखमित्येव बुद्ध्या कायक्लेशभयात्त्यजेत् सः त्यागफलं न लभेदित्यर्थः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> दुःख-रूपगळ् आऩ प्रवृत्ति-निवृत्तिगळुक्कुच् चोम्बि+++(=आलसी भूत्वा)+++ विडुगिऱव् इडम्  
+राजस-त्यागम्  
+
+ऎऩ्ऩुमिडत्तै
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+दुःख-रूप-प्रवृत्ति-निवृत्तीनाम् आलस्येन  
+क्रियमाणस् त्यागो राजसत्याग 
+
+इतीमम् अर्थम्, 
+</details>
+
+
+<details><summary>English</summary>
+
+> the giving up of activities and abstentions  
+which are of the nature of pain  
+is renunciation due to rajas,  
+</details>
+
+<details><summary>Español</summary>
+
+> **Renunciar** a **actividades** y **abstenciones**  
+que **son** de la naturaleza del dolor  
+**es renuncia** debido a rajas,
+</details>
+
+<details><summary>मूलम्</summary>
+
+दुःखरूपकळाऩ प्रवृत्तिनिवृत्तिकळुक्कुच्चोम्बि विडुगिऱविडम् राजसत्यागमॆऩ्ऩुमिडत्तै
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘दुःखम् इत्य् एव यः कर्म  
+काय-क्लेश-भयात् **त्यजेत्** ।  
+स **कृत्वा** राजस-त्यागं  
+नैव त्याग-फलं **लभेत्**॥’’  
+(गीता १८-८) 
+
+ऎऩ्ऱ् अरुळिच् चॆय्दाऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘दुःखम् इत्य् एव यः कर्म  
+काय-क्लेश-भयात् **त्यजेत्** ।  
+स **कृत्वा** राजस-त्यागं  
+नैव त्याग-फलं **लभेत्**॥’’  
+(गीता १८-८) 
+
+इत्य् अनुजग्राह । 
+</details>
+
+<details><summary>English</summary>
+
+He has (also) declared that in the following:- 
+
+> "He who gives up karma,  
+because it is painful and fatiguing to the body -  
+he renounces owing to rajas  
+and does not obtain the fruit of renunciation." 
+</details>
+
+<details><summary>Español</summary>
+
+Él **ha declarado** (también) que en lo **siguiente**:-
+
+> "El que **renuncia** al karma,  
+Porque **es** doloroso y fatigante para el cuerpo -  
+Él **renuncia** debido a Rajas  
+y **no obtiene** el fruto de la **renuncia** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘दुःखमित्येव यः कर्म कायक्लेशभयात्त्यजेत् । स कृत्वा राजसत्यागं नैव त्यागफलं लभेत्’’(गीता १८-८) ऎऩ्ऱरुळिच्चॆय्दाऩ्। 
+</details>
+
+
+### सात्त्विक-त्यागः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तऩ्ऩ्-अधिकारानुरूपम् आगत्  
+तविर+++(=वारणीय)+++ वेण्डुम्-अवै तविर्न्दु  
+सॆय्य वेण्डुम्-अवै सॆय्युम् इडत्तिल् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> स्वाधिकारानुरूपं त्यक्तव्यानां त्याग-पूर्वं  
+कर्तव्यानां करणस्य समये,  
+</details>
+
+
+<details><summary>English</summary>
+
+> While giving up, in accordance with our competence, what should be given up  
+and doing what should be done,  
+</details>
+
+<details><summary>Español</summary>
+
+> Mientras **se rinde**, de acuerdo con nuestra competencia, lo que **se debe renunciar**  
+Y **haciendo** lo que **se debe hacer**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩ्ऩधिकारानुरूपमागत् तविर वेण्डुमवै तविर्न्दु सॆय्यवेण्डुमवै सॆय्युमिडत्तिल् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सात्त्विकत्यागस्वरूपत्तै यरुळिच्चॆय्गिऱार् तऩ्ऩधिकारानुरूपमाग इत्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > नाऩ् स्वतन्त्रऩ् आय्च् चॆय्गिऱेऩ् 
+> 
+> ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "अहं स्वतन्त्रः करोमी"ति, 
+</details>
+
+<details><summary>English</summary>
+
+> > "I am doing all this as an independent agent, 
+</details>
+
+<details><summary>Español</summary>
+
+> > "Estoy **haciendo** todo esto como un agente independiente,
+</details>
+
+<details><summary>मूलम्</summary>
+
+नाऩ् स्वतन्त्रऩाय्च्चॆय्गिऱेऩॆऩ्ऱुम् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+स्वतन्त्रऩाय्च् चॆय्गिऱे ऩॆऩ्ऱुमिति । इदऱ्कु निऩैवै माऱ्ऱि ऎऩ्बदोडन्वयम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ऎऩक्क् इक्-कर्मम् शेष-भूतम् +++(5)+++
+> 
+> ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "ममेदं कर्म शेष-भूतम्" इति, 
+</details>
+
+
+<details><summary>English</summary>
+
+> > this activity is dependent on me; +++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+> > Esta actividad **depende** de mí;+++(5)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩक्किक्कर्मम् शेषभूतमॆऩ्ऱुम् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदऩाल् सॆय्युम् कर्मत्तिल् कर्तृत्वत्यागम् सॊल्लप्पट्टदु। ऎऩक्कु इक्कर्मम् शेषभूतमॆऩ्ऱुमिति । इदऱ्कुम् निऩैवै माऱ्ऱि ऎऩ्बदोडन्वयम्। इदऩाल् सङ्गत्यागम् सॊल्लप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ऎऩक्क् इऩ्ऩ फलत्तुक्क् इदु ताऩे साधनम् 
+> 
+> ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "ममैतत्-फलार्थम् इदम् एव साधनम्" इति च 
+</details>
+
+
+<details><summary>English</summary>
+
+> > this will be the means of my attaining such and such an object". 
+</details>
+
+<details><summary>Español</summary>
+
+> > Este **será** el medio de **lograr** tal y tal objeto ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩक्किऩ्ऩ फलत्तुक्किदुदाऩे साधनमॆऩ्ऱुम् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मेलुम् इप्पडिये यन्वयिप्पदु। ऎऩक्किऩ्ऩ फलत्तुक्कु इदु ताऩे साधनमॆऩ्ऱुमिति । इदऩाल् फलत्यागम् सॊल्लप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पिऱक्कुम् निऩैवै माऱ्ऱि
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> जायमानां बुद्धिं विनिवर्त्य, 
+</details>
+
+
+<details><summary>English</summary>
+
+> \- we should give up such thought,  
+</details>
+
+<details><summary>Español</summary>
+
+> \- **Deberíamos renunciar** a tal **pensamiento**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+पिऱक्कुम् निऩैवै माऱ्ऱि
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्वेश्वरऩ् सॆय्विक्क अवऩुक्कु शेषमाऩ कैङ्कर्यत्तै  
+अवऩ्-उगप्पे प्रयोजनम् आग अनुसन्धित्त् अनुष्ठिक्कै  
+सात्त्विक-त्यागम् 
+
+ऎऩ्ऩुम् इडत्तै 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> सर्वेश्वरे कारयति सति  
+तच्-छेष-भूतस्य कैङ्कर्यस्य  
+तत्-प्रीत्येक-प्रयोजनत्वानुसन्धानेनानुष्ठानं  
+सात्त्विक-त्याग 
+
+इतीमम् अर्थम्, 
+</details>
+
+
+<details><summary>English</summary>
+
+> We should, on the other hand, think that the Supreme Ruler is the (real) doer  
+and that we render service to Him,  
+which is His due,  
+with the sole object of pleasing Him.  
+If we follow this line of thought (in what we do and in what we refrain from ),  
+it is renunciation due to sattva,  
+</details>
+
+<details><summary>Español</summary>
+
+> **Deberíamos**, por otro lado, **pensar** que el **gobernante** supremo **es** el **hacedor** (real)  
+y que **le prestamos servicio** a él,  
+que **es** su debido,  
+con el único objeto de **complacerlo**.  
+Si **seguimos** esta línea de **pensamiento** (en lo que **hacemos** y en lo que **nos abstenemos**),  
+**es renuncia** debido a sattva,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वेश्वरऩ् सॆय्विक्क अवऩुक्कु शेषमाऩ कैङ्कर्यत्तै अवऩुगप्पे प्रयोजनमाग अनुसन्धित्तनुष्ठिक्कै सात्त्विकत्यागमॆऩ्ऩुमिडत्तै 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि तऩक्कु कर्तृत्वादिगळ् इल्लैयॆऩ्ऱु ऎण्णुवदोडु इक्कर्मत्तिऱ्कु भगवाऩे कर्ता, इदु अवऩुक्के शेषभूतम्, इदऱ्कु अवऩुगप्पे फलमॆऩ्ऱुमॆण्णवेण्डुमॆऩ्गिऱार् सर्वेश्वरऩ् सॆय्विक्क इत्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘+++(कैङ्कर्य-रूप-स्वयम्-प्रयोजनतया)+++ कार्यम् इत्य् एव यत् कर्म  
+नियतं **क्रियते** ऽर्जन ।  
++++(प्रधान-कर्तृत्व-)+++सङ्गं **त्यक्त्वा** फलञ् चैव  
+स **त्यागस्** सात्त्विको **मतः**॥’’  
+(गीता १८-९) 
+
+ऎऩ्ऱ् अरुळिच् चॆय्दाऩ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘+++(कैङ्कर्य-रूप-स्वयम्-प्रयोजनतया)+++ कार्यम् इत्य् एव यत् कर्म  
+नियतं **क्रियते** ऽर्जन ।  
++++(प्रधान-कर्तृत्व-)+++सङ्गं **त्यक्त्वा** फलञ् चैव  
+स **त्यागस्** सात्त्विको **मतः**॥’’  
+(गीता १८-९) 
+
+इत्य् अनुजग्राह । 
+</details>
+
+<details><summary>English</summary>
+
+and this has been declared by Bhagavān in :-
+
+> "To perform the karma ordained for a man  
+with the thought that it is an end in itself  
+and that it ought to be done without the thought  
+that the karma is his (independent) action  
+and without the desire for gain of any kind -  
+this is, O Arjuna, renunciation due to sattvam." 
+</details>
+
+<details><summary>Español</summary>
+
+y esto **ha sido declarado** por Bhagavān en:-
+
+> "Para **realizar** el karma **ordenado** para un hombre  
+con la idea de que **es** un fin en sí mismo  
+y que **debería hacerse** sin el **pensamiento**  
+que el karma **es** su acción (independiente)  
+y sin el deseo de **ganancia** de ningún tipo -  
+Esta **es**, oh Arjuna, **renuncia** debido a Sattvam ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जन । सङ्गं त्यक्त्वा फलञ्चैव स त्यागस्सात्त्विको मतः’’(गीता १८-९) ऎऩ्ऱरुळिच्चॆय्दाऩ्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदै ऒरु श्लोकत्ताले भगवाऩरुळिच्चॆय्दाऩॆऩ्गिऱार् कार्यमित्येवेत्यादिना । इव्वळवाल् सात्त्विकत्यागम् काट्टप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इब् भगवत्-प्रीति-प्रयोजनम् आग अनुष्ठिक्किऱव् इडत्तिले  
+इप् प्रीतिक्कु मोक्षमुम् फलम् आगक् कोलादे 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद् भगवत्-प्रीति-प्रयोजनैकत्वेनानुष्ठानस्थले  
+अस्याः प्रीतेर् मोक्षम् अपि फलत्वेनानुद्दिश्य, 
+</details>
+
+<details><summary>English</summary>
+
+The man should observe (these rites and regulations ) solely for the purpose of pleasing Bhagavān.  
+He should not even ask for mokṣa as a reward,  
+</details>
+
+<details><summary>Español</summary>
+
+El hombre **debe observar** (estos ritos y regulaciones) únicamente con el propósito de **complacer** a Bhagavān.  
+**Ni siquiera debería pedir** mokṣa como recompensa,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इब् भगवत्प्रीतिप्रयोजनमाग अनुष्ठिक्किऱविडत्तिले इप् प्रीतिक्कु मोक्षमुम् फलमागक्कोलादे 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि प्रपन्नऩुडैय सात्त्विकत्यागम् काष्ठाभूमियॆऩ्गिऱार् इब् भगवत्प्रीतिप्रयोजनमाग इत्यादिना । इप्प्रीतिक्कु मोक्षमुम् फलमागक्कोलादे इति । इदऩाल् भक्तऩुडैय सात्त्विकत्यागत्तैक्काट्टिलुंव्यावृत्ति सॊल्लप्पट्टदु। भक्तऩुडैय कर्मानुष्ठानत्ताले वरुम् भगवत्प्रीतिक्कु भक्तिनिर्वृत्तिद्वारा मोक्षम् फलमागुमिऱे। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पूर्व-प्रपत्तियाल् पिऱन्द परम-कारुणिकऩ् प्रसादत्ताले  
+मोक्षम् सिद्धम् 
+
+ऎऩ्ऱु निऩैत्तु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> पूर्व-प्रपत्ति-जेन परम-कारुणिक-प्रसादेन  
+मोक्षः सिद्ध 
+
+इति मत्वा 
+</details>
+
+
+<details><summary>English</summary>
+
+for he should realise that,  
+by the grace of the All merciful Lord  
+which has been won by the prapatti performed before,  
+mokṣa is certain. 
+</details>
+
+<details><summary>Español</summary>
+
+porque **debe darse cuenta** de que,  
+por la gracia del todo mis misericordioso Señor  
+que **ha sido ganado** por el Prapatti **realizado** antes,  
+Mokṣa **es seguro**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पूर्वप्रपत्तियाल् पिऱन्द परमकारुणिकऩ्प्रसादत्ताले मोक्षम् सिद्धमॆऩ्ऱु निऩैत्तु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्तऩ्-उडैय कैङ्कर्यम् बोलवुम्  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुक्त-कैङ्कर्यवत्, 
+</details>
+
+
+<details><summary>English</summary>
+
+(He should) render service (kaiṅkarya)  
+like those who have already attained mukti.  
+</details>
+
+<details><summary>Español</summary>
+
+**(Debería) prender** el **servicio** (Kaiṅkarya)  
+como aquellos que ya **han alcanzado** Mukti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुक्तऩुडैय कैङ्कर्यम्बोलवुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अरोगऩ्-उडैय पाल् वार्त्त्+++(=निस्स्राव्य)+++ उण्गै पोलवुम् +++(4)+++ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अरोगस्य क्षीरोपस्कृत-भोजनवत्
+</details> 
+
+
+<details><summary>English</summary>
+
+As would resemble a healthy man eating food with milk  
+(without any thought of the care from illness to be obtained from milk).  
+</details>
+
+<details><summary>Español</summary>
+
+Como **se parecería** a un hombre sano **comiendo** alimentos con leche
+(sin **pensar** en la **atención** de la enfermedad a **obtener** de la leche).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अरोगऩ्-उडैय पाल्वार्त्त् उण्गै पोलवुम्  
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि प्रपन्नऩुडैय सात्त्विकत्यागपूर्वकानुष्ठानत्तिल् दृष्टान्तद्वयमरुळिच्चॆय्गिऱार् मुक्तऩुडैय कैङ्कर्यम्बोलवुम् अरोगऩुडैय पाल् वार्त्तुण्गैबोलवुमिति । इदिल् मुक्तऩुडैय ऎऩ्बदु प्रयोजनान्तराभिसन्ध्यभावत्तिल् दृष्टान्तम्। अरोगऩुडैय ऎऩ्बदु स्वयम्प्रयोजनत्वाभिसन्धियिले दृष्टान्तम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुष्ठिक्कै सात्त्विक-त्यागत्तिऩ्  
+ऎल्लै निलम् आगक् कडवदु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वानुष्ठानं सात्त्विक-त्यागस्य  
+सीमा-भूमिर् भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+Such a code of conduct is the highest limit of renunciation due to sattvam. 
+</details>
+
+<details><summary>Español</summary>
+
+Tal código de conducta **es** el límite más alto de **renuncia** debido a Sattvam.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुष्ठिक्कै सात्त्विकत्यागत्तिऩॆल्लै निलमागक्कडवदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु पसित्त् उण्बार् मात्रम्;
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं बुभुक्षु-भोजन-मात्रम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+This is like eating food when men are hungry. 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **es** como **comer** comida cuando los hombres **tienen** hambre.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु पसित्तुण्बार् मात्रम्;
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ननु नित्यनैमित्तिककर्मङ्गळ् अकरणे यः प्रत्यवायः तन्निवृत्तिफलकङ्गळायिरुक्क स्वयम्प्रयोजनङ्गळॆऩ्ऩप्पोमोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् इदु पसित्तुण्बार्मात्रमिति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् अल्लाद बोदु ऒट्टत्तुक्क्+++(→स्पर्धया)+++ अप्पम् +++(=दोषाम्)+++ तिऩ्बार् मात्रम्। +++(4)+++  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा पण-बन्धार्थापूप-भक्षणमात्रम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+Otherwise their conduct would resemble that of men  
+who eat cakes for winning a wager.  
+(They cannot derive any true pleasure therefrom). 
+
+(The man that eats food when hungry enjoys it,  
+because he does so with no other object than satisfying his hunger.  
+The man who eats cakes for winding a wager,  
+cannot find any relish in doing so.)
+</details>
+
+<details><summary>Español</summary>
+
+De lo contrario, su conducta **se parecería** a la de los hombres  
+quienes **comen** pasteles por **ganar** una apuesta.  
+(**No pueden obtener** ningún verdadero placer de esto).
+
+(El hombre que **come** comida cuando hambrienta lo **disfruta**,  
+Porque **no lo hace** sin otro objeto que **satisfacer** su hambre.  
+El hombre que **come** pasteles por **enrollar** una apuesta,  
+**No puedo encontrar** ningún gusto al **hacerlo**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩल्लादबोदु ऒट्टत्तुक्कप्पम् तिऩ्बार् मात्रम्।   
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ऎप्पडि ऒरुवऩ् पसियिऩाले मृष्टान्नभोजनम् सॆय्दाल् अन्द भोजनमे स्वयं प्रयोजनमाय् अदऩाल् वरुम् क्षुण्णिवृत्ति आनुषङ्गिकमागिऱदो अप्पडि यॆऩ्ऱबडि। अधिकार्यन्तरत्तिल् वैपरीत्यत्तैक् काट्टुगिऱार् इङ्ङऩल्लादबोदु इत्यादिना । स्वयम्प्रयोजनमाग अनुष्ठियादबोदु ऎऩ्ऱबडि। ऒट्टत्तुक्कित्यादि । ऒट्टत्तुक्कु - पन्दयत्तिऱ्कु, अदावदु - ऒरुवऩ् पूर्णमाग भोजनम् सॆय्दबिऱगु, नी इप्पॊऴुदु पत्तु सॊज्जियप्पम् साप्पिडुवायागिल् पत्तु रूबाय् कॊडुप्पेऩ् ऎऩ्ऱु मऱ्ऱॊरुवऩ् पन्दयम् वैक्क, अदऱ्काग, अप्पम् तिऩ्बार् मात्रम् - अतिभोज्यमाऩ सॊज्जियप्पत्तैयुम् पणत्तिऱ्कागक् कष्टप्पट्टु साप्पिडुवदुबोलेयागुम्। अवर्गळुक्कु अपूपभक्षणत्तिल् स्वयम्प्रयोजनत्वबुद्धियिल्लै; पन्दयत्तिल् वरुम् पणत्तिलेये दृष्टियामॆऩ्ऱु करुत्तु।
+</details>
+
+
+### चरम-श्लोकार्थः
+
+<details><summary>English</summary>
+
+THE REAL MEANING OF "HAVING GIVEN UP ALL DHARMAS" IN THE CARAMA ŚLOKA:
+</details>
+
+<details><summary>Español</summary>
+
+El verdadero **significado** de "**haber renunciado** a todos los dharmas" en el Carama Śloka:
+</details>
+
+#### सात्त्विक-त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सर्व-धर्मान् परित्यज्य’’ 
+
+ऎऩ्गिऱव् इडत्तिल् प्रथम-योजनैयिल् 
+
+> बुद्धि-विशेष-रूपम् आऩ  
+सात्त्विक-त्यागञ् जॊल्लुगिऱद्  
+
+ऎऩ्ऱु भाष्यकारर् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “सर्व-धर्मान् परित्यज्य” 
+
+इत्य्-अत्र प्रथम-योजनायाम्, 
+
+> बुद्धि-विशेष-रूपः सात्त्विक-त्यागः प्रतिपाद्यते
+
+इति भाष्य-कारोऽनुजग्राह । 
+</details>
+
+<details><summary>English</summary>
+
+While commenting on the words (in the Carama Śloka ) “Having given up all dharmas",  
+the author of Śrī Bhāṣya interpreted them at first to mean that  
+the giving up of dharmas means the giving up of the thought that,  
+in his action, the man himself is the doer seeking a certain gain for himself by that means.  
+This is renunciation of action due to sattvam  
+(and not the giving up of the dharma itself  viz., nitya and naimittika). 
+</details>
+
+<details><summary>Español</summary>
+
+Mientras **comenta** sobre las palabras (en el carama Śloka) "**habiendo renunciado** a todos los dharmas",  
+El autor de Śrī Bhāṣya **los interpretó** al principio para **significar** que  
+**renunciar** a los dharmas **significa renunciar** al **pensamiento** de que,  
+En su **acción**, el hombre mismo **es** el **hacedor** que **busca** una cierta **ganancia** para sí mismo por ese medio.  
+Esto **es renuncia** a la acción debido a sattvam  
+(y **no se rinde** del Dharma en sí, a **saber**, Nitya y Naimittika).
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘सर्वधर्मान् परित्यज्य’’ ऎऩ्गिऱविडत्तिल् प्रथमयोजनैयिल् बुद्धिविशेषरूपमाऩ सात्त्विकत्यागञ् जॊल्लुगिऱदॆऩ्ऱु भाष्यकारररुळिच्चॆय्दार्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि त्रिविधमाऩ त्यागम् गीतैयिल् सॊल्लप्पट्टिरुन्दालुम् अदु भक्तमात्रविषयमऩ्ऱो वॆऩ्ऩ? गीताभाष्यत्तिल् प्रथमयोजनैयिल् बुद्धिविशेषरूपमाऩ सात्त्विकत्यागम् भक्तमात्रविषयमागच् चॊल्लप्पट्टिरुन्दालुम् प्रपन्नऩुक्कुम् सिलविडत्तिल् अदु उपजीव्यमॆऩ्गिऱार् सर्वधर्मान्परित्यज्य ऎऩ्गिऱविडत्तिलित्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इब् बुद्धि-विशेषम्  
+स्व-तन्त्र--प्रपत्ति-निष्ठऩुक्कु प्रपत्त्य्-अनुष्ठान-कालत्तिलुम्,  
+पिऩ्बु स्वयं-प्रयोजनम् आय् उपायत्तोडु तुवक्क्-अऱ्ऱ उत्तर-कृत्यत्तिल् उपजीव्यम्।+++(4)+++
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं बुद्धि-विशेषः  
+स्व-तन्त्र-प्रपत्ति-निष्ठस्य प्रपत्य्-अनुष्ठानकाले,  
+पश्चात् स्वयं-प्रयोजने उपायासंबद्धे उत्तर-कृत्ये ऽप्य् उपजीव्यः ।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+This form of thought should be borne in mind  
+by the man who has adopted prapatti as a direct and independent upāya,  
+at the time of the performance of prapatti  
+and also in his further actions (after prapatti),  
+which are ends in themselves  
+and have no relation of any kind to an upāya. 
+</details>
+
+<details><summary>Español</summary>
+
+Esta forma de **pensamiento** debe **tener** en cuenta  
+por el hombre que **ha adoptado** a Prapatti como un upāya directo e independiente,  
+En el momento del **rendimiento** de Prapatti  
+y también en sus otras **acciones** (después de Prapatti),
+que **son** objetivos en sí mismos  
+y **no tienen relación** de ningún tipo con un upāya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इब् बुद्धिविशेषम् स्वतन्त्रप्रपत्तिनिष्ठऩुक्कु प्रपत्त्यनुष्ठानकालत्तिलुम् पिऩ्बु स्वयंप्रयोजनमायुपायत्तोडु तुवक्कऱ्ऱ उत्तरकृत्यत्तिलुपजीव्यम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रपत्त्यनुष्ठानकालत्तिलुमिति । 
+
+> ‘‘स्वामी स्वशेषं स्ववशं  
+स्वभरत्वेन निर्भरम् ।  
+स्व-दत्त--स्व-धिया स्वार्थं  
+स्वस्मिन् न्यस्यति मां स्वयम्॥’’
+
+ऎऩ्गिऱव् अध्यवसायम् वेण्डुमॆऩ्ऱबडि।  
+</details>
+
+
+#### प्रपत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वितीय-योजनैयिल् 
+
+> अल्प-शक्तिय् आय्  
+विळम्बाक्षमऩ् आऩव् अऩुक्कु दुष्करम् आय्  
+चिर-काल-साध्यम् आऩ उपायान्तरत्तैप् पार्त्तु  
+शोकम् पिऱक्क,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ द्वितीय-योजनायाम् 
+ 
+ > अल्प-शक्तेर् विलम्बाक्षमस्य दुष्-कर--चिर-काल-साध्योपायान्तर-दर्शनेन शोके जाते  
+</details>
+
+
+<details><summary>English</summary>
+
+In the second interpretation given of those words (by the author of of the Bhāṣya), 
+
+> they mean that  
+when the man of poor ability who cannot brook any delay in the attainment of mukti  
+falls into grief or despair  
+at the thought of all the dharmas or rites prescribed in the śāstras and his inability to perform them,  
+</details>
+
+<details><summary>Español</summary>
+
+En la segunda interpretación **dada** de esas palabras (por el autor de los bhāṣya), 
+
+> **significan** que  
+Cuando el hombre de pobre capacidad que **no puede tolerar** cualquier **retraso** en el **logro** de Mukti  
+**cae** en dolor o desesperación  
+al **pensar** en todos los dharmas o ritos **prescritos** en los Śāstras y su incapacidad para **realizarlos**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+द्वितीययोजनैयिल् अल्पशक्तियाय् विळम्बाक्षमऩाऩवऩुक्कु दुष्करमाय् चिरकालसाध्यमाऩ उपायान्तरत्तैप् पार्त्तुशोकम् पिऱक्क,
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रसङ्गात् द्वितीययोजनैयैयुम् काट्टुगिऱार् द्वितीययोजनैयिलित्यादिना । उपायान्तरत्तैप् पार्त्तु शोकम् पिऱक्क इति । 
+
+> ‘‘मन्मना भव मद्भक्तो  
+मद्याजी मां नमस्कुरु॥’’ 
+
+ऎऩ्गिऱ श्लोकत्तिल् सॊऩ्ऩ दुष्कर-चिर-काल-साध्यम् आऩ भक्तियोगत्तै पर्यालोचित्तु,  
+अदावदु भक्तियोगोत्पत्तिक्कु विरेधिकळाऩ पापङ्गळनन्तङ्गळाच्चुदे;  
+अवैगळै प्रायश्चित्तङ्गळाले पोक्क् अडित्तुक् कॊळ्ळुवोम् ऎऩ्ऱाल्  
+अवैगळ् कृच्छ्रचान्द्रायणकूश्माण्डादिरूपेण अनन्तङ्गळाय् चिरकालसाध्यङ्गळाच्चुदे ऎऩ्ऱु पर्यालोचित्तु शोकम् पिऱक्क ऎऩ्ऱबडि।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अवऩ्-उडैय शोकापनोदनार्थम् आग  
+सुकरम् आय् सकृत्-कर्तव्यमुम् आऩ उपायान्तरत्तै विधित्तद् आक्कि  
+> 
+> > नी उपायान्तरत्तिल् अलैय वेण्डाव्  
+> 
+> ऎऩ्गिऱद् 
+
+ऎऩ्ऱ् अरुळिच् चॆय्दार्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तच्-छोकापनोदनार्थं "सुकरं सकृत्-कर्तव्यम् उपायान्तरं विधीयत" इति कृत्वा  
+>
+> > त्वयोपायान्तरेषु न परिभ्रमितव्यम् 
+>
+> इति प्रतिपाद्यत 
+
+इत्य् अनुजग्राह । 
+</details>
+
+
+<details><summary>English</summary>
+
+> the Lord, in order to dispel his despair,  
+ordained another means  
+which is easy of performance  
+and has to be adopted only once  
+and said:   
+>
+> > "You need not go about seeking other upāyas"  
+</details>
+
+<details><summary>Español</summary>
+
+> El Señor, para **disipar** su desesperación,  
+**ordenado** otro medio  
+que **es** fácil de **rendimiento**  
+y **tiene** que **ser adoptado** solo una vez  
+y **dijo**:  
+>
+>> "**No necesitas buscar** otros upāyas"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवऩुडैय शोकापनोदनार्थमाग सुकरमाय् सकृत्कर्तव्यमुमाऩ उपायान्तरत्तै विधित्तदाक्कि नी उपायान्तरत्तिललैयवेण्डा वॆऩ्गिऱतॆऩ्ऱरुळिच् चॆय्दार्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अवऩुडैय शोकापनोदनार्थमाग - उपायविरोधिपापनिवर्तकप्रायश्चित्तत्तिऩ् बाहुळ्यचिरकालसाध्यत्वप्रयुक्तमाऩ अर्जुनऩुडैय शोकम् पोगुगैक्काग, सुकरमाय् सकृत्कर्तव्यमुमाऩ उपायान्तरत्तै विधित्तदाक्कि - तत्तत्प्रायश्चित्तस्थानत्तिले भगवाऩै निवेशिक्कैयागिऱ अङ्गप्रपत्तियै सर्वधर्मान् ऎऩ्गिऱ पूर्वार्धत्तिल् विधित्तदागच् चॆय्दु, नी उपायान्तरत्तिललैयवेण्डावॆऩ्गिऱत् ऎऩ्ऱरुळिच्चॆय्दारिति । नी, चिरकालसाध्यमाय् विघ्नबहुळमाऩ प्रायश्चित्तरूपोपायान्तरङ्गळिले कष्टप्पडवेण्डामॆऩ्ऱ् अरुळिच् चॆय्दारॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् प्रपत्त्य्-अनुष्ठानत्तुक्कु पूर्वावस्थैयिल् उपायान्तरानन्वयम्  
+दैवाद् आगतम् आय्  
+प्रपत्त्य्-अधिकारत्तिले सॊरुगक्+++(=निवेशं)+++ कडवदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य प्रपत्त्य्-अनुष्ठानस्य पूर्वावस्थायाम् उपायान्तरानन्वयो दैवाद् आगतो  
+(ऽस्याः प्रपत्तेर् अधिकारे निविशते।)  
+</details>
+
+
+<details><summary>English</summary>
+
+The prapanna should note that  
+in order that one may be competent for prapatti,  
+the absence of adoption of any other upāya before its performance is a requisite  
+which has been present of its own accord 
+by the grace of God. 
+</details>
+
+<details><summary>Español</summary>
+
+La Prapanna debe **tener** en cuenta que  
+Para que uno **pueda ser competente** para Prapatti,  
+La **ausencia** de **adopción** de cualquier otro upāya  
+antes de su **desempeño es** un **requisito**  
+que ha **estado presente** por su propia cuenta  
+por la gracia de Dios.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् प्रपत्त्यनुष्ठानत्तुक्कु पूर्वावस्थैयिलुपायान्तरानन्वयम् दैवादागतमाय् प्रपत्त्यधिकारत्तिले सॊरुगक्कडवदु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अशक्तऩाऩ इवऩुक्कु प्रायश्चित्तरूपोपायान्तरानन्वयम् प्रपत्तिक्कु मुऩ्बुम् पिऩ्बुम् वेण्डुमॆऩ्गिऱार् इप् प्रपत्त्यनुष्ठानत्तुक्कु इत्यादिना । मुऩ्बु वरुम् उपायान्तरान्वयत्तिऱ्कु हेतुवैयुम् प्रयोजनत्तैयुमरुळिच्चॆय्गिऱार् दैवादागतमाय् प्रपत्त्यधिकारत्तिले सॊरुगक्कडवदु इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्तरावस्थैयिल् उपायान्तरानन्वयं  
+शास्त्राद् आगतम् आय्  
+इप् प्रपत्तियिऩ्-उडैय नैरपेक्ष्यत्तिले निऱ्कक् कडवदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(उत्तरावस्थायाम् उपायान्तरानन्वयः  
+शास्त्राद् आगतः सन्,)  
+अस्याः प्रपत्तेर् नैरपेक्ष्ये निविशते।  
+</details>
+
+
+<details><summary>English</summary>
+
+In regard to actions after the performance of prapatti,  
+this giving up of the adoption of other upāyas  
+is insisted on in the śāstra itself  
+and this shows how prapatti does not require any aid (after it is once done).
+</details>
+
+<details><summary>Español</summary>
+
+Con respecto a las **acciones** después del **rendimiento** de Prapatti,  
+Este **renuncia** a la **adopción** de otros upāyas  
+está **insistido** en el Śāstra en sí mismo  
+Y esto **muestra** cómo Prapatti **no requiere** ninguna **ayuda** (después de que alguna vez **esté hecha**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+उत्तरावस्थैयिलुपायान्तरानन्वयम् शास्त्रादागतमायिप् प्रपत्तियिऩुडैय नैरपेक्ष्यत्तिले निऱ्कक्कडवदु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पिऩ्बुवरुम् तदनन्वयत्तिऱ्कु हेतुवैयुम् प्रयोजनत्तैयुम् काट्टुगिऱार् शास्त्रादागतमायिप् प्रपत्तियिऩुडैय नैरपेक्ष्यत्तिले निऱ्कक् कडवदु इति । ‘‘मामेकं’’ ऎऩ्गिऱ शास्त्रत्ताले अवगतमाय्क्कॊण्डु प्रपत्तियिऩुडैय निरपेक्षतायां हेतुवामॆऩ्ऱबडि। 
+</details>
+
+
+##### परित्यज्य
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘परित्यज्य’’ ऎऩ्गिऱव् इदु अनुवादम् ऎऩ्बार्क्कु  
+
+> अधिकारञ् जॊल्लुगिऱद् 
+
+ऎऩ्ऱु तात्पर्यम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> परित्यज्येत्य् अयम् अनुवाद 
+
+इति वदताम् 
+
+> 'अधिकार उच्यते' 
+
+इत्य्-अत्र तात्पर्यम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+If the word parityajya (having given up) merely states what has, on account of inability, already occurred  
+(and not what is enjoined),  
+the meaning (of the first part of the carama śloka) would be that  
+this - having given up - is a qualification for prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+Si la palabra parityajya (**habiendo renunciado**) simplemente **establece** lo que, debido a la incapacidad, **ya ocurrió**  
+(y no lo que **se ordena**),  
+El **significado** (de la primera parte del carama śloka) sería que  
+Esto, **habiendo renunciado, es** una calificación para Prapatti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘परित्यज्य’’ ऎऩ्गिऱविदु अनुवादमॆऩ्बार्क्कु अधिकारञ्जॊल्लुगिऱ तॆऩ्ऱु तात्पर्यम्। 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द अधिकारमुम्, नैरपेक्ष्यमुम् परित्यज्य ऎऩ्गिऱ ल्यबन्तत्तिऩुडैय योजनाभेदत्ताले सिद्धमॆऩ्गिऱार् परित्यज्येत्यादिना । अनुवादमॆऩ्बार्क्कु - वर्तमानः ऎऩ्गिऱ पदत्तै अध्याहरित्तु परित्यज्य वर्तमानः ऎऩ्ऱन्वयित्ताल्, परित्यज्य ऎऩ्बदु अनुवादमामॆऩ्ऱु सॊल्लुवार्क्कु, अधिकारम् सॊल्लुगिऱदॆऩ्ऱु तात्पर्यमिति । सर्वधर्मपरित्यागस्वरूपमाऩ आकिञ्चन्यरूपाधिकारम् सॊल्लुगिऱदॆऩ्ऱु तात्पर्यमॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++("परित्यज्ये"ति)+++ विधिय् ऎऩ्बार्क्कु  
+
+> प्रपत्तिय् आगिऱ उपायत्तिऩ्-उडैय नैरपेक्ष्यादिगळैच् चॊल्लुगिऱद्  
+
+ऎऩ्ऱु तात्पर्यम्॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+विधिर् इति वदतां  
+
+> प्रपत्ति-रूपोपायस्य नैरपेक्ष्यादीनि प्रतिपाद्यन्त  
+
+इत्य्-अत्र तात्पर्यम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+If, on the other hand, the words (having given up) state what is ordained or enjoined to be done,  
+then the meaning would be that  
+prapatti does not require anything else to be performed. 
+</details>
+
+<details><summary>Español</summary>
+
+Si, por otro lado, las palabras (que **habían renunciado**) **indican** lo que **se ordena** que **se haga**,  
+entonces el **significado** sería que  
+Prapatti **no requiere** que **se realice** nada más.
+</details>
+
+<details><summary>मूलम्</summary>
+
+विधियॆऩ्बार्क्कु प्रपत्तियागिऱ उपायत्तिऩुडैयनैरपेक्ष्यादिगळैच् चॊल्लुगिऱदॆऩ्ऱु तात्पर्यम्॥
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+विधियॆऩ्बार्क्कित्यादि । परित्यागविशिष्टशरणवरणत्तिले विधियागैयाल् विशेषणांशत्तिलुम् विधियॆऩ्ऱु सॊल्लुवार्क्कु, प्रपत्तियागिऱ उपायत्तिऩुडैय नैरपेक्ष्यादिगळैच् चॊल्लुगिऱदॆऩ्ऱु तात्पर्यमिति । इरण्डु प्रकारत्तालुम् स्वरूपत्यागविधिप्रसङ्गमिल्लै यॆऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि ‘‘परित्यज्य’’ ऎऩ्गिऱव् इडत्तिल्  
+अधिकारम् विवक्षितम् आऩाल्  
+‘‘माम् एकं’’ ऎऩ्गिऱव् इडत्तिले  
+नैरपेक्ष्यम् अनुसन्धिक्कप् प्राप्तम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं परित्यज्येत्य्-अत्राधिकारस्य विवक्षितत्वे  
+"माम् एकम्" इत्यत्र नैरपेक्ष्यम् अनुसन्धेयम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+Thus, if parityajya (having given up) merely states what has already taken place or what has already occurred,  
+the words "mām ekam" will have to be thought of as meaning that  
+nothing else (than Bhagavān) is required for the attainment of the desired end. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, si Parityajya (**habiendo renunciado**) simplemente **establece** lo que ya **ha ocurrido**,
+Las palabras "mām ekam" **deberán considerarse** como un **significado** de que  
+**No se requiere** nada más (que Bhagavān) para el **logro** del fin **deseado**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि ‘‘परित्यज्य’’ ऎऩ्गिऱविडत्तिलधिकारम् विवक्षितमाऩाल् ‘‘मामेकं’’ ऎऩ्गिऱविडत्तिले नैरपेक्ष्यम् अनुसन्धिक्कप् प्राप्तम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि अधिकारमुम् नैरपेक्ष्यमुम् सॊल्ल वेण्डुगैयाल् परित्यज्य ऎऩ्बदिल् अन्यतरम् सिद्धमागुम्बोदु मऱ्ऱॊऩ्ऱु सिद्धिक्कुमिडत्तैक् काट्टुगिऱार् इप्पडि ‘‘परित्यज्य’’ ऎऩ्गिऱ विडत्तिलित्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘परित्यज्य’’ ऎऩ्ऱु नैरपेक्ष्यम् विवक्षितम् आऩाल्  
+‘‘मा शुचः’’ ऎऩ्गिऱ शोक-निषेधत्ताले  
+अकिञ्चनऩ् आय् निऱ्किऱ निलै तोऱ्ऱुगैयाले  
+अधिकारमुम् अर्थ-सिद्धम् आगक् कडवदु।   
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+परित्यज्येत्य्-अत्र नैरपेक्ष्यस्य विवक्षितत्वे  
+"मा शुचः" इति शोक-निषेधेन  
++अकिञ्चन-तथाऽवस्थितेः प्रतीत्या  
+अधिकारोऽर्थ-सिद्धो भवति ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+If, on the other hand parityajya means that prapatti requires nothing else for yielding its fruit,  
+the words, "mã suchah" (do not grieve), show, by the force of logic or meaning,  
+that the grief or despair which is a mark of being destitute of other means is what is required for competency for praputti (adhikāra;)
+
+(
+To the man or adhikārī who grieves at his inability to adopt the dharmas or aṅgas enjoined for bhakti yoga,  
+the Carama Śloka says,  
+
+> “Perform prapatti to me and you need not adopt any other dharma".
+
+)
+</details>
+
+<details><summary>Español</summary>
+
+Si, por otro lado, Parityajya **significa** que Prapatti **no requiere** nada más para **producir** su fruto,  
+Las palabras, "Má Suchah" (**no lloren**), **muestre**, por la fuerza de la lógica o el significado,  
+Que el dolor o la desesperación que **es** una marca de **ser** indigente de otros medios  
+**es** lo que **se requiere** para la competencia para Praputti (adhikāra;)
+
+(
+Al hombre o adhikārī que **se aflige** por su incapacidad para **adoptar** los dharmas o aṅgas orientados a Bhakti Yoga,  
+el carama Śloka **dice**:
+
+> "**Realiza** Prapatti para mí  
+y **no necesitas adoptar** ningún otro dharma".
+
+)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘परित्यज्य’’ ऎऩ्ऱु नैरपेक्ष्यम् विवक्षितमाऩाल् ‘‘मा शुचः’’ ऎऩ्गिऱ शोकनिषेधत्ताले अकिञ्चनऩाय् निऱ्किऱ निलै तोऱ्ऱुगैयाले अधिकारमुमर्थसिद्धमागक्कडवदु।   
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि परित्यज्य ऎऩ्बदिल् अधिकारम् विवक्षितमागुम्बोदु एकशब्दत्ताले नैरपेक्ष्यम् सिद्धित्तालुम्  
+परित्यज्य ऎऩ्बदिल् नैरपेक्ष्यम् विवक्षितमाम्बोदु अधिकारम् सिद्धिक्कुम्बडि यॆङ्ङऩे यॆऩ्ऩ? अधिकारम् सिद्धिक्कुम् वऴियैक् काट्टुगिऱार् ‘‘परित्यज्य’’ ऎऩ्ऱु नैरपेक्ष्यम् विवक्षितमाऩालिति ।   
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-प्रकृतोपासन न्यायात्तदङ्गानामुपस्थितौ । अन्येषाञ्चैतदङ्गत्व त्यागोऽत्र प्रतिपाद्यते ॥
+अप्पोदु 
+
+प्रकृतोपासन-न्यायात्  
+तद्+++(→उपासना)+++-अङ्गानाम्+++(←वर्णाश्रमधर्मादि)+++ **उपस्थितौ** ।  
++++(आनुकूल्यसङ्कल्पादेर्)+++ अन्येषाञ् चैतद्-अङ्गत्व-  
+त्यागोऽत्र +++(←"परित्यज्य")+++ **प्रतिपाद्यते** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तदा--- 
+
+प्रकृतोपासन-न्यायात्  
+तद्-अङ्गानाम् उपस्थितौ ।  
+अन्येषाञ् चैतद्-अङ्गत्व-  
+त्यागोऽत्र प्रतिपाद्यते ॥
+</details>
+
+<details><summary>English</summary>
+
+If prapatti stands in the place of bhakti or upāsana as one of the Brahma Vidyās,  
+then the question arises  
+whether the aṅgas of bhakti might be considered as the aṅgas of prapatti as well.  
+But, in prapatti, they are not required as aṅgas.  
+This is indicated by the word parityajya ~~mām and ekam~~.
+</details>
+
+<details><summary>Español</summary>
+
+Si Prapatti **se encuentra** en el lugar de Bhakti o Upāsana como uno de los Brahma Vidyās,  
+Entonces **surge** la pregunta  
+Si las AṅGas de Bhakti también **podrían considerarse** como las AṅGas de Prapatti.  
+Pero, en Prapatti, **no se requieren** como AṅGas.
+Esto **se indica** por la palabra parityajya.
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-प्रकृतोपासन न्यायात्तदङ्गानामुपस्थितौ । अन्येषाञ्चैतदङ्गत्व त्यागोऽत्र प्रतिपाद्यते ॥
+अप्पोदु  
+प्रकृतोपासनन्यायात्तदङ्गानामुपस्थितौ । अन्येषाञ्चैतदङ्गत्वत्यागोऽत्र प्रतिपाद्यते ॥
 </details>
 
-If prapatti stands in the place of bhakti or upāsana as one of the Brahma Vidyās, then the question arises whether the aṅgas of bhakti might be considered as the aṅgas of prapatti as well. But, in prapatti, they are not required as aṅgas. This is indicated by the words mām and ekam.
 
-(If the word, parityajya, makes an injunction that other things should not be considered as aṅgas for prapatti, and if the words (māsuchan) (do not grieve or despair) show that the previous grief or despair is qualification for prapatti (ākiñcanya), then, where is the appropriateness of the word ekam (it may be asked ). The answer is :- the word ekam is intended to show that in the mental or sāttvika renunciation of action by sattvam, it should be borne in mind that the jīva's doership is all dependent on the Lord and other such things, that in prapatti, the means (upāya) and the end are one and the same (viz., the Lord) and that prapatti stands in the place of all (other) upāyas.
 
-Our acharyās like (Appallar) have argued thus:
+(If the word, parityajya, makes an injunction that other things should not be considered as aṅgas for prapatti,  
+and if the words (mā suchaH) (do not grieve or despair) show that the previous grief or despair is qualification for prapatti (ākiñcanya),  
+then, where is the appropriateness of the word ekam (it may be asked ).  
+The answer is :-  
+the word ekam is intended to show that in the mental or sāttvika renunciation of action by sattvam,  
+it should be borne in mind  
+that the jīva's doership is all dependent on the Lord and other such things,  
+that in prapatti, the means (upāya) and the end are one and the same (viz., the Lord)  
+and that prapatti stands in the place of all (other) upāyas.
+
+Our acharyās like (Appullar) have argued thus:
 
 Since nitya and naimittika karma are enjoined on a man (irrespective of all fruit or gain that might arise from it) simply by virtue of his being a servant of the Lord, they should not be given up, lest he should be violating the command of the Master, (although they may not be required as aṅgas for prapatti).
 
@@ -5807,9 +9314,7 @@ When prapatti is remembered, the thought will arise that sins committed in ignor
 
 The activities of the man who performed prapatti ( at first) praying that he should be sinless and of the man who performed a further prapatti in order that his later life may be free from sin will invariably be free from sin.
 
-PRĀYASCHITTA FOR DELIBERATE OFFENCES
-
-IS ABSOLUTELY NECESSARY:
+PRĀYASCHITTA FOR DELIBERATE OFFENCES IS ABSOLUTELY NECESSARY:
 
 Some may say, in (utter) disregard of texts to the contrary, that (even ) the offences committed deliberately by the prapanna would be pardoned, their opinion being based on certain incidents in the Itihāsas and the Purāṇas. This contention, too, arises from an ignorance of the real opinions in the respective contexts. (For instance) when Sugrīva transgressed the time fixed by him for carrying out the terms of the alliance, the offence caused the appearance of great grief in Śrī Rāma's mind and he said, "The way in which Vālin was slain is not yet closed. Abide by the terms of the agreement, O Sugrīva. Do not go the way of Vālin." On hearing these words, Lakṣmaṇa became so angry that the Lord had to bring down his wrath. He went to Sugrīva (to denounce him). On that occasion, did not (Hanuman), the scholar versed in the science of Indra's grammer, counsel Sugrīva as follows:- "I do not see any other means for you, the offender, to escape from this situation except by begging the pardon of Lakṣmaṇa with folded hands". Sugrīva, too, accepted this advice and said to Lakṣman. "If out of over-confidence or out of affection, I have transgressed in any way, pray, let the offence of your servant be pardoned". And Lakṣmaṇa too, had to seek Sugrīva's pardon for overstepping the proper bounds of speech by
 

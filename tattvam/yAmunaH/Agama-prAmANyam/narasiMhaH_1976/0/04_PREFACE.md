@@ -1,0 +1,36 @@
++++
+title = "04 PREFACE"
+
++++
+[[P12]]
+The Āgamaprāmāṇya of Śrī Yāmunācārya, the great predecessor and grand- teacher of Rāmānuja, occupies an important place in the Viśiṣṭādvaita literature. It is devoted to the establishment of the Vedic character of the Pāñcarātra litera- ture which forms one of the two main branches of the Śrīvaiṣṇava religion, the other one being the Vaikhānasa. The Pāñcarātra literature was once the target of severe criticism by the Mīmāṃsakas that preceded Yāmuna. This refutation became more pronounced when the great Śaṅkara in his commentary on the Brahmasūtra, questioned the philosophical basis of these texts. It is in reply to all these doubts and criticisms that loomed large in the field that Yāmuna wrote the *Āgama-prāmāṇya*. Here he took up the question of the Pāñcarātra being as valid as the Vedas themselves. Though short, this is perhaps the only early work solely devoted to this question. Here he answered the charges levelled by the Mīmāṃsakas as well as the Advaitins against the Pāñcarātra and tried to estab- lish that the Bhāgavata religion, as it is also known, was authoritative in theory and practice. But even this masterly work of Yāmuna could not completely dispel the doubts in the field, as is shown by the emergence of two late works in support of the Āgamaprāmāṇya, viz., the *Tantra-śuddha* of Bhaṭṭāraka Vedottama and the *Pāñcarātra-kaṇṭakoddhāra* [^12_1] of Vādhūla Varadācārya. There was of course, the far better known *Pāñcarātra-rakṣā* of the great Vedānta Deśika.
+
+Yāmuna’s defence of the Pāñcarātra formed the basis and the main content of Rāmānuja’s explanation of the *Utpattyasambhavā*-section of the *Brahmasūtra*. It is the *Āgamaprāmāṇya* that refers to another work of Yāmuna, viz., the *Puruṣa-nirṇaya* which is not available now. Vedānta Deśika tells us that the sec- tion of Rāmānuja’s *Vedārtha-saṅgraha* dealing with the Supremacy of Lord Viṣṇu is based on this lost text of Yāmuna. That Yāmuna was most probably the author of another work, the *Kāśmīra-āgamaprāmāṇya*, which has also not come down to posterity, is known only through the *Āgamaprāmāṇya*. Yāmuna says that it establishes the revealed character of the *Ekāyana Śākhā* of the *Śukla* *Yajurveda* on which the *Pāñcarātra*-āgamas are claimed to have been based.
+
+The present attempt is to offer a critical edition and study of this important text, which has been a desideratum for long. This edition is the result of an examination of twelve palm-leaf manuscripts from different places. It was pre- pared by me as a stipendiary Research Scholar in the Sanskrit Department of the University of Madras during the years 1961–63, and was submitted to the Uni-
+
+---
+[^12_1]: A brief summary of this work was presented by me at the 27th Session of the AIOC,
+held at Kurukṣetra in 1974.
+
+[[P13]]
+xiv versity in February, 1964. It was the first time for *Āgamaprāmāṇya* to be sub- jected to a critical study. It is hoped that the English Introduction and expla- natory notes along with the Indexes will add to the utility of the text.
+
+It is a pleasant duty to express my deep gratitude to my revered Professor, Dr. V. Raghavan for giving me this work when I first joined the Sanskrit Depart- ment of the University as a Research Scholar in 1961. He took personal interest in me and supervised my work at all stages. He read the whole thesis and offer- ed valuable suggestions in the reconstruction and interpretation of the text. He was helpful in getting the necessary manuscripts for collation from different libraries and institutes. It is during this period that he introduced me to Dr. H. Daniel Smith, Professor of Religion, Syracuse University, New York, who was then working on a Descriptive Bibliography of the printed texts of the *Pāñcarātra*-āgamas, which work has since been printed in the Gaekwad’s Oriental Series (No. 158). This acquaintance with him was of significant help to me as I had the opportunity of going through a number of *Pāñcarātra* texts and obtain- ing a first-hand knowledge of the nature and scope of these works. It is this knowledge that facilitated my comprehension of the arguments advanced by Yāmuna in support of the precepts and practices of this school laid down in these texts.
+
+Having thus provided me with the necessary background to understand Yāmuna, my Professor then set me on the most important work, “The Contri- bution of Yāmuna to Viśiṣṭādvaita”, [^13_1] which was altogether a virgin field. Under his eminent guidance I studied all the extant works of Yāmuna and sub- mitted it as a Thesis for the Degree of Doctor of Philosophy of the University of Madras in 1966. It was awarded the Degree in 1967. For all this and for his continued interest in me and my work, I am profoundly indebted to my Professor.
+
+I will be failing in my duty if I do not express my sense of indebtedness to Tarkārṇava Paṇḍitaratna Uttamūr Śrī Vīrarāghavācāryasvāmin of Madras, who was an unfailing and inestimable source of information for me in studying the text *Āgamaprāmāṇya*. In spite of his busy schedule of daily routine he was kind enough to take me as his student. The work *Āgamaprāmāṇya* is by no means an easy text. It is full of śāstraic discussions and in several places it is difficult to follow the trend of the arguments. But for the very lucid interpretation offered by Śrī Vīrarāghavācāryasvāmin I could not have understood Yāmuna properly. The *Āgamaprāmāṇya*, like the *Siddhitraya* of Yāmuna, which also I studied under him, is not in the list of traditional texts which the Śrīvaiṣṇava scholars generally read or teach. It is for this reason that I am all the more indebted to him for the thoroughness and readiness with which he taught me these texts.
+
+---
+[^13_1]: Published by the Prof. M. Rangachary Memorial Trust, Madras, 1971.
+
+[[P14]]
+xv
+I wish to express my grateful thanks to the authorities of the M. S. Uni- versity, Baroda, and to the former Director of the Oriental Institute, Dr. B. J. Sandesara and to the Deputy Director, Dr. U. P. Shah, for including my work in the reputed Gaekwad’s Oriental Series, and also to Dr. A. N. Jani, the present Director, for looking after the completion of this work.
+
+I express my grateful thanks to the authorities of the University of Madras for having given me a scholarship for two years during 1961–63 and necessary facilities to carry on my research work in the Sanskrit Department of the Uni- versity and for the permission that they gave for publishing this work. My thanks are also due to the Curators of the following Libraries and Institutions for having permitted me to consult not only the palm-leaf manuscripts of the *Āgamaprāmāṇya* but also some rare and unpublished manuscripts of other con- nected works : The Government Oriental Manuscripts Library, Madras. The Adyar Library, Madras. Śrī Venkateswara Oriental Research Institute, Tirupati, The Oriental Institute, Baroda and the Oriental Institute, Mysore.
+
+MADRAS, 1976 M. NARASIMHACHARY
+
+[[P15]]

@@ -3,11 +3,16 @@ title = "+आगम-प्रामाण्यम्"
 
 +++
 
-Source: [TW](https://archive.org/details/agamapramanyam/page/n13/mode/1up)
+Source: [राममिश्रशास्त्री १९३७](https://archive.org/details/agamapramanyam/page/n13/mode/1up)
 
-Source: [SA EN](https://archive.org/details/AgamaPramanyamSktEng/page/7/mode/1up)
+Source: [SA EN buitenen 1971](https://archive.org/details/AgamaPramanyamSktEng/page/7/mode/1up)
+
+Source: [नरसिंहार्यः १९७६](https://archive.org/details/narasimhachary-mudumby-n.-ed.-1976.-agama-pramanya-of-yamuna-archarya/page/n7/mode/2up)
 
 Source: [EN](https://archive.org/details/yamunacharya/page/n7/mode/2up)
+
+
+
 
 <details><summary>राममिश्रशास्त्री</summary>
 
@@ -32,7 +37,7 @@ Edited by A.S.T.S.P.S.M.M. M. rāmamiśraśāstri, Professor Sanskrit College
 **आगमप्रामाण्यम् ।**   
 (श्रीपञ्चरात्र-तन्त्र-प्रामाण्य-व्यवस्थापन-परम्)
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>यामुनस्तुतिः</summary>
 
 नमोनमो यामुनाय  
 यामुनाय नमोनमः ।  

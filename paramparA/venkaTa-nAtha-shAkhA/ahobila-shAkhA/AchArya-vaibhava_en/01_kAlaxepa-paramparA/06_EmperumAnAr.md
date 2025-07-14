@@ -12,8 +12,8 @@ SeshAvatAram
 
 Periya Tirumalai Nambi, one of the SishyAs of SrI Alavandar had two sisters named BhUmi PirATTi and PeriyA PirATTi. The elder one BhUmi PirATTi was given in marriage to AsUrikula tilakar, Kesavaperumal of Sriperumbudur. The younger one, PeriyA PiraTTi was married to Kamalanayana Bhattar of Madhuramangalam village. The sisters were happily living in the villages of their respective in laws. Periya Tirumalai Nambi blessed both of them to beget meritorious boys. He d left for Tirumalai where he was performing kaimkaryam and prayers to Tiruvengadamudaiyan daily. As time went by, over one thousand years ago in the year of Pingala, Cittirai month, Sukla paksha pancami tithi when ArudrA nakshatram was in ascendance, a male child to redeem the world was born to SrI Kesavaperumal. This child was the incarnation of Adi SeshAn as ordained (niyamanam) by SrIman Narayanan.
 
-अनन्तः प्रथमंरूपं लक्ष्मणस्तु ततः परम् ।  
-बलभद्रः तृतीयस्तु कलौ कश्चिद्भविष्यति॥
+अनन्तः प्रथमं रूपं लक्ष्मणस्तु ततः परम् ।  
+बलभद्रः तृतीयस्तु कलौ कश्चिद् भविष्यति॥
 
 anantaH prathamam rUpam lakshmaNastu tataH param | balabhadraH tritIyastu kalau kaScit bhavishayati ||
 

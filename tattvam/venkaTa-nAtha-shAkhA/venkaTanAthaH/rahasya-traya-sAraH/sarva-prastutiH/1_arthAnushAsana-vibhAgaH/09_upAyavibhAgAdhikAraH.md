@@ -2603,12 +2603,11 @@ in accordance with the competency of those who adopt them.
 
 They are Brahmins who know the following :--  
 (1) Karma Yoga is suited to one's state (viz. varṇa, āśrama and the like);  
-(2) Jñāna Yoga adopted with keen intelligence on account of its beneficial results:  
+(2) Jñāna Yoga adopted with keen intelligence on account of its beneficial results;  
 (3) Bhakti Yoga adopted by those with an inner vision which is delightful and  
 (4) Prapatti which yields immediate fruit by the grace of God  
 to those who are destitute of the qualifications (for the other three )  
 and who cannot endure delay in attaining mokṣa .
-
 </details>
 
 <details><summary>Español</summary>
@@ -2620,7 +2619,6 @@ They are Brahmins who know the following :--
 (4) Prapatti which yields immediate fruit by the grace of God  
 to those who are destitute of the qualifications (for the other three )  
 and who cannot endure delay in attaining mokṣa .
-
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>

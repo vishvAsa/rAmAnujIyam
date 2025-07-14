@@ -131,35 +131,8 @@ title = "Notes"
 [223]: Karmani Lyu! Papini.
 
 ## 
-[[141]] 
-
-[228]: Vaisnava rite observed five times a day: pañcakálika.
-
-[229]: ślokavārttika, 2.6 7 ab.
-
-[230]: ib. 2.67 cd.
-
-[231]: not identified.
-
-[232]: this speaks to 108, that the independent cognition cancels the dependent cognition, if there is conflict between them. Yamuna makes the point that this is not invariably true; that neither dependence nor independence is a cause of invalidation, sapeksanira peksatve is a dual and requires the correction of karanam into kārane, If my understanding of the text is correct.
-
-[233]: namely, because it requires another cognition in order to be denied.
-
-[234]: namely, in the example of the burning lamp: is it the same flame that burns at six o'clock and at seven o'clock? We don't see the flame change or be succeeded by another flame. Only inference shows that since there is a different amount of oil in the lamp at different times, it is different oil that is burning as a flame, so that the flame is really different. The sense perception is of the varying amounts of oil.
-
-142 [235]: The Naiyayikas.
-
-[236]: Since Brahma is the creator of the world, he can know whether there were Vedas or not before creation; by taking away Brahma's memory, God in His omnipotence could start the myth of the preterpersonal origin of the Veda..
-
-[237]: not identified.
-
-[238]: not identified.
-
-[239]: 
 
 [240]: supra § 17: vedabahyagrhitatrāt. I have rendered grhito by "accepted' to cover approximately the variety of meanings that Yamuna detects in the word.
-
-[241]: Manusmrti, 8.107.
 
 ## 
 
@@ -177,23 +150,18 @@ title = "Notes"
 
 [252]: not identified.
 
-[253]: supra § 15.
+ 
 
-143 [254]: ie., is the same name used for several groups or only one? 255. The argument is: if S is P, then P is not therefore S.
 
-The example is 'parvato 'gnimin dhumavattvāt if we interchange S and P, we get parvato dhumavin agnimattvåt, but this is not true, for though there is no fireless smoke, there is smokeless fire. Similarly here: the fifth may be a sitvata or a vaidya vratya, but being the fifth does not make the sitvata a vaidya vratya, [256]: In the Manu quotation supra § 15.
 
-257, explained below, § 130.
+[256]: In the Manu quotation supra § 15.
 
-[258]: Hari has apparently a meaning 'lion. Or did Yamuna think of Nrsimha ? [259]: gauḥ can mean 'cow' and 'word." [260]: supra §15.
 
-[261]: taddhita suffix, cf. Panini.
 
-[262]: "conventionally the two words are synonymous, 'etymo logically' they have difl'erent meanings.
 
-263, Pipini.
 
-[264]: quoted supra.
+
+
 
 [265]: supra note.
 
@@ -201,7 +169,6 @@ The example is 'parvato 'gnimin dhumavattvāt if we interchange S and P, we get 
 
 [267]: not identified.
 
-[268]: For the word means etymologically "maker of chariots, carts."" [269]: not identified.
 
 [270]: By refusing to accept a rudhi meaning the authority of the Vedic statements concerning all the features of the sacrifice made by the now disqualified chariot-maker would be lost, and the authority of the statement that caste names may designate more than one caste would also be lost.
 

@@ -9,6 +9,6 @@ title = "Bhagavad utsavas"
 > - ravilochanaH 2025
 
 
-> Further comedy cum hypocrisy is this - this temple is managed by a local trustee and is not under govt HRCE. When recently samprokshanam was done, they did not have any problem in soliciting funds from vadakalais and the major contributor for the function was a vadakalai guy only as per locals of kanchi. So, it seems when it comes to money all these sampradaya fights melt away. But when it comes to perumal, namam is more important than perumal. So their hierarchy is perumal<namam<money. beautiful display of bhagavata dharma indeed.
+> Further comedy cum hypocrisy is this - this temple is managed by a local trustee and is not under govt HRCE. When recently samprokshanam was done, they did not have any problem in soliciting funds from vadakalais and the major contributor for the function was a vadakalai guy only as per locals of kanchi. So, it seems when it comes to money all these sampradaya fights melt away. But when it comes to perumal, namam is more important than perumal. So their hierarchy is perumal < namam < money. beautiful display of bhagavata dharma indeed.
 > 
 > - ravilochanaH 2025
