@@ -1547,7 +1547,7 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 उपपद्यत इत्येवं सिद्धासिद्धार्थवाचिता ॥
 </details>
 
-
+### विधिपक्षेऽप्य् आवापोद्वापक्रमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु न तद्-भाव-भाविता-मात्रेण कार्य-कारण-भावः,  
@@ -1608,37 +1608,186 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 गव्-आनयनादि-कर्तव्यताऽवगतिः शब्द-कारणिका ऽभ्युपेयते। 
 </details>
 
+<details><summary>English</summary>
+
+REFUTATION. Don't we find that the realization of a kārya is caused by a verbal statement, so that we can agree that, for example, the realization that a cow is to be fetched following a statement "Fetch the cow" is indeed caused by that statement? 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 कार्यावगतिः किं शब्द-कारणिका दृष्टा येन गाम्-आनयेत्य् आदौ गवानयनादि-कर्तव्यतावगतिः शब्द-कारणिकाऽभ्युपेयते। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ 
+
+> आकस्मिकत्वानुपपत्तेः  
+सन्निहित-शब्द एव तद्-अवगम-हेतुर् 
+
+इति चेत्  
+समानोऽयं विधिर् इतरत्रापि।
+</details>
+
+<details><summary>English</summary>
+
+When you say that, since this realization cannot occur without a cause therefore the proximate statement must in that case be the cause of the realization, then I maintain that the same holds also in the case of "A son is born."
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 अथ आकस्मिकत्वानुपपत्तेः सन्निहित-शब्द एव तद्-अवगम-हेतुर् इति चेत् समानोऽयं विधिर् इतरत्रापि।
+</details>
 
-> यापि प्रवृत्ति-हेत्व्-अर्थ-प्रतिपादकता क्वचित्।  
-> लिङादि-प्रत्ययावाप-हैतुकी साऽवसीयते॥
 
-यश् च कार्य-परताम् एवाखिल-पदानाम् आतिष्ठते, तेनाप्य्-आवापोद्धार-विनिर्द्धारितासंसृष्ट-शरीराणाम् एव गवाश्वादीनां तत्-पदार्थता समर्थनीया, समर्थ्यमानापि कार्यान्वयिन्य् एव समर्थ्यत इति चेत् अलं व्यसनेन अन्यान्विताभिधानेनापि व्य्-अवहारोपपत्तेः।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यापि प्रवृत्ति-हेत्व्-अर्थ-  
+प्रतिपादकता क्वचित्।  
+लिङ्-आदि-प्रत्ययावाप-  
+हैतुकी साऽवसीयते +++(प्रतिपक्षिणा)+++॥
+</details>
+
+<details><summary>English</summary>
+
+It has been decided by our opponent that the verbal denotation of a meaning which causes an action to be taken is a result of the inclusion in the statement of a liṅādi suffix.133 
+
+133: supra §36\.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यापि प्रवृत्ति-हेत्व्-अर्थ-प्रतिपादकता क्वचित्।  
+लिङादि-प्रत्ययावाप-हैतुकी साऽवसीयते॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यश् च कार्य-परताम् एवाखिल-पदानाम् आतिष्ठते, 
+</details>
+
+<details><summary>English</summary>
+
+He who maintains that all words only bear meaningfully on kārya, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यश् च कार्य-परताम् एवाखिल-पदानाम् आतिष्ठते, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेनाप्य्-आवापोद्धार-विनिर्धारितासंसृष्ट-शरीराणाम् एव गवाश्वादीनां तत्-पदार्थता समर्थनीया, 
+</details>
+
+<details><summary>English</summary>
+
+maintains in effect that padārthas134 exist only in kārya statements and that e.g. in the case of cows, horses and the like, which are related to bodies, their being a padārtha is ascertained by the inclusion or exclusion of the words denoting them in a statement concerning kārya. 
+
+134: The things-meant or denoted by the word,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तेनाप्य्-आवापोद्धार-विनिर्धारितासंसृष्ट-शरीराणाम् एव गवाश्वादीनां तत्-पदार्थता समर्थनीया, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> समर्थ्यमाना ऽपि कार्यान्वयिन्य् एव समर्थ्यत 
+
+इति चेत्  
+अलं व्यसनेन -  
+अन्यान्विताभिधानेनापि व्यवहारोपपत्तेः।
+</details>
+
+<details><summary>English</summary>
+
+If he says, indeed, whenever their being a padārtha is significantly construed, it is construed just as connected with kārya, we reply,  
+Stop being obstinate; for verbal exchange is also possible through denotation of words that are connected with other things than kāryas.135
+</details>
+
+<details><summary>English - Note</summary>
+
+135: Yāmuna's argument is that the injunctive, etc. terminations of the verb denote the injunction as their thing-meant (padārtha); but what makes this injunction 'meaningful' is not that it is an injunction,  
+but that it is connected with someone who is qualified to accept the injunction,  
+e.g., in the injunction svargakāmo yajeta.  
+The injunctive yajña has no meaning or purpose unless there is a "desire for heaven;"  
+the meaning of the injunction thus is connected with the consequence of this desire of heaven,  
+namely, that somebody who has this desire is prepared to do something about it.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+समर्थ्यमानापि कार्यान्वयिन्य् एव समर्थ्यत इति चेत् अलं व्यसनेन अन्यान्विताभिधानेनापि व्यवहारोपपत्तेः।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवश्याश्रयणीयेयम्  
+अन्वितार्थाभिधायिता।  
+कार्यान्विताभिधायित्वम्  
+अन्यथा दुर्-वचं यतः॥
+</details>
+
+<details><summary>English</summary>
+
+63\. It is necessary to accept the position that words are denotative of connected meanings, for otherwise it would be impossible to explain that they are denotative of meanings connected with kāryas. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 > अवश्याश्रयणीयेयम् अन्वितार्थाभिधायिता।  
 > कार्यान्विताभिधायित्वम् अन्यथा दुर्-वचं यतः॥
+</details>
 
-अव्याप्तञ्चैतत् कार्यान्वितमेव सर्वत्र पदाभिधेयमिति लिङादिषु व्यभिचारात्, लिङादयो हि परिनिष्ठिताधिकाराद्यनुबन्धसंबन्धिनमेव स्वार्थमभिदधति ।  
-अथ तेष्वान्विताभिधानमितरत्र कार्यान्विताभिधानमिति चेत् तदर्द्धजरतीयम्,  ततो वरं सर्वत्रान्विताभिधानमेवाश्रीयताम् ।  
-तस्मादाकाङ्क्षितासन्नयोग्यार्थान्तरसङ्गतेः ।  
-स्वार्थे पदानां व्युत्पत्तिरास्थेया सर्ववादिभिः ॥  
-यद्यपि प्रवृत्त्यनुपपत्तिसमधिगमनीयैव शब्दशक्तिस्तथाऽपि ।  
-तटस्थोपायतामात्रं शब्दशक्तिविनिश्चये ।  
-कार्यस्याश्रयितुं युक्तं प्रयोक्त्राकाशदेशवत् ॥  
-अनन्यलभ्यश्शब्दार्थ इति न्यायविदस्स्थिताः ।  
-तस्मान्नोपायभूतस्य कार्यस्यास्ति समन्वयः ॥  
-व्युत्पन्नव्यवहारेषु पयःप्रतरणादिवत् ।  
-यथैव हि ब्रह्मजातीयादिवज्रविशेषावधारणोपयोगिनोऽपि पयःप्रतरणादेरवधृतरत्नसत्त्वस्य न व्यवहारदशायामुपयोगः, एवं व्युत्पत्तिग्रहणसमयसमुपयुक्तस्यापि कार्यस्य न व्युत्पन्नदशायामुपयोगः ॥  
-यदि च कार्यान्वितमेवार्थं शब्दाः प्रतिपादयन्ति कथं तेभ्यः परिनिष्ठितनदीतारफलादिसंसर्गावगमः, नायं मुख्यो लाक्षणिक इति चेत् क्व वा शब्दानां मुख्यप्रयोगः ।  
-मानान्तरापूर्वे कार्य इति चेन्न तत्राव्युत्पन्नत्वेन प्रयोगानुपपत्तेः ।  
-न हि मानान्तरापूर्वे व्युत्पत्तिरुपपद्यते ।  
-न चाव्युत्पन्नशब्देभ्यः प्रत्ययोऽतिप्रसङ्गतः ॥
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्याप्तञ् चैतत् कार्यान्वितमेव सर्वत्र पदाभिधेयमिति लिङादिषु व्यभिचारात्, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अव्याप्तञ्चैतत् कार्यान्वितमेव सर्वत्र पदाभिधेयमिति लिङादिषु व्यभिचारात्, 
+</details>
+
+अव्याप्तञ्चैतत् कार्यान्वितम् एव सर्वत्र पदाभिधेयम् इति लिङ्-आदिषु व्यभिचारात्, लिङादयो हि परिनिष्ठिताधिकाराद्य्-अनुबन्ध-संबन्धिनम् एव स्वार्थम् अभिदधति ।
+
+अथ तेष्व् आन्विताभिधानम् इतरत्र कार्यान्विताभिधानम् इति चेत् तद्-अर्द्धजरतीयम्, ततो वरं सर्वत्रान्विताभिधानम् एवाश्रीयताम् ।
+
+> तस्माद् आकाङ्क्षितासन्नयोग्यार्थान्तरसङ्गतेः ।  
+> स्वार्थे पदानां व्युत्पत्तिर् आस्थेया सर्ववादिभिः ॥
+
+यद्य् अपि प्रवृत्त्य्-अनुपपत्ति-समधिगमनीयैव शब्दशक्तिस् तथाऽपि ।
+
+> तटस्थोपायतामात्रं शब्द-शक्ति-विनिश्चये ।  
+> कार्यस्याश्रयितुं युक्तं प्रयोक्त्र्-आकाश-देशवत् ॥
+>
+> अनन्यलभ्यश् शब्दार्थ इति न्यायविदस् स्थिताः ।  
+> तस्मान् नोपायभूतस्य कार्यस्यास्ति समन्वयः ॥
+
+व्युत्पन्न-व्यवहारेषु पयः प्रतरणादिवत् ।
+
+यथैव हि ब्रह्मजातीयादिवज्रविशेषावधारणोपयोगिनोऽपि पयः प्रतरणादेर् अवधृत-रत्न-सत्त्वस्य न व्यवहारदशायाम् उपयोगः, एवं व्युत्पत्ति-ग्रहण-समय-समुपयुक्तस्यापि कार्यस्य न व्युत्पन्नदशायाम् उपयोगः ॥
+
+यदि च कार्यान्वितम् एवार्थं शब्दाः प्रतिपादयन्ति कथं तेभ्यः परिनिष्ठित-नदी-तार-फलादिसंसर्गावगमः, नायं मुख्यो लाक्षणिक इति चेत् क्व वा शब्दानां मुख्य-प्रयोगः ।
+
+मानान्तरापूर्वे कार्य इति चेन् न तत्राव्युत्पन्नत्वेन प्रयोगानुपपत्तेः ।
+
+> न हि मानान्तरापूर्वे व्युत्पत्तिर् उपपद्यते ।  
+> न चाव्युत्पन्न-शब्देभ्यः प्रत्ययोऽतिप्रसङ्गतः ॥
 
 योऽपि मन्यते लोके किर्याकार्ये व्युत्पन्नशब्दः फलपदसमभिव्याहारबलप्रतिलब्धतत्साधनभावभङ्गुरयाग् आदिधात्वर्थोत्तीर्णापूर्वकार्याभिधानशक्तिर्वेदे मोदते, लोके तु सं (सममुग्धेनेति पा. ।)मुग्धेनापि व्यवहारोपपत्तेर्न शब्दार्थतत्त्वावधारणमाद्रियते इति ।  
 तस्यापीदं मनोरथमात्रम्,  न हि क्रियाकार्ये व्युत्पन्नस्थायिकार्यं प्रतिपादयति अतिप्रसङ्गात् ।  
