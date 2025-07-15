@@ -4236,6466 +4236,1873 @@ x⁴ अग्निहोत्रं जुहोति⁵-ति विधि
 
 ---
 
+[ आगम-प्रामाण्य-भावनिरूपणम् ]
 
+न आगमः सत्-समग्र-सम्यङ्-सिद्ध¹-क्रिया-कलाप-कृत-योग-नोप-स्थापन²-परः परिदृश्यते, येन तत्-मूलतया³ पञ्चरात्र-तन्त्रम्ः प्रमाणं स्युः ।  
+न च-अदृश्यमाने ऽपि अनुमान-गोचरः ।[^172_star] *अथैव हि⁴ तद् अत्र सिद्धादि-साधन-रत्न-फल-निष्पत्तौ⁵ स्वर्ग-आदि-साध्य-साधन-भावो न-अनुमान-गोचरः सम्य-ग्-व्यापारणा-विरहात्, एवं तत्-मूलताम् अपि⁶ऽपि तत्र एव तत्-सामर्थ्यं शक्यः ।
 
-## ??
-श्रीः 
-श्रीमयामुनमुनिप्रणीतम् 
-आगमप्रामाण्यम् । 
-[ मङ्गलाचरणम् ] 
-जगज्जन्मस्थितिध्वंस महानन्दैकहेतवे । करामलकवद् विश्वं पश्यते विष्णवे नमः ॥ 
-[ ग्रन्थावतारिका ] 
-येsमी' केचन मत्सरात् सवयसो' दुर्भानसारा नराः गम्भीरां गुणशालिनीमपि गिरं निन्दन्ति निन्दन्तु ' ते ' । सारासारविचार 'कौशलदश पारे परेऽवस्थिताः सन्तः सन्त्यनसूयवोऽपि बहवः शंसन्ति ये मद्गिरम् ॥* अभिनिवेशवशीकृतचेतसां 
-बहुविदामपि सम्भवति भ्रमः । 
-तदिह भागवतं गतमत्सराः 
-1M1 - ये मे; Mo - ये वै 
-मतमिदं विमृशन्तु विपश्चितः ॥ 
-4 M2 - नन्दन्तु 
-5 M9, Mg - मे 
-2 Mo - स्ववचसः 
-3 Mg, Mg - परगिरम् 
-3, 
-8 
-B, M1, M2, Ma, My – ° विवेक ° 
-*This verse brings out the disdain of our author towards some of his con- temporaries, who, out of jealousy, were too critical in their attitude towards his works. Also compare in this connection, the two concluding verses of this text. †The term ' bhāgavata' refers to the Pañcarātra system of thought. Another term used generally is sättvata' For names applied to adherents of this religious school, see the Pādma Samhitā ( Tantra ) IV. ii. 88: 
-66 
-6 
-sūrissuhṛt bhāgavataḥ sattvataḥ pañcakālavit aikāntikaḥ tanmayaśca pañcarâtrika ityapi." 
-See article on the 'Pāñcarātra' in JRAS for 1911, p. 936. 
-§ Yamuna in this verse appeals to scholars for an impartial scrutiny of the Pañcarātra religion. 
-भागमप्रामाण्ये 
-इह केचित् गतस्ततो ऽवगत कतिपयकुतर्क कल्क विस्फूर्जित- विजित 'मनसः त्रयीमार्गसंरक्षण' व्याजेन निजविमर्श कौशलातिशय- मुपदर्शयन्तः परमपुरुयविरचितनिरतिशयनिःश्रेय सगोचर पिञ्चरात्र- तन्त्र' प्रामाण्ये विप्रतिपद्यन्ते । 
-+ वदन्ति च ' - 
-[ मीमांसकेन शब्दानां द्वेधा प्रामाण्यविभागनिरूपणम् ] 
-द्वेधा खलु प्रमाणत्वं वचसामवसीयते । एकं मानान्तरापेक्षमनपेक्षमथेतरत् ॥ 
-तत्रापि - 
-Sन तावत् पुरुषाधीनरचनं वचनं क्वचित् । 
-आसीदति प्रमाणत्वमनपेक्षत्वलक्षणम् || 
-पौरुषेयं हि वचः प्रमाणान्तरप्रतिपन्नवस्तूपस्थापनायो' पादीय- मानं वक्तुः तदर्थसिद्धिमनुरुध्यमानमेव प्रमाणभावमनुभवति । 
-1M. - इतस्तत: 
-B, M1, M2, M,, My - कुतर्कशकल 
-3 B, M2, M2, Ma, Mg, My 
-omit fafaa 
-4 
-• Mg, Mo - संरक्षक 
-5M - पावरा 
-• Mg, Mg omit च 
-7 B - उपनापनाय ' 
-† See JRAS (1911), pp. 940-41, for various definitions of the term ' Pāñcarātra'. See also the latest article on the meaning of the term by Dr. V. Raghavan, JAOS. Vol. 85, No. 1 (Jan.-Mar. 1965), pp. 73-79. The Maha- sanatkumāra Samhitā, Indrarātra section, ch. III, offers the following explana- tion for the term sāttvata": 
-"sa punassattvate yasmāt kule jätassureśvaraḥ, 
-tasmāttu sättvataṁ nāma purāņaṁ kovidā viduḥ upadiṣṭam pañcarātraṁ tena lokahitaiṣiņā, ahukāṁstu samuc diśya tena sattvatamucyate 
-(Adyar edn. p. 245, śls. 79-30) 
-The Mimāmsaka is the purvapakşin here. SCf. Prakaranapañcikā II. 19: 
-" वाक्यं हि पुरुषाधीनरचनं लौकिकं सदा । 
-शक्यमानायथार्थत्वं नार्धनिश्चायकं स्वतः ॥ " 
-[ पञ्चरात्रस्य प्रत्यक्षाद्यविषयत्वेन प्रामाण्याभावप्रतिपादनम् ] 
-न च पश्चरात्र' तत्रप्रतिपाद्यमान' विलक्षण* दीक्षापूर्वक भग- वदाराधनाभिलषितस्वर्गापवर्गादिसाध्यसाधनसम्बन्धं 
-प्रत्यक्षादी- न्यावेदयितुं क्षमन्ते । न हि ' प्रत्यक्षेण दीक्षाराधनादीनि' निरीक्षमाणाः तेषां निःश्रेयससाधनतां प्रतिपद्यामहे | 
-न चार्वाचीनाः केचिदतिमानुषशक्तयोऽमीषामभिलषित- साधनतामध्यक्षितवन्त इति प्रमाणमस्ति यतः तेषामपि चक्षुरादी- न्द्रियस्वभावं नातिक्रमितुमुत्सहते' । 
-1 Mg reads पञ्चरात्रं and omits तन्त्र 2 Mg, M – प्रतिपद्यमान 
-'B, M, omit 
-4 M, ि 
-5 B, M1, M2, M, Mo, My - दीक्षारापनादि 
-6M - निःश्रेयस्साधनताम् 
-7 M2, My - नातिक्रमते 
-*"Dikṣā" or Initiation is one of the cardinal principles of the religious conduct of the Bhagavata system. It consists of five main sacraments, barring a few details that are peculiar to particular sections of the followers. These sacra- 
-ments are: 
-"tāpaḥ puṇḍrastathā nāma mantro yāgaśca pañcamaḥ 
-pañcasaṁskāradīkṣaiṣā devadevapriyāvahā 
-pañcasaṁskāradikṣāvān mahābhāgavatassmṛtaḥ " 
-( i ) " tāpa' 
-99 
-(ii) " pundra " 
-66 
-(iii) ' nāma ' 
-66 
-(iv) " mantra 
-(v) " yāga " 
-99 
-(Visņutilaka Samhitā IV. 189-90 ) 
-: branding the two arms with the conch and discus 
-emblems, 
-: marking the forehead and other parts of the body 
-with particular tilaka-materials, 
-: 
-taking a new name, with the suffix ' dāsa ', etc. 
-: taking the 'astākşari' ( the eight-syllabled ) and 
-such other esoteric formulae, and 
-: performing different kinds of worship of the Lord. 
-All are eligible for this Initiation, irrespective of sex, caste and such other considerations. Cf. Isvara Samhitā : 
-"svasvavarṇāśramācārasadṛśākṛticeṣṭitān 
-lāñchitān cakraśankhābhyām bhujayor daksināditah " ( VIII. 179 ) 
-"sarve samānāścatvāro gotrapravaravarjitāḥ 
-utkarso napakarṣaśca jātitasteṣu sammataḥ " 
-"phalesu niḥspṛhassarve dvādaśākṣaracintakāḥ 
-mokşaikaniścayāśśāvasūtakāśaucavarjitāḥ" (XXI. 40-41) 
-(JRAS for 1911, pp. 946-47 ) 
-* ननु च - 
-[ नैयायिकेन निरतिशयभगवत्प्रत्यक्षमूलस्वेन हेतुना पाश्चरात्रप्रामाण्यसमर्थनम् ] 
-प्रकृष्यमाणं' प्रत्यक्षं दृष्टमाश्रयभेदतः । 
-अतस्तद् आश्रये कापि धुवं परिनितिष्ठति ॥ 
-सर्वं हि सातिशयं निरतिशयदशामनुभवद् दृष्टं वियतीव परिमाणम् । सातिशयं च काकोलूकगृधादिषु प्रत्यक्षमीक्षितमिति तदपि तथा भवितुमर्हति । इयं च ज्ञानस्य परा काष्ठा, या सर्वगो- चरता । अधिकविषयतयैव हि जगति ज्ञानानि परस्परमतिशेरते । 
-इत्थमैश्वर्यवैराग्यसामर्थ्यादिगुणा अपि । 
-निरस्तातिशयाः पुंसि कचित् सन्तीति सूरयः ॥ 
-अतो यस्यैतदखिलभुवनावलम्बि 'भावभेदसाक्षात्कारि प्रत्यक्षं, स' तत्समीक्षितदीक्षाराधनादिधर्मभावो भगवानेवं व्याचष्टेति किम-: नुपपन्नमिति । 
-[ मीमांसकेन नैयायिकवाद निराकरणम् ] 
-तन्न, प्रत्यक्षविज्ञानप्रकर्षः कल्पितोऽपि सः । स्वगोचरमतिक्रम्य नान्यदास्कन्दितुं क्षमः ॥ 
-तथा हि- 
-8 
-रूपरूपितदेकार्थसमवायिषु' चाक्षुषः । प्रकर्षो भवितुं युक्तो, दृश्यमानप्रकर्षवत् ॥ 
-1M1 - प्रकृष्टमानम् 
-2 M, omits a 
-3B, M, Mg – भुवनालम्बि 
-5 
-Mg - भुवनावलम्बिभिः 
-4 M, omits स 
-5B, M2, M3, Ms, My, P, PM, T, V2 
-– वः; M1, Mg – वा 
-6 Mo - आक्रन्दितुम् 
-7 Mg - समवादिषु; Mo - समवायादिषु 
-3 
-8 Mg - चक्षुत्र: 
-* This is the view entertained by the Naiyayika, as also by the Siddhantin. 
-§ The Mimāṁsaka refutes the above view. For a detailed discussion see 
-the Siddhitraya: Isvara-siddhi, p. 226ff. 
-+ रूपे तद्वति घटे, तथा रूपेण सह एकस्मिन्नर्थे घंटे समवायसम्बन्धेन विद्यमानेषु संख्यापरिमाणादिष्वेव नियतः चक्षुःप्रकर्षः न तु रवभिनन्द्रियमा स्पर्शगन्धादाविति भावः । 
-मीमांसकपक्ष: 
-एवम् 
-- 
-* इन्द्रियान्तरविज्ञानं विश्वं गोचरयेन्न तु । 
-कथं प्रत्यक्षविज्ञानं विश्वं बोधयितुं क्षमम् ॥ ननु तत् क्लृप्तसामर्थ्यं विद्यमानोपलम्भने । असति हि स्वभावानुबन्धिनि 
-विद्यमानोपलम्भनत्वे प्रत्यक्षतैव परावर्तते । न हि अजातमतिवृत्तं ' वाऽवगमयद े नुमानादि प्रत्यक्षपक्ष निक्षेपं क्षमते । तेनाशेषविषयिता लक्षणप्रत्यक्षप्रकर्षः स्वभावनियम' निर्मूलितोदय इति न हृदयमधिरोहति । 
-** 
-इदमपि सातिशयेन निरतिशयमनुमिमानः पृष्टो व्याचष्टाम् * सातिशय एव किन्नु तां दशामनुभवति यतः परं न सम्भवति महिमेत्यभिनिविशसे बाल इव स्थविरभावम् ? अथ एकम्मिन सातिशये केनाप्यन्येन निरतिशयेन भवितव्यमिति ? आहोम्बित समानजातीयेनान्येन निरतिशयदशामधिरूढेन भवितव्यमिति ? 
-न तावदग्रिमः कल्पः कल्पतेऽनुपलम्भतः । 
-10 
-न हि दृष्टं शरावादि व्योमेव प्राप्तवैभवम् ॥ 
-यदि च तदेव सातिशयम सम्भावनीय परप्रकर्षं परिनिति- ष्ठेत्, " हन्त तर्हि एकेनैव घटमणिकादिना ब्रह्माण्डोदर विवरमा | पूरितमिति तत्प्रतिहततया इतर भावभङ्ग प्रसङ्गः । 
-1 
-B, M1, M2, M4, Mg, My - गोचरिष्यति ; 
-A, Mg, M♭, T-न विश्वं गोचरयति 
-2 Mg -- अनिवृत्तम् 
-P, PM - वाऽगमयत् 
-4 M 1 - प्रत्यक्षपक्षे निरपेक्षम् ; M3, Mg - परिक्षेपम् 
-5 A, B, M1, M3, Mg, Ms, M6, My, T, 
-V2- विषयता ; M 2 - अविशेषता 
-* ज्ञानमेव विज्ञानशब्देनोक्तम् । 
-O 
-* " ननु " इति " प्रत्युत " इत्यर्थे प्रयुक्तः । 
-6 M 3 omits नियम 
-7M 1 - इममपि 
-8 M1, Mg – व्याचष्टा:; My - व्याचष्ट 
-- 
-9 Mg, Mg omit ताम् 
-10 Mg, Mg — परितिष्ठेत् 11M omits विवरम् 
-6 
-12 A omits भङ्ग 
-§ The Mimāmsaka poses three alternatives against the Naiyāyika's theory 
-of " Supreme Person ” of which this is the first alternative. 
-** This is the second alternative. 
-This is the third one. 
-++ गणिको महाकुम्भः ।आगमप्रामाण्ये 
-व्योम्नैव लब्ध साध्यत्वात् मध्यमस्सिद्धसाधनः । कल्पान्तरेऽपि दुर्वारं प्रागुदीरित* दूषणम् ॥ विभुस्तम्भान्तरव्याप्तस्तम्भः सातिशयो नहि । दृष्टपूर्व:, तथाऽन्योन्यव्याघातः 2 स्थित एव सः ॥ 
-यदपि वियति परिमाणमिह निदर्शितं तदपि विमर्शनीय- मेव । परिमाणं हि नाम देशावच्छेदः, इयत्ता, परितो भाववेष्टनमिति यावत् । न च नभसि तदस्तीति कथमिव तदिह निदर्शनतया निर्दिश्यते ? यदि च नभसि तदनुमन्वीत तदपि तर्हि सम्भाव्यमान- परप्रकर्षमिति पुनरपि साध्यविकलता' | 
-[ पाञ्चरात्राप्रामाण्यसमर्थनम् ] 
-न च ' अतिशयितेन प्रत्यक्षेण दीक्षाराधनादयः धर्मतयाऽव- बोधिता इत्यपि प्रमाणमस्ति । तस्मादस्मदादिष्वनालोचितपर 'चेतना- तिरेक परिकल्पना अल्पीयसीति नाभिप्रेतसाध्यसाधनसम्बन्धे प्रत्यक्षं प्रमाणम् ; न तरां तन्मूलतया पञ्चरात्रस्मृतिः प्रमाणम् । 
-तत्र अनुमानेनापि प्रामाण्यासम्भवत्वस्य प्रतिपादनम् ] 
-निच करणपथदूरवर्तिनि प्रस्तुतवस्तुन्यविनाभावावधारणा- धीनोदयमनुमानमुत्पत्तुमलम् । न ह्यदृष्टचरवह्नयः तदविनाभाषि- तया' धूममनुसन्दधति । 
-1 M1, M2, M4, My - सिद्ध 
-2 A, B, M1, M3, T, V2 omit the visarga, 
-taking f into the compound. 
-3 Mg – निदर्शनम् 
-3 
-• Mg - निदर्शन मिति 
-5 B – साध्यविकलिता; Mg - पुनरपि विकल्पता साध्य- 
-विधिकलिता 
-• Mg - ननु च; B, Mg - omit च 
-7M2, My - परम 
-8 M1, Ma - नितराम् 9 M1, My - भावतया 
-* Manuscript V1 starts from " dūsanam", the preceding text being lost. See Critical Apparatus. 
-‡ Venkatanātha in his Nyāyasiddhānjana, ch. VI. p. 170, quotes from "yadapi" to "nirdiśyate" 
-↑ Vide Siddhitraya: Išvara, pp. 233-34, for almost parallel statements. § दीवाराधनस्वर्गादीनां साध्यसाधनभावे इत्यर्थः । 
-न चागमः 
-मीमांसकपक्षः 
-[ भागमाख्यप्रामाण्याभावकथनम् | 
-सात्त्वत समय सिद्ध क्रियाकलापकर्तव्यतोप- स्थापन' परः परिदृश्यते, येन तन्मूलतया' पञ्चरात्रस्मृतयः प्रमाणं स्युः । न चादृश्यमानोऽपि अनुमानगोचरः । * यथैव हि तत्र प्रसिद्धदीक्षा- राधनतत्फलाभिमत' खर्गादिसाध्यसाधनभावो नानुमानगोचरः सम्य- न्धावधारणविरहात्, एवं तन्मूलागमो ऽपि तत एव नानुमातुं शक्यः । 
-[ तत्र भागमेनापि प्रामाण्यासिद्धिः भागमद्वैविध्यं च । ] 
-नि चागमेनापि प्रस्तुतस्मरणमूल भूतागमा'वगमः सम्भवति । स हि द्वेधा - पौरुषेयापौरुषेयभेदात् । 
-न तावत् पौरुषेयेण वचसा तस्य सम्भवः । 'विप्रलब्धुमपि ब्रूयुः मृषैव पुरुषा यतः ॥ 
-10 
-अद्यत्वेऽपि हि दृश्यन्ते केचिदागमिकच्छलात् । अनागमिकमेवार्थं व्याचक्षाणा विचक्षणाः ॥ 
-13 
-तदिह पञ्चरात्रग्रन्थ " प्रबन्धूणामपि 12 तन्मूलभूतागमा 'वगम' पुरस्सरी किं स्व 4 निबन्धनानां वेदमूलत्वप्रतिज्ञा ? किं वा यथारुचि रचयतां प्ररोचनाय तथा वचनम् ? इति शङ्कामहे । 
-1 Mo– ° सिद्धि ° 
-2M – उपस्थान 
-- 
-3 Mg –तन्मूलता 
-• Mo— यथैवम् ; omits हि 
-5 My omits я 
-• T notes फलत्वाभिमत as a variant 
-' Mg – तन्मूलाग मे° 
-3 
-• M1, Mg omit आगम 
-* Cf. Tantravārtika, p. 70. 
-t Cf. ibid. 
-t Ibid. 
-& Tbid. 
-9 M 3, Mg - विप्रलब्धमपि 
-10 A, Mg, M,, V1, V2 – 3; Mg reads अद्यत्वे हि, in which case the line falls short of one syllable. 
-11 M1 omits ग्रन्थ 
-12 Mg – प्रबन्धानामपि 
-3 
-13 Mg – भूतागमाङ्ग 
-14 M - किं स्वित् 
-O 
-4 Manuscript Ma starts from " vagama” Sec. Critical Apparatus. 
-M, 
-आगमप्रामाण्ये 
-"तावता च प्रमाणत्वं व्याहन्येत समीहितम् । नहि नित्यागमः कश्चिदस्ति तादृशगोचरः ॥ 
-[ उपमानमूलकप्रामाण्याभावकथनम् ] 
-न चोपमानात् तन्मूलश्रुतिसिद्धिरसम्भवात् । कथं दृष्टपूर्वा सा सदृशज्ञानगोचरा ? 
-[ अर्थापत्तिमूलकप्रामाण्यासम्भवत्वोपक्षेपः ] 
-न च अर्थापत्तितः । तन्मूलश्रुतिसिद्धिः, अनुपपत्त्यभावात्' । 
-[ तत्र पञ्चरात्रस्य मन्वादिस्मृतिसाम्येन प्रामाण्याशङ्का ] 
-स्मरणान्यथानुपपत्या हि तत्कल्पना प्रादुर्भवति । स्मरन्ति हि पञ्चरात्रप्रणेतारो दीक्षाराधनादि धर्मतया', 
-3 धर्मतया', अष्टकादीनिव मन्वादयः । न चाननुभूते वस्तुनि स्मरणशक्तिराविर्भवति । अनु- भवश्च' इन्द्रियलिङ्गशब्द सदृशानुपपद्यमानार्थपूर्वकः । ईदृशे च विषये ऽनुभवः प्रमाणान्तरेभ्योऽनाविर्भवन्' चोदनामेव मूलमुप- कल्पयतीति । 
-14. 
-§ सिध्द्येदप्ययं मनोरथः, यदि हि" यथार्थत्वनियमः अनुभवानां प्रामाणिकः स्यात् । यदा पुना 12 रागद्वेषाभिनिवेशादि वशीकृतान्तः- करणानामयथार्थानुभवभाविता भावनाः स्वानुरूपाः स्मृतीरा "रचं- यन्ति, कथमिव तदा स्मरणानुपपत्तिः प्रमाणभूता श्रुतिरुप- कल्प्येत 'S, अन्यथाऽपि स्मरणोपपत्तेः ? 
-" 
-1 M 3 - अर्थापत्ति: 
-2 My - अनुपपत्त्यसम्भवात् 
-13 M - आराधनानि 
-4 
-M, - दीक्षाराधनतद्धर्मतया 
-3 
-5 M., T -- अष्टकादीनीव 
-Mo 
-6 B – अनुभवश्चेत् 
-7 B, M2, M4, M, M,, My, V1 - 
-ईदुशि 
-* Cf. Tantravārtika, p. 70. 
-8M, P, PM, T - ईदृश विषये 9 T -नाविर्भवन् 
-10 A omits इति; M3 - प्रकलयतीति 
-11 Mg - ते for हि 
-3 
-12 M2, My — पुरा 
-13 Mg - अभिनिवेशात् 
-14 M2, Mg – स्वानुरूपां स्मृतिम् 
-15 Mg - उपकल्प्यते 
-†The Mimāṁsaka anticipates this argument from the Siddhantin. § The above argument is refuted as untenable by the Mimamsaka, + अन्यथाऽपि - अययार्यानुभव भावित भावनातोऽपीति भावः । 
-* मन्वादिस्मरणेष्विदानीं का वार्ता ? ननु तत्रापि प्रागुक्ता 
-युक्तयः पराक्रमन्ते' । न हि अष्टकां दृष्टवतामिष्टसाधनमिति मतिरा- विरस्ति । न चानुमानम्, सम्बन्धादर्शनात् । न च शब्दः, तदनुप- लम्भात्' । न चानुपलब्धोऽनुमातुं शक्यः, सम्बन्धादर्शनादेव । न चोपमेयः, सदृशा' निरूपणात् । न च कल्पयितुं शक्यः, अनन्तरो- क्तत्वात् स्मृत्यन्यथोपपत्तेः । 
-वेदसंयोगिपुरुषस्मरणानुपपत्तितः । 
-कल्प्यते चेत् श्रुतिस्तत्र ततोऽन्यत्रापि कल्प्यताम् ॥ 1 यतो नारदशाण्डिल्यप्रमुखाः परमर्षयः । 
-स्मर्यन्ते पञ्चरात्रेsपि सम्प्रदाय प्रवर्तकाः ॥ 
-ततश्व- 
-तुल्याक्षेपसमाधाने पञ्चरात्रमनुस्मृती । प्रमाणमप्रमाणं वा स्यातां भेदो न युक्तिमान् ॥ त्यज्यतां' वा प्रमाणत्वं मन्वादिस्मृतिगोचरम् । विशेषः पञ्चरात्रस्य वक्तव्यो' वा । 
-1 M- reads क्रमन्ते 
-6 
-2 Mg - अनुपलम्भनात् 
-3 M 6 - सादृश्य 
-4 M2 - पञ्चरात्र 
-5 Mg – प्रलम्भकाः 
-6 
-M2- युज्यताम् 
-7 A - विशेषो 
-*the Siddhantin poses this question to the Mimāṁsaka. 
-† Cf. the following verse quoted by Bhaṭṭāraka Vedottama in his Tantra- 
-suddha, from some unknown source, p. 21 : 
-60 
-nāradaḥ sumahadbhūtaṁ lokānugrahakāmyayā 
-vasudevādavāpyedaṁ sañcikṣepa matam param". 
-The names of the teachers that promulgated the Pañcaratra excepting those of Lord Nārāyaṇa and Narada are given in the Iśvara Samhita (Ch. 1, sls. 38-41 ) : Sañikarsana, Sandilya, Sumantu, Jaimini, Bhrgu, Aupagāyana and Mauñjyāyana. 
-Vide JRAS for 1911, foot-note on p. 942 : 
-“ The descent of the Bhāgavata religion is, in the Krta age, from Nara- Nārāyaṇa to Nārada, and at the end of the Dvapara, from Sankarṣaṇa to Śāṇḍilya and in the Kali, from Vişvaksena to Sathakopa." 
-२ 
-[ मानवपाञ्चरात्रस्मृत्योः वैलक्षण्यकथनम् ] 
-स उच्यते ॥ 
-5' अपि वा कर्तृसामान्यात् प्रमाणमि 'ति सूत्रयन् । 
-सूत्रकारः स्फुटीचक्रे वैलक्षण्यं विवक्षितम् ॥ 
-" 
-तथाहि - श्रुतिविहितानामग्निहोत्रदर्शपूर्ण मासज्योतिष्टोमा- दिकर्मणां स्मृतिविहितानामष्टकाच मन सन्ध्योपासनादिकर्मणां च पित्रानुपदिष्टत्वात्' परमहितबुद्ध्या त्रैविद्यवृद्धानां निर्विशेषमनुष्ठानं दृष्टम् । तेन तादृशशिष्ट त्रैवर्णिक परिग्रहद्रढिम्ना स्पष्टदृष्टाष्टकादि'- कर्तव्यताप्रतीतिः स्वोपपादनपटीयसीं श्रुतिमेव मूलभूतामवलम्बते । न चैवमाचमनोपनयनादीनिव श्रुतिविहिताग्निहोत्रादिपदार्थानुष्ठा- यिनः तान्त्रिकाचारानुपचरतः पश्यामः । 
-[ भागवतानां त्रैवर्णिकशिष्टगर्हितत्वोक्तिः ] 
-प्रत्युतैनान् विगर्हन्ते कुर्वाणान् ' वेद' वादिनः । तस्माद्यत् + 'कर्तृसामान्यात्प्रामाण्यं ' स्मृतिषूदितम् ॥ 
-t 
-नैव तत् पञ्चरात्रादि बाह्यस्मरणमर्हति । 
-न हि त्रैवर्णिका शिष्टाः तदुक्तार्थानुपासते ॥ 
-1 B, My - पौर्ण 
-2 M, उपदिष्टवत् 
-M2, Mg, My, B – उपदिष्टशत् 
-3 B— दृष्ट 
-4 Mg adds प्र 
-5 M2 - उपनयनादी नि 
-6 M 3 – कुर्वाणा: 
-7M2, M2, M2, My, B – ब्रह्म 
-8 A, M1, M3, Mg - दूषितम् 
-*This is the reply given by the Mimāṁsaka. 
-& Vide Purva Mimāmsā I. iii. 2. The full aphorism is : “ api vā kartṛsāmānyāt pramāṇamanumānam syāt." It is this sūtra that sanctions vali- dity to the smrtis, provided the rites enjoined by them are performed by the siștas, who also perform the other duties laid down in the Vedas. 
-* Cf. ibid. 
-1 'तत्' इति पदेन पूर्वपक्तयुक्तं प्रामाण्यं परामृश्यते । ' पञ्चरात्रादिवाह्यस्मरणमित्येतत् कर्तृपदम् ; तदिति द्वितीयान्तम । 
-मीमांसक पक्षः 
-[ तेषामशिष्टत्वसमर्थनम् ] 
-ननु तत्रापि श्रुतिस्मृतिप्राप्त शिखायज्ञोपवीतादि धारयद्भिः भागवतब्राह्मणैः अहरहरनुष्ठीयमानार्थत्वेन' चोदनामूलत्वे सम्भाव्य- माने कथमिव प्रामाण्यप्रत्यनीकभूता भ्रमविप्रलम्भादयः स्मरणकारण- तया कल्प्यन्ते ? 
-*उच्यते- 
-हन्तैवंवादिना साधु प्रामाण्यमुपपादितम् । 
-यत् त्रैवर्णिकविद्विष्टाः शिष्टा भागवता इति ॥ 
-[ भागवतानामब्राह्मण्यदृढीकरणम् ] 
-ननु ते' कथमशिष्टा ये' त्रैवर्णिकाग्रण्यो ब्राह्मणाः ? 
-10 
-तन्न । तेषां त्रैवर्णिकत्वमेव नास्ति । दूरे ब्राह्मणभावः । नि हि इन्द्रियसंप्रयोगसमनन्तरं केषुचिदेव देह विशेषेषु अनुवर्तमानम्, अन्यतो व्यावर्तमानं नरत्वातिरेकिणं ब्राह्मण्यं नाम " जातिविशेष- मपरोक्षयामः । + शिखायज्ञोपवीतादयस्तु ब्राह्मणादीनां विधीयमाना न तद्भावमापादयितुं क्षमन्ते, नाप्यवगमयन्ति; " दुष्ट "शूद्रादिषु व्यभिचारदर्शनात् । अतो निर्विवाद 2 सिद्धवृद्ध व्यवहार एवात्रा- 
-1 Mg — अत्रापि 
-• B— प्राप्ता 
-3 PM - अनुष्ठीयमानत्वेन 
-4 M2, M4, My, B – करणतया 
-5 A - विद्विषः 
-• A omits à 
-- 
-7A, M3, Mg – यत्° 
-§ The Siddhantin questions. 
-* The Mimāmsaka replies. 
-+ Cf. Prakaranapañcikā III. p. 30 : 
-13. 
-** 
-8 M2, My—अग्रिण्यः; P, PM - अग्रगण्याः 9 M 3 – देहि 
-10 M2, M2, Mg, M2, My B – ब्राह्मण्यादि° 11A, Mg, Mg – दृष्ट 
-12 Mg – निर्वाद ° 
-- 
-33 M, omits वृद्ध 
-13 1 
-" न हि क्षत्रियादिभ्यो व्यावर्तमानं, सकलब्राह्मणेष्वनुवर्तमानमेकमाकारमतिचिरमनुसन्दधतोऽपि बुध्यन्ते । " t Cf. Tantravārtika pp. 5-6. 
-** Duṣṭaśūdras could be those sudras, who, being other thant he three higher castes, pretend to be one among them by wearing marks like the sacred thread. If the word drṣṭaśūdras is taken to be correct it would then refer to those people of the sudra-community who are also entitled to have sacred thread and such other marks. 
-१३ 
-भागमप्रामाण्ये 
-वगमनिदानम् । न च भागवतेषु ब्राह्मण' पदमविशङ्क' लौकिकाः 
-। प्रयुञ्जते । भवति च भेदेन' व्यपदेशः -' इतो ब्राह्मणा इतो भागवता' इति । 
---- 
-[ योगशक्त्या सारखतभागवतादिपदानां ब्राह्मण्यसूचकत्वशङ्का ] 
-स्यादेतत् ब्राह्मणेष्वेव कुतश्चिद् गुणयोगात् ' सात्त्वतभाग- वतादिव्यपदेशो यथा तेष्वेव परिव्राजकादिशब्दा इति । तन्न | 
-[ तत्प्रतिभटतया रूढेः प्राबल्यकथनम् ] 
-रूढ्या सात्त्वतशब्देन केचित् कुत्सितयोनयः । उच्यन्ते, तेषु सत्स्वेष' शब्दो नान्यत्र वर्तते ॥ 
-[ उक्तार्थे रथकारन्यायप्रदर्शनम् ] 
-रूढिशक्तिप्रतिद्वन्द्वि योगशक्तिपरिग्रहः । अयुक्त इति युक्तिज्ञा ' रथकार ' पदे यथा ॥ 
-अपरथा कथमिव रथकारशब्दोऽध्ययन सिद्धबुध्यङ्गत्व- भङ्गेनापि यौगिकीं वृत्तिमपहाय जातिविशेषमभिनिविशते ? 
-1 B ब्राह्म 
-2 My — विशङ्काः 
-9 M2 – भेद 
-4M - गुणला भात्; B - गुणलोभात ; 
-5 Mg — क्वचित् 
-66 
-6 Mg — सत्स्वेषु 
-7 M 3 – प्रतिद्वन्द्व 
-8 A omits कथमिव 
-9 A – ° मेदेनापि ; M1, M - बुध्यङ्गत्वेनापि 
-" 
-* There is a Vedic statement “ varsāsu rathakāra adadhita", which enjoins Installation of fire on a Rathakāra. Etymologically the word 'Ratha- kāra' can refer to any person that belongs to the three higher castes, viz., the Brahmaṇa, the Ksatriya and the Vaisya. But conventionally this term refers to a particular communiy bearing the name rathakāra'. The Pūrva Mīmāmsă, in a separate section called the Rathakara Adhikaraṇa [VI. i. 44- 50] discusses the matter and concludes that the term 'rathakara' occurring in the above Vedic text refers only to one belonging to a separate community called ' Saudhanvana', which is another name for the 'rathakāra' community. This community is a distinct one, neither Suūdra, nor Vaiśya, nor Kşatriya. 
-< 
-Certain Mantras of the Ṛgveda indicate that the terms rathakara', — saudhanvana ’ and bhava' applied to persons of this community, are all synonymous. See Sabara's commentary on Pūrva Mimāmsā VI. 1. 50. 
-• 
-8 अध्ययन सिद्धज्ञानाङ्गकत्वं अग्न्याधानस्य । तदपि भक्त्वा, इति योजना । अग्न्याधाने वेदाध्येतार एव अधि- कृता इत्ययमंशस्तावत् सर्वसम्मतः । निसर्गसिद्धमपि अध्ययनज्ञानाङ्गकत्वमाधानस्य, वर्षासु रथकार आदधीत' इत्यनेन विशेष विधानेन बाध्यते । तथा न रथकाराख्यस्य ब्राह्मणक्षत्रियवैश्यवर्णविभिन्नस्य, शूद्रवर्णविभिन्नस्य च जातिविशेषस्य बोधकत्वमिति रूदिसमाश्रयणेन निर्वाह: । 
-मीमांसकपक्षः 
-सावतानां व्रात्यत्वकथनम् ] 
-" 
-सन्ति च सात्त्वता नाम उपनयनादि संस्कारहीना वैश्य- * ब्रात्यान्वयिनः अवरजन्मानः केचित् । 
-यथाऽऽह ' मनुः - 
-8 " वैश्यात्तु जायते व्रात्यात् सुधन्वाऽऽचार्य एव च । 
-भारुषश्च' निजङ्घश्च' मैत्रस्सात्त्वत' एव च " ॥ इति । 
-[ भागवता एव सात्रता इति समर्थनम् ] 
-भागवतशब्दश्च सात्त्वतेषु वर्तत इति नात्र कश्चित् विवादः । 
-स्मरन्ति च - 
-[ तेषां देवपूजनवृत्तित्वकथनं च ] 
-'पञ्चमस्सात्त्वतो नाम विष्णोरायतनानि सः । 
-पूजयेदाज्ञया राज्ञां स तु भागवतस्स्मृतः ॥ ' इति । 
-तथा चोदीरितव्रात्यप्रसूतिवृत्त्युपायतया' इदमेव' स्मरन्ति, ** यदमीह' प्रत्यक्षमेव " वृत्त्यर्थमनुतिष्ठन्तो दृश्यन्ते । तथा " 
-उशनाः 
-12 
-1M 1 – उपानयनादि ; My - औपनयनादि 
-- 
-2 M3 omits आह 
-3 A- भारूपश्व; 
-PM -- कारुषश्च 
-4 PM - विजन्मा च 
-5 P - मैत्रसात्त्वत 
-• M1, M, add एव 
-7 M 3 – प्रवृत्युपायतः; Mo– वृत्युपायतः 
-8 Mg — एतमेव 
-9 P - यमी ह 
-10 M2-Я 
-11 M3 - यथा 
-12A, P, PM, T, M1, M3, Ms, M 6, 
-V, V2 – उशना 
-* For an explanation of the term 'vrātya' see Manusmrti II. 38, 39: 
-"ā ṣoḍaśāt brāhmaṇasya sāvitrī nātivartate | 
-a dvāvimśāt kṣatrabandhoḥ a caturviṁśater viśaḥ 
-ata urdhvaṁ trayo'pyete yathākālamasamskṛtāḥ | sāvitrīpatitā vrätyä bhavantyāryavigarbitāḥ || 
-$ Manusmrti X-23. 
-+ To be traced out. 
-" 
-** यत् कर्म देवपूजनरूपं, अमी परात्रिका इह अनुतिष्ठन्ति तत् स्मृतिषु व्रात्यापत्यवृत्तितया प्रसिद्धमेवेति भावः । 
-१७ 
-भागमप्रामाण्ये 
-S' सर्वेषां कृषिशस्त्रोप' जीवनम् ; आचार्य सात्त्वतयोः देव- पूजनम्' इति । 
-तथा ब्राह्मे पुराणे - 
-S' विष्णोरायतनानि सः पूजयेदाज्ञया राज्ञाम्' इति । तथाऽन्यत्रापि- 
-६' सात्त्वतानां च देवायतन' शोधनं, नैवेद्यशोधनं,' प्रतिमा- संरक्षणम्' इति । 
-तथा बेहशसन्देह' व्युदासाय मनोर्वचः- 
-यथा 12- 
-+ 'प्रच्छन्ना वा प्रकाशा वा वेदितव्याः स्वकर्मभिः । ' इति । 
-[ आचारतोऽपि तेषामब्राह्मण्यनिर्णयः ] 
-अपि चाश्चारतस्तेषामब्राह्मण्यं प्रतीयते' | वृत्तितो देवतापूजा, * दीक्षा, नैवेद्यभक्षणम् ॥ गर्भाधानादिदाहान्तसंस्कारान्तर सेवनम् | श्रौतक्रियाऽननुष्ठानं, द्विजैस्सम्बन्ध वर्जनम् ॥ इत्यादिभिरनाचारैः अब्राह्मण्यं सुनिर्णयम् । 
-[ वृत्त्यर्थपूजकानामवैदिकत्वनिरूपणम् ] 
-स्मरन्ति हि वृत्तितो देव" पूजाया ब्रह्मकर्मस्वनधिकारहेतुत्वम्; 
-1A, My - शास्त्रोप 
-Mg 
-2 Mo——आश्चर्यं ; B -आचर्य ° 
-4 M 1 – सम् 
-15 M2, My - देवतायतन' 
-• PM omits नैवेद्यशोधनम् 
-$ Passages to be identified. 
-+ Manusmrti X. 40. 
-* See foot-note on p. 3 above. 
-" 
-7 
-M1, My - संशय 
-8 Mg - अपि वा 
-• Mg, Mg – अप्रामाण्यं प्रमीयते 
-10 T - श्रीतकीय 
-11 M2 – देवता ° 
-- 
-12 M1, M2, M4, M2, My Bomit यथा 
-§ By “ sambandha " here is meant the matrimonial alliance — " yauna- sambandha, " 
-मीमांसकपक्षः 
-+ ' येषां वंशक्रमादेव देवार्चा वृत्तितो भवेत् । 
-तेषामध्ययने, यज्ञे, याजने नास्ति योग्यता ॥ ' इति । 
-तथा च परमसंहितायां तेषामेव ' वचः- 
-* ( 
-आपद्यपि च कष्टायां भीतो वा दुर्गतोऽपि वा । पूजयेन्नैव वृत्त्यर्थं देवदेवं कदाचन ॥ ' इति । 
-[ निर्माल्यधारणनैवेद्यभक्षणादीनां अब्राह्मण्यसूचकत्वोक्तिः ] 
-14 
-यदपि समस्त विशिष्टवि 'गर्हितनिर्माल्यधारणनैवेद्य' भक्षणा- द्यनुष्ठानं, तदपि तेषामब्राह्मण्यमे' वाभिद्योतयति । अपि च " यदव- लोकनादावपि " विशिष्टाः चान्द्रायणादिप्रायश्चित्तानि विदधति, कथं तत्परिग्रहः श्रुतिमूलत्वम ' वगमयतीति सम्भावयामः ? 
-13 
-[ भागवतानां देवलकत्वापादनं तत्समर्थनं च ] 
-स्मरन्ति हि14 देवलकावलोकने 15 प्रायश्चित्तम् । देवलकाश्चा- मी ** – 8 ' देवकोशोपजीवित्वात्, वृत्त्यर्थं " देवपूजनात् । ' तथा च देवल:- 
-तथा- 
-S' देवकोशोपजीवी यः स देवलक उच्यते ।' इति । 
-1 PM omits 
-2 M, adds 
-8 M] - कृष्टायाम् 
-4 M3 omits वा 
-5 My omits fa 
-6 
-• M2, My omit वि 
-A, M3, Ms, Mg, T, V1 – ° निवेद्य° 
-8 Mg – अप्रामाण्यम् 
--- 3 
-† Passage to be traced out. 
-9 M1 adds यदपि; P adds इति 
-10M,, Mg omit अपि च 
-11_M2, M2, M7, My, B - यदवलोकनादपि 
-12 Mg–'जालत्वम्° 
-13 M 1, M, – गमयतीति 
-M1, 
-14 Ma, Bomit हि 
-15 PM - अवलोकेन 
-16 M – वृत्त्यर्थं ° 
-* Paramasamhitā XXVIII : 33b-34a. 
-Also Cf. ibid.: "annapānaṁ dhanaṁ putramāyuraiśvaryamāspadaṁ 
-, 
-apadyapi na yāceta pūjakaḥ purusottamaṁ ". 
-** • अमी भागवता इत्यर्थः । 
-§ Passages to be identified.14 
-भागमप्रामाण्ये 
-+ 'वृत्यर्थं पूजयेद्देवं' त्रीणि वर्षाणि यो द्विज: 2 | 
-स वै देवलको नाम सर्वकर्मसु गर्हितः ॥ ' इति । अमी पुनर्वंशानु परम्परया वृत्त्यर्थमेव देवमा' राधयन्तो दृश्यन्ते । अतो देवलकत्वमकामेनापि अभ्यनुज्ञातव्यम् । 
-तथा च- 
-* 
-विड्वराहं च षण्डं च यूपं देवलकं शवम् | 
-भुञ्जानो नेक्षयेद्विप्रो दृष्ट्वा चान्द्रायणं चरेत् ॥' इति 
-प्रायश्चित्तं स्मरन्ति । 
-तथा च विशदतरम' मीषामेव' उपब्राह्मण्यं वर्णयत्यत्रिः 10 8 S' आह्वायका" देवलकाः कल्पदेवलका 12 गणभोगदेवलका भागवतवृत्तिरिति चतुर्थः । एत उपब्राह्मणाः' इति । 
-तथा च भगवान् व्यासः- 
-1 Mg – पूजयेदेव 
-2 A - नरः 
-8 M 2 -- सर्व कर्म बहिष्कृतः 
-4 Mg omits अनु 
-6 
-5Mg, Mg read वृत्त्यर्थमेवम्, omitting देवम् 
-Mg omits अपि; Ms - अकामनोऽपि 
-f To be traced out. 
-7 Breads यूपदेवलकं as one word. 8 M 1 – विशदतमम् 
-9 M1, M2, Ma, M7. My Bomit एव 10 M, omits arfar: 
-- 
-11 All except M1, M, B – अवालुकाः 12 M1 omits कल्पदेव लकाः 
-Cf. Bhavisyapurāna ch. 139, sis. 18, 21 and 22 : 
-"yadi devārthadānam syat tato devalakā dvijāḥ 
-devadravyābhilaṣaśca brāhmaṇyam tu vimuñcati" "dvijo devalako yatra paňktyāṁ bhunkte mahipate 
-annānyupaspṛśennīcā sā paǹktiḥ pāpamācaret dvijo devalako yasya saṁskāram samprayacchati so' dhomukhān pitṛn sarvan äkramya vinipatayet 
-* Passage to be identified. 
-Cf. Sättvatasamhitā XXI. 20 : 
-64 
-nagarapaṇavithīşu tasya devalakasya ca 
-"" 
-darśanam sparaśanaṁ caiva kuryāt sambhāṣaṇaṁ na bi" Also cf. Paramasamhitā III. 47 : 
-" 
-pāṣaṇḍasamayasthāṁśca devakośopajivinaḥ 
-nästikän ninditan duştan na spršenna ca samvadet " 
-$ To be identified. 
-मीमांसकपक्षः 
-++ ' आह्वायका देवलका नक्षत्रग्रामयाजकाः । 
-एते ब्राह्मणचण्डाला + महापथिकपञ्चमाः ॥ ' इति । 
-[ तत्परिग्रहवशात् पाञ्चरात्रस्याप्रामाण्योक्तिः ] 
-१७ 
-एवं जात्या कर्मणा च त्रयीमार्गादपभ्रष्ट' भागवतजन परिग्रह एव पञ्चरात्रशास्त्र'प्रामाण्यप्रतिक्षेपाय पर्याप्तो हेतुः । 
-तथा हि- 
-[ उक्तार्थे अनुमानप्रयोगः ] 
-* विवादाध्यासितं तन्त्रं न मानं पुण्यपापयोः । 
-त्रयीवायैर्गृहीतत्वात् चित्यवन्दनवाक्यवत् ॥ 
-[ वेदनिन्दादर्शनादपि तन्त्रमप्रमाणमित्याक्षेपः ] 
-अपि च, तेषां त्रयीमार्गत्यागपुरस्सरः सर्वधर्मोपदेश इति स्ववाक्यान्येव उप' ख्यापयन्ति' - 'चतुर्षु वेदेषु परं श्रेयोऽ लब्ध्वा शाण्डिल्य इदं शास्त्रमधीतवान् ' **इत्यादीनि । तदिह कथं चतुर्णामपि वेदानां निःश्रेयससाधनावबोधकत्वव्युदासेनारभमाणः " 
-1M1, M2, M4, Mr. My, B – मर्यादापभ्रष्ट 
-Mg - मार्गपरिभ्रष्ट 
-2 Mg, M,, My & B omit शास्त्र 
-8 
-• Mg, Mo—तत्र 
-4 A - समानम् 
-++ Mahābhārata XII. 76.6. 
-6 
-+ महापथिकाः शववाहका इत्यर्थः । 
-8M1, M, & My omit उप 
-6 Mg - आख्यापयन्ति 
-7 M1 - न लब्ध्वा 
-8 A – ° आरम्भमाणः 
-- 
-* 'विवादाध्यासितं ', प्रामाण्यविषये विप्रतिपत्तिसमाकान्तम् । 
-६ 'पुण्यपापयो 'रिति विषयसप्तमी । 
-8 
-+ Bhatta Medhātithi, commenting on Manusmrti, XII. 95, quotes from some unknown source, the following : 
-“ nodanāh caityavandanatah svargo bhavati ". 
-66 
-** This objection is raised by Sankara in his commentary on the Brahma- sūtra: II. ii.45: "vipratisedhācca". Cf. his commentary: vedaviprati- şedhaśca bhavati; 'caturşu vedeșu param śreyo' labdhvā śāṇḍilya idam śās- tramadhigatavān' ityādivedanindadarśanāt ", etc. 
-३ 
-१८ 
-भागमप्रामाण्ये 
-तत्प्रसादा' वगतमर्थ पुमर्थतया कथयतीत्युत्प्रेक्ष्येत ? मन्वादयो हि विवक्षित सफल समीहित' साधनावबोध' माग मैकमूलमभिदधाना दृश्यन्ते । 
-तथा -- 
-**' वेदो धर्ममूलम्', 'तद्विदां च स्मृतिशीले " 
-8 
-1 
-S' वेदोऽखिलो' धर्ममूलं स्मृतिशीले च तद्विदाम् ।' 
-" श्रुतिस्मृतिविहितो धर्मः ' 
-' स सर्वोऽभिहितो वेदे ", सर्वज्ञानमयो हि सः ॥ ' इति च । 
-[ दीक्षा संस्कारविधानादपि अवैदिकत्वनिश्चयोक्तिः ] 
-11 
-यदपरमुपनयनादिसंस्कृतानामधिकृतानां च अग्निहोत्रादि- 
-समस्त वैदिककर्मसु, पुनरपि भगवदाराधनाधिकार सिद्धये * दीक्षालक्षण- संस्कारवर्णनं, तदवेदिकतामेवानुकारयति । वैदिकत्वे हि तैरेव संस्कारः भगवदाराधनादावप्यधिक्रियेरन् । 
-1M1 – तत्प्रमाणात् 
-M2, Ms, My— तत्प्रसादात् 
-2 M2 & My omit अर्धन् 
-3 M, omits समीहित 
-4P, PM – बोधक म् 
-5 Mg - मूलाभि° 
-** Gautamadharmasutra: I. 1-2. 
-$ Manusmrti: II. 6a. 
-f Vasisthasmrti : I. 2. 
-* Manusmrti: II. 7b. 
-6 P & PM omit these two aphorisms 
-in full. 
-P, PM & My omit तथा 
-8 M2 - वेदोऽखिल' 
-9 M, & M,-°fafka: 
-10 Mg – वेदः 
-- 
-11 A - omits अधिकृतानाम् 
-* Cf. Pādmasamhitā Caryāpāda: I 8b-10a : 
-66 
-“ naivādhikārinaste ca diksāsamskāravarjitāh 
-yathaiva dikṣaṇīyeṣṭyā jāyante brāhmaṇādayaḥ | tathaiva dikṣāvidhinā jāyamānā yathoditāḥ ||| pūjāvidhau bhagavatah prakalpante dhikārinah |" 
-मीमांसकपक्षः 
-[ विद्यास्थानेवपरिगणनात् तन्त्रस्य भवैदिकत्वकथनम् ] 
-१९ 
-यदपि धर्मप्रमाणतया समस्तास्तिकजनपरिगृहीतेषु चतु- दशविद्यास्थानेष्वपरिगणनं, तदप्यवैदिकत्वे लिङ्गम् | अन्यथा हीद- मपि तदन्यतमत्वेन स्मर्येत । न च स्मर्यते । तदवसीयते अवै- दिकमेवेदं पञ्चरात्रस्मरणमिति । 
-[ पाञ्चरात्रस्यावैदिकत्वे बादरायणवचनप्रदर्शनम् ] 
-* अत एव च भगवता बादरायणेन त्रयीमार्गप्रत्यनीकभूत- कणभुग' क्षचरण सुगतमतादिबाह्य समयनिरासावसरेऽस्य निरास:--' उत्पत्त्यसम्भवात्' इति । 
-2 Mg - स्मर्यते 
-त्रयीविदामित्थमसङ्ग्रहेण 
-तथा त्रयीबाह्यपरिग्रहेण । अनन्तरोक्तैरपि हेतुभिस्तत् 
-न मानवादिस्मरणैस्समानम् ॥ 
-2 M2, Mg & My omit च 
-6 
-3 Mo– कणभक्ष° 
-& Vide Yājñavalkyasmrti I. 3: 
-4 Mg - निरसनाव सरे° 
-My - निरासावसाने 
-5 Mg - अतो नरोक्तैर पि 
-"purāṇanyāyamīmāṁsādharmaśāstrāǹgamiśritaḥ 1 
-vedāssthānāni vidyānāṁ dharmasya ca caturdaśa || " 
-तन्त्रस्य 
-This is the contention of the Advaitins. The entire Utpattyasambhava or the Päñcarätra section of the Brahmasūtra [II. ii. 42-45] consisting of the four aphorisms: " utpattyasambhavāt", “ na ca kartuh karanam", “ vijñānā- dibhāve va tadapratişedhaḥ" and "vipratiṣedhacca" had been interpreted by Sankarācārya as refuting the validity of the Pañcarātrā gamas. 
-+ Brahmasūtra: II. ii. 42. This sūtra is the 42nd one in the second Pada of the second Adhyāya, according to Sankara But according to Rāmānuja, this is the 39th aphorism. 
-२० 
-भागमप्रामाण्ये 
-[ पाञ्चरात्रीयोपदेशानां लोकम्यामोहनार्थस्वप्रतिपादनम् ] 
-"एवं सति यान्यपि ' लोकं व्यामोहयितुं विद्वेषणोच्चाटन े वशी- करणादिक्षुद्र विद्याप्रायमेव ' बहुलमुपदिशद्भिः भगवदाराधनादि- 
-1M, omits अपि 
-2 Mg omits व्या 
-3 Mg - विद्वेषिणो चाटन 
-4 Mg —°एवम् 
-5 M3—विपुलम्° 
-* Cf. Tantravārtika under I. iii - 4: pp. 114-115 : 
-८८ 
-यद्वा यान्येतानि त्रयीविद्भिः न परिगृहीतानि, किञ्चित्तन्मिश्रधर्मकञ्चुकच्छायापतितानि लोकोपसंग्रह लाभ- पूजाख्यातिप्रयोजनपराणि त्रयीविपरीत।सम्बद्धदृष्टशोभादिप्रत्यक्षानुमानोपमानार्थापत्तिप्राययुक्तिमूलो पनिबद्धानि सांख्ययोगपाञ्चराभ्रपाशुपत शाक्य निर्ग्रन्थपरिगृहीतधर्माधर्मनिबन्धनानि विषचिकित्सा वशीकरणोच्चाटनोन्मादनादि समर्थ - कतिपय मन्त्रौषधि कादाचित्क सिद्धि निदर्शनबलेनाहिंसासत्यवचनदमदानदयादिश्रुतिस्मृतिसंवादि स्तोकार्धगन्धवासित जीविका- प्रायार्थान्तरोपदेशीनि, यानि च बाह्यतराणि म्लेच्छाचारमिश्रभोजनाचरणानि निबन्धनानि तेषामेवैतच्छ्रुतिविरोध- हेतुदर्शनाभ्यामनपेक्षणीयत्वं प्रतिपाद्यते । " 
-It may be noted that the passage quoted above mentions Pañcarātra along with other non-Vedic schools like Buddhism and Jainism, and it is the nucleus of the anti-Pañcarātra arguments advanced by the adherents of other schools of thought, from time to time. 
-66 
-99 
-In the Tantra-terminology, “vidvesana 
-“ vidvesana” etc. are technically called “ şatkarmas ”. Vide Lingadharaṇacandrikā: p. 285, foot-note. These şaṭkarmas are : “ mārana” (destruction ), “uccātana" (driving away ), "stambhana" (arrest, that is, staying a storm, striking a man dumb etc.), “ vaśikarana” ( bringing under control, which includes hypnotism ), “ vidve- sana” (causing antagonism between persons) and “ svastyayana” (curative and healing power in disease, misfortune and danger). 
-66 
-" 
-A number of Pañcaratra works describe in detail the ways and means of achieving mundane pleasures, effecting enmity, attracting and subduing persons and even the minor gods, curing or healing poisons of insects and creptiles and so on. The Kāśyapasaṁhită, for instance, is a work entirely devoted to the delineation of the curing of various sorts of poisons. 
-For “ vidveşana", see Kāsyapasamhitā: III. 32; Srivisņutilakasamhitā: IV. 640-643; and the Hiranyagarbhasamhitā: XIX. 
-For "uccātana", see Kāśyapasamhitā: III. 26-28; V. 12, 42, 45; Srivişņutilakasamhitā: IV. 634-639; Hiranygarbhasamhitā: XIX and Isvara- samhitā: XXV. 115b. 
-For " vasikarana" see Agastyasanhitā : XV. 8-11, 49-51 and XXXI; Kāsyapasamhitā: III. 8 21-24; Srivisņutilakasamhitā: IV. 415-422; 430-454; 
-मीमांसकपक्षः 
-कतिपय वैदिककर्माणि पाञ्चरात्रिकैः निर्दिश्यन्ते, तान्यनुपयोग्यानि ' अविस्रम्भणीयानि च श्वदृतिनिक्षिप्त' क्षीरवदिति मन्यामहे । 
-1 Ms, My - ° उपयोग्यानि 
-B—°ક્ષિ° 
-2 A, M1, M2, M3, M4, M5, M7, My, V1, B-f¿° 
-Sättvatasaṁhitā: XVII. 440 et passim; Hiraṇyagarbhasaṁhitā: XIII. 3 f; Isvarasamhitä: XXV. 115a. 
-By the term "adi" mentioned in the text "vasikaraṇādi ", are under- stood "māraṇa", "viṣaharana", "viṣacikitsā", "unmādana", "ākarṣaṇa", 
-" 
-" stambliana and the like. 
-For "marana", see Hiranyagarbhasaṁhitā: XIX; Agastysamhitā: XXXI; Śrīviṣṇutilakasaṁhita: IV. 645-666 and the Isvarasaṁhitā: XXV, 115b. 
-For "vişaharana", see Śrīviṣṇutilakasamhita: IV. 488-490; and Kasyapa- samhita: Chs. VI to XII. 
-For "unmadana", see Kasyapasamhita: III. 33-36; and Isvarasaṁhitā: XXV. 116a. 
-For " 
-XXV. 115a. 
-ākarṣaṇa", see Kasyapasaṁhitā: III. 1-3 and Isvarasamhita: 
-For "stambhana", see the Isvaraṣamhitā: XXV. 116a. 
-Thus, though apparently, the Pañcarātrasaṁhitas pour down instructions and incantations to be followed and applied, so as to achieve some mundane pleasures, the attitude of a Pañcaratrin to this question is an altogether diffe- rent one. According to him, all such Agamas which are found to give in- structions regarding the achievement of some mundane pleasure or other, are intent upon advising men against such pursuits, rather than prescribing such pursuits. Thus, for instance, the Paramasamhita, one of the oldest and the most authoritative Agamas of the Pañcarātra literature, also refers to the ways and means of attaining earthly pleasures in chs. VI, XIII, XV and XVI. But it spares no effort to stress upon the futility and undesirability of such pursuits. 
-Thus it says in VI. 60-61a: 
-nanyaḥ siddhyati kāmena tasmāt kāmo nirarthakaḥ 
-tasmat sarvaprayatnena muktvā kāmamanoratham bhagavantamupāsīta sarvaṁ tenaiva siddhyati ". 
-Unflinching devotion to God will itself bring to a man all material pro- sperity, even if he does not himself pray God for it. 
-Also cf. ibid: XXXI, 69: 
-[ पञ्चरात्रस्य मन्वादिस्मृति तस्य प्रयुक्तप्रामाण्या भावनिगमनम् ] अतो न वेदमूलत्वं पञ्चरात्रस्य युज्यते । प्रामाण्यं प्रतिपद्येत ' येन मन्वादिशास्त्रवत् ॥ 
-[ नैयायिकमुखेन वेदसाम्येन पञ्चरात्रस्य प्रामाण्यप्रतिपादनम् ] 
-* अत्र' कश्चिदाह - कामं कक्ष्यान्तरितप्रामाण्येषु मन्वादि- स्मरणेषु कारणतया वेदाः परिकल्प्यन्ताम् । पञ्चरात्रस्मरणस्य तु किं वेदेन तन्मूलतया 'वलम्बितेन ? वेदानामपि यदनुभव' निबन्धनं प्रामाण्यं तदनुभव एव हि पञ्चरात्रस्मरणस्य निदानम् । न खलु तुल्यमूलयोरष्टकाचमनस्मरणयोः मिथो मूलमूलिभावः । 
-O 
-1M 3 – देव 2 Ms - प्रतिपाद्येत 
-3 M3—तत्र 
-परस्परमपेक्षेते तुल्यकक्ष्ये न हि स्मृती । पञ्चरात्रश्रुती तद्वत् नापेक्षेते परस्परम् ॥ 
-T 
-4 M 1 - वेद: परिकल्प्यताम् 
-5 Mg —– मूलतया° ; Ms - तन्मूलतश्च 6M2, My - अनुभाव' 
-"tasmädanena margeṇa pūjayet madhusudanaṁ 
-aiśvaryamapavargam vā nirvyājamadhigacchati ". Also cf. ibid: XXX. 100-101a: 
-"tasmādubhayamevatra puṁsam bhavati sammatam 
-aiśvaryamapavargo vā viseṣeņa pitāmaha 
-madgata bhaktirevedanfubhayam sadhayiṣyati ". 
-O 
-This is the norm of all the Pañcarātra texts. The main concern of their teaching is unflinching devotion to the Lord and the methods of translating that devotion into acts of worship, which are divided into five types: "abhigamana", "upādāna", "svādhyāya ", 
-svādhyāya", "ijyā" and "yoga", to be performed in different parts of the day. 
-*The Naiyāyika now argues with the Mimamsaka. His contention is that the Vedas and the Pañcaratra texts are utterances of one and the same Supreme Being, Who is also the Omniscient Designer-Architect of this won- derful cosmos. He forms the second critic to be refuted by the Siddhantin, only in so far as the authorship of the Vedas is concerned. For the Siddhāntin, as for the Mimārsaka, the Vedas are revealed, “apauruseya ", not composed even by the Supreme. 
-$ वक्ष्यया एकया अन्तरितं प्रामाण्यं मन्वादिशास्त्राणाम् । वेदानां प्रामाण्यसार्वभौमत्वात्, तदनुसरणाच सर्वस्मृतीनाम् । पञ्चरात्रं तु वेदवदेव निरपेक्षतया सर्वोत्कृष्टया व प्रमाणं तत्समानयोगक्षेमत्वादिति हार्दम् | 
-मीमांसकपक्षः 
-वेदमूलत्वहानेन' पञ्चरात्रेऽवसीदति । 
-२१ 
-“कुतः तन्मूलताहानादा' गमो नावसीदति ? ॥ 'आह' - किमेवं वेदा' अपि पुरुषानुभवाधीनप्रामाण्याः 
-पौरुषेया एव ? 
-[ वेदानां पौरुषेयत्वसमर्थनम् ] 
-Sक' स्संशयः ? वाक्यत्वं हि पराधीनरचनत्व' खभावमुप- लभ्यमानं कथमपरथाऽवतिष्ठेत ? वेदनाम्नो ग्रन्थस्यायं महिमा, यत् केनचिद" सन्दृब्धोऽपि "वाक्यत्वेनावतिष्ठत इति चेत्, हन्त तर्हि पर्वतवर्तिनो धूमस्यायं महिमा, यत् ज्वलनमन्तरेणापि " अनु- च्छिन्नसन्तानो " गगनतलमधिरोहतीति किमिति न स्यात् ? 
-12 
-13 
-17 
-ननु कथमतिक्रान्तमानान्तरावतारे धर्मे ग्रन्थः " सन्दर्भ्यते 7 ? 
-— यतः सहजसंवेदन साक्षात्कृतधर्माधर्म एव भगवान् जगदनु | कम्पया वेदनामानं " ग्रन्थमारचयतीति । 
-मैवम्- 
-किमस्ति धर्माधर्मगोचरमपि प्रत्यक्षम् ? 
-1 Mg - भानेन 
-2 M 2 – भानात् ; Mg - भावात्; 
-M, A– हानौ° 
-3 
-3 
-M1, M2, M4, M, My, B, omit आह 
-4 M 1 - विदा: 
-• M,, M2, M, M, My, omit अनुभव 
-• M. omits : 
-6 
-10 Mg, Mg - यत्केनापि 
-11 M3 - संदृब्धोऽपि 
-12 M1—यम् 
-13P, PM, T, A, Mg, Ms, Mg, V1 & V2, 
-omit अपि 
-14 M2, Mo - अविच्छिन्न 
-15 A – सन्तानम् 
-7 M1, M2, M2, M4, M8, M2, My & 10 M - प्रत्ये 
-Bomit व 
-8 M, & B—°भावम्; M – स्वाभाव्यम् 
-9 M – तिष्ठेत Mg - अवतिष्ठते 
-O 
-17 P – सन्दृभ्यते; My -- संदर्खेत, M, सन्दर्भते 
-- 
-18 M1 – भगवदनु 
-19 
-My - चोदनामानम् 
-* पञ्चरात्रस्य वेदमूलत्वाभावाद्यदि अप्रामाण्यप्रसक्तिः, तर्हि पाञ्चरात्रमूलत्वाभावात् वेदस्याप्यप्रामाण्यप्रसङ्ग इति समानश्वर्चः । उभयोरपि वेदपञ्चरात्रयोः भगवदनु भवैकमूलतया तुल्यत्वात्, 
-प्रामाण्यमन्यस्य न शक्यशङ्कमिति निष्कर्षः । 
-तदन्तरे एकतरामूलत्वप्रयुक्तम- 
-†This is the objection raised by the Mimamsaka to the above view. 
-§ The Naiyayika meets this objection. 
-$ ' संवेदनं ' ज्ञानम् ; तच्च भगवतरसहजम् । इन्द्रियनिरपेक्षं तस्य प्रत्यक्षमिति भावः । 
-२४ 
-भागमप्रामाण्ये 
-[ विश्वम्भरादीनां कार्यत्वानुमानम् ] 
-बाढम् । कथमन्यथा तनु' भुवनादि कार्यमुपजनयति ? सहि तत्र' कर्ता भवति, यो यस्योपादानमुपकरणं च साक्षात्कर्तुं प्रभवति । धर्माधर्मौ च जगदुप 'करणमिति मीमांसकानामपि सम्मतमेव । अतः तत्साक्षात्कारी कोऽप्याश्रयणीयः । स च वेदानादौ निरमिभी- तेति' । यस्तु ब्रूते 'गिरिभुवनादयो भावा न कार्या' इति, प्रति- ब्रूयादेनम्' | 
-7 
-विवादगोचरा भावाः कार्या विश्वम्भरादयः । * विचित्रसन्निवेशत्वात् नरेन्द्रभवनादिवत् ॥ तथा सावयवत्वेन विनाशोऽप्यवसीयते । विनश्यन्ति च ये भावाः, ते तत्साधनवेदिना || विनाश्यन्ते ", यथा तज्ज्ञैरस्माभिः करकादयः । 
-ये पुनरपरिदृष्टबुद्धिमदधिष्ठानतरुपतनादि " शकलिता भावाः, तेsपि विमत्याक्रान्ता इति नानैकान्तिकत्वमावहन्ति । किञ्च - 
-1 
-मिहत्तया सनाथेन स्पन्दमानत्वहेतुना । उत्पत्तिभङ्गो भावानामनुमातुमिहोचिती । 
-2 M3, Mg – omit तनु 
-2 M – भावनादि 
-- 
-3 M1, M2, M1, M2, My & B omit तत्र 
-• Mg - जगदुत्पत्ति 
-5 Mg – वेदादौ; Mg, B - वेदनादौ 
-6M2. My - निरममीतेति 
-८ 
-* विचित्रसन्निवेशत्वात्', सावयवत्वादिति यावत् । 
-7 Mg— एवम् 
-8 
-My - 'भुवनादिवत् 
-9 M 3 adds इति 
-10 My - विनश्यन्ते 
-11 V2 omits तरुपतनादि 
-§ ' विमत्याकान्ता' पक्षे क्रोडीकृता इत्यर्थः । पक्षे व्यभिचारशङ्का तु न दोषाय, अपरथा अनुमानव्यवहार- 
-स्यैवोच्छेदप्रसङ्गात् इति आशयः । 
-+ ' महत्वे सति क्रियावत्वादिति यावत् । 
-मीमांसकपक्षः 
-[ तेषां सकर्तृकत्वनिरूपणम् ] 
-२५ 
-तदेव' मुदीरित' न्यायप्रसिद्धे विश्वम्भरादिकार्यत्वे', सिद्धयत्येव भगवत: 1 तदुपकरणधर्माधर्मसाक्षात्कारित्वम् । 
-तथा हि- 
-विवादाध्यासिता भावा' येऽमी 7 भू भूधरादयः । ते यथोक्तावबोधेन कर्त्रा केनापि निर्मिताः ॥ उत्पत्तिनाशभागित्वात्; यदुत्पत्ति' विनाशवत् । 
-10 
-दृष्टं तत्तादृशा कर्त्रा निर्मितं तद्यथा " गृहम् || 
-न च वाच्यं, कर्मणामेव * खानुष्ठातृपुरुषसमीहितानि सम्पा- दयतामन्तरा नान्तरीयकं॥ तनुभुवनादिकार्य 2 निर्माणमिति, यतः चेतनानधिष्ठितानि तानि न कार्याणि जनयितुमुत्सहते, अचेतन- त्वात् वासी वत् । न हि चेतनेन तक्ष्णाग्नधिष्ठिता वासी 4 स्वयमेव यूपादीन्यापादयितुमलम् । 
-1 
-15 
-न चापूर्वाण्यधिष्ठाय वयं निर्मातुमीश्वराः । 
-16 
-न हि कर्मोदयापूर्वं " साक्षात्कर्तुं क्षमामहे ॥ 
-Mo 2 Mg – उदित 
-omits तत् 
-O 
-3 M1, M2, M, & My add सिद्धे 
-4 Mg omits भगवत: 
-5 M2 & My — यथा 
-6 M, omits भावा: 
-3 
-7 Mo—ये च 
-५ 
-- 
-H Momits भू 
-M3. Moपत्ति" 
-4 
-एवं कारण ईश्वरो निषिध्यते । 
-गविना रान भवनि, तत्तस्य नान्तरीयकम् । 
-10 Mg - यद्यथा 
-11M1, M4, M8, M,, B - नान्तरीयक° 
-12 M2M2, Mg, Ma, Ms, M 7, My, & B 
-- 
-- भाव 
-O 
-13 M 2 & My - वात्सी 
-14 M2 & My — वात्सी 
-15 My-qaffo 
-16P, PM, T, M2, Ms, My, V2-कम- 
-दयात्पूर्वम् 
-| Dude Prakaranapañcikā; VII. p. 134 : 
-• नमननधिश्रिता वर्धकिना वासी वर्धनाय प्रवर्तते । 
-Also ef. Nyayakusumāñjali: V. p. 51: 
-'परमाण्वादयो हि चेतनायोजिताः प्रवर्तन्ते, अचेतनत्वात् वासीवत्' । 
-Also cf. Sankara's commentary on Brahmasūtra: IIii-1 : 
-p. 221 [ Nirnayasāgara Edition ] : 
-• नाइचेतनं लोके चेतनानधिष्ठितं स्वतन्त्रं...दृष्टम् ।'२५ 
-भागमप्रामाण्ये 
-[ जगत्कर्तुर्भगवतः निरतिशयशक्तिमत्वादिनिरूपणम् ] 
-उक्तं हि उपादानोपकरणसाक्षात्कारिण एव तत्र तत्र' कर्तृत्व- मिति । न च कर्मजन्यापूर्व' साक्षात्कार 'क्षमः क्षेत्रज्ञः कश्चित् प्रज्ञायते, प्रतिज्ञायते वा । अतः क्षेत्रज्ञतदुपभोगतत्साधनधर्माधर्मा- दिनिखिललोकावलोकन चतुरः कोऽपि निरतिशयशक्तिवैचित्र्यः पुरुषो- ऽभ्युपगन्तव्यः । * तस्य च अप्रतिघज्ञानत्वादयस्सहजाः । 
-6 
-यथाssहु:- 
-S' ज्ञानमप्रतिघं' तस्य वैराग्यं च जगत्पतेः । 
-ऐश्वर्यं चैव धर्मश्च सहसिद्धं चतुष्टयम् ॥' इति । 
-इममेव चार्थं मन्त्रार्थवादेतिहासपुराणवादा उपोइलयन्ति- + ‘ द्यावापृथिवी जनयन् देव एकः ', ' प्रजापतिर्वेदान् असृजत ' इत्येवमादयः 10 । 
-1M1 & M, omit तत्र 
-2 M1 omits न च 
-8 M 1 - चक्षुजन्यापूर्व 
-4 M1, M2, M7, My & B - साक्षात्करण 
-6 
-• Mg – तथा 
-- 
-6 Mo 
-omits आहुः 
-7 Mg - ज्ञानं प्रतिघनम् 
-8P, PM, T, M1, M6, M7, My, V2 
-omit च 
-9 M3, M4, Mg, B— देवामुरान् 
-10 M - इत्येवमादि 
-* Vide Doctrine of Sakti in Indian Literature, p. 42 : 
-"God in the conception of the Naiyayikas is one that is not only the efficient cause and supreme agent of the world, but possesses innumerable qualities such as knowledge, activity, desire, etc.". 
-Cf. Vatsyāyana's commentary on the Nyāyasūtra, IV. 1. 21, p. 292 : 
-“ gunavisiştamātmāntaram iśvarah ". 
-Cf. also ibid: p. 293 : 
-"6 
-na tavadasya buddhim vina kaściddharmo lingabhūtaśśakya upa- pādayitum ". 
-§ To be identified. This verse is quoted by Sucaritamiśra in his comment- ary on the Slokavārtika, p. 110 [ Trivandrum Skt. Series No. 901. 
-+ Mahānārāyaniya Upanisat : II. 2. 
-$ To be identified. 
-मीमांसक पक्षः 
-[ भगवतो वेदपञ्चरात्रप्रणेतृत्वकथनम् ] 
-स चायमादिकाले भगवान् प्रलीन निखिलकरणकलेयरा- त्रिभोगोपकरणचेतनेतराय माणजीवजाला 'वलोकनजनितमहानुग्रहः मलमपि जगदुपजनय्य, तदभिलषितसमस्त सांसारिकसम्पत्प्रा- फ्युपायप्रकाशनबहुलां त्रयीमेकतो निर्माय पुनरपि विविधदुरित- परम्पराकीर्णभवार्णवनिमग्नान् उद्विग्नान' वलोकयन्, परमकरुण- तया' तप्तमानसः, परम निःश्रेयससाधनखाराधनावबोध साघनीभूताः पञ्चरात्रसंहिताः सनत्कुमारनारदादिभ्योऽभ्यवोचदिति, त्रयीसमान- स्वतन्त्रानुभवमूलानि तन्त्राणि कथमिव यादृशतादृशमन्वादि - स्मरणगोत्री मधितिष्ठन्ति ? 
-| अथ मीमांसकेन वेदानामपौरुषेयत्वप्रतिपादनम् ] स्यादेवं, यदि वेदानां निर्माताऽपि प्रमाणतः । कुतश्चिदुपलभ्येत'; न चासावुपलभ्यते ॥ न च वाक्यत्व लिङ्गेन वेदकारोऽनुमीयते । अभिप्रेतविशेषाणां विपर्यासप्रसङ्गतः ॥ वाक्यं हि यत् पराधीनरचनं संप्रदृश्यते । शरीरिणैव तत्सर्वमुच्यमानं विलोक्यते ॥ पुण्यपापनिमित्तं च शरीरं सर्वदेहिनाम् । एवं पुण्येतराधीन सुखदुःखस्य देहिनः ॥ अनीश्वरस्य निर्माणं वाक्यत्वमनुमापयेत् । 
-M, "1", M - "4" 
-M, omits wil 
-6 
-• Mg omits far 
-• My qua au pan 
-• • एकतः कारयेनेति यावत । 
-54 
-5 • A' omits साध 
-• Mo - उपलभ्यते 
-7 M123 - वाच्यत्व 
-8 M1, M2, M, My B - तत्पूर्वम् 
-9 Mg reads पुण्यतराधीन 
-8 
-The Mimasaka raises his objection again. 
-पुण्यदिवस (पापा) धीनेति भावः । 
-निर्माण निर्मातृत्वमिति भावः । 
-२८ 
-आगमप्रामाण्ये 
-अपि चैवं प्रमाणत्वं वेदानामपि दुर्लभम् || 
-न हि मानान्तरापूर्वे धर्मे तस्यास्ति सम्भवः । 
-+ ननु कथं मानान्तरापूर्वो धर्मः ? उक्तं हि 'साक्षात्करोति धर्माधर्मी, कथमन्यथा तदुपकरणं जगज्ज' नयति ? ' इति । 
-[ जगतः पराभिमतकर्त्रभावत्वसमर्थनम् ] 
-सत्यमुक्तं दुरुक्तं तत्; विश्वस्य जगतो न हि । विद्यते कोऽपि निर्माता, येनैवमपि कल्प्यते विचित्रसन्निवेशत्वयुक्त्या यदपि साधितम् । तत्रोच्यते - त्रिधा भावा लौकिकैः परिलोकिताः ॥ प्रित्यक्षदृष्टकर्तारः केचिदेते घटादयः । 
-अविद्यमान निर्माणास्तथान्ये गगनादयः ॥ सन्दिह्यमाननिर्माणाः केचित् विश्वम्भरादयः । 
-तत्र प्रथम सन्दर्शित राशिद्वयेऽनवकाश एवेश्वर' व्यापारः । अद्यवदेव' विश्वम्भरादयः क्रमप्राप्तागन्तुकोपचयापचया' न युगपदु- दयविलय भागिनः । ईदृशोत्तिभङ्गौ मीमांसकानामपि सम्मतावे- वेति सिद्धसाधनत्वम् । 
-८ 
-1 B omits जगत् 
-2 M2, M – 'ऐश्वर 
-3T, M2, Ms, A, V, - आद्यवदेव 
-* 'तस्य' निर्माणस्येत्यर्थः । 
-4 M & B omit अपचयाः; P, PM - 
-'उपचयापचययोः 
-This is the contention of the Naiyāyika. 
-$ The Mimāmsaka refutes the above contention of the Naiyayika. 
-Vide Saivasiddhānta, p. 74ff, for the following : 
-"It may be noted that even the Lokāyata (Cārvāka) entertains similar view regarding, the world's creatorship, i.e., that there is no creator for it." 
-+ Panini's sūtra : " nadyrtaśca " ( V. iv-153) would require this to be pratyakṣadṛṣṭakartṛkāḥ ", since the compound intended by the author here is of the Bahuvrihi-type. But according to the well-known saying "sthitasya gatih kalpaniyā ", the term "pratyaksad stakartārah " can be interpreted as a Karmadhāraya compound, thus : “yatra pratyaksadrstāh kartārab, ete kecit ghaṭādayaḥ", in which case, the expression necessarily has to be split into two parts. 
-$ Cf. Isvarasiddhi, p. 241, where the same sentence occurs. 
-. 
-मीमांसकपक्षः 
-[ जीवानामेव जगत्कर्तृत्व निरूपणम् ] 
-बुद्धिमत्कर्तृता याऽपि प्रयासेन समर्थिता' । साध्यते साप सिद्धैव; बुद्धिमन्तो हि चेतनाः ॥ * यागादिभिः स्वभोगाय तत्तदुत्पादयन्ति नः । युक्तं चोभय' सिद्धानां तत्राधिष्ठानकल्पनम् ॥ वयं च यागादानादि साक्षात्कर्तुं क्षमा यतः । कर्मणः शक्तिरूपं यदपूर्वादिपदास्पदम् | 
-मा भूत् प्रत्यक्षता तस्य किं तेनाध्यक्षितेन नः ? 
-१९ 
-* खलु कुलालादयः कुम्भादिकार्यमारिप्समानाः तदु"- पादानोपकरणभूतमृद्दण्डचक्रादिकार्योत्पादन शक्तिं साक्षात्कृत्य तत्तदारभन्ते । यदि परं, शक्तिमविदुषामभिलषितसाधनाय, तदु- 
-У 
-IM, ममुस्थिता 
-* M. My - यागादयः 
-'M नदुराय' 
-. 
-1 M. 7.4" 
-● Vide Karmamimānsā, p. 61 : 
-.. 
-5 A - पदान्वितम् 
-6 M. reads another aa 
-7 My - कार्योपादान " 
-Though the Mimämsä is so deeply concerned with the sacrifice, it has no belief in the doctrine that the rewards of offering are to be expected either from the deities to whom the offerings are directed to be made, from a God as Creator or apportioner of reward and punishment. The sacrifice generates an unseen potency, whence the goods desired by sacrificers are obtained. " 
-S 
-नः " अस्मदिष्टाः चेतना इत्यन्त्रयः । 
-1 Cf. Avarasiddhi, p. 240: 
-“yuktai caitat yadubhayavādisiddhānāmeva cetanānām kartrt ābhyu- aagamah, lāghavāt; na copādānādyanabhijñatayā tatpratikşepah। 
-upādānaṁ pṛthivyādi yāgadānādi sadhanaṁ | 
-sākṣātkartuṁ kşamante yat sarva eva hi cetanaḥ || " 
-उभयतादिसम्मतानां जीवानामिति भावः । 
-$ Cf. Isvarasiddhi, p. 241, where this verse is reproduced almost as it is, but for a slight change in the second half of the second line, which reads as 
-'' 'nktimaddhyakşagocarah". 
-T 
-Cf. Isvarasiddhi, p. 242, for identical statements. 
-'यदि परं' इत्यस्य, 'यदि यस्किश्चिद्विवक्षितं तर्हि एवं वक्तव्यम्' इत्यर्थः । 
-मागमप्रामाण्ये 
-पादाना 'दिव्यवहारोऽनुपपन्नः । * इह तु नित्यागमजन्मना' प्रत्ययेन सम्प्रत्याकलितयागादितत्तदुत्पादन पाटवाः पुरुषाः तैरेव विश्वम्भरा- दिभावानाविर्भावयन्ति' । 
-तथा च ' प्रत्यक्ष प्रकृतिकरणः कर्मकरण- 
-प्रवीणो नैवान्यः क्षम' इति च नास्त्यत्र नियमः । अपश्यन्नेवायं प्रकृतिकरणे स्वात्ममनसी ' 
-ननु ज्ञाने कर्ता भवति पुरुषः तत् कथमिव ? 
-[ पृथिव्यादीनां प्रत्यभिज्ञया नित्यत्वसाधनम् ] +" "विनाशीदं विश्वं जगदवयवित्वादिति च यत् ' बलीयः प्रत्यक्षप्रतिहतगतित्वेन तदसत् । 
-8 
-स एवायं मेरुः ' ' दिवसकरबिम्बं च तदिदम् ', 
-धरित्री सैवेति स्फुटमिह यतो धीरुदयते ॥ 
-I ‘T ' records a variant तत्तदुपादान' 
-- 
-2 M1 – जन्मता 
-Mi - ' 
-3 M2, My - विश्वम्भरादिभावना भावयन्ति 
-4 All printed texts and manuscripts read स्वात्ममनसि, except My, which 
-gives the reading adopted by us. 
-5 M1, M2, M, M, My - कथमपि 6 M2 & My add यदपि before विनाशीदम् 7 Mg reads वियत् for च यत् 
-8P, PM, T, A, M3, M, M -- मुखत्वेन 
-* Cf. Slokavārtika, Sambandhāksepaparihāra: $1. 75: 
-kasyacit hetumā trafvam yadyadhiṣṭhānatocyate karmabhiḥ sarvajīvānāṁ tatsiddheḥ siddhasādhanam ". The same idea is expressed in the Isvarasiddhi, p. 242 : 
-66 
-agamadavagamyante vicitrāḥ karmaśaktayaḥ 
-tena karmabhirātmānaḥ sarvam nirmimatāṁ pṛthak ". 
-+ " Pratyaya" here means " jñāna”. 
-S " 
-Samprati" is used in the sense of "samyak". Also see the following verse “ krtārthatvāt krida ” etc. where also the word "samprati" occurs. 
-x By "prakrti" is meant “ upādāna” and by " karana" is meant "nimitta" and the like. 
-1 Cf. Isvarasiddhi, p. 246 : "na copādānādisāksātkārina eva kartrtva - mityapi niyamaḥ; upādānamupakaraṇaṁ ca aviduşa evātmano jñānādiṣu kartrtvāt”. 
-↑ Cf. तथा सावयवत्वेन etc., above. 
-मीमांसकपक्षः 
-" 
-शतोति हि । प्रत्यभिज्ञैव समस्त कालसम्बन्धमेषामवगम- वितुम् । मन्ति हि पूर्वापरकालयोरपि तादृशाः पुरुषाः, प्रादुः पति' 
-पामीर प्रत्ययाः । प्रयोगश्च भवति'- 
-महीशैलपतङ्गादिप्रत्यभिज्ञानवन्नरः * । 
-अतीतकालः, कालत्वादिदानीन्तन कालवत् ॥ 
-एवमनागतेऽपि प्रयोगो दर्शयितव्यः' । 
-B omits f 
-4M, omits 
-1 
-+न चेहराप्रयोगेण घटादेरपि नित्यता' | 
-प्रसज्यते, यतस्तत्र प्रत्यक्षौ भङ्गसम्भवौ ॥ विरोधे सति येनाssत्मा हेतुना नैव लभ्यते । " न लभ्यतेऽविरोधेऽपि तेनात्मेत्यस्त्यसम्भवः ॥ ॥ मित्रे सति स्पन्दमानत्वयुक्त्या 
-" 
-जगज्जन्म भङ्गश्च यः प्रत्यपादि । 
-1 
-A. M,, M., M., M,, B-яıgsafia; 
-M, 
-4-1 Mr - प्रादुर्भवन्ति 
-4 M. प्रयोगाध गवन्ति 
-1 
-I'M, M,, Mg—"ज्ञानवान् 
-"" 
-M, M., M,, My, B - दर्शितव्य: 
-7 M2 -- अनित्मता 
-8A, Mg - प्रसज्येत 
-9 A reads for a 
-10 P - विरोधेऽपि 
-11 
-11M1, M2, M, M8, M,, My & B -- 
-सम्भवः 
-* This long compound qualifies the term " atītakālah". 
-+ 
-सोऽयं पनि प्रत्यभिज्ञया घटादेरपि नित्यत्वं न शङ्कनीयमिति भावः । तत्र कारणमाह 'यत ' 
-'सति गेन हेतुना आत्मा नैव लभ्यते [ हेतुत्वं हीयत इति यावत् ], तेन अविरोधेऽपि सति, आश्मा 
-गोरित इंश्येतत् न सम्भवति ।' इति श्लोकस्यास्य पदान्त्रयः । 
-Cf. Tantravartika under I. iii. 51-54, 55: 
-na hi yena pramāṇatvaṁ labdhapūrvaṁ kadācana tena tat sarvadā labhyamityājñāpayatiśvaraḥ ||| na ca yad balavadruddhamātmānaṁ naiva vindati avirodhepi tenātmā na labdhavyaḥ kathaṁcana || na capi bādhakābhāvāt labdha ātmeti sarvadā | labdhavyaḥ sa virodhe 'pi pūrvasāmānyadarśanāt || 
-↑ 07. uragi Baia etc., above. 
-३२ 
-आगमप्रामाण्ये 
-स च प्रत्यभिज्ञाचलध्वस्तहेतुः 
-न हृद्यत्वमद्य प्रपद्येत युक्त्या ॥ 
-अपि च ' धर्मिविशेषविरुद्धश्चायं हेतुः ' कार्यत्वात्' इति । * कार्यत्वं हि स्वभावदृष्ट' विग्रहवत्वानाप्त' कामत्वानीश्वरत्वा सार्वज्ञया- दिव्याप्तिवित्त्युपयुक्ततरानेकविशेषानुषक्तं कथमिव तत्प्रत्यनीक- भूताशरीरनित्यतृप्त सर्वज्ञत्वाद्यभिमतविशेषान् साध्यधर्मिणि अव- गमयति ? स्व शरीरप्रेरणमपि शरीरसम्बन्धासमवायि' कारणक- प्रयत्नवतो नान्यस्येति न कथंचिदशरीरिण: कर्तृत्वसम्भवः । 
-अथैतद्दोषहानाय देहवानित्युपेयते । 
-8 
-स देहो जन्मवान्, मा वा ? जन्मवत्त्वेऽनवस्थितिः ॥ नित्यत्वेऽवयवित्वं च स्यादनैकान्तिकं तव । 
-1 A omits अपि च 
-2 B omits दृष्ट 
-9 Mg ~ विग्रहतत्वेन प्राप्त 
-4 T records a variant : व्याप्तमिति 
-SM omits स्व 
-* Vide Karmanimārsā : pp. 61-62 : 
-• Mg – सम्बन्धत्वादि 
-7M - करणक 
-8 B – अवस्थितिः । T records a variant : 
-न च स्थिति: 
-• B―न बा 
-"Experience, Prabhakara urges, shows us the bodies of all animals being produced by purely natural means; we can argue hence to the facts of the past and future and need invoke no extraneous aid......Supervision (by God) also is impossible, even had God the necessary knowledge; it must take the form either of contact, which is impossible as merit and demerit being qualities are not subject to contact, or inherence, and plainly a man's qualities cannot inhere in God. If the argument is adduced on the analogy of the car- penter, it may be replied that on this basis, the creator would have to be an embodied spirit, and no embodied spirit can effect such subtle things as the atoms or merit and demerit. 
-$ सिसाधयिषिते कर्तरि ' इत्यर्थः । 
-+ स्वदुक्तस्य सावयवत्व हेतोरनैकान्तिकदोषो भवेदित्यन्वयः । 
-मीमांसक पक्षः 
-* यदप्येते'sवोचन्नधिकरणसिद्धान्तबलतो 
-विशेषास्सिद्धयन्तीत्ययमपि च पन्था न घटते । स हि न्यायो जीवदपि, यदि च' मानान्तरकृतो विरोधोऽस्यादृष्टः, पुनरपि विरोधः स्फुटतरः । ॥ 
-" 
-ननु चावधृताविनाभावनियममपि यदि न विश्वंभरादि बुद्धिमन्निमित्ततामवगमयति, प्रत्यस्तमित' स्तर्हि ' अनुमेय व्यवहारः । अधावगमयति', अवगमयत्येवासावखिलत्रैलोक्य निर्माण प्रवीणं तमपि कर्तारम् | 
-न ब्रूमो नावगमयतीति । किन्तु यावन्तो विशेषा व्याप्ति- 
-' M—यदप्येके; B तदप्येते 
-2 A reads a for a 
-3 
-Ma reads यदि च as च यदि 
-4 M 1, M3, Ma, M, & B omit नियम and 
-read अविनाभावमपि 
-5 P, PM, T, M, & M.-graftafùa: 
-6 My adds इति 
-- 
-7 Ma, Mg – अनुमानानुमेय ' 
-M3: Mo omit अथावगमयति; 
-My — अथवा गमयति 
-9 Mo - कमपि 
-14 
-* " Adhikaranasiddhānta " or " Doctrine resting on Implication ", is defined in the Nyayasutra under I. i. 30 as "yatsiddhau anvayaprakaraṇasiddhiḥ, 50 dhikaranasiddhāntah". Cf. vatsyāyana's bhāsya on it : " yasya arthasya siddau anye arthaḥ anuṣajyante, na tair vina so 'rthaḥ siddhyati, te arthaḥ sudadhisthünüh, so 'dhikaranasiddhāntah". So, Adhikaraņasiddhānta can be explained as the principle by which, when a certain thing is known or accepted, certam other things automatically follow, by reason of their dependence upon the former. This Adhikaraṇasiddhanta in modern logic is known as ''pakyadharmata". Since the fact of earth, etc. having a creator cannot be proved unless that creator is also accepted as a direct perceiver of all entities including the atoms (the material cause of the cosmos), the admission of such a power of all-round perception in that creator follows by the principle 
-• Adhikaraņasiddhānta ' ( Implied Doctrine ). 
-| " अपि च धर्मिविशेषविरुद्धश्चायं हेतुः " इति पूर्वमेव (पु. ३२ ) हेतुविरोध: प्रपचितः । 
-4' अवधृता विनाभाव नियममि' श्येतत् 'कार्यश्वम्' इत्यस्य पदस्य अध्याहृतस्य विशेषणं भवितुमईति । श्रथम 'गराः, त्यस्य वा विशेषणत्वेन स्वीकर्तुं शक्यते । 
-३४ 
-भागमप्रामाण्ये 
-ग्रहणसमयसंविदिताः, तानप्य' विशेषेणोपस्थापयतीति । * न च तावताऽतिप्रसङ्गः । प्रमाणान्तरगोचरे हि लिङ्गिनि लिङ्गबलादापततो विपरीत विशेषान् तत्प्रमाणमेव प्रतिरुणद्धि । अत्र पुनरतिपतित- मानान्तरर्म' भावे भगवति सिसाधयिषिते यावन्तोऽन्वयव्यतिरे- कावधारिता अविनाभावभाजो धर्माः, तानप्यविशेषेणोपस्थाप- यतीति । तथा च प्राङ्गण' निकटवर्ति दूर्वाङ्कुरादिष्वनवसितपुरुष- व्यापारजन्मसु अनैकान्तः । तत्राप्यतीन्द्रिय पुरुषाधिष्ठान 'कल्पना कल्पना मात्रमेव । 
-[ भगवतः जगत्प्रति कर्तृत्वानुपपत्तिसमर्थनम् ] 
-Xक वा देशे तिष्ठन्ननवरततृप्तः किमिति वा 
-1 A omits अपि 
-2 
-• M2, My omit विपरीत 
-3 A adds another भावे 
-4 Mg ~ प्राकट° 
-- 
-SA, B – वृत्ति' 
-6 M1, M2, M9, My omit कल्पना 7 M2, My - कल्पन' 
-B - अधिष्ठान 
-8 P-afa: 
-यत्र धूमस्तत्र वह्निरिति व्याप्तिर्महानसादौ गृहीता । पर्वते धूमं दृष्ट्वा वह्निमनुमातुं प्रवृत्तस्य पुरुषस्य, तत्रत्योऽपि वह्निः महानसादाविव फूस्कारेणैव प्रवृद्ध इति, स च पाकार्थमुपयुज्यत इत्याद्याः सम्भावनाः सम्भाव्यमाना अत्र अतिप्रसङ्गशब्देन सूचिताः । एतेषां विपरीतविशेषाणां प्रत्यक्षप्रमाणबाध्यत्वमाह प्रमाणान्तरेत्यादिना । तथा च पर्वतं गत्वा तत्रत्यो वह्निः कीदृश इति विचारे, क्रियमाणे, पूर्व वह्निविषये सम्भावितान् फूत्कारप्रवर्धनपाकोपयोगार्द. न् अतिप्रसङ्गान् प्रत्यक्षप्रमाणमेव निवारयेदिति भावः । 
-$ Cf. Isvarasiddhi, p. 244. 
-+ 
-सकलप्रमणान्तरानवगते' इत्यर्थः । 
-+ कर्तृत्वमिव अनीश्वरत्वादिकमपि धर्मजातं व्याप्तिबलेन व्यवस्थापयतीत्यर्थः । 
-॥ अत्र सन्दर्भानुरोधेन ' तथा च ' इत्यस्य 'किच ' इत्यर्थो वर्णनीयः । 
-$ कार्यत्व हेतुरिति योजनीयम् । 
-x Cf. Nyāyamañjari Vol. 1, p. 191 : 
-19 
-“kim kimapi prayojanamanusandhāya jagatsarge pravartate prajāpatirevameva vā ? nisprayojanīyāṁ pravṛttāvaprekṣāpūrvakāritvāt unmattatulyosau bhavet. 
-Vide Saivasiddhānta p. 83, ff. 
-"To create the world, the Lord should have occupied some place, but where is it exactly, when we definitely know that by then, space itself has not been created?" 
-Kumārila is the most relentless and vehement critic of the divine origi- nation and dissolution of the universe. Creation of the world is refuted in 
-कदा वा निश्शेषं जनयति ? तदेतद्वि' मृशतु । कचित्तिष्ठन्निष्टं किमपि फलमुद्दिश्य, करणैः, 
-कदाचित्, यत्किञ्चिज्जनयति कुलालादिर खिलः ॥ " कृतार्थत्वात् क्रीडा न च भवति; हेतुर्यदि खलु 
-1 Mg—तदेकः; Mo—तदेकम्° 
-Slokavārtika, under 1-1-5; sl. 47: 
-"pravṛttiḥ katham adya ca jagataḥ sampratiyate I śarīråder vină casya kathamicchāpi sarjane ?" 
-Dissolution, likewise, is refuted in ≤1. 68: 
-"pralaye' pi pramāņaṁ naḥ sarvocchedātmake na hii 
-na ca prayojanaṁ tena syāt prajāpatikarmaṇā || ' 
-" 
-For a detailed refutation of the creative activity of God, at a time when space itself did not exist, see ibid. śls. 45, 50-51 : 
-"yada sarvamidaṁ nāsīt kvävasthā tatra gamyatām | prajāpateḥ kva vā sthānaṁ kiṁ rūpaṁ ca pratīyatām || " "sādhanam cāsya dharmadi tada kiñcinna vidyate na ca nissadhanaḥ kartā kaścit sṛjati kiñcana nādhāreņa vinā sṛṣṭirūrṇanābherapiṣyate | praṇināṁ bhakṣaṇāccāpi tasya lālā pravartate || Vide Slokavārtika under I. i. 5, śls. 54-56: 
-tatha capekṣamāṇasya svātantryaṁ pratihanyate I jagaccāsṛjatastasya kiṁ nāmeṣṭam na siddhyati ? prayojanamanuddiśya na mando' pi pravartate evameva pravṛttiścet caitanyenāsya kim bhavet? kriḍārthāyāṁ pravṛttau ca vihanyeta kṛtārthatā bahuvyā pāratāyāṁ ca kleśo bahutaro bhavet || Also cf. ibid: $1. 57, ff. 
-C. Nydyamañjarī, Vol. I, p. 192: 
-atha keldarthe jagatsarge bhagavataḥ pravṛttirīdṛśa ca śubhāśubharūpeṇa jagatā *pstena kılgati parameśvara ityucyate, tarhi krīḍāsādbyasukharahitatvena 
-steḥ parvamaväptasakalānandatvaṁ nāma tasya svarupamavahiyate; 
-na ca krīḍāpi niśśeṣajanatātaṁkakāriņī | 
-Пyasabahulā ceyam kartum yukta mahātmanaḥ || tamanna jagatāṁ natha iśvaraḥ sraṣṭā saṁhartāpi bhavati. 
-Also cf. ibid: p. 194: 
-ata eva nirikşya durghaţaṁ jagato janmavināšaḍambaraṁ | na kadácidanidṛśam jagat kathitam nitirahasyavedibhiḥ ||भागमप्रामाण्ये 
-स्वभावः', : स्वातन्त्र्यं प्रकटितमहो संप्रति विभोः । अभिप्रेतं किञ्चिद्यदयमसमीक्ष्यैव कुरुते 
-जगज्जन्मस्थेम' प्रविलय महायासमवशः ॥ 'अनुकम्पाप्रयुक्तेन सृज्यमानाश्च जन्तवः । 
-सुखिनः किं न सृज्यन्ते' ? तत्कर्मापेक्षया यदि || 
-All printed texts and manuscripts 
-read स्वभावस्वातन्त्र्यम् as one word except 
-the ms. 'B', whose reading is 
-selected by us. 
-2. M 2 reads प्रलय 
-3 M1, M2, M4, My & B - दृश्यन्ते 
-$ 'सम्प्रति सम्यगित्यर्थः । जगत्सृजनं भगवतः स्वभावश्चेदुच्यते, तर्हि सम्यगेव तस्य स्वातन्त्र्यं प्रति- पादितं भवद्भिरिति सोपालम्भमाह । तदा तु भगवान् परतन्त्र एव स्यादित्याशयः । 
-+ स्वभावत्वादेव असमीक्षोपपद्यते । 
-★ 
-Vide Slokavārtika, under I i-5, sls. 52, 53 : 
-abhāvāccānukampyānāṁ nanukampasya jāyate | srjecca subhamevaikaṁ anukaṁpaprayojitaḥ || athāśubhād vinā sṛştiḥ sthitirvā nopapadyate | ātmādhīnābhyupaye hi bhavet kimnāma duşkaraṁ ? Cf. Isvarasiddhi, pp. 244-245: 
-svārthakāruṇyabhāvena vyāptāḥ prekṣāvataḥ kriyāḥ | iśvarasyobhayābhāvāt jagatsargo na yujyate || 
-avāptakāmatvānna tāvadātmārthe sṛjati; pralayasamaye pralinasakalakaraṇa- kalebarādibhogopakaraṇataya ca cetanānāṁ duḥkhābhāvāt duḥkhidarśanajani- takṛpāprayuktirapi nāstīti vyāpakabhūtasvārthakāruṇyanivṛtteḥ vyāpyabhūtayā prekṣāvatpravṛttyāpi nivartitavyam; 
-sukhaikatānam janayet jagat karuṇayā sṛjan | tatkarmānuvidhayitve hîyetāsya svatantrata || 
-Cf. Nyāyamañjari, Vol. I. p. 192 : 
-avāptasarvānandasya rāgādirahitātmanaḥ | jagadārabhamaṇasya na vidmah kim prayojanam | 
-anukampaya pravartata iti cet, maivam- 
-sargāt pūrvaṁ hi niśśeşakleśasaṁsparśavarjitāḥ | nāsya muktā ivātmāno bhavanti karuṇāspadam || 
-... 
-... 
-... 
-... 
-... 
-... 
-karuņāmṛtasamsiktahṛdayo va jagat srjan i 
-katham srjati durvāraduḥkhaprāgbhāradāruṇam? 
-ततः स्वतन्त्रताहानिः; किश्च तैरेव हेतुभिः । । उपपन्नपि वैचित्र्ये, किं तत्कल्पनयाऽनया ? 
-[ वेदानां नित्यत्वसमर्थनपूर्वकमपौरुषेयत्वप्रतिष्ठापनम् ] 
-अतो नास्ति तादृशः पुरुषः, यस्समस्तजगन्निर्माणक्षमः, साक्षात्कृतधर्माधर्मो वेदानारचयति । अपि च, यदि वेदाः केन- विज्यन्त ततः ' तेनामी विरचिता' इति तत्कर्ता स्मर्येन' । 'न च जीर्णकृपादावि' वास्मरणं युक्तम्; युज्यते हि तत्र प्रयोजना- भाषात कर्तुरम्मरणम् । वेदे तु अनेकद्रव्यत्यागात्मक बहुतरायाम- माध्यामि कर्माणि प्रत्ययिततरनिर्मातृ'स्मरणमन्तरेण के वा' श्रह- भीरम ? तथा हि-नित्या वेदा:, अस्मर्यमाणस्मरणार्ह कर्तृकत्वात् । ये गोतमाध्या न भवन्ति, ते यथोक्तसाधना अपि न भवन्ति, गथा" भारतादयः । अमी तु यथोक्तसाधना इति, यथोक्तसाध्या एव । तम्मादपौरुषेया वेदा इति । खसिद्धान्ताभिनिवेशव्यामुग्ध- बुद्धिभिरभिहितमिदं - ' यदनुभवनिबन्धनं वेदप्रामाण्यम्, तदनु- 
-मिथम्भनं पञ्चरात्रप्रामाण्यम्' इति । 
-PM 
-• My omits अपि च 
-•M, M,-144 
-"कुमावी" 
-"M"ना" 
-५८%. Ibid: 
-• A, M1, M2, M3, M, Ms, M 7, V1 & Va omit वा 
-7 My - स्मरणार्थ 
-• My - तथा 
-9 Mg - पौरुषेया: 
-nanamagataŝubhāśubhakarmakalapanapekṣaḥ sraşţă prajapatiriti cet kar- milayeva hi tarhi srjantu jaganti, kim prajā patinā? athācetanānāṁ cetanana- dhisthitana srastrtvamaghatamānamiti teşāmadhiṣṭhātā cetanaḥ kalpyata iti cenna; tadaśrayānāmeva cetanatvāt ta evādhiṣṭhātāro bhaviṣyanti; kimadhi- 
-thatrantarepeśvareņa kāryam ? 
-1 हेतुभि: - कर्मस्वभावादिभिः । 
-• Cf. Sabarabhāsya under I. i-5; p. 12 : 
-na ca himavadădiṣu kūpārāmādivat asmarapaṁ bhavitumarhati.. 
-1 
-मागमप्रामाण्ये 
-[ नैयायिकमुखेन वेदापौरुषेयताविचारः ] 
-* ननु च किमिदमपौरुषेयत्वं वेदानाम् ? यदि नित्यवर्णा- रब्धत्वं समानमिदं पञ्चरात्र तन्त्राणाम् । अथ पदानां नित्यता, साऽपि समानैव । न चानुपूर्वीनित्यता । न हि नित्यानामानुपूर्वी - स्वभाव उपपद्यते । उच्चारणानुपूर्व्यात्' आनुपूर्वी वर्णानामिति चेत्, सा तर्हि तदनित्यत्वादेवानित्येति' कः खलु विशेषः पञ्चरात्रश्रुत्योः ? [ मीमांसकेन स्वमतव्यवस्थापनम् ] 
-अयमेव विशेषो यदेकत्र स्वतन्त्र एव पुरुषः तां तामानुपूर्वी रचयति; इतरत्र' परतन्त्रो नियमेन पूर्वाध्येतृ सिद्धामेव विवक्षति / क्रिमावान्तरजातिश्च प्रत्यभिज्ञाबलप्रतिष्ठिता नापलापमर्हतीत्यलं विस्तरेण" । सिद्धमिदं न विलक्षणपुरुषानुभवनिबन्धनप्रामाण्य- वर्णनं " साधीय इति । 
-11 
-[ मीमांसकेन पञ्चरात्रस्य वञ्चकपुरुषकृतिमात्रत्वनिगमनम् ] 
-यतो न साक्षात्कृतपुण्यपापः 
-पुमान् प्रमाणप्रतिपन्नसत्त्व : 12 | 
-अतो जगन्मोहयितुं प्रणीतं 
-नरेण केनाऽपि हि तन्त्रमेतत् ॥ 
-1 M2 omits च; Mg omits ननु च 
-2 M 1 – पाञ्चरात्र° 
-8 M2 - पञ्चरात्राणाम् 
-4 M3 नव° 
-5 A, B, M1, M3, M2, Ms, Ma, M, T, V1, V2 – ° आनुपूर्व्यम्; M2 – आनुपूर्वम्° 6M 1 - उच्चारणापूर्वात् 
-7 M2 - तदनित्यत्वा नित्येति 
-8 B, M – अनुपूर्वीम् 
-9 M, — उत्तरत्र 
-10A, B, M1, M3, M8, M6, M7, P, PM, 
-T, V1, V2 read प्रविस्तरेण 
-11B, M1, M2, M4, M, omit वर्णनं and 
-read प्रामाण्यम् 
-12 M1, Mg, M4, M2, My, & B – सत्त: 
-The Naiyāyika tries to examine the revealed character (apauruşeyatva) 
-of the Vedas, which the Mimāṁsaka so zealously champions. 
-§ This is how the Mimāṁsaka vindicates his contention. 
-1 ' अवान्तरजाति 'रिश्यस्य वैलक्षण्यमित्यर्थः । क्रमनियमानियमाभ्यामेव वेदपञ्चरात्रयोवैलक्षण्यं सुस्पष्ट- मित्याशयः । 
-नैयायिकपक्षः 
-[ नैयायिन स्त्रोक्तार्थे वेदान्तप्रामाण्यकथनम् ] * ननु च केवलतर्कबलादयं 
-यदि सिसाधयिषापदमीश्वरः । 
-भवतु नाम तथा सति दूषणं 
-श्रुतिशिरः प्रमितो हि महेश्वरः ॥ 
-१९ 
-गदा तु सकल' भुवननिर्माणक्षम सर्वज्ञ सर्वेश्वर परम पुरुषप्रति- पावकानि नित्यागमवचनान्येव बहुलमुपलभ्यन्ते, कथं तदा तद- नुभवमूलस्मरणप्रामाण्यानङ्गीकरणम् ? 
-[ गिद्ध वस्तुनि प्रामाण्यं नास्तीति प्राभाकरमतोपक्षेपः, तन्निरासश्च ] 
-+न च परिनिष्ठित 'वस्तुगोचरतया तानि प्रमाण' मर्यादामति- पतन्ति । तादृशामपि प्रमाणान्तरसम्भेदातिदूरगोचराणां पौरुषेय'- पचमां स्वरस'समासादितप्रामाण्यवारणा' योगात् । 
-न च सिद्धे वस्तुनि साधकबाधकयोरन्यतरोपनिपातसम्भव- 
-भावितानुवादविपर्ययपर्यालोचनया, तद्गोचरवचसां " 
-प्रमत्त:, 
-● My - निखिल 
-• M, omits म 
-" 
-M, & M., omit azt 
-Ma 
-तदा 
-1 T. V 2 - परिनितिष्ठित 
-१ 
-~ M. 
-M 
-1. 
-प्रामाण्य" 
-आपतन्नि 
-' A. M. M, M., & B - अपौरुषेय 
-+ 
-8 Mg — परस्पर° 
-9 M 2 -- प्रामाण्यवादितारण्य 
-B— प्रामाण्यवादितावतरण' 
-10 Mg — प्रसक्ते 
-- 
-11P, PM, T, V,, V2, A, Mg, Mo & 
-Mo—वचसः 
-The Naiyayika tries to uphold the validity of the Agama, on the pround that its author, the Supreme Person, is glorified in the Upanişads. 
-ין 
-, 07. Vatsyāyana's commentary on the Nyāyasūtra, under IV. 1. 21, 
-agamacca draṣṭā boddhā sarvajñātā īśvaraḥ. 
-The Prabhakara's position with regard to the authority of statements 
-" quakany of a past event ( siddha or parinisthitavastu ) is criticised by the Naiya - sika here. 
-४० 
-भागमप्रामाण्ये 
-। 
-प्रामाण्यप्रच्युतिः; कार्यनिष्ठस्यापि तत्प्रसङ्गात् । कार्यमपि हि मानान्तरवेद्यमेव लौकिकं समिदाहरणादि । ' तच्च मानान्तरेणापि वेद्यमोदनपाक'वत्' इत्यभ्युपगमात् । 
-*अथ विलक्षणाग्निहोत्रादिविषयकार्यस्यासंभावितमानान्तर- तया तत्प्रतिपादयत् वचः प्रमाणम्, हन्त तर्हि निरतिशयावबोधै- श्वर्यमहानन्दसन्दोहवपुषि भगवति न मानान्तर सम्बन्धगन्ध' इति सर्वं समानमन्यत्राभिनिवेशात् । 
-अपि च, प्रवृत्तप्रमाणान्तरमपि स्वगोचरं तद्गोचरतया नाव- भासयतीति परमपि प्रमाणमेव । कुतः तदुपनिपातसम्भावनया- Sनुवादत्वम् ? कथं वा प्रत्यस्तमित समस्तपुरुषाशयदोष संस्पर्श नित्या- गमभुवः प्रत्ययस्य पूर्वोपमर्दकतया । उन्नीयमानस्य, सम्भाव्यमान- विविधविप्लवैः प्रमाणान्तरैरपवादापादनमिति यत्किञ्चिदेतत् । 
-1 M2 & My omit f 
-2 Mg – समिदाहरणानि 
-3 
-3 Mg – पान 
-* 
-4 M1, M2, M4, M2, My & B omit 
-Vide Prakaranapañcikā II. p. 180 : 
-गन्ध; P & PM read गन्धसम्बन्धः 
-5 M1 M2, M,, M, My, & B - नावगमयतीति 
-kṛtisādhyaṁ pradhanam yat, tat karyamavasiyate 
-tacca mānāntareṇāpi vedyamodana pākavat. 
-Statements like “agnihotram juhoti" ( Taittiriya Samhitā : V. 9.1 ) speak of “ agnihotra ", which is a siddhavastu, but not a kārya. This, according to the Prabhakara, should not be primarily valid. But actually, he accepts its primary validity on the ground that such statements are the only means of revealing the instrumentality of fire-sacrifice with regard to heaven and such other fruits. When this is the case, the Naiyāyika sees no reason why the Prabhakara should not approve the validity of statements which speak of the existence of a Supreme Being. 
-§ आग्रहे परं भेदः । तेन विना त्वदीयं मतं मदीयेन तुल्यमेवेति भावः । 
-+ पूर्वमवगतस्य तन्त्रसामान्यज्ञानस्य उपमर्दकतया इति यावत् । 
-प्राभाकरपक्षः 
-[ श्रुतिप्रसिद्ध भगवत्प्रणीतस्य पञ्चरात्रस्य निर्दोषत्वप्रतिपादनम् ] 
-इत्थं च श्रुतिशत' समधिगत विविधबोधैश्वर्यादिवैभवे भगवति सामान्यदर्शनावसिता' सार्वश्यविग्रहवत्तादयो' दोषा नावकाशमभु- 
-तं हुतभुजीव शैत्यादयः । ततश्च- 
-श्रुतिमूर्ध्नि प्रसिद्धेन सर्वज्ञेनैव निर्मितम् । तत्रं मिथ्येति वक्तुं नः कथं जिह्वा प्रवर्तते ? 
-[ प्राभाकरेण स्वमतसमर्थनम् ] 
-* अहो मन्दस्य मीमांसाश्रमहानिः विजृम्भते' ! मीमांसामांसलं चेतः कथमित्थं प्रमाद्यति ? कार्ये मानान्तरापूर्वे समस्तं वैदिकं वचः । प्रमाणमिति हि प्राज्ञा मन्यन्ते मान्यबुद्धयः ॥ पदानां तत्परत्वेन व्युत्पत्तेरवधारणात् । न खल्वन्यपरे शब्दे व्युत्पत्तेरस्ति सम्भवः ॥ [ पदानां कार्यपरत्वसमर्थनम् ] 
-तथा हि- वृद्धयोर्व्यवहरतोः एकतर वृद्धप्रयुक्तशब्दश्रवणमम- नन्तरजनितान्यतरवृद्धसमवेत चेष्टां दृष्ट्वाऽन्यथानुपपत्त्युन्नीयमाना' शब्दशक्तिः, तदुपपादककार्य पर्यवसायिन्येवावसीयते । प्रतीता' हि स्वकार्यमन्ताने कार्यसंविदेव तत्तद्विशिष्टचेष्टाहेतुतया । तदयमिहापि ताशी प्रवृत्तिं पश्यन्नेवमाकलयति - 'नूनमितस्सकाशादस्य कार्य- मंदिराविरासीत्, यदयमेतदनन्तरं प्रवर्तत ' इति । 
-• M., fana 
-• Mवस्थि° "M"वादयः 
-4 My " श्रमानिविजूभिते 
-- 
-5 Me & V2 add चेतन 
-6 M2, My -- उन्नीयमान 
-Mg - अन्यथानुपपत्तिर्जायमाना 
-7 My – प्रतीति: 
-- 
-The Prabhakara explains his position at great length. 
-& Cf. Prakaranapañcikā V, p. 93 : 
-sarvapadānā meva hi svābhāviki vṛddhavyavahārasiddhā kāryaparatā, Bikramiki ca siddhaparateti. 
-" 
-एवं च समस्त व्यवहारानुगतप्रवृत्तिनिमित्तकार्यप्रतिपादन- परतया व्युत्पन्ने शब्दे यत्पदावा पोद्वारानुयायिनो येऽर्थ भागाः, ते प्रथमावगतप्रधानभूतकार्यानुगुणतया तैस्तैरभिधीयन्त इत्यध्यव- स्यति । तत्र च लिङादयोऽव्यभिचरित कार्यसंविदः, कार्यशरीरमेव साक्षात् समर्पयन्ति । लडादयस्तु तदपेक्षिताधिकाराद्यनुबन्धप्रति- पादनमुखेन तत्समन्वयमनुभवन्तीति । 
-* न च पुत्रजननादिस्वरूपावेदन' पर्यवसायिनः पदनिचयस्या- विरलपुलकोदयवदनविकासादिभिः, अभिमतसुत'जन्मादिप्रतिपाद- नशक्तिनिश्चयः । अजातातिवृत्तप्रत्युत्पन्नविविध' हर्षहेतूपनिपातेऽ- 
-यमुनेति निर्धृत्य प्रतिपत्तुमशक्यत्वात् । 
-एतेन व्युत्पन्नतरपदसमभिव्याहृतवर्तमान निर्देशेऽपि 7 कार्ये - दम्पर्यविरहित पदशक्तिनिश्चयप्रति विधिरनुसन्धातव्यः । 
-1 M4, My & B omit अर्थ 
-2 P, PM, T, V2 - तिङादयस्तु 
-M1. M2, M7, My, B – लङादयस्तु 
-A, Ms, V1 - लिङादयस्तु 
-3 M1, M2, M4, M, My, B – निवेदन 
-• M1, M, omit त 
-$ Cf. Prakaranapaññcikā V, p. 91 : 
-8 
-5 A omits fafa; 'B' adds fa 
-6 P – ° अमुयेति ; Ma - अमृत इति 
-T, M1, M6, M7, My, V1, V2 & B— अमुतेति 
-7 M, B - निर्दिश्येऽपि 
-8M,, M2, Ma, M,, My, Bomit प्रति 
-tatra liñadipratyayo niyogarthasariramevābhidadhāti, prakṛtistadviṣayam; padāntarāņi ca viṣayaviseṣaṇam namadheyam niyojyam ca abhidadhātīti. 
-* Cf. ibid V, p. 93 : 
-tathāpi putraste jāta iti vākyasya putrajanmakhyaharṣahetupratipada- katā harṣahetunamãnartyât duranumānā; na ca pariseṣyena tatpratipadakat- vādhyavasayaḥ; bhūtabhaviṣyadvartamānānāṁ sannihitavyavahitānāṁ pārise- şyāvadhāraṇāyi atyantaduşkaratvät. 
-* 'अयं ह अमुना हेतुना जात' इति न निर्धारयितुं शक्यमिति । 
-+ Cf. Prakaranapañcikā V, p. 92 : 
-vyutpannetarapadavibhaktyarthaḥ kāṣṭhaiḥ pacati iti vartamânopa- desepi yat pake karaṇaṁ, tat kāṣṭhaśabdena pratipadyata ityavagamya pratya- kṣeņa kāṣṭhānāṁ karaṇabhāvamavagacchantaḥ kāṣṭhaśabde vyutpadyante. 
-प्राभाकरपक्षः 
-३ पदान्तराणि यादृङ्क्षि व्युत्पद्यन्ते च तादृशम् । 
-इदं च पदमित्येव तत्र व्युत्पद्यते नरः ॥ तानि कार्यान्वितस्वार्थबोधकानीति साधितम् । अथ तद्बुद्धिहेतुत्वात् प्रामाण्यं भूत' गोचरम् ॥ इष्यते, तदनैकान्तं पदेष्विति न शोभते । अथ तत्परता। हेतु:, ततश्च स्यादसिद्धता " ॥ 
-13 
-न हि अकार्यरूपे वस्तुनि क्वचिदपि 12 शाब्दी " बुद्धिः पर्यय- व्यति । याः पुनः लौकिकशब्दश्रवणसमनन्तरभाविन्यः अन्य- गावगमगस्ता आनुमानिक्यो 45भिहिता " न शाब्ध इत्युपपद्यत एव नानामपर्यवसानम्+ | 
-15 
-यदि तत्परता ग्राहः शब्दानां नैव विद्यते । 
-IM,,, Ma. Vg - "इत्येवम् 
-• M."" 
-I'M reads this line immediately next 
-• 
-to the line un' etc. 
-• My गतः 
-•पामाण्यग् 
-"M, 1!" 
-1M,, M2. M, M My B— उच्यते 
-"I'. PM. T. M2, Ma, M,, My, V1, B- 
-ताकान्नग 
-9 M, पदेष्वति 
-10 My - तत्परतायां तु 
-11M - असिद्धिता 
-12 My - काचिदपि 
-13 M 2 - शाब्दिक 
-Mo- शाब्द 
-14 M3 - आनुमानिन्यः 
-15 M2 - आनुमानिक्यो हि ताः; 
-& Cf. Prakaranapañcikā II, p. 179 : 
-Mg - उदिता: 
-Sabdāntarāņi svartheṣu vyutpadyante yathaiva hi | iväpodvāpabledena tathā kārye liñadayaḥ || 
-The Mimāmsaka poses two alternatives to refute the validity of tatements referring to existent factors. 
-! 
-" Tadbuddhihetutvāt” means " bhūtavastuvişayakajñānajanakatvāt". 
-| " Tatparatà " means " bhūtavastuparatā ". 
-According to the Prabhakara, all statements made by human beings only inferential in character and as such, cannot be primarily valid. 
-४४ 
-भागमप्रामाण्ये 
-x* अग्निहोत्रं जुहोती 'ति विधिः कस्मादुपेयते ? अथ तत्र प्रमाणत्वे संवृत्तेऽपि च तावता । पुरुषार्थत्वलाभाय विधिरभ्युपगम्यते || तदसत् - न प्रमाणानां प्रयोजनवशानुगा । प्रवृत्तिः, किन्तु तन्मूलः प्रयोजन परिग्रहः । 
-2 
-न खलु कनकमभिलषतः शिला 'वलोकन मनभिमतमिति ' कनकावलोकनता आश्रयितुमुचिता । 
-तात्पर्यमेव शब्दानां यावत् कार्ये न कल्पितम्' | न तावत् वर्तमानादिनिर्देशे' विधिकल्पनम् ॥ 
-[ उपनिषद् | क्यानां कार्यसमन्वय प्रकारकथनम् ] 
-* एवं चोपनिषदामपि तत्र तत्राम्नायमानज्ञानोपासनादिविधि'- शेषतयाsर्थो व्याकरणीयः । तदयमर्थः - ' सर्वज्ञमानन्दमात्मानं जानीयात्' इति । 
-1 M,—°लाभोऽयम् 
-5 Mg - न खल्विति 
-2 P, PM – तन्मूल 
-3 My adds शकल 
-6M2, M2, Mg, M, B – निर्देश ° 7M,, M2, My add विशेष 
-4A, M2, M6, Mg - अभिमतमिति 
-· 
-8 Mg, M, B – ° विशेषतया 
-x Taittiriya Samhitā V. 91. 
-$ Cf. Tantravārtika under I. ii 1, p. 2 : 
-kalpyate. 
-na hi loṣṭam paśyataḥ taddarśanaṁ nişprayojanamiti suvarṇadarśanatā 
-Venkatanatha quotes this passage in his Seśvaramimämsä under I. ii. 1, p. 57. 
-* 
-Cf. Prakaranapañcikā V. p. 93, ff : 
-ataśca vedantānāmapi ātmā jñātavya ityapunarāvṛttaye samāmnātena vidhina ekavākyatāmāśritya kāryaparatvameva varṇaniyam....api ca siddhar- thaparatvepi sabdasya na vedāntānāṁ paramānandādirūpatve brahmaṇaḥ prāmāṇyamavakalpate; tatra hi bramasvarūpānuvādenānandadirūpavidhirāsthe- 
-yah. 
-प्राभाकरपक्षः 
-' 
-नि च तावता स्वरूपमपि सिध्यतीत्यध्यवसेयम् | अमत्येव रूपं तादृशि तथाविधानोपपत्तेः । यथैतत् ' *" अपितर्येव पितरं ' जामीगात' इति, तथा च ' अनुद्गीथ' ओङ्कारे उद्गीथविधानम्' इति । 
-[ भूतपरवाक्यस्याप्रामाण्य निगमनम् ] 
-7 
-यानि पुनरात्मसत्यत्व' नित्यत्व' वादीनि वाक्यानि तान्य- विशेषित 'कालकर्म विधाना" क्षिप्यमाणामुष्मिक फल भोगोचित चेतन- फर्त प्रतिपादनपराणि । अतो न किञ्चिदपि वचो भूतेऽर्थे प्रमाणम् । 
-| अत एवार्थवादानामपि 
-My 444 
-• M, 
-M 
-गणेपि तथैव 
-"1544- 
-4 M. 
-" 
-M, omits & 
-1. M, omits नित्यत्व 
-A trands "निश्यत्व सत्यत्व 
-13 
-11 
-परिनिष्ठितरुद्ररोदनादिप्रति- 
-7M2- आपादीनि 
-8 M 1 - ° विशेषित 
-9 V 2 - धर्म° 
-10 M1, M2, M4, M,, My, B – °विशेष" 
-11 M1, M, – भूतार्थे 
-12 P, PM - अतर सर्व 
-13 M3, Mg - ° अर्धवादपदानामपि 
-1 The Mimämisakas do not accept the existence of any deity that receives the offerings of the votaries and rewards them. 
-Cf. Prakaranapañcikà V. p. 94 : 
-brahmasvarupam ca pramāṇāntarasiddhamevāśrayaṇīyaṁ; brahma. sabdasya en loke pramāṇāntara siddhātmavācitvena siddheḥ vedepi sa evärthaḥ; fatha ca sati nityaprakāśaparamānandadirûpavidhiḥ sakalapratipattiviruddhaḥ; Narvapratipattişu hi pramāṇasmṛtibhūtāsvātmā prakāśate; na ca tatra paramā- nandah strivedyate; na ca sārsārikaduhkhābhibhūtatvāt tasyāprakāśah, abhi- bhavanpapattel; avacchinnam hi duḥkham anavacchinnananda iti nālpīyasā moshatah abhibhavaḥ sambhavati; svaprakāśasya ca abhibhavāvaraṇānabhivyak- 1.ii_ambhava eva;.... sakalavikāraśūnyatāpi vijñānādivikārotpatteh pra- mamantaraviruddhaiveti parasparānvayāyogyatayā nānandā diparatvaṁ; ajarā- mutatvayostu pramāṇāntaraprasiddhereva anuvādatvāt aprāmāṇyamiti. 
-मिदमुदाहरणम् । वैदिकमपि दर्शयति 'अनुगीय' इति । 
-A See Chandogyopanisad I. 5: atha khalu ya udgithah sa pranavo yal pranavah sa udgitha iti. See Rangarāmānuja's commentary on it. 
-For instance, for the arthavada statement "so 'rodit yadarodit tat rudaya rudratvam" ( Tulttiriya Samhitā : I. vi. 1), the corresponding villi- '' utene is " barhişi rajatam na deyam" (Ibid: I. v. i. 2 ).४५ 
-भागमप्रामाण्ये 
-4 
-पादनपरतावारणोपपादनेन विदूरतर' वर्ति विधिपदान्वयः 2 स्तावक- तयाऽपि प्रदर्शितः । तस्मादपर्यालोचितपूर्वापरपदतात्पर्याणामापाता- यातश्रद्धाविरचितवि' ग्रहोऽयमुद्रा हितः पुरुष इत्यलमति' विस्तरेण । 
-सिद्धमिदं न श्रुतितोऽप्यभिमतपुरुषातिशयः सिद्ध्यतीति । 
-[ प्रामाण्यस्त्रीकारेऽपि, सार्वज्ञयज्ञापकत्वासम्भवकथनम् ] 
-12 
-13 
-अपि च, भवतु भूतमपि वस्तु शास्त्रस्य विषयः । अथ च कथमिव चोदना ' जनित भियमवधीर्य धर्माधर्मो 10 विजानाति कश्चि- दित्यभ्युपेयते ? * सर्वज्ञता " हि प्रसिद्धैरेव प्रमाणै:, यथायथमर्था- नवगच्छतोऽपि सङ्गच्छते । न हि तदस्ति वचनं, यदस्य प्रसिद्ध- बुद्ध्युत्पादनहेतुहान" मुखेन सार्वश्यं ज्ञापयति । 
-1 A omits तर 
-2 All printed texts and manuscripts 
-omit the ' visarga'. 
-3 A omits fa 
-4 B - उदगृहीतः 
-5 B – इत्यलमिति ; Ma, Mg - omit अति 6 B – पुरुषाधि 
-7 Mg - चेतना ° 
-8 M1, M, M7, My, B – चोदनार्जित ' 
-M2 - चोदना जित 
-9 Mg - अधीय 
-10 M2, My add a 
-11 M4 -- सर्वज्ञत्वम् 
-12 B - सर्वज्ञत्वाई 
-O 
-13 M1, M, – प्रसिद्धेरेव 
-14A, M3, Mg, Mo, M, V1, V2 – भान 
-Cf. Slokavārtika under I. 1. 2, sls. 1116 - 117: yadi şaḍbhiḥ pramāṇaissyāt sarvajñaḥ kena vāryate? ekena tu pramāṇena sarvajño yena kalpyate nunaṁ sa cakṣuṣā sarvan rasadin pratipadyate yajjātīyaiḥ pramāṇaistu yajjātīyārthadarśanaṁ I bhavedidānim lokasya tathā kālāntare 'pyabhūt || yatrapyatıśayo dṛṣṭaḥ sa svarthänatilan ghanat dūrasūkṣmādidṛṣṭau ṣyānna rūpe śrotravṛttitā || bhavisyati na dṛṣṭam ca pratyakṣasya manāgapi | samarthyaṁ nānumānāder liñadirahite kvacit sarvajñakalpanadyaistu vede capauruṣeyată tulyatā kalpita yena tenedam sampradhāryatām || sarvajño dṛśyate tavannedānīmasmadādibhiḥ | niräkaraṇavacchakya na cāsīditi kalpanā || 
-§ Cf. ibid., sl. 118. 
-na căgamena sarvajñastadiye 'nyonyasaṁśrayat narantarapraṇītasya prāmāṇyam gamyate katham ? 
-प्राभाकरपक्षः 
-*गद्यपि किञ्चिदभविष्यत् तथाऽपि परस्परान्वयानुचित- पदार्थमया अर्थवादतयैव समर्थनीयम् । प्रमाणान्तरावगत 'योग्य- 'माथि' पुरस्सरी पदेभ्यो वाक्यार्थबुद्धिरुप' जायमाना प्रथमतर 'नि- पतिता 'पेक्षितप्रमाणान्तर विरोधे कथमिव जनिमनुभवतीति सम्भा- बगामः ? 
-[ प्रत्यक्षादिविरोधेन सार्वज्ञ्याभ्युपगमायोगत्वकथनम् ] 
-प्रत्यक्षादिप्रतिक्षिप्तगोचरं वचनं यदि । प्रमाणं, को नु तादात्म्यं विहन्त्यादित्ययूपयोः ? 
-IM, "मागत"; Ma – अवगम 
-● Ma omits योग्यता 
-" 
-A M, "योग्यत्वादि 
-1 M. My - पंद्येभ्यो 
-" 
-5 M1—°रूप° 
-6 M, M 6 – प्रथमतरम्' 
-7A, M7, V2 --° निपातित 8 B – तादर्थ्यम् 
-The Mimāmsaka has in mind, statements like "yassarvajñaḥ sarva- vi" (Mundaka : 1-9 ) and “na tasya kāryam karanam ca vidyate, svābhāvikr jhambalakriyā ca" ( Svetāśvatara : VI- 8 ), which declare that there does exist in Omnise ent Being and that His Omniscience is natural but not due to any extraneous factor. 
-| Cf. Ślokavārtika, I. i. 2, śls. 118-120: 
-na cagamena sarvajñastadiye 'nyonyasaṁśrayāt | narantarapraṇītasya prāmāṇyam gamyate katham | na capуevamparo nityaḥ śakyo labdhumihāgamaḥ | nityaścedarthavadatvaṁ tatpare syādanityatā || agamasya ca nityatve siddhe tatkalpana vṛthā yatastam pratipadyante dharmameva tato narāḥ || 
-4 lly the term " pramānāntara" here is meant "śabda". 
-The term “ pramānāntara ” here means "pratyaksa ". 
-} Vide Tulttiriya Brahmana : II. 1. 5.2 : "ādityo yūpah". 
-The argument is that if perception were not taken as the guiding polmiple in ascertaining the connotation of passages, one would have to literally inly the Sun and the sacrifical post on the authority of the text "adityo yupah", which is a culogistic passage. But their identity is disproved by jumption itsell. Likewise, Omniscience is also to be disproved. 
-४८ 
-आगमप्रामाण्ये 
-अपि चास्तु' नरः कश्चित् तादृशातिशयाश्रयः । सिसाधयिषितग्रन्थप्रामाण्यस्य किमागतम् ? 
-ननु च तादृशपुरुषेण विरचितमिदमिति पञ्चरात्रगोत्रानु- सारिणः स्मरन्ति । 
-[ सर्वज्ञपुरुषनिर्णयासम्भवत्वकथनम् ] 
-पाशुपता वा किं न स्मरन्ति ? तेऽपि स्वदर्शनादर्शकमखिल जगदध्यक्षमाचक्षते । तथाऽन्येऽपि । न च सर्वेऽमी सर्वज्ञाः, विरु द्वार्थोपदेशानुपपत्तेः । य एव च वादिनामेकस्य वादिनः सर्वज्ञ'- सिद्धौ ' हेतुर्भवति, स सर्वेषां साधारणः । तदिह बहुषु' परस्परविरुद्ध- मर्थमहमहमिकया उपदिशत्सु कतमं सर्वज्ञ मध्यवस्यामः ? 
-यथाऽऽह—– 
-ननु 12 
-सर्वज्ञेषु च भूयस्तु विरुद्धार्थोपदेशिषु । 
-11 
-तुल्य हेतुषु सर्वेषु को नामैको" निरूप्यताम् ॥' इति । | स्वतन्त्राधिगमाधीनं सर्वज्ञपरिकल्पनम् | 
-परस्परप्रतीघातात् सर्वाप्रामाण्यमावहेत् ॥ 
-[ विष्णुवैभवस्य श्रोतत्वाशङ्का ] 
-श्रुतिस्मृति" प्रसिद्धेन वासुदेवेन भाषितम् " | 
-1P, PM, T, A, Ms, V1, V2 – अस्ति; 
-- 
-Mg – आसीत्; Mg – आस; M – 2 आस तु 
-2 M, & M, omit इदम् 
-3 Mg ~~ अभ्ये च 
-4 M3 omits नत्र 
-5 Mg adds त्व 
-7Momits y 
-8 M 1 कम् 
-9 P, PM, T-°3⁄4&qq817: 
-10M,, M, M,, My, B - कोऽयमेको 11M 2 - अधीन 
-12 M3, Mg add च 
-6 
-13 M2 – स्मृत° 
-• M, – ° सिद्ध: 
-* To be identified. 
-14 A - भूषितम् 
-+ ' स्वतन्त्र' इत्यस्य 'स्वकीयतन्त्र' इत्यविवज्ञितः । 
-$ The Mimamsaka anticipates the following argument from the Sid- 
-dhāntin. 
-तथा- 
-X 
-प्राभाकरपक्षः 
-कथं तत्रान्तरैरेतत् तुल्यकक्ष्यां निवेक्ष्यते ? तथा हि पौरुषे सूक्ते श्रूयते तस्य वैभवम् । 
-!" पद्भ्यां भूमिर्दिशः श्रोत्रादि 'त्यादीदं तथाऽपरम् || 6. सूर्याचन्द्रमसौ धाता यथापूर्वमकल्पयत्' । इति । 
-" स' ब्रह्मा स शिव' इति, तद्विष्णोः परमं पदम् ' ॥ ||' न तस्य कश्चित्पतिरस्ति लोके 
-6 
-न चे' शिता तस्य च नैव लिङ्गम् ' । इतीरयन्ति श्रुतयोऽस्य भूर्ति 
-जगज्जनिस्थेमपिधान 'चिह्नाम् ॥ 
-विष्णोस्सकाशादुद्भूत, जगत्तत्रैव च स्थितम् । स्थितिसंयमकर्तासौ' इत्याह स्म पराशरः ॥ 
-7 
-इत्थं तमेव सर्वेशं मनुरप्याह तद्यथा । 
-x' नारायणः परोऽव्यक्तादण्डमव्यक्तसम्भवम्' ॥ इति । 
-A - इत्युदितम् 
-2 M1, M2, M4, My, Bomit इति 
-1 B - सत् 
-4 Mg ―न वा° 
-+ Rgveda X 90.41. 
-& Mahānārāyana Up. V. 7. 
-1 Ibid. XI. 13. 
-s My—नैव च तस्य 
-6P, PM, omit न 
-९ 
-7M reads इत्थमेव, omitting तम, in 
-which case the line will be wanting 
-in one syllable. 
-$ Kathopanisad III. 9; also Maitrīyopanisad VI. 26. 
-1 Svetāśvatara Up. VI. 9. 
-* 
-Viṣṇupurāṇa I. i. 35. This verse declares that Vişņu is both the material and the instrumental cause of the universe. 
-× This verse does not occur in editions of Manusmrti with the comment- aries of Medhātithi and Kullūkabhatta. Man varthamuktāvali of the Kāśī Sanskrit Series, however, has this verse inserted between the 10th and the 11th stanzas of the Ist Chapter. 
-[ विष्णु विरचितपञ्चरात्रस्य प्रामाण्यकथनम् ] इत्थं नानाश्रुतिमुनिवचस्सन्ततस्तूयमान- 
-ज्ञानैश्वर्यः परमपुरुषः पञ्चरात्रं व्यधत्त । तचेदेतत् श्रुतिपथ - परिभ्रष्टतत्रैस्समानं, 
-+ पातृत्वेन प्रसजति तदा सोमपस्ते सुरापैः ॥ 
-[ तत्प्रतिभटतया पशुपतिपारम्य प्रतिपादनसम्भवकथनम् ] 
-4 
-नैतज्ज्यायः, किमङ्ग ! श्रुतिषु भगवतो न प्रसिद्धा विशुद्ध- 
-ज्ञानैश्वर्यादिधर्माः 1 त्रिपुरविजयिनः ? तेन यत्किञ्चिदेतत् । यद्वा, देवस्स एव त्रिभुवन' भवनत्राणविध्वंस' हेतुः 
-वेदान्तैकप्रमाणः कथयति स कथं वेदगोष्ठी' बहिष्ठम् ? 
-11 
-तथा हि, भगवतः पशुपतेरपि सार्वज्ञ्य' सर्वैश्वर्यावेदिकाः * श्रुतयो बहुलमुपलभ्यन्ते – 8' यस्सर्वज्ञः सर्ववित्', ' तमीश्वराणां परमं महेश्वरम्' इत्याद्याः । 
-- 
-13 
-सर्वज्ञेश्वर 2 शब्दौ " च नर्ते देवात् पिनाकिनः । 14 उत्पत्तिशक्त्या वर्तेते, सत्यप्यन्यत्र तद्वति ॥ 
-1 Mg – विधत्ते 
-2 Mg - पथि 
-13 PM, M1, M2, M, M,, V2, B— 
-सोमपास्ते सुरापा: 
-4 B° धर्म: 
-5M 1 - भुवन 
-1 
-6M - वध्वंस 
-O 
-7 Mg — वेदगुर्वी° 
-8 M 2 – सार्वज्ञ्यम् ; Mg सर्वज्ञ: 
-9 M2, Ma - आवेदकाः; B – वेदिकाः 
-10 Momits यः 
-11 P, PM add я: 
-12 M, सर्वेश्वर 
-- 
-13 Ma, B – शब्दः 
-14 My - the scribe explains उत्पत्ति as रूढि 
-9 
+[ तत्र आगमेनापि प्रामाण्यासिद्धिः आगमस्य् अर्थे च । ]
 
-* The above argument of the Siddhantin is refuted by the Mimāṁsaka. 
-§ Mundakopanisad: I. 1. 9. 
-t Svetāśvatara: VI. 7. 
-किन सर्वज्ञ शब्देन सर्वज्ञे प्रतिपादिते । * पीनरुक्त्यं प्रसज्येत सर्वविद्ब्रहणस्य' वः ॥ 
-अनस्सर्वज्ञशब्दोऽयं महादेवैकगोचरः । तथा च स्कन्द लिङ्गादिपुराणानि पिनाकिनः ॥ उपक्षीणानि सार्वज्ञ्य' सर्वैश्वर्योपपादने । ततश्च तत्प्रणीतत्वात् प्रामाण्यमनया दिशा ॥ प्राप्तं पाशुपतं तन्नं, तत्रान्योन्यविरोधतः । सर्वतन्त्रप्रमाणत्व' विपर्यासः प्रसज्यते " ॥ 
-अपि च भवतु भगवान् वासुदेव एवौपनिषदः पुरुषः । अथ च स कथमिव श्रुतिपरिपन्धि" तत्रमेतत् प्रणयेते "त्युत्प्रेक्ष्येत', य एवमाह - ' श्रुतिस्मृती" ममैवाज्ञा"" इति । ततश्च- 
-M — सर्वभू 
-' M, & M, omit from पौनरुक्थ्यं upto 
-नापि मन्वादि below 
-1 My—दूषणस्य 
-Mo—च 
-1 M2, Mo, Me, My – स्कान्द 
-" M 3 - सर्वज्ञ 
-My --तन्त्रतन्त्र 
-H 13 - विरोधित: 
-" M 2 -- तत्सर्वतन्त्रप्रामाण्य 
-* 
-10 B - प्रयुज्यते 
-11 B omits अपि च; A reads अपि वा 12 M3 omits इव 
-13 A, M3, Mg, V 2 - परिबन्धि 
-14 B, M3 - प्रणीयते° 
-M2, M4, My -- प्रणीयेत 
-1) 
-15 My —उत्प्रेक्षेत 
-० 
-10 M2. My – श्रुतिस्मृति:; PM - श्रुतिस्मृति" 
-17P, PM, M2, M2, Ms, Mo, V1, V 20 
-B—आ 
-The above argument, says the Mīmāmsaka, is favourable to the Pāšu- patas since the text " yassarvajñah sarvavit " ( Mundaka: I. 1. 9 ) cannot be properly explained in favour of the Pañcarātrins. "If the term 'sarvajña' be etymologically taken as referring to Vişņu, what he asks. This term too has to be explained the Pancaratrin in the defect of redundance. of explanation is in sooth, proper: the term 
-onally, while the term 'sarvavit' does so, through etymology. 
-about the term sarvavit' ?" as all-knower', which lands Therefore, the Pasupata method sarvajña' refers to Śiva conven- 
-↑ The popular reading of the Vişņudharma-verse, in which this statement cocus is : 
-५१ 
-भागमप्रामाण्ये 
-[ औपनिषद वासुदेवप्रणीतस्वेऽपि पञ्चरात्रस्य जगद्व्यामोहकत्व प्रयोजनत्वप्रतिपादनम् ] 
-वासुदेवाभिधानेन केनचिद्विप्रलिप्सुना । 
-प्रणीतं प्रस्तुतं तत्रमिति निश्चिनुमो वयम् ॥ 
-अस्तु वा समस्तजगदध्यक्षो वासुदेव एवास्य तन्त्रस्य प्रणेता । तथाऽपि - 
-* मायामोहनविग्रहेण हरिणा देवदुहां संहतिं 
-हन्तुं मोहयता' हितान्यभिहितान्याहुः हितच्छद्मना । एवं किन्नु नयन्नयं निज महामाया गुहागहरम् 
-व्याज हे किमिदं नवेति विशये जाते कथं निर्णयः ? प्रत्युत भ्रमयन्नेव व्याजहारेति गम्यते । वैदिकैरगृहीतत्वात् तथाऽऽर्हत' मतं यथा || 
-वैदिकापरिग्रहश्च प्रागेव प्रपश्चित इति । तस्मात् न स्वतन्त्रा- 
-नुभव' मूलतया स्मरणम् । 
-[ मन्वादिस्मरणसाम्येनापि पञ्चरात्रस्य प्रामाण्यानुपपत्तिवर्णनम् ] 
-नाऽपि मन्वादिस्मरणवदिति' अनुपपन्नं पञ्चरात्रस्मरणम् | 
-1 Mg - मोहयिता 
-2 P splits as आहुहिं तच्छद्मना 
-ततात ; B, M – तथागत" 
-3 
-M 
-My - तदार्हत 
-4 Ms omits प्रागेव 
-5 
-" My - स्वानुभव' 
-• M1, M,, B, A - "स्मरणादिवदिति 
-M2, My -- स्मृतिवदिति 
-śrutismṛti mamaivājñā yastāmullaighya vartate 
-ājñācchedi mama drohi madbhaktopi na vaiṣṇavaḥ. 
-But the following reading is found in the printed edition, ch: 76, Śl. 31 : 
-śrutissmṛtir mamaivājñā tāmullanghya yajan subhe 
-sarvasvenāpi mām devi napnotyājñāvilaṁghanāt. 
-Visnupurāna: ( Jivānanda's edn.) Arśa : III. chs. 17 - 18 give the story of Mayamohana, preaching non-Vedic doctrines to demons, with a view to delude them. Other instances of Vişņu assuming different forms out of his Māyā, are to be found in the Lingapurana and the Käsikhanda. 
-किञ्च'- 
-मीमांसकपक्षः 
-यदि मन्वादिवदेवः । शुश्रुषापरितोषितात् । आचार्याल्लब्धवेदार्थः तन्त्रमेतदचीलपत् ॥ 
-स्वातन्त्र्यकल्पनाऽमुष्य व्यर्था, मिथ्या तथाऽसती' । अनधीतोऽपि वेदोsस्य प्रतिभातीत्य लौकिकम् ॥ * तत्र' वार्तिककारेण ये दोषास्समुदीरिताः । 
-ते च सर्वेऽनुसन्धेयाः पुरुषातिशयादयः ॥ 
-[ पञ्चरात्रस्य स्मृत्यन्तरेषु पाषण्डत्वेन परिगणितत्वकथनम् ] 
-87" शैवं पाशुपतं चैव बौद्धमध्यार्हतं तथा । 
-कापाल पाश्च'रात्रं चेत्येवं पाषण्डतास्मृतेः ॥ " वैदिकं तान्त्रिकं चेति विभागकरणादपि । गम्यते पञ्चरात्रस्य वेदबाह्यत्वनिश्चयः ॥ 
-1 M1, Mg – 'देव' ; M - मन्वादिवदेव 
-3 
-2 M1, M, – अचीकरत्; Ms - एतदविक्क चित् 3 All ptd. texts and mss. read तथासति with the final fa as a short one, except My, which gives the reading chosen by us. 
-4P, PM, T, M1, Mg, Ma, V1, B- अश्र 
-* 
-5 
-M1, M2, M4, M,, My, Badd हि 6 M2 & M, omit च 
-7 
-142 
-7 M2 & My omit this and the follow- 
-ing verse. 
-8 M4, B किं च पाशुपतम् (no कि & शेष 
-separately ) 
-9P, T, M3, M4 - पञ्च 
-Vide Slokavārtika I. 1. 2, sl. 111b, ff. 
-$ To be identified. 
-+ Vide Anandasamhitā ch. XIII, folios 43b-44a : 
-athāto devasyarcanam dvividham śruņu [sic] 
-vaikhānasam pañcarātraṁ vaidikaṁ tantrikam kramāt || 
-tayor vaikhānasaṁ śreṣṭhamaihikāmuṣmikapradam 1 
-The (Maha) Sanatkumārasaṁhită draws a distinction among the Vaisnava-mantras in terms of Vaidika Tantrika and Vaidika-tantrika. 
-Cf. Rşirātra IX. 35: vaidikam tāntrikam caiva tathā vaidikatāntrikam 
-mantratrayaṁ krameṇoktam........ || 
-Cf. Vasisthasamhità XIII. 16b-17a: 
-५४ 
-तथा - 
-MINIARIAICÒ 
-a | 
-S' शैवं पाशुपतं सौम्यं लागुडं च चतुर्विधम् । 
-तन्त्रभेदस्समुद्दिष्टः सङ्करं न समाचरेत् ' ॥ इति । 
-भाक्तं भागवतं चैव सात्त्वतं च त्रिधा मतम् ' । इत्येवं' तत्रभेदोक्तिः पञ्चरात्रेऽपि दृश्यते ' ॥ 
-IM1, M,, My, B- 
-4 
-2 M, & B omit a 
-3 V1, B, A,- 
-4 M 2 - पचरा प्रदृश्यते 
-4 
-Vaidikaṁ tantrikaṁ caiva tatha vaidikatāntrikam 
-miśritam vaidikaṁ mantraiḥ tasmāt vaidikatāntrikam || 
-Harita in his Dharmasastra, says: srutiśca dvividhā, vaidiki tantriki 
-ca (Quoted in the Lingadharanacandrikā, p. 240). 
-44 
-§ The Vaikhanosāgamas call the Vaikhānasa and the Pañcarātra systems saumya" and "agneya" respectively. Cf. Kasyapajñānakāṇḍa, p. 171: vaikhanasaṁ saumyam; agneyaṁ pañcarātram. 
-See also Vimănărcanākalpa, paṭala 77, p. 467: 
-vaiṣṇavam dvividham, vaikhānasaṁ pañcarātramiti; vaikhānasaṁ vaidikaṁ, vaidikairarcitam aihikāmuṣmikaphalapradam; pāñcarātramagneyam avaidikaṁ āmuṣmikaphalapradam; saumyam sarvatra sampūjyam. 
-Cf. also Bhagavata XI. 27. 7, 49: 
-vaidikastantriko miśra iti me trividho makhaḥ | trayāṇāmīpsitenaiva vidhinā māṁ samarcayet || evam kriyāyogapathaiḥ puman vaidikatāntrikaiḥ | arcayannubhayataḥ siddhim matto vindatyabhīpsitam || 
-It may be noted that such a division is found even among the Saivāga- mas. Thus, the Vayu Samhita of the Sivapurāṇa ( uttarabhāga XXIV. 177-178) 
-says: 
-śivagamopi dvividhaḥ śrauto ' śrautaśca samsmṛlaḥ | 
-śrutisaramayaḥ śrautaḥ svatantra itarassmṛtaḥ | (Quoted in Linga- dhāraṇucandrikā, p. 290). 
-Also see Saivasiddhānta p. 43: 
-6. 
-Āgamas are of two kinds: Śrauta and Asrauta. The Śrautagamas are dependent upon the Vedas and are full of their essence; not so the Asrauta. The former Agamas are accepted but not the latter. The asrauta-agamas have been declared by the Lord in order to delude some people. These Agamas are Vāma, Pasupata, Lakula, Bhairava, etc. " 
-भद्वैतिपक्षः 
-[ जीवजन्मादिप्रतिपादकत्वात् श्रुतिन्यायादिविरोधाच पञ्चरात्रस्य अप्रामाण्यनिरूपणम् | 
-किश्च - 
-श्रुतिस्मृतिप्रतिक्षिप्तजीवजन्मादिगोचरम् । 
-न्यायहीनं वचस्तथ्यमिति हास्यमिदं महत् ॥ 
-तथा च श्रुतिः --- 
-*6 
-५५ 
-अविनाशी वाडरेऽयमात्मा अनुच्छित्तिधर्मा', मात्रा- 
-संसर्गस्तस्य भवति' इति । 
-तथा- 
-" जीवापेतं वाव किलेदं म्रियते न जीवो म्रियत' इति । स्यादेतत् — उच्छेदाभावमात्रप्रतिपादकमेतद्वचनं', 
-जन्माभावमवगमयतीति । 
-न- 
-अनुच्छेदाभिधानेन जन्मा' भावोऽवसीयते । 
-+ न ह्यस्ति सम्भवो भावो' जातो नैव क्षरेदिति ॥ 
-ननु - 
-8' सदेव सोम्येदमिति सदेकत्वावधारणात् " । 
-प्राक् सृष्टिकालात्, जीवानामभावोऽध्यवसीयते ॥ 
-I V2 is broken here 
-2 M2 adds at here 
-3 M1, M2, M,, M, B – जीवोपेतम् 
-4 M1, M2, Ma, My - इदम् 5M, B, omit न and add तत् 
-4 
-6 M,, M,–च 
-* 
-Brhadāranyaka IV. v. 14. Cf. Bhagavadgītā II. 14 : 
-7 My - कर्म° 
-न 
-8 M, omits four lines from a ufa 
-upto अध्यवसीयते 
-9 M1, M, - लोके; M2 omits भावो 10P, PM, T– सौम्य 
-11 M2 -- अवधारणम् 
-mātrāsparśāstu kaunteya śītosņasukhaduḥkhadāḥ | āgamāpāyino 'nityāstān titikṣasva bhārata || 
-+ Chandogya VI. 11. 3. 
-' जातो भावो नैव क्षरेदित्येतद्वचनं न शक्यसम्भवमिति भावः । 
-$ Chandogya: VI. ii. 1: ' सदेव सोम्येदमग्र आसीत् एकमेवाद्वितीयं ब्रह्म' |यदि जीवाः पृथग्भूताः, प्राकू सृष्टेः स्युः परात्मवत् । कथमेतत् ' सदेवे 'ति तदेकत्वावधारणम् ? 'अत्रोच्यते - 8' सदेवेति यदेकत्वावधारणम् । तत् सिसृक्षितवाय्वम्बुवियत्प्रभृतिगोचरम् ॥ पर्युदासिन्यतानेन वचसा चेतनो यदि । गगनादेरिवास्यापि जननं ' निरदेश्यत ॥ 
-न च निर्दिश्यते; तेन न जीवो जनिमृच्छति । " तत्तेजोऽसृजते 'त्यादौ जीवसर्गो न हि श्रुतः ॥ ननु च *" यतो वा इमानि " इत्यत्र जीवानामेव जननजीवन- प्रायणाभिसंवेशनानि प्रतीयन्ते । 
-तथा हि *" भूत' शब्दोऽयं जीवनामभिधायकः । 1 ' भ्रामयन् सर्वभूतानी' त्येवमादिषु दर्शनात् ॥ *" जीवन्ती'ति हि शब्दोऽयं जीवेष्वेवावकल्पते । 
-तेन *" 
-जायन्त' इत्येतत् ज्ञायते जीवगोचरम् | तदिदमनुपपन्नं *" भूत' शब्दो विहायः- 
-पवन हुतभुगम्भोमेदिनीषु प्रसिद्धः । पदमिदमि "तरस्मिन् लक्षणावृत्ति; तेषां 
-बहुविधपरिणामो गीयते जीवनं च ॥ 
-1M1, M2, M2, M, My, B—सदेकत्व 
-2 A omits this line in full. 
-3 Mg - नूनं न (no जननं ) 
-V2, T - हिन 
-6 M2, M, – स्मृतः 
-4 M 1 - निनदेक्ष्यते ; M2 - निरदैक्ष्यत 
-B— निरदेक्ष्यते 
-7 
-P, PM & M3 add भूतानि 
-8P, B, M2, M, My – प्रयाण 
-M1 -- प्रायाणाम्° 
-• 
-M, -- अवकल्प्यते 
-10 M2 - तदिदम् 
-; 
-My - यदि पदम् 
-5P, PM – हि नः; A, M3, M, M 6, V 1, 
-+ Ibid: VI. ii. 3. 
-** 
-$ Chāndogya VI. ii. 1. 
-, 
-Taittiriya : III. 1. 1 : “ यतो वा इमानि भूतानि जायन्ते येनं जातानि जीवन्ति ” etc. + Bhagavadgità: XVill, 61b. 
-मीमांसकपक्षनिगमनम् 
-प्रथममधिगता ये खादयो 'भूत' शब्दात् 
-तदनुगुणतयाऽर्थं वक्ति ' जीवन्ति शब्दः । यदि च भवति जीवे 'भूत' शब्दः, तदानी- 
-मपि वदति तदीयं जन्म देहानुबन्धि || अतो जीवपरत्वेऽपि 'भूत' शब्दस्य युज्यते । 
-जायन्त' इति शब्दोऽयं, 'गौर्जातो' गच्छतीतिवत् ॥ तथा*"ऽजो ह्येक' इत्याद्याः श्रुतयोऽन्याश्च सन्ति नः । जीवानुत्पत्तिवादिन्यः, तथा भगवतो वचः ॥ 
-५० 
-" प्रकृतिं पुरुषं चैव विध्यनादी उभावपि ', 8' अजो नित्य- इशाश्वतोऽयं पुराण: ' ', ' न जायते म्रियते वा कदाचित् ' इत्यादि । 
-न्यायश्व- 
-विवादाध्यासितो जीवो न जातु जनिमृच्छति । द्रव्यत्वे सत्यमूर्तत्वात्, चिद्रूपत्वात् परात्मवत् ॥ पश्यन्तः पौरुषेयत्वे दूषणान्युक्तया दिशा । अनन्यगतयः केचित् तनं नित्यमतिष्ठिपन् ॥ तदेतत् स्वहृदयनिहितविशदतरकर्त्रस्मरणप्रतिहतमभिधीयत' 
-इत्युपेक्षणीयम् । 
-किश्च - 
-इत्थं पाशुपतादीनां न्यायः किं दण्डवारितः ? तथास्त्विति यदि ब्रूयात्, व्याघातस्स्यात्परस्परम् ॥ 
-1M1, M2, M2, My, B – गोजातौ 
-2 M1 & M2 - तदा 
-3 Mg omits पुराणः 
-* Svetāśvatara IV. 5 : “ अजो + Bhagavadgītā XIII. 19a. 
-§ Ibid: II. 20c. 
-t Ibid: II. 20a. 
-4 M2 reads इति 
-5 My—तत्र 
-6 A omits अभिधीयते 
-B omits इत्थम् 
-को जुषमाणोऽनुशेते । " 
-५८ 
-भागमप्रामाण्ये 
-सर्वलोकप्रसिद्धा च वासुदेवप्रणीतता । न हातुं शक्यते यद्वत् वेदस्या पौरुषेयता ॥ अथो कश्चित् ब्रूयादनुदय' विपर्यासविशयैः 
-3 
-* त्रिरूपे प्रामाण्ये' कतरदिह जोघुष्यत इति । 
-स वक्तव्यः, किन्नु त्वदभिलषितं । लागुडमते 
-तदेवेति ज्ञात्वा नियमितमद' श्शाम्यतु भवान् ॥ 
-तदेवमुदीरितन्यायश्रुतिस्मृतीतिहासपुराणन्यायविरुद्धार्थाभि- 
-धानेन समस्त शिष्टजनपरिग्रहविरहेण च स्वर्गापवर्गसाधनोपदेश'- व्याजेन केनापि जगद्वञ्चयितुं विरचितानि पञ्चरात्रतत्राणीति' मन्यामहे । ईदृशापस्मृति " विषयमेव तद्वच: "- 
-11 
-" या वेदबाह्यास्स्मृतयो याश्च काश्च कुदृष्टयः । सर्वास्ता निष्फलाः प्रेत्य तमोनिष्ठा हि ताः स्मृताः ' ॥ इति । 
-13 
-12 
-ईदृशदुर्मार्गानुगामिन एव तेऽपि, येषां वाङ्मात्रेणापि अर्चनं निषिध्यते । उक्तं च- 
-एत एव च ते येषां 14 वाङ्मात्रेणापि नार्चनम् । 
-16 
-||' पाषण्डिनो विकर्मस्थान् बैडालव्रतिकान् शठान् " ॥ 
-1 M2 - अहृदय 
-2 M1 – त्रिरूपैः 
-8 P, PM, T – प्रामाण्ये 
-4 M1, M 4 – किन्तु 
-5M 1, M2, M., M, My - मतिः 
-9 M2, My - पश्चराश्राणीति 
-10 My - उपस्मृति' 
-11 PM - एतद्वचः 12 PM omits इति 
-13P, PM- एषाम् 
-6 P, PM, T, A, Mg, Mg, Me, V1, V2 14 M2 - ये तेषाम् 
-—omit अर्ध 
-My - एतेषाम् 
-7 M1, M2, M3, M, M2, My, B – 15 M3, Mg - पैलाल 
-omit च 
-& P, PM, Mg – अवसानोपदेश 
-M1, M2, M,, M7, B, V1 बैलाल 
-16 Mg, — जडान् 
-Cf. Slokavārtika ( I. 1. 2 ) $1.54a : 
-" अप्रामाण्यं त्रिधा भिन्नं मिथ्यात्वाज्ञानसंशयैः । " 
-+ लागुडमतं पाशुपतमिति यावत् । 
-+ Manusmrti XII. 95. 
-Ibid. IV. 30. 
-सिद्धान्तः 
-हैतुकान् बकवृत्तींश्च वाङ्मात्रेणापि नार्चयेत् |' इति' । इस्यु' पन्यस्तया नीत्या' पञ्चरात्रमशेषतः । अप्रमाणमिति प्राप्तम् - 
-[ अथ पाश्चरात्रप्रामाण्यसमर्थनम् ] 
-* एवं प्राप्तेऽभिधीयते ॥ 
-[ तत्र हेतुप्रदर्शनम् ; तन्निर्दुष्टत्वसमर्थनं च ] विवादाध्यासितं तत्रं प्रमाणमिति गृह्यताम् । निर्दोषज्ञानजन्मत्वात् ज्योतिष्टोमादिवाक्यवत् ॥ न तावदनुमानेऽस्मिन् न्यायशास्त्रपरीक्षिताः । दोषा मृगयितुं शक्याः; तत्र' पक्षः परीक्ष्यताम् ॥ पक्षो नाम प्रतिज्ञार्थः, स च सिद्धेन केनचित् । स्वयंसिद्धो विशिष्टस्सन् यस्साधयितुमीप्सितः ॥ 
-' 
-५९ 
-तत्र' न तावदप्रसिद्धविशेषणः पक्षः । प्रामाण्यनाम्नः पदार्थ- स्योभयवादिसिद्धत्वात् प्रत्यक्षादौ । नापि अप्रसिद्ध विशेष्यः, पश्चरात्रशास्त्रस्य " सर्व लोकप्रसिद्धत्वात् । नापि सिद्धसाधनः, प्रस्तुतशास्त्रप्रामाण्यस्य प्रतिवादिनोऽसिद्धत्वात् । न च प्रत्यक्ष- विरुद्धः, अप्रामाण्यस्यातीन्द्रियत्वात् । नापि 
-1 PM omits इति; M2 adds एवं च 
-2 M2 omits इति 
-3 Mg - रीत्या 
-4 M2, Mg - जन्यत्वात् 
-3 M1, M, My, B— त्वत्र; Ms-तत्र 
-• Mg – सिद्धो न 
-7 My omits तत्र 
-8 M1, M – विशेषणकः 
-- 
-अनुमानविरुद्धः 
-9 M1, M2, Ma, M2, My, B―omit 
-प्रत्यक्षादे 
-10 M 2 – पञ्चरात्रस्य 
-11 Mg omits सर्व 
-From here starts the ' Siddhānta'. 
-+ ज्योतिष्टोमेन स्वर्गकामो यजेत' इति वाक्यवत् पञ्चरात्रतत्रमपि निर्दोषज्ञानकारणत्वाद्धेतोः प्रमाणमेवेति क्रियतामित्याशयः । 
-> 
-६ पक्षशब्दं निर्वक्ति | पक्षो नाम ( पर्वतादिः) प्रतिज्ञाविषयीभूतः कश्चन स्वयंसिद्धः पदार्थः । [ प्रतिज्ञा पर्वतो वह्निमान् इत्येवंरूपा | ] स च सिद्धेन केनचिदन्येन पदार्थेण हेतुभूतेन [ धूमादिना ] सिसाधयिषितः । सिसापयिषितोऽपि सः किचिद्विशिष्टाकारेण [ वह्निमत्त्वरूपेण ] सिसाधयिषितः, न तु सामान्याकारेण इति दिक् । 
-अनुपलम्भात्' । 
-ननूपलभ्यत एवानुमानम् -' पञ्चरात्रशास्त्रं अप्रमाणम्, बाह्यत्वात् बौद्धागमवत्' इति । 
-3 
-वेद- 
-अत्र ' ब्रूमः - कतरदिहाप्रामाण्यं सिसाधयिषितम् ? यदि ज्ञानानुत्पत्तिलक्षणं, ततः प्रत्यक्षविरोधः । प्रत्यक्षं हि विदितपद- तदर्थ सङ्गतेः श्रोतुः पञ्चरात्रशास्त्र' वाक्यश्रवणसमनन्तरमुपजाय- मानं तदर्थविषयं ज्ञानम् । नापि संशयलक्षणम्, 
-6 
-11 
-तत एव 
-विरोधात् । न खलु ।' पद्ममध्ये चतुर्बाहुं पूजयेत् पुरुषोत्तमम् ' इतीदं वचनं पूजयेन्नवेति संशयितं प्रत्ययमुत्पादयति । नापि विपर्ययलक्षणम्, योग्यानुपलं भवाधात् 12; अनागतविपर्ययोत्प्रे- क्षायाः प्रत्यक्षविरोधात् अशेषव्यवहारोच्छेदहेतुत्वाच्च । प्रपश्च- यिष्यते चैतदुपरिष्टात् । 
-$ आगमविरुद्धं च --- 
-पञ्चरात्रागमे स्वार्थः तथैवेत्यवबोधनात् । 
-अथ तस्याप्रमाणत्वे तद्विरोधो न दूषणम् ॥ 
-1P, PM - अनुपलम्भनात् 
-2 
-±P, PM, T, A, M1, M, V1 & V2 omit 
-इति 
-- 
-3 M1 – तत्र 
-4 M1, M2, M4, M8, M2, My, B, omit हि 5M2, Mg – पदपदार्थ° 
-6M3, M4, Me, My, B – सङ्गते° 
-7 A, M1, M2, M, M,, My, B, omit 
-९ ' तत एव ' प्रत्यक्षादेवेत्यर्थः । 
-+ To be identified. 
-शास्त्र 
-8 
-V2 has a big lacuna here, from तदर्थं 
-upto इत्याद्यागमशतस्य below 
-9 My - तदर्थविषयज्ञानम् 
-10 Mg omits इति 
-11 M2 - संशयम् ; Ma, B - संशयितुम् ; 
-My - संशय ' 
-12 P, PM - अभावात् 13 My reads आगमविरुद्धत्वम् 
-+ 
+†न च-आगमेनापि प्रस्तुत-सार-मूल-भूतागम-अवगमः सरभसेन ।  
+स हि द्र्ष्ट्या—पौरुषेयापौरुषेय-योर् भेदम् एतत् ।  
+न तावत् पौरुषेयेण वचसा तस्य सम्भवः ॥  
+‡विमल-द्रुम-पुष्पेभ्यो⁸ द्रष्टव्यं पुरुषस्य यत्नतः ॥  
+§अथ-एव-अपि हि¹⁰ दृश्यन्ते केचिद् आगमिक-च्छलात् ।  
+अनागमिक-वेशाद्यैर् व्याचक्षाणा विचक्षणाः ॥  
+तद् इह पञ्चरात्र-प्रबन्ध-प्रणाम् अपि¹² तन्-मूल-भूतागम-अवगम¹³-पुरस्सरी किं इव¹⁴-निबन्धनानां वेद-मूलत्व-प्रतीज्ञा ? किं वा यथाकथञ्चिद् रचयतां प्ररोचनाय तथा वचनम् ? इति शङ्काम् आहे ।[^172_para]  
+[[P172]]
 
-सिद्धान्तः 
-हन्तैवं सति तदप्रामाण्येऽनुमानप्रामाण्यम्, अनुमानप्रामाण्ये' तदप्रामाण्यमित्यन्योन्याश्रयणम् । 
-2 
-" 
-अपि च किमिदं वेदबाह्यत्वम् ? यदि वेदान्यत्वं ततः प्रत्यक्षादिभिरनैकान्तः । अथ ' शब्दत्वे सति' इति हेतुः विशेष्यते, ततो निग्रहस्थानम् । यथाऽऽहुः - ' निर्विशेष' हेतुप्रयोगे पुनर्विशे- पणोपादानं निग्रह ' इति । अनैकान्तिकश्च' मन्वादिवाक्यैः । अथैतद्दोषहानाय ' वेदबाह्यत्व' शब्दतः । 
-अवेदमूलतां मन्द' ! मन्यसे किन्नु तार्किक ? 
-तेनायमर्थः शब्दत्वे सति अवेदमूलत्वादि 'ति, ततो वेदे ' रनैकान्तः । अथ " ' अवेदत्वे सति, शब्दत्वे सति अवेदमूल- त्वादि 'ति हेतु:, तथाऽपि " 
-" 
-11 
-- 
-12 
-सन्ति नद्यास्तटे 2 वृक्षा' इत्याद्याप्तोपदेशनैः । अवेदमूलैर्दुर्वार मनैकान्त्यं प्रसज्यते ॥ 
-13 
-15 
-अथ ' अवेदत्वे सति, शब्दत्वे सति 4, कार्यविषयत्वे '5 
-1 M, - अनुमानप्रामाण्येन 
-a M2, M8, My - अनेकान्तः 
-3 M2, M8, My omit हेतु: 
-4 A, Mg & V, — निर्विशेषण 
-- 
-O 
-T, M3, Mo~~ अनैकान्तम् 
-M4. Ms, B – अनेकान्तः 
-10P, PM, T, A, M3, M, M 6, V1. 
-read अथवा 
-5 M1, M2, M2, M2, My, B – अनैकान्तश्च 11 M2 - अथाऽपि 
-M - अनेकान्तिकश्च 
-6 T records a variant - मन्दम् 
-7 B - शाब्दत्वे 
-8 My - अतो वेदेन ' 
-り 
-9P, PM - अनैकान्त्यम् 
-12 M2 alters the order as नद्यास्तटे सन्ति 
-13 My - अथावेदमूलत्वे 
-14 Mg omits सति 
-15 Mg — कार्यत्वे ; M1 & M, add अपि and 
-- 
-omit सति 
-5 यदा पञ्चरात्रमप्रमाणमिति निश्चितं तदैव स्वदुक्तानुमानं प्रमाणम् ; तथा स्वदीयानुमाने प्रमाणतया सिद्धे 
-पचरात्राप्रामाण्यनिश्चयश्चेति अन्योन्याश्रय शेषप्रतिपादनं क्रियतेऽत्र सिद्धान्तिना । 
-+ परोक्तानुमानवाक्ये हेतुभूतस्य ' वेदबाह्यत्व 'पदस्य तत्त्वं विचार्यते । 
-[ Cf. Nyāyadarsana Vii. 6 : “अविशेषो के हेतौ प्रतिषिद्धे विशेषमिच्छतो हेत्वन्तरम् । " 
-C 
-$ The term Tärkika' need not necessarily refer to the logician here. Yamuna makes fun of the dialectical helplessness of the Mimāmsaka. 
-भागमप्रामाण्ये 
-सति अवेदमूलत्वादि'ति' हेतु:, अत्राऽपि - 
-*" अजीर्णे मन्दमश्नीयादि 'त्यादौ व्यभिचारिता । 
-अथ ' उक्तविशेषण' विशिष्टत्वे धर्माधर्मविषयत्वेऽपि सति अवेदमूलत्वात्' इति हेतु:, ततो' भागासिद्धो हेतुः । न हि पश्च- रात्रशास्त्रं कृत्स्नं धर्माधर्मविषयम्, ब्रह्म' विषयाणामेव वचसां बाहुल्यात् । 
-10 
-अथ ' प्रमाणान्तरायोग्यार्थत्वे सति' इति विशेषः, तत्राऽपि सैवासिद्धिः । भगवत्प्रत्यक्षस्य धर्माधर्मादिसमस्तवस्तु- गोचरस्य " श्रुतिशत " प्रसिद्धत्वात् । तचैतदनन्तरमेव 12 वक्ष्यामः । तदलमनेन अशिक्षिताक्षपादमताना" मप्रतिष्ठित प्रतिभाविजूभितेन । सम्भाव्यमानान्यप्यनुमानान्तराणि परस्तादुपन्यस्य निरसिष्यन्ते " । अतो नानुमानविरुद्धः पक्षः । 
-14 
-नापि आगमविरुद्धः, पञ्च रात्रशास्त्रप्रामाण्यप्रतिपादकस्य " इदं महोपनिषदम् ' इत्याद्यागम " शतस्य "प्रदर्शयिष्यमाणत्वात् । स्ववचन, स्वाभ्युपगम, सर्वलोकप्रसिद्धि " विरोधाः शब्दविरोध- प्रकारस्तु अनाशङ्कनीया एव । तथा हि-न तावत् स्ववचनविरोधः । 
-1 All except Mg & Mg read अवेदमूलत्वं 10 M & B omit स्य 
-2 Mo—अजीर्णै: 
-3 
-3 Ma, Mg - ° विशेषेण 
-4 
-4 M 3 – धर्माधर्मविशिष्टत्वे 
-M3- 
-- 
-S 
-M1-a 
-6 Mg omits ततो to हेतु: 
-7 Mg & Mo—कृत्स्न 
-M2 has a lacuna from upto 
-2 
-प्रामाणान्तरा 
-9 My omits इति 
-** This line runs like a verse. 
-8 असिद्धिरेवेत्यर्थः । 
-11 Ma omits प्र 
-12 My, B - तच्चदनन्तरमेव 
-13 'B' reads “मानानाम् for 'मतानाम् 
-14A, P, PM, T, Mg, Ms. Mg - निरस्यन्ते 
-15 M1 – पाञ्च 
-० 
-16 M 4, B - इदं महोपनिषदाद्यागम 
-17 M2 omits प्र 
-18 M8, M, B – प्रसिद्ध ° 
-† Mahābhārata ( Critical edn, Poona ) XII. 326. 100a : 
-" इदं महोपनिषदं चतुर्वेदसमन्वितम् । " 
-O 
-सिद्धान्तः 
-* 
-स हि त्रेधा - उक्तिमात्रविरोधो, धर्मोक्तिविरोधो, धर्म्यक्तिविरोधश्चेति । तत्र न तावदुक्तिमात्रविरुद्धोऽयं पक्षः । न हि ' पञ्च' रात्रशास्त्रं प्रमाणम्' इति प्रतिज्ञा' वचनं स्वार्थं व्याहन्ति, यथा यावज्जीव- महं मौनी ' इति । नापि धर्मोक्तिविरोधः । न हि प्रामाण्यं पञ्चरात्रोद्देशेन विधीयमानं पक्षं प्रतिक्षिपति, सर्ववाक्यानामिव मिथ्यात्ववचनम् । नापि धर्म्यक्तिविरोधः । सत्यपि धर्मिणि धर्मा- न्वयस्या'विरुद्धत्वात् । न हि जननीत्वमिव वन्ध्यात्वेन पञ्चरात्र- शास्त्रत्वं प्रामाण्येन विरुद्धम् । न हि विवादाध्यासितस्य प्रामाण्य- प्रतिज्ञाने' तत्र' श्रुत्युक्तधर्मिविशेष' विरोधः, विहितहिंसानामिवा- धर्मत्वप्रतिज्ञाने । विवादाध्यासस्य उपलक्षणत्वात् । अतो " नागमविरोधः । तदेवमप्रतिपक्षः पक्षः 12 | 
-11 
-13 
-10 
-नापि हेतोरनैकान्तिकत्वादयो" दोषाः । तथा हि-न ताव- 
-1 My—पाच 
-2 M2, My, omit प्रतिज्ञा 
-3 M2, My omit अहम् 
-4 
-• M, धर्माश्रयस्य ° 
-3 
-My - अधर्मान्वयस्य 
-• M 2 - पञ्चरात्रशास्त्रे ; Mg, Ma, M, M 7, My, B – पञ्चरात्रशास्त्रम् 
-• My has a lacuna from तत्र upto नापि 
-below 
-7 M1, M2, M4, M, B add another तत्र 8M1, M, M7, B, omit विशेष 
-9 M 2 - श्रुत्युक्तधर्मविरोधः 
-10 Mg - ततो; P, PM, add वा 
-11 P - तदेवं प्रतिपन्नः; PM- तदेवं विप्रतिपन्न:: M1, M4, M5, B, V2 - तदेवं प्रतिपक्षः 
-12 T, M2, Mg & Mg read तदेवं प्रतिपक्षः, 
-omitting पक्ष: 
-13 Mg, B – अनेकान्तिकत्वादयो 
-Ms 
-My - अनैकान्तत्वादयो 
-Cf. Slokavārtika ( I. 1. 5 ) sls. 61b-62b: 
-" त्रिधा शब्द विरोधस्स्यात् प्रसिध्यादिविभागतः । 
-प्रतिज्ञापूर्व संजल्प सर्व लोकप्रसिद्धितः ॥ 
-यावज्जीवमहं मौनीत्युक्तिमात्रेण बाध्यते । ” 
-6 Cf. ibid: $1. 63 : 
-" 
-सर्ववाक्यमृषात्त्रे तु धर्मोवत्यैवात्मबाधनम् । 
-धयुक्त्याहं यतो जातः, सा वन्ध्या जननी मम ॥ " 
-t Vide Tarkasangraha (Vavilla edn.) Anumāna-section, p. 52: 
-" सव्यभिचारविरुद्धसत्प्रतिपक्षा सिद्धबाधिताः पञ्च हेत्वाभासाः । " 
-५४ 
-1 
-आगमप्रामाण्ये 
-वनैकान्तिकः । स हि द्वेधा-साधारणासाधारणभेदात् । यथा पृथ्वी नित्यत्वसाधने प्रमेयत्वं साधारण: 2; असाधारणस्तत्रैव गन्ध- वत्त्वम् । तत्र न तावत् निर्दोषज्ञानकारणत्वं प्रमाणाप्रमाणसाधा- रणं, येन साधारणानैकान्तिकं स्यात्' । न हि निर्दोषज्ञानकारणत्वं अप्रमाणभूतविप्रलम्भकवचनादिषु विपक्षेषु दृष्टचरम् । नापि असाधारणः । ज्योतिष्टोमादिवाक्यदृष्टान्ताभिधानेनैव सपक्षा- न्वयस्य प्रदर्शितत्वात् । नापि विरुद्ध:, * विपरीतव्याप्त्यभावात्' । न हि निर्दोषज्ञान' कारणत्वं अप्रामाण्येन व्याप्तम् । न च कालात्य- यापदिष्टः, प्रत्यक्षविरोधाभावात्; आगमानुगुण्याच्च । न चासिद्ध- त्वम् , असिद्धिर्हि आश्रयतः, खरूपतो वा । न तावदाश्रयासिद्धिः । पञ्चरात्रशास्त्रस्य आश्रयत्वात् । नापि स्वरूपासिद्धि: 12 । सा हि 
-10 
-1 Mg, B – अनेकान्तिकः 
-- 
-2 Mg - साधारणम् 
-4 
-3 M2, M4 - गन्धत्वम् 
-4B, omits न 
-5 Mg - साधारणानैकान्तिकः 
-• M 2 - साधारणानैकान्तिकत्वात् My -- साधारणानैकान्तिकत्वम् 7 My omits я 
-8 M4 - विपरीतस्याप्यभावात् 
-9 Ms omits ज्ञान 
-10 M2, My – असिद्धम् 
-11 
-, 
-11T, M3, M4, Mg, Me, My, V1, B- 
-12 
-आश्रयासिद्धः 
-P, T, PM, M2 to Ms, My, V 1, V20 
-B—स्वरूपासिद्ध: 
-13 P, PM, T, M2 to Mg, My, V 1, V2, 
-B-सोsपि 
-, 
-† A third variety of 'anaikāntika' is anupasamhārin which the author does not enumerate here. Cf. Tarksangraha: p. 53: सव्यभिचारोऽनैकान्तिकः । स त्रिविध:- साधारणासाधारणानुपसंहारिभेदात् ' । Quoting the passage ' न तावदनैकान्तिकः' & c. in his Nyāyapariśuddhi [ Desika Granthamālā], p. 130, Desika says : 
-" बाधितस्य तु न पक्षधर्मत्वं नाऽपि व्याप्तिरिति दूषणद्वयसमुच्चयः । ' 
-* विपरीतेन सांध्याभावेन व्याप्तिः विपरीतव्याप्तिरिति तृतीया तत्पुरुषः । सा च व्याप्तिः पञ्चरात्रप्रामाण्य- प्रतिपाद के वाक्ये 'निर्दोषज्ञानजन्मत्व 'रूपस्य हेतोर्नास्तीत्यर्थः । ' शब्दो नित्यः कृतकत्वात्' इत्यत्र कृतकत्वरूपो हेतुः साध्याभावेन नित्यत्वाभावेन अनित्यत्वेन हि व्याप्तः, यत्र कृतकत्वं तत्रानित्यत्वमिति नियमात् । तस्मात्स हेतुर्विरुद्धः | एवमत्रापीति बोध्यम् । 
-+ कालात्ययापदिष्टस्यैव 'बाघ' इत्यपि व्यबहारः । 
-६ हेतोर सिद्धताऽपि नास्तीत्यर्थः । व्याप्यत्वासिद्धिरित्यन्योऽपि असिद्धिप्रकारः शास्त्रग्रन्थेषु परिगण्यते । स तु गोदाहृतो ग्रन्थकृता । 
-अत्र हेत्वाभासेषु पञ्चसु ' अनैकान्तिकविरुद्धकालात्ययापदिष्टा सिद्धा' इति चत्वार एव प्रकाराः परिगणिताः । अन्यः प्रभेदः सत्प्रतिपक्षाख्यः न प्रतिपादितोऽत्र । ' साध्याभावसाधकं हेत्वन्तरं यस्य स सत्प्रतिपक्ष' इति हि तलक्षणम् । तादृशं च हेत्वन्तरं नैव सम्भावनाभूमिरिति महता प्रबन्धेन ग्रन्थकारेण समनन्तरमेव निरूपितमिति, न पृथगुक्तिरिति च ध्येयम् । 
-त्रेधा- 
-सिद्धान्तः 
-2 
-་་ 
-- अज्ञान सन्देह विपर्ययभेदात् । न तावदज्ञानासिद्धिः । तत्प्रति- पादक शब्दोच्चारणात् । नाऽपि सन्दिग्धासिद्धि: । निर्दोषत्वस्य' 
-। वादिनः स्वयंसिद्धत्वात् । प्रतिवादिनोऽपि दोषानुपलम्भादेव अना- ग्रामसिद्धत्वात् । विपर्ययासिद्धिस्तु दूरोत्सारितैव । 
-[ शब्दानां स्वतः प्रामाण्यपरतोऽप्रामाण्यप्रतिपादनम् ] 
-ननु कथं पौरुषेयत्वसामान्यादापतन्ती दोषसंभावना अप- नीयते पञ्चरात्रतत्राणाम्' ? 
-कथं' वाक्यत्वसामान्यादापतन्ती वेदेषु सा वार्यते ? अपौरुषेयत्वादिति चेत्, तदिहापि सर्वज्ञावाप्तकाम 'परमपुरुषप्रणीत- तयेत्यवगम्य शाम्यतु भवान् । एतदुक्तं भवति- 
-* 
-नैव शब्दे स्वतो दोषाः प्रामाण्यपरिपन्थिनः 10 | सन्ति, किन्तु स्वतस्तस्य प्रमाणत्वमिति स्थितिः ॥ वक्तुराशयदोषेण केषुचित्तदपोद्यते । 
-11 
-अङ्गुल्यग्रेऽस्ति मातङ्गयू " मित्येवमादिषु || 
-प्रस्तुतग्रन्थसन्दर्भे वक्तुराशयगामिनीम् । दोषशङ्कां त्रयीमूर्धध्वनिरेवापमार्ष्टि नः ॥ 
-1 M2, M9, Ma, Mg, My, B – अज्ञानासिद्ध: 
-2P, PM, T, M2 to Ms, My, V1, B- 
-सन्दिग्धासिद्धः 
-1 MB - निर्दोषस्य 
-4 M. Ma - विपर्य या सिद्धस्तु 
-6 
---- 
-' ।'–"मत्राणाम् 
-• My adds at 
-* 
-( 
-7M2, My -- निवार्यते 
-Here onwards V2 breaks off 
-& M, omits अपि 
-9 M1 omits काम 
-10A, M2, M9, Ms - परिबन्धिन: 
-11 My—'यूथ : 
-Cf. Prakaranapañcikā : II. 4, p. 13 : 
-विनाप्यर्थ हि शब्देन प्रतीतिरुपजायते । 
-अमुल्यरत करिणां यूथ मित्येवमादिना ॥ '६६ 
-भागमप्रामाण्ये 
-S वदन्ति खलु वेदान्ताः सर्वज्ञं जगतः पतिम्' | 
-महाकारुणिकं', तस्मिन् विप्रलम्भादयः कथम् ? 
-[ शब्दानां सिद्धे वस्तुनि प्रामाण्यसमर्थनम् ] 
-* ननु च - 
-सिद्धे वस्तुनि शब्दानां प्रामाण्यं नेत्यवादिषम् । तत्परेषु प्रयोगेषु व्युत्पत्त्यग्रहणादिति ॥ तदसत् - सिद्धमप्यर्थमाचक्षाणाः प्रयोगतः । लौकिकाः प्रतिपद्यन्ते शक्तिं कार्यपरादिव ॥ 
-तद्यथा' ' पुत्रस्ते जात' इति वचनश्रवणानन्तरजनित- विशिष्टवदन विकासावसान' समनन्तरं 'हृष्टोऽयम्' इति प्रतिपद्य, ' हर्षोऽयं प्रियार्थावगमनिबन्धन ' इति स्वात्मनि आकलयन्', मध्यम- वृद्धस्यापि तन्निबन्धनमेव 
-तन्निबन्धनमेव हर्षमनुमिमानः, तद्भावभावितया ' शब्दस्यैव प्रियार्थावबोधकनामध्यवस्यति । तत्रापि अतीतानागतादि- भेदभिन्नेषु हर्ष हेतुषु उपप्लवमानेषु' 'कस्य वक्ताऽयम् ?' इति ' विचिकित्सोदये सति -- 
-1M - सार्वइयं जगतः पतेः 
-2 M, – महाकारुणिके 
-M2 - महाकारुणिकः 
-M, - महाकारणकम् 
-3 M3 omits तद्यथा 
-4 M1, M2, M3, M4, Mg, M2, My, B- 
-'विकामावसाय 
-• Mg - स्वात्मन्याकलय्य 
-6 PM -तद्भावितया 
-7 A omits 
-8 A – उपपद्यमानेषु 
-- 
-9 
-• M, adds f 
-$ Desika, in his Stotraratnabhāsya (Desika Granthamālā ), p. 37, says that the mercy of the Lord is referred to in the following Upanisads: 
-Svetāśvatara : III. 17 : 'सर्वस्य प्रभुमीशानं सर्वस्य शरणं सुहृत् '; 
-Kathavalli : IV. 12a : ' अङ्गुष्ठमात्रः पुरुषो मध्य आत्मनि तिष्ठति ' and 
-" 
-Mahopanisat : [: स एकाकी न रमेत ' 
-1: 
-Also cf. Paramasamhita: III. 40b-41a; p. 24: 
-* 
-· 
-★ ध्यातव्यो भगवानेव नान्यो विश्वस्य कारणात् । 
-स्वामित्वेन गुरुत्वेन सुहृत्वेन च सर्वदा || 
-This is the view of the Prābhākara. 
-This is the reply given by the Siddhantin. 
-तत्र च — 
-सिद्धान्ते प्राभाकरमतनिरासः 
-तदनन्तर सञ्जातजातकर्माविबोधतः । तद्धेतुभूतः कोऽपीति निश्चिन्वन्नात्मना पुरा ॥ कर्तव्यं जातकर्मेति प्रतीतेः किन्नु कारणम् ? प्रतीतं प्रियमित्येवं विमृशन्न' वगच्छति ॥ 
-पुत्रजन्मैव' नैवान्यदिति व्युत्पित्सुरर्भकः ॥ 
-आवापोद्वाप भेदेन पदानां शक्तिनिश्चयः । उपपद्यत इत्येवं सिद्धा सिद्धार्थवाचिता ॥ 
-ननु – न 
-७ 
-तद्भावभाविनामात्रेण कार्यकारणभावः, अति- प्रसङ्गात् । न च जातकर्मकर्तव्यतावगतिः । नियमेन प्रियार्थावगम 2- पुरस्सरी । दृश्यते हि कुटुम्बभरणायास " विद्यमानमनसोऽप्रीति- पूर्विकाऽपि 14 तत्कर्तव्यतावगतिः । 
-कार्यावगतिः किं शब्दकारणिका दृष्टा, येन 'गामानये 'त्यादौ गवानयनादि कर्तव्यतावगतिः शब्दकारणिका अभ्युपेयते ? अथ "आकस्मिकत्वानुपपत्तेः सन्निहितशब्द " एव तदवगमहेतुरिति चेत्, समानोऽयं विधिरितस्त्रापि । 
-1 
-B, My – बोधकः 
-2P, PM, T, M1, M3, M3, Ms, Mg, M., 
-4 
-My, V1, A- आत्मन: 
-M- पुन: 
-1 
-• M - प्रियमित्येव 
-" 
-Mg, My - विमर्शन् 
-" Ma - पुत्रजमेव 
-4 
-7 PM-4° 
-9 
-PM - अवापोद्धार; P, T, M1, M3 to M, 
-B, A, V, – आवापोद्धार - 
-10 M4, M7, My, Bomit न 
-11 M1, M, – ° गतिम् ; M – कर्तव्यावगति:; 
-PM गति 
-12 M2, My - पदार्थावगम 
-13 A – कुटुम्बायास ; M, -- कुटुम्बभरणाय° 
-- 
-14 Ma - अप्रीतिपूर्वकापि; Ms - अप्रीतपूर्वका पि 
-6 
-A 
-• Mg, Mg omit तत्र च 
-15 Mg omits आदि 
-16 M2 - सहित शब्द : My - सहितशब्द : 
-* 
-कारणं विना कार्य न जायत इति हेतोः । 
-+ 'विधिः' न्याय इत्यर्थः । 
-६८ 
-भागमप्रामाण्ये 
-याऽपि प्रवृत्तिहेत्वर्थप्रतिपादकता * क्वचित् । लिङादि' प्रत्ययावाप हैतुकी' साऽवसीयते ॥ 
-[ कार्यमात्रपरत्वस्य आग्रहैकमूलत्वकथनम् ] 
-यश्व कार्यपरतामेवाखिलपदानामातिष्ठते', तेनापि आवा- पोद्धारवि' निर्धारिता संसृष्टशरीराणामेव गवाश्वादीनां तत्तत्पदार्थता 7 $ समर्थनीया । समर्थ्यमानापि कार्यान्वयिन्येव समर्थ्यत इति चेदलं व्यसनेन ॥ | अन्यान्विताभिधानेनापि व्यवहारोपपत्तेः । 
-X अवश्याश्रयणीयेयमन्वितार्थाभिधायिता । 
-1 M1 & M 3 omit यापि 
-2 M1 has a lacuna from प्रत्यय to साव 3 M, M2, My & B – 2 हेतु की ° 
-4 M4 – यश्च 
-- 
-5A, Ms, Mg – अवतिष्ठते; M2, My - अधितिष्ठ 
-6 
-M1, M2 omit वि 
-7P, PM, T, M2, M, Mg, Mg. V 1, 
-A -तत्पदार्थना 
-8 M 3 - अन्यान्वय 
-* प्रवृत्तिहेतुः कार्यम्; तद्रूपोऽर्थः तत्प्रतिपादकता लिङादीनामित्यन्वयः । 
-+ आवापः प्रयोग इति यावत् । 
-+ आवापोद्धारैः विनिर्धारितं कार्यम् । तदसंसृष्टशरीराणामित्यन्वयः । 
-$ शुद्धगवाश्वादिपदानाम् । 
-$ तत्तत्पदार्थता, कार्यानन्वितोऽप्यर्थः । 
-" 
-भाट्टमते पदेनार्थ:, तेन जातिमात्रस्य बोध इत्यभ्युपगमः । अन्विताभिधानं नोररी कियते । तार्किकाणामध्येवमेवाभ्युपगमः । 
-X Yamuna emphasises here that no speciality should be attached to a statement that speaks of something to be done ( kārya). Words, he says, generally depend upon some factors and those factors need not necessari- ly be kārya'. Pointing out the untenability of the theory of 'kārya', he says that it goes astray in the instance of lin' the optative itself. Even thelin-suffix is found to depend upon a host of factors like the qualified aspirant (adhikārin), the means (sādhana) and the thing to be attained ( sādhya ). Cf. the following verse : 
-tasmādākānkṣitāsannayogyārthantarasangate 
-svārthe padānāṁ vyutpattirastheyā sarvavadibhiḥ || 
-Words convey their sense only in connection with such other idea or factor that is required to complete its sense (ākānkṣita), that is compatible with it (yogya ) and which is supplied by a word uttered along with it ( āsanna ). Karya should therefore occupy a subordinate but not the supreme position in the scheme of significance of words. 
-सिद्धान्ते प्राभाकरमतनिरामः 
-कार्यान्विताभिधायित्वमन्यथा + दुर्बदं यतः ॥ 
-अव्याप्तं चैतत् ' कार्यान्वितमेव सर्वत्र पदाभिधेयमिति'; लिङादिषु व्यभिचारात् । लिङादयो हि' परिनिष्ठिता 'धिकाराय'नु- पन्ध सम्बन्धिनमेव स्वार्थमभिदधति । अथ तेषु अन्विताभिधानं, इतरत्र कार्यान्विताभिधानमिति चेत्", तदर्ध"जरतीयम् * । ततो वरं सर्वत्रान्विताभिधानमेवाश्रीयताम् । 
-X तस्मादाकांक्षितासन्नयोग्यार्थान्तरसङ्गते | 2 | 
-1 M, कार्यान्वय 
-1 
-स्वार्थे, पदानां व्युत्पत्तिरास्थेया सर्ववादिभिः ॥ यद्यपि प्रवृत्यनुपपत्तिसमधिगमनीयैव शब्दशक्तिः; 
-2P, T - दुर्वचम् ; M1 - दुविधम् 
-M - अध्याप्तिः; Mg अव्याप्त 
-1M, M T पदाभिधेयत्वमिति 
-י 
-5. 
--- 
-— 
-M,, M, M, अपि 
-8 M1, M2, M, M. My – अनुबन्धि" 
-9 M1 M – कार्यान्वितत्वमिति 
-M, B - कार्यान्वितमिति 
-10 M2, My read कार्यान्वितत्वम्, omitting 
-इति चेत् 
-11 M1 & M2 omit तत् 
-" 
-My adds nf 
-7M,, M. M, M. B – अधिकार्यादि' 
-? 
-12 P, T – ° सङ्गतेः 
-F 
-म | 
-| लिया साक्षात् कार्यमुच्यत इति चेत्, लिङि कार्यपरत्वं नास्तीति व्यभिचारः । लिङ् कार्यमेव साक्षात, 
-न कार्यपरमिति ध्येयम् । 
-1 अधिकार: फलस्वाम्यम् - स्वर्गकामादिपदोक्तम् । 
-स्वार्थ कार्यम् । 
-$ तेषु लिङादिषु । 
-* 
-For an explanation of the ardhajarati-nyāya see Nyāyasudha under 
-1. ii. 3. p. 135: "केनचित् पाशुपतेन सर्वजरल्या योषितोऽनुपभोग्यत्वात्, सर्व तरुण्याश्च वृद्धेऽप्यरुचि- पात अजरत्यानयने दूतः प्रेषित इति लोकपवादोऽर्धजरतीशब्दे । " 
-Also cf. Bhuvanesalaukikanyāyasahasri, p. 104 : " यत्र सर्वत्यागे ग्रहणे वा प्रसक्तं, निकिकमेकशिपादानमंशान्तरत्यागश्च क्रियते, तत्रायं न्यायोऽवतरति - यथा जरती वृद्धा स्त्री, तस्याः पतिः तद गुनगान गृह्णानि अत्रयवान्तरं त्यजतीति युक्तिशून्यम् । " 
-X योग्यार्थान्तरसङ्गने स्वार्थ एव पदव्युत्पत्तिः । एतेन पदानां यत्किचिदर्थान्वयः निरस्तो वेदितव्यः । 
-विशिष्टबोधकत्वं स्वाभाव्यमिति भाट्टाः । शब्दस्यैव सम्बन्धबोधकत्वं नार्थस्येति प्राभाकराः । नत्रा मादित्यादिना । 
-" 
-" 
-। 
-तुष्यतु दुर्जन 'न्यायेनाऽऽह ' यद्यपी 'ति । प्रवृत्तिर्गवानयनादिषु । तस्या अन्यथानुपपत्त्या प्रथमं शक्तिरभ्युपेया 
-७० 
-आगमप्रामाण्ये 
-तथाऽपि - 
-* 
-[ शक्तिनिश्वयसमये कार्यस्य तटस्थोपायमात्रत्वप्रतिपादनम् ] तटस्थोपायतामात्रं शब्दशक्तिवि निश्चये । कार्यस्याश्रयितुं युक्तं, प्रयोक्त्राकाशदेशवत्' || अनन्यलभ्यः + शब्दार्थ' इति न्यायविदस्स्थिताः । तस्मान्नोपायभूतस्य' कार्यस्यास्ति समन्वयः ॥ 
-[ उक्तार्थे दृष्टान्तप्रदर्शनम् ] 
-यथैव 
-व्युत्पन्नव्यवहारेषु', ' पयःप्रतरणा 'दिवत् ॥ 
-ब्रह्म'जातीयादेिवज्रविशेषावधारणोपयोगि- 
-.8 
-1M1, M2, M7, My, B, omit तथापि 
-2B omits fa, rendering the metre 
-defective 
-3 M,—°देववत् 
-4 Mg — अनन्यलब्धः 
-4 
-6 M] —° भूताय 
-7 M 2 - - व्यवहारे तु; Mg - यवहारेऽपि 8 M2, M4, M2, My, Bomit हि 
-Mg reads यत्तथैव हि 
-9 M2 adds विशेष 
-5 M1, M2, M1, M2, My, B - इति न्यायव्यवस्थिति: 
-| प्रेरक पुरुषस्य, आकाशस्य, देशस्य वा कचिदपि विषयकोटिप्रविष्टत्वं नाऽभ्युपेयते, तटस्थत्वमेव । एवं कार्यस्यापीति ध्येयम् । 
-* 
-' शब्दार्थ : ' शब्दशक्तिगोवर इत्यर्थः । स एव शब्दस्यापेः यः प्रकारान्तरेण न लभ्यते । " गङ्गायां घोष" इत्यत्र गङ्गापदस्य प्रवाहरूपार्थमात्रे शक्तिवीकारे, तत्संबन्धात् तीरमपि लभ्यते । एवं लक्षणया प्रकारा- न्तरेणापि वीरलाभान्न तत्र शक्तिस्वीकारः । अत एव जातिमात्रे शक्तिः; व्यक्तेराक्षेपादेव सिद्धेः । 
-Cf. Bhuvanesalaukikanyāyāsāhasri, p. 243.. 
-+ Vide Ratnaśāstra of Buddhabhata, Śl. 39: 
-66 
-यत्तु सर्वगुणैर्युक्तं वज्रं तरति वारिणि । 
-रत्नवर्गे समस्तेऽपि तस्य धारणमिष्यते ॥ 
-55 
-The quality of gems is tested by putting them in water. If they float, that is an indication of their superiority. This method of testing or the knowledge regarding the test is no doubt useful in determining the class of gems; but it is of no avail at the time of wearing them. On this analogy, it is argued that the knowledge of 'karya' though useful to arrive at the significance of words, is not useful at the time of using those words. 
-+ For a classification of gems as 'male' and 'female, see Ratnadipikā of Candeśvara, Śls. 11-13, and for a classification into the four castes ' brāhmana', 
-4 
-• Kşatriya', ' vaisya' and 'śūdra see Ratnasāstra : sls. 21 and 23. 
-सिकान्ते प्राभाकरमतनिरामः 
-नोऽपि पयःप्रतरणादेः, अवधूतरत्नस्तत्त्वस्य न व्यवहारदशाया- मुपयोगः एवं व्युत्पत्तिग्रहण समय समुपयुक्तस्यापि कार्यस्य न srपन्न 'दशायामुपयोगः । यदि च कार्यान्वितमेवार्थ शब्दाः प्रति- पादयन्ति कथं तेभ्यः परिनिष्ठितनदीतीर फलादिसंसर्गावगमः ? नाsयं मुख्यो लाक्षणिक' इति चेत्, क्क वा शब्दानां मुख्यप्रयोगः ? * मानान्तरापूर्वे कार्य इति चेत्, न । तत्र अव्युत्पन्नत्वेन । प्रयो- गानुपपत्तेः । 
-न हि मानान्तरापूर्वे व्युत्पत्तिरुपपद्यते । 
-न चाव्युत्पन्न' शब्देभ्यः प्रत्ययोऽतिप्रसङ्गतः ॥ 
-योऽपि मन्यते लोके क्रियाकार्ये व्युत्पन्नः शब्दः 10 फलपद- समभिव्याहार" बलप्रतिलब्धतत्साधन भाव भङ्गुरयागादिधात्वर्थीत्ती- 
-1 M2, My omit अपि 
-2 M, M 2- - " रात्वस्य 
-M" "खारतस्यस्य 
-M11 
-M. M,, My, B. 
-1924 
-P. PM. T, M,, A, V. - रत्नसत्त्वस्य 
-We chose the reading of M.. 1 Mg - "युत्पत्ति 
-- 
-4M, M2, M, M,, My, B – स्वार्धम् 
-( 
-SM - लक्षण 
-6 Mg -- नामान्तरापूर्वे 
-7 M, omits a 
-8 M & B – न चाप्युत्पन्न 
-4 
-• M2 - lacuna from व्युत्पन्न: upto न, pre- 
-ceding शब्दार्थ below. 
-10P, PM, Mg, M, Ms, My - व्युत्पन्नशब्दः 
-B— व्युत्पन्नशब्द Mo - समभिव्यापार° 
-11 PM - समभिहार'; 
-§ व्यवहारदशा' पदेन, धारणसमयो विवक्षितः । 
-Cf. Prakaranapañcikā II. p. 187: 
-" क्रियादिभिन्नं यत्कार्य वेद्यं मानान्तरैर्न तत् । अतो मानान्तरापूर्वमपूर्वमिति गीयते ॥ " 
-+ शब्दस्येति शेषः । 
-Yamuna here attacks the theory advanced by the Prabhakaras that the words uttered by human beings gain validity only on inferential evidence because those beings are liable to defects. 
-X ' फलपदं ' फलवाचकं स्वर्गकामादिपदम् । तत्साधनभावः स्वर्गसाधनत्वं अपूर्वरयेत्यर्थः । धारवर्षो तीर्ण, बायर्थातिरिक्तम् । 
-७२ 
-आगमप्रामाण्ये 
-पूर्वकार्याभिधानशक्तिः श्वेदे' मोदते, लोके + तु संमुग्धेनाsपि ' व्यवहारोपपत्तेः, न शब्दार्थ तत्त्वावधारणमाद्रियत इति तस्या- पीदं मनोरथमात्रम् । न हि क्रियाकार्ये व्युत्पन्न: * स्थायिकार्यं' प्रतिपादयति, अतिप्रसंगात् । । 
-यदि वृद्धव्यवहारे समधिगतपदसामर्थ्येऽनुरुध्यमानेऽन्व यावगतिः' नोपपद्यते, मोपपादि । न तु तदनुपपत्त्या क्लप्तशक्ति- 
-8 । 
-परित्यागेन शब्दः शक्त्यन्तरं भजते । कामं लक्षणाऽऽश्रीयताम् । न हि विरुद्धार्थपद " समभिव्याहारे" पदानामभिधानमेवान्यथा नीयते । सर्वशब्दार्थेषु अनाश्वासप्रसङ्गात् । 
-1 B—वेदो 
-13 
-किश्च " मानान्तरापूर्व कार्यबोधनशक्तता । 
-न कर्मफल सम्बन्ध | सिध्यै तावदुपेयते ॥ 
-2 T - सममुग्धेनापि 
-3 M - शक्यार्थ° 
-4 M1, M2, M4, My, B–आश्रीयते 
-All printed texts and mss. read 
-व्युत्पन्नस्थायिकार्यम् 
-6 B – समाधि 
-8 My ननु 
-9 P, 
-PM - शब्दशक्त्यन्तरम् 
-10 M, omits पद 
-11 PM - समभिहारे 
-M, B – समभिव्यवहारे 
-12 M2 omits अभिधानम् 
-13 M 3 omits किञ्च 
-– 
-7M,, M2, Mg, M2, My, B – उपायावंगति: 14 M1 & M, सम्बन्धि 
-M3 - क वावगति: 
-' 
-7 
-$ फलपद... शक्ति:' इत्ययं बहुव्रीहि: ' शब्द ' इत्यस्य विशेषणम् । 
-T 
-1 
-4 वेदे निर्वृत्त इति भावः । 
-+' क्रियाकार्ये शक्तिकेऽप्यस्ती 'ति भ्रान्तः पुरुष इति भावः । 
-Cf. Prakaranapañcikā V. p. 95: 
-" कथं तर्हि लौकिकवाक्येभ्यो व्यवहारप्रवृत्ति: ? उच्यते - अर्धसंशयेनापि लोको व्यवहरति । सन्दिग्धाया- 
-मपि वृष्टौ वृष्ट्या यत्तफले कर्मणि प्रवर्तन्ते । " 
-* शब्द इति शेषः । 
-+ घटज्ञानात् पटज्ञानमपि भवेदित्यापत्तिः । 
-६ अन्वयावगति: ' स्वर्गकाम 'पदस्येति शेषः । 
-+ 
-'सिंहो माणवक:', 'अग्निर्माणवक:' इत्यादिप्रयोगेषु । 
-X मानान्तरापूर्वं = प्रमाणान्तरेणाज्ञातं अपूर्वम्; तद्रपं कार्यमित्यन्वयः | 
--: कर्मणो यागादे:, फलेन स्वर्गादिना सम्बन्ध: । तत्सिध्यर्थं मानान्तराज्ञानस्य कार्यस्य बोधकता पदानां नाभ्युपेया | अर्वस्य ङित्वं वर्तत इति प्राभाकरः; नास्तीति भाट्टो ग्रन्थकारश्चेति बोध्यम् । 
-2 
-सिद्धान्ते प्राभाकरमतनिरासः 
-'नैयोगिकस्स' सम्बन्धः, न पुनः उचैनियोगिकः । *धात्वर्थोत्तीर्णकार्यात्मा न कर्मफलसङ्गमात् ॥ 
-ऋते' सिध्यति सम्बन्धः, स च तस्मादृते न हि । 
-तत दुरुत्तरमितरेतराश्रयणम् ॥ 
-साध्यस्वर्गविशिष्टस्य पुरुषस्य प्रवर्तकः । 
-5 
-न स्याद्यदि तदिष्टार्थ साधनं न भवेद्विधिः ॥ 
-भङ्गुरो न च धात्वर्थः करणत्वेन 7 कल्पते । इति तद्भिन्नकार्यार्थबोधकत्वं यदुच्यते ॥ 
-10 
-तदसत् -- न हि साध्येन स्वर्गेणायं विशेष्यते " । स्वर्गं कामयमानो हि पुरुषोऽत्र + नियुज्यते ॥ 
-न हि स्वर्गः अधिकारिविशेषणं, साध्यत्वात् । 
-11 
-12 
-सिद्धमेव हि सर्वस्य " x नियोज्यस्य विशेषणम् । 
-13 
-जीवनादि, तथैवेह कामनैव विशेषणम् ॥ 
-M. has faqja 41401: 8 4 gengt a 
-, omitting the intermediary portion. 1M. My योगिकश्च 
-Mur 
-1M 2 पेनियोगकः । P and PM split this in- 
-correctly as वे नियोगिक : 
-4 Mg भूते 
-' P. T, Mg, Mo° इति 
-4 
-6 M 1, & M, - तदिष्टार्थः 
-7 M - कारणत्वेन 
-8 M - कल्प्यते 
-9 M2 & My read भिन्न for न हि 10 My - विशिष्यते 
-11 M2, My - सर्वत्र 
-12 Momits नियोज्यस्य 
-13 M2, My read जीवनादि यथैवैकं कामनादि 
-'स्वास्थं 'पदेन यागादिरुच्यते । धात्वर्थोत्तीर्णकार्यात्मा सम्बन्धः । 
-, 
-६ 
-'सच' कर्मफलसङ्गमः । 
-1 
-+ स्वर्गकामरूपनियोज्यस्य क्रियासम्बन्धज्ञानम् ; तेन स्वर्गयागयोः सम्बन्धज्ञानम् ; तदन्यथानुपपश्याऽपूर्व- कम्पनम् ; ततस्तस्य लिवाच्यत्वकल्पनम् वाच्येऽपूर्वे यागस्य स्वर्गकामस्य चान्वयकल्पनम् ; एवं ' स्वर्गकामीर्य याग- लग्नम् इति ज्ञाने तदनन्तरमेव स्वर्गयागसम्बन्दकल्पनमिति अन्योन्याश्रयणप्रकारः समनुसन्धेयः । 
-' ज्योतिष्टोमेन स्वर्गकामो यजेते 'त्यत्र । 
-, 
-X ' नियोज्यः पुरुषः 'स्वर्गकाम' पदाभिहितः । 
-$ 
-, 
-' यावज्जीवमग्निहोत्रं जुहोति', ' यावज्जीवं दर्शपूर्णमासाभ्यां यजेत' (see Sābarabhāsya under II iv I ) इत्यादिषु नित्यविधिषु जीवनादिकं सिद्धमेव हि पुरुषस्य विशेषणं दृश्यते, न तु साध्यम् । एवं 
-तेति विगान्यम् | 
-७४ 
-भागमप्रामाण्ये 
-अपि च, नियोज्यविशेषणतामनुभवतः स्वर्गादेः कीदृशं 
-साध्यत्वम् ? 
-यदि साधनसम्बन्धयोग्यत्वं नैव तावता । स्वर्गेण सिध्यता भाव्यं यावद्योगमजन्मत: 2 || सिद्धि पर्यन्तता तस्य *नियोगैकप्रमाणिका । नियोगः तत्प्रमाणश्चेत्यन्योन्याश्रयणं ध्रुवम् 
-1 A reads aaa, making the metre 
-defective 
-2 A & V1 read asa:; M1, M ̧, 
-1 
-Ms, M, & My read A: 
-3 M – सिद्ध 
-- 
-4 PM, M2, M3, M., M., My, B, V,, A 
-—सत्प्रमाणं च° 
-** 'Niyoga' is another name coined by Prabhakara to denote Apurva. See Karmamimāṁsā, pp. 74-75: 
-Mīmāmsā does not believe in any God that receives the offerings from the votaries and rewards them accordingly. "There must, therefore, be a capacity, which does not exist prior to the sacrificial action, either in the principal performance or in the agent, but which is generated in the course of the performance. Before a man performs a sacrifice, which will lead to heaven, there is an incapacity in the offering and in the man himself to secure that result, but when he has performed it, he becomes, as a result of the action, endowed with a potency, styled 'apūrva', which in the course of time, will secure for him the end desired. The existence of this potency is testified to in the scriptures; its necessity is apparent by the means of proof known as Pre- sumption (arthāpatti). We find in the Veda, assertions that sacrifices produce certain results, and, as the operation of the sacrifice, as we see it, is transient, the truth of the scripture would be vitiated if we did not accept the theory of Apūrva. Nor is there anything illogical in this doctrine; every action sets in force activities in substances or agents, and these come to fruition when the necessary auxiliaries are present. The action specified is called into existence by the injunction contained in the form of an optative in a sentence in the Veda. 
-From this doctrine, Prabhakara dissents, elaborating instead, a theory which is obviously a refinement on the simple view which Kumārila accepts from the older writers of the school and which best suits the Mimämsä Sūtras. In his opinion, the injunction rests in the sentence as a whole, not in the optative verb, and he denies that from the action there arises directly the 
-सिद्धान्ते प्राभाकरमतनिरासः 
-यदि स्वर्गस्य साध्यत्वं, न नियोगस्य साध्यता | साध्यद्वयं च नैकस्मिन् वाक्ये सम्बन्धमर्हति ॥ 
-७५ 
-स्वत हि साध्यद्वयमेकवाक्यतां निरुणद्धि । नाऽनुगुणम् । अनुगुणं चैतत् साध्यद्वयम् ; नियोगसिद्धि' नान्तरीयकत्वात् स्वर्ग- मिद्धेः । यदाह - ' नियोगसिद्धौ सर्वं तदनुगुणम्' इति, 'केन नेष्यते नियोगसिध्यर्धा फलसिद्धि 'रिति च । तस्मादविरोध' इति चेत्, न । 
-10 
-स्वर्गसिद्धिं विना किन्नु" नियोगस्य न सिध्यति ? नाधिकारो, न विषयो, न चान्यत्" विध्यपेक्षितम् ॥ 
-● | omits] साध्यता 
-• Ma सम्बन्धुम् 
-1 MA 
-- "एकवाक्यम् 
-4 M - हिरुद्ध 
-1 
-1 MB - साध्यत्वं द्वयम् 
-upto फलसिद्धि : 
-7 PM - विरोध : 
-8 
-P, T & My add तत् 
-9 M 1 - स्वर्गसिद्धम् 
-10 My - किन्तु 
-• M, has a lacuna from नान्तरीयकत्वात् 11 M1-न वान्यत् 
-Apurva. On the contrary the process is that the injunctive sentence lays down A Mandate, Niyoga; this excites the man to exertion, and this exertion pertains to some form of action, indicated by the verb of the injunctive sentence. The exertion produces in the agent a result (karya) to which also the name of Niyoga is given by Prabhakara, on the ground that it is this which acts as an Incentive to the agent to put forth exertion towards the performance of the action denoted by the verb of the injunctive clause. The Niyoga, however, is unable to produce its result, unless aided by something which Śālikanatha styles fate, nor is it apparent that either in his terminology, or in his view of the process, Prabhakara's doctrine is any superior to that of Kumārila. It seems as if primarily it arose from nothing more important than the observation that The result produced in the agent was in one sense his motive to action as much As the sentence directing the action to be done, leading to a transfer of the term Niyoga, naturally applicable to the sentence, to the condition in the ngent to which the more orthodox name of Apurva was usually applied. " 
-" In simple sacrifices, there is only one Apūrva produced, but in more com - plicated sacrifices, there may be several, as a rule, four.... But it is not every action which brings out an Apurva; these actions, which are devoted simply to kome material result, though a part of the sacrifice, such as the appointment of priests or the threshing of corn are not credited with any such effect, as they serve an immediate purpose and need no further explanation".པ་ 
-आगमप्रामाण्ये 
-न हि नित्याधिकारेषु नियोगस्तामपेक्षते । 
-न चान्यदिच्छतोऽन्यत्र नियुक्तिः । नोपपद्यते ॥ 
-नियोगस्यैव महात्म्यात् नित्येष्विव नियुज्यते ॥ 
-3 
-नियोगो' हि प्रधानतयाऽधिगम्यमानः स्वर्गमभिलषन्तमपि ' स्वात्मन्याकर्षति', यथा ऽनिच्छन्तमपि नित्ये कर्मणि निष्फले प्रव- र्तयति; किश्च - 
-स्वर्गं कामयमानो हि निमिषत्युन्मिषत्यपि । 
-8 
-न च ते स्वर्गसिध्यर्थाः; यागः किं नैवमिष्यते ? तत्साधनतया नैते' गृह्यन्त इति चेन्मतम् । यागादयः किं तद्बुद्धिग्राह्या विधिवहिष्कृताः ? 
-तत्र च - 
-साध्यसाधन सम्बन्धप्रतिपादनतत्पराः । 
-यावन्न विधयः, तावन्नैफल्यं सर्वकर्मणाम् ॥ 
-13 
-10 
-" 
-तस्मात्, लिङादिभ्यः " प्रथममिष्टसाधनतावगमः 
-11 ततो रागत: 12 प्रवृत्तिरित्येव युक्तम् । तदपूर्व कार्याभिधान एव मुख्या शक्तिः, इतरत्र 15 लाक्षणिकीत्यनुपपन्नम् । अत एव यथायथं लौकिक शब्देभ्यः तत्सिद्धार्थगोचरा बुद्धयो जायन्ते । 
-1M - नियुक्तिम् 
-±P, PM, T, M3, Ms, M8, My, V1, A-- 
-माहात्म्यम् 
-3 M2 न योगो 
-4 P - अधिगम्यमान ; M - विधिगम्यमानः 
-5 M3, Mg - अभिलषितमपि 
-6 P, PM, T, M3, M5, Mg, V1, A- 
-आत्मन्याकर्षति 
-M1 स्वारमानं कर्षति; 
-M. स्वात्मन्याकर्षयति 
-4 
-7 M2 adds नित्यम् 
-16 
-8 M4, M2, B – यागाः 
-9 P, PM, T - नैके 
-10 M 1 - - लङादिभ्यः 
-11 M2, Mg - इष्टसाधनतागमः 
-12 M4--नागतः 
-13 Mg omits इनि 
-14 Ma - यदपूर्व 
-15 M2 adds ₫ 
-16 A - लाक्षणिकेत्येतदनुसन्धानम् ; T, M1 to 
-M,, My, V1, B- लाक्षणिकेत्यनुपपन्नम् 
-17 M3, M4, M 7, B, omit तत् 
-सिद्धान्ते प्राभाकरमतनिरास: 
-[ लौकिकवचसामपि प्रामाण्यकथनम् ] 
-7 
-* ननु न' ताः शब्दमहिमभुवः, आनुमानिक्यो' हि ताः । तथा हि- हियुत्पत्तिसमय संविदितार्थप्रतिपादन सामर्थ्यान्यपि पदानि कचित् व्यभिचारदर्शनजनित 'संशयप्रतिबद्धानि' न' श्रुतमात्राण्य निश्वाययन्ति । न च अनिश्चितोऽर्थो' ज्ञातो भवति, अनिश्चयात्मनो ज्ञानस्याभावात् । 
-'ताज्ञातेऽपि वाक्यार्थे श्रोतैवं विचिकित्सते । 
-ब्रवीत्यन्योन्य सम्बन्धयोग्यार्थानि " पदान्ययम् ॥ 
-1 Mp omits न 
-• M. 1 अनुमानिक्यो 
-M, M. M. M, My - समर्थान्यपि 
-4 Ma omits ननित 
-M - "प्रतिबन्धानि 
-M. "प्रतिबन्धनानि Mo 
-• Ma omits न 
-7 Mo adds न 
-8 M,, M,, M, - अनिश्चितार्थो 
-- 
-9 M1, B- ज्ञातेऽपि Mg - तश्राज्ञापितेऽपि 
-10 Mg — श्रोत्रैव 
-11 T records a variant प्रवेक्ष्य 
-12 B adds व 
-13 M – योगार्थानि 
-This view of Prabhakara regarding the validity pertaining to the state- ments made by human beings, has already been stated and refuted briefly by Yamuna. He now exposes in detail, the untenability and absurdity of this view and proves that even sentences uttered by people in the world possess verbal authority, but not inferential authority. See the verse "tasmādasti madillie ", etc., following. 
-1 Cf. Prakaranapañcikā II. 24, p. 14 : 
-Sankyamanayatharthatvaracanam tena pumvacaḥ śrutamātrakamevärthe na tavanniścayāvaham || 
-Also vide ibid: $1. 36, p. 15: 
-arthenaiva višeşo hi nirākāratayā dhiyāṁ | na capratitenarthena viseṣaścāvakalpate || 
-4 Cf. ibid. II. 38-40, p. 16: 
-" 
-' किन्त्वज्ञातेऽपि शब्दार्थे पदजाते श्रुते सति । विमर्शो जायते श्रोतुरीदृशो मतिशालिनः ॥ अन्योन्यान्वययोग्यार्थ पदजातं ब्रवीत्ययम् । आप्तस्तेनामुना नूनं ज्ञातस्तेषां समन्वयः || न कदाचिदसम्बद्धानर्थानेष विवक्षति | न वाऽप्रतीत सम्बन्धानिति दोषो न कश्चन ॥ " 
-७८ 
-आगमप्रामाण्ये 
-न चाविज्ञात' सम्बन्धान् शब्दानाप्ताः प्रयुञ्जते' । तेनेदृशान्वयज्ञानमस्यास्तीत्यवगच्छति ॥ 
-एवमन्वयज्ञानेऽनुमिते, तदुपर्शितोऽर्थो न शब्दमाकांक्षति । वक्त्रनुभवपरतन्त्रतया तत्रैव' पर्य- 
-अतो लौकिकस्य वचसो 
-वसानमिति । 
-तदसत् । न हि स्वभावतोऽर्थमवगमयन् शब्दः कचित् वक्त्राशयदोषवशीकारात् वितथ इत्यन्यत्रापि तत्सम्भावनया स्वार- सिकीमर्थावबोधकतामुज्झितुमर्हति । न हि मन्त्रप्रतिहतदशायां " हुतवहो न दहतीति । अन्यत्राऽपि तादृशदशा' शङ्कया न दहति । नाऽपि शुक्तिरजतधियमर्थव्यभिचारिणीं इन्द्रियं दोष'वशादुपजन- 
-1M - न चाविज्ञान' 
-My - न च विज्ञात' 
-2 M, reads this line and the above as 
-one line : नवीत्यन्योन्यसंबन्धात् शब्दानाप्ताः प्रयुञ्जते । 
-13 M2, My - तदुपदशिकोऽर्थो 
-4 My —त त्रैत्रम् 
-SM – उपपादयितुम् 
-The Editor of 'P' opines that the reading should be मन्त्रप्रतिहतिदशायां; but the existing reading itself conveys the meaning clearly and is also correct. 7 My omits दशा 
-8 
-M2, My - अर्थव्यभिचारिणम् 
-9 PM, M, to Ms, My, A, B & V1 
-इन्द्रियदोष 
-6M - मप्र मेददशायाम् 
-Also cf. ibid : V, p. 95 : 
-'यो हि पुरुषः एवमवधारितो नायमशक्तो, न प्रमादी, संभवदेतदर्थविषयप्रमाणः सकलाशयदोषरहितश्च; नायमविज्ञायार्थमन्वितार्थानि प्रयुक्त इति तद्वाक्यप्रयोगस्यान्वयज्ञानपूर्वकत्वादन्व यज्ञानं तावदनुमीयते । अन्वयज्ञानाच्चा- 
-। वयोऽप्यनुमीयते । ज्ञानं हि यात्रिनाभावि ज्ञेयानुमाने भवत्येव लिङ्गम् । तदेवं लौकिकाद्वचसो लिङ्गभूताद्वतज्ञान- मनुमीयते । ततोऽर्थं निश्चिस्य व्यवहारः प्रवर्तते । एवं च निश्चितेऽन्वये निवृत्तानन्वयाशङ्काद्वाक्यादप्यर्थनिश्चयो जायते । किन्तु तस्यां दशायामनुवादकतैव । अत एव लौकिकवचने न शाब्दं प्रमाणम् । " 
-, 
-Cf. ibid. II. śls. 26-28; p. 15: 
-"" 
-तस्य ज्ञानं च वाक्येन लिङ्गभूतेन गम्यते । ज्ञातैवार्थ ब्रवीतीति य एवमवधारितः ॥ तस्य ज्ञानेन नियतं वाक्यं ज्ञानानुमापकम् । ज्ञानं चार्थाविनाभावि तेनार्थेपि विनिश्चयः ॥ ततोऽर्थे निश्चिते पश्चात्सोऽर्थो वाक्येन गम्यते । तस्यां दशायां वाक्यस्य तस्य स्यादनुवादता ॥ 
-99 
-सिद्धान्ते प्राभाकरमत निरासः 
-७९ 
-यत् उपलब्धमिति घटादिकमपि नावगमयति । अतो विदितपद- पदार्थसङ्गतेः श्रोतुः सहसैव शब्दोऽर्थमवबोधयति; मूलज्ञानं न प्रतीक्षते । 
-5 
-मूलज्ञानपरिज्ञानादर्वार्थेऽपि बोधिते' । कथमेवमयं वेदे 'त्यनुमानं प्रवर्तते ॥ किमज्ञासीदयं वक्ता किञ्चिदित्यनुमित्ससे । विशिष्टार्थान्वयज्ञान' मनुमातुमथेच्छसि ॥ 
-न तावदयमज्ञासीत् वक्ता किञ्चिदितीयता । * व्याहार' व्यवहारौ वा स्यातां वाक्यार्थगोचरौ ॥ विशिष्टार्थान्वयगोचरचेतोऽनुमानं तु प्रथमतरप्रवृत्ततद्विषय ". शेमुषी मन्तरेणानुपपन्नमिति प्रागेव शब्दार्थोऽवगन्तव्यः । न ह्यना- मादित विषयविशेषसंसर्गाः संविदः परस्परतो व्यतिभिद्यन्ते | 2 | न 
-तथानुमिताभिः अर्थविशेषः सिध्यति । यादृशान्वयप्रतिपादन- योग्या पदरचना, मा तदन्वयज्ञानमापादयतीति चेत्, अवगत- स्तर्हि प्रागेव अर्थानामन्वयः । न हि बुद्धावनारोपित 15 एवान्वयः प्रयोग छिनति । 
-तस्मादस्ति नदीतीरे फलमित्येवमादिषु । 
-या सिद्ध " विषया बुद्धिः, सा शाब्दी नानुमानिकी ॥ 
-'P, PM, T. A. M & V, omit उपजनयत्; 
-M, सामयेत 
-JAN V, omit पि 
-• 
-M1. M, 11 
-1 
-• M. M, 1.0 M, My, B, V, & A omit the ' Visarga 
-* 
-1 
-'P. PM, I. M... Mo. V, & A, read 
-वाहित 
-● My कथांतदयग् 
-M, विशिष्टार्थान्तरज्ञानम् 
-My विशिष्टायांन्वयि ज्ञानम्° 
-व्यवहारः कायिकः : व्याहारः वाचिकः । 
-8 Mg, B - व्यवहार' 
-12 
-9 M2, Ma, M2, My, B, read च; 
-M, omits ar 
-10 M2, My omit तद्विषय; M - ° तद्विषये " 11 M1 - न धन्या सामुदित' 
-12 M2, M2, M4, M2, My & B read 
-भिद्यन्ते, omitting व्यति 
-18 My omits तथा 
-14 M1, M2, M, & My add या 
-15 Mg reads आरोपितः 
-16 M, Mg, Mg - सिद्धि ° 
-८० 
-आगमप्रामाण्ये 
-ततश्च - अपूर्व कार्यगोचर एव शब्दः प्रमाणमिति - 
-स्वसिद्धान्तचिराभ्यासव्यामुग्धाबल बुद्धिभिः । उक्तम् – उक्तेन मार्गेण युक्ताऽन्यत्रापि शक्तता ॥ 
-[ वेदान्तवचसां प्रामाण्यसमर्थनम् ] 
-ततश्च यान्येतानि विलक्षणपुरुषप्रतिपादकानि वेदान्त- वचांसि - *" स एष सर्वाधिपतिः, सर्वस्येशानः, सर्वमिदं प्रशास्ति', 
-" तस्याध्यक्षमिदं सर्वम्' इत्यादीनि तान्यपि तत्र प्रमाणं तद्विष- यासन्दिग्धाविपर्ययवि' ज्ञानहेतुत्वात् । 
-न च परिनिष्ठितवस्तुनि' साधकबाधकयोरन्यतरोपनि पातसम्भावनाभावितानुवादविपर्ययपर्यालोचनया' तद्गोचरवचसां प्रामाण्यप्रच्युतिः; कार्यगोचराणामपि तत्प्रसङ्गात् । कार्यमपि माना- न्तरवेद्यमेव समिदाहरणादि - $ तच मानान्तरेणापि वेद्यमोदन- पाकवत्' इत्यभ्युपगमात् 1 
-अथ विलक्षणाग्निहोत्रादिविषयकार्यस्यासम्भावितमानान्तर - तया तत्प्रतिपादयद्वचः प्रमाणं हन्त तर्हि निरतिशयावबोधैश्वर्य- महानन्दसन्दोहवपुषि भगवति न' मानान्तरसम्बन्धगन्ध इति सर्व समान" मन्यत्राभिनिवेशात् । 
-अपि च-- 
-1 M3, B– पूर्व° 
-2 P – यामुग्धबल° 
-6 
-M,, My – यामुध्या बल 
-3 Mg - युक्तान्युक्तापि 
-4 Mg - प्रतिपादकपराणि 
-$ 
-above. 
-* 
-Brhadāranyaka V. vi. 1. 
-+ To be identified. 
-5 P, PM & M, omit fa 
-• M4 omits नि 
-7 Mg & B पर्यालोचना 
-- 
-8 Mg adds आदि 
-9 Mg omits न 
-10 B, reads इति सर्वत्र मानम् 
-This and the succeeding paragraph are mere repetitions. See. pp. 39-40 
-$ Vide Prakaraṇapañcikā II, p. 180: 
-" कृतिसाध्यं प्रधानं यत्, तत्कार्यमवसीयते । 
-तच मानान्तरेणापि वेद्यमोदनपाकवत् || " 
-। 
-सिद्धान्ते भामतनिरासः 
-प्रमाणान्तरदृष्टार्थविषयिण्यपि शेमुषी । प्रमाणमेव, तत्पूर्वं न चेत् स्वार्थं विगाहते || तस्य सम्भावनामात्रादप्रामाण्यमलौकिकम् ॥ 
-[ भगवतः सहजसार्वज्ञ्यसम्भवनिरूपणम् ] 
-८१ 
-तस्मात् * परिनिष्ठितानुष्ठेयादि भेदशून्यं', असन्दिग्धाविपर्यस्त- विज्ञानं प्रमाण मे ष्टव्यम् । अत इदमपास्तम्- ' प्रसिद्वैः करणैरेव " मार्यस्यं नान्यथेति यत्' । यतः श्रुतिरेव तत्र परिपन्थिनी ' - S' पश्य- यचक्षुः, म श्रुणोत्यकर्ण: 7 ', ' यः चक्षुषा न पश्यति यश्चक्षूंषि पश्यति', 'न तस्य कार्य करणं च विद्यते, स्वाभाविकी ज्ञानबल- किया' इत्यादिका । न चासां गुणवादत्वं, प्रमाणाभावात् । अलब्धमुख्यवृत्तीनां गुणवाद" समाश्रयः । 
-12 
-13 
-लभ्यते चेह 2 मुख्योऽर्थ | 3 इति तत्कल्पना मृषा ॥ 
-नन्विापि मुख्यार्थभङ्गकारणमस्ति - प्रमाणान्तरविरोधः । 
-14 
-कुनः प्रमाणान्तरात् " ? न तावत् प्रत्यक्षात् । न हि प्रत्यक्ष- मुदीरितपुरुषा भाषावभासकमु दीयमानं दृष्टम् । योग्यानुपलम्भाद- 
-AM, Mo 
-MM. I गेहशून्यम् 
-My ज्ञानप्रमाणम् 
-11. M -- कारगरेव 
-M. M- 
-, 
-41 
-W omits ple 
-A, M, M. M, V, B - परिबन्धिनी 
-M, M. M, M.,, My & B add इति 
-M, omits 4: 
-9 B, adds 144 
-10 A omits क्रिया 
-11 M2 & My - मुख्यवृत्ति 
-12 M1, M2, M, M, My B 
-13 M1, M2, M3, M2, My -- मुख्याधं : 14 M2 - प्रमाणान्तरविरोधात् 
-15 M 1 - 'पुरुषा भावावभासम् ; M2, M.3, M 
-M2, My - पुरुषाभाव भासक म् 
-Mo— पुरुष। भावाभासकम् 
-११ सिद्धार्थबोधकत्वम्; अनुष्ठेयत्वं पराभीष्टं कार्यबोधकत्वम् । उभयोरेतयोर्न कुत्राप्यामतः कार्य मः । ज्ञानप्रामाण्यस्य तादृशभेदाप्रयोजकत्वात्, विपर्ययादिशून्यत्वस्यैव तत्ताच्च । 
-This line runs like a verse. 
-Cf. Slokavārtika under I. 1.2; $1. 111b : 
-• 
-* य: पनि: प्रमाणैस्स्यात् सर्वज्ञः, केन वार्यते ? ' 
-Svetāsvatara : III. 19. 
-: Kenopanisat : I. 6a; but the reading found is : 
-"यश्चक्षुषा न पश्यति, येन चक्षूंषि पश्यति " । 
-$ Svetāsvatara : VI. 8. 
-८२ 
-भागमप्रामाण्ये 
-भावनिश्चय इति चेत्, न । * प्रमाण गोष्ठीज्येष्ठेन शास्त्रेणैवो- पलम्भनात् । नाऽप्यनुमानात् । तद्धि शीघ्रजन्मागमिक' प्रत्यय- प्रतिक्षिप्त प्रतिबन्धं कथमिव मन्थरप्रवृत्ति प्रादुर्भवति' ? 
-7 
-5 
-किं चैवं सति यागादे: स्वर्गापूर्वादिसङ्गतिः । क्रियात्वेन विरुध्येत, शास्त्रं चेत्तन्न बाधते ॥ 
-यूपादित्यादितादात्म्यं प्रत्यक्षेणैव बाधितम् । विस्पष्ट' दृष्ट' भेदत्वात् काष्ठसावित्रबिम्बयोः ॥ 
-12. 
-13 
-14 
-अपि च तत्र सन्निहितयूपाञ्जनविध्येक" वाक्यतया अर्थवाद- स्वात् युक्तं गुणवादत्वा श्रयणम् । न चेह तथा विध्यन्तरम "स्ति, यच्छेषतया ''sर्थवादः " स्यात् । 
-1M 
-उपलम्भात् 
-2 M1 – 'आगामिकम् ; M 2 – आगतिक 
-- 
-3 P & PM – ° प्रक्षिप्त 
-4A, M1, M2, M4, M6, M7, 
-My, V, & B – प्रतिबद्धम् 
-5 M1, M3, M8, M, V1 & T – प्रवृत्ति: ; 
-M2, M4—°वृत्ति:; M2, My, B~ वृत्ति 
-6 M2 & My add इति 
-Mg - यागाद्ये 
-* This line too is metrical. 
-8 B - प्रत्यक्षलक्षणैव 
-9 B विस्पष्टम् 
-10 M 2 - स्पर्श; My - - स्पष्ट 
-11 M2, My – विध्यै क 
-12 M, adds अभेदत्व 
-13 M2 & My omit तथा 14 M, – विध्यनन्तरम् 
-15 M - यथेच्छ तया 
-16 Mg – अर्धवादत्वम् 
-+ शब्दप्रमाणापेक्षया अनुमानस्य दौर्बल्यमेव । शाब्दं ज्ञानं शीघ्रतरम् । व्याप्तिज्ञानानन्तरलब्धप्रतिष्ठस्या- नुमानस्य मन्थरप्रवृत्तिरेवेति भावः । 
-f See p. 47 above for the Mimāmsaka's argument. The illustration of the arthavāda : "ādityo yūpah” [Taittiriya Brāhmana : II-i-5-2] was put forth there. This view is now being refuted. 
-The figurative statement "adityo yūpaḥ "is made on the ground of simi- larity of brightness ( tejasvitva) between the Sun and the sacrificial post. The relevant sūtra is " sārupyat " [ Pūrvamimāmsā : I. iv. 25 ]. 
-§ The rk to be repeated while anointing the yupa with ghee is: "añjanti tvāmadhvare devayantah " ( Taittiriya Brāhmana : VIii. p. 142 ). For the deri- vation of the term yūpa, see ibid: VI-i, the opening part. 
-गदाऽऽहु:- 
-इति, तन्न । 
-सिद्धान्ते भाहमत निरासः 
-अथ विध्यन्वयाभावे पुरुषार्थत्वहानतः । अध्याहृत्य विधिं तत्र' शेषत्वं परिकल्प्यते ॥ 
-6 
-यावत् खलु' प्रमातॄणां प्रवर्तन निवर्तने । शब्दा न कुर्वते, तावन्न निराकांक्षबोधनम् ॥' 
-ऋतेऽपि विधि सम्बन्धात् दृष्टैव हि पुमर्थता । पुत्रस्ते जात' इत्यादौ तथेहापि भविष्यति ॥ 
-न तत्र विध्यध्याहारः " । अन्तरेणाऽपि विधिं पुत्रजन- नापगमादेव हर्षात्पत्तेः । तथा, ' का क्रिया ?' 'पाक' इत्यादिप्रश्नो- शहारेषु प्रष्टृजन' जिज्ञासितक्रियाविशेषप्रतिपादन मात्र 'निरा फांक्षः शब्दो" न विध्यध्याहारमपेक्षते । 
-.7 
-इह तु ब्रह्मविज्ञानं महानन्दफलं श्रुतम् । 
-5' ग्रमवित् ब्रह्म" भवति', ' प्राप्नोति ब्रह्मवित् परम् ' ॥ " अभूते ब्रह्मणा सार्धं सर्वान् कामान् स सामगः 12 ' । श्वमादित्रयीवाक्यैः व्यक्ता 4 तस्य पुमर्थता ॥ 
-AL, M, M. Ma, M, My, B -दानित: 
-" 
-AM, M- "मानतः 
-My 
-M., onuts 1 
-" 
-'A' 
-" My 
-" M. 
-, 
-Aly 
-T 
-14 
-8 Mo~प्रष्टु: जन ै; B – पृष्टजन ; My - प्रष्टृजनि 
-9 Mg – मात्रात् 
-10 M2, My - ° निराकांक्षशब्दो 
-11 Ma omits ब्रह्म 
-- 
-12 Mg – सागम: ; Mo―सङ्गतः 
-13 Mg - इत्यादिभि:; My - एवमादि 
-14 M2, My – युक्ता 
-To be identified. 
-Note the way in which Yamuna connects the previous discussion with 
-the main theme, viz, the validity of the Pāñcarātra-texts, based upon the author- ship of Narayana, the Supreme and Omniscient Being. 
-A Cf Mundaka: III-ii-9 : 
-1 Cf. Taittiriya : Hi-1 : 
-66 
-"ब्रह्मवेद ब्रह्म भवति " 1 
-" ब्रह्मविदाप्नोति परम् " । 
-1 Cf. ibid : सोन सर्वान् कामान् सह ब्रह्मणा विपश्चिता " । 
-८४ 
-आगमप्रामाण्ये 
-[ पञ्चरात्रस्य भगवदनुभवमूलतया प्रामाण्यसमर्थनम् ] 
-* तदेव मुदीरितश्रुतिशत समधिगता वितथ सहज सर्वसाक्षात्कार'- कारुण्यादिकल्याणगुणैकराशौ भगवति सिध्यति, सिध्यत्येव तदनु- भवमूलतया' तन्त्र' प्रामाण्यम् । 
-ननु विरचितनीत्या' काश्चिदाम्नायमूर्ध- 
-प्रमित' सहज सर्वज्ञानवानस्तु नाम | सि च 'हरि' रिति यावन्नावगम्येत सम्यक् 
-न खलु भवति तावत् पञ्चरात्रं प्रमाणम् ॥ 
-[ वासुदेवस्य श्रुतिस्मृत्यादिबलेन पारम्यप्रतिष्ठापनम् ] अत्यल्पमेतत् ; न ह्यत्र त्रयी' विदो' विवदन्ते, 10 यद्वासुदेवः परमात्मा अखिल" जगत्कारणमिति । 
-1 M2 - साक्षात्कारिणि 
-2 M1, M2, M4, M2, My & B, omit 
-तदनुभवमूलतया 
-3 Mg -- तत्र ; M, adds प्रमाण 
-4 Mg adds नित्यः 
-• B adds सर्व 
-* Cf. Aniruddhasamhitā : II. 7-8 : 
-9 
-6 M1 has a lacuna from 
-'हज up to नाम 
-Mg reads भगवति 
-8 M has a gap from यी to व in विवदन्ने 
-L 
-9 Mg - वेदविदो 
-6 
-10A, M2, M,, Mg, M, B – विवादन्ते 
-11 A, Me - निखिल ' 
-" तथा सर्वेषु शास्त्रेषु पञ्चरात्रं वरिष्ठकम् । श्रुतिमूलमिदं तन्त्रं प्रमाणं कल्पसूत्रवत् ॥ पञ्चरात्रं विशेषेण विष्णुना भाषितं यथा । अतः प्रमाणं लोकेऽस्मिन् धर्मशास्त्रेषु सर्वशः ॥ " Also cf. Visnusamhitā : ch. II : 
-" वेदमूलतया तन्त्रमाप्तमूलतयाऽथवा ॥ 
-[11b] 
-[ 12 a ] 
-पुराणवत्प्रमाणं स्यात् तथा मन्वादिवाक्यवत् । 
-" 
-• आप्तप्रोक्ततया तन्त्रं प्रमाणमिति ये विदुः । 
-वेदप्रामाण्यमप्याहुरातलमूतयैव ते ॥ " [19] "विष्णोर्धर्मप्रव कृत्वा तत्प्रोक्तं मनुवाक्यवत् । 
-" 
-ब्रह्मविष्णू हि धर्माणां प्रवक्तारौ बुधैस्स्मृतौ ||" [21] 
-†The doubt expressed here by the opponent is as to who, among the trinity—Brahmā, Visnu and Siva, is the Supreme Deity. 
-§ The following is a brief exposition of the Supremacy of Nārāyaṇa. The Purusanirnaya of Yamuna, solely devoted to this question is yet to be traced 
-सिद्धान्तः 
-श्रूयते हि स वेदान्ते * ' वा 'त्मा नारायणः परः ' । 
-' सत्यं ज्ञानमनन्तं ' च, ' तद्विष्णोः परमं पदम् ' । " परा प्रकृतिरध्यक्षो वासुदेवः', तथा 'परः 
-एकः परस्ताद्य' इदं बभूव' 
-||" यस्मात्परं नाऽपरमस्ति किञ्चित्' । इत्युक्तवाक्यानुगुणं 'यतो वा 
-5 
-इमानि भूतानि ' ' सदेव सोम्य'" ॥ इत्यादिवाक्यं च ततस्स विष्णुः 
-श्रीशिरस्सिद्ध' विशुद्धबोधः । 
-12 
-11 
-न चान्यस्मात् जगज्जन्मस्थितिध्वंसाः श्रुतौ श्रुताः । गतश्चैते स' सर्वज्ञः परमात्मेति सम्मतम् ॥ 
-८५ 
-अमुमेव परमात्मानं द्वैपायनपराशरनारदप्रभृति महर्षि- चनेभ्यः प्रतिप" ग्रामहे । तथा हि- 
-1 M 
-7M3—'शुद्ध' 
-• M, to M, M. My, V. A & B - परे 
-8 
-M 
-M. 
-"" 
-*M, omits DL 
-M1, M2, M, M,, My, B - त्रयी- 
-शरीरः सुविशुद्धबोध: 
-A, B, M, – यतश्चैतेन 
-0 
-10 My has a lacuna: प्रतिप तथाहि 
-'P. PM 
-न्यान्गणम् 
-"P. PM, T, M - मौम्य 
-HT 
-11 M2, My, B— प्रतिपाद्यामहे 
-out and as such, the importance of this part of the text need not be overempha- Mined. It indicates the way at least, in which the author had dealt with this equation in the work. 
-, 
-Mahdnardyana: XI. 4 f Taittiriya : II-i-1. 
-Yajurveda: VI- 5; also Kathopanisat : III-9. 
-1 To be traced out. 
-This appears in the Ayusyasūkta, beginning with " यो ब्रह्मा ब्रह्मण उपहार ". The tending found is " एकः पुरस्ताद्य इदं बभूव ". It appears on folio 15 b of palm-leaf mv.in Grantha, under R. No. 657, deposited in the Govt. Or. Mss. Library, Madras, and also on folio 42 a of another p.l. ms. in Grantha, R. No. 67 from the same library. 
-11 Svetāsvatara III-9; Taittiriya: III-i-1; §§ Chāndogya : VI-ii-1. 
-$ Cf. Brahmasūtra 1-i-2 : "जन्माद्यस्य यतः " |૨૧ 
-आगमप्रामाण्ये 
-S' विष्णी जगत् स्थितं सर्वमिति विद्धि परन्तप । सृजत्येष महाविष्णुः । भूतग्रामं चराचरम् ॥ एष चाक्षिपते काले काले विसृजते पुनः । अस्मिन् गच्छन्ति विलयमस्माच्च प्रभवन्त्युत ॥ ' +' अनादिनिधनः श्रीमान् मुनिर्नारायणः प्रभुः । सवै सृजति भूतानि स्थावराणि चराणि च ॥ *1 स ब्रह्म परमं चे 'ति तथाऽन्यत्रापि पठ्यते ' । 'केशवो भरतश्रेष्ठ ! भगवानीश्वरः परः ॥ पुरुषस्सर्वमित्येतत् श्रूयते बहुधा श्रुतौ । इति । 'तत्त्वं जिज्ञासमानानां हेतुभिस्सर्वतोमुखैः । तत्त्वमेको महायोगी हरिर्नारायणः प्रभुः ॥' इति । 
-तथा दानधर्मे— 
-परमात्मा परशान्तः पद्मनाभः परायणः । 
-इति वेदरहस्यं तु किं न वेत्सि पुरन्दर || SS 
-10 
-तत्प्रसादाद्वयं सर्वे लोकानां स्थितिहेतवः । 
-आप्ताश्चा" मरमुख्याश्च 12 देवाश्च 13 स्थानिनो 14 मताः । SS यदि विष्णुरुदासीनो नास्माकं विद्यते शुभम् । SS इति रुद्रस्य वचनं; तथा भारतमात्स्ययोः 15 ॥ 
-1M 2 – महान् विष्णुः 
-2 My has a gap चाक्षि... काले 
-3 Mg - तस्मिन् 
-4 M adds मध्य 
-M, omits fa: 
-6 M, तथाऽन्यत्र च कीर्त्यते 
-7 M1, M, इत्यादौ 
-- 
-B Mg omits किम् 
-• PM - किं नु 
-10 M1, M2, M2, My - स्वयम् 
-11 Mg - आपगाश्च 
-12 M2 - आप्तश्चामरमुख्यश्व 
-13 A, T, M3, Mg & B – वे इन 
-14Mg, Mg - आस्थानिनो 
-15 Mg - मत्स्ययोः 
-f Mahābhārata ( Cr. edn ) XII. 271 7-8 Variant : महाबाहो for महाविष्णुः । 
-† Ibid. XII. 271. 19. Variant: eft: for gf: I 
-* Ibid. XII. 28.26 b. Variant परमो for परमं । 
-ff Ibid. XII. 2005. Variants: प्रभु: for परः; इत्येव for इत्येतत् विभुः for श्रुतौ । 
-↑ Ibid. XII. 335. 83b-84a. 
-§§ To be identified. 
-सिद्धान्तः 
-3 
-49 
-तत्रः यः परमात्मा हि' स' नित्यो निर्गुणश्शुभः । सवै नारायणो ज्ञेयः, सर्वात्मा पुरुषो हि सः * ॥ ' इति । 
-तथा बाराहे' 
-तथा लेङ्ग" 
-तथा- 
-यस्य देवस्य चरितं व्रतं समभवद् भुवि । कोऽन्यस्तस्मादभ्यधिको मुक्त्वा नारायणं प्रभुम् ' ॥ इति । 
-नारायणात्परो देवो न भूतो न भविष्यति । एतद्रहस्यं वेदानां पुराणानां च सत्तम ॥ इति । 
-7 9+ 
-' स एकः पुरुष' श्रेष्ठः परमात्मा जनार्दनः । तस्माद्ब्रह्मा ततो रुद्रः, ततश्चैवाखिलं जगत् ॥ 'S 
-'विष्णोस्सकाशादुद्भूतं जगत् तत्रैव च स्थितम् । स्थितिसंगमकर्तासौ ॥ इति पाराशरं वचः ॥ 
-तथा मानवे 
-AMIT 
-al 
-" '' 
-AM, M, M, B बराहे 
-1 
-་།་ 
-1: 
-6M, M – हितम् ; M2, M, Bाम् 7P, PM, T, M2 to M, B, V1 - समा 8 M2, M, B – लैड्ये 
-9P, PM, Mg – पुरुष : 
-10 All but M, - यस्मात् 
-Mahabharata XII. 339.14. Variants : नित्यं for नित्यो; हि for वै । 
-(7. also ibid. XIII App. 13, lines 20-21: 
-44 
-'आलोड्य सर्वशास्त्राणि विचार्य च पुनः पुनः । 
-इदमेकं सुनिष्यन्नं ध्येयो नारायणः सदा || " 
-1 
-To be traced out. 
-1 Ch. 73. 1. 52. 
-Lingapuraṇa: uttarabhaga: Ch. I. śl. 7b-8a. There the reading is : 
-" 4 एकः पुरुषश्रेष्ठः परमात्मा जनार्दनः । यस्माद्ब्रह्मा ततस्सर्वं समाश्रित्यैव मुच्यो ॥ " 
-|| Visņapurána : I. 1. 35. The remainder of the sloka is : ' जगतोऽस्य जगच सः ' 
-८८ 
-" 
-भागमप्रामाण्ये 
-नारायणः परोऽव्यक्तादण्डमव्यक्तसम्भवम् । अण्डस्यान्तस्त्विमे' लोकाः, सप्तद्वीपा च मेदिनी ॥ ' * 
-[ रुद्रादेः परमात्मत्वाभावसमर्थनम् ] 
-तस्मादीदृश' श्रुतिस्मृतीतिहासपुराणपर्यालोचनया अखिलजग- त्कारणं परमात्मा वासुदेव इति निश्चीयते । 
-न चैवं' परमात्मत्वं रुद्रादेः श्रुतिषूदितम् ' । प्रत्युतोत्पत्तिमेवाहुः तिस्यैकायनशाखिनः ॥ 
-'तमो वा इदमित्यादौ, तथग्वेदेऽपि दृश्यते । यतो हि रुद्रस्संजज्ञे, तच्छ्रेष्ठं भुवनेष्विति ॥ - 
-SS' तदिदास भुवनेषु ज्येष्ठम् ' इति' । 
-तथा रौद्रं पदं स्पष्टं कर्मजन्यं प्रतीयते । महिमानं निजं लेभे विष्णोरभ्यर्चनादिति ॥ -- अस्य देवस्य ' इति । 
-12 
-11' ललाटादभवद्विन्दुः ", तस्मादुद्रो व्यजायत 2 | इत्यादिकाश्च श्रुतयो रुद्रोत्पत्तिं वदन्ति वै ॥ 
-1 M2 & My – ° स्थिताः 
-2 My omits ईदृश 
-3P, PM, T, M9, Ms, Mg, A, V1, B- 
-न चैव 
-M- श्रुतिदूषितम् 
-5M,1,, M2, M2, My -- तथा श्वेतेऽपि 
-6 M1, M,, B – एको 
-7 M2, My – एको रुद्रः संजज्ञे; Mg - रुद्रं जज्ञे 
-8 M 1 - तदिदं सर्वभुवनेषु ज्येष्ठमिति 
-9 M 3 – रुद्रम् ; My - रौद्र 
-M2-; 
-10 PM omits इति 
-11 My - क्रोधजो बिन्दुः 
-P, PM, T, Mg, M, Mo B -- तथा वेदेऽपि 12 Mg - रुद्रोऽप्यजायत 
-* This verse is not found in the Manusmṛti commented by Bhatta Medha- tithi. It is however, found inserted between the 10th and 11th verses of the first chapter in the Manvarthamuktāvali with Kullūka's commentary [ Kāśī Skt. Series, 1935]. Kullūka too did not comment upon it. 
-†The Pancarātrins are the followers of the Ekāyanaśākhā, one of the redactions of the Sukla Yajurveda. 
-tt Maitriyopanisat V. 2. 
-SS Rgveda X. 120. i. 
-** 
-Ibid. VII. 40. 5. 
-++ Cf. Subālopanisat II. 1 : " ललाटात क्रोधजो रुद्रो जायते । " 
-सिद्धान्ते प्राभाकरमतनिरासः 
-एवं च सति, रुद्रादिमहिमावेदिका इव । 
-८९ 
-या वाचः, ताः स्तुतिपराः 8' श्रोत्रं ब्रह्मे 'ति गीरिव ॥ एतेन रुद्रादीनां परमात्मत्वप्रतिपादकपुराणवादा: । प्रत्यक्ष- श्रुतिविरोधात् न मुख्यार्थाः । 
-यद्वा, त्याज्यतया तत्र सिद्धान्तप्रतिपादकाः । अवैदिकेषु तत्रेषु तन्माहात्म्यं हि कथ्यते ॥ 
-[ विष्णोः परमात्मत्वदृढीकरणम् ] 
-* वेदसिद्धान्तमार्गेषु विष्णुरेव परस्स्मृतः ॥ 
-तद्यथा वैष्णवे'. 
-बाराहे- 
-1 IM – वादात् 
-- 
-- 
-+ " परमात्मा च सर्वेषामाधारः परमेश्वरः । 
-विष्णुनामा स वेदेषु' वेदान्तेषु च गीयते ॥ ” 
-+ " विष्णुरेव परं ब्रह्म त्रिभेदमिह' पठ्यते । 
-वेदसिद्धान्तमार्गेषु तन्न जानन्ति मोहिताः ॥ नारायणात् परो देवो न भूतो न भविष्यति । एतद्रहस्यं वेदानां पुराणानां च सत्तम ॥” इति । 
-2 M1, M, — तत्र 
-4 
-A - " प्रतिपादिकाः 
-$ 
-• M. M2, M, M,, My, & B, omit 
-ष्णने 
-"M,, M2, Mg, M 7, My, B – परमः स्मृतः 
-SS Brhadāranyaka IV. 1. 5: 
-A, Ms - पुरुषोत्तमः 
-6 0 M3, Mg — देवेषु 
--- 
-7 Mg - अपि 
-8 Mg – वेदान्तसिद्धमार्गेषु 
-9 My — भूतम् 
-10 
-10P, PM, T, M1 to M, V1, B सत्तमाः 
-श्रोत्रं वै ब्रझ” । 
-This line occurs below. It is from the Bhavisya Purana, to be identified. 
-+ Visnupurāna VI. iv. 39. 
-+ Varāhapurāna [ Sri Venkatesvara Press, Bombay ], Ch. 72. sI. 4. 
-$ Ch. 73, sl. 52. 
-Also cf. ibid. Ch. 70, $1. 26a : 
-" न तस्मात् परतो देवो भविता न भविष्यति । " 
-तथा मात्स्ये— 
-*" सात्त्विकेषु तु कल्पेषु विष्णोर्माहात्म्यमुच्यते । अग्नेशिशवस्य माहात्म्यं तामसेषु प्रकीर्त्यते " ॥ 
-तथा लैङ्गे'- 
-S" न हि विष्णुमृते काचित् गतिरन्या विधीयते । 
-इत्येवं' सततं वेदा' गायन्ते' नात्र संशयः " ॥ इति । 
-तथा वायवीये-- 
-1 " सहस्रबाहुः परमः प्रजापतिः 
-7 
-त्रयीपथे यः पुरुषो निरुच्यते " । इति । 
-तथा भविष्यति - 
-t 
-1 " वेदसिद्धान्तमार्गेषु विष्णुरेव परस्स्मृतः । 
-विष्णुरेव नरश्रेष्ठो' महिष्ठः पुरुषोत्तमः " ॥ इति । 
-सर्वं चैतत् पुरुषनिर्णये निपुणतरमुपपादितमिति नेह प्रपञ्च्यते । ततश्च 10 
-- 
-[ विष्णोः पञ्चरात्रप्रणेतृत्वकथनम् ] 
-श्रुतिमूर्ति प्रसिद्धेन वासुदेवेन भाषितम् । तन्त्रं मिथ्येति वक्तुं नः कथं जिह्वा प्रवर्तते ? 
-1 M2, Mg—च 
-2P, PM adJ इति M adds : 
-राजसेषु च माहात्म्यमधिकं ब्रह्मगो विदुः 
-3 M2 - लैङ्ग्ये 
-4T, M, to M., My, V1, A - इत्येव 
-5 A – देवाः 
-6 Mg, Mo - - गायन्तः 
--- 
-7 My - त्रयीपथैः पुरुषोऽग्निरुच्यते 
-8 B – पुरः 
-- 
-9M2, M3, M4, Ma, M2, My, B – विष्णुरेव 
-- 
-हि नः श्रेष्ठ : ; M 2 – विष्णुरेव हि स श्रेष्ठ: 
-10 Mg & My omit ततश्च 
-11 M1, M,, B – तन्त्रमित्येव 
-* Matsya Purāna Ch. 53, sl. 67b-68a. 
-& Linga Purāna [ Pūrva ] Ch. 24, Ś1. 143. 
-† Passages to be identified. 
-$ Purusanirnaya is another work of Yamuna, which is yet to be recovered. 
-सिद्धान्ते मतान्तरपरीक्षा 
-3 
-११ 
-स हि सहजसंवेदन साक्षात्कृतदीक्षाराधनादिधर्मः ' स्वर्ग- पुत्रादिवैषयिक सुखमनेकदुःख 'संभिन्नं न चातिचिरमनुवर्तत इति तदपि दुःखपक्ष एव निक्षिप्य, मोक्षाय गृहेभ्यः प्रव्रजद्भ्यः' शाण्डिल्य- नारदादिपरमार्थभ्यः, तदभिलषित निरतिशयनिःश्रेय सैकसाधन"- ग्यायगमाराधनावबोधिनीः 
-निश्रीयते । 
-P 
-पञ्चरात्र संहिताः ' 
-निरमिमीतेति " 
-[ तन्त्रान्तराणां भ्रान्तिमूलत्वकथनम् ] 
-न च तत्रान्तरेष्वेष" न्यायः प्रसरमर्हति । यतस्तत्तन्निबन्धूणां विभ्रमाद्यवि 12 सम्भवि " || 
-प्रत्यक्षादिप्रमाणानां न हि मूलत्वसम्भवः । तन्त्रान्तरेषु, शास्त्रं तु मूलं तैरेव नेष्यते ॥ अन्यच्च वेदसिद्धान्तविरुद्धार्थाभिधानतः । प्रत्यक्षश्रुतिमूलत्वकल्पना तेषु बाध्यते ॥ 
-अथ शैवमतोपन्यासः ] 
-गधा " माहेश्वरे तत्रे * विरुद्धं बहु जल्पितम् '" । चतुर्विधा हि तत्सिद्धचर्यामार्गानुसारिणः || 
-Momits महि 
-All the miss, and printed texts do 
-not have the visarga'. 
-• Mg 
-1 
-"गुमगनीदुम" 
-' A, M., M, B- omit न 
-. M. 
-प्रवा 
-71 4: 
-• 
-10 
-8 Mg - साधनश्वेन 
-9P, PM, T, Mo - अवबोधिनीं पचत्रसंहिताम् 
-M2 - निरममीतेति 
-11 PM - एव 
-12 M1, M, – संभ्रमा थपि 
-13 My - सम्भवेत् 
-14 M2, M2, M2, M2, My, B - तथा 
-15 M1, Mg कल्पितम् 
-The followers of the Māheśvara Doctrine are fourfold Saivas, Pasupatas, Kāpilikas and Kāruṇikasiddhāntins, according to Vacaspati and Anandagiri. Yümuna calls the fourth group, Kālāmukhas. Rāmānuja follows Yamuna in calling them so. The term Mahesvara is a name common for the followers of all these sects. 
-९१ 
-1 Mo—तथा 
-भागमप्रामाण्ये 
-यथा' कापालिकाः कालामुखाः पाशुपतास्तथा' | शैवास्तत्र च कापालं मतमेवं प्रचक्षते ॥ 
-2 My - कापिलकाः 
-3 M2, My - स्मृताः 4B का पालमतम् 
-f See M. R. Sakhare, Lingadhāranacandrikā, pp. 331-332 : 
-66 
-। 
-“ In the Vāyupurana (ch. 23 ) and the Lingapurāna ( ch. 24 ) it is said that Maheśvara told Brahma that when Vasudeva is born, he would incarnate himself as a Brahmacarin by the name of Lakulin and that Lakulin would have four pupils of names Kushika, Garga, Mitra and Kaurushya, these would be Pasupatas. The refutation of the Pasupata system is found in the Brahmasutra: "patyurasāmañjasyāt" (II. ii. 37). 
-From all this it appears that the Pasupata school was founded by Lakulisa (the holder of lakula or lakuta - a club or staff). This Lakulisa (also called Nakulīśa) is the last of the 28 incarnations of Śiva as mentioned by the Puránas. This has been confirmed by inscriptions too. " 
-The Kālāmukhas and Kāpālikas were two different sects of the Mahe- śvaras. Dr. Bhandarkar (in his Saivism and Vaisnavism, etc., p. 183), identi- fies the Kālāmukhas with Mahāvratadharas on the authority of Sivapurāṇa but M. R. Sakhare, on the evidence of a Jain author, states that the Kāpālikas but not the Kālāmukhas were the same as Mahāvratadharas (pp. 344 f.). 
-The Kālāmukhas, according to T. A. Gopinatha Rao (Elements of Hindu Iconography, Vol. II, p. 26), were so called as they marked their forehead with black streak and were said to be the offspring of " nara” and “ rāksasa ' 
-parents. 
-"The Kāpālika system is very ancient since it is mentioned in the Maitri Upanişad ( ‘atha ye cānye ha vrthā kaşāyakundalinah kapālinah ) " [ Linga- dhāranacandrikā, p. 344]. 
-" The allegorical drama, Prabodhacandrodaya of Krsnamiśra ( III. 12, 13 ) introduces a Kāpālika, who describes himself and his practices as follows: 
-नरास्थिमालाकृत चारुभूषणः 
-स्मशानवासी नृकपालभोजन: । 
-पश्यामि योगानशुद्धचक्षुरा 
-जगन्मिथो मिन्नमभिन्नमीश्वरात् ॥ 
-मस्तिष्कान्त्रवसा मे पूरित महामांसाहुती: जुड़ता 
-वह ब्रह्मकपालकलितसुरापानेन नः पारणा । 
-सयः कृत्तकठोर कण्ठविगलर की लालधारोज्ज्वलै : 
-अर्थ्यो न: पुरुषोपहारबलिभिः देवो महाभैरवः ॥ " 
-[Tbid. p. 345] 
-सिद्धान्ते मतान्तर परीक्षा 
-[ का पालमतप्रतिपादनम् ] 
-मुद्रिकाषक विज्ञानात् पुनस्तस्यैव धारणात् । अपवर्गफलप्राप्तिः, न ब्रह्मावगमादिति ॥ 
-तथाऽऽहुः । - 
-तथा- 
-Bomits 
-* 66 
-* 66 
-'M "विशारदाः 
-.2 
-'मुद्रिकापतश्वज्ञः परमुद्रा विशारदः । 
-भगासनस्थमात्मानं ध्यात्वा निर्वाणमृच्छति ॥ 
-कर्णिका रुचकं चैव कुण्डलं च शिखामणिम्' । भस्म यज्ञोपवीतं ' च मुद्रा' षङ्कं प्रचक्षते ॥ कपालमथ खट्वाङ्गमुपमुद्रे प्रकीर्तिते । आभिर्मुद्रितदेहस्तु न भूय इह जायते ॥ 
-ISS 
-M2, M, 
-11: 
-4 M. My - कारुवके 
-" My शिखामणिः 
-6 Mg - भस्मयज्ञोपवीते 
-"9 
-९॥ 
-? M, adds a, to the detriment of 
-3 
-metre. 
-8 M - प्रवर्तिते; Ms - प्रकीर्त्यते; My - प्रवर्तते 9 M2 & My - त्रिभिः 
-Also vide Indian Philosophy by Dr. S. Radhakrishnan, Vol. I, p. 488 : 
-" The Rudra of the Rgveda ( I. 114.8). the personification of the destrue- live powers of nature, becomes in the Satarudriya, the Lord of Cattle, 'paśānāṁ patth. In the Brahmaņas, Śiva becomes the distinctive term for Rudra. The Pampata system continues the tradition of Rudra-Śiva. In the Mahābhārata, wr find a theology named Pāśupata centring round Siva [ Santiparvan, ch. 149, 5, 64. We have an account of this system in Sarvadarśanasangraha and Advaitananda's Brahmavidyabharaṇa. Sankara criticises this theology in his Commentary (II. ii. 37-39). " 
-For a history and philosophy of these different schools of Saivism from Inscriptional data, see V. S. Pathak, History of Saiva Cults in Northern India from Inscriptions, pp. 4 28. 
-Passages to be identified. 
-मागमप्रामाण्ये 
-[ तस्य अवैदिकस्वनिरूपणम् ] 
-न चेदृशमुद्रिकाषक परिज्ञान, तद्धारण, निन्दित' भगासनस्थ- देव ध्यानस्य अपवर्गसाधनत्वं श्रुतयो मृष्यन्ति । ता हि ऐहिका- मुष्मिक सकल विषयाभिलाष विमुखस्याखिलजगत्कारणवासुदेवात्म- भावनैकलभ्यं मोक्षमाचक्षते - * ' तमेव' विदित्वाऽतिमृत्युमेति, नान्यः पन्था अयनाय विद्यते ' इत्याद्याः । 
-[ कालामुखमतप्रतिपादनदूषणे ] 
-एवं कालामुखा अपि समस्तशास्त्रप्रतिषिद्धक पालपात्र'- भोजन शव भस्मस्नानतत्प्राशन'लगुड 'धारणसुराकुम्भस्थापनतत्स्थदेव- तार्चनादेरेव दृष्टादृष्टाभीष्टसिद्धिमभिदधानाः श्रुतिबहिष्कृता एव । 
-[ पाशुपत शैवमतनिरासोक्तिः ] 
-यदपि पाशुपत शैवाभ्यां विरुद्धाविरुद्ध संमुग्धं किञ्चिदभिहितं, 
-तदपि श्रुतिवहिष्कृतमेव । 
-तत्रैवा पाशुपतप्रक्रिया - 
-[ पाशुपत मतप्रतिपादनम् ] 
-+ जीवाः पशव उच्यन्ते तेषामधिपतिशिशवः । 
-1 M2, My, B – निमित्त 
-2P, PM, T, Mg to M, B, V1, A- 
-"देह 
-3 M, omits fa 
-4M - एवम् 
-5 A, B – मात्र 
-* 
-t 
-- 
-"" 
-6 Mg - तत्वाशन ' ; Ms - तत्व काशनम् ° 
-7M2, M4, M6, M7, B – ° लकुट 
-8 
-SM- पाशुपते 
-9P, T, M1, V1, 
-सममुग्धम् 
-M2, My - ° विरुद्ध संमुग्धम् 
-Taittiriya Aranyaka III. xiii. 1; also Svetāśvatara VI. 15. 
-Vide Pāsupatasūtra with Kaundinya's commentary, I. 1, p. 5 : 
-पश्यनात् पाशनाच्च पशवः । तत्र पाशा नाम कार्यकारणाख्याः कलाः । " 
-Also see ibid : 
-" मांख्ययोगेन ये मुक्ताः सख्यियोगेश्वराश्च ये । ब्रह्मादयतिर्यगन्नाः सर्वे ते पशवरस्मृताः ॥ 
-2 
-सिद्धान्ते मतान्तरपरीक्षा 
-स तेषामुपकाराय पश्चाध्यायीम चीकूलपत् ॥ तत्र पञ्चपदार्थास्तु व्याख्याताः कारणादयः २ । 1 कारणं कार्यं विधियोंगो दुःखान्त इति । उपादानं निमित्तं च व्याख्यातं कारणं द्विधा । निमित्तकारणं रुद्रः, तत्कला' कारणान्तरम् ॥ 
-महान्तं महदादि ' कार्य ' मुदितं, तद्वत् ' विधि ' ' र्गीयते 
-1 PM ... अधिकाराय 
-करणास्यः 
-6 
-3 M2, M 3 – तत्काला 4 Me - तत्तद्विधि: 
-१५ 
-§ This Pancadhyayi is, in all probability, same as the Pasupatasūtra, referred to above. This work is in five chapters, dealing with the five charac- teristics of this cult, viz, Kārana, Kārya, Vidhi, Yoga and Duhkhānta, which also go by the name Pañcapadarthas or Pañcarthas. 
-1 Cf. Kaundinya's commentary on the Pāśupatasūtra : 1-i, p. 6 : 
-" एवं ग्वान्तं कार्य कारणं योगो विधिरिति पञ्चैव पदार्थाः समासत उद्दिष्टाः । " 
-Vide Indian Philosophy, Vol. I, p. 489 : 
-" The flve categories are : 
-1 Karana or Cause: The Cause is the Lord, the Pati, the Eternal ruler, who creates, maintains and destroys the whole existence. 
-2 Kānya or Effect: It is what is dependent on the cause. It includes knowledge or vidya, organs or kala and individual souls or paśu. All know- ledpe and existence, the five elements and the five qualities, the five senses and the five organs of actions and the three internal organs of intelligence, egoism and mind are dependent on the Lord. 
-Yoga or Discipline: It is the mental process by which the individual soul gains God. 
-Aidhi or Rules: It relates to the practices that make for righteousness. 
-5 Duḥkhänta or the end of misery: It is final deliverance or destruc- tion of misery and obtaining an elevation of spirit, with full powers of Know- Iedge and Action. " 
-For a more detailed explanation of these categories, see Lingadhāraṇa- conditha, pp. 351-57.१६ 
-भागमप्रामाण्ये 
-* गूढाचारमुख स्मशान+भसितस्नानावसानः परः । 'योगो' धारणमुच्यते हृदि धियामोङ्कारपूर्व, तथा 
-S' दुःखान्तो' हि मतो' ऽपवर्ग इति ते पञ्चापि संकीर्तिताः ॥ 
-। 
-आत्यन्तिकी' दुःखनिवृत्तिः 'दुःखान्त' शब्देनोक्ता । तामेव निश्शेषवैशेषिकात्मगुणोच्छेदलक्षणां मुक्तिं मन्यन्ते । इयमेव च' ईश्वरकल्पना शैवानामन्येषां च । 
-[ शैवादिमतानां श्रुतिविरुद्ध त्वनिरूपणम् ] 
-** 
-सेयं सर्वा श्रुतिविरुद्धा कल्पना', यतः जगन्निमित्तोपादानं परं ब्रह्म श्रुतौ श्रुतम् ॥ महानन्दात्मको मोक्षः तत्र तत्रासकृच्छ्रुतः परस्पर विरोधेन व्याहतैषां प्रमाणता || 
-8 
-त्रयीदण्ड प्रतिक्षेपं किञ्चिन्नैव प्रतीक्षते । किञ्च, शैवादयो वेदसिद्धवर्णाश्रमाद्बहिः || 
-कल्पयन्त्याश्रमादीनि ततोऽपि श्रुतिवाह्यता । 
-1 M2, Ma, B– 'अभिमत: 
-4 M 1 - श्रुति विरुद्धकल्पना 
-2 MB - आन्तिकी 
-5 Mg – परब्रह्म 
-3 
-M1, M2, Ma, Ms, M7, My, A, B M4 - परस्परम् 
-omit च 
-7 M2 adds a 
-4 Mo—नैवम् 
-* 2: 
-Cf. Pāśupatasūtra: IV. 2 : ' गूढवन: ; IV. 3: गूढपवित्रपाणि: '; IV. 4 : 'सर्वाणि द्वाराणि पिधाय '; IV. 5: 'बुध्चा' | 
-, 
-$ Ibid. V. 30 : ' स्मशानवासी' 
-↑ Ibid. I : 2, 3, 4: भस्मना त्रिषवणं स्लायीत', 'भस्मनि शयीत', 'अनुस्नानम्' । 
-८ 
-Ibid. V. 23, 24 & 25: 
-अतो योगः प्रवर्तते', 'ओङ्कारमभिध्यायीत', 'हृदि कुर्वीत धारणाम् '। 
-§ Ibid. V. 40: 
-'अप्रमादी गच्छेत् दुःखानामन्तं ईशप्रसादात् ' । 
-** This line is wanting in two syllables. Or, this may be taken as a prose 
-passage. 
-यवाऽऽहुः 
-*"" दीक्षाप्रवेशमात्रेण ब्राह्मणो भवति क्षणात् । कपालं व्रतमास्थाय यतिर्भवति मानवः" ॥ इति । 
-[ एतादृशावैदिकतन्त्राणां रुद्रप्रणीततया व्यामोहकत्वसमर्थनम् ] 
-न च वाच्यमप्रमाणभूतमि' यन्तं ग्रन्थराशिं कथं प्रत्ययित- तरो' रुद्रः प्रणयतीति । न च समाननाम 'निर्मातृस्मरणनिबन्ध- नमिति युक्तम्, अतिप्रसंगादिति । यतः - 
-1arमैवकृतभ्रान्तिकल्पनाऽप्युपपद्यते । वेदाधात् न चान्यत्र तावताऽतिप्रसज्यते ॥ 
-प्रमादोऽपि न चात्यन्तं रुद्रादिषु न सम्भवी । 
-यद्वा रुद्रस्य मोहशास्त्रप्रणेतृतयाऽवगतत्वात् व्यामोहयि- तुमपी "दृशशास्त्रप्रणयनमुपपद्यत इति, नावश्यं प्रमाद एवा- भवितव्यः । 
-तथा बाराहे 
-4 
-IM2-तम् 
-PM omits इति 
-'M, Tends 'न प्रमाणभूतं, for 'अप्रमाणभूतम् 
-• M. 
-"तगो 
-●A पणपति 
-● M, Omils नाम; M 4 reads असमाननाम 
-Ceremony. 
-To be identified. 
-7 Mg reads स्मरणबन्धनमिति; 
-B, reads स्मरणमनिबन्धनमिति 
-8 T, M1, Mg ―न सम्भवि 
-9 Mg adds वा 
-10P, PM - व्यामोहयितुमेव हि 
-11 Ma, Mg – प्रत्ययनम् 
-Every school of thought stresses the importance of its own diksd- 
-See Saivasiddhānta, p. 47. 
-1 See the verse “vāsudevābhidhānena 
-purvapaksa-vicw. 
-Cf. Tantraśuddha, p. 17 : 
-14 
-etc. on p. 52 above for the 
-यतः केनचिद्रवक्तिनेन क्षेत्रवेन महेश्वरसमाननाम्ना त्रयीमार्गबहिष्कृतेयं प्रक्रिया विरचिता । तनाम मामा कान्या महेश्वर नामको पदिष्टमार्गमवलम्बितवन्तः । " 
-" 
-१८ 
-1 
-भागमप्रामाण्ये 
-* " त्वं च रुद्र ! महाबाहो ! मोहशास्त्राणि कारय । 
-1 कुहकादीन्द्रजालानि विरुद्धाचरणानि च ॥ 
-S दर्शयित्वाऽल्पमायासं फलं शीघ्रं प्रदर्शय । 
-दर्शयित्वा जनं सर्व मोहयाऽऽशु महेश्वर ॥” इति । तथा तत्रैव भगवान् रुद्रः प्रस्तुत शैवाद्यागमानां स्वयमेव वेदबाह्यत्वं, वेदमार्गापभ्रष्ट' जनाधिकारित्वं, तद्व्यामोहक 'प्रयोजनतां च दर्शयति- 
-“ ये वेदमार्ग निर्मुक्तास्तेषां मोहार्थमेव च ॥ + नय' सिद्धान्तमार्गेण मया शास्त्रं प्रदर्शितम् ॥ 
-$ 
-10 
-11 
-तस्मादारभ्य कालात्तु मत्प्रणीतेषु सत्तमाः " | शास्त्रेष्वभिरतो लोको न वेदान् बहुमन्यते ॥ 
-* तथा पाशुपतादीनि प्रवर्तन्ते कलौ युगे || 
-1 
-तथा च भगवत्परिवारत्व व्यतिरेकेण स्वप्रधानपूजां पाशु- पतादितन्त्रसिद्धां वेदबाह्यां दर्शयति । 
-1P, PM, T,M3, M5, Ms, V1, & A 
-read f 
-2M 3 चरण! नि 
-3 M3, Mg - दीर्घम् 
-4 M 3 – अत्रैव 
-5M अपसृष्ट 
-० 
-6 My - तद्या मोहकै क 
-7M1, M2, My, B— प्रयोजनत्वम् 
-• M 3 – मोहत्वमेव 
-9 My – न च° 
-10 M2, My - मायाशास्त्रम् 
-11 M2, My - असत्तमाः 
-12 M2, My omit त्व 
-* Ch. 70, 1. 36b. 
-verse : 
-†To be traced out. 
-§ The ptd. text of the purăṇa has the following line in the place of this 
-। 
-“अल्पायानं दर्शयित्वा मोहयाशु महेश्वर । ” ( ch. 70, sl. 37a ) 
-The ptd. edn. has the following reading: 
-" नयसिद्धान्तसंज्ञाभिः मया शास्त्रं तु दर्शितम् । ” ( ch. 70, $1. 41b42a ) 
-$ Ch. 70. śl. 38b-39a. Variant for the second line: 
-" शास्त्रेपभिरतो लोके बाहुल्येन 
-भवेदतः । " 
-x Ibid sl. 43a. Variant : 
-" तदा पाशुपतं शास्त्रं जायते वेदसंज्ञितम् । " 
-* 
-सिद्धान्ते मतान्तरपरीक्षा 
-" 
-तद्वेदबाह्यं कर्मोक्तं मामुद्दिश्योपसेव्यते । तद्वै पाशुपतं नाम कनिष्ठं मोहनं नृणाम् || 1 मां विष्णुव्यतिरेकेण पूजयन्ति नराधमाः । 
-इत्यादिवाक्याजातानि न लिख्यन्तेऽतिगौरवात् ॥ व्यक्तं च वेदबाह्यत्वमेतच्छास्त्रानुगामिनाम् । 
-यथा' तत्रैव — 
-६" शशाप तान् जटा 'भस्मकपालव्रतधारिणः । भविष्यथ' त्रयीबाह्या वेदकर्मबहिष्कृताः ॥ * कलौ तद्रूपिणस्सर्वे जटालगुड धारिणः । 
-स्वच्छन्दवत 'वेषाश्च मिथ्यालिङ्ग धरास्तथा ॥ + ब्रह्मशापाग्निनिर्दग्धा रुद्रभक्ता जटाधराः । " इति । 
-प्रसिद्धं चैतत् शैवागमेषु'- 
-10 
-+ " रुद्राक्षं कङ्कणं " हस्ते जटा चैका च मस्तके | 
-कपालं भस्मना स्नानम् " -- इत्यादि । 
-। 
-९५ 
-तथा मैतेषामादित्यपुराणेऽपि भगवत्यागेन समं वेदत्यागं 
-कथयन्ति 12- 
-I 
-M 
-जालानि 
-1 M2. My तथा 
-• A, M. V, read तज्जा' 
-1 Mg - भविष्यत 
-7 B – लिङ्ग्य ° 
-8 M4 — चैव तत् 
-9 Mg - शिवागमेषु 
-10 My - रुद्राक्षत्र ङ्कणम् 
-AM, Ma, Ma, M, B - लकुट ; M1 - मकुट 11 M 4, B – एषाम् ° 
-• M. B. मत 
-O 
-• To be identified. 
-12 All but Mg कथयति 
-↑ Ch. 70. $1. 40b. Variant: " मां विष्णोः व्यतिरिक्तं ये ब्रह्मणश्च द्विजोत्तम । " The next line ( 4la ) of the purāna may also be noted : 
-नमः । 
-g 
-" भजन्ते पापकर्माणिस्ते यान्ति नरकं 
-Ch. 71. 51.40b-41a. Variant for the first line : "जटाभस्म मिथ्याव्रतधरितदा । " 
-$ Ch. 71. sl. 51. Variant: 
-" कलौ खद्रप्रिणस्सर्वे जटामुकुटधारिणः । 
-स्वेच्छया प्रेतवेषाश्च मिथ्यालिाधराः प्रभो ॥ 
-t Passages to be identified. 
-१०० 
-ततश्च'— 
-भागमप्रामाण्ये 
-+ " अन्ये भस्मजटोपेता यथोक्ता गौतमा पुरा । 
-शापात् संत्याजिता वेदं, 2 देवं नारायणं तथा ॥ " इति । किञ्चैते वासुदेवस्य मन्दा निन्दां वितन्वते । ते च पाषण्डिनो ज्ञेयाः, यथा लैङ्गे समीरितम् ॥ + " ये तु सामान्यभावेन मन्यन्ते पुरुषोत्तमम् । 
-ते वै पाषण्डिनो ज्ञेया वेदकर्मबहिष्कृताः ॥ " इति । 
-§ 
-। 
-एत एव च ते येषां वाङ्मात्रेणापि नार्चनम् । * " पाषण्डिनो विकर्मस्थान्" इत्यादिस्मृतिषूदितम् ' ॥ 
-या वेदबाह्या" इत्येतदपि चेहरागोचरम् । तस्मान्न वेदमूलत्वं नाऽपि प्रत्यक्षमूलता ॥ तन्त्रान्तराणां युक्तेति कल्प्यते कारणान्तरम् ॥ ननु मूलान्तरापेक्षा' यदि स्यादस्तु दूषणम् । स्वतः प्रमाणं विज्ञानं भवतां ननु दर्शने ॥ सत्यम् - - तदेव विज्ञान' प्रामाण्यमपनीयते । बाधकारणदोषाभ्यां तावपि द्वाविह स्फुटौ ॥ 2 ॥ 
-1 M4, B – यथोक्तगौतमात् 
-2 Mo–वेदान् 
-3 M1, M3 – ये 
-4 Mg omits ततश्च 
-SM 3 reads यातनम् 
-6A, M2, M 3 – ° दूषितम् 
-'M, B, read बान्तरापेक्षा for मूलान्तर रापेक्षा 
-+ Passages to be identified. 
-* Cf. Manusmrti IV-30 : 
-· 
-9 
-11 
-8 Mg—तवेदम् 
-• Mg – विज्ञाने 
-12 
-10 M 1 - उपनीयते ; M, - अपि नीयते 
-Mg - अपि हीयते 
-11 Mg, Mo - तवापि 
-12 Mg—स्फुटम् 
-'पाषण्डिनो विकर्मस्थान् बैडालव्रतिकान् शठान् । हैतुकान् बकवृत्तींश्च वाङ्मात्रेणापि नार्चयेत् ॥ 
-§ Ibid. XII-95 : 
-या वेदवाह्मास्स्मृतयो याश्व काश्च कुदृष्टयः । सर्वास्ता निष्फलाः प्रेत्य तमोनिष्ठा हि तारस्मृताः ॥ 
-· 
-सिद्धान्तः 
-एवं श्रुतिविरुद्धस्य स्फुटमूलान्तरस्य यत् । पञ्चरात्रेण साधर्म्य तन्त्रत्वेनाभिधित्सितम् ॥ क्रियात्वेन तु साधर्म्यं ब्रह्महत्याश्वमेधयोः । श्रुतिप्रत्यक्ष योस्तत्र यतो मूलत्वनिश्चयः ॥ ननु च श्रुतिमूलत्वे वेदादेवार्थसिद्धितः । तत्प्रणेतृस्वतन्त्रत्वकल्पना नेत्यचूचुदम् 2 || 
-नैवं न कल्प्यते पुंसि, स्वातन्त्र्यं श्रूयते हि तत् । * " तस्याध्यक्षमिदं सर्वम् ", " भीषास्मा' दि " दमादिषु ॥ 
-| पञ्चरात्रस्य वेदमूलत्वाभावत्त्रोपक्षेपः ] 
-5 
-ननु वेदमूला एव चेदेताः पञ्च रात्रस्मृतयः, किं तर्हि तदर्थस्मरणयत् तन्मूल भूत' वेदवाक्यस्मरणं नानुवर्तते पाञ्चरात्रि- फाणाम् ? न चार्थस्मरणस्य प्रयोजनवत्वात् तस्य च ' विफलत्वात् तदनादरणीयमिति युक्तम् । न हि यतः प्रामाण्यं तदेव विस्मर्तु युक्तम् । 
-1 
-* अथ 
-विस्मरणोपपत्तये प्रलीन नित्यानुमेय शाखा मूलता 
-M, M - क्रियास्ले ननु 
-JM, श्यचूचुदत् 
-1 M. B- भीषणात् 
-• Ma reads इति मारुष for इदमादिषु 
-1 
-• M, omits ननु 
-* M.. 
-पान" 
-To be traced out. 
-1 Taittiriya Aranyaka 
-7M2, M2, My— स्मरणवन्मूल 8 Mg – मूलहेतु ° 
-- 
-OP, PM, T, M1, Mg to M,, A, 
-B & V1, omit च 
-10 M2 omits वि 
-VIII. 8. 1a; also Taittiriyopanisat: 
-II. 8. 1a. 
-५ तस्य मूलभूत वेदवाक्यस्मरणस्येत्यर्थः । 
-· 
-वि यश्कृतं प्रामाण्यं तदेव विस्मर्तु युज्यते ।' 
-1 Cf. Tantravārtika under I. iii. 1, p. 73 : 
-X Cf. ibid: 1-iii-1, p. 73: 
-4 
-"यदि तु प्रलीनशाखा मूलता कप्येत ततरसर्वासां बुद्धादिस्मृतीनामपि तद्वारं प्रामाण्यं प्रसज्यते । यस्यव सतत् प्रलीनशाखामस्तके निक्षिप्य प्रमाणीकुर्यात् । अथ विद्यमानशाखागता एवैतेऽर्था:, तथापि बस पुरुषास्ता एवोपलप्स्यन्ते । युक्ततरा च स्वाध्यायाध्ययनविधेः साक्षाद्वेदादेव प्रतीतिरिति स्मृति- मणवनवे यस्मात् " । 
-१०२ 
-भागमप्रामाण्ये 
-5 
-आश्रीयते, तदा' यदेव येन प्रमाणतया परिगृहीतं स तत् प्रलीन- शाखामस्तके निक्षिप्य प्रमाणीकुर्यात् । नित्यानुमेय प्रलीन शाखयोस्तु स्वरूपसिद्धिरेव दुर्लभा । अथ विद्यमानशाखामूला एव+ ताः स्मृतयः तदा तत्प्रणेतृवदन्येऽपि तत एवोपलभेरन् इति ग्रन्थ- प्रणयन 'प्रयास' वैयर्थ्यम् । 
-[ पञ्चरात्रस्य वेदान्तसारभूतत्वकथनेन तस्य वैदिकत्वसमर्थनम् ] 
-अत्रोच्यते - स खलु भगवानमोघ सहजसंवेदनसाक्षाद्भव- दखिलवेदराशिः विप्रकीर्णविविधविध्यर्थवादमन्त्रात्मकानेकशाखाध्य- 
-10 
-गनधारणादिषु अधीरधियो" 
-भक्तानवलोक्य, 
-12 
-तदनुकम्पया 
-लघुनोपायेन तदर्थं संक्षिप्योपदिदेशेति न किञ्चिदनुपपन्नम् । 
-यथाऽऽहुः 
-* L 
-वेदान्तेषु यथासारं संगृह्य भगवान् हरिः । 
-भक्तानुकम्पया विद्वान् संचिक्षेप यथासुखम् ' ॥ इति । 
-13. 
-एते च मन्वादिसमस्त " स्मरण "साधारणाः 15 पर्यनुयोगाः तिन्त्रटीका कृत परिश्रमाणामनायासपरिहार्या इति नेह प्रपश्यते । 
-[पञ्चरात्रे वेदनिन्दादर्शनात् तदवैदिकमित्याक्षेपस्य खण्डनम् ] 
-16 
-+ ननु चेदं वेदमूलत्वं पञ्चरात्रतन्त्राणामनुपपन्नम् । वेद- 
-1 Mg reads यदा 
-2 M, omits : 
-M-प्रमाणम् 
-My omits and adds f 
-3 Mg omits ता:; M1. M2, M, & B 
-read ga:, for ga al: 
-6 My reads तदेतत् for तत् 
-7 My omits a 
-Ma 
-* 
-has प्रसाद for प्रयास 
-9 M2 adds इति 
-100M1, M2, M4, M,, My, B – शाखाध्ययनादिषु 11 Ma - अवधीरितधियः 
-12 Mg omits न 
-18 M2, M3, & My omit समस्त 
-14 M2 - संस्मरण ° 
-15 M 4, B – स्मरणसंसारणा: 
-M4, 
-16 Mg omits चेदम् 
-Mahābhārata, śāntiparvan, ch. 348. 61. 64. 
-†This is another name for Tantravārtika of Kumārila Bhaṭṭa. 
-+ See p. 17 above, for the purvapaksa-view. 
-सिद्धान्तः 
-१०३ 
-निन्दादर्शनात्। उक्तं हि' 'चतुर्षु वेदेषु पुरुषार्थ मलभमानः शाण्डिल्य इदं शास्त्रमधीतवान्' इति । । 
-[ निन्दाग्रन्थतात्पर्यविचारः ] 
-अनवगतवचनव्यक्तेरयं पर्यनुयोगः । । ' न हि निन्दा निन्यं निन्दितुं प्रवर्तते; अपि तु निन्दितादितरत् प्रशंसितुम्' । यथैतरे- 
-कब्राह्मणे +' प्रातः प्रातरनृतं ते वदन्ति", 
-ते वदन्ति" इत्यनुदित हो मनिन्दा 
-उदित होम' प्रशंसार्थेति गम्यते; यथा मानवे- 
-M, has for ; My omits fe PM reads निन्यात् 
-3 Mg - विवदन्ति 4 A - तरहोम ° 
-& Cf. Aniruddha Samhitā Ch. I : 
-" मृगुं वेदविदां श्रेष्ठमात्मध्यानपरायणम् ॥ (96) पावस्था मुनयस्सर्वे प्रणिपत्य जगद्गुरुम् | उचुरतं मुनयः सर्वे एतद्वाक्यमतन्द्रिताः ॥ ( 12 ) वेदास्सर्वे समासेन सांगोपांगारसविस्तराः । स्वत: कमलपत्राक्ष श्रुताः पूर्व दयापर | ( 13 ) 
-• 
-" 
-योमार्ग न पश्यामः, तद्वदस्व महामुने । ( 14a ) 
-Cf. Sribhasya under II-ii- 42, p. 831 : 
-यत्र केचिदुद्घोषः 'सांगेषु वेदेषु निष्ठामलभमान: शांडिल्यः पञ्चरात्रमधीतवानिति, सांगेषु तु पुरुषार्थनिष्ठा न लब्धेति वचनात् वेदविरुद्धं तत्रमिति, सोऽप्यनाम्रात वेदवचसामनाकलिततदुप बृंहणन्यायकन्यपाना भागाश्रविजृम्भितः । यथा ' प्रातः प्रातरनृतं ते वदन्ति पुरोदयात् जुह्वति येऽग्निहोत्रम्' इति, अनुदित हो मनिन्दा प्रशंसार्थेत्युक्तं यथा च भूमविद्याप्रक्रमे नारदेन ' ऋग्वेदं भगवोऽध्येमि यजुर्वेदं सामवेदमाथर्वणं चतुर्धमितिहा मपुराणं पञ्चमम्' इत्यारभ्य, सर्व विद्यास्थानमभिधाय, 'सोऽहं भगवो मत्रविदेवास्मि नात्मवित्' इति भूमविद्यायन- रिक्तासु सर्वासु विद्यास्वात्मवेदनाला भवचनं वक्ष्यमाणभूमविद्याप्रशंसार्थं कृतम्, अथवाऽस्य नारदस्य सांगेषु वेदेषु यत् परतयं प्रतिपाद्यते, तदलाभनिमित्तोऽयं वादः, एवमेव शाण्डिल्यस्येति पश्चात् वेदान्तवेद्य वासुदेवाख्यपरब्रह्मस्वाभि- मानादवगम्यते । तथा वेदार्थस्य दुर्ज्ञानतया सुखावबोधार्थ शास्त्रारम्भः परमसंहितायामुच्यते । 
-अधीता भगवन् ! वेदा: सांगोपांगाः सविस्तर । : । 
-श्रुतानि च मयांगानि वाकोवाक्ययुतानि च ॥ 
-न चैतेषु समस्तेषु संशयेन विना कचित् । 
-श्रेयोमार्ग प्रपश्यामि येन सिद्धिर्भविष्यति ॥ इति ।" [ I. 3, 4] 
-† Vide Sābarabhāsya under II- iv - 20, p. 139, lines 27 & 28. 
-+ Aitareya Brāhmana: V-31-6. 
-Cf. also Taittiriya Brāhmana II. 1. 27 : " यदनुदिते सूर्ये प्रातर्जुहुयात् उभयमेषात्रेय बुदिते सूर्ये प्रातर्जुहोति । " 
-* " ऋग्वेदो देवदैवत्यो' यजुर्वेदस्तु मानुषः । 
-सामवेदस्तु पित्र्यः स्यात्, तस्मात्तस्याशुचिर्ध्वनिः " ॥ इति सामवेदनिन्दा इतर वेद' प्रशंसार्था; यथा वा भारते ' 
-S " चत्वार एकतो वेदा: ', भारतं चैकमेकतः । समागतैस्सुरर्षिभिः' तुलयाऽऽरोपितं पुरा || महत्वे च गुरुत्वे च प्रियमाणं' यतोऽधिकम् । महत्वाच्च गुरुत्वाच्च महाभारतमुच्यते " ॥ 
-इति महाभारतप्रशंसार्थेति गृह्यते', न वेदनिन्देति; एवं पञ्चरात्रप्रशंसेति गम्यते । 
-‡ 
-अधानुदित होमादेरन्यत्र स्तुतिदर्शनात् । 
-अतत्परत्वं निन्दायाः, तथात्रापि भविष्यति ॥ वेदप्रशंसा बहुशः पञ्चरात्रेऽपि दृश्यते । 
-न हि तेभ्यः परं किञ्चित् वाङ्मयं कमलासन । वेदान्तैरिदमेवोक्तं तत्त्वज्ञानोपपादकैः ॥" इत्यादी । अपि च ' चतुर्षु वेदेष्विति नायमर्थः - ' वेदेषु" पुरुषार्थो नास्ती' ति; किन्तु 'यस्तेषु पुरुषार्थः, तमलभमानः' इति । 
-12 
-इति | 2 | 
-ननु ' पुरुषार्थमलभमान' इत्यन्वयः, न 'वेदेषु पुरुषार्थम् ' 
-1 M2, M3, Mg— देवदेवत्यो 
-2 M2 omits वेद 
-3 M2 & My read यथा वाराहे 
-4 A — भागाः 
-• P, PM - समागतैस्तु ऋषिभिः 
-• B – क्रियमाणम् 
-- 
-7 M1, M2, M2, M, My, B – भाव्यते 8 M3, Mg – इष्यते 
-9 M, omits this and the two preceding 
-lines but has them after न चान्यः कल्पः, 
-Manusmrti IV. 124. 
-5 Adiparvan I. 208-209. 
-t To be identified. 
-below. A, M3, M, V, have the following line instead : ' दृश्यते पंच- रात्रेऽपि बहुशो वेदप्रशंसा' ; M2, M, My & B, have the following line in addition : दृश्यते पञ्चरात्रेऽपि बहुशो वेदप्रशंसा' । 
-10 PM omits इति 
-11 Mg reads : अपि च चतुर्षु वेदेश्वयमर्थः वेदान्तेषु 12 PM - पुरुषार्थ इति 
-सिद्धान्तः 
-१०५ 
-मैवम् - व्यावर्त्याभावात्' । न हि वेदेष्वेवायं पुरुषार्थ न लभते । अतो वेदेषु यः पुरुषार्थः, तमलभमानः, तदभिलाषी पचरात्रशास्त्रमधीतवानिति पञ्चरात्रश्रुत्योः ऐकार्थ्यमेव प्रतीयते । 
-* 
-[ पाञ्चरात्रीयदीक्षा संस्कारविचार: ] 
-, 
-यत्पुनरुक्तम् — उपनयनादि संस्कृतानां भगवदाराधनार्थ- तया दीक्षा लक्षणसंस्कारविधानाद वैदिकत्वमिति, तदयुक्तम्' । न हि उपनयनादिसंस्कृतानां ज्योतिष्टोमादिकर्माङ्गतया दीक्षादिसंस्कार- विधायकं : 'अनावैष्णवम्' इत्यादिवाक्यम' वैदिकं भवति । अथ वैदिक "संस्कारात्" संस्कारान्तरविधानं हेतुः 13, त 14दनुपपन्नम् | सिद्ध हि पञ्चरात्रशास्त्रस्यावैदिकत्वे 5 तस्य संस्कारान्तरत्व " सिद्धिः; तमिद्धो न तस्यावैदिकत्व सिद्धिरित्यन्योन्याश्रयणात् । 
-15 
-12 
-किञ्च, समस्तवैदिक संस्कारेभ्यः संस्कारान्तरत्वं वा हेतुः, उत कतिपयेभ्यस्संस्कारेभ्यः ? न तावदनन्तरः कल्पः; उपनयनादि- संस्कारस्यापि चालादिसंस्कारात् संस्कारान्तरत्वेन अवैदिकत्व - 
-प्रसङ्गात् । 
-M- व्यावृश्यभावात् 
-JP, PM पार्थो न लभ्यते 
-- 
-T, A M, V, – पुरुषार्थो न लभते 
-1 
-My reads पुरुषार्थमलभमानः (no तम् ) 
-★ M, N My एकान्तयमेव 
-" My 
-नया" 
-"M & M., omit तथा 
-'M & 11, omit तदयुक्तम्; Mg adds इति 
-• Mदकम् (no वाक्यम् ) 
-9 Mg & Mg – वैदिकम् 
-10 B - अवैदिक° 
-11 M2 - ° विकारात् 
-12 Mg adds वा 
-13 PM - विधानहेतु: 
-14 M♭ has a gap from तदनुपपन्नम् upto वा 
-हेतु: below. 
-15 B – वैदिकत्वे ; M2 adds तु 
-- 
-16 Mg - संस्कारान्तर विधायकत्व 
-See 18 above, for the opponent's argument. 
-$ CA आनावैष्णवमेकादशकपालं पुरोडाशं निर्वपेद् दीक्षिष्यमाण:', quoted by Sabara 
-• 
-under XII. 1-25, p. 319. 
-Also cf. Aitareya Brāhmana. I. 1 : 
-· 
-समावेष्णवं पुरोडाशं निर्वपन्ति दीचणीयमेकादशकपालम् ' ।१०६ 
-, 
-भागमप्रामाण्ये 
-न चान्यः' कल्पः ?, उक्तदोषानतिवृत्तेः । नहि उपनयनं सम- स्तवैदिकसंस्कारेभ्यः' संस्कारान्तरम् । असिद्धश्च' समस्तवैदिक- संस्कारव्यतिरेकः, पञ्चरात्रशास्त्रस्यापि वैदिकत्वादित्युक्तमेव । 
-* 
-[ विद्यास्थानेष्वपरिगणन विचारः ] 
-यदपि धर्मप्रमाणत्वाभिमत चतुर्दशविद्यास्थानेषु अपरि- गणितत्वात् पाशुपतादितन्त्रवत् त्रयी' बाह्यत्वमिति, तदपि द्वैपायन- वाल्मीकि प्रणीत भारतरामायणादिग्रन्थैः अनैकान्तिकम्' । 
-[ बादरायणवचनविरोधाक्षेपनिरासः ] 
-§ यत्तु भगवता बादरायणेन निरस्तत्वादिति, तदसत् । कथं हि भगवान् द्वैपायनः सकललोकादर्शभूत परमभागवतो भागवतं शास्त्रं निरस्यतीत्युत्प्रेक्ष्येत", य एवमाह- 
-10 
-[ भारतान्तर्गतपञ्चरात्रप्रशंसा ] 
-* " इदं शतसहस्राद्धि 2 भारताख्यान विस्तरात् " । 
-आविध्य मतिमन्थानं दनो घृतमिवोद्धृतम् ॥ 
-नवनीतं यथा दो 14 द्विपदां ब्राह्मणो यथा । आरण्यकं च वेदेभ्य ओषधीभ्यो यथाऽमृतम् ॥” 
-1P, PM - न चान्त्यः 
-Mg, Mo, V1 & A - न चाप्यन्यः 2 Mg has the following : 
-अथानुदित होमादेरन्यत्र स्तुतिदर्शनात् । 
-अतत्परत्व 
-.... स्तथात्रापि भविष्यति ॥ वेदप्रशंसा बहुशः पञ्चरात्रेऽपि दृश्यते । दृश्यते पञ्चरात्रेऽपि बहुशो वेदप्रशंसा || 
-3T, M1, M2, Mg to M2, My, V1 & B 
-add a 
-4Mg & B repeat the following : 
-समस्त वैदिक संस्कारेभ्यः न संस्कारान्तरं असिद्धश्च । 5 M1, M2, M, M & B - धर्मप्रमाणाभिमत 
-* See p. 19 above, for pūrvapakşa. 8 Sec ibid. 
-+ Māhābhārata, sánti, 331. 2-3. 
-6 Mg & B omit अ 
-7 Mg – वेद 
-8 M 2 - अनेकान्तिकम् 
-9 Mo - सकललोकादर्शनभूत 
-10 My - भागवतशास्त्रम् 
-11M1, M2, M, B° उत्प्रेक्ष्यते ; Mg – ° उत्प्रेक्षेते 12 M 2 - शतसहस्राख्यम् 
-13 Mg reads भारताख्यानमुत्तमम् and adds another word विस्तर: in which case 
-the metre becomes defective. 
-14 M—दभा 
-सिद्धान्तः 
-1 " इदं महोपनिषदं चतुर्वेदसमन्वितम् । 
-सांख्ययोगकृतान्तेन पञ्चरात्रानुशब्दितम् ॥” 
-इदं श्रेय इदं ब्रह्म इदं हितमनुत्तमम् । ऋग्यजुस्सामभिर्जुष्टमथर्वाङ्गिरसैस्तथा ॥ " 
-† 166 
-* 
-" भविष्यति प्रमाणं वै एतदेवानुशासनम् ।" 
-भीष्मपर्वण्यपि ' 
-- 
-5 " ब्राह्मणैः क्षत्रियैर्वैश्यैः शूद्रैश्च कृतलक्षणैः । 
-X 
-3 
-१०७ 
-इति । 
-अर्चनीयश्च सेव्यश्च पूजनीयश्च माधवः ॥ सास्वतं विधिमास्थाय गीतस्सङ्कर्षणेन यः । द्वापरस्य युगस्यान्ते, आदौ कलियुगस्य च ॥” इति । 
-तथा शान्तिपर्वण्यपि - 
-अवश्यं वैष्णवो दीक्षां प्रविशेत् सर्वयत्नतः । दीक्षिताय विशेषेण प्रसीदेन्नान्यथा हरिः ॥ 
-1 M, omits this and the following two 
-Hines including the word fa 
-M. 
-nudeat, B omits afq 
-↑ Jhid. 326. 100. 
-3 M1, M, - मानवः 
-" 
-4 PM omits तथा and reads शान्तिपर्वणि 5 Mg – प्राविशेत् 
-दर्द पश्चरात्र महोपनिषदं -- मतीनामुपनिषदामर्थप्रतिपादकम् वेदार्थप्रतिपादकम्, सांख्ययोगसिद्धान्त- 
-शहित सत्यर्थः । 
-1 Ibid. ( Gorakhpur edn ) 322. 33a, 41b. 
-" 
-ऋग्मिः, सामभि:, अथर्वण, अङ्गिरसा च दृष्टा ये मन्त्राः तैरपि जुष्टं सहितमिति भावः । 
-Thid. ( Critical edn ) 322.41a. 
-Ibid. 62.38-39. 
-One of the chief characteristics of the Pañcaratra-religion is its liberal catholicity. It offers hope of salvation to all, without the distinctions of caste 
-and nex. 
-$ 
-X 
-★ 
-कृतलक्षणैः कृतदीक्षैरित्यर्थः । 
-Cf. Isvarasamhitā I. 10 for a similar statement. 
-To be identified. 
-As all schools of Saivism, Vaisnavism too insists upon the performance 
-of Dik sd-ceremony. 
-See Süttvata Samhitā II. 11b-12a : 
-kurmavānmanasaissamyag bhaktānāṁ parameśvara || 
-!•a 
-आगमप्रामाण्ये 
-+ " वसन्ते दीक्षयेद्विप्रं ग्रीष्मे राजन्यमेव च । 
-शरदस्समये वैश्यं हेमन्ते' शूद्रमेव च ॥ 
-1 M, omits making the metre defective 2 M2- 
-caturṇāmadhikāro vai prapte dikṣākrame sati 
-This Dikṣa is threefold, yielding different results to the followers. 
-Cf. ibid. XIX. 4: 
-kaivalyaphaladāpyekā bhogaikaphaladā parā 
-bhogadaiva tṛtiyā ca prabuddhānāṁ sadaiva hi || 
-Ch. XIX of this agama deals with Dikṣa in detail. 
-Also see Parama Samhitä XXXI. 53: 
-tisro dīkṣaḥ kṛtā yena vaiṣṇavena tapasvinā | sa eva vaiṣṇavaṁ jñānamakhilam śrotumarhati || Ibid. XXVII. 41b: 
-evaṁ dikṣāṁ tridha bhinnām uttarottarabhūyasīṁ | Also cf. ibid. VIII. 3: 
-sā tu bhaktivaśāt nṛṇāṁ trişu karmasu niṣṭhitā | 
-prathamaṁ samaye paścāt tantrajñāne tato' rcane 11 
-The Dikṣā-ceremony is dealt with in ch. VIII of this Samhita, in detail. 
-The purpose of Initiation is given in VIII. 1-2: 
-ata ūrdhvaṁ pravakṣyāmi dīkṣāyā lakṣaṇam param yāmavāpya viśuddhātmā vaiṣṇavaḥ siddhimṛcchati apratiṣṭhasya manasaḥ śreyomārgamavindataḥ | upayaṁ bandhanasyāhur dīkṣāṁ dikṣāviśāradāḥ || Also cf. ibid. śl. 6b-7a : 
-yastu tivraḥ prayuñjita dīkṣāṁ bhaktisamanvitaḥ || 
-tasya devaprasadena sakalaṁ siddhyatipsitam | 
-The three types of Dikşă called Samaya, Tantra and Arcana, are defined and explained in ch. VIII. śls. 7b-11a. 
-Also, cf. ibid. III. 29b-30a : 
-brāhmaṇāḥ kṣatriyā vaiśyāśśūdrā yoṣita eva ca 11 
-bhaktiyuktāḥ svabhāvena kuryād devasya pūjanam | 
-It is said that one who undertakes Dikşa is better qualified than one with- out it. Cf. ibid. III. 39: 
-dvividhaḥ puruşo brahman dikşito' dikṣitastathā! 
-dikşitassakalaṁ kuryat ekadeśamadikṣitaḥ 11 
-Cf. also Aniruddha Samhità ch. IV and Visnu Samhita ch. X for different treatments of Dikşă. 
-To be traced out. 
-तथा- 
-- 
-सिद्धान्ते जीवोत्पत्यादिविचारः 
-स्त्रियं च वर्षाकाले तु पञ्चरात्रविधानतः । " 
-+ " वेदैश्चतुर्भिस्सहितं कृतं मेरी महागिरी । 
-एवमादिवचोभङ्गीशतैस्सादरमीरितैः ॥ 
-+ वेदान्तसारसर्वस्वमात्मीयं परमं मतम् । 
-पञ्चरात्रं निराकुर्यात् कथं द्वैपायनस्वयम् ? 
-[ उत्पस्यसम्भवाधिकरणतत्त्वविचारः ] 
-" 
-कथं तहीं 'दं सूत्रम् - ६' उत्पत्यसम्भवात्' इति ? किं पारम्य सूत्रस्य हृदयम् ? 
-- 
-इदमस्य सूत्रस्य – भागवतशास्त्रे' जीवोत्पत्तेः प्रतिपाच- मानत्वात् तस्याश्च श्रुतिन्यायविरोधेनासम्भवात् असमीचीनं शास्त्रमिति । 
-गं सूत्रार्थः, तर्हि पञ्चरात्रशास्त्र' निराकरणपरमिदं सूत्रम्" | न हि रात्रशास्त्रषु जीवोत्पत्तिरंगीकृता, येनैवमुच्यते । 
-' M. Mr. V1, A & B - - वर्षकाले 
-M, 
-4: 
-1 ' P. PM, T - समितम् : A, V, & M 
-M - संहितम् 
-4 
-• Mg " आत्मीयं च परम् 
-'पायनद्वयम् 
-• M4 & B, omit तर्हि 
-1 Mahābhārata, sānti, 322. 28b : 
-7 
-M1, M2, M4, M2, My Bशास्त्रेषु 
-Mg & Mo - शास्त्रैः 
-8M1, M2, M, M2, My, B, omit शास्त्र 9 P, PM, T, M2, M3, M8, Mg, V & 
-A, omit इदम् 
-10 Mg — स्मृतम् 
-3 
-Yamuna holds Vyāsa, the author of the Mahābhārata to be one with Hadarayana, the author of the Brahmasutra. 
-5 Brahmasutra II. ii. -39. 
-4 
-The 'purvapakşa' arguments advanced here are those made by San- See his commentary on the four sutras comprising the Utpattyasam- bhuva' or the ' Pañcarūtra ' section: Brahmasūtra II. ii. 42-45. 
-kuta. 
-" 
-$ ' इत्यम्' इति शेषः । 
-१५० 
-भागमप्रामाण्ये 
-+ नन्वस्तीदं वचनं - 'वासुदेव: परमा' प्रकृतिः 2 परमात्मा; ततस्संकर्षणो नाम जीवो जायते; संकर्षणात् प्रद्युम्नसंज्ञं मनो जायते ; ततो ऽनिरुद्धनामा ' अहंकारो जायत' इति । 
-सत्यमस्ति - 
-* 
-नानेन वचनेनेह जीवजन्माऽभिधीयते' । 
-अपि तु व्यूहरूपेण व्यक्तिर्देवस्य कीर्त्यते ॥ तत्र संव्यवहारार्थं व्यूहभेदस्तु युज्यते' । वर्णानामानुलोम्येन पूज्य भेदप्रसिद्धये ॥ 
-I All but M – परा 
-2 Mg -- पराकृतिः 
-3 M2, M2, M2, My B–प्रधुम्नात् 
-4 A - अनिरुद्धो नाम 
-5 P & B omit this line and the words 
-+ Cf. Ahirbudhnya Samhitā V. 28a 
-* 
-6 
-6 
-• भगवान् वासुदेवस्त परमा प्रकृतिश्च सा । ' 
-सत्यमस्ति My reads नानेन वचनेनेह जीवं मत्वाऽभिधीयते 
-6P, PM, T, A, Ms, Mg & V1 read तत्र संव्यवहारार्थं जीवशब्द: प्रयुज्यते; Mg omits this and the preceding line. 
-: 
-Cf. Sankara under Brahmasutra II. ii. 42 : 
-यत्पुनरिदमुच्यते - वासुदेवाय संकर्षण उत्पयते, संकर्षणाच्च प्रद्युम्नः, प्रद्युम्नाच्च अनिरुद्ध इति । ' etc. Cf. Ahirbudhnya Samhitā, ch. V : 
-vyūhā ete viśālākṣāścatvāraḥ puruṣottamāḥ | 
-nirdosā niranistāśca niravadyassanātanah || [ 61.41] 
-anantamaksaram caitat cāturātmyari mahāmune | [ sl.42a ] 
-tatra sthūladaśāyāmi te vyaktibhāvamupāgatāh ॥ [ Sl.43b ] 
-" 
-+ संव्यवहारार्थ' विशेषप्रतिपादनार्थमिति भावः । 
-Cf. Ahirbudhnya Samhitā : V. 44 : 
-jagatāmupakārāya saccidānandalakṣaṇāḥ 1 
-manaālaṁbanāyaiṣā caturātmyavyavasthitiḥ || 
-This Samhita thus clarifies that the four-fold manifestation of the Supreme Lord Vasudeva, as Sankarṣaṇa, Pradyumna and Aniruddha is for the welfare of the creation, by facilitating mental concentration in different degrees for aspirants of different capacities. 
-This four-fold manifestation has got a purpose, says the Sattvata Samhitā, namely, facilitating the worship by the four castes, Brāhmana, Kşatriya, Vaiśya and Sūdra, respectively. 
-It is only the Brāhmaṇa that is entitled to worship all these four mani- festations of God, viz., Vasudeva, Sankarsana, Pradyumna and Aniruddha. For the remaining castes, however, only particular forms of God are ordained for worship For further details, see the Sättvata Samhitā ch. VII. 
-यथाssहु:- 
-fegirà stanzasenfqferenz: 
-111 
-"वर्णैश्चतुर्भिः चत्वारः पूजनीया यथाक्रमम् ।” इति । 
-Cf. the following passages from the Sattvata Samhitā: 
-abjantamarcanaṁ viṣṇor niṣkāmenāgrajanmanā | [ VII. 296 ] 
-cvam sankarṣaṇādyam tu vasudevantamarcanam vihitam ksatrajātervai kartavyatvena sarvada || 
-pradyumnadyam tu vaisyasya musalantamudahṛtaṁ 1 sacchūdrasyaniruddhadyam pradyumnantam sadaiva hi [30-31 ] sarvatradhikṛto vipro vasudevādipūjane 
-yatha tatha na kṣatrādyāḥ tasmācchâstrok tamācaret [55] 
-[176] 
-caturṇi brāhmaṇādīnāṁ svayamevānukampayā | caturatmyena rūpeṇa caturdha vyaktimeti ca it [XII.17] evathstvanugrahārthaṁ tu saktyātmā bhāvitātmanām | bibharti bahubhedottham rūpaṁ sadvahanasthitam 7. the following from the Parama Samhita 11. 99b-101: 
-sa tu devaścaturvyuho bhuvaneṣvadhitişthate || dhurmādiṣu parāṁ siddhimavāpya hitakāmyayā | Vasudevassmrto dharmo jñānam sankarṣaṇassmṛtaḥ || tatha vimuktaḥ pradyumnaḥ aniruddhassakaleśvaraḥ 
-tatra vyaktāssamastāśca catvārastu guņā ime || 
-The above passages from the Parama Samhita point out that the four forms of the Lord, viz., Vasudeva, Sankarṣaṇa, Pradyumna and Aniruddha are intended by the Lord to initiate the qualities of Dharma, Jñana, Vimukti and Avarya respectively, in the beings created. 
-The fact that the four manifestations of the Lord are designed by the Ford Himself to facilitate the worship by the four different castes is briefly set both by the Pauskara Samhita ( ch. 38. śl. 4a, 5a), which Rāmānuja quotes in his Sribhayya under II. ii. 41, p. 829: 
-kartavyatvena vai yatra căturatmyamupāsate 
-krumāgataiḥ svasaṁjñābhiḥ brāhmaṇairāgamam tu tati 
-C. also Visvaksena Samhitä XI. 146-147: 
-vasudevaḥ parā mūrtissthāpanīyā dvijottamaiḥ | dvitiya sthāpyate mürtiḥ kşatriyair mokşakankṣibhiḥ || 
-pradyumnākhyā tu viprendra vaiśyaissthāpya mumuksubhiḥ Sodraissamsthäpyate mürtiraniruddho jagadguruḥ || 
-• 
-To be identified. 
-१११ 
-भागमप्रामाण्ये 
-अपि च जीवमनोऽहङ्कारशब्दा न तन्मात्रवचनाः', अपि तु तत्तदधिष्ठानाधिकृत विलक्षणविग्रहवत्पुरुषाभिधाना इति । 
-विचित्रदेहसम्पत्तिः जन्मेति व्यपदिश्यते । 
-* ' तोयेन जीवान्' इत्येतत् यजुर्मूर्ध्नि यथा वचः ॥ 
-1 अपि च, जीवोत्पत्ति 'प्रलयादिगोचराः श्रुतिस्मृतिलोकवादाः S ' चराचरव्यपाश्रयस्तु स्यात् तद्यपदेशो ऽभाक्तः तद्भाव भावि- त्वात् ' इत्यत्रैव सूत्रकारेण कृतनिर्वाहाः । किञ्च, ' नात्मा श्रुतेः, नित्यत्वाच्च ताभ्यः' इत्यत्रैव ब्रह्मणो' जीवोत्पत्तिः श्रुतिस्मृतिन्यायवि- रोधेन निरस्ता सती न पुनरुपन्यासं प्रयोजयतीति अनधिकरणीय- मधिकरणमापद्येत । एतेन 1 न च कर्तुः करणम्' इति सूत्रं व्याख्या- तम् । न ह्यत्र कर्तुः सङ्कर्षणात् करणस्य मनस उत्पत्तिरुच्यते । उक्तं हि 12 ' विलक्षण पुरुषवचना एते 14 शब्दा' इति । 
-10 
-M1, M2, Ma, My, B – वाचकाः 
-2 M, omits fa 
-Ma 
-3 M 3 – विग्रहात् 
-4 M2 adds आदि 
-Mg & Mg omit तत 
-6 My - तस्याव्यपदेशो 
-13 
-Mg reads तद्व्यपदेशोक्तिः (no भाक्तः ) * 
-The Śrībhāsya reads only अभाक्तः 
-M, adds another 9 M1, M, - ब्रह्मणा 
-10 Momits न 
-11 Ma & B omit न 
-4 
-12 M, omits f 
-13 M 4, B - पुरुषवचा 
-14 M3, Mg add च 
-* Taittiriya Aranyaka X - i-1b; also Mahānārāyana I - 4b. 
-† Here Yamuna points out the discrepancy in Sankara's division of the Brahmasutra into Adhikaraņas. According to Sankara, the aphorism "cara- caravyapāśrayastu " etc., forms another topic ( adhikarana). He argues that the origination of the jiva is not of primary significance. But according to Yamuna, this point has already been clarified by the sutra: "nātmā śruteḥ ", etc., so much so that the sutra "caracara" etc., becomes redundant and thus becomes "anadhikaraṇīya", that is to say that it does not deserve treatment as a separate 
-topic. 
-& Brahmasūtra II. iii. 17. 
-tIbid. II. iii. 18. 
-Ibid. II. ii 40. 
-जिवोत्पत्यादिविचारः 
-2 
-१ 
-+ किमिति वा कर्तुः करणं' नोत्पद्यते ? देवदत्तादेः कर्तुः, परशुप्रभृतिकरणोत्पत्यदर्शनादिति चेत्, हन्त हतस्तर्हि अपगत- सकलकरणकलापस्वमहिमप्रतिष्ठब्रह्मणः प्राणमनः प्रभृतिनिखिलकर- गोरपश्यभ्युपगमः +- $ 'एतस्माज्जायते प्राणो मनः सर्वेन्द्रियाणि 
-' इति । 
-H 
-अथ श्रुतिप्रसिद्धत्वात् तत्' तथैवाभ्युपेयते । पञ्चरात्रप्रसिद्धत्वादिदं किं नाभ्युपैषि' भोः ? न हि स्मृति प्रसिद्धार्थ परित्यागोऽतिशोभनः । निर्दोषज्ञानजन्मत्वात्' प्रामाण्यं हि समं द्वयोः ॥ 5 यत्तु चत्वार एते किं समानैश्वर्य भागिनः । 
-स्वतन्त्रा: 12 ? किमुतैकस्य स्वेच्छामूर्तिचतुष्टयी ? 
-B, adds इति वा कर्तुः करणम् 
-My - देवतात् 
-M2 omits मन: 
-4 Mg – अभ्युपपन्न: 
-5 Mg omits एतस्मात् 
-• B omits तत्, making the metre defec- 
-tive 
-7T, M2, Mg, Mo. M2, My, V1, 
-4 
-B—नाभ्युपेषि 
-13 
-M, has only one line instead of this and the preceding line: 
-' अथ श्रु 
-9 M2 - श्रुति 
-इदं किं नाभ्युपैषिभो ' 
-10 Mg, Mg - प्रसिद्धत्वात् 
-11 B - जन्यत्वात् 
-12 M1, M2, M,, My, B, omit this word, 
-rendering the metre defective. 
-13 M – चतुष्टयम् 
-† Cf. Saikara on IIii-43: “नच कर्तुः करणम् । इतरच असङ्गतैषा कल्पना, यस्मान fr लोके कर्तुः देवदत्तादेः करणं परश्वाद्युत्पद्यमानं दृश्यते । वर्णयन्ति च भागवताः 'कर्तुर्जीवात् सङ्कर्षणसंज्ञकात करणं मनः प्रधुम्नसंज्ञकमुत्पद्यते; कर्तृजाच्च तस्मादनिरुद्धसंज्ञकोऽहङ्कार उत्पद्यते इति । । न चैतत् दृष्टान्तमन्तरेण 
-व्यवसातुं शक्नुमः । नवभूतां श्रुतिमुपलभामहे । 
-$ Mundakopanisat II-1-3. 
-* 
-"" 
-• 
-Yamuna here pleads for the validity of the Pañcaralragamas on the ground that they, like the Vedas, are based upon knowledge that is free from all defects. Cf. the inferential statement made by Yamuna above: 
-१५ 
-vivādādhyāsitam tantram pramāṇamiti gṛhyatām | nirdoṣajñānajanmatvāt jyotiṣṭomādivākyavat 
-$ Cf. Sankara on II. ii. 44. 
-" अत्रोच्यते - एवमपि तदप्रतिषेधः, उत्पश्यसंभवस्थाप्रतिषेधः यदि तावदयमभिप्रायः - परस्पर भिना वासुदेवादयश्वत्वारश्वरास्तुल्यो नेपामेकात्मकस्वमस्तीति तनोऽने के श्वर कल्पनानर्थक्यम् एकेनैश्वरेण 
-११४ 
-इति विकल्प्य -- 
-आगमप्रामाण्ये 
-समानैश्वर्यभागित्वे तुल्यत्वात् नैव कार्यता । 
-एकस्य मूर्तिभेदश्चेत् किं भेदेन प्रयोजनम् ? 
-इति दूषयतीति व्याख्यातं " विज्ञानादिभावे वा तदप्रतिषेध' इति, तदयुक्तम्- असम्भावनीयत्वात् विकल्पस्य । न हि केनचिदीश्व- रवादिनाऽनेकेश्वरं जगदभ्युपगतम् ; विशेषनश्च पाञ्च' रात्रिकैः, *वासु- देव एकः परा प्रकृतिरि' ति वदद्भिः । ६ किन्तु स एव भगवान् लीला' विरचितचतुर्भेदः सकलमपि जगत् संरक्षतीति । 
-B-पच 
-2 P & PM add एव 
-3 M2 & My add एव 
-4 Mg - पराकृतिरिति 
-5 M4 adds another स एव 6 Mg भगवल्लीला 
-ईश्वरकार्यसिद्धेः । सिद्धान्तद्दानिश्व – भगवानेवैको वासुदेव: परमार्थतत्त्वमित्यभ्युपगमात् । अथायमभिप्रायः - एकस्यैव भगवत एते चत्वारो व्यूहास्तुल्यधर्माण इति, तथापि तदवस्थ एव उत्पत्त्यसम्भवः । न हि वासुदेवात् सङ्कर्षणस्योत्पत्ति- स्संभवति; संकर्षणाश्च प्रद्युम्नस्य; प्रद्युम्नाच्चानिरुद्धस्य; अतिशयाभावात् । भवितव्यं हि कार्यकारणयोरतिशयेन, यथा मृदूघटयो: । न हि असत्यतिशये कार्य कारणमित्यवकल्पते; न च पञ्जरात्रसिद्धान्तिमिः वासुदेवादिष्वेकस्मिन् सर्वेषु वा ज्ञानैश्वर्यादितारतम्यकुतः कश्चिद्भेदोऽभ्युपगम्यते । वासुदेवा एव हि सर्वे व्यूहा निर्विशेषा वध्यन्ते । न चैते भगवम्बूहाः चतुरसंख्यायामेव अवतिरन् ब्रह्मादिस्तम्बपर्यन्तस्य समस्तस्यैव जगतो भगवत्वावगमात् । 
-+ Brahmasūtra-II-ii-41. 
-* Cf. Ahirbudhnya Samhita V-28a : 
-'भगवान् वासुदेवः स परमा प्रकृतिश्च सा ।' 
-$ Cf. ibid. śls. 21b-24: 
-" तत्र ज्ञानमयत्वेन देवस्संकर्षणो बली ॥ व्यनवस्यैकान्तिकं मार्ग भगवत्प्राप्तिसाधनम् । वीर्यैश्वर्यमयो देवः प्रद्युम्नः पुरुषोत्तमः ॥ स्थितः शास्त्रार्थभावेन भगवत्प्राप्तिवर्त्मना । शास्त्रार्थस्य फलं यत्तत् भगवत्प्राप्तिलक्षणम् ॥ 
-प्रापयत्यनिरुद्धरसन् साधकान् पुरुषोत्तमः । शास्त्रशास्त्रार्थं तत्साध्यफल निर्वाहका इमे ॥ 
-"" 
-Cf. Philosophy of Visistādvaita, p. 156: 
-99 
-"Vasudeva, the perfect self, manifests Himself in the interests of the meditational needs of the devotee, as Sankarṣaṇa with the two qualities of jñāna and bala, as Pradyumna with the qualities of aiśvarya and virya, and as Aniruddha with Sakti and Tejas without any diminution of Divinity ". 
-भद्वैतिम्पाक्या निरासः 
-११५ 
-न वेदमनुपपन्नम् ' । बलभरतावरजा प्रजादि' प्रादुर्भाववदु- पपत्तेः । * यथैव हि भगवतः स्वलीला विरचितगगन पवन हर विरिञ्श्चा- दि प्रपञ्चस्याचिन्त्यमहिमलीलैकरस' प्रयोजनस्य रामलक्ष्मण भरत- शत्रुप्राविखच्छन्दविग्रहा न विरोत्स्यन्ते, एवं संकर्षणप्रद्युम्नादिभेदा इति । 
-12 
-यत्परं " विप्रतिषेधात् ' इति 'चतुर्षु वेदेष्विति श्रुति- विप्रतिषेधात् " तत्राणां 2, परस्परविप्रतिषेधाद्वा अप्रमाणमिति ; न" श्रुतिविप्रतिषेधस्तु प्रागेव प्रत्युक्तः । परस्परविप्रतिषेधस्तु 
-प्रधान गुणसामान्य विशेषादिन्याय सम्पादितवचन "व्यक्तीनां । 
-M, पपन्नम् 
-• 
-●|| mis 
-A M, "जाति" 
-1M1. M2, M4. M2, My, B उपपन्नस्वात 
-Bomits 444 fr 
-• " "वादि 
-7P, PM, T, Ms. Mo. Ma. M, V,1,A 
-omit er 
-• | 
-●A 
-"10:11 
-तुति 
-• 
-14 
-10 M2 omits fa 
-11 Mg – विप्रतिषेधाः 
-12 Mg omits श्रुतिविप्रतिषेधात् तन्त्राणाम् 13 Mg omits वि 
-14 Ma - ° विप्रतिषेधात् वादप्रमाणमिति 15_ M 1 – तन्त्र° 
-16 A, My, V1 – omit बि 
-17 M 1, M, प्राधान्य 
-CJ. Sttoota Samithitā IV. 33-34 : 
-18 M2 omits न्याय 
-19 M, omits वचन 
-विरस्थः सविता वेक एव महामते । जलाश्रयाणि चाश्रित्य बहुत्वं संप्रदर्शयेत् । 
-एवमेकोऽपि भगवान् नानामन्त्राश्रयेषु च । तुर्यादिपदसंस्थेषु बहुत्वमुपयाति च ॥ " 
-The cause behind the manifestation of the Lord into different forms is His mere sport ( krīḍā or lilā) and the purpose of this manifestation is protect- lon for the good. Cf. Ahirbudhnya Samhitā ch. 36 Śls. 64, 65. 
-" प्रतित्रेतायुगं देवः साधुत्राणकृते इरिः । रामलक्ष्मणशत्रुनभरताद्यात्मना स्वयम् ॥ 
-सुवस्थितः तद्वत् चक्रात्मा हरिरेव हि । गुणप्रधानभावस्तु रामादेरिव युज्यते ॥ 
-+ Brahmasutra : Il-ii-42. The reading found in the Sribhāsya and San katabhāsya is : 'विप्रतिषेधाच्च But Yamuna, throughout has it as 'विप्रतिषेधात् '. 
-(y Sankara on II - ii - 45: विप्रतिषेधाच्च '. 
-< 
-" विप्रतिषेधश्चास्मिन् शास्त्रे बहुविध उपलभ्यते गुणगुणिश्वकरूपनादिलक्षणः । 'ज्ञानेश्वर्यबलवीर्य ते जास गुणमात्मान एवं भगवन्तो वासुदेवा' इत्यादिदर्शनात् । वेदविप्रतिषेधश्च भवति - चतुर्षु वेदेषु परं श्रेयो 
-यं शास्त्रमधिगतवान्' इत्यादिवेद निन्दादर्शनात् । 
-"9 
-5 ' प्रधानगुणन्याय: ' = अङ्गाङ्गिभावः; 'सामान्य विशेषन्याय: ' = छागपशुन्यायः । 
-1 
-= 
-म वनव्यक्तीनां वचनान्वयक्रमाणाम् ।११६ 
-आगमप्रामाण्ये 
-तत्राणां नास्त्येव । न्यायानुग्रहरहितानां तु वत्रसां न कचिदपि परिनिश्चायकत्वम् । यथाऽऽह- 
-+ 'न्याय सम्पादितव्यक्ति पश्चाद्वाक्यार्थबोधकम्" इति । तस्मात् सूत्रकारेण 8' इदं महोपनिषदम्' इत्यादिवचनैः, वेदेभ्यो ऽविशेषेण ॥ अभिमततरप्रामाण्येषु पञ्चरात्रतत्रेषु अविद्य- मानजीवोत्पत्तिप्रतिपादनाध्यारोपेण तन्निराकरणपरतया सूत्रं व्या- ख्यायमानं व्याख्यातॄणामेवाख्यातिं ख्यापयतीत्यलं प्रबन्धेन । 
-[ सूत्रसङ्गतिप्रतिपादनम् ] 
-तत्रैष' सूत्रार्थः । पूर्वं स्वाभिप्रेत समयपरिपन्थि 'कपिलकाश्य- पसुगतजिनपशुपतिमतानां श्रुतिन्यायविरोधात् असामञ्जस्यं प्रति- पायाधुना स्वाभिप्रेतपञ्चरात्रतन्त्राणामपि इतरसमयसमानपरिगण- नात्' बुद्धौ सन्निहितानामि* तर समयवद" सामञ्जस्यमाशंक्य प्रामाण्यं व्युित्पाद्यते" । 
-1M 2, My - वचनानाम् 2M, adds वचन 
-- 
-3 Mg – 'बोधनम् 
-4 M 2 – वेद्येभ्यः 
-[ सूत्रार्थविवरणम् ] 
-s We split here as अविशेषेण; no printed text does so. Our reading is in con- formity with Yāmun's statements, 
-that Pancarātra is equal in autho- rity to the Vedas. 
-6 M4 -- तत्रैव 
-B—स्वात्त° 
-8M1, M, A, B – परेबन्धि ; Mg adds क 9 M 3 repeats श्रुतिन्यायविरोधादसामञ्जस्यम् 10 Mg - इतर समयवाद' 
-11 M—उत्पाद्यते 
-f The source is yet to be identified. This verse, however, is quoted in full by Sudarśani, in his commentary on the Sribhāsya, I-i-1; pp. 168-169 : 
-" पदजातं श्रुतं सर्वं स्मारितानन्वितार्धकम् । 
-न्यायसम्पादितव्यक्ति पश्चाद्वाक्यार्थबोधकम् || " 
-Vedantadeśika too quotes this in his Nyayapariśuddhi, p.151. 
-8 Mahābhārata, Sänti, ch. 326.100. 
-T 
-' अविशेषेण' समानतया इत्यर्ध: । 
-तन्त्रत्व सामान्येन सन्निहितानामिति भावः । 
-+ व्युत्पाद्यते = स्थाप्यते । 
-भद्वैतियाख्यानिरासः 
-- 
-110 
-तत्रान' सूत्रद्वयेन पूर्वपक्ष उपक्षिष्यते । तथा हि--पक्ष- रात्रशास्त्रमप्रमाणम् ; उत्पत्त्यसम्भवात् प्रतिपाद्यमानायाः मङ्क- र्षणात्पत्तेरसम्भवात् । कथमसम्भवः + ? उभयथाऽप्यनुपपत्तेः " | तथा हि- 
-किन्नु' चत्वार एवैते समानैश्वर्य भागिनः ? 
-एको वा स्यात् चतुर्भेदे ? द्वेधाऽप्युत्पत्त्यसम्भवः " ॥ समानैश्वर्यभागित्वे तुल्यत्वात् नैव सृज्यता' । एकात्मत्वेऽभ्युपेतेऽपि तथोत्पत्तेरसम्भवः || 
-as "सृज्यविभागो हि नैकस्मिन्नवकल्पते । 
-* 
-12 
-तथा ' न च कर्तुः करणम्' । इतश्चाप्रमाणम् । कर्तुस्मङ्क- पंणसंज्ञात् "जीवात् करणस्य प्रद्युम्नसंज्ञस्य मनस उत्पत्त्यसम्भवात् । न हि देवदत्तात् परशुरुत्पद्यत इति । 
-* [ 
-'न च कर्तुः करणम् 
-149 
-| कर्तुः सङ्कर्षणात् न $ ' एतस्मा- 
-1 एवं वा-- करणमुत्पयते । ब्रह्मण एव समस्तकरणोत्पत्तिश्रुतेः आपने प्राणो मनस्सर्वेन्द्रियाणि च' इति । 
-● ॥ - वाद्येन 
-● | omits सूत्रद्वयेन 
-IM, omits this line in full. 
-4 Mg, My - कथं सम्भवः 
-1 
-' | – उपपत्तेः 
-" 'M - किन्तु 
-- 
-M, to M, Mo. M, & B – चतुर्भेद: 
-• P. PM - द्वेधा व्युपत्त्यसम्भवः 
-"P, PM, T, A, V1, M3, Ms - सृज्यते 
-10PM, M, Me—सृष्ट° 
-- 
-11 M2 - लोकेऽस्मिन्नव कल्प्यते; Mg - नैकरिंमशेव 
-कल्प्यते; M4, B— नैकस्मिन्नाव कल्पते; Mg - मे- Sस्मिन्नव कल्पते 
-12 My omits 
-13 M2, M2, M4, M, & B omit from 
-जीवात् upto संज्ञस्य 
-14 P & PM add इश्त्र 
-§ According to Sankara, all the four aphorisms of the utpattyasambhava section | 11-ii-42-45] put forth the refutation of the Pañcarātra. 
-Brahmasūtra 11. ii. 40. 
-t Cf. Sribhāsya under II. ii. 40, where almost the same words are used. $ Mundakopanisad II. 1. 3. 
-११८ 
-* 
-आगमप्रामाण्ये 
-'विज्ञानादिभावे वा तदप्रतिषेध' इति । ' वा 'शब्दात् पक्षो विपरिवर्तते । यदुक्तम् — ' उभयथाऽपि सङ्कर्षणाद्युत्पत्तेरस - म्भवादप्रामाण्यमिति, ' नैतदस्ति' । तस्याः सङ्कर्षणाद्युत्पत्तेरप्रतिषेधः । यदि हि विज्ञानादय' एते न भवेयुः स्यादुत्पत्ति' प्रतिषेधः । विज्ञानं चादि चेति' ' विज्ञानादि' ब्रह्म । तद्भावे ब्रह्मभावे' 
-| 
-ब्रह्मभावे' उत्पत्तेर- प्रतिषेधः । 
-8 एतदुक्तं भवति - + एकस्यैव परमात्मनो वासुदेवस्यापरि- च्छिन्नशक्तेः स्वमायावेश्वशात् कार्य कारणभावोपपत्तिरिति । 
-1M, 
-3 
-असंभव: प्रामाण्यमपि नैवास्ति 
-2 Mg - विज्ञादयः 
-3 Mo–स्यादुत्पत्तिः 
-4 M1 M2, M4, M, M2, My, B – विज्ञानं च 
-तदादि चेनि 
-5 M2 omits ब्रह्मभावे 
-6 My adds onother कार्य 
-* 
-Cf. Sribhāsya under IIii. 41 : 
-46 
-vijñānādibhāve va tadapratişedhaḥ, 
-" 
-where again the same words are used. 
-i ' एते' सङ्कर्षणादयः । 
-$ चत्वार ईश्वरा इति पक्षः परित्यक्तः । तदेकत्वपक्षः समादृतः । एक एव भगवान् सर्वेश्वरः स्वलीलया 
-जगदवनाथ चतुर्घाऽवतरतीति सिद्धान्तः । 
-+ Vide Ahirbudhnya Samhità Ch. V : 
-" पुरुषाः पुण्डरीकाक्षा व्यूहाः शक्तिमया हरेः । 
-" सर्वशक्तिमयो देवो वासुदेवः सिसृक्षया ॥ 
-[25a ] 
-विभजत्यात्मनाऽऽत्मानं यस्स सङ्कर्षणस्स्मृतः । " [ 29b-30a ] 
-66 
-'अनन्त एव भगवान् वासुदेवरसनातनः । 
-तत्र ज्ञानबलोन्मेषात् स्वसंकल्पप्रचोदितात् ॥ 
-अनन्त एव भगवान् देवस्संकर्षणोऽच्युतः । " [ 34-35a ] 
-" अनन्त एव भगवान् प्रद्युम्नः पुरुषोत्तमः ।" [36a ] 
-अनन्त एव भगवाननिरुद्धो भवत्युत ॥ " [38b ] 
-The words " ananta eva bhagavān " occuring in 34a, 35a, 36a & 38b quot- ed above, stress the point thatt he Lord is One and only One and that He assumes different forms, without any diminution of His powers and perfections in this process. Therefore, the question raised by Sankara regarding the plurality of 
-God is unwarranted. 
-$ This Māyā is the Sakti or the Power of the Lord, termed also Jñāna, Vidya, Sankalpa and so on. 
-सिद्धान्तः 
-११९ 
-यत्तु 'न सङ्कर्षणान्मन उत्पद्यते ब्रह्मण एव उत्पत्तिश्रुतेः । इति, तदपि तस्य विज्ञानादित्वेन परिहृतम् । 
-* अपि च, 'न च कर्तुः करणम्' इति किमुक्तं भवति ? किं यस्याः क्रियाया यत् करणं, तत्' तत्क्रियाकर्तुर्नोत्पद्यते ' ? 'उत यत यत्रापि करणं, तत्' कुतश्चिदपि कर्तुः नोत्पद्यत इति वा? 
-7 
-तम्रा कल्पे सिद्धसाधनतयाऽनुमानस्य विप्रतिषेधः । न ' संकर्षणात् कर्तुः उत्पद्यमानं मनः 10 स्वोत्पादने करणम, फर्मस्थान | नाऽपि स्वोत्पत्तौ कर्तृत्वात् । 
-। 
-अपरेऽपि कल्पे प्रत्यक्षविप्रतिषेधः । उदकाहरणादी" करण- भूतानामपि घटादीनां कर्तुः कुलालादेरुत्पत्तिदर्शनात् । तदिदमाह 
-| 'विप्रतिषेधात्' इति । 
-1 M4 
-मति: 
-1 
-1 
-M, M, 
-" 
-यद्वा-सूत्रद्वयस्यास्य व्याख्यानान्तर मुच्यते । 
-विज्ञानादेः प्रमाणत्वहेतोः भावे, न युज्यते || 
-वास्यां क्रियायां यत्करणम् 
-M. My B—किं यस्यां क्रियायां यत्करणम् 
-M & M add a 
-6 
-' P. PM, M1, Mg & Ms omit तत् 
-• M2. M, नोपपद्यते 
-- 
-• M” & Mg omit from उत upto नोरपचने 
-• Ma adds another तत् 
-2 
-• 
-Sribhasya. 
-7 
-M1, M2, M2, My, Bomit कल्पे 
-8 Mg omits वि 
-9 M1 - न स्य; Mo - न झन्यत्र 
-10 Mo 
--नः 
-11 Ma - उदाहरणादौ, Mo-- उदकाभरणादौ 
-12 Mg omits ना, to the detriment of 
-metre 
-13 PM reads as one wood 
-These different interpretations are not included by Ramanuja in his 
-↑ Vide Brahmasūtra: IIii. 40. 
-$ 
-' यत्र कापि क्रियायामिति शेषः । 
-1 Cf. Brahmasūtra: IIii.42. 
-4 
-ॐ सिद्धान्तसूत्रद्वयस्य - विज्ञानादिभावे वा तदप्रतिषेधः विप्रतिषेधात्' इति मुत्रद्वयस्येति भावः । 
-१] 'विज्ञानादेः' ब्रह्मण इत्यर्थः । 
-x' मा सद्भावे | 
-१२० 
-तथा हि- 
-८ 
-भागमप्रामाण्ये 
-पञ्च' रात्रप्रमाणत्व निषेधो * ऽतिप्रसङ्गतः । तत्रानुवादसन्देहज्ञानानुत्पत्तिलक्षणम् ॥ निरस्तमप्रमाणत्वं' 'विज्ञान' ग्रहणादिह । वक्त्राशयवशप्राप्तमिथ्याशङ्कापनुत्तये ॥ 
-8 ' आदि ' शब्देन तन्त्राणामाप्तोक्तत्वं विवक्षितम् । 
-||यस्मात्क्षात्कुरुते सदा सहजया बुध्या समस्तं जगत् यः पुंसामभि वांछितानि दिशति ध्यानैकसन्तर्पितः । 
-8 नित्यावाप्तस मस्तकाम ' इति यं प्राहुः त्रयीपारगाः 
-तस्मिन् विभ्रम' विप्रलम्भनमुखा दोषा भवेयुः कथम् ? उित्पत्त्यसम्भवो यश्च पूर्वसूत्रद्वयोदितः " । सङ्कर्षणादिमूर्तीनां तत्र प्रतिविधीयते ॥ 
-+ 'विप्रतिषेधात्' इति । पञ्चरात्रस्मरणानुमित भगवत्- प्रत्यक्षविप्रतिषेधात्, तदनुमितश्रुतिविप्रतिषेधाद्वेति । 
-• PM 
-2 Mg - निषेधाति° 
-3 M2. My - न निरस्तं प्रमाणत्वम् ; B, reads 
-निरस्तं प्रमाणत्वम्, in which case the metre 
-wants in one syllable. 
-4 M 1 - अर्थाशङ्कापनुत्तये 
-B. मिथ्याशंक्यापनुत्तये 
-5 PM omits this line in full. 
-6 Mg — यत् 
-7M1, M,, My, B – पुंसामपि 8A, Ms, V,, T - संप्राहुः 
-9 M 1 – विश्रम 
-- 
-- 
-Mg-'उदितम् 
-10 T – उदिता ; M2, Mg – उदितम् 11 B omits fa 
-* 
-अन्यथा मन्वादिस्मृतेरपि अप्रामाण्यप्रसक्तरित्याशयः । 
-6 
-§ The term ādi is from Brahmasūtra II. ii. 41: विज्ञानादिभावे वा तदप्रतिषेधः । 
-आदिशब्देन दोषरहित्यम्, विज्ञानशब्देन गुणसाहित्यं चामिप्रेतम् । 
-" 
-|| Cf. The following verse, which, according to tradition, forms the 
-opening verse of Nāthamuni's Nyāyatattva : 
-66 
-“ यो वेत्ति युगपत् सर्व प्रत्यक्षेण सदा स्वतः | 
-तं प्रणम्य हरिं शास्त्र न्यायतस्वं प्रचक्ष्महे ॥ " 
-पूर्व जीवमन आदीनामुत्पत्तिर्न सम्भवतीत्यस्य पूर्वपक्षस्य समाधानमुक्तम् । इदानीं ' उत्पत्त्यसम्भव' 
-• 
-इत्यादिना मूर्ति मेदोऽपिं कथम् ?' इति शङ्कायाः समाधानमुच्यते । 
-t Brahmasutra II.ji. 42. 
-यद्वा' -- सूत्राणां 
-प्रकारान्तरेण सूत्रविचार: 
-| कृत्वाचिन्तया सूत्रविचारः | 
-१११ 
-न्याय प्रदर्शनपरत्वात् 
-न्याय' प्रदर्शनपरत्वात् पञ्चरात्रश्रुत्योः 
-अमन्तमपि विरोधं कृत्वाऽत्र' चिन्त्यते । तथा हि- 
-सति वेदविरुद्धत्वे किन्नु' मन्वादिवाक्यवत् । अप्रमाणमिदं शास्त्रं प्रमाणं वेति संशये ॥ अप्रमाणं विरुद्धार्थप्रमित्युत्पत्त्यसम्भवात् । असम्भवश्च सापेक्षनिरपेक्षत्वहेतुकः ॥ 
-* यावद्धि सापेक्षं पञ्चरात्रस्मरण' मूलप्रमाणोपस्थापनमुखेन स्वार्थ प्रमातुमुपक्रमते, तावत् निरपेक्षापौरुषेयागमभुवा प्रत्ययेन तदर्थस्यान्यथा परिच्छेदात्, तद्विरुद्धायाः प्रमितेरुत्पत्यसम्भवात् । 
-Saraद्धि पञ्चरात्रस्य मूलश्रुत्यवबोधनम् । 
-प्रत्यक्षशास्त्रशस्त्रेण' यावन्मूलं न लूयते ॥ 
-[ सूत्रविवरणमुखेन वेदानामपौरुषेयत्वनिरूपणम् ] 
-ननु कथं वेदा वा निरपेक्षाः यावता तेषामपि भगवदनु- 
-IM & My omit पहा 
-A, M., & M, omit 
-M,, M2. M.. M, My & B, omit अत्र 
-1M -तत्र विद्यते; Mo - अत्र विद्यते 
-M. किन्तु 
-1 
-JP, PM, T, Mg, Ms, Me, Vs & A 
-add a 
-7 B omits q 
-8 M2 & Mo– ° शास्त्रेण 
-9 
-M - एतावता 
-For a discussion on the validity of smrtis when they are in opposition to more powerful means of knowledge, see Tantravārtika under Iiii 3, pp. 82-103. 
-5 Cf. ibid. p. 87 : 
-tāvadeva sphurantyarthaḥ purastādānumānikāḥ | 
-yāvat pratyakşaśāstreņa mūlameṣāṁ na kṛntyate || 
-" 
-$ This is the contention of the Naiyāyika. He does not accept the "apauruşeyatva" of the Vedas. They, according to him, are dependent upon the Supreme Being, like the Pāñcarātrāgamas, for their validity, so much so they too are "pauruşeya ", i.e., composed by the Divine Person. This is the point on which Yamuna differs from the Naiyayika. The aphorism "na ca kartuḥ harapum" ( Brahmasūtra II. ii. 40 ) is ingeniously interpreted by Yāmuna to elute the above concept of the Logician, and to establish the "apauruşe- vatva " or the revealed character of the Vedas. 
-१२२ 
-भागमप्रामाण्ये 
-'भवसापेक्षमेव ' प्रमाणत्वं', तत्कारणत्वात्' । यथैव हि पञ्च रात्र- स्मृतयः तदनुभवसापेक्षाः, एवं वेदा अपीति । 
-6 
-तत्रोच्यते ' - ' न च कर्तुः' करणम्' । न कर्तुः ईश्वरस्य +करणं वेदाः । क्रियन्त' इति 'करणम्' । कर्मणि ल्युटू' । अपौरु- 
-या वेदा इति यावत् । 
-10 
-S' विज्ञानादिभावे" वा तदप्रतिषेधः ' । न चैतदस्ति पञ्चरात्र- शास्त्रमप्रमाणमिति 12; किन्तर्हि - तदप्रतिषेधः । प्रमित्युत्पत्तेरप्रति- षेधः । विरुद्धार्थमपि विकल्पेन प्रमाणमित्यर्थः । असम्भवम 3- विप्रलम्भभगवदनुभवमूलत्वात् । 
-16 
-17 
-13 
-'विज्ञानादि भावे ' ' विज्ञानं " विशिष्टं ज्ञानम् -5 | 
-- 14 । अस- म्भव" स्खलनमिति यावत् । अन्येषां हि " सर्व " धर्म शास्त्र निब- घृणां सांसारिकत्वेन, असार्वश्यात् 2", अनवाप्तकामत्वाच्च 2, सम्भा- व्यमानविविधविप्लवं ज्ञानम् | भगवतस्तु स्वाभाविक निरङ्कुशैश्व- र्यस्य श्रुतिशत " समधिगतावितथसहज समस्तधर्माधर्मादिसाक्षात्कारं 
-1 A - सापेक्षत्वमेव 
-23 
-2 M1, Mg & M, add न 
-3 My -- तत्करत्वात् 
-4 My — पात्र 
-6Mg, Mo, My & B —भत्रोच्यते 
-• Mg adds another कर्तुः 
-7M1, M2, Mg, M, M, B, omit न 
-8 M 1 - क्रियते 
-• M1, M2, M, add प्रत्यय: 
-M2 & M, read लुट् 
-10 M 1 – पौरूषेया: 
-11 Mo - विज्ञानादिति भावे 
-12 M1, M2, Mg, Mo. M - प्रमाणमिति 
-t Brahmasūtra, II. ii. 40. 
-13 JA, M2, M, Mo. My - भसंभवभ्रम 
-(Mg - भसंभवात् भ्रम 
-14 Mg omits विज्ञानम् 
-15 Mg - अविशिष्टज्ञानम्; B – विशिष्टज्ञानम् 10 M, - असम्भवात् ; PM, My - भसम्भव 
-17 B - अस्खलन मिति 
-18 M, omits f 
-19 M2 & B omit सर्व 20Mg omits धर्म 
-21 My - असर्वज्ञत्वात् 22 Mg - अनपास्तका मत्वाश्च्च B - अनवाप्तकारत्वाश्च 23 Mg - श्रुतिप्रबोध° 
-4 
-+ करणं • क्रियमाणं ' 
-= 
-'कार्यम्' इत्यर्थः । 
-= 
-5 Brahmasutra, II. ii. 41. 
-प्रकारान्तरेण सूत्रविचारः 
-१९३ 
-ज्ञानमिति' 'वि' ज्ञानमित्युक्तम् । तादृशस्य तस्या 'दिभावे, मूलत्वे सति तदप्रतिषेधः प्रमाणमेवेति । 
-** 
-ननु कथं श्रुति' विरुद्धस्य तत्रस्य प्रामाण्याभ्युपगमः ? तत्प्रामाण्ये हि श्रुत्या सह विकल्पः प्रामोति । विकल्पश्च अष्टदोष- दुष्टः । स च कचिदन्यतर परित्यागकारणाभावात् ' अगत्या' अभ्यनु ज्ञायतं । यथा ' 'व्रीहिभिर्यजेत', यवैर्यजेत * इति । न हि तत्र अन्यतरदपहर्तुं शक्यम्, उभयोरप्यनपेक्षत्वाविशिष्टत्वात् । न श्रमपि पञ्चरात्रश्रुत्योः विकल्पेन भवितव्यम्, अतुल्यत्वात् । निर- पेक्षं हि वैदिकं वचनम्, अपौरुषेयत्वात् -2 | सापेक्षं च पञ्चरात्र- वचनमिति कथमनयोर्विकल्पः ? 
-" 10 
-[ पञ्चरात्रस्यापि वेदवनिरपेक्षत्वकथनम् ] 
-13 
-श्रूयताम् - - पश्चरात्रशास्त्रस्यापि " || निरपेक्षत्वादेव 14 
-• My omits इति 
-1 M, omits fa 
-1 M2 - तस्य तादृशस्य 
-4 B omits श्रुति 
-"M, omits fa 
-. 
-• Ma "करणाभावात् 
-1 
-MI - कारणाभावावगत्या 
-• My - अनुज्ञायते 
-9 Mg - तथा हि; Mo― तथा 
-- 
-10 Ms, Mo - मपभर्तुम् 
-11 M2, M, अनपेक्षत्वात् 
-12 M2 - अनपेक्षत्वात् 
-13 B— शस्त्रस्यापि 
-14 Ma— एवम् 
-+ Cf. Pādma Samhitā, Jñānapāda, II. 5b : 
-+ 
-66 
-'विज्ञानं भगवज्ज्ञानं तज्ज्ञानान्मुक्तिरुच्यते । 
-9 
-" 
-' तदप्रतिषेधः प्रामाण्यस्याप्रतिषेधः प्रामाण्यमिति यावत् । 
-$ Vide Tantravārtika, pp. 89-90. 
-44 
-Cf. Tantraśuddha, pp. 11-12 : 
-11 
-" व्रीहिमिर्यजेत ", " यवैर्यजेत" इत्युभयमपि वाक्यं प्रमाणम् । तत्र व्रीहिवाक्याश्रयणे यववावयमनाश्रयणीयं अशक्यत्वात् युगपत् उभयानुष्ठानस्य । तत्र प्राप्तं यववाक्यगतं प्रामाण्यं विना कारणेनापहातव्यम्; अप्रामाण्यस्य छगोचरकल्पमभावप्रमाणावसेयमङ्गीकर्तव्यम्; एवमपि केनापि हेतुना प्रयोगसाधनस्वेन यवाभ्युपगमे पूर्वमपा- काम प्रामाण्यस्य पुनराश्रयणीयत्वम्; तन्निरासेनांगीकृतस्य अप्रामाण्यस्य पुनः परित्याग इति चत्वारो दोषा एकस्मिन वावगे प्रमयन्ते । द्वितीयेऽपि प्राप्तपरित्यागोऽप्राप्ताश्रयणं परित्यक्तोपादानं यत्रानीतस्य परित्याग इति चत्वारो दोषाः । 
-तुल्यबलत्वात् गत्यन्तराभावाच्च व्रीहियवयोर्विकरूप आश्रितः । " 
-$ ' कचित् ' वेदवाक्ये 
-= 
-Apastamba Srautasūtra, VI. 3.1.13. 
-• To be identified. 
-अनपेक्षत्वा विशिष्टत्वात् = अपौरुषेयत्वात् । 
-|| निरपेक्षत्वात्', वचनान्तर मूलान्तरनिरपेक्षत्वात् । 
-१२४ 
-नागमप्रामाण्ये 
-कथं नु पौरुषेयस्य वचसो निरपेक्षता ?' इति चेत्, इदमाचष्टां पृष्टस्सन्नेष तार्किकः ॥ किमस्य बोधकत्वाय परापेक्षाऽभ्युपेयते ? 
-किं वा निश्चायकत्वाय ? यथार्थज्ञापनाय वा ? पुमर्थत्वाय वा ? तत्र चतुर्णामप्यसम्भवः ॥ 
-न खलु + 'चक्रवर्त्यपचारेण भगवन्तं समर्चयेत्' इतीदं वचनं श्रूयमाणं बोधकत्वाय किञ्चिदपेक्षते अन्यत्र व्युत्पत्तिग्रहणात् । । न च तावता सापेक्षत्वेन दौर्बात्यम् | श्रुतावपि दौर्बल्यप्रसङ्गात । 
-नापि निश्चयजननाय । न हि 'अर्चयेत्' इत्येतत् अर्च- येन्नवेति संशयितं प्रत्ययमुत्पादयति, व्युत्पत्तिप्रतिपत्तिव्याकोप- प्रसङ्गात् । 
-नापि यथार्थत्वाय' । न ह्युत्पन्नं ज्ञानं स्वकारणव्यतिरेकेण यथार्थत्वायापरमपेक्षते । गुणतः प्रामाण्यस्य 'अयुक्तत्वात्, अनभ्यु- 
-पगमाच्च । 
-न च पुरुषार्थत्वाय' परापेक्षा । शास्त्रशरीर पर्यालोचनादेव तत्सिद्धेः । इह हि यथोक्तसंस्कार वतां शास्त्रश्रवणात् तदर्थज्ञानं', तत: 10 तदर्थ * पाञ्च कालिकानुष्ठानं, ततो निरतिशयसम्पत्प्राप्तिरिति शास्त्रादेव अवगम्यते । 
-1 Mg reads वचनस्य, spoiling the metre. 
-2 M, My - आचष्ट 
-3 Mg omits from श्रुतावपि upto उत्पन्नम् 
-below. 
-4 M – याथार्थत्वाय 
-6 PM परम् 
-† To be identified. 
-6 M., omits 
-7 M1 – पौरुषार्थत्वाय 
-8 Mg – 'संस्कार' 
-9 Mg - शास्त्रश्रवणतत्तदर्थज्ञानम् ; 
-B——तदर्थज्ञानाम् 
-10 M 3 -- अतः 
-11 Mg—°च° 
-+ व्युत्पत्तिग्रहणं विना अन्यत् किमपि नापेक्षत इति भावः । 
-Cf. Ahirbudhnya Samhitā ch. XV : 
-" पाञ्चकालिक मच्छिद्रं कुर्वाणाः शतवार्षिकम् ॥ [ 15b ] क्षेत्रज्ञं सर्वभूतानां वासुदेवं विशन्ति ते ॥ [ 17bj 
-कालरतो नित्यं दयाक्षान्तिधृतिस्थितिः ॥ [ 496 ] प्राप्तवेदान्तविज्ञानो वैष्णवं श्रयते पदम् ॥ [ 53b ] 
-" 
-प्रकारान्तरेण सूत्रविचार: 
-अधोच्येत - मत्यपि 
-पञ्श्चरात्रतन्त्राणां 
-१२५ 
-स्वतः प्रामाण्ये' 
-गावत्' 'तद्वक्तुः आप्ति 'निश्चयपुरस्सरं दोषाभावो नावधार्यते', 
-'म तावत् प्रामाण्यं निष्पाद्यत इति । 
-तदसत् । न हि दोषाभावज्ञानं प्रामाण्यं निष्पादयति । निर्वाषज्ञानकारणादेव तदुत्पत्तेः । न च निर्दोषत्वाय " आप्तस्वादि- गुणनिश्चय: "; सत्तामात्रेण तत्सिद्धेः 12 । यथाऽऽह वार्तिककारः- 
-"* 
-तदा न व्याप्रियन्ते तु ज्ञायमानतया गुणाः । ' इति । दोषाभावज्ञानेऽपि गुणानां सत्तयोपयोगो दर्शितः- 
-" दोषाभावे तु विज्ञेये सत्तामात्रोपकारिणः ॥ ' इति । 
-न श्रोत्पन्नमपि प्रामाण्यं 4 हानोपादानादि व्यवहाराय अपर- "मपेक्षते । स्मरणाभिलाषाभ्यामेव तत्सिद्धेः । यथाऽऽहुः । 
-18 
-17 
-+' स्मरणाद 'भिलाषाच्च व्यवहारः प्रवर्तते । ' इति । 
-अपि च, स्वतः प्राप्त " प्रामाण्यानां वेदानामपि यावत् कर्म - मात्र " निश्चयपुरस्सरं दोषाभावो नावधार्यते, न तावत् प्रामाण्यं प्रतितिष्ठतीति" समानं सापेक्षत्वम् । 
-1 MA - अथोच्यते 
-21 
-• M,, M2, M, M, B – शास्त्राणाम् 
-I M, reads स्वतः प्रामाण्यं निष्पादयति 
-4 
-Mg omits यावत् 
-1 Momits तत् 
-"M, adds a 
-A 
-' My - अनवधार्यते 
-" M. Bomit न 
-* M, My - करणादेव 
-In M2, My - अप्राप्तत्वादि° 
-' PM व निर्दोषत्वादिगुणनिश्चयः 
-1 
-नव 
-1 M – तत्प्रसिद्धेः 
-• 
-Slokavārtika under l.i.2, 51. 67a. 
-t Ibid. 67b. 
-13 A – ज्ञान; M2 -- ज्ञानाय ° 
-14 All but My - प्रमाणम 
-15 Mg - भानोपादानादि Mo - दानोपानादि° 
-10 M 1 - परम् 
-17 Mg omits यथाहुः 
-3 
-18B omits, spoiling metre. 
-19M2, M, M, & B, omit प्राप्त 
-20 All mss. and printed texts read 
-'कर्तृभाव 
-० 
-21 M & B - प्रतिष्ठतीति 
-4 
-: 
-To be identified.१९ 
-मानमप्रामान्ये 
-अथ योग्यानुपलम्भादेवानायाससिद्धे वक्त्र भावे', निरा- श्रयदोषाणामसम्भवात् ' अप्रामाण्यशङ्केव वेदे नास्तीति चेत्; यथाऽऽहु:- 
-*" तत्रापवाद' निर्मुक्तिः वक्त्रभावात्' लघीयसी । 
-वेदे, तेनाप्रमाणत्वं न शङ्कामधिगच्छति' । ' इति ; 
-हन्त तर्हि पञ्चरात्रतत्रेऽपि सर्वज्ञ सर्वेश्वर वक्तभावादेवायत्त्र- सिद्धे दोषाभावे, अप्रामाण्यशङ्का नावतरतीति समानश्चर्चः । 
-एतदुक्तं भवति – उभयोरपि स्वतःप्रामाण्ययोः एकत्र दोषा- भावनिश्चयः' तदाश्रय पुरुषाभावनिश्चयात्, अन्यत्र तद्विरुद्वगुण- वक्तृकत्वनिश्चयादिति । यथा औष्ण्या भावनिश्चयो नभसि तदा- धारत्वाभाव" निश्चयात्, जले तु तद्विरुद्ध" शैत्योपलम्भादिति । किश्च- 
-1 Mg reads वक्तभाव:; except PM, all 
-ptd. texts and mss have वक्तृभावे 
-12 M1, M2, M4, M2, My - अभावात् 
-3 Mg, V, & A omit वेदे 
-4 Mo - वादात् 
-5 Except Mg, My and PM, all mss. 
-and ptd. texts have वक्तृभावात् 
-* Ślokavārtika under I.i.2, sl. 68. 
-6 M 1 - अधितिष्ठति 
-7 'B' omits from वक्तु upto गुण of the 
-following para. 
-8M1, M2, M1, M2, My - दोषाभावः 
-9 M1, M2, M, M.,, My - सर्वज्ञ सर्वेश्वर - 
-वक्तृकत्व' 
-10 All except Mo - तदाधाराभाव 11 Mo - तद्विरोधि 
-†The similarity of status between the Vedas and the Agamas, according to Yamuna, lies in the fact that both of them are understood to be free from the defects that generally stand in their way. The way in which this faultlessness is understood, however, differs between the Vedas and the Agamas. As regards the Vedic texts, there being no author (apauruşeya), there is no question of any defect ever appearing at all. As regards the Pañcarātrāgamas too, there could be no question of any defect ever arising, on the ground that they are the direct utterances of Vasudeva, the Omniscient Supreme Lord of the Universe. This is what Yamuna explains in the succeeding para: "etaduktam bhavati" etc. 
-प्रकारान्तरेण सूत्रविचारः 
-L 
-मापेक्षनिरपेक्षत्वे न हि बाधस्य कारणम् । शुक्तौ रजतबोधस्य निरपेक्षस्य बाधकम् ' | 
-नेवंरजत 'विज्ञानम् ; तत् सापेक्षमपीष्यते' । सेयं ज्वाले 'ति' संवित्तेः, तैलवर्तिविनाशजा ॥ अनुमा बाधिका दृष्टा, सापेक्षाप्यक्षजन्मनः । अतो निरवकाशेन सावकाशो' निषिध्यते ॥ न चेह सावकाशत्वं भगवच्छास्त्रवेदयोः । अथ श्रुतिविरुद्धस्य तत्र भागस्य दुश्शकम् ॥ बासुदेवप्रणीतत्वं निश्चेतुमिति मन्यसे । पथरात्रविरुद्धस्य वेदभागस्य वा कथम् ॥ 
-7 
-अपौरुषेयताज्ञान माविर्भवति बाधितम् ' ? तस्यापि वेदभागत्वात् तथाभावोऽभ्युपेयते ॥ 
-11 
-10 
-अस्यापि पञ्चरात्रत्वात् तत्प्रणीतत्वमिष्यताम् । 12 कर्तुरस्मरणात् " तत्र यदि चापौरुषेयता || तत्कर्तृकत्वस्मृत्यात्र किं न स्यात् तत्प्रणीतता ? 
-[ पञ्चरात्रस्य भगवत्कर्तृकत्वे प्रमाणोपन्यासः ] 
-14 
-अस्ति यात्रीकुमारं सा दृडा 4 स्मृतिपरम्परा ॥ पञ्चरात्रस्य निर्माता केशवो भगवानि 'ति । तत्प्रणीतत्वविश्वासात् " गजानश्वान् धनं बहु || 
-I'M - बोधस्य; M has बाधकस्य and B 
-साधकस्य both rendering the metre defective. 
-I has a variant : साधकम् 
-1M 2 
-सापेक्षमुच्यते 
-1 A. M2. M4, M, T, V,, - बालादि 
-' M. M, -अनुमा याधिका 
-• All except Mo - सावकाश 
-" 
-अतिगिकस्यतन्त्र भागम्ब 
-• Mg - वेदभङ्गस्य 
-• Mg — बाधकम् 
-10 B 
-अप्युपेयते 
-11 M1, Mg — तस्यापि 
-११७ 
-12 M, omits this and the following 
-line. 
-13 My - अकर्तृस्मरणात् 
-14 M, स्वाहा 
-13 M - विश्वासाः 
-१२८ 
-मागमप्रामाण्ये 
-दक्षिणां विविधां दत्वा * प्रतिष्ठादीनि कुर्वते । 
-S' सांख्यस्य कपिलो वक्ता, पञ्चरात्रस्य केशवः ' ॥ इति' स्कन्द पुराणेऽपि पठ्यते, भारते तथा । 
-$ 
-पञ्चरात्रस्य कृत्स्नस्य वक्ता नारायणः स्वयम् ' ॥ *" इदं महोपनिषदं चतुर्वेदसमन्वितम् । 
-I B omits इति 
-* 
-2 M2, My -- 
-स्कान्द 
-For pratistha-rite, see Sattvatasaṁhită Ch. XXV and Jayākhyasaṁhitā, patala 16. 
-§ To be identified. See Tantraśuddha, p. 22, for the second half of this verse : ' वक्ता पचपदार्थानां साक्षात् देवो महेश्वरः ॥ 
-Cf. Mahābhārata, XII. 337.60a : 
-" सांख्यस्य वक्ता कपिल: परमर्षिस्स उच्यते ' । 
-66 
-t “ The Nārāyaniya section of the Mahābhārata ( XII chs. 334-348 ) is valuable as it is the only fairly full account of the Pañcaratra doctrines that we possess in original Sanskrit....All the bhakti-writers from Rāmānuja down to the present day, assume the reader's familiarity with the principles inculcated therein". [See G A Grierson, "The Nārāyaniya and the Bhāgavatas", The Indian Antiquary, vol. 37, pp. 261-62.] 
-$ Mahābhārata, XII. 337 63a. Variant : cf. ibid sl. 63b-64a : 
-'सर्वेषु च नृपश्रेष्ठ ज्ञानेश्वेतेषु दृश्यते ॥ 
-यथागमं यथाज्ञानं निष्ठा नारायणः प्रभुः । ' 
-वक्ता तु भगवान् स्वयम् । Also 
-Quoting the line : पचरात्रस्य कृत्यस्य ' etc. in his Sribhāsya II. ii. 42 (p. 834 ), Ramanuja says: 
-" 
-पञ्चरात्रतन्त्रस्य वक्ता नारायणः स्वयमेवेत्युक्तवान् । एवं वदतश्चायमाशयः । पौरुषेयाणां हि तन्त्राणां परस्परविरुद्धवस्तुवादितया, अपौरुषेयत्वेन निरस्तप्रमादादि निखिल दोषगन्धवेदवेद्यवस्तुविरुद्धाभिधायित्वाच्च यथा- वस्थित वस्तुनि प्रामाण्यं दुर्लभम् । वेदवेद्यश्च परब्रह्मभूतो नारायणः । अतः तत्तत्तन्त्राभिहितप्रधानपुरुष पशुपतिप्रभृति- तश्वस्य वेदान्तवेद्यपरब्रह्मभूतनारायणात्मकतयैव वस्तुत्वमभ्युपगमनीयमिति । अतो वेदान्तवेद्यः परब्रह्मभूतो नारायणः स्वयमेव पश्चरात्रस्य कृत्स्त्रस्य वक्तेति तत्स्वरूप तदुपासनाभिधायि तत्तन्त्रमिति च तस्मिन्नितरतन्त्रसामान्यं न केन विदुद्धावयितुं शक्यम् । " 
-" 
-t Mahābhārata, XII. 326, 100-101. 
-...... 
-Discussing the position of the Pañcarātra with reference to the Upanisads, Dr. D. L. De in his article " Päñcarātra and the Upanisads" [Indian Historical Quarterly, Vol. IX ], p. 648, says: 
-प्रकारान्तरेण सूत्रविचार: 
-* सांख्ययोगकृतान्तेन पिञ्चरात्रानुशब्दितम् ॥ ६ नारायणमुखोद्गीतं नारदोऽश्रावयन्मुनीन् । ब्रह्मणस्सदने तात ! यथादृष्टं यथाश्रुतम् ' ॥ 
-'M,, M, add f 
-2 M1, M2, M4, M,, My, B-g 
-A – मुखाद्गीतम् 
-125 
-"The Upanisads, with no set theory of philosophy or dogmatic scheme of theology to propound, form the root of all the later religio-philosophic systems of the country". 
-"It cannot be said definitely whether the Pañcarātras confined themselves. wholly to the contemporary Upanisads in the matter of borrowing. They borrowed probably from the contemporary Upanisads as well as from the pre- existing Upanisads. The Upanisads are the sources from which they drew most of their doctrines". 
-For a detailed account of these borrowings, see ibid., pp. 648-660. 
-See G.A. Grierson, Indian Antiquary, vol. 37, p. 261: 
-"Nearly the whole Mokşadharma-parvan consists lectures on Sankhya- Yoga, together with attempts to reconcile it with Brahmaism. One system which results from the attempted reconciliation of these two opposite philo- sophies is attributed to Pañcaśikha and is explained at some length ... The Nārāyaṇīya, while claiming to describe Sankhya-Yoga really describes the Bhagu- vata monotheism as united with this system, but also with more of a Brahmaist colouring than we find in the Gītā. " 
-† See ibid., p. 258: 
-"The Nārāyaṇīya sometimes alludes to the religion which it preaches us the doctrine of the Bhāgavatas, and sometimes as that of the Pañcaratras. The two terms are not exactly synonymous, for the Pañcarātras formed only one sect of the great Bhāgavata religion. Prof. R.G. Bhandarkar tells us that Dhruva- Menu I, one of the earliest princes of the Valabhi dynasty (C. 530 A.D.) is called Bhagavata, and Bāņa (C. 600 A.D.) in the 8th chapter of the Harşacarita mentions both the Bhagavatas and the Pañcarātras. " 
-§ According to the Santiparvan of the Mahabharata (Gorakhpur edn.), the Sattvata-teaching is said to have been announced by the sun : 
-" सात्वतं विधिमास्थाय प्राक् सूर्यमुखनिःसृतम् । 
-पूजयामास देवेशं तच्छेपेण पितामहान् ॥” 
-See G.A. Grierson, Indian Antiquary, vol. 37, p. 253: 
-10 
-१५० 
-* 
-आगमप्रामाण्ये 
-एवमादिपुराणोक्ति' सहस्रैः न्यायबृंहितैः । वासुदेवप्रणीतत्वं पञ्च रात्रस्य निर्व्यथम् ' || 
-4 
-किन्तु वेदस्य नित्यत्वे विवदन्ते विपश्चितः । तेन निर्दोषविज्ञानकारणत्वात् द्वयोरपि ॥ निर्विशङ्कं प्रमाणत्वं भगवच्छास्त्रवेदयोः । ततश्च तुल्यशिष्टत्वात् विकल्पेन' प्रमाणता ॥ इति मत्वैतदाचष्ट' सूत्रकारो महामनाः ॥ 
-'विज्ञानादिभावे वा' तदप्रतिषेधः ' इति । 
-[ पञ्चरात्रे विप्रलम्भकत्वारोपनिरासः ] 
-10 
-ननु च भगवतः सर्वज्ञत्वेनासम्भाव्यमानायामपि भ्रान्तौ, सर्वशक्तित्वेन विप्रलब्धमपि भवतीति, किमिदमपि शास्त्रं व्यामो- हयितुमभिहितम् " ? उत वस्तुतोऽवहितबुद्ध्या निबद्धमिति अन्य- 
-1P, PM – ° पुराणोक्तैः 
-2 My - पाच 
-• M1 - निश्चितम् 
-4 PM, M 2 to M,, My, V1, A - किन्नु 
-B—किन्न 
-5 PM - विकल्पे न 
-6P, PM, Mg – आष्टे ; M 1 - मत्वेदमाचष्ट 7 M 1 - महात्मनाम् 
-12 
-• M2-omits वा 
-9 M2 omits 
-10 M2, My omit अपि 
-11 M1 reads only व्यामोहितम् 
-12 A, Me, M, – ° विहितं बुद्धा 
-M1 to My, V1, B – अवहितं बुद्धा Mg – विहितं बुद्धाँ 
-T – अवहितं बुध्धा 
-"We have no literary evidence as to the train of reasoning by which this doctrine (Bhāgavata) was reached, but to me it appears more than probable that it was a development of the Sun-worship that was the common heritage of both branches of the Aryan people-the Eranian and the Indian. All the legends dealing with the origins of the Bhagavata religion are connected in some way or other, with the sun. 
-See also in this connection, L.D. Barnett, "The Hindu Gods and Heroes, ” PP. 82-83. 
-• Brahmasutra IIii. 41. 
-प्रकारान्तरेण सूत्रविचारः 
-111 
-तर' पक्षावलम्बन विक्लश्रमनसां क इव निर्णयोपायः ? प्रत्युत वेद- बिरोधादेव' विप्लावन' फल' मित्य 'ध्यवस्याम इति । 
-तत्रोच्यते ' - *“ विप्रतिषेधात्' इति । समस्त श्रुतीतिहास- पुराणलोक 'विप्रतिषेधात् । यदि विना कारणेन' भगवतः सर्वशक्ति- स्वमात्रात् " विप्लावनशङ्का"- 
-- 
-हन्तैवं सर्वशक्तित्वात् नरके धार्मिकानपि । 
-पातयेन्नेति 12 सन्देहात् निश्चेष्टं जगदापतेत् ॥ 
-अपि चायं सर्वशक्तित्वेन विप्रलिप्समानः किमतीन्द्रियास- स्वार्थान् वेदानादौ 14 निर्माय स्वनिर्माणस्मरणशक्तिमपि हिरण्यगर्भा- देरपहृत्य तत्प्रभृति स्वाध्याय' परम्परामिमां प्रवर्तितवान् न वेति संशयाना : 16 कथं विश्वसिमः ? 
-18 
-17 अथास्य सत्यपि " सर्वशक्तित्वे, यावच्छक्ति करणे" प्रमाणा- भावात्, अनवस्थानात्, भगवतश्च 20 स्वभावावात कामतया 22 विप्रलम्भप्रयोजन विरहात्, विषम्यनैर्घृण्यादिदोषैः मात्रयापि चासं- 
-1 A omits तर 
-2 A reads वेदविरोधाद्वेद 
-M 3 - वेद विरोध 
-' P, PM, T, M1, M2, Mg, Mg, Me, 
-M,, My, V,, A - विप्लवन 
-We have selected the reading of M4 & B. 
-4 M, omits फलम् 
-. 
-10 
-' M2 omits इति 
-• M2, M2, M2, M2, My, B – अत्रोच्यते 
-M2 reads सर्व° 
-M1, M2, M6, M7, My, B, omit लोक; M, reads योग for लोक 
-"M,, M, Mg, M - करणेन 
-M,- 
-M :- सर्वशक्तिमात्रत्वात् 
-Brahmasutra II. ii. 42 
-1 Cf. ibid. II. 1. 34 : 
-11 A – विप्लवनशङ्का 
-M2, My – विप्लावनाशङ्का 
-12 M 1 – पातयेनव° 
-13 M3, M4, M8, B – किमिति ° 14Mg - वेदादौ 
-15 P, T - तत्प्रभृतिस्वाध्याय (one word ) 
-PM — तत्प्रभृतिस्वाधाय 
-16 A, B - संशयमानाः 
-17 Mo omits अथ 
-18 M3 - अस्त्यपि 
-19 Printed texts have यावच्छक्तिकरणे as 
-one word. 
-20 M adds स्वभावतश्च 
-21M - स्वभावावाप्ति' 
-Ma, Ms, Mo, V1 & A - स्वभावात ° 
-22 M, Mo कामयता 
-"वैषम्यमेन, सापेक्षत्वात् तथा हि दर्शयति । " 
-१३२ 
-भागमप्रामाण्ये 
-2 
-स्पृष्टत्वात् ', सर्वप्राणिजातस्य स्वभाव सौहृदेन व्यवस्थानात्, अविप्रलब्धुं प्रणीतत्वे च विदुषामद्ययावत् स्वाध्यायाध्ययनतदर्थानु- ष्ठानवतां तत्कर्तृदोषविस्मरणानुपपत्तेः तादृशा' शङ्का नास्तीति चेत्, तदेतत्सर्वमन्यत्रापि समानम् । तथा हि- 
-" 
-किमस्यावाप्तकामस्य सर्वज्ञस्य * दयानिधेः । अल्पस स्वैरलब्धार्थैः विप्रलब्धैः प्रयोजनम् ? विप्रलब्धुं कृतं तन्त्रं कथं वा परमर्षयः । इतस्ततः प्रशंसन्ति तुल्यवत् श्रुतिमूर्धभिः ? 
-[ पञ्चरात्रस्य वेदसाम्यविषये भारतादिसूक्तिनिदर्शनम् ] 
-तथा हि वेदै सह निर्विशेषं वाराह रामायण भारतादौ । अमुष्य तन्त्रस्य रहस्य भावं पठन्ति सन्तस्तमिमं वदामः ॥ 
-वेदेन पञ्चरात्रेण भक्त्या यज्ञेन च द्विज । प्राप्योऽहं नान्यथा प्राप्यो वर्षलक्षशतैरपि ॥ 
-पञ्चरात्रं" सहस्राणां यदि कश्चित् ग्रहीष्यति । 
-12 
-कर्मक्षये च मद्भक्तो" यदि कश्चित् भविष्यति ॥ 
-1 M2, My - अस्पृष्टत्वात् 
-M4, B, A - असंसृष्टत्वात् 
-2 M1, M2, M2, My & B, omit स्य 
-3 M, omits fa 
-4 M2, Mg, A, V1 & B omit तत् 
-5 Mg, Mg & A - शङ्का 
-Mg - तत्र 
-+ Cf. Svetāśvatara III. 17: 
-7T, M3, M8, V1 - वराह 
-BP, PM - वदन्ति 
-• M 3, Mg - तमिदम् 
-10 M, — द्विज: 
-11 M1—पञ्चरात्र° 
-12 P, PM alone have मद्भक्तः । The rest 
-read तद्भक्तः । 
-" सर्वस्य प्रभुमीशानं सर्वस्य शरणं सुहृत् || " 
-See G.A. Grierson, Indian Antiquary, vol. 37, p. 260: 
-"India again owes the preservation of the idea of a God of Grace, of the Fatherhood of God, to the Bhāgavatas." 
-§ ' प्राणिमि:' इति विशेष्यमध्याहार्यम् । 
-x 'निर्विशेषं समानमित्यर्थः । 
-t Varāhapurāna Ch. 66. Sls. 19, 14, 15a, 18a. 
-प्रकारान्तरेण सूत्रविचार: 
-तस्य वेदाः पञ्चरात्रं नित्यं हृदि वसिष्यति । यदिदं पञ्चरात्रं मे शास्त्रं परमदुर्लभम् ' ॥ तद्भवान्' वेत्स्यते' सर्व मत्प्रसादादसंशयम् ' ' ॥ " पुराणैश्चैव वेदैश्च पञ्चरात्रैः तथैव च । 
-ध्यायन्ति योगिनो नित्यं क्रतुभिश्च यजन्ति तम् ' ॥ एवमेकं सांख्ययोगं वेदारण्यकमेव च । परस्पराङ्गान्येतानि पञ्चरात्रं च सत्तम ॥ 
-3 M1, Mg, A - वेत्स्यसे; M2 -- वेत्सि ते 4 M1, A – ° असंशयः 
-JM – यदि तम् ; Mo - यदथ 
-5 M4, B – सत्तमाः 
-१३२ 
-1 
-; 
-M2— तरसारान् 
-Varāhapurāna Ch. 66. $1. 18b. 
-Also Cf. ibid. sl. 11b : 
-" अलाभे वेदमन्त्राणां पञ्चरात्रोदितेन वा ॥ " 
-+ Rāmāyana [ uttara ] Ch. X (Praksipta ) [ M.LJ. Press ], p. 1012. The rending found is : 
-" यजन्ति पञ्चभिर्यज्ञैः सततं मधुसूदनम् ॥ 
-99 
-[61b] 
-" यः पुराणे च वेदे च पञ्चरात्रे च पठ्यते ॥ " [ 62b] 
-§ See Amarnath Ray, “Srikrsna and the source of the Bhagavadgitā, " Indian Historical Quarterly, Vol. IX, pp. 193-194: 
-64 
-"Kṛṣṇa was the great religious teacher who brought about a Samkhya- Yoga-Vedanta synthesis.... The first book which is fragmentary might have been remnant of the Aranyaka of the Sattvatas, spoken of in the Nārāyaṇīya account of the Mahābhārata [ XII. 34831]. When the doctrines of bhakti and avatāra and desireless action were adopted by Kṛṣṇa's followers, they were called Bha- kavatas. 
-13 
-For a detailed account of the alliance between Pañcarātra and Sankhya- Yoga and their influences and counter-influences, see G.A. Grierson, 'The Närd- vaņlya and the Bhāgavatas', The Indian Antiquary, Vol. 37, pp. 255-258. 
-t Mahābhārata XII. 336.76. 
-Cf. ibid., Ch. 337. 51. 1 : 
-"sankhyam yogaṁ pañcarātraṁ vedāraṇyakameva ca jñānānyetāni brahmarşe lokeşu pracaranti ha I' 
-Also cf. ibid. $1.59: 
-"sankhyam yogaḥ pāñcarātraṁ vedāḥ pāśupataṁ tatha jäänänуetāni rajarse viddhi nāṇāmatāni vai ||” 
-१३४ 
-* 
-1 
-भागमप्रामाण्ये 
-'वेदेन' पञ्चरात्रेण यः पश्यति स पश्यति ' ॥ 
-" इदं महोपनिषदं चतुर्वेदसमन्वितम्' । वचसामेवमादीनामानन्त्यादुपरम्यते ॥ 
-इत्थंभूतस्य तन्त्रस्य विप्लवं यदि शङ्कसे । सर्वत्र स्यादनाश्वास इत्येतदुपदिश्यते ॥ 
-S' विप्रतिषेधात् ' इति । एवं च - 
-1 A - वेदैश्व 
-विरोधेऽपि विकल्पस्स्यात् भगवच्छास्त्रवेदयोः । विरोध एव नास्तीति प्रागेव प्रत्यपादयम् ॥ 
-2 M. omits af, and the metre falls 
-short of one syllable. 
-• M – देवयो: 
-- 
-Commenting upon the verse " evamekam" in his Śrībhāsya under II. ii. 39 (p. 834), Rāmānuja says: 
-" सांख्यं च योगश्च सांख्ययोगम् | वेदाश्चारण्यकानि च वेदारण्यकम् । परस्पराङ्गान्येतानि, एकतश्व प्रतिपा- दनपरतयेकीभूतानि एकं पञ्चरात्रमिति कथ्यते । एतदुक्तं भवति – सांख्योक्तानि पञ्चविंशतितत्त्वानि । योगोक्तं च यमनियमाथात्मकं योगम् । वेदोदितकर्म स्वरूपाण्यङ्गीकृत्य तत्वानां ब्रह्मात्मकत्वं योगस्य च ब्रह्मोपासनप्रकारत्वं कर्मणां च तदाराधनरूपतामभिदधति । कर्मस्वरूपं प्रतिपादयन्त्यारण्यकानि । एतदेव परेण ब्रह्मणा नारायणेन स्वयमेव पचरात्र- तन्त्रे विशदीकृतमिति । शारीरके च सांख्योक्ततत्स्वानाम ब्रह्मात्मकतामात्रं निराकृतम्, न स्वरूपम् | योगपाशुपत योश्च ईश्वरस्य केवलनिमित्तकारणता, परावरतत्र विपरीत कल्पना, वेदबहिष्कृता चारो निराकृतः ; न योगस्वरूपं, पशुपतिस्वरूपं च । अतः 'सांख्यं योगः पञ्चरात्रं वेदाः पाशुपतं तथा । आत्मप्रमाणान्येतानि न हन्तव्यानि हेतुभिः' इति तत्तदभि- हिततत्तत्स्वरूपमाश्रमङ्गीकार्यम् । जिनसुगताभिहिततत्त्ववत् सर्वं न बहिष्कार्यमित्युच्यते । ' यथागमं यथान्यायं निष्ठा नारायणः प्रभुरित्यनेनैकार्थ्यात् । " 
-Also see Collected Works of Sir R. G. Bhandarkar (Bhandarkar Oriental Research Institute, 1933 ), Vol. I, pp. 248 294 for an article The Rāmānujiya and the Bhagavata or Pañcarātra systems'. 
-昨 
-To be identified. 
-+ Mahābhārata XII. 326 100a. 
-' 
-+ पञ्चरात्रस्य परमप्रमाणभूतस्यापि विलावनशङ्कायां सर्वत्रापि अप्रामाण्यबुध्धा अनाश्वास एव भवेत् । विप्रति- षेधश्च स्याद्वैदिक लौकिकव्यवहाराणामिति सूत्रार्थं समुच्चिनोति 'सर्वत्र स्पादनाश्वास' इत्यनेन । विप्रतिषेधात् इति ' इत्येतत्पर्यन्तमेकं वाक्यम् । 
-s Brahmasūtra II. ii. 42. 
-सि 
-[विरुद्ध शाप्रामाण्यवचननिर्वाहः ] 
-१३५ 
-" नन्वत्रभवतां भाष्यकाराणां 
-भाष्यकाराणां विरुद्धांशाप्रामाण्याभिधानं ' कथमिव ? 
-यद्यपि विरोधः कृत्वाचिन्तया परिहृतः, तदपि गम्भीर- न्याय' सागरमवगादुमपरिवृढानां ' कोमलमनसां वेदानादरो मा भूदित्येवंपरम् | यिथैव हि भगवतो जैमिनेः कर्मफलोपन्यास: " कर्मश्रद्धा संवर्धनायेति । 
-अपि च- 
-[ पञ्चरात्रस्य वेदबाह्यगृहीतिमूलकाप्रामाण्यारोप खण्डनम् ] वेदबाह्यगृहीतत्वादप्रामाण्यमवादि यत् । एतद्वाय गृहीतत्वात् वेदानां वा कुतो न तत् ? 
-किं चेदं वेदबाह्यत्वं? का वा स्यात् तद्गुहीतता ? किमङ्ग ! वेदादन्यत्वं वेदबाह्यत्वमुच्यते ॥ 
-IM, reads विरुद्धांशाप्रामाण्यांशयोः 
-2 Mg - अपहृतः 
-3M omits न्याय 
-4 M2, My - परिबुढानां Mg, Mg - परिदृढा- 
-नाम् ; PM - अपरिवृद्धानाम् 
-• Mg reads 'अपरम् ; 'T' reads वरम् 
-6 Tätparyafika of Vedanta Desika (Kanchi edn.), which quotes this line, has a variant : कर्मण: फलोपन्यासः 7 Mg, M, omit अपि च 
-8 M. omits a, to the detriment of 
-metre. 
-* This reference by Yamuna to 'bhāṣyakara' has been taken by some Vaisnava scholars as speaking of Dramiḍabhāṣyakāra, who is traditionally said to have commented upon the Brahmasutra. But this may be taken as a refer- ence to Sankara himself. Rāmānuja's Śrībhāṣya also seems to support this position. Cf. Sribhāsya under II. ii. 42, p. 832 : 
-6 
-यतु 
-परैः सूत्रचतुष्टयं कस्यचिद्विरुद्धांशस्य प्रामाण्यनिषेधपरं व्याख्यातम् ", with the above pas- Nnge : " नन्वत्रभवतां ” etc. Also cf. Sankara on the above sūtra, p. 259 : 
-" यद्यप्येवं जातीयकोंऽशः समानत्वात् न विसंवादगोचरो भवति । अस्ति तु अंशान्तरं विसंवादस्थान मिस्यतः 
-प्रत्याख्यानायारम्भः etc. 
-"} 
-+ Cf. Vedārthasangraha, p. 157 : 
-" अभुत वेदान्तानां कर्मणि अड्डा मा भूदिति देवताधिकरणे अतिवादाः कृताः, कर्ममात्रे यथा महा स्यादिति"। 
-8 See the verse 'विवादाभ्यासितं ' etc., p. 17 above.བས་ 
-१३६ 
-तथा- 
-भागमप्रामाण्ये 
-तन्निषिद्धार्थ कारित्वम् ? आहो तदुद्वेषशीलता ? 
-गृहीतत्वमधीतत्वं ज्ञातत्वं वा विचार्यताम् । क्रियमाणार्थता वा स्यात्, हेतुस्सर्वत्र दुष्यति ॥ 
-तत्र तावत्- 
-यदि वेदाद् विभिन्नत्वं बाह्यत्वं, साऽप्यधीतता' । वेदादन्यैः त्रिभिर्वर्णैः' अधीतं ' वैदिकं वचः ॥ 
-7 
-प्रमाणमित्यनैकान्त्यं हेतोस्तत्र प्रसज्यते ' । ज्ञातत्वेऽपि गृहीतत्वे, दोषादस्मान्न मुच्यसे ॥ 
-पूर्वोक्तं वेदबाह्यत्वं क्रियमाणार्थता यदि । गृहीततापि', वेदैस्स्यात् तथैव व्यभिचारिता ॥ 
-10 
-प्रतिषिद्धार्थकर्तृत्वे वेदवाह्यत्वलक्षणे " | 
-व्यभिचारः त्रयीवाक्यैः प्रायश्चित्तविधायकैः ॥ 
-प्रायश्चित्तविधायकानि वाक्यानि 1 *" कूष्माण्डैः जुहुयात् ' इत्यादीनि प्रतिषिद्धकारिभिरधीतगृहीतानुष्ठीयमानार्थत्वेन 12 प्रमाणा- नीति" तादृशवेदबाह्यगृहीतत्त्वमनैकान्तिकम् । 
-1 'A' has तन्निषेधार्थ 
-2 Mg reads “कामत्वम् 
-3 M 1 - दूष्यते 
-4 PM reads वाप्यधीतता 
-5 M,-: 
-6 Mg reads अधिकम् 
-17 M1, Mg - प्रयुज्यते 
-8M1, M2, M, M,, My, B, PM- मुच्यते 
-9 
-• M - गृहीतता च 
-10 Mg – लक्षिते 
-- 
-11M1, M2, M, M 7, My & B omit 
-वाक्यानि 
-12 A – अनुमीयमानार्थान्येव; T, M1, M2, M 59 Mg, M7, My, B— अनुष्ठीयमानार्थान्येव; Mg – अनुष्ठाय मानार्थान्येव 
-13 M 4 - प्रामाण्यानीति 
-* Cf. Bodhāyanadharmasūtra, III. vii. 1 : 
-'कूश्माण्डैर्जुहुयात् योऽपूत इव मन्येत ' । 
-सिद्धान्त: 
-१३७ 
-नापि वेदद्वेषि' जनपरिगृहीतत्वादप्रामाण्यं पञ्च राजतत्रा- णाम् । हेतोरसिद्धत्वात् । अपि च न वेदद्वेषिजनपरिग्रहः प्रामाण्यं प्रतिहन्ति । यदि हि प्रतिहन्यात्, निरर्गलस्तर्हि नास्तिकानां पन्थाः । मे हि वेदप्रामाण्यप्रोत्सादनाय प्रयस्यन्तः - 
-* कथंचित् वेदवाक्यानि गृहीत्वा विप्रलम्भनात् । 
-अनायासेन' मिथ्यार्थान् वेदान् कुर्युर्दिगम्बराः ॥ 
-अथ तत्रा'नधिकारिणामध्येतृणामेव 'न चाभिव्याहरेद्रा स्वधानिनयनाहते' इत्यादि 'वचन' पर्यालोचनया दोषः, न निर्दोषयेव- पाक्यानामिति चेत्, तत् प्रस्तुततत्रेष्वनधिकारि" श्रोतृजनानामेष दोषः न निर्दोषतत्राणामिति, सर्वं समानमन्यत्राभिनिवेशात् । 
-अथ मतं वेदबाह्यत्वं नाम वैदिककर्मानधिकारित्वं, तदनधि- कारिभिः वेदषायैः गृहीतत्वात् चैत्यवन्दनवाक्यवदप्रमाणमिति; 
-1M2, M3, M4, My, A – वेदविद्वेषि° 
-2 My - पाच 
-› A omits 
-4 M – निरर्गलस्तन्नास्तिकानां 
-3 
-' Mg - अनाथान्येव 
-6 B – अत्र ° 'M - इत्येवमादि 
-8 Mg omits वचन 
-9 M, & M, omit तत् 
-10 Mg — तन्त्रेष्वध्ययनाधिकारि° 
-†The argument here is that the handling of Vedic texts by the un- orthodox people like the Buddhists and the Jains, cannot bring down the authoritative character of those texts. Otherwise, the Vedas would long ago, have become invalid since the unorthodox schools of thought tried to explain the Vedic passages as they pleased contradicting their original significance. The authority of the Vedas is for all time to come and the wrong handling of those texts by others cannot undermine it. 
-Cf. Tantravārtika I. iii. 3, p. 85: 
-'लोकायतिकमूर्खाणां नैवान्यत् कर्म विधते । 
-यावत् किञ्चिददृष्टार्थं तत् दृष्टार्थ हि कुर्वते || 
-, 
-++ Manusmrti II. 172a. The reading found is: 'नाभिव्याहारयेत्' etc. A wlmilur statement is found in the Gautama Dharmasūtra II. 9: 'न ब्रह्माभिव्याहारयेत्' 
-Mc. 
-5 Bhatta Medhātithi, commenting upon Manusmrti XII. 95, quotes from Some unidentified source: 
-' नोदनाः चैश्यवन्दनतः स्वर्गो भवति । ' 
-१० 
-१३८ 
-तत्राऽपि 
-भागमप्रामाण्ये 
-किमखिलवैदिककर्मानधिकारिजन' परिगृहीतत्वं हेतुः ? 
-उत कतिपय वैदिककर्मानधिकारिजन' परिगृहीतत्वम्' ? इति विविच्य व्याचष्टाम् ' । 
-न तावदग्रिमः कल्पः कल्पते हेत्वसिद्धितः । 
-न हि सोऽस्ति मनुष्येषु यः श्रौते कपि कर्मणि ॥ नाऽधिकुर्यादहिंसादौ नृमात्रस्याधिकारतः । 
-अन्यथा हि ब्राह्मणहननतद्धनापहरणवर्णाङ्गनासङ्गमवेदाध्य- यनादि कुर्वाणाः चण्डालादयो न दुष्येयुः, तदनधिकारित्वात्' । 
-यस्य हि यन्न कर्तव्यं, तस्य हि तत्करणं प्रत्यवायाय । अतस्सर्वेषामी- दृशवैदिक' कर्मण्यधिकारो विद्यत एवेत्यसिद्धो हेतुः । 
-* 
-साधनविकलश्च" दृष्टान्तः । नाऽपि कतिपयवैदिककर्मा"नधि- कारिभि: 12 गृहीतत्वादप्रामाण्यं समस्तवेदवाक्यानामप्रामाण्यप्रस- ङ्गात् । अस्ति हि सर्वेषां कतिपय वैदिक कर्मानधिकारः — ब्राह्मणस्येव 
-1M1 omits जन 
-2 All except Me omit . We chose Mo जन. the reading of Ms. 
-3P, PM, T, A, Mg, Ms, Ms, My, V1 omit परि; M, has a lacuna from हेतु: upto परिगृहीतत्वम् । 
-4 M 1 - भचष्ट; M2, M, M,, My 
-आचष्टाम् 
-— 
-5 Mg omits कल्प:, to the detriment of 
-5 
-* Vide Karmamimāmsā, p. 93 : 
-metre ; Mg & B have अग्रिम कल्पः. 6 M, M - वाऽपि 
-7 My - तदनधिकारत्वात् 
-8 M – तत्कारणम् 
-- 
-• Mg & My omit वैदिक 10 M 1 – विकल्पश्च 
-- 
-11 M 1 – धर्म° 
-12 Ma - कर्मानधिकारि° 
-13 B omits वैदिक 
-"While an injunction directs a positive act, a prohibition (nişedha or pratiṣedha) serves to turn a man away from performing the action expressed in the verb and its object. The prohibition does not lead to any desirable result such as heaven; it serves none the less a useful purpose; the man, who obeys the direction not to eat the mysterious kalañja, by observing this taboo escapes the hell which else had been his fate. In the technical phraseology of Mimāṁsā, the negative applies not to the sense of the verb, but to the optative affix; as an optative urges us to action, so a negatived optative turns away from it. " 
-१३९ 
-'राजसूये, राजन्यस्येव' सोमपाने । अतो व्यवस्थितवर्णाधिकारि- गृहीतवेदवचनैः अनैकान्तिको हेतुः । *अप्रयोजकश्च - 
-'चैत्यवन्दनतः स्वर्गो भवती 'तीदृशी मतिः । 
-न तत्परिग्रहान्मिथ्या, किन्तु कारणदोषतः ॥ 
-[ पञ्चरात्रस्य वैदिकपरिग्रहशिष्टानुष्ठानदर्शनकथनम् ] 
-उिक्तश्च वैदिकसमस्तास्तिकप्रवरभृगुभरद्वाज द्वैपायनप्रभृति- अद्यत्वेऽपि हि पञ्चरात्रतन्त्रविहितमार्गेण 
-महर्षिजनपरिग्रहः । 
-3 
-प्रासाद'करणप्रतिमा' प्रतिष्ठापन प्रणामप्रदक्षिणोत्सवादीनि प्रत्यक्ष- 
-1M1, M,, - ब्राह्मणस्यैव 
-1M1, M2, M7, B – क्षत्रियस्यैव 
-M. My - क्षत्रियस्येव 
-Mar 
-8 
-M3 - परिग्रहणम् 
-4 A - प्रसाद ° 
-5 Mg omits प्रतिमा 
-* अप्रयोजकत्वमेव प्रतिपादयति 'चैत्यवन्दनतः ' इत्यादिना । 
-+ See G.A. Grierson, “The Nārāyaniya and the Bhāgavatas", Indian Antiquary Vol. 37, p. 254 : 
-• The usual tradition is that it ( the Bhāgavata doctrine ) was transmitted : Dcity—Nārada-saints including the Sun – Rsis in his train-gods - Asita - 10 the world in different channels. Modern Bhagavatas recognise two great teachers of their religion. One is Narada, to whom is attributed Naradiya Bhaktisūtra. Equally esteemed is the collection of Sandilyabhakti-sutras. The author to whom II in attributed, composed the Śāṇḍilyavidyā quoted in the Chandogya Upanisad III. xiv. 3. " 
-See also p. 9 above, fn t 
-§ For a detailed account of temple-construction according to Pañcarātra- Irals, see Agastyasamhitā 1-106; Ahirbudhnya Samhitā XXXVI. 31-49; Isvara- raamhitā XVI. 1, 219-247; 266-287; Kapinjalasamhitā X 61-66; 69-72; Jayākhya- sumhitä XX. 73ff; Pādma ‘kriyā ' IV. 24-28, 35-45; V. 84-90; VIII; Pāramesvara A2-106; Pauşkara XL 92-109a, XLII. 71 - 118; Vismutilaka VI. 1-342a, 449-498; Samaikumāra 'Brahma VIII; Sättvata XXIV. 280-432a, XXV. 1-375; Hayasirsa ' Adi'. XIII. 1-41; XXXVIII. 61; XLIV. 12-19. 
-" 
-For the installation of images, see Aniruddha XV XXXIII, XXXIV; Isvara NVI. 228-352, XVIII. 1-560; Jaydkhya XX 131bff; Parama XVIII. 28.75; Puskara XXXVIII. 1ff, 15-46; Sanatkumāra " Brahma " VI. 110 passim, IX. pavriom Sättvata XXV. 307ff; 320I XXVI. 375. 
-१३० 
-मागमप्रामाण्ये 
-श्रुतिविहिताग्निहोत्रादिवत् श्रेयस्करतर' बुध्याऽनुतिष्ठतः शिष्टान् पश्यामः । न चैतदाचरणं' निर्मूलमिति युक्तम् | सन्ध्यावन्दनाष्ट- काचरणादेरपि निर्मूलत्वप्रसङ्गात् । उक्तं च शिष्टाचारस्य' प्रामाण्यम् - 
-अपि वा कारणाग्रहणे प्रयुक्तानि प्रतीयेरन्' इति । 
-* 
-[ पञ्चरात्रस्य भागवतपरिग्रहमूलकाप्रामाण्यारोपखण्डनम् ] 
-अिथ भागवतजन परिगृहीतत्वादिति हेतु:, हन्त तर्हि तत्परिगृहीतत्वात् वाजसनेयकैकायन शाखावचसां प्रत्यक्षादीनां च अप्रामाण्यप्रसङ्गः । 
-7 
-अथ तैरेव' परिगृहीतत्वादिति हेतु:, तदसाधारणानैकान्ति- कम्; असिद्धं च । किमिति वा तत्परिग्रहादप्रामाण्यम् ? अत्रैवर्णि- कत्वादिति चेत् किं भोः त्रैवर्णिकेतरसवर्ण रथकारनिषादादि" परि- गृहीतानुष्ठीयमानार्थानामाथर्वण वचसां $ रथकार आदधीत ', " एतया निषादस्थपतिं याजयेत्' इत्यादिवचसां प्रामाण्यं नास्ति ? 
-1M 2 omits तर; M3 -- श्रेयस्करता° 
-2 Mg -नितिष्ठत: 
-3 
-3 Mg - न चेत्तदाचरणम् 
-4 M1, M, omits स्य 
-Mg omits तत् 
-3 
-6 Mg - एतैरेव 
-7 
-Mo - परिगृहीतत्वादि 
-8 A omits at 
-9 M 3 – अत्रैव वर्णितत्वादिति 
-- 
-10 M2, M2, M, M, My - 'स्वर्ण' 
-11 Ma - निषदादि 
-12 M1, M, – 'अथर्वण ; Ms - अनुष्ठीयमानाथर्वण 
-For a description of Utsavas, which are as many as fifty in number, see Agastya V. 1-2; Aniruddha XVII. 9-162, XX 1-16, XXIV, XXV. 1-4, XXVII; Isvara X. 4a-10, XII. 1-233a, XIII. 1-265a, XIX. 469-473; Kapiñjala XXII. 3-5, 8-9; XXIII. 1-84a, XXIV. 1-69a; Pādma " caryā " X. 6-23, XI. 1-292, XIV. 1-85; Pārameśvara XVI. 1-55, XVII. 1-550, Sāndilya I, XV. 1-126; Sriprasna XXX. 79-87; Sanatkumāra " Siva " IX. 
-For the annual festival called Mahotsava, see Aniruddha XXI. 1-112; Iśvara X; Pādma " car " X1; Sripraśna XXXI. 8, XXXVIII. 
-★ 
-Pūrvamimāmsā Iiii. 7. 
-+ See p. 17 above, " एवं जात्या " & c. 
-§ The Ekāyanaśākhā belongs to the Sukla Yajurveda. $ Cf. Apastambasrautasutra V. 3. 19. 
-+ Maitrāyani Samhitā [ed Dr. Leopold V. reading found is: " तया निषादस्थपतिं याजयेत् सा हि तस्येष्टि : " nyāya see Sabara on Pūrvamimāmsā VI. 1. 51, 52. 
-Schroeder ] II. 2.4. The 
-For the Nisādasthapati - 
-सिद्धान्त 
-[ भागवतानामुत्कृष्टब्राह्मण्यसमर्थनम् ] 
-अस्तु वा अत्रैवर्णिक' परिग्रहः अप्रामाण्यहेतुः । एतेषां तु भगवच्छास्त्रानुगामिनां भागवतानामुत्कृष्टब्राह्मण्यं सर्वप्रमाणसम- बगतमिति तत्परिग्रहः प्रामाण्यमेव द्रढयति । 
-[ जातेः प्रत्यक्षत्वनिरूपणम् ] 
-आह' - केन पुनः प्रमाणेन एषां ब्राह्मण्यमवगतम् ? केन वाऽन्येषाम् ? 
-ननु चक्षुर्विस्फारणसमनन्तरं ' शिखायज्ञोपवीत पालाश दण्ड- मौञ्जी' जो द्विजकुमारकान् पश्यन्तो ब्राह्मणा इत्यवगच्छन्ति । 
-इह वा किम' हरहरधीय मानवाजसनेयकैकायनशाखान् विलम याजयतः, प्रतिगृह्णतो 
-दुपवीतोत्तरीयशिख शालिनोऽध्यापयतः, 
-विदुषः पश्यन्तो ब्राह्मणा इति नावयन्ति' ? 
-अथ याजनप्रवचनपालाश दण्डादीनां दुष्टशूद्रादिषु व्यभि चारसम्भवात् ब्राह्मण्यसिद्धवत्कारेण प्रवृत्तेश्च न तेभ्यो ब्राह्मण्य'- निर्णयः 12, तद्भागवतेतर विप्राणामपि समानम् " । 
-.14 
-अथ सत्यपि तेषां कचिद्यभिचारे, तत्सामान्यादन्यत्र '4 व्यभिचारशङ्कायां, शुक्तौ रजतधियो व्यभिचारात्, रजते रजत- 
-1 M 3 -- अत्र त्रैवर्णिक 
-2 Mg & Mg read तत्परिग्रह, omitting the 
-visarga. 
-3. M 2 – अथ 
-4 M - अनन्तरम् 
-B 
-D M1, M2, M, M, My B– पलाश 
-Mo - पालाशदण्डौ ° 
-Ma 
-7 My - मु 
-8 M1, M2, M., M,, My, B omit fau 
-9 M2. Mo - नावगच्छन्ति 
-10PM, M, B – पलाश 
-- 
-11 M3 – ह्मण्ये 
-12 A reads fa: 
-13 T records a variant साधकम 
-14 A—° अत्र 
-- 
-§ For a detailed notice of the origination, transformation and philosophy of the Bhagavata religion and its contribution to the Indian thought, see G. A. Girierson, " Th2 Nārāyaniya and the Bhāgavatas", Indian Antiquary, Vol. 37, pp. 
-251-262. 
-१४३ 
-धियां 
-1 
-भागमप्रामाण्ये 
-व्यभिचारशङ्कावत्, प्रत्यक्षविरोधात् अनवस्थानाच्च', अनुपलभ्यमानव्यभिचारोदाहरणेषु' तथात्वनिश्चयः, तदन्यत्रापि 
-समानम् । 
-वयं भार- 
-अथ मतम् - अन्येषां ब्राह्मण्यं तदसाधारणगोत्रस्मरणादिति, तद्भागवतानामपि समानम् । स्मरन्ति हि भागवताः द्वाजा: 1, वयं काश्यपाः, वयं गौतमाः, वयमौपगवा' इति । न चेदं गोत्रस्मरणं निर्मूलं सामयिकं वा; सर्वगोत्रस्मरणानां तथाभाव'- प्रसङ्गात् । 
-तथा हि- 
-सम्भाव्यमानदोषत्वात् वंशानां, यदि संशयः । तद्ब्राह्मण्ये, ततो लोकं सर्व व्याकुलयेदयम् || 
-जननीजार सन्देह 'जात' चण्डालसंशयः । * 
-11 
-12 
-निर्विशङ्कः 10 कथं वेदानधीषे " साधु सत्तम-2 ? ॥ 
-13 
-तेन भागवतानामपि अविच्छिन्न परम्पराप्राप्तविचित्र गोत्र- स्मरणपर्यवस्थापितं ब्राह्मण्यमनपोदितमास्त इति न भागवतानाम- न्येषां च ब्राह्मण्ये कश्चिद्विशेषः । यदि परं, ते परमपुरुषमेवाश्रिता एकान्तिनः, अन्ये क्षुद्रदैवतका: " साधारणा इति । 
-1 Mg - रजतधिया 
-2 My reads प्रत्यक्षविरोधानवस्थानाच्च 
-3 M1, M2, M2, M, My, B, omit षु 
-4 My - भरद्वाजा: 
-SM, omits वयमौपगवाः 
-6 M2, My - समाधिकम् 
-7 A omits भाव 
-8 Mo– सन्देहात् 
-- 
-9 P, PM - ° जात: 
-10 Mg — निर्विशङ्कम् 
-16 
-15 
-11 P, PM – वेदमधीषे; M 1 - वेदानधीते 
-12 PM, T – साधुसत्तम 
-M1, M,M,, B— सत्तमः 
-13 P & PM omit afq 
-14 A - अविभिन्न ; Mg - अव्यवच्छिन्न 
-3 
-15 Ma & B omit परं ते 
-16 All ptd. texts and mss. except M1, Mo – दैवतिकाः; M – देवताकाः; We chose the reading of M.. 
-* अयं बहुव्रीहि: 'त्वं' इत्यस्य अभ्याहृतस्य विशेषणम् । 
-सिद्धान्तः 
-किं पुनरेतेषां ब्राह्मण्ये प्रमाणमभिहितम् १ 
-* यदेवान्येषाम् । 
-केन वा तेषां ब्राह्मण्यमवगतम् ? किं न एतेन ? यदि च कौतूहलम् - 
-श्रूयतामुभयत्रापि ब्राह्मण्यस्या' वधारकम् । प्रत्यक्ष वाऽनुमानं वा यद्वार्थापत्तिरेव वा ॥ 
-१०३ 
-ननु कथं प्रत्यक्षं ब्राह्मण्यमवगमयति ? न हि प्रथमाक्ष' मनि- पातसमनन्तरमदृष्टपूर्वविप्रक्षत्र समानवयोवेषपिण्डद्वय सन्निधौ अज- गजमहिषादि' विशेषवत् 'अयं ब्राह्मणः, अयं क्षत्रियः' इति विभागेन' प्रतिपद्यामहे । 
-न च तत्पित्रादिब्राह्मण्यस्मरणसापेक्षमक्षमेव सन्निहितव्य- क्ति'वर्निब्राह्मण्यमवगमयतीति साम्प्रतम् । तत्स्मरणस्यैव पूर्वानुभव- विरहेण वन्ध्यासुतस्मरणवदनुपपत्तेः । 
-न चानुमानात् । तत्प्रतिबद्ध" लिङ्गादर्शनात् । 
-न च शमदम तपइशौचादयो" ब्राह्मण्ये" लिङ्गम् । तेषां 
-15 
-ब्राह्मणेन सता " सम्पाद्यत्वात् ", व्यभिचाराच्च । 
-1M1, M2, M6, M7, My, & B 
-omit अभिहितम् 
-2 B – एतेषाम् 
-A reads प्रामाण्यस्य 
-4 Mg & Mo add र 
-• ' A adds स्य 
-• Mg reads अजजगन्महिषादि 
-7 M1, M2, M, M & My read विशेषेण 
-• Mo omits अक्षम् 
-9 M 4 omits व्यक्ति 
-10 M1, M9, M, M2, My & Bomit तत् 
-11 Mg, Mo– प्रतिबन्ध; A- प्रतिलब्ध 
-12 M2 & My omit दम 
-O 
-13 M,, M2, M2, M, My & B – शौवादियोगः 
-14 M1, M2, Mg, My - ब्राह्मण्य 
-15 Mg - सदा 
-16 My - सम्पाद्यमानत्वात 
-● अन्येषां ब्राह्मणत्वेन प्रसिद्धानां ब्राह्मण्यग्रहणे यत्प्रमाणं तदेव एतेषां भागवतानां ब्राह्मण्यग्रहणे प्रमाण 
-तीति प्रन्थकूदचः । 
-↑ अस्माकमेतेन विवादेन को लाभः ? तथापि श्रूयतामिस्याह । 
-१७४ 
-मागमप्रामाण्ये 
-न चार्थापत्त्या ब्राह्मण्यनिर्णयः, अनुपपत्त्यभावात् । न च $ ' वसन्ते ब्राह्मणोऽग्निमा 'दधीत' इत्यादिवाक्यार्थानुपपच्या ब्राह्म- ण्यनिर्णयः, ब्राह्मण्यादि' पदार्थावगमपूर्वकत्वात् तद्वाक्यार्थावग- मस्य । 
-नायं दोषः । न हि प्रथमाक्ष' सम्प्रयोग समय एव भासमानं 
-। 
-प्रत्यक्षं नान्यदित्यस्ति' नियमः । यदेवेन्द्रिय व्यापारानुवृत्तौ सत्यां" अपरोक्षमवभासते ", तत् प्रत्यक्षम् । तथा च ब्राह्मण्यमिति तदपि प्रत्यक्षम् । प्रतीमो हि वयमुन्मीलित "लोचनाः, तत्सन्तति- विशेषानुसन्धान समनन्तरं वासिष्ठ - काश्यपीयशठ मर्षणप्रभृतिविचि त्रगोत्रकुलशालिषु समाचारशुचिषु विलसदुपवीतोत्तरीयशिखा- 13 मौञ्जीबन्धेषु स्फुटतरमनुसन्दधत् ब्राह्मण्यम् । 
-न चैतदलौकिकम्, यत् सन्ततिविशेषानुसन्धान सापेक्षमक्षं 14 ब्राह्मण्यं ग्राहयतीति । * सर्वत्र देशकालसंस्थानादी" तिकर्तव्यतानु- गृहीतमे 'वेन्द्रियं खगोचरपरिच्छेदोत्पादे करणं" भवति । करण- मात्रस्यायं स्वभावः, यदि तिकर्तव्यतापेक्षणम् । यथाऽऽह 
-1 All except Mg — अग्नीन् 
-We have selected the reading of M, 
-2 M1, M2, M4, M2, My & B 
-omit ब्राह्मण्य 
-3 M2, M7, My, B - ब्राह्मणादि ° 
-4 'B' omits तत् 
-5 M2 reads शेषः 
-6 Mg adds र 
-7 M2 - नान्यदस्तीति 
-8 PM - यदेवेन्द्रियम् ; M2 – यदेन्द्रिय; 
-Mg - यदेवेन्द्रिये 
-9 Mg & Mg — सत्यम् 
-$ Taittiriya Brāhmana I. 1.2. 
-19 
-10 M1, M2, M4, M2, My, B – भासते 
-11 T, V1, A – ° उन्मूलित 
-- 
-12 PM and all mss. except My - वसिष्ठ 13 M – शाखा° 
-14 M2, M4, M7, Bomit अश्चम् 
-15 M2, M6, Ms - संस्थानात् 
-16 M 4, B – ° इतिकर्तव्यानुगृहीतम् 
-17 M1, M2, M4, M2, My, B, read 
-स्वगोचरपरिच्छेदे 
-18P, PM, T, M3, Ms, Me, V & A - 
-कारणम् 19M - यथा हि 
-* Cf. Slokavārtika under I. 1.5, 51. 26 ( vanavāda ) : 
-' तस्योपलक्षणं चापि कचित् केनचिदिष्यते । 
-रूपादीनां विशेषेण देशकालाचपेक्षया । " 
-+ परिच्छेदः = ज्ञानं, निर्णयो वा । 
-९ करणमात्रम् = करणसामान्यम् । 
-' न हि तत् करणं लोके, वेदे वा किश्विदीदृशम् । इतिकर्तव्यता साध्ये यस्य नानुग्रहेऽर्थिता' ॥' इति । * ततश्च सन्तति स्मृत्यानुगृहीतेन चक्षुषा । 
-विज्ञायमानं ब्राह्मण्यं प्रत्यक्षत्वं न मुञ्चति ॥ तथा च दृश्यते नाना सहकारिव्यपेक्षया । चक्षुषो' जातिविज्ञानजनकत्वं यथोदितम् ॥ "सुवर्ण' व्यज्यते रूपात् ताम्रत्वादेरसंशयम् । तैलात् घृतं विलीनं च, गन्धेन तु रसेन वा ॥ भस्मप्रच्छादितो वहिः स्पर्शनेनोपलभ्यते । 
-' 
-अश्वत्वाद' च दूरस्थे निश्चयो जायते ध्वनेः ॥ 
-संस्थानेन घटत्वादि, ब्राह्मणत्वादि योनितः । 
-10 
-कचिदाचारतश्चापि सम्यग् राज्ञानु' पालितात् ॥ १" इति । 
-1 M3 & Mg - अर्थता' 
-2 M2, My - सन्तत 
-3 B - चक्षुषे 
-4P, PM - करणत्वम् 
-' M 2 – स्ववर्णम् 
-t 
-6M1, M2, M, Mo, B – अश्वरथादो 
-7 
-M1, M, विदूरस्थे ( no च ) 
-― 
-• M2, M2, M, M 7, B – भवति 
-M2,M2,M., M,, 
-• P, PM - राज्यानु; M1 -- आज्ञानु 
-10 M2 omits इति 
-Slokavārtika ( Sambandhāksepavāda ) under Li. 5.51. 37. 
-' इतिकर्तव्यतासाध्ये' अङ्गाधीने; ' मनुग्रहे' उपकारे; ' अर्थिता' सापेक्षता इति भावः । 
-Cf. Nyāyaratnākara ( Chowkhamba edn ) on the above verse p. 507 : 
-" सर्वत्र चक्षुरादौ प्रदीपार्थित्वदर्शनादैकान्तिकं सहायापेक्षणं नाशक्तिमापादयति । प्रत्युत इतिकर्तव्य 
-संध करणत्वं तदभाव एव तच सिध्यति । " 
-> 
-* Venkatanatha quotes this and the following verse in his Nydyasiddhdй- juna V. p. 267. 
-Cf. Prakaranapañcika III. p. 17 : 
-" जातिराश्रयतो भिचा प्रत्यक्षज्ञानगोचरा । 
-पूर्वाकारावमर्शेन प्रभाकरगुरोर्मता ॥ " 
-+ श्लोकवार्तिक इति भावः । 
-5 Cf. Slokavārtika ( Vakyādhikarana) 51.358, p. 947 : 
-" 
-पश्यतः श्वतिमारूपं हेषाशब्दं च मण्वतः । 
-खुरनिक्षेपशब्दं च वेतोऽवो भावर्तीति धीः ॥" 
-$ Vide told (Vanavāda ) I. 1. 5, 6ls. 27.29. 
-१९१४६ 
-आगम प्रामाण्ये 
-यत्समानवयोवेषपिण्डद्वय विलोकने । 
-तत्क्षणादक्षितो भेदो नावभातीति भाषितम् ॥ नैतावता * विभागस्य प्रत्यक्षत्वं निवर्तते । सादृश्यदोषात् तत्र स्यात् विभागस्यानवग्रहः ॥ समानरूपसंस्थान शुक्तिकाकलधौतयोः । 
-विवेकः सहसा नाभादिति', कालान्तरेऽपि किम् ॥ प्रत्यक्षो न भवेत् ? एवं विप्रक्षत्रविशां भिदा । यद्वा-सन्ततिविशेषप्रभवत्वमेव ब्राह्मण्यम् । तच्च अन्वय- व्यतिरेकाभ्यां यथालोकं कार्यान्तरवद ' वगन्तव्यमेव । 
-के पुनः सन्तति विशेषाः ? 
-येषु ब्राह्मणशब्दं प्रयुञ्जते 12 वृद्धाः । 
-13 
-केषु वा" प्रयुञ्जते " ? 
-10 
-उक्तं हि गोत्रार्षेयादिस्मृतिमत्स्वित्यनेकशः । आस्तामप्रस्तुता चिन्ता, प्राची प्रस्तूयते कथा । सिद्धं " गोत्रादियुक्तत्वात् विप्रा भागवता इति ॥ 
-1P, PM, T, A, M2, Mg, Mg, Me, 
-V1 - अक्षत: 
-2 My - भावितम् 3M – प्रत्यक्षं तु 
-4 B – विवर्तते 
-5 
-SM – योगात् 
-- 
-6 M 2 – नाभा दि 
-7 Mg —— एव 
-8 M2 & My - यथालोक 
-O 
-* विभागो भेदः, विशेषो वा । 
-† 
-10 M1— कथम् 
-9 A - कार्यान्तरात् ; M 1 -- कार्यान्तरम् 
-10 M, My – अवगम्यमेव 
-- 
-" P, PM-afa° 
-12 Mg, Mo— प्रयुज्यते 
-13 M2 adds न 
-14 PM – अप्रयुञ्जते 
-Cf. Prakaraṇapañcikā, III, p. 31: 
-15P, PM, T, Mg, M8, Ms, V1, & A, 
-omit and the line falls short of one syllable 
-" तेन सन्तति बिशेष प्रभवत्वमेव ब्राह्मणशब्दप्रवृत्तावुपाधि: । तस्प्रभवानामेव कर्मस्वधिकार इति न किञ्चिद- वहीनम् । के पुनस्ते सन्ततिविशेषाः ? न ते परिगणय्य निर्देष्टुं शक्यन्ते; किन्तु लोकत एव प्रसिद्धाः प्रत्येतन्याः । तथा च तज्जन्यत्वेऽवगते ब्राह्मणशब्दं प्रयुञ्जते लोकाः । 
-! 
-" 
-६ कपालद्वययोग एव घटोत्पत्तिः; नो चेन्न । एवं एतादृशपितृमातृकारणस्व एव ब्राह्मणस्वं न त्वन्यथा इति भावः । 
-| भागवतेषु वात्यादिशङ्कापरिहारः । 
-* वैश्यत्रात्यान्वये जन्म यदेषामुपवर्णितम्' | 
-" पञ्चमस्सात्वतो नाम विष्णोरायतनानि सः ॥ 
-· 
-पूजयेदाज्ञया राज्ञः, स तु भागवतस्स्मृतः । S' वैश्यात्तु जायते व्रात्यात्' इति वाक्यद्वयेक्षणात् ॥ 
-अत्र ब्रूमः - किमेताभ्यां वचनाम्यां प्रतीयते ? अभिधानान्वयो वा स्यात् ; नियमो वाऽभिधीयताम्' ॥ 
-न तावत् सात्त्वतभागवतशब्दौ वैश्यत्रात्याभिधायकावेवेति नियन्तुं शक्यौ; अप्रतीतेः, अतिप्रसङ्गाच्च । न हि 'पश्चमस्मावत' इत्यत्र सारस्वतभागवत शब्दयोः अर्थान्तराभिधान प्रतिषेधः प्रतीयते, श्रुतहान्यश्रुतकल्पनाप्रसंगात् । इह हि व्रात्यवैश्यान्वयजन्मा यः, 'पश्चमः सात्त्वत इति तस्य सात्त्वतसंज्ञान्वयोऽवगम्यते, 'पञ्चम - शब्दस्य प्रथम निर्दिष्टत्वेनोद्देशकत्वात । 
-न च पञ्चमस्य सात्त्वतत्त्वे', सात्त्वतेनापि वैश्यम्रात्यपश्चमेन भवितव्यम् । न हि उद्दिश्यमानस्याग्निमत्वे, उपादीयमानस्याग्नेः धूमवत्वेन भवितव्यम् । अतो न ईदृशस्मृतिपर्यालोचनया' मास्यत- 'भागवत शब्दितानां व्रात्यत्वनिश्चयः । 
-1 
-__Mg-वर्णनम् 
-• ॥ - नियते 
-' M1, M2, M, M2, My - अभिधीयते 
-1 My - अर्थान्तराभिधात्व 
-M, adds : 
-• 
-O 
-• Mg - हेतुत्वे 
-7 Mo— धूमत्वेन 
-- 
-8 M,, M4, Ms. B- "सर्वालोचनया 
-V1, A-पर्यालोचनतया 
-• M4. B° शब्दानां 
-See p. 13 above, for the pūrvapaksa view. 
-† To be identified. 
-& Cf. Manusmrti X. 23 : 
-" वैश्यातु जायते वास्यात सुधन्वाऽऽचार्य एव च । भारषश्च निजंघश्च मैत्रस्माश्वत एव न ॥ " 
-| 'उद्दिश्यमानस्य भूमवन इत्यर्थः । 
-१४८ 
-आगमप्रामाण्ये 
-यिदि पुनरनयोः जात्यन्तरेऽपि प्रयोगो दृष्ट इत्येतावता, तच्छ- ब्दाभिधेयतया भगवच्छास्त्रानुगामिनामपि। विप्राणां तज्जातीयत्व- निश्चयः, ततः तत्रैव' सहपठि *" ताचार्य' शब्दस्यापि निकृष्ट ब्रात्या- पत्ये प्रयोगदर्शनात्, साङ्गसरहस्यवेददातुः द्विजवरस्यापि वात्यत्वं स्यात् । 
-अथ तस्य व्रात्यवाचकाचार्यशब्दाभिधेयत्वेऽपि प्रामाणान्तरेणा- विप्लन' ब्राह्मण्यनिश्चयात्, आचार्यशब्दस्य ' ' आचिनोत्यस्य बुद्धिम्' इत्यादिगुणयोगेनापि वृत्तिसंभवात् न व्रात्यत्व' शङ्का, तदत्रापि जात्य- न्तरवाचक' सात्त्वतभागवतशब्दाभिधेयत्वेऽपि भगवच्छास्त्रानुगा- मिनाममीषामति स्पष्ट विशिष्ट गोत्रार्षेयादिस्मरणदृढावगतत्वात् " ब्रा- ह्मण्यस्य 12, सात्त्वत भागवत शब्दयोश्च सत्त्वति भगवति भक्ति- योगेनैव वृत्तिसम्भवात्, न व्रात्यत्वशङ्कावतारः । एतदुक्तं भवति -- 
-नैवैक 14 शब्दवाच्यत्वात् एकजातीयता भवेत् । माभूदाचार्यशब्दत्वात् ब्राह्मणस्य निकृष्टता ॥ 
-1 M 1 - इत्येतावता तच्छास्त्रानुगामिनामपि 
-2 Mg - तत्रैवम् 
-3 M1, M2, M2, M2, My & B – पदस्यापि 
-4 PM, M 1 – निष्कृष्ट 
-- 
-• P - द्विजपरस्यापि 
-• M 1 - प्लुत ; P, PM, T, M2, Mg, M7, My, V1, A – आप्लुत' 
-7M2, M4, M2, My & B add अपि 
-8M1 8 M 1 – वाक्यत्व' 
-• M2-alfa® 
-10 M – ° इति° 
-13 
-11 My -- ' दृढापातत्वात् 
-12 Mg - ब्राह्मणस्य 
-13P, PM, T, M, V1, A - सत्त्ववति; 
-Mg, My – सावति; Mg - सति 14P, PM, Tन चैक° 
-99 
-+ This paragraph is in elucidation of the word "atiprasangacca used in 
-the para 
-14 
-na tāvat " etc. above. 
-The term ' ācārya' is from the Manusmrti X. 23a : 
-" वैश्यात्तु जायते ब्रात्यात् सुधन्वाऽऽचार्य एव च । 
-99 
-t Cf. Nirukta ( Anandāśrama Series 88 ) I. ii. 4, p. 36 : 
-" 
-आचारं ग्राहयत्या चिनोत्यर्थान्, आचिनोति बुद्धिमिति वा " । 
-Also Cf. vihagendrasamhitā (ms. ) : 
-• आचिनोति परान् सर्वान् आचारयति सर्वतः । 
-माचरेत्यपि तान् लोकान् स तु आचार्य उच्यते ॥ [ XXII. 14] 
-$ " śabdyatvāt" would have been a better reading. But no text preserves this reading. As it stands now, the term "ācāryaśabdatvāt" has to be explained as a Bahuvrihi compound qualifying the term "Brāhmana". 
-ततश्च - 
-१४५ 
-तिथा च 'हरि' शब्दस्य दृष्टा मण्डूकवाचिता । 
-इति, तच्छन्दवाच्यत्वात् सिंहो मण्डूक एव किम् ? तथा ' 'गो' शब्दवाच्यत्वात् शब्दश्चापि विषाणवान् ? 
-' सुधन्वाऽऽचार्य' इत्याथा यथाऽर्थान्तरवाचकाः । व्रात्यान्वये प्रयुज्यन्ते, तथैवैतौ भविष्यतः ॥ 
-[ सात्त्वतादिशब्दानां रूढिरेवाश्रयणीयेत्युक्तेः निराकरणम् | 
-यदुक्तं योगरूढिशक्तिद्वयोपनिपाते सात्त्वत भागवत शब्दयो रूढिशक्तिरेवाश्रयितुमुचितेति, तदयुक्तम् । क्लृप्ता *वयवशक्त्यैवा- भिधानोपपत्तौ सत्यां अक्लुप्ताखण्डशक्तिकल्पनानुपपत्तेः । योऽपि हि मात्त्वतभागवतशब्दयोः वैश्यव्रात्यान्वयजन्मनि रूढि शक्तिमभ्युप- गच्छति, अभ्युपगच्छत्येवा सावन्यत्र 'सत्वद्भगवच्छन्दयोः प्रकृ 
-1M1 - पृष्टा; Ms - दृष्ट° 
-2 M1, M2 - यथा 
-3 Mo - वाचिका: 
-7 
-4 M2 reads योऽपीह ; Ms & Mo omit in 
-5 M1 & Mg - रूढ 
-6 PM - सत्त्ववत 
-7 My - सास्वतभागवतशब्दयोः 
-†This and the two succeeding lines are quoted by Sudarsanasūri in his commentary on Sribhāsya, I.i. 1, Vol. I, p. 153. 
-+ Manusmrti X 23a : " वैश्यात्तु जायते ब्रात्यात् 
-" 
-etc. 
-९ सुधन्वादिशब्दा यथा अर्थान्तरवाचका, एवं सात्त्वत भागवतशब्दावपीति योजना । ' यथार्थान्तर- 
-पाचका' इति न समस्तं पदम् । 
-$ See " रुख्या” etc., p. 12 above. 
-अवयवशक्तिः योगशक्तिः । 
-¶ Parāśarabhatta in his Viṣṇusahasranamabhāṣya' gives the following explanations for the term 'sattvata' identifying the latter with mahābhāgavata' | See Introduction to Jayakhya Samhitä] 
-(i) सत् ब्रह्म, सत्वं वा तद्वन्तः सारवन्तः, मझविधाः सात्त्विका वा; तेषामिदं कर्म शास्त्र पा शाश्वतम्, तस्कुर्वाणाः, तदाचक्षणाश्च वा । 
-(ii) सातयति सुखयस्याश्रितान् इति सात् परमात्मा; स एतेषामस्तीति वा सास्वताः । सारयन्ती 
-महाभागवताः । 
-The Mahābhārata, Asvamedhikaparvan [ Vavilla edn., Vol. XVIII | ch. 124, 18. 33-37 speaks in favour of the brahmanical status of the Bhagavatas: 
-१५० 
-- 
-आगमप्रामाण्ये 
-' 
-17 
-तिभूतयोः, तदुत्पन्नस्य च तद्धितप्रत्ययस्यार्थान्तराभिधान'साम- र्थ्यम् – " सात्वतं विधिमास्थाय ', ६' जन्मान्तरकृतैः पुण्यैः- नरो भागवतो भवेत्' इत्यादी । तदिहापि तद्योगेनैव व्रात्यान्वयजन्मनि वृत्तिसम्भवे न शक्त्यन्तरकल्पनायां प्रमाणं क्रमते । सम्भवति चैतेषामपि ' साक्षाद्भगवदाराधनाभावेऽपि वासुदेवस्यायतनशोधन- बलिनिर्हरणप्रतिमासंरक्षणादिक्रियायोगेनैव सात्त्वतभागवतशब्दाभि- लप्यत्वम् ', *" तस्येदम्' इति सम्बन्धमात्रेऽपि च ' अणू ' प्रत्यय- स्मरणात्। उिक्तश्च वैश्यव्रात्यान्वयजन्मनोऽपि भगवदायतन' शोधना- दिक्रियायोगः - 'सास्वतानां च देवायतन "शोधनं, नैवेद्य भोजनं, प्रतिमासंरक्षणम्' इति । तथा - $' विष्णोरायतनानि सः, पूजयेत् " " इति । 
-[ वृत्तिसाम्यात् भागवतानां व्रात्यत्वमिति पक्षस्य निराकरणम् ] एतेनेदमप्यपास्तं 12, 
-मिति । अन्यदेव हि 
-1 M2 and My omit from जन्मनि 
-above upto अभिधान 
-2M 1 omits पुण्यै: 
-3 All except 'T' read वृत्तिसम्भवेन, 
-as one word. 
-4 M1, M2, M, M 7, My, B – कल्पने 
-5A, M, omit क्रमते 
-6 PM, A omit अपि 
-7 My adds देवस्यायतनशोभा 
-66 
-यदेषामपि वृत्तिसाम्यात् " व्रात्यत्व- देवायतन "शोधन बलिनिर्हरण' प्रतिमा- 
-8 M 1, Mo – शब्दाभिलब्धत्वम् 
-P, PM - शब्दाभिधेयत्वम् 
-9 Mg - भागवतायतन; P, PM add आदि 
-10 M1, Ma, M, देवतायतन 
-11P, PM, T, A, V1 संपूजयेत्. 
-12 M, B – ° उपास्तम् 
-13 B – वृत्तिसामान्यात् 
-14 Mg — वाक्यत्वम् ° 
-15 Mg & My - देवतायतन' 
-16 M, बलिहरण 
-अपार्थकं प्रभाषन्ते शूद्रा भागवता इति । न शूद्रा भगवद्भक्ता विप्रा भागवताः स्मृताः || सर्ववर्णेषु 
-ते शूद्रा ये भक्ताः जनार्दने । द्वादशाक्षरतत्त्वज्ञः चतुर्वेदविभागवित् ॥ अच्छिद्रपंच कालज्ञः सबै भागवतः स्मृतः । ऋग्वेदेनैव होता च यजुषाऽध्वर्युरेव च ॥ सामवेदेन चोद्गाता पुण्येनाभिष्टुवन्ति माम् । अथर्वशिरसा चैव नित्यमाथर्वणा द्विजाः ॥ स्तुवन्ति सततं ये मां ते वै भागवतास्स्मृताः ॥ 
-+ अमुमेव प्रत्ययं ' अण् ' इति स्वयमेव निर्दिशति । 
-$ Mahābhārata, Bhisma, ch. 62. 81. 396. 
-f Paramasamhitā, III. 38b. 
-* See Siddhāntakaumudi, IV. iii. 120. 
-† See p. 14 above where the word was used. 
-tt To be identified. 
-१५१ 
-संरक्षणादिकम्, अन्ये च अभिगमनोपादानेज्यास्वाध्याययोगाः *" भागवतै रहरहरनुष्ठीयमानाः क्रियाकलापा' इति, ज्योतिष्टोमादाविव । गधैव' हि ज्योतिष्टोमे' ग्रहचमसजुह्वादिपात्र करणतक्षणाविषु तक्ष्णो व्यापारः, ऋत्विजस्तु विशिष्टमन्रोचारणदेवताभिष्टव' प्रभृतिषु न च तावता तेषां लक्षणां चैकजातित्व 'संशयः, एवमिहापि भगवच्छास्त्र- सिद्धपाञ्च कालिकानुष्ठातॄणामन्येषामायतन' शोधनादि कुर्वतां प्रासा- द' पालकापर' नाम्नां व्रात्यानां चेति । 
-210 
-[ रथकारन्याय विवरणम् ] 
-+ यत्पुनरुक्तम् - सात्त्वत भागवत शब्दयोः यौगिकत्वे 11 8' रथ- कार आदधीत' इत्यत्रापि रथकारशब्दस्य रथकरण - योगेन ॥ त्रैवर्णिक- 
-1 Me, B - योग 
-2 A, M - क्रियायोगाः 
-1P, T, M3, Ms, Mo V1, A - तथैव 
-4 Mo – ज्योतिष्टोम ° 
-5 B – अभिषव 
-• M. -- एकजातीयत्व' 
-7 M., B add arfa 
-8 My - प्रसाद 
-9 Ms - पालिका पर ; P - ° पालकावर 
-10P, PM, T, M3, Mg, Mo, V1 - अन्नबानाग 
-11 Mg, Mo & B -योगिकस्वे 
-12 M1, M, रथकारण 
-Vide Journal of Royal Asiatic Society, ( 1911), p. 948 : 
-The Pañcakāla or Five-Time-observances enjoined on a Bhagavatu nre : (i) abhigamana : morning prayer, abluting etc., (ii) upādāna: fetch- ing articles of worship, (iii) ijyā : divine worship, (iv) svādhyāya : study 
-of the sacred lore and (v) yāga or yoga : divine meditation. 
-The day, from 4 a.m. to 10 p.m. is to be divided into five divisions for each of these acts. Cf. Pādmasamhitā: Caryāpāda : XIII : 3-4a : 
-+ 
-" ādyari karmābhigamanamupādānamatah param | 
-ijya ca paścāt svādhyāyastato yogastataḥ paraṁ || 
-pañcaite vidhayasteṣām kālāḥ pañcaiva te kramāt " 
-For a definition and explanation of these five terms, see ibid: sl. 4b, ff. 
-" Graha ", Camasa", etc., are the names of cups into which vma-juice is poured during a sacrifice. Cf. Sabara on Pūrvamimāmsd : III.i. 16, p. 158 : “ grahādi somapātram". 
-t See p. 12 above for the pūrvapaksa. 
-& Cf. Apastambasrautasutra, V. 3.19. 
-1 रथकरणरूपयोगशक्त्या । 
-१५२ 
-भागमप्रामाण्ये 
-वृत्तिप्रसङ्ग इति, तदनुपपन्नम् । युक्तं हि * तत्राधानोत्पत्तिवाक्या व- गतवसन्तादिकालबाधप्रसङ्गात्, **' सौधन्वना' भवस्सूरचक्षस' इति मत्रवर्णावगतजात्यन्तरवृत्तिबाधप्रसंगाच । SS' माहिष्येण कर- ण्यां तु रथकारः प्रजायते ' इति स्मृत्यन्तरावगत'जात्यन्तरत्वेऽपि, 'क्षत्रियवैश्यानुलोमोत्पन्नो रथकारः, तस्य' इज्याधानोपनयन क्रिया- 
-1 M2 —–सौधन्वा ; Mg - सौधन्वाना 
-2 PM - माहिषेण 
-3P, M2, Ms - करिण्याम् 
-4P, PM, T, M1, Mg, Mg, M89 
-* 
-अध्यवसानम् ' इति शेषः । 
-44 
-V, A - स्मृत्यनगत 
-5 M, reads रथकारस्य for तस्य; there is no separate रथकार: preceding. 
-§ The “ādhāna utpattivākyas" referred to here are : " vasante brāhmano gnimādadhīta ”, “ grisme rājanyah" and " śaradi vaiśyah " ( Taittiriya Brāh- mana, l.i.2.1.) 
-Vide Karmamimāmsā, pp. 86-87 : 
-"The direction to perform an offering is laid down in an originating injunction ( utpattividhi) or an injunction of application ( viniyogavidhi), accord- ing as the matter concerned is a principal or a subordinate offering. The originating injunctions are few in number relating as they do, to the principal Vedic offerings only, such as the Agnihotra, the New and Full-moon sacrifices, the Soma sacrifice and so forth...The originating injunctions, however, do no more than excite in the mind of the bearer the desire to perform the action which they enjoin, generally in the form of a sacrifice; it remains for other in- junctions, those of application (viniyogavidhi), to denote the exact manner of procedure (itikartavyata) by specifying the numerous subsidiary actions requi- site, and the materials and other necessaries for the performance.' 
-** Rgveda : I.110.4. 
-SS Yājñavalkyasmrti : ācārādhyāya : Iiv.95a. 
-99 
-No printed text of the Sankhasmrti contains this passage. It is however, traced in the "Reconstruction of the Dharmasutra of Sankha and Likhita", attempted by Dr. P. V. Kane, in the Annals of the Bhandarkar Institute, Vol. VII, p. 115. The passage was numbered 76 there. The reading found is : "kṣatriyavaiśyānulomāntarotpannajo rathakāraḥ, tasyejyadhānopanayanasams- kārakriyā aśvapratiṣṭhā rathasūtravāstuvidyādhyayanavṛttită ca ". This passage appears in the Mitākşarā on Yājñavalkyasmrti : I-95 and in Aparārka. The Mitākşarā [ Chowkhamba Sanskrit Series No. 62] has a variant : " katriyavais- yanulomāntarotpanno yo rathakāraḥ ". 
-१५३ 
-इषा प्रतिषिद्धाति शङ्खवचनात् विद्यामाध्येऽपि कर्मण्यधिकारा- विरोधात् त्रैवर्णिकानां च शिल्पोपजीवित्वस्य प्रतिषिद्धत्वेन तेषु रथकार शब्द त्यानुचितत्वाच्च' जात्यन्तरवाचित्वाध्यवसानम् । न चेह तथा विरोधोऽस्ति । अपि च- 
-। 
-क्लुनावयवशक्त्यैव लब्धे' स्वार्थावबोधने । निष्टावयवनामत्वं प्रत्याचष्ट' च सूत्रकृत् ॥ 
-६' प्रोक्षणीध्वर्थ संयोगात्' इति । 
-[ सात भागवत शब्दव्युत्पत्तिप्रदर्शनम् ] 
-* ततश्च सत्त्वान्' भगवान् भज्यते यैः परः पुमान् । ते 'सात्रता', 'भागवता' इत्युच्यन्ते द्विजोत्तमाः ॥ 
-1 Mg omits न 
-2A, M2, M, M - वाचित्राद्यवसानम् 3 A - लब्ध 
-• All edns. and mss except M2. read 'मानत्वम्; We have adopted the read- 
-ing of Mg. SM- प्रस्याचष्टे 
-6P, PM, T, M1, M2, M8, Mo. 
-My - सवात् 
-7 Mg omits पर:, spoiling the metre. 
-↑ नष्टात्र यवतं योगशक्ति दित्यम् । 'नाम 'पदेन प्रतिपादिकमुच्यते । नष्टात्रयव नामत्वं हरिम् इत्यथः । 
-& Pūrvamāmāmsā : Iiv. 11. This aphorism mens that in words like " prokşani,' the etymological significance itself is applicable; ie, the word is to be taken in its etymological sense alone and not the conventional one, for the former is quite compatible with the la'ter. The advantage of this ra over the preceding sūtrus is that all liquids are meant by the term " proksanl", and not water alone. 
-* For a definition of the term Bhāgavata see Pā Imasamhita, Caryāpada, 11. 91b-95a and XXI 14-15 For an interesting account of the o igin and nignificance of the term Sättvata see J Przyluski, Sārvant, Sātvata and Nasatya', IIIQ, Vol. IX pp 83 91. 
-For a glorification of Pañcarātrins along with Vaikhānasas, see Mihd- 
-bhdrata, Anuśāsana [ Vavilla edn Vol. XVI], ch. 78 : 
-46 
-यतयो मोक्षधर्मज्ञा योगिनइन रितवताः । पाश्चराश्रविदो मुख्यास्तथा मागवताः परे ॥ [24] बैखानसाः कुलश्रेष्ठाः बंदिकाचार वारिण: ।" [ 2 ] 
-“graðð eqtufa jatearga Julia 4 "" [28b] 
-१५४ 
-आगमप्रामाण्ये 
-स्मृत्यन्तराणि च भागवतानामुत्कृष्टब्राह्मण्यप्रतिपादकानि ' परस्तात् प्र' दर्शयिष्यन्ते ॥ 
-[ सावतादिव्यपदेशे न्यायप्रदर्शनम् ] 
-यत्पुनरुक्तं समाने ब्राह्मण्ये किमिति सात्त्वतभागवतैका - न्तिक' शब्दैरेव एतेषां नियमेन व्यपदेश इति, तत्परिव्राजकनिगदा- दिवदित्यदोषः । यथैव हि समाने ब्राह्मण्ये, ययुष्ट्वे च', केचिदेव ब्राह्मणाः, कानिचिदेव' यजूंषि ' परिव्राजकनिगद ' शब्दाभ्यामधी- यन्ते - " तिष्ठन्तु ब्राह्मणाः परिव्राजका आनीयन्ताम् ', * * यजूंषि वर्तन्ते, न निगदाः; निगदा वर्तन्ते, न यजूंषि ' इति च, तथेहापि भविष्यति । निगदाः - चतुर्थ मन्त्रजातम् । 
-यजूंषि वा तद्रूप- 
-8 
-10 
-त्वात्' इति न्यायाभिधानात् । 
-** 
-12 
-[वृत्त्यर्थपूजनादिना भागवतानामब्राह्मण्यमिति वचनस्य निरासः ] SSवृत्यर्थ 'देवतापूजा नैवेद्यप्राशनादिभिः 2 | 
-दौर्ब्राह्मण्यं यदप्युक्तं, तत्र प्रतिविधीयते ॥ 
-1P, PM, T, V1, A, add इति 
-2 M2 & My omit प्र 
-3 Mg reads सामान्येन 
-4 M1, M2, M4, M2, My, omit क 
-5 M2, Ms, My – तेषाम् 
-6 
-• A, Mo-यजुव 
-7 M2, My - केचिदेव 
-6 
-8 T records variant अभियन्ते ' 
-9 M1, M2, M7, My, B, omit च 
-10 B' adds fa 
-11 P, PM- वृत्यर्थम्° 
-12 Mg reads “प्राशनादित: 
-† No such smṛtis are however, quoted by the author in the remaining portion of the text. 
-§ See p. 12 above, for the purvapakṣa-view. 
-t See Pūrvamimāmsā, II. 1. 35-37 : " तेषां ऋक् यत्रार्थवशेन पादव्यवस्था ", " गीतिषु समाख्या ", " शेषे यजुश्शब्द: ", for the definitions of rk, sāman and yajus respectively. By the last of the above sutras, the group of mantras called "nigada" also comes to be known as " yajus ". 
-$ Cf. Śabara under II. i. 43, p. 89. 
-** Cf. ibid. under II. 1. 39, p. 89. 
-* Vide Püryamimānsā II. 1. 40. 
-SS See p. 15 above. 
-तद्यथा 10. 
-*"" 
-सिद्धान्तः 
-| अर्थनस्य द्वैविष्यप्रतिपादनम् | 
-न हि भागवतैस्सर्वैः वृत्तयेऽभ्यते हरिः । दृष्टा हि बहवः स्वार्थं पूजयन्तोऽपि सात्त्वताः ॥ केचिद्यदि परं सन्तः सात्त्वता वृत्तिकार्शताः । पूजयन्ति महाभागा वैष्णवा' वृत्तिकारणात् ॥ न तावतैषां ब्राह्मण्यं शक्यं नास्तीति भाषितुम् ' | न खल्वाध्वर्यवं कुर्वन् ज्योतिष्टोमे, पतिष्यति ॥ यदि न प्रतिगृह्णीयुः, पूजैव विफला भवेत् । पूजा साद्गुण्यसिध्यर्थमतस्ते प्रतिगृह्णते || 
-7 
-+ अर्चनान्ते हिरण्यं च तस्मै देयं स्वशक्तितः । 
-अन्यथा पूजकस्यैव तत्र पूजाफलं भवेत् ॥ " हन्त्यल्पदक्षिणो यज्ञ' इत्यादिस्मृतिदर्शनात् । ऋत्विजा द्रव्यलुब्धेन, स्वयं याच्जापुरस्सरम् || यदात्र्त्विज्यं कृतं कर्म, तदेव हि निषिध्यते । 
-11 
-12 
-13 
-१५५ 
-यदा" शंसमानमा 2 त्र्त्विज्यं कारयन्ति 'उत वा मे दयात् 
-P, PM - अभ्यर्चितो 
-2 M1-of 
-• P, PM, T, Mg, Mg, Me, V1, A- याजयन्ति 
-• All edns. and mss. except M & M, read महाभागैः वैष्णवै: - We have adopted the reading of M1 & M, 
-' M4 – भाषितम् 
-- 
-• Mg – अध्ययनम् 
-1 A - स्वशक्तिभिः | Paramasamhitā has 
-t Paramasamhitā, XVII. 46b-47a. 
-t Manusmrti, XI. 40b. 
-* 
-असंशयम् here. 
-8 Paramasamhitā has देवपूजाफलं for त 
-0 
-पूजाफलम् 
-M, & M, omit this and the two preceding lines. 
-10 M1, M2, M2, My - यथथा 
-11 M— यथा 
-12 M1, M4, M, -पदाशंसमानम् ; M2. My - 
-यदशं समानम्; B – यथाशंसमानम् 
-13 Mg adds इति 
-Cf. Aitareya Brāhmana XVii. p. 418 | Anandāśrama Skt. Ser. 32, 
-with Sāyana's commentary] The passage reads thus :१५६ 
-मागमप्रामाण्ये 
-उत वा मा वृणीने 'ति, तद्ध तत्परागेव', यथा जग्धम् ; न हैव ' 
-तद्यजमानं भुनक्ति 
-" इति । 
-श्रद्धापूतदक्षिणादानं तुभयोरपि श्रेयस्करमेव ' । 
-" योऽर्चित प्रतिगृह्णाति दद्यादर्चितमेव च' । तावुभौ गच्छतः स्वर्गम्' इत्यादिस्मृतिदर्शनात् ॥ 
-[ भागवतेषु देवलकत्वशङ्कानिरासः ] 
-* यदपि वृत्त्यर्थ देवपूजनात् देवकोशोपजीवित्वाच्च देवलकत्व - प्राप्तिरिति, तदपि देवतान्तरवृत्यर्थाराधनतत्कोशोपजीवन' विषयमिति द्रष्टव्यम्' । 
-तथा च " भगवान् व्यासः- 
-IM & M – तच्च परागेव 
-2 M· - दग्धम् 
-3 All edns. and mss. except Mg & A 
-read न हैवम् . ' A ' has सदैबम्; We have adopted the reading of M.. 
-4P, PM – त्यज्यमानम् ; for तब जमानम् 
-14 
-; 
-5M 1 - एवम् 
-6 My - वा 
-7 P, PM - वृत्यर्धम् 
-8M1, M2, M4, M,, My, B, omit 
-तस्कोशोपजीवन 
-9 M, B, omit द्रष्टव्यम् 
-- 
-10 Mg – तथाह 
-taddhaitadeva jagdḥam yadāśaṁsamānamārtvijyaṁ kārayata uta vā me dadyāt uta vā mā vṛṇiteli taddha tatparāñeva yatha jagdham na haiva tad yajamānam bhunakti ". 
-This passage points out that a careful jajamāna should avoid greedy priests who perform three types of objectionable offerings in sacrifices. Cf. ibid. p. 417 : “ trini ha vai yajñe kriyante, jagdham, girnam, vānam ". 
-Vide Sayana's commentary on it : 
-4. 
-tanyetāni trīņi durbuddhibhir yajõe kriyante jagdhādisthāniyāni trīni, varjaniyānityarthah." 
-For more information on this, see Sāyana's commentary, p. 411. 
-+ Vide Manusmrti. IV-238. The remainder of the verse is " narakami tu viparyave". The term "arcitan" should be understood in the sense of 
-" arcanápurassaram". It is an adverb and not a noun. 
-This verse is also found in the Mahabharata, Ava nedhika [ Vavilla 
-edn. Vol. XVIII. ] ch. 112, śl. 30. 
- See pp. 15-16 above, 
-" भवेद्देवलको यो वै रुद्रकाल्युपजीवकः । ' इति । अपि भवति शाण्डिल्यवचनम् - 
-तथा- 
-वृत्यर्थ' याजिनस्सर्वे दीक्षाहीनाश्च केवलम् । कर्मदेवलका एते' स्मृता यत्र पुरा मुने || 
-तिांश्च संवत्सरादूर्ध्वं न स्पृशेत्, न च संविशेत् ॥ 
-किल्पदेवलकाः केचित् कर्मदेवलका अपि । 
-अथ त्रिवर्षादूर्ध्वमयोग्या' देवकर्मणि ॥ यि कल्पोक्तं प्रकुर्वन्ति दीक्षाहीना द्विजातयः । 
-वृत्त्यर्थं वा, यशोऽर्थं वा, कल्पदेवलकास्तु ते ॥ 
-[ देवलकशब्दार्थकथनम् ] 
-वृत्तिं कृत्वा तु विप्रेण दीक्षितेन विधानतः ॥ अन्येन पूजयेद्देवमशक्तः स्वयमर्चने ॥ * 
-यजनं मुख्यमेवैतत्, गौणमेवान्यथा भवेत् ॥ अन्यथा' इति ' अदीक्षितेन' इत्यर्थः । तदेव' स्पष्टयति- 
-अदीक्षितेन विप्रेण येन केन विधानतः । वृत्यर्थं यत्कृतं कर्म तज्जघन्यमुदाहृनम् ॥' इत्यादि- 
-1 'B' omits यो, in which case the 
-metre becomes defective. 
-2 P, PM – रुद्रकाद्यपजीवकः; M1. M2, M 60 
-M,, My, B, read रुद्रकोश।पजीवकः 
-t To be identitied. 
-Puramasamlna, XVII. 46a. 
-Cf also ibid., 8b : 
-3 M2, Mg – अमि 4P, PM - वृत्यर्थम् 
-5M 1 - ; My —ये ते 6 M2 – अयोग्य: ; Mg — योग्याः 
-7 M2- एतदेव 
-- 
-" अन्येन वैष्णवे 
-शूज | " 
-१५८ 
-स्मृतिशनपर्यालोचनया' 
-आगमप्रामाण्ये 
-पञ्चरात्रसिद्ध दीक्षासंस्कारविर 'हितानां 
-ब्राह्मणानां देवकोशोपजीवनवृत्त्यर्थपूजनादिकमु 'पब्राह्मणत्वदेवलक- 
-त्वावहमिति निश्चीयते । 
-[ भागवतानां निर्माल्यनिवेद्योपयोगप्रयुक्ताशिष्टत्वनिरासः ] 
-यत्पुनः शिष्टविगर्हितनिर्माल्य निवेद्योपयोगात् भागवताना- मशिष्टत्वमिति, तत्र ब्रूमः । किमिदं' निर्माल्यं निवेद्यं चाभिप्रेतं श्रोत्रियस्य ? 
-[ तत्र निर्माल्य निवेद्यशब्दार्थनिरूपणम् ] 
-पुष्पौदनादि' मात्रं चेत् सर्वलोकविरुद्धता' । पुष्पौदन' परित्यागं न हि लोकोऽनुमन्यते ॥ विशिष्टप्रतिषेधोऽपि न युक्तः तदसिद्धितः ॥ 
-न हि अनिरूपित विशेषणा विशिष्टबुद्धिराविरस्ति । न चेह विशेषणं निरूपयितुं शक्यते । 
-किमिति न शक्यते, यावता देवतोद्देशेन " परित्यागो विशेषणम् ? 
-* किमिदानीं पञ्चरात्रशास्त्रमपि प्रमाणमङ्गीकृतं भवता, येन 
-1P, PM, T, M1, Mg to M2, V1, A, B – 
-'पर्यालोचनात् 
-2 M2 adds another सिद्ध 
-6 M1, M2, M4, M2, My, B – किमिदानीम् 
-7 All but P, PM – पुष्पोदनादि 
-8 
-P, PM, T, Ms - अविरुद्धता 
-3 Mg omits र 
-4 M 1 -- ° पूजादिकम् 
-5M2, M2, My, B --अत्र 
-• All but P, PM - पुष्पोदन 
-10P, PM, T, Mg, Mg, Mg, V1, A, 
-B— देवोद्देशेन 
-§ See p. 15 above for the opponent's view. 
-For a detailed discussion on this subject, see Vedanta Desika's Saccari- traraksā, Adhikāra III. 
-The discussion here is, whether or not the usage of nirmalya, nivedva, etc., contradicts the genuine character of the Bhāgavatas. The Mimamsaka cannot attribute non-brahmanical character to the Bhagavatas, says the author, on the ground that they use nirmälya and nivedya prohibited is some smrif-texts. 
-सिद्धान्तः 
-१५९ 
-पञ्चरात्रतत्र विहितमन्त्रप्रतिष्ठापितप्रतिमासु देवतात्वम 'भ्युपेत्य तदु- देशेन त्यागो विशेषणमभिलप्यते ? 2 कथं हि तत्प्रामाण्या 'नभ्युप- गमे', तत्प्रतिपाद्यमानाया देवतात्वं, कथंतरां च ' तदुद्देशेन त्यक्तस्य' निर्माल्यनिवेद्यभावः ? 
-* न हि काचित् जात्या देवना नामास्ति' । यैव हि हविःप्रति- योगितया प्रमाणभूनात् शब्दादवगम्यते सा तत्र देवतेति हि षसिद्धान्तः । 
-11. 
-13 
-अथ पाश्च" रात्रिकैः देवनोद्देशेन परित्यक्तत्वाभ्युपगमात् " निर्माल्यनिवेद्यभाव: 14, हन्त तर्हि तैरेव परमपावनतयापि निर्माल्य- 
-OP, PM, T, M1, M2, M4, M 5, M6, 
-My, B – देवताम् ; M, reads वासुदेवताम् (no प्रतिमासु before ) 
-- 
-± P, PM, T, Mg to M, V1 – अमिलप्यते; 
-Mg & My - अभिलक्षते 
-3 A, B कथं तर्हि प्रामाण्य 4 Mg ° अभ्युपगमे 
-M1, M2, Mg, M2, My & B, omit तरां च; Mg has a lacuna from तत्प्रति- पाद्यमानायाः above, up to च here. 
-6A, Mg, V1, omit तदुद्देशेन त्यक्तस्य 
-7 My omits from न हि upto निर्मायनिवेद्य- 
-भावः । 
-8 M 2 - कश्चित् 
-9 Mg - देवतानामस्ति 
-10 A, B – हरिः प्रतिगृहीतृतया 
-- 
-11 M,-7° 
-12 M1, M2, M., M, & B, omit qft 
-13 B – परित्यक्ताभ्युपगमात् 14 See note 7 above. 
-First of all, the prohibition pertains to the nirmalya and nivedya offered to deities other than Vişņu. Secondly, the Mimāṁsaka has to qualify the terms " nirmālya” and “ nivedya", even to refute their usage, because flowers and food in general cannot be termed so. He might say that " 
-He might say that " nirmalya" and " nivedya” are things offered by the Páñcarātrins to some deity; but this state- ment lands him in trouble, since he does not admit of any deity with a personality and also because such a statement would imply his acceptance of the validity of the Pañcaratra-texts. Without admitting their validity as the starting point, he cannot speak of a deity, and flowers etc., being offered to that deity. 
-* Cf. Tantravārtika under I. iii. 10, p. 172 : 
-" 
-विधिनैव हि देवखं प्रतिकर्मावधार्यते । न जात्या देवतास्वं हि कचिदस्ति व्यवस्थितम् ॥' Cf. also Prakaranapañcikā, V. p. 105 : 
-देवतोदेशेन द्रव्यत्यागो याग: । ...... स्तोत्रं शरणं यद्गुणन गर्न । यदुद्देशेन च हविषां त्यागश्चोते, AI नव याज्ञिकान देवताशब्दप्रयोगात् । यत्र हि गावेनानुपाने प्रवृत्तोऽभिमुद्दिश्य इविरस्यजति मात्र देवतेति । ' 
-१६० 
-भागमप्रामाण्ये 
-निवेद्योपयोगस्या'ङ्गीकृतत्वात् तद्वदेव परम' पावनत्वमङ्गीक्रिय- 
-ताम् । 
-अधापावनमेव तैः पावनबुध्या परिगृहीनमिति न तत्प्राशस्त्य- मङ्गीक्रियते, हन्न तर्हि अदेवनैव देवनाबुध्यारोपेण' तैः परिगृही- तेति न तदुद्देशेन त्यक्तस्य निर्माल्यनिवेद्यभावोऽङ्गीक्रियताम् ।' 
-एतदुक्तं भवति - पुष्पोदनादि 'स्वरूपमात्र' त्यागस्यानिष्ट- त्वात् स्वदर्शनानुसारेण च विशेषणासंभवात्, परदर्शनानुसारेण विशेषणनिरूपणे, तस्यैव परमपावनत्वापानात्, तत्र प्रामाण्यम. भ्युपगच्छद्भिः, अन्यैश्न निर्माल्यनिवेद्योपयोगोऽवश्याङ्गीकरणीय इति । 
-[ निर्माल्य निवेद्योपयोगो निषिद्ध इति पूर्वपक्ष: ] 
-आह— कथं पुनः तत्र "प्रामाण्य मंगीकुर्वता निर्माल्यं निवेद्यं च न परिहरणीयम् ? 
-निषिध्यते " हि तत्रेषु निर्माल्यप्राशनादिकम् । यथा सनत्कुमारीयसंहितायामुदीरितम् ॥ 
-12 
-" निवेदितं तु यद्धव्यं । पुष्पं फलमथापि वा । तन्निर्माल्यमिति प्रोक्तं ", तत् प्रयत्नेन वर्जयेत् ॥' 
-13 ', 
-1 Mg - नित्यत्वा पयोगस्य 
-2 M2 & My alone have परम, while all 
-other edns. and mss. omit it. 
-3 M1 M 2 - देवता बुध्या रूपेण 
-4 M, सेव 
-- 
-5 M, omits this whole para, from 
-upto here. 
-6 P, PM – पुष्पौदनादि 
-7 M, & M, add 
-8 M2, My - विशेषणरूपेण 
-• All ptd. texts and mss. except Mo & M, read a; we have adopted the reading of M4 & Ms. 
-10 Here again, all ptd. texts and mss. 
-except M & Mo read तत्र; we have adopted the reading of M & Mg. 11 'B' adds न here, spoiling the metre. 12 My - यत्सिद्धम् 
-13 M – निर्माल्यमिति यत्प्रोक्तम् 
-- 
-Published by the Adyar Library and Research Centre, Madras, 1969. 
-+ Sivarātra, V. 48b49a. Also Cf. Paramasamhitā XII. 36b-37a : 
-64 
-44 
-पूजायां विनियुक्तं तु यद्दत्र्यमिह पूजकैः । निर्माल्यमिति विज्ञेयं म कार्येषु वर्जिनम् ॥” 
-Cf also Vasisthasamhitā (ms VII. 52b-5a : 
-" निवेदतं वयं फलनवापि वा । निर्माल्यमिति तं [ तत् ? ] चैत्रप्रयमेन विवर्जयेत् ॥ " 
-" 
-सिद्धान्तः 
-149 
-44 
-तथा प्रदेशान्तरे- 
-1" निर्माल्यं भक्षयित्वैवमुच्छिष्टम गुरोरपि । 
-मासं पयोव्रतो भूत्वा जपन्नष्टाक्षरं सदा || 
-** ब्रह्मकूर्च ततः पीत्वा पूतो भवति मानवः ॥ ' इति । तथेन्द्ररात्रे - 
-था 
-* 
-न चोपजीवेद्देवेशं न निर्माल्यानि' भक्षयेत् ' | 
-" न चोपयोग' योग्यानि निर्माल्यानि कदाचन ॥ ' इति । तथा संहितान्तरे- 
-इति । 
-S' निर्माल्यानि न चाश्नीयात् ', न जिघेन्न च लंघयेत्' । 
-तदेवमनेकसंहितासमधिगतनिषेधस्य 
-कथमिव पावनत्वाङ्गीकारः ? 
-निर्माल्योपभोगस्य 
-अत्राऽऽह' - देवमुद्दिश्य त्यक्तस्यापि च ' वस्तुनः । नाडिकादशकादर्वा गुपयोगो न निन्द्यते ॥ 
-तथेन्द्रराय एव 
--1 
-Saccaritraraksā (SR) quotes this passage and reads qaafi here. 
-2 SR reads निर्माल्यादि न for न निर्माल्यानि । 
-3 M1, M2, M, & B omit at in which 
-6 11, M2 
-case the metre becomes defective; PM reads न चोपभोग 
-4 M, and SR read fर्माध्यनि न नाश्रीयात 5 M2—तत्राह 
-M4, My & B, read न for न 
-+ Rşirātra, VIII. 776 78. Variants : ● भक्षयित्वा चापि " in the first line, जवा चाष्टाक्षर in the second line and " नो भवति साधक: " in the third line. 
-** 
-99 
-A mixture of five products of the cow (pun agavya ) with dai bha-water. * IX. 2a. 
-†This is not found in the extant text of the Indrara tra-section, perhaps lost in the rest of ch. IX, which ends in a blank . 
-१ 
-§ To be identified. 
-Cf Paramasamhitā III. 44 : 
-" निर्माख्यं लगेनैव न भुञ्जीत न गरजेत । न याच न जिघेच रक्षेत्... ... ५॥ " 
-....... 
-१६२ 
-भागमप्रामाण्ये 
-2 
-+' दशनाड्यधिकं पूरं स्थापयेत्तु विचक्षणः । 
-कालयोगस्समुद्दिष्ट: ' रात्रावहनि चैव हि ॥ ' *" कालयोगातिरिक्तं तु निर्माल्यं परिचक्षते । 
-ततस्तदत्सु चैवाग्नौ क्षिपेत्, भूमौ खनेत्तु वा ' ॥ ' इति । उच्यते - नात्र निर्माल्यप्राशनादि प्रशस्यते । 
-6 
-किन्तु पूरणपूजायां विनियुक्तस्य वस्तुनः ॥ नाडिकादशके पूर्णे पश्चात्त्यागो विधीयते । 
-7 
-सामान्येन निवेदितस्य पुष्पौदनादेः कृतकार्यतया निर्माल्य- त्वेनापनये' प्राप्ते नाडिकादशक पूरणं पूजांगतया स्थापनं विधीयते- S' दशनाड्यधिकं पूरं स्थापयेत्' इति । 
-1 Mg — पूर्वम् 
-ततश्च तत्रसिद्धान्तपर्यालोचनयापि वः । 
-11 
-हरिद्रा "चूर्णनैवेद्य पादाम्बु " स्पर्शनादिकम् || 
-न सिध्येत्; तत्र सिद्धान्तः क नु यूयं क्र चाल्पकाः ? 
-[ तनिरसन पूर्वकं विष्णु निर्माल्यादेः परमपावनत्वनिरूपणम् ] अहो विद्यालवोल्ल सिजिह्वाग्रस्य विचेतसः | सितासितं वचो भाति सकलङ्केन्दुविम्बवत् ॥ 
-2 SR reads स उद्दिष्टः । 
-SR has च । 
-4 Ms, M,, B, V, & A – च 
-5 PM omits इति 
-6 M4, B – पूर्वेण पूजायाम् 
-7 All but P, PM - पुष्पोदनादेः 
-8 M2, My - अपनयने 
-9P, PM, T, M2, M3, Mg, Me, My, V1 
-& A omit क 
-10 My - हारिद्र° 
-11 Mg, A - पदाम्बु 
-† I. 10b-1!a. Variants : स्थापयित्वा for स्थापयेत्तु and स उद्दिष्ट: for समुद्दिष्टः । 
-* 
-I. 11b, 10a. Variant : वा चाग्नौ for चैवानौ । 
-f For an account of pūraņapūjā, see Indrarātra, ch. I. See also Kapin- 
-jalasamhitā, ch. 29. 
-$ Indrarātra, I. 10b. 
-$ This is Yamuna's reply to the above arguments regarding nirmalya and naivedya. 
-सि 
-*ये हि युष्मद्विधा मूर्खा:, तेषामेव निषेधगी:' । 
-सेव्यमानं हि तत्सर्वं वैष्णवैरधिकारिभिः ॥ 
-अघौघध्वंसनायालं सोमपानमिवाध्वरे अन्येषां हि तदस्पृश्यं पुरोडाशः शुनामिव ॥ 
-तयथेश्वरसंहितायाम् - 
- दुर्लभो भगवद्भक्तो लोकेऽस्मिन् पुरुषस्सुत । तत्रापि दुर्लभतरो भावो वै यस्य तत्त्वतः ॥ ' 
-" 
-पादोदकं प्रति शुभः सिद्धान्ने' च निवेदिते । स्रगादिके चोपभुक्ते ग्रुप 'भोगार्थमेव च ॥ 
-अतश्च भावहीनानामभक्तानां च षण्मुख । निषिद्धं भगवन्मन्त्र' हक्पूतमखिलं हि " यत् ॥ ' इति । 
-तथा प्रदेशान्तरे- 
-1M 3 – निषेध की : ; M4, B -- निषेधत : ; 
-- 
-Mo - निषेधधीः 
-2 Mg – तत्सर्व° 
-3 M, omits ч, to the detriment of 
-metre. 
-4 M,, M, M2, My --- प्रतिशुभम् 
-5 M1, M9, M4, Mo - सिद्धान्ते 
-6 Mo - चोपभ्युक्तेऽभ्युप" 
-7 M1, Ma, M7, B – उपयोगार्थमेव 
-8 B – मद्भक्तानाम् 
-- 
-9 M 1 - भगवत् श्मश्रु ( ! ) 
-10 SR has च for हि 
-Cf. Sāttvata Samhitā, XXI. 45b-46 : 
-" 
-'yo na vettyacyutam tattvaṁ pañcarātrārthameva ca 
-tathā sadvaiṣṇavīṁ dīkṣāṁ nānāśāstroktalakṣaṇāṁ || 
-na tena saha sambandhah kāryah.... 
-1 Cf. Pādmasamhitā, Caryāpāda, XII.83b : 
-“ śunāmiva purodaśo na niceşu tadisyate ||" 
-These and a few other verses following, quoted by Yamuna as from Ivara samhita, are not found in the available agamas of that name. The Isvara samhita from which Yamuna quotes appears to have been a different work. See Introduction to Jayākhyasanhità ( Gaewkad Oriental Series ), p. 49. 
-१६४ 
-*6 
-भागमप्रामाण्ये 
-कुङ्कुमं चन्दनं चैव कर्पूरमनुलेपनम् । विष्णुदेह' परामृष्टं तद्वै पावनपावनम् ||' इति । 
-तथा पाद्मोद्भवे— 
-7 
-*" विष्णु देह परामृष्टं " यश्चूर्ण' शिरसा वहेत् । सोऽश्वमेव फलं प्राप्य विष्णुलोके महीयते ॥ 
-तिथेश्वरसंहितायाम् – 
-*I 
-'उपभुक्तस्य सर्वस्य गन्धपुष्पादिकस्य च । स्नानादावुपयुक्तस्य दधिक्षीरादिकस्य च ॥ 
-दूषणं न प्रयोक्तव्यं शब्दैरप्रतिपत्तिजैः । निर्माल्यबुध्या देवीयं पावनं दूरयन्ति ये ॥ 
-10 
-ते यान्ति नरकं मूढाः, तत्प्रभावा पलापिन: । ' इति । 
-12 
-13. 
-** यानि पुनः दीक्षितमेवाधिकृत्य समयानुशासनसमये निर्माल्योप "योग" निषेध " पराणि वचनानि तानि 14 परिषदेशो "प- योगोत्तर कालाभिप्रायेण द्रष्टव्यानि । 
-1P, PM, T, A, V, & Mg — चैतत् 2 SR has कर्पूरं चानुलेपनम् 
-M- विष्णो ह 
-4 Mg - परिभ्रष्टम् 
-5 M2, M3, Mg, M2, B - पद्मोद्भवे 
-6M 2 - परिभ्रष्टम् 
-7 Mg, Mo— यच्चू म् 
-8 M सोऽश्वमेधे° 
-- 
-To be identified. 
-9 M1 to M4, Ms, M, My & B, omit this line; A, V♭ & M, have अत्रतिपत्तिदैः 10 P & PM – देवीयम् 
-11 M, adds fa 
-12 T – निर्माल्योपयोगि 
-D 
-13 M2, My, omit निषेध 
-14 M1, M2, M7, My, omit तानि 
-15 SR — पार्षदर्श; PM - ° पारिषद्येश 
-16 M1, M2, M4, Mr. My B— ° उपयोगानन्तर 
-†This is the second instance where Yamuna quotes from Isvarasaṁhitā, which is yet to be recovered. 
-* * इतः पूर्वमभक्तानां निर्माल्याद्युपयोग निषेधविषयो विचारितः । इदानीं दीक्षितस्यापि तद्विषये विचार: प्रस्तूयते । 
-अपि च- 
-10 
-सिद्धान्तः 
-यितो भगवदर्थेन त्यक्तं स्वकुचन्दनादिकम् । 
-पश्चादभोग्यतां याति विष्वक्सेन निवेदनात ' || अत एव निवेद्यादि ततोऽर्वागेव सास्वतैः । सेव्यते, तेन तत्तेषामुत्कर्षस्यैव कारणम् || 
-देवनान्तरनिर्माल्यं शिष्टैरिष्टं विगर्हितम् । इदं तु वैदिकत्वेन ' सोमपानवदिष्यते ॥ ये नाम भगवच्छास्त्रप्रामाण्यं नानुजानते । न निरूपयितुं शक्यं तैर्निर्माल्यमितीरितम् ॥ 
-[ भगवनिर्माल्यप्रशंसा ] 
-विरूपणेऽपि भगवन्निर्माल्यमति' पावनम् । समस्तवैदिकाचार्यवचनैरवसीयते ॥ 
-शब्दप्रमाणके ह्यर्थे, यथाशब्दं व्यवस्थितिः । न चात्र शब्दो नास्तीति वक्तव्यं बधिरेतरैः || 
-यथा " ब्रह्म" पुराणे च पठ्यते- 
-1 Mg, My - त्यक्त' 
-2 M2 - पश्चादयोगताम् ; PM – तत्पश्चाद्भोग्यताम् 
-T – यान्ति 
-4 SR - परिग्रहाव 
-SSR - निवेद्यं तत् for निवेद्यादि 
-6 The rest of the ms. B' is 
-+ Cf. Sättvata Samhitā, X 57-58. 
-lost from the word सोम. 
-7 M49 Mg - उदीरितम् 
-• M – निर्माल्यमिति 
-१५ 
-9 M1, M2, M8, Ms, Mo. My, A यथाशब् 10 Mg, Mg – तथा 
-11 M1, M, M, M2, My - माझ 
-" 
-' द्विजातेः दत्तशिष्टस्य पुष्पपत्रादिकस्य च । विहितश्चभिसि त्यागो विष्ववसेनार्चने कुते ॥ धर्तव्यं न चिरं चाग्रे यत्पुरा विनिवेदितम् । नैवेद्यं मन्त्रमूर्तीनां किंचित्पुष्पफलाङ्कृते ॥ ' 
-+ देवतान्तर निर्माल्य शिष्टैः विगर्हितस्वरूपेण इष्टमित्यर्थः । 
-s Cf. Visnusamhitā, XXXIX. 12-13a : 
-" 
-निर्माल्यं न स्पृशेदात् लंघयेद्वाशनं कुतः । सर्वेषामेव देवानां निर्माल्यमशुत्रि स्मृतम् ॥ विष्णुमुक्तं तु पुष्पादि शुचीयाददते परे । '་་་ 
-भागमप्रामाण्ये 
-विष्णोर्नैवेद्यकं शुद्धं मुनिभिर्भोज्यमुच्यते । * अन्यनिवेद्यं निर्माल्यं भुक्त्वा चान्द्रायणं चरेत् ' ॥ 'विष्णुदेह' परामृष्टं माल्यं पापहरं शुभम् । 
-यो नरशिरसा धत्ते, स याति परमां गतिम् ॥ एतेन - 8' निर्माल्यं च निवेद्यं च भुक्त्वा चान्द्रायणं चरेत्' इति स्मरणमपि रुद्रकाल्यादि विषय मित्या वेदितव्यम्' । 
-तथा' महाभारते— 
-* 
-'हृदि ध्यायन् हरिं तस्मै निवेद्यानं समाहितः । मध्यमानामिकाङ्गुष्ठैः गृहीत्वान्नं मितं पुनः 10 || प्राणाय चेत्यपानाय व्यानाय च ततः परम् । उदानाय समानाय स्वाहेति जुहुयात् क्रमात् ॥ ' इति " | 
-1 SR - निवेदितम् 
-2 P, PM -- अन्यन्निवेद्य; SR — भन्यवेद्यं तु 
-3 Mg adds इति 
-4 M1. Ms. A - विष्णोदेह 
-3 M2 - परिभ्रष्टम् 
-6 M1, M2, M4, M8, M2, My – ° इत्यादि 
-वेदितव्यम् 
-t Passages to be identified. 
-7 Mg reads यथा; PM omits तथा 
-Me 
-8 M 1 - समाहितम् 
-9 M1, M, Me, M, - गृहीत्वा निर्मितम् ; 
-M3 - गृहीत्वान्नमितः; P, PM - गृहीत्वान्न मितम् 
-10 SR has समाहितः for मितं पुनः 
-11 PM, M1, A, omit इति 
-* Cf. Pādmasamhitā, caryā, XII. 81b : 
-46 
-विष्णोर्निवेदितं शुद्धं पावनानां च पावनम् ' ॥ 
-+ Cf. Pādmasamhitā, caryā, XII. 85 : 
-' धरितं विष्णुनिर्माल्यं चन्दनापनुलेपनम् । 
-अहर्निशं धारयतां न पुनर्जननं भवेत् ॥ ' 
-6 To be traced out. Cf. Pādmasamhitā, caryā, XII. 79a : 
-' मोशानादिदेवानां नैव भोज्यं निवेदितम् ' | 
-To be identified. 
-Cf. Laghuvyāsasamhita (Astavimsatismrtis ) ch. II. 74-76 : 
-स्वाहाप्रणवसंयुक्तं प्राणायान्नाहुतिं ततः । अपानाय ततो हुखा व्यानाय तदनन्तरम् ॥ उदानाय ततो वा समानायेति पचमम् । विज्ञाय चार्थमेतेषां जुहुयादात्मनि द्विजः ॥ शेषमनं यथाकामं भुञ्जीत व्यंजनैर्युतम् । ध्यात्वा तन्मनसा देयमात्मानं वै प्रजापतिम् ॥ ' 
-This type of taking food is called 'anuyāga'. See Pancarătrarakṣā, 
-p. 115 : 'ईश च भोजनमेवानुयागसमाख्ययाऽन्यत्र व्यपदिश्यते । ' 
-तथा प्रदेशान्तरे- 
-" निवेदिनं तु यद्देवे, तहथात् ब्रह्मचारिण' इति । तथा महाभारते - 
-8' पञ्चरात्रविदो मुख्यास्तस्य गेहे महात्मनः । 
-प्रापणं' भगवद्भुक्तं भुञ्जते चाग्र' भोजनम् ॥' इति । तथा च भगवान् शौनकः- 
-नैवेद्यं स्वयमश्नीयात्' इति' | 
-[ भगवन्नैवेद्यनिन्दकानां दण्डयत्वकथनम् ] इत्यादिस्मृतिशत सिद्धशुद्धि' विष्णोः 
-नैवेद्यं भवभयभेदि यो विनिन्देत् । नास्तिक्यात् स्मृतिवचनान्युपेक्षमाणः तज्जिह्वानिशसनमेव युक्तमत्र ॥ 
-[ प्रसङ्गवशात् प्राणाग्निहोत्रस्य नैवेद्यं साधनं न भवेदिति शङ्काया निरासः | ननु प्राणाग्निहोत्रस्य नैवेद्यं साधनं कथम् ? निरिष्टकं न शिष्टानामिष्टं " होमादिसाधनम् " ॥ 
-1 PM omits इति 
-2 Mg - अथ 
-3 M2, My - पञ्चरात्रेऽपि ये 
-4 M 1 - देहे 
-• PM - प्रायणम् 
-6 M1, M2, M79 My - चाय; 
-↑ To be traced out. 
-6 śānti, ch. 322, 51. 23. 
-Mg - चार्थ 
-7 Mg omits इति 
-8 M – शुद्ध 
-- 
-9 SR has निवेद्यम् 10 M reads °शिष्टम् 
-11 M2 - शासनम् 
-Cf. Sāttvatasamhita, ch. 17, sls. 423-424 : 
-'दानानां च व्रतानां च तपसां यज्ञकर्मणाम् । निवेदितव्यं यद्द्रव्यं दतं वा यत्र यत्पुरा ॥ कर्तव्यमनुधागार्थ 
-प्राक् तदेव हि केवलम् । तद्भावितमतोऽश्रीयात् पावनं प्रापणान्वितम् ॥ 
-• 
-Visnudharma ( of Bhavisyapurāna ), Saunakiya, ch. 92. 61. 32a : 
-नैवेथं स्वयमश्नीयात् मौनीत्येतदुदङ्मुखः । ' 
-Cf. Pūjāsangraha (ms.) folio 90b: 
-" स्वयं वापि तदश्नीयात् सर्वपापविशुद्धये ।' 
-Vedānta Desika quotes from ननु upto यधानुज्ञानवन्मत्वं etc., below, in his Saccaritraraksā, p. 93. 
-१६० 
-भागमप्रामाण्ये 
-न च द्रव्यान्तराक्षेपो' होमायेत्यव' कल्पते । रागतः प्राप्तमेवान्नं यतस्तेनोपजीव्यते ॥ नाऽपि भुक्त्यन्तराक्षेपो नैवेद्यायोपपद्यते ॥ *" सायं प्रातर्द्विजातीनामशनं श्रुतिचोदितम् | 
-नान्तरा भोजनं कुर्यात्' इति तत्प्रतिषेधनात् ॥ नैष दोषो, यतः प्राणप्रभृतिः देवतागण: ' । गुणभूतः श्रुतो विष्णोः, विष्णुपारिषदेशवत् ॥ यथैव हि भगवन्निवेदितमपि पुष्पोदनादि विष्वक्सेनाथ 
-दीयमानं नानौचित्यमावहति, 
-अपि च- 
-10 
-12 
-यथा वा होतु" रुच्छिष्ट एव सोमरसोऽध्वरे " । अध्ववदेः विशुद्ध्यै स्यात्, एवमत्र भविष्यति ॥ 
-[ भोज्याभोज्यव्यवस्थायाः शास्त्रैकशरणत्वोक्तिः ] 
-| भोज्या भोज्यव्यवस्थायाः शास्त्रमेव " निबन्धनम् 14 | 
-तचेत् भोज्यमिदं 5 ब्रूते, किं वयं विदधीमहि १ 
-1 M 2 - अपि; My नापि 
-2 Mo - द्रव्यान्तरे क्षेपः 
-3 Mg - होमायेत्येव ' 
-4 M4 - अवकल्प्यते 
-SP, PM – उपपाद्यते 
-6 Mg - गणा: 
-7 Mo—गुणभूताः श्रुताः; PM, M8, M2, 
-8 
-A - गुणभूतश्रुतौ 
-BM 2 reads यथेह ( no हि separately. 
-5 आक्षेप: कल्पनमिति यावत् । 
-15 
-9 M1, M2, M6, M2, My & PM, 
-omit afq 
-10 All except P, PM - पुष्पोदनादि 
-11 Mg, Mg — हेतु: 
-12 My - उच्छिष्टमेव सोमरसाध्वरे 
-13 Mg - शास्त्रवेद 
-14Mg adds the following : 
-तच्चेद्भोज्यव्यवस्थायाः शास्त्रमेव निबन्धनम् 
-15 Mg Mg - न चेद्भोज्यमिदम् 
-A - तच्चेच्छास्त्रमिदम् 
-| 
-* The remainder of the verse is ' अग्निहोत्रसमो विधिः । " Many Smrtis attribute this to Manu. But Aparārka on Yājñavalkyasmrti (p. 61) attributes this to Sarvarta. Cf. also Samvartasmrti ( Collection of 27 smrtis, Anandāśrama Skt. Series ), 1.12. 
-+ Cf. Bhagavadgītā, XVI. 24a : 
-" तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ । " 
-सिद्धान्तः 
-यथाऽनुष्ठानमत्र *स्वं नित्यकाम्याग्निहोत्रयोः । एवं प्राणाग्निहोत्रेऽपि नैवेद्याशनतन्त्रता ॥ 
-[ भागवतानां भाचारमूलकाब्राह्मण्यशङ्कानिरासः ] 
-१९९ 
-यिदप्युक्तम् गर्भाधानादिदाहान्त' संस्कारान्तरसेवनात् भाग- वनानामब्राह्मण्यमिति, तत्राप्यज्ञानमेवापराध्यति, न पुनरायुष्मतो ' दोषः, यदेते वंशपरम्परया वाजसनेय' शाखामधीयानाः कात्याय- नादिगृह्येोक्तमार्गेण गर्भाधानादिसंस्कारान् कुर्वते । 
-[ अपौरुषेयकका यन शाखानुसरणेन भागवतानामनुष्ठानवैचित्र्यसमर्थनम् ] 
-ये पुनः साविध्यनुवचन' प्रभृनित्रयीधर्मत्यागेन एकायनश्रुति- विहितानेव चत्वारिंशत् संस्कारान् कुर्वते, तेऽपि खशाखा गृयोक्तमर्थ यथावदनुतिष्ठमाना न शाखान्तरीयकनिनुठानात् ** ब्राह्मग्यात् प्रच्यवन्ते; अन्येषामपि पर' शाखाविहिन' कर्माननुष्ठान निमित्ताम्रा- अग्य प्रसङ्गात् । सर्वत्र हि जातिवरण-गोत्राधिकारादिव्यवस्थिता 
-10 
-1 Mg - "तन्त्रत्व 
-2 M – नित्यकामाद्मि 
-4 
-- 
-3 Mg - देहान्त 
-4 My - आयुष : 
-7 PM - कर्मानुष्ठानात् 
-8 Mg has lacuna from प्रध्ययन्ते 
-to रखा; 
-My -- अन्यथा सर्वेषामितर 
-5 M, & My add 
-9 
-• M1. Mg परस्पर शाखाविरहित 
-6 My - साविण्याद्यनुवचन ' 
-7 
-My - परस्परशाखाविहित 
-10 Mo adds म्य 
-* उभयोद्देशेन सकृदनुष्ठानं तन्त्रम् । 
-f See p. 14 above for pūrvapaksa. Vedánta Desika quotes from here upto the end of the text, in his Nyāyapariśuddhi, p. 168 
-+ Desi ka quotes from here upto the end, in his Pañcarātraraksa, p. 95. 
-§ See Kātyāyanagrhyasūtra ( ms ), p. 25ff for samskāras. 
-** अननुष्ठानात् हेतोरिति भावः । 
-$ Cf. the following quoted in the Pañcarātraraksā, p. 110, us from the Pāramesvarasaṁhitâ: 
-" निषेकादींश्च संस्कारान् स्वसूत्रोक्तान् समाचरेत् । 
-पत्रोदितान् वापि ये स्ववंश्यैरनुष्ठिताः || ” 
-Cf. also Ausanasa Dharmasdstra (Smrtīnām Samuccayaḥ, Anandasrama Sanskrit Series 48 ), I, 48 : 
-3 
-" 
-निषेकाया: श्मशानान्ता क्रियाः पृजायूत्रधृक् । 
-पचरात्रेण वा कश्चित् तत्रो 
-चरणशब्देन शाखोच्यते । 
-धर्ममा वरेत् ॥ 
-19 
-१७० 
-भागमप्रामाण्ये 
-एव समाचारा उपलभ्यन्ते । यद्यपि ' सर्वशाखाप्रत्ययमेकं कर्म', तथापि न परस्पर विलक्षणाधिकारिसम्बद्धाः धर्माः कचित् समुच्ची- यन्ते' | विलक्षणाश्च त्रयीविहितस्वर्गपुत्रादिविषयोपभोगसाधनै- न्द्राग्नेयादि कर्माधिकारिभ्यो द्विजेभ्यः त्रय्यन्तैकायन' श्रुतिविहित- विज्ञानाभिगमनोपादानेज्याप्रभृति भगवत्प्राप्येको 'पाय' कर्माधिका- रिणो' मुमुक्षवो ब्राह्मणा इति नोभयेषामप्य' न्योन्यशाखाविहितकर्मा- ननुष्ठानम' ब्राह्मण्यमा पादयति । यथा" च एकायनशाखाया अपौरु- बेयत्वं तथा 12 काश्मीरागमप्रामाण्य एव 3 प्रपञ्चितमिति नेह प्रस्तूयते । प्रकृतानां तु भागवतानां सावित्र्यनुवचनादित्रयीधर्म- सम्बन्धस्य स्फुटतरमुपलब्धेः न त श्यागनिमित्तव्रात्यत्वादि सन्देहं सहत इति " | 
-.14 
-16 
-[ नाथमुनितच्छि व्यवैभववर्णनम् ] तत्तत्कल्पितयुक्तिभिः शकलशः कृत्वा तदीयं मतं 
-यच्छिष्यैरुदमर्दि सात्त्वतमतस्पर्धावतामुद्धतिः । 
-1 'A' omits a 
-2 M, has a lacuna from अधिकारिसम् to 
-समुचीयन्ते 
-3 M1, M, – साधनैन्द्राग्न्यादि 
-M2, My - साधनेन्द्राग्न्यादि 
-Mg omits आदि 
-4 M1, M, - श्रय्यैकायन 
-M1, M2, M3, My - भगवत्प्राप्यैक 
-6P, PM - उपायक: M4 उपायम 
-PM; 
-7 My - कर्माधिकारि° 
-O 
-& M3, A, omit अपि 
-• Mg, V1 - कर्मानुष्ठानम् 10M3, Mo— ब्राह्मण्यम् 11 M2, A - तथा 
-12 A & M2 omit तथा 
-13 P & PM omit एव 
-14 M1, M2, M4, M2, & My omit 
-नेह प्रस्तूयते 
-15 My omits तत् 
-16P, PM, T, Mg, Ms, Mo & A omit इति 
-+ Cf. Sabara on II. iv. 32, p. 142: “ सर्वशाखा प्रत्ययं सर्वमाह्मप्रत्ययं चैकं कर्म चोद्यत इति सिद्धं भवति । " 
-See also Pūrvamimāmsā, II. iv. 18 : " न चैकं प्रति शिष्यते । ” and Sabara on this ( p. 139 ) : " न च यत् काठकेऽग्निहोत्रं तत् काठकमेवैकं पुरुषं प्रति विधीयते । तैत्तिरीयस्यापि तत् विहितमेव । पुरुष विशेषवचनाभावात् । तस्मात् सर्वशाखाभिरेकं समाप्तं कर्मोच्यत इति । 
-· 
-** See Pādmasamhitā, 1.5b6a : 
-" आयमेकायनं वेदं सब्रह्मप्रतिपादकम् || 
-तेनैव संस्कृता विप्रा मुख्यकल्पाधिकारिणः । 
-+ Ibid. Jñāna, Il. 5b : 
-39 
-" विज्ञानं भगवज्ज्ञानं तज्ज्ञानान्मुक्तिरुच्यते ॥ " 
-ין 
-सिद्धान्त: 
-यञ्चेतस्ततं मुकुन्दचरणद्वन्द्वास्पदं वर्तते 
-जीयान्नाथमुनिः स्वयोग महिम' प्रत्यक्षत स्त्वत्रयः || आकल्पं विलसन्तु सात्वतमतप्रस्पर्द्विदुष्पद्धति- 
-व्यामुग्धोद्धतदुर्विदग्धपरिषद्वैदग्ध्यविध्वंसिनः । श्रीमन्नाधमुनीन्द्रवर्धित धियो निर्धूतविश्वाशिवाः 2 
-सन्त'स्सन्ततगद्यपद्यपदवीहृद्यानवयोक्तयः ॥ 
-इति श्रीमनामुनमुनिप्रणीतं आगमप्रामाण्यं सम्पूर्णम् ॥ 
-1 M2-fafe 
-2 M1 & M, — श्रीमन्नाथमुनीन्द्रवर्धित- 
-मनीषोन्मेषतो भूषिताः 
-3 Ma - वन्यः 
-4 M - पदवी द्यवद्योतयः 
-APPENDIX 
-[Passages found at the beginning and end of the Manuscripts collated.] 
-1. Manuscript “A” has, at the beginning, the following : 
-'श्रीमते हयग्रीवाय नमः । ' 
-Towards the end, it has the following : 
-'श्रीमन्नाथमुनये नमः | श्रीमद्यामुनमुनये नमः । श्रीमते रामानुजाय नमः । श्रीमते हयग्रीवाय नमः । श्रीः । ' 
-2. Manuscript "B" has, at the end, the following (incomplete ) : 
-.......धं कृतमिति शंका परिहारः । ....बालगृहीतत्वादप्रामाण्य शंकापरिहारः । प्रत्यक्षश्रत्युक्ता- निहोत्रादिवदनुष्ठानं च । भागवत परिग्रहागमाण्य शंकापरिहारः । भागवतानामुत्कृष्टब्राह्मण्यं च । वैश्यत्रात्यान्वये जन्मेति शंका परिहारः । यं गरू दिशद्वयोपनिपाते रूढिरेव इति शंकापरिहारः । रथकारदृष्टान्तशंका परिहारः । सात्त्वत दिव्यपदेश शकापरिहारः । वृत्त्यर्थ देवपूजन नैवेद्यप्राशनादिभिः दौर्ब्राह्मण्य शंका परिहारः । देवलकत्त्रशंका परिहारः । निर्माल्यनिवेद्योपयोगादशिष्टत्वशंकापरिहारः । प्राण निहोत्रप्रकार गर्भाधानादिसंस्कारान्तर सेवनादब्राह्मण्य शंकापरिहारः । भागवतानामुत्कृष्टब्राह्मण्यम् । पञ्चरात्रस्यानुमानात् ज्योतिष्टो विधायकवाक्यवत् प्रामाण्यम् । अपौरुषेयत्व शंकापरिहारः । रीरव-वेऽनेक दोषवत्त्वशंकापरिहारः । सिद्धे वस्तुनि शब्दानां प्रामाण्यं नेते शंकारिहारः । प्रामाण्य म् । श्रुत्यादिभिः सार्वज्ञभगवत् रुद्रादेः परमात्मत्व नषेधः । भगवता पञ्चरात्र- निर्माणप्रकारः । शैवादेर्वेद विरुद्धत्वं च । तन्त्रत्वेन साधर्म्यशंकापरिहारः । पञ्चरात्रस्य सर्ववेदान्त- सारत्वम् । मन्वादिस्मृते: मूलत्वम् । वेदनिन्दादर्शनादप्रमाण शंका परिहारः । वेदप्रशंसा च । पचरात्रश्रुत्योरैकार्थ्यम् । दीक्ष करणादकत्व शंकापरिहारः । चतुर्दशविद्यास्थानेष्वपरिगणनात् प्रामण्यशंका रिहारः । बादरायणेन निरस्तत्वादिति शंकापरिहारः । भारते पञ्चरात्र प्रशंसा । सूत्रार्थश्च । तन्त्रान्तरसमानपरिगणनाप्रामाण्य शंकापरिहारः । धर्मशास्त्रनिबन्धूणां विप्लवज्ञानस्त्रम् । भगवतस्तु सर्वमाक्षत्कारवदिति विज्ञानम् । पञ्चरात्र सापेक्ष प्रमाण इति शंका ) परिहारः । पञ्चकाला- नुष्टा ( नातू निर ) तिशय सम्पत्प्राप्तिः । अ ( न ) पे (क्षित ) त्वं विवक्षितमिति शंकापरिहारः । (श्रु ) तिविरु (द्ध ) ( त्वात् तन्त्र ) स्याप्रामाण्य शंकायाः परिहारः । भगवच्छात्र ( वेदयो ) स्तुल्यप्रमाणत्वम् । 
-भागमप्रामाण्ये भगवता वेदपञ्चरात्रयोर्निर्माणप्रकारः । तत्र सचरितरक्षायां ' तथापि स्वाभाविकसमस्तार्थं.....ते तस्या' इत्यन्तं ग्राह्यम् । मन्वादिस्मृतेर्मूलत्वम् । तत्र सचरितरक्षायां 
-। । ' प्रथा क ( ? ) सरसं ( तू ? ) ' इत्यादि ' बाह्यत्वमेव ' इत्यन्तं ग्राह्यम् । किंच ' श्रीरामायणे च ' इत्यादि ग्राह्यम् । वेदनिन्दादर्शनादि । तत्र श्रीपञ्चरात्र ( रक्षा ) याम् । ' प्रथमे ... ओं... मे ( ) घसागे 'त्यादि ( ? ) ' इति सिद्धम्' इत्यन्तं प्राह्यम् । द्वापरस्य युगस्यान्त इत्यत्र । सचरितरक्षार्या 
-APPENDIX 
-· 
-१७३ 
-प्रथमे । ( ) दंव कालविधानमि 'त्यादि 'न दोष' इत्यन्तं प्राह्यम् । किं च श्रीपंचरात्ररक्षायाम् न खल्वेतावता' इत्यादि ' विदामा 'रित्यन्तं प्राह्मम् । परस्परनिषेधादित्यत्र, श्रीपभरात्ररक्षाया ' तत्रेदं विमर्शनीयम्' इत्यादि ' ये गि ( ) परमपुरुषार्थं प्राप्तिसाधनमि 'त्यन्तं प्राह्मम् । आप्तोक्तत्वं विवक्षितमित्यत्र, सचरितरक्षायां प्रथमे 'कैरातेरुपादानम्' इत्यादि, 'अनुसन्धेये ' इत्यन्तं ग्राह्यम् । श्रुतिविरुद्धांशस्याप्रामाण्यमित्यत्र श्रीपंचरात्ररक्षायां अत्र तावदि 'त्यादि 'पंचमा- देव वेदात् ' इत्यन्तं ग्राह्यम् । किं च ) ग्रायम् । अत्रोच्यत इत्यत्र श्रीपंचरात्ररक्षाया ' ब्राह्मणेः क्षत्रियैः' इत्यादि, उपजीव्यम्' इत्यन्तं ग्राम् । यत्पुनः शिष्टविगर्हितनिर्माल्यमित्यत्र सचरितरक्षायां ' त्रिधाधिकार ' ( ) ग्राह्यम् । 
-यत्पदांभोरुहध्यानविध्वस्ताशेषकल्मः । 
-वस्तुतामुपयातोऽहं यामुनेयं नमाम्यहम् ॥ 
-श्रीरंगनाथाय नमः | 
-आगमप्रामाण्यम् । 
-3. Manuscript "M," begins with the following: 
-6 
-यत्पदाभोरुहध्यानविध्वस्ताशेष कल्मषः । वस्तुतामुपयातोऽहं यामुनेयं नमामि तम्' ॥ श्रीमबेट वरदताताचार्य महागुरवे नमः । 
-It ends with the following: 
-यत्पदाभोरुहध्यान विध्वस्ताशेषकल्मषः । वस्तुतामुपयातोऽहं यामुनेयं नमामि तम् ॥ हरिः ओम | रौद्रवर्षे सिंहशुक्ल नवम्यां भृगुवामरे । इदमागमसिद्धान्तप्रामायं लिखितं मया ॥ ग्रन्थोऽयं वेदकोटीररामावरजतावतः । तातदासस्य नान्यस्य लेखनं तत्र विद्यते ॥ यदि चेद्वीक्षणेच्छात्र सतां सन्दर्भसंशये । वीक्ष्य पश्चात्प्रदातव्यं नापहर्तव्यमंजसा ॥ यदि चेदपहर्ता स्यात् कश्चिदस्य विमूढधीः । प्रेत्य चण्डालतां प्राप्य मूकस्वमपि गच्छति ॥ तस्मात् सन्देहसन्दर्भवीक्षणेच्छा भवेदि । वीक्ष्य पश्चात्प्रदातव्यं नापहर्तव्यमंजसा ॥ यादृशं पुस्तकं दृष्ट्वा तादृश लिखितं मया । अबद्धं वा सुबद्धं वा मम दोषो न विद्यते ॥ 
-4. Manuscript " M2" begins with : शुभमस्तु | It ends with the following : 
-आगमप्रामाण्यं सम्पूर्णम् । शुभमस्तु । 
-5. Manuscript “ Mg " opens with हरिः ओम् । It ends with the following : 
-हरिः ओम् । शुभमस्तु । 
-सिद्धित्रयसमायुक्तं प्रामाण्यं पाञ्चरात्रिकम् । वि (व्य ) लिखत् वेंकटेशाख्यः स्पष्टं नैभृत काश्यपः । हरिः ओम् । श्रीमते हयग्रीवाय नमः ॥ 
-श्रीशैलताताचार्यकुलैक तिलकं भजे | श्रीनिवासगुरुं साक्षात् श्रीनिवासमिवापरम् ॥ 
-श्रियै नमः । ग्रन्थसंख्या मत ( 1 ) – ८५० 
-१७४ 
-6. Manuscript M4 " starts with : 
-APPENDIX 
-यस्पद भोरुहध्यान विध्वस्ताशेष कल्मनः । वस्तुतामुपयातोऽहं यामुनेयं नमामि तम् ॥ Towards the end, it has : 
-करकृतमपराधं क्षन्तुमईन्ति सन्तः ॥ हरिः ओम् ॥ आगमप्रामाण्यं समाप्तम् ॥ 
-7. Manuscript " Mg ” starts with the following verse : 
-वाधूलवेंकटाचार्यमस्मदाचार्यमन्वहम् । प्रपद्ये यत्कटाक्षेण सत्तां प्राप्तोऽस्म्यहेतुना ॥ 
-It ends with the following: 
-शुभकृद्वर्षे गतवति भगवति दिवसेश्वरे वृषभम् । शुक्लाष्टम्यां श्रीनिधिरेतत्कृतिलेखनं समापितवान् ॥ सेवे हरिमेवेतर देवेडितमुद्यद्रा ( ) शोकाधिकृदाकारमुखं यः । 
-पादानतमोदाधिकभूदानिखिलानाम् । सृष्टालसदष्टापदरुष्ट |त्मपटुश्रीः ॥ 
-श्रेयस्स मे दिशतु भूयः श्रियः पतिरमेयः । क्षमादिगुणैर्यः कठोरहृदनेयः । 
-पदाश्रयिभरेयः सुखेन मुनिभिः । ध्येयः स्फुटज्जलजभा यः ॥ 
-स्वदृश्या खिलहेय प्रवासन चणः । को यस्य नाभिजननो यः श्रितस्त्रिभुवनाय स्वयं हि निपुणः || 
-पापानामपनोदनेन भजतां तापानपारान् हरन् 
-कोपावेशवशाद्रिपून् निहतवान् भूपान् विनैवायुधम् । 
-आपातेन रथोत्तमस्य हृदि यः श्रीपादपद्माचितः 
-सोsपारं मम हन्त्वधं करुणया श्रीपार्थसूतो हरिः ॥ 
-सेवे वेदलतां लतासहचरं देवेशशर्वाब्जजै: 
-भावेनैव सदेडितां नृषु कृपामावेदयन्तीं दृशा । 
-या वेदान्तमुरस्स्थले निजपदासावेव ( ? ) सर्वेशिते- त्यावेगेन विनैव कैटभरिपोः संवेदयन्त्येधते ॥ गेयो यः श्रुतिमौलिभिः श्रुतिपुटीधे योरुकीर्ति नृणां 
-ध्येयोऽन्तर्मुनिपुंगवैरविरलं हेयोपबन्धातिगः । 
-कायो येन रिपोर्व्यदारि नखैरः प्रेयोनमद्ररक्षणात् 
-श्रेयो मे सधिनोतु पूरुषहरिः भूयो दयावारिधिः ॥ 
-मन्नाथं कल्यामहे हृदि मुहुः भिनाजनाद्वित्विषम् 
-स्वं नामोव मुदं विदधतं यं नाशयत् किल्बिषम् । सन्नायच्छ्रुति ( यन्नामश्रुति ? ) मात्रतोऽपि रिपवः छिन्ना भयोद्रेकतः 
-नुन्नारातिगणा बलैः हृदुदितापन्नानुकम्पेतरे ॥ 
-कल्याणं विदधातु मे रघुवरोऽहल्यापदो वारकः 
-तुल्माकारयुतोऽबुदैरपनयन् शल्यानि संसेविनाम् । 
-APPENDIX 
-कुल्यातुल्यतयां बुधिं कलितवान् स्थस्यां विशन् दुर्हृदाम् 
-बल्यांकल्पितवानमून् युधि हतान् फल्याप्तितो भूभुजः ॥ 
-पापानामपनोदनेन भजतां तापानपारान् हरन् 
-कोपावेशवशात् रिपून् निहतवान् भूपान् विनंवायुधम् । 
-आपातेन रथोत्तमस्य हृदि यः श्रीपादपद्माचितः 
-सोsपारं मम हन्त्वघं करुणया श्रीपार्थस्तो विभुः ॥ ( repeated ) 
-हस्तीन्द्राय वरं ददौ स्वचरणौ स्वस्तीच्छया सेविने 
-निस्तीर्णः करुणोदयेन हृदये यस्तीत्रदुःख कुलम् । 
-अस्तीदं प्रलयावृतं त्रिभुवनं कस्तीर्णयेदित्यभूत् 
-तत् ग्रस्तीकुरुते स्म मे स निचयं प्रस्ती करोत्वंहसाम् ॥ 
-येनादायि कृपावशात् स्थविरता स्वेनापनीय प्रभा- 
-वेणात्यन्तमनोहरा तरुणता येनाप्यदेया स्त्रिये ( ? ) । सेनानी गुरुणान्यभाविमहिमस्थेनापि खेदोन्नति: 
-तेनास्मद्वृजिनं भवेदपहृतं स्तेनादित्रं योगिना ॥ गोदे ! त्वत्पदपंकजं शरणये हे देवि । देवैस्तु...... 
-नोदेच्छुर्म (र्न ) मदंहसा स्वकृपया भूदेव्युदीते भृशम् । 
-मे देहीति पतिश्रियोऽपि जगृहे वेदेडितो मालिका 
-ते देहबुतिनिर्जितेन्द्र मणिरुमोदेन मूर्ध्ना धृताम् ॥ श्रीमत्सौम्यवरार्यदिव्यचरणौ धीमद्भिरासेवितौ 
-प्रेमप्रोन्नतमानसैरतितरां का ( ल ? ) क्रमागोचरैः । 
-यामः स्वीयरुचांबुजं विजयिनी सोमद्युतिं स्वैर्नखैः 
-क्षेमश्रीभरितान् भृशं वितनुतां नो मत्सराचाखिलान् ॥ 
-श्रीरामानुजमाश्रये मुनिवरं क्षीराब्धिकन्याप्रिया- 
-पारावरकृपापदं सरसिजाकाराधिकाक्षिद्वयम् । 
-धीरात्मीयवचोजितप्रतिभटं कुराधिनाथादिभिः 
-8. Manuscript "M," starts with the following: 
-श्रीमते वेदान्तगुरवे नमः । श्रीमते हयग्रीवाय नमः । श्रीमते रामानुजाय नमः । शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् । प्रसन्नवदनं ध्याये सर्वविघ्नोपशान्तये ॥ 
-यस्य द्विरदवक्त्राद्याः पारिषद्याः परश्शतम् । विघ्नं निघ्नन्ति सततं विष्वक्सेनं तमाश्रये ॥ विशुद्धविज्ञानघनस्वरूपं विज्ञान विश्राणनबद्ध दीक्षम् । 
-दयानिधि देहभृतां शरण्यं देवं हयग्रीवमहं प्रपद्ये ॥१७६ 
-It ends with the following: 
-APPENDIX 
-हरिः ओम् । श्रीमते रामानुजाय नमः । 
-9. Manuscript " M, " has no beginning and it ends with the following : 
-हरिः ओम् । शुभमस्तु । श्रीमत्तातगुरवे नमः । श्रीमते रामानुजाय नमः । 
-आगम गमाय सम्पूर्णम् । 
-श्रीमद्यामुनमुनये नमः ॥ 
-10. Manuscript " My " has the following beginning : 
-श्रीमते रामानुजाय नमः । 
-यत्पदा॑भोरुहध्यानत्रिध्वस्ताशेषकल्मषः । वस्तुतामुपयातोऽहं यामुनेयं नमामि तम् ॥ 
-It ends with : 
-हरिः ओम् । 
-11. Manuscript " V " which has no beginning, ends with the following : 
-हरिः ओम् । श्रीमद्यामुनमुनये नमः । श्रीमत्सुन्दरगुरवे नमः । 
-12. Manuscript V2" starts with the following ; it breaks off in the middle : 
-श्रीरङ्गरामानुजम ह। देशिकाय नमः । श्रीमान् हृदि - श्री निगमान्तमहा देशिकाय नमः । प्रणामः । श्रीमद्रामानुजाय... श्रीधराभ्यां नमः । श्रीमते श्रीह्यवदन परब्रह्मणे नमः । यामुनमुनये नमः । अस्मद्गुरुपरम्परायै नमः । श्रीमद्यामुनमुनये नमः । 
-... 
-...... ... 
-श्लोकः 
-अवौषध्वंसनायालं अत एव निवेद्यादि 
-* अतश्च भावहीनानां अतस्सर्वज्ञशब्दोऽयं अतो जीव पर स्वेऽपि 
-I Index of Verses 
-मागमप्रामाण्यान्तर्गतानां श्लोकानां भक. रा देसूची ॥ 
-[* एतचिद्द्निताः श्लोकाः प्रन्थान्तरेभ्यः उद्धृताः । ] 
-पृष्ठम् | श्लोक 
-१६३ 
-अप्रमाणं विरुद्धार्थ 
-१६७ | अभिनिवेश 
-१६३ * अर्चनान्ते 
-५१ | अलब्ध मुख्यवृत्तीना ५७ * अवश्यं वे णवः २२ | अवश्माश्रयणीयेर्यं 
-म् 
-१२१ 
-१ 
-१५५ 
-८१ 
-अतो न वेदमूलत्वं 
-१८ 
-अत्र ब्रूमः 
-१४७ * अश्रुते ब्रह्मणा 
-८३ 
-अत्राह देवमुद्दिश्य अत्रोच्यते संदवेति 
-१६१ 
-अस्यापि पञ्चरात्रत्वात् 
-११७ 
-५६ अहो मन्दस्य 
-४१ 
-अथ तत्र प्रमाणवे 
-rr 
-अहो विद्य'लोहा सि 
-१६२ 
-अथ विध्यन्वयाभावे 
-८३ 
-आकल्प विलसन्तु 
-ܙ 
-. 
-अथ श्रुतिप्रसिद्धत्वात् 
-११३ | आदिशब्देन 
-अथानु दिनहोमादेः 
-१.४ *आपद्यपि च 
-१२० 
-१५ 
-अतोषहानाय देह... 
-३२ 
-आवापोद्वाप 
-अथेोषहानाय वेद... 
-६१ 
-आस्तामप्रस्तुता 
-अथो कश्चिद् ब्रूयात् 
-५८ 
-* आहायका देवलकाः 
-* अदीक्षितन विप्रेण 
-१५७ 
-इति मत्वैतदाचष्ट 
-१० 
-अद्यत्वेऽपि हि 
-अनन्यलभ्यः 
-इति स्कन्दपुराणेऽपि 
-१२८ 
-इत्थं तमेव 
-* अनादिनिधनः 
-८६ 
-इत्थं नानाश्रुति 
-अनीश्वरस्य अनुकम्पा प्रयुक्तेन अनुच्छेदाभिधानेन अनुमा बाधिका 
-२७ 
-इत्थमेश्वर्यवैराग्य 
-३६ 
-इत्थं पाशुपतादीना 
-५७ 
-५५ 
-इत्थं भुतस्य 
-१३४ 
-१२७ इत्यादिभिरनाचारैः 
-१४ 
-अन्यच्च वेद 
-अन्ये भस्म 
-अपि चाचरतः अपि चान्तु नरः 
-९१ 
-१०० 
-१४ 
-हर नुक्तवाक्यानुगुणं 
-इत्यादिस्मृतिशत 
-ད་པ 
-८५ 
-इत्युपभ्यस्तया 
-ས་ 
-४८ * इदं महोपनिषदं 
-१०७, १२९, १३४ 
-*अपि वा कर्तृ 
-भपौषेयताज्ञानं 
-१० ३६ शतमहला खि 
-१९७ 
-३६ श्रेयः 
-१७८ 
-श्लोक 
-इन्द्रियान्तर विज्ञानं 
-इष्यते तदनैकान्तं इह तु ब्रह्मज्ञानं 
-INDEX 
-पृष्ठम् श्लोकः 
-पृष्ठम् 
-५ 
-किमज्ञासीत् 
-७९ 
-४३ 
-किमस्य बोधकत्वाय 
-१२४ 
-८३ 
-किमस्यावाप्तकामस्य 
-१३२ 
-उक्तं हि गोत्रार्षेयादि 
-१४६ कुङ्कुमं चन्दनं 
-१६४ 
-उच्यते नात्र उत्पत्तिनाशभागित्वात् 
-उत्पत्त्यसम्भवः 
-१६२ कृतार्थत्वात् कीटा 
-३५ 
-२५ 
-१२० 
-क्लृप्तावयवशक्त्यैव केचिद्यदि परं 
-१५३ 
-१५५ 
-उपक्षीणानि 
-५१ * केशवो भरतश्रेष्ठ 
-८६ 
-*उरभुक्तस्य 
-१६४ | क्रियात्वेन 
-तु 
-१०० 
-* ऋग्वेदो देवदेवस्यः 
-१०४ 
-क वा देशे 
-૩૪ 
-ऋ ऽपि विधि 
-८३ 
-गर्भाधानादि 
-१४ 
-ऋते सिद्धयति 
-* एकः परस्ताद्यः एत एव च ते एवं च सति 
-एवं श्रुतिविरुद्धस्य एवमादिपुराणोक्त * एवमेकं सांख्ययोगं 
-७३ गृहीतत्वमधीतत्वम् 
-८५ * वत्वार एकतो वेशः चैत्यवन्दनतः स्वर्गः 
-५८, १०० 
-जगज्जन्मस्थिति 
-१३६ 
-•૪ 
-१३९ 
-८९ 
-१ 
-१०१ 
-जननीजार सन्देह 
-१४२ 
-१३० जीवन्तीति हि 
-५६ 
-१३३ 
-जीवाः पशव उच्यन्ते 
-૪ 
-* एष चाक्षिपते 
-८६ * ज्ञानमप्रतिघं तस्य 
-२६ 
-कथचिद्वेदवाक्यानि 
-१३७ 
-तटस्थोपायतामात्रं 
-कथं नु पौरुषेयस्य 
-१२४ 
-ततश्च तन्त्रसिद्धान्त 
-१६२ 
-*कालमथ 
-९३ 
-ततश्च सत्त्वात् 
-१५३ 
-* र्णिका रुचकं 
-९३ 
-ततश्च सन्तति 
-१४५ 
-कर्तव्यं जातकर्मेति 
-६७ 
-ततः स्वतन्त्रताहानिः 
-३७ 
-* कलौ तद्रूणिः 
-९९ 
-तत्कर्तृकत्वस्मृत्यात्र 
-१२७ 
-* रूप देवलकाः 
-कल्पयन्त्याश्रमादीनि कार्ये मानान्तरापूर्वे 
-* कालयोगातिरिक्तं 
-किं च मानान्तरापूर्व 
-१५७ 
-तत्तत्कल्पित युक्तिभिः 
-१७० 
-९.६ * तत्प्रसादाद्वय 
-८६ 
-तत्र पञ्चग्दार्थास्तु 
-९५ 
-1 
-१६२ | तत्र यः परमात्मा हि 
-८६ 
-૨ तत्र वार्तिककारेण 
-५३ 
-किं च सर्वज्ञशब्देन 
-५१ 
-तत्र संव्यवहारार्थ 
-११० 
-किं चेदं वेदमात्वं 
-१३५ | तत्रः ज्ञातेऽपि 
-किं चते वासुदेवस्य 
-१०० * तत्रापवाद निर्मुक्तिः 
-१२६ 
-किं चवं सति 
-८२ तत्त्वं जिज्ञासमानाना 
-૮૬ 
-किं तु वेदस्य नित्यत्वे 
-१३० 
-तत्साधनतया 
-७६ 
-किं नु चत्वार एवैते 
-११७ 
-तथा गोशब्द 
-१४९ 
-लोक 
-तथा च दृश्यते 
-INDEX 
-पृष्ठम् लोक 
-יו 
-१४५ 
-तथा च प्रत्यक्ष 
-३० 
-दक्षिण विविधा दर्शयित्वात्समायासे 
-पउम् 
-१२८ 
-ve 
-तथा च हरिशब्दस्य तथाऽजो क 
-*तथा पाशुपतादीनि 
-तथा रौद्रं पदं 
-१४९ * दगनाख्यधिकं पूर 
-१६२ 
-५७ * दीक्षा प्रवेशमात्रेण 
-९७ 
-९८ *दुर्लभो भगवद्भक्तः 
-१६३ 
-८८ * दूषणं न प्रयोक्तव्ये 
-१६४ 
-तथा सावयवत्वेन 
-२४ 
-देवतान्तर निर्माल्यं 
-१६५ 
-तथा हि पौरुषे 
-४९ 
-द्वेषा खलु प्रमाणत्वं 
-१ 
-तथा हि भूतशब्दोऽयं 
-५६ 
-न च तन्त्रान्तरेष्वेषः 
-तथा हि वेदस्सह 
-१३२ 
-न च द्रव्यान्तराक्षेपः 
-१६८ 
-तदनन्तरसञ्जात 
-६७ 
-न च निर्दिश्यते 
-५६ 
-तदसत् न प्रमाणानां 
-rr 
-न च वाक्यत्वलिङ्गन 
-२७ 
-तदसत् न हि 
-७३ 
-, 
-न चान्यस्मात् 
-८५ 
-तदसत्, 
-सिद्ध 
-६६ 
-न चापूर्वाण्यधिष्ठाय 
-*तदा न व्याप्रियन्ते 
-१२५ 
-न चाविज्ञात 
-तदिदमनुपपन्न 
-न चेदृशप्रयोगेण 
-३१ 
-*तद्भवान् वेत्स्यते 
-१३३ 
-न चेह सावकाशत्वं 
-१२७ 
-* तद्वेदबाह्यं 
-९९ 
-न चैवं परमात्मस्वं 
-.. 
-तन प्रत्यक्षविज्ञान 
-Y 
-न चोपमानात् 
-*तमो वा इदं 
-८८ *न तस्य कश्चित् 
-४९ 
-तस्मादस्ति 
-७९ 
-न तावतैष 
-१५५ 
-तस्मादशकांक्षितासन्न 
-६९ 
-न तावत् पुरुषाधीन 
-*तस्मादारभ्य 
-se 
-न तावत् पौरुषेयेण 
-*तस्य वेदाः 
-१३३ 
-न तावद्... अनुपलम्भतः 
-तस्य सम्भावना 
-८१ 
-न तावद्... हेत्वसिद्धित: 
-१३८ 
-* तांश्व संवत्सरात् 
-१५७ 
-न तावदनुमानेऽस्मिन् 
-५९ 
-तात्पर्यमेव 
-૪૪ 
-न तावदयमज्ञासीत् 
-७९ 
-तानि कार्यान्वित 
-४३ ननु च केवल 
-३९ 
-तावता च प्रमाणात्वं 
-तावद्धि पञ्चरात्रस्य तुल्याक्षेपसमाधाने *ते यान्ति नरकं 
-त्यज्यतां वा त्रयीदण्ड प्रतिक्षेपं त्रयीविदामित्थं 
-*त्वं च रुद्र 
-८ 
-ननु च श्रुतिमूलत्वे 
-१०५ 
-१२१ 
-ननु तत् क्लृतसामर्थ्यं 
-५ 
-९ 
-ननु प्राणाग्निहोत्रस्य 
-१६७ 
-१६४ | ननु मूलान्तरापेक्षा 
-९ ननु विरचितनीत्या 
-૮૪ 
-९६ *नवनीतं यथा दनः 
-१०६ 
-१९ न सिद्धमेत् तन्त्रसिद्धान्तः 
-१६२ 
-९८ तत्करणं 
-१४५ 
-१८० 
-लोकः 
-*न हि तेभ्यः परं 
-न हि नित्याधिकारेषु 
-INDEX 
-पृष्ठम् | श्लोक 
-पृष्ठम् 
-१०४ पञ्चरात्रविदो मुख्याः 
-१६७ 
-દ્ 
-पञ्चरात्रस्य निर्माता 
-१२७ 
-न हि भागवतैः 
-१५५ 
-पञ्चरात्रागमे 
-६० 
-न हि मानान्तरापूर्वे धर्मे 
-२८ 
-प्रदानां तत्परत्वेन 
-४१ 
-न हि मानान्तरापूर्वे व्युत्पत्तिः 
-७१ 
-पदान्तराणि 
-૪૩ 
-*न हि विष्णुमृते 
-९० *परमात्मा च सर्वेष 
-८९ 
-न हि स्मृतिप्रसिद्धार्थ 
-नाडिकादश के पूर्णे नाधिकुर्या:हिंसा दौ 
-नानेन वचनेनेह 
-नापि भुक्त्यन्तराक्षेत्रः 
-नामैकत्वकृतभ्रन्ति 
-*नारायणमुखोद्वीतं 
-*नारायणः परः 
-११३ रमात्मा परः 
-८६ 
-१६२ परस्परमपेक्षेते 
-२२ 
-१३८ *रा प्रकृतिः 
-८५ 
-- 
-११० 
-पर्युः सिष्यतानेन 
-५६ 
-१६८ 
-पश्यन्तः पौरुषेयत्वे 
-५७ 
-९७ 
-पादोदकं प्रति 
-१३ 
-१२९ 
-पुण्यपापनिमित्तं व 
-२७ 
-८८ 
-पुत्रजन्मैव 
-६७ 
-*नारायणात्परः 
-८७, ८९ 
-पुमर्थत्वाय 
-१२४ 
-नित्यत्वेऽवयवित्वं 
-३२ 
-पुराणैश्चैव 
-१३३ 
-नियोग व माहात्म्यात् 
-པ་ 
-पुष्पौदनादिमात्रं 
-१५८ 
-निरस्तम प्रमाणत्वं 
-१२० 
-पूर्वोक्तं वेदवाह्यत्वं 
-१३६ 
-निरूपणेऽपि 
-१६५ प्रकृत्यमाणं 
-*निर्माल्यं भक्षयित्वैवं 
-१६१ प्रतिषिद्धार्थ 
-१६ 
-निर्विशङ्क प्रमाणत्वं 
-१३० 
-प्रत्यक्षष्ट 
-२८ 
-* निवेदितं तु 
-१६० 
-प्रत्यक्षादिप्रतिक्षिप्त 
-re 
-निषिध्यते हि . 
-१६० 
-प्रत्यक्षादिप्रमाणानां 
-९१ 
-नेदं रजतविज्ञान 
-१२७ 
-प्रत्यक्षो न भवेत् 
-१४६ 
-नैतज्ज्यायः 
-५. 
-प्रत्युत भ्रमयन्नेव 
-५२ 
-नैतावता 
-१४६ प्रस्तुतैनान् 
-१० 
-नैयोगिकस्स 
-७३ 
-प्रथममधिगता ये 
-༥པ 
-नैव तत् पञ्चरात्रादि 
-१० 
-प्रमाणमित्यनैकान्त्यं 
-१३६ 
-नैत्र, न कल्प्यते 
-१०१ 
-प्रमाणान्तरदृष्टार्थ 
-८१ 
-नैव शब्दे स्वतः 
-६५ प्रमादोऽपि च 
-९७ 
-नैकशब्द नैष दोषः 
-१४८ 
-प्रस्तुतमन्थ 
-६५ 
-१६८ 
-* प्राणाय चेत्यपानाय 
-१६६ 
-पक्षो नाम 
-*चमः सात्वतः 
-पचरात्रप्रमाण स्त्र 
-पचरा सहस्राण 
-५९ 
-प्राप्तं पाशुपतं तन्त्र 
-५१ 
-१३, १४७ बुद्धिमत्कर्तृत 
-२९ 
-१२० 
-ब्रह्मकूर्च ततः 
-१६१ 
-१३२ 
-ब्रह्मशापाभि 
-९९ 
-INDEX 
-श्लोकः 
-पृष्ठ: 
-लोक 
-*ब्राह्मणः क्षत्रियैः भङ्गुरो न च *भविष्यति प्रमाणं 
-१०७ 
-यदि साधन 
-१८१ 
-པ་ 
-VY 
-७३ यदि स्वर्गस्य 
-७५ 
-१०७ 
-यद्वा त्याज्यतया 
-૧ 
-भस्म पच्छादितः 
-१४५ 
-यद्वा सूत्रद्वयस्यास्य 
-११९ 
-भक्तं भागवतं 
-५४ यस्य देवस्य 
-८७ 
-भोज्या भोज्य 
-महत्तया सनाथेन 
-१६८ यस्साक्षात्कुरुते 
-११० 
-२४ 
-यागादिभिः 
-१९ 
-*महत्त्वे च 
-१०४ 
-यापि प्रवृत्ति 
-६८ 
-महत्त्वे सति 
-३१ 
-यावत् खलु 
-८१ 
-महानन्दास्नको मोक्षः 
-९६ 
-या वेदबाधा इत्येतत् 
-मही लपत नादि 
-३१ 
-* या वेदबाह्याः स्मृतयाः 
-५८ 
-. 
-मन्तं महदादि 
-९५ यूग दित्यादि 
-८१ 
-मा भूत् प्रत्यक्षना 
-२९ 
-ये कल्पोक्तं 
-१५७ 
-* विष्णुव्यतिरेकेण 
-९९ 
-ये तु सामान्य 
-१०० 
-मायामोहनविग्रहेण 
-५२ 
-ये नाम भगवच्छाब 
-१६५ 
-*मुद्रिकाषट्कतत्वज्ञः 
-९३ 
-येऽमी केचन 
-१ 
-* मुद्रिका षट्कविज्ञानात् 
-९३ 
-ये वेदमार्ग 
-९८ 
-मूल ज्ञान परिज्ञानात् 
-७९ 
-*येषां वंश 
-१५ 
-यजनं मुख्यमेवैतत् 
-१५७ 
-ये हि युष्मद्विषाः 
-१६२ 
-यतो न 
-३८ * योऽर्चितं प्रतिगृहाति 
-१५६ 
-यतो नारद यतो भगवदर्थेन 
-९ * द्राक्ष कङ्कणं 
-९९ 
-१६५ | रूढिशक्ति 
-१९ 
-यतु चत्वार एते 
-११३ 
-हव्या सात्वत 
-१२ 
-यत्समानवयो वेष 
-१४६ 
-रूपरूपि 
-यथा कापालिकाः 
-९२ 
-ललाटादभवत् 
-.. 
-यथाऽनुष्ठान 
-१६९ 
-वक्तुराशय 
-६५ 
-यथा माहेश्वरे 
-९१ 
-वदन्ति खलु 
-་་ 
-यथा वा होतुः 
-१६८ 
-वयं च याग 
-१९ 
-यदप्येते 
-३३ *वसन्ते दीक्षयेत् 
-यदार्त्विज्यं कृतं 
-१५५ | वाक्यं हि यत् 
-यदि जीवाः 
-५६ | वासुदेवप्रणीतस्वं 
-११७ 
-यदि तारताग्राहः 
-४३ वासुदेवाभिधानेन 
-५२ 
-यदि न प्रतिगृह्णीयुः 
-१५५ | विचित्र देहसम्पत्तिः 
-११२ 
-यदि मन्वादिवत् 
-५३ विचित्रसन्निवेशत्व 
-૧૮ 
-*यदि विष्णुः 
-यदि वेशत् 
-८६ चि 
-१६ 
-१३६ 
-विनाशी विश्व 
-१० 
-૧૧ 
-लोक 
-INDEX 
-पृष्ठम् | श्लोकः 
-विनाश्यन्ते यथा विप्रलब्धुं 
-२४ 
-व्यक्तं च वेद 
-१३२ 
-विभुस्तम्भान्तर 
-विरोधेऽपि 
-विरोधे सति विवादगोचराः 
-विवादाध्यासितं ... न मानं 
-विवादाध्य सिन... प्रमाणं विवादाध्यासिताः विवादाध्यासितो जीवो 
-विशिष्ट प्रतिषेधोऽपि * विष्णु देहपरामृष्टं माल्यं 
-* विष्णु देहपरामृष्टं यः * विष्णुरेव परं 
-व्युत्पन्नव्यवहारेषु ६ व्योम्नैव लब्ध 
-३१ 
-शब्दप्रमाणके 
-* शशाप तान् 
-२४ | शैवं पाशुपतं चैव 
-१७ *वं पाशुपतं सौम्यं ५९ | श्रुतिमृर्ध्नि वामुदेवेन 
-... 
-पुहम् 
-९९ 
-७० 
-६ 
-१६५ 
-९९ 
-५३ 
-५४ 
-२५ 
-श्रुतिमूर्ध्नि ... सर्वज्ञेनैव 
-४१ 
-५७ 
-श्रुतिस्मृति प्रतिक्षिप्त 
-५५ 
-१५८ 
-श्रुतिस्मृति प्रसिद्धेन 
-ve 
-१६६ | श्रूयतामुभयत्रापि 
-१४३ 
-८५ 
-८७ 
-१२१ 
-१६४ | श्रूयते हि सः 
-८९ * स एकः 
-१६६ । सति वेदविरुद्धत्वे 
-* विष्णो ने वेद्यकं 
-*विणोस्सकाशात् 
-४९, ८७ 
-सत्यं तदेव 
-* विष्णौ जगत् *वृत्ति कृत्या तु श्रत्यर्थ देवता *वृत्यर्थं पूजयेत् 
-*वृत्त्यर्थयाजिनः 
-वेदप्रशंसा 
-वेदबाह्यगृहीतत्वात् 
-वेदमूलत्वहानेन 
-८६ 
-सत्यमुक्तं 
-२८ 
-१५७ 
-सदेव सोम्येदमिति 
-५५ 
-१५४ | सन्ति नचास्तटे 
-९१ 
-१६ सन्दिह्यमान 
-२८ 
-१५७ *स ब्रह्म परमं 
-८६ 
-• १०४ 
-समानरूप 
-१४६ 
-१३५ 
-समानैश्वर्य... कार्यता 
-११४ 
-२३ 
-समानैश्वर्य... सृज्यता 
-वेदसंयोगि 
-*वेदसिद्धान्त 
-वेदान्तसार 
-९ 
-संभाव्यमान 
-१४२ 
-८९,९० • संस्थानेन 
-१४५ 
-१०९ | सर्वज्ञेश्वरशब्दौ च 
-५० 
-*चेदान्तेषु 
-*वेदेन पञ्चरात्रेण भक्त्या 
-*वेदेन पञ्चरात्रेण यः 
-१०२ 
-सर्वज्ञेषु च भूयस्सु 
-૪. 
-१३२ | सर्वलोक 
-५८ 
-१३४ * सहस्रबाहुः 
-९० 
-*चेदैश्चतुर्भिरसहितं 
-१०९ *सात्त्वतं विधिमास्थाय 
-१०७ 
-*वेदोऽखिलः 
-१८ सात्त्विकेषु तु कल्पेषु 
-९० 
-वैदिकं तन्त्रिकं 
-५३ 
-साध्यसाधनसम्बन्ध 
-वैश्यवात्यान्वये 
-१४७ 
-साध्य वर्ग 
-*वैश्यासु...वात्यात् सुधन्वा 
-१३ 
-सापेक्ष निरपेक्षत्वे 
-वैश्या तु... वात्यादिति 
-१४७ *सायं प्रातः 
-७२ 
-१२७ 
-१६८ 
-सिद्धमेव हिं सिद्धिपर्यन्तता सिद्धे वस्तुनि सुधन्वाssचार्य * सुवर्ण व्यज्यते *सूर्याचन्द्रमसौ 
-सेयं सर्वा 
-*स्त्रियं च 
-स्यादेवं यदि 
-स्रष्टसृज्य 
-INDEX 
-૧૮ 
-पृष्ठम् श्लोक 
-परम् 
-७३ 
-स्वतन्त्राधिगमाधीनं 
-Y स्वर्ग कामयमानो हि 
-६६ | स्वर्गसिद्धि विना 
-७५ 
-४९ स्वसिद्धान्तचिराभ्यास 
-८. 
-१४५ 
-स्वातन्त्र्यकल्पना 
-५३ 
-४९ हन्तैवंवादिना 
-११ 
-९६ हन्तैवं सर्व 
-229 
-१०९ * हन्त्यल्पदक्षिण: 
-१५५ 
-२७ *हृदि ध्यायन् 
-११७ *हैतुकान् 
-१६ 
-५९ 
-2 Index of Texts Quoted 
-प्रन्येऽस्मिन् उदाहृतानां प्रन्यानां प्रन्थभागानां च सूची ॥ 
-पृष्ठम् | नाम 
-नाम 
-पृष्ठम् 
-आदित्यपुराणम् 
-९९ 
-महाभारतम् 
-३७, ८६, १०४, १०६, १२८, 
-इन्द्ररात्रम् 
-१६१ 
-१३२, १६६, १६७ 
-ईश्वरसंहिता 
-१६३, १६४ 
-माहेश्वरतन्त्रम् 
-९१ 
-एकायनशाखा 
-८८, १४०, १४१, १७० 
-रामायणम् 
-१०६, १३२. 
-एकायनश्रुतिः 
-१६९, १७० 
-लिङ्गपुराणम् 
-५१, ८७, १०, १०० 
-ऐतरेय ब्राह्मणम् 
-१०३ 
-वाजसेनयशाखा 
-१४०, १४१, १६९ 
-कात्यायनगृह्यसूत्रम् 
-१६९ 
-वायवीयम् 
-काश्मीरागमप्रामाण्यम् 
-१७० 
-वाराहम् 
-८७, ८९, ९७, १३२ 
-तन्त्रटीका 
-दानधर्मः 
-पञ्चाध्यायी 
-परमसंहिता 
-पाद्मोद्भवम् 
-१०२ 
-वैष्णवम् ( विष्णुपुराणम्) 
-८७, ८९ 
-८६ 
-शान्तिपर्व 
-१०७ 
-९५ | सनत्कुमारसंहिता 
-१६० 
-१५, १५७ 
-१६४ 
-स्कन्दपुराणम् 
-५१, १२८ 
-पाशुपत तन्त्रम् 
-५९, ९८, १०६ 
-पुरुषनिर्णय: 
-ब्रह्मपुराणम् 
-भविष्यपुराणम् 
-भीष्मपर्व 
-९० 
-१४, १६५ 
-९० 
-• 
-१०७ 
-मत्स्य पुराणम् 
-मनुस्मृतिः ९, १९, २२, ५२, ८७, १०२, १०३ 
-८६, ९० 
-3 Index of Authors Referred to 
-प्रन्येऽस्मिन् निर्दिष्टानां प्रन्थकर्तॄणां सूची ॥ 
-पृष्ठम् | नाम 
-नाम 
-अत्रिः 
-उशनाः 
-१६ 
-वार्तिककारः (कुमारिल: ) 
-१३ 
-वाल्मीकिः 
-जैमिनिः 
-१०, १३५, १५३ 
-ब्यासः 
-देवल: 
-१५ 
-शङ्खः 
-द्वैपायनः 
-८५, १०६, १०९, १३९ 
-शाण्डिल्यः 
-नाथमुनिः 
-१७९ 
-शौनकः 
-नारदः 
-८५ 
-पराशरः 
-४९, ८५ 
-बादरायणः 
-१९, १०६, ११२, ११६, १३० 
-भाष्यकारः 
-मनुः 
-१३५ 
-८, १३, १४, १८, ४९, ५३4 Index of Mimāmsā & Vyākarana Sutras Quoted प्रम्थेऽस्मिन् उद्धृतानां मीमांसाव्याकरणसूत्राणां सूची ॥ 
-प्रतीकः 
-अपि वा कर्तृसामान्यात् 
-अपि वा कारणाग्रहणे 
-उत्पत्त्यसम्भवात् 
-चराचरव्यपाश्रयस्तु तस्येदम् 
-न च कर्तुः करणम् 
-नात्मा श्रुतेः प्रोक्षणीष्वर्थसंयोगात् 
-यजूंषि वा विज्ञानादिभावे वा 
-विप्रतिषेधात् 
-भाकरः 
-q. f. I. iii, 2 
-"" 
-I. iii. 7 
-ब्र. सू. II. ii. 39 
-पृष्ठम् 
-१० 
-१४० 
-" 
-II. ili. 17 
-१९, १०९ 
-११२ 
-पाणिनि IV. ii. 120 
-१५० 
-ब्र. सू. II. li. 40 
-११२, ११७, ११९, १२२ 
-II. iii. 18 
-११२ 
-39 
-१५३ 
-II. i. 40 
-"J 
-१५४ 
-पू. मी Iiv. rI 
-ब्र. सू. II. ii. 41 
-११४, ११८, १२२, १३० 
-" 
-II. ii. 42 
-११५, ११९, १२०, १३१, १३४
+[^172_1]: M₆—°सिद्धि°
+[^172_2]: M₁—°उपलालन°
+[^172_3]: M₆—तन्मूलता
+[^172_4]: M₆—यथैव; omits हि
+[^172_5]: My omits त्र
+[^172_6]: T notes °फलनिष्पत्तौ° as a variant
+[^172_7]: M₃—तन्मूलनाम्°
+[^172_8]: M₁, M₆ omit आगम
+[^172_9]: M₃, M₈—निष्पद्यते
+[^172_10]: A, M₅, M₇, V₁, V₂—च; M₄ reads अथ च हि, in which case the line falls short of one syllable.
+[^172_11]: M₁ omits श्च
+[^172_12]: M₃—°प्रणमनाम्
+[^172_13]: M₃—°भूतागमाम्°
+[^172_14]: M₃—किं त्विदम्°
+[^172_star]: * Cf. Tantravārtika, p. 70.
+[^172_section]: † Cf. ibid.
+[^172_dagger]: ‡ Ibid.
+[^172_para]: § Ibid. ¶ Manuscript M₇ starts from “vagama” See, Critical Apparatus.
+
+---
+*“वसन्ते दीक्षयेद् विप्रं¹ ग्रीष्मे राजन्यम् एव च¹ ।  
+शरद-समये वैश्यं हेमन्ते² शूद्रम् एव च¹ ॥  
+[[P173]]
+
+[^173_1]: M₁ omits च making the metre defective
+[^173_2]: M₂—हेमन्ते
+[^173_star]: caturnṇāmadhikāro vai prāpte dīkṣākrame sati | This Dīkṣā is threefold, yielding different results to the followers. Cf. ibid. XIX. 4 : kaivalyaphaladāpyekā bhogaikaphaladā parā | bhogadāiva tṛtīyā ca prabuddhānāṁ sadaiva hi || Ch. XIX of this āgama deals with Dīkṣā in detail. Also see Parama Saṁhitā XXXI. 53 : tisro dīkṣāḥ kṛtā yena vaiṣṇavena tapasvinā | sa eva vaiṣṇavaṁ jñānamakhilaṁ śrotumarhati || Ibid. XXVII. 41b : evaṁ dīkṣāṁ tridhā bbinnāṁ uttarottarabhūyasim || Also cf. ibid. VIII.3 : sā tu bhaktivaśāt nṛṇāṁ triṣu karmasu niṣṭhitā | prathamaṁ samaye paścāt tantrajñāne tato’rcane || The Dīkṣā-ceremony is dealt with in ch. VIII of this Saṁhitā, in detail. The purpose of Initiation is given in VIII. 1-2: ata ūrdhvaṁ pravakṣyāmi dīkṣāyā lakṣaṇaṁ param | yamāvāpya viśuddhātmā vaiṣṇavaḥ siddhimṛcchati || apratiṣṭhasya manasaḥ śreyomārgamavindataḥ | upāyaṁ bandhanasyāhur dīkṣāṁ dīkṣāviśāradāḥ || Also cf. ibid. śl. 6b-7a : yastu tīvraḥ prayuñjita dīkṣāṁ bhaktisamanvitaḥ || tasya devaprasādena sakalaṁ siddhyatīpsitam | The three types of Dīkṣā called Samaya, Tantra and Arcanā, are defined and explained in ch. VIII. śls. 7b-11a. Also, cf. ibid. III. 29b-30a : brāhmaṇāḥ kṣatriyā vaiśyāśśūdrā yoṣita eva ca || bhaktiyuktāḥ svabhāvena kuryād devasya pūjanam | It is said that one who undertakes Dīkṣā is better qualified than one with-out it. Cf. ibid. III. 39 : dvividhaḥ puruṣo brahman dīkṣito ’dīkṣitastathā | dīkṣitassakalaṁ kuryāt ekadeśam-adīkṣitaḥ || Cf. also Aniruddha Saṁhitā ch. IV and Viṣṇu Saṁhitā ch. X for different treatments of Dīkṣā.
+[^173_dagger]: ‡ To be traced out.
+
+---
+स्त्रियं च वर्ण-काले¹ तु पञ्चरात्र-विधानतः ।”
+
+तथा—
+
+† “वेदेषु² तु-अमित्त-सहितं³ कुतं मेरो महागिरि ।”  
+एवमादि-वचोभिश् च-अङ्गीकृत-सदादर-कीर्तिनः ॥  
+‡ वेदान्त-सार-सर्वस्वम् आत्मीयं परमं⁴ व्रतम् ।  
+पञ्चरात्रं निराकुर्यात् कथं द्वैपायन-स्वयम्⁵ ?
+
+[ उत्पत्ति-असम्भवाधिकरण-तत्त्व-विचारः ]
+
+कथं तर्ही⁶दं सूत्रम्—§⁶उत्पत्ति-असम्भवात्’ इति ? किं भाष्यं सूत्रस्य हृदयम् ?
+* इदम् अत्र सूत्रस्थं—भागवत-शास्त्रे⁷ जीवोत्पत्तेः प्रतिपन्न-मानत्वात्, तस्य-आद्यस्य श्रुति-न्याय-विरोधेन-असम्भवात् असमीचीनं शास्त्रम् इति ।  
+यद्यपि सूत्रार्थः; तथापि पञ्चरात्र-शास्त्रं जीवोत्पत्ति-परं गीतया, येन-एव-उच्यते ।¹⁰  
+[[P174]]
+
+[^174_1]: M₁, M₂, V₁, A & B—वर्णकाले
+[^174_2]: M₃ येऽपि
+[^174_3]: P, PM, T—अविदितम्; A, V₁ & M₅—गदितं; M₄—संहितम्
+[^174_4]: M₃ °भाष्यीयं च परम्,
+[^174_5]: B °प्रमाणम्°
+[^174_6]: M₄ & B, omit तर्हि
+[^174_7]: M₁, M₂, M₄, M₇, My, B—°शास्त्रेषु
+[^174_8]: M₃ & M₆—°भाष्ये
+[^174_9]: M₁, M₂, M₄, M₅, M₇, My, B, omit शास्त्र
+[^174_10]: P, PM, T, M₁, M₃, M₅, M₆, V₁ & A, omit हृदयम्
+[^174_11]: M₃—°स्मृतम्
+[^174_dagger]: † Mahābhārata, śānti, 322. 28b:
+[^174_para]: ‡ Yāmuna holds Vyāsa, the author of the Mahābhārata to be one with Bādarāyaṇa, the author of the Brahmasūtra.
+[^174_footnote]: § Brahmasūtra II. ii. -39.
+[^174_doublestar]: * The ‘pūrvapakṣa’ arguments advanced here are those made by Śaṅ-kara. See his commentary on the four sūtras comprising the ‘Utpattyasam-bhava’ or the ‘Pāñcarātra’ section : Brahmasūtra II. ii. 42-45.
+[^174_triple_dagger]: § ‘हृदयम्’ इति शेषः ।
+
+---
+† नन्व्-अस्तीदं वचनं—‘वासुदेवः परम्¹ प्रकृतिः² परमात्मा;  
+ततस्-संकर्षणो नाम जीवो जायेत; संकर्षणात् प्रद्युम्न-संज्ञं मनो जायते;  
+ततो ऽनिरुद्ध-नामा³ अहंकारों जायेत’ इति ।  
+सलक्ष्मणस्ति—
+
+नानेन वचनेन-इह जीव-जन्माऽभ्युपेयते⁵ ।  
+* अपि तु व्युह-रूपेण व्यक्तिर् देवस्य कीर्त्यते ॥  
+† तत्र संव्यवहारार्थं व्यूह-भेदस्तु युज्यते⁶ ।  
+वर्णानाम् इव-लोकेऽस्मिन् पूज्य-पूजक-भेदतः ॥  
+[[P175]]
+
+[^175_1]: All but M₄—परा
+[^175_2]: M₃—प्राकृतिः
+[^175_3]: M₁, M₂, M₄, My, B—प्रद्युम्नात्
+[^175_4]: A—अनिरुद्धो नाम°
+[^175_5]: P & B omit this line and the words सत्यमस्ति; My reads नानेन वचनेनेदं जीव-जन्माऽभ्युपेयते
+[^175_6]: P, PM, T, A, M₅, M₆ & V₁ read तत्र संव्यवहारार्थं जीवस्य प्रद्युम्नः; M₃ omits this and the preceding line.
+[^175_star]: ‡ Cf. Ahirbudhnya Saṁhitā V. 28a : ‘भगवता वासुदेवेन परमा प्रकृतिर् इह सा ।’
+[^175_section]: ¶ Cf. Śaṅkara under Brahmasūtra II. ii. 42: ‘चतुस्-संख्यानां वासुदेव-संकर्षण प्रद्युम्न-अनिरुद्धानां भगवद्-व्यूहानां मध्ये’ etc.
+[^175_dagger]: * Cf. Ahirbudhnya Saṁhitā, ch. V : vyūhā ete viśālākṣāścatvāraḥ puruṣottamāḥ | nirdoṣā niraniṣṭāśca niravadyāssanātanāḥ || [śl.41] anantamakṣaraṁ caitat cāturātmyaṁ mahāmune | [śl.42a] tatra sthūladaśāyāṁ te vyaktibhāvamupāgatāḥ || [śl.43b]
+[^175_para]: † ‘संव्यवहारार्थं’ विशेष-प्रतिपादनार्थम् इति भावः ।
+[^175_footnote]: Cf. Ahirbudhnya Saṁhitā : V. 44 : jagatāmupakārāya saccidānandalakṣaṇaḥ | manālambanāyaiṣā cāturātmyavyavasthitiḥ || This Saṁhitā thus clarifies that the four-fold manifestation of the Supreme Lord Vāsudeva, as Saṅkarṣaṇa, Pradyumna and Aniruddha is for the welfare of the creation, by facilitating mental concentration in different degrees for aspirants of different capacities. This four-fold manifestation has got a purpose, says the Sāttvata Saṁhitā, namely, facilitating the worship by the four castes, Brāhmaṇa, Kṣatriya, Vaiśya and Śūdra, respectively. It is only the Brāhmaṇa that is entitled to worship all these four mani-festations of God, viz., Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha. For the remaining castes, however, only particular forms of God are ordained for worship. For further details, see the Sāttvata Saṁhitā ch. VII.
+
+---
+यथाहऽऽहुः—
+
+* “वङ्ग-इक्षु-चर्मिणः चत्वारः पूजनीया यथाक्रमम् |” इति ।
+
+Cf. the following passages from the Sātvata Saṁhitā :  
+abhyantaramarcanaṁ viṣṇor niṣkāmenāgrajanmani || [ VII. 29b ]  
+evaṁ saṅkarṣaṇādyaṁ tu vāsudevāntamarcanaṁ |  
+vihitaṁ kṣatrajātervai kartavyatvena sarvadā ||  
+pradyumnādyaṁ tu vaiśyasya musalāntamudāhṛtaṁ |  
+śavacchidrasyāniruddhādyaṁ pradyumnāntaṁ sadaiva hi || [ 30-31 ]  
+sarvatrādhikṛto vipro vāsudevādipūjane |  
+yathā tathā na kṣatrādyāḥ tasmācchāstroktamācaret || [ 55 ]  
+caturṇāṁ brāhmaṇādīnāṁ svayamevānukampayā |  
+cāturātmyena rūpeṇa caturdhā vyaktimeti ca || [XII.17]  
+evamstvanugrahārthaṁ tu śaktyātmā bhāvitātmanāṁ |  
+bibharti bahubhedotthaṁ rūpaiḥ sadvāhanasthitam || [ 176 ]  
+Cf. the following from the Parama Saṁhitā 1I. 99b-101 :  
+sā tu devāścaturvyūho bhuvaneṣvadhitiṣṭhate ||  
+dharmādiṣu parāṁ siddhimāvāpya hitakāmyayā |  
+vāsudevassmṛto dharmo jñānaṁ saṅkarṣaṇassmṛtaḥ ||  
+tathā vimuktiḥ pradyumnaḥ aniruddhassakaleśvaraḥ |  
+tatra vyaktisamastāśca catvārastu guṇā ime ||
+
+The above passages from the Parama Saṁhitā point out that the four forms of the Lord, viz., Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha are intended by the Lord to initiate the qualities of Dharma, Jñāna, Vimukti and Aiśvarya respectively, in the beings created.
+The fact that the four manifestations of the Lord are designed by the Lord Himself to facilitate the worship by the four different castes is briefly set forth by the Pauṣkara Saṁhitā (ch. 38. śl. 4a, 5a ), which Rāmānuja quotes in his Śrībhāṣya under II. ii. 41, p. 829 :  
+kartavyatvena vai yatra cāturātmyamupāsate |  
+kramāgataiḥ svasaṁjñābhiḥ brāhmaṇairāgamaṁ tu tat |  
+Cf. also Viṣvaksena Saṁhitā XI. 146-147 :  
+vāsudevaḥ parā mūrtissthāpanīyā dvijottamaiḥ |  
+dvitīyā sthāpyate mūrtiḥ kṣatriyair mokṣakāṅkṣibhiḥ ||  
+pradyumnākhyā tu viprendra vaiśyaissthāpyā mumukṣubhiḥ |  
+śūdraissamsthāpyate mūrtiraniruddho jagadguruḥ ||  
+* To be identified.  
+[[P176]]
+
+---
+अपि च जीव-मनसोऽङ्कुश-शब्द-न तन्-मात्र-वचनाः¹, अपि तु तद्-अधिष्ठातृ-चिह्नाखिल-विपुल-विभवानि ग्रह्यन्ते;ऽरूप-आभिधाना इति ।[^177_star]
+
+विविध-देह-सम्पत्तिः जन्मेति व्यपदिश्यते ।  
+* ‘नोयेन जीवन्’ इत्येवत् यद्-उत्पत्तिर् यथा वचः ॥  
+† अपि च, जीवोत्पत्ति-प्रलयादि-गोचराः श्रुतिस्-तत्-नित्य-लोके-वादाः  
+§¹ चराचर-व्यपाश्रयस्तु स्यात् तद्²-व्यपदेशोऽभाक्तः³ तद्-भाव⁴-भावित्वात् इत्य् एव सूत्र-कारेण कुतनिर्वाहः । किञ्च, ††नाऽऽऽत्मा श्रुतेः, नित्यत्वाच् च ताभ्यः’ इत्य्-अत्रैव ब्रह्मणे⁶ जीवोत्पत्तिः श्रुतिस्-तत्-नित्यत्व-न्याय-विरोधेन तिरस्कृता सती न¹⁰ पुनर्-उज्जीव्यासं प्रयोजयतीति अनधिकरणीय-मधिकरण-मापद्येत । एतेन¹¹ **न च कर्तुः करणम्’ इति सूत्रं व्याख्या-तम् । न ह्य् अत्र कर्तुः सङ्कर्षणात् करणस्य मनस उत्पत्तिर् उच्यते । उक्तं हि¹² ‘विलक्षण-गुरु-वचनम्¹³ एते¹⁴ शब्द’ इति ।
+
+[[P177]]
+
+[^177_1]: M₁, M₂, My, B—°वचसा
+[^177_2]: M₄ omits वि
+[^177_3]: M₃—°विहारा°
+[^177_4]: M₂ adds अपि
+[^177_5]: M₂ & M₈ omit तव
+[^177_6]: M₁—°तस्याप्यदेशे° (no भक्तः)
+[^177_7]: The Śrībhāṣya reads only °प्रभावः.
+[^177_8]: M₂ adds another भाव
+[^177_9]: M₁, M₃, —ब्रह्मणा
+[^177_10]: M₁ omits न
+[^177_11]: M₁ & B omit न
+[^177_12]: M₄ omits हि
+[^177_13]: M₃, B—°पुरुष-वच°
+[^177_14]: M₈, My add च
+[^177_star]: * Taittirīya Āraṇyaka X-i-1b; also Mahānārāyaṇa I-4b.
+[^177_section]: † Here Yāmuna points out the discrepancy in Śaṅkara’s division of the Brahmasūtra into Adhikaraṇas. According to Śaṅkara, the aphorism “cara-caravyapāśrayastu” etc., forms another topic (adhikaraṇa). He argues that the origination of the jīva is not of primary significance. But according to Yāmuna, this point has already been clarified by the sūtra : “nātmā śruteḥ”, etc., so much so that the sūtra “carācara” etc., becomes redundant and thus becomes “anadhikaraṇīya”, that is to say that it does not deserve treatment as a separate topic.
+[^177_para]: § Brahmasūtra II. iii. 17.
+[^177_footnote]: † Ibid. II. iii. 18.
+[^177_doublestar]: ** Ibid. II. ii. 40.
+
+---
+¹¹ किम् इति वा कर्तुः करणं¹ नोत्पद्यते ? देवदत्तादेः² कर्तुः, परशु-प्रभृति-करणीोत्पत्तिर्-यथ-दर्शनादि-न केन³ हेतुना । हन्त तर्हि अपास्त-सकल-करणा-कलाप-कलि-प्राणिनः प्रमाणम्;⁴ प्रभु-निखिल-करण-गोपाय्-यम् अपि-गम्यम्ः⁵—‘§ ६तत्-शास्त्रं⁷ प्राप्नोति मनः सर्व-इन्द्रियाणि च’ इति ।
+
+* अथ श्रुति-प्रसिद्धत्वात् तत्° नथैव-आस्थीयते ।  
+पञ्चरात्र-प्रसिद्धत्वद् इदं किं नाम-सुयो¹⁰ मोः ?⁸  
+न हि श्रुति⁹-प्रसिद्धायां¹⁰ परित्यागेऽतिशोभनः ।  
+निर्दोष-ज्ञान-जन्मत्वात्¹¹ प्रामाण्यं हि समं द्वयोः ॥  
+§ यस्तु चत्वार एते किं समानैश्वर्य-भागिनः ।  
+स्वतन्त्राः¹² ? किञ्चित्-स्वस्य स्वेच्छाम् अतिचरितुम् अपी¹³ ?  
+[[P178]]
+
+[^178_1]: H₂ adds इति वा कर्तुः करणम्
+[^178_2]: My—देवदत्ताद्
+[^178_3]: M₂ omits मनः
+[^178_4]: M₃—°मन्यु-पथकः
+[^178_5]: M₅ omits एतस्मात्
+[^178_6]: B omits तत्र, making the metre defec-tive
+[^178_7]: T, M₂, M₄, M₅, M₇, My, V₁, B—नास्त्य् उपेक्षितुम्
+[^178_8]: M₃ has only one line instead of this and the preceding line : ‘अथ तु’ इति नानुपेक्षितुंः’
+[^178_9]: M₂—श्रुति°
+[^178_10]: M₂, M₆—°प्रसिद्धात्
+[^178_11]: B—°जन्मत्वात्,
+[^178_12]: M₁, M₂, M₇, My, B, omit this word, rendering the metre defective.
+[^178_13]: M₁—°चतुरयम्
+[^178_para]: † Cf. Śaṅkara on II-ii-43: ‘न च कर्तुः करणम् । ततश् च मनसोऽपि करणम्, अथापि लोके देवदत्तादेः करणं परश्वादिकम् उपलभ्यते । इति च भगवता ‘बहु-लीला-समुद्भूत-सकल-भुवन-भुवन-पतेः कर्तृत्वं ननु-ज्ञान-रूप-प्रज्ञानात्-अनन्त-गुण-सागर’ इत्य् अयं हेतुना सुलभम् इष्यते ।
+[^178_footnote]: * Yāmuna here pleads for the validity of the Pāñcarātrāgamas on the ground that they, like the Vedas, are based upon knowledge that is free from all defects. Cf. the inferential statement made by Yāmuna above: vivādādhyāsitaṁ tantraṁ pramāṇamiti gr̥hyatāṁ | nirdoṣajñānajanmatvāt jyotiṣṭomādivākyavat ||
+[^178_doublestar]: § Cf. Śaṅkara on II. ii. 44.
+[^178_triple_dagger]: “धर्म-द्वारे — परम्-अपि तद्-विज्ञाय, उपपादयिष्यन्ति....यदि तावद्-अन्याय्यम् इयम्—परम्मिन् पञ्चरात्रेऽपि परमात्म-विचारं ज्ञेयानुपपत्तेश् च मीमांसक-प्रभृतिभिः, ततोऽपि कारण-प्रमाणम्, एनोन्य्-अपेक्षया
+
+---
+इति विकल्प्य—
+
+समानैश्वर्य-भागित्वे तुल्यत्वात् न-एव कार्यता ।  
+एकस्य श्रुति-भेद-दृष्टेः किं भेदेन प्रयोजनम् ?  
+इति द्रव्य-तया तुल्यत्वात्¹ विज्ञान-आदि-भावे वा नद्-अप्रयोजकम्’ इति, तद्-युक्तम्—अस्मान्-अमीवत्वात्, विकल्पस्य । न हि केनचिद्-वादिनाऽनेकेश्वरं जगद्-भ्युपगतम्; विद्वान्-इन्द्रश् च राष्ट्र¹-विद्विष्टः, “वासु-देव’ एकः’ परा प्रकृतिर्-नित्य्-एति⁴ वदद्भिः । § किन्तु स एव⁵ भगवान् लीला⁶-विरचित-चतुर्भेदः सकलम् अपि जगत् संरक्षतीति ।  
+[[P179]]
+
+[^179_1]: B—पद°
+[^179_2]: P & PM add एव
+[^179_3]: M₂ & My add एव
+[^179_4]: M₄—प्रकृतिर्-इति
+[^179_5]: M₃ adds another स यत्र
+[^179_6]: M₄ मन्महीत°
+[^179_7]: § ईश्वर-कार्त्स्न्ये । निश्-शब्द-आदि-निवेश-अभावात्-एको वासुदेवः परमात्मैवेति-इत्यस्य्-अङ्गीकृतत्वात् । अध्याय-भिन्नतया—एक एव भगवान् एक एवेश्वरो बहु-रूपेण तुष्यति इति, तथापि तस्यैव उपकरणस्य न हि वासुदेवस्य्-ऐश्वर्यस्य-अल्पोऽपि संकोचस् तावत्; संकर्षणादयश् चत्वारः प्रद्युम्न-अनिरुद्ध-संकर्षण-वासुदेवाः, प्रतिविम्बे हि कार्य-कारणादयो न-इष्यन्ते, यथा शुद्धादयोः । न हि ब्रह्म-लिप्सायां कार्य-कारण-भेद-त्वम् अस्ति; न च ब्रह्म-लिङ्ग-आदि-कानि वासुदेव-आदि-लिङ्ग-कानि वा ज्ञानेश्वर्यादि-देवता-स्वरूप-भेदः श्रूयते भवति वा । चतुर-संख्यानां भवतु नित्येषु, महा-प्रलयेऽप्य् अवतिष्ठमानस्य समस्त-जगतो भगवान् वासुदेव एव-ईश्वर् इति ।”
+[^179_dagger]: † Brahmasūtra-II-ii-41.
+[^179_para]: * Cf. Ahirbudhnya Saṁhitā V-28a: ‘भगवान् वासुदेवः स परया प्रकृत्या वा ।’
+[^179_footnote]: § Cf. ibid. śls. 21b-24: “तत्र ज्ञानम् अनघं देव-सर्व-रूपिणं बली ॥ व्यक्ताव्यक्त-गतिं ध्यात्वा भगवद्-विग्रह-स्थितम् । सीदत्य् एवं देवः प्रकृष्टः पुरुषोत्तमः ॥ स्थितः शक्ल-प्रभावेण भगवत्-स्यात्म-विग्रहम् । प्राप्य-वनिश्शेषज्ञस् तत्त्वं भगवत्-त्वम् अश्नुते ॥ प्राप्य-वनिश्शेषज्ञस् तत्त्वं भक्त-शक्त्याऽवकाशतः । शास्त्र-ज्ञास् तपसस्-तत्वं फल-कर्मान्तिका इमे ॥” Cf. Philosophy of Viśiṣṭādvaita, p.156: “Vāsudeva, the perfect self, manifests Himself in the interests of the meditational needs of the devotee, as Saṅkarṣaṇa with the two qualities of jñāna and bala, as Pradyumna with the qualities of aiśvarya and vīrya, and as Aniruddha with Śakti and Tejas without any diminution of Divinity”.
+
+---
+न वेदम् अनुपगम्यम्¹ । बल-रत्न-राज-रजसाऽपि² प्राग्-अभिविष्णु-पश्यतां⁴ । *ग्रथैव हि⁵ प्रवचनः स्वलीला-विरचित-जगद्-वन-चर-स्थिता-दि-प्रपञ्च-स्य्-आचिन्त्य-विमल-महिम्नोऽसत्य्-एव प्रयोजनस्य राम-लक्ष्मण-भरत-शत्रुघ्नादि-स्वरूपेण-उच्छिन्न-वेदान्द्रः⁴ विद्याद् व⁴ न विरोत्स्यन्ते, एवं संकर्षण-प्रभृतिष्व् अपि द्रष्टव्यम् इति ।
+
+यत्-परं¹⁰ विप्रतिषिध्यते’ इति ‘चतुर्षु वेदेष्व्’ इति¹¹ नि श्रुति-वि¹⁰-प्रतिषेधात्¹¹ तत्राऽन्वा¹², परस्पर-वि¹³-प्रतिषेधाद्वा अप्रमाणम् इति¹⁴; नन्व्¹⁵-श्रुति-वि¹⁶-प्रतिषेधात् प्राग्वद् वस्तु-कः । परम्पर-विप्रतिषेधस् त्व् अप्रमाणः¹⁷, गुण-प्रधान-भावेन-आदि-योगात्¹⁸-सत्-प्रतिपादन-वचन¹⁹-व्यक्तीनां ।  
+[[P180]]
+
+[^180_1]: M₁, M₂—वेद-उपगम्यं
+[^180_2]: B omit प्रपञ्चस्य
+[^180_3]: M₁, °प्रभाव°
+[^180_4]: M₁, M₅, M₆, M₇, My, B °उपपन्नत्वात्
+[^180_5]: B omits संविद्
+[^180_6]: ‘प्रतिषेधाद्’
+[^180_7]: P, PM, T, M₁, M₅, M₆, V₁, A omit च
+[^180_8]: B °प्रमाणम्°
+[^180_9]: A °यत्-प्रति°
+[^180_10]: M₃ omits वि
+[^180_11]: B °विप्रतिपत्तिः
+[^180_12]: M₃ omits श्रुति-विप्रतिषेधात् तत्रान्वात्म्,
+[^180_13]: M₁ omits वि
+[^180_14]: M₃—विप्रतिषेधाद् वाऽप्रमाणमिति
+[^180_15]: M₁—ननु°
+[^180_16]: A, My, V₁—omit वि
+[^180_17]: M₃, M₅—प्रामाण्य°
+[^180_18]: M₃ omits भाव
+[^180_19]: M₂ omits वचन
+[^180_para]: Cf. Sāttvata Saṁhitā IV. 33-34 : ‘पाञ्चरात्रस्य सेविना लोकं एव महात्मने । जगत्-प्रकृति-ज्ञानिनं सुखिनं सर्व-संदेहिणम् । एवम् एतेऽपि भगवतो नाना-भाव-प्रवृत्तिषु । तुर्यातिरेकिणस् तस्मात् वासुदेवे समाप्नुयुः ॥’ The cause behind the manifestation of the Lord into different forms is mere sport (krīḍā or līlā) and the purpose of this manifestation is protect-ion for the good. Cf. Ahirbudhnya Saṁhitā ch. 36. śls. 64, 65. ‘प्राप्त-अनुष्ठेय देवः साधु-ज्ञान-प्रवर्तने । राम-लक्ष्मण-शत्रुघ्न-भरतादीनां तत्त्वम् ॥ जगद्-उद्देशितः तद् ब्रह्म तत्-सत्यं हरिर् इव हि ।’
+[^180_footnote]: † Brahmasūtra : II-ii-42. The reading found in the Śrībhāṣya and Śaṅ-karabhāṣya is: ‘विप्रतिषेधाच् च’. But Yāmuna, throughout has it as ‘विप्रतिषिध्यते’. Cf. Śaṅkara on II-ii-45 : ‘विप्रतिषेधाच् च’, “विप्रतिषेधाच् च-अस्मिन् शास्त्रे बहूनि उपपद्यन्ते गुण-गुणि-त्व-सङ्कल्प-आदि-कान् । जीवस्य जन्म-मरणं एवम् आद्यनेके साङ्ख्य-योगाश् च । चतुर्षु वेदेषु परम् अवाप्यते ।” शाक्य-शासनम् एतत्-सर्वं श्रुत्यादिविरुद्धम् इत्य् एतत् ‘न च तत्त्वम्’ ।
+[^180_doublestar]: § 'प्रधान-गुण-भावात्’ = 'सामान्य-विशेष-भावात्’ = ‘छिन्न-रूप-भावात् ।’
+[^180_triple_dagger]: ¶ वचन-व्यक्तीनां च न तथा-त्वम् ।
+
+---
+तस्मान् नास्त्येव । न्याय-आप्रचुर-हितानां तु वचसां¹ न कश्चिदपि परिभिज्ञा-य्य्-अन्वकत्वम् । यथाऽऽऽहुः—
+
+† ‘न्याय-सम्पादितेन-अर्थे² पक्ष-त्वात्-योऽर्थोऽभ्युपगतम्,’ इति;  
+तस्मात् सूत्राकारेण §³इदं महोपनिषदम्’ इत्याद्य्-अभिहितं;  
+वेद-स्यो⁵-°विशेषेण⁶ अभिमनन-प्रामाण्येषु पञ्चरात्रेषु अविव-श्राम-जीवेषु-पत्ति-रुपान्यायोरेण नातिराकरण-परतया सूत्रं व्या-ख्यायमानं व्याचष्टाम् इव-आखि यानि रूपाणि-यत्नीत्य् अलं प्रपञ्चेन ।
+
+[ शुद्ध-सत्त्व-वृत्ति-चिन्तनम् ]
+
+नदेवं⁶ सूत्रार्थः । पूर्वं स्व-आभिप्रेतम् एव परिचिन्तित्-कण्ठक-आय-प्सु-ज्ञान-जिन-पशु-मति-मतानां श्रुति-न्याय-विरोधात् असम्भाव्यं प्रति-पाद्याऽऽशुना स्व-अभिमत-पञ्चरात्र-तन्त्राणाम् अपि इतर-समये समान-परिगण-नात्⁹ बुद्धौ सन्निविहितानि-अभि° तत्-समसमयत्वं¹⁰ सामञ्जस्य्-आवबोधकं प्रामाण्यं¹¹ इत्य्-उत्पद्यते¹¹ ।  
+[[P181]]
+
+[^181_1]: M₂, My—वचनानाम्,
+[^181_2]: M₁ adds वचन
+[^181_3]: M₃—°बोधयत्°
+[^181_4]: M₂—°येभ्यः
+[^181_5]: We split here as अभि°नेति; no printed text does so. Our reading is in con-formity with Yāmun’s statements,
+[^181_6]: that Pāñcarātra is equal in autho-rity to the Vedas.
+[^181_7]: M₆—°तदेव
+[^181_8]: B—स्यात्°
+[^181_9]: M₁, M₇, A, B—°पदेशेन°; M₅ adds च
+[^181_10]: M₂ repeats श्रुति-न्याय-विरोधात्-इतर-समसमयत्वं
+[^181_11]: M₅—°तत्त्वं°
+[^181_12]: M₁—°ज्ञायते
+[^181_dagger]: † The source is yet to be identified. This verse, however, is quoted in full by Sudarśana, in his commentary on the Śrībhāṣya, I-i-1; pp.168-169: “पञ्चरात्रं कृतं सर्वं सात्वितेन-इव-धोदकम् । न्याय-सिद्धार्थ-व्यतिरिक्तं परम् आप्नोति शोभनम् ।” Vedāntadeśika too quotes this in his Nyāyapariśuddhi, p.151.
+[^181_para]: § Mahābhārata, Śānti, ch.326.100.
+[^181_footnote]: ¶ ‘अविशेषेण’ समानतया इत्यर्थः ।
+[^181_paragraph]: ° तन्त्र-व्यतिरेकेण समभिव्यन्दितानि भावः ।
+[^181_doublestar]: † न्युपायेन-इत्य् उच्यते ।
+
+---
+§ लब्ध-अयोगेन¹ सूत्रम् इदं येन² पूर्वपक्षं उपक्षिप्नुते³ । तथा हि—पञ्च-रात्र-शास्त्र-प्रामाण्यम्; अनुपपन्न-समन्वयात्; उत्पत्ति-असम्भवात् आयाः⁴ सङ्कर्षणात्-उत्पद्य्-उत्पन्न-सत्त्वम् अवति । कथम् असम्भवः ? उपपद्यते च-अनुपपत्तेः⁵ ।
+
+तथा हि—
+
+किञ्च⁶ चत्वार एवेते समानैश्वर्य-भागिनः ?  
+एको वा स्यात् चतुर्भेदं⁷ ? द्वेधाऽप्य् उभय-पक्ष-दोषः⁸ ॥  
+समानैश्वर्य-भागित्वे तुल्यत्वात् न-एव सङ्ख्यया⁹ ।  
+एकात्म-त्वेऽभ्युपेतेऽपि तथोत्पत्तेर् असम्भवः ॥  
+खलु¹⁰-सुज्ञेय-विभागेऽपि हि नैक-स्मान् नभकल्पते¹¹ ।  
+तथा¹² * न च कर्तुः करणम्’ । इत्य् आह-चाप्रमाणम् । कर्तृ-सङ्क-र्षणात्¹³ जीवात् करणस्य प्रद्युम्न-संज्ञस्य मनस उत्पत्तिस्-सम्भवति । न हि देवदत्तात् परशु-रूप्यत इति ।
+
+† एवं वा—*¹ न च कर्तुः करणम्¹⁴³ । कर्तुः सङ्कर्षणात् न करणम् उपपद्यते । ब्रह्मण एव समकरण-कोपरितोऽपत्ति-श्रुतेः—§⁵ एवमा-त्रागमं प्राप्ये मनसेन्द्रियाणि च ’ इति¹⁴ ।  
+[[P182]]
+
+[^182_1]: B —°भागेन
+[^182_2]: M₁ omits °यत्त्वेन
+[^182_3]: M₄ omits this line in full.
+[^182_4]: M₂, My—कथं समन्वे
+[^182_5]: B—उपपत्तेः
+[^182_6]: PM—किन्तु
+[^182_7]: M₁ to M₄, M₆, M₇ & B—चतुर्भेदः
+[^182_8]: P, PM—देव्या युगल-क्षणम्ः
+[^182_9]: P, PM, T, A, V₁, M₃, M₅—सुज्ञेये
+[^182_10]: PM, M₄, M₆—यतः
+[^182_11]: M₂—नैक-स्मिन्-नभसि° M₄—नैकस्मिन्-नभसि° M₈—नैकस्मिन्-नभसि°, M₃—°वैन
+[^182_12]: My omits न
+[^182_13]: M₁, M₂, M₄, M₇ & B omit from जीवात् upto °सङ्कर्ष°
+[^182_14]: P & PM add तत्र च
+[^182_section]: § According to Śaṅkara, all the four aphorisms of the utpattyasambhava section [II-ii-42-45] put forth the refutation of the Pāñcarātra.
+[^182_dagger]: * Brahmasūtra II. ii. 40.
+[^182_para]: † Cf. Śrībhāṣya under II. ii. 40, where almost the same words are used.
+[^182_footnote]: § Muṇḍakopaniṣad II. i. 3.
+
+---
+* ‘विज्ञानादि-भावे वा तद्-अप्रतिक्षेपः’ इति । ‘वा’-शब्दात् पक्षो विपर्यस्यते । यद् उक्तम्—‘उत्पत्त्य्-अभावात्’ इत्य् अनन्तरं लक्षण-म्-अभावाद्-अप्रामाण्यम् इति,’ न-एतद् अस्ति । तस्याः सङ्कर्षण-आद्य्-उपत्तेर्-अप्रतिषेधः । यदि हि विज्ञानादय² एते न भवेयुः; स्याद् उत्पत्ति-प्रतिषेधः । विज्ञानं चादिर् येषां¹ ‘विज्ञानादि’ ब्रह्मा । तद्-भावे प्रज्ञा-भावं⁵ उत्पत्तेर्-प्रतिषेधः ।
+
+§ एतत्-उक्तं भवति—† एकस्यैव पर-ब्रह्मणो वासुदेवस्य-आखि-लिङ्ग-क्षरात्-इत्य्-अमाद्य-विशेषावान् कार्य-कारण-भाव-परोऽवतिष्ठते ।  
+[[P183]]
+
+[^183_1]: M₁,—अन्तवन्तः प्रामाण्यम् इति नेयादिति
+[^183_2]: M₂—विज्ञादयः
+[^183_3]: M₆—न्यायेन-इति
+[^183_4]: M₁ M₂, M₄, M₆, M₇, My, B—विज्ञानं च तद्-आदि चेति
+[^183_5]: M₂ omits ब्रह्म-भावे
+[^183_6]: M₁ adds another कार्यं
+[^183_star]: * Cf. Śrībhāṣya under II.ii.41 : “vijñānādibhāve vā tadapratiṣedhaḥ,” where again the same words are used.
+[^183_section]: ¶ ‘एते’ सङ्कर्षणादयः ।
+[^183_dagger]: § चत्वार एतेऽपि इति पक्षः परित्यक्तः । तद्-ऐश्वर्यस्य समष्टित्वम् । एवं भगवत्-परायणं मोक्षः सत्वौजा
+[^183_para]: आदयश् चतुर्णी अपि इति-आत्मनोऽस्तिः ।
+[^183_footnote]: ¶ Vide Ahirbudhnya Saṁhitā Ch. V: “पूर्वं तु पुरुष-लिङ्गात् सङ्कर्षोऽजायतात्मवान् ।” [25a] “सर्वशक्तिमयो देवो वासुदेवः शिव-स्वयम् । विभज्य-स्वम् आत्मानं चतुर्धा वासुदेव-स्ततः ।” [29b-30a] “ज्ञानं एव भगवत्-त्वं वासुदेव-सनातनाः । तत्र ज्ञान-मयोऽनन्तः स्वयम् एवावबोधयत् ॥ ज्ञानं एव भगवत्-त्वं देव-सर्वज्ञ-चोदितः ।” [34-35a] “ज्ञानं एव भगवत्-त्वं प्रद्युम्नः पुरुषोत्तमः ।” [36a] अनन्त एव भगवान् अनन्त-शक्तिमान् अव्युतो महेश्वरः ॥” [38b] The words “ananta eva bhagavān” occuring in 34a, 35a, 36a & 38b quot-ed above, stress the point thatt he Lord is One and only One and that He assumes different forms, without any diminution of His powers and perfections in this process. Therefore, the question raised by Śaṅkara regarding the plurality of God is unwarranted. § This Māyā is the Śakti or the Power of the Lord, termed also Jñāna, Vidyā, Saṅkalpa and so on.
+
+---
+यस्तु ‘न सङ्कर्षण-उत्पद्यते, ब्रह्मण एव उत्पत्ति-श्रुतेः,’¹ इति, यद्यपि तस्य विज्ञानादि-त्वेन परिहृतम् ।[^184_star]
+
+*अपि च, †¹न च कर्तुः करणम्’ इति किम् उक्ते भवति ? किं गम्‍याः क्रियाया यत् करणं², तत्³ तत्-क्रिया-कर्तुर् नोत्पद्यते ?⁵ उत् यत् यत्र काऽपि दृष्टं करणं, तत्⁶ कुतश्चिद्-अपि कर्तुः नोत्पद्यत इति वा ?
+
+तथाऽपि कल्ये सिद्ध-साधनस्य-अव्युत्पन्नस्य वि°प्रतिषेधः । न ह्य् अत्र⁴ संकर्षणात् कर्तुः उत्पद्यमानं मनः¹⁰ स्वोत्पादने करणम्, कर्मभावम् । नाऽपि स्वोत्पत्तौ, कर्तृत्वेऽपि ।
+
+अपरेऽपि कल्पे प्रत्यक्ष-विप्रतिषेधः । उद्काहरणादौ¹¹ करण-व्यभिधानम् अपि घटादीनां कर्तुः कुललादेर्-उत्पत्ति-दर्शनात् । तद्-इव-माह् ‘विप्रतिषिध्यत’ इति ।
+
+यद्वा—†सूत्रद्वयस्य व्याख्याना¹²-न्तरम् उच्यते ।  
+†विज्ञानादेः प्रमाण-बलेन-अतः, भावः,¹³ तद् उच्यते ॥  
+[[P184]]
+
+[^184_1]: M₁, M₇—किं कार्यं क्रियायां यत्-करणम्
+[^184_2]: M₁, M₂, My, B—किं यावत् क्रियायां यत्-करणम्
+[^184_3]: M₁ & M₃ add न
+[^184_4]: P, PM, M₁, M₅ & M₆ omit तत्र
+[^184_5]: M₂, M₈—नोत्पद्यते
+[^184_6]: M₃ & M₅ omit from उत्पद्यते upto नोत्पद्यते
+[^184_7]: M₂ adds another तत्
+[^184_8]: M₁, M₂, M₇, My, B omit कल्ये
+[^184_9]: M₁ omits विः
+[^184_10]: M₁—न चद्यः; M₄—न ह्य्-अत्र
+[^184_11]: M₈—दोः
+[^184_12]: M₄—उद्काहरणादो; M₈—उद्काभरणार्थो
+[^184_13]: M₃ omits ना, to the detriment of metre
+[^184_14]: PM reads भावेन as one wood
+[^184_star]: * These different interpretations are not included by Rāmānuja in his Śrībhāṣya.
+[^184_section]: † Vide Brahmasūtra: II.ii.40.
+[^184_dagger]: § 'यत् कार्यं' क्रियायामिति शेषः ।
+[^184_para]: ‡ Cf. Brahmasūtra: II.ii.42.
+[^184_footnote]: § विज्ञानत्वम् एव—‘विज्ञानादि-भावे वा तत्-प्रतिषेधः,’ ‘विप्रतिषेधाच्’ इति सूत्र-द्वयेऽपि भावः ।
+[^184_paragraph]: ¶ ‘विज्ञानादेः’ ब्रह्मणा रक्ष्यते ।
+[^184_doublestar]: × 'भाष्ये' द्रष्टव्ये ।
+
+---
+यश्¹-च रात्र-प्राप्त्य्-अन्विषयोऽ²-ऽनिर्द्²-प्रसङ्गः ।  
+तच्-छ्रुति-प्रत्यय-सम्बन्धः³ जीव-जन्मादिभिः४ ॥  
+प्रत्यक्ष-विरोधात्³ ‘विज्ञानं’ ग्रहणादिहि ।  
+वाक्-शास्त्र-योर् अपि शास्त्र-योर् अपि५ ॥  
+§¹ ‘आदि’-शब्देन तन्त्राणाम् अपि इत्य् एव विवक्षितम्⁶ ।
+
+तथा हि—
+
+¶य²-रसात्-कृत-कुहते सदा सहस्रया वृध्या समस्तं जगत् यः; पुंसाम्भि⁷-र्वाङ्ग् इतानि दिशानि ध्यानैक-संप्तितः ।  
+‘निलात्म-समतं काम’ इति यं प्राहुः⁸ त्रयी-पारगाः  
+नस्मिन् विप्रं⁹ विप्रलम्भन-क्षुत्वा दोषा भवेयुः कथम् ?  
+†उत्पद्य-सम्भवो यश् च सूत्र-द्वयोदितः¹⁰ ।  
+सङ्कर्षणादि-मूर्तीनां, तत्र प्रतिविधीयते ॥  
+‡ ‘विप्रतिषेधात्’ इति । पञ्चरात्र-स्मरण-अंश्रितम् इव-अत्-प्रत्यक्ष-प्रतिषेधात्, तद्-अनुमित-श्रुति-वि[^185_section]-प्रतिषेधेति ।  
+[[P185]]
+
+[^185_1]: PM—याच्°
+[^185_2]: M₃—°योनिर्°
+[^185_3]: M₂, My—न निदर्श प्रामाण्यम्; B, reads निदर्शन प्रामाण्यम्, in which case the metre wants in one syllable.
+[^185_4]: M₁—°अङ्ग-शिष्टानुज्ञये
+[^185_5]: B—°विश्व-ज्ञानानुज्ञये
+[^185_6]: PM omits this line in full.
+[^185_7]: M₅—यत्
+[^185_8]: M₁, M₇, My, B—पुंसामपि°
+[^185_9]: A, M₅, V₁, T—°संगाङ्गुः
+[^185_10]: M₁—विप्लव°
+[^185_11]: T—उदिता; M₁, M₃—°उदितम्,
+[^185_12]: B omits वि
+[^185_section]: * द्रव्यस्य तन्व्-आदि-करणादेर् इव अप्रामाण्यम् अपि-इत्य् आशयः । § The term ādi is from Brahmasūtra II.ii.41 : ‘विज्ञानादि-भावे वा नदप्रतिषेधः ।’ आदि-शब्देन दोष-राहित्यम्, विज्ञान-शब्देन गुण-राहित्यम् अभिहितम् । ¶ Cf. The following verse, which, according to tradition, forms the opening verse of Nāthamuni’s Nyāyatattva : “यो येन सूत्रम् उपदिश्य सर्व-ज्ञतां सतां स्वतः । तं प्रणम्य हरिं शास्त्रं न्याय-तत्त्वं प्रचक्ष्यते ॥” † पूर्वं जीव-स्योत्पत्तिर्-आदि-मनुस्मृतिभिः समभ्यतीतवत् पूर्वपक्षस्य समाधानम् उक्तम् । इदानीं 'उत्पत्तिर्-असम्भवात्' इत्यादेः 'विप्रतिषेधाच् च' इत्यन्तस्य सूत्र-चतुष्टयस्य? इति पक्षेण एव समाधानम् अनुष्ठेयम् । ‡ Brahmasūtra II.ii.42.
+
+---
+[ प्रकारान्तरेण सूत्र-विचारः ]
+
+यद्वा¹—सूत्राणां ²न्याय²-प्रदर्शन-परत्वात् पञ्चरात्र-भ्रमस्योः  
+अनन्य-विधि विशेष-रूढत्वे³ किन्तु⁴ मन्वादि-वाक्यवत् ॥  
+अप्रामाणं विरुद्धा-अर्थ-प्रस्तुत्य्-उपगम्येतद्-अपि ।  
+असम्भवश् च सापेक्ष-निरपेक्षत्व-हेतुतः ॥  
+*प्रावदि सापेक्षां पञ्चरात्र-स्मरणं⁶ मूल-प्रामाणोपस्थाप्य⁷ नमुस्येन-मर्थं प्रमातुस्-तूपगम्ये, तावन् निरपेक्षा-ऽपीत्य्-एव-मस्य-प्रलयं प्रपद्येत्-अन्याय्या परिच्छेद्याः, तद् इहायाः प्रतिमित-कर-परस्य-समन्वयात् ।
+
+§¹तावादि पञ्चरात्रस्य मूल-श्रुत्यवबोधनम् ।  
+प्रत्यक्ष-शास्त्र-एव⁸ यावन्-मूलं न लुप्यते ॥  
+[[P186]]
+
+[^186_1]: M₁ & My omit वा
+[^186_2]: A, M₃, & M₅ omit य
+[^186_3]: M₁, M₂, M₄, M₅, My & B, omit अत्र
+[^186_4]: M₃—तत्त्र विवरणे; M₈—अत्र विवरणे
+[^186_5]: M₅ °त्वेन
+[^186_6]: P, PM, T, M₃, M₅, M₆, V₁ & A add न
+[^186_7]: B omits च
+[^186_8]: M₃ & M₆—°शाम्येण
+[^186_9]: M₃—दत्तावता
+[^186_star]: * For a discussion on the validity of smṛtis when they are in opposition to more powerful means of knowledge, sce Tantravārtika under I. iii. 3, pp. 82-103.
+[^186_section]: § Cf. ibid. p. 87 : tāvadeva sphurantyarthāḥ purastādānumānikāḥ | yāvat pratyakṣaśāstreṇa mūlameṣāṁ na kṛntyate ||
+[^186_dagger]: § This is the contention of the Naiyāyika. He does not accept the “apauruṣeyatva” of the Vedas. They, according to him, are dependent upon the Supreme Being, like the Pāñcarātrāgamas, for their validity, so much so they too are “pauruṣeya”, i.e., composed by the Divine Person. This is the point on which Yāmuna differs from the Naiyāyika. The aphorism “na ca kartuḥ karaṇam” (Brahmasūtra II. ii. 40) is ingeniously interpreted by Yāmuna to refute the above concept of the Logician, and to establish the “apauruse-yatva” or the revealed character of the Vedas.
+
+---
+अथाप्य्-अपेक्ष्य¹ प्रमाणाञ्च²; तत्-कारणत्वात्³ । यद्य् एव हि⁴ पञ्चरात्र-स्मरणस्य; तद्-अनुभव-सापेक्षाः; एवं वेदा अपि ।  
+ततो ऽच्यते—†¹न च कर्तुः⁶ करणम्’ । न⁷ कर्तुः ईश्वरस्य †करणं वेदाः । क्रिपन्त⁸ इति ‘करणम्’ । कर्मणि ल्युट्⁹ । अपीस्-वेया¹⁰ वेदा इति यावत् ।
+
+§⁸ विज्ञानादि-भावे¹¹ वा तद्-अप्रतिक्षेपः’; । न चैतद्-अस्ति पञ्चरात्र-शास्त्र-प्रमाण-मिति¹²; किन्तर्हि—तद्-अप्रतिक्षेपः । प्रमित्युत्पत्तेर्-अप्रति-षेधः । विरुद्ध्यम् अपि विकल्पेन प्रमाण-मित्यर्थः । असम्भवाश् च¹³-विप्रलम्भ-सम्भवाद् इत्य्-अनुभववत् ।
+
+‘विज्ञानादि-भावे’¹⁴ विज्ञानं¹⁴ विशिष्टं ज्ञानम् । अस-म्भवे¹⁶-त्त्वसत्त्वम् इति¹⁷ यावत् । अतोऽर्थः¹⁸ सर्वं¹⁹-ज्ञत्वाम्-अकास-त्त्वात्²⁰ सम्भा-व्यमान-विप्रलम्भ-विशङ्कनं²¹ ज्ञानम् । भगवतस्तु स्वाभाविकीर्-अकुण्ठित-शक्तित्व-श्रुति-शत²³-समधिगता-विगत-सहज-समवधर्म-आदि-साक्षात्कारं  
+[[P187]]
+
+[^187_1]: A—°सापेक्षम् एव
+[^187_2]: M₁ & M₂ add न
+[^187_3]: My—°सत्त्वात्
+[^187_4]: My—°यज्ञ°
+[^187_5]: M₁, My, & B—अवेक्षन्ते
+[^187_6]: M₄ adds another कर्तुः
+[^187_7]: M₂, M₃, M₄, M₇, B, omit न
+[^187_8]: M₃—क्रियन्ते
+[^187_9]: M₂, M₄, add प्रभवः; M₂ & M₆ read तुट्
+[^187_10]: M₁—पौरुषेयाः
+[^187_11]: M₃—विज्ञानानि भावे
+[^187_12]: M₁, M₂, M₃, M₈, M₅—°प्रामाण्ये
+[^187_13]: † Brahmasūtra, II. ii. 40.
+[^187_14]: § 'करणं’ = ‘क्रियमाणं’ = ‘कार्यम्’ इत्यर्थः ।
+[^187_15]: ‡ Brahmasūtra, II. ii. 41.
+[^187_16]: A, M₁, M₂, M₄, My—°असम्भवम्°
+[^187_17]: M₅—असत्त्वात् कथं°
+[^187_18]: M₁ omits विज्ञानम्
+[^187_19]: M₂—अभिप्राय-विज्ञानात्; B—विशिष्ट-ज्ञानम्
+[^187_20]: M₃—असत्-भवत्°; PM, My—असम्भवे°
+[^187_21]: B—असम्मतिस्मिन् हि
+[^187_22]: M₁ omits हि
+[^187_23]: M₂ & B omit सर्वं
+[^187_24]: M₂ omits यते
+[^187_25]: My—अहर्निशं
+[^187_26]: M₂—भवत्-शास्त्र-त्वात् M₂—भवत्-शास्त्र-त्वात्
+[^187_27]: M₁—अविप्रतिपत्तिः°
+[^187_28]: }
+
+---
+ज्ञानमिति¹ ‘विज्ञानम्’ इत्युक्तम् । तादृशस्य ‘नित्य-आदि-भावे, मूलत्वे सति, नित्य-प्रतिषेधः प्रमाणम् एवेति ।
+
+ननु कथं श्रुति⁸-विंढस्य तस्य प्रामाण्यम् उपगमः ?  
+न-प्रामाण्ये हि श्रुत्या सह विकल्पः प्राप्नोति । §विकल्पस्य्-अष्ट-दोष-दुष्टः । म च कर्षित-पर्यन्त-परित्याग-कारण-अभावात्⁶ असत्या⁷ अभ्यनु-ज्ञायेत⁸ । गया⁹ **¹तिथिर्-नियमः’, ‘यव-यजेत’ इति । न हि तत्र अन्य-परत्वं¹⁰ शक्यम्, उभयोर्-अप्य्-एव-प्रवृत्तत्वाद्-अविशिष्टत्वात्¹¹ । न चैवम् अपि पञ्चरात्रस्योः विकल्पेन भवितव्यम्, अतुल्यत्वात् । निर-पेक्षं हि वैदिकं वचनम्, अपौरुषेयत्वात्¹² । सापेक्षं च पञ्चरात्र-वचनम् इति कथम् अनयोर् विकल्पः ?
+
+[ पञ्चरात्र-शास्त्रस्य वेद-तुल्य-निरपेक्षत्वकथनम् ]
+
+श्रूयताम्—पञ्चरात्र-शास्त्रस्य-अपि¹³ निरपेक्षत्वादेव¹⁴ ।  
+[[P188]]
+
+[^188_1]: My omits इति
+[^188_2]: M₃ omits वि
+[^188_3]: M₂—तस्य तादृश°
+[^188_4]: B omits इति
+[^188_5]: M₃ omits वि
+[^188_6]: M₁—°करण-भावात्
+[^188_7]: M₁—°कारण-मागस्य
+[^188_8]: My—°ज्ञान-सामर्थ्ये
+[^188_9]: M₃—तथा हि; M₆—तथा
+[^188_10]: M₅, M₆—°अपवर्गस्,
+[^188_11]: M₁, M₅—°अन्तर्-विशेषत्वात्
+[^188_12]: M₂—अन्-एपेक्षत्वात्
+[^188_13]: B—°मुक्तत्वापि
+[^188_14]: M₃—°देवन्
+[^188_15]: † Cf. Pādma Saṁhitā, Jñānapāda, II. 5b: “विज्ञाय भारत-शास्त्रं तत्-त्वज्ञानन्तु किल्बिषये ।”
+[^188_16]: ‡ ‘नय-विधिना’ प्रमाणम् आप्तम् इत्य् अभिप्रायः । प्रामाण्य-मिति भावः ।
+[^188_17]: § Vide Tantravārtika, pp. 89-90.
+[^188_18]: Cf. Tantraśuddha, pp. 11-12: “श्री-शिवेन-एकेन” “रुद्रैर् एकादशभिर्” वाक्यं प्रथमं तथा गौणत्वम् अस्ति । तत्र गौणत्व-प्रदर्शन-सामर्थ्यात् भगवत्-शास्त्रस्य प्रामाण्यं सिद्धम् एवेति ज्ञानात्-परम्परया । भगवत्-शास्त्रे प्रमाण-भूते सत्य् अपि तस्यानादरः परित्यागश् च न युक्तः; यस्मात् केनापि हेतुना पूर्व-पक्षे कृत्वा तस्य प्रामाण्यम् उच्यते—श्रुति-पुराणयोः ।
+[^188_19]: § ‘कल्य’ = पर-पक्षे
+[^188_20]: * Apastamba Śrautasūtra, VI. 3.1.13.
+[^188_21]: † To be identified.
+[^188_22]: . अनपेक्ष-विशिष्टत्वात् = न कश्चिद् आप्तवचनं प्रमाणम् ।
+[^188_23]: ¶ निरपेक्षत्वात्, वचनान्तर-निरपेक्षत्वम् ।
+
+---
+‘कथं नु पौरुषेयस्य वचसो’ निरपेक्षता ?’  
+इति चेत्, इदम् आचष्ट्वे² पृष्ठस् त्वम् एव तार्किकः ॥  
+किम् अस्य बोधकत्वात् परापेक्षाऽऽऽस्थीयते ?  
+किं वा निश्चय-कत्वात् ? यथाऽऽऽपन्नस्य वा ?  
+पुरुष-प्रत्यवाय वा ? तत्र चतुर्णाम् अपि-असम्भवः ॥  
+न खलु³ †चक्र-वर्त्य्-उपचारेण भगवन्तं समर्चयेत्’ इति-आदौ वचनं श्रयमाणं बोधकत्वात् किञ्चिद् अपेक्षते अन्यत्र व्युत्पत्ति-कुशलात् ।  
+न च तावता सापेक्षत्वेन दौर्बल्यम् ।³ श्रुनाव् अपि दौर्बल्य-प्रसङ्गात् ।
+
+नापि निश्चय-जननाय । न हि ††अयेयम्’ इत्येत् तत् अन्वे-द्येवेति संशयिनि प्रत्ययम् उत्पादयति, व्युत्पत्ति-प्रतिपत्ति-न्यायोप-प्रसङ्गात् ।
+
+नापि यथार्थ-त्वाय्⁷ । न ह्य् उत्पन्नं ज्ञानं स्व-कारण-व्यतिरेकेण यथार्थ-व्यापारम् अपेक्षते । गुणतः प्रामाण्यस्य ⁸अयुक्तत्वात्, अन्-अव्यु-पगमस्य ।
+
+न च पुरुषार्थ-त्वाय्⁹ परापेक्षा¹⁰ । शास्त्र-ज्ञ-शारीर-पर्यालोचन-देव तन्-सिद्धेः । इह हि यथोक्त-संस्कार¹¹-वर्णां शास्त्र-श्रवणात् तद्-अर्थ-ज्ञानं,⁹ ततः¹⁰ तद्-अर्थ¹¹-पाञ्च¹¹-कालिका-नुष्ठानं, ततो निरतिशय-सम्प्रत्-प्राप्नोति शास्त्र-देव अवगम्यते ।  
+[[P189]]
+
+[^189_1]: M₂ reads वचनस्य, spoiling the metre.
+[^189_2]: M₁, My—आचष्टे
+[^189_3]: M₃ omits from कृत्वा upto उत्पन्नम् below.
+[^189_4]: M₃—वाक्यत्वात्
+[^189_5]: PM—°यस्य°
+[^189_6]: M₄ omits च
+[^189_7]: M₁—येकेषाञ्चिद् आत्मनाम्
+[^189_8]: M₃—°योगात्°,
+[^189_9]: M₃—ज्ञानम्,
+[^189_10]: B—दर्शनम्,
+[^189_11]: M₃—यतः
+[^189_12]: M₃—एतत्°
+[^189_dagger]: † To be identified.
+[^189_para]: ‡ च्युति-सिद्धौ विना अन्यद् इत्थं किं नापेक्षत इति भावः ।
+[^189_footnote]: Cf. Ahirbudhnya Saṁhitā ch. XV : “कालिका-सिद्धं कर्माणोः सतत-पातकम् ॥ [15b] तेषां संवर्तनानां शास्त्रेण विधानं ते ॥ [17b] पञ्चाङ्गतो नित्यं यथार्हं प्रतिपूजितः ॥ [49b] प्राप्तयेऽन्तर्-इन्द्रियाणि ये ज्ञानं प्रवर्तते ॥ [53b]
+
+---
+अयोच्येत¹—सत्यपि पञ्चरात्र-ज्ञान²-श्रान्तः प्रामाण्ये³, यावन्⁴ नाद्रुतुकः⁵ आसिद्-विन्ध्य-पुर-सरे दोषाभावो नावधार्यते⁷, *⁸ न तावत् प्रामाण्यं निश्शङ्कम् इति ।
+
+नद्-असत् । न हि दोषाभाव-ज्ञानं प्रामाण्ये निरुपादयति ।  
+निश्चय-ज्ञान-कारणादेव⁹ तद् उत्पत्तेः । न च निर्दोषाच् च वायो¹⁰ आत्म-त्वादि-गुणि-निह्नयः;¹¹ ससाक्षान् तादृशि¹² । यथाऽऽऽह वार्त्तिककारः—
+
+“ तदा न व्याप्रियन्ते तु ज्ञानाद् उपादानतया गुणाः ।’ इति ।  
+दोषाभाव-ज्ञानेऽपि गुणानां सत्त्वोपयोगयोर् दर्शितः—
+
+†¹ दोषाभावे तु विज्ञेये सत्ता-मात्रोपकारिणः ॥’ इति ।  
+न चोत्पन्नम् अपि प्रामाण्यं¹⁴ ज्ञानोपादान-आदि¹⁵-व्यवहाराय अपस्-मर्यते¹⁶ । खरण्डी-नाम् इवाप्य् एवं तद्-सिद्धेः । यथाऽऽहुः¹⁷—
+
+‡¹ स्मरणाद्¹⁸-भिलाषाच् च व्यवहारः प्रवर्तते ।’ इति ।  
+अपि च, स्वतः-प्रामाण्यं¹⁹ केन-अपि यावत् कञ्च-नाभ्यु²⁰-पादीय-पुरस्सरे दोषाभावो नावधार्यते, न तावत् प्रामाण्ये प्रतिमिमीतीति²¹ समानं सापेक्षत्वम् ।  
+[[P190]]
+
+[^190_1]: M₃—अयोध्येत°
+[^190_2]: M₁, M₂, M₄, M₇, B—°ज्ञानात्°
+[^190_3]: M₁ reads अतः प्रामाण्ये निरुपादयति
+[^190_4]: M₃ omits यावन्
+[^190_5]: M₄ omits तत्
+[^190_6]: M₅ adds त्व
+[^190_7]: My—मनुष्य-सिद्धान्ते
+[^190_8]: M₅, B omit न
+[^190_9]: M₁, My—°करणदेव
+[^190_10]: M₁, My—°अथात्मत्वादि°
+[^190_11]: PM—°न च निर्दोष-स्याद् अनुपपत्ति-निश्चयः
+[^190_12]: M₄—तदाऽसिद्धिः
+[^190_13]: A—ज्ञान°; M₂—ज्ञाना°
+[^190_14]: All but My—प्रमाणम्
+[^190_15]: M₃—ज्ञानोपादानादि°
+[^190_16]: M₃—इत्य् उपादानतयादि°
+[^190_17]: M₃—°रक्तं°
+[^190_18]: M₃ omits स्मरणात्, spoiling metre.
+[^190_19]: M₂, M₄, M₇, & B. omit प्राक्
+[^190_20]: All mss. and printed texts read °कर्तृभाव°
+[^190_21]: M₄ & B—प्रतिमिमीति
+[^190_star]: * Ślokavārtika under I.i.2, śl. 67a.
+[^190_section]: † Ibid. 67b.
+[^190_dagger]: ‡ To be identified.
+
+---
+अथ योग्यानुभव-आदेवानायाय-आसिद्धं वक्तृ-भावे¹, त्रयो-दोषाभाव-ज्ञानात् सकलम्² अप्रामाण्य-ज्ञेयं वेदै³ नास्तीति चेत्; यथाहऽऽहुः—
+
+*⁶ तत्-प्राप्तवाद्-इत्य्-अनुमित्तितः वक्तृ-भावात्⁵ लघीयसी ।  
+वेदे, तेनाप्त-माप्तस्य्-एव न शङ्काम् अनुमिमते⁶ ॥’ इति ;
+
+इन्त तर्हि पञ्चरात्रेऽपि सर्वज्ञस्यैश्वर्य-वत्-कुमावाद्-इव-अपस्-सिद्धे दोषाभावे, अप्रामाण्य-शङ्का नावतरति समानैश्वर्यवत् ।
+
+एतत्-उक्तं भवति—उभयोर् अपि स्वतः-प्रामाण्ययोः एकत्र दोषा-भाव-निश्चयाद्³ तद्-अप्रयुक्त-शङ्का-भाव-निश्चयात्, अन्यत्र तद्-रुद्र-गुण-वक्तृत्व⁹-निर्णय्यादिति । यथा औष्ण्य-भाव-निश्चयो नभसि तदा-धारत्व-आभाव¹⁰-निश्चयात्, जले तु तद्-विरुद्ध¹¹-शीत्योपलम्भ-आदिति ।  
+किञ्च—  
+[[P191]]
+
+[^191_1]: M₃ reads वक्तुभावः; except PM, all ptd. texts and mss. have वक्तृत्वेन
+[^191_2]: M₁, M₂, M₄, M₇, My—°भावत्वात्
+[^191_3]: M₁, V₁, & A omit वेदे
+[^191_4]: M₃—°वतादेः°
+[^191_5]: Except M₈, My and PM, all mss. and ptd. texts have वक्तृ-भावात्
+[^191_6]: M₁—°अतिशङ्कित°
+[^191_7]: ‘B’ omits from वक्तृ upto गुण of the following para.
+[^191_8]: M₁, M₂, M₄, M₇, My—दोषाभावः
+[^191_9]: M₁, M₂, M₄, M₇, My—संवेदक-वक्तृत्व°
+[^191_10]: All except M₆—तदाधारभाव°
+[^191_11]: M₈—°विरुद्धेति°
+[^191_star]: * Ślokavārtika under I.i.2, śl. 68.
+[^191_dagger]: † The similarity of status between the Vedas and the Āgamas, according to Yāmuna, lies in the fact that both of them are understood to be free from the defects that generally stand in their way. The way in which this ‘faultlessness’ is understood, however, differs between the Vedas and the Āgamas. As regards the Vedic texts, there being no author (apauruṣeya), there is no question of any defect ever appearing at all. As regards the Pāñcarātrāgamas too, there could be no question of any defect ever arising, on the ground that they are the direct utterances of Vāsudeva, the Omniscient Supreme Lord of the Universe. This is what Yāmuna explains in the succeeding para: “etaduktaṁ bhavati” etc.
+
+---
+सापेक्ष-निरपेक्षत्वे न हि वाभस्य्¹ कारणम् ।  
+गुरुत्वे रजत-योर्-धूमस्य निरपेक्षस्य बाधकम्² ॥  
+¹ नेदेरज्ञन् ‘विज्ञानम्’; तत् सापेक्षम् अपिष्यते ।  
+¹ सेयं ज्वाले ‘नि’ ³संवित्तिः; नैलवर्ति-विनाशजा ॥  
+अनुमा बाधिका⁵ दृष्ट्वा, सापेक्षस्य-अक्ष-जन्मनाः ।  
+अनो निरवकाशेन सावकाशो निषिध्यते ॥  
+न चेह सावकाशत्वं भगवच्छब्द-वेद-योः ।  
+अथ श्रुति-विरुद्धस्य तन्त्र-भागस्य⁷ तु दुष्टत्वम् ॥  
+वासुदेव-प्रणीतत्वं निश्चिनुमिष्यति मन्यसे ।  
+पञ्चरात्र-विरुद्धस्य वेद-भागस्य⁸ वा कथम् ॥  
+अपौरुषेयतया ज्ञान-माविर्भवति बाधितम्⁹ ?  
+तस्यापि वेद-भागत्वात् तथाभावोऽभ्युपेयते¹⁰ ॥  
+अस्मापि¹¹ पञ्चरात्रवत् तत्-प्रणीतत्व-म्-इष्यताम् ।¹²  
+¹²कर्तुर्-अवरणात्¹³ तत्र यदि चापौरुषेयता ॥  
+लक्षण-केवल-स्याच् च किं न स्यात् तत्-प्रणीतता ?  
+[[P192]]
+
+[^192_1]: PM—येषस्य्; M₄ has वाभस्य and B has भासस्य, both rendering the metre defective.
+[^192_2]: I has a variant : सापेक्ष°
+[^192_3]: M₂ यस्य-सायपेक्ष-कृते
+[^192_4]: A, M₂, M₄, M₆, T, V₁,—जलादि°
+[^192_5]: M₁, M₇—अनुज्ञा°
+[^192_6]: All except M₆—लाघवस्य
+[^192_7]: ¶ न च श्रुति-विरुद्ध-यज्ञ-तन्त्राणाम्
+[^192_8]: M₂—वेदस्य
+[^192_9]: M₈—साधनम्
+[^192_10]: B—°अभ्युपेयते
+[^192_11]: M₂, M₈—तस्यापि
+[^192_12]: M₁ omits this and the following line.
+[^192_13]: My—अकर्तृस्-मरणात्
+[^192_14]: M₂—लाघवस्य
+[^192_15]: M₂—°सिद्ध्या
+
+---
+दक्षिणां विभजां दत्वा¹ °प्रतिष्ठिद्-इति कुर्वते ।  
+§¹ सांस्थवस्य कपिलो वक्ता, पञ्चरात्रस्य केशवः⁵ ॥  
+इति² स्कन्द³-पुराणेऽपि पठ्यते, ‘भारते तथा ।  
+§¹ पञ्चरात्रस्य कृष्णस्य वक्ता नारायणः स्वयम्’² ॥  
+†⁶ इदं महोपनिषदं चतुर्वेद-समन्वितम् ।  
+[[P193]]
+
+[^193_1]: B omits इति
+[^193_2]: M₂, My—स्कान्दे°
+[^193_3]: For pratiṣṭhā-rite, see Sāttvatasaṁhitā Ch. XXV and Jayākhyasaṁhitā, paṭala 16.
+[^193_4]: § To be identified. See Tantrasuddha, p. 22, for the second half of this verse : ‘वक्ता पञ्चरात्रानां साक्षात् देवो महेश्वरः।’
+[^193_5]: Cf. Mahābhārata, XII. 337.60a: ‘सांख्यस्य वक्ता कपिलः परमर्षिर् इह उच्यते।’
+[^193_6]: † The Nārāyaṇīya section of the Mahābhārata (XII. chs. 334-348) is valuable as it is the only fairly full account of the Pāñcarātra doctrines that we possess in original Sanskrit....All the bhakti-writers from Rāmānuja down to the present day, assume the reader’s familiarity with the principles inculcated therein”. [See G. A. Grierson, “The Nārāyaṇīya and the Bhāgavatas”, The Indian Antiquary, vol. 37, pp. 261-62.]
+[^193_7]: § Mahābhārata, XII. 337. 63a. Variant : वक्ता तु भगवान् स्वयम् । Also cf. ibid. śl. 63b-64a : ‘समेत्य च सुवर्णाद्रिं ज्ञानमेतेषु दृश्यते ॥ यथायोगं यथान्यायं धर्मज्ञानं निबोधतः प्रभुः ।’ Quoting the line ‘पञ्चरात्रस्य कृत्स्नस्य’ etc. in his Śrībhāṣya II. ii. 42 (p. 834), Rāmānuja says: “पञ्चरात्रस्य वक्ता नारायणः स्वयमेव-इत्य् उक्तत्वात् । एवं वेदस्य-अप्रामाण्याय । पाशुपत्या हि तन्त्राणां परस्पर-विरुद्धार्थ-प्रतिपादनेन वेद-विरुद्धार्थ-प्रतिपादनेन च प्रामाण्यं दुर्लभम् । वेदान्त-सङ्गतानि प्रामाण्यं दुर्लभम् । वेदान्त-सङ्गतानि तु पञ्चरात्रम्-एव-अंशतः...अतो वेद-स्यैव परमात्म-स्वरूपेण नारायणेन स्वयम् एव प्रोक्तत्वात्, तत्त्व-स्वरूपस्य तत्-प्रामाण्यम् इति तत्-ज्ञान-मिति न केनाप्य्-अङ्गीकृतम् इत्य् आशयः ।”
+[^193_8]: ¶ Mahābhārata, XII. 326, 100-101.
+[^193_9]: Discussing the position of Pāñcarātra with reference to the Upaniṣads, Dr. D. L. De in his article “Pāñcarātra and the Upaniṣads” [Indian Historical Quarterly, Vol. IX], p. 648, says:
+
+---
+* सांख्य-योग-कृतान्तेन †पञ्चरात्र-श्रुतिस्-तथा¹ ॥  
+§ नारायण-गुह्योक्तेऽपि² नारदोऽन्ववदच्-छ्रुतिम् ।  
+ब्रह्मणस्-सदने तात ! यथादृष्टं यथाश्रुतम्’ ॥  
+[[P194]]
+
+[^194_1]: M₃, M₈ add इति
+[^194_2]: M₁, M₂, M₄, M₇, My, B—°गुह्येऽप्य् अत्र
+[^194_3]: A—°पृष्ठादीन्
+[^194_star]: * “The Upaniṣads, with no set theory of philosophy or dogmatic scheme of theology to propound, form the root of all the later religio-philosophic systems of the country”.
+[^194_section]: “It cannot be said definitely whether the Pāñcarātras confined themselves wholly to the contemporary Upaniṣads in the matter of borrowing. They borrowed probably from the contemporary Upaniṣads as well as from the pre-existing Upaniṣads. The Upaniṣads are the sources from which they drew most of their doctrines”. For a detailed account of these borrowings, see ibid., pp. 648-660.
+[^194_dagger]: * See G.A. Grierson, Indian Antiquary, vol. 37, p. 261: “Nearly the whole Mokṣadharma-parvan consists lectures on Sāṅkhya-Yoga, together with attempts to reconcile it with Brahmaism. One system which results from the attempted reconciliation of these two opposite philo-sophies is attributed to Pañcaśikha and is explained at some length...The Nārāyaṇīya, while claiming to describe Sāṅkhya-Yoga really describes the Bhāga-vata monotheism as united with this system, but also with more of a Brahmaist colouring than we find in the Gītā.”
+[^194_para]: † See ibid., p. 258: “The Nārāyaṇīya sometimes alludes to the religion which it preaches as the doctrine of the Bhāgavatas, and sometimes as that of the Pāñcarātras. The two terms are not exactly synonymous, for the Pāñcarātras formed only one sect of the great Bhāgavata religion. Prof. R.G. Bhandarkar tells us that Dhruva-sena I, one of the earliest princes of the Valabhi dynasty (C. 530 A.D.) is called a Bhāgavata, and Bāṇa (C. 600 A.D.) in the 8th chapter of the Harṣacarita mentions both the Bhāgavatas and the Pāñcarātras.”
+[^194_footnote]: § According to the Śāntiparvan of the Mahābhārata (Gorakhpur edn.), the Sāttvata-teaching is said to have been announced by the sun: “सात्त्वतं विधिम् आस्थाय प्राङ् आदित्य-मुदीरितम् । पुरुषोत्तमात् देवस्य तच्-छ्रुत्वाऽऽगमं विष्णुभक्तिः ॥” See G.A. Grierson, Indian Antiquary, vol. 37, p. 253:
+
+---
+एवमादि-पुराणोक्ति¹-सहस्रैः न्याय-बुद्धिभिः ।  
+वासुदेव-प्रणीतत्वं पञ्च²-रात्रस्य निश्चयेधृवम्³ ॥  
+किन्तु⁴ वेदस्य निश्श्रेय-विवदन्ते विपश्चितः ।  
+तेन निर्दोष-विज्ञान-कारणत्वात् द्रुतोऽपि ॥  
+निर्विशेषं प्रमाणत्वं भगवच्छास्त्र-वेद-योः ।  
+ततश् च तुल्य-शिष्टत्वात् विकल्पेन⁵ प्रमाणता ॥  
+इति सत्त्वैतद्-आचष्ट⁶ सूत्रकारो महामनाः⁷ ॥  
+*⁸ विज्ञानादि-भावे वा⁶ तद्-अप्रतिषेधः’ इति ।
+
+[ पञ्चरात्रे विप्रलम्भक-त्वनिरासः ]
+
+ननु च⁹ भगवतः सर्वज्ञत्वेनास्माद्-यथायाथ्ये श्रान्तौ,  
+सर्व-शक्ति-त्वेन विप्रलम्भम् अपि¹⁰ भवतीति, किम् इदम् अपि शास्त्रं ज्यायो-ह्य् अपितुम् इच्छति¹¹ ? उत वस्तुतोऽवहितस्-तद्-उद्धा¹² निबद्धम् इति अन्य-  
+[[P195]]
+
+[^195_1]: P, PM—°पुराणैः
+[^195_2]: My—पञ्च°
+[^195_3]: M₁—निश्चितम्,
+[^195_4]: PM, M₂ to M₇, My, V₁, A—किन्तु B—भिन्न
+[^195_5]: PM—विकल्पे न
+[^195_6]: P, PM, M₄—°आचष्टे; M₅—मत्वेदमह
+[^195_7]: M₁—महामनाम्
+[^195_8]: M₂—omits वा
+[^195_9]: M₂ omits च
+[^195_10]: M₂, My omit अपि
+[^195_11]: M₁ reads only स्याद्-इति-इच्छति,
+[^195_12]: A, M₄, M₇—°विहितं बुद्धा
+[^195_13]: M₁ to My, V₁, B—°भवति बुद्धा
+[^15_14]: M₂—°विहितं बुद्धो
+[^15_15]: T—°भवति बुद्धा
+[^195_star]: “We have no literary evidence as to the train of reasoning by which this doctrine (Bhāgavata) was reached, but to me it appears more than probable that it was a development of the Sun-worship that was the common heritage of both branches of the Aryan people—the Eranian and the Indian. All the legends dealing with the origins of the Bhāgavata religion are connected in some way or other, with the sun.” See also in this connection, L.D. Barnett, “The Hindu Gods and Heroes,” pp. 82-83.
+[^195_dagger]: * Brahmasūtra II. ii. 41.
+
+---
+तर्¹-पक्षावलम्बन-विद्विष्ट-मनसां तु इयं निर्योग-यायः ? प्रस्तुतं वेद-विरोधादेव¹ विद्वान् ‘कल’मित्य्-उभयत्र-स्याम् इति ।
+
+तत्रोच्यते—⁶“विप्रतिषिध्यत’ इति । समस्त¹-श्रुति-इतिहास-पुराण-लोक¹-विप्रतिषेधात् । यदि विना कारणेन⁹ भगवतः सर्व-शक्ति-त्वमात्रम्¹⁰ विद्वान्-अनङ्गत्¹¹—  
+हन्तैवँ सर्व-शक्ति-त्वात् नरके धार्मिकान् अपि ।  
+पातयेद्-इति¹² सन्देहात् निवृत्तेर् इष्टं जगद्-अपेतम् ॥  
+अपि चायं सर्व-शक्ति-त्वेन विप्रलिम्प-समानः किम् अती¹³-न्द्रियास्-त्वार्थं वेदनादौ¹⁴ निर्णयं स्व-निर्माणाद्-समर्याद्-अतिप्रसङ्गाद् इत्य्-अन्यार्थ-हेरप्य तत्-प्रसृतिं साधयाय¹⁵-परमर्षिभिर् प्रवर्तितवान् न चेति संशयानाः¹⁶ कथं विस्रम्भिः ?
+
+¹⁷अथास्य सत्वपि¹⁸ सर्व-शक्तित्वे, पावच्च-सुक्तिके¹⁹ प्रमाण-मावात्, अनवस्थानत्वात्, भगवतश् च²⁰ स्वभावावासात्²¹-कामयन्त-विप्रलम्भ-प्रयोजन-विरहात्, ¹वैषम्य-नैर्घृण्यादि-दोषाः मात्रयापि भास्-  
+[[P196]]
+
+[^196_1]: A omits तर्
+[^196_2]: A reads वेद-विरोधाद् इह° M₃—वेद-विरो°
+[^196_3]: P, PM, T, M₁, M₂, M₅, M₆, M₇, My, V₁, A—विद्वान्°
+[^196_4]: We have selected the reading of M₄ & B.
+[^196_5]: M₁ omits फलम्,
+[^196_6]: M₂ omits इति
+[^196_7]: M₁, M₂, M₄, M₇, My, B—अभोच्यते
+[^196_8]: M₂ reads स°
+[^196_9]: M₁, M₂, M₄, My, B, omit लोकः; M₅ reads योग for लोक
+[^196_10]: M₁, M₄, M₅, M₇—करणेन
+[^196_11]: M₁—सर्वज्ञ-विभावत्वात्
+[^196_12]: A—विबुध-वन-शङ्का
+[^196_13]: M₂, My—विज्ञानाय-इह
+[^196_14]: M₁—प्रतरेभ्य°
+[^196_15]: M₁, M₂, M₄, B—किम्-इति°
+[^196_16]: M₃—वेदादौ
+[^196_17]: P, T—तत्-प्रभृति-साधनाय (one word)
+[^196_18]: A, B—संशय-भावात्
+[^196_19]: M₃ omits कथं
+[^196_20]: M₃—°भास्वत्-तत्त्वे
+[^196_21]: M₂, M₃, M₆, V₁, & A—स्वभाव-भावात्°
+[^196_22]: M₂, M₈, M₅, V₁ & A—स्वभाव-भावात्°
+[^196_section]: * Brahmasūtra II. ii. 42.
+[^196_dagger]: † Cf. ibid. II. i. 34: ‘वैषम्य-नैर्घृण्ये न, सापेक्षत्वात्, तथा हि दर्शयति ।’
+
+---
+सृष्टत्वात्¹, सर्व-ज्ञ-विजितान् स्वे²-विभव-सोहृदयेन व्ययस्थापनात्, ³विप्रलम्भं प्रणीयन्ते च विदुषाम् अप्य् आश्वत्-स्वाध्यायाध्ययन-तद्-अर्थानु-ष्ठानवतां त⁴-कर्तृ-दुर्विद-विश्व-रणात्-उपपत्तेः, तादृशा⁵-शङ्का नास्तीति चेत्, तद् एतत्-सर्व-मन्यत्रापि समानम् । तथा हि—
+
+किम् अस्य-अवासकामस्य सर्वज्ञस्य *दयानिधेः ।  
+अल्प-सत्त्वैर्-अल्पाध्यैः विप्रलम्भेः§ प्रयोजनम् ?  
+विप्रलम्भं तु कुर्वन् तत्र⁶ कथं वा परमर्षयः ।  
+इनस्-तत्तः प्रसरन्ति तुल्यवत् श्रुति-स्मृतिभिः ?
+
+[ पञ्चरात्रस्य वेद-तुल्य-विधि-पूर्वक-त्वसिद्धि-वर्णनम् ]
+
+तथा हि वेदस्य-सह †निर्विशेषं वाराह⁷-रामायण-भारत-आदौ ।  
+अयुज्य तन्त्रस्य रहस्य-भावं पठन्ति⁸ सन्तत्-स्तमिर्भं⁹ वदामः ॥  
+‡⁸ वेदेन पञ्चरात्रेण भक्त्या यज्ञेन च द्विजे¹⁰ ।  
+प्राप्योऽहं नान्यथा प्राप्यो वर्ष-लक्ष-शतेर् अपि ॥  
+पञ्चरात्रं¹¹ सहस्राणां यदि कश्चित् प्रहीष्यति ।  
+कर्मक्षये च मद्-भक्तो¹² यदि कश्चित् भविष्यति ॥  
+[[P197]]
+
+[^197_1]: M₂, My—असृष्टत्वात्
+[^197_2]: M₁, B, A—सर्वज्ञत्वात्
+[^197_3]: M₁, M₂, My & B, omit स
+[^197_4]: M₃ omits वि
+[^197_5]: M₂, M₃, A, V₂ & B omit तत्
+[^197_6]: M₃, M₄ & A—°शङ्का
+[^197_7]: M₃—तत्र
+[^197_8]: T, M₂, M₃, V₁—चराद्°
+[^197_9]: P, PM—वर्त्मनि°
+[^197_10]: M₁, M₅—°प्रतिषिद्धम्°
+[^197_11]: M₈—°द्विजः
+[^197_12]: M₃—मद्-भक्तो°
+[^197_section]: † Cf. Śvetāśvatara III. 17: ‘सर्वस्य प्रभुमीशानं सर्वस्य शरणं सुहृत् ॥’
+[^197_dagger]: * See G.A. Grierson, Indian Antiquary, vol. 37, p. 260 : ‘India again owes the preservation of the idea of a God of Grace, of the Fatherhood of God, to the Bhāgavatas.”
+[^197_para]: § 'भागिकः' शते विशेषेण-व्याहार्यम् ।
+[^197_footnote]: × 'निर्विशेषं' समानम् इत्यर्थः ।
+[^197_doublestar]: ‡ Varāhapurāṇa Ch. 66. śls. 19, 14a, 15a, 18a.
+
+---
+[ प्रकारान्तरेण सूत्र-विचारः ]
+
+तस्य वेदाः पञ्चरात्रं नित्यं हृदि वसिष्यति ।  
+यदिदं¹ पञ्चरात्रं मे शास्त्रं परम-दुर्लभम्’ ॥  
+*⁶ तद्-वान्² वेत्स्यते³ सर्वं मत्-प्रसादाद्-असंशयम्⁴ ॥  
+†⁶ पुराणेष्व् एव वेदस्य⁵ पञ्चरात्रेः तथैव च ।  
+ध्यायेति योगिनो नित्यं कर्तृत्वं च यजन्ति तम्⁶ ॥  
+‘एवम् एकं सांख्य-योगं §वेदारण्यकम् एव च ।  
+परस्परानुग्रहेण-इतानि पञ्चरात्रं च सत्तमं ॥ ‡  
+[[P198]]
+
+[^198_1]: M₁,—यदि तम्; M₆—सदृश
+[^198_2]: M₃—तस्मात्
+[^198_3]: M₁, M₄, A—नित्यशसो; M₂—वेदेषु न
+[^198_4]: M₁, A—°अन्तवन्तः
+[^198_5]: M₄, B—सत्तमः
+[^198_star]: * Varāhapurāṇa Ch. 66. śl. 18b. Also Cf. ibid. śl. 11b: “अनाद्यन्ते वेद-मन्त्राणां पञ्चरात्रेण वा ॥”
+[^198_dagger]: † Rāmāyaṇa [uttara] Ch. X (Prākṣipta) [M.L.J. Press], p. 1012. The reading found is : “यजनि पञ्चभिर्-यज्ञैः सततं यजुष्वदाम् ॥” [61b] “यः पुरानो य वेदे च यश्चाहं च परात् परम् ॥” [62b]
+[^198_section]: § See Amarnath Ray, “Śrīkṛṣṇa and the source of the Bhāgavadgītā,” Indian Historical Quarterly, Vol. IX, pp. 193-194: “Kṛṣṇa was the great religious teacher who brought about a Sāṅkhya-Yoga-Vedānta synthesis....The first book which is fragmentary might have been a remnant of the Āraṇyaka of the Sāttvatas, spoken of in the Nārāyaṇīya account of the Mahābhārata [XII. 348. 31]. When the doctrines of bhakti and avatāra and desireless action were adopted by Kṛṣṇa’s followers, they were called Bhā-gavatas.”
+[^198_para]: For a detailed account of the alliance between Pāñcarātra and Sāṅkhya-Yoga and their influences and counter-influences, see G.A. Grierson, ‘The Nārā-yaṇīya and the Bhāgavatas’, The Indian Antiquary, Vol. 37, pp. 255-258.
+[^198_footnote]: ‡ Mahābhārata XII. 336. 76. Cf. ibid., Ch. 337. śl. 1: “sāṅkhyaṁ yogaṁ pāñcarātraṁ vedāraṇyakameva ca | jñānānyetāni brahmarṣe lokeṣu pracaranti ha ||” Also cf. ibid. śl. 59: “sāṅkhyaṁ yogaḥ pāñcarātraṁ vedāḥ pāśupataṁ tathā | jñānānyetāni rājarṣe viddhi nānāmatāni vai ||”
+
+---
+*‘ वेदेन¹ पञ्चरात्रेण चः पश्यति स पश्यति’ ॥  
+†⁶ इदं महोपनिषदं चतुर्वेद-समन्वितम् ।  
+वचसाम् एव-मादीनाम् अन्यान्य्-उपबृंहयन्ते ॥  
+इत्य्-अभूतस्य तद्-अस्य विश्वज्ञं यदि शङ्कुसे ।  
+सर्वत्र स्याद्-अनभ्यास इत्य्-अनुपपद्यते ॥—  
+§⁶ विप्रतिषेधात्’ इति । एवं च—
+
+विरोधेऽपि² विकल्पस्य-अस्तु ‘भगवच्छास्त्र-वेद-योः.³ ।  
+विशेष एव नास्तीति प्रागेव प्रलप्य-यम् ॥  
+[[P199]]
+
+[^199_1]: A—वेदस्य
+[^199_2]: M₃ omits अपि, and the metre falls short of one syllable.
+[^199_3]: M₄—°देवयोः
+[^199_star]: Commenting upon the verse “evamekam” in his Śrībhāṣya under II. ii. 39 (p. 834), Rāmānuja says: “सांख्यं च योगश् च मीमांसा वेदश् च वेदारण्यकम् । परस्परानुग्रहेण-एतानि, एकरूप्य-विप्रलम्भ-रहितम् इति । एवं ब्रह्म-विभूतिं कथयते । एतद् उक्तं भवति—सांख्य-योग-विधि पञ्चरात्र-स्मृति-इतिहास-पुराणेषु च योगः । वैदिक-समन्वयात्-आर्ष-प्रत्यक्ष-ज्ञान-साधन-भूतानां वेदान्तानां च मोक्ष-साधन-मार्गस्य च तद्-अनुष्ठानस्य । कौटिल्य-त्वेन सर्वज्ञ-त्वाद् एव तस्य सर्वज्ञेन स्वयम् एव प्रणीतत्वं यद्-अत्र विश्वम् इदं सर्व-शास्त्रं वेद-संहितम् । ईश्वरस्य केवल-निमित्त-कारणता, परात्म-विवर्तन-विकार-वादश् च निराकृतः; न चोद्भव-स्वेदे, पशुपति-स्वरूपं च । अतः सांख्यं योगः पञ्चरात्रं वेदाः पाञ्चरात्र-श्रुति-वाचा । भागवतानां ब्रह्म-ज्ञानानां तद्-अर्थ-प्रतिपादनात् । एवं भूतानां वाक्यानाम्, किम् अनुमितिर् इत्य् अन्वयः । ‘यथार्थं वेद-वाक्यानि नृणाम्’ इत्य् आदि ।’
+[^199_section]: * To be identified.
+[^199_dagger]: † Mahābhārata XII. 326. 100a.
+[^199_para]: ‡ पञ्चरात्रस्य परम्-अमृत-शास्त्रस्य विनिन्दकानां सर्वेषाम् अप्रामाण्यम् अनाश्वास एव भवेत् । विप्रति-षेधाच् च वेदेऽपि देहली-दीप-न्यायेन-अनुगृहीतं ‘सर्वत्र स्याद्-अनभ्यास’ इत्य्-अनेन । ‘विप्रतिषेधाच् चेति’ बहु-वचन-मैक्यम् आवश्यकम् ।
+[^199_footnote]: § Brahmasūtra II. ii. 42.
+
+---
+[ विद्यमान-तत्त्व-ज्ञान-निरासः ]
+
+*नन्व् एवं भूतानां भाष्य-काराणां विरुद्ध-ज्ञान-शाम् आयाभिधानं¹ कथम् इव ?
+यद्यपि विशेषः कुल-चिन्तया परिहृतः,², तदपि गम्भीर-न्याय-सागरम् अवगाढम् उपरिच्छेदानां⁴ कोमलानां वेदाद्-अवारो मा भूद् इत्य् एवम्परम्⁵ । †यथैव हि भगवतो जैमिनः कर्म-फलोप-न्यासः⁶ कर्म-श्रद्धा-संवर्धनायेति ।
+
+[ पञ्चरात्रस्य वेद-बाह्य-श्रुति-मूलक-प्रामाण्यारोपण-खण्डनम् ]
+
+वेद-बाह्यत्व-गृहीतत्वाद्-अप्रामाण्यम् सवादि यत् ।  
+एतद्-बाह्य-गृहीतत्वात् वेदानां वा कुतो न तत् ?
+
+अपि च⁷—
+
+किं चेद् वेद-बाह्यत्वं ? का वा स्यात् तद्-गृहीतता ?  
+किम् इदं वेद-शब्दस्य् वेद-बाह्यत्वम् उच्यते ॥  
+[[P200]]
+
+[^200_1]: M₁ reads विरुद्ध-ज्ञानाम् आयायिनोः
+[^200_2]: M₃—अन्यत्र
+[^200_3]: M₁ omits न्याय
+[^200_4]: M₂, My—परिज्ञाना; M₃, M₆—परिहत-नाथः; PM—परिज्ञानाम्
+[^200_5]: M₃ reads °परम्; ‘ T ’ reads °वत्,
+[^200_6]: Tātparyaṭīkā of Vedānta Deśika (Kanchi edn.), which quotes this line, has a variant : कर्मणः फलोपन्यासः
+[^200_7]: M₃, M₄ omit अपि च
+[^200_8]: M₄ omits तत्, to the detriment of metre.
+[^200_star]: * This reference by Yāmuna to ‘bhāṣyakāra’ has been taken by some Vaiṣṇava scholars as speaking of Dramiḍabhāṣyakāra, who is traditionally said to have commented upon the Brahmasūtra. But this may be taken as a refer-ence to Śaṅkara himself. Rāmānuja’s Śrībhāṣya also seems to support this position. Cf. Śrībhāṣya under II. ii. 42, p. 832 : “यस्तु वेदः चतुर्वेद-मुख्यं कर्म-विधि-विग्रहं व्याप्य-व्याप्यत्व-वत्,” with the above pas-sage : “तन्-मनो-भवन्तः” etc. Also cf. Śaṅkara on the above sūtra, p. 259 : “यस्य-एव-जातोऽन्विच्छेत् सामान्येन न विसंवाद-रथो भवति । अस्ति तु तत्रान्तरे विसंवाद-रक्षितत्वम्; तस्याख्यानाय-व्यापारः” etc.
+[^200_dagger]: † Cf. Vedārthasaṅgraha, p. 157 : “ब्रह्म-विद्-वेदानां कृतिभिर् अथवा मा भूदिति देवता-पितृभ्यो अतिवादः कुर्याः; कर्मणाम् इव तथा स्यात्-किम् ।”
+[^200_para]: § See the verse ‘विवादाध्यासितं’ etc., p. 17 above.
+
+---
+तन्-निषिद्धार्थ¹-कारित्त्वम्² ? आहो तद्-अद्रष्ट-शीलत्ता ?
+
+तथा—
+
+गृहीतत्वम् एव जीवत्वं ज्ञानत्वं वा विचार्यताम् ।  
+क्रियमाणार्थता वा स्यात्, हेतुर्-असर्वत्र युज्यते³ ॥
+
+तत्र तावत्—
+
+यदि वेदाद् विभिन्नत्वं वाऽस्तु एवं, साऽऽऽप्य् अधीयातां¹ ।  
+वेदान्तः त्रिभिर वेदैः;⁵ अपीतनं⁶ वैदिक वचः ॥  
+प्रमाण-मिलनैकान्त्यं हेतोस् तत्र प्रलभ्यते⁷ ।  
+ज्ञातत्वेऽपि गृहीतत्वे, दोषाद्-अस्याम् उच्यते⁸ ॥  
+पूर्वोक्तं वेद-बाह्यत्वं क्रियमाणार्थता यदि ।  
+गृहीतत्वं⁹, वैदेश्यत्वात् तथैव व्यभिचारिता ॥  
+प्रतिषिद्धार्थकत्वं चेद् वेदेष्व् अस्ति-अलक्षणे¹⁰ ।  
+व्यभिचारः त्रयी-वाक्यैः प्राद्यञ्चित्त्व-विधायकैः ॥
+
+प्राद्यञ्चित्त-विषय-काय-आवि वाक्यानि¹¹ *⁶ कूष्माण्डैः जुहुयात्’  
+इत्यादीनि प्रतिषिद्ध-कारि-भिर-अप्य्-अनुष्ठीयमानत्वेन¹² प्रमाण-नीति¹³ तादृश-वेद-बाह्य-गृहीतत्वम्-अनैकान्तिकम् ।  
+[[P201]]
+
+[^201_1]: ‘A’ has अभिषिद्धार्थं°
+[^201_2]: M₃ reads °कामनार्थं°
+[^201_3]: M₁—°इष्यते
+[^201_4]: PM reads वाच्यत्वं ता
+[^201_5]: M₃—°योर्°
+[^201_6]: M₃ reads अधिकम्,
+[^201_7]: M₁, M₃—प्रयुज्यते
+[^201_8]: M₁, M₂, M₄, M₇, My, B, PM—भुज्यते
+[^201_9]: M₁—°गृहीतत्वात्
+[^201_10]: M₄—°लक्षणे
+[^201_11]: M₃—°गृहीतानि
+[^201_12]: M₁, M₂, M₄, M₇, My & B omit °त्वेन
+[^201_13]: A—°अनुष्ठीयमानानि; T, M₁, M₂, M₅, M₆, M₇, My, B—°अनुष्ठीयमानार्थत्वेन; M₃ —अनुष्ठानात्-मानत्वेन
+[^201_star]: * Cf. Bodhāyanadharmasūtra, III. vii. 1: ‘कूष्माण्डैर् जुहुयात् योऽपूत इव मन्येत्।’
+
+---
+†नापि वेद-बहिर्¹-जन-परिगृहीतत्वाद्-अप्रामाण्यम्² पञ्चरात्रस्य-आगम-शास्त्रस्य । हेतोर् असिद्धत्वात् । अपि च न³ वेद-बहिर्-वर्जन-परिग्रहः प्रामाण्यं प्रतिहन्ति । यदि हि प्रतिहन्यात्, निरर्गल-सर्हि⁴ नास्तिकानां⁵ पन्थाः ।  
+ते हि वेद-प्रामाण्यम्-उत्पाद्य तद्-अन्याय्यम् आचरन्तिः—
+
+*कुर्याचित् वेद-वाक्यानि गृहीत्वा विप्रलम्भनात् ।  
+अनायासेन⁵ सिद्ध्य्-अर्थात् वेद-विद् दुर्गतिम्-अभरान् ॥  
+अथ तत्र⁶-नविक-परिणाम-मध्य्-एण-अनुष्ठेयासु †† न चाभिव्याहरेद्-ब्राह्मण-यवनाद्य-इति⁷ इत्य् आदिषु वचन-पर्यालोचनया दोषः; न निर्दोष-वेद-बाह्य-न्यायानाम् इवेति चेत्, ततः⁸ प्रस्तुत-जन-प्रत्यय-विधानकारि⁹-श्रोतृ-जन-नामैव दोषः न निर्दोष-तपस्त्वात्-मिति, सर्वं समानम्-अग्रन्थि-निवेश-आत् ।
+
+अथ सति वेद-बाह्यत्वं नाम वैदिक-कर्मानधिकारित्वं, तदन्य-आधिकारिकं वेद-बाह्यः गृहीतत्वात् §चैत्य-वन्दन-वाक्यवत्-प्रमाणम् इति;  
+[[P202]]
+
+[^202_1]: M₂, M₃, M₄, My, A—वेदविद्भिर्°
+[^202_2]: My— पाञ्च°
+[^202_3]: A omits न
+[^202_4]: M₃—निरर्गल-सर्वास्तिकानां
+[^202_5]: M₃—°अनायासेन
+[^202_6]: B—अत्र°
+[^202_7]: M₁—स्वैरि°
+[^202_8]: M₅ omits वचन
+[^202_9]: M₁ & M₇ omit तत्
+[^202_10]: M₃—°तद्-अध्ययन-अध्यापन-अधिकारि°
+[^202_star]: † The argument here is that the handling of Vedic texts by the un-orthodox people like the Buddhists and the Jains, cannot bring down the authoritative character of those texts. Otherwise, the Vedas would long ago, have become invalid since the unorthodox schools of thought tried to explain the Vedic passages as they pleased contradicting their original significance. The authority of the Vedas is for all time to come and the wrong handling of those texts by others cannot undermine it.
+[^202_section]: * Cf. Tantravārtika I. iii. 3, p. 85: ‘लोक-प्रचलितम् इव-आत्मनः देवस्य चक्षुषा। बाह्यं लिखित्वाऽपि तु तत्-इह कुर्वते ॥’
+[^202_dagger]: †† Manusmṛti II. 172a. The reading found is: ‘नास्तिक्यात्-एव च’। A similar statement is found in the Gautama Dharmasūtra II. 9: ‘न ब्रह्म-निन्दा-करेण’।
+[^202_para]: & c,
+[^202_footnote]: § Bhaṭṭa Medhātithi, commenting upon Manusmṛti XII. 95, quotes from some unidentified source: “नोदनया दैव-वन्दनात् स्वर्गे भवति।’
+
+---
+तत्रापि, किम् अखिल-वैदिक-कर्मानधिकारि-त्वं परिगृह्णीतं¹ हेतुः ? उत कतिपय-वैदिक-कर्मानधिकारि-त्वं² परिगृह्णीतं³ ? इति विकल्प्य व्याचष्टाम्⁴ ।
+
+न तावद् आदिमः कल्पः⁵ कल्पते हेतु-वासिद्धितः ।  
+न हि सोऽस्ति मनुजेषु यः श्रौते कर्मणि कर्मणि ॥  
+नाग-पिङ्ग-ययोर्-दृष्टि-सादी च्-छ्मास्त्र-अधिकारतः ।  
+अथवा हि ब्राह्मण-हनन-पद्-अहरणात्-पशु-इव-अङ्गनाम्-सङ्ग-वेदाध्य-यनादि कुर्वाणाः चाण्डाल-आदयो न दुष्येयुः, तद्-अधिक-रित्वात् ।  
+*यस्य हि यज्ञ कर्मण्य्-अन्ये, तस्य हि तत्-करणे⁵ प्रलवाद्याय । अनन्त-सर्व-स्वामी-ह-शवैदिक⁶-कर्मण्य्-अधिकारो विद्यत एव-इत्य्-असिद्धो हेतुः ।
+
+साधन-विक्लवश् च¹⁰ दृष्टान्तः । नाऽपि कतिपय-वैदिक-कर्म¹¹-नधि-कारित्वम्ः¹² गृहीतत्वाद्-अप्रामाण्यं, समस्त-वेद-बाह्यानाम्-अप्रामाण्यस्य-अज्ञात । अस्ति हि सर्वेषां कतिपय-वैदिक¹³-कर्मानधिकारः—ब्राह्मणस्यैव  
+[[P203]]
+
+[^203_1]: M₁ omits जन
+[^203_2]: All except M₆ omit जन. We chose the reading of M₃.
+[^203_3]: P, PM, T, A, M₃, M₅, M₆, My, V₁ omit परि; M₁ has a lacuna from हेतुः upto परिगृहीतत्वम् ।
+[^203_4]: M₁—बाह्य; M₂, M₄, M₇, My—ब्राह्मणम्,
+[^203_5]: M₅ omits कर्म, to the detriment of metre; M₃ & B have अधिकम् अल्पः
+[^203_6]: M₁, M₇—चाऽऽपि
+[^203_7]: M₁—तत्-कारणत्वात्
+[^203_8]: M₁—तत्-कारण°
+[^203_9]: M₂ & My omit वैदिक
+[^203_10]: M₁—°विक्लवश् च
+[^203_11]: M₁—°धर्मे°
+[^203_12]: M₃—°कर्मानधिकारि°
+[^203_13]: B omits वैदिक
+[^203_star]: * Vide Karmamīmāṁsā, p. 93: “While an injunction directs a positive act, a prohibition (niṣedha or pratiṣedha) serves to turn a man away from performing the action expressed in the verb and its object. The prohibition does not lead to any desirable result such as heaven; it serves none the less a useful purpose; the man, who obeys the direction not to eat the mysterious kalañja, by observing this taboo escapes the hell which else had been his fate. In the technical phraseology of Mīmāṁsā, the negative applies not to the sense of the verb, but to the optative affix; as an optative urges us to action, so a negatived optative turns away from it.”
+
+---
+'राजसूये, राजन्यस्यैव सोऽप्य् एवं । अनयो व्यवस्था-वर्ण-आधिकारिक-गृहीन-वेद-वचनैः अनेकान्तिको हेतुः । *अप्रयोजकश् च—
+
+†चेत्य-वन्दनादिभिः स्वर्गा भवन्ती ‘लोह-सी सतिः ।  
+न तत्-परिग्रह-हानिभ्यां, किन्तु कारण-दोषतः ॥
+
+[ पञ्चरात्रस्य वैदिक-परिग्रह-सिद्ध्य्-अर्थं हेतु-निरूपणम् ]
+
+उत्सन्न वैदिक-शासनात्-समस्त-धर्म-अनुष्ठातृ-पायन-प्रभृति-महर्षि-जन-परिग्रहः³ । अथर्व-वेदेऽपि हि पञ्चरात्र-तन्त्र-विहित-मार्गेण वैशसाद⁴-करण-प्रसिद्धा 'प्रतिप्रमाण-म्-अधिगच्छति-प्रशस्यते ।  
+[[P204]]
+
+[^204_1]: M₁, M₇—महा-शैल्येव
+[^204_2]: M₁, M₂, M₇, B—शुचि-पदैव
+[^204_3]: M₄, My—शुचि-पदैव
+[^204_4]: M₃—°परिग्रहम्,
+[^204_5]: A—प्रसक्त°
+[^204_6]: M₃ omits प्रतिना
+[^204_star]: * अत्र-एवं सति-अविशेष प्रतिपादस्यैव 'चैत्य-वन्दनः' इत्य् आदि ।
+[^204_section]: † See G.A. Grierson, “The Nārāyaṇīya and the Bhāgavatas”, Indian Antiquary Vol. 37, p. 254: “The usual tradition is that it (the Bhāgavata doctrine) was transmitted : Deity—Nārada—saints including the Sun—Ṛṣis in his train—gods—Asita—to the world in different channels. Modern Bhāgavatas recognise two great teachers of their religion. One is Nārada, to whom is attributed Nāradīya Bhaktisūtra. Equally esteemed is the collection of Śāṇḍilyabhakti-sūtras. The author to whom it is attributed, composed the Śāṇḍilyavidyā quoted in the Chāndogya Upaniṣad III. xiv. 3.”
+[^204_dagger]: See also p. 9 above, fn †
+[^204_para]: § For a detailed account of temple-construction according to Pāñcarātra-texts, see Agastyasaṁhitā 1-106; Ahirbudhnya Saṁhitā XXXVI. 31-49; Īśvara-saṁhitā XVI. 1, 219-247; 266-287; Kapiñjalasaṁhitā X. 61-66; 69-72; Jayākhya-saṁhitā XX. 73ff; Pādma ‘kriyā’ IV. 24-28, 35-45; V. 84-90; VIII; Pārameśvara I. 1-106; Pauṣkara XL. 92-109a, XLII. 71-118; Viṣṇutilaka VI. 1-342a, 449-498; Sanatkumāra ‘Brahma’ VIII; Sāttvata XXIV. 280-432a, XXV. 1-375; Hayaśīrṣa ‘Ādi’. XIII. 1-41; XXXVIII. 61; XLIV. 12-19. For the installation of images, see Aniruddha XV, XXXIII, XXXIV; Īśvara XVI. 228-352, XVIII. 1-560; Jayākhya XX. 131b ff; Parama XVIII. 28-75; Pauṣkara XXXVIII. 1ff, 15-46; Sanatkumāra “Brahma” VI. 110 passim, IX. passim; Sāttvata XXV. 307ff, 320ff; XXVI. 375.
+
+---
+श्रुति-स्मृति-विहिताद् इष्ट-अयन-स्यन्न् इतरद् यतः,  
+पद्माक्ष्याम् । न चैतद् आचरण-निर्णय-मूलंमिति श्रुकरम् । साध्य-अन्वादन-काले च-इतराणां देव-प्रसादनादि-प्रचयानां च¹ काचिद् अपि विरोधाभावेन विरोधाभावात् प्रत्यक्ष-आगमयोर् विरोध-शङ्का-अभाव-प्रसङ्गः ।
+
+†अथ भागवत-परिगृहीतत्वाद्-इति हेतुः; हन्त तर्हि तत्-परिगृहीतत्वात् §वाजसनेय-कैकायन-शाख-वचसां प्रत्यक्ष-आदीनां च अप्रामाण्य-प्रसङ्गः ।
+
+अथ नैव⁶ परिगृहीतत्वाद्-इति हेतुः; तद्-असायारण-अनैकान्ति-कम्; असिद्धं च । किम् इति वा⁷ तत्-परिग्रहाद्-अप्रामाण्यम् ? अत्रैव-अर्ण-कत्वाद्-इति चेत्, किं नोः श्रैवणिकेतर-सर्वज्ञ⁸-रमकार-निवादादि⁹ प्रति गृहीतानुष्ठीयमान-प्रामाणां¹² वचसां §६ रथकार आदिभिर्¹¹, एतद्-आवि¹²-निषाद-स्थपतिं याजयेत्’ इत्यादिवच् च प्रामाण्यं नार्हतः ?  
+[[P205]]
+
+[^205_1]: M₂ omits ततः; M₄—अकारणात्
+[^205_2]: A—कल्पनायाः,
+[^205_3]: M₃—लिङ्गस्य,
+[^205_4]: M₄—°वचनानां,
+[^205_5]: M₂ omits तर°
+[^205_6]: M₁—तद्°,
+[^205_7]: M₂ omits तत्°,
+[^205_8]: M₃, M₅, M₆, V₁—°सर्वज्ञैः
+[^205_9]: A, B omits वा
+[^205_10]: M₂ omits °च,
+[^205_11]: P, PM—°प्रयोक्तृ°
+[^205_12]: M₃—°स्थपतेर्°
+[^205_13]: M₃—°प्रमाणता,
+[^205_14]: A—°वचनानां°
+[^205_dagger]: * For a description of Utsavas, which are as many as fifty in number, see Agastya V. 1-2; Aniruddha XVII. 9-16a, XX. 1-16, XXIV. 1-4, XXVII, Īśvara X. 4a-10, XII. 1-233a, XIII. 1-265a, XIX. 469-473; Kāpiñjala XXII. 3-5, 8-9, XVIII. 1-84a, XXIV. 1-69a; Pādma “caryā” X. 6-23, XI. 1-292, XIV. 1-85, Pārameśvara XVI. 1-55, XVII. 1-550, Śāṇḍilya I, XV. 1-126; Śrīpraśna XXX. 79-87; Sanatkumāra “Śiva” IX. For the annual festival called Mahotsava, see Aniruddha XXI. 1-112; Īśvara X; Pādma “car” XI; Śrīpraśna XXXI. 8, XXXVIII. Pārvamīmāṁsā I. iii. 7.
+[^205_para]: † See p. 17 above, “स एव च" &c.
+[^205_footnote]: § The Ekāyanaśākhā belongs to the Śukla Yajurveda.
+[^205_doublestar]: ¶ Cf. Āpastambaśrautasūtra V. 3.19.
+[^205_triple_dagger]: †¹ Muṇḍayoni Saṁhitā [ed. Dr. Leopold V. Schroeder] II. 2.4. The reading found is : “तथा त्रिपानरण्यात्-एव जाग्रते । स हि देवेषु ।” For the Niṣādasthapati-nyāya see Śabara on Pūrvamīmāṁsā VI. i. 51, 52.
+
+---
+[ भागवत-नाना-गृह्य-प्रमाण-समर्थनम् ]
+
+अस्तु वा अथर्वणिक¹-परिग्रहः अप्रामाण्याय-हेतुः । § एतेषां तु भगवच्छास्त्राणाम् इना भगवतानाम् अनन्त-शाखाध्ययन-पूर्व-सर्वाम्नाय-सम्भृत-मिति न तत्-परिग्रहः² प्रामाण्यम् एव द्रढयति ।
+
+[ जातः प्रत्यक्षत्व-निरूपणम् ]
+
+आहु³—केन पुनः प्रमाणेन एवं वाऽऽस्थीयम् वचनम् ?  
+केन वाऽऽऽस्थेयम् ?
+ननु च-अङ्ग-विस्फार-ण-समन्वन्तरं⁴ शिखा-ज्ञोपवीत-पालाश-दण्ड⁵-मौञ्जी-युजो द्विजात्-कुमारकान् पश्यन्तो ब्राह्मणा इत्य् अवगच्छन्ति ।
+
+इह वा किम्? हर-हरीयत-मान-वजसनेय-कैकायन-शालायाः विलस-दुपवीतोत्तरीय-शिखा-शालिनोऽध्यापयन्तः याजयन्तः, प्रतिगृह्णन्तो विबुधः पश्यन्तो ब्राह्मणा इति न-अवगन्ति⁹ ?
+
+अथ याजन-प्रवचन-पालात्¹⁰-खण्डादीनां दुष्ट-शूद्रादिषु व्यभि-चार-सम्भवात् ब्राह्मण्य-सिद्ध-वत्-कारेण प्रवृत्तेष्व् न तेभ्यो ब्राह्मण्य¹¹-निर्णयः¹², तद्-इव-अतेष्व् अपि प्रमाणानि सन्ति¹³ ।
+
+अथ सत्य् अपि तेषां कश्चिद्-अभिव्यवहारं, तत्-सामान्य-वन्-अन्यत्र¹⁴ व्यभिचारात्-शङ्कां, श्रुतौ रजत-भियो वक्ष्यते रजन-  
+[[P206]]
+
+[^206_1]: M₃—°वचनिका°
+[^206_2]: M₃ & M₄ read °सत्त्वं, omitting the visarga.
+[^206_3]: M₁—अत्र
+[^206_4]: M₁—°अन्तम्,
+[^206_5]: M₁, M₂, My, B—°पलाश°
+[^206_6]: M₆—°पालादयो°
+[^206_7]: My—°श्रुतो°
+[^206_8]: M₁, M₂, M₄, M₇, My, B omit इव
+[^206_9]: M₂, M₆—°ब्राह्मणत्वं°
+[^206_10]: PM, M₄, B—°पलात्°
+[^206_11]: M₃—°आप्लुतः°
+[^206_12]: A reads निस्रवः
+[^206_13]: T records a variant साधकम्
+[^206_14]: A—°न्त्र°
+[^206_section]: § For a detailed notice of the origination, transformation and philosophy of the Bhāgavata religion and its contribution to the Indian thought, see G. A. Grierson, “The Nārāyaṇīya and the Bhāgavatas”, Indian Antiquary, Vol. 37, pp. 251-262.
+
+---
+प्रिया¹ व्यभिचारत्वात्, प्रत्यक्ष-विरोधात्, अनवस्थानं², अनुपलभ्य-मान-व्यभिचाराद्-अहरेषु³ तथात्व-निश्चयः, तदन्यत्रापि समानम् ।
+
+अथ मन्यसे—अन्येषां ब्राह्मेण्ये तद्-असाधारण-गोत्र-स्मरण-आदिति, तद्-भागवताम् अपि समानम् । स्मरन्ति हि भागवताः—‘वयं भारद्वाजाः⁴, वयं काश्यपाः, वयं गौतमाः, वयं मैत्रायणीयावा⁵ इति । न चेदं गोत्र-स्मरणं निर्मूलं सामयिकं⁶ वा; सर्व-गोत्र-स्मरणानां तथाभाव⁷-प्रसङ्गात् ।
+
+समान-ज्ञान-दोषात्वात् वंशजानां, यदि संशयः ।  
+तद्-ब्राह्मणे, ततो लोके सर्वं व्याकुल-येद्-यम् ॥
+
+तथा हि—
+
+जननी-जार-सन्देहे⁸-जात्य्-अनुष्ठान-संशयाः ।*  
+निर्बीजः¹⁰ कथं वेदान् अधीये¹¹ साधु सत्तम¹² ? ॥  
+तेन भागवताम् अपि¹³ अविच्छिन्न¹⁴-परम्परा-म् अविचित्र-गोत्र-स्मरण-परेष्व् आपिते ब्राह्मण्यम् अनुपपन्न इति न भागवतानाम्-अन्त्येषां च ब्राह्मणे कश्चिद्-विशेषः । यदि परं, ते¹⁵ परम्-पुरुष-मेव-आश्रिता एकान्तिनः; अन्ये क्षुद्र-दैवतकान्¹⁶ साधका इति ।  
+[[P207]]
+
+[^207_1]: M₅—°तया
+[^207_2]: My reads प्रत्यभिचार-स्यानवस्थानत्वात्
+[^207_3]: M₁, M₂, M₄, M₇, My, B, omit तु
+[^207_4]: My—भरद्वाजाः
+[^207_5]: M₅ omits °यणीयाः
+[^207_6]: M₂, My—सामयिकम्
+[^207_7]: A omits मा
+[^207_8]: M₃—°सन्देशात्
+[^207_9]: P, PM—°जातः
+[^207_10]: M₃—निविष्टः
+[^207_11]: P, PM—वेदमध्ये; M₁—वेदम् अधीते
+[^207_12]: PM, T—साधु-सत्तम
+[^207_13]: M₁, M₄, M₇, B—°स्तत्°
+[^207_14]: P & PM omit अपि
+[^207_15]: A—°विभिन्नः; M₈—अभ्युपपन्न°
+[^207_16]: M₅ & B omit परं ते
+[^207_17]: All ptd. texts and mss. except M₁, M₆—दैवतिकाः; M₂—देवकाद्याः; We chose the reading of M₃.
+[^207_star]: * अयं बहुश्रोत्रः ‘नं’ इत्यस्य अभ्याहतस्य निरोधनात् ।
+
+---
+किं पुनर् नेतरा ब्राह्मणे प्रमाणम् अभिमतम् ?  
+*यदेवान्येयाम् ।  
+केन वा तेषां² ब्राह्मण्यम् अवगताम् ?  
+†किं न एतेन ? यदि च कोतुहलम्—  
+श्रूयताम् उभयत्राऽपि, ब्राह्मण-स्य्-एवायं धारकम् ।  
+प्रत्यक्षं वाऽनुमानं वा यद्-अर्थापत्तिर् एव वा ॥
+
+ननु कथं प्रत्यक्षं ब्राह्मण्यम् अवगमयति ? न हि प्रथमम् अस्मिन्-पात-समनन्तर-महर्-धूर्-विप्रलम्भात् मानव-योवेप-इत्य् उद्वृत्त³-सङ्गिणो अज-गजा-महिषादि⁴-विशेषवत् ‘अयं ब्राह्मणः, अयं क्षत्रियः,’ इति विज्ञानं⁷ प्रतिपद्यामहे ।
+
+न च तद्-एक-आदि-ब्राह्मण्य-स्मरण-सापेक्षम् असेभ्य⁹ स-अधिहितस्य-किञ्चन-ब्राह्मण्य-वगमयतीति सामर्थ्यम् । तत्-स्मरणस्यैव प्रथमं भव-विरहेण बन्ध्या-सुत-स्मरणवद्-अनुपपत्तेः ।
+
+न चानुमानात् । तत्र¹⁰-निबद्ध¹¹-लिङ्गाद्-अर्शनात् ।  
+न च शम-दमा¹²-तत्-पर्वाशौचादयो¹³ ब्राह्मणे¹⁴ लिङ्गम् । तेषां ब्राह्मणेन सता¹⁵ सम्पादयित्वात्,¹⁶ ह्य् अभिचारात् ।  
+[[P208]]
+
+[^208_1]: M₁, M₂, M₄, M₇, My, & B omit अमितम्
+[^208_2]: B—एतेन च
+[^208_3]: A reads प्रमाणम् इह°
+[^208_4]: M₄ & M₅ add च
+[^208_5]: ‘A’ adds स्यः
+[^208_6]: M₃ reads अज्ञानम् इत्यादि°
+[^208_7]: M₁, M₂, M₄, M₇ & My read विशेषेण
+[^208_8]: M₄ omits श्रुतम्,
+[^208_9]: M₄ omits शक्ति
+[^208_10]: M₁, M₃, M₄, M₇, My & B omit तत्
+[^208_11]: M₂, My omit त्वं
+[^208_12]: M₁, M₂, M₄, M₇, My & B—°शीलतया°
+[^208_13]: M₁, M₂, My—ब्राह्मण्यं°
+[^208_14]: M₃—सदा
+[^208_15]: My—सम्पादयमानत्वात्
+[^208_16]: * अन्येषां ब्राह्मणत्वेन प्रसिद्धानां ब्राह्मण्यप्रमाणे यथार्थज्ञानं, तदेव एतेषां भागवतानां ब्राह्मण्यप्रमाणे प्रमाणं भवति इति प्रपञ्चः ।
+[^208_17]: † अपरमार्थत्वेन विनाश्यते दोषः ? तथापि श्रुति-मूलत्वात् ।
+
+---
+न चाप्यर्थापत्त्या ब्राह्मण्यस्य¹ दधीयते²; अनुपपद्यमानत्वात् । न च §¹ ‘वसन्ते ब्राह्मणोऽग्निम्’ इत्यादिवत्-क्यार्थानुपपत्त्या ब्राह्मण्य-पर्य्य्-निर्णयः, ब्राह्मण्य-आदि³-पदार्थम् अभ्युपेत्य-एव तत्-द्वा⁴-क्यार्थ-पर्य्यवसाय-म् अस्य ।
+
+नाऽयं दोषः,⁵ । न हि प्रथमम् एव⁶ सम्प्रयोग-सम्भव एव भासमानं प्रत्यक्षं, नान्यद्-इत्य् अस्ति⁷ नियमः । यद्देवेन्द्रिय⁹-व्यापारानन्तर-उत्थं⁸ मपरोक्षम् अवभासते¹⁰, तत् प्रत्यक्षम् । तथा च ब्राह्मण्यम् इति तद्-अपि प्रत्यक्षम् । प्रमितयो हि वस्नु-मुनीत्येव¹¹-लोचनाः; तत्-समान-विषयेषु-अत्रानुस्मृतं-वन् नहिंस्रः । वाऽऽयं¹²-यस्य्-एव तुल्लोऽपि तादृश-इति च विष्णु-सङ्गतेषु¹³ स्फुटतरम् उपलभ्यन्ते¹⁴ ।  
+[[P209]]
+
+[^209_1]: All except M₃—°ब्राह्मण्य°
+[^209_2]: M₁, M₂, M₄, M₇, My & B omit °मास्थाय°
+[^209_3]: M₂, M₇, My, B—ब्राह्मणादि°
+[^209_4]: ‘B’ omits तत्
+[^209_5]: M₂ reads दोषः
+[^209_6]: M₃ adds च
+[^209_7]: M₂—नान्यस्य् इति
+[^209_8]: PM—यदेन्द्रियस्य; M₂—यदेन्द्रिय° M₃—यदेन्द्रिये
+[^209_9]: M₃ & M₅—सत्यम्,
+[^209_10]: M₁, M₂, M₄, M₇, My, B—°मासते
+[^209_11]: T, V₁, A—°इत्य् उपरि°
+[^209_12]: PM and all mss. except My—यत्-सिद्ध°
+[^209_13]: M₃—°शङ्का°
+[^209_14]: M₂, M₄, M₇, B omit श्रुतम्,
+[^209_15]: M₂, M₄—°संस्थानात्
+[^209_16]: M₄, B—°इति-व्यास-सङ्गतम्°
+[^209_17]: M₁, M₂, M₄, M₇, My, B, read स्वयोनित्वेनैव
+[^209_18]: P, PM, T, M₃, M₅, M₆, V & A—कलात्म्,
+[^209_19]: M₁—यथा हि
+[^209_section]: § Taittirīya Brāhmaṇa I.i.2.
+[^209_para]: * Cf. Ślokavārtika under I.i.5, śl. 26 (vanavāda) : ‘सरयोपलब्धेऽपि काचिद् देश-काल-विप्रकर्षे । ऋत्विजो विशेषेण देवानां गृह-पशवः ॥’
+[^209_footnote]: † परिच्छिन्नः-साम, नैयत्यो वा ।
+[^209_doublestar]: ¶ करण-मात्रम्—करणानाम् अपि ।
+
+---
+‘न हि तत् करणं लोके, वेदे वा किञ्चिद् ईक्ष्यते ।  
+इन्द्रियैकत्व-न्यायेन यस्तु न-अनुप्रवेक्ष्यति’ ॥’ इति ।  
+*‘लक्षणं च तद्-उत्थाने¹ सखायं न-अनुप्रवेक्ष्यति² ।  
+विज्ञानायमानं ब्राह्मणा यं प्रलमभन्ते³ न मुञ्चति ॥  
+तथा च दृश्यते न, मान-सङ्कल्प-रिग्रहः ।  
+वसुषुरो⁴ जाति-विज्ञान-जनितं⁵ यथोदितम्⁶ ॥  
+‘सुवर्णा⁷ उपजयन्ते रूयात् तान्-अवादेर् संशयम् ।  
+तैलात्⁸ घृतं विलीनं च, गन्धेन तु रसेन वा ॥  
+‘अग्न-प्रज्वलितो वह्निः स्पर्शेनोपलभ्यते ।  
+ईश्वच्-छादो⁹ च दृश्यन्ते’ निदर्शनयो जायते⁹ च्छनैः ॥  
+संस्थानेन घटत्वादि, ब्राह्मणत्वादि योनितः ।  
+कचिद्-अवातरं च-अपि सम्पृक्तं राज्ञां तु पालिताम् ॥§” इति¹⁰ ।  
+[[P210]]
+
+[^210_1]: M₂ & M₅—अयेता°
+[^210_2]: M₂, My—°शत°
+[^210_3]: B—च्युते
+[^210_4]: P, PM—°करणत्वम्
+[^210_5]: M₃—लक्षणम्
+[^210_6]: M₁, M₂, M₄, M₈, B—अव्यवाहारो
+[^210_7]: M₁, M₇—निवृत्ते (no च)
+[^210_8]: P, PM—राज्यार्थं; M₁—ज्ञानात्°
+[^210_9]: M₃—लक्षणम्
+[^210_10]: M₂ omits इति
+[^210_star]: ¶ Ślokavārtika (Sambandhākṣepavāda) under I.i.5.śl. 37. ‘प्रत्यभिज्ञान-शास्त्रेषु’ ‘अज्ञानत्वे’; ‘अन्यथा’ कापि-इति इति भावः । Cf. Nyāyaratnākara (Chowkhamba edn.) on the above verse p. 507 : “सतीव चक्षुषी प्रदीप-प्रदीपिकायाम् इव तादृशेऽपि नास्तिकता-पादयति । प्रस्तुतं शक्तिर् इव तथैव द्रव्यादयश् च तत्र सिध्यन्ति ।”
+[^210_dagger]: * Veṅkaṭanātha quotes this and the following verse in his Nyāyasiddhāñ-juna V. p. 267. Cf. Prakaraṇapañcikā III. p. 17: “आविरातर्-अव्ययो विद्या शब्द-ब्रह्मण्य् उपतिष्ठते । यत्-कारक-ज्ञानेन भाष्य-कृतेश् च ॥”
+[^210_para]: † क्षणिकत्वात्-इति भावः ।
+[^210_footnote]: § Cf. Ślokavārtika (Vākyādhikaraṇa) śl. 358, p. 947 : “यवनः शक्तिमान् एव देवानां च श्रुतम् । सुरभि-त्वस्य च श्रुतेश् च प्रतिपादयति यतः ॥”
+[^210_doublestar]: § Vide ibid (Vanavāda) I. i.5, śls. 27-29.
+
+---
+यत्-सम्भाव-नयोपेपुष्-यविलोकने ।  
+लक्षण-आदि-क्षयो¹-ऽभेदो नावभाति-इव भावितम्² ॥  
+नैतावता³-विभ्रमस्य प्रत्यक्षत्वं निवर्तते⁴ ।  
+साधर्म्य-दोषात् तत्र स्यात् विभग-स्याव-नग्रहः ॥  
+समान-रूप-संस्थान-शुक्तिका-कलधौतयोः ।  
+विवेकः सहसा नाम्-आदिति⁶, कालान्तरेऽपि किम् ॥  
+प्रत्यक्षो न भवेत् ? एवं विप्रलम्भ-विवर्जिता ॥  
+†यद्वा—सन्तति-विशोष-प्रभवम् एव ब्राह्मण्यम् । तथा अन्वय-व्यतिरेकाभ्यां यथार्थत्वे⁹ §कैकार्य-वत्त्वं¹⁰-भगवच्छब्देन-इयम्¹¹ ।  
+के पुनः सन्तति¹¹-विशेषोः ?  
+येषु ब्राह्मण-शब्दं प्रयुज्यते¹² शूद्राः ।  
+केषु वा¹³ प्रयुज्यते¹⁴ ?  
+उक्ते हि¹⁵-गोत्र-आदि-प्रसिद्ध-मतिम् अति-त्वेन-एव-एकशः ।  
+आस्ताम् अप्रस्तुता चिन्ता, प्राची प्रस्तुत-पद्य चिन्ता ।  
+सिद्धं¹⁶ गोत्रादि-पुत्कलवत् विप्रा भागवता इति ॥  
+[[P211]]
+
+[^211_1]: P, PM, T, A, M₂, M₅, M₆, M₇, V₁,—°अक्षयः
+[^211_2]: My—शान्तितस्
+[^211_3]: M₁—प्रलम्बे तु
+[^211_4]: B—निवर्तते
+[^211_5]: M₄—योगिनः,
+[^211_6]: M₂—नाम् आदि
+[^211_7]: M₄—एव
+[^211_8]: M₂ & My—यबालोक°
+[^211_9]: M₁—कथम्
+[^211_10]: A—कार्यान्तरम्; M₁—कार्यन्तरम्
+[^211_11]: M₇, My—°अन्वयम् एव
+[^211_12]: P, PM—°सन्धि°
+[^211_13]: M₃, M₆—प्रबुध्यन्ते
+[^211_14]: M₂ adds न
+[^211_15]: PM—अनुबुध्यते
+[^211_16]: P, PM, T, M₁, M₃, M₄, M₆, V₁, & A, omit हि and the line falls short of one syllable
+[^211_star]: * विज्ञानेन वेदार्थः ।
+[^211_section]: † Cf. Prakaraṇapañcikā, III, p. 31: ‘येन सत्ता-विशेष-प्रभवम् एव ब्राह्मण्यम् अनुपपद्यते । तत्त्व-ज्ञानम् एव केनचित्-प्रकारेण न किञ्चिद्-विहीनम्, किं पुनर् एतत्-प्रत्यनीकेन ? न चेत् तत्-प्रत्यनीकत्वेन शब्दार्थं प्रतीयते; किन्तु लोकत एव प्रसिद्ध-सम्बन्धः । तथा च तज्-ज्ञान-समवायतो ब्राह्मण्यं प्रतीयते; नो येषां । एवं च सति, शुद्धस्यापि विप्रस्य् एकादशाहेऽपि न तत्-भावः ।’
+
+---
+*वैश्यात्-उत्पन्न एव जन्य यदेतासु-पवर्गतम् ।¹  
+†¹ पञ्चम-स्-त्वेकतो नाम विष्णोर् आयतन-अध्वनि सः ॥  
+पूज्यते दास्या राज्ञः स तु भागवत-स्मृतः ॥¹  
+न तावत् सात्त्वत-शब्दो वैश्याद् एव-आत्म-काययोर् भेदेन नियन्तुं शक्यः; अवगतिः; अतिप्रसङ्गात् । न हि ‘पञ्चम-स्मरणं’  
+इत्य् अत्र सात्त्वत-शब्द-प्रयोगः ।  
+न च पञ्चमस्य सात्त्वतत्वे⁸, सत्वेन-अपि वा च्यत्वेन¹⁰  
+[[P212]]
+
+[^212_1]: M₃—°वर्णम् ऋक्
+[^212_2]: B—निवृत्ते
+[^212_3]: M₁, M₂, M₄, M₇, My—अभिधीयते
+[^212_4]: My—अभिधीयतेऽपि भावः°
+[^212_5]: M₄ adds सः
+[^212_6]: M₃—देतवे
+[^212_7]: M₁—एतदेव
+[^212_8]: M₁, M₄, M₅, B—°सर्वतोऽन्वयि
+[^212_9]: V₁, A—°पद-लिङ्गत्वस्य
+[^212_10]: M₄, B—°शब्दत्वात्
+[^212_star]: * See p. 13 above, for the pūrvapaksa view.
+[^212_section]: † To be identified.
+[^212_para]: § Cf. Manusmṛti X. 23: “वैश्यात् जायते व्रात्यात् सुधन्वन्-आचार्य एव च । भारुषश् च निजङ्घश् च मैत्रस्-सात्त्वत एव च ॥”
+[^212_footnote]: ‡ 'तद्विषयानि च' इत्यस्य भूयसा दृश्यते ।
+
+---
+†यदि पुनर् अयं¹ जात्यन्तरेऽपि प्रयोगो दृष्टः कथम् इदानीन्, लब्ध-च्छाय्-अभिशय्येन² मन्यद्-उत्पाद्यानाम् अविशेषात्³ । ननु च तावद्-अनेक⁴-निर्दोषः तत्; नैवं⁵ सकृद्⁶-अपि विप्रलम्भ-सम्भवे¹-निर्दोष-तायाः⁸ तत्त्वेऽपि¹⁰ नान्यद्-एव⁹ स्यात¹¹ ।
+
+अथ न स्य् आत्म-वाक्य-वाचा¹²-र्य-शब्दोऽपि भागवतवत्[^213_star]  
+इयं¹³ वा चोदित-वाक्यत्वात्[^213_dagger] ब्राह्मण-पदम् इव¹⁴  
+[[P213]]
+
+[^213_1]: M₃—ह्येवं तावता°
+[^213_2]: M₄—°येभ्यम्
+[^213_3]: M₁, M₂, M₄, M₇, My & B—पदस्यापि
+[^213_4]: PM, M₁—चिक्कणे°
+[^213_5]: P—द्विजस्यापि
+[^213_6]: M₅—°च्छत्र°; P, PM, T, M₂, M₅, M₇, My, V₁, A—°आत्मवत्°
+[^213_7]: M₁, M₄, M₇, My & B add अपि
+[^213_8]: M₁—सात्त्वत°
+[^213_9]: M₂—°वाचि°
+[^213_10]: M₅—°इति°
+[^213_11]: My—°स्याप्य्-असद्-भावात्
+[^213_12]: M₃, M₆, V₁, A—सर्वसति; M₅, My—सति; M₄—सति
+[^213_13]: P, PM, T, M₅—वा°
+[^213_star]: * This paragraph is in elucidation of the word “atiprasaṅgācca” used in the para “na tāvat” etc. above.
+[^213_section]: † The term ‘ācārya’ is from the Manusmṛti X. 23a: “वैश्यात् तु जायते व्रात्यात् सुधन्वाचार्य एव च ।”
+[^213_dagger]: ‡ Cf. Nirukta (Ānandāśrama Series 88) I. ii. 4, p. 36: “आचार्यः शास्त्रम् अध्यापयति, श्रापयति बुद्धिम् इति वा ।”
+[^213_para]: Also Cf. Vihagendrasaṁhitā (ms.): ‘अभिषिञ्चति राजानं तदाऽऽचार्य उदाहृतः । आचार्येण तेन लोकेषु स तु आचार्य उच्यते ॥’ [XXII. 14]
+[^213_footnote]: § “śabdyatvāt” would have been a better reading. But no text preserves this reading. As it stands now, the term “ācāryaśabdatvāt” has to be explained as a Bahuvrīhi compound, qualifying the term “Brāhmaṇa”.
+
+---
+तथा च ‘शूद्र’¹-शब्दस्य रूढा² मण्टक-वत्-स्थिता ।  
+इति, तच्-छ्रुति-शब्दत्वात् सिद्धो मधुरकम् एव किम् ?  
+तथा² ‘गो’-शब्द-वाच्यत्वात् शब्दस्यापि विभागवान् ?
+
+अतश् च—[^214_star]
+
+†¹ सुष्ठ्व्-अन्वाऽऽचार्य¹ इत्य् आद्या र्थ-यथार्थावबोधकाः ।¹  
+ब्राह्मण्य-वन्ये प्रयुज्यन्ते, तद्-बलेनो भविष्यतः ॥  
+[ सात्त्वतादि-शब्दानां रूढि-व्यतिरेकेण निरुक्त्यार्थ-समर्थनम् ]
+
+‡येऽपि यौगिक-शब्द-आश्रयेण-अपि निन्दित-सात्त्वत-भाण्ड-गडि-शब्द-शिरस्कयोराश्रित्य-अभिमत-यत्न-निर्वाहायापि-उपान्तोपस्थिता सव्याख्या-मलण्ड-शक्तिकल्पना-नुपपत्तेः । योऽपि हि सात्त्वत-भागवत-शब्दयोः रूढिम् अङ्गीकृत्य-एव-अर्थ-मुप-गच्छति, अभ्युपगम्य-च-एव-आसादन्यत्र[^214_dagger][^214_para]  
+[[P214]]
+
+[^214_1]: M₁—पृष्टः; M₆—शूद्र°
+[^214_2]: M₁, M₃—तथा
+[^214_3]: M₆—°शब्दिकाः
+[^214_4]: M₂ reads शोभितः; M₃ & M₄ omit इति
+[^214_5]: M₁ & M₃—इह°
+[^214_6]: PM—सप्तत्व°
+[^214_7]: M₁—सात्त्वत-भागवत-शब्दयोः
+[^214_star]: † This and the two succeeding lines are quoted by Sudarśanasūri in his commentary on Śrībhāṣya, I.i.1, Vol. I, p. 153.
+[^214_section]: † Manusmṛti X. 23a: “वैश्यात् तु जायते व्रात्यात्” etc.
+[^214_dagger]: § वृषल-शब्दाद् यथा अर्थान्तवाचकः, एवं सात्त्वत-भागवत-शब्दयोऽपि योजना । 'यथा वा न-शब्द’ इति न निषेधं परम् ।
+[^214_para]: § See “कृत्वा” etc., p. 12 above.
+[^214_footnote]: * यवन-शब्दश् च—योग-शक्तिः ।
+[^214_paragraph]: ¶ Parāśarabhaṭṭa in his ‘Viṣṇusahasranāmabhāṣya’ gives the following explanations for the term ‘sāttvata’ identifying the latter with ‘mahābhāgavata’ | See Introduction to Jayākhya Saṁhitā ] (i) सत् शब्द, सत्त्वं वा, ततः सात्त्वतः प्रज्ञाविणः सात्त्विका वा; तेषाम् इदं शास्त्रम् वा भागवतम्, तद्-गुण-योगात् तद्-बाह्यश् च वा । (ii) सात्त्वति पुत्रस्य-अपत्यम् इति सात्त्वतः परमात्मनः; स एतेषाम् अस्तीति वा सात्त्वतः । शा भागवताः । The Mahābhārata, Āśvamedhikaparvan [ Vavilla edn., Vol. XVIII | ch. 124, śls. 33-37 speaks in favour of the brāhmanical status of the Bhāgavatas:
+
+---
+
+[ अर्थस्यैव श्रुति-प्रमित-प्रतिपादनम् ]
+
+न हि ‘भागवतस्य’ द्वैपायन-स्मृतेर् अध्ययन-प्रसिद्धा ।  
+एषा हि बह्व्यः स्वायं प्रयुज्यन्तोऽपि² सारस्वताः ॥  
+कैश्चिद् अपि परं सत्त्वः सात्त्वता वृत्तिकारिणा ।  
+पूजयन्ति³ महानागा वैष्णवा⁴ वृत्तिकारणात् ॥  
+न तावत्-नेर्णा ब्राह्मेण्ये शक्यं नास्तीति भावितुम्⁵ ।  
+न खल्व्-अवेद्यं⁶ कुर्वेन् ज्योतिष्टोमे, पतिष्यति ॥  
+यदि न प्रतिगृह्णीयुः, पूजेयं विफला भवेत् ।  
+पूजा-साङ्ग-व्यसिद्ध्य्-अर्थम् अन्ततः प्रतिगृह्णुते ॥  
+‡⁹ अर्चनेन-एव हिरण्यं च तत्-मे देयं स्व-शक्तितः⁷ ।  
+अन्यथा पूजकस्यैव तत्र पूजाफलं⁸ भवेत्⁹ ॥’  
+†⁶ हन्त्य्-एवं पद-दक्षिणयो यज्ञ’ इत्याद्य्-अस्ति-निर्दर्शनात् ।  
+ऋत्विजा द्रव्य-लुब्धेन, स्वयं याच्ञानुग्रहेणम् ॥  
+यद्-अतिचिह्न्तिञ्च⁷ द्रष्टव्यं¹² कृतं, तदेव हि निषिध्यते ।
+
+यथा¹⁰—
+
+*⁶ यदा¹¹-शेष-समानम् आ¹²-चरिष्यते¹³ ‘उत्तरा वा मे दशमः’  
+[[P220]]
+
+[^220_1]: P, PM—°भावितो
+[^220_2]: M₁—°हि
+[^220_3]: P, PM, T, M₃, M₅, M₆, V₁, A—यास्यति
+[^220_4]: All edns. and mss. except M₁ & M₇ read महात्मभिः—We have adopted the reading of M₁ & M₇
+[^220_5]: M₄—भागित्त्वम्
+[^220_6]: M₃—°वचनम्
+[^220_7]: A—यथा-क्षितिः ।
+[^220_8]: Parama-saṁhitā has
+[^220_9]: ¶ M₁ & M₇ omit this and the two preceding lines.
+[^220_10]: M₁, M₂, M₇, My—यथा
+[^220_11]: M₃—यथा°
+[^220_12]: M₁, M₄, M₇—परमेश्वरम्; M₂, My—परमेश्वरस्य°
+[^220_13]: B—अर्थसाधनम्
+[^220_14]: M₃ adds इति
+[^220_section]: † Parama-saṁhitā, XVII. 46b-47a.
+[^220_dagger]: ‡ Manusmṛti, XI. 40b.
+[^220_para]: * Cf. Aitareya Brāhmaṇa XV. ii. p. 418 [Ānandāśrama Skt. Scr. 32, with Sāyaṇa’s commentary]. The passage reads thus:
+
+---
+उत वा मा वृणीते¹-ति, तद् तत्-परागेव¹, यथा जगधम्²; न हैवं³ तद्-यजमानं⁴ भुनक्ति” इति ।
+
+श्रद्धा-युत-दक्षिणादानं तूष्णीग्रहि श्रेयस्करम् एव ।  
+†⁵ गोऽश्वं दानं प्रतिगृह्यानि, दद्याद्-विप्रस्य मेधवे⁶ ।  
+तावुभौ गच्छतः स्वर्गम्’ इत्याद्य्-आदि-स्-तु दर्शनात् ॥
+
+[ भागवतेषु देवकलक्षण-निरासः ]
+
+*यद्यपि धूर्यत्वं⁷ देव-पूजनात् देव-कोशोपजीवित्वाच् च देवकलत्व-प्राप्तिर्-इति, तदपि देवतान्तर-हर-परायण-तत्-कोशोपजीवन-विषयमिति द्रष्टव्यम्⁹ ।  
+तथा च¹⁰ भगवान् व्यासः—  
+[[P221]]
+
+[^221_1]: M₁ & M₇—तत् परागमेव
+[^221_2]: M₁—रक्तम्
+[^221_3]: All edns. and mss. except M₅ & A read न हैतम्, ‘A’ has रहितम्; We have adopted the reading of M₅.
+[^221_4]: P, PM—लब्ध-यजमानम्; for तद्-यजमानम्
+[^221_5]: M₁, M₇—रक्तम्
+[^221_6]: My—वा
+[^221_7]: P, PM—धूर्वत्वं°
+[^221_8]: M₁, M₂, M₄, M₇, My, B, omit तत्त्वस्योपजीवन
+[^221_9]: M₂, B, omit द्रष्टव्यम्
+[^221_10]: M₃—तत्र
+[^221_star]: * “taddhaitadeva jagdhaṁ yadāśaṁsamānamārtvijyaṁ kārayata uta vā me dadyāt uta vā mā vṛṇīteti taddha tatparāmeva yathā jagdhaṁ na haiva tad yajamānam bhunakti”. This passage points out that a careful yajamāna should avoid greedy priests who perform three types of objectionable offerings in sacrifices. Cf. ibid. p. 417: “trīṇi ha vai yajñe kriyante, jagdhaṁ, gīrṇaṁ, vāntaṁ”. Vide Sāyaṇa’s commentary on it: “tānyetāni trīṇi durbuddhibhir yajñe kriyante jagdhādiṣṭhāniyāni trīṇi, varjanīyānityarthaḥ.” For more information on this, see Sāyaṇa’s commentary, p. 411.
+[^221_section]: † Vide Manusmṛti. IV-238. The remainder of the verse is “narakaṁ tu viparyaye”. The term “arcitaṁ” should be understood in the sense of “arcanāpurassaram”. It is an adverb and not a noun.
+[^221_dagger]: This verse is also found in the Mahābhārata, Āśvamedhika [Vavilla edn. Vol. XVIII.] ch. 112, śl. 30.
+[^221_para]: * See pp. 15-16 above,
+
+---
+†⁶ ‘नर-केष्व्-अन्यो यो¹ वे रुद्रकाल्-पुञ्जीवकः² ।’ इति ।
+
+अपि³ भवति शाण्डिल्य-वचनम्—
+
+‘इश्वरस्य⁴-याजिनस् सर्वे⁵ दीक्षाहीनाश् च केवलम् ।  
+कर्म-देवलका एते⁶ स्वछ्ना छाग पुरा सुने ॥  
+†तांश् च संवत्सराद् ऊर्ध्वं न स्पृशेत्, न च संविशेष् ॥
+
+तथा—
+
+†कल्प-देवलकाः केचित् कर्म-देवलका अपि ।  
+अथ त्रिवर्णाद्-ऊर्ध्वम् अयोग्या⁶ देव-कर्मणि ॥  
+†ये कल्पोक्तं प्रकुर्वीन् दीक्षाहीना द्विजातयः ।  
+शूद्र्यं वा, यशोऽर्थे वा, कल्प-देवलकास्तु ते ॥
+
+[ देवकलक्षण-व्यावृत्य-कथनम् ]
+
+वृत्तिं कृत्वा तु विप्रेण दीक्षितन विनाशनतः ।  
+अन्येषां पूजयेद् एवम् अशक्तः स्वयम् अर्चने ॥*  
+यजनं मुख्यम् एवेतत्, गौण-शेवाद्य् अन्यथा भवत् ॥†  
+‘अन्यथा’ इति ‘अदीक्षितेन’ इत्य्-अर्थः । †नदेव⁷ स्पष्टयति—
+
+‘अदीक्षितेन विप्रेण येन केन विधानतः ।  
+वृत्त्यर्थं यत्-कृतं कर्मं तच्-छून्यम्-सुख-दम् अहम् ॥’† इत्य् आदि  
+[[P222]]
+
+[^222_1]: ‘B’ omits ये, in which case the metre becomes defective.
+[^222_2]: P, PM—रुद्रावत्-यज्ञ-जीविनः; M₁, M₂, M₄, M₇, My, B, read रुद्रावत्-यज्ञ-जीविनः
+[^222_3]: M₁, M₆—अपि
+[^222_4]: P, PM—इन्द्रवत्°
+[^222_5]: M₁—एतैः; My—ये ते
+[^222_6]: M₂—अयोग्याः; M₅—योऽस्याः
+[^222_7]: M₂—तदेव
+[^222_star]: † To be identified.
+[^222_section]: * Parama-saṁhitā, XVII. 46a. Cf. also ibid., 48b: “अर्च्येन देव-पूजेयं तु यः पूजयते ॥”
+
+---
+स्थूल-लक्षण-पर्यालोचनया¹ पञ्चरात्र-दीक्षा-संस्कारवद्-इव² हितानां ब्राह्मणानां देव-कोशोपजीवन-वञ्च्य-पूजन-आदि-कस्य³ पञ्चरात्र-काण्ड-देवल्-वक-त्वावहम् इति निश्चीयते ।
+
+[ भागवतानां निर्मल्य-वियोग-योग-विशिष्ट-निरासः ]
+
+§यत्-पुनः शिष्ट-विगर्हित-निर्मांस-अन्येयोपयोगात् भागवताना-मशिष्टत्वम् इति, तत्र³ ब्रूमः । किम् इदं⁴ निर्मल्यं निषेधं चाभिप्रेत्य श्रोत्रियस्य ?
+
+[ तत्र निर्मल्य-निषेध-प्रसङ्गाय-निर्णयः ]
+
+पुष्प-पर्णादिना⁶-मात्रं चेत् सर्व-लोक-अविरुद्धता⁸ ।  
+पुष्पीदन⁷-परित्यागे न हि लोकोऽनुमन्यते ॥  
+विशिष्ट-प्रतिषेधोऽपि न युक्तः तद्-असिद्धितः ॥  
+न हि अनिरूपित-विशेषणा विशिष्ट-बुद्धिर् अविरस्ति । न चेह विशेषणं निरूपयितुं शक्यते ।
+
+किम् इति न शक्यते, यावना देवतोद्देशेन¹⁰ परित्यागो विदोषणम् ?
+
+*किम् इदानीं पञ्चरात्र-शास्त्रम् अपि प्रमाणम् इष्टीकृतं भवना, येन  
+[[P223]]
+
+[^223_1]: P, PM, T, M₁, M₅ to M₇, V₁, A, B—°पर्यालोचनात्
+[^223_2]: M₂ adds another विद्
+[^223_3]: M₁ omits क
+[^223_4]: M₁—°वृषालिकाम्;
+[^223_5]: M₁, M₇, My, B—अत्र
+[^223_6]: M₁, M₂, M₄, M₇, My, B—किम्-इदानीं तु
+[^223_7]: All but P, PM—°पुष्पाणाम् इति
+[^223_8]: P, PM, T, M₈—°अविरुद्धता
+[^223_9]: All but P, PM—पुष्पोदन°
+[^223_10]: P, PM, T, M₂, M₅, M₆, V₁, A, B—देवतोद्देशेन
+[^223_section]: § See p. 15 above for the opponent’s view.
+[^223_dagger]: For a detailed discussion on this subject, see Vedānta Deśika’s Saccaritra-rakṣā, Adhikāra III.
+[^223_para]: * The discussion here is, whether or not the usage of nirmālya, nivedya, etc., contradicts the genuine character of the Bhāgavatas. The Mīmāṁsaka cannot attribute non-brahmanical character to the Bhāgavatas, says the author, on the ground that they use nirmālya and nivedya prohibited is some smṛti-texts.
+
+---
+पञ्चरात्र-विहितस्य निषेध-प्रामाण्यात् देवानाम् इव³-सुपेत्य यत्-तत्-पूत-पयसा स्नातो त्यागो विष्णोर्-अनैवेद्यम् इत्य् एतत्² केन⁴ हि तत्-सामाण्यात्-पशु-गमे¹, तत्-प्रतिपाद्यम् आया देव-नात्वं, कथं तरां वा⁵ तद्-उपदेशेन व्यक्तम्⁶ निर्माल्य-निषेधयोः भावः ?
+
+*न⁷ हि कश्चित्⁸ जानन् नाम्ना सति । यैव हि हविः-प्रति-गृहीतस्य¹⁰ प्रमाण-भूताच् छब्दाद् अवगम्यते, सा तत्र देवतेति हि प्रसिद्धान्तः ।
+
+अथ पाश¹¹-रात्रिकैः देवतोद्देशेन परि¹²-त्यक्तस्य-अनुपगमनात्¹³ निर्माल्य-निषेधस्य-अव¹⁴-हन्त तर्हि नैरदेव परम-पावनतयापि निर्माल्य-  
+[[P224]]
+
+[^224_1]: P, PM, T, M₁, M₂, M₄, M₅, M₆, My, B—°देवस्य्; M₅ reads वासुदेवस्याम्° (no अभिमत before)
+[^224_2]: P, PM, T, M₄ to M₇, V₁—अभिमत्यते; M₃ & My—अभिभवति
+[^224_3]: A, B—तत्र तर्हि सामान्य०
+[^224_4]: M₃—अभ्युपगमे
+[^224_5]: M₁, M₂, M₄, M₇, My & B, omit ततः न; M₃ has a lacuna from तवति-यावन्-नाम्नः above, up to च here.
+[^224_6]: A, M₅, V₁, omit तद्-एतत्
+[^224_7]: My omits from न हि upto निर्माल्य-निषेध-भावः ।
+[^224_8]: M₂—भविष्यत्
+[^224_9]: A—°देवत्वात्-आम्रक्ति
+[^224_10]: M₂—इति प्रतिगृहीतस्य
+[^224_11]: M₃—पक्ष°
+[^224_12]: M₁, M₂, M₄, M₇, & B, omit परि
+[^224_13]: B—परित्यक्तस्य-अनुपगमात्
+[^224_14]: See note 7 above.
+[^224_star]: First of all, the prohibition pertains to the nirmālya and nivedya offered to deities other than Viṣṇu. Secondly, the Mīmāṁsaka has to qualify the terms “nirmālya” and “nivedya”, even to refute their usage, because flowers and food in general cannot be termed so. He might say that “nirmālya” and “nivedya” are things offered by the Pāñcarātrins to some deity; but this state-ment lands him in trouble, since he does not admit of any deity with a personality and also because such a statement would imply his acceptance of the validity of the Pāñcarātra-texts. Without admitting their validity as the starting point, he cannot speak of a deity, and flowers etc., being offered to that deity.
+[^224_section]: * Cf. Tantravārtika under I. iii. 10, p. 172: ‘विशिष्टेन हि देवेन यत्-किञ्चित्-परिकल्पितम् । न चास्य देवानां हि कचिद्-अस्ति व्यवस्थितम् ॥’ Cf. also Prakaraṇapañcikā, V. p. 105: ‘देवतयैव इत्य् उक्त्वा यत् भाष्यम्....सतीव तासां यद् उपयुक्तम् । तद् अत्रैव न हरि-वत्-प्रसज्यते, तथैव नास्तिक्यात्-एव च देवतानाम् अनभ्युपगमात् तद्-उद्देशेन प्रवृत्तेर् अनुपपत्तेः, तद्-वचनम् अनुपपन्नम् ।’
+
+---
+निषेधोपयोगस्याऽ¹-ङ्गीकृतत्वात्, तद्देव परम्²-पावन-वत्-क्रीडय-ताम् ।
+
+अथ-अपावनम् एव चेत्; पावन-द्रव्यान्तर-संसर्ग-निमित्तं न तत्-पावनस्य सङ्कीर्णस्यैव, हन्त तर्हि अदेव-नैवेद्य देवानाम् अपि-अश्रीमिति³ नैः⁴ । परिगृही-तेति न तद्-उद्देशेन त्यक्तस्य निर्माल्य-निषेध-भावोऽङ्गीक्रियताम् ।§¹
+
+एतत्-उक्तं भवति—पुष्पोदनादि⁵-रूपम्-अनागसादि-निष्-क्रान्त्वात्, स्वेद-दर्शनानुसारेण च विशेष-सम्भवात्; पद-दर्शनानुसारेण विशोष-निरूपणे,⁸ तथैव परम-पावनत्व-प्राप्तानां, तत्र⁹-सा मान्यस्य-अश्रुत-वच्छूद्रिः; अन्य्-इतरत्र, निर्माल्य-निषेध-योग्योऽवस्थस्य-अङ्गीकरणीय इति ।
+
+[ निर्मल्य-निषेध-विधयोर् इति पूर्वपक्षः ]
+
+आह्—कथं पुनः तत्-प्रामाण्यम् अङ्गीकुर्वता निर्माल्यं निषेधं च न परिहर्णीयम् ?
+
+निर्विष्यते¹¹ हि नशेषु निर्माल्य-प्रशनादि-कम् ।  
+यथा⁸ सनत्-कुमाराद्य्-संहितायाम्-अङ्गीकृत-स्त्रीणाम् ॥  
+†⁸ निषेधिते तु यद् द्रव्यं¹² पुण्यं फलम् अवापि वा ।  
+तन्-निर्मल्यम् इति प्रोक्तं¹³, तत् प्रयत्नेन वर्जयेत् ॥’  
+[[P225]]
+
+[^225_1]: M₃—निषेधोपयोगात्°
+[^225_2]: M₂ & My alone have परम्, while all other edns. and mss. omit it.
+[^225_3]: M₁, M₇—देवताम् अकृत्वा
+[^225_4]: M₁—नैव
+[^225_5]: M₅ omits this whole para, from अथ upto here.
+[^225_6]: P, PM—पुष्पोदनादि°
+[^225_7]: M₁ & M₇ add त्व
+[^225_8]: M₂, My—विशेधोपयोगित्वेन
+[^225_9]: All ptd. texts and mss. except M₄ & M₆ read तत्र; we have adopted the reading of M₄ & M₆.
+[^225_10]: Here again, all ptd. texts and mss. except M₄ & M₆ read तम्; we have adopted the reading of M₄ & M₆
+[^225_11]: ‘B’ adds न here, spoiling the metre.
+[^225_12]: My—परिहर्तुम्
+[^225_13]: M₃—निर्विशन्ति कर्मादिकम्
+[^225_star]: * Published by the Adyar Library and Research Centre, Madras, 1969.
+[^225_section]: † Śivarātra, V. 48b-49a. Also Cf. Paramasaṁhitā XII. 36b-37a: “पूजाद्यं निन्दितुं तु यत्-किञ्चित् पुरुषम् । निर्मितेन विश्वं न कर्तुं शक्नुयात् ॥”
+[^225_dagger]: Cf also Vasiṣṭhasaṁhitā (ms) VII. 52b-5 a: “निर्मितं तेन वै पुण्यं कर्मणां वा । निर्मितानि त [तत्]रेव पक्वेषु ॥”
+
+---
+तथा प्रदेशान्तरे—
+
+†¹ निर्माल्यं क्षयं गन्ध-वेद्य-सुचिछन्न-मुरगोऽपि ।  
+मासं पत्रोदनं¹ च्-छत्रं¹ ज्वलत् कपाल-शङ्करं सदा ॥  
+**ब्राह्मणं च¹ ततः पीत्वा पूतो भवति मानवः ॥’ इति ।
+
+तस्य्-एन्द्र-गोत्रे—
+
+*⁶ न चोपजीवयेद् वेदों न निर्माल्य-निषेधयेत् ² ।
+
+तथा—
+
+†⁶ न चोपयोगं योग्यानि निर्माल्य-नि कदाचन ॥’ इति ।  
+तथा संहि्तान्तरे—
+
+§⁸ निर्माल्य-नि न चाश्नीयात्³, न जिघ्रेन् न च लंघयेत्’ ।  
+इति ।
+
+तदेवम्-अनेक-संहिता-समधिगत-निषेधस्य निर्माल्य-योपभोगस्य कथम् इव पावनत्व-अधिकारः ?
+
+अत्राऽऽह—§⁵देव-सुहृदय लक्षण्य्-अपि वस्तुतः ।  
+नाडिका-दशक-द्वादश-गुपयोगे न निन्द्यते ॥
+
+तस्य्-इन्द्र-गोत्र एव च —  
+[[P226]]
+
+[^226_1]: Saccaritrarakṣā (SR) quotes this passage and reads पत्रोदनं here.
+[^226_2]: SR reads निर्वेद-द्युतिं न for न निर्वेद-द्यानि ।
+[^226_3]: M₁, M₂, M₄ & B omit योगेन in which case the metre becomes defective; PM reads न चोद्योगम्°
+[^226_4]: M₂ and SR read जिघ्रियेन्, न चामीयात्
+[^226_5]: M₂—तत्राह
+[^226_6]: M₁, M₂, M₄, My & B, read न for च
+[^226_star]: † Īśirātra, VIII. 77b, 78. Variants: “भवत्य् एव चापि” in the first line, “अस्यां ब्राह्मण्यां” in the second line and “पूतं मति साधकः” in the third line.
+[^226_section]: ** A mixture of five products of the cow (pañcagavya) with darbha-water.
+[^226_dagger]: * IX. 3a.
+[^226_para]: † This is not found in the extant text of the Indrarātra-section, perhaps lost in the rest of ch. IX, which ends in a blank.
+[^226_footnote]: § To be identified.
+[^226_paragraph]: Cf. Paramasaṁhitā III. 44: “निर्मांश्यं मनुष्याणां तु पुजीतं न चाप्सु शोभते । न दयाश् च न जिघ्रेत्...देव...॥”
+
+---
+†⁸ दश-नाज्य-अयुतेः पुरं¹ स्थापयेत् तु विश्वक्षणः ।  
+काल-योग-रस-शुद्धिर्² इष्टा भवति चैव हि³ ॥’  
+*⁶ काल-योग-अतिरेकं तु निर्माल्यं परिधक्ष्यते ।  
+तत्-प्रसन्नस् तु चैवाग्नौ श्रिपेत्, भूमौ खनेत् तु वा⁴ ॥’ इति⁵ ।  
+उच्यते—नात्र निर्माल्य-प्रशनादि प्रस्तूयते ।  
+किन्तु ‘पूरण-पूजायां⁶ विनिमुक्तस्य वस्तुनः ॥  
+नाडिका-दशके पूर्णं यच् च-आयोगो विधीयते ।
+
+सामान्येन निषेधस्य पुष्पोदनादेः⁷ कुल-कार्यतया निर्माल्य-त्वेनान्वये⁸ प्राप्त-नाडिका-दशक्⁹-दूरणं पूजान्ततया स्थापनं विधीयते—  
+§⁹ दश-नाज्य-अधिकं पुरं¹ स्थापयेत्’ इति ।
+
+ततश् च तद्-विशिष्ट-प्रान्त-पर्यवलोचनयापि चः ।  
+हरिद्र¹⁰-चूर्ण-नैवेद्य-पादाम्बु¹¹-स्पर्शन-आदि-कम् ॥  
+न सिध्येत्; †तत्-प्रसिद्धितः क नु, सूर्ये क चल्पकाः ?
+
+[ तत्-स्मरन् पूर्वकं विष्णु-निर्माल्यादेः परम-पावनत्व-निरूपणम् ]
+
+अहो विद्-वल्लभोऽसि-जिह्मस्य विवेचनसः ।  
+सितासिते बचो ज्ञाति सत्-कुल-इन्दु-विचिन्वत् ॥  
+[[P227]]
+
+[^227_1]: M₃—पूर्वं तु
+[^227_2]: SR reads स इद्दिः ।
+[^227_3]: SR has वा ।
+[^227_4]: M₆, M₇, B, V₁ & A—च
+[^227_5]: PM omits इति
+[^227_6]: M₄, B—पूरणं पूजायाम्,
+[^227_7]: All but P, PM—पुष्पोदनादेः
+[^227_8]: M₂, My—°अन्वयतः
+[^227_9]: P, PM, T, M₂, M₃, M₅, M₆, My, V₁ & A omit क
+[^227_10]: My—हरिद्र°
+[^227_11]: M₂, A—”दाम्°
+[^227_dagger]: † I. 10b-11a. Variants : स्वभावात् for स्वयम् एव and स उच्छिष्टः for समुच्छिष्टः ।
+[^227_star]: * I. 11b, 10a. Variant : वा सायं for देवांशौ ।
+[^227_section]: † For an account of pūraṇapūjā, see Indrarātra, ch. I. See also Kapiñ-jalasaṁhitā, ch. 29.
+[^227_para]: § Indrarātra, I. 10b.
+[^227_footnote]: § This is Yāmuna’s reply to the above arguments regarding nirmālya and naivedya.
+
+---
+*ये हि गुल्म-द्विजा मूर्खाः, तेषाम् एव निषेधगीः ।  
+सत्य्-एवानि तद्-विज्ञाने¹ तैरधिकारिभिः ॥  
+अथोच्येत-समान-काले सोम-पान-विवाह-वरे ।  
+अन्येषां हि तद्-अध्यक्ष्यं² पुरोडाशः शुनाम् इव ॥
+
+तत्-अध्येय-स्मरन्ति-आयाम्—
+
+†⁶ तुलेभो भगवद्-भक्तो लोकेऽस्मिन् पुरुषोत्तम ।  
+तत्रापि तुल्य-वस्तारो भावो वै यस्य³ तत्त्वतः ॥’  
+‘पादोदकं प्रति ग्राह्यं⁴ सिद्धाल्लिङ्गं⁵ च निवेदिते ।  
+स्वर्गादि-केष्व् अपि शुद्धं⁶-भोगाद्य्-एव⁷ च ॥’  
+‘अतश् च भाव-हीनानाम् अभक्तानां च पञ्चसु ।  
+निषिद्धं भगवन्-मन्त्रं ह्य्-एतत्-पूतम् अतिष्ठि हि¹⁰ यत् ॥’ इति ।
+
+तथा प्रदेशान्तरे—  
+[[P228]]
+
+[^228_1]: M₁—°नियतैः; M₄, B—°नियतन्तः
+[^228_2]: M₃—°नियतैः
+[^228_3]: M₃—भस्मो°
+[^228_4]: M₃ omits वस्य, to the detriment of metre.
+[^228_5]: M₁, M₄, M₇, My—°अलिङ्गम्°
+[^228_6]: M₁, M₄, M₅—°स्वस्थान्ने
+[^228_7]: M₂—सोपवास-पुर°
+[^228_8]: M₁, M₄, M₇, B—°उपभोगार्थ-मेव
+[^228_9]: B—°भद्र-कृतान्,
+[^228_10]: M₁—मानवत्वम् ( ! )
+[^228_11]: SR has च for हि
+[^228_star]: * Cf. Sāttvata Saṁhitā, XXI. 45b-46: “yo na vettyacyutaṁ tattvaṁ pāñcarātrārthameva ca | tathā sadvaiṣṇavīṁ dīkṣāṁ nānāśāstroktalakṣaṇām || na tena saha saṁbandhaḥ kāryaḥ............ ||
+[^228_section]: † Cf. Pādmasaṁhitā, Caryāpāda, XII.83b: “śunāmiva puroḍāśo na niceṣu tadiṣyate ||”
+[^228_dagger]: ‡ These and a few other verses following, quoted by Yāmuna as from Īśvara saṁhitā, are not found in the available āgamas of that name. The Īśvara saṁhitā from which Yāmuna quotes appears to have been a different work. See Introduction to Jayākhyasaṁhitā (Gaekwad Oriental Series), p. 49.
+
+---
+*⁶ कुङ्कुमं चन्दनं चैव¹ कर्पूरम् अनुपमम् ।  
+विष्णु-देह²-पराकृष्टं³ तद्-वस्त्रं पावन-पावनम् ॥’ इति ।
+
+तथा पाशुपत्य्-एवं—
+
+*⁶ विष्णु-देह पराकृष्टं⁶ यच् छुर्णा⁷ शिरसा वहेत् ।  
+सोऽश्वमेध⁸-फलं प्राप्य विष्णु-लोके महीयते ॥’  
+†नवेश्वर-संहितायाम्—
+
+*‘उपयुक्तस्य सर्वस्य गन्ध-पुष्प-आदिकस्य च ।  
+स्नान-आदाव्-उपयुक्तस्य दधि-क्षीर-आदिकस्य च ॥  
+दूर्वां न प्रयोज्यञ्च⁹ छान्देर-प्रतिपत्तिमः⁹ ।  
+निर्माल्य-तुल्या देवीयं¹⁰ पावनं दूर-वर्त्मनि ये ॥  
+ते यान्ति नरकं मूढाः, तत्-त्व-भावात् पलापिनः ।’ इति ।
+
+**यानि पुनः दीक्षितम् एव-आपि-कल्प्य समयानुशासन-समये निर्माल्येऽयोग¹¹-योग¹²-निषेध¹³-पराणि वचनानि, तानि¹⁴ परिषदेऽशो¹⁵-व-योगोत्तर¹⁶-कालाभिप्रायेण द्रष्टव्यानि ।  
+[[P229]]
+
+[^229_1]: P, PM, T, A, V₁ & M₆—चैतत्
+[^229_2]: SR has कर्तुः चानुलेपनम्,
+[^229_3]: M₆—इक्षोर् इह°
+[^229_4]: M₃—°परिमलम्
+[^229_5]: M₂, M₃, M₆, M₇, B—पाषण्डे
+[^229_6]: M₂—°परिमलम्°
+[^229_7]: M₃, M₆—चतुष्टयं°
+[^229_8]: M₁—सोऽश्वमेधे°
+[^229_9]: M₁ to M₄, M₆, M₇, My & B, omit this line; A, V₁ & M₅ have अत्र-एव-अपि-इति
+[^229_10]: P & PM—देवताम्
+[^229_11]: M₃ adds नि
+[^229_12]: T—निर्विशेषोपयोगिनं°
+[^229_13]: M₂, My, omit निषेध
+[^229_14]: M₁, M₂, M₇, My, omit तानि
+[^229_15]: SR—°परिदेवेऽपि°; PM—°पारिभाषिकेऽपि°
+[^229_16]: M₁, M₂, M₄, M₇, My, B—°उपयोगानन्तरं°
+[^229_star]: * To be identified.
+[^229_section]: † This is the second instance where Yāmuna quotes from Īśvarasaṁhitā, which is yet to be recovered.
+[^229_dagger]: ** यतः पूर्वम्-अज्ञानां निर्माल्य-प्रयोजनेऽपि निषेधो विचारितः । इदानीं दीक्षितस्य-अपि तद्-विधेये विचारः प्रस्तूयते ।
+
+---
+†यतो भगवद्-अर्थं त्यक्तं¹ सङ्कर्षण-आदिकम् ।  
+पञ्चार्थ-भोज्यानां² याति³ विष्णु-वक्त्र-सेन-निवेशनात्⁴ ॥  
+अन एव निषेधादि⁵-मनोऽर्थागम-सात्त्वतेः ।  
+सेव्यन्ते, तेन तत्-शास्त्र-कर्तृव कारणम् ॥
+
+अपि च—
+
+देव-अन्तर-निर्माल्ये शिष्य-रिटञ्च विगर्हितम् ।  
+§इदं तु वैदिकत्वेन⁶ सोम-पान-वद् इष्यते ॥  
+ये नाम भगवच्-छास्त्र-प्रामाण्ये नातु-जानते ।  
+न निरूपयितुं शक्यं तैर्-निर्माल्यम् इत्य्-असितम् इत्य् अत्र⁷ ॥
+
+[ भगव-निर्माल्य-प्रशंसा ]
+
+निरुपाधिषु भगवन्-निर्माल्य-म् इति⁸-पावनम् ।  
+समस्त-वैदिक-आचार-व्यवस्थितेर् एव-असीयते ॥  
+शब्द-प्रमाणे हृद्यं, यथाऽऽशङ्क⁹ व्यवस्थितिः ।  
+न चात्र शब्दो नास्तीति वक्तव्यं वदिरेतरेः ॥
+
+यथा¹⁰ ब्रह्म¹¹-पुराणे च पठ्यते—  
+[[P230]]
+
+[^230_1]: M₃, My—त्यक्तं°
+[^230_2]: M₃—पञ्चार्थ-भोगताम्; PM—लक्ष्म-वल्लभोगम्
+[^230_3]: T—याति
+[^230_4]: SR—°परिमलम्,
+[^230_5]: SR—निषेधे तत् for निषेधादि
+[^230_6]: The rest of the ms. ‘B’ is lost from the word सोम.
+[^230_7]: M₄, M₈—°अदीक्षितम्,
+[^230_8]: M₈—°ऐश्वर्य-मिति°
+[^230_9]: M₁, M₂, M₄, M₅, M₆, My, A यथार्थश् च°
+[^230_10]: M₃, M₈—तथा
+[^230_11]: M₁, M₄, M₆, M₇, My—बाह्य°
+[^230_dagger]: † Cf. Sāttvata Saṁhitā, X. 57-58. ‘क्रियातः दर्शयित्वाऽस्य उपयिकादित्वं च । विहित-प्रतिषिद्धाभ्यां साङ्ख्य-विशेषात्-नैव कुत्रचित् ॥ पतत्य् एव न चिरं तस्मिन् अनिर्विदितेतरम् । नैवेद्यं तत्-प्रगृह्णीयुर्नां किञ्चित्-पशु-वध-कृतः ॥’
+[^230_para]: ‡ देव-दत्त-निर्माल्यं सिद्धं विनाकृतम् एव ब्रह्महत्यादि ।
+[^230_footnote]: § Cf. Viṣṇusaṁhitā, XXXIX. 12-13a: ‘निर्माल्यं न स्पृशेद्-अर्चां वेद-वेदाङ्ग-पारगः । सोऽयम् एव श्यामो नित्य-मभ्युपैति स्वकृत्स्नम् ॥ विष्णु-युक्तं तु पुष्पादि धृत्वाऽऽत्मानं परे नरे ।’
+
+---
+†विष्णोर्-नैवेद्य-के¹ शुद्धे सुनिभिर्-भोज्यम् उच्यते² ।*  
+अन्य-त्रिकेऽपि³ निर्माल्यं भुक्त्वा चान्द्रायणं चरेत्⁴ ॥  
+†विष्णु-वैद्ये⁵-पराकृष्टं⁶ माल्यं पापहरं शुभम् ।  
+यो नर-दिशस् तद्-वस्त्रं, स यानि परमां गतिम् ॥‡  
+एतेन—§⁶ निर्माल्यं च निवेद्यं च⁷ मुक्त्वान्द्रायणं चरेत्’ इति स्मरन्ति रुद्रकाल्यादि-विषयम् इत्य्-एव-अधिगन्तव्यम्⁸ ।
+
+तथा⁷ महाभारते—
+
+*⁸ हृदि ध्यायन् हरिं नित्यं निवेद्यं च-आत्म-सहितः⁸ ।  
+मध्य-मान-आसिका-दृष्ट्या⁹ गृहीत्वा-इव सितं⁹ पुनः¹⁰ ॥  
+प्राणाय चेत्-यथानाय ध्यान-योगात् न ततः परम् ।  
+उदानाय समानाय स्वाहेति जुहुयात् क्रमात् ॥’ इति¹¹ ।  
+p. 115 :  
+[[P231]]
+
+[^231_1]: SR—निवेदितेषु
+[^231_2]: P, PM—अन्वितेषु; SR—अन्वितेषु तु
+[^231_3]: M₂ adds इति
+[^231_4]: M₁, M₅, A—विष्णोर् देह°
+[^231_5]: M₂—°परिमलम्,
+[^231_6]: M₁, M₃, M₄, M₆, M₇, My—°श्वादौ वेदितव्यम्
+[^231_7]: M₂ reads यथा; PM omits तत्र
+[^231_8]: M₁—सुमहिम्ना°
+[^231_9]: M₁, M₂, M₅, M₇—गृहीत्वा निमितेन; M₃—गृहीत्वाऽभिमन्त्रिते; P, PM—गृहीत्वाऽभिमन्त्र्य
+[^231_10]: SR has समहितैः for सितैः पुनः
+[^231_11]: PM, M₁, A, omit इति
+[^231_star]: * Passages to be identified.
+[^231_section]: † Cf. Pādmasaṁhitā, caryā, XII. 81b : “विष्णोर्-निर्मितं शुद्धं पावनानां च पावनम्”॥
+[^231_dagger]: ‡ Cf. Pādmasaṁhitā, caryā, XII. 85 : ‘चरितं विष्णु-निर्माल्यं चन्द्र-नालंघनेनम् । ब्रह्म-विदो नारदो न पुनरेति भवेत् ॥’
+[^231_para]: § To be traced out. Cf. Pādmasaṁhitā, caryā, XII. 79a : ‘महेश-शासनाद् येषां भोग्यं नैवेद्यम् ।’
+[^231_footnote]: * To be identified.
+[^231_paragraph]: Cf. Laghuvyāsasaṁhitā (Aṣṭāviṁśatismṛtis) ch. II, 74-76: ‘तत्त्व-ज्ञान-प्रसङ्गेन भागवत-शास्त्रं ततः । तथागतो द्रव्यात् स्वनाय तत्-समानस्य ॥ उदान-वातो द्रव्यात् तुला-समानानि पितामह । विष्णुना चाहृते देव-स्य्-आगच्छतां द्विजाः ॥ तेषाम् एव परं क्लेशं गृह्णीतस् त्वं यथेष्टतः । व्यासस् ततस् तत्-प्रसादम् एवेत्य् उपनिषत्सु च ॥’
+[^231_doublestar]: This type of taking food is called ‘anuyāga’. See Pāñcarātrarakṣā, ‘ईदृशं तु भोजनं पाञ्चरात्रागम-स्य्-आज्ञयाऽऽऽपन्नम् इत्य्-आदिकम् ।’
+
+---
+तथा प्रदेशान्तरे—
+
+†¹ निवेद्यं तु यदेवेद्यं, तत्-स्थात् ब्राह्मण-वारिण’ इति¹ ।  
+तथा² महाभारते—
+
+§¹ पञ्चरात्र-विदो³ सुरूयास्तस्य गेहे⁴ महात्मनः ।  
+प्राणैर्¹ भगवदुक्तं सुज्ञाते याम्य⁶-नोजनम् ॥’ इति ।  
+तथा च भगवान् शौनकः—
+
+*⁶ नैवेद्यं स्वयम् अश्नीयात्’ इति⁷ ।
+
+[ भागवतेषु देवकलक्षणिकानां मुख्यत्वकथनम् ]
+
+इत्यादि-स्मृति-शत-सिद्धिर्⁸ विष्णोः  
+नैवेद्यं भक्षयम् एवेद्यो विनिन्दितम् ।  
+नास्तिक्यात् श्रुति-वचन-अन्य्-उपदेश-मानः  
+तज्-ज्ञिहा-निरासनम् एव युक्तम् अत्र ॥
+
+[ प्रसङ्गत्वान् प्राणाग्निहोत्रस्य नैवेद्ये साधनं न भवेद् इति शङ्काया निरासः ]
+
+†ननु प्राणाग्निहोत्रस्य नैवेद्ये⁹ साधनं कथम् ?  
+निरिच्छके न शिष्टानां¹⁰ होम-आदि-साधनम् ॥¹¹  
+[[P232]]
+
+[^232_1]: PM omits इति
+[^232_2]: M₃—अन्यत्र
+[^232_3]: M₂, My—पञ्चरात्रेऽपि ये
+[^232_4]: M₁—गेहे°
+[^232_5]: P, PM—स्नात्वा°; M₁, M₃, M₇, My—चाय°
+[^232_6]: M₁—°वचनम्°
+[^232_7]: M₂ omits इति
+[^232_8]: M₁—°गुह्य°
+[^232_9]: SR has निषेधम्
+[^232_10]: M₄ reads °सिद्धम्
+[^232_11]: M₂—°शासनम्
+[^232_star]: † To be traced out.
+[^232_section]: § Śānti, ch. 322, śl. 23.
+[^232_dagger]: Cf. Sāttvatasaṁhitā, ch. 17, śls. 423-424: ‘दातानां च श्रोतानां च तपोनां यज्ञ-कर्तृणाम् । सिद्धये वा यत्र यत्र चार्थम् अनुष्ठानायाहि’
+[^232_para]: * Viṣṇudharma (of Bhaviṣyapurāṇa), Śaunakiya, ch. 92. śl. 32a: “नैवेद्यं स्वयम् अश्नीयात् मौनी-निवेदयेत्-सुहृत्सुः ।” Cf. Pūjāsaṅgraha (ms.) folio 90b: “सर्वं चापि तद्-अश्नीयात् सर्व-पापैर् विमुच्यते ।’
+[^232_footnote]: ‡ Vedānta Deśika quotes from na tu upto यथानुज्ञानम् etc., below, in his Saccaritrarakṣā, p. 93.
+
+---
+न च¹ द्रष्टव्यम्-तद्-देशेयो² होम-अपेयत्वं³ कल्प्यते⁴ ।  
+रागतः प्राप्तेर् अविधेयत्वं च-अस्तेनोपजीव्यते ॥  
+नाऽपि भुक्तवन्-अवशेषो नैवेद्य-चोद्यम् उपपद्यते⁵ ॥  
+*⁶ सायं प्रातर् द्विजातीनाम् अशनं श्रुति-चोदितम् ।  
+नान्तरा भोजनं कुर्याद्’ इति तत्-प्रतिषेधनात् ॥  
+नैव दोषो, यतः प्राणम् अग्निः देवतानाम्-अगणः⁶ ।  
+गुण-भूतः श्रुतो⁷ विष्णोः, विष्णु-परिग्रहेऽशिवत् ॥  
+यथैव हि⁸ भगवद्-निवेदितम् अपि⁹ पुष्पादानादि¹⁰ विवक्क्-एसेनोप-दीयमानं न-अधोक्षयम् आवहति,
+
+यथा वा होतुश्¹¹-चिद्-द्विष्टम् एव सोमरसोऽध्वरे¹² ।  
+अध्वर्य्-वादिभिः विशुद्धंये स्यात्, एवम् अत्र भविष्यति ॥
+
+अपि च—
+
+[ भोज्य-अयोग्यत्व-वशायाः शास्त्रैकत्वस्य-अशक्तोक्तिः ]
+
+† भोज्य-अयोग्यत्व-वशायाः शास्त्रम् एव¹³ निबन्धनम्¹⁴ ।  
+तेष्व् एतत् भोग-सिद्धिं¹⁵ ब्रूते, किं वयं निदधीमहि ?  
+[[P233]]
+
+[^233_1]: M₂—अपि; My नापि
+[^233_2]: M₄—द्रव्यान्तरं शेषाः
+[^233_3]: M₅—दोषाभावेऽपि
+[^233_4]: M₄—°भक्षणात्°
+[^233_5]: P, PM—°उपपद्यते
+[^233_6]: M₄—°गणः
+[^233_7]: M₂—गुणभूताः श्रुताः; PM, M₃, M₇, A—गुणभूतश् च
+[^233_8]: M₂ reads येह (no हि separately).
+[^233_9]: M₁, M₂, M₅, M₇, My & PM, omit अपि
+[^233_10]: All except P, PM—पुष्पोदनादि
+[^233_11]: M₃, M₈—°होतुः
+[^233_12]: My—अभिषेचन-एव सोमरस-लाभात्-इत्य् अर्थे
+[^233_13]: M₂—°श्रामण्यम्°
+[^233_14]: M₃ adds the following : तथाऽन्तराय-वशायाः शास्त्रमेव निबन्धनम्,
+[^233_15]: M₂, M₃—न चेतोऽङ्गीक्रियते° A—तद्-वेद्य-छलान्दितेन
+[^233_16]: § आसीनः कल्प-मिति भावः ।
+[^233_17]: * The remainder of the verse is ‘अतिशोभनो विप्रः।’ Many Smṛtis attribute this to Manu. But Aparārka on Yājñavalkyasmṛti (p. 61) attributes this to Saṁvarta. Cf. also Saṁvartasmṛti (Collection of 27 smṛtis, Ānandāśrama Skt. Series), I.12.
+[^233_18]: † Cf. Bhagavadgītā, XVI. 24a: “तस्माच्-छास्त्रं प्रमाणं ते कार्याकार्य-व्यवस्थितौ ।”
+
+---
+यथाहऽऽहुः¹—
+
+§¹ निष्काश्य दर्शनात् ।² उत्कर्षं हि³ वस्तुषु वेदेषु परम-व्योम-समान-भावादित्युक्तम्⁴ ।
+
+[ भागवतानां भाष्याद्य्-अनुरोधेन-अर्थ-निरूपणम् ]
+
+†यत्-पुनर् उक्तं गर्भाधानादि-दहान्त-संस्कार-अन्तर-सेवनात् भग-वानानाम् अश्रुतम् इति, तत्-अज्ञान-विजृम्भितम् । न पुनस्-तत्-प्रसूय-तेः‡;†यद्यपि वेदान्त-परतया वाजसनेय-बाष्कलायनादि-शाखाध्य-न-विहित-योर् गर्भाधानादि-संस्कारान् कुर्वीत ।
+
+[ अतोऽपरेषां कर्म-कालात्-अनुष्ठातृ-भेदेन भागवतानाम् अनुयायि-त्व-समर्थनम् ]
+
+ये पुनः सावित्री-यज्ञान्⁹ प्रवृत्ती-धर्म-शीलत्वेन एकायन-श्रुति-विहित-एव-अत्रत्य संस्कारान् प्रवर्तयन्ते, तेऽपि स्व-शाखा-सुयोन्य्-अभि-यथावद्-अनुष्ठाना न शास्त्रान्तर-विहित-कर्मानुष्ठानात्** ब्राह्मण्य-प्रच्यवन्ते; अन्येषाम् अपि पर¹¹-शाख-विहित-कर्मानुष्ठान-निमित्ताग्राह्य¹⁰-वद् अस्तु । सर्वत्र हि जाति-वर्ण-गोत्र-अधिकार-आदि-विभिन्न-स्थितानां  
+[[P234]]
+
+[^234_1]: M₃—°तत्त्वात्°
+[^234_2]: M₂—निरूपकामि°
+[^234_3]: M₅—इदानीम्°
+[^234_4]: My—°ज्ञान-पूर्व°
+[^234_5]: M₁ & My add क
+[^234_6]: My—साभित्युक्तं°
+[^234_7]: PM—कर्तृ-सामान्य°
+[^234_8]: M₃ has lacuna from श्रवण-° to सत्वा°;
+[^234_9]: My—अन्यथा सर्वज्ञानिरेव°
+[^234_10]: M₁, M₃ परस्पर-ज्ञानान्निधाय°
+[^234_11]: M₇—परस्पर-ज्ञानान्निधाय°
+[^234_12]: M₃ adds य
+[^234_13]: * उपयोक्ष्यतेऽपि तत्-त्वम् ।
+[^234_14]: † See p. 14 above for pūrvapakṣa. Vedānta Deśika quotes from here upto the end of the text, in his Nyāyapariśuddhi, p. 168.
+[^234_15]: ‡ Deśika quotes from here upto the end, in his Pāñcarātrarakṣā, p. 95.
+[^234_16]: § See Kātyāyanagṛhyasūtra (ms.), p. 25ff for saṁskāras.
+[^234_17]: ** अननुष्ठानात् इति भावः ।
+[^234_18]: § Cf. the following quoted in the Pāñcarātrarakṣā, p. 110, as from the Pārameśvarasaṁhitā: “विहित-कर्म-संस्कारात् स्वयज्ञोऽपि गच्छति । एकस्य-इन्धन-आदिषु यत्र ये चोदिताः ॥”
+[^234_19]: Cf. also Auśanasa Dharmaśāstra (Smṛtīnāṁ Samuccayaḥ, Ānandāśrama Sanskrit Series 48), I, 48: “एकमेकं कुर्यात्-समानः फिलाः पूजा-फलम् इष्यते । पर-शाखेन वा यस्मिन् वृत्तिके धर्म-पारिणः ॥”
+[^234_20]: ➡ परम-शब्देन साधर्म्ये ।
+
+---
+एवं समाचारा उपलब्धिन्ते । यथापि †¹ मध्वाह्ने-अपि कर्म-न्त्रयम्¹, तथापि ‘न परस्पर-विरुद्ध-नाना-शास्त्र-अधिकारिणः सन्ति; यन्तेः² । विलक्षण-आचारस्य त्रयोहि-विशिष्टाद्-विग्रहोऽभीप्स्यमाने-न्द्राग्नेयादि³-कर्माधिकारिभ्यो द्विजेभ्यः *श्रावण्य-अनैकान्तिक-विज्ञान¹ विज्ञाना-भिमान-आद्य्-इव-इति श्रुति-मन्येतान्तस्यैत्यो⁴-पाय-कर्माधिकार-निर्णयोऽष्टादशभिर् आग्नेय्या¹¹ च¹ एकायन-शाखाया अर्थाव-धेयत्वं, तथा¹² काश्मीर-आगम-प्रामाण्य एव¹³ प्रविभजितम् इह प्रस्तूयते¹⁴ । प्रकृतानां तु आगवतानां साग्नित्व-अनुबन्धनादि-धर्म-सम्बन्धस्य स्कुतरम् उपलभ्येः न¹⁵-त्वागम्-अनिमित्ताविद् वन्देहि सहत इति¹⁶ ।
+
+[ नानुमित-श्रुति-मूलत्वस्य समर्थनम् ]
+
+न तस्य्-अकल्प-तुच्छक्तिः शक्लशः कृत्वा तदीयं मतं यच्-छिष्ट-सुभृद्-अस्मदर्थं सार-वर्णन-तथा-ऽऽऽनुष्ठान-इत्थ्-आदिभिः ।  
+[[P235]]
+
+[^235_1]: A¹ omits न
+[^235_2]: M₁ has a lacuna from अधिकारिणः to सानुबन्धं
+[^235_3]: M₁, M₇—°साधनेऽपि ब्राह्मणेऽपि° M₂, My—साधनेऽपि ब्राह्मण्य-भावादिकं° M₃ omits आदि
+[^235_4]: M₁, M₇—क्षत्रियत्वात्°
+[^235_5]: M₁, M₂, M₃, My—मानव-शास्त्रवत्°
+[^235_6]: P, PM—°उपायवत्°; M₄—°उपायं°
+[^235_7]: My—°कर्तृकारि°
+[^235_8]: M₂, A, omit अपि
+[^235_9]: M₂, V₁—°कर्माधिष्ठानम्
+[^235_10]: M₃, M₆—°ब्राह्मण्यम्°
+[^235_11]: M₂, A—तथा
+[^235_12]: A & M₂ omit तथा
+[^235_13]: P & PM omit एव
+[^235_14]: M₁, M₂, M₄, M₇, & My omit °कृते
+[^235_15]: M₃ omits तत्
+[^235_16]: P, PM, T, M₃, M₅, M₆ & A omit इति
+[^235_dagger]: * Cf. Śabara on II. iv. 32, p. 142: “. . सर्व-शास्त्राण्य् एवेयं येषां कर्म योनितः इति सिद्धं सिद्धं मतम् ।”
+[^235_para]: See also Pūrvamīmāṁsā, II. iv. 18: “न चैकं प्रति शिष्यते ।” and Śabara on this (p. 139): “न तत् काम्-एकेन-इष्यते तत्र काल-मेकेन-इति पुरुषस्य प्रति विधीयते । नेति-इत्य् उवाच स्मृति-तत्त्वम्, इह-इतरेषां श्रुति-विहित-अग्निहोत्रादेः कर्मणो इव ।”
+[^235_footnote]: * See Pādmasaṁhitā, I. 5b-6a : “आम्नायित्वात् वेदं तच्-छ्रुति-मूलं भवेत् । तेन तत् विना तुल्य-कल्प-आचारिणः ॥”
+[^235_doublestar]: † Ibid. jñāna, II. 5b: “विज्ञानं भगवज्-ज्ञानं तज्-ज्ञानात्-मुक्तिर् इष्यते ॥”
+
+---
+यत् एवम् अनन्तरं मुकुन्द-चरण-द्वन्द्व-अर्चनं वर्तते जीयात्-ताम् अभितः स्ययोग-महिम-प्रत्यक्ष-तत्त्व-त्रयः ॥  
+आकल्पं विलसन्तु सात्त्वत-मत-प्रस्पृष्ट-बुद्ध्य्-उपद्र-वि-व्यामुग्ध-उद्धत-दुर्विदग्ध-परिषद्-ग्लानि-विधा-शालिनः ।  
+श्रीमन्-नाथ-मुनिर्-अवार्धित-धियो निर्धूत-विश्व-आश्रयाः² सन्तस्-सन्तत-गायत्-पद-वीथ्य्-आनन्द-योक्तव्यः⁴ ॥
+
+इति श्रीमद्-यामुन-मुनि-प्रणीते  
+आगम-प्रामाण्ये सम्पूर्णम् ॥  
+[[P236]]
+
+[^236_1]: M₂—°निहितं°
+[^236_2]: M₁ & M₇—श्रीमन्-नाथ-मुनीन्द्र-वर्धित-मती-षोषेभ्यो भूयिष्ठाः
+[^236_3]: M₃—°वचसः
+[^236_4]: M₁—°पदवी-दृशा श्रवणेनः
+
+---
+# APPENDIX
+
+[ Passages found at the beginning and end of the Manuscripts collated. ]
+
+1.  **Manuscript “A” has, at the beginning, the following :**  
+    ‘श्रीमते हयग्रीवाय नमः ।’  
+    **Towards the end, it has the following :**  
+    ‘श्रीमद्यामुन-गुरुभ्यो नमः । श्रीमते रामानुजाय नमः । श्रीमते हयग्रीवाय नमः । श्रीः ।’
+
+2.  **Manuscript “B” has, at the end, the following (incomplete) :**  
+    ‘...तन्तंमिति संङ्काररहितः । ... वासुदेवोक्तत्वाच् च-अस्य साङ्कर्यं प्राप्स्यत्य् अनुज्ञा-[त्रि]आदि-दर्शने च । भागवत-रक्ष्या ग्रन्थ-कार-रहितः । भावनातना गुरु-कृष्ण-बोधे । देवर्ष्याश् च-उक्तेति संकार-रहितः । यं कृष्ण-देर्शं यद्-भगवान् इति गीयते सति-इव चकाररहितः । र्थकारेण-उत्पादिताः सात्त्वत-लिङ्ग-विशेष-कार-रहिताः । त्रय्यर्थं वेद-वेदाङ्ग-यजन-समान-विषयेऽस्मिन् दीक्षान् ज्ञान-योर् इहादिभिः । देवलकस्य-ईश्वरे देवकत्वम् । निर्माल्य-वियोग-योग-विशिष्ट-वल्लभोपकार-रहिताः । प्राणाग्निहोत्रेऽपि कर्मणोऽभावः-विनाशन-वेद-शास्त्र-प्रायोपवेशन-कार-रहितः । भावनातना गुरु-कृष्ण-बोधाय । पञ्चरात्र-स्थाप्यत्वात् ज्योतिष्टोमादि-विशिष्ट-प्रमाणम् । अग्नेर् इव-इष्ट-संस्कार-रहितः । दीक्षया वेद-यज्ञेषु तत्-कारित्वात् । सिद्धं प्रवृत्ति कृत्वानो प्रामाण्ये वेद संकार-रहितः । ममायम् । कुल-चिन्ताविधि-सम्मतम्..... । इहापि परमात्म-वचने । भगवतो पञ्चरात्र-निर्णय-कारिकाः । देवाद्य्-अभिषेकेऽपि च । वेद-पञ्चरात्रयोस् सर्व-वेदान्त-सारत्वम् । मन्वादि-स्मृतयो मूलत्वम् । वेद-विद्-दर्शनात् समान-रक्षण-वेदोक्तम् । वेद-शास्त्रवत् । पञ्चरात्र-शास्त्र-योर् एकात्म्यम् । धीश् च कारण-रहित-परिहार-रहितः । चतुर्दश-विद्या-स्थानानां प्रामाण्य-प्रशंसं परिहारः । बादरायणेन तिरस्कृता-ऽदीनि शास्त्र-स्याप्रामाण्यम् इति भाष्ये पञ्चरात्र-प्रशंसा । सुधात्रेण । चराचर-समान-प्रामाण्य-म् अब्राह्मणम् इति । धर्म-शास्त्रम् अनपेक्ष्य-पूर्णं विष्णु-शासनम् । भगवत्-स्तु सर्व-ज्ञत्व-काल-विद्-विज्ञानानि । पञ्चरात्र-प्रमाणं साक्षात्-योग इति वाक्यो परिहारः । पञ्चका-लस्य (नान् निधेर् इति-असम्भवश् च । किञ्च(न)ये (क्षित) एवं विवर्जितम् इति संकार-हितः । (श)स्त्र(वि)धिश् (च तत्र तत्र) स्याम् आयाभिधान्योऽपरिमिमान् । भगवत्-छास्त्रयो(वेदयो) र्-युल्यत्व-सम्भावनात् ।
+
+    आगम-प्रामाण्ये भगवता वेद-ब्राह्मण-योर्-मिथोऽप्रमाण-निरूपकारः । तत्र सतां सत्तत्वाय स्वाभाविकताम् अत्र...ते तत्ता’ इत्य् आदि । ‘बालम् इव’ इत्य् आदि । तत्र श्री-शरण-म् अथ च ‘श्राद्ध-क्रियायाम्...’ इत्य् आदि । देवनादि-निदर्शन-आदि । तत्र श्रारदायाः ‘रथामा...ते..चो(मे) (प)साने ‘स्याद्’ इति सिद्धम्’ इत्यत्र प्रामाणम् । द्वापरस्य युगाख्याना इत्य् अत्र । सतां चरित्राण्यां
+
+---
+प्रथमे । ( ) देव-कालिभवानि’ ‘यानि’ न योग ’ इत्यन्तं भाष्यम् । किं च श्री-यमुनाचार्येण¹  
+'न खल्व्-आख्याता ’ इत्यादिः ‘किद्-आत्म’ रित्तन्ते भाष्यम् । परस्पर-विप्रतिषेधित्वम्, श्रीमत्-प्रसाद्यां  
+'तत्त्वे विश्व-मितीयम्,’ इत्यादिः 'ये क्षि( ) परमुद्यत-वारि-सिन्धुम्’ ‘इत्यन्तं भाष्यम् ।  
+अतोऽपरेषां विश्व-निलय, सचरित-शास्त्रार्थो प्रथमे 'हैरणी-गर्भम्’ इत्यादि, 'अनुपमेयं’  
+इत्यन्तं भाष्यम् । युति-विदेक-शास्त्र-प्रामाण्याद्-अयम् अपि श्री-यमुनाचार्यस्य’ अत्र तामादि ‘स्याद्’ 'देवना-देव चेतत्,’ इत्यन्तं भाष्यम् । किं च ‘प्रमाणम्’ । अभेद्यत्वं इत्य् अत्र श्री-यमुनाचार्यस्य¹ ‘भाद्रं  
+ज्ञायतेः’ इत्यादि, ‘उपजीव्यम्’ इत्यन्तं भाष्यम् । यद् अतः शिव-विशिष्टा-निमित्त-स्यमित्रस्य  
+सञ्चरित-शास्त्रार्था ‘विष्णु-विचार’ ( ) भाष्यम् ।
+
+यदाऽमोदूहयान-विषय-कथा-शलोकः ।  
+वसुतायागतोऽहं यामुनेयं नमामि तम् ॥  
+श्री-रङ्ग-नाथाय नमः ।
+
+आगम-प्रामाण्यम् ॥
