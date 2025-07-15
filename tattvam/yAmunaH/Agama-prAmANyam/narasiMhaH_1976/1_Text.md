@@ -3,6 +3,8 @@ title = "1 Text"
 
 +++
 
+TODO: अपरिष्कृतम्.
+
 श्रीमद्-यामुन-मुनि-प्रणीतम् आगम-प्रामाण्यम् ।
 
 [ मङ्गलाचरणम् ]
@@ -1967,33 +1969,33 @@ x⁴ अग्निहोत्रं जुहोति⁵-ति विधि
 [^133_star]: × Yāmuna emphasises here that no speciality should be attached to a statement that speaks of something to be done (kārya). Words, he says, generally depend upon some factors and those factors need not necessar-ily be ‘kārya’. Pointing out the untenability of the theory of ‘kārya’, he says that it goes astray in the instance of ‘liṅ’ the optative itself. Even the ‘liṅ’-suffix is found to depend upon a host of factors like the qualified aspirant (adhikārin), the means (sādhana) and the thing to be attained (sādhya). Cf. the following verse: tasmidāṅkṣitāsannayogyārthāntarasaṅgate | svārthe padānāṁ vyutpattirāśtheyā sarvavādibhiḥ || Words convey their sense only in connection with such other idea or factor that is complete to its sense (ākāṅkṣita), that is compatible with it (yogya) and which is supplied by a word uttered along with it (āsanna). Kārya should therefore occupy a subordinate but not the supreme position in the scheme of significance of words.
 
 ---
-कार्यान्विता¹-भिधाने यथा² बुड्ढ्यं³ यतः ॥  
-अक्ष्णां चैतत् ' कार्यान्वितम् एव सर्वत्र पदम्-इति नियमं'ति⁴, ‡लिङ्गादिषु व्यभिचारवत् । लिङादयो हि⁵ परिनिष्ठित-अधिकार-आशुं चञ्च⁵-सम्बन्धिनम् एव स्वार्थम् अभिदधति । अथ तेषु ऽपि अकृत्वा-विचारान्, इतरत्र कार्यान्विताभिधानम् इत्य् एतत्¹⁰, तद् अयं¹⁰ जरत्तीयम्* । ततो वरं सर्वत्र-अन्विताभिधान-मवाश्रितयाताम् ।[^134_star]  
-×न सादाकाङ्क्षिताभिधान-स्वयोगाथर्थान्तर-सङ्गते¹² ।[^134_section]  
-ख्यातं, पदानां व्युत्पत्तेर् अवधारित-शब्दिनिः ॥  
-÷गन्धे प्रष्टुम् उपपत्ति-सधिगमनी-प्येव शब्द-शक्तिः;[^134_dagger]  
-[[P134]]
+### सिद्धान्ते प्रभाकर-मत-निरासः
 
-[^134_1]: M₁—कार्यान्वय°
-[^134_2]: P, T—दुर्लभम्; M₃—बुध्यम्
-[^134_3]: M₁—अन्विताः; M₂—अन्यथाः
-[^134_4]: M₃, M₅, T—पदार्थेष्व् इति
-[^134_5]: M₁, M₂, M₇—°शृङ्गे
-[^134_6]: M₃ adds यति
-[^134_7]: M₁, My, M₂ B—°अभिधाने°
-[^134_8]: M₁, M₂, M₄, M₅, My, —अनुपलब्धि°
-[^134_9]: M₂, M₅ B—कार्यान्वितामिति
-[^134_10]: M₂, My read कार्यान्वितमन्य, omitting
-[^134_11]: इति चेत्
-[^134_12]: M₃ & M₄ omit तत्र च
-[^134_13]: P, T—°स्ततः
-[^134_14]: ¶ पूर्वं नानार्थान् साधयन् ।
-[^134_15]: ‡ लिङ्गं भागात् कार्यं व्यञ्जयन् इति चेत्, लिङ्गं कार्यस्य नास्तीति व्यभिचारः । लिङ् कार्यस्य साधक,
-[^134_16]: § अथापि कश्चित् ।
-[^134_17]: § यत् लिङादिषु ।
-[^134_star]: × For an explanation of the ardhajaratī-nyāya see Nyāyasudhā under I. iii. 1, p. 135: “केनचित् तद्-वृत्तेन सबन्धस्य व्याप्ति-योर् उपयुक्तात्, नयनात्-शुद्धांशस्यकथनात् प्रामाण्य् अज्ञान-मञ्जरीत्य् एवं स्तुति-स्तुतिकत्वम् ।” Also cf. Bhuvanesalaukikanyāyāsāhasrī, p. 104: “यथा सर्वलोके प्रष्टृणां वा प्रवक्तुं, प्रष्टृभिर् वा-ऽप्य् अकृत-वाक्यम् अखिलेषु, ततश् च तत्-प्रसादस्य सिद्धेर् व्याख्याता—यथा जटी भुञ्जी, तथा पुनः तस्यै-वाचार ग्रन्थान् साधयन्त्य् एवं युक्तिस्-तद्-बुद्ध्या ।”
-[^134_section]: × यथाऽपि विषय-भूते सति पदद्वयस्य एक-स्मिन् अर्थे पदानं वृत्ति-रस्ति-अन्यः तत्राऽऽऽद्यः शब्दस्यैव शक्तिः तद्-बोधकत्वेन प्रामाण्यतः । न तथाऽऽदित्यः ।
-[^134_dagger]: ‘सुगन्धं’ ‘दुगन्ध’ म् इत्यादिषु ‘गन्ध’ निः । प्रवृत्तिर् अनियमेनास्तु । तथा अन्यत्राप्य् उपमानं प्रमाणम्
+[[P11]]
+
+कार्यान्विता[^11_1]भिधायित्वम् अन्यथा दुर्विदं[^11_2] यतः ॥  
+
+अह्यांसं[^11_3] चैतत् 'कार्यान्वितम् एव सर्वत्र पदाभिधेयम् इति[^11_4]'; †लिङ्-आदिषु व्य्-अभिचारात् । लिङादयो हि[^11_5] परिनिष्ठिता[^11_6]धिकारा[^11_7]नुबन्ध[^11_8]सम्बन्धिमे[^11_8]व स्वार्थम् अभिदधति । अथ तेष्व्[^11_5] अन्विताभिधानं, इतरत्र कार्यान्विताभिधानम् इति[^11_9] चेत्[^11_10], [[तदध[^11_11]जरतीयम्|तद्-अर्ध-जरतीयम्]][^ardhajarati] । ततो वरं सर्वत्रान्विताभिधानम् एवाश्रीयताम् ।  
+[^11_1]: M₁,—कार्यान्वय°
+[^11_2]: P, T—दुर्वचम्; M₁—दुर्विषहम्
+[^11_3]: M₃,—अध्यासि; M₀—अध्यासः
+[^11_4]: M₂, M₅, T — पदाभिधेयत्वमिति
+[^11_5]: M₁, M₄, M₇,—°अपि
+[^11_6]: M₃ adds आदि
+[^11_7]: M₁, M₂, M₄, M₇, B—°धिकारादि°
+[^11_8]: M₁, M₂, M₄, M₇, My—°अनुबन्धि°
+[^11_9]: M₁, M₇—कार्यान्वितत्वमिति M₄, B—कार्यान्वितमिति
+[^11_10]: M₂, My read कार्यान्वितत्वम्, omitting इति चेत्
+[^11_11]: M₁ & M₂ omit तत्
+[^ardhajarati]: For an explanation of the *ardhajaratī-nyāya* see *Nyāyasudhā* under I. iii. 3, p. 135: “केनचित् पाशुपातेन सर्वजरत्या योषितोऽपभोगार्थम् अर्धजरत्यानयने दूतः प्रेषित इति लोकप्रवादोऽर्धजरतीयशब्दे ।”  
+Also cf. *Bhuvaneśvarīlalaukikanyāyasāhasrī*, p. 104: “ यत्र सर्वत्यागे ग्रहणे वा प्रसक्ते, निर्युक्तिकम् एकांशोपादानम् अरंशान्तरत्यागश् च क्रियते, तत्रायं न्यायोऽवतरति—  
+यथा जरती वृद्धा स्त्री, तस्याः पतिः तदर्थं गुणमात्रं गृह्णाति ह्यवयवान्तरं त्यजतीति युक्तिशून्यम् ।”
+
+×तस्माद् आकांक्षित-सन्नियोग्य्-अर्थान्तर-सङ्गतेः[^11_12] ।  
+स्वार्थे, पदानां व्युत्पत्तिर् आस्थेया सर्व-वादिभिः ॥  
+[^11_12]: P, T— °सङ्गतेः
+
+÷यद्य् अपि प्रवृत्त्य्-अनुपपत्ति-समधिगमनीयैव शब्द-शक्तिः;
 
 ---
 तथाऽपि¹—
@@ -2021,7 +2023,7 @@ x⁴ अग्निहोत्रं जुहोति⁵-ति विधि
 [^135_8]: My, M₄, M₇, My, B—omit हि
 [^135_9]: M₂ reads इत्य् एव
 [^135_10]: M₂ adds विधेयम्
-[^135_11]: ¶ प्रकृष्टस्य, भाक्ताशस्य, देवस्य वा कञ्चेति विषय-योडित्त्वेन-इत्यस्य नाङ्गी-कार्यम् इत्य् अभिप्रायः ।
+[^135_11]: ¶ प्रेरकस्य, आकाशस्य, देवस्य वा कञ्चेति विषय-योडित्त्वेन-इत्यस्य नाङ्गी-कार्यम् इत्य् अभिप्रायः ।
 [^135_star]: * ‘शब्दार्थः’ शब्द-वृत्ति-स्तत्त्वः । सः च प्राकारात्-अन्तरेण न लभ्यते । “ब्रह्मन्” इत्यत्र शब्द-सामर्थ्येन, यद्-अधिगतं शक्ति-ज्ञान-रूपं तस्यैवोपायत्वम् । एवं लक्षणया प्रतीयमाने शब्द-सिद्धिः । Cf. Bhuvanesalaukikanyāyāsāhasrī, p. 243.
 [^135_section]: † Vide Ratnaśāstra of Buddhabhaṭa, śl. 39: “रत्नेषु संशयितेषु बहूनि भवन्ति शास्त्राणि ॥” The quality of gems is tested by putting them in water. If they float, that is an indication of their superiority. This method of testing or the knowledge regarding the test is no doubt useful in determining the class of gems; but it is of no avail at the time of wearing them. On this analogy, it is argued that the knowledge of ‘kārya’ though useful to arrive at the significance of words, is not useful at the time of using those words.
 [^135_dagger]: ‡ For a classification of gems as ‘male’ and ‘female’, see Ratnadīpikā of Caṇḍeśvara, śls. 11-13, and for a classification into the four castes ‘brāhmaṇa’, ‘kṣatriya’, ‘vaiśya’ and ‘śūdra’ see Ratnaśāstra: śls. 21 and 23.
