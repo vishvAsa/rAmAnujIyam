@@ -65,6 +65,15 @@ as in the case of the cooking of the odana.
 कार्यमपि हि मानान्तरवेद्यमेव लौकिकं समिदाहरणादि, तच्च मानान्तरेणापि वेद्यमोदनपाकवदित्यभ्युपगमात् ।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+$ Vide Prakaraṇapañcikā II, p. 180- 
+> " कृतिसाध्यं प्रधानं यत्,  
+तत् कार्यम् अवसीयते । 
+तच मानान्तरेणापि  
+वेद्यम् ओदन-पाकवत् ॥ " 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

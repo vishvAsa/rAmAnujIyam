@@ -3718,10 +3718,19 @@ depending on one's particular partisan views.
 
 प्रमाणान्तर-दृष्टार्थ-  
 विषयिण्य् अपि शेमुषी ।  
-प्रमाणम् एव तत्-पूर्वं  
+प्रमाणम् एव, तत्-पूर्वं  
 न चेत् स्वार्थं विगाहते ॥
 </details>
 
+<details><summary>English</summary>
+
+Moreover, 
+
+if a cognition concerning a content  
+that is also known through another means of knowledge  
+does not recognize its own content as authoritative,  
+since it has already been taken care of by another authority,  
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -3732,10 +3741,61 @@ depending on one's particular partisan views.
 प्रमाणम् एव तत्-पूर्वं न चेत् स्वार्थं विगाहते ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य संभावना-मात्राद् अप्रामाण्यम् अलौकिकम् । तस्मात् परिनिष्ठितानिष्ठेयादि-भेद-शून्यम् असंदिग्धाविपर्यस्ताविज्ञानं प्रमाणम् एष्टव्यम्, अत इदम् अपास्तम् ।
+तस्य संभावना-मात्राद्  
+अप्रामाण्यम् अलौकिकम् । 
+</details>
+
+<details><summary>English</summary>
+
+this non-authoritativeness of its content is beyond experience  
+for it is a mere matter of assumption.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्य संभावना-मात्राद् अप्रामाण्यम् अलौकिकम् । 
+</details>
+
+### उपसंहारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात् परिनिष्ठितानुष्ठेयादि-भेद-शून्यम्  
+असन्दिग्धाविपर्यस्तविज्ञानं प्रमाणम् एष्टव्यम्,  
+</details>
+
+<details><summary>English</summary>
+
+Therefore it must be maintained that all indubitable and unreversed knowledge is authoritative, regardless of whether its content is established, or yet to be performed, or anything else. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मात् परिनिष्ठितानुष्ठेयादि-भेद-शून्यम् असन्दिग्धाविपर्यस्तविज्ञानं प्रमाणम् एष्टव्यम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत इदम् अपास्तम् ।
+</details>
+
+<details><summary>English</summary>
+
+Hence we reject our opponent's position. [[61]]
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत इदम् अपास्तम् ।
+</details>
+
+
 
 ## सार्वज्ञ्यम्
+
 प्रसिद्धैः करणैरेव सार्वज्ञ्यं नान्यथेति यत् ।  
 यतः श्रुतिरेव तत्र परिपन्थिनी पश्यत्यचतुस्स शृणोत्यकर्णः यश्चक्षुषा न पश्यति यश्चक्षूंषि पश्यति ।  
 न तस्य कार्यं करणं च विद्यते ।  
