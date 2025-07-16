@@ -2047,7 +2047,7 @@ If you say that a statement of such a substantive relation does not denote the r
 ### मानान्तरानपेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> +++(शब्दानां मुख्य-प्रयोगः)+++ मानान्तरापूर्वे कार्य 
+> +++(शब्दानां मुख्य-प्रयोगः)+++ मानान्तरापूर्वे+++(←तेन न साध्यम् इत्य् "अपूर्वम्")+++ कार्य 
 
 इति चेन् न -  
 तत्राव्युत्पन्नत्वेन प्रयोगानुपपत्तेः ।
@@ -2082,7 +2082,7 @@ we reply: no, for then no use of words would be possible, since their meaning wo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि मानान्तरापूर्वे  
+न हि मानान्तरापूर्वे+++(←तेन न साध्यम् इत्य् अपूर्वम्)+++  
 व्युत्पत्तिर् उपपद्यते ।  
 न चाव्युत्पन्न-शब्देभ्यः  
 प्रत्ययोऽतिप्रसङ्गतः ॥
@@ -2113,7 +2113,7 @@ Yamuna here attacks the theory advanced by the Prabhakaras that the words uttere
 
 योऽपि मन्यते 
 
-> लोके क्रिया-कार्ये व्युत्पन्न-शब्दः  
+> लोके क्रिया+++(-रूप)+++-कार्ये व्युत्पन्न-शब्दः +++(←"यजेत")+++  
 
 </details>
 
@@ -2137,7 +2137,7 @@ when it bears on a kārya that is to be accomplished with a certain action.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> फल-पद-समभिव्याहार--बल-प्रतिलब्ध-- तत्-साधन-भाव-भङ्गुर-यागादि-धात्व्-अर्थोत्तीर्ण-  +अपूर्व-कार्याभिधान-शक्तिर् वेदे मोदते,  
+> +++(शब्दः)+++ फल-पद-समभिव्याहार--बल-प्रतिलब्ध-- तत्-साधन-भाव-भङ्गुर-यागादि-धात्व्-अर्थोत्तीर्ण-  +अपूर्व+++(-रूप)+++-कार्याभिधान-शक्तिर् वेदे मोदते,  
 </details>
 
 <details><summary>English</summary>
@@ -2155,6 +2155,16 @@ and acquires this power on account of the collocation of words describing this f
 > फल-पद-समभिव्याहार--बल-प्रतिलब्ध-- तत्-साधन-भाव-भङ्गुर-यागादि- धात्व्-अर्थोत्तीर्णापूर्व-कार्याभिधान-शक्तिर् वेदे मोदते,  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+X ' फलपदं' फल-वाचकं स्वर्ग-कामादि-पदम् ।  
+तत्-साधन-भावः स्वर्ग-साधनत्वं अपूर्वस्येत्य् अर्थः ।  
+धात्व्-अर्थोतीर्णं, धात्व्-अर्थातिरिक्तम् ।  
+फलपद... शक्ति:' इत्ययं बहुव्रीहि: ' शब्द ' इत्यस्य विशेषणम् ।  
+वेदे निर्वृत्त इति भावः । 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2171,11 +2181,21 @@ since there verbal exchange is possible also to the unsophisticated,
 this determination of the nature of word and meaning is not attended to.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 लोके तु सं-मुग्धेनापि[1] व्यवहारोपपत्तेर् न शब्दार्थ-तत्त्वावधारणम् आद्रियते इति ।
 (सममुग्धेनेति पा.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मुग्धेन - +'क्रिया-कार्ये शक्तिके ऽप्यस्ती'ति भ्रान्तः पुरुष इति भावः ।  
+Cf. Prakaranapañcikā V. p. 95: 
+
+> " कथं तर्हि लौकिकवाक्येभ्यो व्यवहारप्रवृत्तिः ?  
+उच्यते - अर्ध-संशयेनापि लोको व्यवहरति ।  
+सन्दिग्धायाम् अपि वृष्टौ  
+वृष्ट्य्-आयत्त-फले कर्मणि प्रवर्तन्ते । "
 </details>
 
 
@@ -2198,7 +2218,8 @@ REFUTATION. This position is just wishful thinking;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि क्रिया-कार्ये व्युत्पन्नः स्थायि-कार्यं प्रतिपादयति अति-प्रसङ्गात् । 
+न हि क्रिया+++(-रूप)+++-कार्ये व्युत्पन्नः +++("यजेत"-शब्दः)+++  
+स्थायि+++(-अपूर्व-रूप)+++-कार्यं प्रतिपादयति - अति-प्रसङ्गात् । 
 </details>
 
 <details><summary>English</summary>
@@ -2214,7 +2235,7 @@ since that would mean over-extension.
 
 <details><summary>English - Note</summary>
 
-140: asthāyi; the Prābhākara view is that the kārya has a lasting efficacy  
+140: a?? sthāyi; the Prābhākara view is that the kārya has a lasting efficacy  
 beyond the inevitably transient action it involves;  
 for the kārya must remain in order to effect the fruit of the action  
 at any time after the completion of the action.  
@@ -2227,97 +2248,849 @@ The only possible explanation is that of lakṣaṇā "figurative usage," which 
 But he will deny the entire construction (67). 
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 न हि क्रिया-कार्ये व्युत्पन्न(ः) स्थायि-कार्यं प्रतिपादयति अति-प्रसङ्गात् । 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-यदि वृद्ध-व्यवहारे समधिगत-पद-सामर्थ्ये ऽनुरुध्यमाने ऽन्वयावगतिर् नोपपद्यते, मोपपादि न न तु तद्-अनुपत्त्या कॢप्त-शक्ति-परित्यागेन शब्द-शक्त्यन्तरं भजते कामं लक्षणाऽश्रीयताम् । न हि विरुद्धार्थ-पद-समभिव्याहारे पदानाम् अभिधानम् एवान्यथा नीयते, सर्व-शब्दार्थेष्व् अनाश्वास-प्रसङ्गात् ।
+* शब्द इति शेषः । 
++ घटज्ञानात् पटज्ञानमपि भवेदित्यापत्तिः । 
+
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि वृद्ध-व्यवहारे समधिगत-पद-सामर्थ्ये ऽनुरुध्यमाने  
+ऽन्वयावगतिर् +++('स्वर्गकाम'पदस्य)+++ नोपपद्यते, मोपपादि। 
+</details>
+
+<details><summary>English</summary>
+
+If we cannot know the true connection of words  
+even when the usage of our elders,  
+through which the denotations of these words is understood,  
+takes place in accordance with these words,  
+then we can never know their connection!  
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि वृद्ध-व्यवहारे समधिगत-पद-सामर्थ्ये ऽनुरुध्यमाने ऽन्वयावगतिर् नोपपद्यते, मोपपादि। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+६ अन्वयावगतिः 'स्वर्गकाम'पदस्येति शेषः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तु तद्-अनुपपत्त्या  
+कॢप्त-शक्ति-परित्यागेन शब्द-शक्त्य्-अन्तरं भजते । 
+</details>
+
+<details><summary>English</summary>
+
+If a language statement has lost its postulated true denoting power  
+because it is impossible,  
+it does not thereby acquire another denoting power. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न तु तद्-अनुपपत्त्या कॢप्त-शक्ति-परित्यागेन शब्द-शक्त्यन्तरं भजते । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कामं लक्षणाऽश्रीयताम् ।
+</details>
+
+<details><summary>English</summary>
+
+In such cases we surely must assume lakṣaṇā. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+कामं लक्षणाऽश्रीयताम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि +++('सिंहो माणवकः', 'अग्निर्माणवकः' इत्यादिप्रयोगेषु)+++ विरुद्धार्थ-पद-समभिव्याहारे  
+पदानाम् अभिधानम् एवान्यथा नीयते,  
+सर्व-शब्दार्थेष्व् अनाश्वास-प्रसङ्गात् ।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+For when certain words are collocated that have incompatible meanings, these words do not therefore denote something else altogether, for then all word meanings would become unreliable.
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि विरुद्धार्थ-पद-समभिव्याहारे पदानाम् अभिधानम् एवान्यथा नीयते, सर्व-शब्दार्थेष्व् अनाश्वास-प्रसङ्गात् ।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+'सिंहो माणवकः', 'अग्निर्माणवकः' इत्यादिप्रयोगेषु । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं च मानान्तरापूर्व+++(←तेन न साध्यम् इत्य् अपूर्वम्)+++-  
++++(-रूप-)+++कार्य-बोधन-शक्तता ।  
+न कर्म-फल-सम्बन्ध-  
+सिद्ध्यै तावद् उपेयते ॥
+</details>
+
+<details><summary>English</summary>
+
+67\. Besides, we do not admit that the fact that a word has the power to communicate a kārya that is not previously known through other means of knowledge proves that there actually exists a relationship between itself and the fruit of the action it enjoins. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 किं च मानान्तरापूर्व-कार्य-बोधन-शक्तता ।  
 न कर्म-फल-सम्बन्ध-सिद्ध्यै तावद् उपेयते ॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मानान्तरापूर्वं = प्रमाणान्तरेणाज्ञातं अपूर्वम्; तद्रूपं कार्यमित्यन्वयः ।  
+-ः कर्मणो यागादेः, फलेन स्वर्गादिना सम्बन्धः । तत्-सिध्य्-अर्थं मानान्तराज्ञातस्य कार्यस्य बोधकता पदानां नाभ्युपेया ।  
+अपूर्वस्य लिङर्थत्वं वर्तत इति प्राभाकरः;  
+नास्तीति भाट्टो ग्रन्थकारश्चेति बोध्यम् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैयोगिकस्+++(=विधि-सूचकः)+++ स +++(कर्म-फल-)+++सम्बन्धो  
+न पुनर् वैनियोगिकः +++(=साधन-सूचकः)+++ ।  
+धात्व्-अर्थोत्तीर्ण+++(-अपूर्व-)+++-कार्यात्मा  
+न कर्म-फल-सङ्गमात् ॥  
+ऋते सिध्यति सम्बन्धस्,  
+स +++(कर्म-फल-सङ्गमः)+++ च तस्माद् +++(कर्म-फल-सम्बन्धात्)+++ ऋते न हि ।  
+</details>
+
+<details><summary>English</summary>
+
+The only relation proved of it is that with injunction, not with instrumentality.  
+That in a statement there subsists a relation with a kārya  
+which transcends the root-sense of the verb  
+cannot be proved except by the relation of kārya with the fruit of the act, and the latter relation cannot be proved without the former. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 नैयोगिकस् स सम्बन्धो न पुनर् वैनियोगिकः ।  
-धात्वर्थोत्तीर्ण-कार्यात्मा न कर्म-फल-सङ्गमात् ॥
+धात्वर्थोत्तीर्ण-कार्यात्मा न कर्म-फल-सङ्गमात् ॥  
+ऋते सिध्यति सम्बन्धस् स च तस्माद् ऋते न हि ।  
+</details>
 
-ऋते सिध्यति [[सबन्धस्स|सम्बन्धस् स]] च तस्माद् ऋते न हि ।  
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+'धात्वर्थ'पदेन यागादिरुच्यते ।  
+धात्वर्थोत्तीर्णकार्यात्मा सम्बन्धः । 
+
+'स च' कर्मफलसङ्गमः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ततश् च दुरुत्तरम् इतरेतराश्रयणम् ।
+</details>
+
+<details><summary>English</summary>
+
+And therefore there is a vicious interdependence that cannot be refuted. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततश् च दुरुत्तरम् इतरेतराश्रयणम् ।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
++ स्वर्गकामरूपनियोज्यस्य क्रियासम्बन्धज्ञानम् ;  
+तेन स्वर्गयागयोः सम्बन्धज्ञानम् ;  
+तद्-अन्यथानुपपत्त्याऽपूर्व-कल्पनम् ;  
+ततस् तस्य लिङ्-वाच्यत्व-कल्पनम्  
+वाच्येऽपूर्वे यागस्य स्वर्गकामस्य चान्वयकल्पनम् ;  
+एवं 'स्वर्गकामीयं याग-सम्बन्ध्य् अपूर्वम्' इति ज्ञाने  
+तद्-अनन्तरम् एव स्वर्ग-याग-सम्बन्ध-कल्पनम्  
+इति अन्योन्याश्रयणप्रकारः समनुसन्धेयः ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> साध्य-स्वर्ग-विशिष्टस्य  
+पुरुषस्य **प्रवर्तकः** ।  
+**न** स्याद् इति तद्-इष्टार्थ-  
+**साधनं न** भवेद् विधिः ॥
+</details>
+
+<details><summary>English</summary>
+
+If there is no factor which activates the person who, according to the injunction, is specified by the heaven that is to be achieved,  
+the injunction itself cannot be the means of achieving the desired heaven. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 साध्य-स्वर्ग-विशिष्टस्य पुरुषस्य प्रवर्तकः ।  
 न स्याद् इति तद्-इष्टार्थ-साधनं न भवेद् विधिः ॥
 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> भङ्गुरो **न** च धात्वर्थः  
+**करणत्वेन कल्पते** ।  
+
+इति तद्-भिन्न-+++(-अपूर्व-)+++कार्यार्थ-  
+बोधकत्वं यद् उच्यते ॥
+</details>
+
+<details><summary>English</summary>
+
+The root-sense of the words being transitory, the statement itself cannot function as this means.141  
+Therefore the assertion that a language statement communicates as its proper meaning a kārya which exceeds this transitory root-sense, cannot be correct. 
+</details>
+
+<details><summary>English - Note</summary>
+
+141: This is the Prābhākara view, which holds that in the injunction (niyoga) svargakāmo  
+yajeta the sādhya (object to be realized) is not svarga,  
+but the entire niyoga (cf. Prakaraṇapañcikā, p. 190),  
+so that the statement of the injunction would become the means (sādhana) to realize that sādhya, sc. the injunction.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 भङ्गुरो न च धात्वर्थः करणत्वेन कल्पते ।  
 इति तद्-भिन्न-कार्यार्थ-बोधकत्वं यद् उच्यते ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् असन् - न हि साध्येन  
+स्वर्गेणायं +++(पुरुषो)+++ विशेष्यते ।  
+स्वर्गं कामयमानो हि  
+पुरुषो ऽत्र नियुज्यते ॥
+</details>
+
+<details><summary>English</summary>
+
+A person is not specified by heaven as the object to be achieved,142 but it is the person who desires heaven who is enjoined upon to accomplish the act.   
+
+142: {{Cr.|Cf.}} {{Prakaraṇapañcikā}} p. 182\.  
+
+</details>
+
+<details><summary>मूलम्</summary>
 
 तद् असन् न हि साध्येन स्वर्गेणायं विशेष्यते ।  
 स्वर्गं कामयमानो हि पुरुषो ऽत्र नियुज्यते ॥
+</details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-योऽपि मन्यते लोके किर्याकार्ये व्युत्पन्नशब्दः फलपदसमभिव्याहारबलप्रतिलब्धतत्साधनभावभङ्गुरयाग् आदिधात्वर्थोत्तीर्णापूर्वकार्याभिधानशक्तिर्वेदे मोदते, लोके तु सं (सममुग्धेनेति पा. ।)मुग्धेनापि व्यवहारोपपत्तेर्न शब्दार्थतत्त्वावधारणमाद्रियते इति ।  
-तस्यापीदं मनोरथमात्रम्,  न हि क्रियाकार्ये व्युत्पन्नस्थायिकार्यं प्रतिपादयति अतिप्रसङ्गात् ।  
-यदि वृद्धव्यवहारे समधिगतपदसामर्थ्येऽनुरुध्यमानेऽन्वयावगतिर्नोपपद्यते, मोपपादि न न तु तदनुपपत्त्या कॢप्तशक्तिपरित्यागेन शब्दशक्त्यन्तरं भजते कामं लक्षणाऽश्रीयताम् ।  
-न हि विरुद्धार्थपदसमभिव्याहारे पदानामभिधानमेवान्यथा नीयते, सर्वशब्दार्थेष्वनाश्वासप्रसङ्गात् ।  
-किञ्च मानान्तरापूर्वकार्यबोधनशक्तता ।  
-न कर्मफलसम्बन्धसिद्ध्यै तावदुपेयते ॥  
-नैयोगिकस्स सम्बन्धो न पुनर्वैनियोगिकः ।  
-धात्वर्थोत्तीर्णकार्यात्मा न कर्मफलसङ्गमात् ॥  
-ऋते सिध्यति सबन्धस्स च तस्मादृते न हि ।  
-ततश्च दुरुत्तरमितरेतराश्रयणम् ।  
-साध्यस्वर्गविशिष्टस्य पुरुषस्य प्रवर्तकः ।  
-न स्यादिति तदिष्टार्थसाधनं न भवेद्विधिः ॥  
-भङ्गुरो न च धात्वर्थः करणत्वेन कल्पते ।  
-इति तद्भिन्नकार्यार्थबोधकत्वं यदुच्यते ॥  
-तदसन्न हि साध्येन स्वर्गेणायं विशेष्यते ।  
-स्वर्गं कामयमानो हि पुरुषोऽत्र नियुज्यते ॥
+'ज्योतिष्टोमेन स्वर्गकामो यजेते'त्यत्र । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि स्वर्गोऽधिकारिविशेषणं साध्यत्वात् ।  
+</details>
+
+<details><summary>English</summary>
+
+Heaven can not be the specification of the person's qualification, because heaven is yet to be achieved. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि स्वर्गोऽधिकारिविशेषणं साध्यत्वात् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिद्धम् एव हि सर्वस्य  
+नियोज्यस्य विशेषणम् ।  
++++('यावज्-जीवम् अग्निहोत्रं जुहोति'→)+++ जीवनादि तथैवेह  
+कामनैव विशेषणम् ॥
+</details>
+
+<details><summary>English</summary>
+
+Only something that has already been achieved, that actually exists, can specify the person upon whom an act is enjoined, for instance, the real fact of his being alive etc. Consequently only his desire can specify his qualification for the act.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 सिद्धमेव हि सर्वस्य नियोज्यस्य विशेषणम् ।  
 जीवनादि तथैवेह कामनैव विशेषणम् ॥
+</details>
 
-अपि च नियोज्यविशेषणतामनुभवतः स्वर्गादेः कीदृशं साध्यत्वम् ।  
-यदि साधनसंबन्धयोग्यत्वं नैव तावता ।  
-स्वर्गेण सिध्यता भाव्यं यावद्योगमजन्मतः ॥  
-सिद्धिपर्यन्तता तस्य नियोगैकप्रमाणिका ।  
-नियोगस्तत्प्रमाणश्चेत्यन्योन्याश्रयणं ध्रुवम् ॥  
-यदि स्वर्गस्य साध्यत्वं न नियोगस्य साध्यता ।  
-साध्यद्वयञ्च नैकस्मिन् वाक्ये सम्बन्धमर्हति ॥
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-### स्वर्गः स्याध्यः
-स्वतन्त्रं हि साध्यद्वयमेकवाक्यतां निरणाद्धि नानुगुणम्, अनुगुणञ्चैतत्साध्यद्वयं नियोगसिद्धिनान्तरीयकत्वात् स्वर्गसिद्धेः, यदाह नियोगसिद्धौ सर्वं तदनुगुणम् इति केन नेष्यते नियोगसिध्यर्था फलसिद्धिरिति च, तस्मादविरोध इति चेत्तन्न ।  
-स्वर्गसिद्धिं विना किन्नु नियोगस्य न सिध्यति ।  
-नाधिकारो न विषयो न चान्यद्विध्यपेक्षितम् ॥  
-न हि नित्याधिकारेषु नियोगस्तामपेक्षते ।  
-न चान्यदिच्छतोऽन्यत्र नियुक्तिर्नोपपद्यते ॥  
-नियोगस्यैव माहात्म्यं नित्योष्विव नियुज्यते ।  
-नियोगो हि प्रधानतयाऽधिगम्यमानस्वर्गमभिलषन्तमप्यात्मन्याकर्षति यथा अनिच्छन्तमपि नित्ये कर्मणि निष्फले प्रवर्तयति ॥
+' नियोज्यः पुरुषः 'स्वर्गकाम'पदाभिहितः ।  
 
-किञ्च ।  
-स्वर्गं कामयमानो हि निमिषत्युन्मिषत्यपि ।  
-न च ते स्वर्गसिद्ध्यर्था यागः किन्नैवमिष्यते ॥  
-तत्साधनतया नैके गृह्यन्त इति चेन्मतम् ।  
-यागादयः किं तद्बुद्धिग्राह्या विधिबहिष्कृताः ॥
+'यावज्-जीवम् अग्निहोत्रं जुहोति',  
+'यावज्-जीवं दर्श-पूर्णमासाभ्यां यजेत'  
+(see Sābarabhāsya under II iv I )  
+इत्यादिषु नित्यविधिषु  
+जीवनादिकं सिद्धमेव हि पुरुषस्य विशेषणं दृश्यते,  
+न तु साध्यम् । एवं प्रकृते ऽपि विभाव्यम् । 
+</details>
 
-तत्र च ।  
-साध्यसाधनसंबन्धप्रतिपादनतत्पराः ।  
-यावन्न विधयस्तावन्नैष्फल्यं सर्वकर्मणाम् ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्माल्लिङादिभ्यः प्रथममिष्टसाधनताऽवगमः, ततोरागतः प्रवृत्तिरित्येव युक्तम्,  तदपूर्वकार्याभिधान एव मुख्या शक्तिः इतरत्र लाक्षणिकीत्यनुपपन्नम्, अत एव यथायथं लौकिकशब्देभ्यस्तत्सिद्धार्थगोचरा बुद्धयो जायन्ते ।  
-ननु न ताः शब्दमहिमभुवः आनुमानिक्यो हि ताः, तथा हि व्युत्पत्तिसमयसंविदितार्थप्रतिपादनसामर्थ्यान्यपि पदानि क्वचिद् व्यभिचारदर्शनजनितसंशयप्रतिबधानि न श्रुतमात्राण्यर्थं न्निश्चाययन्ति न चानिश्चितोऽर्थोज्ञातो भवति अनिश्चयात्मनोज्ञानस्याभावात् ।  
+अपि च नियोज्य-विशेषणताम् +++(त्वन्-मते)+++ अनुभवतः स्वर्गादेः  
+कीदृशं साध्यत्वम् ।  
+</details>
+
+<details><summary>English</summary>
+
+[[55]]
+
+68\. Furthermore, precisely how is heaven, which in your opinion functions as the specification of the person enjoined, an object to be realized, a sādhya?
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि च नियोज्य-विशेषणताम् अनुभवतः स्वर्गादेः कीदृशं साध्यत्वम् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि साधन-संबन्ध-  
+योग्यत्वं - नैव तावता ॥  
+स्वर्गेण सिद्ध्यता भाव्यं  
+यावद् योगम् अजन्मतः ।  
+</details>
+
+
+<details><summary>English</summary>
+
+[[56]]
+
+If its being a sādhya means that it is fit for a relation with a sādhana,  
+it is impossible for heaven to be siddha, as long as its relatability obtains,  
+since it cannot become siddha in the meantime.143 
+</details>
+
+
+<details><summary>English - Note</summary>
+
+143: Nothing can become a fact (siddha) as long as it is still to be made a fact (sādhya) by a "factualizing" means (sādhana);  
+thus as long as it is related with such a means it cannot be a fact.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदि साधन-संबन्ध-योग्यत्वं - नैव तावता ॥  
+स्वर्गेण सिद्ध्यता भाव्यं यावद् योगम् अजन्मतः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिद्धि-पर्यन्तता तस्य +++(स्वर्गस्य "नियोज्य-विशेषणस्य")+++  
++++(अपूर्व=)+++नियोगैक-प्रमाणिका ॥
+नियोगस् तत्-प्रमाणश् चेत्य्  
+अन्योऽन्याश्रयणं ध्रुवम् ।  
+</details>
+
+<details><summary>English</summary>
+
+The only authority that exists for heaven becoming siddha in the end is the injunction itself, while the only authority for the injunction is just this that heaven does become siddha. This is plainly a vicious circle. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिद्धि-पर्यन्तता तस्य नियोगैक-प्रमाणिका ॥
+नियोगस् तत्-प्रमाणश् चेत्य् अन्योन्याश्रयणं ध्रुवम् ।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+** 'Niyoga' is another name coined by Prabhakara to denote Apurva. See Karmamimāṁsā, pp. 74-75-  
+
+> Mīmāmsā does not believe in any God that receives the offerings from the votaries and rewards them accordingly.  
+>
+> > "There must, therefore, be a capacity,  
+which does not exist prior to the sacrificial action,  
+either in the principal performance or in the agent,  
+but which is generated in the course of the performance.  
+Before a man performs a sacrifice, which will lead to heaven,  
+there is an incapacity in the offering and in the man himself to secure that result,  
+but when he has performed it, he becomes, as a result of the action, endowed with a potency, styled 'apūrva', which in the course of time, will secure for him the end desired.  
+The existence of this potency is testified to in the scriptures;  
+its necessity is apparent by the means of proof known as Presumption (arthāpatti).  
+We find in the Veda, assertions that sacrifices produce certain results,  
+and, as the operation of the sacrifice, as we see it, is transient, the truth of the scripture would be vitiated if we did not accept the theory of Apūrva.  
+Nor is there anything illogical in this doctrine;  
+every action sets in force activities in substances or agents,  
+and these come to fruition when the necessary auxiliaries are present.  
+The action specified is called into existence by the injunction contained in the form of an optative in a sentence in the Veda.  
+>
+> From this doctrine, Prabhakara dissents, elaborating instead, a theory which is obviously a refinement on the simple view which Kumārila accepts from the older writers of the school  
+and which best suits the Mimämsä Sūtras.  
+In his opinion, the injunction rests in the sentence as a whole, not in the optative verb,  
+and he denies that from the action there arises directly the Apurva.  
+On the contrary the process is that the injunctive sentence lays down A Mandate, Niyoga;  
+this excites the man to exertion,  
+and this exertion pertains to some form of action, indicated by the verb of the injunctive sentence.  
+The exertion produces in the agent a result (karya) to which also the name of Niyoga is given by Prabhakara,  
+on the ground that it is this which acts as an Incentive to the agent to put forth exertion towards the performance of the action denoted by the verb of the injunctive clause.  
+The Niyoga, however, is unable to produce its result,  
+unless aided by something which Śālikanatha styles fate,  
+>
+> nor is it apparent that either in his terminology, or in his view of the process,  
+Prabhakara's doctrine is any superior to that of Kumārila.  
+It seems as if primarily it arose from nothing more important  
+than the observation that The result produced in the agent was in one sense his motive to action  
+as much As the sentence directing the action to be done,  
+leading to a transfer of the term Niyoga, naturally applicable to the sentence,  
+to the condition in the agent to which the more orthodox name of Apurva was usually applied. "   
+>
+> " In simple sacrifices, there is only one Apūrva produced, but in more complicated sacrifices, there may be several, as a rule, four....  
+But it is not every action which brings out an Apurva;  
+these actions, which are devoted simply to some material result, though a part of the sacrifice, such as the appointment of priests or the threshing of corn are not credited with any such effect, as they serve an immediate purpose and need no further explanation".
+</details>
+
+#### साध्य-द्वयापत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि स्वर्गस्य साध्यत्वं,  
+न नियोगस्य+++(=अपूर्वस्य)+++ साध्यता +++(इति वाच्यम्)+++॥  
+साध्य-द्वयं च नैकस्मिन्  
+वाक्ये सम्बन्धम् अर्हति ॥
+</details>
+
+<details><summary>English</summary>
+
+If heaven is the sādhya, the injunction is not the sādhya. It is not possible to combine two sādhyas in one sentence.144
+
+
+144: This is the principle of ekavākyatā: a statement can contain only one injunction, otherwise there is vākyabheda: what should be one sentence is split up into two.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदि स्वर्गस्य साध्यत्वं न नियोगस्य साध्यता ॥  
+साध्य-द्वयं च नैकस्मिन् वाक्ये सम्बन्धम् अर्हति ॥
+</details>
+
+##### नियोग-स्वान्तन्त्र्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स्वतन्त्रं हि साध्य-द्वयम् एकवाक्यतां निरुणद्धि -  
+नानुगुणम्, 
+</details>
+
+<details><summary>English</summary>
+
+> 69\. OBJECTION. Indeed, the unity of a sentence is broken up when it contains two sādhyas that are independent, but not when the two are interdependent. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> स्वतन्त्रं हि साध्य-द्वयम् एकवाक्यतां निरुणद्धि नानुगुणम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुगुणं चैतत्-साध्य-द्वयं -  
+नियोग-सिद्धिनान्तरीयकत्वात् स्वर्ग-सिद्धेः, 
+</details>
+
+<details><summary>English</summary>
+
+And here the two sādhyas are interdependent since the realization of heaven is contained in the realization of the injunction. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनुगुणं चैतत्-साध्यद्वयं नियोग-सिद्धि-नान्तरीयकत्वात् स्वर्ग-सिद्धेः, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यद् आह  
+> 
+> "नियोग-सिद्धौ सर्वं तद्-अनुगुणम्" इति  
+"केन नेष्यते नियोग-सिद्ध्य्-अर्था फल-सिद्धिः" इति च,  
+तस्माद् अविरोध 
+
+इति चेत् — 
+</details>
+
+<details><summary>English</summary>
+
+> That is what the Author says: "When the niyoga is realized, everything else in accordance with it is also realized;" and: "Why should the realization of the fruit not be held to be subservient to the realization of the injunction?"145 Therefore there is no conflict here.
+
+145: Quotations not identified; but for the argument, see Prakaraṇapañcikā, p 183 f.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+यद् आह "नियोग-सिद्धौ सर्वं तदनुगुणम्" इति "केन नेष्यते "नियोग-सिद्ध्यर्था फल-सिद्धिः" इति च,  
+तस्माद् अविरोध 
+
+इति चेत् — 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन् न -
+
+स्वर्ग-सिद्धिं विना किं नु  
+नियोगस्य न सिध्यति ।  
+नाधिकारो न विषयो  
+न चान्यद्-विध्य्-अपेक्षितम् ॥
+</details>
+
+<details><summary>En - विश्वासः</summary>
+
+REFUTATION. No; 
+
+When heaven is not realized, what of the injunction can not be realized? Neither the qualification, nor the object, nor anything else required by the injunction is not realized.
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION. No; 
+
+~~unless heaven is realized, how can the injunction not be realized? Without the realization of heaven neither the qualification, nor the object, nor anything else required by the injunction is realized.~~
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तन् न ।
+
+स्वर्ग-सिद्धिं विना किं नु नियोगस्य न सिध्यति ।  
+नाधिकारो न विषयो न चान्यद्-विध्य्-अपेक्षितम् ॥
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न हि नित्याधिकारेषु  
++++(अपूर्वः=)+++नियोगस् ताम् +++(स्वर्गसिद्धिं)+++ अपेक्षते ।  
+न चान्यद् इच्छतो ऽन्यत्र  
+नियुक्तिर् नोपपद्यते ॥  
+नियोगस्यैव माहात्म्यं  
+नित्येष्व् इव नियुज्यते । 
+</details>
+
+<details><summary>English</summary>
+
+
+70\. ~~OBJECTION.~~ In the case of the qualifications for periodical rites the injunction does not require the 'realization of any fruit.'146   
+
+146: No specific fruits are attached to nitya rites.  
+
+Nor does an injunction to one act  
+fail to apply to a person who really desires another fruit.
+
+The pre-eminence147 is really the injunction's;  
+a person is enjoined upon by the injunction to any act in the same way  
+as he is enjoined upon to perform the periodical acts.
+
+
+147: māhātmya, which corresponds to prādhānya, pradhānatā.  
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि नित्याधिकारेषु नियोगस् ताम् अपेक्षते ।  
+न चान्यद् इच्छतो ऽन्यत्र नियुक्तिर् नोपपद्यते ॥  
+नियोगस्यैव माहात्म्यं नित्येष्व् इव नियुज्यते । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नियोगो हि प्रधानतया ऽधिगम्यमान-स्वर्गम् अभिलषन्तम् अप्य्  
+आत्मन्य् आकर्षति  
+यथा अनिच्छन्तम् अपि नित्ये कर्मणि निष्फले प्रवर्तयति ॥
+</details>
+
+<details><summary>English</summary>
+
+For the injunction draws unto itself the desirous person who himself thinks that the heaven which he desires is the principal object, in the same way as the injunction to perform the periodical acts activates a person, even though he does not desire anything, to these acts which bear no fruit at all. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नियोगो हि प्रधानतयाऽधिगम्यमान-स्वर्गम् अभिलषन्तम् अप्य् आत्मन्य् आकर्षति यथा अनिच्छन्तम् अपि नित्ये कर्मणि निष्फले प्रवर्तयति ॥
+</details>
+
+##### निमेषादि-साधनता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं च ।  
+
+स्वर्गं कामयमानो हि निमिषत्य् उन्मिषत्य् अपि ।  
+न च ते स्वर्ग-सिद्ध्यर्था यागः किं नैवम् +++(निमेषोन्मेषवत्)+++ इष्यते ॥ +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Besides, a person who is desirous of heaven also opens and shuts his eyes; for you these actions do not subserve his realization of heaven. Why not consider the sacrificing an action of the same kind? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किं च ।  
+स्वर्गं कामयमानो हि निमिषत्य् उन्मिषत्य् अपि ।  
+न च ते स्वर्ग-सिद्ध्यर्था यागः किं नैवम् इष्यते ॥
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"तत्-साधनतया नैते  
+गृह्यन्त" इति चेन् मतम् ।  
+यागादयः किं तद्+++(=साधनता)+++-बुद्धि-  
+ग्राह्या विधि-बहिष्कृताः? ॥
+</details>
+
+<details><summary>English</summary>
+
+> There are some who do not accept that it is a means of realizing heaven. [[57]]
+
+71\. REFUTATION. If that is the view, we ask: Are the sacrifice etc., which are to be grasped by the cognition that they are such means, eliminated from the injunction? 
+</details>
+
+<details><summary>मूलम्</summary>
+
+"तत्-साधनतया नैते गृह्यन्त" इति चेन् मतम् ।  
+यागादयः किं तद्-बुद्धि-ग्राह्या विधि-बहिष्कृताः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र च -  
+
+साध्य-साधन-संबन्ध-  
+प्रतिपादन-तत्-पराः ।  
+यावन् न विधयस् तावन्  
+नैष्फल्यं सर्व-कर्मणाम् ॥
+</details>
+
+<details><summary>English</summary>
+
+On this point: When the injunction does not mean to convey a relation between the object to be realized and the means of realizing it, then all acts are fruitless. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र च -  
+
+साध्य-साधन-संबन्ध-प्रतिपादन-तत्पराः ।  
+यावन् न विधयस् तावन् नैष्फल्यं सर्व-कर्मणाम् ॥
+</details>
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माल् लिङादिभ्यः प्रथमम् इष्ट-साधनता-अवगमः,  
+ततो रागतः प्रवृत्तिर् इत्य् एव युक्तम्, 
+</details>
+
+<details><summary>English</summary>
+
+Therefore, it is sound to maintain that  
+from the injunctive suffixes  
+there results first the cognition that  
+they are indeed the means to realize the desired object,  
+and that subsequently the desire for this object prompts a person to undertake the act of realization.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्माल् लिङादिभ्यः प्रथमम् इष्ट-साधनता-अवगमः, ततो रागतः प्रवृत्तिर् इत्य् एव युक्तम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"तद् अपूर्व-कार्याभिधान एव मुख्या शक्तिः, इतरत्र लाक्षणिकी"त्य् अनुपपन्नम्, 
+</details>
+
+<details><summary>English</summary>
+
+But it is improper to maintain that  
+
+> the primary denotation occurs in the expressing of a meaning that was previously unknown,  
+
+and that 
+
+> the denotation in the expressing of any other meaning is secondary. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद् अपूर्व-कार्याभिधान एव मुख्या शक्तिः, इतरत्र लाक्षणिकीत्य् अनुपपन्नम्, 
+</details>
+
+### अनुमान-मूलता न लौकिक-शब्देषु
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव यथा-यथं लौकिक-शब्देभ्यस् तत्-सिद्धार्थ-गोचरा बुद्धयो जायन्ते ।
+</details>
+
+<details><summary>English</summary>
+
+We conclude that ordinary, non-Vedic statements give rise to cognitions concerning meanings that are just so established by these statements.
+
+[[58]]
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत एव यथा-यथं लौकिक-शब्देभ्यस् तत्-सिद्धार्थ-गोचरा बुद्धयो जायन्ते ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु न ताः शब्द-महिम-भुवः, आनुमानिक्यो हि ताः, 
+</details>
+
+<details><summary>English</summary>
+
+> 72\. OBJECTION. But these cognitions do not arise from the denoting power of language, but result from Inference. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ननु न ताः शब्द-महिम-भुवः, आनुमानिक्यो हि ताः, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+This view of Prabhakara regarding the validity pertaining to the statements made by human beings,  
+has already been stated and refuted briefly by Yamuna.  
+He now exposes in detail, the untenability and absurdity of this view  
+and proves that even sentences uttered by people in the world possess verbal authority,  
+but not inferential authority.  
+See the verse "tasmādasti madillie ", etc., following. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तथा हि व्युत्पत्ति-समय-संविदितार्थ-प्रतिपादन-सामर्थ्यान्य् अपि पदानि  
+क्वचिद् +++(शब्देषु)+++ व्यभिचार-दर्शन-जनित-संशय-प्रतिबद्धानि  
+न श्रुत-मात्राण्य् अर्थं निश्चाययन्ति, 
+</details>
+
+<details><summary>English</summary>
+
+> For these statements, though their denotations in conveying certain meanings are consciously known once their proper meanings have been learnt,  
+do not furnish complete certainty about their meanings merely upon being heard by a listener,  
+when they are accompanied by doubt which is created by the listener's observation that in one case or other statements have deviated from their proper meanings.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हि व्युत्पत्ति-समय-संविदितार्थ-प्रतिपादन-सामर्थ्यान्य् अपि पदानि क्व-चिद् व्यभिचार-दर्शन-जनित-संशय-प्रतिबद्धानि न श्रुत-मात्राण्य् अर्थं निश्चाययन्ति, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+1 Cf. Prakaranapañcikā II. 24, p. 14- 
+shankyamAnAyatharthatva-racanam tena pumvacaḥ   
+śruta-mātrakam evärthe na tavan niścayāvaham ।।  
+Also vide ibidः $1. 36, p. 15-  
+arthenaiva višeşo hi  
+nirākāratayā dhiyāṁ ।  
+na cApratitenarthena  
+viseṣaścāvakalpate ।। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न चानिश्चितोऽर्थो ज्ञातो भवति  
+अनिश्चयात्मनो ज्ञानस्याभावात् ।
+</details>
+
+<details><summary>English</summary>
+
+> And, unless there be complete certainty, the meaning will remain unknown; for no knowledge can arise in one's mind from uncertainty. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चानिश्चितोऽर्थो ज्ञातो भवति अनिश्चयात्मनो ज्ञानस्याभावात् ।
+</details>
+
+
 तत्राज्ञातेऽपि वाक्यार्थे श्रोतैवं विचिकित्सते ।  
-ब्रवीत्यन्योन्यसंबन्धयोग्यार्थानि पदान्ययम् ॥  
-न चाविज्ञातसंबन्धान् शब्दानाप्ताः प्रयुञ्जते ।  
-तेनेदृशान्वयज्ञानमस्यास्तीत्यवगच्छति ॥  
-एवमन्वयज्ञाने अनुमिते तदुपदर्शितोऽर्थो न शब्दमाकाङ्क्षति अतो लौकिकस्य वचसो वक्त्रनुभवपरतन्त्रतया तत्रैव पर्यवसानमिति ।  
-तदसत्, न हि स्वभावतोऽर्थमवगमयन् शब्दः क्वचिद्वक्त्राशयदोषवशीकाराद्वितथ इत्यन्यत्रापि तत्संभावनया स्वारसिकीमर्थावबोधकतामुञ्झितुमर्हति, न हि मन्त्रप्रतिहत (अत्र मन्त्रप्रतिहतिदशायामिति युक्तः पाठोऽथवा हतशब्दे भावे क्तप्रत्यय इत्यनुसंधेयम् ।)दशायां हुतवहो न दहतीत्यन्यत्रापि तादृशदशाशङ्क्या न दहति, नापि शुक्तिरजतधियमर्थव्यभिचारिणीमिन्द्रियं दोषवशादुपलब्धमिति घटादिकमपि नावगमयति, अतो विदितपदपदार्थसङ्गतेः श्रोतुस्सहसैव शब्दोऽर्थमवबोधयति मूलज्ञानं न प्रतीक्षते ।  
-मूलज्ञानपरिज्ञानादर्वागर्थेऽपि चोदिते ।  
-कथमेवमयं वेदेत्यनुमानं प्रवर्तते ॥  
-किमज्ञासीदयं वक्ता किञ्चिदित्यनुमित्समे ।  
-विशिष्टार्थान्वयज्ञानमनुमातुमथेच्छसि ॥  
-न तावदयमज्ञासीद् वक्ता किञ्चिदितीयता ।  
-व्याहारव्यवहारौ वा स्यातां वाक्यार्थगोचरौ ॥
+ब्रवीत्य् अन्योन्य-संबन्ध-योग्यार्थानि पदान्य् अयम् ॥
+
+न चाविज्ञात-संबन्धान् शब्दान् आप्ताः प्रयुञ्जते ।  
+तेनेदृशान्वय-ज्ञानम् अस्यास्तीत्य् अवगच्छति ॥
+
+एवम् अन्वय-ज्ञाने ऽनुमिते तद्-उपदर्शितो ऽर्थो न शब्दम् आकाङ्क्षति, अतो लौकिकस्य वचसो वक्तृ-अनुभव-परतन्त्रतया तत्रैव पर्यवसानम् इति ।
+
+तद् असत्, न हि स्वभावतो ऽर्थम् अवगमयन् शब्दः क्व-चिद् वक्त्राशय-दोष-वशीकाराद् वितथ इत्य् अन्यत्रापि तत्-संभावनया स्वारसिकीम् अर्थावबोधकताम् उञ्झितुम् अर्हति, न हि मन्त्र-प्रतिहत-दशायां[^1] हुतवहो न दहतीत्य् अन्यत्रापि तादृश-दशा-शङ्क्या न दहति, नापि शुक्ति-रजत-धियम् अर्थ-व्यभिचारिणीम् इन्द्रियं दोष-वशाद् उपलब्धम् इति घटादिकम् अपि नावगमयति, अतो विदित-पद-पदार्थ-सङ्गतेः श्रोतुस् सहसैव शब्दो ऽर्थम् अवबोधयति मूल-ज्ञानं न प्रतीक्षते ।
+[^1]: अत्र मन्त्र-प्रतिहति-दशायाम् इति युक्तः पाठो ऽथवा हत-शब्दे भावे क्त-प्रत्यय इत्य् अनुसंधेयम् ।
+
+मूल-ज्ञान-परिज्ञानाद् अर्वाग् अर्थे ऽपि चोदिते ।  
+कथम् एवम् अयं वेद इत्य् अनुमानं प्रवर्तते ॥
+
+किम् अज्ञासीद् अयम् वक्ता किञ्चिद् इत्य् अनुमित्समे ।  
+विशिष्टार्थान्वय-ज्ञानम् अनुमातुम् अथेच्छसि ॥
+
+न तावद् अयम् अज्ञासीद् वक्ता किञ्चिद् इतीयता ।  
+व्याहार-व्यवहारौ वा स्यातां वाक्यार्थ-गोचरौ ॥
+
 
 विशिष्टार्थान्वयगोचरचेतोऽनुमानन्तु प्रथमतरप्रवृत्ततद्विषयशेमुषीमन्तरेणानुपपन्नमिति प्रागेव शब्दार्थोऽवगन्तव्यः, न ह्यनासादितविषयविशेषसंसर्गाः संविदः परस्परतो व्यतिभिद्यन्ते ।  
 न च तथाऽनुमिताभिरर्थविशेषः सिध्यति यादृशान्वयप्रतिपादनयोग्या पदरचना सा तदन्वयज्ञानमापादयतीति चेत्, अवगतस्तर्हि प्रागेवार्थानामन्वयः, न हि बुद्धावनारोपित एवान्वयः प्रयोगं व्यवच्छिनत्ति,
