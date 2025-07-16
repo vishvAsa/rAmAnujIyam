@@ -3071,45 +3071,431 @@ viseṣaścāvakalpate ।।
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तत्राज्ञातेऽपि वाक्यार्थे  
+श्रोतैवं विचिकित्सते ।  
+> 
+> > ब्रवीत्य् अन्योऽन्य-संबन्ध-  
+योग्यार्थानि पदान्य् अयम् ॥
+</details>
+
+<details><summary>English</summary>
+
+If the meaning of a statement is not known, the listener wants to discover it: "The speaker uses words whose meanings apparently admit of being connected; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तत्राज्ञातेऽपि वाक्यार्थे श्रोतैवं विचिकित्सते ।  
 ब्रवीत्य् अन्योन्य-संबन्ध-योग्यार्थानि पदान्य् अयम् ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>> न चाविज्ञात-संबन्धान्  
+शब्दान् आप्ताः प्रयुञ्जते ।  
+>
+> तेनेदृशान्वय-ज्ञानम्  
+अस्यास्तीत्य् अवगच्छति ॥
+</details>
+
+<details><summary>English</summary>
+
+> and reliable persons do not use words whose connections are unknown;" 
+
+and the listener realizes that therefore the speaker has knowledge of such a connection. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 न चाविज्ञात-संबन्धान् शब्दान् आप्ताः प्रयुञ्जते ।  
 तेनेदृशान्वय-ज्ञानम् अस्यास्तीत्य् अवगच्छति ॥
+</details>
 
-एवम् अन्वय-ज्ञाने ऽनुमिते तद्-उपदर्शितो ऽर्थो न शब्दम् आकाङ्क्षति, अतो लौकिकस्य वचसो वक्तृ-अनुभव-परतन्त्रतया तत्रैव पर्यवसानम् इति ।
 
-तद् असत्, न हि स्वभावतो ऽर्थम् अवगमयन् शब्दः क्व-चिद् वक्त्राशय-दोष-वशीकाराद् वितथ इत्य् अन्यत्रापि तत्-संभावनया स्वारसिकीम् अर्थावबोधकताम् उञ्झितुम् अर्हति, न हि मन्त्र-प्रतिहत-दशायां[^1] हुतवहो न दहतीत्य् अन्यत्रापि तादृश-दशा-शङ्क्या न दहति, नापि शुक्ति-रजत-धियम् अर्थ-व्यभिचारिणीम् इन्द्रियं दोष-वशाद् उपलब्धम् इति घटादिकम् अपि नावगमयति, अतो विदित-पद-पदार्थ-सङ्गतेः श्रोतुस् सहसैव शब्दो ऽर्थम् अवबोधयति मूल-ज्ञानं न प्रतीक्षते ।
-[^1]: अत्र मन्त्र-प्रतिहति-दशायाम् इति युक्तः पाठो ऽथवा हत-शब्दे भावे क्त-प्रत्यय इत्य् अनुसंधेयम् ।
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+4 Cf. ibid. II. 38-40, p. 16- 
+
+> ' किन्त्वज्ञातेऽपि शब्दार्थे  
+पदजाते श्रुते सति ।  
+विमर्शो जायते श्रोतुर्  
+ईदृशो मतिशालिनः ॥  
+अन्योन्यान्वययोग्यार्थ-  
+पदजातं ब्रवीत्ययम् ।  
+आप्तस् तेनामुना नूनं  
+ज्ञातस्तेषां समन्वयः ॥  
+न कदाचिद् असम्बद्धान्  
+अर्थानेष विवक्षति ।  
+न वाऽप्रतीत-सम्बन्धान्  
+इति दोषो न कश्चन ॥ " 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एवम् अन्वय-ज्ञाने ऽनुमिते  
+तद्-उपदर्शितो ऽर्थो न शब्दम् आकाङ्क्षति, 
+</details>
+
+<details><summary>English</summary>
+
+If the knowledge of connection is thus inferred, the meaning discovered by the listener does not require the authority of verbal testimony. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवम् अन्वय-ज्ञाने ऽनुमिते तद्-उपदर्शितो ऽर्थो न शब्दम् आकाङ्क्षति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अतो लौकिकस्य वचसो वक्त्र्-अनुभव--पर-तन्त्रतया  
+तत्रैव पर्यवसानम् 
+
+इति ।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+> Consequently, since ordinary language statements are dependent on the speaker's cognition; they terminate in that cognition through Inference alone.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो लौकिकस्य वचसो वक्त्र्-अनुभव-परतन्त्रतया तत्रैव पर्यवसानम् इति ।
+</details>
+
+#### शब्द-शक्तिर् अप्रतिहतैकत्र दोषेऽपि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् असत्,  
+न हि  
+स्वभावतो ऽर्थम् अवगमयन् शब्दः  
+
+> "क्वचिद् वक्त्र्-आशय-दोष-वशीकाराद् वितथ"  
+
+इत्य् अन्यत्रापि तत्-संभावनया स्वारसिकीम् अर्थावबोधकताम् उज्झितुम् अर्हति, 
+</details>
+
+<details><summary>English</summary>
+
+73\. REFUTATION. This view is not correct;  
+for a word conveys its right meaning as its natural function, and the observation that in one case the statement happened to be untrue under the influence of defects in the speaker's character should not give rise to a general suspicion which would cause all statement to give up its natural capacity of conveying its meaning.149 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद् असत्, न हि स्वभावतो ऽर्थम् अवगमयन् शब्दः  
+क्वचिद् वक्त्राशय-दोष-वशीकाराद् वितथ इत्य् अन्यत्रापि तत्-संभावनया स्वारसिकीम् अर्थावबोधकताम् उज्झितुम् अर्हति, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि "मन्त्र-प्रतिहत-दशायां हुतवहो न दहती"त्य्  
+अन्यत्रापि तादृश-दशा-शङ्क्या न दहति, +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+The suspicion that a fire may not burn in other cases  
+because in one case, when obstructed by mantras, it fails to burn, does not make fire fail to burn! 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि मन्त्र-प्रतिहत-दशायां हुतवहो न दहतीत्य् अन्यत्रापि तादृश-दशा-शङ्क्या न दहति, 
+</details>
+
+<details><summary>राममिश्रः</summary>
+
+अत्र मन्त्र-प्रतिहति-दशायाम् इति युक्तः पाठो  
+ऽथवा हत-शब्दे भावे क्त-प्रत्यय इत्य् अनुसंधेयम् ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि 
+
+> शुक्ति-रजत-धियम् अर्थ-व्यभिचारिणीम् इन्द्रियं दोष-वशाद् उपलब्धम् 
+
+इति घटादिकम् अपि नावगमयति, 
+</details>
+
+<details><summary>English</summary>
+
+And the fact that the sense of vision may give rise to a cognition which does not correspond to reality-e.g. that nacre is silver-as the result of some optical error does not signify that the visual sense cannot produce true cognition of the visible presence of a pitcher etc. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नापि शुक्ति-रजत-धियम् अर्थ-व्यभिचारिणीम् इन्द्रियं दोष-वशाद् उपलब्धम् इति घटादिकम् अपि नावगमयति, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो विदित-पद-पदार्थ-सङ्गतेः  
+श्रोतुस् सहसैव शब्दो ऽर्थम् अवबोधयति  
+मूल-ज्ञानं न प्रतीक्षते ।
+</details>
+
+<details><summary>English</summary>
+
+Therefore, a statement does indeed instantly convey a certain meaning to the listener if he knows the relation between the words and their meanings. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो विदित-पद-पदार्थ-सङ्गतेः श्रोतुस् सहसैव शब्दो ऽर्थम् अवबोधयति मूल-ज्ञानं न प्रतीक्षते ।
+</details>
+
+#### मूल-ज्ञानापर्याप्तता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मूल-ज्ञान-परिज्ञानाद्  
+अर्वाग् अर्थे ऽपि चोदिते ।  
+"कथम् एवम् अयं वेद"  
+इत्य् अनुमानं प्रवर्तते ॥
+</details>
+
+<details><summary>English</summary>
+
+It does not require knowledge of the basis. Before there is complete knowledge on the part of the listener about the basic knowledge of the speaker, and, further, when the meaning has been expressed, the question rises: "How does he know this?" and Inference proceeds to resolve that question. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 मूल-ज्ञान-परिज्ञानाद् अर्वाग् अर्थे ऽपि चोदिते ।  
 कथम् एवम् अयं वेद इत्य् अनुमानं प्रवर्तते ॥
+</details>
 
-किम् अज्ञासीद् अयम् वक्ता किञ्चिद् इत्य् अनुमित्समे ।  
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "किम् **अज्ञासीद्** अयम् वक्ता  
+किञ्चिद्" इत्य् **अनुमित्ससे** ।  
+विशिष्टार्थान्वय-ज्ञानम्  
+**अनुमातुम् अथेच्छसि** ॥
+</details>
+
+<details><summary>English</summary>
+
+You want to infer: "Did the speaker know something?" or wish to infer his knowledge of the connection of the different meanings. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किम् अज्ञासीद् अयम् वक्ता किञ्चिद् इत्य् अनुमित्ससे ।  
 विशिष्टार्थान्वय-ज्ञानम् अनुमातुम् अथेच्छसि ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**न** तावद् अयम् **अज्ञासीद्**  
+वक्ता किञ्चिद् इतीयता ।  
+व्याहार-व्यवहारौ वा  
+स्यातां वाक्यार्थ-गोचरौ +++(वक्ष्यमाण-रीत्या)+++॥
+</details>
+
+<details><summary>English</summary>
+
+But the mere knowledge that the speaker knew something is not enough for utterance and action concerning a statement-meaning to proceed. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 न तावद् अयम् अज्ञासीद् वक्ता किञ्चिद् इतीयता ।  
 व्याहार-व्यवहारौ वा स्यातां वाक्यार्थ-गोचरौ ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विशिष्टार्थान्वय-गोचर-चेतो ऽनुमानन् तु  
+प्रथमतर-प्रवृत्त--तद्-विषय-शेमुषीम् अन्तरेणानुपपन्नम्  
+
+इति प्रागेव शब्दार्थोऽवगन्तव्यः, 
+</details>
+
+<details><summary>English</summary>
+
+Inference of a cognition concerning the connection of different meanings is impossible without a prior cognition of such a connection.  
+
+This being so, the meaning of the statement must be known first. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+विशिष्टार्थान्वयगोचरचेतोऽनुमानन्तु प्रथमतरप्रवृत्ततद्विषयशेमुषीमन्तरेणानुपपन्नमिति प्रागेव शब्दार्थोऽवगन्तव्यः, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् अनासादित-विषय-विशेष-संसर्गाः संविदः  
+परस्-परतो व्यतिभिद्यन्ते ।  
+</details>
+
+<details><summary>English</summary>
+
+For cognitions whose particular objects are not connected, are not ~~connected~~ separated themselves. 
+</details>
 
 
-विशिष्टार्थान्वयगोचरचेतोऽनुमानन्तु प्रथमतरप्रवृत्ततद्विषयशेमुषीमन्तरेणानुपपन्नमिति प्रागेव शब्दार्थोऽवगन्तव्यः, न ह्यनासादितविषयविशेषसंसर्गाः संविदः परस्परतो व्यतिभिद्यन्ते ।  
-न च तथाऽनुमिताभिरर्थविशेषः सिध्यति यादृशान्वयप्रतिपादनयोग्या पदरचना सा तदन्वयज्ञानमापादयतीति चेत्, अवगतस्तर्हि प्रागेवार्थानामन्वयः, न हि बुद्धावनारोपित एवान्वयः प्रयोगं व्यवच्छिनत्ति,
+<details><summary>मूलम्</summary>
 
-### उपसंहारः
-तस्मादस्ति नदीतीरे फलमित्येवमादिषु ।  
-या सिद्धविषया बुद्धि सा शाब्दी नानुमानिकी ॥  
-ततश्च अपूर्वकार्यगोचर एव शब्दः प्रमाणमिति ।  
-स्वसिन्धान्तचिराभ्यासव्या (व्यामुग्धाबलबुद्धिभिरिति पाठस्तु न युक्त इति मन्यामहे ।) मुग्धबलबिद्धिभिः ॥  
-उक्तमुक्तेन मार्गेण युक्ताऽन्यत्रापि शक्तता ॥
+न ह्यनासादितविषयविशेषसंसर्गाः संविदः परस्परतो व्यतिभिद्यन्ते ।  
+</details>
+ 
 
-ततश्च यान्येतानि विलक्षणपुरुषप्रतिपादकानि वेदान्तवचांसि स एष सर्वाध्पतिः सर्वस्येशानः सर्वमिदं प्रशास्ति तस्याध्यक्षमिदं सर्वम् इत्यादीनि तान्यपि तत्र प्रमाणं तद्विषयासंदिग्धाविपर्ययज्ञानहेतुत्वात् ।  
-न च परिनिष्ठितवस्तुनि साधकबाधकयोरन्यतरोपनिपातसंभावनाभावितानुवादविपर्ययपर्यालोचनया तद्गोचरवचसां प्रामाण्यप्रच्युतिः, कार्यगोचराणामपि तत्प्रसङ्गात्, कार्यमपि मानान्तरवेद्यमेव समिदाहरणादि, तच्च मानान्तरेणापि वेद्यमोदनपाकवदित्यभ्युपगमात् ।  
-अथ विलक्षणाग्निहोत्रादिविषयकार्यस्यासंभावितमानान्तरतया तत्प्रतिपादयद्वचः प्रमाणम्,  हन्त तर्हि निरतिशयावबोधैश्वर्यमहानन्दसंदोहवपुषि भगवति न मानान्तरसंबन्धगन्ध इति सर्वं समानमन्यत्राभिनिवेशात् ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च तथा ऽनुमिताभिर् अर्थ-विशेषः सिध्यति, 
+</details>
+
+<details><summary>English</summary>
+
+Nor is a particular meaning established by cognitions that are inferred to be such. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च तथा ऽनुमिताभिर् अर्थ-विशेषः सिध्यति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यादृशान्वय-प्रतिपादन-योग्या पद-रचना  
+सा तद्-अन्वय-ज्ञानम् आपादयति
+
+इति चेत्,  
+अवगतस् तर्हि प्राग् एवार्थानाम् अन्वयः, 
+</details>
+
+<details><summary>English</summary>
+
+If you say that 
+
+> any word combination which is able to convey a certain connection produces knowledge of just this connection, 
+
+I maintain that the connection of the particular meanings must be known previously; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यादृशान्वय-प्रतिपादन-योग्या पद-रचना सा तद्-अन्वय-ज्ञानम् आपादयतीति चेत्, अवगतस् तर्हि प्राग् एवार्थानाम् अन्वयः, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि बुद्धाव् अनारोपित एवान्वयः प्रयोगं व्यवच्छिनत्ति,
+</details>
+
+<details><summary>English</summary>
+
+unless a connection has already reached the level of cognition it cannot give rise to being expressed in a statement.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि बुद्धाव् अनारोपित एवान्वयः प्रयोगं व्यवच्छिनत्ति,
+</details>
+
+
+
+#### उपसंहारः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद् अस्ति नदी-तीरे  
+फलम् इत्य्-एवम्-आदिषु ।  
+या सिद्ध-विषया बुद्धिः  
+सा शाब्दी नानुमानिकी ॥
+</details>
+
+<details><summary>English</summary>
+
+74\. To conclude, the cognition of an established fact in statements like "there is a fruit on the riverbank" is strictly of verbal origin and does not arise from Inference.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्माद् अस्ति नदी-तीरे फलम् इत्य्-एवम्-आदिषु ।  
+या सिद्ध-विषया बुद्धिः सा शाब्दी नानुमानिकी ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश् च "अपूर्व-कार्य-गोचर एव शब्दः प्रमाणम्" इति -  
+</details>
+
+<details><summary>English</summary>
+
+Therefore the position that statements produce valid knowledge only if they deal with a previously unknown kārya 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततश् च अपूर्व-कार्य-गोचर एव शब्दः प्रमाणम् इति ।  
+</details>
+ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-सिन्धान्त-चिराभ्यास-  
+व्यामुग्ध-बल-बिद्धिभिः ॥
+उक्तम्, उक्तेन मार्गेण  
+युक्ता ऽन्यत्रापि शक्तता ॥
+</details>
+
+<details><summary>English</summary>
+
+is taken only by people whose judgments are stultified by their continuous preoccupation with their own theories.  
+In the manner set forth above  
+it is true that statements may bear meaningfully and informatively on other meanings as well. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्व-सिन्धान्त-चिराभ्यास-व्यामुग्ध-बल-बिद्धिभिः ॥
+उक्तम् उक्तेन मार्गेण युक्ता ऽन्यत्रापि शक्तता ॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+व्यामुग्धाबलबुद्धिभिरिति पाठस्तु न युक्त इति मन्यामहे ।
+</details>
+
+
+## वेदान्त-प्रामाण्यम्
+ततश् च यान्य् एतानि विलक्षण-पुरुष-प्रतिपादकानि वेदान्त-वचांसि "स एष सर्वाधिपतिः", "सर्वस्येशानः", "सर्वम् इदं प्रशास्ति", "तस्याध्यक्षम् इदं सर्वम्" इत्यादीनि, तान्य् अपि तत्र प्रमाणं तद्-विषयासंदिग्धाविपर्यय-ज्ञान-हेतुत्वात् । न च परिनिष्ठित-वस्तुनि साधक-बाधकयोर् अन्यतरोपनिपात-संभावना-भावितानुवाद-विपर्यय-पर्यालोचनया तद्-गोचर-वचसां प्रामाण्य-प्रच्युतिः, कार्य-गोचराणाम् अपि तत्-प्रसङ्गात्, कार्यम् अपि मानान्तर-वेद्यम् एव समिद्-आहरणादि, तच् च मानान्तरेणापि वेद्यम् ओदन-पाक-वद् इत्य् अभ्युपगमात् । अथ विलक्षणाग्निहोत्रादि-विषय-कार्यस्यासंभावित-मानान्तरतया तत्-प्रतिपादयद् वचः प्रमाणम्, हन्त तर्हि निरतिशयावबोधैश्वर्य-महानन्द-संदोह-वपुषि भगवति न मानान्तर-संबन्ध-गन्ध इति सर्वं समानम् अन्यत्राभिनिवेशात् ।
+
 अपि च ।  
-प्रमाणान्तरदृष्टार्थविषयिण्यपि शेमुषी ।  
-प्रमाणमेव तत्पूर्वं न चेत्स्वार्थं विगाहते ॥  
-तस्य संभावनामात्रादप्रामाण्यमलौकिकम् ।  
-तस्मात्परिनिष्ठितानिष्ठेयादिभेदशून्यमसन्दिग्धाविपर्यस्त् अविज्ञानं प्रमाणमेष्टव्यम्, अत इदमपास्तम् ।  
+प्रमाणान्तर-दृष्टार्थ-विषयिण्य् अपि शेमुषी ।  
+प्रमाणम् एव तत्-पूर्वं न चेत् स्वार्थं विगाहते ॥
+
+तस्य संभावना-मात्राद् अप्रामाण्यम् अलौकिकम् । तस्मात् परिनिष्ठितानिष्ठेयादि-भेद-शून्यम् असंदिग्धाविपर्यस्ताविज्ञानं प्रमाणम् एष्टव्यम्, अत इदम् अपास्तम् ।
 
 ## सार्वज्ञ्यम्
 प्रसिद्धैः करणैरेव सार्वज्ञ्यं नान्यथेति यत् ।  
