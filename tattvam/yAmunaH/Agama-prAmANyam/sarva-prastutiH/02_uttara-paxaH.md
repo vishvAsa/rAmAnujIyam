@@ -2108,18 +2108,75 @@ for that would entail over-extension.
 Yamuna here attacks the theory advanced by the Prabhakaras that the words uttered by human beings gain validity only on inferential evidence because those beings are liable to defects. 
 </details>
 
+### अपूर्वे शक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योऽपि मन्यते 
 
 > लोके क्रिया-कार्ये व्युत्पन्न-शब्दः  
-फल-पद-समभिव्याहार--बल-प्रतिलब्ध--तत्-साधन-भाव-भङ्गुर-यागादि-धात्वर्थोत्तीर्णापूर्व-कार्याभिधान-शक्तिर् वेदे मोदते, लोके तु सं-मुग्धेनापि[1] व्यवहारोपपत्तेर् न शब्दार्थ-तत्त्वावधारणम् आद्रियते इति ।
-(सममुग्धेनेति पा.)
+
 </details>
+
+<details><summary>English</summary>
+
+[[54]]
+
+> 66\. OBJECTION. My position is this.  
+In ordinary language a statement is understood to have its proper signification  
+when it bears on a kārya that is to be accomplished with a certain action.  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-योऽपि मन्यते लोके क्रिया-कार्ये व्युत्पन्न-शब्दः फल-पद-समभिव्याहार-बल-प्रतिलब्ध-तत्-साधन-भाव-भङ्गुर-यागादि-धात्वर्थोत्तीर्णापूर्व-कार्याभिधान-शक्तिर् वेदे मोदते, लोके तु सं-मुग्धेनापि[1] व्यवहारोपपत्तेर् न शब्दार्थ-तत्त्वावधारणम् आद्रियते इति ।
+योऽपि मन्यते 
+
+> लोके क्रिया-कार्ये व्युत्पन्न-शब्दः  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> फल-पद-समभिव्याहार--बल-प्रतिलब्ध-- तत्-साधन-भाव-भङ्गुर-यागादि-धात्व्-अर्थोत्तीर्ण-  +अपूर्व-कार्याभिधान-शक्तिर् वेदे मोदते,  
+</details>
+
+<details><summary>English</summary>
+
+> In Vedic language a statement enjoys a special power of denotation  
+which transcends the transitory root-sense of the word "sacrificing ",  
+and it has this power of denotation  
+because it is the means of realizing a certain fruit  
+and acquires this power on account of the collocation of words describing this fruit;  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> फल-पद-समभिव्याहार--बल-प्रतिलब्ध-- तत्-साधन-भाव-भङ्गुर-यागादि- धात्व्-अर्थोत्तीर्णापूर्व-कार्याभिधान-शक्तिर् वेदे मोदते,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> लोके तु सं-मुग्धेनापि[1] व्यवहारोपपत्तेर्  
+न शब्दार्थ-तत्त्वावधारणम् आद्रियते 
+
+इति -
+</details>
+
+<details><summary>English</summary>
+
+> whereas in ordinary language,  
+since there verbal exchange is possible also to the unsophisticated,  
+this determination of the nature of word and meaning is not attended to.139
+
+139: read na hi kriyākārye vyutpannaḥ sthāyi kāryam.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+लोके तु सं-मुग्धेनापि[1] व्यवहारोपपत्तेर् न शब्दार्थ-तत्त्वावधारणम् आद्रियते इति ।
 (सममुग्धेनेति पा.)
 </details>
 
