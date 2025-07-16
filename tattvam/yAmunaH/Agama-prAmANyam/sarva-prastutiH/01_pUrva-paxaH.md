@@ -852,7 +852,7 @@ because no such relation can be (determined) ~~verified by Perception~~,
 एवं तन्-मूलागमोऽपि तत एव नानुमातुं शक्यः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 just so, no scriptural authority to furnish the basis of such a relation  
 can be inferred from Scripture. 

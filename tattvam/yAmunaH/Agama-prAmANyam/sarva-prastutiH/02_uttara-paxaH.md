@@ -1434,7 +1434,7 @@ amongst the many different grounds that may occur according to past, present and
 (तद्-अनन्तर-संजात--जात-कर्मावबोधतः ।  )
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 (A young boy, who wants to understand the meaning of speech, immediately upon hearing the same statement  
 receives knowledge that a birth ceremony is being held. )
@@ -1554,7 +1554,7 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 अति प्रसङ्गात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[51]]
 
@@ -1573,7 +1573,7 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 > न च जात-कर्म-कर्तव्यताऽवगतिर् नियमेन प्रियार्थावगम-पुरस्सरी, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > Nor does the realization that a birth ceremony is to be held follow invariably upon the knowledge of an agreeable meaning; 
 </details>
@@ -1588,7 +1588,7 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 > दृश्यते हि कुटुम्ब-भरणायास-विदूयमान-मनसो ऽप्रीति-पूर्विकापि तत्-कर्तव्यतावगतिः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > for we find also that the same realization follows upon a feeling of distress, namely when the informed father is vexed by the trouble of maintaining his family.132
 
@@ -1608,7 +1608,7 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 गव्-आनयनादि-कर्तव्यताऽवगतिः शब्द-कारणिका ऽभ्युपेयते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION. Don't we find that the realization of a kārya is caused by a verbal statement, so that we can agree that, for example, the realization that a cow is to be fetched following a statement "Fetch the cow" is indeed caused by that statement? 
 </details>
@@ -1630,7 +1630,7 @@ REFUTATION. Don't we find that the realization of a kārya is caused by a verbal
 समानोऽयं विधिर् इतरत्रापि।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 When you say that, since this realization cannot occur without a cause therefore the proximate statement must in that case be the cause of the realization, then I maintain that the same holds also in the case of "A son is born."
 </details>
@@ -1650,7 +1650,7 @@ When you say that, since this realization cannot occur without a cause therefore
 हैतुकी साऽवसीयते +++(प्रतिपक्षिणा)+++॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 It has been decided by our opponent that the verbal denotation of a meaning which causes an action to be taken is a result of the inclusion in the statement of a liṅādi suffix.133 
 
@@ -1670,7 +1670,7 @@ It has been decided by our opponent that the verbal denotation of a meaning whic
 यश् च कार्य-परताम् एवाखिल-पदानाम् आतिष्ठते, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 He who maintains that all words only bear meaningfully on kārya, 
 </details>
@@ -1686,7 +1686,7 @@ He who maintains that all words only bear meaningfully on kārya,
 तेनाप्य्-आवापोद्धार-विनिर्धारितासंसृष्ट-शरीराणाम् एव गवाश्वादीनां तत्-पदार्थता समर्थनीया, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 maintains in effect that padārthas134 exist only in kārya statements and that e.g. in the case of cows, horses and the like, which are related to bodies, their being a padārtha is ascertained by the inclusion or exclusion of the words denoting them in a statement concerning kārya. 
 
@@ -1709,13 +1709,13 @@ maintains in effect that padārthas134 exist only in kārya statements and that 
 अन्यान्विताभिधानेनापि व्यवहारोपपत्तेः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If he says, indeed, whenever their being a padārtha is significantly construed, it is construed just as connected with kārya, we reply,  
 Stop being obstinate; for verbal exchange is also possible through denotation of words that are connected with other things than kāryas.135
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>Buitenen - Note</summary>
 
 135: Yāmuna's argument is that the injunctive, etc. terminations of the verb denote the injunction as their thing-meant (padārtha); but what makes this injunction 'meaningful' is not that it is an injunction,  
 but that it is connected with someone who is qualified to accept the injunction,  
@@ -1740,7 +1740,7 @@ namely, that somebody who has this desire is prepared to do something about it.
 अन्यथा दुर्-वचं यतः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 63\. It is necessary to accept the position that words are denotative of connected meanings, for otherwise it would be impossible to explain that they are denotative of meanings connected with kāryas. 
 </details>
@@ -1771,7 +1771,7 @@ and those factors need not necessarily be ‘kārya’.
 इति - लिङ्-आदिषु व्यभिचारात्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The definition 'the thing meant by a word is always connected with a kārya' fails to cover the defined topic completely;  
 for it does not apply in the case of injunctive suffixes, 
@@ -1796,7 +1796,7 @@ he says that it goes astray in the instance of ‘liṅ’ the optative itself.
 लिङ्-आदयो हि +++(स्वर्गकामना याजके←)+++ परिनिष्ठिताधिकाराद्य्-अनुबन्ध-संबन्धिनम् एव स्वार्थम् अभिदधति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 since these suffixes denote their own meanings as connected, not with kārya, but with consequences of already established facts, such as proper qualification on the part of the person enjoined etc. 
 </details>
@@ -1826,13 +1826,13 @@ Even the ‘liṅ’-suffix is found to depend upon a host of factors like the q
 तद्-अर्द्धजरतीयम्, ततो वरं सर्वत्रान्विताभिधानम् एवाश्रीयताम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Or if it is said that in their case there is denotation of connected meanings and in the other case denotation of meanings connected with kārya, we reply that this is a neither old nor young, argument;136  
 it is more appropriate simply to accept the view that there is denotation of connected meanings in general.
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>Buitenen - Note</summary>
 
 136: ardhajaratī is a half-old woman; the ardhajaratīyanyāya is used to indicate that the opponent wants to have it both ways and that consequently his argument, like a half-old and half-young woman, is useless either way.  
 </details>
@@ -1868,7 +1868,7 @@ Also cf. *Bhuvaneśvarīlalaukikanyāyasāhasrī*, p. 104: “ यत्र स
 **आस्थेया** सर्व-वादिभिः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 64\. Therefore, the adherents of all schools should accept that words have proper denotation for the meanings they denote because these meanings are connected with other meanings that are required to complete the sense of the statement, are closely collocated and are appropriate. 
 </details>
@@ -1900,13 +1900,13 @@ even so
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Even if the denoting power of language were to be understood only through its proper signification in kārya statements alone,137  
 even so 
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>Buitenen - Note</summary>
 
 137: Miśra's text here has pady api prartly anu papattisamadhigamaniyaiva śabdaśaktis "the denoting power of language is to be known only through the impossibility of operation," which makes no sense. The reading must be corrupt, in anu papatti we may find a corruption of vyutpatti, in pravṛtti perhaps a corruption of kāryārthe or kāryārtha-. I read conjecturally kāryārthe vyutpatti-samadhigamanīyaiva, which gives the required sense.  
 </details>
@@ -1931,7 +1931,7 @@ even so
 प्रयोक्त्र्-आकाश-देशवत् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 it is correct when we decide the denotation of language to take the standpoint that kārya is just one of the inessential factors of denotation, like the identity of the speaker, the extent of space in which a statement can be heard etc. 
 </details>
@@ -1961,7 +1961,7 @@ it is correct when we decide the denotation of language to take the standpoint t
 पयः-प्रतरणादिवत् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The logicians hold the view that the meaning of a language statement cannot be known except by language statement.138 Consequently, there exists no inherent relationship with kārya as cause of denotation in uses of words that have their proper signification,  
 just as is the case with floating precious stones on water. 
@@ -1989,7 +1989,7 @@ The quality of gems is tested by putting them in water. If they float, that is a
 न व्युत्पन्न-दशायाम् उपयोगः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Just as this floating, however helpful it may be to determine the identity of certain diamonds, e.g. the brahmin diamond, serves no purpose when a stone is being transacted which has already been properly identified, similarly the kārya, however helpful to understand the proper signification of a word, serves no purpose once its proper signification has been identified.
 </details>
@@ -2012,7 +2012,7 @@ For a classification of gems as 'male' and 'female, see Ratnadipikā of Candeśv
 यदि च कार्यान्वितम् एवार्थं शब्दाः प्रतिपादयन्ति कथं तेभ्यः परिनिष्ठित-नदी-तीर-फलादिसंसर्गावगमः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[53]]
 
@@ -2033,7 +2033,7 @@ For a classification of gems as 'male' and 'female, see Ratnadipikā of Candeśv
 इति चेत् क्व वा शब्दानां मुख्य-प्रयोगः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If you say that a statement of such a substantive relation does not denote the relation it states through its primary sense, but through secondary sense, then, we may ask, where do statements then have their primary sense? 
 </details>
@@ -2053,7 +2053,7 @@ If you say that a statement of such a substantive relation does not denote the r
 तत्राव्युत्पन्नत्वेन प्रयोगानुपपत्तेः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If you answer 
 
@@ -2062,7 +2062,7 @@ If you answer
 we reply: no, for then no use of words would be possible, since their meaning would not yet have been identified. 
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>Buitenen - Note</summary>
 
 138: This holds for those statements which are not verifiable by other means of knowledge, for if they are verifiable, they are no means of knowledge in their own right.  
 </details>
@@ -2088,7 +2088,7 @@ we reply: no, for then no use of words would be possible, since their meaning wo
 प्रत्ययोऽतिप्रसङ्गतः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Naturally there can be no knowledge of the meaning of a word  
 when that word denotes a meaning not previously known through other means of knowledge,  
@@ -2117,7 +2117,7 @@ Yamuna here attacks the theory advanced by the Prabhakaras that the words uttere
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[54]]
 
@@ -2140,7 +2140,7 @@ when it bears on a kārya that is to be accomplished with a certain action.
 > +++(शब्दः)+++ फल-पद-समभिव्याहार--बल-प्रतिलब्ध-- तत्-साधन-भाव-भङ्गुर-यागादि-धात्व्-अर्थोत्तीर्ण-  +अपूर्व+++(-रूप)+++-कार्याभिधान-शक्तिर् वेदे मोदते,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > In Vedic language a statement enjoys a special power of denotation  
 which transcends the transitory root-sense of the word "sacrificing ",  
@@ -2174,7 +2174,7 @@ X ' फलपदं' फल-वाचकं स्वर्ग-कामाद�
 इति -
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > whereas in ordinary language,  
 since there verbal exchange is possible also to the unsophisticated,  
@@ -2204,7 +2204,7 @@ Cf. Prakaranapañcikā V. p. 95:
 तस्यापीदं मनोरथ-मात्रम्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION. This position is just wishful thinking; 
 </details>
@@ -2222,7 +2222,7 @@ REFUTATION. This position is just wishful thinking;
 स्थायि+++(-अपूर्व-रूप)+++-कार्यं प्रतिपादयति - अति-प्रसङ्गात् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 for a language statement,  
 even if understood in your way as bearing meaningfully only on a kārya to be accomplished with an action,  
@@ -2233,7 +2233,7 @@ since that would mean over-extension.
 
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>Buitenen - Note</summary>
 
 140: a?? sthāyi; the Prābhākara view is that the kārya has a lasting efficacy  
 beyond the inevitably transient action it involves;  
@@ -2268,7 +2268,7 @@ But he will deny the entire construction (67).
 ऽन्वयावगतिर् +++('स्वर्गकाम'पदस्य)+++ नोपपद्यते, मोपपादि। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If we cannot know the true connection of words  
 even when the usage of our elders,  
@@ -2294,7 +2294,7 @@ then we can never know their connection!
 कॢप्त-शक्ति-परित्यागेन शब्द-शक्त्य्-अन्तरं भजते । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If a language statement has lost its postulated true denoting power  
 because it is impossible,  
@@ -2312,7 +2312,7 @@ it does not thereby acquire another denoting power.
 कामं लक्षणाऽश्रीयताम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 In such cases we surely must assume lakṣaṇā. 
 </details>
@@ -2329,7 +2329,7 @@ In such cases we surely must assume lakṣaṇā.
 सर्व-शब्दार्थेष्व् अनाश्वास-प्रसङ्गात् ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For when certain words are collocated that have incompatible meanings, these words do not therefore denote something else altogether, for then all word meanings would become unreliable.
 </details>
@@ -2353,7 +2353,7 @@ For when certain words are collocated that have incompatible meanings, these wor
 सिद्ध्यै तावद् उपेयते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 67\. Besides, we do not admit that the fact that a word has the power to communicate a kārya that is not previously known through other means of knowledge proves that there actually exists a relationship between itself and the fruit of the action it enjoins. 
 </details>
@@ -2384,7 +2384,7 @@ For when certain words are collocated that have incompatible meanings, these wor
 स +++(कर्म-फल-सङ्गमः)+++ च तस्माद् +++(कर्म-फल-सम्बन्धात्)+++ ऋते न हि ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The only relation proved of it is that with injunction, not with instrumentality.  
 That in a statement there subsists a relation with a kārya  
@@ -2414,7 +2414,7 @@ cannot be proved except by the relation of kārya with the fruit of the act, and
 ततश् च दुरुत्तरम् इतरेतराश्रयणम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And therefore there is a vicious interdependence that cannot be refuted. 
 </details>
@@ -2446,7 +2446,7 @@ And therefore there is a vicious interdependence that cannot be refuted.
 **साधनं न** भवेद् विधिः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If there is no factor which activates the person who, according to the injunction, is specified by the heaven that is to be achieved,  
 the injunction itself cannot be the means of achieving the desired heaven. 
@@ -2470,13 +2470,13 @@ the injunction itself cannot be the means of achieving the desired heaven.
 बोधकत्वं यद् उच्यते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The root-sense of the words being transitory, the statement itself cannot function as this means.141  
 Therefore the assertion that a language statement communicates as its proper meaning a kārya which exceeds this transitory root-sense, cannot be correct. 
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>Buitenen - Note</summary>
 
 141: This is the Prābhākara view, which holds that in the injunction (niyoga) svargakāmo  
 yajeta the sādhya (object to be realized) is not svarga,  
@@ -2500,7 +2500,7 @@ so that the statement of the injunction would become the means (sādhana) to rea
 पुरुषो ऽत्र नियुज्यते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 A person is not specified by heaven as the object to be achieved,142 but it is the person who desires heaven who is enjoined upon to accomplish the act.   
 
@@ -2524,7 +2524,7 @@ A person is not specified by heaven as the object to be achieved,142 but it is t
 न हि स्वर्गोऽधिकारिविशेषणं साध्यत्वात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Heaven can not be the specification of the person's qualification, because heaven is yet to be achieved. 
 </details>
@@ -2543,7 +2543,7 @@ Heaven can not be the specification of the person's qualification, because heave
 कामनैव विशेषणम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Only something that has already been achieved, that actually exists, can specify the person upon whom an act is enjoined, for instance, the real fact of his being alive etc. Consequently only his desire can specify his qualification for the act.
 </details>
@@ -2573,7 +2573,7 @@ Only something that has already been achieved, that actually exists, can specify
 कीदृशं साध्यत्वम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[55]]
 
@@ -2595,7 +2595,7 @@ Only something that has already been achieved, that actually exists, can specify
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 [[56]]
 
@@ -2605,7 +2605,7 @@ since it cannot become siddha in the meantime.143
 </details>
 
 
-<details><summary>English - Note</summary>
+<details><summary>Buitenen - Note</summary>
 
 143: Nothing can become a fact (siddha) as long as it is still to be made a fact (sādhya) by a "factualizing" means (sādhana);  
 thus as long as it is related with such a means it cannot be a fact.  
@@ -2626,7 +2626,7 @@ thus as long as it is related with such a means it cannot be a fact.
 अन्योऽन्याश्रयणं ध्रुवम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The only authority that exists for heaven becoming siddha in the end is the injunction itself, while the only authority for the injunction is just this that heaven does become siddha. This is plainly a vicious circle. 
 </details>
@@ -2694,7 +2694,7 @@ these actions, which are devoted simply to some material result, though a part o
 वाक्ये सम्बन्धम् अर्हति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If heaven is the sādhya, the injunction is not the sādhya. It is not possible to combine two sādhyas in one sentence.144
 
@@ -2716,7 +2716,7 @@ If heaven is the sādhya, the injunction is not the sādhya. It is not possible 
 नानुगुणम्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > 69\. OBJECTION. Indeed, the unity of a sentence is broken up when it contains two sādhyas that are independent, but not when the two are interdependent. 
 </details>
@@ -2732,7 +2732,7 @@ If heaven is the sādhya, the injunction is not the sādhya. It is not possible 
 नियोग-सिद्धिनान्तरीयकत्वात् स्वर्ग-सिद्धेः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And here the two sādhyas are interdependent since the realization of heaven is contained in the realization of the injunction. 
 </details>
@@ -2754,7 +2754,7 @@ And here the two sādhyas are interdependent since the realization of heaven is 
 इति चेत् — 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > That is what the Author says: "When the niyoga is realized, everything else in accordance with it is also realized;" and: "Why should the realization of the fruit not be held to be subservient to the realization of the injunction?"145 Therefore there is no conflict here.
 
@@ -2786,7 +2786,7 @@ REFUTATION. No;
 When heaven is not realized, what of the injunction can not be realized? Neither the qualification, nor the object, nor anything else required by the injunction is not realized.
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 REFUTATION. No; 
 
@@ -2814,7 +2814,7 @@ REFUTATION. No;
 नित्येष्व् इव नियुज्यते । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 
 70\. ~~OBJECTION.~~ In the case of the qualifications for periodical rites the injunction does not require the 'realization of any fruit.'146   
@@ -2848,7 +2848,7 @@ as he is enjoined upon to perform the periodical acts.
 यथा अनिच्छन्तम् अपि नित्ये कर्मणि निष्फले प्रवर्तयति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For the injunction draws unto itself the desirous person who himself thinks that the heaven which he desires is the principal object, in the same way as the injunction to perform the periodical acts activates a person, even though he does not desire anything, to these acts which bear no fruit at all. 
 </details>
@@ -2868,7 +2868,7 @@ For the injunction draws unto itself the desirous person who himself thinks that
 न च ते स्वर्ग-सिद्ध्यर्था यागः किं नैवम् +++(निमेषोन्मेषवत्)+++ इष्यते ॥ +++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Besides, a person who is desirous of heaven also opens and shuts his eyes; for you these actions do not subserve his realization of heaven. Why not consider the sacrificing an action of the same kind? 
 </details>
@@ -2891,7 +2891,7 @@ Besides, a person who is desirous of heaven also opens and shuts his eyes; for y
 ग्राह्या विधि-बहिष्कृताः? ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > There are some who do not accept that it is a means of realizing heaven. [[57]]
 
@@ -2914,7 +2914,7 @@ Besides, a person who is desirous of heaven also opens and shuts his eyes; for y
 नैष्फल्यं सर्व-कर्मणाम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 On this point: When the injunction does not mean to convey a relation between the object to be realized and the means of realizing it, then all acts are fruitless. 
 </details>
@@ -2935,7 +2935,7 @@ On this point: When the injunction does not mean to convey a relation between th
 ततो रागतः प्रवृत्तिर् इत्य् एव युक्तम्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Therefore, it is sound to maintain that  
 from the injunctive suffixes  
@@ -2956,7 +2956,7 @@ and that subsequently the desire for this object prompts a person to undertake t
 "तद् अपूर्व-कार्याभिधान एव मुख्या शक्तिः, इतरत्र लाक्षणिकी"त्य् अनुपपन्नम्, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 But it is improper to maintain that  
 
@@ -2980,7 +2980,7 @@ and that
 अत एव यथा-यथं लौकिक-शब्देभ्यस् तत्-सिद्धार्थ-गोचरा बुद्धयो जायन्ते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 We conclude that ordinary, non-Vedic statements give rise to cognitions concerning meanings that are just so established by these statements.
 
@@ -2999,7 +2999,7 @@ We conclude that ordinary, non-Vedic statements give rise to cognitions concerni
 > ननु न ताः शब्द-महिम-भुवः, आनुमानिक्यो हि ताः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > 72\. OBJECTION. But these cognitions do not arise from the denoting power of language, but result from Inference. 
 </details>
@@ -3028,7 +3028,7 @@ See the verse "tasmādasti madillie ", etc., following.
 न श्रुत-मात्राण्य् अर्थं निश्चाययन्ति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > For these statements, though their denotations in conveying certain meanings are consciously known once their proper meanings have been learnt,  
 do not furnish complete certainty about their meanings merely upon being heard by a listener,  
@@ -3060,7 +3060,7 @@ viseṣaścāvakalpate ।।
 अनिश्चयात्मनो ज्ञानस्याभावात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > And, unless there be complete certainty, the meaning will remain unknown; for no knowledge can arise in one's mind from uncertainty. 
 </details>
@@ -3080,7 +3080,7 @@ viseṣaścāvakalpate ।।
 योग्यार्थानि पदान्य् अयम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If the meaning of a statement is not known, the listener wants to discover it: "The speaker uses words whose meanings apparently admit of being connected; 
 </details>
@@ -3102,7 +3102,7 @@ If the meaning of a statement is not known, the listener wants to discover it: "
 अस्यास्तीत्य् अवगच्छति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > and reliable persons do not use words whose connections are unknown;" 
 
@@ -3141,7 +3141,7 @@ and the listener realizes that therefore the speaker has knowledge of such a con
 तद्-उपदर्शितो ऽर्थो न शब्दम् आकाङ्क्षति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If the knowledge of connection is thus inferred, the meaning discovered by the listener does not require the authority of verbal testimony. 
 </details>
@@ -3160,7 +3160,7 @@ If the knowledge of connection is thus inferred, the meaning discovered by the l
 इति ।+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 > Consequently, since ordinary language statements are dependent on the speaker's cognition; they terminate in that cognition through Inference alone.
 </details>
@@ -3183,7 +3183,7 @@ If the knowledge of connection is thus inferred, the meaning discovered by the l
 इत्य् अन्यत्रापि तत्-संभावनया स्वारसिकीम् अर्थावबोधकताम् उज्झितुम् अर्हति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 73\. REFUTATION. This view is not correct;  
 for a word conveys its right meaning as its natural function, and the observation that in one case the statement happened to be untrue under the influence of defects in the speaker's character should not give rise to a general suspicion which would cause all statement to give up its natural capacity of conveying its meaning.149 
@@ -3203,7 +3203,7 @@ for a word conveys its right meaning as its natural function, and the observatio
 अन्यत्रापि तादृश-दशा-शङ्क्या न दहति, +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 The suspicion that a fire may not burn in other cases  
 because in one case, when obstructed by mantras, it fails to burn, does not make fire fail to burn! 
@@ -3230,7 +3230,7 @@ because in one case, when obstructed by mantras, it fails to burn, does not make
 इति घटादिकम् अपि नावगमयति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 And the fact that the sense of vision may give rise to a cognition which does not correspond to reality-e.g. that nacre is silver-as the result of some optical error does not signify that the visual sense cannot produce true cognition of the visible presence of a pitcher etc. 
 </details>
@@ -3249,7 +3249,7 @@ And the fact that the sense of vision may give rise to a cognition which does no
 मूल-ज्ञानं न प्रतीक्षते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Therefore, a statement does indeed instantly convey a certain meaning to the listener if he knows the relation between the words and their meanings. 
 </details>
@@ -3269,7 +3269,7 @@ Therefore, a statement does indeed instantly convey a certain meaning to the lis
 इत्य् अनुमानं प्रवर्तते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 It does not require knowledge of the basis. Before there is complete knowledge on the part of the listener about the basic knowledge of the speaker, and, further, when the meaning has been expressed, the question rises: "How does he know this?" and Inference proceeds to resolve that question. 
 </details>
@@ -3291,7 +3291,7 @@ It does not require knowledge of the basis. Before there is complete knowledge o
 **अनुमातुम् अथेच्छसि** ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 You want to infer: "Did the speaker know something?" or wish to infer his knowledge of the connection of the different meanings. 
 </details>
@@ -3312,7 +3312,7 @@ You want to infer: "Did the speaker know something?" or wish to infer his knowle
 स्यातां वाक्यार्थ-गोचरौ +++(वक्ष्यमाण-रीत्या)+++॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 But the mere knowledge that the speaker knew something is not enough for utterance and action concerning a statement-meaning to proceed. 
 </details>
@@ -3332,7 +3332,7 @@ But the mere knowledge that the speaker knew something is not enough for utteran
 इति प्रागेव शब्दार्थोऽवगन्तव्यः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Inference of a cognition concerning the connection of different meanings is impossible without a prior cognition of such a connection.  
 
@@ -3350,7 +3350,7 @@ This being so, the meaning of the statement must be known first.
 परस्-परतो व्यतिभिद्यन्ते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 For cognitions whose particular objects are not connected, are not ~~connected~~ separated themselves. 
 </details>
@@ -3367,7 +3367,7 @@ For cognitions whose particular objects are not connected, are not ~~connected~~
 न च तथा ऽनुमिताभिर् अर्थ-विशेषः सिध्यति, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Nor is a particular meaning established by cognitions that are inferred to be such. 
 </details>
@@ -3387,7 +3387,7 @@ Nor is a particular meaning established by cognitions that are inferred to be su
 अवगतस् तर्हि प्राग् एवार्थानाम् अन्वयः, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 If you say that 
 
@@ -3408,7 +3408,7 @@ I maintain that the connection of the particular meanings must be known previous
 न हि बुद्धाव् अनारोपित एवान्वयः प्रयोगं व्यवच्छिनत्ति,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 unless a connection has already reached the level of cognition it cannot give rise to being expressed in a statement.
 </details>
@@ -3431,7 +3431,7 @@ unless a connection has already reached the level of cognition it cannot give ri
 सा शाब्दी नानुमानिकी ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 74\. To conclude, the cognition of an established fact in statements like "there is a fruit on the riverbank" is strictly of verbal origin and does not arise from Inference.
 </details>
@@ -3449,7 +3449,7 @@ unless a connection has already reached the level of cognition it cannot give ri
 ततश् च "अपूर्व-कार्य-गोचर एव शब्दः प्रमाणम्" इति -  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Therefore the position that statements produce valid knowledge only if they deal with a previously unknown kārya 
 </details>
@@ -3468,7 +3468,7 @@ Therefore the position that statements produce valid knowledge only if they deal
 युक्ता ऽन्यत्रापि शक्तता ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 is taken only by people whose judgments are stultified by their continuous preoccupation with their own theories.  
 In the manner set forth above  
@@ -3494,7 +3494,7 @@ it is true that statements may bear meaningfully and informatively on other mean
 ततश् च यान्य् एतानि विलक्षण-पुरुष-प्रतिपादकानि वेदान्त-वचांसि 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Consequently, all the statements of the Upaniṣads which set forth the existence of a categorically different Person 
 </details>
@@ -3519,7 +3519,7 @@ Consequently, all the statements of the Upaniṣads which set forth the existenc
 इत्यादीनि,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 e.g. 
 
@@ -3534,7 +3534,7 @@ e.g.
 </details>
 
 
-<details><summary>English - Note</summary>
+<details><summary>Buitenen - Note</summary>
 
 148: BĀ Up. 5\.6\.1\.  
 
@@ -3558,7 +3558,7 @@ e.g.
 तद्-विषयासंदिग्धाविपर्यय-ज्ञान-हेतुत्वात् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 are authoritative as to what they state, since they produce indubitable and unreversed knowledge of their contents.
 
@@ -3722,7 +3722,7 @@ depending on one's particular partisan views.
 न चेत् स्वार्थं विगाहते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Moreover, 
 
@@ -3747,7 +3747,7 @@ since it has already been taken care of by another authority,
 अप्रामाण्यम् अलौकिकम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 this non-authoritativeness of its content is beyond experience  
 for it is a mere matter of assumption.  
@@ -3765,7 +3765,7 @@ for it is a mere matter of assumption.
 असन्दिग्धाविपर्यस्तविज्ञानं प्रमाणम् एष्टव्यम्,  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 Therefore it must be maintained that all indubitable and unreversed knowledge is authoritative, regardless of whether its content is established, or yet to be performed, or anything else. 
 </details>
@@ -3777,113 +3777,1098 @@ Therefore it must be maintained that all indubitable and unreversed knowledge is
 </details>
 
 
+
+## सार्वज्ञ्यम्
+### शब्द-प्रमाणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत इदम् अपास्तम् ।
+अत इदम् अपास्तम् -
+
+> प्रसिद्धैः करणैरेव  
+सार्वज्ञ्यं नान्यथेति यत् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
-Hence we reject our opponent's position. [[61]]
+Hence we reject our opponent's position. [[61]]  
+76\. The objections that omniscience is acquired by means of the regular senses is incorrect, 
 </details>
 
 <details><summary>मूलम्</summary>
 
-अत इदम् अपास्तम् ।
+अत इदम् अपास्तम् -  
+प्रसिद्धैः करणैरेव सार्वज्ञ्यं नान्यथेति यत् । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यतः श्रुतिरेव तत्र परिपन्थिनी - 
+</details>
+
+<details><summary>Buitenen</summary>
+
+because śruti contradicts it: 
+</details>
+
+<details><summary>मूलम्</summary>
+
+यतः श्रुतिरेव तत्र परिपन्थिनी - 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पश्यत्य् अ-चक्षुस्  
+स शृणोत्य् अ-कर्णः  
+यश् चक्षुषा न पश्यति  
+यश् चक्षूंषि पश्यति ।  
+न तस्य कार्यं करणं च विद्यते ।  
+</details>
+
+<details><summary>Buitenen</summary>
+
+"He sees without eyes,  
+hears without ears;  
+he who does not see with the eye,  
+who sees the eyes,  
+has neither effect nor instrument;"153 
+
+153: Śvet Up. 3\.19\.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पश्यत्यचक्षुस् शृणोत्यकर्णः यश्चक्षुषा न पश्यति यश्चक्षूंषि पश्यति । न तस्य कार्यं करणं च विद्यते ।   
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स्वाभाविकी ज्ञान-बल-क्रिया च 
+
+इत्य्-आदिका ।  
+</details>
+
+<details><summary>Buitenen</summary>
+
+> "knowledge, strength and action are natural to Him,"154 
+
+etc. 
+
+154: Śvet Up. 6\.8\.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वाभाविकी ज्ञानबलक्रिया च इत्यादिका ।  
+</details>
+
+### नार्थवादः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चासां गुण-वादत्वं प्रमाणाभावात् ।  
+</details>
+
+<details><summary>Buitenen</summary>
+
+These śrutis do not speak metaphorically,  
+for there is no authority for this assumption.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चासां गुणवादत्वं प्रमाणाभावात् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अलब्ध-मुख्य-वृत्तीनां  
+गुण-वाद-समाश्रयः ॥  
+लभ्यते चेह मुख्योऽर्थ  
+इति तत्-कल्पना मृषा ॥
+</details>
+
+<details><summary>Buitenen</summary>
+
+Metaphorical usage is assumed when the primary meanings of the śrutis make no sense.  
+Since the primary meaning here makes sense, the assumption of metaphorical use is baseless.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अलब्धमुख्यवृत्तीनां गुणवादसमाश्रयः ॥  
+लभ्यते चेह मुख्योऽर्थ इति तत्कल्पना मृषा ॥ 
+</details>
+
+#### न प्रत्यक्षतः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नन्व् इहापि मुख्य-अर्थ-भङ्ग-कारणम् अस्ति - प्रमाणान्तर-विरोधः । 
+</details>
+
+<details><summary>Buitenen</summary>
+
+[[62]]
+
+77\. OBJECTION. But in this case we have in fact reason to cancel the primary meaning, because the primary sense militates against other means of knowledge. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नन्व् इहापि मुख्य-अर्थ-भङ्ग-कारणम् अस्ति प्रमाणान्तर-विरोधः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः प्रमाणान्तरात्, न तावत् प्रत्यक्षात्, 
+</details>
+
+<details><summary>Buitenen</summary>
+
+REFUTATION. What other means of knowledge? Not, to start, Perception, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुतः प्रमाणान्तरात्, न तावत् प्रत्यक्षात्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि प्रत्यक्षम् उदीरित-पुरुषाभावावभासकम् उदीयमानं दृष्टम्, 
+</details>
+
+<details><summary>Buitenen</summary>
+
+for we see no Perception occur which shows that the said Person is non-existent. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि प्रत्यक्षम् उदीरित-पुरुषाभावावभासकम् उदीयमानं दृष्टम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> योग्य-अनुपलम्भाद् अभाव-निश्चय 
+
+इति चेन् न -  
+प्रमाण-गोष्ठी-ज्येष्ठेन शास्त्रेणैवोपलम्भनात्, 
+</details>
+
+<details><summary>Buitenen</summary>
+
+If you retort that non-existence is decided by the nonapprehension of what should be there,  
+we reply that this does not hold in our case since the object,  
+that is the said Person, is actually apprehended through Scripture itself, which is the highest-ranking among the assembly of the means of knowledge. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+योग्य-अनुपलम्भाद् अभाव-निश्चय इति चेन् न प्रमाण-गोष्ठी-ज्येष्ठेन शास्त्रेणैवोपलम्भनात्, 
+</details>
+
+#### नानुमानतः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाप्य् अनुमानात्, 
+</details>
+
+<details><summary>Buitenen</summary>
+
+Nor does it militate against Inference; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नाप्य् अनुमानात्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् धि शीघ्र-जन्मागमिक-प्रत्यय-प्रक्षिप्त-प्रतिबन्धं  
+कथम् इव मन्थर-प्रवृत्ति प्रादुर्भवति ।
+</details>
+
+<details><summary>Buitenen</summary>
+
+for how could an Inference which disproves that Person arise at all, slow-moving as it is, when its object is instantly refuted by the rapidly arising scriptural cognition? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद् धि शीघ्र-जन्मागमिक-प्रत्यय-प्रक्षिप्त-प्रतिबन्धं कथम् इव मन्थर-प्रवृत्ति प्रादुर्भवति ।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
++ शब्दप्रमाणापेक्षया अनुमानस्य दौर्बल्यमेव । शाब्दं ज्ञानं शीघ्रतरम् । व्याप्तिज्ञानानन्तरलब्धप्रतिष्ठस्या- नुमानस्य मन्थरप्रवृत्तिरेवेति भावः । 
 </details>
 
 
 
-## सार्वज्ञ्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रसिद्धैः करणैरेव सार्वज्ञ्यं नान्यथेति यत् ।  
-यतः श्रुतिरेव तत्र परिपन्थिनी पश्यत्यचतुस्स शृणोत्यकर्णः यश्चक्षुषा न पश्यति यश्चक्षूंषि पश्यति ।  
-न तस्य कार्यं करणं च विद्यते ।  
-स्वाभाविकी ज्ञानबलक्रिया च इत्यादिका ।  
-न चासां गुणवादत्वं प्रमाणाभावात् ।  
-अलब्धमुख्यवृत्तीनां गुणवादसमाश्रयः ॥  
-नन्विहापि मुख्यार्थभङ्गकारणमस्ति प्रमाणान्तरविरोधः ।  
-कुतः प्रमाणान्तरात्, न तावत्प्रत्यक्षात्, न हि प्रत्यक्षमुदीरितपुरुषाभावावभासकमुदीयमानं दृष्टम्,  योग्यानुपलम्भादभावनिश्चय इति चेन्न प्रमाणगोष्ठीज्येष्ठेन शास्त्रेणैवोपलम्भनात्, नाप्यनुमानात् तद्धि शीघ्रजन्मागमिकप्रत्ययप्रक्षिप्तप्रतिबन्धं कथमिव मन्थरप्रवृत्ति प्रादुर्भवति ।  
-किञ्चैवं सति यागादेः स्वर्गापूर्वादिसङ्गतिः ।  
-क्रियात्वेन विरुध्येत शास्त्रं चेत्तन्न बाधते ॥  
-यूपादित्यादितादात्म्यं प्रत्यक्षेणैव वाधितम् ।  
-विस्पष्टदृष्टभेदत्वात् काष्ठसावित्रबिम्बयोः ॥
+किं चैवं सति यागादेः  
+स्वर्गापूर्वादि-सङ्गतिः ।  
+क्रियात्वेन विरुध्येत  
+शास्त्रं चेत् तन् न बाधते ॥
+</details>
 
-अपि च तत्र सन्निहितयूपाञ्जनविध्येकवाक्यतया अर्थवादत्वाद्युक्तं गुणवादत्वाश्रयणम्,  न चेह तथा विध्यन्तरमस्ति यच्छेषतया अर्थवादः स्यात् ।  
-अथ विध्यन्वयाभावे पुरुषार्थत्वाहान्तः ।  
-अध्याहृत्य विधिं तत्र शेषत्वं परिकल्प्यते ॥
+<details><summary>Buitenen</summary>
 
-यदाहुः ।  
-यावत् खलु प्रमातॄणां प्रवर्तननिवर्तने ।  
-शब्दा न कुर्वते तावन्न निराकाङ्क्षबोधनम् ॥ इति, तन्न ऋतेऽपि विधिसंबन्धाद् दृष्टैव हि पुमर्थता ।  
-पुत्रस्ते जात इत्यादौ तथेहापि भविष्यति ॥
+Moreover, if this were so, the relation of sacrificing etc. to heaven, apūrva155 etc. (155: cf supra note.), would logically be contradicted by the fact that sacrificing etc. are actions, when Scripture did not cancel such reasoning. 
+</details>
 
-न च तत्र विध्यध्याहारः, अन्तरेणापि विधिं पुत्रजननावगमादेव हर्षोत्पत्तेः ।  
-तथा का क्रिया पाक इत्यादिप्रश्नोत्तरव्यवहारेषु प्रष्टुजनजिज्ञासितक्रियाविशेषप्रतिपादनमात्रनिराकाङ्क्षश्शब्द् ओ न विध्यध्याहारमपेक्षते ।  
-इह तु ब्रह्मविज्ञानं महानन्दफलं श्रुतम् ॥  
-ब्रह्माविद् ब्रह्म भवति प्राप्नोति ब्रह्मवित् परम् ।  
-अश्नुते ब्रह्मण सार्द्धं सर्वान् कामान् स सामगः ॥  
-इदमादित्रयीवाक्यैर्व्यक्ता तस्य पुमर्थता ।  
-तदेवमुदीरितश्रुतिशतसमधिगतावितथसहजसर्वसाक्षात्कार् अकारुण्यादिकल्याणगुणैकराशौ भगवति सिध्यति, सिध्यत्येव तदनुभवमूलतया तन्त्रप्रामाण्यम् ।  
+<details><summary>मूलम्</summary>
+
+किं चैवं सति यागादेः स्वर्गापूर्वादि-सङ्गतिः ।  
+क्रियात्वेन विरुध्येत शास्त्रं चेत् तन् न बाधते ॥
+</details>
+
+#### न यूपादित्यवत्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यूपादित्यादि-तादात्म्यं  
+प्रत्यक्षेणैव बाधितम् ।  
+विस्पष्ट-दृष्ट-भेदत्वात्  
+काष्ठ-सावित्र-बिम्बयोः ॥ +++(4)+++
+</details>
+
+<details><summary>Buitenen</summary>
+
+True, the identity of sacrificial pole and sun, which is asserted by Scripture, is cancelled by another means of knowledge, namely Perception alone, because the difference between a piece of wood and the disc of the sun is indeed obvious. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+यूपादित्यादि-तादात्म्यं प्रत्यक्षेणैव बाधितम् ।  
+विस्पष्ट-दृष्ट-भेदत्वात् काष्ठ-सावित्र-बिम्बयोः ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च  
+तत्र सन्निहित-यूपाञ्जन-विध्य्-एकवाक्यतया  
+अर्थ-वादत्वाद् युक्तं गुण-वादत्वाश्रयणम्,  +++(4)+++
+</details>
+
+<details><summary>Buitenen</summary>
+
+Besides, in this case it is legitimate to assume metaphorical usage, for the statement of this identity is an arthavāda,156 since it forms one single statement with the proximate injunction about the unction of the sacrificial pole. 
+
+156: supra note 86\.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि च तत्र सन्निहित-यूपाञ्जन-विध्य्-एकवाक्यतया अर्थ-वादत्वाद् युक्तं गुण-वादत्वाश्रयणम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+f See p. 47 above for the Mimāmsaka's argument. The illustration of the arthavāda - "ādityo yūpah” [Taittiriya Brāhmana - II-i-5-2] was put forth there. This view is now being refuted. 
+The figurative statement "adityo yūpaḥ "is made on the ground of simi- larity of brightness ( tejasvitva) between the Sun and the sacrificial post. The relevant sūtra is " sārupyat " [ Pūrvamimāmsā - I. iv. 25 ]. 
+§ The rk to be repeated while anointing the yupa with ghee is- "añjanti tvāmadhvare devayantah " ( Taittiriya Brāhmana - VIii. p. 142 ). For the deri- vation of the term yūpa, see ibid- VI-i, the opening part. 
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चेह तथा विध्य्-अन्तरम् अस्ति यच्-छेषतया अर्थ-वादः स्यात् ।
+</details>
+
+<details><summary>Buitenen</summary>
+
+There is no other injunction to which it could be accessory as an arthavāda.157 
+
+157: supra § 36\.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चेह तथा विध्य्-अन्तरम् अस्ति यच्-छेषतया अर्थ-वादः स्यात् ।
+</details>
+
+#### न कल्पित-विधेः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अथ विध्य्-अन्वयाभावे  
+पुरुषार्थत्वाहानतः ।  
+अध्याहृत्य विधिं तत्र  
+शेषत्वं परिकल्प्यते ॥
+</details>
+
+<details><summary>Buitenen</summary>
+
+> Alternatively, inasmuch as the human importance of a statement would be lost if there were no injunction to connect it with, an injunction may be supplemented and then the arthavāda is regarded as accessory to that supplemented injunction.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथ विध्य्-अन्वयाभावे पुरुषार्थत्वाहानतः ।  
+अध्य्-आहृत्य विधिं तत्र शेषत्वं परिकल्प्यते ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यद् आहुः -  
+> 
+> > यावत् खलु प्रमातॄणां  
+> प्रवर्तन-निवर्तने ।  
+> शब्दा न कुर्वते तावन्  
+> न निराकाङ्क्ष-बोधनम् ॥
+> 
+> इति, 
+</details>
+
+<details><summary>Buitenen</summary>
+
+[[63]]
+
+> 78\. The objection158 that as long as statements fail to prompt the operator of the means of knowledge to being active or to prevent him from being active, they do not communicate self-sufficient information, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद् आहुः -  
+
+> यावत् खलु प्रमातॄणां प्रवर्तन-निवर्तने ।  
+> शब्दा न कुर्वते तावन् न निराकाङ्क्ष-बोधनम् ॥
+
+इति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन् न । 
+</details>
+
+<details><summary>Buitenen</summary>
+
+does not hold good. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तन् न । 
+</details>
+
+##### विध्य्-अनपेक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऋते ऽपि विधि-संबन्धाद्  
+दृष्टैव हि पुम्-अर्थता ।  
+"पुत्रस् ते जात" इत्य्-आदौ  
+तथेहापि भविष्यति ॥ +++(5)+++
+</details>
+
+<details><summary>Buitenen</summary>
+
+For, we find that statements have human importance also outside any connection with an injunction; in such a case it will be as in the statement “A son has been born to you," and the like. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऋते ऽपि विधि-संबन्धाद् दृष्टैव हि पुम्-अर्थता ।  
+"पुत्रस् ते जातः" इत्य्-आदौ तथेहापि भविष्यति ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च तत्र विध्य्-अध्याहारः,  
+अन्तरेणापि विधिं पुत्र-जनन-अवगमाद् एव हर्षोत्पत्तेः । 
+</details>
+
+<details><summary>Buitenen</summary>
+
+Nor need an injunction be supplemented in these cases. For without an injunction, too, joy arises from the information that a son has been born. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च तत्र विध्य्-अध्याहारः,  
+अन्तरेणापि विधिं पुत्र-जनन-अवगमाद् एव हर्षोत्पत्तेः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा "का क्रिया", "पाकः" इत्यादि-प्रश्नोत्तर-व्यवहारेषु  
+प्रष्टृ-जन-जिज्ञासित--क्रिया-विशेष-- प्रतिपादन-मात्र--निराकाङ्क्षः शब्दो  
+न विध्य्-अध्याहारम् अपेक्षते ।
+</details>
+
+<details><summary>Buitenen</summary>
+
+Likewise, a statement which is self-sufficient in merely expressing particular actions which questioners want to know in exchanges of question and answer-e.g. "Which action?" "Cooking!"-do not require the supplementation of an injunction. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा "का क्रिया", "पाकः" इत्यादि-प्रश्नोत्तर-व्यवहारेषु प्रष्टृ-जन-जिज्ञासित-क्रिया-विशेष-प्रतिपादन-मात्र-निराकाङ्क्षः शब्दो न विध्य्-अध्याहारम् अपेक्षते ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इह तु ब्रह्म-विज्ञानं  
+महानन्द-फलं श्रुतम् ॥  
+"ब्रह्मविद् ब्रह्म भवति",  
+"प्राप्नोति ब्रह्म-वित् परम्" ।  
+</details>
+
+<details><summary>Buitenen</summary>
+
+In the upaniṣadic texts the knowledge of brahman is declared to be rewarded by great bliss: "the brahman-knower becomes brahman";159 "the brahman-knower attains the supreme";160 
+</details>
+
+<details><summary>Buitenen - Note</summary>
+
+158: This must refer to the śruti sa yo ha vai tat paraṃ veda brahma veda brahmaiva bhavati (quoted Rāmānuja, Vedārthasaṃgraha, 91), which I have been unable to locate.  
+
+159: Taitt Up. 2\.1\.1\. {{brahmatid|brahmavid}} āpnoti param.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इह तु ब्रह्म-विज्ञानं महानन्द-फलं श्रुतम् ॥  
+"ब्रह्मविद् ब्रह्म भवति", "प्राप्नोति ब्रह्म-वित् परम्" ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अश्नुते ब्रह्मणा सार्धं  
+सर्वान् कामान् स सामगः" ॥  
+इदम्-आदि-त्रयी-वाक्यैर्  
+व्यक्ता तस्य पुम्-अर्थता । 
+</details>
+
+<details><summary>Buitenen</summary>
+
+"the sāman cantor attains with brahman  
+all that he desires:"161  
+the human importance of statements without injunctions is quite clear from these and other scriptural words. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+"अश्नुते ब्रह्मणा सार्धं सर्वान् कामान् स सामगः" ॥  
+इदम्-आदि-त्रयी-वाक्यैर् व्यक्ता तस्य पुम्-अर्थता । 
+</details>
+
+
+<details><summary>Buitenen - Note</summary>
+
+160: This must refer to Taitt Up. 2\.1\.1 so'śnute sarvān kāmān saha brahmaṇā vipaścitā, but sa sāmagāḥ is obscure, unless one may regard it as a corruption of vipaścitā.
+</details>
+
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् एवम् उदीरित-श्रुति-शत-समधिगतावितथ- सहज-सर्व-साक्षात्-काराकारुण्यादि-कल्याण-गुणैक-राशौ भगवति सिध्यति,  
+सिध्यत्य् एव तद्-अनुभव-मूलतया तन्त्र-प्रामाण्यम् ।
+</details>
+
+<details><summary>Buitenen</summary>
+
+To sum up, when it is established that the Bhagavān is the treasury solely of beautiful qualities of direct universal cognition, compassionateness etc., qualities which are true and natural to Him, and which we know from hundreds of quoted śrutis, then it is also established that the Tantra which is based on His universal cognition is authoritative indeed.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद् एवम् उदीरित-श्रुति-शत-समधिगतावितथ-सहज-सर्व-साक्षात्काराकारुण्यादि-कल्याण-गुणैक-राशौ भगवति सिध्यति,  
+सिध्यत्य् एव तद्-अनुभव-मूलतया तन्त्र-प्रामाण्यम् । +++(4)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Note the way in which Yamuna connects the previous discussion with the main theme, viz, the validity of the Pāñcarātra-texts, based upon the author- ship of Narayana, the Supreme and Omniscient Being. 
+
+* Cf. Aniruddhasamhitā- II. 7-8- 
+
+> " तथा सर्वेषु शास्त्रेषु  
+पञ्चरात्रं वरिष्ठकम् ।  
+श्रुतिमूलमिदं तन्त्रं  
+प्रमाणं कल्पसूत्रवत् ॥  
+पञ्चरात्रं विशेषेण  
+विष्णुना भाषितं यथा ।  
+अतः प्रमाणं लोकेऽस्मिन्  
+धर्मशास्त्रेषु सर्वशः ॥ " 
+
+Also cf. Visnusamhitā - ch. II- 
+
+> " वेदमूलतया तन्त्रम्  
+आप्तमूलतयाऽथवा ॥ 
+पुराणवत्प्रमाणं स्यात्  
+तथा मन्वादिवाक्यवत् । " 
+</details>
+
 
 ## विष्णुः परमः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु विरचित-नीत्या कश्चिद् आम्नाय-मूर्द्ध--  
+प्रमित-सहज-सर्व-ज्ञानवान् अस्तु नाम ।  
+स च हरिर् इति यावन् नावगम्येत सम्यक्  
+न खलु भवति तावत्पञ्चरात्रं प्रमाणम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+[[64]]
+
+> 79\. OBJECTION. Granted that, as you have described it, there exists some Person who is endowed with natural omniscience, as it is known from the upaniṣads, yet, unless it is absolutely certain that this Person is indeed Hari, Pañcaratra will not be authoritative. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 ननु विरचितनीत्या कश्चिदाम्नायमूर्द्धप्रमितसहजसर्वज्ञानवानस्तु नाम ।  
 स च हरिरिति यावन्नावगम्येत सम्यक् न खलु भवति तावत्पञ्चरात्रं प्रमाणम् ॥  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+†The doubt expressed here by the opponent is as to who, among the trinity—Brahmā, Visnu and Siva, is the Supreme Deity. 
+
+§ The following is a brief exposition of the Supremacy of Nārāyaṇa. The Purusanirnaya of Yamuna, solely devoted to this question is yet to be traced. 
+</details>
+
+### श्रुतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्यल्पम् एतत् -  
+न ह्य् अत्र त्रयी-विदो विवदन्ते यद् 
+
+> वासुदेवः परमात्मा अखिल-जगत्-कारणम्  
+
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION. This is a worthless remark; no experts in the Veda dispute that the Supreme Soul, cause of the entire universe, is Vāsudeva. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अत्यल्पमेतत् न ह्यत्र त्रयीविदो विवदन्ते यद्वासुदेवः परमात्मा अखिलजगत्कारणमिति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रूयते हि स वेदान्तेष्व्  
+
+> आत्मा नारायणः परः ।  
+सत्यं ज्ञानम् अनन्तञ् च  
+तद् विष्णोः परमं पदम् ॥  
+परा प्रकृतिर्, अध्यक्षो  
+वासुदेवस् तथा ऽपरः ।  
+</details>
+
+<details><summary>English</summary>
+
+For He is revealed in the upaniṣads as the Supreme Soul: "Truth, knowledge, infinite; that is the supreme step of Viṣṇu. Vāsudeva is the ultimate matter, the ultimate spirit".161  
+</details>
+
+<details><summary>English - Note</summary>
+
+161: Partial quotations from Taitt Up. 2\.1\.1, Muṇḍ Up. and an unidentified source.  
+</details>
+
+<details><summary>मूलम्</summary>
+
 श्रूयते हि स वेदान्तेष्वात्मा नारायणः परः ।  
 सत्यं ज्ञानमनन्तञ्च तद्विष्णोः परमं पदम् ॥  
 परा प्रकृतिरध्यक्षो वासुदेवस्तथा परः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एकः परस्ताद् य इदं बभूव  
+यस्मात् परं नापरम् अस्ति किञ्चित् ।  
+
+इत्य् उक्त-वाच्यानुगुणं "यतो वा  
+इमानि भूतानि", "सदेव सौम्य" ॥  
+इत्य्-आदि-वाक्यञ् च ततस् स विष्णुस्  
+त्रयी-शिरः सिद्ध-विशुद्ध-बोधः ।  
+</details>
+
+<details><summary>English</summary>
+
+> He was alone beyond who became this world;162 "higher than whom there is nothing at all".  
+
+In accordance with the subject expressed in these statements there are passages like: 
+
+"From whom these beings..." "Sat alone, my son..."  
+
+Therefore Viṣṇu's perfect knowledge is established by the upaniṣads. 
+</details>
+
+<details><summary>English - Note</summary>
+
+162: Nṛsiṃhapūrvatāpanī Up. 2\.4 (which reads purastāt for parastāt) and Śvet Up. 3\.9\.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 एकः परस्ताद्य इदं बभूव यस्मात् परं नापरमस्ति किञ्चित् ।  
 इत्युक्तवाच्यानुगुणंयतो वा इमानि भूतानि सदेव सौम्य ॥  
-इत्यादिवाक्यञ्च ततस्स विष्णुस्त्रयीशिरः सिद्धविशुद्धबोधः ।  
+इत्यादिवाक्यञ्च ततस्स विष्णुस्त्रयीशिरः सिद्धविशुद्धबोधः ।  </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चान्यस्माज् जगज्-जन्म-  
+स्थिति-ध्वंसाश् श्रुतौ श्रुताः ।  
+यतश् चैते स सर्वज्ञः  
+परमात्मेति सम्मतम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+And it is not declared in śruti that the origination, subsistence and destruction of the world are caused by anyone but Him. Hence there is a consensus that He is the supreme omniscient soul. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 न चान्यस्माज्जगज्जन्मस्थितिध्वंसाश्श्रुतौ श्रुताः ।  
 यतश्चैते स सर्वज्ञः परमात्मेति सम्मतम् ॥  
-अमुमेव परमात्मानं द्वैपायन्-पराशरनारदप्रभृतिमहर्षिवचनेभ्यः प्रतिपद्यामहे तथा हि ।  
+</details>
+
+
+### इतिहास-पुराणादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अमुम् एव परमात्मानं  
+द्वैपायन-पराशर--नारद-प्रभृति--महर्षि-वचनेभ्यः प्रतिपद्यामहे।  
+तथा हि -
+</details>
+
+<details><summary>English</summary>
+
+That He is the Supreme Soul we learn also from the statements of Dvaipāyana, Parāśara, Nārada and other great seers. 
+
+Thus -
+</details>
+
+<details><summary>मूलम्</summary>
+
+अमुमेव परमात्मानं द्वैपायन-पराशरनारदप्रभृतिमहर्षिवचनेभ्यः प्रतिपद्यामहे। तथा हि -
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विष्णौ जगत्-स्थितं सर्वम्  
+इति विद्धि परन्तप ।  
+सृजत्य् एष महा-विष्णुर्  
+भूत-ग्रामं चराचरम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+> "Know thou, O tormentor of thy foes, that the entire world rests on Viṣṇu. The Great Viṣṇu creates the totality of creatures, moving and unmoving. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 विष्णौ जगत्स्थितं सर्वमिति विद्धि परन्तप ।  
 सृजत्येष महाविष्णुर्भूतग्रामं चराचरम् ॥  
-एष चाक्षिपते काले काले विसृजते पुनः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एष चाक्षिपते काले  
+काले विसृजते पुनः ।  
+अस्मिन् गच्छन्ति विलयम्  
+अस्माच्च प्रभवन्त्युत ॥  
+</details>
+
+<details><summary>English</summary>
+
+> In him they go to their reabsorption, from Him they originate," 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> एष चाक्षिपते काले काले विसृजते पुनः ।  
 अस्मिन् गच्छन्ति विलयमस्माच्च प्रभवन्त्युत ॥  
-अनादिनिधनः श्रीमान् मुनिर्नारायणः प्रभुः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनादिनिधनः श्रीमान्  
+मुनिर् नारायणः प्रभुः ।  
+स वै सृजति भूतानि  
+स्थावराणि चराणि च ।  
+</details>
+
+<details><summary>English</summary>
+
+"The glorious Sage Nārāyaṇa, without beginning or end, is the sovereign Lord. He creates the creatures, those that stand still and those that move."163 
+
+163: not identified.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> अनादिनिधनः श्रीमान् मुनिर्नारायणः प्रभुः ।  
 स वै सृजति भूतानि स्थावराणि चराणि च ।  
-स ब्रह्म परमं चेति तथाऽन्यत्रापि पठ्यते ॥  
-केशवो भरतश्रेष्ठ! भगवानीश्वरः परः ।  
-पुरुषः सर्वमित्येतच्छ्रूयते बहुधा श्रुतौ ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स ब्रह्म परमं चेति  
+तथाऽन्यत्रापि पठ्यते ॥  
+</details>
+
+<details><summary>English</summary>
+
+That He is the Supreme Brahman is also learnt elsewhere. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स ब्रह्म परमं चेति  
+तथाऽन्यत्रापि पठ्यते ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> केशवो भरतश्रेष्ठ!  
+भगवान् ईश्वरः परः ।  
+पुरुषः सर्वम् इत्य् एतच्  
+छ्रूयते बहुधा श्रुतौ ॥
 
 इति,
+</details>
+
+<details><summary>English</summary>
+
+> "Kesava, O best of the Bhāratas, the Blessed One, is the sovereign, the supreme soul, the entire universe: thus it stands revealed in many places of the Scripture."164 
+
+164: not identified.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+केशवो भरतश्रेष्ठ! भगवानीश्वरः परः ।  
+पुरुषः सर्वमित्येतच्छ्रूयते बहुधा श्रुतौ ॥
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तत्त्वं जिज्ञासमानानां  
+हेतुभिः सर्वतो मुखैः ।  
+तत्त्वम् एको महा-योगी  
+हरिर् नारायणः प्रभुः ॥ 
+
+इति,
+</details>
+
+<details><summary>English</summary>
+
+> For those who seek to know the supreme principle by means of many-sided reasonings Hari alone is the Principle, the great Yogin, Nārāyaṇa the Lord.165 
+</details>
+
+<details><summary>English - Note</summary>
+
+165: Could this refer to Varāha Purāṇa Cf. infra. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 तत्त्वं जिज्ञासमानानां हेतुभिः सर्वतो मुखैः ।  
-तत्त्वमेको महायोगी हरिर्नारायणः प्रभुः ॥ इति,
+तत्त्वमेको महायोगी हरिर्नारायणः प्रभुः ॥ 
 
-तथा दानधर्मे ।  
-परमात्मा परः शान्तः पद्मनाभः परायणः ।  
+इति,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा दानधर्मे -  
+
+> परमात्मा परः शान्तः  
+पद्म-नाभः परायणः ।  
+इति वेद-रहस्यन्तु  
+किन् न वेत्सि पुरन्दर ॥  
+</details>
+
+<details><summary>English</summary>
+
+Likewise in the Dānadharma, 
+
+> "Padmanābha is the Supreme Soul, the highest One, the pure One, the Refuge. This is the secret doctrine of the Veda; dost thou not know, sacker of cities? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा दानधर्मे -  
+
+> परमात्मा परः शान्तः पद्मनाभः परायणः ।  
 इति वेदरहस्यन्तु किन्न वेत्सि पुरन्दर ॥  
-तत्प्रसादाद्वयं सर्वे लोकानां स्थितिहेतवः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तत्-प्रसादाद् वयं सर्वे  
+लोकानां स्थिति-हेतवः ।  
+आप्ताश् चामर-मुख्याश् च  
+देवाश् च स्थानिनो मताः ॥  
+यदि विष्णुरुदासीनो  
+नास्माकं विद्यते शुभम् ।  
+</details>
+
+<details><summary>English</summary>
+
+> By His grace do we all cause the worlds to exist. And the trusted ones, and the first among the immortals, and the gods are held to be His representatives, If Viṣṇu is indifferent, no good will come to us." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> तत्प्रसादाद्वयं सर्वे लोकानां स्थितिहेतवः ।  
 आप्ताश्चामरमुख्याश्च देवाश्च स्थानिनो मताः ॥  
 यदि विष्णुरुदासीनो नास्माकं विद्यते शुभम् ।  
-इति रुद्रस्य वचनं तथा भारतमात्स्ययोः ॥  
-तत्र यः परमात्मा हि स नित्यो निर्गुणश्शुभः ।  
-स वै नारायणो ज्ञेयः सर्वात्मा पुरुषो हि सः ॥ इति,
+</details>
 
-तथा वराहे ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति रुद्रस्य वचनं,  
+तथा भारतमात्स्ययोः ॥  
+</details>
+
+<details><summary>English</summary>
+
+Thus Rudra's word.166 Similarly, in the Mahābhārata and Matsya Purāṇa, 
+
+166: Viṣṇu Pur., 1\.1\.31\.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति रुद्रस्य वचनं तथा भारतमात्स्ययोः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तत्र यः परमात्मा हि  
+स नित्यो निर्गुणश् शुभः ।  
+स वै नारायणो ज्ञेयः  
+सर्वात्मा पुरुषो हि सः ॥ 
+
+इति,
+</details>
+
+<details><summary>English</summary>
+
+> "He who amongst them is the Supreme Soul, He indeed is the eternal, unqualified, perfect One; He is to be known as Nārāyaṇa, for He is the world-soul, the Spirit." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र यः परमात्मा हि स नित्यो निर्गुणश्शुभः ।  
+स वै नारायणो ज्ञेयः सर्वात्मा पुरुषो हि सः ॥ 
+
+इति,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा वराहे -  
+
+> यस्य देवस्य चरितं  
+व्रतं समभवद् भुवि ।  
+कोऽन्यस् तस्माद् अभ्यधिको  
+मुक्त्वा नारायणं प्रभुम् ॥
+
+इति,
+</details>
+
+<details><summary>English</summary>
+
+Likewise in the Varāha Purāṇa, 
+
+"Who, excepting the Lord Nārāyaṇa, is superior to the God whose conduct has become the life-order on the earth?" 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा वराहे -  
+
 यस्य देवस्य चरितं व्रतं समभवद्भुवि ।  
 कोऽन्यस्तस्मादभ्यधिको मुक्त्वा नारायणं प्रभुम् ॥
 
 इति,
 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नारायणात्परो देवो  
+न भूतो न भविष्यति ।  
+एतद् रहस्यं वेदानां  
+पुराणानां च सत्तमाः ॥ 
+
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+"There has been no God greater than Nārāyaṇa, nor shall there be; this is the secret doctrine of the Vedas and the Purāṇas, O excellent ones."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 नारायणात्परो देवो न भूतो न भविष्यति ।  
 एतद्रहस्यं वेदानां पुराणानां च सत्तमाः ॥ इति ।  
-तथा लैङ्गेः ।  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा लैङ्गेः -  
+
+> स एकः पुरुषः श्रेष्ठः  
+परमात्मा जनार्दनः ।  
+यस्माद् ब्रह्मा ततो रुद्रः  
+ततश् चैवाखिलं जगत् ॥
+</details>
+
+<details><summary>English</summary>
+
+Likewise in the Liṅga Purāṇa, 
+
+> "Janārdana is the sole Spirit, the highest One, the Supreme Soul, from whom Brahmā was born;  
+from Him Rudra and from Him all the world." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा लैङ्गेः -  
 स एकः पुरुषः श्रेष्ठः परमात्मा जनार्दनः ।  
 यस्माद् ब्रह्मा ततो रुद्रः ततश्चैवाखिलं जगत् ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा ।  
+
+> विष्णोस् सकाशाद् उद्भूतं  
+जगत् तत्रैव च स्थितम् ।  
+स्थिति-संयम-कर्ता ऽसाव्  
+
+इति पाराशरं वचः ॥
+</details>
+
+<details><summary>English</summary>
+
+Likewise Parāśara's word, 
+
+> The world has originated from Viṣṇu and on Him it rests.  
+He is the maker of its subsistence and its destruction."
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 तथा ।  
 विष्णोस्सकाशादुद्भूतं जगत्तत्रैव च स्थितम् ।  
 स्थितिसंयमकर्ताऽसाविति पाराशरं वचः ॥
+</details>
 
-तथा मानवे ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा मानवे -  
+
+> नारायणः परोऽव्यक्ताद्  
+अण्डम् अव्यक्त-संभवम् ।  
+अण्डस्यान्तस् त्व् इमे लोकाः  
+सप्त-द्वीपा च मेदिनी ॥  
+</details>
+
+<details><summary>English</summary>
+
+167 Likewise in the Mānavadharmaśāstra,168  
+
+"Nārāyaṇa is higher than the unmanifest; the World-Egg originates from the unmanifest. Within the Egg are all these worlds as well as the earth with her seven continents." 
+
+167: Not in {{Manusmrti|Manusmṛti}}.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा मानवे -  
+
 नारायणः परोऽव्यक्तादण्डमव्यक्तसंभवम् ।  
 अण्डस्यान्तस्त्विमे लोकाः सप्तद्वीपा च मेदिनी ॥  
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद् ईदृश-श्रुति-स्मृतीतिहास-पुराण-पर्यालोचनया  
+
+> अखिल-जगत्-कारणं परमात्मा वासुदेव  
+
+इति निश्चीयते ।  
+</details>
+
+<details><summary>English</summary>
+
+Therefore, the study of these and similar śrutis, smṛtis, epical texts and Purāṇas proves that Vāsudeva is the universal cause, the Supreme Soul.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तस्मादीदृशश्रुतिस्मृतीतिहासपुराणपर्यालोचनया अखिलजगत्कारणं परमात्मा वासुदेव इति निश्चीयते ।  
+</details>
+
+
 
 ### न शिवः
 न चैव परमात्मत्वं रुद्रादेः श्रुतिषूदितम् ।  
@@ -6994,7 +7979,7 @@ It is here as in the following two cases of absence of heat: there is no heat in
 113\. Moreover, neither dependence nor independence is by itself a cause of invalidation.29  
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>Buitenen - Note</summary>
 
 [232] this speaks to 108, that the independent cognition cancels the dependent cognition, if there is conflict between them. Yamuna makes the point that this is not invariably true; that neither dependence nor independence is a cause of invalidation, sapeksanirapeksatve is a dual and requires the correction of karanam into kārane, If my understanding of the text is correct.+++(4)+++
 </details>
@@ -7047,7 +8032,7 @@ by the inferential cognition that arises from the disappearance of oil";
 the latter cognition itself is dependent because it arises from a sense-perception. 
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>Buitenen - Note</summary>
 
 [234]: namely, in the example of the burning lamp: is it the same flame that burns at six o'clock and at seven o'clock? We don't see the flame change or be succeeded by another flame. Only inference shows that since there is a different amount of oil in the lamp at different times, it is different oil that is burning as a flame, so that the flame is really different. The sense perception is of the varying amounts of oil.
 </details>
@@ -7481,7 +8466,7 @@ and from then onward set in motion the transmission of Vedic instruction until t
 how can we be sure about it? 
 </details>
 
-<details><summary>English - Note</summary>
+<details><summary>Buitenen - Note</summary>
 
 [236]: Since Brahma is the creator of the world, he can know whether there were Vedas or not before creation; by taking away Brahma's memory, God in His omnipotence could start the myth of the preterpersonal origin of the Veda..
 </details>
