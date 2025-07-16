@@ -2000,6 +2000,12 @@ Just as this floating, however helpful it may be to determine the identity of ce
 यथैव हि ब्रह्मजातीयादिवज्रविशेषावधारणोपयोगिनोऽपि पयः-प्रतरणादेर् अवधृत-रत्न-सत्त्वस्य न व्यवहारदशायाम् उपयोगः, एवं व्युत्पत्ति-ग्रहण-समय-समुपयुक्तस्यापि कार्यस्य न व्युत्पन्नदशायाम् उपयोगः ॥
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+For a classification of gems as 'male' and 'female, see Ratnadipikā of Candeśvara, Śls. 11-13, and for a classification into the four castes ' brāhmana', Kşatriya', ' vaisya' and 'śūdra see Ratnasāstra : sls. 21 and 23.
+</details>
+
+
 ### नदी-तीर-फलम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2038,14 +2044,15 @@ If you say that a statement of such a substantive relation does not denote the r
 नायं मुख्यो लाक्षणिक इति चेत् क्व वा शब्दानां मुख्य-प्रयोगः ।
 </details>
 
-
+### मानान्तरानपेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> मानान्तरापूर्वे कार्य 
+> +++(शब्दानां मुख्य-प्रयोगः)+++ मानान्तरापूर्वे कार्य 
 
 इति चेन् न -  
 तत्राव्युत्पन्नत्वेन प्रयोगानुपपत्तेः ।
 </details>
+
 <details><summary>English</summary>
 
 If you answer 
@@ -2055,14 +2062,88 @@ If you answer
 we reply: no, for then no use of words would be possible, since their meaning would not yet have been identified. 
 </details>
 
+<details><summary>English - Note</summary>
+
+138: This holds for those statements which are not verifiable by other means of knowledge, for if they are verifiable, they are no means of knowledge in their own right.  
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 मानान्तरापूर्वे कार्य इति चेन् न तत्राव्युत्पन्नत्वेन प्रयोगानुपपत्तेः ।
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
++ शब्दस्येति शेषः । 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि मानान्तरापूर्वे  
+व्युत्पत्तिर् उपपद्यते ।  
+न चाव्युत्पन्न-शब्देभ्यः  
+प्रत्ययोऽतिप्रसङ्गतः ॥
+</details>
+
+<details><summary>English</summary>
+
+Naturally there can be no knowledge of the meaning of a word  
+when that word denotes a meaning not previously known through other means of knowledge,  
+and no cognition can arise from words with unknown meanings,  
+for that would entail over-extension.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 न हि मानान्तरापूर्वे व्युत्पत्तिर् उपपद्यते ।  
 न चाव्युत्पन्न-शब्देभ्यः प्रत्ययोऽतिप्रसङ्गतः ॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Yamuna here attacks the theory advanced by the Prabhakaras that the words uttered by human beings gain validity only on inferential evidence because those beings are liable to defects. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+योऽपि मन्यते 
+
+> लोके क्रिया-कार्ये व्युत्पन्न-शब्दः  
+फल-पद-समभिव्याहार--बल-प्रतिलब्ध--तत्-साधन-भाव-भङ्गुर-यागादि-धात्वर्थोत्तीर्णापूर्व-कार्याभिधान-शक्तिर् वेदे मोदते, लोके तु सं-मुग्धेनापि[1] व्यवहारोपपत्तेर् न शब्दार्थ-तत्त्वावधारणम् आद्रियते इति ।
+(सममुग्धेनेति पा.)
+</details>
+
+<details><summary>मूलम्</summary>
+
+योऽपि मन्यते लोके क्रिया-कार्ये व्युत्पन्न-शब्दः फल-पद-समभिव्याहार-बल-प्रतिलब्ध-तत्-साधन-भाव-भङ्गुर-यागादि-धात्वर्थोत्तीर्णापूर्व-कार्याभिधान-शक्तिर् वेदे मोदते, लोके तु सं-मुग्धेनापि[1] व्यवहारोपपत्तेर् न शब्दार्थ-तत्त्वावधारणम् आद्रियते इति ।
+(सममुग्धेनेति पा.)
+</details>
+
+
+तस्यापीदं मनोरथ-मात्रम्, न हि क्रिया-कार्ये व्युत्पन्न-स्थायि-कार्यं प्रतिपादयति अति-प्रसङ्गात् । यदि वृद्ध-व्यवहारे समधिगत-पद-सामर्थ्ये ऽनुरुध्यमाने ऽन्वयावगतिर् नोपपद्यते, मोपपादि न न तु तद्-अनुपत्त्या कॢप्त-शक्ति-परित्यागेन शब्द-शक्त्यन्तरं भजते कामं लक्षणाऽश्रीयताम् । न हि विरुद्धार्थ-पद-समभिव्याहारे पदानाम् अभिधानम् एवान्यथा नीयते, सर्व-शब्दार्थेष्व् अनाश्वास-प्रसङ्गात् ।
+
+किं च मानान्तरापूर्व-कार्य-बोधन-शक्तता ।  
+न कर्म-फल-सम्बन्ध-सिद्ध्यै तावद् उपेयते ॥
+
+नैयोगिकस् स सम्बन्धो न पुनर् वैनियोगिकः ।  
+धात्वर्थोत्तीर्ण-कार्यात्मा न कर्म-फल-सङ्गमात् ॥
+
+ऋते सिध्यति [[सबन्धस्स|सम्बन्धस् स]] च तस्माद् ऋते न हि ।  
+ततश् च दुरुत्तरम् इतरेतराश्रयणम् ।
+
+साध्य-स्वर्ग-विशिष्टस्य पुरुषस्य प्रवर्तकः ।  
+न स्याद् इति तद्-इष्टार्थ-साधनं न भवेद् विधिः ॥
+
+भङ्गुरो न च धात्वर्थः करणत्वेन कल्पते ।  
+इति तद्-भिन्न-कार्यार्थ-बोधकत्वं यद् उच्यते ॥
+
+तद् असन् न हि साध्येन स्वर्गेणायं विशेष्यते ।  
+स्वर्गं कामयमानो हि पुरुषो ऽत्र नियुज्यते ॥
+
 
 योऽपि मन्यते लोके किर्याकार्ये व्युत्पन्नशब्दः फलपदसमभिव्याहारबलप्रतिलब्धतत्साधनभावभङ्गुरयाग् आदिधात्वर्थोत्तीर्णापूर्वकार्याभिधानशक्तिर्वेदे मोदते, लोके तु सं (सममुग्धेनेति पा. ।)मुग्धेनापि व्यवहारोपपत्तेर्न शब्दार्थतत्त्वावधारणमाद्रियते इति ।  
 तस्यापीदं मनोरथमात्रम्,  न हि क्रियाकार्ये व्युत्पन्नस्थायिकार्यं प्रतिपादयति अतिप्रसङ्गात् ।  

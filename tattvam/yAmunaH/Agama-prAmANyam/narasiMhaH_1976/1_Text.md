@@ -4,7 +4,200 @@ title = "1 Text"
 +++
 
 TODO: अपरिष्कृतम्.
+## 
 
+
+[महत्त्व-वर्णनम् ।]
+
+जगज्-जन्म-स्थिति-प्रलय-सहज-नन्द-दहेतवे ।  
+कालामलवद् विश्वं पद्यते विष्णवे नमः ॥  
+[तत्त्व-स्वभाव-वर्णिका]
+
+येऽमी[^16_1] केचन मत्-सर-आ[^16_2] सव्यसो[^16_3] दुर्-मानसा नराः ।  
+मत्-सरो[^16_4] गुणा-शालिनम्-अपि शिरः[^16_5] निन्दन्त निन्दन्तु ते[^16_6] ।  
+सारासार-विचार-कीश-लद-शा-पारें पण्डव-सिंध्वः ।  
+सन्त[^16_7]: सन्-तप-सहृदय-वत्-ओऽपि यद्य्-अहं: शंसन्ति ये सद्-गरुम्[^16_8] ॥  
+अवि-निविश-वत्-चेतनाः ।  
+बहिर्-विदाम्-अपि सम्भवम् श्रविः ।  
+तद्-अिदं †भागवतम् गत-मत्-सरः ।  
+प्रतम्-असिद्धि-दं विवृत्-चन्तु विप्र-दिञ्चतः ॥  
+
+[^16_1]: M₂,—ये ये; M₀,—ये ये
+[^16_2]: M₀,—स्वं वचः
+[^16_3]: M₃,—परमितम्
+[^16_4]: M₂, M₃, M₆, M₇, My—°निरवद्य°
+[^16_5]: M₃, M₆,—ये
+[^16_6]: B, M₁, M₃, M₄, M₆, My—°निवेद्य°
+[^16_7]: B, M₃, M₆—ये
+[^16_8]: M₃, M₆—सत्‌गरु
+†This verse brings out the disdain of one author towards some of his contemporaries who, out of jealousy, were too critical in their attitude towards his works. Also compare in this connection, the two concluding verses of this text.
+‡The term ‘bhāgavata’ refers to the Pañcarātra system of thought. Another term used generally is ‘sāttvata’. For names applied to adherents of this religious school, see the *Padma Saṃhitā* (Tantra) IV, ii, 88:
+“sāṁsuddhī bhāgavatāḥ sāttvatāḥ pāñcakālāḥ
+aikāntikāḥ pūrṇayāgaḥ pāñcarātrikā īśvaraḥ”
+See article on the *Pañcarātra* in *JRAS* for 1911, p. 936.
+§ *Vāmana* in this verse appeals to scholars for an impartial scrutiny of the Pañcarātra religion.
+
+[[P17]]
+
+इह केचित् त्रयी-गर्म-लक्ष्म-कल्प-पिर्य-कुर्कटकलक्-विर्ज-गल्-लक्ष्म-लक्ष्म-मः । त्रयी-गर्म-लक्ष्म-ण-ज-मानेन निज-सिद्धान्त-उक्त-लक्ष्म-णाय-सुखम्-अर्थेन पर-पुरुष-प्रयत्नेन चित्-मिर-ति-दा-यिनि-श्रेयस-गोचरा-पञ्चरात्र-तन्त्र-प्रामाण्ये विप्रतिपद्यन्ते ।  
+
+> तद्-वदन्ति च—
+>
+> [ मीमांसकेन शब्द-ज्ञानां प्रामाण्य-विमान-निरूपणम् ]
+>
+> द्वेधा खलु प्रमाण-त्वं वच-साम्-अवसीयते ।  
+> एकं नामान्तर-लक्ष-मन्य-वेपेम्-इतरत् ॥  
+
+तत्र-अपि—  
+
+केन तावत् पुर-उपय-अर्थेन वच-नं क्वचित् ।  
+आसीद्-इति प्रमाणम्-एनम् उपपन्न-लक्षणम् ॥  
+
+पोर्व-येणे हि वच-प्रमाणान्तर-प्रम-निरुपपत्ति-स्थापनांग-पाय्-शास्त्र-वर्कः । तद्-अर्थ-सिद्धि-गुरुमुखात्-प्रमाणाम्-एव नाम-अनुभव-ति ।  
+
+*   M₁,—कश्चन°
+*   M₅, M₆, M₇,—°अक°
+*   B, M₁, M₅, M₆, M₇,—°दुरितम्°
+*   M₄,—प्रामाणम्°
+*   B, M₅, M₆, M₇, M₁ omits च
+*   M₆, M₇,—अविद्यमान
+*   B,—अक्षपाद°
+
+†See *JRAS* (1911), pp. 940-41, for various definitions of the term ‘Pāñcarātra’. See also the latest article on the meaning of the term by Dr. V. Raghavan, *JAOS* Vol. 85, No. 1 (Jan.-Mar. 1965), pp. 73-79. The *Mahā-sanatkumāra Saṁhitā* III, offers the following explanation for the term ‘sāttvata’:
+“sa pūrṇasattvāto tasmāt kule jātatasureśvarāḥ
+tasmāttu sāttvatam nāma purāṇamavidā viduḥ
+upadiṣṭam pañcarātram tena lokahitaiccha
+āhukāṁstu samudiśya tena sāttvatamucyate”
+(Adyar edn. p. 245, śls. 79-40)
+‡The Mīmāṁsaka is the *pūrvapakṣin* here.
+§Cf. *Prakaraṇapañcikā* II, 19.
+
+[[P18]]
+
+न च पञ्चरात्रस्य वचः-प्रामाण्यम् विलक्षण-दीक्षा-अर्थम्-एव मन्त्र-पद्-अनिरूपित-चिल्-लिङ्ग-सिद्धि-पद्-अर्थेभ्य-सम्बन्धम् । नित्य-क्षय-दव-प्रीय-आद्य-अर्थेय-अम्-एव क्षमते । न हि प्रयोग-दशा-रादि-नाधि-निरूपणात्-तेषां श्रेयस-साधनम्-अनादि-प्रतिपादयामहे ।  
+
+न च तावच्-चिनः केनचिन्-मातु-पश्य-कयोः स-मिया-समित-अभिधायिनम्-अभिधायित्वम्-अन-इति-केलि-प्रीय-प्रमाणम् इति । यतः तेषाम्-अपि बहु-गुणा-निद्य-य-रूप-अभावे नातिक्रामितु-मुञ्चते ।  
+
+*   M₄ reads सत्वे and omits तन्त्र
+*   M₂, M₆,—आत्-अभिधान
+*   M₃,—नित्याख्यानम्°
+*   B, M₃, M₄, M₆, M₇, My—°दिषाप्रमाणानि°
+*   M₁,—तदप्रमाणम्
+*   M₆, M₇—तत्‌प्रमाणम्
+*   B, M₃, M₆—तन्‌मात्रिकान्त°
+*   M₂, My—तात्‌कालिक°
+
+**Dīkṣā** or Initiation is one of the cardinal principles of the religious conduct of the Bhāgavata system. It consists of five main sacraments, barring a few details that are peculiar to particular sections of the followers. These sacraments are:
+(i) “tāpaḥ puṇḍrastathā nāma mantro yāgaśca pañcamaḥ
+pañcasaṃskārādikṣāpi devadevābhyaśca mahābhāgavatasaṃmṛtāḥ
+pañcasaṃskārādikṣāpi mahābhāgavatasaṃmṛtāḥ”
+(Viṣṇutilaka Saṁhitā IV. 189-90)
+(ii) “tāpa” : branding the two arms with the conch and discus emblems,
+(iii) “puṇḍra” : marking the forehead and other parts of the body with particular tilaka-materials.
+(iv) “nāma” : taking a new name with the suffix ‘dāsa’, etc.
+(v) “mantra” : taking the ‘aṣṭākṣarī’ (the eight-syllabled ) and such other esoteric formulae, and
+(vi) “yāga” : performing different kinds of worship of the Lord.
+All are eligible for this Initiation, irrespective of sex, caste and such other considerations. Cf. *Īśvara Saṁhitā*
+“śvasavarnamuraṇamācaraṇaḥ sūtrākṛteṣṭijān
+lāñchitaḥ cakrasaṅkhābhyāmāpyatābhyaṃyadvijātāḥ” (VIII. 179 )
+“sarve samāṁścatvāro gotravarapravarjitāḥ
+utkarṣo nāprakarṣaśca jātitasteṣu sammataḥ”
+“phaleṣu niṣprahassarve dvādaśāksaraciṁtāḥ
+mokṣakāmicayassāvasthāksaracavārijitaḥ” (XXI. 40-41)
+(*JRAS* for 1911, pp. 946-47)
+
+*   `ननु च` [[P19]]
+    > [ नैयायिक-मतेन निरतिशय-जगत्-कारण-पर-हेतुना पञ्चरात्रस्य प्रामाण्य-समर्थनम् ]
+    प्रकृष्यमाणं प्रत्यक्षेण दुष्ट-मभाव-भेद-दनः ।  
+    अन्तस्-तद् आक्ष्ये प्रमिये पूर्व-पुण्यैर् परिनिष्ठितैः ॥  
+    सर्वं हि सातिशय-निरतिशय-दशा-गम-अनुभव-द् विपीयल-वीर्य-परिणामम् । सातिशय-च काकोड-द्युम्-आदिषु प्रलय-शमित-नितिवद्-अपि तथा सबितुम्-अर्हति । इयं च ज्ञानस्य परा काष्ठा, सा सर्व-गोचरा । अधिक-विषय-ज्ञान-हेतु-ज्ञानानि निरतिशय-फल-प्रदे ।  
+    इत्य्-एवं-एवैश्वर्य-गम्य-साम्य्-आदि-गुणा अपि ।  
+    निरस्त-निशयाः पुंसि क्वचित् सन्ति-इति सूरयः ॥  
+    अतो यत्-पित-लय-दोष-ण-फल-गुणा-वलम्बनम्-अभाव-भेद-साक्षात्-फलम्, स तद्-अस्मिन-सत्व-निशान-द-विषय-प्रमाण-अदि-भावो अनुभव-वेद-प्राय-प्रत्यासन्न-उपपन्न-मिति ।  
+
+> [ मीमांसकेन नैयायिक-प्रति-कथनादिरूपम् ]
+>
+> तत्-अत्र, प्रत्यक्ष-विज्ञान-प्रकर्ष-कल्पित-उपदेशि सः ।  
+> स्वर्ग-गौरवम्-अति-कृप्-अस्य नान्य्-अद-स्कन्दितुं क्षमः ॥  
+
+तथा हि—  
+
+> इरूप्प-नित-पद-कार्य-स्रव-व-अपि[^19_1] वाद्यु[^19_2]: ।  
+> प्रकर्षो भविष्यु युक्तो, हृदय-पान-कर्प-त्वम् ॥  
+
+[^19_1]: M₃,—परिकल्पितम्
+[^19_2]: M₃,—पुरुषार्थ
+*   B, M₁, M₃, M₄, M₅, My, P, PM, T, V, —°एव
+*   M₆, M₇, —एव
+*   V₁,—°मीमांसकम्
+*   B, M₃, M₆—अवतत्वि°
+*   M₃ omits व
+*   M₆,—अवादिर्
+*   M₃ omits तः
+*   M₆, M₇—°सादिर्
+*   M₃ omits हि
+
+*This is the view intended by the Naiyāyika, as also by the Siddhāntin.
+§ The Mīmāṁsaka refutes the above view. For a detailed discussion see the *Siddhitraya*: *Īśvara-siddhi*, p. 226 ff.
+†The Mīmāṁsaka is the *pūrvapakṣin* here.
+
+[[P20]]
+
+एवम्—  
+
+> इन्द्रिय-अन्तर-विज्ञानं विमूढ-गोचर-एषु तु[^20_1] ।  
+> कर्म-प्रत्यक्ष-विज्ञानं विमूढ-बोध-यितुं क्षमम् ॥  
+> ननु तत्-कल्पना-सामर्थ्यं विमूढ-विभ्रमोपलब्धेः ।  
+> असति हि स्व-भावाद्-अनुपपत्ति-विमान-उपलब्ध-मन्य-वेय-प्रत्यक्ष-ज्ञाने परावर्तते । न हि अज्ञान-विमूढ-वादि-क्षम-मन्यादि-प्रलक्षणे क्षमते । तेषाम्-एव विषय-विमूढ-लक्षण-स्व-भावनियम-उपपत्ति-निरूपणे दय-क्षम-उपरोहिति ।  
+> इदम्-अपि सातिशय-निरतिशय-ज्ञानाम्-अनुभूमानः । पृष्ठतो वा अयं छद्म-ज्ञानस्येव विनाशायम् एव खलु तां दशाम्-अनुभवति यतः । न सम्भवति संमिश्र-मिश्र-लेश-बाल-इव स्वच्छ-विभावम् । **अथ** अक्षि-स्व-ज्ञानेन सातिशय-विमूढ-ज्ञान-प्रविमूत-भाव-नियम-इति । आरोहित-समान-जात्य-नियम-निरतिशय-ज्ञापय-रूढिसु-अदे[^20_12] अविघ्न-य-अस्मिनि ।  
+> न तावद-स्मिन् कल्पः कल्पित-उपलब्ध-मनम् ।  
+> न हि इदं शर-अर्थादि-प्रयोग-एव प्राप्तव्य-लक्षणम् ॥  
+> यदि च न-इवं सातिशय-मत्-स-भाव-नियम-परम्-अपकर्षेण परिनिष्ठित-अस्तु[^20_10], हन्त तर्हि एक-एव चटम्[^20_11] । गणिक-अदि-धा-अदि-लक्षण-विमरा[^20_11] ।  
+> प्रिनिष्ठित-मतम्-निहितम्-अद्-उत्तर-आभव-मस्तु[^20_12]: ।  
+
+[^20_1]: B, M₁, M₃, M₄, M₅, My, —नोदयेति; M₂ omits त
+[^20_2]: M₂, M₃, M₄, M₅, My, B—°निरवद्यति
+[^20_3]: M₃ omits न
+[^20_4]: A, M₄, M₅, M₆, M₇,—अविध्य
+[^20_5]: P, PM—°हादः
+[^20_6]: M₄ adds अपि
+[^20_7]: M₃ omits ह्यै
+[^20_8]: M₃, M₅—°परिचय
+[^20_9]: A, B, M₅, M₆, M₇, M₄, My, T, —विशेषा
+[^20_10]: M₄, M₅, M₆, M₇, M₃,—°अभिज्ञान°
+[^20_11]: M₂, My—व्याख्या
+[^20_12]: A omits चेत्
+*   This is the third one.
+†The Mīmāṁsaka poses three alternatives against the Naiyāyika’s theory of “Supreme Person”: of which this is the first alternative.
+**This is the second alternative.
+
+### मीमांसक-संक्षेप-मत-वर्णनम्
+
+[[P21]]
+
+सन्निकृष्टे[^21_1a] च सत्वं नाम [[अन्वय-अन्तराय|अन्वयान्तराय]][^21_1b] ज्ञानाद् यत्-प्राण-माह[^21_1c] ।  
+तथा हि श्रुति-स्मृति-प्रसिद्धेन वासुदेवो हि आप्तम्[^21_2a] ।  
+तथा च [[अपि-उभय-अपि|अप्युभयापि]][^21_2b] मन्तव्ये मीमांसकेन [[प्रामाण्य-आह्वा|प्रामाण्याह्वा]] ।  
+यदि च [[न-एवं|नैवं]] सातिशय-मत् स-भाव-नियम-परम् अपकर्षेण परिनिष्ठित् अस्तु[^21_10], हन्त तर्हि [[एक-एव|एकैव]] चटम्[^21_11a] । गणिक-आदि-धा-आदि-लक्षण-विमरा[^21_11b] ।  
+प्रिनिष्ठित-मतम्-निहितम्-[[अद्-उत्तर|अदुत्तर]]-आभव-मस्तु[^21_12]: ।  
+
+[^21_1]: M₁ omits त
+[^21_1a]: M₁ omits त
+[^21_1b]: M₁ omits त
+[^21_1c]: M₁ omits त
+[^21_2]: M₁ omits हि
+[^21_2a]: M₁ omits हि
+[^21_2b]: M₁ omits हि
+[^21_10]: P, PM, T, A, M₂, M₃, M₅, M₆, M₇, B—omits च
+[^21_11]: M₄ omits a
+[^21_11a]: M₄ omits a
+[^21_11b]: M₄ omits a
+[^21_12]: M₅ omits हि
+
+
+
+
+## 
 श्रीमद्-यामुन-मुनि-प्रणीतम् आगम-प्रामाण्यम् ।
 
 [ मङ्गलाचरणम् ]
