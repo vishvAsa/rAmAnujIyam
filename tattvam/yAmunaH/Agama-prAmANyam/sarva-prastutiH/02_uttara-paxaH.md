@@ -2168,9 +2168,7 @@ and acquires this power on account of the collocation of words describing this f
 
 > whereas in ordinary language,  
 since there verbal exchange is possible also to the unsophisticated,  
-this determination of the nature of word and meaning is not attended to.139
-
-139: read na hi kriyākārye vyutpannaḥ sthāyi kāryam.  
+this determination of the nature of word and meaning is not attended to.
 </details>
 
 
@@ -2181,7 +2179,63 @@ this determination of the nature of word and meaning is not attended to.139
 </details>
 
 
-तस्यापीदं मनोरथ-मात्रम्, न हि क्रिया-कार्ये व्युत्पन्न-स्थायि-कार्यं प्रतिपादयति अति-प्रसङ्गात् । यदि वृद्ध-व्यवहारे समधिगत-पद-सामर्थ्ये ऽनुरुध्यमाने ऽन्वयावगतिर् नोपपद्यते, मोपपादि न न तु तद्-अनुपत्त्या कॢप्त-शक्ति-परित्यागेन शब्द-शक्त्यन्तरं भजते कामं लक्षणाऽश्रीयताम् । न हि विरुद्धार्थ-पद-समभिव्याहारे पदानाम् अभिधानम् एवान्यथा नीयते, सर्व-शब्दार्थेष्व् अनाश्वास-प्रसङ्गात् ।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्यापीदं मनोरथ-मात्रम्, 
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION. This position is just wishful thinking; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्यापीदं मनोरथ-मात्रम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि क्रिया-कार्ये व्युत्पन्नः स्थायि-कार्यं प्रतिपादयति अति-प्रसङ्गात् । 
+</details>
+
+<details><summary>English</summary>
+
+for a language statement,  
+even if understood in your way as bearing meaningfully only on a kārya to be accomplished with an action,  
+does not by that token set forth a permanent kārya,140  
+since that would mean over-extension. 
+
+139: read na hi kriyākārye vyutpannaḥ sthāyi kāryam.  
+
+</details>
+
+<details><summary>English - Note</summary>
+
+140: asthāyi; the Prābhākara view is that the kārya has a lasting efficacy  
+beyond the inevitably transient action it involves;  
+for the kārya must remain in order to effect the fruit of the action  
+at any time after the completion of the action.  
+
+Yāmuna objects that we cannot have two altogether different denoting powers in language,  
+one to convey a transitory thing,  
+another to convey a non-transitory thing.  
+
+The only possible explanation is that of lakṣaṇā "figurative usage," which remains related to the mukhyā "principal usage."  
+But he will deny the entire construction (67). 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+न हि क्रिया-कार्ये व्युत्पन्न(ः) स्थायि-कार्यं प्रतिपादयति अति-प्रसङ्गात् । 
+</details>
+
+
+यदि वृद्ध-व्यवहारे समधिगत-पद-सामर्थ्ये ऽनुरुध्यमाने ऽन्वयावगतिर् नोपपद्यते, मोपपादि न न तु तद्-अनुपत्त्या कॢप्त-शक्ति-परित्यागेन शब्द-शक्त्यन्तरं भजते कामं लक्षणाऽश्रीयताम् । न हि विरुद्धार्थ-पद-समभिव्याहारे पदानाम् अभिधानम् एवान्यथा नीयते, सर्व-शब्दार्थेष्व् अनाश्वास-प्रसङ्गात् ।
 
 किं च मानान्तरापूर्व-कार्य-बोधन-शक्तता ।  
 न कर्म-फल-सम्बन्ध-सिद्ध्यै तावद् उपेयते ॥
