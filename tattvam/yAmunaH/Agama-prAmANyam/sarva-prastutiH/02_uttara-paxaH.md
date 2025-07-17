@@ -7629,20 +7629,115 @@ at the end of the Dvapara age and the beginning of the Kali age." (Mahabharata, 
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवश्यं वैष्णवो दीक्षां  
+प्रविशेत् सर्वयत्नतः ।  
+दीक्षिताय विशेषेण  
+प्रसीदेन् नान्यथा हरिः ॥  
+</details>
+
+<details><summary>English</summary>
+
+Also in the Śāntiparvan: 
+
+> "Certainly, the Vaiṣṇava must undergo Consecration with all effort: for Hari will be particularly graceful to one who has been consecrated and to no one else.204 
+
+204: Mahabharata not identified.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अवश्यं वैष्णवो दीक्षां प्रविशेत् सर्वयत्नतः ।  
 दीक्षिताय विशेषेण प्रसीदेन्नान्यथा हरिः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वसन्ते दीक्षयेद्विप्रं  
+ग्रीष्मे राजन्यमेव च ।  
+शरदः समये वैश्यं  
+हेमन्ते शूद्रमेव च ॥  
+स्त्रियं च वर्षाकाले  
+तु पञ्चरात्रविधानतः ॥
+</details>
+
+<details><summary>English</summary>
+
+One should consecrate a Brahmin in spring, a Kṣatriya in summer, a Vaiśya in the autumn, a Śūdra in winter, a woman in the rainy season according to the Pañcarātra doctrine."205 
+
+205: Mahabharata not identified.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 वसन्ते दीक्षयेद्विप्रं ग्रीष्मे राजन्यमेव च ।  
 शरदः समये वैश्यं हेमन्ते शूद्रमेव च ॥  
 स्त्रियं च वर्षाकाले तु पञ्चरात्रविधानतः ॥
 
-तथा ।  
-वेदैश्चतुर्भिस्स (सम -शब्दात्ताद्धितेन इतच्प्रत्ययेन व्युत्पन्नः समितशब्दो भवति तुल्यार्थः ।)मितं मेरौ महागिरौ ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा -  
+
+> वेदैश् चतुर्भिस् समितं मेरौ महागिरौ ।  
+</details>
+
+<details><summary>English</summary>
+
+And likewise: "It has been made commensurate with the four Vedas on the great Mountain Meru."206 
+
+206: Mahabharata not identified.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा -  
+वेदैश्चतुर्भिस्समितं मेरौ महागिरौ ।  
+</details>
+
+
+
+<details><summary>राममिश्रः</summary>
+
+(सम -शब्दात्ताद्धितेन इतच्प्रत्ययेन व्युत्पन्नः समितशब्दो भवति तुल्यार्थः ।)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवम्-आदि-वचो-भङ्गी-  
+शतैस् सादरम् ईरितैः ॥  
+वेदान्तसार-सर्वस्वम्  
+आत्मीयं परमं मतम् ।  
+पञ्च-रात्रं निराकुर्यात्  
+कथं द्वैपायनः स्वयम् ।  
+</details>
+
+<details><summary>English</summary>
+
+Now, how could Dvaipāyana reject the Pañcaratra, which is his own supreme doctrine, comprising the sense of the Upaniṣads, as follows from these and a hundred direct and circumlocutory declarations made with full respect?
+
+[[80]]
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 एवमादिवचोभङ्गीशतैस्सादरमीरितैः ॥  
 वेदान्तसारसर्वस्वमात्मीयं परमं मतम् ।  
 पञ्चरात्रं निराकुर्यात् कथं द्वैपायनः स्वयम् ।  
+</details>
+
 
 ### ब्रह्म-सूत्रे ऽनिराकारः
-कथं तर्हीदं सूत्रम् उत्प्रत्यसंभवात् इति किं वाऽस्य सूत्रस्य हृदयम् इदमस्य सूत्रस्य, भागवतशास्त्रे जीवोत्पत्तेः प्रतिपाद्यमानत्वात् तस्याश्च श्रुतिन्यायविरोधेनासम्भवादसमीचीनं शास्त्रमिति, यद्येष सूत्रार्थस्तर्हि पञ्चरात्रशास्त्रनिराकरणपरं सूत्रम्,  न हि पञ्चरात्रशास्त्रेषु जीवोत्पत्तिरङ्गीकृता येनैवमुच्यते ।  
+
+कथं तर्हीदं सूत्रम् उत्पत्त्यसंभवात् इति किं वाऽस्य सूत्रस्य हृदयम् इदमस्य सूत्रस्य, भागवतशास्त्रे जीवोत्पत्तेः प्रतिपाद्यमानत्वात् तस्याश्च श्रुतिन्यायविरोधेनासम्भवादसमीचीनं शास्त्रमिति, यद्येष सूत्रार्थस्तर्हि पञ्चरात्रशास्त्रनिराकरणपरं सूत्रम्,  न हि पञ्चरात्रशास्त्रेषु जीवोत्पत्तिरङ्गीकृता येनैवमुच्यते ।  
 नन्वस्तीदं वचनं वासुदेवः परा प्रकृतिः परमात्मा ततस्संकर्षणो नाम जीवो जायते सङ्कर्णात् प्रद्युम्नसंज्ञं मनो जायते ततोऽनिरुद्धनामा अहङ्कारो जायते ।  
 इति,
 
