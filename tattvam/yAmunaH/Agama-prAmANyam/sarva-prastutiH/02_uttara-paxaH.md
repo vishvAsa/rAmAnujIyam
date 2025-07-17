@@ -4862,87 +4862,496 @@ He is the maker of its subsistence and its destruction."
 Therefore, the study of these and similar śrutis, smṛtis, epical texts and Purāṇas proves that Vāsudeva is the universal cause, the Supreme Soul.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्मादीदृशश्रुतिस्मृतीतिहासपुराणपर्यालोचनया अखिलजगत्कारणं परमात्मा वासुदेव इति निश्चीयते ।  
 </details>
 
-
-
 ### न शिवादिः
-न चैवं परमात्मत्वं रुद्रादेः श्रुतिषूद्-इतम् ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चैवं परमात्मत्वं  
+रुद्रादेः श्रुतिषूदितम् ।  
+प्रत्युतोत्पत्तिम् एवाहुस्  
+तस्यैकायन-शाखिनः ॥
+</details>
+
+<details><summary>English</summary>
+
+80\. Nor do the śrutis declare that Rudra is the Supreme Soul, or that any other deity is. On the contrary, the followers of the Ekāyana śākhā 169 say that he has an origin,  
+
+168: A little known Vedic branch (if it was a Vedic tradition), from which certain Vaiṣṇava sects derive their authority; cf. infra §138\.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चैवं परमात्मत्वं रुद्रादेः श्रुतिषूदितम् ।  
 प्रत्युतोत्पत्तिम् एवाहुस् तस्यैकायन-शाखिनः ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"तमो वा इदम्" इत्य्-आदौ  
+तथा वेदे ऽपि दृश्यते ।  
+"यतो हि रुद्रस् सञ्जज्ञे  
+तत् श्रेष्ठं भुवनेष्व्" इति ॥
+</details>
+
+<details><summary>English</summary>
+
+and the same is found in the Veda itself:  
+
+> "Darkness was here....  
+from which Rudra is born;  
+that is the greatest in all the worlds," 
+
+169: These quotations could not be identified.  
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 "तमो वा इदम्" इत्य्-आदौ तथा वेदे ऽपि दृश्यते ।  
 यतो हि रुद्रस् सञ्जज्ञे तत् श्रेष्ठं भुवनेष्व् इति ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "तत् इद् आस भुवनेषु ज्येष्ठम्" इति ।  
-तथा रौद्रं पदं स्पष्टं कर्म-जन्यं प्रतीयते ॥
+</details>
 
+<details><summary>English</summary>
+
+"that indeed is the oldest in the worlds." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+"तत् इद् आस भुवनेषु ज्येष्ठम्" इति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा रौद्रं पदं स्पष्टं  
+कर्म-जन्यं प्रतीयते ॥  
+"महिमानं निजं लेभे  
+विष्णोर् अभ्यर्थनाद्" इति ।  
+</details>
+
+<details><summary>English</summary>
+
+Similarly, Rudra's position is clearly known to be a result of his karman: "He obtained his greatness by propitiating Viṣṇu." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा रौद्रं पदं स्पष्टं कर्म-जन्यं प्रतीयते ॥  
 "महिमानं निजं लेभे विष्णोर् अभ्यर्थनाद्" इति ।  
-"अस्य देवस्य" इति, "ललाटाद् अभवद्-बिन्दुस् तस्माद् रुद्रो व्यजायत ।"  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अस्य देवस्ये"ति,  
+</details>
+
+<details><summary>मूलम्</summary>
+
+"अस्य देवस्ये"ति,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ललाटाद् अभवद्-बिन्दुस्  
+तस्माद् रुद्रो व्यजायत ।"  
+इत्य्-आदिकाश् च श्रुतयो  
+रुद्रोत्पत्तिं वदन्ति वै ।
+</details>
+
+<details><summary>English</summary>
+
+"From the forehead sprang a drop; from that Rudra was born,"170  
+These and other śrutis declare that Rudra was born. 
+
+170: BĀ Up 4\.1\.5\.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"ललाटाद् अभवद्-बिन्दुस् तस्माद् रुद्रो व्यजायत ।"  
 इत्यादिकाश् च श्रुतयो रुद्रोत्पत्तिं वदन्ति वै ।
+</details>
+
+
+#### पुराण-वाद-निर्वाहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवञ्च सति रुद्रादि-  
+महिमावेदिका इव ।  
+या वाचस् तास् स्तुति-पराः  
+"श्रोत्रं ब्रह्म" इति गीर् इव ॥
+</details>
+
+<details><summary>English</summary>
+
+This being so, the statements that in appearance convey the greatness of Rudra and others really serve as laudatory statements, like the śruti: "the ear is brahman."
+
+[[67]]
+</details>
+
+<details><summary>मूलम्</summary>
 
 एवञ्च सति रुद्रादि-महिमा-वेदिका इव ।  
 या वाचस् तास् स्तुति-पराः "श्रोत्रं ब्रह्म" इति गीर् इव ॥
+</details>
 
-एतेन रुद्रादीनां परमात्मत्व-प्रतिपादक-पुराण-वादाः ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतेन रुद्रादीनां परमात्मत्व-प्रतिपादक-पुराण-वादाः  
+प्रत्यक्ष-श्रुति-विरोधान् न मुख्य-अर्थाः । +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+Consequently, the passages in the Purāṇas which declare Rudra etc. to be the Supreme Soul have not their primary meaning, because they are in conflict with ~~Perception and~~ clear Scripture.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एतेन रुद्रादीनां परमात्मत्व-प्रतिपादक-पुराण-वादाः  
 प्रत्यक्ष-श्रुति-विरोधान् न मुख्य-अर्थाः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् वा त्याज्यतया तन्त्र-  
+सिद्धान्त-प्रतिपादकाः +++(पुराण-वादाः)+++।  
+अ-वैदिकेषु तन्त्रेषु  
+तन्+++(←रुद्रादि)+++-माहात्म्यं हि कथ्यते ॥
+</details>
+
+<details><summary>English</summary>
+
+81\. Concerning the objection that the assertions of the doctrines of the Tantras are to be rejected  
+since their greatness is set forth only in non-Vedic Tantric texts,  
+</details>
+
+<details><summary>मूलम्</summary>
+
 यद् वा त्याज्यतया तन्त्र-सिद्धान्त-प्रतिपादकाः ।  
 अवैदिकेषु तन्त्रेषु तन्-माहात्म्यं हि कथ्यते ॥
+</details>
+
+### वेदानुकूल-पुराणानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेद-सिद्धान्त-मार्गेषु विष्णुर् एव परः स्मृतः ।  
-तद् यथा वैष्णवे ।
+</details>
+
+<details><summary>English</summary>
+
+we say that Viṣṇu is stated to be the Supreme One in the texts of the Way of the Vedic doctrine. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+वेद-सिद्धान्त-मार्गेषु विष्णुर् एव परः स्मृतः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् यथा वैष्णवे -
+
+> परमात्मा च सर्वेषाम्  
+आधारः परमेश्वरः ।  
+विष्णु-नामा स वेदेषु  
+वेदान्तेषु च गीयते ॥
+</details>
+
+<details><summary>English</summary>
+
+For example in the Viṣṇu Purāṇa, "The Supreme Soul, the Basis of all creatures, the Supreme Lord is called by the name of Viṣṇu in Vedas and Upaniṣads."171 
+
+171: Viṣṇu Pur. 6\.4\.40\.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद् यथा वैष्णवे -
 
 > परमात्मा च सर्वेषाम् आधारः परमेश्वरः ।  
 > विष्णु-नामा स वेदेषु वेदान्तेषु च गीयते ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाराहे ।
+
+> विष्णुर् एव परं ब्रह्म  
+त्रि-भेदम् इह पठ्यते ।  
+वेद-सिद्धान्त-मार्गेषु  
+तन् न जानन्ति मोहिताः ॥
+</details>
+
+<details><summary>English</summary>
+
+In the Varāha Purāṇa, "The Supreme Brahman is Viṣṇu; the triple division in the pathways of the Vedic doctrine is here set forth; the ignorant do not know this."172 
+
+172: cf. Varāha Pur., 72\.4, which reads pūjyate in b.  
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 वाराहे ।
 
 > विष्णुर् एव परं ब्रह्म त्रि-भेदम् इह पठ्यते ।  
 > वेद-सिद्धान्त-मार्गेषु तन् न जानन्ति मोहिताः ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नारायणात् परो देवो  
+न भूतो न भविष्यति ।  
+> एतद् रहस्यं वेदानां  
+पुराणानां च सत्तमाः ॥ 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+"There has been no god greater than Nārāyaṇa, nor shall there be; this is the secret doctrine of Vedas and Purāṇas, O excellent ones."173 
+</details>
+
+<details><summary>English - Note</summary>
+
+173: cf. Varāha Pur. 70\.26 na tasmāt parato devo bhavitā na bhaviṣyati. It is clear from several quotations from this Purāṇa that Yāmuna's text had different readings, not all of them better.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 > नारायणात् परो देवो न भूतो न भविष्यति ।  
 > एतद्-रहस्यं वेदानां पुराणानां च सत्तमाः ॥ इति ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा मात्स्ये ।
+
+> सात्त्विकेषु तु कल्पेषु  
+विष्णोर् माहात्म्यम् उच्यते ।  
+अग्नेश् शिवस्य माहात्म्यं  
+तामसेषु प्रकीर्त्यते ॥ 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+Likewise in the Matsya Purāṇa, "In those aeons where sattva prevails, the greatness of Viṣṇu is declared. In aeons predominated by tamas the greatness of Fire and Śiva is expounded."174 
+
+174: Matsya Pur. 290\.15\.  
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 तथा मात्स्ये ।
 
 > सात्त्विकेषु तु कल्पेषु विष्णोर् माहात्म्यम् उच्यते ।  
-> अग्नेश् शिवस्य माहात्म्यं तामसेषु प्रकीर्त्यते ॥ इति, ।
+> अग्नेश् शिवस्य माहात्म्यं तामसेषु प्रकीर्त्यते ॥ 
+
+इति ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा लैङ्गे ।
+
+> न हि विष्णुम् ऋते काचिद्  
+गतिर् अन्या विधीयते ।  
+इत्य् एवं सततं वेदा  
+गायन्ते नात्र संशयः ॥ 
+
+इति,
+</details>
+
+<details><summary>English</summary>
+
+Likewise in the Liṅga Purāṇa, 
+
+> "For there is no other recourse ordained but Viṣṇu; this the Vedas constantly declare, no doubt about it."175 
+
+175: The Liṅga, Vāyu and Bhaviṣyat quotations could not be verified.  
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 तथा लैङ्गे ।
 
 > न हि विष्णुम् ऋते का-चिद् गतिर् अन्या विधीयते ।  
 > इत्य् एवं सततं वेदा गायन्ते नात्र संशयः ॥ इति,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा वायवीये ।
 
 > सहस्र-बाहुः परमः प्रजापतिः ।  
-> त्रयी-पथेयः पुरुषो निरुच्यते ॥ इति,
+> त्रयी-पथेयः पुरुषो निरुच्यते ॥ 
+
+इति,
+</details>
+
+<details><summary>English</summary>
+
+[[68]]
+
+Likewise in the Vāyu Purāṇa,
+
+"The Spirit that belongs to the Way of the Veda is explained to be the thousand-armed supreme lord of creatures." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा वायवीये ।
+
+> सहस्र-बाहुः परमः प्रजापतिः ।  
+> त्रयी-पथेयः पुरुषो निरुच्यते ॥ 
+
+इति,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा भविष्यति ।
+
+> वेद-सिद्धान्त-मार्गेषु  
+विष्णुर् एव परः स्मृतः ।  
+विष्णुर् एव नर-श्रेष्ठो  
+महिष्ठः पुरुषोत्तमः ॥ 
+
+इति,
+</details>
+
+<details><summary>English</summary>
+
+Likewise in the Bhaviṣyat Purāṇa, "Visnu is traditionally known to be the Supreme in the pathways of the Vedic doctrine. Viṣṇu is the greatest among persons, the most exalted Supreme Person." 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 तथा भविष्यति ।
 
 > वेद-सिद्धान्त-मार्गेषु विष्णुर् एव परः स्मृतः ।  
-> विष्णुर् एव नर-श्रेष्ठो महिष्ठः पुरुषोत्तमः ॥ इति,
+> विष्णुर् एव नर-श्रेष्ठो महिष्ठः पुरुषोत्तमः ॥ 
 
-सर्वं चैतत् पुरुष-निर्णये[^1] निपुणतरम् उपपादितम् इति नेह प्रपञ्च्यते ।
-[^1]: पुरुष-निर्णय-नामा भगवन्-महिम-प्रतिपादन-पुरःसरो-देवतान्तर-व्यावर्तन-मुखेन विष्णु-पर-तत्त्व-प्रतिपादन-परो ग्रन्थः परमाचार्य-प्रणीतः ।
+इति,
+</details>
+
+<details><summary>English</summary>
+
+All this has already been explained in great detail in the Puruṣanirṇaya 176 and is therefore not further enlarged upon here. 
+
+176: Title of one of Yāmuna's treatises.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वं चैतत् पुरुष-निर्णये निपुणतरम् उपपादितम् इति नेह प्रपञ्च्यते ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वं चैतत् पुरुष-निर्णये निपुणतरम् उपपादितम् इति नेह प्रपञ्च्यते ।
+</details>
+
+<details><summary>राम-मिश्रः</summary>
+
+पुरुष-निर्णय-नामा भगवन्-महिम-प्रतिपादन-पुरःसरो-देवतान्तर-व्यावर्तन-मुखेन विष्णु-पर-तत्त्व-प्रतिपादन-परो ग्रन्थः परमाचार्य-प्रणीतः ।
+</details>
+
+
+
+
+## पाञ्चरात्र-दानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश् च ।  
+
+श्रुति-मूर्ध्नि प्रसिद्धेन  
+वासुदेवेन भाषितम् ।  
+तन्त्रं मिथ्येति वक्तुं नः  
+कथं जिह्वा प्रवर्तते ॥
+</details>
+
+<details><summary>English</summary>
+
+Therefore, how can our tongue endeavour to say that the Tantra which is revealed by Viṣṇu who is known from the Upaniṣads is false? 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 ततश् च ।  
 श्रुति-मूर्ध्नि प्रसिद्धेन वासुदेवेन भाषितम् ।  
 तन्त्रं मिथ्येति वक्तुं नः कथं जिह्वा प्रवर्तते ॥
 
-## पाञ्चरात्र-दानम्
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि सहज-संवेदन-साक्षात्-कृत--दीक्षाऽऽराधनादि-धर्मः  
+> स हि सहज-संवेदन-साक्षात्-कृत--दीक्षाऽऽराधनादि-धर्मः  
+</details>
+
+<details><summary>English</summary>
+
+> For He is such that He has an immediate insight into the dharma of Consecration, Propitiation etc., by virtue of the omniscience that is natural to Him.177
+</details>
+
+<details><summary>English - Note</summary>
+
+177: read sa hi 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> स हि सहज-संवेदन-साक्षात्-कृत--दीक्षाऽऽराधनादि-धर्मः  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 स्वर्ग-पुत्रादि-वैषयिक-सुखम् अनेक-दुःख-संभिन्नम्,  
-न चातिचिरम् अनुवर्तत इति
+न चातिचिरम् अनुवर्तत 
+
+इति
 </details>
 
 <details><summary>Buitenen</summary>
 
-82\. Considering that the sensual pleasure to be had  
+
+82\. Considering that 
+
+> the sensual pleasure to be had  
 from attainment of heaven, the birth of a son etc.  
 is inseparable from various forms of misery and does not, continue for long,  
 </details>
@@ -5599,7 +6008,7 @@ A man becomes an ascetic by accepting the Kāpālika vow."
 #### शिवाप्रणीतता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च वाच्यम् अ-प्रमाण-भूतम् इयन्तं ग्रन्थराशिं कथं प्रत्ययिततरो रुद्रः प्रणयतीति ।  
+न च वाच्यम् "अ-प्रमाण-भूतम् इयन्तं ग्रन्थराशिं कथं प्रत्ययिततरो रुद्रः प्रणयती"ति ।  
 </details>
 
 <details><summary>Buitenen</summary>
@@ -5877,7 +6286,7 @@ and does not form part of the worship of the Bhagavan:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> तद्वेदबाह्यं कर्मोक्तं  
+> तद् वेदबाह्यं कर्मोक्तं  
 माम् उद्दिश्योपसेव्यते ।  
 तद् वै पाशुपतं नाम  
 कनिष्ठम् मोहनं नृणाम् ॥  
@@ -6171,7 +6580,7 @@ supra §52.
 
 </details>
 
-### न स्वतः प्रामाण्यम्
+#### न वेदाः, न प्रत्यक्षम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6197,6 +6606,7 @@ another cause must be assumed for them.
 तन्त्रान्तराणां युक्तेति कल्प्यते कारणान्तरम् ।  
 </details>
 
+### परतो ऽप्रामाण्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु मूलान्तरापेक्षा  
@@ -6222,7 +6632,7 @@ But is in your own view knowledge not self-proved?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> सत्यं तद् एव विज्ञान-  
+सत्यं तद् एव विज्ञान-  
 प्रामाण्यम् **अपनीयते** ॥  
 बाध-कारण-दोषाभ्यां  
 ताव् अपि द्वाव् इह स्फुटौ ।  
@@ -6245,12 +6655,13 @@ for both these defects are plain in their case.
 बाधकारणदोषाभ्यां तावपि द्वाविह स्फुटौ ।  
 </details>
 
+### नामादि-साम्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं श्रुतिविरुद्धस्य  
 स्फुट-मूलान्तरस्य यत् ॥  
 पञ्च-रात्रेण साधर्म्यं  
-+++(हेतुना ←)+++ तन्त्रत्वेनाभिधित्सितम् ।  
++++(हेतुना ←)+++ तन्त्रत्वेनाभिधित्सितम् …।  
 </details>
 
 <details><summary>Buitenen</summary>
@@ -6271,14 +6682,14 @@ while in fact one of the two is incompatible with Scripture and plainly shows a 
 
 क्रियात्वेन तु साधर्म्यं  
 ब्रह्म-हत्याऽश्वमेधयोः ॥+++(5)+++  
-श्रुति-प्रत्यक्षयोस् तत्र +++(→पाञ्चरात्रे)+++  
+श्रुति-प्रत्यक्षयोस् तत्र  
 यतो मूलत्व-निश्चयः ।  
 </details>
 
 <details><summary>Buitenen</summary>
 
-would mean that Brahmin Murder and Horse Sacrifice are on the same level because both are actions:  
-For in the case of Pañcaratra Sastra we have positive certainty that it is based on Scripture and Perception. 
+would mean that Brahmin Murder and Horse Sacrifice are on the same level because both are actions, (which are seen in the scripture, For in that case, we've determined their source).  
+~~For in the case of Pañcaratra Sastra we have positive certainty that it is based on Scripture and Perception.~~  
 </details>
 
 
@@ -6288,8 +6699,7 @@ For in the case of Pañcaratra Sastra we have positive certainty that it is base
 श्रुतिप्रत्यक्षयोस्तत्र यतोमूलत्वनिश्चयः ।  
 </details>
 
-## न वेद-बाह्यम्
-### वेद-मूलता
+## श्रुत्य्-अनुवादौचित्यम् 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च श्रुति-मूलत्वे  
@@ -6336,6 +6746,9 @@ but for God it is revealed in Scripture, e.g.,
 तस्याध्यक्षमिदं सर्वं भीषाऽस्मादिदमादिषु ।  
 </details>
 
+
+## न वेद-बाह्यम्
+### वेद-मूलता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु वेदमूला एव चेदेताः पञ्चरात्र-स्मृतयः -  
@@ -7205,7 +7618,17 @@ at the end of the Dvapara age and the beginning of the Kali age." (Mahabharata, 
 
 
  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तथा शान्तिपर्वण्यपि  -  
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा शान्तिपर्वण्यपि  -  
+</details>
+
+
 अवश्यं वैष्णवो दीक्षां प्रविशेत् सर्वयत्नतः ।  
 दीक्षिताय विशेषेण प्रसीदेन्नान्यथा हरिः ॥  
 वसन्ते दीक्षयेद्विप्रं ग्रीष्मे राजन्यमेव च ।  
