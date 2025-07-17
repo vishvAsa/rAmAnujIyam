@@ -852,7 +852,7 @@ because no such relation can be (determined) ~~verified by Perception~~,
 एवं तन्-मूलागमोऽपि तत एव नानुमातुं शक्यः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 just so, no scriptural authority to furnish the basis of such a relation  
 can be inferred from Scripture. 
@@ -5133,6 +5133,8 @@ how then can we refuse to accept the authority of a tradition which derives from
 </details>
 
 #### प्रमाणान्तर-गोचरता-सम्भावना न बाधते
+<div class="js_include" url="../aMshaH/na_cha_siddhe" newLevelForH1="5" includeTitle="false">
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **न** च परिनिष्ठत-वस्तु-गोचरतया  
@@ -5267,6 +5269,7 @@ depending on one's particular partisan views.
 
 > हन्त तर्हि निरतिशयावबोधैश्वर्यमहानन्दसन्दोहवपुषि भगवति न मानान्तरगन्धसम्बन्ध इति सर्वं समानमन्यत्राभिनिवेशात् ।  
 </details>
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
