@@ -135,7 +135,7 @@ de acuerdo con las calificaciones (de cada individuo).
 </details>
 
 
-## प्रपन्नस्य भगवदभिमतत्वम्
+## प्रपन्नस्य भगवद्-अभिमतत्वम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -145,7 +145,7 @@ de acuerdo con las calificaciones (de cada individuo).
 > शरणं तेऽव्रजं विभो’’+++(5)+++  
 > (जितन्ता-स्तोत्रम्) 
 
-ऎऩ्ऱ् इवऩ् काल् पिडिक्क 
+ऎऩ्ऱ् इवऩ् काल् +++(कन्यादाने नमस्कारवत्)+++ पिडिक्क 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -156,7 +156,7 @@ de acuerdo con las calificaciones (de cada individuo).
 > शरणं तेऽव्रजं विभो’’+++(5)+++  
 > (जितन्ता-स्तोत्रम्) 
 
-इति, अस्मिन् (जीवे) पादं गृहीतवति, 
+इति, अस्मिन् (जीवे) +++(कन्यादाने नमस्कारवत्)+++ पादं गृहीतवति, 
 </details>
 
 
@@ -199,7 +199,7 @@ Cuando con estas palabras, la Prapanna **toma** los pies del Señor,
 > भक्ति-क्रीतो जनार्दनः’’  
 > (विष्णुधर्मः ३-२४) 
 
-ऎऩ्गिऱ बडिये इवऩैक् कैप् पिडित्तु 
+ऎऩ्गिऱ बडिये इवऩैक् कैप् +++(विवाहे पाणि-ग्रहणवत्)+++ पिडित्तु 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -209,7 +209,7 @@ Cuando con estas palabras, la Prapanna **toma** los pies del Señor,
 > (विष्णुधर्मः ३-२४) 
 
 इत्य्-उक्त-रीत्या  
-एनं हस्ते गृहीत्वा 
+एनं +++(विवाहे पाणि-ग्रहणवत्)+++ हस्ते गृहीत्वा 
 </details>
 
 <details><summary>English</summary>
@@ -251,7 +251,7 @@ Lo cual, **se ha dicho**, es el único apoyo de la Prapanna:
 
 ऎऩ्गिऱ बडिये  
 उभय-विभूति-नाथऩ् आऩ सर्वेश्वरऩ्  
-ताऩ् उगन्दद् ऒरु **निलत्तिले वैक्क** 
++++(विवाहे गृह-प्रवेशवत्)+++ ताऩ् उगन्दद् ऒरु **निलत्तिले वैक्क**  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -260,7 +260,7 @@ Lo cual, **se ha dicho**, es el único apoyo de la Prapanna:
 > (भारतम् शान्ति-पर्व ४३-१३।) 
 
 इत्य्-उक्तय् उभय-विभूति-नाथे सर्वेश्वरे  
-स्वाभिमते कस्मिंश्चित् स्थाने स्थापितवति सति,  
++++(विवाहे गृह-प्रवेशवत्)+++ स्वाभिमते कस्मिंश्चित् स्थाने स्थापितवति सति,  
 </details>
 
 
@@ -348,7 +348,6 @@ and following such occupations as are consistent with his exclusive and supreme 
 
 y **siguiendo las ocupaciones** que son consistentes con su apego exclusivo y supremo al Señor.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
