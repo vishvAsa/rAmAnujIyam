@@ -382,7 +382,6 @@ DELAY IN THE ATTAINMENT OF THE GOAL :
 
 एवं-विधेष्व् अधिकारिषु  
 प्रारब्ध-दुष्कृत-विशेष-वैचित्री-भवौ  
-
 </details>
 
 
