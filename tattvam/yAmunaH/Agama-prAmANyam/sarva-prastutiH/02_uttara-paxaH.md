@@ -7734,6 +7734,12 @@ Now, how could Dvaipāyana reject the Pañcaratra, which is his own supreme doct
 पञ्चरात्रं निराकुर्यात् कथं द्वैपायनः स्वयम् ।  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+3 
+Yamuna holds Vyāsa, the author of the Mahābhārata to be one with Badarayana, the author of the Brahmasutra. 
+</details>
+
 
 ### ब्रह्म-सूत्रे ऽनिराकारः
 
@@ -7791,6 +7797,11 @@ OBJECTION. The following: Since it is expounded in the Bhāgavata Śāstra that 
 <details><summary>मूलम्</summary>
 
 इदमस्य सूत्रस्य [भावः] भागवतशास्त्रे जीवोत्पत्तेः प्रतिपाद्यमानत्वात् तस्याश् च श्रुति-न्याय-विरोधेनासम्भवाद् असमीचीनं शास्त्रम् इति । 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+The 'purvapakşa' arguments advanced here are those made by Sankara- See his commentary on the four sutras comprising the Utpattyasambhava or the ' Pañcarūtra ' sectionः Brahmasūtra II. ii. 42-45. 
 </details>
 
 
@@ -7853,6 +7864,19 @@ For the Pāñcarātra Śāstras do not accept that the individual soul has an or
 </details>
 
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
++ Cf. Ahirbudhnya Samhitā V. 28a 
+* भगवान् वासुदेवस्त परमा प्रकृतिश्च सा । ' 
+
+Cf. Sankara under Brahmasutra II. ii. 42- 
+यत् पुनर् इदम् उच्यते -  
+वासुदेवाय संकर्षण उत्पयते,  
+संकर्षणाच्च प्रद्युम्नः,  
+प्रद्युम्नाच्च अनिरुद्ध इति । ' etc. 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि तु व्यूह-रूपेण  
@@ -7870,6 +7894,22 @@ REPLY. NO. The personal manifestation of God is described as being constituted b
 
 अपि तु व्यूह-रूपेण व्यक्तिर् देवस्य कीर्त्यते ।  
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Cf. Ahirbudhnya Samhitā, ch. V- 
+
+> **व्यूहा** एते विशालाक्षाश्  
+चात्वारः पुरुषोत्तमाः।  
+निर्दोषा निरनिष्ठाश् च  
+निरवद्याः सनातनाः ॥ 5.41 ॥  
+अनन्तमक्षरं [^32]चैतच्  
+**चातुरात्म्यं** महामुने।  
+…  
+तत्र स्थूल-दशायां ते  
+**व्यक्ति-भावम्** उपागताः ॥ 5.43 ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7890,6 +7930,80 @@ and the word "individual soul" is assigned to one of these vyūhas for practical
 तत्र संव्यवहारार्थं जीव-शब्दः प्रयुज्यते ॥  
 वर्णानाम् आनुलोम्येन पूज्य-भेद-प्रसिद्धये ।  
 </details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Cf. Ahirbudhnya Samhitā- V. 44- 
+
+> जगताम् **उपकाराय**  
+सच्-चिद्-आनन्द-लक्षणाः।  
+मन-आलम्बनायैषा[^34]  
+चातुरात्म्य-व्यवस्थितिः ॥ 5.44 ॥
+
+This Samhita thus clarifies that the four-fold manifestation of the Supreme Lord Vasudeva, as Sankarṣaṇa, Pradyumna and Aniruddha is for the welfare of the creation, by facilitating mental concentration in different degrees for aspirants of different capacities. 
+This four-fold manifestation has got a purpose, says the Sattvata Samhitā, namely, facilitating the worship by the four castes, Brāhmana, Kşatriya, Vaiśya and Sūdra, respectively. 
+It is only the Brāhmaṇa that is entitled to worship all these four mani- festations of God, viz., Vasudeva, Sankarsana, Pradyumna and Aniruddha. For the remaining castes, however, only particular forms of God are ordained for worship For further details, see the Sättvata Samhitā ch. VII. 
+
+
+Cf. the following passages from the Sattvata Samhitā
+
+> अब्दान्तम् अर्चनं विष्णोर्  
+निष्कामेणाग्रजन्मना ॥ २९ ॥  
+एवं सङ्कर्षणाद्यं तु वासुदेवान्तम् अर्चनम् ।  
+विहितं क्षत्र-जातेर् वै कर्तव्यत्वेन सर्वदा ॥ ३० ॥  
+प्रद्युम्नाद्यं तु वैश्यस्य  
+मुसल्यन्तम् उदाहृतम् ।  
+सच्छूद्रस्यानिरुद्धाद्यं  
+प्रद्युम्नान्तं सदैव हि ॥ ३१ ॥  
+
+> सर्वत्राधिकृतो विप्रो  
+वासुदेवादि-पूजने ।  
+यथा तथा न क्षत्राद्यास्  
+तस्माच् छास्त्रोक्तम् आचरेत् ॥ ५५ ॥  
+
+> चतुर्णां ब्राह्मणादीनां  
+स्वयमेवानुकम्पया ।  
+चातुरात्म्येन रूपेण  
+चतुर्धा व्यक्तिमेति च ॥ 12.17 ॥  
+
+
+the following from the Parama Samhita 11. 99b-101- 
+
+> स तु देवश् चतुर्व्युहो  
+भुवनेष्व् अधितिष्ठते ॥  
+धुर्मादिषु परां सिद्धिम्  
+अवाप्य हितकाम्यया ।  
+वसुदेवस् स्मृतो धर्मो  
+ज्ञानम् सन्कर्षणस् स्मृतः ॥  
+तथ विमुक्तः प्रद्युम्नः  
+अनिरुद्धस् सकलेश्वरः 
+तत्र व्यक्तास् समस्ताश्च  
+चत्वारस्तु गुणा इमे ॥
+
+The above passages from the Parama Samhita point out that the four forms of the Lord, viz., Vasudeva, Sankarṣaṇa, Pradyumna and Aniruddha are intended by the Lord to initiate the qualities of Dharma, Jñana, Vimukti and Avarya respectively, in the beings created. 
+
+The fact that the four manifestations of the Lord are designed by the Ford Himself to facilitate the worship by the four different castes is briefly set both by the Pauskara Samhita ( ch. 38. śl. 4a, 5a), which Rāmānuja quotes in his SribhaSya under II. ii. 41, p. 829- 
+
+C. also Visvaksena Samhitä XI. 146-147- 
+
+> कर्तव्यत्वेन वै यत्र  
+चातरात्म्यम् उपासते 
+क्रमागतैः स्व-संज्ञाभिः  
+ब्राह्मणैर् आगमम् तु तत् । 
+
+C. also Visvaksena Samhitā XI. 146-147- 
+
+> वसुदेवः परा मूर्तिस्  
+स्थापनीया द्विजोत्तमैः ।  
+द्वितियः स्थाप्यते मूर्तिः  
+क्षत्रियैर् मोक्षकङ्षिभिः ॥ 
+प्रद्युम्नाख्या तु विप्रेन्द्र  
+वैश्यैस्स्थाप्या मुमुक्सुभिः  
+शूद्रैस् संस्थाप्यते मूर्तिर्  
+अनिरुद्धो जगद्गुरुः ॥
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7917,16 +8031,90 @@ It is as they say: "The four vyūhas are to be worshipped successively by the fo
 इति, 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
+To be identified. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च 
+
+> जीव-मनोऽहङ्कार-शब्दा  
+न तन्-मात्र-वचनाः  
+अपि तु तत्-तद्-अधिष्ठानाधिकृत-विलक्षण-विग्रहवत्-पुरुषाभिधाना 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+Besides, the words 'individual soul,' 'mind' and 'ego' do not denote these tanmātras 209 themselves, but refer to a person who is the superintending deity of these orders and whose personality is entirely different from the order he superintends. 
+
+(209: tanmātras here in the sense of the "higher evolutes." )
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 अपि च जीव-मनोऽहङ्कार-शब्दा न तन्-मात्र-वचनाः अपि तु तत्तद्-अधिष्ठानाधिकृत-विलक्षण-विग्रहवत्-पुरुषाभिधाना इति ।
+</details>
 
-> विचित्र-देह-संपत्तिर्  
-> जन्मेति व्यपदिश्यते ।  
-> तोयेन जीवान् इत्य् एतद्  
-> यजुर्-मूर्ध्नि यथा वचः ॥
 
-अपि च जीवोत्पत्ति-प्रलयादि-गोचराः श्रुति-स्मृति-लोक-वादाः "चराचर-व्यपाश्रयस् तु स्यात् तद्-व्यपदेशो भाक्तस् तद्भाव-भावित्वात्" इत्य् अत्रैव सूत्रकारेण कृत-निर्वाहाः ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विचित्र-देह-संपत्तिर्  
+जन्मेति व्यपदिश्यते ।  
+"तोयेन जीवान्" इत्य् एतद्  
+यजुर्-मूर्ध्नि यथा वचः ॥
+</details>
+
+<details><summary>English</summary>
+
+Birth is described as the acquisition of various bodies, as is said in the statement toyena jīvān in the Yajurmūrdhan.210 
+
+210: toyena jīvān vyasarjayad bhūmyām, MahānārUp., 1\.4\.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विचित्र-देह-संपत्तिर्  
+जन्मेति व्यपदिश्यते ।  
+तोयेन जीवान् इत्य् एतद्  
+यजुर्-मूर्ध्नि यथा वचः ॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Taittiriya Aranyaka X - i-1b; also Mahānārāyana I - 4b. 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च  
+जीवोत्पत्ति-प्रलयादि-गोचराः श्रुति-स्मृति-लोक-वादाः 
+
+> "चराचर-व्यपाश्रयस् तु स्यात्  
+तद्-व्यपदेशो भाक्तस् तद्-भाव-भावित्वात्" 
+
+इत्य्-अत्रैव सूत्र-कारेण कृत-निर्वाहाः ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि च जीवोत्पत्ति-प्रलयादि-गोचराः श्रुति-स्मृति-लोक-वादाः "चराचर-व्यपाश्रयस् तु स्यात् तद्-व्यपदेशो भाक्तस् तद्भाव-भावित्वात्" इत्य्-अत्रैव सूत्रकारेण कृत-निर्वाहाः ॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+† Here Yamuna points out the discrepancy in Sankara's division of the Brahmasutra into Adhikaraņas. According to Sankara, the aphorism "cara- caravyapāśrayastu " etc., forms another topic ( adhikarana). He argues that the origination of the jiva is not of primary significance. But according to Yamuna, this point has already been clarified by the sutra- "nātmā śruteḥ ", etc., so much so that the sutra "caracara" etc., becomes redundant and thus becomes "anadhikaraṇīya", that is to say that it does not deserve treatment as a separate topic. 
+</details>
+
+
 
 किं च नामात्मा "श्रुतेर् नित्यत्त्वाच् च ताभ्यः" इत्य् अत्रैव ब्रह्मणो जीवोत्पत्तिः श्रुति-स्मृति-न्याय-विरोधेन निरस्ता सती न पुनर् उपन्यासं प्रयोजयतीति अनधिकरणीयम् अधिकरणम् आपद्येत । एतेन "न च कर्त्तुः करणम्" इति सूत्रं व्याख्यातम् । न ह्य् अत्र कर्त्तुः सङ्कर्षणात् करणस्य मनस उत्पत्तिर् उच्यते । उक्तं हि विलक्षण-पुरुष-वचनाः एते शब्दा इति ।
 
