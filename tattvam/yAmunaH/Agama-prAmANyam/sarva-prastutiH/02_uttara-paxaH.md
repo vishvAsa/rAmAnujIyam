@@ -7741,7 +7741,7 @@ Yamuna holds Vyāsa, the author of the Mahābhārata to be one with Badarayana, 
 </details>
 
 
-### ब्रह्म-सूत्रे ऽनिराकारः
+## ब्रह्म-सूत्रे ऽनिराकारः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7825,6 +7825,7 @@ the sūtra is intended to reject the Pāñcarātra Śāstra.
 यद्य् एष सूत्रार्थस् तर्हि पञ्चरात्र-शास्त्र-निराकरण-परं सूत्रम् । 
 </details>
 
+### व्यूह-प्रयोजनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि पञ्चरात्र-शास्त्रेषु जीवोत्पत्तिर् अङ्गीकृता येनैवम् उच्यते ।
@@ -8092,17 +8093,25 @@ Taittiriya Aranyaka X - i-1b; also Mahānārāyana I - 4b.
 </details>
 
 
-
+### निर्वाह-सूत्रान्तरम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च  
 जीवोत्पत्ति-प्रलयादि-गोचराः श्रुति-स्मृति-लोक-वादाः 
 
-> "चराचर-व्यपाश्रयस् तु स्यात्  
-तद्-व्यपदेशो भाक्तस् तद्-भाव-भावित्वात्" 
+> "चराचर-व्यपाश्रयस् तु स्यात् -  
+तद्+++(=ब्रह्म)+++-व्यपदेशो भाक्तस् - तद्-भाव-भावित्वात्" 
 
 इत्य्-अत्रैव सूत्र-कारेण कृत-निर्वाहाः ॥
 </details>
+
+<details><summary>English</summary>
+
+Besides, the Author of the Sūtras has already discarded the śruti, smṛti and profane views concerning the origination and reabsorption of the individual soul in the sūtra carācaravyapāśrayas tu syāt tadvyapadeśo bhāktas tadbhāvabhāvitvāt.211 
+
+211: BrS. 2\.3\.16 (17). Translation: "A word descriptive of moving or unmoving beings, has got a secondary meaning [in referring to Brahman], because such a being's existence depends on Brahman's existence."  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -8116,7 +8125,7 @@ Taittiriya Aranyaka X - i-1b; also Mahānārāyana I - 4b.
 
 
 
-किं च नामात्मा "श्रुतेर् नित्यत्त्वाच् च ताभ्यः" इत्य् अत्रैव ब्रह्मणो जीवोत्पत्तिः श्रुति-स्मृति-न्याय-विरोधेन निरस्ता सती न पुनर् उपन्यासं प्रयोजयतीति अनधिकरणीयम् अधिकरणम् आपद्येत । एतेन "न च कर्त्तुः करणम्" इति सूत्रं व्याख्यातम् । न ह्य् अत्र कर्त्तुः सङ्कर्षणात् करणस्य मनस उत्पत्तिर् उच्यते । उक्तं हि विलक्षण-पुरुष-वचनाः एते शब्दा इति ।
+किं च नामात्मा "श्रुतेर् नित्यत्त्वाच् च ताभ्यः" इत्य्-अत्रैव ब्रह्मणो जीवोत्पत्तिः श्रुति-स्मृति-न्याय-विरोधेन निरस्ता सती न पुनर् उपन्यासं प्रयोजयतीति अनधिकरणीयम् अधिकरणम् आपद्येत । एतेन "न च कर्त्तुः करणम्" इति सूत्रं व्याख्यातम् । न ह्य् अत्र कर्त्तुः सङ्कर्षणात् करणस्य मनस उत्पत्तिर् उच्यते । उक्तं हि विलक्षण-पुरुष-वचनाः एते शब्दा इति ।
 
 "किम् इति वा कर्तुः करणं नोत्पद्यते ? देवदत्तादेः कर्तुः परशु-प्रभृति-करणोत्पत्यदर्शनाद् इति चेत्, हन्त हतस् तर्हि अपगत-सकल-करण-कलाप-स्व-महिम-प्रतिष्ठ-ब्रह्मणः प्राणो मनः सर्वेन्द्रियाणि च इति, "प्राण-मनः-प्रभृति-निखिल-करणोत्पत्त्यभ्युपगमः" इति [श्रुत्या] ।
 
