@@ -8123,11 +8123,176 @@ Besides, the Author of the Sūtras has already discarded the śruti, smṛti and
 † Here Yamuna points out the discrepancy in Sankara's division of the Brahmasutra into Adhikaraņas. According to Sankara, the aphorism "cara- caravyapāśrayastu " etc., forms another topic ( adhikarana). He argues that the origination of the jiva is not of primary significance. But according to Yamuna, this point has already been clarified by the sutra- "nātmā śruteḥ ", etc., so much so that the sutra "caracara" etc., becomes redundant and thus becomes "anadhikaraṇīya", that is to say that it does not deserve treatment as a separate topic. 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं च 
+
+> "नामात्मा श्रुतेर्,  
++++(तस्य)+++ नित्यत्त्वाच् च ताभ्यः" 
+
+इत्य्-अत्रैव ब्रह्मणो जीवोत्पत्तिः श्रुति-स्मृति-न्याय-विरोधेन निरस्ता सती  
+न पुनर् उपन्यासं प्रयोजयतीति  
+अनधिकरणीयम् अधिकरणम् आपद्येत । 
+</details>
+
+<details><summary>English</summary>
+
+And since, moreover, the origination of the individual soul out of Brahman has been rejected in the sūtras 
+
+> "nātmā śruter nityatvāc ca tābhyaḥ",212 
+
+it does not occasion a renewed exposition:  
+an issue which does not need being made a topic would then be made a topic.
+
+ 
+212: BrS., 2\.3\.17 (18). Translation: 
+
+> "The ātman is not born  
+because there is no śruti to that effect,  
+and because of its eternality, which is proved by the śrutis."  
+</details>
 
 
-किं च नामात्मा "श्रुतेर् नित्यत्त्वाच् च ताभ्यः" इत्य्-अत्रैव ब्रह्मणो जीवोत्पत्तिः श्रुति-स्मृति-न्याय-विरोधेन निरस्ता सती न पुनर् उपन्यासं प्रयोजयतीति अनधिकरणीयम् अधिकरणम् आपद्येत । एतेन "न च कर्त्तुः करणम्" इति सूत्रं व्याख्यातम् । न ह्य् अत्र कर्त्तुः सङ्कर्षणात् करणस्य मनस उत्पत्तिर् उच्यते । उक्तं हि विलक्षण-पुरुष-वचनाः एते शब्दा इति ।
+<details><summary>मूलम्</summary>
 
-"किम् इति वा कर्तुः करणं नोत्पद्यते ? देवदत्तादेः कर्तुः परशु-प्रभृति-करणोत्पत्यदर्शनाद् इति चेत्, हन्त हतस् तर्हि अपगत-सकल-करण-कलाप-स्व-महिम-प्रतिष्ठ-ब्रह्मणः प्राणो मनः सर्वेन्द्रियाणि च इति, "प्राण-मनः-प्रभृति-निखिल-करणोत्पत्त्यभ्युपगमः" इति [श्रुत्या] ।
+किं च "नामात्मा श्रुतेर् नित्यत्त्वाच् च ताभ्यः" इत्य्-अत्रैव ब्रह्मणो जीवोत्पत्तिः श्रुति-स्मृति-न्याय-विरोधेन निरस्ता सती  
+न पुनर् उपन्यासं प्रयोजयतीति अनधिकरणीयम् अधिकरणम् आपद्येत । 
+</details>
+
+### न च कर्त्तुः करणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतेन "न च कर्त्तुः करणम्" इति सूत्रं व्याख्यातम् । 
+</details>
+
+<details><summary>English</summary>
+
+[[81]]
+
+96\. This also explains the sūtra na ca kartuḥ karaṇam;213  
+
+213: BrS, 2\.2\.43\.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतेन "न च कर्त्तुः करणम्" इति सूत्रं व्याख्यातम् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् अत्र कर्त्तुः सङ्कर्षणात् करणस्य मनस उत्पत्तिर् उच्यते । 
+</details>
+
+<details><summary>English</summary>
+
+for it is not said here  
+that the instrument, Sc. the mind, originates from the agent, sc. Saṅkarṣaṇa.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न ह्य् अत्र कर्त्तुः सङ्कर्षणात् करणस्य मनस उत्पत्तिर् उच्यते । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उक्तं हि विलक्षण-पुरुष-वचनाः एते शब्दा इति ।
+</details>
+
+<details><summary>English</summary>
+
+For we have already stated that these names solely refer to the persons who uperintend these orders but are themselves different from them
+</details>
+
+<details><summary>मूलम्</summary>
+
+उक्तं हि विलक्षण-पुरुष-वचनाः एते शब्दा इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किम् इति वा "कर्तुः करणं नोत्पद्यते" +++(इति सूत्रम्)+++?
+</details>
+
+<details><summary>English</summary>
+
+OBJECTION. Then why this sūtra at all? 
+</details>
+
+<details><summary>मूलम्</summary>
+
+किम् इति वा कर्तुः करणं नोत्पद्यते ?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> देवदत्तादेः कर्तुः परशु-प्रभृति-करणोत्पत्त्य्-अदर्शनाद् 
+
+इति चेत्, 
+</details>
+
+<details><summary>English</summary>
+
+> For we do not find that instruments, like a hatchet, originate from an agent, like Devadatta, so that an instrument out of an agent makes no sense. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देवदत्तादेः कर्तुः परशु-प्रभृति-करणोत्पत्त्यदर्शनाद् इति चेत्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+† Cf. Sankara on IIii-43- 
+
+> “न च कर्तुः करणम् । इतश् चासङ्गतैषा कल्पना —  
+यस्मान् न हि लोके  
+कर्तुर् देवदत्तादेः  
+करणं परश्व्-आद्य् उत्पद्यमानं दृश्यते।  
+वर्णयन्ति च भागवताः कर्तुर् जीवात् सङ्कर्षण-संज्ञकात्  
+करणं मनः प्रद्युम्नसंज्ञकम् उत्पद्यते,  
+कर्तृजाच् च तस्माद्  
+अनिरुद्ध-संज्ञको ऽहंकार उत्पद्यत इति।  
+न
+चैतद्-दृष्टान्तम् अन्तरेणाध्यवसातुं शक्नुमः।  
+
+न चैवंभूतां श्रुतिम् उपलभामहे ॥ ४३ ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हन्त हतस् तर्हि 
+
+> अपगत-सकल-करण-कलाप--स्व-महिम-प्रतिष्ठ-ब्रह्मणः  
+प्राणो मनः सर्वेन्द्रियाणि च 
+
+इति, 
+
+> "प्राण-मनः-प्रभृति-निखिल-करणोत्पत्त्यभ्युपगमः" 
+
+इति [श्रुत्या] ।
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION. Well, then you reject the general view that all instruments, vital airs, mind etc. have their origin in Brahman which itself is without the entire collection of all instruments and rests solely on its own power; this view is stated in the text: "From it springs the vital air, the mind and all the senses."214 
+
+214: Muṇḍ Up., 2\.1\.3\.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+हन्त हतस् तर्हि अपगत-सकल-करण-कलाप-स्व-महिम-प्रतिष्ठ-ब्रह्मणः प्राणो मनः सर्वेन्द्रियाणि च इति, "प्राण-मनः-प्रभृति-निखिल-करणोत्पत्त्यभ्युपगमः" इति [श्रुत्या] ।
+</details>
+
 
 अथ श्रुति-प्रसिद्धत्वात् तत् तथैवाभ्युपेयते ।  
 पञ्चरात्र-प्रसिद्धत्वाद् इदं किं नाभ्युपैषि भोः ॥  
