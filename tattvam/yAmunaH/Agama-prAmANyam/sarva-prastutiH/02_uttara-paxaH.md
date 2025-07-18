@@ -8123,24 +8123,336 @@ Besides, the Author of the Sūtras has already discarded the śruti, smṛti and
 † Here Yamuna points out the discrepancy in Sankara's division of the Brahmasutra into Adhikaraņas. According to Sankara, the aphorism "cara- caravyapāśrayastu " etc., forms another topic ( adhikarana). He argues that the origination of the jiva is not of primary significance. But according to Yamuna, this point has already been clarified by the sutra- "nātmā śruteḥ ", etc., so much so that the sutra "caracara" etc., becomes redundant and thus becomes "anadhikaraṇīya", that is to say that it does not deserve treatment as a separate topic. 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं च 
+
+> "नामात्मा श्रुतेर्,  
++++(तस्य)+++ नित्यत्त्वाच् च ताभ्यः" 
+
+इत्य्-अत्रैव ब्रह्मणो जीवोत्पत्तिः श्रुति-स्मृति-न्याय-विरोधेन निरस्ता सती  
+न पुनर् उपन्यासं प्रयोजयतीति  
+अनधिकरणीयम् अधिकरणम् आपद्येत । 
+</details>
+
+<details><summary>English</summary>
+
+And since, moreover, the origination of the individual soul out of Brahman has been rejected in the sūtras 
+
+> "nātmā śruter nityatvāc ca tābhyaḥ",212 
+
+it does not occasion a renewed exposition:  
+an issue which does not need being made a topic would then be made a topic.
+
+ 
+212: BrS., 2\.3\.17 (18). Translation: 
+
+> "The ātman is not born  
+because there is no śruti to that effect,  
+and because of its eternality, which is proved by the śrutis."  
+</details>
 
 
-किं च नामात्मा "श्रुतेर् नित्यत्त्वाच् च ताभ्यः" इत्य्-अत्रैव ब्रह्मणो जीवोत्पत्तिः श्रुति-स्मृति-न्याय-विरोधेन निरस्ता सती न पुनर् उपन्यासं प्रयोजयतीति अनधिकरणीयम् अधिकरणम् आपद्येत । एतेन "न च कर्त्तुः करणम्" इति सूत्रं व्याख्यातम् । न ह्य् अत्र कर्त्तुः सङ्कर्षणात् करणस्य मनस उत्पत्तिर् उच्यते । उक्तं हि विलक्षण-पुरुष-वचनाः एते शब्दा इति ।
+<details><summary>मूलम्</summary>
 
-"किम् इति वा कर्तुः करणं नोत्पद्यते ? देवदत्तादेः कर्तुः परशु-प्रभृति-करणोत्पत्यदर्शनाद् इति चेत्, हन्त हतस् तर्हि अपगत-सकल-करण-कलाप-स्व-महिम-प्रतिष्ठ-ब्रह्मणः प्राणो मनः सर्वेन्द्रियाणि च इति, "प्राण-मनः-प्रभृति-निखिल-करणोत्पत्त्यभ्युपगमः" इति [श्रुत्या] ।
+किं च "नामात्मा श्रुतेर् नित्यत्त्वाच् च ताभ्यः" इत्य्-अत्रैव ब्रह्मणो जीवोत्पत्तिः श्रुति-स्मृति-न्याय-विरोधेन निरस्ता सती  
+न पुनर् उपन्यासं प्रयोजयतीति अनधिकरणीयम् अधिकरणम् आपद्येत । 
+</details>
+
+### न च कर्त्तुः करणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतेन "न च कर्त्तुः करणम्" इति सूत्रं व्याख्यातम् । 
+</details>
+
+<details><summary>English</summary>
+
+[[81]]
+
+96\. This also explains the sūtra na ca kartuḥ karaṇam;213  
+
+213: BrS, 2\.2\.43\.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतेन "न च कर्त्तुः करणम्" इति सूत्रं व्याख्यातम् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् अत्र कर्त्तुः सङ्कर्षणात् करणस्य मनस उत्पत्तिर् उच्यते । 
+</details>
+
+<details><summary>English</summary>
+
+for it is not said here  
+that the instrument, Sc. the mind, originates from the agent, sc. Saṅkarṣaṇa.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न ह्य् अत्र कर्त्तुः सङ्कर्षणात् करणस्य मनस उत्पत्तिर् उच्यते । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उक्तं हि विलक्षण-पुरुष-वचनाः एते शब्दा इति ।
+</details>
+
+<details><summary>English</summary>
+
+For we have already stated that these names solely refer to the persons who uperintend these orders but are themselves different from them
+</details>
+
+<details><summary>मूलम्</summary>
+
+उक्तं हि विलक्षण-पुरुष-वचनाः एते शब्दा इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किम् इति वा "कर्तुः करणं नोत्पद्यते" +++(इति सूत्रम्)+++?
+</details>
+
+<details><summary>English</summary>
+
+OBJECTION. Then why this sūtra at all? 
+</details>
+
+<details><summary>मूलम्</summary>
+
+किम् इति वा कर्तुः करणं नोत्पद्यते ?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> देवदत्तादेः कर्तुः परशु-प्रभृति-करणोत्पत्त्य्-अदर्शनाद् 
+
+इति चेत्, 
+</details>
+
+<details><summary>English</summary>
+
+> For we do not find that instruments, like a hatchet, originate from an agent, like Devadatta, so that an instrument out of an agent makes no sense. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देवदत्तादेः कर्तुः परशु-प्रभृति-करणोत्पत्त्यदर्शनाद् इति चेत्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+† Cf. Sankara on IIii-43- 
+
+> “न च कर्तुः करणम् । इतश् चासङ्गतैषा कल्पना —  
+यस्मान् न हि लोके  
+कर्तुर् देवदत्तादेः  
+करणं परश्व्-आद्य् उत्पद्यमानं दृश्यते।  
+वर्णयन्ति च भागवताः कर्तुर् जीवात् सङ्कर्षण-संज्ञकात्  
+करणं मनः प्रद्युम्नसंज्ञकम् उत्पद्यते,  
+कर्तृजाच् च तस्माद्  
+अनिरुद्ध-संज्ञको ऽहंकार उत्पद्यत इति।  
+न
+चैतद्-दृष्टान्तम् अन्तरेणाध्यवसातुं शक्नुमः।  
+
+न चैवंभूतां श्रुतिम् उपलभामहे ॥ ४३ ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हन्त हतस् तर्हि  अपगत-सकल-करण-कलाप--स्व-महिम-प्रतिष्ठ-ब्रह्मणः  
+प्राण-मनः-प्रभृति-निखिल-करणोत्पत्त्यभ्युपगमः
+
+> "एतस्माज् जायते प्राणो मनः सर्वेन्द्रियाणि" 
+
+इति +++(श्रुत्या)+++।
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION. Well, then you reject the general view that all instruments, vital airs, mind etc. have their origin in Brahman which itself is without the entire collection of all instruments and rests solely on its own power; this view is stated in the text: "From it springs the vital air, the mind and all the senses."214 
+
+214: Muṇḍ Up., 2\.1\.3\.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+हन्त हतस् तर्हि अपगत-सकल-करण-कलाप-स्व-महिम-प्रतिष्ठ-ब्रह्मणः प्राण-मनः-प्रभृति-निखिल-करणोत्पत्त्यभ्युपगमः -  
+"एतस्माज् जायते प्राणो मनः सर्वेन्द्रियाणि" इति [श्रुत्या] ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ "श्रुति-प्रसिद्धत्वात्  
+तत् तथैवाभ्युपेयते" ।  
+पञ्चरात्र-प्रसिद्धत्वाद्  
+इदं किं नाभ्युपैषि भोः ॥  
+</details>
+
+<details><summary>English</summary>
+
+Or if you do agree on this because it is clearly proved in Revelation, I ask you why you don't agree on it because it is clearly proved in Pañcaratra. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 अथ श्रुति-प्रसिद्धत्वात् तत् तथैवाभ्युपेयते ।  
 पञ्चरात्र-प्रसिद्धत्वाद् इदं किं नाभ्युपैषि भोः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि स्मृति-प्रसिद्धार्थ-  
+परित्यागो ऽतिशोभनः ।  
+निर्दोष-ज्ञान-जन्मत्वात्  
+प्रामाण्यं हि समं द्वयोः ॥  
+</details>
+
+<details><summary>English</summary>
+
+It is not a very proper procedure to deny things that are proved by smṛti; since both śruti and smṛti spring from perfect knowledge, they are equally valid.
+
+[[82]]
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 न हि स्मृति-प्रसिद्धार्थ-परित्यागो ऽतिशोभनः ।  
 निर्दोष-ज्ञान-जन्मत्वात् प्रामाण्यं हि समं द्वयोः ॥  
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Yamuna here pleads for the validity of the Pañcaratragamas on the ground that they, like the Vedas, are based upon knowledge that is free from all defects. Cf. the inferential statement made by Yamuna above - १५ 
+
+vivādādhyāsitam tantram pramāṇamiti gṛhyatām ।  
+nirdoṣajñānajanmatvāt jyotiṣṭomādivākyavat 
+</details>
+
+### विज्ञानादि-भावे वा तद्-अप्रतिषेधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > यत् तु "चत्वार एते किं  
+समानैश्वर्य-भागिनः ।  
+स्वतन्त्राः किम् उतैकस्य  
+स्वेच्छा-मूर्ति-चतुष्टयी ॥"
+> 
+> इति विकल्प्य  
+</details>
+
+<details><summary>English</summary>
+
+> The Author raises the question which one of two alternatives may be true:  
+Are these four equally and independently sovereign,  
+or has one a quaternity of personalities which he has assumed at his own desire?  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यत् तु "चत्वार एते किं समानैश्वर्य-भागिनः ।  
 स्वतन्त्राः किम् उतैकस्य स्वेच्छा-मूर्ति-चतुष्टयी ॥"
 
-इति विकल्प्य ।  
+इति विकल्प्य   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > "समानैश्वर्य-भागित्वे तुल्यत्वान् नैव कार्यता ।  
+एकस्य मूर्ति-भेदश् चेत् किं भेदेन प्रयोजनम् ॥"
+> 
+> इति दूषयति
+
+इति व्याख्यातं 
+</details>
+
+<details><summary>English</summary>
+
+> and then he points out the defect: if they are equally sovereign, none of them can be effects because they are equal; when they are different forms of one, what is the purpose of this division? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 "समानैश्वर्य-भागित्वे तुल्यत्वान् नैव कार्यता ।  
 एकस्य मूर्ति-भेदश् चेत् किं भेदेन प्रयोजनम् ॥"
 
-इति दूषयतीति व्याख्यातं "विज्ञानादि-भावे वा तद्-अप्रतिषेधः" इति । तद् अयुक्तम् असम्भावनीयत्वाद् विकल्पस्य । न हि केनचिद् ईश्वरवादिना अनेकेश्वरं जगद् अभ्युपगतं विशेषतश् च पाञ्चरात्रिकैः । वासुदेव एवैकः परा प्रकृतिर् इति वदद्भिः, किन्तु स एव भगवान् लीला-विरचित-चतुर्भेदः सकलम् अपि जगत् संरक्षतीति ।
+इति दूषयतीति व्याख्यातं 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"विज्ञानादि-भावे वा तद्-अप्रतिषेधः" इति , 
+</details>
+
+<details><summary>English</summary>
+
+97\. OBJECTION. The sūtra  vā tadapratiṣedhaḥ (215: BrS., 2\.2\.44\.  ) is explained as ~~follows:~~ above.
+</details>
+
+<details><summary>मूलम्</summary>
+
+"विज्ञानादि-भावे वा तद्-अप्रतिषेधः" इति । 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+$ Cf. Sankara on II. ii. 44. 
+
+> अत्रोच्यते — एवम् अपि,  
+**तद्-अप्रतिषेधः** उत्पत्त्य्-असम्भवस्याप्रतिषेधः,  
+…  
+> 
+> परस्पर-भिन्ना एवैते वासुदेवादयश् चत्वार ईश्वरास् तुल्य-धर्माणः,  
+नैषाम् एकात्मकत्वम् अस्तीति;  
+ततो ऽनेकेश्वर-कल्पनाऽनर्थक्यम् ,  
+एकेनैवेश्वरेणेश्वर-कार्यसिद्धेः।
+>
+> सिद्धान्तहानिश्च,  
+भगवान् एवैको वासुदेवः परमार्थ-तत्त्वम् इत्य् अभ्युपगमात् ।
+>
+> अथा ऽयम् अभिप्रायः —  
+> 
+> > एकस्यैव भगवत एते चत्वारो व्यूहास् तुल्य-धर्माण 
+> 
+> इति,  
+तथापि तद्-अवस्थ एवोत्पत्त्यसम्भवः।  
+न हि वासुदेवात् सङ्कर्षणस्योत्पत्तिः सम्भवति,  
+सङ्कर्षणाच् च प्रद्युम्नस्य,  
+प्रद्युम्नाच् चानिरुद्धस्य, अतिशयाभावात्।  
+भवितव्यं हि कार्यकारणयोर् अतिशयेन, यथा मृद्घटयोः।  
+न ह्य् असत्य् अतिशये,  
+कार्यं कारणम् इत्य् अवकल्पते।  
+वासुदेवा एव हि  
+सर्वे व्यूहा निर्विशेषा इष्यन्ते।  
+न चैते भगवद्-व्यूहाश् चतुः-संख्यायाम् एवावतिष्ठेरन् ,  
+ब्रह्मादि-स्तम्ब-पर्यन्तस्य समस्तस्यैव जगतो भगवद्-व्यूहत्वावगमात् ॥ ४४ ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् अयुक्तम् - अ-सम्भावनीयत्वाद् विकल्पस्य । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद् अयुक्तम् असम्भावनीयत्वाद् विकल्पस्य । 
+</details>
+
+
+न हि केनचिद् ईश्वरवादिना अनेकेश्वरं जगद् अभ्युपगतं विशेषतश् च पाञ्चरात्रिकैः । वासुदेव एवैकः परा प्रकृतिर् इति वदद्भिः, किन्तु स एव भगवान् लीला-विरचित-चतुर्भेदः सकलम् अपि जगत् संरक्षतीति ।
 
 न चेदमनुपपन्नं बल -भारतावरजाग्रजादिप्रादुर्भाववदुपपत्तेः, यथैव हि भगवतः स्वलीलाविरचितगगन -पवन -हर -विरिञ्च्यादिप्रपञ्चस्य अचिन्त्यमहिमलीलैकप्रयोजनस्य राम -लक्ष्मण भरत -शत्रुघ्नादिस्वच्छन्दाविग्रहा न विरोत्स्यन्ते एवं सङ्कर्षणप्रद्युम्नादिभेदा इति ।  
 यत्परं विप्रतिषेधात् इति चतुर्षु वेदेषु इति श्रुतिविप्रतिषेधात् तन्त्राणां परस्परविप्रतिषेधाद्वा ।  
