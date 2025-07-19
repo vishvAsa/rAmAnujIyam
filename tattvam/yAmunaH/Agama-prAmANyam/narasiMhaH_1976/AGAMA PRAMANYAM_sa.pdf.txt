@@ -4704,7 +4704,7 @@ f The source is yet to be identified. This verse, however, is quoted in full by 
 Vedantadeśika too quotes this in his Nyayapariśuddhi, p.151. 
 8 Mahābhārata, Sānti, ch. 326.100. 
 T 
-' अविशेषेण' समानतया इत्यर्धः । 
+' अविशेषेण' समानतया इत्यर्थः । 
 तन्त्रत्व सामान्येन सन्निहितानामिति भावः । 
 + व्युत्पाद्यते = स्थाप्यते । 
 भद्वैतियाख्यानिरासः 

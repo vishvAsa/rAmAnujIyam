@@ -7742,7 +7742,7 @@ Yamuna holds Vyāsa, the author of the Mahābhārata to be one with Badarayana, 
 
 
 ## ब्रह्म-सूत्रे ऽनिराकारः
-
+### उत्पत्त्यसंभवात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > कथं तर्हीदं सूत्रम् "उत्पत्त्यसंभवात्" इति?  
@@ -7825,10 +7825,10 @@ the sūtra is intended to reject the Pāñcarātra Śāstra.
 यद्य् एष सूत्रार्थस् तर्हि पञ्चरात्र-शास्त्र-निराकरण-परं सूत्रम् । 
 </details>
 
-### व्यूह-प्रयोजनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि पञ्चरात्र-शास्त्रेषु जीवोत्पत्तिर् अङ्गीकृता येनैवम् उच्यते ।
+न हि पञ्चरात्र-शास्त्रेषु जीवोत्पत्तिर् अङ्गीकृता येनैवम् उच्यते ।  
++++(अतो न सिद्धान्त-सूत्रम् इदम्। )+++
 </details>
 
 <details><summary>English</summary>
@@ -7843,6 +7843,7 @@ For the Pāñcarātra Śāstras do not accept that the individual soul has an or
 </details>
 
 
+#### व्यूह-प्रयोजनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > नन्व् अस्तीदं वचनं -  
@@ -8093,7 +8094,7 @@ Taittiriya Aranyaka X - i-1b; also Mahānārāyana I - 4b.
 </details>
 
 
-### निर्वाह-सूत्रान्तरम्
+#### निर्वाह-सूत्रान्तरम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च  
@@ -8102,7 +8103,8 @@ Taittiriya Aranyaka X - i-1b; also Mahānārāyana I - 4b.
 > "चराचर-व्यपाश्रयस् तु स्यात् -  
 तद्+++(=ब्रह्म)+++-व्यपदेशो भाक्तस् - तद्-भाव-भावित्वात्" 
 
-इत्य्-अत्रैव सूत्र-कारेण कृत-निर्वाहाः ॥
+इत्य्-अत्रैव सूत्र-कारेण कृत-निर्वाहाः ॥  
++++(अतो न सिद्धान्त-सूत्रम् इदम्। )+++
 </details>
 
 <details><summary>English</summary>
@@ -8748,7 +8750,8 @@ Enough.
 </details>
 
 
-#### सूत्रार्थः
+### सूत्रार्थः
+#### सन्दर्भः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रैष सूत्रार्थः -  
@@ -8763,7 +8766,7 @@ Enough.
 who oppose the Author's own accepted doctrine, are unnatural217 because they conflict with Revelation and logic. 
 
 217: In BrS., 2,2\.  
-
+218: āsamañjasya, taken from BrS., 2\.2\.37\.  
 </details>
 
 
@@ -8803,17 +8806,180 @@ Now, in order to remove the suspicion that the Pancarãtra Tantras (which are hi
 + व्युत्पाद्यते = स्थाप्यते । 
 </details>
 
-
+#### पूर्वपक्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्राद्येन सूत्रद्वयेन पूर्वपक्ष उपक्षिप्यते,  
-तथा हि पञ्चरात्रशास्त्रम् अप्रमाणम् उत्पत्त्यसंभवात् प्रतिपाद्यमानायाः संकर्षणाद्युत्पत्तेः असंभवात्, कथम् असंभवः, उभयथा ऽप्यनुपपत्तेः तथा हि ।
+</details>
+
+<details><summary>English</summary>
+
+In the first two Sūtras the prima-facie case is laid down:  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्राद्येन सूत्रद्वयेन पूर्वपक्ष उपक्षिप्यते,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि -  
+
+> पञ्चरात्रशास्त्रम् अप्रमाणम् **उत्पत्त्यसंभवात्** -  
+प्रतिपाद्यमानायाः संकर्षणाद्युत्पत्तेः असंभवात्। 
+</details>
+
+<details><summary>English</summary>
+
+the Pancarãtra likewise has no validity, utpattyasaṃbhavāt, i.e., on account of the impossibility of Saṅkarṣaṇa's origination which is taught there. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हि पञ्चरात्रशास्त्रम् अप्रमाणम् उत्पत्त्यसंभवात् प्रतिपाद्यमानायाः संकर्षणाद्युत्पत्तेः असंभवात्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कथम् असंभवः? उभयथा ऽप्यनुपपत्तेः। 
+</details>
+
+<details><summary>English</summary>
+
+> Why should it be impossible? Because it cannot be established in either of two possible cases; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कथम् असंभवः, उभयथा ऽप्यनुपपत्तेः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तथा हि ।
+>
+> किन्तु चत्वार एवैते  
+समानैश्वर्यभागिनः ।
+एको वा स्यात् चतुर्-भेदे  
+द्वेधा व्युत्पत्त्यसंभवः ॥
+</details>
+
+<details><summary>English</summary>
+
+> either the four vyūhas are equally sovereign, or else one God exists in four persons; and in either case there is impossibility of origination. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हि ।
+
 किन्तु चत्वार एवैते समानैश्वर्यभागिनः ।
 एको वा स्यात् चतुर्भेदे द्वेधा व्युत्पत्त्यसंभवः ॥
-समानैश्वर्यभागित्वे तुल्यत्वान् नैव सृज्यते ।
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> समानैश्वर्यभागित्वे तुल्यत्वान् नैव सृज्यते ।
 एकात्मत्वे ऽभ्युपेते ऽपि तथोत्पत्तेः असंभवात् ।
 स्रष्टृसृज्यविभागो हि नैकस्मिन् अवकल्पते ।
-तथा न च कर्त्तुः करणम् इतश्च अप्रमाणं कर्तुः सङ्कर्षण [[संज्ञाज्जिवात्|संज्ञाज्जीवात्]] करणस्य प्रद्युम्नसंज्ञस्य मनस उत्पत्त्यसंभवात्, न हि देवदत्तात् परशुरुत्पद्यत इति ।
-एवं वा न च कर्त्तुः करणम् इतश्च कर्त्तुः संकर्षणात् न करणम् उत्पद्यते ब्रह्मण एव समस्तकरणोत्पत्तिश्रुतेः, एतस्माज्जायते प्राणो मनः सर्वेन्द्रियाणि च इति, विज्ञानादिभावे वा तदप्रतिषेध इति, वा शब्दात् पक्षो विपरिवर्त्तते ।
+</details>
+
+<details><summary>English</summary>
+
+> If they are equally sovereign, they cannot be created because they are equal; if only one being is admitted no origination is possible either, since a distribution within one being of creating and created parts is inconceivable.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> समानैश्वर्यभागित्वे तुल्यत्वान् नैव सृज्यते ।
+एकात्मत्वे ऽभ्युपेते ऽपि तथोत्पत्तेः असंभवात् ।
+स्रष्टृसृज्यविभागो हि नैकस्मिन् अवकल्पते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा 
+
+> न च कर्त्तुः करणम्  
+इतश् च +अप्रमाणं कर्तुः सङ्कर्षण-संज्ञाज् जीवात् करणस्य प्रद्युम्नसंज्ञस्य मनस उत्पत्त्य्-अ-संभवात्,  
+न हि देवदत्तात् परशुरुत्पद्यत 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+[[84]]
+
+> 100\. Similarly na ca kartuḥ karaṇam: Pañcarātra has no validity for the further reason that it is impossible that the instrument, sc. the mind called Pradyumna, originates from the agent, sc. the individual soul called Saṅkarṣaṇa, for the hatchet does not originate from Devadatta. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा न च कर्त्तुः करणम् इतश्च अप्रमाणं कर्तुः सङ्कर्षण-संज्ञाज् जीवात् करणस्य प्रद्युम्नसंज्ञस्य मनस उत्पत्त्यसंभवात्, न हि देवदत्तात् परशुरुत्पद्यत इति ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं वा -  
+
+> "न च कर्त्तुः करणम्"।  
+इतश्च कर्त्तुः संकर्षणात् न करणम् उत्पद्यते -  
+ब्रह्मण एव समस्त-करणोत्पत्ति-श्रुतेः,  
+> 
+> > एतस्माज् जायते प्राणो,  
+मनः सर्वेन्द्रियाणि च 
+> 
+> इति।  
+</details>
+
+<details><summary>English</summary>
+
+> Or there is this alternative explanation of na ca kartuḥ karaṇam:  
+and for the further reason that the instrument does not originate from the agent Saṅkarṣaṇa,  
+since according to the text: 
+> 
+> > "From it spring the vital air, the mind and all the senses,"  
+> 
+> it is revealed that all instruments really originate from Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं वा न च कर्त्तुः करणम् इतश्च कर्त्तुः संकर्षणात् न करणम् उत्पद्यते ब्रह्मण एव समस्तकरणोत्पत्तिश्रुतेः, एतस्माज्जायते प्राणो मनः सर्वेन्द्रियाणि च इति।  
+</details>
+
+
+#### उत्तरपक्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विज्ञानादि-भावे वा तद्-अ-प्रतिषेध 
+
+इति,  
+वा-शब्दात् पक्षो विपरिवर्त्तते ।
+</details>
+
+<details><summary>English</summary>
+
+101\. Then follows: vijñānādibhāve vā tadapratiṣedhaḥ.  
+By the particle va this prima-facie case is now reversed.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+विज्ञानादिभावे वा तदप्रतिषेध इति, वा-शब्दात् पक्षो विपरिवर्त्तते ।
+</details>
+
 
 यदुक्तमुभयथाऽपि संकर्षणाद्युत्पत्तेरसंभादप्रामाण्यमिति नैतदस्ति तस्यास्सङ्कर्षणाद्युत्पत्तेरप्रतिषेधः ।  
 यदि हि विज्ञानादय एते न भवेयुः स्यादुत्पत्तिप्रतिषेधः ।  
