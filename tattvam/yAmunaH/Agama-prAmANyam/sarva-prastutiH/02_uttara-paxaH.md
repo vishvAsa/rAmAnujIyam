@@ -8978,7 +8978,7 @@ $ Mundakopanisad II. 1. 3.
 </details>
 
 
-#### उत्तरपक्षः
+#### उत्तर-पक्षः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > विज्ञानादि-भावे वा तद्-अ-प्रतिषेध 
@@ -9062,12 +9062,20 @@ Indeed, it would be contradictory if they were not vijñānādi.
 i ' एते' सङ्कर्षणादयः । 
 </details>
 
-
+##### विज्ञानादिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विज्ञानञ् चादि+++(श्)+++ चेति विज्ञानादि ब्रह्म,  
 तद्-भावे ब्रह्म-भावे उत्पत्तेर् अप्रतिषेधः ।
 </details>
+
+<details><summary>English</summary>
+
+Vijñānādi is a dvandva compound: "knowledge and beginning," that means: Brahman;   
+thus vijñānādibhāve means brahmabhāve.  
+Inasmuch as they are Brahman (brahmabhāve), the origination is not contradictory. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -9139,16 +9147,241 @@ i ' एते' सङ्कर्षणादयः ।
 घञि घस्लादेश-विधानात् ।
 </details>
 
-  
-एतदुक्तं भवति एकस्यैव परमात्मनो वासुदेवस्यापरिच्छिन्नशक्तेः स्वामायावेशवशात् कार्यकारणभावोपपत्तिरिति ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतद् उक्तं भवति -  
+
+> एकस्यैव परमात्मनो वासुदेवस्यापरिच्छिन्न-शक्तेः  
+स्वमायावेश-वशात् कार्य-कारण-भावोपपत्तिर् 
+
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+That is to say by virtue of the fact that the unique Supreme Soul Vāsudeva, whose omnipotence is unbounded, enters into them through His māyā, a cause-effect relation is justified. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+एतदुक्तं भवति एकस्यैव परमात्मनो वासुदेवस्यापरिच्छिन्नशक्तेः स्वमायावेशवशात् कार्यकारणभावोपपत्तिरिति ।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+$ चत्वार ईश्वरा इति पक्षः परित्यक्तः । तदेकत्वपक्षः समादृतः। एक एव भगवान् सर्वेश्वरः स्वलीलया जगदवनाय चतुर्धाऽवतरतीति सिद्धान्तः । 
+
++ Vide Ahirbudhnya Samhità Ch. V- 
+
+> " पुरुषाः पुण्डरीकाक्षा  
+व्यूहाः शक्तिमया हरेः । 
+सर्वशक्तिमयो देवो  
+वासुदेवः सिसृक्षया ॥ [25a ] 
+
+> विभजत्यात्मनाऽऽत्मानं  
+यस् स सङ्कर्षणस्स्मृतः । " [ 29b-30a ] 
+
+> 'अनन्त एव भगवान्  
+वासुदेवस् सनातनः । 
+तत्र ज्ञान-बलोन्मेषात्  
+स्वसंकल्प-प्रचोदितात् ॥  
+अनन्त एव भगवान्  
+देवस् संकर्षणोऽच्युतः । " [ 34-35a ]  
+
+> " अनन्त एव भगवान्  
+प्रद्युम्नः पुरुषोत्तमः ।" [36a ]  
+अनन्त एव भगवान्  
+अनिरुद्धो भवत्युत ॥ " [38b ] 
+
+The words " ananta eva bhagavān " occuring in 34a, 35a, 36a & 38b quoted above, stress the point that he Lord is One and only One and that He assumes different forms, without any diminution of His powers and perfections in this process. Therefore, the question raised by Sankara regarding the plurality of God is unwarranted. 
+
+$ This Māyā is the Sakti or the Power of the Lord, termed also Jñāna, Vidya, Sankalpa and so on. 
+
+</details>
+
+
+##### करणोत्पत्तिः - विप्रतिषेधात्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत् तु  
+
+> न सङ्कर्षणान् मन उत्पद्यते  
+ब्रह्मण एव उत्पत्ति-श्रुतेर् 
+
+इति -  
+तद् अपि तस्य विज्ञानादित्वेन परिहृतम् ।  
+</details>
+
+<details><summary>English</summary>
+
+The objection that the mind cannot originate from Saṅkarṣaṇa, on the authority of the śruti that the mind originates from Brahman, is invalidated by the fact that he, sc. Saṅkarṣaṇa is vijñānādi, i.e., Brahman.
+
+[[85]]
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यत्तु न सङ्कर्षणान्मन उत्पद्यते ब्रह्मण एव उत्पत्तिश्रुतेरिति तदपि तस्य विज्ञानादित्वेन परिहृतम् ।  
-अपि च न च कर्त्तुः करणम् इति किमुक्तं भवति किं यस्याः क्रियाया यत्करणं तत्क्रियाकर्त्तुर्नोत्पद्यते, उत यद् यत्र क्वापि करणं तत् कुतश्चिदपि कर्त्तुर्नोत्पद्यत इति वा ।  
-तत्राद्ये कल्पे सिद्धसाधनतया अनुमानस्य विप्रतिषेधः, न ह्यत्र सङ्कर्षणात्कर्त्तुरुत्पद्यमानं मनः स्वोत्पादने करणं कर्मत्वात्, नापि स्वोत्पत्तौ कर्तृत्वात् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च "न च कर्त्तुः करणम्" इति किमुक्तं भवति? 
+</details>
+
+<details><summary>English</summary>
+
+102\. Furthermore, what is being said in the argument na ca kartuḥ karaṇam?  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि च न च कर्त्तुः करणम् इति किमुक्तं भवति ।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+These different interpretations are not included by Ramanuja in his Sribhasya. 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं यस्याः क्रियाया यत् करणं  
+तत् क्रिया-कर्तुर् नोत्पद्यते,  
+उत यद् यत्र क्वापि +++(क्रियायां)+++ करणं  
+तत् कुतश्चिद् अपि कर्त्तुर् नोत्पद्यत इति वा ।  
+</details>
+
+<details><summary>English</summary>
+
+Is it that the instrument of a certain action does not originate from the agent of that same action;  
+or that no instrument of any action whatever originates from any agent whatsoever? 
+</details>
+
+<details><summary>मूलम्</summary>
+
+किं यस्याः क्रियाया यत्करणं तत्क्रियाकर्त्तुर्नोत्पद्यते, उत यद् यत्र क्वापि करणं तत् कुतश्चिदपि कर्त्तुर्नोत्पद्यत इति वा ।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+$ ' यत्र क्वापि क्रियायाम्' इति शेषः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्राद्ये कल्पे  
+सिद्ध-साधनतया अनुमानस्य विप्रतिषेधः -   
+
+न ह्य् अत्र  
+सङ्कर्षणात् कर्तुर् उत्पद्यमानं मनः  
+स्वोत्पादने करणं - कर्मत्वात्,  
+
+नापि +++(अन्यम् उत्पादकं विहाय)+++ स्वोत्पत्तौ - +++(सङ्कर्षणस्य)+++ कर्तृत्वात् ।  
+</details>
+
+<details><summary>English</summary>
+
+If the first view is taken, we have a conflict with Inference, because the argument contains the fallacy of proving the proved.  
+
+The mind, originating from the agent Saṅkarṣaṇa cannot be the instrument of Saṅkarṣaṇa's action of originating it,  
+since it itself is the object of the action;  
+
+nor can it be the instrument of the action of being originated, since it itself is the agent of that action. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्राद्ये कल्पे सिद्धसाधनतया अनुमानस्य विप्रतिषेधः,  
+न ह्यत्र सङ्कर्षणात्कर्त्तुरुत्पद्यमानं मनः स्वोत्पादने करणं कर्मत्वात्, नापि स्वोत्पत्तौ कर्तृत्वात् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपरेऽपि कल्पे प्रत्यक्ष-विप्रतिषेधः -  
+
+उदकाहरणादौ करण-भूतानाम् अपि घटादीनां  
+कर्तुः कुलालादेर् उत्पत्ति-दर्शनात् ।  
+</details>
+
+<details><summary>English</summary>
+
+If the alternative view is taken, we have a conflict with Perception, because we see that for instance a pitcher, though it be the instrument of an action of fetching water, yet originates from the agent of such an action, the potter. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अपरेऽपि कल्पे प्रत्यक्षविप्रतिषेधः उदकाहरणादौ करणभूतानामपि घटादीनां कर्त्तुः कुलालादेरुत्पत्तिदर्शनात् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् इदम् आह - विप्रतिषेधाद् इति ।  
+</details>
+
+<details><summary>English</summary>
+
+This the Author says in the sūtra vipratiṣedhāt: 'because there is conflict.'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तदिदमाह विप्रतिषेधादिति ।  
+</details>
+
+##### अर्थान्तर-दूषणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् वा सूत्र-द्वस्यास्य  
+**व्याख्यानान्तरम्** उच्यते ।  
+</details>
+
+<details><summary>English</summary>
+
+[[86]]
+
+103\. As to the other explanation that has been given of these two Sūtras,219 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यद्वा सूत्रद्वस्यास्य व्याख्यानान्तरमुच्यते ।  
-विज्ञानादेः प्रामाणत्वहेतोर्भावेन युज्यते ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विज्ञानादेः प्रामाणत्व-  
+हेतोर् भावेन युज्यते ॥  
+पञ्च-रात्र-प्रमाणत्व-  
+निषेधो ऽतिप्रसङ्गतः ।  
+</details>
+
+<details><summary>English</summary>
+
+since it is vijñānādi, i.e. "a ground for validity",220 the denial of the validity of Pāñcarātra is not justified, because it entails overextension. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विज्ञानादेः प्रामाणत्व-  
+हेतोर् भावेन युज्यते ॥  
 पञ्चरात्रप्रमाणत्वनिषेधोऽतिप्रसङ्गतः ।  
+</details>
+
+
 तत्रानुवादसंदेहज्ञानानुत्पत्तिलक्षणम् ॥  
 निरस्तमप्रमाणत्वं विज्ञानग्रहणादिह ।  
 वक्त्राशयवशप्राप्तमिथ्याशंकाऽपनुत्तये ॥  
