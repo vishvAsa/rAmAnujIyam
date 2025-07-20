@@ -9141,6 +9141,19 @@ La **respuesta es** -)
 सॆय्यक् कडवदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२४५]] 
+
+एक-शब्दः  
+
+सात्त्विक-त्यागेन स्वस्मिन् पराधीन-कर्तृत्वादीनां विवक्षणं  
++++(प्रभु-रूप-)+++फलोपायैक्य-प्रतिपादनम्  
+एकस्यैव सर्वोपाय-स्थाने ऽवस्थितेः प्रदर्शनं  
+च करोति । 
+</details>
+
+
 <details><summary>English</summary>
 
 the word ekam is intended to show that 
@@ -9181,6 +9194,17 @@ y ese Prapatti **se encuentra** en el lugar de todos (otros) upāyas.
 
 ऎऩ्ऱु समर्थित्तार्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> प्रपत्त्य-र्थं कस्याप्य् अननुष्ठेयत्वे ऽपि  
+स्वतन्त्राधिकारेण किङ्करस्यास्य स्वाम्य्-आज्ञातिलङ्घनं  
+न युक्तम् 
+
+इति समर्थयाम् आसुः ॥ 
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9336,6 +9360,13 @@ debido a otra causa (a saber - **Haciendo** lo prohibido).
 प्रकृतम् आऩ भक्ति-योगम् आगिऱ फलत्तिले उदाहरित्त बडि। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्याः प्रपत्तेर् भक्ति-योगाङ्गतया व्याख्यानं  
+प्रपत्तेः स-कल--फल-साधनत्वस्य प्रकृत-भक्ति-योग-रूप-फले उदाहरणम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 When prapatti was treated (by the Bhāṣyakāra) as an aṅga of bhakti yoga,  
@@ -9370,6 +9401,8 @@ ya que **es capaz** de **asegurar** todas las frutas.
 
 अनुसन्धेयम्।
 </details>
+
+
 
 <details><summary>English</summary>
 
@@ -9417,6 +9450,14 @@ y el **servicio** prapanna como un fin en sí mismo.
 चरम-श्लोक-संग्रहः ॥
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सुदुष्करेण शोचेद् यो  
+येन येनेष्ट-हेतुना+++(=साधनेन)+++ ।  
+स स तस्याहम् एवेति  
+चरम-श्लोक-संग्रहः ॥
+</details>
+
 <details><summary>English</summary>
 
 If a man is in despair  
@@ -9451,9 +9492,37 @@ para **permitirle asegurar** esa fruta.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भावाभावौ न धर्माणां  
-प्रपत्तेर् अङ्गमिष्यते ।  
-स्वतन्त्र-शिष्ट्या शक्येहाशेषाभावोधिकारगः ॥  
+भावाभावौ **न** धर्माणां  
+प्रपत्तेर् **अङ्गम्** इष्यते ।  
+स्व-तन्त्र-+++(शास्त्रादि-)+++**शिष्ट्या शक्येह** +++(प्रपत्तौ)+++ +  
++अ-शेषाभावो ऽधिकार-गः ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भावाभावौ **न** धर्माणां  
+प्रपत्तेर् **अङ्गम्** इष्यते ।  
+स्व-तन्त्र-+++(शास्त्रादि-)+++**शिष्ट्या शक्येह** +++(प्रपत्तौ)+++ +  
++अ-शेषाभावो ऽधिकार-गः ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+The performance or the non-performance of certain dharmas (like nitya and naimittika) are not to be considered as aṅgas of prapatti.  
+The man desires to perform these actions of which he is capable,  
+because they have been ordained for him (without any reference to prapatti ).  
+The non-performance of those actions of which he is incapable constitutes ākiñcanya (helplessness)  
+which is necessary for prapatti.
+</details>
+
+<details><summary>Español</summary>
+
+El **rendimiento** o el **incumplimiento** de ciertos dharmas (como Nitya y Naimittika) **no deben considerarse** como AṅGas de Prapatti.  
+El hombre **desea realizar** estas **acciones** de las que **es** capaz,  
+Porque **han sido ordenados** para él (sin ninguna **referencia** a Prapatti).  
+El **incumplimiento** de aquellas acciones de las que él **es** incapaz **constituye** ākiñcanya (impotencia)  
+que **es** necesario para Prapatti.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9473,7 +9542,7 @@ para **permitirle asegurar** esa fruta.
 </details>
 
 
-The performance or the non-performance of certain dharmas (like nitya and naimittika) are not to be considered as aṅgas of prapatti. The man desires to perform these actions of which he is capable, because they have been ordained for him (without any reference to prapatti ). The non-performance of those actions of which he is incapable constitutes ākiñcanya (helplessness) which is necessary for prapatti.
+
 
 Rites like darśa and purnamāsa have not been prescribed as requisites for yajnas (sacrifices ). So at the time of the performance of yajnas, they are not performed. But on occasions like the new-moon day, they have to be done because they are enjoined on their own account. So also here; (i.e.) nitya and naimittika are not prescribed as aṅgas for prapatti; they are not to be performed at the time of prapatti as its aṅgas, but because they have been enjoined on their own account, without any relation or reference to prapatti.
 
