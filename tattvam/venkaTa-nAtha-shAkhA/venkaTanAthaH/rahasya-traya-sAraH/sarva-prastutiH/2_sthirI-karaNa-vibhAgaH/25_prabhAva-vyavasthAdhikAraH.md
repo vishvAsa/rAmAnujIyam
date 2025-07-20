@@ -9109,38 +9109,226 @@ Esto **se indica** por la palabra parityajya.
 </details>
 
 
+##### एकम्
+<details><summary>English</summary>
 
-(If the word, parityajya, makes an injunction that other things should not be considered as aṅgas for prapatti,  
+(If the word, parityajya, makes an injunction  
+that other things should not be considered as aṅgas for prapatti,  
 and if the words (mā suchaH) (do not grieve or despair) show that the previous grief or despair is qualification for prapatti (ākiñcanya),  
-then, where is the appropriateness of the word ekam (it may be asked ).  
-The answer is :-  
-the word ekam is intended to show that in the mental or sāttvika renunciation of action by sattvam,  
+then, where is the appropriateness of the word ekam it may be asked.  
+
+The answer is -)  
+</details>
+
+<details><summary>Español</summary>
+
+(Si la palabra, parityajya, **hace** una orden  
+que otras cosas **no deben considerarse** como AṅGas para Prapatti,  
+y si las palabras (mā suchah) (**no lloran ni desesperan**) **muestran** que el dolor o la desesperación anterior es la calificación para Prapatti (ākiñcanya),  
+Luego, ¿dónde está la **idoneidad** de la palabra Ekam se puede preguntarla?
+
+La **respuesta es** -)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**एक**-शब्दम्  
+
+सात्त्विक-त्यागत्ताले तऩ् +++(→भगवत्)+++ पक्कलिल् पराधीन-कर्तृत्वादिगळै विवक्षित्तल्,  
++++(प्रभु-रूप-)+++ फलोपायैक्यत्तैच् चॊल्लुदल्,  
+एकमे सर्वोपाय-स्थानत्तिले निऱ्किऱ निलैयैक् काट्टुदल्  
+
+सॆय्यक् कडवदु। 
+</details>
+
+<details><summary>English</summary>
+
+the word ekam is intended to show that 
+
+in the mental or sāttvika renunciation of action by sattvam,  
 it should be borne in mind  
 that the jīva's doership is all dependent on the Lord and other such things,  
+
 that in prapatti, the means (upāya) and the end are one and the same (viz., the Lord)  
+
 and that prapatti stands in the place of all (other) upāyas.
+</details>
+
+<details><summary>Español</summary>
+
+La palabra ekam **pretende mostrar** que 
+
+en la **renuncia** de acción mental o sāttvika por sattvam,  
+**Debe ser soportado** en mente  
+que el **don** de Jīva **depende** del Señor y de otras cosas similares,
+
+que en Prapatti, los medios (upāya) y el fin **son** los mismos (a saber, el Señor) 
+
+y ese Prapatti **se encuentra** en el lugar de todos (otros) upāyas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एकशब्दम् सात्त्विकत्यागत्ताले तऩ् पक्कलिल् पराधीनकर्तृत्वादिगळै विवक्षित्तल्, फलोपायैक्यत्तैच् चॊल्लुदल्, एकमे सर्वोपायस्थानत्तिलेनिऱ्किऱ निलैयैक्काट्टुदल् सॆय्यक्कडवदु। 
+</details>
+
+### आज्ञा-कैङ्कर्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रपत्तिक्क् आगव् ऒऩ्ऱुम् अनुष्ठिक्क वेण्डाम् आगिलुम्  
+स्वतन्त्राधिकारत्ताले किङ्-करऩ् आऩ इवऩुक्कु  
+स्वामियिऩ्-उडैयव् आज्ञाऽतिलङ्घनम् आगाद्  
+
+ऎऩ्ऱु समर्थित्तार्गळ्। 
+</details>
+
+<details><summary>English</summary>
 
 Our acharyās like (Appullar) have argued thus:
 
-Since nitya and naimittika karma are enjoined on a man (irrespective of all fruit or gain that might arise from it) simply by virtue of his being a servant of the Lord, they should not be given up, lest he should be violating the command of the Master, (although they may not be required as aṅgas for prapatti).
+Since nitya and naimittika karma are enjoined on a man (irrespective of all fruit or gain that might arise from it)  
+simply by virtue of his being a servant of the Lord,  
+they should not be given up,  
+lest he should be violating the command of the Master,  
+(although they may not be required as aṅgas for prapatti).
+</details>
+
+<details><summary>Español</summary>
+
+Nuestros Acharyās como (Appullar) **han argumentado** así:
+
+Dado que Nitya y Naimittika Karma **están ordenados** a un hombre (independientemente de todas las frutas o **ganancias** que **puedan surgir** de él)  
+simplemente en virtud de **ser** un **siervo** del Señor,  
+**No deben ser abandonados**,  
+para que **no vaya a violar** el **mandato** del maestro,  
+(Aunque **es posible** que **no sean necesarios** como AṅGA para Prapatti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तिक्काग वॊऩ्ऱुमनुष्ठिक्क वेण्डामागिलुम् स्वतन्त्राधिकारत्ताले किङ्करऩाऩ इवऩुक्कु स्वामियिऩुडैय वाज्ञातिलङ्घनमागादॆऩ्ऱु समर्थित्तार्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आज्ञा-**विरोधिभिस्** स्वार्ह-  
+प्रायश्चित्त-**पराङ्-मुखैः** ।  
+स्वाधिकारोचितस् सर्वैः  
+**प्रत्यवायो** दुर्-अत्ययः ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आज्ञा-**विरोधिभिस्** स्वार्ह-  
+प्रायश्चित्त-**पराङ्-मुखैः** ।  
+स्वाधिकारोचितस् सर्वैः  
+**प्रत्यवायो** दुर्-अत्ययः ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+Those who have violated the commands (of the Lord) and have not performed the expiatory ceremonies ( prāyaścitta ) enjoined for these violations according to their competence - they must suffer the consequences of the violation. 
+</details>
+
+<details><summary>Español</summary>
+
+Aquellos que **han violado** los **mandamientos** (del Señor)  
+y **no han realizado** las ceremonias expiatorias (prāyaścitta) **ordenadas** por estas violaciones  
+de acuerdo con su competencia:  
+**deben sufrir** las consecuencias de la violación.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आज्ञाविरोधिभिस्स्वार्ह प्रायश्चित्तपराङ्मुखैः । स्वाधिकारोचितस्सर्वैः प्रत्यवायो दुरत्ययः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आज्ञाऽनुपालने तत्-तत्-  
+**प्रत्यवाय-निवारणम्** ।  
+स्वामि-सन्तोषतः **प्रीतिर्**  
+इति लाभ-द्वयं स्थिरम् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आज्ञाऽनुपालने तत्-तत्-  
+**प्रत्यवाय-निवारणम्** ।  
+स्वामि-सन्तोषतः **प्रीतिर्**  
+इति लाभ-द्वयं स्थिरम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+By acting in accordance with the commands,  
+one avoids the evil consequences (due to violation)  
+and enjoys (also) the pleasure arising from the delight of the Lord.  
+Thus two gains are certain.
+</details>
+
+<details><summary>Español</summary>
+
+**Actuando** de acuerdo con los **comandos**,  
+uno **evita** las consecuencias malvadas (debido a la violación)  
+y **disfruta** (también) el placer que **surge** del deleite del Señor.  
+Por lo tanto, dos **ganancias son ciertas**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आज्ञानुपालने तत्तत्प्रत्यवायनिवारणम् । स्वामिसन्तोषतः प्रीतिरिति लाभद्वयं स्थिरम् ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-आज्ञाविरोधिभिस्स्वार्ह प्रायश्चित्तपराङ्मुखैः । स्वाधिकारोचितस्सर्वैः प्रत्यवायो दुरत्ययः ॥  
-आज्ञानुपालने तत्तत्प्रत्यवायनिवारणम् । स्वामिसन्तोषतः प्रीतिरिति लाभद्वयं स्थिरम् ॥  
-अनिच्छातो निवर्तेत स्वर्गाद्यं कर्मणां फलम् । अमर्यादस्य दुर्वारः प्रत्यवायोऽन्यहेतुकः ॥
+अनिच्छातो निवर्तेत  
+स्वर्गाद्यं कर्मणां फलम् ।  
+अ-मर्यादस्य दुर्वारः  
+प्रत्यवायो +++(अनिच्छाभिन्न-)+++ ऽन्य-हेतुकः ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनिच्छातो निवर्तेत  
+स्वर्गाद्यं कर्मणां फलम् ।  
+अ-मर्यादस्य दुर्वारः  
+प्रत्यवायो +++(अनिच्छाभिन्न-)+++ ऽन्य-हेतुकः ॥
+
+</details>
+
+
+<details><summary>English</summary>
+
+Such things as svarga that are declared to be the fruit of certain (good) karmas  
+will not arise (as the prapanna performs them without desiring any fruit.)  
+But if the man performs forbidden actions,  
+the evil consequences will necessarily follow (though not desired by him),  
+owing to another cause (viz. doing the forbidden thing).
+</details>
+
+<details><summary>Español</summary>
+
+Cosas como Svarga que **se declaran** el fruto de ciertos (buenos) karmas  
+**no surgirá** (como la Prapanna los **realiza sin desear** ningún fruto).  
+Pero si el hombre **realiza** acciones prohibidas,  
+Las consecuencias malvadas se **seguirán** necesariamente (aunque **no lo deseen**),  
+debido a otra causa (a saber - **Haciendo** lo prohibido).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-आज्ञाविरोधिभिस्स्वार्ह प्रायश्चित्तपराङ्मुखैः । स्वाधिकारोचितस्सर्वैः प्रत्यवायो दुरत्ययः ॥  
-आज्ञानुपालने तत्तत्प्रत्यवायनिवारणम् । स्वामिसन्तोषतः प्रीतिरिति लाभद्वयं स्थिरम् ॥  
 अनिच्छातो निवर्तेत स्वर्गाद्यं कर्मणां फलम् । अमर्यादस्य दुर्वारः प्रत्यवायोऽन्यहेतुकः ॥
 </details>
 
-Those who have violated the commands (of the Lord) and have not performed the expiatory ceremonies ( prāyaścitta ) enjoined for these violations according to their competence - they must suffer the consequences of the violation. By acting in accor. dance with the commands, one avoids the evil consequences (due to violation) and enjoys (also) the pleasure arising from the delight of the Lord. Thus two gains are certain.
 
-Such things as svarga that are declared to be the fruit of certain (good) karmas will not arise (as the prapanna performs them without desiring any fruit.) But if the man performs forbidden actions, the evil consequences will necessarily follow (though not desired by him), owing to another cause (viz. doing the forbidden thing).
+
 
 When prapatti was treated (by the Bhāṣyakāra) as an aṅga of bhakti yoga, it was only to illustrate how it wins bhakti yoga as a fruit, since it is capable of securing all fruits. In this context, we should bear in mind that, on the lines of the Bhāṣyakara's second interpretation (of the carama śloka ), prapatti stands in the place of all upāyas including bhakti yoga, which are difficult of performance. In accordance with his first interpretation, (that every dharma should be done with the thought that it is performed not by oneself but by the Lord and for His own ends - sāttvika parityāga) and not out of any desire for one's own gain, the meaning should be considered as enjoining the performance of prapatti with that thought and the service rendered by the prapanna as an end in itself.
 
