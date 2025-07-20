@@ -9806,12 +9806,18 @@ También **puede significar**:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदिऩ् अरुमै तोऱ्ऱुगैक्क् आग  
+इदिऩ् अरुमै+++(=दौर्लभ्यं)+++ तोऱ्ऱुगैक्क् आग  
 
 > ‘‘उभे सत्यानृते त्यक्त्वा’’  
 
 ऎऩ्ऱ् अनुवदिक्किऱदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य दौर्लभ्यं द्योतयितुम् "उभे सत्यानृते त्यक्ता" इत्य् अनूद्यते। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9845,7 +9851,11 @@ Para **revelar** la excelencia de su **enseñanza**, se **repite** nuevamente:-
 
 <details><summary>नीलमेघः (सं)</summary>
 
+त्यागे कर्तृत्वम् अपि पराधीनम् इत्य् अनुसन्धानार्थं 
+
 > ‘‘येन त्यजसि तत् त्यज’’  
+
+इत्य् उच्यते । 
 </details>
 
 <details><summary>English</summary>
@@ -9856,6 +9866,8 @@ it is said further,
 the thought that you are the doer", 
 
 in order to enable us to realise that even our doership is dependent on another (the Lord ). 
+
+(Thus there is no authority here for violating the commands of the Lord.)
 </details>
 
 <details><summary>Español</summary>
@@ -9866,6 +9878,8 @@ in order to enable us to realise that even our doership is dependent on another 
 la idea de que **eres** el **hacedor** ",
 
 Para **permitirnos darnos cuenta** de que incluso nuestra **carrera** depende de otro (el Señor).
+
+(Por lo tanto, **no hay** autoridad aquí por **violar** los **mandamientos** del Señor).
 </details>
 
 
@@ -9875,10 +9889,10 @@ Para **permitirnos darnos cuenta** de que incluso nuestra **carrera** depende de
 </details>
 
 
+### उत्सृज्य चोदनाम्
 
 
 
-Thus there is no authority here for violating the commands of the Lord.
 
 Now let us consider what was taught to Uddhava :- In spite of what has been said so far, some quote the words addressed to Uddhava.--"Give up, Uddhava, all injunctions (vidhis) (like sandhyā, which are prescribed as a means to an end); give up all prohibitions such as “don't injure others"; give up the dharmas to be actively performed and also the dharmas which prescribe the avoidance of or abstention from certain acts and also the requisites (aṅgas) which you have heard so far and which you will learn hereafter as being necessary for both of them (Give up all these) and seek refuge in Me alone by all means, for I am the Inner Self of all beings. By doing so, you will attain mokṣa, where there is freedom from all fear". They quote these words and argue as follows "Since, here we are enjoined[^75] to give up the abstention from certain actions, and since in the carama śloka, it is not proper to restrict or limit the meaning of sarva (all) in sarva karmāni, it follows that we should give up even the abstention (from evil acts )." This would mean that we should perform forbidden things as much as lies in our power. Since the doing of these forbidden things is something that, according to them, is enjoined, these people argue in their delusion that even if the prapanna does forbidden things deliberately after prapatti, there would be no stain left. This is extremely ridiculous, for the (notorious) charvakas (alepakas) say that even if a man sins, it leaves no stain behind, whereas the argument stated above goes further and is tantamount to saying that (the prapanna ) should necessarily commit sin: This is "like the fish swallowing greedily the bait made of iron covered with something which is delicious to eat, without any thought of the consequence. It is in reflecting on such (perversities) that the great sage became sad: "Whatever ** the good man shirks from, that the wicked man is delighted with. How painful is the perversity of this world !"
 
