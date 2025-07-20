@@ -1472,7 +1472,7 @@ And here the two sādhyas are interdependent since the realization of heaven is 
 
 REFUTATION. No; 
 
-When heaven is not realized, what of the injunction can not be realized? Neither the qualification, nor the object, nor anything else required by the injunction is not realized.
+When heaven is not realized, what of the injunction/ apUrva can not be realized? Neither the qualification, nor the object, nor anything else required by the injunction is not realized.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1506,7 +1506,7 @@ REFUTATION. No;
 <details><summary>Buitenen</summary>
 
 
-70\. ~~OBJECTION.~~ In the case of the qualifications for periodical rites the injunction does not require the 'realization of any fruit.'146   
+70\. ~~OBJECTION.~~ In the case of the qualifications for periodical rites the injunction (apUrva) does not require the 'realization of any fruit.'146   
 
 146: No specific fruits are attached to nitya rites.  
 

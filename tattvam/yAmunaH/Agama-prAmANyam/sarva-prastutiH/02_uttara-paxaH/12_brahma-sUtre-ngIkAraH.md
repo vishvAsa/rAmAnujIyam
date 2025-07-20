@@ -598,7 +598,7 @@ This the Author says in the sūtra vipratiṣedhāt: 'because there is conflict.
 **व्याख्यानान्तरम्** उच्यते ।  
 </details>
 
-<details><summary>विश्वास-टिप्पनी</summary>
+<details><summary>En - विश्वासः</summary>
 
 Or, we state an alternative explation for the two sutras.
 </details>
