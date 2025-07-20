@@ -9172,7 +9172,7 @@ y ese Prapatti **se encuentra** en el lugar de todos (otros) upāyas.
 एकशब्दम् सात्त्विकत्यागत्ताले तऩ् पक्कलिल् पराधीनकर्तृत्वादिगळै विवक्षित्तल्, फलोपायैक्यत्तैच् चॊल्लुदल्, एकमे सर्वोपायस्थानत्तिलेनिऱ्किऱ निलैयैक्काट्टुदल् सॆय्यक्कडवदु। 
 </details>
 
-### आज्ञा-कैङ्कर्यम्
+##### आज्ञा-कैङ्कर्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > प्रपत्तिक्क् आगव् ऒऩ्ऱुम् अनुष्ठिक्क वेण्डाम् आगिलुम्  
@@ -9328,10 +9328,86 @@ debido a otra causa (a saber - **Haciendo** lo prohibido).
 </details>
 
 
+##### अङ्ग-प्रपत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् प्रपत्ति भक्ति-योगाङ्गम् आगव् अरुळिच् चॆय्ददु  
+प्रपत्ति स-कल--फल-साधनम् आऩ बडियै  
+प्रकृतम् आऩ भक्ति-योगम् आगिऱ फलत्तिले उदाहरित्त बडि। 
+</details>
+
+<details><summary>English</summary>
+
+When prapatti was treated (by the Bhāṣyakāra) as an aṅga of bhakti yoga,  
+it was only to illustrate how it wins bhakti yoga as a fruit,  
+since it is capable of securing all fruits.  
+</details>
+
+<details><summary>Español</summary>
+
+Cuando Prapatti **fue tratado** (por el Bhāṣyakāra) como un aṅga de bhakti yoga,  
+**Fue** solo para **ilustrar** cómo **gana** el yoga bhakti como fruta,  
+ya que **es capaz** de **asegurar** todas las frutas.
+</details>
 
 
-When prapatti was treated (by the Bhāṣyakāra) as an aṅga of bhakti yoga, it was only to illustrate how it wins bhakti yoga as a fruit, since it is capable of securing all fruits. In this context, we should bear in mind that, on the lines of the Bhāṣyakara's second interpretation (of the carama śloka ), prapatti stands in the place of all upāyas including bhakti yoga, which are difficult of performance. In accordance with his first interpretation, (that every dharma should be done with the thought that it is performed not by oneself but by the Lord and for His own ends - sāttvika parityāga) and not out of any desire for one's own gain, the meaning should be considered as enjoining the performance of prapatti with that thought and the service rendered by the prapanna as an end in itself.
+<details><summary>मूलम्</summary>
 
+इप् प्रपत्ति भक्तियोगाङ्गमाग वरुळिच्चॆय्ददु प्रपत्ति सकलफलसाधनमाऩबडियै प्रकृतमाऩ भक्तियोगमागिऱ फलत्तिले उदाहरित्तबडि। 
+</details>
+
+#### प्रपन्नेभ्यः सारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु 
+
+द्वितीय-योजनैयिल्  
+दुष्-करङ्गळ् आऩ भक्ति-योग-पर्यन्तोपायङ्गळिऩ्-उडैय स्थानत्तिले निऱ्किऱ उपाय-विशेषमुम्  
+
+प्रथम-योजनैयिल्  
+बुद्धि-विशेष-पूर्वकम् आऩ प्रपत्त्य्-अनुष्ठानमुम्  
+कृतोपायऩ्-उडैय स्वयं-प्रयोजनम् आऩ कैङ्कर्यमुम्  
+
+अनुसन्धेयम्।
+</details>
+
+<details><summary>English</summary>
+
+In this context, we should bear in mind that, on the lines of the Bhāṣyakara's second interpretation (of the carama śloka ),  
+prapatti stands in the place of all upāyas including bhakti yoga,  
+which are difficult of performance.  
+
+In accordance with his first interpretation,  
+(that every dharma should be done with the thought  
+that it is performed not by oneself  
+but by the Lord and for His own ends - sāttvika parityāga  
+and not out of any desire for one's own gain),  
+the meaning should be considered as enjoining  
+the performance of prapatti with that thought  
+and the service rendered by the prapanna as an end in itself.
+</details>
+
+<details><summary>Español</summary>
+
+En este contexto, **debemos tener** en **cuenta** que, en las líneas de la segunda **interpretación** de Bhāṣyakara (del Carama Śloka),  
+Prapatti **se encuentra** en el lugar de todos los upāyas, incluido el yoga bhakti,  
+que **son** difíciles de **rendimiento**.
+
+De acuerdo con su primera **interpretación**,  
+(que cada dharma **debe hacerse** con el **pensamiento**  
+que **no se realiza** por uno mismo  
+Pero por el Señor y por sus propios fines - Sāttvika Parityāga  
+y no por ningún deseo por la propia **ganancia**),  
+El **significado debe considerarse** como un destacado  
+el **rendimiento** de Prapatti con ese **pensamiento**  
+y el **servicio** prapanna como un fin en sí mismo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु द्वितीययोजनैयिल् दुष्करङ्गळाऩ भक्तियोगपर्यन्तोपायङ्गळिऩुडैय स्थानत्तिले निऱ्किऱ उपायविशेषमुम् प्रथमयोजनैयिल् बुद्धिविशेषपूर्वकमाऩ प्रपत्त्यनुष्ठानमुम् कृतोपायऩुडैय स्वयंप्रयोजनमाऩ कैङ्कर्यमुमनुसन्धेयम्।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -9351,12 +9427,11 @@ to enable him to secure that fruit.
 
 <details><summary>Español</summary>
 
-If a man is in despair  
-because of his inability to adopt such means or upāyas as will yield the respective fruits desired by him,  
-then, I myself (single as I am) will stand for him as the respective means or upāya  
-to enable him to secure that fruit.
+Si un hombre **está** desesperado  
+Debido a su incapacidad para **adoptar** los medios o upāyas que generará los respectivos frutos deseados por él,  
+Entonces, yo mismo (soltero como yo) lo **defenderé** como el medio respectivo o upāya  
+para **permitirle asegurar** esa fruta.
 </details>
-
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
