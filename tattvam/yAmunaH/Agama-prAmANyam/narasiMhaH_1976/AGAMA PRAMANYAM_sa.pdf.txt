@@ -7,7 +7,7 @@ THE MAHARAJA
 SAYAJIRAO 
 UNIVERSITY OF BARODA 
 सत्यं शिवं सुन्दरम् 
-General Editorः 
+General Editor- 
 A. N. Jani, 
 M.A., Ph.D., D.Litt., 
 Kavyatirtha, 
@@ -124,13 +124,13 @@ I will be failing in my duty if I do not express my sense of indebtedness to Tar
 Published by the Prof M. Rangacharya Memorial Trust, Madras, 1971. 
 XV 
 I wish to express my grateful thanks to the authorities of the M. S. Uni- versity, Baroda, and to the former Director of the Oriental Institute, Dr. B. J. Sandesara and to the Deputy Director, Dr. U. P. Shab, for including my work in the reputed Gaekwad's Oriental Series, and also to Dr. A. N. Jani, the present Director, før looking after the completion of this work. 
-I express my grateful thanks to the authorities of the University of Madras for having given me a scholarship for two years during 1961-63 and necessary facilities to carry on my research work in the Sanskrit Department of the Uni- Vernity and for the permission that they gave for publishing this work. My thanks are also due to the Curators of the following Libraries and Institutions for having permitted me to consult not only the palm-leaf manuscripts of the Agamapramanya but also some rare and unpublished manuscripts of other con- nected worksः The Government Oriental Manuscripts Library, Madras, The Adyar library, Mudras, Sri Venkateswara Oriental Research Institute, Tirupati, The Oriental Institute, Baroda and the Oriental Institute, Mysore. 
+I express my grateful thanks to the authorities of the University of Madras for having given me a scholarship for two years during 1961-63 and necessary facilities to carry on my research work in the Sanskrit Department of the Uni- Vernity and for the permission that they gave for publishing this work. My thanks are also due to the Curators of the following Libraries and Institutions for having permitted me to consult not only the palm-leaf manuscripts of the Agamapramanya but also some rare and unpublished manuscripts of other con- nected works- The Government Oriental Manuscripts Library, Madras, The Adyar library, Mudras, Sri Venkateswara Oriental Research Institute, Tirupati, The Oriental Institute, Baroda and the Oriental Institute, Mysore. 
 MADRAS, 1976 
 M. NARASIMHACIARY 
 INTRODUCTORY STUDY 
 Yamunācārya (known in Tamil as Āļavandar) occupies a unique place among the Śrīvaiṣṇava teachers. He was Rāmānujācārya's grand teacher and Ramanuja and later writers owe a deep debt of gratitude to Yamuna and his works. When the Advaita Philosophy was widely popular and the sastraic teachings of Nathamuni, Yamuna's grandfather and the first in the list of Acāryas were just nascent, Yamuna had to play a vital role in promoting the Śrīvaiṣṇava religion and philosophy. He succeeded in this task remarkably well through his works. The completion of this task of promoting the Visiṣṭādvaita was left to Ramanuja. Thus it was Yamuna that paved the way, so to say, for the preat Rāmānuja. 
-Agamapramanya of Yamuna which we have taken up for a critical edition and study, tries to establish the authority of the Pañcarātrāgamas, which form an integral part of the Visiṣṭādvaita religion and philosophy. The Viśiṣtadvaita hool has three aspectsः the Sanskrit scriptures owing to Vedic authority, the Sanskrit Āgamas and the Psalms of the Āļvārs in Tamil. We are not concerned here with the first and last of these above three aspects of Visiṣṭādvaita. Of the second, 172, the Sanskrit Agamas, there are two schoolsः the Vaikhānasa and The Pancaratra. Of these two branches of the Śrīvaiṣṇava-āgamas, we are concerned here only with the Pañcaratra. 
-Some of the leading exponents of the Visiṣṭadvaita school of thought have written upon both these aspectsः the sastra deriving the Vedic authority and the Pancaratragamas. Among the pre-Rāmānuja writers of this school whose works we have, Yamuna is the most important. His contributions cover both The Vedic and the Agamic aspects. His Gitārthasaṁgraha is on one of the texts. of the Prasthanatraya. His Siddhitraya is an independent text linked to the Prasthanatraya. On the Agamic side, he wrote the Agamaprāmāṇya taken by us for the present study. The Kāśmiragamaprāmāṇya, which is referred to in The Agamapramanya,2 appears to be his own work.3 
+Agamapramanya of Yamuna which we have taken up for a critical edition and study, tries to establish the authority of the Pañcarātrāgamas, which form an integral part of the Visiṣṭādvaita religion and philosophy. The Viśiṣtadvaita hool has three aspects- the Sanskrit scriptures owing to Vedic authority, the Sanskrit Āgamas and the Psalms of the Āļvārs in Tamil. We are not concerned here with the first and last of these above three aspects of Visiṣṭādvaita. Of the second, 172, the Sanskrit Agamas, there are two schools- the Vaikhānasa and The Pancaratra. Of these two branches of the Śrīvaiṣṇava-āgamas, we are concerned here only with the Pañcaratra. 
+Some of the leading exponents of the Visiṣṭadvaita school of thought have written upon both these aspects- the sastra deriving the Vedic authority and the Pancaratragamas. Among the pre-Rāmānuja writers of this school whose works we have, Yamuna is the most important. His contributions cover both The Vedic and the Agamic aspects. His Gitārthasaṁgraha is on one of the texts. of the Prasthanatraya. His Siddhitraya is an independent text linked to the Prasthanatraya. On the Agamic side, he wrote the Agamaprāmāṇya taken by us for the present study. The Kāśmiragamaprāmāṇya, which is referred to in The Agamapramanya,2 appears to be his own work.3 
 YAMUNA'S PREDECESSORS 
 The exact state of the pre-Yamuna Viśiṣtādvaita is not known because of the fact that though there were the works of Nathamuni, Yamuna's grandfather by Yamuna's time, they have not come down to posterity. 
 - 
@@ -141,22 +141,22 @@ Yamuna's Contribution to Visistādvaita", published by Prof. M. Rangacharya Memo
 J. Neo p. 170 Sanskrit text of this work. 
 1. See p. 4, foot-note 3, below. 
 2 
-In the list of teachers recited by Śrīvaiṣṇavas, barring the Divine Teachers, we have the following mentioned in the pre-Yamuna ageः Śathakopa (known in Tamil as Nammāļvār), Nathamuni, Puṇḍarīkākṣa (Uyyakkoṇḍār) and Śrīrāmamiśra (Maṇakkālnambi). Of these, Śathakopa is the celebrated Tamil Saint. Thus it is Nathamuni that forms the first Śrīvaiṣṇava teacher of the South, who wrote works in Sanskrit. 
+In the list of teachers recited by Śrīvaiṣṇavas, barring the Divine Teachers, we have the following mentioned in the pre-Yamuna age- Śathakopa (known in Tamil as Nammāļvār), Nathamuni, Puṇḍarīkākṣa (Uyyakkoṇḍār) and Śrīrāmamiśra (Maṇakkālnambi). Of these, Śathakopa is the celebrated Tamil Saint. Thus it is Nathamuni that forms the first Śrīvaiṣṇava teacher of the South, who wrote works in Sanskrit. 
 Nathamuni, perhaps otherwise called Śrīranganathamuni and Śrīnātha,1 was a native of Viranārāyaṇapura, a village in tne South Arcot District, not far from Chidambaram. This village is now known as Kattumannarkoil or Kattumannārguḍi. He lived in the later quarter of the 9th and the major part of the 10th cent. A.D. He had a son called Iśvara and a daughter too.2 He was a great scholar, philosopher, musician3 and yogin all in one. 
 · 
 He wrote Yogarahasya, a treatise on Yoga, and Nyāyatattva, a treatise on the Nyaya philosophy.5 None of these works is available now, though many passages from the second are quoted by Venkaṭanatha, the famous later-day Śrīvaiṣṇava teacher." 
 An additional significance of the position of Nathamuni is the fact that he was the grandfather of Yamuna, whose work we are studying. Yamuna makes several references to him and his distinguished disciples in his own works.7 
 Nathamuni was followed by Puṇḍarīkākṣa and he, by Śrirāmamiśra. It is not known whether these teachers wrote any works or not. Vedanta Deśika, in his works refers to Sadarthasarkṣepa and Vivarana of one Śrīrāmamiśra, 
-1. See T. A. Gopinatha Rau's Sir Subrahmanya Aiyar Lectures on the History of Srivais- navas", where he identifies Nāthamuni with Śrinātha, on inscriptional dataः p. 30, line 26. 2. Vide Prapannāmṛta, ch. 108, s. 71, p. 417. 
+1. See T. A. Gopinatha Rau's Sir Subrahmanya Aiyar Lectures on the History of Srivais- navas", where he identifies Nāthamuni with Śrinātha, on inscriptional data- p. 30, line 26. 2. Vide Prapannāmṛta, ch. 108, s. 71, p. 417. 
 3. Ibid., p. 413 ff. 
 4. Ibid., p. 416. 
 5. Ibid. 
-6. Nyāyasiddhāñjanaः ch. I, pp. 30, 42, 43; ch. III, p. 104; ch. V, pp. 116, 125, 129; ch. VI, 
+6. Nyāyasiddhāñjana- ch. I, pp. 30, 42, 43; ch. III, p. 104; ch. V, pp. 116, 125, 129; ch. VI, 
 pp. 159, 161, etc. 
-See also Nyāyapariśuddhiः pp. 109, 130, 132, 138, etc. In this work it is also said that the Nyāyatativa of Nathamuni criticizes and refutes the classical Nyaya system of Gautama. 
+See also Nyāyapariśuddhi- pp. 109, 130, 132, 138, etc. In this work it is also said that the Nyāyatativa of Nathamuni criticizes and refutes the classical Nyaya system of Gautama. 
 Cf. p. 87" bhagavannathamunibhir nyāyatattvasamāhvayā 
 avadhiryakṣapādādin nyabandhi nyāyapaddhatiḥ " 
-7. See Stotraratnaः slokas 1, 2, 3 and 65. These verses state that Nathamuni was a great philosopher, teacher and devotee. Special reference is made in verse 3 to his bringing the great bhaktiyoga to the reach of the lay man by his preachings as well as writings. See in this connection, Deśika's commentary on this verse, p. 28. 
+7. See Stotraratna- slokas 1, 2, 3 and 65. These verses state that Nathamuni was a great philosopher, teacher and devotee. Special reference is made in verse 3 to his bringing the great bhaktiyoga to the reach of the lay man by his preachings as well as writings. See in this connection, Deśika's commentary on this verse, p. 28. 
 The last verses of Agamaprāmāṇya also bring about the glory of Nathamuni and his dis- ciples. Of special importance is the phrase "sva-yogamahimapratyakṣatattvatrayaḥ " attributed by Yamuna to Nāthamuni, in the penultimate verse, which means that the latter attained a vision of the Three Realities (cir, acit and Išvara) by means of his Yogic powers. 8. Nyāyasiddhañjana ch. 1, p. 35; ch. III, p. 106, etc. See also Nydyapariśuddhi, pp. 152, 153. 
 3 
 but this author should not be mistaken to Yamuna's teacher, as he is also said to have commented upon Rāmānuja's Vedarthasamgraha, which proves his later date. 
@@ -204,7 +204,7 @@ Yamuna examines the philosophy of the four schools of Ŝaivism viz., the Kāpāl
 4 Brahamavutra, II, ii, 42-45. 
 1 
 Nee the text, p. 135. 
-7. Sankara's commentary on Brahmasutra, II, ii, 42, p. 259 (Nirnayasagara Edition)ः "yalyapycvarhjályakāmiaḥ samānatvāt na visaṁvādagocaro bhavati; asti tvarsantarach vishvadanthanaṁ...." 
+7. Sankara's commentary on Brahmasutra, II, ii, 42, p. 259 (Nirnayasagara Edition)- "yalyapycvarhjályakāmiaḥ samānatvāt na visaṁvādagocaro bhavati; asti tvarsantarach vishvadanthanaṁ...." 
 1. 7. Visnutattvavinirnaya, p. 2- 
 radya bharatah caiva paficarâtramathākhilaṁ....sarve te ca aadagamáḥ "6 
 present attempt is to give a critical edition of this text and make a study of it. This text, of course, has already appeared in print four times but those editions are not satisfactory from the critical point of view. 
@@ -232,12 +232,12 @@ These Agamas were subjected to doubts regarding their Vedic character from the 7
 J 
 her also Sutvusiddhanta by V. A. Devasenapathi, p. 39- "The view generally accepted by the Siddhantin (Saiva) is that Vedas equally with the Agamas are authoritative, the only difference between them being that while the Vedas are general, the Agamas are special." How History of the Tamils by P. T. Srinivasa Iyengar, p. 107- 
 the caryd and krivd books of the Agamas describe the means of worship....but as the discipline of bhakti has in many cases to be supplemented by some psychological discipline in the form of yoga practice, the third book of every Agama text deals with vega; the fourth book of Agama deals with jñāna....in the sense of exposition of the philosophical principles underlying the Agama teaching...... Though each Agama thus possesses a yogapāda and aapad... the Agamas are primarily the scriptures of Bhakti Marga, as the Upanisada me the Scriptures of the Jñana Marga. The former is an easy path and the latter a difficult 
-Ahirbulhnya Samhita, XI. 63b-64aः 
+Ahirbulhnya Samhita, XI. 63b-64a- 
 "tatparavyûhavibhavasvabhāvādinirūpapam 
 pancaratrahvayam tantraṁ mokṣaikaphalalakṣaṇaṁ " 
 See further, Dr. J. A. B. vān Buitenan, 
 re 
-The Name Pañcarātra", History of Religions, pp 291-299 (1962); Dr. V. Raghavan, "The Name Pañcaratra....," JAOS, vol. 85, pp 73-79 (1965) and Dr. H. Daniel Smith, "A Typological Survey of Definitionः The Name l'ancaritra ", JOR, vols. XXXIV-XXXV, pp. 102-117 (1973). 
+The Name Pañcarātra", History of Religions, pp 291-299 (1962); Dr. V. Raghavan, "The Name Pañcaratra....," JAOS, vol. 85, pp 73-79 (1965) and Dr. H. Daniel Smith, "A Typological Survey of Definition- The Name l'ancaritra ", JOR, vols. XXXIV-XXXV, pp. 102-117 (1973). 
 8 
 the Vaikhanasa enjoyed wide popularity and unquestioned authority. The reason behind this is that the Vaikhānasa scriptures had, as their basis, the sutras of Vikhanas, who is an undoubtedly Vedic Sage. These aphorisms were well expounded by his disciples Atri, Marīci, Kasyapa and Bhrgu in their respec- tive Samhitas. In the case of the Pañcarātra, though there are Vedic elements, in addition to them, there are other elements too, which, for a superficial observer appear non-Vedic. All such views are stated and refuted as the purvapakṣa- arguments in this work Agamaprāmāṇya. The position is that all these Pāŏcarātrāgamas lay claim to authority on the ground that they are the direct utterances of Vasudeva, the Supreme Deity, and also that they are based upon the Ekayanaśākhā, which forms one of the redactions of the White Yajurveda. This Ekāyanaśākhā, which is generally described sometimes as the Crown and sometimes as the Root of the Vedas, is mentioned in the Chandogya Upanișud.1 An early Kāśmirian author Utpala, reverentially quotes several passages from the Ekayanasruti, Ekayana Upanisad and many Pañcarātrāgamas, in his Spanda- pradipika.2 This definitely points to the existence of an Ekayana Veda, which is of course almost lost now, and which is claimed by the Pañcarātrāgamas 
 as their source. 
@@ -246,7 +246,7 @@ CIRCUMSTANCES UNDER WHICH THE
 We have already noticed above that while the Vaikhanasa gained the confidence of the people, it was only the Pañcaratra that came to be doubted of its Vedic nature due to a few apparently non-Vedic elements, as for example, the enjoining of a special Initiation (dīkṣā) on a man already initiated by the Upanayana, so as to qualify him to do worship in Viṣņu temples. Orthodox Vedic followers began to entertain doubts about the Vedic character of the Pañcaratra and its followers. The inclusion of the Pañcarātra among the non-Vedic schools by the great Mimāṁsaka Kumārilabhaṭṭa (about 800 A.D.) in his Tantravārtika,3 put this school under severe test and shook the confidence of the people deeply. The interpretation of the four aphorisms comprising the Pañcaratra-section of the Brahmasutra by the celebrated Advaita teacher Sankarācārya exposed the philosophical side of these agamas to still grave doubts. This situation demanded a scholastic approach to the problem of the authority of these texts and consequently, of their followers, called the Bhagavatas or 
 1. Chandogya, VII. 1.2- "rgvedam bhagvo' dhyeme...ekāyanaṁ " 
 Cf. also Satapatha Brahmana, XIII. 6.1.1- "sa etaṁ.... pañcarâtraṁ....". 
-2. See Spandapradipika, pp. 2, 8, 22, 40, etc.ः 
+2. See Spandapradipika, pp. 2, 8, 22, 40, etc.- 
 "pañcarǎtraśrutāvapi....yadvat sopanena prāsādamāruhet...." etc., and 
 pancarātropanișadi ca ..jñata ca jñeyam ca.... 
 ...." etc. 
@@ -262,7 +262,7 @@ The stand of Rāmānuja on the validity of the Pañcarātra scriptures is lar to
 www.s 
 1 
 1 
-DN Radhakrishnan, in his Indian Philosophy, Vol. I, p. 499, observesः 
+DN Radhakrishnan, in his Indian Philosophy, Vol. I, p. 499, observes- 
 The very need for defence (of the Pañcaratra by the Vaisnava philosophers) seems to show that it took some time for the system to be accepted as Vedic.' 
 Almika IV, p. 261 ff. 
 hid, p. 265- "pañcarātrepi tenaiva prāmāṇyamupavarṇitam 
@@ -279,17 +279,17 @@ abhihiteti".
 44 
 3. Ibid. vāsudevākhyam param brahmaiva āśritavatsalam svāśritasamāśrayanivatvācca 
 svecchaya caturdhā avatisthata iti tatprakriyā". 
-4. Cf. Pauskara Samhitaः Ch. 38, $1. 293b-294aः 
+4. Cf. Pauskara Samhita- Ch. 38, $1. 293b-294a- 
 kartavyatvena vai yatra cāturatmyamupāsate 
 kramāgataissvasamjilābhir brāhmaṇairāgamam tu tat". 
-Sattvata Samhitaः Ch. 2. ś1- 4a and 5aः 
+Sattvata Samhita- Ch. 2. ś1- 4a and 5a- 
 64 
 'brāhmaṇāṇām hi sadbrahma vasudevākhyayājinām 
 vivekadam param śāstraṁ brahmnopaniṣadam mahat ". 
 5. Sec Śribhāṣya under II. ii. 41 for the following passage from the Pauskara Saṁhitā - 
 "yasmāt samyak param brahma vāsudevākhyamavyayam 
 asmād avāpyate śāstrāt Jānapūrveṇa karmaṇā" (Ch. 38, 1. 306). 
-6. Ibid. Rāmānuja quotes Taittiriya Araṇyaka, III. 13.1bः 
+6. Ibid. Rāmānuja quotes Taittiriya Araṇyaka, III. 13.1b- 
 44 
 ajāyamāno bahudhā vijayate". 
 7. Ibid.- "tatra jivamano’hankāratattvānám adhiṣṭhātāraḥ sankarṣaṇapradyumnāniruddhā iti teṣameva jivādisabdairabhidhānam aviruddham, yathā ākāśaprāṇāditabdair brahmano 'bhidhānm" 
@@ -355,7 +355,7 @@ mimāṁsāśāstrayugmaśramavimalamanā mṛgyatāṁ mādrso 'nyaḥ
 19 
 2. Cf. the text, p.117 the passage starting with "evam vā..na ca.." etc., and Sribhāṣya II.ii.40. Cf. again the text, p. 118- vāśabdāt pakṣo viparivartate" etc. and Śribhāṣya, II. ii. 41- 
 vāśabdāt pakṣo viparivartate" etc. 
-Deśika in his Nyāyapariśuddhi, p. 168, avers that Rāmānuja followed Yamuna in interpreting the Pāñcarātra section of the Brahmasūtraः “tadunusāreṇaiva bhāṣyakāraiḥ śripāñcarātrādhikaraṇam vyākhyātam ". 
+Deśika in his Nyāyapariśuddhi, p. 168, avers that Rāmānuja followed Yamuna in interpreting the Pāñcarātra section of the Brahmasūtra- “tadunusāreṇaiva bhāṣyakāraiḥ śripāñcarātrādhikaraṇam vyākhyātam ". 
 15 
 Brahmastra. Refutation of the Pasupata system of thought found in the Sbhayya under II. ii. 35- "Patyurasdmañjasydt" is again based upon Yamuna's refutation of that school made in the Agamaprāmāṇyu.2 Sudarsanasūri, the Commentator on the Śrībhasya quotes from the Agamaprāmāṇya3 and references made to this work by Vedanta Deśika are indeed numerous. 
 The influence of the Agamaprāmāṇya upon later writers may also be gauged om the fact that there appeared two separate treatises on the problem of the validity of the Pañcarātra texts, called the Pañcarātrakaṇṭakoddhāra and the Tantrašuddha by Vādhūla Varadācārya and Bhaṭṭāraka Vedottama respectively. Vadhola Varada appears to be a disciple of Mahācārya or Doḍdayācārya) of Toth cent, A.D., the famous author of the commentary Candumāruta on the tatadigan of Vedanta Deśika. 
@@ -390,7 +390,7 @@ T
 "ye 'mi kecana matsarāt savayaso durmānasārā narāḥ 
 gambhiram guṇaśālinīmapi giraṁ nindani nindantu te sārāsāravicārakausaladaśāpāre pare 'vasthitāḥ 
 66 
-santaḥ santyanasūyavo 'pi bahavaḥ śamsanti ye madgiram" This reminds one, of Bhavabhūti's famous verseः ye náma kecidiha" etc. See ibid., pp. 170-171- 
+santaḥ santyanasūyavo 'pi bahavaḥ śamsanti ye madgiram" This reminds one, of Bhavabhūti's famous verse- ye náma kecidiha" etc. See ibid., pp. 170-171- 
 "tattatkalpitayuktibhiśśakalaśaḥ kṛtvā tadiyaṁ matam 
 yacchiṣyair udamardi sāttvatamataspardhāvatāmuddhatiḥ yaccetassatataṁ mukundacaraṇadvandvāspadaṁ vartate 
 jiyānnāthamuniḥ svayogamahimapratyakṣatattvatrayaḥ " “ākalpaṁ vilasantu sattvatamatapraspardhiduspaddhați- 
@@ -406,7 +406,7 @@ The Pañcaratrāgamas, like the agamas of any other school, speak of a certain t
 Ocular perception (pratyakṣa), however powerful it might be, has to obey Its own natural laws and so it cannot reveal the desired causal connection that ubsists between the rites and heaven. Here the Mimāṁsaka attacks the theory of Supremacy of some person advanced by others in support of the above moment. According to the Mimãinsaka there does not exist any person posses- ing unlimited power, knowledge, etc., presiding over this entire universe. Even ilha wide perception is accepted, he states that it cannot be proved that that praption alone realised the desired causal connection between Initiation and hewven 
 Inference (anumana) likewise, is stated to be incapable of establishing the desired relationship between the means and the end because, the knowledge of invariable concomittance which is the source of anumana, is absent here. Holly can know the invariable relationship that exists between Initiation and heaven, where heaven happens to lie beyond the scope of human perception. 
 The Mimamsaka then observes that there is no Vedic statement (ágama) alo, in favour of these agamas. Such Vedic text cannot even be inferred. 
-Nor are there any Religious Texts (agamas) which preserve injunctions stating that Initiation is instrumental to heaven. Agamas are of two typesः than connected with human beings as their works and those for which there is n author at all. Of these, the first type of agamas is not authoritative since it In, after all, the composition of human beings, who are subject to passions like love and hatred and are therefore, prone to err. As for the second type, there 
+Nor are there any Religious Texts (agamas) which preserve injunctions stating that Initiation is instrumental to heaven. Agamas are of two types- than connected with human beings as their works and those for which there is n author at all. Of these, the first type of agamas is not authoritative since it In, after all, the composition of human beings, who are subject to passions like love and hatred and are therefore, prone to err. As for the second type, there 
 If Yatindramatadipika, p. 30- 
 'dramadiyyatantrantāntrasiddhāntabhedabhinnasya vedavirodhābhāvāt kārtsnyena prāmāṇyam..........” 
 Sripañcaratragamasya kvacidapt 
@@ -428,7 +428,7 @@ The Mimamsaka then identifies these bhāgavatas with sattvatas on the similarity
 Even on the side of instruction, the dikșā (Initiation) that these agamas join on a man to qualify him to worship the Lord, it is argued, is a clear mark of the non-Vedic character of these texts. Upanayana, the Vedic sacrament, is Hall enough to qualify one to do worship of God and no other special sacra- it is needed for this. But still, these agamas require dikṣa over and above The general upanayana which is enough to indicate their non-Vedic nature. 
 Aum, these agamas do not find a place in the well-recognized traditional fist of the fourteen branches of knowledge (vidyāsthāna), consisting of the four Velas, their six accessories, the Mimāmsā, the Nyāya, the Purāṇa and the Dharma- Anton, accepted as authoritative on matters of dharma by all orthodox people. Miove the Pañcarātra is not included among these sources of knowledge, it must fall outside the pale of the Vedas. 
 The critic however, admits that these agamas enjoin worship of the Lord, which com may mistake for indicating their Vedic nature. These and similar other inst- 
-Momsmrtiः X-23- vaisyattu jāyate vrātyāt sudhanvā" cārya era ca 
+Momsmrti- X-23- vaisyattu jāyate vrātyāt sudhanvā" cārya era ca 
 bhāruṣaśca nijańghaśca maitrassāttvata eva cu ". 
 M Parvaminansa, VI. i. 44-50. 
 20. 
@@ -442,7 +442,7 @@ refuted and sce also ibid. §1. 113 for a general refutation.
 21 
 means a gradual but not simultaneous accumulation of mass and dissolution, likewise, is a gradual reduction of it. 
 Continuing, the Mimāṁsaka says that a Supreme Being need not at all be postulated to account for the entities like the hills, earth and occans, which we oo. We, the human beings (jivus) who are intelligent, could ourselves produce those entities through sacrifices, and as such, no postulation of a divine agent I justified. It may be argued that a Supreme Person is to be assumed Who can perceive the "apūrva" or the unseen result that arises out of the performance of acts (sacrifices) and which the human beings cannot decidedly see. This argument, according to the Mimāmsaka, is only superficial. Human beings are not directly connected with the perception of the apurva, which is only the instrumental cause of things. It is enough if they understand the efficacy of the tites they perform. They get a knowledge of the productive capacity (sukti) of those rites, through a study of the Vedas. This they can do, since they are endowed with intelligence. This is supported by the critic by citing the analogy of a potter who only understands the efficacy of the clay, the rod, etc., but cannot have a direct perception of their productive capacity (śakti). 
-Then the critic attacks the Naiyayika's view that the entities obtained in the world are liable to destruction, on the ground that they consist of parts. All entities like the earth and the Sun, according to the Mimāṁsaka, are eternal. The eternal character of these things is proved by the means of knowledge called Recognition (pratyabhijñā), which is a variety of ocular perception ( pratyakșa ) and hence, is more powerful and valid than inference (anumāna). This recogni- tion is of the typeः "That earth (which people of the past saw) is verily this (which I now see)" and "That Sun is verily this ", etc. People that lived in the past must have had similar recognitions with regard to these and other entities. and people that live in future will also have similar recognitions. There is thus, a continuity of knowledge regarding these things during all periods of time- past, present and future. This, argues the Mimāṁsaka, proves that these entities Arc cternal. 
+Then the critic attacks the Naiyayika's view that the entities obtained in the world are liable to destruction, on the ground that they consist of parts. All entities like the earth and the Sun, according to the Mimāṁsaka, are eternal. The eternal character of these things is proved by the means of knowledge called Recognition (pratyabhijñā), which is a variety of ocular perception ( pratyakșa ) and hence, is more powerful and valid than inference (anumāna). This recogni- tion is of the type- "That earth (which people of the past saw) is verily this (which I now see)" and "That Sun is verily this ", etc. People that lived in the past must have had similar recognitions with regard to these and other entities. and people that live in future will also have similar recognitions. There is thus, a continuity of knowledge regarding these things during all periods of time- past, present and future. This, argues the Mimāṁsaka, proves that these entities Arc cternal. 
 Again, he criticises the Nyaya theory that an Agent for this world can be Inferred, Who is possessed of qualities like Lordship and Omniscience and Wno, at the same time, is devoid of a physical body. Referring to worldly experience, he says that every entity that is produced, points to an agent-a human agent- who is found to be dependent, and to possess limited knowledge, and a physical body. So, the so-called Creator of the world would necessarily have to be admitted to be in possession of a body. If this is admitted, then it would naturally follow that that body is also liable to destruction like any other body, since it is also composed of parts. So, inference of a Supreme Being as Creator of 
 22 
 this universe is quite untenable. The critic further argues that the knowledge of invariable concomittance, (vyapti) which is the very life of anumana (inference), should not stop merely at pointing to an intelligent agent. All the particularities associated with the agent, like his possession of a physical body, limited knowl- edge, etc., which are understood along with the invariable concomittance, should also be taken into account, without any exception. 
@@ -457,7 +457,7 @@ He then draws a distinction between the Vedas and the agamas. The chief characte
 He then turns his attention to the contention of the Pañcaratrins that the author of their agamas is the Omniscient Lord and that His Omniscience is not due to any of the well-known means of knowledge but that it is quite natural with Him. The critic points out that it is quite unreasonable to say that a person could get knowledge even without a proper study of the Vedas and such other texts. Further, there is no Vedic statement to the effect that the Supreme Being became Omniscient even without the well-known means of knowledge. Even if such a text is somehow, traced,2 the Mimāṁsaka suggests that it should only 
 I Vide Karmamimāmsā, p. 64- "Though the existence of a creator is denied, the Mimarhså accepts without reserve, the doctrine of the existence of the self or soul and Sabarasvamin claborates the case for its existence; Prabhakara and Kumārila both develop the theme in close accordance with this view. The necessity of the existence of the self for the MImårhsā rests on its fundamental assumption that the sacrifices are performed to secure, in many cases, a reward not in this life. There must, therefore, be an eternal entity, distinct from the body, the sense-organs, and cognitions, which is both the doer of actions and the reaper of their reward." 
 46 
-The Bhatta has in his mind, the textः na tasya kāryaṁ karaṇaṁ ca vidyate, svābhāviki Iṇānabalakriyā ca " ( S'vetāśvataraः III. 6), which states clearly that the Lord's Knowledge, Power, etc. are natural with Him but not due to any means. 
+The Bhatta has in his mind, the text- na tasya kāryaṁ karaṇaṁ ca vidyate, svābhāviki Iṇānabalakriyā ca " ( S'vetāśvatara- III. 6), which states clearly that the Lord's Knowledge, Power, etc. are natural with Him but not due to any means. 
 24 
 4 
 be explained as an arthavada-an explanatory passage. To be clear, since the Lord is, in many cases, known to possess knowledge, etc. invariably, He is figuratively said to possess knowledge etc. naturally. This is the way of explain- ing such texts as eulogistic passages. Thus the significance of such texts is always to be understood as secondary but not primary. He further points out that even if such a Person with natural knowledge etc. is admitted to exist, there could be nothing to the credit or advantage of the Pancaratra texts as such. 
@@ -467,7 +467,7 @@ be so.
 1. Vide the following extracts from the Karmamimāṁsā - 
 "The Mimāṁsā, in both schools, is confident that there is no question of rewards coming from the deity to whom the offerings are made; no deity is either eternal or omnipresent and there could be no assurance of it ever receiving the numerous offerings made by diverse votaries, apart from the difficulty of the deity conferring rewards." (p. 74) "Despite its emphatic denial of the existence of a Supreme Lord, the Sarvasiddhāntasangraha (VIII. 40, 41) treats the end of man as to be obtained by meditation upon, and worship of, the Supreme Spirit which is manifested in each man, and authors such as Apadeva and Laugākṣibhāskara, declare that if the sacrifice is performed in honour of Govinda or the Creator Isvara, it leads to the highest good, basing this assertion on the authority of the Bhagavadgitā." 
 "It can hardly be assumed that these deities were not believed to be real by the founders of the Mimāṁså. And there is nothing to show that Jaimini did not accept their existence. But the later doctrine, as evinced in such works as Devatāsvarupavicāra of Apadeva, does not accept the validity of the descriptions of the deities given in the Purāņas as showing the existence of such beings; these passages rank as mere Arthavada; the deity is merely that to which offering is made, and has no existence beyond the Mantras addressed to it." (p. 78) 
-2. Cf. p. 159 of the Textः "na hi kācit jātyā devatā nāmāsti; yaiva hi haviḥpratiyogitayā 
+2. Cf. p. 159 of the Text- "na hi kācit jātyā devatā nāmāsti; yaiva hi haviḥpratiyogitayā 
 pramāṇabhūtāt subdddavagamyate, så tatru devateti hi vassiddhāntaḥ." 
 25 
 Assuming the form of Māyāmohana' and others. It is therefore proper to suppose that Pañcaratra which is professedly his own teaching, was deliberately propound- ed by him to delude the people. It is in consonance with this that we find the orthodox Vedic followers not observing the rites ordained by these particular Agamas. 
@@ -479,7 +479,7 @@ THE NAIYAYIKA'S ARGUMENTS
 The Naiyayika and his stand regarding the position of the Pañcarātra are introduced by Yamuna next. It has already been mentioned above (p. 5), that Yamuna has much in common with the Naiyāyika regarding the existence of an Isvara, the creation etc. of the world by Him, His authorship regarding the Pancarātrāgamas, etc. and that our author differs from him regarding the authorship of the Vedas. 
 It has been argued by the Mimāṁsaka that the Pancardtra texts cannot be compared with Manusmrti and such other works. The Naiyayika points out that it is Mansumpti that cannot stand comparison with these agamas and not the other way. These agama-texts belong to the same class to which the Vedas belong. They both are derived from one and the same source, namely the "anubhava" (Experience) of the Lord. So, there is no question of these texts themselves being based on the Vedic texts for their authority. Just as two different smṛti-passages ordaining the aṣtaka and acamana rites for instance, cannot be said to be mutually dependent, so are these agamas and the Vedas. Whatever reason one might advance in support of the contention that Vedas are the only authority on matters of Dharma, can equally be applied to the ǎgamás 
 too. 
-1. Cf. the verse "māyāmohanavigraheņa hariņā..” on p. 52 of the Text. See Visnupurānaः 
+1. Cf. the verse "māyāmohanavigraheņa hariņā..” on p. 52 of the Text. See Visnupurāna- 
 III chs. 17 and 18 for this account.26 
 Vedas, according to the Naiyayika, are composed by Iśvara, the Lord. These Vedas consist of sentences (vākyas), which unmistakably point to the authorship of some person, who possesses a direct knowledge of Dharma and Adharma, instrumental to the world-creation. It cannot be stated that even while being in the form of sentences, the Vedas need not necessarily be composed by anybody. This extreme view might even lead one to conclude that smoke can come out even without fire, which however is absurd. 
 It is the Lord alone that could directly perceive Dharma and Adharma, which form the instrumental cause of this world. He composed the Vedas, purely as a matter of mercy towards the individual selves so that they may be of great help to those beings in achieving the objects they desire. It cannot be argued that no perception can visualize Dharma and Adharma. The position is, that unless a person of excelling power is accepted, we cannot account for the entities found in this universe. A direct knowledge of the instrumental and material causes is the chief criterion of one's becoming the agent or author of a particular thing. Dharma and Adharma, whose instrumentality to this world is accepted even by the Mimamsaka, should necessarily be accepted as perceived by the Lord, Who could also compose the Vedas. 
@@ -505,7 +505,7 @@ The connotation of words, in general, is to be arrived at solely by tracing thei
 29 
 Thus, by noticing different actions following different utterances (vyavahāra), the young boy understands what the words "cow" and "horse" actually stand for. In all these cases, the denotation of different words, contends the Prabhakara, In invariably arrived at by connecting those words with the main theme, viz., the karya,' the activity of bringing, tying, etc. in the above instances. 
 Another point to be noted is that the lin-the optative and other suflixes In an injunction directly denote the karya, whereas suffixes other than these denote other things connected with it, like the qualified aspirant and the fruit, In a supplementary sense. 
-It might be urged that even sentences which refer to matters of past (bhūta- vastu) like the birth of a son become authoritative in their own right, without any reference to the so-called karya. Thus for instance, when a messenger tells u manः "a son is born to you", a bystander who does not know what actually the message is, notices that the listener feels glad after hearing the above words. Further, the bystander, through indications like blooming of the face and horripilation exhibited by the listener, infers that the words uttered by the messenger should have conveyed to him the happy tidings of the birth of a son. This argument is unsound, says the Prabhakara, because gestures like blooming of the face and horripilation, though indicative of the pleasure of a man, need not necessarily arise from the knowledge of the birth of a son. Reasons for 
+It might be urged that even sentences which refer to matters of past (bhūta- vastu) like the birth of a son become authoritative in their own right, without any reference to the so-called karya. Thus for instance, when a messenger tells u man- "a son is born to you", a bystander who does not know what actually the message is, notices that the listener feels glad after hearing the above words. Further, the bystander, through indications like blooming of the face and horripilation exhibited by the listener, infers that the words uttered by the messenger should have conveyed to him the happy tidings of the birth of a son. This argument is unsound, says the Prabhakara, because gestures like blooming of the face and horripilation, though indicative of the pleasure of a man, need not necessarily arise from the knowledge of the birth of a son. Reasons for 
 1. Vide Karmamīmāṁsā, pp. 39-40- 
 64 
 "The essential character of the word is, in the view of Jaimini, not mere denotation, but injunction, a view which clearly stands in close relation to the doctrine that the meaning of words is largely learned by the young from the observation of intercourse among the old; one addresses the other and the other acts as a result; one says "gām ānaya", the other brings the cow. Hence, as against the Vedanta, it is denied that the essence of Vedic texts lies in the making manifest of the sole existent Brahman, and asserted that, even when this seems to be the case, the real import of the text is an injunction to meditate on the Brahman. From this view Prabhakara proceeds to develop a conclusion, which is in harmony with the view of Śabarasvamin, that words themselves have no meaning, and obtain it only in sentences possessing injunctive clauses; “gām" by itself, is nothing, but attains meuning when enjoined with anaya", the whole then signifying generically the genus cow' as connected with bringing'. This view in this school (of Prabhakara) obtains the name of the theory of signification in syntactical combination' (anvitābhidhāna), in opposi- tion to the view of Kumarila, who admits that words possess a meaning independently of combination in injunctive sentence, and whose theory accepts, therefore, the combina- tion of significant terms' (abhihitānvaya). The two schools, however, are at one in hold- ing that the signification of words is a class-signification, as the theory of eternity of words domands. The modern Nyaya, on the other hand, insists that the import of words is always the concrete individual, while the older Nyaya adopts the doctrine that the word expresses the class (jāti), individual (vyakti) und characteristic mark of the class (akrti), all at once." 
@@ -523,28 +523,28 @@ In the light of this discussion, the Prabhakara declares that the Upanisadic sta
 1. Cf. Karmamimāṁsā, pp. 41-42- 
 "Prabhakara holds that the only authoritative testimony to things beyond the reach of the senses and other means of proof, is the scripture (šāstra). Other words deal only with matters cognised by perception, inference, etc. and have no inherent cogency. If they give us true information, it is merely because we believe the speaker to be trustworthy. Thus, like the Vaiśeṣika school, Prabhakara holds all cognition of this kind to be based on infer- ence, the argument being "this man says something; he must know what he is talking about; what he says, therefore, must be true.".... Thus the sole possibility of the validity of verbal testimony lies in the Veda, which has no author, and therefore, is not vitiated by doubts as to trustworthiness and ability of correct expression.." 
 2. Cf. Prabhakara School of Pūrvāmimāṁsā, pp. 85-86- 
-The Prabhakara, like the Bhatta, denies a creator for the universe, who can also know everythingः "If it were true that certain factors of the universe are brought into existence by an ultra-mundane Supervisor of Dharma-Adharma, this could not be true for the entire universe, as a whole. For instance, the bodies of all men and animals are found to be produced by the functioning of the parents, and not by a Supervening agency; and this fact will enable us to infer the same with regard to the bodies of all animals, past and future also." The claim of the logicians that our Dharma and Adharma must have a Supervisor, with more intelligence than us, is also weak. "Dharma-Adharma of the body....must always belong to the same intelligent being to whom the body belongs. ....Hence the ultra-mundane God' can have no knowledge of Dharma and Adharma of the beings ....and without such knowledge, he could not exercise any intelligent control over them; God could not perceive Dharma by His sens s..nor by his mind as the mind..cannot per- ceive Dharma of beings which is outside God's body." 
+The Prabhakara, like the Bhatta, denies a creator for the universe, who can also know everything- "If it were true that certain factors of the universe are brought into existence by an ultra-mundane Supervisor of Dharma-Adharma, this could not be true for the entire universe, as a whole. For instance, the bodies of all men and animals are found to be produced by the functioning of the parents, and not by a Supervening agency; and this fact will enable us to infer the same with regard to the bodies of all animals, past and future also." The claim of the logicians that our Dharma and Adharma must have a Supervisor, with more intelligence than us, is also weak. "Dharma-Adharma of the body....must always belong to the same intelligent being to whom the body belongs. ....Hence the ultra-mundane God' can have no knowledge of Dharma and Adharma of the beings ....and without such knowledge, he could not exercise any intelligent control over them; God could not perceive Dharma by His sens s..nor by his mind as the mind..cannot per- ceive Dharma of beings which is outside God's body." 
 32 
 The Prabhakara thus asserts that there is no sentence in the Veda that refers to a past event primarily, and that everything should be connected with the kāryu so as to gain validity. 
 The Advaltin's Criticism 
 The Advaitin is also introduced by Yamuna as a critic of the Pañcaratra. According to him, Badarāyaṇa himself had refuted the validity of these agamas in his Brahmasutra, devoting a separate section for this purpose, .called the utpattyasambhava or the Pañcarātra-adhikaraṇa comprising four aphorisms.1 This refutation takes place soon after the other schools of thought like the Nyaya and Vaiseṣika are refuted as non-Vedic. So, the Advaitin argues that the con- text in which this adhikarana takes place, is also in full support of his contention. 
-Another important factor that exhibits the non-Vedic nature of these samhitas is that they speak of the origination of jiva, manas, etc. which is fundamentally against the sanction of all the Vedic and smṛti-declarations. The jiva is inborn and mind and other senses originate from the Supreme Being. The Pañcaratru- text which speaks of the birth of the self isः "Lord Vasudeva is the Highest source and from Him is born the self called Sankarṣaṇa; from Sankarṣaṇa is born the mind called Pradyumna and thence is born the ahankara called Aniruddha "2 The Vedic and smṛti-passages state that the self only comes into contact with the five subtle elements (tanmātrā) for purpose of manifestation. This view is emphasized by the Advaitin through logical arguments and quotations from scriptural texts. 
+Another important factor that exhibits the non-Vedic nature of these samhitas is that they speak of the origination of jiva, manas, etc. which is fundamentally against the sanction of all the Vedic and smṛti-declarations. The jiva is inborn and mind and other senses originate from the Supreme Being. The Pañcaratru- text which speaks of the birth of the self is- "Lord Vasudeva is the Highest source and from Him is born the self called Sankarṣaṇa; from Sankarṣaṇa is born the mind called Pradyumna and thence is born the ahankara called Aniruddha "2 The Vedic and smṛti-passages state that the self only comes into contact with the five subtle elements (tanmātrā) for purpose of manifestation. This view is emphasized by the Advaitin through logical arguments and quotations from scriptural texts. 
 The Advaitin further finds fault with the vyuha-theory advanced by the Pañcarātrins. According to him, Vasudeva, Sankarṣaṇa and other forms should either be one in essence with the Supreme Brahman, or different. If these forms are held to possess equal status and differ from each other, there is no purpose served by such an assumption, says the Advaitin, because cosmic activities can be performed by a single form of the Lord. This assumption undermines the posi- tion taken by the Pañcaratrins that Vasudeva alone is the Highest Reality. Even if it is argued that all these forms are equal in status and that they pertain to only one Supreme Person, the difficulty regarding the birth of the self cannot be got over. Sankarṣaṇa cannot originate from Vasudeva. Pradyumna likewise cannot arise from Sankarṣaṇa and so forth, because some distinction is necessary between a cause and an effect, as in the case of clay and pot. The Pañcarātrins do not admit of any difference between one form of the Lord and another re- 
 1. Cf. Sankara's commentary on II. ii. 42-45. 
 2. See Sankara on 11. ii. 42. 
 33 
 purding jAdna, aiŝvarya etc. There is thus no justification in the vyuha-theory propounded by these agamas, says the Advaitin.' 
 The Advaitin continues that there is a lot of contradiction in what the PdЯ- cardira-dgamas teach; they do not show any distinction between qualities (gunas) and the self which possesses those qualities. They thus say that jñānu, aiśvarya 
-fure qualities and that these qualities themselves become different forms of VANudeva. Another clear indication of the non-Vedic character of these agamus In that they undermine the validity of the Vedas themselves. The Advaitin takes up the statement found in one of these textsः Saṇḍilya took to a study of these Agamas, being unable to get the highest good (human end) in all the four Veads." This, he says, discloses the nature of these texts since it underestimates the instru- mentality of the Vedas themselves regarding salvation.2 
+fure qualities and that these qualities themselves become different forms of VANudeva. Another clear indication of the non-Vedic character of these agamus In that they undermine the validity of the Vedas themselves. The Advaitin takes up the statement found in one of these texts- Saṇḍilya took to a study of these Agamas, being unable to get the highest good (human end) in all the four Veads." This, he says, discloses the nature of these texts since it underestimates the instru- mentality of the Vedas themselves regarding salvation.2 
 THE SIDDHANTA 
-In reply to all his critics, Yamuna at the very outset, makes the following inferential statementः "The Pañcaratra Tantra is authoritative like the Vedic sentences ordaining jyotistoma, etc., on the ground that it is based upon knowledge which is free from all defects". He, with all his logical skill, proves that no error can be pointed out in the above statement either with regard to the Subject (paksa) or the Probans (hetu), through any means of knowledge, perception, inference or verbal testimony. He, in great detail, examines the possibility of any fallacy being pointed out, and concludes that this inferential statement is perfect In all respects. It had earlier been contended by the opponents that the validity of the Pancaratra scriptures cannot be accepted on the ground that they were composed by Vasudeva, a deceitful person. Defending the cause of the Pdñcardira texts against the onslaught of the Mimāṁsaka, Yamuna questions him as to how he would ward off invalidity for the Vedas on the ground that they too consist of sentences like the works of human authorship. The Mimaṁsaka would reply that Vedas are impersonal in character (apauruṣeya) and that their validity is therefore unquestionable. In the same vein, Yamuna declares that the l'ancaratra-agamas are the direct utterances of the Omniscient and Merciful Vasudeva, the Lord of the Universe and that for that very reason, their validity becomes unquestionable. 
+In reply to all his critics, Yamuna at the very outset, makes the following inferential statement- "The Pañcaratra Tantra is authoritative like the Vedic sentences ordaining jyotistoma, etc., on the ground that it is based upon knowledge which is free from all defects". He, with all his logical skill, proves that no error can be pointed out in the above statement either with regard to the Subject (paksa) or the Probans (hetu), through any means of knowledge, perception, inference or verbal testimony. He, in great detail, examines the possibility of any fallacy being pointed out, and concludes that this inferential statement is perfect In all respects. It had earlier been contended by the opponents that the validity of the Pancaratra scriptures cannot be accepted on the ground that they were composed by Vasudeva, a deceitful person. Defending the cause of the Pdñcardira texts against the onslaught of the Mimāṁsaka, Yamuna questions him as to how he would ward off invalidity for the Vedas on the ground that they too consist of sentences like the works of human authorship. The Mimaṁsaka would reply that Vedas are impersonal in character (apauruṣeya) and that their validity is therefore unquestionable. In the same vein, Yamuna declares that the l'ancaratra-agamas are the direct utterances of the Omniscient and Merciful Vasudeva, the Lord of the Universe and that for that very reason, their validity becomes unquestionable. 
 Clarifying his point, Yamuna states that validity of words is intrinsic (svataḥ pramanya). Their validity gets impaired only when the people that utter them 
 1. Vide Sankara on II. il. 44. 
 2. C. Sankara on II. ii. 45. 
 It may be noted that for the Sankhyas, validity and invalidity are both intrinsic; for the Naiyayikas, they are extrinsic; for the Buddhists, invalidity is intrinsic and validity extrinsic und for the Vedantins, validity is intrinsic and invalidity extrinsic. 
 34 
 have defects like deceit and ignorance. Until it is proved beyond doubt that the man who uttered certain words is not dependable regarding the genuineness of the words uttered by him, no person is justified in doubting their validity. Since the author of the Pañcardtra-agamas is one that is glorified in the Upanisads as Omniscient and Merciful, there is no room for any conjecture that He had evil designs in His mind in composing these agamas. 
-The crux of the problem to which the argument then turns is, whether sentences speaking of an already existent entity (bhūta or siddhavastu) are authoritative or not. The Mimāmsakas, as we have already seen. do not admit of any primary validity for such statements. According to them, all statements should be connected with "something to be done" (karya), if their validity is to be admitted. Accordingly, the statement "you have got a son" (putraste lataḥ) is explained by them as not primarily valid, on the ground that gestures of happiness which the listener of the above statement is said to exhibit, need not necessarily make a third man infer that they proceed from the happy tidings of a child-birth. Reasons for happiness might be many, past present and future, and as such, the exact cause for the happiness of the man to whom the above sentence is addressed, cannot be specified. This contention of the Mimāmsakas is turned down by the author as preposterous. A third man, who listens to the above sentence addressed to another man, is still able to conclude through the signs of happiness exhibited by him, that he heard the happy news of a child's birth. The way in which he arrives at such a conclusion is thisः He sees the man, soon after listening to the news, making arrangements for the jātakarmansacra- ment for the new-born babe. The third man, who himself had had the occasion to perform such a sacrament when a son was born to his own self, quickly comes to the conclusion that the news heard by the man in question, must only be re- garding the birth of a child. Since the activity regarding the jātakarman per- formance is noticed in the man only after his listening to the sentence but not before, it is proper to think that it must have been due only to the news of a child's birth. It may be contended that the news of a child-birth and the per- formance of jātakarman need not have a cause and effect relation on the ground that even those who cannot afford to perform it, are seen to do it, even through displeasure. But this argument cannot stand to reason, says Yamuna. Even as listening to the statements "gām ānaya" is taken by the Mimāṁsakas as the cause of the activity of bringing a cow, on the ground that the activity of bringing is found to take place only when the statement had been made, so also, it is proper to admit that the activity of jātakarman-performance must have proceeded from listening to the news of the birth of a child. 
+The crux of the problem to which the argument then turns is, whether sentences speaking of an already existent entity (bhūta or siddhavastu) are authoritative or not. The Mimāmsakas, as we have already seen. do not admit of any primary validity for such statements. According to them, all statements should be connected with "something to be done" (karya), if their validity is to be admitted. Accordingly, the statement "you have got a son" (putraste lataḥ) is explained by them as not primarily valid, on the ground that gestures of happiness which the listener of the above statement is said to exhibit, need not necessarily make a third man infer that they proceed from the happy tidings of a child-birth. Reasons for happiness might be many, past present and future, and as such, the exact cause for the happiness of the man to whom the above sentence is addressed, cannot be specified. This contention of the Mimāmsakas is turned down by the author as preposterous. A third man, who listens to the above sentence addressed to another man, is still able to conclude through the signs of happiness exhibited by him, that he heard the happy news of a child's birth. The way in which he arrives at such a conclusion is this- He sees the man, soon after listening to the news, making arrangements for the jātakarmansacra- ment for the new-born babe. The third man, who himself had had the occasion to perform such a sacrament when a son was born to his own self, quickly comes to the conclusion that the news heard by the man in question, must only be re- garding the birth of a child. Since the activity regarding the jātakarman per- formance is noticed in the man only after his listening to the sentence but not before, it is proper to think that it must have been due only to the news of a child's birth. It may be contended that the news of a child-birth and the per- formance of jātakarman need not have a cause and effect relation on the ground that even those who cannot afford to perform it, are seen to do it, even through displeasure. But this argument cannot stand to reason, says Yamuna. Even as listening to the statements "gām ānaya" is taken by the Mimāṁsakas as the cause of the activity of bringing a cow, on the ground that the activity of bringing is found to take place only when the statement had been made, so also, it is proper to admit that the activity of jātakarman-performance must have proceeded from listening to the news of the birth of a child. 
 Yamuna states that there is no justification whatsoever in the Prabhakara's contention that all words have their sole purport in a kārya. In statements like gām naya and aśvaṁ anaya, the terms gauḥ (cow) and aśvaḥ (horse) should 
 35 
 be explained in their own individual capacity, without connecting them with the so-called karya, points out the author. He says that it is possible to interpret forms in conjunction with factors other than the karya also. Pointing out that the Prabhakara's dictum that all connotations of words should be arrived at only In relation to a karya is based upon a wrong conception of the connotation of words, Yamuna says that this definition cannot be applied to the suffix lin. To aplain, the optative suffix lin conveys the karya proper in a sentence. As such, how can it be said to convey its sense in relation to a karya, while it itself indicates the karya?' asks Yamuna. So, the proper way of arriving at the significance of words should be untainted by any preconceived notions either in favour of a karya or a siddha-vastu. One has to admit that a word conveys its sense in relation to such other thing that is required to complete the sense ( ākāňkṣita ) that goes with it (yogya) and which is supplied by a word uttered along with It (dsanna). So, there should be no special attachment to a kārya or a siddha- vastu. Karya should only be taken as a subsidiary but not the sole cause in arriving at the connotation of words. When its function is over, it is no longer helpful. 
@@ -557,7 +557,7 @@ ential.
 Yamuna also refers in this connection to the theory of niyoga advanced by the Prabhakara. According to the latter, apurva is indicated by the optative suffix lin in an injunction. He further says that in the injunctive sentence "one desirous of heaven should perform the jyotisfoma sacrifice", the performer (niyoiyu) is qualified by the heaven. Refuting this argument, Yamuna says that heaven is something that is going to be attained in future, but not an al- ready existent entity. So, it cannot become an attribute of the agent. On the other hand, the desire (kāmanā) regarding heaven, which exists at the time of activity could alone be taken as the attribute of the person concerned. All injunc- tions should be understood as referring to the thing to be established (sādhya), the means thereof (sādhana ), and the cause-effect relationship subsisting between them (sambandha). It is not always true that a niyoga is ever associated with the realization of certain fruits like heaven. In injunctions ordaining obligatory rites for instance, niyoga has no connection with the realization of a corresponding result. So, the proper way of understanding an injunctive sentence is that the optative and other affixes first make an agent understand that the performance of a particular rite leads to a particular result. Then the agent, motivated by desire regarding the result, exerts. There is nothing contradictory in admitting that words even in ordinary parlance referring to existent factors (siddha-vastu), become valid in their own right. 
 Yamuna points out that Upanisads, which speak of the Supreme Being, should also be treated as authoritative since they give us a correct knowledge regarding the Lord, a knowledge that is pure from all defects. 
 As regards the contention of the Mimamsakas that Upanisadic texts are not primarily valid on the ground that they speak of a siddha-vastu, the Brahman, the author argues in favour of the validity of the siddhapara-statements, like the Naiyayika. Defects of repetition (anuvada) and contradiction to facts (viparyaya), which the Mimāmsaka points out in the case of statements speaking of existent factors, can also be pointed out in the case of statements referring to a karya, says Yamuna. It is asserted that all pieces of knowledge are valid in their own right, provided they are free from defects like doubt and falsehood, and also that no distinction should be made in terms of something to be done (kārya) and something already existing (siddha). 
-Yamuna criticises the Bhatta view that Omniscience is beyond all possibi- lity. The author states that the above view is directly opposed to the Vedic passages which speak of the Lord's Omniscience as quite natural with Himः "He sees 
+Yamuna criticises the Bhatta view that Omniscience is beyond all possibi- lity. The author states that the above view is directly opposed to the Vedic passages which speak of the Lord's Omniscience as quite natural with Him- "He sees 
 37 
 even without eyes", "The Knowledge of the Lord is natural "2 and so on. These statements should not be taken in a secondary sense as urged by the op ponent, because there is nothing contradictory to their primary significance. 
 It is argued that the existence of the Supreme Being is asserted by various Upanisads, which also attribute Omniscience, Mercy, etc., to Him. When once the Lord is thus proved to exist, it follows that the Pancardtra scriptures which depend upon Him for their origination, become undoubtedly valid. 
@@ -580,7 +580,7 @@ The next discussion is regarding the alleged condemnation of these agamas by Bad
 different from Vyasa the author of the Mahabharata. According to him, both are identical. Thus he states that it is not possible to image Badarāyaṇa refuting the Bhagavata religion in his Brahmasutra, which he himself commends in glowing terms in his Mahabharata, as the very essence of the four Vedas and 
 on. Yamuna quotes many passages from the Mahabharata in support of his view. 
 The four aphorisms comprising the utpattyasambhava or the pañcardira section of the Brahmasutra (II-ii-39-42) are explained after a refutation of the explanation offered by the Advaitins. The Advaitins hold that all the four aphorisms refute the Pañcaratrāgamas as non-Vedic. They take a passage " from Vasudeva is born the Individual Self called Sankarṣaṇa; from Sankarṣaṇa In born the mind called Pradyumna", etc. and point out that this is a clear mark of the non-Vedic character of these agamas, since the self is said to be born, which, on the other hand, is birthless. Against this and such other claims, Yamuna states that there is nothing in these agamas that contradicts the Vedic conceptions. He takes the first two aphorisms as giving the purvapaksa-view and the next two as declaring the siddhanta, the heart of the Sūtrakāra. The passage quoted above by the Advaitins does not state that a jiva is liable to birth or that an instrument (mind) is born out of an agent (kurtā). Terms like jiva and manas point to the Superintending Deities over those entities, having a particular form. Nowhere do the Pañcaratragamas speak that jiva and manus are born. Mind and such other factors are born out of the Brahman Himself According to the Upanisads and the Pañcaratra texts themselves clearly accept this view. So, one has to take the Pañcaratra to be as valid as the Upanisads themselves. The passage in question does not, as contended by the adversary, state that there are many Lords, each independent of the other, since the Pancarātrins declare on the other hand that there is no plurality of Lords and that Lord Vasudeva is the Only Source of the entire world-manifestation.2 The 
-I. Whether Badarāyaṇa, the author of the Brahmasutra is the same as Vyasa, the author of the Mahabharata, is a matter of controversy. See in this connection, an article entitled "Is Vyasa the same as Bādarāyaṇa", by Śri P. V. Subrahmanya Sastrin, which appeared in Vol. VII of the Journal of Sri Venkatesvara Oriental Research Institute, 1946., pp. 176-179. Though it is Vasudeva that manifests Himself as Sankarṣaṇa, Pradyumna and Aniruddha, there is nothing to indicate that He is equal with the other three. He is considered to be the Highest and the most important of all these forms. The statement of the Ahirbudhnya Samhita, Ch. 36, śl. 65bः guṇapradhanabhāvastu rāmāderiva yujyate" deserves to be noted. Vasudeva is the main form, to which the rest are subordinate and complementary. Cf. Ahirbudhnya Samhita, Ch. 53- 
+I. Whether Badarāyaṇa, the author of the Brahmasutra is the same as Vyasa, the author of the Mahabharata, is a matter of controversy. See in this connection, an article entitled "Is Vyasa the same as Bādarāyaṇa", by Śri P. V. Subrahmanya Sastrin, which appeared in Vol. VII of the Journal of Sri Venkatesvara Oriental Research Institute, 1946., pp. 176-179. Though it is Vasudeva that manifests Himself as Sankarṣaṇa, Pradyumna and Aniruddha, there is nothing to indicate that He is equal with the other three. He is considered to be the Highest and the most important of all these forms. The statement of the Ahirbudhnya Samhita, Ch. 36, śl. 65b- guṇapradhanabhāvastu rāmāderiva yujyate" deserves to be noted. Vasudeva is the main form, to which the rest are subordinate and complementary. Cf. Ahirbudhnya Samhita, Ch. 53- 
 46 
 66 
 vyuhatrayasya bhavati kālena kalanaṁ sadā bhagavan vasudevastu na vyuho napi kālavån 
@@ -607,7 +607,7 @@ budhnya Samhita, Ch. 36. śls. 64-65-
 41 
 doctrine of the origination of the individual self, because there is the Vedic contradiction in attaching primary significance to it. So, there is no question of the agama statements being due to delusion (na tu bhrāntam). 
 These agamas were composed by Vasudeva, the Divine Being and His Omniscience is attested by the Vedas themselves. The promulgators of other chools of thought like Kapila (of Sankhya) and Patanjali (of Yoga) on the other hand, were human beings and hence were susceptible to err. So, there cannot be any comparison between the Poñcarātrāgamas and the texts of other schools of thought. It is no doubt stated in some Purāņas that Lord Vasudeva appeared as the Buddha and deluded the people through non-Vedic preachings. But there is no proof as such, of any Puranic text saying that the Pañcaratra too was intended by the Lord to delude the world (vyamohārtham)". 
-The relevant portion of Amalānanda's commentary is worth quoting in fullः1 
+The relevant portion of Amalānanda's commentary is worth quoting in full-1 
 66 
 pañcarātrakartur vasudevasya vedādeva sarvajñatvāvagamāt kapila-pat- añjalyādināṁ ca jīvatvāt, pañcarātrasya purāṇeṣu buddhādideśanavat vyāmohar- tham iśvarapraṇītatvāśravaṇāt, na yogadyadhikaraṇagatārthatā.... 
 siddhantastu 
@@ -625,7 +625,7 @@ Regarding the contention that the Pañcaratra is invalid on the ground that peop
 As regards the argument that Pañcarātra is invalid since it is followed by the Bhagavatas who do not belong to any one of the three higher castes, Yamuna replies that the Bhagavatas are orthodox Brahamaņas that follow the Ekayana branch of the Sukla Yajurveda. They too maintain the brahmanical marks like 
 43 
 knots of hair and remember their gotra. The brahmanical status of a man, however, is known by ocular perception (pratyakṣa) coupled with the recollec- tion of the particular family to which he belongs. Since such a practice of remembering the gotra exists among the bhagavatas, the fact that they are brahmans is to be accepted without any doubt. 
-Yamuna then examines the smṛti-statement that the bhagavatas belong to the vaisya-vratya community', which is decidely non-Vedic. It has been urged by the opponent that the bhagavatas were referred to by the term sattvata in the smrtis. In reply, Yamuna points out that the terms bhāgavata and sāttrata appearing in the smṛtis need not necessarily be taken as pointing to those belonging to the particular vaisya-vratya community because these two terms can as well be taken as referring to people other than those belonging to the above community, bearing the same name. As a matter of fact, the bhāgavatas have nothing to do with the vaisya-vratya community referred to in the smrti-texts. If these two terms bhāgavata and sāttvata are taken as referring only to a low community, Yamuna argues that even the term ācārya mentioned along with the term sattvata in the Manusmṛti-passageः vaiśyāttu jāyate vrātyāt sudhanva "cārya eva ca" (X, 23), will have to be taken as referring only to the low-born man and not to the learned Brāhmaṇa teacher. But we know that the term acarya refers to the teacher in its conventional sense and that it could be a name of some low-born people also. 
+Yamuna then examines the smṛti-statement that the bhagavatas belong to the vaisya-vratya community', which is decidely non-Vedic. It has been urged by the opponent that the bhagavatas were referred to by the term sattvata in the smrtis. In reply, Yamuna points out that the terms bhāgavata and sāttrata appearing in the smṛtis need not necessarily be taken as pointing to those belonging to the particular vaisya-vratya community because these two terms can as well be taken as referring to people other than those belonging to the above community, bearing the same name. As a matter of fact, the bhāgavatas have nothing to do with the vaisya-vratya community referred to in the smrti-texts. If these two terms bhāgavata and sāttvata are taken as referring only to a low community, Yamuna argues that even the term ācārya mentioned along with the term sattvata in the Manusmṛti-passage- vaiśyāttu jāyate vrātyāt sudhanva "cārya eva ca" (X, 23), will have to be taken as referring only to the low-born man and not to the learned Brāhmaṇa teacher. But we know that the term acarya refers to the teacher in its conventional sense and that it could be a name of some low-born people also. 
 As regards the contention that the terms bhagavata and sattvata should be taken in their conventional sense alone, meaning the low-caste people, the author says this contention is baseless. When a term is capable of yielding a meaning by etymology itself, there is no justification in pressing the conventional sense into service. Even the instance of the rathakāra-nyāya applies only to cases other than the present one. Thus etymologically, these two terms bhāgavata and sattavata, which are formed by the addition of the suffix "an" to the bases sattvat and bhagavat, refer to the devotees of the Lord conveyed by those bases, and this explanation is to be accepted as genuine. 
 Therefore, the contention of the opponents that these Bhagavatas are identical with vratyas2 on account of similarity of vocation, stands refuted. Vratyas who look after the temples and the bhagavatas who perform the five-fold 
 1. Vide Manusmrti X. 23- 
@@ -638,15 +638,15 @@ activities like abhigamana, upddāna, ijyd, svādhyāya and yoga that are ordain
 The next contention is that bhāgavatas are not at all orthodox Brāhmaṇas, since they worship the Lord for their livelihood and also take in the food offered to Him, which acts are strictly prohibited by the orthodox. The reply is that all bhāgavatas are not found engaged in worshipping the Lord for livelihood. It is true that some bhāgavatas under acute financial circumstances, perform the worship of Lord Viṣņu in temples for their maintenance (svārtha). But this does not affect the brahmanical character of the bhagavatas in general, who are great devotees. Worshipping is prohibited only when it is done by greedy worshippers purely as a trade, but not otherwise. 
 explained by Sankarācārya in his Bhāṣya as "prathamajatvāt anyasya saṁskarturabhāvāt asaṁskrtaḥ vratyaḥ; tvaṁ svabhāvata eva śuddha ityabhiprāyaḥ .The Vrātyas seem to have attached greater importance to a life of austerity and meditation upon God, than to the performance of sacrificial rites and the like. 
 It is stated in the Atharvaveda (XV-11) that anyone who "entertains a vratya will gain the road that gods travel", "will gain possession of waters", "will obtain what is dear", etc. The Veda similarly mentions further other benefits bestowed upon those that honoured the vratyas. The word 'vratya' may or may not be understood as a form of Brahman- but it is evident that at this and subsequent times there must have deveoped in the public a reverence for religious mendicants who wandered about the land....without conform- ing themselves to the Brahmanic conventions. 
-Even during the Vedic times, their failure to conform to Vedic rites seems to have been disapproved and the Vrātyas were regarded as falling outside the pale of orthodox society. And an attempt seems to have been made by the orthodox section to take the Vratyas back into their fold by subjecting them to some purificatory ceremonies called 'vratyastomas', a noteworthy content of the Tandycbrāhmaṇa of the Sama Veda. They are sacrifices meant to enable these Aryan but non-Brahmanical Indians to enter the Brahmanical order' (MacDonel, Sanskrit Literature, p. 210). But it seems that the Vratyastomas had not much effect and the Vratya-section continued to develop and increase. Otherwise there was no necessity for the later orthodox literature contained in sūtras and smrtis to treat of Vratyas and the Vratyastomas, e.g., Kātyāyana Śrautasūtra saysः vratyayogyaḥ stomaḥ vratyāḥ prasiddha eva, patitasāvitrikāḥ". (Vacaspatyamः p. 5071). 
+Even during the Vedic times, their failure to conform to Vedic rites seems to have been disapproved and the Vrātyas were regarded as falling outside the pale of orthodox society. And an attempt seems to have been made by the orthodox section to take the Vratyas back into their fold by subjecting them to some purificatory ceremonies called 'vratyastomas', a noteworthy content of the Tandycbrāhmaṇa of the Sama Veda. They are sacrifices meant to enable these Aryan but non-Brahmanical Indians to enter the Brahmanical order' (MacDonel, Sanskrit Literature, p. 210). But it seems that the Vratyastomas had not much effect and the Vratya-section continued to develop and increase. Otherwise there was no necessity for the later orthodox literature contained in sūtras and smrtis to treat of Vratyas and the Vratyastomas, e.g., Kātyāyana Śrautasūtra says- vratyayogyaḥ stomaḥ vratyāḥ prasiddha eva, patitasāvitrikāḥ". (Vacaspatyam- p. 5071). 
 66 
 64 
-They came to be a heterodox and degraded people, as may be ascertained from the deri- vative explanation of the word 'vratya' asः vrātāt samūhāt cyavati yat, avyavahārye saṁskārahine jātimātropajivini" (Vacaspatyamः p. 5071). pp. 151-53. 
+They came to be a heterodox and degraded people, as may be ascertained from the deri- vative explanation of the word 'vratya' as- vrātāt samūhāt cyavati yat, avyavahārye saṁskārahine jātimātropajivini" (Vacaspatyam- p. 5071). pp. 151-53. 
 "The position of the Vratyas was much better than that of the Sudras. They were certainly non-sūdras but were privileged Aryans and had degraded themselves by discarding the Brahmanical conventions. Otherwise, the Vratyastomas or the purificatory ceremonies cannot be significant except that they were designed by the orthodox section to take back the Vratyas, the non-conformists, within their fold "-p. 158 
 45 
 As regards the argument that the bhagavatas are identical with the devalakas since they, like the latter, worship God for livelihood and live upon God's exchequer, which activities are denounced by the smrtis, Yamuna on the evidence of many smrti-passages, replies that the above condemnation applies only to those worshippers that are not initiated according to the Pancaratra scriptures. It is also pointed out that the term devalaka applies to one that worships deities other than Viṣņu like Rudra and Kāli. 
 Regarding the allegation that the bhagavatas are not orthodox since they eat the food offered to the Lord and use His nirmalya which activities are refuted by the smṛtis, Yamuna discusses at length and concludes on the evidence of many saṁhitās and smṛtis, that there is nothing contradicting the usage of Lord Viṣņu's naivedya and nirmalya. Statements condemning their usage are to be taken as referring to the naivedya and nirmalya of deities other than Viṣņu. Yamuna declares that nobody can call in question the holy character of the naivedya and nirmalya of Lord Visņu. 
-Regarding the contention that the bhagavatas are non-Vedic on the ground that they perform sacraments like garbhādhāna in a way that is quite different from the familiar one followed by others generally, Yamuna replies as followsः These bhāgavatas who follow the Ekāyanaśākha of the White Yajurveda perform sacraments only according to the Grhya-sutra of Katyāyana. They do not lose their brahmanical status by not performing these rites in the way ordained by other branches of the Veda. Anywhere, this is the case regarding the observa- tion of certain sacraments and a man following a particular Vedic recension should not question the validity of the way in which these very sacraments are performed by other Vedic groups, without taking into consideration the tradi- tional factor that runs through all such practices in general. 
+Regarding the contention that the bhagavatas are non-Vedic on the ground that they perform sacraments like garbhādhāna in a way that is quite different from the familiar one followed by others generally, Yamuna replies as follows- These bhāgavatas who follow the Ekāyanaśākha of the White Yajurveda perform sacraments only according to the Grhya-sutra of Katyāyana. They do not lose their brahmanical status by not performing these rites in the way ordained by other branches of the Veda. Anywhere, this is the case regarding the observa- tion of certain sacraments and a man following a particular Vedic recension should not question the validity of the way in which these very sacraments are performed by other Vedic groups, without taking into consideration the tradi- tional factor that runs through all such practices in general. 
 • 
 The Ekayana branch of the Sukla Yajurveda on which the Pañcaratra is claimed to be based, Yamuna declares, is not of human origin. He refers his readers in this connection, to another work, Kāśmīrāgamaprāmāṇya', which seems to be his own work, and which is unfortunately lost to us. This work establishes the apauruṣeyatva or the revealed character of the Ekayana branch, says Yamuna. The Bhagavatas of the present day (his own times), says Yamuna in fine, cannot be proved to be Vratyas (the non-conformists to Vedic rites), since they carry out all the Vedic rites like any other orthodox follower of the Vedas, perform the Savitri (Gayatri )-japa and so on. 
 Towards the end of the text, there are two stanzas in praise of Nathamuni, the author's grandfather and the disciples of Nathamuni. It is said that the disciples of Nathamuni were great champions of the Bhagavata (Sattvata) religion and 
@@ -921,7 +921,7 @@ omit fafaa
 5M - पावरा 
 • Mg, Mg omit च 
 7 B - उपनापनाय ' 
-† See JRAS (1911), pp. 940-41, for various definitions of the term ' Pāñcarātra'. See also the latest article on the meaning of the term by Dr. V. Raghavan, JAOS. Vol. 85, No. 1 (Jan.-Mar. 1965), pp. 73-79. The Maha- sanatkumāra Samhitā, Indrarātra section, ch. III, offers the following explana- tion for the term sāttvata"ः 
+† See JRAS (1911), pp. 940-41, for various definitions of the term ' Pāñcarātra'. See also the latest article on the meaning of the term by Dr. V. Raghavan, JAOS. Vol. 85, No. 1 (Jan.-Mar. 1965), pp. 73-79. The Maha- sanatkumāra Samhitā, Indrarātra section, ch. III, offers the following explana- tion for the term sāttvata"- 
 "sa punassattvate yasmāt kule jātassureśvaraḥ, 
 tasmāttu sāttvataṁ nāma purāņaṁ kovidā viduḥ upadiṣṭam pañcarātraṁ tena lokahitaiṣiņā, ahukāṁstu samuc diśya tena sattvatamucyate 
 (Adyar edn. p. 245, śls. 79-30) 
@@ -939,7 +939,7 @@ The Mimāmsaka is the purvapakṣin here. SCf. Prakaranapañcikā II. 19-
 6M - निःश्रेयस्साधनताम् 
 7 M2, My - नातिक्रमते 
 *"Dikṣā" or Initiation is one of the cardinal principles of the religious conduct of the Bhagavata system. It consists of five main sacraments, barring a few details that are peculiar to particular sections of the followers. These sacra- 
-ments areः 
+ments are- 
 "tāpaḥ puṇḍrastathā nāma mantro yāgaśca pañcamaḥ 
 pañcasaṁskāradīkṣaiṣā devadevapriyāvahā 
 pañcasaṁskāradikṣāvān mahābhāgavatassmṛtaḥ " 
@@ -953,15 +953,15 @@ pañcasaṁskāradikṣāvān mahābhāgavatassmṛtaḥ "
 (v) " yāga " 
 99 
 (Visņutilaka Samhitā IV. 189-90 ) 
-ः branding the two arms with the conch and discus 
+- branding the two arms with the conch and discus 
 emblems, 
-ः marking the forehead and other parts of the body 
+- marking the forehead and other parts of the body 
 with particular tilaka-materials, 
-ः 
+- 
 taking a new name, with the suffix ' dāsa ', etc. 
-ः taking the 'astākṣari' ( the eight-syllabled ) and 
+- taking the 'astākṣari' ( the eight-syllabled ) and 
 such other esoteric formulae, and 
-ः performing different kinds of worship of the Lord. 
+- performing different kinds of worship of the Lord. 
 All are eligible for this Initiation, irrespective of sex, caste and such other considerations. Cf. Isvara Samhitā- 
 "svasvavarṇāśramācārasadṛśākṛticeṣṭitān 
 lāñchitān cakraśankhābhyām bhujayor daksināditah " ( VIII. 179 ) 
@@ -977,7 +977,7 @@ mokṣaikaniścayāśśāvasūtakāśaucavarjitāḥ" (XXI. 40-41)
 सर्वं हि सातिशयं निरतिशयदशामनुभवद् दृष्टं वियतीव परिमाणम् । सातिशयं च काकोलूकगृधादिषु प्रत्यक्षमीक्षितमिति तदपि तथा भवितुमर्हति । इयं च ज्ञानस्य परा काष्ठा, या सर्वगो- चरता । अधिकविषयतयैव हि जगति ज्ञानानि परस्परमतिशेरते । 
 इत्थमैश्वर्यवैराग्यसामर्थ्यादिगुणा अपि । 
 निरस्तातिशयाः पुंसि कचित् सन्तीति सूरयः ॥ 
-अतो यस्यैतदखिलभुवनावलम्बि 'भावभेदसाक्षात्कारि प्रत्यक्षं, स' तत्समीक्षितदीक्षाराधनादिधर्मभावो भगवानेवं व्याचष्टेति किम-ः नुपपन्नमिति । 
+अतो यस्यैतदखिलभुवनावलम्बि 'भावभेदसाक्षात्कारि प्रत्यक्षं, स' तत्समीक्षितदीक्षाराधनादिधर्मभावो भगवानेवं व्याचष्टेति किम-- नुपपन्नमिति । 
 [ मीमांसकेन नैयायिकवाद निराकरणम् ] 
 तन्न, प्रत्यक्षविज्ञानप्रकर्षः कल्पितोऽपि सः । स्वगोचरमतिक्रम्य नान्यदास्कन्दितुं क्षमः ॥ 
 तथा हि- 
@@ -997,7 +997,7 @@ Mg - भुवनावलम्बिभिः
 8 Mg - चक्षुत्रः 
 * This is the view entertained by the Naiyayika, as also by the Siddhantin. 
 § The Mimāṁsaka refutes the above view. For a detailed discussion see 
-the Siddhitrayaः Isvara-siddhi, p. 226ff. 
+the Siddhitraya- Isvara-siddhi, p. 226ff. 
 + रूपे तद्वति घटे, तथा रूपेण सह एकस्मिन्नर्थे घंटे समवायसम्बन्धेन विद्यमानेषु संख्यापरिमाणादिष्वेव नियतः चक्षुःप्रकर्षः न तु रवभिनन्द्रियमा स्पर्शगन्धादाविति भावः । 
 मीमांसकपक्षः 
 एवम् 
@@ -1054,7 +1054,7 @@ taking f into the compound.
 8 M1, Ma - नितराम् 9 M1, My - भावतया 
 * Manuscript V1 starts from " dūsanam", the preceding text being lost. See Critical Apparatus. 
 ‡ Venkatanātha in his Nyāyasiddhānjana, ch. VI. p. 170, quotes from "yadapi" to "nirdiśyate" 
-↑ Vide Siddhitrayaः Išvara, pp. 233-34, for almost parallel statements. § दीवाराधनस्वर्गादीनां साध्यसाधनभावे इत्यर्थः । 
+↑ Vide Siddhitraya- Išvara, pp. 233-34, for almost parallel statements. § दीवाराधनस्वर्गादीनां साध्यसाधनभावे इत्यर्थः । 
 न चागमः 
 मीमांसकपक्षः 
 [ भागमाख्यप्रामाण्याभावकथनम् । 
@@ -1338,7 +1338,7 @@ M1,
 15 PM - अवलोकेन 
 16 M – वृत्त्यर्थं ° 
 * Paramasamhitā XXVIII- 33b-34a. 
-Also Cf. ibid.ः "annapānaṁ dhanaṁ putramāyuraiśvaryamāspadaṁ 
+Also Cf. ibid.- "annapānaṁ dhanaṁ putramāyuraiśvaryamāspadaṁ 
 , 
 apadyapi na yāceta pūjakaḥ purusottamaṁ ". 
 ** • अमी भागवता इत्यर्थः । 
@@ -1362,7 +1362,7 @@ apadyapi na yāceta pūjakaḥ purusottamaṁ ".
 Mg omits अपि; Ms - अकामनोऽपि 
 f To be traced out. 
 7 Breads यूपदेवलकं as one word. 8 M 1 – विशदतमम् 
-9 M1, M2, Ma, M7. My Bomit एव 10 M, omits arfarः 
+9 M1, M2, Ma, M7. My Bomit एव 10 M, omits arfar- 
 - 
 11 All except M1, M, B – अवालुकाः 12 M1 omits कल्पदेव लकाः 
 Cf. Bhavisyapurāna ch. 139, sis. 18, 21 and 22- 
@@ -1411,7 +1411,7 @@ Mg - मार्गपरिभ्रष्ट
 + Bhatta Medhātithi, commenting on Manusmrti, XII. 95, quotes from some unknown source, the following- 
 “ nodanāh caityavandanatah svargo bhavati ". 
 66 
-** This objection is raised by Sankara in his commentary on the Brahma- sūtraः II. ii.45- "vipratisedhācca". Cf. his commentaryः vedaviprati- ṣedhaśca bhavati; 'caturṣu vedeșu param śreyo' labdhvā śāṇḍilya idam śās- tramadhigatavān' ityādivedanindadarśanāt ", etc. 
+** This objection is raised by Sankara in his commentary on the Brahma- sūtra- II. ii.45- "vipratisedhācca". Cf. his commentary- vedaviprati- ṣedhaśca bhavati; 'caturṣu vedeșu param śreyo' labdhvā śāṇḍilya idam śās- tramadhigatavān' ityādivedanindadarśanāt ", etc. 
 ३ 
 १८ 
 भागमप्रामाण्ये 
@@ -1433,19 +1433,19 @@ M2, Ms, My— तत्प्रसादात्
 3 M, omits समीहित 
 4P, PM – बोधक म् 
 5 Mg - मूलाभि° 
-** Gautamadharmasutraः I. 1-2. 
-$ Manusmrtiः II. 6a. 
+** Gautamadharmasutra- I. 1-2. 
+$ Manusmrti- II. 6a. 
 f Vasisthasmrti- I. 2. 
-* Manusmrtiः II. 7b. 
+* Manusmrti- II. 7b. 
 6 P & PM omit these two aphorisms 
 in full. 
 P, PM & My omit तथा 
 8 M2 - वेदोऽखिल' 
-9 M, & M,-°fafkaः 
+9 M, & M,-°fafka- 
 10 Mg – वेदः 
 - 
 11 A - omits अधिकृतानाम् 
-* Cf. Pādmasamhitā Caryāpādaः I 8b-10a- 
+* Cf. Pādmasamhitā Caryāpāda- I 8b-10a- 
 66 
 “ naivādhikārinaste ca diksāsamskāravarjitāh 
 yathaiva dikṣaṇīyeṣṭyā jāyante brāhmaṇādayaḥ । tathaiva dikṣāvidhinā jāyamānā yathoditāḥ ॥। pūjāvidhau bhagavatah prakalpante dhikārinah ।" 
@@ -1469,8 +1469,8 @@ My - निरासावसाने
 "purāṇanyāyamīmāṁsādharmaśāstrāǹgamiśritaḥ 1 
 vedāssthānāni vidyānāṁ dharmasya ca caturdaśa ॥ " 
 तन्त्रस्य 
-This is the contention of the Advaitins. The entire Utpattyasambhava or the Pāñcarātra section of the Brahmasūtra [II. ii. 42-45] consisting of the four aphorismsः " utpattyasambhavāt", “ na ca kartuh karanam", “ vijñānā- dibhāve va tadapratiṣedhaḥ" and "vipratiṣedhacca" had been interpreted by Sankarācārya as refuting the validity of the Pañcarātrā gamas. 
-+ Brahmasūtraः II. ii. 42. This sūtra is the 42nd one in the second Pada of the second Adhyāya, according to Sankara But according to Rāmānuja, this is the 39th aphorism. 
+This is the contention of the Advaitins. The entire Utpattyasambhava or the Pāñcarātra section of the Brahmasūtra [II. ii. 42-45] consisting of the four aphorisms- " utpattyasambhavāt", “ na ca kartuh karanam", “ vijñānā- dibhāve va tadapratiṣedhaḥ" and "vipratiṣedhacca" had been interpreted by Sankarācārya as refuting the validity of the Pañcarātrā gamas. 
++ Brahmasūtra- II. ii. 42. This sūtra is the 42nd one in the second Pada of the second Adhyāya, according to Sankara But according to Rāmānuja, this is the 39th aphorism. 
 २० 
 भागमप्रामाण्ये 
 [ पाञ्चरात्रीयोपदेशानां लोकम्यामोहनार्थस्वप्रतिपादनम् ] 
@@ -1499,23 +1499,23 @@ For " vasikarana" see Agastyasanhitā- XV. 8-11, 49-51 and XXXI; Kāsyapasamhit�
 1 Ms, My - ° उपयोग्यानि 
 B—°ક્ષિ° 
 2 A, M1, M2, M3, M4, M5, M7, My, V1, B-f¿° 
-Sāttvatasaṁhitā - XVII. 440 et passim; Hiraṇyagarbhasaṁhitā - XIII. 3 f; Isvarasamhitāः XXV. 115a. 
+Sāttvatasaṁhitā - XVII. 440 et passim; Hiraṇyagarbhasaṁhitā - XIII. 3 f; Isvarasamhitā- XXV. 115a. 
 By the term "adi" mentioned in the text "vasikaraṇādi ", are under- stood "māraṇa", "viṣaharana", "viṣacikitsā", "unmādana", "ākarṣaṇa", 
 " 
 " stambliana and the like. 
-For "marana", see Hiranyagarbhasaṁhitā - XIX; Agastysamhitā - XXXI; Śrīviṣṇutilakasaṁhitaः IV. 645-666 and the Isvarasaṁhitā - XXV, 115b. 
-For "viṣaharana", see Śrīviṣṇutilakasamhitaः IV. 488-490; and Kasyapa- samhitaः Chs. VI to XII. 
-For "unmadana", see Kasyapasamhitaः III. 33-36; and Isvarasaṁhitā - XXV. 116a. 
+For "marana", see Hiranyagarbhasaṁhitā - XIX; Agastysamhitā - XXXI; Śrīviṣṇutilakasaṁhita- IV. 645-666 and the Isvarasaṁhitā - XXV, 115b. 
+For "viṣaharana", see Śrīviṣṇutilakasamhita- IV. 488-490; and Kasyapa- samhita- Chs. VI to XII. 
+For "unmadana", see Kasyapasamhita- III. 33-36; and Isvarasaṁhitā - XXV. 116a. 
 For " 
 XXV. 115a. 
-ākarṣaṇa", see Kasyapasaṁhitā - III. 1-3 and Isvarasamhitaः 
+ākarṣaṇa", see Kasyapasaṁhitā - III. 1-3 and Isvarasamhita- 
 For "stambhana", see the Isvaraṣamhitā - XXV. 116a. 
 Thus, though apparently, the Pañcarātrasaṁhitas pour down instructions and incantations to be followed and applied, so as to achieve some mundane pleasures, the attitude of a Pañcaratrin to this question is an altogether diffe- rent one. According to him, all such Agamas which are found to give in- structions regarding the achievement of some mundane pleasure or other, are intent upon advising men against such pursuits, rather than prescribing such pursuits. Thus, for instance, the Paramasamhita, one of the oldest and the most authoritative Agamas of the Pañcarātra literature, also refers to the ways and means of attaining earthly pleasures in chs. VI, XIII, XV and XVI. But it spares no effort to stress upon the futility and undesirability of such pursuits. 
-Thus it says in VI. 60-61aः 
+Thus it says in VI. 60-61a- 
 nanyaḥ siddhyati kāmena tasmāt kāmo nirarthakaḥ 
 tasmat sarvaprayatnena muktvā kāmamanoratham bhagavantamupāsīta sarvaṁ tenaiva siddhyati ". 
 Unflinching devotion to God will itself bring to a man all material pro- sperity, even if he does not himself pray God for it. 
-Also cf. ibidः XXXI, 69- 
+Also cf. ibid- XXXI, 69- 
 [ पञ्चरात्रस्य मन्वादिस्मृति तस्य प्रयुक्तप्रामाण्या भावनिगमनम् ] अतो न वेदमूलत्वं पञ्चरात्रस्य युज्यते । प्रामाण्यं प्रतिपद्येत ' येन मन्वादिशास्त्रवत् ॥ 
 [ नैयायिकमुखेन वेदसाम्येन पञ्चरात्रस्य प्रामाण्यप्रतिपादनम् ] 
 * अत्र' कश्चिदाह - कामं कक्ष्यान्तरितप्रामाण्येषु मन्वादि- स्मरणेषु कारणतया वेदाः परिकल्प्यन्ताम् । पञ्चरात्रस्मरणस्य तु किं वेदेन तन्मूलतया 'वलम्बितेन ? वेदानामपि यदनुभव' निबन्धनं प्रामाण्यं तदनुभव एव हि पञ्चरात्रस्मरणस्य निदानम् । न खलु तुल्यमूलयोरष्टकाचमनस्मरणयोः मिथो मूलमूलिभावः । 
@@ -1527,12 +1527,12 @@ T
 4 M 1 - वेदः परिकल्प्यताम् 
 5 Mg —– मूलतया° ; Ms - तन्मूलतश्च 6M2, My - अनुभाव' 
 "tasmādanena margeṇa pūjayet madhusudanaṁ 
-aiśvaryamapavargam vā nirvyājamadhigacchati ". Also cf. ibidः XXX. 100-101aः 
+aiśvaryamapavargam vā nirvyājamadhigacchati ". Also cf. ibid- XXX. 100-101a- 
 "tasmādubhayamevatra puṁsam bhavati sammatam 
 aiśvaryamapavargo vā viseṣeņa pitāmaha 
 madgata bhaktirevedanfubhayam sadhayiṣyati ". 
 O 
-This is the norm of all the Pañcarātra texts. The main concern of their teaching is unflinching devotion to the Lord and the methods of translating that devotion into acts of worship, which are divided into five typesः "abhigamana", "upādāna", "svādhyāya ", 
+This is the norm of all the Pañcarātra texts. The main concern of their teaching is unflinching devotion to the Lord and the methods of translating that devotion into acts of worship, which are divided into five types- "abhigamana", "upādāna", "svādhyāya ", 
 svādhyāya", "ijyā" and "yoga", to be performed in different parts of the day. 
 *The Naiyāyika now argues with the Mimamsaka. His contention is that the Vedas and the Pañcaratra texts are utterances of one and the same Supreme Being, Who is also the Omniscient Designer-Architect of this won- derful cosmos. He forms the second critic to be refuted by the Siddhantin, only in so far as the authorship of the Vedas is concerned. For the Siddhāntin, as for the Mimārsaka, the Vedas are revealed, “apauruseya ", not composed even by the Supreme. 
 $ वक्ष्यया एकया अन्तरितं प्रामाण्यं मन्वादिशास्त्राणाम् । वेदानां प्रामाण्यसार्वभौमत्वात्, तदनुसरणाच सर्वस्मृतीनाम् । पञ्चरात्रं तु वेदवदेव निरपेक्षतया सर्वोत्कृष्टया व प्रमाणं तत्समानयोगक्षेमत्वादिति हार्दम् । 
@@ -1653,9 +1653,9 @@ O
 दयात्पूर्वम् 
 । Dude Prakaranapañcikā; VII. p. 134- 
 • नमननधिश्रिता वर्धकिना वासी वर्धनाय प्रवर्तते । 
-Also ef. Nyayakusumāñjaliः V. p. 51- 
+Also ef. Nyayakusumāñjali- V. p. 51- 
 'परमाण्वादयो हि चेतनायोजिताः प्रवर्तन्ते, अचेतनत्वात् वासीवत्' । 
-Also cf. Sankara's commentary on Brahmasūtraः IIii-1- 
+Also cf. Sankara's commentary on Brahmasūtra- IIii-1- 
 p. 221 [ Nirnayasāgara Edition ]- 
 • नाइचेतनं लोके चेतनानधिष्ठितं स्वतन्त्रं...दृष्टम् ।'२५ 
 भागमप्रामाण्ये 
@@ -1684,7 +1684,7 @@ omit च
 "God in the conception of the Naiyayikas is one that is not only the efficient cause and supreme agent of the world, but possesses innumerable qualities such as knowledge, activity, desire, etc.". 
 Cf. Vatsyāyana's commentary on the Nyāyasūtra, IV. 1. 21, p. 292- 
 “ gunavisiṣtamātmāntaram iśvarah ". 
-Cf. also ibidः p. 293- 
+Cf. also ibid- p. 293- 
 "6 
 na tavadasya buddhim vina kaściddharmo lingabhūtaśśakya upa- pādayitum ". 
 § To be identified. This verse is quoted by Sucaritamiśra in his comment- ary on the Slokavārtika, p. 110 [ Trivandrum Skt. Series No. 901. 
@@ -1781,7 +1781,7 @@ Mi - '
 gives the reading adopted by us. 
 5 M1, M2, M, M, My - कथमपि 6 M2 & My add यदपि before विनाशीदम् 7 Mg reads वियत् for च यत् 
 8P, PM, T, A, M3, M, M -- मुखत्वेन 
-* Cf. Slokavārtika, Sambandhāksepaparihāraः $1. 75- 
+* Cf. Slokavārtika, Sambandhāksepaparihāra- $1. 75- 
 kasyacit hetumā trafvam yadyadhiṣṭhānatocyate karmabhiḥ sarvajīvānāṁ tatsiddheḥ siddhasādhanam ". The same idea is expressed in the Isvarasiddhi, p. 242- 
 66 
 agamadavagamyante vicitrāḥ karmaśaktayaḥ 
@@ -1864,7 +1864,7 @@ $ सिसाधयिषिते कर्तरि ' इत्यर्थ�
 Ma reads यदि च as च यदि 
 4 M 1, M3, Ma, M, & B omit नियम and 
 read अविनाभावमपि 
-5 P, PM, T, M, & M.-graftafùaः 
+5 P, PM, T, M, & M.-graftafùa- 
 6 My adds इति 
 - 
 7 Ma, Mg – अनुमानानुमेय ' 
@@ -1890,7 +1890,7 @@ Xक वा देशे तिष्ठन्ननवरततृप्तः 
 SA, B – वृत्ति' 
 6 M1, M2, M9, My omit कल्पना 7 M2, My - कल्पन' 
 B - अधिष्ठान 
-8 P-afaः 
+8 P-afa- 
 यत्र धूमस्तत्र वह्निरिति व्याप्तिर्महानसादौ गृहीता । पर्वते धूमं दृष्ट्वा वह्निमनुमातुं प्रवृत्तस्य पुरुषस्य, तत्रत्योऽपि वह्निः महानसादाविव फूस्कारेणैव प्रवृद्ध इति, स च पाकार्थमुपयुज्यत इत्याद्याः सम्भावनाः सम्भाव्यमाना अत्र अतिप्रसङ्गशब्देन सूचिताः । एतेषां विपरीतविशेषाणां प्रत्यक्षप्रमाणबाध्यत्वमाह प्रमाणान्तरेत्यादिना । तथा च पर्वतं गत्वा तत्रत्यो वह्निः कीदृश इति विचारे, क्रियमाणे, पूर्व वह्निविषये सम्भावितान् फूत्कारप्रवर्धनपाकोपयोगार्द. न् अतिप्रसङ्गान् प्रत्यक्षप्रमाणमेव निवारयेदिति भावः । 
 $ Cf. Isvarasiddhi, p. 244. 
 + 
@@ -1915,13 +1915,13 @@ na ca prayojanaṁ tena syāt prajāpatikarmaṇā ॥ '
 " 
 For a detailed refutation of the creative activity of God, at a time when space itself did not exist, see ibid. śls. 45, 50-51- 
 "yada sarvamidaṁ nāsīt kvāvasthā tatra gamyatām । prajāpateḥ kva vā sthānaṁ kiṁ rūpaṁ ca pratīyatām ॥ " "sādhanam cāsya dharmadi tada kiñcinna vidyate na ca nissadhanaḥ kartā kaścit sṛjati kiñcana nādhāreņa vinā sṛṣṭirūrṇanābherapiṣyate । praṇināṁ bhakṣaṇāccāpi tasya lālā pravartate ॥ Vide Slokavārtika under I. i. 5, śls. 54-56- 
-tatha capekṣamāṇasya svātantryaṁ pratihanyate I jagaccāsṛjatastasya kiṁ nāmeṣṭam na siddhyati ? prayojanamanuddiśya na mando' pi pravartate evameva pravṛttiścet caitanyenāsya kim bhavet? kriḍārthāyāṁ pravṛttau ca vihanyeta kṛtārthatā bahuvyā pāratāyāṁ ca kleśo bahutaro bhavet ॥ Also cf. ibidः $1. 57, ff. 
+tatha capekṣamāṇasya svātantryaṁ pratihanyate I jagaccāsṛjatastasya kiṁ nāmeṣṭam na siddhyati ? prayojanamanuddiśya na mando' pi pravartate evameva pravṛttiścet caitanyenāsya kim bhavet? kriḍārthāyāṁ pravṛttau ca vihanyeta kṛtārthatā bahuvyā pāratāyāṁ ca kleśo bahutaro bhavet ॥ Also cf. ibid- $1. 57, ff. 
 C. Nydyamañjarī, Vol. I, p. 192- 
 atha keldarthe jagatsarge bhagavataḥ pravṛttirīdṛśa ca śubhāśubharūpeṇa jagatā *pstena kılgati parameśvara ityucyate, tarhi krīḍāsādbyasukharahitatvena 
 steḥ parvamavāptasakalānandatvaṁ nāma tasya svarupamavahiyate; 
 na ca krīḍāpi niśśeṣajanatātaṁkakāriņī । 
 Пyasabahulā ceyam kartum yukta mahātmanaḥ ॥ tamanna jagatāṁ natha iśvaraḥ sraṣṭā saṁhartāpi bhavati. 
-Also cf. ibidः p. 194- 
+Also cf. ibid- p. 194- 
 ata eva nirikṣya durghaţaṁ jagato janmavināšaḍambaraṁ । na kadácidanidṛśam jagat kathitam nitirahasyavedibhiḥ ॥भागमप्रामाण्ये 
 स्वभावः',- स्वातन्त्र्यं प्रकटितमहो संप्रति विभोः । अभिप्रेतं किञ्चिद्यदयमसमीक्ष्यैव कुरुते 
 जगज्जन्मस्थेम' प्रविलय महायासमवशः ॥ 'अनुकम्पाप्रयुक्तेन सृज्यमानाश्च जन्तवः । 
@@ -1961,7 +1961,7 @@ PM
 •M, M,-144 
 "कुमावी" 
 "M"ना" 
-५८%. Ibidः 
+५८%. Ibid- 
 • A, M1, M2, M3, M, Ms, M 7, V1 & Va omit वा 
 7 My - स्मरणार्थ 
 • My - तथा 
@@ -2194,7 +2194,7 @@ Cf. Prakaranapañcikà V. p. 94-
 brahmasvarupam ca pramāṇāntarasiddhamevāśrayaṇīyaṁ; brahma. sabdasya en loke pramāṇāntara siddhātmavācitvena siddheḥ vedepi sa evārthaḥ; fatha ca sati nityaprakāśaparamānandadirûpavidhiḥ sakalapratipattiviruddhaḥ; Narvapratipattiṣu hi pramāṇasmṛtibhūtāsvātmā prakāśate; na ca tatra paramā- nandah strivedyate; na ca sārsārikaduhkhābhibhūtatvāt tasyāprakāśah, abhi- bhavanpapattel; avacchinnam hi duḥkham anavacchinnananda iti nālpīyasā moshatah abhibhavaḥ sambhavati; svaprakāśasya ca abhibhavāvaraṇānabhivyak- 1.ii_ambhava eva;.... sakalavikāraśūnyatāpi vijñānādivikārotpatteh pra- mamantaraviruddhaiveti parasparānvayāyogyatayā nānandā diparatvaṁ; ajarā- mutatvayostu pramāṇāntaraprasiddhereva anuvādatvāt aprāmāṇyamiti. 
 मिदमुदाहरणम् । वैदिकमपि दर्शयति 'अनुगीय' इति । 
 A See Chandogyopanisad I. 5- atha khalu ya udgithah sa pranavo yal pranavah sa udgitha iti. See Rangarāmānuja's commentary on it. 
-For instance, for the arthavada statement "so 'rodit yadarodit tat rudaya rudratvam" ( Tulttiriya Samhitā- I. vi. 1), the corresponding villi- '' utene is " barhiṣi rajatam na deyam" (Ibidः I. v. i. 2 ).४५ 
+For instance, for the arthavada statement "so 'rodit yadarodit tat rudaya rudratvam" ( Tulttiriya Samhitā- I. vi. 1), the corresponding villi- '' utene is " barhiṣi rajatam na deyam" (Ibid- I. v. i. 2 ).४५ 
 भागमप्रामाण्ये 
 4 
 पादनपरतावारणोपपादनेन विदूरतर' वर्ति विधिपदान्वयः 2 स्तावक- तयाऽपि प्रदर्शितः । तस्मादपर्यालोचितपूर्वापरपदतात्पर्याणामापाता- यातश्रद्धाविरचितवि' ग्रहोऽयमुद्रा हितः पुरुष इत्यलमति' विस्तरेण । 
@@ -2333,16 +2333,21 @@ O
 8 M 2 – सार्वज्ञ्यम् ; Mg सर्वज्ञः 
 9 M2, Ma - आवेदकाः; B – वेदिकाः 
 10 Momits यः 
-11 P, PM add яः 
+11 P, PM add я- 
 12 M, सर्वेश्वर 
 - 
 13 Ma, B – शब्दः 
 14 My - the scribe explains उत्पत्ति as रूढि 
 9 
-‡ ' केवलं तन्त्रस्वसाभ्यमादाय यदि पञ्चरात्रमपि अवैदिकमिति व मुत्सहसे, तर्हि, ते तव प्रीतिपात्रं सोम- पोऽपि, पातृत्वसाम्यमादाय, सुरापैः समानः प्रसजति' इत्यन्वयः । 'समान' पदं पूर्वपादादध्याहार्यम् । मीमांसकस्य पूर्वपक्षित्वादत्र सोमपदृष्टान्तः सरस इति च ध्येयम् । 
+‡ ' केवलं तन्त्रत्वसाम्यम् आदाय  
+यदि पञ्चरात्रमपि अवैदिकमिति वक्तुम् उत्सहसे,  
+तर्हि, ते तव प्रीतिपात्रं सोम-पोऽपि,  
+पातृत्वसाम्यमादाय, सुरापैः समानः प्रसजति' इत्यन्वयः ।  
+'समान' पदं पूर्वपादादध्याहार्यम् ।  
+मीमांसकस्य पूर्वपक्षित्वादत्र सोमपदृष्टान्तः सरस इति च ध्येयम् । 
 * The above argument of the Siddhantin is refuted by the Mimāṁsaka. 
-§ Mundakopanisadः I. 1. 9. 
-t Svetāśvataraः VI. 7. 
+§ Mundakopanisad- I. 1. 9. 
+t Svetāśvatara- VI. 7. 
 किन सर्वज्ञ शब्देन सर्वज्ञे प्रतिपादिते । * पीनरुक्त्यं प्रसज्येत सर्वविद्ब्रहणस्य' वः ॥ 
 अनस्सर्वज्ञशब्दोऽयं महादेवैकगोचरः । तथा च स्कन्द लिङ्गादिपुराणानि पिनाकिनः ॥ उपक्षीणानि सार्वज्ञ्य' सर्वैश्वर्योपपादने । ततश्च तत्प्रणीतत्वात् प्रामाण्यमनया दिशा ॥ प्राप्तं पाशुपतं तन्नं, तत्रान्योन्यविरोधतः । सर्वतन्त्रप्रमाणत्व' विपर्यासः प्रसज्यते " ॥ 
 अपि च भवतु भगवान् वासुदेव एवौपनिषदः पुरुषः । अथ च स कथमिव श्रुतिपरिपन्धि" तत्रमेतत् प्रणयेते "त्युत्प्रेक्ष्येत', य एवमाह - ' श्रुतिस्मृती" ममैवाज्ञा"" इति । ततश्च- 
@@ -2368,10 +2373,29 @@ M2, M4, My -- प्रणीयेत
 10 M2. My – श्रुतिस्मृतिः; PM - श्रुतिस्मृति" 
 17P, PM, M2, M2, Ms, Mo, V1, V 20 
 B—आ 
-The above argument, says the Mīmāmsaka, is favourable to the Pāšu- patas since the text " yassarvajñah sarvavit " ( Mundakaः I. 1. 9 ) cannot be properly explained in favour of the Pañcarātrins. "If the term 'sarvajña' be etymologically taken as referring to Viṣņu, what he asks. This term too has to be explained the Pancaratrin in the defect of redundance. of explanation is in sooth, properः the term 
-onally, while the term 'sarvavit' does so, through etymology. 
-about the term sarvavit' ?" as all-knower', which lands Therefore, the Pasupata method sarvajña' refers to Śiva conven- 
-↑ The popular reading of the Viṣņudharma-verse, in which this statement cocus is- 
+
+The above argument, says the Mīmāmsaka, is favourable to the Pāšupatas since the text " yassarvajñah sarvavit " ( Mundaka- I. 1. 9 ) cannot be properly explained in favour of the Pañcarātrins.  
+
+> "If the term 'sarvajña' be etymologically taken as referring to Viṣņu, what about the term sarvavit' ?"  
+
+he asks. This term too has to be explained as all-knower', which lands the Pancaratrin in the defect of redundance of explanation  
+
+Therefore, the Pasupata method of explanation is in sooth, proper- the term sarvajña' refers to Śiva conventionally, while the term 'sarvavit' does so, through etymology. 
+
+↑ The popular reading of the Viṣņudharma-verse, in which this statement occurs is- 
+
+> śrutismṛti mamaivājñā  
+yastāmullaighya vartate 
+ājñācchedi mama drohi  
+madbhaktopi na vaiṣṇavaḥ. 
+
+But the following reading is found in the printed edition, ch- 76, Śl. 31- 
+
+> śrutissmṛtir mamaivājñā  
+tāmullanghya yajan subhe  
+sarvasvenāpi mām devi  
+napnotyājñāvilaṁghanāt. 
+
 ५१ 
 भागमप्रामाण्ये 
 [ औपनिषद वासुदेवप्रणीतस्वेऽपि पञ्चरात्रस्य जगद्व्यामोहकत्व प्रयोजनत्वप्रतिपादनम् ] 
@@ -2396,12 +2420,8 @@ My - तदार्हत
 " My - स्वानुभव' 
 • M1, M,, B, A - "स्मरणादिवदिति 
 M2, My -- स्मृतिवदिति 
-śrutismṛti mamaivājñā yastāmullaighya vartate 
-ājñācchedi mama drohi madbhaktopi na vaiṣṇavaḥ. 
-But the following reading is found in the printed edition, chः 76, Śl. 31- 
-śrutissmṛtir mamaivājñā tāmullanghya yajan subhe 
-sarvasvenāpi mām devi napnotyājñāvilaṁghanāt. 
-Visnupurānaः ( Jivānanda's edn.) Arśa- III. chs. 17 - 18 give the story of Mayamohana, preaching non-Vedic doctrines to demons, with a view to delude them. Other instances of Viṣņu assuming different forms out of his Māyā, are to be found in the Lingapurana and the Kāsikhanda. 
+
+Visnupurāna- ( Jivānanda's edn.) Arśa- III. chs. 17 - 18 give the story of Mayamohana, preaching non-Vedic doctrines to demons, with a view to delude them. Other instances of Viṣņu assuming different forms out of his Māyā, are to be found in the Lingapurana and the Kāsikhanda. 
 किञ्च'- 
 मीमांसकपक्षः 
 यदि मन्वादिवदेवः । शुश्रुषापरितोषितात् । आचार्याल्लब्धवेदार्थः तन्त्रमेतदचीलपत् ॥ 
@@ -2426,14 +2446,32 @@ separately )
 9P, T, M3, M4 - पञ्च 
 Vide Slokavārtika I. 1. 2, sl. 111b, ff. 
 $ To be identified. 
-+ Vide Anandasamhitā ch. XIII, folios 43b-44a- 
-athāto devasyarcanam dvividham śruņu [sic] 
-vaikhānasam pañcarātraṁ vaidikaṁ tantrikam kramāt ॥ 
-tayor vaikhānasaṁ śreṣṭhamaihikāmuṣmikapradam 1 
-The (Maha) Sanatkumārasaṁhitā draws a distinction among the Vaisnava-mantras in terms of Vaidika Tantrika and Vaidika-tantrika. 
-Cf. Rṣirātra IX. 35- vaidikam tāntrikam caiva tathā vaidikatāntrikam 
+
++ Vide Anandasamhitā ch. XIII, folios 43b-44a-  
+
+athāto devasyarcanam dvividham śruņu [sic]  
+vaikhānasam pañcarātraṁ  
+vaidikaṁ tantrikam kramāt ॥ 
+tayor vaikhānasaṁ śreṣṭham  
+aihikāmuṣmikapradam 1 
+
+The (Maha) Sanatkumārasaṁhitā draws a distinction among the Vaisnava-mantras in terms of Vaidika Tantrika and Vaidika-tantrika.  
+Cf. Rṣirātra IX. 35-  
+
+vaidikam tāntrikam caiva  
+tathā vaidikatāntrikam  
 mantratrayaṁ krameṇoktam........ ॥ 
-Cf. Vasisthasamhità XIII. 16b-17aः 
+
+Cf. Vasisthasamhità XIII. 16b-17a-  
+
+Vaidikaṁ tantrikaṁ caiva  
+tatha vaidikatāntrikam  
+miśritam vaidikaṁ mantraiḥ  
+tasmāt vaidikatāntrikam ॥ 
+
+Harita in his Dharmasastra, says- srutiśca dvividhā, vaidiki tantriki ca (Quoted in the Lingadharanacandrikā, p. 240). 
+44 
+
 ५४ 
 तथा - 
 MINIARIAICÒ 
@@ -2447,23 +2485,39 @@ IM1, M,, My, B-
 3 V1, B, A,- 
 4 M 2 - पचरा प्रदृश्यते 
 4 
-Vaidikaṁ tantrikaṁ caiva tatha vaidikatāntrikam 
-miśritam vaidikaṁ mantraiḥ tasmāt vaidikatāntrikam ॥ 
-Harita in his Dharmasastra, saysः srutiśca dvividhā, vaidiki tantriki 
-ca (Quoted in the Lingadharanacandrikā, p. 240). 
-44 
-§ The Vaikhanosāgamas call the Vaikhānasa and the Pañcarātra systems saumya" and "agneya" respectively. Cf. Kasyapajñānakāṇḍa, p. 171- vaikhanasaṁ saumyam; agneyaṁ pañcarātram. 
-See also Vimānārcanākalpa, paṭala 77, p. 467- 
-vaiṣṇavam dvividham, vaikhānasaṁ pañcarātramiti; vaikhānasaṁ vaidikaṁ, vaidikairarcitam aihikāmuṣmikaphalapradam; pāñcarātramagneyam avaidikaṁ āmuṣmikaphalapradam; saumyam sarvatra sampūjyam. 
-Cf. also Bhagavata XI. 27. 7, 49- 
-vaidikastantriko miśra iti me trividho makhaḥ । trayāṇāmīpsitenaiva vidhinā māṁ samarcayet ॥ evam kriyāyogapathaiḥ puman vaidikatāntrikaiḥ । arcayannubhayataḥ siddhim matto vindatyabhīpsitam ॥ 
-It may be noted that such a division is found even among the Saivāga- mas. Thus, the Vayu Samhita of the Sivapurāṇa ( uttarabhāga XXIV. 177-178) 
-saysः 
-śivagamopi dvividhaḥ śrauto ' śrautaśca samsmṛlaḥ । 
-śrutisaramayaḥ śrautaḥ svatantra itarassmṛtaḥ । (Quoted in Linga- dhāraṇucandrikā, p. 290). 
-Also see Saivasiddhānta p. 43- 
-6. 
-Āgamas are of two kindsः Śrauta and Asrauta. The Śrautagamas are dependent upon the Vedas and are full of their essence; not so the Asrauta. The former Agamas are accepted but not the latter. The asrauta-agamas have been declared by the Lord in order to delude some people. These Agamas are Vāma, Pasupata, Lakula, Bhairava, etc. " 
+
+
+§ The Vaikhanosāgamas call the Vaikhānasa and the Pañcarātra systems "saumya" and "agneya" respectively. Cf. Kasyapajñānakāṇḍa, p. 171- vaikhanasaṁ saumyam; agneyaṁ pañcarātram. 
+See also Vimānārcanākalpa, paṭala 77, p. 467-  
+
+> vaiṣṇavam dvividham,  
+vaikhānasaṁ pañcarātramiti;  
+vaikhānasaṁ vaidikaṁ,  
+vaidikairarcitam aihikāmuṣmikaphalapradam;  
+pāñcarātramagneyam avaidikaṁ āmuṣmikaphalapradam;  
+saumyam sarvatra sampūjyam. 
+
+Cf. also Bhagavata XI. 27. 7, 49-   
+
+> vaidikastantriko miśra iti me trividho makhaḥ ।   trayāṇāmīpsitenaiva vidhinā māṁ samarcayet ॥  
+evam kriyāyoga-pathaiḥ  
+puman vaidikatāntrikaiḥ ।  
+arcayannubhayataḥ siddhim  
+matto vindatyabhīpsitam ॥ 
+
+It may be noted that such a division is found even among the Saivāgamas. Thus, the Vayu Samhita of the Sivapurāṇa ( uttarabhāga XXIV. 177-178) 
+says- 
+
+śivagamopi dvividhaḥ  
+śrauto 'śrautaśca samsmṛlaḥ । 
+śrutisāramayaḥ śrautaḥ  
+svatantra itarassmṛtaḥ ।  
+(Quoted in Linga- dhāraṇucandrikā, p. 290). 
+
+Also see Saivasiddhānta p. 43- 6.  
+
+Āgamas are of two kinds- Śrauta and Asrauta. The Śrautagamas are dependent upon the Vedas and are full of their essence; not so the Asrauta. The former Agamas are accepted but not the latter. The asrauta-agamas have been declared by the Lord in order to delude some people. These Agamas are Vāma, Pasupata, Lakula, Bhairava, etc. " 
+
 भद्वैतिपक्षः 
 [ जीवजन्मादिप्रतिपादकत्वात् श्रुतिन्यायादिविरोधाच पञ्चरात्रस्य अप्रामाण्यनिरूपणम् । 
 किश्च - 
@@ -2500,7 +2554,7 @@ upto अध्यवसीयते
 mātrāsparśāstu kaunteya śītosņasukhaduḥkhadāḥ । āgamāpāyino 'nityāstān titikṣasva bhārata ॥ 
 + Chandogya VI. 11. 3. 
 ' जातो भावो नैव क्षरेदित्येतद्वचनं न शक्यसम्भवमिति भावः । 
-$ Chandogyaः VI. ii. 1- ' सदेव सोम्येदमग्र आसीत् एकमेवाद्वितीयं ब्रह्म' ।यदि जीवाः पृथग्भूताः, प्राकू सृष्टेः स्युः परात्मवत् । कथमेतत् ' सदेवे 'ति तदेकत्वावधारणम् ? 'अत्रोच्यते - 8' सदेवेति यदेकत्वावधारणम् । तत् सिसृक्षितवाय्वम्बुवियत्प्रभृतिगोचरम् ॥ पर्युदासिन्यतानेन वचसा चेतनो यदि । गगनादेरिवास्यापि जननं ' निरदेश्यत ॥ 
+$ Chandogya- VI. ii. 1- ' सदेव सोम्येदमग्र आसीत् एकमेवाद्वितीयं ब्रह्म' ।यदि जीवाः पृथग्भूताः, प्राकू सृष्टेः स्युः परात्मवत् । कथमेतत् ' सदेवे 'ति तदेकत्वावधारणम् ? 'अत्रोच्यते - 8' सदेवेति यदेकत्वावधारणम् । तत् सिसृक्षितवाय्वम्बुवियत्प्रभृतिगोचरम् ॥ पर्युदासिन्यतानेन वचसा चेतनो यदि । गगनादेरिवास्यापि जननं ' निरदेश्यत ॥ 
 न च निर्दिश्यते; तेन न जीवो जनिमृच्छति । " तत्तेजोऽसृजते 'त्यादौ जीवसर्गो न हि श्रुतः ॥ ननु च *" यतो वा इमानि " इत्यत्र जीवानामेव जननजीवन- प्रायणाभिसंवेशनानि प्रतीयन्ते । 
 तथा हि *" भूत' शब्दोऽयं जीवनामभिधायकः । 1 ' भ्रामयन् सर्वभूतानी' त्येवमादिषु दर्शनात् ॥ *" जीवन्ती'ति हि शब्दोऽयं जीवेष्वेवावकल्पते । 
 तेन *" 
@@ -2524,11 +2578,11 @@ M, -- अवकल्प्यते
 ; 
 My - यदि पदम् 
 5P, PM – हि नः; A, M3, M, M 6, V 1, 
-+ Ibidः VI. ii. 3. 
++ Ibid- VI. ii. 3. 
 ** 
 $ Chāndogya VI. ii. 1. 
 , 
-Taittiriya- III. 1. 1- “ यतो वा इमानि भूतानि जायन्ते येनं जातानि जीवन्ति ” etc. + Bhagavadgitàः XVill, 61b. 
+Taittiriya- III. 1. 1- “ यतो वा इमानि भूतानि जायन्ते येनं जातानि जीवन्ति ” etc. + Bhagavadgità- XVill, 61b. 
 मीमांसकपक्षनिगमनम् 
 प्रथममधिगता ये खादयो 'भूत' शब्दात् 
 तदनुगुणतयाऽर्थं वक्ति ' जीवन्ति शब्दः । यदि च भवति जीवे 'भूत' शब्दः, तदानी- 
@@ -2545,8 +2599,8 @@ Taittiriya- III. 1. 1- “ यतो वा इमानि भूतानि �
 2 M1 & M2 - तदा 
 3 Mg omits पुराणः 
 * Svetāśvatara IV. 5- “ अजो + Bhagavadgītā XIII. 19a. 
-§ Ibidः II. 20c. 
-t Ibidः II. 20a. 
+§ Ibid- II. 20c. 
+t Ibid- II. 20a. 
 4 M2 reads इति 
 5 My—तत्र 
 6 A omits अभिधीयते 
@@ -2760,11 +2814,11 @@ omitting पक्षः
 13 Mg, B – अनेकान्तिकत्वादयो 
 Ms 
 My - अनैकान्तत्वादयो 
-Cf. Slokavārtika ( I. 1. 5 ) sls. 61b-62bः 
+Cf. Slokavārtika ( I. 1. 5 ) sls. 61b-62b- 
 " त्रिधा शब्द विरोधस्स्यात् प्रसिध्यादिविभागतः । 
 प्रतिज्ञापूर्व संजल्प सर्व लोकप्रसिद्धितः ॥ 
 यावज्जीवमहं मौनीत्युक्तिमात्रेण बाध्यते । ” 
-6 Cf. ibidः $1. 63- 
+6 Cf. ibid- $1. 63- 
 " 
 सर्ववाक्यमृषात्त्रे तु धर्मोवत्यैवात्मबाधनम् । 
 धयुक्त्याहं यतो जातः, सा वन्ध्या जननी मम ॥ " 
@@ -2796,7 +2850,7 @@ B—स्वरूपासिद्धः
 13 P, PM, T, M2 to Mg, My, V 1, V2, 
 B-सोsपि 
 , 
-† A third variety of 'anaikāntika' is anupasamhārin which the author does not enumerate here. Cf. Tarksangrahaः p. 53- सव्यभिचारोऽनैकान्तिकः । स त्रिविधः- साधारणासाधारणानुपसंहारिभेदात् ' । Quoting the passage ' न तावदनैकान्तिकः' & c. in his Nyāyapariśuddhi [ Desika Granthamālā], p. 130, Desika says- 
+† A third variety of 'anaikāntika' is anupasamhārin which the author does not enumerate here. Cf. Tarksangraha- p. 53- सव्यभिचारोऽनैकान्तिकः । स त्रिविधः- साधारणासाधारणानुपसंहारिभेदात् ' । Quoting the passage ' न तावदनैकान्तिकः' & c. in his Nyāyapariśuddhi [ Desika Granthamālā], p. 130, Desika says- 
 " बाधितस्य तु न पक्षधर्मत्वं नाऽपि व्याप्तिरिति दूषणद्वयसमुच्चयः । ' 
 * विपरीतेन सांध्याभावेन व्याप्तिः विपरीतव्याप्तिरिति तृतीया तत्पुरुषः । सा च व्याप्तिः पञ्चरात्रप्रामाण्य- प्रतिपाद के वाक्ये 'निर्दोषज्ञानजन्मत्व 'रूपस्य हेतोर्नास्तीत्यर्थः । ' शब्दो नित्यः कृतकत्वात्' इत्यत्र कृतकत्वरूपो हेतुः साध्याभावेन नित्यत्वाभावेन अनित्यत्वेन हि व्याप्तः, यत्र कृतकत्वं तत्रानित्यत्वमिति नियमात् । तस्मात्स हेतुर्विरुद्धः । एवमत्रापीति बोध्यम् । 
 + कालात्ययापदिष्टस्यैव 'बाघ' इत्यपि व्यबहारः । 
@@ -2858,13 +2912,13 @@ M, - महाकारणकम्
 - 
 9 
 • M, adds f 
-$ Desika, in his Stotraratnabhāsya (Desika Granthamālā ), p. 37, says that the mercy of the Lord is referred to in the following Upanisadsः 
+$ Desika, in his Stotraratnabhāsya (Desika Granthamālā ), p. 37, says that the mercy of the Lord is referred to in the following Upanisads- 
 Svetāśvatara- III. 17- 'सर्वस्य प्रभुमीशानं सर्वस्य शरणं सुहृत् '; 
 Kathavalli- IV. 12a- ' अङ्गुष्ठमात्रः पुरुषो मध्य आत्मनि तिष्ठति ' and 
 " 
-Mahopanisat- [ः स एकाकी न रमेत ' 
+Mahopanisat- [- स एकाकी न रमेत ' 
 1- 
-Also cf. Paramasamhitaः III. 40b-41a; p. 24- 
+Also cf. Paramasamhita- III. 40b-41a; p. 24- 
 * 
 · 
 ★ ध्यातव्यो भगवानेव नान्यो विश्वस्य कारणात् । 
@@ -3096,7 +3150,7 @@ Cf. Prakaranapañcikā V. p. 95-
 + 
 'सिंहो माणवकः', 'अग्निर्माणवकः' इत्यादिप्रयोगेषु । 
 X मानान्तरापूर्वं = प्रमाणान्तरेणाज्ञातं अपूर्वम्; तद्रूपं कार्यमित्यन्वयः । 
--ः कर्मणो यागादेः, फलेन स्वर्गादिना सम्बन्धः । तत्-सिध्य्-अर्थं मानान्तराज्ञातस्य कार्यस्य बोधकता पदानां नाभ्युपेया ।  
+-- कर्मणो यागादेः, फलेन स्वर्गादिना सम्बन्धः । तत्-सिध्य्-अर्थं मानान्तराज्ञातस्य कार्यस्य बोधकता पदानां नाभ्युपेया ।  
 अपूर्वस्य लिङर्थत्वं वर्तत इति प्राभाकरः;  
 नास्तीति भाट्टो ग्रन्थकारश्चेति बोध्यम् । 
 2 
@@ -3164,9 +3218,9 @@ $
 यदि साधनसम्बन्धयोग्यत्वं नैव तावता । स्वर्गेण सिध्यता भाव्यं यावद्योगमजन्मतः 2 ॥ सिद्धि पर्यन्तता तस्य *नियोगैकप्रमाणिका । नियोगः तत्प्रमाणश्चेत्यन्योन्याश्रयणं ध्रुवम् 
 1 A reads aaa, making the metre 
 defective 
-2 A & V1 read asaः; M1, M ̧, 
+2 A & V1 read asa-; M1, M ̧, 
 1 
-Ms, M, & My read Aः 
+Ms, M, & My read A- 
 3 M – सिद्ध 
 - 
 4 PM, M2, M3, M., M., My, B, V,, A 
@@ -3268,7 +3322,7 @@ See the verse "tasmādasti madillie ", etc., following.
 1 Cf. Prakaranapañcikā II. 24, p. 14- 
 shankyamAnAyatharthatva-racanam tena pumvacaḥ   
 śruta-mātrakam evārthe na tavan niścayāvaham ॥  
-Also vide ibidः $1. 36, p. 15-  
+Also vide ibid- $1. 36, p. 15-  
 arthenaiva višeṣo hi  
 nirākāratayā dhiyāṁ ।  
 na cApratitenarthena  
@@ -3423,7 +3477,7 @@ Cf. Slokavārtika under I. 1.2; $1. 111b-
 • 
 * यः पनिः प्रमाणैस्स्यात् सर्वज्ञः, केन वार्यते ? ' 
 Svetāsvatara- III. 19. 
-ः Kenopanisat- I. 6a; but the reading found is- 
+- Kenopanisat- I. 6a; but the reading found is- 
 "यश्चक्षुषा न पश्यति, येन चक्षूंषि पश्यति " । 
 $ Svetāsvatara- VI. 8. 
 ८२ 
@@ -3460,7 +3514,7 @@ Mg - यागाद्ये
 + शब्दप्रमाणापेक्षया अनुमानस्य दौर्बल्यमेव । शाब्दं ज्ञानं शीघ्रतरम् । व्याप्तिज्ञानानन्तरलब्धप्रतिष्ठस्या- नुमानस्य मन्थरप्रवृत्तिरेवेति भावः । 
 f See p. 47 above for the Mimāmsaka's argument. The illustration of the arthavāda- "ādityo yūpah” [Taittiriya Brāhmana- II-i-5-2] was put forth there. This view is now being refuted. 
 The figurative statement "adityo yūpaḥ "is made on the ground of simi- larity of brightness ( tejasvitva) between the Sun and the sacrificial post. The relevant sūtra is " sārupyat " [ Pūrvamimāmsā- I. iv. 25 ]. 
-§ The rk to be repeated while anointing the yupa with ghee isः "añjanti tvāmadhvare devayantah " ( Taittiriya Brāhmana- VIii. p. 142 ). For the deri- vation of the term yūpa, see ibidः VI-i, the opening part. 
+§ The rk to be repeated while anointing the yupa with ghee is- "añjanti tvāmadhvare devayantah " ( Taittiriya Brāhmana- VIii. p. 142 ). For the deri- vation of the term yūpa, see ibid- VI-i, the opening part. 
 गदाऽऽहुः- 
 इति, तन्न । 
 सिद्धान्ते भाहमत निरासः 
@@ -3496,7 +3550,7 @@ T
 To be identified. 
 Note the way in which Yamuna connects the previous discussion with 
 the main theme, viz, the validity of the Pāñcarātra-texts, based upon the author- ship of Narayana, the Supreme and Omniscient Being. 
-A Cf Mundakaः III-ii-9- 
+A Cf Mundaka- III-ii-9- 
 1 Cf. Taittiriya- Hi-1- 
 66 
 "ब्रह्मवेद ब्रह्म भवति " 1 
@@ -3579,7 +3633,7 @@ M1, M2, M, M,, My, B - त्रयी-
 शरीरः सुविशुद्धबोधः 
 A, B, M, – यतश्चैतेन 
 0 
-10 My has a lacunaः प्रतिप तथाहि 
+10 My has a lacuna- प्रतिप तथाहि 
 'P. PM 
 न्यान्गणम् 
 "P. PM, T, M - मौम्य 
@@ -3587,11 +3641,11 @@ HT
 11 M2, My, B— प्रतिपाद्यामहे 
 out and as such, the importance of this part of the text need not be overempha- Mined. It indicates the way at least, in which the author had dealt with this equation in the work. 
 , 
-Mahdnardyanaः XI. 4 f Taittiriya- II-i-1. 
-Yajurvedaः VI- 5; also Kathopanisat- III-9. 
+Mahdnardyana- XI. 4 f Taittiriya- II-i-1. 
+Yajurveda- VI- 5; also Kathopanisat- III-9. 
 1 To be traced out. 
 This appears in the Ayusyasūkta, beginning with " यो ब्रह्मा ब्रह्मण उपहार ". The tending found is " एकः पुरस्ताद्य इदं बभूव ". It appears on folio 15 b of palm-leaf mv.in Grantha, under R. No. 657, deposited in the Govt. Or. Mss. Library, Madras, and also on folio 42 a of another p.l. ms. in Grantha, R. No. 67 from the same library. 
-11 Svetāsvatara III-9; Taittiriyaः III-i-1; §§ Chāndogya- VI-ii-1. 
+11 Svetāsvatara III-9; Taittiriya- III-i-1; §§ Chāndogya- VI-ii-1. 
 $ Cf. Brahmasūtra 1-i-2- "जन्माद्यस्य यतः " ।૨૧ 
 आगमप्रामाण्ये 
 S' विष्णी जगत् स्थितं सर्वमिति विद्धि परन्तप । सृजत्येष महाविष्णुः । भूतग्रामं चराचरम् ॥ एष चाक्षिपते काले काले विसृजते पुनः । अस्मिन् गच्छन्ति विलयमस्माच्च प्रभवन्त्युत ॥ ' +' अनादिनिधनः श्रीमान् मुनिर्नारायणः प्रभुः । सवै सृजति भूतानि स्थावराणि चराणि च ॥ *1 स ब्रह्म परमं चे 'ति तथाऽन्यत्रापि पठ्यते ' । 'केशवो भरतश्रेष्ठ ! भगवानीश्वरः परः ॥ पुरुषस्सर्वमित्येतत् श्रूयते बहुधा श्रुतौ । इति । 'तत्त्वं जिज्ञासमानानां हेतुभिस्सर्वतोमुखैः । तत्त्वमेको महायोगी हरिर्नारायणः प्रभुः ॥' इति । 
@@ -3605,7 +3659,7 @@ S' विष्णी जगत् स्थितं सर्वमिति �
 2 My has a gap चाक्षि... काले 
 3 Mg - तस्मिन् 
 4 M adds मध्य 
-M, omits faः 
+M, omits fa- 
 6 M, तथाऽन्यत्र च कीर्त्यते 
 7 M1, M, इत्यादौ 
 - 
@@ -3618,9 +3672,9 @@ B Mg omits किम्
 14Mg, Mg - आस्थानिनो 
 15 Mg - मत्स्ययोः 
 f Mahābhārata ( Cr. edn ) XII. 271 7-8 Variant- महाबाहो for महाविष्णुः । 
-† Ibid. XII. 271. 19. Variantः eftः for gfः I 
+† Ibid. XII. 271. 19. Variant- eft- for gf- I 
 * Ibid. XII. 28.26 b. Variant परमो for परमं । 
-ff Ibid. XII. 2005. Variantsः प्रभुः for परः; इत्येव for इत्येतत् विभुः for श्रुतौ । 
+ff Ibid. XII. 2005. Variants- प्रभुः for परः; इत्येव for इत्येतत् विभुः for श्रुतौ । 
 ↑ Ibid. XII. 335. 83b-84a. 
 §§ To be identified. 
 सिद्धान्तः 
@@ -3654,7 +3708,7 @@ Mahabharata XII. 339.14. Variants- नित्यं for नित्यो; �
 1 
 To be traced out. 
 1 Ch. 73. 1. 52. 
-Lingapuraṇaः uttarabhagaः Ch. I. śl. 7b-8a. There the reading is- 
+Lingapuraṇa- uttarabhaga- Ch. I. śl. 7b-8a. There the reading is- 
 " 4 एकः पुरुषश्रेष्ठः परमात्मा जनार्दनः । यस्माद्ब्रह्मा ततस्सर्वं समाश्रित्यैव मुच्यो ॥ " 
 ॥ Visņapurána- I. 1. 35. The remainder of the sloka is- ' जगतोऽस्य जगच सः ' 
 ८८ 
@@ -3809,13 +3863,13 @@ The followers of the Māheśvara Doctrine are fourfold Saivas, Pasupatas, Kāpil
 f See M. R. Sakhare, Lingadhāranacandrikā, pp. 331-332- 
 66 
 । 
-“ In the Vāyupurana (ch. 23 ) and the Lingapurāna ( ch. 24 ) it is said that Maheśvara told Brahma that when Vasudeva is born, he would incarnate himself as a Brahmacarin by the name of Lakulin and that Lakulin would have four pupils of names Kushika, Garga, Mitra and Kaurushya, these would be Pasupatas. The refutation of the Pasupata system is found in the Brahmasutraः "patyurasāmañjasyāt" (II. ii. 37). 
+“ In the Vāyupurana (ch. 23 ) and the Lingapurāna ( ch. 24 ) it is said that Maheśvara told Brahma that when Vasudeva is born, he would incarnate himself as a Brahmacarin by the name of Lakulin and that Lakulin would have four pupils of names Kushika, Garga, Mitra and Kaurushya, these would be Pasupatas. The refutation of the Pasupata system is found in the Brahmasutra- "patyurasāmañjasyāt" (II. ii. 37). 
 From all this it appears that the Pasupata school was founded by Lakulisa (the holder of lakula or lakuta - a club or staff). This Lakulisa (also called Nakulīśa) is the last of the 28 incarnations of Śiva as mentioned by the Puránas. This has been confirmed by inscriptions too. " 
 The Kālāmukhas and Kāpālikas were two different sects of the Mahe- śvaras. Dr. Bhandarkar (in his Saivism and Vaisnavism, etc., p. 183), identi- fies the Kālāmukhas with Mahāvratadharas on the authority of Sivapurāṇa but M. R. Sakhare, on the evidence of a Jain author, states that the Kāpālikas but not the Kālāmukhas were the same as Mahāvratadharas (pp. 344 f.). 
 The Kālāmukhas, according to T. A. Gopinatha Rao (Elements of Hindu Iconography, Vol. II, p. 26), were so called as they marked their forehead with black streak and were said to be the offspring of " nara” and “ rāksasa ' 
 parents. 
 "The Kāpālika system is very ancient since it is mentioned in the Maitri Upaniṣad ( ‘atha ye cānye ha vrthā kaṣāyakundalinah kapālinah ) " [ Linga- dhāranacandrikā, p. 344]. 
-" The allegorical drama, Prabodhacandrodaya of Krsnamiśra ( III. 12, 13 ) introduces a Kāpālika, who describes himself and his practices as followsः 
+" The allegorical drama, Prabodhacandrodaya of Krsnamiśra ( III. 12, 13 ) introduces a Kāpālika, who describes himself and his practices as follows- 
 नरास्थिमालाकृत चारुभूषणः 
 स्मशानवासी नृकपालभोजनः । 
 पश्यामि योगानशुद्धचक्षुरा 
@@ -3901,11 +3955,11 @@ Also see ibid-
 " एवं ग्वान्तं कार्य कारणं योगो विधिरिति पञ्चैव पदार्थाः समासत उद्दिष्टाः । " 
 Vide Indian Philosophy, Vol. I, p. 489- 
 " The flve categories are- 
-1 Karana or Causeः The Cause is the Lord, the Pati, the Eternal ruler, who creates, maintains and destroys the whole existence. 
-2 Kānya or Effectः It is what is dependent on the cause. It includes knowledge or vidya, organs or kala and individual souls or paśu. All know- ledpe and existence, the five elements and the five qualities, the five senses and the five organs of actions and the three internal organs of intelligence, egoism and mind are dependent on the Lord. 
-Yoga or Disciplineः It is the mental process by which the individual soul gains God. 
-Aidhi or Rulesः It relates to the practices that make for righteousness. 
-5 Duḥkhānta or the end of miseryः It is final deliverance or destruc- tion of misery and obtaining an elevation of spirit, with full powers of Know- Iedge and Action. " 
+1 Karana or Cause- The Cause is the Lord, the Pati, the Eternal ruler, who creates, maintains and destroys the whole existence. 
+2 Kānya or Effect- It is what is dependent on the cause. It includes knowledge or vidya, organs or kala and individual souls or paśu. All know- ledpe and existence, the five elements and the five qualities, the five senses and the five organs of actions and the three internal organs of intelligence, egoism and mind are dependent on the Lord. 
+Yoga or Discipline- It is the mental process by which the individual soul gains God. 
+Aidhi or Rules- It relates to the practices that make for righteousness. 
+5 Duḥkhānta or the end of misery- It is final deliverance or destruc- tion of misery and obtaining an elevation of spirit, with full powers of Know- Iedge and Action. " 
 For a more detailed explanation of these categories, see Lingadhāraṇa- conditha, pp. 351-57.१६ 
 भागमप्रामाण्ये 
 * गूढाचारमुख स्मशान+भसितस्नानावसानः परः । 'योगो' धारणमुच्यते हृदि धियामोङ्कारपूर्व, तथा 
@@ -3928,7 +3982,7 @@ omit च
 7 M2 adds a 
 4 Mo—नैवम् 
 * 2- 
-Cf. Pāśupatasūtraः IV. 2- ' गूढवनः ; IV. 3- गूढपवित्रपाणिः '; IV. 4- 'सर्वाणि द्वाराणि पिधाय '; IV. 5- 'बुध्चा' । 
+Cf. Pāśupatasūtra- IV. 2- ' गूढवनः ; IV. 3- गूढपवित्रपाणिः '; IV. 4- 'सर्वाणि द्वाराणि पिधाय '; IV. 5- 'बुध्चा' । 
 , 
 $ Ibid. V. 30- ' स्मशानवासी' 
 ↑ Ibid. I- 2, 3, 4- भस्मना त्रिषवणं स्लायीत', 'भस्मनि शयीत', 'अनुस्नानम्' । 
@@ -4007,9 +4061,9 @@ verse-
 § The ptd. text of the purāṇa has the following line in the place of this 
 । 
 “अल्पायानं दर्शयित्वा मोहयाशु महेश्वर । ” ( ch. 70, sl. 37a ) 
-The ptd. edn. has the following readingः 
+The ptd. edn. has the following reading- 
 " नयसिद्धान्तसंज्ञाभिः मया शास्त्रं तु दर्शितम् । ” ( ch. 70, $1. 41b42a ) 
-$ Ch. 70. śl. 38b-39a. Variant for the second lineः 
+$ Ch. 70. śl. 38b-39a. Variant for the second line- 
 " शास्त्रेपभिरतो लोके बाहुल्येन 
 भवेदतः । " 
 x Ibid sl. 43a. Variant- 
@@ -4045,12 +4099,12 @@ AM, Ma, Ma, M, B - लकुट ; M1 - मकुट 11 M 4, B – एषाम�
 O 
 • To be identified. 
 12 All but Mg कथयति 
-↑ Ch. 70. $1. 40b. Variantः " मां विष्णोः व्यतिरिक्तं ये ब्रह्मणश्च द्विजोत्तम । " The next line ( 4la ) of the purāna may also be noted- 
+↑ Ch. 70. $1. 40b. Variant- " मां विष्णोः व्यतिरिक्तं ये ब्रह्मणश्च द्विजोत्तम । " The next line ( 4la ) of the purāna may also be noted- 
 नमः । 
 g 
 " भजन्ते पापकर्माणिस्ते यान्ति नरकं 
 Ch. 71. 51.40b-41a. Variant for the first line- "जटाभस्म मिथ्याव्रतधरितदा । " 
-$ Ch. 71. sl. 51. Variantः 
+$ Ch. 71. sl. 51. Variant- 
 " कलौ खद्रप्रिणस्सर्वे जटामुकुटधारिणः । 
 स्वेच्छया प्रेतवेषाश्च मिथ्यालिाधराः प्रभो ॥ 
 t Passages to be identified. 
@@ -4111,13 +4165,13 @@ To be traced out.
 OP, PM, T, M1, Mg to M,, A, 
 B & V1, omit च 
 10 M2 omits वि 
-VIII. 8. 1a; also Taittiriyopanisatः 
+VIII. 8. 1a; also Taittiriyopanisat- 
 II. 8. 1a. 
 ५ तस्य मूलभूत वेदवाक्यस्मरणस्येत्यर्थः । 
 · 
 वि यश्कृतं प्रामाण्यं तदेव विस्मर्तु युज्यते ।' 
 1 Cf. Tantravārtika under I. iii. 1, p. 73- 
-X Cf. ibidः 1-iii-1, p. 73- 
+X Cf. ibid- 1-iii-1, p. 73- 
 4 
 "यदि तु प्रलीनशाखा मूलता कप्येत ततरसर्वासां बुद्धादिस्मृतीनामपि तद्वारं प्रामाण्यं प्रसज्यते । यस्यव सतत् प्रलीनशाखामस्तके निक्षिप्य प्रमाणीकुर्यात् । अथ विद्यमानशाखागता एवैतेऽर्थाः, तथापि बस पुरुषास्ता एवोपलप्स्यन्ते । युक्ततरा च स्वाध्यायाध्ययनविधेः साक्षाद्वेदादेव प्रतीतिरिति स्मृति- मणवनवे यस्मात् " । 
 १०२ 
@@ -4146,7 +4200,7 @@ X Cf. ibidः 1-iii-1, p. 73-
 M-प्रमाणम् 
 My omits and adds f 
 3 Mg omits ताः; M1. M2, M, & B 
-read gaः, for ga alः 
+read ga-, for ga al- 
 6 My reads तदेतत् for तत् 
 7 My omits a 
 Ma 
@@ -4185,7 +4239,7 @@ Cf. Sribhasya under II-ii- 42, p. 831-
 न चैतेषु समस्तेषु संशयेन विना कचित् । 
 श्रेयोमार्ग प्रपश्यामि येन सिद्धिर्भविष्यति ॥ इति ।" [ I. 3, 4] 
 † Vide Sābarabhāsya under II- iv - 20, p. 139, lines 27 & 28. 
-+ Aitareya Brāhmanaः V-31-6. 
++ Aitareya Brāhmana- V-31-6. 
 Cf. also Taittiriya Brāhmana II. 1. 27- " यदनुदिते सूर्ये प्रातर्जुहुयात् उभयमेषात्रेय बुदिते सूर्ये प्रातर्जुहोति । " 
 * " ऋग्वेदो देवदैवत्यो' यजुर्वेदस्तु मानुषः । 
 सामवेदस्तु पित्र्यः स्यात्, तस्मात्तस्याशुचिर्ध्वनिः " ॥ इति सामवेदनिन्दा इतर वेद' प्रशंसार्था; यथा वा भारते ' 
@@ -4343,7 +4397,7 @@ kaivalyaphaladāpyekā bhogaikaphaladā parā
 bhogadaiva tṛtiyā ca prabuddhānāṁ sadaiva hi ॥ 
 Ch. XIX of this agama deals with Dikṣa in detail. 
 Also see Parama Samhitā XXXI. 53- 
-tisro dīkṣaḥ kṛtā yena vaiṣṇavena tapasvinā । sa eva vaiṣṇavaṁ jñānamakhilam śrotumarhati ॥ Ibid. XXVII. 41bः 
+tisro dīkṣaḥ kṛtā yena vaiṣṇavena tapasvinā । sa eva vaiṣṇavaṁ jñānamakhilam śrotumarhati ॥ Ibid. XXVII. 41b- 
 evaṁ dikṣāṁ tridha bhinnām uttarottarabhūyasīṁ । Also cf. ibid. VIII. 3- 
 sā tu bhaktivaśāt nṛṇāṁ triṣu karmasu niṣṭhitā । 
 prathamaṁ samaye paścāt tantrajñāne tato' rcane 11 
@@ -4395,7 +4449,7 @@ A, omit इदम्
 Yamuna holds Vyāsa, the author of the Mahābhārata to be one with Badarayana, the author of the Brahmasutra. 
 5 Brahmasutra II. ii. -39. 
 4 
-The 'purvapakṣa' arguments advanced here are those made by Sankara- See his commentary on the four sutras comprising the Utpattyasambhava or the ' Pañcarūtra ' sectionः Brahmasūtra II. ii. 42-45. 
+The 'purvapakṣa' arguments advanced here are those made by Sankara- See his commentary on the four sutras comprising the Utpattyasambhava or the ' Pañcarūtra ' section- Brahmasūtra II. ii. 42-45. 
 kuta. 
 " 
 $ ' इत्यम्' इति शेषः । 
@@ -4422,7 +4476,7 @@ Cf. Sankara under Brahmasutra II. ii. 42-
 
 सत्यमस्ति My reads नानेन वचनेनेह जीवं मत्वाऽभिधीयते 
 6P, PM, T, A, Ms, Mg & V1 read तत्र संव्यवहारार्थं जीवशब्दः प्रयुज्यते; Mg omits this and the preceding line. 
-ः 
+- 
 
 Cf. Ahirbudhnya Samhitā, ch. V- 
 vyūhā ete viśālākṣāścatvāraḥ puruṣottamāḥ । 
@@ -4438,7 +4492,7 @@ This Samhita thus clarifies that the four-fold manifestation of the Supreme Lord
 This four-fold manifestation has got a purpose, says the Sattvata Samhitā, namely, facilitating the worship by the four castes, Brāhmana, Kṣatriya, Vaiśya and Sūdra, respectively. 
 It is only the Brāhmaṇa that is entitled to worship all these four mani- festations of God, viz., Vasudeva, Sankarsana, Pradyumna and Aniruddha. For the remaining castes, however, only particular forms of God are ordained for worship For further details, see the Sāttvata Samhitā ch. VII. 
 यथाssहुः- 
-fegirà stanzasenfqferenzः 
+fegirà stanzasenfqferenz- 
 111 
 "वर्णैश्चतुर्भिः चत्वारः पूजनीया यथाक्रमम् ।” इति । 
 Cf. the following passages from the Sattvata Samhitā - 
@@ -4521,7 +4575,7 @@ tive
 4 
 B—नाभ्युपेषि 
 13 
-M, has only one line instead of this and the preceding lineः 
+M, has only one line instead of this and the preceding line- 
 ' अथ श्रु 
 9 M2 - श्रुति 
 इदं किं नाभ्युपैषिभो ' 
@@ -4549,7 +4603,7 @@ $ Mundakopanisat II-1-3.
 * 
 "" 
 • 
-Yamuna here pleads for the validity of the Pañcaralragamas on the ground that they, like the Vedas, are based upon knowledge that is free from all defects. Cf. the inferential statement made by Yamuna aboveः 
+Yamuna here pleads for the validity of the Pañcaralragamas on the ground that they, like the Vedas, are based upon knowledge that is free from all defects. Cf. the inferential statement made by Yamuna above- 
 १५ 
 vivādādhyāsitam tantram pramāṇamiti gṛhyatām । nirdoṣajñānajanmatvāt jyotiṣṭomādivākyavat 
 $ Cf. Sankara on II. ii. 44. 
@@ -4833,9 +4887,9 @@ M1, M2, M2, My, Bomit कल्पे
 12 Mg omits ना, to the detriment of 
 metre 
 13 PM reads as one wood 
-↑ Vide Brahmasūtraः IIii. 40. 
+↑ Vide Brahmasūtra- IIii. 40. 
 $ ' यत्र कापि क्रियायामिति शेषः । 
-1 Cf. Brahmasūtraः IIii.42. 
+1 Cf. Brahmasūtra- IIii.42. 
 4 
 ॐ सिद्धान्तसूत्रद्वयस्य - 'विज्ञानादिभावे वा तदप्रतिषेधः विप्रतिषेधात्' इति मुत्रद्वयस्येति भावः । 
 १] 'विज्ञानादेः' ब्रह्मण इत्यर्थः । 
@@ -5077,7 +5131,7 @@ t Ibid. 67b.
 ० 
 21 M & B - प्रतिष्ठतीति 
 4 
-ः 
+- 
 To be identified.१९ 
 मानमप्रामान्ये 
 अथ योग्यानुपलम्भादेवानायाससिद्धे वक्त्र भावे', निरा- श्रयदोषाणामसम्भवात् ' अप्रामाण्यशङ्केव वेदे नास्तीति चेत्; यथाऽऽहुः- 
@@ -5100,7 +5154,7 @@ following para.
 9 M1, M2, M, M.,, My - सर्वज्ञ सर्वेश्वर - 
 वक्तृकत्व' 
 10 All except Mo - तदाधाराभाव 11 Mo - तद्विरोधि 
-†The similarity of status between the Vedas and the Agamas, according to Yamuna, lies in the fact that both of them are understood to be free from the defects that generally stand in their way. The way in which this faultlessness is understood, however, differs between the Vedas and the Agamas. As regards the Vedic texts, there being no author (apauruṣeya), there is no question of any defect ever appearing at all. As regards the Pañcarātrāgamas too, there could be no question of any defect ever arising, on the ground that they are the direct utterances of Vasudeva, the Omniscient Supreme Lord of the Universe. This is what Yamuna explains in the succeeding paraः "etaduktam bhavati" etc. 
+†The similarity of status between the Vedas and the Agamas, according to Yamuna, lies in the fact that both of them are understood to be free from the defects that generally stand in their way. The way in which this faultlessness is understood, however, differs between the Vedas and the Agamas. As regards the Vedic texts, there being no author (apauruṣeya), there is no question of any defect ever appearing at all. As regards the Pañcarātrāgamas too, there could be no question of any defect ever arising, on the ground that they are the direct utterances of Vasudeva, the Omniscient Supreme Lord of the Universe. This is what Yamuna explains in the succeeding para- "etaduktam bhavati" etc. 
 प्रकारान्तरेण सूत्रविचारः 
 L 
 मापेक्षनिरपेक्षत्वे न हि बाधस्य कारणम् । शुक्तौ रजतबोधस्य निरपेक्षस्य बाधकम् ' । 
@@ -5154,13 +5208,13 @@ $ Mahābhārata, XII. 337 63a. Variant- cf. ibid sl. 63b-64a-
 'सर्वेषु च नृपश्रेष्ठ ज्ञानेश्वेतेषु दृश्यते ॥ 
 यथागमं यथाज्ञानं निष्ठा नारायणः प्रभुः । ' 
 वक्ता तु भगवान् स्वयम् । Also 
-Quoting the line- पचरात्रस्य कृत्यस्य ' etc. in his Sribhāsya II. ii. 42 (p. 834 ), Ramanuja saysः 
+Quoting the line- पचरात्रस्य कृत्यस्य ' etc. in his Sribhāsya II. ii. 42 (p. 834 ), Ramanuja says- 
 " 
 पञ्चरात्रतन्त्रस्य वक्ता नारायणः स्वयमेवेत्युक्तवान् । एवं वदतश्चायमाशयः । पौरुषेयाणां हि तन्त्राणां परस्परविरुद्धवस्तुवादितया, अपौरुषेयत्वेन निरस्तप्रमादादि निखिल दोषगन्धवेदवेद्यवस्तुविरुद्धाभिधायित्वाच्च यथा- वस्थित वस्तुनि प्रामाण्यं दुर्लभम् । वेदवेद्यश्च परब्रह्मभूतो नारायणः । अतः तत्तत्तन्त्राभिहितप्रधानपुरुष पशुपतिप्रभृति- तश्वस्य वेदान्तवेद्यपरब्रह्मभूतनारायणात्मकतयैव वस्तुत्वमभ्युपगमनीयमिति । अतो वेदान्तवेद्यः परब्रह्मभूतो नारायणः स्वयमेव पश्चरात्रस्य कृत्स्त्रस्य वक्तेति तत्स्वरूप तदुपासनाभिधायि तत्तन्त्रमिति च तस्मिन्नितरतन्त्रसामान्यं न केन विदुद्धावयितुं शक्यम् । " 
 " 
 t Mahābhārata, XII. 326, 100-101. 
 ...... 
-Discussing the position of the Pañcarātra with reference to the Upanisads, Dr. D. L. De in his article " Pāñcarātra and the Upanisads" [Indian Historical Quarterly, Vol. IX ], p. 648, saysः 
+Discussing the position of the Pañcarātra with reference to the Upanisads, Dr. D. L. De in his article " Pāñcarātra and the Upanisads" [Indian Historical Quarterly, Vol. IX ], p. 648, says- 
 प्रकारान्तरेण सूत्रविचारः 
 * सांख्ययोगकृतान्तेन पिञ्चरात्रानुशब्दितम् ॥ ६ नारायणमुखोद्गीतं नारदोऽश्रावयन्मुनीन् । ब्रह्मणस्सदने तात ! यथादृष्टं यथाश्रुतम् ' ॥ 
 'M,, M, add f 
@@ -5326,7 +5380,7 @@ S' विप्रतिषेधात् ' इति । एवं च -
 short of one syllable. 
 • M – देवयोः 
 - 
-Commenting upon the verse " evamekam" in his Śrībhāsya under II. ii. 39 (p. 834), Rāmānuja saysः 
+Commenting upon the verse " evamekam" in his Śrībhāsya under II. ii. 39 (p. 834), Rāmānuja says- 
 " सांख्यं च योगश्च सांख्ययोगम् । वेदाश्चारण्यकानि च वेदारण्यकम् । परस्पराङ्गान्येतानि, एकतश्व प्रतिपा- दनपरतयेकीभूतानि एकं पञ्चरात्रमिति कथ्यते । एतदुक्तं भवति – सांख्योक्तानि पञ्चविंशतितत्त्वानि । योगोक्तं च यमनियमाथात्मकं योगम् । वेदोदितकर्म स्वरूपाण्यङ्गीकृत्य तत्वानां ब्रह्मात्मकत्वं योगस्य च ब्रह्मोपासनप्रकारत्वं कर्मणां च तदाराधनरूपतामभिदधति । कर्मस्वरूपं प्रतिपादयन्त्यारण्यकानि । एतदेव परेण ब्रह्मणा नारायणेन स्वयमेव पचरात्र- तन्त्रे विशदीकृतमिति । शारीरके च सांख्योक्ततत्स्वानाम ब्रह्मात्मकतामात्रं निराकृतम्, न स्वरूपम् । योगपाशुपत योश्च ईश्वरस्य केवलनिमित्तकारणता, परावरतत्र विपरीत कल्पना, वेदबहिष्कृता चारो निराकृतः ; न योगस्वरूपं, पशुपतिस्वरूपं च । अतः 'सांख्यं योगः पञ्चरात्रं वेदाः पाशुपतं तथा । आत्मप्रमाणान्येतानि न हन्तव्यानि हेतुभिः' इति तत्तदभि- हिततत्तत्स्वरूपमाश्रमङ्गीकार्यम् । जिनसुगताभिहिततत्त्ववत् सर्वं न बहिष्कार्यमित्युच्यते । ' यथागमं यथान्यायं निष्ठा नारायणः प्रभुरित्यनेनैकार्थ्यात् । " 
 Also see Collected Works of Sir R. G. Bhandarkar (Bhandarkar Oriental Research Institute, 1933 ), Vol. I, pp. 248 294 for an article The Rāmānujiya and the Bhagavata or Pañcarātra systems'. 
 昨 
@@ -5381,7 +5435,7 @@ metre.
 2 Mg reads “कामत्वम् 
 3 M 1 - दूष्यते 
 4 PM reads वाप्यधीतता 
-5 M,-ः 
+5 M,-- 
 6 Mg reads अधिकम् 
 17 M1, Mg - प्रयुज्यते 
 8M1, M2, M, M,, My, B, PM- मुच्यते 
@@ -5417,9 +5471,9 @@ Cf. Tantravārtika I. iii. 3, p. 85-
 'लोकायतिकमूर्खाणां नैवान्यत् कर्म विधते । 
 यावत् किञ्चिददृष्टार्थं तत् दृष्टार्थ हि कुर्वते ॥ 
 , 
-++ Manusmrti II. 172a. The reading found isः 'नाभिव्याहारयेत्' etc. A wlmilur statement is found in the Gautama Dharmasūtra II. 9- 'न ब्रह्माभिव्याहारयेत्' 
+++ Manusmrti II. 172a. The reading found is- 'नाभिव्याहारयेत्' etc. A wlmilur statement is found in the Gautama Dharmasūtra II. 9- 'न ब्रह्माभिव्याहारयेत्' 
 Mc. 
-5 Bhatta Medhātithi, commenting upon Manusmrti XII. 95, quotes from Some unidentified sourceः 
+5 Bhatta Medhātithi, commenting upon Manusmrti XII. 95, quotes from Some unidentified source- 
 ' नोदनाः चैश्यवन्दनतः स्वर्गो भवति । ' 
 १० 
 १३८ 
@@ -5507,7 +5561,7 @@ For the annual festival called Mahotsava, see Aniruddha XXI. 1-112; Iśvara X; P
 Pūrvamimāmsā Iiii. 7. 
 + See p. 17 above, " एवं जात्या " & c. 
 § The Ekāyanaśākhā belongs to the Sukla Yajurveda. $ Cf. Apastambasrautasutra V. 3. 19. 
-+ Maitrāyani Samhitā [ed Dr. Leopold V. reading found isः " तया निषादस्थपतिं याजयेत् सा हि तस्येष्टि- " nyāya see Sabara on Pūrvamimāmsā VI. 1. 51, 52. 
++ Maitrāyani Samhitā [ed Dr. Leopold V. reading found is- " तया निषादस्थपतिं याजयेत् सा हि तस्येष्टि- " nyāya see Sabara on Pūrvamimāmsā VI. 1. 51, 52. 
 Schroeder ] II. 2.4. The 
 For the Nisādasthapati - 
 सिद्धान्त 
@@ -5537,7 +5591,7 @@ Ma
 10PM, M, B – पलाश 
 - 
 11 M3 – ह्मण्ये 
-12 A reads faः 
+12 A reads fa- 
 13 T records a variant साधकम 
 14 A—° अत्र 
 - 
@@ -5817,7 +5871,7 @@ $ See " रुख्या” etc., p. 12 above.
 (i) सत् ब्रह्म, सत्वं वा तद्वन्तः सारवन्तः, मझविधाः सात्त्विका वा; तेषामिदं कर्म शास्त्र पा शाश्वतम्, तस्कुर्वाणाः, तदाचक्षणाश्च वा । 
 (ii) सातयति सुखयस्याश्रितान् इति सात् परमात्मा; स एतेषामस्तीति वा सास्वताः । सारयन्ती 
 महाभागवताः । 
-The Mahābhārata, Asvamedhikaparvan [ Vavilla edn., Vol. XVIII । ch. 124, 18. 33-37 speaks in favour of the brahmanical status of the Bhagavatasः 
+The Mahābhārata, Asvamedhikaparvan [ Vavilla edn., Vol. XVIII । ch. 124, 18. 33-37 speaks in favour of the brahmanical status of the Bhagavatas- 
 १५० 
 - 
 आगमप्रामाण्ये 
@@ -5873,14 +5927,14 @@ tt To be identified.
 11 Mg, Mo & B -योगिकस्वे 
 12 M1, M, रथकारण 
 Vide Journal of Royal Asiatic Society, ( 1911), p. 948- 
-The Pañcakāla or Five-Time-observances enjoined on a Bhagavatu nre- (i) abhigamana- morning prayer, abluting etc., (ii) upādānaः fetch- ing articles of worship, (iii) ijyā- divine worship, (iv) svādhyāya- study 
+The Pañcakāla or Five-Time-observances enjoined on a Bhagavatu nre- (i) abhigamana- morning prayer, abluting etc., (ii) upādāna- fetch- ing articles of worship, (iii) ijyā- divine worship, (iv) svādhyāya- study 
 of the sacred lore and (v) yāga or yoga- divine meditation. 
 The day, from 4 a.m. to 10 p.m. is to be divided into five divisions for each of these acts. Cf. Pādmasamhitā - Caryāpāda- XIII- 3-4a- 
 + 
 " ādyari karmābhigamanamupādānamatah param । 
 ijya ca paścāt svādhyāyastato yogastataḥ paraṁ ॥ 
 pañcaite vidhayasteṣām kālāḥ pañcaiva te kramāt " 
-For a definition and explanation of these five terms, see ibidः sl. 4b, ff. 
+For a definition and explanation of these five terms, see ibid- sl. 4b, ff. 
 " Graha ", Camasa", etc., are the names of cups into which vma-juice is poured during a sacrifice. Cf. Sabara on Pūrvamimāmsd- III.i. 16, p. 158- “ grahādi somapātram". 
 t See p. 12 above for the pūrvapaksa. 
 & Cf. Apastambasrautasutra, V. 3.19. 
@@ -6378,7 +6432,7 @@ Cf. Sāttvatasamhita, ch. 17, sls. 423-424-
 • 
 Visnudharma ( of Bhavisyapurāna ), Saunakiya, ch. 92. 61. 32a- 
 नैवेथं स्वयमश्नीयात् मौनीत्येतदुदङ्मुखः । ' 
-Cf. Pūjāsangraha (ms.) folio 90bः 
+Cf. Pūjāsangraha (ms.) folio 90b- 
 " स्वयं वापि तदश्नीयात् सर्वपापविशुद्धये ।' 
 Vedānta Desika quotes from ननु upto यधानुज्ञानवन्मत्वं etc., below, in his Saccaritraraksā, p. 93. 
 १६० 
@@ -6449,7 +6503,7 @@ f See p. 14 above for pūrvapaksa. Vedánta Desika quotes from here upto the end
 + Desi ka quotes from here upto the end, in his Pañcarātraraksa, p. 95. 
 § See Kātyāyanagrhyasūtra ( ms ), p. 25ff for samskāras. 
 ** अननुष्ठानात् हेतोरिति भावः । 
-$ Cf. the following quoted in the Pañcarātraraksā, p. 110, us from the Pāramesvarasaṁhitâः 
+$ Cf. the following quoted in the Pañcarātraraksā, p. 110, us from the Pāramesvarasaṁhitâ- 
 " निषेकादींश्च संस्कारान् स्वसूत्रोक्तान् समाचरेत् । 
 पत्रोदितान् वापि ये स्ववंश्यैरनुष्ठिताः ॥ ” 
 Cf. also Ausanasa Dharmasdstra (Smrtīnām Samuccayaḥ, Anandasrama Sanskrit Series 48 ), I, 48- 
@@ -6526,10 +6580,10 @@ APPENDIX
 वस्तुतामुपयातोऽहं यामुनेयं नमाम्यहम् ॥ 
 श्रीरंगनाथाय नमः । 
 आगमप्रामाण्यम् । 
-3. Manuscript "M," begins with the followingः 
+3. Manuscript "M," begins with the following- 
 6 
 यत्पदाभोरुहध्यानविध्वस्ताशेष कल्मषः । वस्तुतामुपयातोऽहं यामुनेयं नमामि तम्' ॥ श्रीमबेट वरदताताचार्य महागुरवे नमः । 
-It ends with the followingः 
+It ends with the following- 
 यत्पदाभोरुहध्यान विध्वस्ताशेषकल्मषः । वस्तुतामुपयातोऽहं यामुनेयं नमामि तम् ॥ हरिः ओम । रौद्रवर्षे सिंहशुक्ल नवम्यां भृगुवामरे । इदमागमसिद्धान्तप्रामायं लिखितं मया ॥ ग्रन्थोऽयं वेदकोटीररामावरजतावतः । तातदासस्य नान्यस्य लेखनं तत्र विद्यते ॥ यदि चेद्वीक्षणेच्छात्र सतां सन्दर्भसंशये । वीक्ष्य पश्चात्प्रदातव्यं नापहर्तव्यमंजसा ॥ यदि चेदपहर्ता स्यात् कश्चिदस्य विमूढधीः । प्रेत्य चण्डालतां प्राप्य मूकस्वमपि गच्छति ॥ तस्मात् सन्देहसन्दर्भवीक्षणेच्छा भवेदि । वीक्ष्य पश्चात्प्रदातव्यं नापहर्तव्यमंजसा ॥ यादृशं पुस्तकं दृष्ट्वा तादृश लिखितं मया । अबद्धं वा सुबद्धं वा मम दोषो न विद्यते ॥ 
 4. Manuscript " M2" begins with- शुभमस्तु । It ends with the following- 
 आगमप्रामाण्यं सम्पूर्णम् । शुभमस्तु । 
@@ -6545,7 +6599,7 @@ APPENDIX
 करकृतमपराधं क्षन्तुमईन्ति सन्तः ॥ हरिः ओम् ॥ आगमप्रामाण्यं समाप्तम् ॥ 
 7. Manuscript " Mg ” starts with the following verse- 
 वाधूलवेंकटाचार्यमस्मदाचार्यमन्वहम् । प्रपद्ये यत्कटाक्षेण सत्तां प्राप्तोऽस्म्यहेतुना ॥ 
-It ends with the followingः 
+It ends with the following- 
 शुभकृद्वर्षे गतवति भगवति दिवसेश्वरे वृषभम् । शुक्लाष्टम्यां श्रीनिधिरेतत्कृतिलेखनं समापितवान् ॥ सेवे हरिमेवेतर देवेडितमुद्यद्रा ( ) शोकाधिकृदाकारमुखं यः । 
 पादानतमोदाधिकभूदानिखिलानाम् । सृष्टालसदष्टापदरुष्ट ।त्मपटुश्रीः ॥ 
 श्रेयस्स मे दिशतु भूयः श्रियः पतिरमेयः । क्षमादिगुणैर्यः कठोरहृदनेयः । 
@@ -6589,11 +6643,11 @@ APPENDIX
 श्रीरामानुजमाश्रये मुनिवरं क्षीराब्धिकन्याप्रिया- 
 पारावरकृपापदं सरसिजाकाराधिकाक्षिद्वयम् । 
 धीरात्मीयवचोजितप्रतिभटं कुराधिनाथादिभिः 
-8. Manuscript "M," starts with the followingः 
+8. Manuscript "M," starts with the following- 
 श्रीमते वेदान्तगुरवे नमः । श्रीमते हयग्रीवाय नमः । श्रीमते रामानुजाय नमः । शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम् । प्रसन्नवदनं ध्याये सर्वविघ्नोपशान्तये ॥ 
 यस्य द्विरदवक्त्राद्याः पारिषद्याः परश्शतम् । विघ्नं निघ्नन्ति सततं विष्वक्सेनं तमाश्रये ॥ विशुद्धविज्ञानघनस्वरूपं विज्ञान विश्राणनबद्ध दीक्षम् । 
 दयानिधि देहभृतां शरण्यं देवं हयग्रीवमहं प्रपद्ये ॥१७६ 
-It ends with the followingः 
+It ends with the following- 
 APPENDIX 
 हरिः ओम् । श्रीमते रामानुजाय नमः । 
 9. Manuscript " M, " has no beginning and it ends with the following- 

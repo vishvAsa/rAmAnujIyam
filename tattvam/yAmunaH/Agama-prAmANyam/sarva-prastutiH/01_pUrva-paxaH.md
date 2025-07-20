@@ -136,7 +136,7 @@ prāmāna has generally been rendered with "means of knowledge," sometimes with 
 वक्तुस् तद्-अर्थ-सिद्धिम् अनुरुध्यमानम् एव प्रमाण-भावम् अनुभवति ।  
 </details>
 
-## प्रत्यक्षादिभिर् आगोक्तार्थासिद्धिः
+## प्रत्यक्षादिभिर् आगमोक्तार्थासिद्धिः
 ### साधारण-प्रत्यक्षम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2901,7 +2901,7 @@ and therefore equally authoritative as the doctrinal works of Manu' and others.
 प्रामाण्यं प्रतिपद्येत येन मन्वादिशास्त्रवत् ॥
 </details>
 
-## वेदैक-तुल्य-प्रमाणत्वम्?
+## वेद-तुल्य-प्रमाणत्वं न
 ### पूर्व-पक्षः (नैय्यायिकः)
 #### पौरुषेयत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5080,7 +5080,7 @@ by some human being with the purpose of deceiving the world.
 अतो जगन्मोहयितुं प्रणीतं नरेण केनापि हि तन्त्रमेतत् ॥  
 </details>
 
-## ईश्वरे शब्द-प्रमाणम्
+## ईश्वरे शब्द-प्रमाणं न
 ### पूर्वपक्षः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6605,7 +6605,7 @@ just because he is a drinker!
 
 <details><summary>नरसिंहाचार्यः</summary>
 
-केवलं तन्त्रत्व-साम्यम् आदाय यदि पञ्चरात्रम् अपि अवैदिकम् इति वक्तुम् उत्सहसे, तर्हि, ते तव प्रीति-पात्रं सोमपोऽपि, पातृत्व-साम्यम् आदाय, सुरा-पैः समानः प्रसजति इत्य्-अन्वयः। "समान" पदं पूर्व-पादाद् अध्याहार्यम्। मीमांसकस्य पूर्व-पक्षित्वाद् अत्र सोम-प-दृष्टान्तः सरस इति च ध्येयम्।c
+केवलं तन्त्रत्व-साम्यम् आदाय यदि पञ्चरात्रम् अपि अवैदिकम् इति वक्तुम् उत्सहसे, तर्हि, ते तव प्रीति-पात्रं सोमपोऽपि, पातृत्व-साम्यम् आदाय, सुरा-पैः समानः प्रसजति इत्य्-अन्वयः। "समान" पदं पूर्व-पादाद् अध्याहार्यम्। मीमांसकस्य पूर्व-पक्षित्वाद् अत्र सोम-प-दृष्टान्तः सरस इति च ध्येयम्।
 </details>
 
 
@@ -6671,10 +6671,16 @@ which ascribe omniscience and omnipotence to lord Pasupati as well:
 तमीश्वराणां परमं महेश्वरम् इत्याद्याः ।  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+* The above argument of the Siddhantin is refuted by the Mimāṁsaka.
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> सर्व-ज्ञेश्वर-शब्दौ च  
+सर्व-ज्ञेश्वर-शब्दौ च  
 न र्ते देवात् पिनाकिनः +++(→तस्मिन्न् अपि)+++ ।  
 +++(पदार्थ-ज्ञान+-)+++उत्पत्ति-शक्त्या वर्तेते  
 सत्य् अप्य् अन्यत्र तद्वति ॥  
@@ -6722,6 +6728,18 @@ Consequently, the word sarvajia refers only to Mahadeva;
 किञ्च सर्वज्ञशब्देन सर्वज्ञे प्रतिपादिते ।  
 पौनरुक्त्यं प्रसज्येत सर्वविद्ग्रहणस्य वः ॥  
 अतः सर्वज्ञशब्दोऽयं महादेवैकगोचरः ।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+
+The above argument, says the Mīmāmsaka, is favourable to the Pāšupatas since the text " yassarvajñah sarvavit " ( Mundaka- I. 1. 9 ) cannot be properly explained in favour of the Pañcarātrins.  
+
+> "If the term 'sarvajña' be etymologically taken as referring to Viṣņu, what about the term sarvavit' ?"  
+
+he asks. This term too has to be explained as all-knower', which lands the Pancaratrin in the defect of redundance of explanation  
+
+Therefore, the Pasupata method of explanation is in sooth, proper- the term sarvajña' refers to Śiva conventionally, while the term 'sarvavit' does so, through etymology. 
 </details>
 
 
@@ -6778,7 +6796,11 @@ applies to this Pasupata Tantra too.
 
 अपि च भवतु भगवान् वासुदेव एवौपनिषदः पुरुषः,  
 अथ च स कथम् इव श्रुति-परिपन्थि-तन्त्रम् एतत् प्रणयेतेत्य् उत्प्रेक्ष्येत  
-य एवम् आह श्रुति-स्मृती ममैवाज्ञे इति ?
+य एवम् आह 
+
+> श्रुति-स्मृती ममैवाज्ञे 
+
+इति ?
 </details>
 
 <details><summary>Buitenen</summary>
@@ -6794,6 +6816,24 @@ which conflicts with Revelation of him who said, "Revelation and Tradition are m
 अपि च भवतु भगवान् वासुदेव एवौपनिषदः पुरुषः,  
 अथ च स कथमिव श्रुतिपरिपन्थितन्त्रमेतत्प्रणयेतेत्युत्प्रेक्ष्येत य एवमाह श्रुतिस्मृती ममैवाज्ञे इति 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+↑ The popular reading of the Viṣņudharma-verse, in which this statement occurs is- 
+
+> śrutismṛti mamaivājñā  
+yastāmullaighya vartate 
+ājñācchedi mama drohi  
+madbhaktopi na vaiṣṇavaḥ. 
+
+But the following reading is found in the printed edition, ch- 76, Śl. 31- 
+
+> śrutissmṛtir mamaivājñā  
+tāmullanghya yajan subhe  
+sarvasvenāpi mām devi  
+napnotyājñāvilaṁghanāt. 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6868,6 +6908,12 @@ How are we to resolve it?
 एवं किन्नु नयन्नयन्निजमहामायागुहागव्हरम् ।  
 व्याजह्रे किमिदं न वेति विशये जाते कथं निर्णयः ॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Visnupurāna- ( Jivānanda's edn.) Arśa- III. chs. 17 - 18 give the story of Mayamohana, preaching non-Vedic doctrines to demons, with a view to delude them. Other instances of Viṣņu assuming different forms out of his Māyā, are to be found in the Lingapurana and the Kāsikhanda. 
+</details>
+
 
 #### वैदिकैर् अनङ्गीकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6992,7 +7038,7 @@ are all to be presumed in the case of Pañcarātra,
 ते च सर्वेऽनुसंधेयाः पुरुषातिशयादयः ॥
 </details>
 
-## बाह्यत्वोक्तिः
+## तान्त्रिकतायाः बाह्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किञ्च -   
@@ -7008,8 +7054,6 @@ are all to be presumed in the case of Pañcarātra,
 48\. Moreover, the Saivite, Pasupata, Buddhist, Jainist, Kāpālika and Pañcarātra teachings are traditionally known as heretical. 
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 किञ्च -   
@@ -7017,6 +7061,12 @@ are all to be presumed in the case of Pañcarātra,
 शैवं पाशुपतञ्चैव बौद्धमप्यार्हतं तथा ।  
 कापालं पञ्चरात्रञ्चेत्येवं पाषण्डता स्मृतेः ॥  
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+$ To be identified. 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7039,6 +7089,35 @@ we arrive at the conclusion that Pañcarātra is outside the Veda.
 वैदिकं तान्त्रिकं चेति विभागकरणादपि ।  
 गम्यते पञ्चरात्रस्य वेदबाह्यत्वनिश्चयः ॥  
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
++ Vide Anandasamhitā ch. XIII, folios 43b-44a-  
+
+athāto devasyarcanam dvividham śruņu [sic]  
+vaikhānasam pañcarātraṁ  
+vaidikaṁ tantrikam kramāt ॥ 
+tayor vaikhānasaṁ śreṣṭham  
+aihikāmuṣmikapradam 1 
+
+The (Maha) Sanatkumārasaṁhitā draws a distinction among the Vaisnava-mantras in terms of Vaidika Tantrika and Vaidika-tantrika.  
+Cf. Rṣirātra IX. 35-  
+
+vaidikam tāntrikam caiva  
+tathā vaidikatāntrikam  
+mantratrayaṁ krameṇoktam........ ॥ 
+
+Cf. Vasisthasamhità XIII. 16b-17a-  
+
+Vaidikaṁ tantrikaṁ caiva  
+tatha vaidikatāntrikam  
+miśritam vaidikaṁ mantraiḥ  
+tasmāt vaidikatāntrikam ॥ 
+
+Harita in his Dharmasastra, says- srutiśca dvividhā, vaidiki tantriki ca (Quoted in the Lingadharanacandrikā, p. 240). 
+44 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7063,6 +7142,44 @@ one should not confuse them."
 शैवं पाशुपतं सौम्यं लागुडञ्च चतुर्विधम् ।  
 तन्त्रभेदः समुद्दिष्टः सङ्करं न समाचरेत् ॥ इति , ।  
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+§ The Vaikhanosāgamas call the Vaikhānasa and the Pañcarātra systems "saumya" and "agneya" respectively. Cf. Kasyapajñānakāṇḍa, p. 171- vaikhanasaṁ saumyam; agneyaṁ pañcarātram. 
+See also Vimānārcanākalpa, paṭala 77, p. 467-  
+
+> vaiṣṇavam dvividham,  
+vaikhānasaṁ pañcarātramiti;  
+vaikhānasaṁ vaidikaṁ,  
+vaidikairarcitam aihikāmuṣmikaphalapradam;  
+pāñcarātramagneyam avaidikaṁ āmuṣmikaphalapradam;  
+saumyam sarvatra sampūjyam. 
+
+Cf. also Bhagavata XI. 27. 7, 49-   
+
+> vaidikastantriko miśra iti me trividho makhaḥ ।   trayāṇāmīpsitenaiva vidhinā māṁ samarcayet ॥  
+evam kriyāyoga-pathaiḥ  
+puman vaidikatāntrikaiḥ ।  
+arcayannubhayataḥ siddhim  
+matto vindatyabhīpsitam ॥ 
+
+It may be noted that such a division is found even among the Saivāgamas. Thus, the Vayu Samhita of the Sivapurāṇa ( uttarabhāga XXIV. 177-178) 
+says- 
+
+śivagamopi dvividhaḥ  
+śrauto 'śrautaśca samsmṛlaḥ । 
+śrutisāramayaḥ śrautaḥ  
+svatantra itarassmṛtaḥ ।  
+(Quoted in Linga- dhāraṇucandrikā, p. 290). 
+
+Also see Saivasiddhānta p. 43- 6.  
+
+Āgamas are of two kinds- Śrauta and Asrauta. The Śrautagamas are dependent upon the Vedas and are full of their essence; not so the Asrauta. The former Agamas are accepted but not the latter. The asrauta-agamas have been declared by the Lord in order to delude some people. These Agamas are Vāma, Pasupata, Lakula, Bhairava, etc. " 
+</details>
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7622,6 +7739,7 @@ notice.
 </details>
 
 ## पाशुपतादि-समता
+### पौरुषेयत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किञ्च -  
@@ -7672,6 +7790,7 @@ can no more be rejected than the preferpersonal origin of the Veda.
 न हातुं शक्यते यद्वद्वेदस्यापौरुषेयता ॥
 </details>
 
+### अनुदय-विपर्यास-विशयाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथो कश्चिद् ब्रूयाद् -  
@@ -7686,7 +7805,7 @@ can no more be rejected than the preferpersonal origin of the Veda.
 
 Or else, if someone says that 
 
-> any of the three means of knowledge is, in the case of Pasupata Tantra, cancelled by non-appearance (sc. of knowledge.), reversion and dubiety, 
+> (Is) any of the three means of knowledge is, in the case of ~~Pasupata~~ Tantra, cancelled by non-appearance (sc. of knowledge.), reversion and dubiety, 
 </details>
 
 
@@ -7695,13 +7814,22 @@ Or else, if someone says that
 अथो कश्चिद् ब्रूयादनुदयविपर्यासविशयैस्त्रिरूपे प्रामाण्ये कतरदिह जोघुष्यत इति ।  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Cf. Slokavārtika ( I. 1. 2 ) $1.54a- 
+" अप्रामाण्यं त्रिधा भिन्नं मिथ्यात्वाज्ञानसंशयैः । " 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स वक्तव्यः 
 
-> किन् नु त्वद्-अभिलषितं  
-> लागुड-मते तद् एवेति ज्ञात्वा  
-> नियमित-मदश् शाम्यतु भवान् ।  
+> > +++(यत्)+++ किन् नु +++(स्व-मते)+++ त्वद्-अभिलषितं  
+लागुड-मते तद् एव
+> 
+> इति ज्ञात्वा  
+नियमित-मदश् शाम्यतु भवान् ।  
 
 </details>
 
@@ -7720,6 +7848,12 @@ Your worship better keep quiet.
 > लागुडमते तदेवेति ज्ञात्वा  
 > नियमितमदश्शाम्यतु भवान्।
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
++ लागुडमतं पाशुपतमिति यावत् । 
+</details>
+
 
 ## उपसंहारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
