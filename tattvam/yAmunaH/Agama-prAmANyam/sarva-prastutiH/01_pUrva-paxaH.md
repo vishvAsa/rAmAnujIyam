@@ -6603,7 +6603,7 @@ just because he is a drinker!
 तच्चेदेतच्छुतिपथपरिभ्रष्टतन्त्रैः समानं पातृत्वेन प्रसजति तदा सोमपस्ते सुरापैः ॥  
 </details>
 
-<details><summary>नरसिंहाचार्यः</summary>
+<details><summary>नरसिंहः</summary>
 
 केवलं तन्त्रत्व-साम्यम् आदाय यदि पञ्चरात्रम् अपि अवैदिकम् इति वक्तुम् उत्सहसे, तर्हि, ते तव प्रीति-पात्रं सोमपोऽपि, पातृत्व-साम्यम् आदाय, सुरा-पैः समानः प्रसजति इत्य्-अन्वयः। "समान" पदं पूर्व-पादाद् अध्याहार्यम्। मीमांसकस्य पूर्व-पक्षित्वाद् अत्र सोम-प-दृष्टान्तः सरस इति च ध्येयम्।
 </details>
@@ -6671,7 +6671,7 @@ which ascribe omniscience and omnipotence to lord Pasupati as well:
 तमीश्वराणां परमं महेश्वरम् इत्याद्याः ।  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नरसिंहः</summary>
 
 * The above argument of the Siddhantin is refuted by the Mimāṁsaka.
 
@@ -6730,7 +6730,7 @@ Consequently, the word sarvajia refers only to Mahadeva;
 अतः सर्वज्ञशब्दोऽयं महादेवैकगोचरः ।  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नरसिंहः</summary>
 
 
 The above argument, says the Mīmāmsaka, is favourable to the Pāšupatas since the text " yassarvajñah sarvavit " ( Mundaka- I. 1. 9 ) cannot be properly explained in favour of the Pañcarātrins.  
@@ -6817,7 +6817,7 @@ which conflicts with Revelation of him who said, "Revelation and Tradition are m
 अथ च स कथमिव श्रुतिपरिपन्थितन्त्रमेतत्प्रणयेतेत्युत्प्रेक्ष्येत य एवमाह श्रुतिस्मृती ममैवाज्ञे इति 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नरसिंहः</summary>
 
 ↑ The popular reading of the Viṣņudharma-verse, in which this statement occurs is- 
 
@@ -6909,7 +6909,7 @@ How are we to resolve it?
 व्याजह्रे किमिदं न वेति विशये जाते कथं निर्णयः ॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नरसिंहः</summary>
 
 Visnupurāna- ( Jivānanda's edn.) Arśa- III. chs. 17 - 18 give the story of Mayamohana, preaching non-Vedic doctrines to demons, with a view to delude them. Other instances of Viṣņu assuming different forms out of his Māyā, are to be found in the Lingapurana and the Kāsikhanda. 
 </details>
@@ -7062,7 +7062,7 @@ are all to be presumed in the case of Pañcarātra,
 कापालं पञ्चरात्रञ्चेत्येवं पाषण्डता स्मृतेः ॥  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नरसिंहः</summary>
 
 $ To be identified. 
 </details>
@@ -7090,7 +7090,7 @@ we arrive at the conclusion that Pañcarātra is outside the Veda.
 गम्यते पञ्चरात्रस्य वेदबाह्यत्वनिश्चयः ॥  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नरसिंहः</summary>
 
 + Vide Anandasamhitā ch. XIII, folios 43b-44a-  
 
@@ -7143,9 +7143,9 @@ one should not confuse them."
 तन्त्रभेदः समुद्दिष्टः सङ्करं न समाचरेत् ॥ इति , ।  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नरसिंहः</summary>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नरसिंहः</summary>
 
 § The Vaikhanosāgamas call the Vaikhānasa and the Pañcarātra systems "saumya" and "agneya" respectively. Cf. Kasyapajñānakāṇḍa, p. 171- vaikhanasaṁ saumyam; agneyaṁ pañcarātram. 
 See also Vimānārcanākalpa, paṭala 77, p. 467-  
@@ -7814,7 +7814,7 @@ Or else, if someone says that
 अथो कश्चिद् ब्रूयादनुदयविपर्यासविशयैस्त्रिरूपे प्रामाण्ये कतरदिह जोघुष्यत इति ।  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नरसिंहः</summary>
 
 Cf. Slokavārtika ( I. 1. 2 ) $1.54a- 
 " अप्रामाण्यं त्रिधा भिन्नं मिथ्यात्वाज्ञानसंशयैः । " 
@@ -7849,7 +7849,7 @@ Your worship better keep quiet.
 > नियमितमदश्शाम्यतु भवान्।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नरसिंहः</summary>
 
 + लागुडमतं पाशुपतमिति यावत् । 
 </details>
