@@ -1646,7 +1646,7 @@ This is the right explanation of all such passages.
 <details><summary>Español</summary>
 
 Esta es la explicación correcta de todos estos pasajes.
-Esta es la explicación correcta de todos estos pasajes.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1839,6 +1839,7 @@ Are they not my very life?"
 (Así también) Un enemigo **no debe recibir** comida para **comer**.  
 **Odias** a los Pandavas, oh rey.  
 ¿**No son** mi propia vida? "</details>
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -9565,7 +9566,7 @@ para **permitirle asegurar** esa fruta.
 इति - ऎऩ्ऱु, चरमश्लोकसङ्ग्रहः – चरमश्लोकत्तिल् विवक्षितमाऩ सारार्थङ्गळुडैय सुरुक्कमॆऩ्ऱबडि। 
 </details>
 
-
+#### नित्य-नैमित्तिक-कर्मणां स्व-तन्त्रापेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भावाभावौ **न** धर्माणां  
@@ -9605,29 +9606,279 @@ que **es** necesario para Prapatti.
 भावाभावौ न धर्माणां प्रपत्तेरङ्गमिष्यते ।  स्वतन्त्रशिष्ट्या शक्येहा शेषाभावोधिकारगः ॥  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडियागिल् नैरपेक्ष्यविधिपक्षत्तिल् वर्णाश्रमधर्माणां कथमनुष्ठानमॆऩ्ऩ वरुळिच्चॆय्गिऱार् भावाभावाविति ।  
+धर्माणां भावाभावौ – वर्णाश्रमधर्मङ्गळुडैय भावमुमभावमुम्, प्रपत्तेर् नाङ्गमिष्यते – प्रपत्तिक्कुअङ्गमाग ऒप्पुक्कॊळ्ळप्पडुगिऱदिल्लै।  
+इङ्गु धर्माभावम् अङ्गमऩ्ऱु ऎऩ्बदु दृष्टान्तार्थम्।  
+
+स्वतन्त्रशिष्ट्या – स्वतन्त्रऩाऩ भगवाऩुडैय शासनत्ताले, शक्येहा – शक्यमाऩ कर्मङ्गळुडैय अनुष्ठानम्, ईह चेष्टायां ऎऩ्बदु धातु । प्रपत्त्यङ्गतयानुष्ठानप्राप्त्यभावेऽपि स्वतन्त्रऩाऩ भगवाऩुडैय आज्ञैयिऩाले कर्मानुष्ठानम् नैरपेक्ष्यपक्षत्तिलुम् सिद्धिक्कुमॆऩ्ऱु करुत्तु।
+
+शेषाभावोधिकारग इति । अशक्यमाऩ कर्मङ्गळुडैय त्यागमाऩदु आकिञ्चन्य रूपाधिकारकोटिप्रविष्टमामॆऩ्ऱबडि। 
+</details>
 
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-क्रत्वनङ्गतया ये तु तदानीमननुष्ठिताः । स्वकाले स्वविधेरेव कार्यास्ते तद्वदत्र नः ॥
+क्रत्व्-अन्-अङ्गतया ये तु  
+तदानीम् अननुष्ठिताः ।  
+स्व-काले स्व-विधेर् एव  
+कार्यास् ते तद्वद् अत्र नः ॥ +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+क्रत्व्-अन्-अङ्गतया ये तु  
+तदानीम् अननुष्ठिताः ।  
+स्व-काले स्व-विधेर् एव  
+कार्यास् ते तद्वद् अत्र नः ॥ +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Rites like darśa and purnamāsa have not been prescribed as requisites for yajnas (sacrifices ).  
+So at the time of the performance of yajnas, they are not performed.  
+But on occasions like the new-moon day, they have to be done because they are enjoined on their own account.  
+So also here; (i.e.) nitya and naimittika are not prescribed as aṅgas for prapatti;  
+they are not to be performed at the time of prapatti as its aṅgas,  
+but because they have been enjoined on their own account,  
+without any relation or reference to prapatti.
+</details>
+
+<details><summary>Español</summary>
+
+Los ritos como Darśa y Purnamāsa **no se han prescrito** como **requisitos** para Yajnas (sacrificios).  
+Entonces, en el momento del **rendimiento** de Yajnas, **no se realizan**.  
+Pero en ocasiones como el día de la luna nueva,  
+**deben hacerse** porque **están ordenados** por su propia cuenta.  
+Así también aquí; (es decir) Nitya y Naimittika **no se prescriben** como AṅGas para Prapatti;  
+**No se deben realizar** en el momento de Prapatti como AṅGas,  
+Pero porque **han sido ordenados** por su propia cuenta,  
+sin ninguna **relación o referencia** a Prapatti.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 क्रत्वनङ्गतया ये तु तदानीमननुष्ठिताः । स्वकाले स्वविधेरेव कार्यास्ते तद्वदत्र नः ॥
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रपत्त्यनुष्ठानकालत्तिल् तदवरुद्धमाय् अननुष्ठितङ्गळाऩ सन्ध्यावन्दनादिगळिऩ् अनुष्ठानकालत्तै सदृष्टान्तमरुळिच् चॆय्गिऱार् क्रत्वनङ्गतयेति । क्रत्वनङ्गतया – ज्योतिष्टोमादिक्रतुक्कळुक्कु अङ्गमिल्लामैयाले, तदानीं – क्रतुकालत्तिल्, ये तु - ऎन्द औपासनसन्ध्यावन्दनादिगळ्, अननुष्ठिताः – अनुष्ठितङ्गळऩ्ऱो, ते - अदुगळ्, क्रतुवै – अनुष्ठितत्त पिऱगु, स्वकाले - तऩ्ऩुडैय कालत्तिले, स्वविधेरेव - तऩ्ऩुडैय स्वतन्त्राज्ञारूपविधियिऩालेये, कार्याः - ऎप्पडि कर्तव्यङ्गळो, अत्र – प्रपत्त्युपरुद्धमाऩ वर्णाश्रमधर्मविषयत्तिल्, नः – प्रपन्नर्गळाऩ नमक्कुम्, तद्वत् - अप्पडिये, प्रपत्त्यनुष्ठानोत्तरम् विहितकालङ्गळिले प्रपत्त्यनुपरुद्धमाऩ कर्मङ्गळ् कार्यङ्गळॆऩ्ऱबडि।   
+</details>
+
+
+### त्यज धर्मम् अधर्मञ् च
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘त्यज धर्मम् अधर्मञ् च’’  
+(भारतम् शान्ति-पर्व ३३९-४४) 
+
+ऎऩ्गिऱ्-अदुवुम्  
+काम्यङ्गळैयुम् निषिद्धङ्गळैयुम् विडच् चॊऩ्ऩ बडि। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२४६]]  
+
+"त्यज धर्ममधर्मं च" इत्य्-एतद् अपि 
+ काम्य-निषिद्ध-त्याग-परम् ।  
+
+</details>
+
+
+<details><summary>English</summary>
+
+The teaching "Give up dharma and adharma"  
+relates to the giving up of those dharmas which are said to be productive of certain gains (kāmya)  
+and of those karmas which are forbidden. 
+</details>
+
+<details><summary>Español</summary>
+
+La **enseñanza** "**Renuncia** a Dharma y Adharma"  
+**se relaciona** con la **renuncia** de aquellos dharmas  
+que **se dice** que **son productivos** de ciertas ganancias**** (kāmya)  
+y de los karmas que **están prohibidos**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘त्यज धर्ममधर्मञ्च’’(भारतम् शान्ति-पर्व ३३९-४४) ऎऩ्गिऱदुवुम् काम्यङ्गळैयुम् निषिद्धङ्गळैयुम् विडच् चॊऩ्ऩबडि। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘त्यज धर्ममधर्मञ्चे’’त्यादि वचनङ्गळिले  
+सर्वधर्मस्वरूपत्यागम् तोऱ्ऱुगैयाल् तदनुरोधेन चरमश्लोकत्तिलुम् सर्वधर्मस्वरूपत्यागम् सॊल्लप्पट्टदाग स्वीकरिक्कवेण्डावो ऎऩ्ऩ, त्यज धर्ममित्यादिवचनङ्गळुक्कु यथावस्थितार्थत्तै यरुळिच्चॆय्गिऱार् त्यज धर्ममधर्मञ्च ऎऩ्गिऱदुवुम् काम्यङ्गळैयुम् निषिद्धङ्गळैयुम् विडच्चॊऩ्ऩबडि ऎऩ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘त्यज सत्यानृते अपि’’ 
+
+ऎऩ्गिऱ्-अदुवुम्  
+आत्मानुभवत्तैयुम् ऐश्वर्यत्तैयुम् प्रयोजनम् आगक् कोलादे  
+कॊळ्ळ् ऎऩ्ऱ बडि। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"त्यज सत्यानृते अपि" इत्य्-एतद् अपि 
+आत्मानुभवैश्वर्ययोः प्रयोजनत्वेनानुद्देश्यतायां तत्-परम् । 
+</details>
+
+<details><summary>English</summary>
+
+So also "give up satyam and also anritam" means 
+
+> "Do not desire satyam the enjoyment or experience of your self as an end in itself;  
+also do not desire the enjoyment of anrita the pleasures of the world, wealth and the like ".  
+
+(One interpretation of the word satya is the changeless eternal ātmā or self;  
+anṛta refers to non-sentient things which contribute to the pleasures of wealth.)
+</details>
+
+<details><summary>Español</summary>
+
+Así que también "**Renuncia** a Satyam y también anritam" **significa**
+
+> "**No desee** Satyam el **disfrute** o la **experiencia** de usted mismo como un fin en sí mismo;  
+Además, **no desee el disfrute** de Anrita los placeres del mundo, la riqueza y similares ".
+
+(Una **interpretación** de la palabra satya es el ātmā o yo eterno cambiante;  
+Anṛta **se refiere** a cosas no sensibles que **contribuyen** a los placeres de la riqueza).
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘त्यज सत्यानृते अपि’’ ऎऩ्गिऱदुवुम् आत्मानुभवत्तैयुम् ऐश्वर्यत्तैयुम् प्रयोजनमागक् कोलादे कॊळ्ळॆऩ्ऱबडि। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘त्यज सत्यानृते अपि’’ ऎऩ्बदऱ्कु अर्थमरुळिच्चॆय्गिऱार् त्यज सत्यानृते अपि ऎऩ्गिऱदुवुमिति । आत्मवाचियाऩ सत्यशब्दम् तदनुभवलाक्षणिकमॆऩ्ऱुम्, अनृतशब्दम् नश्वरमाऩ शब्दाद्यनुभवरूपैश्वर्यलाक्षणिकमॆऩ्ऱुम् तिरुवुळ्ळम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(अहित-सत्य-वचन-निषेधादि-)+++ वाचिक+++(धर्म)+++ङ्गळै विशेषित्तुच् चॊल्लिऱ्ऱ् आगवुम् आम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+विशिष्य +++(अहित-सत्य-वचन-निषेधादि-)+++ वाचिक-(धर्माधर्म)-प्रतिपादन-परं वा । 
+</details>
+
+<details><summary>English</summary>
+
+It may also mean: 
+
+> "Give up speaking even that truth (satyam) which will cause pain to others."
+
+</details>
+
+<details><summary>Español</summary>
+
+También **puede significar**:
+
+> "**Deja** de **decir** incluso esa verdad (Satyam) que **causará** dolor a los demás".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वाचिकङ्गळै विशेषित्तुच् चॊल्लिऱ्ऱागवुमाम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सत्यशब्दम् सत्यवचनपरमाय् अनृतशब्दम् मिथ्यावचनपरमाऩालुम् बाधकमिल्लैयॆऩ्गिऱार् वाचिकङ्गळै विशेषित्तुच् चॊल्लिऱ्ऱागवुमामिति । इङ्गु सत्यत्तै विडुगैयावदु: - भूतहितमल्लाद यथार्थवचनत्तैयुम् विडुगै। अनृतत्तै विडुगैयावदु:- अनृतसामान्यत्यागः । 
+</details>
 
 
 
-Rites like darśa and purnamāsa have not been prescribed as requisites for yajnas (sacrifices ). So at the time of the performance of yajnas, they are not performed. But on occasions like the new-moon day, they have to be done because they are enjoined on their own account. So also here; (i.e.) nitya and naimittika are not prescribed as aṅgas for prapatti; they are not to be performed at the time of prapatti as its aṅgas, but because they have been enjoined on their own account, without any relation or reference to prapatti.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The teaching "Give up dharma and adharma" relates to the giving up of those dharmas which are said to be productive of certain gains (kāmya) and of those karmas which are forbidden." So also "give up satyam and also anritam" means "Do not desire satyam the enjoyment or experience of your self as an end in itself; also do not desire the enjoyment of[^74] ] anrita the pleasures of the world, wealth and the like ". It may also mean: "Give up speaking even that truth (satyam) which will cause pain to
+इदिऩ् अरुमै तोऱ्ऱुगैक्क् आग  
 
-[^74]: One interpretation of the word satya is the changeless eternal ātmā or self; anṛta refers to non-sentient things which contribute to the pleasures of wealth.
+> ‘‘उभे सत्यानृते त्यक्त्वा’’  
 
-others." In order to reveal the excellence of his teaching, it is repeated again :-" Having given up both satyam and anritam", it is said further, "Give up the thought which enables you to give up satyam and anritam, namely, the thought that you are the doer", in order to enable us to realise that even our doership is dependent on another (the Lord ). Thus there is no authority here for violating the commands of the Lord.
+ऎऩ्ऱ् अनुवदिक्किऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+In order to reveal the excellence of his teaching, it is repeated again :-
+
+> " Having given up both satyam and anritam", 
+</details>
+
+<details><summary>Español</summary>
+
+Para **revelar** la excelencia de su **enseñanza**, se **repite** nuevamente:-
+
+> "**Habiendo renunciado** a Satyam y Anritam",
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदिऩरुमै तोऱ्ऱुगैक्काग ‘‘उभे सत्यानृते त्यक्त्वा’’ ऎऩ्ऱनुवदिक्किऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्यागत्तिल् कर्तृत्वमुम् पराधीनम् ऎऩ्ऱु  
+अनुसन्धिक्कैक्क् आग  
+
+> ‘‘येन त्यजसि तत् त्यज’’  
+
+ऎऩ्गिऱदु। +++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘येन त्यजसि तत् त्यज’’  
+</details>
+
+<details><summary>English</summary>
+
+it is said further, 
+
+> "Give up the thought which enables you to give up satyam and anritam, namely,  
+the thought that you are the doer", 
+
+in order to enable us to realise that even our doership is dependent on another (the Lord ). 
+</details>
+
+<details><summary>Español</summary>
+
+**Se dice** más allá,
+
+> "**Renuncia** a la idea que te **permite renunciar** a Satyam y Anritam, a **saber**,  
+la idea de que **eres** el **hacedor** ",
+
+Para **permitirnos darnos cuenta** de que incluso nuestra **carrera** depende de otro (el Señor).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+त्यागत्तिल् कर्तृत्वमुम् पराधीनमॆऩ्ऱुअनुसन्धिक्कैक्काग ‘‘येन त्यजसि तत्त्यज’’ ऎऩ्गिऱदु। 
+</details>
+
+
+
+
+
+Thus there is no authority here for violating the commands of the Lord.
 
 Now let us consider what was taught to Uddhava :- In spite of what has been said so far, some quote the words addressed to Uddhava.--"Give up, Uddhava, all injunctions (vidhis) (like sandhyā, which are prescribed as a means to an end); give up all prohibitions such as “don't injure others"; give up the dharmas to be actively performed and also the dharmas which prescribe the avoidance of or abstention from certain acts and also the requisites (aṅgas) which you have heard so far and which you will learn hereafter as being necessary for both of them (Give up all these) and seek refuge in Me alone by all means, for I am the Inner Self of all beings. By doing so, you will attain mokṣa, where there is freedom from all fear". They quote these words and argue as follows "Since, here we are enjoined[^75] to give up the abstention from certain actions, and since in the carama śloka, it is not proper to restrict or limit the meaning of sarva (all) in sarva karmāni, it follows that we should give up even the abstention (from evil acts )." This would mean that we should perform forbidden things as much as lies in our power. Since the doing of these forbidden things is something that, according to them, is enjoined, these people argue in their delusion that even if the prapanna does forbidden things deliberately after prapatti, there would be no stain left. This is extremely ridiculous, for the (notorious) charvakas (alepakas) say that even if a man sins, it leaves no stain behind, whereas the argument stated above goes further and is tantamount to saying that (the prapanna ) should necessarily commit sin: This is "like the fish swallowing greedily the bait made of iron covered with something which is delicious to eat, without any thought of the consequence. It is in reflecting on such (perversities) that the great sage became sad: "Whatever ** the good man shirks from, that the wicked man is delighted with. How painful is the perversity of this world !"
 
