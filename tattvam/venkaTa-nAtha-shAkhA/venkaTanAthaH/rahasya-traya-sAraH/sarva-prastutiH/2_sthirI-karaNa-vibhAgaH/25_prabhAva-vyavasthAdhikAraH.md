@@ -9866,8 +9866,6 @@ it is said further,
 the thought that you are the doer", 
 
 in order to enable us to realise that even our doership is dependent on another (the Lord ). 
-
-(Thus there is no authority here for violating the commands of the Lord.)
 </details>
 
 <details><summary>Español</summary>
@@ -9878,8 +9876,6 @@ in order to enable us to realise that even our doership is dependent on another 
 la idea de que **eres** el **hacedor** ",
 
 Para **permitirnos darnos cuenta** de que incluso nuestra **carrera** depende de otro (el Señor).
-
-(Por lo tanto, **no hay** autoridad aquí por **violar** los **mandamientos** del Señor).
 </details>
 
 
@@ -9891,10 +9887,94 @@ Para **permitirnos darnos cuenta** de que incluso nuestra **carrera** depende de
 
 ### उत्सृज्य चोदनाम्
 
+<details><summary>English</summary>
+
+Now let us consider what was taught to Uddhava :- 
+</details>
+
+<details><summary>Español</summary>
+
+Ahora **consideremos** lo que se enseñó a Uddhava:-
+</details>
 
 
 
-Now let us consider what was taught to Uddhava :- In spite of what has been said so far, some quote the words addressed to Uddhava.--"Give up, Uddhava, all injunctions (vidhis) (like sandhyā, which are prescribed as a means to an end); give up all prohibitions such as “don't injure others"; give up the dharmas to be actively performed and also the dharmas which prescribe the avoidance of or abstention from certain acts and also the requisites (aṅgas) which you have heard so far and which you will learn hereafter as being necessary for both of them (Give up all these) and seek refuge in Me alone by all means, for I am the Inner Self of all beings. By doing so, you will attain mokṣa, where there is freedom from all fear". They quote these words and argue as follows "Since, here we are enjoined[^75] to give up the abstention from certain actions, and since in the carama śloka, it is not proper to restrict or limit the meaning of sarva (all) in sarva karmāni, it follows that we should give up even the abstention (from evil acts )." This would mean that we should perform forbidden things as much as lies in our power. Since the doing of these forbidden things is something that, according to them, is enjoined, these people argue in their delusion that even if the prapanna does forbidden things deliberately after prapatti, there would be no stain left. This is extremely ridiculous, for the (notorious) charvakas (alepakas) say that even if a man sins, it leaves no stain behind, whereas the argument stated above goes further and is tantamount to saying that (the prapanna ) should necessarily commit sin: This is "like the fish swallowing greedily the bait made of iron covered with something which is delicious to eat, without any thought of the consequence. It is in reflecting on such (perversities) that the great sage became sad: "Whatever ** the good man shirks from, that the wicked man is delighted with. How painful is the perversity of this world !"
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् पडिय् आऩाल् आज्ञातिलङ्घनत्तुक्क् ऒरु विरग्+++(=उपाय)+++ अऩ्ऱिक्केय् इरुक्क 
+</details>
+
+<details><summary>English</summary>
+
+Thus there is no authority here for violating the commands of the Lord.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **no hay** autoridad aquí por **violar** los **mandamientos** del Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियाऩाल् आज्ञातिलङ्घनत्तुक्कॊरु विरगऩ्ऱिक्के यिरुक्क 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिलर् 
+
+> ‘‘तस्मात् त्वम् उद्धवोत्सृज्य  
+चोदनां प्रतिचोदनाम् ।  
+प्रवृत्तिञ् च निवृत्तिञ् च  
+श्रोतव्यं श्रुतम् एव च ॥ 
+</details>
+
+<details><summary>English</summary>
+
+
+In spite of what has been said so far, some quote the words addressed to Uddhava.--
+
+> "Give up, Uddhava, all injunctions (vidhis) (like sandhyā, which are prescribed as a means to an end);  
+give up all prohibitions such as “don't injure others";  
+give up the dharmas to be actively performed  
+and also the dharmas which prescribe the avoidance of or abstention from certain acts  
+and also the requisites (aṅgas) which you have heard so far  
+and which you will learn hereafter as being necessary for both of them (Give up all these)  
+</details>
+
+<details><summary>Español</summary>
+
+
+A pesar de lo que **se ha dicho** hasta ahora, algunas citan las palabras **dirigidas** a Uddhava.
+
+> "**Renuncia**, uddhava, todas las **órdenes** (vidhis) (como sandhyā, que **se prescriben** como un medio para un fin);  
+**renunciar** a todas las **prohibiciones** como "**No lesione** a los demás";  
+**renunciar** a los dharmas para **ser realizado** activamente  
+y también los dharmas que **prescriben** la **evitación** o la **abstención** de ciertos actos  
+y también los requisitos (aṅgas) que **has escuchado** hasta ahora  
+y que **aprenderás** de aquí en adelante como **necesario** para los dos (**renuncia** a todos estos)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिलर् ‘‘तस्मात्त्वमुद्धवोत्सृज्य चोदनां प्रतिचोदनाम् । प्रवृत्तिञ्च निवृत्तिञ्च श्रोतव्यं श्रुतमेव च ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> माम् एकम् एव शरणम् आत्मानं सर्वदेहिनाम् । याहि सर्वात्मभावेन यास्यसि ह्यकुतोभयम्’’(श्री भागवतम् ११-१२-१४। ) ऎऩ्ऱु निवृत्तियैयुङ्गूडविडच्चॊऩ्ऩ पडियालुम् 
+</details>
+
+<details><summary>मूलम्</summary>
+
+मामेकमेव शरणमात्मानं सर्वदेहिनाम् । याहि सर्वात्मभावेन यास्यसि ह्यकुतोभयम्’’(श्री भागवतम् ११-१२-१४। ) ऎऩ्ऱु निवृत्तियैयुङ्गूडविडच्चॊऩ्ऩ पडियालुम् 
+</details>
+
+
+and seek refuge in Me alone by all means, for I am the Inner Self of all beings. By doing so, you will attain mokṣa, where there is freedom from all fear". They quote these words and argue as follows "Since, here we are enjoined[^75] to give up the abstention from certain actions, and since in the carama śloka, it is not proper to restrict or limit the meaning of sarva (all) in sarva karmāni, it follows that we should give up even the abstention (from evil acts )." This would mean that we should perform forbidden things as much as lies in our power. Since the doing of these forbidden things is something that, according to them, is enjoined, these people argue in their delusion that even if the prapanna does forbidden things deliberately after prapatti, there would be no stain left. This is extremely ridiculous, for the (notorious) charvakas (alepakas) say that even if a man sins, it leaves no stain behind, whereas the argument stated above goes further and is tantamount to saying that (the prapanna ) should necessarily commit sin: This is "like the fish swallowing greedily the bait made of iron covered with something which is delicious to eat, without any thought of the consequence. It is in reflecting on such (perversities) that the great sage became sad: "Whatever ** the good man shirks from, that the wicked man is delighted with. How painful is the perversity of this world !"
 
 [^75]: 'Giving up abstention from forbidden things' would mean doing forbidden things.
 
