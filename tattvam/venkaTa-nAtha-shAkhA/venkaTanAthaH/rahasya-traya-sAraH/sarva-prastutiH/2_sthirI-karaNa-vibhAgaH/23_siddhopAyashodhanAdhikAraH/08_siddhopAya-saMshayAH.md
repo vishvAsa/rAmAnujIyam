@@ -2736,7 +2736,7 @@ THE CONTENTION THAT THERE IS NO INJUNCTION TO PERFORM PRAPATTI AS AN UPĀYA:
 <details><summary>Español</summary>
 
 La **afirmación** de que  
-**no hay** una orden judicial  
+**no hay** una orden  
 para **realizar** Prapatti como un upāya:
 </details>
 

@@ -1621,7 +1621,7 @@ the suitable, the unsuitable and those who are neither of these two.
 
 **Tenemos que recordar** que la **búsqueda** de la riqueza y los placeres sensoriales que están en contra del dharma  
 ya **han sido prohibidos** por completo (para todos, incluidos los no prapannas) como en lo anterior (~~ siguiente ~~) śloka-s.  
-Entonces la orden judicial contenida en las palabras de Bhāṣyakāra (realmente) significa que  
+Entonces la orden contenida en las palabras de Bhāṣyakāra (realmente) significa que  
 incluso con respecto a la **adquisición** de riqueza y placeres sensoriales que no se oponen al dharma,  
 La Prapanna **no debe desviarse** de su estado apropiado
 con respecto a estas tres clases de personas,

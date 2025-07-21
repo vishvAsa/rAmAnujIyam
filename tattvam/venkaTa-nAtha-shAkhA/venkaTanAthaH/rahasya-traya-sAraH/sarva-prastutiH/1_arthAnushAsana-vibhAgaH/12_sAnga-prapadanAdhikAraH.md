@@ -251,7 +251,7 @@ The manner in which this form of mental realisation contained in the injunction 
 
 <details><summary>Español</summary>
 
-La forma en que esta forma de realización mental **contenida** en la orden judicial  
+La forma en que esta forma de realización mental **contenida** en la orden  
 "Uno **debería entregarme** a mí mismo"  
 **debe efectuarse** es el siguiente:-
 </details>

@@ -10894,33 +10894,254 @@ Como **es** un Vidhi o **mandato** independiente
 अधर्मपरिहारेऽपि धर्मत्वेन विवक्षिते । स्यात्स्वतन्त्रविधेरेव नित्यं तस्य परिग्रहः ॥
 </details>
 
+#### आक्षेप-सारः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+आनुकूल्य-परित्यागं  
+प्रातिकूल्य-परिग्रहम् ।  
 प्रपत्त्य्-अङ्गं **प्रतिज्ञातुं  
-न शक्यं** साधु-संसदि ॥  
+न शक्यं** साधु-संसदि ॥ +++(5)+++ 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
-प्रपत्त्यङ्गं प्रतिज्ञातुं न शक्यं साधुसंसदि ॥ 
+आनुकूल्य-परित्यागं  
+प्रातिकूल्य-परिग्रहम् ।  
+प्रपत्त्य्-अङ्गं **प्रतिज्ञातुं  
+न शक्यं** साधु-संसदि ॥ +++(5)+++ 
 </details>
 
-
+<details><summary>English</summary>
 
 > "It is impossible to contend in an assembly of the wise  
 that the giving up of what is pleasing (to the Lord) anukulya  
 and the performance of what is disagreeable ( to Him) prātikulya  
 are aṅgas to prapatti.
+</details>
+
+<details><summary>Español</summary>
+
+> "**Es** imposible **contender** en una asamblea de los sabios  
+que **renunciar** a lo que es agradable (al Señor) Anukulya
+y el **desempeño** de lo que es desagradable (para él) Prātikulya  
+son AṅGas a Prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आनुकूल्यपरित्यागं प्रातिकूल्यपरिग्रहम् ।  
+प्रपत्त्यङ्गं प्रतिज्ञातुं न शक्यं साधुसंसदि ॥ 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपन्नम् अधिकृत्यैव  
+सदाचारानतिक्रमः ।  
+प्रपत्त्य्-अध्याय-पठितः  
+प्रतिसन्धीयताम् इह ॥
+</details>
+
+<details><summary>English</summary>
+
+> "Let us bear in mind the fact that the injunction not to violate the code of conduct of the good (such as giving up sandhyā or nitya and naimittika)  
+which we find in the chapter on prapatti  
+is intended to apply only to the prapanna".
+</details>
+
+<details><summary>Español</summary>
+
+> "**Tengamos** en cuenta el hecho de que  
+la orden de **no violar** el código de conducta del bien (como **renunciar** a Sandhyā o Nitya y Naimittika)  
+que **encontramos** en el capítulo sobre Prapatti  
+**está destinado** a **aplicar** solo a la Prapanna ".
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 प्रपन्नमधिकृत्यैव सदाचारानतिक्रमः ।
 प्रपत्त्यध्यायपठितः प्रतिसन्धीयतामिह ॥
+</details>
 
-"Let us bear in mind the fact that the injunction not to violate the code of conduct of the good (such as giving up sandhyā or nitya and naimittika) which we find in the chapter on prapatti is intended to apply only to the prapanna".
+#### प्रपत्त्य्-अङ्गत्व-निराकृतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-When it is thus clear that these should not be given up as they are injunctions which have no relation to prapatti and which are independent rules. it may be asked what is the meaning of the teaching to Uddhava which says "Give up what is enjoined for action and also what is forbidden, give up action and abstention from action". The answer is that they mean only this much : that they should not be observed as aṅgas or requisites for prapatti :
+इप्-पडिय् अऱ्ऱ बिऩ्बु  
 
-In the case of the aspirant for mukti, it may mean also those activities and abstentions which are enjoined as means for securing certain other ends (than mokṣa) in those śāstras that enjoin them, 88 in the passage: "Give up those dharmas that are the means of securing dharma, artha and kāma," As against this, if it were held that nitya and naimittika karmas and the like are themselves (svarūpatyāga) to be given up, it would be opposed to everything that has been pointed out before. Those who are intelligent and who are sāttvikas will appreciate this conclusion and approve of it. (The Alvars) have stated this in such passages as the following: "We will never do what ought not to be done. We [^76] will never go (to any ācārya), and study heretical śāstras", and "Vouchsafe Thy grace so that I may not do wicked deeds". If we consider the import of the verse "O Lord of the world! Consider my offences as virtuous acts", it also means the prayer that the offences should be pardoned. Therefore if the prapanna happens to commit an offence, he is bound to obtain pardon as declared in the passage :- " Whether "offences are committed deliberately or in ignorance, the only expiation that is required is to say " Pardon me ".
+> ‘‘चोदनां प्रतिचोदनाम्’’ 
+
+ऎऩ्गिऱव् इडत्तिल् 
+
+> प्रवृत्तिञ्च निवृत्तिञ्च  
+
+ऎऩ्गिऱव् इडत्तिलुम्  
+प्रपत्तिक्क् अङ्गम् आगव् ऒऩ्ऱुम् स्वीकरिक्क वेण्डाव् ऎऩ्ऱद् आम् इत्तऩै। 
+</details>
+
+<details><summary>English</summary>
+
+When it is thus clear that  
+these should not be given up  
+as they are injunctions which have no relation to prapatti  
+and which are independent rules,  
+it may be asked what is the meaning of the teaching to Uddhava which says 
+
+> "Give up what is enjoined for action  
+and also what is forbidden,  
+give up action and abstention from action". 
+
+The answer is that they mean only this much :  
+that they should not be observed as aṅgas or requisites for prapatti.
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **está** claro que  
+Estos **no deben renunciar**  
+ya que **son mandatos** que **no tienen relación** con Prapatti  
+y que **son** reglas independientes,  
+**Se puede preguntar** cuál **es** el **significado** de la **enseñanza** a Uddhava que **dice**
+
+> "**Renuncia** a lo que **se ordena** para la **acción**  
+y también lo que **está prohibido**,  
+**renunciar** a la acción y la **abstención** de la acción ".
+
+La **respuesta es** que solo **significan** esto:  
+que **no deben observarse** como AṅGA o requisitos para Prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियऱ्ऱबिऩ्बु ‘‘चोदनां प्रतिचोदनाम्’’ ऎऩ्गिऱविडत्तिल् प्रवृत्तिञ्च निवृत्तिञ्च ऎऩ्गिऱविडत्तिलुम् प्रपत्तिक्कङ्गमाग वॊऩ्ऱुम् स्वीकरिक्कवेण्डावॆऩ्ऱदामित्तऩै। 
+</details>
+
+#### काम्य-कर्म-त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुमुक्षु-मात्रत्तैप् पऱ्ऱ  
+
+> ‘‘त्रैवर्गिकांस् त्यजेद् धर्मान्’’  
+(विष्णुपुराणम् ऎऩ्ऱु मुऩ्ऩोर्गळ्) 
+
+ऎऩ्गिऱ कट्टळैयिले  
+फलान्तर-साधनम् आग चोदितैगळ् आऩ प्रवृत्ति-निवृत्तिगळैयुम्  
+अवऱ्ऱुक्क् उऱुप्प्+++(=अङ्गम्)+++ आऩ शास्त्रङ्गळैयुम्  
+विडच् चॊऩ्ऩद् आगवुम् आम्।
+</details>
+
+<details><summary>English</summary>
+
+In the case of the aspirant for mukti,  
+in the passage: 
+
+> "Give up those dharmas that are the means of securing dharma, artha and kāma," 
+
+it may mean also those activities and abstentions which are enjoined  
+as means for securing certain other ends (than mokṣa)  
+in those śāstras that enjoin them.  
+</details>
+
+<details><summary>Español</summary>
+
+En el caso del aspirante para Mukti,  
+En el pasaje:
+
+> "**Renuncia** a los dharmas que son los medios para **asegurar** el Dharma, Artha y Kāma", ",
+
+**puede significar** también aquellas **actividades** y **abstenciones** que **se ordenan**  
+Como medio para **asegurar** ciertos otros extremos (que Mokṣa)  
+En aquellos Śāstras que los **orientan**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुमात्रत्तैप् पऱ्ऱ ‘‘त्रैवर्गिकांस्त्यजेद्धर्मान्’’(विष्णुपुराणमॆऩ्ऱु मुऩ्ऩोर्गळ्) ऎऩ्गिऱ कट्टळैयिले फलान्तरसाधनमाग चोदितैकळाऩ प्रवृत्तिनिवृत्तिकळैयुम् अवऱ्ऱुक्कुऱुप्पाऩ शास्त्रङ्गळैयुम् विडच्चॊऩ्ऩदागवुमाम्।
+</details>
+
+#### निष्कर्ष-स्तुतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् अऩ्ऱिक्के  
+
+> नित्य-नैमित्तिकादिगळ्-उडैय स्व-रूप--त्यागम् विवक्षितम् 
+
+ऎऩ्ऩिल् मुऩ्बु सॊऩ्ऩ सर्वविरोधमुम् प्रसङ्गिक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+As against this,  
+if it were held that nitya and naimittika karmas and the like are themselves (svarūpatyāga) to be given up,  
+it would be opposed to everything that has been pointed out before. 
+</details>
+
+<details><summary>Español</summary>
+
+Frente a eso,  
+Si **se sostenía** que Nitya y Naimittika Karmas y similares **son** ellos mismos (svarūpatyāga) para **ser abandonados**,  
+**Se opondría** a todo lo que **se ha señalado** antes.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩऩ्ऱिक्के नित्यनैमित्तिकादिगळुडैय स्वरूपत्यागम् विवक्षितमॆऩ्ऩिल् मुऩ्बु सॊऩ्ऩ सर्वविरोधमुम् प्रसङ्गिक्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द निष्कर्षम्  
+सत्त्व-निष्ठर् आय्  
+विवेकिगळ् आय् इरुप्पार्  
+तॆळिन्द् अङ्गी-करिप्पार्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+Those who are intelligent and who are sāttvikas  
+will appreciate this conclusion and approve of it. 
+</details>
+
+<details><summary>Español</summary>
+
+Los que son inteligentes y que son sāttvikas
+**Apreciará** esta conclusión y la **aprobará**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्द निष्कर्षम् सत्त्वनिष्ठराय्विवेकिकळायिरुप्पार् तॆळिन्दङ्गीकरिप्पार्गळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थत्तै 
+
+> ’’सॆय्यादऩ सॆय्योन्, दीक्-कुऱळै सॆऩ्ऱ् ओदोम्’’  
+(तिरुप्पावै २)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै ’’सॆय्यादऩ सॆय्योन्दीक्कुऱळै सॆऩ्ऱोदोम्’’(तिरुप्पावै २)  ऎऩ्ऱुम्, 
+</details>
+
+
+(The Alvars) have stated this in such passages as the ~~following~~ above.
+
+> "We will never do what ought not to be done. We [^76] will never go (to any ācārya), and study heretical śāstras", and "Vouchsafe Thy grace so that I may not do wicked deeds". If we consider the import of the verse "O Lord of the world! Consider my offences as virtuous acts", it also means the prayer that the offences should be pardoned. Therefore if the prapanna happens to commit an offence, he is bound to obtain pardon as declared in the passage :- " Whether "offences are committed deliberately or in ignorance, the only expiation that is required is to say " Pardon me ".
 
 [^76]: It may also mean "we will never do what is evil".
 
