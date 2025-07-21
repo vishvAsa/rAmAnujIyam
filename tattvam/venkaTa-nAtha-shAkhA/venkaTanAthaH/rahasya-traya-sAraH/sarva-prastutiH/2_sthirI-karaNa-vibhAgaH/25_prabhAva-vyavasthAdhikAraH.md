@@ -9926,6 +9926,7 @@ Por lo tanto, **no hay** autoridad aquí por **violar** los **mandamientos** del
 इप्पडियाऩाल् आज्ञातिलङ्घनत्तुक्कॊरु विरगऩ्ऱिक्के यिरुक्क 
 </details>
 
+#### भ्रमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिलर् 
@@ -10136,6 +10137,7 @@ que incluso si el Prapanna **hace** las cosas prohibidas deliberadamente despué
 अवऱ्ऱै विडुगैयावदु निषेधित्तवै यॆल्लात्तिलुम् यथाशक्त्यनुष्ठानमागैयाल् इन्द निषिद्धानुष्ठानम् विधिबलप्राप्तमागैयाले प्रपन्नऩुक्कु बुद्धिपूर्वोत्तराघमुम् लेपियातॆऩ्ऱु भ्रमिप्पार्गळ्।
 </details>
 
+#### भ्रमे परिहासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु मिगवुम् परिहसनीयम्; +++(5)+++
@@ -10227,16 +10229,381 @@ sin **pensar** en la consecuencia ".
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् ऎल्लात्तैयुम् निऩैत्तु 
+
+> ‘‘अहो बत महत् कष्टं  
+विपरीतम् इदं जगत् ।  
+येनापत्रपते साधुर्  
+अ-साधुस् तेन तुष्यति॥’’  
+(भारतम् आरण्य-पर्व २-६४) 
+
+ऎऩ्ऱु महर्षि निर्विण्णऩाऩाऩ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अहो बत महत् कष्टं  
+विपरीतम् इदं जगत् ।  
+येनापत्रपते साधुर्  
+अ-साधुस् तेन तुष्यति॥’’  
+(भारतम् आरण्य-पर्व २-६४) 
+
+</details>
 
 
+<details><summary>विषयः</summary>
 
-It is in reflecting on such (perversities) that the great sage became sad: "Whatever ** the good man shirks from, that the wicked man is delighted with. How painful is the perversity of this world !"
+दुष्टता, अपचारः
+</details>
+
+<details><summary>English</summary>
+
+It is in reflecting on such (perversities) that the great sage became sad: 
+
+> "Whatever the good man shirks from,  
+that the wicked man is delighted with.  
+How painful is the perversity of this world !"+++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+**Es** al **reflexionar** sobre tales (perversidades)  
+que el gran sabio **se puso triste**:
+
+> "De lo que el buen hombre **se aleja**,  
+que el hombre malvado **está encantado**.  
+¡Qué dolorosa **es** la **perversidad** de este mundo! "
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-If the interpretation (given by these men) were the real meaning (of the teaching to Uddhava), it would follow that all the forbidden things done by a man throughout his life would be the requisites (aṅgas) of prapatti. The injunction that prapatti with its aṅgas should be done only once would then have no meaning. It is not possible to do all the forbidden things at the moment of performing prapatti. Nor have we seen any one performing prapatti, doing as much of the forbidden as lies in his power. According to this contention of theirs, even sins cannot be called sins (since they are enjoined), in the same way as injury ( to animals) in the Agnishomiya sacrifice is not called a sin ( because it is enjoined). All this would be in conflict with their own commentary on the words "I will release thee from all sins", including the sins that might be committed deliberately after prapatti. It would imply that we should commit the three kinds of offences of the wind, speech and body ) as much as lies in our power. It is also opposed to the code of conduct followed by previous ācāryas, to the tradition of our ancients, to their own actual conduct and, further, to the observances of present day aspirants to mukti. Those who contend in this manner should, when they are attacked by a prapanna owing to the desire for wealth or for pleasure, have to say; “Is this not, indeed, the dharma expected of a prapanna ?", and feel delighted. This would be opposed to countless pramāṇas and is also not the real purport of the words in question. Someācāryas would explain this contention that abstention from forbidden things is also included in the words sarva dharman (as something to be given up) is due to ignorance of the meaning of the word dharma. It is in this way: Among abstentions only that which is done in accordance with prescribed rules as a means to secure a particular object is called dharma. Mere non-violence (ahimsā) is only the absence of sin and is not dharma in the primary sense of the word ( for ao rules or restraints are observed). Therefore to give up non-violence undertaken for the sake of an object and in accordance with rules and restraints (niyama) means to give up the object aimed at and the rules and restraints in practising it. Beyond this, there is no au. thority for giving up the abstention from forbidden things that is prescribed in the nivṛtti śāstras (i.e.) śāstras for securing mukti,
+इवैयॆल्लात्तैयुम् निऩैत्तु ‘‘अहो बत महत्कष्टं विपरीतमिदं जगत् । येनापत्रपते साधुरसाधुस्तेन तुष्यति’’(भारतम् आरण्य-पर्व २-६४) ऎऩ्ऱु महर्षि निर्विण्णऩाऩाऩ्। 
+</details>
 
-Even if it be held that more ahimsā which is not accompanied by niyama (the observance of rules and restraints ) is also meant by the word dharia, we submit the following:
+#### प्रपत्ति-क्षण-कृत्यता-हान-प्रसङ्गः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळ् सॊल्लुगिऱ बडिय् अर्थम् आऩाल्  
+यावज्-जीवम् इरुन्द् अनुष्ठिक्कुम् निषिद्धानुष्ठानम् ऎल्लाम्  
+प्रपत्तिक्क् अङ्गम् आगैयाल्  
+
+> साङ्ग-प्रपदनम् सकृत्-कर्तव्यम्  
+
+ऎऩ्ऩुम् इडङ् गऴियुम्। 
+</details>
+
+<details><summary>English</summary>
+
+If the interpretation (given by these men) were the real meaning (of the teaching to Uddhava),  
+it would follow that all the forbidden things done by a man throughout his life  
+would be the requisites (aṅgas) of prapatti.  
+The injunction that  
+prapatti with its aṅgas should be done only once  
+would then have no meaning. 
+</details>
+
+<details><summary>Español</summary>
+
+Si la **interpretación** (**dada** por estos hombres) **fue** el **significado** real (de la **enseñanza** a Uddhava),  
+**Seguiría** que todas las cosas **prohibidas hechas** por un hombre a lo largo de su vida  
+**serían** los requisitos (AṅGas) de Prapatti.  
+La **orden** que  
+Prapatti con sus AṅGas debe **hacerse** solo una vez  
+Entonces **no tendría** sentido.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळ् सॊल्लुगिऱबडियर्थमाऩाल् यावज्जीवमिरुन्दनुष्ठिक्कुम् निषिद्धानुष्ठानमॆल्लाम् प्रपत्तिक्कङ्गमागैयाल् साङ्गप्रपदनम् सकृत्कर्तव्यमॆऩ्ऩुमिडङ्गऴियुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपत्ति-क्षणत्तिल् ऎल्ला निषिद्धङ्गळुम् अनुष्ठिक्कैय् अ-शक्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+It is not possible to do all the forbidden things at the moment of performing prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+**No es posible hacer** todas las cosas prohibidas en el momento de **realizar** Prapatti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तिक्षणत्तिल् ऎल्ला निषिद्धङ्गळुम् अनुष्ठिक्कैयशक्यम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदु यथा-शक्ति निषिद्धाद्य्-अनुष्ठानम् पण्णिक् कॊण्डु  
+प्रपत्ति-पण्णवुङ् कण्ड् अऱियोम्। +++(5)+++
+</details>
+
+
+<details><summary>English</summary>
+
+Nor have we seen any one performing prapatti,  
+doing as much of the forbidden as lies in his power. 
+</details>
+
+<details><summary>Español</summary>
+
+**Tampoco hemos visto** a nadie **realizando** Prapatti,  
+**haciendo** tanto de lo **prohibido** como **reside** en su poder.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्पोदु यथाशक्ति निषिद्धाद्यनुष्ठानम् पण्णिक्कॊण्डु प्रपत्तिपण्णवुङ्गण्डऱियोम्। 
+</details>
+
+#### पापत्व-हान-प्रसङ्गः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् पक्षत्तिल् पापङ्गळुम्  
+अग्नी-षोमीय-हिंसै पोले  
+पाप-शब्द-वाच्यम् अल्लामैयाले 
+</details>
+
+<details><summary>English</summary>
+
+According to this contention of theirs, even sins cannot be called sins (since they are enjoined),  
+in the same way as injury ( to animals) in the Agnishomiya sacrifice is not called a sin ( because it is enjoined).  
+</details>
+
+<details><summary>Español</summary>
+
+Según **esta afirmación** de la suya, incluso los pecados **no pueden llamarse** pecados (ya que **están ordenados**),  
+De la misma manera que la **lesión** (para los animales) en el **sacrificio** de Agnishomiya  
+**no se llama pecado** (porque **está ordenado**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप् पक्षत्तिल् पापङ्गळुमग्नीषोमीयहिंसै पोले पापशब्दवाच्यमल्लामैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बुद्धि-पूर्वोत्तराघत्तैयुङ् कूट्टि+++(=योजयित्वा)+++ 
+
+> ‘‘सर्व-पापेभ्यो मोक्षयिष्यामि’’ 
+
+ऎऩ्गिऱव् इडत्तुक्कुत् ताङ्गळ् व्याख्यानम् पण्णिऩ प्रकारमुम् विरुद्धमाम्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+All this would be in conflict with their own commentary on the words  
+
+> "I will release thee from all sins", 
+
+including the sins that might be committed deliberately after prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+Todo esto **estaría** en **conflicto** con su propio **comentario** sobre las palabras.
+
+> "Te **lanzaré** de todos los pecados",
+
+incluyendo los pecados que **podrían cometirse** deliberadamente después de Prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+बुद्धिपूर्वोत्तराघत्तैयुङ्गूट्टि ‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्गिऱविडत्तुक्कुत् ताङ्गळ् व्याख्यानम् पण्णिऩ प्रकारमुम् विरुद्धमाम्। 
+</details>
+
+#### अनिष्टान्तरम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा-शक्ति त्रि-विधापचारङ्गळ् कर्तव्यङ्गळ् आगवुम् प्रसङ्गिक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+It would imply that we should commit the three kinds of offences of the mind, speech and body as much as lies in our power. 
+</details>
+
+<details><summary>Español</summary>
+
+**Implicaría** que **deberíamos cometer** los tres tipos de ofensas de la mente, el habla y el cuerpo  
+tanto como **radica** en nuestro poder.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथाशक्ति त्रिविधापचारङ्गळ् कर्तव्यङ्गळागवुम् प्रसङ्गिक्कुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु पूर्वानुष्ठानत्तुक्कुम्, पूर्व-संप्रदायत्तुक्कुम्, स्वानुष्ठानत्तुक्कुम्,  
+मऱ्ऱुम् इप्पोदु काण्गिऱ मुमुक्षुक्कळ्-उडैय अनुष्ठानत्तुक्कुम्  
+विरुद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+It is also opposed to the code of conduct followed by previous ācāryas, to the tradition of our ancients, to their own actual conduct and, further, to the observances of present day aspirants to mukti. 
+</details>
+
+<details><summary>Español</summary>
+
+También **se opone** al Código de Conducta, seguido de ācāryas anteriores, a la tradición de nuestros antiguos, a su propia conducta real  
+y, además, a las **observancias** de los aspirantes actuales a Mukti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु पूर्वानुष्ठानत्तुक्कुम् पूर्वसंप्रदायत्तुक्कुम् स्वानुष्ठानत्तुक्कुम् मऱ्ऱुमिप्पोदु काण्गिऱ मुमुक्षुक्कळुडैय अनुष्ठानत्तुक्कुम् विरुद्धम्। 
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिच् चॊल्लुम्-अवर्गळ्  
+तम्मैय् ऒरु प्रपन्नर् अर्थ-कामङ्गळ्-अडिय् आग नलियप्+++(=हन्तुं)+++ पुक्काल्  
+
+> इदु प्रपन्न-धर्मम् अऩ्ऱोव् 
+
+ऎऩ्ऱ् इवरैय् उगन्द् इरुक्कप् प्राप्तम् आम्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Those who contend in this manner should,  
+when they are attacked by a prapanna owing to the desire for wealth or for pleasure, have to say -  
+
+> “Is this not, indeed, the dharma expected of a prapanna ?", 
+
+and feel delighted. +++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+Aquellos que **sostienen** de esta manera **deberían**,  
+Cuando son **atacados** por una Prapanna debido al deseo de riqueza o por placer, **tienen** que **decir** -
+
+> "¿**Esto** no, de hecho, el Dharma **se espera** de una Prapanna?",
+
+y **siéntete** encantado.+++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिच् चॊल्लुमवर्गळ् तम्मैयॊरु प्रपन्नर् अर्थकामङ्गळडियाग नलियप्पुक्काल् इदु प्रपन्नधर्ममऩ्ऱो वॆऩ्ऱिवरैयुगन्दिरुक्कप् प्राप्तमाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु अनन्त-प्रमाणङ्गळुक्कु विरुद्धम् आम् अळवेय् अऩ्ऱिक्के  
+इङ्ग् ऎडुत्त वचनङ्गळुक्कु विवक्षितमुम् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+This would be opposed to countless pramāṇas  
+and is also not the real purport of the words in question.
+</details>
+
+<details><summary>Español</summary>
+
+Esto **se opondría** a innumerables pramāṇas  
+y tampoco **es** el verdadero significado de las palabras en cuestión.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु अनन्तप्रमाणङ्गळुक्कु विरुद्धमामळवे यऩ्ऱिक्के इङ्गॆडुत्त वचनङ्गळुक्कु विवक्षितमुमऩ्ऱु। 
+</details>
+
+#### धर्म-शब्दार्थः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > निषिद्ध-निवृत्ति-रूपङ्गळ् ऎल्लाम्  
+सर्व-धर्म-शब्दत्ताले संगृहीतङ्गळ् 
+> 
+> ऎऩ्ऩुम् इडम्  
+धर्म-शब्दार्थम् अऱियामऱ् सॊऩ्ऩ बडिय् 
+
+ऎऩ्ऱु सिलव् आचार्यर्गळ् निर्वहिप्पार्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+Some ācāryas would explain this contention that abstention from forbidden things is also included in the words sarva dharman (as something to be given up)  
+is due to ignorance of the meaning of the word dharma. 
+</details>
+
+<details><summary>Español</summary>
+
+Algunos ācāryas **explicarían** esta **afirmación** de que la **abstención** de las cosas prohibidas  
+también **se incluye** en las palabras sarva dharman (como algo a **renunciar**)  
+**se debe** a la ignorancia del significado de la palabra dharma.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निषिद्ध निवृत्तिरूपङ्गळॆल्लाम् सर्वधर्मशब्दत्ताले संगृहीतङ्गळॆऩ्ऩुमिडम् धर्मशब्दार्थमऱियामऱ्सॊऩ्ऩबडियॆऩ्ऱु सिलवाचार्यर्गळ् निर्वहिप्पार्गळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+
+> निवृत्तिगळिलेय्  
+ऒरु फलत्तुक्कु साधनम् आग  
+नियम-विशेषङ्गळ्-उडऩे सॆय्द्-अवै  
+धर्म-शब्दार्थम् आम्। 
+</details>
+
+
+<details><summary>English</summary>
+
+It is in this way:  
+
+> Among abstentions  
+only that which is done in accordance with prescribed rules as a means to secure a particular object is called dharma. 
+</details>
+
+<details><summary>Español</summary>
+
+**Es** de esta manera:
+
+> Entre **abstenciones**
+Solo lo que **se hace** de acuerdo con las reglas prescritas como un medio para **asegurar** un objeto en particular **se llama** dharma.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; निवृत्तिकळिलेयॊरु फलत्तुक्कु साधनमाग नियमविशेषङ्गळुडऩे सॆय्दवै धर्मशब्दार्थमाम्। 
+</details>
+
+
+Mere non-violence (ahimsā) is only the absence of sin and is not dharma in the primary sense of the word ( for no rules or restraints are observed). Therefore to give up non-violence undertaken for the sake of an object and in accordance with rules and restraints (niyama) means to give up the object aimed at and the rules and restraints in practising it. Beyond this, there is no au. thority for giving up the abstention from forbidden things that is prescribed in the nivṛtti śāstras (i.e.) śāstras for securing mukti,
+
+Even if it be held that more ahimsā which is not accompanied by niyama (the observance of rules and restraints ) is also meant by the word dharma, we submit the following:
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
