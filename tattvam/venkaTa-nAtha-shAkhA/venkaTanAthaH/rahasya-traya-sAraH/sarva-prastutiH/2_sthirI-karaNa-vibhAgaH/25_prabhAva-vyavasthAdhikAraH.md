@@ -9866,8 +9866,6 @@ it is said further,
 the thought that you are the doer", 
 
 in order to enable us to realise that even our doership is dependent on another (the Lord ). 
-
-(Thus there is no authority here for violating the commands of the Lord.)
 </details>
 
 <details><summary>Español</summary>
@@ -9878,8 +9876,6 @@ in order to enable us to realise that even our doership is dependent on another 
 la idea de que **eres** el **hacedor** ",
 
 Para **permitirnos darnos cuenta** de que incluso nuestra **carrera** depende de otro (el Señor).
-
-(Por lo tanto, **no hay** autoridad aquí por **violar** los **mandamientos** del Señor).
 </details>
 
 
@@ -9889,14 +9885,354 @@ Para **permitirnos darnos cuenta** de que incluso nuestra **carrera** depende de
 </details>
 
 
-### उत्सृज्य चोदनाम्
+### निवृत्ति-धर्मो ऽत्याज्यः
+
+<details><summary>English</summary>
+
+Now let us consider what was taught to Uddhava :- 
+</details>
+
+<details><summary>Español</summary>
+
+Ahora **consideremos** lo que se enseñó a Uddhava:-
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् पडिय् आऩाल् आज्ञातिलङ्घनत्तुक्क् ऒरु विरग्+++(=उपाय)+++ अऩ्ऱिक्केय् इरुक्क 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवम्-भावात् आज्ञातिलङ्घनस्य कस्मिंश्चिद् अपि हेताव् असति, 
+</details>
+
+
+<details><summary>English</summary>
+
+Thus there is no authority here for violating the commands of the Lord.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **no hay** autoridad aquí por **violar** los **mandamientos** del Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियाऩाल् आज्ञातिलङ्घनत्तुक्कॊरु विरगऩ्ऱिक्के यिरुक्क 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिलर् 
+
+> ‘‘तस्मात् त्वम् उद्धवोत्सृज्य  
+चोदनां प्रतिचोदनाम् ।  
+प्रवृत्तिञ् च निवृत्तिञ् च  
+श्रोतव्यं श्रुतम् एव च ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+केचित्, 
+
+> ‘‘तस्मात् त्वम् उद्धवोत्सृज्य  
+चोदनां प्रतिचोदनाम् ।  
+प्रवृत्तिञ् च निवृत्तिञ् च  
+श्रोतव्यं श्रुतम् एव च ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+In spite of what has been said so far, some quote the words addressed to Uddhava.--
+
+> "Give up, Uddhava, all injunctions (vidhis) (like sandhyā, which are prescribed as a means to an end);  
+give up all prohibitions such as “don't injure others";  
+give up the dharmas to be actively performed  
+and also the dharmas which prescribe the avoidance of or abstention from certain acts  
+and also the requisites (aṅgas) which you have heard so far  
+and which you will learn hereafter as being necessary for both of them (Give up all these)  
+</details>
+
+<details><summary>Español</summary>
+
+
+A pesar de lo que **se ha dicho** hasta ahora, algunas citan las palabras **dirigidas** a Uddhava.
+
+> "**Renuncia**, uddhava, todas las **órdenes** (vidhis) (como sandhyā, que **se prescriben** como un medio para un fin);  
+**renunciar** a todas las **prohibiciones** como "**No lesione** a los demás";  
+**renunciar** a los dharmas para **ser realizado** activamente  
+y también los dharmas que **prescriben** la **evitación** o la **abstención** de ciertos actos  
+y también los requisitos (aṅgas) que **has escuchado** hasta ahora  
+y que **aprenderás** de aquí en adelante como **necesario** para los dos (**renuncia** a todos estos)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिलर् ‘‘तस्मात्त्वमुद्धवोत्सृज्य चोदनां प्रतिचोदनाम् । प्रवृत्तिञ्च निवृत्तिञ्च श्रोतव्यं श्रुतमेव च ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> माम् एकम् एव शरणम्  
+आत्मानं सर्व-देहिनाम् ।  
+**याहि** सर्वात्म-भावेन  
+**यास्यसि** ह्य् अ-कुतो-भयम्’’  
+(श्री भागवतम् ११-१२-१४। ) 
+
+ऎऩ्ऱु निवृत्तियैयुङ् कूड विडच् चॊऩ्ऩ पडियालुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> माम् एकम् एव शरणम्  
+आत्मानं सर्व-देहिनाम् ।  
+**याहि** सर्वात्म-भावेन  
+**यास्यसि** ह्य् अ-कुतो-भयम्’’  
+(श्री भागवतम् ११-१२-१४। ) 
+
+इति निवृत्तेर् अपि त्याग-वचनात्  
+</details>
+
+
+<details><summary>English</summary>
+
+> and seek refuge in Me alone by all means, for I am the Inner Self of all beings.  
+By doing so, you will attain mokṣa,  
+where there is freedom from all fear". 
+
+They quote these words and argue as follows 
+
+> "Since, here we are enjoined[^75] to give up the abstention from certain actions, 
+</details>
+
+<details><summary>Español</summary>
+
+> Y **busque refugio** en mí solo por todos los medios,  
+porque yo **soy** el yo interior de todos los seres.  
+Al **hacerlo, alcanzarás** Mokṣa,  
+donde **hay libertad** de todo miedo ".
+
+**Citan** estas palabras y **discuten** de la siguiente manera
+
+> "Dado que aquí **estamos ordenados** [^75] que **renuncien** a la **abstención** de ciertas **acciones**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मामेकमेव शरणमात्मानं सर्वदेहिनाम् । याहि सर्वात्मभावेन यास्यसि ह्यकुतोभयम्’’(श्री भागवतम् ११-१२-१४। ) ऎऩ्ऱु निवृत्तियैयुङ्गूडविडच्चॊऩ्ऩ पडियालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सर्व-धर्मान् परित्यज्य’’ 
+
+ऎऩ्गिऱव् इडत्तिल्  
+सर्व-शब्दत्तै सङ्कोचियामैक्क् आगवुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सर्व-धर्मान् परित्यज्य’’ 
+
+इत्य्-अत्र सर्व-शब्दस्यासंकोचय 
+</details>
+
+
+<details><summary>English</summary>
+
+> and since in the carama śloka,  
+it is not proper to restrict or limit the meaning of sarva (all) in sarva karmāni,  
+</details>
+
+<details><summary>Español</summary>
+
+> y desde en la cámara Śloka,  
+**No es apropiado restringir** o **limitar** el **significado** de Sarva (todos) en "Sarva Karmāni",  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सर्वधर्मान् परित्यज्य’’ ऎऩ्गिऱविडत्तिल् सर्वशब्दत्तै सङ्कोचियामैक्कागवुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निवृत्ति-रूप-धर्मङ्गळैयुम् कूड विड-वेण्डुगैयाल्,   
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+निवृत्ति-धर्माणाम् अपि त्याज्यत्वात्  
+</details>
+
+
+<details><summary>English</summary>
+
+it follows that we should give up even the abstention (from evil acts )." 
+</details>
+
+<details><summary>Español</summary>
+
+> **Se deduce** que **debemos renunciar** incluso a la **abstención** (de los **actos** malvados) ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+निवृत्तिरूपधर्मङ्गळैयुम् कूड विडवेण्डुगैयाल्,   
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऱ्ऱै विडुगैय् आवदु -  
+निषेधित्तवैय् ऎल्लात्तिलुम् यथा-शक्त्य्-अनुष्ठानम् आगैयाल्  
+इन्द निषिद्धानुष्ठानम् विधि-बल-प्राप्तम् आगैयाले  
+प्रपन्नऩुक्कु बुद्धि-पूर्वोत्तराघमुम् लेपियाद्  
+ऎऩ्ऱु भ्रमिप्पार्गळ्।+++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्-त्यागस्य च  
+निषिद्धानां सर्वेषां यथा-शक्त्य्-अनुष्ठान-रूपत्वात्  
+प्रपन्नस्य बुद्धि-पूर्वोत्तराघ-लेपो न भवतीति भ्राम्यन्ति । 
+</details>
+
+<details><summary>English</summary>
+
+This would mean that  
+we should perform forbidden things  
+as much as lies in our power.  
+Since the doing of these forbidden things is something that, according to them, is enjoined,  
+these people argue in their delusion  
+that even if the prapanna does forbidden things deliberately after prapatti,  
+there would be no stain left. 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **significaría** que  
+**Deberíamos realizar** cosas prohibidas  
+Por mucho que **se encuentre** en nuestro poder.  
+Dado que **hacer** estas cosas **prohibidas** es algo que, según ellas, está **ordenado**,  
+Estas personas **discuten** en su engaño  
+que incluso si el Prapanna **hace** las cosas prohibidas deliberadamente después de Prapatti,  
+**No quedaría** mancha.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवऱ्ऱै विडुगैयावदु निषेधित्तवै यॆल्लात्तिलुम् यथाशक्त्यनुष्ठानमागैयाल् इन्द निषिद्धानुष्ठानम् विधिबलप्राप्तमागैयाले प्रपन्नऩुक्कु बुद्धिपूर्वोत्तराघमुम् लेपियातॆऩ्ऱु भ्रमिप्पार्गळ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु मिगवुम् परिहसनीयम्; +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+This is extremely ridiculous,  
+</details>
+
+<details><summary>Español</summary>
+
+Esto **es** extremadamente ridículo  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु मिगवुम् परिहसनीयम्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+अलेपकर्+++(=चार्वाकाः)+++ पापम् पण्णिऩाल् लेपियाद् ऎऩ्बार्गळ्;  
+इवर्गळ् पापम् अवश्यम् अनुष्ठिक्क वेणुम् ऎऩ्ऱार्गळ् आयिऱ्ऱु। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+for the (notorious) charvakas (alepakas) say that even if a man sins,  
+it leaves no stain behind,  
+whereas the argument stated above goes further and is tantamount to saying that (the prapanna ) should necessarily commit sin. 
+
+('Giving up abstention from forbidden things' would mean doing forbidden things.)
+</details>
+
+<details><summary>Español</summary>
+
+Para el (notorioso) Charvakas (Alepakas) **dice** que incluso si un hombre **peca**,  
+**No deja** una mancha detrás,  
+Mientras que el **argumento indicado** anteriormente **va** más allá  
+y **equivale** a decir que (la Prapanna) **necesariamente debería cometer pecado**.
+
+('**Renunciar** a la **abstención** de las cosas prohibidas' **significaría hacer** cosas prohibidas.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; अलेपकर् पापम् पण्णिऩाल् लेपियादॆऩ्बार्गळ्; इवर्गळ् पापमवश्यम् अनुष्ठिक्कवेणुमॆऩ्ऱार्गळायिऱ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु 
+
+> ‘‘भक्ष्योत्तम-प्रतिच्छन्नं  
+मत्स्यो बलिशम् आयसम् ।  
+अन्नाभिलाषी **ग्रसते**  
+नानुबन्धम् **अवेक्षते**’’  
+(भारतम् उद्योग-पर्व ३४-१३) 
+
+ऎऩ्गिऱ कणक्काम्। 
+</details>
+
+<details><summary>English</summary>
+
+This is like 
+
+> "the fish swallowing greedily the bait made of iron  
+covered with something which is delicious to eat,  
+without any thought of the consequence." 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **es** como
+
+> "El pez **tragando** con avidez el cebo **hecho** de hierro  
+**cubierto** con algo que es delicioso para **comer**,  
+sin **pensar** en la consecuencia ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु ‘‘भक्ष्योत्तमप्रतिच्छन्नं मत्स्यो बलिशमायसम् । अन्नाभिलाषी ग्रसते नानु बन्धमवेक्षते’’(भारतम् उद्योग-पर्व ३४-१३) ऎऩ्गिऱ कणक्काम्। 
+</details>
 
 
 
 
-Now let us consider what was taught to Uddhava :- In spite of what has been said so far, some quote the words addressed to Uddhava.--"Give up, Uddhava, all injunctions (vidhis) (like sandhyā, which are prescribed as a means to an end); give up all prohibitions such as “don't injure others"; give up the dharmas to be actively performed and also the dharmas which prescribe the avoidance of or abstention from certain acts and also the requisites (aṅgas) which you have heard so far and which you will learn hereafter as being necessary for both of them (Give up all these) and seek refuge in Me alone by all means, for I am the Inner Self of all beings. By doing so, you will attain mokṣa, where there is freedom from all fear". They quote these words and argue as follows "Since, here we are enjoined[^75] to give up the abstention from certain actions, and since in the carama śloka, it is not proper to restrict or limit the meaning of sarva (all) in sarva karmāni, it follows that we should give up even the abstention (from evil acts )." This would mean that we should perform forbidden things as much as lies in our power. Since the doing of these forbidden things is something that, according to them, is enjoined, these people argue in their delusion that even if the prapanna does forbidden things deliberately after prapatti, there would be no stain left. This is extremely ridiculous, for the (notorious) charvakas (alepakas) say that even if a man sins, it leaves no stain behind, whereas the argument stated above goes further and is tantamount to saying that (the prapanna ) should necessarily commit sin: This is "like the fish swallowing greedily the bait made of iron covered with something which is delicious to eat, without any thought of the consequence. It is in reflecting on such (perversities) that the great sage became sad: "Whatever ** the good man shirks from, that the wicked man is delighted with. How painful is the perversity of this world !"
 
-[^75]: 'Giving up abstention from forbidden things' would mean doing forbidden things.
+It is in reflecting on such (perversities) that the great sage became sad: "Whatever ** the good man shirks from, that the wicked man is delighted with. How painful is the perversity of this world !"
+
+
 
 If the interpretation (given by these men) were the real meaning (of the teaching to Uddhava), it would follow that all the forbidden things done by a man throughout his life would be the requisites (aṅgas) of prapatti. The injunction that prapatti with its aṅgas should be done only once would then have no meaning. It is not possible to do all the forbidden things at the moment of performing prapatti. Nor have we seen any one performing prapatti, doing as much of the forbidden as lies in his power. According to this contention of theirs, even sins cannot be called sins (since they are enjoined), in the same way as injury ( to animals) in the Agnishomiya sacrifice is not called a sin ( because it is enjoined). All this would be in conflict with their own commentary on the words "I will release thee from all sins", including the sins that might be committed deliberately after prapatti. It would imply that we should commit the three kinds of offences of the wind, speech and body ) as much as lies in our power. It is also opposed to the code of conduct followed by previous ācāryas, to the tradition of our ancients, to their own actual conduct and, further, to the observances of present day aspirants to mukti. Those who contend in this manner should, when they are attacked by a prapanna owing to the desire for wealth or for pleasure, have to say; “Is this not, indeed, the dharma expected of a prapanna ?", and feel delighted. This would be opposed to countless pramāṇas and is also not the real purport of the words in question. Someācāryas would explain this contention that abstention from forbidden things is also included in the words sarva dharman (as something to be given up) is due to ignorance of the meaning of the word dharma. It is in this way: Among abstentions only that which is done in accordance with prescribed rules as a means to secure a particular object is called dharma. Mere non-violence (ahimsā) is only the absence of sin and is not dharma in the primary sense of the word ( for ao rules or restraints are observed). Therefore to give up non-violence undertaken for the sake of an object and in accordance with rules and restraints (niyama) means to give up the object aimed at and the rules and restraints in practising it. Beyond this, there is no au. thority for giving up the abstention from forbidden things that is prescribed in the nivṛtti śāstras (i.e.) śāstras for securing mukti,
 
