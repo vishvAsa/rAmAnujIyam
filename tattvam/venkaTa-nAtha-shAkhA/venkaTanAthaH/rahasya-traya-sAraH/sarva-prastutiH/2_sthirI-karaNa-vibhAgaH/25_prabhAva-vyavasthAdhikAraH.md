@@ -11813,7 +11813,70 @@ porque él **es** todopoderoso).
 सर्वशक्तियाऩवऩुक्कु निग्रहेच्छै पिऱन्दाल् क्षमै कॊळ्ळादबोदु फलसिद्धियिल्लै यॆऩ्ऩवुमॊण्णादु। 
 </details>
 
-If it be held that the offence would only cause the absence of pleasure to the Lord, then if that displeasure would not cause any evil (to the man), there would be no need to perform a later prāyaścitta (which is distinctly ordained in the passage cited above.) If it be held that the utmost that would happen (on account of the offence) is only absence of pleasure to oneself in addition to that of the Lord, the evil consequences, namely, absence of pleasure will have to be admitted. It may be said :-(Let there be absence of pleasure; absence of pleasure being only a particular form of knowledge, it would last only for an instant). There is no reason for performing a prayascitta in connection with the absence of one's own pleasure which has passed away. It it is said that the expiation or prāyaścitta is intended only to avoid the absence of pleasure in oneself that might continue, then, there is every reason to perform expiation owing to the fear that the sufferings stated in the śrutis and the smṛtis (for non-performance of ordained rites and observances - nitya and naimittika ) would follow when the time comes for its fruition, for these sufferings are on the same footing as this displeasure ).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ईश्वरऩुक्कु प्रीत्य्-अ-भाव-मात्रम् पिऱक्कुम् अत्तऩैय् 
+
+ऎऩ्ऱाल्  
+तऩक्क् अत्ताल् मेल् ऒरु प्रत्यवायम् इल्लैय् आगिल्  
+पुनः-प्रायश्चित्तम् पण्ण वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+If it be held that the offence would only cause the absence of pleasure to the Lord,  
+then if that displeasure would not cause any evil (to the man),  
+there would be no need to perform a later prāyaścitta (which is distinctly ordained in the passage cited above.) 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se sostiene** que el delito solo **causaría** la **ausencia** de placer al Señor,  
+Entonces, si ese disgusto **no causaría** ningún mal (al hombre),  
+**No habría necesidad** de **realizar** una prāyaścitta posterior  
+(que está claramente **ordenada** en el pasaje citado anteriormente).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩुक्कु प्रीत्यभावमात्रम् पिऱक्कुमत्तऩैयॆऩ्ऱाल् तऩक्कत्ताल् मेलॊरु प्रत्यवायमिल्लै यागिल् पुनःप्रायश्चित्तम् पण्णवेण्डा। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तऩक्कुम् प्रीत्य्-अ-भावम् पिऱक्कुम् अत्तऩैय्  
+
+ऎऩ्ऱालुम् प्रत्यवायम् सिद्धम् आयिऱ्ऱु।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+If it be held that  
+the utmost that would happen (on account of the offence) is only absence of pleasure to oneself  
+in addition to that of the Lord,  
+the evil consequences, namely, absence of pleasure will have to be admitted. 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se sostiene** que  
+lo más importante que **sucedería** (debido al delito) **es** solo **ausencia** de placer para uno mismo para uno mismo  
+Además de la del Señor,  
+Las **consecuencias** malvadas, a **saber**, la **ausencia** de placer **tendrán** que **ser admitidas**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩक्कुम् प्रीत्यभावम् पिऱक्कु मत्तऩैयॆऩ्ऱालुम् प्रत्यवायम् सिद्धमायिऱ्ऱु।
+</details>
+
+
+
+
+It may be said :-(Let there be absence of pleasure; absence of pleasure being only a particular form of knowledge, it would last only for an instant). There is no reason for performing a prayascitta in connection with the absence of one's own pleasure which has passed away. It it is said that the expiation or prāyaścitta is intended only to avoid the absence of pleasure in oneself that might continue, then, there is every reason to perform expiation owing to the fear that the sufferings stated in the śrutis and the smṛtis (for non-performance of ordained rites and observances - nitya and naimittika ) would follow when the time comes for its fruition, for these sufferings are on the same footing as this displeasure ).
 
 Therefore in order to avoid (1) these sufferings and (2) the interruption to the enjoyment of the Lord (Bhagavad anubhava) here and the diminution of it caused by the weakness of the senses, the fading of the intelligence, sorrow and the like and (3) in the case of those whose term of life has not already been unalterably fixed, delay in the ultimate gain, viz., mokṣa by the extension of the age limit - in order that this may not happen, prapatti has to be performed again. Even those who hold the opinion that this is not required will have to concede that the performance of this latter prapatti will be pardoned by the Lord (even if it be considered as an offence ), since they hold the opinion that the Lord will forgive (even ) the doing of forbidden things.
 
