@@ -10945,6 +10945,15 @@ son AṅGas a Prapatti.
 प्रतिसन्धीयताम् इह ॥
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+रपन्नम् अधिकृत्यैव  
+सदाचारानतिक्रमः ।  
+प्रपत्त्य्-अध्याय-पठितः  
+प्रतिसन्धीयताम् इह ॥
+</details>
+
+
 <details><summary>English</summary>
 
 > "Let us bear in mind the fact that the injunction not to violate the code of conduct of the good (such as giving up sandhyā or nitya and naimittika)  
@@ -10967,7 +10976,7 @@ que **encontramos** en el capítulo sobre Prapatti
 प्रपत्त्यध्यायपठितः प्रतिसन्धीयतामिह ॥
 </details>
 
-#### प्रपत्त्य्-अङ्गत्व-निराकृतिः
+#### प्रपत्त्य्-अङ्गत्व-निराकृति-पक्षः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिय् अऱ्ऱ बिऩ्बु  
@@ -10981,6 +10990,21 @@ que **encontramos** en el capítulo sobre Prapatti
 ऎऩ्गिऱव् इडत्तिलुम्  
 प्रपत्तिक्क् अङ्गम् आगव् ऒऩ्ऱुम् स्वीकरिक्क वेण्डाव् ऎऩ्ऱद् आम् इत्तऩै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं सिद्धे सति, 
+
+> 'चोदनां प्रतिचोदनाम् । …  
+> प्रवृत्ति च निवृर्ति च' 
+
+इत्य्-अत्रापि  
+
+> प्रपत्त्य्-अङ्गतया किम् अपि न कर्तव्यम् 
+
+इति प्रतिपाद्यत इत्य् एतावद् एव । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11020,7 +11044,7 @@ que **no deben observarse** como AṅGA o requisitos para Prapatti.
 इप्पडियऱ्ऱबिऩ्बु ‘‘चोदनां प्रतिचोदनाम्’’ ऎऩ्गिऱविडत्तिल् प्रवृत्तिञ्च निवृत्तिञ्च ऎऩ्गिऱविडत्तिलुम् प्रपत्तिक्कङ्गमाग वॊऩ्ऱुम् स्वीकरिक्कवेण्डावॆऩ्ऱदामित्तऩै। 
 </details>
 
-#### काम्य-कर्म-त्यागः
+#### काम्य-कर्म-त्याग-पक्षः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुमुक्षु-मात्रत्तैप् पऱ्ऱ  
@@ -11033,6 +11057,23 @@ que **no deben observarse** como AṅGA o requisitos para Prapatti.
 अवऱ्ऱुक्क् उऱुप्प्+++(=अङ्गम्)+++ आऩ शास्त्रङ्गळैयुम्  
 विडच् चॊऩ्ऩद् आगवुम् आम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुमुक्षु-मात्रं प्रति, 
+
+> ‘‘त्रैवर्गिकांस् त्यजेद् धर्मान्’’  
+(विष्णुपुराणम् ऎऩ्ऱु मुऩ्ऩोर्गळ्) 
+
+इत्य्-उक्त-न्यायेन  
+
+> फलान्तर-साधनत्वेन चोदितानां प्रवृत्ति-निवृत्तीनां,  
+तत्-प्रयोजक-शास्त्राणां  
+च त्यागः प्रतिपाद्यत  
+
+इति वा । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11074,6 +11115,13 @@ En aquellos Śāstras que los **orientan**.
 ऎऩ्ऩिल् मुऩ्बु सॊऩ्ऩ सर्वविरोधमुम् प्रसङ्गिक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अनेन नित्य-नैमित्तिकानां स्व-रूपत्यागो विवक्षितश् चेत्  
+पूर्वोक्त-सर्व-विरोधोऽपि प्रसज्येत । 
+</details>
+
+
 <details><summary>English</summary>
 
 As against this,  
@@ -11103,6 +11151,12 @@ Si **se sostenía** que Nitya y Naimittika Karmas y similares **son** ellos mism
 तॆळिन्द् अङ्गी-करिप्पार्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इमं निष्कर्षं सत्त्व-निष्ठा विवेकिनः सन्तः स्वीकुर्वीरन् । 
+</details>
+
+
 <details><summary>English</summary>
 
 Those who are intelligent and who are sāttvikas  
@@ -11125,12 +11179,37 @@ Los que son inteligentes y que son sāttvikas
 
 इव्व्-अर्थत्तै 
 
-> ’’सॆय्यादऩ सॆय्योन्, दीक्-कुऱळै सॆऩ्ऱ् ओदोम्’’  
+> ’’सॆय्यादऩ सॆय्योन्, +++(सच्-छास्त्रम् इति)+++ तीक्+++(=क्रूर)+++-कुऱळै+++(=उक्तिं)+++ सॆऩ्ऱ्+++(=मिलित्वा)+++ ओदोम्+++(=न पठामः)+++’’  
 (तिरुप्पावै २)  
 
 ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२४९]] 
+
+इमम् अर्थम्, 
+
+> “1 अनाचरितानि न कुर्मः  
+क्रूरोक्तिं गत्वा न वदामः+++(→पठामः)+++" 
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+> "We will never do what ought not to be done.  
+We will never go (to any ācārya), and study heretical śāstras",  
+(It may also mean "we will never do what is evil".)
+</details>
+
+<details><summary>Español</summary>
+
+> "**Nunca haremos** lo que **no se debe hacer**.  
+Nosotros **nunca iremos** (a ningún ācārya) y **estudiamos** Śāstras heréticos",  
+(También **puede significar** "**nunca haremos** lo que **sea** malvado".)
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -11141,9 +11220,8 @@ Los que son inteligentes y que son sāttvikas
 
 (The Alvars) have stated this in such passages as the ~~following~~ above.
 
-> "We will never do what ought not to be done. We [^76] will never go (to any ācārya), and study heretical śāstras", and "Vouchsafe Thy grace so that I may not do wicked deeds". If we consider the import of the verse "O Lord of the world! Consider my offences as virtuous acts", it also means the prayer that the offences should be pardoned. Therefore if the prapanna happens to commit an offence, he is bound to obtain pardon as declared in the passage :- " Whether "offences are committed deliberately or in ignorance, the only expiation that is required is to say " Pardon me ".
+and "Vouchsafe Thy grace so that I may not do wicked deeds". If we consider the import of the verse "O Lord of the world! Consider my offences as virtuous acts", it also means the prayer that the offences should be pardoned. Therefore if the prapanna happens to commit an offence, he is bound to obtain pardon as declared in the passage :- " Whether "offences are committed deliberately or in ignorance, the only expiation that is required is to say " Pardon me ".
 
-[^76]: It may also mean "we will never do what is evil".
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
