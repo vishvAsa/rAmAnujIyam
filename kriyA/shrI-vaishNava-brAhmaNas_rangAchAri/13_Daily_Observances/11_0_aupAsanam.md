@@ -3,6 +3,7 @@ title = "11.0 AUPĀSANAM"
 
 +++
 
+## Upload/ download
 The worshipper approaches the fire which he used the previous day, after washing his legs and doing two achamanams. For use he takes fire from this by using darbha or samit and mixes it with fire in the place where he intends doing the ceremony and he repeats the following mantra while burning the samit or the darbha in the fire:-
 
 > "Upavaroha jātavedah punastvam dēvēbhyo havyam vahanaḥ prajānān āyuḥ prajāmrayimasmāsudhehi ajasrodidihino durone" 
@@ -20,6 +21,7 @@ and do "Avarohanam" (removal) to it. The translation of the above is:-
 
 > Oh Agni! having been invited with great favour, with grace, reach your own good place in the eastern direction. Oh! Viśvēdēva, you and the sacrificer sit on the best seat provided in front of us, where you can very well sit with Agni. 
 
+## sankalpAdi
 Then he does sankalpam repeating 
 
 > "Śrī Bhagavadājñayā śrīman Narayanaprītyartham prātaraupāsanahomam hoshyāmi" 
@@ -32,10 +34,13 @@ Then he does the satvikatyāga by repeating the following mantra: -
 
 > "Bhagavānēva prātaraupāsanākhyam karma kārayati." 
 
+## ullekhana
 In a place in front of the worshipper where he is sitting he has to draw three lines, west to east, and three lines north to south, with the help of darbhas and then he has to throw the darbhas on the ground, sprinkle water over them and then they are thrown towards the nirrti corner. 
 
+## paristaraNa
 Then he touches water and pronouncing three times the Vyāhrtis along with the pranavam takes the fire and keeps it in the place where homam is to be done. Afterwards he pours the water down, that was used for sprinkling, either towards the east or north and fills the empty vessel with fresh water and places it either to the north or east of the fire-place. Round the fire-place he places sixteen darbhas, four on each side, beginning with the east and going round in a pradakshina manner, that is to say, four darbhas to the east first with the sharp points or apex of the darbhas towards the north, then on the south with the tips of darbhas to the east, then on the west with the tips towards the north and lastly on the northern side with the tips towards the east. The darbhas placed to the south should be above the darbhas placed towards the east and the west and the darbhas placed towards the north with the tip to the east should be below the darbhas placed towards the west and the east. 
 
+## Agni brining
 After placing the darbhas round the fire as described above, he places the hands in a praying posture (hands together with the palms touching) and repeats the following mantra:-- 
 
 >  "Chatvari śrnga trayōasyapādā dvēśīrshē sapta hastaso asya . tridhābaddho . vrshabho röravīti mahōdevo martyān avivēśa . eshahi devaḥ pradiśōnu sarvāḥ . pūrvōhi jātaḥ [[०८५]] [[८०]] sa u garbhe antah . savijayamanah sajanishyamānaḥ pratyangmuklastisthati viśvato mukhah." 
@@ -46,6 +51,7 @@ Translation of the above passage is :--
 
 Then he prays repeating "Prangmukho deva agnē abhimukhō bhava" which in English runs thus "Oh Agni of divine splendour, please be seated in the eastern direction and be disposed friendly towards me". 
 
+## AlankArAnta
 He takes some akshata in the left hand and taking small quantities with the right hand places it in the directions mentioned, beginning with the east and ending with the Isanyam the north-east or the eighth corner. While placing the rice he repeats in order the following mantras beginning with the east:-
 
 > "Omagnayēnamaḥ. jāta vēdasē namah. Om sahojasē namah Om ajiraprabhave namah Om Vaiśvānarāya namah Om naryāpasē namah Om panktirathasē namah Om visarpinė namah!" 
@@ -56,6 +62,7 @@ After placing the turmeric dyed rice all round the fire in eight places, he take
 
 The above Sanskrit passages mean "Salutation to the all-powerful Lord who is pleased by this sacrifice" and "Salutation to all the Sri Vishnavas." 
 
+## Main
 Then he pours water with the hand round the fire repeating 
 
 > "Aditēnu manyasva . anumatēnu manyasva . sarasvatēnu manyasva . deva savitaḥ prasūva." 
@@ -70,7 +77,7 @@ Afterwards he repeats "Agnaye svishṭa krta idam na mama." This when rendered i
 
 If it is evening instead of using the term "Sūrya" "Agnayēsvāha" is used and the rest of the mantra may be repeated as those mantras are common. He puts another samit in the fire.
 
-## Sama
+### Sama
 Followers of Sama veda do not repeat the mantra beginning with "Chatvari srngā." They do parishechanam repeating the mantra 
 
 > "Deva savitaḥ prasuva, yajñam prasuva, yajñapatim bhagaya divyo gandharvah, ketapūḥ kētam nah punātu vāchaspatir vāchām nah svadātu." 
