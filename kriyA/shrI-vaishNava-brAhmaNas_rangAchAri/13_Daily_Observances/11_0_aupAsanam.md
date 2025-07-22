@@ -145,8 +145,28 @@ This in English runs thus :-
 
 After repeating the above mantra he repeats "Śri Krshnava namah", prostrates, and does abhivadanam (repeating his gōtra, pravara and name). Then by repeating "Bhagavānēva prātaraupāsanākhyam karma kāritavan" he does satvikatyāgam The above passage when rendered into English runs thus:-"God himself has done the act, viz., the morning aupasana for his own pleasure, etc.
 
-"
-The morning aupāsana ceremony is concluded by repeating "Krtamcha karishyāmi prataraupāsanēna Vasudevah." This when translated runs thsu:-"I am doing what has been already done. May the divine Lord Vasudeva become pleased by this morning aupāsana." Then he utters "yate agnē yajñiyātanūstayōhyārōhātmātmānam accha vasuni krnvan nasme narya purūṇi yajñō bhūtvā yajñamāsīda svām yōnim jātavědō bhuva ajāyamānaḥ sakshaya ehi." This rendered into English runs thus:-' Oh Agni! Come to me in the form suitable to sacrifices. Having come get over me being pleased to give us a large quantity of wealth which is useful to man. Having taken the form of yajña, get into my body, which is your own place and which is doing this yajña or sacrifice. Oh Agni! having been born in front of me from the earth, come to me along with your own house to dwell in me." [[०८८]]
-[[८३]]
-After uttering the above he places the darbha pavitra over the right ear, heats the palm by taking it near the fire and then does "Ātma samārōpaṇam." 
 
+The morning aupāsana ceremony is concluded by repeating 
+
+> "Krtamcha karishyāmi prataraupāsanēna Vasudevah." 
+
+This when translated runs thsu:-
+
+> "I am doing what has been already done. May the divine Lord Vasudeva become pleased by this morning aupāsana." 
+
+## Atma-samAropaNam
+Then he utters 
+
+> "yate agnē yajñiyātanūstayōhyārōhātmātmānam accha vasuni krnvan nasme narya purūṇi yajñō bhūtvā yajñamāsīda svām yōnim jātavědō bhuva ajāyamānaḥ sakshaya ehi." 
+
+This rendered into English runs thus:-
+
+> ' Oh Agni! Come to me in the form suitable to sacrifices. Having come get over me being pleased to give us a large quantity of wealth which is useful to man. Having taken the form of yajña, get into my body, which is your own place and which is doing this yajña or sacrifice. Oh Agni! having been born in front of me from the earth, come to me along with your own house to dwell in me." [[०८८]]
+[[८३]]
+
+After uttering the above he places the darbha pavitra over the right ear, heats the palm by taking it near the fire and then does "Ātma samārōpaṇam."  
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Confused account.
+</details>
