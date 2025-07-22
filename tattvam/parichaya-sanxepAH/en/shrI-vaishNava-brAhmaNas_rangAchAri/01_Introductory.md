@@ -1,0 +1,26 @@
++++
+title = "01 Introductory"
+
++++
+The Sri Vaishnava Brahmans form now an exclusive group adopting certain customs based on beliefs in which they have implicit faith. But in most of their general ritualistic observances they do not differ from the other groups of Brahmans. As a matter of fact all Brahmans, to whatever section they belong, follow one of the Vedas and in the ceremonies they have to perform they adopt the rituals as laid down in the sūtras pertaining to their Vedas. For example a Sri Vaishnava Brahman and a Vadama Brahman both belonging to Rg Veda or Yajur Veda, perform their religious rites according to the Grhya sutras of the Rg or Yajur Veda. Although there is uniformity in the essential features of their religious rites, the various sections introduce certain details which necessarily differ from one another, as they are based on their religious beliefs
+
+Sri Vaishnava Brahmans as a distinct sect and as a separate class, more or less in the present form, must have come into existence only after the time of the great reformer Ramanuja Āchārya. But according to the traditional account there seems to have been a separate existence of this group since the time of Nathamunigal. Further there is a belief current amongst several of the Sri Vaishnava community that the Sri Vaishnava Brahmans existed as a separate class from very early times, almost suggesting that they constitute a very distinct class quite different from the other sections of the Brahmans.
+
+A careful scrutiny of the Vaishnava traditional account at once disproves this claim.
+
+It is quite possible that amongst Brahmans several would have belief in Vaishnavism, but such would not have completely seceded from the Smarta Brahmans as a distinct class A few families may have seceded from their own section on account of their belief in Vaishnavism. Some of the chief Acharyas (religious teachers) of the Sri Vaishnavas appear to have been Vadama Brahmans by birth according to their own traditions.
+
+One Govinda Acharya, who accompanied Yadavaprakāśa and Ramanuja to Benares, became a Śaivite Brahman and later on he was again converted into a Sri Vaishnava Brahman. Yadavaprakāśa, a Smarta Advaitin, under whom Ramanuja began to study, became later in his career a Sri Vaishnava and a true disciple of Ramanuja.
+
+Some say that even the great Ramanuja, the upholder of Sri Vaishnavism, was born of Smarta parents. It is clear from observation and traditional accounts that there was not much distinction observed between the Smarta Brahmans and Sri Vaishnavas, until the time of Ramanuja. Sri Vaishnava Brahmans always sought as their teachers for Vedic study either Sri Vaishnava Brahmans or Smarta Brahmans indiscriminately. In the absence of priests (purohits) amongst Sri Vaishnavas, Smarta Brahmans are usually called in to assist them in the performance of various rites and ceremonies.
+
+The distinct teachings of Ramanuja must have certainly helped the Sri Vaishnavas to form a distinct class by themselves, and probably the ranks of this exclusive group swelled from frequent additions from amongst the Smārta Brahmans. This accretion [[००७]]
+Bulletin, Madras Government Museum
+
+of members which began in Ramanuja's time continues still, and even now it is possible to trace close relationship between Smartas and Vaishnavas in certain families. There are some families, though few, amongst Sri Vaishnavas whose members observe pollution when there is death of a member in certain Smarta families which belong to the same gotra as their own. No doubt such cases are becoming rare and probably no cases will easily be found of this kind after a few years. Sri Vaishnavas of some villages, such for example, as Valavanur, Savalai, Perangiyur in South Arcot District and Padhur, Tekkulur, Panappakam and Chettimaniyam in the Chingleput District, are considered not equal in status to some orthodox Sri Vaishnava families. Those who claim some superiority such as Tatachars, Chakravartis and Navalpakkattars do not have any marital relationship with the Sri Vaishnavas of these villages, even though the latter are undoubtedly Sri Vaishnavas. A good example of Smartas becoming Vaishnavas is afforded by the Thummagunta Dravidas some of whom have become Vaishnavas, but still take girls in marriage from Smarta families. They do not, however, give in marriage girls born in their families to members of the Smarta families. The Smarta Brahmans living in Esanur wear dress and castemarks like the Sri Vaishnavas, but their women dress like Smarta ladies and observe only the customs usual amongst the Smarta Brahmans.
+
+In this connection we may also mention the Mukkaniars and Sozhiers amongst whom there are both Smarta and Vaishnava families related to one another.
+
+It should not be thought that Vishnu is worshipped as a god only by Sri Vaishnavas.
+
+Even Smarta Brahmans adore Vishnu as their God. The only difference between the Vaishnavas and Smartas in this matter is that the former recognize Vishnu as the only supreme deity and would not acknowledge any other as such, whereas the latter recognize the Trimurtis-Brahma, Vishnu and Siva-as God's manifestations, some giving prominence to Siva and others to Vishnu.
