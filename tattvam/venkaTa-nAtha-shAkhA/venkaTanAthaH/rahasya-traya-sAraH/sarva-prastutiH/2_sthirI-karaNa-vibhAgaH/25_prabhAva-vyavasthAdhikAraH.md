@@ -11258,7 +11258,7 @@ y
 ## क्षमा-याचनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ’’नायिऩेऩ्+++(=श्वनिभः??)+++ सॆय्द कुऱ्ऱम्+++(=दोषम्)+++,  
+> ’’नायिऩेऩ्+++(=श्वनिभः)+++ सॆय्द कुऱ्ऱम्+++(=दोषम्)+++,  
 नऱ्ऱम्+++(=साधु)+++ आगवे कॊळ् ञाल+++(=विश्व)+++-नाथऩे’’ (तिरुच्-छन्दविरुत्तम् १११) 
 
 ऎऩ्ऱ् अदुक्कुम् तात्पर्यत्तैप् पार्त्ताल् 
@@ -11393,7 +11393,7 @@ o quién **está** impaciente por el retraso **realiza** Prapatti, una vez más,
 </details>
 
 ## बुद्धि-पूर्वकाघाभावोक्तयः
-
+### तात्पर्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > मुमुक्षुत्वमेय् अडिय् आग  
@@ -11480,25 +11480,340 @@ y **expiaciones** para ello.
 मुमुक्षुवुक्कु बुद्धिपूर्वनिषिद्धङ्गळ् पुगुन्दु परिहारङ्गळ् पण्णुगै महर्षिकळ् पक्कलिलुम् ऋषिप्रायर्बक्कलिलुमुळ्बडक् कण्डुबोरानिऩ्ऱदिऱे। 
 </details>
 
+### उपासके साम्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+इङ्ङऩ् अऩ्ऱ् आगिल्  
+उपासकर्गळुम् मुमुक्षुक्कळ् आगैयाले  
+अवर्गळुक्कुम् बुद्धि-पूर्वोत्तराघम् घटियामैयाले  
 
+> उत्तराघाश्लेषम् प्रामादिक-विषयम्;  
+बुद्धि-पूर्वोत्तराघत्तुक्कु क्षन्तव्यत्वम् इल्लैय्  
+
+ऎऩ्ऱु +++(श्री-भाष्योक्त-)+++व्यवस्थै  
+
+पण्ण-वॊण्णाद् ऒऴियुम्। 
+</details>
+
+<details><summary>English</summary>
 
 If it were otherwise  
 (i.e that the aspirant for mukti would never commit an offence deliberately)  
 then, since those who are upāsakas following bhakti yoga are also aspirants for mukti,  
 it would follow that they, too, would not commit offences deliberately  
 and the conclusion that is arrived at in Śrī Bhāṣya that  
-freedom from stain caused by later sins is applicable only to sins committed in ignorance  
+
+> freedom from stain caused by later sins is applicable only to sins committed in ignorance  
 and that there is no pardon for sins committed deliberately  
+
 \- this conclusion would then become meaningless.
+</details>
 
-There is no difference between the upāsaka (the follower of Bhakti yoga) and the prapanna in regard to what is forbidden on account of caste (varṇa ), āśrama, sex (jāti), gotra (family), pravar, ( ancestry), right conduct, race kula, place, time, bodily or mental condition (avastha), character (guṇa) or convention (samaya). If what is forbidden has been done, there is difference in the manner of expiation, because that depends on the competency (adhikāra).
+<details><summary>Español</summary>
 
-The verse, "My servants will never commit offences. Even if they commit them, I will consider them as if they were virtuous actions" - even this verse indicates that offences are not unlikely. The sentence "If they commit offences, I will consider them as virtuous actions" means “If done in ignorance, I will pardon them. If offences are committed deliberately and if they do not obtain pardon, I will condone them after inflicting punishmeat, but will never forsake them. That, as a matter of fact, these offences are not virtuous acts is indicated therein when it is said: "It will be considered as if they were good deeds".
+**Si fuera** lo contrario  
+(es **decir**, que el aspirante para Mukti **nunca cometería** un deliberio deliberadamente)  
+Entonces, ya que aquellos que **están** upāsakas después de bhakti yoga también **son aspirantes** para mukti,  
+**Se deduciría** que ellos tampoco **cometerían** ofensas deliberadamente  
+y la conclusión a la que **se llega** a Śrī Bhāṣya que
 
-It is (distinctly) stated: “If there is an offence, expiation should be done at once. The expiation that is to be done is to perform prapatti again". Therefore it cannot be contended that, if the prapanna commits an offence deliberately after prapatti,
+> La **libertad** de la mancha **causada** por los pecados posteriores **es aplicable** solo a los pecados **cometidos** en la ignorancia  
+y que **no hay perdón** por los pecados cometidos deliberadamente
 
-Iśvara will not have the desire to punish (the prapanna), nor can it be said that if the Omnipotent Lord desires to panish and if pardon be not obtained, there will be no evil result following (for when He has once willed, the result must take place, for He is Almighty). If it be held that the offence would only cause the absence of pleasure to the Lord, then if that displeasure would not cause any evil (to the man), there would be no need to perform a later prāyaścitta (which is distinctly ordained in the passage cited above.) If it be held that the utmost that would happen (on account of the offence) is only absence of pleasure to oneself in addition to that of the Lord, the evil consequences, namely, absence of pleasure will have to be admitted. It may be said :-(Let there be absence of pleasure; absence of pleasure being only a particular form of knowledge, it would last only for an instant). There is no reason for performing a prayascitta in connection with the absence of one's own pleasure which has passed away. It it is said that the expiation or prāyaścitta is intended only to avoid the absence of pleasure in oneself that might continue, then, there is every reason to perform expiation owing to the fear that the sufferings stated in the śrutis and the smṛtis (for non-performance of ordained rites and observances - nitya and naimittika ) would follow when the time comes for its fruition, for these sufferings are on the same footing as this displeasure ).
+\- Esta **conclusión se quedaría** sin sentido.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩऩ्ऱागिल् उपासकर्गळुम् मुमुक्षुक्कळागैयाले अवर्गळुक्कुम् बुद्धिपूर्वोत्तराघम् घटियामैयाले उत्तराघाश्लेषम् प्रामादिकविषयम्; बुद्धिपूर्वोत्तराघत्तुक्कु क्षन्तव्यत्वमिल्लैयॆऩ्ऱु व्यवस्थै पण्णवॊण्णादॊऴियुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपासकऩुक्कुम्, प्रपन्नऩुक्कुम् वर्णाश्रम-जाति-गोत्र-प्रवर-चरण- कुल-देश-कालावस्था-गुण-समयादिगळै उपाधिय् आगक् कॊण्डु सॊऩ्ऩ निषिद्धङ्गळ् तविरुम्+++(=हानम्)+++ इडत्तिल् विशेषम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+There is no difference between the upāsaka (the follower of Bhakti yoga) and the prapanna  
+in regard to what is forbidden on account of caste (varṇa ), āśrama, sex (jāti), gotra (family), pravara, ( ancestry), right conduct, race (kula), place, time, bodily or mental condition (avastha), character (guṇa) or convention (samaya). 
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** diferencia entre el upāsaka (el seguidor de bhakti yoga) y la prapanna  
+Con respecto a lo que se prohíbe a la casta (varṇa), āśrama, sexo (jāti), gotra (familia), pravar, (ascendencia), conducta correcta, raza (kula), lugar, tiempo, condición corporal o mental (avastha), caracteres (guṇa) o convención (samaya).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपासकऩुक्कुम्, प्रपन्नऩुक्कुम् वर्णाश्रमजातिगोत्रप्रवरचरणकुलदेशकालावस्थागुण समयादिगळैउपाधियागक्कॊण्डु सॊऩ्ऩ निषिद्धङ्गळ् तविरुमिडत्तिल् विशेषमिल्लै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निषिद्धङ्गळ् पुगुन्दाल्  
+प्रायश्चित्तं यथाधिकारम् आगैयाले  
+वैषम्यम् उण्डु।   
+</details>
+
+<details><summary>English</summary>
+
+If what is forbidden has been done,  
+there is difference in the manner of expiation,  
+because that depends on the competency (adhikāra).
+</details>
+
+<details><summary>Español</summary>
+
+Si **se ha hecho** lo que está **prohibido**,  
+**Hay** diferencia en la forma de **expiación**,  
+Porque eso **depende** de la competencia (adhikāra).
+</details>
+
+<details><summary>मूलम्</summary>
+
+निषिद्धङ्गळ् पुगुन्दाल् प्रायश्चित्तम् यथाधिकारमागैयाले वैषम्यमुण्डु।   
+</details>
+
+
+### दिव्य-प्रबन्धेषु प्रमाणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’ऎऩ्ऩ्-अडियार् अदु सॆय्यार्  
+सॆय्दारेल् नऩ्ऱु सॆय्दार्’’  
+(पॆरियाऴ्वार् तिरुमॊऴि ४-९-२) 
+
+ऎऩ्गिऱदुवुम् अपराधम् पुगुरुम् ऎऩ्गैक्कु लिङ्गम्। 
+</details>
+
+<details><summary>English</summary>
+
+The verse, 
+
+> "My servants will never commit offences.  
+Even if they commit them,  
+I will consider them as if they were virtuous actions" 
+
+\- even this verse indicates that offences are not unlikely. 
+</details>
+
+<details><summary>Español</summary>
+
+El verso,
+
+> "Mis sirvientes **nunca cometerán** delitos.  
+Incluso si los **cometen**  
+Los **consideraré** como si **fueran** acciones virtuosas "
+
+\- Incluso este versículo **indica** que los delitos **no son** poco probables.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’ऎऩ्ऩडियारदु सॆय्यार् सॆय्दारेल् नऩ्ऱु सॆय्दार्’’(पॆरियाऴ्वार् तिरुमॊऴि ४-९-२) ऎऩ्गिऱदुवुम् अपराधम् पुगुरुमॆऩ्गैक्कु लिङ्गम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु 
+
+> ’’सॆय्दारेल् नऩ्ऱु सॆय्दार्’’ 
+
+ऎऩ्ऱ्-अदुक्कु 
+
+> प्रामादिकम् आगप् पुगुन्दाल् नामे क्षमिप्पुदोम्, +++(4)+++ 
+</details>
+
+
+<details><summary>English</summary>
+
+The sentence 
+
+> "If they commit offences,  
+I will consider them as virtuous actions" 
+
+means 
+
+> “If done in ignorance, I will pardon them.…  
+
+</details>
+
+<details><summary>Español</summary>
+
+La **oración**
+
+> "Si **cometen** ofensas,  
+Los **consideraré** como acciones virtuosas "
+
+medio
+
+> “Si **se hace** en ignorancia, los **perdonaré**.…
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु ’’सॆय्दारेल् नऩ्ऱु सॆय्दार्’’ ऎऩ्ऱदुक्कु 
+प्रामादिकमागप् पुगुन्दाल् नामे क्षमिप्पुदोम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> बुद्धिपूर्वकम् आगप् पुगुन्दाल्  
+अवर्गळ् क्षमै गॊळ्ळादव्-अळविलुम्  
+शिक्षा-विशेषङ्गळाले नामे शमिप्पुदोम्,  
+ऒरु पडिक्कुङ् कै विडोम् 
+
+ऎऩ्ऱु तात्पर्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+> If offences are committed deliberately  
+and if they do not obtain pardon,  
+I will condone them after inflicting punishment,  
+but will never forsake them. 
+</details>
+
+<details><summary>Español</summary>
+
+> Si los delitos **se cometen** deliberadamente  
+y si **no obtienen** perdón,  
+Los **toleraré** después de **infligir** el castigo,  
+pero nunca los **abandonará**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+बुद्धिपूर्वकमागप्पुगुन्दाल् अवर्गळ् क्षमैगॊळ्ळादवळविलुम् शिक्षाविशेषङ्गळाले नामे शमिप्पुदोम्, ऒरु पडिक्कुङ्गैविडोम् ऎऩ्ऱु तात्पर्यम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "नऩ्ऱु सॆय्दार्" ऎऩ्बर् पोलुम्
+
+ऎऩ्ऱु सॊल्लुगैयाले  
+इदु वस्तु-वृत्तियिल् "नऩ्ऱ् अऩ्ऱ्" ऎऩ्ऩुम् इडम् सूचितम्। 
+</details>
+
+<details><summary>English</summary>
+
+That, as a matter of fact, these offences are not virtuous acts is indicated therein  
+when it is said:  
+
+> "It will be considered  
+as if they were good deeds".
+</details>
+
+<details><summary>Español</summary>
+
+Que, de **hecho**, estos delitos **no son** actos virtuosos **se indica** en el mismo  
+Cuando **se dice**:
+
+> "**Se considerará**  
+como **si fueran** buenas obras ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’नऩ्ऱुसॆय्दारॆऩ्बर्बोलुम्’’ ऎऩ्ऱु सॊल्लुगैयाले इदु वस्तुवृत्तियिल् नऩ्ऱऩ्ऱॆऩ्ऩुमिडम् सूचितम्। 
+</details>
+
+### निग्रहेच्छा
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अपाय-संप्लवे सद्यः  
+प्रायश्चित्तं समाचरेत् ।  
+प्रायश्चित्तिर् इयं सात्र  
+यत् पुनश् शरणं व्रजेत्॥’’  
+(लक्ष्मीतन्त्रम् १७-९१) 
+
+ऎऩ्ऱु सॊल्लुगैयाले  
+बुद्धिपूर्वोत्तराघत्तिल्  
+
+> ईश्वरऩुक्कु निग्रहेच्छैय् उदियाद्  
+
+ऎऩ्ऩ वॊण्णादु। 
+</details>
+
+<details><summary>English</summary>
+
+It is (distinctly) stated: 
+
+> “If there is an offence, expiation should be done at once.  
+The expiation that is to be done is to perform prapatti again". 
+
+Therefore it cannot be contended that,  
+if the prapanna commits an offence deliberately after prapatti,   
+Iśvara will not have the desire to punish (the prapanna), 
+</details>
+
+<details><summary>Español</summary>
+
+Está (claramente) **declarado**:
+
+> “Si **hay** un delito,  
+la **expiación debe hacerse** a la vez.  
+La **expiación** que **se debe hacer es realizar** Prapatti nuevamente ".
+
+Por lo tanto, **no se puede afirmar** que,  
+Si la Prapanna **comete** un deliberio deliberadamente después de Prapatti,  
+Iśvara **no tendrá** el deseo de **castigar** (el Prapanna),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अपायसंप्लवे सद्यः प्रायश्चित्तं समाचरेत् । प्रायश्चित्तिरियं सात्र यत्पुनश्शरणं व्रजेत्’’(लक्ष्मीतन्त्रम् १७-९१) ऎऩ्ऱु सॊल्लुगैयाले बुद्धिपूर्वोत्तराघत्तिल् ईश्वरऩुक्कु निग्रहेच्छैयुदियातॆऩ्ऩ वॊण्णादु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-शक्तिय् आऩ् अवऩुक्कु  
+निग्रहेच्छै पिऱन्दाल्  
+क्षमै कॊळ्ळाद बोदु  
++++(दुष्-)+++फल-सिद्धिय् इल्लैय् ऎऩ्ऩवुम् ऒण्णादु। 
+</details>
+
+<details><summary>English</summary>
+
+nor can it be said that  
+if the Omnipotent Lord desires to punish  
+and if pardon be not obtained,  
+there will be no evil result following  
+(for when He has once willed,  
+the result must take place,  
+for He is Almighty). 
+</details>
+
+<details><summary>Español</summary>
+
+Tampoco **se puede decir** que  
+Si el Señor omnipotente **desea castigar**  
+y si **no se obtiene perdón**,  
+**No habrá resultado** malvado **siguiendo**  
+(Porque cuando alguna vez **ha deseado**,  
+El resultado **debe tener lugar**,  
+porque él **es** todopoderoso).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वशक्तियाऩवऩुक्कु निग्रहेच्छै पिऱन्दाल् क्षमै कॊळ्ळादबोदु फलसिद्धियिल्लै यॆऩ्ऩवुमॊण्णादु। 
+</details>
+
+If it be held that the offence would only cause the absence of pleasure to the Lord, then if that displeasure would not cause any evil (to the man), there would be no need to perform a later prāyaścitta (which is distinctly ordained in the passage cited above.) If it be held that the utmost that would happen (on account of the offence) is only absence of pleasure to oneself in addition to that of the Lord, the evil consequences, namely, absence of pleasure will have to be admitted. It may be said :-(Let there be absence of pleasure; absence of pleasure being only a particular form of knowledge, it would last only for an instant). There is no reason for performing a prayascitta in connection with the absence of one's own pleasure which has passed away. It it is said that the expiation or prāyaścitta is intended only to avoid the absence of pleasure in oneself that might continue, then, there is every reason to perform expiation owing to the fear that the sufferings stated in the śrutis and the smṛtis (for non-performance of ordained rites and observances - nitya and naimittika ) would follow when the time comes for its fruition, for these sufferings are on the same footing as this displeasure ).
 
 Therefore in order to avoid (1) these sufferings and (2) the interruption to the enjoyment of the Lord (Bhagavad anubhava) here and the diminution of it caused by the weakness of the senses, the fading of the intelligence, sorrow and the like and (3) in the case of those whose term of life has not already been unalterably fixed, delay in the ultimate gain, viz., mokṣa by the extension of the age limit - in order that this may not happen, prapatti has to be performed again. Even those who hold the opinion that this is not required will have to concede that the performance of this latter prapatti will be pardoned by the Lord (even if it be considered as an offence ), since they hold the opinion that the Lord will forgive (even ) the doing of forbidden things.
 
