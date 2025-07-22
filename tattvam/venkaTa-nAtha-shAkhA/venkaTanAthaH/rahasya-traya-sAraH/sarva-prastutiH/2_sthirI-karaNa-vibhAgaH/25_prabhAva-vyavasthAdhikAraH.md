@@ -4366,7 +4366,7 @@ debían **causar** orgullo o arrogancia,
 इव्व् इरण्डु वऴियालुम् उळ्ळव् अपकर्षम् 
 
 > 'कुलङ्गळ् आय् अव् ईर्-इरण्डिल्' +++(न जातः)+++  
-> (तिरुच्चन्दविरुत्तम् ९०),  
+> (तिरुच्-छन्दविरुत्तम् ९०),  
 
 ऎऩ्गिऱ बाट्टिलुम्, 
 </details>
@@ -4400,7 +4400,7 @@ Como **se describe** respectivamente en los siguientes pasajes,
 
 <details><summary>मूलम्</summary>
 
-इव्विरण्डु वऴियालुमुळ्ळवपकर्षम् ’’कुलङ्गळायवीरिरण्डिल्’’(तिरुच्चन्दविरुत्तम् ९०)  ऎऩ्गिऱबाट्टिलुम्, 
+इव्विरण्डु वऴियालुमुळ्ळवपकर्षम् ’’कुलङ्गळायवीरिरण्डिल्’’(तिरुच्-छन्दविरुत्तम् ९०)  ऎऩ्गिऱबाट्टिलुम्, 
 </details>
 
 
@@ -11217,27 +11217,280 @@ Nosotros **nunca iremos** (a ningún ācārya) y **estudiamos** Śāstras herét
 इव्वर्थत्तै ’’सॆय्यादऩ सॆय्योन्दीक्कुऱळै सॆऩ्ऱोदोम्’’(तिरुप्पावै २)  ऎऩ्ऱुम्, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+’’सॆय्येल् ती-विऩैय् ऎऩ्ऱ् अरुळ् सॆय्युम् +++(भवान्)+++’’ (तिरुवाय्मॊऴि २-९-३)  
+
+ऎऩ्ऱुम् अरुळिच् चॆय्दार्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "मा कृथा दुष्कर्मेति कृपां कुर्वन्" 
+
+इति चानुजगृहुः । 
+</details>
+
+
+<details><summary>English</summary>
+
+and "Vouchsafe Thy grace so that I may not do wicked deeds". 
 
 (The Alvars) have stated this in such passages as the ~~following~~ above.
+</details>
 
-and "Vouchsafe Thy grace so that I may not do wicked deeds". If we consider the import of the verse "O Lord of the world! Consider my offences as virtuous acts", it also means the prayer that the offences should be pardoned. Therefore if the prapanna happens to commit an offence, he is bound to obtain pardon as declared in the passage :- " Whether "offences are committed deliberately or in ignorance, the only expiation that is required is to say " Pardon me ".
+<details><summary>Español</summary>
+
+y 
+
+> "**Conceder** tu gracia para que **no pueda hacer** obras malvadas".
+
+(Los Alvars) **han declarado** esto en pasajes como arriba.
+</details>
+
+
+<details><summary>म् अूलम्</summary>
+
+’’सॆय्येल् तीविऩैयॆऩ्ऱरुळ्सॆय्युम्’’ (तिरुवाय्मॊऴि २-९-३)  ऎऩ्ऱुमरुळिच् चॆय्दार्गळ्। 
+</details>
+
+
+## क्षमा-याचनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’नायिऩेऩ्+++(=श्वनिभः??)+++ सॆय्द कुऱ्ऱम्+++(=दोषम्)+++,  
+नऱ्ऱम्+++(=साधु)+++ आगवे कॊळ् ञाल+++(=विश्व)+++-नाथऩे’’ (तिरुच्-छन्दविरुत्तम् १११) 
+
+ऎऩ्ऱ् अदुक्कुम् तात्पर्यत्तैप् पार्त्ताल् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "नीचेन मया कृतम् अपचारं गुणत्वेन स्वीकुरु जगत्पते" 
+
+इत्य्-एतस्यापि तात्पर्य-पर्यालोचने
+</details>
+
+
+<details><summary>English</summary>
+
+If we consider the import of the verse  
+
+> "O Lord of the world! Consider my offences as virtuous acts", 
+</details>
+
+<details><summary>Español</summary>
+
+Si **consideramos** la **importación** del verso
+
+> "¡Oh señor del mundo! **Considere** mis delitos como actos virtuosos",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’नायिऩेऩ् सॆय्दगुऱ्ऱम् नऱ्ऱमागवे कॊळ्ञालनादऩे’’ (तिरुच्-छन्दविरुत्तम् १११) ऎऩ्ऱदुक्कुम् तात्पर्यत्तैप्पार्त्ताल् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्षमिक्क वेणुम् ऎऩ्ऱ् अपेक्षित्त पडिय् आगैयाले, 
+</details>
+
+<details><summary>English</summary>
+
+it also means the prayer that the offences should be pardoned. 
+</details>
+
+<details><summary>Español</summary>
+
+También **significa** la oración de que los delitos **se perdonen**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+क्षमिक्कवेणुमॆऩ्ऱबेक्षित्त पडियागैयाले
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपन्नऩुक्कुम् अपराधम् पुगुन्दाल् 
+
+> ‘‘अज्ञानाद् अथवा ज्ञानाद्  
+अपराधेषु सत्स्व् अपि ।  
+प्रायश्चित्तं "क्षमस्वे"ति  
+**प्रार्थनैकैव** केवलम्॥’’  
+(वङ्गी-पुरत्तुनम्बि-कारिका) 
+
+ऎऩ्गिऱ बडिये  
+क्षमै कॊळ्ळप् प्राप्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore if the prapanna happens to commit an offence,  
+he is bound to obtain pardon as declared in the passage :- 
+
+> Whether offences are committed deliberately or in ignorance,  
+the only expiation that is required is to say " Pardon me ".
+
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, si el Prapanna **comete** un delito,  
+Está **obligado** a **obtener perdón** como **se declara** en el pasaje:-
+
+> Si los **delitos** se **cometen** deliberadamente o en ignorancia,  
+La única **expiación** que **se requiere es decir** **"Perdonarme"**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपन्नऩुक्कुमपराधम् पुगुन्दाल् ‘‘अज्ञानादथवा ज्ञानादपराधेषु सत्स्वपि । प्रायश्चित्तं क्षमस्वेति प्रार्थनैकैव केवलम्’’(वङ्गी-पुरत्तुनम्बि-कारिका) ऎऩ्गिऱबडिये क्षमै कॊळ्ळप् प्राप्तम्। 
+</details>
+
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-‘प्रायश्चित्तान्तराशक्तः कालक्षेपाक्षमोऽपि वा । पुनः प्रपद्यते नाथमभिन्दन् लोकसंग्रहम् ॥
+‘प्रायश्चित्तान्तराशक्तः  
+काल-क्षेपाक्षमोऽपि वा ।  
+पुनः **प्रपद्यते** नाथम्,  
+**अ-भिन्दन्** लोक-संग्रहम् ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+‘प्रायश्चित्तान्तराशक्तः  
+काल-क्षेपाक्षमोऽपि वा ।  
+पुनः **प्रपद्यते** नाथम्  
+**अ-भिन्दन्** लोक-संग्रहम् ॥
+</details>
+
+<details><summary>English</summary>
+
+> "He who is incapable of other forms of expiation  
+or who is impatient of delay performs prapatti, once again, to the Lord,  
+without transgressing the rule of lokasaṅgraha".
+</details>
+
+<details><summary>Español</summary>
+
+> "El que **es incapaz** de otras formas de **expiación**  
+o quién **está** impaciente por el retraso **realiza** Prapatti, una vez más, para el Señor,  
+**sin transgredir** la regla de Lokasaṅgraha ".
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 ‘प्रायश्चित्तान्तराशक्तः कालक्षेपाक्षमोऽपि वा । पुनः प्रपद्यते नाथमभिन्दन् लोकसंग्रहम् ॥
 </details>
 
-"He who is incapable of other forms of expiation or who is impatient of delay performs prapatti, once again, to the Lord, without transgressing the rule of lokasaṅgraha".
+## बुद्धि-पूर्वकाघाभावोक्तयः
 
-The contention that when there is aspiration for mukti, no forbidden things will be done deliberately means only that it would be unlikely, being inappropriate. It is like the saying that "in the Brahmin there is control of the senses". (It does not mean that the control is always found). Even in the case of great sages
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-and of men who were sage-like, there have occurred forbidden actions and expiations therefor. If it were otherwise ((1.e) that the aspirant for mukti would never commit an offence deliberately) then, since those who are upāsakas following bhakti yoga are also aspirants for mukti, it would follow that they, too, would not commit offences deliberately and the conclusion that is arrived at in Śrī Bhāṣya that freedom from stain caused by later sins is applicable only to sins committed in ignorance and that there is no pardon for sins committed deliberately - this conclusion would then become meaningless.
+> मुमुक्षुत्वमेय् अडिय् आग  
+बुद्धि-पूर्व-निषिद्धङ्गळ् पुगुराव् 
+
+ऎऩ्ऩुम् वार्तैयुम् 
+</details>
+
+<details><summary>English</summary>
+
+The contention that when there is aspiration for mukti, no forbidden things will be done deliberately 
+</details>
+
+<details><summary>Español</summary>
+
+La **afirmación** de que cuando **hay aspiración** para Mukti,  
+**no se harán** cosas prohibidas deliberadamente
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुत्वमेयडियाग बुद्धिपूर्वनिषिद्धङ्गळ् पुगुरावॆऩ्ऩुम् वार्तैयुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘विद्यते ब्राह्मणे दमः’’  
+(रमायणम् युद्ध-काण्डम् १६-९) 
+
+ऎऩ्ऩुम् आप्-पोले  
+औचित्यत्ताले सॊऩ्ऩ बडिय् अत्तऩै। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+means only that it would be unlikely, being inappropriate.  
+It is like the saying that  
+"in the Brahmin there is control of the senses".  
+(It does not mean that the control is always found). 
+</details>
+
+<details><summary>Español</summary>
+
+**Significa** solo que **sería** poco probable, **ser** inapropiado.  
+**Es** como el **dicho** que  
+"En el brahmán **hay control** de los sentidos".  
+(**No significa** que el control siempre **se encuentre**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘विद्यते ब्राह्मणे दमः’’(रमायणम् युद्ध-काण्डम् १६-९) ऎऩ्ऩुमाप्पोले औचित्यत्ताले सॊऩ्ऩबडियत्तऩै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुमुक्षुवुक्कु  
+बुद्धि-पूर्व-निषिद्धङ्गळ् पुगुन्दु  
+परिहारङ्गळ् पण्णुगै  
+महर्षिगळ् पक्कलिलुम्  
+ऋषि-प्रायर्-बक्कलिलुम् उळ्-पडक्  
+कण्डु पोरा निऩ्ऱद् इऱे। 
+</details>
+
+<details><summary>English</summary>
+
+Even in the case of great sages and of men who were sage-like,  
+there have occurred forbidden actions and expiations therefor.  
+</details>
+
+<details><summary>Español</summary>
+
+Incluso en el caso de grandes sabios y de hombres que **eran** de sabio,  
+**Se ha producido acciones prohibidas**  
+y **expiaciones** para ello.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुवुक्कु बुद्धिपूर्वनिषिद्धङ्गळ् पुगुन्दु परिहारङ्गळ् पण्णुगै महर्षिकळ् पक्कलिलुम् ऋषिप्रायर्बक्कलिलुमुळ्बडक् कण्डुबोरानिऩ्ऱदिऱे। 
+</details>
+
+
+
+
+If it were otherwise  
+(i.e that the aspirant for mukti would never commit an offence deliberately)  
+then, since those who are upāsakas following bhakti yoga are also aspirants for mukti,  
+it would follow that they, too, would not commit offences deliberately  
+and the conclusion that is arrived at in Śrī Bhāṣya that  
+freedom from stain caused by later sins is applicable only to sins committed in ignorance  
+and that there is no pardon for sins committed deliberately  
+\- this conclusion would then become meaningless.
 
 There is no difference between the upāsaka (the follower of Bhakti yoga) and the prapanna in regard to what is forbidden on account of caste (varṇa ), āśrama, sex (jāti), gotra (family), pravar, ( ancestry), right conduct, race kula, place, time, bodily or mental condition (avastha), character (guṇa) or convention (samaya). If what is forbidden has been done, there is difference in the manner of expiation, because that depends on the competency (adhikāra).
 
