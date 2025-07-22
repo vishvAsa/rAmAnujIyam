@@ -40,7 +40,7 @@ The Vaikhanasa system is of course entirely different and it has to be treated s
 
 The Archaka boy is made to go through the "Chakrabja Mandala Dikshai" only after the Upanayana ceremony. The ordinary Sri Vaishnava Brahman boy undergoes the Samaśrayaṇa ceremony after the Upanayanam. But the Archaka boy passes through the ceremony of "Chakrabja Mandala Dikshai" and does not pass through the Samaś- rayaṇa ceremony as "Diksha" ceremony is considered equivalent to it.
 
-THE CHAKRABJA MANDALA DIKSHAI CEREMONY.
+## THE CHAKRABJA MANDALA DIKSHAI CEREMONY.
 
 This ceremony usually lasts for three days. It is usually commenced on a Suklapaksha daśami day (१०th day after New moon).
 

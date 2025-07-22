@@ -19,13 +19,13 @@ The Archaka then removes the faded garlands and flowers worn by the mula and uts
 
 The dvārapalakas and others found around the temple in the prakāra and vimānā devatās are shown respect by a puja which is done by the paricharaka or others if a paricharaka is not available.
 
-ENTRANCE INTO THE TEMPLE.
+## ENTRANCE INTO THE TEMPLE.
 
 The Archaka staying on the right side of the mūla vigraha repeats the "Mūla mantra" and sprinkles water on the floor. Then he repeats the astramantra and sprinkles water over the same space. The astramantra which he repeats is "Om sahasrolkayasvāhā vīryāya astrayaphat". On the purified space the Archaka places a "Kūrmāsanam" (a wooden seat), or uses "Darbha" when the wooden plank is not available and sits on the plank or darbhāsana. He assumes while sitting "Padmasanam" or "Svastikasanam" according to circumstances. For Padmasanam he has to sit squatting his legs at the knee and place his hands under the knees. For "Svastikasanam" he sits merely squatting with both the feet above. Both these are described in "Vishnutilakam" in the second chapter.
 
 The Archaka draws the curtain just at the time of sitting on the space and after sitting he sounds the bell and does sankalpam saying "By the strength of God, by His śakti, by His tējas, by His karma and by His influence I am about to begin his worship "
 
-THE ARCHAKA PURIFYING HIMSELF TO BE FIT FOR THE WORSHIP OF GOD.
+## THE ARCHAKA PURIFYING HIMSELF TO BE FIT FOR THE WORSHIP OF GOD.
 
 He then repeats the qualifications of God as follows:-God is the master of every thing and so He has created everything. He influences us to do puja to him with things created by Him. He influences us to present to Him things created by Him and thus satisfy Him during the Āradhana. (This is called satvikatyāgam)
 
@@ -246,7 +246,7 @@ After the above he makes the mudras mentioned below and touches the parts of the
 
 (६) The mudra of the hastam (hands). -Close all the fingers having the thumb outside and show it towards the cardinal points (eight or four).
 
-THE WORSHIP OF GOD.
+## THE WORSHIP OF GOD.
 
 The Archaka who is carrying on the worship ought to think that he is now the Nārāyaṇamūrti who is having gadā, śankha, padma, sudarśana, who is dressed up in pitambara, whose body is smeared with sweet scented gandha and who is wearing the Vanamāla and Kaustubha.
 

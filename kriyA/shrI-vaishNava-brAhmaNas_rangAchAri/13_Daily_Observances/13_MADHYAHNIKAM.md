@@ -1,0 +1,20 @@
++++
+title = "13 MADHYAHNIKAM"
+
++++
+
+He does achamanams as for the morning Sandhya Vandanam, but in the Sankalpam instead of "Pratassandhyām" he has to say "Madhyāhnika sandhyām." After [[०९१]]
+[[८६]]
+
+pranayamam he repeats the following:--" Apahpunantvityanuvākasya aparshiḥ anushtup cchandah brahmanaspatirdēvata . apām praśanë viniyogah." Translation:--For the anuvāka "Apahpunantu" Āpas are Rshi, and Anushtup is chandas and the Devata is Brahmanaspati." Then taking water in the right hand he repeats "Apahpunantu prithivim prithivi pūtā punātumām, punantu brahmanaspatih brahmaputa punatumam, yaducchishtam abhojyam yadva duscharitam mama . sarvam punantumāmāpah astamcha pratigraham svāhā" and drinks it.
+
+Translation: "Let waters purify the earth; let the world (earth) which is purified make me pure; Narayana who is superior (the master of) to the Chaturmukha, let him purify water; let waters purified by Paramatma purify me; let the waters remove the evils and purify me who by eating the remains that should not be eaten have become consequently a sinner and who has received sins from bad people.
+
+"
+Afterwards all the mantras are the same as in the morning Sandhya Vandanam.
+
+The "Arghyam" is given twice instead of thrice In the case of japam also mantras are similar to those which were used in the morning up to upasthanam After upasthanam the following mantra is repeated:- Āsatyēnēti shadrchasya hiranyastūpa rshih . adyayoh trishtup chatasrṇam gāyatri jagatyushniktristubhah cchandamsi . savita devatā mādhyāhnika sandhyōpasthāne viniyogah." Translation:--Āsatyēna form six riks, Rshi is Hiranyastupa, Cchandas are trishtup, trishṭup gāyatrī, jagati trishtup and anushtup; savītā is the Devata." Then he repeats the following mantra: "Asatyēna rajasavartamānō nivēsayan amrtam martyamcha, hiranyayena savita rathēnā dēvōyati bhuvanavipaśyan . udvayam tamasaspari paśyantōjyotiruttaram . dēvam dēvatrā sūryam aganmajyotiruttamam ! udutyam jātavēdasam dēvam vahantikētavah driśē viśvāyasūryam . chitram devanamudagadanikam chakshur mitrasya Varuṇasyāgneh . aprādyāva prithivi antariksham sūryaātmā jagatastasthushaścha . tat chakshurdēvahitam purastat śukra muccharat paśyēma śaradasśatam . jīvēma śaradaśśatam . nandāma śaradaśśatam . modama śaradaśśatam . bhavāma śaradaśśatam . śrnavāma śaradaśśatam . prabravāma śaradas- śatam ajītāsyāma śaradaśśatam . jyokchasūryam driśe ya udagan mahatörṇavat vibhrājamānassarirasya madhyāt sama vrshabhlohitakshāḥ sūryo vipaśchinmanasā- punātu." Translation:-"Sun, the deva enveloped in glory and shining in good places, moves in his golden car seeing the doings (Karmas, of every human being as a witness and also influencing the devatās and men to do their duties. We, who see the sun that destroys darkness that is full of effulgent light, that is a good devata, that is an excellent being and one that protects devatās, shall obtain superior brilliance or tējas. The devata who knows all the karmas that are done and who is well known as the sun bears one thousand rays to enable men to see him. There arose the mandala which is a wonderful sight to devatās and which is like an eye to the devatās mitra, varuṇa and agni. The [[०९२]]
+[[८७]]
+sun existing in that mandalam is the soul of the living and he is permeating the sky, earth and svarga. We shall see for a hundred years the mandalam which is good to devatās, which is like an eye to them, which is white at sunrise and which rises early.
+
+(This means that we shall worship all our lifetime.) May we live a hundred years; may we have sons and grand children; may we be happy; may we become prosperous in our own place; may we hear only speech that is dear to us; may we speak only dear and good words; may we not be overcome by our enemies; we pray that we may see the sun that is shining forth. Let me be protected with proper support by that sun who has arisen from the big ocean, who shines in the midst of water, who grants the wishes of everyone, who is red in colour and who knows everything." Then the person is expected to do the Japa of ashṭakshara and then Vastranishpidanam, etc.
