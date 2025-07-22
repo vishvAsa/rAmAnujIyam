@@ -278,7 +278,7 @@ Como **se ha dicho** en los siguientes versículos:-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > 'चण्ड-मण्डलत्तिऩ् ऊडु+++(=मध्यं)+++ सॆऩ्ऱ्”  
-> ( तिरुच्चन्द विरुत्तम् ६७)  
+> ( तिरुच्-छन्द विरुत्तम् ६७)  
 
 ऎऩ्ऱुम्, 
 </details>
@@ -305,7 +305,7 @@ Como **se ha dicho** en los siguientes versículos:-
 
 <details><summary>मूलम्</summary>
 
-'सण्डमण्डलत्तिऩूडुसॆऩ्ऱ्”( तिरुच्चन्द विरुत्तम् ६७)  ऎऩ्ऱुम्, 
+'सण्डमण्डलत्तिऩूडुसॆऩ्ऱ्”( तिरुच्-छन्द विरुत्तम् ६७)  ऎऩ्ऱुम्, 
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>

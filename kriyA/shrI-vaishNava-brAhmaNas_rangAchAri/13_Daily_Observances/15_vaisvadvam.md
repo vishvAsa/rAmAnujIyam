@@ -1,0 +1,10 @@
++++
+title = "15 VAISVADĒVAM"
+
++++
+
+This ceremony is usually done only by the very orthodox people. Persons who do this ceremony make use of the food taken by them from the food offered to God during the aradhanam of God and towards the end of the ceremony. The performer cleans his feet, does two achamanams and a pranayamam. Then he begins this ceremony of Vaisvadēvam by repeating "Śri bhagavadājñayā śrimannārāyanaprītyartham pratar Vārśvadēvam karishye. He then repeats "Krtancha karishyāmi" and says "Prātar vaiśvadēvēna bhagavatkarmanā bhagavantam Vasudevamarchayishyāmi." After this he continues to repeat "Bhagavato balena" and then does satvikatyāgam by repeating "Bhagavānēva prātar vaisvadēvākhyam karma kārayati" He makes use of agni in the pit which is either aupasanāgni or agni which was used for cooking the food. After putting the fire in the pit he draws lines and does agni pratishthai and paristaranam as is usually done for aupasanam. His wife brings food cooked by her and set apart for vaiśvadēvam and gives it to him saying "Bhūtam." Saying "Tatsubhūtam Viradannam tanmā kshāyi" he takes the food and shows it to fire. The above when translated runs thus:-"The food is well completed and well embellished. Therefore it will not perish." He takes the food and shows it to fire.
+
+Then he places this food to the left and sprinkling water over it, divides it into two parts, one towards the south and the other towards the north. Then in the part of the food in the north he divides the food into three parts by drawing lines east to west.
+
+After thus separating the food, he sprinkles water round the fire saying "Om adite savitaḥ prasūva" and places in the fire one stick. He then takes out from the food a small quantity (about the size of the fruit of "Nellikai") from the south-eastern part and touching with his left hand the vessel in which food is kept, he places this food in fire. Homam ought to be done according to the upadeśa the worshipper has received--that is to say--either Chakrakāram method or Vyajanakāram method.

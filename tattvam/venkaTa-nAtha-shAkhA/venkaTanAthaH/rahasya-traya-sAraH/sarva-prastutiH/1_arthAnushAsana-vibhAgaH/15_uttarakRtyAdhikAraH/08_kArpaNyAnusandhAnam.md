@@ -500,7 +500,7 @@ quién **puedo tener** como el Salvador de mi alma! "
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > 'कुलङ्गळ् आय् अव् ईर्-इरण्डिल्' +++(न जातः)+++  
-> (तिरुच्चन्दविरुत्तम् ९०),  
+> (तिरुच्-छन्दविरुत्तम् ९०),  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -522,7 +522,7 @@ quién **puedo tener** como el Salvador de mi alma! "
 
 <details><summary>मूलम्</summary>
 
-'कुलङ्गळायवीरिरण्डिल्'(तिरुच्चन्दविरुत्तम् ९०),  
+'कुलङ्गळायवीरिरण्डिल्'(तिरुच्-छन्दविरुत्तम् ९०),  
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
