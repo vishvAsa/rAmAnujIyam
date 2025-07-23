@@ -11777,6 +11777,7 @@ Iśvara **no tendrá** el deseo de **castigar** (el Prapanna),
 ‘‘अपायसंप्लवे सद्यः प्रायश्चित्तं समाचरेत् । प्रायश्चित्तिरियं सात्र यत्पुनश्शरणं व्रजेत्’’(लक्ष्मीतन्त्रम् १७-९१) ऎऩ्ऱु सॊल्लुगैयाले बुद्धिपूर्वोत्तराघत्तिल् ईश्वरऩुक्कु निग्रहेच्छैयुदियातॆऩ्ऩ वॊण्णादु। 
 </details>
 
+### निग्रह-प्रकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-शक्तिय् आऩ् अवऩुक्कु  
@@ -11874,17 +11875,251 @@ Las **consecuencias** malvadas, a **saber**, la **ausencia** de placer **tendrá
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिलुम् कऴिन्द्-अदुक्कु प्रायश्चित्तम् वेण्डा। 
+</details>
+
+<details><summary>English</summary>
+
+It may be said :-  
+(Let there be absence of pleasure;  
+absence of pleasure being only a particular form of knowledge,  
+it would last only for an instant).  
+There is no reason for performing a prayascitta in connection with the absence of one's own pleasure  
+which has passed away. 
+</details>
+
+<details><summary>Español</summary>
+
+**Se puede decir**:-  
+(Que **haya ausencia** de placer;  
+La **ausencia** de placer **es** solo una forma particular de conocimiento,
+Solo duraría un instante).  
+**No hay razón** para **realizar** una Prayascitta en relación con la ausencia del propio placer
+que **ha fallecido**.
+</details>
 
 
-It may be said :-(Let there be absence of pleasure; absence of pleasure being only a particular form of knowledge, it would last only for an instant). There is no reason for performing a prayascitta in connection with the absence of one's own pleasure which has passed away. It it is said that the expiation or prāyaścitta is intended only to avoid the absence of pleasure in oneself that might continue, then, there is every reason to perform expiation owing to the fear that the sufferings stated in the śrutis and the smṛtis (for non-performance of ordained rites and observances - nitya and naimittika ) would follow when the time comes for its fruition, for these sufferings are on the same footing as this displeasure ).
+<details><summary>मूलम्</summary>
 
-Therefore in order to avoid (1) these sufferings and (2) the interruption to the enjoyment of the Lord (Bhagavad anubhava) here and the diminution of it caused by the weakness of the senses, the fading of the intelligence, sorrow and the like and (3) in the case of those whose term of life has not already been unalterably fixed, delay in the ultimate gain, viz., mokṣa by the extension of the age limit - in order that this may not happen, prapatti has to be performed again. Even those who hold the opinion that this is not required will have to concede that the performance of this latter prapatti will be pardoned by the Lord (even if it be considered as an offence ), since they hold the opinion that the Lord will forgive (even ) the doing of forbidden things.
+अदिलुम् कऴिन्ददुक्कुप्रायश्चित्तम् वेण्डा। 
+</details>
 
-We have already explained that it is not possible to perform prapatti in anticipation for offences that might be committed deliberately in future and that there is nothing improper in performing a later prapatti in order to obtain a fruit or object which was not prayed for in the previous prapatti (in the chapter on Expiation for Offences ). Thus it may be understood that there is nothing improper in observing the code of conduct followed by the good and arising from the commands of the Lord, (viz., nitya and naimittika ).
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मेलुम् अनुवृत्तिम् आय् वरप्-पुगुगिऱ प्रीत्य्-अ-भावत्तैप् पऱ्ऱ प्रायश्-चित्तम्  
+
+ऎऩ्ऱाल्  
+
+> इत्तोडु तुल्य-योग-क्षेमतैयाले यथा-संभवम् श्रुत्य्-आदि-सिद्धङ्गळ् आऩ  
+उपक्लेशङ्गळुम् वरुम्  
+
+ऎऩ्ऱु भीतऩ् आय् प्रायश्चित्तम् पण्णप् प्राप्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+If it is said that the expiation or prāyaścitta is intended  
+only to avoid the absence of pleasure in oneself that might continue,  
+then, there is every reason to perform expiation  
+owing to the fear that the sufferings stated in the śrutis and the smṛtis  
+(for non-performance of ordained rites and observances - nitya and naimittika )  
+would follow when the time comes for its fruition,  
+for these sufferings are on the same footing as this displeasure.
+</details>
+
+<details><summary>Español</summary>
+
+Si **se dice** que 
+
+> la expiación o prāyaścitta **está destinada**  
+solo para **evitar** la **ausencia** de placer en uno mismo que **podría continuar**,  
+Entonces, **hay** muchas razones para **realizar** una **expiación**  
+Debido al temor de que los **sufrimientos declarados** en los Śrutis y los Smṛtis  
+(Para el **incumplimiento** de los ritos y observancias **ordenados** - Nitya y Naimittika)  
+**Seguiría** cuando **llegue** el momento de su fruta,  
+porque **estos sufrimientos están** en la misma posición que este disgusto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मेलुमनुवृत्तिमाय् वरप्पुगुगिऱ प्रीत्यभावत्तैप्पऱ्ऱ प्रायश्चित्तमॆऩ्ऱाल् इत्तोडु तुल्ययोगक्षेमतैयाले यथासंभवम् श्रुत्यादिसिद्धङ्गळाऩ उपक्लेशङ्गळुम् वरुमॆऩ्ऱु भीतऩाय् प्रायश्चित्तम् पण्णप्प्राप्तम्। 
+</details>
+
+### पुनः-प्रपदनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल्, उपक्लेशङ्गळुम्,  
+
+इङ्गुऱ्ऱ भगवद्-अनुभवत्तुक्कु करणाशक्ति--ज्ञान-सङ्कोच--दुःखादिगळ्-अडिय् आग वरुम् विच्छेद-सङ्कोचङ्गळुम्  
+
+नियतायुस्सुक्कळ् अल्लादार्क्क् आयुर्-वृद्धियाले  
+परम-फलत्तुक्कु विळम्बमुम् प्रसङ्गियामैक्कु  
+
+पुनः-प्रपदनम् पण्णुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+Therefore in order to avoid  
+(1) these sufferings  
+and (2) the interruption to the enjoyment of the Lord (Bhagavad anubhava) here and the diminution of it caused by the weakness of the senses, the fading of the intelligence, sorrow and the like and  
+(3) in the case of those whose term of life has not already been unalterably fixed,  
+delay in the ultimate gain, viz., mokṣa by the extension of the age limit -  
+in order that this may not happen,  
+prapatti has to be performed again. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, para **evitar**  
+(1) Estos **sufrimientos**  
+y (2) la **interrupción** del **disfrute** del Señor (Bhagavad anubhava) aquí  
+y la **disminución** de la misma **causada** por la debilidad de los sentidos, el **desvanecimiento** de la inteligencia, la triste y similares, y   
+(3) En el caso de aquellos cuyo **término** de vida aún **no se ha fijado** inalterablemente,  
+**retraso** en la **ganancia** final, a saber, mokṣa por la **extensión** del límite de edad -  
+Para que esto **no suceda**,  
+Prapatti **tiene** que **ser realizado** nuevamente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयालुपक्लेशङ्गळुम् इङ्गुऱ्ऱ भगवदनुभवत्तुक्कु करणाशक्तिज्ञानसङ्कोचदुःखादिगळडियाग वरुम् विच्छेदसङ्कोचङ्गळुम् नियतायुस्सुक्कळल्लादार्क् कायुर्वृद्धियाले परमफलत्तुक्कु विळम्बमुम् प्रसङ्गियामैक्कु पुनःप्रपदनम् पण्णुगिऱदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु वेण्डाव् ऎऩ्बार्क्कुम्  
+निषिद्धङ्गळै क्षमिक्किऱ न्यायत्ताले  
+इदुवुम् क्षमा-विषयम् आगैयालेय्  
+इदुवेय् उचितम्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Even those who hold the opinion  
+that this is not required  
+will have to concede that the performance of this latter prapatti  
+will be pardoned by the Lord  
+(even if it be considered as an offence ),  
+since they hold the opinion that  
+the Lord will forgive (even ) the doing of forbidden things.
+</details>
+
+<details><summary>Español</summary>
+
+Incluso aquellos que **tienen** la **opinión**  
+que esto **no es necesario**  
+**tendrá** que **admitir** que el **rendimiento** de este último Prapatti  
+**será perdonado** por el Señor  
+(incluso si **se considera** un delito),  
+ya que **sostienen** la **opinión** de que  
+El Señor **perdonará** (incluso) el **hecho** de las cosas **prohibidas**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु वेण्डावॆऩ्बार्क्कुम् निषिद्धङ्गळै क्षमिक्किऱ न्यायत्ताले इदुवुम् क्षमाविषयमागैयालेयिदुवेयुचितम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> बुद्धि-पूर्वोत्तराघत्तुक्कु मेऱ्कवे प्रपत्ति-पण्ण वॊण्णाद् 
+
+ऎऩ्ऩुम् इडमुम्  
+
+> मुऩ्बु कोलिऩ फलम् ऒऴिय फलान्तरार्थम् आग  
+प्रपत्त्य्-अन्तरम् बण्णुगैयिल् विरोधम् इल्लैय् 
+
+ऎऩ्ऩुम् इडमुम्  
+
+मुऩ्बे समर्थित्तोम् +++(अपराध-परिहाराधिकारे)+++। 
+</details>
+
+<details><summary>English</summary>
+
+We have already explained that 
+
+> it is not possible to perform prapatti in anticipation for offences  
+that might be committed deliberately in future 
+
+and that 
+
+> there is nothing improper in performing a later prapatti  
+in order to obtain a fruit or object  
+which was not prayed for in the previous prapatti  
+(in the chapter on Expiation for Offences ). 
+</details>
+
+<details><summary>Español</summary>
+
+Ya **hemos explicado** que
+
+> **No es posible realizar** Prapatti con **anticipación** por delitos  
+que **podría cometirse** deliberadamente en el futuro
+
+y que
+
+> **No hay nada** incorrecto en **realizar** un Prapatti posterior  
+Para **obtener** una fruta u objeto  
+que **no se rezó** en el Prapatti anterior  
+(En el Capítulo sobre **Expiación** por delitos).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+बुद्धिपूर्वोत्तराघत्तुक्कु मेऱ्कवे प्रपत्तिपण्णवॊण्णादॆऩ्ऩुमिडमुम् मुऩ्बु कोलिऩ फलमॊऴिय फलान्तरार्थमाग प्रपत्त्यन्तरम्बण्णुगैयिल् विरोधमिल्लैयॆऩ्ऩुमिडमुम् मुऩ्बे समर्थित्तोम्। 
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि भगवद्-आज्ञा-सिद्धम् आऩ सद्-आचारानुपालनत्तिलुम्  
+विरोधम् इल्लामै कण्डु कॊळ्वदु।
+</details>
+
+<details><summary>English</summary>
+
+Thus it may be understood that there is nothing improper in observing the code of conduct followed by the good and arising from the commands of the Lord, (viz., nitya and naimittika ).
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **se puede entender** que **no hay** nada incorrecto  
+en la **observación** del Código de Conducta **seguido** del bien y que **surge** de los **mandamientos** del Señor (a saber, Nitya y Naimittika).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि भगवदाज्ञासिद्धमाऩ सदाचारानुपालनत्तिलुम् विरोधमिल्लामै कण्डु कॊळ्वदु।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपन्नस्य निषिद्धैर् अप्य्  
+अलेपम् **उपपादयन्** ।  
+यथाभिमत-सद्-वृत्त-  
+निष्ठेभ्यः किम् **असूयति** ॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रपन्नस्य निषिद्धैरप्यलेपमुपपादयन् । यथाभिमतसद्वृत्तनिष्ठेभ्यः किमसूयति ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-*प्रपन्नस्य निषिद्धैरप्यलेपमुपपादयन् । यथाभिमतसद्वृत्तनिष्ठेभ्यः किमसूयति ॥  
 आज्ञातिलङ्घने यस्य रक्षकत्वं न भज्यते । आज्ञानुपालने तस्य कथन्तदुपरुद्ध्यते ॥  
 न चाचारं विना किञ्चित्कैङ्कर्यमुपपद्यते । न हि शौचमकृत्वैव समाराधनमर्हति ॥  
 आचारप्रभवो धर्मो धर्मस्य प्रभुरच्युतः ।
@@ -11892,7 +12127,6 @@ We have already explained that it is not possible to perform prapatti in anticip
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-*प्रपन्नस्य निषिद्धैरप्यलेपमुपपादयन् । यथाभिमतसद्वृत्तनिष्ठेभ्यः किमसूयति ॥  
 आज्ञातिलङ्घने यस्य रक्षकत्वं न भज्यते । आज्ञानुपालने तस्य कथन्तदुपरुद्ध्यते ॥  
 न चाचारं विना किञ्चित्कैङ्कर्यमुपपद्यते । न हि शौचमकृत्वैव समाराधनमर्हति ॥  
 आचारप्रभवो धर्मो धर्मस्य प्रभुरच्युतः ।
