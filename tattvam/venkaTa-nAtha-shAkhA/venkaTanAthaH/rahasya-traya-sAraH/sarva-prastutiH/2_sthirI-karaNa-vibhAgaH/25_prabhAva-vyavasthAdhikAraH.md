@@ -11392,8 +11392,8 @@ o quién **está** impaciente por el retraso **realiza** Prapatti, una vez más,
 ‘प्रायश्चित्तान्तराशक्तः कालक्षेपाक्षमोऽपि वा । पुनः प्रपद्यते नाथमभिन्दन् लोकसंग्रहम् ॥
 </details>
 
-## बुद्धि-पूर्वकाघाभावोक्तयः
-### तात्पर्यम्
+## बुद्धि-पूर्वकाघाः
+### अभाव-वचन-तात्पर्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > मुमुक्षुत्वमेय् अडिय् आग  
@@ -11480,7 +11480,7 @@ y **expiaciones** para ello.
 मुमुक्षुवुक्कु बुद्धिपूर्वनिषिद्धङ्गळ् पुगुन्दु परिहारङ्गळ् पण्णुगै महर्षिकळ् पक्कलिलुम् ऋषिप्रायर्बक्कलिलुमुळ्बडक् कण्डुबोरानिऩ्ऱदिऱे। 
 </details>
 
-### उपासके साम्यम्
+#### उपासके साम्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्ङऩ् अऩ्ऱ् आगिल्  
@@ -11581,7 +11581,7 @@ Porque eso **depende** de la competencia (adhikāra).
 </details>
 
 
-### दिव्य-प्रबन्धेषु प्रमाणम्
+### दिव्य-प्रबन्धेष्व् अपराध-प्रमाणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ’’ऎऩ्ऩ्-अडियार् अदु सॆय्यार्  
@@ -12103,14 +12103,38 @@ en la **observación** del Código de Conducta **seguido** del bien y que **surg
 </details>
 
 
+### अघ-वारण-प्रशस्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रपन्नस्य निषिद्धैर् अप्य्  
 अलेपम् **उपपादयन्** ।  
-यथाभिमत-सद्-वृत्त-  
-निष्ठेभ्यः किम् **असूयति** ॥  
+यथाऽभिमत-सद्-वृत्त-  
+निष्ठेभ्यः किम् **असूयति** ॥  +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रपन्नस्य निषिद्धैर् अप्य्  
+अलेपम् **उपपादयन्** ।  
+यथाऽभिमत-सद्-वृत्त-  
+निष्ठेभ्यः किम् **असूयति** ॥  +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+He who maintains the view that the prapanna will not be tainted even when he does forbidden things, -  
+why does he view with anger those who, in accordance with the Lord's commands,  
+observe the code of conduct ordained as proper ?+++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+El que **mantiene** la opinión de que la Prapanna **no estará contaminada** incluso cuando haga cosas **prohibidas**, -  
+¿Por qué **ve** con ira con los que, de acuerdo con las **órdenes** del Señor
+**Observar** el código de conducta ordenado como apropiado?+++(5)+++
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -12118,41 +12142,603 @@ en la **observación** del Código de Conducta **seguido** del bien y que **surg
 </details>
 
 
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आज्ञातिलङ्घने यस्य  
+रक्षकत्वं **न भज्यते** ।  
+आज्ञानुपालने तस्य  
+कथन् तद् **उपरुद्ध्यते** ॥  +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+When it is held (by these disputants) that  
+even when the (Lord's) commands are violated,  
+He would not fail to protect,  
+
+how could it be said that  
+He would withhold His protection  
+when His commands are performed ?
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se mantiene** (por estos disputantes) que  
+Incluso cuando **se violan** las **órdenes** (del Señor),  
+**No dejaría** de **proteger**,  
+
+Cómo **se podría decir** eso -
+Él **retendría** su **protección**
+Cuándo **se realizan** sus comandos?
+</details>
+
+<details><summary>मूलम्</summary>
 
 आज्ञातिलङ्घने यस्य रक्षकत्वं न भज्यते । आज्ञानुपालने तस्य कथन्तदुपरुद्ध्यते ॥  
-न चाचारं विना किञ्चित्कैङ्कर्यमुपपद्यते । न हि शौचमकृत्वैव समाराधनमर्हति ॥  
-आचारप्रभवो धर्मो धर्मस्य प्रभुरच्युतः ।
 </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+
+
+न चाचारं विना किञ्चित्  
+कैङ्कर्यम् उपपद्यते ।  
+न हि शौचम् अकृत्वैव  
+समाराधनम् अर्हति ॥  
+</details>
+
+<details><summary>English</summary>
+
+No form of service (to the Lord) is proper without right conduct.  
+When a man has not made himself clean,  
+he is not fit to worship the Lord.
+</details>
+
+<details><summary>Español</summary>
+
+Ninguna forma de **servicio** (para el Señor) **es** apropiada **sin conducta** correcta.  
+Cuando un hombre **no se ha limpiado**,  
+**No es apto** para **adorar** al Señor.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-आज्ञातिलङ्घने यस्य रक्षकत्वं न भज्यते । आज्ञानुपालने तस्य कथन्तदुपरुद्ध्यते ॥  
 न चाचारं विना किञ्चित्कैङ्कर्यमुपपद्यते । न हि शौचमकृत्वैव समाराधनमर्हति ॥  
-आचारप्रभवो धर्मो धर्मस्य प्रभुरच्युतः ।
 </details>
 
-He who maintains the view that the prapanna will not be tainted even when he does forbidden things, - why does he view. with anger those who, in accordance with the Lord's commands, observe the code of conduct ordained as proper ?
 
-When it is held (by these disputants) that even when the (Lord's) commands are violated, He would not fail to protect, how could it be said that He would withhold His protection when His commands are performed ?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-No form of service (to the Lord) is proper without right conduct. When a man has not made himself clean, he is not fit to worship the Lord.
+> **आचार-प्रभवो** धर्मो  
+धर्मस्य प्रभुर् अच्युतः ।  
 
-Dharma is born of right conduct: and the Lord of Dharma is Acyuta." The meaning of all the śāstras is explained in these words in the fifth Veda (Mahābhārata).
+इति पञ्चम-वेदेऽपि  
+सर्व-शास्त्रार्थ **ईरितः** ॥
+</details>
 
-The remembrance of the prapatti (performed before ) which is taught by the wise is for the purpose of giving up such prāyascittas as one is not competent to perform and the performance of such others as one is competent for,
+<details><summary>नीलमेघः (सं)</summary>
 
-When prapatti is remembered, the thought will arise that sins committed in ignorance will cause no taint. It will also be understood that when they are committed deliberately, the performance of a further prapatti is necessary.
+> **आचार-प्रभवो** धर्मो  
+धर्मस्य प्रभुर् अच्युतः ।  
 
-"Therefore the wise man should remain without committing any offence. But when offences have occurred, the proper thing to do would be another prapatti".
+इति पञ्चम-वेदेऽपि  
+सर्व-शास्त्रार्थ **ईरितः** ॥
 
-The activities of the man who performed prapatti ( at first) praying that he should be sinless and of the man who performed a further prapatti in order that his later life may be free from sin will invariably be free from sin.
+</details>
+
+
+<details><summary>English</summary>
+
+> Dharma is born of right conduct:  
+and the Lord of Dharma is Acyuta."  
+
+The meaning of all the śāstras  
+is explained in these words in the fifth Veda (Mahābhārata).
+</details>
+
+<details><summary>Español</summary>
+
+> Dharma **nace** de conducta correcta:  
+y el Señor del Dharma **es** Acyuta ".  
+
+El **significado** de todos los Śāstras  
+**se explica** en estas palabras en el quinto Veda (Mahābhārata).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आचारप्रभवो धर्मो धर्मस्य प्रभुरच्युतः ।  
+इति पञ्चमवेदेऽपि सर्वशास्त्रार्थ ईरितः ॥
+</details>
+
+
+### प्रपत्ति-स्मरण-प्रयोजनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपत्ति-प्रतिसन्धानम् +++(→स्मरणम्)+++  
+आप्तैर् यद् **उपदिश्यते** ।  
+तत् स्वाधिकार-नियत-  
++++(प्रयश्चित्तादि-)+++हानोपादान-सिद्धये ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रपत्ति-प्रतिसन्धानम् +++(→स्मरणम्)+++  
+आप्तैर् यद् **उपदिश्यते** ।  
+तत् स्वाधिकार-नियत-  
++++(प्रयश्चित्तादि-)+++हानोपादान-सिद्धये ॥ 
+</details>
+
+<details><summary>English</summary>
+
+The remembrance of the prapatti (performed before )  
+which is taught by the wise  
+is for the purpose of giving up such prāyascittas as one is not competent to perform  
+and the performance of such others as one is competent for.
+</details>
+
+<details><summary>Español</summary>
+
+El **recuerdo** del Prapatti (**realizado** antes)  
+que es **enseñado** por los sabios  
+es con el propósito de **renunciar** a las prāyascittas que uno **no es competente** para realizar  
+y el **desempeño** de otros como uno es competente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तिप्रतिसन्धानमाप्तैर्यदुपदिश्यते । तत् स्वाधिकार नियत हानोपादानसिद्धये ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रतिसन्धानतो हि स्याद्  
+अ-धी-पूर्वेष्व् अ-लेप-धीः ।  
+बुद्धि-पूर्वेष्व् अपि पुनः  
+प्रपत्तेर् एव संग्रहः ॥
+</details>
+
+<details><summary>English</summary>
+
+When prapatti is remembered,  
+the thought will arise that sins committed in ignorance will cause no taint.  
+It will also be understood that  
+when they are committed deliberately,  
+the performance of a further prapatti is necessary.
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se recuerda** Prapatti,  
+El **pensamiento surge** que los pecados **cometidos** en la ignorancia **no causarán** manchas.  
+También **se entenderá** que  
+Cuando **se comprometen** deliberadamente,  
+El **rendimiento** de un Prapatti adicional **es necesario**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रतिसन्धानतो हि स्यादधीपूर्वेष्वलेपधीः । बुद्धिपूर्वेष्वपि पुनः प्रपत्तेरेव संग्रहः ॥
+</details>
+
+### उदय-वारणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो निर्-अपराधेन  
+**वर्तितव्यं** कृतात्मना ।  
+अपराध-प्रसङ्गे च  
+पुनः **प्रपदनं क्षमम्** +++(=योग्यम्)+++॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो निर्-अपराधेन  
+**वर्तितव्यं** कृतात्मना ।  
+अपराध-प्रसङ्गे च  
+पुनः **प्रपदनं क्षमम्** +++(=योग्यम्)+++॥
+</details>
+
+<details><summary>English</summary>
+
+"Therefore the wise man should remain without committing any offence.  
+But when offences have occurred,  
+the proper thing to do would be another prapatti".
+</details>
+
+<details><summary>Español</summary>
+
+"Por lo tanto, el hombre sabio **debe permanecer sin cometer** ningún delito.
+Pero cuando **se han producido ofensas**,
+Lo correcto **sería** otro Prapatti ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो निरपराधेन वर्तितव्यं कृतात्मना । अपराध प्रसङ्गे च पुनः प्रपदनं क्षमम् ॥
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अडियिले 
+
+> "निर्-अपराधऩ् आग वेणुम्"  
+
+ऎऩ्ऱु कोलि  
+प्रपत्ति पण्णिऩ् अवऩुक्कुम्,  
+पिऩ्ब् इदुक्क् आग प्रपत्त्य्-अन्तरम् पण्णिऩ् अवऩुक्कुम्  
+उत्तरकृत्यम् निरपराधम् आगवे नडक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+The activities 
+
+of the man who performed prapatti ( at first)  
+praying that he should be sinless  
+
+and of the man who performed a further prapatti in order that his later life may be free from sin  
+
+will invariably be free from sin.
+</details>
+
+<details><summary>Español</summary>
+
+Las actividades 
+
+del hombre que **realizó** Prapatti (al principio)  
+**Rezando** para que el **debería estar** sin pecado   
+
+y del hombre que **realizó** un Prapatti más para  
+que su vida posterior **pueda estar** libre de pecado  
+
+Invariablemente **estará libre** del pecado.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अडियिले निरपराधऩागवेणुमॆऩ्ऱु कोलि प्रपत्ति पण्णिऩवऩुक्कुम् पिऩ्बिदुक्काग प्रपत्त्यन्तरम् पण्णिऩवऩुक्कुमुत्तरकृत्यम् निरपराधमागवे नडक्कुम्।
+</details>
+
+
+
+### इतिहास-पुराण-प्रमाणम्
+
+<details><summary>English</summary>
 
 PRĀYASCHITTA FOR DELIBERATE OFFENCES IS ABSOLUTELY NECESSARY:
+</details>
 
-Some may say, in (utter) disregard of texts to the contrary, that (even ) the offences committed deliberately by the prapanna would be pardoned, their opinion being based on certain incidents in the Itihāsas and the Purāṇas. This contention, too, arises from an ignorance of the real opinions in the respective contexts. (For instance) when Sugrīva transgressed the time fixed by him for carrying out the terms of the alliance, the offence caused the appearance of great grief in Śrī Rāma's mind and he said, "The way in which Vālin was slain is not yet closed. Abide by the terms of the agreement, O Sugrīva. Do not go the way of Vālin." On hearing these words, Lakṣmaṇa became so angry that the Lord had to bring down his wrath. He went to Sugrīva (to denounce him). On that occasion, did not (Hanuman), the scholar versed in the science of Indra's grammer, counsel Sugrīva as follows:- "I do not see any other means for you, the offender, to escape from this situation except by begging the pardon of Lakṣmaṇa with folded hands". Sugrīva, too, accepted this advice and said to Lakṣman. "If out of over-confidence or out of affection, I have transgressed in any way, pray, let the offence of your servant be pardoned". And Lakṣmaṇa too, had to seek Sugrīva's pardon for overstepping the proper bounds of speech by
+<details><summary>Español</summary>
 
-saying:- "Pardon me for any harsh words that I may have uttered after listening to the words of Śrī Rāma in his grief."
+Prāyaschitta para delitos deliberados **es** absolutamente **necesario**:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इतिहास-पुराणङ्गळिल्  
+सिल वृत्तान्त-दर्शन-मात्रत्तैक् कॊण्डु  
+वचन-विरोधत्तै अनादरित्तु  
+
+> भागवतऩ्-उडैय बुद्धि-पूर्वोत्तराघम् क्षन्तव्यम्  
+
+ऎऩ्ऱु सिलर् सॊल्लुवर्गळ्; 
+</details>
+
+<details><summary>English</summary>
+
+Some may say, in (utter) disregard of texts to the contrary,  
+that (even ) the offences committed deliberately by the prapanna would be pardoned,  
+their opinion being based on certain incidents in the Itihāsas and the Purāṇas. 
+</details>
+
+<details><summary>Español</summary>
+
+Algunos **pueden decir**, en (absoluto) **desprecio** de los textos de lo contrario,  
+que (incluso) las ofensas **cometidas** deliberadamente por la Prapanna **serían perdonadas**,  
+Su opinión **se basa** en ciertos incidentes en los Itihāsas y los Purāṇas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इतिहासपुराणङ्गळिल् सिल वृत्तान्तदर्शनमात्रत्तैक्कॊण्डु वचनविरोधत्तै अनादरित्तु भागवतऩुडैय बुद्धिपूर्वोत्तराघम् क्षन्तव्यमॆऩ्ऱु सिलर् सॊल्लुवर्गळ्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुवुम् अव्व्-ओ प्रकरणङ्गळिल् अभिप्रायम् अऱियामल् वन्ददु। 
+</details>
+
+<details><summary>English</summary>
+
+This contention, too, arises from an ignorance of the real opinions in the respective contexts. 
+</details>
+
+<details><summary>Español</summary>
+
+Esta afirmación también **surge** de una ignorancia de las opiniones reales en los contextos respectivos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुवुम् अव्वो प्रकरणङ्गळिलभिप्रायमऱियामल् वन्ददु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महा-राजर्क्कुम् उळ्-बड  
+समयातिलङ्घन-मात्रम् आऩ अपराधम्  
+पॆरु-माळ् तिरुव्-उळ्ळत्तिले शोकाभिभवत्ताले प्रतिभासित्तु, 
+</details>
+
+<details><summary>English</summary>
+
+(For instance) when Sugrīva transgressed the time fixed by him for carrying out the terms of the alliance,  
+the offence caused the appearance of great grief in Śrī Rāma's mind  
+</details>
+
+<details><summary>Español</summary>
+
+(Por ejemplo) cuando Sugrīva **transgredió** el tiempo fijado por él por **llevar** a cabo los términos de la alianza,  
+La ofensa **causó** la **apariencia** de gran dolor en la mente de Śrī Rāma
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+महाराजर्क्कुमुळ्बड समयातिलङ्घनमात्रमाऩ अपराधम् पॆरुमाळ् तिरुवुळ्ळत्तिले शोकाभिभवत्ताले प्रतिभासित्तु, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न च सङ्कुचितः पन्था  
+येन वाली हतो गतः ।  
+समये तिष्ठ सुग्रीव  
+मा वालि-पथम् अन्वगाः । ’’  
+(रामायणम् किष्किन्दाकाण्डम् ३०-८१) 
+
+ऎऩ्ऱ् अरुळिच् चॆय्यक् केट्टु,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न च सङ्कुचितः पन्था  
+येन वाली हतो गतः ।  
+समये तिष्ठ सुग्रीव  
+मा वालि-पथम् अन्वगाः । ’’  
+(रामायणम् किष्किन्दाकाण्डम् ३०-८१) 
+
+
+</details>
+
+
+<details><summary>English</summary>
+
+and he said, 
+
+> "The way in which Vālin was slain is not yet closed.  
+Abide by the terms of the agreement, O Sugrīva.  
+Do not go the way of Vālin." 
+</details>
+
+<details><summary>Español</summary>
+
+Y él dijo
+
+> "La forma en que Vālin **fue asesinado** aún **no está cerrado**.  
+**Cumplir** con los términos del acuerdo, o Sugrīva.  
+**No sigas** el camino de Vālin ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न च सङ्कुचितः पन्था येन वाली हतो गतः । समये तिष्ठ सुग्रीव मा वालिपथमन्वगाः । ’’(रामायणम् किष्किन्दाकाण्डम् ३०-८१) ऎऩ्ऱरुळिच्चॆय्यक्केट्टु,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इळैय-बॆरुमाळ्,  
+पॆरुमाळ् तामे तणिय+++(=शान्तिम्)+++ विड वेण्डुम् बडि  
+सीऱिय्+++(=कुपित्वा)+++ अरुळि,  
+किष्किन्धैयिले सॆल्ल, 
+</details>
+
+<details><summary>English</summary>
+
+On hearing these words,  
+Lakṣmaṇa became so angry that the Lord had to bring down his wrath.  
+He went to Sugrīva (to denounce him). 
+</details>
+
+<details><summary>Español</summary>
+
+Al **escuchar** estas palabras,  
+Lakṣmaṇa **se enojó** tanto que  
+el Señor **tuvo** que **derribar** su ira.  
+**Fue** a Sugrīva (para **denunciarlo**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इळैयबॆरुमाळ्, पॆरुमाळ् तामे तणियविडवेण्डुम्बडि सीऱियरुळिकिष्किन्धैयिले सॆल्ल, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘कृतापराधस्य हि ते  
+नान्यत् पश्याम्य् अहं क्षमम् ।  
+अन्तरेणाञ्जलिं बध्वा  
+लक्ष्मणस्य प्रसादनात्॥’’  
+(रामायणम् किष्किन्दाकाण्डम् ३२-११)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘कृतापराधस्य हि ते  
+नान्यत् पश्याम्य् अहं क्षमम् ।  
+अन्तरेणाञ्जलिं बध्वा  
+लक्ष्मणस्य प्रसादनात्॥’’  
+(रामायणम् किष्किन्दाकाण्डम् ३२-११)
+</details>
+
+<details><summary>English</summary>
+
+> "I do not see any other means for you, the offender,  
+to escape from this situation  
+except by begging the pardon of Lakṣmaṇa with folded hands". 
+</details>
+
+<details><summary>Español</summary>
+
+> "**No veo** ningún otro medio para ti, el delincuente,  
+Para **escapar** de esta situación  
+excepto **rogando** el perdón de Lakṣmaṇa con manos dobladas ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘कृतापराधस्य हि ते नान्यत् पश्याम्यहं क्षमम् । अन्तरेणाञ्जलिं बध्वा लक्ष्मणस्य प्रसादनात्’’(रामायणम् किष्किन्दाकाण्डम् ३२-११)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु ऐन्द्र-व्याकरण-पण्डितऩ् महा-राजर्क्क् उपदेशित्ताऩ् इऱे। 
+</details>
+
+<details><summary>English</summary>
+
+On that occasion, did not (Hanuman), the scholar versed in the science of Indra's grammer, counsel Sugrīva as above ~~follows~~.
+</details>
+
+<details><summary>Español</summary>
+
+En esa ocasión,  
+no (Hanuman), el erudito **versado** en la ciencia del Grammer de Indra,  
+el **abogado** Sugrīva como arriba.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु ऐन्द्रव्याकरणपण्डितऩ् महाराजर्क्कुपदेशित्ताऩिऱे। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्व्-अळविल् महा-राजरुम् इसैन्दु 
+
+> ‘‘यदि किञ्चिद् अतिक्रान्तं  
+विश्वासात् प्रणयेन वा ।  
+प्रेष्यस्य क्षमितव्यं मे  
+न कश्चिन् नापराध्यति॥’’  
+(रामायणम् किष्किन्दा-काण्डम् ३६-११) 
+
+ऎऩ्ऱु विण्णप्पञ् जॆय्य वेण्डिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यदि किञ्चिद् अतिक्रान्तं  
+विश्वासात् प्रणयेन वा ।  
+प्रेष्यस्य क्षमितव्यं मे  
+न कश्चिन् नापराध्यति॥’’  
+(रामायणम् किष्किन्दा-काण्डम् ३६-११) 
+
+</details>
+
+<details><summary>English</summary>
+
+Sugrīva, too, accepted this advice and said to Lakṣman. 
+
+"If out of over-confidence or out of affection,  
+I have transgressed in any way,  
+pray, let the offence of your servant be pardoned". 
+</details>
+
+<details><summary>Español</summary>
+
+Sugrīva también **aceptó** este **consejo** y le **dijo** a Lakṣman.
+
+"Si está **fuera** de exceso de confianza o por afecto,  
+He **transgredido** de alguna manera  
+**Ore**, **deja** que **se perdone** la ofensa de tu siervo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अव्वळविल् महाराजरुमिसैन्दु ‘‘यदि किञ्चिदतिक्रान्तं विश्वासात् प्रणयेन वा । प्रेष्यस्य क्षमितव्यं मे न कश्चिन्नापराध्यति’’(रामायणम् किष्किन्दाकाण्डम् ३६-११) ऎऩ्ऱु विण्णप्पञ्जॆय्यवेण्डिऱ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोद् इळैय-बॆरुमाळुक्कुम्  
+ताम् मिगुदिय् आगच् चॊऩ्ऩ वार्त्तैगळुक्कु 
+
+> ‘‘यच् च शोकाभिभूतस्य  
+श्रुत्वा रामस्य भाषितम् ।  
+मया त्वं परुषाण्य् उक्तस्  
+तच् च त्वं क्षन्तुम् अर्हसि॥’’  
+(रामायणम् किष्किन्दाकाण्डम् ३६-२८) 
+
+ऎऩ्ऱु क्षमै गॊळ्ळ वेण्डिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यच् च शोकाभिभूतस्य  
+श्रुत्वा रामस्य भाषितम् ।  
+मया त्वं परुषाण्य् उक्तस्  
+तच् च त्वं क्षन्तुम् अर्हसि॥’’  
+(रामायणम् किष्किन्दाकाण्डम् ३६-२८) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+And Lakṣmaṇa too, had to seek Sugrīva's pardon for overstepping the proper bounds of speech by saying:- 
+
+> "Pardon me for any harsh words  
+that I may have uttered after listening to the words of Śrī Rāma in his grief."
+</details>
+
+<details><summary>Español</summary>
+
+Y Lakṣmaṇa también **tuvo** que **buscar** el **perdón** de Sugrīva por **sobrepasar** los límites **adecuados** del **habla diciendo**:--
+
+> "**Perdóname** por cualquier palabras duras  
+que **podría haber pronunciado** después de **escuchar** las palabras de Śrī Rāma en su dolor ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पोदिळैयबॆरुमाळुक्कुम् ताम् मिगुदियागच् चॊऩ्ऩ वार्त्तैगळुक्कु ‘‘यच्च शोकाभिभूतस्य श्रुत्वा रामस्य भाषितम् । मया त्वं परुषाण्युक्तस्तच्च त्वं क्षन्तुमर्हसि’’(रामायणम् किष्किन्दाकाण्डम् ३६-२८) ऎऩ्ऱु क्षमैगॊळ्ळवेण्डिऱ्ऱु। 
+</details>
+
+
+
+
 
 Thus even in the life of a prapanna, offences may occur deliberately, owing to past karma which has begun to operate (prārabdha). When they have occurred, the prapanna should repent and obtain pardon. When Aḷavandār says "I have not
 
