@@ -2,7 +2,7 @@
 title = "पञ्चसंस्कारप्रयोगः"
 +++
 
-प्रयोगमालायां पञ्चसंस्कारप्रयोगः
+पञ्चसंस्कारप्रयोगः
 
 ## सदोऽनुज्ञा
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md"  newLevelForH1="5" includeTitle="false"> 
