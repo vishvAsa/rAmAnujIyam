@@ -11295,8 +11295,14 @@ Si **consideramos** la **importación** del verso
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षमिक्क वेणुम् ऎऩ्ऱ् अपेक्षित्त पडिय् आगैयाले, 
+"क्षमिक्क वेणुम्" ऎऩ्ऱ् अपेक्षित्त पडिय् आगैयाले, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"क्षन्तव्यम्" इत्य् अपेक्षितत्वम् एवेति 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11327,6 +11333,21 @@ También **significa** la oración de que los delitos **se perdonen**.
 ऎऩ्गिऱ बडिये  
 क्षमै कॊळ्ळप् प्राप्तम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रपन्नस्यापराधोपनतौ,
+
+> ‘‘अज्ञानाद् अथवा ज्ञानाद्  
+अपराधेषु सत्स्व् अपि ।  
+प्रायश्चित्तं "क्षमस्वे"ति  
+**प्रार्थनैकैव** केवलम्॥’’  
+(वङ्गी-पुरत्तुनम्बि-कारिका) 
+
+इत्य्-उक्त-रीत्या क्षमायाचनं युक्तम् । 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -11402,6 +11423,14 @@ o quién **está** impaciente por el retraso **realiza** Prapatti, una vez más,
 ऎऩ्ऩुम् वार्तैयुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> मुमुक्षुत्वाद् एव हेतोः  
+बुद्धि-पूर्वक-निषिद्धानि न भवेयुर् 
+
+इतीयं वार्ताऽपि, 
+</details>
+
 <details><summary>English</summary>
 
 The contention that when there is aspiration for mukti, no forbidden things will be done deliberately 
@@ -11428,6 +11457,15 @@ La **afirmación** de que cuando **hay aspiración** para Mukti,
 ऎऩ्ऩुम् आप्-पोले  
 औचित्यत्ताले सॊऩ्ऩ बडिय् अत्तऩै। +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘विद्यते ब्राह्मणे दमः’’  
+(रमायणम् युद्ध-काण्डम् १६-९) 
+
+इतिवद् औचित्य-मूलो वाद इत्य् एव । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11460,6 +11498,15 @@ It is like the saying that
 ऋषि-प्रायर्-बक्कलिलुम् उळ्-पडक्  
 कण्डु पोरा निऩ्ऱद् इऱे। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुमुक्षूणाम् एव  
+बुद्धि-पूर्व-निषिद्धेषूपनतेषु परिहाराणां करणं  
+महर्षीणां सन्निधौ ऋषि-प्रायाणां सन्निधौ च  
+दृष्टं किल । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11494,6 +11541,18 @@ y **expiaciones** para ello.
 
 पण्ण-वॊण्णाद् ऒऴियुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा उपासकानाम् अपि मुमुक्षुत्वात्  
+तेषाम् अपि बुद्धि-पूर्वोत्तराघस्यासंभावितत्वात्,  
+
+> उत्तराघाश्लेषम् प्रामादिक-विषयम्;  
+बुद्धि-पूर्वोत्तराघत्तुक्कु क्षन्तव्यत्वम् इल्लैय्  
+
+इति +++(श्री-भाष्योक्त-)+++व्यवस्था-करणम् अयुक्तं स्यात् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11535,6 +11594,15 @@ y que **no hay perdón** por los pecados cometidos deliberadamente
 उपासकऩुक्कुम्, प्रपन्नऩुक्कुम् वर्णाश्रम-जाति-गोत्र-प्रवर-चरण- कुल-देश-कालावस्था-गुण-समयादिगळै उपाधिय् आगक् कॊण्डु सॊऩ्ऩ निषिद्धङ्गळ् तविरुम्+++(=हानम्)+++ इडत्तिल् विशेषम् इल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P250]] 
+
+उपासकस्य प्रपन्नस्य च वर्णाश्रम-जाति-गोत्र- प्रवर-चरण-कुल-देश-काल- अवस्था-गुण-समय-आद्य्-उपाधिकतया उक्तानां निषिद्धानां परिहरणे  
+विशेषो नास्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 There is no difference between the upāsaka (the follower of Bhakti yoga) and the prapanna  
@@ -11561,6 +11629,13 @@ Con respecto a lo que se prohíbe a la casta (varṇa), āśrama, sexo (jāti), 
 वैषम्यम् उण्डु।   
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+निषिद्धेषु प्रायश्चित्तस्य  
+यथाऽधिकार-भावाद् वैषम्यम् अस्ति ।
+</details>
+
+
 <details><summary>English</summary>
 
 If what is forbidden has been done,  
@@ -11581,7 +11656,7 @@ Porque eso **depende** de la competencia (adhikāra).
 </details>
 
 
-### दिव्य-प्रबन्धेष्व् अपराध-प्रमाणम्
+#### दिव्य-प्रबन्धेष्व् अपराध-प्रमाणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ’’ऎऩ्ऩ्-अडियार् अदु सॆय्यार्  
@@ -11590,6 +11665,15 @@ Porque eso **depende** de la competencia (adhikāra).
 
 ऎऩ्गिऱदुवुम् अपराधम् पुगुरुम् ऎऩ्गैक्कु लिङ्गम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "मद्-दासास् तन् न कुर्युः ;  
+कृतवन्तश् चेत् साधु कृतवन्तः" 
+
+इत्य् एतद् अपि अपराध-संभवस्य लिङ्गम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11628,6 +11712,19 @@ Los **consideraré** como si **fueran** acciones virtuosas "
 ऎऩ्ऱ्-अदुक्कु 
 
 > प्रामादिकम् आगप् पुगुन्दाल् नामे क्षमिप्पुदोम्, +++(4)+++ 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र 
+
+> " कृतवन्तश् चेत् साधु कृतवन्तः" 
+
+इत्य्-अस्य, 
+
+> 'प्रामादिकस्योत्पत्तौ  
+वयम् एव क्षमिष्यामहे; 
 </details>
 
 
@@ -11673,6 +11770,17 @@ medio
 ऎऩ्ऱु तात्पर्यम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> बुद्धि-पूर्वकस्योत्पत्तौ तु  
+क्षमायाम् अयाचितायाम् अपि  
+शिक्षा-विशेषैर् वयं शमयिष्यामः,  
+कथंचिद् अपि न त्यक्ष्यामः' 
+
+इति तात्पर्यम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 > If offences are committed deliberately  
@@ -11703,6 +11811,19 @@ pero nunca los **abandonará**.
 ऎऩ्ऱु सॊल्लुगैयाले  
 इदु वस्तु-वृत्तियिल् "नऩ्ऱ् अऩ्ऱ्" ऎऩ्ऩुम् इडम् सूचितम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> " साधु कृतवन्त  
+इति वादिनम् इव" 
+
+इत्य् उक्तेः 
+
+> 'न +इदं वस्तु-वृत्त्या साधु' 
+
+इति सूचितम् ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11739,12 +11860,27 @@ como **si fueran** buenas obras ".
 (लक्ष्मीतन्त्रम् १७-९१) 
 
 ऎऩ्ऱु सॊल्लुगैयाले  
-बुद्धिपूर्वोत्तराघत्तिल्  
 
-> ईश्वरऩुक्कु निग्रहेच्छैय् उदियाद्  
+> बुद्धिपूर्वोत्तराघत्तिल् ईश्वरऩुक्कु निग्रहेच्छैय् उदियाद्  
 
 ऎऩ्ऩ वॊण्णादु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अपाय-संप्लवे सद्यः  
+प्रायश्चित्तं समाचरेत् ।  
+प्रायश्चित्तिर् इयं सात्र  
+यत् पुनश् शरणं व्रजेत्॥’’  
+(लक्ष्मीतन्त्रम् १७-९१) 
+
+इत्य् उक्तत्वात्,  
+
+> बुद्धि-पूर्वोत्ताराघे निग्रहेच्छा नोदियाद् 
+
+इति वक्तुम् अयुक्तम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11786,6 +11922,14 @@ Iśvara **no tendrá** el deseo de **castigar** (el Prapanna),
 +++(दुष्-)+++फल-सिद्धिय् इल्लैय् ऎऩ्ऩवुम् ऒण्णादु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-शक्तेर् निग्रहेच्छायाम् उदितायां  
+क्षमाया अ-याचने (अघस्य)  
+फल-सिद्धिर् नेत्य् अपि वक्तुम् अशक्यम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 nor can it be said that  
@@ -11823,6 +11967,16 @@ porque él **es** todopoderoso).
 पुनः-प्रायश्चित्तम् पण्ण वेण्डा। 
 </details>
 
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> (ईश्वरस्य) प्रीत्य्-अभाव-मात्रं जायेत 
+
+इत्य् एव इत्य् उक्तौ  
+स्वस्य तेन कस्यापि प्रत्यवायत्वाभावे  
+पुनः प्रायश्चित्तं नापेक्षितम् । 
+</details>
+
 <details><summary>English</summary>
 
 If it be held that the offence would only cause the absence of pleasure to the Lord,  
@@ -11852,6 +12006,15 @@ Entonces, si ese disgusto **no causaría** ningún mal (al hombre),
 ऎऩ्ऱालुम् प्रत्यवायम् सिद्धम् आयिऱ्ऱु।+++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> स्वस्यापि प्रीत्य्-अभावो जायेत इत्य् एव 
+
+इति चेत्  
+प्रत्यवायः सिद्धः । 
+</details>
+
+
 <details><summary>English</summary>
 
 If it be held that  
@@ -11877,8 +12040,14 @@ Las **consecuencias** malvadas, a **saber**, la **ausencia** de placer **tendrá
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदिलुम् कऴिन्द्-अदुक्कु प्रायश्चित्तम् वेण्डा। 
+अदिलुम् कऴिन्द्-अदुक्कु +++(←क्षणिक-स्वाप्रति)+++ प्रायश्चित्तम् वेण्डा। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्राप्य् अतीतस्य विषये +++(क्षणिक-स्वाप्रीतौ)+++ प्रायश्चित्तं नापेक्षितम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11918,6 +12087,20 @@ que **ha fallecido**.
 
 ऎऩ्ऱु भीतऩ् आय् प्रायश्चित्तम् पण्णप् प्राप्तम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अग्रेऽप्य् अनुवर्तमानतया जनिष्यमाणस्य प्रीत्य्-अभावस्यार्थे प्रायश्चित्तम् 
+
+इत्य् उक्तौ  
+
+> एतत्-तुल्योगत्वात्  
+यथा-संभवं श्रुत्य्-आदि-सिद्धा उपक्लेशा अपि भवेयुर्  
+
+इति भीतेन  
+प्रायश्चित्तं कर्तुम् युक्तम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11961,6 +12144,9 @@ porque **estos sufrimientos están** en la misma posición que este disgusto.
 
 पुनः-प्रपदनम् पण्णुगिऱदु।
 </details>
+
+
+
 
 <details><summary>English</summary>
 
@@ -12736,13 +12922,104 @@ que **podría haber pronunciado** después de **escuchar** las palabras de Śrī
 अप्पोदिळैयबॆरुमाळुक्कुम् ताम् मिगुदियागच् चॊऩ्ऩ वार्त्तैगळुक्कु ‘‘यच्च शोकाभिभूतस्य श्रुत्वा रामस्य भाषितम् । मया त्वं परुषाण्युक्तस्तच्च त्वं क्षन्तुमर्हसि’’(रामायणम् किष्किन्दाकाण्डम् ३६-२८) ऎऩ्ऱु क्षमैगॊळ्ळवेण्डिऱ्ऱु। 
 </details>
 
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि प्रपन्नऩुक्कुम् प्रारब्धकर्मविशेषङ्गळाले बुद्धिपूर्वोत्तराघम् पुगिऱवुङ् गूडुम्; 
+</details>
+
+<details><summary>English</summary>
+
+Thus even in the life of a prapanna, offences may occur deliberately,  
+owing to past karma which has begun to operate (prārabdha). 
+</details>
+
+<details><summary>Español</summary>
+
+Así, incluso en la vida de una Papanna, los delitos **pueden ocurrir** deliberadamente,  
+Debido al karma pasado que **ha comenzado** a ****operar (prārabdha).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि प्रपन्नऩुक्कुम् प्रारब्धकर्मविशेषङ्गळाले बुद्धिपूर्वोत्तराघम् पुगिऱवुङ्गूडुम्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवै पुगुन्दाल् अनुतप्तऩ् आय् क्षमैक् कॊळ्ळवुम् वेणुम्। 
+</details>
+
+<details><summary>English</summary>
+
+When they have occurred, the prapanna should repent and obtain pardon. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **han ocurrido**, la Prapanna debe **arrepentirse** y **obtener** perdón.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवै पुगुन्दालनुतप्तऩाय् क्षमैक्कॊळ्ळवुम् वेणुम्। 
+</details>
+
+## धर्म-निष्ठाभाव-वचनानि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न धर्म-निष्ठोऽस्मि’’(आळवन्दार् स्तोत्रम् २२), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न धर्म-निष्ठोऽस्मि’’(आळवन्दार् स्तोत्रम् २२), 
+</details>
+
+<details><summary>English</summary>
+
+When Aḷavandār says  
+
+> "I have not observed dharma (i.e.) karmayoga etc" 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando Aḷavandār **dice**
+
+> "**No he observado** dharma (es **decir**) karmayoga, etc."
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘न धर्मनिष्ठोऽस्मि’’(आळवन्दार् स्तोत्रम् २२), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’कुळित्तु मूऩ्ऱ्-अऩलैय् ओम्बुङ् गुऱिगॊळ् अन्दणमै तऩ्ऩैय् **ऒळित्त् इट्टेऩ्**’’  
+(तिरुमालै २५) 
+
+इत्य्-आदिगळुम् 
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’कुळित्तु मूऩ्ऱऩलैयोम्बुङ्गुऱिगॊळन्दणमै तऩ्ऩैयॊळित्तिट्टेऩ्’’(तिरुमालै २५) इत्यादिगळुम् 
+</details>
 
 
 
+and when it is said, 
 
-Thus even in the life of a prapanna, offences may occur deliberately, owing to past karma which has begun to operate (prārabdha). When they have occurred, the prapanna should repent and obtain pardon. When Aḷavandār says "I have not
+> "I have given up the rites that are to be performed by a Brahmin after ablution  
+in the form of adoration to the three sacrificial fireś', 
 
-observed dharma (i.e.) karmayoga etc" and when it is said, "I have given up the rites that are to be performed by a Brahmin after ablution in the form of adoration to the three sacrificial fireś', it means only this much that he was not capable of such things as karma yoga and not that we should give up the observance of the Lord's commands (nitya and naimittika), in so far as it lies in our power.
+
+it means only this much that he was not capable of such things as karma yoga and not that we should give up the observance of the Lord's commands (nitya and naimittika), in so far as it lies in our power.
 
 Therefore even to a prapanna, action in obedience to the commands of the Lord and in accordance with the respective caste is an obligation that should be carried out until the bodies characterised by such things as Brahmin-ness are cast off.
 
