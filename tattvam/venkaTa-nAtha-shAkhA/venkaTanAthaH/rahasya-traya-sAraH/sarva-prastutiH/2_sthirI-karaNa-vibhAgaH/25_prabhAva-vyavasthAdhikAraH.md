@@ -12145,6 +12145,12 @@ porque **estos sufrimientos están** en la misma posición que este disgusto.
 पुनः-प्रपदनम् पण्णुगिऱदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P251]]  
+अत उपक्लेशानाम्, करणाशक्ति--ज्ञान-संकोच-दुःखादि-मूलकयोर् ऐहिक-भगवद्-अनुभव-विच्छेद-संकोचयोः,  
+अनियतायुषाम् आयुर्-वृद्ध्या परम-फल-विलम्बस्य चाप्रसङ्गार्थं  पुनः-प्रपदनं क्रियते । 
+</details>
 
 
 
@@ -12185,6 +12191,13 @@ Prapatti **tiene** que **ser realizado** nuevamente.
 इदुवुम् क्षमा-विषयम् आगैयालेय्  
 इदुवेय् उचितम्। +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"इदं नापेक्षितम्" इति वदताम् अपि  
+निषिद्ध-क्षमा-न्यायेनास्यापि क्षमा-विषयत्वाद् इदम् एवोचितम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -12228,6 +12241,21 @@ El Señor **perdonará** (incluso) el **hecho** de las cosas **prohibidas**.
 मुऩ्बे समर्थित्तोम् +++(अपराध-परिहाराधिकारे)+++। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> बुद्धि-पूर्वोत्तराघस्य कृते  
+पूर्वं प्रपत्तिः कर्तुम् अयुक्ता 
+
+इत्य्-एतद्-अर्थम्, 
+
+> पूर्व-उद्दिष्ट-फलातिरेकेण फलान्तरार्थं  
+प्रपत्त्य्-अन्तर-करणे न विरोध 
+
+इत्य्-एतद्-अर्थं च  
+पूर्वम् एव समर्थितवन्तः स्मः +++(अपराध-परिहाराधिकारे)+++।
+</details>
+
+
 <details><summary>English</summary>
 
 We have already explained that 
@@ -12270,6 +12298,12 @@ que **no se rezó** en el Prapatti anterior
 इप्-पडि भगवद्-आज्ञा-सिद्धम् आऩ सद्-आचारानुपालनत्तिलुम्  
 विरोधम् इल्लामै कण्डु कॊळ्वदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं भगवद्-आज्ञा-सिद्ध-सद्-आचारानुपालनेऽप्य् अ-विरोधो द्रष्टव्यः ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -12336,6 +12370,15 @@ El que **mantiene** la opinión de que la Prapanna **no estará contaminada** in
 कथन् तद् **उपरुद्ध्यते** ॥  +++(4)+++ 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+आज्ञातिलङ्घने यस्य  
+रक्षकत्वं **न भज्यते** ।  
+आज्ञानुपालने तस्य  
+कथन् तद् **उपरुद्ध्यते** ॥  +++(4)+++ 
+</details>
+
+
 <details><summary>English</summary>
 
 When it is held (by these disputants) that  
@@ -12372,6 +12415,15 @@ Cuándo **se realizan** sus comandos?
 न हि शौचम् अकृत्वैव  
 समाराधनम् अर्हति ॥  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+न चाचारं विना किञ्चित्  
+कैङ्कर्यम् उपपद्यते ।  
+न हि शौचम् अकृत्वैव  
+समाराधनम् अर्हति ॥  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -12554,14 +12606,26 @@ Lo correcto **sería** otro Prapatti ".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अडियिले 
+अडियिले +++(=मूलतः)+++ 
 
-> "निर्-अपराधऩ् आग वेणुम्"  
+> "निरपराधऩ् आग वेणुम्"  
 
 ऎऩ्ऱु कोलि  
 प्रपत्ति पण्णिऩ् अवऩुक्कुम्,  
 पिऩ्ब् इदुक्क् आग प्रपत्त्य्-अन्तरम् पण्णिऩ् अवऩुक्कुम्  
 उत्तरकृत्यम् निरपराधम् आगवे नडक्कुम्।
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P252]] आदौ, 
+
+> 'निरपराधेन भाव्यम्' 
+
+इत्य् उद्दिश्य प्रपत्तिं कृतवतः,  
+पुनर् एतदर्थं प्रपत्त्य्-अन्तरं कृतवतश् च  
+उत्तर-कृत्यं निरपराधम् एव प्रवर्तते ॥
 </details>
 
 <details><summary>English</summary>
@@ -12616,9 +12680,20 @@ Prāyaschitta para delitos deliberados **es** absolutamente **necesario**:
 सिल वृत्तान्त-दर्शन-मात्रत्तैक् कॊण्डु  
 वचन-विरोधत्तै अनादरित्तु  
 
-> भागवतऩ्-उडैय बुद्धि-पूर्वोत्तराघम् क्षन्तव्यम्  
+> +++(भगवता)+++ भागवतऩ्-उडैय बुद्धि-पूर्वोत्तराघम् क्षन्तव्यम्  
 
 ऎऩ्ऱु सिलर् सॊल्लुवर्गळ्; 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इतिहास-पुराणेषु किञ्चिद् वृत्तान्त-दर्शन-मात्रम् अवलम्ब्य  
+वचन-विरोधं चानादृत्य  
+
+> +++(भगवता)+++ भागवत-बुद्धि-पूर्वोत्तराघं क्षन्तव्यम् 
+
+इति केचिद् आहुः । 
 </details>
 
 <details><summary>English</summary>
@@ -12646,6 +12721,12 @@ Su opinión **se basa** en ciertos incidentes en los Itihāsas y los Purāṇas.
 इदुवुम् अव्व्-ओ प्रकरणङ्गळिल् अभिप्रायम् अऱियामल् वन्ददु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् अपि तत्-तत्-प्रकरणाभिप्रायापरिज्ञान-निबन्धनम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 This contention, too, arises from an ignorance of the real opinions in the respective contexts. 
@@ -12669,6 +12750,13 @@ Esta afirmación también **surge** de una ignorancia de las opiniones reales en
 समयातिलङ्घन-मात्रम् आऩ अपराधम्  
 पॆरु-माळ् तिरुव्-उळ्ळत्तिले शोकाभिभवत्ताले प्रतिभासित्तु, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+महाराजस्यापि समयातिलङ्घन-मात्र-रूपेऽपराधे  
+भगवतोऽन्तःकरणे शोकाभिभवात् प्रति-भासिते,
+</details>
+
 
 <details><summary>English</summary>
 
@@ -12707,7 +12795,7 @@ La ofensa **causó** la **apariencia** de gran dolor en la mente de Śrī Rāma
 मा वालि-पथम् अन्वगाः । ’’  
 (रामायणम् किष्किन्दाकाण्डम् ३०-८१) 
 
-
+इति वचः श्रुत्वा 
 </details>
 
 
@@ -12740,8 +12828,16 @@ Y él dijo
 इळैय-बॆरुमाळ्,  
 पॆरुमाळ् तामे तणिय+++(=शान्तिम्)+++ विड वेण्डुम् बडि  
 सीऱिय्+++(=कुपित्वा)+++ अरुळि,  
-किष्किन्धैयिले सॆल्ल, 
+किष्किन्धैयिले सॆल्ल+++(=गतौ)+++, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+बाल-स्वामिनि स्वामिनैव यथा शमनीयः स्यात्  
+तथा क्रोधं कृत्वा  
+किष्किन्धां गतवति सति,
+</details>
+
 
 <details><summary>English</summary>
 
@@ -12809,6 +12905,12 @@ excepto **rogando** el perdón de Lakṣmaṇa con manos dobladas ".
 ऎऩ्ऱु ऐन्द्र-व्याकरण-पण्डितऩ् महा-राजर्क्क् उपदेशित्ताऩ् इऱे। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य् ऐन्द्र-व्याकरण-पण्डितो महाराजम् उपदिदेश किल । 
+</details>
+
+
 <details><summary>English</summary>
 
 On that occasion, did not (Hanuman), the scholar versed in the science of Indra's grammer, counsel Sugrīva as above ~~follows~~.
@@ -12843,12 +12945,15 @@ el **abogado** Sugrīva como arriba.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+तावति, महाराजेनापि स्वीकृत्य,
+
 > ‘‘यदि किञ्चिद् अतिक्रान्तं  
 विश्वासात् प्रणयेन वा ।  
 प्रेष्यस्य क्षमितव्यं मे  
 न कश्चिन् नापराध्यति॥’’  
 (रामायणम् किष्किन्दा-काण्डम् ३६-११) 
 
+इति विज्ञापयितव्यं संवृत्तम् । 
 </details>
 
 <details><summary>English</summary>
@@ -12891,13 +12996,16 @@ He **transgredido** de alguna manera
 
 <details><summary>नीलमेघः (सं)</summary>
 
+तदा बाल-स्वामिनाऽपि  
+स्वेनाधिकतयोक्तानां वार्तानां कृते,
+
 > ‘‘यच् च शोकाभिभूतस्य  
 श्रुत्वा रामस्य भाषितम् ।  
 मया त्वं परुषाण्य् उक्तस्  
 तच् च त्वं क्षन्तुम् अर्हसि॥’’  
 (रामायणम् किष्किन्दाकाण्डम् ३६-२८) 
 
-
+इति क्षमा याचनीया संवृत्ता । 
 </details>
 
 <details><summary>English</summary>
@@ -12928,6 +13036,13 @@ que **podría haber pronunciado** después de **escuchar** las palabras de Śrī
 इप्-पडि प्रपन्नऩुक्कुम् प्रारब्धकर्मविशेषङ्गळाले बुद्धिपूर्वोत्तराघम् पुगिऱवुङ् गूडुम्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं प्रपन्नस्य प्रारब्ध-कर्म-विशेषैर्  
+बुद्धि-पूर्वाघम् अपि संभाव्यते । 
+</details>
+
+
 <details><summary>English</summary>
 
 Thus even in the life of a prapanna, offences may occur deliberately,  
@@ -12950,6 +13065,12 @@ Debido al karma pasado que **ha comenzado** a ****operar (prārabdha).
 
 अवै पुगुन्दाल् अनुतप्तऩ् आय् क्षमैक् कॊळ्ळवुम् वेणुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तेषां संभवेऽनुतप्तेन क्षमा-याचनं कर्तव्यम् ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -13000,11 +13121,37 @@ Cuando Aḷavandār **dice**
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ’’कुळित्तु मूऩ्ऱ्-अऩलैय् ओम्बुङ् गुऱिगॊळ् अन्दणमै तऩ्ऩैय् **ऒळित्त् इट्टेऩ्**’’  
+> ’’कुळित्तु+++(=स्नात्वा)+++ मूऩ्ऱ्-अऩलैय् ओम्बुङ्+++(=रक्षणं)+++ गुऱि-गॊळ् अन्दणमै+++(=ब्राह्मण्यं)+++ तऩ्ऩैय् **ऒळित्त् इट्टेऩ्**’’  
 (तिरुमालै २५) 
 
 इत्य्-आदिगळुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P253]] 
+
+> स्नानोत्तरं त्रयाणाम् अनलानां परिचरणम् इत्य्-एतत्-लक्षणकं ब्राह्मण्यं विनाशितवान् अस्मि” 
+
+इति-आदीन्य् अपि 
+</details>
+
+<details><summary>English</summary>
+
+and when it is said, 
+
+> "I have given up the rites that are to be performed by a Brahmin after ablution  
+in the form of adoration to the three sacrificial fires', 
+</details>
+
+<details><summary>Español</summary>
+
+y cuando **se dice**
+
+> "**He renunciado** a los ritos que **deben realizar** un brahmán después de la **ablución**  
+en forma de **adoración** a los tres incendios de sacrificio ', 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -13013,10 +13160,7 @@ Cuando Aḷavandār **dice**
 
 
 
-and when it is said, 
 
-> "I have given up the rites that are to be performed by a Brahmin after ablution  
-in the form of adoration to the three sacrificial fireś', 
 
 
 it means only this much that he was not capable of such things as karma yoga and not that we should give up the observance of the Lord's commands (nitya and naimittika), in so far as it lies in our power.
