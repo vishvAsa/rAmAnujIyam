@@ -1,15 +1,32 @@
 +++
-title = "२६ प्रभावरक्षाधिकारः"
+title = "२६ प्रभाव-रक्षाधिकारः"
 
 +++
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ॥ श्रीः ॥  
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे प्रभावरक्षाधिकारः ॥
+</details>
 
-(26) THE CHAPTER ON THE VINDICATION OF
 
-(THE) POTENCY (OF PRAPATTI ).page389
+<details><summary>English</summary>
+
+(26) THE CHAPTER ON THE VINDICATION OF (THE) POTENCY (OF PRAPATTI ). page389
+</details>
+
+<details><summary>Español</summary>
+
+(26) El capítulo sobre la **reivindicación** de (la) potencia (de PrapattPáginaPage 389
+</details>
+
+<details><summary>मूलम्</summary>
+
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+॥ श्रीमद्रहस्यत्रयसारे प्रभावरक्षाधिकारः ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
