@@ -59,13 +59,14 @@ there is nothing surprising in prapatti to Him accomplishing wonderful things.)
 
 <details><summary>Español</summary>
 
-Es, por supuesto, maravilloso que las piedras y similares se conviertan en mujeres y similares (Ahalya);
-(pero) es más maravilloso que el fuego se vuelva tan frío como la nieve (como en el caso de Hanuman)
-y que una cuchilla de hierba debería convertirse en un misil (Kakasura);
-Aún más maravilloso es el acto de matar cuando se convierte en el medio de redención (en cuanto a Sisupala y otros).Así que también es maravilloso que la sandalia (de Śrī Rāma) proteja los tres mundos.
+**Es**, por supuesto, maravilloso que las piedras y similares **se conviertan** en mujeres y similares (Ahalya);  
+(pero) **es** más maravilloso que el fuego **se vuelva** tan frío como la nieve (como en el caso de Hanuman)  
+y que una cuchilla de hierba **debería convertirse** en un misil (Kakasura);  
+Aún más maravilloso **es** el acto de **matar** cuando **se convierte** en el medio de redención (en cuanto a Sisupala y otros).  
+Así que también **es** maravilloso que la sandalia (de Śrī Rāma) **proteja** los tres mundos.
 
-(Dado que la gloria de Bhagavān es tan maravillosa,
-No hay nada sorprendente en Prapatti para que logre cosas maravillosas).
+(Dado que la gloria de Bhagavān **es** tan maravillosa,  
+**No hay** nada sorprendente en Prapatti para que **logre** cosas maravillosas).
 </details>
 
 
@@ -78,11 +79,201 @@ No hay nada sorprendente en Prapatti para que logre cosas maravillosas).
 पदत्रेणैवेह त्रिभुवनपरित्राणमिति च ॥ ५७ ॥
 </details>
 
+## प्रतिज्ञा
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपाय-प्रभाव-व्यवस्थै सॊऩ्ऩोम्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उपाय प्रभाव-व्यवस्थाम् अवोचाम । 
+</details>
 
 
-We have already spoken about the limits within which prapatti has potency. We will hereafter remove the misconceptions of those who would minimise its potency,
+<details><summary>English</summary>
 
-It has been said: "The man who has done good or evil deeds of a very serious nature will experience their fruits even here (in this life) within three days, three fortnights, three months or three years". In the same way, it has been said, "Bhakti as an upāya** destroys all sins other than those which have begun to yield their fruits (prarabdha,, whereas prapatti (sadhyabhakti ) is superior to bhakti  and destroys even those sins which have begun to operate (prarabdha)". Therefore prapatti gets rid of even sins that have begun to bear their fruit (prarabdha) and yields the fruit of its own performance. As has been stated in regard to other vidyās (forms of meditation: upāsana), that the sins committed before and those committed after upāsana) will both be destroyed, prapatti, which is superior to them as a vidyā destroys (even) the suffering due to karma  which has begun to operate so that it may not continue the next instant, the next day or the next life in accordance with the degree or intensity of the man's impatience. This is the real purport of the words, "Do not despair or grieve", mā suchah (in the carama śloka).
+We have already spoken about the limits within which prapatti has potency. 
+</details>
+
+<details><summary>Español</summary>
+
+Ya hemos **hablado** sobre los límites dentro de los cuales Prapatti **tiene** potencia.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उपायप्रभावव्यवस्थै सॊऩ्ऩोम्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इऩि मेल् उपाय-प्रभावत्तै सङ्कुचितम् आगप् पार्त्तु-वरुन्  
+तप्पुगळ् परिहरिक्किऱोम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अथोपाय-प्रभावस्य संकुचितत्व-ज्ञानेन जायमानान् दोषान् परिहरामः ॥ 
+</details>
+
+
+
+<details><summary>English</summary>
+
+We will hereafter remove the misconceptions of those who would minimise its potency,
+</details>
+
+<details><summary>Español</summary>
+
+En adelante, **eliminaremos** los conceptos erróneos de aquellos que **minimizarían** su potencia,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इऩिमेल् उपायप्रभावत्तै सङ्कुचितमागप् पार्त्तुवरुन् दप्पुगळ् परिहरिक्किऱोम्। 
+</details>
+
+## कर्म-नाशः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अत्युत्कटैः पुण्य-पापैर्  
+इहैव फलम् अश्नुते’’  
+(विहगेन्द्र-संहिता) 
+
+ऎऩ्गिऱ कणक्किले
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अत्युत्कटैः पुण्य-पापैर्  
+इहैव फलम् अश्नुते’’  
+(विहगेन्द्र-संहिता) 
+
+इति न्यायेन, 
+</details>
+
+<details><summary>English</summary>
+
+It has been said: 
+
+> "The man who has done good or evil deeds of a very serious nature  
+will experience their fruits even here (in this life)  
+within three days, three fortnights, three months or three years". +++(4)+++
+</details>
+
+<details><summary>Español</summary>
+
+Se **ha dicho**:
+
+> "El hombre que **ha hecho** obras bien o malvadas de una naturaleza muy seria  
+**experimentará** sus frutas incluso aquí (en esta vida)  
+En tres días, tres quince días, tres meses o tres años ".  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अत्युत्कटैः पुण्यपापैरिहैव फलमश्नुते’’(विहगेन्द्रसंहिता) ऎऩ्गिऱ कणक्किले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘उपाय-भक्तिः प्रारब्ध-  
+व्यतिरिक्ताघ-नाशिनी ।  
+साध्य-भक्तिस् तु सा हन्त्री  
+प्रारब्धस्यापि भूयसी’’() 
+
+ऎऩ्गैयाले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘उपाय-भक्तिः प्रारब्ध-  
+व्यतिरिक्ताघ-नाशिनी ।  
+साध्य-भक्तिस् +++(→प्रपत्तिः)+++ तु सा हन्त्री  
+प्रारब्धस्यापि भूयसी’’() 
+
+इत्य्-उक्तत्वात् 
+</details>
+
+<details><summary>English</summary>
+
+In the same way, it has been said, 
+
+> "Bhakti as an upāya  
+which destroys all sins  
+other than those which have begun to yield their fruits (prarabdha),  
+whereas prapatti (sadhyabhakti ) is superior to bhakti  
+and destroys even those sins which have begun to operate (prarabdha)". 
+</details>
+
+<details><summary>Español</summary>
+
+De la misma manera, **se ha dicho**,
+
+> "Bhakti como un upāya  
+que **destruye** todos los pecados  
+Aparte de los que **han comenzado** a **producir** sus frutas (PRARABDHA),  
+Mientras que Prapatti (Sadhyabhakti) **es** superior a Bhakti  
+y **destruye** incluso aquellos pecados que **han comenzado** a **operar** (prarabdha) ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘उपायभक्तिः प्रारब्धव्यतिरिक्ताघनाशिनी । साध्यभक्तिस्तु सा हन्त्री प्रारब्धस्यापि भूयसी’’() ऎऩ्गैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रारब्धङ्गळैयु गूडव् अमुक्कित्  
+तऩ् फलत्तैक् कॊडुक्कवऱ्ऱ्+++(=??)+++ आऩ प्रपत्तियैप् पण्णिऩवऩुक्कु 
+</details>
+
+<details><summary>English</summary>
+
+Therefore prapatti gets rid of even sins that have begun to bear their fruit (prarabdha)  
+and yields the fruit of its own performance. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, Prapatti **se deshace** de incluso los pecados que **han comenzado** a **soportar** su fruto (PRARABDHA)  
+y **produce** el fruto de su propia **actuación**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रारब्धङ्गळैयुङ्गूडवमुक्कित् तऩ्फलत्तैक्कॊडुक्कवऱ्ऱाऩ प्रपत्तियैप्पण्णिऩवऩुक्कु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विद्यान्तर-न्यायत्ताले उत्तर-पूर्वाघङ्गळुम्,  
+> 
+> इव्-विद्यैक्कुत् तऩ्ऩ् एऱ्ऱम् आऩ सामर्थ्यत्ताले  
+प्रारब्ध-कर्म-फलत्तैप् पऱ्ऱ  
+उण्ड् आऩव् आर्तियिलेय् ऎल्लैक्क् ईड् आग  
+क्षणान्तर-दिवसान्तर-जन्मान्तराद्य्-अनुवृत्तियुङ् 
+> 
+> कऴियक् कडवद् 
+
+ऎऩ्ऱु ‘‘मा शुचः’’ ऎऩ्गिऱ वाक्यत्तुक्क् अभिप्रायम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+विद्यान्तरन्यायत्ताले उत्तरपूर्वाघङ्गळुम् इव्विद्यैक्कुत् तऩ्ऩेऱ्ऱमाऩ सामर्थ्यत्ताले प्रारब्धकर्मफलत्तैप् पऱ्ऱ उण्डाऩवार्तियिले यॆल्लैक्कीडाग क्षणान्तरदिवसान्तरजन्मान्तराद्यनुवृत्तियुङ् गऴियक्कडवदॆऩ्ऱु ‘‘मा शुचः’’ ऎऩ्गिऱ वाक्यत्तुक्कभिप्रायम्। 
+</details>
+
+
+As has been stated in regard to other vidyās (forms of meditation: upāsana), that the sins committed before and those committed after upāsana will both be destroyed, prapatti, which is superior to them as a vidyā destroys (even) the suffering due to karma  which has begun to operate so that it may not continue the next instant, the next day or the next life in accordance with the degree or intensity of the man's impatience. This is the real purport of the words, "Do not despair or grieve", mā suchah (in the carama śloka).
 
 THE PURPOSE OF IŚVARA IN MAKING
 
