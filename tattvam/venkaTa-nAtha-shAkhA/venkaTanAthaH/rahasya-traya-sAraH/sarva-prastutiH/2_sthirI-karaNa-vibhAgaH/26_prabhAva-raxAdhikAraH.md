@@ -1,23 +1,74 @@
 +++
-title = "२६ प्रभावरक्षाधिकारः"
+title = "२६ प्रभाव-रक्षाधिकारः"
 
 +++
+
+
+## प्रवेशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ॥ श्रीः ॥  
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे प्रभावरक्षाधिकारः ॥
+</details>
 
-(26) THE CHAPTER ON THE VINDICATION OF
 
-(THE) POTENCY (OF PRAPATTI ).page389
+<details><summary>English</summary>
+
+(26) THE CHAPTER ON THE VINDICATION OF (THE) POTENCY (OF PRAPATTI ). page389
+</details>
+
+<details><summary>Español</summary>
+
+(26) El capítulo sobre la **reivindicación** de (la) potencia (de Prapatti) Página 389
+</details>
+
+<details><summary>मूलम्</summary>
+
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+॥ श्रीमद्रहस्यत्रयसारे प्रभावरक्षाधिकारः ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-शिलादेः स्त्रीत्वादिर्विपरिणतिरस्त्वद्भुतमिदं  
-ततोप्येतच्चित्रं यदुत दहनस्यैव हिमता ।  
-तृणस्यैवास्त्रत्वं रिपुषु निहतेरेव हितता  
-पदत्रेणैवेह त्रिभुवनपरित्राणमिति च ॥ ५७ ॥
++++(अहल्यायां)+++ शिलादेः स्त्रीत्वादिर् विपरिणतिर् अस्त्व् अद्भुतम् इदं  
+ततो ऽप्य् एतच् चित्रं, यद् उत +++(हनुमति)+++ दहनस्यैव हिमता ।  
++++(काके)+++ तृणस्यैवास्त्रत्वं, +++(शिशुपालादि-)+++रिपुषु निहतेर् एव हितता,  
+पद-त्रेणैवेह त्रिभुवन-परित्राणम् इति च ॥ ५७ ॥ +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(अहल्यायां)+++ शिलादेः स्त्रीत्वादिर् विपरिणतिर् अस्त्व् अद्भुतम् इदं  
+ततो ऽप्य् एतच् चित्रं, यद् उत +++(हनुमति)+++ दहनस्यैव हिमता ।  
++++(काके)+++ तृणस्यैवास्त्रत्वं, +++(शिशुपालादि-)+++रिपुषु निहतेर् एव हितता,  
+पद-त्रेणैवेह त्रिभुवन-परित्राणम् इति च ॥ ५७ ॥ +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+It is, of course, wonderful that stones and the like should become women and the like (Ahalya);  
+(but) more wonderful is it that fire should become as cold as snow (as in the case of Hanuman)  
+and that a blade of grass should become a missile (Kakasura);  
+even more wonderful is the act of slaying when it becomes the means of redemption (as for Sisupala and others). So also it is most wonderful that the sandal (of Śrī Rāma) should protect the three worlds.
+
+(Since the glory of Bhagavān is so wonderful,  
+there is nothing surprising in prapatti to Him accomplishing wonderful things.)
+</details>
+
+<details><summary>Español</summary>
+
+Es, por supuesto, maravilloso que las piedras y similares se conviertan en mujeres y similares (Ahalya);
+(pero) es más maravilloso que el fuego se vuelva tan frío como la nieve (como en el caso de Hanuman)
+y que una cuchilla de hierba debería convertirse en un misil (Kakasura);
+Aún más maravilloso es el acto de matar cuando se convierte en el medio de redención (en cuanto a Sisupala y otros).Así que también es maravilloso que la sandalia (de Śrī Rāma) proteja los tres mundos.
+
+(Dado que la gloria de Bhagavān es tan maravillosa,
+No hay nada sorprendente en Prapatti para que logre cosas maravillosas).
+</details>
+
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -27,9 +78,7 @@ title = "२६ प्रभावरक्षाधिकारः"
 पदत्रेणैवेह त्रिभुवनपरित्राणमिति च ॥ ५७ ॥
 </details>
 
-It is, of course, wonderful that stones and the like should become women and the like (Ahalya); (but) more wonderful is it that fire should become as cold as snow (as in the case of Hanuman) and that a blade of grass should become a missile (Kakasura); even more wonderful is the act of slaying when it becomes the means of redemption (as for Sisupala and others). So also it is most wonderful that the sandal (of Śrī Rāma) should protect the three worlds.
 
-(Since the glory of Bhagavān is so wonderful, there is nothing surprising in prapatti to Him accomplishing wonderful things.)
 
 We have already spoken about the limits within which prapatti has potency. We will hereafter remove the misconceptions of those who would minimise its potency,
 
