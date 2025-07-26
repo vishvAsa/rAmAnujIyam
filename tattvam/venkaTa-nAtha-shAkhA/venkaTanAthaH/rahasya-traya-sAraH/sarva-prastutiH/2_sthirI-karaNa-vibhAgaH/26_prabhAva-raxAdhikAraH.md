@@ -598,11 +598,142 @@ grow in him.
 भगवदनुभवत्तिल् भोग्यताबुद्धियुम् कॊऴुन्दुविट्टु वारादु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+आगैयाल् 
+
+> ३‘‘यस्यानुग्रहम् इच्छामि  
+धनं तस्य हराम्य् अहम् ।  
+बान्धवैश् च वियोगेन  
+सदा भवति दुःखितः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः
+
+> ३‘‘यस्यानुग्रहम् इच्छामि  
+धनं तस्य हराम्य् अहम् ।  
+बान्धवैश् च वियोगेन  
+सदा भवति दुःखितः ॥ 
+</details>
+
+<details><summary>English</summary>
 
 Therefore as has been said in the following ślokas:
 
-"He to whom I want to show favour - his wealth I take away from him. Then his relatives forsake him. So he is ever full of sorrow or pain. If the man who suffers in this way continues to cling to me, I show him that grace which even the gods cannot obtain"; (as has been said in these ślokas), Iśvara avails Himself of those karmas which have begun to yield their fruit (prārabdha) and which are the cause of these sufferings and punishes these men of hard hearts in order to correct them as a father and the like would (do in the case of such as their sons) with a whip at hand. It is therefore proper to consider such punishments as special favours.
+> "He to whom I want to show favour -  
+his wealth I take away from him.  
+Then his relatives forsake him.  
+So he is ever full of sorrow or pain. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, como **se ha dicho** en los **siguientes** Ślokas:
+
+> "El que **quiero mostrar** el favor -  
+Su riqueza **le quito**.  
+Entonces sus familiares **lo abandonan**.  
+Así que siempre está **lleno** de tristeza o dolor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ३‘‘यस्यानुग्रहमिच्छामि धनं तस्य हराम्यहम् । बान्धवैश्च वियोगेन सदा भवति दुःखितः ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तेन दुःखेन संतप्तो  
+यदि मां **न परित्यजेत्** ।  
+तं **प्रसादं करिष्यामि**  
+यस् सुरैर् अपि दुर्लभः॥’’  
+(भागवतम्)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तेन दुःखेन संतप्तो  
+यदि मां **न परित्यजेत्** ।  
+तं **प्रसादं करिष्यामि**  
+यस् सुरैर् अपि दुर्लभः॥’’  
+(भागवतम्)
+
+ऎऩ्गिऱबडिगळिले 
+</details>
+
+<details><summary>विषयः</summary>
+
+भक्तिः, दुःखम्, उल्लासः
+</details>
+
+
+<details><summary>English</summary>
+
+> If the man who suffers in this way continues to cling to me,  
+I show him that grace  
+which even the gods cannot obtain"; 
+
+(as has been said in these ślokas), 
+</details>
+
+<details><summary>Español</summary>
+
+> Si el hombre que **sufre** de esta manera continúa **aferrado** a mí,  
+**Le muestro** esa gracia  
+que incluso los dioses **no pueden obtener** ";
+
+(como **se ha dicho** en estos Ślokas),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तेन दुःखेन संतप्तो यदि मां न परित्यजेत् । तं प्रसादं करिष्यामि यस्सुरैरपि दुर्लभः’’(भागवतम्) ऎऩ्गिऱबडिगळिले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दुःखादिगळुक्कुक् कारणम् आऩ प्रारब्ध-कर्म-विशेषत्तै  
+सन्निहितम् आऩ कशादिगळैप् पोले  
+तुणैय् आगक् कॊण्डु पित्रादिगळैप् पोले  
+शिक्षकऩाऩ ईश्वरऩ् +++(5)+++  
+
+> सिल कठिन-प्रकृतिगळुक्कुप् पण्णुगिऱ अनुग्रह-विशेषम् इद् 
+
+ऎऩ्ऱ् अनुसन्धिक्कै उचितम्।  
+</details>
+
+<details><summary>English</summary>
+
+Iśvara avails Himself of those karmas  
+which have begun to yield their fruit (prārabdha)  
+and which are the cause of these sufferings and punishes these men of hard hearts  
+in order to correct them as a father and the like would (do in the case of such as their sons) with a whip at hand.  
+It is therefore proper to consider such punishments as special favours.
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara **se aprovecha** de esos karmas  
+que **han comenzado** a **producir** su fruto (Prārabdha)  
+y cuáles **son** la causa de estos **sufrimientos** y **castigan** a estos hombres de corazones duros  
+Para **corregirlos** como padre y similares (**lo haría** en el caso de sus hijos) con un látigo a mano.  
+Por lo tanto, **es apropiado considerar** tales **castigos** como favores especiales.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दुःखादिगळुक्कुक् कारणमाऩ प्रारब्धकर्मविशेषत्तै सन्निहितमाऩ कशादिगळैप्पोले तुणैयागक्कॊण्डु पित्रादिगळैप्पोले शिक्षकऩाऩ ईश्वरऩ् सिल कठिनप्रकृतिकळुक्कुप्पण्णुगिऱ अनुग्रहविशेषमिदॆऩ्ऱनुसन्धिक्कै उचितम्।  
+</details>
+
+
+
+
 
 When the king asked whether a disease could be (helpful), Bhattar replied that even a disease could be a teacher for us. Sufferings are teachers to the prapanna, because, if his term of life is already unalterably fixed, they would create repentance in the mind and if his term of life could be extended, they would teach him not to desire extension of life. This is well-known in such instances as Kurathalvan[^77]
 
