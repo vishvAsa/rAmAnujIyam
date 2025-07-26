@@ -8,7 +8,6 @@ title = "+०२ तिरुप्पावै आण्डाळ् ४७४-
 ## ०१ गोपालसिंहः - मार्गऴित्-तिङ्गळ्
 
 <details open><summary>गानम् - ०१</summary>
-
 <div caption="vibhA - 01 - Margazhitingal - nATa" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/01__Margazhitingal__nATa.mp3"></div>
 </details>
 
@@ -24,7 +23,7 @@ title = "+०२ तिरुप्पावै आण्डाळ् ४७४-
 पार्-ओर्+++(=भूमिस्थानां)+++ पुगऴप्+++(=हॊगळ)+++ पडिन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १ ॥
 </details>
 
-<details><summary>मूलम् - ०१</summary>
+<details><summary>मूलम् - DP_४७४ - ०१</summary>
 
 मार् हऴित्तिङ्गळ् मदिनिऱैन्द नन्नाळाल्  
 नीराडप्पोदुवीर् पोदुमिनो नेरिऴैयीर्  
@@ -77,7 +76,6 @@ title = "+०२ तिरुप्पावै आण्डाळ् ४७४-
 </details>
 
 <details><summary>अभिनयः - ०१</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=nHuaq5N3FAQ"></div>
 </details>
 
@@ -121,7 +119,6 @@ In a way that the whole world sings about.
 ## ०२ व्रत-नियमाः- वैयत्तु वाऴ्वीर्गाळ्
 
 <details open><summary>गानम् - ०२</summary>
-
 <div caption="vibhA - 02 - Vaiyattu Vazhveergal - gauLa" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/02__Vaiyattu_Vazhveergal__gauLa.mp3"></div>
 </details>
 
@@ -137,7 +134,7 @@ In a way that the whole world sings about.
 उय्युम् आऱॆण्णि उगन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २ ॥
 </details>
 
-<details><summary>मूलम् - ०२</summary>
+<details><summary>मूलम् - DP_४७५ - ०२</summary>
 
 वैयत्तु वाऴ् वीर्हाळ् नामुम् नम् पावैक्कू  
 शॆय्युङ्किरिशैहळ् केळीरो, पाऱ् कडलुळ्  
@@ -179,7 +176,6 @@ In a way that the whole world sings about.
 </details>
 
 <details><summary>अभिनयः - ०२</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=h-lvlJ0GQOw"></div>
 </details>
 
@@ -219,7 +215,6 @@ And worship our Goddess Pavai.
 ## ०३ फलं - ओङ्गि युलगळन्द
 
 <details open><summary>गानम् - ०३</summary>
-
 <div caption="vibhA - 03 - Ongi Ulagalanda - Arabhi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/03__Ongi_Ulagalanda__Arabhi.mp3"></div>
 </details>
 
@@ -235,7 +230,7 @@ And worship our Goddess Pavai.
 नीङ्गाद शॆल्वं निऱैन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ३ ॥
 </details>
 
-<details><summary>मूलम् - ०३</summary>
+<details><summary>मूलम् - DP_४७६ - ०३</summary>
 
 ओङ्गियुलहळन्द वुत्तमन् पेर् पाडि,  
 नाङ्गळ् नम् पाविक्कू च्चाट्रि नीराडिनाल्  
@@ -273,7 +268,6 @@ And worship our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - ०३</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=LhbTtXM0VhU"></div>
 </details>
 
@@ -311,7 +305,6 @@ And all this I assure by worship of our Goddess Pavai.
 ## ०४ पर्जन्यप्रार्थना - आऴिमऴैक् कण्णा
 
 <details open><summary>गानम् - ०४</summary>
-
 <div caption="vibhA - 04 - Aazhi Mazhai - varALi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/04__Aazhi_Mazhai__varALi.mp3"></div>
 </details>
 
@@ -327,7 +320,7 @@ And all this I assure by worship of our Goddess Pavai.
 मार्कऴि नीराड मगिऴ्न्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ४ ॥
 </details>
 
-<details><summary>मूलम् - ०४</summary>
+<details><summary>मूलम् - DP_४७७ - ०४</summary>
 
 आऴि मऴैक्कण्णा ऒन्ऱु नीकैकरवेल्  
 आऴियुळ् पुक्कू मुहन्दु कॊडार् त्तेऱि  
@@ -365,7 +358,6 @@ And all this I assure by worship of our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - ०४</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=U2rENDjNyZc"></div>
 </details>
 
@@ -403,7 +395,6 @@ And worship our goddess Pavai.
 ## ०५ नामस्मरण-प्रभावः - मायनै मन्नु
 
 <details open><summary>गानम् - ०५</summary>
-
 <div caption="vibhA - 05 - Maayanai Mannu - shrI" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/05__Maayanai_Mannu__shrI.mp3"></div>
 </details>
 
@@ -419,7 +410,7 @@ And worship our goddess Pavai.
 तीयिनिल् तूशागुं शॆप्पेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ५ ॥
 </details>
 
-<details><summary>मूलम् - ०५</summary>
+<details><summary>मूलम् - DP_४७८ - ०५</summary>
 
 मायनै मन्नु वडमदुरै मैन्दनै  
 तूय पॆरुनीर् यमुनैत्तुऱैवनै  
@@ -451,7 +442,6 @@ And worship our goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - ०५</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=DxA_Uv9q1mg"></div>
 </details>
 
@@ -493,7 +483,6 @@ Oh, Goddess Pavai.
 ## ०६ भगवत्पूजाध्वनिना जागृतिः - पुळ्ळुं शिलम्बिन
 
 <details open><summary>गानम् - ०६</summary>
-
 <div caption="vibhA - 06 - Pullum - shankarAbharaNam" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/06__Pullum__shankarAbharaNam.mp3"></div>
 </details>
 
@@ -509,7 +498,7 @@ Oh, Goddess Pavai.
 उळ्ळं पुगुन्दु कुळिर्न्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ६ ॥
 </details>
 
-<details><summary>मूलम् - ०६</summary>
+<details><summary>मूलम् - DP_४७९ - ०६</summary>
 
 पुळुञ्जिलम् बिन काण् पुळ्ळरैयन् कोयिल्  
 वॆळ्ळैविळिशङ्गिन् पेररवङ्केट्टिलैयो  
@@ -547,7 +536,6 @@ Oh, Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - ०६</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=GL9Z-ujkvG0"></div>
 </details>
 
@@ -585,7 +573,6 @@ And make our mind cool, Oh, Goddess Pavai.
 ## ०७ प्रातश्शब्दैर् जागृतिः - कीशु कीशॆन्ऱॆङ्गुं
 
 <details open><summary>गानम् - ०७</summary>
-
 <div caption="vibhA - 07 - Keesu - Bhairavi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/07__Keesu__Bhairavi.mp3"></div>
 </details>
 
@@ -601,7 +588,7 @@ And make our mind cool, Oh, Goddess Pavai.
 देशमुडैयाय् तिऱवेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ७ ॥
 </details>
 
-<details><summary>मूलम् - ०७</summary>
+<details><summary>मूलम् - DP_४८० - ०७</summary>
 
 कीचुकीचॆन्ऱॆङ्गु मानैच्चात्तन्, कलन्दु  
 पेशिन पेच्चरवङ्केट्टिलैयो, पेय् प्पॆण्णे  
@@ -641,7 +628,6 @@ And make our mind cool, Oh, Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - ०७</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=hcB47hRlLw0"></div>
 </details>
 
@@ -684,7 +670,6 @@ And worship our goddess Pavai.
 ## ०८ गोपीप्रतीक्षा - कीळ्वानम्
 
 <details open><summary>गानम् - ०८</summary>
-
 <div caption="vibhA - 08 - Keezhvaanam - dhanyAsi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/08__Keezhvaanam__dhanyAsi.mp3"></div>
 </details>
 
@@ -700,7 +685,7 @@ And worship our goddess Pavai.
 आव् आव् ऎन्ऱार् आय्न्द् अरुळेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ८ ॥
 </details>
 
-<details><summary>मूलम् - ०८</summary>
+<details><summary>मूलम् - DP_४८१ - ०८</summary>
 
 कीऴ् वानम् वॆळ्ळॆन्ऱॆरुमै शिऱुवीडु  
 मेय् वान् परन्दकाण् मिक्कूळ्ळ पिळ्ळैहळुम्  
@@ -739,7 +724,6 @@ And worship our goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - ०८</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=3h3Fb8GyEi4"></div>
 </details>
 
@@ -780,7 +764,6 @@ And worship our Goddess Pavai
 ## ०९ तर्जनेनोद्बोधनम् - तूमणि माटत्तु
 
 <details open><summary>गानम् - ०९</summary>
-
 <div caption="vibhA - 09 - Thoomani - hamir kalyANi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/09__Thoomani__hamir_kalyANi.mp3"></div>
 </details>
 
@@ -796,7 +779,7 @@ And worship our Goddess Pavai
 नामं पलवुं नविन्ऱेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ९ ॥
 </details>
 
-<details><summary>मूलम् - ०९</summary>
+<details><summary>मूलम् - DP_४८२ - ०९</summary>
 
 तूमणि माडत्तु च्चुट्रुम् विळक्कॆरिय  
 तूपङ्कमऴत्तुयिलणैमेऱ् कण् वळरुम्  
@@ -833,7 +816,6 @@ And worship our Goddess Pavai
 </details>
 
 <details><summary>अभिनयः - ०९</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=qMFvS_iY7VI"></div>
 </details>
 
@@ -873,7 +855,6 @@ And worship the Goddess Pavai.
 ## १० निद्रास्पर्धा - नोट्रु स्वर्गम्
 
 <details open><summary>गानम् - १०</summary>
-
 <div caption="vibhA - 10 - Nottruchuvarkam - thODi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/10__Nottruchuvarkam__thODi.mp3"></div>
 </details>
 
@@ -889,7 +870,7 @@ And worship the Goddess Pavai.
 तेट्रमाय् वन्दु तिऱवेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १० ॥
 </details>
 
-<details><summary>मूलम् - १०</summary>
+<details><summary>मूलम् - DP_४८३ - १०</summary>
 
 नोट्रच्चुवर् क्कम् पुहुहिन्ऱ वम्मानाय्  
 माट्रमुम् तारारो वाशल् तिऱवादार्  
@@ -914,7 +895,6 @@ And worship the Goddess Pavai.
 
 <details><summary>गरणि-विस्तारः - १०</summary>
 
-
 इन्नॊब्ब कन्यॆ. इवळु कृष्णन मग्गुलमनॆयवळु. कृष्णनल्लि अतिशयवाद प्रेम इवळदु. कृष्णनन्नु ऒलिसिकॊळ्ळुवुदक्कागि व्रतवन्नु नडसुव बगॆयन्नू, कूटद ऎल्ल कन्यॆयरन्नू निर्वहिसुव बगॆयन्नू तिळिदिद्दाळॆ. आ कारणदिन्दले व्रतकन्यॆयर कूटक्कॆ अनर्घ आभरणदन्तिरुववळु इवळु. तन्न सामर्थ्यवन्नु कण्डुकॊण्डवळाद्दरिन्दलो, तनगॆ तडॆयलारद निद्दॆ बन्दद्दरिन्दलो इवळु ऎष्टु हॊत्तादरू ऎच्चरगॊळ्ळलू इल्ल; बागिलन्नु तॆरॆयलू इल्ल; मारत्तर कॊडलू इल्ल. बागिलल्ले व्रतकन्यॆयरॆल्लरू इवळिगागि कादु निन्तिद्दारॆ.
 
 वस्तु यावुदे आदरू, अदु ऎष्टे बॆलॆयदादरू अतिहत्तिरदल्लिरुवुदादरॆ, अदर विषयदल्लि असड्डॆगॆ अवकाशवागुत्तदॆ. कृष्णन नॆरॆयवळागि इवळिगॆ अवन विषयदल्लियू हागॆये इरबहुदे? ई दीर्घनिद्दॆ एतक्कागि? अदश्शॆयो? बरिय सोगो इदु?
@@ -924,7 +904,6 @@ And worship the Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - १०</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=beXhCV6ycj4"></div>
 </details>
 
@@ -965,7 +944,6 @@ And worship the Goddess Pavai.
 ## ११ - कट्रुक्कऱवै
 
 <details open><summary>गानम् - ११</summary>
-
 <div caption="vibhA - 11 - Katrukkaravai Kanangal - husEni" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/11__Katrukkaravai_Kanangal__husEni.mp3"></div>
 </details>
 
@@ -981,7 +959,7 @@ And worship the Goddess Pavai.
 नी ऎट्रुक्कुऱङ्गुं पॊरुळेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ ११ ॥
 </details>
 
-<details><summary>मूलम् - ११</summary>
+<details><summary>मूलम् - DP_४८४ - ११</summary>
 
 कट्रुक्कऱवैक्कणङ्गळ् पल कऱन्दु  
 शॆट्रार् तिऱलऴिय च्चॆन्ऱु शॆरुच्चॆय्युम्  
@@ -1019,7 +997,6 @@ And worship the Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - ११</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=n0dvN9sSGVY"></div>
 </details>
 
@@ -1057,7 +1034,6 @@ And not worship our Goddess pavai.
 ## १२ - कनैत्तिळं
 
 <details open><summary>गानम् - १२</summary>
-
 <div caption="vibhA - 12 - Kanaittilam Katrerumai - kedAragauLa" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/12__Kanaittilam_Katrerumai__kedAragauLa.mp3"></div>
 </details>
 
@@ -1073,7 +1049,7 @@ And not worship our Goddess pavai.
 अनैत्तिल्लत्तारु मऱिन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १२ ॥
 </details>
 
-<details><summary>मूलम् - १२</summary>
+<details><summary>मूलम् - DP_४८५ - १२</summary>
 
 कनैत्तिळङ्कट्रॆरुमै कन्ऱुक्किरङ्गि  
 निनैत्तु मुलैवऴिये निन्ऱु पाल् शोर  
@@ -1105,7 +1081,6 @@ And not worship our Goddess pavai.
 </details>
 
 <details><summary>अभिनयः - १२</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=qfJ8CCDHrbE"></div>
 </details>
 
@@ -1146,7 +1121,6 @@ And are ready to worship our Goddess Pavai...
 ## १३ - पुळ्ळिन् वाय्
 
 <details open><summary>गानम् - १३</summary>
-
 <div caption="vibhA - 13 - Pullinvaai Keendanai - aTHANA" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/13__Pullinvaai_Keendanai__aTHANA.mp3"></div>
 </details>
 
@@ -1162,7 +1136,7 @@ And are ready to worship our Goddess Pavai...
 कळ्ळं तविर्न्दु कलन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १३ ॥
 </details>
 
-<details><summary>मूलम् - १३</summary>
+<details><summary>मूलम् - DP_४८६ - १३</summary>
 
 पुळ्ळिन् वाय् कीण्डानै प्पॊल्ला वरक्कनै  
 किळ्ळिक्कळैन्दानैक्कीर् त्तिमैपाडिप्पोय्  
@@ -1203,7 +1177,6 @@ And are ready to worship our Goddess Pavai...
 </details>
 
 <details><summary>अभिनयः - १३</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=RKCYx8sGRRQ"></div>
 </details>
 
@@ -1244,7 +1217,6 @@ And worship our Goddess Pavai.
 ## १४ - उङ्गळ् पुऴैक्कडै
 
 <details open><summary>गानम् - १४</summary>
-
 <div caption="vibhA - 14 - Ungal Puzhakkadai - Ananda bhairavi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/14__Ungal_Puzhakkadai__Ananda bhairavi.mp3"></div>
 </details>
 
@@ -1260,7 +1232,7 @@ And worship our Goddess Pavai.
 पङ्गयक्कण्णानै प्पाडेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १४ ॥
 </details>
 
-<details><summary>मूलम् - १४</summary>
+<details><summary>मूलम् - DP_४८७ - १४</summary>
 
 उङ्गळ् पुऴैक्कडै तोट्टत्तु वावियुळ्  
 शॆङ्गऴुनीर् वाय् नॆहिऴ्न्दाम् पल् वाय् कूम्बिनकाण्  
@@ -1296,7 +1268,6 @@ And worship our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - १४</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=E8NSJbrgr0A"></div>
 </details>
 
@@ -1335,7 +1306,6 @@ And worship our Goddess Pavai.
 ## १५ - ऎल्ले! इळङ्किळिये
 
 <details open><summary>गानम् - १५</summary>
-
 <div caption="vibhA - 15 - Elle Elang Kiliye - begaDA" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/15__Elle_Elang Kiliye__begaDA.mp3"></div>
 </details>
 
@@ -1351,7 +1321,7 @@ And worship our Goddess Pavai.
 वल्लानै, मायानै पाडेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १५ ॥
 </details>
 
-<details><summary>मूलम् - १५</summary>
+<details><summary>मूलम् - DP_४८८ - १५</summary>
 
 ऎल्ले यिळङ्कॆळिये यिन्नमुऱङ्गुदियो  
 शिल्लॆन्ऱ ऴैयेन् मिन् नङ्गैमीर् पोदर् हिन्ऱेन्  
@@ -1397,7 +1367,6 @@ And worship our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - १५</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=0TAZQqDZstA"></div>
 </details>
 
@@ -1433,7 +1402,6 @@ And worship our Goddess Pavai.”
 ## १६ - नायगनाय् निन्ऱ
 
 <details open><summary>गानम् - १६</summary>
-
 <div caption="vibhA - 16 - Nayagannai Nindra - mOhanam" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/16__Nayagannai_Nindra__mOhanam.mp3"></div>
 </details>
 
@@ -1449,7 +1417,7 @@ And worship our Goddess Pavai.”
 नेय निलैक्कदवं नीक्केल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १६ ॥
 </details>
 
-<details><summary>मूलम् - १६</summary>
+<details><summary>मूलम् - DP_४८९ - १६</summary>
 
 नायकनाय् निन्ऱ नन्दकोपनुडैय  
 कोयिल् काप्पाने कॊडि त्तोन्ऱुम् तोरण  
@@ -1486,7 +1454,6 @@ And worship our Goddess Pavai.”
 </details>
 
 <details><summary>अभिनयः - १६</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=JMTUbFBGlEA"></div>
 </details>
 
@@ -1521,7 +1488,6 @@ So that we can worship our Goddess Pavai.
 ## १७ - अम्बरमे तण्णीरे
 
 <details open><summary>गानम् - १७</summary>
-
 <div caption="vibhA - 17 - Ambarame Thaneere - kalyANi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/17__Ambarame_Thaneere__kalyANi.mp3"></div>
 </details>
 
@@ -1537,7 +1503,7 @@ So that we can worship our Goddess Pavai.
 उम्बियुं नीयुमुऱङ्गेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १७ ॥
 </details>
 
-<details><summary>मूलम् - १७</summary>
+<details><summary>मूलम् - DP_४९० - १७</summary>
 
 अम्बरमे तण्णीरे शोऱे यऱञ्जॆय्युम्  
 ऎम्बॆरुमान् नन्दगोपाला वॆऴुन्दिराय्  
@@ -1582,7 +1548,6 @@ So that we can worship our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - १७</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=wJKyobpiUsM"></div>
 </details>
 
@@ -1618,7 +1583,6 @@ So we can worship our Goddess Pavai.
 ## १८ - उन्दु मद
 
 <details open><summary>गानम् - १८</summary>
-
 <div caption="vibhA - 18 - UndhuMadhagalittran - sAvEri" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/18__UndhuMadhagalittran__sAvEri.mp3"></div>
 </details>
 
@@ -1634,7 +1598,7 @@ So we can worship our Goddess Pavai.
 वन्दु तिऱवाय् मगिऴ्न्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १८ ॥
 </details>
 
-<details><summary>मूलम् - १८</summary>
+<details><summary>मूलम् - DP_४९१ - १८</summary>
 
 उन्दु मदगळिट नोदाद तोळ् वलियन्  
 नन्दगोपालन् मरुमहळे नप्पिन्नाय्  
@@ -1659,7 +1623,6 @@ So we can worship our Goddess Pavai.
 
 <details><summary>गरणि-विस्तारः - १८</summary>
 
-
 हिन्दिन पाशुरदल्लि नन्दगोपनन्नू यशोदॆयन्नू बलदेवनन्नू गोदादेवि ऎच्चरगॊळ्ळुवन्तॆ प्रार्थिसिकॊण्डळु. तन्न आतुरक्कॆ तक्कन्तॆ कद तॆरॆयलिल्ल. श्रीकृष्णन दर्शनवागलिल्ल. हिरियराद अवरिन्द कन्यॆयराद तम्म कूटक्कॆ ऒडनॆये सहायवु लभिसुवुदो इल्लवो ऎन्दु शङ्किसि, मनॆयल्लि ऎल्लरिगिन्तलू किरियवळाद मनॆय सॊसॆयन्नु ईग गोदादेवि बेडुत्तिद्दाळॆ. हिरियरॆनिसिदवरिगॆ बॆळगिन झावद निद्दॆय जोम्पु हत्तुवुदु साध्य. आदरॆ, किरियवळागि “मनॆय सॊसॆ” ऎनिसिकॊण्डवळिग्स्, इदु साध्यविल्लद्दु. हॊसदागि तन्न मनॆयन्नागि माडिकॊण्डिरुव इवळु मनॆयवरिगॆल्ल अच्चुमॆच्चिन चटुवटिकॆयन्नु तोरिसबेडवे? हॊत्तिगॆ मुञ्चॆये ऎद्दु कॆलस कार्यगळन्नु निर्वहिसबेडवे? आद्दरिन्द इवळन्नु आश्रयिसिदरॆ अल्लवे तम्म अभीक्ष सिद्धिसुवुदु?
 
 भगवन्तनन्नु यार आश्रयवू इल्लदन्तॆ नेरवागि सेरुवुदु सुलभवल्लवॆन्दू, अवन नित्यानुपायिनियाद देवियन्नु मरॆहॊक्कू अवळ अनुग्रहक्कॆ पात्ररागि, अवळ मूलक भगवन्तनन्नु पडॆयुव मार्गवे अत्यन्त सुलभवॆन्दु हेळुत्तारॆ. गोदादेवियू इल्लि माडुत्तिरुवुदु इदन्ने.
@@ -1673,7 +1636,6 @@ So we can worship our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - १८</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=3Fz2yQtLf_s"></div>
 </details>
 
@@ -1709,7 +1671,6 @@ So that we can worship our Goddess Pavai.
 ## १९ - कुत्तु विळक्कॆरिय
 
 <details open><summary>गानम् - १९</summary>
-
 <div caption="vibhA - 19 - KuttuVilakkeriya - sahAnA" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/19__KuttuVilakkeriya__sahAnA.mp3"></div>
 </details>
 
@@ -1725,7 +1686,7 @@ So that we can worship our Goddess Pavai.
 तत्तुवमन्ऱु तगवेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ १९ ॥
 </details>
 
-<details><summary>मूलम् - १९</summary>
+<details><summary>मूलम् - DP_४९२ - १९</summary>
 
 कुत्तुविळक्कॆरिय क्कोट्टुक्काऱ् कट्टिल् मेल्,  
 मॆत्तॆन्ऱ पञ्च शयनत्तिन् मेलेऱि  
@@ -1768,7 +1729,6 @@ So that we can worship our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - १९</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=wTLI2Yktekg"></div>
 </details>
 
@@ -1801,7 +1761,6 @@ Please allow us to worship our Goddess Pavai.
 ## २० - मुप्पत्तु मूवर्
 
 <details open><summary>गानम् - २०</summary>
-
 <div caption="vibhA - 20 - Muppatthumoovar - senchuruTTi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/20__Muppatthumoovar__senchuruTTi.mp3"></div>
 </details>
 
@@ -1817,7 +1776,7 @@ Please allow us to worship our Goddess Pavai.
 इप्पोदे यॆम्मै नीर् आट्टेल्+++(=आडिसलु)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २० ॥
 </details>
 
-<details><summary>मूलम् - २०</summary>
+<details><summary>मूलम् - DP_४९३ - २०</summary>
 
 मुप्पत्तु मूवरमरर् क्कू मुन् शॆन्ऱु  
 कप्पन् तविर् क्कू ङ्कलिये तुयिलॆऴाय्  
@@ -1859,7 +1818,6 @@ Please allow us to worship our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - २०</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=FVCpj75q7wM"></div>
 </details>
 
@@ -1898,7 +1856,6 @@ And thus worship our Goddess Pavai.
 ## २१ नन्दसुतः श्रीमान् बलवान् - एट्र कलङ्गळ्
 
 <details open><summary>गानम् - २१</summary>
-
 <div caption="vibhA - 21 - EtraKalangal - nAdanAmakriya" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/21__EtraKalangal__nAdanAmakriya.mp3"></div>
 </details>
 
@@ -1914,7 +1871,7 @@ And thus worship our Goddess Pavai.
 पोट्रियां+++(=नमस्कारेण)+++ वन्दों पुगऴ्न्देल्+++(=हॊगळिदरे)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २१ ॥
 </details>
 
-<details><summary>मूलम् - २१</summary>
+<details><summary>मूलम् - DP_४९४ - २१</summary>
 
 एट्रकलङ्गळॆदिर् पॊङ्गि मीदळिप्प  
 माट्रादे पाल् शॊरियुम् वळ्ळऱ् पॆरुम् पशुक्कळ्  
@@ -1946,7 +1903,6 @@ And thus worship our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - २१</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=JR5UV0E_Avw"></div>
 </details>
 
@@ -1981,7 +1937,6 @@ And worship our Goddess Pavai.
 ## २२ राजभिर् अहङ्कारत्यागः - अङ्गण् मा
 
 <details open><summary>गानम् - २२</summary>
-
 <div caption="vibhA - 22 - AnganNma - Yamuna KalyaNi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/22__AnganNma__Yamuna_KalyaNi.mp3"></div>
 </details>
 
@@ -1997,7 +1952,7 @@ And worship our Goddess Pavai.
 ऎङ्गळ् मेल् शापम् इऴिन्द्+एल्+++(=इळिदरॆ)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २२ ॥
 </details>
 
-<details><summary>मूलम् - २२</summary>
+<details><summary>मूलम् - DP_४९५ - २२</summary>
 
 अङ्गण् मा नालत्तरशर्, अपिमान  
 पङ्गमाय् वन्दु निन् पळ्ळिक्कट्टिऱ् कीऴे  
@@ -2027,7 +1982,6 @@ And worship our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - २२</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=D-KcyMGuB-Y"></div>
 </details>
 
@@ -2085,7 +2039,6 @@ And we can worship our Goddess Pavai
 ## २३ सिंहः - मारिमलै
 
 <details open><summary>गानम् - २३</summary>
-
 <div caption="vibhA - 23 - Maarimalai - Bilahari" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/23__Maarimalai__Bilahari.mp3"></div>
 </details>
 
@@ -2101,7 +2054,7 @@ And we can worship our Goddess Pavai
 कारियम् आराय्न्द्+++(=तिळिदु)+++ अरुळेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २३ ॥
 </details>
 
-<details><summary>मूलम् - २३</summary>
+<details><summary>मूलम् - DP_४९६ - २३</summary>
 
 मारि मलै मुऴञ्जिल् मन्नि क्किडन्दुऱङ्गुम्  
 शीरिय शिङ्ग मरिवुट्रुत्तीविऴित्तु  
@@ -2145,7 +2098,6 @@ And we can worship our Goddess Pavai
 </details>
 
 <details><summary>अभिनयः - २३</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=hUCPu-w9RtA"></div>
 </details>
 
@@ -2179,7 +2131,6 @@ And help us to worship our Goddess Pavai.
 ## २४ अवतार-कर्माणि वीर्यवन्ति - अन्ड्रु इव्वुलगमळन्दाय्
 
 <details open><summary>गानम् - २४</summary>
-
 <div caption="vibhA - 24 - Andrivvulagam - Sindhubhairavi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/24__Andrivvulagam__Sindhubhairavi.mp3"></div>
 </details>
 
@@ -2195,7 +2146,7 @@ And help us to worship our Goddess Pavai.
 इन्ऱु+++(=इन्दु)+++ यां+++(=वयं)+++ वन्दोम् इरन्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २४ ॥
 </details>
 
-<details><summary>मूलम् - २४</summary>
+<details><summary>मूलम् - DP_४९७ - २४</summary>
 
 अन्ऱिव्वुलहमळन्दायडि पोट्रि  
 शॆन्ऱङ्गुत्तॆन्निलङ्कै शॆट्राय् तिऱल् पोट्रि  
@@ -2241,7 +2192,6 @@ And help us to worship our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - २४</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=kEwg5YZ2w1U"></div>
 </details>
 
@@ -2273,7 +2223,6 @@ And worship our Goddess Pavai.
 ## २५ कंस-वैफल्य-कृत् - ओरुत्ति मगनाय्
 
 <details open><summary>गानम् - २५</summary>
-
 <div caption="vibhA - 25 - Oruthi Maganai - Behaag" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/25__Oruthi_Maganai__Behaag.mp3"></div>
 </details>
 
@@ -2289,7 +2238,7 @@ And worship our Goddess Pavai.
 वरुत्तमुं+++(=पीडां)+++ तीर्न्दु मगिऴ्न्देल्+++(=हर्षिसिदरॆ)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २५ ॥
 </details>
 
-<details><summary>मूलम् - २५</summary>
+<details><summary>मूलम् - DP_४९८ - २५</summary>
 
 ऒरुत्ति महनाय् प्पिऱन्दु, ओरिरविल्  
 ऒरुत्ति महनायॊळित्तु वळर  
@@ -2329,7 +2278,6 @@ And worship our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - २५</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=gysjCu2No7Y"></div>
 </details>
 
@@ -2364,7 +2312,6 @@ And worship our Goddess Pavai.
 ## २६ शङ्खादि-परिकराः - माले मणिवण्णा
 
 <details open><summary>गानम् - २६</summary>
-
 <div caption="vibhA - 26 - Maale Manivanna - Kuntala VaraLi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/26__Maale_Manivanna__Kuntala VaraLi.mp3"></div>
 </details>
 
@@ -2380,7 +2327,7 @@ And worship our Goddess Pavai.
 आलिन्+++(=आलद)+++ इलैयाय्+++(=ऎलॆयवने)+++ अरुळेल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २६ ॥
 </details>
 
-<details><summary>मूलम् - २६</summary>
+<details><summary>मूलम् - DP_४९९ - २६</summary>
 
 माले मणिवण्णा मार्हऴि नीराडुवान्  
 मेलैयार् शॆय्वनहळ् वेण्डुवन केट्टियेल्  
@@ -2419,7 +2366,6 @@ And worship our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - २६</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=TNadpl6QAus"></div>
 </details>
 
@@ -2456,7 +2402,6 @@ So that we worship our Goddess Pavai.
 ## २७ गानात् पुष्कलो भोगः - कूडारै वेल्लुम् सीर्
 
 <details open><summary>गानम् - २७</summary>
-
 <div caption="vibhA - 27 - Koodaraivellum - Poorvi KalyaNi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/27__Koodaraivellum__Poorvi_KalyaNi.mp3"></div>
 </details>
 
@@ -2472,7 +2417,7 @@ So that we worship our Goddess Pavai.
 कूडिय् +++(खादित्वा)+++ इरुन्दु कुळिर्न्देल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २७ ॥
 </details>
 
-<details><summary>मूलम् - २७</summary>
+<details><summary>मूलम् - DP_५०० - २७</summary>
 
 कूडारै वॆल्लुम् शीर् क्कोविन्दा उन्ऱन्नै  
 पाडि प्पऱैकॊण्डु याम् पॆरुशम्मानम्  
@@ -2506,7 +2451,6 @@ So that we worship our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - २७</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=AX3GGb7zhTc"></div>
 </details>
 
@@ -2541,7 +2485,6 @@ And worship our Goddess Pavai.
 ## २८ अपराध-क्षमा - कऱवैगळ् पिन्
 
 <details open><summary>गानम् - २८</summary>
-
 <div caption="vibhA - 28 - Karavaigalpin - Kamboji" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/28__Karavaigalpin__Kamboji.mp3"></div>
 </details>
 
@@ -2557,7 +2500,7 @@ And worship our Goddess Pavai.
 इऱैवा+++(=सर्वेश)+++! नी ताराय्+++(←तारो)+++ पऱैय्+++(=इष्टार्थं)+++ एल्+++(=चेत्)+++ ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २८ ॥
 </details>
 
-<details><summary>मूलम् - २८</summary>
+<details><summary>मूलम् - DP_५०१ - २८</summary>
 
 कऱवैहळ् पिन् शॆन्ऱु कानञ्जेर्न्दुण् पोम्  
 अऱिवॊन्ऱु मिल्लाद वाय् क्कूलत्तु, उन्ऱन्नै  
@@ -2595,7 +2538,6 @@ And worship our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - २८</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=Z3h1BoJMwDo"></div>
 </details>
 
@@ -2627,7 +2569,6 @@ So that we can worship our Goddess Pavai.
 ## २९ भविष्येऽपि कैङ्कर्य-भग्यम् - शिट्रं शिऱु
 
 <details open><summary>गानम् - २९</summary>
-
 <div caption="vibhA - 29 - Chitram Chirukaale - Madhyamaavati" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/29__Chitram_Chirukaale__Madhyamaavati.mp3"></div>
 </details>
 
@@ -2643,7 +2584,7 @@ So that we can worship our Goddess Pavai.
 मट्रै+++(=अन्य)+++ नं कामङ्गळ् माट्र्+++(=विनिमितं)+++ एल् ओर् ऎम्-बावाय्+++(=व्रतम्)+++ ॥ २९ ॥
 </details>
 
-<details><summary>मूलम् - २९</summary>
+<details><summary>मूलम् - DP_५०२ - २९</summary>
 
 शिट्रञ्जिऱुकाले वन्दुन्नैच्चेवित्तु, उन्  
 पॊट्रामरैयडिये पोट्रुम् पॊरुळ् केळाय्  
@@ -2685,7 +2626,6 @@ So that we can worship our Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - २९</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=xTfF_82e_1Y"></div>
 </details>
 
@@ -2719,7 +2659,6 @@ And help us to worship Goddess Pavai.
 ## ३० फलस्तुतिः - वङ्गक्कडल् कडैन्द
 
 <details open><summary>गानम् - ३०</summary>
-
 <div caption="vibhA - 30 - Vangakkadal kadainda - suruTTi" class="audioEmbed" src="https://archive.org/download/tiruppAvai_vibhA/30__Vangakkadal_kadainda__suruTTi.mp3"></div>
 </details>
 
@@ -2735,7 +2674,7 @@ And help us to worship Goddess Pavai.
 ऎङ्गुं तिरुव् अरुळ् पॆट्रु+++(=पडॆदु)+++ इन्ब्+++(=आनन्दम्)+++ उऱुवर्+++(=उळ्ळुवर्)+++ ऎम् बावाय् ॥ ३० ॥
 </details>
 
-<details><summary>मूलम् - ३०</summary>
+<details><summary>मूलम् - DP_५०३ - ३०</summary>
 
 वङ्गक्कडल् कडैन्द मादवनैक्केशवनै  
 तिङ्गळ् तिरुमुहत्तु च्चेयिऴैयार् शॆन्ऱिऱैञ्जि  
@@ -2785,7 +2724,6 @@ And help us to worship Goddess Pavai.
 </details>
 
 <details><summary>अभिनयः - ३०</summary>
-
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=g4oSE0vQdmA"></div>
 </details>
 
