@@ -4,9 +4,6 @@ title = "04 Am ciraiya mata naray"
 +++
 
 
-
-
-
 ## 00 Intro1.4
 The Sublime and the Sensual have always co-existed in both the worlds-the mundane and the spiritual. There is, however, a fundamental difference in their inter-relationship, in the respective spheres. In the material world, the two are mutually exclusive, being diametrically opposed to each other. In the spiritual world, that which, in the language of aesthetics, is termed as ‘*Śṛṅgār*’, is nothing but the psychological imperative for man’s consciousness moving towards Him (Super-Soul) of ravishing beauty (as *Bhāgavatā* bears out), just the very inversion of the skin-deep, carnal variety of lust, stamping out the human lover-beloved union. If the love-smitten Parāṅkuśa (Nammāḻvār, who was like unto a goad wearing round his spiritual antagonists through his scintillating hymns and making the Lord Himself pliable, enraptured by his sweet, love-laden hymns) turns out to be a female, expressing herself now as Parāṅkuśa Nāyakī (God-lover), then as the Mother, the intuitive gnostic friend of the love-lorn daughter trying to keep the latter under sobering restraint and sometimes as the soothing Mate, it is but the natural corollary to his boundless love for God and the deep yearning, beyond words, for the Divine presence and lasting union. Actually, the Lord is the only Male or Husband (*Loka bhartā*), the ‘*Puruṣottama*’ the *Kṣetrajña*’ and all the Individual souls arc but marks of the feminine, the *Kṣetras*’ (Location),, the female centres of the creative activity of God. It is indeed quite some consolation that the lover-beloved theme is familiar ground for the worldlings and now, without adopting the austere Vedic approach, the Āḻvār would only want them to shift the base and turn the whole drama God-ward and be wholly absorbed in ‘*Daiva Rasa*’ (spiritual love), the ‘*Brahmānubhava*’. Even as the female anatomy plays a key role in the earthly variety of love, in the spiritual world, ‘*Para Bhakti*’, ‘*Para Jñāna*’ and ‘*Parama Bhakti*’, in the ascending scale of God-love, too deep for words, symbolise the breast of the God-lover, swelling up with God-love.
 
@@ -30,9 +27,6 @@ The listener in question appreciated these and observed:
 > bound to listen to it, as a sensible man ought to”.
 
 But, as soon as the Saint changed the Divine discourse into the form of love to God, love treated by analogies taken from the experience of mankind in this world, specially in its relation as Lover and the Beloved, Mistress and Spouse and so on, the disciple turned away from it, thinking that this kind of treatment was a shock to good taste, outrage to his wisdom and a violence to his common-sense. Nañcīyar couldn’t but deplore the failure of this unfortunate listener to see, in it, the explanation of the mysterious Divine Love (Bhakti), contained in the Commandment of the *Bṛhadāraṇyaka upaniṣad* (*Maitreyi Brāhmaṇa*, 44) to the effect that the Lord is to be lovingly, intensely meditated upon.
-
-
-
 
 ## 1.4.1
 **Tamil text and transliteration:**
@@ -60,10 +54,6 @@ Ye young, sympathetic Stork, with pretty plumes, taking pity on poor me, go with
 [^1]:  Aphorism 154, Ācārya hṛdayam.
 
 \(iii\) Putting the birds in prison should not be taken literally and, in fact, it is most unlikely that the Lord would ever do so, It would indeed be worse than putting them in the toughest prison if He just remained cold and indifferent and would not even look at them, an experience comparable with that of the Princes not getting fed when hunger pinches them.
-
-
-
-
 
 ## 1.4.2
 **Tamil text and transliteration:**
@@ -94,10 +84,6 @@ Oh, ye happy band of Kōels, what will unto ye happen If you conveyed my message
 
 [^1]:  See aphorism 153 of Ācārya Hṛdayam, wherein other birds such as parrots, peacocks have also been brought in.
 
-
-
-
-
 ## 1.4.3
 **Tamil text and transliteration:**
 
@@ -124,9 +110,6 @@ It is not so much the felicity of the swans that they remain duly mated, enjoyin
 \(ii\) The swans are briefed by the Āḻvār to tell the Lord that the sins of the Āḻvār are inexhaustible and that His redemptive grace alone can deliver the goods, in case the Lord insisted that the Āḻvār should first liquidate his sins and then only join Him.
 
 \(iii\) *Third line*: ‘*here lies one*’: It is hardly necessary to disclose the name of this one by way of identification for the Lord jolly well knew His victim as none other than poor Parāṅkuśa Nāyakī, reduced to this critical state by their erstwhile union—
-
-
-
 
 ## 1.4.4
 **Tamil text and transliteration:**
@@ -157,9 +140,6 @@ Who relents not, having seen how I fared
 **Note**
 
 When Sri Parāśara Bhaṭṭar was discoursing on this song, a Tamil Scholar contended that the expression, “having seen my plight”, in the first line (original text) should be ‘having heard of my plight’. His doubt was how, when they had already been locked in the joy of union, could God, one of the pair, see the signs of pain of the other, after separation. To this, Bhaṭṭar replied: “Don’t you know what the Tamil Savant Tiruvaḷḷuvar has said? The lady-love lay in tight embrace with her lover but, now and then, they got a little unlocked while turning on their sides; this slight distance between them was enough to make her lose the colour on her skin, a decolouration resulting from the gloom of separation! Again, in the poems of ‘*Kuṟuntokai*’ it has been said, whereever, wherever the lover touched, there, there, a flush of colour arose; wherever, wherever the touch had ceased, there, there, the colour sank. The scholar could at once realise that the message in question only reminds the Lord of what He had Himself noticed during His erstwhile union with Parāṅkuśa Nāyakī.
-
-
-
 
 ## 1.4.5
 **Tamil text and transliteration:**
@@ -201,9 +181,6 @@ And bring back any reply He chooses to send on?
 
 \(iii\) *Line* 4: ‘*a sinner He cannot throw down*’: “Having roused my appetite for Him, where there was none before, could He now give me up on account of my past sins? Could He who, as Nārāyaṇa, extends protection to one and all (universal), give up His chosen ones like me? Have I sinned to the extent of making even the oceanic water go dry as it is being pumped out?
 
-
-
-
 ## 1.4.6
 **Tamil text and transliteration:**
 
@@ -231,9 +208,6 @@ A glance at Him. Oh! what is my fault
 
 In the preceding stanza, the Lord was advised against imperilling His position as Nārāyaṇa. On second thoughts, the Āḻvār now apprehends the frightful possibility of the Lord staying away from him, choosing the lesser of the two evils, the greater one being contamination by the Āḻvār. Here then is a compromise formula—the Lord, being an ocean of grace, will certainly shed His grace on the Āḻvār also, the sooner the better, that is, ere his life ebbs out; even the simple gesture of His passing through the street where the Āḻvār lives, not often, but just one day, will do. The gracious Garuḍa could certainly oblige the Āḻvār and bring the Lord over here on his shoulders. This was precisely the message conveyed by Sītā to Śrī Rāma through Hanumān. Here is also a painful contrast, Parāṅkuśa Nāyakī, separated from her beloved Lord, undergoing all the pangs of mental torture experienced by Śrī Rāma after the abduction of Sītā. The Āḻvār now ruminates and keeps guessing whether his languishing like this without enduring his lot patiently, would be adjudged as his fault. But then, he would also recollect that Śrī Rāma fared no better when apart from Sīta.
 
-
-
-
 ## 1.4.7
 **Tamil text and transliteration:**
 
@@ -259,9 +233,6 @@ My fault that admits not His clemency?
 **Note**
 
 This is the key stanza of this decad. The messages sent in this decad, keep in the forefront the Lord’s noble trait of forgiveness (aparādha sahatvaṃ). If the Lord is not prepared to concede even the simple request (as in the preceding stanza) of some day passing through the street where the Āḻvār lives, alienated by his shortcomings, the question is now asked, what has happened to His accredited trait of forgiveness, His boundless grace, avidly gorging all our sins. In the inimitable language of ‘Iṭu’ the Āḻvār queries, “My Lord, have I obstructed the influx of your sweet grace, through over-indulgence in genuflections and circumambu-lations?”
-
-
-
 
 ## 1.4.8
 **Tamil text and transliteration:**
@@ -290,9 +261,6 @@ With tiny bits of delicious food can fill.
 \(i\) ‘Pūvai’ is a nice-looking, tiny bird.
 
 \(ii\) Here is a thrilling anecdote. With declining health, Peria Tirumalai Nampi, one of the five Preceptors of Śrī Rāmānuja, became too feeble to offer the diurnal worship to the household Deity-Lord Kṛṣṇa, given the pet name of ‘*The little one dancing for butter*’. And so, one day, drawing aside the drapery that hung before the Deity, he prostrated and recited the last two lines of this particular song (as in the original text), the gist of which has been given above, in the last three lines.
-
-
-
 
 ## 1.4.9
 **Tamil text and transliteration:**
@@ -330,9 +298,6 @@ Better (come and) split my body into twain.
 
 \(ii\) The wind is the chief sustainer of life and appropriately symbolises the Ācārya (Preceptor).
 
-
-
-
 ## 1.4.10
 **Tamil text and transliteration:**
 
@@ -356,9 +321,6 @@ Our sad plight; leave Him not till unto Him we get restored.
 **Note**
 
 When the details of service unto the Lord were spelt out by the Āḻvār in the preceding stanza, his mind, bent upon such service, was about to slip out of the body. It is held by some that the Āḻvār requested his mind not to get parted till stability with the Lord was attained. Being, however, a decad where the Āḻvār sends errands, it would be more appropriate to say that he sent his mind also on such an errand, briefing it not to leave the Lord till He eventually deigns to get restored to the Āḻvār.
-
-
-
 
 ## 1.4.11
 **Tamil text and transliteration:**
@@ -386,6 +348,4 @@ Will attain the Supreme bliss of service in Heaven.
 \(i\) In the preceding decad, expatiating on the Supreme Lord’s easy accessibility, the Saint wanted to abide in the proximate Kṛṣṇa avatāra but failure to achieve it led him to send errands to the Lord in this decad. Having seen the intensity of the love of Parāṅkuśa Nāyakī and her yearning for Divine presence, too deep for words, as revealed in the preceding ten stanzas, the Lord could not stay back any longer, except at the risk of the Āḻvār being lost to this world altogether. The fact that the Lord has been restored to the Saint can be inferred from the very tenor of this stanza, where the Lord is being extolled as the Chief of all the worlds, thus presenting His overlordship and easy-accessibility, side by side.
 
 \(ii\) Even the mere recital of the text of these stanzas, without so much as delving into their spirit and meaning, will, it is claimed, shoot one up, from the bottom-most depths of worldly existence to the highest state of Service unto the Lord in the High Heavens.
-
-
 

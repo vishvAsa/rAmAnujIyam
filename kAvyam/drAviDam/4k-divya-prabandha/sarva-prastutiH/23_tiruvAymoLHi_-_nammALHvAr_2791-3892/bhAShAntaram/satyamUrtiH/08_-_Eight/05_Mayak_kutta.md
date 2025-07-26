@@ -4,14 +4,8 @@ title = "05 Mayak kutta"
 +++
 
 
-
-
-
 ## 00 Intro9.5
 In the third decad of this centum, the Āḻvār grew apprehensive of the safety of the Lord of exquisite charm, moving along in this wicked land alone and unattended. The Āḻvār could, however, regain his composure, shaking off the fear in question, on the assurance given by the Lord, vide VIII-3-10. The following decad revealed an Āḻvār, fully relieved of his erstwhile fears, but the intense mental enjoyment of the Lord’s regal Form, enchanting every inch, resorted to by the Āḻvār in VIII-4-7, once again resulted in a deep yearning, an insatiable longing for external perception of the Lord’s Form, as envisioned by him and getting locked in His sweet embrace. Non-fulfilment of his longing has consigned the Āḻvār to the bottom-most depths of dejection, the like of which has not been witnessed in the earlier decade. He cries out, like unto one bodily trapped in a forest fire and his limbs appear to be even more worn out than their owner. The Saint beckons the Lord to appear before him in all His regal splendour, wearing His crown, tall and majestic and moving along, like the exhilarating rain-cloud, the rising Sun, so on and so forth. The Lord did not, however, respond and so, this decad ends on a despondent note, the Āḻvār being led to believe that he would just pass away, immured in grief.
-
-
-
 
 ## 8.5.1
 **Tamil text and transliteration:**
@@ -39,9 +33,6 @@ May it please You to appear before me, for a day at least.
 \(i\) The Āḻvār’s request to the Lord is that He should appear before him like a lotus pond, the mere sight of which quenches one’s deep thirst. The Lord’s eyes, hands and feet look like red lotus flowers in bloom. His coral lips with bewitching smiles resemble the lovely lily and His emerald form looks like the green pond with lotus leaves. This completes the picture of the lotus pond, envisaged by the Āḻvār. c.f. ‘Karacaraṇa Saroje......... *Haṛsarasi*’—(Mukunda Mālā)
 
 \(ii\) What precisely egged the Āḻvār on to such a longing has also been indicated in this song. As he was comtemplating the Lord’s incarnation as the bewitching Vāmaṉa, at Indra’s behest, the Āḻvār longed that He should also present such an exquisite Form to him. If the Lord’s incarnation as Vāmaṉa was for the sake of Indra, His incarnation as Kṛṣṇa was only to torment the Āḻvār, by going back to the Celestium, just six weeks before his coming into this abode, like unto a dainty dish hitting against the teeth and falling to the ground without getting inside the mouth to be chewed with great relish. That is why the Āḻvār calls Kṛṣṇa, as the one beyond his (sinner’s) reach.
-
-
-
 
 ## 8.5.2
 **Tamil text and transliteration:**
@@ -72,9 +63,6 @@ Stricken with shame, fatigued do I on this good Earth languish.
 
 \(ii\) The Sun, rising over the emerald mount, appears to be dark and the Lord’s person is like an emerald mountain and hence, the imagery.
 
-
-
-
 ## 8.5.3
 **Tamil text and transliteration:**
 
@@ -100,9 +88,6 @@ Thin waist and Your complexion like rain-cloud bearing water clear.
 **Notes:**
 
 The Āḻvār has been crying himself hoarse, pining for the external perception of the Lord’s enchanting Form and enjoying it in all it details. When, due to constant clamouring, his voice gets choked, it should indeed compel the Lord to come down at once and see what has gone wrong with the yearning devotee. And yet, He has not turned up, making the Āḻvār suspect whether He is beyond his ear-shot.
-
-
-
 
 ## 8.5.4
 **Tamil text and transliteration:**
@@ -131,9 +116,6 @@ And eyes lovely, akin to lotus which sweet water holds.
 \(i\) This song and the next, striking a jubilant note, the exact opposite of what is revealed by the other songs in this decad, are indeed ironically couched. The Āḻvār really feels vexed that the Lord’s sweet and enchanting Form torments his thoughts, in the absence of the external enjoyment, longed for, by him.
 
 \(ii\) Here is indeed a grand poetic imagery. The cloud-hued Lord resting on Ādi-Śeṣa, the white serpent, in the Milk-ocean, is likened to the transparent water-laden cloud on the crest of a white mountain embedded in the deep oceanic waters. Not only this enchanting Form but the lovely eyes and the fruit-like lips appear before the Āḻvār and each one of these tempts the Āḻvār to enjoy them separately and thus torments him.
-
-
-
 
 ## 8.5.5
 **Tamil text and transliteration:**
@@ -176,9 +158,6 @@ According to Parāśara Bhaṭṭar, the Āḻvār prays unto the Lord:
 
 Ācārya Ammaṅki Ammāl would say: “With Your dazzling feet illumining my mind all the time, there is no room whatever for nescience, the distressing darkness; if such darkness could, however, be induced in me, I can safely align myself with the worldlings and run after food and raiment like them, forgetting You altogether.”
 
-
-
-
 ## 8.5.6
 **Tamil text and transliteration:**
 
@@ -205,9 +184,6 @@ For me to behold your lovely feet.
 
 Where there is a will, there is a way. The Āḻvār feels poignantly why the Lord, who could, if He so wills, come from anywhere, does not present Himself before him. He could manifest Himself right from the space above, come down from Heaven in all that transcendent splendour, from the Earth where He had already incarnated as Rāma and Kṛṣṇa or from the vast ocean, the Vyūha, the seat of all His creative activities, or from any of the Pilgrim centres, in His Iconic manifestation or from anywhere else, being all-pervasive, in every post and pillar. The Lord’s feet constitute the Āḻvār’s source of subsistence and it is only to behold them and render service at those very feet that the Āḻvār is inviting the Lord to appear before him, at least one day.
 
-
-
-
 ## 8.5.7
 **Tamil text and transliteration:**
 
@@ -232,9 +208,6 @@ And from this vassal service do command.
 **Notes:**
 
 The Āḻvār is granting the Lord the option either to come down here so that he may behold Him or if, in the light of His grandeur and the pettiness of the supplicant, He doesn’t deign to come, He would do well to take him over to that end (Heaven). There, the Āḻvār would not only behold the Lord and have his heart’s fill but he would also want the Lord to take service from him, so that he could render unstinting service at the Lord’s feet which spanned the worlds and, in the process, stepped on the heads of one and all, without distinction of high and low, Vaśiṣṭa or caṇḍāla. The Lord’s enchanting beauty has made the Āḻvār pine for Him and like the fish out of water, he can’t bear being apart from Him any longer and hence, this kind of insistence on his part.
-
-
-
 
 ## 8.5.8
 **Tamil text and transliteration:**
@@ -261,9 +234,6 @@ Is this how You do unto Your fame conform?
 **Notes:**
 
 Here is the Āḻvār who sees in the rain-clouds, gathered up above, the Lord’s likeness and is haunted by His memory, unlike the worldlings who would think of such clouds only in terms of the rainfall and the bumper crop. Even the Pāṇḍavas, on whose behalf the Lord underwent immense hardships and did even the menial service of driving Arjuna’s chariot, were not of the grand calibre of the Āḻvār. And yet, the Lord known for His readiness to serve His devotees, does not deign to appear before the Āḻvār and satisfy his craving to behold Him and feast his eyes on His insatiable beauty. The Āḻvār’s poser, as in this song, would seem to raise grave doubts about the veracity of the great epic of Mahā Bhārata, the wondrous deeds performed by the Lord and His breath-taking activities on behalf of His devotees, establishing His fame as a partisan of His devotees. Could it be mere propaganda, carried on, through His hirelings, the sages?
-
-
-
 
 ## 8.5.9
 **Tamil text and transliteration:**
@@ -292,9 +262,6 @@ In Uttaramaturai (Mathurā), abounding in orchards fine.
 The Āḻvār is now revolving within his mind, what the Lord of wondrous deeds and auspicious traits, who, during His incarnation as Kṛṣṇa, took birth at Mathurā (in Uttara Pradesh) might be intending to do with him. Let alone what He did for the Pāṇḍavas, as against the Kauravas, how indeed does He mingle with Garuḍa, who (as Āḷavantār puts it, in Śloka 41 of his Stotra Ratna) is said to fulfil several rolas, as servant, friend, vehicle (carrier), seat, banner, canopy and fan! Does the Lord really take all this service from Garuḍa or does He keep him also at a distance, as is the case with the Āḻvār? If the Lord so wills, He could come down to the Āḻvār, mounted on Garuḍa. Perhaps, even Garuḍa is not pressed into service, by the Lord, these days! And then, the discus could have jolly well been commissioned by the Lord, to cut out all those impediments, which operate as a bar to the Āḻvār’s union with Him and yet, if He has not done so, that only means. His relationship with the discus is no better than that which subsists between Him and the Āḻvār.
 
 The Āḻvār is now left a-guessing what precisely the Lord’s intentions might be, with regard to him.
-
-
-
 
 ## 8.5.10
 **Tamil text and transliteration:**
@@ -325,9 +292,6 @@ You do in all things mysteriously abide; where can I find you indeed?
 
 \(iii\) How could it be asserted that the Invisible Lord resides in all creatures and things? The Upaniṣad provides the answer: “ghrutamiva payasi nigūḍaṃ”. The milk is churned into butter, which again is melted into ghee. But none can, on the face of it, perceive the presence of ghee in milk. And so does the Lord abide unseen in all that exists.
 
-
-
-
 ## 8.5.11
 **Tamil text and transliteration:**
 
@@ -352,6 +316,4 @@ Will, right here and now, enjoy with no intermission bliss supreme.
 **Notes:**
 
 The end-song avers that those that learn this decad will Me steeped in God-enjoyment, day and night, right in this word and, in this very birth, without undergoing the hardships and the vicissitudes which the Āḻvār had to pass through. The Lord will, on His part, make amends for His remissness in not responding to the Āḻvār’s invitation, as in the opening song of this decad, to come and take service from him, by duly requiting the chanters of this decad. Unto these persons, He will rush up and shower on them divine bliss without intermission.
-
-
 

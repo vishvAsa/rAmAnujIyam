@@ -4,9 +4,6 @@ title = "06 Katal-nalam ceytenum"
 +++
 
 
-
-
-
 ## 00 Intro5.6
 The Mother finds Parāṅkuśa Nāyakī, seated like a discourser, with the fingers in an instructional pose and declaring that it is she that created the whole world, that she would become the world herself and so on. The bewildered mother, when queried by her kinsmen says that the Nāyakī is perhaps possessed by the Supreme Lord who is the Inner Self of all beings. Every song in this decad is in two distinct parts, namely, the narration of the Nāyakī’s God-vision (man identified with God), followed by the Mother's suggestion that it is perhaps God who has taken possession of the Nāyakī, that speaks through her. There is of course, a parallel for this kind of behaviour of the Nāyakī in Śrī Viṣṇu Purāṇa, V-13-23. In the midst of that rapturous balldance, the classical ‘Rāsakrīḍā’, Lord Kṛṣṇa suddenly withdrew Himself from the Gopīs of Vṛndāvan, who were literally bursting with joy in the company of the Divine cowherd boy, who danced in between every two girls, assuming ubiquity to the extent needed. The Lord’s sudden disappearance was motivated by His desire to stabilise the Gopīs’ God-enjoyment, which was at its highest ebb at that crucial moment, much beyond their capacity to bear. Some time later, He appeared in their midst back again, assuming afar more enchanting Form than before, as if to make amends for the pangs of separation inflicted on them. But what happened to the Gopīs during this interval? They were sunk deep in dejection, expressed by them in immortal songs, known as ‘Gopikā-Gītā’, Some of the Gopīs also resorted to the technique of impersonation of Śrī Kṛṣṇa, so as to sustain themselves, as brought out in the Śloka of Śrī Viṣṇu Purāṇa, referred to above. There was a Gopī claiming to be none other than Kṛṣṇa and calling upon her mates to verify the truth of her statement from her gait.
 
@@ -15,9 +12,6 @@ Another asserted that she was Kṛṣṇa and started playing on the flute; yet 
 > “You, deadly snake, stay, or I will kill you”.
 
 That other Gopī deigned to play the role of Kāliyaṉ, the snake, so that she could be smeared with the dust from the feet of Kṛṣṇa (the Gopī simulating Kṛṣṇa). With appropriate gesticulations and a great deal of gusto, a Gopī feigning as Kṛṣṇa, performed feats such as holding Mount Govardhan aloft, slaying of Dhenukāsura and so on. By such means, these Gopis managed to sustain themselves without succumbing to the pangs of separation from Śrī Kṛṣṇa. There is also the example set by Śrī Āṇṭāḷ through her immortal “Tiruppāvai”, the daughter of a high class Brahmin (Viṣṇucitta) adopting, by inclination, the pastoral life of the shepherds and becoming one of them. This provides, therefore, the key to this decad.
-
-
-
 
 ## 5.6.1
 **Tamil text and transliteration:**
@@ -51,9 +45,6 @@ Apart from the Lord combining in Himself the triple causes of creation, yet anot
 
 \(ii\) The mother wonders how her daughter, a staunch exponent of ‘Viśiṣṭādvaita the triune monism, says things smacking of absolute monism (advaita) and apprehends that the Nāyakī, perhaps, stands possessed by the Lord Himself and, therefore, speaks in this strain, The kinsmen who expected the mother to be more specific in her diagnosis of the Nāyakī’s malady, are cut to size, when she says that her daughter is in such a highly evolved state of God-love, on a par with the exalted ever-free angels of Heaven, that her actions and utterances are much beyond the grasp of the worldlings who were utter strangers to such ennobling experience of God-love and God-enjoyment.
 
-
-
-
 ## 5.6.2
 **Tamil text and transliteration:**
 
@@ -83,9 +74,6 @@ Reflects, what can I tell you, at the bottom of learning?
 
 \(ii\) *Mastered all learning*: Transposed as Kṛṣṇa, that the Nāyakī is, this could refer to the mastery attained by Śrī Kṛṣṇa within a marvellously short period of sixty-four days, as the pupil of Sāndīpini.
 
-
-
-
 ## 5.6.3
 **Tamil text and transliteration:**
 
@@ -109,9 +97,6 @@ By the sea-hued Lord, what can I tell you, of this world?
 ### Note
 
 The mother tells the kinsmen that, unlike them all, with a narrow vision, confined to the things seen around, her daughter (Parāṅkuśa Nāyakī) has a cosmic vision. New visions of beauty shine before the eyes of a Saint. He alone can see and enjoy the viśvarūpa (Universal form) of the Lord. He hears the unheard melodies and enjoys divine scents, unfelt on the Earth, and soars into an ampler ether, diviner air. The Nāyakī, deputising as God, says that she is everything, the elements and all, with the clear knowledge that the elements are subject to His control and are ordained by Him.
-
-
-
 
 ## 5.6.4
 **Tamil text and transliteration:**
@@ -138,9 +123,6 @@ Of her, what indeed can I tell you, an innocent lot?
 ### Note
 
 The Lord is referred to as the enjoyer of the fruits of all actions which He controls, both the performance and the performers, c.f. śloka IX-24, Bhagavad Gītā, where the Lord has said that it is He that is propitiated by the various acts, rites and rituals. The Nāyakī, possessed by God, speaks as though she is God. Not having the faintest idea of this strange malady, the poor, innocent kinsfolk foolishly insist upon having more and more details.
-
-
-
 
 ## 5.6.5
 **Tamil text and transliteration:**
@@ -169,9 +151,6 @@ Oh, worldlings, What can 1 say of her that is beyond reclamation?
 
 All these deeds performed by the Supreme Lord, from time to time, the Nāyakī, possessed by Him, attributes to herself. How can the worldlings standing ashore comprehend the mysticism of the Nāyakī (Āḻvār), sunk deep in the ocean of Divine consciousness?
 
-
-
-
 ## 5.6.6
 **Tamil text and transliteration:**
 
@@ -199,9 +178,6 @@ What can I say about my daughter, thus transformed?
 ### Note
 
 The Supreme Lord, Chief of the ‘Nitya Sūrīs’ in Heaven, having taken possession of the Nāyakī, she identifies herself with His incarnation as Śrī Kṛṣṇa, as set out above. As a little lad, Kṛṣṇa tended the calves, literally played with them, as one of them and when He came of age, He grazed the cows, a vast multitude, like unto the change-over from, ‘Brahmacarya’ (bachelorhood) to the next stage of ‘Grahasta’ (householder).
-
-
-
 
 ## 5.6.7
 **Tamil text and transliteration:**
@@ -235,9 +211,6 @@ By the wondrous Lord whom by mere self-effort none can attain?
 
 \(iv\) The Lord is ‘All-in-one’ and constitutes every conceivable relationship unto those that look upon Him, as the Sole Sustainer, (c.f. Śloka 5 of Stotra Ratna of Saint Yāmuna, where he adores Saint Nammāḻvār, in this manner.)
 
-
-
-
 ## 5.6.8
 **Tamil text and transliteration:**
 
@@ -264,9 +237,6 @@ Possessed by the redoubted Lord, cloud-hued?
 ### Note
 
 What the Nāyakī brings out here is that the Supreme Lord is the Internal Controller of all, including Śiva, Ticaimukaṉ (Brahmā), Indra and other celebrities. They just constitute His bodies, in the same way as all other beings and things.
-
-
-
 
 ## 5.6.9
 **Tamil text and transliteration:**
@@ -296,9 +266,6 @@ The bird tough (unto His opponents) on His banner?
 
 The sentient and non-sentient beings are the Lord’s bodies. He is thus the ‘Viśeṣya’ or Substance present in all these bodies, known as the ‘Viśeṣaṇa’, the attributes or modes of the Lord. While the attributes undergo transformations, such as growth and decay, enjoyment and misery, the ‘Viśeṣya’ undergoes no changes and is ‘nirvikāra’. While the ‘Jīva’ or the individual Soul experiences alternately, weal and woe, the Lord inside the ‘Jīva’ remains unattached to the fruits of the actions of the Jīva. While the body, the outer cloak of the ‘Jīva’, is imposed on the latter by dint of its past ‘Karma’ (acts), the Lord enters the Jīva, as a matter of grace, not bound by the compulsions of a pre-determined factor. Creation actually means that He makes the non-sentient things undergo the changes of state and endows the individual souls with bodies and senseorgans, thus providing the necessary scope for expansioṇ of their knowledge. The disparities in the created beings, some being happy and others sorrowful, will not, however, render the Lord guilty of partiality and cruelty. The inequalities are the direct results of the actions of the individuals, and their sufferings are intended to chasten them and cure their ills through a cleansing process.
 
-
-
-
 ## 5.6.10
 **Tamil text and transliteration:**
 
@@ -327,9 +294,6 @@ About my daughter whose locks are with lovely garland bedecked?
 
 \(ii\) The ‘Mūla-Prakṛti, or the Primordial Force works wonders but even that can function only at the Lord’s will. Hence, the Nāyakī, possessed by the Lord, says that she is the Mūla-Prakṛti also.
 
-
-
-
 ## 5.6.11
 **Tamil text and transliteration:**
 
@@ -357,6 +321,4 @@ Unto Tirumāl’s votaries, for their due propitiation.
 \(i\) Worship of the Lord’s devotees is even more meritorious than worship of the Lord and it is rendered possible only through the Lord’s special grace. The influx of the Lord’s grace in this regard, is assured to the chanters of this decad.
 
 \(ii\) Lakṣmī, the unfailing intercessor between Man and God, unleashes her irresistible physical charms on the Lord, when, in His unbridled independence, He turns a deaf ear to her entreaty to admit unto His fold, the contrite supplicant at His door-step. By virtue of her privileged position, as His beloved spouse, she casts a bewitching spell on Him; enthralled by her ravishing beauty. He then carries out Her dictates in full. The lovely locks of the Divine Mother of extraordinary fragrance play a very important part indeed, in this context. Hence, the reference to the Divine Mother’s lovely locks, in this song.
-
-
 

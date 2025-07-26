@@ -4,9 +4,6 @@ title = "04 Var kata aruvi"
 +++
 
 
-
-
-
 ## 00 Intro9.4
 The Lord’s presence, in this dark land, alone and unaided, excited the reasonable fear of the Āḻvār that the worldlings would approach Him only to achieve their own selfish ends, with little or no care or love for Him. No doubt, the Lord allayed the Āḻvār’s fears, as we saw towards the end of the last decad. Still, the Lord has a lingering doubt that, in the exuberance of the Āḻvār’s love for Him, he might once again entertain similar fears about His safety and feel agitated. And so. He wanted to dispel the Āḻvār’s fears, with no chance whatever of their revival and revealed unto him His invulnerable abode in Tirucceṅkuṉṟūr Tirucciṟṟāṟu (in present Kerala State), out of bounds to the ungodly, attended by the mighty band of three thousand Vedic scholars, full of devotion. As a further precaution, the Lord also exhibited unto the Āḻvār, His wondrous deeds revealing His extra-ordinary strength and valour. With his fears thus eradicated *in toto*, the Āḻvār could whole-heartedly enjoy in this decad the Lord’s exquisite beauty.
 
@@ -22,9 +19,6 @@ The reassured Sugrīva, the erstwhile leader of the opposition in the debate tha
 > here.”
 
 While Śrī Rāma quelled the fears of Sugrīva and others in His camp by a mere utterance, as above, Lord Kṛṣṇa set at naught the grim fears of the on-lookers through actual demonstration of His immense strength, making mincemeat of the monstrous wrestlers, set up by Kaṃsa, in no time.
-
-
-
 
 ## 8.4.1
 **Tamil text and transliteration:**
@@ -62,9 +56,6 @@ The rest is self-explanatory and yet, it is interesting to note down here what �
 
 It was a frustrated and terribly frightened Kaṃsa, who had taken shelter in the first floor of his palace, who was pounced upon by young Kṛṣṇa who shot up to where the felon of an uncle was hiding. The Divine lad pulled Kaṃsa down, by the locks and broke him up like an earthen pot, still wet.
 
-
-
-
 ## 8.4.2
 **Tamil text and transliteration:**
 
@@ -89,9 +80,6 @@ And dissolution, the triple forms appropriate.
 **Notes:**
 
 In the preceding song, the Lord displayed His valour and now He reveals His nectarean sweetness. When the Āḻvār refers to Him, as ‘our Nectar’, instead of “My Nectar’, it only bespeaks his universal love and catholicity, his deep concern for us all, who have the great, good fortune to be connected with him. the Progenitor of the clan of ‘Prapannas’, vide also II-7. The Lord discharges the functions of creation and dissolution, standing within Brahmā and Rudra, as their Internal Controller, while He Himself looks after the function of ‘Protection’ of the whole Universe. Such a one stays permanently in Tirucciṟṟāru in His Iconic Form, (Unlike His Incarnate Forms as Rāma and Kṛṣṇa, of limited duration, in by-gone days), the safe haven of the Āḻvār and all those associated with him.
-
-
-
 
 ## 8.4.3
 **Tamil text and transliteration:**
@@ -118,9 +106,6 @@ Of Tiruccheṅkuṉṟūr Tirucciṟṟāṟu, the beaming jewel of the south.
 **Notes:**
 
 The Lord is the Master of the exalted Celestials and that proclaims His Supremacy; but then, He is also the Master of the Āḻvār, the lowliest of the lowly and this brings out His amazing simplicity. The Lord could enlist the Āḻvār as His vassal, by revealing unto him His great prowess as the Sustainer and Redeemer of the universe, during and after the deluge, respectively; the Āḻvār, therefore, seeks refuge at His feet and his mind cannot turn towards any one else.
-
-
-
 
 ## 8.4.4
 **Tamil text and transliteration:**
@@ -151,9 +136,6 @@ All the worlds over, who the bellowing ocean once churned.
 
 \(iii\) The Lord of such great prowess has manifested Himself in all His pristine splendour in the Iconic Form in which He stays at Tirucceṅkuṉṟūr Tirucciṟṟāṟu, so that every one could recognise Him as the Supreme Lord.
 
-
-
-
 ## 8.4.5
 **Tamil text and transliteration:**
 
@@ -180,9 +162,6 @@ Shoot from the ritual fire and darken the firmament.
 \(i\) While conceding the fact that the Lord, enshrined in Tirucciṟṟāṟu, also graces many other pilgrim centres, the Āḻvār says that his mind stands rivetted to this particular centre. This is like Hanumān having abjured even the Heaven and preferred to stay in this abode itself, saying, “Bhāvo nānyatra gacchati”.
 
 \(ii\) The rituals performed by the Brahmins of this sacred place were not for securing any selfish ends and thus ‘niṣkāmya’ done, not with an eye on results, but as an end in itself. Even if there was a motive behind, it could be only by way of warding off the evil forces, the ungodly, so that no harm shall befall the Deity. This is, by-no-means, objectionable, as Nampiḷḷai would say. Even the great Rāmānuja had recourse to special rituals, using spells and incantations invoking Lord Veṅkaṭeśvara of Holy Tirupati, for cutting out the seemingly interminable life of that felon, the cruel Cola king, Kṛmikaṇṭha (worm-necked) whose religious persecution had forced that Saint to stay away from Sri-raṅgam for eleven long years. After a lapse of two or three days, a stinking smell, like that of singed hair, emanated from the sacrificial fire, whereupon Saint Rāmānuja stopped the ceremony, guessing that the heretical Cōḷa must be dead. The same day, a doorkeeper of Cōḷa poked the king in the neck with a staff, causing a loathsome stinking sore, full of vermin and the King gave up his ghost.
-
-
-
 
 ## 8.4.6
 **Tamil text and transliteration:**
@@ -221,9 +200,6 @@ Which means:
 
 \(ii\) These Brahmins, immersed in devout contemplation of the Lord’s numerous auspicious traits, are ever alert to the impending danger, studiously safeguarding the Deity of their hearts. They are on a par with Sage Bharadvāja, who was apprehensive of the safety of Śrī Rāma and party in exile, during the interval between their first meeting with him and their subsequent return after vanquishing Rāvaṇa.
 
-
-
-
 ## 8.4.7
 **Tamil text and transliteration:**
 
@@ -249,9 +225,6 @@ Silken robes red, the crown red, the lovely jewels and gleaming weapons.
 
 The Āḻvār goes into the details of the Lord’s exquisite charm—the eyes, broad and bewitching, like the red lotus in fresh bloom, the stabilising smile, that is, the Lord’s smile from His coral lips which stabilises the attraction held out by His gracious looks unto the votaries, the lovely feet at which the votaries, enthralled by the Lord’s scintillating smiles, seek refuge, the hands that gather up and embrace those seeking refuge at His feet, the navel, the seat of all creation, the centre of eternal attraction and enjoyment, the winsome chest bearing the Divine Mother, the great intercessor, who could wean away even the ungodly and make them God-bent, the matching robes, the feardispelling crown proclaiming the Lord’s sovereignty and the beneficent weapons. With this intense enjoyment of the  
 Lord’s regal Form, inch by inch, could there at all be any room for any kind of fear in the Āḻvār’s mind?
-
-
-
 
 ## 8.4.8
 **Tamil text and transliteration:**
@@ -279,9 +252,6 @@ Him I hardly know how unto my heart’s fill I can laud.
 \(i\) The exaltation of the Devas results from their ability to grant the boons, sought by their respective votaries. Even these luminaries seek refuge in the Supreme Lord in times of dire need and danger. Did not the Lord save Prajāpati (Brahmā) from a calamity like the spoliation of the vedas and Paśupati (Śiva) from the sin of patricide and molestation by demons, besides conferring on them several other benefits? At the same time, the Lord is worse than deadly to the ungodly Asuras, who give endless trouble to Devas.
 
 \(ii\) The Āḻvār cannot resist the urge to praise the Lord of such great glory but, at the same time, he does not know how to laud Him, the precise manner in which he could sing the Lord’s praise. At best, he can only say, in general terms, that the Lord controls the triple functions of creation, sustentation and dissolution of the three worlds and so on.
-
-
-
 
 ## 8.4.9
 **Tamil text and transliteration:**
@@ -312,9 +282,6 @@ And things, one and all;’tis indeed no exaggeration.
 
 \(ii\) This song also highlights the manifold glory of the Brahmins residing in this holy centre, whose attainments place them on a par with the Lord Himself. The Āḻvār, finds it really heartening that there are a good many of them, attending on the Lord unremittingly, with great devotion.
 
-
-
-
 ## 8.4.10
 **Tamil text and transliteration:**
 
@@ -340,9 +307,6 @@ The triple-eyed Sire (Śiva) and (Brahmā) Nāṉmukaṉ.
 **Notes:**
 
 The Supreme Lord, Mahā Viṣṇu alone deserves the appellation, ‘Master’. His supremacy notwithstanding, He has made Himself visible and easily accessible to one and all, staying in the holy Tirucceṅkuṉṟūr Tirucciṟṟāṟu. The Āḻvār says, he has attained the Great Master, right here. The Lord is the one and only Giver, a liberal Donor, who exults in lavishing His bounty on all those who seek favours from Him.
-
-
-
 
 ## 8.4.11
 **Tamil text and transliteration:**
@@ -372,6 +336,4 @@ The mysterious cycle of birth and rebirth, no more to dread.
 \(i\) Release from family bondage, that is, end of the great saga of worldly life and attainment of the final bliss of eternal service unto the Lord in Heaven are the benefits of chanting this decad. Attainment of the heavenly bliss automatically results in the severance of worldly ties, like unto the prince, languishing in prison, being crowned as soon as the king dies, (so as to avoid the land going without a monarch even for a while), followed by the removal of his fetters.
 
 \(ii\) The Āḻvār grew apprehensive of the Lord’s safety because of His extra-ordinary sweetness, like unto honey, milk and cane-juice and this fear got dispelled by the recollection of the Lord’s unique prowess in sustaining all the worlds, during the deluge.
-
-
 

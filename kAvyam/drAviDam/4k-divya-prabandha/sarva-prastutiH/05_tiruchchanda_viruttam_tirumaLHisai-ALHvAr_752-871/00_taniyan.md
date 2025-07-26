@@ -62,7 +62,6 @@ title = "०० तरुच्चन्द प्पॊऴिल्"
 ४
 </details>
 
-
 ## ०२ उलहु मऴिशैयु
 
 <details open><summary>विश्वास-प्रस्तुतिः - ०२</summary>

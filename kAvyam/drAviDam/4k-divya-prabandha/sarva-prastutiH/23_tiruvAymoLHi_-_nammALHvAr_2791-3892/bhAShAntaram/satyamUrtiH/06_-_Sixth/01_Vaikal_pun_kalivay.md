@@ -4,16 +4,10 @@ title = "01 Vaikal pun kalivay"
 +++
 
 
-
-
-
 ## 00 Intro6.1
 We saw in the preceding centum from V-7 and onwards the Āḻvār seeking refuge in successive Pilgrim centres, at the feet of the Lord enshrined there. If the surrender at the feet of the Lord which should yield the result as a matter of course, did not meet with immediate response from the Lord, it was because He willed that the contemporary world as well as posterity should benefit through the Āḻvār’s scintillating hymns flowing from his sweet lips. It is indeed our great good fortune that the Āḻvār was not immediately lifted up to Heaven. In V-10, the Alvar prayed intensely for the acceleration of his union with the Lord and now he seeks out the Lord at Tiruvaṇvaṇṭūr, a pilgrim centre in Keralā, but is too feeble to reach that place. The next best he could do in such a forlorn state, was to acquaint the Lord with his critical condition through some one. The Āḻvār, once again, gets tran-formed as a Nāyakī and sends some birds and bees to convey her message to the Lord. The birds, with their pair of wings, typify the devout, endowed with *great knowledge* and *good conduct*, the efficient Preceptors, with a happy blending of these two essential requisites, for serving as an effective medium between Man and God.
 
 This technique of the Āḻvār sending messages to the Lord through birds, bees etc., has already been elaborated upon, vide preamble to 1-4. There are four decads, in the whole work, where such messages are sent, the other three being I-4, VI-8 and IX-7. Whereas the message in I-4 was sent to the Lord in His ‘Vyūha’ aspect at the Milky ocean, the seat of His creative activity, the present one is held to have been addressed to the Lord in His ‘Vibhava’ or Incarnate Forms. As the message is being sent to the Lord in His ‘Arca’ (Iconic) Form at Tiruvaṇvaṇṭūr, it might be questioned how the Āḻvār is stated to have sent emissaries to the Lord in His Incarnate Forms. The clue for this can be had from the tenth stanza of this decad, where the Āḻvār specifically mentions Śrī Rāma, stationed at that pilgrim centre. Further, the message in the last of the four decads, referred to above, namely, IX 7, is addressed to the Lord in His *Arca* (Iconic) Form and there is hardly any need for duplication in this regard. In 1-4, the Āḻvār invoked the Lord’s special trait of forgiveness, while, in this decad, the accent is on His pledge, the creed of extending protection to His devotees, seeking Him ardently, vide also aphorism 156 of ‘Ācārya Hṛdayaṃ’
-
-
-
 
 ## 6.1.1
 **Tamil text and transliteration:**
@@ -46,9 +40,6 @@ An Ācārya (Preceptor) of spotless purity in and out, who revels in God-enjoyme
 
 \(iii\) The Āḻvār, who had tasted the Lord’s condescending love and amazing simplicity during those blissful moments of union with Him, is now inclined to disdain Him for His aloofness, the predominant trait of His transcendent (Paratva) aspect. This is reflected in her warning to the birds to approach the Lord with folded hands, with due regard to His might and majesty.
 
-
-
-
 ## 6.1.2
 **Tamil text and transliteration:**
 
@@ -76,9 +67,6 @@ Amid vedic chantings and rituals with a flourish of trumpets loud.
 
 \(ii\) It is noteworthy that the Nāyakī advises her emissary to prostrate at the feet of the Lord. This could either reflect her attitude, already commented upon, in para (iii) of the notes below the preceding song or stress the correct code of conduct. It is no use paying obeisance without actually prostrating before the worship-worthy. The great Nañcīyar used to say: “Whenever I saw a devotee of Viṣṇu and I fell at his feet with my head touching them, it was only then, I felt as if I ate my fill and all my hunger vanished”.
 
-
-
-
 ## 6.1.3
 **Tamil text and transliteration:**
 
@@ -102,9 +90,6 @@ The abode of riches in plenty, how in misery this vassal fades.
 ### Note
 
 It is the natural habit of the birds to flock together and go hither and thither, in search of food but the God-infatuated Parāṅkuśa Nāyakī thinks that they are also moving about in search of God, out of consideration for her. c.f. 11-1. She tells the birds that the Lord whom they are after, resides in Tiruvaṇvaṇṭūr and advises them to go and meet Him there and, after making a low obeisance to Him, reverently report her miserable condition also. The birds ask the Nāyakī how the Lord could stay at that centre, forgetting all about her and the Nāyakī clarifies at once that it is the immense wealth of the place that has kept Him engrossed with it. whereas for her there is no greater wealth than her Lord, the ‘Śṛya śṛyaṃ’.
-
-
-
 
 ## 6.1.4
 **Tamil text and transliteration:**
@@ -132,9 +117,6 @@ Addressing the swans who always move in strength and have never, therefore, know
 
 The swans, immersed in joy and flocking together, denote those in incessant communion with the Lord, speaking the same language (*i.e*.) the language of rapturous devotion, as the Āḻvārs did.
 
-
-
-
 ## 6.1.5
 **Tamil text and transliteration:**
 
@@ -161,9 +143,6 @@ Conches converge and worship Him, on my behalf also, with folded hands.
 
 \(ii\) The Nāyakī’s request to the swans to worship the Lord on her behalf as well and sing the song of benediction unto Him, sets the pace for those who are not fortunate enough to visit the various pilgrim centres but keenly miss the bliss. These persons request the fortunate visitors to those places to worship on their behalf also. It is not exactly worship by proxy but the expression of one’s yearning for worship.
 
-
-
-
 ## 6.1.6
 **Tamil text and transliteration:**
 
@@ -187,9 +166,6 @@ In marshy lands and bring unto me heartening news.
 **Note**
 
 *Up the laurel trees*: The laurel (Puṉṉai in Tamil) tree on the west bank of the sacred tank within the precincts of the Temple of Lord Raṅganātha has come in for special mention in Śloka 49 of the first centum of ‘Śrī Raṅgarāja Stavaṃ’ of Śrī Parāśara Bhaṭṭar. It is said to have imbibed the fragrance of Tiruvāymoḻi. This goes to show that generations of devotees have sat under the shade of this ancient tree and reverently chanted Tiruvāymoḻi and delved into its inner meanings, discoursing on them. In this process, all the aroma emanating from those recitals and discourses attached itself to the tree, providing it first class nourishment too. It is very likely that the sweet-voiced birds (Koels), resting on the laurel tree, refer to these very devotees.
-
-
-
 
 ## 6.1.7
 **Tamil text and transliteration:**
@@ -216,9 +192,6 @@ And the conch ins parable, spotting Him well from these clues.
 
 The parrot signifies the Preceptors, true and steadfast, who faithfully pass on the learning gathered by them from their masters, without deviation or distortion. The parrot is known to repeat just what it hears. The parrot in question is advised by the Nāyakī to somehow reach the intended destination turning a blind eye to the enchanting scenery *en route*, lest it should succumb to the way-side attractions. Even at that end, the emissary shall, for her sake, submit to indignity, if any, heaped on it, such as caning etc., by way of denying it access to the Sovereign Lord. By rendering service to the Nāyakī, the emissary will be the first beneficiary the immediate recipient of the Lord’s favours, much ahead of the Nāyakī herself, even as Hanumān, on his return from his pioneering visit to Laṅkā, got himself locked in Lord Rāma’s sweet embrace (paṛṣvaṅgo Hanūmataḥ), a month ahead of Sītā’s reunion with the Lord.
 
-
-
-
 ## 6.1.8
 **Tamil text and transliteration:**
 
@@ -243,9 +216,6 @@ And about Him come and tell me a nice word.
 ### Note
 
 Unless the emissary is a keen observer, he can’t be an effective messenger. The Nāyakī wants the little lovely bird to have a close look at the Lord in Tiruvaṇvaṇṭūr in all details and narrate to her what the little one saw. This is one way of the God-lover sustaining herself.
-
-
-
 
 ## 6.1.9
 **Tamil text and transliteration:**
@@ -278,9 +248,6 @@ When the Lord is alone with His consort, all the attendants having dispersed aft
 
 Getting hold of the Lord’s feet is the surest way of evoking
 
-
-
-
 ## 6.1.10
 **Tamil text and transliteration:**
 
@@ -305,9 +272,6 @@ You do resort and say, here languishes one of His wards.
 ### Note
 
 The Nāyakī has all along been commissioning different birds to convey her message to the Lord, but now she reverently approaches the bees, even as Śrī Rāma chose Hanumān for the special assignment of handing over His ring to Sītā. The Nāyakī requests the bees to tell Śrī Rāma that He should not rest on His oars with an air of complacence that He has already done everything for Sītā and through her, for her tribe, as a whole; actually, she (Nāyakī) is languishing here, at this end, although she is also one of His many wards.
-
-
-
 
 ## 6.1.11
 **Tamil text and transliteration:**
@@ -334,6 +298,4 @@ Will unto the Lord be dear like the lovers unto their beloveds.
 ### Note
 
 The chanters of this decad will be coveted by the Lord and His devotees, the Apsarās in Heaven.
-
-
 

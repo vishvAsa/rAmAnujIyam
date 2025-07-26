@@ -4,16 +4,10 @@ title = "01 Tala tamarai"
 +++
 
 
-
-
-
 ## 00 Intro10.1
 The declaration, made by the Saint in the preceding decad, that the Lord is the great Benefactor Who would grant ‘Mokṣa’ (eternal emancipation) when this body of ours falls off, is with reference to the clear assurance given to him by the Lord, to this effect. What looked earlier like an indefinite prospect has now acquired a concrete shape, time-bound, the farthest limit being the fall of the body at the end of the current span of life. Well, that he was fast nearing the end of his soul’s journey, the Āḻvār was quite conscious of. His body had worn out to an extent that gave clear indication of its falling off very soon and the Āḻvār knew quite well that the day of his promised ascent to Heaven was near at hand. So then, the Āḻvār set about preparing for the final lap of his journey to the Celestium and sought the good offices of the Lord, in His worshippable form at Tirumōkūr, to escort him through. Finding the Lord at Tirumōkūr, as the super-abundant Benefactor, with profound knowledge and prowess, capable of steering through all obstacles, the Āḻvār got hold of Him as the unfailing escort, during his onward march to yonder Heaven.
 
 But then, it might be questioned whether, during the soul’s ascent to Heaven, the Lord’s good offices should be specially requisitioned as above, seeing that the ‘Arcis’ and other functionaries do conduct the Heaven-bound souls and take charge of them at the various stages of the journey, in all their details. The answer to this poser can, however, be found in the Lord’s own declaration in the carama śloka, delivered during His advent as Varāha Nāyaṉār (The Great Boar)—“Ahaṃ smarāmi Mad bhaktaṃ *nayāmi* paramāṃ gatim”. The word in italics reveals that the Lord Himself conducts the liberated souls to the highest abode, namely, Heaven. This “Mārga Bandhu”, the Āḻvār could spot out in the Lord at Tirumōkūr (near Maturai, in Tamil Nāḍu) and he, therefore, extols Him, in this decad. Apart from the Lord’s attainments, His bewitching beauty is enough to make the Āḻvār follow Him, enjoying His exquisite charm, all along.
-
-
-
 
 ## 10.1.1
 **Tamil text and transliteration:**
@@ -46,9 +40,6 @@ In Tirumōkūr with strong-petalled lotus ponds and rich paddy fields.
 
 \(iv\) Even in His Area or Iconic manifestation at Tirumōkūr, the Lord’s sinewy shoulders proclaim the valorous deeds performed by them during His Avatāras (Incarnations), like unto the ear lobes, though not decorated with earrings at present, telling the tale of their erstwhile decoration.
 
-
-
-
 ## 10.1.2
 **Tamil text and transliteration:**
 
@@ -78,9 +69,6 @@ In Tirumōkūr, the abode of many a Vedic Scholar, sweet and sound.
 
 \(iii\) When one starts lauding the Lord, enthralled by His exquisite charm and His sinewy shoulders, sporting the lovely garland, His names afford ample scope for the enjoyment of His great glory, from various angles. Further, it makes one repent for one’s failure to recite the Lord’s names bespeaking His great glory, in the days gone by.
 
-
-
-
 ## 10.1.3
 **Tamil text and transliteration:**
 
@@ -107,9 +95,6 @@ That refuge they had none but Him.
 **Notes:**
 
 “The Lord at Tirumōkūr is the Universal Protector and we, His vassals, are keen on getting His protection. We will, therefore, do well to get near the holy city, seek shelter at the feet of the Lord, as an end in itself, and be rid of all of our miseries”, says the Āḻvār. Herein lies the difference between the Āḻvār’s method of approach and that of Brahmā and other Devas who sought the Lord at the Milk-ocean, to secure their personal ends and the demoniac Kālayavanan, Jarāsanthan etc. who went to Mathura, bent upon evil.
-
-
-
 
 ## 10.1.4
 **Tamil text and transliteration:**
@@ -140,9 +125,6 @@ And our ills and evils cure.”
 
 \(ii\) The sages and Celestials approach the Lord, whenever they are brought up against difficulties, and seek relief through Him; the Āḻvār too seeks succour from the Lord and yet, he stands on a different footing from others, in that he seeks not personal gains but eternal service unto the Lord, in keeping with his essential nature of being His exclusive vassal. The Sages of Daṇḍakāraṇya exhibited their emaciated bodies, tormented by the Rākṣasas stalking the forest, to Śrī Rāma and sought from Him. mere restoration of their bodily comforts. In dire contrast to this, Saint Nammāḻvār prayed unto the Lord, right in the opening song of ‘Tiruviruttam’, the first of his four hymnals, to cut out altogether this bedevilled body of hit, full of dirt and disorderly conduct.
 
-
-
-
 ## 10.1.5
 **Tamil text and transliteration:**
 
@@ -167,9 +149,6 @@ Our Lord, Who spanned the three worlds of the Universe vast.
 **Notes:**
 
 The Lord at Tirumōkūr having attracted the Āḻvār by revealing His glory, as the first cause of all things and beings, and His exquisite Form, the Āḻvār wants to share this extra-ordinary bliss with those around. He, therefore, invites them all to join him, so that they may all go round the temple at Tirumōkūr, dancing in ecstasy.
-
-
-
 
 ## 10.1.6
 **Tamil text and transliteration:**
@@ -198,9 +177,6 @@ Unto us that extol Him and the Devas, He is sweet indeed.
 \(i\) No doubt, Śiva is famous as the great dancer (Naṭarājaṉ), full of thrills, but Lord Rāma’s very gait is said to have been entrancing—c.f. ‘Agrataḥ *prayayau* Rāmaḥ’ (Vālmīki Rāmāyaṇa) and equally majestic and enthralling was Lord Kṛṣṇa’s gait.
 
 \(ii\) While the Lord is deadly unto the Asuras who inflict miseries on the devout, He is very dear to His devotees, all alike, making no distinction between the ‘Nitya Sūrīs’ (Eternal Heroes) and the votary just admitted unto His fold. Could there be a greater friend and benefactor than the Lord Who keeps remembering His devotees, all the time, including those last moments of their lives when they remain unconscious and are no better than a piece of stone or log of wood, and conducts them to the highest state (Heaven)?
-
-
-
 
 ## 10.1.7
 **Tamil text and transliteration:**
@@ -231,9 +207,6 @@ Other than this hallowed city, haven have we none.
 
 \(ii\) If we circumambulated the holy centre, all our miseries, including our anxiety as to who would guide us in our ascent to Heaven, would vanish in a trice.
 
-
-
-
 ## 10.1.8
 **Tamil text and transliteration:**
 
@@ -263,9 +236,6 @@ feet, looking like the red lotus in fresh bloom. Śrī Rāma, the valiant son of
 
 \(ii\) If the Lord earned a thousand names by. virtue of His benevolence, so did the Rākṣasas too, by dint of their cruelty, such as “Yajña Śatru”, “Brahma Śatru” etc.
 
-
-
-
 ## 10.1.9
 **Tamil text and transliteration:**
 
@@ -292,9 +262,6 @@ Of feet are like unto a tank, cool and clear.
 
 The Āḻvār rejoices that Tirumōkūr, the safe haven, is near at hand. It is a lovely place with a beautiful setting and there dwells the Lord Whose pair of feet are like unto a cool tank, lovely and limpid, Whose eyes are like the red lotus in fresh bloom, and lips are coral red, Whose sinewy shoulders bespeak His enormous strength that can smash to smithereens the Rākṣasa hordes, antagonising Him.
 
-
-
-
 ## 10.1.10
 **Tamil text and transliteration:**
 
@@ -319,9 +286,6 @@ Seeing in Him, the Refuge, safe and sound.
 **Notes:**
 
 The Āḻvār invites those that are inclined to listen to him to utter the name of Tirumōkūr and adore that holy centre where stays the great Benefactor, ever ready to extend protection to His devotees, assuming the appropriate Form, at His sweet volition. Well, this is the place where even the Devas come and take refuge, frightened by the formidable Asuras, hell-bent to land them in miseries.
-
-
-
 
 ## 10.1.11
 **Tamil text and transliteration:**
@@ -352,6 +316,4 @@ Lord Raṅganātha, the cloud-hued Lord enshrined in the walled city of Sriranga
 \(ii\) When Lord Kṛṣṇa did the pot-dancing, He exhorted the people around, as follows:
 
 “May those of You that admire my valorous deeds, sing my glory as lustily as your gift of speech can cope with.” This goes to show that the Lord’s deeds were exhilarating unto Him and others alike. Such a Lord is lauded by the Āḻvār through appropriate songs, set in choice diction.
-
-
 
