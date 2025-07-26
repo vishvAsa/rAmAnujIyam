@@ -670,6 +670,10 @@ Así que siempre está **lleno** de tristeza o dolor.
 भक्तिः, दुःखम्, उल्लासः
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+प्रसिद्धपाठे नास्ति - भाग. १०-८८-०८ इत्यस्मात् परं क्वचित् पठ्यतय् इति श्रूयते। 
+</details>
 
 <details><summary>English</summary>
 
