@@ -142,5 +142,4 @@ The worship and adulation of Pavai.
 They are but a garland to him,  
 From her who wore them first,  
 Before presenting them to Him.  
-
 </details>
