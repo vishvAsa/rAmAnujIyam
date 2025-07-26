@@ -267,23 +267,473 @@ y **produce** el fruto de su propia **actuación**.
 ऎऩ्ऱु ‘‘मा शुचः’’ ऎऩ्गिऱ वाक्यत्तुक्क् अभिप्रायम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२५५]]
+प्रारब्ध-कर्माण्य् अप्य् अभिभूय  
+स्व-फल-प्रदाने समर्थां प्रपत्तिम् अनुष्ठितवतो  
+
+> विद्यान्तर-न्यायेनोत्तर-पूर्वाघानि,  
+एतद्-विद्यां प्रत्य्-असाधारण-सामर्थ्येन प्रारब्ध-कर्म-फल-विषये जाताया आर्तेस् सीमाम् अनुरुध्य  
+क्षणान्तर-दिवसान्तर-जन्मान्तरानुवृत्तिश् च नश्येयुर्  
+
+इति "मा शुचः" इति वाक्यस्य अभिप्रायः॥
+
+</details>
+
+
+<details><summary>English</summary>
+
+As has been stated in regard to other vidyās (forms of meditation: upāsana),  
+that the sins committed before and those committed after upāsana will both be destroyed,  
+prapatti, which is superior to them as a vidyā destroys (even) the suffering due to karma which has begun to operate  
+so that it may not continue the next instant, the next day or the next life in accordance with the degree or intensity of the man's impatience.  
+This is the real purport of the words, "Do not despair or grieve", mā suchah (in the carama śloka).
+</details>
+
+<details><summary>Español</summary>
+
+Como se **ha dicho** con respecto a otros Vidyās (formas de meditación: upāsana),  
+que los pecados **cometidos** antes y los **cometidos** después de upāsana **serán destruidos**,  
+Prapatti, que **es** superior a ellos como un Vidyā **destruye** (incluso) el **sufrimiento** debido al karma que **ha comenzado** a **operar**  
+para que **no continúe** el próximo instante, al día siguiente o la próxima vida de acuerdo con el grado o la intensidad de la impaciencia del hombre.  
+Este **es** el verdadero significado de las palabras, "**no desesperar ni llorar**", "Mā Suchah" (en el Carama Śloka).
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 विद्यान्तरन्यायत्ताले उत्तरपूर्वाघङ्गळुम् इव्विद्यैक्कुत् तऩ्ऩेऱ्ऱमाऩ सामर्थ्यत्ताले प्रारब्धकर्मफलत्तैप् पऱ्ऱ उण्डाऩवार्तियिले यॆल्लैक्कीडाग क्षणान्तरदिवसान्तरजन्मान्तराद्यनुवृत्तियुङ् गऴियक्कडवदॆऩ्ऱु ‘‘मा शुचः’’ ऎऩ्गिऱ वाक्यत्तुक्कभिप्रायम्। 
 </details>
 
 
-As has been stated in regard to other vidyās (forms of meditation: upāsana), that the sins committed before and those committed after upāsana will both be destroyed, prapatti, which is superior to them as a vidyā destroys (even) the suffering due to karma  which has begun to operate so that it may not continue the next instant, the next day or the next life in accordance with the degree or intensity of the man's impatience. This is the real purport of the words, "Do not despair or grieve", mā suchah (in the carama śloka).
+## न सर्व-दुःख-निवृत्तिः, भाग्यातिशयः
+### शङ्का
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-THE PURPOSE OF IŚVARA IN MAKING
+THE PURPOSE OF IŚVARA IN MAKING THE PRAPANNA SUFFER:
+</details>
 
-THE PRAPANNA SUFFER:
+<details><summary>मूलम्</summary>
 
-(In this connection) the following question may be asked by some who minimise the power of prapatti :-- "If this is the real meaning, should not the sufferings which are seen in the actual life of a prapanna as the result of prārabdha karma  and the performance of actions which would result in further suffering-should not these sufferings cease (at once)? If it is said that the Lord will grant the cessation of these (sufferings) only if He is prayed to, for it, by the sufferer, the question arises, "Why does not Iśvara, who is the well-wisher of all (living beings), grant, of His own accord, the cessation of these connected sufferings also, in the same way as prapatti grants incidentally such things as the ability to purify those who are in one's society. We do not see Iśvara doing this. Therefore what is said (in the carama śloka) about all gricf disappearing should be taken as not literally true, but as (exaggerated) praise of the potency of prapatti".
+El propósito de Iśvara al **hacer** que la Prapanna **sufra**:
+</details>
 
-The answer to this question is as follows:- "Iśvara is always inclined to bestow His grace. He is eager to confer mokṣa on those who seek His protection even at (the time of) the beginning of uttering the sentence which states prapatti. But owing to the man's desire, the Lord agrees to keep him here (in this world), for some time longer. If he enjoys the inferior pleasures of life without any pain (or sorrow or suffering), his desire will never disappear. Nor will the assurance that the realisation of the Lord is truly enjoyable grow in him. Therefore as has been said in the following ślokas:
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"He to whom I want to show favour - his wealth I take away from him. Then his relatives forsake him. So he is ever full of sorrow or pain. If the man who suffers in this way continues to cling to me, I show him that grace which even the gods cannot obtain"; (as has been said in these ślokas), Iśvara avails Himself of those karmas which have begun to yield their fruit (prārabdha) and which are the cause of these sufferings and punishes these men of hard hearts in order to correct them as a father and the like would (do in the case of such as their sons) with a whip at hand. It is therefore proper to consider such punishments as special favours.
+> इव्व्-अर्थम् तत्त्वम् आगिल्  
+प्रारब्ध-कर्म-विशेषम् आय्क् कॊण्डु वरुगिऱ दुःखङ्गळुम्  
+दुःख-कारणङ्गळ् आऩ कर्मङ्गळिऩ्-उडैय आर्जनमुङ् गऴिय वेण्डावो; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अस्यार्थस्य तात्त्विकत्वे,  
+प्रारब्ध-कर्म-विशेष-फल-रूपेण जायमानानां दुःखानां,  दुःख-कारणी-भूत-कर्मार्जनस्य च निवृत्त्या भवितव्यं किल॥  
+</details>
+
+
+<details><summary>English</summary>
+
+> "If this is the real meaning,  
+should not the sufferings which are seen in the actual life of a prapanna as the result of prārabdha karma  
+and the performance of actions which would result in further suffering-  
+should not these sufferings cease (at once)? 
+</details>
+
+<details><summary>Español</summary>
+
+> "Si este **es** el significado real,  
+**¿No deberían** los **sufrimientos** que **se ven** en la vida real de una Prapanna como **resultado** de Prārabdha Karma
+y el **desempeño** de acciones que **resultarían** en un mayor sufrimiento-
+**No deberían cesar** estos **sufrimientos** (a la vez)?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थम् तत्त्वमागिल् प्रारब्धकर्मविशेषमाय्क् कॊण्डु वरुगिऱ दुःखङ्गळुम् दुःखकारणङ्गळाऩ कर्मङ्गळिऩुडैय आर्जनमुङ् गऴियवेण्डावो; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>> आर्तऩ् आय् पुरुषऩ् अर्थिक्कक्  
++++(भगवान्)+++ कॊडुक्क वेणुम्  
+> 
+> ऎऩ्ऩिल्  
+आनुषङ्गिकम् आऩ  
+पङ्क्ति-पावनत्वादिगळैप् पोले अनभिसंहितङ्गळैयुङ् कूड  
+हितैषिय् आऩ ईश्वरऩ्  
+ताऩे कॊडुक्कत्  
+तट्ट् ऎऩ्?; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > आर्तेन सता पुरुषेणार्थितत्वे एव दातव्यम् 
+>
+> इति चेत् --- आनुषङ्गिकानां  
+पङ्क्ति-पावनत्वादिनाम् इव अनभिसंहितानाम् अपि  
+हितैषिणेश्वरेण दाने कः प्रतिबन्धः? 
+</details>
+
+<details><summary>English</summary>
+
+> If it is said that  
+> 
+> > the Lord will grant the cessation of these (sufferings)  
+only if He is prayed to for it by the sufferer,  
+> 
+> the question arises,  
+>
+> > "Why does not Iśvara, who is the well-wisher of all (living beings),   
+grant, of His own accord,  
+~~the cessation of these connected sufferings also,~~  
+~~in the same way as prapatti grants,~~ incidentally,  
+such things as the ability to purify those who are in one's society? 
+
+</details>
+
+<details><summary>Español</summary>
+
+> Si **se dice** que
+>
+>> El Señor **otorgará** el **cese** de estos (sufrimientos)  
+Solo si el sufrente **lo reza**,
+>
+> **surge** la **pregunta**,
+>
+>> "¿Por qué no iśvara, que **es** el bien-amado de todos los (seres vivos),  
+**da**, por su propia cuenta,  
+por cierto,  
+Cosas como la capacidad de **purificar** a los que **están** en la sociedad de uno?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आर्तऩाय् पुरुषऩर्थिक्कक् कॊडुक्क वेणुमॆऩ्ऩिल् आनुषङ्गिकमाऩ पङ्क्तिपावनत्वादिगळैप्पोले अनभिसंहितङ्गळैयुङ्गूड हितैषियाऩ ईश्वरऩ् ताऩे कॊडुक्कत् तट्टॆऩ्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्पडि सॆय्यक् काणामैयाल्  
+> 
+> > शोक-विषयम् आऩ अंशम् ऎल्लाम् निश्शेषमाग प्रपत्तियाले कऴियुम् 
+>
+> ऎऩ्ऱव् इडम् +++(चरम-श्लोकादौ)+++  
+प्रपत्ति-प्रभावातिशयत्तैप् पऱ्ऱ स्तुति पण्णिऩ बडिय्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवं-करणस्यादर्शनात्  
+>
+> > शोक-विषया अंशाः सर्वे ऽपि निःशेषं प्रपत्त्या नश्येयुर्  
+>
+> इत्य् एतत् प्रपत्ति-प्रभावातिशय-विषयकं स्तुति-मात्रम् 
+</details>
+
+
+<details><summary>English</summary>
+
+> We do not see Iśvara doing this.  
+Therefore what is said (in the carama śloka) about all grief disappearing  
+should be taken as not literally true,  
+but as (exaggerated) praise of the potency of prapatti".
+
+</details>
+
+<details><summary>Español</summary>
+
+> **No vemos** a Iśvara **haciendo** esto.  
+Por lo tanto, lo que **se dice** (en el Carama Śloka) sobre todo el dolor **desapareciendo**  
+**debe tomarse** como no literalmente cierto,  
+pero como elogios (exagerados) de la potencia de Prapatti ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सॆय्यक् काणामैयाल् शोकविषयमाऩ अंशमॆल्लाम् निश्शेषमाग प्रपत्तियाले कऴियुमॆऩ्ऱविडम् प्रपत्तिप्रभावातिशयत्तैप्पऱ्ऱ स्तुतिपण्णिऩबडिय्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु सिलर्  
+इदिऩ् प्रभावत्तै वरैय् इट्टुप् पार्प्पर्गळ्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इति केचिद् अस्याः प्रभावं सावधिकं पश्यन्ति।
+</details>
+
+
+<details><summary>English</summary>
+
+(In this connection) the ~~following~~ above question may be asked by some who minimise the power of prapatti 
+</details>
+
+<details><summary>Español</summary>
+
+(A este respecto) Algunos que **minimizan** el poder de Prapatti  
+**pueden hacer** la pregunta anterior.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु सिलर् इदिऩ् प्रभावत्तै वरैयिट्टुप्पार्प्पर्गळ्; 
+</details>
+
+### लोके-स्थापनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्क् उत्तरम्;  
+अनुग्रह-शीलऩ् आय्  
+आश्रयिप्पार्क्कु प्रपत्ति-वाक्योच्चारण-प्रारम्भत्तिले  
+कडुग मोक्षम् कॊडुक्क त्वरिक्किऱ ईश्वरऩ्  
+इवऩ्-उडैय नसैयाले+++(=लोभतः)+++  
+सिऱिदु कालम् इङ्गे वैक्क 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तयोर् उत्तरं यथा ---  
+अनुग्रह-शीलः, आश्रितानां प्रपत्ति-वाक्योच्चारण-प्रारम्भे  
+झटिति मोक्ष-प्रदानार्थं त्वरमाण ईश्वरः  
+एतदीयेच्छानुसारेण किञ्चित् कालम् अत्र स्थापयितुम् इच्छति। 
+</details>
+
+
+<details><summary>English</summary>
+
+The answer to this question is as follows:-  
+Iśvara is always inclined to bestow His grace.  
+He is eager to confer mokṣa on those who seek His protection  
+even at (the time of) the beginning of uttering the sentence which states prapatti.  
+But owing to the man's desire,  
+the Lord agrees to keep him here (in this world), for some time longer. 
+</details>
+
+<details><summary>Español</summary>
+
+La **respuesta** a esta pregunta **es** la siguiente:-  
+Iśvara siempre **está inclinado** a **otorgar** su gracia.  
+Está ansioso por **conferir** a Mokṣa a quienes **buscan** su **protección**.  
+Incluso en (el momento de) el **comienzo** de **pronunciar** la **oración** que **establece** Prapatti.  
+Pero debido al deseo del hombre,  
+El Señor **acepta mantenerlo** aquí (en este mundo), durante algún tiempo más.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदुक्कुत्तरम्; अनुग्रहशीलऩाय् आश्रयिप्पार्क्कु प्रपत्तिवाक्योच्चारणप्रारंभत्तिले कडुग मोक्षम् कॊडुक्कत्वरिक्किऱ ईश्वरऩ् इवऩुडैय नसैयाले सिऱिदु कालमिङ्गे वैक्क 
+</details>
+
+### दुःख-दानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इसैन्दव् अळविले  
+इव्व्-इडत्तिल्-उळ्ळ सिऱ्ऱ्-इऩ्बङ्गळै  
+दुःख-प्रसङ्ग-रहितम् आग अनुभविप्पिक्कुम् आगिल्  
+इवऩुक्क् इन्-नसैय् ऒरुक् कालुम् माळादु+++(=न नश्यति)+++।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सत्य् एवम्,  
+अत्रत्यानि क्षुद्र-सुखानि दुःख-प्रसङ्ग-रहितान्य् अनुभावयेच् चेत्,  
+अस्येयम् आशा कदाचिद् अपि नोपरमेत;  
+</details>
+
+
+<details><summary>English</summary>
+
+If he enjoys the inferior pleasures of life without any pain (or sorrow or suffering),  
+his desire will never disappear. 
+</details>
+
+<details><summary>Español</summary>
+
+Si **disfruta** de los placeres inferiores de la vida sin ningún dolor (o tristeza o sufrimiento),  
+Su deseo **nunca desaparecerá**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इसैन्द वळविले इव्विडत्तिलुळ्ळ सिऱ्ऱिऩ्बङ्गळै दुःखप्रसङ्गरहितमाग अनुभविप्पिक्कुमागिल् इवऩुक्किन्नसै यॊरुक्कालुम् माळादु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवद्-अनुभवत्तिल् भोग्यता-बुद्धियुम् कॊऴुन्दु+++(=पल्लवं)+++ विट्टु वारादु+++(=न विस्तृणाति)+++। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवद्-अनुभवे भोग्यता-बुद्धिर् अपि पल्लविता न स्यात्।
+</details>
+
+
+<details><summary>English</summary>
+
+Nor will the assurance that  
+"the realisation of the Lord" is truly enjoyable  
+grow in him. 
+</details>
+
+<details><summary>Español</summary>
+
+**Tampoco crece** en él la seguridad de que  
+"la **realización** del Señor" **sea** realmente agradable.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवदनुभवत्तिल् भोग्यताबुद्धियुम् कॊऴुन्दुविट्टु वारादु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् 
+
+> ३‘‘यस्यानुग्रहम् इच्छामि  
+धनं तस्य हराम्य् अहम् ।  
+बान्धवैश् च वियोगेन  
+सदा भवति दुःखितः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः
+
+> ३‘‘यस्यानुग्रहम् इच्छामि  
+धनं तस्य हराम्य् अहम् ।  
+बान्धवैश् च वियोगेन  
+सदा भवति दुःखितः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+Therefore as has been said in the following ślokas:
+
+> "He to whom I want to show favour -  
+his wealth I take away from him.  
+Then his relatives forsake him.  
+So he is ever full of sorrow or pain. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, como **se ha dicho** en los **siguientes** Ślokas:
+
+> "El que **quiero mostrar** el favor -  
+Su riqueza **le quito**.  
+Entonces sus familiares **lo abandonan**.  
+Así que siempre está **lleno** de tristeza o dolor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ३‘‘यस्यानुग्रहमिच्छामि धनं तस्य हराम्यहम् । बान्धवैश्च वियोगेन सदा भवति दुःखितः ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तेन दुःखेन संतप्तो  
+यदि मां **न परित्यजेत्** ।  
+तं **प्रसादं करिष्यामि**  
+यस् सुरैर् अपि दुर्लभः॥’’  
+(भागवतम्)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तेन दुःखेन संतप्तो  
+यदि मां **न परित्यजेत्** ।  
+तं **प्रसादं करिष्यामि**  
+यस् सुरैर् अपि दुर्लभः॥’’  
+(भागवतम्)
+
+ऎऩ्गिऱबडिगळिले 
+</details>
+
+<details><summary>विषयः</summary>
+
+भक्तिः, दुःखम्, उल्लासः
+</details>
+
+
+<details><summary>English</summary>
+
+> If the man who suffers in this way continues to cling to me,  
+I show him that grace  
+which even the gods cannot obtain"; 
+
+(as has been said in these ślokas), 
+</details>
+
+<details><summary>Español</summary>
+
+> Si el hombre que **sufre** de esta manera continúa **aferrado** a mí,  
+**Le muestro** esa gracia  
+que incluso los dioses **no pueden obtener** ";
+
+(como **se ha dicho** en estos Ślokas),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तेन दुःखेन संतप्तो यदि मां न परित्यजेत् । तं प्रसादं करिष्यामि यस्सुरैरपि दुर्लभः’’(भागवतम्) ऎऩ्गिऱबडिगळिले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दुःखादिगळुक्कुक् कारणम् आऩ प्रारब्ध-कर्म-विशेषत्तै  
+सन्निहितम् आऩ कशादिगळैप् पोले  
+तुणैय् आगक् कॊण्डु पित्रादिगळैप् पोले  
+शिक्षकऩाऩ ईश्वरऩ् +++(5)+++  
+
+> सिल कठिन-प्रकृतिगळुक्कुप् पण्णुगिऱ अनुग्रह-विशेषम् इद् 
+
+ऎऩ्ऱ् अनुसन्धिक्कै उचितम्।  
+</details>
+
+<details><summary>English</summary>
+
+Iśvara avails Himself of those karmas  
+which have begun to yield their fruit (prārabdha)  
+and which are the cause of these sufferings and punishes these men of hard hearts  
+in order to correct them as a father and the like would (do in the case of such as their sons) with a whip at hand.  
+It is therefore proper to consider such punishments as special favours.
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara **se aprovecha** de esos karmas  
+que **han comenzado** a **producir** su fruto (Prārabdha)  
+y cuáles **son** la causa de estos **sufrimientos** y **castigan** a estos hombres de corazones duros  
+Para **corregirlos** como padre y similares (**lo haría** en el caso de sus hijos) con un látigo a mano.  
+Por lo tanto, **es apropiado considerar** tales **castigos** como favores especiales.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दुःखादिगळुक्कुक् कारणमाऩ प्रारब्धकर्मविशेषत्तै सन्निहितमाऩ कशादिगळैप्पोले तुणैयागक्कॊण्डु पित्रादिगळैप्पोले शिक्षकऩाऩ ईश्वरऩ् सिल कठिनप्रकृतिकळुक्कुप्पण्णुगिऱ अनुग्रहविशेषमिदॆऩ्ऱनुसन्धिक्कै उचितम्।  
+</details>
+
+
+
+
 
 When the king asked whether a disease could be (helpful), Bhattar replied that even a disease could be a teacher for us. Sufferings are teachers to the prapanna, because, if his term of life is already unalterably fixed, they would create repentance in the mind and if his term of life could be extended, they would teach him not to desire extension of life. This is well-known in such instances as Kurathalvan[^77]
 
