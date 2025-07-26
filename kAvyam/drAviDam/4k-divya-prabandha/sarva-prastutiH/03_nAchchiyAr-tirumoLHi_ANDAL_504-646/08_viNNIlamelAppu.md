@@ -30,6 +30,16 @@ title = "०८ विण्णीलमेलाप्पु विरित्
 इदुदमक्कोर् पॆरुमैये? १
 </details>
 
+<details><summary>Hart - DP_५७७</summary>
+
+O clouds, you look like a blue blanket covering the sky:  
+Thirumāl, of Venkaṭam hill where clear water flows  
+has not come to see me  
+and the tears from my eyes fall on my breasts:  
+I am tired and I am only a woman:  
+Is it right that he should destroy my pride like this?
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५७७ - ०१</summary>
 
 विण्=आकाशद, नीलम्=नीलिबण्णद, मेलाप्पु=मेलुकट्टन्नु, विरित्ताल् पोल्=बिव्वि हरडिद हागॆ \(इरुव\), मेघङ्गाळ्=मेघगळे, तॆळ्=तिळियाद, नीर्=तीर्थगळु, पाय्=हरियुव स्थळवाद, वेङ्गडत्तु=वॆङ्कटाचलदल्लि नॆलसिरुव ऎन्=नन्न, तिरुमालुम्=स्वामियु\(सर्वेश्वरनु\)पोन्दाने=बन्दनो? कण्णीर् हळ्=कण्णीर हनिगळु, मुलैक्कूवट्टिल्=मॊलॆगळ तुदिगळ मेलॆ, तुळिशोर=मूडिबरुवन्तॆ, शोर् वेनै=दुःखिसुत्तिरुव नन्न, पॆण् नीर् मै=हॆण्णुतनद, ईडु=अशक्तियन्नु, अऴिक्कूम्=अळिसि हाकुव, इदु=ई कार्य, तमक्कू-तमगॆ, ओर्=ऒन्दु, पॆरुमैये=महत्तादद्दो?
@@ -73,6 +83,17 @@ title = "०८ विण्णीलमेलाप्पु विरित्
 कदुवप्पट्टु इडैक्कङ्गुल्,  
 एमत्तोर् तॆऩ्ऱलुक्किङ्-  
 गिलक्काय्ना ऩिरुप्पेऩे। २
+</details>
+
+<details><summary>Hart - DP_५७८</summary>
+
+O dark clouds pouring your rain like rich pearls,  
+do you have any message from the god of Venkaṭam,  
+the generous one colored as dark as night?  
+My love for him burns me like fire:  
+If in the middle of the night  
+the breeze comes and hurts me,  
+how will I survive?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५७८ - ०२</summary>
@@ -124,6 +145,16 @@ title = "०८ विण्णीलमेलाप्पु विरित्
 आविगात् तिरुप्पेऩे। ३
 </details>
 
+<details><summary>Hart - DP_५७९</summary>
+
+O clouds, you are generous  
+and give rain to the earth:  
+My shining beauty, bangles, mind and sleep  
+have all gone, taking my pride with them:  
+I survive only by singing the divine qualities of Govindan,  
+the lord of Thiruvenkaṭam where cool waterfalls flow:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५७९ - ०३</summary>
 
 ऒळि=देहकान्तियू, वण्णम्=मैबण्णवू, वळै=कैबळॆगळू, चिन्दै=मनस्सू\(चिन्तनवू\), उऴक्कत्तोडु=निद्दॆयू सह, इवै=इवुगळु, ऎल्लाम्=ऎल्लवू, ऎळिमैयाल्=नन्न दीनतॆयिन्द, ऎन्नै=नन्नन्नु, इट्टु=निर्लक्षिसि, ईडु=नन्न सामर्थ्यवन्नु, अऴिय=अळियुवन्तॆ माडि, पोयिन=होगिबिट्टवु, आल्=नीरिन, कुळिर्=तम्पाद, अरुवि=जलपातगळुळ्ळ, वेङ्गडत्तु=वॆङ्कटाचलद,ऎन्=नन्न,कोविन्दन्=गोविन्दन, कुणम्=कल्याणगुणगळन्नु, पाडि=हाडिकॊण्डु, अळियत्त=अनुग्रहिसबल्ल, मेगङ्गाळ्=मेघगळे, आवि=जीववन्नु, कात्तिरुप्पेने=उळिसिकॊण्डिरुवॆनल्ला\!
@@ -171,6 +202,15 @@ title = "०८ विण्णीलमेलाप्पु विरित्
 पुरिवुडैमै सॆप्पुमिऩे। ४
 </details>
 
+<details><summary>Hart - DP_५८०</summary>
+
+O shining clouds with lightning,  
+he is the lord of Thiruvenkaṭam  
+with the goddess Lakshmi on his handsome chest:  
+Can you tell him that my breasts desire  
+every day to embrace his golden chest?
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५८० - ०४</summary>
 
 मिन्=मिञ्चु, आहत्तु=देहदल्लि, ऎऴुहिन्ऱ=काणिसुव, मेघङ्गाळ्=मेघगळे, वेङ्गडत्तु=वॆङ्कटाचलदल्लि, तन्=तन्न, आहम्=हृदय\(वक्षस्थलदल्लि\), तिरुमङ्गै=श्रीदेवियु, तङ्गिय=नॆलसिरुव, शीर्=श्रेष्ठवाद, मार् वऱ्कु=ऎदॆयुळ्ळ स्वामिगॆ, ऎन्=नन्न, आहत्तु=ऎदॆय, इळ=ऎळॆय, कॊङ्गै=मॊलॆगळु, ताम्=तावु, विरुम्बि=आशॆयिन्द, नाळ् तोऱुम्=दिनदिनवू, पॊन्=सॊबगिनिन्द कूडिद, आहम्=ऎदॆयॊडनॆ, पुल् हुदऱ्कु=ऒन्दागिसुव विषयदल्लि, ऎन्=नन्न, पुरिवुडैमै=आशॆयॆम्बुदन्नु, शॆप्पुमिने=हेळिरि.
@@ -212,6 +252,17 @@ title = "०८ विण्णीलमेलाप्पु विरित्
 इरणियऩै युडलिडन्दाऩ्,  
 ताऩ्कॊण्ड सरिवळैगळ्  
 तरुमागिल् साऱ्ऱुमिऩे। ५
+</details>
+
+<details><summary>Hart - DP_५८१</summary>
+
+O dark clouds, rising in the sky and spreading everywhere,  
+you pour rain in Thiruvenkaṭam  
+and make the flowers bloom and drip honey:  
+If you would go to him to bring back my bangles  
+that he has taken away,  
+tell him who split open the body of Hiraṇyan with his sharp claws,  
+how much I love him and suffer:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५८१ - ०५</summary>
@@ -257,6 +308,18 @@ title = "०८ विण्णीलमेलाप्पु विरित्
 उळ्मॆलियप् पुगुन्दु,ऎऩ्ऩै  
 नलङ्गॊण्ड नारणऱ्कॆऩ्  
 नडलैनोय् सॆप्पुमिऩे। ६
+</details>
+
+<details><summary>Hart - DP_५८२</summary>
+
+O cool clouds,  
+you take water from the ocean,  
+rise to the sky and pour rain everywhere  
+in Thiruvenkaṭam of Thirumāl  
+who took the land from Mahābali:  
+Like insects that enter into a vilam fruit and eat it,  
+Nāraṇan has entered into my heart and made me suffer:  
+Go and tell him how much I love him:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५८२ - ०६</summary>
@@ -308,6 +371,18 @@ title = "०८ विण्णीलमेलाप्पु विरित्
 तङ्गुमॆऩ् ऱुरयीरे। ७
 </details>
 
+<details><summary>Hart - DP_५८३</summary>
+
+O cool clouds floating on the hills of Thiruvenkaṭam  
+of the lovely-eyed Thirumāl  
+who churned the milky ocean filled with conches,  
+I bow to his feet and ask him for one thing:  
+Only if he comes one day and embraces me  
+smearing kumkum paste on my breasts  
+will I be able to survive:  
+Go tell him this:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५८३ - ०७</summary>
 
 शङ्गम्=शङ्खगळन्नुळ्ळ, माकडल्=महाकडलन्नु, कडैन्दान्=कडॆद भगवन्तन, तण्=तम्पाद, मुहिल् हाळ्=मुगिलुगळे, वेङ्गडत्तु=वॆङ्कटाचलद, शॆम् कण्=सुन्दरवाद कण्णुगळुळ्ळ, माल्=भगवन्तन, शे अडि कीऴ्=कॆम्पनॆय \(कोमलवाद\) पादतलदल्लि, अडिवीऴ् च्चि=पादसेवकळागिरुववळ विण्णप्पम्=बिन्नह\(एनॆन्दरॆ\), कॊङ्गैमेल्=नन्न मॊलॆगळ मेलॆ,\(लेपिसिकॊण्डिरुव\), कुङ्गुमत्तिन्=कुङ्कुमद कुळम्बु=लेपनवु, अऴिय=अळिसि होगुवन्तॆ, पुहुन्दु=नन्नन्नु सेरि\(आलिङ्गिसिकॊण्डु\), ऒरुनाळ्=ऒन्दु दिन मात्रवे
@@ -357,6 +432,17 @@ title = "०८ विण्णीलमेलाप्पु विरित्
 पऴविलैबोल् वीऴ्वेऩै,  
 वार्गालत् तॊरुनाळ्दम्  
 वाचकम्दन् दरुळारे। ८
+</details>
+
+<details><summary>Hart - DP_५८४</summary>
+
+O clouds that rise in the rainy season  
+in the Thiruvenkaṭam hills,  
+I fall down like the old leaves of the erukkam plants  
+when raindrops fall on them  
+and recite the names of him  
+who went to the battlefield and fought for the Pāndavas:  
+Will he come one day and talk to me?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५८४ - ०८</summary>
@@ -412,6 +498,16 @@ title = "०८ विण्णीलमेलाप्पु विरित्
 करुदादु,ओर् पॆण्गॊडियै  
 वदैसॆय्दाऩ्। ऎऩ्ऩुंसॊल्  
 वैयगत्तार् मदियारे। ९
+</details>
+
+<details><summary>Hart - DP_५८५</summary>
+
+O huge clouds rising like rutting elephants,  
+you think Thiruvenkaṭam is your place and live there:  
+What does he, resting on the snake bed, wish to tell me?  
+The people of the world may say,  
+“He doesn’t understand that she thinks that he is her refuge  
+and he hurts her, as beautiful as a vine:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५८५ - ०९</summary>

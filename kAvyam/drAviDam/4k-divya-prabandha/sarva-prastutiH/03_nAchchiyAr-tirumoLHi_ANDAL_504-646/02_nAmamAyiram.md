@@ -30,6 +30,18 @@ title = "०२ नाममायिरमेत्तनिन्ऱ नार
 सिऱ्ऱिल्वन्दु सिदैयेले। १
 </details>
 
+<details><summary>Hart - DP_५१४</summary>
+
+O Nārāyaṇā praised with a thousand names,  
+if Yashoda had given birth to you,  
+it would be easy for us to love you  
+because you would be human just like we are:  
+We do nombu in the month of Punguni  
+because that is the month when Kama comes:  
+O Sridhara, don’t bother us,  
+don’t come and destroy our little sand houses:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५१४ - ०१</summary>
 
 नामम्=हॆसरुगळु,आयिरम्=साविरवन्नु, एत्त=स्तुतिसिकॊळ्ळुत्ता, निन्ऱ=निन्तिरुव\(नॆलॆसिरुव\), नारायणा=नारायणने, नरने=नरस्वरूपने, उन्नै=निन्नन्नु, मामितन्=अत्तॆय, मगनाह=मगनागॊ, पॆट्राल्=पडॆदरॆ, ऎमक्कू=नमगॆ, वादै=कष्तगळु, तविरुमा=तप्पुवुदे?, कामन्=कामदेवनु, पोदरु=बरुव, कालम्=समय, ऎन्ऱु=ऎन्दु, पङ्गुनि नाळ्=फाल्गुन \(पङ्गुनि\) मासदल्लि, कडै=अवन दारियल्लि, पारित्तोम्=अलङ्करिसिदॆवु, तीमै=तण्टॆगळन्नु, शॆय्युम्=माडुव, शिरीदरा=श्रीधरने, वन्दु=बन्दु, ऎङ्गळ्=नम्म, शिट्रिल्=मरळिन मनॆगळन्नु\(गुब्बच्चि गूडुगळन्नु\), शिदैयेले=कॆडिसिबिडबेड.
@@ -79,6 +91,15 @@ title = "०२ नाममायिरमेत्तनिन्ऱ नार
 कम्मॆऴाददॆम् पावमे। २
 </details>
 
+<details><summary>Hart - DP_५१५</summary>
+
+We worked all day to build these sand houses and our backs hurt:  
+Look at our sand houses: They make us happy:  
+O ancient one who slept on a banyan leaf as a baby,  
+it is a pity that you are not kind to us:  
+Do not come and destroy our little sand houses:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५१५ - ०२</summary>
 
 इन्ऱु=ई दिन, मुट्रुम्=पूर्तियागि, मुदुहु=बॆन्नु, नोव=नोयुवन्तॆ, इरुन्दु=इद्दुकॊण्डु, इऴैत्त=रचिसिद, इ-चिट्रिलै=ई मरळिन मनॆयन्नु\(गुब्बच्चिगूडन्नु\) नन्ऱुम्=चॆन्नागि, कण्=कण्णु, उऱ=तुम्ब\(तृप्तियागुवन्तॆ\), नोक्कि=नोडि, नाम्=नावु, कॊळुम्=तन्दिरुव, आर् वम्=प्रेम\(अनुराग\)वन्नु, तणिकिडाय्=तणिसु, अन्ऱु=अन्दु, पालकन्=मगुवु, आहि=आगि, आल्=आलद, इलै=ऎलॆय, मेल्=मेलॆ, तुयिन्ऱ=\(योग\) निद्रॆयल्लिरुव, ऎम्=नम्म, आदियाय्=आदिकारणनादवने, ऎन्ऱुम्=ऎल्ल कालक्कू\(ऒन्दु दिनवादरू\) उन् तनक्कू=निनगॆ, ऎङ्गळ् मेल्=नम्म मेलॆ, इरक्कम्=कनिकरवु, ऎऴाददु=हुट्टदिरुवुदु, ऎम्=नम्म, पावमे=पापवे\(कारण\)
@@ -122,6 +143,20 @@ title = "०२ नाममायिरमेत्तनिन्ऱ नार
 कैगळाल्सिर मप्पट्टो म्,  
 तॆण्डिरैक्कडऱ् पळ्ळियाय्।ऎङ्गळ्  
 सिऱ्ऱिल्वन्दु सिदैयेले। ३
+</details>
+
+<details><summary>Hart - DP_५१६</summary>
+
+You who sleep on the deep ocean  
+took the form of a lion to destroy Hiraṇyan  
+and saved Gajendra from the mouth of the crocodile:  
+When we saw you and fell in love with you,  
+you looked at us out of the corner of your eye  
+and didn’t worry about what we might think:  
+We worked hard to make our houses with soft sand  
+and our bangled hands hurt:  
+O lord, you rest on the ocean where clear waves roll:  
+Do not come and destroy our little sand houses:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५१६ - ०३</summary>
@@ -175,6 +210,18 @@ title = "०२ नाममायिरमेत्तनिन्ऱ नार
 सिऱ्ऱिल्वन्दु सिदैयेले। ४
 </details>
 
+<details><summary>Hart - DP_५१७</summary>
+
+O lord, you have the color of the rain-giving clouds  
+and your speech and deeds fascinate us:  
+What spell does your beautiful face cast to bewitch us?  
+We won’t complain to others  
+that you trouble us innocent, weak girls:  
+We don’t want them to blame you  
+with your lovely lotus eyes:  
+Don’t come and destroy our little sand houses:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५१७ - ०४</summary>
 
 पॆय्युम्=सुरियुत्तिरुव, मामुहिल्=महामेघद, पोळ्=हागॆ, वण्णा=बण्णवुळ्ळवने, उन् तन्=निन्न, पेच्चुम्=मातुगळू, शॆय् हैयुम्=साहसगळू, ऎङ्गळै=नम्मन्नु, मैयल्=भ्रान्तिगॆ, एट्रि=एरिसि, मयक्क=बुद्धिकॆडिसुवुदक्कॆ, उन्=निन्न, मुहम्=मुखद, माय मन्तिरम् तान् कॊलो=मायकारक मन्त्रवे अल्लवे? नॊय्यर्=अल्पराद, पिळ्ळैहळ्=हॆण्णुमक्कळु, ऎन्बदऱ् कु=ऎम्बुदक्कागि, उन्नै=निन्नन्नु, नाङ्गळ्=नावु, नोव=\(मननोयिसुवन्तॆ, उरैक्किलोम्=आडुवुदिल्ल, शॆय्य=अरळिद, तामरै=कमलदन्तॆ, कण्णिनाय्=कण्णुळ्ळवने, वन्दु=बन्दु, ऎङ्गळ्=नम्म, शिट्रिल्=गुब्बच्चिगूडुगळन्नु, शिदैयेले=कॆडिसिबिडबेड.
@@ -216,6 +263,19 @@ title = "०२ नाममायिरमेत्तनिन्ऱ नार
 उरोडमॊऩ्ऱु मिलोङ्गण्डाय्,  
 कळ्ळमादवा। केसवा।उऩ्  
 मुगत्तऩकण्ग ळल्लवे। ५
+</details>
+
+<details><summary>Hart - DP_५१८</summary>
+
+We made our sand houses with soft white sand  
+and everyone on the street was amazed  
+when they saw our lovely sand houses  
+but you came and destroyed them:  
+Even so we aren’t angry at you:  
+Our hearts melt for your love:  
+You are a thief, Madhavan, Kesavan:  
+Don't you have eyes on your face?  
+Don’t come and destroy our little sand houses:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५१८ - ०५</summary>
@@ -263,6 +323,20 @@ title = "०२ नाममायिरमेत्तनिन्ऱ नार
 कर्गुलङ्गळै मुऱ्ऱवुम्  
 सॆऱ्ऱु,इलङ्गैयैप् पूसलाक्किय  
 सेवगा।ऎम्मै वादियेल्। ६
+</details>
+
+<details><summary>Hart - DP_५१९</summary>
+
+We are children, not grown-up yet,  
+and our breasts haven’t grown out:  
+You come here to knock over our little sand houses  
+but really wanting to do something else:  
+We don’t understand what you want:  
+You who built a bridge on the ocean, went to Lanka,  
+and fought and destroyed the Raksasa clan  
+are the servant of all of your devotees:  
+Don’t give us trouble,  
+don’t come and destroy our little sand houses:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५१९ - ०६</summary>
@@ -316,6 +390,18 @@ title = "०२ नाममायिरमेत्तनिन्ऱ नार
 सिऱ्ऱिल्वन्दु सिदैयेले। ७
 </details>
 
+<details><summary>Hart - DP_५२०</summary>
+
+If you talk to people who understand what you say,  
+that will be all right,  
+but if you talk to us who are young and don’t know anything,  
+it just hurts us: What do you gain from that?  
+You who have the color of the wide sounding ocean  
+and built the bridge Sethu  
+will get in trouble with your wives:  
+Don’t come and destroy our little sand houses:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५२० - ०७</summary>
 
 पेदम्=भेदवन्नु, नन्गु=चॆन्नागि, अऱिवार् हळोडु=तिळीयबल्लवरॊडनॆ, इवै=ई मातुगळन्नु, पेशिनाल्=आडिदरॆ, पॆरिदु=बहळ, इन्=इनिदाद, शुवै=रुचि, यादु=यावुदु, ऒन्ऱुम्=ऒन्दू, अऱियाद=अरियद, पिळ्ळैहळोमै=हॆण्णुमक्कळाद नम्मन्नु,
@@ -361,6 +447,19 @@ title = "०२ नाममायिरमेत्तनिन्ऱ नार
 अऱिदियेगडल् वण्णऩे। ८
 </details>
 
+<details><summary>Hart - DP_५२१</summary>
+
+We brought a pot, a winnowing fan and sand,  
+built sand houses and are playing as we like:  
+What is the use of destroying our sand houses?  
+What do you get if you come  
+and kick them down and give us trouble?  
+Ocean-colored wone with a shining discus in your hand,  
+don’t you know that even jaggery will not be sweet  
+if your mind is bitter?  
+Don’t come and destroy our little sand houses:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५२१ - ०८</summary>
 
 वट्टम्=दुण्डगॆ, वाय्=बायुळ्ळ, शिऱु=पुट्ट, तूदैयोडु=कुडिकॆयॊडनॆ, शिऱु=चिक्क, शुळहुम्=मुच्चलन्नू, ,मणलुम्=मरळन्नू, कॊण्डु=तॆगॆदुकॊण्डु, इट्टमा=नम्म इष्टदन्तॆ, विळैयाडवोङ्गळै=आटवाडुवन्थ नम्म, शिट्रिल्=गुब्बच्चिगूडुगळन्नु, ईडऴित्तु=चॆन्नागि हाळुमाडि, ऎन् पयन्=एनु प्रयोजन? कॊट्टु=मुट्टि, उदैत्तु=ऒदॆदु, नलियेल्=गोळाडिसबेड, कण्डाय्-कण्डॆया, शुडर्=ज्वालॆयन्नुगुळुव, चक्करम्=चक्रायुधवन्नु, कैयिल्=कैयल्लि, एन्दिनाय्=धरिसिदवने, कट्टियुम्=बॆल्लवू सह,ताल्=नालगॆगॆ, कै=कहियागि, इन्नामै=रुचिसदु ऎम्बुदु, अऱिदिये=अरितिरुवॆयल्लवे, कडल् वण्णने=कडलिन बण्णदवने.
@@ -400,6 +499,18 @@ title = "०२ नाममायिरमेत्तनिन्ऱ नार
 नीण्डळन्दुगॊण् डाय्,ऎम्मैप्-  
 पऱ्ऱिमॆय्प्पिणक् किट्टक्कालिन्दप्  
 पक्कम्निऩ्ऱव रॆञ्जॊल्लार्? ९
+</details>
+
+<details><summary>Hart - DP_५२२</summary>
+
+O Govinda, you enter our yard and, smiling,  
+not only destroy do you our little sand houses,  
+you destroy our hearts as well:  
+You measured the earth  
+and grew tall and measured the sky:  
+What will those standing near us say  
+if you come and embrace us?  
+Do not come and destroy our little sand houses:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५२२ - ०९</summary>

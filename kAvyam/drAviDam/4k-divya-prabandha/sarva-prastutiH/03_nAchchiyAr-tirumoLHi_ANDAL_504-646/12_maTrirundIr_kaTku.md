@@ -30,6 +30,18 @@ title = "१२ मट्रिरुन्दीर् कट्कऱियल
 मदुरैप् पुऱत्तॆऩ्ऩै युय्त्तिडुमिऩ्। १
 </details>
 
+<details><summary>Hart - DP_६१७</summary>
+
+She tells her relatives, “You don’t understand  
+that I love only Mādhavan whom no one can know:  
+If you say you will make me marry someone else  
+you’re just talking like someone who is dumb and deaf:  
+He, the Nambi, left his birth mother  
+and was raised by Yashoda, his other mother:  
+Take me near his Madurai and leave me there  
+before he goes to the battlefield to fight with the wrestlers:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६१७ - ०१</summary>
 
 मट्रु=बेरॆ रीतियल्लि, इरुन्दीर् कट्कु=इरुव निमगॆ, अऱियल्=तिळीयलु, आहा=आगदन्थ, मादवन्=माधव, ऎन्बदु=ऎम्ब, ओर्=ऒन्दु, अन्बु=प्रेम, तन्नै=ऎम्बुदन्नु, उट्रु=पडॆदु, इरुन्देनुक्कू=इरुव ननगॆ, उरैप्पदॆल्लाम्=हेळुवुदॆल्लवू, ऊमैयरोडु=मूकरॊडनॆ, शॆविडर्=किवुडर, वार् त्तै=सम्भाषणॆयन्तॆ, पॆट्रु इरुन्दाळै=हॆत्तवळन्नु, ऒऴिय=बिट्टु, पोय्=होगि, पेर् त्तु=मत्तॆ, ऒरु=ऒब्ब, तायिल्=तायिय बळि\(तायियल्लि\) ताय् इल्=तायिय मनॆयल्लि, वळर्न्द=बॆळॆद, नम्बि=परिपूर्णनु, मल्=मल्लरिगॆ, पॊरुन्दा=योग्यवाद, मऱ् कळम्=मल्लरङ्गवन्नु, अडैन्द=सेरिद, मदुरै=मधुरॆय, पुऱत्तु=पक्कदल्लि\(हत्तिरद स्थळदल्लि\), ऎन्नै=नन्नन्नु, उय् त्तु=बदुकुवुदक्कागि, इडुमिन्=सेरिसिरि.
@@ -83,6 +95,19 @@ title = "१२ मट्रिरुन्दीर् कट्कऱियल
 आय्प्पाडिक् केयॆऩ्ऩै युय्त्तिडुमिऩ्। २
 </details>
 
+<details><summary>Hart - DP_६१८</summary>
+
+She says, “You, my relatives,  
+should not be ashamed that I love him:  
+All the neighbors know about our love:  
+Don’t try to make me the person I was before:  
+I have changed, I am in love with Kaṇṇan:  
+If you really want to save me,  
+take me to the cowherd village:  
+I will only survive if I see the Māyan  
+who measured the world as a dwarf:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६१८ - ०२</summary>
 
 इनि=इन्नु, नाणि=नाचिकॆयिन्द, ऒरु=ऒन्दु, करुमम्=कर्तव्य, इल्लै=अल्ल, नाल्=नाल्कु दिक्किन, अयलारुम्=जनरू, अऱिन्दु ऒऴन्दार्=तिळिदुकॊण्डिद्दारॆ, पाणियादु=तडमाडदॆ, ऎन्नै=ननगॆ, मरुन्दु=बेकाद परिहारगळन्नु \(औषधोपचारगळन्नु\), शॆय्दु=माडि, पण्डु=पुरातनवन्नु \(हळॆयदन्नु\), पण्डु=\(हळॆयदागिये\)पुरातनवागिये, आक्क=आगिसबेकॆन्दु, उऱुदिर्=इष्टपडुविरि, आहिल्=आदरॆ, माणि=ब्रह्मचारिय, उरु आय्=रूपदवनागि, उलहळन्द=लोकगळन्नु अळॆद, मायनै=अद्भुतकारियन्नु, काणिल्=कण्डिरादरॆ, तलै=बुद्धियु, मऱियुम्=तलॆकॆळगागुवुदु, आणैयाल्=सत्यवागियू, नीर्=नीवु, ऎन्नै=नन्नन्नु, काक्कवेण्डिल्=कापाडबेकादरॆ, आय् प्पाडिक्के=नन्दगोकुलक्कॆ, ऎन्नै=नन्नन्नु, उय् त्तिडुमिन्=करॆदॊय्दुबिडि.
@@ -128,6 +153,23 @@ title = "१२ मट्रिरुन्दीर् कट्कऱियल
 नळ्ळिरुट् कणॆऩ्ऩै युय्त्तिडुमिऩ्। ३
 </details>
 
+<details><summary>Hart - DP_६१९</summary>
+
+She says to her relatives,  
+“When people know that I went with Kaṇṇan  
+and they blame you saying,  
+‘She left her father, mother and her dear relatives  
+and went away with someone,’  
+you will be hurt and you won’t be able  
+to avoid the disgrace that comes to you:  
+Kaṇṇan, the naughty son of Nandagopālan,  
+plays with the cowherd girls  
+and does many mischievous things:  
+Take me to the doorstep of Nandagopalan  
+and leave me there at midnight:  
+Māyavan comes to me often and stands before me:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६१९ - ०३</summary>
 
 तन्दैयुम्=तन्दॆयू, तायुम्=तायियू, उट्रारुम्=बन्धुगळू, निऱ्क=इरलागि, तनि=स्वतन्त्रवाद, वऴिये=दारियल्लिये, पोयिनाळ्=होगुत्तिद्दाळॆ, ऎन्नुम्=ऎम्ब, शॊल्लु=मातु, वन्दपिन्नै=बन्द बळिक, पऴि=अपवाददिन्द, काप्पु=रक्षिसिकॊळ्ळुवुदु, अरिदु=असाध्य. मायवन्=मायावियु, वन्दु=ताने बन्दु, उरु=तन्न स्वरूपवनु, काट्टुहिन्ऱान्=तोरिसुत्तिद्दानॆ, कॊन्दळम्=गॊन्दलवन्नु, आक्कि=उण्टुमाडि, परक्कळित्तु=सामर्थ्यवन्नु तोरिसि, कुऱुम्बु=हगॆतनवन्नु, शॆय्वान्=बॆळॆसुव, ओर्=ऒब्ब, महनै=मगनन्नु, पॆट=पडॆद, नन्दगोपालन्=नन्दगोपालन, कडैत्तलैक्के=तलॆबागिलिगे, नळ्=नडुवण, इरुट् कण्=रात्रियल्लि, ऎन्नै=नन्नन्नु, उय् त्तिडुमिन्=करॆदॊय्दुबिडि.
@@ -169,6 +211,19 @@ title = "१२ मट्रिरुन्दीर् कट्कऱियल
 कोविन्द ऩुक्कल्लाल् वायिल्बोगा,  
 इङ्गुत्तै वाऴ्वै यॊऴियवेबोय्  
 यमुऩैक् करैक्कॆऩ्ऩै युय्त्तिडुमिऩ्। ४
+</details>
+
+<details><summary>Hart - DP_६२०</summary>
+
+Her breasts say,  
+“We will not look at the face of others,  
+only of him with a discus in his beautiful hand:”  
+They are covered with a fine sari  
+and become shy if they see common people:  
+They won’t even look at the doorsteps of others,  
+only the house of Govindan:  
+I don’t want to live here:  
+Take me to the banks of the Yamuna river and leave me there:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६२० - ०४</summary>
@@ -220,6 +275,19 @@ title = "१२ मट्रिरुन्दीर् कट्कऱियल
 काळिय ऩुच्चियिल् नट्टम्बाय्न्दु,  
 पोर्क्कळ माग निरुत्तञ्जॆय्द  
 पॊय्गैक् करैक्कॆऩ्ऩै युय्त्तिडुमिऩ्। ५
+</details>
+
+<details><summary>Hart - DP_६२१</summary>
+
+She says, “O mothers,  
+no one understand how much the love  
+that I have for him hurts me:  
+It will go away only if the dark ocean-colored god  
+embraces me with his arms:  
+Take me to the pond and leave me on the banks  
+where he climbed the kadamba tree,  
+jumped into the pond and danced on Kālingan  
+as if he were dancing on a battlefield:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६२१ - ०५</summary>
@@ -275,6 +343,19 @@ title = "१२ मट्रिरुन्दीर् कट्कऱियल
 वेण्डडि सिलुण्णुम् पोदु,ईदॆऩ्ऱु  
 पार्त्तिरुन् दुनॆडु नोक्कुक्कॊळ्ळुम्  
 पत्तवि लोसनत् तुय्त्तिडुमिऩ्। ६
+</details>
+
+<details><summary>Hart - DP_६२२</summary>
+
+She says, “The cool clouds of the rainy season,  
+the karuviḷai flowers, the kāyām blossoms,  
+and the lotus flowers all attract me and tell me,  
+‘Go to Rishikeshan’s place:  
+He is sweating, hungry, feels weak and wants food,  
+and he is looking for the wives of the rishis  
+to bring him something to eat:’  
+Take me to where he waits for food  
+and leave me there:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६२२ - ०६</summary>
@@ -336,6 +417,20 @@ title = "१२ मट्रिरुन्दीर् कट्कऱियल
 पाण्डि वडत्तॆऩ्ऩै युय्त्तिडुमिऩ्। ७
 </details>
 
+<details><summary>Hart - DP_६२३</summary>
+
+She says, “I am growing pallid,  
+my mind is confused and I have no sense of shame:  
+My mouth is becoming pale,  
+I don’t want to eat or sleep and I am growing thin:  
+If the god colored like the roaring ocean  
+puts on me his cool thulasi garland,  
+all these problems will go away:  
+Take me to the banyan tree  
+where Balarāman conquered the Asuran Pilamban  
+and leave me there:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६२३ - ०७</summary>
 
 वण्णम्=बण्णदल्लि, तिरुवुम्=मार्पाडू\(बदलावणॆयू\), मनम्=मनद, कुऱैवुम्=कॊरतॆयू, मानम्=मानमर्यादॆगळु, इलामैयुम्=इल्लदिरुवुदू, वाय्=बायिय\(तुटिगळ\), वॆळप्पुम्=बिळिचिकॊळ्ळुवुदू, उण्णम्=ऊटवु, उऱामैयुम्=बेडवॆनिसुवुदू\(बेडवागुवुदू\), उळ्=अन्तरङ्गद, मॆलिवुम्=कृशवागुवुदू, ओदम् नीर्=समुद्रद नीरिन, वण्णन्=बण्णदवनु, ऎन्बान्=ऎम्ब,ऒरुवन्=ऒब्बनु, तण्=तम्पाद, अम्=सुन्दरवाद, तुऴाय्=तुलसि, ऎन्नुम्=ऎम्ब, मालै=मालॆयन्नु, कॊण्डु=तन्दु, कूट्ट=मुडिसलु, तणियुम्=नीगुवुदु\(तृप्तियागुवुदु\), पिलम्बन् तन्नै=प्रलम्भन, पण्=शक्तियन्नू सॊल्लन्नू, अऴिय=नाशवागुवन्तॆ माडिद, बलदेवन्=बलदेव, ऎन्ऱ=ऎम्ब, पाण्डिवडत्तु=पाण्डीरवट”वॆम्ब आलदमरद बळिगॆ, ऎन्नै=नन्नन्नु, उय् त्तिडुमिन्=करॆदॊय्दुबिडि.
@@ -385,6 +480,20 @@ title = "१२ मट्रिरुन्दीर् कट्कऱियल
 कालिग ळुय्य मऴैदडुत्तु,  
 कॊऱ्ऱक् कुडैयाग वेन्दिनिऩ्ऱ  
 कोवर्त् तऩत्तॆऩ्ऩै युय्त्तिडुमिऩ्। ८
+</details>
+
+<details><summary>Hart - DP_६२४</summary>
+
+She says, “He grazed the calves,  
+living among the families of cowherds in the forest,  
+and he was tied to the mortar by Yashoda:  
+O poor mothers, don’t gossip about these things:  
+Take me near Govardhana mountain  
+that he carried as a victorious umbrella  
+to stop the rain and protect the cows:  
+Don’t get together and argue  
+about what you have heard from others,  
+don’t argue with each other:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६२४ - ०८</summary>
@@ -446,6 +555,20 @@ title = "१२ मट्रिरुन्दीर् कट्कऱियल
 नऩ्मै यिऴन्दु तलैयिडादे,  
 सूट्टुयर् माडङ्गळ् सूऴ्न्दुदोऩ्ऱुम्  
 तुवरा पदिक्कॆऩ्ऩै युय्त्तिडुमिऩ्। ९
+</details>
+
+<details><summary>Hart - DP_६२५</summary>
+
+She says, “My parrot in its cage  
+always says, ‘Govinda, Govinda!’  
+If I am angry at it and don’t feed it,  
+it calls him loudly and says,  
+‘O lord, you have measured the world!’  
+If I leave home and go to his place,  
+people will blame you  
+and my relatives and you will be ashamed:  
+Take me to Dwarapathi filled with high palaces  
+and leave me there:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६२५ - ०९</summary>

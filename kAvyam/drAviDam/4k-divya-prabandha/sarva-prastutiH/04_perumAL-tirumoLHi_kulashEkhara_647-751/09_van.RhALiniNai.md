@@ -30,6 +30,19 @@ title = "०९ वन्ऱाळिनिणैवणङ्गि वळनह
 नऩ्मगऩे उऩ्ऩै नाऩे ९।१
 </details>
 
+<details><summary>Hart - DP_७३०</summary>
+
+Dasaratha says, “You were going to become king  
+as the people of this flourishing country  
+bowed to your strong feet and worshipped you:  
+When you were about to sit on the throne,  
+O Rāma, your step-mother said,  
+‘Go and stay for a long time in the large forest:’  
+I listened to the words of Kaikeyi, your mother,  
+and asked you to go to the forest:  
+O my dear son, that is what I did to you!”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७३० - ०१</summary>
 
 वल्=बलिष्ठवाद, ताळिन्=कालिन, इणै=जोडियन्नु, वणङ्ग=नमस्करिसि, वळम्=सॊबगिन, नहरम्=अयोध्यानगरद प्रजॆगळॆल्लरू, तॊऴुदु=कैमुगिदु, एत्त=स्तुतिसुवन्थ, मन्नन्=अरसनु, आवान्=आगुवुदक्कागि, निन्ऱायै=सिद्धनागिरुववनू, अरि=सिंहद, अणै=शयनद, मेल्=मेलॆ, इरुन्दायै=सिद्धवागिद्दवनू आद निन्नन्नु, नॆडुङ्गानम्=बलुदॊड्ड काडिगॆ, पडर=सुत्ताडलु\(अलॆदाडलु\), पोहु=होगु, ऎन्ऱाळ्=ऎन्दळल्ला, ऎम्=नम्म, इरामावो=रामने\! उनै=निन्नन्नु कुरितु, पयन्द=भयपट्ट, कैकेशि तन्=कैकेयिय, शॊल्=मातन्नु, केट्टु=केळि, नन्ऱाह=चॆन्नागि, ना=नालगॆय, निलत्तै=पदवियन्नु, आळवित्तेन्=आळुवन्तॆ माडिदॆनल्ला, नल्=ऒळ्ळॆय, महने=मगने, उन्नै=निन्नन्नु, नाने=नाने
@@ -75,6 +88,20 @@ title = "०९ वन्ऱाळिनिणैवणङ्गि वळनह
 इळङ्गोवुम् पिऩ्पु पोग  
 ऎव्वाऱु नडन्दऩैयॆम् इरमावो  
 ऎम्बॆरुमाऩ् ऎञ्जॆय् केऩे ९।२
+</details>
+
+<details><summary>Hart - DP_७३१</summary>
+
+Dasaratha says, “You listened to my cruel words  
+and left quickly, leaving this kingdom  
+with its victorious elephants, chariots and horses  
+and went to the forest:  
+Your lovely wife, decorated with ornaments,  
+her long eyes like spears smeared with oil,  
+and your younger brother Lakshmana followed you:  
+How could you walk in that cruel forest?  
+O our Rāma! You are my dear lord:  
+What can I do?”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७३१ - ०२</summary>
@@ -126,6 +153,19 @@ title = "०९ वन्ऱाळिनिणैवणङ्गि वळनह
 कागुत्ता करिय कोवे ९।३
 </details>
 
+<details><summary>Hart - DP_७३२</summary>
+
+Dasaratha says, “You, with your mountain-like arms that can fight anyone,  
+the son of the family of Kosalai  
+whose long red-lined eyes are like murderous spears,  
+know how to melt my heart:  
+Before you slept on a soft bed in the palace—  
+how are you going to sleep  
+under the shadow of a tree in the large forest?  
+How could you learn to sleep on a stone bed,  
+O dark king of the dynasty of Kahustha?”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७३२ - ०३</summary>
 
 कॊल्=कॊल्लुवुदरल्लि, अणै=पळगिद, वेल्=वेलायुधदन्तॆ, वरि=कॆम्बण्णद, नॆडु=विशालवाद, कण्=कण्णुगळुळ्ळ, कौशलै तन्=कौसल्यॆय, कुलम्=श्रेष्ठवाद,मदलाय्=मगने, कुनिविल्=बग्गिसिरुव बिल्लन्नु, एन्दुम्=धरिसुव, मल्=बलवन्नु, अणैन्द=हॊन्दिरुव, वरै=पर्वतदन्थ, तोळा=तोळुगळुळ्ळवने, वल् विनैयेन्=महापापि नन्न, मनम्=मनस्सन्नु, उरुक्कूम्=करगिसुव, वहैये=बगॆयन्ने, कट्राय्=कलितिरुववने, मॆल्=मॆत्तनॆय, अणैमेल्=हासुगॆय मेलॆ, मुन्=इदुवरॆगॆ\(मॊदलल्लि\), तुयिन्ऱाय्=मलगुत्तिद्दवने, इन्ऱु=इन्दु, इनि=इन्नु मेलॆ, पॊय्=होगि, वियन्=बलुदॊड्ड, कानम्=काडिनल्लि, मरत्तिन्=मरद, नीऴल्=नॆरळल्लि
@@ -175,6 +215,21 @@ title = "०९ वन्ऱाळिनिणैवणङ्गि वळनह
 मऩमुरुक्कुम् मगऩे इऩ्ऱु  
 नीबोग ऎऩ्ऩॆञ्ज मिरुबिळवाय्प्  
 पोगादे निऱ्कु माऱे ९।४
+</details>
+
+<details><summary>Hart - DP_७३३</summary>
+
+Dasaratha says, “Come here and go back to the forest,  
+come and see me one more time before you go:  
+O you who broke the bow of Shiva who rides the bull  
+to marry your wife Sita  
+with lovely hair decorated with flowers  
+and beautiful bamboo-like arms:  
+Now you are going to the wide forest  
+and you make my heart suffer:  
+Surely I must have done bad karma:  
+My son, you are leaving,  
+yet my heart does not split in two:"
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७३३ - ०४</summary>
@@ -238,6 +293,20 @@ title = "०९ वन्ऱाळिनिणैवणङ्गि वळनह
 ऎञ्जॆय्गेऩ् अन्दो याऩे ९।५
 </details>
 
+<details><summary>Hart - DP_७३४</summary>
+
+Dasaratha says, “Your soft feet will hurt  
+when you walk on the gravel with stones  
+as sharp as the points of the spears enemies hold,  
+and they may bleed:  
+Willingly you are going to the forest  
+where no one wishes to go:  
+The sun will be hot and hunger will cause you cruel pain:  
+My son, you are going now  
+because I, a sinner, listened to the evil daughter of king Kaikeyan:  
+Surely I must have done bad karma: What can I do to stop you?”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७३४ - ०५</summary>
 
 पॊरुन्दार्=शत्रुगळ, कैवेल्=कैयल्लिन वेलायुधद, नुदिपोल्=तुदियन्तॆ, परल्=कल्लिन हरळुगळन्नु, पाय=दाटूवाग, मॆल्=मृदुवाद, अडिक्कळ्=पादगळिन्द कुरुदि=रक्तवु, शोर=सुरियुत्तलू, विरुम्बाद=\(यारू\) ऒळहोगलु इच्छिसद, कान्=काडन्नु, विरुम्बि=इष्टपट्टु, वॆयिल्=बिसिलु, उरैप्प=सुडुत्तिरलु, वॆम्=क्रूरवाद, पशि=हसिवू, नोय्=यातनॆयू, कूर=बलुतीक्ष्णवागिरलु, इन्ऱु=इन्दु, पॆरु=बलुदॊड्ड, पावियेन् येन्=पापियागिद्देनॆ, महने=मगने, पोहिन्ऱाय्=होगुत्तिरुवॆयल्ला\! केकयर् कोन्=केकयर राजन, महळ् आय्=मगळागि, पॆट्र=हुट्टिद, अरुम् पावि=करुपापिय, शॊल्=मातन्नु, केट्ट=केळिद, अरुविनैयेन् याने=बलुकॆट्ट पापि नाने, अन्दो=अय्यो, ऎन् शॆय्हेन्=एनु माडलि\!
@@ -283,6 +352,20 @@ title = "०९ वन्ऱाळिनिणैवणङ्गि वळनह
 कमलम्बोल् मुगमुम् काणादु  
 ऎम्माऩै यॆऩ्मगऩै यिऴन्दिट्ट  
 इऴिदगैये ऩिरुक्किऩ् ऱेऩे ९।६
+</details>
+
+<details><summary>Hart - DP_७३५</summary>
+
+Dasaratha says, “From now on  
+I will not hear anyone lovingly calling me “amma:”  
+No more will I feel the tight embrace  
+of his ornamented chest on my chest:  
+I cannot kiss him on his forehead,  
+I will not be able to see his majestic walk  
+that is like the stride of an elephant,  
+I will not be able to see his lotus face anymore:  
+I have lost my dear one, my son:  
+Surely I have done terrible deeds, yet I am still alive:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७३५ - ०६</summary>
@@ -336,6 +419,19 @@ title = "०९ वन्ऱाळिनिणैवणङ्गि वळनह
 सॆलत्तक्क वऩन्दाऩ् सेर्दल्  
 तूमऱैयीर् इदुदगवो सुमन्दिरऩे  
 विसिट्टऩे सॊल्लीर् नीरे ९।७
+</details>
+
+<details><summary>Hart - DP_७३६</summary>
+
+Dasaratha says, “His hair that was decorated  
+with fragrant flowers is matted into jaṭa now:  
+He would wear lovely, soft garments on his waist  
+but now he wears orange clothes like a renunciant  
+and he does not wear any ornaments:  
+Is it right that my son with such handsome arms  
+should go to the forest instead of me?  
+O, Sumanthra, O sage Vashisṭa,  
+you are learned men of the Vedas: Tell me!”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७३६ - ०७</summary>
@@ -393,6 +489,20 @@ title = "०९ वन्ऱाळिनिणैवणङ्गि वळनह
 टॆऩ्ऩैयुम्नीळ् वाऩिल् पोक्क  
 ऎऩ्पॆऱ्ऱाय् कैगेसी इरुनिलत्तिल्  
 इऩिदाग विरुक्किऩ् ऱाये ९।८
+</details>
+
+<details><summary>Hart - DP_७३७</summary>
+
+Dasaratha says, “O Kaikeyi,  
+you have sent to the forest my divine son, as precious as gold,  
+his brother Lakshmaṇa and my gentle-natured daughter-in-law  
+with a waist as thin as lightning  
+and words as sweet as a puvai bird’s:  
+People will blame your own son Bharatha  
+for what you have done  
+and you are going to make me go to heaven in the sky:  
+What are you going to get from all this?  
+O Kaikeyi, how could you live happily in this large world?”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७३७ - ०८</summary>
@@ -460,6 +570,22 @@ title = "०९ वन्ऱाळिनिणैवणङ्गि वळनह
 एऴ्बिऱप्पुम् नॆडुन्दोळ् वेन्दे ९।९
 </details>
 
+<details><summary>Hart - DP_७३८</summary>
+
+Dasaratha says, “You broke the bow  
+of axe-carrying Parasurāma and destroyed his tapas:  
+Without thinking how I will suffer  
+and without thinking how your mother will suffer,  
+you just listened to my words  
+and my promise to your step-mother  
+and left for the forest:  
+You are my dear one:  
+I wish that you could be born as my son  
+for the next seven births:  
+May I have that fortune,  
+O king with long, strong arms:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७३८ - ०९</summary>
 
 मुन्=हिन्दॆ, ऒरुनाळ्=ऒन्दु सल, मऴुवाळि=कॊडलियधारिय, शिलै=बिल्लन्नु, वाङ्गि=अवनिन्द तॆगॆदुकॊण्डु, अवन्=-अवन, तवत्तै=तपस्सन्नु, मुट्रुम्=पूर्तियागि, शॆट्राय्=नाशपडिसिदवने, उन्नैयुम्=निन्नन्नू, उन्=निन्न, अरुमैयुम्=निन्न हिरिमॆयन्नू\(वैशिष्ट्यवन्नू\)उन्=निन्न, मोयिन्=कैकॊण्ड, वरुत्तमुम्=कष्टवन्नू, ऒन्ऱु=स्वल्पवू आह=आगि, कॊळ्ळादु=भाविसदॆ, ऎन्नैयुम्=नन्नन्नू, ऎन्मॆय् उरैयुम्=नन्न सत्यवाक्कन्नू, मॆय् आह कॊण्डु=निजवागि तिळिदु, वनम्=काडन्नु, पुक्क=प्रवेशिसिद, ऎन्दाय्=नन्न स्वामिये, नॆडुतोळ्=दॊड्ड\(दीर्घवाद\) तोळुगळुळ्ळ, वेन्दे=राजने, एऴ् पिऱप्पुम्=एळु जन्मगळल्लियू, निन्नैये=निन्नन्ने, मगन् आह=मगनागि, पॆऱप्पॆऱुवेन्=पडॆयकोरुत्तेनॆ.
@@ -505,6 +631,18 @@ title = "०९ वन्ऱाळिनिणैवणङ्गि वळनह
 वळनगरैत् तुऱन्दु नाऩुम्  
 वाऩकमे मिगविरुम्बिप् पोगिऩ्ऱेऩ्  
 मऩुगुलत्तार् तङ्गळ् कोवे ९।१०
+</details>
+
+<details><summary>Hart - DP_७३९</summary>
+
+Dasaratha says, “I heard the cruel words  
+of the evil Kaikeyi who followed the advice of Kuni  
+and now I will leave Sumithra to suffer  
+and Kosalai with hair filled with flowers that drip honey:  
+You are going to the forest, leaving this rich palace happily,  
+and I will leave this place  
+and go to the gods’ world happily,  
+O king of the dynasty of Manu:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७३९ - १०</summary>

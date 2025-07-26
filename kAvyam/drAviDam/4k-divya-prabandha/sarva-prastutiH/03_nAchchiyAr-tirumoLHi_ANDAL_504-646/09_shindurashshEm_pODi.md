@@ -30,6 +30,16 @@ title = "०९ शिन्दुरच्चॆम् पॊडिप्पो
 सुऴलैयिऩिऩ् ऱुय्दुङ्गॊलो। १
 </details>
 
+<details><summary>Hart - DP_५८७</summary>
+
+O velvet mites colored like red sinduram powder,  
+and flying everywhere in the groves of Thirumālirunjolai,  
+I am caught in my love for the one with handsome arms  
+who churned the milky ocean with Mandara mountain  
+and took its sweet nectar:  
+It is like a net: Will I survive this sorrow?
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५८७ - ०१</summary>
 
 शिन्दुरम्=सिन्धूरद, शॆम्=कॆम्पनॆय, पॊडिपोल्=पुडिय हागॆ, तिरुमालिरुञ्जोलै=तिरुमालिरुञ्जोलै बॆट्टवन्नु, ऎङ्गुम्=ऎल्लॆडॆयल्लू, इन्दिरकोफङ्गळे=मिञ्चुहुळुगळे, ऎऴुन्दुम्=मेलॆद्दु, परन्दिट्टन=हरडिकॊण्डुबिट्टिवॆ, आल्=अय्यो, अन्ऱु=आ कालदल्लि, मन्दरम्=मन्दर पर्वतवन्नु, नाट्टि=\(कडलिनल्लि\)नाटि, कॊऴु=अतिशयवाद, मदुरम्=सिहियाद, शाऱु=सारवन्नु\(अमृतवन्नु\) कॊण्ड=ऎत्तिकॊण्ड, शुन्दरत्तोळुडैयान्=श्रीसुन्दरबाहुस्वामिय, शुऴलैयिल्=सुळिय बलॆयल्लि, निन्ऱु=सिक्किबिद्दु, उय्दुम् कॊलो=बदुकुववो हेगो?
@@ -79,6 +89,16 @@ title = "०९ शिन्दुरच्चॆम् पॊडिप्पो
 कऴऱिच्चिरिक् कत्तरियेऩ्,  
 आर्क्किडु कोदोऴि।  
 अवऩ्तार्च्चॆय्द पूसलैये। २
+</details>
+
+<details><summary>Hart - DP_५८८</summary>
+
+O friend, the mullai flowers on the vines in the forest  
+filled with blossoms laugh at me in Thirumālirunjolai  
+where elephants fight with each other and play:  
+The vines that grow in the rainy season  
+bloom as if to say, “You will not survive!”  
+To whom can I tell the pain that his garland gives me?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५८८ - ०२</summary>
@@ -140,6 +160,16 @@ title = "०९ शिन्दुरच्चॆम् पॊडिप्पो
 वन्दिबऱ्ऱुम् वऴ्क्कुळदे। ३
 </details>
 
+<details><summary>Hart - DP_५८९</summary>
+
+O beautiful karuvilai flowers! Kāyām flowers!  
+You have the color of the lord  
+Tell me how I can survive:  
+Is it right that strong-armed Nambi of Thirumālirunjolai  
+who is always playing  
+should come into our house and steal my bangles?
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५८९ - ०३</summary>
 
 ऒण्=सुन्दरवाद, करुविळै मलर्हाळ्=करुविळै पुष्पगळे, कायामकर्हाळ्=अगसॆ हूगळे, तिरुमाल्=लक्ष्मीफतिय, उरु=देहद, ऒळि=कान्तियन्नु, काट्टुहिन्ऱेर्=तोर्पडिसुत्तिद्दीरि, ऎनक्कू=ननगॆ, उय्=बदुकुव, वऴक्कू=मार्गवन्नु, ऒन्ऱु=ऒन्दन्नु, उरैयीर्=हेळिरि, तिरु=श्रीदेवियु, विळैयाडु=विहरिसुव, तिण्=बलयुतवाद, तोळ्=तोळुगळ, तिरुमालिरुञ्जोलै=तिरुमालिरुञ्जोळैय, नम्बि=प्रभुवु, इल्=मनॆयन्नु\(नन्न अन्तरङ्गवन्नु\)पुहुन्दु=प्रवेशिसि, वरि=सुन्दरवाद, वळै=बळॆयनु, वन्दि=बलवन्तदिन्द, पट्रुम्=कॊण्डुहोगुव, वऴक्कू=रीतियु, उळदे=ऒळ्ळॆयदे?
@@ -185,6 +215,17 @@ title = "०९ शिन्दुरच्चॆम् पॊडिप्पो
 निऱमुङ्गळुक् कॆञ्जॆय्वदे ? ४
 </details>
 
+<details><summary>Hart - DP_५९०</summary>
+
+O cuckoo birds in the flourishing groves!  
+Peacocks! Beautiful karuvilai blossoms!  
+Fresh kala fruits! Colorful fragrant kāyām flowers!  
+You are my five most powerful enemies:  
+Why must you have the color of the dear lord  
+of beautiful Thirumālirunjolai?  
+Is it to make me sad with love and hurt me?
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५९० - ०४</summary>
 
 पै=हसुरागि सॊबगिनिन्द तुम्बिद, पॊऴिल्=तोपुगळल्लि, वाऴ्=वासिसुव, कुयिल् हाळ्=कोगिलॆगळे, मयिल् हाळ्=नविलुगळे, ऒण्=सुन्दरवाद, करुविळैहाळ्=करुविळै हूगळे, वम्बु=हॊसदागि, कळम्=कप्पुबण्ण तळॆद, कनिहाळ्=हण्णुगळे, वण्णप्पूवै=बण्णबण्णद हूगळे, नऱु=सुवासनॆय, मलर्हाळ्=हूगळे, ऐ=ऐदु, पॆरुम्=महापादकर् हाळ्=पापिगळे, अणि=सुन्दरवाद, मालिरुञ्जोलै=तिरुमालिरुञ्जोलै बॆट्टद मेलॆ, निन्ऱ=नॆलसिरुव, ऎम् पॆरुमानुडैय=भगवन्तन\(स्वामिय\), निऱम्=बण्णवु, उङ्गळुक्कू=निमगॆ, ऎन्=एनु, शॆय्वदे=माडुवुदक्कागि?
@@ -224,6 +265,18 @@ title = "०९ शिन्दुरच्चॆम् पॊडिप्पो
 तॊगुबूञ्जुऩै काळ्,सुऩैयिल्  
 तङ्गुसॆन् दामरैगाळ्।  
 ऎऩक्कोर्सरण् साऱ्ऱुमिऩे। ५
+</details>
+
+<details><summary>Hart - DP_५९१</summary>
+
+O swarm of bees,  
+you have the divine color of the dark cloud-colored lord  
+with beautiful eyes  
+who stays in Thirumālirunjolai  
+surrounded with flourishing flowers:  
+O abundant, beautiful mountain springs!  
+O lovely lotus flowers!  
+Tell me, who can be my refuge?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५९१ - ०५</summary>
@@ -277,6 +330,17 @@ title = "०९ शिन्दुरच्चॆम् पॊडिप्पो
 इऩ्ऱुवन्दिवै कॊळ्ळुङ्गॊलो। ६
 </details>
 
+<details><summary>Hart - DP_५९२</summary>
+
+I made a hundred pots of butter  
+for Nambi of Thirumālirunjolai  
+surrounded with fragrant groves:  
+I told him I will fill all the hundred pots  
+with sweet pongal for him:  
+He grows more and more beautiful:  
+Do you think he will come and eat?
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५९२ - ०६</summary>
 
 नऱुनाऱुम्=परिमळभरितवाद, पॊऴिल्=तोपुगळिरुव\(हूदोटगळिरुव\)मालिरुञ्जोलै=तिरुमालिरुञ्जोलैय, नम्बिक्कू=प्रभुविगॆ, नान्=नानु, नूऱुतडाविल्=नूरुभाण्डगळल्लि, वॆण्णॆय्=बॆण्णॆयन्नु, वाय् नेर्न्दु=बायल्लि हेळि, स्तोत्रमाडि=वैत्तेन्=इट्टिद्देनॆ, नूऱुतडा-नूरुभाण्डगळु, निऱैन्द=तुम्बिद, अक्कारम् अडिशिल्=सक्करॆ अन्नवन्नु\(पायसवन्नु\) शॊन्नेन्=समर्पिसुवॆनॆन्दु हरकॆ हॊत्तॆ\(हेळिकॊण्डॆ\) एऱु=ऎत्तरदल्लिरुव, तिरु उडैयान्=श्रीपतियु\(लक्ष्मीदेवियन्नुळ्ळवनु\), इन्ऱु=इन्दु, वन्दु=बन्दु, इवै=इवुगळन्नु, कॊळ्ळुम् कॊलो=स्वीकरिसुवनी हेगो?
@@ -320,6 +384,17 @@ title = "०९ शिन्दुरच्चॆम् पॊडिप्पो
 तिरुमालिरुञ् जोलैदऩ्ऩुळ्  
 निऩ्ऱ पिराऩ्,अडियेऩ्  
 मऩत्तेवन्दु नेर्बडिले। ७
+</details>
+
+<details><summary>Hart - DP_५९३</summary>
+
+If the dear lord of Thirumālirunjolai  
+where a fragrant breeze blows  
+enters my heart and stays there,  
+I will make a hundred thousand pots of butter  
+and sweet pongal and give them to him:  
+If he comes today and eats,  
+I will give him all these pots and serve him:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५९३ - ०७</summary>
@@ -369,6 +444,17 @@ title = "०९ शिन्दुरच्चॆम् पॊडिप्पो
 अवऩ् वार्त्तै युरैक्किऩ्ऱते। ८
 </details>
 
+<details><summary>Hart - DP_५९४</summary>
+
+A flock of black sparrows wakes up in the morning,  
+welcomes Thirumāl and sings the raga maruḷ:  
+Is it true that they sing that raga to wake him up?  
+They sing as if they were repeating the names of  
+him who stays in Thirumālirunjolai,  
+the lord of Dwarapathi who sleeps on a banyan leaf,  
+but he does not come to me:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५९४ - ०८</summary>
 
 करिय=कप्पुबण्णद, कुरुवि=गुब्बच्चिगळ, कणङ्गळ्=तण्डगळु, कालै=हॊत्तुहुट्टुव मुञ्चॆये, ऎऴुन्दिरुन्दु=ऎच्चरगॊण्डु, मालिन्=भगवन्तन, वरवु=बरुविकॆयन्नु, शॊल्लि=हेळुत्ता, मरुळ्=परवशरागि, पाडुदल्=हाडुवुदु, मॆय्म्मै=सहज\(सत्य\), कॊलो=अल्लवे? शोलैमलै=तिरुमालिरुञ्जोलै बॆट्टद, पॆरुमान्=देवरे, आलिनिलै=आलद ऎलॆय, पॆरुमान्=देवरे\(ऎन्दु\), अवन्=अवन, वार् त्तै=विषयवन्नु\(मातन्नु\), उरैक्किन्ऱवे=हेळुत्तवॆयल्ला\!
@@ -412,6 +498,17 @@ title = "०९ शिन्दुरच्चॆम् पॊडिप्पो
 मडुत्तूदिय सङ्गॊलियुम्,  
 सार्ङ्गविल् नाणॊलियुम्  
 तलैप्पॆय्वदॆञ् ञाऩ्ऱुगॊलो। ९
+</details>
+
+<details><summary>Hart - DP_५९५</summary>
+
+I seem to hang down like the golden flowers  
+that sway on the branches of kondrai trees  
+in Thirumālirunjolai surrounded by groves  
+where kongu flowers bloom:  
+When will I hear the sound of the conch  
+that he blows with his lotus mouth,  
+and the sound of his Sarngam bow that shoots arrows?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५९५ - ०९</summary>

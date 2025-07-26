@@ -22,6 +22,16 @@ title = "०४ तॆळ्ळियार् पलर्"
 कॊळ्ळु मागिल्नी कूडिडु कूडले। १
 </details>
 
+<details><summary>Hart - DP_५३४</summary>
+
+He, the highest god worshipped by all good people,  
+is the generous Azhahiya Maṇāḷan of Thirumālirunjolai:  
+If you want us to press his feet when he sleeps,  
+O kūḍal, you should come together:  
+Come and join the place you started:  
+Kūḍiḍu kūḍale:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५३४ - ०१</summary>
 
 तॆळ्ळियार्=ज्ञानिगळाद भक्तरिन्द, पलर्=हलवरु, कैतॊऴुम्=कैमुयिसिकॊळ्ळुव, देवनार्=स्वामियाद, वळ्ळल्=परमौदारियाद, मालिरुञ्जोलै=तिरुमालिरुञ्जोलै बॆट्टद, मणाळनार्=ऒडॆयनाद परमपुरुषनु, पळ्ळिकॊळ्ळुम्=पवडिसिरुव, इडत्तु=स्थळदल्लि, अडि=\(अवन\) तिरुवडिगळन्नु, कॊट्टिड=\(नानु\)हिडियुवन्तॆ, कॊळ्ळुमाहिल्=\(नन्नन्नु\) स्वीकरिसुव हागॆ, कूडले=कूडलु स्वामिये, नी=नीनु, कूडिडु=कूडिसु\(जॊतॆगॊळिसु\)
@@ -59,6 +69,18 @@ title = "०४ तॆळ्ळियार् पलर्"
 कूट्टु मागिल्नी कूडिडु कूडले। (२) २
 </details>
 
+<details><summary>Hart - DP_५३५</summary>
+
+He took the form of Vāmanan  
+stays happily in the forest in Thiruvenkaṭam  
+and in Thirukaṇṇapuram:  
+O kūḍal, if you want him to come here  
+and hold my hands and embrace me,  
+you should come together:  
+Come and join the place you started:  
+Kūḍiḍu kūḍale:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५३५ - ०२</summary>
 
 कूडले=कूडलु दैववे, काट्टिल्=काडिनल्लिरुव, वेङ्गडम्=वॆङ्कटगिरियल्लू, कण्णपुरनहर्=कण्णपुर नगरदल्लियू, वाट्टम्=ऒणगुविकॆ ऎम्बुदु, इन्ऱि=इल्लदॆ, महिऴ्न्दु=हर्षगॊण्डु, उऱै=नित्यवास माडुव, वामनन्=वामनावताररूपियाद भगवन्तनु, ओट्टार=ओडुत्ता, वन्दु=बन्दु, ऎन्=नन्न, कै=कैयन्नु, पट्रि=हिडिदु, तन्नॊडुम्=तन्नॊडनॆ, कूट्टुम्=कूडिसुवुदु, आहिल्=आदरॆ, नी=नीनु, कूडिडु=कूडिसु.
@@ -94,6 +116,18 @@ title = "०४ तॆळ्ळियार् पलर्"
 काम कऩ्,अणि वाणुदल् तेवगि  
 माम कऩ्,मिगु सीर्वसु तेवर्दम्,  
 कोम कऩ्वरिल् कूडिडु कूडले। ३
+</details>
+
+<details><summary>Hart - DP_५३६</summary>
+
+He, the dear son of Devaki with a shining forehead  
+and the wonderful son of famous Vasudeva  
+is praised by Nānmuhan who stays on a lotus  
+and by the other gods:  
+O kūḍal, if you want that king to come to see us,  
+you should come together:  
+Come and join the place you started:  
+Kūḍiḍu kūḍale:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५३६ - ०३</summary>
@@ -135,6 +169,18 @@ title = "०४ तॆळ्ळियार् पलर्"
 कूत्त ऩार्वरिल् कूडिडु कूडले। ४
 </details>
 
+<details><summary>Hart - DP_५३७</summary>
+
+He climbed and danced  
+on the tall blooming kaḍamba tree  
+and jumped into the pond  
+to dance on the heads of strong Kālingan:  
+O kūḍal, if you want that dancer to come to me,  
+you should come together:  
+Come and join the place you started:  
+Kūḍiḍu kūḍale:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५३७ - ०४</summary>
 
 आय् च्चि मार्हळुम्=गॊल्लतियरू, आयरुम्=गोपरू, अञ्जिड=भयपडुव हागॆ, पूत्त=हूविनिन्द तुम्बिद\(हू बिट्टिरुव\) नीळ्=ऎत्तरवाद, कडम्बु=कडहद मरवन्नु, एऱि=हत्ति, पुहप्पाय्न्दु=ऒळहोगुवन्तॆ हारि, वाय् त्त=अल्लि वासवागिद्द, काळियन्=काळीय सर्पद, मेल्=मेलॆ, नडम्=नृत्यवन्नु, आडिन=अडिद, कूत्तनार्=नटन शास्त्रनिपुणनाद भगवन्तनु, वरिल्=बरुवुदादरॆ, कूडले=कूडलु दैववे, कूडिडु=कूडिसु.
@@ -168,6 +214,17 @@ title = "०४ तॆळ्ळियार् पलर्"
 नाडि, नन्दॆरु विऩ्नडु वेवन्दिट्टु,  
 ओडै मामद याऩै युदैत्तवऩ्,  
 कूडु मागिल्नी कूडिडु कूडले। ५
+</details>
+
+<details><summary>Hart - DP_५३८</summary>
+
+He killed the elephant Kuvalayābeeḍam  
+whose forehead was decorated with an ornament:  
+If you want him to come to the middle of our street  
+in Madurai surrounded by big palaces and embrace us,  
+O kūḍal, you should come together:  
+Come and join the place you started:  
+Kūḍiḍu kūḍale:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५३८ - ०५</summary>
@@ -207,6 +264,20 @@ title = "०४ तॆळ्ळियार् पलर्"
 कॊऱ्ऱ वऩ्वरिल् कूडिडु कूडले। ६
 </details>
 
+<details><summary>Hart - DP_५३९</summary>
+
+He does not have any desires:  
+After he had just learned to walk,  
+he killed the Asurans  
+when they came as marudam trees,  
+and he killed Kamsan with his tricks:  
+He is the victorious king of shining Madurai:  
+O kūḍal, if you want him to come here to us,  
+you should come together:  
+Come and join the place where you started:  
+Kūḍiḍu kūḍale:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५३९ - ०६</summary>
 
 अट्रवन्=ननगॆ ऎल्लविधदल्लू तक्कवनु, मरुदम्=यमळ अर्जुनवृक्षगळन्नु, मुऱिय=मुरिदु बीळुव हागॆ, नडै=नडगॆयन्नु, कट्रवन्=कलितवनू, कञ्जनै=कंसनन्नु, वञ्जनैयिल्=वञ्चनॆयिन्द, शॆट्रवन्=कॊन्दवनू, तिहऴुम्=बॆळगुव, मदुरैपति=मधुरै नगरक्कॆ, कॊट्रवन्=अरसनादवनू, वरिल्=बन्दरॆ, कूडले=कूडलु दैववे, कूडिडु=\(अवनॊन्दिगॆ नन्नन्नु\)कूडिसु.
@@ -244,6 +315,18 @@ title = "०४ तॆळ्ळियार् पलर्"
 कॊऩ्ऱ वऩ्वरिल् कूडिडु कूडले। ७
 </details>
 
+<details><summary>Hart - DP_५४०</summary>
+
+The lord defeated the evil Shishupālan,  
+killed the Asurans when they came as tall marudu trees,  
+the seven bulls, the bird,  
+and the heroic Kamsan who carried a victorious spear:  
+O kūḍal, if you want that victorious hero to come to us,  
+you should come together:  
+Come and join the place where you started:  
+Kūḍiḍu kūḍale:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५४० - ०७</summary>
 
 अन्ऱु=आ कालदल्लि, इन्नादन=कॆडकुगळन्ने, शॆय्=माडिद, शिशुपालनुम्=शिशुपालनू, निन्ऱ=बॆळॆदु निन्तिरुव, नीळ्=ऎत्तरवाद, मरुदुम्=अवळि मत्तिमरगळन्नू, ऎरुदुम्=वृषभासुरनन्नू, पुळ्ळुम्=बकासुरनन्नू, वॆन्ऱि=जय तरबल्ल, वेल्=वेलायुधवन्नु, विऱल्=हिडिद, कञ्जनुम्=कंसनू, वीऴ=बीळुवन्तॆ, मुन्=ऎल्लर ऎदुरल्लि, कॊन्ऱवन्=कॊन्दवनु, वरिल्=बरुवुदादरॆ, कूडले=कूडलु दैववे, कूडिडु=कूडिसु.
@@ -277,6 +360,18 @@ title = "०४ तॆळ्ळियार् पलर्"
 कोव लऩ्वरिल् कूडिडु कूडले। ८
 </details>
 
+<details><summary>Hart - DP_५४१</summary>
+
+The protector of flourishing Dwarapuri  
+who grazes the cows and plays with the cowherds  
+does not enter the minds of people  
+if they do not want to love him:  
+O kūḍal, if you want him to come to us,  
+you should come together:  
+Come and join the place where you started:  
+Kūḍiḍu kūḍale:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५४१ - ०८</summary>
 
 आवल्=आसक्तियन्नू, अन्बु=प्रेमवन्नू, उडैयवर् तम्=उळ्ळवर, मनत्तु=मनवन्नु, अन्ऱि=अल्लदॆ, मेवलन्=बेरॆल्लियू इरदवनू\(आसक्तियिडदवनू\) विरै=सुवासनॆ, शूऴ्=तुम्बिरुव, तुवरापति=द्वारकापुरिय, कावलन्=रक्षकनू, कन्ऱु=करुगळन्नु, मेय् त्तु=मेयिसि, विळैयाडुम्=आटवाडुव, कोवलन्=गोवळनू, वरिल्=बरुवुदादरॆ, कूडले=कूडलु दैववे, कूडिडु=कूडिसु.
@@ -308,6 +403,18 @@ title = "०४ तॆळ्ळियार् पलर्"
 पण्डु मावलि तऩ्पॆरु वेळ्वियिल्,  
 अण्ड मुम्निल ऩुम्अडि यॊऩ्ऱिऩाल्,  
 कॊण्ड वऩ्वरिल् कूडिडु कूडले। ९
+</details>
+
+<details><summary>Hart - DP_५४२</summary>
+
+In ancient times  
+he went to the sacrifice of king Mahābali as a dwarf  
+and measured the earth with one foot  
+and the sky with the other:  
+O kūḍal, if you want him to come here to us,  
+you should come together:  
+Come and join the place where you started:  
+Kūḍiḍu kūḍale:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५४२ - ०९</summary>
@@ -349,6 +456,18 @@ title = "०४ तॆळ्ळियार् पलर्"
 ऒऴुगु वारण मुय्य वळित्त,ऎम्  
 अऴग ऩारणि याय्च्चियर् सिन्दैयुळ्,  
 कुऴग ऩार्वरिल् कूडिडु कूडले। १०
+</details>
+
+<details><summary>Hart - DP_५४३</summary>
+
+Our lord, the inner meaning of the four Vedas,  
+the handsome one whom the cowherd women loved in their hearts,  
+saved Gajendra, the elephant dripping with rut,  
+from the mouth of the crocodile:  
+O kūḍal, if you want him to come here to us,  
+you should come together:  
+Come and join the place where you started:  
+Kūḍiḍu kūḍale:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५४३ - १०</summary>

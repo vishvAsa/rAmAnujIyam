@@ -22,6 +22,14 @@ title = "+०९ कण्णिणुट्च्चिऱुताम्बु
 अण्णिक् कुम्अमु तूऱुमॆऩ् नावुक्के। (१)
 </details>
 
+<details><summary>Hart - DP_९३७</summary>
+
+I praise the god, the divine Māyan, my father,  
+who was tied by Yashoda with a small rope:  
+If I approach the place where the Nambi of south Kuruhur stays  
+and say his name, nectar will spring from my tongue:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_९३७ - ०१</summary>
 
 कण्णि=गण्टुगळनुळ्ळ, नुण्=नुणुपाद, शिऱु=चिक्क, ताम्बिनाल्=हग्गदिन्द, कट्टु उण्ण=कट्टिसिकॊळ्ळुवन्तॆ, पण्णिय=माडिद, पॆरुमायन्=बहळ आश्चर्यकारक शक्तियुळ्ळवनू, ऎन् अप्पनिल्=ननन् स्वामियाद सर्वेश्वरनन्नु बिट्टु, नण्णि=\(आऴ्वाररन्नु नेरवागि\) चॆन्नागि आश्रयिसि, तॆन् कुरुहूर्=सुन्दरवाद कुरुहूरिन, नम्बि ऎन्ऱक्काल्= निर्वाहकनॆम्बुदन्नु हेळिदरॆ, अण्णिक्कूम्=तुम्ब रुचिकरवागिरुत्तदॆ, ऎन्=नन्न, नावुक्के=नालगॆगे, अमुदु=अमृतवु, ऊऱुम्=ऊरुवुदु. \(स्रविसुवुदु\).
@@ -75,6 +83,14 @@ title = "+०९ कण्णिणुट्च्चिऱुताम्बु
 पावि ऩिऩ्ऩिसै पाडित् तिरिवऩे। (२)
 </details>
 
+<details><summary>Hart - DP_९३८</summary>
+
+I praise him with my tongue and relish it:  
+I yearn for the golden feet of Nambi of Thirukkuruhur  
+and I know no other god but Nambi of Thirukuruhur:  
+I wander and sing sweet songs about him:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_९३८ - ०२</summary>
 
 नाविनाल्=नालगॆयिन्द, नविट्रि=स्तोत्रमाडि, इन्बम्=आनन्दवन्नु, ऎय्दिनेन्=पडॆदिद्देनॆ, अवन्=आ आऴ्वारर, पॊन् अडि=चिन्नदन्थ पादगळन्नु, मेविनेन्=आश्रयिसिद्देनॆ, मॆय् मॆय् ये=इदु सत्यवे, मट्रु=इतर, तेवु=देवरन्नु, अऱियेन्-अरियॆनु, कुरुहूर् नम्बि=कुरुहूरिन प्रसिद्धपुरुषन, पाविन्=हाडुगळन्नु, पाशुरगळन्नु, इन् इशै=इनिदाद\(मधुरवाद\), रागदल्लि, पाडि=हाडिकॊण्डु, तिरिवने=अलॆदाडुवॆनु.
@@ -118,6 +134,15 @@ title = "+०९ कण्णिणुट्च्चिऱुताम्बु
 उरिय ऩाय्,अडि येऩ्पॆऱ्ऱ नऩ्मैये। (३)
 </details>
 
+<details><summary>Hart - DP_९३९</summary>
+
+Even if I have to wander all over,  
+I will go to rich Thirukkuruhur  
+and see the dark, beautiful form of the divine god:  
+If I go there and become a devotee of Nambi  
+that will be the most wonderful thing I could ever have:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_९३९ - ०३</summary>
 
 तॊरितन्दाहिलुम्=\(भगवन्तनन्नु उपेक्षिसि\) अलॆदाडिदॆनादरू, देवपिरानुडै=देवाधिदेवनॊडनॆ, करिय=करियबण्णद, कोलम्=सुन्दरवाद, तिरु=श्रीदेविय, उरु=स्वरूपवन्नू, काण्बन् नान्=नानु नोडुववनागुत्तेनॆ, पॆरिय=हिरिमॆय, वण्=उदारियाद, कुरुहूर् नगर् नम्बिक्कु=तिरुक्कुरुहूरिन श्रेष्ठ पुरुषन, उरिय=दृढवाद. आळ् आहि=सेवकनागि, अडियेन्=दासनाद नानु, पॆट्र=पडॆद, नन् मैये=ऒळ्ळॆयदे इदु.
@@ -153,6 +178,15 @@ title = "+०९ कण्णिणुट्च्चिऱुताम्बु
 पुऩ्मै यागक् करुदुव रादलिऩ्,  
 अऩ्ऩै यायत्त ऩायॆऩ्ऩै याण्डिडुम्  
 तऩ्मै याऩ्,सड कोबऩॆऩ् नम्बिये। (४)
+</details>
+
+<details><summary>Hart - DP_९४०</summary>
+
+The excellent, orthodox Vediyars  
+skilled in the four Vedas  
+do not think I am a good person,  
+but Sadagopan Nambi accepts me  
+and he is my mother, my chief and my ruler:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_९४० - ०४</summary>
@@ -202,6 +236,15 @@ title = "+०९ कण्णिणुट्च्चिऱुताम्बु
 कऩ्प ऩाय्,अडि येञ्जदिर्त् तेऩिऩ्ऱे। (५)
 </details>
 
+<details><summary>Hart - DP_९४१</summary>
+
+Before, I believed in the wealth of others  
+and beautiful women,  
+but today I have become a friend and devotee  
+of Nambi of Thirukkuruhur,  
+filled with pure golden palaces, and I dance there:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_९४१ - ०५</summary>
 
 मुन्=इदुवरॆगॆ, पिऱर्=इतरर, नल् पॊरुळ् तन्नैयुम्=ऒळ्ळॆय वस्तुविषयगळन्नु, ऎलाम्=ऎल्लवन्नू, नम्बिनेन्=नम्बिदॆनु, मडवारैयुम्=इतरर स्त्रोयरन्नू, नम्बिनेन्=नम्बिदॆनु, इन्ऱु=इन्दु, शॆम् पॊन् माडम्=कॆम्पुचिन्नदन्तॆ प्रकाशिसुव महडिमनॆगळ, तिरुकुरुहूर् नम्बिक्कु=पवित्रवाद
@@ -247,6 +290,16 @@ title = "+०९ कण्णिणुट्च्चिऱुताम्बु
 ऎऩ्ऱु मॆऩ्ऩै यिगऴ्विलऩ् काण्मिऩे। (६)
 </details>
 
+<details><summary>Hart - DP_९४२</summary>
+
+My dear god gave his grace  
+so I could praise his fame from today  
+for the next seven births:  
+Nambi of Thirukkuruhur,  
+filled with hills that look like large palaces,  
+will not disgrace me:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_९४२ - ०६</summary>
 
 इन्ऱु तॊट्टुम्=इन्दिनिन्दलू ऎऴुमैयुम्=नन्न अभ्युदयवन्नू, ऎम् पिरान्=नन्न स्वामियु, निन्ऱु=निन्तु, तन् पुहऴ्=तन्न कीर्तियन्नु, एत्त=स्तुतिसुवुदन्नू, अरुळिनान्=कृपॆमाडिद्दानॆ, कुन्ऱम् माडम्=बॆट्टदन्थ मनॆगळन्नुळ्ळ, तिरुक्कुर्हूर् नम्बि=तिरुकुरुहूरिन पवित्रात्मनु, ऎन्ऱुम्=ऎन्दॆन्दिगू, ऎन्नै=नन्नन्नु, इहऴ् वु इलन्=निन्दिसुव, काण्मिने=कण्डिरा.
@@ -280,6 +333,15 @@ title = "+०९ कण्णिणुट्च्चिऱुताम्बु
 पण्डै वल्विऩै पाऱ्ऱि यरुळिऩाऩ्,  
 ऎण्डि सैयु मऱिय इयम्बुगेऩ्,  
 ऒण्ड मिऴ्च्चड कोब ऩरुळैये। (७)
+</details>
+
+<details><summary>Hart - DP_९४३</summary>
+
+My chief Māṛan the son of Kāri  
+accepted me and made my bad karma go away:  
+I will tell the people of all the eight directions  
+of the grace I have received  
+from Sadagopan, the wonderful Tamil poet:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_९४३ - ०७</summary>
@@ -325,6 +387,16 @@ title = "+०९ कण्णिणुट्च्चिऱुताम्बु
 अरुळ्गण् डीरिव् वुलगिऩिल् मिक्कदे। (८)
 </details>
 
+<details><summary>Hart - DP_९४४</summary>
+
+He sang a thousand sweet Tamil pāsurams  
+through the grace of god  
+and described the meaning of the divine Vedas  
+so that his devotees praise the blessings  
+that he received from the god:  
+His giving his blessing is the best thing in the world:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_९४४ - ०८</summary>
 
 अरुळ् कॊण्डाडुम्=भगवन्तन कृपॆयन्नु कॊण्डाडुव, अडियवर्=भक्तरुगळु, इन् पुऱ=आनन्दिसुवन्तॆ, अ अरु मऱैयिन् पॊरुळ्=आ असदृशवाद वेदगळ अन्तरार्थवन्नु, अरुळिनान्= कृपॆमाडिदवनू, अरुळ् कॊण्डु=कनिकरदिन्द, इन् तमिऴ्=इनिदाद तमिळिनल्लि, आयिरम्=ऒन्दु साविर\(पाशुर\)वन्नु, पाडिनान्=हाडिदवनू आदवन, अरुळ् कण्डीर्=अनुग्रहवन्नु कण्डिरा, इ उलहिनिल्=ई लोकदल्ले, मिक्कदे=बहळ अतिशयवादद्दे.
@@ -364,6 +436,16 @@ title = "+०९ कण्णिणुट्च्चिऱुताम्बु
 निऱ्कप् पाडियॆऩ् नॆञ्जुळ् निऱुत्तिऩाऩ्,  
 तक्क सीर्च्चड कोबऩॆऩ् नम्बिक्कु,आट्  
 पुक्क काद लडिमैप् पयऩऩ्ऱे? (९)
+</details>
+
+<details><summary>Hart - DP_९४५</summary>
+
+He described the meaning of the Vedas  
+that the best Vediyars know and recite:  
+My chief Sadagopan praised by all  
+made me learn the Vedas:  
+To be his devotee and to serve him  
+is the greatest love I can receive: CHECK
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_९४५ - ०९</summary>
@@ -411,6 +493,18 @@ title = "+०९ कण्णिणुट्च्चिऱुताम्बु
 सॆयल्नऩ् ऱागत् तिरुत्तिप् पणिगॊळ्वाऩ्,  
 कुयिल्निऩ् ऱार्प्पॊऴिल् सूऴ्गुरु कूर्नम्बि,  
 मुयल्गिऩ् ऱेऩुऩ्ऱऩ् मॊय्गऴऱ् कऩ्पैये। (१०)
+</details>
+
+<details><summary>Hart - DP_९४६</summary>
+
+Nambi will accept anyone as his devotee  
+whether or not he receives benefit from him,  
+even if he is not his friend:  
+The Nambi Thirukkuruhur  
+surrounded by beautiful groves where cuckoo birds sing  
+will change him and accept him, and keep him with him:  
+I am striving to receive the love of Nambi,  
+worshipping his ankleted feet:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_९४६ - १०</summary>

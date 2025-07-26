@@ -22,6 +22,16 @@ title = "०६ वारणमायिरम् शूऴवलञ्जैद
 तोरणम् नाट्टक् कऩाक्कण्डेऩ् तोऴीनाऩ्। १
 </details>
 
+<details><summary>Hart - DP_५५६</summary>
+
+O friend, I had a dream:  
+People decorated every place with festoons  
+and put out golden pots with coconuts  
+to welcome Nāraṇan Nambi  
+when he comes in procession  
+surrounded by a thousand elephants:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५५६ - ०१</summary>
 
 वारणम्=आनॆगळु, आयिरम्=साविर, शूऴ=सुत्तुवरिदु, वलञ्जॆय्दु=प्रदक्षिणॆयागि, नारणन् नम्बि=सकलगुण परिपूर्णनाद नारायणनु, नडक्किन्ऱान्=नडॆदुबरुत्तिद्दानॆ, ऎन्ऱु=ऎन्दु,ऎदिर्=ऎदुरिगॆ, पॊन्=बङ्गारद, पूरण कुडम्=पूर्णकुम्भगळन्नु, वैत्तु=हिडिदु, पुरम्=पट्टणदल्लि, ऎङ्गुम्=ऎल्लॆल्लियू, तोरणम्=तोरणवन्नु, नाट्ट=नाटुत्तिरुवन्तॆ, नान्=नानु, कना=कनसन्नु, कण्डेन्=कण्डॆनु, तोऴे=सखिये.
@@ -59,6 +69,16 @@ title = "०६ वारणमायिरम् शूऴवलञ्जैद
 काळैबु कुदक्क ऩाक्कण्डेऩ् तोऴीनाऩ्। २
 </details>
 
+<details><summary>Hart - DP_५५७</summary>
+
+O friend, I had a dream:  
+My relatives decided the day for my wedding:  
+They decorated a beautiful pandal with kamugu trees:  
+Mādhavan Govindan who once took a form of a lion,  
+strong as a bull, entered into the pandal—  
+I saw him in my dream:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५५७ - ०२</summary>
 
 नाळै=नाळॆय दिन, वदुवै=वधुवन्नु, मणम्=मदुवॆयागुवुदु, ऎन्ऱु=ऎन्दु, नाळ्=दिनवन्नु\(मुहूर्तवन्नु\) इट्टु=निर्णयिसि, पाळै=हॊम्बाळॆ, कमुकु=अडकॆ मर \(मुन्ताद\), परिशु=अलङ्कारगळिन्द उडै=कूडिद, पन्दल्=पन्दलिन\(चप्परद\), कीऴ्=कॆळगडॆ, कोळरि=नरसिंह, मादवन्=माधव, कोविन्दन्=गोविन्द, ऎन्बान्=ऎम्ब हॆसरुगळुळ्ळवनाद, ओर्=असदृशवाद काळै=सलगवनु, पुहुद=प्रवेशिसुवुदन्नु, तोऴे=गॆळतिये, नान्=नानु, कनाक्कण्डेन्=कनसिनल्लि कण्डॆनु.
@@ -94,6 +114,16 @@ title = "०६ वारणमायिरम् शूऴवलञ्जैद
 वन्दिरुन् दॆऩ्ऩैम कट्पेसि मन्दिरित्तु,  
 मन्दिरक् कोडियु टुत्तिम णमालै,  
 अन्तरि सूट्टक्क ऩाक्कण्डेऩ् तोऴीनाऩ्। ३
+</details>
+
+<details><summary>Hart - DP_५५८</summary>
+
+O friend, I had a dream:  
+Indra and the other gods came together,  
+asked for me to be his bride  
+and made all the arrangements:  
+My sister-in-law Durgā tied a silk marriage sari on me  
+and decorated me with fragrant garlands:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५५८ - ०३</summary>
@@ -137,6 +167,16 @@ title = "०६ वारणमायिरम् शूऴवलञ्जैद
 काप्पुनाण् कट्टक्क ऩाक्कण्डेऩ् तोऴीनाऩ्। ४
 </details>
 
+<details><summary>Hart - DP_५५९</summary>
+
+O friend, I had a dream:  
+The Brahmin brought divine water  
+from different directions and sprinkled it all over:  
+They sang songs of purification:  
+The priest tied the string bound together with flowers  
+on my hand and on the divine groom’s hand to protect us:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५५९ - ०४</summary>
 
 पाप्पनर्=\(सदाचार सम्पन्नराद्\) ब्राह्मणरल्लि, शिट्टर्हळ्=शिष्टरादवरु, पल्लार्=हलवरु, नाल्=नाल्कु, दिशै=दिक्कुगळिन्दलू, तीर् त्तम्=तीर्थगळन्नु, कॊणर्न्दु=तन्दु, ननि=चॆन्नागि, नल्=प्रोक्षिसि, ऎडुत्तु=ऎत्तिद स्वरदिन्द, एत्ति=आशीर्वद माडि, पू प्पुनै=कमलद हूविनन्तॆ सुन्दरवाद, कण्णि-कण्णुगळ, पुनितनोडु=पवित्रनॊडनॆ, ऎन् तन्नै=नन्नन्नु\(जॊतॆगूडिसि\), काप्पु=रक्षॆय, नाण्=दारवन्नु, कट्ट=कट्टुत्तिरुवुदर, कना=कनसन्नु, तोऴे-=गॆळतिये,नान्=नानु, कण्डेन्=कण्डॆ.
@@ -174,6 +214,15 @@ title = "०६ वारणमायिरम् शूऴवलञ्जैद
 अदिरप् पुगुदक् कऩाक्कण्डेऩ् तोऴीनाऩ्। ५
 </details>
 
+<details><summary>Hart - DP_५६०</summary>
+
+O friend, I had a dream:  
+Dancing women carried shining lights and kalasams  
+and went in front of him and welcomed him:  
+The king of Madura walked touching the earth  
+as the earth shook:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५६० - ०५</summary>
 
 कदिर्=सूर्यन, ऒळि=प्रकाशदन्थ, दीपम्=\(मङ्गळ\)दीपवन्नू, कलशम्=कलशवन्नू, उडन्=तम्म कैगळल्लि, एन्दि=हिडिदुकॊण्डु, शतिर्=सुन्दरियराद, इळ=ऎळॆय वयस्सिन, मङ्गैयर् ताम्=हॆङ्गसरु, वन्दु=बन्दु, ऎदिर् कॊळ्ळ=ऎदुरुगॊळ्ळलु, मदुरैयार्=मधुरापुरदवर, मन्नन्=अधिपतियु, अडिनिलै=पादुकॆगळन्नु तॊट्टु=तॊट्टु\(मॆट्टि\)कॊण्डु, ऎङ्गुम्=ऎल्लॆल्लियू, अदिर्=अदुरुवन्तॆ, पुहुदु=प्रवेशिसुवुदर, कना=कनसन्नु, तोऴे-=गॆळतिये,नान्=नानु, कण्डेन्=कण्डॆ.
@@ -205,6 +254,16 @@ title = "०६ वारणमायिरम् शूऴवलञ्जैद
 मुत्तुडैत् ताम निरैदाऴ्न्द पन्दऱ्कीऴ्  
 मैत्तुऩऩ् नम्बि मदुसूदऩ् वन्दु,ऎऩ्ऩैक्  
 कैत्तलम् पऱ्ऱक् कऩाक्कण्डेऩ् तोऴीनाऩ्। ६
+</details>
+
+<details><summary>Hart - DP_५६१</summary>
+
+O friend, I had a dream:  
+The drums were beaten, the lined conches were blown  
+and my bridegroom, Nambi Madhusūdanan,  
+came and held my hand  
+under the pandal that was decorated  
+with hanging strings of pearl garlands:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५६१ - ०६</summary>
@@ -250,6 +309,16 @@ title = "०६ वारणमायिरम् शूऴवलञ्जैद
 पासिलै नाणल् पडुत्तुप् परिदिवैत्तु,  
 काय्सिऩ मागळि ऱऩ्ऩाऩॆऩ् कैप्पऱ्ऱि,  
 तीवलम् सॆय्यक्क ऩाक्कण्डेऩ् तोऴीनाऩ्। ७
+</details>
+
+<details><summary>Hart - DP_५६२</summary>
+
+Skilled Vediyars recited the Vedas,  
+and chanted mantras:  
+They made a likeness of the sun  
+with green naṇal grass:  
+He is strong as an angry elephant  
+and he held my hand and we circled the fire:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५६२ - ०७</summary>
@@ -299,6 +368,16 @@ title = "०६ वारणमायिरम् शूऴवलञ्जैद
 अम्मि मिदिक्कक् कऩाक्कण्डेऩ् तोऴीनाऩ्। ८
 </details>
 
+<details><summary>Hart - DP_५६३</summary>
+
+O friend, I had a dream:  
+He is the refuge for this birth  
+and the fourteen future births:  
+He, our king Narayaṇan Nambi held my feet  
+with his divine, perfect fingers  
+and placed them on the grinding stone:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५६३ - ०८</summary>
 
 इम्मैक्कूम्=ई जन्मक्कू, एऴेऴ् विऱक्कूम्=एळेळु जन्मगळिगू, पट्रु=आधार\(कारण\), आवान्=आगिरुववनू, नम्मै=नम्मन्नु, उडैयवन्=ऒळगॊण्डवनू, नम्बि=सकल कल्याणगुणपरिपूर्णनू, नारायणन्=नारायणनू आद, श्रीकृष्णनु, शॆम्मै=कॆम्पाद, उडैय=बण्णवुळ्ळ, \(तन्न\)तिरु=पवित्रवाद, कैयाल्=कैयिन्द
@@ -342,6 +421,17 @@ title = "०६ वारणमायिरम् शूऴवलञ्जैद
 पॊरिमुगन् दट्टक् कऩाक्कण्डेऩ् तोऴीनाऩ्। ९
 </details>
 
+<details><summary>Hart - DP_५६४</summary>
+
+O friend, I had a dream:  
+My brothers with shining faces and bows  
+came and, standing before us,  
+kindled the fire and made it bright:  
+They joined my hand with the hand of Achuthan  
+who once took the form of a lion,  
+and they poured popped rice on it:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५६४ - ०९</summary>
 
 वरि=सुन्दरवाद, शिलै=बिल्लिनन्तॆ, वाळ्=हुब्बुगळन्नुळ्ळ, मुकम्=मुखवुळ्ळ, ऎन्=नन्न, ऐमार् ताम्=अण्णन्दिरु, वन्दिट्टु=बन्दु, ऎरि=अग्निय, मुकम्=मुखवन्नु, पारित्तु=चॆन्नागि हरडुवन्तॆ माडि, ऎन्नै=नन्नन्नु, मुन्ने=अदर मुन्दुगडॆ, निऱुत्ति=निल्लिसि, अरिमुकन्=सिंहदमुखवुळ्ळवनू, अच्चुतन्=अच्युतनू आद श्रीकृष्णन, कैम्मेल्=कैय मेलॆ, ऎन्=नन्न, कैवैत्तु=कैयन्निट्टु, पॊरि=अरळन्नु, मुकन्दु=तुम्बि,अट्ट=\(अग्निगॆ\) समर्पिसिद, कना=कनसन्नु, तोऴे-=गॆळतिये,नान्=नानु, कण्डेन्=कण्डॆ.
@@ -381,6 +471,16 @@ title = "०६ वारणमायिरम् शूऴवलञ्जैद
 मङ्गल वीदि वलंसॆय्दु मणनीर्,  
 अङ्गव ऩोडु मुडञ्जॆऩ्ऱङ् गाऩैमेल्,  
 मञ्जऩ माट्टक्क ऩाक्कण्डेऩ् तोऴीनाऩ्। १०
+</details>
+
+<details><summary>Hart - DP_५६५</summary>
+
+O friend, I had a dream:  
+Adorned with kumkum  
+and smeared with cool sandal paste,  
+I went with him on an elephant in procession  
+circling all the auspicious streets  
+as people sprinkled turmeric water on us:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५६५ - १०</summary>

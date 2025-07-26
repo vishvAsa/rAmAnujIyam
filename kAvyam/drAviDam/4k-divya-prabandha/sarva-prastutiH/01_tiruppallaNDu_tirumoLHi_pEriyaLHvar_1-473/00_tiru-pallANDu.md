@@ -22,6 +22,18 @@ title = "०० पल्लाण्डु पल्लाण्डु"
 सॆव्वडिसॆव्विधिरुक्काप्पु। (२)
 </details>
 
+<details><summary>Hart - DP_१</summary>
+
+This world says,  
+“Hills covered with clouds are the breasts of the earth goddess,  
+the wide oceans are her clothes  
+the bright sun is her thilagam,  
+wide rivers are the ornaments on her ample chest,  
+large dark clouds are her hair,  
+and the ocean is her boundary:  
+She is three things, dharma, wealth and moksha:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_१ - ०१</summary>
 
 मल्= बलशालिगळाद जट्टिगळन्नु, आण्ड= गॆद्दु हुट्टडगिसिद, तिण्= बलिष्ठवाद, तोळ्= बाहुगळुळ्ळ, मणिवण्णा= नीलमणियन्तॆ ,मनोहरवाद देहद बण्णवुळ्ळवने, पल् आण्डु= अनेक वर्षगळु, पल् आण्डु= अनेकानेक वर्षगळु, पल् आयिरत्तु आण्डु= हलवारु साविर वर्षगळु, पलकोडि नूऱायिरं==हीगॆये \(हलवु कोटिनूरुसाविर वर्षगळु\) लॆक्क माडलु आगदष्टु ऎन्दरॆ असङ्ख्यात वर्षगळु, उन्=निन्न, शे= कोमलवाद कॆम्पाद, अडि= पादगळ, शॆव्वि= दिव्य सौन्दर्यक्कॆ, तिरुक्काप्पु= श्रीरक्षॆयिरलि.
@@ -67,6 +79,15 @@ title = "०० पल्लाण्डु पल्लाण्डु"
 पडैबोर्बुक्कुमुऴङ्गुम् अप्पाञ्जसऩ्ऩियमुम्बल्लाण्डे। (२)
 </details>
 
+<details><summary>Hart - DP_२</summary>
+
+Many get dharma and wealth  
+but they are not permanent:  
+People say there is a third thing  
+that is higher than those two,  
+but they speak in ignorance—I will explain why:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_२ - ०२</summary>
 
 अडियोम् ओडुम्= सेवकरागिरुव नम्मॆल्लरॊडनॆयू, निन्ऱोडुम्= स्वामि\(सेव्य\)याद निन्नॊडनॆयू, पिरिवि= अगलिकॆ, इन्ऱि= इल्लद हागॆ, आयिरम् पल्लाण्डु= साविरारु वर्षगळु \(चिरकाल\) नडॆदु बरलि, वडिवु= सौन्दर्यवु, आय्= रूपवादन्तॆ, निन्= निन्न, वल मार्पिनिल्= बल वक्षदल्लि, वाऴ् किन्ऱि= वासमाडुत्तिरुव, मङ्गैयुम्= श्रीदेवियू, पल्लाण्डु= चिरकाल इरलि, वडिचु= सौन्दर्य, आर्= तुम्बिकॊण्डिरुव , शोदि= तेजः पूर्णवाद, वलत्तु= बलगडॆ \(कै\)यल्लि, उऱैयुम्= नॆलसिरुव, शुडर्= शत्रुगळन्नु सुडुवन्थ, आऱियुम्= चक्रायुधवू,, पल्लाण्डु= चिरकालविरलि, पडै= सैन्यगळ नडुवॆ, पोर् पुक्कु= युद्धगळल्लि नुग्गि, मुऴिङ्गुम्= शत्रु हृदयभेदकवागि\) मॊळगुव, अप्पाञ्च शन्नियमुम्= आ पाञ्चजन्यवू, पल्लाण्डे= चिरकालविरलि.
@@ -104,6 +125,15 @@ title = "०० पल्लाण्डु पल्लाण्डु"
 कूऴाट्पट्टुनिऩ्ऱीर्गळै ऎङ्गळ्गुऴुविऩिल्बुगुदलॊट्टो म्  
 एऴाट्कालुम्बऴिप्पिलोम्नाङ्गळ् इराक्कदर्वाऴ्इलङ्गै  
 पाऴाळागप्पडैबॊरुदाऩुक्कुप् पल्लाण्डुगूऱुदमे। ३
+</details>
+
+<details><summary>Hart - DP_३</summary>
+
+The sun god rides on a chariot  
+yoked to seven horses and goes around the world–  
+does he only go to the world of the gods and stay there?  
+That would be like someone wanting to eat meat  
+who leaves a rabbit and goes after a crow:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_३ - ०३</summary>
@@ -147,6 +177,18 @@ title = "०० पल्लाण्डु पल्लाण्डु"
 कूडुमऩमुडैयीर्गळ् वरम्बॊऴिवन्दुऒल्लैक्कूडुमिऩो  
 नाडुम्नगरमुम्नऩ्कऱिय नमोनारायणायवॆऩ्ऱु  
 पाडुमऩमुडैप्पत्तरुळ्ळीर्। वन्दुबल्लाण्डुगूऱुमिऩे। ४
+</details>
+
+<details><summary>Hart - DP_४</summary>
+
+She says,  
+“O friend with beautiful young breasts,  
+listen to what happened to me:  
+I adorned my dark hair and tied it up,  
+put a band around my beautiful breasts  
+a mekalai around my waist,  
+and put kohl on my sharp spear-like eyes:  
+I was playing ball happily:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_४ - ०४</summary>
@@ -224,6 +266,18 @@ title = "०० पल्लाण्डु पल्लाण्डु"
 पन्दऩैदीरप्पल्लाण्डु पल्लायिरत्ताण्डॆऩ्ऱुबाडुदमे। ६।
 </details>
 
+<details><summary>Hart - DP_६</summary>
+
+“My friends, my brothers and others came to me and told me,  
+‘Come, let us go and see him,’  
+and I went with them: It was my fate:  
+Suddenly my body grew pale  
+and the bangles on my hands became loose  
+and fell and I couldn’t find them:  
+Whatever others said to me,  
+I didn’t listen to them:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६ - ०५</summary>
 
 ऎन्दै= नन्न तन्दॆ, तन्दै= नन्न तन्दॆय तन्दॆयू, तन्दै= अवर तन्दॆयू, तन्दै= अवर तन्दॆयू, तम्मूत्तप्पन्= अवर तन्दॆय तातनू-हीगॆ एऴ्= एळु, पडिकाल्= तलॆमारुगळ कालदिन्द, वऴिवऴु= परम्परॆयागि, क्रमतप्पदन्तॆ, वन्दु=बन्दु, आट् चॆय् किन्ऱोम्= सेवॆ माडुत्तिद्देवॆ, तिरु=पवित्रवाद, ओणम्= श्रवण नक्षत्रदल्लि, तिरु=श्रेष्ठवाद, विऴिविल्= दिनदन्दु, अम्= सुन्दरवाद, अन्दि= मुच्चञ्जॆय, अरि= हरिय\(ऎन्दरॆ, नरहरिय\), उरु=रूप, आहि=आगि, अरियै= शत्रुवन्नु, अऴित्तवनै= नाशमाडिद परमात्मन, पन्दनै= आयासवु, तीर=तीरुवन्तॆ, पल्लाण्डु पल्लायिरत्ताण्डु= चिरकाल मङ्गळ, ऎन्ऱु= ऎन्दु, पाडुदुमे= हाडोण.
@@ -262,6 +316,16 @@ title = "०० पल्लाण्डु पल्लाण्डु"
 कोयिऱ्पॊऱियालेऒऱ्ऱुण्डुनिऩ्ऱु कुडिगुडिआट्चॆय्गिऩ्ऱोम्  
 मायप्पॊरुबडैवाणऩै आयिरन्दोळुम्बॊऴिगुरुदि  
 पाय सुऴऱ्ऱियआऴिवल्लाऩुक्कुप् पल्लाण्डुगूऱुदुमे। ७।
+</details>
+
+<details><summary>Hart - DP_७</summary>
+
+“I was confused,  
+and became weak and pale:  
+My loving mother  
+with a voice as sweet as a parrot’s,  
+seeing me suffering, was concerned  
+and put vibhuti on my forehead to protect me:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७</summary>

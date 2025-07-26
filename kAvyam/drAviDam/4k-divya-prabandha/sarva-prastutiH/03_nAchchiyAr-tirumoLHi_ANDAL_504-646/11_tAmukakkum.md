@@ -22,6 +22,16 @@ title = "११ तामुहक्कूम् तङ्गैयिल्"
 आमुगत्तै नोक्काराल् अम्मऩे। अम्मऩे। १
 </details>
 
+<details><summary>Hart - DP_६०७</summary>
+
+O friends adorned with precious jewels,  
+aren’t the bangles that I wear on my hands  
+as precious as the conch that he carries in his hand?  
+Won’t the lord of Srirangam  
+resting on the fiery-faced snake look at me?  
+It is very hard for me, very hard:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६०७ - ०१</summary>
 
 इऴैयीर्=युवतियरे, याम्=नानु, उहक्कुम्=इष्टपडुव, ऎन्=नन्न, कैयिल्=कैयल्लिधरिसिरुव शङ्गम्=बळॆगळु, एन्दु=आसरॆगॆन्दु मुन्दॆबन्दरॆ \(चाचिदरॆ\), ताम्=अवनु \(भगवन्तनु\), उहक्कुम्=आशॆपडुव, तम्मा=अवन \(तन्न\) कैयिल्=कैयल्लि धरिसिरुव, शङ्गमे=शङ्खवे, पोलावो=ऎदुरिसुव आयुधवो? ती=भयङ्करवाद, मुहत्तु=मुखवुळ्ळ, नाह=शेषन, अणैमेल्=हासुगॆय मेलॆ, शेरुम्=पवडिसिरुव, तिरु अरङ्गर्=श्रीरङ्गनाथनु, मुहत्ते=\(नन्न\)मुखवन्नु, नोख्कार्=नोडुवुदिल्ल, आ=अय्यो, आल्=अय्यो, अम्माने अम्माने=अम्मा, अम्मा.
@@ -61,6 +71,16 @@ title = "११ तामुहक्कूम् तङ्गैयिल्"
 कुऴलऴगर् वायऴगर् कण्णऴगर्, कॊप्पूऴिल्  
 ऎऴुगमलप् पूवऴग रॆम्माऩार्, ऎऩ्ऩुडैय  
 कऴल्वळैयैत् तामुम् कऴल्वळैये याक्किऩरे। २
+</details>
+
+<details><summary>Hart - DP_६०८</summary>
+
+O lovely women,  
+the sweet nectar-like lord of Srirangam  
+with his beautiful hair, mouth and eyes  
+and a lovely lotus on his navel with Nānmuhan on it  
+made my bangles loosen and fall:  
+Did he take them so he could wear them?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६०८ - ०२</summary>
@@ -104,6 +124,16 @@ title = "११ तामुहक्कूम् तङ्गैयिल्"
 ऎङ्गोल् वळैया लिडर्दीर्व रागादे। (२) ३
 </details>
 
+<details><summary>Hart - DP_६०९</summary>
+
+With his scepter my dear lord of Srirangam  
+rules the world surrounded by roaring oceans  
+and the world of the sky, keeping trouble away from them:  
+Would my bangles that he has made loose  
+help him remove all the troubles of the world  
+and keep it prosperous?
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६०९ - ०३</summary>
 
 पॊङ्गु=उक्कुत्तिरुव, ओदम्=समुद्रदिन्द, शूऴ्न्द=सुत्तुवरिद, पुवनियुम्=भूलोकवन्नू, विण् उलहुम्=मेलण लोकवन्नू, अङ्गादुम्=स्वल्पवादरू, शोरामे=कॊरतॆयिल्लदन्तॆ, आळ् हिन्ऱ=आळुत्तिरुव, ऎम् पॆरुमान्=नन्न स्वामिय, शॆङ्गोल्=श्वेतच्छत्र\(आळ्विकॆ\), उडैय=उळ्ळ, तिरु अरङ्गम्=श्रीरङ्गद, शॆल्वनार्=विभूतिपुरुषनु, ऎन्=नन्न, कॊल् वळैयाल्=कैबळॆयिन्द, इडर्=कष्टगळन्नु, तीर्वर्= तोरिसुववरु, आहादे=आगुवुदिल्लवे?
@@ -137,6 +167,18 @@ title = "११ तामुहक्कूम् तङ्गैयिल्"
 पच्चैप् पसुन्देवर् ताम्बण्डु नीरेऱ्ऱ,  
 पिच्चैक् कुऱैयागि यॆऩ्ऩुडैय पॆय्वळैमेल्,  
 इच्चै युडैयरे लित्तॆरुवे पोदारे ? ४
+</details>
+
+<details><summary>Hart - DP_६१०</summary>
+
+Vamanan, the divine god of Srirangam  
+filled with beautiful palaces and walls,  
+went to Mahābali in ancient times as a sage,  
+made him pour water on his hands,  
+cheated him and took his lands:  
+Wasn’t that enough for him?  
+If he wants my bangles also can’t he come to my street  
+and ask for them?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६१० - ०४</summary>
@@ -174,6 +216,19 @@ title = "११ तामुहक्कूम् तङ्गैयिल्"
 ऎल्ला वुलगु मळन्दुगॊण्ड वॆम्बॆरुमाऩ्,  
 नल्लार्गळ् वाऴुम् नळिररङ्ग नागणैयाऩ्,  
 इल्लादोम् कैप्पॊरुळु मॆय्दुवा ऩॊत्तुळऩे। ५
+</details>
+
+<details><summary>Hart - DP_६११</summary>
+
+The lord who rests on the snake bed  
+in Srirangam where good people live  
+went to Mahābali as the cheating Vāmanan  
+and made him give him his land  
+by pouring water on his golden hands  
+and measured all the worlds and the sky:  
+We are poor and have little:  
+It seems he wants to take the little things  
+that we have in our hands:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६११ - ०५</summary>
@@ -221,6 +276,17 @@ title = "११ तामुहक्कूम् तङ्गैयिल्"
 मॆय्प्पॊरुळुम् कॊण्डारे। ६
 </details>
 
+<details><summary>Hart - DP_६१२</summary>
+
+He is the beloved god of Srirangam  
+where the Kaveri river flows  
+carrying riches from everywhere and nourishing the fields:  
+He is the inner meaning of the four Vedas  
+and cannot be reached by anyone, high or low:  
+He already stole my bangles  
+and now he has stolen my heart:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६१२ - ०६</summary>
 
 कैप्पॊरुळ् हळ्=\(नन्न\)कैयल्लिरुव वस्तुगळन्नु\(कैबळॆगळन्नु\), मुन्नमे=मॊदलल्लिये, कैक्कॊण्डार्=स्वीकरिसिदनु, काविरिनीर्=कावेरिय नीरु, शॆय्=गद्दॆगळल्लि, पुरळ=हॊरळुवन्तॆ, \(हॊरळुत्ता\), ओडुम्=हरियुत्तिरुव, तिरुवरङ्गम्=श्रीरङ्गद, शॆल्वनार्=सुन्दरनाद भगवन्तनु, ऎप्पॊरुट्कुम्=याव वस्तुविगादरू, निन्ऱार्=अन्तर्यामियागि इरुववनु, आर् क्कूम्=यारिगू, ऎय्दादु=हॊन्दलु आगदॆ\(सिक्कदॆ\), नान् मऱैयिन्=नाल्कुवेदगळ, शॊल्=मातिगॆल्ल, पॊरुळाय्=मूलवस्तुवागि, निन्ऱार्=इरुववनु, ऎन्=नन्न, मॆय् प्पॊरुळुम्=देहद वस्तुवन्नू\(अन्तरङ्गवॆम्ब वस्तुवन्नू\), कॊण्डारे=स्वीकरिसुवरल्लवे?
@@ -256,6 +322,20 @@ title = "११ तामुहक्कूम् तङ्गैयिल्"
 पॆण्णाक्कै याप्पुण्डु तामुऱ्ऱ पेदॆल्लाम्,  
 तिण्णार् मदिळ्सूऴ् तिरुवरङ्गच् चॆल्वऩार्,  
 ऎण्णादे तम्मुडैय नऩ्मैगळे यॆण्णुवरे। ७
+</details>
+
+<details><summary>Hart - DP_६१३</summary>
+
+When he had the form of Rāma,  
+the divine god of Srirangam  
+surrounded by strong walls  
+suffered as he thought of his wife Sita:  
+He didn’t eat or sleep when he was without her  
+and he made a bridge over the ocean  
+to bring her back from Lanka:  
+We are separated from him,  
+but he doesn’t worry about us  
+and thinks only of making himself happy:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६१३ - ०७</summary>
@@ -295,6 +375,17 @@ title = "११ तामुहक्कूम् तङ्गैयिल्"
 पेसि यिरुप्पऩकळ् पेर्क्कवुम् पेरावे। (२) ८
 </details>
 
+<details><summary>Hart - DP_६१४</summary>
+
+He, the bright lord, took the form of an unclean pig  
+in ancient times, split open the ground  
+and rescued the earth goddess  
+when an Asuran hid her in the underworld:  
+Even if I don’t want to think of the promises  
+that the beautiful shining god of Srirangam made to me,  
+I cannot forget them:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६१४ - ०८</summary>
 
 पण्डु=हिन्दिन कालदल्लि, ऒरुनाळ्=ऒन्दु सल, पाशि=पाचियिन्द, तूर् त्तु=मुच्चिहोगि, किडन्द=बिद्दिद्द, पार्=भूमियॆम्ब, मकट्कु=हॆङ्गसिगागि, माशु=कॊळॆयिन्द तुम्बिद, उडम्बिल्=देहदल्लि, नीर्=नीरु, वारा=सुरियुत्तिरुव, मानम्=गौरव, इला=इल्लद, पन्ऱि=हन्दि, आम्=आद, तेशु=तेजस्सु, उडैय=उळ्ळ, देवर्=भगवन्तनु, तिरु अरङ्गम्=श्रीरङ्गद, शॆल्वनार्=विभूतिपुरुषनु, पेशि=मातनाडि, इरुप्पनहळ्=इरुवुवॆल्ल, पेर् क्कवुम्=\(मनदल्लिये\) हॆप्पुगट्टिबिडलॆन्दरू, पेरावे=गड्डॆकट्टुवुदिल्लवल्ला\!
@@ -330,6 +421,15 @@ title = "११ तामुहक्कूम् तङ्गैयिल्"
 तिण्णार्न् दिरुन्द सिसुबालऩ् तेसऴिन्दु,  
 अण्णान् दिरुक्कवे याङ्गवळैक् कैप्पिडित्त,  
 पॆण्णाळऩ् पेणुमूर् पेरु मरङ्गमे। ९
+</details>
+
+<details><summary>Hart - DP_६१५</summary>
+
+When Sisupalan wanted to marry Rukmini,  
+after all the arrangements had made,  
+Kannan fought him, took Rukmini with him and married her:  
+Sriranganathan, the lord of Srirangam,  
+will help me as he helped Rukmani:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६१५ - ०९</summary>
@@ -381,6 +481,15 @@ title = "११ तामुहक्कूम् तङ्गैयिल्"
 तामुगप्प रॆऩ्ऩुंसॊल्,  
 तम्मिडैये पॊय्याऩाल्  
 सादिप्पा रारिऩिये । १०
+</details>
+
+<details><summary>Hart - DP_६१६</summary>
+
+Vishṇuchithan composed pāsurams  
+describing the love between Kaṇṇan and the cowherd women:  
+They said, “the lord says, ‘I love those who love me,’  
+but though we love him he does not love us:  
+He lies to us, but how can we prove it?”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६१६ - १०</summary>

@@ -30,6 +30,19 @@ title = "०१ इरुळिरियच्चुडर् मणिहळि
 कण्णिणैग ळॆऩ्ऱुगॊलो कळिक्कुम् नाळे। १।१
 </details>
 
+<details><summary>Hart - DP_६४७</summary>
+
+When will the day come when my two eyes see  
+the dark god shining like a komalam jewel,  
+resting on his beautiful white shining bed, the king of snakes  
+with a thousand shining foreheads  
+that remove the darkness with their bright diamonds,  
+as the god’s feet are washed  
+by the clear water of the Ponni river flowing  
+in the Thiruppadi of Srirangam:  
+When will my two eyes see him and feel happy?
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६४७ - ०१</summary>
 
 इरुळ्=कत्तलॆयु, इरिय=चॆदरि ओडुवन्थ, शुडर्=प्रकाशवन्नु हरिसुव, मणिहळ्=मणिगळु, इमैक्कूम्=मिनुगुत्तिरुव, नॆट्रि=हणॆ\(नॆत्ति\)यन्नुळ्ळ, इनम्=श्रेष्ठवाद, तुत्ति=गुरुतन्नुळ्ळ, अणि=अन्दवाद, आयिरम्=साविर, पणङ्गळ्=हॆडॆगळु, आर्न्द=कूडिद, अरवु=नागगळिगॆ, अरसन्=अरसनाद, पॆरु=अतिशयवागि\(बहळ\) जोदि=बॆळगुव \(तेजस्वरूपनाद\), अनन्तन्=अनन्त, ऎन्नुम्=ऎम्ब, अणि=दिव्यवाद, विळङ्गुम्=हॊळॆयुव, उयर्=अतिशयवाद, वॆळ्ळै=बिळिय\(शुभ्रवाद\)अणैयै=हासुगॆयन्नु, मेवि=आश्रयिसि, तिरु अरङ्गम्=श्रीरङ्गवॆम्ब, पॆरु=दॊड्ड, नहरुळ्=नगरदल्लि, तॆळ्=तिळियाद, नीर्=तीर्थवन्नुळ्ळ\(नीरिन\), पॊन्नि=कावेरिनदियु, तिरै=अलॆगळु ऎम्ब, कैयाल्=कैगळिन्द, अडि=पादगळन्नु, वरुड=तॊळॆयुत्तिरलु, पळ्ळिकॊळ्ळुम्=पवडिसिरुव, करुमणियै=नीलमणियन्थवनन्नु, कोमळत्तै=कोमलद स्वरूपनन्नु, कन्डुकॊण्डु=कण्डुकॊण्डु, ऎन्=नन्न, कण् इणैहळ्=जोडिकण्णुगळु, कळिक्कूम्=कळॆयुव, नाळे=समयवे, ऎन्ऱु कॊलो=ऎन्दिगॆ बरुवुदो?
@@ -72,6 +85,20 @@ title = "०१ इरुळिरियच्चुडर् मणिहळि
 कडियरङ्गत् तरवणैयिल् पळ्ळि कॊळ्ळुम्  
 मायोऩै मणत्तूणे पऱ्ऱि निऩ्ऱॆऩ्  
 वायार ऎऩ्ऱुगॊलो वाऴ्त्तुम् नाळे १।२
+</details>
+
+<details><summary>Hart - DP_६४८</summary>
+
+When will the day come  
+that I can praise wholeheartedly our god, Māyon,  
+decorated with fragrant garlands  
+and dark as a kāyām flower?  
+He stays in my mind like a pillar  
+and rests on the water in Srirangam  
+on the fiery snake that has a curving body  
+and a thousand heads that spit fire  
+and that looks like a canopy made of fresh flowers:  
+When will I see him?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६४८ - ०२</summary>
@@ -125,6 +152,19 @@ title = "०१ इरुळिरियच्चुडर् मणिहळि
 अणियरङ्गत् तरवणैयिल् पळ्ळि कॊळ्ळुम्  
 अम्माऩ्ऱ ऩटियिणैक्की ऴलर्ग ळिट्टङ्  
 गडियवरो टॆऩ्ऱुगॊलो अणुगुम् नाळे १।३
+</details>
+
+<details><summary>Hart - DP_६४९</summary>
+
+When will the day come  
+when I can place flowers under his feet  
+and approach him with his devotees  
+as the good Nānmuhan with four faces  
+and eight beautiful eyes praises him with his four tongues?  
+Our dear lord shining like pure gold  
+keeps Nānmuhan on a lovely lotus on his navel  
+while he sleeps on the beautiful snake bed in Srirangam:  
+When will I see him?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६४९ - ०३</summary>
@@ -202,6 +242,21 @@ title = "०१ इरुळिरियच्चुडर् मणिहळि
 मलर्सॆऩ्ऩि यॆऩ्ऱुगॊलो वणङ्गुम् नाळे १।५
 </details>
 
+<details><summary>Hart - DP_६५१</summary>
+
+When will the day come  
+when I worship, bowing my head,  
+and see the dear sapphire-colored lord  
+decorated with garlands  
+resting on the snake bed in Srirangam  
+that is rich and filled with palaces and beautiful porches?  
+He is praised by Narada and the rishi Thumburu there ,  
+playing sweet matchless music on their yāzhs  
+and Nānmuhan, adorned with beautiful flowers,  
+worships him constantly with the incomparable ancient Vedas:  
+When will I see him?
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६५१ - ०४</summary>
 
 इणै=जॊतॆ, इल्ला=इल्लद, इन्=मधुरवाद, इशै=गानवन्नु, याऴ्=वीणॆगळिन्द, कॆऴुमि=तुम्बिसि, इन्बम्=आनन्दवन्नुण्टुमाडुव, तुम्बुरुवुम्=तुम्बुरनू, नारदनुम्=नारदनू, इऱैञ्जि=साष्टाङ्गवॆरगि, एत्त=नुतिसलु, तुणै=जॊतॆ इल्ला=इल्लद, तॊल्=अनादियाद, मऱै=वेदगळिन्दलू, नूल्=शास्त्रगळिन्दलू,तोत्तिरत्ताल्=स्तोत्रगळिन्दलू, तॊल्=शाश्वतवाद,मलर् क्कण्=हूविनल्लिरुव, अयन्=चतुर्मुखब्रह्मनु, वणङ्गि=नम्रनागि\(साष्टाङ्गवॆरगि\), ओवादु=सततवागि, एत्त=स्तुतिसलु, मणि=सुन्दरवाद, माडम्=महडिमनॆगळु, माळिहैहळ्=माळिगॆ मनॆगळु, मल् हु=तुम्बिरुव, शॆल्वम्=ऐश्वर्यदिन्द तुम्बिरुव, मदिळ्=प्राकारगळिन्द कूडिद
@@ -253,6 +308,20 @@ title = "०१ इरुळिरियच्चुडर् मणिहळि
 उळ्ळमिग ऎऩ्ऱुगॊलो वुरुगुम् नाळे १।६
 </details>
 
+<details><summary>Hart - DP_६५२</summary>
+
+When will the day come when I worship  
+melting in my heart and see the divine face  
+bright as the moon and the lotus eyes of him  
+resting on the snake bed in beautiful Srirangam  
+surrounded by groves blooming with fragrant flowers?  
+Nānmuhan who stays on a beautiful lotus,  
+Shiva, Indira and all other gods, Apsarases  
+and wise sages join together and sprinkle flowers  
+in all the directions and worship him there:  
+When will I see him?
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६५२ - ०५</summary>
 
 अळि=दुम्बिगळु सेरुव, मलर्=हूविन,मेल्=मेलॆ हुट्टिद, अयन्=ब्रह्मनू, अरन्=हरनू, इन्दिरनोडु=इन्द्रनॊडनॆ, एनै=उळिद, अमरर्हळ् तम्=देवतॆगळू, कुऴुवुम्=समूहवू, अरम्बैयरुम्=रम्भॆ मॊदलादवरू, मट्रुम्=उळिद, तॆळि=परिशुद्धवाद\(तिळियाद\) मदि=ज्ञानवन्नु, शेर्=उळ्ळ, मुनिवर्हळ् तम्=महर्षिगळ, कुऴुवुम्=समूहवू, उन्दि=ऒट्टागि, तिशैतिशैयिल्=ऎल्ल दिक्कुगळल्लियू, मलर्=हूगळन्नु, तूवि=तूरिडुत्ता, शॆन्ऱु शेरुम्=बन्दुसेरुव स्थळवाद , कळि मलर्=जेनुतुम्बिद हूगळुळ्ळ, पॊऴिल्=लतागृहगळुम् तोपुगळु इरुव, अरङ्गत्तु=श्रीरङ्गद देवालयदल्लि, उरहम्=सर्पवन्नु, एऱि=एरि, कण् वळरुम्=पवडिसुव, कडल् वण्णर्=कडलबण्णदवनन्नु, कमलम्=कमलदन्थ, कण्णुम्=कण्णुगळुळ्ळवनन्नु, ऒळि=तेजस्सन्नुळ्ळ, मदि=चन्द्रन, शेर्=हागॆ, तिरुमुखमुम्=पवित्रवाद मुखवन्नुळ्ळवनन्नु, कण्डुकॊण्डु=कण्डुकॊण्डु, ऎन्=नन्न, उळ्ळम्=मनस्सु, मिह=बहळवागि, उरुहुम्=करगि होगुवुदु, ऎन्ऱुकॊलो=ऎन्दिगो?
@@ -298,6 +367,20 @@ title = "०१ इरुळिरियच्चुडर् मणिहळि
 अणियरङ्गत् तरवणैयिल् पळ्ळि कॊळ्ळुम्  
 निऱम्दिगऴुम् मायोऩैक् कण्डॆऩ् कण्गळ्  
 नीर्मल्ग ऎऩ्ऱुगॊलो निऱ्कुम् नाळे १।७
+</details>
+
+<details><summary>Hart - DP_६५३</summary>
+
+When will the day come  
+when my eyes, filled with tears,  
+see the dark-colored Māyon resting on the snake bed  
+in beautiful Srirangam on the Kaveri river?  
+He changes the evil hearts of people to good,  
+helps them control their five senses  
+and relieves them of the burden of their troubles and sickness,  
+making them his devotees  
+so they can follow the ways of dharma in their minds:  
+When will I see him?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६५३ - ०६</summary>
@@ -351,6 +434,19 @@ title = "०१ इरुळिरियच्चुडर् मणिहळि
 वल्विऩैये ऩॆऩ्ऱुगॊलो वाऴुम् नाळे १।८
 </details>
 
+<details><summary>Hart - DP_६५४</summary>
+
+When will the day come  
+when I who have done bad karma  
+can see and join happily the god  
+resting on the snake bed in Srirangam  
+surrounded by groves and flourishing fields where fish frolic?  
+He protects the world with his long bent bow, conch,  
+sword, his discus that destroys his enemies  
+and his vehicle Garuḍa that flies in the sky:  
+When will I see him?
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६५४ - ०७</summary>
 
 कोल् =बाणदिन्द, आर्न्द-कूडिद, नॆडु=दॊड्डदाद, शार्ङ्गम्=शार्ङ्गवॆम्भ धनुस्सू, कून्=बळॆबळॆयागि सुत्तिकॊण्डिरुव, नल्=ऒळ्ळॆय, शङ्गम्-शङ्खवू, कॊलै=कॊलॆ माडबल्ल\(क्रूरवाद\)आऴि=चक्रवू, कॊडु=क्रूरवाद, तण्डु=गदॆयू, कॊट्रम्=जयगळिसुव, ऒळ्=हॊळॆयुव, वाळ्=-खड्गवू, काल्=हारुविकॆयिन्द \(वेगवागि सञ्चार माडुवुदरिन्द\), आर्न्द=कूडिद, कति=चलनॆय, करुडन्=गरुडनु, ऎन्नुम्=ऎम्ब, कडुम्=दॊड्डदा, वॆन्ऱि=जयशीलनाद, पऱवै=पक्षियू, इवै=इवु, अनैत्तुम्=ऎल्लवू, पुऱम्=ऎल्ल कडॆगळल्लियू, शूऴ्=आवरिसिकॊण्डु, काप्प=कावलागिरुव, शेल्=मीनुगळु, आर्न्द=तुम्बिद, नॆडु=दॊड्डदॊड्ड, कऴनि=गद्दॆगळिन्दलू, शोलै=तोपुगळिन्दलू, शूऴ्न्द=सुत्तुवरिदिरुव, तिरु=पवित्रवाद, अरङ्गत्तु=श्रीरङ्गद देवालयद, अरवु अणैयिल्=शेषशयनदल्लि, पळ्ळिकॊळ्ळुम्=पवडिसुव, मालोनै=सर्वेश्वरनन्नु, कण्डु=नोडि,इन्बम्=आनन्दवु, कलवि= कलॆतु, वल्=बहळ जॆट्ट, विनैयानै=कॆलसळवनु, वाऴुनाळ्=बाळुव काल, ऎन्ऱुकॊलो=ऎन्दिगो?
@@ -398,6 +494,21 @@ title = "०१ इरुळिरियच्चुडर् मणिहळि
 तिरुवरङ्ग तरवणैयिल् पळ्ळि कॊळ्ळुम्  
 पोराऴि यम्माऩैक् कण्डु तुळ्ळिप्  
 पूदलत्ति लॆऩ्ऱुगॊलो पुरळुम् नाळे १।९
+</details>
+
+<details><summary>Hart - DP_६५५</summary>
+
+When will the day come  
+when I worship, jumping and rolling on the ground,  
+and see the dear lord with a discus  
+resting on the snake bed in Srirangam  
+where the beating of beautiful drums  
+is like the sound of the ocean  
+and devotees, joined together in a group  
+and loving the lord in their minds,  
+sing devotional songs,  
+shed tears like rain and praise him happily?  
+When will I see him?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६५५ - ०८</summary>
@@ -449,6 +560,23 @@ title = "०१ इरुळिरियच्चुडर् मणिहळि
 अणियरङ्गऩ् तिरुमुऱ्ऱत्तु अडियार् तङ्गळ्  
 इऩ्पमिगु पॆरुङ्गुऴुवु कण्डु याऩुम्  
 इसैन्दुडऩे यॆऩ्ऱुगॊलो विरुक्कु नाळे १।१०
+</details>
+
+<details><summary>Hart - DP_६५६</summary>
+
+When will the day come  
+when I see the group of happy devotees  
+and join them and am joyful  
+in the divine temple of beautiful Srirangam  
+where Thirumāl rests facing south  
+giving his grace so that the wide sky pours rain,  
+the gods in the heavens are saved,  
+the earth flourishes,  
+the people of the world survive,  
+the sorrow of people disappears,  
+good health increases in the world  
+and his devotees live happily?  
+When will I see him?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६५६ - ०९</summary>

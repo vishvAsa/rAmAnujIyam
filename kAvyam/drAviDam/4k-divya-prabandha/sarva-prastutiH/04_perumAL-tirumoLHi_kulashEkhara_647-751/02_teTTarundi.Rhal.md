@@ -30,6 +30,18 @@ title = "०२ तेट्टरुन्दिऱल्"
 काणुम्गण्बय ऩावदे २।१
 </details>
 
+<details><summary>Hart - DP_६५८</summary>
+
+If I am able to see and join  
+the happy group of true devotees  
+who call, sing and dance, enthralled,  
+and think only of Rangan of south Srirangam,  
+as sweet as honey, hard to find,  
+decorated with garlands that never wither,  
+with the goddess of wealth seated on his chest,  
+that will be the purpose of this birth:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६५८ - ०१</summary>
 
 तेट्टरुम्=हुडुकि पडॆयतक्कवनू, तिऱल्=शक्तियन्नुण्टु माडतक्कवनू., तेन् इनै=जेनिनन्थ सिहियादवनू, तॆन्=सुन्दरवाद, अरङ्गनै=श्रीरङ्गदल्लि नॆलसिरुववनू, तिरु=श्रीदेवियु, मादु=हिरिमॆयिन्द कूडि, वाऴ्=बाळुव,\(स्थळदल्लि\) वाट्टम् इल्=बाडुविकॆयिल्लद, वनमालै=वनमालॆयन्नु, मार्बनै=ऎदॆयल्लि धरिसिदवनू आद श्रीरङ्गनाथनन्नु, वाऴ् त्तु=बाळलित्तु\(बाळलु हॊगळि\), माल् कॊल्=मोहगॊण्ड, चिन्तैयर् आय्=चिन्तनॆयन्नुळ्ळवरागि, आट्टम्=\(निन्तल्लिये\) कुणिदाडलु, मेवि=मॊदलु माडि, अलन्दु=\(भगवन्नामगळन्नु\) बायिबिट्टु कूगि, अऴैत्तु=करॆदु, अयर् वु=निश्शक्तियन्नु, ऎय्दुम्=पडॆद, मॆय्=निजवाद, अडियार्हळ् तम्=भक्तर, ईट्टम्=कूटवन्नु, कण्डिड=सेविसुवुदक्कॆ\(सेवॆ माडुवुदक्कॆ\), कूडुम् एल्=सेरिकॊळ्ळुवुदादरॆ, अदु=अदु, काणुम् कण्=काणुव कण्णिगॆ, पयन्=फलवु, आवदे=आगुवुदे निज.
@@ -75,6 +87,19 @@ title = "०२ तेट्टरुन्दिऱल्"
 ऴैक्कुम्दॊण्ड रडिप्पॊडि  
 आडऩाम्बॆऱिल् कङ्गैनीर्गुडैन्  
 दाडुंवेट्कैयॆऩ् ऩावदे २।२
+</details>
+
+<details><summary>Hart - DP_६५९</summary>
+
+If I can see and join the devotees  
+who praise him saying,  
+“O Ranga, you embrace Lakshmi,  
+seated on a lotus with blooming buds:  
+You cut down the tall mango tree with your shining sword  
+and you grazed the cows,”  
+and if I can think only of him and call him,  
+dance, sing and worship the dust on his devotees’ feet,  
+why should I desire to bathe in the Ganges?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६५९ - ०२</summary>
@@ -126,6 +151,20 @@ title = "०२ तेट्टरुन्दिऱल्"
 रङ्गऩ्कोयिल् तिरुमुऱ्ऱम्  
 सेऱुसॆय्दॊण्डर् सेवडिच्चॆऴुञ्  
 जेऱॆञ्जॆऩ्ऩिक् कणिवऩे २।३
+</details>
+
+<details><summary>Hart - DP_६६०</summary>
+
+His devotees sing and praise him, saying,  
+“You conquered the bulls:  
+Taking the form of a boar you split the earth:  
+As Rāma you conquered your enemy Ravaṇan:  
+You came as a dwarf and measured the earth:”  
+When I see your devotees as they make the front yard  
+of Rangan’s temple wet with their tears  
+that are like the flow of abundant water of the rich Ponni river,  
+I will put on my head the good dust  
+that is beneath their divine feet:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६६० - ०३</summary>
@@ -203,6 +242,17 @@ title = "०२ तेट्टरुन्दिऱल्"
 एत्तिवाऴ्त्तुमॆऩ् नॆञ्जमे २।४
 </details>
 
+<details><summary>Hart - DP_६६१</summary>
+
+My heart praises and worships the divine feet  
+of the devotees who call, worship, melt and praise him, saying,  
+“Nāraṇa, you are our dear god:  
+You were not afraid that Yashoda might punish you  
+when she saw you stealing and eating the butter,  
+good yogurt and milk:  
+You stood there bravely and tapped your arms in front of her:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६६१ - ०४</summary>
 
 तोय्=गट्टियागि हॆप्पुगट्टिद, तण्=तम्पाद, तयिर्=मॊसरु, वॆण्णॆय्=बॆण्णॆ, पाल्=हालु इवुगळन्नॆल्ला, उडन्=ऒट्टागि\(ऒन्दे सल\), उण्डलुम्=उण्णलु, उडन्ऱु=कोपगॊण्डु, आय् च्चि=यशोदॆयु, कण्डु=नोडिद, आर् त्त=सुन्दरवाद, तोळ् उडै=तोळुगळुळ्ळ, ऎन्बिरान्=नम्म ऒडॆयनाद, ऎन्=नन्न, अरङ्गनुक्कु=श्रीरङ्गनाथनिगॆ, अडियार्हळ्=सेवकरु\(भक्तरु\), आय्=आगि, ना=नालगॆयु, तऴुम्बु=अभ्यासवन्नु, ऎऴ=पडॆयुवन्तॆ, नारणा=नारायणा, ऎन्ऱु=ऎन्दु, अऴैत्तु=कूगुत्ता मॆय्=ऒडलॆल्ल, तऴुम्ब=कायिकट्टुवन्तॆ, तॊऴुदु=सेवॆ माडि, एत्ति=स्तोत्रमाडि, इन्बुऱुम्=आनन्दवन्नु अनुभविसुव, तॊण्डर्=भक्तर, शे अडि=पवित्रवाद पादगळन्नु, एत्ति=स्तुतिसुत्ता, वाऴ् त्तुम्=बाळुवन्तॆ मङ्गळ हेळु, ऎन्=नन्न, नॆञ्जमे=मनस्से\!
@@ -252,6 +302,19 @@ title = "०२ तेट्टरुन्दिऱल्"
 दॆऩ्मऩम्मॆय्सि लिर्क्कुमे २।५
 </details>
 
+<details><summary>Hart - DP_६६२</summary>
+
+He has the color of a dark cloud  
+and carries a heroic bow:  
+He killed seven evil bulls, breaking their horns,  
+and he danced on the snake Kalingan:  
+My mind trembles  
+when I think of the devotees  
+whose bodies shake when they worship Rangan  
+of southern Srirangam  
+surrounded by strong shining stone walls:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६६२ - ०५</summary>
 
 पॊ=कृत्रिमद, शिलै=कोफद, कुरल्=ध्वनिय, एऱु=गूळिय, ऎरुत्तम्=कुत्तिगॆयन्नु, इऱुत्तु=मुरिदवनाद, पोर्=होराटदल्लि, अरवु=सर्पवन्नु,ईर् त्त=सोलिसिद, कोन्=स्वामियु, शॆय् शिलै=कल्लिनिन्द कट्टिद, शुडर्=प्रज्वलिसुव, ऒळि=तेजस्सिनिन्द, शूऴ्=आवरिसिरुव, तिण्णम्=बलवाद, मा=बलुदॊड्ड, मदिळ्=कोटॆगोडॆयुळ्ळ, तॆन्=सॊबगिन, अरङ्गन्=श्रीरङ्गनाथनु, आम्=हौदु\(आगिद्दानॆ\), मॆय्=निजवागि, शिलै=आर्भटिसुव, करुमेहम्= करिय मुगिलु, ऒन्ऱु=ऒन्दु, तम्=तम्म, नॆञ्जिल्=मनस्सिनल्लि\(अन्तरङ्गदल्लि\), निन्ऱु=निन्तु, तिहऴ् प्पोय्=बॆळगुवुदरिन्द, मॆय् शिलर् प्पवर् तम्मैये=रोमाञ्चनवन्नु अनुभविसुव भागवतरे, ऎन्=नन्न, मनम्=मनदल्लि \(निन्तु\), मॆय् शिलर् क्कूमे=रोमाञ्चनवन्नुण्टु माडलि.
@@ -299,6 +362,18 @@ title = "०२ तेट्टरुन्दिऱल्"
 तिरिन्दरङ्गऩॆम् माऩुक्के  
 कादल्सॆय्दॊण्डर्क् कॆप्पिऱप्पिलुम्  
 कादल्सॆय्युमॆऩ् ऩॆञ्जमे २।६
+</details>
+
+<details><summary>Hart - DP_६६३</summary>
+
+In all my births, my heart worships and praises  
+those devotees who love and serve Rangan  
+and wander everywhere to show  
+the faultless good path to sinners  
+who do not have devotion  
+and do not worship the divine feet of Thirumāl,  
+the lord without beginning or end,  
+the wonderful one, the dear god of the gods:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६६३ - ०६</summary>
@@ -372,6 +447,18 @@ title = "०२ तेट्टरुन्दिऱल्"
 वारमागुमॆऩ् ऩॆञ्जमे २।७
 </details>
 
+<details><summary>Hart - DP_६६४</summary>
+
+My heart loves and praises  
+the feet of the devotees  
+who love Thirumāl and shed tears,  
+melting in their hearts as they worship him,  
+a bright wonderful light,  
+Rangan of Srirangam, with a red mouth,  
+teeth like pearls, a body dark as a cloud  
+and a chest decorated with Thulasi garlands:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६६४ - ०७</summary>
 
 कार्=कार्मुगिलुगळ, इनम्=कूटक्कॆ, पुरै=समनाद, मेनि=देहवन्नू, नल्=उत्तमवाद, कदिर्=तेजस्सन्नू, मुत्तम्=मुत्तिनन्थ, वॆण्=बिळिय, नहै=नगॆयन्नु, शॆय्य=माडुवन्थ, वाय्=बायन्नू, आरम्=हारवन्नु, मार्वन्=ऎदॆयल्लि उळ्ळवनन्नू, अरङ्गन्=श्रीरङ्गनाथ, ऎन्नुम्=ऎम्ब,अरुम्=अपरूपवाद, पॆरुम्=हिरिमॆयन्नुळ्ळ, शुडर्=ज्योति, ऒन्ऱिनै=ऒम्दन्नु, शेरुम्=सेरिकॊळ्ळुव, नॆञ्जिनर् आहि=मनस्सिनवरागि, शेर्न्दु=हागॆये सेरिकॊण्डु, कशिन्दु=उद्वेगगॊण्डु, इऴिन्द=सुरिसुत्तिरुव, कण्णीर् हळाल्=कण्णीरिनिन्द, वार=मग्गुलल्लि, निऱ् पवर्=निन्तिरुववर, ताळ्=कलौगळ, इणैक्कू=जॊतॆगॆ, ऒरु=सरियाद \(ऒप्पुवन्थ\), वारम्=प्रेमद अनुवर्ति, आहु=आगु, ऎन्=नन्न, नॆञ्जमे=मनस्से.
@@ -419,6 +506,18 @@ title = "०२ तेट्टरुन्दिऱल्"
 रिन्दरङ्गऩॆम् माऩुक्के  
 मालैयुऱ्ऱिडुम् तॊण्डर्वाऴ्वुक्कु  
 मालैयुऱ्ऱतॆऩ् नॆञ्जमे २।८
+</details>
+
+<details><summary>Hart - DP_६६५</summary>
+
+He has lovely flower-like eyes  
+and his divine mountain-like chest  
+wears a fragrant thulasi garland  
+swarming with bees and dripping with honey  
+as he rests on the milky ocean:  
+My heart falls in love with those devotees  
+who are fascinated by him  
+and wander, sing, dance and worship Rangan, our dear lord:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६६५ - ०८</summary>
@@ -478,6 +577,17 @@ title = "०२ तेट्टरुन्दिऱल्"
 मऱ्ऱैयार्मुऱ्ऱुम् पित्तरे २।९
 </details>
 
+<details><summary>Hart - DP_६६६</summary>
+
+The devotees of Rangan, my lord and father,  
+as they shed tears of joy,  
+tremble, long for him in their hearts  
+worship, dance and sing:  
+They seem mad but they are not:  
+It is those people who do not worship, dance, sing  
+and praise him who are truly mad:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६६६ - ०९</summary>
 
 मॊय् त्तु=ऎडॆबिडदॆ, कण् पनि=कण्णीरु, शोर=सुरियुत्तिरलु, मॆय् हळ्=ऒडलॆल्ला, शिलिर् प्प=निविरेळलु, एङ्गि=बसवळिदु, इळैत्तु=शक्तिगुन्दि, निन्ऱु=निन्तु, ऎय् त्तु=निश्चलनागि, कुम्पिडु=कैमुगिदु, नट्टम्=नाट्यवन्नु, इट्टु=आडि, ऎऴुन्दु=ऎद्दुनिन्तु, आडि=सुत्ताडि, पाडि=हाडि, इऱैञ्जि=स्तोत्रमाडि, ऎन्=नन्न अत्तन्=तन्दॆयाद, अच्चन्=स्वामियाद, अरङ्गनुक्कू=श्रीरङ्गनाथनिगॆ, अडियार्हळ्=पादसेवकरु \(भक्तरु\) आहि=आगि, अवनुक्के=अवनल्लिये, पित्तम्=मोह, आमवर्=गॊळ्ळुववरु, पित्तर् अल्लर् हळ्=व्यामोहगॊळ्ळदवरु, मट्रैयार्=इतररु, मुट्रम्=ऎल्लरू, पित्तरे=हुच्चरे सरि.
@@ -523,6 +633,18 @@ title = "०२ तेट्टरुन्दिऱल्"
 कोऴिक्कोऩ्कुल सेगरऩ्  
 सॊल्लिऩिऩ्तमिऴ् मालैवल्लवर्  
 तॊण्डर्दॊण्डर्ग ळावरे २।१०
+</details>
+
+<details><summary>Hart - DP_६६७</summary>
+
+Kulasekharan, the king of Uraiyur,  
+the lord of Kuḍal Nagar and the protector of Kolli hills  
+composed sweet Tamil pāsurams on Rangan,  
+the beloved of Lakshmi:  
+He abides in the minds of his true devotees  
+if they think only of him and serve him as his slaves:  
+If they learn and recite these pāsurams  
+they will become the devotees of his devotees:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६६७ - १०</summary>

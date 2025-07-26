@@ -22,6 +22,15 @@ title = "०३ मॆय्यिल् वाऴ्"
 मैयल् कॊण्डाऴिन् देऩॆऩ्ऱऩ् मालुक्के ३।१
 </details>
 
+<details><summary>Hart - DP_६६८</summary>
+
+All the people of this world  
+think that the false life on this earth is true:  
+I do not want to join them:  
+I call you, “O dear father, Ranga!”  
+and suffer falling in love with you, my Thirumāl:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६६८ - ०१</summary>
 
 मॆय्=सत्यवु,, इल्=अल्लद, वाऴ् क्कैयै=बाळ्वॆयन्नु, मॆय्=सत्य, ऎन्=ऎन्दु, कॊळ्ळुम्=भाविसुव\(तिळियुव\), इवैयम् तन्नॊडुम्=ई लोकदवरॊडनॆ, कूडुवदु इल्लै=कूडिकॊळ्ळुवुदु इल्ल, यान्=नानु, ऐयने=स्वामी, अरङ्गा=श्रीरङ्गनाथा, ऎन्ऱु=ऎन्दु, अऴैक्किन्ऱेन्=कूगुत्तिद्देनॆ, ऎन् तन्=नन्न, मालुक्के=स्वामिगागिये, मैयल् कॊण्डु=व्यामोहगॊण्डु, ऒऴिन्देन्=उळिदिद्देनॆ.
@@ -57,6 +66,16 @@ title = "०३ मॆय्यिल् वाऴ्"
 ञालन् दऩ्ऩॊडुम् कूडुव तिल्लैयाऩ्  
 आलिया अऴैया अरङ्गा वॆऩ्ऱु  
 मालॆ ऴुन्दॊऴिन् देऩॆऩ्ऱऩ् मालुक्के ३।२
+</details>
+
+<details><summary>Hart - DP_६६९</summary>
+
+The people of the world  
+love women with beautiful waists as thin as threads:  
+I do not want to join them:  
+I call you, saying, “O Ranga who sleep on the banyan leaf,  
+my love increases for you, the Thirumāl,  
+and I suffer with love for you:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६६९ - ०२</summary>
@@ -139,6 +158,15 @@ title = "०३ मॆय्यिल् वाऴ्"
 उण्ड वायऩ्ऱ ऩुऩ्मत्तऩ् काण्मिऩे ३।४
 </details>
 
+<details><summary>Hart - DP_६७१</summary>
+
+The people of this world  
+crave food and clothes and search for them:  
+I do not want to join them:  
+See, he drank milk from the breasts of the cruel devil Putanā,  
+and I am crazy for Rangan, the lord of the world:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६७१ - ०४</summary>
 
 उण्डिये=आहारवन्नु, उडैये=वस्त्रवन्ने \(उडुगॆयन्ने\)उहन्दु=आशिदि, ओडुम्=ओडुत्तिरुव, इ मण्डलत्तॊडुम्=ई भूमण्डलदॊडनॆ, यान्=नानु, कूडुवदिल्लै=कूडिकॊळ्ळुवुदिल्ल, अण्डवाणन्=ब्रह्माण्डदल्लॆल्ला नॆलसिरुववनू, वल्=बलिष्ठळाद, पेय्=राक्षसिय, मुलै=मॊलॆयन्नु, उण्डवायन्=उण्ड बायुळ्ळवनू आद, अरङ्गन् तन्=श्रीरङ्गनाथन, उन्मत्तन्=हुच्चुहिडिदवनागि, काण्मिने=नोडिरि\(काणिरि\).
@@ -178,6 +206,15 @@ title = "०३ मॆय्यिल् वाऴ्"
 पेदै मामण वाळऩ्ऱऩ् पित्तऩे ३।५
 </details>
 
+<details><summary>Hart - DP_६७२</summary>
+
+I do not join with those who do evil things  
+when there are good things to do:  
+I am crazy for the ancient one, the cowherd, Rangan,  
+the beloved husband of innocent Lakshmi  
+seated on a beautiful lotus:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६७२ - ०५</summary>
 
 तीदु=दोषगळु, इल्=इल्लद, नल्=उत्तमवाद, नॆऱि=धर्ममर्गवु, निऱ् क=इरलागि, अल्लादु=अदक्कॆ व्यतिरिक्तवादद्दन्नु, शॆय्=माडुव, नीतियारॊडुम्=नीतिवन्तरॊडनॆ, यान्=नानु, कूडुवदिल्लै=कूडिकॊळ्ळुवुदिल्ल, आदि=ऎल्लक्कू आदियादवनाद, आयन्=गोवळनागि अवतरिसिद, अरङ्गन्=श्रीरङ्गनाथनाद, अम्=सुन्दरवाद, तामरै=तावरॆयल्लिय, पेदै=हॆण्णाद, मा=लक्ष्मीदेविय, मणवाळन् तन्=गण्डनल्लि, पित्तने=मोहगॊण्डवने.
@@ -213,6 +250,15 @@ title = "०३ मॆय्यिल् वाऴ्"
 उम्बर् वाऴ्वैयॊऩ् ऱाग करुदिलऩ्  
 तम्बि राऩम रर्क्कु,अरङ् गनगर्  
 ऎम्बि राऩुक्कॆ ऴुमैयुम् पित्तऩे ३।६
+</details>
+
+<details><summary>Hart - DP_६७३</summary>
+
+I will not join people  
+if they are not the devotees of the highest: :  
+I do not think the life of any other god in the sky is best:  
+For all my seven births I want to be a crazy devotee  
+of my dear god of the gods of divine Srirangam:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६७३ - ०६</summary>
@@ -260,6 +306,15 @@ title = "०३ मॆय्यिल् वाऴ्"
 पित्त ऩायॊऴिन् देऩॆम्बि राऩुक्के ३।७
 </details>
 
+<details><summary>Hart - DP_६७४</summary>
+
+My mind shuns the thought of joining anyone  
+who is not your devotee:  
+I call you, “O Thirumāl with beautiful eyes,  
+you are my Rangan, you are my lord!”  
+and I become crazy for you, my beloved: :
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६७४ - ०७</summary>
 
 ऎत्तिऱत्तिलुम्=याव विषयदल्लियादरू, याव रीतियल्लियादरू, यारॊडुम्=यार जॊतॆयल्लियादरू, कूडुम्=कूडिकॊण्डुबिडुव, अच्चित्तम् तन्नै=आ मनस्सन्नु, तविर् त्तनन्=तप्पिसिदवनु, शॆङ्गण् माल्=कॆन्दावरॆय कण्णुळ्ळ सर्वेश्वरनु\(नीने\), अत्तने=स्वामिये\(तन्दॆये\), अरङ्गा ऎन्ऱु=श्रीरङ्गा ऎन्दु, अऴैक्किन्ऱेन्=कूगि करॆयुत्तिद्देनॆ, ऎम् पिरानुक्के=नन्न स्वामिगॆये, पित्तन् आय्=मोहगॊण्डवनागि, ऒऴन्देन्=अळिदुळिदिद्देनॆ.
@@ -297,6 +352,15 @@ title = "०३ मॆय्यिल् वाऴ्"
 पेय ऩायॊऴिन् देऩॆम्बि राऩुक्के ३।८
 </details>
 
+<details><summary>Hart - DP_६७५</summary>
+
+Everyone in the world looks crazy to me:  
+and I am also crazy:  
+I tell this to all and call you,  
+“O cowherd, Ranga!”  
+and I become crazy for you, my dear lord:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६७५ - ०८</summary>
 
 यावरुम्=ऎल्लरू, ऎनक्कू=ननगॆ, पेयरे=हुच्चरे, यानुम्=नानू सह, ऎवर् क्कूम्=ऎल्लरिगू ,पेयने=ऒब्ब हुच्चने, इदु=इदन्नु, पेशि=हेळि, एन्=एनु प्रयोजन? आयने=गोवळ रूपदवने, अरङ्गा-श्रीरङ्गनाथा, ऎन्ऱु=ऎन्दु, अऴैक्किन्ऱेन्= कूगि करॆयुत्तिद्देनॆ, ऎम् पिरानुक्के=नन्न स्वामिगागिये, पेयनाय्=हुच्चनागि, ऒऴिन्देन्=अळिदुळिदिद्देनॆ.
@@ -328,6 +392,17 @@ title = "०३ मॆय्यिल् वाऴ्"
 तङ्गु सिन्दैत् तऩिप्पॆरुम् पित्तऩाय्  
 कॊङ्गर् कोऩ्कुल सेगरऩ् सॊऩ्ऩसॊल्  
 इङ्गु वल्लवर्क् केदमॊऩ् ऱिल्लैये ३।९
+</details>
+
+<details><summary>Hart - DP_६७६</summary>
+
+The king of Kongu country Kulasekharar  
+thinks only of the feet of him who rests on the ocean,  
+and he composed pāsurams about the devotees  
+who are crazy for the lord:  
+If devotees recite the words of Kulasekaran  
+they will have no troubles in their lives:  
+Lord of Thiruvenkaṭam hills
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६७६ - ०९</summary>

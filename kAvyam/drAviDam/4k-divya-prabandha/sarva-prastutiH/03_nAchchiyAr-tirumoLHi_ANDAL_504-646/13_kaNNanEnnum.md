@@ -30,6 +30,16 @@ title = "१३ कण्णनॆन्नुङ्करुन्दॆय् 
 वाट्टम् तणिय वीसीरे। १
 </details>
 
+<details><summary>Hart - DP_६२७</summary>
+
+She says, “I love the dark Kaṇṇan  
+and I long to see him and suffer:  
+O mothers, your gossip is like pouring tamarind juice on a wound:  
+The dear lord does not know how this girl suffers:  
+Bring the colorful silk cloth that decorates his waist  
+and use it to fan me and make me cool:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६२७ - ०१</summary>
 
 कण्णन्=कृष्ण, ऎन्नुम्=ऎम्ब, करु=करियबण्णद, दॆय्वम्=परदेवतॆय, काट्टि=सौन्दर्यद दृश्यदल्लि, पऴहि=अनुभव हॊन्दि, किडप्पेनै=इरुव नन्न विषयदल्लि, पुण्णिल्=हुण्णिन मेलॆ, पुळि=हुळियन्नु, पॆय्दाल् पॊल=सुरिद हागॆ, पुऱम्=हॊरगिनवरागि, निन्ऱु=निन्तु, अऴहु पेशादे=अणकद मातन्नाडदॆ, पॆण्णिन्=हॆण्णिन, वरुत्तम्=सङ्कटगळन्नु, अऱियाद=तिळियद, \(अरियलारद\), पॆरुमान्=भगवन्तन, अरैयिल्=सॊण्टदल्लिरुव, पीतह=हळदि, वण्ण=बण्णद, आडै=वस्त्रवन्नु, कॊण्डु=तॆगॆदुकॊण्डु, वाट्टम्=विरह तापवु, तणिय=आरुव हागॆ, ऎन्नै=नन्नन्नु, वीशीरे=बीसिरि.
@@ -75,6 +85,17 @@ title = "१३ कण्णनॆन्नुङ्करुन्दॆय् 
 कुडन्दैक् किडन्द कुडमाडि,  
 नीलार् तण्णन् दुऴाय्गॊण्डॆऩ्  
 नॆऱिमेऩ् कुऴल्मेल् सूट्टीरे। २
+</details>
+
+<details><summary>Hart - DP_६२८</summary>
+
+She says, “I fell into the love-net of the highest lord  
+who rested on the soft banyan leaf as a baby:  
+Don’t gossip uselessly as if you were piercing someone with a spear:  
+He is a cowherd and grazes the cows holding a stick,  
+and he danced on a pot in Kuḍanthai:  
+Bring the cool thulasi garland of the dark-colored Kaṇṇan  
+to decorate my soft curly hair:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६२८ - ०२</summary>
@@ -169,6 +190,18 @@ title = "१३ कण्णनॆन्नुङ्करुन्दॆय् 
 परुक्कि यिळैप्पै नीक्किरे। ४
 </details>
 
+<details><summary>Hart - DP_६३०</summary>
+
+She says, “He is as sweet as nectar,  
+the dark bull who stole butter and milk  
+from the cowherd women  
+has made me weak with love for him and I am heartbroken:  
+Who is there to relieve this sorrow?  
+If you bring the water that springs from his the nectar-like mouth,  
+and feed that to me, the weakness of my body  
+and my love sickness will go away:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६३० - ०४</summary>
 
 आरे=यारिद्दारॆ, उलहत्तु=ई लोकदल्लि, आट्रुवार्=समाधानपडिसुववरु? आयर् पाडि=इडिय नन्दगोकुलवे, कवर्न्दु=आशॆपट्टु, उण्णुम्=अनुभविसुव, कार्=करिय, एऱु=वृषभदन्थवनु, उऴक्क=विनोदवाड;उ, उऴक्कु=आ विनोदद हिंसॆयन्नु, उण्डु=अनुभविसुत्ता, तळर्न्दुम्=शक्तिगुन्दियू, मुऱिन्दुम्=स्वभाववन्नु कळॆदुकॊण्डू, किडप्पेनै=बिद्दिरुव ननगॆ, आरा=तृप्ति तीरदन्थ, अमुदम्=अमृतक्कॆ, अनैयान् तन्=समनादवन, अमुदम्=अमृतवन्नु सुरिसुव बायल्लि, ऊऱिय=ऊरुत्तिरुव, नीर् तान्=नीरन्ने\(मधुर रसवन्ने\), पुलरामे=ऒणगदॆ हसियागिरुव हागॆये, कॊणर्न्दु=तन्दु, परुक्कि=कुडिसि, इळैप्पै=दणिवन्नु, नीक्कीरे=नीगिसिरि.
@@ -212,6 +245,17 @@ title = "१३ कण्णनॆन्नुङ्करुन्दॆय् 
 नॆडुमा लूदि वरुगिऩ्ऱ  
 कुऴलिऩ् तॊळैवाय् नीर्गॊण्डु  
 कुळिर मुगत्तुत् तडवीरे। ५
+</details>
+
+<details><summary>Hart - DP_६३१</summary>
+
+She says, “Even when people weep, and even if they worship him,  
+he does not come before them and say, “Don’t be afraid!”  
+He, the matchless Neḍumāl, came, embraced me, entered my heart,  
+and now seems to follow me everywhere without ever leaving:  
+Sprinkle the water on my face  
+that comes from the holes of his flute  
+as he plays it walking behind his cows in the grove:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६३१ - ०५</summary>
@@ -259,6 +303,17 @@ title = "१३ कण्णनॆन्नुङ्करुन्दॆय् 
 पोगा वुयिरॆऩ् ऩुडम्बैये। ६
 </details>
 
+<details><summary>Hart - DP_६३२</summary>
+
+She says, “This world is unfair:  
+Thirumāl, the son of Nandagopan,  
+makes me suffer as if I were crushed  
+beneath the feet of a bull:  
+I can’t even move:  
+Bring the dust from where he has walked,  
+smear it on me, and I will survive:"
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६३२ - ०६</summary>
 
 नडै=नडतॆ, ऒन्ऱुम्=स्वल्पवू, इल्ला=इल्लद, उलहत्तु=ई लोकदल्लि, नन्दकोपालन्=नन्दगोपन, महन्=मग, ऎन्नुम्=ऎम्ब, कॊडिय=क्रूरियाद\(कठिणनाद\), कडिय=स्वार्थियाद, तिरुमालाल्=श्रीपतिय, कुळम्बु=अडिय तळद, कूऱुक्कु=भागक्कॆ, उळपट्टु=ऒळपट्टु\(सिक्किकॊण्डु\), पुडैयुम्=अत्तित्त मिसुकलू, पॆयरहिल्लेन्=आगदवळागिद्देनॆ, नान्=नानु, पोट्कन्=तण्टॆकोरनु, मिदित्त=तुळिदाडिद, अडिप्पाट्टिल्=स्थळदल्लॆल्ला, पॊडित्तान्=\(पाद\)धूळन्नु, कॊणर्न्दु=तन्दु, पूशीर् हळ्=नन्न मैगॆल्ला लेपिसिरि, पोहा=होगलारद, उयिर्=जीवविरुव, ऎन्=नन्न, उडम्बेये=ई शरीरवे.
@@ -304,6 +359,16 @@ title = "१३ कण्णनॆन्नुङ्करुन्दॆय् 
 अणैय वमुक्किक् कट्टीरे। ७
 </details>
 
+<details><summary>Hart - DP_६३३</summary>
+
+She says, " Carrying a victorious eagle flag,  
+he rules the world and all obey him:  
+Yashoda raised him but she only made him  
+like an unripe, bitter fruit:  
+If he embraces tightly my faultless breasts with his young strong arms,  
+my faults will go away and I will be happy:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६३३ - ०७</summary>
 
 वॆट्रि=विजयसूचकवाद, करुळक्कॊडियान्=गरुडध्वजवुळ्ळ भगवन्तन, तन् मीमीदु=आज्ञॆयन्नु मीरि, आडा=नडॆयद, उलहत्तु=ई लोकदल्लि, वॆट्रवॆऱिदे=याव कॆलसक्कू बारदन्तॆ निष्प्रयोजकवागि, पॆट्रताय्=हॆत्ततायियु, वेम्बु आह=कहियागि\(कॆट्टवनन्नागि\) तन्न मगनन्नु, वळर् त्ताळे=बॆळॆसिदळल्ला\! कुट्रम्=पापवन्नु, अट्र=इल्लद\(अरियद\), मुलैतन्नै=\(नन्न\)स्तनगळन्नु, कुमरन्=नित्ययौवनद, कोलम्=दिव्यसुन्दरवाद, पणै=दीर्घवाद, तोळोडु=बाहुगळॊडनॆ, अट्रम्=अपमानवू, कुट्रम्=पापवू, अवै=अवुगळिन्द, तीर=तीरुवन्तॆ, अणैयाह=भद्रवागि\(चॆन्नागि\), अमुक्कि=बिडिसिकॊळ्ळलारदन्तॆ अमुकि, कट्टीरे=कट्टिबिडिरि.\(बन्धिसिरि\).
@@ -347,6 +412,16 @@ title = "१३ कण्णनॆन्नुङ्करुन्दॆय् 
 कॊङ्गै तऩ्ऩैक् किऴङ्गोडुम्  
 अळ्ळिप् पऱित्तिट् टवऩ्मार्विल्  
 ऎऱिन्दॆऩ् अऴलै तीर्वेऩे। ८
+</details>
+
+<details><summary>Hart - DP_६३४</summary>
+
+She says, “I melt in my heart for him  
+who carried Govardhana mountain and I suffer:  
+He doesn’t even care whether I’m alive or not:  
+If I see that mischievous one who stole my heart,  
+I will take my useless breasts and throw them on his chest:  
+Perhaps that will make my fire-like anger cool:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६३४ - ०८</summary>
@@ -398,6 +473,19 @@ title = "१३ कण्णनॆन्नुङ्करुन्दॆय् 
 सेर्त्ता ऩेलुम् ऒरुञाऩ्ऱु,  
 मॆय्म्मै सॊल्लि मुगम्नोक्कि  
 विडैदाऩ् तरुमेल् मिगनऩ्ऱे। ९
+</details>
+
+<details><summary>Hart - DP_६३५</summary>
+
+She says, “If I cannot serve Govindan in this birth,  
+making my breasts happy,  
+what is the use of doing tapas in the future?  
+If he embraces me with his chest it would be good,  
+or if he looks at me and tells me the truth to my face,  
+saying, “I don’t want you, goodbye!” it would also be good:  
+If he doesn’t want me what is the use of waiting  
+without knowing what he wants?  
+Isn’t it better if he tells me the truth?”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६३५ - ०९</summary>

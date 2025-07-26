@@ -22,6 +22,17 @@ title = "०८ मन्नुपुहऴ् क्कौसलै"
 ऎऩ्ऩुडैय इऩ्ऩमुदे इरागवऩे तालेलो (२) ८।१
 </details>
 
+<details><summary>Hart - DP_७१९</summary>
+
+You, the sweet nectar  
+who were born from the beautiful womb of Kausalai  
+praised by the whole world,  
+made the crown of the king of Lanka fall:  
+You are the dark jewel of Kaṇṇapuram  
+surrounded by new walls studded with pure gold:  
+O Raghava, thālelo: thālelo:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७१९ - ०१</summary>
 
 मन्नु-शाश्वतवाद, पुहऴ्=हॊगळिकॆयन्नु पडॆद कौसलै तन्=कौसल्यॆय, मणि=सुन्दरवाद, वयिऱु=हॊट्टॆयल्लि,. वाय्न्दवने=अभिवृद्धि हॊन्दिदवने, तॆन्=दक्षिणदिक्किनल्लिरुव, इलङ्कै=लङ्कॆय, कोन्=राजन\(रावणन\), मुडिहळ्=तलॆगळन्नु, चिन्दुवित्ताय्=तरिदु हाकिदवने, शॆम्=कॆम्पाद, पॊन् शेर्=चिन्नदिन्द माडिद, कन्नि=शाश्वतवाद\(नाशविल्लद\), नल्=उत्तमवाद, मा=बलुदॊड्ड, मदिळ्=कोटॆगोडॆयिन्द, पुडै=नाल्कुदिक्किनल्लू, शूऴ्=सुत्तुवरियल्पट्ट, कणपुरत्तु=कण्णपुरद, ऎन्=नन्न, करुमणिये=नीळमणियन्थवने, ऎन् अमुदे=नन्न अमृतसमानने, इराकवने=राघव\(राम\)ने, तालेलो=जोजो
@@ -59,6 +70,18 @@ title = "०८ मन्नुपुहऴ् क्कौसलै"
 तिण्डिऱलाळ् ताडगैदऩ् उरमुरुवच् चिलैवळैत्तय्  
 कण्डवर्दम् मऩंवऴङ्गुम् कणबुरत्तॆऩ् करुमणिये  
 ऎण्डिसैयु माळुडैयाय् इरागवऩे तालेलो ८।२
+</details>
+
+<details><summary>Hart - DP_७२०</summary>
+
+You created Nanmuhan on your navel  
+and make him create all the worlds:  
+You shot the arrow that split open the chest  
+of strong Thaḍagai and killed her  
+and as the dark jewel of Kaṇṇapuram,  
+you attract the hearts of all who see you:  
+You are rule the lands in all the eight directions,  
+O Raghava, thālelo: thālelo:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७२० - ०२</summary>
@@ -102,6 +125,19 @@ title = "०८ मन्नुपुहऴ् क्कौसलै"
 ऎङ्गळ्गुल तिऩ्ऩमुदे इरागवऩे तालेलो ८।३
 </details>
 
+<details><summary>Hart - DP_७२१</summary>
+
+You are the best son of the lineage  
+of Kosalai with dark hair adorned with kongu blossoms:  
+You are the beautiful son-in-law of the king Janakan  
+whose fame remains forever:  
+You are the son of Dasharatha,  
+the dark jewel of Kaṇṇapuram  
+where pure water flows like the Ganges:  
+You are the sweet nectar of our family,  
+O Raghava, thālelo, thālelo:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७२१ - ०३</summary>
 
 कॊङ्गु=परिमळवु, मलि=मलॆतिरुव, करुकुऴलाळ्=कप्पनॆय कूदलन्नुळ्ळ, कौशलै तन्=कौसल्यॆय, कुलम्=सिरिवन्तनाद, मदलाय्=मगने, तङ्गु=शाश्वतवाद, पॆरु=महत्ताद, पुहऴ्=कीर्तियुळ्ळ, चनकन्=जनकन, तिरु=श्रेष्ठवाद, मरुहा=अळियने, दाशरती=दाशरथी, कङ्गैयिलुम्=गङ्गानदिगिन्तलू, मलि=श्रेष्ठवाद, तीर् त्तम्=तीर्थगळुळ्ळ, कणपुरत्तु=तिरुक्कण्णपुरद, ऎन् करुमणिये=नन्न नीलमणिये, ऎङ्गळ्=नम्म, कुलत्तु=वंशद\(कुलद\), इन्-मधुरवाद, अमुदे=अमृतवे, इराकवने=राघव\(राम\)ने, तालेलो=जोजो
@@ -135,6 +171,16 @@ title = "०८ मन्नुपुहऴ् क्कौसलै"
 एमरुवुम् सिलैवलवा इरागवऩे तालेलो ८।४
 </details>
 
+<details><summary>Hart - DP_७२२</summary>
+
+You who created Nānmuhan on the lotus on your navel,  
+the wonderful son of Dasharathan, the husband of Mythili  
+are the dark jewel of Thirukkaṇṇapuram  
+where bees sing in the groves:  
+You carry the best of bows that shoots heroic arrows:  
+O Raghava, thālelo, thālelo:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७२२ - ०४</summary>
 
 तामरै मेल्=तावरॆ मेलॆ, अयन् अवनै=चतुर्मुख ब्रह्मनन्नु, पडैत्तवने=पडॆदवने, तयर तन् तन्=दशरथन, मा=महत्वद, मदलाय्=मगने, मैतिलि तन्=मैथिलिय, मनवाळा=वल्लभने, वण्डु=दुम्बिगळ, इनङ्गळ्=गुम्पुगळु, कामरङ्गळ्=इम्पाद रागगळ, इशै=हाडुगळन्नु, पाडुम्=हाडुव, कणपुरत्तु=तिरुक्कण्णपुरद, ऎन् करुमणिये=नन्न नीलमणिये, ए=अम्बुगळु, मरुवुम्=कूडिकॊण्डिरुव, शिलै=बिल्लन्नु, वलवा=हिडियबल्लवने, इराकवने=राघव, रामने, तालेलो=जोजो.
@@ -161,6 +207,17 @@ title = "०८ मन्नुपुहऴ् क्कौसलै"
 आरावऩ् पिळैयवऩो टरुङ्गाऩ मडैन्दवऩे  
 सीराळुम् वरैमार्बा तिरुक्कण्ण पुरत्तरसे  
 ताराळुम् नीण्मुडियॆऩ् तासरदी तालेलो ८।५
+</details>
+
+<details><summary>Hart - DP_७२३</summary>
+
+After giving your kingdom to your brother Bharathan,  
+you went to the thick forest  
+with your younger brother Lakshmana who loved you so:  
+You with a handsome chest strong as a mountain,  
+king of Thirukkannapuram,  
+are adorned with a precious crown that rules the world:  
+You are the son of Dasharatha, thālelo:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७२३ - ०५</summary>
@@ -196,6 +253,16 @@ title = "०८ मन्नुपुहऴ् क्कौसलै"
 अऱ्ऱवर्गट् करुमरुन्दे अयोत्तिनगर्क् गतिबदिये  
 कऱ्ऱवर्गळ् तांवाऴुम् कणबुरत्तॆऩ् करुमणिये  
 सिऱ्ऱवैदऩ् सॊल्गॊण्ड सीरामा तालेलो ८।६
+</details>
+
+<details><summary>Hart - DP_७२४</summary>
+
+You, the dark jewel of Kaṇṇapuram where learned men live,  
+the king of Ayodhya and the wonderful helper of the sages,  
+left the desires of worldly life and went to the terrible forest,  
+obeying the words of your step-mother,  
+as all your relatives followed you:  
+O auspicious Rāma, thālelo, thālelo:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७२४ - ०६</summary>
@@ -235,6 +302,18 @@ title = "०८ मन्नुपुहऴ् क्कौसलै"
 वालियैगॊऩ् ऱरसिळैय वाऩरत्तुक् कळित्तवऩे  
 कालिऩ्मणि करैयलैक्कुम् कणबुरत्तॆऩ् करुमणिये  
 आलिनगर्क् गतिबदिये अयोत्तिमऩे तालेलो ८।७
+</details>
+
+<details><summary>Hart - DP_७२५</summary>
+
+You floated on a banyan leaf when you were a baby, :  
+swallowed the earth,  
+killed Vali and gave the kingdom to his younger brother Sugrivan:  
+You are the dark jewel of Kaṇṇapuram  
+where the wind makes the waves bring jewels  
+to the banks of the rivers:  
+You are the king of Thiruvāli:  
+You are the king of Ayodhya, thālelo:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७२५ - ०७</summary>
@@ -293,6 +372,17 @@ title = "०८ मन्नुपुहऴ् क्कौसलै"
 इळैयवर्गट् करुळुडैयाय् इरागवऩे तालेलो ८।९
 </details>
 
+<details><summary>Hart - DP_७२७</summary>
+
+You, the son of Dasharatha  
+with hair tied with fragrant flowers,  
+bent your bow and destroyed Lanka surrounded by walls:  
+You are the dark jewel of Kaṇṇapuram  
+where beautiful kazuneer flowers bloom on all sides  
+and you are compassionate and give your grace  
+to young ones, thālelo, thālelo:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७२७ - ०८</summary>
 
 तळै=कट्टु, अविऴुम्=बिच्चि होगुत्तिरुव, नऱु=ऒळ्ळॆय, कुञ्जि=तलॆगूदलिन गण्टुळ्ळ, तयरतन् तन्=दशरथन, कुलम्=श्रेष्ठवाद, मदलाय्=मगने, ऒरु=साटियिल्लद, वळैय=बग्गिसिद, शिलै अदनाल्=बिल्लिनिन्द, मदिळ्=कोटॆगोडॆगळुळ्ळ, इलङ्गै=लङ्कॆयन्नु, अऴित्तवने=नाशपडिसिदवने, कळै=सुन्दरवाद, कऴुनीर्=नैदिलॆगळु, मरुङ्गु=सुत्तलू, अलरुम्=अरळुव, कणपुरत्तु=तिरुक्कण्णपुरद, ऎन्=नन्न करुमणिये=नीलमणिये, इळैयवर् कट्कु=तम्मन्दिर विषयदल्लि, अरुळ् उडैयाय्=करुणॆयुळ्ळवने, इराकवने=राघव\(राम\)ने, तालेलो=जोजो.
@@ -326,6 +416,18 @@ title = "०८ मन्नुपुहऴ् क्कौसलै"
 यावरुंवन् दडिवणङ्ग अरङ्गनगर्त् तुयिऩ्ऱवऩे  
 काविरिनल् नदिबायुम् कणबुरत्तॆऩ् करुमणिये  
 एवरिवॆञ् जिलैवलवा इरागवऩे तालेलो ८।१०
+</details>
+
+<details><summary>Hart - DP_७२८</summary>
+
+You who rest on Adisesha on the ocean in Srirangam  
+where all come and worship your feet  
+created the gods, the Asurans and all the directions:  
+You are the dark jewel of Kaṇṇapuram  
+where the fertile Kaveri river flows  
+and you are the best of archers,  
+shooting mighty arrows with your bow:  
+O Raghava, thālelo:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७२८ - ०९</summary>

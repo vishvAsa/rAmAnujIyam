@@ -22,6 +22,17 @@ title = "०५ तरुदुयरम् तडायेल्"
 अरुळ्निऩैन्दे यऴुम्गुऴवि अदुवेबोऩ् ऱिरुन्देऩे ५।१
 </details>
 
+<details><summary>Hart - DP_६८८</summary>
+
+You are the beloved lord of Vitruvakkoṭṭam  
+surrounded with fragrant blooming groves:  
+Do not give me troubles—  
+I have no refuge but you:  
+I am like a crying child thinking of the love  
+of the mother who gave birth to it  
+even if she goes away when she is angry:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६८८ - ०१</summary>
 
 तरु=उण्टुमाडुव, तुयरम्=कष्टसङ्कटगळन्नु, तडाय् एल्=दाटिसदॆ\(नीगिसदॆ\) होदरू, उन्=निन्न, शरण् अल्लाल्=तिरुवडिगळल्लदॆ, शरण् इल्लै=रक्षणॆयिल्ल, विरै=परिमळवन्नु, कुऴुवुम्=तुम्बि हरडुव, मलर्=हूगळ, पॊऴिल्=तोपुगळिन्द, शूऴ्=सुत्तुवरिदिरुव,\(मत्तु आ परिमळवन्नु\), वित्तु=हरडुव, अ-कोट्टु=आ पर्वतद, अम्माने=स्वामिये, अरि=हॆच्चाद, शिनत्ताल्=कोपदिन्द, ईन्ऱ=हडॆद, ताय्=तायियु, अहट्रि=तळ्ळि, इडिनुम्=हॊडॆदु हिंसिसिदरू, मट्रु=बळिकवू\(आमेलू\) अवळ् तन्=अवळ, अरुळ्=करुणॆयन्नु, निनैन्दे=नॆनॆदे, अऴुम्=अळुवुदु, कुऴवि=मगु, अदुवे=अदे, पोन्ऱु=रीतियल्लि, इरुन्देन्=इद्देनॆ.
@@ -61,6 +72,19 @@ title = "०५ तरुदुयरम् तडायेल्"
 कॊण्डाऩै यल्ला लऱियाक् कुलमगळ्बोल्  
 विण्डो य् मदिळ्बुडैसूऴ् विऱ्ऱुवक्कोट् टम्मानी  
 कॊण्डाळा यागिलुमुऩ् कुरैगऴले कूऱुवऩे ५।२
+</details>
+
+<details><summary>Hart - DP_६८९</summary>
+
+A girl of a good family knows no one  
+except the husband who married her  
+even if he treats her so badly  
+that those who see hate him:  
+I am like her: You are my father,  
+the lord of Vitruvakkoṭṭam  
+surrounded by forts that touch the sky:  
+Even if you are like a husband and possess me,  
+I will praise only your feet decorated with sounding anklets:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६८९ - ०२</summary>
@@ -110,6 +134,17 @@ title = "०५ तरुदुयरम् तडायेल्"
 कोल्नोक्कि वाऴुम् कुडिबोऩ्ऱि रुन्देऩे ५।३
 </details>
 
+<details><summary>Hart - DP_६९०</summary>
+
+You are my father, the god of Vitruvakkoṭṭam  
+surrounded by fertile fields where fish swim:  
+Even if you do not look at me,  
+I have no refuge except you:  
+I am like those who live depending on the rule  
+of a king decorated with garlands  
+even if, unconcerned, he causes them much pain:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६९० - ०३</summary>
 
 मीन्=मीनुगळु, नोक्कूम्=आशॆयिन्द नोडुव, नीळ्=विशालवाद, वयल्=गद्दॆगळिन्द \(बयलिनिन्द\), शूऴ्=सुत्तुवरिदिरुव, वित्तु=हरडिद, अक्कोट्टु=आ पर्वतद, अम्मा=-स्वामिये, ऎन् पाल्=नन्न कडॆ, नोक्काय्=\(नीनु\) नोडुवुदिल्ल. आहिलुम्=आदरू, उन्-निन्न, पट्रु=रक्षणॆ, अल्लाल्=अल्लदॆ, पट्रु=आधार इलेन्=इल्लदवनागिद्देनॆ, तान्=तानु, नोक्कादु=नोडदॆये
@@ -153,6 +188,17 @@ title = "०५ तरुदुयरम् तडायेल्"
 माळाद कादल्नो याळऩ्पोल् मायत्ताल्  
 मीळात् तुयर्दरिऩुम् विऱ्ऱुवक्कोट् टम्मानी  
 आळा वुऩतरुळे पार्प्प ऩटियेऩे ५।४
+</details>
+
+<details><summary>Hart - DP_६९१</summary>
+
+O my father, lord of Vitruvakkoṭṭam,  
+a patient loves and does not leave a doctor  
+even when he cuts him with a knife and burns him:  
+I am like that patient: Even if you cause me pain  
+that I must bear, I am enthralled by you:  
+I am your slave and look only for your grace  
+and think you are my only friend:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६९१ - ०४</summary>
@@ -200,6 +246,17 @@ title = "०५ तरुदुयरम् तडायेल्"
 वङ्गत्तिऩ् कूम्बेऱुम् माप्पऱवै पोऩ्ऱेऩे ५।५
 </details>
 
+<details><summary>Hart - DP_६९२</summary>
+
+O my father, lord of Vitruvakkottam  
+who conquered the strong cruel-eyed elephant,  
+where can I go and be saved except beneath your feet?  
+I am like a huge bird that wanders  
+looking for the shore of the ocean with rolling waves  
+and, unable to find it, comes back  
+to the mast of a ship:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६९२ - ०५</summary>
 
 वॆम्=भयङ्करवाद, कण्=कण्णुगळुळ्ळ, तिण्=बलिष्ठवाद, कळिऱु=आनॆयन्नु, अडैत्ताय्=अडगिसिदवने, वित्तु=हरडिरुव, अक्कोट्टु=आ बॆट्टद, अम्माने=स्वामिये, ऎङ्गु=ऎल्लिगॆ, पोय्=होगि, उय् हेन्=जीइसलि, उन्=निन्न, इणैअडिये=जोडिपादगळु, अल्लाल्=अल्लदॆ? ऎङ्गुम्=ऎत्तकडॆ, पोय्=होदरू, करै=दडवु, काणादु=कण्डुबरुवुदिल्ल, ऎऱि=बलवाद अलॆगळिन्द कूडिद, कडल् वाय्=कडलल्लिद्देनॆ, मीण्डु=मत्तॆ, एयुम्=दाटिसुव \(रक्षिसुव\), वङ्गत्तिन्=हडगिन, कूम्बु=ध्वजस्तम्बवन्नु, एऱुम्=हत्तुव, मा=दॊड्डदाद, पऱवै=पक्षिय, पोन्ऱेने=हागॆये निन्तिरुत्तेनॆ.
@@ -239,6 +296,17 @@ title = "०५ तरुदुयरम् तडायेल्"
 अन्दमिल्सीर्क् कल्ला लगङ्गुऴैय माट्टेऩे ५।६
 </details>
 
+<details><summary>Hart - DP_६९३</summary>
+
+You are my father, the lord of Vitruvakkoṭṭam,  
+where red lotuses bloom only under the hot sun  
+even though the sun comes to the middle of the sky  
+and burns them with its heat:  
+I am like those lotuses:  
+Even if you do not take away my bad karma,  
+my heart only melts for your endless grace:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६९३ - ०६</summary>
 
 शॆम्=कॆम्पगॆ हॊळॆयुव, तऴले=बॆङ्किये, वन्दु=बन्दु, अलुलै=उष्णवन्नु, शॆय्दिडिनुम्=उण्टुमाडिदरू, शॆम् कमलम्=कॆन्दावरॆयु, अन्तरम्=आकाशदल्लि, शेर्-बॆळगुव, वॆम् गदिरोऱ् कु= बॆङ्गदिरनॊब्बनिगॆ\(सूर्यनिगॆ\), अल्लाल्=अल्लदॆ, अलरा=अरळुवुदिल्ल, आल्=हागॆये, वॆम्=तीक्ष्णवाद, तुयर्=सङ्कटगळु, वीट्टाविडिनुम्=मनॆमाडिकॊण्डु बिट्टरू सह, वित्तु=हरडिरुव, अक्कोट्टु=आ बॆट्टद, अम्मा=स्वामिये, उन्=निन्न, अन्दम् इल्=कॊनॆयिल्लद, शीर् क्कू=ऐश्वर्यक्कॆ, अल्लाल्=अल्लदॆ, अहम्=मनस्सन्नु, कुऴैय माट्टेन्=करगिसलारॆनु.
@@ -274,6 +342,17 @@ title = "०५ तरुदुयरम् तडायेल्"
 मैत्तॆऴुन्द मामुगिले पार्त्तिरुक्कुम् मऱ्ऱवैप्पोल्  
 मॆय्त्तुयर्वीट् टाविडिऩुम् विऱ्ऱुवक्कोट् टम्माऎऩ्  
 चित्तम्मिग वुऩ्पोले वैप्प ऩटियेऩे ५।७
+</details>
+
+<details><summary>Hart - DP_६९४</summary>
+
+O my father, lord of Vitruvakkoṭṭam,  
+even when it has not rained for a long time,  
+the green crops look at the huge dark clouds  
+floating in the sky hoping it will rain:  
+I am like them: I am your slave:  
+Even if my troubles will not go away,  
+my heart will look only for you:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६९४ - ०७</summary>
@@ -315,6 +394,18 @@ title = "०५ तरुदुयरम् तडायेल्"
 पुक्किलङ्गु सीरल्लाल् पुक्किलऩ्काण् पुण्णियऩे ५।८
 </details>
 
+<details><summary>Hart - DP_६९५</summary>
+
+O my father, lord of Vitruvakkoṭṭam,  
+even if all the rivers come together  
+spread and flood everywhere,  
+they cannot stay where they are but must join the ocean:  
+I wish to join you as those rivers join the ocean:  
+O virtuous one who have the color of a dark shining cloud:  
+See, I have no way to find refuge  
+except to come to you for your grace:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६९५ - ०८</summary>
 
 तॊक्कू=चॊक्कवागि, इलङ्गिय=बॆळगुव, आऱु=नदि, ऎल्लाम्=ऎल्लवू, परन्दु=हरडि, ओडि=वेगवागि हरिदु, तॊडु=आळवाद, कडले=कडलन्नु, पुक्कू=सेरि, अन्ऱि=अल्लदॆ, पुऱम्=अदर हॊरगडॆ\(बेरॆ कडॆगळल्लि\), निऱ्कमाट्टाद=निन्तिरलारद., मट्रु अवै पोल्=मत्तॆ अवुगळ हागॆ, मिक्कू=अगाधवाद, इलङ्गु=तेजस्सुळ्ळ, मुहिल्=मुगिलिन, निऱत्ताय्=बण्णदवने, वित्तु=हरडिरुव, अक्कोट्टु=आ पर्वतद, अम्मा=स्वामिये, पुक्कू=ऒळहॊक्कू, इलङ्गु=बॆळगुव, उन्=निन्न, शीर्-हिरिमॆ, अल्लाल्=अल्लदॆ, पुक्किलन्=वासयोग्यवागिद्देनॆ, काण्-कण्डॆया, पुण्णीयने=पुण्यस्वरूपने\!
@@ -352,6 +443,15 @@ title = "०५ तरुदुयरम् तडायेल्"
 तऩ्ऩैये ताऩ्वेण्डुम् सॆल्वम्बोल् मायत्ताल्  
 मिऩ्ऩैये सेर्दिगिरि विऱ्ऱुवक्कोट् टम्माऩे  
 निऩ्ऩैये ताऩ्वेण्डि निऱ्प ऩटियेऩे ५।९
+</details>
+
+<details><summary>Hart - DP_६९६</summary>
+
+O my father, lord of Vitruvakkoṭṭam,  
+I want only you with a shining discus bright as lightning in your hand:  
+I think of you only as my wealth  
+and want no other riches:  
+I am your slave and I want only you:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६९६ - ०९</summary>

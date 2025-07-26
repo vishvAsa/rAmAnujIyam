@@ -30,6 +30,20 @@ title = "०५ मन्नुपॆरुम् पुहऴ्"
 पवळवा यऩ्वरक् कूवाय्। १
 </details>
 
+<details><summary>Hart - DP_५४५</summary>
+
+The beautiful sapphire-colored lord  
+is the eternal Madhavan praised by all in the world,  
+the king decorated with a crown studded with jewels:  
+He gives me trouble:  
+My conch bangles have become loose  
+because I have fallen in love with him:  
+O cuckoo bird living in holes  
+in punnai, kurukkathi, nyāzhal and cherundi trees,  
+won’t you coo and call at all times of the day  
+for the one with a coral-colored mouth to come quickly to me?
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५४५ - ०१</summary>
 
 मन्नु=शाश्वतवागि, पॆरुम्=अमितवाद, पुहऴ्=कीर्तियुळ्ळ, मा=श्रीदेइय, दवन्=पतियाद, मा=असदृशवाद, मणिवण्णन्=इन्द्रनीलमणिय बण्णदवनाद, मणिमुडि=नवरत्न खचितकिरीटवुळ्ळवनाद, मैन्दन् तन्नै=बलशालियादवनन्नु, उहन्दु=आशॆपट्टुदर, कारणमाह=कारणवागि, ऎन्=नन्न, शङ्गु=कैबळॆगळु, इऴिक्कूम्=सडिलवागि, वऴक्कू=अलुगाडुत्ता सद्दुमाडुत्तवॆ, उण्डे=\(हीगागुवुदु\)ऎल्लियादरू उण्टे? पुन्नै=हॊन्नॆमर, कुरुहु=अन्दवाद हूबिडुव बळ्ळिगळु, अत्ति=अत्तिमर, नाऴल्=कॊङ्कुमर, शॆरुन्दि=शॆरुन्दि मर मुन्तादवुगळ, पॊदुम्बिनिल्=तोपिनल्लि, वाऴुम्=बाळुव \(जीविसुव\), कुयिले=कोगिलॆये, इरुन्दु=अल्लिये इद्दु, ऎन्=नन्न, पवळवायन्=हवळदन्तॆ चॆन्दुटियवनन्नु, विरैन्दु=बेग, वर=बरुवन्तॆ, ऎप्पोदुम्=यावागलू, पन्नि=गट्टियागि, कूवाय्=कूगुत्तिरु.
@@ -79,6 +93,19 @@ title = "०५ मन्नुपॆरुम् पुहऴ्"
 कळित्तिसै पाडुङ् गुयिले,  
 मॆळ्ळ विरुन्दु मिऴऱ्ऱि मिऴऱ्ऱादॆऩ्  
 वेङ्गड वऩ्वरक् कूवाय्। २
+</details>
+
+<details><summary>Hart - DP_५४६</summary>
+
+The faultless one who carries  
+a sounding white conch in his left hand  
+does not show his form to me:  
+He entered my heart and makes me long for his love:  
+See, he is taking my life away and playing with my feelings:  
+O cuckoo bird, you drink the honey that drips  
+from the blooming shenbaga flowers and sing happily:  
+Don’t be lazy and prattle, just sing and be happy:  
+Coo and call so the lord of Venkaṭam hill will come to me:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५४६ - ०२</summary>
@@ -134,6 +161,22 @@ title = "०५ मन्नुपॆरुम् पुहऴ्"
 करुमाणिक् कंवरक् कूवाय्। ३
 </details>
 
+<details><summary>Hart - DP_५४७</summary>
+
+As Rāma he fought with Ravaṇan  
+while the charioteer Madali drove his chariot,  
+and he cut off all the ten heads of Ravaṇan,  
+shooting his arrows like rain:  
+I don’t see him coming to me:  
+O cuckoo bird, you live with your beloved mate  
+listening to the kāmaram music of the bees  
+that have dots on their bodies  
+in the groves where fragrant flowers bloom  
+and spread their smell:  
+Coo and call the dark-colored one  
+shining like a diamond so he will come to me:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५४७ - ०३</summary>
 
 मातलि=मातलियु, तेर्=तेरिन\(रथद\), मुन्बु=मुम्भागदल्लि, कोल् कॊळ्ळ=\(छाटीयन्नु हिडिदु\) सारथ्यवन्नु माडलु, मायन्=मायावियाद, इरावणन् मेल्=रावणासुरन मेलॆ, शरमारि=बाणगळ मळॆयन्नु सुरिसि, ताय् तलै=\(अवन\)प्रधानवाद तलॆगळन्नु, अट्रु अट्रु=कत्तरिसि कत्तरिसि\(इल्लदन्तॆ\), वीऴ=बीळुवन्तॆ, तॊडुत्त=प्रयोगिसिद, तलैवन्=स्वामिय, वर=बरवन्नु, ऎङ्गुम्=ऎल्लियू, काणेन्=काणॆनल्ला\!, पोदु=हॊत्तुहॊत्तिगॆ सरियागि, अलर्=अरळुव हूगळ, काविल्=तोपिनल्लि, पुदु=हॊसदाद, मणम्=सुगन्धवु, नाऱ=हरडिरलु, पॊऱि=सुन्दरवाद, वण्डिन्=बण्डुगळ\(दुम्बिगळ\), कामरम्=झेङ्कारवन्नु, केट्टु=केळुत्ता, उन्=निन्न, कादलियोडु=प्रियळॊडनॆ, उडन्=कूडि, वाऴ्=जीविसुव, कुयिले=कोगिलॆये, ऎन्=नन्न, करुमाणिक्कम्=माणिक्यदन्थ देहदवनन्नु, वर=बरुवन्तॆ, कूवाय्=कूगुत्तिरु\(कूगुवॆया?\)
@@ -181,6 +224,19 @@ title = "०५ मन्नुपॆरुम् पुहऴ्"
 पुण्णिय ऩैवरक् कूवाय्। ४
 </details>
 
+<details><summary>Hart - DP_५४८</summary>
+
+My bones melt,  
+my long spear-like eyes do not close:  
+I have entered an ocean of sorrow  
+and cannot find the boat that is the Vaikundan  
+to escape my suffering:  
+O cuckoo bird,  
+you know how hard it is to be apart from your beloved:  
+Coo and call the virtuous one with a golden body and an eagle flag  
+and make him come to me:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५४८ - ०४</summary>
 
 ऎन्बु=ऎलुबुगळु, उरुहि=करगि, इनम्=उत्तमवाद, वेल्=वेलायुधदन्तॆ, नॆडु=विशालवाद, कण् हळ्=कण्णुगळु, इमै=मुच्चि तॆरॆयुवुदक्कॆ, पॊरुन्दा=हॊन्दिकॊळ्ळुवुदिल्ल, पल=अनेक, नाळुम्=दिनगळिन्द, तुन्बम्=दुःखवॆम्ब, कडल्=कडलन्नु, पुक्कु=प्रवेशिसि, वैहुन्दन्=वैकुण्ठवन्नु, ऎन्बदु=ऎम्ब, ओर्=ऒन्दु, तोणि=दोणियन्नु, पॆऱादु=पडॆयदॆ, उऴल् हिन्ऱेन्=तॊळलाडुत्तिद्देनॆ, अन्बु=प्रीति, उडैयारै=उळ्ळवरन्नु, पिरिवु=अगलुविकॆय, उऱु=बहळ हॆच्चिन, नोय्=यातनॆ, अदु=अदु, नीयुम्=नीनू सह, अऱिदि=तिळिदुको, कुयिले=कोगिलॆये, पॊन्=चिनक्कॆ, पुरै=समनाद, मेनि=देहकान्तिय, करुळन्=गरुडन, कॊडि=ध्वजवन्नु, उडै=उळ्ळ, पुण्णियनै=धर्मस्वरूपनन्नु, वर=\(नन्न बळिगॆ\) बरुवन्तॆ, कूवाय्=कूगुवॆया?
@@ -226,6 +282,17 @@ title = "०५ मन्नुपॆरुम् पुहऴ्"
 ऎडुत्तवॆऩ् कोलक् किळियै,  
 उऩ्ऩॊडु तोऴमै कॊळ्वऩ् कुयिले।  
 उलगळन् दाऩ्वरक् कूवाय्। (२) ५
+</details>
+
+<details><summary>Hart - DP_५४९</summary>
+
+He stays in Villiputhur  
+where the swans that walk softly play:  
+My fish-like eyes do not close to sleep  
+because they wish to see his golden feet:  
+O cuckoo bird, I will make the beautiful parrot  
+that I raised feeding it sweet rice and milk be your friend:  
+Coo and call him, so that who measured the world will come to me:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५४९ - ०५</summary>
@@ -279,6 +346,20 @@ title = "०५ मन्नुपॆरुम् पुहऴ्"
 तलैयल्लाल् कैम्माऱि लेऩे। ६
 </details>
 
+<details><summary>Hart - DP_५५०</summary>
+
+Rishikesan, worshiped by the gods in all the directions,  
+made me unhappy with love for him  
+and the beauty of the white pearl-like smile of my red mouth  
+and of my breasts was lost:  
+O young cuckoo bird,  
+you sleep in a beautiful place  
+in a grove blooming with flowers:  
+If you coo and call for him, the true one, to come to me,  
+I will bow my head to you:  
+I don’t know any other way to pay you back:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५५० - ०६</summary>
 
 ऎद्दिशैयुम्=ऎल्ला दिक्कुगळिन्दलू, अमरर्=अमररु, पणिन्दु=साष्टाङ्गवॆरगि, एत्तुम्=स्तुतिसुव, इरुडीकेशन्= हृषीकेशनु, वलि=समार्थ्यद कार्यवन्नु, शॆय्य=माडलु, नान्=नानु, मुत्तु अन्न=मुत्तिनन्थ, वॆण् मुऱुवल्=बिळिय\(हॊळॆयुव\) मन्दहासवन्नु, शॆय्य=कॆम्पाद, वायुम्=तुटियन्नू, मुलैयुम्=मॊलॆगळन्नू
@@ -330,6 +411,18 @@ title = "०५ मन्नुपॆरुम् पुहऴ्"
 आऴियुम् सङ्गुमॊण् तण्डुम्,  
 तङ्गिय कैयव ऩैवरक् कूविल्नी,  
 सालत् तरुमम् पॆऱुदि। ७
+</details>
+
+<details><summary>Hart - DP_५५१</summary>
+
+He rests on the surging milky ocean:  
+My breasts have grown out and are happy  
+because they want to embrace the lord,  
+but they make me sad since I have not seen him:  
+O beautiful cuckoo bird, why are you hiding?  
+If you coo and call and make him  
+with a discus, a conch and a strong club come to me,  
+you will have the good karma of doing many generous acts:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५५१ - ०७</summary>
@@ -389,6 +482,17 @@ title = "०५ मन्नुपॆरुम् पुहऴ्"
 अवऩैनाऩ् सॆय्वऩ काणे। ८
 </details>
 
+<details><summary>Hart - DP_५५२</summary>
+
+The clever one who is loved by all,  
+shoots arrows from his bow with his strong hands:  
+He and I know the promises that we made when we stayed in our home:  
+O small cuckoo bird who pluck the tender shoots  
+of the sweet mango tree in the grove,  
+if you coo and call for Thirumāl to come here quickly,  
+you will see what I will do for him with my love:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५५२ - ०८</summary>
 
 शार्ङ्गम्=शार्ङ्ग धनुस्सन्नु, वळैय=बग्गिसलु, वलिक्कूम्=सामर्थ्यवुळ्ळ, तड=दॊड्ड, कै=कैगळुळ्ळ, चतुरन्=चतुरनु, पॊरुत्तम्=ताळ्मॆयन्नु\(हॊन्दिकॆयन्नु\)उडैयन्=उळ्ळवनु, नाङ्गळ्=नाविब्बरू, इरुन्दु=जॊतॆगूडि, ऎम्मिल्=नम्मिब्बरल्लिये, ऒट्टिय=रहस्यद, कच्चङ्गम्=सङ्केतगळन्नु, नानुम्=नानू, अवनुम्=अवनू, अऱितुम्=अरितुकॊळुत्तेवॆ, तेन्=सिहियाद रसदिन्द तुम्बिद, कनि=हण्णुगळिरुव, मा=माविन, पॊऴिल्=तोपिनल्लि, शॆम्=कॆम्बण्णद, तळिर्=तळिरन्नु\(चिगुरॆलॆगळन्नु\) कोदुम्=चॆदरि हाकुव, शिऱु=चिक्क, कुयिले=कोगिलॆये, तिरुमालै=श्रियःपतियन्नु, अङ्गु=आ दूरद स्थळदिन्द, ऒल्लै=बहळ, विरैन्दु=बेग, कूहिट्रि=कूगुवॆ, आहिल्=आदरॆ, अवनै=अवनिगॆ, नानु=नानु, शॆय्वन=माडुवुदन्नु\(सेवॆयन्नु\) काणे=नोडुत्तिरुवॆयन्तॆ
@@ -432,6 +536,20 @@ title = "०५ मन्नुपॆरुम् पुहऴ्"
 पॊऩ्वळै कॊण्डु तरुदल्,  
 इङ्गुळ्ळ काविऩिल् वाऴक् करुदिल्  
 इरण्डत्तॊऩ् ऱेल्दिण्णम् वेण्डुम्। ९
+</details>
+
+<details><summary>Hart - DP_५५३</summary>
+
+I have fallen in love with Sridharan  
+who has the color of a green parrot:  
+O cuckoo bird living in a grove that swarms with shining bees,  
+give me your attention and listen:  
+Either you should coo and call,  
+asking him with a conch and discus to come to me,  
+or you should find the golden bangles  
+that I have lost and bring them to me:  
+If you want to live in this grove,  
+you should do one of these things:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५५३ - ०९</summary>
@@ -479,6 +597,20 @@ title = "०५ मन्नुपॆरुम् पुहऴ्"
 तगर्त्तादे नीयुम् कुयिले,  
 इऩ्ऱुना रायण ऩैवरक् कूवायेल्  
 इङ्गुत्तै निऩ्ऱुम् तुरप्पऩ्। १०
+</details>
+
+<details><summary>Hart - DP_५५४</summary>
+
+I fell in love with him  
+who measured the world and became his devotee,  
+but he only makes me sad  
+because I love him and have not seen him:  
+I can’t describe the sorrow  
+that the breeze and the moon give me:  
+O cuckoo bird, don’t make me suffer  
+staying in this grove and cooing always:  
+If you don’t call today for Narayaṇan to come,  
+I will chase you away from here:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५५४ - १०</summary>

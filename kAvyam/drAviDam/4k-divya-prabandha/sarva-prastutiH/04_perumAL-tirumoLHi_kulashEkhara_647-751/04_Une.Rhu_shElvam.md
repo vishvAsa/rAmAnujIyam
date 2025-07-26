@@ -22,6 +22,16 @@ title = "०४ ऊनेऱुशॆल्वत्तु उडऱ्"
 कोऩेरि वाऴुम् गुरुगाय्प् पिऱप्पेऩे ४।१
 </details>
 
+<details><summary>Hart - DP_६७७</summary>
+
+I do not want this body that is a bundle of flesh:  
+I want to be born as a kurugu bird that lives  
+on the branches of the trees in Thiruvenkaṭam  
+of him with a conch in his left hand  
+who conquered seven strong bulls:  
+I want only to be his slave:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६७७ - ०१</summary>
 
 ऊन्=मांसवु, एऱु=वृद्धियागुव, शॆल्वत्तु=सम्पत्तिन, उडल्=\(मानव\)देहद, पिऱवि=हुट्टन्नु, यान्=नानु, वेण्डेन्=बेडुवुदिल्ल, एऱु=वृषभगळु, एऴ्=एळन्नु, वॆन्ऱान्=जयिसिद, आन्=परमपुरुषन, अडिमै=सेवॆ माडुव, तिऱम्=ऒडलन्नु, अल्लाल्=अल्लदॆ, कू एऱु=चॆन्नागि सुरुळिसुत्तिरुव, शङ्गम्=शङ्खवन्नु, इडत्तान् तन्=ऎडगैयल्लि हिडिदवन, वेङ्गडत्तु=वॆङ्कटाचलदल्लि, कोनेरि=स्वामिय सरोवरदल्लि, वाऴ्=बाळुव, कुरुहु=कॊक्करॆ इत्यादि कीळु जन्तु, आय्=आगि, पिरप्पेने=हुट्टुवॆनु नानु.
@@ -65,6 +75,17 @@ title = "०४ ऊनेऱुशॆल्वत्तु उडऱ्"
 मीऩाय्प् पिऱक्कुम् विधियुडैये ऩावेऩे ४।२
 </details>
 
+<details><summary>Hart - DP_६७८</summary>
+
+I do not want endless wealth or status,  
+I don’t want to be surrounded by heavenly women  
+or have the joy of ruling the sky  
+and a kingdom on the earth:  
+I want to be born as a fish in a spring  
+in Thiruvenkaṭam filled with groves  
+flourishing with flowers that drip honey:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६७८ - ०२</summary>
 
 आनाद=अळिविल्लद, शॆल्वत्तु=सम्पत्तन्नुळ्ळ, अरम्बैयरहळ्=रम्भॆयरु, तन्=तन्नन्नु, शूऴ=सुत्तुवरिदिरुव, वान्=स्वर्गलोकवन्नु\(मेलण लोकगळन्नु\) आळुम्=आळुव, शॆल्वमुम्=ऐश्वर्यवन्नू\(भाग्यवन्नू\) मण्=भूलोकद, अरशुम्=अरसत्ववन्नु, यान्=नानु, वेण्डेन्=बेडॆनु, तेन्=जेनु, आर=तुम्बिरुव, पू=हूगळ, शोलै=तोपुगळिरुव, तिरुवेङ्गड=पवित्रवाद वॆङ्कटाचलद, शुनैयिल्=बॆट्टद सरोवरगळल्लि, मीन् आय्=मीनागि, पिऱक्कूम्=हुट्टुव, विदि-भाग्यवन्नु, उडैयेन्=पडॆदवनु, आवेने=आगुवॆने?
@@ -102,6 +123,16 @@ title = "०४ ऊनेऱुशॆल्वत्तु उडऱ्"
 तुऩ्ऩिट्टु पुगलरिय वैगुन्द नीळ्वासल्  
 मिऩ्वट्टच् चुडराऴि वेङ्गडक्कोऩ् ताऩुमिऴुम्  
 पॊऩ्वट्टिल् पिडित्तुडऩे पुगप्पॆऱुवे ऩावेऩे ४।३
+</details>
+
+<details><summary>Hart - DP_६७९</summary>
+
+He carries a shining round discus:  
+Shiva with matted hair, Nanmuhan and Indra  
+could not enter the divine entrance of Vaikuṇṭam  
+even when they approached it,  
+but I will enter holding the golden plate  
+that the king of Thiruvenkaṭam ate from:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६७९ - ०३</summary>
@@ -149,6 +180,17 @@ title = "०४ ऊनेऱुशॆल्वत्तु उडऱ्"
 सॆण्बगमाय् निऱ्कुम् तिरुवुडैये ऩावेऩे ४।४
 </details>
 
+<details><summary>Hart - DP_६८०</summary>
+
+Māyon rests on the cool milky ocean  
+where fertile coral-creepers float:  
+I would have the good fortune of blooming  
+as a shenbaga flower in Thiruvenkaṭam hills  
+where a swarm of bees sings and praises him:  
+I will see the feet of Māyon, decorated with anklets,  
+as he stays in the Thiruvenkaṭam hills:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६८० - ०४</summary>
 
 ऒण्=प्रकाशिसुव, पवळम्=हवळद, वेलै=बळ्ळीगळु, उलवु=अलुगाडुत्तिरुव हरडिरुव, तण्=तम्पाद, पाल् कडलुळ्=हाल्गडिनल्लि, कण् तुयिलुम्=पवडिसिरुव\(योगनिद्दॆयल्लिरुव\) मायोन्=मायकारिय, कऴल्=पादगळ, इणैहळ्=जोडियन्नु, काण् बदऱ्कु=नोडुवुदक्कॆ\(नमस्करिसुवुदक्कॆ\)पण्=कीर्तियन्नु, पहरुम्=घोषिसुत्तिरुव, वण्डु इनङ्गळ्=दुम्बिगळ हिण्डुगळु, पण्-गानवन्नु, पाडुम्=हाडुत्तिरुव, वेङ्गडत्तु=तिरुमलॆयल्लि, शॆण् पहम्=सम्पिगॆ मर, आय्=आगि, निऱ्कुम्=निन्तिरुव, तिरु=भाग्यवन्नु, उडैयेन्=उळ्ळवनु,आवेने=आगबल्लॆने?
@@ -184,6 +226,16 @@ title = "०४ ऊनेऱुशॆल्वत्तु उडऱ्"
 इऩ्पमरुम् सॆल्वमु मिव्वरसुम् याऩ्वेण्डेऩ्  
 ऎम्बॆरुमा ऩीस ऩॆऴिल्वेङ् गडमलैमेल्  
 तम्बगमाय् निऱ्कुम् तवमुडैये ऩावेऩे ४।५
+</details>
+
+<details><summary>Hart - DP_६८१</summary>
+
+I do not want to sit  
+on the neck of a rutting elephant that frightens everyone  
+and know the joy of riding it:  
+I want to have the good fortune  
+of standing as a pole in the beautiful Venkaṭam hills  
+of our beloved lord:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६८१ - ०५</summary>
@@ -223,6 +275,16 @@ title = "०४ ऊनेऱुशॆल्वत्तु उडऱ्"
 अऩ्ऩऩैय पॊऱ्कुडवा मरुन्दवत्त ऩाऩवऩे ४।६
 </details>
 
+<details><summary>Hart - DP_६८२</summary>
+
+I do not want to enjoy  
+the dance and songs of heavenly women  
+like Urvasi and Menaka with waists as thin as lightning:  
+I want to have the good fortune of being a golden peak  
+in the Thiruvenkaṭam hills  
+where bees swarm and sing “tenna, tenna:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६८२ - ०६</summary>
 
 मिन्=मिञ्चिगॆ, अनैय=समनाद, नुण्=सूक्ष्मवाद, इडैयार्=नडु उळ्ळवराद, उरुप्पशियुम्=ऊर्वशि, मेनकैयुम्= मेनकॆ इवरिगॆ, अन्नवर् तम्=समनाद \(मन्दगमनॆयराद\)स्त्रीयर, पाडलॊडुम्=हाडुगळिन्दलू, आदरियेन्=आशॆपडुवुदिल्ल, तॆन्नवॆन=”तॆन् शॆन्”ऎन्दु, वण्डु=दुम्बिगळ, इनङ्गळ्=तण्डगळु, पण् पाडुम्=गान माडुव, वेङ्गडत्तुळ्=वॆङ्कटाचलदल्लि, अन्नम्=हंसक्कॆ, अनैय=समनाद, पॊन्=चिन्नद, कुवडु=शिखर, आम्=आगुवुदक्कॆ, अरु=श्रेष्ठवाद, तवत्तान्=तपस्सन्नु माडिदवनु, नानु, आवेने=आदेने?
@@ -260,6 +322,16 @@ title = "०४ ऊनेऱुशॆल्वत्तु उडऱ्"
 काऩाऱाय्प् पायुम् करुत्तुडैये ऩावेऩे ४।७
 </details>
 
+<details><summary>Hart - DP_६८३</summary>
+
+I do not want the luxury of sitting  
+under a white royal umbrella  
+bright as the moon that rules the sky:  
+I want to be a forest river that flows  
+from the Thiruvenkaṭam hills surrounded with groves  
+blooming with flowers that drip honey:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६८३ - ०७</summary>
 
 वान्=बानन्नु, आळुम्=आळुव, मा=सुन्दरवाद, मदिपोल्=पूर्णचन्द्रनन्तॆ, वॆण्=शुभ्रवाद\(बिळिय\), कुडैक्कीऴ्=कॊडॆय अडियल्लि, मन्नवर् तम्=राजरुगळ, कोन्=राजनु, आहि=आगि, वीट्रिरुन्दु=\(कुळितु\) हिरिमॆय आडळितन्नु नडसुव शॆल्वु=ऐश्वर्यवन्नु, अऱियेन्=ननगॆ तिळियदु, तेन्=जेनु, आर्=तुम्बिरुव, पू=हूगळु, शोलै=तोपुगळुळ्ळ, तिरु=पवित्रवाद, वेङ्गडमलैमेल्=वॆङ्कटाद्रिय मेलॆ, कान्=काडिन, आऱु=नदि, आय्=आगि, पायुम्=हरियुव, करुत्तु=विवेकवन्नु, उडैयेन्=उळ्ळवनु, आवेने=आदेने?
@@ -293,6 +365,16 @@ title = "०४ ऊनेऱुशॆल्वत्तु उडऱ्"
 मुऱैयाय पॆरुवेळ्विक् कुऱैमुडिप्पाऩ् मऱैयाऩाऩ्  
 वॆऱियार्दण् सोलैत् तिरुवेङ् गडमलैमेल्  
 नॆऱियाय्क् किडक्कुम् निलैयुडैये ऩावेऩे ४।८
+</details>
+
+<details><summary>Hart - DP_६८४</summary>
+
+I want to be a path on the Thiruvenkaṭam hills  
+surrounded by cool fragrant groves,  
+where he stays who is the meaning of the Vedas  
+and who helped Nanmuhan, Indra  
+and Shiva with the crescent moon in his matted hair  
+when they performed sacrifices:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६८४ - ०८</summary>
@@ -336,6 +418,16 @@ title = "०४ ऊनेऱुशॆल्वत्तु उडऱ्"
 नॆडियाऩे वेङ्गडवा निऩ्कोयि लिऩ्वासल्  
 अडियारुम् वाऩवरु मरम्बैयरुम् किडन्दियङ्गुम्  
 पडियाय्क् किडन्दुऩ् पवळवाय् काण्बेऩे ४।९
+</details>
+
+<details><summary>Hart - DP_६८५</summary>
+
+O, Thirumāl, you take away the bad karma of all:  
+You are the highest ! You stay in the Thiruvenkaṭam hills:  
+Devotees, the gods in the sky and Apsarases  
+stand at the entrance of your temple to see you:  
+I will become a step at the threshold of your temple  
+and I will see your coral mouth:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६८५ - ०९</summary>
@@ -385,6 +477,18 @@ title = "०४ ऊनेऱुशॆल्वत्तु उडऱ्"
 अम्बॊऱ् कलैयल्गुल् पॆऱ्ऱालु मादरियेऩ्  
 सॆम्बवळ वायाऩ् तिरुवेङ् गडमॆऩ्ऩुम्  
 ऎम्बॆरुमाऩ् पॊऩ्मलैमे लेदेऩु मावेऩे ४।१०
+</details>
+
+<details><summary>Hart - DP_६८६</summary>
+
+Even if I were to become the king  
+of the world of the gods,  
+rule it beneath a sole umbrella  
+and enjoy the waist of Urvasi,  
+decorated with beautiful golden ornaments,  
+I would not want it:  
+I want to become anything on the golden hills  
+of Thiruvenkaṭam of my lord: :
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६८६ - १०</summary>

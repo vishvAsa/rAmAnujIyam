@@ -22,6 +22,19 @@ title = "०७ करुप्पूरम् नाऱुमो"
 विरुप्पुऱ्ऱुक् केट्किऩ्ऱेऩ् सॊल्लाऴि वॆण्सङ्गे। १
 </details>
 
+<details><summary>Hart - DP_५६७</summary>
+
+O white conch, born in the ocean,  
+tell me—I ask you anxiously:  
+He puts you in his mouth to make the sound of victory:  
+What is the taste and the fragrance  
+of the mouth of Mādhavan  
+who broke the tusks of the elephant?  
+Does it have the fragrance of camphor?  
+Does it have the fragrance of a lotus flower?  
+Does his beautiful red coral mouth taste sweet?
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५६७ - ०१</summary>
 
 करुप्पूरम्=पच्च कर्पूरदन्तॆ, नाऱुमो=वासनॆयुळ्ळद्दो? कमलम् पू=कमलद हूविनन्तॆ, नाऱुमो=वासनॆयुळ्ळद्दो, तिरु=श्रेष्ठवाद, पवळम्=हवळदन्तॆ, शॆम्=सॊबगिन, वाय् तान्=तुटिगळु, तित्तित्तु=मधुरवागि, इरुक्कूमो=इरुवुदो? मरुप्पु=आनॆय दन्तगळन्नु, ऒशित्त=मुरिद, मादवन् तन्=माधवनाद श्रीकृष्णन, वाय्=तुटिय, शुवैयुम्=रुचियन्नू, नाट्रुमुम्=परिमळवन्नू, विरुप्पुट्रु=आशॆपट्टु, केट्किऱेन्=केळुत्तिद्देनॆ. आऴि=आज्ञॆ माडुव, वॆळ्=बिळिय, शङ्गे-शङ्खवे, शॊल्=हेळु.
@@ -65,6 +78,15 @@ title = "०७ करुप्पूरम् नाऱुमो"
 नडलैप् पडमुऴङ्गुम् तोऱ्ऱत्ताय् नऱ्सङ्गे। २
 </details>
 
+<details><summary>Hart - DP_५६८</summary>
+
+O beautiful conch born in the ocean,  
+you entered the body of the Asuran Panchajanya  
+and now you rest in his hand,  
+making the sound of victory  
+when he conquers the evil Asurans:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५६८ - ०२</summary>
 
 नल्=श्रेष्ठ, शङ्गे=शङ्खवे. कडलिल्=कडलिनल्लि, पिऱन्दु=हुट्टि, पञ्चजनन्=पञ्चजननॆम्बवन, उडलिल्=हॊट्टॆयल्लि, पोय्=होगि, वळर्न्दु=बॆळॆदु, करुतादु=अवुगळन्नु ऎणिसदॆ, ऊऴियान्=लयकर्तनाद स्वामिय, कैतलम्=कैयॊळगिन, तिडरिल्=स्थळदल्लि, कुडि एऱि=नित्यवास माडुत्ता, तीय=क्रूरिगळाद, अशुरर्=असुररु नडलैपड=सङ्कटपडुवन्तॆ, मुऴङ्गुम्=मॊळगुव, तोट्रत्ताय्=हॊगळिकॆयन्नु पडॆदिरुवॆ.
@@ -106,6 +128,15 @@ title = "०७ करुप्पूरम् नाऱुमो"
 कुडियेऱि वीऱ्ऱिरुन्दाय् कोलप्पॆ रुञ्जङ्गॆ। ३
 </details>
 
+<details><summary>Hart - DP_५६९</summary>
+
+You are a wonderful conch!  
+Like the full moon that rises in the autumn  
+from behind the large mountain,  
+you stay in the hands of Vasudevan  
+the king of northern Madura:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५६९ - ०३</summary>
 
 तडवरैयिन् मीदे=विशालवाद दॊड्ड बॆट्टद मेलॆ, शरऱ् कालम्=शरत्कालद, चन्दिरन्=चन्द्रनु, इडै=नडुवॆ, उवाविल्=हुण्णिमॆयन्दु, वन्दु=बन्दु, ऎऴुन्दाले पोल=उदयिसिदन्तॆ, कोलम्=सुन्दरवाद, पॆरु=दॊड्ड, शङ्गे=शङ्खवे, नीयुम्=नीनू सह, वडमदुरैयार्=मधुरापुरियवर, मन्नन्=राजनाद, वाशुदेवन्=वासुदेवन, कैयिल्=कैयल्लि, कुडि एऱि=नित्यवास माडुत्ता, वीट्रिरुन्दाय्=निश्चिन्तवागिद्दीयॆ.
@@ -145,6 +176,16 @@ title = "०७ करुप्पूरम् नाऱुमो"
 इन्दिरऩु मुऩ्ऩोडु सॆल्वत्तुक् केलाऩे। ४
 </details>
 
+<details><summary>Hart - DP_५७०</summary>
+
+O beautiful large valampuri conch,  
+you are like the moon even though you are not in the sky:  
+As you stay in the hand of Damodaran,  
+do you say any mantras in his ears?  
+Even Indra the king of gods  
+does not have the fortune that you have:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५७० - ०४</summary>
 
 वलम्बुरिये=बलमुरि शङ्खवे, चन्दिरमण्डलम् पोल्=पूर्णचन्द्र मण्डलदन्तॆ, दामोदरन्=दामोदरन, कैयिल्=कैयल्लि, अन्दरम्=अवकाशवु, ऒन्ऱु=स्वल्पवू, इन्ऱि=इल्लदन्तॆ, एऱि=इद्दुकॊण्डु, अवन्=अवन, शॆवियिल्=किवियल्लि, मन्तिरम्=रहस्यवन्नु, कॊळ्वाये पोलुम्=तिळिदुकॊळ्ळुत्तिरुवॆयो\(हेळुत्तिरुवॆयो\) ऎन्नुव हागिदॆ, उन्नोडु=निन्नॊडनॆ, इन्दिरनुम्=इन्द्रनू सह, शॆल्वत्तुक्कू=ई भाग्यदल्लि, एलाने=समनागुवुदिल्लवल्ला.
@@ -178,6 +219,15 @@ title = "०७ करुप्पूरम् नाऱुमो"
 पऩ्ऩाळु मुण्गिऩ्ऱाय् पाञ्जसऩ् ऩियमे। ५
 </details>
 
+<details><summary>Hart - DP_५७१</summary>
+
+O Panchajanya!  
+Others were born along with you in the ocean,  
+but they do not receive the respect that you do:  
+You drink constantly the nectar from the mouth  
+of the king Madhusūdanan:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५७१ - ०५</summary>
 
 पाञ्चशन्नियमे=पाञ्चजन्यवे, उन्नोडु=निन्नॊडनॆ, उडने=कूडिये, ऒरुकडलिल्=ऒन्दे कडलल्लि, वाऴ् वारै=\(बदुकि\)वासिसुववरन्नु, इन्नार्=शत्रुगळु, इणैयार्=समानरु, ऎन्ऱु=ऎन्दु, ऎण्णुवार्=भाविसुववरु, इल्लैकाण्=इल्ल कण्डॆया, मन्=सर्वेश्वरनु, आहि=आगि, निन्ऱ=इरुव, मदुशूदन्=मधुसूदनन, वाय् अमुदम्=अधरामृतवन्नु, पल्=बहु, नाळुम्=कालदिन्द, उण् हिन्ऱाय्=अनुभविसुत्तिरुवॆ.
@@ -209,6 +259,18 @@ title = "०७ करुप्पूरम् नाऱुमो"
 साय्त्तीर्त्ताऩ् कैत्तलत्ते येऱिक् कुडिगॊण्डु  
 सेय्त्तीर्द माय्निऩ्ऱ सॆङ्गण्माल् तऩ्ऩुडय  
 वाय्त्तीर्त्तम् पाय्न्दाड वल्लाय् वलम्बुरिये।
+</details>
+
+<details><summary>Hart - DP_५७२</summary>
+
+O Valampuri conch,  
+you have not gone to the Ganges  
+or on other pilgrimages to bathe,  
+yet you rest in the hands of lovely-eyed Thirumāl  
+who destroyed the Asurans  
+when they came as marudam trees:  
+You have the good fortune of plunging  
+into the divine water that comes from his mouth:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५७२ - ०६</summary>
@@ -326,6 +388,16 @@ title = "०७ करुप्पूरम् नाऱुमो"
 मदुवायिल् कॊण्डाऱ्पोल् मादवऩ्ऱऩ् वायमुदम्,  
 पॊदुवाग वुण्बदऩैप् पुक्कुनी युण्डक्काल्,  
 सिदैयारो वुऩ्ऩोडु सॆल्वप्पॆ रुञ्जङ्गे। ९
+</details>
+
+<details><summary>Hart - DP_५७५</summary>
+
+O fortunate conch  
+who drink nectar from the mouth of Madhavan  
+as if you were drinking honey,  
+won’t his sixteen thousand wives be angry  
+when they see you with him  
+drinking the nectar that all others want to drink?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५७५ - ०९</summary>

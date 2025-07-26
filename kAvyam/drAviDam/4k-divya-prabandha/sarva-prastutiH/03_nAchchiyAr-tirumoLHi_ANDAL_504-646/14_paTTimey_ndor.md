@@ -30,6 +30,16 @@ title = "१४ पट्टिमेय्न्दोर् कारेऱु
 विरुन्दा वऩत्ते कण्डो मे। १
 </details>
 
+<details><summary>Hart - DP_६३७</summary>
+
+“Playing like a young calf,  
+he makes the cows crazy  
+as he goes behind his brother Baladevan:  
+Did you see that dark bull-like one?”  
+“We saw him grazing the cows and giving them water:  
+He loves them and plays with them in Brindavan:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६३७ - ०१</summary>
 
 पट्टि=अङ्कॆयिल्लदॆ\(स्वेच्छॆयागि\), मॆय्न्द=मेय्दुकॊण्डु\(तिरुगाडिकॊण्डु\)इरुव, ओर्=ऒन्दु, कार्=करिय, एऱु=सलग\(वृषभ\)वॆन्नुवुदु, पलदेवऱ् कु=बलदेवनिगॆ, ओर्=साटियिल्लद,कीऴ्=चिक्क, कन्ऱु=करुवु\(तम्मनु\)आय्=आगि, इट्टीऱॊट्टु=हर्षोद्गारगळन्नु माडुत्ता, विळैयाडि=आटवाडुत्ता, इङ्गे=इल्लिये, पोद=बरुवुदन्नु, कण्डीरे=नोडिद्दीरा? इट्टम् आन=तनगॆ इष्टवाद, पशुक्कळै=हसुगळन्नु, इनिदु=प्रीतियिन्द\(तृप्तियागुवन्तॆ\), मऱित्तु=मत्तॆ मत्तॆ मेयिसि, नीर्=नीरन्नु, ऊट्टि=कुडिसि, विट्टुक्कॊण्डु=मुन्दॆ बिट्टुकॊण्डु, विळैयाड=आटवाडुवुदन्नु, विरुन्दावनत्ते=बृन्दावनदल्लिये, कण्डोम्=कण्डॆवु.
@@ -79,6 +89,16 @@ title = "१४ पट्टिमेय्न्दोर् कारेऱु
 विरुन्दा वऩत्ते कण्डो मे। २
 </details>
 
+<details><summary>Hart - DP_६३८</summary>
+
+“Did you see Govardhanan  
+stealing the butter, eating it and smelling of ghee?  
+He left me and went to the cowherd village:”  
+“We saw the dark one adorned with garlands made of forest flowers:  
+He looked like the clouds shining with lightning  
+in Brindavan as he played there:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६३८ - ०२</summary>
 
 अनुङ्ग=नानु सङ्कटपडुवन्तॆ, ऎन्नै=नन्नन्नु, पिरिविदु शॆय्दु=अगलिसिबिट्टु, आयर् पाडि=नन्दगोकुलवन्नु, कवर्न्दु=आशॆयिन्द, उण्णुम्=अनुभविसुववनागि, कुणुङ्गु=\(बॆण्णॆय\)वासनॆयन्नु, नाऱि=नारुववनगि, कुट्टि एट्रै=ऎळॆय वृषभनाद, कोवर्दननै=गोवर्धननन्नु, कण्डीरे=नोडिदिरा? कणङ्गळोडु=दनकरुगळ मन्दॆगळॊडनॆ, मिन्=मिञ्चू, मेहम्=मेघवू, कलन्दाल् पोल्=कूडिकॊण्डन्तॆ, वनमालै=वनमालॆयु, मिनुङ्ग=हॊळॆयुत्ता\(प्रकाशिसुत्ता\), निन्ऱु=इद्दुकॊण्डु, विळैयाड=आटवाडुवुदन्नु
@@ -123,6 +143,15 @@ title = "१४ पट्टिमेय्न्दोर् कारेऱु
 विऩतै सिऱुवऩ् सिऱकॆऩ्ऩुम्,  
 मेलाप् पिऩ्कीऴ् वरुवाऩै  
 विरुन्दा वऩत्ते कण्डो मे। ३
+</details>
+
+<details><summary>Hart - DP_६३९</summary>
+
+“Did you see Nambi Thirumāl when he was born as a child?  
+He bewitched all the young girls, telling unbelievable lies:  
+Did you see him coming here?”  
+“We saw him flying on Garuḍa  
+shielded by its wings from the heat in Brindavan:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६३९ - ०३</summary>
@@ -170,6 +199,16 @@ title = "१४ पट्टिमेय्न्दोर् कारेऱु
 विरुन्दा वऩत्ते कण्डो मे। ४
 </details>
 
+<details><summary>Hart - DP_६४०</summary>
+
+“He attracted me with his dark beautiful lotus eyes,  
+tied me to him with his love, pulled me and played with me:  
+Did you see him?”  
+“We saw him: He was like a baby elephant  
+covered with a cloth decorated with pearls:  
+We saw him sweating and playing in Brindavan:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६४० - ०४</summary>
 
 कार्=कार्मुगिलिनल्लि, तण्=तम्पाद, कमलम्=कमलवॆम्बम्तॆ, कण् ऎन्नुम्=कण्णु ऎम्ब, नॆडु=दॊड्ड, कयिऱु=पाशदल्लि, ऎन्नै=नन्नन्नु, पडुत्तु=सिक्किसिकॊण्डु, ईर् त्तुक्कॊण्डु=ऎळॆदुकॊण्डु\(ऎळॆदाडुत्ता\), विळैयाडुम्=आटवाडुव, ईशन् तन्नै=ईशनन्नु \(भगवन्तनन्नु\), कण्डीरे=नोडिदिरा?पोर् त्त=पोणिसिद, मुत्तिन्=मुत्तिन, कुप्पायम्=अङ्गियन्नु धरिसि, पुहर्=प्रकाशिसुव, माल्=दॊड्ड, यानैकन्ऱे पोळ्=आनॆय मरिय हागॆ, वेर् त्तु=बॆवतु, निन्ऱु= निन्तु, विळैयाड=आटवाडुत्तिरुवुदन्नु, विरुन्दावनत्ते=बृन्दावनदल्लिये, कण्डोमे=कण्डॆवल्ल.
@@ -213,6 +252,15 @@ title = "१४ पट्टिमेय्न्दोर् कारेऱु
 पॆरुङ्गार् मेगक् कऩ्ऱेबोल्,  
 वीदि यार वरुवाऩै  
 विरुन्दा वऩत्ते कण्डो मे। (२) ५
+</details>
+
+<details><summary>Hart - DP_६४१</summary>
+
+“Did you see Madhavan, my lord, my jewel?  
+He is like a pig that has been caught in a net and escaped:  
+Has no one seen him? Doesn’t he want to show himself to anyone?”  
+“We saw him: He was like a dark baby cloud  
+wearing golden clothes as he came on the street in Brindavan:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६४१ - ०५</summary>
@@ -262,6 +310,18 @@ title = "१४ पट्टिमेय्न्दोर् कारेऱु
 विरुन्दा वऩत्ते कण्डो मे। ६
 </details>
 
+<details><summary>Hart - DP_६४२</summary>
+
+“Did you see the naughty one,  
+his beautiful eyebrows bending like his Sarngam bow?  
+He doesn’t have any compassion for the young girls  
+who love him and is always bothering them:  
+He doesn’t know how to get along with others:”  
+“We saw the dark one with a fair face:  
+He looked like the bright sun rising from behind a hill:  
+We saw him in Brindavan:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६४२ - ०६</summary>
 
 तरुमम्=धर्मवन्नु, अऱियानै=अरियदवनन्नु, कुऱुम्बनै=चेष्टॆगळन्नु माडुववनन्नु, तन्=तन्न, कै=कैयल्लिरुव, शार्ग्गम् अदुवे पोळ्=शार्ङ्गवॆम्ब बिल्लिन हागॆये, पुरुवम्=हुब्बुगळू, वट्टम्=दुण्डगू\(बग्गियू\), अऴहिय=सुन्दरवागियू इरुववनन्नू, पॊरुत्तम्=हॊन्दिकॆ, इलियै=इल्लदवनन्नू, कण्डीरे=कण्डिद्दीरा?\(कण्डिरा?\)उरुवु=देहवु, करिदु आय्=कप्पगू, मुहम्=मुखवु, शॆय्दु आय्=कॆम्पगू, उदय परुप्पदत्तिन् मेल्=उदयपर्वतद मेलॆ, विरियुम्=हुट्टि बरुव,कदिरे=सूर्यनन्नु, पोळ् वानै=होलुवनन्नु, विरुन्दावनत्ते=बृन्दावनदल्लिये कण्डोमे=कण्डॆवल्ला\!
@@ -305,6 +365,16 @@ title = "१४ पट्टिमेय्न्दोर् कारेऱु
 आरप् पॆरुगु वाऩम्बोल्,  
 विरुत्तम् पॆरिदाय् वरुवाऩै  
 विरुन्दा वऩत्ते कण्डो मे। ७
+</details>
+
+<details><summary>Hart - DP_६४३</summary>
+
+“Did you see him, beautiful and dark as a cloud?  
+Is his mind as dark as his body?  
+He makes many promises to girls but doesn’t keep them:  
+Doesn’t he have any compassion?”  
+“We saw him: He was bright as the sky filled with stars  
+when he came with a big crowd in Brindavan:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६४३ - ०७</summary>
@@ -358,6 +428,15 @@ title = "१४ पट्टिमेय्न्दोर् कारेऱु
 विरुन्दा वऩत्ते कण्डो मे। ८
 </details>
 
+<details><summary>Hart - DP_६४४</summary>
+
+“Did you see generous Thirumāl  
+carrying a white conch and a discus  
+and adorned with golden clothes?”  
+“We saw him as his lovely fragrant hair fell on his large arms  
+while he played in Brindavan:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६४४ - ०८</summary>
 
 वॆळिय=बिळिय, शङ्गु=शङ्ख, ऒन्ऱु=ऒन्दन्नु, उडैयानै=उळ्ळवनन्नु, पीतकम् आडै=पीताम्बरवन्नु, उडैयानै=\(धरिसि\)उळ्ळवनन्नु, नन्गु=अपारवाद, अळि=प्रेमानुग्रहवन्नु, उडैय=उळ्ळ, तिरुमालै=श्रीपतियन्नु, आऴियानै=चक्रधारियन्नु, कण्डीरे=कण्डिरा? कळि=मदिसिद, वण्डु=दुम्बिगळु, ऎङ्गुम्=ऎल्लॆल्लियू, कलन्दार् पोल्=कूडिकॊण्डिरुव हागॆ, कमऴ्-परिमळिसुव,
@@ -409,6 +488,17 @@ title = "१४ पट्टिमेय्न्दोर् कारेऱु
 कळिऱुम् पुळ्ळु मुडऩ्मडिय,  
 वेट्टै याडि वरुवाऩै  
 विरुन्दा वऩत्ते कण्डो मे। ९
+</details>
+
+<details><summary>Hart - DP_६४५</summary>
+
+“He created Nānmuhan on a beautiful lotus  
+growing from his navel  
+so that Nānmuhan could create the whole world:  
+Did you see the faultless lord who created this world and plays in it?”  
+“We saw the lord returning from fighting  
+after killing the Rakshasa Thenugan  
+and the elephant Kuvalayabeeḍam in the forest: We saw him in Brindavan:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६४५ - ०९</summary>

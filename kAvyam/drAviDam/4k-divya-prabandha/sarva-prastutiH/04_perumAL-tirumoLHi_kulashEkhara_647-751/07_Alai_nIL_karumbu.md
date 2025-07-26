@@ -30,6 +30,19 @@ title = "०७ आलै नीळ्"
 ताय रिल्गडै यायिऩ ताये ७।१
 </details>
 
+<details><summary>Hart - DP_७०८</summary>
+
+“You are as sweet as the sugarcane juice  
+that comes from a sugarcane press, thālo:  
+Your big eyes are lovely as lotuses in the water, thālo:  
+Your color is like the water of the ocean, thālo:  
+You are the king who killed the elephant Kuvalayābeeḍam, thālo:  
+You are my son with handsome fragrant hair, thālo:  
+I am more unlucky than all other mothers  
+because I don’t have the good fortune  
+of singing a lullaby and saying “thālo, thālo” for you:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७०८ - ०१</summary>
 
 आलै=आलॆगॆ तक्क, नीळ्=उद्दनाद, करुम्बु अन्नवन्=कब्बिन हागॆ इरुववने\! तालो=निनगॆ लालि, अम्बुयम्=कमलद हागॆ, तड=विशालवाद, कण्णिनन्=कण्णुगळुळ्ळवने, तालो=लालि, वेलै=कडलिन, नीर्=नीरिनन्तॆ, निऱत्तु=बण्णद, अन्नवन्=हागॆ इरुववने, तालो=लालि, वेऴम्=आनॆय, पोतकम्=मगुविन\(करुविन\) अन्नवन्=हागॆ इरुववने, तालो=लालि, एलम्=सुवासनॆयिन्द कूडिद, वार्=उद्दनाद, कुऴल्=तलॆगूदलिन, ऎन् महन्=नन्न मगने, तालो=लालि, ऎन्ऱु ऎन्ऱु=ऎन्दॆन्दिगू, उन्नै=निन्नन्नु, ऎन्=नन्न, वायिडै=बायल्लि, निऱैय=तृप्तियागुवन्तॆ\(तुम्ब\), तालॊत्तिडुम्=जोगुळ हाडुव, तिरु=भाग्यद, विनै=कार्य, इल्ला=इल्लद, तायरिल्=तायन्दिरल्लि, कडै आयिन=निकृष्टळाद, ताये=तायिये नानु.
@@ -73,6 +86,17 @@ title = "०७ आलै नीळ्"
 अङ्गै योडणैन् दाऩैयिऱ् किडन्द  
 किडक्कै कण्डिडप् पॆऱ्ऱिल ऩन्दो  
 केस वागॆडु वेऩ्कॆडु वेऩे ७।२
+</details>
+
+<details><summary>Hart - DP_७०९</summary>
+
+“Your lotus eyes darkened with kohl are beautiful  
+as you look up and see the decorations on the cradle:  
+You look like a baby cloud:  
+As you bend your legs and put your fingers in your mouth,  
+you look like an elephant bending its trunk and sleeping:  
+O Kesava, I don’t have the good fortune  
+of seeing these things when you are a baby:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७०९ - ०२</summary>
@@ -130,6 +154,20 @@ title = "०७ आलै नीळ्"
 नङ्गळ् कोऩ्वसु तेवऩ्पॆऱ् ऱिलऩे ७।३
 </details>
 
+<details><summary>Hart - DP_७१०</summary>
+
+“Mothers from good families  
+keep their children on their laps and say,  
+‘You are my dear one,  
+you are the bright light of our family,  
+you are like a bull that has the color of a cloud:’  
+When someone asked you, ‘Who is your father?’  
+you looked at Nandagopan out of the corner of your eyes  
+and pointed at him with your beautiful fingers:  
+Vasudevan, our chief, does not have the good fortune  
+of being your father:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७१० - ०३</summary>
 
 मुन्दै=हिन्दिन कालदिन्द बन्द, नल्=उत्तमवाद, मुऱै=नडतॆ, पद्धतिय, अन्बु उडै=प्रीतियन्नुळ्ळ, महळिर्=हॆण्णुमक्कळु, मुऱै मुऱै=क्रमक्रमवागि \(ऒब्बरागुत्तलॊब्बरु\), तन्दम्=तम्मतम्म, कुऱङ्गिडै=तॊडॆगळ मेलॆ, इरुत्ति=इट्टुकॊण्डु, ऎन्दैये=नन्नप्पने, ऎन् तन्=नन्न, कुलम्=वंशद, पॆरु शुडरे=दिव्यज्योतिये, ऎऴुमुहिल्=मेलेरुव मुगिलिन, कणत्तु=गणद, ऎऴिल्=सुन्दरवाद, कवर्=कूडिकॊण्ड, एऱे=वृषभदन्थवने, उन्दै=निन्न तन्दॆ, यावन्= यारु, ऎन्ऱु=ऎन्दु, उरैप्प=केळलु, नि=निन्न, शॆम्=सॊगसाद, केऴ् विरलिनुम्=मिरुगुव बॆरळिनिन्दलू, कडैक्कण्णिनुम्=कडॆगण्णिनिन्दलू, काट्ट=तोरिसुवुदक्कॆ, नन्दन् पॆट्रनन्=नन्दनु पडॆद भाग्यवल्लवे, नल् विनै=पुण्य \(सुकृत\) इल्ला= इल्लद, नङ्गळ्=नम्म, कोन्=ऒडॆयनाद, वसुदेवन्-वसुदेवनु, पॆट्रलने=पडॆयदादने?
@@ -171,6 +209,20 @@ title = "०७ आलै नीळ्"
 परुगु वेऱ्किवळ् तायॆऩ निऩैन्द  
 अळविल् पिळ्ळैमै यिऩ्पत्तै यिऴन्द  
 पावि येऩॆऩ ताविनिल् लादे ७।४
+</details>
+
+<details><summary>Hart - DP_७११</summary>
+
+“O Kaṇṇa, your face is like the shining full moon,  
+your hands, chest and arms are strong,  
+your dark hair is adorned with fresh flowers,  
+your forehead is like the crescent moon  
+and your eyes are like lotuses blooming in a pond:  
+I do not have the fortune of seeing  
+you with my eyes when you are a baby  
+even though I think of myself as your mother:  
+I am unlucky and I don’t have the pleasure  
+of raising my child, yet still I am alive:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७११ - ०४</summary>
@@ -226,6 +278,20 @@ title = "०७ आलै नीळ्"
 तॆय्व नङ्गै यसोदैबॆऱ् ऱाळे ७।५
 </details>
 
+<details><summary>Hart - DP_७१२</summary>
+
+“You kissed your father Nandagopan  
+and your mother Yashoda with your beautiful lips  
+as the chuṭṭi ornament on your beautiful forehead swung around:  
+You put your sweet fingers into your lovely mouth  
+and prattled innocently:  
+When your father saw you like that  
+his heart was filled with joy,  
+but I did not have the good fortune of seeing those things  
+or listening to your baby talk:  
+Only the divine Yashoda has known that joy:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७१२ - ०५</summary>
 
 निन्=निन्न, तिरुनॆट्रियिल्=दिव्यवाद हणॆ\(नॆत्ति\)यल्लि, मरुवुम्=हॊन्दिकॊण्डिरुव, चुट्टि=चुट्टिबॊट्टु, अशैतर=अलुगाडुवन्तॆ,मणि=रत्नदन्तॆ सुन्दरवाद, वायिडै=बायिगॆ, मुत्तम्=मुत्तन्नु, तरुदलुम्=कॊडबेकॆन्दाग, उन् तन्=निन्न, तादैयै=तन्दॆयन्नु, पोलुम्=होलुव, वडिवु=देह\(रूप\)सौन्दर्यवन्नु, कण्डुकॊण्डु=गमनिसि, उळ्ळम्=मनस्सिन, उळ्=अन्तरङ्गवु, कुळिर=हर्षिसलु, शॆम्=कॆम्पनॆय, शिऱु=सुन्दरवाद, वायिडै=बायल्लि, विरलै=बॆरळन्नु, शेर् त्तु=सेरिसि\(हाकिकॊण्डु\), वॆहुळियाय्=\(नीनु\)कोपगॊण्डु, निन्ऱु=इरुत्ता, उरैक्कूम्=उच्चरिसुव, अ उरैयुम्=आ तॊदलु मातन्नु, ऒन्ऱुम्=स्वल्पवादरू \(केळबहुदाद, अनुभविसबहुदाद\), तिरु=भाग्यवन्नु, इलेन्=इल्लदागिद्देनॆ, पॆट्रिलेन्=पडॆदिल्लदागिद्देनॆ, दॆय्वनङ्गै=देवमातॆयाद, यशोदै=यशोदॆये, ऎल्लाम्=ऎल्लवन्नू, पॆट्राळे=पडॆदिरुवळल्ला\!
@@ -269,6 +335,20 @@ title = "०७ आलै नीळ्"
 वारि वाय्क्कॊण्ड अडिसिलिऩ् मिच्चल्  
 उण्णप् पॆऱ्ऱिलेऩ् ओगॊडु विऩैयेऩ्  
 ऎऩ्ऩै ऎञ्जॆय्यप् पॆऱ्ऱतॆम् मोये ७।६
+</details>
+
+<details><summary>Hart - DP_७१३</summary>
+
+“O Kaṇṇa with cool lotus eyes,  
+you crawled and toddled in the cowherd village  
+and you played in the red sand:  
+I don’t have the good fortune of embracing you  
+and covering my chest with the red sand you played in:  
+When you eat your food you scatter it all over:  
+I never had the good fortune of eating  
+what was left over on your plate:  
+Surely, my karma is bad:  
+What is the use of my mother gave birth to me?”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७१३ - ०६</summary>
@@ -316,6 +396,16 @@ title = "०७ आलै नीळ्"
 वायि लेमुलै यिरुक्कवॆऩ् मुगत्ते  
 ऎऴिल्गॊळ् निऩ्तिरुक् कण्णिणै नोक्कन्  
 दऩ्ऩै युमिऴन् देऩिऴन् देऩे ७।७
+</details>
+
+<details><summary>Hart - DP_७१४</summary>
+
+“O sweet one, my lovely child, Govinda,  
+babies hold on to one of their mothers’ breasts  
+with their young beautiful hands  
+that are as tender as shoots and drink milk:  
+They look at their mother’s face and smile at them:  
+I don’t have the fortune of feeding you milk like that:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७१४ - ०७</summary>
@@ -373,6 +463,17 @@ title = "०७ आलै नीळ्"
 तॊल्लै यिऩ्पत् तिऱुदिगण् डाळे ७।८
 </details>
 
+<details><summary>Hart - DP_७१५</summary>
+
+“You took butter with your small lotus-bud-like hands and ate it:  
+When Yashoda brought a rope you were afraid she was going to hit you  
+and, your beautiful mouth smeared with yogurt,  
+you were scared as you looked at her and cried  
+and your small red mouth trembled:  
+Then you folded your hands and worshipped her  
+and when she saw this, she found endless joy:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७१५ - ०८</summary>
 
 मुऴुदुम्=पूर्तियागि, वॆण्णॆय्=बॆण्णॆयन्नु, अळैन्दु=कैयिट्टु कलसि हाकि, तॊट्टु=ऎत्तिकॊण्डु, उण्णुम्=उण्णुव, मुहिऴ्=मॊग्गाद, इळ=ऎळॆय, शिऱु=सुन्दरवाद, तामरै=तावरॆयन्थ, कैयुम्=कैगळन्नू, ऎऴिल् कॊळ्=सुन्दरवाद, ताम्बु=हग्गवन्नु, कॊण्डु=तॆगॆदुकॊण्डु, अडिप्पदऱ् कु=हॊडॆयुवुदक्कॆ, ऎळ् हु=अञ्जि निल्लुव, निलैयुम्=भङ्गियन्नु, वॆळ्=बिळिय, तयिर्=मॊसरिनिन्द, तोय्न्द=ऒद्दॆयाद, शॆम्=सुन्दरवाद, वायुम्=बायियन्नू, अऴुहैयुम्=अळुवन्नू, अञ्जि=हॆदरि, नोक्कूम्=नोडुव, अ-नोक्कुम्=आ नोटवन्नु, अणिकॊळ्=सुन्दरवाद, शॆम्=कॆम्पगॆ इरुव, शिऱु= पुट्ट, वाय्=बायि, नॆळिप्पदुवुम्=उब्बिसि दुण्डगॆ माडुवुदन्नू, तॊऴुहैयुम्=नैमुगियुवुदन्नू, इवै=इवुगळन्नॆल्ला, कण्ड=नोडिद, अशोदै=यशोदॆयु, तॊल्लै इन्बत्तु=परमानन्दद, इऱुदि=ऎल्लॆयन्नु, कण्डाळे=कण्डळल्लवे\!
@@ -418,6 +519,21 @@ title = "०७ आलै नीळ्"
 अऩैत्ति लुमङ्गॆऩ् ऩुळ्ळमुळ् कुळिर  
 ऒऩ्ऱुम् कण्डिडप् पॆऱ्ऱिले ऩटियेऩ्  
 काणु माऱिऩि युण्डॆऩि लरुळे ७।९
+</details>
+
+<details><summary>Hart - DP_७१६</summary>
+
+“You stopped the rain with Govardhana mountain  
+and protected the cows:  
+You danced the beautiful kuravai dance  
+and danced on a pot:  
+You picked up the Rakshasas when they came as calves,  
+threw them at the vilam fruit tree and killed them:  
+You danced on the head of Kalingan the snake:  
+I never saw how you played like this as a child—  
+my heart never felt the joy of seeing these things:  
+Give me your grace that I may see you play like that  
+if you can do it again:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७१६ - ०९</summary>
@@ -477,6 +593,21 @@ title = "०७ आलै नीळ्"
 कडैप्पट् टेऩ्वॆऱि तेमुलै सुमन्दु  
 तञ्ज मेलॊऩ्ऱि लेऩुय्न्दि रुन्देऩ्  
 तक्क तेनल्ल तायैप्पॆऱ् ऱाये ७।१०
+</details>
+
+<details><summary>Hart - DP_७१७</summary>
+
+“When you drank milk from the breasts of Putanā,  
+the evil-hearted one, her body became withered,  
+blood flowed out and her nerves were broken:  
+You survived even though you drank her poisonous milk  
+and gave your grace to all:  
+O my father who are like a dark cloud,  
+who took the life of Kamsan,  
+my breasts are a burden to me and I cannot use them:  
+I think I will see you one day  
+and that is the only thing I am living for:  
+You have a good mother, Yashoda:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७१७ - १०</summary>

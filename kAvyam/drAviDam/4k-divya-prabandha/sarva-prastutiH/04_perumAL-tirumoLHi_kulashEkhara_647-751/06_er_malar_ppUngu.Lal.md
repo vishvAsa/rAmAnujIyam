@@ -30,6 +30,18 @@ title = "०६ एर् मलर्"
 वासुदे वाउऩ् वरवुबार्त्ते ६।१
 </details>
 
+<details><summary>Hart - DP_६९८</summary>
+
+“Many of the cowherd women in this town  
+decorated with fresh flowers  
+say they don’t want to embrace your chest  
+because you lied to them:  
+I am standing on a sand dune  
+on the bank of the Yamuna river  
+shaking in the cold that comes after a strong rain:  
+O Vasudeva, I am waiting for you to come:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६९८ - ०१</summary>
 
 एर्=सॊबगिन, मलर्=अरळिद, पू=हूगळन्नु\(मुडिद\), कुऴल्=तलॆगूदलिन, आयर्=गोवळर, मादर्=हॆङ्गळु, ऎनै=ऎष्टो, पलर्=हलवरु, उळ्ळ=इरुव, इव्वूरिल्=ई ऊरिनल्लि, उन् तन्=निन्न, मार्वु=ऎदॆयन्नु, तळुवुदऱ्कु=आलिङ्गिसुवुदक्कॆ, आशै=आशॆ, इन् मै=इल्लदिरुविकॆयन्नु, अऱिन्दु अऱिन्दे=तिळिदे, उन् तन्=निन्न, पॊय्यै-सुळ्ळुमातन्नु, केट्टु=केळि, कू मऴैपोल्=बिरुसाद मळॆय हागॆ, पनिक्कू=हिमक्कॆ, ऊदल्=चळियन्नु, ऎय्दि=हॊन्दि, कूशि=नाचिकॆपट्टु, नडुङ्गि=नडुकगॊण्डु, यमुनै आट्रिल्=यमुना नदियल्लि, वार् मणल्=ऎत्तरवाद मरळिन, कुन्ऱिल्=गुड्डदल्लि, उन्=निन्न, वरवु=बरुविकॆयन्नु, पार् त्तु=निरीक्षिसुत्ता, पुलर=उषःकालदवरॆगॆ\(मुञ्जानॆयवरॆगॆ\), निन्ऱेन्=कादु निन्तिरुत्तेनॆ, वासुदेवा=वासुदेवा.
@@ -75,6 +87,18 @@ title = "०६ एर् मलर्"
 वाण्मुगम् वेर्प्पच्चॆव् वाय्त्तुडिप्प  
 तण्डयिर् नीगडैन् दिट्टवण्णम्  
 तामोद रामॆय् यऱिवऩ्नाऩे ६।२
+</details>
+
+<details><summary>Hart - DP_६९९</summary>
+
+“You saw a lovely girl with beautiful fish-like eyes  
+churning yogurt in her home near you  
+and you entered her house like a thief and said,  
+‘I will also churn yogurt:’  
+When the girl with long beautiful hair  
+that was decorated with flowers swarming with bees  
+saw you, her bright face sweated and her red mouth quivered:  
+O Damodara, I know truly how you churn the yogurt!”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६९९ - ०२</summary>
@@ -132,6 +156,20 @@ title = "०६ एर् मलर्"
 वळर्गिऩ्ऱ तालुऩ्ऱऩ् मायैदाऩे ६।३
 </details>
 
+<details><summary>Hart - DP_७००</summary>
+
+“You looked at one girl  
+with dark hair adorned with flowers,  
+you approached another girl and your heart fell for her,  
+you told another girl about her,  
+you told lies to another innocent girl,  
+and you embraced a curly-haired young girl,  
+but you are not true to any of them:  
+O you who destroyed the wrestlers  
+when they came as marudu trees,  
+as you grow, your magic grows with you:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७०० - ०३</summary>
 
 मलर्=हूमुडिद, करुकून्दल्=कप्पुकूदलिन, ऒरुत्ति तन्नै=ऒब्बळन्नु, कडैक्कणित्तु=कडॆगण्णिनिन्द नोडि, आङ्गे=अदे रीतियल्लि, ऒरुत्ति तन्=बेरॊब्बळ, पाल्=कडॆगॆ, मनम्=मनस्सन्नु, मरुवि=हॊन्दिसि, वैत्तु=इट्टु, मट्रु=बेरॆ, ऒरुत्तिक्कू=ऒब्बळिगॆ, उरैत्तू=हेळि, ऒरुपेदैक्कू=मत्तॊब्ब हॆङ्गसिगॆ, पॊय् कुऱित्तु=सुळ्ळु सूचनॆ कॊट्टु, पुरिकुऴल् मङ्गै=गुङ्गुरु कूदलिन हॆण्णु, ऒरुत्तितन्नै=ऒब्बळन्नु, उणर् ति=समाधानगॊळिसि, अवळुक्कूम्=अवळिगू सह, मॆय्यन्=सत्यवन्तनु, अल्लै=अल्लवादॆ, मरुदु=\(ऎरडु\)मत्तिमरगळन्नु इऱुत्ताय्=मुरिदुहाकिदॆ, उन्=निन्न, वळर् तियोडे=बॆळवणिगॆय जॊतॆयल्ले, वळर् क्किन्ऱदाल्=बॆळॆयुत्तिरुवुदरिन्द, उन् तन्=निन्न, मायैताने=मायॆये अल्लवे?
@@ -175,6 +213,20 @@ title = "०६ एर् मलर्"
 याऩ्विड वन्दवॆऩ् तूदियोडे  
 नीमिगु पोगत्तै नऩ्कुगन्दाय्  
 अदुवुमुऩ् कोरम्बुक् केऱ्कुमऩ्ऱे ६।४
+</details>
+
+<details><summary>Hart - DP_७०१</summary>
+
+“Even though there is nectar-like milk  
+in your mother’s breast, you crawled  
+and toddled to the devil Putanā,  
+put your mouth to her breasts  
+and drank her poisonous milk:  
+Those who saw you called you crazy:  
+I am here and I love you,  
+but you got together with the girl  
+I sent as a messenger and enjoyed her:  
+Is that also one of your naughty deeds?”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७०१ - ०४</summary>
@@ -222,6 +274,19 @@ title = "०६ एर् मलर्"
 इऩ्ऩमङ् गेनड नम्बिनीये ६।५
 </details>
 
+<details><summary>Hart - DP_७०२</summary>
+
+“I saw you wearing golden silk clothes  
+as you went on the street in the dark night  
+with another girl with a thin lightning-like waist:  
+I stood there and saw how you looked at her  
+as she looked at you,  
+but you were also gesturing with your hands  
+to call another girl who saw you:  
+Why have you left them all and returned?  
+Dear one, go back to them now:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७०२ - ०५</summary>
 
 मिन्=\(बळ्ळि\)मिञ्चिन, ऒत्त=हागॆ इरुव, नुण्=सूक्ष्मवाद, इडैयाळै=नडुविनवळन्नु, कॊण्डु=निन्नॊडनॆ करॆदुकॊण्डु, वीङ्गु इरुळ् वाय्=नट्टिरुळीनल्लि, ऎन् तन्=नन्न, वीदि ऊडे=बीदिय मार्गवागि, पॊन् ऒत्त=चिन्नक्कॆ समनाद, आडै=सीरॆयन्नु, कुक्कूडल् इट्टु=मुसुकु हाकिकॊण्डु, पोहिन्ऱ=होगुत्तिरुव, पोदु=कालदल्लि, नान्=नानु, कण्डु निन्ऱेन्=नोडुत्तिद्दॆ, कण् उट्र=कण्णु तोरिसिद, अवळै=अवळन्नु, नी=नीनु, कण्णाल् इट्टु=कृपॆमाडि\(कटाक्षिसि\), कैविळिक्किन्ऱदुम्=कैबीसि सञ्ज्ञॆ माडुवुदन्नू, कण्डे निन्ऱेन्=नोडूत्तले इद्दॆ, अवळै विट्टु=अवळन्नु बिट्टु, इ~घ्गु=इल्लिगॆ, ऎन्नुक्कू=एतक्कागि, वन्दाय्=बन्दॆ? इन्नुम्=इन्नू, अङ्गे=अल्लिगे, नड=होगु, नम्बि=पवित्रनु, नीये=नीने \(अल्लवे?\)
@@ -265,6 +330,20 @@ title = "०६ एर् मलर्"
 अरिवैय रोडुम् अणैन्दुवन्दाय्  
 ऎऱ्ऱुक्कु नीयॆऩ् मरुङ्गिल्वन्दाय्  
 ऎम्बॆरु माऩ्नी यॆऴुन्दरुळे ६।६
+</details>
+
+<details><summary>Hart - DP_७०३</summary>
+
+“O Vasudeva with strong heroic arms,  
+did I do something to get bad karma?  
+When I went to rest in the middle of the night,  
+you left me on the bed alone,  
+and not only that night, my dear one,  
+but other nights also:  
+And after you embraced young girls,  
+you came back to me:  
+Why did you come back and leave them?  
+O dear one, get up and go to them:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७०३ - ०६</summary>
@@ -322,6 +401,21 @@ title = "०६ एर् मलर्"
 पुळ्ळुवम् पेसादे पोगुनम्बी ६।७
 </details>
 
+<details><summary>Hart - DP_७०४</summary>
+
+“O you who rest on the snake bed of Adishesha,  
+we are not like the ones you knew before,  
+not like those you loved  
+with beautiful eyes darkened with kohl:  
+Stop coming to our village and staying here:  
+It is enough that we fell for you,  
+looking at your beautiful clothes, divine face,  
+fruit-like red lips and listening to the music of your flute:  
+If we hear your lies for one day, that is enough:  
+Stop saying your cheating words to attract us:  
+O young one, please go away:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७०४ - ०७</summary>
 
 पै=हॆडॆगळुळ्ळ, अरवु=सर्पद, इन्=इनिदाद, अणै=हासुगॆयल्लि, पळ्ळियिनाय्=पवडिसुववने, नाम्=नावु, पण्डैयोम्=हळॆयकालद अरियदवरु, अल्लोम्=अल्ल, नी=ईनु, उहक्कूम्=आशॆपडुव, मै=काडिगॆयन्नु हच्चिद, अरि=जिङ्कॆय, ऒण्=सॊबगिन, कण्णीनारुम्=कण्णुळ्ळवरू, अल्लोम्=अल्ल, नी=नीनु, वैहि=निधानवागि अलॆदाडुत्ता, ऎम्=नम्म, शेरि=केरिगॆ, वरवु=बरुवुदन्नु, ऒऴि=निल्लिसु, शॆय्य=सुन्दरवाद, उडैयुम्=उडुगॆयन्नू, तिरु=उत्कृष्टवाद, मुकमुम्=मुखवन्नू शॆम्=कॆम्पनॆय, कनि=हण्णिनन्थ, वायुम्=बायन्नू, कुऴलुम्=तलॆगूदलन्नू, कण्डु=नोडि, पॊय्=निन्न सुळ्ळन्नु, ऒरुनाळ्=ऒन्दु सल, पट्टदे=पट्टद्दे अमैयुम्=साकु, पुळ्ळुवम्=कृत्रिमद मातन्नु, पेशादे=आडदॆ, पोहु=होगु, नम्बी=पवित्रने\!
@@ -365,6 +459,20 @@ title = "०६ एर् मलर्"
 पॊय्यच्चङ् गाट्टिनी पोदियेलुम्  
 इऩ्ऩमॆऩ् कैयगत् तीङ्गॊरुनाळ्  
 वरुदिये लॆञ्जिऩम् तीर्वऩ्नाऩे ६।८
+</details>
+
+<details><summary>Hart - DP_७०५</summary>
+
+“You asked me to come here  
+but you went to the pandal blooming  
+with clusters of jasmine and loved her:  
+When you saw me, you muttered  
+as if your heart was melting for me:  
+Even though you brought a golden dress for me  
+and lied that you love me before you went away,  
+when you come to see me again  
+I will still care for you,  
+and if I see you my anger may go away:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७०५ - ०८</summary>
@@ -416,6 +524,20 @@ title = "०६ एर् मलर्"
 कुऴैन्दु कुऴलिऩि तूदिवन्दाय्  
 ऎङ्गळुक् केयॊरु नाळ्वन्दूद  
 उऩ्कुऴ लिऩ्ऩिसै पोदरादे ६।९
+</details>
+
+<details><summary>Hart - DP_७०६</summary>
+
+“Your chest is decorated  
+with lovely, auspicious flower garlands  
+and you wear peacock feathers in your hair:  
+Your bright clothes are beautiful  
+and your ears are adorned with a bunch of flowers:  
+You played sweet music on the flute for the girls,  
+with hair adorned with fragrant kongu flowers  
+and flirted with them:  
+Would you come and play music  
+on your flute one day to enthrall us”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७०६ - ०९</summary>

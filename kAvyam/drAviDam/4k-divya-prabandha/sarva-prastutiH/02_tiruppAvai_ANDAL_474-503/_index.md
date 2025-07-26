@@ -35,6 +35,23 @@ title = "+०२ तिरुप्पावै आण्डाळ् ४७४-
 पारोर् पुगऴप् पडिन्देलोर् ऎम्बावाय्
 </details>
 
+<details><summary>Hart - DP_४७४</summary>
+
+The girls come and wake up their friends: They say,  
+“Today is the auspicious full moon day of Markazhi month:  
+O you adorned with beautiful ornaments,  
+let us go bathe: Come!  
+We are the beloved young girls of the flourishing cowherd village:  
+Nārāyaṇan, the son of Nandagopan,  
+who looks after the cows with a sharp spear,  
+the young lion of lovely-eyed Yashoda  
+with a dark body, beautiful eyes  
+and a face bright as the shining moon  
+will give us the Paṛai:  
+Come and let us bathe and worship our Pāvai  
+as the world praises him:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_४७४ - ०१</summary>
 
 शीर्=सम्पत्तु, मल् गुम्=तुम्बिरुव\(समृद्धियागिरुव\), आय् प्पाडि=गोकुलद, शॆल्वम्=सौन्दर्यद सिरियुन्नुळ्ळ, शिऱुमीर्हाळ्=ऎळॆय वयस्सिन हॆङ्गळे, नेर्=नेर्मॆयॆम्ब, इऱैयीर्= आभरणवुळ्ळवरे, कूर्=हरितवाद, वेल्=वेलायुधवन्नुळ्ळ, कॊडु=क्रूर, तॊऴिलन्=कार्यदवनाद, नन्दगोपन्=नन्दगोपन, कुमरन्=मगनू, एर्=सौन्दर्यवु \(आकर्षणॆयिन्द कूडिद\), आर्न्द=तुम्बिद, कण्णि=कण्णिनवळाद, अशोदै=यशोदॆय, इळ=ऎळॆय, शिङ्गम्=सिंहनू, कार्=कार्मुगिलिन, मेनि=देहकान्तियुळ्ळवनू, शॆम्=कॆन्दावरॆयन्तॆ, कण्=कण्णुळ्ळवनू, कदिर्=सूर्य, मदियन्=चन्द्रर, पोल्=हागॆ, मुहत्तान्=मुखदवनू, आद, नारायणने=श्रीमन्नारायणने, नमक्के=नम्मगळिगॆ \(नमगॆ\), पऱै=आशिसुव वस्तुवन्नु, तरुवान्=करुणिसुत्तानॆ\(आद्दरिन्द\), मार्हऴि तिङ्गळ्=मार्गशिर मासद, मदि=चन्द्रनु, निऱैन्द=तुम्बिद, नल्=ऒळ्ळॆय, नाळाल्=दिनदन्दु, पारोर्=लोकद जनरॆल्ल, पुहऴ्=कॊण्डाडुवन्तॆ, पडिन्दु पल्=नॆलॆयन्नु गळिसुवुदक्कॆन्दु
@@ -145,6 +162,22 @@ In a way that the whole world sings about.
 उय्युमाऱ् ऎण्णि उगन्देलोर् ऎम्बावाय्।
 </details>
 
+<details><summary>Hart - DP_४७५</summary>
+
+The girls come to wake up their friends: They say,  
+“O people of the world!  
+Hear how we worship our pāvai:  
+We worship the feet of the highest lord  
+resting on the milky ocean:  
+We don't eat ghee, we don't drink milk,  
+we bathe early in the morning,  
+we don't put kohl to darken our eyes,  
+we don't decorate our hair with flowers,  
+we don't do evil things, we don't gossip:  
+We give alms to all beggars and sages:  
+Come and let us be happy and worship our Pāvai:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_४७५ - ०२</summary>
 
 वैयत्तु=प्रापञ्चिक, वाऴ् वीर्हाळ्=बाळ्वॆयवरे, नामुम्=नावॆल्लरू, नम्=नम्म, पावैक्कू=व्रतक्कोस्कर, शॆय्युम्=माडबेकाद, किरिशॆय् हळ्=किरिय कार्यगळन्नु, केळीरो=केळिरे, पाऱ् कडलुळ्=हाल्गडिनल्लि, पैय=मृदुवागि, तुयिन्ऱ=निद्दॆ माडुत्तिरुव, परमन्=परमन, अडि=तिरुवडिगळन्नु, पाडि=स्तोत्रमाडि, नॆय्=तुप्पवन्नु, उण्णोम्=उण्णुवुदिल्ल, पाल्=हालन्नु, उण्णोम्=कुडियुवुदिल्ल, नाट् काले=उषः कालदल्लिये, नीर् आडि=स्नान माडि,मै=काडिगॆयन्नु इट्टु=हच्चि, ऎऴुत्तोम्=अलङ्कार माडिकॊळ्ळुवुदिल्ल, मलर्=हूवन्नु, इट्टु=कट्टि, नाम्=नावु, मुडियोम्=मुडिदुकॊळ्ळुवुदिल्ल, शॆय्यादन=माडबारदवुगळन्नु,शॆय्योम्=माडॆवु, ती=कॆट्ट, कुऱळै=मातुगळन्नु, शॆन्ऱु=होगि, ओदोम्=हेळुविद्ल्ल, ऐयमुम्=सम्भावनॆयन्नू, पिच्चैयुम्=भिक्षवन्नु, आन्दनैयुम्=साध्यवागुवष्टु, कैकाट्टि=नीडि, उय्यमाऱु=उज्जीवनगॊळ्ळुव हागॆ, ऎण्णि=योचिसि, उहन्दु एल्= हर्षिसिदॆवादरॆ, ओर्=अद्वितीयवाद ऎम्=नम्म, पावाय्=व्रतवागुवुदु.
@@ -241,6 +274,24 @@ And worship our Goddess Pavai.
 नीङ्गाद सॆल्वम् निऱैन्देलोर् ऎम्बावाय्
 </details>
 
+<details><summary>Hart - DP_४७६</summary>
+
+The girls come to wake up their friends: They say,  
+“Let us sing and praise the name of the virtuous lord  
+who measured the world with his tall form  
+and let us decorate our Pāvai and bathe it:  
+If we do that, rain will fall three times a month  
+without fail all over our land,  
+paddy in the fields will flourish,  
+fish will frolic in the fields,  
+bees will sleep on the buds of the kuvaḷai blossoms  
+and the cows will not hide their milk  
+but yield generously to fill up the pots  
+when the cowherds milk them:  
+Let riches be abundant!  
+Come and let us bathe and worship our Pāvai:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_४७६ - ०३</summary>
 
 ओङ्गि=बॆळॆदु, उलहु=लोकगळन्नु, अळन्द=अळॆद, उत्तमन्=पुरुषोत्तमन, पेर्=हिरिमॆयन्नु, पाडि=हाडि हॊगळि, नाङ्गळ्=नावुगळु, नम्=नम्म, पावैक्कु=व्रतवन्नु, शाट्रि=प्रकटपडिसि, नीर् आडिनाल्=मज्जन माडिदरॆ, नाडु=देश, ऎल्लाम्=ऎल्लवू, तीङ्गु=केडु, इन्ऱि=इल्लदन्तॆ, तिङ्गळ्=तिङ्गळल्लि, मुम्मारि=मूरु सल मळॆ, पॆय्दु=सुरिदु, ओङ्गु=ऎत्तरवागि, पॆरु=हुलुसागि, शॆम्=कॆम्पनॆय\(सॊगसाद\), नॆल्=भत्तद, ऊडु=नडुवॆ, कयल्=मीनुगळु, उहळ=उत्साहदिन्द हारुत्तिरलु, कुवळै=कन्नैदिलॆ हूगळु, पूम्=अरळुव, पोदिल्=समयदल्लि, पॊऱि=कान्तियिन्द कूडिद, वण्डु=दुम्बिगळु, कण् पडुप्प=निद्दॆ माडलु, तेङ्गादे=सद्दु माडदॆ, पुक्कू=\(दनद\) कॊट्टिगॆयन्नु प्रवेशिसि, इरुन्दु=कुळितु, शीर् त्त=तुम्बिद, मुलै=कॆच्चलन्नु
@@ -329,6 +380,21 @@ And all this I assure by worship of our Goddess Pavai.
 ताऴादे सार्ङ्ग मुदैत्त सर मऴै पोल्  
 वाऴ उलगिऩिल् पॆय्दिडाय् नाङ्गळुम्  
 मार्गऴि नीराड मगिऴ्न्देलोर् ऎम्बावाय्
+</details>
+
+<details><summary>Hart - DP_४७७</summary>
+
+The girls come to wake up their friends: They say,  
+“O Varuṇa, you take water from the ocean:  
+Do not hide your rain:  
+O cloud, you enter the ocean, scoop up water and rise,  
+looking like the dark form of the lord of the eon,  
+making lightning like the discus that shines in the hands of Padmanabhan,  
+roaring with thunder like the sound of his conch,  
+and pouring rain like the arrows from his Sarngam bow:  
+O Varuṇa, give us rain so that the people of the world may live happily:  
+Come and let us bathe joyfully in this month of Markazhi  
+and go to worship our Pāvai:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_४७७ - ०४</summary>
@@ -420,6 +486,21 @@ And worship our goddess Pavai.
 तीयिऩिल् तूसागुम् सॆप्पेलोर् ऎम्बावाय्।
 </details>
 
+<details><summary>Hart - DP_४७८</summary>
+
+The girls come to wake up their friends: They say,  
+“He, the bright light of cowherd clan,  
+Damodaran who made his mother's womb divine,  
+the young Māyan, the king of northern Mathura,  
+grew up playing on the banks of the Jamuna river  
+whose water is abundant and pure:  
+Faultless, we come, sprinkle flowers, worship him,  
+sing his praises and think only of him in our minds:  
+All the bad things we have done and may do  
+will disappear like dust in fire:  
+Let us go and worship our Pāvai:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_४७८ - ०५</summary>
 
 मायनै=आश्चर्याद्भुत गुणकार्यगळवनन्नु, मन्नु=शाश्वतवाद भगवन्तन सम्बन्धवन्नु उण्टुमाडुव, वड मधुरै=उत्तर मधुरॆय \(मधुरापुरिय\), मैन्दनै=वीरनन्नु, तूय=परिशुद्धवाद, पॆरुनीर्= नीरु तुम्बि हरियुव, यमुनै=यमुनॆ ऎणम्ब, तुऱैवनै=नदिय दण्डॆयन्नु \(तन्न निवासवागि\) उळ्ळवनन्नु, आयर्=गोवळर, कुलत्तिनिल्=कुलदल्लि, तोन्ऱुम्=हुट्टिबॆळगुत्तिरुव, अणि=सुन्दरवाद, विळक्कै=दीपवन्नु, तायै=तायिय, कुडल्=गर्भवन्नु, विळक्कंशॆय्द=बॆळगुवन्तॆ माडिद, दामोदरनै=दामोदरनन्नु, तूयोम्=परिशुद्ध हॊन्दिदवरु, आय्=आगि, वन्दु=बन्दु, नाम्=नावु, तू=शुद्धवाद, मलर्हळ्=हूगळन्नु, तूय्\(तूवि\)=समर्पिसि
@@ -506,6 +587,22 @@ Oh, Goddess Pavai.
 उळ्ळत्तुक् कॊण्डु मुऩिवर्गळुम् योगिगळुम्  
 मॆळ्ळ ऎऴुन्दु अरि ऎऩ्ऱ पेररवम्  
 उळ्ळम् पुगुन्दु कुळिर्न्देलोर् ऎम्बावाय्
+</details>
+
+<details><summary>Hart - DP_४७९</summary>
+
+The girls come to wake up their friends: They say,  
+“See, the birds are singing:  
+Do you hear the loud calling of the white conch  
+in the temple of the god of Garuḍa?  
+O friend, get up:  
+He, the seed of the world  
+who drank the poison from Putanā's breasts  
+and destroyed the cheating Sakaṭāsuran,  
+rests on the ocean on the snake Adishesha:  
+Sages and yogis rise and praise him saying, “Hari, Hari!”  
+Listen to their praise and get up, happy in your heart:  
+Let us go and worship our Pāvai:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_४७९ - ०६</summary>
@@ -595,6 +692,20 @@ And make our mind cool, Oh, Goddess Pavai.
 नायगप् पॆण् पिळ्ळाय् नारायणऩ् मूर्त्ति  
 केसवऩैप् पाडवुम् नी केट्टे किडत्तियो  
 तेसमुडैयाय् तिऱवेलोर् ऎम्बावाय्
+</details>
+
+<details><summary>Hart - DP_४८०</summary>
+
+The girls come to wake up their friends : They say,  
+“O crazy one, don't you hear the sound of the sparrows flocking together  
+and calling “keech, keech” everywhere?  
+The cowherd women with fragrant hair and many ornaments  
+are churning the yogurt: Don't you hear their sound?  
+You are a queen of the cowherd village:  
+How can you sleep when you hear people  
+singing the praise of Kesavan?  
+You shine brightly! Open the door:  
+Let us go and worship our Pāvai:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_४८० - ०७</summary>
@@ -693,6 +804,24 @@ And worship our goddess Pavai.
 आवावॆऩ्ऱु आराय्न्दु अरुळेलोर् ऎम्बायाय्
 </details>
 
+<details><summary>Hart - DP_४८१</summary>
+
+The girls come to wake up their friend: They say,  
+“The east is growing bright  
+and the buffaloes leave their small sheds and go to graze:  
+Women are about to do their nombu,  
+but we have stopped them so they will wait for you  
+and we have come to wake you up:  
+Get up, cheerful one!  
+If we sing his praise wishing to get the Paṛai  
+and worship the god of gods who split open the mouth  
+of the Asuran Kesi when he came as a horse  
+and fought with the wrestlers and defeated them,  
+he will give us his grace:  
+That would be a wonderful thing:  
+Let us go and worship our Pāvai:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_४८१ - ०८</summary>
 
 कीऴ्=पूर्वदिक्किन, वानम्=आकाशवु, वॆळ्ळॆन्ऱु=बॆळ्ळगिदॆ, ऎरुमै=ऎम्मॆगळु, शिऱुवीडु मेय् वान्= हालु करॆयुवुदक्कॆ मुञ्चितवागि स्वल्प हॊत्तु मेयलॆन्दु, परन्दन=हॊरटु हरडिवॆ, काण्=काणॆया, मिक्कूळ्ळ=इतर, पिळ्ळैहळुम्=हॆण्णुमक्कळू, पोवान्=होगुववरु, पोहिन्ऱारै=होगुत्तिरुववरन्नु, पोहामल्=होगदन्तॆ, कात्तु=तडॆदु, उन्नै=निन्नन्नु, कूवुवान्=करॆदुकॊण्डु होगलु, वन्दु=बन्दु, निन्ऱोम्=निन्तिद्देवॆ, कोदुकुलम्=कुतूहल, उडैय=उळ्ळ, पावाय्=गॊम्बॆयन्तॆ इरुववळे, ऎऴुन्दिराय्=ऎद्देळु, पाडि=हाडि, पऱैकॊण्डु=पुरुषार्थवन्नु पडॆयलु, मा=कुदुरॆय, वाय्=बायन्नु, पिळन्दानै=सीळिदवनन्नु, मल्लरै=मल्लरन्नु, माट्टिय=कॊन्द, देवादिदेवनै= देवाधिदेवनन्नु, नाम्=नावु, शॆन्ऱु=होगि, शेवित्ताल्=सेवॆ माडिदरॆ\(नमस्करिसिदरॆ\), आराय्न्दु=परीक्षिसि, आ आ ऎन्ऱु=अय्यो अय्यो ऎन्दु, अरुळुम् एल्= कृपॆ तोरुवुदादरॆ, ओर्=अद्वितीयवाद,ऎम्=नम्म, पावाय्=व्रत.
@@ -786,6 +915,23 @@ And worship our Goddess Pavai
 नामऩ् पलवुम् नविऩ्ऱेलोर् ऎऩ्पावाय्
 </details>
 
+<details><summary>Hart - DP_४८२</summary>
+
+The girls come to wake up their friends: They say,  
+“O my uncle’s daughter, it is morning  
+and still you are sleeping on your bed in your room  
+where the fragrance of incense spreads everywhere  
+and the lamps on all sides of the palace  
+studded with pure jewels shine:  
+Open your beautiful door:  
+O aunts, won't you wake her up?  
+Doesn't your daughter speak? Doesn't she hear?  
+Has some magic put her into deep sleep?  
+Let us praise the god singing his many names,  
+saying ‘You are the Māyan, Madhavan, Vaikuṇṭan!’  
+Let us go and worship our Pāvai:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_४८२ - ०९</summary>
 
 तू=परिशुद्धवाद, मणि=रत्नखचितवाद, माडत्तु=माळिगॆयल्लि, चुट्रुम्=सुत्तलू, विळक्कू=दीपगळु, ऎरिय=उरियुत्तिरलु, तूपम्=धूपवु,कमऴ=परिमळिसुत्तिरलु, तुयिल्=मलगुव, अणैमेल्=हासुगॆय मेलॆ, कण् वळरुम्=निद्दॆ माडुत्तिरुव, मामान्=मावन, महळे=मगळे, मणि=रत्नखचितवाद, कदवम्=बागिलिन, ताळ्=तापाळन्नु\(लाळमण्डिगॆयन्नु\), तिऱवाय्=तॆरॆदिडु, मामीर्=मामियवरे, इवळै=इवळन्नु, ऎऴुप्पीरो=ऎब्बिसुविरा, उन्=निम्म, महळ् तान्=मगळे, ऊमैयो=मूगियो, अन्ऱि=अल्लदॆ, शॆविडो=किवुडियो, अनन्दलो=मङ्कुबडिदिदॆयो\(ज्ञानशून्यळो\), एमम्=कावलु नोडिकॊळ्ळुवन्थ, पॆरु तुयिल्=बलवाद निद्दॆयिन्द, मन्तिरप्पट्टाळो=मन्त्रिसल्पट्टिद्दाळो, मामायन्=महामायावि, मादवन्=माधव, वैहुन्दन्=वैकुण्ठाधिपति, ऎन्ऱु ऎन्ऱु=ऎन्दु ऎन्दु, नामम्=नामगळु, पलवुम्=हलवन्नु, नविन्ऱु एल्=उच्चरिसिदॆवादरॆ, ओर्=अद्वितीयवाद, ऎम्=नम्म, पावाय्=व्रत.
@@ -875,6 +1021,20 @@ And worship the Goddess Pavai.
 तेऱ्ऱमाय् वन्दु तिऱवेलोर् ऎम्बावाय्।
 </details>
 
+<details><summary>Hart - DP_४८३</summary>
+
+The girls come to wake up their friends: They say,  
+“You want to find happiness doing your nombu  
+but you don’t open the door and don’t answer us:  
+The virtuous Nārāyaṇan, adorned with a thulasi garland,  
+will give us the Paṛai:  
+Does Kumbakarṇan who fell into the mouth of Yama in battle  
+make you sleep so soundly?  
+You are very lazy! You are a precious ornament!  
+Wake up and open the door:  
+Let us go and worship our Pāvai:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_४८३ - १०</summary>
 
 नोट्रु=व्रतवन्नु नडसि, शुवर् क्कम्=सुखानुभववन्नु, पुहुहिन्ऱ=पडॆय बयसुव, अम्मानाय्= अम्माने, वाशल्=बागिलन्नु, तिऱवादार्=तॆरॆदवरु, माट्रम्=मारुत्तरवन्नादरू, तारारो=आडलाररो? नाट्रम्=परिमळ तुम्बिद, तुऴाय्=तुलसिय, मुडि=किरीट धरिसिद, नारायणन्=भगवन्तनु, नम्माल्=नम्मिन्द, पोट्र=स्तुतिसल्पट्टु, पऱै=पुरुषार्थगळन्नु, तरु=करुणिसुव, पुण्डियनाल्=धर्मवे रूपवॆत्तन्तॆ बन्द श्रीरामनिन्द, पण्डु=हिन्दॆ, ऒरु=ऒन्दु, नाळ्=दिन, कूटर्त्तिन्=मृत्युविन, वाय्=बायल्लि, वीऴ्न्द=बिद्द, कुम् पहरणनुम्=कुम्भकर्णनू, तोट्रु=सोतु, पॆरुतुयिल्=गाढनिद्दॆयन्नु, तान्=ताने, उनक्के=निनगॆ, तन्दानो=कॊट्टुहोदनो, आट्र=बहळ हॆच्चिन, अनन् दल्=निद्दॆय मङ्कन्नु, उडैयाय्=उळ्ळवळे, अरुम्=अपूर्ववाद कलमे=आभरणस्वरूपळे, तेट्रम्=निद्दॆ तिळिदवळु\(ऎच्चॆत्तु\), आय्=आगि, वन्दु=बन्दु, तिऱवेल्=बागिलु तॆरॆदॆयादरॆ, ओर्=अद्वितीयवाद, ऎम्=नम्म, पावाय्=व्रत.
@@ -960,6 +1120,22 @@ And worship the Goddess Pavai.
 मुऱ्ऱम् पुगुन्दु मुगिल् वण्णऩ् पेर् पाड  
 सिऱ्ऱादे पेसादे सॆल्व पॆण्डाट्टि नी  
 ऎऱ्ऱुक्कु उऱङ्गुम् पॊरुळेलोर् ऎम्बावाय्
+</details>
+
+<details><summary>Hart - DP_४८४</summary>
+
+The girls come to wake up their friends: They say,  
+“You are as beautiful as a golden vine,  
+the daughter of the faultless cowherds, owners of many cows,  
+who fight their enemies bravely and destroy their valor:  
+You are as beautiful as a forest peacock, get up:  
+Your friends in the neighborhood have come  
+and stand in your front yard  
+and praise the fame of the dark cloud-colored Kaṇṇan  
+but you have not stirred from your bed:  
+O dear girl, you have not said a word:  
+Why are you sleeping like this?  
+Let us go and worship our Pāvai:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_४८४ - ११</summary>
@@ -1051,6 +1227,21 @@ And not worship our Goddess pavai.
 अऩैत्तु इल्लत्तारुम् अऱिन्देलोर् ऎम्बावाय्
 </details>
 
+<details><summary>Hart - DP_४८५</summary>
+
+The girls come to wake up their friends: They say,  
+“You come from a rich family:  
+The buffaloes that just gave birth  
+drip milk from their udders lovingly, thinking of their calves,  
+and the front yard of the house is wet with their milk:  
+We sing praising the names of the sweet god  
+who angrily destroyed the king of southern Lanka  
+but you haven’t opened your mouth:  
+Wake up: Why do you sleep like this?  
+Don't you know all the people in your house are up?  
+Let us go and worship our Pāvai:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_४८५ - १२</summary>
 
 इळकन्ऱु=ऎळॆगरुविन, ऎरुमै=ऎम्मॆयु, कनैत्तु=कूगाडि, कन्ऱुक्कू=तन्न करुविन मेलॆ, इरङ्गि=कनिकरगॊण्डु, निनैत्तु=\(अदु हालु कुडियुत्तिरुवन्तॆ\)भाविसिकॊण्डु, मुलैवऴिये=मॊलॆय मूलक, निन्ऱु=ऎडॆबिडदॆ, पाल् शोर=हालु सोरिसलु, इल्लम्=मनॆयन्नु, ननैत्तु=ऒद्दॆ माडि, शेर्=कॆसरन्नु, आक्कूम्=आगिसुव, नल्=ऒळ्ळॆय, शॆल्वन्=भाग्यवन्तन\(शॆल्वन् ऎम्बवन\) तङ्गाय्=तङ्गिये, पनि=मञ्जिन हनियु, तलै=तलॆय मेलॆ, वीऴ=बीळुत्तिद्दरू, निन्=निन्न, शऱ् कडै=तलॆबागिलन्नु, पट्रि=आश्रयिसि, चिनत्तिनाल्=कडुकोपदिन्द, तॆन्=दक्षिण दिक्किनल्लिरुव, इलङ्कै=लङ्कॆय, कोमानै=राजनन्नु, चॆट्र=कॊन्दवनन्नु, मनत्तुक्कू=मनस्सिगॆ, इनियानै=इनियनादवनन्नु, पाडवुम्=हाडुवुदक्कूसह, नी=नीनु, वाय्=बायन्नु, तिऱवाय्=तॆरॆयुवुदिल्लवल्ल, इनित्तान्=इन्नादरू, ऎऴुन्दिराय्=ऎद्देळु, ईदु=इदु, ऎन्न=ऎन्तह, पेर्=दॊड्ड, उऱक्कम्= निद्दॆ? अनैत्तु=ऎल्ला, इल्लत्तारुम्=मनॆगळवरू, अऱिन्दु एल्=तिळुदुकॊण्डवराद्दरिन्द, ओर्=श्रेष्ठवाद, ऎम्=नम्म, पावाय्=व्रत.
@@ -1135,6 +1326,25 @@ And are ready to worship our Goddess Pavai...
 कुळ्ळक् कुळिरक् कुडैन्दु नीराडादे  
 पळ्ळिक् किडत्तियो। पावाय्। नी नऩ् नाळाल्  
 कळ्ळम् तविर्न्दु कलन्देलोर् ऎम्बावाय्।
+</details>
+
+<details><summary>Hart - DP_४८६</summary>
+
+The girls come to wake up their friends: They say,  
+All other girls, singing and praising the fame of him  
+who killed the evil Rakshasa Ravaṇa,  
+and split open the mouth of the Asuran  
+when he came as a bird  
+have gone to worship the Pāvai:  
+The star Guru fades and the Sukran rises:  
+See, the birds are awake and chatter:  
+Why are you with eyes like blossoms  
+sleeping without coming with us  
+to bathe and play in the cool water?  
+Today is an auspicious day:  
+Don’t pretend to sleep:  
+Come and join us:  
+Let us go and worship our Pāvai:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_४८६ - १३</summary>
@@ -1230,6 +1440,22 @@ And worship our Goddess Pavai.
 नङ्गाय् ऎऴुन्दिराय् नाणादाय् नावुडैयाय्  
 सङ्गोडु सक्करम् एन्दुम् तडक्कैयऩ्  
 पङ्गयक् कण्णाऩैप् पाडेलोर् ऎम्बावाय्।
+</details>
+
+<details><summary>Hart - DP_४८७</summary>
+
+The girls come to wake up their friends: They say,  
+“See, in your backyard, in the pond in your garden,  
+senkazhuneer flowers open and ambal flowers close:  
+Sages, doing pure tapas and wearing clothes  
+that are red like powdered brick  
+go to the divine temple to blow their conches:  
+O young girl, you said you would wake us up:  
+Aren't you ashamed? Get up:  
+You don’t do the things that you say you will:  
+Come, let us sing and praise the lotus-eyed god  
+with a conch and discus in his strong hands:  
+Let us go and worship our Pāvai:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_४८७ - १४</summary>
@@ -1417,6 +1643,21 @@ And worship our Goddess Pavai.”
 नेय निलैक् कदवम् नीक्केलोर् ऎम्बावाय्
 </details>
 
+<details><summary>Hart - DP_४८९</summary>
+
+The girls take to the guards of Nandagopan's palace:  
+“You are the guard of the palace of the lord Nandagopan  
+who protect the doors that are decorated with flags and festoons:  
+The dark jewel-colored Māyavan  
+said yesterday that he would give  
+a sounding Paṛai to us, the cowherd girls:  
+We have bathed to make ourselves pure  
+and have come to sing and wake him up:  
+O guard! Don’t say this or that and make excuses:  
+Open the front door of this palace!  
+We are going to worship our Pāvai:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_४८९ - १६</summary>
 
 नायकन्=\(नमगॆ-गोवळरिगॆल्ल\)नायकनु, आय्=आगि, निन्ऱ=निन्तिरुव, नन्दकोपनुडैय=नन्दगोपन, कोयिल्=पवित्रालयवन्नु, काप्पाने=कायुववनेम् कॊडि=ध्वजवु, तोन्ऱुम्=काणिसुत्तिरुव, तोरण=मकर तोरणद, वाशल्=बागिलन्नु, काप्पाने=कायुववने, मणि=सुन्दरवाद गण्टॆगळ, कदवम्=बागिल, ताळ्=अगळियन्नु\(लाळमण्डिगॆयन्नु\), तिऱवाय्=तॆरॆयल्ल, आयर्=गोवळर, शिऱुमियरोमुक्कू=चिक्क हुडुगियरिगॆ\(कन्यॆयरिगॆ\), मायन्=विस्मयकारकनु, मणिवण्णन्=इन्द्रनीलमणिय बण्णदवनु, नॆन्नले=निन्नॆये, अऱैपऱै=हरॆयन्नु, बारिसुवुदागि, वाय् नेर्न्दान्=वाग्दान माडिद्दानॆ, तुयिल्=निद्दॆयिन्द, ऎऴ=ऎब्बिसुवुदक्कागि, पाडुवान्=हाडुवुदक्कोस्कर, तूयोम्=परिशुद्धरु, आय्=आगि, वन्दोम्=बन्दिद्देवॆ, अम्मा=अप्पा\(स्वामिये\), मुन्नम् मुन्नम्=मॊदलु मॊदलिगे, वायाल्=बायिन्द, माट्रादे=तडॆदुबिडबेड, नेशम्=स्नेहदिन्द, निलै=दृढवागि, कूडिकॊण्डिरुव, कदवम्=बागिलन्नु, नीक्कू एल्=तॆरॆदॆयादरॆ, ओर्=असदृशवाद, ऎम्=नम्म, पावाय्=व्रत.
@@ -1500,6 +1741,21 @@ So that we can worship our Goddess Pavai.
 उम्बर् कोमाऩे उऱङ्गादु ऎऴुन्दिराय्  
 सॆम् पॊऱ् कऴलडिच् चॆल्वा पलदेवा  
 उम्बियुम् नीयुऩ् उऱङ्गेलोर् ऎम्बावाय्।
+</details>
+
+<details><summary>Hart - DP_४९०</summary>
+
+The girls come to wake up Nandagopan, Yashoda,  
+Baladevan and the gods, say,  
+“O Nandagopalan, dear lord of the cowherds  
+who give clothes, water and food to all, get up!  
+O Yashoda, tender shoot among all the women who are soft as vines,  
+the bright light of your family, and our dear one, get up:  
+O king of the gods with feet adorned with pure golden anklets:  
+You grew tall, split the sky and measured the world:  
+Dear one, do not sleep: Get up:  
+O Baladeva, don't sleep with your little brother:  
+We are going to worship our Pāvai
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_४९० - १७</summary>
@@ -1596,6 +1852,23 @@ So we can worship our Goddess Pavai.
 वन्दु तिऱवाय् मगिऴ्न्देलोर् ऎम्बावाय्।
 </details>
 
+<details><summary>Hart - DP_४९१</summary>
+
+The girls coming to wake up Nappinnai say,  
+“O, fragrant-haired Nappinnai,  
+daughter-in-law of strong-armed Nandagopan,  
+who own of many rutting elephants, open the door:  
+The roosters are calling to wake everyone  
+and the flock of cuckoo birds sitting on the vines  
+blooming with mādhavi flowers call out:  
+Come, your fingers are beautiful and soft,  
+open the door so the lovely bracelets  
+on your beautiful lotus hands jingle:  
+Come and join us to sing  
+and praise the name of your husband:  
+We are going to worship our Pāvai
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_४९१ - १८</summary>
 
 उन्दु=तळ्ळल्पडुत्तिरुव, मदकळिट्रन्=मदिसिद आनॆगळन्नुळ्ळवनु, ओडाद=युद्धदल्लि हिम्मॆट्टद, तोळ् वलियन्=तोळ्बलवुळ्ळवनु, आद नन्दगोपालन्=नन्दगोपन, मरुमहळे=सॊसॆये, नप्पिन्नाय्=नप्पिन्निये\(नीळादेविये\), कन्दम्=परिमळवु, कमऴुम्=बीसुत्तिरुव, कुऴली=कूदलुळ्ळवळे, कडै=बागिल गडियन्नु, तिऱवाय्=तॆगॆयम्मा, कोऴि=कोळिगळु, ऎङ्गुम्=ऎल्लॆल्लियू, वन्दु=बन्दु, अऱैत्तन=कूगि करॆयुत्तिवॆ, काण्\+काणॆया? मादवि=जाजिय\(मल्लिगॆय\), पन्दल् मेल्=चप्परद मेलॆ, पल् काल्=हलवारु सल, कुयिल्=कोगिलॆय, इनङ्गळ्=इम्पुगळु, कूविन=कूगुत्तिवॆ, काण्=काणॆया? पन्दु= चॆण्डन्नुळ्ळ, आर्=सुन्दरवाद, विरलि=बॆरळुगळुळ्ळवळे, उन्=निन्न, मैत्तुनन्=पतिय\(अत्तॆयमगन\), पेर् पाड=\(नावु\) कीर्तियन्नु हाडुत्तिरुवाग, शॆम्=कॆम्पु, तामरै=तावरॆ हूविनन्थ, कैयाल्=कैयिन्द, शीर्=सम्पत्तन्नु \(सौभाग्यवन्नु\), आर्=तुम्बिद, वळै=बळॆगळु, ऒलिप्प=मञ्जुळनाद माडुत्तिरलु, वन्दु=बन्दु, तिऱवाय्=तॆरॆदु, महिऴ्न्दु एल्= हर्षगॊण्डॆयादरॆ, ओर्=असदृशवाद, ऎम्=नम्म, पावाय्=व्रत.
@@ -1680,6 +1953,22 @@ So that we can worship our Goddess Pavai.
 ऎत्तऩै पोदुम् तुयिलॆऴ ऒट्टाय् काण्  
 ऎत्तऩैयेलुम् पिरिवु आऱ्ऱकिल्लायाल्  
 तत्तुवम् अऩ्ऱु तगवेलोर् ऎम्बावाय्
+</details>
+
+<details><summary>Hart - DP_४९२</summary>
+
+The girls coming to wake up the god and Nappinnai say,  
+“O Thirumāl adorned with garlands,  
+you sleep on the breasts of Nappinnai,  
+adorned with beautiful flowers on her hair,  
+on a soft mattress on an ivory cot  
+and the room is bright with lights:  
+O Nappinnai with kohl-darkened eyes, open your mouth,  
+How could you not get up and want to see your beloved?  
+Surely you can understand  
+that you won’t be able to be away from him for long:  
+This isn’t good for you:  
+We are going to worship our Pāvai
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_४९२ - १९</summary>
@@ -1769,6 +2058,21 @@ Please allow us to worship our Goddess Pavai.
 नप्पिऩ्ऩै नङ्गाय् तिरुवे तुयिल् ऎऴाय्  
 उक्कमुम् तट्टॊळियुम् तन्दु उऩ् मणाळऩै  
 इप्पोदे ऎम्मै नीराट्टेलोर् ऎम्बावाय्
+</details>
+
+<details><summary>Hart - DP_४९३</summary>
+
+The girls coming to wake up the lord and Nappinnai say,  
+“O dear god, if any of the thirty-three crores of the gods  
+have troubles, you go and remove them:  
+Get up, faultless, strong one,  
+vex your enemies and take care of your devotees:  
+O beautiful young Nappinnai  
+with soft breasts like small cheppus,  
+a red mouth and a tiny waist, get up!  
+Give us fans and mirrors and send your husband with us  
+so that we can praise him and go to bathe:  
+We are going to worship our Pāvai
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_४९३ - २०</summary>
@@ -1866,6 +2170,19 @@ And thus worship our Goddess Pavai.
 पोऱ्ऱियाम् वन्दोम् पुगऴ्न्देलोर् ऎम्बावाय्
 </details>
 
+<details><summary>Hart - DP_४९४</summary>
+
+The girls coming to wake up the god say,  
+“O son of Nandagopan, lord of fine cows  
+that yield milk generously and make the pots overflow,  
+you are wise, a bright light and our refuge:  
+Get up: We have come to your door  
+as if we were your enemies unable to fight with you:  
+We come and worship your feet,  
+praising you whose fame is abundant:  
+We are going to worship our Pāvai
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_४९४ - २१</summary>
 
 एट्र=\(हालु करॆयुवुदक्कॆ\) हिडिद, कलङ्गळ्=भाण्डगळ, ऎदिर्=ऎदुरागि, पॊङ्गि=उक्कि, मीदु=अवुगळ मेलॆल्ला, अळिप्प=सुरिसुवन्थ, माट्रादे=ऎडॆबिडदॆ, पाल्=हालन्नु, शॊरियुम्=स्रविसुव\(करॆयुव\), वळ्ळल्=औदार्यद, पॆरुम्=दॊड्ड, पशुक्कळ्=हसुगळन्नु, आट्र=समृद्धियागि, पडैत्तान्=पडॆदिरुववन, महने=मगने, अऱिवुऱाय्=निद्दॆ तिळिदेळु, ऊट्रम्=\(आश्रितरन्नु कापाडुवुदरल्लि\) आसक्तियन्नु, उडैयाय्=उळ्ळवने, पॆरियाय्=हिरिमॆयुळ्ळवने, उलहिनिल्=ई लोकदल्लि, तोट्रम् आय्=अवतारवन्नु तळॆदु, निन्ऱ=निन्तिरुव, शुडरे=तेजस्स्वरूपिये, तुयिल्=निद्दॆयिन्द, ऎऴाय्=ऎच्चरगॊळ्ळु, माट्रार्=शत्रुगळु, उनक्कू=निनगॆ, वलि=शक्तियन्नु, तॊलैन्दु=कळॆदुकॊण्डु, वाशल् कण्=\(निन्न\) बागिलल्लि, आट्रादु=बेरॆ गतियिल्लदॆ, वन्दु=बन्दु, उन्=निन्न, अडि=पादगळल्लि, पणियुम् आ पोले=शरणागतरागुव हागॆ, याम्=नावु, वन्दोम्=बन्दिद्देवॆ, पोट्रि=\(निन्नन्नु\)भजिसि, पुहळ्न्दु एल्=स्तुतिसिदॆवादरॆ, ओर्=उत्कृष्टवाद, ऎम्=नम्म, पावाय्=व्रत.
@@ -1943,6 +2260,19 @@ And worship our Goddess Pavai.
 तिङ्गळुम् आदित्तऩुम् ऎऴुन्दाऱ् पोल्  
 अम् कण् इरण्डुम् कॊण्डु ऎङ्गळ् मेल् नोक्कुदियेल्  
 ऎङ्गळ् मेल् साबम् इऴिन्देलोर् ऎम्बावाय्
+</details>
+
+<details><summary>Hart - DP_४९५</summary>
+
+The girls coming to wake up the god say,  
+“We have come to you affectionately, all together  
+as if we were queens of this wide world,  
+and we stay by your bed and worship you:  
+Won't your beautiful lotus eyes  
+bright as the sun and the moon,  
+show us even a little grace?  
+If you look at us, our karma will go away:  
+We are going to worship our Pāvai
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_४९५ - २२</summary>
@@ -2047,6 +2377,18 @@ And we can worship our Goddess Pavai
 कारियम् आराय्न्दु अरुळेलोर् ऎम्बावाय्
 </details>
 
+<details><summary>Hart - DP_४९६</summary>
+
+The girls coming to wake up the god say,  
+“As you, colored as dark as a kāyam flower, wake up  
+you are like a lion that has slept  
+in a mountain cave in the rainy season,  
+that opens its fiery eyes and roars, its mane hanging low:  
+You come from your temple and sit on your majestic throne:  
+Give us your grace, and help us:  
+We are going to worship our Pāvai
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_४९६ - २३</summary>
 
 मारि=मळॆगालदल्लि, मलै=बॆट्टद, मुऴञ्जिल्=गुहॆयल्लि, मन्नि=अडगि,किडन्दु=मलगि, उऱङ्गुम्=निद्रिसुव, शीरिय=श्रेष्ठवाद, शिङ्गम्=सिंहवु, अऱिवुट्रु=निद्दॆ तिळिदॆद्दु, ती=कॆन्दगळन्नु\(कॆण्डदन्तिरुव कण्णुगळन्नु\)विऴित्तु=तॆरॆदु, वेरि=सुगन्धद, मयिर्=कूदलन्नु\(केसरवन्नु\), पॊङ्ग=निमिरिसि, ऎप्पाडुम्=ऎल्ल कडॆगू, पेर्न्दु=मै कुलुकिसिम् उदऱि=धूळन्नु ऒदरि हाकि, मूरि=मै मुरिदु, निमिर् त्तु=अङ्गाङ्गगळन्नु
@@ -2136,6 +2478,27 @@ And help us to worship our Goddess Pavai.
 वॆऩ्ऱु पगै कॆडुक्कुम् निऩ् कैयिल् वेल् पोऱ्ऱि  
 ऎऩ्ऱॆऩ्ऱुम् उऩ् सेवगमे एत्तिप् पऱै कॊळ्वाऩ्  
 इऩ्ऱु याम् वन्दोम् इरङ्गेलोर् ऎम्बावाय्
+</details>
+
+<details><summary>Hart - DP_४९७</summary>
+
+The girls come, praise the god and ask for the Paṛai,  
+“You once measured the world:  
+We praise your feet:  
+You went to southern Lanka and killed the Rakshasas:  
+We praise your strength:  
+You destroyed Sakaṭāsuran when he came as a cart:  
+We praise your fame:  
+When Vathsasuran came as a calf you threw him  
+at Kabithasuran who had taken the form of a vilam tree  
+and killed them both:  
+We worship your ankleted feet:  
+You carried Govardhana mountain to save the cows:  
+We praise your compassion:  
+We praise the spear in your hands that conquers your enemies:  
+We want to serve you always and have come to receive the Paṛai:  
+Give us your grace:  
+We are going to worship our Pāvai
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_४९७ - २४</summary>
@@ -2230,6 +2593,23 @@ And worship our Goddess Pavai.
 वरुत्तमुम् तीर्न्दु मगिऴ्न्देलोर् ऎम्बावाय्
 </details>
 
+<details><summary>Hart - DP_४९८</summary>
+
+The girls ask for the Paṛai saying,  
+“In the night you were born to Devaki  
+and were raised by Yashoda:  
+This is something no one knows:  
+You were like a burning fire in Kamsan’s stomach  
+because he always thought of giving you trouble:  
+Kamsan always wanted to hurt you  
+but you fought with him and killed him:  
+O Neḍumāl! We worship you and have come here to you:  
+If you give us the Paṛai,  
+we will sing and praise your wealth and grace  
+and our sorrows will go away and we will be happy:  
+We are going to worship our Pāvai
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_४९८ - २५</summary>
 
 ऒरुत्ति=ऒब्बळ, मगन्=मग, आय्=आगि,पिऱन्दु=हुट्टि, ओर्=ऒन्दु, इरविल्=रात्रियल्लि, ऒरुत्ति=ऒब्बळ, मगन्=मग,आय्=आगि, ऒळित्तु=मुच्चुमरॆयिन्द\(गुट्टागि\), वळर=बॆळॆयुत्तिरलु, तरिक्किलान्=सहिसलारदवनु, आहि=आगि, तीङ्गु=कॆडुकन्नु, निनैन्दु=बगॆद, कण्जन् तान्=कंसन, करुत्तै=दुरुद्देशवन्नु, पिऴैप्पित्तु=व्यर्थपडिसि\(सुळ्ळागिसि\),वयिट्रिल्=\(अवन\)हॊट्टॆयल्लि, नॆरुप्पु=किच्चु, ऎन्न=ऎम्बन्तॆ, निन्ऱ=इरुव, नॆडुमाले=सर्वेश्वरने, उन्नै=निन्नन्नु, अरुत्तित्तु=\(नम्म\) हिरियाशॆगळन्नु याचिसुवुदक्कागि, वन्दोम्=बन्दिद्देवॆ, पऱै=\(नम्म\)कोरिकॆगळन्नु\) तरुदि आहिल्=नॆरवेरिसुवॆयादरॆ, तिरु=श्रीदेविगॆ, तक्क=तक्कद्दाद, शॆल्वमुम्=सम्फत्तन्नू, शेवकमुम्=शौर्य\(वीर्य\)वन्नू, याम्=नावु, पाडि=हाडि, वरुत्तमुम्=सङ्कटवन्नु, तीर्न्दु=कळॆदु\(दूरमाडि\), महिऴ्न्दु एल्=हर्षगॊण्डॆवादरॆ, ओर्=असदृशवाद,ऎम्=नम्म, पावाय्=व्रत.
@@ -2317,6 +2697,23 @@ And worship our Goddess Pavai.
 सालप् पॆरुम् पऱैये पल्लाण्डु इसैप्पारे  
 कोल विळक्के कॊडिये विदाऩमे  
 आलिऩ् इलैयाय् अरुळेलोर् ऎम्बावाय्
+</details>
+
+<details><summary>Hart - DP_४९९</summary>
+
+The girls ask the god for the things that they need for their nombu  
+and say,  
+“O lord beautiful as a sapphire,  
+we want to bathe in the month of Markazhi:  
+Hear us! Give us the things we need for our nombu:  
+We want to have white milk-colored conches  
+that will roar and shake the earth like your conch, the pancajanyam:  
+We want many good Paṛais:  
+We want to be with people singing “Pallaṇḍu!”to you:  
+You as a beautiful baby slept on the banyan leaf:  
+Give us a eautiful lamps, flags and a roofed place to stay:  
+Give us your grace:  
+We are going to worship our Pāvai:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_४९९ - २६</summary>
@@ -2407,6 +2804,20 @@ So that we worship our Goddess Pavai.
 कूडि इरुन्दु कुळिर्न्देलोर् ऎम्बावाय्
 </details>
 
+<details><summary>Hart - DP_५००</summary>
+
+The girls, coming to ask for Parais, ornaments and clothes, say,  
+“O Govinda, conquerer of your enemies,  
+we wish to receive a Paṛai from you and praise you:  
+We want many gifts—bracelets, earrings, earrings, anklets  
+and other ornaments that everyone desires  
+and we will be happy to wear them:  
+Wearing beautiful clothes,  
+we will join together and eat rice with milk, pouring ghee in it,  
+and as we eat the ghee will drip from our elbows:  
+We are going to worship our Pāvai:”
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५०० - २७</summary>
 
 कूडारै=शत्रुगळन्नु, वॆल्लुम्=गॆल्लुव, शीर्=कल्याणगुणगळन्नुळ्ळ, कोविन्दा=गोविन्दा, उन् तन्नै=निन्नन्नु, पाडि=हॊगळि\(स्तोत्र माडि\), पऱै=इष्टार्थगळन्नु, कॊण्डु=पडॆदुकॊण्डु, \(बळिक\), याम्=नावु, पॆरुम्=हॊन्दुव, शम्मानम्=सन्मानवु, नाडु=देशवॆल्लवू, पुहऴुम्=हॊगळुवन्थ, परिशिनाल्=बहुमानदिन्द, नन्ऱाह=चॆन्नगिरुवन्तॆ, शूडगमे=कैबळॆयन्नु, तोळ् वळैये=तोळ्बळॆयन्नु, तोडे=किवियोलॆगळन्नु, शॆविप्पूवे=किविय हूवन्नू, पाडगमे=काल्गडगवन्नु, ऎन्ऱु=ऎन्दु, अनैय=इन्थ, पल्=हलवारु, कलनुम्=ऒडवॆगळन्नु, याम्=नावु, अणिवोम्=धरिसिकॊळ्ळुत्तेवॆ, आडै=\(ऒळ्ळॆय\) सीरॆगळन्नु, उडुप्पोम्=उडुत्तेवॆ, अदन् पिन्ने=अदाद कूडले, पाल् शोऱु=हालिन अन्नवन्नु\(क्षीरान्नवन्नु\), मूड=अदु मुळुगुवष्टु, नॆय्=तुप्पवन्नु, पॆय्दु=सुरिदु, मुऴङ्गै=मॊळकैय मूलक, वऴिदार=इळिदु होगुवन्तॆ, कूडि=नावॆल्लरू कलॆतु, इरुन्दु=\(उण्डु\) इद्दु, कुळिर्न्दु एल्=हर्षिसि सुखपट्टॆवादरॆ, ओर्=असदृशवाद, ऎम्=नम्म, पावाय्=व्रत.
@@ -2488,6 +2899,21 @@ And worship our Goddess Pavai.
 अऱियाद पिळ्ळैगळोम् अऩ्पिऩाल् उन्दऩ्ऩै  
 सिऱु पेर् अऴैत्तऩमुम् सीऱि अरुळादे  
 इऱैवा नी ताराय् पऱैयेलोर् ऎम्बावाय्
+</details>
+
+<details><summary>Hart - DP_५०१</summary>
+
+The girls, asking for a Paṛai from the god, say,  
+“We go behind the cattle to the forest  
+to eat our food there:  
+You were raised with simple cowherd people:  
+We are fortunate to be born in the same place as you  
+O faultless Govindan, we cannot give up our closeness to you:  
+We, innocent children,  
+call you with simple names because we love you:  
+Do not get upset with us:  
+Give us the Paṛai and give us your grace:  
+We are going to worship our Pāvai:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५०१ - २८</summary>
@@ -2572,6 +2998,20 @@ So that we can worship our Goddess Pavai.
 ऎऱ्ऱैक्कुम् एऴ् एऴ् पिऱविक्कुम् उऩ् तऩ्ऩोडु  
 उऱ्ऱोमे आवोम् उऩक्के नाम् आट्चॆय्वोम्  
 मऱ्ऱै नम् कामङ्गळ् माऱ्ऱेलोर् ऎम्बावाय्
+</details>
+
+<details><summary>Hart - DP_५०२</summary>
+
+The cowherd girls say,  
+“We come early in the morning and worship you  
+and praise your golden feet: Hear us:  
+Just like you, we were born in the cowherd clan:  
+We want to serve you and receive the Paṛai from you:  
+See, Govindan, we want to be with you always  
+and we will serve you in all our fourteen births:  
+Give us your grace  
+and keep us from wanting anything but your service:  
+We are going to worship our Pāvai:”
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५०२ - २९</summary>

@@ -30,6 +30,16 @@ title = "१० कार् क्कोडल्"
 पडैक्कवल् लेऩन्दो। १
 </details>
 
+<details><summary>Hart - DP_५९७</summary>
+
+O flowers that bloom in the monsoon,  
+did the dark ocean-colored god  
+send you as warriors to fight with me?  
+Where did he go? To whom can I complain?  
+I cannot fight with my heart  
+that wants his beautiful thulasi garland:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५९७ - ०१</summary>
 
 कार्=करिय, कोडल् पूक्काळ्=कार्तीक पुष्पगळे, उम्मै=निम्मन्नु, पोर्=युद्धद, कोळम् शॆय्दु=अलङ्कार माडि, ऎम् मेल्=नन्न मेलॆ, पोर=होराडलु, विडुत्तवन्=बिट्टवनु, कार्=मळॆगालद, कडल्=कडलिन, वण्णन्=बण्णदवनु, ऎङ्गुट्रान्=ऎल्लिद्दानॆ? इनि=इन्नु, नाम्=नानु, आर् क्कू=यारल्लि, ओलि=गद्दल माडि, पूशल् इडुवदु=मॊरॆयिडुवुदु अणि=सुन्दरवाद, तुऴाय्=तुलसिय, तार् क्कू=मॊलॆगागि, ओडुम्=ओडुव, नॆञ्जम् तन्नै=मनस्सन्नु, पडैक्क=पडॆय, वल्लेन्=बल्लवळागिद्देनॆ, अन्दो=अय्यो.
@@ -75,6 +85,16 @@ title = "१० कार् क्कोडल्"
 पोलच् चुडादु,ऎम्मै  
 माऱ्ऱोलैप् पट्टवर् कूट्टत्तु  
 वैत्तुगॊळ् किऱ्ऱिरे। २
+</details>
+
+<details><summary>Hart - DP_५९८</summary>
+
+O thondri flowers blooming high,  
+do not grow to the sky  
+and burn me like the brightness of the discus  
+that is in the hand of him, the ancient god  
+praised by the Vedas:  
+Take me to the group of the cowherds where he is:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_५९८ - ०२</summary>
@@ -126,6 +146,20 @@ title = "१० कार् क्कोडल्"
 नाणिलि येऩुक्के। ३
 </details>
 
+<details><summary>Hart - DP_५९९</summary>
+
+O kovai vine, you are like my mother!  
+Don’t take my life, ripening with your sweet round fruits  
+that remind me of his dark color:  
+I am afraid of your lovely red color:  
+Pitiful, I say two things that are opposite:  
+I say I will not live without him,  
+yet I am alive without him now  
+and say that I want to be with him:  
+I am shameless like two-tongued Adisesha  
+on whom the lord rests:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_५९९ - ०३</summary>
 
 कोवै=तॊण्डे बळ्ळिये, मणाट्टि=अम्मा, नी=नीनु, उन्=निन्न,कॊऱु=बलित\(रसभरितवाद\) कनि=हण्णन्नु, कॊण्डु=पडॆदु, ऎम्मै=नन्न, आवि=प्राणवन्नु, तॊलैवियेल्= तॊलगिसबेड, वाय्=\(आकर्षकवाद\)अधरवन्नुळ्ळ, अऴहर् तम्मै=स्वामि अऴहर्,\(सुन्दरबाहुस्वामि\) विषयदल्लि, अञ्जुदुम्=अञ्जुत्तेनॆ, पावियेन्=पापियाद नानु, तोण्ऱि=हुट्टिद बळिक, पाम्बु=शेषनन्नु, अणैयार् क्कू=हासुगॆयागि उळ्ळवरिगॆ, तम्=तम्म, पाम्बुपोल्=हाविन हागॆये, नावुम्=नालगॆगळु, इरण्डु=ऎरडु, उळ आय् त्तु=उण्टागिदॆ, नाणिलियेनुक्के=लज्जॆयिल्लदवळाद नन्न विषयदल्लिये, हागॆ.
@@ -169,6 +203,18 @@ title = "१० कार् क्कोडल्"
 दिट्ट कुमरऩार्  
 सॊल्लुम् पॊय्याऩाल्, नाऩुम्  
 पिऱन्दमै पॊय्यऩ्ऱे। ४
+</details>
+
+<details><summary>Hart - DP_६००</summary>
+
+O mullai vine, you are like a young girl:  
+Don’t hurt me with your smile  
+as you shine like the discus of the lord:  
+I go to you for refuge—please show me your love:  
+The young lord who cut off Surpanakha’s nose  
+promised he would never be apart from me:  
+If his promise is false,  
+it would be better if I had not been born:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६०० - ०४</summary>
@@ -228,6 +274,18 @@ title = "१० कार् क्कोडल्"
 पाट्टुगळ् केट्टुमे। ५
 </details>
 
+<details><summary>Hart - DP_६०१</summary>
+
+O cuckoo birds, you sing beautifully!  
+What is this song you are singing?  
+Come here and sing only  
+if the lord of the beautiful Venkaṭa hills  
+gives me his love and allows me to survive:  
+If the god with an eagle flag comes,  
+gives his grace and embraces me,  
+he can also listen to your songs:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६०१ - ०५</summary>
 
 पाडुम्=हाडुव, कुयिल् हाळ्=कोगिलॆगळे, ईदु=ई निम्म कूगु, ऎन्न=याव रीतिय, पाडल्=हाडु, नल्=सुन्दरवाद\(ऒळ्ळॆयवनाद\) वेङ्गडम्=तिरुमलॆय, नाडर्=नाथनु, नमक्कू=नमगॆ\(ननगॆ\), ऒरु=ऒन्दु, वाऴ् वु=बाळ्वॆयन्नु, तन्दाल्=करुणिसिदरॆ, वन्दु=\(नीवु\)बन्दु, पाडुमिन्=हाडिरि, आडुम्=अलुगाडुत्तिरुव, करुळन्=गरुडन, कॊडि=ध्वजवन्नु, उडैयार्=उळ्ळवरु\(स्वामियु\)वन्दु=बन्दु, अरुळ् शॆय्दु=कृपॆतोरि, कूडुवर्=\(नन्नॊडनॆ\)कूडिकॊळ्ळुवनु, आयिडिल्=आदरॆ, कूवि=कूगि, नुम्=निम्म, पाट्टुक्कळ्=हाडुगळन्नु, केट्टुमे=केळिसिरि.
@@ -267,6 +325,18 @@ title = "१० कार् क्कोडल्"
 कालमुम् पळ्ळिगॊळ्,  
 मणवाळर् नम्मै वैत्त  
 परिसिदु काण्मिऩे। ६
+</details>
+
+<details><summary>Hart - DP_६०२</summary>
+
+O flock of peacocks,  
+you have the beautiful color of the dear lord Kaṇṇan  
+and move gracefully  
+as if you had studied long to learn to dance:  
+I bow to your feet:  
+Do you see the sorrow of love that the dear god  
+resting eternally on Adisesha on the ocean  
+has given me?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६०२ - ०६</summary>
@@ -312,6 +382,17 @@ title = "१० कार् क्कोडल्"
 किऩियॊऩ्ऱु पोदुमे ? ७
 </details>
 
+<details><summary>Hart - DP_६०३</summary>
+
+O lovely peacocks,  
+you dance beautifully spreading your wings:  
+I am pitiful and have no interest in seeing you dance:  
+Govindan, who dances the kudavai kuthu on a pot,  
+has taken all my feelings with him:  
+It is cruel of you to dance happily,  
+reminding me of him and giving me pain:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_६०३ - ०७</summary>
 
 नडम्=नृत्यवन्नु, आडि=आडिकॊण्डु, तोकै=बालवन्नु\(गरिगळन्नु\), विरिक्किन्ऱ=बिच्चुत्तिरुव, मा=सुन्दरवाद, मयिल् हाळ्=नविलुगळे, उम्मै=निम्म, नडमाट्टम्=कुणिदाटवन्नु, काण=नोडि आनन्दिसुवुदक्कॆ, पावियेन्=पापियागिद्देनॆ, नान्=नानु,ओर्=ऒब्ब, मुदल्=श्रेष्ट्अळागि, इलेन्=इल्ल, कुडम्=कॊडवन्नु, आडुम्=\(धरिसि\) आडुव, कूत्तन्=नटनकारियाद, कोविन्दन्=गोविन्दनु, कोमिऱै=चमत्कारवन्नु, शॆय्दु=माडि, ऎम्मै=नन्न, उडै=उडुगॆगळन्नू, माडु=तॊडिगॆगळन्नू, कॊण्डान्=अपहरिसिबिट्टनु, उङ्गळुक्कू=निमगॆ, इनि=इन्नु, ऒन्ऱु=कुणितवॊन्दु, पोदुमे=साकल्लवे?
@@ -355,6 +436,16 @@ title = "१० कार् क्कोडल्"
 नॆञ्जत् तगप्पडत्  
 तऴुवनिऩ्ऱु, ऎऩ्ऩैत् तदर्त्तिक्कॊण्  
 डूऱ्ऱवुम् वल्लैये? ८
+</details>
+
+<details><summary>Hart - DP_६०४</summary>
+
+O cloud, O cloud!  
+The thought that he has not entered my heart makes me suffer:  
+Like wax covered with sand that melts and pours down,  
+my love for him pours out:  
+Won’t you make the beautiful god of Venkaṭa hills  
+enter into my heart and embrace me?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६०४ - ०८</summary>
@@ -404,6 +495,15 @@ title = "१० कार् क्कोडल्"
 अऱुक्किऩ्ऱ मायऱ्कुऎऩ्  
 नडलैग ळॆल्लाम् नागणैक्  
 केसॆऩ्ऱु रैत्तिये। ९
+</details>
+
+<details><summary>Hart - DP_६०५</summary>
+
+O milky ocean, O milky ocean!  
+Māyavan churned you and took the nectar from you:  
+He entered my heart, made me suffer and took my life away:  
+Will you go to him who rests on the snake bed  
+and tell him how I suffer for his love?
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_६०५ - ०९</summary>

@@ -89,6 +89,20 @@ title = "१० अङ्गणॆडुमदिळ्"
 अणिमणिया सऩत्तिरुन्द वम्माऩ् ऱाऩे १०।२
 </details>
 
+<details><summary>Hart - DP_७४२</summary>
+
+He saved the sacrifice of the rishi Vishwamithra,  
+learned in all the mantras and the Vedas  
+shot a strong arrow and split open the chest of Thaḍagai  
+when she came to fight him, making her blood flow out,  
+and he killed all the strong Rakshasas:  
+See, our dear god stays in the Thiruchithrakuḍam in Thillai,  
+surrounded with cool flourishing groves  
+blooming with flowers with green tender leaves,  
+as he sits on a throne studded with diamonds,  
+praised by three thousand Andaṇars:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७४२ - ०२</summary>
 
 वन्दु=तटक्कनॆ बन्दु, ऎदिर्न्द=ऎदुरिसिद, ताटैकै तन्=-ताटकिय, उरत्तै=ऎदॆयन्नु. कीऱि=सीळि, वरु=हॊरबीळुव, करुदि=रक्तवु, पॊऴितर=सुरियुवन्तॆ, वल्=प्रबलवाद, कणै=अम्बन्नु, ऒन्ऱु=ऒन्दन्नु, एवि=प्रयोगिसि, मन्दिरम्=मन्त्रगळन्नु, कॊळ्=पडॆद, मऱै=वेदसम्पन्नराद, मुनिवर्=मुनिवरर, वेळ्वि=यज्ञवन्नु, कात्तु=रक्षिसि, वल्=बलशालिगळाद, अरक्कर्=राक्षसर, उयिर्=प्राणगळन्नु, उण्ड=उण्ड, मैन्दन्=करुणाळुवन्नु, काण् मिन्=काणिरि, शॆम्=सॊबगिन, तळिर् वाय्=तळिरिन नडुवॆ, मलर्=हूगळ, नहैशेर्=अन्द तुम्बिरुव, शॆऴु=मॆरॆयुव, तण्=तम्पाद, शोलै=तोपुगळिन्द कूडिरुव, तिल्लै नहर्=पुरातन पट्टणद, तिरु चित्रकूटम् तन्नुळ्=पवित्रवाद चित्रकूटदल्लि, अन्दणर्हळ्=ऋषिगळु, ऒरु मूवायिरवर्=ऒन्दु मूरुसाविरदवरु, एत्त=स्तुतिसलु, अणि=सुन्दरवाद, मणि आसनत्तु=रत्नासनदल्लि, इरुन्द=अलङ्करिसिरुव, अम्मान् ताने=सर्वेश्वरने.
@@ -136,6 +150,16 @@ title = "१० अङ्गणॆडुमदिळ्"
 तिल्लैनगर्त् तिरुच्चित्र कूडन् दऩ्ऩुळ्  
 ऎव्वरिवॆञ् जिलैत्तडक्कै यिरामऩ् ऱऩ्ऩै  
 इऱैञ्जुवा रिणैयडिये यिऱैञ्जि ऩेऩे १०।३
+</details>
+
+<details><summary>Hart - DP_७४३</summary>
+
+To marry Sita whose long dark lovely eyes were lined with red,  
+the heroic Rāma who conquered kings with sharp spears,  
+broke the bow of Shiva, the angry bull rider carrying a mazhu weapon:  
+He stays in divine Chithrakuḍam in Thillai surrounded by tall walls:  
+I worship the feet of the worshipers of Rāma  
+whose cruel bow conquers his mighty enemies:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७४३ - ०३</summary>
@@ -205,6 +229,19 @@ title = "१० अङ्गणॆडुमदिळ्"
 इरुनिलत्तार्क् किमैयवर्ने रॊव्वार् तामे १०।४
 </details>
 
+<details><summary>Hart - DP_७४४</summary>
+
+As Rāma he left his kingdom, obeying the words of Kaikeyi  
+whose curly hair was decorated with bunches of fresh flowers,  
+went to the forest,  
+crossed the Ganges with the help of Guhan, his dear devotee,  
+and gave his sandals and his kingdom to Bharathan  
+when his brother came to see him:  
+He stays in beautiful Chithrakuḍam in Thillai:  
+If devotees see him happily with their two eyes,  
+they will be equal to the gods in the sky:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७४४ - ०४</summary>
 
 तॊत्तु=गॊञ्चलु गॊञ्चलागि, अलर्=अरळिरुव, पू=हूगळिन्द कूडिद, शुरि=सुरुळिसुत्तिरुव, कुऴल्=तलॆगूदलिन, कैकेशि=कैकेयिय, शॊल्लाल्=मातिनन्तॆ, तॊल्=पुरातनवाद, नहरम्=नगरवन्नु, तुऱन्दु=तॊरॆदु, तुऱै=पवित्र नदियाद, कङ्गै तन्नै=गङ्गॆयन्नु, पत्ति उडै=भक्तियुळ्ळ, कुकन् =गुहनु, कडत्त=दाटिसलु, वनम्=वनवन्नु पोय्=होगि, पुक्कु=प्रवेशिसि, परतनुक्कु=भरतनिगॆ, पादुकमुम्=पादुकॆयन्नू, अरशुम्=राजत्ववन्नू, ईन्दु=इत्तु, चित्तिरकूटत्तु=चित्रकूटदल्लि इरुन्दान् तन्नै=इद्दवनन्नु, इन्ऱु=इन्दु, तिल्लै नहर्=पुरातनपट्टणद, तिरु=पवित्रवाद, चित्रकूटम् तन्नुळ्=चित्रकूटदल्लि, चित्रकूटवन्नु तम्म अन्तरङ्गदल्लि, ऎत्तनैयुम्=ऎष्टु हॊत्तादरू, यावगलू, कण् कुळिर=कण्णु तणियुवन्तॆ, काणप्पॆट्र=काणुवुदन्नु\(भाग्यवन्नु\)पडॆद, इरु=विशालवाद, निलत्तार् क्कु=भूलोकवासिगळिगॆ
@@ -264,6 +301,20 @@ title = "१० अङ्गणॆडुमदिळ्"
 तिल्लैनगर्त् तिरुच्चित्र कूडन् दऩ्ऩुळ्  
 तलैवणक्किक् कैगूप्पि येत्त वल्लार्  
 तिरिदलाल् तवमुडैत्तित् तरणि ताऩे १०।५
+</details>
+
+<details><summary>Hart - DP_७४५</summary>
+
+As Rāma he killed the Rakshasa Virāḍan  
+with strong mountain-like arms,  
+received a bow from the sage Agasthya, creator of rich Tamil,  
+cut off the nose of the beautiful Rakshasi Surpanakha,  
+took the lives of Karan and Dushanan,  
+and bent his bow and shot arrows to kill the Raksasa Mārisan  
+when he came as a golden deer:  
+He stays in Chithrakuḍam in Thillai  
+and this earth is fortunate that his devotees wander there  
+bowing their heads and worshiping him:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७४५ - ०५</summary>
@@ -343,6 +394,20 @@ title = "१० अङ्गणॆडुमदिळ्"
 एत्तुवा रिणैयडिये येत्ति ऩॆऩॆ १०।६
 </details>
 
+<details><summary>Hart - DP_७४६</summary>
+
+As Rāma he was separated from Vaidehi, his lovely wife:  
+He was sad when Jaṭāyu was killed by Ravanan and sent to Vaikuṇṭam,  
+he became friends with the king of monkeys' Sugrivan  
+and he killed Vali in the Kishkinda forest,  
+relieving the suffering of Sugrivan:  
+He made Hanuman burn Lanka  
+ruled by Ravaṇan, the king of the Rakshasas,  
+so that Hanuman’s anger would abate:  
+I worship the feet of the devotees of Rāma,  
+the dear god who stays happily in Thiruchithrakuḍam in Thillai:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७४६ - ०६</summary>
 
 तनम्=श्रीये, मरुवु=रूपगॊण्ड, वैदेहि=सीतादेविय, पिरियल्=अगलिकॆयु, उट्रु=निजवाद, बलुहॆच्चिन तळर् वु=सङ्कटवन्नु, ऎय्दि=हॊन्दि, जटायुवै=जटायुवन्नु, वैहुन्दत्तु=वैकुण्ठक्कॆ, एट्रि=एरिसि, कळुहिसि, वनम्=काडिनल्लि, मरुवु=तुम्बिरुव, कवि=कपिगळ, अरशन्=राजन, कादल् कॊण्डु=स्नेहवन्नु पडॆदु, वालियै=वालियन्नु, कॊन्ऱु=कॊन्दु, इलङ्गै नहर्=लङ्कापट्टवन्नु, अरक्कर्=राक्षसर, कोमान्=राजन, चिनम्=कडुकोपवन्नु, अडङ्ग=अडगुवन्तॆ, मारुतियाल्=मारुतियिन्द, शुडुवित्तानै=सुडिसिदवनन्नु, तिल्लै=पुरातनवाद, नहर्=नगरवाद, तिरु=पवित्रवाद, चित्रकूटम् तन्नुळ्=चित्रकूटदल्लि, इनिदु=इम्पिनिन्द, अमर्न्द=कूडिद, अम्मानै=स्वामियन्नु\(सर्वेश्वरनन्नु\)इरामन् तन्नै=रामनन्नु एत्तुवार्=स्तुतिसुववर, इणै अडिये=ऎरडु पादगळन्ने, एत्तिनेने=स्तुतिसुत्तेनॆ.
@@ -392,6 +457,20 @@ title = "१० अङ्गणॆडुमदिळ्"
 तिल्लैनगर्त् तिरुच्चित्र कूडन् दऩ्ऩुळ्  
 अरसमर्न्दा ऩटिसूडु मरसै यल्लाल्  
 अरसाग वॆण्णेऩ्मऱ् ऱरसु ताऩे १०।७
+</details>
+
+<details><summary>Hart - DP_७४७</summary>
+
+As Rāma he shot his arrows to calm the stormy ocean,  
+made a bridge with the help of the monkeys  
+and reached Lanka on the other side of the sea:  
+He killed the Rakshasas who carried strong long spears,  
+took the life of Ravaṇa the king of Lanka  
+and gave the kingdom to Ravaṇa’s brother Vibhishaṇa,  
+and returning to Ayodhya with his wife as lovely as Lakshmi,  
+he was seated on his throne:  
+I will not consider anyone my king  
+except Rāma the god of Thiruchithrakuḍam in Thillai:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७४७ - ०७</summary>
@@ -453,6 +532,18 @@ title = "१० अङ्गणॆडुमदिळ्"
 परुगुवो मिऩ्ऩमुदै मदियो मिऩ्ऱे १०।८
 </details>
 
+<details><summary>Hart - DP_७४८</summary>
+
+Rāma who reached Ayodhya filled with gold  
+and beautiful diamond-studded palaces,  
+heard his own story  
+from the mouths, red as coral, of his two sons  
+born to Sita, the princess of Mithila, to save the world:  
+If we hear and drink in the story of Rāma  
+of Thiruchithrakudam in Thillai  
+we have no need of sweet nectar:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७४८ - ०८</summary>
 
 अम्=सुन्दरवाद, पॊन्=चिन्नदिन्द कूडिद, नॆडु=ऎत्तरवाद, मणि=रत्नदिन्द कूडिद, माडम्=महडिमनॆगळुळ्ळ, अयोत्ति=अयोध्यॆयन्नु, ऎय्दि=सेरि, अरशु=राजत्ववन्नु, ऎय्दि=पडॆदु, अहत्तियन्=अगस्त्यन, वाय्=बायिन्द, तान्=तानु\(रामनु\), मुन्=हिन्दॆ, कॊन्ऱान् तन्=कॊन्दवन \(रावण\), पॆरु=दॊड्ड, तॊल्=पूर्वद, कतै केट्टु=कतॆयन्नुकेळि, मितिलैचॆल्वि=मिथिलॆयल्लि हुट्टिद श्रीदेवियु\(सीतादेवियु\), उलहु=लोकगळु, उय्य=उज्जीवनगॊळ्ळुवन्तॆ, तिरुवयि=पवित्रवाद हॊट्टॆयल्लि, वाय् त्त=हुट्टिद, मक्कळ्=मक्कळ, शॆम् पवळम्=कॆम्फु हवळवन्नु, तिरळ्=होलुव, वाय्=बायिन्द, तन् चरितै=तन्न चरित्रॆयन्ने, केट्टान्=केळिदवनाद, तिल्लैनहर्=पुरातन पट्टणद, तिरु=पवित्रवाद
@@ -504,6 +595,20 @@ title = "१० अङ्गणॆडुमदिळ्"
 उडैयोम्मऱ् ऱुऱुदुयर मडैयो मिऩ्ऱे १०।९
 </details>
 
+<details><summary>Hart - DP_७४९</summary>
+
+Rāma is adorned with a jewel-studded ornament  
+given by an Andanan who knew the Vedas  
+because he saved his son:  
+His brother Laksmaṇa killed the Rakshasa Ilavaṇan  
+and Rāma granted him moksha:  
+He was separated from his brother Laksmaṇa  
+by the curse of the sage Durvasa:  
+If our hearts never forget the lord  
+of Thiruchithrakuḍam in Thillai,  
+we will not have any trouble in our lives:
+</details>
+
 <details><summary>गरणि-प्रतिपदार्थः - DP_७४९ - ०९</summary>
 
 शॆऱि=हॆच्चाद \(प्रबलवाद\), तवम्=तपस्सन्नुळ्ळ, शम्बुकन् तन्नै=शम्बुकनन्नु, शॆन्ऱु=\(अवनिरुव स्थळक्कॆ\)होगि, कॊन्ऱु=\(अवनन्नु\)कॊन्दु, शॆऴु=पवित्रवाद, मऱैयोन्=ब्राह्मणन मगन, उयिर्=प्राणवन्नु, मीट्टु=मत्तॆ तिरुगिसि\(बदुकुवन्तॆ माडि\), तवत्तोन्=अगस्त्य महर्षियु, ईन्द=कॊट्टिद्द, निऱै=बॆलॆबाळुव, मणिपूण्=रत्नहारवन्नू, अणियुम्=आभरणगळन्नू, कॊण्डु=स्वीकरिसि, इलवणन् तन्नै=लवणासुरनन्नु, तम्बियाल्=तम्मनाद शत्रुघ्ननिन्द, वान् एट्रि=\(वीर\)स्वर्गक्कॆ एरिसि, मुनिवन्=मुनिवरनाद दुर्वास महर्षियु, वेण्ड=कोरिदन्तॆ, तिऱल्=बलपराक्रमगळिन्द, विळङ्गुम्=बॆळगुव, इलक्कू मनै=लक्ष्मणनन्नु, पिरिन्दान् तन्नै=अगलिदवनन्नु, तिल्लैनहर्=पुरातन नगरद, तिरु=पवित्रवाद, चित्रकूटन् तन्नुळ्=चित्रकूटदल्लि, उऱैवनै=नॆलसिरुववन्नु, मऱवाद=मरॆयदॆ, उळ्ळम् तन्नै=अन्तरङ्गदल्लि, उडैयोम्=उळ्ळवराद नावु, मट्रु=बेरॆ, उऱु=हॆच्चाद, तुयरम्=दुःख सङ्कटगळन्नु, अडैयोम् अन्ऱे=पडॆयुवुदे अल्लवे?
@@ -549,6 +654,18 @@ title = "१० अङ्गणॆडुमदिळ्"
 तिल्लैनगर्त् तिरुच्चित्र कूडन् दऩ्ऩुळ्  
 ऎऩ्ऱुम्निऩ्ऱा ऩवऩिवऩॆऩ् ऱेत्ति नाळुम्  
 इऩ्ऱैञ्जुमिऩो वॆप्पॊऴुदुम् तॊण्डीर् नीरे १०।१०
+</details>
+
+<details><summary>Hart - DP_७५०</summary>
+
+When the dear lord adorned with garlands  
+returned from the forest, the gods in the sky welcomed him:  
+By the grace of him who fought with the strong Asuras  
+and conquered them  
+all people and creatures in the world go to Vaikuṇṭam:  
+He stays always in Thiruchithrakuḍam in Thillai:  
+O devotees of Rāma, praise him saying, “avan ivan!”  
+and worship him always:
 </details>
 
 <details><summary>गरणि-प्रतिपदार्थः - DP_७५० - १०</summary>
