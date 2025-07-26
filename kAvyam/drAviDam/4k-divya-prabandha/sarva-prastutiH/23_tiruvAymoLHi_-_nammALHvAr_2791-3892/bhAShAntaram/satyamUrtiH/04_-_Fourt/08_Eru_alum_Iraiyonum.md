@@ -4,16 +4,10 @@ title = "08 Eru alum Iraiyonum"
 +++
 
 
-
-
-
 ## 00 Intro4.8
 The Āḻvār’s passionate appeal to the Lord, in the last decad, did not yield the desired result. The Lord didn’t present Himself before the ardent devotee, and the latter, therefore, concluded that he was not in His good books. And, in this context, the Alvar felt that neither he nor his possessions deserved to exist. The very valuable Śāstraic meaning that anything, which hinders Divine Service and does not actively aid and participate in such service, deserves to be eschewed, is imparted in this decad. The Āḻvār is now in the same predicament as that of Sītā during her captivity in Laṅkā. Sītā then exclaimed that her very existence was meaningless, staying so far away from her Lord and not rescued by Him as yet. The sentiments expressed by the Āḻvār in this decad, are fully echoed by Saint Yāmuna, in Śloka 57 of his ‘Stotra Ratna’. The saint swears that he would not tolerate for a moment anything which was outside the domain of His service, be it his body, his very life, the happiness desired by all beings, the Soul and other social relations like wife, children, friends etc., and that he would want all these to get destroyed in a hundred ways, if they proved a hindrance to Divine Service.
 
 Even in this decad, the Āḻvār continues in the feminine state, as is evident from the text of the songs referring to the Nāyakī's bangles, garments, complexion etc. Śrī Āṇṭāḷ is found even more emphatic when she says in ‘Nācciyār Tirumoḻi’ that, if her beloved Lord would not come and embrace her, she would rather pluck out her breasts from their base, and throw them at Him. The breasts, as already explained earlier, signify the emotional upsurge, divine love, too deep for words.
-
-
-
 
 ## 4.8.1
 **Tamil text and transliteration:**
@@ -41,9 +35,6 @@ And Tirumakaḷ (Lakṣmī) (well apart)?
 **Note**
 
 The Āḻvār highlights the Lord’s ‘*Sauśilya*’ or condescending love, allotting portions of His body, well demarcated, for the occupation of Iṟaiyōṉ (Śiva), Brahmā and Lakṣmī. And then, the Lord’s valour is talked about. By a mere resolve, He could create the entire universe and likewise, He could as well destroy all the evil forces. And yet, He incarnated, now and then, and engaged the ungodly in a personal combat and destroyed them with His mighty weapons, simply because of His intolerance of their affront to His devotees. The enemies of His devotees are regarded by Him as His opponents and He will never forgive them. If the Lord, so loving and valorous, did not come and delightfully pounce upon Parāṅkuśa Nāyakī, of what use is her lovely complexion? She too, finds no charm in a complexion which ceases to attract the Lord.
-
-
-
 
 ## 4.8.2
 **Tamil text and transliteration:**
@@ -74,9 +65,6 @@ Resides the lotus-born (Lakṣmī), of hue exquisite.
 \(ii\) Lakṣmī’s complexion is exquisite and of undiminishing charm as she dwells on His winsome chest inseparably, unlike the Āḻvār’s complexion, which suffers for want of such patronage.
 
 \(iii\) The Āḻvār’s service, referred to, in this song, is the ‘*Vācika Kaiṅkarya*’, that is singing the Lord’s glory in these hymns. The Lord is said to have enlisted the Āḻvār, in His service, *in a punctilious manner*. Here is an instructive anecdote. In the holy monastery of Sri Rāmānuja, the Śrī Vaiṣṇavas used to be fed daily and they were served by Kiṭāmpi-Āccāṉ, a disciple of Śrī Rāmānuja. One of those days, Śrī Rāmānuja noticed Āccāṉ serving drinking water to the guests, standing sideways, a sort of indifference or lack of respect for the guests, Śrī Rāmānuja ran up to him and striking him on the back, burst out: “You dud! don’t you know that you have to serve the guests reverently, by standing in front and facing them?” Without feeling hurt, in the least, Āccāṉ gratefully acknowledged the Master’s correction, administered out of his abundant affection for the disciple and bowed unto him, reciting the appropriate line from this song as in the original text.
-
-
-
 
 ## 4.8.3
 **Tamil text and transliteration:**
@@ -110,9 +98,6 @@ Pūtanā, the demoness played the perfect mother and Kṛṣṇa, the Omniscient
 
 \(iii\) *The Lord Supreme (Parampuruṭaṉ*): It is only when He reclines on Ādiśeṣa, the Lord looks the Supreme Sovereign that He is, like unto the gem, well set on the foil.
 
-
-
-
 ## 4.8.4
 **Tamil text and transliteration:**
 
@@ -138,9 +123,6 @@ And embrace piṇṇai with shoulders long and feminine perfection.
 **Note**
 
 The pastoral life led by the Lord, as Kṛṣṇa, the young cow-herd is vividly described in this song, in all its details. The shepherds wear cloth made of leather, when they move about in the forests tending the cows and calves, as a safeguard against brambles and bushes. The wild fruits they gather in plenty, tie them up in clothes and eat, thereby staining the clothes. They always carry with them the whip to control the cattle and the vessel made of bamboo pipe to hold milk, as and when the cows are milked. They seldom bathed, and even on the few occasions they had some sort of a bath, it was only partial. Even this semblance of a bath, Kṛṣṇa didn’t have, as he had hardly the time for it, tending, as he was, the cattle all the time. This only exemplifies His sole concern for His subjects. The word, ‘Caṟaiyiṉār’, in the text of this song, could mean either the one, not tending his body or the bell the shepherds tie round the waist the tingling sound whereof would guide the movement of the cattle following them.
-
-
-
 
 ## 4.8.5
 **Tamil text and transliteration:**
@@ -173,9 +155,6 @@ And exquisite complexion from her captivity unique.
 
 \(iii\) True knowledge is that which keeps one’s mind wetted to the Supreme Lord. The so-called knowledge of mundane affairs, divorced from divine consciousness, however perfect in its own right, is hardly worth its while; it is not knowledge in the real sense.
 
-
-
-
 ## 4.8.6
 **Tamil text and transliteration:**
 
@@ -200,9 +179,6 @@ Who, as the midget resourceful, got land (from Bali), on the sly.
 **Note**
 
 The Lord Himself has clearly set out, in Bhagavad Gītā, the ways and means of attaining Him. Those who are not amenable to advice, He would entice by His alluring Charm and His exquisite Form, enthralling every one, as in the case of Mahā Bali. “Of what use is my comeliness if my Lord, so generous, is not attracted by it? the Āḻvār questions himself.
-
-
-
 
 ## 4.8.7
 **Tamil text and transliteration:**
@@ -230,9 +206,6 @@ And gladly split the broad chest of Iraṇiyaṉ, of prowess great.
 
 \(ii\) The Nāyakī laments that she hardly needs to be bedecked, when He, who came to the aid of Prahlāda, the young lad whose very father had turned terribly hostile to him, would not succour her, who also pines for His patronage. (Iṭu)
 
-
-
-
 ## 4.8.8
 **Tamil text and transliteration:**
 
@@ -257,9 +230,6 @@ Adored by Civaṉ, Piramaṉ, Amararkōṉ and other Celestials.
 **Note**
 
 When Lord Kṛṣṇa blew ‘Pāñcajanya His conch, on the battlefield, it instantly unnerved all His enemies. On the other hand, it warmed up the ardent devotees. Rukmiṇi was in such a forlorn state, after her betrothal to Śiśupāla, that she was on the very verge of collapse and it was the heartening sound from Śrī Kṛṣṇa’s conch, from an ambush nearby, that revived her. When the severed head of an illusory Rāma was exhibited before Sītā, in Aśoka Vana, it was the sound from Śrī Rāma’s bow-string on the battlefield that disillusioned her and put her at ease. Parāśara Bhaṭṭar would say that Parāṅkuśa Nāyakī naturally pined for similar relief as she was also one like Sītā and Rukmiṇi.
-
-
-
 
 ## 4.8.9
 **Tamil text and transliteration:**
@@ -287,9 +257,6 @@ And ravishing beauty, with plenty of garments nice.
 
 If Bāṇāsura’s life was spared by the Lord, it was only out of consideration for Uṣā, that she shall not be orphaned. The Nāyakī naturally feels that the Lord does not extend a similar care in her case and if her body holds out no charm for Him, it hardly deserves to be relished by her.
 
-
-
-
 ## 4.8.10
 **Tamil text and transliteration:**
 
@@ -313,9 +280,6 @@ And complacent fed, on whose body huge does reside
 **Note**
 
 The essential nature of the Soul is to subserve the Lord but if He doesn’t like to take service from it, it just doesn’t deserve to exist. The immortality of the Soul is not to be brought in here and the point at issue confused. What is emphasised here is that things which are not linked up with God, are as good as non-existent. The Nāyakī is indeed vexed that the Lord who has allotted a portion of His body even to Śiva whose ego often times gets bloated and makes him fed that he is the Supreme, does not oblige her likewise. It is a pity that the Lord who destroyed all the evil forces out of loving condescension for the welfare of His devotees, should be indifferent to the Nāyakī, who is as good as non-existent (asat), when not sustained by His loving attention.
-
-
-
 
 ## 4.8.11
 **Tamil text and transliteration:**
@@ -343,6 +307,4 @@ And attain Vaikuṇṭam (the high heaven)
 **Note**
 
 Unlike the worshipper at the sanctum, remaining worried about the safety of the pair of sandals left by him at the temple gate, the Lord attended to His cosmic duties first, such as the sustenance of the worlds and their contents in His stomach during the deluge, and then addressed Himself to the task of eating up the curds and butter in the pastoral village of Gokula, with no let or hindrance from other quarters. Even as pregnant women get extra-nourishment, the Lord, holding in His stomach all things and beings, had all the nourishment He could have in Gokula.
-
-
 

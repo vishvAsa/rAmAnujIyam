@@ -4,14 +4,8 @@ title = "10 Inpam payakka"
 +++
 
 
-
-
-
 ## 00 Intro7.10
 In the last decad, the Āḻvār, who thought in terms of repaying the Lord’s kindness in choosing him, of all persons, for the sacred mission of singing ‘Tiruvāymoḻi’, was bewildered on finding nothing, he could offer unto the Lord, for there wasn’t anything he could call his own and the Lord, who is above wants of any kind, would need anything from him either. The merciful Lord would not, however, keep a devotee of such a high order in a state of mental torture. And so, He told the Āḻvār that he too would be given a chance to fulfil his desire by singing this hymnal in the pilgrim centre, called ‘Tiruvāṟaṉviḷai’ (Kerala State), unto Him and His Divine Consorts, much to Their delectation. It may be recalled, at this stage, that Śrī Rāma listened to His own story, Rāmāyaṇa, sung by Kuśa and Lava, the Divine lads, His own progeny. Even so, it was not on all fours with the assignment currently given to the Āḻvār by the Lord. There Śrī Rāma was alone when He granted audience to the young minstrels, having got separated from Sītā, the Divine Mother, whose story, (Sītāyāścaritam mahat) Rāmāyaṇa virtually is. But here, the Lord in His Iconic form, is looking forward to the ecstatic experience of listening to the rapturous songs of Tiruvāymoḻi, sung by the love-intoxicated Āḻvār, in the company of His Divine Consorts. The Āḻvār leaps with joy, finding that the Lord not only got the hymns sung by him but was also intent upon listening to his chanting them. How gracious of Him indeed! The Āḻvār, therefore, attempts to render the service assigned to him, at Tiruvāṟaṉviḷai in this decad, looking upon that holy place as his final goal, to the exclusion of all else, even as Hanumān said ‘Bhāvonānyatragacchati’, thereby expressing his stout determination not to forsake this land trodden upon by Lord Rāma and go elsewhere, not even the much-coveted Heaven. As a matter of fact, God would have nothing of our own and there is nothing we can call our own either. All that He expects from us, in return for all that He does, is to do His bidding and this is taken by Him as adequate expression of our gratitude.
-
-
-
 
 ## 7.10.1
 **Tamil text and transliteration:**
@@ -41,9 +35,6 @@ And now stays there in the gay company of Lakṣmī, the lotus-born?
 
 \(iii\) When Śrī Rāma took leave of Queen Kauśalyā while setting out on exile, the venerable mother wished that that very day could also be the day of His return from exile, if at all he had to go. Likewise the Āḻvār pines for quick consummation of his desire to reach this holy centre.
 
-
-
-
 ## 7.10.2
 **Tamil text and transliteration:**
 
@@ -70,9 +61,6 @@ In two strides, with no misgivings whatever, the worlds one and all?
 
 \(ii\) Did not Śatrugna sprinkle ice-cold water all the way from Nandigrām to the Āśram of Sage Bharadvāja, to greet Śrī Rāma’s home-coming?
 
-
-
-
 ## 7.10.3
 **Tamil text and transliteration:**
 
@@ -98,9 +86,6 @@ When indeed will my longing deep be put through?
 **Notes:**
 
 Even as the Āḻvār adores the seat of the Lord and the devout over there more than the Lord Himself, the Lord reciprocated by adoring Kurukūr, the birth place of the Āḻvār. Therefore it was that He was speeding towards Kurukūr, mounted on Garuḍa. They have now met halfway at Tiruvāṟaṉviḷai. The Āḻvār enjoys the Lord at this holy centre as Kōvinta, the ardent Lover of the devout and as Hari and Matucūtaṉ, the Destroyer of the enemies of His devotees.
-
-
-
 
 ## 7.10.4
 **Tamil text and transliteration:**
@@ -131,9 +116,6 @@ Residing in Tiruvāṟaṉviḷai with sugar-canes stout, paddy crops rich and f
 \(ii\) Here is an interesting anecdote:
 
 Iḷayāṟṟukkuṭi Nampi, a great devotee used to go to the temple at Śrīraṅgam [Śrīraṅga] during the festivals only, and kept on musing, with great delight, the proceedings of the last festival, till he attended the next festival. With declining age, the centenarian-devotee could not be present on the opening day of a festival, a fact, which the Deity took special note of and exclaimed “We doubt very much whether this is at all our festival when we don’t find our beloved Iḷayāṟṟukkuṭi Nampi around!” When the devotee presented himself with great dffiiculty on the sixth day of the festival, the Lord felt greatly pleased and enquired, “Nampi what can we do for you!” Nampi replied: “Sire this body dowered by you has done its job so far and now its mobility stands impaired”. “Well, said the Lord”, “if your body has dwindled, better stay with us”, Nampi breathed his last by the time the Deity left the temple gate for the ceremonial procession.
-
-
-
 
 ## 7.10.5
 **Tamil text and transliteration:**
@@ -167,9 +149,6 @@ Periya Nampi decided that he shall pace round the periphery of the holy temple o
 
 Even as Kūrattāḻvaṉ was spotted out by the master, out of so many, the Lord pitched upon Nammāḻvār for shedding on him the divine grace!
 
-
-
-
 ## 7.10.6
 **Tamil text and transliteration:**
 
@@ -198,9 +177,6 @@ And is in my mind firm, for me always to contemplate.
 
 \(ii\) Uruppiṇi (Rukmiṇi), an incarnation of Māhalakṣmī, was the only daughter of Bhīṣmaka, king of Kuṇṭinam. She had five brothers. When she came of marriagable age, Śrī Kṛṣṇa went and sought out her hand but her brother Rukmaṇ opposed it. Intending that she should be married to Śiśupāla, he arranged for her Svayamvara, when several kings would assemble, from whom the bride could choose the one most eligible. But Rukmiṇi was so resolute that she would marry none but Kṛṣṇa and emboldened by this determination, she even sent a secret epistle to Kṛṣṇa, inviting him to come down at the appropriate moment and take her away some how, from those devils. Śrī Kṛṣṇa accordingly got hold of Rukmiṇi at the crucial moment, and drove her away openly. Śiśupāla and other kings, mustered by Rukman, who encountered Śrī Kṛṣṇa, were beaten off. The infuriated Rukmaṇ, however, pounced upon Kṛṣṇa, bent upon slaying Him and his life was spared by the Lord, at the special request of Rukimiṇi and, poor fellow, he was let off with mere disfigurement. (Śrīmad Bhāgavatam)
 
-
-
-
 ## 7.10.7
 **Tamil text and transliteration:**
 
@@ -228,9 +204,6 @@ Waging the battle fierce in his citadel, putting the tripled Rudra askance.
 
 \(ii\) No doubt, the heaven is the land of eternal bliss, the land whence there is no returning. And yet, Tiruvāṟanviḷai is so enchanting that even the Lord looks upon it on a par with heaven.
 
-
-
-
 ## 7.10.8
 **Tamil text and transliteration:**
 
@@ -255,9 +228,6 @@ On His lovely feet, squeeze we can from our hearts all sins.
 **Notes:**
 
 The Lord, who rid Gajendra, the pious elephant, of dire distress, and now stays in Tiruvāṟaṉviḷai, will certainly cure us of all ills and evils. With its leg right in the jaws of the tough crocodile, the elephant was engaged in a titanic struggle for years, trying to extricate himself from the monster. When this self-effort, grim and long, proved not only abortive but turned out to be a hindrance to the influx of the Lord’s grace, the great devotee that the elephant was, he looked upon the Lord as the Sole Saviour and deliverance followed. The elephant was not in the least bothered about its own emaciation and eventual dissolution but its sole concern was to offer the lotus flower plucked by it, at such a heavy cost and still held in its trunk, at the feet of the Supreme Lord. What distressed the elephant even more, was his deep concern that the Lord’s reputation as the Sole Saviour should not get tarnished by His not coming down to his rescue. It is precisely this, that has been referred to in this song, as the deep distress of the elephant. And so, the Lord feels benefited by the elephant, helping Him to redeem His reputation as the Sole Saviour of His subjects. This great trait of Lord Mahāviṣṇu of identifying Himself as the recipient of a favour when He is actually conferring one on His devotees and feeling distressed over the miseries of His subjects even more than they do, is inherited by His devotees. A true Vaiṣṇava (a votary of Lord Viṣṇu) is, therefore, one who possessed this remarkable trait.
-
-
-
 
 ## 7.10.9
 **Tamil text and transliteration:**
@@ -284,9 +254,6 @@ In that holy centre, circumambulate and worship with joined palms.
 
 The Āḻvār’s desire to reach this pilgrim centre is so great that even the high Heaven recedes to the background. Therefore, his thoughts are wholly centred on whether he would at all be able to reach that centre, stay firmly there and go round the place with great piety. Not only that, he feels that this holy centre is so very enchanting that is is bound to attract even the denizens of Heaven.
 
-
-
-
 ## 7.10.10
 **Tamil text and transliteration:**
 
@@ -312,9 +279,6 @@ Worshipped by the devout thro’ word, deed and thought.
 **Notes:**
 
 This song provides the reply to the question supposed to have been put to him as to what he would do in case the Lord forced him into Heaven, which he had been demanding from Him quite often before. The Lord, being all-knowing, He is well aware that the Āḻvār’s mind now stands rivetted to Tiruvāṟaṉviḷai which has taken precedence over everything else, including the Heaven. Further, He is known to grant the boon prayed for by the subject, (Purusārta). That being the case, there is absolutely no risk of the Lord granting him anything other than that desired by him, even Heaven falling in the excluded category in this particular context. It is noteworthy that the Āḻvār does not even mouth the word. ‘Heaven’ and says, in general terms, that he does not think of anything else but the holy centre of Tiruvāṟaṉviḷai.
-
-
-
 
 ## 7.10.11
 **Tamil text and transliteration:**
@@ -345,9 +309,6 @@ Are indeed very pure, entitled to great reverence.
 
 \(iii\) *Immaculate thousand*: All the songs in this great hymnal are like unto as many sacred waters.
 
-
-
-
 ## Retrospective Summary
 (7-1): *In the opening decad*, the Āḻvār follows up the trend of thought, as in VI-9-9, where he dreaded the mischief of the senses and the frightful possibility of his going astray in the event of the prolongation of his stay in this abode. If the Āḻvār dreads in this manner, despite his having taken a deep plunge into the ocean of divine consciousness, it is because this land is notorious for its corrupting influence, bringing within its dirty pale even the ‘Nitya Sūrīs’, the proximate attendants of the Lord in Heaven, should they *ever happen* to step on to this soil;
 
@@ -368,5 +329,4 @@ Are indeed very pure, entitled to great reverence.
 (7-9): Perplexed over the prolongation of his stay in this cussed land with its sordid surroundings, the Āḻvār elicits from the Lord his intention tn this regard. The Āḻvār is informed that he has been kept in this abode in order to get from him, the soul-stirring hymns of unparalleled sweetness, for the edification and enjoyment of Himself and His devotees. Overawed by the Lord’s tender solicitude and loving condescension, in choosing him for this assignment, in preference to the eminent sages like Vyāsa, Parāśara and Vālmīki and the sweet singing divine bards, *par excellence*, the first three Āḻvārs, the Āḻvār gratefully acknowledges *in the ninth decad* the Lord’s great gesture, perplexed a great deal over his inability to recompense the Lord, A there was hardly anything he could call his own;
 
 (7-10): The Lord has indeed chosen an enchanting place, namely, Tiruvāṟaṉviḷai (Kerala State) from where He and His dear Consort (Mahālakṣmī) could enjoy listening to Tiruvāymoḻi recital by Saint Nammāḻvār. The Āḻvār, whom we saw, in the ninth decad, remaining perplexed over his inability to recompense the Lord for the extraordinary grace shed by Him, was, therefore, given a chance to fulfil his heart’s desire, by singing this great hymnal unto Him and His Consort, in that holy centre, much to Their dictation.—And so, *in the concluding decad of this Centum*, the Āḻvār attempts to render the service graciously assigned to him by the Lord. So great is his desire to reach this fascinating pilgrim centre, looking upon it as his ultimate destination, relegating even the high Heaven to the background.
-
 

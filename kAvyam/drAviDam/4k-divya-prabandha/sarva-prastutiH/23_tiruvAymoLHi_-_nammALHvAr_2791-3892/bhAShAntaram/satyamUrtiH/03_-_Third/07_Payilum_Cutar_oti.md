@@ -4,18 +4,12 @@ title = "07 Payilum Cutar oti"
 +++
 
 
-
-
-
 ## 00 Intro3.7
 Despite his earlier disappointments, it was his extraordinary fellow-feeling that egged the Āḻvār on, to address the worldlings once more, as in the last decad, pretty sure of bringing them round. Even the amazing simplicity of the Lord in His ‘Arcā’ manifestation, the sure plank, according to the Āḻvār, for weaning them, made no visible impact on the unfortunate fellows wallowing in the sty of worldly life, much to the chagrin of the Āḻvār. The Āḻvār, however, drowns his disappointment, in this decad in the blissful contemplation of service unto the Lord’s devotees, the logical conclusion of service unto the Lord, in keeping with the essential nature of the Individual soul.
 
 In ‘Periya Tirumoḻi’ (8-10-3), Tirumaṅkai Āḻvār has declared that, as a result of learning the eight-lettered ‘Tirumantra’, he became a vassal of the devotees of the Lord, enshrined in Tirukkaṇṇapuram. Service unto the Lord’s devotees, as well, is implied in the middle part of ‘Tirumantra’, viz, ‘namaḥ’. It is held by some that service unto the Lord’s devotees is implicit in letter *A* of ‘Praṇava’ (Aum), with its discarded dative caseending, which brings into focus the soul’s dependence on the Lord; others say that the middle letter *U* of ‘Praṇava’ emphasises the exclusive dependence of the soul on the Lord and that the farthest point upto which dependence on the Lord could go, by virtue of His unbounded love for His devotees, would be the individual soul’s utter devotion to those devotees as well. This is readily borne out by our common experience in the world of human affairs also. It, however, matters not whether this particular meaning goes with the word ‘namaḥ’ or letter ‘A’ or letter ‘U’ of the Praṇava (AUM). All the same, our great preceptors have thought it fit to link this concept with the word ‘namaḥ’ which helps to discard the rags of ‘I-ness’ and ‘My-ness’, enveloping and disfiguring the individual soul.
 
 Śatrugna provided the shining example of unflinching service marked by extraordinary devotion to Bharata, a great devotee of Śrī Rāma. Soon after the marriage of the four Princes, in Mithilā, Bharata had an invitation from his uncle, king Yudājit of Kekaya (perhaps, modern Greece) to go with him to that country. Bharata set out on the said journey, on an auspicious day, appropriate to his birth star. The inseparable Śatrugna also accompanied Bharata, out of his dutiful love for the latter, although the former had no invitation, as such, from King Yudājit nor did the day of the commencement of the journey suit his (Śatrugna’s) birth star. According to Śatrugna whose devotion to Bharata was of such a high order, there was hardly any need for all these, as he considered himself no mo re than a part and parcel of Bharata and not as a separate entity.
-
-
-
 
 ## 3.7.1
 **Tamil text and transliteration:**
@@ -54,9 +48,6 @@ Deeply grieved over his separation from Śrī Rāma, during the long years of th
 
 ‘*In the births to come*’: Here, the Āḻvār declares that he is the vassal of the Lord’s devotees, rather than of the Lord. The Āḻvār who had earlier blamed the Lord for taking him through a gruesome succession of births, would now willingly court any number of future births out of sheer love of serving the Lord’s devotees in all those births.
 
-
-
-
 ## 3.7.2
 **Tamil text and transliteration:**
 
@@ -93,9 +84,6 @@ With peerless shoulders four, the reigning Chief.
 ‘*Joined legs*’ indicate immobility, ‘*ananyagatitva*’, or non-dependence on others—‘nowhere else to go’, in plain language.
 
 ‘*Joined palms*’ devote ‘*Ākiñcanya*’ or absence of any merit in the supplicant, attracting the Lord’s grace; in other words, it is only the Lord’s ‘*nirhetuka kṛpā*’, spontaneous or gratuitous grace that can deliver the goods.
-
-
-
 
 ## 3.7.3
 **Tamil text and transliteration:**
@@ -138,9 +126,6 @@ When Nañcīyar came to know of this, he admonished them, saying:
 
 This reprimand made them feel truly repentant and restored their former amity.
 
-
-
-
 ## 3.7.4
 **Tamil text and transliteration:**
 
@@ -167,9 +152,6 @@ And many more, unto Him befitting and natural.
 
 Here the Āḻvār avers that the vassals of the vassals of the Lord, lost in admiration of His natural beauty, imparting special lustre to the numerous jewels on His person, each one of which, from head to foot, steals the hearts of the beholders, are any day superior to him not only in this birth but in all future births also.
 
-
-
-
 ## 3.7.5
 **Tamil text and transliteration:**
 
@@ -195,9 +177,6 @@ Are indeed our saviours grand, both here and hereafter.
 \(i\) *Chief of the exaḻted Celestials*: The *Nityasūris* (ever free angels in heaven) stand on a high pedestal of their own and the Lord, as their Chief, is higher than the highest.
 
 \(ii\) The Devas sought from the Lord the ambrosia in order to become deathless. No doubt, the Lord felt very much that the Devas should have been so short-sighted and under-evolved as to seek from Him a mere extract from the ocean instead of straightaway coveting Him, the insatiable Nectar, the inexhaustible fountain of bliss. And yet, it was some consolation for Him that they didn’t seek this favour, inferior though, from any one else. How generous of Him indeed that He took all the trouble to churn the ocean and get them what they wanted! Those that are lost in admiration of the great souls who recognise and adore this act of grace on the part of the Lord, are deemed by the Āḻvār as his benefactors, the masters, who alone can salve him, here and hereafter in this land by keeping him aloof from the Ungodly and, in the yonder heaven, by putting him on to the eternal service of Lord Śrīman Nārāyaṇa.
-
-
-
 
 ## 3.7.6
 **Tamil text and transliteration:**
@@ -229,9 +208,6 @@ With fragrance full, shedding honey in plenty.
 
 \(iii\) No doubt, the Āḻvār courted, in the opening song of this decad, future births, if he could thereby serve the Lord’s devotees without break but now, the protection extended by them unto him, referred to in this song, would be by way of safeguarding him against the pitfalls leading to rebirth.
 
-
-
-
 ## 3.7.7
 **Tamil text and transliteration:**
 
@@ -256,9 +232,6 @@ Knowledge true, so to enlist them in eternal service at His feet in heaven.
 **Note**
 
 The Āḻvār has been spot-lighting the Lord’s magnanimity in the last two songs, and he continues to dwell on the Lord’s generosity in this song also, by extolling those lost in admiration of this great trait of the Lord. It is the Lord’s extreme generosity that cuts out an otherwise interminable cycle of births and rebirths through which one’s ethical accounts, hopelessly unbalanced as they are, have to be settled with the ever-increasing risk of losing merit faster than acquiring it.
-
-
-
 
 ## 3.7.8
 **Tamil text and transliteration:**
@@ -286,9 +259,6 @@ Of one and all, even those in the upper region.
 
 The Āḻvār avers that those adoring the blissful conjunction of the Lord and the Divine Mother, are his spiritual mentors for generations, although they might be cruel sinners either fit to be condemned to the dastardly abyss, known as ‘*Kumbhīpāka* [*kumbhīpākam*]’, or even those actually drudging there. This only shows the extreme lengths to which the Āḻvār is prepared to go in his adoration of the Lord’s devotees, and it is, therefore, needless to subject it to closer scrutiny and raise doubts as to how the Āḻvār could see, from where he was, those people serving in the hell and the prospects of those suffering in hell contemplating the glory of the Lord and reciting His names and so on.
 
-
-
-
 ## 3.7.9
 **Tamil text and transliteration:**
 
@@ -315,9 +285,6 @@ Worse than the Caṇṭāḷa with little or no repute.
 \(i\) The servants of the servants of those devotees, enthralled by the bewitching beauty of the Lord holding the charming discus in hand, are said to be the Āḻvār’s masters, even though the said devotees are otherwise terribly depraved, and worse than the ‘Caṇṭāḷa’, outside the Ken of the four prescribed, time-honoured castes. While devotion to the Lord’s devotees is the Key-note of this song, there is an unfortunate tendency on the part of the superficial modern critics, with a degree of perversion, to go by the letter of the song rather than the underlying spirit. These unrelenting critics question the bonafides of those who reverently chant ‘Tiruvāymoḻi’ and yet do not put into practice the principles, the Ālvār stood for and expounded in his works, e.g. this crucial song.
 
 \(ii\) Stanzas, such as this one, would, however, appear to spot-light the greatness of such highly evolved spiritual personalities as Tirumaḻicai Āḻvār, Tiruppāṇāḻvār, Nampāṭuvāṉ, either born as outcastes or brought up by outcastes, who yet belong to a world of their own and a new denomination known as ‘The clan of God’s servants’, which has nothing to do with the conventional caste-system and classification. Of course, devotion has to be appreciated and adored wherever it is discerned, irrespective of considerations of caste and things of that sort. This love and reference for devotees cannot, however, override the prescribed norms of conduct, appropriate to one’s caste and station in life. This song should not, therefore, be misconstrued as conferring unbridled authority for hammering down and brushing aside the mandates of the Śāstras, as restated by Lord Kṛṣṇa in His ‘Song Celestial’—(Bhagavad Gītā, XVĪ-24).
-
-
-
 
 ## 3.7.10
 **Tamil text and transliteration:**
@@ -355,9 +322,6 @@ In His stomach, which earlier He did span.
 > delightfully contemplate on it and are thus aware that the Āḻvār
 > thought on these lines”.
 
-
-
-
 ## 3.7.11
 **Tamil text and transliteration:**
 
@@ -386,6 +350,4 @@ Will have their cycle of births brought to a close.
 \(i\) This end-stanza reveals the benefit accruing to those learning this decad without skipping over any stanza. They will not have to be reborn and caught up in the unenviable meshes of worldly life militating against service unto the Lord’s devotees.
 
 \(ii\) The Kauravas’ advancement was at the expense of their five cousins, the Pāṇḍavas, who were, however, very dear to Lord Kṛṣṇa. The vicious hundred naturally met their doom.
-
-
 

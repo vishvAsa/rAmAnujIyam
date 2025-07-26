@@ -4,16 +4,10 @@ title = "04 Pukalum nal oruvan"
 +++
 
 
-
-
-
 ## 00 Intro3.4
 In the preceding decad, the Āḻvār was all agog to serve the Lord, at all times and in every conceivable manner, without break or blemish. Profoundly impressed by the intensity of the Āḻvār’s yearning for Divine service, the Lord very much wished to make his task easy and so threw into focus His unique faculty of omnipresence, *pervading all things, all over* and *at all times*. Coming face to face with the Lord’s immense ubiquity in various forms, the Āḻvār was in the same predicament as the one gathering the fruits dropped down the trees in a violent gale, finding it difficult to pick and choose. The phenomenon before him was so amazing and of such astounding dimensions that the Āḻvār, who resorted to singing the Lord’s glory (which is also a form of service, namely, service by word of mouth—Vācika Kaiṅkarya), just didn’t know where to begin and what to say. It is the Lord’s immanence that the Āḻvār attempted to sing about, in this decad.
 
 One of the Lord’s several names is ‘Ananta’, the endless. He is limitless and immeasurable, not being circumscribed by space and time. The unique feature about the Supreme Lord, Mahāviṣṇu is that He is not only not circumscribed by space and time but He also abides in all, without any exception, the sentient beings and non-sentient things, one and all, constituting, as it were, His bodies. This is, in fact, the keynote of Viśiṣṭādvaita philosophy. The ‘Śarīṛa-Śarīri bhāva’. This was mentioned in passing, in the first decad of the first centum itself. And now, this is being elaborated upon, in this decad.
-
-
-
 
 ## 3.4.1
 **Tamil text and transliteration:**
@@ -39,9 +33,6 @@ Or the Sun and the Moon, rather their aggregate?
 **Note**
 
 The Āḻvār looks on, in bewildering amazement, when the Lord presents Himself as an embodiment of the elements that have gone into the making of the universe and its multifarious contents, His auspicious qualities also shining forth, side by side. Unlike others who could see everything in its outer form only, the Āḻvār discerns the Lord in each and everything, and nothing can, therefore, be eschewed by him as being disagreeable. He sees the Lord in every thing, individually and in the aggregate. What would seem despicable in the light of one’s own association, becomes wholly agreeable, viewed in the light of their conjunction with the Lord, (aphorism 149, Acārya Hṛdayam).
-
-
-
 
 ## 3.4.2
 **Tamil text and transliteration:**
@@ -72,9 +63,6 @@ The bright stars owe their structure, composition and luminosity to the element 
 
 \(ii\) It only bespeaks the unlimited glory of the Lord and the immeasurable extent of His possessions, if even Saint Nammāḻvār, endowed with full and complete knowledge by the Supreme Lord Himself, should fumble and falter, unable to give adequate expression to the Lord’s attributes and acquisitions, His flooding fame etc.
 
-
-
-
 ## 3.4.3
 **Tamil text and transliteration:**
 
@@ -103,9 +91,6 @@ Or one that wields the conch and the discus?
 \(i\) In the two preceding stanzas, the Āḻvār described the Lord’s universal aspect and now he describes Him, in His own exclusive form. As a matter of fact, the Āḻvār could discern the Lord in both the Universal and Individual forms with the same ease.
 
 \(ii\) It is indeed interesting to study the sequence set out in the above stanza. The Āḻvār begins with the Lord’s lotus-eyes which shed grace on him and befriended him; next in order is the bewitching smile of the Lord which is an even greater attraction than the Lord’s entrancing looks and hence the mention of the coral lips. And now, the Subjects, attracted by the Lord’s lovely looks and captivating smile, seek refuge at His comely feet; the votaries then enjoy the charming complexion of the Lord. The Lord’s crown, indicative of His overlordship, does not, however, scare them off when they behold the Divine Mother, the grand Intercessor on the Lord’s chest. But then, this exquisite conjunction of the Divine couple induces a sense of fear, a growing apprehension in the minds of the devout regarding the safe continuance of this glorious combination but the weapons held by the Lord in His hands, the conch and the discus, dispel this fear and put them at ease.
-
-
-
 
 ## 3.4.4
 **Tamil text and transliteration:**
@@ -136,9 +121,6 @@ Or the One of resplendent form or the blissful Primate?
 
 \(iii\) *Acyuta, the eternal Father*: While in a forlorn state, with no attainment whatever, on his part, to attract the Lord’s grace, the Lord, on His own, revealed to the Āḻvār the indissoluble bond subsisting between them, the inviolable ‘Father-Son’ relationship and held on to him firmly thereafter.
 
-
-
-
 ## 3.4.5
 **Tamil text and transliteration:**
 
@@ -168,9 +150,6 @@ Or the honey as tasty as ghee or fruit or milk?
 \(ii\) *Cutting out the devotees’ ills and evils*: The expression ‘Ills and evils’ is used in a comprehensive sense, covering the effective operation of both ‘Puṇya’ and ‘Pāpa’, as the former is a golden fetter and the latter, an iron fetter and thus both are impediments, seeing that a golden fetter is, all the same, a fetter. The Lord, on His part, will not confine Himself to a life of ease and peace, in the high heavens, but come down post-haste to the rescue of His devotees, as He did in the case of Gajendra, the elephant. Again, the ills He cures are not the ordinary bodily ailments but the much worse malady of the soul. The Lord is, therefore, referred to as the delectable medicine, easy to take and absolutely harmless even if the directions for its use are given the go-by or not closely adhered to.
 
 \(iii\) The Lord is indeed far superior to the nectar that was obtained by churning the milk ocean. The Lord, the non-satiate nectar, will make Himself available to His beloved devotees without undergoing the rigours of churning the ocean.
-
-
-
 
 ## 3.4.6
 **Tamil text and transliteration:**
@@ -204,9 +183,6 @@ The Śāstras, referred to, are the sacred texts, such as Itihāsas, Purāṇas 
 
 \(iii\) Even as a small quantity of seeds sown produces a rich harvest of grains, the Lord showers on us a plethora of benefits, out of all proportion to the magnitude of our efforts, real or feigned.
 
-
-
-
 ## 3.4.7
 **Tamil text and transliteration:**
 
@@ -236,9 +212,6 @@ Of *Suvarkkam* (Svarga) or *mōkkam* (mokṣa), the bliss eternal?
 
 \(iii\) While the pleasures of Svarga too, are of a limited tenure at the end of which the individual is hurled down to the Earth, the Lord is referred to in this context, as the everlasting pleasure, not time-bound.
 
-
-
-
 ## 3.4.8
 **Tamil text and transliteration:**
 
@@ -266,9 +239,6 @@ The cool crescent Moon on matted locks and stands revered
 \(i\) The Āḻvār points out here that Śiva, sporting the cool, crescent Moon on his matted locks, mistakenly revered by some as the Supreme and Brahmā, the four-headed Demi-urge, also form part of Lord Viṣṇu’s possessions.
 
 \(ii\) ‘*Liege-Lord*’: Viṣṇu, who put the Āḻvār on the right track and thereby made him solely worship Him, without straying into the domain of worship of the lesser deities.
-
-
-
 
 ## 3.4.9
 **Tamil text and transliteration:**
@@ -299,9 +269,6 @@ The Āḻvār who attempted earlier an enumeration of the Lord’s cosmic wealth
 
 Cf. the Lord’s own declaration, in Bhagavad Gītā X-19, that there is no end to the details of things and beings under His control (the vibhūtīs).
 
-
-
-
 ## 3.4.10
 **Tamil text and transliteration:**
 
@@ -330,9 +297,6 @@ This stanza clearly brings out the fact that the Lord who has stationed Himself 
 
 The above is the interpretation of Emperumāṉār (Rāmānuja); the other interpretation, namely, exclusive devotion unto the Lord (Super Soul) inside the individual Soul, will enable the latter to attain the former has been brushed aside by him as a misfit, in the present context of highlighting the immanence of the Lord, where it is imperative to bring out that the Lord pervades all things and beings without, at the same time, partaking of their character.
 
-
-
-
 ## 3.4.11
 **Tamil text and transliteration:**
 
@@ -360,6 +324,4 @@ And eternal service enjoy, becoming the Celestials’ favourites.
 \(i\) *Gracious caṭakōpaṉ*: The Āḻvār’s grace lies not in his seeing the Lord, in all things and beings, but in his making us also realise it, through these songs.
 
 \(ii\) The Nitya Sūris (Celestials in Heaven) love those that recite these ten songs. This is because of their great love and regard for the Āḻvār who possesses Divine knowledge on a par with them, despite his location down below in this land of darkness and nescience.
-
-
 

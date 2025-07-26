@@ -4,14 +4,8 @@ title = "03 Vellaic curi cankotu"
 +++
 
 
-
-
-
 ## 00 Intro7.3
 The bliss of the union of the Nāyaki and Lord Raṅganātha having overflown its continents, the Lord hit upon a method whereby the enjoyment could be stabilised instead of the Nāyaki being swept off by its exuberance. He went to Tentiruppēreyil, near the Āḻvār’s birth-place, game-hunting by way of relieving the distress of the people over there from the depredations of wild animals. The Nāyaki herself equipped Him with weapons, went with Him straight to the outer gate and bid Him farewell, wishing Him success. The Lord, mounted on Garuḍa, threw a bewitching parting glance at her. But then, she couldn’t bear the separation and insisted that she would also go to Tentiruppēreyil to join her Lord, in the face of opposition from her mother, mates and other, kinsmen. The Nāyakī, bent upon going, suggests a via-media namely, if they are against her going alone, they could as well escort her to the place and leave her there with her Lord.
-
-
-
 
 ## 7.3.1
 **Tamil text and transliteration:**
@@ -41,9 +35,6 @@ Which is what You people can’t comprehend?
 \(i\) The Nāyakī says, she can’t describe her glorious mental vision adequately. What she has said in this song, touches but a fringe of the subject.
 
 \(ii\) The undying noise of the children at play, is the unique feature of this pilgrim centre where the children play right in front of the temple. Eager to witness the children at play, the Deity would appear to have asked Garuḍa, installed light in front, to step aside without obstructing His view. Further, the festivals, with their usual fanfare, go on in this centre in an unbroken succession; it is said that Akrūra, the great devotee of Lord Kṛṣṇā, celebrated festivals in quick succession, after he came by the fabulous “Syamantakamaṇi”, a rare gem capable of generating fabulous wealth and here is Parāṅkuśa Nāyakī, the gem of a woman and there can be no dearth of festivals, wherever she goes.
-
-
-
 
 ## 7.3.2
 **Tamil text and transliteration:**
@@ -76,9 +67,6 @@ Alternately, it could be that the mates, bent upon rallying the Nāyakī round, 
 
 \(ii\) The worldlings cannot be weaned away from sensual pleasures even as the Nāyakī cannot be weaned away from God-head. The God-bent mind of the Nāyakī has taken a leap ahead of her and got absorbed in Him completely. There is, therefore, no question of her being brought round by any one, not even the concerted action of the mates, mother and neighbours. Instead of the mind being subordinate to her, it is now the other way round. In short, the Nāyakī, enthralled by the Lord at Tiruppēreyil, is beyond recovery, from the point of view of the worldlings to whom she is lost altogether.
 
-
-
-
 ## 7.3.3
 **Tamil text and transliteration:**
 
@@ -105,9 +93,6 @@ With its fanfare of festivals unbroken, lost its reserve and refinement.
 \(i\) The elders and neighbours having retreated from the scene, giving up the task of reclaiming the Nāyakī as hopeless, only the mate stays on, for further counselling. When she points out how unbecoming of the feminine rank and position the conduct of the Nāyakī is, the latter indicates in this song what indeed brought her to this pass. Actually, the Nāyakī’s mind is getting exclusively absorbed in each one of these features of the Lord, even as He pervades all things, *in toto*, inside out. It is worth recalling, in this context the anecdote of Śaubhari. Great indeed was the spiritual prowess of sage Śoubhari. One day he went to a pond and noticed the fish playing about, huddled together. This fascinated the mind of the sage, steeped in renunciation till then, to lead a married life and rear up a large family, as in the fish pond. Learning that king Māndhāthā had fifty charming princesses, all unmarried, the sage asked the king to give him one of his daughters in marriage. The King evaded the issue by asking the sage to propose to the Princesses directly so that whosoever liked him could be taken as his bride. The sage knew the trick of the King quite well and, therefore, transformed himself into a charming young man whom the Princesses vied with one another to marry. The powerful sage took on fifty forms, on account of his great tapasya, and married all of them. Similar is the intensity of the Āḻvār’s longing to enjoy the Lord, in minute details, assuming different forms.
 
 \(ii\) The Lord is enshrined in His Iconic (Worshippable) Form for the sake of us, the bound souls lingering in this world, even as His transcendent Form in Heaven is for the enjoyment of the ‘Nityas’ (Eternal heroes) and ‘Muktas’ (Released Souls) there, the ‘Vyūha’ (Operative Form) in the Milky ocean is for those akin to ‘Muktas’ and the Incarnate Forms are for the fortunate ones, who existed in those good olden times. This being the case, how could the Nāyakī keep away from the Lord in His ‘Arca’ (iconic) form at Tiruppēreyil?
-
-
-
 
 ## 7.3.4
 **Tamil text and transliteration:**
@@ -140,9 +125,6 @@ Of Nalvētam, reverberating all over like the roaring sea?
 
 \(iii\) This pilgrim centre is said to be resonant with the sweet, chanting of Nalvētam (Sāmaveda)
 
-
-
-
 ## 7.3.5
 **Tamil text and transliteration:**
 
@@ -168,9 +150,6 @@ To Tiruppēreyil, full of gardens nice where my Lord stays.
 **Note**
 
 The Nāyakī is lost unto Kaṇṇaṉ (Lord Kṛṣṇa), in the sense that the bonds of feminine reserve and refinement have burst in the face of her overwhelming, rather overpowering Godlove. She advises the elders not to attempt the senseless task of putting up the bund after all the water has escaped down the sluices but to take her to Tiruppēreyil and leave her there where the Lord has come, in advance, to reclaim her. This they should do quickly when she is still alive, seeing her precarious condition.
-
-
-
 
 ## 7.3.6
 **Tamil text and transliteration:**
@@ -199,9 +178,6 @@ Where vedic scholars zealously perform sacred rites.
 \(i\) The elders point out that the Lord had just left on a hunting expedition with her consent and that the Nāyakī should not be so very impatient and that too, so soon. But then the Nāyakī’s consuming passion is such that she can’t brook separation from her Lord even for a short while. Her love is even more expansive than the ocean. That it is fast gathering momentum can be seen from the fact that her God-love, as set out in V-3-4, was of the size of the ocean and now it has grown bigger than the ocean. A little later, that is, in the eighth song of this decad itself, we find it surpassing the Earth, the seven peripheral oceans and the ultramundane regions, far beyond as well. In X-10-10, it swells up to such astounding dimensions as to encompass the Supreme Lord Himself, the very object of love.
 
 \(ii\) How could the Nāyakī contain the on-rush of God-love with such rapid strides, and keep it under restraint, as advised by the elders, the more so, when the glorious vision of the blue-hued Lord is right in front, and yet baffles external perception and sensibility? The only way this love could be nurtured is to take her to Tiruppēreyil, where the Lord is in His worshippable form, in all His heavenly splendour, surrounded by profound Vedic scholars, fertile fields and lovely gardens. Even as the paddy crops are sustained by the standing columns of water, the entire landscape of that holy centre sustains the Nāyakī.
-
-
-
 
 ## 7.3.7
 **Tamil text and transliteration:**
@@ -240,9 +216,6 @@ Do unto me a good turn and my mind I shall follow hence.
 
 Śrī Āḷavandār (Saint Yāmunācārya), the great preceptor, was greatly piqued by this unreasonable accusation of the Mother and he said: “Surely, it isn’t my radiant Mother’s light that hurts but Rāma’s sore eye that is hurt. The mote is indeed in Rāma’s eye; Sītā is absolutely pure, bright like the pure flame that appears tainted owing to dark suspicion obscuring Rāma’s heart”.
 
-
-
-
 ## 7.3.8
 **Tamil text and transliteration:**
 
@@ -269,9 +242,6 @@ My Lord at Tiruppēreyil I have to go and join.
 
 The people around could hardly know the depth of the Godlove swelling up the Nāyakī’s bosom but they could, in a way, notice it from the words she uttered, her lamentation and other external changes in her complexion, behaviour etc. Then, they started rebuking her but their remonstration produced the opposite effect, virtually serving as the rich manure for the speedy cultivation of her God-love. And now, it has grown to the astounding dimensions, set out in this song (See also the notes under V-3-4), VII-3-6 and X-10-10).
 
-
-
-
 ## 7.3.9
 **Tamil text and transliteration:**
 
@@ -297,9 +267,6 @@ Who the Sea-bound worlds did gulp.
 **Note**
 
 The Nāyakī insists upon going to Tiruppēreyil, as the mates and elders counselled her patience and infused in her hopes of an early return of her Beloved Lord. The Nāyakī is, however, in no mood to listen to such hollow inducements. As a matter of fact, stripped of her mind, which has preceded her in its flight to the Lord, she can hardly be receptive to all that they say. At any rate, she did not have that type of mind, that would respond to their advice. Further, she stands enthralled by the exquisite charm of the blue-hued Lord, the great Redeemer.
-
-
-
 
 ## 7.3.10
 **Tamil text and transliteration:**
@@ -330,9 +297,6 @@ Who since ages long did my heart steal.
 
 \(ii\) Even as the Lord manoeuvred, by stages, to get the hundred Kaurava brothers slain, He seems to have planned long, long back to steal away the Nāyakī’s heart.
 
-
-
-
 ## 7.3.11
 **Tamil text and transliteration:**
 
@@ -359,6 +323,4 @@ Will in His eternal service be blessed to remain.
 **Note**
 
 The end-stanza brings out that those well-versed in these ten songs, will be blessed with the great good fortune of rendering eternal service unto the Lord, like unto His discus, ever alert and dutiful.
-
-
 

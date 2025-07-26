@@ -4,9 +4,6 @@ title = "06 Arulperuvar"
 +++
 
 
-
-
-
 ## 00 Intro10.6
 As the great Nampiḷḷai would put it, in his inimitable diction, the stage has now been reached when the Lord is in hot pursuit of the Āḻvār. The position hitherto, commencing from the opening song of the Āḻvār’s first hymnal (Tiruviruttam) was, however, just the reverse, that is, the Āḻvār was seeking out the Lord and pursuing Him doggedly. The Āḻvār, who was the supplicant before, is now vigorously sought after by the Lord Whose love for the great savant knows no bounds, vide the 3rd song of this decad, which highlights the speed with which the Lord wishes to take the Āḻvār, to the heavenly abode. In the exuberance of His love for the Āḻvār, the Lord would even think in terms of lifting him bodily to heaven. The Āḻvār had to plead with the Lord to give up His overambitious project and he advised Him not to defile the sanctity of Heaven by introducing therein his physical body. What is even more astounding is the Lord’s extreme fascination for the Āḻvār’s physical body, the last of the staggering number of bodies, tenanted by him, that led Him on to seek the Āḻvār’s permission to enjoy his body, limb by limb. For this purpose, the Lord would assume a number of Forms, as He did during the famous ‘*RĀSAKRĪḌĀ*’ dance with the damsels of Vrindāvan and again, when He married sixteen thousand pretty ladies and led the life of a typical householder with each one of them, all at once, in the holy island of Dvāraka, a township raised by Lord Kṛṣṇa Himself from the bed of the Sea.
 
@@ -20,9 +17,6 @@ The Āḻvār is, however, not the one who would make any gesture of the kind wh
 The Āḻvār ponders within himself: “How amazing and how incredible that the Sovereign Lord seeks my permission and wants to play a subordinate role! Shall I not meet my fellow-men and talk to them about this and make them also appreciate and admire the Lord’s simplicity galore and tender solicitude? But then, these fellows are hardly available to me for sharing my wonderful experience, immersed, as they are, in wordly pleasures. And how about the Lord? Shall I not pour out my mind to the Lord Himself, expatiating on this wonderful gesture of His? Alas! He too is heavily pre-occupied, fiercely concentrating on how best He can expedite my ascent to heaven. Let me, in the last resort, open up a dialogue with my own God-bent mind and impress upon it the amazing simplicity of the Supreme Lord, the immensity of the love borne by Him unto me and the resultant benefits accrued to me”.
 
 In short, the Āḻvār had hitherto looked upon the Lord, as the sole ordainer, of unbridled independence, but now he realises that the Lord is but the abject servant of His devotees and gives vent to his hearty appreciation of the Lord’s tender solicitude and amazing simplicity.
-
-
-
 
 ## 10.6.1
 **Tamil text and transliteration:**
@@ -121,9 +115,6 @@ As Bhaṭṭārya was expounding the profound secrets of God’s love unto His t
 
 True, there was a time when the Āḻvār stuck fast to centres like Tiruvāraṉviḷai and would have voted for everlasting stay there in preference to going up to Heaven. But now, he has been completely disillusioned and will no longer like to walk on the double-edged razor that life is, in this material body made up of the five elements and in this land of dark nescience, with its endless potentialities for mischief and incalculable damage to his spiritual progress. If that were so, addressing his mind currently to adore the Lord, enshrined at Tiruvāṭṭāṟu would appear to be rather misleading but it is not so. The Lord has come to this centre only to expedite the Āḻvār’s ascent to Heaven and it, therefore, behoves the Āḻvār to cooperate with the Lord and facilitate His work. Adoration of the Lord, in this particular context, would, therefore, mean that the Āḻvār should fall in line with the Lord, whose presence in Tiruvāṭṭāṟu forms part of His project of lifting the Āḻvār up to the high Heavens.
 
-
-
-
 ## 10.6.2
 **Tamil text and transliteration:**
 
@@ -150,9 +141,6 @@ And Nāraṇaṉ, Our Liege-Lord, we have attained.
 **Notes:**
 
 This song is but a continuation of the Āḻvār’s dialogue with his mind, Questioned by the mind as to why the Āḻvār gloated over the grace of the Lord, as if it was something extra-ordinary, instead of looking upon it merely as the Lord’s response, rather belated, to the request made by him, right from the opening song of his very first hymnal, namely, Tiruviruttam, the Āḻvār disabuses it of its wrong notions, Well, the Āḻvār had merely prayed for deliverance from this foul body, purged of all his grossness, while what actually materialised, due to the influx of the Lord’s extraordinary grace, is, as listed in this song, namely, eradication of his age-long sins, lauding the Lord through a spate of songs, comprised in his four hymnals, severance of contacts with the worldlings and attainment of Lord Śrīman Nārāyaṇa. The Āḻvār would want his mind to take due note of all these and acknowledge the immensity of the Lord’s bounty. By exhibiting the enthralling charm of His locks of hair, the Lord attracted the Āḻvār and the latter poured out his heart unto Him through many a scintillating song. Was it not the Lord’s unique grace which made the Āḻvār laud Him, instead of falling in line with his fellow-beings, in this land, rampant with rant and adulation, glorifying the frail humans, with all their dirt and devilry? The sycophants themselves are fully aware of the unworthiness of the men they adore and yet they indulge in such unpardonable white lies, all for the sake of petty gains and eking out their livelihood. And what more? To the list of favours conferred on the Āḻvār has also been added his complete severance from the men around, steeped miserably in the erroneous notions of ‘I-ness’ and ‘My-ness’. And then, the finale comes, namely, the attainment of the Eternal Friend and Relation, the Supreme Lord—Śrīman Nārāyaṇa, to the rigid and total exclusion of those parasites, the artificial, earthly relations.
-
-
-
 
 ## 10.6.3
 **Tamil text and transliteration:**
@@ -184,9 +172,6 @@ Well, these deeds of His do my expectations far exceed!
 
 Well, seeing that the creature is but the Creator’s great gain, the latter’s anxiety to reclaim the former, seeking his willing co-operation is quite understandable. Again, in the work-a-day world, when we seek the good offices of some one for the accomplishment of a particular task, we find that his actual performance falls far short of our expectations and so, we have to do our own bit also. But that is not the case with the Lord whose bounty surpasses even our dreamy expectations.
 
-
-
-
 ## 10.6.4
 **Tamil text and transliteration:**
 
@@ -216,9 +201,6 @@ Favours fresh, indeed an act of grace galore!
 \(ii\) The Āḻvār’s mind, steeped, for ages, in sensual pleasures, was taken possession of. by the Lord, at the appropriate moment, and there He established Himself firmly lest He should be denied re-entry into the Āḻvārs mind, once He got out of it. Well, what was all this herculean effort for, on the part of the Lord? Here is the answer: It was from this vantage point that the Lord sang ‘Tiruvāymoḻi’, these songs, *par excellence*, chaste and elegant, syntactically perfect, setting the pace for future grammarians to emulate and enjoy. The authorship of ‘Tiruvāymoḻi’ is thus clearly ascribed to the Lord Himself.
 
 \(iii\) Lord Kṛṣṇa controlled and conducted the military strategy of the great war of Mahābhāratha, at every turn. Once, it so happened that the horses of the Pāṇḍava army were almost dying of thirst and there was no water near at hand. The Lord, who could divine the presence of water even in rocky soil, drew forth plentiful supply of water from the bosom of the earth and retrieved what seemed to be a forlorn situation beyond remedy. Naturally, the Lord’s presence on the battlefield, as a partisan of the Pāṇḍavas, ever ready to surmount difficulties of whatever magnitude, struck terror in the hearts of the kings ranged on the side of the Kauravas, and they sank down, with diffidence.
-
-
-
 
 ## 10.6.5
 **Tamil text and transliteration:**
@@ -250,9 +232,6 @@ Who roams about on His lovely mount, the Garuḍa.
 
 But then, it might be asked whether the Āḻvār should not have done all this jeering at ‘Saṃsāra’, his erstwhile comrade of ages, from the yonder side of Heaven, instead of doing it, while he is still in this land. Well, the Āḻvār has not the slightest doubt about his impending ascent to Heaven and actually, he has before him the glorious vision of the Lord sporting the honey-studded tuḻaci garlands, mounted on Garuḍa. The Āḻvār is indeed amazed at that he bears on his head the feet of the Lord, although He is mounted aloft, on Garuḍa’s hefty back.
 
-
-
-
 ## 10.6.6
 **Tamil text and transliteration:**
 
@@ -283,9 +262,6 @@ Of the Lord by Whom the monstrous elephant was slain.
 
 \(iii\) The slaying of Kuvalayāpīḍam, the formidable elephant in must set upon Lord Kṛṣṇa by the tyrannical Kaṃsa, by the Lord pulling out its tusks, signifies the riddance by the Lord of all ills and evils, the impediments in the way of the Āḻvār attaining Him.
 
-
-
-
 ## 10.6.7
 **Tamil text and transliteration:**
 
@@ -310,9 +286,6 @@ Surrounded by the Sea whose waves in numbers swell.
 **Notes:**
 
 In the preceding song, the Āḻvār said that he had attained the Lord’s valorous feet and now he repeats it authoritatively, adducing the evidence to prove his statement. The Āḻvār’s body smells sweet, exuding the fragrance of tuḻaci and this would be possible only if he came in close contact with the Lord at whose lotus feet there is the tuḻaci, with its profusion of perfume c.f. VIII-9-10, where the Parāṅkuśa Nāyakī’s (Āḻvār transformed figuratively into a female lover) mate conclusively proves to the elders around, the union of the Nāyakī with the Lord, enshrined in Kuṭṭanāṭṭu Tiruppuliyūr, from the fragrance of tuḷaci emanating from her body.
-
-
-
 
 ## 10.6.8
 **Tamil text and transliteration:**
@@ -345,9 +318,6 @@ It is indeed interesting that the Lord’s discus performs its job with push-but
 
 \(iii\) Unable to discover any good in him even by extra-liberal standards, not even anything bearing the semblance thereof, the Āḻvār is aghast with wonder at the Lord’s great gesture.
 
-
-
-
 ## 10.6.9
 **Tamil text and transliteration:**
 
@@ -373,9 +343,6 @@ Stays forever in my despicable heart, with no disgust?
 \(i\) Surely, it is the farthest limit up to which the Lord’s love for His devotees could go; the Lord has chosen to stay firmly and, for ever, in the Āḻvār’s despicable heart, without the slightest disgust or uneasiness.
 
 \(ii\) The Lord, Who has got lodged on His winsome chest Lakṣmī, the Goddess of affluence, stays in cool Tiru-vāṭṭāṟu, with Garuḍa, famed as the very embodiment of Vedas, as His favourite mount. And yet, one of such peerless eminence has chosen to stay, firm and fast, in the Āḻvār’s heart, as if He has nowhere else to go, rather, does not like to go anywhere else. What is at the bottom of this massive love of the Lord? Well, this is what is exercising the Āḻvār’s mind at the moment.
-
-
-
 
 ## 10.6.10
 **Tamil text and transliteration:**
@@ -405,9 +372,6 @@ Unto those that remain as vassals of the great ones.
 
 \(ii\) It has been clearly elucidated in the episode of Kṣatrabandhu, occurring in ‘Viṣṇudharma’, how those blest by the ‘Mahātmās’, the great ones, are doled out rich benefits of rare magnitude. These mighty donors are not weighed down by considerations of either the pettiness of their recipients or the greatness of the benefits granted to them. In other words, these great souls do not shrink back and withhold their bounty, looking at the rich, intrinsic value of their gifts vis-a-vis the poor stature of the donees. As a matter of fact, even Prahlāda did not enjoy the proud privilege, conferred by the Lord on the Āḻvār, of singing ‘Tiruvāymoḻi’. Little wonder then, the Āḻvār deems it an unattainable gain attained by him, a rare piece of service, graciously assigned to him by the Lord.
 
-
-
-
 ## 10.6.11
 **Tamil text and transliteration:**
 
@@ -434,6 +398,4 @@ Will unto the ears of the Celestials be a treat insatiable.
 \(i\) This end-song, which usually details the benefits accrued to the chanters of the songs, in this decad, says that these songs will feast the ears of the Celestials, in Heaven sumptuously and that they will never feel satiated. On the face of it, this sounds like a departure from the general pattern of the end-songs of the other decads. But it is not so. What is actually meant to be conveyed by this song is that the chanters of this decad will surely go to Heaven and there again recite these ten songs, much to the delectation of the ‘Nityas’ (Eternal heroes) and ‘Muktas’ (released souls) over there, who would want to hear these songs, over and over again, without satiety.
 
 \(ii\) Unlike Tonṭaraṭippoṭi Āḻvār, who concludes his ‘Tirumālai’, the hymnal garland comprising forty-five songs, referring to them, in all humility, as petty and immature, Nammāḻvār speaks of Tiruvāymoḻi, in such glorious terms as ‘Ceñcol’ (choice diction, sweet and chaste), a grand treat indeed, even to the exalted denizens of the Eternal Land who go into raptures the very moment these songs fall on their ears. The Āḻvār is but the mouth-piece of the Lord, Who sang these songs through His chosen medium. So sweet and scintillating are these songs that they throw the very medium into raptures. In this particular decad, the Lord enshrined in Tiruvāṭṭāṟu is depicted as the Grand Deliverer, ready to take the Āḻvār to Heaven, ridding him of the earthly bondage and all that goes with it. Even the chanters of this decad are assured of heavenly ascent and when they reach Heaven, those on the yonder side curiously enquire as to what is going on on earth. The new-comers would naturally refer to Saint Nammāḻvār and his glorious hymns as of outstanding interest, whereupon the heavenly denizens would insist upon listening to these hymns sung by the former. And now, the ball is set in motion and the recital goes on, over and over again, pressed ever more by the incessant demands of the rapturous audience.
-
-
 
