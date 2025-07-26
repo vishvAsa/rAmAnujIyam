@@ -55,29 +55,29 @@ The 10 avatharams are fish, turtle, boar, Vamanan, man-lion, Rama, Parasuraman, 
 Divyadesams: The Vaishnavaites believe that the Azhvars praised 108 temples, which are called the Divyadesams. Many of these are also names of cities. In other cases, one city might have two, three or more Divyadesams (temples) in it. The Azhvars also call these Thirupadis. The tradition says Thirumangai Azhvar praises the god Maal in 108 Thirupadis. The internet has a list of all the Divyadesams. 105 of the Divyadesams are in India, one is in Nepal and the last two are Thirupaṛkadal (the ocean of milk) and Sri Vaikuṇṭam (Vishnu’s paradise).
 
 Some of the stories of Vishnu in the Divyaprabandham are listed here. There are many others could be found in the Pasurams.
-1. His fight in Lanka with Ravaṇan
-2. Killing Sakaṭasuran who came in the form of a cart,
-3. Killing Kalingan the snake.
-4. Stopping the storm with Govardana mountain.
-5. Killing Hiranyan.
-6. Killing Kamsan, his uncle.
-7. Taking the female form of Mohini to help to gods to receive nectar.
-8. Killing the Asuran Kesi who come in the form of a horse.
-9. Splitting open the mouth of the Asuran who came in the form of a heron..
-10. Killing the two Asurans who came in the form of marudam trees.
-11. Killing an Asuran by throwing a calf.
-12. Killing the evil elephant Kuvalayabeeḍam.
-13. Saving the elephant Gajendra and killing the crocodile that came to kill the elephant.
-14. Killing seven bulls for Nappinnai so he could marry her.
-15. Hurting Sukrachariyaar and Namusi in the sacrifice of Mahabali.
-16. Helping Arjuna in the Bharatha war.
-17. Bringing the earth goddess from the underground.
-18. Straightening the hunch back of the kuni, the servant of a king.
-19. Removing Shiva’s curse and helping to make the head of Brahma fall.
-20. Saving Draupathi in Duriyodana’s assembly.
-21. Killing Vali.
-22. Killing Thadagai.
-23. Killing Baṇasuran.
-24. Killing Puthana
+- 1. His fight in Lanka with Ravaṇan
+- 2. Killing Sakaṭasuran who came in the form of a cart,
+- 3. Killing Kalingan the snake.
+- 4. Stopping the storm with Govardana mountain.
+- 5. Killing Hiranyan.
+- 6. Killing Kamsan, his uncle.
+- 7. Taking the female form of Mohini to help to gods to receive nectar.
+- 8. Killing the Asuran Kesi who come in the form of a horse.
+- 9. Splitting open the mouth of the Asuran who came in the form of a heron..
+- 10. Killing the two Asurans who came in the form of marudam trees.
+- 11. Killing an Asuran by throwing a calf.
+- 12. Killing the evil elephant Kuvalayabeeḍam.
+- 13. Saving the elephant Gajendra and killing the crocodile that came to kill the elephant.
+- 14. Killing seven bulls for Nappinnai so he could marry her.
+- 15. Hurting Sukrachariyaar and Namusi in the sacrifice of Mahabali.
+- 16. Helping Arjuna in the Bharatha war.
+- 17. Bringing the earth goddess from the underground.
+- 18. Straightening the hunch back of the kuni, the servant of a king.
+- 19. Removing Shiva’s curse and helping to make the head of Brahma fall.
+- 20. Saving Draupathi in Duriyodana’s assembly.
+- 21. Killing Vali.
+- 22. Killing Thadagai.
+- 23. Killing Baṇasuran.
+- 24. Killing Puthana
 
 I would like to thank Mr. Venkataraghavan for putting the Divyaprabandham in Tamil on the internet (http://srivaishnavam.com, rmvenkat@yahoo.com). His careful and exacting work has been of enormous help to me in preparing this volume.
