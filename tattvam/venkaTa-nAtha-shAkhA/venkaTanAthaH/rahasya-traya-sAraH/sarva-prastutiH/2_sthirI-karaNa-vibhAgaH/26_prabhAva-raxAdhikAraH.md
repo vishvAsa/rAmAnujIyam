@@ -735,11 +735,56 @@ Por lo tanto, **es apropiado considerar** tales **castigos** como favores especi
 दुःखादिगळुक्कुक् कारणमाऩ प्रारब्धकर्मविशेषत्तै सन्निहितमाऩ कशादिगळैप्पोले तुणैयागक्कॊण्डु पित्रादिगळैप्पोले शिक्षकऩाऩ ईश्वरऩ् सिल कठिनप्रकृतिकळुक्कुप्पण्णुगिऱ अनुग्रहविशेषमिदॆऩ्ऱनुसन्धिक्कै उचितम्।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऒरु व्याधि-विशेषत्तैय् उण्डोव् ऎऩ्ऱु  
+
+राजा केट्क 
+
+> अवरुम् ऒरु उपाध्यायर् उण्ड् 
+
+ऎऩ्ऱु भट्टर् अरुळिच्चॆय्दार्। 
+</details>
+
+<details><summary>English</summary>
+
+When the king asked whether a disease could be (helpful),  
+Bhattar replied that even a disease could be a teacher for us. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el rey **preguntó** si una enfermedad **podría ser** (útil),  
+Bhattar **respondió** que incluso una enfermedad **podría ser** un maestro para nosotros.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऒरु व्याधिविशेषत्तै युण्डोवॆऩ्ऱु राजा केट्क अवरुमॊरु उपाद्ध्यायरुण्डॆऩ्ऱु भट्टररुळिच्चॆय्दार्। 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आयुस्सु वळर्क्क वॊण्णाद बडि  
+नियतायुस्स् आऩ् अवऩुक्कु  
+उळ्ळत्तिल् उद्वेगम् पिऱक्कैक्क् आगवुम्  
+
+अनियतायुस्सुक्कळुक्क् आयुष्-कामीयङ्गळैय् इट्टु वळर्क्क  
+निऩैयामैक्कुम् आग  
+
+दुःखादिगळ् इवऩुक्क् उपाध्यायर्गळ्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+आयुस्सु वळर्क्कवॊण् णादबडि नियतायुस्साऩवऩुक्कु उळ्ळत्तिलुद्वेगम् पिऱक्कैक्कागवुम्अनियतायुस्सुक्कळुक्कायुष्कामीयङ्गळैयिट्टु वळर्क्क निऩैयामैक्कुमाग दुःखादिगळिवऩुक्कुपाद्ध्यायर्गळ्।
+</details>
 
 
-When the king asked whether a disease could be (helpful), Bhattar replied that even a disease could be a teacher for us. Sufferings are teachers to the prapanna, because, if his term of life is already unalterably fixed, they would create repentance in the mind and if his term of life could be extended, they would teach him not to desire extension of life. This is well-known in such instances as Kurathalvan[^77]
+Sufferings are teachers to the prapanna, because,  
+if his term of life is already unalterably fixed,  
+they would create repentance in the mind and if his term of life could be extended, they would teach him not to desire extension of life. This is well-known in such instances as Kurathalvan[^77]
 
 The sufferings are intended only to reveal, to some, their offences with their consequences and then conceal them in order to create utter disgust, disgust like that of Perialvar who says:--- "My mind cannot bear the thought of living in saṁsāra, which is like living in a house in the roof of which there is a serpent," so that thereby they, too, might long for the release from saṁsāra which Iśvara has made up His mind to confer on them. In such contexts, the aspect of the experience of sorrow or pain is the fruit of evil deeds (in the past). The correction that ensures and that generates (the desire for) performing prāyaścitta is the fruit of the upāya, viz. prapatti.
 
