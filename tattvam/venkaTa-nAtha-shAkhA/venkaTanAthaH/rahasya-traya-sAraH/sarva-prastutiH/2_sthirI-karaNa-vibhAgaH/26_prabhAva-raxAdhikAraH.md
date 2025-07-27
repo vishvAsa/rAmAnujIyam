@@ -996,8 +996,14 @@ Le **enseñarían** a **no desear** la **extensión** de la vida.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदु आऴ्वाऩ्-उळ्ळिट्टार् बक्कलिले प्रसिद्धम्। 
+इदु +++(अन्धी-कृत--कूरत्त्-)+++आऴ्वाऩ्-उळ्ळिट्टार् बक्कलिले प्रसिद्धम्। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं +++(अन्धी-कृत--)+++श्रीकूरेश-पर्यन्तेषु प्रसिद्धम्। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1007,14 +1013,13 @@ This is well-known in such instances as Kurathalvan.
 as they would make him look at the objects of sense-pleasures.)
 </details>
 
-Esto es bien conocido en casos como Kurathalvan.
+<details><summary>Español</summary>
 
-(Azhvan al perder la vista de los ojos no volvió a anhelar sus ojos,
-Como lo harían mirar los objetos de las placeres sensoriales).
-(Azhvan on losing his eye-sight did not long for his eyes again,  
-as they would make him look at the objects of sense-pleasures.)
+Esto **es** bien **conocido** en casos como Kurathalvan.
+
+(Azhvan al **perder** la vista de los ojos **no volvió a anhelar** sus ojos,  
+Como lo **harían mirar** los objetos de las placeres sensoriales).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1024,15 +1029,32 @@ as they would make him look at the objects of sense-pleasures.)
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपचारङ्गळैयुम् तत्-फलङ्गळैयुञ्  
-सिलर्क्कुक् काट्टि मऱैक्किऱव् इदुवुम् 
+सिलर्क्कुक् **काट्टि मऱैक्किऱव्** इदुवुम् 
 
-> ’’पाम्बोड् ऒरु कूरैयिले पयिऩ्ऱाऱ् पोले  
-ताङ्गा तुळ्ळन् तळ्ळुम् ऎऩ् तामरैक्-कण्णाव्’’  
+> ’’पाम्बोड् ऒरु कूरैयिले+++(=घास-च्छदे)+++ **पयिऩ्ऱाऱ्**+++(=अभ्यास)+++ पोले  
+**ताङ्गाद्**+++(=असहमानम्)+++ उळ्ळन् **तळ्ळुम्**+++(=नुदेन्)+++ ऎऩ् तामरैक्-कण्णाव्’’  
 (पॆरियदिरुमॊऴि ११-८-३) 
 
-ऎऩ्ऱु निर्वेद-पूर्तियैक् कडुगप् पिऱप्पित्तुत्  
-ताऩ् इसैन्द संसार-निवर्तनत्तैक् कडुगव् इवऩैयुम् इसै विक्कैक्क् आगव् अत्तऩै।
+ऎऩ्ऱु निर्वेद-पूर्तियैक् कडुगप् **पिऱप्पित्तुत्**  
+
+ताऩ्+++(←ईश्वरः)+++ इसैन्द संसार-निवर्तनत्तैक्  
+कडुगव् इवऩैयुम् **इसैविक्कैक्क् आगव्** अत्तऩै।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अपचाराणां तत्-फलानां च  
+केषाञ्चित् प्रदर्शन-पूर्वकं तिरोधापनम् अपि, 
+
+> "सर्पेण सहैकस्मिन् गृहे निवासवद्  
+असहमान मनश् चलेन् मम पद्म-लोचन" 
+
+इति निर्वेद-पूर्तिं झटित्य् **उत्पाद्य**,  
+
++++(ईश्वर-)+++स्वेष्ट-संसार-निवर्तने  
+झटित्य् अस्यापीच्छोत्पादनार्थम् इत्येव । 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1044,8 +1066,17 @@ as they would make him look at the objects of sense-pleasures.)
 
 The sufferings are intended only to reveal, to some,  
 their offences with their consequences  
-and then conceal them in order to create utter disgust,  
-disgust like that of Perialvar who says:--- "My mind cannot bear the thought of living in saṁsāra, which is like living in a house in the roof of which there is a serpent," so that thereby they, too, might long for the release from saṁsāra which Iśvara has made up His mind to confer on them. In such contexts, the aspect of the experience of sorrow or pain is the fruit of evil deeds (in the past). The correction that ensures and that generates (the desire for) performing prāyaścitta is the fruit of the upāya, viz. prapatti.
+and then conceal them  
+in order to create utter disgust,  
+disgust like that of Perialvar who says:--- 
+
+> "My mind cannot bear the thought of living in saṁsāra,  
+which is like living in a house in the roof of which there is a serpent," 
+
+so that thereby they, too, might long for the release from saṁsāra  
+which Iśvara has made up His mind to confer on them. 
+
+In such contexts, the aspect of the experience of sorrow or pain is the fruit of evil deeds (in the past). The correction that ensures and that generates (the desire for) performing prāyaścitta is the fruit of the upāya, viz. prapatti.
 
 Among these, some punishments are the fruit of certain good deeds in the past which have begun to operate (prārabdha). When the crow (Kakasura in the Rāmāyaṇa) fell (at Śrī Rāma's feet) praying for life, the Lord gave him his life; the fruit of his prapatti was full and complete. Even the punishment inflicted on this wicked crow whereby he lost the sight of one eye was not really of the nature of a punishment. It was a special form of favour (because it would prevent him from doing evil again),
 
