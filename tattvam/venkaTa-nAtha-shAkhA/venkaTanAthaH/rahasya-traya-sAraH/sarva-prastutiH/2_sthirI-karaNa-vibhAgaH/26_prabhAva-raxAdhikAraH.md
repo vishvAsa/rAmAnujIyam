@@ -809,7 +809,6 @@ que incluso los dioses **no pueden obtener** ";
 (como **se ha dicho** en estos Ślokas),
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तेन दुःखेन संतप्तो यदि मां न परित्यजेत् । तं प्रसादं करिष्यामि यस्सुरैरपि दुर्लभः’’(भागवतम्) ऎऩ्गिऱबडिगळिले 
@@ -817,11 +816,9 @@ que incluso los dioses **no pueden obtener** ";
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-तं प्रसादं करिष्यामि ऎऩ्बदऱ्कु  
+> तं प्रसादं करिष्यामि 
 
-> मुऩ् तादृश-पुरुष-विषयत्तिल्  
-
-ऎऩ्ऱु कूट्टुवदु।  
+ऎऩ्बदऱ्कु मुऩ् "तादृश-पुरुष-विषयत्तिल्" ऎऩ्ऱु कूट्टुवदु।  
 </details>
 
 
@@ -840,7 +837,6 @@ que incluso los dioses **no pueden obtener** ";
 <details><summary>नीलमेघः (सं)</summary>
 
 [[P356]]  
-
 दुःखादि-कारण-भूतान् प्रारब्ध-कर्म-विशेषान्  
 सन्निहित-कशादीन् इव  
 सहकारित्वेन स्वी-कृत्य पित्रादिभिर् इव  
@@ -876,30 +872,38 @@ Por lo tanto, **es apropiado considerar** tales **castigos** como favores especi
 दुःखादिगळुक्कुक् कारणमाऩ प्रारब्धकर्मविशेषत्तै सन्निहितमाऩ कशादिगळैप्पोले तुणैयागक्कॊण्डु पित्रादिगळैप्पोले शिक्षकऩाऩ ईश्वरऩ् सिल कठिनप्रकृतिकळुक्कुप्पण्णुगिऱ अनुग्रहविशेषमिदॆऩ्ऱनुसन्धिक्कै उचितम्।  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदु –  
+अभ्युपगतान्तर्गतम् आऩ सिल प्रारब्धांशत्तैप् पोक्कामै,  
+अनुग्रहविशेषमॆऩ्ऱ अनुसन्धिक्कै उचितम् ऎऩ्ऱ् अन्वयिप्पदु।  
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऒरु व्याधि-विशेषत्तैय् 
 
-> +++(उपकारकत्वेन)+++ उण्डोव् ऎऩ्ऱु  
+> +++(अयं व्याधिर् युष्मासु)+++ उण्डोव् ऎऩ्ऱु  
 
 राजा केट्क 
 
 > अवरुम् ऒरु उपाध्यायर् उण्ड् 
 
-ऎऩ्ऱु भट्टर् अरुळिच्चॆय्दार्। 
+ऎऩ्ऱु भट्टर् अरुळिच्चॆय्दार्। +++(4)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-\कस्यचिद् व्याधि-विशेषस्य विषये,  
+कस्यचिद् व्याधि-विशेषस्य विषये,  
 
-> किम् अयम् +++(उपकारकत्वेन)+++ अस्ति 
+> किम् अयम् +++(व्याधिर् युष्मासु)+++ अस्ति 
 
 इति राज्ञि पृष्टवति सति,  
 
 > सोऽपि कश्चिद् उपाध्यायो ऽस्ति
 
-इति भट्टा अनुजगृहुः । 
+इति भट्टा अनुजगृहुः । +++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -917,6 +921,21 @@ Bhattar **respondió** que incluso una enfermedad **podría ser** un maestro par
 <details><summary>मूलम्</summary>
 
 ऒरु व्याधिविशेषत्तै युण्डोवॆऩ्ऱु राजा केट्क अवरुमॊरु उपाद्ध्यायरुण्डॆऩ्ऱु भट्टररुळिच्चॆय्दार्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+दुःखङ्गळ् शिक्षाविशेषङ्गळागैयाल् हिदङ्गळॆऩ्बदिल् ओर् ऐदिह्यमरुळिच् चॆय्गिऱार् ऒरु व्याधिविशेषत्तै इत्यादिना ।  
+
+> ऒरु राजा ऒरु व्याधिविशेषत्तै निर्देशित्तु  
+इदु देवरीरुक्क् उण्डोव् ऎऩ्ऱु भट्टरैक् केट्क, 
+> 
+> > अवरुम् ऒरुव् उपाध्यायर् उण्ड् 
+> 
+> ऎऩ्ऱु भट्टर् अरुळिच् चॆय्दार्  
+
+ऎऩ्बदु ऐतिह्य-वार्त्तै।  
+सिऱ्ऱ् इऩ्बत्तै अदिगमागआसैप्पडविडादबडि शिक्षकमागैयाल् व्याधियुम् उपाध्यायर् ऎऩ्ऱु करुत्तु।
 </details>
 
 
@@ -967,15 +986,66 @@ Le **enseñarían** a **no desear** la **extensión** de la vida.
 आयुस्सु वळर्क्कवॊण् णादबडि नियतायुस्साऩवऩुक्कु उळ्ळत्तिलुद्वेगम् पिऱक्कैक्कागवुम्अनियतायुस्सुक्कळुक्कायुष्कामीयङ्गळैयिट्टु वळर्क्क निऩैयामैक्कुमाग दुःखादिगळिवऩुक्कुपाद्ध्यायर्गळ्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+व्याधि सिऱ्ऱिऩ्बत्तिऩ् आसैयैत् तडुक्कैयालदै उपाध्यायरॆऩ्ऱु सॊल्ललामागिलुम् प्रपन्नऩुक्कु उत्तरकालत्तिल् वरुम् दुःखङ्गळ् उपाध्यायर्गळागक् कूडुमोवॆऩ्ऩवरुळिच् चॆय्गिऱार् आयुस्सु वळर्क्कवॊण्णादबडि इत्यादिना । 
+
+नियतेत्यादि । मनुष्यर्गळ् नियतायुस्सुक्कळॆऩ्ऱुम् अनियतायुस्सुक्कळॆऩ्ऱु इरुवगैप्पट्टवर्गळ्। अदिल् नियतायुस्सुक्कळ् आयुष्यहोमादिगळालुम् वळर्क्कमुडियादबडि ज्योतिषर्गळाल् इव्वळवे इवऩुक्कु आयुस्सॆऩ्ऱु सॊल्लप्पट्ट आयुस्सैयुडैयवर्गळ्। अनियतायुस्सुक्कळावार्, आयुष्कामेष्ट्यादिगळैप् पण्णिऩाल् वळरुमा युस्सैयुडैयवर्गळ्। अदावदु इवऩुक्कु इरुबदावदु वयदिल् गण्डम्; आयुष्यहोमादिगळाले अन्द गण्डम् तप्पिऩाल् नाऱ्पदावदु वयदिल् गण्डम्; अदुवुम् शान्त्यादिगळाले तप्पिऩाल् ऐम्बत्तैन्दिल् गण्डम् ऎऩ्ऱु ज्योतिषर्गळ् सॊऩ्ऩाल्, अवर्गळ् सॊऩ्ऩबडि आयुष्कामेष्ट्यादिगळाले वळर्न्दुवरुमायुस् सैयुडैयवर्। अदिल् आयुष्कामीयङ्गळालुम् वळर्क्कमुडियाद नियतायुस्सुक्कळुक्कु इन्द आयुस्सुक्कुळ्ळेये उद्वेगम् पिऱक्कैक्कुम्, अदावदु भीतिपिऱक्कैक्कुम्, मऱ्ऱ अनियतायुस्सुक्कळ् आयुस्सै वळर्क्क निऩैयामैक्क् आगवुम् ऎऩ्गै। 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु आऴ्वाऩ्-उळ्ळिट्टार् बक्कलिले प्रसिद्धम्। 
+</details>
+
+<details><summary>English</summary>
 
 This is well-known in such instances as Kurathalvan.
 
 (Azhvan on losing his eye-sight did not long for his eyes again,  
 as they would make him look at the objects of sense-pleasures.)
+</details>
 
-The sufferings are intended only to reveal, to some, their offences with their consequences and then conceal them in order to create utter disgust, disgust like that of Perialvar who says:--- "My mind cannot bear the thought of living in saṁsāra, which is like living in a house in the roof of which there is a serpent," so that thereby they, too, might long for the release from saṁsāra which Iśvara has made up His mind to confer on them. In such contexts, the aspect of the experience of sorrow or pain is the fruit of evil deeds (in the past). The correction that ensures and that generates (the desire for) performing prāyaścitta is the fruit of the upāya, viz. prapatti.
+Esto es bien conocido en casos como Kurathalvan.
+
+(Azhvan al perder la vista de los ojos no volvió a anhelar sus ojos,
+Como lo harían mirar los objetos de las placeres sensoriales).
+(Azhvan on losing his eye-sight did not long for his eyes again,  
+as they would make him look at the objects of sense-pleasures.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु आऴ्वाऩुळ्ळिट्टार्बक्कलिले प्रसिद्धम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपचारङ्गळैयुम् तत्-फलङ्गळैयुञ्  
+सिलर्क्कुक् काट्टि मऱैक्किऱव् इदुवुम् 
+
+> ’’पाम्बोड् ऒरु कूरैयिले पयिऩ्ऱाऱ् पोले  
+ताङ्गा तुळ्ळन् तळ्ळुम् ऎऩ् तामरैक्-कण्णाव्’’  
+(पॆरियदिरुमॊऴि ११-८-३) 
+
+ऎऩ्ऱु निर्वेद-पूर्तियैक् कडुगप् पिऱप्पित्तुत्  
+ताऩ् इसैन्द संसार-निवर्तनत्तैक् कडुगव् इवऩैयुम् इसै विक्कैक्क् आगव् अत्तऩै।
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपचारङ्गळैयुम् तत्फलङ्गळैयुञ् जिलर्क्कुक्काट्टि मऱैक् किऱविदुवुम् ’’पाम्बोडॊरु कूरैयिले पयिऩ्ऱाऱ्पोले ताङ्गा तुळ्ळन् दळ्ळुमॆऩ्दामरैक्कण्णाव्’’(पॆरियदिरुमॊऴि ११-८-३) ऎऩ्ऱु निर्वेदपूर्तियैक् कडुगप् पिऱप्पित्तुत् ताऩिसैन्द संसार निवर्तनत्तैक् कडुगविवऩैयु मिसैविक्कैक्कागवत्तऩै।
+</details>
+
+
+
+
+The sufferings are intended only to reveal, to some,  
+their offences with their consequences  
+and then conceal them in order to create utter disgust,  
+disgust like that of Perialvar who says:--- "My mind cannot bear the thought of living in saṁsāra, which is like living in a house in the roof of which there is a serpent," so that thereby they, too, might long for the release from saṁsāra which Iśvara has made up His mind to confer on them. In such contexts, the aspect of the experience of sorrow or pain is the fruit of evil deeds (in the past). The correction that ensures and that generates (the desire for) performing prāyaścitta is the fruit of the upāya, viz. prapatti.
 
 Among these, some punishments are the fruit of certain good deeds in the past which have begun to operate (prārabdha). When the crow (Kakasura in the Rāmāyaṇa) fell (at Śrī Rāma's feet) praying for life, the Lord gave him his life; the fruit of his prapatti was full and complete. Even the punishment inflicted on this wicked crow whereby he lost the sight of one eye was not really of the nature of a punishment. It was a special form of favour (because it would prevent him from doing evil again),
 
