@@ -895,7 +895,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 इत्य् आदित्याय दर्शयित्वा 
   
-> अव॑धूत॒ँ ॒रक्षोऽव॑धूता॒ आरा॑तयः
+> अव॑धूतँ॒ ॒रक्षोऽव॑धूता॒ आरा॑तयः
 
 इत्य् अवधूय 
 
@@ -1178,7 +1178,7 @@ The structure and the emanations of the Sāvitrī as per the Atharvan tradition
 
 इत्य् आदित्याय दर्शयित्वा - 
 
-> अव॑धूत॒ँ॒ रक्षोऽव॑धूता॑ अरा॑तयः
+> अव॑धूतँ॒ रक्षोऽव॑धूता॑ अरा॑तयः
 
 इत्य् अवधूय - 
 
