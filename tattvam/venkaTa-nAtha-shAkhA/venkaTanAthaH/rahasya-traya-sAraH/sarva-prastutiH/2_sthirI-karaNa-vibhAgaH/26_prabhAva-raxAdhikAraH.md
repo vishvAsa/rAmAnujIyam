@@ -1168,12 +1168,12 @@ En tales contextos, el aspecto de la **experiencia** de la tristeza o el dolor
 
 इदु +++(निर्वेदादि-)+++शिक्षणम् आगिऱदुवुम्  
 प्रायश्चित्तत्तिले मूट्टुगिऱदुवुम्  
-उपाय-फलम् +++(←अनुग्रह-सङ्कल्पः)+++। +++(4)+++
+उपाय-फलम् +++(←अनुग्रह-सङ्कल्प-विशेषः)+++। +++(4)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-अस्य +++(निर्वेदादि-)+++शिक्षण-रूपत्वं प्रायश्चित्त-वृत्ति-जनकत्वं चोपायफलम् +++(←अनुग्रह-सङ्कल्पः)+++। 
+अस्य +++(निर्वेदादि-)+++शिक्षण-रूपत्वं प्रायश्चित्त-वृत्ति-जनकत्वं चोपायफलम् +++(←अनुग्रह-सङ्कल्प-विशेषः)+++। 
 </details>
 
 
@@ -1204,9 +1204,89 @@ La **corrección** que **asegura** y que **genera** (el deseo de) **realizar** p
 आगैयाल् प्रपन्नऩुक्कु दुष्कर्मफलम् आऩ दुःखानुभवमुम्, उपायपलङ्गळाऩ अंशद्वयङ्गळोडु कूडिऩबडियाल् अदैय् अनुग्रहकार्यम् ऎऩ्ऱे सॊल्ललामॆऩ्ऱु तिरुवुळ्ळम्।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
- 
-Among these, some punishments are the fruit of certain good deeds in the past which have begun to operate (prārabdha). When the crow (Kakasura in the Rāmāyaṇa) fell (at Śrī Rāma's feet) praying for life, the Lord gave him his life; the fruit of his prapatti was full and complete. Even the punishment inflicted on this wicked crow whereby he lost the sight of one eye was not really of the nature of a punishment. It was a special form of favour (because it would prevent him from doing evil again),
+इवऱ्ऱिल् सिल शिक्षणादिगळ् प्रारब्ध--सु-कृत--विशेष-फलम् आयुम् वरुम्।
+</details>
+
+<details><summary>English</summary>
+
+Among these, some punishments are the fruit of certain good deeds in the past which have begun to operate (prārabdha). 
+</details>
+
+<details><summary>Español</summary>
+
+Entre estos, algunos **castigos son** el fruto de ciertas buenas **obras** en el pasado que **han comenzado** a **operar** (Prārabdha).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिल् सिल शिक्षणादिगळ् प्रारब्धसुकृतविशेषफलमायुम् वरुम्।
+</details>
+
+#### काकोदाहरणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राणार्थिय् आय् विऴुन्द काकत्तुक्कु  
+प्राणऩैक् कॊडुक्कैयाले  
+अङ्गुम् प्रपत्ति-फलम् पूर्णम्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+When the crow (Kakasura in the Rāmāyaṇa) fell (at Śrī Rāma's feet) praying for life,  
+the Lord gave him his life;  
+the fruit of his prapatti was full and complete. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el cuervo (kakasura en el rāmāyaṇa) cayó (a los pies de Śrī Rāma) **rezando** por la vida,  
+El Señor **le dio** su vida;  
+El fruto de su Prapatti **estaba lleno** y **completo**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राणार्थियाय् विऴुन्द कागत्तुक्कु प्राणऩैक्कॊडुक्कैयाले अङ्गुम् प्रपत्तिफलम् पूर्णम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दुष्-प्रकृतिय् आऩव् इक्-काकत्तुक्कु  
+शिक्षैय् आगव् ऒरु कण्णै वाङ्गि-विट्टदुवुम्  
+निग्रहम् अऩ्ऱु; अनुग्रह-विशेषम्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Even the punishment inflicted on this wicked crow  
+whereby he lost the sight of one eye  
+was not really of the nature of a punishment.  
+It was a special form of favour  
+(because it would prevent him from doing evil again).
+</details>
+
+<details><summary>Español</summary>
+
+Incluso el **castigo infligido** a este malvado cuervo  
+por el cual **perdió** la **vista** de un ojo  
+**no era** realmente de la naturaleza de un **castigo**.  
+**Era** una forma especial de favor  
+(porque le **impediría volver a hacer** el mal).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दुष्प्रकृतियाऩ विक्कागत्तुक्कु शिक्षैयागवॊरु कण्णै वाङ्गिविट्टदुवुम्निग्रहमऩ्ऱु; अनुग्रहविशेषम्। 
+</details>
+
+
+
 
 Therefore just as we learn that the Lord's punishment, which is brought about by sins committed in an instant (but) which make the sinner wallow in Hell till the great dissolution (Bramā Pralaya), has great potency, so also we should learn that the special form of praṇāma to Śrī Kṛṣṇa which is called [^78] sukrita pranāma has great potency, for it has been said: "A single praṇāma to Śrī Kṛṣṇa enables a man who wanders about in the wild and trackless forest of saṁsāra to reach the boundary called mokṣa" and also : “ Would it be right to say that a single sukrita pranāma  to Śrī Kṛṣṇa is equal to ten horse sacrifices ? (No). The man who has performed ten horse sacrifices returns again to (saṁsāra), but the man who has performed 'praṇāma to Śrī Kṛṣṇa never returns". In accordance with the truths revealed in these ślokas, we should interpret the following texts without circumscribing the potency of prapatti, in so far as it does not conflict with the meaning of the śāstra :.- "He who performs prapatti only once and says, “I am Thine"-to him I grant freedom from fear of all beings. This is my vow", " If you are afraid of sin, O Bharata, desist from all action and remain with the thought that Nārāyaṇa is alone the object to be attained by all possible means ", and “Even if a man born of a low caste performs prapatti to the Lord and that only once, the Lord protects him even if he has murdered his father and mother",
 
