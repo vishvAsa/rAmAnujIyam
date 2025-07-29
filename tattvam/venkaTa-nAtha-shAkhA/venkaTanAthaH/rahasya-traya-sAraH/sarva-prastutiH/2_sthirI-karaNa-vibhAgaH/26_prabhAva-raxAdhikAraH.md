@@ -1176,7 +1176,6 @@ En tales contextos, el aspecto de la **experiencia** de la tristeza o el dolor
 अस्य +++(निर्वेदादि-)+++शिक्षण-रूपत्वं प्रायश्चित्त-वृत्ति-जनकत्वं चोपायफलम् +++(←अनुग्रह-सङ्कल्प-विशेषः)+++। 
 </details>
 
-
 <details><summary>English</summary>
 
 The correction that ensures and that generates (the desire for) performing prāyaścitta  
@@ -1209,6 +1208,13 @@ La **corrección** que **asegura** y que **genera** (el deseo de) **realizar** p
 इवऱ्ऱिल् सिल शिक्षणादिगळ् प्रारब्ध--सु-कृत--विशेष-फलम् आयुम् वरुम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र कानिचित् शिक्षणादीनि -  
+प्रारब्ध--सु-कृत--विशेष-फलन्य् अपि स्युः । 
+</details>
+
+
 <details><summary>English</summary>
 
 Among these, some punishments are the fruit of certain good deeds in the past which have begun to operate (prārabdha). 
@@ -1232,6 +1238,13 @@ Entre estos, algunos **castigos son** el fruto de ciertas buenas **obras** en el
 प्राणऩैक् कॊडुक्कैयाले  
 अङ्गुम् प्रपत्ति-फलम् पूर्णम्। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्राणार्थिने पतिताय काकाय प्राणप्रदानात्  
+तत्रापि प्रपत्ति-फलं पूर्णम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1261,6 +1274,13 @@ El fruto de su Prapatti **estaba lleno** y **completo**.
 निग्रहम् अऩ्ऱु; अनुग्रह-विशेषम्। +++(4)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+दुष्-प्रकृतेर् अस्य काकस्य शिक्षा-रूपेणैकस्याक्ष्णो विनाशनम् अपि न निग्रहः,  
+किं तु - अनुग्रह विशेष एव ।
+</details>
+
+
 <details><summary>English</summary>
 
 Even the punishment inflicted on this wicked crow  
@@ -1285,18 +1305,671 @@ por el cual **perdió** la **vista** de un ojo
 दुष्प्रकृतियाऩ विक्कागत्तुक्कु शिक्षैयागवॊरु कण्णै वाङ्गिविट्टदुवुम्निग्रहमऩ्ऱु; अनुग्रहविशेषम्। 
 </details>
 
+## स्तुतेर् याथार्थ्यावधिः
+### क्षण-कृते महा-निग्रहवत्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् आभूत-संप्लवं नरकत्तिले किडक्कुम् पडि  
+क्षण-कृत-पाप-कर्मङ्गळ्-उडैय प्रभावम् आऩ भगवन्-निग्रह-विशेषत्तै **इसैन्दाऱ्** पोलवुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२५७]] 
+
+अतः आभूत-संप्लवं नरक-वास-प्रयोजक-- क्षण-कृत-पाप-कर्म-प्रभाव-भूत-- भगवन्-निग्रह-विशेष-अभ्युपगमवत्,
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore just as we learn that the Lord's punishment,  
+which is brought about by sins committed in an instant  
+(but) which make the sinner wallow in Hell till the great dissolution (Bramā Pralaya),  
+has great potency, 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, tal como **aprendemos** que el **castigo** del Señor,  
+que **es provocado** por los pecados **cometidos** en un instante  
+(pero) que **hace** que el **pecador revolotee** en el infierno hasta que la gran **disolución** (Bramā pralaya),  
+**tiene** gran potencia,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् आभूतसंप्लवम् नरकत्तिले किडक्कुम् पडि क्षणकृतपापकर्मङ्गळुडैय प्रभावमाऩ भगवन्निग्रहविशेषत्तै इसैन्दाऱ् पोलवुम्, 
+</details>
+
+### नमस्-कार-स्तुतिवत्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘दुर्ग-संसार-कान्तारम्  
+अपारम् **अभिधावताम्** ।  
+एकः कृष्ण-नमस्-कारो  
+मुक्ति-तीरस्य **देशिकः**॥’’  
+(विष्णुधर्मः १-१८) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘दुर्ग-संसार-कान्तारम्  
+अपारम् **अभिधावताम्** ।  
+एकः कृष्ण-नमस्-कारो  
+मुक्ति-तीरस्य **देशिकः**॥’’  
+(विष्णुधर्मः १-१८) 
+
+इति,
+</details>
+
+<details><summary>विषयः</summary>
+
+भक्तिः, नमस्कारः
+</details>
+
+<details><summary>English</summary>
+
+for it has been said: 
+
+> "A single praṇāma to Śrī Kṛṣṇa  
+enables a man who wanders about in the wild and trackless forest of saṁsāra  
+to reach the boundary called mokṣa" 
+</details>
+
+<details><summary>Español</summary>
+
+porque **se ha dicho**:
+
+> "Un solo **praṇāma** a Śrī Kṛṣṇa  
+**Permite** a un hombre que **deambula** en el bosque salvaje y sin pista de Saṁsāra  
+Para **llegar** al límite **llamado** mokṣa "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘दुर्गसंसारकान्तारमपारमभिधावताम् । एकः कृष्णनमस्कारो मुक्तितीरस्य देशिकः’’(विष्णुधर्मः १-१८) ऎऩ्ऱुम्, 
+</details>
+ 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘एकोऽपि कृष्णे सुकृतः प्रणामो  
+दशाश्वमेधावभृथेन तुल्यः? ।  
++++(न!, यतः-)+++ दशाश्वमेधी पुनर् एति जन्म  
+कृष्ण-प्रणामी न पुनर्-भवाय॥’’  
+(भारतम् शान्ति-पर्व ४६-१६३) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘एकोऽपि कृष्णे सुकृतः प्रणामो  
+दशाश्वमेधावभृथेन तुल्यः? ।  
++++(न!, यतः-)+++ दशाश्वमेधी पुनर् एति जन्म  
+कृष्ण-प्रणामी न पुनर्-भवाय॥’’  
+(भारतम् शान्ति-पर्व ४६-१६३) 
+
+इति च 
+</details>
+
+
+<details><summary>English</summary>
+
+and also : 
+
+> “ Would it be right to say that a single sukrita pranāma  to Śrī Kṛṣṇa is equal to ten horse sacrifices ? (No).  
+The man who has performed ten horse sacrifices returns again to (saṁsāra),  
+but the man who has performed praṇāma to Śrī Kṛṣṇa never returns". 
+</details>
+
+<details><summary>Español</summary>
+
+Y también:
+
+> “¿**Sería** correcto **decir** que una sola sukrita **pranāma** a Śrī Kṛṣṇa **es** igual a diez **sacrificios** de caballos? (No).  
+El hombre que **ha realizado** diez sacrificios de caballos **regresa** nuevamente a (Saṁsāra),  
+Pero el hombre que **ha realizado** praṇāma a Śrī Kṛṣṇa **nunca regresa** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘एकोऽपि कृष्णे सुकृतः प्रणामो दशाश्वमेधावभृथेन तुल्यः । दशाश्वमेधी पुनरेति जन्म कृष्णप्रणामी न पुनर्भवाय’’(भारतम् शान्ति-पर्व ४६-१६३) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुकृत-प्रणाम-विशेषत्तिऩ्-उडैय प्रभावत्तै इसैन्दाऱ्-पोलवुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सुकृत-प्रणाम-विशेष-प्रभावाभ्युपगमवत्, 
+</details>
+
+
+<details><summary>English</summary>
+
+so also we should learn that  
+the special form of praṇāma to Śrī Kṛṣṇa which is called sukrita pranāma  
+has great potency. 
+
+(Sukṛta praṇāma consists in  
+folding the two hands in añjali thrice  
+and in performing aṣṭāṅga namaskāram twelve times touching the ground with the brow, the nose, the eyes and the cheeks.)
+
+In accordance with the truths revealed in these ślokas, 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces también **deberíamos aprender** que  
+La forma especial de praṇāma**** a śrī kṛṣṇa que **se llama** sukrita pranāma  
+**tiene** gran potencia.
+
+(Sukṛta praṇāma **consiste** en  
+**doblando** las dos manos en Añjali tres veces   
+y al **realizar** aṣṭāṅga namaskāram doce veces  
+**tocando** el suelo con la frente, la nariz, los ojos y las mejillas).
+
+De acuerdo con las verdades **reveladas** en estos Ślokas,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सुकृतप्रणामविशेषत्तिऩुडैय प्रभावत्तै इसैन्दाऱ्पोलवुम्, 
+</details>
+
+### शास्त्राविरोधे प्रभावासङ्कोचः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘सकृदेव प्रपन्नाय’’(रामायणम् युद्ध-काण्डम् १८-३३), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सकृदेव प्रपन्नाय’’(रामायणम् युद्ध-काण्डम् १८-३३), 
+</details>
+
+<details><summary>English</summary>
+
+> "He who performs prapatti only once and says,  
+“I am Thine"-  
+to him I grant freedom from fear of all beings.  
+This is my vow", 
+</details>
+
+<details><summary>Español</summary>
+
+> "El que **realiza** Prapatti solo una vez y **dice**:  
+"Yo **soy** tuyo"-   
+Para él **otorgo** libertad del miedo a todos los seres.  
+Este **es** mi voto ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सकृदेव प्रपन्नाय’’(रामायणम् युद्ध-काण्डम् १८-३३), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अथ पातक-भीतस् त्वं’’ (विष्णुधर्मः ६६-७२), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अथ पातक-भीतस् त्वं’’ (विष्णुधर्मः ६६-७२), 
+</details>
+
+<details><summary>English</summary>
+
+> "If you are afraid of sin, O Bharata,  
+desist from all action  
+and remain with the thought that Nārāyaṇa is alone the object to be attained by all possible means ", 
+</details>
+
+<details><summary>Español</summary>
+
+> "Si **tienes** miedo al pecado, oh bharata,  
+**desistir** de toda **acción**  
+y **permanecer** con la idea de que Nārāyaṇa **está** solo el objeto  
+que **se alcanza** por todos los medios posibles ",
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अथ पातकभीतस्त्वं’’(विष्णुधर्मः ६६-७२), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘कुयोनिष्व् अपि सञ्जातो  
+यस् सकृच् छरणङ्गतः’’  
+(सनत्कुमारसंहिता) 
+
+इत्य्-आदिगळिऱ् सॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘कुयोनिष्व् अपि सञ्जातो  
+यस् सकृच् छरणङ्गतः’’  
+(सनत्कुमारसंहिता) 
+
+इत्य्-आद्य्-उक्त-रीत्या  
+</details>
 
 
 
-Therefore just as we learn that the Lord's punishment, which is brought about by sins committed in an instant (but) which make the sinner wallow in Hell till the great dissolution (Bramā Pralaya), has great potency, so also we should learn that the special form of praṇāma to Śrī Kṛṣṇa which is called [^78] sukrita pranāma has great potency, for it has been said: "A single praṇāma to Śrī Kṛṣṇa enables a man who wanders about in the wild and trackless forest of saṁsāra to reach the boundary called mokṣa" and also : “ Would it be right to say that a single sukrita pranāma  to Śrī Kṛṣṇa is equal to ten horse sacrifices ? (No). The man who has performed ten horse sacrifices returns again to (saṁsāra), but the man who has performed 'praṇāma to Śrī Kṛṣṇa never returns". In accordance with the truths revealed in these ślokas, we should interpret the following texts without circumscribing the potency of prapatti, in so far as it does not conflict with the meaning of the śāstra :.- "He who performs prapatti only once and says, “I am Thine"-to him I grant freedom from fear of all beings. This is my vow", " If you are afraid of sin, O Bharata, desist from all action and remain with the thought that Nārāyaṇa is alone the object to be attained by all possible means ", and “Even if a man born of a low caste performs prapatti to the Lord and that only once, the Lord protects him even if he has murdered his father and mother",
+<details><summary>English</summary>
 
-[^78]: Sukṛta praṇāma consists in folding the two hands in añjali thrice and in performing aṣṭāṅga namaskāram twelve times touching the ground with the brow, the nose, the eyes and the cheeks.
+and 
 
-"The Lord protects him even if he has murdered his father and his mother" - Only when this has not been committed after prapatti, will this śloka not be opposed to the rule concering prayascitta. If it be done after prapatti, we have already shown how redemption could be obtained. In this way also could be easily explained such passages as this :- "Good men protect those who have sought their protection and who pray to them saying, "I am yours", even though they have murdered their fathers".
+> “Even if a man born of a low caste performs prapatti to the Lord  
+and that only once,  
+the Lord protects him even if he has murdered his father and mother",
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> “Incluso si un hombre **nacido** de una casta baja realiza Prapatti al Señor  
+y eso solo una vez,  
+El Señor **lo protege** incluso si **ha asesinado** a su padre y su madre ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘कुयोनिष्वपि सञ्जातो यस्सकृच्छरणङ्गत’’(सनत्कुमारसंहिता) इत्यादिगळिऱ्सॊल्लुगिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-प्रपत्ति-प्रभावत्तैयुम्  
+शास्त्रार्थोपप्लव-प्रसङ्गम् इल्लाद विषयत्तिल् सुरुङ्गादे+++(=असङ्कोच्य)+++  
+अनुसन्धिक्कप् प्राप्तम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्याः प्रपत्तेः प्रभावो ऽपि  
+शास्त्रोपप्लव-प्रसङ्ग-रहित-विषये ऽसंकोचेन अनुसन्धातुं युक्तः ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+we should interpret the ~~following~~ above texts without circumscribing the potency of prapatti,  
+in so far as it does not conflict with the meaning of the śāstra.
+</details>
+
+<details><summary>Español</summary>
+
+**Deberíamos interpretar** los textos anteriores sin **circunscribir** la potencia de Prapatti,  
+en la medida en que **no se confunde** con el **significado** del Śāstra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्प्रपत्तिप्रभावत्तैयुम् शास्त्रार्थोपप्लवप्रसङ्गमिल्लाद विषयत्तिल् सुरुङ्गादे अनुसन्धिक्कप् प्राप्तम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तं माता-पितृ-हन्तारम्  
+अपि पाति भवार्ति-हा।’’  
+(सनत्-कुमार-संहिता) 
+
+ऎऩ्ऱदुवुम् उत्तराघ-विषयम् अल्लाद-बोद् +++(प्रायश्चित्त-विधानादाव्)+++ उपप्लवम् इल्लै।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तं माता-पितृ-हन्तारम्  
+अपि पाति भवार्ति-हा।’’  
+(सनत्-कुमार-संहिता) 
+
+इत्यस्याप्य् उत्तराघ-विषयत्वाभावे नास्त्य् उपप्लवः । 
+</details>
+
+<details><summary>English</summary>
+
+> "The Lord protects him  
+even if he has murdered his father and his mother" -  
+
+Only when this has not been committed after prapatti,  
+will this śloka not be opposed to the rule concering prayascitta. 
+</details>
+
+<details><summary>Español</summary>
+
+> "El Señor lo **protege**  
+Incluso si **ha asesinado** a su padre y a su madre " -
+
+Solo cuando esto **no se ha cometido** después de **Prapatti**,  
+Este Śloka **no se opondrá** a la regla que **acepta** a Prayascitta.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तं मातापितृहन्तारमपि पाति भवार्तिहा’’(सनत्कुमारसंहिता) ऎऩ्ऱदुवुम् उत्तराघविषयमल्लादबोदुपप्लवमिल्लै।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्तराघ-विषयत्तिल् निस्तार-क्रमङ्गळ् मुऩ्बे सॊऩ्ऩोम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उत्तराघ-विषयत्वे निस्तार-क्रमान् पूर्वम् एव अवोचाम ।
+</details>
+
+
+<details><summary>English</summary>
+
+If it be done after prapatti,  
+we have already shown how redemption could be obtained. 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se hace** después de Prapatti,  
+Ya **hemos demostrado** cómo **se podría obtener** la **redención**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उत्तराघविषयत्तिल् निस्तारक्रमङ्गळ् मुऩ्बे सॊऩ्ऩोम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **शरणञ्** च प्रपन्नानां  
+तवास्मीति च **याचताम्** ।  
+**प्रसादं** पितृ-हन्तॄणाम्  
+अपि **कुर्वन्ति** साधवः॥  
+(विष्णुधर्मः १०६-५३) 
+
+इत्य्-आदिगळुम् इप्-पडिक्कु सु-घटितङ्गळ्।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **शरणञ्** च प्रपन्नानां  
+तवास्मीति च **याचताम्** ।  
+**प्रसादं** पितृ-हन्तॄणाम्  
+अपि **कुर्वन्ति** साधवः॥  
+(विष्णुधर्मः १०६-५३) 
+
+इत्यादीन्य् अपि एवं सुघटितानि ॥
+</details>
+
+<details><summary>विषयः</summary>
+
+क्षमा, प्रपत्तिः
+</details>
+
+<details><summary>English</summary>
+
+In this way also could be easily explained such passages as this :- 
+
+> "Good men protect those who have sought their protection  
+and who pray to them saying, "I am yours",  
+even though they have murdered their fathers".
+</details>
+
+<details><summary>Español</summary>
+
+De esta manera, también **podría explicarse** fácilmente de pasajes como este:-
+
+> "Los buenos hombres **protegen** a los que **han buscado** su **protección**  
+y quien les **reza diciendo**: "Yo **soy** tuyo",  
+a pesar de que **han asesinado** a sus padres ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘शरणञ्च प्रपन्नानां तवास्मीति च याचताम् । प्रसादं पितृहन्तॄणामपि कुर्वन्ति साधव’’(विष्णुधर्मः १०६-५३) इत्यादिगळुमिप्पडिक्कु सुघटितङ्गळ्।  
+</details>
+
+
+## अपक्वैस् सङ्गमः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 THE POTENCY OF PRAPATTI.
+</details>
 
-There may be some who are followers of our Viśiṣṭādvaita darśana, who are aspirants to mukti and have sought the protection of Bhagavān through any one of the following paths prescribed in the śāstra, viz., karma  yoga, jñāna yoga, bhakti  yoga or prapatti, but who are still in the earlier stages of yoga like **Yatamana sanjna, when they have just begun to control the senses. On finding in such men certain diseases like desire for money not completely cured, some to whom freedom from all desires is all important (even more than devotion to Bhagavān) would call them ignorant men unfit to be talked to. But this is improper as pointed out in the Bhagavat Śāstra in the sections dealing with the professions followed by those who suffer from poverty. What has been said about those who follow the wrong path should not be applied to those who follow the right path but stumble in it (occasionally). About the former it has been said: "No gifts should be received from those who observe dharma hypocritically for the sake of praise, from rationalists, from heretics and from those who are like cranes (ever bent on catching fish while appearing like one in contemplation): "They are to be considered heretics who consider Bhagavān to be like others. They are unfit for the performance of all (śāstraic) rites", and "Those who wear matted locks as an ornament and who have shaved their heads bat who eat without performing yajna to the gods and the like, who are without any purity and who omit the performance of tarpanas and sraddhas to their forefathers (pitṛs)-even by talking to such persons men go to Hell". (What has been said in these ślokas does not apply to those who have only slipped or stumbled while following the right path).
+<details><summary>मूलम्</summary>
+
+La potencia de Prapatti.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नम् दर्शनत्तिले निलैय्-उडैयर् आय्  
+मुमुक्षुक्कळ् आय्  
+कर्म-ज्ञान-भक्ति-प्रपत्तिगळिल् एदेऩुम् ऒरु शास्त्रीय-मर्यादैयाले  
+भगवत्-प्रवणर् आऩार्क्कु  
+यतमान-संज्ञाद्य्-अवस्थैगळिले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मद्-दर्शने निष्ठावतां मुमुक्षूणां  
+कर्म-ज्ञान-भक्ति-प्रपत्तिषु यया कयाचिच् छास्त्रीय-मर्यादया  
+भगवत्-प्रवणी-भूतानां  
+यतमान-संज्ञाद्य्-अवस्थासु  
+</details>
+
+
+<details><summary>English</summary>
+
+There may be some who are followers of our Viśiṣṭādvaita darśana,  
+who are aspirants to mukti  
+and have sought the protection of Bhagavān through any one of the following paths prescribed in the śāstra,  
+viz., karma  yoga, jñāna yoga, bhakti  yoga or prapatti,  
+but who are still in the earlier stages of yoga like Yatamana sanjna,  
+when they have just begun to control the senses.  
+</details>
+
+<details><summary>Español</summary>
+
+Puede **haber** algunos que son **seguidores** de nuestro Viśiṣṭādvaita Darśana,  
+que son **aspirantes** a mukti  
+y **he buscado** la protección de Bhagavān a través de cualquiera de los **siguientes** caminos **prescritos** en el Śāstra,  
+a **saber**, Karma Yoga, Jñāna Yoga, Bhakti Yoga o Prapatti,  
+Pero que todavía **están** en las primeras etapas del yoga como Yatamana Sanjna,  
+cuando acaban de **comenzar** a **controlar** los sentidos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नम् दर्शनत्तिले निलैयुडैयराय् मुमुक्षुक्कळाय् कर्मज्ञान भक्तिप्रपत्तिकळिलेदेऩुमॊरु शास्त्रीयमर्यादैयाले भगवत्प्रवणराऩार्क्कु यतमानसंज्ञाद्यवस्थैगळिले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्थ-सङ्गादिगळ् आगिऱ सिल व्याधिगळ् निश्शेषम् आग शमियाद मट्टैक् कॊण्डु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अर्थ-सङ्गादि-रूपाणां केषाञ्चिद् व्याधीनां  
+निश्शेष-शमनाभाव-मात्रं निमित्ती कृत्य  
+</details>
+
+
+<details><summary>English</summary>
+
+On finding in such men certain diseases like desire for money not completely cured,  
+</details>
+
+<details><summary>Español</summary>
+
+Sobre **encontrar** en tales hombres ciertas enfermedades como el deseo de dinero **no** completamente **curado**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अर्थसङ्गादिगळागिऱ सिल व्याधिगळ् निश्शेषमाग शमियादमट्टैक् कॊण्डु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवर्गळ् प्राकृतरैप् पोले असंभाष्यर् 
+
+ऎऩ्ऱु सिल वैराग्य-मात्र-प्रधानर्गळ् सॊल्लुवर्गळ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एते प्राकृतवद् अ-संभाष्या  
+
+इति केचिद् वैराग्य-मात्र-प्रधाना आचक्षते । 
+</details>
+
+<details><summary>English</summary>
+
+some to whom freedom from all desires is all important  
+(even more than devotion to Bhagavān)  
+would call them ignorant men unfit to be talked to. 
+</details>
+
+<details><summary>Español</summary>
+
+algunos a quienes la **libertad** de todos los deseos **es** todo importante  
+(incluso más que **devoción** a Bhagavān)  
+Los **llamaría** hombres ignorantes **no aptos** para que **se les hable**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळ् प्राकृतरैप्पोले असंभाष्यरॆऩ्ऱु सिल वैराग्यमात्रप्रधानर्गळ् सॊल्लुवर्गळ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुवुम् भगवच्-छास्त्रादिगळिल् खिन्न-वृत्त्य्-आदि-प्रकरणङ्गळाले परिहार्यम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् अपि भगवच्-छास्त्रादि-स्थैः खिन्न-वृत्त्यादि-प्रकरणैः परिहार्यम् ।
+</details>
+
+<details><summary>English</summary>
+
+But this is improper as pointed out in the Bhagavat Śāstra in the sections dealing with the professions followed by those who suffer from poverty. 
+</details>
+
+<details><summary>Español</summary>
+
+Pero esto **es** incorrecto  
+como se **señala** en el Bhagavat śāstra  
+en las secciones que **tratan** con las profesiones **seguidas** de aquellos que **sufren** de pobreza.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुवुम् भगवच्छास्त्रादिगळिल् खिन्नवृत्त्यादिप्रकरणङ्गळाले परिहार्यम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> दम्भि-हैतुक-पाषण्डि-  
+बक-वृत्तींश् च वर्जयेत्",  
+(याज्ञवल्क्यस्मृति १-१३०)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> दम्भि-हैतुक-पाषण्डि-  
+बक-वृत्तींश् च वर्जयेत्",  
+(याज्ञवल्क्यस्मृति १-१३०)
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+दम्भिहैतुकपाषण्डिबकवृत्तींश्च वर्जयेत्",
+(याज्ञवल्क्यस्मृति १-१३०)
+</details>
+
+<details><summary>English</summary>
+
+> "No gifts should be received  
+from those who observe dharma hypocritically for the sake of praise,  
+from rationalists,  
+from heretics and from those who are like cranes  
+(ever bent on catching fish while appearing like one in contemplation)" 
+</details>
+
+<details><summary>Español</summary>
+
+> "**No se deben recibir** regalos  
+de aquellos que **observan** el dharma hipócritamente por el **alabanza**,  
+de racionalistas,  
+de herejes y de aquellos que **son** como grullas  
+(Alguna vez **empeñado** en **atrapar** peces  
+mientras **aparece** como uno en **contemplación**) "
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘ये तु सामान्य-भावेन  
+मन्यन्ते पुरुषोत्तमम् ।  
+ते वै पाषण्डिनो ज्ञेयास्  
+सर्व-कर्म-बहिष्कृताः॥’’(),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘ये तु सामान्य-भावेन  
+मन्यन्ते पुरुषोत्तमम् ।  
+ते वै पाषण्डिनो ज्ञेयास्  
+सर्व-कर्म-बहिष्कृताः॥’’(),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘ये तु सामान्यभावेन मन्यन्ते पुरुषोत्तमम् । ते वै पाषण्डिनो ज्ञेयास्सर्वकर्मबहिष्कृताः’’(),
+</details>
+
+
+
+What has been said about those who follow the wrong path should not be applied to those who follow the right path but stumble in it (occasionally). About the former it has been said: 
+
+
+
+"They are to be considered heretics who consider Bhagavān to be like others. They are unfit for the performance of all (śāstraic) rites", and "Those who wear matted locks as an ornament and who have shaved their heads bat who eat without performing yajna to the gods and the like, who are without any purity and who omit the performance of tarpanas and sraddhas to their forefathers (pitṛs)-even by talking to such persons men go to Hell". (What has been said in these ślokas does not apply to those who have only slipped or stumbled while following the right path).
 
 NO OFFENCE SHOULD EVER BE COMMITTED
 
