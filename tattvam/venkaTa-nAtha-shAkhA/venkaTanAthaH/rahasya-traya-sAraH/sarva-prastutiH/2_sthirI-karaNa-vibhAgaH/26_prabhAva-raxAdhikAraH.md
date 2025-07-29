@@ -1957,25 +1957,140 @@ mientras **aparece** como uno en **contemplación**) "
 सर्व-कर्म-बहिष्कृताः॥’’(),
 </details>
 
+<details><summary>विषयः</summary>
+
+पाषण्डी
+</details>
+
+<details><summary>English</summary>
+
+> "They are to be considered heretics  
+who consider Bhagavān to be like others.  
+They are unfit for the performance of all (śāstraic) rites", 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Deben ser considerados herejes
+que consideran que Bhagavān es como los demás.
+No son aptos para el rendimiento de todos los ritos (Śāstraic) ",
+</details>
 
 <details><summary>मूलम्</summary>
 
 ‘‘ये तु सामान्यभावेन मन्यन्ते पुरुषोत्तमम् । ते वै पाषण्डिनो ज्ञेयास्सर्वकर्मबहिष्कृताः’’(),
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘पुंसां जटा-भरण-मौण्ड्यवतां वृथैव’’  
+(विष्णुपुराणम् ३-१८-१०५) 
+
+इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘पुंसां जटा-भरण-मौण्ड्यवतां वृथैव’’  
+(विष्णुपुराणम् ३-१८-१०५) 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "Those who wear matted locks as an ornament  
+and who have shaved their heads  
+but who eat without performing yajna to the gods and the like,  
+who are without any purity  
+and who omit the performance of tarpanas and sraddhas to their forefathers (pitṛs)-  
+even by talking to such persons men go to Hell".  
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "Aquellos que **usan** cerraduras mate como adorno  
+y que **se han afeitado** la cabeza  
+Pero quien **come sin realizar yajna** a los dioses y similares,  
+que **no tienen** pureza  
+y quienes **omiten** el **rendimiento** de las tarpanas y los sraddhas a sus antepasados (pitíos)-  
+Incluso **hablando** con tales personas,  
+los hombres **van** al infierno ".
+</details>
 
 
-What has been said about those who follow the wrong path should not be applied to those who follow the right path but stumble in it (occasionally). About the former it has been said: 
+<details><summary>मूलम्</summary>
+
+‘‘पुंसां जटाभरणमौण्ड्यवतां वृथैव’’(विष्णुपुराणम् ३-१८-१०५) इत्यादिगळिऱ्पडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वऴि तप्पिऩार् पक्कल् सॊल्लुम् वार्तैयै  
+नल्व्-अऴियिल् अडि तडु-माऱिऩार् पक्कल्  
+सॊल्लल् आगाद् इऱे। 
+</details>
+
+<details><summary>English</summary>
+
+What has been said (above)  
+about those who follow the wrong path  
+should not be applied to those who follow the right path  
+but stumble in it (occasionally). 
+
+(What has been said in these ślokas  
+does not apply to those who have only slipped or stumbled  
+while following the right path).
+</details>
+
+<details><summary>Español</summary>
+
+Lo que **se ha dicho** (arriba)  
+sobre aquellos que **siguen** el camino equivocado  
+**no debe aplicarse** a aquellos que siguen el camino correcto  
+pero **tropiezan** con él (ocasionalmente).
+
+(Lo que **se ha dicho** en estos Ślokas  
+**no se aplica** a aquellos que solo **se han resbalado** o **tropezado**  
+mientras **sigue** el camino correcto).
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-"They are to be considered heretics who consider Bhagavān to be like others. They are unfit for the performance of all (śāstraic) rites", and "Those who wear matted locks as an ornament and who have shaved their heads bat who eat without performing yajna to the gods and the like, who are without any purity and who omit the performance of tarpanas and sraddhas to their forefathers (pitṛs)-even by talking to such persons men go to Hell". (What has been said in these ślokas does not apply to those who have only slipped or stumbled while following the right path).
+वऴिदप्पिऩार् पक्कल् सॊल्लुम् वार्तैयै नल्वऴियिलडि तडुमाऱिऩार्बक्कल् सॊल्ललागादिऱे। 
+</details>
 
-NO OFFENCE SHOULD EVER BE COMMITTED
 
-AGAINST BHĀGAVATAS :
+## भागवतापचारः
+<details><summary>English</summary>
 
-Anong Bhāgavatas, it is true that degrees of regard have been prescribed for those who have not received the purification by fire[^79] (or who have not done the rites or karma  ordained for thern), who have not the.purification due to the wearing of the caste mark ( puṅḍra) (or who have given up their sūtra ), who have not had the purification due to nāma (or who have renounced their gurus, gods and the like), and those who have not been initiated into the sacred mantras (or who have no association with good men). But even these will obtain redemption by some means or other (prāyaśćitta and the like) (provided they have not deviated from their exclusive devotion (to Bhagavān). The śāstras have, indeed, laid down the rule that offences should not be committed even against these (men). What has been said of the potency of karma  yoga in the following ślokas applies even more to that of bhakti and prapatti: “The endeavour that has been commenced in this karma -yoga never ends in vain; there is no offence if it is not completed; even a small fraction of this dharma redeems a n:an from measureless saṁsāra”, and “The "man who has begun yoga but has not completed it never perishes either here or in the higher world. (Is it not clear) that the man who has done a good thing will not meet with an evil end?" Further the Supreme Ruler Himself said to Arjuna and Dharma. putra respectively :--"Even "if a man is of impure ways, if he worships me without the desire for any other fruit, he is certainly a good man (sādhu). He is worthy of esteem, for his intentions are good", and "Even" if my devotees are inclined to sin, no sin will cling to them, in the same way as water does not stain the leaf of the lotus".
+NO OFFENCE SHOULD EVER BE COMMITTED AGAINST BHĀGAVATAS :
+</details>
+
+<details><summary>Español</summary>
+
+Ningún ofensa **debe cometirse** contra Bhāgavatas:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भागवतरिल् ऊन-हीन-परिस्रस्त-नष्ट-विषयङ्गळिलुम्  
+परिमाऱ्ऱङ्गळिल् तारतम्यम् विधित्तदेय् आगिलुम्  
+ऐकान्त्यम् कुलैयादेय् इरुक्किल्  
+मुडिविल् ऒरु विरगाले इवर्गळ् ईड् एऱि विडुवर्गळ्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+भागवतरिल् ऊन-हीनपरिस्रस्तनष्ट विषयङ्गळिलुम् परिमाऱ्ऱङ्गळिल् तारतम्यम् विधित्तदे यागिलुम् ऐकान्त्यम् कुलैयादेयिरुक्किल् मुडिविलॊरु विरगाले इवर्गळीडेऱिविडुवर्गळ्। 
+</details>
+
+
+Anong Bhāgavatas, it is true that degrees of regard have been prescribed for those who have not received the purification by fire[^79] (or who have not done the rites or karma  ordained for thern), who have not the purification due to the wearing of the caste mark ( puṅḍra) (or who have given up their sūtra ), who have not had the purification due to nāma (or who have renounced their gurus, gods and the like), and those who have not been initiated into the sacred mantras (or who have no association with good men). But even these will obtain redemption by some means or other (prāyaśćitta and the like) (provided they have not deviated from their exclusive devotion (to Bhagavān). The śāstras have, indeed, laid down the rule that offences should not be committed even against these (men). What has been said of the potency of karma  yoga in the following ślokas applies even more to that of bhakti and prapatti: “The endeavour that has been commenced in this karma -yoga never ends in vain; there is no offence if it is not completed; even a small fraction of this dharma redeems a n:an from measureless saṁsāra”, and “The "man who has begun yoga but has not completed it never perishes either here or in the higher world. (Is it not clear) that the man who has done a good thing will not meet with an evil end?" Further the Supreme Ruler Himself said to Arjuna and Dharma. putra respectively :--"Even "if a man is of impure ways, if he worships me without the desire for any other fruit, he is certainly a good man (sādhu). He is worthy of esteem, for his intentions are good", and "Even" if my devotees are inclined to sin, no sin will cling to them, in the same way as water does not stain the leaf of the lotus".
 
 [^79]: The marks of the conch and the discus (chakra) made with red-hot iron on the two upper arms.
 
