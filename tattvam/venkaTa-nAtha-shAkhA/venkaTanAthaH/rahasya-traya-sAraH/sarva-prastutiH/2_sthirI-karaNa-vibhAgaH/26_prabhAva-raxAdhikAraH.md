@@ -1994,6 +1994,8 @@ No son aptos para el rendimiento de todos los ritos (Śāstraic) ",
 
 > ‘‘पुंसां जटा-भरण-मौण्ड्यवतां वृथैव’’  
 (विष्णुपुराणम् ३-१८-१०५) 
+
+[[२५८]] इत्य्-आद्य्-उक्त-रीतिकानां 
 </details>
 
 <details><summary>English</summary>
@@ -2033,6 +2035,14 @@ los hombres **van** al infierno ".
 नल्व्-अऴियिल् अडि तडु-माऱिऩार् पक्कल्  
 सॊल्लल् आगाद् इऱे। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मार्ग-भ्रष्टानां विषये वक्तुम् उचिता वार्ता  
+सन्-मार्गे पद-स्खलनवतां विषये वक्तुम्  
+अयुक्ता खलु । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2079,20 +2089,133 @@ Ningún ofensa **debe cometirse** contra Bhāgavatas:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भागवतरिल् ऊन-हीन-परिस्रस्त-नष्ट-विषयङ्गळिलुम्  
-परिमाऱ्ऱङ्गळिल् तारतम्यम् विधित्तदेय् आगिलुम्  
-ऐकान्त्यम् कुलैयादेय् इरुक्किल्  
-मुडिविल् ऒरु विरगाले इवर्गळ् ईड् एऱि विडुवर्गळ्। 
+परिमाऱ्ऱङ्गळिल् तारतम्यम् विधित्तदेय् आगिलुम्,  
+ऐकान्त्यम् कुलैयादेय् इरुक्किल्,  
+मुडिविल् ऒरु विरगाले+++(उपायेन)+++  
+इवर्गळ् ईड् एऱि विडुवर्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भागवतेषु ऊन-हीन-परिस्रस्त-नष्ट-विषयेषु  
+तारतम्यस्य विहितत्वेऽपि  
+ऐकान्त्ये अभग्ने सति,  
+अन्ते केनचिद् उपायेनेमे सिद्धार्था भवेयुः। 
+</details>
+
+<details><summary>English</summary>
+
+Among Bhāgavatas, it is true that degrees of regard have been prescribed  
+for those who have not received the purification by fire  
+(The marks of the conch and the discus (chakra) made with red-hot iron on the two upper arms.)  
+(or who have not done the rites or karma  ordained for them),  
+who have not the purification due to the wearing of the caste mark ( puṅḍra)  
+(or who have given up their sūtra ),  
+who have not had the purification due to nāma  
+(or who have renounced their gurus, gods and the like),  
+and those who have not been initiated into the sacred mantras  
+(or who have no association with good men).  
+
+But even these will obtain redemption by some means or other (prāyaśćitta and the like)  
+provided they have not deviated from their exclusive devotion (to Bhagavān). 
+</details>
+
+<details><summary>Español</summary>
+
+Entre Bhāgavatas, **es** cierto que **se han prescrito** los grados de respeto  
+para aquellos que **no han recibido** la **purificación** por fuego  
+(Las marcas de la caracola y el disco (chakra) **hechas** con hierro al rojo vivo en los dos brazos).  
+(o que **no han hecho** los ritos o el karma **ordenado** para ellos),  
+quienes **no tienen** la **purificación** debido al uso de la marca de casta (Puṅḍra)  
+(o que **han renunciado** a su sūtra),  
+que **no han tenido** la **purificación** debido a nāma  
+(o que **han renunciado** a sus gurús, dioses y similares),  
+y aquellos que **no han sido iniciados** en los mantras sagrados  
+(o que **no tienen asociación** con hombres buenos).
+
+Pero incluso estos **obtendrán** la **redención** de alguna manera u otra (prāyaśćitta y similares)  
+siempre que **no se hayan desviado** de su devoción exclusiva (a Bhagavān).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 भागवतरिल् ऊन-हीनपरिस्रस्तनष्ट विषयङ्गळिलुम् परिमाऱ्ऱङ्गळिल् तारतम्यम् विधित्तदे यागिलुम् ऐकान्त्यम् कुलैयादेयिरुक्किल् मुडिविलॊरु विरगाले इवर्गळीडेऱिविडुवर्गळ्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Anong Bhāgavatas, it is true that degrees of regard have been prescribed for those who have not received the purification by fire[^79] (or who have not done the rites or karma  ordained for thern), who have not the purification due to the wearing of the caste mark ( puṅḍra) (or who have given up their sūtra ), who have not had the purification due to nāma (or who have renounced their gurus, gods and the like), and those who have not been initiated into the sacred mantras (or who have no association with good men). But even these will obtain redemption by some means or other (prāyaśćitta and the like) (provided they have not deviated from their exclusive devotion (to Bhagavān). The śāstras have, indeed, laid down the rule that offences should not be committed even against these (men). What has been said of the potency of karma  yoga in the following ślokas applies even more to that of bhakti and prapatti: “The endeavour that has been commenced in this karma -yoga never ends in vain; there is no offence if it is not completed; even a small fraction of this dharma redeems a n:an from measureless saṁsāra”, and “The "man who has begun yoga but has not completed it never perishes either here or in the higher world. (Is it not clear) that the man who has done a good thing will not meet with an evil end?" Further the Supreme Ruler Himself said to Arjuna and Dharma. putra respectively :--"Even "if a man is of impure ways, if he worships me without the desire for any other fruit, he is certainly a good man (sādhu). He is worthy of esteem, for his intentions are good", and "Even" if my devotees are inclined to sin, no sin will cling to them, in the same way as water does not stain the leaf of the lotus".
+इवर्गळ् तिऱत्तिलुम् अपचारम् आगाद् ऎऩ्ऱ् इऱे  
+शास्त्रम् विधित्तदु। 
+</details>
 
-[^79]: The marks of the conch and the discus (chakra) made with red-hot iron on the two upper arms.
+<details><summary>English</summary>
+
+The śāstras have, indeed, laid down the rule that offences should not be committed even against these (men). 
+</details>
+
+<details><summary>Español</summary>
+
+Los Śāstras, de hecho, **han establecido** la regla de que los delitos **no deben cometirse** incluso contra estos (hombres).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळ् तिऱत्तिलुमपचारमागादॆऩ्ऱिऱे शास्त्रम् विधित्तदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नेहाभिक्रम-नाशोऽस्ति  
+प्रत्यवायो न विद्यते ।  
+स्वल्पम् अप्य् अस्य धर्मस्य  
+त्रायते महतो भयात्॥’’  
+(गीता २-४०) 
+
+ऎऩ्ऱुम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नेहाभिक्रम-नाशोऽस्ति  
+प्रत्यवायो न विद्यते ।  
+स्वल्पम् अप्य् अस्य धर्मस्य  
+त्रायते महतो भयात्॥’’  
+(गीता २-४०) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+> “The endeavour that has been commenced in this karma -yoga  
+never ends in vain;  
+there is no offence if it is not completed;  
+even a small fraction of this dharma redeems a man from measureless saṁsāra”, 
+</details>
+
+<details><summary>Español</summary>
+
+> “El **esfuerzo** que **se ha iniciado** en este karma -yoga
+**nunca termina** en vano;  
+**No hay** ofensa si **no se completa**;  
+Incluso una pequeña fracción de este Dharma **redime** a un hombre de Saṁsāra sin medida ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नेहाभि क्रमनाशोऽस्ति प्रत्यवायो न विद्यते । स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्’’(गीता २-४०) ऎऩ्ऱुम्,
+</details>
+
+
+What has been said of the potency of karma  yoga in the following ślokas applies even more to that of bhakti and prapatti: 
+
+and “The "man who has begun yoga but has not completed it never perishes either here or in the higher world. (Is it not clear) that the man who has done a good thing will not meet with an evil end?" Further the Supreme Ruler Himself said to Arjuna and Dharma. putra respectively :--"Even "if a man is of impure ways, if he worships me without the desire for any other fruit, he is certainly a good man (sādhu). He is worthy of esteem, for his intentions are good", and "Even" if my devotees are inclined to sin, no sin will cling to them, in the same way as water does not stain the leaf of the lotus".
+
+
 
 It has (also) been said in the discourse between Puṇḍarīka and Nārada :- He who has sought the protection of the Lord, O best of Brahmins, whether he be clad in a garment of bark, whether he wears matted locks (jatā), whether he holds a triad of sticks (like a sannyāsin), whether he has shaved his head clean or whether he bears the marks of other āśramas or whether he has not any of them- (it does not matter)-  for these are not the causes that win mokṣa. Even those who have no pity, who have wicked minds and are always inclined to evil ways --- even they attain the highest state, provided they have sought the protection of Nārāyaṇa": "If the devotees of Viṣṇu commit sins, the sins will not taint them, because they will perform prāyaścitta at once. They purify the whole world like the rising sun." "The man in whom, at the end of thousands of virtuous lives, arises the thought that he is the servant of Vāsudeva, who is the Supreme Self in all the worlds -- that man will go to the world of Bhagavān. There is no doubt of this. (Such being the case), is it necessary to speak of those who, with the seoses under control, have fixed their souls in Bhagavān". In these ślokas, it is stated that, even if devotees of Bhagavān continue to sin, they will doubtless attain mukti by performing prayascitta and that (this being so) much more easily will sinless men attain mukti, further the great sage declared also this, among other truths, that those who have no devotion to Bhagavān will never attain the desired goal even by superior deeds of virtue: "Those  who do not turn their faces to Nārāyaṇa will never reach the desired goal, even though they have performed a hundred horse-sacrifices and many hundreds of Vajapeya sacrifices".
 
