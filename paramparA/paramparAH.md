@@ -240,6 +240,14 @@ Acharya-hrdayam was composed by lokAchArya's younger brother.
 > इति रविलोचनः। 
 
 ## प्रदेशाः
+### राजास्थाने 
+डीडवाना-झालरिया 
+
+> Even this Jhalarya matha mahant does kalakshepas Atleast for sribhashya.
+
+### उत्तर-प्रदेशे
+> Have heard vishvesh prapannacharya maharaj of UP takes grantha chatushtaya kalakshepas In Hindi to a few vedadhyayis etc in UP.
+
 ### उत्कलः
 - देशिक-सम्प्रदायः
   - Mukunda deva harishchandra reconquered Puri using 6th AM swamys mantrabala as per tradition.
