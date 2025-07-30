@@ -1994,6 +1994,8 @@ No son aptos para el rendimiento de todos los ritos (Śāstraic) ",
 
 > ‘‘पुंसां जटा-भरण-मौण्ड्यवतां वृथैव’’  
 (विष्णुपुराणम् ३-१८-१०५) 
+
+[[२५८]] इत्य्-आद्य्-उक्त-रीतिकानां 
 </details>
 
 <details><summary>English</summary>
@@ -2034,6 +2036,14 @@ los hombres **van** al infierno ".
 सॊल्लल् आगाद् इऱे। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+मार्ग-भ्रष्टानां विषये वक्तुम् उचिता वार्ता  
+सन्-मार्गे पद-स्खलनवतां विषये वक्तुम्  
+अयुक्ता खलु । 
+</details>
+
+
 <details><summary>English</summary>
 
 What has been said (above)  
@@ -2065,7 +2075,7 @@ mientras **sigue** el camino correcto).
 </details>
 
 
-## भागवतापचारः
+## अपक्व-भागवते ऽनपचारः
 <details><summary>English</summary>
 
 NO OFFENCE SHOULD EVER BE COMMITTED AGAINST BHĀGAVATAS :
@@ -2079,24 +2089,757 @@ Ningún ofensa **debe cometirse** contra Bhāgavatas:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भागवतरिल् ऊन-हीन-परिस्रस्त-नष्ट-विषयङ्गळिलुम्  
-परिमाऱ्ऱङ्गळिल् तारतम्यम् विधित्तदेय् आगिलुम्  
-ऐकान्त्यम् कुलैयादेय् इरुक्किल्  
-मुडिविल् ऒरु विरगाले इवर्गळ् ईड् एऱि विडुवर्गळ्। 
+परिमाऱ्ऱङ्गळिल् तारतम्यम् विधित्तदेय् आगिलुम्,  
+ऐकान्त्यम् कुलैयादेय् इरुक्किल्,  
+मुडिविल् ऒरु विरगाले+++(उपायेन)+++  
+इवर्गळ् ईड् एऱि विडुवर्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भागवतेषु ऊन-हीन-परिस्रस्त-नष्ट-विषयेषु  
+तारतम्यस्य विहितत्वेऽपि  
+ऐकान्त्ये अभग्ने सति,  
+अन्ते केनचिद् उपायेनेमे सिद्धार्था भवेयुः। 
+</details>
+
+<details><summary>English</summary>
+
+Among Bhāgavatas, it is true that degrees of regard have been prescribed  
+for those who have not received the purification by fire  
+(The marks of the conch and the discus (chakra) made with red-hot iron on the two upper arms.)  
+(or who have not done the rites or karma  ordained for them),  
+who have not the purification due to the wearing of the caste mark ( puṅḍra)  
+(or who have given up their sūtra ),  
+who have not had the purification due to nāma  
+(or who have renounced their gurus, gods and the like),  
+and those who have not been initiated into the sacred mantras  
+(or who have no association with good men).  
+
+But even these will obtain redemption by some means or other (prāyaśćitta and the like)  
+provided they have not deviated from their exclusive devotion (to Bhagavān). 
+</details>
+
+<details><summary>Español</summary>
+
+Entre Bhāgavatas, **es** cierto que **se han prescrito** los grados de respeto  
+para aquellos que **no han recibido** la **purificación** por fuego  
+(Las marcas de la caracola y el disco (chakra) **hechas** con hierro al rojo vivo en los dos brazos).  
+(o que **no han hecho** los ritos o el karma **ordenado** para ellos),  
+quienes **no tienen** la **purificación** debido al uso de la marca de casta (Puṅḍra)  
+(o que **han renunciado** a su sūtra),  
+que **no han tenido** la **purificación** debido a nāma  
+(o que **han renunciado** a sus gurús, dioses y similares),  
+y aquellos que **no han sido iniciados** en los mantras sagrados  
+(o que **no tienen asociación** con hombres buenos).
+
+Pero incluso estos **obtendrán** la **redención** de alguna manera u otra (prāyaśćitta y similares)  
+siempre que **no se hayan desviado** de su devoción exclusiva (a Bhagavān).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 भागवतरिल् ऊन-हीनपरिस्रस्तनष्ट विषयङ्गळिलुम् परिमाऱ्ऱङ्गळिल् तारतम्यम् विधित्तदे यागिलुम् ऐकान्त्यम् कुलैयादेयिरुक्किल् मुडिविलॊरु विरगाले इवर्गळीडेऱिविडुवर्गळ्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Anong Bhāgavatas, it is true that degrees of regard have been prescribed for those who have not received the purification by fire[^79] (or who have not done the rites or karma  ordained for thern), who have not the purification due to the wearing of the caste mark ( puṅḍra) (or who have given up their sūtra ), who have not had the purification due to nāma (or who have renounced their gurus, gods and the like), and those who have not been initiated into the sacred mantras (or who have no association with good men). But even these will obtain redemption by some means or other (prāyaśćitta and the like) (provided they have not deviated from their exclusive devotion (to Bhagavān). The śāstras have, indeed, laid down the rule that offences should not be committed even against these (men). What has been said of the potency of karma  yoga in the following ślokas applies even more to that of bhakti and prapatti: “The endeavour that has been commenced in this karma -yoga never ends in vain; there is no offence if it is not completed; even a small fraction of this dharma redeems a n:an from measureless saṁsāra”, and “The "man who has begun yoga but has not completed it never perishes either here or in the higher world. (Is it not clear) that the man who has done a good thing will not meet with an evil end?" Further the Supreme Ruler Himself said to Arjuna and Dharma. putra respectively :--"Even "if a man is of impure ways, if he worships me without the desire for any other fruit, he is certainly a good man (sādhu). He is worthy of esteem, for his intentions are good", and "Even" if my devotees are inclined to sin, no sin will cling to them, in the same way as water does not stain the leaf of the lotus".
+इवर्गळ् तिऱत्तिलुम् अपचारम् आगाद् ऎऩ्ऱ् इऱे  
+शास्त्रम् विधित्तदु। 
+</details>
 
-[^79]: The marks of the conch and the discus (chakra) made with red-hot iron on the two upper arms.
+<details><summary>English</summary>
 
-It has (also) been said in the discourse between Puṇḍarīka and Nārada :- He who has sought the protection of the Lord, O best of Brahmins, whether he be clad in a garment of bark, whether he wears matted locks (jatā), whether he holds a triad of sticks (like a sannyāsin), whether he has shaved his head clean or whether he bears the marks of other āśramas or whether he has not any of them- (it does not matter)-  for these are not the causes that win mokṣa. Even those who have no pity, who have wicked minds and are always inclined to evil ways --- even they attain the highest state, provided they have sought the protection of Nārāyaṇa": "If the devotees of Viṣṇu commit sins, the sins will not taint them, because they will perform prāyaścitta at once. They purify the whole world like the rising sun." "The man in whom, at the end of thousands of virtuous lives, arises the thought that he is the servant of Vāsudeva, who is the Supreme Self in all the worlds -- that man will go to the world of Bhagavān. There is no doubt of this. (Such being the case), is it necessary to speak of those who, with the seoses under control, have fixed their souls in Bhagavān". In these ślokas, it is stated that, even if devotees of Bhagavān continue to sin, they will doubtless attain mukti by performing prayascitta and that (this being so) much more easily will sinless men attain mukti, further the great sage declared also this, among other truths, that those who have no devotion to Bhagavān will never attain the desired goal even by superior deeds of virtue: "Those  who do not turn their faces to Nārāyaṇa will never reach the desired goal, even though they have performed a hundred horse-sacrifices and many hundreds of Vajapeya sacrifices".
+The śāstras have, indeed, laid down the rule that offences should not be committed even against these (men). 
+</details>
 
-Since it has been said -- "He who understands Śrī Kṛṣṇa as He is even the gods cannot know the extent of his greatness", even the eternal sūris cannot indeed measure his greatness. Therefore, even if sufferings afflict the devotees of Bhagavān who have continued to commit offences deliberately, they should not be treated with disregard. Has it not been stated as follows:- "By bowing before those who are not devotees of Viṣṇu, by speaking of Bhagavān with irreverence, and by the vilification of the devotee of Viṣṇu, (by all these), a man will surely have his fall. There is no doubt of this"? " The man who has stolen the bulb of the lotus - let him vilify sanıyāsins always; let him treat with disregard the devotees of Viṣṇu, let him be averse to (the study of) Vedānta, let the man who has stolen the bulb of the lotus be outwardly good, but inwardly wicked; let him hate those who know Brahman, and censure the rites and observances prescribed in the śāstras. Let the man who has stolen the bulb of the lotus be ever perverse in his intelligence and delude those who follow the right code of conduct and who have no firm faith in the śāstra which treats of the jīva and the Paramātmā".
+<details><summary>Español</summary>
+
+Los Śāstras, de hecho, **han establecido** la regla de que los delitos **no deben cometirse** incluso contra estos (hombres).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळ् तिऱत्तिलुमपचारमागादॆऩ्ऱिऱे शास्त्रम् विधित्तदु। 
+</details>
+
+### सापेक्ष-प्रशंसा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नेहाभिक्रम-नाशोऽस्ति  
+प्रत्यवायो न विद्यते ।  
+स्वल्पम् अप्य् अस्य धर्मस्य  
+त्रायते महतो भयात्॥’’  
+(गीता २-४०) 
+
+ऎऩ्ऱुम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नेहाभिक्रम-नाशोऽस्ति  
+प्रत्यवायो न विद्यते ।  
+स्वल्पम् अप्य् अस्य धर्मस्य  
+त्रायते महतो भयात्॥’’  
+(गीता २-४०) 
+
+
+</details>
+
+<details><summary>विषयः</summary>
+
+अपक्व-भागवतः, भागवतः, साधना, कर्मयोगः
+</details>
+
+<details><summary>English</summary>
+
+> “The endeavour that has been commenced in this karma -yoga  
+never ends in vain;  
+there is no offence if it is not completed;  
+even a small fraction of this dharma redeems a man from measureless saṁsāra”, 
+</details>
+
+<details><summary>Español</summary>
+
+> “El **esfuerzo** que **se ha iniciado** en este karma -yoga
+**nunca termina** en vano;  
+**No hay** ofensa si **no se completa**;  
+Incluso una pequeña fracción de este Dharma **redime** a un hombre de Saṁsāra sin medida ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नेहाभि क्रमनाशोऽस्ति प्रत्यवायो न विद्यते । स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्’’(गीता २-४०) ऎऩ्ऱुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> १६‘‘पार्थ नैवेह नामुत्र  
+विनाशस् तस्य विद्यते ।  
+न हि कल्याण-कृत् कश्चिद्  
+दुर्गतिं तात गच्छति॥’’  
+(गीता ६-४०) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> १६‘‘पार्थ नैवेह नामुत्र  
+विनाशस् तस्य विद्यते ।  
+न हि कल्याण-कृत् कश्चिद्  
+दुर्गतिं तात गच्छति॥’’  
+(गीता ६-४०) 
+
+
+</details>
+
+<details><summary>विषयः</summary>
+
+अपक्व-भागवतः, भागवतः, साधना
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> “The man who has begun yoga  
+but has not completed it  
+never perishes either here or in the higher world.  
+(Is it not clear) that the man who has done a good thing  
+will not meet with an evil end?" 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "El hombre que **ha comenzado** el yoga  
+pero **no lo ha completado**  
+**Nunca perece** aquí ni en el mundo superior.  
+(¿**No está** claro) que el hombre que **ha hecho** algo bueno  
+**No se reunirá** con un maldito? "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१६‘‘पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते । न हि कल्याण-कृत्कश्चिद्दुर्गतिं तात गच्छति’’(गीता ६-४०) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कर्मयोगत्तिऱ्सॊऩ्ऩ प्रभावम् भक्तिप्रपत्तिकळिल् कैमुतिकन्याय सिद्धमिऱे। 
+</details>
+
+<details><summary>English</summary>
+
+What has been said of the potency of karma  yoga in the above ~~following~~ ślokas  
+applies even more to that of bhakti and prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+Lo que **se ha dicho** sobre la potencia del karma yoga en lo anterior Ślokas  
+**se aplica** aún más al de Bhakti y Prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कर्मयोगत्तिऱ्सॊऩ्ऩ प्रभावम् भक्तिप्रपत्तिकळिल् कैमुतिकन्याय सिद्धमिऱे। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> १७‘‘अपि चेत् सुदुराचारो  
+**भजते** माम् अनन्यभाक् ।  
+साधुर् एव स मन्तव्यस्  
+सम्यग् **व्यवसितो** हि सः॥’’  
+(गीता ९-३०) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> १७‘‘अपि चेत् सुदुराचारो  
+**भजते** माम् अनन्यभाक् ।  
+साधुर् एव स मन्तव्यस्  
+सम्यग् **व्यवसितो** हि सः॥’’  
+(गीता ९-३०) 
+
+
+</details>
+
+<details><summary>विषयः</summary>
+
+अपक्व-भागवतः, भागवतः
+</details>
+
+
+<details><summary>English</summary>
+
+> "Even if a man is of impure ways,  
+if he worships me without the desire for any other fruit,  
+he is certainly a good man (sādhu).  
+He is worthy of esteem,  
+for his intentions are good", 
+</details>
+
+<details><summary>Español</summary>
+
+> "Incluso si un hombre **es** de maneras impuras,  
+Si me **adora** sin el deseo de ninguna otra fruta,  
+Ciertamente **es** un buen hombre (Sādhu).  
+**Es digno** de estima,  
+porque sus **intenciones son** buenas "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१७‘‘अपि चेत्सुदुराचारो भजते मामनन्यभाक् । साधुरेव स मन्तव्यस्सम्यग्व्यवसितो हि सः’’(गीता ९-३०) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> १८‘‘अपि पापेष्व् अभिरता  
+मद्-भक्ताः पाण्डु-नन्दन ।  
+मुच्यन्ते पातकैस् सर्वैः  
+पद्म-पत्रम् इवांभसा॥’’  
+(भारतम् आश्वमेधिकम् ९६-४६) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> १८‘‘अपि पापेष्व् अभिरता  
+मद्-भक्ताः पाण्डु-नन्दन ।  
+मुच्यन्ते पातकैस् सर्वैः  
+पद्म-पत्रम् इवांभसा॥’’  
+(भारतम् आश्वमेधिकम् ९६-४६) 
+
+
+</details>
+
+<details><summary>विषयः</summary>
+
+अपक्व-भागवतः, भागवतः, पापम्
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "Even if my devotees are inclined to sin,  
+no sin will cling to them,  
+in the same way as water does not stain the leaf of the lotus".
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "Incluso si mis devotos **se inclinan** a **pecar**,  
+ningún pecado **se aferrará** a ellos  
+De la misma manera que el agua **no mancha** la hoja del loto ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१८‘‘अपि पापेष्वभिरता मद्भक्ताः पाण्डुनन्दन । मुच्यन्ते पातकैस्सर्वैः पद्मपत्रमिवांभसा’’(भारतम् आश्वमेधिकम् ९६-४६) ऎऩ्ऱुम् 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वेश्वरऩ् ताऩे अर्जुनऩैयुम्, धर्म-पुत्रऩैयुम् पऱ्ऱव् अरुळिच् चॆय्दाऩ्।
+</details>
+
+<details><summary>English</summary>
+
+Further the Supreme Ruler Himself said to Arjuna and Dharma-putra respectively (the above).
+</details>
+
+<details><summary>Español</summary>
+
+Además, el propio **gobernante** supremo **dijo** a Arjuna y Dharma-putra respectivamente (lo anterior).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वेश्वरऩ् ताऩे अर्जुनऩैयुम् धर्मपुत्रऩैयुम् पऱ्ऱ वरुळिच्चॆय्दाऩ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पडिये श्रीपुण्डरीक-नारद-संवादत्तिलुम् 
+
+> १९‘‘चीरवासा जटी वा स्यात्  
+त्रिदण्डी मुण्ड एव वा ।  
+भूषितो वा द्विजश्रेष्ठ  
+न लिङ्गं धर्म-कारणम्॥’’  
+(इतिहास-समुच्चयः ३३-१२३),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> १९‘‘चीरवासा जटी वा स्यात्  
+त्रिदण्डी मुण्ड एव वा ।  
+भूषितो वा द्विजश्रेष्ठ  
+न लिङ्गं धर्म-कारणम्॥’’  
+(इतिहास-समुच्चयः ३३-१२३),
+</details>
+
+
+<details><summary>विषयः</summary>
+
+अपक्व-भागवतः, भागवतः, लिङ्गम्, मोक्षः
+</details>
+
+
+<details><summary>English</summary>
+
+It has (also) been said in the discourse between Puṇḍarīka and Nārada :- 
+
+> He who has sought the protection of the Lord, O best of Brahmins,  
+whether he be clad in a garment of bark,  
+whether he wears matted locks (jatā),  
+whether he holds a triad of sticks (like a sannyāsin),  
+whether he has shaved his head clean  
+or whether he bears the marks of other āśramas  
+or whether he has not any of them- (it does not matter)-   
+for these are not the causes that win mokṣa.  
+
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho** (también) en el **discurso** entre Puṇḍarīka y Nārada:-
+
+> El que **ha buscado** la **protección** del Señor, Oh mejor de las brahmanes,  
+si **está vestido** con una prenda de corteza,  
+si **usa** cerraduras **enmarañadas** (jatā),
+Si **tiene** una tríada de palos (como un sannyāsin),  
+si se **ha afeitado** la cabeza limpia  
+o si **lleva** las marcas de otros āśramas  
+o si **no tiene** ninguno de ellos- (no importa)-  
+Porque estas **no son** las **causas** que ganan mokṣa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पडिये श्रीपुण्डरीकनारदसंवादत्तिलुम् १९‘‘चीरवासा जटी वा स्यात्त्रिदण्डी मुण्ड एव वा । भूषितो वा द्विजश्रेष्ठ न लिङ्गं धर्मकारणम्’’(इतिहास-समुच्चयः ३३-१२३),
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘ये नृशंसा दुरात्मानः  
+पापाचार-रतास् सदा ।  
+तेऽपि **यान्ति** परं स्थानं  
+नरा नारायणाश्रिताः॥’’  
+(इतिहास-समुच्चयः ३३-१२४), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘ये नृशंसा दुरात्मानः  
+पापाचार-रतास् सदा ।  
+तेऽपि **यान्ति** परं स्थानं  
+नरा नारायणाश्रिताः॥’’  
+(इतिहास-समुच्चयः ३३-१२४), 
+</details>
+
+<details><summary>विषयः</summary>
+
+अपक्व-भागवतः, भागवतः
+</details>
+
+<details><summary>English</summary>
+
+> Even those who have no pity, who have wicked minds  
+and are always inclined to evil ways ---  
+even they attain the highest state,  
+provided they have sought the protection of Nārāyaṇa".
+</details>
+
+<details><summary>Español</summary>
+
+> Incluso aquellos que **no tienen** lástima, que **tienen** mentes malvadas  
+y siempre **están** inclinados a las malas formas ---  
+incluso ellos **alcanzan** el estado más alto,  
+siempre que **hayan buscado** la **protección** de Nārāyaṇa ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘ये नृशंसा दुरात्मानः पापाचाररतास्सदा । तेऽपि यान्ति परं स्थानं नरा नारायणाश्रिताः’’(इतिहास-समुच्चयः ३३-१२४), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘**लिप्यन्ते न** च पापेन  
+वैष्णवा **वीत**-कल्मषाः ।  
+**पुनन्ति** सकलं लोकं  
+सहस्रांशुर् इवोदितः॥’’  
+(इतिहास-समुच्चयः २७-२५) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘**लिप्यन्ते न** च पापेन  
+वैष्णवा **वीत**-कल्मषाः ।  
+**पुनन्ति** सकलं लोकं  
+सहस्रांशुर् इवोदितः॥’’  
+(इतिहास-समुच्चयः २७-२५) 
+</details>
+
+<details><summary>विषयः</summary>
+
+प्रायश्चित्तम्, भागवतः
+</details>
+
+
+<details><summary>English</summary>
+
+> "If the devotees of Viṣṇu commit sins,  
+the sins will not taint them,  
+because they will perform prāyaścitta at once.  
+They purify the whole world like the rising sun." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Si los **devotos** de Viṣṇu **cometen pecados**,  
+los pecados **no los contaminarán**,  
+Porque **realizarán** prāyaścitta a la vez.
+**Purifican** todo el mundo como el sol **naciente** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘लिप्यन्ते न च पापेन वैष्णवा वीतकल्मषाः । पुनन्ति सकलं लोकं सहस्रांशुरिवोदितः’’(इतिहास-समुच्चयः २७-२५) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘जन्मान्तर-सहस्रेषु  
+यस्य **स्याद्** बुद्धिर् ईदृशी ।  
+**दासो**ऽहं वासुदेवस्य  
+सर्वलोक-महात्मनः॥’’  
+(इतिहास-समुच्चयः ३३-१२५-१२७) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘जन्मान्तर-सहस्रेषु  
+यस्य **स्याद्** बुद्धिर् ईदृशी ।  
+**दासो**ऽहं वासुदेवस्य  
+सर्वलोक-महात्मनः॥’’  
+(इतिहास-समुच्चयः ३३-१२५-१२७) 
+</details>
+
+
+<details><summary>विषयः</summary>
+
+अपक्व-भागवतः, भागवतः
+</details>
+
+
+<details><summary>English</summary>
+
+> "The man in whom, at the end of thousands of virtuous lives, arises the thought that he is the servant of Vāsudeva,  
+who is the Supreme Self in all the worlds --  
+</details>
+
+<details><summary>Español</summary>
+
+> "El hombre en el que, al final de miles de **vidas** virtuosas, **surge** la idea de que él **es** el **siervo** de Vāsudeva,  
+Quién **es** el yo supremo en todos los mundos,
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘जन्मान्तरसहस्रेषु यस्य स्याद्बुद्धिरीदृशी । दासोऽहं वासुदेवस्य सर्वलोकमहात्मनः’’(इतिहास-समुच्चयः ३३-१२५-१२७) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘स **याति** विष्णु-सालोक्यं  
+पुरुषो नात्र संशयः ।  
+किं पुनस् तद्-गत-प्राणाः  
+पुरुषास् संयतेन्द्रियाः’’() 
+
+ऎऩ्ऱु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘स **याति** विष्णु-सालोक्यं  
+पुरुषो नात्र संशयः ।  
+किं पुनस् तद्-गत-प्राणाः  
+पुरुषास् संयतेन्द्रियाः’’() 
+
+
+</details>
+
+<details><summary>विषयः</summary>
+
+अपक्व-भागवतः, भागवतः
+</details>
+
+
+<details><summary>English</summary>
+
+> that man will go to the world of Bhagavān.  
+There is no doubt of this.  
+(Such being the case), is it necessary to speak of those who, with the senses under control,  
+have fixed their souls in Bhagavān?"
+</details>
+
+<details><summary>Español</summary>
+
+> Ese hombre **irá** al mundo de Bhagavān.  
+**No hay** duda de esto.  
+(Tal **es** el caso), **es necesario hablar** de aquellos que, con los sentidos bajo control,  
+**han arreglado** sus almas en Bhagavān? ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘स याति विष्णुसालोक्यं पुरुषो नात्र संशयः । किं पुनस्तद्गतप्राणाः पुरुषास्संयतेन्द्रियाः’’() ऎऩ्ऱु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-प्रवणर् अनुवृत्त-दोषर् आऩालुम्  
+यथाऽर्ह-प्रायश्चित्तादि-मुखत्ताले मोक्ष-सिद्धियिल् संशयम् इल्लैय् ऎऩ्ऩुम् इडत्तैयुम्  
+</details>
+
+<details><summary>English</summary>
+
+In these ślokas, it is stated that,  
+even if devotees of Bhagavān continue to sin,  
+they will doubtless attain mukti by performing prayascitta  
+
+</details>
+
+<details><summary>Español</summary>
+
+En estos Ślokas, **se establece** que,  
+Incluso **si** se **dedica** a Bhagavān **continúa** pecando,  
+Sin duda **alcanzarán** a Mukti **realizando Prayascitta**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवत्प्रवणरनुवृत्तदोषराऩालुम् यथार्हप्रायश्चित्तादिमुखत्ताले मोक्षसिद्धियिल् संशयमिल्लैयॆऩ्ऩुमिडत्तैयुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्दोषरुक्कु कैमुतिक-न्यायत्ताले कडुग मोक्ष-सिद्धियैयुञ् जॊल्लि 
+</details>
+
+<details><summary>English</summary>
+
+and that (this being so) much more easily will sinless men attain mukti.  
+</details>
+
+<details><summary>Español</summary>
+
+Y eso (**siendo** tan) mucho más fácilmente los hombres sin pecado **alcanzarán** a Mukti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+निर्दोषरुक्कु कैमुतिकन्यायत्ताले कडुग मोक्षसिद्धियैयुञ्जॊल्लि 
+</details>
+
+### अभागवतेभ्य उच्छ्रायः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अश्वमेध-शतैर् इष्ट्वा  
+वाजपेय-शतैर् अपि ।  
+न प्राप्नुवन्ति सुगतिं  
+नारायण-पराङ्मुखाः॥’’  
+(इतिहास-समुच्चयः ३३-१८०) 
+
+ऎऩ्ऱु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अश्वमेध-शतैर् इष्ट्वा  
+वाजपेय-शतैर् अपि ।  
+न प्राप्नुवन्ति सुगतिं  
+नारायण-पराङ्मुखाः॥’’  
+(इतिहास-समुच्चयः ३३-१८०) 
+
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवतः, अभागवतः, कर्म, मोक्षः
+</details>
+
+
+<details><summary>English</summary>
+
+> "Those  who do not turn their faces to Nārāyaṇa  
+will never reach the desired goal,  
+even though they have performed a hundred horse-sacrifices and many hundreds of Vajapeya sacrifices".
+</details>
+
+<details><summary>Español</summary>
+
+> "Aquellos que **no giran** sus rostros a Nārāyaṇa  
+**nunca alcanzará** la meta **deseada**,  
+a pesar de que **han realizado** cien **sacrificios** de caballos y muchos cientos de **sacrificios** Vajapeyas ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अश्वमेधशतैरिष्ट्वा वाजपेयशतैरपि । न प्राप्नुवन्ति सुगतिं नारायणपराङ्मुखाः’’(इतिहास-समुच्चयः ३३-१८०) ऎऩ्ऱु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> भगवद्-विमुखरुक्क् अनन्तङ्गळ् आऩ उत्कृष्ट-सुकृतङ्गळालुम्  
+सुगतिय् इल्लैय् 
+
+ऎऩ्ऱुम् महर्षिय् इव्व्-अर्थङ्गळै प्रपञ्चित्ताऩ्। 
+</details>
+
+<details><summary>English</summary>
+
+(Thus) further the great sage declared also this, among other truths, that 
+
+> those who have no devotion to Bhagavān  
+will never attain the desired goal even by superior deeds of virtue. 
+</details>
+
+<details><summary>Español</summary>
+
+(Así) además, el gran sabio **declaró** también esto, entre otras verdades, que
+
+> Aquellos que **no tienen** devoción a Bhagavān  
+**Nunca alcanzará** el objetivo deseado incluso por hechos superiores de virtud.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवद्विमुखरुक्कनन्तङ्गळाऩ उत्कृष्टसुकृतङ्गळालुम् सुगतियिल्लै यॆऩ्ऱुम् महर्षियिव्वर्थङ्गळै प्रपञ्चित्ताऩ्। 
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यो ह्य् एनं पुरुषं **वेद**  
+देवा अपि **न** तं **विदुः**’’  
+(भारतम् आरण्य-पर्व १९१-२९) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यो ह्य् एनं पुरुषं **वेद**  
+देवा अपि **न** तं **विदुः**’’  
+(भारतम् आरण्य-पर्व १९१-२९) 
+
+ऎऩ्गैयाले 
+</details>
+
+<details><summary>English</summary>
+
+> "He who understands Śrī Kṛṣṇa as He is  
+even the gods cannot know the extent of his greatness", 
+
+Desde que se ha dicho (como arriba),
+</details>
+
+<details><summary>Español</summary>
+
+> "El que **entiende** Śrī Kṛṣṇa como **es**  
+Incluso los dioses **no pueden saber** el alcance de su grandeza ",
+
+Desde que **se ha dicho** (como arriba),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यो ह्येनं पुरुषं वेद देवा अपि न तं विदुः’’(भारतम् आरण्य-पर्व १९१-२९) 
+
+ऎऩ्गैयाले 
+</details>
+
+
+
+
+
+even the eternal sūris cannot indeed measure his greatness. Therefore, even if sufferings afflict the devotees of Bhagavān who have continued to commit offences deliberately, they should not be treated with disregard. Has it not been stated as follows:- "By bowing before those who are not devotees of Viṣṇu, by speaking of Bhagavān with irreverence, and by the vilification of the devotee of Viṣṇu, (by all these), a man will surely have his fall. There is no doubt of this"? " The man who has stolen the bulb of the lotus - let him vilify sanıyāsins always; let him treat with disregard the devotees of Viṣṇu, let him be averse to (the study of) Vedānta, let the man who has stolen the bulb of the lotus be outwardly good, but inwardly wicked; let him hate those who know Brahman, and censure the rites and observances prescribed in the śāstras. Let the man who has stolen the bulb of the lotus be ever perverse in his intelligence and delude those who follow the right code of conduct and who have no firm faith in the śāstra which treats of the jīva and the Paramātmā".
 
 The author of Śrī Bhāṣya has, in his Śaraṇāgati Gadyanı spoken of offence to Bhagavān and the like ((i.e.) offence to His devotees) along with the sins of omission and commission (while they too are sins of omission and commission). This is to indicate that offence to Bhagavān (and to Bhāgavatas) is extremely serious, as when we speak of bovine cattle and bulls, the bull is mentioned separately, though it is included in "bovine cattle", simply to emphasise the bull. All sins are, of course, offences against Bhagavān. So the separate mention of some kinds of sin is to refer to offences against Bhagavān and His devotees. Śrī Rāmānuja's aim in this separate mention, is to state that whatever offences may be committed against others, if similar offences are committed against Bhagavān or His devotees, they would, by their very nature, lead to more severe punishments just, like treason against kings. The sphere of saṁsāra is, as it were, the nursery to Hell. Such being the case, it is very difficult to find in it people who walk in the right path. So to think ill of those who follow, in regard to Bhagavān, any one of the paths like karma  yoga, which are like the first steps leading to mukti, in accordance with their competence (adhikāra), is to commit an offence against the devotees of Bhagavān.
 
