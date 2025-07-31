@@ -2835,13 +2835,279 @@ Desde que **se ha dicho** (como arriba),
 ऎऩ्गैयाले 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवज्-ज्ञानम् उडैयवऩ्-उडैय प्रभावम्  
+नित्य-सूरिगळुक्कुम् परिच्छेद्यम् अऩ्ऱ् इऱे।
+</details>
+
+<details><summary>English</summary>
+
+even the eternal sūris cannot indeed measure his greatness. 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso el eterno Sūris **no puede medir** su grandeza.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवद्ज्ञानमुडैयवऩुडैय प्रभावम् नित्यसूरिकळुक्कुम् परिच्छेद्यमऩ्ऱिऱे।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् अनुवृत्त-बुद्धि-पूर्व-दोषर् आऩ भागवतर्क्क्  
+उपक्लेशादिगळ् उण्ड् आऩालुम्  
+अवज्ञादिगळ् पण्णल् आगादु। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore, even if sufferings afflict the devotees of Bhagavān  
+who have continued to commit offences deliberately,  
+they should not be treated with disregard. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, incluso si los **sufrimientos afligen** a los **devotos** de Bhagavān  
+que **han seguido cometiendo** ofensas deliberadamente,  
+**No deben ser tratados** con desprecio.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् अनुवृत्तबुद्धिपूर्वदोषराऩ भागवतर्क्कुपक्लेशादिगळुण्डाऩालुम् अवज्ञादिगळ् पण्णलागादु। 
+</details>
+
+### प्रमाणानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अवैष्णव-नमस्-काराद्  
+अवमानाच् च केशवे ।  
+वैष्णवे परिवादाच् च  
+**पतत्य्** एव न संशयः॥’’ +++(4)+++  
+(नारदीयम्),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अवैष्णव-नमस्-काराद्  
+अवमानाच् च केशवे ।  
+वैष्णवे परिवादाच् च  
+पतत्य् एव न संशयः॥’’  
+(नारदीयम्),
+</details>
+
+<details><summary>English</summary>
+
+> "By bowing before those who are not devotees of Viṣṇu,  
+by speaking of Bhagavān with irreverence,  
+and by the vilification of the devotee of Viṣṇu, (by all these),  
+a man will surely have his fall.  
+There is no doubt of this".
+</details>
+
+<details><summary>Español</summary>
+
+> "**Inclinándo** se ante aquellos que **no son devotos** de Viṣṇu,  
+**hablando** de bhagavān con irreverencia,  
+y por la **vilipendancia** del **devoto** de Viṣṇu, (por todos estos),  
+Un hombre seguramente **tendrá** su **caída**.  
+**No hay** duda de esto ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अवैष्णवनमस्कारादवमानाच्च केशवे । वैष्णवे परिवादाच्च पतत्येव न संशयः॥’’(नारदीयम्),
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यति-**निन्दा**-परो नित्यं  
+वैष्णवान् **अवमन्य** तु ।  
+अध्यात्म-विमुखो यस् तु  
+बिस-स्तैन्यं करोति यः ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यति-**निन्दा**-परो नित्यं  
+वैष्णवान् **अवमन्य** तु ।  
+अध्यात्म-विमुखो यस् तु  
+बिस-स्तैन्यं करोति यः ॥
+</details>
+
+<details><summary>English</summary>
+
+> " The man who has stolen the bulb of the lotus -  
+let him vilify sannyāsins always;  
+let him treat with disregard the devotees of Viṣṇu,  
+let him be averse to (the study of) Vedānta,  
+</details>
+
+<details><summary>Español</summary>
+
+> "El hombre que **ha robado** la bombilla del loto -  
+Deja que **vilifique** a Sannyāsins siempre;  
+Deja que **tratara sin tener** en cuenta a los **devotos** de Viṣṇu,  
+Que **sea reacio** a (el **estudio** de) Vedānta,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यति निन्दापरो नित्यं वैष्णवानवमन्य तु । अद्ध्यात्मविमुखो यस्तु बिसस्तैन्यं करोति यः ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अन्तर्-दुष्टो बहिश्-शान्तो  
+ब्रह्म-विद्वेष-तत्-परः ।  
+कर्म-निन्दा-परस् सोऽस्तु  
+बिस-स्तैन्यं करोति यः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अन्तर्-दुष्टो बहिश्-शान्तो  
+ब्रह्म-विद्वेष-तत्-परः ।  
+कर्म-निन्दा-परस् सोऽस्तु  
+बिस-स्तैन्यं करोति यः ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+> let the man who has stolen the bulb of the lotus  
+be outwardly good, but inwardly wicked;  
+let him hate those who know Brahman,  
+and censure the rites and observances prescribed in the śāstras. 
+</details>
+
+<details><summary>Español</summary>
+
+> Deje que el hombre que **ha robado** la bombilla del loto  
+**Sea** exteriormente bueno, pero interiormente malvado;  
+Que **odie** a los que **conocen** a Brahman,  
+y **censurar** los ritos y observancias prescritos en los Śāstras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्तर्दुष्टो बहिश्शान्तो ब्रह्मविद्वेषतत्परः । कर्मनिन्दापरस्सोऽस्तु बिसस्तैन्यं करोति यः ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नित्यानुष्ठान-संयुक्तान्  
+अध्यात्म-ज्ञान-दुर्बलान् ।  
+**व्यामोहयतु** दुर्बद्धिर्  
+बिस-स्तैन्यं करोति यः॥’’  
+(इतिहास-समुच्चयः १२-७१,७२) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> नित्यानुष्ठान-संयुक्तान्  
+अध्यात्म-ज्ञान-दुर्बलान् ।  
+**व्यामोहयतु** दुर्बद्धिर्  
+बिस-स्तैन्यं करोति यः॥’’  
+(इतिहास-समुच्चयः १२-७१,७२) 
+</details>
+
+<details><summary>English</summary>
+
+> Let the man who has stolen the bulb of the lotus  
+be ever perverse in his intelligence  
+and delude those who follow the right code of conduct  
+and who have no firm faith in the śāstra which treats of the jīva and the Paramātmā".
+</details>
+
+<details><summary>Español</summary>
+
+> Deje que el hombre que **ha robado** la bombilla del loto  
+**ser** siempre perverso en su inteligencia  
+y **engañar** a los que **siguen** el código de conducta correcto  
+y que **no tienen** fe firme en el Śāstra que trata el Jīva y el Paramātmā ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नित्यानुष्ठानसंयुक्तानद्ध्यात्मज्ञानदुर्बलान् । व्यामोहयतु दुर्बद्धिर्बिसस्तैन्यं करोति यः’’(इतिहास-समुच्चयः १२-७१,७२) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु सॊल्लप्पट्टदिऱे। 
+</details>
+
+<details><summary>English</summary>
+
+Has it not been stated as above ~~follows~~.
+</details>
+
+<details><summary>Español</summary>
+
+**No se ha establecido** como arriba.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु सॊल्लप्पट्टदिऱे। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रीभाष्य-कारर् अ-कृत्य-करण--कृत्याकरणङ्गळोडे  
+भगवद्-अपचारादिगळैच् शेरव् ऎडुत्तदु  
+गो-बलीवर्द-न्यायत्ताले भगवद्-अपचारादिगळ् तीव्रङ्गळ् ऎऩ्गैक्क् आग। 
+</details>
+
+<details><summary>English</summary>
+
+The author of Śrī Bhāṣya has, in his Śaraṇāgati Gadya spoken of offence to Bhagavān and the like ((i.e.) offence to His devotees)  
+along with the sins of omission and commission (while they too are sins of omission and commission).  
+This is to indicate that offence to Bhagavān (and to Bhāgavatas) is extremely serious,  
+as when we speak of bovine cattle and bulls,  
+the bull is mentioned separately,  
+though it is included in "bovine cattle",  
+simply to emphasise the bull. 
+</details>
+
+<details><summary>Español</summary>
+
+El autor de Śrī Bhāṣya **ha**, en su Śaraṇāgati Gadya, **habló** de delito a Bhagavān y de la **ofensa** similar (es decir a sus devotos)  
+junto con los **pecados** de omisión y comisión (mientras que ellos también **son** pecados de omisión y comisión).  
+Esto **es** para **indicar** que la ofensa a Bhagavān (y a Bhāgavatas) **es** extremadamente grave,  
+Como cuando **hablamos** de ganado y toros bovinos,  
+el toro **se menciona** por separado,  
+Aunque **se incluye** en "Bovine Ganado",  
+Simplemente para **enfatizar** el toro.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीभाष्यकारर् अकृत्यकरणकृत्याकरणङ्गळोडे भगवदपचारादिगळैच् चेरवॆडुत्तदु गोबलीवर्दन्यायत्ताले भगवदपचारादिगळ् तीव्रङ्गळॆऩ्गैक्काग। 
+</details>
 
 
 
 
-even the eternal sūris cannot indeed measure his greatness. Therefore, even if sufferings afflict the devotees of Bhagavān who have continued to commit offences deliberately, they should not be treated with disregard. Has it not been stated as follows:- "By bowing before those who are not devotees of Viṣṇu, by speaking of Bhagavān with irreverence, and by the vilification of the devotee of Viṣṇu, (by all these), a man will surely have his fall. There is no doubt of this"? " The man who has stolen the bulb of the lotus - let him vilify saniyāsins always; let him treat with disregard the devotees of Viṣṇu, let him be averse to (the study of) Vedānta, let the man who has stolen the bulb of the lotus be outwardly good, but inwardly wicked; let him hate those who know Brahman, and censure the rites and observances prescribed in the śāstras. Let the man who has stolen the bulb of the lotus be ever perverse in his intelligence and delude those who follow the right code of conduct and who have no firm faith in the śāstra which treats of the jīva and the Paramātmā".
 
-The author of Śrī Bhāṣya has, in his Śaraṇāgati Gadyani spoken of offence to Bhagavān and the like ((i.e.) offence to His devotees) along with the sins of omission and commission (while they too are sins of omission and commission). This is to indicate that offence to Bhagavān (and to Bhāgavatas) is extremely serious, as when we speak of bovine cattle and bulls, the bull is mentioned separately, though it is included in "bovine cattle", simply to emphasise the bull. All sins are, of course, offences against Bhagavān. So the separate mention of some kinds of sin is to refer to offences against Bhagavān and His devotees. Śrī Rāmānuja's aim in this separate mention, is to state that whatever offences may be committed against others, if similar offences are committed against Bhagavān or His devotees, they would, by their very nature, lead to more severe punishments just, like treason against kings. The sphere of saṁsāra is, as it were, the nursery to Hell. Such being the case, it is very difficult to find in it people who walk in the right path. So to think ill of those who follow, in regard to Bhagavān, any one of the paths like karma  yoga, which are like the first steps leading to mukti, in accordance with their competence (adhikāra), is to commit an offence against the devotees of Bhagavān.
+
+All sins are, of course, offences against Bhagavān. So the separate mention of some kinds of sin is to refer to offences against Bhagavān and His devotees. Śrī Rāmānuja's aim in this separate mention, is to state that whatever offences may be committed against others, if similar offences are committed against Bhagavān or His devotees, they would, by their very nature, lead to more severe punishments just, like treason against kings. The sphere of saṁsāra is, as it were, the nursery to Hell. Such being the case, it is very difficult to find in it people who walk in the right path. So to think ill of those who follow, in regard to Bhagavān, any one of the paths like karma  yoga, which are like the first steps leading to mukti, in accordance with their competence (adhikāra), is to commit an offence against the devotees of Bhagavān.
 
 When it is said :-" There 'is no mukti for one who is extremely devoted to the science of grammar (Sabda Śāstra), for one who sets much store by food and clothing, for one who delights in living in a beautiful house and (as also), for one who is able to allure the minds of the people in the world by one's speech ", it means (that there is no mukti for them) when there is no devotion to Bhagavān. The same is the meaning of the śloka :- “Those who are addicted to the pleasures of sex and to good food, and those who commit (the offences of) theft, uttering falsehoods and speaking harsh words, are men that have given up dharma and the gods avoid them and keep at a distance from them on that account." The same is also the purport of such ślokas as the following :Those whose minds are firmly fixed on the pleasures of the senses while being averse to Govinda - from then, that Supreme Brahman is at a great distance". So also it is said:-" To those? who always think of Govinda and whose minds are firmly fixed on Hin ma to them Bhagavān may be considered to be always at hand". Such passages declare that there will be no delay (in attaining mukti) for those who are devoted to Bhagavān and who have, at the same time, given up the pleasures of the senses.
 
