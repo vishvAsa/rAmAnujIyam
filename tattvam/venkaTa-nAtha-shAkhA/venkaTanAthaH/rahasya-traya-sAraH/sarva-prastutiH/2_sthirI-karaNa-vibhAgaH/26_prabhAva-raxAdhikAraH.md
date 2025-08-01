@@ -2149,6 +2149,15 @@ siempre que **no se hayan desviado** de su devoción exclusiva (a Bhagavān).
 शास्त्रम् विधित्तदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> एतद्-विषये ऽप्य् अपचारो न युक्त 
+
+इति किल शास्त्रेण विधीयते । 
+</details>
+
+
+
 <details><summary>English</summary>
 
 The śāstras have, indeed, laid down the rule that offences should not be committed even against these (men). 
@@ -2185,7 +2194,7 @@ Los Śāstras, de hecho, **han establecido** la regla de que los delitos **no de
 त्रायते महतो भयात्॥’’  
 (गीता २-४०) 
 
-
+इति, 
 </details>
 
 <details><summary>विषयः</summary>
@@ -2235,7 +2244,7 @@ Incluso una pequeña fracción de este Dharma **redime** a un hombre de Saṁsā
 दुर्गतिं तात गच्छति॥’’  
 (गीता ६-४०) 
 
-
+इति च 
 </details>
 
 <details><summary>विषयः</summary>
@@ -2277,6 +2286,12 @@ pero **no lo ha completado**
 कर्मयोगत्तिऱ्सॊऩ्ऩ प्रभावम् भक्तिप्रपत्तिकळिल् कैमुतिकन्याय सिद्धमिऱे। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+कर्म-योगे वर्णितः प्रभावो  
+भक्ति-प्रपत्त्योः कैमुतिक-न्याय-सिद्धः किल । 
+</details>
+
 <details><summary>English</summary>
 
 What has been said of the potency of karma  yoga in the above ~~following~~ ślokas  
@@ -2315,7 +2330,7 @@ Lo que **se ha dicho** sobre la potencia del karma yoga en lo anterior Ślokas
 सम्यग् **व्यवसितो** हि सः॥’’  
 (गीता ९-३०) 
 
-
+इति, 
 </details>
 
 <details><summary>विषयः</summary>
@@ -2368,7 +2383,7 @@ porque sus **intenciones son** buenas "
 पद्म-पत्रम् इवांभसा॥’’  
 (भारतम् आश्वमेधिकम् ९६-४६) 
 
-
+इति 
 </details>
 
 <details><summary>विषयः</summary>
@@ -2407,6 +2422,12 @@ De la misma manera que el agua **no mancha** la hoja del loto ".
 सर्वेश्वरऩ् ताऩे अर्जुनऩैयुम्, धर्म-पुत्रऩैयुम् पऱ्ऱव् अरुळिच् चॆय्दाऩ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वेश्वरः स्वयम् एवार्जुनं धर्मपुत्रं च प्रति अनुजग्राह । 
+</details>
+
+
 <details><summary>English</summary>
 
 Further the Supreme Ruler Himself said to Arjuna and Dharma-putra respectively (the above).
@@ -2434,6 +2455,8 @@ Además, el propio **gobernante** supremo **dijo** a Arjuna y Dharma-putra respe
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
+
+तथैव श्री-पुण्डरीक-नारद-संवादेऽपि, 
 
 > १९‘‘चीरवासा जटी वा स्यात्  
 त्रिदण्डी मुण्ड एव वा ।  
@@ -2638,7 +2661,7 @@ Quién **es** el yo supremo en todos los mundos,
 किं पुनस् तद्-गत-प्राणाः  
 पुरुषास् संयतेन्द्रियाः’’() 
 
-
+इति 
 </details>
 
 <details><summary>विषयः</summary>
@@ -2670,9 +2693,23 @@ have fixed their souls in Bhagavān?"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भगवत्-प्रवणर् अनुवृत्त-दोषर् आऩालुम्  
-यथाऽर्ह-प्रायश्चित्तादि-मुखत्ताले मोक्ष-सिद्धियिल् संशयम् इल्लैय् ऎऩ्ऩुम् इडत्तैयुम्  
+> भगवत्-प्रवणर् अनुवृत्त-दोषर् आऩालुम्  
+यथाऽर्ह-प्रायश्चित्तादि-मुखत्ताले मोक्ष-सिद्धियिल् संशयम् इल्लैय् 
+
+ऎऩ्ऩुम् इडत्तैयुम्  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२५५]] 
+
+> भगवत्-प्रवणानाम् अनुवृत्त-दोषत्वेऽपि  
+यथाऽर्ह-प्रायश्चित्त-मुखेन  
+मोक्ष-सिद्धौ संशयो नास्ति
+
+इत्य् एतम् अर्थम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2699,6 +2736,11 @@ Sin duda **alcanzarán** a Mukti **realizando Prayascitta**
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निर्दोषरुक्कु कैमुतिक-न्यायत्ताले कडुग मोक्ष-सिद्धियैयुञ् जॊल्लि 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+निर्दोषाणां कैमुतिक-न्यायेन मोक्ष-सिद्धिं च प्रतिपाद्य, 
 </details>
 
 <details><summary>English</summary>
@@ -2736,6 +2778,7 @@ Y eso (**siendo** tan) mucho más fácilmente los hombres sin pecado **alcanzar�
 नारायण-पराङ्मुखाः॥’’  
 (इतिहास-समुच्चयः ३३-१८०) 
 
+इति 
 </details>
 
 <details><summary>विषयः</summary>
@@ -2773,6 +2816,14 @@ a pesar de que **han realizado** cien **sacrificios** de caballos y muchos cient
 ऎऩ्ऱुम् महर्षिय् इव्व्-अर्थङ्गळै प्रपञ्चित्ताऩ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> भगवद्-विमुखानाम् अनन्तैर् उत्कृष्ट-सुकृतैर् अपि सु-गतिर् नास्ति
+
+इति महर्षिर् एतान् अर्थात् प्रपञ्चयाम् आस । 
+</details>
+
+
 <details><summary>English</summary>
 
 (Thus) further the great sage declared also this, among other truths, that 
@@ -2800,6 +2851,8 @@ will never attain the desired goal even by superior deeds of virtue.
 > ‘‘यो ह्य् एनं पुरुषं **वेद**  
 देवा अपि **न** तं **विदुः**’’  
 (भारतम् आरण्य-पर्व १९१-२९) 
+
+ऎऩ्गैयाले 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -2808,7 +2861,7 @@ will never attain the desired goal even by superior deeds of virtue.
 देवा अपि **न** तं **विदुः**’’  
 (भारतम् आरण्य-पर्व १९१-२९) 
 
-ऎऩ्गैयाले 
+इत्य्-उक्तत्वात्  
 </details>
 
 <details><summary>English</summary>
@@ -2841,6 +2894,13 @@ Desde que **se ha dicho** (como arriba),
 नित्य-सूरिगळुक्कुम् परिच्छेद्यम् अऩ्ऱ् इऱे।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवज्-ज्ञानवतः प्रभावो  
+नित्य-सूरिभिर् अप्य् अपरिच्छेद्यः किल । 
+</details>
+
+
 <details><summary>English</summary>
 
 even the eternal sūris cannot indeed measure his greatness. 
@@ -2863,6 +2923,13 @@ Incluso el eterno Sūris **no puede medir** su grandeza.
 उपक्लेशादिगळ् उण्ड् आऩालुम्  
 अवज्ञादिगळ् पण्णल् आगादु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतोऽनुवृत्त-बुद्धि-पूर्व-दोषाणां भागवतानाम् उपक्लेशादि-संभवे  
+अवज्ञाऽऽदीनि न कार्याणि । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3050,6 +3117,12 @@ y que **no tienen** fe firme en el Śāstra que trata el Jīva y el Paramātmā 
 ऎऩ्ऱु सॊल्लप्पट्टदिऱे। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य् उक्तं (खलु) ॥ 
+</details>
+
+
 <details><summary>English</summary>
 
 Has it not been stated as above ~~follows~~.
@@ -3066,13 +3139,21 @@ Has it not been stated as above ~~follows~~.
 ऎऩ्ऱु सॊल्लप्पट्टदिऱे। 
 </details>
 
-
+### भागवतापचार-तीव्रता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रीभाष्य-कारर् अ-कृत्य-करण--कृत्याकरणङ्गळोडे  
 भगवद्-अपचारादिगळैच् शेरव् ऎडुत्तदु  
 गो-बलीवर्द-न्यायत्ताले भगवद्-अपचारादिगळ् तीव्रङ्गळ् ऎऩ्गैक्क् आग। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रीभाष्यकारैर् अ-कृत्य-करण--कृत्याकरणैः सह  
+भगवद्-अपचारादीनां समुचित्योपादानं  
+गोबलीवर्दन्यायेन भगवद्-अपचारादीनि तीव्राणीति ज्ञापनार्थम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3103,19 +3184,600 @@ Simplemente para **enfatizar** el toro.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎल्लाम् भगवद्-अपचारङ्गळ् आय् इरुक्क  
+मुख-भेदङ्गळै विवक्षित्तुच्  
+चिलव्-अऱ्ऱैय्+++(=निभान्)+++ इङ्गु भागवतापचारङ्गळ् ऎऩ्गिऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वेषां भगवद्-अपचार-रूपत्वेऽपि  
+मुख-भेद-विवक्षया  
+केषाञ्चिद् इह भागवतापचारत्वोक्तिः । 
+</details>
+
+
+<details><summary>English</summary>
+
+All sins are, of course, offences against Bhagavān.  
+So the separate mention of some kinds of sin is to refer to offences against Bhagavān and His devotees. 
+</details>
+
+<details><summary>Español</summary>
+
+Todos los **pecados son**, por supuesto, delitos contra Bhagavān.  
+Entonces, la **mención** separada de algunos tipos de **pecado**  
+**es referirse** a delitos contra Bhagavān y sus devotos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎल्लाम् भगवदपचारङ्गळायिरुक्क मुखभेदङ्गळै विवक्षित्तुच् चिलवऱ्ऱै यिङ्गु भागवतापचारङ्गळॆऩ्गिऱदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यावै सिल अपचारङ्गळैप् पुऱम्बे सॆय्गिऱाऩ्,  
+अप्-पडिप्-पट्ट्-अवै-दऩ्ऩैये भगवद्-भागवत-विषयङ्गळिले सॆय्दाल्  
+विषय--स्व-भावत्ताले राज-द्रोहादिगळ् पोले  
+मिगवुम् दण्ड-हेतुक्कळ् आम्  
+
+ऎऩ्ऱु विशेषोपादानत्तुक्क् अभिप्रायम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> यान् कश्चिद् अपचारान् बहिर् विषये करोति,  
+तथा-विधा एव भगवद्-भागवत-विषये  
+विषय-स्वभावात् राज-द्रोहादिवद्  
+अतिशयित-दण्ड-हेतवो भवन्ति 
+
+इति विशेषोपादानस्याभिप्रायः । 
+
+[[२६०]] 
+</details>
+
+
+<details><summary>English</summary>
+
+Śrī Rāmānuja's aim in this separate mention, is to state that  
+
+> whatever offences may be committed against others,  
+if similar offences are committed against Bhagavān or His devotees,  
+they would, by their very nature, lead to more severe punishments  
+just like treason against kings. 
+</details>
+
+<details><summary>Español</summary>
+
+El objetivo de Śrī Rāmānuja en esta **mención** separada es **decir** que
+
+> Cualquier ofensiva **se puede cometer** contra otros,  
+Si **se cometen** delitos similares contra Bhagavān o sus devotos,  
+Por su propia naturaleza **conducirían** a **castigos** más severos.  
+como **traición** contra Kings.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यावै सिल अपचारङ्गळैप् पुऱम्बे सॆय्गिऱाऩ्, अप्पडिप्पट्टवैदऩ्ऩैये भगवद्भागवतविषयङ्गळिले सॆय्दाल् विषयस्वभावत्ताले राजद्रोहादिगळ् पोले मिगवुम् दण्डहेतुक्कळा मॆऩ्ऱु विशेषोपादानत्तुक्कभिप्रायम्।
+</details>
+
+### अवज्ञा ऽप्य् अपचारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नरकत्तुक्कु नाऱ्ऱङ्गाल्+++(=अङ्कुरण-भूः)+++ आऩ संसार-मण्डलत्तिले +++(5)+++  
+नल्-वऴि नडप्पार् दुर्लभर् आय् इरुक्क 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+नरकं प्रति क्षेत्रान्तर-वर्धनीय-सस्यार्थ-बीजावाप-क्षेत्रवत् स्थिते संसार-मण्डले  
+सन्-मार्ग-गामिषु दुर्लभेषु सत्सु 
+</details>
+
+
+<details><summary>English</summary>
+
+The sphere of saṁsāra is, as it were, the nursery to Hell.  
+Such being the case,  
+it is very difficult to find in it people who walk in the right path.  
+</details>
+
+<details><summary>Español</summary>
+
+La esfera de Saṁsāra es, por así **decirlo**, la guardería al infierno.  
+Tal **es** el caso,  
+**Es** muy difícil **encontrar** en él las personas que **caminan** en el camino correcto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नरकत्तुक्कु नाऱ्ऱङ्गालाऩ संसारमण्डलत्तिले नल्वऴि नडप्पार् दुर्लभरायिरुक्क 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवद्-विषयत्तैप् पऱ्ऱि  
+अधिकारानुरूपम् आग मुक्ति-मार्गत्तुक्कु  
+मुऩ्-ऩडिय् आऩ कर्म-योगादि--पर्व-भेदङ्गळिले निऩ्ऱारैयुम्  
+नॆगिऴ+++(=स्रंस)+++ निऩैक्कै भागवतापचारम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवद्-विषयम् आश्रित्य  
+अधिकारानुरूप-मुक्ति-मार्ग-प्रथम-पर्व-भूत-  
+कर्म-योगादि-पर्वसु स्थितानां विषये  
+निहीनत्व-बुद्धिर् अपि भागवतापचारः । 
+</details>
+
+
+<details><summary>English</summary>
+
+So to think ill of those who follow, in regard to Bhagavān, any one of the paths like karma yoga,  
+which are like the first steps leading to mukti, in accordance with their competence (adhikāra),  
+is to commit an offence against the devotees of Bhagavān.
+</details>
+
+<details><summary>Español</summary>
+
+Entonces, **pensar** mal de aquellos que siguen, con respecto a Bhagavān, cualquiera de los caminos como Karma Yoga,  
+que **son** como los primeros pasos que **conducen** a Mukti, de acuerdo con su competencia (adhikāra),  
+es **cometer** un delito contra los devotos de Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवद्विषयत्तैप् पऱ्ऱिअधिकारानुरूपमाग मुक्तिमार्गत्तुक्कु मुऩ्ऩडियाऩ कर्मयोगादिपर्वभेदङ्गळिले निऩ्ऱारैयुम् नॆगिऴ निऩैक्कै भागवतापचारम्। 
+</details>
+
+### अ-भागवततमाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न शब्द-शास्त्राभिरतस्य मोक्षो  
+न भोजनाच्छादन--तत्-परस्य ।  
+न चैव रम्यावसथ-प्रियस्य  
+न लोक-चित्त-ग्रहणे रतस्य॥’’  
+(इतिहास-समुच्चयः २-१०)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न शब्द-शास्त्राभिरतस्य मोक्षो  
+न भोजनाच्छादन--तत्-परस्य ।  
+न चैव रम्यावसथ-प्रियस्य  
+न लोक-चित्त-ग्रहणे रतस्य॥’’  
+(इतिहास-समुच्चयः २-१०)
+</details>
+
+<details><summary>English</summary>
+
+When it is said :-
+
+> " There is no mukti for one who is extremely devoted to the science of grammar (Sabda Śāstra),  
+for one who sets much store by food and clothing,  
+for one who delights in living in a beautiful house  
+and (as also), for one who is able to allure the minds of the people in the world by one's speech ", 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando se dice:-
+
+> "**No hay** mukti para alguien que **esté** extremadamente **dedicado** a la ciencia de la gramática (sabda Śāstra),  
+para alguien que **se pone** mucha tienda con comida y ropa,  
+para alguien que **se deleita** en **vivir** en una hermosa casa  
+y (como también), para alguien que **puede atraer** las mentes de las personas en el mundo por el **discurso** de uno ",
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘न शब्दशास्त्राभिरतस्य मोक्षो न भोजनाच्छादनतत्परस्य । न चैव रम्यावसथप्रियस्य न लोकचित्तग्रहणे रतस्य’’(इतिहास-समुच्चयः २-१०)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिलुम् भगवत्-प्रावण्यम् अऩ्ऱिक्के 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आदिष्व् अपि,  
+भगवत्-प्रावण्यं विनैव, 
+</details>
+
+
+<details><summary>English</summary>
+
+when there is no devotion to Bhagavān
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **no hay devoción** a Bhagavān
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिलुम् भगवत्प्रावण्यमऩ्ऱिक्के 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘शिश्नोदरे ये **ऽभिरतास्** सदैव  
+स्तेयानृता वाक्-परुषाश् च नित्यम् ।  
+व्यपेत-धर्मा इति तान् **विदित्वा**  
+दूराद् देवास् **संपरिवर्जयन्ति**॥’’  
+(भारतम् शान्ति-पर्व ३०५-३६) 
+
+ऎऩ्गिऱ बडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘शिश्नोदरे ये **ऽभिरतास्** सदैव  
+स्तेयानृता वाक्-परुषाश् च नित्यम् ।  
+व्यपेत-धर्मा इति तान् **विदित्वा**  
+दूराद् देवास् **संपरिवर्जयन्ति**॥’’  
+(भारतम् शान्ति-पर्व ३०५-३६) 
+
+इत्य्-उक्त-रीत्या 
+</details>
+
+<details><summary>English</summary>
+
+The same is the meaning of the śloka :- 
+
+> “Those who are addicted to the pleasures of sex and to good food,  
+and those who commit (the offences of) theft,  
+uttering falsehoods and speaking harsh words,  
+are men that have given up dharma  
+and the gods avoid them  
+and keep at a distance from them on that account." 
+</details>
+
+<details><summary>Español</summary>
+
+Lo mismo es el significado del Śloka:-
+
+> “Aquellos que **son adictos** a los placeres del sexo y a la buena comida,  
+y aquellos que **cometen** (los delitos de) robo,  
+**pronunciar** falsedades y **hablar** palabras duras,  
+**son** hombres que **han abandonado** el dharma  
+y los dioses los **evitan**  
+y **manténgase** a distancia de ellos por esa cuenta ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘शिश्नोदरे येऽभिरतास्सदैव स्तेया नृता वाक्परुषाश्च नित्यम् । व्यपेतधर्मा इति तान् विदित्वा दूराद्देवास्संपरिवर्जयन्ति॥’’(भारतम् शान्ति-पर्व ३०५-३६) ऎऩ्गिऱबडिये
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बाह्य-विषय-प्रावण्यमेय्-उडैयार्क्कु मोक्षम् इल्लैय् ऎऩ्ऱबडि।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+बाह्य-विषय-प्रावण्यम् एव वहतां मोक्षो नास्तीत्य् उच्यते । 
+</details>
+
+
+<details><summary>English</summary>
+
+(when they are outwardly inclined)  
+it means (that there is no mukti for them). 
+
+</details>
+
+<details><summary>Español</summary>
+
+(cuando **están inclinados** hacia afuera)  
+**Significa** (que **no hay** mukti para ellos).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+बाह्यविषयप्रावण्यमे युडैयार्क्कु मोक्षमिल्लैयॆऩ्ऱबडि।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘पराङ्-मुखानां गोविन्दे  
+विषयासक्त-चेतसाम् ।  
+तेषां तत् परमं ब्रह्म  
+दूराद् दूरतरे **स्थितम्**॥’’  
+(विष्णु-धर्मः ९९-१३) 
+
+इत्य्-आदिगळिलुमिव्वर्थम् सिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘पराङ्-मुखानां गोविन्दे  
+विषयासक्त-चेतसाम् ।  
+तेषां तत् परमं ब्रह्म  
+दूराद् दूरतरे **स्थितम्**॥’’  
+(विष्णु-धर्मः ९९-१३) 
+
+इत्य्-आदिष्व् अयम् अर्थः सिद्धः । 
+</details>
+
+<details><summary>English</summary>
+
+The same is also the purport of such ślokas as the following :
+
+> Those whose minds are firmly fixed on the pleasures of the senses  
+while being averse to Govinda -  
+from them, that Supreme Brahman is at a great distance". 
+</details>
+
+<details><summary>Español</summary>
+
+Lo mismo **es** también el **significado** de tales Ślokas como los siguientes:
+
+> Aquellos cuyas mentes **están** firmemente **fijas** en los placeres de los sentidos  
+mientras **es** reacio a Govinda -  
+De ellos, ese supremo Brahman **está** a una gran distancia ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘पराङ्मुखानां गोविन्दे विषयासक्तचेतसाम् । तेषां तत्परमं ब्रह्म दूराद्दूरतरे स्थितम्॥’’ (विष्णु-धर्मः ९९-१३) इत्यादिगळिलुमिव्वर्थम् सिद्धम्। 
+</details>
+
+### भागवततम-लक्षणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तन्मयत्वेन गोविन्दे  
+ये नरा न्यस्त-चेतसः ।  
+विषय-त्यागिनस् तेषां  
+**विज्ञेयञ्** च तद् अन्तिके॥’’  
+(विष्णु-धर्मः ९९-१५) 
+
+इत्य्-आदिगळ् 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तन्मयत्वेन गोविन्दे  
+ये नरा न्यस्त-चेतसः ।  
+विषय-त्यागिनस् तेषां  
+**विज्ञेयञ्** च तद् अन्तिके॥’’  
+(विष्णु-धर्मः ९९-१५) 
+
+इत्यादीनि 
+</details>
+
+<details><summary>English</summary>
+
+So also it is said:-
+
+> "To those who always think of Govinda  
+and whose minds are firmly fixed on Him  
+to them Bhagavān may be considered to be always at hand". 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces también **se dice**:-
+
+> "Para aquellos que siempre **piensan** en Govinda  
+y cuyas mentes **se fijan** firmemente en él  
+Para ellos, **se puede considerar** que Bhagavān siempre **está** a la mano ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘तन्मयत्वेन गोविन्दे ये नरा न्यस्तचेतसः । विषयत्यागिनस्तेषां विज्ञेयञ्च तदन्तिक’’(विष्णु-धर्मः ९९-१५) इत्यादिगळ् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-पररुम् आय् विषय-त्यागिगळुम् आऩार्क्कु  
+विळम्बम् इल्लैय् ऎऩ्गिऱऩ।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवत्-पराणां विषय-त्यागिनां विलम्बो नास्तीति प्रतिपादयन्ति । 
+</details>
+
+
+<details><summary>English</summary>
+
+Such passages declare that there will be no delay (in attaining mukti)  
+for those who are devoted to Bhagavān  
+and who have, at the same time, given up the pleasures of the senses.
+</details>
+
+<details><summary>Español</summary>
+
+Tales pasajes **declaran** que **no habrá** demora (al **alcanzar** Mukti)  
+para aquellos que **están dedicados** a bhagavān  
+y que, al mismo tiempo, **han renunciado** a los placeres de los sentidos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवत्पररुमाय् विषयत्यागिकळुमाऩार्क्कु विळम्बमिल्लैयॆऩ्गिऱऩ।
+</details>
+
+### भागवत-वेषेषु
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उळ्ळ् ऒरु पसैय्+++(=स्नेहम्)+++ अऱ्ऱु  
+पशुत्-तोल्+++(=चर्म)+++ **पोर्त्तुप्**+++(=आवेष्ट्य)+++  
+पुलिप् पाय्च् चल् पायुङ्गणक्किले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आन्तर-भावं विनैव  
+गोचर्मणा स्वम् आवृत्य  
+व्याघ्रस्याऽऽक्रामतो रीत्या  
+भागवत-भावऩै पण्णित् तिरिवारैयुम् 
+</details>
+
+
+<details><summary>English</summary>
+
+Even those who wander about in the disguise of the devotees of Bhagavān   
+without any devotion at heart to Him  
+who are therefore like tigers wrapped in the skin of the cow  
+for the purpose of springing on cows 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso aquellos que **deambulan** en el disfraz de los devotos de Bhagavān   
+**sin** ninguna **devoción** en el corazón a él  
+que, por lo tanto, **son** como tigres **envueltos** en la piel de la vaca  
+con el **propósito** de **brotar** sobre vacas
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उळ्ळॊरु पसैयऱ्ऱु पसुत्तोल् पोर्त्तुप् पुलिप्पाय्च्चल् पायुङ्गणक्किले भागवतभावऩै पण्णित्तिरिवारैयुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उळ्ळ् अऱियुम् अळवुम्  
+उपरि-चरादिगळ् अ-सुरादिगळै आदरित्ताऱ् पोले  
+रूप-नमङ्गळैय् इट्ट् आदरिक्कप् प्राप्तम्।  
+</details>
+
+<details><summary>English</summary>
+
+even these are to be treated with respect for their appearance  
+and for their names (Bhāgavatas),  
+in the same way as Uparichara and others treated such persons as the Asuras,  
+until their inner nature was revealed. 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso estos **deben ser tratados** con respeto por su **apariencia**  
+y por sus nombres (bhāgavatas),  
+De la misma manera que Uparichara y otros **trataron** a personas como Asuras,  
+Hasta que **se revelara** su naturaleza interior.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उळ्ळऱियुमळवुम् उपरिचरादिगळसुरादिगळै आदरित्ताऱ्पोले रूपनमङ्गळै यिट्टादरिक्कप् प्राप्तम्।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिक् कॊत्त शैलूष-वृत्तिगळैप् पऱ्ऱ 
+
+> ‘‘न लिङ्गं धर्मकारणम्’’  
+(इतिहास-समुच्चयः ३३-१२३) 
+</details>
+
+<details><summary>English</summary>
+
+It is in regard to these actors by profession that (we find) the saying :-
+
+> "The outward mark is not the cause of dharma" 
+</details>
+
+<details><summary>Español</summary>
+
+Es con respecto a estos actores por profesión que (**encontramos**) el **dicho**:-
+
+> "La marca externa **no es** la causa del dharma"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिक्कॊत्त शैलूषवृत्तिकळैप्पऱ्ऱ ‘‘न लिङ्गं धर्मकारणम्’’(इतिहास-समुच्चयः ३३-१२३) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘फलं कतक-वृक्षस्य  
+यद्य् अप्य् अम्बु-प्रसादनम् ।  
+न नाम-ग्रहणेनैव  
+तस्य वारि प्रसीदति॥’’+++(5)+++  
+(मनुस्मृति ६-६७) 
+
+ऎऩ्गिऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘फलं कतक-वृक्षस्य  
+यद्य् अप्य् अम्बु-प्रसादनम् ।  
+न नाम-ग्रहणेनैव  
+तस्य वारि प्रसीदति॥’’  
+(मनुस्मृति ६-६७) 
+
+</details>
+
+<details><summary>विषयः</summary>
+
+लिङ्गम्, सारः, दम्भः
+</details>
+
+
+<details><summary>English</summary>
+
+and 
+
+> "Though the fruit of the soap-nut tree has the property of rendering (muddy) water clear,  
+yet the water is not rendered clear by the mere utterance of its name".
+
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "Aunque el fruto del árbol de jabón **tiene** la propiedad de la representación (fangosa) agua clara,  
+Sin embargo, el agua **no se hace** clara por la mera **expresión** de su nombre ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘फलं कतकवृक्षस्य यद्यप्यम्बुप्रसादनम् । न नामग्रहणेनैव तस्य वारि प्रसीदति’’(मनुस्मृति ६-६७) ऎऩ्गिऱदु। 
+</details>
 
 
 
 
-All sins are, of course, offences against Bhagavān. So the separate mention of some kinds of sin is to refer to offences against Bhagavān and His devotees. Śrī Rāmānuja's aim in this separate mention, is to state that whatever offences may be committed against others, if similar offences are committed against Bhagavān or His devotees, they would, by their very nature, lead to more severe punishments just, like treason against kings. The sphere of saṁsāra is, as it were, the nursery to Hell. Such being the case, it is very difficult to find in it people who walk in the right path. So to think ill of those who follow, in regard to Bhagavān, any one of the paths like karma  yoga, which are like the first steps leading to mukti, in accordance with their competence (adhikāra), is to commit an offence against the devotees of Bhagavān.
+<details><summary>English</summary>
 
-When it is said :-" There 'is no mukti for one who is extremely devoted to the science of grammar (Sabda Śāstra), for one who sets much store by food and clothing, for one who delights in living in a beautiful house and (as also), for one who is able to allure the minds of the people in the world by one's speech ", it means (that there is no mukti for them) when there is no devotion to Bhagavān. The same is the meaning of the śloka :- “Those who are addicted to the pleasures of sex and to good food, and those who commit (the offences of) theft, uttering falsehoods and speaking harsh words, are men that have given up dharma and the gods avoid them and keep at a distance from them on that account." The same is also the purport of such ślokas as the following :Those whose minds are firmly fixed on the pleasures of the senses while being averse to Govinda - from then, that Supreme Brahman is at a great distance". So also it is said:-" To those? who always think of Govinda and whose minds are firmly fixed on Hin ma to them Bhagavān may be considered to be always at hand". Such passages declare that there will be no delay (in attaining mukti) for those who are devoted to Bhagavān and who have, at the same time, given up the pleasures of the senses.
+THE UTTERANCE OF BHAGAVAN'S NAME  
+PURIFIES ONLY THOSE WHO DO NOT HATE HIM.
+</details>
 
-Even those who wander about in the disguise of the devotees of Bhagavān without any devotion at heart to Him and who are therefore like tigers wrapped in the skin of the cow for the purpose of springing on cows -- even these are to be treated with respect for their appearance and for their names (Bhāgavatas), in the same way as Uparichara and others treated such persons as the Asuras, until their inner nature was revealed. It is in regard to these actors by profession that (we find) the saying :-"The outward mark is not the cause of dharma" and "Though the fruit of the soap-nut" tree has the property of rendering (muddy) water clear, yet the water is not rendered clear by the mere utterance of its name".
+<details><summary>Español</summary>
 
-THE UTTERANCE OF BHAGAVAN'S NAME PURIFIES
+La **expresión** del nombre de Bhagavan  
+Purifica solo a aquellos que **no lo odian**.
+</details>
 
-ONLY THOSE WHO DO NOT HATE HIM.
 
 From the ślokas and Tamil verses that follow, it should not be understood that the mere mention of Bhagavān's name, though in contempt or vilification, will destroy all sins:-"Thos (who suffer from troubles), who are miserable, who have no steady foothold anywhere, who are afraid of saṁsāra and who are afflicted with terrible diseases - (all these) obtain freedom (from their ills) by the mere mention of the word 'Nārāyaṇa' and become happy". The man who, even without his being aware of it, pronounces the name of Bhagavān, is freed from all sins, in the same way as a forest is freed from deer owing to the fear of a lion", "The mention of Bhagavān's name - though it be to call a person who (merely) bears that name, though it be in irony, though it be pronounced wrongly, though it be in derision -(the mere mention of His name) will destroy all sins". "Hari destroys all sins when he is remembered even by men with evil hearts. Even if fire is touched unawares, it certainly burns." "The mentions of many of the names of Bhagavān which describe his attributes and actions is much more than is necessary). The mention of a single name is enough; for Ajamila, sinful though he was, attained mukti by calling his son 'Nārāyaṇa' at the time of his death". "Kshatrabandhu" attained the highest state by the mention of the name 'Govinda' with its three syllables, though he was in the midst of past evil deeds which surrounded him like ants. Why then, should we suffer from saṁsāra, while we have Śrī Raṅganātha who is so inordinately fond as to be easily accessible towards His servants." (All these passages should not be taken as literally true). They only mean that, if the man has no hatred for Bhagavān, the mention of Bhagavān's name is extremely purificatory, though his faith in Bhagavān is weak, though he utters the name like children and the like without a knowledge of its meaning, though he blabbers the name without any thought, though, his intentions being different, he utters the same as a conventional name or in irony and the like, though he is associated with other aims and though he has faults. Certainly it does not mean that derisive speech concerning Bhagavān and the like would destroy sins. Derisive speech and the like concerning Bhagavān have indeed been counted among the deadly sins (pataka). Has it not been said: "They who hate the Supreme Self and do not remember Keśava -- they will not find any good in bathing in the holy waters - nor those who associate with them (out of regard)" and also :-- "The son that hates his father should be looked upon as born to somebody else. He who always hates Bhagavān should be looked upon as being born to a man of the lowest caste"?
 
