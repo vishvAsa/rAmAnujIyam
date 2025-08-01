@@ -1,13 +1,13 @@
 +++
 title = "लोकार्यानुगेभ्यो भेदः"
-+++
 
++++
 ## प्रामुख्य-तारतम्यम्
-anAchAra resulting from misunderstanding vidhi and tyAga is the most serious part.  
-These other issues (status of lakshmi, kaivalya, vyApti), though, add to the arrogance and intransigence of anAchAra-para-s if ignored.
+anAchAra resulting from misunderstanding vidhi and tyAga is the most serious part।  
+These other issues (status of lakshmi, kaivalya, vyApti), though, add to the arrogance and intransigence of anAchAra-para-s if ignored।
 
 ## प्रमाणम्
-वेङ्कटनाथशाखाऽभ्युपगतः क्रमो [ऽन्यत्रोक्तः](../pramANAni)। 
+वेङ्कटनाथशाखाऽभ्युपगतः क्रमो [ऽन्यत्रोक्तः](॥/pramANAni)। 
 
 लोकाचार्य-शाखायाम् -
 
@@ -17,14 +17,14 @@ These other issues (status of lakshmi, kaivalya, vyApti), though, add to the arr
 तत्र स्मृत्य्-अपेक्षया ऽऽगम-परत्वे तद्-भगवत्-प्रणीतत्वम् उच्यते कारणम्।  
 वृद्ध-हारितादि-स्मृति-विरोधेन वैश्वदेवाकरणे काचनाप्रसिद्धा "वासुदेवसंहिता" पुरस् क्रियते। 
 
-तद्-ऐतिह्य-समर्थनार्थं पुराण-स्खालित्यानि क्वचिद् दर्शयन्ति।  
+तद्-ऐतिह्य-समर्थनार्थं पुराण-स्खालिध्यानि क्वचिद् दर्शयन्ति।  
 (देवहूत्या स्वपुत्र-कपिल-नमस्क्रिया, पराशरभट्टस्य तन्-मात्रा वन्दनस्योत्थम्भनाय यथा। )  
 
 ### ऐतिह्य-पात्रम्
 "यान्य् अस्माकं सुचरितानि, तानि त्वयोपास्यानि, नो इतराणि"  
 इति श्रुतिम् उपेक्ष्य लोकाचार्यानुगाः -
 
->  रामानुजार्य-दिव्याज्ञया यत् किञ्चिद् अपि कर्तव्यं  
+> रामानुजार्य-दिव्याज्ञया यत् किञ्चिद् अपि कर्तव्यं  
 > विचारणं विना तत्कर्म वयं कुर्मः ।  
 > यदि तदनिष्टं तर्हि रामानुजार्याः तस्मिन्न् एव दिने निवारयन्ति स्म ।
 
@@ -33,24 +33,36 @@ These other issues (status of lakshmi, kaivalya, vyApti), though, add to the arr
 > एतत् सर्वं चरमोपायनिर्णयः , चरमगुरुनिर्णयः , अन्तिमोपायनिष्ठा इत्यादिषु ग्रन्येषु ज्ञायते । रामानुजरहस्यत्रये परमस्पष्टतया ज्ञायते ॥
 
 इति केचित्।  
-These books are just collection of aitihyams unlike rahasya granthams. Not absolute pramana. Some vks doubt their authenticity claiming they came post 17th century and were attributed to earlier authors to get legitimacy. 
+These books are just collection of aitihyams unlike rahasya granthams। Not absolute pramana। Some vks doubt their authenticity claiming they came post १७th century and were attributed to earlier authors to get legitimacy। 
 
-One such dubious aitihyam, regarding nADAdUr ammAL, used by them is this. They cancel prapanna parijatam and other works of his telling that they were meant for lower prapanna adhikaris on the basis of this - 
+One such dubious aitihyam, regarding nADAdUr ammAL, used by them is this। They cancel prapanna parijatam and other works of his telling that they were meant for lower prapanna adhikaris on the basis of this - 
 
 > प्रयाणकाले चतुरः स्वशिष्यन्  
 पादान्तिक-स्थान् वरदो ऽथ वीक्ष्य ।
 भक्तीप्रपत्ती यदि दुष्करे वो  
 रामानुजाय नमेत्यवादि ॥
 
-
-
 ## प्रपत्तौ  
-प्रयोग-विचारो [ऽन्यत्र‌](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/lokAchAryAnuga-bhedAH) । 
+प्रयोग-विचारो [ऽन्यत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/lokAchAryAnuga-bhedAH) । 
 
 ### अनुष्ठेयता
-- रामानुजस्य सानुग-प्रपत्तेः परम्, तत्-सम्बन्धतस् तत्-प्रशिष्यादीनाम् अपि मोक्षार्था प्रपत्तिर् जातैवेति।
-  - "भगवच्-चरण+अरविन्द-शरणागतिर् ... अस्तु मय्" इति शरणागति-गद्ये "तयैव सर्वं सम्पत्स्यते" इति लक्ष्मी-वचनस्य व्याख्याने "तत्सम्बन्धसम्बन्धिनिस्तरणमपि सर्वशब्दाभिप्रेतम्" इति सुदर्शन-भट्टः । तावता निस्तरणार्थ-प्रपत्तिर् नापेक्षितेति केचित्। (किन्तु  "भगवच्-चरण-शरणागती रामानुज-सम्बन्धि-सम्बन्धीनाम् अप्य् अनुगृहीतम्" इत्य् अभिप्रायो भाति।)
+#### रामानुज-प्रपत्ताव् अन्तर्भावः
+रामानुजस्य सानुग-प्रपत्तेः परम्, तत्-सम्बन्धतस् तत्-प्रशिष्यादीनाम् अपि मोक्षार्था प्रपत्तिर् जातैवेति।
 
+"भगवच्-चरण+अरविन्द-शरणागतिर् ॥। अस्तु मय्" इति शरणागति-गद्ये "तयैव सर्वं सम्पत्स्यते" इति लक्ष्मी-वचनस्य व्याख्याने "तत्सम्बन्धसम्बन्धिनिस्तरणमपि सर्वशब्दाभिप्रेतम्" इति सुदर्शन-भट्टः । तावता निस्तरणार्थ-प्रपत्तिर् नापेक्षितेति केचित्। (किन्तु "भगवच्-चरण-शरणागती रामानुज-सम्बन्धि-सम्बन्धीनाम् अप्य् अनुगृहीतम्" इत्य् अभिप्रायो भाति।)
+
+नम्पिळ्ळै-शिष्य-सङ्गृहीतय् ईडु-ग्रन्थ उक्तम् -
+
+> इवर् पण्णिऩ प्रपत्तिये नमक्क् ऎल्लाम् । तऩित्तु वेण्डा । इप्पासुरत्तै सॊल्लि फलत्तिल् अन्वयिक्कुम् अत्तऩै । नऱ्कऩ्ऱुक्किरङ्गिऩदु तोल्गऩ्ऱुक्कु इरङ्गुमाप् पोले,  
+इवरै निऩैत्तु इप्पत्तुङ् गऱ्ऱार् बक्कलिलुम्  
+ईश्वरऩ् प्रसन्नऩ् आम्।
+
+किञ्च +ईडु-ग्रन्थस्थोद्गारैकदेशा न प्रमाणम् - अखिल-ग्रन्थोक्तीर् अकलय्यैव तद्-आशयो निर्णेतव्यः। 
+(तच्छिष्येण तद्-अनुज्ञाम् अन्तरैव सङ्गृहीतः स ग्रन्थ इति न विस्मरणीयम्।) 
+
+अन्ततः तेष्व् आत्म-रक्षा-भर-समर्पणम् अङ्गीकृतम्, अनुष्ठीयते चेति, अन्येथा-प्रवादो भ्रम इति [तदीय-विद्वांसः](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/lokAchAryAnuga-bhedAH) ।  
+
+#### अपचार-बुद्धिः
 मोक्षार्थ-प्रपत्तिर् नाम कर्मावश्यं न करणीयम् - अपचारो भवतीति, स्वरूप-विरुद्धम् इति च केचित्। तत्र किमपि फल्गु दर्शयन्ति - 
 
 > भगवदाश्रयणमेव अत्र उपायान्तरत्वेनोच्यते ।  
@@ -58,43 +70,39 @@ One such dubious aitihyam, regarding nADAdUr ammAL, used by them is this. They c
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्) - प्रस्तावः</summary>
 
-> In rahasya granthas they tell bhakti is svarupa viruddha and tell prapatti is in accordance with ones nature. In aitihya-granthas they go 1 step ahead and tell prapatti itself is svarupa viruddha. This itself exposes inconsistencies.
+> In rahasya granthas they tell bhakti is svarupa viruddha and tell prapatti is in accordance with ones nature। In aitihya-granthas they go १ step ahead and tell prapatti itself is svarupa viruddha। This itself exposes inconsistencies।
 </details>
 
-
+#### अ-विधेय-ज्ञान-मात्रम्
 प्रपत्तिम् अ-विधेय-ज्ञान-मात्रम् मन्यन्ते केचित्। यथा - 
 
 > “त्वम् एवोपायभूतो मे  
 भवेति प्रार्थनामतिः ।  
 शरणागतिरित्युक्ता”  
-(अहिर्-बुध्न्य-संहिता 37-31)। 
+(अहिर्-बुध्न्य-संहिता ३७-३१)। 
 
 न तादृशा वर्तन्तय् इति श्रीनिवासराजः। 
 
-> "भूयसान्यायत्तैप् पार्त्तालुम् सात्यकितन्त्रलक्ष्मीतन्त्राहिर्बुध्न्यसंहितादिगळिल् प्रपत्त्यध्यायङ्गळिले निक्षेपम् अङ्गियॆण्ड्रे प्रसिद्धम् … तत्प्रकरणत्तिल् प्रधानमागच्चॊन्न भरन्यासपर्यन्तमॆन्नुमिडम् अवधारणसहकृतोपायशब्दत्ताले व्यञ्जितम्. ओरॊरु विवक्षैगळाले अङ्गङ्गळै प्रधानमागच् चॊल्लुगै लोकत्तिलुमुण्डु." 
+> "भूयसान्यायत्तैप् पार्त्तालुम् सात्यकितन्त्रलक्ष्मीतन्त्राहिर्बुध्न्यसंहितादिगळिल् प्रपत्त्यध्यायङ्गळिले निक्षेपम् अङ्गियॆण्ड्रे प्रसिद्धम् … तत्प्रकरणत्तिल् प्रधानमागच्चॊन्न भरन्यासपर्यन्तमॆन्नुमिडम् अवधारणसहकृतोपायशब्दत्ताले व्यञ्जितम्। ओरॊरु विवक्षैगळाले अङ्गङ्गळै प्रधानमागच् चॊल्लुगै लोकत्तिलुमुण्डु।" 
 
 इति वेङ्कटनथर्येण परिहृतम्। 
 
-अन्ततः तेष्व् आत्म-रक्षा-भर-समर्पणम् अङ्गीकृतम्, अनुष्ठीयते चेति, अन्येथा-प्रवादो भ्रम इति तदीय-विद्वान् कोविल्-भरतः [TW](https://youtu.be/Pj4AJhK_2wA?t=1167) ।  
-
-
 ### अभीप्सितो ऽर्थः
-प्रपत्तौ गोप्तृत्व-वरणम्‌/ स्वाभिप्राय-निवेदनम् अङ्गम्।  
+प्रपत्तौ गोप्तृत्व-वरणम्/ स्वाभिप्राय-निवचेतनम् अङ्गम्।  
 रामानुज-सम्बन्धतो "रक्ष (मोक्षं देहि)" इति प्रपत्तिर् भवतीति भावना।  
 
 रक्ष्यत्वेनात्मसमर्पणम् भवति प्रायेण,  
 न निगदित-समये मोक्षयेति।  
 तत् तु शरणागतिगद्य वचनेन वाचनेन वोह्यतय् इति केचित्। 
 
-परम्परया रामानुज-कृत-स्व-स्वीय-रक्षणार्थ-प्रपत्ताव् अस्मद्-अन्तर्भावः प्रार्थ्यत इति केचित् [TW](https://youtu.be/Pj4AJhK_2wA?t=1167) ।  
+परम्परया रामानुज-कृत-स्व-स्वीय-रक्षणार्थ-प्रपत्ताव् अस्मद्-अन्तर्भावः प्रार्थ्यत इति केचित् [TW](https://youtu।be/Pj४AJhK_२wA?t=११६७) ।  
 समाश्रयणमात्रेण सिद्धस्य साधनं कुत इति तु विचारणीयम्।  
 अथवा महाविश्वासोपबृंहणार्थं रामानुज-शरणागतौ श्री-वचने "तया +एव सर्वं सम्पत्स्यते" इत्यत्र "स्व-सम्बन्धि-सम्बन्धि-निस्तरणम्" इति सुदर्शन-भट्टेन व्याख्यातम् स्मरन्तीति भाव्यम्। 
 
 किञ्च - प्रयोगं दृष्ट्वैव निश्चेतव्यम् - भाषण-लेखनादीनाम् अतिवाद-प्रावण्यात्। 
 
-
 ### अनुष्ठानम्
-समाश्रयणसमये द्वयोच्चारणानूच्चारणाद्य् एव प्रपत्तिर् (साऽपि न साक्षान्-मोक्षार्था) इति केचित् (TW](https://youtu.be/Pj4AJhK_2wA?t=1262)
+समाश्रयणसमये द्वयोच्चारणानूच्चारणाद्य् एव प्रपत्तिर् (साऽपि न साक्षान्-मोक्षार्था) इति केचित् (TW](https://youtu।be/Pj४AJhK_२wA?t=१२६२)
 )।  
 तत्र भाष्यकृता शरणागतिगद्ये क्रमशो लक्ष्मीप्रपत्तिः, ततः द्वयवचनम्, दोषक्षमायाचनम्, भक्ति-मिक्ति-प्रार्थनम् … इति यः क्रमो दर्शितः, सोऽपि तत्रान्तर्भवतीति केचित्।   
 
@@ -104,9 +112,8 @@ One such dubious aitihyam, regarding nADAdUr ammAL, used by them is this. They c
 
 (इदं श्रीवास-प्रश्नोत्तरे नडादूर्-करुणाकराचार्येणोहितम् )
 
-Historically some acharyas preferred to do bharanyasam post kalakshepam so that the shishya knows what's happening. One other group decided to do with 5 samskaram, as it is easier to get done with it at once. Life expectancy was low back then. In due time it became frozen.
+Historically some acharyas preferred to do bharanyasam post kalakshepam so that the shishya knows what's happening। One other group decided to do with ५ samskaram, as it is easier to get done with it at once। Life expectancy was low back then। In due time it became frozen।
 </details>
-
 
 ### रामानुज-सम्बन्धापेक्षा
 > रामानुजसम्बन्धम् अन्तरा ऽपि मुक्तिर् भवति।  
@@ -160,7 +167,7 @@ Historically some acharyas preferred to do bharanyasam post kalakshepam so that 
 अर्चाकैङ्कर्ये कृते सन्ध्यावन्दनादि-त्यागम् (न केवलं विलम्बम्) अप्य् अङ्गीकुर्वन्ति । 
 
 ### Cognitive dissonance
-> A set of tenkalais take acharya hrdayam like texts too seriously. When you do that (where they talk about identifying with Azhvar gotra and not Rishi gotras) and not giving due importance to karma, but still continue to hold on to varna in practice - you have a dissonance.
+> A set of tenkalais take acharya hrdayam like texts too seriously। When you do that (where they talk about identifying with Azhvar gotra and not Rishi gotras) and not giving due importance to karma, but still continue to hold on to varna in practice - you have a dissonance।
 
 सन्ध्यावन्दनवेलायाम्  
 मुक्तोहम् इति कथ्यते।  
@@ -168,7 +175,6 @@ Historically some acharyas preferred to do bharanyasam post kalakshepam so that 
 दण्डम् आदाय धावति॥
 
 (इति यादवप्रकाशः। )
-
 
 ## लक्ष्मीः
 लक्ष्मी-विशिष्टं नारायणं न प्राप्यं मन्यन्ते दाक्षिणाः।  
@@ -179,8 +185,7 @@ Historically some acharyas preferred to do bharanyasam post kalakshepam so that 
 किञ्च तथाऽपि सति परस्पर-शेषत्वं स्यात्।  
 नित्यसूरिपरिगणनायां तु "ईश्वरीं सर्वभूतानाम्" इत्यादि-वचन-विरोधः।  
 
-ईश्वरानेकत्वगता आक्षेपा अन्यत्र [विचारिताः](../devAH) । 
-
+ईश्वरानेकत्वगता आक्षेपा अन्यत्र [विचारिताः](॥/devAH) । 
 
 ### पुरुषकारत्वम्
 जीवान्तर-परतः पुरुषकारित्वं तु स्वीकुर्वन्ति, तेन तस्या अप्य् आराधनम्।  
@@ -213,7 +218,7 @@ Historically some acharyas preferred to do bharanyasam post kalakshepam so that 
 <details><summary>पूर्वाचार्य-वचनम्</summary>
 
 > वेरिमाऱादबूमेलिरुप्पाळ् विऩैदीर्क्कुमे  
-(तिरु-वाय्-मॊऴि ४.५.११)
+(तिरु-वाय्-मॊऴि ४।५।११)
 
 इत्यत्र ईडु-ग्रन्थे नम्-पिळ्ळै-शिष्यो वडक्कु-तिरु-वीदि-पिळ्ळै - 
 
@@ -230,9 +235,6 @@ Historically some acharyas preferred to do bharanyasam post kalakshepam so that 
 तद्-उपाय-प्रार्थना-पर्यन्तं कृत्वा…  
 </details>
 
-
-
-
 ### विभुत्वम्
 > ‘‘व्यापकाव् अतिसंश्लेषाद्  
 एक-तत्त्वम् इवोदितौ’’  
@@ -246,9 +248,9 @@ Historically some acharyas preferred to do bharanyasam post kalakshepam so that 
 यदि प्रभुत्वोक्तौ ग्राह्या सा, न तु विभुत्वोक्ताव् इति न्याय्यम्, तत्र भेदस्य कारणं वाच्यम्।
 
 > अथवा भगवान् विभुत्वेन सर्वगतः;
-अस्यास् तच्-छक्ति-वशाद् अणुत्वेऽपि तत्रतत्र संधानात् सर्व-गत्वम् उक्तम् । 
+अस्यास् तच्-छक्ति-वशाद् अणुत्वेऽपि तत्रतत्र सन्धानात् सर्व-गत्वम् उक्तम् । 
 
-इति विष्णुचित्तीयस्य पक्षः प्रक्षिप्त इति स्फुटम्। कारणानि विष्णुचित्तीय-[सञ्चिकायाम्](/purANam_vaiShNavam/content/viShNu-purANam/viShNuchitta-TIkA/01/08) हि द्रष्टव्यानि। 
+इति विष्णुचित्तीयस्य पक्षः प्रक्षिप्त इति स्फुटम्। कारणानि विष्णुचित्तीय-[सञ्चिकायाम्](/purANam_vaiShNavam/content/viShNu-purANam/viShNuchitta-TIkA/०१/०८) हि द्रष्टव्यानि। 
 
 ### रक्षायाम् प्राधान्यम्
 
@@ -276,9 +278,8 @@ Historically some acharyas preferred to do bharanyasam post kalakshepam so that 
 ## अवताराः
 सौम्यजामातृ-विमतिः 
 
-- तत्त्व-त्रय-व्याख्याने बुद्धस्य साक्षाद्-अवतारत्वम् आचार्यहृदये प्रतिपादितम्। विष्वक्सेन-संहितादिषु तस्यावेशावतारत्वम् उक्तम्। Ignores viShvaksena saMhita etc.. and says buddha is pUrNAvatAra.
-- पराशरभट्ट-विरोधेन व्यासः पूर्णावतारः कीर्तितः। Ignores parAsharabhaTTa and says he's pUrNAvatAra.  
-
+- तत्त्व-त्रय-व्याख्याने बुद्धस्य साक्षाद्-अवतारत्वम् आचार्यहृदये प्रतिपादितम्। विष्वक्सेन-संहितादिषु तस्यावेशावतारत्वम् उक्तम्। Ignores viShvaksena saMhita etc॥ and says buddha is pUrNAvatAra।
+- पराशरभट्ट-विरोधेन व्यासः पूर्णावतारः कीर्तितः। Ignores parAsharabhaTTa and says he's pUrNAvatAra।  
 
 ## इतिहासादौ
 विभीषणशरणागतिर् न कैङ्कर्यार्थं, अपि तु राज्यार्थम् इति तॆन्नाचार्यमतम् प्रचुरम् इति श्रूयते । इदं च प्रमाण-प्रतिषिद्धं वेङ्कटनाथार्येण खण्डितम् इति ज्ञायते। 
@@ -293,7 +294,7 @@ Historically some acharyas preferred to do bharanyasam post kalakshepam so that 
 एवं स्व-प्रवृत्त्या (प्रपत्त्या) भगवत्-प्राप्ताव् अपि!  
 किन्तु नानन्दे तारतम्यम् उच्यते।  
 
-(Reference : Discussion in 18th Chapter of Bhagavad GIta - Commentary by SrI PuttUr SwAmi in Tamil; following his grandfather. Was invented mostly as a cope to put down vks. No where is this mentioned by any tk purvacharya like PL, MM etc..)
+(Reference : Discussion in १८th Chapter of Bhagavad GIta - Commentary by SrI PuttUr SwAmi in Tamil; following his grandfather। Was invented mostly as a cope to put down vks। No where is this mentioned by any tk purvacharya like PL, MM etc॥)
 
 कैश्चिल् लोकार्यानुगैर् इदं नाङ्गीक्रियते। 
 
@@ -309,7 +310,6 @@ Historically some acharyas preferred to do bharanyasam post kalakshepam so that 
 फल-**कामा** हि ते मताः ।  
 सर्वे **च्यवन**-धर्माणः  
 प्रतिबुद्धस् तु मोक्ष-**भाक्**
-
 
 लोकाचार्यानुयायिनस् तु कैवल्यं कामपि वैकुण्ठवर्तिनीं स्थितिम् मन्यन्ते, नित्यं च ततः। तत्र जरामृत्युभ्याम् मोक्षः कश्चन कैवल्यम् उक्तम् इति कारणम्।  
 तत्राशरीरत्वं कैवल्य-भाजां मन्यन्ते।  
@@ -332,7 +332,7 @@ Historically some acharyas preferred to do bharanyasam post kalakshepam so that 
 > न वयं तत्कुलीनाश्च राज्यकाङ्क्षी च राक्षसः॥ 
 
 किञ्च, परकृतारोपात् स्ववचनं बलीय इति समादधाति वेङ्कटनाथः।  
-इदं अभयप्रदानसाराख्ये ग्रन्थे प्रतिपादितम् इति श्रूयते। 
+इदं अभयप्रधानसाराख्ये ग्रन्थे प्रतिपादितम् इति श्रूयते। 
 
 रामस्य परदेवत्वे ज्ञानम् आसीद् विभीषणय् इति -
 
@@ -344,7 +344,7 @@ Historically some acharyas preferred to do bharanyasam post kalakshepam so that 
 
 ## भरत-शरणागतिः
 भरत-शरणागतिर् विफलेति केचित्।  
-नैवम् इति वेङ्कटनाथार्यो ऽभयप्रदानसारे।  
+नैवम् इति वेङ्कटनाथार्यो ऽभयप्रधानसारे।  
 हेतव उच्यन्ते - 
 
 - शास्त्र-विरुद्धम् / स्वाभिलषित-विरुद्धम् फलं शरणागतेर् न भवति। तस्मिन् प्रार्थिते, आनुकूल्यस्य सङ्कल्पे वैकल्यात् शरणागतिर् एव न भवति।  
@@ -355,12 +355,11 @@ Historically some acharyas preferred to do bharanyasam post kalakshepam so that 
 - फलम् स्फुटम्
   - प्रतिनिधिरूपेण पादुके प्रेषितय् एव । 
   - वनवासान्ते त्वरया प्रत्यागतः - हनुमन्तम् अग्रे प्रेषयित्वा ऽपि स्वयम् अयोध्यां चलितुम् आरेभे।
-  
+    
 ## व्यवहारः
 स्वाभिमताचार्य-कृत-स्खालित्यम् अभ्युपगन्तुं शक्तिर् लोके दुर्लभा - अस्मास्व् अपि। किञ्च, कैश्चिद् आचार्यैर् अत्यधिकं स्खलितम्। इमे तदीयशिष्याश् शाङ्करा इव तर्के प्रतितर्कयितुम् अक्षमाः कोपाटोपं शरणं यन्ति। 
 
-Regarding bhakti, prapatti, lakShmI, karmans, pApa, kaivalya etc.. the lokAchArya branch has generated much confusion, misled by the emotional (but logically deficient) outpourings of their root perceptors compounded by their own scholarly inadequacies.
-
+Regarding bhakti, prapatti, lakShmI, karmans, pApa, kaivalya etc॥ the lokAchArya branch has generated much confusion, misled by the emotional (but logically deficient) outpourings of their root perceptors compounded by their own scholarly inadequacies।
 
 ### देशिक-मान्यता
 सौम्यनारायणः -
@@ -369,7 +368,6 @@ Regarding bhakti, prapatti, lakShmI, karmans, pApa, kaivalya etc.. the lokAchAry
 नैवाऽऽचार्यमिमं ध्रुवं गुरुततेर्निष्कास्य यूयं क्षमाः।  
 श्रीभाष्याधिगमे, 'तथाऽपि न हि नो हानिर्भवेद्भूयसी'  
 चिन्तैवं यदि वर्तते यतिपतेराज्ञा कदर्थीकृता॥
-
 
 ## जातिः
 
@@ -385,7 +383,6 @@ Regarding bhakti, prapatti, lakShmI, karmans, pApa, kaivalya etc.. the lokAchAry
 नेष्टश् चेद् वितथाविकत्थन-परैर् युष्माभिर् आशंसितम्।
 </details>
 
-
 शूद्र-भागवत-पाद-तीर्थम् अपि स्वीकुर्वन्ति केचित् लोकार्य-सम्प्रदाये? न।  
 तर्हि - तर्हि लोकाचार्यस्य जातिविचारणाहेयत्वस्य +उद्गार  
 उद्गारत्वेनैव ग्राह्य इति तन्मतम् ।
@@ -395,5 +392,4 @@ Regarding bhakti, prapatti, lakShmI, karmans, pApa, kaivalya etc.. the lokAchAry
 प्रबन्धपाठकाले तु  
 जातिरस्ति सदा ऽऽलये॥
 
-इति शठकोपतातार्यः। 
-
+इति शठकोपतातार्यः।
