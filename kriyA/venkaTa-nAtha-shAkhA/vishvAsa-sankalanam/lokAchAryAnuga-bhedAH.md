@@ -53,13 +53,17 @@ Ramanuja acts like chief purushakara in prapatti( coz guruparampara is treated s
 
 
 #### विवरणम्
+आत्म-रक्षा-भर-समर्पणम् अङ्गीकृतम्, अनुष्ठीयते चेति, अन्येथा-प्रवादो भ्रम इति तदीय-विद्वान् कोविल्-भरतः [TW](https://youtu.be/Pj4AJhK_2wA?t=1167) । 
+
 दॊड्डयाचार्यसम्प्रदाये प्रपत्तिनाम्ना पञ्चसंस्कारसमये भगवच्-चरणयोश् शिष्यो स्वसदृश-रक्ष्यत्वेन समर्प्यते - [TW](https://youtu.be/BUB929lXvWE?t=211) । ("Offering shishya like flower at feet of perumal")  
 gAdi-PBA-शिष्यः रङ्गनाथार्यः - [TW](https://www.youtube.com/watch?v=5loL0Sy18-Y&t=196s)।  
 सिद्ध-दाताश्रमे [ऽत्र](/rAmAnujIyam/kriyA/lokAchArya-shAkhA/articles/siddha-dAtAshrama-pancha-saMskAraH)। 
 
 #### सौष्ठवम्
-तत्र स्वरूप-समर्पणम् भवति, न फलसमर्पणं।  
+उपन्यासादिभ्यो यद्य् अङ्गान्य् अवगत्य प्रपद्यन्ते, तर्हि तानि कथयितुं कुतः क्लेशः? 
 
+##### आत्म-समर्पणम्
+तत्र स्वरूप-समर्पणम् भवति, न फलसमर्पणं।  
 रक्षा-भर-समर्पणम् भवति।  
 साधारण-रक्षकत्वमात्रं पूर्वम् एव सिद्धम्,  
 अतो न किञ्चित् साध्येत - कैङ्कर्यम् अन्तरा।  
@@ -67,7 +71,11 @@ gAdi-PBA-शिष्यः रङ्गनाथार्यः - [TW](https://
 
 अनेनात्मापहार-पापं निर्वर्तते। इदं याग-शब्देनापि व्यवह्रियते ([TW](https://www.youtube.com/watch?t=1112&v=Pj4AJhK_2wA&feature=youtu.be))। 
 
+##### स्वाभिप्राय-निवेदनम्
 अत्र कृतासु प्रपत्तिषु स्वाभिप्रायनिवेदनं नामाङ्गम् अस्पष्टम् भवति बहुदा। किञ्च, गुरुपरम्परानुसन्धानेन बुद्धि-पूर्वकाङ्ग-वैकल्य-परिहारो न भवति। (तद् [अन्यत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/karma-bhakti-jNAna-prapattayaH) विचारितम्।)
+
+स्वाभिप्राय-निवेदन-वैकल्ये सति लोकाचार्य-सम्प्रदाये क्रियमाणं कर्म  
+प्रपत्त्यन्तर-जनकम् इत्य् एवावसेयम्।
 
 द्वय-वचन-मात्रेण वा शरणागति-गद्य-जप-मात्रेण वा साङ्गा प्रपत्तिस् सिध्यतीति न मन्तव्यम्। (तद् [अन्यत्रोक्तम्](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/karma-bhakti-jNAna-prapattayaH)। )
 
@@ -78,6 +86,9 @@ gAdi-PBA-शिष्यः रङ्गनाथार्यः - [TW](https://
 इति भगवत्-प्रतिवचनम् अपि वदन्ति चेत्  
 तेन तद् अपि पूर्यते - किञ्च प्रायेण नोच्यते।  
 
+##### प्रातिकूल्य-वर्जनम्
+तेष्व् एवोपन्यासेषु दोष-भोग्यता-पुरस्कारे सति,  
+कथं सिध्येत् प्रातिकूल्य-वर्जन-सङ्कल्पो नामाङ्गम्?
 
 ### मोक्षार्था क्वचित्
 > DoDDayAchArya alias VAdUla SrInivAsAchArya alias MahAchArya, a great ThennAchArya of the 16th Century has supposed to have accepted Prapatti as NyAsa Vidya, with all the five angAs etc as explained by SwAmi DESikan. It is told that, during SamASrayanam, he would make the disciple recite NammAzhwAr's " akalakillEn ... " pAsuram in front of Divya Dampati after he recites it etc. This way, he used to perform " Ukti nishta " Prapatti it seems.... In the book " YatIndra Mata DIpikA " by SrInivAsAchArya, the ardent disciple of SrI DoDDayAchArya, the section on Prapatti lists the five angAs and eqautes it to a Brahma Vidya as a positive act  
