@@ -5422,37 +5422,84 @@ Iśvara **es** el único **controlador** de quien **se dice** (lo anterior).
 ## अनुकूलेषु वृत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘रागादि-दूषिते चित्ते  
-नास्पदी मधुसूदनः ।  
-न बध्नाति रतिं हंसः  
+> ‘‘रागादि-**दूषिते** चित्ते  
+**नास्पदी** मधुसूदनः ।  
+**न बध्नाति** रतिं हंसः  
 कदाचित् कर्दमांभसि॥’’  
 (विष्णु-धर्मः ९-११) 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘रागादि-दूषिते चित्ते  
-नास्पदी मधुसूदनः ।  
-न बध्नाति रतिं हंसः  
+> ‘‘रागादि-**दूषिते** चित्ते  
+**नास्पदी** मधुसूदनः ।  
+**न बध्नाति** रतिं हंसः  
 कदाचित् कर्दमांभसि॥’’  
 (विष्णु-धर्मः ९-११) 
-
 </details>
 
+<details><summary>English</summary>
+
+> The slayer of Madhu ( Madhusūdana) does not remain in the mind of the man  
+which is impure owing to such things as (evil) desires;  
+the swan never delights in water that is muddy." 
+</details>
+
+<details><summary>Español</summary>
+
+> El **asesino** de Madhu (Madhusūdana) **no permanece** en la mente del hombre  
+que **es** impuro debido a cosas como deseos (malvados);  
+El cisne **nunca se deleita** en el agua que **está** fangosa ".
+</details>
 
 <details><summary>मूलम्</summary>
 
 ‘‘रागादि दूषिते चित्ते नास्पदी मधुसूदनः । न बध्नाति रतिं हंसः कदाचित्कर्दमांभसि॥’’(विष्णु-धर्मः ९-११) 
 </details>
- 
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळैप् पार्त्तु,  
+नॆगिऴादे+++(=अविस्रस्य)+++,  
+</details>
+
+<details><summary>English</summary>
+
+(With this knowledge in our minds )  
+we should refrain from treating with disregard these devotees  
+on the strength of what is said in such passages as this (above). 
+</details>
+
+<details><summary>Español</summary>
+
+(Con este **conocimiento** en nuestras mentes)  
+**Debemos abstenernos** de **tratar sin tener** en **cuenta** estos devotos  
+sobre la fuerza de lo que se dice en pasajes como este (arriba).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळैप्पार्त्तु नॆगिऴादे 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अधिकारिगळ् पक्कल् उळ्ळ गुणांशत्तै  
+मरु-भूमियिल् तण्-णीर्-बॆऱ्ऱाऱ् पोलेय् उगन्दु +++(4)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वधिकारिकळ् पक्कलुळ्ळ गुणांशत्तै मरुभूमियिल् तण्णीर्बॆऱ्ऱाऱ्पोले युगन्दु
+</details>
 
 
 
-
-(With this knowledge in our minds ) we should refrain from treating with disregard these devotees on the strength of what is said in such passages as this : The slayer" of Madhu ( Madhusūdana) does not remain in the mind of the man which is impure owing to such things as (evil) desires; the swan never delights in water that is muddy." On the other hand, we should feel delighted at any good features that might be found in such devotees, even as in finding water in a wilderness.
+On the other hand, we should feel delighted at any good features that might be found in such devotees, even as in finding water in a wilderness.
 
 It has been said :-"Whatever a man often does with the activities of his body, mind and speech - it makes a man its captive. Therefore one should (ever) perform what is good. So we should never deviate from the right path with the body, mind or speech.There is a saying that "The poison tree called saṁsāra bears two (kinds of) fruits which are like nectar - one is bhakti  to Bhagavān and the other association with those who are His bhaktas". Therefore we should feel it a blessing that we have obtained the unattainable privilege of association with those really great men who may appear small (in the eyes of the ignorant) and who have the great good fortune of having sought the protection of the Supreme Being, for this should be the great object of desire during our life. time here. We should rest assured "that evil" deeds can never be ours, as we have been accepted by the Lord (as His servants)", and "That the Lord who wields the chakra (the discus) protects us and that (therefore) no one can do anything harmful to us." We should therefore crown ourselves, even here, in anticipation of the empireship of perfect service to the Lord which will be ours in Heaven (Paramapada). This potency which has been determined so far should be remembered in connection with such places as indicate the fruit in the three mysteries (mantras), as established by necessary consequence.
 
