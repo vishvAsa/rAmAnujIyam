@@ -1887,19 +1887,21 @@ cuando acaban de **comenzar** a **controlar** los sentidos.
 यतमानेत्यादि ।  
 इङ्गु आदिशब्दत्ताले व्यतिरेकैकेन्द्रिय-वशीकार-सञ्ज्ञैगळुक्कु ग्रहणम्। 
 
-बाह्येन्द्रियाणि विषयेभ्यः प्रतिसंहृत्य  
+> बाह्येन्द्रियाणि विषयेभ्यः प्रतिसंहृत्य  
 मन आत्मनि व्यवस्थापयितुं यतेत -  
 इयं यतमानसज्ञा । +++(5)+++
-
-कतिचन राग-द्वेषौ पक्वौ ज्ञात्वा  
+> 
+> कतिचन राग-द्वेषौ पक्वौ ज्ञात्वा  
 अवशिष्ट-राग-द्वेषयोर् औदासीन्याभिनन्दनाभ्यां पचनं व्यतिरेक-सञ्ज्ञा ।  
-
-बाह्येन्द्रिय-प्रवृत्त्य्-अभावेऽपि  
+> 
+> बाह्येन्द्रिय-प्रवृत्त्य्-अभावेऽपि  
 मनसः भस्मच्-छन्न-दहनवत् वासनामात्रशेषता - एकेन्द्रिय-सज्ञा । 
-
-दृष्टानुश्रविकैहिकामुष्मिक-सकल-फल-विमुखस्य  
+> 
+> दृष्टानुश्रविकैहिकामुष्मिक-सकल-फल-विमुखस्य  
 यस् तेषु फलेषु सवासन-राग-त्यागः  
 सा वशी-कार-सज्ञा । 
+
++++(तात्पर्य-चन्द्रिकायाः।)+++
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4007,7 +4009,7 @@ Hasta que **se revelara** su naturaleza interior.
 इप्पडि वञ्चकरैयुम् आदरित्तार्गळुण्डो ऎऩ्ऩ वरुळिच्चॆय्गिऱार् उपरिचरादिकौसुरादिगळै आदरित्ताऱ्पोले इति । इङ्गु आदिशब्दत्ताले सन्न्यासवेषधरऩाऩ रावणऩैयादरित्त सीदैक्कुक् ग्रहणम्। रूपम् – चक्राङ्कनादिवैष्णवचिह्नम्, नाम – दास्यनाम ।  
 </details>
 
-
+#### बक-वृत्ति-निन्दा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिक्क् ऒत्त+++(=सम)+++ शैलूष-वृत्तिगळैप् पऱ्ऱ 
@@ -4022,7 +4024,6 @@ Hasta que **se revelara** su naturaleza interior.
 
 > ‘‘न लिङ्गं धर्मकारणम्’’  
 (इतिहास-समुच्चयः ३३-१२३) 
-
 </details>
 
 
@@ -4071,6 +4072,7 @@ Es con respecto a estos actores por profesión que (**encontramos**) el **dicho*
 तस्य वारि प्रसीदति॥’’  
 (मनुस्मृति ६-६७) 
 
+इत्य् उच्यते । 
 </details>
 
 <details><summary>विषयः</summary>
@@ -4104,7 +4106,7 @@ Sin embargo, el agua **no se hace** clara por la mera **expresión** de su nombr
 
 
 
-
+## नाम-महिमा भक्तेष्व् एव
 <details><summary>English</summary>
 
 THE UTTERANCE OF BHAGAVAN'S NAME  
@@ -4117,22 +4119,1116 @@ La **expresión** del nombre de Bhagavan
 Purifica solo a aquellos que **no lo odian**.
 </details>
 
+### महिमा ऽद्विट्सु
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आर्ता विष्ण्णाश् शिथिलाश्च भीता  
+घोरेषु च व्याधिषु वर्तमानाः ।  
+सङ्कीर्त्य नारायण शब्दमात्रं  
+विमुक्त-दुःखास् सुखिनो भवन्ति॥’’  
+(व्याससञ्जयसंवादः) 
+
+ऎऩ्ऱुम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘आर्ता विष्ण्णाश् शिथिलाश्च भीता  
+घोरेषु च व्याधिषु वर्तमानाः ।  
+सङ्कीर्त्य नारायण शब्दमात्रं  
+विमुक्त-दुःखास् सुखिनो भवन्ति॥’’  
+(व्याससञ्जयसंवादः) 
+
+</details>
+
+<details><summary>विषयः</summary>
+
+भगवन्-नाम
+</details>
+
+<details><summary>English</summary>
+
+> "Those (who suffer from troubles),  
+who are miserable,  
+who have no steady foothold anywhere,  
+who are afraid of saṁsāra  
+and who are afflicted with terrible diseases -  
+(all these) obtain freedom (from their ills) by the mere mention of the word 'Nārāyaṇa'  
+and become happy". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Aquellos (que **sufren** de problemas),  
+que **son** miserables,  
+que **no tienen** un punto de apoyo estable en ningún lado,  
+que **tienen** miedo de saṁsāra  
+y que **están afectados** por terribles enfermedades -  
+(Todo esto) **obtenga** la **libertad** (de sus males)  
+por la mera **mención** de la palabra 'nārāyaṇa'  
+y **volverse** feliz ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘आर्ता विष्ण्णाश्शिथिलाश्च भीता घोरेषु च व्याधिषु वर्तमानाः । सङ्कीर्त्य नारायण शब्दमात्रं विमुक्तदुःखास्सुखिनो भवन्ति॥’’(व्याससञ्जयसंवादः) ऎऩ्ऱुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘+++(देव-प्रवणेन)+++ अ-वशेनापि यन् नाम  
+**कीर्तिते** सर्व-पातकैः ।  
+पुमान् **विमुच्यते** सद्यस्  
+सिंह-त्रस्तैर् मृगैर् इव॥’’  
+(विष्णु पुराणम् ६-८-१९) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘+++(देव-प्रवणेन)+++ अ-वशेनापि यन् नाम  
+**कीर्तिते** सर्व-पातकैः ।  
+पुमान् **विमुच्यते** सद्यस्  
+सिंह-त्रस्तैर् मृगैर् इव॥’’  
+(विष्णु पुराणम् ६-८-१९) 
+
+इति, 
+</details>
+
+<details><summary>विषयः</summary>
+
+भगवन्-नाम
+</details>
+
+
+<details><summary>English</summary>
+
+> The man who, even without his being aware of it, pronounces the name of Bhagavān,  
+is freed from all sins,  
+in the same way as a forest is freed from deer  
+owing to the fear of a lion", 
+</details>
+
+<details><summary>Español</summary>
+
+> El hombre que, incluso **sin ser consciente** de ello,   
+**pronuncia** el nombre de Bhagavān,  
+**se libera** de todos los pecados,  
+De la misma manera que un bosque **se libera** del ciervo  
+debido al miedo a un león ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अवशेनापि यन्नाम कीर्तिते सर्वपातकैः । पुमान् विमुच्यते सद्यस्सिंहत्रस्तैर्मृगैरिव’’(विष्णु पुराणम् ६-८-१९) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘+++(देव-प्रवणेन)+++ साङ्केत्यं पारिहास्यं वा  
+स्तोभं हेलनम् एव वा ।  
+वैकुण्ठ-नाम-ग्रहणम्  
+अ-शेषाघ-विनाशनम्॥’’  
+(भागवतम् ६-२-१४) 
+
+ऎऩ्ऱुम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘+++(देव-प्रवणेन)+++ साङ्केत्यं पारिहास्यं वा  
+स्तोभं हेलनम् एव वा ।  
+वैकुण्ठ-नाम-ग्रहणम्  
+अ-शेषाघ-विनाशनम्॥’’  
+(भागवतम् ६-२-१४) 
+
+इति, 
+</details>
+
+<details><summary>विषयः</summary>
+
+भगवन्-नाम
+</details>
+
+<details><summary>English</summary>
+
+> "The mention of Bhagavān's name -  
+though it be to call a person who (merely) bears that name,  
+though it be in irony,  
+though it be pronounced wrongly,  
+though it be in derision -  
+(the mere mention of His name) will destroy all sins".  
+</details>
+
+<details><summary>Español</summary>
+
+> "La **mención** del nombre de Bhagavān -  
+aunque **sea llamar** a una persona que (simplemente) **lleva** ese nombre,  
+aunque **esté** en ironía,  
+aunque **se pronuncie** mal,  
+aunque **esté** en burla -  
+(La mera **mención** de su nombre) **destruirá** todos los pecados ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘साङ्केत्यं पारिहास्यं वा स्तोभं हेलनमेव वा । वैकुण्ठना-मग्रहणमशेषाघविनाशनम्’’(भागवतम् ६-२-१४) ऎऩ्ऱुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘हरिर् **हरति** पापानि  
++++(देव-प्रवणैः)+++ दुष्ट-चित्तैर् अपि **स्मृतः** ।  
+अनिच्छयापि **संस्पृष्टो**  
+**दहत्य्** एव हि पावकः॥’’  
+(हर्यष्टकम्) 
+
+ऎऩ्ऱुम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘हरिर् **हरति** पापानि  
++++(देव-प्रवणैः)+++ दुष्ट-चित्तैर् अपि **स्मृतः** ।  
+अनिच्छयापि **संस्पृष्टो**  
+**दहत्य्** एव हि पावकः॥’’  
+(हर्यष्टकम्) 
+
+इति, 
+</details>
+
+<details><summary>विषयः</summary>
+
+भगवन्-नाम
+</details>
+
+<details><summary>English</summary>
+
+> "Hari destroys all sins  
+when he is remembered even by men with evil hearts.  
+Even if fire is touched unawares,  
+it certainly burns." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Hari **destruye** todos los pecados  
+Cuando los hombres lo **recuerdan** incluso con corazones malvados.  
+Incluso si el fuego **se toca sin reconocer**,  
+Ciertamente **arde** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘हरिर्हरति पापानि दुष्टचित्तैरपि स्मृतः । अनिच्छयापि संस्पृष्टो दहत्येव हि पावकः॥’’(हर्यष्टकम्) ऎऩ्ऱुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘एतावता ऽलम् अघ-**निर्हरणाय** पुंसां +++(देव-प्रवणानां)+++   
+**सङ्कीर्तनं** भगवतो गुण-कर्म-नाम्नाम् ।  
+**आक्रुश्य** +++(तन्-नामकं)+++ पुत्रम् अघवान् यद् अजामिलोऽपि  
+"नारायणे"ति म्रियमाण उपैति मुक्तिम्॥’’(भागवतम् ६-३-२४)
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘एतावता ऽलम् अघ-**निर्हरणाय** पुंसां +++(देव-प्रवणानां)+++   
+**सङ्कीर्तनं** भगवतो गुण-कर्म-नाम्नाम् ।  
+**आक्रुश्य** +++(तन्-नामकं)+++ पुत्रम् अघवान् यद् अजामिलोऽपि  
+"नारायणे"ति म्रियमाण उपैति मुक्तिम्॥’’(भागवतम् ६-३-२४)
+
+इति, 
+</details>
+
+<details><summary>विषयः</summary>
+
+भगवन्-नाम
+</details>
+
+<details><summary>English</summary>
+
+> "The mentions of many of the names of Bhagavān which describe his attributes and actions  
+is much more than is necessary.  
+The mention of a single name is enough;  
+for Ajamila, sinful though he was,  
+attained mukti by calling his son 'Nārāyaṇa' at the time of his death". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Las **menciones** de muchos de los nombres de Bhagavān que **describen** sus atributos y acciones  
+**es** mucho más de lo **necesario**.  
+La **mención** de un solo nombre es suficiente;  
+Para Ajamila, aunque **era** pecaminoso,  
+alcanzó Mukti **llamando** a su hijo 'Nārāyaṇa' en el momento de su **muerte** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘एतावतालमघनिर्हरणाय पुंसां सङ्कीर्तनं भगवतो गुणकर्मनाम्नाम् । आक्रुश्य पुत्रमघवान् यदजामिलोऽपि नारायणेति म्रियमाण उपैति मुक्तिम्’’(भागवतम् ६-३-२४)ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’मॊय्त्त+++(=निबिड)+++-वल्+++(=बलवद्)+++-विऩैयुळ् निऩ्ऱु  
+मूऩ्ऱ्-ऎऴुत्त्-उडैय +++("गोविन्द")+++ पेराल्  
+कत्तिर+++(=क्षत्र)+++-बन्धुम् अऩ्ऱे  
+पराङ् गति कण्डु-गॊण्डाऩ्,  
+इत्तऩैय् अडियर् आऩार्क्क्  
+इरङ्गु+++(म्=दयमानं)+++ नम् अरङ्गऩ् आय  
+पित्तऩैप्+++(=व्यामुधं)+++ पॆऱ्ऱुम् (अन्दो+++(=अय्यो)+++)।  ’’  
+(तिरुमालै ४) 
+
+ऎऩ्ऱुञ् जॊल्लुगिऱव् इवैय् ऎल्लाम्
+</details>
+
+<details><summary>English</summary>
+
+> "Kshatrabandhu attained the highest state  
+by the mention of the name 'Govinda' with its three syllables,  
+though he was in the midst of past evil deeds  
+which surrounded him like ants.+++(5)+++  
+Why then, should we suffer from saṁsāra,  
+while we have Śrī Raṅganātha who is so inordinately fond  
+as to be easily accessible towards His servants."  
+</details>
+
+<details><summary>Español</summary>
+
+> "Kshatrabandhu **alcanzó** el estado más alto  
+Por la **mención** del nombre 'Govinda' con sus tres sílabas,  
+Aunque **estaba** en medio de las malas acciones pasadas   
+que lo **rodeó** como hormigas. +++(5)+++  
+¿Por qué entonces, **deberíamos sufrir** de Saṁsāra?  
+Mientras **tenemos** Śrī Raṅganātha que **es** tan excesivamente cariñoso  
+como para **ser** fácilmente **accesible** para sus sirvientes ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’मॊय्त्त वल्विऩैयुळ् निऩ्ऱु मूऩ्ऱॆऴुत्तुडैय पेराल् कत्तिरबन्दुमऩ्ऱे पराङ्गदि कण्डुगॊण्डाऩ्, इत्तऩै यडियराऩार्क्किरङ्गु नमरङ्गऩायबित्तऩप्पॆऱ्ऱुम्’’(तिरुमालै ४) ऎऩ्ऱुञ् जॊल्लुगिऱविवैयॆल्लाम्
+</details>
+
+### देव-प्रवणेषु
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-प्रद्वेषम् इल्लाद्-अवऩुक्कु  
+आस्तिक्यम् मन्दम् आगिलुम् 
+</details>
+
+<details><summary>English</summary>
+
+(All these passages should not be taken as literally true).  
+They only mean that, if the man has no hatred for Bhagavān,  
+though his faith in Bhagavān is weak, 
+</details>
+
+<details><summary>Español</summary>
+
+(Todos estos pasajes **no deben tomarse** como literalmente cierto).  
+Solo **significan** que, si el hombre **no tiene** odio por Bhagavān,  
+aunque su fe en Bhagavān **es** débil,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवत्प्रद्वेषमिल्लादवऩुक्कु आस्तिक्यम् मन्दमागिलुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बालादिगळैप् पोले अर्थ-ज्ञानम् इल्लैयेय् आगिलुम्, 
+</details>
+
+<details><summary>English</summary>
+
+though he utters the name like children and the like without a knowledge of its meaning, 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque **pronuncia** el nombre como niños y similares  
+**sin conocimiento** de su significado,
+</details>
+
+<details><summary>मूलम्</summary>
+
+बालादिगळैप् पोले अर्थज्ञानमिल्लैयेयागिलुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाय् वॆरुवुमाप् +++(=बिभेति)+++ पोले अभिसन्धिय् इल्लैयेय् आगिलुम्, 
+</details>
+
+<details><summary>English</summary>
+
+though he blabbers the name without any thought, 
+</details>
+
+<details><summary>Español</summary>
+
+aunque él parea el nombre **sin pensarlo**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वाय् वॆरुवुमाप्पोले अभिसन्धियिल्लैयेयागिलुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सङ्केत-परिहासादिगळिले  
+तुवक्क् उण्डु अभिसन्ध्य्-अन्तरम् उण्डागिलुम्, 
+</details>
+
+<details><summary>English</summary>
+
+though, his intentions being different,  
+he utters the same as a conventional name or in irony and the like, 
+</details>
+
+<details><summary>Español</summary>
+
+Sin embargo, sus intenciones **son** diferentes,  
+Él **pronuncia** lo mismo que un nombre convencional o en ironía y similares,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सङ्केतपरिहासादिगळिलेदुवक्कुण्डु अभिसन्ध्यन्तरमुण्डागिलुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रयोजनान्तर सङ्गम् उण्डागिलुम्, 
+</details>
+
+<details><summary>English</summary>
+
+though he is associated with other aims 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque **está asociado** con otros objetivos
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रयोजनान्तर सङ्गमुण्डागिलुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दोषान्तरङ्गळ् उण्डागिलुम्
+</details>
+
+<details><summary>English</summary>
+
+and though he has faults, 
+</details>
+
+<details><summary>Español</summary>
+
+y aunque **tiene** fallas,
+</details>
+
+<details><summary>मूलम्</summary>
+
+दोषान्तरङ्गळुण्डागिलुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सङ्कीर्तनम् पावनतमम् ऎऩ्ऱ बडि; 
+</details>
+
+<details><summary>English</summary>
+
+the mention of Bhagavān's name is extremely purificatory.
+</details>
+
+<details><summary>Español</summary>
+
+La mención del nombre de Bhagavān **es** extremadamente **purificatoria**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सङ्कीर्तनम् पावनतममॆऩ्ऱबडि; 
+</details>
+
+### ब्रह्म-द्विट्सु
+#### पूर्व-सुकृत-रहितेषु
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लदु भगवत्-परिवादादिगळुक्क् आग  
+भगवन्-नाम-सङ्कीर्तनम् पण्णिऩालुम्  
+पापम् पोम् ऎऩ्ऱ बडिय् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+Certainly it does not mean that derisive speech concerning Bhagavān and the like  
+would destroy sins.  
+From the ślokas and Tamil verses ~~that follow~~ above,  
+it should not be understood that the mere mention of Bhagavān's name,  
+though in contempt or vilification, will destroy all sins.
+</details>
+
+<details><summary>Español</summary>
+
+Ciertamente no significa que el discurso burlado sobre Bhagavān y similares
+**destruiría** los pecados.  
+De los versos Ślokas y Tamil arriba,  
+**No debe entenderse** que la mera **mención** del nombre de Bhagavān,  
+Aunque en desprecio o vilipendio  
+**destruirá** todos los pecados.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अल्लदु भगवत्परिवादादिगळुक्काग भगवन्नामसङ्कीर्तनम् पण्णिऩालुम् पापम् पोमॆऩ्ऱबडियऩ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-परिवादादिगळ् पातकङ्गळ् आगव् इऱे  
+परिगणित्तुक् किडप्पदु।
+</details>
+
+<details><summary>English</summary>
+
+Derisive speech and the like concerning Bhagavān have indeed been counted among the deadly sins (pataka). 
+</details>
+
+<details><summary>Español</summary>
+
+El **discurso** burlón y similares con respecto a Bhagavān  
+**se han contado** entre los pecados mortales (Pataka). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवत्परिवादादिगळ् पातकङ्गळागविऱे परिगणित्तुक् किडप्पदु।
+</details>
+
+#### प्रमाणम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘ये **द्विषन्ति** महात्मानं  
+**न स्मरन्ति** च केशवम् ।  
+**न** तेषां पुण्य-तीर्थेषु  
+**गतिस्, +++(तत्-)+++संसर्गिणाम्** अपि॥’’  
+(भारतम् शान्ति-पर्व ३३६-३६) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘ये **द्विषन्ति** महात्मानं  
+**न स्मरन्ति** च केशवम् ।  
+**न** तेषां पुण्य-तीर्थेषु  
+**गतिस्, +++(तत्-)+++संसर्गिणाम्** अपि॥’’  
+(भारतम् शान्ति-पर्व ३३६-३६) 
+
+
+</details>
+
+
+<details><summary>English</summary>
+
+> "They who hate the Supreme Self  
+and do not remember Keśava --  
+they will not find any good in bathing in the holy waters -  
+nor those who associate with them (out of regard)" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Los que **odian** al ser supremo  
+Y **no recuerde** a Keśava -  
+**No encontrarán** ningún bien en bañarse en las aguas sagradas  
+ni aquellos que **se asocian** con ellos (fuera de lo considerar) "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘ये द्विषन्ति महात्मानं न स्मरन्ति च केशवम् । न तेषां पुण्यतीर्थेषु गतिस्संसर्गिणामपि’’(भारतम् शान्ति-पर्व ३३६-३६) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘यः पुत्रः पितरं **द्वेष्टि**  
+तं **विद्याद्** अन्य-रेतसम् ।  
+यो विष्णुं सततं **द्वेष्टि**  
+तं विद्याद् अन्त्य-रेतसम्॥’’  
+(ब्रह्माण्डपुराणम्) 
+
+ऎऩ्ऱुञ् जॊऩ्ऩार्गळिऱे।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+‘‘यः पुत्रः पितरं **द्वेष्टि**  
+तं **विद्याद्** अन्य-रेतसम् ।  
+यो विष्णुं सततं **द्वेष्टि**  
+तं विद्याद् अन्त्य-रेतसम्॥’’  
+(ब्रह्माण्डपुराणम्) 
+
+</details>
+
+<details><summary>English</summary>
+
+and also :-- 
+
+> "The son that hates his father  
+should be looked upon as born to somebody else.  
+He who always hates Bhagavān  
+should be looked upon as being born to a man of the lowest caste"?
+
+Has the above not been said? 
+</details>
+
+<details><summary>Español</summary>
+
+Y también:-
+
+> "El hijo que **odia** a su padre  
+**debe considerarse nacido** de otra persona.  
+El que siempre **odia** a Bhagavān  
+**Debe considerarse nacido** de un hombre de la casta más baja"
+
+¿**No se ha dicho** lo anterior?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यः पुत्रः पितरं द्वेष्टि तं विद्यादन्यरेतसम् । यो विष्णुं सततं द्वेष्टि तं विद्यादन्त्यरेतसम्॥’’(ब्रह्माण्डपुराणम्) ऎऩ्ऱुञ्जॊऩ्ऩार्गळिऱे।  
+</details>
 
 
 
-From the ślokas and Tamil verses that follow, it should not be understood that the mere mention of Bhagavān's name, though in contempt or vilification, will destroy all sins:-"Thos (who suffer from troubles), who are miserable, who have no steady foothold anywhere, who are afraid of saṁsāra and who are afflicted with terrible diseases - (all these) obtain freedom (from their ills) by the mere mention of the word 'Nārāyaṇa' and become happy". The man who, even without his being aware of it, pronounces the name of Bhagavān, is freed from all sins, in the same way as a forest is freed from deer owing to the fear of a lion", "The mention of Bhagavān's name - though it be to call a person who (merely) bears that name, though it be in irony, though it be pronounced wrongly, though it be in derision -(the mere mention of His name) will destroy all sins". "Hari destroys all sins when he is remembered even by men with evil hearts. Even if fire is touched unawares, it certainly burns." "The mentions of many of the names of Bhagavān which describe his attributes and actions is much more than is necessary). The mention of a single name is enough; for Ajamila, sinful though he was, attained mukti by calling his son 'Nārāyaṇa' at the time of his death". "Kshatrabandhu" attained the highest state by the mention of the name 'Govinda' with its three syllables, though he was in the midst of past evil deeds which surrounded him like ants. Why then, should we suffer from saṁsāra, while we have Śrī Raṅganātha who is so inordinately fond as to be easily accessible towards His servants." (All these passages should not be taken as literally true). They only mean that, if the man has no hatred for Bhagavān, the mention of Bhagavān's name is extremely purificatory, though his faith in Bhagavān is weak, though he utters the name like children and the like without a knowledge of its meaning, though he blabbers the name without any thought, though, his intentions being different, he utters the same as a conventional name or in irony and the like, though he is associated with other aims and though he has faults. Certainly it does not mean that derisive speech concerning Bhagavān and the like would destroy sins. Derisive speech and the like concerning Bhagavān have indeed been counted among the deadly sins (pataka). Has it not been said: "They who hate the Supreme Self and do not remember Keśava -- they will not find any good in bathing in the holy waters - nor those who associate with them (out of regard)" and also :-- "The son that hates his father should be looked upon as born to somebody else. He who always hates Bhagavān should be looked upon as being born to a man of the lowest caste"?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-It is said in the Bhāgavatam :-"The Gopis attained mukti by love (to Śrī Kṛṣṇa); Kamsa out of fear (of Śrī Kṛṣṇa), Sisupala and other kings by hatred (to Śrī Kṛṣṇa), the Vrishnis owing to their relationship; you ( the Pandavas) out of friendship to him and we (Nārada  and others) by devotion". It states that, in some way or other (fear, hatred, love, friendship etc.), those who are associated with Śrī Kṛṣṇa will obtain redemption, provided they have done good deeds in the past. The same idea is found also in the śloka :- " Associations with Bhagavān, who is ever pure, whatever be the form it takes, will destroy sins". These two ślokas refer to individuals who had a special competency owing to good deeds done in past lives. This is well-known from the purāṇas which relate the earlier and the later incidents in their lives. (It should not be considered applicable to others.)
+> ‘‘गोप्यः कामाद्, भयात् कंसो,  
+द्वेषाच् चैद्यादयो नृपाः ।  
+सम्बन्धाद् वृष्णयो, यूयं  
+स्नेहाद्, भक्त्या वयं प्रभो॥’’(भागवतम् ७-१-३२) 
+
+ऎऩ्गिऱबडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘गोप्यः कामाद्, भयात् कंसो,  
+द्वेषाच् चैद्यादयो नृपाः ।  
+सम्बन्धाद् वृष्णयो, यूयं  
+स्नेहाद्, भक्त्या वयं प्रभो॥’’(भागवतम् ७-१-३२) 
+
+</details>
+
+<details><summary>English</summary>
+
+It is said in the Bhāgavatam :-
+
+> "The Gopis attained mukti by love (to Śrī Kṛṣṇa);  
+Kamsa out of fear (of Śrī Kṛṣṇa),  
+Sisupala and other kings by hatred (to Śrī Kṛṣṇa),  
+the Vrishnis owing to their relationship;  
+you ( the Pandavas) out of friendship to him  
+and we (Nārada  and others) by devotion". 
+</details>
+
+<details><summary>Español</summary>
+
+Se dice en el bhāgavatam:-
+
+> "El Gopis **alcanzó** a Mukti por amor (a Śrī Kṛṣṇa);  
+Kamsa por miedo (de Śrī Kṛṣṇa),  
+Sisupala y otros reyes por odio (a Śrī Kṛṣṇa),
+el Vrishnis debido a su relación;  
+tú (los pandavas) por amistad con él  
+y nosotros (Nārada y otros) por devoción ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘गोप्यः कामाद्भयात्कंसो द्वेषाच्चैद्यादयो नृपाः । सम्बन्धाद्वृष्णयो यूयं स्नेहाद्भक्त्या वयं प्रभो’’(भागवतम् ७-१-३२) ऎऩ्गिऱबडिये
+</details>
+
+#### पूर्व-सुकृततस् सद्गतिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एद् एऩुम् ऒरु वगैयाले  
+तुवक्क् उण्डारुम् पिऴैप्पार् ऎऩ्ऱदुवुम् 
+</details>
+
+<details><summary>English</summary>
+
+It states that, in some way or other (fear, hatred, love, friendship etc.),  
+those who are associated with Śrī Kṛṣṇa will obtain redemption, 
+</details>
+
+<details><summary>Español</summary>
+
+**Afirma** que, de alguna manera u otra (miedo, odio, amor, amistad, etc.),  
+Los que **están asociados** con Śrī Kṛṣṇa **obtendrán** la **redención**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एदेऩुमॊरुवगैयाले तुवक्कुण्डारुम् पिऴैप्पारॆऩ्ऱदुवुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यया कया च विधया  
+सम्बन्धस् स तु पावनः’’  
+(श्रीरङ्गमाहात्म्यम् ८-१२) 
+
+ऎऩ्ऱ् अदुवुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यया कया च विधया  
+सम्बन्धस् स तु पावनः’’  
+(श्रीरङ्गमाहात्म्यम् ८-१२) 
+
+</details>
+
+<details><summary>English</summary>
+
+(The same idea is found also in the śloka :- )
+
+> " Associations with Bhagavān, who is ever pure,  
+whatever be the form it takes, will destroy sins". 
+</details>
+
+<details><summary>Español</summary>
+
+(La misma idea **se encuentra** también en el Śloka:-)
+
+> "Asociaciones con Bhagavān, que siempre **es** puro,  
+Cualquiera **sea** la forma que tome, **destruirá** los pecados ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यया कया च विधया सम्बन्धस्स तु पावनः’’(श्रीरङ्गमाहात्म्यम् ८-१२) ऎऩ्ऱदुवुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्वसुकृत विशेषङ्गळाले नियतर् आऩव् अधिकारि-विशेषङ्गळैप् पऱ्ऱव् ऎऩ्ऩुम् इडम्
+</details>
+
+<details><summary>English</summary>
+
+provided they have done good deeds in the past. 
+
+These two ślokas refer to individuals who had a special competency  
+owing to good deeds done in past lives. 
+</details>
+
+<details><summary>Español</summary>
+
+siempre que **hayan hecho** buenas obras en el pasado.
+
+Estos dos Ślokas **se refieren** a personas que **tenían** una competencia especial.  
+Debido a las buenas obras **hechas** en **vidas** pasadas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पूर्वसुकृत विशेषङ्गळाले नियतराऩवधिकारिविशेषङ्गळैप् पऱ्ऱवॆऩ्ऩुमिडम्
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळ्-उडैय पूर्वापर-वृत्तान्तङ्गळ् सॊल्लुगिऱ पुराणादिगळिले प्रसिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+This is well-known from the purāṇas which relate the earlier and the later incidents in their lives.  
+(It should not be considered applicable to others.)
+</details>
+
+<details><summary>Español</summary>
+
+Esto **es** bien **conocido** por los Purāṇas que **relacionan** los incidentes anteriores y posteriores en sus **vidas**.  
+(**No debe considerarse aplicable** a otros).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळुडैय पूर्वापरवृत्तान्तङ्गळ् सॊल्लुगिऱ पुराणादिगळिले प्रसिद्धम्। 
+</details>
+
+
+## तीर्थ-वासः
+
+<details><summary>English</summary>
 
 RESIDENCE IN HOLY PLACES.
+</details>
 
-The statement (in certain passages) that the parting from life in certain holy places of Bhagavān will help the attainment of mukti should be understood as applicable only to those who are not ill-disposed to Bhagavān, though, in their indifference, they may be like animals. If not understood in this manner, it would follow that even those who are bent on doing what is displeasing to the Lord would attain mukti (which is absurd).
+<details><summary>Español</summary>
 
-he passage in the Sātvata Saṁhitā, which says: "The mind that is impure owing to subjection to the wild senses -- that mind becomes pure in the last days by living in the holy places of Nārāyaṇa" - this passage only means to say that though such men could not realise Bhagavān formerly owing to their addiction to such pleasures as those of the senses which are not opposed to the śāstras, they will attain purity of mind in their last days". This is evident from the context in Sātvata Saṁhitā (where the passage is found.) “He whom the yogis endeavour by their efforts to fix in their minds at the time of separation from the body". He enters into their minds without any effort on their part in their last moments. This much superiority they have. This is shown also in the case of prapannas of whom it is said:  They attain to a clear vision merely by My Grace".
+**Residencia** en lugares sagrados.
+</details>
 
-Therefore to those who are inimical to Bhagavān, there is no redemption by these marks which serve their enmity - namely, appearance, bearing the name of Bhagavān, residence in a holy place, and the utterance of His names",
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Things which are displeasing to the Lord, when done in holy places, contribute very greatly to ruin and this is well-known from many śāstras. This is also due to the might of Bhagavān.
+इप्-पडि 
+
+> भगवत्-क्षेत्रत्तिल् शरीर-विश्लेषादिगळ्  
+मोक्षोपकारकम् आम् 
+
+ऎऩ्ऱ् अदुवुम्  
+
+> पश्व्-आदिगळैप् पोलेय् आगिलुम्  
+प्रातिकूल्यम् इल्लादार्क्क् उपकारकम् आम् 
+
+ऎऩ्ऱ बडि। 
+</details>
+
+<details><summary>English</summary>
+
+The statement (in certain passages) that 
+
+> the parting from life in certain holy places of Bhagavān will help the attainment of mukti 
+
+should be understood as applicable  
+only to those who are not ill-disposed to Bhagavān,  
+though, in their indifference, they may be like animals. 
+</details>
+
+<details><summary>Español</summary>
+
+La **declaración** (en ciertos pasajes) que
+
+> La **separación** de la **vida** en ciertos lugares sagrados de Bhagavān **ayudará** a **lograr** el **logro** de Mukti
+
+debe **entenderse** como **aplicable**  
+Solo para aquellos que **no están** mal **dispuestos** a Bhagavān,  
+Aunque, en su indiferencia, **pueden ser** como animales.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि भगवत्क्षेत्रत्तिल् शरीरविश्लेषादिगळ् मोक्षोपकारकमामॆऩ्ऱदुवुम् पश्वादिगळैप्पोलेयागिलुम् प्रातिकूल्यमिल्लादार्क्कुपकारकमामॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् अल्लाद बोदु  
+अङ्गे भगवत्-प्रातिकूल्यम् पण्णप् पुगुन्दु पट्टवर्गळुक्कुम्  
+मोक्षम् उण्डागप् प्रसङ्गिक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+If not understood in this manner,  
+it would follow that even those who are bent on doing what is displeasing to the Lord  
+would attain mukti (which is absurd).
+</details>
+
+<details><summary>Español</summary>
+
+Si **no se entiende** de esta manera,  
+**Seguiría** que incluso aquellos que **están empeñados** en **hacer** lo que está **desagradable** al Señor  
+**alcanzaría** Mukti (que es absurdo).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩल्लादबोदु अङ्गे भगवत्प्रातिकूल्यम् पण्णप्पुगुन्दु पट्टवर्गळुक्कुम् मोक्षमुण्डागप् प्रसङ्गिक्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘दुष्टेन्द्रिय-वशाच् चित्तं  
+नृणां यत् कल्मषैर् **वृतं** ।  
+तद् अन्त-काले **संशुद्धिं  
+याति** नारायणालये॥’’  
+(सात्त्वत-संहिता ७-१२०) 
+
+ऎऩ्गिऱ श्रीसात्त्वत-वचनमुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘दुष्टेन्द्रिय-वशाच् चित्तं  
+नृणां यत् कल्मषैर् **वृतं** ।  
+तद् अन्त-काले **संशुद्धिं  
+याति** नारायणालये॥’’  
+(सात्त्वत-संहिता ७-१२०) 
+
+</details>
+
+<details><summary>English</summary>
+
+The passage in the Sātvata Saṁhitā, which says: 
+
+> "The mind that is impure  
+owing to subjection to the wild senses --  
+that mind becomes pure in the last days  
+by living in the holy places of Nārāyaṇa" - 
+</details>
+
+<details><summary>Español</summary>
+
+El pasaje en el sātvata saṁhitā, que **dice**:
+
+> "La mente que **es** impura  
+Debido a la **sujeción** a los sentidos salvajes -  
+Esa mente **se vuelve** pura en los últimos días  
+**viviendo** en los lugares sagrados de nārāyaṇa " -
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘दुष्टेन्द्रियवशाच्चित्तं नृणां यत्कल्मषैर्वृतं । तदन्तकाले संशुद्धिं याति नारायणालये’’(सात्त्वत-संहिता ७-१२०) ऎऩ्गिऱ श्रीसात्त्वतवचनमुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > शास्त्र-विरोधम् इल्लाद शब्दादि-प्रावण्यत्ताले  
+मुऩ्बु भगवत्-साक्षात्-कारादिगळ् इल्लैयेय् आगिलुम्  
+अन्तिम-कालत्तिले तॆळिव् उण्ड् आम्  
+> 
+> ऎऩ्ऩुम् इव्व्-अळविले तत्-परम्  
+
+ऎऩ्ऩुम् इडम् प्रकरणादि-सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+this passage only means to say that though such men could not realise Bhagavān formerly  
+owing to their addiction to such pleasures as those of the senses  
+which are not opposed to the śāstras,  
+they will attain purity of mind in their last days". 
+</details>
+
+<details><summary>Español</summary>
+
+Este pasaje solo **significa decir** que 
+
+> aunque tales hombres **no podían darse** cuenta de Bhagavān anteriormente  
+Debido a su **adicción** a los placeres como los de los sentidos  
+que **no se oponen** a los Śāstras,  
+**alcanzarán** la pureza de la mente en sus últimos días ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शास्त्रविरोधमिल्लाद शब्दादिप्रावण्यत्ताले मुऩ्बु भगवत्साक्षात्कारादिगळिल्लैयेयागिलुम् अन्तिमकालत्तिले तॆळिवुण्डामॆऩ्ऩुमिव् वळविले तत्परमॆऩ्ऩुमिडम् प्रकरणादिसिद्धम्। 
+</details>
+
+### अन्तिम-स्मृतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यं योगिनः प्राण-वियोग-काले  
+यत्नेन चित्ते विनिवेशयन्ति’’  
+(भारतम् शान्ति-पर्व ४६-१४३) 
+
+ऎऩ्ऱु सॊल्लप्-पडुगिऱ स्व-यत्नापेक्षैय् अऱ  
+अन्तिम-कालत्तिले इवर्गळुक्कुत् तॆळिवु वरुगिऱव् इदुव् एऱ्ऱम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यं योगिनः प्राण-वियोग-काले  
+यत्नेन चित्ते विनिवेशयन्ति’’  
+(भारतम् शान्ति-पर्व ४६-१४३) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+This is evident from the context in Sātvata Saṁhitā (where the passage is found.)  
+
+> “He whom the yogis endeavour by their efforts to fix in their minds  
+at the time of separation from the body.  
+He enters into their minds without any effort on their part in their last moments." 
+
+This much superiority they have. 
+</details>
+
+<details><summary>Español</summary>
+
+This is evident from the context in Sātvata Saṁhitā (where the passage is found.)  
+
+> “He whom the yogis endeavour by their efforts to fix in their minds  
+at the time of separation from the body.  
+He enters into their minds without any effort on their part in their last moments." 
+
+This much superiority they have. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यं योगिनः प्राणवियोग काले यत्नेन चित्ते विनिवेशयन्ति’’(भारतम् शान्ति-पर्व ४६-१४३) ऎऩ्ऱु सॊल्लप्पडुगिऱ स्वयत्नापेक्षैयऱ अन्तिमकालत्तिले इवर्गळुक्कुत् तॆळिवु वरुगिऱविदुवेऱ्ऱम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु 
+
+> ‘‘केवलं मदीययैव दयया ऽतिप्रबुद्धः’’  
+(शरणागति-गद्यम्।) 
+
+ऎऩ्ऱु प्रपन्न-विषयत्तिलुम् प्रदर्शितम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘केवलं मदीययैव दयया ऽतिप्रबुद्धः’’  
+(शरणागति-गद्यम्।) 
+</details>
+
+<details><summary>English</summary>
+
+This is shown also in the case of prapannas of whom it is said:  
+
+> They attain to a clear vision merely by My Grace.
+</details>
+
+<details><summary>Español</summary>
+
+Esto **se muestra** también en el caso de Prapannas de quien **se dice**:
+
+> **Se logran** una **visión** clara simplemente por mi gracia.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु ‘‘केवलं मदीययैव दययातिप्रबुद्धः’’(शरणागति-गद्यम्।) ऎऩ्ऱु प्रपन्नविषयत्तिलुम् प्रदर्शितम्। 
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल्,  
+भगवत्-प्रतिकूलर्क्कु प्रातिकूल्य-शेषम् आऩ रूप-नाम-क्षेत्र-वास-संकीर्तनादिगळ्  
+तञ्जम् आगादु। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore to those who are inimical to Bhagavān,  
+there is no redemption by these marks which serve their enmity -  
+namely, appearance, bearing the name of Bhagavān, residence in a holy place, and the utterance of His names".
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, para aquellos que **son** hostiles a Bhagavān,  
+**No hay redención** de estas marcas que **sirven** a su enemistad  
+a saber, **apariencia**, **llevando** el nombre de Bhagavān, **residencia** en un lugar sagrado, y la **expresión** de sus nombres ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् भगवत्प्रतिकूलर्क्कु प्रातिकूल्यशेषमाऩ रूपनामक्षेत्रवाससंकीर्तनादिगळ् तञ्जमागादु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुण्य-क्षेत्रङ्गळिल् पण्णुम् प्रतिकूलाचरणङ्गळ्  
+मिगवुम् बाधकङ्गळ् आम् ऎऩ्ऩुम् इडम्  
+बहु-शास्त्र-सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+Things which are displeasing to the Lord, when done in holy places,  
+contribute very greatly to ruin  
+and this is well-known from many śāstras. 
+</details>
+
+<details><summary>Español</summary>
+
+Cosas que **desagradan** al Señor, cuando **se hacen** en lugares sagrados,  
+**contribuir** muy a la ruina  
+Y esto **es** bien **conocido** de muchos Śāstras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुण्यक्षेत्रङ्गळिल् पण्णुम् प्रतिकूलाचरणङ्गळ् मिगवुम् बाधकङ्गळामॆऩ्ऩुमिडम् बहुशास्त्रसिद्धम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुवुम् भगवत्-प्रभावम्। 
+</details>
+
+<details><summary>English</summary>
+
+This is also due to the might of Bhagavān.
+</details>
+
+<details><summary>Español</summary>
+
+Esto también **se** debe al poder de Bhagavān.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदुवुम् भगवत्प्रभावम्। 
+</details>
+
+
+
 
 To those who are devoted to Bhagavān, whatever acts they do in order to please Him, will, as in the case of Vritra and Kshatra bandhu, themselves destroy all sins and will be the cause of their redemption by some vyāja or gesture.
 
