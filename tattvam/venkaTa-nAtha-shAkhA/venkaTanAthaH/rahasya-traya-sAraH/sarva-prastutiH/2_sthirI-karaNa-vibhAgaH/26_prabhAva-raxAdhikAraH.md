@@ -5907,11 +5907,80 @@ porque este **debería ser** el gran objeto de deseo durante nuestra vida aquí.
 सेर्त्तियागिऱ सीरियबॆऱाप्पेऱ्ऱैत् तिरुवरुळाले पॆऱ्ऱोमॆऩ्ऱुगृतार्थऩाय्, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ५२’’तिरु-माल् तलैक् कॊण्ड नङ्गट्क्  
+ऎङ्गे वरुन् ती+++(=दुर्)+++-विऩैय्+++(=कर्म)+++’’  
+(तिरुविरुत्तम् ८८)  
+
+ऎऩ्ऱु व्यवसितऩाय्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “श्री-वल्लभ-समाश्रितवताम् अस्माकं  
+कुतः स्युः क्रूर-कर्माणि " 
+
+इति व्यवसितैः, 
+</details>
+
+
+<details><summary>English</summary>
+
+We should rest assured that 
+
+> evil deeds can never be ours,  
+as we have been accepted by the Lord (as His servants), 
+</details>
+
+<details><summary>Español</summary>
+
+**Deberíamos estar seguros** de que
+
+> Los **hechos** malvados **nunca pueden ser** nuestros,  
+Como We should rest assured that 
+
+> evil deeds can never be ours,  
+as we have been accepted by the Lord (as His servants),  por el Señor (como sus **sirvientes**),
+</details>
+
+<details><summary>मूलम्</summary>
+
+५२’’तिरुमाल् तलैक्कॊण्ड नङ्गट्कॆङ्गे वरुन्दीविऩैय्’’(तिरुविरुत्तम् ८८)  ऎऩ्ऱु व्यवसितऩाय्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ५३’’आळ्गिऩ्ऱाऩ्+++(=पालयति)+++ आऴियाऩ्+++(=चक्रवान्)+++  
+आराऱ्+++(ल्)+++ कुऱैय्+++(=न्यूनतां)+++ **उडैयम्**’’  
+(तिरुवाय्मॊऴि १०-४-३)  
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२६४]] 
+
+> “रक्षति चक्रधरः  
+केन हेतुना न्यूनतां वहेम"  
+
+इत्य्-उक्त-रीत्या 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+५३’’आळ्गिऩ्ऱाऩाऴियाऩाराऱ्कुऱैयुडैयम्’’(तिरुवाय्मॊऴि १०-४-३)  ऎऩ्गिऱबडिये 
+</details>
 
 
 
 
-We should rest assured that evil deeds can never be ours, as we have been accepted by the Lord (as His servants)", and "That the Lord who wields the chakra (the discus) protects us and that (therefore) no one can do anything harmful to us." We should therefore crown ourselves, even here, in anticipation of the empireship of perfect service to the Lord which will be ours in Heaven (Paramapada). This potency which has been determined so far should be remembered in connection with such places as indicate the fruit in the three mysteries (mantras), as established by necessary consequence.
+and 
+
+> "That the Lord who wields the chakra (the discus) protects us and that (therefore) no one can do anything harmful to us." We should therefore crown ourselves, even here, in anticipation of the empireship of perfect service to the Lord which will be ours in Heaven (Paramapada). This potency which has been determined so far should be remembered in connection with such places as indicate the fruit in the three mysteries (mantras), as established by necessary consequence.
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
