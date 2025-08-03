@@ -4394,6 +4394,20 @@ alcanzó Mukti **llamando** a su hijo 'Nārāyaṇa' en el momento de su **muert
 ऎऩ्ऱुञ् जॊल्लुगिऱव् इवैय् ऎल्लाम्
 </details>
 
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२६१]] 
+
+> “1 गाढ-लग्नेषु दृढेषु पापेषु स्थित्वा ऽपि  
+त्र्य्-अक्षर-नाम्ना क्षत्र-बन्धुस् तदैव परां गतिं दृष्टवान् ।  
+एतावन्-मात्रेण दास-भूतानां विषये ऽनुकम्पमानम्  
+अस्मद्-रङ्ग-नाथम् अति-व्यामुग्धं लब्ध्वाऽपि"  
+
+इति चोच्यमानानि +इमानि वचांसि सर्वाण्य् अपि 
+</details>
+
+
 <details><summary>English</summary>
 
 > "Kshatrabandhu attained the highest state  
@@ -4430,6 +4444,12 @@ como para **ser** fácilmente **accesible** para sus sirvientes ".
 आस्तिक्यम् मन्दम् आगिलुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवत्-प्रद्वेषाभाववत आस्तिक्ये मन्देऽपि, 
+</details>
+
+
 <details><summary>English</summary>
 
 (All these passages should not be taken as literally true).  
@@ -4455,6 +4475,12 @@ aunque su fe en Bhagavān **es** débil,
 बालादिगळैप् पोले अर्थ-ज्ञानम् इल्लैयेय् आगिलुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+बालादिवद् अर्थ-ज्ञानाभावे ऽपि,  
+</details>
+
+
 <details><summary>English</summary>
 
 though he utters the name like children and the like without a knowledge of its meaning, 
@@ -4473,8 +4499,14 @@ Aunque **pronuncia** el nombre como niños y similares
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाय् वॆरुवुमाप् +++(=बिभेति)+++ पोले अभिसन्धिय् इल्लैयेय् आगिलुम्, 
++++(दुस्स्वप्नादेः)+++ वाय् वॆरुवुमाप् +++(=बिभेति)+++ पोले अभिसन्धिय् इल्लैयेय् आगिलुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उत्स्वप्नायितवद् अभिसन्ध्य्-अभावेऽपि, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4494,9 +4526,15 @@ aunque él parea el nombre **sin pensarlo**,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सङ्केत-परिहासादिगळिले  
++++(नाम→)+++सङ्केत-परिहासादिगळिले  
 तुवक्क् उण्डु अभिसन्ध्य्-अन्तरम् उण्डागिलुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(नाम→)+++संकेत--परिहासादि-संबन्धाद् अभिसन्ध्य्-अन्तर-सत्त्वेऽपि, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4521,6 +4559,12 @@ Sin embargo, sus intenciones **son** diferentes,
 प्रयोजनान्तर सङ्गम् उण्डागिलुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रयोजनान्तर-सङ्गे सत्य् अपि, 
+</details>
+
+
 <details><summary>English</summary>
 
 though he is associated with other aims 
@@ -4542,6 +4586,12 @@ Aunque **está asociado** con otros objetivos
 दोषान्तरङ्गळ् उण्डागिलुम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+दोषान्तरेषु सत्स्व् अपि 
+</details>
+
+
 <details><summary>English</summary>
 
 and though he has faults, 
@@ -4561,6 +4611,11 @@ y aunque **tiene** fallas,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सङ्कीर्तनम् पावनतमम् ऎऩ्ऱ बडि; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+संकीर्तनं पावनतमम् इति प्रतिपादयन्ति । 
 </details>
 
 <details><summary>English</summary>
@@ -4588,6 +4643,13 @@ La mención del nombre de Bhagavān **es** extremadamente **purificatoria**.
 पापम् पोम् ऎऩ्ऱ बडिय् अऩ्ऱु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+न तु भगवत्-परिवादाद्य्-अर्थतया भगवन्-नाम-संकीर्तने कृतेऽपि  
+पापं नश्यतीति प्रतिपादयन्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 Certainly it does not mean that derisive speech concerning Bhagavān and the like  
@@ -4614,9 +4676,16 @@ Aunque en desprecio o vilipendio
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भगवत्-परिवादादिगळ् पातकङ्गळ् आगव् इऱे  
-परिगणित्तुक् किडप्पदु।
+भगवत्-परिवादादिगळ्  
+पातकङ्गळ् आगव् इऱे  
+परिगणित्तुक् किडप्पदु+++(=स्थाप्यते)+++।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवत्-परिवादादीनि पातकानि किल परिगणितानि सन्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4656,7 +4725,7 @@ El **discurso** burlón y similares con respecto a Bhagavān
 **गतिस्, +++(तत्-)+++संसर्गिणाम्** अपि॥’’  
 (भारतम् शान्ति-पर्व ३३६-३६) 
 
-
+इति, [[२६२]] 
 </details>
 
 
@@ -4702,6 +4771,7 @@ ni aquellos que **se asocian** con ellos (fuera de lo considerar) "
 तं विद्याद् अन्त्य-रेतसम्॥’’  
 (ब्रह्माण्डपुराणम्) 
 
+इत्य् ऊचुः किल । 
 </details>
 
 <details><summary>English</summary>
@@ -4741,7 +4811,8 @@ El que siempre **odia** a Bhagavān
 > ‘‘गोप्यः कामाद्, भयात् कंसो,  
 द्वेषाच् चैद्यादयो नृपाः ।  
 सम्बन्धाद् वृष्णयो, यूयं  
-स्नेहाद्, भक्त्या वयं प्रभो॥’’(भागवतम् ७-१-३२) 
+स्नेहाद्, भक्त्या वयं प्रभो॥’’  
+(भागवतम् ७-१-३२) 
 
 ऎऩ्गिऱबडिये
 </details>
@@ -4751,8 +4822,10 @@ El que siempre **odia** a Bhagavān
 > ‘‘गोप्यः कामाद्, भयात् कंसो,  
 द्वेषाच् चैद्यादयो नृपाः ।  
 सम्बन्धाद् वृष्णयो, यूयं  
-स्नेहाद्, भक्त्या वयं प्रभो॥’’(भागवतम् ७-१-३२) 
+स्नेहाद्, भक्त्या वयं प्रभो॥’’  
+(भागवतम् ७-१-३२) 
 
+इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -4793,6 +4866,13 @@ y nosotros (Nārada y otros) por devoción ".
 तुवक्क् उण्डारुम् पिऴैप्पार् ऎऩ्ऱदुवुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+यया कया ऽपि विधया  
+संबन्धिनोऽप्य् उज्जीवन्तीत्य्-एतत्, 
+</details>
+
+
 <details><summary>English</summary>
 
 It states that, in some way or other (fear, hatred, love, friendship etc.),  
@@ -4826,6 +4906,7 @@ Los que **están asociados** con Śrī Kṛṣṇa **obtendrán** la **redenció
 सम्बन्धस् स तु पावनः’’  
 (श्रीरङ्गमाहात्म्यम् ८-१२) 
 
+इत्य्-एतच् च 
 </details>
 
 <details><summary>English</summary>
@@ -4852,8 +4933,14 @@ Cualquiera **sea** la forma que tome, **destruirá** los pecados ".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पूर्वसुकृत विशेषङ्गळाले नियतर् आऩव् अधिकारि-विशेषङ्गळैप् पऱ्ऱव् ऎऩ्ऩुम् इडम्
+पूर्व-सुकृत विशेषङ्गळाले नियतर् आऩव् अधिकारि-विशेषङ्गळैप् पऱ्ऱव् ऎऩ्ऩुम् इडम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पूर्व-सुकृत-विशेष-नियताधिकारि-परम् इत्य्-एतत् 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4884,6 +4971,12 @@ Debido a las buenas obras **hechas** en **vidas** pasadas.
 इवर्गळ्-उडैय पूर्वापर-वृत्तान्तङ्गळ् सॊल्लुगिऱ पुराणादिगळिले प्रसिद्धम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतत्-पूर्वापर-वृत्तान्त प्रतिपादकेषु पुराणेषु प्रसिद्धम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 This is well-known from the purāṇas which relate the earlier and the later incidents in their lives.  
@@ -4903,7 +4996,7 @@ Esto **es** bien **conocido** por los Purāṇas que **relacionan** los incident
 </details>
 
 
-## तीर्थ-वासः
+## तीर्थ-वास-महिमा
 
 <details><summary>English</summary>
 
@@ -4929,6 +5022,20 @@ RESIDENCE IN HOLY PLACES.
 
 ऎऩ्ऱ बडि। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं 
+
+> भगवत्-क्षेत्रे शरीर-विश्लेषादयो मोक्षोपकारका 
+
+इति वचनम् अपि 
+
+> पश्व्-आदिवद् वाऽपि प्रातिकूल्य-रहितानाम् उपकारका 
+
+इत्य्-एवम्-परम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4966,6 +5073,13 @@ Aunque, en su indiferencia, **pueden ser** como animales.
 मोक्षम् उण्डागप् प्रसङ्गिक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा भगवत्-प्रातिकूल्यं कर्तुं प्रवृत्तानाम् अपि मृतानां  
+मोक्ष-संभवः प्रसज्येत। 
+</details>
+
+
 <details><summary>English</summary>
 
 If not understood in this manner,  
@@ -4987,6 +5101,7 @@ Si **no se entiende** de esta manera,
 </details>
 
 
+### अन्तिम-स्मृतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘दुष्टेन्द्रिय-वशाच् चित्तं  
@@ -5006,7 +5121,14 @@ Si **no se entiende** de esta manera,
 याति** नारायणालये॥’’  
 (सात्त्वत-संहिता ७-१२०) 
 
+इति श्री-सात्त्वत-संहिता-वचनम् अपि 
 </details>
+
+<details><summary>विषयः</summary>
+
+मन्दिरम्
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5035,7 +5157,8 @@ Esa mente **se vuelve** pura en los últimos días
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > शास्त्र-विरोधम् इल्लाद शब्दादि-प्रावण्यत्ताले  
+> > क्षेत्र-वासादि-तत्-परर् आऩार्क्कु  
+शास्त्र-विरोधम् इल्लाद शब्दादि-प्रावण्यत्ताले  
 मुऩ्बु भगवत्-साक्षात्-कारादिगळ् इल्लैयेय् आगिलुम्  
 अन्तिम-कालत्तिले तॆळिव् उण्ड् आम्  
 > 
@@ -5043,6 +5166,19 @@ Esa mente **se vuelve** pura en los últimos días
 
 ऎऩ्ऩुम् इडम् प्रकरणादि-सिद्धम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > क्षेत्रवासादि-तत्-पराणां  
+शास्त्राविरुद्ध-शब्दादि-प्रावण्येन  
+पूर्वं भगवत्-साक्षात्-काराद्य्-अ-भावेऽपि  
+अन्तिम-दशायां संप्रबोधो भवति
+> 
+> इत्य् एतावन्-मात्रे तत्परम् 
+
+इत्येतत् प्रकरणादि-सिद्धम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5068,7 +5204,6 @@ que **no se oponen** a los Śāstras,
 शास्त्रविरोधमिल्लाद शब्दादिप्रावण्यत्ताले मुऩ्बु भगवत्साक्षात्कारादिगळिल्लैयेयागिलुम् अन्तिमकालत्तिले तॆळिवुण्डामॆऩ्ऩुमिव् वळविले तत्परमॆऩ्ऩुमिडम् प्रकरणादिसिद्धम्। 
 </details>
 
-### अन्तिम-स्मृतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘यं योगिनः प्राण-वियोग-काले  
@@ -5085,7 +5220,8 @@ que **no se oponen** a los Śāstras,
 यत्नेन चित्ते विनिवेशयन्ति’’  
 (भारतम् शान्ति-पर्व ४६-१४३) 
 
-
+इत्य्-उक्त-स्व-यत्नापेक्षां विनैव  
+अन्तिम-दशायाम् एषां संप्रबोधो भवतीत्य् एष विशेषः । 
 </details>
 
 <details><summary>English</summary>
@@ -5129,8 +5265,12 @@ This much superiority they have.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अयं
+
 > ‘‘केवलं मदीययैव दयया ऽतिप्रबुद्धः’’  
 (शरणागति-गद्यम्।) 
+
+इति प्रपन्न-विषयेऽपि प्रदर्शितः । 
 </details>
 
 <details><summary>English</summary>
@@ -5160,6 +5300,14 @@ Esto **se muestra** también en el caso de Prapannas de quien **se dice**:
 तञ्जम् आगादु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो भगवत्-प्रतिकूलानां  
+प्रातिकल्य-शेष-भूतानि रूप-नाम-क्षेत्र-वास-संकीर्तनादीनि  
+रक्षकाणि न भवन्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore to those who are inimical to Bhagavān,  
@@ -5187,6 +5335,15 @@ a saber, **apariencia**, **llevando** el nombre de Bhagavān, **residencia** en 
 बहु-शास्त्र-सिद्धम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[२६३]]   
+पुण्य-क्षेत्रेषु क्रियमाणानि प्रतिकूलाचरणानि  
+अत्यन्त-बाघकानीत्य् अयम् अर्थो  
+बहु-शास्त्र-सिद्धः। 
+</details>
+
+
 <details><summary>English</summary>
 
 Things which are displeasing to the Lord, when done in holy places,  
@@ -5212,6 +5369,12 @@ Y esto **es** bien **conocido** de muchos Śāstras.
 इदुवुम् भगवत्-प्रभावम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अयम् अपि भगवत्-प्रभावः । 
+</details>
+
+
 <details><summary>English</summary>
 
 This is also due to the might of Bhagavān.
@@ -5236,6 +5399,13 @@ Esto también **se** debe al poder de Bhagavān.
 ऎल्ला दोषङ्गळैयुम्  
 ऒरु विरगाले पोक्किय्  
 उत्तारकङ्गळ् आम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवत्-प्रवणानाम्, वृत्र--क्षत्र-बन्धु-प्रभृतीनाम् इव  
+स्थितान्य् आनुकूल्यान्य् एव  
+सर्वान् दोषान् केनचिद् उपायेन विनिवर्त्योत्तारकाणि भवन्ति । 
 </details>
 
 
@@ -5268,6 +5438,14 @@ y **será** la causa de **su redención** por parte de algún vyāja o gesto.
 सर्वेश्वरऩ् स्वरूप-प्राप्तम् आऩ मुक्तैश्वर्यङ् गॊडुक्क 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः स्वसंकल्प-नियततया स्थितेन  
+येन केनचिद् व्याजेन  
+सर्वेश्वरः स्व-रूप-प्राप्त-मुक्तैश्वर्य-दानार्थं  
+</details>
+
+
 <details><summary>English</summary>
 
 Such being the case, Iśvara,  
@@ -5291,8 +5469,14 @@ a las que **tienen** derecho por su naturaleza,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निऩैप्प् इट्टव् अधिकारिगळ् पक्कल् उळ्ळ दोषङ्गळुक्कुच् चॆलवु सॆय्वाऩ् 
+निऩैप्प् इट्टव् अधिकारिगळ् पक्कल् उळ्ळ दोषङ्गळुक्कुच् चॆलवु सॆय्वाऩ् ।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+संकल्पितेषु +अधिकारिषु विद्यमानानां दोषाणां निवृत्तिं कुर्यात् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5315,6 +5499,14 @@ a las que **tienen** derecho por su naturaleza,
 (भारतम् आश्वमेधिक-पर्व २७-१) 
 > 
 > ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘एकश् शास्ता न द्वितीयोऽस्ति शास्ता’’  
+(भारतम् आश्वमेधिक-पर्व २७-१) 
+> 
+> इति
 </details>
 
 <details><summary>English</summary>
@@ -5354,7 +5546,8 @@ there is no second controller."
 रुक्माभं स्वप्न-धीगम्यं  
 विद्यात् तं पुरुषं परम् ।’’  
 (मनुस्मृति १२-१२२) 
-
+> 
+> इति
 </details>
 
 
@@ -5390,6 +5583,20 @@ there is no second controller."
 ऎऩ्ऱु तॆळिन्दु
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+>> ‘‘शास्ता विष्णुर् अशेषस्य’’  
+(जगतो यो हृदि स्थितः ।  
+तम् ऋते परमात्मानं  
+तात ! कः केन शास्यते ।)  
+(विष्णुपुराणम् १-१७-२०) 
+>
+> इति च प्रतिपाद्यमानः स एव
+
+इति संप्रबुध्य, 
+</details>
+
+
 <details><summary>English</summary>
 
 and 
@@ -5419,7 +5626,7 @@ Iśvara **es** el único **controlador** de quien **se dice** (lo anterior).
 ‘‘शास्ता विष्णुरशेषस्य’’(विष्णुपुराणम् १-१७-२०) ऎऩ्ऱुञ्जॊल्लप्पडुगिऱ इवऩ् ताऩे यॆऩ्ऱु तॆळिन्दु
 </details>
 
-## अनुकूलेषु वृत्तिः
+## ईषद्-अनुकूलेषु वृत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘रागादि-**दूषिते** चित्ते  
@@ -5465,6 +5672,8 @@ El cisne **nunca se deleita** en el agua que **está** fangosa ".
 नॆगिऴादे+++(=अविस्रस्य)+++,  
 </details>
 
+
+
 <details><summary>English</summary>
 
 (With this knowledge in our minds )  
@@ -5492,16 +5701,151 @@ sobre la fuerza de lo que se dice en pasajes como este (arriba).
 मरु-भूमियिल् तण्-णीर्-बॆऱ्ऱाऱ् पोलेय् उगन्दु +++(4)+++
 </details>
 
+<details><summary>English</summary>
+
+On the other hand, we should feel delighted at any good features  
+that might be found in such devotees,  
+even as in finding water in a wilderness.
+</details>
+
+<details><summary>Español</summary>
+
+Por otro lado, **deberíamos sentirnos** encantados con cualquier buena característica  
+que **se podría encontrar** en tales devotos,  
+incluso como en **encontrar** agua en un desierto.
+</details>
+
 <details><summary>मूलम्</summary>
 
-इव्वधिकारिकळ् पक्कलुळ्ळ गुणांशत्तै मरुभूमियिल् तण्णीर्बॆऱ्ऱाऱ्पोले युगन्दु
+इव्वधिकारिकळ् पक्कलुळ्ळ गुणांशत्तै मरुभूमियिल् तण्णीर्बॆऱ्ऱाऱ्पोलेयुगन्दु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘कर्मणा मनसा वाचा  
+यद् अभीक्ष्णं **निषेवते** ।  
+तद् **एवापहरत्य्** एनं  
+तस्मात् कल्याणम् **आचरेत्॥**’’  
+(भारतम् उद्योग-पर्व ३९-५६) +++(5)+++
+
+ऎऩ्गिऱ पडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘कर्मणा मनसा वाचा  
+यद् अभीक्ष्णं **निषेवते** ।  
+तद् **एवापहरत्य्** एनं  
+तस्मात् कल्याणम् **आचरेत्॥**’’  
+(भारतम् उद्योग-पर्व ३९-५६) +++(5)+++
+
+</details>
+
+<details><summary>विषयः</summary>
+
+अभ्यासः
+</details>
+
+
+<details><summary>English</summary>
+
+It has been said :-
+
+> "Whatever a man often does with the activities of his body, mind and speech -  
+it makes a man its captive.  
+Therefore one should (ever) perform what is good." 
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho**:-
+
+> "Lo que **sea** que un hombre suele **hacer** con las **actividades** de su cuerpo, mente y discurso -  
+**Hace** que un hombre **sea cautivo**.  
+Por lo tanto, uno **debería** (nunca) **realizar** lo que es bueno. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘कर्मणा मनसा वाचा यदभीक्ष्णं निषेवते । तदेवापहरत्येनं तस्मात्कल्याणमाचरेत्’’(भारतम् उद्योग-पर्व ३९-५६) ऎऩ्गिऱ पडिये
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+करण-त्रयत्तालुम् ताऩ् नल्-वऴि कैविडादे 
+</details>
+
+<details><summary>English</summary>
+
+So we should never deviate from the right path with the body, mind or speech.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **nunca debemos desviarnos** del camino correcto con el cuerpo, la mente o el discurso.
+</details>
+
+<details><summary>मूलम्</summary>
+
+करणत्रयत्तालुम् ताऩ् नल्वऴि कैविडादे 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘संसार-विष-वृक्षस्य  
+द्वे फले ह्य् अमृतोपमे ।  
+कदाचित् केशवे भक्तिस्  
+तद्-भक्तैर् वा समागमः॥’’() +++(5)+++
+
+ऎऩ्ऱ् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘संसार-विष-वृक्षस्य  
+द्वे फले ह्य् अमृतोपमे ।  
+कदाचित् केशवे भक्तिस्  
+तद्-भक्तैर् वा समागमः॥’’() +++(5)+++
+
+</details>
+
+<details><summary>विषयः</summary>
+
+भक्तिः, भागवतः, सत्-सङ्गः
+</details>
+
+<details><summary>English</summary>
+
+There is a saying that 
+
+> "The poison tree called saṁsāra bears two (kinds of) fruits  
+which are like nectar -  
+one is bhakti to Bhagavān  
+and the other association with those who are His bhaktas". 
+</details>
+
+<details><summary>Español</summary>
+
+**Hay** un **dicho** que
+
+> "El árbol venenoso **llamado** saṁsāra **tiene** dos (tipos de) frutas  
+que **son** como el néctar -  
+Uno **es** bhakti a bhagavān  
+y la otra **asociación** con los que **son** sus bhaktas ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘संसारविषवृक्षस्य द्वे फले ह्यमृतोपमे । कदाचित्केशवे भक्तिस्तद्भक्तैर्वा समागमः॥’’() ऎऩ्ऱ् 
 </details>
 
 
 
-On the other hand, we should feel delighted at any good features that might be found in such devotees, even as in finding water in a wilderness.
 
-It has been said :-"Whatever a man often does with the activities of his body, mind and speech - it makes a man its captive. Therefore one should (ever) perform what is good. So we should never deviate from the right path with the body, mind or speech.There is a saying that "The poison tree called saṁsāra bears two (kinds of) fruits which are like nectar - one is bhakti  to Bhagavān and the other association with those who are His bhaktas". Therefore we should feel it a blessing that we have obtained the unattainable privilege of association with those really great men who may appear small (in the eyes of the ignorant) and who have the great good fortune of having sought the protection of the Supreme Being, for this should be the great object of desire during our life. time here. We should rest assured "that evil" deeds can never be ours, as we have been accepted by the Lord (as His servants)", and "That the Lord who wields the chakra (the discus) protects us and that (therefore) no one can do anything harmful to us." We should therefore crown ourselves, even here, in anticipation of the empireship of perfect service to the Lord which will be ours in Heaven (Paramapada). This potency which has been determined so far should be remembered in connection with such places as indicate the fruit in the three mysteries (mantras), as established by necessary consequence.
+
+
+Therefore we should feel it a blessing that we have obtained the unattainable privilege of association with those really great men who may appear small (in the eyes of the ignorant) and who have the great good fortune of having sought the protection of the Supreme Being, for this should be the great object of desire during our life. time here. We should rest assured "that evil" deeds can never be ours, as we have been accepted by the Lord (as His servants)", and "That the Lord who wields the chakra (the discus) protects us and that (therefore) no one can do anything harmful to us." We should therefore crown ourselves, even here, in anticipation of the empireship of perfect service to the Lord which will be ours in Heaven (Paramapada). This potency which has been determined so far should be remembered in connection with such places as indicate the fruit in the three mysteries (mantras), as established by necessary consequence.
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
