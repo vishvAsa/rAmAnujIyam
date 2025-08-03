@@ -5672,6 +5672,11 @@ El cisne **nunca se deleita** en el agua que **está** fangosa ".
 नॆगिऴादे+++(=अविस्रस्य)+++,  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आद्य्-अवलोकनेन,  
+निकर्ष-बुद्धि-त्याग-पूर्वम् 
+</details>
 
 
 <details><summary>English</summary>
@@ -5700,6 +5705,13 @@ sobre la fuerza de lo que se dice en pasajes como este (arriba).
 इव्व्-अधिकारिगळ् पक्कल् उळ्ळ गुणांशत्तै  
 मरु-भूमियिल् तण्-णीर्-बॆऱ्ऱाऱ् पोलेय् उगन्दु +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एष्व् अधिकारिषु विद्यमान गुणांशं  
+मरु-भूमौ जल-लाभवद् अभिनन्द्य, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5740,6 +5752,7 @@ incluso como en **encontrar** agua en un desierto.
 तस्मात् कल्याणम् **आचरेत्॥**’’  
 (भारतम् उद्योग-पर्व ३९-५६) +++(5)+++
 
+इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>विषयः</summary>
@@ -5776,6 +5789,12 @@ Por lo tanto, uno **debería** (nunca) **realizar** lo que es bueno.
 करण-त्रयत्तालुम् ताऩ् नल्-वऴि कैविडादे 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+करण-त्रयेणापि स्वयं सन्-मार्गम् अ-परित्यज्य, 
+</details>
+
+
 <details><summary>English</summary>
 
 So we should never deviate from the right path with the body, mind or speech.
@@ -5808,6 +5827,7 @@ Por lo tanto, **nunca debemos desviarnos** del camino correcto con el cuerpo, la
 कदाचित् केशवे भक्तिस्  
 तद्-भक्तैर् वा समागमः॥’’() +++(5)+++
 
+इति
 </details>
 
 <details><summary>विषयः</summary>
