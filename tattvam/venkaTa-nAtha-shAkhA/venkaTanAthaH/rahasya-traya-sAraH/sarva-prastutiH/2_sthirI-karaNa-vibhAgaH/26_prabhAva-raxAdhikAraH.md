@@ -4105,6 +4105,11 @@ Sin embargo, el agua **no se hace** clara por la mera **expresión** de su nombr
 ‘‘फलं कतकवृक्षस्य यद्यप्यम्बुप्रसादनम् । न नामग्रहणेनैव तस्य वारि प्रसीदति’’(मनुस्मृति ६-६७) ऎऩ्गिऱदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+केवलनामत्तालुम् प्रयोजनसिद्धियिल्लैयॆऩ्बदिल् प्रमाणङ्गाट्टुगिऱार् फलं कतकवृक्षस्येति, कतकवृक्षः – तेत्तामरम्। अदिऩ् फलम् तेत्ताङ्गॊट्टै। 
+</details>
+
 
 
 ## नाम-महिमा भक्तेष्व् एव
@@ -4176,6 +4181,11 @@ y **volverse** feliz ".
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ननु शैलूषवृत्तिकळुक्कुम् नारायणशब्द-मात्रसङ्कीर्तनम् सभावितमऩ्ऱो? सभावितमाऩाल् ‘‘सङ्कीर्त्य नारायणशब्दमात्र विमुक्तदुःखाः’’ ऎऩ्गिऱ प्रमाणत्तिऩ्बडि दुःखनिवृत्त्यादिगळुम् सुखप्राप्त्यादिगळुम् उण्डागादो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् आर्ता विषण्णा इत्यादिना । आर्ताः – ऐहिकफलम् किट्टामैयाल् दुःखितर्गळुम्, विषण्णाः – आमुष्मिकफलम् किट्टामैयाल् विषादत्तै यडैन्दवर्गळुम्, शिथिलाः - ऒरु विधत्तालुम् मऩत्तिल् स्थैर्यमिल्लादवर्गळुम्, भीताः – संसारतापत्तिऩिऩ्ऱुम् भीतर्गळुम्, घोरेषु च व्याधिषु वर्तमानाः – घोरमाऩ व्याधिकळैयनुभविप्पवर्गळुम्, नारायणशब्दमात्रं - अर्थज्ञानमिऩ्ऱिक्के केवलनारायणशब्दत्तै। 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘+++(देव-प्रवणेन)+++ अ-वशेनापि यन् नाम  
@@ -4225,6 +4235,12 @@ debido al miedo a un león ",
 <details><summary>मूलम्</summary>
 
 ‘‘अवशेनापि यन्नाम कीर्तिते सर्वपातकैः । पुमान् विमुच्यते सद्यस्सिंहत्रस्तैर्मृगैरिव’’(विष्णु पुराणम् ६-८-१९) ऎऩ्ऱुम्, 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अवशेनापीति । अवशेनापि - वाय्प्पुलऱ्ऱुगिऱवऩ्बोल् तऩक्कु वशमिल्लाद पुरुषऩालुम्, सॊल्लुवदिल् अभिसन्धियिल्लादवऩालुमॆऩ्ऱबडि। सिंहत्रस्तैर्मृगैः – वनमित्यध्याहारः । सिंहत्तिऩिऩ्ऱुम् पयन्द माऩ्गळाले सिम्हमुळ्ळ काडु ऎप्पडि विडप्पडुमो, अप्पडिये। सद्यः - अप्पॊऴुदे, सर्वपापैः - ऎल्ला पाबत्तिऩिऩ्ऱुम्, पुमान् - अवशमाग भगवन्नामावैच्चॊऩ्ऩ पुरुषऩ्, विमुच्यते - निश्शेषमाग विडप्पडुगिऱाऩ्। अथवा सिंहत्रस्तैर्मृगैरिव स्थितैस्सर्वपातकैः ऎऩ्ऩवुमाम्। 
 </details>
 
 
@@ -4282,6 +4298,12 @@ aunque **esté** en burla -
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+साङ्केत्यमिति । साङ्केत्यं – सङ्केतसिद्धम्, अदावदु तऩ् पुत्तिरऩुक्कु नारायणऩॆऩ्ऱु पॆयरिट्टु अन्द सङ्गेदत्ताले नारायणशब्दत्तैच् चॊल्लुगिऱदु। पारिहास्यं - उऩक्कु नारायणऩॆऩ्ऱु पॆयर् नऩ्ऱाग वैक्कप्पट्टदु ऎऩ्गिऱ परिहासोक्तियिल् घटकमाऩ - नारायणशब्दग्रहणम्। स्तोभं – अक्षरानुकरणम्, कौमारिलर् ऎऩ्बदऱ्कु तौदादिलर् ऎऩ्बदुबोल् नारायणा ऎऩ्बदऱ्कुक् कारायणा ऎऩ्बदु। हेळनं – हेडृ अनादरे, अनादरप्रयुक्तमागिलुम्, अदावदु सर्वदा नारायण ऎऩ्ऱुसॊल्लुमवऩैक्कुऱित्तु, इवर् सर्वदा नारायण ऎऩ्बर् ऎऩ्ऱु हेळनम् सॊल्वदु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘हरिर् **हरति** पापानि  
@@ -4331,6 +4353,10 @@ Ciertamente **arde** ".
 ‘‘हरिर्हरति पापानि दुष्टचित्तैरपि स्मृतः । अनिच्छयापि संस्पृष्टो दहत्येव हि पावकः॥’’(हर्यष्टकम्) ऎऩ्ऱुम्,
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+हरिर्हरतीति । स्पष्टम्। 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4380,6 +4406,14 @@ alcanzó Mukti **llamando** a su hijo 'Nārāyaṇa' en el momento de su **muert
 
 ‘‘एतावतालमघनिर्हरणाय पुंसां सङ्कीर्तनं भगवतो गुणकर्मनाम्नाम् । आक्रुश्य पुत्रमघवान् यदजामिलोऽपि नारायणेति म्रियमाण उपैति मुक्तिम्’’(भागवतम् ६-३-२४)ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+एतावतेति । भगवतः - भगवाऩुडैय, गुणकर्मनाम्नां – गुणमॆऩ्ऩ, कर्ममॆऩ्ऩ, नामधेयमॆऩ्ऩ इवैगळुडैय, यत् - यादॊरु, सङ्कीर्तनं - कीर्त्तऩमुण्डो, एतावता - इव्वळवाल्, पुंसां – पुरुषर्गळुडैय, अघनिर्हरणाय - पापनाशत्तिऩ् पॊरुट्टु, अलं – अत्यन्तपर्याप्तम्। अधिकमित्यर्थः ।  
+यद्वा ‘‘अलं भूषणपर्याप्तिशक्तिवारणवाचकः’’ ऎऩ्गिऱ कोशत्ताले अलं पदं वारणार्थकम्।  
+एतावता अलं – एतावन्मास्त्वित्यर्थः । यत् – यस्मात्, अघवान् – अतिशायिने मतुप् । अतिशयितपापवाऩ्, अजामिळोऽपि - अजामिळऩॆऩ्बवऩुम्, म्रियमाणः - सन्निहितमरणस्सन्, पुत्रं – पुत्तिरऩै, नारायणेति -नारायणावॆऩ्ऱु। आक्रुश्य – आक्रोशनम् पण्णि, अदावदु कोबत्तुडऩ् कूप्पिट्टु, मुक्तिं - मोक्षत्तै, उपैति - अडैन्दाऩो, उपैतीति भूते लट् । स्मशब्दाध्याहारेण वा योजना । पापिष्ठऩाऩ अजामिळऩ् पुत्तिरऩै नारायण ऎऩ्ऱु आक्रोशित्त मात्तिरत्ताले मुक्तियैयडैन्दाऩागैयाल् पापनिर्हरणत्तिऱ्कु भगवाऩुडैय गुणकर्मनामकीर्तनङ् गळागिऱ बहुव्यापारङ्गळ् वेण्डामॆऩ्ऱु करुत्तु।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4437,6 +4471,12 @@ como para **ser** fácilmente **accesible** para sus sirvientes ".
 ’’मॊय्त्त वल्विऩैयुळ् निऩ्ऱु मूऩ्ऱॆऴुत्तुडैय पेराल् कत्तिरबन्दुमऩ्ऱे पराङ्गदि कण्डुगॊण्डाऩ्, इत्तऩै यडियराऩार्क्किरङ्गु नमरङ्गऩायबित्तऩप्पॆऱ्ऱुम्’’(तिरुमालै ४) ऎऩ्ऱुञ् जॊल्लुगिऱविवैयॆल्लाम्
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मॊय्त्त वल्विऩैयुळ् इत्यादि । मॊय्त्त - मॊय्त्तुक्कॊण्डिरुक्किऱ, अदावदु आवरित्तुक्कॊण् डिरुक्किऱ, वल् - दृढमाऩ, विऩैयुळ् - पाबङ्गळिऩ् मत्तियिल्, निऩ्ऱु - इरुन्दे, मूऩ्ऱॆऴुत्तुडैय पेराल् - मूऩ्ऱु अक्षरङ्गळैयुडैय गोविन्द ऎऩ्गिऱ भगवन्नामत्ताल्, कत्तिरबन्दु - पापिष्ठऩाऩ क्षत्रबन्धुवुम्, अऩ्ऱे - अन्द जन्मत्तिलेये, पराङ्गदि कण्डुगॊण्डाऩ् - परमपदत्तैयडैन्दाऩ्। इत्तऩैयडियराऩार्क्कु - क्षत्रबन्धुपोले इव्वळवु अडिमै सॆय्वार्क्कु, नामोच्चारणमात्रमागिऱ स्वल्पशेषवृत्तियैप् पण्णुवार्क्कु, भागवताभासरुक्कु ऎऩ्ऱबडि। इरङ्गु - इरङ्गुमवऩाऩ, दयै पण्णुमवऩाऩ ऎऩ्ऱबडि। नम् – नम्मुडैय स्वामियाऩ, अरङ्गऩाय पित्तऩै - रङ्गनादऩागिऱ आश्रितव्यामुग्धऩै, पॆऱ्ऱुम् - इन्द लीलाविभूतियिले समीपवर्तियागप्पॆऱ्ऱुम्। अन्दो - ऐयो! पिऱवियुळ् - संसारत्तिल्, पिणङ्गुमाऱु - अवऩैयनादरित्तुत् ताङ्गळन्योन्यम् कलहम् सॆय्दु कॊण्डिरुक्कुम् प्रकारत्तै, ऎऩ्ऩ सॊल्वदु? ऎऩ्ऱबडि। ऎऩ्ऱुञ् जॊल्लुगिऱविवैयॆल्लाम् - भगवन्नामप्रभावत्तैच्चॊल्लुगिऱ इव्वसनमॆल्लाम्, 
+</details>
+
+
 ### देव-प्रवणेषु
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4470,6 +4510,14 @@ aunque su fe en Bhagavān **es** débil,
 
 भगवत्प्रद्वेषमिल्लादवऩुक्कु आस्तिक्यम् मन्दमागिलुम् 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+भगवत्प्रद्वेषमिल्लादवऩुक्कु इति । इदऱ्कु सङ्कीर्तनम् पावनतममॆऩ्ऱबडि ऎऩ्बदोडन्वयम्। 
+
+ऎडुत्त प्रमाणङ्गळुक्कु अभिप्रायत्तै क्रमेण अरुळिच्चॆय्गिऱार् आस्तिक्यम् मन्दमागिलुमिति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5969,26 +6017,147 @@ as we have been accepted by the Lord (as His servants),  por el Señor (como sus
 इत्य्-उक्त-रीत्या 
 </details>
 
+<details><summary>English</summary>
+
+and 
+
+> "That the Lord who wields the chakra (the discus) protects us  
+and that (therefore) no one can do anything harmful to us." 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "Que el Señor que **maneja** el chakra (el disco) nos **protege**  
+y eso (por lo tanto) nadie **puede hacer** nada dañino para nosotros ".
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 ५३’’आळ्गिऩ्ऱाऩाऴियाऩाराऱ्कुऱैयुडैयम्’’(तिरुवाय्मॊऴि १०-४-३)  ऎऩ्गिऱबडिये 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परम-पदत्तिऱ् पॆऱप् पुगुगिऱ  
+परिपूर्ण-कैङ्कर्य-साम्राज्यत्तुक्क्  
+इङ्गे मुडि+++(=शिखा-बन्ध)+++-सूडिय्+++(=धृत)+++ इरुक्कप् प्राप्तम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+परम-पदे प्राप्स्यमानस्य परिपूर्ण-कैङ्कर्य-साम्राज्यस्य कृते  
+इह पुष्पापीड-धारिभिः स्थातुं युक्तम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+We should therefore crown ourselves, even here,  
+in anticipation of the empireship of perfect service to the Lord  
+which will be ours in Heaven (Paramapada). 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **deberíamos coronarnos**, incluso aquí,  
+En anticipación de la imperia del **servicio** perfecto al Señor  
+que **será** nuestro en el cielo (Paramapada).
+</details>
+
+<details><summary>मूलम्</summary>
+
+परमपदत्तिऱ्पॆऱप्पुगुगिऱ परिपूर्णकैङ्कर्यसाम्राज्यत्तुक्किङ्गे मुडिसूडियिरुक्कप् प्राप्तम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि व्यवस्थितम् आऩ प्रभावम्  
+रहस्य-त्रयत्तिल् फल-निर्देश-प्रदेशङ्गळिले  
+**अनुषङ्ग-सिद्धम् आग अनुसन्धेयम्**।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं व्यवस्थितः प्रभावो  
+रहस्यत्रये फल-निर्देश-प्रदेशेषु आनुषङ्गिकतया ऽनुसन्धेयः ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+This potency which has been determined so far  
+should be remembered in connection with such places as indicate the fruit in the three mysteries (mantras),  
+as established by necessary consequence.
+</details>
+
+<details><summary>Español</summary>
+
+Esta potencia que **se ha determinado** hasta ahora  
+**debe recordarse** en **relación** con lugares que **indiquen** la fruta en los tres misterios (mantras),  
+según lo **establecido** por la consecuencia necesaria.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि व्यवस्थितमाऩ प्रभावम् रहस्यत्रयत्तिल् फलनिर्देशप्रदेशङ्गळिले अनुषङ्गसिद्धमाग अनुसन्धेयम्।  
+</details>
 
 
 
-and 
-
-> "That the Lord who wields the chakra (the discus) protects us and that (therefore) no one can do anything harmful to us." We should therefore crown ourselves, even here, in anticipation of the empireship of perfect service to the Lord which will be ours in Heaven (Paramapada). This potency which has been determined so far should be remembered in connection with such places as indicate the fruit in the three mysteries (mantras), as established by necessary consequence.
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-उण्मैयुरैक्कु मऱैगळिलोङ्गिय वुत्तमनार्  
-वण्मैयळप्परिदादलिन् वन्दु कऴल्बणिवार्  
-तण्मै किडन्दिडत्तरमळवॆन्न वियप्पिलदाम्  
-उण्मैयुरैत्तनरोरन्दविर वुयर् न्दनरे. ( 37 )
+उण्मैय्-उरैक्कु+++(म्)+++ मऱैगळिल् ओङ्गियव्+++(=समुच्छ्रित)+++ उत्तमनार्  
+वण्मैय्-अळप्प् अरिद् आदलिन् वन्दु कऴल् बणिवार्  
+तण्मै किडन्द् इडत्त् अरम् अळव् ऎन्न वियप्प्-इलद् आम्  
+उण्मैय्-उरैत्तनरोरन्दविरव् उयर्न्दनरे. ( 37 )
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सत्यं वदत्सु वेदेषु  
+
+> समुच्छ्रितस्योत्तमस्यौदार्यं परिच्छेत्तुम् अशक्यम् 
+
+इत्य्-अतः,  
+एत्य चरणाव् आश्रयताम् अपकर्षे सत्य् अपि  
+
+> उत्कर्षः परिच्छेद-वचसाम् अ-भूमिर् 
+
+इति तत्त्वम् उपदिदिशुः पक्ष-पातम् अन्तरा महान्तः । 
+</details>
+
+
+<details><summary>English</summary>
+
+> The Supreme Self whose greatness is described in the Vedas,  
+which reveal the truth,  
+is beyond all limitations  
+and beyond all measure in regard to His glory.  
+Therefore, about those who approach Him and seek His feet,  
+though such things as low birth and certain weaknesses may be found in them,  
+yet it cannot be said that their greatness is, in any way, limited.  
+This truth has been taught to us by those who are highest among men  
+and who are free from all partiality.
+</details>
+
+<details><summary>Español</summary>
+
+> El yo supremo cuya grandeza **se describe** en los Vedas,  
+que **revelan** la verdad,  
+está más allá de todas las limitaciones
+y más allá de toda **medida** con respecto a su gloria.  
+Por lo tanto, sobre aquellos que **se acercan** a él y **buscan** los pies,  
+Aunque **se pueden encontrar** cosas como un bajo **nacimiento** y ciertas debilidades en ellas,  
+Sin embargo, **no se puede decir** que su grandeza sea, de cualquier manera, limitada.  
+Esta verdad nos **ha sido enseñada** por aquellos que son más altos entre los hombres.  
+y que **están libres** de toda parcialidad.
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -5998,7 +6167,7 @@ and
 उण्मैयुरैत्तनरोरन्दविर वुयर् न्दनरे. ( 37 )
 </details>
 
-The Supreme Self whose greatness is described in the Vedas, which reveal the truth, is beyond all limitations and beyond all measure in regard to His glory. Therefore, about those who approach Him and seek His feet, though such things as low birth and certain weaknesses may be found in them, yet it cannot be said that their greatness is, in any way, limited. This truth has been taught to us by those who are highest among men and who are free from all partiality.
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
