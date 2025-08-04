@@ -6310,7 +6310,7 @@ según lo **establecido** por la consecuencia necesaria.
 </details>
 
 
-
+## उपसंहारः
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 उण्मैय्-**उरैक्कु**+++(म्=वदत्)+++ मऱैगळिल् **ओङ्गियव्**+++(=समुच्छ्रित)+++ उत्तमनार्  
@@ -6336,11 +6336,12 @@ según lo **establecido** por la consecuencia necesaria.
 
 <details><summary>English</summary>
 
-> The Supreme Self whose greatness is described in the Vedas,  
+> The Supreme Self,  
+whose greatness is described in the Vedas,  
 which reveal the truth,  
-is beyond all limitations  
-and beyond all measure in regard to His glory.  
-Therefore, about those who approach Him and seek His feet,  
+is beyond all limitations and beyond all measure in regard to His glory.  
+>
+> Therefore, about those who approach Him and seek His feet,  
 though such things as low birth and certain weaknesses may be found in them,  
 yet it cannot be said that their greatness is, in any way, limited.  
 This truth has been taught to us by those who are highest among men  
@@ -6349,14 +6350,16 @@ and who are free from all partiality.
 
 <details><summary>Español</summary>
 
-> El yo supremo cuya grandeza **se describe** en los Vedas,  
+> El yo supremo, cuya grandeza **se describe** en los Vedas,  
 que **revelan** la verdad,  
-está más allá de todas las limitaciones
-y más allá de toda **medida** con respecto a su gloria.  
-Por lo tanto, sobre aquellos que **se acercan** a él y **buscan** los pies,  
+**está** más allá de todas las limitaciones y más allá de toda **medida** con respecto a su gloria.  
+>
+> Por lo tanto, sobre aquellos que **se acercan** a él y **buscan** los pies,  
 Aunque **se pueden encontrar** cosas como un bajo **nacimiento** y ciertas debilidades en ellas,  
-Sin embargo, **no se puede decir** que su grandeza sea, de cualquier manera, limitada.  
-Esta verdad nos **ha sido enseñada** por aquellos que son más altos entre los hombres.  
+Sin embargo, **no se puede decir** que su grandeza **sea**, de cualquier manera, limitada.  
+>
+> Esta verdad nos **ha sido enseñada** por aquellos  
+que **son** más altos entre los hombres  
 y que **están libres** de toda parcialidad.
 </details>
 
@@ -6396,8 +6399,8 @@ y que **están libres** de toda parcialidad.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-रागद्वेषमदादिकैरिह महारक्षोभिरक्षोभिते  
-नित्ये रक्षितरि स्थिते निजभरन्यासाभिधानं तपः ।  
+राग-द्वेष-मदादिकैर् इह महा-रक्षोभिर् **अक्षोभिते**  
+नित्ये **रक्षितरि स्थिते** निज-भर-न्यासाभिधानं तपः ।  
 यत्कक्षीकृतमत्यशेत विविधान् धर्मानधर्मद्रुह-  
 स्तद्भूमार्णवलेशवर्णनमपि प्राचां न वाचां पदम् ॥ ५८ ॥
 </details>
