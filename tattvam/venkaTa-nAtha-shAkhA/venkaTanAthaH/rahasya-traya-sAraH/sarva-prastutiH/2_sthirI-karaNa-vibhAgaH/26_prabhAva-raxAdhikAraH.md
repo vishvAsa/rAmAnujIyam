@@ -6310,7 +6310,7 @@ según lo **establecido** por la consecuencia necesaria.
 </details>
 
 
-## उपसंहारः
+## उपसंहारः - वर्णनातीतता
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 उण्मैय्-**उरैक्कु**+++(म्=वदत्)+++ मऱैगळिल् **ओङ्गियव्**+++(=समुच्छ्रित)+++ उत्तमनार्  
@@ -6401,9 +6401,37 @@ y que **están libres** de toda parcialidad.
 
 राग-द्वेष-मदादिकैर् इह महा-रक्षोभिर् **अक्षोभिते**  
 नित्ये **रक्षितरि स्थिते** निज-भर-न्यासाभिधानं तपः ।  
-यत्कक्षीकृतमत्यशेत विविधान् धर्मानधर्मद्रुह-  
-स्तद्भूमार्णवलेशवर्णनमपि प्राचां न वाचां पदम् ॥ ५८ ॥
+यत्-**कक्षी-कृतम् अत्यशेत** विविधान् धर्मान् **अ-धर्म-द्रुहस्**+++(→अत्यशेत)+++,  
+तद्-भूमार्णव-लेश-**वर्णनम्** अपि प्राचां न वाचां पदम् ॥ ५८ ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+राग-द्वेष-मदादिकैर् इह महा-रक्षोभिर् **अक्षोभिते**  
+नित्ये **रक्षितरि स्थिते** निज-भर-न्यासाभिधानं तपः ।  
+यत्-**कक्षी-कृतम् अत्यशेत** विविधान् धर्मान् **अ-धर्म-द्रुहस्**+++(→अत्यशेत)+++,  
+तद्-भूमार्णव-लेश-**वर्णनम्** अपि प्राचां न वाचां पदम् ॥ ५८ ॥
+</details>
+
+<details><summary>English</summary>
+
+When the eternal Saviour, who cannot, in the least, be affected by such great demons as desire, hatred, pride and the like is present (to save us),  
+that tapas or upāya called the surrender of the responsibility of our protection (bharanyāsa),  
+which is accepted as transcending all other dharmas (upāyas) in putting down all adharmas --  
+that tapas is so great that the description of even a fragment of the ocean of its potency  
+is beyond the range of even the ancient Vedas.
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el **salvador** eterno, que **no puede**, en lo más mínimo, **afectado** por demonios tan grandes como el deseo, el odio, el orgullo y similares están presentes (para salvarnos),  
+que las tapas o upāya llamaron la rendición de la responsabilidad de nuestra protección (bharanyāsa),  
+que se acepta como trascendiendo todos los demás dharmas (upāyas) para dejar todos los adharmas -  
+que las tapas son tan grandes que la descripción de incluso un fragmento del océano de su potencia  
+está más allá del rango de incluso los antiguos Vedas.
+</details>
+
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -6413,7 +6441,7 @@ y que **están libres** de toda parcialidad.
 स्तद्भूमार्णवलेशवर्णनमपि प्राचां न वाचां पदम् ॥ ५८ ॥
 </details>
 
-When the eternal Saviour, who cannot, in the least, be affected by such great demons as desire, hatred, pride and the like is present (to save us), that tapas or upāya called the surrender of the responsibility of our protection (bharanyāsa), which is accepted as transcending all other dharmas (upāyas) in putting down all adharmas -- that tapas is so great that the description of even a fragment of the ocean of its potency is beyond the range of even the ancient Vedas.
+
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे  
 प्रभावरक्षाधिकारः षड्विंशः ॥ श्रीमते निगमान्तमहादेशिकाय नमः॥  
