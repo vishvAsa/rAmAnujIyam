@@ -336,7 +336,7 @@ quien **obtuvo** todo su **conocimiento** sobre el mantra Mūla de su ācārya, 
 </details>
 
 
-
+## विभाग-प्रतिज्ञा
 <details><summary>English</summary>
 
 THE PURPORT OF THE THREE MANTRAS AND THEIR RELATION TO ONE ANOTHER:
@@ -347,11 +347,71 @@ THE PURPORT OF THE THREE MANTRAS AND THEIR RELATION TO ONE ANOTHER:
 EL **SIGNIFICADO** DE LAS TRES MANTRAS Y SU RELACIÓN CON UNA OTRA:
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्त्व-स्थर्क्क् अनुसन्धेयङ्गळ् आऩ सारतमार्थङ्गळैयुम्  
+अवऱ्ऱिऩ्-उडैय स्थिरी-करण-प्रकारङ्गळैयुम्  
+प्रतिपादित्तोम्। 
+</details>
+
+<details><summary>English</summary>
+
+So far we have explained the most essential truths which every sātvika should remember  
+and established them on a firm basis (of authority (pramāṇa) and argument). 
+</details>
+
+<details><summary>Español</summary>
+
+Hasta ahora **hemos explicado** las verdades más esenciales que cada sātvika **debe recordar**  
+y los **estableció** sobre una base firme (de autoridad (pramāṇa) y argumento).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सत्वस्थर्क्कनुसन्धेयङ्गळाऩ सारतमार्थङ्गळैयुम् अवऱ्ऱिऩुडैय स्थिरीकरणप्रकारङ्गळैयुम् प्रतिपादित्तोम्। 
+</details>
+ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱैय् ऎल्लाम् प्रकाशिप्पिक्किऱ रहस्य-त्रयत्तिल्  
+पद-वाक्य-योजऩैगळ् इरुक्कुम् बडि सॊल्लुगिऱोम्। 
+</details>
+
+<details><summary>English</summary>
+
+We will now proceed to show in what ways,  
+in the three great mysteries (mantras) which reveal all these (truths),  
+the words and the sentences should be construed  
+(in order that their meanings may be properly understood).
+</details>
+
+<details><summary>Español</summary>
+
+Ahora **procederemos** a mostrar de qué manera,  
+En los tres grandes misterios (mantras) que **revelan** todas estas (verdades),  
+Las palabras y las oraciones **deben interpretarse**  
+(para que sus **significados puedan entenderse** correctamente).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱैयॆल्लाम् प्रकाशिप्पिक्किऱ रहस्यत्रयत्तिल् पदवाक्ययोजऩैगळिरुक्कुम्बडि सॊल्लुगिऱोम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऱ्ऱिल् मुऱ्पड तिरुमन्त्रम् परशेषतैकरसस्वरूपादिगळैत्तॆळिवित्तु अम्मुखत्ताले समस्तप्रतिबन्धकनिवृत्तिपूर्वकपरमपुरुषार्थप्राप्तियिले रुचियैयुम् त्वरैयैयुम् विळैप्पित्तु उपायाधिकारपूर्तियै युण्डाक्कुम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवऱ्ऱिल् मुऱ्पड तिरुमन्त्रम् परशेषतैकरसस्वरूपादिगळैत्तॆळिवित्तु अम्मुखत्ताले समस्तप्रतिबन्धकनिवृत्तिपूर्वकपरमपुरुषार्थप्राप्तियिले रुचियैयुम् त्वरैयैयुम् विळैप्पित्तु उपायाधिकारपूर्तियै युण्डाक्कुम्। 
+</details>
 
 
 
 
-So far we have explained the most essential truths which every sātvika should remember and established them on a firm basis (of authority (pramāṇa) and argument). We will now proceed to show in what ways, in the three great mysteries (mantras) which reveal all these (truths), the words and the sentences should be construed (in order that their meanings may be properly understood).
 
 Among them, the first, namely, Tirumantra (aṣṭākṣara) helps us to understand such things as our essential nature, (svarūpa) which finds true happiness only in being the śeṣa of the Supreme Being. By that (revelation), it creates a longing for the Supreme Goal of attainment preceded by the removal of all obstacles thereto and also a feeling of urgency (tvarā) (in regard to that attainment) whereby the competency for the adoption of the upāya (prapatti) becomes perfected. Dvaya reveals clearly the manner in which this particular upāya should be adopted by this adhikārī with an antecedent longing for the fruit thereof. The carama śloka enjoins (as a vidhi) the adoption of this upāya. Though it is possible to find all these truths in each of these three mantras by itself, from the words themselves and from the sense
 
