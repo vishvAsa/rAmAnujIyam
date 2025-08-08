@@ -336,7 +336,8 @@ quien **obtuvo** todo su **conocimiento** sobre el mantra Mūla de su ācārya, 
 </details>
 
 
-## विभाग-प्रतिज्ञा
+## मन्त्र-त्रयम्
+### प्रबन्ध-विभाग-प्रतिज्ञा
 <details><summary>English</summary>
 
 THE PURPORT OF THE THREE MANTRAS AND THEIR RELATION TO ONE ANOTHER:
@@ -398,30 +399,470 @@ Las palabras y las oraciones **deben interpretarse**
 इवऱ्ऱैयॆल्लाम् प्रकाशिप्पिक्किऱ रहस्यत्रयत्तिल् पदवाक्ययोजऩैगळिरुक्कुम्बडि सॊल्लुगिऱोम्। 
 </details>
 
+### मूल-मन्त्र-सारः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अवऱ्ऱिल् मुऱ्पड तिरुमन्त्रम् परशेषतैकरसस्वरूपादिगळैत्तॆळिवित्तु अम्मुखत्ताले समस्तप्रतिबन्धकनिवृत्तिपूर्वकपरमपुरुषार्थप्राप्तियिले रुचियैयुम् त्वरैयैयुम् विळैप्पित्तु उपायाधिकारपूर्तियै युण्डाक्कुम्। 
+अवऱ्ऱिल् मुऱ्पड तिरु-मन्त्रम्  
+पर-शेषतैक-रस-स्वरूपादिगळैत् तॆळिवित्तु  
+</details>
+
+<details><summary>English</summary>
+
+Among them, the first, namely, Tirumantra (aṣṭākṣara)  
+helps us to understand such things as our essential nature, (svarūpa)  
+which finds true happiness only in being the śeṣa of the Supreme Being.  
+</details>
+
+<details><summary>Español</summary>
+
+Entre ellos, el primero, a **saber**, Tirumantra (Aṣṭākṣara)  
+**nos ayuda** a **comprender** cosas como nuestra naturaleza esencial (svarūpa)  
+Lo que **encuentra** la verdadera felicidad  
+solo en **ser** el Śeṣa del **ser** supremo.
 </details>
 
 <details><summary>मूलम्</summary>
 
-अवऱ्ऱिल् मुऱ्पड तिरुमन्त्रम् परशेषतैकरसस्वरूपादिगळैत्तॆळिवित्तु अम्मुखत्ताले समस्तप्रतिबन्धकनिवृत्तिपूर्वकपरमपुरुषार्थप्राप्तियिले रुचियैयुम् त्वरैयैयुम् विळैप्पित्तु उपायाधिकारपूर्तियै युण्डाक्कुम्। 
+अवऱ्ऱिल्मुऱ्पड तिरुमन्त्रम् परशेषतैकरसस्वरूपादिगळैत्तॆळिवित्तु  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अम्-मुखत्ताले समस्त-प्रतिबन्धक--निवृत्ति-पूर्वक-- परम-पुरुषार्थ-प्राप्तियिले  
+रुचियैयुम् त्वरैयैयुम् विळैप्पित्तु  
+उपायाधिकार-पूर्तियैय् उण्ड्-आक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+By that (revelation), it creates a longing for the Supreme Goal of attainment  
+preceded by the removal of all obstacles thereto  
+and also a feeling of urgency (tvarā) (in regard to that attainment)  
+whereby the competency for the adoption of the upāya (prapatti) becomes perfected. 
+</details>
+
+<details><summary>Español</summary>
+
+Por eso (revelación), **crea** un **anhelo** por el objetivo supremo del **logro**  
+**precedido** por la **eliminación** de todos los obstáculos a los mismos  
+y también un sentimiento de urgencia (TVARā) (con respecto a ese **logro**)  
+por lo que la competencia para la **adopción** del upāya (prapatti) **se perfecciona**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अम्मुखत्ताले समस्तप्रतिबन्धकनिवृत्तिपूर्वकपरमपुरुषार्थप्राप्तियिले रुचियैयुम् त्वरैयैयुम् विळैप्पित्तु उपायाधिकारपूर्तियै युण्डाक्कुम्। 
+</details>
+
+### द्वयम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि अधिकारिय् आऩवऩ्-उडैय  
+फलापेक्षा-पूर्वक-- +उपाय-विशेषानुष्ठान-प्रकारत्तै  
+द्वयम् विशदम् आग प्रकाशिप्पिक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+Dvaya reveals clearly the manner in which this particular upāya should be adopted by this adhikārī,  
+with an antecedent longing for the fruit thereof.  
+</details>
+
+<details><summary>Español</summary>
+
+Dvaya **revela** claramente  
+la manera en que este adhikārī **debe adoptar** este upāya particular,  
+con un antecedente **anhelo** de la fruta del mismo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि अधिकारियाऩवऩुडैय फलापेक्षापूर्वकोपायविशेषानुष्ठानप्रकारत्तै द्वयम् विशदमाग प्रकाशिप्पिक्कुम्।
+</details>
+
+### चरम-श्लोकः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-उपाय-विशेषत्तै विधिक्किऱदु चरम-श्लोकम्। 
+</details>
+
+<details><summary>English</summary>
+
+The carama śloka enjoins (as a vidhi) the adoption of this upāya. 
+</details>
+
+<details><summary>Español</summary>
+
+El Carama Śloka **orienta** (como un Vidhi) la **adopción** de este upāya.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वुपाय विशेषत्तै विधिक्किऱदु चरमश्लोकम्। 
+</details>
+
+### भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवै मूऩ्ऱिलुम्  
+तऩित्-तऩियेय् ऎल्लाव् अर्थङ्गळैयुम्  
+शाब्दम् आगवुम् आर्थम् आगवुङ् **काणल् आम्** आगिलुम्  
+ओर्-ऒऩ्ऱिलेय् ओरॊऩ्ऱुक्कु नोक्क् आय् इरुक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+Though it is possible to find all these truths in each of these three mantras by itself  
+from the words themselves and from the sense suggested by them (ārtha ),  
+yet each of these three has a primary aim  
+(which is different from that of the others). 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque **es posible encontrar** todas estas verdades en cada uno de estos tres mantras por sí solo  
+de las palabras mismas, y del sentido sugerido por ellas (ārtha),  
+Sin embargo, cada uno de estos tres **tiene** un objetivo principal  
+(que **es** diferente al de los demás).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवै मूऩ्ऱिलुम् तऩित्तऩियेयॆल्लावर्थङ्गळैयुम् शाब्दमागवुमार्थमागवुङ्गाणलामागिलुम् ओरॊऩ्ऱिलेयोरॊऩ्ऱुक्कु नोक्कायिरुक्कुम्।
+</details>
+
+### मूलता-क्रमः
+#### द्वये मूलमन्त्र-विस्तारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरु-मन्त्रत्तिल् प्रथम-पदत्तिल् प्रथमाक्षरत्तिले संक्षिप्तम् आऩ शरण्य-पर-तत्त्वत्तैयुम्  
+इदिल् मध्यम-तृतीय-पदङ्गळिले प्रतिपन्नम् आऩ उपायोपेयङ्गळैयुम्  
+अडैवे+++(=[स]प्रकारं)+++ विशदम् आक्कुगिऱदु द्वयम्। 
+</details>
+
+<details><summary>English</summary>
+
+In the Tiru mantra,  
+the first syllable ( a ) in the first word ( aum) expresses, in a concise form,  
+the Supreme Reality who is the Protector or Saviour;  
+
+in the middle word (namas ) (namo) and the third word (Nārāyanāya ) are to be understood respectively the upāya (prapatti) and the Upeya (the end or goal, viz., service to Nārāyaṇa );  
+
+what is stated briefly (in the Tirumantra) is made clear in Dvaya. 
+</details>
+
+<details><summary>Español</summary>
+
+En el Tiru-mantra,  
+La primera sílaba (a) en la primera palabra (aum) **expresa**, en forma concisa,  
+la Realidad Suprema que **es** la **Protector** o **Salvador**;
+
+En la palabra media (namas) (namo) y la tercera palabra (nārāyanāya) **deben entenderse** respectivamente el upāya (prapatti) y el upeya (el fin u objetivo, a saber, el **servicio** a nārāyaṇa);
+
+Lo que **se establece** brevemente (en el Tirumantra) **se aclara** en Dvaya.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तिरुमन्त्रत्तिल् प्रथमपदत्तिल् प्रथमाक्षरत्तिले संक्षिप्तमाऩ शरण्यपरतत्त्वत्तैयुम् इदिल् मध्यमतृतीयपदङ्गळिले प्रतिपन्नमाऩ उपायोपेयङ्गळैयुमडैवे विशदमाक्कुगिऱदु द्वयम्। 
+</details>
+
+#### चरम-श्लोके द्वय-विस्तारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् 
+
+- ‘‘प्रपद्ये’’ ऎऩ्गिऱ पदत्तिल् उत्तमऩाले +++(←उत्तमपुरुषेण)+++ विवक्षितम् आऩ अधिकारि-विशेषत्तैयुम्  
+- अर्थ-सिद्धम् आऩ उपायान्तर-नैरपेक्ष्यत्तैयुम्  
+- उपेयत्तिल् "नमश्"-शब्द-संक्षिप्तम् आऩ विरोधि-निवृत्त्य्-अंशत्तैयुम्  
+
+**वॆळिय् इडुगिऱदु** चरम-श्लोकम्।
+</details>
+
+<details><summary>English</summary>
+
+(1) The word prapadye in Dvaya indicates the particular kind of adhikāri (namely, one who is destitute of other upāyas - akiñcana) by the first person singular and  
+(2) the needlessness of other upāyas, is inferred from the sense, and  
+(so also) (3) the disappearance of the hindrances to the goal is implicit in the last word namas.  
+
+The Carama-śloka explains distinctly these (three things), (that are only hinted at in the Dvaya ). 
+</details>
+
+<details><summary>Español</summary>
+
+(1) La palabra Prapadye en dvaya **indica** el tipo particular de adhikāri (a **saber**, uno que **es** indigente de otros upāyas - akiñcana) por la primera persona singular y
+(2) La **innecesamiento** de otros upāyas **se infiere** del sentido y  
+(así también) (3) La **desaparición** de los obstáculos al objetivo **está implícito** en la última palabra "namas".
+
+El Carama-śloka **explica** claramente estas (tres cosas) (que solo **se insinúan** en el dvaya).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदिल् ‘‘प्रपद्ये’’ ऎऩ्गिऱ पदत्तिलुत्तमऩाले विवक्षितमाऩ अधिकारिविशेषत्तैयुम् अर्थसिद्धमाऩ उपायान्तरनैरपेक्ष्यत्तैयुम् उपेयत्तिल् नमश्शब्दसंक्षिप्तमाऩ विरोधिनिवृत्त्यंशत्तैयुम् वॆळियिडुगिऱदु चरम-श्लोकम्।
+</details>
+
+### धारक-पोषक-भोग्यताः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवै मूऩ्ऱुम् नमक्कु  
+ज्ञान-+अनुष्ठान--फल-निदानङ्गळ् आय्क्-कॊण्डु  
++++(क्रमशः)+++ धारक-पोषक-भोग्यङ्गळ्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+These three (mantras) are to us (men destitute of other upāyas),  
+maintenance, nourishment and enjoyment (of the fruit),  
+being, respectively, the causes of knowledge (jñāna ), practice or adoption (anushtāna ) and the end or fruit (of our endeavour.)
+</details>
+
+<details><summary>Español</summary>
+
+Estos tres (mantras) **son** para nosotros (hombres indigentes de otros upāyas),  
+**mantenimiento, alimento y disfrute** (de la fruta),  
+**Ser**, respectivamente, las causas del **conocimiento** (jñāna), la **práctica** o la **adopción** (anushtāna) y el fin o la fruta (de nuestro **esfuerzo**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवैमूऩ्ऱुम् नमक्कु ज्ञानानुष्ठानफलनिदानङ्गळाय्क्कॊण्डु धारकपोषकभोग्यङ्गळ्। 
+</details>
+
+#### मूल-मन्त्रो धारकः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> १‘‘**व्यक्तं** हि भगवान् देवस्  
+साक्षान् नारायणस् स्वयम् ।  
+अष्टाक्षर-स्वरूपेण  
+मुखेषु **परिवर्तते**॥’’  
+(नारदीयम् १-३२)  
+
+ऎऩ्गिऱबडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> १‘‘**व्यक्तं** हि भगवान् देवस्  
+साक्षान् नारायणस् स्वयम् ।  
+अष्टाक्षर-स्वरूपेण  
+मुखेषु **परिवर्तते**॥’’  
+(नारदीयम् १-३२)  
+
+</details>
+
+<details><summary>English</summary>
+
+It has been said: 
+
+> "The God, Nārāyaṇa, who is perfect in the possession of the six attributes  
+is certainly in the form of aṣṭākṣara  
+in the mouths of those who utter the mantra," 
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho**:
+
+> "El Dios, Nārāyaṇa, que **es** perfecto en **posesión** de los seis atributos  
+ciertamente **está** en forma de aṣṭākṣara  
+en la boca de los que **pronuncian** el mantra ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१‘‘व्यक्तं हि भगवान् देवस्साक्षान्नारायणस्स्वयम् । अष्टाक्षरस्वरूपेण मुखेषु परिवर्तते॥’’(नारदीयम् १-३२) ऎऩ्गिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देशिक-जिह्वैयिलेय् इरुन्दु  
+शिष्य-हृदय-गुहान्धकारत्तैक् कऴित्तु +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+So, from the tongue of the ācārya,  
+it dispels the darkness (ignorance) in the cave of the disciple's heart 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces, de la lengua del ācārya,  
+**disipa** la oscuridad (ignorancia) en la cueva del corazón del discípulo 
+</details>
+
+<details><summary>मूलम्</summary>
+
+देशिकजिह्वैयिलेयिरुन्दु शिष्यहृदयगुहान्धकारत्तैक् कऴित्तु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पर-शेषतैक-रसम् आऩ परिशुद्ध-स्वरूपत्तै वॆळियिट्टु 
+</details>
+
+<details><summary>English</summary>
+
+and makes him realise his pure and essential nature,  
+which finds bliss only in being the śeṣa of the Supreme Being. 
+</details>
+
+<details><summary>Español</summary>
+
+y le **hace darse cuenta** de su naturaleza pura y esencial,  
+lo que **encuentra** dicha solo en **ser** el Śeṣa del **ser** supremo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परशेषतैकरसमाऩ परिशुद्धस्वरूपत्तै वॆळियिट्टु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्ता-लाभत्तैप् पण्णुगैयाले  
+तिरु-मन्त्रम् धारकम्। 
+</details>
+
+<details><summary>English</summary>
+
+Since it gives (in this manner) real (spiritual) existence to him,  
+the Tirumantra is his maintenance (dhāraka). 
+</details>
+
+<details><summary>Español</summary>
+
+Ya que **da** (de esta manera) **existencia** real (espiritual) para él,  
+El Tirumantra **es** su **mantenimiento** (Dhāraka).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सत्तालाभत्तैप् पण्णुगैयाले तिरुमन्त्रम् धारकम्। 
+</details>
+
+### चरम-श्लोकः पोषकः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चरमोपायत्तिले प्रवर्तिक्कुम् बडिय् आऩ ज्ञान-विशेषोपचय-हेतुव् आगैयाले 
+</details>
+
+<details><summary>English</summary>
+
+The carama śloka is the cause of his advancement in the particular kind of knowledge  
+which would enable him to adopt the final upāya (prapatti). 
+</details>
+
+<details><summary>Español</summary>
+
+El carama Śloka **es** la causa de su **avance** en el tipo particular de **conocimiento**  
+lo que le **permitiría adoptar** la final upāya (Prapatti).
+</details>
+
+<details><summary>मूलम्</summary>
+
+चरमोपायत्तिले प्रवर्तिक्कुम्बडियाऩ ज्ञानविशेषोपचयहेतुवागैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रोतव्य-शेषम् इल्लाद बडि   
+**उपायोपदेश**-पर्यवसानम् आऩ चरम-श्लोकम् **पोषकम्**।
+</details>
+
+<details><summary>English</summary>
+
+It is the final word as a precept or instruction concerning the upāya,  
+omitting nothing that should be learnt. 
+</details>
+
+<details><summary>Español</summary>
+
+**Es** la última palabra como **precepto** o **instrucción** sobre el upāya,  
+**omitir** nada que **deba aprender**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रोतव्यशेषमिल्लादबडि उपायोपदेशपर्यवसानमाऩ चरमश्लोकम् पोषकम्।
+</details>
+
+### द्वयम् भोग्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+- सकृद्-उच्चारणत्ताले परम-पुरुषार्थ-**हेतुव् आय्क्** कॊण्डु  
+- सदाऽनुसन्धानत्ताले **कृतार्थऩ् आक्कुगैयाले**  
+
+द्वयम् **भोग्यम्**। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore the Carama śloka is his nourishment (poṣaka).  
+Dvaya is the cause of the attainment of the Supreme Goal of existence by a single utterance of it  
+and enables a person by constant meditation to feel that he has attained his object. 
+
+Therefore Dvaya is an object of enjoyment (bhogya).
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, el Carama Śloka **es** su **alimento** (poṣaka).  
+Dvaya **es** la causa del **logro** del objetivo supremo de la existencia por una sola **expresión** de la misma  
+
+y **permite** que una persona por meditación constante **sienta** que **ha alcanzado** su objeto.
+
+Por lo tanto, Dvaya **es** un objeto de **disfrute** (bhogya).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सकृदुच्चारणत्ताले परमपुरुषार्थहेतुवाय्क्कॊण्डु सदानुसन्धानत्ताले कृतार्थऩाक्कुगैयाले द्वयम् भोग्यम्। 
 </details>
 
 
 
 
 
-Among them, the first, namely, Tirumantra (aṣṭākṣara) helps us to understand such things as our essential nature, (svarūpa) which finds true happiness only in being the śeṣa of the Supreme Being. By that (revelation), it creates a longing for the Supreme Goal of attainment preceded by the removal of all obstacles thereto and also a feeling of urgency (tvarā) (in regard to that attainment) whereby the competency for the adoption of the upāya (prapatti) becomes perfected. Dvaya reveals clearly the manner in which this particular upāya should be adopted by this adhikārī with an antecedent longing for the fruit thereof. The carama śloka enjoins (as a vidhi) the adoption of this upāya. Though it is possible to find all these truths in each of these three mantras by itself, from the words themselves and from the sense
+## मूल-मन्त्र-प्राधान्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-suggested by them (ārtha ), yet each of these three has a primary aim (which is different from that of the others). In the Tiru mantra, the first syllable ( a ) in the first word ( aum) expresses, in a concise form, the Supreme Reality who is the Protector or Saviour; in the middle word (namas ) (namo) and the third word (Nārāyanāya ) are to be understood respectively the upāya (prapatti) and the Upeya (the end or goal, viz., service to Nārāyaṇa ); what is stated briefly (in the Tirumantra) is made clear in Dvaya. (1) The word prapadye in Dvaya indicates the particular kind of adhikāri (namely, one who is destitute of other upāyas - akiñcana) by the first person singular and (2) the needlessness of other upāyas, is inferred from the sense, and (so also) (3) the disappearance of the hindrances to the goal is implicit in the last word namas, The Carama-śloka explains distinctly these (three things), (that are only hinted at in the Dvaya ). These three (mantras) are to us (men destitute of other upāyas), maintenance, nourishment and enjoyment (of the fruit), being, respectively, the causes of knowledge (jñāna ), practice or adoption (anushtāna ) and the end or fruit (of our endeavour.)
+La importancia principal de Tirumantra:
+</details>
 
-It has been said: "The God, Nārāyaṇa, who is perfect in the possession of the six attributes is certainly in the form of aṣṭākṣara in the mouths of those who utter the mantra," So, from the tongue of the ācārya, it dispels the darkness (ignorance) in the cave of the disciple's heart and makes him realise his pure and essential nature, which finds bliss only in being the śeṣa of the Supreme Being. Since it gives (in this manner) real (spiritual) existence to him, the Tirumantra is his maintenance (dhāraka). The carama śloka is the cause of his advancement in the particular kind of knowledge which would enable him to adopt the final upāya (prapatti). It is the final word as a precept or instruction concerning the upāya, omitting nothing that should be learnt. Therefore the Carama śloka is his nourishment (poṣaka). Dvaya is the cause of the attainment of the Supreme Goal of existence by a single utterance of it and enables a person by constant meditation to feel that he has attained his object. Therefore Dvaya is an object of enjoyment (bhogya).
+<details><summary>मूलम्</summary>
 
 THE PRIMARY IMPORTANCE OF TIRUMANTRA:
+</details>
 
-Among these three mantras), in regard to Tirumantra, the seer, (rishi), the metre (chandas) the god revealed by it, (devata), the germ (bīja), the potency (śakti), the colour (varṇa), the application (viniyoga), the locality (sthāna) and nyāsa should be learnt from the respective kalpas and traditions (sampradāya). The greatness and glory of Tirumantra are well known froin Upaniṣads like Atharvana and Kaṭha, from śastras like that of Manu, and from various kalpas like Nārāyanātmaka Hairaṇyagarbha kalpa, Nāradīya kalpa and Bodhāyanīya kalpa.
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱिल् तिरु-मन्त्रत्तिऩ्-उडैय  
+ऋषिच्-छन्दो-देवता- बीज-शक्ति-वर्ण- विनियोग-स्थान-न्यासादिगळ्  
+अव्व्-ओ कल्प-संप्रदायङ्गळुक्क् ईड् आगक् कण्डु-गॊळ्वदु।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिल् तिरुमन्त्रत् तिऩुडैय ऋषिच्छन्दोदेवताबीजशक्तिवर्णविनियोगस्थानन्यासादिगळव्वो कल्पसंप्रदायङ्गळुक्कीडागक् कण्डुगॊळ्वदु।  
+</details>
+ 
+
+
+Among these three mantras, in regard to Tirumantra, the seer, (rishi), the metre (chandas) the god revealed by it, (devata), the germ (bīja), the potency (śakti), the colour (varṇa), the application (viniyoga), the locality (sthāna) and nyāsa should be learnt from the respective kalpas and traditions (sampradāya). The greatness and glory of Tirumantra are well known froin Upaniṣads like Atharvana and Kaṭha, from śastras like that of Manu, and from various kalpas like Nārāyanātmaka Hairaṇyagarbha kalpa, Nāradīya kalpa and Bodhāyanīya kalpa.
 
 It has been said :-"Of "all mantras, the mantras treating of Bhagavān are the highest. Of the countless mantras treating of Bhagavān, the three vyāpaka mantras are the highest, so also the eternal mūlamantra is the highest of all mantras ; of all secrets, this is the supreme secret; of all things that purify, this is the most purificatory". So it is the highest among the three vyāpaka mantras; it is the essence of all the Vedas; it is capable of removing all evil influences; it is the means of obtaining all the objects desired by men; it helps in the adoption of all upāyas; it can be uttered by all castes, either in its Vedic form (with aum) or in its tantric form (without the aum), in accordance with their respective competence; it reveals, in no uncertain terms, all the reals (tattvas), both those that are pervaded by Bhagavān and that which pervades all (viz the Supreme Self); it does not require the help or aid of any other mantra and is common to all the forms of Bhagavān (like Śrī Rāma, Śrī Kṛṣṇa and so on)[^82] . Owing to these reasons, all ācāryas delight in it. The Alvars, too, sing its praise with delight in the following passages -- " Having learnt Thy holy mantra with eight syllables", "Those who have been initiated by the ācārya into the mantra with eight syllables and utter it with the proper niṣṭhā are capable of ruling over Vaikuṇṭha", " Those who constantly delight in the mantra with eight syllables and utter it become capable of ruling over Vaikuṇṭha", "You were devotees that sang the name of the Lord saying "Namo Nārāyanāya" so that country and town might understand" and "By uttering the holy name Namo Nārāyaṇāya in the proper way (i.e.) without seeking any material gain" etc, etc. The seers (rishis) too, have declared as follows:- "Many were the great seers like Sanaka who attained the abode of Viṣṇu by uttering the Aṣṭākṣara", "Just' as among the deities there is no one superior to Nārāyaṇa, there is, among the mantras, no mantra superior to the Aṣṭākṣara"; "Raising my hand and swearing that it is true, I declare this to you! O my children and my disciples, listen. There is no mantra superior to the mantra of eight syllables. Adore Bhagavān with it always. Show your devotion to Him with it, and worship Him with it. Those who show their devotion to Him by looking upon this mantra as supreme will never perish (i. e. will not be in Samsāra.)" and "Sitting, or lying down, or standing anywhere, we have adopted only the mantra, Namo Nārāyanāya as our upāya."
 
