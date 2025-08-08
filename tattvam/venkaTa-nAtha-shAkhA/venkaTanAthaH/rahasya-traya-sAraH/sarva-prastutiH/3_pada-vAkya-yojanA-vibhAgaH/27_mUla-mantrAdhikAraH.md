@@ -1573,23 +1573,350 @@ han declarado (lo anterior).
 ‘‘आसीना वा शयाना वा तिष्ठन्तो यत्र कुत्र वा । नमो नारायणायेति मन्त्रैकशरणा वयम्’’(नारदीयम्) ऎऩ्ऱार्गळ्। 
 </details>
 
+## उपदेशौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत् तिरुमन्त्रत्तै सर्वेश्वरऩ्  
+श्री-नारद-भगवाऩैय् इट्टु  
+श्रीपुण्डरीकऩुक्क् **उपदेशिप्पिक्क**  
+अवऩुम् इत्तैये परम-हितम् आगक् **केट्ट** बडियाले 
+</details>
+
+<details><summary>English</summary>
+
+The Supreme Ruler had this mantra taught to Puṇḍarīka by Nārada ;  
+he received it as his supreme good;  
+</details>
+
+<details><summary>Español</summary>
+
+El **gobernante** supremo **tenía** este mantra **enseñado** a Puṇḍarīka por Nārada;  
+Lo **recibió** como su bien supremo;
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+इत् तिरुमन्त्रत्तै सर्वेश्वरऩ् श्रीनारदभगवाऩैयिट्टु श्रीपुण्डरीकऩुक्कुपदेशिप्पिक्क अवऩुमित्तैये परमहितमागक् केट्टबडियाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘पुण्डरीकोऽपि धर्मात्मा  
+नारायण-परायणः ।  
+नमो नारायणायेति  
+मन्त्रम् अष्टाक्षरं **जपन्**॥’’  
+(इतिहास-समुच्चयः ३३-१३०)
+
+इत्यादिगळिऱ् सॊल्लुगिऱबडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘पुण्डरीकोऽपि धर्मात्मा  
+नारायण-परायणः ।  
+नमो नारायणायेति  
+मन्त्रम् अष्टाक्षरं **जपन्**॥’’  
+(इतिहास-समुच्चयः ३३-१३०)
 
 
-The Supreme Ruler had this mantra taught to Puṇḍarīka by Nārada ; he received it as his supreme good; and as stated in the śloka ; " Puṇḍarīka "whose mind was ever bent on dharma understood that, of all things to be attained, Nārāyaṇa was the highest and attained mukti by uttering the mantra with eight syllables : Namo Nārāyaṇāya". He practised this mantra and
+</details>
 
-obtained release from saṁsāra. The supreme Ruler, Himself, initiated Tirumaṅgai Alvar into this mantra,
+<details><summary>English</summary>
 
-IT MAY BE UTTERED BY ALL WITH THE OMISSION OF
+and as stated in the śloka -  
 
-THE PRAŅAVA AND THE SUFFIX OF THE
+> " Puṇḍarīka, whose mind was ever bent on dharma,  
+understood that, of all things to be attained,  
+Nārāyaṇa was the highest  
+and attained mukti by uttering the mantra with eight syllables : Namo Nārāyaṇāya". 
+</details>
 
-FOURTH CASE AT THE END:
+<details><summary>Español</summary>
 
-When this mantra is taken without the praṇava (at the beginning) and the dative suffix at the end of Nārāyaṇa (i. e.) (as Namo Nārāyaṇa), every one is competent to utter it. This may be seen from the Varāha purāna in the context of the sanctity of Kaiśika Dvādaśī, where it is said : " (Nampaduvan), who was of the caste that eat dog's flesh, came back after pronouncing the words: Namo Nārāyaṇa". It may also be evident from the following Tamil verses: “When the name of Bhagavān is uttered, one should say Namo Nārāyaṇa ", " Having obtained this excellent garland called Namo Nārāyaṇa etc" and " there is certainly a tongue in the mouth and there is certainly also the mantra called Namo Nāraṇa" which should be uttered at a single breath".
+y como **se indica** en el Śloka -
 
-To Brahmins and the like (Kṣatriyas), the mantra consists of eight syllables including the praṇava just as it occurs in the Veda. It has been stated: "Karma[^83] is said, in the ocean of nectar called Pāñcarātra, to be of three kinds: to Brahmins karma  is Vaidic (i.e.) to be performed with Vedic mantras; to Kshatrias, karma  is both Vaidic and tantric; to Vaiśyas and Śūdras karma  is tantric; or karma  may be tantric to all. Aṣṭākṣara, (the mantra with eight syllables), Dvādaśākṣara (the mantra with twelve syllables Namo Bhagavate Vāsudevāya with the praṇava at the beginning) and the Ṣaḍakṣara (the mantra with six syllables, Namo Viṣṇave with the praṇava at the beginning) - these are the principal mantras of Viṣṇu whose splendour is beyond all measure. These mantras with the praṇava ( at the beginning) are Vaidika mantras; without the praṇava they are Tântric mantras. To women and Śūdras the utterance of the Mūlamantra should be without the dative suffix (of the word Nārāyaṇa). So also there is, for them, no svara, no praṇava nor aṅganyāsa or other rules. To them the utterance of the mere mantra (without praṇava ) is enjoined." In accordance with this, it has been stated further: "The syllable a in the latter part of the word Nārāyaṇa (i.e.) ayana denotes Viṣṇu. If the nasal sound of the vowel m (anuswāra) at the end of the word ayanam be added to it, it becomes am and this 'a with the m becomes the germ (bīja) of mūlamantra. By this addition, the mantra comes to consist of eight letters.
+> "Puṇḍarīka, cuya mente siempre **se inclinó** en el dharma,  
+**entendió** que, de todas las cosas a **alcanzar**,  
+Nārāyaṇa **fue** el más alto  
+y **alcanzó** Mukti **pronunciando** el mantra con ocho sílabas: Namo nārāyaṇāya ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘पुण्डरीकोऽपि धर्मात्मा नारायणपरायणः । नमो नारायणायेति मन्त्रमष्टाक्षरं जपन्॥’’(इतिहास-समुच्चयः ३३-१३०) इत्यादिगळिऱ् सॊल्लुगिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इम्-मन्त्र-निष्ठऩ् आय् मुक्तऩ् आऩाऩ्। 
+</details>
+
+<details><summary>English</summary>
+
+He practised this mantra and obtained release from saṁsāra. 
+</details>
+
+<details><summary>Español</summary>
+
+**Practicó** este mantra y **obtuvo** la **liberación** de Saṁsāra.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इम्मन्त्रनिष्ठऩाय् मुक्तऩाऩाऩ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इम्-मन्त्रत्तैत् तिरु-मङ्गैय्-आऴ्वारुक्कु  
+सर्वेश्वरऩ् ताऩेय् उपदेशित्ताऩ्। 
+</details>
+
+<details><summary>English</summary>
+
+The supreme Ruler, Himself, initiated Tirumaṅgai Alvar into this mantra.
+</details>
+
+<details><summary>Español</summary>
+
+El **gobernante** supremo, él mismo, **inició** Tirumaṅgai Alvar en este mantra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इम्मन्त्रत्तैत् तिरुमङ्गैयाऴ्वारुक्कु सर्वेश्वरऩ् ताऩेयुपदेशित्ताऩ्। 
+</details>
+
+
+## प्रणव-चतुर्थी अन्तरा
+
+<details><summary>English</summary>
+
+IT MAY BE UTTERED BY ALL WITH THE OMISSION OF THE PRAŅAVA AND THE SUFFIX OF THE FOURTH CASE AT THE END:
+</details>
+
+<details><summary>Español</summary>
+
+**Puede ser pronunciado** por todos con la **omisión** del praņava y el sufijo del cuarto caso al final:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इदु प्रणव-चतुर्थिगळैय् ऒऴिन्द बोदु  
+सर्वाधिकारम् 
+
+ऎऩ्ऩुम् इडम्
+</details>
+
+<details><summary>English</summary>
+
+When this mantra is taken without the praṇava (at the beginning) and the dative suffix at the end of Nārāyaṇa (i. e.) (as Namo Nārāyaṇa),  
+every one is competent to utter it. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando este mantra **se toma** sin el praṇava (al principio) y el sufijo dativo al final de nārāyaṇa (i. E.) (Como namo nārāyaṇa),  
+Todos **son competentes** para **pronunciarlo**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु प्रणवचतुर्थिकळैय् ऒऴिन्दबोदु सर्वाधिकारमॆऩ्ऩुमिडम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रीवराह-पुराणत्तिल् कैशिक-द्वादशी-माहात्म्यत्तिले 
+
+> १३‘‘नमो नारायणेत्य् उक्त्वा  
+श्वपाकः पुनर् आगमत्’’  
++++(स्वभक्षणाय राक्षसम् प्रति)+++  
+(वराहपुराणम् १३९-६३) 
+
+ऎऩ्गिऱ वचनत्ताले काट्टप्पट्टदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> १३‘‘नमो नारायणेत्य् उक्त्वा  
+श्वपाकः पुनर् आगमत्’’  
++++(स्वभक्षणाय राक्षसम् प्रति)+++  
+(वराहपुराणम् १३९-६३) 
+
+</details>
+
+<details><summary>English</summary>
+
+This may be seen from the Varāha purāna in the context of the sanctity of Kaiśika Dvādaśī,  
+where it is said : 
+
+> " (NampADuvAn), who was of the caste that eat dog's flesh,  
+came back after pronouncing the words: Namo Nārāyaṇa". 
+</details>
+
+<details><summary>Español</summary>
+
+Esto se puede ver desde la varāha purāna en el contexto de la santidad de Kaiśika dvādaśī,
+donde se dice:
+
+> "(Nampaduvan), que **era** de la casta que **come** carne de perro,  
+**Regresó** después de **pronunciar** las palabras: Namo nārāyaṇa ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रीवराह-पुराणत्तिल् कैशिकद्वादशीमाहात्म्यत्तिले १३‘‘नमो नारायणेत्युक्त्वा श्वपाकः पुनरागमत्’’(वराहपुराणम् १३९-६३) ऎऩ्गिऱ वचनत्ताले काट्टप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थम् 
+
+> १४’’नामञ् जॊल्लिल्  
+नमो नारायणमेय्’’  
+(पॆरिय तिरुमॊऴि ६-१०-१)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> “When the name of Bhagavān is uttered,  
+one should say Namo Nārāyaṇa ", 
+</details>
+
+<details><summary>Español</summary>
+
+> “Cuando **se pronuncia** el nombre de Bhagavān,  
+Uno **debería decir** namo nārāyaṇa ",
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थम् १४’’नामञ्जॊल्लिल् नमो नारायणमेय्’’(पॆरिय तिरुमॊऴि ६-१०-१)  ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> १५’’नऩ्-मालै गॊण्डु  
+नमो नारणाव्’’  
+(मुदल् तिरुवन्दादि ५७, ९५)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> " Having obtained this excellent garland called Namo Nārāyaṇa etc" 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Habiendo obtenido** esta excelente guirnalda **llamada** Namo nārāyaṇa, etc."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१५’’नऩ्मालैगॊण्डु नमो नारणाव्’’(मुदल् तिरुवन्दादि ५७, ९५)  ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> १६’’ना+++(क्)+++ वायिल् उण्डे,  
+'नमो नारणाव्' ऎऩ्ऱ् ओवाद्+++(=असमाप्य [श्वासं])+++ उरैक्कुम् उरैय्+++(=उक्तिः)+++ उण्डेय्’’  
+(मुदल् तिरुवन्दादि ९५)  
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ पासुरङ्गळालुम् सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> " there is certainly a tongue in the mouth  
+and there is certainly also the mantra called Namo Nāraṇa"  
+which should be uttered at a single breath".
+
+It may also be evident from the above (~~following~~) Tamil verses. 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "Ciertamente **hay** una lengua en la boca  
+Y ciertamente también ****hay el mantra **llamado** Namo Nāraṇa "  
+que **debe pronunciarse** en una sola respiración ".
+
+También puede **ser evidente** a partir de los versos tamiles anteriores (~~ siguientes ~~).
+</details>
+
+<details><summary>मूलम्</summary>
+
+१६’’नावायिलुण्डे नमो नारणा वॆऩ्ऱोवादुरैक्कुमुरैयुण्डेय्’’(मुदल् तिरुवन्दादि ९५)  ऎऩ्ऱुञ्जॊल्लुगिऱ पासुरङ्गळालुम् सिद्धम्। 
+</details>
+
+
+## स-प्रणवाष्टाक्षरता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु ब्राह्मणादिगळुक्कु अधीतम् आऩ क्रमत्तिले  
+प्रणवत्तोडे कूड अष्टाक्षरम् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+To Brahmins and the like (Kṣatriyas),  
+the mantra consists of eight syllables including the praṇava just as it occurs in the Veda. 
+</details>
+
+<details><summary>Español</summary>
+
+A los brahmanes y similares (kṣatriyas),  
+El mantra **consta** de ocho sílabas, **incluida** la praṇava  
+tal como **ocurre** en el Veda.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु ब्राह्मणादिगळुक्कु अधीतमाऩ क्रमत्तिले प्रणवत्तोडे कूड अष्टाक्षरमायिरुक्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘वैदिकं तान्त्रिकञ् चैव  
+तथा वैदिक-तान्त्रिकम् ।  
+त्रिविधिं **कर्म संप्रोक्तं**  
+पञ्च-रात्रामृतार्णवे ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘वैदिकं तान्त्रिकञ् चैव  
+तथा वैदिक-तान्त्रिकम् ।  
+त्रिविधिं **कर्म संप्रोक्तं**  
+पञ्च-रात्रामृतार्णवे ॥ 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘वैदिकं तान्त्रिकञ्चैव तथा वैदिकतान्त्रिकं । त्रिविधिं कर्मसंप्रोक्तं पञ्चरात्रामृतार्णवे ॥ 
+</details>
+
+
+It has been stated: "Karma[^83] is said, in the ocean of nectar called Pāñcarātra, to be of three kinds: to Brahmins karma  is Vaidic (i.e.) to be performed with Vedic mantras; to Kshatrias, karma  is both Vaidic and tantric; to Vaiśyas and Śūdras karma  is tantric; or karma  may be tantric to all. Aṣṭākṣara, (the mantra with eight syllables), Dvādaśākṣara (the mantra with twelve syllables Namo Bhagavate Vāsudevāya with the praṇava at the beginning) and the Ṣaḍakṣara (the mantra with six syllables, Namo Viṣṇave with the praṇava at the beginning) - these are the principal mantras of Viṣṇu whose splendour is beyond all measure. These mantras with the praṇava ( at the beginning) are Vaidika mantras; without the praṇava they are Tântric mantras. To women and Śūdras the utterance of the Mūlamantra should be without the dative suffix (of the word Nārāyaṇa). So also there is, for them, no svara, no praṇava nor aṅganyāsa or other rules. To them the utterance of the mere mantra (without praṇava ) is enjoined." In accordance with this, it has been stated further: "The syllable a in the latter part of the word Nārāyaṇa (i.e.) ayana denotes Viṣṇu. If the nasal sound of the vowel m (anuswāra) at the end of the word ayanam be added to it, it becomes am and this 'a with the m becomes the germ (bīja) of mūlamantra. By this addition, the mantra comes to consist of eight letters.
 
 [^83]: When the worship of Viṣṇu is performed with only Vedic mantras, it is Vaidic karma ; when it is performed only with the mantras found in Pāñcarātra, it is tantric and when it is performed with both, the karma  is said to be both Vaidic and tantric.
 
