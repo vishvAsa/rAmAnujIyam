@@ -198,7 +198,7 @@ Likewise we have what is called the "*Sarvavedāntapratyaya Adhikaraṇa*" in th
 [^83]: p. 101
 [^84]: Lexicons gives the following meanings for the word "pīlu": arrow; atom; insect; elephant; stem of the palm; flower; group of palm trees; a kind of tree.
 [^85]: The Upaniṣadic text "*tarati Śokamātmavit*" means "One who knows the Self crosses misery". Unless the self is "presumed" to be eternal, one cannot be expected to get beyond this world and attain the state of liberation (which is free from misery and is full of bliss). This is an instance of what is called *Śrutyarthāpatti* (Presumption arising from the apparent inconsistency of the scriptural meaning).
-[^86]: It may be noted that the critic here is an advocate of the Vaḍagalai sect. For a detailed account of the eighteen doctrinal differences between the Teṅgalai and the Vaḍagalai sects, see Dr M. Narasimhachary, *Basic Concepts of Śrī Vaiṣṇavism*, pp. 26-29. +++(actually, अयं केषाम् प्रक्षः??)+++
+[^86]: It may be noted that the critic here is an advocate of the Vaḍagalai sect. +++(actually, The reverse!!)+++ For a detailed account of the eighteen doctrinal differences between the Teṅgalai and the Vaḍagalai sects, see Dr M. Narasimhachary, *Basic Concepts of Śrī Vaiṣṇavism*, pp. 26-29. 
 [^87]: See *Vedārthasaṅgraha* (Eng. tr. by Dr S.S. Raghavachar), p. 10
 
 
