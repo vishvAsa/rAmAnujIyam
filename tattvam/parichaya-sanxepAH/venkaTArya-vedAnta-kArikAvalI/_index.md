@@ -9,7 +9,7 @@ Source: [TW](https://archive.org/details/vedantakarikavali)
 
 वेदान्तकारिकावली बुच्चि-वेंकटाचार्यकृता 
 
-VEDANTAKĀ RIKĀVALĪ OF BUCCI VENKATĀCĀRYA  
+VEDANTAKĀRIKĀVALĪ OF BUCCI VENKATĀCĀRYA  
 EDITED BY  
 PANDIT V. KRISHNAMACHARYA  
 WITH HIS OWN COMMENTARY AND ENGLISH TRANSLATION  
