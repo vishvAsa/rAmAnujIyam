@@ -2205,6 +2205,7 @@ El mantra, Namo nārāyanāya, **confiere** todas las bendiciones que **se puede
 </details>
 
 ### प्रणवार्थ-सङ्ग्रहः
+#### अ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि प्रणवम् ऒऴिय अष्टाक्षरम् आऩ बोदु  
@@ -2237,6 +2238,7 @@ Porque la sílaba "a" **ser** la primera letra
 इप्पडि प्रणवमॊऴियअष्टाक्षरमाऩबोदु प्रणवत्तिलर्थमॆल्लाम् इप् प्रणवप्रतिच्छन्दमाग शास्त्रम् वगुत्त वक्षरत्तिले प्रथमाक्षरम् सर्वसंग्राहकमाऩ कणक्किले सुरुङ्गवनुसन्धेयम्। 
 </details>
 
+#### उ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्यमाक्षरत्तिऱ् पॊरुळुम् अर्थ-सिद्धम् आम्। 
@@ -2257,10 +2259,23 @@ El **significado** de la sílaba en el praňava, a saber, 'solo' **se infiere** 
 मध्यमाक्षरत्तिऱ्पॊरुळुमर्थसिद्धमाम्। 
 </details>
 
+#### म्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदिल् तृतीयाक्षरत्तिऱ् सॊल्लुगिऱ ज्ञातृत्वादिगळुम् नमस्सिल्  
-द्वितीयाक्षरत्तिल् प्रकृतियालेय् अनुसन्धेयम्।
+इदिल् तृतीयाक्षरत्तिऱ् सॊल्लुगिऱ ज्ञातृत्वादिगळुम्  
+नमस्सिल् द्वितीयाक्षरत्तिल् प्रकृतियालेय् अनुसन्धेयम्।
+</details>
+
+<details><summary>English</summary>
+
+The ideas of knowership and the like contained in the third letter of praṇava, namely "m"  
+should be understood as being present in the base of the second syllable of namas (or namo), namely "m".
+</details>
+
+<details><summary>Español</summary>
+
+Las ideas de **conocimiento** y similares **contenidos** en la tercera carta de Praṇava, a saber "M"  
+**debe entenderse** como **presente** en la base de la segunda sílaba de namas (o namo), a saber "m".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2269,16 +2284,101 @@ El **significado** de la sílaba en el praňava, a saber, 'solo' **se infiere** 
 </details>
 
 
-The ideas of knowership and the like contained in the third letter of praṇava, namely m should be understood as being present in the base of the second syllable of namas (or namo), namely m.
+
+## प्रणवार्थः
+<details><summary>English</summary>
 
 THE MEANING OF PRAŅAVA AND ITS POTENCY:
+</details>
 
-When the praṇava is used as an independent mantra by itself, it may be pronounced in a single unit or instant of time (mātra), or two units of time, or three or three and a half units of time and its meanings vary in accordance with these units of time to denote either Brahman as effect ( kārya ) or Brahman as cause ( kāraṇa): (i. e.) when it is pronounced in a single unit of time, it means Brahman with the earth as His body; when in two units, it means, Brahman with the antarikṣa (the middle air or sky) as His body: when in three units, it means Brahman with the world of svarga as His body; when in three and a half units of time, it denotes Brahman the Pure and the ultimate cause (of every thing). In some śāstras it is said that, when the praṇava begins any of the three vyāpaka mantras, it should be considered as a single syllable (without any parts as a-u- m) and as denoting then the Supreme Self.
+<details><summary>Español</summary>
+
+El significado de praņava y su potencia:
+</details>
+
+### स्वतन्त्रार्थः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रणवं स्व-तन्त्रम् आऩ बोदु  
+
+एक-मात्रम्+++(→भू-ब्रह्म)+++ द्वि-मात्रम्+++(→भुवर्-ब्रह्म)+++ त्रि-मात्रम्+++(→स्वर्-ब्रह्म)+++ सार्ध-त्रि-मात्रम्+++(→कारण-ब्रह्म)+++ ऎऩ्ऱाऱ् पोले  
+
+पल प्रकारम् आय् **अर्थङ्गळुम्**  
+अप्-पडिये कार्य-कारणावस्थ-परमात्म- वाचकत्वादि-प्रक्रियैयाले  
+**पल वगैप् पट्ट् इरुक्कुम्**। 
+</details>
+
+<details><summary>English</summary>
+
+When the praṇava is used as an independent mantra by itself,  
+it may be pronounced in a single unit or instant of time (mātra), or two units of time, or three or three and a half units of time  
+and its meanings vary in accordance with these units of time  
+to denote either Brahman as effect ( kārya ) or Brahman as cause ( kāraṇa):   
+
+- (i. e.) when it is pronounced in a single unit of time, it means Brahman with the earth as His body; 
+- when in two units, it means, Brahman with the antarikṣa (the middle air or sky) as His body;  
+- when in three units, it means Brahman with the world of svarga as His body;  
+- when in three and a half units of time, it denotes Brahman the Pure and the ultimate cause (of every thing). 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el praṇava **se usa** como un mantra independiente por sí mismo,  
+**Se puede pronunciar** en una sola unidad o instante de tiempo (Mātra), o dos unidades de tiempo, o tres o tres unidades y media de tiempo  
+y sus **significados varían** de **acuerdo** con estas unidades de tiempo  
+para **denotar** a Brahman como efecto (Kārya) o Brahman como causa (Kāraṇa):
+
+- (i. e.) Cuando **se pronuncia** en una sola unidad de tiempo, **significa** Brahman con la tierra como su cuerpo;
+- Cuando en dos unidades, **significa** que Brahman con el Antarikṣa (el aire o el cielo medio) como su cuerpo;
+- Cuando en tres unidades, **significa** Brahman con el mundo de Svarga como su cuerpo;
+- Cuando en tres unidades y media de tiempo, **denota** a Brahman la causa pura y definitiva (de todo).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रणवम् स्वतन्त्रमाऩबोदु एकमात्रम् द्विमात्रम् त्रिमात्रम् सार्धत्रिमात्रमॆऩ्ऱाऱ्पोले पल प्रकारमाय् अर्थङ्गळुमप्पडिये कार्यकारणावस्थ परमात्मवाचकत्वादिप्रक्रियैयाले पल वगैप्पट्टिरुक्कुम्। 
+</details>
+
+### व्यापकेषु विशेषः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्यापक-मन्त्रङ्गळिलुम्  
+प्रणवत्तै परमात्म-प्रधानम् आगवुम्  
+सिल शास्त्रङ्गळ् सॊल्लुम्।
+</details>
+
+<details><summary>English</summary>
+
+In some śāstras it is said that,  
+when the praṇava begins any of the three vyāpaka mantras,  
+it should be considered as a single syllable (without any parts as a-u- m)  
+and as denoting then the Supreme Self.
+</details>
+
+<details><summary>Español</summary>
+
+En algunos Śāstras **se dice** que,  
+Cuando el praṇava **comienza** a cualquiera de los tres mantras vyāpaka,  
+**Debe considerarse** como una sola sílaba (sin ninguna parte como A-U- M)  
+y como **denotando** entonces el yo supremo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्यापकमन्त्रङ्गळिलुम् प्रणवत्तै परमात्मप्रधानमागवुम् सिल शास्त्रङ्गळ् सॊल्लुम्।
+</details>
+
+
+
+
+
+
 
 Praṇava or the Veda consistiog of three letters, existed at the beginning, and the three Vedas, Rik, Yajus, and Sāman were within it (in a, u and m respectively). It should be kept as a secret. It is a Veda with three letters and is different from the other Vedas. He who knows the praṇava is a Vedavit (one who knows the Veda or the three Vedas)." The greatness and glory of praṇava are well known from such passages as the above. In the nyāsavidyā, the praṇava is an independent mantra and refers to the surrender of the self, for it has been said: “The havis or offering called the self should be taken with the mantra beginning [^84] vasuranya and offered in the eternal fire called Acyuta with the mantra called praṇava". For the same reason some construe it even here as denoting surrender. Others construe that the praṇava should be considered in the Tirumantra only as helping to realise one's being śeṣa (to the Lord), since primarily it gives knowledge of the essential nature (svarūpa) of the jīva being śeṣa, If so, it contributes a qualification or element of competence for the upāya (viz. praying for protection).
 
 [^84]: The mantra vasuranya in the Taittirīya Upaniṣad.
-
+El significado de praņava y su potencia:
 It has been said :-"By a knowledge of Iśvara, the devont jīva attains supreme purity". When we consider praṇava as giving only a knowledge of the śeṣī (Bhagavān), 'supreme purity' would mean that it removes the unfitness of the jīva for the adoption of the upāya. When we consider praṇava as indicating a kpowledge of the upāya, namely, Bhagavān, (and not the knowledge of the seshi), 'supreme purity' would mean mokṣa. Bhagavān Śāṇḍilya explained, as follows, the way in which the meaning of praṇava should be considered:- "This Supreme Being is of such and such a nature and the jīva is of such and such a nature. Yoga is said to be a knowledge of the relationship between the two (that Iśvara is the seshi and the jīva the śeṣa )". This meaning has been elaborated as follows:-"the a (in**praṇava) is Viṣṇu who creates, sustains and destroys the world, the m (in it) means the jīva, who exists for the fulfiment of the purposes of Viṣṇu. The u (in it) indicates that this relationship between the two can exist only between them (and no others). So praṇava which consists of three letters and is the essence of the (three) Vedas reveals this meaning." The Tamil verse which says, "I am the "servant of Bhagavān, the Lord of Tirukkannapuram; how am I entitled to be the servant of anyone else ?" - this Tamil verse also explains the meaning of praṇava. The śrutis and the smṛtis describe the three letters of praṇava as the essence of the three Vedas.
 
 THE MEANING OF A IN PRAṆAVA:
