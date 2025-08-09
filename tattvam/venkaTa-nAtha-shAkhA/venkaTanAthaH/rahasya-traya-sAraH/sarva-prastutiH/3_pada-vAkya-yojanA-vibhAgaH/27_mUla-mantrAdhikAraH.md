@@ -1906,21 +1906,370 @@ tal como **ocurre** en el Veda.
 तथा वैदिक-तान्त्रिकम् ।  
 त्रिविधिं **कर्म संप्रोक्तं**  
 पञ्च-रात्रामृतार्णवे ॥ 
+वैदिकं ब्राह्मणानान्तु  
+राज्ञां वैदिकतान्त्रिकं ।  
+तान्त्रिकं वैश्यशूद्राणां  
+सर्वेषां तान्त्रिकन्तु वा ॥ 
+</details>
 
+
+<details><summary>English</summary>
+
+It has been stated: 
+
+> "Karma is said, in the ocean of nectar called Pāñcarātra, to be of three kinds:  
+to Brahmins karma  is Vaidic (i.e.) to be performed with Vedic mantras; 
+to Kshatrias, karma  is both Vaidic and tantric;  
+to Vaiśyas and Śūdras karma  is tantric;  
+or karma may be tantric to all. 
+
+(When the worship of Viṣṇu is performed with only Vedic mantras, it is Vaidic karma ;  
+when it is performed only with the mantras found in Pāñcarātra, it is tantric  
+and when it is performed with both, the karma  is said to be both Vaidic and tantric.)
+
+</details>
+
+<details><summary>Español</summary>
+
+Ha sido dicho:
+
+> "**Se dice** que el karma, en el océano de néctar llamado Pāñcarātra, **es** de tres tipos:  
+Para los brahmanes, el karma **es** vaidic (es decir) que **se realizará** con mantras védicos;  
+Para Kshatrias, el karma **es** a la vez vaidic y tántrico;  
+a Vaiśyas y Śūdras Karma **es** tántrico;  
+o el karma **puede ser** tántrico para todos.
+
+(Cuando la **adoración** de Viṣṇu **se realiza** con solo mantras védicos, **es** el karma vaidic;  
+Cuando **se realiza** solo con los mantras que **se encuentran** en Pāñcarātra, **es** tántrico  
+y cuando **se realiza** con ambos, **se dice** que el karma **es** tanto vaidico como tántrico).
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘वैदिकं तान्त्रिकञ्चैव तथा वैदिकतान्त्रिकं । त्रिविधिं कर्मसंप्रोक्तं पञ्चरात्रामृतार्णवे ॥ वैदिकं ब्राह्मणानान्तु राज्ञां वैदिकतान्त्रिकं । तान्त्रिकं वैश्यशूद्राणां सर्वेषां तान्त्रिकन्तु वा ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अष्टाक्षरश्च यो मन्त्रो  
+द्वादशाक्षर एव च ।  
+षडक्षरश् च यो मन्त्रो  
+विष्णोर् अ-मित-तेजसः ॥  
+एते मन्त्राः प्रधानास् तु  
+वैदिकाः प्रणवैर् **युताः** ।  
+प्रणवेन **विहीनास्** तु  
+तान्त्रिका एव **कीर्तिताः**॥’’  
+(नारदीयम्)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अष्टाक्षरश्च यो मन्त्रो  
+द्वादशाक्षर एव च ।  
+षडक्षरश् च यो मन्त्रो  
+विष्णोर् अ-मित-तेजसः ॥  
+एते मन्त्राः प्रधानास् तु  
+वैदिकाः प्रणवैर् **युताः** ।  
+प्रणवेन **विहीनास्** तु  
+तान्त्रिका एव **कीर्तिताः**॥’’  
+(नारदीयम्)
+</details>
+
+<details><summary>English</summary>
+
+> Aṣṭākṣara, (the mantra with eight syllables), Dvādaśākṣara (the mantra with twelve syllables Namo Bhagavate Vāsudevāya with the praṇava at the beginning) and the Ṣaḍakṣara (the mantra with six syllables, Namo Viṣṇave with the praṇava at the beginning) -   
+these are the principal mantras of Viṣṇu  
+whose splendour is beyond all measure.  
+These mantras with the praṇava ( at the beginning) are Vaidika mantras;  
+without the praṇava they are Tântric mantras.  
+</details>
+
+<details><summary>Español</summary>
+
+> Aṣṭākṣara, (el mantra con ocho sílabas), dvādaśākṣara (el mantra con doce sílabas namo bhagavate vāsudevāya con el praṇava al principio)  
+Estos **son** los principales mantras de Viṣṇu  
+cuyo esplendor **está** más allá de toda medida.  
+Estos mantras con la praṇava (al principio) **son** los mantras Vaidikas;  
+Sin el praṇava **son** mantras Tântricos.
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-‘‘वैदिकं तान्त्रिकञ्चैव तथा वैदिकतान्त्रिकं । त्रिविधिं कर्मसंप्रोक्तं पञ्चरात्रामृतार्णवे ॥ 
+अष्टाक्षरश्च यो मन्त्रो द्वादशाक्षर एव च । षडक्षरश्च यो मन्त्रो विष्णोरमिततेजसः ॥ 
 </details>
 
 
-It has been stated: "Karma[^83] is said, in the ocean of nectar called Pāñcarātra, to be of three kinds: to Brahmins karma  is Vaidic (i.e.) to be performed with Vedic mantras; to Kshatrias, karma  is both Vaidic and tantric; to Vaiśyas and Śūdras karma  is tantric; or karma  may be tantric to all. Aṣṭākṣara, (the mantra with eight syllables), Dvādaśākṣara (the mantra with twelve syllables Namo Bhagavate Vāsudevāya with the praṇava at the beginning) and the Ṣaḍakṣara (the mantra with six syllables, Namo Viṣṇave with the praṇava at the beginning) - these are the principal mantras of Viṣṇu whose splendour is beyond all measure. These mantras with the praṇava ( at the beginning) are Vaidika mantras; without the praṇava they are Tântric mantras. To women and Śūdras the utterance of the Mūlamantra should be without the dative suffix (of the word Nārāyaṇa). So also there is, for them, no svara, no praṇava nor aṅganyāsa or other rules. To them the utterance of the mere mantra (without praṇava ) is enjoined." In accordance with this, it has been stated further: "The syllable a in the latter part of the word Nārāyaṇa (i.e.) ayana denotes Viṣṇu. If the nasal sound of the vowel m (anuswāra) at the end of the word ayanam be added to it, it becomes am and this 'a with the m becomes the germ (bīja) of mūlamantra. By this addition, the mantra comes to consist of eight letters.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[^83]: When the worship of Viṣṇu is performed with only Vedic mantras, it is Vaidic karma ; when it is performed only with the mantras found in Pāñcarātra, it is tantric and when it is performed with both, the karma  is said to be both Vaidic and tantric.
+> ‘‘न स्वरः प्रणवोऽङ्गानि  
+नाप्य् अन्य-विधयस् तथा ।  
+स्त्रीणान्तु शूद्रा-जातीनां  
+मन्त्र-मात्रोक्तिर् इष्यते॥’’  
+(नारदीय-कल्पः) 
+</details>
 
-Even without the praṇava, these adhikārīs (women and Śūdras) obtain the same fruit or goal and this may be seen from the following śloka - "Of what use are many mantras for the purpose of the fruit desired? Of what use are many vratas (ascetic observances )? The mantra, Namo Nārāyanāya, confers all the boons that may be desired". The a in am which has been prescribed as a substitute for praṇava (aum) should be considered as having, in brief, all the meaning contained in praṇava, because the syllable a being the first letter is stated (in the śāstra) to denote everything in a concise form. The meaning of the syllable u in the praňava, namely, 'only' is inferred from the meaning. The ideas of knowership and the like contained in the third letter of praṇava, namely m should be understood as being present in the base of the second syllable of namas (or namo), namely m.
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न स्वरः प्रणवोऽङ्गानि  
+नाप्य् अन्य-विधयस् तथा ।  
+स्त्रीणान्तु शूद्रा-जातीनां  
+मन्त्र-मात्रोक्तिर् इष्यते॥’’  
+(नारदीय-कल्पः) 
+</details>
+
+<details><summary>English</summary>
+
+> To women and Śūdras  
+the utterance of the Mūlamantra should be without the dative suffix (of the word Nārāyaṇa).  
+So also there is, for them,  
+no svara, no praṇava nor aṅganyāsa or other rules.  
+To them the utterance of the mere mantra (without praṇava ) is enjoined." 
+</details>
+
+<details><summary>Español</summary>
+
+> A las mujeres y Śūdras  
+La **expresión** del Mūlamantra **debería estar** sin el sufijo dativo (de la palabra nārāyaṇa).  
+Así también **hay**, para ellos,  
+Sin svara, sin praṇava ni aṅganyāsa u otras reglas.  
+Para ellos, **se ordena** la **expresión** del mero mantra (sin praṇava) ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘न स्वरः प्रणवोऽङ्गानि नाप्यन्यविधयस्तथा । स्त्रीणान्तु शूद्राजातीनां मन्त्रमात्रोक्तिरिष्यते’’(नारदीय-कल्पः) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ पडिये प्रणवम् ऒऴिन्द बोदु 
+</details>
+
+<details><summary>English</summary>
+
+In accordance with this, Even without the praṇava, 
+</details>
+
+<details><summary>Español</summary>
+
+De acuerdo con esto,  
+incluso sin el praṇava,
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱ पडिये प्रणवमॊऴिन्दबोदु 
+</details>
+
+### प्रणवस्याकारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तत्रोत्तर+अयणस्यादिर् +++(→अकारः)+++  
+बिन्दुमान् विष्णुर्+++(=अकारः)+++ अन्ततः+++(→बिन्दुमान्)+++ ।  
++++("अम्" इति)+++ बीजम् अष्टाक्षरस्य **स्यात्**  
+तेनाष्टाक्षरता **भवेत्**॥’’  
+(नारदीयम् १-५७) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तत्रोत्तर+अयणस्यादिर् +++(→अकारः)+++  
+बिन्दुमान् विष्णुर्+++(=अकारः)+++ अन्ततः+++(→बिन्दुमान्)+++ ।  
++++("अम्" इति)+++ बीजम् अष्टाक्षरस्य **स्यात्**  
+तेनाष्टाक्षरता **भवेत्**॥’’  
+(नारदीयम् १-५७) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उत्तरस्य = अयन-शब्दस्य  
+> आदिर् विष्णुः (=अकारः)  
+> बिन्दुमान् अन्ततः  
+> बीजम् अष्टाक्षरस्य।  
+
+दक्षिणकलार्यास् तु स्त्री-शूद्रेभ्योऽपि प्रणवं ददति (अरयर्-रामशर्मा [ऽत्र](https://www.youtube.com/watch?v=DIBE21hxxVQ) ) ।  
+तदीयं व्याख्यानम् [अन्यत्र](/AgamaH_vaiShNavaH/prakIrNa-mantrAdi/gadyam/oM_namo_nArAyaNAya) +अपाकृतम्। 
+</details>
+
+
+<details><summary>English</summary>
+
+it has been stated further: 
+
+> "The syllable "a" in the latter part of the word Nārāyaṇa (i.e.) ayana denotes Viṣṇu.  
+If the nasal sound of the vowel "m" (anusvāra) at the end of the word ayanam be added to it,  
+it becomes am  
+and this "a" with the m becomes the germ (bīja) of mūlamantra.  
+By this addition, the mantra comes to consist of eight letters.
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho** más a fondo:
+
+> "La sílaba "a" en la última parte de la palabra nārāyaṇa (es decir) ayana **denota** Viṣṇu.  
+Si el sonido nasal de la vocal "m" (anusvāra) al final de la palabra ayanam **se le agregará**,  
+**se convierte** en AM  
+y esto "A" con el M **se convierte** en el germen (bīja) de Mūlamantra.  
+Por esta **adición**, el mantra **consiste** en ocho letras.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘तत्रोत्तरायणस्यादिर्बिन्दुमान्विष्णुरन्ततः । बीजमष्टाक्षरस्य स्यात्तेनाष्टाक्षरता भवेत्’’(नारदीयम् १-५७) 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ प्रक्रियैयाले  
+ऎट्ट्-ऎऴुत्तुम् अनुसन्धेयम् आग  
+विधिक्कप्-पट्टदु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱ प्रक्रियैयाले ऎट्टॆऴुत्तुमनुसन्धेयमाग विधिक्कप्पट्टदु। 
+</details>
+
+### फल-साम्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रणवम् ऒऴिन्दालुम्  
+अदु कूडिऩाल् उळ्ळ फलम्  
+इव्व्-अधिकारिगळुक्क् उण्ड् 
+
+ऎऩ्ऩुम् इडम् 
+</details>
+
+<details><summary>English</summary>
+
+these adhikārīs (women and Śūdras) obtain the same fruit or goal  
+</details>
+
+<details><summary>Español</summary>
+
+Estas adhikārīs (mujeres y śūdras) **obtienen** la misma fruta u meta
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रणवमॊऴिन्दालुम् अदु कूडिऩालुळ्ळ फलमिव् वधिकारिकळुक्कुण्डॆऩ्ऩुमिडम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘किन् तत्र बहुभिर् मन्त्रैः  
+किन् तत्र बहुभिर् व्रतैः ।  
+नमो नारायणायेति  
+मन्त्रस् सर्वार्थ-साधकः॥’’  
+(नारदीयम् १-४१) 
+
+इत्य्-आदिगळाले सिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘किन् तत्र बहुभिर् मन्त्रैः  
+किन् तत्र बहुभिर् व्रतैः ।  
+नमो नारायणायेति  
+मन्त्रस् सर्वार्थ-साधकः॥’’  
+(नारदीयम् १-४१) 
+</details>
+
+<details><summary>English</summary>
+
+and this may be seen from the following śloka - 
+
+> "Of what use are many mantras for the purpose of the fruit desired?  
+Of what use are many vratas (ascetic observances )?  
+The mantra, Namo Nārāyanāya, confers all the boons that may be desired". 
+</details>
+
+<details><summary>Español</summary>
+
+y esto **se puede ver** a partir de lo **siguiente** Śloka -
+
+> "¿De qué uso **se desean** muchos mantras para el **propósito** de la fruta?  
+¿De qué **sirve** muchas vratas (**observancias** ascéticas)?  
+El mantra, Namo nārāyanāya, **confiere** todas las bendiciones que **se pueden desear**".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘किन्तत्र बहुभिर्मन्त्रैः किन्तत्र बहुभिर्व्रतैः । नमो नारायणायेति मन्त्रस्सर्वार्थसाधक’’(नारदीयम् १-४१) इत्यादिगळाले सिद्धम्। 
+</details>
+
+### प्रणवार्थ-सङ्ग्रहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि प्रणवम् ऒऴिय अष्टाक्षरम् आऩ बोदु  
+
+प्रणवत्तिल् अर्थम् ऎल्लाम्  
+इप्-प्रणव-प्रतिच्छन्दम् आग शास्त्रम् वगुत्तव्+++(=सम्भक्त)+++ अक्षरत्तिले  
+प्रथमाक्षरम् सर्व-संग्राहकम् आऩ कणक्किले  
++++(अर्थम् ऎल्लाम्→)+++ सुरुङ्गव्+++(=सङ्कुचितम्)+++ अनुसन्धेयम्। 
+</details>
+
+<details><summary>English</summary>
+
+The "a" in "am"  
+which has been prescribed as a substitute for praṇava (aum)  
+should be considered as having, in brief, all the meaning contained in praṇava,  
+because the syllable "a" being the first letter is stated (in the śāstra) to denote everything in a concise form. 
+</details>
+
+<details><summary>Español</summary>
+
+El "a" en "am"  
+que **ha sido prescrito** como un sustituto de praṇava (aum)  
+**debe considerarse** como, en resumen, todo el significado **contenido** en praṇava,  
+Porque la sílaba "a" **ser** la primera letra  
+**se dice** (en el Śāstra) para **denotar** todo en una forma concisa.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि प्रणवमॊऴियअष्टाक्षरमाऩबोदु प्रणवत्तिलर्थमॆल्लाम् इप् प्रणवप्रतिच्छन्दमाग शास्त्रम् वगुत्त वक्षरत्तिले प्रथमाक्षरम् सर्वसंग्राहकमाऩ कणक्किले सुरुङ्गवनुसन्धेयम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मध्यमाक्षरत्तिऱ् पॊरुळुम् अर्थ-सिद्धम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+The meaning of the syllable u in the praňava, namely, 'only' is inferred from the meaning. 
+</details>
+
+<details><summary>Español</summary>
+
+El **significado** de la sílaba en el praňava, a saber, 'solo' **se infiere** del significado.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मध्यमाक्षरत्तिऱ्पॊरुळुमर्थसिद्धमाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् तृतीयाक्षरत्तिऱ् सॊल्लुगिऱ ज्ञातृत्वादिगळुम् नमस्सिल्  
+द्वितीयाक्षरत्तिल् प्रकृतियालेय् अनुसन्धेयम्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदिल् तृतीयाक्षरत्तिऱ्सॊल्लुगिऱ ज्ञातृ-त्वादिगळुम् नमस्सिल् द्वितीयाक्षरत्तिल् प्रकृतियालेयनुसन्धेयम्।
+</details>
+
+
+The ideas of knowership and the like contained in the third letter of praṇava, namely m should be understood as being present in the base of the second syllable of namas (or namo), namely m.
 
 THE MEANING OF PRAŅAVA AND ITS POTENCY:
 
