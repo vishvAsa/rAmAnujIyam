@@ -2693,6 +2693,7 @@ y el Jīva **es** de tal y tal naturaleza.
 इप् प्रणवार्थानुसन्धानक्रमत्तै ‘‘ईदृशः परमात्मायं प्रत्यगात्मा तथेदृशः । तत्सम्बन्धानुसन्धानमिति योगः प्रकीर्तितः’’(शाण्डिल्यस्मृति ५-१७) ऎऩ्ऱु श्रीशाण्डिल्यभगवाऩरुळिच्चॆय्दाऩ्। 
 </details>
 
+### शेषत्वार्थ-विवरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्तै 
@@ -2747,15 +2748,350 @@ y **es** la **esencia** de los (tres) Vedas **revela** este significado ".
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’कण्ण-बुरम् ऒऩ्ऱ्-उडैयाऩुक्क् **अडियेय्**,  
++++(अन्यस्मै)+++ ऒरुवर्क्क् उरियेऩोव्+++(=योग्यः)+++?’’  
+(पॆरियदिरुमॊऴि ८-५-३)  
+
+ऎऩ्गिऱदुम् इप्-प्रणवार्थ-विवरणम्। 
+</details>
+
+<details><summary>English</summary>
+
+The Tamil verse which says, 
+
+> "I am the servant of Bhagavān,  
+the Lord of Tirukkannapuram;  
+how am I entitled to be the servant of anyone else ?"
+\- this Tamil verse also explains the meaning of praṇava. 
+</details>
+
+<details><summary>Español</summary>
+
+El verso tamil que dice:
+
+> "**Soy** el **sirviente** de Bhagavān,  
+El Señor de Tirukkannapuram;  
+¿Cómo **tengo** derecho a **ser** el sirviente de alguien más? "  
+\- Este versículo tamil también **explica** el significado de praṇava.
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’कण्णबुरमॊऩ्ऱुडैयाऩुक्कडियेयॊरुवर्क्कुरिये ऩो’’(पॆरियदिरुमॊऴि ८-५-३) वॆऩ्गिऱदुम् इप्प्रणवार्थविवरणम्। 
+</details>
 
 
-The Tamil verse which says, "I am the "servant of Bhagavān, the Lord of Tirukkannapuram; how am I entitled to be the servant of anyone else ?" - this Tamil verse also explains the meaning of praṇava. The śrutis and the smṛtis describe the three letters of praṇava as the essence of the three Vedas.
 
-THE MEANING OF A IN PRAṆAVA:
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-That these letters have these meanings will be seen from the following passage in Vamana purāna : -'By the first letter a in the praṇava, which is one of the members or limbs of the mantra with eight letters, Bhagavān, who is the support of everything, is denoted; the letter a is the origin of all words and Brahman is the origin of all things denoted by these words.
+प्रणवत्तिल् अक्षर-त्रयत्तैयुम् वेद-त्रय-सारम् आग श्रुति-स्मृतिगळ् प्रपञ्चित्तऩ।
+</details>
 
-Therefore a denotes Bhagavān. He is denoted by that letter. This relationship between the letter a and Bhagavān is seen from the meaning to be appropriate." Śrī Rāmānuja stated in the Vedārthasaṅgraha that by the first letter (of praṇava) which is the origin of all words is denoted Nārāyaṇa who is the origin of all things denoted by these words. From this it follows that Bhaga van is the material and the instrumental cause of the whole world and that, as may be inferred from this, He is both omniscient and omnipotent and has other such qualities. "a means  negation (No) and when masculine denotes Viṣṇu". "The letter a denotes Viṣṇu"; " By using the letter a, which is the first name of Nārāyaṇa, what (an excellent) benedictory prayer has been made !" All this is evident from the Nighantus and the usage of scholars.
+<details><summary>English</summary>
+
+The śrutis and the smṛtis describe the three letters of praṇava as the essence of the three Vedas.
+</details>
+
+<details><summary>Español</summary>
+
+Los Śrutis y los Smṛtis **describen** las tres letras de Praṇava como la esencia de los tres Vedas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रणवत्तिलक्षरत्रयत्तैयुम् वेदत्रयसारमाग श्रुतिस्मृतिकळ् प्रपञ्चित्तऩ।
+</details>
+
+### अकारः
+<details><summary>English</summary>
+
+THE MEANING OF "A" IN PRAṆAVA:
+</details>
+
+<details><summary>Español</summary>
+
+El significado de "a" en praṇava:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इव्व्-अक्षरङ्गळ् इव्व्-अर्थङ्गळैच् चॊल्लुगिऱ बडिय् ऎङ्ङऩेय् ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+That these letters have these meanings will be seen 
+</details>
+
+<details><summary>Español</summary>
+
+Que estas letras **tienen** estos significados **se verán**
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वक्षरङ्गळिव्वर्थङ्गळैच् चॊल्लुगिऱबडियॆङ्ङऩेय् ऎऩ्ऩिल्; 
+</details>
+
+#### कारण-ब्रह्म
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अष्टाक्षर-शरीराङ्ग-  
+प्रणवाद्य्-अक्षरेण तु ।  
+अ-कारेणाखिलाधारः  
+परमात्मा **ऽभिधीयते** ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अष्टाक्षर-शरीराङ्ग-  
+प्रणवाद्य्-अक्षरेण तु ।  
+अ-कारेणाखिलाधारः  
+परमात्मा **ऽभिधीयते** ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> 'By the first letter "a" in the praṇava,  
+which is one of the members or limbs of the mantra with eight letters,  
+Bhagavān, who is the support of everything, is denoted;  
+</details>
+
+<details><summary>Español</summary>
+
+> 'Por la primera letra "A" en el praṇava,  
+que **es** uno de los miembros o extremidades del mantra con ocho letras,  
+Bhagavān, quien **es** el **apoyo** de todo, **se denota**;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अष्टाक्षरशरीराङ्गप्रणवाद्यक्षरेण तु । अकारेणाखिलाधारः परमात्माभिधीयते ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> समस्त-शब्द-मूलत्वाद्  
+अ-कारस्य स्वभावतः ।  
+समस्त-वाच्य-मूलत्वाद्  
+ब्रह्मणोऽपि स्वभावतः ॥+++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> समस्त-शब्द-मूलत्वाद्  
+अ-कारस्य स्वभावतः ।  
+समस्त-वाच्य-मूलत्वाद्  
+ब्रह्मणोऽपि स्वभावतः ॥+++(5)+++
+</details>
+
+
+<details><summary>English</summary>
+
+> the letter a is the origin of all words  
+and Brahman is the origin of all things denoted by these words.
+</details>
+
+<details><summary>Español</summary>
+
+> La letra A **es** el origen de todas las palabras  
+Y Brahman **es** el origen de todas las cosas **denotadas** por estas palabras.
+</details>
+
+<details><summary>मूलम्</summary>
+
+समस्तशब्दमूलत्वादकारस्य स्वभावतः । समस्तवाच्यमूलत्वाद्ब्रह्मणोऽपि स्वभावतः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वाच्य-वाचक सम्बन्धस्  
+तयोर् अर्थात् **प्रतीयते**।’’  
+(वामनपुराणम्) 
+
+ऎऩ्ऱु श्री-वामनपुराणवचनत्ताले
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> वाच्य-वाचक सम्बन्धस्  
+तयोर् अर्थात् **प्रतीयते**।’’  
+(वामनपुराणम्) 
+
+
+</details>
+
+
+<details><summary>English</summary>
+
+> Therefore "a" denotes Bhagavān.  
+He is denoted by that letter.  
+This relationship between the letter "a" and Bhagavān  
+is seen from the meaning to be appropriate." 
+
+\- From the above (~~following~~) passage in Vamana purāna.
+</details>
+
+<details><summary>Español</summary>
+
+> Por lo tanto, "A" **denota** Bhagavān.  
+Es **denota** por esa carta.  
+Esta relación entre la letra "A" y Bhagavān  
+**se ve** desde el significado para ser apropiado ".
+
+\- desde el pasaje anterior (~~ siguiente ~~) en Vamana Purāna.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वाच्यवाचक सम्बन्धस्तयोरर्थात्प्रतीयते’’(वामनपुराणम्) ऎऩ्ऱु श्री वामनपुराणवचनत्ताले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्व-वाचक-जात-प्रकृतिय् आऩ प्रथमाक्षरत्तुक्कु  
+सर्व-वाच्य-जात-प्रकृतिय् आऩ नारायणऩ् वाच्यऩ् 
+
+ऎऩ्ऱु प्रसिद्धम् आऩ अर्थत्तै वेदार्थ-संग्रहत्तिलेय् अरुळिच् चॆय्दार्।
+</details>
+
+<details><summary>English</summary>
+
+Śrī Rāmānuja stated in the Vedārthasaṅgraha that 
+
+> by the first letter (of praṇava)  
+which is the origin of all words  
+is denoted Nārāyaṇa  
+who is the origin of all things denoted by these words. 
+</details>
+
+<details><summary>Español</summary>
+
+Śrī Rāmānuja **declaró** en el Vedārthasaṅgraha que
+
+> Por la primera carta (de praṇava)  
+cual **es** el origen de todas las palabras  
+**se denota** nārāyaṇa  
+quien **es** el origen de todas las cosas **denotadas** por estas palabras.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्ववाचकजातप्रकृतियाऩ प्रथमाक्षरत्तुक्कु सर्ववाच्यजातप्रकृतियाऩ नारायणऩ् वाच्यऩॆऩ्ऱु प्रसिद्धमाऩ अर्थत्तै वेदार्थसंग्रहत्तिले यरुळिच्चॆय्दार्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताले  
+कारण-वाक्य-सिद्धम् आऩ स-कल--जगन्-निमित्तोपादान-कारणत्वमुम्  
+अत्ताले आक्षिप्तम् आऩ सर्व-ज्ञत्व--सर्व-शक्तित्वादि--गुण-वर्गमुम्  
+इङ्गे सिद्धम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+From this it follows that Bhagavan is the material  
+and the instrumental cause of the whole world  
+and that, as may be inferred from this,  
+He is both omniscient and omnipotent  
+and has other such qualities.  
+</details>
+
+<details><summary>Español</summary>
+
+De esto **se deduce** que Bhagavan es el material  
+y la causa instrumental de todo el mundo  
+y eso, como **se puede inferir** de esto,  
+Él **es** omnisciente y omnipotente  
+y **tiene** otras cualidades similares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्ताले कारणवाक्यसिद्धमाऩ सकलजगन्निमित्तोपादानकारणत्वमुम् अत्ताले आक्षिप्तमऩ सर्वज्ञत्व सर्वशक्तित्वादि गुणवर्गमुमिङ्गे सिद्धमायिऱ्ऱु। 
+</details>
+
+#### विष्णुः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अक्षरम् भगवद्-वाचकम् ऎऩ्ऩुम् इडम् 
+
+> ‘‘अ निषेधे, पुमान् +++(चेद्)+++ विष्णौ’’() 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अ निषेधे, पुमान् +++(चेद्)+++ विष्णौ’’() 
+</details>
+
+<details><summary>English</summary>
+
+> "a" means  negation (No) and when masculine denotes Viṣṇu. 
+</details>
+
+<details><summary>Español</summary>
+
+> "A" **significa** negación (no) y cuando masculina **denota** Viṣṇu.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वक्षरम् भगवद्वाचकमॆऩ्ऩुमिडम् ‘‘अ निषेधे पुमान्विष्णौ’’() ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अकारो विष्णु-वाचकः’’() 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अकारो विष्णु-वाचकः’’() 
+
+
+</details>
+
+<details><summary>English</summary>
+
+> "The letter a denotes Viṣṇu"; 
+</details>
+
+<details><summary>Español</summary>
+
+> "La letra A **denota** Viṣṇu";
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अकारो विष्णुवाचकः’’() ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अ इति भगवतो नारायणस्य  
+प्रथमाभिधानम् अभिदधता किन् नाम मङ्गलं न कृतम्’’(हरि-ग्रन्थः।)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अ इति भगवतो नारायणस्य प्रथमाभिधानमभिदधता किन्नाम मङ्गलं न कृतम्’’(हरि-ग्रन्थः।) ऎऩ्ऱुम्, 
+</details>
+
+
+" By using the letter a, which is the first name of Nārāyaṇa, what (an excellent) benedictory prayer has been made !" All this is evident from the Nighantus and the usage of scholars.
 
 When this a denotes the Supreme Ruler, it is derived, according to the science of grammar, from the verbal root ava which means to protect, to please etc., (the termination va is dropped) and the word that results refers to one who is a protector and so on (one who pleases). Though this root has many meanings, its best-known meaning is to protect; further it is this meaning which is required here (in connection with the mantra 'aum'); besides there is no authoritative etymological explanation that it should be considered as having many meanings; so the first meaning given (in grammar), namely, to protect is the direct and primary meaning of the word and the other meanings, when required, should be considered as suggested (lukṣaṇā) by the primary meaning. This is the appropriate way of explaining and the ācāryas have commented on it only in this way as meaning the Protector or Saviour. As the meaning 'protector' is not restricted by any limiting adjunct, the protectorship extends to all. The manner of protection varies with the objects of protection as shown by the pramāṇas (sources of knowledge). Since the protection is not stated to be based on any reason or condition, it might appear to be unconditioned (nirupādhika) but Iśvara, who is omnipotent and independent, expects some vyāja or action prescribed by His will to be performed by the jīva, which would serve as a justification for conferring mokṣa and the like on those who are in saṁsāra. Towards the nityas ( the eternal süris) and those who have already attained mukti, the protection is full and complete by way of maintaining what is already present and this is the result of Bhagavān's natural and unconditioned mercy. But this natural mercy (karunya) is restrained in the case of those in saṁsāra by the condition (upādhi) of the need for punishment which has arisen by beginningless offence when actions which are displeasing to Him have occurred. Prapatti and other vyājas have been prescribed in the Śāstras only for removing this condition which acts as a restraining force (on the Lord's (mercy).
 
