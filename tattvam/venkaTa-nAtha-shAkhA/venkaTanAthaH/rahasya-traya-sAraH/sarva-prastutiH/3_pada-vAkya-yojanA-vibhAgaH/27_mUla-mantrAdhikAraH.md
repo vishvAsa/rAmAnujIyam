@@ -3080,10 +3080,34 @@ y **tiene** otras cualidades similares.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘अ इति भगवतो नारायणस्य  
-प्रथमाभिधानम् अभिदधता किन् नाम मङ्गलं न कृतम्’’(हरि-ग्रन्थः।)  
+प्रथमाभिधानम् **अभिदधता**  
+किन् नाम **मङ्गलं** न **कृतम्**’’(हरि-ग्रन्थः।)  
 
 ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अ इति भगवतो नारायणस्य  
+प्रथमाभिधानम् **अभिदधता**  
+किन् नाम **मङ्गलं** न **कृतम्**’’(हरि-ग्रन्थः।)  
+
+</details>
+
+<details><summary>English</summary>
+
+> "By using the letter 'a',  
+which is the first name of Nārāyaṇa,  
+what (an excellent) benedictory prayer has been made !" 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Usando** la letra 'a',  
+cual **es** el primer nombre de Nārāyaṇa,  
+¡Qué (una excelente) **oración** benedictoria **se ha hecho**! "
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -3091,9 +3115,222 @@ y **tiene** otras cualidades similares.
 </details>
 
 
-" By using the letter a, which is the first name of Nārāyaṇa, what (an excellent) benedictory prayer has been made !" All this is evident from the Nighantus and the usage of scholars.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-When this a denotes the Supreme Ruler, it is derived, according to the science of grammar, from the verbal root ava which means to protect, to please etc., (the termination va is dropped) and the word that results refers to one who is a protector and so on (one who pleases). Though this root has many meanings, its best-known meaning is to protect; further it is this meaning which is required here (in connection with the mantra 'aum'); besides there is no authoritative etymological explanation that it should be considered as having many meanings; so the first meaning given (in grammar), namely, to protect is the direct and primary meaning of the word and the other meanings, when required, should be considered as suggested (lukṣaṇā) by the primary meaning. This is the appropriate way of explaining and the ācāryas have commented on it only in this way as meaning the Protector or Saviour. As the meaning 'protector' is not restricted by any limiting adjunct, the protectorship extends to all. The manner of protection varies with the objects of protection as shown by the pramāṇas (sources of knowledge). Since the protection is not stated to be based on any reason or condition, it might appear to be unconditioned (nirupādhika) but Iśvara, who is omnipotent and independent, expects some vyāja or action prescribed by His will to be performed by the jīva, which would serve as a justification for conferring mokṣa and the like on those who are in saṁsāra. Towards the nityas ( the eternal süris) and those who have already attained mukti, the protection is full and complete by way of maintaining what is already present and this is the result of Bhagavān's natural and unconditioned mercy. But this natural mercy (karunya) is restrained in the case of those in saṁsāra by the condition (upādhi) of the need for punishment which has arisen by beginningless offence when actions which are displeasing to Him have occurred. Prapatti and other vyājas have been prescribed in the Śāstras only for removing this condition which acts as a restraining force (on the Lord's (mercy).
+निघण्टुक्कळिलुम् प्रयोगङ्गळिलुम् प्रसिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+All this is evident from the Nighantus and the usage of scholars.
+</details>
+
+<details><summary>Español</summary>
+
+Todo esto **es evidente** por el Nighantus y el **uso** de académicos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निघण्टुक्कळिलुम् प्रयोगङ्गळिलुम् प्रसिद्धम्। 
+</details>
+
+#### रक्षकः, प्रीणकः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु +++(अवतीति)+++ व्याकरण-व्युत्पत्तियाले सर्वेश्वरऩैच् चॊल्लुम् बोदु  
+
+रक्षण-प्रीणनादि-विषयम् आऩ +++(अव)+++ धातुविले  
+कर्तृ-वाचिय् आऩ प्रत्ययत्ताले निष्पन्नम् आऩ पदम् आय्  
+
+सर्व-रक्षकत्वादि-विशिष्टऩ् आगक् काट्टुम्।
+</details>
+
+<details><summary>English</summary>
+
+When this a denotes the Supreme Ruler,  
+it is derived, according to the science of grammar, from the verbal root ava which means to protect, to please etc., (the termination va is dropped)  
+and the word that results refers to one who is a protector and so on (one who pleases). 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando esto "A" **denota** al **gobernante** supremo,  
+**Se deriva**, según la ciencia de la gramática, de la raíz verbal "Ava" que **significa proteger**, **complacer**, etc. (la terminación "VA" **se cae**)  
+y la palabra que los **resultados se refieren** a alguien que **es** un protector, etc. (uno que le **plazca**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु व्याकरणव्युत्पत्तियाले सर्वेश्वरऩैच् चॊल्लुम्बोदु रक्षणप्रीणनादिविषयमाऩ धातुविले कर्तृवाचियाऩ प्रत्ययत्ताले निष्पन्नमाऩ पदमाय् सर्वरक्षकत्वादिविशिष्टऩागक् काट्टुम्।
+</details>
+
+##### रक्षकत्व-प्राधान्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इद् धातु अनेकार्थमेय् आगिलुम्  
+रक्षणार्थत्तिल् प्रसिद्धि-प्रकर्षत्तालुम्  
+इव्व्-अर्थम् इङ्गे अपेक्षितम् आगैयालुम्, 
+</details>
+
+<details><summary>English</summary>
+
+Though this root has many meanings,  
+its best-known meaning is to protect;  
+further it is this meaning which is required here (in connection with the mantra 'aum'); 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque esta raíz **tiene** muchos significados,  
+Su **significado** más **conocido** es **proteger**;  
+Además, **es** este **significado** el que **se requiere** aquí (en **relación** con el mantra 'aum');
+</details>
+
+<details><summary>मूलम्</summary>
+
+इद् धातु अनेकार्थमेयागिलुम् रक्षणार्थत्तिल् प्रसिद्धिप्रकर्षत्तालुम् इव्वर्थमिङ्गे अपेक्षितमागैयालुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इङ्गे नानार्थङ्गळ् अनुसन्धेयङ्गळ् आगव् ऒरु निरुक्तिय् इल्लामैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+besides there is no authoritative etymological explanation that it should be considered as having many meanings; 
+</details>
+
+<details><summary>Español</summary>
+
+Además, **no existe** una **explicación** etimológica **autorizada**  
+de que **se debe considerar** que **tiene** muchos significados;
+</details> 
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गे नानार्थङ्गळनुसन्धेयङ्गळागवॊरु निरुक्तियिल्लामैयालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रथम-पठितम् आऩ रक्षणम् शाब्दम् आय्  
+मऱ्ऱ अपेक्षितार्थङ्गळ् इत्ताले आक्षिप्तङ्गळ् आग अनुसन्धिक्कै उचितम् 
+
+ऎऩ्ऱु इव्व्-अळवे आचार्यर्गळ् व्याख्यानम् पण्णिऩार्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+so the first meaning given (in grammar), namely, to protect is the direct and primary meaning of the word  
+and the other meanings, when required, should be considered as suggested (lukṣaṇā) by the primary meaning.  
+This is the appropriate way of explaining  
+and the ācāryas have commented on it only in this way  
+as meaning the Protector or Saviour. 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces, el primer **significado** dado (en gramática), a saber, **proteger es** el significado directo y primario de la palabra  
+y los otros significados, cuando **sea necesario**, **deben considerarse** como **sugerido** (Lukṣaṇā) por el **significado** primario.  
+Esta **es** la forma **apropiada** de **explicar**  
+y los ācāryas lo **han comentado** solo de esta manera  
+como **significa** el **protector** o **salvador**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रथमपठितमाऩ रक्षणम् शाब्दमाय् मऱ्ऱ अपेक्षितार्थङ्गळित्ताले आक्षिप्तङ्गळाग अनुसन्धिक्कै उचितमॆऩ्ऱु इव्वळवे आचार्यर्गळ्व्याख्यानम् पण्णिऩार्गळ्। 
+</details>
+
+##### प्रकारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द रक्षकत्वम् अवच्छेदकम् इल्लामैयाले सर्व-विषयम्। 
+</details>
+
+<details><summary>English</summary>
+
+As the meaning 'protector' is not restricted by any limiting adjunct, the protectorship extends to all. 
+</details>
+
+<details><summary>Español</summary>
+
+Como el significado 'protector' **no está restringido** por ningún complemento limitante, la protectoria **se extiende** a todos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्द रक्षकत्वम् अवच्छेदकमिल्लामैयाले सर्वविषयम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**रक्षा**-प्रकारङ्गळ् विषयङ्गळ्-तोऱुम्+++(=प्रति)+++ प्रमाणङ्गळ् काट्टिऩ बडियिले  
+**विचित्रङ्गळ् आय् इरुक्कुम्**। 
+</details>
+
+<details><summary>English</summary>
+
+The manner of protection varies with the objects of protection  
+as shown by the pramāṇas (sources of knowledge). 
+</details>
+
+<details><summary>Español</summary>
+
+La forma de protección **varía** con los objetos de **protección**  
+como **lo demuestran** los pramāṇas (fuentes de **conocimiento**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+रक्षाप्रकारङ्गळ् विषयङ्गळ्दोऱुम् प्रमाणङ्गळ् काट्टिऩबडियिले विचित्रङ्गळायिरुक्कुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु हेतु-निर्देशम् पण्णामैयाले निरुपाधिकम् आय्त् **तोऩ्ऱिऩालुम्**  
+सापराधर् आऩ संसारिगळुक्कु  
+मोक्षादि-**प्रदानत्तिल्** स्वतन्त्रऩ् आऩ ईश्वरऩ्  
+ताऩ् **सङ्कल्पित्तु वैत्तद्** ऒरु व्याजत्तैय् **अपेक्षित्त् इरुक्कुम्**।
+</details>
+
+<details><summary>English</summary>
+
+Since the protection is not stated to be based on any reason or condition,  
+it might appear to be unconditioned (nirupādhika)  
+but Iśvara, who is omnipotent and independent,  
+expects some vyāja or action prescribed by His will to be performed by the jīva,  
+which would serve as a justification for conferring mokṣa and the like  
+on those who are in saṁsāra. 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que la protección **no se basa** en ningún motivo o condición,  
+**Puede parecer** incondicionado (Nirupādhika)  
+
+Pero iśvara, que **es** omnipotente e independiente,  
+**espera** que un vyāja o **acción prescrito** por su voluntad **sea realizado** por Jīva,  
+
+que **serviría** como **justificación** para **conferir** mokṣa y similares  
+Sobre los que **están** en Saṁsāra.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+इदु हेतुनिर्देशम् पण्णामैयाले निरुपाधिकमाय्त् तोऩ्ऱिऩालुम् सापराधराऩ संसारिकळुक्कु मोक्षादिप्रदानत्तिल् स्वतन्त्रऩाऩ ईश्वरऩ् ताऩ् सङ्कल्पित्तुवैत्तदॊरु व्याजत्तैयपेक्षित्तिरुक्कुम्।
+</details>
+
+
+Towards the nityas ( the eternal süris) and those who have already attained mukti, the protection is full and complete by way of maintaining what is already present and this is the result of Bhagavān's natural and unconditioned mercy. But this natural mercy (karunya) is restrained in the case of those in saṁsāra by the condition (upādhi) of the need for punishment which has arisen by beginningless offence when actions which are displeasing to Him have occurred. Prapatti and other vyājas have been prescribed in the Śāstras only for removing this condition which acts as a restraining force (on the Lord's (mercy).
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
