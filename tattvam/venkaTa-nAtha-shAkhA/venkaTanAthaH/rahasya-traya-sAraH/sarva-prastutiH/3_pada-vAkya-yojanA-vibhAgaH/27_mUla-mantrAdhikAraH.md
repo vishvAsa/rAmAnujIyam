@@ -3329,6 +3329,18 @@ Sobre los que **están** en Saṁsāra.
 इदु हेतुनिर्देशम् पण्णामैयाले निरुपाधिकमाय्त् तोऩ्ऱिऩालुम् सापराधराऩ संसारिकळुक्कु मोक्षादिप्रदानत्तिल् स्वतन्त्रऩाऩ ईश्वरऩ् ताऩ् सङ्कल्पित्तुवैत्तदॊरु व्याजत्तैयपेक्षित्तिरुक्कुम्।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्यर् पक्कलिलुम् मुक्तर् पक्कलिलुम्  
+निरुपाधिक-सहज-कारुण्य-मात्रत्ताले  
+स्थित-स्थापन-रूपेण रक्षै मुऴुक्क+++(=पूर्णं)+++ नडक्कुम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नित्यर् पक्कलिलुम् मुक्तर् पक्कलिलुम् निरुपाधिकसहजकारुण्यमात्रत्ताले स्थितस्थापनरूपेण रक्षैमुऴुक्क नडक्कुम्। 
+</details>
+
 
 Towards the nityas ( the eternal süris) and those who have already attained mukti, the protection is full and complete by way of maintaining what is already present and this is the result of Bhagavān's natural and unconditioned mercy. But this natural mercy (karunya) is restrained in the case of those in saṁsāra by the condition (upādhi) of the need for punishment which has arisen by beginningless offence when actions which are displeasing to Him have occurred. Prapatti and other vyājas have been prescribed in the Śāstras only for removing this condition which acts as a restraining force (on the Lord's (mercy).
 
