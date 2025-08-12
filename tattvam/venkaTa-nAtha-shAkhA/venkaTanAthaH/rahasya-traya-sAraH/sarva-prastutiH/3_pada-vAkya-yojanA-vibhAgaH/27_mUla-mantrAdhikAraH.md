@@ -3248,7 +3248,7 @@ como **significa** el **protector** o **salvador**.
 प्रथमपठितमाऩ रक्षणम् शाब्दमाय् मऱ्ऱ अपेक्षितार्थङ्गळित्ताले आक्षिप्तङ्गळाग अनुसन्धिक्कै उचितमॆऩ्ऱु इव्वळवे आचार्यर्गळ्व्याख्यानम् पण्णिऩार्गळ्। 
 </details>
 
-##### प्रकारः
+##### व्याजापेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द रक्षकत्वम् अवच्छेदकम् इल्लामैयाले सर्व-विषयम्। 
@@ -3336,29 +3336,205 @@ Sobre los que **están** en Saṁsāra.
 स्थित-स्थापन-रूपेण रक्षै मुऴुक्क+++(=पूर्णं)+++ नडक्कुम्। 
 </details>
 
+<details><summary>English</summary>
+
+Towards the nityas ( the eternal süris) and those who have already attained mukti,  
+the protection is full and complete  
+by way of maintaining what is already present  
+and this is the result of Bhagavān's natural and unconditioned mercy. 
+</details>
+
+<details><summary>Español</summary>
+
+Hacia el nityas (el eterno süris) y los que **ya han alcanzado** mukti,  
+la **protección** es completa  
+a través de **mantener** lo que ya **está presente**  
+Y este **es** el resultado de la misericordia natural e incondicionada de Bhagavān.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 नित्यर् पक्कलिलुम् मुक्तर् पक्कलिलुम् निरुपाधिकसहजकारुण्यमात्रत्ताले स्थितस्थापनरूपेण रक्षैमुऴुक्क नडक्कुम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Towards the nityas ( the eternal süris) and those who have already attained mukti, the protection is full and complete by way of maintaining what is already present and this is the result of Bhagavān's natural and unconditioned mercy. But this natural mercy (karunya) is restrained in the case of those in saṁsāra by the condition (upādhi) of the need for punishment which has arisen by beginningless offence when actions which are displeasing to Him have occurred. Prapatti and other vyājas have been prescribed in the Śāstras only for removing this condition which acts as a restraining force (on the Lord's (mercy).
+इप्पडि स्वाभाविकम् आऩ रक्षकत्वम्  
+प्रातिकूल्यं नडक्कुङ् कालत्तिल्  
+अनाद्य्-अपराधत्ताले **पिऱन्द** निग्रह-रूपोपाधियाले **प्रतिबद्धमाम्**। 
+</details>
+
+<details><summary>English</summary>
+
+But this natural mercy (karunya) is restrained  
+in the case of those in saṁsāra  
+by the condition (upādhi) of the need for punishment  
+which has arisen by beginningless offence  
+when actions which are displeasing to Him have occurred.
+</details>
+
+<details><summary>Español</summary>
+
+Pero esta misericordia natural (karunya) **está restringida**  
+En el caso de los de Saṁsāra  
+por la condición (upādhi) de la **necesidad** de **castigo**  
+que **ha surgido** por una **ofensiva** sin **inicio**  
+Cuando **se han producido acciones** que le **están** desagradando.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि स्वाभाविकमाऩ रक्षकत्वम् प्रातिकूल्यम् नडक्कुङ्गालत्तिल् अनाद्यपराधत्ताले पिऱन्द निग्रहरूपोपाधियाले प्रतिबद्धमाम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रतिबन्धकम् आऩ इव्व्-उपाधियैक् कऴिक्कैक्क् आगवे  
+प्रपत्ति-मुदल् आऩ व्याजङ्गळ् शास्त्र-सिद्धङ्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+Prapatti and other vyājas have been prescribed in the Śāstras  
+only for removing this condition  
+which acts as a restraining force (on the Lord's (mercy).
+</details>
+
+<details><summary>Español</summary>
+
+Prapatti y otros vyājas **han sido prescritos** en los Śāstras  
+Solo para **eliminar** esta condición  
+que **actúa** como una fuerza de **restricción** (en la del Señor (misericordia).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रतिबन्धकमाऩ इव्वुपाधियैक् कऴिक्कैक्कागवे प्रपत्ति मुदलाऩ व्याजङ्गळ् शास्त्रसिद्धङ्गळ्।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-त्राणे स्वामित्वमौचित्यं न्यासाद्यास्सहकारिणः ।  
-प्रधानहेतुस्स्वातन्त्र्यविशिष्टा करुणा विभोः ॥॥
+त्राणे स्वामित्वम् औचित्यं,  
+न्यासाद्यास् सह-कारिणः ।  
+प्रधान-हेतुस् स्वातन्त्र्य-  
+विशिष्टा करुणा विभोः ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+त्राणे स्वामित्वम् औचित्यं,  
+न्यासाद्यास् सह-कारिणः ।  
+प्रधान-हेतुस् स्वातन्त्र्य-  
+विशिष्टा करुणा विभोः ॥
+</details>
+
+<details><summary>English</summary>
+
+The fact of being the Master makes it appropriate that He should protect;  
+prapatti and the like are (only) secondary helps.  
+The primary reason (for protecting) is the Omnipresent Lord's mercy  
+which is not dependent upon anything else.
+</details>
+
+<details><summary>Español</summary>
+
+El hecho de **ser** el maestro **hace** que **sea** apropiado que él **proteja**;  
+Prapatti y similares **son** (solo) ayuda secundaria.  
+La razón principal (para **proteger**) **es** la misericordia del Señor omnipresente  
+que **no depende** de nada más.
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-त्राणे स्वामित्वमौचित्यं न्यासाद्यास्सहकारिणः ।  
-प्रधानहेतुस्स्वातन्त्र्यविशिष्टा करुणा विभोः ॥॥
+त्राणे स्वामित्वमौचित्यं न्यासाद्यास्सहकारिणः ।  प्रधानहेतुस्स्वातन्त्र्यविशिष्टा करुणा विभोः ॥
 </details>
 
-The fact of being the Master makes it appropriate that He should proteot; prapatti and the like are (only) secondary helps.The primary reason (for protecting) is the Omnipresent Lord's mercy which is not dependent upon anything else.
+##### पत्नी-सहत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-As stated in the śloka : "In all siddhāntas and in Vedānta, it is declared that the Lord protects with His consort Lakṣmī, ever by His side, for she is the very embodiment of mercy", the Lord who has determined to grant redemption to all is ever ready (to do so) with His consort. The relationship with His spouse for the purpose of protection, which is evident from the pramāṇas is derived (not explicitly from the words but) by inference from the purpose (of protection) which is evident from the pramāṇas. Whenever Bhagavān is referred to, Lakṣmī should also be considered as referred to, for it results from the principle:- "If two things are enjoined as necessary, wherever one of them is mentioned, the other should also be considered as indicated” (Sanniyogasiṣṭanyāya). Thus the ācāryas, too, have said, “Since Thou(Lakṣmī) art ever inseparably connected with Thy Lord, even the Veda does not mention Thee separately." In all vidyās or forms of meditation (prescribed in the Upaniṣads) all qualities and attributes of Brahman which define His Nature are to be meditated upon (even though only one or two of them are actually mentioned in the particular Vidyā). Similarly this attribute, Namely, Lakṣmī, who is the most important of all attributes should also be borne in mind. It is this attribute (Lakṣmī) which rules out other deities, (for they are not related to Lakṣmī in that way) and defines Bhagavān's essential nature which is not dependent upon anything else, as having an excellence which surpasses everything else, His essential nature, form and glories, which do not arise from any other source, acquire even greater splendour from the essential nature, form and glories of Lakṣmī, who is His attribute, and shine thereby. This may be seen in the simile; "like radiance which cannot be separated from the sun." And this has been declared by the great sages who understood the nature and person of the Supreme Deity. So also in the word Nārāyaṇa in Tirumantra, Nārāyaṇa's relationship to His consort should be borne in mind. This relationship to the spouse is distinctly and explicitly stated in the Dvaya (Śrīmat - with Śrī). In Śrī Rāmānuja's elaboration of the Dvaya in his Gadya[^85] , it is true that, among the nārās in the words beginning with Bhagavān Nārāyaṇa (Nārānām + ayanam) Lakṣmī is included among the nāras by commentators. (From this it might be argued that she is also a jīva like other nāras). But this inclusion is only to indicate Her dependence on Her Lord and Nāras means etymologically only “those who are related to Nara" without the specification of the form of relationship. So from that, it should not be inferred that Lakṣmī is also a jīva.
+सर्व-रक्षण-दीक्षितऩ् आऩ्-अवऩ् 
+
+> ३१‘‘लक्ष्म्या सह हृषीकेशो  
+देव्या कारुण्य-रूपया ।  
+**रक्षकस्** सर्व-सिद्धान्ते  
+वेदान्तेऽपि च गीयते॥’’  
+(लक्ष्मीतन्त्रम् २८-१४) 
+
+इत्य्-आदिगळिऱ् पडिये  
+स-पत्नीकऩ् आग सिद्धऩ् आय् इरुक्कैयाले
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ३१‘‘लक्ष्म्या सह हृषीकेशो  
+देव्या कारुण्य-रूपया ।  
+**रक्षकस्** सर्व-सिद्धान्ते  
+वेदान्तेऽपि च गीयते॥’’  
+(लक्ष्मीतन्त्रम् २८-१४) 
+
+</details>
+
+
+<details><summary>English</summary>
+
+As stated in the śloka : 
+
+> "In all siddhāntas and in Vedānta,  
+it is declared that the Lord protects with His consort Lakṣmī, ever by His side,  
+for she is the very embodiment of mercy",  
+
+the Lord who has determined to grant redemption to all is ever ready (to do so) with His consort.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Como **se indica** en el Śloka:
+
+> "En todo Siddhāntas y en Vedānta,  
+**Se declara** que el Señor **protege** con su consorte Lakṣmī, siempre a su lado,  
+porque ella **es** la misma **encarnación** de la misericordia ",
+
+El Señor que **ha decidido otorgar** la **redención** a todos **está listo** (para **hacerlo**) con su consorte.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वरक्षणदीक्षितऩाऩवऩ् ३१‘‘लक्ष्म्या सह हृषीकेशो देव्या कारुण्यरूपया । रक्षकस्सर्वसिद्धान्ते वेदान्तेऽपि च गीयते’’(लक्ष्मीतन्त्रम् २८-१४) इत्यादिगळिऱ्पडिये सपत्नीकऩाग सिद्धऩायिरुक्कैयाले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गे +++(←"त्राणे स्वामित्वम्…")+++ प्रमाण-सिद्धोपयोग-विशेषम् आऩ पत्नी-सम्बन्धम् आर्थम्। 
+</details>
+
+<details><summary>English</summary>
+
+The relationship with His spouse for the purpose of protection,  
+which is evident from the pramāṇas is derived (not explicitly from the words but) by inference  
+from the purpose (of protection) which is evident from the pramāṇas. 
+</details>
+
+<details><summary>Español</summary>
+
+La relación con su cónyuge con fines de **protección**,  
+que **es evidente** de los pramāṇas **se deriva** (no explícitamente de las palabras pero) por **inferencia**  
+del **propósito** (de protección) que es evidente de los pramāṇas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गे प्रमाणसिद्धोपयोगविशेषमाऩ पत्नीसम्बन्धमार्थम्। 
+</details>
+
+
+Whenever Bhagavān is referred to, Lakṣmī should also be considered as referred to, for it results from the principle:- "If two things are enjoined as necessary, wherever one of them is mentioned, the other should also be considered as indicated” (Sanniyogasiṣṭanyāya). Thus the ācāryas, too, have said, “Since Thou(Lakṣmī) art ever inseparably connected with Thy Lord, even the Veda does not mention Thee separately." In all vidyās or forms of meditation (prescribed in the Upaniṣads) all qualities and attributes of Brahman which define His Nature are to be meditated upon (even though only one or two of them are actually mentioned in the particular Vidyā). Similarly this attribute, Namely, Lakṣmī, who is the most important of all attributes should also be borne in mind. It is this attribute (Lakṣmī) which rules out other deities, (for they are not related to Lakṣmī in that way) and defines Bhagavān's essential nature which is not dependent upon anything else, as having an excellence which surpasses everything else, His essential nature, form and glories, which do not arise from any other source, acquire even greater splendour from the essential nature, form and glories of Lakṣmī, who is His attribute, and shine thereby. This may be seen in the simile; "like radiance which cannot be separated from the sun." And this has been declared by the great sages who understood the nature and person of the Supreme Deity. So also in the word Nārāyaṇa in Tirumantra, Nārāyaṇa's relationship to His consort should be borne in mind. This relationship to the spouse is distinctly and explicitly stated in the Dvaya (Śrīmat - with Śrī). In Śrī Rāmānuja's elaboration of the Dvaya in his Gadya[^85] , it is true that, among the nārās in the words beginning with Bhagavān Nārāyaṇa (Nārānām + ayanam) Lakṣmī is included among the nāras by commentators. (From this it might be argued that she is also a jīva like other nāras). But this inclusion is only to indicate Her dependence on Her Lord and Nāras means etymologically only “those who are related to Nara" without the specification of the form of relationship. So from that, it should not be inferred that Lakṣmī is also a jīva.
 
 [^85]: Śaraṇāgati Gadya.
 
