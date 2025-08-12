@@ -3336,13 +3336,86 @@ Sobre los que **están** en Saṁsāra.
 स्थित-स्थापन-रूपेण रक्षै मुऴुक्क+++(=पूर्णं)+++ नडक्कुम्। 
 </details>
 
+<details><summary>English</summary>
+
+Towards the nityas ( the eternal süris) and those who have already attained mukti,  
+the protection is full and complete  
+by way of maintaining what is already present  
+and this is the result of Bhagavān's natural and unconditioned mercy. 
+</details>
+
+<details><summary>Español</summary>
+
+Hacia el nityas (el eterno süris) y los que **ya han alcanzado** mukti,  
+la **protección** es completa  
+a través de **mantener** lo que ya **está presente**  
+Y este **es** el resultado de la misericordia natural e incondicionada de Bhagavān.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 नित्यर् पक्कलिलुम् मुक्तर् पक्कलिलुम् निरुपाधिकसहजकारुण्यमात्रत्ताले स्थितस्थापनरूपेण रक्षैमुऴुक्क नडक्कुम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Towards the nityas ( the eternal süris) and those who have already attained mukti, the protection is full and complete by way of maintaining what is already present and this is the result of Bhagavān's natural and unconditioned mercy. But this natural mercy (karunya) is restrained in the case of those in saṁsāra by the condition (upādhi) of the need for punishment which has arisen by beginningless offence when actions which are displeasing to Him have occurred. Prapatti and other vyājas have been prescribed in the Śāstras only for removing this condition which acts as a restraining force (on the Lord's (mercy).
+इप्पडि स्वाभाविकम् आऩ रक्षकत्वम्  
+प्रातिकूल्यं नडक्कुङ् कालत्तिल्  
+अनाद्य्-अपराधत्ताले **पिऱन्द** निग्रह-रूपोपाधियाले **प्रतिबद्धमाम्**। 
+</details>
+
+<details><summary>English</summary>
+
+But this natural mercy (karunya) is restrained  
+in the case of those in saṁsāra  
+by the condition (upādhi) of the need for punishment  
+which has arisen by beginningless offence  
+when actions which are displeasing to Him have occurred.
+</details>
+
+<details><summary>Español</summary>
+
+Pero esta misericordia natural (karunya) **está restringida**  
+En el caso de los de Saṁsāra  
+por la condición (upādhi) de la **necesidad** de **castigo**  
+que **ha surgido** por una **ofensiva** sin **inicio**  
+Cuando **se han producido acciones** que le **están** desagradando.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि स्वाभाविकमाऩ रक्षकत्वम् प्रातिकूल्यम् नडक्कुङ्गालत्तिल् अनाद्यपराधत्ताले पिऱन्द निग्रहरूपोपाधियाले प्रतिबद्धमाम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रतिबन्धकम् आऩ इव्व्-उपाधियैक् कऴिक्कैक्क् आगवे  
+प्रपत्ति-मुदल् आऩ व्याजङ्गळ् शास्त्र-सिद्धङ्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+Prapatti and other vyājas have been prescribed in the Śāstras  
+only for removing this condition  
+which acts as a restraining force (on the Lord's (mercy).
+</details>
+
+<details><summary>Español</summary>
+
+Prapatti y otros vyājas **han sido prescritos** en los Śāstras  
+Solo para **eliminar** esta condición  
+que **actúa** como una fuerza de **restricción** (en la del Señor (misericordia).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रतिबन्धकमाऩ इव्वुपाधियैक् कऴिक्कैक्कागवे प्रपत्ति मुदलाऩ व्याजङ्गळ् शास्त्रसिद्धङ्गळ्।
+</details>
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
