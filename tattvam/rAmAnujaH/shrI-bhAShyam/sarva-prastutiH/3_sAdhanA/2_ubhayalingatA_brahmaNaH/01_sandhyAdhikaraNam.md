@@ -618,6 +618,13 @@ on account of the true nature (of the soul) not being fully manifested.
 </details>
 
 
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+**मायामात्रम्** आश्चर्य-रूपम् एव  
+अनाश्चर्यरूपं न किञ्चिद् अपीत्य् अर्थः ।  
+
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तु-शब्दः पक्षं व्यावर्तयति ।  
@@ -628,6 +635,12 @@ on account of the true nature (of the soul) not being fully manifested.
 
 तु-शब्दः पक्षं व्यावर्तयति ।  
 </details>
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+परम-पुरुष-सृष्टम् इति तु-शब्द-सिद्धार्थ उक्तः,  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -680,6 +693,14 @@ appearing like the wonderful power of the divine being in bodily shape' (devamā
 </details>
 
 
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+मिथ्या-व्यावृत्त्यर्थं **माया**-शब्दं व्याचष्टे ।  
+माया-शब्दो हीति - जनकस्येति ।  
+देवस्य आश्चर्य-रूपा शक्तिर् मूर्तिमतीवेत्य् अर्थः । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्रापि
@@ -691,7 +712,6 @@ appearing like the wonderful power of the divine being in bodily shape' (devamā
 
 The sense of the passage 'there are no chariots,' &c. then is--
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -715,6 +735,26 @@ there are no chariots and horses to be perceived by any other person but the dre
 
 सकलेतर-पुरुषानुभाव्यतया न भवन्तीत्य् अर्थः,
 </details>
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+> "न भवन्ति" इति श्रुतौ मिथ्यात्वं प्रतीयत  
+
+इत्य् आह - अत्रापीति ।  
+
+> स्वाप्नार्थानां पूर्व-कालीनाभावो मिथ्यात्वं च लोक-सिद्धम् 
+
+इति तद्-उभय-परत्वे "न भवन्ति" इति वाक्यस्य वैयर्थ्यं,  
+मिथ्यात्व-परत्वे सृज-धात्व्-अस्वारस्यं च स्यात्।  
+प्रसिद्ध-रथाद्यनुभवस्य प्रतिषेधे ऽपि वाक्य-वैयर्थ्यं स्यात्,  
+स्वप्ने तेषाम् अननुभूतत्वस्य लोक-सिद्धत्वात्।  
+स्वप्न-दृष्टानां हि जाग्रद्-दृष्टेभ्यो ऽन्यत्वं लोक-सिद्धम्।  
+अतस् तत्-परिहाराय प्रसिद्ध-रथादि-भाव-प्रतिषेधेन  
+विजातीय-विचित्रार्थ-सृष्टि-परत्वं वाक्यस्यावर्जनीयं,  
+तथा सति तद्-वैजात्यम्  
+अर्थ-वशात् सकलेतरान् अनुभाव्यत्व--तत्-काल--मात्रावस्थायित्व-रूपम् इति **माया**-शब्दो व्याख्यातः।  
+</details>
+ 
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -768,6 +808,13 @@ but as in the Saṁsāra state the true nature of the soul is not fully manifest
 संसार-दशायां कार्त्स्न्येनानभिव्यक्त-स्वरूपत्वात्  
 </details>
 
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+तेन सह प्रतिज्ञा-खण्डार्थम् आह - एवंविधेति ।  
+हेतु-खण्डं व्याचष्टे - तस्येति ।  
+</details>
+ 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न जीवस्य तथाविधाश्चर्य-सृष्टिर् उपपद्यते ।
@@ -806,6 +853,15 @@ The text 'the person shaping one desired thing after the other' declares the Sup
 इति च  
 परम-पुरुषम् एव निर्मातारम् आह –
 </details>
+
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+पूर्व-पक्ष-युक्तिं परिहरति - "कामं कामम्" इति ।  
+"कामं कामम्" इति णमुल्-अन्तं पदं, सङ्कल्प्येत्य् अर्थः ॥ 3 ॥
+
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -951,8 +1007,8 @@ To this the next Sūtra replies.
 ### पराभिधानात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> **३१८. पराभिध्यानात् तु तिरोहितं  
-ततो ह्य् अस्य बन्ध-विपर्ययौ ॥ ३–२–४ ॥ (सि)**
+> **३१८. पराभिध्यानात् तु तिरोहितं**  
+**ततो ह्य् अस्य बन्ध-विपर्ययौ ॥ ३–२–४ ॥ (सि)**
 </details>
 
 <details><summary>Thibaut</summary>
@@ -967,6 +1023,7 @@ for from that are its bondage and the opposite state.
 > **३१८. पराभिध्यानात् तु तिरोहितं  
 ततो ह्य् अस्य बन्ध-विपर्ययौ ॥ ३–२–४ ॥ (सि)**
 </details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1036,6 +1093,11 @@ owing to the endless chain of karman.
 अनादि-कर्म-परम्परया कृतापराधस्य ह्य् अस्य स्वाभाविकं कल्याण-रूपं परम-पुरुषस् तिरोधापयति; 
 </details>
 
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+परस्य नैर्घृण्यादि-प्रसङ्ग-परिहारम् आह - अनादि-कर्मेति । 
+</details>
+
 #### बन्ध-मोक्षौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1054,6 +1116,16 @@ the bondage and release of the soul result from the wish of the Supreme Person o
 
 ततः तत्-सङ्कल्पाद् एव हि  
 अस्य जीवस्य बन्ध-मोक्षौ श्रुतौ
+</details>
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+तत इत्यादि - तत इति व्याख्येयं यदम्,  
+बन्धस्य तत्-सङ्कल्पायत्तत्वे  
+तद्-अन्तर्गतस् तिरोभावश् च  
+तत्-सङ्कल्प-कृत इति सिद्धम्  
+
+इत्य् अर्थः ॥ 4 ॥ 
 </details>
 
 
@@ -1128,6 +1200,16 @@ the bondage and release of the soul result from the wish of the Supreme Person o
 
 ### देहयोगात्
 
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+> कथं भगवत्-सङ्कल्पस्य तिरोधायकत्वं  
+प्रकृतेः कर्मणां च हि तिरोधायकत्वम् 
+
+इत्य्-अत्राह -
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **३१९. देह-योगाद् वा सो ऽपि ॥ ३–२–५ ॥**
@@ -1144,9 +1226,10 @@ the bondage and release of the soul result from the wish of the Supreme Person o
 **३१९. देहयोगाद् वा सो ऽपि ॥ ३–२–५ ॥**
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सो ऽपि तिरोभावो देह-योग-द्वारेण वा भवति, 
+सो ऽपि तिरोभावो **देह-योग**-द्वारेण **वा** भवति, 
 </details>
 
 <details><summary>Thibaut</summary>
@@ -1159,6 +1242,12 @@ The obscuration of the soul's true nature results either from the soul's connexi
 
 सो ऽपि तिरोभावो देह-योग-द्वारेण वा भवति, 
 </details>
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+भगवत्-सङ्कल्पस्य द्वारभूतं प्रकृत्यादिकम् इत्य् अर्थः,  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1191,6 +1280,12 @@ As long as the creation lasts, the soul is obscured by its connexion with matter
 सृष्टि-काले देहावस्थेनाचिद्-वस्तुना संयोगाद् भवति, 
 </details>
 
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+वा-शब्दो न तुल्य-विकल्प-वाची,  
+अपि तु व्यवस्थित-विकल्प-वाचीत्य् अभिप्रायेणाह - सृष्टि-काल इति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1208,6 +1303,15 @@ at the time of a pralaya, on the other hand, by its connexion with matter of so 
 
 प्रलय-काले नाम-रूप-विभागा-नर्हाति-सूक्ष्माचिद्-वस्तु-योगात् । 
 </details>
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+सूक्ष्माचिच्-छक्ति-योगेति - अत्र शक्ति-शब्देन भगवद्-अपृथक्-सिद्ध-विशेषणत्वं विवक्षितम्,  
+एवम् अवान्तर-साध्य-साधनयोः परम-साध्येनान्वयं दर्शयति ।  
+</details>
+
+
+
 
 ### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1227,6 +1331,14 @@ the soul is unable to create, in dreams, chariots, lotus tanks, and so on, by it
 
 अतो ऽनभिव्यक्त-स्वरूपत्वात् स्वप्ने जीवो न रथादीन् सङ्कल्प-मात्रेण स्रष्टुं शक्नोति ।
 </details>
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+अतो ऽनभिव्यक्तेत्यादिना -  
+"मायामात्रम्" इति सूत्र-भाष्ये  
+परम-पुरुषासाधारण-स्वभाव-प्रतीतेर् इति सङ्ग्रहेण उक्तम् ।  
+</details>
+
 
 ## लोकाश्रय-श्रुतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1270,6 +1382,12 @@ can apply to the Supreme Person only.
 इति सर्वेषु सुप्तेषु जागरणं सर्व-लोकाश्रयत्वम् इत्यादयो हि परम-पुरुषस्यैव सम्भवन्ति । 
 </details>
 
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+अत्र सर्वेषु सुप्तेषु जागरणम् इत्यादिना स्वभाव-शब्दार्थो विवृतः, 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो जीवानाम् अल्पाल्प-कर्मानुगुण-फलानुभवार्थं  
@@ -1288,6 +1406,14 @@ and are perceived by that one soul only.
 <details><summary>मूलम्</summary>
 
 अतो जीवानाम् अल्पाल्प-कर्मानुगुण-फलानुभवार्थं तावन्मात्र-कालावसानान् तदेकानुभाव्यान् अर्थान् उत्पादयति ॥५॥
+</details>
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+ईश्वरेण क्रियते चेत्-  
+किम्-अर्थम् अस्थिर-रथादि-सृष्टिर्  
+इत्य् अत्राह - अत इति ।  
+अल्पाल्प-कर्म-फलानुभवार्थम् अस्थिर-तत्-तद्-वस्तु-सृष्टिर् इत्य् अर्थः ॥ 5 ॥
 </details>
 
 
@@ -1311,6 +1437,37 @@ this the experts also declare.
 > **३२०. सूचकश् च हि श्रुतेर् आचक्षते च तद्-विदः ॥ ३–२–६ ॥**
 </details>
 
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+> जीवस्य स्वाप्न-सृष्टि-मात्रोपयोगि-सत्य-सङ्कल्पत्वाद्य्-आविर्भावस् तदानीं स्याद् 
+
+इति शङ्का-व्यावृत्त्यर्थम् इदं सूत्रम्,  
+</details>
+
+<details><summary>श्रुत-प्रकाशिका - पर-पक्षः</summary>
+
+परे तु-  
+स्वाप्नार्थानाम् ईश्वर-सृष्टतया वियद्-आदिवत् पारमार्थ्यं पूर्व-पक्षी कृत्य  
+देश-काल-निमित्तैर् दुर्निरूपतया मिथ्यात्वं सिद्धान्तयन्ति।  
+एषां च जीव-कर्तृत्वम् एव "सृजत" इत्य् उच्यते।  
+तच् चौपचारिकं -  
+सुख-दुःख-दर्शन-निमित्त--सुकृत-दुष्कृत-कर्तृत्व-निबन्धन औपचारिकः स्वाप्नार्थ-कर्तृत्व-व्यपदेशः।  
+"बहिष् कुलायाद् अमृतश् चरित्वे"ति स्वाप्न-विषया श्रुतिश् च  
+बहिर् इव चरित्वेत्य् एवं-परा,  
+तस्मिन् प्रकरणे ईश्वर-प्रतिपादनं जीवस्य तद्-अनन्यत्वोपदेशार्थं  
+सुख-दुःख-सूचकत्व-कृत-पारमार्थ्य-शङ्का-व्युदास-परम्  
+"सूचकश् च हि" इति सूत्रम्।  
+तच् च द्वितीयं सूचनीय-पारमार्थ्ये ऽपि  
+सूचकं स्त्री-दर्शनादिकं मिथ्येति सूत्र-अभिप्रायः ।  
+ईश्वराद् अनन्यत्वेन जीवस्य सत्य-सङ्कल्पतया स्रष्टृत्व-शङ्कां व्युदस्यति  
+"पराभिध्यानात् त्व्" इति जीवस्य ज्ञानैश्वर्य-शक्त्यादि-सर्वम् अविद्या-तिरोहितं,  
+तिरोधान-निवृत्तिः परमात्माभिध्यानात्,  
+अस्य बन्ध-मोक्षौ हि परमात्माधीनौ,  
+स च तिरोभावः सूक्ष्म-स्थूल-देह-योगाद्  
+इति योजयन्ति। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतश् च स्वाप्ना अर्था  
@@ -1327,11 +1484,12 @@ The things seen in dreams are not created by the wish of the individual soul for
 न जीव-सङ्कल्प-पूर्वकाः;  
 </details>
 
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यतः स्वप्नो ऽभ्युदयानभ्युदययोस् सूचकः श्रुतेर् अवगम्यते
 </details>
-
 
 <details><summary>Thibaut</summary>
 
@@ -1404,6 +1562,12 @@ Those also who understand the science of dreams teach that dreams foreshadow goo
 <details><summary>मूलम्</summary>
 
 स्वप्नाध्याय-विदश् च स्वप्नं शुभाशुभयोस् सूचकम् आचक्षते । 
+</details>
+
+<details><summary>श्रुत-प्रकाशिका</summary>
+
+स्वप्नाध्याय-विदः- स्वप्न-वाचि-वेद-वाक्य-विदः,  
+अत इत्य् अधिकरणार्थोपसंहारः ।  
 </details>
 
 
