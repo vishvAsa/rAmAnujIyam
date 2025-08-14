@@ -32,7 +32,7 @@ this is intimated by his (Jānaśruti's) resorting to him (Raikva) on hearing a 
 </details>
 
 
-## विषयसंशययोः स्वरूपम्
+## संशयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -50,6 +50,7 @@ The Sūtras now enter on a discussion of the question whether the Śūdras also 
 ब्रह्मविद्यायां शूद्रस्याप्यधिकारोऽस्ति न वेति विचार्यते; 
 </details>
 
+## पूर्वपक्षः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > किं युक्तम्? अस्तीति।  
@@ -86,7 +87,7 @@ and both these are possible in the case of Śūdras also.
 </details>
 
 
-## शूद्रेषु कर्मानधिकारः - विद्याधिकारयोः उपपत्तिः
+### शूद्रेषु कर्मानधिकारः - विद्याधिकारयोः उपपत्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -108,19 +109,224 @@ which after all is nothing but a certain mental energy.
 यद्यप्यग्निविद्यासाध्येषु कर्मस्वनग्निविद्यत्वाच्छूद्रस्यानधिकारः; तथापि मनोवृत्तिमात्रत्वाद्ब्रह्मोपासनस्य तत्राधिकारोऽस्त्येव, 
 </details>
 
-यद्यप्य् अग्नि-विद्या-साध्येषु कर्मसु अनग्निविद्यत्वाच् छूद्रस्यानधिकारः; तथापि मनोवृत्ति-मात्रत्वाद् ब्रह्मोपासनस्य तत्राधिकारो ऽस्त्य् एव, शास्त्रीयक्रियापेक्षत्वे ऽप्य् उपासनस्य तत्तद्-वर्णाश्रमोचित-क्रियाया एवापेक्षितत्वाच् छूद्रस्यापि स्व-वर्णोचित-पूर्व-वर्ण-शुश्रूषैव क्रिया भविष्यति। तस्माच् छूद्रो यज्ञे ऽनवकॢप्तः (यजु.का.७.१.१.१) इत्यप्य् अग्नि-विद्या-साध्य-यज्ञादिकर्मानधिकार एव न्यायसिद्धो ऽनूद्यते।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## अश्रुत-वेदवेदान्तस्यापि शूद्रस्य उपासनोपपत्तिः
+> शास्त्रीय-क्रियाऽपेक्षत्वे ऽप्य्  
+उपासनस्य तत्-तद्-वर्णाश्रमोचित-क्रियाया एवापेक्षितत्वाच्  
+छूद्रस्यापि स्व-वर्णोचित-पूर्व-वर्ण-शुश्रूषैव क्रिया भविष्यति। 
+</details>
 
-ननु अनधीत-वेदस्याश्रुत-वेदान्तस्य ब्रह्म-स्वरूप-तदुपासन-प्रकारानभिज्ञस्य कथं ब्रह्मोपासनं सम्भवति? उच्यते – अनधीत-वेदस्याश्रुत-वेदान्त-वाक्यस्यापीतिहास-पुराण-श्रवणेनापि ब्रह्म-स्वरूप-तदुपासन-ज्ञानं सम्भवति। अस्ति च शूद्रस्यापीतिहास-पुराण-श्रवणानुज्ञा
-> श्रावयेच् चतुरो वर्णान् कृत्वा ब्राह्मणम् अग्रतः (म.भा.शा.मो.३१४.४५)
-इत्य् आदौ। दृश्यन्ते चेतिहास-पुराणेषु विदुरादयो ब्रह्म-निष्ठाः। तथोपनिषत्स्व् अपि संवर्ग-विद्यायां शूद्रस्यापि ब्रह्म-विद्याधिकारः प्रतीयते – शुश्रूषुं हि जानश्रुतिम् आचार्यो रैक्वश् शूद्रेत्य् आमन्त्र्य तस्मै ब्रह्म-विद्याम् उपदिशति –
-> आजहारेमाश् शूद्र, अनेनैव मुखेनालापयिष्यथाः (छां.४.२.५)
-इत्यादिना। अतश् शूद्रस्याप्य् अधिकारस् सम्भवति॥
+<details><summary>English</summary>
+
+> The only works prerequisite for meditation are those works  
+which are incumbent on a man as a member of a caste or āśrama,  
+and these consist, in the Śūdra's case, in obedience to the higher castes. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+शास्त्रीयक्रियापेक्षत्वे ऽप्य् उपासनस्य तत्तद्-वर्णाश्रमोचित-क्रियाया एवापेक्षितत्वाच् छूद्रस्यापि स्व-वर्णोचित-पूर्व-वर्ण-शुश्रूषैव क्रिया भविष्यति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > तस्माच् छूद्रो यज्ञे ऽनवकॢप्तः (यजु.का.७.१.१.१) 
+>
+> इत्यप्य् अग्नि-विद्या-साध्य-यज्ञादि-कर्मानधिकार एव  
+न्याय-सिद्धो ऽनूद्यते।
+</details>
+
+<details><summary>English</summary>
+
+And when we read 
+
+> 'therefore the Śūdra is not qualified for sacrifices,' 
+
+the purport of this passage is only to make a confirmatory reference to something already settled by reason,  
+viz. that the Śūdra is not qualified for the performance of sacrifices  
+which cannot be accomplished by one not acquainted with the sacred fires  
+(and not to deny the Śūdra's competence for devout meditation).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्माच् छूद्रो यज्ञे ऽनवकॢप्तः (यजु.का.७.१.१.१) इत्यप्य् अग्नि-विद्या-साध्य-यज्ञादिकर्मानधिकार एव न्यायसिद्धो ऽनूद्यते।
+</details>
+
+
+
+### अश्रुत-वेद-वेदान्तस्यापि शूद्रस्य उपासनोपपत्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ननु अनधीत-वेदस्याश्रुत-वेदान्तस्य ब्रह्म-स्वरूप-तदुपासन-प्रकारानभिज्ञस्य कथं ब्रह्मोपासनं सम्भवति? 
+</details>
+
+<details><summary>English</summary>
+
+> > --But how can meditation on Brahman be undertaken by a man who has not studied the Vedas, inclusive of the Vedānta, and hence knows nothing about the nature of Brahman and the proper modes of meditation?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु अनधीत-वेदस्याश्रुत-वेदान्तस्य ब्रह्म-स्वरूप-तदुपासन-प्रकारानभिज्ञस्य कथं ब्रह्मोपासनं सम्भवति? 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उच्यते –  
+अनधीत-वेदस्याश्रुत-वेदान्त-वाक्यस्यापीतिहास-पुराण-श्रवणेनापि ब्रह्म-स्वरूप--तद्-उपासन-ज्ञानं सम्भवति। 
+</details>
+
+<details><summary>English</summary>
+
+> --Those also, we reply, who do not study Veda and Vedānta may acquire the requisite knowledge by hearing Itihāsas and Purāṇas; and there are texts which allow Sūdras to become acquainted with texts of that kind; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> उच्यते – अनधीत-वेदस्याश्रुत-वेदान्त-वाक्यस्यापीतिहास-पुराण-श्रवणेनापि ब्रह्म-स्वरूप-तदुपासन-ज्ञानं सम्भवति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अस्ति च शूद्रस्यापीतिहास-पुराण-श्रवणानुज्ञा
+>
+> > श्रावयेच् चतुरो वर्णान्  
+कृत्वा ब्राह्मणम् अग्रतः  
+(म.भा.शा.मो.३१४.४५)  
+> 
+> इत्य् आदौ। 
+</details>
+
+<details><summary>English</summary>
+
+> cp. e.g. 'one is to make the four castes to hear texts, the Brāhmaṇa coming first.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> अस्ति च शूद्रस्यापीतिहास-पुराण-श्रवणानुज्ञा
+>
+> > श्रावयेच् चतुरो वर्णान्  
+कृत्वा ब्राह्मणम् अग्रतः  
+(म.भा.शा.मो.३१४.४५)  
+> 
+> इत्य् आदौ। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> दृश्यन्ते चेतिहास-पुराणेषु विदुरादयो ब्रह्म-निष्ठाः। 
+</details>
+
+<details><summary>English</summary>
+
+> Moreover, those Purāṇas and Itihāsas make mention of Śūdras, such as Vidura, who had a knowledge of Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> दृश्यन्ते चेतिहास-पुराणेषु विदुरादयो ब्रह्म-निष्ठाः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तथोपनिषत्स्व् अपि  
+संवर्ग-विद्यायां शूद्रस्यापि ब्रह्म-विद्याधिकारः प्रतीयते – 
+</details>
+
+<details><summary>English</summary>
+
+And the Upanishads themselves, viz. in the so-called Saṁvarga-vidyā, show that a Śūdra is qualified for the knowledge of Brahman; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथोपनिषत्स्व् अपि संवर्ग-विद्यायां शूद्रस्यापि ब्रह्म-विद्याधिकारः प्रतीयते – 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> शुश्रूषुं हि जानश्रुतिम्  
+आचार्यो रैक्वश् शूद्रेत्य् आमन्त्र्य  
+तस्मै ब्रह्म-विद्याम् उपदिशति –
+</details>
+
+<details><summary>English</summary>
+
+for there the teacher Raikva addresses Jānaśruti, who wishes to learn from him, as Śūdra, and thereupon instructs him in the knowledge of Brahman (Cḥ. Up. IV, 2, 3). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> शुश्रूषुं हि जानश्रुतिम्  
+आचार्यो रैक्वश् शूद्रेत्य् आमन्त्र्य  
+तस्मै ब्रह्म-विद्याम् उपदिशति –
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > आजहारेमाश् शूद्र,  
+अनेनैव मुखेनालापयिष्यथाः (छां.४.२.५)
+> 
+> इत्य्-आदिना। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> आजहारेमाश् शूद्र,  
+अनेनैव मुखेनालापयिष्यथाः (छां.४.२.५)
+
+इत्य्-आदिना। 
+</details>
+ 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अतश् शूद्रस्याप्य् अधिकारस् सम्भवति॥
+</details>
+
+<details><summary>English</summary>
+
+> All this proves that Śūdras also have a claim to the knowledge of Brahman.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतश् शूद्रस्याप्य् अधिकारस् सम्भवति॥
+</details>
+
+
 
 ## सिद्धान्तारम्भः
 
-इति प्राप्ते, उच्यते– न शूद्रस्याधिकारस् सम्भवति, सामर्थ्याभावात्; न हि ब्रह्म-स्वरूप-तदुपासन–प्रकारम् अजानतः तदङ्गभूत-वेदानुवचन-यज्ञादिष्व् अनधिकृतस्य उपासनोपसंहार-सामर्थ्य-सम्भवः; असमर्थस्य चार्थित्व-सद्भावे ऽप्य् अधिकारो न सम्भवति; असामर्थ्यं च वेदाध्ययनाभावात्;
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति प्राप्ते, उच्यते– न शूद्रस्याधिकारस् सम्भवति, सामर्थ्याभावात्; 
+</details>
+
+<details><summary>English</summary>
+
+This conclusion we deny, on the ground of the absence of capability. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इति प्राप्ते, उच्यते– न शूद्रस्याधिकारस् सम्भवति, सामर्थ्याभावात्; 
+</details>
+
+न हि ब्रह्म-स्वरूप-तदुपासन–प्रकारम् अजानतः तदङ्गभूत-वेदानुवचन-यज्ञादिष्व् अनधिकृतस्य उपासनोपसंहार-सामर्थ्य-सम्भवः; असमर्थस्य चार्थित्व-सद्भावे ऽप्य् अधिकारो न सम्भवति; असामर्थ्यं च वेदाध्ययनाभावात्;
 
 ## कर्मानधिकारवदेव विद्यास्वनधिकारोऽपि
 
