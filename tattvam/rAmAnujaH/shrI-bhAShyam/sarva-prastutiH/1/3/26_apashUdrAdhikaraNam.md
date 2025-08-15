@@ -445,7 +445,7 @@ not to prepare them for meditation on Brahman.
 शूद्रस्येतिहास-पुराण-श्रवणानुज्ञानं पाप-क्षयादि-फलार्थम्; नोपासनार्थम्। 
 </details>
 
-### विदुरादिषु जन्मान्तर-फलम्
+## विदुरादिषु जन्मान्तर-फलम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विदुरादयस् तु भवान्तराधिगत-ज्ञानाप्रमोषात् ज्ञानवन्तः  
@@ -861,7 +861,7 @@ The former flamingo thereupon asks who that Raikva is,
 > तस्माच् चैत्ररथो नामैकः क्षत्रपतिर् अजायत (शतपथ.११.५.३.१३)
 इति; अतो ऽभिप्रतारिणश् चैत्ररथत्वं क्षत्रियत्वं च गम्यते॥३५॥
 
-## श्रुति-स्मृति-पर्युदासः
+## संस्कारापेक्षा श्रुतौ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1030,11 +1030,17 @@ and
  
 
 
-### उपदेशात् पूर्वं ब्राह्मणत्व-निर्णय-प्रवृत्ति-दर्शनं विद्यान्तरे
+### उपदेशात् पूर्वं ब्राह्मणत्व-निर्णयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> १०२. तद्-अभाव-निर्धारणे च प्रवृत्तेः ॥ १–३–३७ ॥
+> १०२. तद्+++(→ब्राह्मणत्व)+++-अभाव-निर्धारणे च प्रवृत्तेः ॥ १–३–३७ ॥
+</details>
+
+<details><summary>English</summary>
+
+> 37. And on account of the procedure,  
+on the ascertainment of the non-being of that.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1042,22 +1048,164 @@ and
 १०२. तदभावनिर्धारणे च प्रवृत्तेः ॥ १–३–३७ ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> नैतद् अब्राह्मणो विवक्तुम् अर्हति समिधं सोम्याहर (छां.४.४.५)
-इति शुश्रूषोर् जाबालस्य शूद्रत्वाभाव-निर्धारणे सत्य् एव विद्योपदेश-प्रवृत्तेश् च न शूद्रस्याधिकारः॥ ३७॥
+> नैतद् अब्राह्मणो विवक्तुम् अर्हति  
+समिधं सोम्याहर  
+(छां.४.४.५)
+</details>
+
+<details><summary>मूलम्</summary>
+
+> नैतद् अब्राह्मणो विवक्तुम् अर्हति  
+समिधं सोम्याहर  
+(छां.४.४.५)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति शुश्रूषोर् जाबालस्य  
+शूद्रत्वाभाव-निर्धारणे सत्य् एव विद्योपदेश-प्रवृत्तेश् च  
+न शूद्रस्याधिकारः॥ ३७॥
+</details>
+
+<details><summary>English</summary>
+
+That a Śūdra is not qualified for knowledge of Brahman  
+appears from that fact also that as soon as Gautama has convinced himself that Jābāla, who wishes to become his pupil, is not a Śūdra,  
+he proceeds to teach him the knowledge of Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इति शुश्रूषोर् जाबालस्य  
+शूद्रत्वाभाव-निर्धारणे सत्य् एव विद्योपदेश-प्रवृत्तेश् च  
+न शूद्रस्याधिकारः॥ ३७॥
+</details>
+
+
+## अध्ययनोपासन-निषेधः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> १०३ श्रवणाध्ययनार्थ-प्रतिषेधात् ॥ १–३–३८ ॥
+</details>
+
+<details><summary>English</summary>
+
+> 38. And on account of the prohibition of hearing, studying, and performance of (Vedic) matter.
+</details>
+
+<details><summary>मूलम्</summary>
 
 १०३ श्रवणाध्ययनार्थप्रतिषेधात् ॥ १–३–३८ ॥
+</details>
 
-## शूद्रे अध्ययनोपासननिषेधस्य श्रौतता
 
-शूद्रस्य वेद-श्रवण-तदध्ययन-तदर्थानुष्ठानानि प्रतिषिध्यन्ते
-> पद्यु ह वा एतच् छ्मशानं यच् छूद्रस् तस्माच् छूद्र-समीपे नाध्येतव्यम्,
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शूद्रस्य वेद-श्रवण--तद्-अध्ययन--तद्-अर्थानुष्ठानानि प्रतिषिध्यन्ते
+</details>
+
+<details><summary>English</summary>
+
+The Śūdra is specially forbidden to hear and study the Veda and to perform the things enjoined in it. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+शूद्रस्य वेद-श्रवण--तद्-अध्ययन--तद्-अर्थानुष्ठानानि प्रतिषिध्यन्ते
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पद्यु?? ह वा एतच् छ्मशानं यच् छूद्रस्  
+तस्माच् छूद्र-समीपे नाध्येतव्यम्,  
+</details>
+
+<details><summary>English</summary>
+
+> 'For a Śūdra is like a cemetery,  
+therefore the Veda must not be read in the vicinity of a Śūdra;' 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> पद्यु ह वा एतच् छ्मशानं यच् छूद्रस्  
+तस्माच् छूद्र-समीपे नाध्येतव्यम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 > तस्माच् छूद्रो बहु-पशुर् अयज्ञीयः
-इति। बहु-पशुः पशु-सदृश इत्यर्थः। अनुपशृण्वतो ऽध्ययन-तदर्थ-ज्ञान-तदर्थानुष्ठानानि न सम्भवन्ति; अतस् तान्य् अपि प्रतिषिद्धान्य् एव॥३८॥
+
+इति।  
+बहु-पशुः - पशु-सदृश इत्यर्थः। 
+</details>
+
+<details><summary>English</summary>
+
+> 'Therefore the Śūdra is like a beast, unfit for sacrifices.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> तस्माच् छूद्रो बहु-पशुर् अयज्ञीयः
+
+इति।  
+बहु-पशुः - पशु-सदृश इत्यर्थः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुपशृण्वतो ऽध्ययन--तद्-अर्थ-ज्ञान--तद्-अर्थानुष्ठानानि न सम्भवन्ति; 
+</details>
+
+<details><summary>English</summary>
+
+And he who does not hear the Veda recited  
+cannot learn it so as to understand and perform what the Veda enjoins. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनुपशृण्वतो ऽध्ययन-तदर्थ-ज्ञान-तदर्थानुष्ठानानि न सम्भवन्ति; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस् तान्य् अपि प्रतिषिद्धान्य् एव॥३८॥
+</details>
+
+<details><summary>English</summary>
+
+The prohibition of hearing thus implies the prohibition of understanding and whatever depends on it.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतस् तान्य् अपि प्रतिषिद्धान्य् एव॥३८॥
+</details>
+
+
+
+### उक्तार्थस्य स्मृतितः सिद्धिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 १०४. स्मृतेश्च ॥ १–३–३९ ॥
+</details>
 
-## उक्तार्थस्य स्मृतितः सिद्धिः
+<details><summary>मूलम्</summary>
+
+१०४. स्मृतेश्च ॥ १–३–३९ ॥
+</details>
+
 
 स्मर्यते च श्रवणादि-निषेधः
 > अथ हास्य वेदम् उपशृण्वतस् त्रपु-जतुभ्यां श्रोत्र-प्रतिपूरणम्, उदाहरणे जिह्वाच्छेदो धारणे शरीर-भेदः (गौत.ध.२.१२.३)
