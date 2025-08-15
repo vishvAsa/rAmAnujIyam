@@ -3538,7 +3538,7 @@ del **propósito** (de protección) que es evidente de los pramāṇas.
 
 इप्-पडि 
 
-> सन्नियोग-शिष्ट-न्यायत्ताले  
+> +++(अनेक-)+++सन्नियोग-शिष्ट+++(-उल्लेख)+++-न्यायत्ताले  
 ऎम्बॆरुमाऩैच् चॊल्लुम् इडम् ऎङ्गुम्  
 पिराट्टियैयुञ् जॊल्लिऱ्ऱ् आम् 
 
@@ -3574,12 +3574,158 @@ El otro también **debe considerarse** como **se indica** ”(Sanniyogasiṣṭa
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> ३२‘‘तद्-अन्तर्-भावात् त्वां न पृथग् अभिधत्ते श्रुतिर् अपि’’  
+(श्री-गुण-कोशः २८) 
 
+ऎऩ्ऱु समर्थित्तार्गळ्।
+</details>
+
+<details><summary>English</summary>
 
 Thus the ācāryas, too, have said,  
 
-“Since Thou(Lakṣmī) art ever inseparably connected with Thy Lord, even the Veda does not mention Thee separately." In all vidyās or forms of meditation (prescribed in the Upaniṣads) all qualities and attributes of Brahman which define His Nature are to be meditated upon (even though only one or two of them are actually mentioned in the particular Vidyā). Similarly this attribute, Namely, Lakṣmī, who is the most important of all attributes should also be borne in mind. It is this attribute (Lakṣmī) which rules out other deities, (for they are not related to Lakṣmī in that way) and defines Bhagavān's essential nature which is not dependent upon anything else, as having an excellence which surpasses everything else, His essential nature, form and glories, which do not arise from any other source, acquire even greater splendour from the essential nature, form and glories of Lakṣmī, who is His attribute, and shine thereby. This may be seen in the simile; "like radiance which cannot be separated from the sun." And this has been declared by the great sages who understood the nature and person of the Supreme Deity. So also in the word Nārāyaṇa in Tirumantra, Nārāyaṇa's relationship to His consort should be borne in mind. This relationship to the spouse is distinctly and explicitly stated in the Dvaya (Śrīmat - with Śrī). In Śrī Rāmānuja's elaboration of the Dvaya in his Gadya[^85] , it is true that, among the nārās in the words beginning with Bhagavān Nārāyaṇa (Nārānām + ayanam) Lakṣmī is included among the nāras by commentators. (From this it might be argued that she is also a jīva like other nāras). But this inclusion is only to indicate Her dependence on Her Lord and Nāras means etymologically only “those who are related to Nara" without the specification of the form of relationship. So from that, it should not be inferred that Lakṣmī is also a jīva.
+> “Since Thou(Lakṣmī) art ever inseparably connected with Thy Lord,  
+even the Veda does not mention Thee separately." 
+</details>
+
+<details><summary>Español</summary>
+
+Así, los ācāryas también **han dicho**,
+
+> "Desde que (lakṣmī) **estas** alguna vez **se conectó** inseparablemente con tu señor,  
+Incluso el Veda **no te menciona** por separado ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+३२‘‘तदन्तर्भावात्त्वां न पृथगभिधत्ते श्रुतिरपि’’(श्री-गुण-कोशः २८) ऎऩ्ऱु समर्थित्तार्गळ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् स्व-रूप--निरूपक-धर्मङ्गळ्  
+सर्व-विद्यैगळिलुम् वरुगिऱ कणक्किले  
+अवऱ्ऱिल् प्रधानम् आऩ इव् विशेषणमुम्  
+सर्व-विद्यैगळिलुम् अनुसन्धेयम्। 
+</details>
+
+<details><summary>English</summary>
+
+In all vidyās or forms of meditation (prescribed in the Upaniṣads)  
+all qualities and attributes of Brahman which define His Nature are to be meditated upon  
+(even though only one or two of them are actually mentioned in the particular Vidyā).  
+Similarly this attribute, Namely, Lakṣmī,  
+who is the most important of all attributes  
+should also be borne in mind.  
+</details>
+
+<details><summary>Español</summary>
+
+En todos los vidyās o formas de **meditación** (**prescribidas** en los Upaniṣads)  
+Todas las cualidades y atributos de Brahman que **definen** su naturaleza **deben ser meditadas**  
+(Aunque solo uno o dos de ellos **se mencionan** en el Vidyā particular).  
+Del mismo modo, este atributo, a saber, Lakṣmī,  
+Quién es el más importante de todos los atributos  
+También **debe tenerse** en **cuenta**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् स्वरूपनिरूपकधर्मङ्गळ् सर्वविद्यैकळिलुम् वरुगिऱ कणक्किले अवऱ्ऱिल् प्रधानमाऩ इव्विशेषणमुम् सर्वविद्यैकळिलुमनुसन्धेयम्। 
+</details>
+
+###### गुणेषु महत्त्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु ताऩ् देवतान्तर-व्यावृत्तियैयुम् पण्णिक् कॊण्डु  
+सर्वातिशायिय् आऩ स्व-तन्त्र--स्व-रूपत्तुक्कु निरूपकमाम्। 
+</details>
+
+<details><summary>English</summary>
+
+It is this attribute (Lakṣmī) which rules out other deities,  
+(for they are not related to Lakṣmī in that way)  
+and defines Bhagavān's essential nature which is not dependent upon anything else,  
+as having an excellence which surpasses everything else.  
+</details>
+
+<details><summary>Español</summary>
+
+Es este atributo (Lakṣmī) el que **descarta** otras deidades,  
+(Porque **no están relacionados** con Lakṣmī de esa manera)  
+y **define** la naturaleza esencial de Bhagavān  
+que **no depende** de nada más,  
+como **tener** una excelencia que supera todo lo demás. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु ताऩ् देवतान्तरव्यावृत्तियैयुम् पण्णिक्कॊण्डु सर्वातिशायियाऩ स्वतन्त्रस्वरूपत्तुक्कु निरूपकमाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩ्-उडैय स्वतस्-सिद्धातिशयङ्गळ् आऩ स्वरूप-विग्रह-विभूतिगळ्
+</details>
+
+<details><summary>English</summary>
+
+His essential nature, form and glories,  
+which do not arise from any other source,  
+</details>
+
+<details><summary>Español</summary>
+
+Su naturaleza esencial, forma y glorias,  
+que **no surgen** de ninguna otra fuente,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऩुडैय स्वतस्सिद्धातिशयङ्गळाऩ स्वरूप-विग्रहविभूतिकळ्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘भास्करेण प्रभा यथा’’  
+(रामायणम् सुन्दरकाण्डम् २१-१५) 
+
+ऎऩ्ऩुम्बडि 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘भास्करेण प्रभा यथा’’  
+(रामायणम् सुन्दरकाण्डम् २१-१५) 
+
+</details>
+
+<details><summary>English</summary>
+
+As may be seen in the simile; 
+
+> "like radiance which cannot be separated from the sun." 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se puede ver** en el símil;  
+
+> "Como el resplandor que **no se puede separar** del sol".</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘भास्करेण प्रभा यथा’’(रामायणम् सुन्दरकाण्डम् २१-१५) ऎऩ्ऩुम्बडि 
+</details>
+
+
+
+acquire even greater splendour from the essential nature, form and glories of Lakṣmī, who is His attribute, and shine thereby. And this has been declared by the great sages who understood the nature and person of the Supreme Deity. So also in the word Nārāyaṇa in Tirumantra, Nārāyaṇa's relationship to His consort should be borne in mind. This relationship to the spouse is distinctly and explicitly stated in the Dvaya (Śrīmat - with Śrī). In Śrī Rāmānuja's elaboration of the Dvaya in his Gadya[^85] , it is true that, among the nārās in the words beginning with Bhagavān Nārāyaṇa (Nārānām + ayanam) Lakṣmī is included among the nāras by commentators. (From this it might be argued that she is also a jīva like other nāras). But this inclusion is only to indicate Her dependence on Her Lord and Nāras means etymologically only “those who are related to Nara" without the specification of the form of relationship. So from that, it should not be inferred that Lakṣmī is also a jīva.
 
 [^85]: Śaraṇāgati Gadya.
 
