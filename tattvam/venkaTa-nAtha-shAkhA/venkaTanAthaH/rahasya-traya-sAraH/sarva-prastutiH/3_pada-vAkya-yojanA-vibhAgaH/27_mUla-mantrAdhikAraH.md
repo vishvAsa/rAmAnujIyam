@@ -3452,7 +3452,7 @@ que **no depende** de nada más.
 त्राणे स्वामित्वमौचित्यं न्यासाद्यास्सहकारिणः ।  प्रधानहेतुस्स्वातन्त्र्यविशिष्टा करुणा विभोः ॥
 </details>
 
-##### पत्नी-सहत्वम्
+#### पत्नी-सहत्वम् आर्थम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-रक्षण-दीक्षितऩ् आऩ्-अवऩ् 
@@ -3538,7 +3538,7 @@ del **propósito** (de protección) que es evidente de los pramāṇas.
 
 इप्-पडि 
 
-> सन्नियोग-शिष्ट-न्यायत्ताले  
+> +++(अनेक-)+++सन्नियोग-शिष्ट+++(-उल्लेख)+++-न्यायत्ताले  
 ऎम्बॆरुमाऩैच् चॊल्लुम् इडम् ऎङ्गुम्  
 पिराट्टियैयुञ् जॊल्लिऱ्ऱ् आम् 
 
@@ -3574,14 +3574,338 @@ El otro también **debe considerarse** como **se indica** ”(Sanniyogasiṣṭa
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> ३२‘‘तद्-अन्तर्-भावात् त्वां न पृथग् अभिधत्ते श्रुतिर् अपि’’  
+(श्री-गुण-कोशः २८) 
 
+ऎऩ्ऱु समर्थित्तार्गळ्।
+</details>
+
+<details><summary>English</summary>
 
 Thus the ācāryas, too, have said,  
 
-“Since Thou(Lakṣmī) art ever inseparably connected with Thy Lord, even the Veda does not mention Thee separately." In all vidyās or forms of meditation (prescribed in the Upaniṣads) all qualities and attributes of Brahman which define His Nature are to be meditated upon (even though only one or two of them are actually mentioned in the particular Vidyā). Similarly this attribute, Namely, Lakṣmī, who is the most important of all attributes should also be borne in mind. It is this attribute (Lakṣmī) which rules out other deities, (for they are not related to Lakṣmī in that way) and defines Bhagavān's essential nature which is not dependent upon anything else, as having an excellence which surpasses everything else, His essential nature, form and glories, which do not arise from any other source, acquire even greater splendour from the essential nature, form and glories of Lakṣmī, who is His attribute, and shine thereby. This may be seen in the simile; "like radiance which cannot be separated from the sun." And this has been declared by the great sages who understood the nature and person of the Supreme Deity. So also in the word Nārāyaṇa in Tirumantra, Nārāyaṇa's relationship to His consort should be borne in mind. This relationship to the spouse is distinctly and explicitly stated in the Dvaya (Śrīmat - with Śrī). In Śrī Rāmānuja's elaboration of the Dvaya in his Gadya[^85] , it is true that, among the nārās in the words beginning with Bhagavān Nārāyaṇa (Nārānām + ayanam) Lakṣmī is included among the nāras by commentators. (From this it might be argued that she is also a jīva like other nāras). But this inclusion is only to indicate Her dependence on Her Lord and Nāras means etymologically only “those who are related to Nara" without the specification of the form of relationship. So from that, it should not be inferred that Lakṣmī is also a jīva.
+> “Since Thou(Lakṣmī) art ever inseparably connected with Thy Lord,  
+even the Veda does not mention Thee separately." 
+</details>
 
-[^85]: Śaraṇāgati Gadya.
+<details><summary>Español</summary>
+
+Así, los ācāryas también **han dicho**,
+
+> "Desde que (lakṣmī) **estas** alguna vez **se conectó** inseparablemente con tu señor,  
+Incluso el Veda **no te menciona** por separado ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+३२‘‘तदन्तर्भावात्त्वां न पृथगभिधत्ते श्रुतिरपि’’(श्री-गुण-कोशः २८) ऎऩ्ऱु समर्थित्तार्गळ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् स्व-रूप--निरूपक-धर्मङ्गळ्  
+सर्व-विद्यैगळिलुम् वरुगिऱ कणक्किले  
+अवऱ्ऱिल् प्रधानम् आऩ इव् विशेषणमुम्  
+सर्व-विद्यैगळिलुम् अनुसन्धेयम्। 
+</details>
+
+<details><summary>English</summary>
+
+In all vidyās or forms of meditation (prescribed in the Upaniṣads)  
+all qualities and attributes of Brahman which define His Nature are to be meditated upon  
+(even though only one or two of them are actually mentioned in the particular Vidyā).  
+Similarly this attribute, Namely, Lakṣmī,  
+who is the most important of all attributes  
+should also be borne in mind.  
+</details>
+
+<details><summary>Español</summary>
+
+En todos los vidyās o formas de **meditación** (**prescribidas** en los Upaniṣads)  
+Todas las cualidades y atributos de Brahman que **definen** su naturaleza **deben ser meditadas**  
+(Aunque solo uno o dos de ellos **se mencionan** en el Vidyā particular).  
+Del mismo modo, este atributo, a saber, Lakṣmī,  
+Quién es el más importante de todos los atributos  
+También **debe tenerse** en **cuenta**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् स्वरूपनिरूपकधर्मङ्गळ् सर्वविद्यैकळिलुम् वरुगिऱ कणक्किले अवऱ्ऱिल् प्रधानमाऩ इव्विशेषणमुम् सर्वविद्यैकळिलुमनुसन्धेयम्। 
+</details>
+
+##### गुणेषु महत्त्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु ताऩ् देवतान्तर-व्यावृत्तियैयुम् पण्णिक् कॊण्डु  
+सर्वातिशायिय् आऩ स्व-तन्त्र--स्व-रूपत्तुक्कु निरूपकमाम्। 
+</details>
+
+<details><summary>English</summary>
+
+It is this attribute (Lakṣmī) which rules out other deities,  
+(for they are not related to Lakṣmī in that way)  
+and defines Bhagavān's essential nature which is not dependent upon anything else,  
+as having an excellence which surpasses everything else.  
+</details>
+
+<details><summary>Español</summary>
+
+Es este atributo (Lakṣmī) el que **descarta** otras deidades,  
+(Porque **no están relacionados** con Lakṣmī de esa manera)  
+y **define** la naturaleza esencial de Bhagavān  
+que **no depende** de nada más,  
+como **tener** una excelencia que supera todo lo demás. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु ताऩ् देवतान्तरव्यावृत्तियैयुम् पण्णिक्कॊण्डु सर्वातिशायियाऩ स्वतन्त्रस्वरूपत्तुक्कु निरूपकमाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩ्-उडैय स्वतस्-सिद्धातिशयङ्गळ् आऩ स्वरूप-विग्रह-विभूतिगळ्
+</details>
+
+<details><summary>English</summary>
+
+His essential nature, form and glories,  
+which do not arise from any other source,  
+</details>
+
+<details><summary>Español</summary>
+
+Su naturaleza esencial, forma y glorias,  
+que **no surgen** de ninguna otra fuente,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऩुडैय स्वतस्सिद्धातिशयङ्गळाऩ स्वरूप-विग्रहविभूतिकळ्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘भास्करेण प्रभा यथा’’  
+(रामायणम् सुन्दरकाण्डम् २१-१५) 
+
+ऎऩ्ऩुम्बडि 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘भास्करेण प्रभा यथा’’  
+(रामायणम् सुन्दरकाण्डम् २१-१५) 
+
+</details>
+
+<details><summary>English</summary>
+
+As may be seen in the simile; 
+
+> "like radiance which cannot be separated from the sun." 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se puede ver** en el símil;  
+
+> "Como el resplandor que **no se puede separar** del sol".</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘भास्करेण प्रभा यथा’’(रामायणम् सुन्दरकाण्डम् २१-१५) ऎऩ्ऩुम्बडि 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विशेषणम् आय् निऱ्किऱ इवळ्-उडैय स्व-रूप--विग्रह-विभूतिगळालुम्  
+लब्धातिशयङ्गळ् आय्क् कॊण्डु  
+विळङ्गिय् इरुक्कुम् ऎऩ्ऩुम् इडम्  
+देवता-पारमार्थ्य-वेदिगळ् आऩ महर्षिकळाले प्रपञ्चितम्।    
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+यथा ऽत्र - "श्रीमत्", "ह्रीश् च ते लक्ष्मीश् च पत्न्यौ"।
+</details>
+
+<details><summary>English</summary>
+
+acquire even greater splendour from the essential nature, form and glories of Lakṣmī,  
+who is His attribute,  
+and shine thereby.  
+And this has been declared by the great sages  
+who understood the nature and person of the Supreme Deity.
+</details>
+
+<details><summary>Español</summary>
+
+**adquirir** un esplendor aún mayor de la naturaleza esencial, la forma y las glorias de Lakṣmī,  
+quien **es** su atributo,  
+y **brillar** de ese modo.  
+Y esto **ha sido declarado** por los grandes sabios  
+quien **entendió** la naturaleza y la persona de la deidad suprema.
+</details>
+
+<details><summary>मूलम्</summary>
+
+विशेषणमाय् निऱ्किऱ इवळुडैय स्वरूपविग्रहविभूतिकळालुम् लब्धातिशयङ्गळाय्क्कॊण्डु विळङ्गियिरुक्कुमॆऩ्ऩुमिडम् देवतापारमार्थ्यवेदिगळाऩ महर्षिकळाले प्रपञ्चितम्। 
+</details>
+
+
+##### मन्त्रे स्थानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि नारायण-शब्दत्तिलुम् पत्नी-सम्बन्धम् अनुसन्धेयम्। 
+</details>
+
+<details><summary>English</summary>
+
+So also in the word Nārāyaṇa in Tirumantra,  
+Nārāyaṇa's relationship to His consort should be borne in mind. 
+</details>
+
+<details><summary>Español</summary>
+
+Así también en la palabra nārāyaṇa en tirumantra,  
+La relación de Nārāyaṇa con su consorte **debe tener** en cuenta.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि नारायणशब्दत्तिलुम् पत्नीसम्बन्धमनुसन्धेयम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् पत्नी-सम्बन्धम् द्वयत्तिले कण्ठोक्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+This relationship to the spouse is distinctly and explicitly stated in the Dvaya (Śrīmat - with Śrī). 
+</details>
+
+<details><summary>Español</summary>
+
+Esta relación con el cónyuge **se establece** clara y explícitamente en el dvaya (Śrīmat - con Śrī).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् पत्नीसम्बन्धम् द्वयत्तिले कण्ठोक्तम्। 
+</details>
+
+##### शरणागति-गद्ये ऽजीवता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वय-विवरणम् आऩ गद्यत्तिल्  
+प्रथमत्तिले ‘‘भगवन्नारायण’’ ऎऩ्ऱु तुडङ्गिच् चॊल्लच् चॆय्दे  
+नारवर्गत्तिऩ् नडुवेय् इवळैच् चॊल्लिऱ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+In Śrī Rāmānuja's elaboration of the Dvaya in his Gadya(Śaraṇāgati Gadya),  
+it is true that, among the nārās in the words beginning with Bhagavān Nārāyaṇa (Nārānām + ayanam)  
+Lakṣmī is included among the nāras by commentators. (From this it might be argued that she is also a jīva like other nāras). 
+</details>
+
+<details><summary>Español</summary>
+
+En la **elaboración** de Śrī Rāmānuja de la dvaya en su gadya (Śaraṇāgati Gadya),  
+Es cierto que, entre los nārās en las palabras que **comienzan** con bhagavān nārāyaṇa (nārānām + ayanam)  
+Lakṣmī **está incluido** entre los Nāras por los comentaristas.  
+(De esto **se podría argumentar** que ella también es un Jīva como otros nāras).
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्वयविवरणमाऩ गद्यत्तिल् प्रथमत्तिले ‘‘भगवन्नारायण’’ ऎऩ्ऱु तुडङ्गिच् चॊल्लच्चॆय्दे नारवर्गत्तिऩ् नडुवेय् इवळैच् चॊल्लिऱ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पत्नीत्व-निबन्धनम् आऩ पति-पारार्थ्यत्तालुम्
+</details>
+
+<details><summary>English</summary>
+
+But this inclusion is only to indicate Her dependence on Her Lord 
+</details>
+
+<details><summary>Español</summary>
+
+Pero esta **inclusión es** solo **indicar** su **dependencia** de su Señor
+</details>
+
+<details><summary>मूलम्</summary>
+
+पत्नीत्वनिबन्धनमाऩ पतिपारार्थ्यत्तालुम्
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नर-सम्बन्धिनो नाराः’’ 
+
+ऎऩ्गिऱ व्युत्पत्तियालुम् आगक् कडवदु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नर-सम्बन्धिनो नाराः’’ 
+</details>
+
+<details><summary>English</summary>
+
+and Nāras means etymologically only  
+“those who are related to Nara"  
+without the specification of the form of relationship. 
+</details>
+
+<details><summary>Español</summary>
+
+y nāras **significa** etimológicamente solo  
+"Aquellos que **están relacionados** con Nara"   
+sin la **especificación** de la forma de relación.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नरसम्बन्धिनो नाराः’’ ऎऩ्गिऱ व्युत्पत्तियालुमागक्कडवदु।
+</details>
+
+<details><summary>English</summary>
+
+(So from that, it should not be inferred that Lakṣmī is also a jīva.)
+</details>
+
+<details><summary>Español</summary>
+
+(Entonces, de eso, **no debe inferirse** que Lakṣmī también **es** un Jīva).
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु प्रथमाक्षरं चतुर्थ्येकवचनान्तमाय् विभक्तिलोपम् पिऱन्दु किडक्किऱदु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु प्रथमाक्षरम् चतुर्थ्येकवचनान्तमाय् विभक्तिलोपम् पिऱन्दु किडक्किऱदु। 
+</details>
+
+
+
 
 Here the first letter a is in the dative or fourth case singular, the (usual) dative singular suffix has been dropped. The reasons for holding that the a is in the dative singular (when no case - suffix is seen ) are as follows: (1) In the place which enjoins the surrender of the self to the Supreme Self (i.e.) the Taittirīya Upaniṣad, the praṇava is prescribed as the mantra (for doing so); (so it should mean 'to the Supreme Self (dative)', (2) the mantra should reveal the nature of the action to be performed, (3) the self to be surrendered is seen in the third letter (m) (in aum) and the Supreme Brahman for whom it is surrendered is seen in the base (prakṛti, viz. a) of the first letter; (4) the person to whom the surrender is made and the object which is surrendered should not be in the same case. Therefore the a (which is the first letter) should be considered to be in the case (i.e.) (dative) suited to the word indicating the person to whom the surrender is made. The view of perverse interpreters (Advaitins) that a and the m (in aum are in the same case (nominative or first case ) and indicate the identity in the essential nature of the jīva and the Supreme Self is opposed to many pramāṇas (like pratyakṣa and śabda); besides it would not fit in with the natural and obvious meaning of the word namo (namas) and the dative of the word Nārāyaṇa (i.e.) Nārāyaṇāya which are uttered along with the praṇava, This is obvious also from the text twhich distinguishes praṇava as the bow, the self as the arrow, Brahman as the target and the act of surrender as the hitting of the target (the arrow and the target cannot be identical). In the praṇava in Tirumantra, when the intention is the surrender of responsibility (bharasamarpaṇam), the dative or fourth case should be considered to have the same meaning as the dative in the praṇava considered as an independent mantra (i.e.) the person to whom the surrender is made. When the praṇava is interpreted as indicating the essential nature (svarūpa) of the self which consists in existing solely for the Supreme Self (i.e.) in being śeṣa, the dative signifies 'having another's interests alone as one's interestś. Therefore it reveals the relationship of śeṣa and śeṣī which exists between the jīva and the Paramātmā. We should then bear in mind that we are unconditional śeṣas (nirupādhika śeṣa) to the Supreme Self, who is the unconditional seshi (nirupādhika seshi).
 

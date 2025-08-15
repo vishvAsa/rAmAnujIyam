@@ -1201,50 +1201,564 @@ The prohibition of hearing thus implies the prohibition of understanding and wha
 १०४. स्मृतेश्च ॥ १–३–३९ ॥
 </details>
 
+<details><summary>English</summary>
+
+> 39. And on account of Smr̥ti.
+</details>
+
 <details><summary>मूलम्</summary>
 
 १०४. स्मृतेश्च ॥ १–३–३९ ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्मर्यते च श्रवणादि-निषेधः
+
+> अथ हास्य वेदम् उपशृण्वतस्  
+त्रपु-जतुभ्यां श्रोत्र-प्रतिपूरणम्,  
+उदाहरणे जिह्वाच्छेदो  
+धारणे शरीर-भेदः  
+(गौत.ध.२.१२.३)
+
+इति,
+</details>
+
+<details><summary>English</summary>
+
+Smr̥ti also declares this prohibition of hearing, and so on. 
+
+> 'The ears of him who hears the Veda are to be filled with molten lead and lac;  
+if he pronounces it his tongue is to be slit;  
+if he preserves it his body is to be cut through.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्मर्यते च श्रवणादि-निषेधः
+
 > अथ हास्य वेदम् उपशृण्वतस् त्रपु-जतुभ्यां श्रोत्र-प्रतिपूरणम्, उदाहरणे जिह्वाच्छेदो धारणे शरीर-भेदः (गौत.ध.२.१२.३)
 इति,
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न चास्योपदिशेद् धर्मं  
+न चास्य व्रतम् आदिशेत्  
+(मनु.४.८०)
+
+इति च; 
+</details>
+
+<details><summary>English</summary>
+
+And 
+
+> 'He is not to teach him sacred duties or vows.'
+</details>
+
+<details><summary>मूलम्</summary>
+
 > न चास्योपदिशेद् धर्मं न चास्य व्रतम् आदिशेत् (मनु.४.८०)
-इति च; अतश् शूद्रस्यानधिकार इति सिद्धम्॥३९॥
+इति च; 
+</details>
 
-## अस्याधिकरणस्य पराभिमतार्थविरुद्धता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये तु निर्विशेष-चिन्मात्रं ब्रह्मैव परमार्थः; अन्यत् सर्वं मिथ्याभूतम्; बन्धश् चापारमार्थिकः; स च वाक्य-जन्य-वस्तु-याथात्म्य-ज्ञान-मात्र-निवर्त्यः; तन्-निवृत्तिर् एव मोक्षः – इति वदन्ति; तैर् ब्रह्म-ज्ञाने शूद्रादेर् अनधिकारो वक्तुं न शक्यते; अनुपनीतस्य, अनधीत-वेदस्याश्रुत-वेदान्त-वाक्यस्यापि यस्मात् कस्माद् अपि निर्विशेष-चिन्मात्रं ब्रह्मैव परमार्थो ऽन्यत् सर्वं तस्मिन् परिकल्पितं मिथ्याभूतम् इति वाक्याद् वस्तु-याथात्म्य-ज्ञानोत्पत्तेः, तावतैव बन्ध-निवृत्तेश् च। न च तत्त्वमस्यादि-वाक्येनैव ज्ञानोत्पत्तिः कार्या न वाक्यान्तरेणेति नियन्तुं शक्यम्; ज्ञानस्यापुरुष-तन्त्रत्वात्, सत्यां सामग्र्याम् अनिच्छतो ऽपि ज्ञानोत्पत्तेः।
+अतश् शूद्रस्यानधिकार इति सिद्धम्॥३९॥
+</details>
 
-## वेदायत्तज्ञानस्यैव बन्धनिवर्तकत्वाशङ्का तत्परिहारश्च
+<details><summary>English</summary>
 
-न च वेद-वाक्याद् एव वस्तु-याथात्म्य-ज्ञाने सति बन्ध-निवृत्तिर् भवतीति शक्यं वक्तुम्, येन केनापि वस्तु-याथाम्य-ज्ञाने सति भ्रान्ति-निवृत्तेः; पौरुषेयाद् अपि निर्विशेष-चिन्मात्रं ब्रह्म परमार्थो ऽन्यत् सर्वं मिथ्याभूतम् इति वाक्याद् ज्ञानोत्पत्तेस् तावतैव भ्रम-निवृत्तेश् च। यथा पौरुषेयाद् अप्य् आप्त-वाक्याच् छुक्तिका-रजतादि-भ्रान्तिर् ब्राह्मणस्य शूद्रादेर् अपि निवर्तते, तद्वद् एव शूद्रस्यापि वेद-वित्-सम्प्रदायागत-वाक्याद् वस्तु-याथात्म्य-ज्ञानेन जगद्-भ्रम-निवृत्तिर् अपि भविष्यति ॥
+-- It is thus a settled matter that the Śūdras are not qualified for meditations on Brahman.
+</details>
 
-## वेदविद्भिः शूद्रस्य ज्ञानासम्भवशङ्का – तत्परिहारौ
+<details><summary>मूलम्</summary>
+
+अतश् शूद्रस्यानधिकार इति सिद्धम्॥३९॥
+</details>
+
+
+
+## शाङ्करासङ्गतिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ये तु -  
+
+> निर्विशेष-चिन्-मात्रं ब्रह्मैव परमार्थः;  
+
+</details>
+
+<details><summary>English</summary>
+
+those who hold that 
+
+> a Brahman consisting of pure non-differenced intelligence constitutes the sole reality; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ये तु -  
+
+> निर्विशेष-चिन्-मात्रं ब्रह्मैव परमार्थः;  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अन्यत् सर्वं मिथ्याभूतम्;  
+</details>
+
+<details><summary>English</summary>
+
+> that everything else is false; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यत् सर्वं मिथ्याभूतम्;  
+</details>
+ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> बन्धश् चापारमार्थिकः;  
+</details>
+
+<details><summary>English</summary>
+
+> that all bondage is unreal;
+</details>
+
+<details><summary>मूलम्</summary>
+
+बन्धश् चापारमार्थिकः;  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स च वाक्य-जन्य-वस्तु-याथात्म्य-ज्ञान-मात्र-निवर्त्यः; 
+</details>
+
+<details><summary>English</summary>
+
+> that such bondage may be put an end to by the mere cognition of the true nature of Reality--such cognition resulting from the hearing of certain texts; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> स च वाक्य-जन्य-वस्तु-याथात्म्य-ज्ञान-मात्र-निवर्त्यः; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तन्-निवृत्तिर् एव मोक्षः – 
+</details>
+
+<details><summary>English</summary>
+
+> and that the cessation of bondage thus effected constitutes final Release. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तन्-निवृत्तिर् एव मोक्षः – 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति वदन्ति;  
+तैर् ब्रह्म-ज्ञाने शूद्रादेर् अनधिकारो वक्तुं न शक्यते; 
+</details>
+
+<details><summary>English</summary>
+
+We must here point out that the non-qualification of Śūdras for the cognition of Brahman can in no way be asserted by (them).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इति वदन्ति;  
+तैर् ब्रह्म-ज्ञाने शूद्रादेर् अनधिकारो वक्तुं न शक्यते; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुपनीतस्य,  
+अनधीत-वेदस्याश्रुत-वेदान्त-वाक्यस्यापि  
+यस्मात् कस्माद् अपि 
+
+> निर्विशेष-चिन्मात्रं ब्रह्मैव परमार्थो  
+ऽन्यत् सर्वं तस्मिन् परिकल्पितं मिथ्याभूतम्  
+
+इति वाक्याद्  
+वस्तु-याथात्म्य-ज्ञानोत्पत्तेः, 
+</details>
+
+<details><summary>English</summary>
+
+For (the following) may be secured by any one who learns from another person -  
+
+knowledge of the true nature of Reality, in the sense indicated, that 
+
+> Brahman alone is real  
+and that everything else is falsely superimposed on Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनुपनीतस्य,  
+अनधीत-वेदस्याश्रुत-वेदान्त-वाक्यस्यापि  
+यस्मात् कस्माद् अपि 
+
+> निर्विशेष-चिन्मात्रं ब्रह्मैव परमार्थो  
+ऽन्यत् सर्वं तस्मिन् परिकल्पितं मिथ्याभूतम्  
+
+इति वाक्याद्  
+वस्तु-याथात्म्य-ज्ञानोत्पत्तेः, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तावतैव बन्ध-निवृत्तेश् च। 
+</details>
+
+<details><summary>English</summary>
+
+and the release resulting from it, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तावतैव बन्ध-निवृत्तेश् च। 
+</details>
+
+### वेद-वाक्यानपेक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च "तत् त्वम् अस्य्"-आदि-वाक्येनैव ज्ञानोत्पत्तिः कार्या  
+न वाक्यान्तरेणेति नियन्तुं शक्यम्; 
+</details>
+
+<details><summary>English</summary>
+
+That the cognition of such truth can be arrived at only on the basis of certain Vedic texts, such as 'Thou art that,' is a restriction which does not admit of proof; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च तत्त्वमस्यादि-वाक्येनैव ज्ञानोत्पत्तिः कार्या न वाक्यान्तरेणेति नियन्तुं शक्यम्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञानस्यापुरुष-तन्त्रत्वात्, 
+</details>
+
+<details><summary>English</summary>
+
+for knowledge of the truth does not depend on man's choice, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञानस्यापुरुष-तन्त्रत्वात्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्यां सामग्र्याम् अनिच्छतो ऽपि ज्ञानोत्पत्तेः।
+</details>
+
+<details><summary>English</summary>
+
+and at once springs up in the mind even of an unwilling man as soon as the conditions for such origination are present. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सत्यां सामग्र्याम् अनिच्छतो ऽपि ज्ञानोत्पत्तेः।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च 
+
+> वेद-वाक्याद् एव वस्तु-याथात्म्य-ज्ञाने सति  
+बन्ध-निवृत्तिर् भवति
+
+इति शक्यं वक्तुम्, 
+</details>
+
+<details><summary>English</summary>
+
+Nor can it be proved in any way that bondage can be put an end to  
+only through such knowledge of the truth as springs from Vedic texts;  
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च वेद-वाक्याद् एव वस्तु-याथात्म्य-ज्ञाने सति बन्ध-निवृत्तिर् भवतीति शक्यं वक्तुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+येन केनापि वस्तु-याथाम्य-ज्ञाने सति भ्रान्ति-निवृत्तेः; 
+</details>
+
+<details><summary>English</summary>
+
+for error comes to an end through the knowledge of the true nature of things, whatever agency may give rise to such knowledge. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+येन केनापि वस्तु-याथाम्य-ज्ञाने सति भ्रान्ति-निवृत्तेः; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पौरुषेयाद् अपि - 
+
+> निर्विशेष-चिन्मात्रं ब्रह्म परमार्थो  
+ऽन्यत् सर्वं मिथ्याभूतम् 
+
+इति वाक्याज् ज्ञानोत्पत्तेस्  
+तावतैव भ्रम-निवृत्तेश् च। 
+</details>
+
+<details><summary>English</summary>
+
+True knowledge, of the kind described,  
+will spring up in the mind of a man  
+as soon as he hears the non-scriptural declaration, 
+
+> 'Brahman, consisting of non-differenced intelligence, is the sole Reality;  
+everything else is false,' 
+
+and this will suffice to free him from error. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+पौरुषेयाद् अपि निर्विशेष-चिन्मात्रं ब्रह्म परमार्थो ऽन्यत् सर्वं मिथ्याभूतम् इति वाक्याद् ज्ञानोत्पत्तेस् तावतैव भ्रम-निवृत्तेश् च। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा पौरुषेयाद् अप्य् आप्त-वाक्याच्  
+छुक्तिका-रजतादि-भ्रान्तिर् ब्राह्मणस्य शूद्रादेर् अपि निवर्तते,  
+तद्वद् एव शूद्रस्यापि वेद-वित्-सम्प्रदायागत-वाक्याद्  
+वस्तु-याथात्म्य-ज्ञानेन जगद्-भ्रम-निवृत्तिर् अपि भविष्यति ॥
+</details>
+
+<details><summary>English</summary>
+
+When a competent and trustworthy person asserts that  
+what was mistaken for silver is merely a sparkling shell,  
+the error of a Śūdra no less than of a Brāhmaṇa comes to an end;  
+in the same way a Śūdra also will free himself from the great cosmic error  
+as soon as the knowledge of the true nature of things has arisen in his mind  
+through a statement resting on the traditional lore of men knowing the Veda. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा पौरुषेयाद् अप्य् आप्त-वाक्याच्  
+छुक्तिका-रजतादि-भ्रान्तिर् ब्राह्मणस्य शूद्रादेर् अपि निवर्तते,  
+तद्वद् एव शूद्रस्यापि वेद-वित्-सम्प्रदायागत-वाक्याद्  
+वस्तु-याथात्म्य-ज्ञानेन जगद्-भ्रम-निवृत्तिर् अपि भविष्यति ॥
+</details>
+
+
+### वेद-विद्भिः शूद्रस्य ज्ञानासम्भवशङ्का – तत्परिहारौ
 
 न चास्योपदिशेद् धर्मम् (मनु.४.८०) इत्यादिना वेद-विदश् शूद्रादिभ्यो न वदन्तीति च न शक्यं वक्तुम्, तत्त्वमस्यादि-वाक्यावगत-ब्रह्मात्म-भावानां वेद-शिरसि वर्तमानतया दग्धाखिलाधिकारत्वेन निषेध-शास्त्र-किङ्करत्वाभावात्, अतिक्रान्त-निषेधैर् वा कैश्चिद् उक्ताद् वाक्याच् छूद्रादेः ज्ञानम् उत्पद्यत एव।
 
-## पौरुषेयवाक्यात् बन्धहेतुभ्रमनिवृत्तिशङ्का – तत्परिहारौ
+### पौरुषेयवाक्यात् बन्धहेतुभ्रमनिवृत्तिशङ्का – तत्परिहारौ
 
 न च वाच्यं – शुक्तिकादौ रजतादि-भ्रम-निवृत्तिवत् पौरुषेय–वाक्य-जन्य-तत्त्व-ज्ञान-समनन्तरं शूद्रस्य जगद्-भ्रमो न निवर्तत इति; तत्त्वमस्यादि-वाक्य-श्रवण-समनन्तरं ब्राह्मणस्यापि जगद्-भ्रमानिवृत्तेः। निदिध्यासनेन द्वैत-वासनायां निरस्तायाम् एव तत्त्वमस्यादि-वाक्यं निवर्तक-ज्ञानम् उत्पादयतीति चेत् – पौरुषेयम् अपि वाक्यं शूद्रादेस् तथैवेति न कश्चिद् विशेषः।
 
 निदिध्यासनं हि नाम ब्रह्मात्मत्व-भावाभिधायि वाक्यं यद् अर्थ-प्रतिपादन-योग्यम्, तद्-अर्थ-भावना; सैव विपरीत-वासनां निवर्तयतीति दृष्टार्थत्वं निदिध्यासन-विधेर् ब्रूषे, वेदानुवचनादीन्य् अपि विविदिषोत्पत्ताव् एवोपयुज्यन्ते इति शूद्रस्यापि विविदिषायां जातायां पौरुषेय-वाक्यान् निदिध्यासनादिभिर् विपरीत-वासनायां निरस्तायां ज्ञानम् उत्पत्स्यते; तेनैवापारमार्थिको बन्धो निवर्तिष्यते।
 
-## मुखान्तरेण ज्ञानसम्भवप्रदर्शनतः पराभिप्रायनिरसनम्
+### मुखान्तरेण ज्ञानसम्भवप्रदर्शनतः पराभिप्रायनिरसनम्
 
 अथवा तर्कानुगृहीतात् प्रत्यक्षाद् अनुमानाच् च निर्विशेष-स्वप्रकाश-चिन्मात्र-प्रत्यग्-वस्तुनि अज्ञान-साक्षित्वं, तत्-कृत-विविध-विचित्र-ज्ञातृ-ज्ञेय-विकल्प-रूपं कृत्स्नं जगच् चाध्यस्तम् इति निश्चित्यैवम्भूत-परिशुद्ध-प्रत्यग्-वस्तुनि अनवरत-भावनया विपरीत-वासनां निरस्य तद् एव प्रत्यग्-वस्तु साक्षात्कृत्य शूद्रादयो ऽपि विमोक्ष्यन्त इति मिथ्याभूत-विचित्रैश्वर्य-विचित्र-सृष्ट्याद्यलौकिकानन्त–विशेषावलम्बिना वेदान्त-वाक्येन न किञ्चित् प्रयोजनम् इह दृश्यत इति शूद्रादीनाम् एव ब्रह्म-विद्यायाम् अधिकारस् सुशोभनः।
 
-## श्रुतिवैयर्थ्यरूपम् अनुपपत्त्यन्तरम्
+### श्रुतिवैयर्थ्यरूपम् अनुपपत्त्यन्तरम्
 
-अनेनैव न्यायेन ब्राह्मणादीनाम् अपि ब्रह्म-वेदन-सिद्धेर् उपनिषच् च तपस्विनी दत्त-जलाञ्जलिस् स्यात्।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## प्रकारान्तरेण श्रुतिजन्यज्ञानावश्यकत्वशङ्का तत्परिहारश्च
+अनेनैव न्यायेन  
+ब्राह्मणादीनाम् अपि ब्रह्म-वेदन-सिद्धेर्  
+उपनिषच् च तपस्विनी दत्त-जलाञ्जलिस् स्यात्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+And as the knowledge of Brahman may be reached in this way not only by Śūdras but also by Brāhmaṇas and members of the other higher castes, the poor Upanishad is practically defunct.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनेनैव न्यायेन  
+ब्राह्मणादीनाम् अपि ब्रह्म-वेदन-सिद्धेर्  
+उपनिषच् च तपस्विनी दत्त-जलाञ्जलिस् स्यात्।
+</details>
+
+
+### प्रकारान्तरेण श्रुतिजन्यज्ञानावश्यकत्वशङ्का तत्परिहारश्च
 
 न च वाच्यं नैसर्गिक-लोक-व्यवहारे भ्राम्यतो ऽस्य केनचिद् अयं लौकिक-व्यवहारो भ्रमः, परमार्थस् त्व् एवम् इति समर्पिते सत्य् एव प्रत्यक्षानुमान-वृत्त-बुभुत्सा जायत इति तत्-समर्पिका श्रुतिर् अप्य् आस्थेयेति; यतो भव-भय-भीतानां साङ्ख्यादय एव प्रत्यक्षानुमानाभ्यां वस्तु-निरूपणं कुर्वन्तः प्रत्यक्षानुमान-वृत्त-बुभुत्सां जनयन्ति; बुभुत्सायां च जातायां प्रत्यक्षानुमानाभ्याम् एव विविक्त-स्वभावाभ्यां नित्य-शुद्ध-स्वप्रकाशाद्वितीय-कूटस्थ-चैतन्यम् एव सत्, अन्यत् सर्वं तस्मिन्न् अध्यस्तम् इति सुविवेचम्। एवम्भूते स्व-प्रकाशे वस्तुनि श्रुति-समधिगम्यं विशेषान्तरं च नाभ्युपगम्यते; अध्यस्तातद्रूप-निवर्तिनी हि श्रुतिर् अपि त्वन्-मते। न च सत आत्मन आनन्द-रूपता-ज्ञानाय उपनिषद् आस्थेया, चिद्रूपताया एव सकलेतरातद्रूप-व्यावृत्ताया आनन्द-रूपत्वात्।
 
-## उपासनस्य वेदान्तविहितस्य मोक्षोपायत्ववादिना सर्वदोषाभावः
+## उपासनोपायत्वे न सर्वाधिकारः
 
-यस्य तु मोक्ष-साधनतया वेदान्त-वाक्यैर् विहितं ज्ञानम् उपासन-रूपम्, तच् च पर-ब्रह्म-भूत-परम-पुरुष-प्रीणनम्, तच् च शास्त्रैक-समधिगम्यम्, उपासन-शास्त्रं चोपनयनादि-संस्कृताधीत-स्वाध्याय-जनितं ज्ञानं विवेक-विमोकादि-साधनानुगृहीतम् एव स्वोपायतया स्वीकरोति, एवं रूपोपासन-प्रीतः पुरुषोत्तम उपासकं स्वाभाविक-आत्म-याथात्म्य-ज्ञान-दानेन कर्म-जनिताज्ञानं नाशयन् बन्धान् मोचयतीति पक्षः; तस्य यथोक्तया नीत्या शूद्रादेर् अनधिकार उपपद्यते॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यस्य तु -  
+
+> मोक्ष-साधनतया वेदान्त-वाक्यैर् विहितं ज्ञानम् उपासन-रूपम्, 
+</details>
+
+<details><summary>English</summary>
+
+There are, on the other hand, those who hold that 
+
+> the knowledge which the Vedānta-texts enjoin as the means of Release is of the nature of devout meditation; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यस्य तु मोक्ष-साधनतया वेदान्त-वाक्यैर् विहितं ज्ञानम् उपासन-रूपम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तच् च पर-ब्रह्म-भूत-परम-पुरुष-प्रीणनम्, 
+</details>
+
+<details><summary>English</summary>
+
+> that such meditation has the effect of winning the love of the supreme Spirit 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तच् च पर-ब्रह्म-भूत-परम-पुरुष-प्रीणनम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तच् च शास्त्रैक-समधिगम्यम्, 
+</details>
+
+<details><summary>English</summary>
+
+> and is to be learned from scripture only; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तच् च शास्त्रैक-समधिगम्यम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उपासन-शास्त्रं च  
+उपनयनादि-संस्कृताधीत-स्वाध्याय-जनितं ज्ञानं  
+विवेक-विमोकादि-साधनानुगृहीतम् एव  
+स्वो+++(क्तो)+++पायतया **स्वीकरोति**, 
+</details>
+
+<details><summary>English</summary>
+
+> that the injunctions of meditation refer to such knowledge  
+only as springs from the legitimate study of the Veda on the part of a man  
+duly purified by initiation and other ceremonies,  
+and is assisted by the seven means (see above, p. 17);  
+</details>
+
+<details><summary>मूलम्</summary>
+
+उपासन-शास्त्रं चोपनयनादि-संस्कृताधीत-स्वाध्याय-जनितं ज्ञानं विवेक-विमोकादि-साधनानुगृहीतम् एव स्वोपायतया स्वीकरोति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एवं रूपोपासन-प्रीतः पुरुषोत्तम  
+उपासकं स्वाभाविकात्म-याथात्म्य-ज्ञान-दानेन  
+कर्म-जनिताज्ञानं नाशयन्  
+बन्धान् मोचयति 
+
+इति पक्षः; 
+</details>
+
+<details><summary>English</summary>
+
+and that 
+
+> the supreme Person pleased by such meditation bestows on the devotee knowledge of his own true nature,  
+dissolves thereby the Nescience springing from works,  
+and thus releases him from bondage. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं रूपोपासन-प्रीतः पुरुषोत्तम  
+उपासकं स्वाभाविकात्म-याथात्म्य-ज्ञान-दानेन  
+कर्म-जनिताज्ञानं नाशयन्  
+बन्धान् मोचयति 
+
+इति पक्षः; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य यथोक्तया नीत्या शूद्रादेर् अनधिकार उपपद्यते॥
+</details>
+
+<details><summary>English</summary>
+
+And on this view the proof of the non-qualification of the Śūdra, as given in the preceding Sūtras, holds good.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्य यथोक्तया नीत्या शूद्रादेर् अनधिकार उपपद्यते॥
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **इति श्रीशारीरकमीमांसाभाष्ये अपशूद्राधिकरणम्॥**
+</details>
+
+<details><summary>English</summary>
+
+--Here terminates the adhikaraṇa of 'the exclusion of the Śūdras.'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**इति श्रीशारीरकमीमांसाभाष्ये अपशूद्राधिकरणम्॥**
+</details>
+ 
