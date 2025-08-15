@@ -3611,6 +3611,12 @@ Why should separation from such devotees be unendurable to the Lord (yad virahah
 विनाशं, तत् सत्यं मधु-मथन विज्ञापनम् इदम् ॥ ५७॥
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अयं तिरु-वाय्-मॊऴि 4-8 इति दशकस्यानुवादो ऽयम्। 
+</details>
+
+
 <details><summary>MS Rajajee (En)</summary>
 
 I shall not tolerate, even for a moment, any thing which is beyond the domain of Your service, be it this body, life or the happiness which is desired by all beings or soul or anything whatsoever. Let them all be destroyed into thousand bits. Oh, slayer of Madhu, this submission of mine is true.
