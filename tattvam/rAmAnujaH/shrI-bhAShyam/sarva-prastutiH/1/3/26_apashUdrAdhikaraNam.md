@@ -837,13 +837,13 @@ The former flamingo thereupon asks who that Raikva is,
 
 बहुदायी इति दान-पतित्वेन बहु-पाक्यः (छां.४.१.१) इत्यादिना सर्वत एवम् एतद् अन्नम् अत्स्यन्ति (छां.४.१.५) इत्य् अन्तेन बहुतर-पक्वान्न-प्रदायित्व-प्रतीतेः सह संजिहान एव क्षत्तारम् उवाच इति क्षत्तृ-प्रेषणाद् बहु-ग्राम-प्रदानाद् अवगत-जनपदाधिपत्याच् चास्य जानश्रुतेः क्षत्रियत्व-प्रतीतेश् च न चतुर्थ-वर्णत्वम् ॥३४॥
 
-## सूत्रसङ्गतिः
+### सूत्रसङ्गतिः
 
 तदेवम् उपक्रम-गताख्यायिकायां क्षत्रियत्व-प्रतीतिर् उक्ता; उपसंहार-गताख्यायिकायाम् अपि क्षत्रियत्वम् अस्य प्रतीयत इत्य् अत्राह–
 
 १००. उत्तरत्र चैत्ररथेन लिङ्गात् ॥ १–३–३५ ॥
 
-## क्षत्रियत्वस्थिरीकरणम्
+#### क्षत्रियत्वस्थिरीकरणम्
 
 अस्य जानश्रुतेर् उपदिश्यमानायाम् अस्याम् एव संवर्ग-विद्यायाम् उत्तरत्र कीर्त्यमानेनाभिप्रतारि-नाम्ना चैत्ररथेन क्षत्रियेणास्य क्षत्रियत्वं गम्यते। कथम्?
 > अथ ह शौनकं च कापेयम् अभिप्रतारिणं च काक्षसेनिं परिविष्यमाणौ ब्रह्मचारी बिभिक्षे (छा.४.३.५)
@@ -851,7 +851,7 @@ The former flamingo thereupon asks who that Raikva is,
 > ब्रह्मचारिन् न इदम् उपास्महे (छा.४.३.७)
 इत्य् अन्तेन कापेयाभिप्रतारिणोर् भिक्षमाणस्य ब्रह्मचारिणश् च संवर्ग-विद्या-सम्बन्धित्वं प्रतीयते। तेषु चाभिप्रतारी क्षत्रियः, इतराव् ब्राह्मणौ, अतो ऽस्यां विद्यायां ब्राह्मणस्य तदितरेषु च क्षत्रियस्यैवान्वयो दृश्यते; न शूद्रस्य। अतो ऽस्यां विद्यायाम् अन्विताद् रैक्वाद् ब्राह्मणाद् अन्यस्य जानश्रुतेर् अपि क्षत्रियत्वम् एव युक्तम्; न चतुर्थ-वर्णत्वम्।
 
-## उक्तार्थे आक्षेपः तत्परिहारश्च
+#### उक्तार्थे आक्षेपः तत्परिहारश्च
 
 नन्व् अस्मिन् प्रकरणे ऽभिप्रतारिणश् चैत्ररथत्वं क्षत्रियत्वं च न श्रुतम्; तत् कथम् अस्याभिप्रतारिणश् चैत्ररथत्वम्? कथं वा क्षत्रियत्वम्? तत्राह लिङ्गात् – इति।
 > अथ ह शौनकं च कापेयम् अभिप्रतारिणं च काक्षसेनिम् (छा.४.३.५)
@@ -861,27 +861,187 @@ The former flamingo thereupon asks who that Raikva is,
 > तस्माच् चैत्ररथो नामैकः क्षत्रपतिर् अजायत (शतपथ.११.५.३.१३)
 इति; अतो ऽभिप्रतारिणश् चैत्ररथत्वं क्षत्रियत्वं च गम्यते॥३५॥
 
-## सूत्रयोः सङ्गतिः
+## श्रुति-स्मृति-पर्युदासः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् एवं न्याय-विरोधिनि शूद्रस्याधिकारे लिङ्गं नोपलभ्यत इत्य् उक्तम्,
+</details>
+
+<details><summary>English</summary>
+
+So far the Sūtras have shown that there is no inferential mark to prove what is contradicted by reasoning, viz. the qualification of the Śūdras. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 तदेवं न्याय-विरोधिनि शूद्रस्याधिकारे लिङ्गं नोपलभ्यत इत्य् उक्तम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदानीं न्याय-सिद्धश् शूद्रस्यानधिकारश्  
+श्रुति-स्मृतिभिर् अनुगृह्यत  
+इत्य् आह –
+</details>
+
+<details><summary>English</summary>
+
+The next Sūtra declares that the non-qualification of the Śūdra proved by reasoning is confirmed by Scripture and Smr̥ti.
+</details>
+
+<details><summary>मूलम्</summary>
 
 इदानीं न्याय-सिद्धश् शूद्रस्यानधिकारश् श्रुति-स्मृतिभिर् अनुगृह्यत इत्य् आह –
+</details>
 
-१०१. संस्कारपरामर्शात्तदाभावाभिलापाच्च ॥ १–३–३६ ॥
 
-## उपनयनस्य त्रैवर्णिकतास्थापकत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> १०१. संस्कार-परामर्शात् तद्-अभावाभिलापाच् च ॥ १–३–३६ ॥
+</details>
+
+<details><summary>English</summary>
+
+> 36. On account of the reference to ceremonial purifications,  
+and on account of the declaration of their absence.
+</details>
+
+<details><summary>मूलम्</summary>
+
+> १०१. संस्कारपरामर्शात्तदभावाभिलापाच्च ॥ १–३–३६ ॥
+</details>
+
+
+
+### उपनयनस्य त्रैवर्णिकता-स्थापकत्वम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्म-विद्योपदेशेषूपनयन-संस्कारः परामृश्यते –
+</details>
+
+<details><summary>English</summary>
+
+In sections the purport of which is to give instruction about Brahman  
+the ceremony of initiation is referred to, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्म-विद्योपदेशेषूपनयन-संस्कारः परामृश्यते –
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 > उप त्वा नेष्ये (छा.४.४.५)
-> तं होपनिन्ये (आप.श्रौत)
-इत्यादिषु। शूद्रस्य चोपनयनादि-संस्काराभावो ऽभिलप्यते –
-> न शूद्रे पातकं किञ्चिन् न च संस्कारम् अर्हति (मनु.१०.१२.६),
-> चतुर्थो वर्ण एक-जातिर् न च संस्कारम् अर्हति (गौत.१०.अ.९)
+</details>
+
+<details><summary>English</summary>
+
+> 'I will initiate you;' (_Ch._ Up. IV, 4).
+</details>
+
+<details><summary>मूलम्</summary>
+
+> उप त्वा नेष्ये (छा.४.४.५)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तं होपनिन्ये (श. ब्रा. ११ । ५ । ३ । १३)
+
+इत्य्-आदिषु। 
+</details>
+
+<details><summary>English</summary>
+
+> he initiated him
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> तं होपनिन्ये (श. ब्रा. ११ । ५ । ३ । १३)
+
+इत्यादिषु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शूद्रस्य चोपनयनादि-संस्काराभावो ऽभिलप्यते –
+</details>
+
+<details><summary>English</summary>
+
+And at the same time the absence of such ceremonies in the case of Śūdras is stated: 
+</details>
+
+<details><summary>मूलम्</summary>
+
+शूद्रस्य चोपनयनादि-संस्काराभावो ऽभिलप्यते –
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न शूद्रे पातकं किञ्चिन्  
+न च संस्कारम् अर्हति (मनु.१०.१२.६),
+</details>
+
+<details><summary>English</summary>
+
+> 'In the Śūdra there is not any sin,  
+and he is not fit for any ceremony' (Manu X, 126); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> न शूद्रे पातकं किञ्चिन्  
+न च संस्कारम् अर्हति (मनु.१०.१२.६),
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> चतुर्थो वर्ण एक-जातिर्  
+न च संस्कारम् अर्हति (गौत.१०.अ.९)
+
+इत्य्-आदिषु ॥ ३६॥
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> 'The fourth caste is once born, and not fit for any ceremony' (Manu X, 4).
+</details>
+
+<details><summary>मूलम्</summary>
+
+> चतुर्थो वर्ण एक-जातिर्  
+न च संस्कारम् अर्हति (गौत.१०.अ.९)
+
 इत्यादिषु ॥ ३६॥
+</details>
+ 
+
+
+### उपदेशात् पूर्वं ब्राह्मणत्व-निर्णय-प्रवृत्ति-दर्शनं विद्यान्तरे
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> १०२. तदभावनिर्धारणे च प्रवृत्तेः ॥ १–३–३७ ॥
+</details>
+
+<details><summary>मूलम्</summary>
 
 १०२. तदभावनिर्धारणे च प्रवृत्तेः ॥ १–३–३७ ॥
+</details>
 
-## उपदेशात् पूर्वं ब्राह्मणत्वनिर्णयप्रवृत्तिदर्शनं विद्यान्तरे
 
 > नैतद् अब्राह्मणो विवक्तुम् अर्हति समिधं सोम्याहर (छां.४.४.५)
 इति शुश्रूषोर् जाबालस्य शूद्रत्वाभाव-निर्धारणे सत्य् एव विद्योपदेश-प्रवृत्तेश् च न शूद्रस्याधिकारः॥ ३७॥
