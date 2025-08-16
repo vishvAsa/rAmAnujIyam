@@ -3893,11 +3893,24 @@ sin la **especificación** de la forma de relación.
 (Entonces, de eso, **no debe inferirse** que Lakṣmī también **es** un Jīva).
 </details>
 
-
+#### चतुर्थी विभक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इङ्गु प्रथमाक्षरं चतुर्थ्येकवचनान्तमाय् विभक्तिलोपम् पिऱन्दु किडक्किऱदु। 
+इङ्गु प्रथमाक्षरं चतुर्थ्य्-एक-वचनान्तम् आय् विभक्ति-लोपम् पिऱन्दु किडक्किऱदु। 
 </details>
+
+<details><summary>English</summary>
+
+Here the first letter a is in the dative or fourth case singular,  
+the (usual) dative singular suffix has been dropped. 
+</details>
+
+<details><summary>Español</summary>
+
+Aquí la primera letra A **está** en el dativo o cuarto caso singular,  
+El sufijo singular dativo (habitual) **ha sido eliminado**.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -3905,9 +3918,99 @@ sin la **especificación** de la forma de relación.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद् ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+
+परमात्मावुक्कु स्वात्मावै समर्पिक्क विधिक्किऱव् इडत्तिले  
+प्रणवत्तै मन्त्रम् आग विधिक्कैयालुम्
+</details>
+
+<details><summary>English</summary>
+
+The reasons for holding that the "a" is in the dative singular (when no case - suffix is seen ) are as follows:  
+(1) In the place which enjoins the surrender of the self to the Supreme Self (i.e.) the Taittirīya Upaniṣad,  
+the praṇava is prescribed as the mantra (for doing so);  
+(so it should mean 'to the Supreme Self (dative)'), 
+</details>
+
+<details><summary>Español</summary>
+
+Las razones para **sostener** que el "A" **está** en el dativo singular (cuando no se ve el sufijo) **son** las siguientes:  
+(1) En el lugar que ordena la **rendición** del yo al Ser Supremo (es decir) el Taittirīya Upaniṣad,  
+El praṇava **se prescribe** como el mantra (por hacerlo);  
+(Entonces **debería significar** 'para el yo supremo (dativo)'),
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदॆङ्ङऩेयॆऩ्ऩिल्; परमात्मावुक्कु स्वात्मावै समर्पिक्क विधिक्किऱ विडत्तिले प्रणवत्तै मन्त्रमाग विधिक्कैयालुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कु अनुष्ठेयार्थ-प्रकाशनम् प्राप्तमागैयालुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(2) the mantra should reveal the nature of the action to be performed, 
+</details>
+
+<details><summary>Español</summary>
+
+(2) El mantra **debería revelar** la naturaleza de la acción que **se realizará**,
+</details>
 
 
-Here the first letter a is in the dative or fourth case singular, the (usual) dative singular suffix has been dropped. The reasons for holding that the a is in the dative singular (when no case - suffix is seen ) are as follows: (1) In the place which enjoins the surrender of the self to the Supreme Self (i.e.) the Taittirīya Upaniṣad, the praṇava is prescribed as the mantra (for doing so); (so it should mean 'to the Supreme Self (dative)', (2) the mantra should reveal the nature of the action to be performed, (3) the self to be surrendered is seen in the third letter (m) (in aum) and the Supreme Brahman for whom it is surrendered is seen in the base (prakṛti, viz. a) of the first letter; (4) the person to whom the surrender is made and the object which is surrendered should not be in the same case. Therefore the a (which is the first letter) should be considered to be in the case (i.e.) (dative) suited to the word indicating the person to whom the surrender is made. The view of perverse interpreters (Advaitins) that a and the m (in aum are in the same case (nominative or first case ) and indicate the identity in the essential nature of the jīva and the Supreme Self is opposed to many pramāṇas (like pratyakṣa and śabda); besides it would not fit in with the natural and obvious meaning of the word namo (namas) and the dative of the word Nārāyaṇa (i.e.) Nārāyaṇāya which are uttered along with the praṇava, This is obvious also from the text twhich distinguishes praṇava as the bow, the self as the arrow, Brahman as the target and the act of surrender as the hitting of the target (the arrow and the target cannot be identical). In the praṇava in Tirumantra, when the intention is the surrender of responsibility (bharasamarpaṇam), the dative or fourth case should be considered to have the same meaning as the dative in the praṇava considered as an independent mantra (i.e.) the person to whom the surrender is made. When the praṇava is interpreted as indicating the essential nature (svarūpa) of the self which consists in existing solely for the Supreme Self (i.e.) in being śeṣa, the dative signifies 'having another's interests alone as one's interestś. Therefore it reveals the relationship of śeṣa and śeṣī which exists between the jīva and the Paramātmā. We should then bear in mind that we are unconditional śeṣas (nirupādhika śeṣa) to the Supreme Self, who is the unconditional seshi (nirupādhika seshi).
+<details><summary>मूलम्</summary>
+
+इदुक्कु अनुष्ठेयार्थप्रकाशनम् प्राप्तमागैयालुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् समर्पणीयऩ् आऩव् आत्मा तृतीयाक्षरत्तिले प्रकाशिक्कैयालुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(3) the self to be surrendered is seen in the third letter (m) (in aum)  
+</details>
+
+<details><summary>Español</summary>
+
+(3) El yo que **se entregará se ve** en la tercera letra (m) (en Aum) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् समर्पणीयऩाऩवात्मा तृतीयाक्षरत्तिले प्रकाशिक्कैयालुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्क् उद्देश्यमाऩ परब्-रह्मम् प्रथमाक्षरत्तिल् प्रकृतियाले तोऱ्ऱुगैयालुम्, 
+</details>
+<details><summary>English</summary>
+
+and the Supreme Brahman for whom it is surrendered is seen in the base (prakṛti, viz. a) of the first letter;
+</details>
+
+<details><summary>Español</summary>
+
+y el Supremo Brahman para quien **se entrega se ve** en la base (Prakṛti, a saber, a) de la primera letra;
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदुक्कुद्देश्यमाऩ परब्रह्मम् प्रथमाक्षरत्तिल् प्रकृतियाले तोऱ्ऱुगैयालुम्, 
+</details>
+
+
+
+(4) the person to whom the surrender is made and the object which is surrendered should not be in the same case. Therefore the a (which is the first letter) should be considered to be in the case (i.e.) (dative) suited to the word indicating the person to whom the surrender is made. The view of perverse interpreters (Advaitins) that a and the m (in aum are in the same case (nominative or first case ) and indicate the identity in the essential nature of the jīva and the Supreme Self is opposed to many pramāṇas (like pratyakṣa and śabda); besides it would not fit in with the natural and obvious meaning of the word namo (namas) and the dative of the word Nārāyaṇa (i.e.) Nārāyaṇāya which are uttered along with the praṇava, This is obvious also from the text twhich distinguishes praṇava as the bow, the self as the arrow, Brahman as the target and the act of surrender as the hitting of the target (the arrow and the target cannot be identical). In the praṇava in Tirumantra, when the intention is the surrender of responsibility (bharasamarpaṇam), the dative or fourth case should be considered to have the same meaning as the dative in the praṇava considered as an independent mantra (i.e.) the person to whom the surrender is made. When the praṇava is interpreted as indicating the essential nature (svarūpa) of the self which consists in existing solely for the Supreme Self (i.e.) in being śeṣa, the dative signifies 'having another's interests alone as one's interestś. Therefore it reveals the relationship of śeṣa and śeṣī which exists between the jīva and the Paramātmā. We should then bear in mind that we are unconditional śeṣas (nirupādhika śeṣa) to the Supreme Self, who is the unconditional seshi (nirupādhika seshi).
 
 When the Lord who is the Supreme Ruler says, “You are my śeṣa" and pursues him, the jīva, owing to his egoism, tries to wriggle out saying, “ I exist only for myself." Therefore the thought that we are śeṣas to the Supreme Ruler will give (spiritual) existence to the jīva, who is otherwise, as it were, (spiritually) non-existent. To indicate the importance of this thought that we are śeṣas), the relationship to the śeṣī (for a) is declared even before the mention of the śeṣa (namely m the jīva).
 
