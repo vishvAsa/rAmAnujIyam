@@ -4005,7 +4005,7 @@ y el Supremo Brahman para quien **se entrega se ve** en la base (Prakṛti, a sa
 
 <details><summary>मूलम्</summary>
 
-इदुक्कुद्देश्यमाऩ परब्रह्मम् प्रथमाक्षरत्तिल् प्रकृतियाले तोऱ्ऱुगै यालुम्, 
+इदुक्कुद्देश्यमाऩ परब्रह्मम् प्रथमाक्षरत्तिल् प्रकृतियाले तोऱ्ऱुगैयालुम्, 
 </details>
 
 
