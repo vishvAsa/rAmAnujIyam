@@ -4008,6 +4008,15 @@ y el Supremo Brahman para quien **se entrega se ve** en la base (Prakṛti, a sa
 इदुक्कुद्देश्यमाऩ परब्रह्मम् प्रथमाक्षरत्तिल् प्रकृतियाले तोऱ्ऱुगैयालुम्, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उद्देश्य-कारकत्तैयुम् समर्पणीयवस्तुवैयुम् समानाधिकरित्तुप् प्रयोगिक्कै उचितमल्लामैयालुम् 
+</details>
+
+<details><summary>मूलम्</summary>
+
+उद्देश्यकारकत्तैयुम् समर्पणीयवस्तुवैयुम् समानाधिकरित्तुप् प्रयोगिक्कै उचितमल्लामैयालुम् 
+</details>
 
 
 (4) the person to whom the surrender is made and the object which is surrendered should not be in the same case. Therefore the a (which is the first letter) should be considered to be in the case (i.e.) (dative) suited to the word indicating the person to whom the surrender is made. The view of perverse interpreters (Advaitins) that a and the m (in aum are in the same case (nominative or first case ) and indicate the identity in the essential nature of the jīva and the Supreme Self is opposed to many pramāṇas (like pratyakṣa and śabda); besides it would not fit in with the natural and obvious meaning of the word namo (namas) and the dative of the word Nārāyaṇa (i.e.) Nārāyaṇāya which are uttered along with the praṇava, This is obvious also from the text twhich distinguishes praṇava as the bow, the self as the arrow, Brahman as the target and the act of surrender as the hitting of the target (the arrow and the target cannot be identical). In the praṇava in Tirumantra, when the intention is the surrender of responsibility (bharasamarpaṇam), the dative or fourth case should be considered to have the same meaning as the dative in the praṇava considered as an independent mantra (i.e.) the person to whom the surrender is made. When the praṇava is interpreted as indicating the essential nature (svarūpa) of the self which consists in existing solely for the Supreme Self (i.e.) in being śeṣa, the dative signifies 'having another's interests alone as one's interestś. Therefore it reveals the relationship of śeṣa and śeṣī which exists between the jīva and the Paramātmā. We should then bear in mind that we are unconditional śeṣas (nirupādhika śeṣa) to the Supreme Self, who is the unconditional seshi (nirupādhika seshi).
