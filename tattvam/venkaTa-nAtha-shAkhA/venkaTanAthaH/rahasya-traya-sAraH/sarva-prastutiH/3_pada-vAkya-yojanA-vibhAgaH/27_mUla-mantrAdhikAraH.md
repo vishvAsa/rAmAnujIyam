@@ -4246,9 +4246,22 @@ Cuando el Señor que **es** el gobernante supremo **dice**: "**Eres** mi Śeṣa
 ‘‘त्वं मे’’ ऎऩ्ऱु स्वामियाऩ सर्वेश्वरऩ् तुडर्न्दु पिडित्तालुम्
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘अहं मे’’ ऎऩ्ऱु  
+तिमिऱप् पण्णुम् अहङ्-कार-विशेषत्ताले  
+असत्-कल्पऩ् आऩव् इज्-जीवात्मावै  
+शेषत्वानुसन्धानम् उज्जीविप्पिक्किऱद् आगैयाले 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अहं मे’’ ऎऩ्ऱु तिमिऱप्पण्णुमहङ्कारविशेषत्ताले असत्कल्पऩाऩव् इज्जीवात्मावै शेषत्वानुसन्धानमुज्जीविप्पिक्किऱदागैयाले 
+</details>
 
 
-the jīva, owing to his egoism, tries to wriggle out saying, “ I exist only for myself." Therefore the thought that we are śeṣas to the Supreme Ruler will give (spiritual) existence to the jīva, who is otherwise, as it were, (spiritually) non-existent. To indicate the importance of this thought that we are śeṣas), the relationship to the śeṣī (for a) is declared even before the mention of the śeṣa (namely m the jīva).
+the jīva, owing to his egoism,  
+tries to wriggle out saying, “ I exist only for myself." Therefore the thought that we are śeṣas to the Supreme Ruler will give (spiritual) existence to the jīva, who is otherwise, as it were, (spiritually) non-existent. To indicate the importance of this thought that we are śeṣas), the relationship to the śeṣī (for a) is declared even before the mention of the śeṣa (namely m the jīva).
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
