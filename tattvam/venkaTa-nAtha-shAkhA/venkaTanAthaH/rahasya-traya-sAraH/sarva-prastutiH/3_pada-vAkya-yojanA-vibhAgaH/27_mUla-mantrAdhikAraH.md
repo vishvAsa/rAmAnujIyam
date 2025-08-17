@@ -3893,7 +3893,7 @@ sin la **especificación** de la forma de relación.
 (Entonces, de eso, **no debe inferirse** que Lakṣmī también **es** un Jīva).
 </details>
 
-#### चतुर्थी विभक्तिः
+#### चतुर्थी-विभक्त्य्-ऊहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गु प्रथमाक्षरं चतुर्थ्य्-एक-वचनान्तम् आय् विभक्ति-लोपम् पिऱन्दु किडक्किऱदु। 
@@ -4033,10 +4033,235 @@ y el objeto que **se entrega**
 उद्देश्यकारकत्तैयुम् समर्पणीयवस्तुवैयुम् समानाधिकरित्तुप् प्रयोगिक्कै उचितमल्लामैयालुम् 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Therefore the a (which is the first letter) should be considered to be in the case (i.e.) (dative) suited to the word indicating the person to whom the surrender is made. The view of perverse interpreters (Advaitins) that a and the m (in aum are in the same case (nominative or first case ) and indicate the identity in the essential nature of the jīva and the Supreme Self is opposed to many pramāṇas (like pratyakṣa and śabda); besides it would not fit in with the natural and obvious meaning of the word namo (namas) and the dative of the word Nārāyaṇa (i.e.) Nārāyaṇāya which are uttered along with the praṇava, This is obvious also from the text twhich distinguishes praṇava as the bow, the self as the arrow, Brahman as the target and the act of surrender as the hitting of the target (the arrow and the target cannot be identical). In the praṇava in Tirumantra, when the intention is the surrender of responsibility (bharasamarpaṇam), the dative or fourth case should be considered to have the same meaning as the dative in the praṇava considered as an independent mantra (i.e.) the person to whom the surrender is made. When the praṇava is interpreted as indicating the essential nature (svarūpa) of the self which consists in existing solely for the Supreme Self (i.e.) in being śeṣa, the dative signifies 'having another's interests alone as one's interestś. Therefore it reveals the relationship of śeṣa and śeṣī which exists between the jīva and the Paramātmā. We should then bear in mind that we are unconditional śeṣas (nirupādhika śeṣa) to the Supreme Self, who is the unconditional seshi (nirupādhika seshi).
+उद्देश्य-कारकत्तुक्क् अनुरूपम् आऩ चतुर्थी-विभक्तियै  
+इव्व् इडत्तिले कॊळ्ळप् प्राप्तम्।
+</details>
 
-When the Lord who is the Supreme Ruler says, “You are my śeṣa" and pursues him, the jīva, owing to his egoism, tries to wriggle out saying, “ I exist only for myself." Therefore the thought that we are śeṣas to the Supreme Ruler will give (spiritual) existence to the jīva, who is otherwise, as it were, (spiritually) non-existent. To indicate the importance of this thought that we are śeṣas), the relationship to the śeṣī (for a) is declared even before the mention of the śeṣa (namely m the jīva).
+<details><summary>English</summary>
+
+Therefore the a (which is the first letter)  
+should be considered to be in the case (i.e.) (dative)  
+suited to the word indicating the person to whom the surrender is made. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, el "A" (que es la primera letra)  
+**debe considerarse** en el caso (es decir) (dativo)  
+**adecuado** para la palabra que **indica** a la persona a la que **se hace** la **rendición**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उद्देश्यकारकत्तुक्कनुरूपमाऩ चतुर्थीविभक्तियै इव्विडत्तिले कॊळ्ळप् प्राप्तम्।
+</details>
+
+#### न जीव-ब्रह्मैक्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रथम-तृतीयाक्षरङ्गळै समानाधिकरणङ्गळ् आगक् कॊण्डु  
+जीव-परमात्माक्कळ्-उडैय स्व-रूपैक्यम्  
+इङ्गे सॊल्लप् पडुगिऱद् 
+
+ऎऩ्ऩुम् कुदृष्टि-पक्षत्तुक्कु
+</details>
+
+<details><summary>English</summary>
+
+The view of perverse interpreters (Advaitins) that  
+"a" and the "m" (in aum are in the same case (nominative or first case ))  
+and indicate the identity in the essential nature of the jīva and the Supreme Self 
+</details>
+
+<details><summary>Español</summary>
+
+La **visión** de los **intérpretes** perversos (advaitins) que  
+"A" y el "M" (en AUM **están** en el mismo caso (nominativo o primer caso))  
+e **indique** la identidad en la naturaleza esencial de Jīva y el ser supremo
+</details>s
+
+<details><summary>मूलम्</summary>
+
+प्रथमतृतीयाक्षरङ्गळै समानाधिकरणङ्गळागक् कॊण्डु जीवपरमात्माक्कळुडैय स्वरूपैक्यमिङ्गे सॊल्लप्पडुगिऱदॆऩ्ऩुम् कुदृष्टिपक्षत्तुक्कु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बहु-प्रमाण-विरोधमुम्  
+समभिव्याहृत-नमश्-शब्द-- नारायण-शब्द-चतुर्थिगळ्-उडैय स्व-रसार्थ-विरोधमुम् वरुम्। 
+</details>
+
+<details><summary>English</summary>
+
+is opposed to many pramāṇas (like pratyakṣa and śabda);  
+besides it would not fit in with the natural and obvious meaning of the word namo (namas)  
+and the dative of the word Nārāyaṇa  
+(i.e.) Nārāyaṇāya which are uttered along with the praṇava.
+</details>
+
+<details><summary>Español</summary>
+
+**se opone** a muchos pramāṇas (como Pratyakṣa y Śabda);  
+Además, **no encajaría** con el significado natural y obvio de la palabra namo (namas)  
+y el dativo de la palabra nārāyaṇa  
+(es decir) Nārāyaṇāya que **se pronuncian** junto con la praṇava.
+</details>
+
+<details><summary>मूलम्</summary>
+
+बहुप्रमाणविरोधमुम् समभिव्याहृतनमश्शब्द नारायणशब्द-चतुर्थिकळुडैय स्वरसार्थविरोधमुम् वरुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु प्रणवत्तै धनुस्स् आगवुम्  
+आत्मावै शरम् आगवुम्  
+ब्रह्मत्तै इलक्क्+++(=लक्ष्यम्)+++ आगवुम्  
+आत्म-समर्पणत्तै लक्ष्य-वेधम् आगवुम्  
+वगुत्तुच्+++(=विभज्य)+++ चॊल्लुगिऱ वाक्यत्तालुम् सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+This is obvious also from the text which distinguishes  
+praṇava as the bow,  
+the self as the arrow,  
+Brahman as the target  
+and the act of surrender as the hitting of the target  
+(the arrow and the target cannot be identical). 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **es obvio** también del texto que distingue  
+praṇava como el arco,  
+el yo como la flecha,  
+Brahman como objetivo  
+y el **acto** de **rendirse** como el **golpe** del objetivo  
+(La flecha y el objetivo **no pueden ser** idénticos).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु प्रणवत्तै धनुस्सागवुम् आत्मावै शरमागवुम् ब्रह्मत्तै इलक्कागवुम् आत्मसमर्पणत्तै लक्ष्यवेधमागवुम् वगुत्तुच् चॊल्लुगिऱ वाक्यत्तालुम् सिद्धम्। 
+</details>
+
+
+### चतुर्था अर्थः
+#### भर-समर्पण-प्रतिद्वन्द्वी
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु भर-समर्पणम् पॊरुळ् आम् बोदु  
+स्व-तन्त्र-प्रणवत्तिऱ् कण्ड चतुर्थियिऱ् पडिये  
++++("नारायणाय"→)+++ इच्-चतुर्थिक्कुम् अर्थम् आगक् कडवदु। 
+</details>
+
+<details><summary>English</summary>
+
+In the praṇava in Tirumantra,  
+when the intention is the surrender of responsibility (bharasamarpaṇam),  
+the dative or fourth case should be considered to have the same meaning  
+as the dative in the praṇava considered as an independent mantra  
+(i.e.) the person to whom the surrender is made. 
+</details>
+
+<details><summary>Español</summary>
+
+En el praṇava en Tirumantra,  
+Cuando la **intención es** la **rendición** de la responsabilidad (Bharasamarpaṇam),  
+**Se debe considerar** que el dativo o cuarto caso **tiene** el mismo significado  
+Como el dativo en el praṇava **considerado** como un mantra independiente  
+(**es decir**) la persona a la que **se hace** la **rendición**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु भरसमर्पणम् पॊरुळाम्बोदु स्वतन्त्रप्रणवत्तिऱ्कण्ड चतुर्थियिऱ्पडिये इच् चतुर्थिक्कु मर्थमागक्कडवदु। 
+</details>
+
+#### स्वरूप-निरूपणे तादर्थ्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु प्रणवम् पर-शेषतैक-रस--स्व-रूप- प्रतिपादन-परम् आऩ पॊरुळिल्  
+इच् चतुर्थि तादर्थ्यत्तै विवक्षिक्कैयाले  
+आत्म-परमात्माक्कळ्-उडैय शेष-शेषि-भावम् प्रकाश्यम् आगैयाल्  
+निरुपाधिक-सर्व-शेषिय् आऩ ईश्वरऩैप् पऱ्ऱ्  
+अत्ताऩ्+++(=आत्मा??)+++ निरुपाधिक-शेषम् आऩ बडि  
+अनुसन्धेयम्।
+</details>
+
+<details><summary>English</summary>
+
+When the praṇava is interpreted as indicating the essential nature (svarūpa) of the self  
+which consists in existing solely for the Supreme Self (i.e.) in being śeṣa,  
+the dative signifies  
+having another's interests alone as one's interests.  
+Therefore it reveals the relationship of śeṣa and śeṣī  
+which exists between the jīva and the Paramātmā.  
+We should then bear in mind that we are unconditional śeṣas (nirupādhika śeṣa) to the Supreme Self,  
+who is the unconditional seshi (nirupādhika seshi).
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el praṇava **se interpreta** como **indicando** la naturaleza esencial (svarūpa) del yo  
+que **consiste** en **existir** únicamente para el ser supremo (es decir) en ser Śeṣa,  
+el dativo **significa**  
+**tener** los intereses de otro solo como intereses de uno.  
+Por lo tanto, **revela** la **relación** de Śeṣa y Śeṣī  
+que **existe** entre el Jīva y el Paramātmā.  
+Entonces **debemos tener** en **cuenta** que **somos** Śeṣas incondicionales (Nirupādhika Śeṣa) al Ser Supremo,  
+quien **es** el incondicional Seshi (Nirupādhika Seshi).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु प्रणवम् परशेषतैकरसस्वरूपप्रतिपादनपरमाऩ पॊरुळिल्इच् चतुर्थितादर्थ्यत्तै विवक्षिक्कैयाले आत्मपरमात्माक्कळुडैय शेषशेषिभावम् प्रकाश्यमागैयाल् निरुपाधिकसर्वशेषियाऩ ईश्वरऩैप्पऱ्ऱत्ताऩ् निरुपाधिकशेषमाऩबडि अनुसन्धेयम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘त्वं मे’’ ऎऩ्ऱु स्वामिय् आऩ सर्वेश्वरऩ् तुडर्न्दु+++(=अनुसृत्य)+++ पिडित्तालुम्
+</details>
+
+<details><summary>English</summary>
+
+When the Lord who is the Supreme Ruler says, “You are my śeṣa" and pursues him, 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el Señor que **es** el gobernante supremo **dice**: "**Eres** mi Śeṣa" y lo **persigue**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘त्वं मे’’ ऎऩ्ऱु स्वामियाऩ सर्वेश्वरऩ् तुडर्न्दु पिडित्तालुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘अहं मे’’ ऎऩ्ऱु  
+तिमिऱप् पण्णुम् अहङ्-कार-विशेषत्ताले  
+असत्-कल्पऩ् आऩव् इज्-जीवात्मावै  
+शेषत्वानुसन्धानम् उज्जीविप्पिक्किऱद् आगैयाले 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अहं मे’’ ऎऩ्ऱु तिमिऱप्पण्णुमहङ्कारविशेषत्ताले असत्कल्पऩाऩव् इज्जीवात्मावै शेषत्वानुसन्धानमुज्जीविप्पिक्किऱदागैयाले 
+</details>
+
+
+the jīva, owing to his egoism,  
+tries to wriggle out saying, “ I exist only for myself." Therefore the thought that we are śeṣas to the Supreme Ruler will give (spiritual) existence to the jīva, who is otherwise, as it were, (spiritually) non-existent. To indicate the importance of this thought that we are śeṣas), the relationship to the śeṣī (for a) is declared even before the mention of the śeṣa (namely m the jīva).
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
