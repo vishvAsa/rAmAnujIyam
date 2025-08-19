@@ -4224,7 +4224,7 @@ quien **es** el incondicional Seshi (Nirupādhika Seshi).
 इङ्गु प्रणवम् परशेषतैकरसस्वरूपप्रतिपादनपरमाऩ पॊरुळिल्इच् चतुर्थितादर्थ्यत्तै विवक्षिक्कैयाले आत्मपरमात्माक्कळुडैय शेषशेषिभावम् प्रकाश्यमागैयाल् निरुपाधिकसर्वशेषियाऩ ईश्वरऩैप्पऱ्ऱत्ताऩ् निरुपाधिकशेषमाऩबडि अनुसन्धेयम्।
 </details>
 
-
+### शेषि-प्राधान्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘‘त्वं मे’’ ऎऩ्ऱु स्वामिय् आऩ सर्वेश्वरऩ् तुडर्न्दु+++(=अनुसृत्य)+++ पिडित्तालुम्
@@ -4249,9 +4249,31 @@ Cuando el Señor que **es** el gobernante supremo **dice**: "**Eres** mi Śeṣa
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘‘अहं मे’’ ऎऩ्ऱु  
-तिमिऱप् पण्णुम् अहङ्-कार-विशेषत्ताले  
+तिमिऱप्+++(=अपसर्पणं)+++ पण्णुम् अहङ्-कार-विशेषत्ताले  
 असत्-कल्पऩ् आऩव् इज्-जीवात्मावै  
+
 शेषत्वानुसन्धानम् उज्जीविप्पिक्किऱद् आगैयाले 
+</details>
+
+<details><summary>English</summary>
+
+the jīva, owing to his egoism,  
+tries to wriggle out saying,  
+“ I exist only for myself."  
+Therefore the thought that we are śeṣas to the Supreme Ruler  
+will give (spiritual) existence to the jīva,  
+who is otherwise, as it were, (spiritually) non-existent. 
+</details>
+
+<details><summary>Español</summary>
+
+el Jīva, debido a su egoísmo,  
+**intenta retirarse diciendo**  
+"Existo solo para mí".  
+Por lo tanto, el **pensamiento** de que  
+**somos** Śeṣas para el **gobernante** supremo  
+**dará existencia** (espiritual) al Jīva,  
+quien **es** de otro modo, por así decirlo, (espiritualmente) **inexistente**.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4259,23 +4281,197 @@ Cuando el Señor que **es** el gobernante supremo **dice**: "**Eres** mi Śeṣa
 ‘‘अहं मे’’ ऎऩ्ऱु तिमिऱप्पण्णुमहङ्कारविशेषत्ताले असत्कल्पऩाऩव् इज्जीवात्मावै शेषत्वानुसन्धानमुज्जीविप्पिक्किऱदागैयाले 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-the jīva, owing to his egoism,  
-tries to wriggle out saying, “ I exist only for myself." Therefore the thought that we are śeṣas to the Supreme Ruler will give (spiritual) existence to the jīva, who is otherwise, as it were, (spiritually) non-existent. To indicate the importance of this thought that we are śeṣas), the relationship to the śeṣī (for a) is declared even before the mention of the śeṣa (namely m the jīva).
+इदिऩ् प्रधान्यन् दोऱ्ऱुगैक्क् आग  
+धर्मिक्कु मुऩ्ऩे  
+शेषियोडे सम्बन्धत्तैच् चॊल्लिऱ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+To indicate the importance of this thought  
+(that we are śeṣas),  
+the relationship to the śeṣī (for "a") is declared  
+even before the mention of the śeṣa (namely "m" the jīva).
+</details>
+
+<details><summary>Español</summary>
+
+Para **indicar** la importancia de este **pensamiento**  
+(Que **somos** Śeṣas),  
+La relación con el śeṣī (para "a") **se declara**  
+Incluso antes de la **mención** del Śeṣa (a saber, "M" el Jīva).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदिऩ् प्रधान्यन्दोऱ्ऱुगैक्काग धर्मिक्कु मुऩ्ऩेशेषियोडे सम्बन्धत्तैच् चॊल्लिऱ्ऱु।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-॥ निश्चिते परशेषत्वे शेषं संपरिपूर्यते । अनिश्चिते पुनस्तस्मिन्नन्यत्सर्वमसत्समम् ॥
+**निश्चिते** पर-शेषत्वे  
+शेषं +++(शम-दमादि)+++ **संपरिपूर्यते** ।  
+**अनिश्चिते** पुनस् तस्मिन्न्  
+अन्यत् सर्वम् अ-सत्-समम् ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+**निश्चिते** पर-शेषत्वे  
+शेषं +++(शम-दमादि)+++ **संपरिपूर्यते** ।  
+**अनिश्चिते** पुनस् तस्मिन्न्  
+अन्यत् सर्वम् अ-सत्-समम् ॥
+</details>
+
+<details><summary>English</summary>
+
+When the relationship of our being śeṣas to the Supreme Being is well established in the mind,  
+the other requisities (for spiritual life) such as self-control and serenity (sama and dama) follow easily as being necessary to it.  
+When that thought is not established in the mind,  
+all the rest serve no purpose  
+and are, as it were, non-existent.
+</details>
+
+<details><summary>Español</summary>
+
+Cuando la relación de nuestro **ser** Śeṣas con el **ser** supremo **está** bien **establecida** en la mente,  
+Las otras solicitudes (para la **vida** espiritual) como el autocontrol y la serenidad (Sama y Dama) **siguen** fácilmente como **necesarios** para ello.  
+Cuando ese **pensamiento no se establece** en la mente,  
+Todo el resto **no tiene** ningún propósito  
+y **son**, por así decirlo, inexistentes.
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-॥ निश्चिते परशेषत्वे शेषं संपरिपूर्यते । अनिश्चिते पुनस्तस्मिन्नन्यत्सर्वमसत्समम् ॥
+निश्चिते परशेषत्वे शेषं संपरिपूर्यते । अनिश्चिते पुनस्तस्मिन्नन्यत्सर्वमसत्समम् ॥
 </details>
 
-When the relationship of our being śeṣas to the Supreme Being is well established in the mind, the other requisities (for spiritual life) such as self-control and serenity (sama and dama) follow easily as being necessary to it. When that thought is not established in the mind, all the rest serve no purpose and are, as it were, non-existent.
+### स-पत्नीत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-When Iśvara is the śeṣī of all, He is always (to be thought of as) with His Consort, for it has been said, “The two kinds of glory (nityavibhūti and līlā - vibhūti) are śeṣa to me and to her, O Brahma and this is declared in the Vedānta and in my śāstras (pañcarātra āgamas)." So also it is said "Being seshi is single and it rests with two (Bhagavān and Lakṣmī).” In the Agnisho miya sacrifice, the deity (to whom the havis or offering is made) is not Agni alone not Soma alone; the deity of the sacrifice (which is single) is Agni and Soma. So also in this offering of the self, the deity to whom the offering is intended is both (Bhagavān and Lakṣmī). In order to reveal this, it was said “Being śeṣī is single and it rests with two". When we consider the [^86] text[^87]
+इप्-पडि ईश्वरऩ् सर्व-शेषिय् आम् बोदु
+</details>
+
+<details><summary>English</summary>
+
+When Iśvara is the śeṣī of all, 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando Iśvara **es** el śeṣī de todos,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि ईश्वरऩ् सर्वशेषियाम्बोदु
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ३४‘‘अस्या मम च शेषं हि  
+विभूतिर् उभयात्मिका ।  
+इति श्रुति-शिरस्-**सिद्धं**  
+मच्-छास्त्रेष्व् अपि मानद॥’’  
+(विष्वक्सेन संहिता) 
+
+ऎऩ्ऱुम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ३४‘‘अस्या मम च शेषं हि  
+विभूतिर् उभयात्मिका ।  
+इति श्रुति-शिरस्-**सिद्धं**  
+मच्-छास्त्रेष्व् अपि मानद॥’’  
+(विष्वक्सेन संहिता) 
+
+</details>
+ 
+<details><summary>English</summary>
+
+for it has been said, 
+
+> “The two kinds of glory (nityavibhūti and līlā - vibhūti) are śeṣa to me and to her, O Brahma  
+and this is declared in the Vedānta  
+and in my śāstras (pañcarātra āgamas)." 
+</details>
+
+<details><summary>Español</summary>
+
+porque **se ha dicho**
+
+> “Los dos tipos de gloria (nityavibhūti y līlā - vibhūti) **son** Śeṣa para mí y para ella, oh Brahma  
+y esto **se declara** en el Vedānta  
+y en mis Śāstras (Pañcarātra āgamas) ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+३४‘‘अस्या मम च शेषं हि विभूतिरुभयात्मिका । इति श्रुतिशिरस्सिद्धं मच्छास्त्रेष्वपि मानद’’(विष्वक्सेन संहिता) ऎऩ्ऱुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ३५‘‘उभयाधिष्ठानञ् चैकं शेषित्वं’’() 
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ३५‘‘उभयाधिष्ठानञ् चैकं शेषित्वं’’() 
+</details>
+
+<details><summary>English</summary>
+
+As also it is said 
+
+> "Being seshi is single  
+and it rests with two (Bhagavān and Lakṣmī).” 
+</details>
+
+<details><summary>Español</summary>
+
+Como también **se dice**
+
+> "**Ser** Seshi **es** soltero  
+y **descansa** con dos (Bhagavān y Lakṣmī) ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+३५‘‘उभयाधिष्ठानञ्चैकं शेषित्वं’’() ऎऩ्ऱुञ् जॊल्लुगिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स-पत्नीकऩ् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+He is always (to be thought of as) with His Consort. 
+</details>
+
+<details><summary>Español</summary>
+
+Él siempre **está** (para **ser considerado** como) con su consorte.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सपत्नीकऩायिरुक्कुम्। 
+</details>
+
+
+
+
+In the Agnishomiya sacrifice, the deity (to whom the havis or offering is made) is not Agni alone not Soma alone; the deity of the sacrifice (which is single) is Agni and Soma. So also in this offering of the self, the deity to whom the offering is intended is both (Bhagavān and Lakṣmī). In order to reveal this, it was said “Being śeṣī is single and it rests with two". When we consider the [^86] text[^87]
 
 [^86]: Kaṭha text: By the letter a is denoted Viṣṇu, the ruler of all the worlds, and Lakṣmī who is supported by Viṣṇu is denoted by the letter u; the m indicates that the jīva is their servant. This is the definition of praṇava.
 
