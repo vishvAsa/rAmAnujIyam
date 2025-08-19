@@ -4349,6 +4349,7 @@ y **son**, por así decirlo, inexistentes.
 </details>
 
 ### स-पत्नीत्वम्
+#### अर्थतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि ईश्वरऩ् सर्व-शेषिय् आम् बोदु
@@ -4468,24 +4469,388 @@ He is always (to be thought of as) with His Consort.
 सपत्नीकऩायिरुक्कुम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अग्नी-षोमीयादिगळिऱ् पोले  
+आत्म-हविर्-उद्देश्य-देवतात्वम् इरुवर्क्कुम् कूडव् 
+
+ऎऩ्ऱु तोऱ्ऱुगैक्क् आग  
+शेषिगळ् इरुवर् आय् इरुक्क  
+
+> शेषित्वम् एकम् 
+
+ऎऩ्गिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+In the Agnishomiya sacrifice, the deity (to whom the havis or offering is made) is not Agni alone, not Soma alone;  
+the deity of the sacrifice (which is single) is Agni and Soma.  
+So also in this offering of the self,  
+the deity to whom the offering is intended is both (Bhagavān and Lakṣmī).  
+
+In order to reveal this, it was said 
+
+> “Being śeṣī is single  
+and it rests with two". 
+</details>
+
+<details><summary>Español</summary>
+
+En el **sacrificio** de Agnishomiya, la deidad (a quien **se hace** el havis **u ofrenda**) **no está** solo agni, ni soma sola;  
+La deidad del **sacrificio** (que **es** soltera) **es** Agni y Soma.  
+Así también en esta **oferta** del yo  
+La deidad a quien **se pretende** la **ofrenda** es tanto (Bhagavān y Lakṣmī).
+
+Para **revelar** esto, **se dijo**
+
+> “Ser Śeṣī **es** soltero  
+y **descansa** con dos ".
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-In the Agnishomiya sacrifice, the deity (to whom the havis or offering is made) is not Agni alone not Soma alone; the deity of the sacrifice (which is single) is Agni and Soma. So also in this offering of the self, the deity to whom the offering is intended is both (Bhagavān and Lakṣmī). In order to reveal this, it was said “Being śeṣī is single and it rests with two". When we consider the [^86] text[^87]
+अग्नीषोमीयादिगळिऱ्पोले आत्महविरुद्देश्यदेवतात्वमिरुवर्क्कुम् कूडवॆऩ्ऱु तोऱ्ऱुगैक्काग शेषिकळिरुवरायिरुक्क शेषित्वमेगमॆऩ्गिऱदु। 
+</details>
 
-[^86]: Kaṭha text: By the letter a is denoted Viṣṇu, the ruler of all the worlds, and Lakṣmī who is supported by Viṣṇu is denoted by the letter u; the m indicates that the jīva is their servant. This is the definition of praṇava.
+#### उकारतः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-in the Kaṭha śruti, it becomes clear from the words themselves that the self is śeṣa to both. To be śeṣa is to serve the purposes of another without the primary desire to gain something for oneself.
+मध्यमाक्षरत्तै लक्ष्मी-वाचकम् आगच् चॊल्लुगिऱ कठ-श्रुति-वाक्यत्तैप् परामर्शित्ताल्  
 
-[^87]: vide page 
+> इरुवरैयुम् पऱ्ऱ इव्व् आत्मा शेषम् 
 
-The author of Śrī Bhāṣya has explained it as follows:-“ He is the śeṣa whose essential nature (svarūpa) has, for its sole interest, the promotion of the glory or excellence of another; the other is the śeṣī." The genitive dual case ending which is indicated by the Kaṭha śruti (their servant) is elliptical. The genitive or sixth case, which ordinarily indicates relationship in general, extends here to the special relationship of being śeṣa to śeṣī which is understood from the pramāṇas. Or it may be considered that in order to make clear the relationship of existing only for them', (viz. Bhagavān and Lakṣmī), the dative dual termination is present, though in ellipsis. If we take this view, the śruti which says "the servant of both" explains the meaning of the elliptical dative dual.
+ऎऩ्ऩुम् इडम् शाब्दम्।
+</details>
 
-If we take this interpretation that the u refers to Lakṣmī and that the self is śeṣa to both (Bhagavān and Lakṣmī) the ‘only’ formerly stated to be the meaning of u (in a u m) is not given by the word itself but is suggested by the context. It comes to this that this self (the jīva) is the unconditioned śeṣa to both Bhagavān and Lakṣmī and to no other.
+<details><summary>English</summary>
+
+When we consider the text in the Kaṭha śruti,  
+it becomes clear from the words themselves  
+that the self is śeṣa to both.  
+
+(Kaṭha text:  
+By the letter a is denoted Viṣṇu, the ruler of all the worlds,  
+and Lakṣmī who is supported by Viṣṇu is denoted by the letter u;  
+the "m" indicates that the jīva is their servant.  
+This is the definition of praṇava.)
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **consideramos** el texto en el Kaṭha śruti,  
+**queda claro** por las palabras mismas    
+que el yo **es** Śeṣa para ambos.  
+
+(Texto de Kaṭha:  
+Por la letra "A" **se denota** Viṣṇu, el **gobernante** de todos los mundos,  
+y Lakṣmī, **apoyado** por Viṣṇu, **se denota** por la letra "u";
+El "M" **indica** que el Jīva **es** su **sirviente**.  
+Esta **es** la **definición** de praṇava.)
+</details>
+
+<details><summary>मूलम्</summary>
+
+मध्यमाक्षरत्तैलक्ष्मीवाचकमागच्चॊल्लुगिऱ कठश्रुतिवाक्यत्तैप् परामर्शित्ताल् इरुवरैयुम् पऱ्ऱ इव्वात्मा शेषमॆऩ्ऩुमिडम् शाब्दम्।
+</details>
+
+### शेषि-शेष-भावः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शेषत्वम् आवदु  
+तऩक्क् ऒरुव् उपकारत्तै प्रधानम् आगप् पऱ्ऱव् अऩ्ऱिक्के  
+परोपकारार्हम् आगै। 
+</details>
+
+<details><summary>English</summary>
+
+To be śeṣa is to serve the purposes of another  
+without the primary desire to gain something for oneself.
+</details>
+
+<details><summary>Español</summary>
+
+**Ser** śeṣa **es servir** a los **propósitos** de otro  
+sin el deseo principal de **ganar** algo para uno mismo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शेषत्वमावदु तऩक्कॊरु वुपकारत्तै प्रधानमागप् पऱ्ऱवऩ्ऱिक्के परोपकारार्हमागै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्तै 
+
+> ३६‘‘पर-गतातिशयाधानेच्छयोपादेयत्वम् एव यस्य स्वरूपं  
+स शेषः, परश् शेषी॥’’ 
+(वेदार्थ-सङ्ग्रहः) 
+
+ऎऩ्ऱु भाष्य-कारर् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ३६‘‘पर-गतातिशयाधानेच्छयोपादेयत्वम् एव यस्य स्वरूपं  
+स शेषः, परश् शेषी॥’’ 
+(वेदार्थ-सङ्ग्रहः) 
+
+</details>
+
+
+<details><summary>English</summary>
+
+The author of Śrī Bhāṣya has explained it as follows:-
+
+> “ He is the śeṣa  
+whose essential nature (svarūpa) has, for its sole interest, the promotion of the glory or excellence of another;  
+the other is the śeṣī." 
+</details>
+
+<details><summary>Español</summary>
+
+The author of Śrī Bhāṣya has explained it as follows:-
+
+> “ He is the śeṣa  
+whose essential nature (svarūpa) has, for its sole interest, the promotion of the glory or excellence of another;  
+the other is the śeṣī." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्तै ३६‘‘परगतातिशयाधानेच्छयोपादेयत्वमेव यस्य स्वरूपं स शेषः परश्शेषी’’(वेदार्थ-सङ्ग्रहः) ऎऩ्ऱु भाष्यकारररुळिच्चॆय्दार्। 
+</details>
+
+#### षष्ठी
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिल्  
++++(कठ-)+++श्रुतियिल् तोऱ्ऱिऩ षष्ठी-द्विवचनम् लुप्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+The genitive dual case ending which is indicated by the Kaṭha śruti (their servant) is elliptical. 
+</details>
+
+<details><summary>Español</summary>
+
+El final de doble caso genitivo que **está indicado** por el Kaṭha śruti (su sirviente) **se elidió**. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् श्रुतियिल् तोऱ्ऱिऩ षष्ठीद्विवचनम् लुप्तम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु सम्बन्ध-सामान्यत्तिले प्रवृत्तैय् आऩ षष्ठिय् आऩदु  
+प्रमाण-सिद्धम् आय् अपेक्षितम् आऩ विशेषत्तिले विश्रमिक्कक् कडवदु।
+</details>
+
+<details><summary>English</summary>
+
+The genitive or sixth case,  
+which ordinarily indicates relationship in general,  
+extends here to the special relationship of being śeṣa to śeṣī  
+which is understood from the pramāṇas. 
+</details>
+
+<details><summary>Español</summary>
+
+El caso genitivo o sexto,  
+que normalmente **indica** la relación en general,  
+**se extiende** aquí a la relación especial de **ser** Śeṣa a Śeṣī  
+que **se entiende** por los pramāṇas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु सम्बन्धसामान्यत्तिले प्रवृत्तैयाऩ षष्ठियाऩदु प्रमाणसिद्धमायपेक्षितमाऩ विशेषत्तिले विश्रमिक्कक्कडवदु।
+</details>
+
+#### चतुर्थी
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तादर्थ्यम् आगिऱ उपयुक्तम् आऩ सम्बन्ध-विशेषम्  
+व्यक्तम् आगैक्क् आग चतुर्थी-द्वि-वचनम् एऱि  
+लोपित्तुक् किडक्किऱद्+++(=अवस्थितम्)+++ आगवुम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+Or it may be considered that  
+in order to make clear the relationship of existing only for them, (viz. Bhagavān and Lakṣmī),  
+the dative dual termination is present,  
+though in ellipsis. 
+</details>
+
+<details><summary>Español</summary>
+
+O **puede considerarse** que  
+Para **dejar** en claro la relación de **existir** solo para ellos (a saber, Bhagavān y Lakṣmī),  
+La terminación dual dativa **está presente**,  
+aunque en elipsis.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तादर्थ्यमागिऱ उपयुक्तमाऩ सम्बन्धविशेषम् व्यक्तमागैक्काग चतुर्थीद्विवचनमेऱि लोपित्तुक्किडक्किऱदागवुमाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदु लुप्तम् आऩ् चतुर्थी-द्विवचनत्तिऩ्-उडैय विवरणम् आगिऱदु  
+"इरुवरुक्कुम् दासऩ्" ऎऩ्गिऱ श्रुति ।
+</details>
+
+<details><summary>English</summary>
+
+If we take this view,  
+the śruti which says "the servant of both"  
+explains the meaning of the elliptical dative dual.
+</details>
+
+<details><summary>Español</summary>
+
+Si **tomamos** este punto de vista,  
+el Śruti que **dice** "el **sirviente** de ambos"  
+**explica** el significado del dual dativa elíptica.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्पोदु लुप्तमाऩ् चतुर्थीद्विवचनत्तिऩुडैय विवरणमागिऱदु इरुवरुक्कुम् दासऩॆऩ्गिऱ श्रुति ।
+</details>
+
+### अवधारणम् 
+#### आर्थम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि  
+
+> हविर्-उद्देश्य-देवता-द्वन्द्वत्तिल् हविस्सु बोले  
+इरुवरैयुम् पऱ्ऱ इव्व्-आत्मा शेषम् 
+
+ऎऩ्ऩुम् बोदु  
+इङ्ग् अवधारणम् आर्थम्। 
+</details>
+
+<details><summary>English</summary>
+
+If we take this interpretation that the "u" refers to Lakṣmī  
+and that the self is śeṣa to both (Bhagavān and Lakṣmī)  
+the ‘only’ formerly stated to be the meaning of "u" (in a u m) is not given by the word itself  
+but is suggested by the context. 
+</details>
+
+<details><summary>Español</summary>
+
+Si **tomamos** esta **interpretación** de que la "U" **se refiere** a Lakṣmī  
+y que el yo **es** Śeṣa para ambos (Bhagavān y Lakṣmī)  
+El "único" anteriormente **declarado era** el **significado** de "u" (en "a u m") **no es dado** por la palabra misma  
+pero **es sugerido** por el contexto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि हविरुद्देश्यदेवताद्वंद्वत्तिल् हविस्सुबोले इरुवरैयुम् पऱ्ऱ इव्वात्मा शेषमॆऩ्ऩुम्बोदु इङ्गवधारणमार्थम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवर्गळ् इरुवर्क्कुम्  
+इव्व्-आत्मा अनन्यार्ह-निरुपाधिक-शेषम् 
+
+ऎऩ्ऱद् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+It comes to this that 
+
+> this self (the jīva) is the unconditioned śeṣa  
+to both Bhagavān and Lakṣmī and to no other.
+</details>
+
+<details><summary>Español</summary>
+
+**Se trata** de esto que
+
+> Este yo (el Jīva) **es** el Śeṣa incondicionado  
+tanto a Bhagavān y a Lakṣmī  
+y a ningún otro.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवर्गळिरुवर्क्कुम् इव्वात्मा अनन्यार्हनिरुपाधिकशेषमॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+#### उकारतः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 THE MEANING OF U IN  AUM :
+</details>
 
-If, on the other hand, we take the middle letter u to mean 'only' in accordance with Vedic usage, the meaning 'only' is to prevent the doubts concerning the relationship of being śeṣa extending to any other (deity) unconditionally and this is done by the word itself (and is not merely suggested by the context). Since it declares that the relationship of being śeṣa to other deities than Bhagavān and Lakṣmī does not pertain to one's essential nature, it follows that contact with other deities should not exist to the man who has a knowledge of the nature of his self, and this avoidance of contact extends even to the devotees of other deities. In the chapter on the Ultimate Object in Life, we have already stated that, since being śeṣa to Bhāgavatas is pleasing to the Lord, it does not constitute the offence of being śeṣa to others.
+<details><summary>मूलम्</summary>
+
+El significado de "u" en aum:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इम् मध्यमाक्षरं श्रौत-प्रयोगत्ताले अवधारण-परम् आऩ बोदु  
+
+> इद्-दम्-पतिगळैय् ऒऴिन्दार्क्कु  
+निरुपाधिक-शेषम्  
+
+ऎऩ्ऱु शङ्कियामैक्क् आग  
+अन्य-योग-व्यवच्छेदम् इङ्गे शाब्दम्। 
+</details>
+
+<details><summary>English</summary>
+
+If, on the other hand, we take the middle letter "u" to mean 'only' in accordance with Vedic usage,  
+the meaning 'only' is to prevent the doubts concerning the relationship of being śeṣa extending to any other (deity) unconditionally  
+and this is done by the word itself  
+(and is not merely suggested by the context). 
+</details>
+
+<details><summary>Español</summary>
+
+Si, por otro lado, **tomamos** la letra central "u" para **significar** 'solo' de **acuerdo** con el **uso** védico,  
+El **significado** 'solo' **es evitar** las dudas  
+sobre la relación de ser Śeṣa  
+que **se extiende** a cualquier otra (deidad) incondicionalmente  
+y esto **se hace** por la palabra misma  
+(y **no se sugiere** simplemente por el contexto).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इम् मध्यमाक्षरम् श्रौतप्रयोगत्ताले अवधारणपरमाऩबोदु इत् दंपतिकळैयॊऴिन्दार्क्कु निरुपाधिकशेषमॆऩ्ऱु शङ्कियामैक्काग अन्ययोगव्यवच्छेदमिङ्गे शाब्दम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताले अन्यरैप् पऱ्ऱ शेषत्वम् स्वरूपप्राप्तमऩ्ऱॆऩ्ऩु मिडत्तैच् चॊल्लुगैयाले यथावस्थितात्मज्ञानमुडैयवऩुक्कु तदीयपर्यन्तमाग देवतान्तरस्पर्शम् निवृत्तमायिऱ्ऱु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्ताले अन्यरैप्पऱ्ऱ शेषत्वम् स्वरूपप्राप्तमऩ्ऱॆऩ्ऩु मिडत्तैच् चॊल्लुगैयाले यथावस्थितात्मज्ञानमुडैयवऩुक्कु तदीयपर्यन्तमाग देवतान्तरस्पर्शम् निवृत्तमायिऱ्ऱु। 
+</details>
+
+
+
+Since it declares that the relationship of being śeṣa to other deities than Bhagavān and Lakṣmī does not pertain to one's essential nature, it follows that contact with other deities should not exist to the man who has a knowledge of the nature of his self, and this avoidance of contact extends even to the devotees of other deities. In the chapter on the Ultimate Object in Life, we have already stated that, since being śeṣa to Bhāgavatas is pleasing to the Lord, it does not constitute the offence of being śeṣa to others.
 
 Thus if by the force of the word itself (namely u), we get the meaning that the relationship of being śeṣa is ruled out in the case of others, it is also evident that the idea of the relationship not existing (towards the Lord) is also ruled out, (since there is no limitation of time (i.e.) the self is always śeṣa to the Lord and is never non-śeṣa to Him). By this ruling out of the non-existence of the relationship of śeṣa, the substance (dravya) called the sentient being' is seen to be an attribute incapable of being separated from Iśvara (at any time or place) and is therefore shown to be his body, in the same way as non-septient matter is His body.
 
