@@ -10,5 +10,5 @@ E.g. the popular meme is that Ramanuja misunderstood/ misrepresented Advaita. Si
 
 GS quotes in detail every instance of Ramanuja's representation of Advaita by researching pre Ramanuja text alone.
 
-Goodartha sangraha available for chatusutri। (अध्यात्म-विचार-शास्त्रस्य उपोद्घात-रूपा चतुस्-सूत्री ।)
+GUdhartha sangraha available for chatusutri। (अध्यात्म-विचार-शास्त्रस्य उपोद्घात-रूपा चतुस्-सूत्री ।)
 </details>
