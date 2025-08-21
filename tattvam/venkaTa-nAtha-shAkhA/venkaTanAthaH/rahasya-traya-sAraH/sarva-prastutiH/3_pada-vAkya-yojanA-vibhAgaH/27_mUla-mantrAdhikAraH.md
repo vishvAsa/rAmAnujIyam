@@ -5905,6 +5905,7 @@ y esta **evitación** del **contacto se extiende** incluso a los devotos de otra
 </details>
 
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > भगवद्-अभिमतम् आऩ भागवत-शेषत्वत्ताले  
@@ -6029,14 +6030,50 @@ THE MEANING OF M IN AUM:
 El **significado** de "m" en aum:
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तृतीयाक्षरम् इङ्गु अवश्यानुसन्धेयऩ् आऩ जीवऩै मुऩ्ऩ् आगक् कॊण्डु  
+उक्तम् आऩ शेषत्वत्तुक् आश्रयम् आऩ +++(अचित्-सहितं)+++ सर्वत्तैयुम् उपलक्षिक्किऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+The third letter m (in aum) denotes, primarily, the jīva  
+but means also by implication (Upalakṣaṇa) all other things which are śeṣa to the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+La tercera letra M (en AUM) **denota**, principalmente, la Jīva  
+pero también **significa** por implicación (upalakṣaṇa) todas las demás cosas que **son** Śeṣa para el Señor.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तृतीयाक्षरमिङ्गु अवश्यानुसन्धेयऩाऩ जीवऩै मुऩ्ऩागक् कॊण्डु उक्तमाऩ शेषत्वत्तुगाश्रयमाऩ सर्वत्तैयुमुपलक्षिक्किऱदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु जीवात्म-वाचकम् ऎऩ्ऩुमिडम् 
+
+> ‘‘मकारं जीव-भूतन्तु  
+शरीरे व्यापकं न्यसेत्’’() 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु जीवात्मवाचक-मॆऩ्ऩुमिडम् ‘‘मकारं जीवभूतन्तु शरीरे व्यापकं न्यसेत्’’() ऎऩ्ऱुम्, 
+</details>
 
 
 
 
 
 
-
-The third letter m (in aum) denotes, primarily, the jīva but means also by implication (Upalakṣaṇa) all other things which are śeṣa to the Lord. That this (m) denotes the jīvātmā may be understood from the following: (1) The letter m which denotes the jīva should be used to perform vyāpaka nyāsa (i.e. ) to perform nyāsa in one's body as if it pervades the whole body": (2) The five groups of consonants (in the Sanskrit alphabet) each containing five letters beginning with k (क) and ending with m(म) denote the twentyfive tattvas or reals as stated in the Tattvasagarasamhita and the like. The Supreme Ruler is always within these reals as their Inner Self” and (3) “The five** letters in the Ka (F) group denote the five elements (bhutani), those in the Cha (च) group denote the five senses of action (karmendriyās); those in the ta (ट) group denote the five senses of knowledge (jnanendriyas), those in the ta (त) group denote the five tanmatras (like smell) the pa (प) denotes the mind, the pha (फi) ahaṅkāra, ba (ब) denotes mahat and bha (भ) prakṛti. The jīvatma is denoted by the letter m and he is the twentyfifth tattva or real."
+That this (m) denotes the jīvātmā may be understood from the following: (1) The letter m which denotes the jīva should be used to perform vyāpaka nyāsa (i.e. ) to perform nyāsa in one's body as if it pervades the whole body": (2) The five groups of consonants (in the Sanskrit alphabet) each containing five letters beginning with k (क) and ending with m(म) denote the twentyfive tattvas or reals as stated in the Tattvasagarasamhita and the like. The Supreme Ruler is always within these reals as their Inner Self” and (3) “The five** letters in the Ka (F) group denote the five elements (bhutani), those in the Cha (च) group denote the five senses of action (karmendriyās); those in the ta (ट) group denote the five senses of knowledge (jnanendriyas), those in the ta (त) group denote the five tanmatras (like smell) the pa (प) denotes the mind, the pha (फi) ahaṅkāra, ba (ब) denotes mahat and bha (भ) prakṛti. The jīvatma is denoted by the letter m and he is the twentyfifth tattva or real."
 
 From these it is evident that the jivātma is different (both) from the twenty-four reals which have the defects of inertness and non-sentience and from the twenty-sixth Real, (namely, Iśvara) who is the (ultimate) cause of everything, the Saviour of all and the seshi of all and who is indicated by the first letter (in aum),
 
