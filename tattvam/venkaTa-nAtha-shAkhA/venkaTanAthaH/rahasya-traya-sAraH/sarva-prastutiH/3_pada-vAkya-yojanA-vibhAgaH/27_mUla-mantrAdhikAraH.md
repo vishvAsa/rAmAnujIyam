@@ -6133,6 +6133,13 @@ Que esto (m) **denota** el jīvātmā **puede entenderse** a partir de lo siguie
 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+इत्थम् आधुनिक-भूत-periodic-table-प्रेरिका ऽक्षरमाला  
+पुरा तत्त्वान्तर-तालिका ऽवर्तत। 
+</details>
+
+
 <details><summary>English</summary>
 
 > (2) The five groups of consonants (in the Sanskrit alphabet)  
@@ -6291,8 +6298,17 @@ Y él **es** el vigésimo quinto tattva o real ".
 तत्त्वसागरसंहितादिगळिले पञ्चविंशतितत्त्वङ्गळुक्कुम् ककारम् मुदलाऩव् इरुबत्तैन्दक्षरङ्गळुम् वाचकङ्गळागवगुत्तुच् चॊल्लुगैयाले सिद्धम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+इत्ताल् जडत्वाचेतनत्वादि-दोषाश्रयङ्गळ् आऩव् इरु-बत्ति-ऩालु तत्त्वङ्गळैक् काट्टिलुम्  
 
+सर्व-कारणम् आगवुम् सर्व-रक्षकऩ् आगवुम् सर्व-शेषिय् आगवुम्  
+प्रथमाक्षरत्तिल् तोऱ्ऱिऩ षड्-विंशकऩिऱ् काट्टिलुम्  
+
+जीवात्मावुक्कु वेऱुपाडु सिद्धित्तदु।
+</details>
+
+<details><summary>English</summary>
 
 From these it is evident that the jivātma is different  
 (both) from the twenty-four reals  
@@ -6302,12 +6318,148 @@ who is the (ultimate) cause of everything,
 the Saviour of all  
 and the seshi of all  
 and who is indicated by the first letter (in aum).
+</details>
 
-In the Tirumantra, the words, and Nāra (in Nārāyaṇa), refer only to the attributes, namely, the jīva (and matter) as determinate words ( Niṣkarṣaka words)[^88] and do not refer to the Supreme Self within the jīva (and matter).
+<details><summary>Español</summary>
 
-[^88]: According to Viśiṣṭādvaita doctrine, many words are indeterminate in meaning; for example go or cow may mean the body of the cow, or the soul of the cow or the Supreme Self within the cow as its Antaryāmi; some words are determinate in meaning, for instance 'cowness' ( gotvam ) which refers only to the jāti (genus) 'cow' of the cow. The m (in aum) refers to the jīva and not to the Supreme Self).
+De estos **es evidente** que el Jivātma **es** diferente  
+(ambos) de los veinticuatro reales  
+que tienen los defectos de la inercia y la no sentencia  
+y del vigésimo sexto real (a saber, Iśvara)  
+Quién **es** la causa (definitiva) de todo  
+el **salvador** de todos  
+y el seshi de todos  
+y quién **está indicado** por la primera letra (en AUM).
+</details>
 
-If we examine the grammatical form of this letter (m), it is found to have been derived from the root mana meaning 'to know' and other such roots (mas - meaning 'measure ') and it denotes the jīvātmā who is atomic and who is of the essential nature (svarūpa) of jñāna and (at the same time) possessed of the attribute, jñāna. This is in accordance with the Brahma Sūtra (2-3-19), which says " The jīvātmā is a knower (i.e.) he possesses the attribute 'knowledge' (and is not merely jñāna or knowledge as the Advaitins contend) and this is from the śruti itself".
+
+<details><summary>मूलम्</summary>
+
+इत्ताल् जडत्वाचेतनत्वादिदोषाश्रयङ्गळाऩ विरुबत्तिऩालु तत्त्वङ्गळैक् काट्टिलुम् सर्वकारणमागवुम् सर्वरक्षकऩागवुम् सर्वशेषियागवुम् प्रथमाक्षरत्तिल् तोऱ्ऱिऩ षड्विंशकऩिऱ्काट्टिलुम् जीवात्मावुक्कु वेऱुबाडु सिद्धित्तदु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्-तिरु-मन्त्रत्तिल्  
++++("ॐ नमः"→)+++ मकारङ्गळुम्, "नार"-शब्दमुम्,  
++++(इयत्ता-)+++निष्कर्ष-विवक्षैयाले विशेषण-मात्र-परङ्गळ् +++(न त्व् अन्तर्यामि-परम्)+++। 
+</details>
+
+<details><summary>English</summary>
+
+In the Tirumantra, the words, and Nāra (in Nārāyaṇa), refer only to the attributes, namely, the jīva (and matter) as determinate words ( Niṣkarṣaka words)  
+and do not refer to the Supreme Self within the jīva (and matter).
+
+According to Viśiṣṭādvaita doctrine, many words are indeterminate in meaning;  
+for example go or cow may mean the body of the cow, or the soul of the cow or the Supreme Self within the cow as its Antaryāmi;  
+some words are determinate in meaning,  
+for instance 'cowness' ( gotvam ) which refers only to the jāti (genus) 'cow' of the cow.  
+The m (in aum) refers to the jīva and not to the Supreme Self).
+</details>
+
+<details><summary>Español</summary>
+
+En el Tirumantra, las palabras y el nāra (en nārāyaṇa), **se refieren** solo a los atributos, a saber, el jīva (y la materia) como palabras determinadas (palabras niṣkarṣaka)  
+y **no se refiera** al ser supremo dentro del Jīva (y la materia).
+
+(**Según** la doctrina Viśiṣṭādvaita, muchas palabras **son** indeterminadas en significado;  
+por ejemplo, "go" o vaca puede **significar** el cuerpo de la vaca, o el alma de la vaca o el ser supremo dentro de la vaca como su antaryāmi;  
+Algunas palabras **están determinadas** en significado,  
+Por ejemplo, 'Cowness' (gotvam) que **se refiere** solo al Jāti (género) 'vaca' de la vaca.  
+El M (en AUM) **se refiere** al Jīva y no al Ser Supremo).)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्तिरुमन्त्रत्तिल् मकारङ्गळुम् नारशब्दमुम् निष्कर्षविवक्षैयाले विशेषणमात्रपरङ्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अक्षरम् व्याकरण-प्रक्रियैयैप् पार्त्ताल्  
+‘‘मन ज्ञान’’ इत्य्-आदि-धातुक्कळिले निष्पन्नम् आऩ पदम् आगैयाले 
+</details>
+
+<details><summary>English</summary>
+
+If we examine the grammatical form of this letter (m),  
+it is found to have been derived from the root mana meaning 'to know' and other such roots (ma - meaning 'measure ')  
+</details>
+
+<details><summary>Español</summary>
+
+Si **examinamos** la forma gramatical de esta letra (m),  
+**Se descubre** que **se ha derivado** del maná raíz  
+que **significa** 'saber'  
+y otras raíces similares (MA - que **significa** 'medida')
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वक्षरम् व्याकरणप्रक्रियैयैप्पार्त्ताल् ‘‘मन ज्ञान’’ इत्यादिधातुक्कळिले निष्पन्नमाऩ पदमागैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘ज्ञोऽत एव’’(ब्रह्म-सूत्रम् २-३-१९) ऎऩ्गिऱ अधिकरणत्तिऱ् पडिये 
+</details>
+
+<details><summary>English</summary>
+
+As (~~This~~) is in accordance with the Brahma Sūtra (2-3-19), which says 
+
+> " The jīvātmā is a knower  
+(i.e.) he possesses the attribute 'knowledge'  
+(and is not merely jñāna or knowledge as the Advaitins contend)  
+and this is from the śruti itself".
+</details>
+
+<details><summary>Español</summary>
+
+Como está de **acuerdo** con el Brahma Sūtra (2-3-19), que **dice**
+
+> "El Jīvātmā **es** un **conocedor**  
+(**es decir**), **posee** el atributo 'conocimiento'  
+(y **no es** simplemente jñāna o **conocimiento** como **sostienen** los Advaitins)  
+y esto **es** del propio Śruti ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘ज्ञोऽत एव’’(ब्रह्म-सूत्रम् २-३-१९) ऎऩ्गिऱ अधिकरणत्तिऱ्पडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान--स्व-रूपऩुम् आय्  
+ज्ञान-गुणकऩुम् आय्  
+अणुव् आऩ जीवात्मावैच् चॊल्लुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+~~and~~ it denotes the jīvātmā who is atomic  
+and who is of the essential nature (svarūpa) of jñāna  
+and (at the same time) possessed of the attribute, jñāna.
+</details>
+
+<details><summary>Español</summary>
+
+**denota** el jīvātmā que es atómico  
+y quién **es** de la naturaleza esencial (svarūpa) de jñāna  
+y (al mismo tiempo) **poseído** del atributo, jñāna.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञानस्वरूपऩुमाय् ज्ञानगुणकऩुमायणुवाऩ जीवात्मावैच् चॊल्लुगिऱदु। 
+</details>
+
+
+
+ 
 
 Though the jīvātmā is said to be, in general terms, of the essential nature of knowledge, yet since this essential nature (svarūpa) is known from the pramāṇas (śabda and the like) to be agreeable and pleasing, it is also of the essential nature of ānanda or bliss which is a specific form of knowledge.
 
