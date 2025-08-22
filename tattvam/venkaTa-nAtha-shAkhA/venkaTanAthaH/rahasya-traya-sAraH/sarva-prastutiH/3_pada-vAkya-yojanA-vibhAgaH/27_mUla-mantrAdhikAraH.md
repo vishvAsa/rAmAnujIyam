@@ -6018,6 +6018,12 @@ De la misma manera que la materia no-sensible **es** su cuerpo.
 इश्शेषत्वायोगव्यवच्छेदत्ताले ईश्वरऩुक्कु पृथक्सिद्ध्यनर्ह-विशेषणमाय्त्तोऱ्ऱिऩ चेतनद्रव्यत्तुक्कुम् अचित्तुक्कुप्पोले शरीरत्वम् प्रकाशितम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द अयोगव्यवच्छेदत्ताले चेतनऩुक्कु वरुम् विशेषत्तै यरुळिच्चॆय्गिऱार् इश् शेषत्वायोगव्यवच्छेदत्ताले इति । पृथक्सिद्ध्यनर्हविशेषणमाय्त् तोऱ्ऱिऩ - पृथक्सिद्ध्यनर्हङ्गळाऩ दण्डकुण्डलादिगळ्बोलऩ्ऱिक्के अपृथक्सिद्धमागत् तोऱ्ऱिऩ, चेतनद्रव्यत्तुक्कुमिति । इङ्गु द्रव्यमॆऩ्बदाल् गुणादिगळुक्कु अपृथक्सिद्धविशेषणत्वमिरुन्दालुम् शरीरत्वमिल्लैयॆऩ्बदु सूचितम्। अचित्तुक्कुप् पोले - अपृथक्सिद्धविशेषणमाऩ शरीरभूताचित्तिऱ्कुप्पोले, शरीरत्वम् प्रकाशितमिति । यस्य चेतनस्य यद्द्रव्यं शेषतैकस्वरूपं तत्तस्य शरीरम् ऎऩ्ऱु सॊऩ्ऩ शरीरत्वम् प्रकाशितमॆऩ्गै।  
+</details>
+
+
 ### शेष-जीवो मकारः
 
 <details><summary>English</summary>
@@ -6053,6 +6059,12 @@ pero también **significa** por implicación (upalakṣaṇa) todas las demás c
 तृतीयाक्षरमिङ्गु अवश्यानुसन्धेयऩाऩ जीवऩै मुऩ्ऩागक् कॊण्डु उक्तमाऩ शेषत्वत्तुगाश्रयमाऩ सर्वत्तैयुमुपलक्षिक्किऱदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि प्रधानऩाऩ चेतनऩैच् चॊल्लुम् मकारम् शेषत्वाश्रयमाऩ सर्वत्तिऱ्कुमुपलक्षकमॆऩ्गिऱार् तृतीयाक्षरमित्यादिना । 
+</details>
+
+#### प्रमाणानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु जीवात्म-वाचकम् ऎऩ्ऩुम् इडम् 
@@ -6092,28 +6104,204 @@ Que esto (m) **denota** el jīvātmā **puede entenderse** a partir de lo siguie
 इदु जीवात्मवाचक-मॆऩ्ऩुमिडम् ‘‘मकारं जीवभूतन्तु शरीरे व्यापकं न्यसेत्’’() ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मकारत्तिऱ्कु जीववाचकत्वमुण्डॆऩ्बदिल् प्रमाणम् काट्टुगिऱार् इदु जीवात्मवाचकमॆऩ्ऩुमिडमिति । इदु मकारम्।  
+मकारमित्यादि । जीव-भूतम् - जीववाचकम्, वाच्यवाचकयोरभेदः । 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘पञ्चार्णानान्तु पञ्चानां  
+> ‘‘पञ्चार्णानान् तु पञ्चानां  
 वर्गाणां परमेश्वरः ।  
-संस्थितः कादिमान्तानां तत्त्वात्मत्वेन सर्वदा’’(तत्वसागरसंहिता) ऎऩ्ऱुम्,
+**संस्थितः** कादिमान्तानां  
++++(साङ्खोक्त-२५-)+++तत्त्वात्मत्वेन सर्वदा॥’’  
+(तत्त्व-सागर-संहिता) 
+
+ऎऩ्ऱुम्,
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘पञ्चार्णानान् तु पञ्चानां  
+वर्गाणां परमेश्वरः ।  
+**संस्थितः** कादिमान्तानां  
++++(साङ्खोक्त-२५-)+++तत्त्वात्मत्वेन सर्वदा॥’’  
+(तत्त्व-सागर-संहिता) 
+
+</details>
+
+<details><summary>English</summary>
+
+> (2) The five groups of consonants (in the Sanskrit alphabet)  
+each containing five letters beginning with k (क) and ending with m(म)  
+denote the twenty-five tattvas or reals.  
+The Supreme Ruler is always within these reals as their Inner Self” 
+
+as stated in the Tattvasagarasamhita and the like. 
+</details>
+
+<details><summary>Español</summary>
+
+> (2) Los cinco grupos de consonantes (en el alfabeto sánscrito)  
+Cada una que **contiene** cinco letras que **comienzan** con K (क) y **terminan** con M (म)  
+**denota** los veinticinco tattvas o reales.  
+El gobernante supremo siempre **está** dentro de estos reales como su **ser** interno " 
+
+Como **se indicó** en el tattva-sagara-samhita y similares.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 ‘‘पञ्चार्णानान्तु पञ्चानां वर्गाणां परमेश्वरः । संस्थितः कादिमान्तानां तत्त्वात्मत्वेन सर्वदा’’(तत्वसागरसंहिता) ऎऩ्ऱुम्,
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पञ्चार्णानां - पञ्च अर्णाः येषु पञ्चार्णाः, तेषां, कादिमान्तानाम्पञ्चानां वर्गाणां – ककारम् मुदल् मकारान्तङ्गळाऩ ऐन्दु वर्गङ्गळुक्कु, तत्त्वात्मत्वेन सर्वदा संस्थित इति । वर्णानां वाच्यतया स्वसम्बन्धीनि यानि तत्त्वानि पृथिव्यादीनि प्रत्यगात्मपर्यन्तानि, तेषामन्तरात्मत्वेन सर्वदा परमात्मा स्थितः ऎऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘भूतानि च कवर्गेण  
+चवर्गेण-++++(कर्म-)+++इन्द्रियाणि च ।  
+टवर्गेण तवर्गेण  
+ज्ञान+++(-इन्द्रिय)+++-गन्धादयस्+++(←तन्मात्राणि)+++ तथा ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘भूतानि च कवर्गेण  
+चवर्गेण-++++(कर्म-)+++इन्द्रियाणि च ।  
+टवर्गेण तवर्गेण  
+ज्ञान+++(-इन्द्रिय)+++-गन्धादयस्+++(←तन्मात्राणि)+++ तथा ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+> (3) “The five letters in the Ka (क) group denote the five elements (bhutani),  
+those in the Cha (च) group denote the five senses of action (karmendriyās);  
+those in the ta (ट) group denote the five senses of knowledge (jnanendriyas),  
+those in the ta (त) group denote the five tanmatras (like smell)  
+</details>
+
+<details><summary>Español</summary>
+
+> (3) “Las cinco letras en el grupo KA (क) **denotan** los cinco elementos (Butani),  
+Aquellos en el grupo Cha (च) **denotan** los cinco sentidos de acción (karmendriyās);  
+Aquellos en el grupo TA (ट) **denotan** los cinco sentidos de conocimiento (Jnanendriyas),
+Los del grupo TA (त) **denotan** las cinco tanmatras (como el olor)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘भूतानि च कवर्गेण चवर्गेणेन्द्रियाणि च । टवर्गेण तवर्गेण ज्ञानगन्धादयस्तथा ॥ 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मनः पकारेणैवोक्तं  
+फकारेण त्व् अहङ्कृतिः ।  
+बकारेण भकारेण  
+महान् प्रकृतिर् **उच्यते** ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> मनः पकारेणैवोक्तं  
+फकारेण त्व् अहङ्कृतिः ।  
+बकारेण भकारेण  
+महान् प्रकृतिर् **उच्यते** ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> the pa (प) denotes the mind, the pha (फ) ahaṅkāra, ba (ब) denotes mahat and bha (भ) prakṛti. 
+</details>
+
+<details><summary>Español</summary>
+
+> el "pa" (प) **denota** la mente,  
+el pha (फ) ahaṅkāra,  
+ba (ब) denota mahat  
+y bha (भ) prakṛti. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+मनः पकारेणैवोक्तं फकारेण त्वहङ्कृतिः । बकारेण भकारेण महान् प्रकृतिरुच्यते ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आत्मा तु स मकारो ऽयं  
+पञ्च-विंशः **प्रकीर्तितः**।’’  
+(पाद्मोत्तरम् ४-२५। २६, २७) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> आत्मा तु स मकारो ऽयं  
+पञ्च-विंशः **प्रकीर्तितः**।’’  
+(पाद्मोत्तरम् ४-२५। २६, २७) 
+
+</details>
+
+<details><summary>English</summary>
+
+> The jīvatma is denoted by the letter m  
+and he is the twentyfifth tattva or real."
+</details>
+
+<details><summary>Español</summary>
+
+> El Jīvatma **se denota** por la letra M  
+Y él **es** el vigésimo quinto tattva o real ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मा तु स मकारोऽयं पञ्चविंशः प्रकीर्तितः’’(पाद्मोत्तरम् ४-२५। २६, २७) ऎऩ्ऱुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्त्व-सागर-संहितादिगळिले  
+पञ्च-विंशति-तत्त्वङ्गळुक्कुम्  
+ककारम् मुदलाऩव् इरु-बत्त्-ऐन्द्-अक्षरङ्गळुम्  
+वाचकङ्गळ् आग वगुत्तुच्+++(=विविच्य)+++ चॊल्लुगैयाले सिद्धम्। 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+तत्त्वसागरसंहितादिगळिले पञ्चविंशतितत्त्वङ्गळुक्कुम् ककारम् मुदलाऩव् इरुबत्तैन्दक्षरङ्गळुम् वाचकङ्गळागवगुत्तुच् चॊल्लुगैयाले सिद्धम्। 
+</details>
 
 
 
 
-
-
-(2) The five groups of consonants (in the Sanskrit alphabet) each containing five letters beginning with k (क) and ending with m(म) denote the twentyfive tattvas or reals as stated in the Tattvasagarasamhita and the like. The Supreme Ruler is always within these reals as their Inner Self” and (3) “The five** letters in the Ka (F) group denote the five elements (bhutani), those in the Cha (च) group denote the five senses of action (karmendriyās); those in the ta (ट) group denote the five senses of knowledge (jnanendriyas), those in the ta (त) group denote the five tanmatras (like smell) the pa (प) denotes the mind, the pha (फi) ahaṅkāra, ba (ब) denotes mahat and bha (भ) prakṛti. The jīvatma is denoted by the letter m and he is the twentyfifth tattva or real."
-
-From these it is evident that the jivātma is different (both) from the twenty-four reals which have the defects of inertness and non-sentience and from the twenty-sixth Real, (namely, Iśvara) who is the (ultimate) cause of everything, the Saviour of all and the seshi of all and who is indicated by the first letter (in aum),
+From these it is evident that the jivātma is different  
+(both) from the twenty-four reals  
+which have the defects of inertness and non-sentience  
+and from the twenty-sixth Real, (namely, Iśvara)  
+who is the (ultimate) cause of everything,  
+the Saviour of all  
+and the seshi of all  
+and who is indicated by the first letter (in aum).
 
 In the Tirumantra, the words, and Nāra (in Nārāyaṇa), refer only to the attributes, namely, the jīva (and matter) as determinate words ( Niṣkarṣaka words)[^88] and do not refer to the Supreme Self within the jīva (and matter).
 

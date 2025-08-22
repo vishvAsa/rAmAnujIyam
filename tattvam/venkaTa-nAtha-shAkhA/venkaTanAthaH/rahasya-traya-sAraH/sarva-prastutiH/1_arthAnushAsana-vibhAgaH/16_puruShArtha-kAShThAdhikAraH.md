@@ -816,7 +816,7 @@ Lo que **revela** que el servicio **prestó** a sus devotos **es** más encantad
 > विष्णोर् आराधनं परं ।  
 > तस्मात् परतरं प्रोक्तं  
 > तदीयाराधनं परं ॥  +++(5)+++  
-> (पाद्मोत्तरम्म् २९-८१।) 
+> (पाद्मोत्तरम् २९-८१।) 
 </details>
 
 <details><summary>विषयः</summary>
@@ -833,7 +833,7 @@ Lo que **revela** que el servicio **prestó** a sus devotos **es** más encantad
 > विष्णोराराधनं परं ।  
 > तस्मात् परतरं प्रोक्तं  
 > तदीयाराधनं परं ॥  +++(5)+++  
-> (पाद्मोत्तरम्म् २९-८१।) 
+> (पाद्मोत्तरम् २९-८१।) 
 </details>
 
 <details><summary>English</summary>
@@ -856,7 +856,7 @@ Los siguientes textos autorizados **se pueden estudiar** a este respecto:
 
 <details><summary>मूलम्</summary>
 
-इव्वर्थत्तिल् ‘‘आराधनानां सर्वेषां विष्णोराराधनं परं । तस्मात्परतरं प्रोक्तं तदीयाराधनं परं ॥’’(पाद्मोत्तरम्म् २९-८१।)
+इव्वर्थत्तिल् ‘‘आराधनानां सर्वेषां विष्णोराराधनं परं । तस्मात्परतरं प्रोक्तं तदीयाराधनं परं ॥’’(पाद्मोत्तरम् २९-८१।)
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
