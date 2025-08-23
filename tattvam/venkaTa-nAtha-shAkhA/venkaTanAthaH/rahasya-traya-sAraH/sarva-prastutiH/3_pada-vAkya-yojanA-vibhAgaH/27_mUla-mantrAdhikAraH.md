@@ -6459,7 +6459,6 @@ y (al mismo tiempo) **poseído** del atributo, jñāna.
 
 
 
- 
 
 Though the jīvātmā is said to be, in general terms, of the essential nature of knowledge, yet since this essential nature (svarūpa) is known from the pramāṇas (śabda and the like) to be agreeable and pleasing, it is also of the essential nature of ānanda or bliss which is a specific form of knowledge.
 
