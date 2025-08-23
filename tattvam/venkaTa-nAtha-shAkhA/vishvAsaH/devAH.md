@@ -90,6 +90,12 @@ title = "देवाः"
 ब्रह्म-रुद्राभ्याम् सर्वपुरुषवरदानाधिकारस्य वितरणं च  
 महाभारते हय-शिरः-प्रकरणे निरूपितम्।  
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> SVs don't have a problem with Rama or Krishna worshipping any deity. Krishna says in Mbh that Vishnu's head bows down only to Vishnu & it is taken by the Vaishnavas to mean that when He appears to be worshipping other deities, He is worshipping the antaryamin i.e. Himself. Rama has worshipped several devas in the VR and SVs don't deny it. - रविलोचनः
+</details>
+
+
 एवं च निगदति - 
 
 > पुत्रार्थम् आराधितवान्  
