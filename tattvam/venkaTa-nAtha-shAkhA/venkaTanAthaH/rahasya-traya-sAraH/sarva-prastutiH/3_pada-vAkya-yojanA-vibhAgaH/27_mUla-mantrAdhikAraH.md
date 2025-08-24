@@ -959,7 +959,10 @@ El Tirumantra **es** su **mantenimiento** (Dhāraka).
 चरमोपायत्तिले प्रवर्तिक्कुम् बडिय् आऩ ज्ञान-विशेषोपचय-हेतुव् आगैयाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
 
+चरमोपाय-प्रवृत्त्य्-औपयिक- ज्ञानोपचय-हेतुत्वात्  
+</details>
 
 <details><summary>English</summary>
 
@@ -989,6 +992,13 @@ lo que le **permitiría adoptar** la final upāya (Prapatti).
 श्रोतव्य-शेषम् इल्लाद बडि   
 **उपायोपदेश**-पर्यवसानम् आऩ चरम-श्लोकम् **पोषकम्**।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रोतव्य-शेषो यथा न स्यात् तथा —  
+उपायोपदेश-पर्यवसान-भूतश् चरम-श्लोकः पोषकः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1025,6 +1035,15 @@ omitting nothing that should be learnt.
 
 द्वयम् **भोग्यम्**। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+- सकृद्-उच्चारणेन परम-पुरुषार्थ-हेतुः सत्  
+- सदाऽनुसन्धानेन कृतार्थतापादकम् 
+
+इति द्वयं भोग्यम् ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1076,6 +1095,17 @@ THE PRIMARY IMPORTANCE OF TIRUMANTRA:
 ऋषिच्-छन्दो-देवता- बीज-शक्ति-वर्ण- विनियोग-स्थान-न्यासादिगळ्  
 अव्व्-ओ कल्प-संप्रदायङ्गळुक्क् ईड् आगक् कण्डु-गॊळ्वदु।  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P267]]
+
+एषु श्रीमन्त्रस्य  
+ऋषि-छन्दो-देवता- बीज-शक्ति-वर्ण- विनियोग-स्थान-न्यासादयः  
+तत्-तत्-कल्प-संप्रदायानुसारेण द्रष्टव्याः ।
+</details>
+
+
 <details><summary>English</summary>
 
 Among these three mantras, in regard to Tirumantra,  
@@ -1131,6 +1161,16 @@ debe **aprender** de los respectivos kalpas y tradiciones (sampradāya).
 सुप्रसिद्ध-वैभवम् आय् इरुक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं श्री-मन्त्रः  
+आथर्वण-कठाद्य्-उपनिषत्सु,  
+अन्यान्येषु मन्व्-आदि-शास्त्रेषु,  
+नारायणात्मक--हैरण्य-गर्भ-- नारदीय--बौधायनादि-बहुविध-कल्पेषु  
+सुप्रसिद्ध-वैभवो ऽस्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 The greatness and glory of Tirumantra are well known  
@@ -1165,6 +1205,14 @@ y de varios kalpas como nārāyanātmaka, Hairaṇyagarbha kalpa, nāradīya kal
 
 अनन्तङ्गळ् आऩ भगवन्-मन्त्रङ्गळ्-तऩ्ऩिल् व्यापक-त्रयम् अधिकम् आऩाऱ् पोलवुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मन्त्रान्तरेभ्यो भगवन्-मन्त्राणाम् आधिक्यवत्,  
+अनन्तेषु भगवन्-मन्त्रेषु व्यापक-त्रयस्याधिक्यवत्,  
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1211,6 +1259,7 @@ los tres mantras vyāpakas **son** los más altos,
 मूल-मन्त्रस् सनातनः॥’’  
 (नारादीयम् १-११) 
 
+इत्य्-उक्तेः 
 </details>
 
 <details><summary>English</summary>
@@ -1258,6 +1307,12 @@ De todas las cosas que **purifican**, este **es** el más **purificador** ".
 व्यापक-मन्त्रङ्गळिल् ऎल्लात्तिलुम् अधिकम् आय्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+व्यापक-मन्त्रेभ्यः सर्वेभ्य आधिक्येन 
+</details>
+
+
 <details><summary>English</summary>
 
 So it is the highest among the three vyāpaka mantras; 
@@ -1277,6 +1332,12 @@ Entonces **es** el más alto entre los tres mantras Vyāpaka;
 
 सर्व-वेद-सारम् आय्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-वेद-सारतया, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1303,6 +1364,12 @@ it is the essence of all the Vedas;
 
 सर्वानिष्ट-निवर्तन-क्षमम् आय्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वानिष्ट-निवर्तन-क्षमतया, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1331,6 +1398,12 @@ it is capable of removing all evil influences;
 सर्व-पुरुषार्थङ्गळुक्कुम् साधकम् आय्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-पुरुषार्थ-साधकतया, 
+</details> 
+
+
 <details><summary>English</summary>
 
 it is the means of obtaining all the objects desired by men; 
@@ -1350,6 +1423,12 @@ it is the means of obtaining all the objects desired by men;
 
 सर्वोपायङ्गळुक्कुम् उपकारकम् आय्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वोपायोपकारकतया, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1379,6 +1458,13 @@ it helps in the adoption of all upāyas;
 वैदिक-रूपत्तालुम्, तान्त्रिक-रूपत्तालुम् **उपजीव्यम्** आय्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-वर्णानां स्व-स्वाधिकारानुगुणं  
+वैदिक-रूपेण तान्त्रिक-रूपेणोपजीव्यतया, 
+</details>
+
+
 <details><summary>English</summary>
 
 it can be uttered by all castes,  
@@ -1405,8 +1491,14 @@ ya **sea** en su forma védica (con AUM) o en su forma tántrica (sin el AUM),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्याप्य-व्यापक-सर्व-तत्त्व-कण्ठोक्तिमत्त् आय्, 
+व्याप्य-व्यापक--सर्व-तत्त्व--कण्ठोक्तिमत्त् आय्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+व्याप्य-व्यापक--सर्व-तत्त्व--कण्ठोक्तिमत्तया, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1440,6 +1532,12 @@ y lo que **impregna** a todos (a saber el yo supremo);
 सर्व-मन्त्र-नैरपेक्ष्य-करम् आय्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-मन्त्र-नैरपेक्ष्यकरतया, 
+</details>
+
+
 <details><summary>English</summary>
 
 it does not require the help or aid of any other mantra 
@@ -1466,6 +1564,12 @@ it does not require the help or aid of any other mantra
 
 सर्व-भगवन्-मूर्तिगळुक्कुम् साधारणम् आय् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-भगवन्-मूर्ति-साधारणतया 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1500,6 +1604,14 @@ mientras que otros mantras **deben usarse** solo en relación con formas particu
 इत्तैये विरुम्बिप्+++(=ध्यात्वा →स्तुत्वा)+++ पोरुवर्गळ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+चावस्थितत्वात्  
+सर्वे ऽप्य् आचार्या  
+इमम् एव सादरं परिजगृहुः ।
+</details>
+
+
 <details><summary>English</summary>
 
 Owing to these reasons, all ācāryas delight in it. 
@@ -1527,6 +1639,16 @@ Debido a estas razones, todas las ācāryas **se deleitan** en él.
 
 ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+दिव्य-सूरयो ऽपि, 
+
+> "तावकं श्रीमद्-अष्टाक्षरं शिक्षित्वा"
+
+इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1563,6 +1685,15 @@ Los Alvars también en el **siguiente** pasaje -
 ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "अष्टाक्षराम्नायिनः शक्ताः  
+परमं व्योम पालयितुम्"  
+
+इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "Those who have been initiated by the ācārya into the mantra with eight syllables  
@@ -1594,6 +1725,14 @@ y **pronunciarlo** con el niṣṭhā propio
 वल्लर् वाऩम् आळवेय्’’(तिरुच्-छन्दविरुत्तम् ७८)  
 
 ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "अष्टाक्षर-(सतता)म्नायिनः शक्ताः  
+परमं व्योम पालयितुम्"  
+
+इति, 
 </details>
 
 
@@ -1628,6 +1767,15 @@ y **pronunciado se vuelve capaz** de **gobernar** sobre Vaikuṇṭha ",
 ऎऩ्ऱुम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "ग्रामा नगराणि च यथा सम्यग् जानीयुस्  
+तथा नमो नारायणाय"
+
+इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "You were devotees that sang the name of the Lord  
@@ -1661,6 +1809,14 @@ para que ese país y la ciudad **puedan entender** "
 ऎऩ्ऱुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"समीचीन-प्रकारेण नमो नारायण" 
+
+इति च 
+</details>
+
+
 <details><summary>English</summary>
 
 and 
@@ -1693,6 +1849,12 @@ etc., etc.
 इत् तिरुमन्त्रत्तैये **विरुम्बिप्**+++(=काङ्क्ष्य →स्तुत्वा)+++ पोन्दार्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इमं श्रीमन्त्रम् एव आहत्य आवर्तन्त । 
+</details>
+
+
 <details><summary>English</summary>
 
 sing its praise with delight. 
@@ -1722,6 +1884,18 @@ sing its praise with delight.
 ते जग्मुर् वैष्णवं पदम्॥’’  
 (नारदीयम् १-१६), 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ऋषयो ऽपि, 
+
+> ‘‘बहवो हि महात्मानो  
+मुनयस् सनकादयः ।  
+अष्टाक्षरं समाश्रित्य  
+ते जग्मुर् वैष्णवं पदम्॥’’  
+(नारदीयम् १-१६), 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1889,6 +2063,7 @@ Aquellos que **muestran** su **devoción** a él **mirando** a este mantra como 
 मन्त्रैक-**शरणा** वयम्’’  
 (नारदीयम्) 
 
+इत्य् ऊचुः ।
 </details>
 
 <details><summary>English</summary>
@@ -1916,7 +2091,7 @@ han declarado (lo anterior).
 ‘‘आसीना वा शयाना वा तिष्ठन्तो यत्र कुत्र वा । नमो नारायणायेति मन्त्रैकशरणा वयम्’’(नारदीयम्) ऎऩ्ऱार्गळ्। 
 </details>
 
-## उपदेशौ
+### उपदेशैतिह्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत् तिरुमन्त्रत्तै सर्वेश्वरऩ्  
@@ -1924,6 +2099,14 @@ han declarado (lo anterior).
 श्रीपुण्डरीकऩुक्क् **उपदेशिप्पिक्क**  
 अवऩुम् इत्तैये परम-हितम् आगक् **केट्ट** बडियाले 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमं श्रीमन्त्रं सर्वेश्वरेण श्रीनारद-भगवद्-द्वारा  
+श्रीपुण्डरीकायोपदिष्टवति सति,  
+सो ऽप्य् अस्य परम-हितत्वेन श्रवणात्,  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1974,7 +2157,7 @@ Lo **recibió** como su bien supremo;
 मन्त्रम् अष्टाक्षरं **जपन्**॥’’  
 (इतिहास-समुच्चयः ३३-१३०)
 
-
+इत्य्-आद्य्-उक्त-रीत्या  
 </details>
 
 <details><summary>English</summary>
@@ -2008,6 +2191,13 @@ y **alcanzó** Mukti **pronunciando** el mantra con ocho sílabas: Namo nārāya
 इम्-मन्त्र-निष्ठऩ् आय् मुक्तऩ् आऩाऩ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतन्-मन्त्र-निष्ठो मुक्तो बभूव । 
+</details>
+
+
+
 <details><summary>English</summary>
 
 He practised this mantra and obtained release from saṁsāra. 
@@ -2032,6 +2222,13 @@ He practised this mantra and obtained release from saṁsāra.
 इम्-मन्त्रत्तैत् तिरु-मङ्गैय्-आऴ्वारुक्कु  
 सर्वेश्वरऩ् ताऩेय् उपदेशित्ताऩ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमं मन्त्रं श्रीपरकालाय दिव्यसूरये  
+सर्वेश्वरः स्वयम् एव उपदिदेश ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2078,6 +2275,14 @@ IT MAY BE UTTERED BY ALL WITH THE OMISSION OF THE PRAŅAVA AND THE SUFFIX OF THE
 ऎऩ्ऩुम् इडम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अयं प्रणव-चतुर्थी-राहित्ये सर्वाधिकारः 
+
+इत्य् एतत् 
+</details>
+
+
 <details><summary>English</summary>
 
 When this mantra is taken without the praṇava (at the beginning) and the dative suffix at the end of Nārāyaṇa (i. e.) (as Namo Nārāyaṇa),  
@@ -2115,11 +2320,14 @@ Todos **son competentes** para **pronunciarlo**.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+श्रीवराह-पुराणे कैशिक-द्वादशी-माहात्म्ये, 
+
 > १३‘‘नमो नारायणेत्य् उक्त्वा  
 श्वपाकः पुनर् आगमत्’’  
 +++(स्वभक्षणाय राक्षसम् प्रति)+++  
 (वराहपुराणम् १३९-६३) 
 
+[[P269]] इति वचनेन दर्शितम् । 
 </details>
 
 <details><summary>English</summary>
@@ -2157,6 +2365,16 @@ donde se dice:
 ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अयम् अर्थः,  
+
+> 'नाम्न उक्तौ नमो नारायण +इत्य् एव'
+
+इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > “When the name of Bhagavān is uttered,  
@@ -2191,6 +2409,14 @@ Uno **debería decir** namo nārāyaṇa ",
 ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "नमो नारायणेत्य् एतां सन्-मालां संपाद्य"
+
+इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > " Having obtained this excellent garland called Namo Nārāyaṇa etc" 
@@ -2221,6 +2447,15 @@ Uno **debería decir** namo nārāyaṇa ",
 
 ऎऩ्ऱुञ् जॊल्लुगिऱ पासुरङ्गळालुम् सिद्धम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "जिह्वा मुखे ऽस्ति  
+'नमो नारायणेति' निरन्तरम् उच्चार्यः शब्दो ऽस्ति"
+
+इति च प्रतिपादयन्तीभिर् गाथाभिश् च सिद्धः ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2263,6 +2498,12 @@ También puede **ser evidente** a partir de los versos tamiles anteriores (~~ si
 प्रणवत्तोडे कूड अष्टाक्षरम् आय् इरुक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं ब्राह्मणादीनाम् अधीत-क्रमेण  
+प्रणवेन सहाष्टाक्षरो भवति ।
+</details>
+
 <details><summary>English</summary>
 
 To Brahmins and the like (Kṣatriyas),  
@@ -2292,7 +2533,11 @@ tal como **ocurre** en el Veda.
 > ‘‘वैदिकं तान्त्रिकञ् चैव  
 तथा वैदिक-तान्त्रिकम् ।  
 त्रिविधिं **कर्म संप्रोक्तं**  
-पञ्च-रात्रामृतार्णवे ॥ 
+पञ्च-रात्रामृतार्णवे ॥  
+वैदिकं ब्राह्मणानान्तु  
+राज्ञां वैदिकतान्त्रिकं ।  
+तान्त्रिकं वैश्यशूद्राणां  
+सर्वेषां तान्त्रिकन्तु वा ॥ 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -2465,6 +2710,12 @@ Para ellos, **se ordena** la **expresión** del mero mantra (sin praṇava) ".
 ऎऩ्गिऱ पडिये प्रणवम् ऒऴिन्द बोदु 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-उक्त-रीत्या प्रणव-राहित्ये, 
+</details>
+
+
 <details><summary>English</summary>
 
 In accordance with this, Even without the praṇava, 
@@ -2552,6 +2803,15 @@ Por esta **adición**, el mantra **consiste** en ocho letras.
 विधिक्कप्-पट्टदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-उक्त-प्रक्रियया  
+अष्टाण्य् अप्य् अक्षराणि  
+अनुसन्धेयत्वेन विहितानि ।
+
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 ऎऩ्गिऱ प्रक्रियैयाले ऎट्टॆऴुत्तुमनुसन्धेयमाग विधिक्कप्पट्टदु। 
@@ -2573,6 +2833,16 @@ Por esta **adición**, el mantra **consiste** en ocho letras.
 
 ऎऩ्ऩुम् इडम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> प्रणव-राहित्ये ऽपि  
+तत्-साहित्य-निबन्धनं फलम्  
+एषाम् अधिकारिणाम् अपि [[P270]] भवति 
+
+इत्य् एतत्
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2613,6 +2883,8 @@ Estas adhikārīs (mujeres y śūdras) **obtienen** la misma fruta u meta
 नमो नारायणायेति  
 मन्त्रस् सर्वार्थ-साधकः॥’’  
 (नारदीयम् १-४१) 
+
+इत्य्-आदिभिः सिद्धम् ।
 </details>
 
 <details><summary>English</summary>
@@ -2655,6 +2927,8 @@ El mantra, Namo nārāyanāya, **confiere** todas las bendiciones que **se puede
 प्रथमाक्षरम् सर्व-संग्राहकम् आऩ कणक्किले  
 +++(अर्थम् ऎल्लाम्→)+++ सुरुङ्गव्+++(=सङ्कुचितम्)+++ अनुसन्धेयम्। 
 </details>
+
+
 
 <details><summary>English</summary>
 
