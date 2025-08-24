@@ -2928,6 +2928,14 @@ El mantra, Namo nārāyanāya, **confiere** todas las bendiciones que **se puede
 +++(अर्थम् ऎल्लाम्→)+++ सुरुङ्गव्+++(=सङ्कुचितम्)+++ अनुसन्धेयम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं प्रणव-राहित्येनाष्टाक्षरता-सिद्धि-दशायां  
+
+प्रणवार्थाः सर्वे ऽपि  
+एतत्-प्रणव-प्रतिच्छन्दत्वेन शास्त्रोक्ते ऽक्षरे,  
+'प्रथमाक्षरं सर्व-संग्रहः' इति रीत्या संक्षेपेणानुसन्धेयाः । 
+</details>
 
 
 <details><summary>English</summary>
@@ -2976,6 +2984,11 @@ Porque la sílaba "a" **ser** la primera letra
 मध्यमाक्षरत्तिऱ् पॊरुळुम् अर्थ-सिद्धम् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+मध्यमाक्षरार्थो ऽप्य् अर्थ-सिद्धः । 
+</details>
+
 <details><summary>English</summary>
 
 The meaning of the syllable u in the praňava, namely, 'only' is inferred from the meaning. 
@@ -3002,6 +3015,12 @@ El **significado** de la sílaba en el praňava, a saber, 'solo' **se infiere** 
 
 +++(आम् इत्यत्र +अनुस्वारमात्रे गृहीते)+++ इदिल् तृतीयाक्षरत्तिऱ् सॊल्लुगिऱ ज्ञातृत्वादिगळुम्  
 नमस्सिल् द्वितीयाक्षरत्तिल् प्रकृतियालेय् अनुसन्धेयम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र तृतीयाऽक्षरोक्ता ज्ञातृत्वादयो  
+नमसि द्वितीयाऽक्षरे प्रकृतौ अनुसन्धेयाः ॥
 </details>
 
 <details><summary>English</summary>
@@ -3055,6 +3074,16 @@ El significado de praņava y su potencia:
 अप्-पडिये कार्य-कारणावस्थ-परमात्म- वाचकत्वादि-प्रक्रियैयाले  
 **पल वगैप् पट्ट् इरुक्कुम्**। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रणवः स्वतन्त्रतायाम्  
+एक-मात्रो द्वि-मात्रस् त्रि-मात्रः सार्ध-त्रि-मात्र  
+इत्य् एको बहु-प्रकारः,  
+
+तद्-अर्थाश् च तथैव कार्य-कारणावस्थ-परमात्म-वाचकत्वादि-प्रक्रियया बहु-विधा भवन्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3116,12 +3145,18 @@ para **denotar** a Brahman como efecto (Kārya) o Brahman como causa (Kāraṇa)
 
 
 
-### अविभागेन भगवद्वाचिता
+### अविभागेन भगवद्-वाचिता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यापक-मन्त्रङ्गळिलुम्  
 प्रणवत्तै परमात्म-प्रधानम् आगवुम्  
 सिल शास्त्रङ्गळ् सॊल्लुम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+व्यापक-मन्त्रेषु  
+प्रणवं परमात्म-प्रधानं कानिचिच् छास्त्राण्य् आहुः ।
 </details>
 
 <details><summary>English</summary>
@@ -3172,12 +3207,15 @@ y como **denotando** entonces el yo supremo.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+एतत्-प्रभावः, 
+
 > ‘‘आद्यन् तु त्र्यक्षरं ब्रह्म  
 त्रयी यत्र प्रतिष्ठिता ।  
 स **गुह्यो** ऽन्यस् त्रिवृद् वेदो  
 यस् तं **वेद** स वेदवित्॥’’  
 (मनुस्मृति ११-२६५) 
 
+इत्य्-आदिषु प्रसिद्धः ।
 </details>
 
 <details><summary>English</summary>
@@ -3243,11 +3281,14 @@ La grandeza y la gloria de Praṇava **son** bien **conocidos** por pasajes como
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अयं 
+
 > ‘‘हविर् **गृहीत्वा** ऽऽत्मरूपं  
 "वसुरण्ये"ति मन्त्रतः ।  
 **जुहुयात्** प्रणवेनाग्नाव्  
 अच्युताख्ये सनातने॥’’() 
 
+इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -3286,6 +3327,13 @@ con el mantra llamado praṇava ".
 न्यास-विद्यैयिल् स्व-तन्त्रम् आय् **आत्म-समर्पण-परम्** आय् इरुक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+न्यास-विद्यायां स्वतन्त्रः सन्  
+आत्म-समर्पण-परो भवति । 
+</details>
+
+
 <details><summary>English</summary>
 
 In the nyāsavidyā, the praṇava is an independent mantra and refers to the surrender of the self.
@@ -3313,6 +3361,12 @@ En el Nyāsavidyā, el praṇava es un mantra independiente y **se refiere** a l
 
 अक् कट्टळैयिलेय्  
 इङ्गुम् समर्पण-परम् **आगवुम् योजिप्पार्गळ्**। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तद्-रीत्या ऽत्रापि  
+समर्पण-परतया ऽपि योजयन्ति । 
 </details>
 
 <details><summary>English</summary>
@@ -3346,6 +3400,17 @@ Por la misma razón, algunos **lo interpretan** incluso aquí como **denotación
 ऎऩ्ऱुम् योजिप्पार्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र 
+
+> स्वरूप-ज्ञान-प्राधान्येन  
+शेषत्वानुसन्धान-मात्रम् उपजीव्यम् 
+
+इत्य् अपि योजयन्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 Others construe that the praṇava should be considered in the Tirumantra  
@@ -3375,6 +3440,12 @@ ya que principalmente **da conocimiento** de la naturaleza esencial (svarūpa) d
 
 अप्-पोदु इश्-शेषत्वानुसन्धानम् अधिकारत्तिले सेरुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तदेदं शेषत्वानुसन्धानम् अधिकारे निविशते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3406,8 +3477,7 @@ Si **es** así, **contribuye** con una calificación o elemento de competencia p
 (याज्ञवल्क्यस्मृति ३-३४)  
 
 ऎऩ्ऱदु  
-शेषि-तत्त्व-ज्ञान-मात्र-परम् आऩ  
-पोदु  
++++(प्रणवः)+++ शेषि-तत्त्व-ज्ञान-मात्र-परम् आऩ पोदु  
 उपायानर्हता-निवृत्ति-परम्। 
 </details>
 
@@ -3417,6 +3487,9 @@ Si **es** así, **contribuye** con una calificación o elemento de competencia p
 **विशुद्धिः** परमा मता’’  
 (याज्ञवल्क्यस्मृति ३-३४)  
 
+इत्य् एतत्  
+शेष-तत्त्व-ज्ञान-मात्र-परं चेद्,  
+उपायानर्हता-निवृत्ति-परम् । 
 </details>
 
 
@@ -3461,6 +3534,8 @@ Cuando **consideramos** que praṇava solo **da** un **conocimiento** del Śeṣ
 
 उपाय-रूप-ज्ञानान्तरत्तै विवक्षिक्कुम् बोदु मोक्ष-परम्। 
 </details>
+
+
 
 <details><summary>English</summary>
 
