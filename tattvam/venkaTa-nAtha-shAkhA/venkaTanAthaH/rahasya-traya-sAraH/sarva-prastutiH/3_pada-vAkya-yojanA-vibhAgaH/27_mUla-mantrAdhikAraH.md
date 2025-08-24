@@ -3825,7 +3825,6 @@ El significado de "a" en praṇava:
 > एष्व् अक्षरेष्व् एषाम् अर्थानां प्रतिपादनं कथम् 
 
 इति चेत् —
-
 </details>
 
 
@@ -3951,7 +3950,7 @@ Y Brahman **es** el origen de todas las cosas **denotadas** por estas palabras.
 तयोर् अर्थात् **प्रतीयते**।’’  
 (वामनपुराणम्) 
 
-
+इति श्री-वामन-पुराण-वचनतः 
 </details>
 
 
@@ -3995,6 +3994,14 @@ Esta relación entre la letra "A" y Bhagavān
 ऎऩ्ऱु प्रसिद्धम् आऩ अर्थत्तै वेदार्थ-संग्रहत्तिलेय् अरुळिच् चॆय्दार्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> 'सर्व-वाचक-जात-प्रकृतेः प्रथमाक्षरस्य  
+सर्व-वाच्य-जात-प्रकृतिर् नारायणो वाच्यः' 
+
+इति प्रसिद्धम् अर्थं वेदार्थ-संग्रहे ऽनुजग्राह । 
+</details>
+
 <details><summary>English</summary>
 
 Śrī Rāmānuja stated in the Vedārthasaṅgraha that 
@@ -4033,6 +4040,13 @@ quien **es** el origen de todas las cosas **denotadas** por estas palabras.
 कारण-वाक्य-सिद्धम् आऩ स-कल--जगन्-निमित्तोपादान-कारणत्वमुम्  
 अत्ताले आक्षिप्तम् आऩ सर्व-ज्ञत्व--सर्व-शक्तित्वादि--गुण-वर्गमुम्  
 इङ्गे सिद्धम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतेन  
+कारण-वाक्य-सिद्ध-- स-कल--जगन्-निमित्तोपादान-कारणत्वं  
+तद्-आक्षिप्त-सर्वज्ञत्व-- सर्व-शक्तित्वादि-- गुण-वर्गश् चात्र सिद्धः । [[P272]]
 </details>
 
 <details><summary>English</summary>
@@ -4079,7 +4093,11 @@ y **tiene** otras cualidades similares.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अस्याक्षरस्य भगवद्-वाचकत्वं 
+
 > ‘‘अ निषेधे, पुमान् +++(चेद्)+++ विष्णौ’’() 
+
+इति, 
 </details>
 
 <details><summary>English</summary>
@@ -4118,7 +4136,7 @@ y **tiene** otras cualidades similares.
 
 > ‘‘अकारो विष्णु-वाचकः’’() 
 
-
+इति, 
 </details>
 
 <details><summary>English</summary>
@@ -4152,6 +4170,7 @@ y **tiene** otras cualidades similares.
 प्रथमाभिधानम् **अभिदधता**  
 किन् नाम **मङ्गलं** न **कृतम्**’’(हरि-ग्रन्थः।)  
 
+इति 
 </details>
 
 <details><summary>English</summary>
@@ -4186,6 +4205,12 @@ cual **es** el primer nombre de Nārāyaṇa,
 निघण्टुक्कळिलुम् प्रयोगङ्गळिलुम् प्रसिद्धम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+निघण्टुषु प्रयोगेषु च प्रसिद्धम् ।
+</details>
+
+
 <details><summary>English</summary>
 
 All this is evident from the Nighantus and the usage of scholars.
@@ -4202,7 +4227,7 @@ Todo esto **es evidente** por el Nighantus y el **uso** de académicos.
 निघण्टुक्कळिलुम् प्रयोगङ्गळिलुम् प्रसिद्धम्। 
 </details>
 
-#### रक्षकः, प्रीणकः
+#### रक्षकः, प्रीणकः - व्युत्पत्तेः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु +++(अवतीति)+++ व्याकरण-व्युत्पत्तियाले सर्वेश्वरऩैच् चॊल्लुम् बोदु  
@@ -4212,6 +4237,8 @@ Todo esto **es evidente** por el Nighantus y el **uso** de académicos.
 
 सर्व-रक्षकत्वादि-विशिष्टऩ् आगक् काट्टुम्।
 </details>
+
+
 
 <details><summary>English</summary>
 
