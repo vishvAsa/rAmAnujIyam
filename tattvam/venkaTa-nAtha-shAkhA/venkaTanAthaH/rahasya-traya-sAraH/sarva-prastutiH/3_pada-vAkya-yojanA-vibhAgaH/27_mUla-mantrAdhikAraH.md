@@ -6064,7 +6064,7 @@ pero también **significa** por implicación (upalakṣaṇa) todas las demás c
 इऩि प्रधानऩाऩ चेतनऩैच् चॊल्लुम् मकारम् शेषत्वाश्रयमाऩ सर्वत्तिऱ्कुमुपलक्षकमॆऩ्गिऱार् तृतीयाक्षरमित्यादिना । 
 </details>
 
-#### प्रमाणानि
+#### निरुक्तयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु जीवात्म-वाचकम् ऎऩ्ऩुम् इडम् 
@@ -6375,11 +6375,11 @@ El M (en AUM) **se refiere** al Jīva y no al Ser Supremo).)
 इत्तिरुमन्त्रत्तिल् मकारङ्गळुम् नारशब्दमुम् निष्कर्षविवक्षैयाले विशेषणमात्रपरङ्गळ्। 
 </details>
 
-
+#### व्युत्पत्तेर् ज्ञातृत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व्-अक्षरम् व्याकरण-प्रक्रियैयैप् पार्त्ताल्  
-‘‘मन ज्ञान’’ इत्य्-आदि-धातुक्कळिले निष्पन्नम् आऩ पदम् आगैयाले 
+‘‘मन ज्ञान’’ +++(मा मानेऽपि→)+++ इत्य्-आदि-धातुक्कळिले निष्पन्नम् आऩ पदम् आगैयाले 
 </details>
 
 <details><summary>English</summary>
@@ -6457,10 +6457,25 @@ y (al mismo tiempo) **poseído** del atributo, jñāna.
 ज्ञानस्वरूपऩुमाय् ज्ञानगुणकऩुमायणुवाऩ जीवात्मावैच् चॊल्लुगिऱदु। 
 </details>
 
+#### आनन्दः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान--स्व-रूपऩ् आगप् पॊदुविले+++(=साधारणतः)+++ सॊऩ्ऩालुम्  
+इवऩ् स्व-रूपम् अनुकूलम् आग प्रमाण-सिद्धम् आगैयाले  
+आनन्द-रूपम् आऩ विशेषमुम् सिद्धिक्कुम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञानस्वरूपऩागप् पॊदुविलेसॊऩ्ऩालुम् इवऩ् स्वरूपमनुकूलमाग प्रमाणसिद्धमागैयाले आनन्दरूपमाऩ विशेषमुम् सिद्धिक्कुम्। 
+</details>
 
 
 
-Though the jīvātmā is said to be, in general terms, of the essential nature of knowledge, yet since this essential nature (svarūpa) is known from the pramāṇas (śabda and the like) to be agreeable and pleasing, it is also of the essential nature of ānanda or bliss which is a specific form of knowledge.
+Though the jīvātmā is said to be, in general terms,  
+of the essential nature of knowledge,  
+yet since this essential nature (svarūpa) is known from the pramāṇas (śabda and the like) to be agreeable and pleasing,  
+it is also of the essential nature of ānanda or bliss which is a specific form of knowledge.
 
 When the jīvatma is said to be possessed of the attribute, knowledge, since the pramāṇas declare him to be possessed of knowledge without any restrictive word, it should be understood that in the state of mukti, his knowledge is all-pervasive and got limited by conditions (or upadhi) and without any restriction or limit.
 
