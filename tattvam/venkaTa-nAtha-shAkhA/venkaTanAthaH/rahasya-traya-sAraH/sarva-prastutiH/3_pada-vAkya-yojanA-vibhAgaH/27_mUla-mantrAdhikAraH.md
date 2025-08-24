@@ -592,7 +592,7 @@ El Carama Śloka **orienta** (como un Vidhi) la **adopción** de este upāya.
 ओर्-ऒऩ्ऱिलेय् ओर्-ऒऩ्ऱुक्कु नोक्क्+++(=छविः)+++ आय् इरुक्कुम्।
 </details>
 
-<details><summary>४२तमाहोबिल-यतिः</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एषु त्रिषु पृथक् पृथक्  
 सर्वेष्व् अर्थेषु शाब्दतया आर्थतया च द्रष्टुं शक्येष्व् अपि,  
@@ -647,6 +647,14 @@ Sin embargo, cada uno de estos tres **tiene** un objetivo principal
 अडैवे+++(=[स]प्रकारं)+++ विशदम् आक्कुगिऱदु द्वयम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रीमन्त्रे प्रथम-पदे प्रथमाक्षरे संक्षिप्तं शरण्य-पर-तत्त्वम्,  
+तत्र मध्यम-तृतीय-पदयोः प्रतिपन्ने उपायोपेये च  
+**विशदीकरोति** द्वयम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 In the Tiru mantra,  
@@ -695,6 +703,18 @@ Lo que **se establece** brevemente (en el Tirumantra) **se aclara** en Dvaya.
 **वॆळिय् इडुगिऱदु** चरम-श्लोकम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र 
+
+- "प्रपद्ये" इति पदय् उत्तमेन विवक्षितम् अधिकारि-विशेषम्, 
+- अर्थ-सिद्धम् उपायान्तर-नैरपेक्ष्यम्, 
+- उपेये नमश्-शब्द-संक्षिप्तं विरोधि-निवृत्य्-अंशं च 
+
+प्रकाशयति चरमश्लोकः ॥ 
+</details>
+
+
 <details><summary>English</summary>
 
 (1) The word prapadye in Dvaya indicates the particular kind of adhikāri (namely, one who is destitute of other upāyas - akiñcana) by the first person singular and  
@@ -734,6 +754,14 @@ El Carama-śloka **explica** claramente estas (tres cosas) (que solo **se insin�
 ज्ञान-+अनुष्ठान--फल-निदानङ्गळ् आय्क्-कॊण्डु  
 +++(क्रमशः)+++ धारक-पोषक-भोग्यङ्गळ्। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एते त्रयो ऽप्य्  
+अस्माकं +++(क्रमशः)+++ ज्ञानानुष्ठान-फल-निदान-भूताः सन्तो  
++++(क्रमशः)+++ धारक-पोषक-भोग्याः ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -780,6 +808,7 @@ Estos tres (mantras) **son** para nosotros (hombres indigentes de otros upāyas)
 मुखेषु **परिवर्तते**॥’’  
 (नारदीयम् १-३२)  
 
+इत्य्-उक्त-रीत्या
 </details>
 
 <details><summary>English</summary>
@@ -819,6 +848,13 @@ en la boca de los que **pronuncian** el mantra ",
 शिष्य-हृदय-गुहान्धकारत्तैक् कऴित्तु +++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+देशिक-जिह्वा-स्थितः  
+शिष्य-हृदय-गुहान्धकारं विनाश्य 
+</details>
+
+
 <details><summary>English</summary>
 
 So, from the tongue of the ācārya,  
@@ -847,6 +883,12 @@ Entonces, de la lengua del ācārya,
 
 पर-शेषतैक-रसम् आऩ परिशुद्ध-स्वरूपत्तै वॆळियिट्टु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पर-शेषतैक-रसं परिशुद्ध-स्वरूपं प्रकाश्य  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -877,6 +919,13 @@ lo que **encuentra** dicha solo en **ser** el Śeṣa del **ser** supremo.
 सत्ता-लाभत्तैप् पण्णुगैयाले  
 तिरु-मन्त्रम् धारकम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सत्ता-लाभस्य साधक  
+इति श्रीमन्त्रो धारकः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -909,6 +958,8 @@ El Tirumantra **es** su **mantenimiento** (Dhāraka).
 
 चरमोपायत्तिले प्रवर्तिक्कुम् बडिय् आऩ ज्ञान-विशेषोपचय-हेतुव् आगैयाले 
 </details>
+
+
 
 <details><summary>English</summary>
 
@@ -6457,12 +6508,29 @@ y (al mismo tiempo) **poseído** del atributo, jñāna.
 ज्ञानस्वरूपऩुमाय् ज्ञानगुणकऩुमायणुवाऩ जीवात्मावैच् चॊल्लुगिऱदु। 
 </details>
 
-#### आनन्दः
+#### सानन्द-ज्ञानात्मकः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञान--स्व-रूपऩ् आगप् पॊदुविले+++(=साधारणतः)+++ सॊऩ्ऩालुम्  
 इवऩ् स्व-रूपम् अनुकूलम् आग प्रमाण-सिद्धम् आगैयाले  
-आनन्द-रूपम् आऩ विशेषमुम् सिद्धिक्कुम्। 
+**आनन्द-रूपम्** आऩ विशेषमुम् **सिद्धिक्कुम्**। 
+</details>
+
+<details><summary>English</summary>
+
+Though the jīvātmā is said to be, in general terms,  
+of the essential nature of knowledge,  
+yet since this essential nature (svarūpa) is known from the pramāṇas (śabda and the like) to be agreeable and pleasing,  
+it is also of the essential nature of ānanda or bliss which is a specific form of knowledge.
+
+</details>
+
+<details><summary>Español</summary>
+
+Aunque se dice que el Jīvātmā **es**, en términos generales,  
+de la naturaleza esencial del **conocimiento**,  
+Sin embargo, dado que esta naturaleza esencial (svarūpa) **es conocida** por los pramāṇas (Śabda y similares) para **ser** agradable y agradable,  
+También **es** de la naturaleza esencial de ānanda o dicha, que **es** una forma específica de **conocimiento**.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -6470,14 +6538,44 @@ y (al mismo tiempo) **poseído** del atributo, jñāna.
 ज्ञानस्वरूपऩागप् पॊदुविलेसॊऩ्ऩालुम् इवऩ् स्वरूपमनुकूलमाग प्रमाणसिद्धमागैयाले आनन्दरूपमाऩ विशेषमुम् सिद्धिक्कुम्। 
 </details>
 
+#### अ-सङ्कुचित-ज्ञानवत्ता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ज्ञान-गुणकम्" ऎऩ्ऩुम् इडञ् जॊऩ्ऩाल्  
+प्रमाणानुसारत्ताले  
+मुक्त-दशैयिल् निरुपाधिक-प्रसरणम् आय्  
+सङ्कोच-रहितम् आऩ ज्ञानं गुणम् आऩमै तोऱ्ऱम्।
+</details>
+
+<details><summary>English</summary>
+
+When the jīvatma is said to be possessed of the attribute, knowledge,  
+since the pramāṇas declare him to be possessed of knowledge without any restrictive word,  
+it should be understood that in the state of mukti,  
+his knowledge is all-pervasive  
+and not limited by conditions (or upadhi)  
+and without any restriction or limit.
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se dice** que el Jīvatma **posee** el atributo, conocimiento,  
+Dado que los pramāṇas **declaran** que **posee conocimiento** sin ninguna palabra restrictiva,  
+**Debe entenderse** que en el estado de Mukti,   
+Su conocimiento **es** todo **álbeo**  
+y **no limitado** por las condiciones (o upadhi)  
+y sin ninguna restricción o límite.
+</details>
 
 
-Though the jīvātmā is said to be, in general terms,  
-of the essential nature of knowledge,  
-yet since this essential nature (svarūpa) is known from the pramāṇas (śabda and the like) to be agreeable and pleasing,  
-it is also of the essential nature of ānanda or bliss which is a specific form of knowledge.
+<details><summary>मूलम्</summary>
 
-When the jīvatma is said to be possessed of the attribute, knowledge, since the pramāṇas declare him to be possessed of knowledge without any restrictive word, it should be understood that in the state of mukti, his knowledge is all-pervasive and got limited by conditions (or upadhi) and without any restriction or limit.
+ज्ञानगुणकमॆऩ्ऩुमिडञ् जॊऩ्ऩाल् प्रमाणानुसारत्तालेमुक्तदशैयिल् निरुपाधिकप्रसरणमाय् सङ्कोचरहितमाऩ ज्ञानम् गुणमाऩमै तोऱ्ऱम्।
+</details>
+
+
+
+
 
 When we consider this natural and pure form of the jivātma, it will appear that it is free from the inertness and other such defects of nonsentient things and so also from such things as pain, suffering etc., which are found in saṁsāra. Hence in the essential nature and the attributes (svarūpa and dharma) of the jivātmā, there is also spotlessness or freedom from all impurity or defect (nirmalatva). The seeker after salvation should meditate that the jīvātmā is absolutely pure and has its enjoyment only in being śeṣa to the Supreme Being and this may be seen from the Brahma Sūtra (3-3-52) which says: "No, only the state (of the jivātmā) that differs from the state of saṁsāra (should be meditated upon), for that is the state which will ensue (in mokṣa) as in the contemplation of Brahman as He is ".
 
