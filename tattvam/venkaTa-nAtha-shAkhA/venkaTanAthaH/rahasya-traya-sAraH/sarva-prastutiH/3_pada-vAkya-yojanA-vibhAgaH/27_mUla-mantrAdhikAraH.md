@@ -2928,6 +2928,14 @@ El mantra, Namo nārāyanāya, **confiere** todas las bendiciones que **se puede
 +++(अर्थम् ऎल्लाम्→)+++ सुरुङ्गव्+++(=सङ्कुचितम्)+++ अनुसन्धेयम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं प्रणव-राहित्येनाष्टाक्षरता-सिद्धि-दशायां  
+
+प्रणवार्थाः सर्वे ऽपि  
+एतत्-प्रणव-प्रतिच्छन्दत्वेन शास्त्रोक्ते ऽक्षरे,  
+'प्रथमाक्षरं सर्व-संग्रहः' इति रीत्या संक्षेपेणानुसन्धेयाः । 
+</details>
 
 
 <details><summary>English</summary>
@@ -2976,6 +2984,11 @@ Porque la sílaba "a" **ser** la primera letra
 मध्यमाक्षरत्तिऱ् पॊरुळुम् अर्थ-सिद्धम् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+मध्यमाक्षरार्थो ऽप्य् अर्थ-सिद्धः । 
+</details>
+
 <details><summary>English</summary>
 
 The meaning of the syllable u in the praňava, namely, 'only' is inferred from the meaning. 
@@ -3002,6 +3015,12 @@ El **significado** de la sílaba en el praňava, a saber, 'solo' **se infiere** 
 
 +++(आम् इत्यत्र +अनुस्वारमात्रे गृहीते)+++ इदिल् तृतीयाक्षरत्तिऱ् सॊल्लुगिऱ ज्ञातृत्वादिगळुम्  
 नमस्सिल् द्वितीयाक्षरत्तिल् प्रकृतियालेय् अनुसन्धेयम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र तृतीयाऽक्षरोक्ता ज्ञातृत्वादयो  
+नमसि द्वितीयाऽक्षरे प्रकृतौ अनुसन्धेयाः ॥
 </details>
 
 <details><summary>English</summary>
@@ -3033,7 +3052,7 @@ Las ideas de **conocimiento** y similares **contenidos** en la tercera carta de 
 
 
 
-## प्रणवार्थः
+## प्रणवार्थः सम्भूय
 <details><summary>English</summary>
 
 THE MEANING OF PRAŅAVA AND ITS POTENCY:
@@ -3055,6 +3074,16 @@ El significado de praņava y su potencia:
 अप्-पडिये कार्य-कारणावस्थ-परमात्म- वाचकत्वादि-प्रक्रियैयाले  
 **पल वगैप् पट्ट् इरुक्कुम्**। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रणवः स्वतन्त्रतायाम्  
+एक-मात्रो द्वि-मात्रस् त्रि-मात्रः सार्ध-त्रि-मात्र  
+इत्य् एको बहु-प्रकारः,  
+
+तद्-अर्थाश् च तथैव कार्य-कारणावस्थ-परमात्म-वाचकत्वादि-प्रक्रियया बहु-विधा भवन्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3116,12 +3145,18 @@ para **denotar** a Brahman como efecto (Kārya) o Brahman como causa (Kāraṇa)
 
 
 
-### अविभागेन भगवद्वाचिता
+### अविभागेन भगवद्-वाचिता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यापक-मन्त्रङ्गळिलुम्  
 प्रणवत्तै परमात्म-प्रधानम् आगवुम्  
 सिल शास्त्रङ्गळ् सॊल्लुम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+व्यापक-मन्त्रेषु  
+प्रणवं परमात्म-प्रधानं कानिचिच् छास्त्राण्य् आहुः ।
 </details>
 
 <details><summary>English</summary>
@@ -3172,12 +3207,15 @@ y como **denotando** entonces el yo supremo.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+एतत्-प्रभावः, 
+
 > ‘‘आद्यन् तु त्र्यक्षरं ब्रह्म  
 त्रयी यत्र प्रतिष्ठिता ।  
 स **गुह्यो** ऽन्यस् त्रिवृद् वेदो  
 यस् तं **वेद** स वेदवित्॥’’  
 (मनुस्मृति ११-२६५) 
 
+इत्य्-आदिषु प्रसिद्धः ।
 </details>
 
 <details><summary>English</summary>
@@ -3243,11 +3281,14 @@ La grandeza y la gloria de Praṇava **son** bien **conocidos** por pasajes como
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अयं 
+
 > ‘‘हविर् **गृहीत्वा** ऽऽत्मरूपं  
 "वसुरण्ये"ति मन्त्रतः ।  
 **जुहुयात्** प्रणवेनाग्नाव्  
 अच्युताख्ये सनातने॥’’() 
 
+इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -3286,6 +3327,13 @@ con el mantra llamado praṇava ".
 न्यास-विद्यैयिल् स्व-तन्त्रम् आय् **आत्म-समर्पण-परम्** आय् इरुक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+न्यास-विद्यायां स्वतन्त्रः सन्  
+आत्म-समर्पण-परो भवति । 
+</details>
+
+
 <details><summary>English</summary>
 
 In the nyāsavidyā, the praṇava is an independent mantra and refers to the surrender of the self.
@@ -3313,6 +3361,12 @@ En el Nyāsavidyā, el praṇava es un mantra independiente y **se refiere** a l
 
 अक् कट्टळैयिलेय्  
 इङ्गुम् समर्पण-परम् **आगवुम् योजिप्पार्गळ्**। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तद्-रीत्या ऽत्रापि  
+समर्पण-परतया ऽपि योजयन्ति । 
 </details>
 
 <details><summary>English</summary>
@@ -3346,6 +3400,17 @@ Por la misma razón, algunos **lo interpretan** incluso aquí como **denotación
 ऎऩ्ऱुम् योजिप्पार्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र 
+
+> स्वरूप-ज्ञान-प्राधान्येन  
+शेषत्वानुसन्धान-मात्रम् उपजीव्यम् 
+
+इत्य् अपि योजयन्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 Others construe that the praṇava should be considered in the Tirumantra  
@@ -3376,6 +3441,12 @@ ya que principalmente **da conocimiento** de la naturaleza esencial (svarūpa) d
 अप्-पोदु इश्-शेषत्वानुसन्धानम् अधिकारत्तिले सेरुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तदेदं शेषत्वानुसन्धानम् अधिकारे निविशते । 
+</details>
+
+
 <details><summary>English</summary>
 
 If so, it contributes a qualification or element of competence for the upāya (viz. praying for protection).
@@ -3397,26 +3468,28 @@ Si **es** así, **contribuye** con una calificación o elemento de competencia p
 </details>
 
 
-### विशुद्धिः
-#### शेषत्व-ज्ञानार्थे
+### विशुद्धिर् आर्था
+#### शेषत्व-ज्ञानार्थय् अधिकार-परः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘क्षेत्र-ज्ञस्येश्वर-ज्ञानाद्  
-**विशुद्धिः** परमा मता’’  
+**विशुद्धिः** परमा मता॥’’  
 (याज्ञवल्क्यस्मृति ३-३४)  
 
 ऎऩ्ऱदु  
-शेषि-तत्त्व-ज्ञान-मात्र-परम् आऩ  
-पोदु  
-उपायानर्हता-निवृत्ति-परम्। 
++++(प्रणवः)+++ शेषि-तत्त्व-ज्ञान-मात्र-परम् आऩ पोदु  
++++("विशुद्धिर्" इति)+++ उपायानर्हता-निवृत्ति-परम्। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘क्षेत्र-ज्ञस्येश्वर-ज्ञानाद्  
-**विशुद्धिः** परमा मता’’  
+**विशुद्धिः** परमा मता॥’’  
 (याज्ञवल्क्यस्मृति ३-३४)  
 
+इत्य् एतत्  
++++(ॐ इति)+++ शेषि-तत्त्व-ज्ञान-मात्र-परं चेद्,  
++++("विशुद्धिर्" इति)+++ उपायानर्हता-निवृत्ति-परम् । 
 </details>
 
 
@@ -3446,20 +3519,35 @@ Cuando **consideramos** que praṇava solo **da** un **conocimiento** del Śeṣ
 
 <details><summary>मूलम्</summary>
 
-‘‘क्षेत्रज्ञस्येश्वरज्ञानाद्विशुद्धिः परमा मता’’(याज्ञवल्क्यस्मृति ३-३४) ऎऩ्ऱदु शेषितत्त्वज्ञानमात्रपरमाऩ पोदु उपायानर्हतानिवृत्तिपरम्। 
+‘‘क्षेत्रज्ञस्येश्वरज्ञानाद्विशुद्धिः परमा मता’’(याज्ञवल्क्यस्मृति ३-३४) ऎऩ्ऱदु शेषि(त)त्त्वज्ञानमात्रपरमाऩ पोदु उपायानर्हतानिवृत्तिपरम्। 
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-प्रणवम् अधिकारपरमॆऩ्बदिलुम् उपायपरमॆऩ्बदिलुम् प्रमाणङ्गाट्टुगिऱार् क्षेत्रज्ञस्येति । इन्द वचनत्तिऱ्कु इरण्डुविदमागत् तात्पर्यमरुळिच्चॆय्गिऱार् शेषित्वज्ञानमात्रपरमाऩबोदु इत्यादिना । शेषितत्वेति पाठान्तरम्। शेषित्वज्ञानमात्रपरमाऩ पोदु - ईश्वरविशेष्यकशेषित्वप्रकारकज्ञानमात्रपरमाऩबोदु, शेषितत्त्वज्ञानमात्रपरमाऩबोदु ऎऩ्गिऱ पाठत्तिल् शेषियाऩ ईश्वररूपतत्त्वत्तिऩुडैय ज्ञानमात्रपरमाऩबोदु ऎऩ्ऱु अर्थम्। 
+प्रणवम् अधिकार-परम् ऎऩ्बदिलुम्  
+उपायपरमॆऩ्बदिलुम् प्रमाणङ्गाट्टुगिऱार् क्षेत्रज्ञस्येति । इन्द वचनत्तिऱ्कु इरण्डुविदमागत् तात्पर्यम् अरुळिच् चॆय्गिऱार्  
+"शेषित्व-ज्ञान-मात्र-परम् आऩ बोदु" इत्यादिना ।  
+शेषितत्त्वेति पाठान्तरम्।  
+शेषित्वज्ञानमात्रपरमाऩ पोदु - ईश्वर-विशेष्यक-शेषित्व-प्रकारक-ज्ञान-मात्र-परम् आऩ बोदु,  
+शेषितत्त्वज्ञानमात्रपरमाऩबोदु ऎऩ्गिऱ पाठत्तिल् शेषियाऩ ईश्वररूपतत्त्वत्तिऩुडैय ज्ञानमात्रपरमाऩबोदु ऎऩ्ऱु अर्थम्। 
+
+उपायानर्हता निवृत्तिपरमिति ।  
+विशुद्धिः ऎऩ्गिऱ शब्दत्तिऱ्कु उपायानर्हतापादकाशुद्धि-निवृत्तियिले तात्पर्यम्। 
 </details>
 
 
-#### उपायार्थे
+#### उपायार्थे मोक्षपरम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपाय-रूप-ज्ञानान्तरत्तै विवक्षिक्कुम् बोदु मोक्ष-परम्। 
++++("ॐ" इति)+++ उपाय-रूप-ज्ञानान्तरत्तै विवक्षिक्कुम् बोदु  
++++("विशुद्धिर्" इति)+++ मोक्ष-परम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++("ॐ" इति)+++ उपाय-रूप-ज्ञानान्तरस्य विवक्षितत्वे  
++++("विशुद्धिर्" इति)+++ मोक्ष-परम् । 
 </details>
 
 <details><summary>English</summary>
@@ -3484,9 +3572,12 @@ La 'pureza suprema' **significaría** mokṣa.
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-उपायानर्हता निवृत्तिपरमिति । विशुद्धिः ऎऩ्गिऱ शब्दत्तिऱ्कु उपायानर्हतापादकाशुद्धिनिवृत्तियिले तात्पर्यम्। 
+उपाय-रूप-ज्ञानान्तरत्तै विवक्षिक्कुम् बोदु -  
+ईश्वर-ज्ञानात् ऎऩ्गिऱ पदत्ताले ईश्वर-विषयक-भक्ति-प्रपत्ति-रूपोपाय-ज्ञानत्तै विवक्षिक्क विवक्षिक्कुम्बोदु, मोक्षपरमिति ।  
 
-उपायरूपज्ञानान्तरत्तै विवक्षिक्कुम्बोदु - ईश्वरज्ञानात् ऎऩ्गिऱ पदत्ताले ईश्वरविषयकभक्तिप्रपत्तिरूपोपायज्ञानत्तै विवक्षिक्विवक्षिक्कुम्बोदु, मोक्षपरमिति । अन्द विशुद्धिपदम् अशुद्धमाऩ प्रकृतिसम्बन्धत्तिऩुडैय आत्यन्तिकनिवृत्तिपरमॆऩ्ऱु करुत्तु।
+> अन्द विशुद्धि-पदम् अ-शुद्धम् आऩ प्रकृति-सम्बन्धत्तिऩ्-उडैय आत्यन्तिक-निवृत्ति-परम्  
+
+ऎऩ्ऱु करुत्तु।
 </details>
 
 
@@ -3505,7 +3596,7 @@ La 'pureza suprema' **significaría** mokṣa.
 
 <details><summary>नीलमेघः (सं)</summary>
 
-
+एतत्-प्रणवार्थानुसन्धान-क्रमम्, 
 
 > ‘‘ईदृशः परमात्मा ऽयं  
 प्रत्यग्-आत्मा तथेदृशः ।  
@@ -3513,7 +3604,7 @@ La 'pureza suprema' **significaría** mokṣa.
 इति **योगः प्रकीर्तितः**॥’’  
 (शाण्डिल्य-स्मृतिः ५-१७) 
 
-
+इति श्री-शाण्डिल्य-भगवान् अनुजग्राह । 
 </details>
 
 <details><summary>English</summary>
@@ -3562,11 +3653,14 @@ y el Jīva **es** de tal y tal naturaleza.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+एतम्, 
+
 > **अकारार्थो** विष्णुर् जगद्-उदय-रक्षा-प्रलय-कृत्,  
 **मकारार्थो** जीवस्, तद्-उपकरणं वैष्णवम् इदम् ।  
 **उकारो**, ऽनन्यार्हं नियमयति संबन्धम् अनयोः,  
 त्रयी-सारस् त्र्यात्मा **प्रणव** इमम् अर्थं समदिशत् ॥ १ ॥  (अष्टश्लोकी १) 
 
+इति विवव्रुः । 
 </details>
 
 <details><summary>English</summary>
@@ -3617,6 +3711,14 @@ y **es** la **esencia** de los (tres) Vedas **revela** este significado ".
 ऎऩ्गिऱदुम् इप्-प्रणवार्थ-विवरणम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "कृष्ण-पुरम् एकं स्वी-कृतवतः +++(←"अ")+++ शेष-भूतो ऽहं +++(→"म्")+++,  
+(अन्यस्य) कस्यचिच् छेषः किं भवेयम् +++(←"उ")+++"  
+
+इत्य्-एतद् अप्य्  
+एतत्-प्रणवार्थ-विवरणम् ।
+</details>
 
 
 <details><summary>English</summary>
@@ -3649,11 +3751,17 @@ El Señor de Tirukkannapuram;
 इऩि तिरुमङ्गैयाऴ् वारुडैय कण्णबुरमॆऩ्ऱबासुरम् इप्प्रणवार्थविवरणरूपमॆऩ्गिऱार् कण्णबुरमित्यादिना । ’’कण्णबुरमॊऩ्ऱुडैयाऩुक्कु’’ ऎऩ्बदु अकारार्थविवरणम्। ’’अडियेऩ्’’ ऎऩ्बदु लुप्तचतुर्थीसहितमकारार्थविवरणम्। ’’ऒरुवर्क्कुरियेऩो’’ ऎऩ्बदु उकारार्थविवरणम्। 
 </details>
 
-
+### वेद-त्रयम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रणवत्तिल् अक्षर-त्रयत्तैयुम् वेद-त्रय-सारम् आग श्रुति-स्मृतिगळ् प्रपञ्चित्तऩ।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रणवे ऽक्षर-त्रयं वेद-त्रय-सारत्वेन श्रुति-स्मृतयः प्रपञ्चयाम् आसुः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3693,7 +3801,7 @@ Los Śrutis y los Smṛtis **describen** las tres letras de Praṇava como la es
 ऎऩ्गिऱदु।  निरबृहत् – सारमुद्धृतवानित्यर्थः । बृहि उद्यमने ऎऩ्ऱिऱे धातुः । 
 </details>
 
-
+## प्रणवार्थो ऽक्षरशः
 ### अकारः
 <details><summary>English</summary>
 
@@ -3711,6 +3819,14 @@ El significado de "a" en praṇava:
 
 ऎऩ्ऩिल्; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एष्व् अक्षरेष्व् एषाम् अर्थानां प्रतिपादनं कथम् 
+
+इति चेत् —
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3834,7 +3950,7 @@ Y Brahman **es** el origen de todas las cosas **denotadas** por estas palabras.
 तयोर् अर्थात् **प्रतीयते**।’’  
 (वामनपुराणम्) 
 
-
+इति श्री-वामन-पुराण-वचनतः 
 </details>
 
 
@@ -3878,6 +3994,14 @@ Esta relación entre la letra "A" y Bhagavān
 ऎऩ्ऱु प्रसिद्धम् आऩ अर्थत्तै वेदार्थ-संग्रहत्तिलेय् अरुळिच् चॆय्दार्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> 'सर्व-वाचक-जात-प्रकृतेः प्रथमाक्षरस्य  
+सर्व-वाच्य-जात-प्रकृतिर् नारायणो वाच्यः' 
+
+इति प्रसिद्धम् अर्थं वेदार्थ-संग्रहे ऽनुजग्राह । 
+</details>
+
 <details><summary>English</summary>
 
 Śrī Rāmānuja stated in the Vedārthasaṅgraha that 
@@ -3916,6 +4040,13 @@ quien **es** el origen de todas las cosas **denotadas** por estas palabras.
 कारण-वाक्य-सिद्धम् आऩ स-कल--जगन्-निमित्तोपादान-कारणत्वमुम्  
 अत्ताले आक्षिप्तम् आऩ सर्व-ज्ञत्व--सर्व-शक्तित्वादि--गुण-वर्गमुम्  
 इङ्गे सिद्धम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतेन  
+कारण-वाक्य-सिद्ध-- स-कल--जगन्-निमित्तोपादान-कारणत्वं  
+तद्-आक्षिप्त-सर्वज्ञत्व-- सर्व-शक्तित्वादि-- गुण-वर्गश् चात्र सिद्धः । [[P272]]
 </details>
 
 <details><summary>English</summary>
@@ -3962,7 +4093,11 @@ y **tiene** otras cualidades similares.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अस्याक्षरस्य भगवद्-वाचकत्वं 
+
 > ‘‘अ निषेधे, पुमान् +++(चेद्)+++ विष्णौ’’() 
+
+इति, 
 </details>
 
 <details><summary>English</summary>
@@ -4001,7 +4136,7 @@ y **tiene** otras cualidades similares.
 
 > ‘‘अकारो विष्णु-वाचकः’’() 
 
-
+इति, 
 </details>
 
 <details><summary>English</summary>
@@ -4035,6 +4170,7 @@ y **tiene** otras cualidades similares.
 प्रथमाभिधानम् **अभिदधता**  
 किन् नाम **मङ्गलं** न **कृतम्**’’(हरि-ग्रन्थः।)  
 
+इति 
 </details>
 
 <details><summary>English</summary>
@@ -4069,6 +4205,12 @@ cual **es** el primer nombre de Nārāyaṇa,
 निघण्टुक्कळिलुम् प्रयोगङ्गळिलुम् प्रसिद्धम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+निघण्टुषु प्रयोगेषु च प्रसिद्धम् ।
+</details>
+
+
 <details><summary>English</summary>
 
 All this is evident from the Nighantus and the usage of scholars.
@@ -4085,7 +4227,7 @@ Todo esto **es evidente** por el Nighantus y el **uso** de académicos.
 निघण्टुक्कळिलुम् प्रयोगङ्गळिलुम् प्रसिद्धम्। 
 </details>
 
-#### रक्षकः, प्रीणकः
+#### रक्षकः, प्रीणकः - व्युत्पत्तेः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु +++(अवतीति)+++ व्याकरण-व्युत्पत्तियाले सर्वेश्वरऩैच् चॊल्लुम् बोदु  
@@ -4094,6 +4236,14 @@ Todo esto **es evidente** por el Nighantus y el **uso** de académicos.
 कर्तृ-वाचिय् आऩ प्रत्ययत्ताले निष्पन्नम् आऩ पदम् आय्  
 
 सर्व-रक्षकत्वादि-विशिष्टऩ् आगक् काट्टुम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं व्याकरण-व्युत्पत्त्या सर्वेश्वरस्य प्रतिपादन-दशायां  
+रक्षण-प्रीणनादि-विषये धातौ  
+कर्तृ-वाचिना प्रत्ययेन निष्पन्नं पदं सत्  
+सर्व-रक्षकत्वादि-विशिष्टतया प्रदर्शयति । 
 </details>
 
 <details><summary>English</summary>
@@ -4130,6 +4280,15 @@ y la palabra que los **resultados se refieren** a alguien que **es** un protecto
 रक्षणार्थत्तिल् प्रसिद्धि-प्रकर्षत्तालुम्  
 इव्व्-अर्थम् इङ्गे अपेक्षितम् आगैयालुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अस्य धातोर् अनेकार्थत्वे ऽपि  
+रक्षणार्थे प्रसिद्धि-प्रकर्षात्,  
+अस्यार्थस्येहापेक्षितत्वात्, 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -4170,6 +4329,12 @@ Además, **es** este **significado** el que **se requiere** aquí (en **relació
 > इङ्गे नानार्थङ्गळ् अनुसन्धेयङ्गळ् आगव् ऒरु निरुक्तिय् इल्लामैयालुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> इह "नानार्थो ऽनुसन्धेय" इति कस्याश्चिन् निरुक्तेर् अभावाच् च  
+</details>
+
+
 <details><summary>English</summary>
 
 besides there is no authoritative etymological explanation that it should be considered as having many meanings; 
@@ -4201,6 +4366,17 @@ de que **se debe considerar** que **tiene** muchos significados;
 
 ऎऩ्ऱु इव्व्-अळवे आचार्यर्गळ् व्याख्यानम् पण्णिऩार्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> प्रथम-पठितस्य रक्षणस्य शाब्दत्वेन,  
+अन्येषाम् अपेक्षितार्थानाम्  
+एतद्-आक्षिप्तत्वेन चानुसन्धानम् उचितम् 
+
+इति हेतोः  
+एतावद् एवाचार्या व्याचचक्षिरे । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4241,6 +4417,12 @@ como **significa** el **protector** o **salvador**.
 इन्द रक्षकत्वम् अवच्छेदकम् इल्लामैयाले सर्व-विषयम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं रक्षकत्वम् अवच्छेदकाभावात् सर्व-विषयम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 As the meaning 'protector' is not restricted by any limiting adjunct, the protectorship extends to all. 
@@ -4276,6 +4458,12 @@ Como el significado 'protector' **no está restringido** por ningún complemento
 **विचित्रङ्गळ् आय् इरुक्कुम्**। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+रक्षा-प्रकाराः प्रति-विषयं प्रमाण-प्रदर्शित-रीत्या विचित्राः सन्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 The manner of protection varies with the objects of protection  
@@ -4305,6 +4493,14 @@ como **lo demuestran** los pramāṇas (fuentes de **conocimiento**).
 सापराधर् आऩ संसारिगळुक्कु  
 मोक्षादि-**प्रदानत्तिल्** स्वतन्त्रऩ् आऩ ईश्वरऩ्  
 ताऩ् **सङ्कल्पित्तु वैत्तद्** ऒरु व्याजत्तैय् **अपेक्षित्त् इरुक्कुम्**।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं  
+हेतु-निर्देशाकरणात् निरुपाधिकतया प्रतीतम् सद् अपि  
+सापराधानां संसारिणां मोक्षादि-प्रदाने स्व-तन्त्रेणेश्वरेण  
+स्वयं संकल्पितं कंचिद् व्याजम् **अपेक्षमाणं** वर्तते । 
 </details>
 
 <details><summary>English</summary>
@@ -4348,6 +4544,14 @@ Sobre los que **están** en Saṁsāra.
 स्थित-स्थापन-रूपेण रक्षै मुऴुक्क+++(=पूर्णं)+++ नडक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+नित्येषु मुक्तेषु च  
+निरुपाधिक-सहज-कारुण्य-मात्रेण  
+स्थित-स्थापन-रूपा रक्षा सदा वर्तते । 
+</details>
+
+
 <details><summary>English</summary>
 
 Towards the nityas ( the eternal süris) and those who have already attained mukti,  
@@ -4378,10 +4582,18 @@ Y este **es** el resultado de la misericordia natural e incondicionada de Bhagav
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्पडि स्वाभाविकम् आऩ रक्षकत्वम्  
+इप्-पडि स्वाभाविकम् आऩ रक्षकत्वम्  
 प्रातिकूल्यं नडक्कुङ् कालत्तिल्  
 अनाद्य्-अपराधत्ताले **पिऱन्द** निग्रह-रूपोपाधियाले **प्रतिबद्धमाम्**। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं स्वाभाविक-भूतं रक्षकत्वं  
+प्रातिकूल्य-वर्तन-काले  
+अनाद्य्-अपराध-जनित-निग्रह-रूपोपाधिना प्रतिबद्धं भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4417,6 +4629,13 @@ Cuando **se han producido acciones** que le **están** desagradando.
 प्रतिबन्धकम् आऩ इव्व्-उपाधियैक् कऴिक्कैक्क् आगवे  
 प्रपत्ति-मुदल् आऩ व्याजङ्गळ् शास्त्र-सिद्धङ्गळ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रतिबन्धकस्यास्योपाधेर् नाशार्थम् एव  
+प्रपत्ति-प्रभृतयो व्याजाः शास्त्र-सिद्धाः ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4504,12 +4723,18 @@ que **no depende** de nada más.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+[[P273]]
+
+सर्व-रक्षण-दीक्षितः, 
+
 > ३१‘‘लक्ष्म्या सह हृषीकेशो  
 देव्या कारुण्य-रूपया ।  
 **रक्षकस्** सर्व-सिद्धान्ते  
 वेदान्तेऽपि च गीयते॥’’  
 (लक्ष्मीतन्त्रम् २८-१४) 
 
+इत्य्-आद्य्-उक्त-रीत्या  
+स-पत्नीकः सिद्ध इत्य् अतः 
 </details>
 
 
@@ -4550,8 +4775,14 @@ El Señor que **ha decidido otorgar** la **redención** a todos **está listo** 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इङ्गे +++(←"त्राणे स्वामित्वम्…" इति मुख्यहेतौ)+++ प्रमाण-सिद्धोपयोग-विशेषम् आऩ पत्नी-सम्बन्धम् आर्थम्। 
+इङ्गे +++(←"त्राणे स्वामित्वम्…" इति मुख्यहेतौ)+++ प्रमाण-सिद्धोपयोग-विशेषम् +++(→पुरुषकारता, उपायता)+++ आऩ पत्नी-सम्बन्धम् आर्थम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र प्रमाण-सिद्धोपयोग-विशेषः +++(→पुरुषकारता, उपायता)+++ पत्नी-संबन्ध आर्थः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4590,6 +4821,18 @@ del **propósito** (de protección) que es evidente de los pramāṇas.
 
 ऎऩ्ऩुम् इडत्तै
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं 
+
+> +++(अनेक-)+++सन्नियोग-शिष्ट-न्यायेन  
+सर्वेश्वर-प्रतिपादन-स्थले सर्वत्र  
+श्रीर् अपि प्रतिपादिता
+
+इत्य् एतम् अर्थम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4641,6 +4884,14 @@ El otro también **debe considerarse** como **se indica** ”(Sanniyogasiṣṭa
 ऎऩ्ऱु समर्थित्तार्गळ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> ३२‘‘तद्-अन्तर्-भावात् त्वां न पृथग् अभिधत्ते श्रुतिर् अपि’’  
+(श्री-गुण-कोशः २८) 
+
+इति समर्थयाम् आसुः । 
+</details>
+
 <details><summary>English</summary>
 
 Thus the ācāryas, too, have said,  
@@ -4673,8 +4924,16 @@ Incluso el Veda **no te menciona** por separado ".
 आगैयाल् स्व-रूप--निरूपक-धर्मङ्गळ्  
 सर्व-विद्यैगळिलुम् वरुगिऱ कणक्किले  
 अवऱ्ऱिल् प्रधानम् आऩ इव् विशेषणमुम्  
-सर्व-विद्यैगळिलुम् अनुसन्धेयम्। 
+सर्व-विद्यैगळिलुम् अनुसन्धेयम्। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः स्वरूप-निरूपक-धर्माणां सर्व-विद्यानुवृत्तेर् गणनया +++(~~सर्व-विद्यानुवृत्ति-न्यायेन~~)+++  
+तेषु प्रधान-भूतम् इदं विशेषणम् अपि  
+सर्व-विद्यास्व् अनुसंधेयम् । +++(4)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4716,6 +4975,12 @@ También **debe tenerse** en **cuenta**.
 सर्वातिशायिय् आऩ स्व-तन्त्र--स्व-रूपत्तुक्कु निरूपकमाम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् एव देवतान्तर-व्यावृत्तिं कुर्वत् सत्  
+सर्वातिशायिनः स्वतन्त्र-स्वरूपस्य निरूपकं भवति । 
+</details>
+
 <details><summary>English</summary>
 
 It is this attribute (Lakṣmī) which rules out other deities,  
@@ -4748,8 +5013,14 @@ como **tener** una excelencia que supera todo lo demás.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवऩ्-उडैय स्वतस्-सिद्धातिशयङ्गळ् आऩ स्वरूप-विग्रह-विभूतिगळ्
+> इवऩ्-उडैय स्वतस्-सिद्धातिशयङ्गळ् आऩ स्वरूप-विग्रह-विभूतिगळ्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अस्य स्वतः-सिद्धातिशयाः स्वरूप-विग्रह-विभूतयः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4777,18 +5048,18 @@ que **no surgen** de ninguna otra fuente,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘भास्करेण प्रभा यथा’’  
+> > ‘‘भास्करेण प्रभा यथा’’  
 (रामायणम् सुन्दरकाण्डम् २१-१५) 
-
-ऎऩ्ऩुम्बडि 
+> 
+> ऎऩ्ऩुम्बडि 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘भास्करेण प्रभा यथा’’  
+> > ‘‘भास्करेण प्रभा यथा’’  
 (रामायणम् सुन्दरकाण्डम् २१-१५) 
-
-
+> 
+> इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -4818,11 +5089,24 @@ Como **se puede ver** en el símil;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विशेषणम् आय् निऱ्किऱ इवळ्-उडैय स्व-रूप--विग्रह-विभूतिगळालुम्  
+> विशेषणम् आय् निऱ्किऱ इवळ्-उडैय स्व-रूप--विग्रह-विभूतिगळालुम्  
 लब्धातिशयङ्गळ् आय्क् कॊण्डु  
-विळङ्गिय् इरुक्कुम् ऎऩ्ऩुम् इडम्  
+विळङ्गिय् इरुक्कुम् 
+
+ऎऩ्ऩुम् इडम्  
 देवता-पारमार्थ्य-वेदिगळ् आऩ महर्षिकळाले प्रपञ्चितम्।    
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> विशेषणत्वेन स्थिताया अस्याः  
+स्वरूप-विग्रह-विभूतिभिः  
+लब्धातिशयाः सन्तो विराजन्ते  
+
+इत्य्-एतत्  
+देवता-पारमार्थ्य-वेदिभिर् महर्षिभिः प्रपञ्चितम् । 
+</details>
+
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -4864,6 +5148,13 @@ quien **entendió** la naturaleza y la persona de la deidad suprema.
 इप्पडि नारायण-शब्दत्तिलुम् पत्नी-सम्बन्धम् अनुसन्धेयम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं नारायण-शब्दे ऽपि  
+पत्नी-संबन्धो ऽनुसन्धेयः । 
+</details>
+
+
 <details><summary>English</summary>
 
 So also in the word Nārāyaṇa in Tirumantra,  
@@ -4891,6 +5182,12 @@ La relación de Nārāyaṇa con su consorte **debe tener** en cuenta.
 
 इप् पत्नी-सम्बन्धम् द्वयत्तिले कण्ठोक्तम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं पत्नी-संबन्धो द्वये कण्ठोक्तः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4920,6 +5217,14 @@ Esta relación con el cónyuge **se establece** clara y explícitamente en el dv
 प्रथमत्तिले ‘‘भगवन्नारायण’’ ऎऩ्ऱु तुडङ्गिच् चॊल्लच् चॆय्दे  
 नारवर्गत्तिऩ् नडुवेय् इवळैच् चॊल्लिऱ्ऱुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+द्वय-विवरणे गद्ये  
+प्रथमतः “भगवन्-नारायण” इत्य् आरभ्य प्रतिपाद्यमानत्वे ऽपि  
+नार-वर्ग-मध्ये ऽस्या उपादानम् अपि (तु)  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4955,6 +5260,12 @@ Lakṣmī **está incluido** entre los Nāras por los comentaristas.
 पत्नीत्व-निबन्धनम् आऩ पति-पारार्थ्यत्तालुम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+पत्नीत्व-निबन्धन-पति-पारार्थ्यात् 
+</details>
+
+
 <details><summary>English</summary>
 
 But this inclusion is only to indicate Her dependence on Her Lord 
@@ -4986,6 +5297,8 @@ Pero esta **inclusión es** solo **indicar** su **dependencia** de su Señor
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘नर-सम्बन्धिनो नाराः’’ 
+
+इति व्युत्पत्त्या च भवति । 
 </details>
 
 <details><summary>English</summary>
@@ -5029,6 +5342,8 @@ sin la **especificación** de la forma de relación.
 
 इङ्गु प्रथमाक्षरं चतुर्थ्य्-एक-वचनान्तम् आय् विभक्ति-लोपम् पिऱन्दु किडक्किऱदु। 
 </details>
+
+
 
 <details><summary>English</summary>
 
