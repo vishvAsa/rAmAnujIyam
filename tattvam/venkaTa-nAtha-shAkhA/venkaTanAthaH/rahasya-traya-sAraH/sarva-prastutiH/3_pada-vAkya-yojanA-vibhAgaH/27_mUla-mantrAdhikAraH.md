@@ -5808,9 +5808,8 @@ Como el dativo en el praṇava **considerado** como un mantra independiente
 इङ्गु प्रणवम् पर-शेषतैक-रस--स्व-रूप- प्रतिपादन-परम् आऩ पॊरुळिल्  
 इच् चतुर्थि तादर्थ्यत्तै विवक्षिक्कैयाले  
 आत्म-परमात्माक्कळ्-उडैय शेष-शेषि-भावम् प्रकाश्यम् आगैयाल्  
-निरुपाधिक-सर्व-शेषिय् आऩ ईश्वरऩैप् पऱ्ऱ्  
-अत्-ताऩ् निरुपाधिक-शेषम् आऩ बडि  
-अनुसन्धेयम्।
+निरुपाधिक-सर्व-शेषिय् आऩ ईश्वरऩैप् पऱ्ऱत्  
+ताऩ् निरुपाधिक-शेषम् आऩ बडि अनुसन्धेयम्।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -6186,13 +6185,26 @@ He is always (to be thought of as) with His Consort.
 आत्म-हविर्-उद्देश्य-देवतात्वम् इरुवर्क्कुम् कूडव् 
 
 ऎऩ्ऱु तोऱ्ऱुगैक्क् आग  
-शेषिगळ् इरुवर् आय् इरुक्क  
 
-> शेषित्वम् एकम् 
+> शेषिगळ् इरुवर् आय् इरुक्क  
+शेषित्वम् एकम् 
 
 ऎऩ्गिऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अग्नी-षोमीयादिष्व् इव  
+आत्म-हविर्-उद्देश्य-देवतात्वम्  
+उभयोः सह भवति (व्यासज्य-वृत्ति ) 
+
+इति प्रतिपादनार्थं  
+
+> शेषिणोर् द्वित्वे सत्य् अपि  
+शेषित्वम् एकम् 
+
+इत्य् उच्यते ।
+</details>
 
 
 <details><summary>English</summary>
@@ -6242,6 +6254,16 @@ y **descansa** con dos ".
 
 ऎऩ्ऩुम् इडम् शाब्दम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मध्यमाक्षरं लक्ष्मी-वाचकत्वेन व्याचक्षाणस्य कठ-श्रुति-वाक्यस्य परामर्शे  
+
+> उभौ प्रति अयम् आत्मा शेष 
+
+इत्य् अर्थः शाब्दः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6299,6 +6321,14 @@ Esta **es** la **definición** de praṇava.)
 परोपकारार्हम् आगै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+शेषत्वं नाम,  
+स्वस्य कम् अप्य् उपकारं प्राधान्येनानाश्रित्य  
+परोपकारार्हता । 
+</details>
+
+
 <details><summary>English</summary>
 
 To be śeṣa is to serve the purposes of another  
@@ -6319,7 +6349,11 @@ sin el deseo principal de **ganar** algo para uno mismo.
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
 शेषलक्षणमाऩ शेषत्वस्वरूपमॆऩ्ऩॆऩ्ऩवरुळिच्चॆय्गिऱार् शेषत्वमावदु इति ।  
-तऩक्कॊरु उपकारत्तै प्रधानमागप्पऱ्ऱवऩ्ऱिक्केयिति । इङ्गु प्रधानमॆऩ्गैयाल् शेषऩुक्कु अवान्तरप्रयोजनम् वन्दालुम् लक्षणमव्याप्तमागादॆऩ्ऱु तिरुवुळ्ळम्।
+तऩक्क् ऒरु उपकारत्तै प्रधानम् आगप् पऱ्ऱव् अऩ्ऱिक्केय् इति ।  
+इङ्गु प्रधानम् ऎऩ्गैयाल्  
+शेषऩुक्कु अवान्तर-प्रयोजनम् वन्दालुम्  
+लक्षणम् अव्याप्तम् आगाद्  
+ऎऩ्ऱु तिरुव्-उळ्ळम्।
 </details>
 
 
@@ -6336,11 +6370,20 @@ sin el deseo principal de **ganar** algo para uno mismo.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+इदम्, 
+
 > ३६‘‘पर-गतातिशयाधानेच्छयोपादेयत्वम् एव यस्य स्वरूपं  
 स शेषः, परश् शेषी॥’’ 
 (वेदार्थ-सङ्ग्रहः) 
 
+इति श्रीभाष्यकारो ऽनुजग्राह (वे. सं.) । 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+विस्तारो [ऽन्यत्र](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaH/jIvAnAM_sheShatvam) । 
+</details>
+
 
 
 <details><summary>English</summary>
@@ -6379,6 +6422,12 @@ the other is the śeṣī."
 +++(कठ-)+++श्रुतियिल् तोऱ्ऱिऩ षष्ठी-द्विवचनम् लुप्तम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र  +++(कठ-)+++श्रुति-प्रतीतं षष्ठी-द्विवचनं लुप्तम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 The genitive dual case ending which is indicated by the Kaṭha śruti (their servant) is elliptical. 
@@ -6405,6 +6454,13 @@ El final de doble caso genitivo que **está indicado** por el Kaṭha śruti (su
 इङ्गु सम्बन्ध-सामान्यत्तिले प्रवृत्तैय् आऩ षष्ठिय् आऩदु  
 प्रमाण-सिद्धम् आय् अपेक्षितम् आऩ विशेषत्तिले विश्रमिक्कक् कडवदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र संबन्ध-सामान्ये प्रवृत्ता षष्ठी  
+प्रमाण-सिद्धे ऽपेक्षिते विशेषे विश्राम्यति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6441,6 +6497,8 @@ que **se entiende** por los pramāṇas.
 व्यक्तम् आगैक्क् आग चतुर्थी-द्वि-वचनम् एऱि  
 लोपित्तुक् किडक्किऱद्+++(=अवस्थितम्)+++ आगवुम् आम्। 
 </details>
+
+
 
 <details><summary>English</summary>
 
