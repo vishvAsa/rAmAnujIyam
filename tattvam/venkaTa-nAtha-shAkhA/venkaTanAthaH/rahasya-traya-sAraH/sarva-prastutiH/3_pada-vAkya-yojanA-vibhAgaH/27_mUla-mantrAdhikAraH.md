@@ -5343,6 +5343,11 @@ sin la **especificación** de la forma de relación.
 इङ्गु प्रथमाक्षरं चतुर्थ्य्-एक-वचनान्तम् आय् विभक्ति-लोपम् पिऱन्दु किडक्किऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P274]]  
+अत्र प्रथमाक्षरं चतुर्थ्य्-एक-वचनान्तं सञ्जात-विभक्ति-लोपं वर्तते । 
+</details>
 
 
 <details><summary>English</summary>
@@ -5378,6 +5383,15 @@ El sufijo singular dativo (habitual) **ha sido eliminado**.
 प्रणवत्तै मन्त्रम् आग विधिक्कैयालुम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तत् कथम् इति चेत् —  
+
+परमात्मने स्वात्म-समर्पणस्य विधान-स्थले  
+प्रणवस्य मन्त्रत्वेन विधानात्, 
+</details>
+
+
 <details><summary>English</summary>
 
 The reasons for holding that the "a" is in the dative singular (when no case - suffix is seen ) are as follows:  
@@ -5410,6 +5424,12 @@ El praṇava **se prescribe** como el mantra (por hacerlo);
 इदुक्कु अनुष्ठेयार्थ-प्रकाशनम् प्राप्तमागैयालुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्यानुष्ठेयार्थ-प्रकाशनस्य प्राप्तत्वात्, 
+</details>
+
+
 <details><summary>English</summary>
 
 (2) the mantra should reveal the nature of the action to be performed, 
@@ -5437,6 +5457,12 @@ El praṇava **se prescribe** como el mantra (por hacerlo);
 इदिल् समर्पणीयऩ् आऩव् आत्मा तृतीयाक्षरत्तिले प्रकाशिक्कैयालुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र समर्पणीयस्यात्मनस् तृतीयाक्षरेण प्रकाशनात्,  
+</details>
+
+
 <details><summary>English</summary>
 
 (3) the self to be surrendered is seen in the third letter (m) (in aum)  
@@ -5463,6 +5489,13 @@ El praṇava **se prescribe** como el mantra (por hacerlo);
 
 इदुक्क् उद्देश्यमाऩ परब्-रह्मम् प्रथमाक्षरत्तिल् प्रकृतियाले तोऱ्ऱुगैयालुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद्-उद्देश्यस्य परमात्मनः प्रथमाक्षरे प्रकृत्या प्रतीतत्वात्, 
+</details>
+
+
 <details><summary>English</summary>
 
 and the Supreme Brahman for whom it is surrendered is seen in the base (prakṛti, viz. a) of the first letter;
@@ -5488,6 +5521,12 @@ y el Supremo Brahman para quien **se entrega se ve** en la base (Prakṛti, a sa
 
 उद्देश्य-कारकत्तैयुम्, समर्पणीय-वस्तुवैयुम् समानाधिकरित्तुप् प्रयोगिक्कै उचितम् अल्लामैयालुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उद्देश्य-कारकस्य समर्पणीय-वस्तुनश् च सामानाधिकरण्येन प्रयोगस्यानुचितत्वाच् च  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5520,6 +5559,12 @@ y el objeto que **se entrega**
 उद्देश्य-कारकत्तुक्क् अनुरूपम् आऩ चतुर्थी-विभक्तियै  
 इव्व् इडत्तिले कॊळ्ळप् प्राप्तम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उद्देश्य-कारकानुरूपा चतुर्थी-विभक्तिर् अत्राश्रयितुं युक्ता । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5557,6 +5602,15 @@ Por lo tanto, el "A" (que es la primera letra)
 ऎऩ्ऩुम् कुदृष्टि-पक्षत्तुक्कु
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रथम-तृतीयाक्षरे समानाधिकरणत्वेनाश्रित्य  
+जीव-परमात्मनोः स्वरूपैक्यम् अत्र प्रतिपाद्यत  
+
+इत्य् अस्य कु-दृष्टि-पक्षस्य 
+</details>
+
+
 <details><summary>English</summary>
 
 The view of perverse interpreters (Advaitins) that  
@@ -5591,6 +5645,12 @@ e **indique** la identidad en la naturaleza esencial de Jīva y el ser supremo
 बहु-प्रमाण-विरोधमुम्  
 समभिव्याहृत-नमश्-शब्द-- नारायण-शब्द-चतुर्थिगळ्-उडैय स्व-रसार्थ-विरोधमुम् वरुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+बहु-प्रमाण-विरोधः, समभिव्याहृत-नमः-शब्द--चतुर्थी-स्वरसार्थ-विरोधश् च प्रसज्यते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5640,6 +5700,16 @@ y el dativo de la palabra nārāyaṇa
 वगुत्तुच्+++(=विभज्य)+++ चॊल्लुगिऱ वाक्यत्तालुम् सिद्धम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं प्रणवं धनुष्ट्वेन,  
+आत्मानं शरत्वेन,  
+ब्रह्म लक्ष्यत्वेन,  
+आत्म-समर्पणं लक्ष्य-वेधत्वेन च  
+विभज्य प्रतिपादयताथर्व-वाक्येनापि सिद्धम् ।
+</details>
+
+
 <details><summary>English</summary>
 
 This is obvious also from the text which distinguishes  
@@ -5683,9 +5753,17 @@ y el **acto** de **rendirse** como el **golpe** del objetivo
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गु भर-समर्पणम् पॊरुळ् आम् बोदु  
-स्व-तन्त्र-प्रणवत्तिऱ् कण्ड चतुर्थियिऱ् पडिये  
-+++("नारायणाय"→)+++ इच्-चतुर्थिक्कुम् अर्थम् आगक् कडवदु। 
++++("ओम् इत्य् आत्मानं युञ्जीत"→)+++ स्व-तन्त्र-प्रणवत्तिऱ् कण्ड चतुर्थियिऱ् पडिये  
+इच्-चतुर्थिक्कुम् अर्थम् आगक् कडवदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र भर-समर्पणस्यार्थत्वे  
++++("ओम् इत्य् आत्मानं युञ्जीत"→)+++ स्व-तन्त्र--प्रणव-दृष्ट-चतुर्थी-रीत्या  
+अस्याश् चतुर्थ्या अर्थो भवति ।  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5712,7 +5790,15 @@ Como el dativo en el praṇava **considerado** como un mantra independiente
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-तिरुमन्त्रत्तिल् समर्पणपरयोजऩैयॆऩ्ऱुम्, स्वरूपपरयोजऩैयॆऩ्ऱुम् इरण्डुण्डु; अदिल् समर्पणपरयोजऩैयिल् चतुर्थिक्कु सम्प्रदानमर्थमामॆऩ्गिऱार् इङ्गु भरसमर्पणम् पॊरुळाम्बोदु इत्यादिना । इङ्गु - तिरुमन्त्रघटकप्रणवत्तिल्, स्वतन्त्रप्रणवत्तिऱ्कण्ड चतुर्थियिऱ्पडिये - आत्मसमर्पणत्तिल् विनियुक्तमाऩ ‘‘ओम् इत्य् आत्मानं युञ्जीत’’ ऎऩ्गिऱ तिरुमन्त्राघटकमाऩ प्रणवत्तिल् लुप्तमाय्प्पोऩ चतुर्थियिऩ्बडिये, 
+तिरु-मन्त्रत्तिल् समर्पण-पर-योजऩैय् ऎऩ्ऱुम्,  
+स्व-रूप--पर-योजऩैय् ऎऩ्ऱुम् इरण्ड् उण्डु;  
+अदिल् समर्पण-पर-योजऩैयिल्  
+चतुर्थिक्कु सम्प्रदानम् अर्थम् आम् ऎऩ्गिऱार्  
+इङ्गु भरसमर्पणम् पॊरुळाम्बोदु इत्यादिना ।  
+इङ्गु - तिरुमन्त्रघटक-प्रणवत्तिल्,  
+स्वतन्त्र-प्रणवत्तिऱ् कण्ड चतुर्थियिऱ् पडिये -  
+आत्मसमर्पणत्तिल् विनियुक्तमाऩ  
+‘‘ओम् इत्य् आत्मानं युञ्जीत’’ ऎऩ्गिऱ तिरुमन्त्राघटकमाऩ प्रणवत्तिल् लुप्तमाय्प्पोऩ चतुर्थियिऩ्बडिये, 
 </details>
 
 
@@ -5723,9 +5809,19 @@ Como el dativo en el praṇava **considerado** como un mantra independiente
 इच् चतुर्थि तादर्थ्यत्तै विवक्षिक्कैयाले  
 आत्म-परमात्माक्कळ्-उडैय शेष-शेषि-भावम् प्रकाश्यम् आगैयाल्  
 निरुपाधिक-सर्व-शेषिय् आऩ ईश्वरऩैप् पऱ्ऱ्  
-अत्ताऩ्+++(=आत्मा??)+++ निरुपाधिक-शेषम् आऩ बडि  
+अत्-ताऩ् निरुपाधिक-शेषम् आऩ बडि  
 अनुसन्धेयम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र प्रणवस्य पर-शेषतैकरस--स्व-रूप--प्रतिपादन-परत्वे  
+ऽनया चतुर्थ्या तादर्थ्य-विवक्षया  
+ऽऽत्म-परमात्मनोः शेष-शेषि-भावस्य प्रकाश्यत्वात्  
+निरुपाधिक-सर्व-शेषिणम् ईश्वरं प्रति  
+स्वस्य निरुपाधिक-शेषत्वम् अनुसन्धेयम् ।  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5769,6 +5865,12 @@ quien **es** el incondicional Seshi (Nirupādhika Seshi).
 ‘‘त्वं मे’’ ऎऩ्ऱु स्वामिय् आऩ सर्वेश्वरऩ् तुडर्न्दु+++(=अनुसृत्य)+++ पिडित्तालुम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"त्वं मे" इति स्वामिनि सर्वेश्वरे ऽनुसृत्य गृह्णाने ऽपि 
+</details>
+
+
 <details><summary>English</summary>
 
 When the Lord who is the Supreme Ruler says, “You are my śeṣa" and pursues him, 
@@ -5798,6 +5900,16 @@ Cuando el Señor que **es** el gobernante supremo **dice**: "**Eres** mi Śeṣa
 असत्-कल्पऩ् आऩव् इज्-जीवात्मावै  
 
 शेषत्वानुसन्धानम् उज्जीविप्पिक्किऱद् आगैयाले 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"अहं मे" इति  
+स्वस्योन्मोचनं कारयता ऽहंकार-विशेषेण  
+असत्-कल्पम् एनं जीवात्मानं  
+
+शेषत्वानुसन्धानम् उन्मीलयतीत्य्-अतः 
 </details>
 
 <details><summary>English</summary>
@@ -5838,6 +5950,14 @@ quien **es** de otro modo, por así decirlo, (espiritualmente) **inexistente**.
 धर्मिक्कु मुऩ्ऩे  
 शेषियोडे सम्बन्धत्तैच् चॊल्लिऱ्ऱु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्-प्राधान्यं द्योतयितुं  
+धर्मिणः पूर्वं  
+शेषिणा सह संबन्धः प्रतिपादितः ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5912,6 +6032,14 @@ y **son**, por así decirlo, inexistentes.
 इप्-पडि ईश्वरऩ् सर्व-शेषिय् आम् बोदु
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P275]]
+
+इत्थम् ईश्वरः सर्व-शेषी भवन्, 
+</details>
+
+
 <details><summary>English</summary>
 
 When Iśvara is the śeṣī of all, 
@@ -5952,8 +6080,9 @@ Cuando Iśvara **es** el śeṣī de todos,
 मच्-छास्त्रेष्व् अपि मानद॥’’  
 (विष्वक्सेन संहिता) 
 
+इति
 </details>
- 
+
 <details><summary>English</summary>
 
 for it has been said, 
@@ -5994,6 +6123,8 @@ y en mis Śāstras (Pañcarātra āgamas) ".
 <details><summary>नीलमेघः (सं)</summary>
 
 > ३५‘‘उभयाधिष्ठानञ् चैकं शेषित्वं’’() 
+
+इति चोक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -6029,6 +6160,11 @@ y **descansa** con dos (Bhagavān y Lakṣmī) ".
 स-पत्नीकऩ् आय् इरुक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स-पत्नीक एव तथा भवति । 
+</details>
+
 <details><summary>English</summary>
 
 He is always (to be thought of as) with His Consort. 
@@ -6056,6 +6192,8 @@ He is always (to be thought of as) with His Consort.
 
 ऎऩ्गिऱदु। 
 </details>
+
+
 
 <details><summary>English</summary>
 
