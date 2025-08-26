@@ -177,6 +177,9 @@ For S, BS does not resolve the upaniShadic contradictions (I heard that somewher
 "इतिहास-पुराणाभ्यां वेदान् समुपबृंहयेद्" (महाभारतम्)  
 
 इत्यत्र +इतास-पूर्वनिपातेन व्याकरणोक्तरीत्या +इतिहास-प्रमाणतरत्वम् उच्यते श्रीवैष्णवादिभिः।   
+"वेदपुराणेतिहासप्रामाण्याद्" इत्यादिषु प्रयोगेषु तु -   
+प्राशस्त्याविवक्षायाम् अल्पाच एव पूर्वनिपातः।  
+अधिकाचः पूर्वनिपाते हि विवक्षाविशेषो ग्राह्यः। 
 
 तत्रापि रामायणं प्रधानम् मन्यन्ते। [यथाह](/rAmAyaNam/vAlmIkIyam/drAviDa-pAThaH/govindarAja-bhUShaNam/6_yuddhakANDam/14-ayodhyA-gamanam/126_puShpake_sItA-rAmasaMvAdaH) गोविन्दराजः -
 
