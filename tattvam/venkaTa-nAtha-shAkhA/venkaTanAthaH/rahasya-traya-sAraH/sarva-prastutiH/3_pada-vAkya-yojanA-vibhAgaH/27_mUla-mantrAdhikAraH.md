@@ -6493,11 +6493,15 @@ que **se entiende** por los pramāṇas.
 #### चतुर्थी
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तादर्थ्यम् आगिऱ उपयुक्तम् आऩ सम्बन्ध-विशेषम्  
-व्यक्तम् आगैक्क् आग चतुर्थी-द्वि-वचनम् एऱि  
-लोपित्तुक् किडक्किऱद्+++(=अवस्थितम्)+++ आगवुम् आम्। 
+तादर्थ्यम् आगिऱ उपयुक्तम् आऩ सम्बन्ध-विशेषम् व्यक्तम् आगैक्क् आग  
+चतुर्थी-द्वि-वचनम् एऱि लोपित्तुक् किडक्किऱद्+++(=अवस्थितम्)+++ आगवुम् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तादर्थ्य-रूपस्योपयुक्तस्य संबन्ध-विशेषस्य व्यक्तव्ये  
+चतुर्थी-द्वि-वचनं स्थितं लुप्तं चेति वा सुवचम् । 
+</details>
 
 
 <details><summary>English</summary>
@@ -6531,6 +6535,12 @@ aunque en elipsis.
 
 अप्-पोदु लुप्तम् आऩ् चतुर्थी-द्विवचनत्तिऩ्-उडैय विवरणम् आगिऱदु  
 "इरुवरुक्कुम् दासऩ्" ऎऩ्गिऱ श्रुति ।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तदा लुप्त-चतुर्थी-द्वि-वचनस्य विवरणं भवति,  
+"द्वयोर् दास" इति श्रुतिः । 
 </details>
 
 <details><summary>English</summary>
@@ -6572,6 +6582,14 @@ el Śruti que **dice** "el **sirviente** de ambos"
 इङ्ग् अवधारणम् आर्थम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं हविर्-उद्देश्य-देवता-द्वन्द्वे हविर् इव  
+उभौ प्रति अयम् आत्मा शेष इति प्रतिपादने  
+अवधारणम् आर्थम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 If we take this interpretation that the "u" refers to Lakṣmī  
@@ -6609,6 +6627,15 @@ pero **es sugerido** por el contexto.
 
 ऎऩ्ऱद् आयिऱ्ऱु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अनयोर् उभयोर् अयम् आत्मा  
+अनन्यार्ह-निरुपाधिक-शेष 
+
+इत्य् उक्तं भवति ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6661,6 +6688,16 @@ El significado de "u" en aum:
 अन्य-योग-व्यवच्छेदम् इङ्गे शाब्दम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P276]]  
+अस्य मध्यमाक्षरस्य श्रौत-प्रयोगतो ऽवधारण-परत्वे  
+एतद्-दम्पति-व्यतिरिक्तान् प्रति  
+निरुपाधिक-शेषत्व-शङ्काया अनुदयार्थम्  
+अन्य-योग-व्यवच्छेदो ऽत्र शाब्दो भवति । 
+</details>
+
+
 <details><summary>English</summary>
 
 If, on the other hand, we take the middle letter "u" to mean 'only' in accordance with Vedic usage,  
@@ -6704,6 +6741,13 @@ y esto **se hace** por la palabra misma
 तदीय-पर्यन्तम् आग +++(भगवद्-आज्ञाम् अतिरिच्य)+++ देवतान्तर-स्पर्शम्  
 निवृत्तम् आय् इऱ्ऱु। +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतेन, "अन्यं प्रति शेषत्वं स्वरूप-प्राप्तं ने"त्य् अर्थस्य प्रतिपादनात्  
+यथाऽवस्थितात्म-ज्ञानवतस् तदीय-पर्यन्तं देवतान्तर-स्पर्शो निवृत्तो भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
