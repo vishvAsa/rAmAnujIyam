@@ -6794,6 +6794,16 @@ y esta **evitación** del **contacto se extiende** incluso a los devotos de otra
 ऎऩ्ऩुम् इडम् पुरुषार्थ-काष्ठैयिले सॊऩ्ऩोम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> भगवद्-अभिमत-भागवत-शेषत्वेन  
+अन्य-शेषत्व-दोषो न भवति
+
+इत्य्-एवम् अर्थं  
+पुरुषार्थ-काष्ठायाम् अवोचाम । 
+</details>
+
+
 <details><summary>English</summary>
 
 In the chapter on the Ultimate Object in Life,  
@@ -6836,6 +6846,15 @@ Ya **hemos dicho** que,
 +++(भगवति→)+++अ-योग-व्यवच्छेदमुम्  
 काल-सङ्कोचम् इल्लामैयाले सिद्धम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् अन्य-योग-व्यवच्छेदे शाब्द-रूपेण लब्धे सति  
+अयोग-व्यवच्छेदः काल-संकोचाभावात् सिद्धः । 
+</details>
+ 
+
+
 <details><summary>English</summary>
 
 Thus if by the force of the word itself (namely "u"),  
@@ -6872,6 +6891,14 @@ y **nunca es** no queṣa para él).
 इश्-शेषत्वायोग-व्यवच्छेदत्ताले  
 ईश्वरऩुक्कु पृथक्-सिद्ध्य्--अनर्ह-विशेषणम् आय्त् तोऱ्ऱिऩ चेतन-द्रव्यत्तुक्कुम्  
 अचित्तुक्कुप् पोले शरीरत्वम् प्रकाशितम्।
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनेन शेषत्वायोग-व्यवच्छेदेन  
+ईश्वरं प्रति पृथक्-सिद्ध्य्-अनर्ह-विशेषणत्वेन प्रतीतस्य चेतन-द्रव्यस्याप्य्  
+अचित इव शरीरत्वं प्रकाशितं भवति ।
 </details>
 
 <details><summary>English</summary>
@@ -6922,6 +6949,12 @@ El **significado** de "m" en aum:
 उक्तम् आऩ शेषत्वत्तुक् आश्रयम् आऩ +++(अचित्-सहितं)+++ सर्वत्तैयुम् उपलक्षिक्किऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तृतीयाक्षरम् अत्रावश्यानुसन्धेयं जीवं पुरस्-कृत्य  
+उक्त-शेषत्वाश्रयं +++(अचिद्-सहितं)+++ सर्वम् उपलक्षयति । 
+</details>
+
 <details><summary>English</summary>
 
 The third letter m (in aum) denotes, primarily, the jīva  
@@ -6941,7 +6974,8 @@ pero también **significa** por implicación (upalakṣaṇa) todas las demás c
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-इऩि प्रधानऩाऩ चेतनऩैच् चॊल्लुम् मकारम् शेषत्वाश्रयमाऩ सर्वत्तिऱ्कुमुपलक्षकमॆऩ्गिऱार् तृतीयाक्षरमित्यादिना । 
+इऩि प्रधानऩ् आऩ चेतनऩैच् चॊल्लुम् मकारम्  
+शेषत्वाश्रयम् आऩ सर्वत्तिऱ्कुम् उपलक्षकमॆऩ्गिऱार् तृतीयाक्षरमित्यादिना । 
 </details>
 
 #### निरुक्तयः
@@ -6957,9 +6991,12 @@ pero también **significa** por implicación (upalakṣaṇa) todas las demás c
 
 <details><summary>नीलमेघः (सं)</summary>
 
+इदं जीवात्म-वाचकम् इत्य् एतत्, 
+
 > ‘‘म-कारं जीव-भूतन् तु  
 शरीरे व्यापकं न्यसेत्’’() 
 
+इति, 
 </details>
 
 <details><summary>English</summary>
@@ -7011,7 +7048,9 @@ Que esto (m) **denota** el jīvātmā **puede entenderse** a partir de lo siguie
 +++(साङ्खोक्त-२५-)+++तत्त्वात्मत्वेन सर्वदा॥’’  
 (तत्त्व-सागर-संहिता) 
 
+इति, 
 </details>
+
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -7143,6 +7182,7 @@ y bha (भ) prakṛti.
 पञ्च-विंशः **प्रकीर्तितः**।’’  
 (पाद्मोत्तरम् ४-२५। २६, २७) 
 
+इति च
 </details>
 
 <details><summary>English</summary>
@@ -7171,7 +7211,13 @@ Y él **es** el vigésimo quinto tattva o real ".
 वाचकङ्गळ् आग वगुत्तुच्+++(=विविच्य)+++ चॊल्लुगैयाले सिद्धम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
 
+तत्त्व-सागर-संहितादिषु  
+पञ्च-विंशतेस् तत्त्वानां विषये  
+ककारादीनां पञ्च-विंशतेर् वर्णानां वाचकत्वेन विभज्य प्रतिपादनात्  
+सिद्धम् । 
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -7187,6 +7233,8 @@ Y él **es** el vigésimo quinto tattva o real ".
 
 जीवात्मावुक्कु वेऱुपाडु सिद्धित्तदु।
 </details>
+
+
 
 <details><summary>English</summary>
 
