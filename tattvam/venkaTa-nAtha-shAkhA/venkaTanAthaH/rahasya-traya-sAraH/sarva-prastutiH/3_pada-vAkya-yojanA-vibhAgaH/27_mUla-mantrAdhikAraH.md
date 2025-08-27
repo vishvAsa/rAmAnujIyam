@@ -6794,6 +6794,16 @@ y esta **evitación** del **contacto se extiende** incluso a los devotos de otra
 ऎऩ्ऩुम् इडम् पुरुषार्थ-काष्ठैयिले सॊऩ्ऩोम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> भगवद्-अभिमत-भागवत-शेषत्वेन  
+अन्य-शेषत्व-दोषो न भवति
+
+इत्य्-एवम् अर्थं  
+पुरुषार्थ-काष्ठायाम् अवोचाम । 
+</details>
+
+
 <details><summary>English</summary>
 
 In the chapter on the Ultimate Object in Life,  
@@ -6836,6 +6846,15 @@ Ya **hemos dicho** que,
 +++(भगवति→)+++अ-योग-व्यवच्छेदमुम्  
 काल-सङ्कोचम् इल्लामैयाले सिद्धम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् अन्य-योग-व्यवच्छेदे शाब्द-रूपेण लब्धे सति  
+अयोग-व्यवच्छेदः काल-संकोचाभावात् सिद्धः । 
+</details>
+ 
+
+
 <details><summary>English</summary>
 
 Thus if by the force of the word itself (namely "u"),  
@@ -6872,6 +6891,14 @@ y **nunca es** no queṣa para él).
 इश्-शेषत्वायोग-व्यवच्छेदत्ताले  
 ईश्वरऩुक्कु पृथक्-सिद्ध्य्--अनर्ह-विशेषणम् आय्त् तोऱ्ऱिऩ चेतन-द्रव्यत्तुक्कुम्  
 अचित्तुक्कुप् पोले शरीरत्वम् प्रकाशितम्।
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनेन शेषत्वायोग-व्यवच्छेदेन  
+ईश्वरं प्रति पृथक्-सिद्ध्य्-अनर्ह-विशेषणत्वेन प्रतीतस्य चेतन-द्रव्यस्याप्य्  
+अचित इव शरीरत्वं प्रकाशितं भवति ।
 </details>
 
 <details><summary>English</summary>
@@ -6920,6 +6947,11 @@ El **significado** de "m" en aum:
 
 तृतीयाक्षरम् इङ्गु अवश्यानुसन्धेयऩ् आऩ जीवऩै मुऩ्ऩ् आगक् कॊण्डु  
 उक्तम् आऩ शेषत्वत्तुक् आश्रयम् आऩ +++(अचित्-सहितं)+++ सर्वत्तैयुम् उपलक्षिक्किऱदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तृतीयाक्षरम् अत्रावश्यानुसन्धेयं जीवं पुरस्-कृत्योक्त-शेषत्वाश्रयं सर्वम् उपलक्षयति । 
 </details>
 
 <details><summary>English</summary>
