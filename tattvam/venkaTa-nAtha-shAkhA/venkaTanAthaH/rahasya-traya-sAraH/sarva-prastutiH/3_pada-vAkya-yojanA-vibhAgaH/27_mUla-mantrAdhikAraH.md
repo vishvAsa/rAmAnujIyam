@@ -6951,7 +6951,8 @@ El **significado** de "m" en aum:
 
 <details><summary>नीलमेघः (सं)</summary>
 
-तृतीयाक्षरम् अत्रावश्यानुसन्धेयं जीवं पुरस्-कृत्योक्त-शेषत्वाश्रयं सर्वम् उपलक्षयति । 
+तृतीयाक्षरम् अत्रावश्यानुसन्धेयं जीवं पुरस्-कृत्य  
+उक्त-शेषत्वाश्रयं +++(अचिद्-सहितं)+++ सर्वम् उपलक्षयति । 
 </details>
 
 <details><summary>English</summary>
@@ -6973,7 +6974,8 @@ pero también **significa** por implicación (upalakṣaṇa) todas las demás c
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-इऩि प्रधानऩाऩ चेतनऩैच् चॊल्लुम् मकारम् शेषत्वाश्रयमाऩ सर्वत्तिऱ्कुमुपलक्षकमॆऩ्गिऱार् तृतीयाक्षरमित्यादिना । 
+इऩि प्रधानऩ् आऩ चेतनऩैच् चॊल्लुम् मकारम्  
+शेषत्वाश्रयम् आऩ सर्वत्तिऱ्कुम् उपलक्षकमॆऩ्गिऱार् तृतीयाक्षरमित्यादिना । 
 </details>
 
 #### निरुक्तयः
@@ -6989,9 +6991,12 @@ pero también **significa** por implicación (upalakṣaṇa) todas las demás c
 
 <details><summary>नीलमेघः (सं)</summary>
 
+इदं जीवात्म-वाचकम् इत्य् एतत्, 
+
 > ‘‘म-कारं जीव-भूतन् तु  
 शरीरे व्यापकं न्यसेत्’’() 
 
+इति, 
 </details>
 
 <details><summary>English</summary>
@@ -7043,7 +7048,9 @@ Que esto (m) **denota** el jīvātmā **puede entenderse** a partir de lo siguie
 +++(साङ्खोक्त-२५-)+++तत्त्वात्मत्वेन सर्वदा॥’’  
 (तत्त्व-सागर-संहिता) 
 
+इति, 
 </details>
+
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -7175,6 +7182,7 @@ y bha (भ) prakṛti.
 पञ्च-विंशः **प्रकीर्तितः**।’’  
 (पाद्मोत्तरम् ४-२५। २६, २७) 
 
+इति च
 </details>
 
 <details><summary>English</summary>
@@ -7203,7 +7211,13 @@ Y él **es** el vigésimo quinto tattva o real ".
 वाचकङ्गळ् आग वगुत्तुच्+++(=विविच्य)+++ चॊल्लुगैयाले सिद्धम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
 
+तत्त्व-सागर-संहितादिषु  
+पञ्च-विंशतेस् तत्त्वानां विषये  
+ककारादीनां पञ्च-विंशतेर् वर्णानां वाचकत्वेन विभज्य प्रतिपादनात्  
+सिद्धम् । 
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -7219,6 +7233,8 @@ Y él **es** el vigésimo quinto tattva o real ".
 
 जीवात्मावुक्कु वेऱुपाडु सिद्धित्तदु।
 </details>
+
+
 
 <details><summary>English</summary>
 
