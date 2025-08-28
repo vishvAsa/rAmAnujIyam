@@ -7235,6 +7235,12 @@ Y él **es** el vigésimo quinto tattva o real ".
 </details>
 
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतेन जडत्वाचेतनत्वादि-दोषाश्रयेभ्यश् चतुर्-विंशतेस् तत्त्वेभ्यः,  
+सर्व-कारणत्वेन सर्व-रक्षकत्वेन सर्व-शेषित्वेन च प्रथमाक्षरे प्रतिपन्नात् परमात्मनश् च  
+जीवात्मनो भेदः सिद्धः । 
+</details>
 
 <details><summary>English</summary>
 
@@ -7273,6 +7279,15 @@ y quién **está indicado** por la primera letra (en AUM).
 +++(इयत्ता-)+++निष्कर्ष-विवक्षैयाले विशेषण-मात्र-परङ्गळ् +++(न त्व् अन्तर्यामि-परम्)+++। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् श्री-मन्त्रे  
+मकारो नार-शब्दश्च +++(~~वन्~~)+++ निष्कर्ष-विवक्षया विशेषण-मात्र-परौ +++(~~राः~~  न त्व् अन्तर्यामि-परम्)+++ ।  
+[[P277]]
+
+</details>
+
+
 <details><summary>English</summary>
 
 In the Tirumantra, the words, and Nāra (in Nārāyaṇa), refer only to the attributes, namely, the jīva (and matter) as determinate words ( Niṣkarṣaka words)  
@@ -7310,6 +7325,14 @@ El M (en AUM) **se refiere** al Jīva y no al Ser Supremo).)
 ‘‘मन ज्ञान’’ +++(मा मानेऽपि→)+++ इत्य्-आदि-धातुक्कळिले निष्पन्नम् आऩ पदम् आगैयाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् अक्षरं व्याकरण-प्रक्रियायां दृष्टायां  
+"मन ज्ञाने" इत्यादि-धातु-निष्पन्न-पदत्वात्,  
+
+</details>
+
+
 <details><summary>English</summary>
 
 If we examine the grammatical form of this letter (m),  
@@ -7331,8 +7354,14 @@ y otras raíces similares (MA - que **significa** 'medida')
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘‘ज्ञोऽत एव’’(ब्रह्म-सूत्रम् २-३-१९) ऎऩ्गिऱ अधिकरणत्तिऱ् पडिये 
+‘‘ज्ञोऽत एव’’ (ब्रह्म-सूत्रम् २-३-१९) ऎऩ्गिऱ अधिकरणत्तिऱ् पडिये 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"ज्ञो ऽत एव" (ब्रह्म-सूत्रम् २-३-१९) इत्य्-अधिकरण-रीत्या  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7366,6 +7395,12 @@ y esto **es** del propio Śruti ".
 अणुव् आऩ जीवात्मावैच् चॊल्लुगिऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+ज्ञान-स्वरूपं ज्ञान-गुणकम् अणुं जीवात्मानम् आचष्टे । 
+</details>
+
+
 <details><summary>English</summary>
 
 ~~and~~ it denotes the jīvātmā who is atomic  
@@ -7392,6 +7427,14 @@ y (al mismo tiempo) **poseído** del atributo, jñāna.
 इवऩ् स्व-रूपम् अनुकूलम् आग प्रमाण-सिद्धम् आगैयाले  
 **आनन्द-रूपम्** आऩ विशेषमुम् **सिद्धिक्कुम्**। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ज्ञान-स्वरूपत्वेन सामान्यतः प्रतिपादने ऽपि  
+एतत्-स्वरूपस्यानुकूलत्वेन प्रमाण-सिद्धत्वात्  
+आनन्दत्व-रूपो विशेषो ऽपि सिध्यति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7424,6 +7467,14 @@ También **es** de la naturaleza esencial de ānanda o dicha, que **es** una for
 सङ्कोच-रहितम् आऩ ज्ञानं गुणम् आऩमै तोऱ्ऱम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+ज्ञान-गुणक इत्य् अर्थे  
+उक्त-प्रमाणानुसारात् मुक्त-दशायां  
+निरुपाधिक-प्रसारणस्य संकोच-रहितस्य ज्ञानस्य गुणत्वं प्रतीयेत । 
+</details>
+
+
 <details><summary>English</summary>
 
 When the jīvatma is said to be possessed of the attribute, knowledge,  
@@ -7450,11 +7501,106 @@ y sin ninguna restricción o límite.
 ज्ञानगुणकमॆऩ्ऩुमिडञ् जॊऩ्ऩाल् प्रमाणानुसारत्तालेमुक्तदशैयिल् निरुपाधिकप्रसरणमाय् सङ्कोचरहितमाऩ ज्ञानम् गुणमाऩमै तोऱ्ऱम्।
 </details>
 
+#### निर्मलता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि परिशुद्धम् आऩ स्वाभाविक-रूपत्तैप् पार्त्ताल्  
+अ-चेतनङ्गळिल् उळ्ळ जडत्वादिगळुङ् कऴिन्दु  
+संसार-दशैयिल् उळ्ळ क्लेशादिगळुङ् कऴिन्दु निऱ्कैयाले स्व-रूप--धर्मङ्गळ् इरण्डिलुम् उळ्ळ **निर्मलत्वम्**  
+अनुसंहितम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+When we consider this natural and pure form of the jivātma,  
+it will appear that it is free from the inertness and other such defects of nonsentient things  
+and so also from such things as pain, suffering etc.,  
+which are found in saṁsāra. 
+
+Hence in the essential nature and the attributes (svarūpa and dharma) of the jivātmā,  
+there is also spotlessness or freedom from all impurity or defect (nirmalatva). 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **consideramos** esta forma natural y pura del Jivātma,  
+**parecerá** que **está libre** 
+
+de la inercia y otros defectos similares de las cosas no sensibles  
+
+y así también de cosas como dolor, sufrimiento, etc.,
+que se encuentran en Saṁsāra.
+
+Por lo tanto, en la naturaleza esencial y los atributos (svarūpa y dharma) del jivātmā,  
+También **hay** impecable o  
+libertad de toda impureza o defecto (Nirmalatva).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि परिशुद्धमाऩ स्वाभाविकरूपत्तैप् पार्त्ताल् अचेतनङ्गळिलुळ्ळ जडत्वादिगळुङ्गऴिन्दु संसारदशैयिलुळ्ळ क्लेशादिगळुङ्गऴिन्दु निऱ्कैयाले स्वरूपधर्मङ्गळिरण्डिलुमुळ्ळ निर्मलत्वमनुसंहितमायिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द पर-शेषतैक-रस--परिशुद्ध--स्व-रूपमे  
+मुमुक्षु-दशैयिले अनुसन्धेयम् ऎऩ्ऩुम् इडम् 
+</details>
+
+<details><summary>English</summary>
+
+The seeker after salvation should meditate that  
+the jīvātmā is absolutely pure  
+and has its enjoyment only in being śeṣa to the Supreme Being  
+and this … 
+</details>
+
+<details><summary>Español</summary>
+
+El buscador después de la salvación **debería meditar** eso  
+el jīvātmā **es** absolutamente puro  
+y **disfruta** solo en **ser** Śeṣa para el ser supremo
+Y esto ...
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द परशेषतैकरसपरिशुद्धस्वरूपमे मुमुक्षुदशैयिले अनुसन्धेयमॆऩ्ऩुमिडम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘+++(ध्येयः संसार-दशाया)+++ व्यतिरेकस्, +++(मोक्षे)+++ तद्-भाव-भावित्वान्, न तु +++(संसारावस्था)+++, +++(यथावस्थित-ब्रह्म-)+++उपलब्धिवत् ॥’’(ब्रह्मसूत्रम् ३-३-५२) 
+
+ऎऩ्गिऱ सूत्रत्तिले सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+may be seen  from the Brahma Sūtra (3-3-52) which says: 
+
+> "No, only the state (of the jivātmā) that differs from the state of saṁsāra (should be meditated upon),  
+for that is the state which will ensue (in mokṣa),  
+as in the contemplation of Brahman as He is ".
+</details>
+
+<details><summary>Español</summary>
+
+**se puede ver** desde el Brahma Sūtra (3-3-52) que **dice**:
+
+> "No, solo el estado (del Jivātmā) que **difiere** del estado de Saṁsāra (**debe medirse**),  
+porque ese **es** el estado que **se producirá** (en mokṣa),  
+como en la **contemplación** de Brahman como **es** ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘व्यतिरेकस्तद्भाव-भावित्वान्नतूपलब्धिवत्’’(ब्रह्मसूत्रम् ३-३-५२) ऎऩ्गिऱ सूत्रत्तिले सिद्धम्। 
+</details>
 
 
 
-
-When we consider this natural and pure form of the jivātma, it will appear that it is free from the inertness and other such defects of nonsentient things and so also from such things as pain, suffering etc., which are found in saṁsāra. Hence in the essential nature and the attributes (svarūpa and dharma) of the jivātmā, there is also spotlessness or freedom from all impurity or defect (nirmalatva). The seeker after salvation should meditate that the jīvātmā is absolutely pure and has its enjoyment only in being śeṣa to the Supreme Being and this may be seen from the Brahma Sūtra (3-3-52) which says: "No, only the state (of the jivātmā) that differs from the state of saṁsāra (should be meditated upon), for that is the state which will ensue (in mokṣa) as in the contemplation of Brahman as He is ".
 
 To the prapanna, the meditation on the fruit of attainment in mukti is useful in creating a desire for that fruit. The forms of meditation (concerning the form of the self) are different in accordance with the difference in the fruits desired and this is evident from the eighth chapter of the Gita and Śrī Bhāṣya and other such treatises.
 
