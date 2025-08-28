@@ -7235,6 +7235,12 @@ Y él **es** el vigésimo quinto tattva o real ".
 </details>
 
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतेन जडत्वाचेतनत्वादि-दोषाश्रयेभ्यश् चतुर्-विंशतेस् तत्त्वेभ्यः,  
+सर्व-कारणत्वेन सर्व-रक्षकत्वेन सर्व-शेषित्वेन च प्रथमाक्षरे प्रतिपन्नात् परमात्मनश् च  
+जीवात्मनो भेदः सिद्धः । 
+</details>
 
 <details><summary>English</summary>
 
@@ -7273,6 +7279,15 @@ y quién **está indicado** por la primera letra (en AUM).
 +++(इयत्ता-)+++निष्कर्ष-विवक्षैयाले विशेषण-मात्र-परङ्गळ् +++(न त्व् अन्तर्यामि-परम्)+++। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् श्री-मन्त्रे  
+मकारो नार-शब्दश्च +++(~~वन्~~)+++ निष्कर्ष-विवक्षया विशेषण-मात्र-परौ +++(~~राः~~  न त्व् अन्तर्यामि-परम्)+++ ।  
+[[P277]]
+
+</details>
+
+
 <details><summary>English</summary>
 
 In the Tirumantra, the words, and Nāra (in Nārāyaṇa), refer only to the attributes, namely, the jīva (and matter) as determinate words ( Niṣkarṣaka words)  
@@ -7310,6 +7325,14 @@ El M (en AUM) **se refiere** al Jīva y no al Ser Supremo).)
 ‘‘मन ज्ञान’’ +++(मा मानेऽपि→)+++ इत्य्-आदि-धातुक्कळिले निष्पन्नम् आऩ पदम् आगैयाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् अक्षरं व्याकरण-प्रक्रियायां दृष्टायां  
+"मन ज्ञाने" इत्यादि-धातु-निष्पन्न-पदत्वात्,  
+
+</details>
+
+
 <details><summary>English</summary>
 
 If we examine the grammatical form of this letter (m),  
@@ -7331,8 +7354,14 @@ y otras raíces similares (MA - que **significa** 'medida')
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘‘ज्ञोऽत एव’’(ब्रह्म-सूत्रम् २-३-१९) ऎऩ्गिऱ अधिकरणत्तिऱ् पडिये 
+‘‘ज्ञोऽत एव’’ (ब्रह्म-सूत्रम् २-३-१९) ऎऩ्गिऱ अधिकरणत्तिऱ् पडिये 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"ज्ञो ऽत एव" (ब्रह्म-सूत्रम् २-३-१९) इत्य्-अधिकरण-रीत्या  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7366,6 +7395,12 @@ y esto **es** del propio Śruti ".
 अणुव् आऩ जीवात्मावैच् चॊल्लुगिऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+ज्ञान-स्वरूपं ज्ञान-गुणकम् अणुं जीवात्मानम् आचष्टे । 
+</details>
+
+
 <details><summary>English</summary>
 
 ~~and~~ it denotes the jīvātmā who is atomic  
@@ -7392,6 +7427,14 @@ y (al mismo tiempo) **poseído** del atributo, jñāna.
 इवऩ् स्व-रूपम् अनुकूलम् आग प्रमाण-सिद्धम् आगैयाले  
 **आनन्द-रूपम्** आऩ विशेषमुम् **सिद्धिक्कुम्**। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ज्ञान-स्वरूपत्वेन सामान्यतः प्रतिपादने ऽपि  
+एतत्-स्वरूपस्यानुकूलत्वेन प्रमाण-सिद्धत्वात्  
+आनन्दत्व-रूपो विशेषो ऽपि सिध्यति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7424,6 +7467,14 @@ También **es** de la naturaleza esencial de ānanda o dicha, que **es** una for
 सङ्कोच-रहितम् आऩ ज्ञानं गुणम् आऩमै तोऱ्ऱम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+ज्ञान-गुणक इत्य् अर्थे  
+उक्त-प्रमाणानुसारात् मुक्त-दशायां  
+निरुपाधिक-प्रसारणस्य संकोच-रहितस्य ज्ञानस्य गुणत्वं प्रतीयेत । 
+</details>
+
+
 <details><summary>English</summary>
 
 When the jīvatma is said to be possessed of the attribute, knowledge,  
@@ -7451,6 +7502,15 @@ y sin ninguna restricción o límite.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि परिशुद्धमाऩ स्वाभाविकरूपत्तैप् पार्त्ताल् अचेतनङ्गळिलुळ्ळ जडत्वादिगळुङ्गऴिन्दु संसारदशैयिलुळ्ळ क्लेशादिगळुङ्गऴिन्दु निऱ्कैयाले स्वरूपधर्मङ्गळिरण्डिलुमुळ्ळ निर्मलत्वमनुसंहितमायिऱ्ऱु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि परिशुद्धमाऩ स्वाभाविकरूपत्तैप् पार्त्ताल् अचेतनङ्गळिलुळ्ळ जडत्वादिगळुङ्गऴिन्दु संसारदशैयिलुळ्ळ क्लेशादिगळुङ्गऴिन्दु निऱ्कैयाले स्वरूपधर्मङ्गळिरण्डिलुमुळ्ळ निर्मलत्वमनुसंहितमायिऱ्ऱु। 
+</details>
 
 
 
