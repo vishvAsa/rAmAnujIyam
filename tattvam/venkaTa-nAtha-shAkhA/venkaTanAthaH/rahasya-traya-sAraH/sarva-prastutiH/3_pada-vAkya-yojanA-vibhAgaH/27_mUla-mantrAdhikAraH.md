@@ -7995,10 +7995,25 @@ de acuerdo con el uso védico.
 तृतीयाक्षरन्दाऩे अहमर्थत्तैक् काट्टुगिऱदॆऩ्ऱुम् योजिप्पर्गळ्। 
 </details>
 
+#### न्यासे विनियोगतः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परमात्मावुक्कु आत्म-हविस्सै समर्पिक्क विधिक्किऱ न्यासविद्यैयिले  
 प्रणवत्तै मन्त्रम् आगव् ओदुगैयाले 
+</details>
+
+<details><summary>English</summary>
+
+In Nyāsa vidyā (as described in the Taittiriya Upaniṣad) which enjoins the offering of the self as an oblation to the Supreme Being,  
+the praṇava is called the mantra (for it). 
+</details>
+
+<details><summary>Español</summary>
+
+En Nyāsa Vidyā (como **se describe** en el Taittiriya Upaniṣad)  
+que **ordena** la ofrenda del yo  
+como una **oblación** para el ser supremo,  
+El praṇava **se llama** mantra (para ello).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8007,9 +8022,175 @@ de acuerdo con el uso védico.
 </details>
 
 
-In Nyāsa vidyā (as described in the Taittiriya Upaniṣad) which enjoins the offering of the self as an oblation to the Supreme Being, the praṇava is called the mantra (for it). In order that the action to be performed may be made clear, the actual words indicating the Supreme Self and the individual self should be expressed and not remain merely implicit. Since according to the pramāṇas, the first letter (a) denotes the person to whom the surrender is made and the middle letter (u) has some other meaning (either only or Lakṣmī), by the law of what remains (pāriseshya) the third letter (m) should indicate the oblation, namely, the individual self that is to be offered. Therefore it is appropriate to hold that this (third) letter should mean aham (or I). Therefore it is that Bhattar commented on the praṇava in Tirumantra as follows:- "I exist only as the property for Bhagavān who is indicated by the letter a".
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु अनुष्ठेयार्थ-प्रकाशकम् आगैक्क् आग  
+इदिले परावरात्म-विषयम् आऩ वाचकांशम् अपेक्षितम् आऩाल् 
+</details>
+
+<details><summary>English</summary>
+
+In order that the action to be performed may be made clear,  
+the actual words indicating the Supreme Self and the individual self should be expressed  
+and not remain merely implicit. 
+</details>
+
+<details><summary>Español</summary>
+
+Para que la **acción** a **realizar se aclare**,  
+Las palabras reales que **indican** el ser supremo y el yo individual **deben expresarse**  
+y **no permanecen** simplemente implícitos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु अनुष्ठेयार्थप्रकाशकमागैक्काग इदिले परावरात्मविषयमाऩ वाचकांशमपेक्षितमाऩाल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रमाणानुसारत्ताले प्रथमाक्षरम् उद्देश्य-कारकत्तैच् चॊल्लुगैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+Since according to the pramāṇas,  
+the first letter (a) denotes the person to whom the surrender is made 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que **según** los pramāṇas,  
+La primera carta (a) **denota** a la persona a quien **se hace** la **rendición**
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रमाणानुसारत्ताले प्रथमाक्षरमुद्देश्यकारकत्तैच् चॊल्लुगैयालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मध्यमाक्षरम् अन्यार्थम् आगैयालुम्  
+</details>
+
+<details><summary>English</summary>
+
+and the middle letter (u) has some other meaning (either "only" or Lakṣmī), 
+</details>
+
+<details><summary>Español</summary>
+
+y la letra central (u) **tiene** algún otro significado (ya **sea** "solo" o lakṣmī),
+</details>
+
+<details><summary>मूलम्</summary>
+
+मध्यमाक्षरमन्यार्थमागैयालुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पारिशेष्यत्ताले तृतीयाक्षरम् समर्पणीयमाऩ प्रत्यग्-आत्म-हविस्सैक् काट्ट वेण्डियदाल् 
+</details>
+
+<details><summary>English</summary>
+
+by the law of what remains (pāriseshya)  
+the third letter (m) should indicate the oblation,  
+namely, the individual self that is to be offered. 
+</details>
+
+<details><summary>Español</summary>
+
+por la ley de lo que **queda** (Pāriseshya)  
+La tercera letra (m) **debe indicar** la **oblación**,  
+a saber, el yo individual que **se ofrecerá**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पारिशेष्यत्ताले तृतीयाक्षरम् समर्पणीयमाऩ प्रत्यगात्महविस्सैक्काट्टवेण्डियदाल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अक्षरत्तुक्कु "अहं" ऎऩ्ऱु पॊरुळ् आगै  
+मिगवुम् उचितम्। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore it is appropriate to hold that  
+this (third) letter should mean aham (or I). 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **es** apropiado **sostener** que  
+Esta (tercera) carta **debería significar** Aham (o yo).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वक्षरत्तुक्कु अहं ऎऩ्ऱु पॊरुळागै मिगवुमुचितम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयालेय् इऱे  
+भट्टर् इङ्गुऱ्ऱ प्रणवत्तुक्कु 
+
+> ‘‘अकारार्थायैव स्वम् अहं’’  
+(अष्टश्लोकी ३) 
+
+ऎऩ्ऱु व्याख्यानम् पण्णिऱ्ऱु।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अकारार्थायैव स्वम् अहं’’  
+(अष्टश्लोकी ३) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+Therefore it is that Bhattar commented on the praṇava in Tirumantra as follows:- 
+
+> "I exist only as the property for Bhagavān  
+who is indicated by the letter a".
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **es** que Bhattar **comentó** sobre la praṇava en Tirumantra de la **siguiente** manera:-
+
+> "**Existe** solo como propiedad de Bhagavān  
+quien **está indicado** por la letra A ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाले यिऱे भट्टर् इङ्गुऱ्ऱ प्रणवत्तुक्कु ‘‘अकारार्थायैव स्वमहं’’(अष्टश्लोकी ३) ऎऩ्ऱु व्याख्यानम् पण्णिऱ्ऱु।  
+</details>
+
+
+## नमः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 THE MEANING OF NAMAS OR NAMO IN TIRUMANTRA:
+</details>
+
+<details><summary>मूलम्</summary>
+
+El significado de namas o namo en tirumantra:
+</details>
+
+
 
 So also the ma in namas (namo) denotes the individual self in any one of the three ways indicated before (1) 25th tattva (2) the knowing self and (3) short for aham. This ma is in the genitive or sixth case ending, and the na (which precedes it) means negation 'no' or 'not'. So it is equivalent to na mama (not mine). The negation na (not) is placed first to indicate its greater importance as in the sentence drishtā Sītā (seen was Sītā). The genitive case in ma is a mark of relationship in general (sambandha sāmanya) and implies (here) the particular form of relationship (that of a śeṣa to the śeṣī). It is with this idea indeed that Bhattar said, " I do not then exist for myself.” The idea contained in this namas which has the same purport as the ‘only’ of the middle letter u in praṇava--for all sentences should be considered as expressive of exclusive affirmation (avadharana) - this idea is of the greatest importance, and it is said in such ślokas as the following:- " The cause of saṁsāra (bondage) is the two letters mama (mine) and the cause of attaining the eternal Brahman is the sentence having three letters na mama (I am) not mine)." The idea of the following śloka has also the same porport as this namas:-"All that is crooked is the cause of saṁsāra; all that is straight is the cause that effects the attainment of Brahman". (Here the idea that we exist for Bhagavāni is straight and the idea that we exist for ourselves is crooked.)
 
