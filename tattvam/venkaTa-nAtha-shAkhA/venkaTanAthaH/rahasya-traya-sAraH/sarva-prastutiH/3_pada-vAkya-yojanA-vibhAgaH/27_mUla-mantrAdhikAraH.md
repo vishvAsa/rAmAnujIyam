@@ -8552,10 +8552,97 @@ a saber, la tercera carta en praṇava y **es** la **siguiente**:
 अनुषङ्गाधिकरण-सिद्धम्। 
 </details>
 
+<details><summary>English</summary>
+
+In the chapter on anushaṅga (The Context)  
+it is evident that  
+the meaning indicated by the context (anushaṅga) is more appropriate  
+than the meaning arrived at by the insertion of a new word (adhyāhara).  
+
+
+Namas.  
+Advaitins might say that the ma is in the ablative or fifth case meaning "than I".  
+(There is nothing other than I)  
+and if we consider that  
+the word "kincit" is understood and insert it,  
+‘na maH' may mean  
+"There is nothing else other than I".  
+Here the word "kincit" has to be understood (adhyāhara)  
+which is not so appropriate as the anuṣaṅga.
+</details>
+
+<details><summary>Español</summary>
+
+En el capítulo sobre Anushaṅga (el contexto)  
+**es evidente** que  
+El **significado indicado** por el contexto (anushaṅga) **es** más apropiado  
+que el significado **llegó** por la **inserción** de una nueva palabra (adhyāhara).
+
+
+Namas.  
+Advaitins **podría decir** que la MA **está** en el caso ablativo o quinto que **significa** "que yo".  
+(**No hay** nada más que yo)  
+y si **consideramos** eso  
+La palabra "kincit" **se entiende** e **inserte**,  
+‘Na mah' **puede significar**  
+"**No hay** nada más que yo".  
+Aquí la palabra "kincit" **tiene** que **ser entendida** (adhyāhara)  
+que **no es** tan apropiado como el anuṣaṅga.
+</details>
 
 <details><summary>मूलम्</summary>
 
-अध्याहारत्तिऱ्काट्टिलनुषङ्गमुचितमॆऩ्ऩुमिडम् अनुषङ्गाधिकरणसिद्धम्। 
+अध्याहारत्तिऱ्काट्टिलनुषङ्गमुचितमॆऩ्ऩुमिडम् अनुषङ्गाधिकरणसिद्धम्।
+</details>
+
+### अन्यान् अन्तरा न ममापि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु ‘‘न ममाहं’’ ऎऩ्ऱु विशेषिक्कैयाले  
+कीऴ् अन्य-शेषत्वत्तैक् कऴिक्किऱ मध्यमाक्षरम्  
+गो-बलीवर्द-न्यायत्ताले स्व-व्यतिरिक्त-विषयम्।
+</details>
+
+<details><summary>English</summary>
+
+Here "na mama aham" specifies that "I am not mine".  
+As the middle letter (in praṇava ) namely "only",  
+has already stated that I exist only for Iśvara,  
+which negates śeṣatva to others,  
+this specification in namas indicates that  
+in others oneself is also included -  
+by the principle illustrated in  go-balīvarda.
+
+(Though the Sanskrit word "Go[गो]" would include "bull" yet the phrase "go and bull" is often used to emphasise bull and draw special attention to it.
+
+The specification is to show the negation of oneself in special  
+as not having been included in the ‘others'  
+stated in the middle letter).
+</details>
+
+<details><summary>Español</summary>
+
+Aquí "Na Mama Aham" **especifica** que "Yo **no soy** mío".  
+Como la carta del medio (en praṇava) a saber "solo",  
+ya **ha declarado** que **existen** solo para iśvara,  
+que **niega** Śeṣatva a los demás,  
+Esta especificación en Namas **indica** que  
+En los demás, Una misma también **se incluye** -
+por el principio **ilustrado** en Go-Balīvarda.
+
+(Aunque la palabra sánscrita "Go [गो]" **incluiría** "toro",  
+la frase "go y el toro" a menudo **se usa** para **enfatizar** el toro  
+y **llamar** la atención especial.
+
+La especificación **es mostrar** la **negación** de uno mismo en especial  
+como **no haber sido incluido** en los "otros"  
+**declarado** en la letra central).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु ‘‘न ममाहं’’ ऎऩ्ऱु विशेषिक्कैयाले कीऴ् अन्यशेषत्वत्तैक् कऴिक्किऱ मध्यमाक्षरम् गोबलीवर्दन्यायत्ताले स्वव्यतिरिक्तविषयम्।
 </details>
 
 
@@ -8563,18 +8650,6 @@ a saber, la tercera carta en praṇava y **es** la **siguiente**:
 
 
 
-
-
-
-
-
-In the chapter on [^89] anushaṅga(The Context) it is evident that the meaning indicated by the context (anushaṅga) is more appropriate than the meaning arrived at by the insertion of a new word (adhyāhara).- Here na mama aham "I am not mine" specifies that I am not mine. As the middle letter (in praṇava ) namely only, has already stated that I exist only for Iśvara, which negates śeṣatva to others, this specification in namas indicates that in others oneself is also included. By the principle illustrated in  go-balīvarda[^90]
-
-[^89]: Namas. Advaitins might say that the ma is in the ablative or fifth case meaning "than I" (There is nothing other than I) and if we consider that the word kincit is understood and insert it, ‘na ma' may mean "There is nothing else other than l". Here the word kincit has to be understood (adhyāhara) which is not so appropriate, as anuṣaṅga
-
-(The specification is to show the negation of oneself in special as not having been included in the ‘others' stated in the middle letter).
-
-[^90]: Though the Sanskrit word Go[गो] would include "bull" yet the phrase go and bull is often used to emphasise bull and draw special attention to it.
 
 Aham na mama ("I am not mine") is the sentence in namas. From this it becoms clear that even one's svarūpa (essential nature) does not belong to oneself. Since attributes and qualities always follow the principal or substantive, it is tantamount to saying, specially, that one is not the unconditioned master of anything (belonging to one). This is the purpose of the specification,
 
