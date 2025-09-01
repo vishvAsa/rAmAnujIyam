@@ -6978,7 +6978,7 @@ pero también **significa** por implicación (upalakṣaṇa) todas las demás c
 शेषत्वाश्रयम् आऩ सर्वत्तिऱ्कुम् उपलक्षकमॆऩ्गिऱार् तृतीयाक्षरमित्यादिना । 
 </details>
 
-#### निरुक्तयः
+#### २५-तमं तत्त्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु जीवात्म-वाचकम् ऎऩ्ऩुम् इडम् 
@@ -7420,7 +7420,7 @@ y (al mismo tiempo) **poseído** del atributo, jñāna.
 ज्ञानस्वरूपऩुमाय् ज्ञानगुणकऩुमायणुवाऩ जीवात्मावैच् चॊल्लुगिऱदु। 
 </details>
 
-#### सानन्द-ज्ञानात्मकः
+##### सानन्द-ज्ञानात्मकः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञान--स्व-रूपऩ् आगप् पॊदुविले+++(=साधारणतः)+++ सॊऩ्ऩालुम्  
@@ -7458,7 +7458,7 @@ También **es** de la naturaleza esencial de ānanda o dicha, que **es** una for
 ज्ञानस्वरूपऩागप् पॊदुविलेसॊऩ्ऩालुम् इवऩ् स्वरूपमनुकूलमाग प्रमाणसिद्धमागैयाले आनन्दरूपमाऩ विशेषमुम् सिद्धिक्कुम्। 
 </details>
 
-#### अ-सङ्कुचित-ज्ञानवत्ता
+##### अ-सङ्कुचित-ज्ञानवत्ता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ज्ञान-गुणकम्" ऎऩ्ऩुम् इडञ् जॊऩ्ऩाल्  
@@ -7501,7 +7501,7 @@ y sin ninguna restricción o límite.
 ज्ञानगुणकमॆऩ्ऩुमिडञ् जॊऩ्ऩाल् प्रमाणानुसारत्तालेमुक्तदशैयिल् निरुपाधिकप्रसरणमाय् सङ्कोचरहितमाऩ ज्ञानम् गुणमाऩमै तोऱ्ऱम्।
 </details>
 
-#### निर्मलता
+##### निर्मलता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि परिशुद्धम् आऩ स्वाभाविक-रूपत्तैप् पार्त्ताल्  
@@ -7541,7 +7541,7 @@ libertad de toda impureza o defecto (Nirmalatva).
 इप्पडि परिशुद्धमाऩ स्वाभाविकरूपत्तैप् पार्त्ताल् अचेतनङ्गळिलुळ्ळ जडत्वादिगळुङ्गऴिन्दु संसारदशैयिलुळ्ळ क्लेशादिगळुङ्गऴिन्दु निऱ्कैयाले स्वरूपधर्मङ्गळिरण्डिलुमुळ्ळ निर्मलत्वमनुसंहितमायिऱ्ऱु। 
 </details>
 
-
+###### अनुसन्धेयता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द पर-शेषतैक-रस--परिशुद्ध--स्व-रूपमे  
@@ -7599,30 +7599,1057 @@ como en la **contemplación** de Brahman como **es** ".
 ‘‘व्यतिरेकस्तद्भाव-भावित्वान्नतूपलब्धिवत्’’(ब्रह्मसूत्रम् ३-३-५२) ऎऩ्गिऱ सूत्रत्तिले सिद्धम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩुक्कु मुमुक्षु-दशैयिल् फल-दशानुसन्धानम् फलापेक्षैक्क् उऱुप्प् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+To the prapanna, the meditation on the fruit of attainment in mukti  
+is useful in creating a desire for that fruit. 
+</details>
+
+<details><summary>Español</summary>
+
+A la Papanna, la **meditación** sobre el fruto del **logro** en Mukti  
+**es útil** para **crear** un deseo de esa fruta.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऩुक्कु मुमुक्षुदशैयिल् फलदशानुसन्धानम् फलापेक्षैक्कुऱुप्पाम्। 
+</details>
+ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पुरुषार्थ-भेदङ्गळुक्क् ईड् आग  
+अनुसन्धेयाकारङ्गळ् वेऱु बट्ट् इरुक्कुम्  
+
+ऎऩ्ऩुम् इडम्  
+श्री-गीतैयिल् अष्टमाध्यायत्तिलुम् भाष्यादिगळिलुम् सुव्यक्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+The forms of meditation (concerning the form of the self) are different  
+in accordance with the difference in the fruits desired  
+and this is evident from the eighth chapter of the Gita and Śrī Bhāṣya and other such treatises.
+</details>
+
+<details><summary>Español</summary>
+
+Las formas de meditación (con respecto a la forma del yo) **son** diferentes  
+de acuerdo con la diferencia en las frutas **deseadas**  
+Y esto **es** evidente en el octavo capítulo del Gita y Śrī Bhāṣya y otros tratados similares.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुरुषार्थभेदङ्गळुक्कीडाग अनुसन्धेयाकारङ्गळ् वेऱुबट्टिरुक्कुमॆऩ्ऩुमिडम् श्री गीतैयिलष्टमाध्यायत्तिलुम् भाष्यादिगळिलुम् सुव्यक्तम्। 
+</details>
+
+##### जात्य्-एक-वचनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीव-भेदम् प्रमाणिकम् आगैयाल्  
+इत् तृतीयाक्षरम्  
+
+> ‘‘नात्मा +++(उत्पद्यते)+++ - श्रुतेर्’’(ब्रह्मसूत्रम् २-३-१८) 
+
+इत्य्-आदिगळिऱ् पोले जात्य्-एकत्व-परम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नात्मा +++(उत्पद्यते)+++ - श्रुतेर्’’(ब्रह्मसूत्रम् २-३-१८) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+Since the pramāṇas declare a plurality (or very large number) of souls,  
+this third letter m (in aum), used in the singular,  
+denotes the jāti or genus (and not a single individual),  
+as in the Brahma Sūtra (2-3.18) which says -  
+
+> The soul (or self) is not (generated), for (so says) the Śruti.'  
+
+(Here the word ' soul' denotes the genus  
+and therefore it really means ' souls' (or self-s).
+</details>
+
+<details><summary>Español</summary>
+
+Dado que los pramāṇas **declaran** una pluralidad (o un número muy grande) de almas,  
+Esta tercera letra M (en AUM), **utilizada** en el singular,  
+**denota** el jāti o el género (y no un solo individuo),  
+como en el Brahma Sūtra (2-3.18) que **dice** -
+
+> El alma (o uno mismo) **no está** (**generado**), porque (lo **dice**) el Śruti.
+
+(Aquí la palabra 'alma' **denota** el género
+y, por lo tanto, realmente **significa** 'almas' (o self).
+</details>
+
+<details><summary>मूलम्</summary>
+
+जीवभेदम् प्रमाणिकमागैयाल् इत् तृतीयाक्षरम् ‘‘नात्मा श्रुते’’(ब्रह्मसूत्रम् २-३-१८) रित्यादिगळिऱ्पोले जात्येकत्वपरम्।
+</details>
+
+##### जीव-व्यक्त्य्-अनुसन्धेयता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि जीव-तत्त्वत्तैय् ऎल्लाम्  
+इङ्गु 
+
+> ‘‘दास-भूतास् स्वतस् सर्वे  
+ह्य् आत्मानः परमात्मनः’’  
+(मन्त्र-राज-पद-स्तोत्रम्) 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
 
 
 
-To the prapanna, the meditation on the fruit of attainment in mukti is useful in creating a desire for that fruit. The forms of meditation (concerning the form of the self) are different in accordance with the difference in the fruits desired and this is evident from the eighth chapter of the Gita and Śrī Bhāṣya and other such treatises.
+> ‘‘दास-भूतास् स्वतस् सर्वे  
+ह्य् आत्मानः परमात्मनः’’  
+(मन्त्र-राज-पद-स्तोत्रम्) 
 
-Since the pramāṇas declare a plurality (or very large number) of souls, this third letter m (in aum), used in the singular, denotes the jāti or genus (and not a single individual), as in the Brahma Sūtra (2-3.18) which says. The soul (or self) is not (generated) for (so says) the Śruti.' (Here the word ' soul' denotes the genus and therefore it really means ' souls' (or self's).
 
-Though it is stated here that all souls are śeṣas to Bhagavān in general terms as in: --"All souls are the servants of the Supreme Self by their very nature" -- yet since the individual is also included in the all souls,' it follows that for that reason, every one should realise that he is also the servant of the Lord.
+</details>
 
-Here the knowledge of being a śeṣa, the abandonment of the conceit of one's independence (of the Lord), the adoption of the particular upāya (namely, prapatti) and the prayer for the fruit to be attained, namely, the service of a śeṣa to the Lord have all to arise in the individual; therefore the individual is the principal (figure). So some ācāryas say that the word aham (I) should be taken as understood and as being the substantive to which the m (which means the jīva) is the adjective "I who am a jīva". In that case, as stated also in ślokas which elaborate the praṇava, "Whatever is mine and I myself are Thine, O Lord, Madhava! I am well aware of this "; since attributes always follow the principal (or the substantive), the qualities and attributes are also intended by implication (Upalakṣaṇa), (2) Other ācāryas hold that the third letter itself (m) shows the aham (or I) by dropping, in the word (asmat=I) of the first part as and the latter part at and retaining only the consonant m in the middle, in accordance with Vedic usage. In Nyāsa vidyā (as described in the Taittiriya Upaniṣad) which enjoins the offering of the self as an oblation to the Supreme Being, the praṇava is called the mantra (for it). In order that the action to be performed may be made clear, the actual words indicating the Supreme Self and the individual self should be expressed and not remain merely implicit. Since according to the pramāṇas, the first letter (a) denotes the person to whom the surrender is made and the middle letter (u) has some other meaning (either only or Lakṣmī), by the law of what remains (pāriseshya) the third letter (m) should indicate the oblation, namely, the individual self that is to be offered. Therefore it is appropriate to hold that this (third) letter should mean aham (or I). Therefore it is that Bhattar commented on the praṇava in Tirumantra as follows:- "I exist only as the property for Bhagavān who is indicated by the letter a".
+
+<details><summary>English</summary>
+
+As in: --
+
+> "All souls are the servants of the Supreme Self  
+by their very nature" 
+
+Though it is stated here  
+that all souls 
+</details>
+
+<details><summary>Español</summary>
+
+
+Como en: -
+
+> "Todas las almas **son** los **sirvientes** del ser supremo  
+por su propia naturaleza "
+
+Aunque **se dice** aquí  
+que todas las almas   
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि जीवतत्वत्तैयॆल्लाम्इङ्गु ‘‘दासभूतास्स्वतस्सर्वे ह्यात्मानः परमात्मनः’’(मन्त्र-राज-पद-स्तोत्रम्) ऎऩ्गिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सामान्येन भगवच्-छेषम् आगच् चॊऩ्ऩालुम्  
+अदिले ताऩुम् अन्तर्-गतऩ् आगैयाले 
+</details>
+
+<details><summary>English</summary>
+
+are śeṣas to Bhagavān in general terms,  
+yet since the individual is also included in the (term) 'all souls,'  
+it follows that for that reason,  
+</details>
+
+<details><summary>Español</summary>
+
+**son** Śeṣas a Bhagavān en términos generales 
+- Sin embargo, dado que el individuo también **se incluye** en el (término) 'todas las almas',  
+**se deduce** que por esa razón,  
+</details>
+
+<details><summary>मूलम्</summary>
+
+सामान्येन भगवच्छेषमागच् चॊऩ्ऩालुम् अदिलेदाऩुमन्तर्गतऩागैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अतोऽहम् अपि ते दासः’’  
+(मन्त्र-राज-पद-स्तोत्रम्) 
+
+ऎऩ्ऩुम् अनुसन्धानमुम् सिद्धिक्किऱदु।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अतोऽहम् अपि ते दासः’’  
+(मन्त्र-राज-पद-स्तोत्रम्) 
+
+</details>
+
+<details><summary>English</summary>
+
+every one should realise that he is also the servant of the Lord.
+
+</details>
+
+<details><summary>Español</summary>
+
+Todos **deben darse cuenta** de que  
+él también **es** el **siervo** del Señor.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अतोऽहमपि ते दासः’’(मन्त्र-राज-पद-स्तोत्रम्) ऎऩ्ऩुमनुसन्धानमुम् सिद्धिक्किऱदु।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु शेषत्व-ज्ञानमुम् स्व-स्वातन्त्र्याभिमान-निवृत्त्य्-आदिगळुम्  
+उपाय-विशेष-परिग्रहमुम्  
+फल-भूत-शेष-वृत्ति-प्रार्थऩैयुम्  
+तऩक्कुप् पिऱक्किऱद् आगैयाले 
+</details>
+
+<details><summary>English</summary>
+
+Here the knowledge of being a śeṣa,  
+the abandonment of the conceit of one's independence (of the Lord),  
+the adoption of the particular upāya (namely, prapatti)  
+and the prayer for the fruit to be attained,   
+namely, the service of a śeṣa to the Lord  
+have all to arise in the individual;  
+</details>
+
+<details><summary>Español</summary>
+
+Aquí el **conocimiento** de **ser** un Śeṣa,  
+El **abandono** de la **presunción** de la independencia de uno (del Señor),  
+La **adopción** de la upāya particular (a **saber**, Prapatti)  
+y la **oración** de que **se alcancen** la fruta,  
+a **saber**, el **servicio** de un Śeṣa al Señor    
+**tienen** todo que **surgir** en el individuo;
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु शेषत्वज्ञानमुम् स्वस्वातन्त्र्याभिमाननिवृत्त्यादिगळुम् उपायविशेषपरिग्रहमुम् फलभूतशेषवृत्तिप्रार्थऩैयुम् तऩक्कुप् पिऱक्किऱदागैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩ्ऩै प्रधानम् आगक् काट्ट वेण्डुगैयाल्
+</details>
+
+<details><summary>English</summary>
+
+therefore the individual is the principal (figure).  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, el individuo **es** el principal (figura).
+</details>
+
+<details><summary>मूलम्</summary>
+
+तऩ्ऩै प्रधान-मागक् काट्टवेण्डुगैयाल्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तृतीयाक्षरत्तुक्कु विशेष्य-पदम् आग  
+**अहं**-शब्दत्तै अध्याहरित्त् अन्वयम् आगिऱद् 
+
+ऎऩ्ऱु सिल आचार्यर्गळ् सॊल्लुवार्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+So some ācāryas say that  
+the word aham (I) should be taken  
+as understood and as being the substantive to which the "m" (which means the jīva) is the adjective -  
+
+> "I who am a jīva". 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces algunos ācāryas **dicen** que  
+La palabra aham (i) **debe tomarse**  
+como **se entiende** y como el sustantivo al que el "M" (que **significa** el Jīva) **es** el adjetivo  -  
+
+> "Yo que **soy** un Jīva".
+</details>
+
+<details><summary>मूलम्</summary>
+
+तृतीयाक्षरत्तुक्कु विशेष्यपदमाग अहंशब्दत्तै अध्याहरित्तन्वयमागिऱदॆऩ्ऱु सिल आचार्यर्गळ् सॊल्लुवार्गळ्। 
+</details>
+
+##### स-गुणता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदुम् प्रणव-विवरणम् आऩ 
+
+> ‘‘मम नाथ यद् अस्ति यो ऽस्म्य् अहं  
+सकलं तद्धि तवैव माधव’’
+(आळवन्दार्-स्तोत्रम् ५३)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘मम नाथ यद् अस्ति यो ऽस्म्य् अहं  
+सकलं तद्धि तवैव माधव’’
+(आळवन्दार्-स्तोत्रम् ५३)
+
+इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>English</summary>
+
+In that case, as stated also in ślokas which elaborate the praṇava,  
+
+> "Whatever is mine  
+and I myself are Thine, O Lord, Madhava!  
+I am well aware of this "; 
+</details>
+
+<details><summary>Español</summary>
+
+En ese caso, como **se indica** también en ślokas que **elaboran** el praṇava,
+
+> "Lo que **sea** mío  
+¡Y yo mismo **soy** tuyo, oh Señor, Madhava!  
+**Soy** muy **consciente** de esto ";
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्पोदुम् प्रणवविवरणमाऩ ‘‘मम नाथ यदस्ति योऽस्म्यहं सकलं तद्धि तवैव माधव’’(आळवन्दार् स्तोत्रम् ५३) इत्यादिगळिऱ्पडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> गुणङ्गळ् +++(धर्मी→)+++प्रधानानुवर्तिगळ् 
+
+ऎऩ्गिऱ न्यायत्ताले  
+तऩक्कु शेषम् आऩ गुणादिगळुम् उपलक्षितङ्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+since attributes always follow the principal (or the substantive),  
+the qualities and attributes are also intended by implication (Upalakṣaṇa). 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que los atributos siempre **siguen** al principal (o al sustantivo),  
+Las cualidades y atributos también **están destinados** a la **implicación** (Upalakṣaṇa).
+</details>
+
+<details><summary>मूलम्</summary>
+
+गुणङ्गळ् प्रधानानुवर्तिकळॆऩ्गिऱ न्यायत्ताले तऩक्कु शेषमाऩ गुणादिगळुमुपलक्षितङ्गळ्। 
+</details>
+
+#### अस्मत्-सङ्क्षेपः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वेऱे सिल आचार्यर्गळ्  
+
+> "अस्मच्"-छब्दत्तिल् व्यञ्जन-मात्रम् आऩ म-कारत्तैय् ऎडुत्तु  
+छान्दस-प्रक्रियैयाले पूर्वोत्तर-भागङ्गळै लोपित्तु निऱ्किऱद् आय्  
+तृतीयाक्षरन् दाऩे अहम्-अर्थत्तैक् काट्टुगिऱद् 
+
+ऎऩ्ऱुम् योजिप्पर्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+(2) Other ācāryas hold that the third letter itself (m) shows the aham (or I) by dropping, in the word (asmat=I) of the first part "as" and the latter part "at"  
+and retaining only the consonant m in the middle, in accordance with Vedic usage. 
+</details>
+
+<details><summary>Español</summary>
+
+(2) Otros ācāryas **sostienen** que la tercera letra en sí (m) **muestra** el Aham (o yo)  
+Al **caer**, en la palabra (asmat = i) de la primera parte "como" y la última parte "en"  
+y **conservando** solo la consonante M en el medio,  
+de acuerdo con el uso védico.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वेऱे सिल आचार्यर्गळ् अस्मच्छब्दत्तिल् व्यञ्जनमात्रमाऩ मकारत्तैयॆडुत्तु 
+छान्दसप्रक्रियैयाले पूर्वोत्तरभागङ्गळै लोपित्तु निऱ्किऱदाय् 
+तृतीयाक्षरन्दाऩे अहमर्थत्तैक् काट्टुगिऱदॆऩ्ऱुम् योजिप्पर्गळ्। 
+</details>
+
+##### न्यासे विनियोगतः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परमात्मावुक्कु आत्म-हविस्सै समर्पिक्क विधिक्किऱ न्यासविद्यैयिले  
+प्रणवत्तै मन्त्रम् आगव् ओदुगैयाले 
+</details>
+
+<details><summary>English</summary>
+
+In Nyāsa vidyā (as described in the Taittiriya Upaniṣad) which enjoins the offering of the self as an oblation to the Supreme Being,  
+the praṇava is called the mantra (for it). 
+</details>
+
+<details><summary>Español</summary>
+
+En Nyāsa Vidyā (como **se describe** en el Taittiriya Upaniṣad)  
+que **ordena** la ofrenda del yo  
+como una **oblación** para el ser supremo,  
+El praṇava **se llama** mantra (para ello).
+</details>
+
+<details><summary>मूलम्</summary>
+
+परमात्मावुक्कु आत्महविस्सै समर्पिक्क विधिक्किऱ न्यासविद्यैयिले प्रणवत्तै मन्त्रमागवोदुगैयाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु अनुष्ठेयार्थ-प्रकाशकम् आगैक्क् आग  
+इदिले परावरात्म-विषयम् आऩ वाचकांशम् अपेक्षितम् आऩाल् 
+</details>
+
+<details><summary>English</summary>
+
+In order that the action to be performed may be made clear,  
+the actual words indicating the Supreme Self and the individual self should be expressed  
+and not remain merely implicit. 
+</details>
+
+<details><summary>Español</summary>
+
+Para que la **acción** a **realizar se aclare**,  
+Las palabras reales que **indican** el ser supremo y el yo individual **deben expresarse**  
+y **no permanecen** simplemente implícitos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु अनुष्ठेयार्थप्रकाशकमागैक्काग इदिले परावरात्मविषयमाऩ वाचकांशमपेक्षितमाऩाल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रमाणानुसारत्ताले प्रथमाक्षरम् उद्देश्य-कारकत्तैच् चॊल्लुगैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+Since according to the pramāṇas,  
+the first letter (a) denotes the person to whom the surrender is made 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que **según** los pramāṇas,  
+La primera carta (a) **denota** a la persona a quien **se hace** la **rendición**
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रमाणानुसारत्ताले प्रथमाक्षरमुद्देश्यकारकत्तैच् चॊल्लुगैयालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मध्यमाक्षरम् अन्यार्थम् आगैयालुम्  
+</details>
+
+<details><summary>English</summary>
+
+and the middle letter (u) has some other meaning (either "only" or Lakṣmī), 
+</details>
+
+<details><summary>Español</summary>
+
+y la letra central (u) **tiene** algún otro significado (ya **sea** "solo" o lakṣmī),
+</details>
+
+<details><summary>मूलम्</summary>
+
+मध्यमाक्षरमन्यार्थमागैयालुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पारिशेष्यत्ताले तृतीयाक्षरम् समर्पणीयमाऩ प्रत्यग्-आत्म-हविस्सैक् काट्ट वेण्डियदाल् 
+</details>
+
+<details><summary>English</summary>
+
+by the law of what remains (pāriseshya)  
+the third letter (m) should indicate the oblation,  
+namely, the individual self that is to be offered. 
+</details>
+
+<details><summary>Español</summary>
+
+por la ley de lo que **queda** (Pāriseshya)  
+La tercera letra (m) **debe indicar** la **oblación**,  
+a saber, el yo individual que **se ofrecerá**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पारिशेष्यत्ताले तृतीयाक्षरम् समर्पणीयमाऩ प्रत्यगात्महविस्सैक्काट्टवेण्डियदाल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अक्षरत्तुक्कु "अहं" ऎऩ्ऱु पॊरुळ् आगै  
+मिगवुम् उचितम्। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore it is appropriate to hold that  
+this (third) letter should mean aham (or I). 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **es** apropiado **sostener** que  
+Esta (tercera) carta **debería significar** Aham (o yo).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वक्षरत्तुक्कु अहं ऎऩ्ऱु पॊरुळागै मिगवुमुचितम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयालेय् इऱे  
+भट्टर् इङ्गुऱ्ऱ प्रणवत्तुक्कु 
+
+> ‘‘अकारार्थायैव स्वम् अहं’’  
+(अष्टश्लोकी ३) 
+
+ऎऩ्ऱु व्याख्यानम् पण्णिऱ्ऱु।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अकारार्थायैव स्वम् अहं’’  
+(अष्टश्लोकी ३) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+Therefore it is that Bhattar commented on the praṇava in Tirumantra as follows:- 
+
+> "I exist only as the property for Bhagavān  
+who is indicated by the letter a".
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **es** que Bhattar **comentó** sobre la praṇava en Tirumantra de la **siguiente** manera:-
+
+> "**Existe** solo como propiedad de Bhagavān  
+quien **está indicado** por la letra A ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाले यिऱे भट्टर् इङ्गुऱ्ऱ प्रणवत्तुक्कु ‘‘अकारार्थायैव स्वमहं’’(अष्टश्लोकी ३) ऎऩ्ऱु व्याख्यानम् पण्णिऱ्ऱु।  
+</details>
+
+
+## नमः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 THE MEANING OF NAMAS OR NAMO IN TIRUMANTRA:
+</details>
 
-So also the ma in namas (namo) denotes the individual self in any one of the three ways indicated before (1) 25th tattva (2) the knowing self and (3) short for aham. This ma is in the genitive or sixth case ending, and the na (which precedes it) means negation 'no' or 'not'. So it is equivalent to na mama (not mine). The negation na (not) is placed first to indicate its greater importance as in the sentence drishtā Sītā (seen was Sītā). The genitive case in ma is a mark of relationship in general (sambandha sāmanya) and implies (here) the particular form of relationship (that of a śeṣa to the śeṣī). It is with this idea indeed that Bhattar said, " I do not then exist for myself.” The idea contained in this namas which has the same purport as the ‘only’ of the middle letter u in praṇava--for all sentences should be considered as expressive of exclusive affirmation (avadharana) - this idea is of the greatest importance, and it is said in such ślokas as the following:- " The cause of saṁsāra (bondage) is the two letters mama (mine) and the cause of attaining the eternal Brahman is the sentence having three letters na mama (I am) not mine)." The idea of the following śloka has also the same porport as this namas:-"All that is crooked is the cause of saṁsāra; all that is straight is the cause that effects the attainment of Brahman". (Here the idea that we exist for Bhagavāni is straight and the idea that we exist for ourselves is crooked.)
+<details><summary>मूलम्</summary>
 
-If it is asked “What is it that is not mine (na mama)?", the answer is found supplied by the context (anushaṅga) viz., the third letter in praṇava and is as follows :
+El significado de namas o namo en tirumantra:
+</details>
 
-"I do not belong to myself". In the chapter on [^89] anushaṅga(The Context) it is evident that the meaning indicated by the context (anushaṅga) is more appropriate than the meaning arrived at by the insertion of a new word (adhyāhara).- Here na mama aham "I am not mine" specifies that I am not mine. As the middle letter (in praṇava ) namely only, has already stated that I exist only for Iśvara, which negates śeṣatva to others, this specification in namas indicates that in others oneself is also included. By the principle illustrated in  go-balīvarda[^90]
+### मकारो जीवः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[^89]: Namas. Advaitins might say that the ma is in the ablative or fifth case meaning "than I" (There is nothing other than I) and if we consider that the word kincit is understood and insert it, ‘na ma' may mean "There is nothing else other than l". Here the word kincit has to be understood (adhyāhara) which is not so appropriate, as anuṣaṅga
+इप्-पडिये नमस्सिल् म-कारम्  
++++(२५-तत्त्वम्, मन्/मा-तः, अस्मत्-सङ्क्षेपः →)+++ मूऩ्ऱत्त् ऒरु प्रकारत्ताले  
+प्रत्यग्-आत्मावैच् चॊल्लुगिऱदु। 
+</details>
 
-(The specification is to show the negation of oneself in special as not having been included in the ‘others' stated in the middle letter).
+<details><summary>English</summary>
 
-[^90]: Though the Sanskrit word Go[गो] would include "bull" yet the phrase go and bull is often used to emphasise bull and draw special attention to it.
+So also the ma in namas (namo) denotes the individual self in any one of the three ways indicated before  
+(1) 25th tattva  
+(2) the knowing self and  
+(3) short for aham. 
+</details>
+
+<details><summary>Español</summary>
+
+So also the ma in namas (namo) denotes the individual self in any one of the three ways indicated before  
+(1) 25th tattva  
+(2) the knowing self and  
+(3) short for aham. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिये नमस्सिल् मकारम् मूऩ्ऱत्तॊरु प्रकारत्ताले प्रत्यगात्मावैच् चॊल्लुगिऱदु। 
+</details>
+
+
+### न मम
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु षष्ठी-विभक्त्य्-अन्तम् आगैयालुम्  
+न-कारम् निषेधत्तैच् चॊल्लुगैयालुम्  
+"न मम" ऎऩ्ऱद् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+This ma is in the genitive or sixth case ending,  
+and the na (which precedes it) means negation 'no' or 'not'.  
+So it is equivalent to na mama (not mine). 
+</details>
+
+<details><summary>Español</summary>
+
+Esta maestría **está** en el final del caso genitivo o sexto,  
+y la "na" (que lo **precede**) **significa negación** 'no'.  
+Entonces **es** equivalente a "Na Mama" (no la mía).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु षष्ठीविभक्त्यन्तमागैयालुम् नकारम् निषेधत्तैच् चॊल्लुगैयालुम् न मम ऎऩ्ऱदायिऱ्ऱु। 
+</details>
+
+### नकार-प्राधान्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निषेधत्तिल् आदरातिशयन् तोऱ्ऱुकैक्क् आग  
+नञ् मुऩ्ऩे किडक्किऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+The negation na (not) is placed first to indicate its greater importance  
+</details>
+
+<details><summary>Español</summary>
+
+La negación "na" (no) **se coloca** primero para ब् su mayor importancia
+</details>
+
+<details><summary>मूलम्</summary>
+
+निषेधत्तिलादरातिशयन् दोऱ्ऱु कैक्काग नञ् मुऩ्ऩे किडक्किऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु ‘‘दृष्टा सीता’’ ऎऩ्ऩुमाप् पोलेय् इरुक्किऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+as in the sentence drishtā Sītā (seen was Sītā). 
+</details>
+
+<details><summary>Español</summary>
+
+Como en la **oración**, "drishtā Sītā" (**visto fue** Sīta).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु ‘‘दृष्टा सीता’’ ऎऩ्ऩुमाप्पोलेयिरुक्किऱदु। 
+</details>
+
+### शेषित्वम् आर्थम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इम् मकारत्तिल् षष्ठिय् आऩदु  
+सम्बन्ध-सामान्य-मुखत्ताले  
+उचित-सम्बन्ध-विशेषत्तै विवक्षिक्किऱदु।
+</details>
+
+<details><summary>English</summary>
+
+The genitive case in ma is a mark of relationship in general (sambandha sāmanya)  
+and implies (here) the particular form of relationship (that of a śeṣa to the śeṣī). 
+</details>
+
+<details><summary>Español</summary>
+
+El caso genitivo en MA **es** una marca de **relación** en general (Sambandha Sāmanya)  
+e **implica** (aquí) la forma particular de relación (la de un śeṣa al Śeṣī).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इम् मकारत्तिल् षष्ठियाऩदु सम्बन्धसामान्यमुखत्ताले उचितसम्बन्धविशेषत्तै विवक्षिक्किऱदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अभिप्रायत्तालेय् इऱे भट्टरुम् 
+
+>‘‘अथ मह्यं न’’ 
+
+ऎऩ्ऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+It is with this idea indeed that Bhattar said, 
+
+> " I do not then exist for myself.” 
+</details>
+
+<details><summary>Español</summary>
+
+Es con esta idea **de hecho** que Bhattar **dijo**:
+
+> "**No existe** entonces para mí".
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वभिप्रायत्तालेयिऱे भट्टरुम् ‘‘अथ मह्यं न’’ ऎऩ्ऱदु। 
+</details>
+
+### अवधारणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाक्यङ्गळुक्कु अवधारणत्तिले तात्पर्यङ् कॊळ्ळुगैय् उचितम् आगैयाले 
+</details>
+
+<details><summary>English</summary>
+
+For all sentences should be considered as expressive of exclusive affirmation (avadharana) 
+</details>
+
+<details><summary>Español</summary>
+
+Para todas las oraciones **debe considerarse expresiva** de la **afirmación** exclusiva (Avadharana)
+</details>
+
+<details><summary>मूलम्</summary>
+
+वाक्यङ्गळुक्कु अवधारणत्तिले तात्पर्यङ्गॊळ्ळुगै युचितमागैयाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप् प्रणवत्तिले मध्यमाक्षर-सिद्धम् आऩ तात्पर्यार्थत्तोडेय् उऱव्+++(=सम्बन्धम्)+++ आय् इरुक्किऱव् इन्-नमस्सिल् पॊरुळे  
+सर्वत्तिलुम् सारम् 
+
+ऎऩ्ऩुम् इडम् 
+</details>
+
+<details><summary>English</summary>
+
+The idea contained in this namas  
+which has the same purport as the ‘only’ of the middle letter u in praṇava  
+\- this idea is of the greatest importance,  
+</details>
+
+<details><summary>Español</summary>
+
+La idea **contenida** en este namas  
+que **tiene** el mismo significado que el "solo" de la letra del medio en praṇava  
+\- Esta idea **es** de la mayor importancia,  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् प्रणवत्तिले मध्यमाक्षरसिद्धमाऩ तात्पर्यार्थत्तोडेयुऱ वायिरुक्किऱ विन्नमस्सिल् पॊरुळे सर्वत्तिलुम् सारम् ऎऩ्ऩुमिडम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘द्व्यक्षरस् तु भवेन् मृत्युस्  
+त्र्य्-अक्षरं ब्रह्म शाश्वतम् ।  
+"ममे"ति द्वयक्षरो मृत्युर्  
+"न ममे"ति च शाश्वतम्॥’’  
+(भारतम् शान्ति-पर्व १३-४) 
+
+इत्यादिगळाले सॊल्लप्पट्टदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘द्व्यक्षरस् तु भवेन् मृत्युस्  
+त्र्य्-अक्षरं ब्रह्म शाश्वतम् ।  
+"ममे"ति द्वयक्षरो मृत्युर्  
+"न ममे"ति च शाश्वतम्॥’’  
+(भारतम् शान्ति-पर्व १३-४) 
+
+</details>
+
+
+<details><summary>विषयः</summary>
+
+त्यागः, ममकारः
+</details>
+
+
+<details><summary>English</summary>
+
+and it is said in such ślokas as the following:- 
+
+> " The cause of saṁsāra (bondage) is the two letters mama (mine)  
+and the cause of attaining the eternal Brahman is the sentence having three letters "na mama" ((I am) not mine)." 
+</details>
+
+<details><summary>Español</summary>
+
+y **se dice** en los Ślokas como los siguientes:-
+
+> "La causa de Saṁsāra (Bondage) **son** las dos letras mamá (mía)  
+y la causa de **alcanzar** al Eternal Brahman **es** la **oración** que **tiene** tres letras "Na Mama" ((yo) no la mía) ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘द्व्यक्षरस् भवेन्मृत्युस्त्र्यक्षरं ब्रह्म शाश्वतम् । ममेति द्वयक्षरो मृत्युर्न ममेति च शाश्वतम्’’(भारतम् शान्ति-पर्व १३-४) इत्यादिगळाले सॊल्लप्पट्टदु। 
+</details>
+
+### आर्जवम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सर्वं जिह्मं मृत्यु-पदम्  
+आर्जवं ब्रह्मणः पदम् ।  
+एतावान् ज्ञान-विषयः  
+किं **प्रलापः करिष्यति**॥’’  
+(भारतम् शान्ति-पर्व ७९-२२) 
+
+ऎऩ्गिऱ श्लोकत्तुक्कुम्  
+इन् नमस्सिल् पॊरुळिले प्राधान्येन तात्पर्यम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सर्वं जिह्मं मृत्यु-पदम्  
+आर्जवं ब्रह्मणः पदम् ।  
+एतावान् ज्ञान-विषयः  
+किं **प्रलापः करिष्यति**॥’’  
+(भारतम् शान्ति-पर्व ७९-२२) 
+
+</details>
+
+<details><summary>विषयः</summary>
+
+आर्जवम्, प्रामाणिकता, वक्रता, नमः
+</details>
+
+<details><summary>English</summary>
+
+The idea of the following śloka has also the same porport as this namas:-
+
+> "All that is crooked is the cause of saṁsāra;  
+all that is straight is the cause that effects the attainment of Brahman".  
+
+(Here the idea that "we exist for Bhagavān" is straight  
+and the idea that we exist for ourselves is crooked.)
+</details>
+
+<details><summary>Español</summary>
+
+La idea de lo **siguiente** Śloka también **tiene** la misma porport que esta namas:-  
+
+> "Todo lo que **está** torcido es la causa de Saṁsāra;  
+Todo lo que **es** recto **es** la causa que afecta el **logro** de Brahman ".
+
+(Aquí la idea de que "**existimos** para Bhagavān" **es** recta  
+y la idea de que **existimos** para nosotros mismos es torcido).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सर्वं जिह्मं मृत्युपदमार्जवं ब्रह्मणः पदम् । एतावान् ज्ञानविषयः किं प्रलापः करिष्यति’’(भारतम् शान्ति-पर्व ७९-२२) ऎऩ्गिऱ श्लोकत्तुक्कुम् इन् नमस्सिल् पॊरुळिले प्राधान्येन तात्पर्यम्। 
+</details>
+
+### मकारानुषङ्गः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इङ्गु ‘‘न मम’’ ऎऩ्गिऱदु ऎदैय्? 
+
+ऎऩ्ऩिल्;  
+प्रणवत्तिल् तृतीयाक्षरत्तै अनुषङ्गित्तु  
+
+> नाऩ् ऎऩक्क् उरियेऩ् अल्लेऩ्  
+
+ऎऩ्ऱद् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+If it is asked 
+
+> “What is it that is not mine (na mama)?", 
+
+the answer is found supplied by the context (anushaṅga) viz., the third letter in praṇava and is as follows :
+
+"I do not belong to myself". 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se le pregunta**
+
+> "¿Qué **es** lo que **no es** mío (na mamá)?",
+
+La **respuesta se encuentra suministrada** por el contexto (anushaṅga)  
+a saber, la tercera carta en praṇava y **es** la **siguiente**:
+
+"**No me pertenezco** a mí mismo".
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु ‘‘न मम’’ ऎऩ्गिऱदु ऎदैयॆऩ्ऩिल्; प्रणवत्तिल्तृतीयाक्षरत्तै अनुषङ्गित्तु नाऩॆऩक्कुरियेऩल्लेऩॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अध्याहारत्तिऱ् काट्टिल्  
+अनुषङ्गम् उचितम् 
+
+ऎऩ्ऩुम् इडम्  
+अनुषङ्गाधिकरण-सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+In the chapter on anushaṅga (The Context)  
+it is evident that  
+the meaning indicated by the context (anushaṅga) is more appropriate  
+than the meaning arrived at by the insertion of a new word (adhyāhara).  
+
+
+Namas.  
+Advaitins might say that the ma is in the ablative or fifth case meaning "than I".  
+(There is nothing other than I)  
+and if we consider that  
+the word "kincit" is understood and insert it,  
+‘na maH' may mean  
+"There is nothing else other than I".  
+Here the word "kincit" has to be understood (adhyāhara)  
+which is not so appropriate as the anuṣaṅga.
+</details>
+
+<details><summary>Español</summary>
+
+En el capítulo sobre Anushaṅga (el contexto)  
+**es evidente** que  
+El **significado indicado** por el contexto (anushaṅga) **es** más apropiado  
+que el significado **llegó** por la **inserción** de una nueva palabra (adhyāhara).
+
+
+Namas.  
+Advaitins **podría decir** que la MA **está** en el caso ablativo o quinto que **significa** "que yo".  
+(**No hay** nada más que yo)  
+y si **consideramos** eso  
+La palabra "kincit" **se entiende** e **inserte**,  
+‘Na mah' **puede significar**  
+"**No hay** nada más que yo".  
+Aquí la palabra "kincit" **tiene** que **ser entendida** (adhyāhara)  
+que **no es** tan apropiado como el anuṣaṅga.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अध्याहारत्तिऱ्काट्टिलनुषङ्गमुचितमॆऩ्ऩुमिडम् अनुषङ्गाधिकरणसिद्धम्।
+</details>
+
+### अन्यान् अन्तरा न ममापि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु ‘‘न ममाहं’’ ऎऩ्ऱु विशेषिक्कैयाले  
+कीऴ् अन्य-शेषत्वत्तैक् कऴिक्किऱ मध्यमाक्षरम्  
+गो-बलीवर्द-न्यायत्ताले स्व-व्यतिरिक्त-विषयम्।
+</details>
+
+<details><summary>English</summary>
+
+Here "na mama aham" specifies that "I am not mine".  
+As the middle letter (in praṇava ) namely "only",  
+has already stated that I exist only for Iśvara,  
+which negates śeṣatva to others,  
+this specification in namas indicates that  
+in others oneself is also included -  
+by the principle illustrated in  go-balīvarda.
+
+(Though the Sanskrit word "Go[गो]" would include "bull" yet the phrase "go and bull" is often used to emphasise bull and draw special attention to it.
+
+The specification is to show the negation of oneself in special  
+as not having been included in the ‘others'  
+stated in the middle letter).
+</details>
+
+<details><summary>Español</summary>
+
+Aquí "Na Mama Aham" **especifica** que "Yo **no soy** mío".  
+Como la carta del medio (en praṇava) a saber "solo",  
+ya **ha declarado** que **existen** solo para iśvara,  
+que **niega** Śeṣatva a los demás,  
+Esta especificación en Namas **indica** que  
+En los demás, Una misma también **se incluye** -
+por el principio **ilustrado** en Go-Balīvarda.
+
+(Aunque la palabra sánscrita "Go [गो]" **incluiría** "toro",  
+la frase "go y el toro" a menudo **se usa** para **enfatizar** el toro  
+y **llamar** la atención especial.
+
+La especificación **es mostrar** la **negación** de uno mismo en especial  
+como **no haber sido incluido** en los "otros"  
+**declarado** en la letra central).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु ‘‘न ममाहं’’ ऎऩ्ऱु विशेषिक्कैयाले कीऴ् अन्यशेषत्वत्तैक् कऴिक्किऱ मध्यमाक्षरम् गोबलीवर्दन्यायत्ताले स्वव्यतिरिक्तविषयम्।
+</details>
+
+
+
+
+
+
 
 Aham na mama ("I am not mine") is the sentence in namas. From this it becoms clear that even one's svarūpa (essential nature) does not belong to oneself. Since attributes and qualities always follow the principal or substantive, it is tantamount to saying, specially, that one is not the unconditioned master of anything (belonging to one). This is the purpose of the specification,
 
