@@ -8595,7 +8595,7 @@ que **no es** tan apropiado como el anuṣaṅga.
 अध्याहारत्तिऱ्काट्टिलनुषङ्गमुचितमॆऩ्ऩुमिडम् अनुषङ्गाधिकरणसिद्धम्।
 </details>
 
-### अन्यान् अन्तरा न ममापि
+#### नान्येषां, न ममापि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गु ‘‘न ममाहं’’ ऎऩ्ऱु विशेषिक्कैयाले  
@@ -8645,15 +8645,135 @@ como **no haber sido incluido** en los "otros"
 इङ्गु ‘‘न ममाहं’’ ऎऩ्ऱु विशेषिक्कैयाले कीऴ् अन्यशेषत्वत्तैक् कऴिक्किऱ मध्यमाक्षरम् गोबलीवर्दन्यायत्ताले स्वव्यतिरिक्तविषयम्।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘अहं न मम’’ ऎऩ्गिऱ वाक्यत्ताले  
+तऩ् स्वरूपमुम् तऩक्क् उरित्त् अल्लामैयाले 
+</details>
+
+<details><summary>English</summary>
+
+Aham na mama ("I am not mine") is the sentence in namas.  
+From this it becoms clear that even one's svarūpa (essential nature) does not belong to oneself. 
+</details>
+
+<details><summary>Español</summary>
+
+"Aham Na Mama" ("No soy mío") **es** la **oración** en Namas.  
+A partir de esto, **queda claro** que incluso el svarūpa (naturaleza esencial) **no pertenece** a sí mismo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अहं न मम’’ ऎऩ्गिऱ वाक्यत्ताले तऩ् स्वरूपमुम् तऩक्कुरित्तल्लामैयाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुणङ्गळ् +++(धर्मि→)+++प्रधानानुवर्तिगळ् ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>English</summary>
+
+Since attributes and qualities always follow the principal or substantive, 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que los atributos y las cualidades siempre **siguen** al principal o sustantivo,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गुणङ्गळ् प्रधानानुवर्तिकळॆऩ्गिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वेऱ् ऒऩ्ऱैयुम् पऱ्ऱत्  
+तऩक्कु निरुपाधिक-स्वामित्वम् इल्लैय् 
+
+ऎऩ्ऱु +++(आत्मानं)+++ विशेषित्त् अनुसन्धानम् फलित्तदु। 
+</details>
+
+<details><summary>English</summary>
+
+it is tantamount to saying, specially, that  
+one is not the unconditioned master of anything (belonging to one).  
+</details>
+
+<details><summary>Español</summary>
+
+Es equivalente **decir**, especialmente, que  
+Uno **no es** el maestro incondicionado de nada (perteneciente a uno).  
+</details>
+
+<details><summary>मूलम्</summary>
+
+वेऱॊऩ्ऱैयुम् पऱ्ऱत् तऩक्कु निरुपाधिकस्वामित्वमिल्लै यॆऩ्ऱु विशेषित्तनुसन्धानम् फलित्तदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु विशेष-निर्देशत्तुक्कुप् प्रयोजनम्। 
+</details>
+
+<details><summary>English</summary>
+
+This is the purpose of the specification.
+</details>
+
+<details><summary>Español</summary>
+
+Este **es** el propósito de la especificación.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु विशेषनिर्देशत्तुक्कुप् प्रयोजनम्। 
+</details>
+
+### मदीयानि न मम
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि अनुषङ्गियाद पक्षत्तिल्  
+पॊदुविले तऩ्ऩोडु तुवक्क् उण्ड् आय्त् तोऱ्ऱुगिऱ् +++(शरीरादि)+++ अवऱ्ऱैय् ऎल्लाम्  
+"ऎऩ्ऩद् अऩ्ऱ्" ऎऩ्ऱु  
+तऩ् तुवक्क् अऱुक्किऱदु +++(=कर्तयति)+++। 
+</details>
+
+<details><summary>English</summary>
+
+If we do not take the word aham from the context (anushaṅga)  
+and accept the interpretation given above,  
+it would mean that 
+
+the general misapprehension that certain things (for example, our body and our qualities) really belong to us  
+will be taken away from one's self.
+</details>
+
+<details><summary>Español</summary>
+
+Si **no tomamos** la palabra aham del contexto (anushaṅga)  
+y **aceptar** la **interpretación dada** anteriormente,  
+**Significaría** que 
+
+la mala **reprensión** general que ciertas cosas (por ejemplo, nuestro cuerpo y nuestras cualidades) realmente **nos pertenecen**  
+se **le quitará** a uno mismo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि अनुषङ्गियाद पक्षत्तिल् पॊदुविले तऩ्ऩोडु तुवक्कुण्डाय्त् तोऱ्ऱुगिऱवऱ्ऱै यॆल्लाम् ऎऩ्ऩदऩ्ऱॆऩ्ऱु तऩ् तुवक्कऱुक्किऱदु। 
+</details>
 
 
 
-
-
-
-Aham na mama ("I am not mine") is the sentence in namas. From this it becoms clear that even one's svarūpa (essential nature) does not belong to oneself. Since attributes and qualities always follow the principal or substantive, it is tantamount to saying, specially, that one is not the unconditioned master of anything (belonging to one). This is the purpose of the specification,
-
-If we do not take the word aham from the context (anushaṅga) and accept the interpretation given above, it would mean that the general misapprehension that certain things (for example, our body and our qualities) really belong to us will be taken away from one's self.
 
 Thus namas dispels one's conceit (abhimāna) about oneself and about those which appear to be one's by stating that they do not belong to one and the root causes of saṁsāra, namely the notions of 'I' and 'mine' which are false, are thereby removed. The conceit (ahamkāra) which is thus removed is a form of illusory knowledge. The word ahamkāra is used also to mean one of the twenty-four reals (tattvas), but that ahamkāra is not capable of being removed by mere intelligence. It persists with the jīva until its separation from the subtle body (sīkṣma śarīra). Though this connection with the non-sentient tattva (real) called ahankāra continues to exist, its effects in the form of the disease of conceit (abhimana) and the like which are illusory are cured by medicine in the forın of discrimination (viveka) resulting from such things as the mūlamantra.
 
