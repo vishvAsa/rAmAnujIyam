@@ -8766,16 +8766,130 @@ la mala **reprensión** general que ciertas cosas (por ejemplo, nuestro cuerpo y
 se **le quitará** a uno mismo.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इप्पडि अनुषङ्गियाद पक्षत्तिल् पॊदुविले तऩ्ऩोडु तुवक्कुण्डाय्त् तोऱ्ऱुगिऱवऱ्ऱै यॆल्लाम् ऎऩ्ऩदऩ्ऱॆऩ्ऱु तऩ् तुवक्कऱुक्किऱदु। 
 </details>
 
+### दुर्-अभिमान-निवारणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताल् तऩ्ऩैयुम्, तऩ्ऩुडैय गुण-विग्रहादिगळैयुम् पऱ्ऱत्  
+तऩ्ऩ् अभिमान-विशेषङ्गळैक् कऴिक्कैयाले  
+विपरीताहङ्कार--ममकारङ्गळ् आगिऱ संसार-मूलङ्गळ् छेदिक्कप् पट्टऩ। 
+</details>
+
+<details><summary>English</summary>
+
+Thus namas dispels one's conceit (abhimāna) about oneself  
+and about those which appear to be one's  
+by stating that they do not belong to one  
+
+and the root causes of saṁsāra,  
+namely the notions of 'I' and 'mine',  
+which are false,  
+are thereby removed.  
+</details>
+
+<details><summary>Español</summary>
+
+Así, namas **disipa** la **presunción** de uno (abhimāna) sobre uno mismo  
+y sobre los que **parecen ser** de uno  
+**declarando** que **no pertenecen** a uno  
+
+y las causas fundamentales de Saṁsāra,  
+a saber, las nociones de 'i' y 'mía',  
+que **son** falsos,  
+Por lo tanto, **se eliminan**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्ताल् तऩ्ऩैयुम् तऩ्ऩुडैय गुणविग्रहादिगळैयुम् पऱ्ऱत् तऩ्ऩभिमानविशेषङ्गळैक् कऴिक् कैयाले विपरीताहङ्कारममकारङ्गळागिऱ संसारमूलङ्गळ् छेदिक्कप्पट्टऩ। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु कऴिक्किऱ अहङ्-कारम् भ्रम-रूपम् आऩ बुद्धि-विशेषम्। 
+</details>
+
+<details><summary>English</summary>
+
+The conceit (ahamkāra) which is thus removed is a form of illusory knowledge. 
+</details>
+
+<details><summary>Español</summary>
+
+La presunción (Ahamkāra) que **se elimina** así **es** una forma de **conocimiento** ilusorio.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-Thus namas dispels one's conceit (abhimāna) about oneself and about those which appear to be one's by stating that they do not belong to one and the root causes of saṁsāra, namely the notions of 'I' and 'mine' which are false, are thereby removed. The conceit (ahamkāra) which is thus removed is a form of illusory knowledge. The word ahamkāra is used also to mean one of the twenty-four reals (tattvas), but that ahamkāra is not capable of being removed by mere intelligence. It persists with the jīva until its separation from the subtle body (sīkṣma śarīra). Though this connection with the non-sentient tattva (real) called ahankāra continues to exist, its effects in the form of the disease of conceit (abhimana) and the like which are illusory are cured by medicine in the forın of discrimination (viveka) resulting from such things as the mūlamantra.
+इङ्गु कऴिक्किऱ अहङ्कारम् भ्रमरूपमाऩ बुद्धिविशेषम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मऱ्ऱुम् तत्त्वङ्गळिल् ऎण्णिऩ अहङ्कारम्  
+विवेक-मात्रत्ताऱ् कऴिवद् ऒऩ्ऱ् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+The word ahamkāra is used also to mean one of the twenty-four reals (tattvas),  
+but that ahamkāra is not capable of being removed by mere intelligence. 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra ahamkāra también **se usa** para **significar** uno de los veinticuatro reales (tattvas),  
+Pero que Ahamkāra **no es capaz** de **ser eliminado** por la mera inteligencia.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुम् तत्त्वङ्गळिलॆण्णिऩ अहङ्कारम् विवेकमात्रत्ताऱ् कऴिवदॊऩ्ऱऩ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सूक्ष्म-शरीरम् विडुम् अळवुम्  
+इवऩैत् तॊऱ्ऱिक् किडक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+It persists with the jīva until its separation from the subtle body (Sūkṣma śarīra). 
+</details>
+
+<details><summary>Español</summary>
+
+**Persiste** con el Jīva hasta su **separación** del cuerpo sutil (Sūkṣma śarīra).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सूक्ष्मशरीरम् विडुमळवुमिवऩैत् तॊऱ्ऱिक्किडक्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अ-चित्-सम्बन्धम् इवऩुक्कुक् कऴियाद् इरुक्क  
+इदिऩ् कार्यङ्गळ् आय् भ्रम-रूपङ्गळ् आऩ अहङ्कारादि-व्याधिगळ्  
+मूल-मन्त्रादिगळाले सिद्धम् आऩ  
+विवेकम् आगिऱ भेषज-विशेषत्ताले कऴिगिऱऩ। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्व् अचित्सम्बन्धम् इवऩुक्कुक् कऴिया तिरुक्क इदिऩ् कार्यङ्गळाय् भ्रमरूपङ्गळाऩ अहङ्कारादिव्याधिकळ् मूलमन्त्रादिगळाले सिद्धमाऩ विवेकमागिऱ भेषज विशेषत्ताले कऴिगिऱऩ। 
+</details>
+
+
+Though this connection with the non-sentient tattva (real) called ahankāra continues to exist, its effects in the form of the disease of conceit (abhimana) and the like which are illusory are cured by medicine in the form of discrimination (viveka) resulting from such things as the mūlamantra.
 
 Since, from the middle letter of praṇava, the notion that one is śeṣa to any other than the Lord is got rid of, there is no need to state separately that one is not śeṣa to oneself. Therefore the purport may also be to show that the person to whom certain things appear to be śeṣa and who appears to be śeṣī is not the unconditioned master or śeṣī of any of these things. All those things that are śeṣa to the jīva (like his body, his attributes, his wealth etc.) are indeed those that were given to him for His own purposes by the Supreme: Ruler, who is the śeṣī of all.
 

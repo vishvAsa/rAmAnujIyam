@@ -3169,12 +3169,6 @@ y el aliento vital en el yo.
 पञ्च-भूत-सूक्ष्मैः सह संयोज्य, 
 </details>
 
-
-<details><summary>मूलम्</summary>
-
-प्राणेन्द्रिय संयुक्तऩाऩजीवऩै त्रिस्थूणक्षोभदशैयिले स्थूलदेहत्तिऩिऩ्ऱुङ् गडैन्दॆडुत्त पञ्चभूतसूक्ष्मङ्गळोडे सेर्त्तु, 
-</details>
-
 <details><summary>English</summary>
 
 Then at the moment of the shaking of the bone in the back called vamsa,  
@@ -3187,6 +3181,12 @@ and contacts the self with the subtle elements (sūkṣma bhuta)
 Luego, en el momento del **temblor** del hueso en la espalda, **llamado** Vamsa,  
 El Señor **produce** los elementos sutiles del cuerpo bruto (Sthūla deha)  
 y se pone en **contacto** con los elementos sutiles (sūkṣma bhuta)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राणेन्द्रिय संयुक्तऩाऩजीवऩै त्रिस्थूणक्षोभदशैयिले स्थूलदेहत्तिऩिऩ्ऱुङ् गडैन्दॆडुत्त पञ्चभूतसूक्ष्मङ्गळोडे सेर्त्तु, 
 </details>
 
 
