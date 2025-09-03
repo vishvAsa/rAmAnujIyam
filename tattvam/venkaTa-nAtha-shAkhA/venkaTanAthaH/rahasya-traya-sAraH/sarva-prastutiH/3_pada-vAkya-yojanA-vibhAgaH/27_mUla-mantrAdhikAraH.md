@@ -8883,23 +8883,496 @@ It persists with the jīva until its separation from the subtle body (Sūkṣma 
 विवेकम् आगिऱ भेषज-विशेषत्ताले कऴिगिऱऩ। 
 </details>
 
+<details><summary>English</summary>
+
+Though this connection with the non-sentient tattva (real) called ahankāra continues to exist,  
+its effects in the form of the disease of conceit (abhimana) and the like  
+which are illusory  
+are cured by medicine in the form of discrimination (viveka)  
+resulting from such things as the mūlamantra.
+</details>
+
+<details><summary>Español</summary>
+
+Aunque esta conexión con el tattva (real) no sensible **llamado** Ahankāra **continúa existiendo**,  
+sus efectos en forma de enfermedad de la **presunción** (abhimana) y similares  
+que **son** ilusorios  
+**son curados** por la medicina en forma de discriminación (Viveka)  
+**resultante** de cosas como el Mūlamantra.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इव्व् अचित्सम्बन्धम् इवऩुक्कुक् कऴिया तिरुक्क इदिऩ् कार्यङ्गळाय् भ्रमरूपङ्गळाऩ अहङ्कारादिव्याधिकळ् मूलमन्त्रादिगळाले सिद्धमाऩ विवेकमागिऱ भेषज विशेषत्ताले कऴिगिऱऩ। 
 </details>
 
 
-Though this connection with the non-sentient tattva (real) called ahankāra continues to exist, its effects in the form of the disease of conceit (abhimana) and the like which are illusory are cured by medicine in the form of discrimination (viveka) resulting from such things as the mūlamantra.
+### निरुपाधिक-शेषित्वं न
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Since, from the middle letter of praṇava, the notion that one is śeṣa to any other than the Lord is got rid of, there is no need to state separately that one is not śeṣa to oneself. Therefore the purport may also be to show that the person to whom certain things appear to be śeṣa and who appears to be śeṣī is not the unconditioned master or śeṣī of any of these things. All those things that are śeṣa to the jīva (like his body, his attributes, his wealth etc.) are indeed those that were given to him for His own purposes by the Supreme: Ruler, who is the śeṣī of all.
+तऩक्क् अन्य-शेषत्वम् प्रणवत्तिल् मध्यमाक्षरत्तिले कऴिगैयाले 
+</details>
 
-Those qualities and the like of the jīvas which are eternal have become theirs by the eternal will of Iśvara. The transitory bodies and the like which are theirs in the impure state (saṁsāra) and in the pure state (after mukti when they might take bodies for some purpose or other)--these result from the transitory will of Iśvara as the effect of past karma  (in the case of the former) and without any relation to karma (in the case of the latter).
+<details><summary>English</summary>
 
-The praṇava states that the jīva is śeṣa to none other (than Bhagavān). So it becomes evident that he is not śeṣa even to himself as he is other than Bhagavān; it follows from this that, in the same way as he is śeṣa to nobody else (than Bhagavān), no other thing is unconditionally śeṣa to him. This does not appear in the praṇava. Therefore this may be the purport of the namas that the jīva is in no way independent (i.e.) that he has no svatantryam). In that case, taking from the context (anushaṅga) the m in praṇava, it would give the meaning "I am not capable of maintaining or looking after myself."
+Since, from the middle letter of praṇava,  
+the notion that one is śeṣa to any other than the Lord is got rid of,  
+</details>
 
-It is also possible to understaod (adhyāhara), the word svatantrya (independence) after na mama. It would then read na mama svātantryam (I have no independence). The absence of independence in the case of the sentient being is the inability to act independently (of the Lord) (i.e.) without His help. This is because, though in the state of bondage and in the state of release, he acts in accordance with his own mind, he can act only with such things as the senses given by Iśvara and by His stimulation and with His help.
+<details><summary>Español</summary>
 
-The protectorship of all, indicated by the base (prakṛti) (viz) a in the first letter of praṇava, ensues, in the case of those who adopt an upāya, only by stimulating them to the adoption of any one of the upāyas. Though the jīva adopts the upāya, since his activity is dependent on the Lord and since the one who affords protection by granting the fruit (of the upāya) is the Supreme Ruler who is gracious, it is only His protectorship of all indicated in the base of the first letter (of praṇava) that is confirmed by this namas. Similarly Iśvara's being the unconditional śeṣī of all which is stated by the dative case (fourth case) of the first letter a in the praṇava (where the case ending has been dropped) -- this is confirmed by the interpretation suggested before, which denies unconditioned seshitvam to the jīva. As declared in the Brahma Sūtra (2-3-40), “The doership of the jīva is due to the Supreme Being as stated in the Śruti ", the independence that the jīva seems to possess is granted to him in the execution of His own purposes by the Supreme Being who is the unconditioned śeṣī of all. The jīva's being seshi to other things is also due to its being given to him by the unconditioned seshi for the fulfilment of His own purposes. To sum up
+Desde entonces, de la carta del medio de praṇava,  
+La noción de que uno **es** śeṣa para cualquier otro que el Señor **se deshace** de,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩक्कन्यशेषत्वम् प्रणवत्तिल् मध्यमाक्षरत्तिले कऴिगैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यऩ् आऩ तऩ्ऩैप् पऱ्ऱत्  
+तऩक्कु शेषत्वम् इल्लैय् ऎऩ्ऱु पिरित्तुच् चॊल्ल वेण्डामैयाल्
+</details>
+
+<details><summary>English</summary>
+
+there is no need to state separately that one is not śeṣa to oneself. 
+</details>
+
+<details><summary>Español</summary>
+
+**No hay necesidad** de **afirmar** por separado que uno no es Śeṣa para uno mismo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यऩाऩ तऩ्ऩैप्पऱ्ऱत् तऩक्कु शेषत्वमिल्लैयॆऩ्ऱु पिरित्तुच् चॊल्लवेण्डामैयाल्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्य-शेषिय् आय्त् तोऱ्ऱिऩ तऩक्क्  
+इङ्ग् एद् एऩुम् ऒऩ्ऱैयुम् पऱ्ऱ  
+निरुपाधिक-स्वामित्वम् कऴिक्कैयिले तात्पर्यम् आगवुम् आम्।
+</details>
+
+<details><summary>English</summary>
+
+Therefore the purport may also be to show that  
+the person to whom certain things appear to be śeṣa  
+and who appears to be śeṣī  
+is not the unconditioned master or śeṣī  
+of any of these things. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, el poder también **puede ser mostrar** que  
+la persona a la que ciertas cosas **parecen** ser Śeṣa  
+y quien **parece ser** Śeṣī  
+**no es** el maestro incondicionado o Śeṣī  
+de cualquiera de estas cosas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यशेषियाय्त् तोऱ्ऱिऩ तऩक्किङ्गेदेऩुमॊऩ्ऱैयुम् पऱ्ऱ निरुपाधिकस्वामित्वम् कऴिक्कैयिले तात्पर्यमागवुमाम्।
+</details>
+
+### ईश्वरानुग्रहतः मित-शेषित्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीवऩुक्कु शेषम् आऩवैय् ऎल्लाम्  
+निरुपाधिक-सर्व-शेषिय् आऩ सर्वेश्वरऩ् स्वार्थम् आगक् कॊडुत्तवैय् इऱे। 
+</details>
+
+<details><summary>English</summary>
+
+All those things that are śeṣa to the jīva (like his body, his attributes, his wealth etc.)  
+are indeed those that were given to him,  
+for His own purposes,  
+by the Supreme Ruler,  
+who is the śeṣī of all.
+</details>
+
+<details><summary>Español</summary>
+
+Todas esas cosas que **son** Śeṣa para el Jīva (como su cuerpo, sus atributos, su riqueza, etc.)  
+De hecho, **son** los que **se le dieron**,  
+para sus propios fines  
+por el gobernante supremo,  
+quien **es** el Śeṣī de todos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+जीवऩुक्कु शेषमाऩवै यॆल्लाम् निरुपाधिकसर्वशेषियाऩ सर्वेश्वरऩ् स्वार्थमागक् कॊडुत्तवैयिऱे। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीवर्गळ्-उडैय नित्यङ्गळ् आऩ गुणादिगळ्  
+ईश्वरऩ्-उडैय नित्येच्छा-सिद्धङ्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+Those qualities and the like of the jīvas which are eternal  
+have become theirs by the eternal will of Iśvara. 
+</details>
+
+<details><summary>Español</summary>
+
+Esas cualidades y similares de los Jīvas que **son** eternos  
+**se han convertido** en suyo por la **voluntad** eterna de Iśvara.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जीवर्गळुडैय नित्यङ्गळाऩ गुणादिगळ् ईश्वरऩुडैय नित्येच्छासिद्धङ्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-शुद्ध-दशैयिलुम् शुद्ध-दशैयिलुम् उण्ड् आऩ अ-नित्य--विग्रहादिगळ्  
+इवर्गळ्-उडैय कर्म-जन्यम् आयुम्  
+कर्म-निरपेक्षम् आयुम् उळ्ळ  
+अ-नित्येच्छा-सिद्धङ्गळ्।  
+</details>
+
+<details><summary>English</summary>
+
+The transitory bodies and the like which are theirs  
+in the impure state (saṁsāra)  
+and in the pure state (after mukti when they might take bodies for some purpose or other)--  
+these result from the transitory will of Iśvara as the effect of past karma  (in the case of the former)  
+and without any relation to karma (in the case of the latter).
+</details>
+
+<details><summary>Español</summary>
+
+Los cuerpos transitorios y similares que **son** de ellos
+en el estado impuro (saṁsāra)  
+y en el estado puro (después de Mukti, cuando **pueden tomar** cuerpos para algún propósito u otro)-  
+Estos **resultan** de la **voluntad** transitoria de Iśvara   
+como el efecto del karma pasado (en el caso del primero)  
+y sin ninguna relación con el karma (en el caso de este último).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अशुद्धदशैयिलुम् शुद्धदशैयिलुमुण्डाऩ अनित्यविग्रहादिगळिवर्गळुडैय कर्मजन्यमायुम् कर्मनिरपेक्षमायुमुळ्ळ अनित्येच्छासिद्धङ्गळ्।  
+</details>
+
+### सर्वस्यापि भगवद्-एक-शेषता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रणवत्तिले अन्य-शेषत्वङ् कऴिकैयाले 
+</details>
+
+<details><summary>English</summary>
+
+The praṇava states that the jīva is śeṣa to none other (than Bhagavān). 
+</details>
+
+<details><summary>Español</summary>
+
+El praṇava **afirma** que el Jīva es Śeṣa a ninguna otra (que Bhagavān).
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रणवत्तिले अन्यशेषत्वङ्गऴिगैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> परमात्माविऱ् काट्टिल् अन्यऩ्-आऩ तऩक्कुत्  
+तऩ् शेषऩ् अल्लऩ्  
+
+ऎऩ्ऩुम् इडं सिद्धिक्कैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+So it becomes evident that he is not śeṣa even to himself as he is other than Bhagavān;  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **se hace evidente** que  
+él **no es** Śeṣa ni siquiera para sí mismo,  
+ya que **es** otra cosa que Bhagavān;
+</details>
+
+<details><summary>मूलम्</summary>
+
+परमात्माविऱ्काट्टिलन्यऩाऩ तऩक्कुत्तऩ् शेषऩल्लऩॆऩ्ऩुमिडम् सिद्धिक्कैयालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ताऩ् वेऱ् ऒरुत्तर्क्कु शेषम् अल्लादाप् पोले  
+वेऱ् ऒऩ्ऱुन् तऩ्ऩैप् पऱ्ऱ  
+निरुपाधिक-शेषम् अऩ्ऱ् 
+
+ऎऩ्ऩुम् इडमुम् इङ्गे वरुगैयालुम् +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+it follows from this that, in the same way as he is śeṣa to nobody else (than Bhagavān),  
+no other thing is unconditionally śeṣa to him. 
+</details>
+
+<details><summary>Español</summary>
+
+De esto **se deduce** que,  
+de la misma manera que **es** Śeṣa para nadie más (que Bhagavān),  
+Ninguna otra cosa **es** incondicionalmente Śeṣa para él.
+</details>
+ 
+<details><summary>मूलम्</summary>
+
+ताऩ् वेऱॊरुत्तर्क्कु शेषमल्लादाप्पोले 
+वेऱॊऩ्ऱुन् दऩ्ऩैप्पऱ्ऱ निरुपाधिकशेषम् अऩ्ऱॆऩ्ऩुमिडमुम् इङ्गे वरुगैयालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रणवत्तिल् तोऱ्ऱाद स्व-स्वातन्त्र्य-निवृत्तियिले  
+नमस्सुक्कुत् तात्पर्यम् आगवुम् आम्।
+</details>
+
+<details><summary>English</summary>
+
+This does not appear in the praṇava.  
+Therefore this may be the purport of the namas  
+that the jīva is in no way independent  
+(i.e.) that he has no svatantryam. 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **no aparece** en la praṇava.  
+Por lo tanto, este **puede ser** el significado de los Namas  
+que el Jīva **no es** de ninguna manera independiente  
+(es decir) que **no tiene** svatantryam.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रणवत्तिल् तोऱ्ऱाद स्वस्वातन्त्र्यनिवृत्तियिले नमस्सुक्कुत् तात्पर्यमागवुमाम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदु पूर्व-प्रयुक्त-मकारत्तैय् अनुषङ्गित्तु  
+
+> नाऩ् ऎऩक्कु निर्वाहकऩ् अल्लेऩ् 
+
+ऎऩ्ऱु सॊल्लिऱ्ऱ् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+In that case, taking from the context (anushaṅga) the m in praṇava,  
+it would give the meaning 
+
+> "I am not capable of maintaining or looking after myself."
+</details>
+
+<details><summary>Español</summary>
+
+En ese caso, **tomando** del contexto (anushaṅga) el M en praṇava,  
+**daría** el significado
+
+> "**No soy capaz** de **mantenerme ni cuidarse** a mí mismo".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पोदु पूर्वप्रयुक्तमकारत्तैयनुषङ्गित्तु नाऩॆऩक्कु निर्वाहकऩल्लेऩॆऩ्ऱु सॊल्लिऱ्ऱायिऱ्ऱु। 
+</details>
+
+### न मम स्वातन्त्र्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वातन्त्र्य-पद-मात्रत्तैय् अध्याहरित्तु  
+"न मम स्वातन्त्र्यम्" ऎऩ्ऱ् आगवुम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+It is also possible to understaod (adhyāhara),  
+the word svatantrya (independence) after "na mama".  
+It would then read "na mama svātantryam" (I have no independence). 
+</details>
+
+<details><summary>Español</summary>
+
+También **es posible entenderse** (adhyāhara),
+la palabra "svatantrya" (independencia) después de "na mamá".  
+Luego **leería** "Na Mama Svātantryam" (**no tengo** independencia).
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वातन्त्र्यपदमात्रत्तैयध्याहरित्तु न मम स्वातन्त्र्यमॆऩ्ऱागवुमाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इच् चेतनऩुक्कु स्व-स्वातन्त्र्य-निवृत्तिय् आवदु  
+निरपेक्ष-कर्तृत्वानर्हतै। 
+</details>
+
+<details><summary>English</summary>
+
+The absence of independence in the case of the sentient being is the inability to act independently (of the Lord) (i.e.) without His help. 
+</details>
+
+<details><summary>Español</summary>
+
+La **ausencia** de independencia en el caso del ser sensible  
+**es** la **incapacidad** de **actuar** de forma independiente (del Señor) (es decir) sin su **ayuda**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इच् चेतनऩुक्कु स्वस्वातन्त्र्यनिवृत्तियावदु निरपेक्षकर्तृत्वानर्हतै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्क् अडि;  
+बद्धावस्थैयिलुम् मुक्तावस्थैयिलुम्  
+स्व-बुद्धि-पूर्व-प्रवृत्ति-पण्णा निऩ्ऱालुम्  
+ईश्वरऩ् कॊडुत्त करणादिगळैक् कॊण्डु  
+अवऩ् प्रेरकम् आय्, सहकारियुम् आगप् प्रवर्तिक्क वेण्डुगै।
+</details>
+
+<details><summary>English</summary>
+
+This is because,  
+though in the state of bondage and in the state of release,  
+he acts in accordance with his own mind,  
+he can act only with such things as the senses given by Iśvara  
+and by His stimulation and with His help.
+</details>
+
+<details><summary>Español</summary>
+
+Esto **es** porque,  
+aunque en el estado de la esclavitud y en el estado de liberación,  
+Él **actúa** de **acuerdo** con su propia mente,  
+Él **puede actuar** solo con cosas como los sentidos **dados** por Iśvara  
+y por **su estimulación** y con su **ayuda**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदुक्कडि; बद्धावस्थैयिलुम् मुक्तावस्थैयिलुम् स्वबुद्धिपूर्वप्रवृत्ति पण्णानिऩ्ऱालुम् ईश्वरऩ्गॊडुत्त करणादिगळैक्कॊण्डु अवऩ् प्रेरकमाय् सहकारियुमागप् प्रवर्तिक्कवेण्डुगै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वरऩुक्कु प्रथमाक्षरत्तिल् प्रकृतियिले सॊऩ्ऩ सर्व-रक्षकत्वम्  
+उपायाधिकारिगळ् पक्कल्  
+एद् एऩुम् ऒरु उपायत्तिले प्रेरेपित्तुक् कॊण्डे वरक् कडवदु।
+</details>
+
+<details><summary>English</summary>
+
+The protectorship of all, indicated by the base (prakṛti) (viz) "a" in the first letter of praṇava,  
+ensues, in the case of those who adopt an upāya,  
+only by stimulating them to the adoption of any one of the upāyas. 
+</details>
+
+<details><summary>Español</summary>
+
+La **protectoridad** de todos, **indicada** por la base (prakṛti) (a saber) "a" en la primera letra de praṇava,   
+**se produce**, en el caso de aquellos que **adoptan** un upāya,  
+solo **estimulándolos** a la **adopción** de cualquiera de los upāyas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩुक्कु प्रथमाक्षरत्तिल् प्रकृतियिले सॊऩ्ऩ सर्वरक्षकत्वम् उपायाधिकारिकळ् पक्कलेदेऩुमॊरु उपायत्तिले प्रेरेपित्तुक्कॊण्डे वरक्कडवदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीवऩ् स्व-रक्षणार्थम् आऩ उपायानुष्ठानत्तिलुम् पराधीन-कर्ताव् आगैयालुम्
+</details>
+
+<details><summary>English</summary>
+
+Though the jīva adopts the upāya,  
+since his activity is dependent on the Lord  
+</details>
+
+<details><summary>Español</summary>
+
+Aunque el Jīva **adopta** el upāya,  
+Dado que su **actividad depende** del Señor
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जीवऩ् स्वरक्षणार्थमाऩ उपायानुष्ठानत्तिलुम् पराधीनकर्तावागैयालुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् उपायम् अनुष्ठित्तालुम् फल-प्रदान-रूप-रक्षै पण्णुवाऩ्  
+प्रसन्नऩ् आऩ सर्वेश्वरऩ् आगैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+and since the one who affords protection  
+by granting the fruit (of the upāya) is the Supreme Ruler who is gracious,  
+</details>
+
+<details><summary>Español</summary>
+
+y ya que el que **brinda protección**  
+Al **otorgar** la fruta (del upāya) **es** el gobernante supremo que **es** amable,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वुपायम् अनुष्ठित्तालुम् फलप्रदानरूपरक्षै पण्णुवाऩ् प्रसन्नऩाऩ सर्वेश्वरऩागैयालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रथमाक्षरत्तिल् प्रकृतियाले सॊल्लप्-पट्टव् अवऩुडैय सर्वरक्षकत्वमे इन् नमश्शब्दत्तालुम् दृढीकृतम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रथमाक्षरत्तिल् प्रकृतियाले सॊल्लप्पट्ट ववऩुडैय सर्वरक्षकत्वमे इन् नमश्शब्दत्तालुम् दृढीकृतम्। 
+</details>
+
+
+it is only His protectorship of all indicated in the base of the first letter (of praṇava) that is confirmed by this namas. Similarly Iśvara's being the unconditional śeṣī of all which is stated by the dative case (fourth case) of the first letter a in the praṇava (where the case ending has been dropped) -- this is confirmed by the interpretation suggested before, which denies unconditioned seshitvam to the jīva. As declared in the Brahma Sūtra (2-3-40), “The doership of the jīva is due to the Supreme Being as stated in the Śruti ", the independence that the jīva seems to possess is granted to him in the execution of His own purposes by the Supreme Being who is the unconditioned śeṣī of all. The jīva's being seshi to other things is also due to its being given to him by the unconditioned seshi for the fulfilment of His own purposes. To sum up
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
