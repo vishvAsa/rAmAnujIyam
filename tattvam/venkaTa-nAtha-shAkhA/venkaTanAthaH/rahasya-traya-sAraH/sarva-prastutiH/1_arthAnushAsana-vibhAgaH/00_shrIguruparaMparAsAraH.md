@@ -25,7 +25,6 @@ A BRIEF ACCOUNT OF THE SUCCESSION OF ĀCĀRYAS
 Una breve descripción de la sucesión de ācāryas
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ०० श्रीगुरुपरंपरासारः  
@@ -33,10 +32,28 @@ Una breve descripción de la sucesión de ācāryas
 श्रीमान् वेङ्कटनाथार्यः कवितार्किककेसरी ।  
 वेदान्ताचार्यवर्यो मे सन्निधत्तां सदा हृदि ॥
 </details>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/venkaTanAthaH/sIr-oNDru.md">
+<details open><summary><h5>सीर् ऒण्ड्रु ...{Loading}...</h5></summary>
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
+सीर्+++(=सुगुणः)+++-ऒण्ड्रु+++(=प्राप्त)+++--तूप्-पुल्+++(=दर्भ[-कुल])+++-- तिरु-वेङ्गडम्-उडैयान्  
+पार्+++(=भू)+++-ऒण्ड्रच्+++(=प्राप्त)+++ चॊन्न पऴ-मॊऴियुळ्+++(=भाषॆयुळ्)+++ - **ओर्** ऒण्ड्रु+++(=प्राप्त)+++ …  
+तानेय् **अमैयादो**+++(=नालम्)+++? तारणियिल्+++(=धरणियिल्)+++ वाऴ्वार्क्कु,  
+वान्+++(=खं)+++ एऱप्-पोम् अळवुम्+++(=यावत्)+++ वाऴ्वु+++(=जीवातुः)+++.  
++++(लोकाचार्य-प्रणीतम् इति प्रतीतिः।)+++
+</details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" url="/rAmAnujIyam/vyakti-shlokAdi/venkaTanAthaH/sIr-oNDru.md"> </div>
-<div class="js_include" includetitle="false" newlevelforh1="5" url="/rAmAnujIyam/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md">
+<details><summary>मूलम् (त॰प॰)</summary>
+
+सीरॊण्ड्रु तूप्पुल् तिरुवेङ्गडमुडैयान्  
+पारॊण्ड्रच्चॊन्न पऴमॊऴियुळ् - ओरॊण्ड्रु  
+तानेयमैयादो तारणियिल् वाऴ्वार्क्कु  
+वानेऱप्पोमळवुम् वाऴ्वु.
+</details>
+</details>
+</div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md">
+<details open><summary><h5>गुरुभ्यस् तद्-गुरुभ्यश् च ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 गुरुभ्यस् तद्-गुरुभ्यश् च  
@@ -44,16 +61,39 @@ Una breve descripción de la sucesión de ācāryas
 वृणीमहे च तत्राद्यौ  
 दं-पती जगतां पती+++(→शेषिणौ)+++ ॥ १ ॥
 </details>
+
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 गुरुभ्यस्तद्गुरुभ्यश्च नमोवाकमधीमहे ।  
 वृणीमहे च तत्राद्यौ दंपती जगतां पती ॥ १ ॥
 </details>
+
 <details><summary>English</summary>
 
-(With due devotion) we repeat the expression of adoration to our gurus and likewise to their gurus; and among these (latter), we pray for the grace of the  Primaeval Couple (Nārāyaṇa  and Lakṣmī ), the twin śeṣīs[^1] of all the worlds (so that they may be both the end to be attained by us and the means of attaining it).
+(With due devotion) we repeat the expression of adoration to our gurus  
+and likewise to their gurus;  
+and among these (latter),  
+we pray for the grace of the  Primaeval Couple (Nārāyaṇa  and Lakṣmī ),  
+the twin śeṣīs[^1] of all the worlds  
+(so that they may be both the end to be attained by us  
+and the means of attaining it).
 
 [^1]: A śeṣa is one who exists solely for the purposes of another. That other is śeṣī .
+</details>
+
+<details><summary>English es</summary>
+
+(Con la debida devoción)  
+Repetimos la expresión de adoración a nuestros gurús  
+y también a sus gurús;  
+y entre estos (últimos),  
+rezamos por la gracia de la pareja primaria (nārāyaṇa y lakṣmī),  
+el gemelo śeṣīs [^es1] de todos los mundos  
+(para que ambos puedan ser el final para ser alcanzados  
+y los medios de alcanzarlo).
+
+[^es1]: Un śeṣa es aquel que existe únicamente para los propósitos de otro. Ese otro es Śeṣī.
+</details>
 </details>
 </div>
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
@@ -1799,4 +1839,3 @@ Vendremos a la nueva vida nuevamente inclinándonos todos los días a los pies d
 गुरुपरंपरासारः संपूर्णः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः
 </details>
-

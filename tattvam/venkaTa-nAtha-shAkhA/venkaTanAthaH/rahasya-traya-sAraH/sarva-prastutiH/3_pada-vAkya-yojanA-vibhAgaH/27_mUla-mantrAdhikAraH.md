@@ -8771,7 +8771,7 @@ se **le quitará** a uno mismo.
 इप्पडि अनुषङ्गियाद पक्षत्तिल् पॊदुविले तऩ्ऩोडु तुवक्कुण्डाय्त् तोऱ्ऱुगिऱवऱ्ऱै यॆल्लाम् ऎऩ्ऩदऩ्ऱॆऩ्ऱु तऩ् तुवक्कऱुक्किऱदु। 
 </details>
 
-### दुर्-अभिमान-निवारणम्
+#### दुर्-अभिमान-निवारणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्ताल् तऩ्ऩैयुम्, तऩ्ऩुडैय गुण-विग्रहादिगळैयुम् पऱ्ऱत्  
@@ -8907,7 +8907,7 @@ que **son** ilusorios
 </details>
 
 
-### निरुपाधिक-शेषित्वं न
+#### निरुपाधिक-शेषित्वं न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तऩक्क् अन्य-शेषत्वम् प्रणवत्तिल् मध्यमाक्षरत्तिले कऴिगैयाले 
@@ -8983,7 +8983,7 @@ de cualquiera de estas cosas.
 अन्यशेषियाय्त् तोऱ्ऱिऩ तऩक्किङ्गेदेऩुमॊऩ्ऱैयुम् पऱ्ऱ निरुपाधिकस्वामित्वम् कऴिक्कैयिले तात्पर्यमागवुमाम्।
 </details>
 
-### ईश्वरानुग्रहतः मित-शेषित्वम्
+##### ईश्वरानुग्रहतो मित-शेषित्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवऩुक्कु शेषम् आऩवैय् ऎल्लाम्  
@@ -9071,7 +9071,7 @@ y sin ninguna relación con el karma (en el caso de este último).
 अशुद्धदशैयिलुम् शुद्धदशैयिलुमुण्डाऩ अनित्यविग्रहादिगळिवर्गळुडैय कर्मजन्यमायुम् कर्मनिरपेक्षमायुमुळ्ळ अनित्येच्छासिद्धङ्गळ्।  
 </details>
 
-### सर्वस्यापि भगवद्-एक-शेषता
+##### सर्वस्यापि भगवद्-एक-शेषता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रणवत्तिले अन्य-शेषत्वङ् कऴिकैयाले 
@@ -9312,7 +9312,7 @@ solo **estimulándolos** a la **adopción** de cualquiera de los upāyas.
 ईश्वरऩुक्कु प्रथमाक्षरत्तिल् प्रकृतियिले सॊऩ्ऩ सर्वरक्षकत्वम् उपायाधिकारिकळ् पक्कलेदेऩुमॊरु उपायत्तिले प्रेरेपित्तुक्कॊण्डे वरक्कडवदु।
 </details>
 
-
+### भगवद्-रक्ष्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवऩ् स्व-रक्षणार्थम् आऩ उपायानुष्ठानत्तिलुम् पराधीन-कर्ताव् आगैयालुम्
@@ -9363,7 +9363,19 @@ Al **otorgar** la fruta (del upāya) **es** el gobernante supremo que **es** ama
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रथमाक्षरत्तिल् प्रकृतियाले सॊल्लप्-पट्टव् अवऩुडैय सर्वरक्षकत्वमे इन् नमश्शब्दत्तालुम् दृढीकृतम्। 
+प्रथमाक्षरत्तिल् प्रकृतियाले सॊल्लप्-पट्टव् अवऩ्-उडैय सर्व-रक्षकत्वमे इन् नमश्-शब्दत्तालुम् दृढी-कृतम्। 
+</details>
+
+<details><summary>English</summary>
+
+it is only His protectorship of all indicated in the base of the first letter (of praṇava)  
+that is confirmed by this namas. 
+</details>
+
+<details><summary>Español</summary>
+
+Es solo su **protectoridad** de todos **indicados** en la base de la primera letra (de praṇava)  
+Eso **es confirmado** por este Namas.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9371,28 +9383,176 @@ Al **otorgar** la fruta (del upāya) **es** el gobernante supremo que **es** ama
 प्रथमाक्षरत्तिल् प्रकृतियाले सॊल्लप्पट्ट ववऩुडैय सर्वरक्षकत्वमे इन् नमश्शब्दत्तालुम् दृढीकृतम्। 
 </details>
 
+### भगवत्-सर्व-शेषिता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-it is only His protectorship of all indicated in the base of the first letter (of praṇava) that is confirmed by this namas. Similarly Iśvara's being the unconditional śeṣī of all which is stated by the dative case (fourth case) of the first letter a in the praṇava (where the case ending has been dropped) -- this is confirmed by the interpretation suggested before, which denies unconditioned seshitvam to the jīva. As declared in the Brahma Sūtra (2-3-40), “The doership of the jīva is due to the Supreme Being as stated in the Śruti ", the independence that the jīva seems to possess is granted to him in the execution of His own purposes by the Supreme Being who is the unconditioned śeṣī of all. The jīva's being seshi to other things is also due to its being given to him by the unconditioned seshi for the fulfilment of His own purposes. To sum up
+इप्-पडि प्रथम-चतुर्थियाले प्रतिपन्नम् आऩ ईश्वरऩ्-उडैय निरुपाधिक-सर्व-शेषित्वमुम्  
+जीवऩुक्क् एद् एऩुम् ऒऩ्ऱैयुम् पऱ्ऱ निरुपाधिक-शेषित्वमुङ् कऴित्त मुऩ्-बुऱ्ऱ योजऩैयाले  
+दृढी-कृतम् आयिऱ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+Similarly Iśvara's being the unconditional śeṣī of all  
+which is stated by the dative case (fourth case) of the first letter "a" in the praṇava  
+(where the case ending has been dropped) --  
+this is confirmed by the interpretation suggested before,  
+which denies unconditioned seshitvam to the jīva. 
+</details>
+
+<details><summary>Español</summary>
+
+Del mismo modo, Iśvara **es** el incondicional śeṣī de todos  
+que **es declarado** por el caso dativo (cuarto caso) de la primera letra "A" en el praṇava  
+(Donde **se ha caído** el caso del caso) -  
+Esto **se confirma** por la **interpretación sugerida** antes,  
+que **niega** a Seshitvam incondicionado al Jīva.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि प्रथमचतुर्थियाले प्रतिपन्नमाऩ ईश्वरऩुडैय निरुपाधिकसर्वशेषित्वमुम् जीवऩुक्केदेऩुमॊऩ्ऱैयुम् पऱ्ऱ निरुपाधिकशेषित्वमुङ्गऴित्त मुऩ्बुऱ्ऱयोजऩैयाले दृढीकृतमायिऱ्ऱु।
+</details>
+
+### ईश्वरानुग्रहते मिते स्वातन्त्र्य-शेषित्वे
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इज्-जीवऩुक्क्-उळ्ळ स्वातन्त्र्यमुम् 
+
+> ‘‘ +++(जीव-कर्तृत्वम्)+++ परात् तु तच्-छ्रुतेः’’(ब्रह्म-सूत्रम् २-३-४०) 
+
+ऎऩ्गिऱ न्यायत्ताले  
+निरुपाधिक--स्वतन्त्रऩ् आय् स्वार्थ-प्रवृत्तऩ् आऩ परमात्माव् अडिय् आग वन्ददु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘ +++(जीव-कर्तृत्वम्)+++ परात् तु तच्-छ्रुतेः’’(ब्रह्म-सूत्रम् २-३-४०) 
+</details>
+
+<details><summary>English</summary>
+
+As declared in the Brahma Sūtra (2-3-40), 
+
+> “The doership of the jīva  
+is due to the Supreme Being as stated in the Śruti ", 
+
+the independence that the jīva seems to possess  
+is granted to him in the execution of His own purposes by the Supreme Being  
+who is the unconditioned śeṣī of all. 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se declaró** en el Brahma Sūtra (2-3-40),  
+
+> “La **trabajadora** del Jīva  
+**se debe** al ser supremo  
+como **se indica** en el Śruti ",
+
+la **independencia** que el Jīva **parece poseer**  
+**se le otorga** en la **ejecución** de sus propios propósitos por el ser supremo  
+quien **es** el incondicionado Śeṣī de todos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इज्जीवऩुक्कुळ्ळ स्वातन्त्र्यमुम् ‘‘परात्तु तच्छ्रुतेः’’(ब्रह्म-सूत्रम् २-३-४०) ऎऩ्गिऱन्यायत्ताले निरुपाधिकस्वतन्त्रऩाय् स्वार्थप्रवृत्तऩाऩ परमात्मावडियाग वन्ददु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पडिये वस्त्व्-अन्तरङ्गळैप् पऱ्ऱव् इज्-जीवऩुक्कु शेषित्वमुम्  
+निरुपाधिक-शेषियाऩ अवऩ् स्वार्थम् आगक् कॊडुक्क वन्ददु।
+</details>
+
+<details><summary>English</summary>
+
+The jīva's being seshi to other things  
+is also due to its being given to him by the unconditioned seshi  
+for the fulfilment of His own purposes. 
+</details>
+
+<details><summary>Español</summary>
+
+El Jīva **está siendo** seshi con otras cosas  
+También **se debe** a que le **dan** a él por el incondicionado Seshi  
+para el **cumplimiento** de sus propios propósitos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पडिये वस्त्वन्तरङ्गळैप्पऱ्ऱविज्जीवऩुक्कु शेषित्वमुम् निरुपाधिकशेषियाऩ अवऩ् स्वार्थमागक् कॊडुक्क वन्ददु।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+To sum up
+</details>
+
+<details><summary>मूलम्</summary>
+
+Para resumir
+</details>
+ 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+॥ श्रीमान् स्व-तन्त्रस् स्वामी च  
+सर्वत्रान्यानपेक्षया ।  
+निरपेक्ष-स्वतन्त्रत्वं  
+स्वाम्यञ्चान्यस्य न क्वचित् ॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
+॥ श्रीमान् स्वतन्त्रस्स्वामी च सर्वत्रान्यानपेक्षया ।  
+निरपेक्षस्वतन्त्रत्वं स्वाम्यञ्चान्यस्य न क्वचित् ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-॥ श्रीमान् स्वतन्त्रस्स्वामी च सर्वत्रान्यानपेक्षया ।  
-निरपेक्षस्वतन्त्रत्वं स्वाम्यञ्चाा न्यस्य न क्वचित् ॥  
 तारस्य नमसश्चेमौ सारौ देशिकदर्शितौ ।  
 अनन्यशरणत्वादेरधिकारस्य सिद्धये ॥
 </details>
+
+<details><summary>English</summary>
+
+The Lord of Śrī is (alone) independent in all things  
+and is (alone) the Master (of all)  
+without being dependent on any one else.  
+Independence without any dependence for help on others  
+and mastership belong to no one else.
+
+</details>
+
+<details><summary>Español</summary>
+
+El Señor de Śrī **es** (solo) independiente en todas las cosas  
+y **es** (solo) el maestro (de todos)  
+sin **depender** de nadie más.  
+Independencia sin dependencia de ayuda en otros  
+y la maestría **no pertenece** a nadie más.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-॥ श्रीमान् स्वतन्त्रस्स्वामी च सर्वत्रान्यानपेक्षया ।  
-निरपेक्षस्वतन्त्रत्वं स्वाम्यञ्चाा न्यस्य न क्वचित् ॥  
 तारस्य नमसश्चेमौ सारौ देशिकदर्शितौ ।  
 अनन्यशरणत्वादेरधिकारस्य सिद्धये ॥
 </details>
 
-The Lord of Śrī is (alone) independent in all things and is (alune) the Master (of all) without being dependent on any one else. Independence without any dependence for help on others and mastership belong to no one else.
 
-This gist of the praṇava and of the namas has been taught to us by (our) üchāryas, in order that we may have the competence (for prapatti), namely, such as having the Lord alone as our refuge.
+This gist of the praṇava and of the namas has been taught to us by (our) āchāryas, in order that we may have the competence (for prapatti), namely, such as having the Lord alone as our refuge.
 
 In ordinary life, being master over others and being inde pendent of others are considered desirable, and being a servant and being dependent on others are considered undesirable. This is merely due to past karma  as a conditioning factor (upādhi). But here (in spiritual life), being a servant (of the Lord) and being dependent (on the Lord) are agreeable to those who have a know ledge of the truth, for they are appropriate and natural to our svarūpa (essential nature), as stated in such passages as the following: "We are all, by  nature, His servants". Thus it becomes evident that the jīva exists solely for another (Iśvara) and is entirely dependent on Him. So the jīva may rightly be employed to do what is pleasing to the śeṣī, who alone is independent (and omnipotent). Therefore it follows that the jīva should be śeṣa (and render service) to His devotees, as stated.( in the Tamil verse) ;-" The Lord who is absolutely pure, has made me the servant of His servants". If the Lord who is the śeṣī, and who is independent (and all powerful) is pleased to make us śeṣas to His good devotees, it cannot be called improper or inappropriate; nor can it be avoided (or resisted). Since He is śeṣī, He has a right to employ us in whatever He desires, and since He is all powerful, He can enforce it. This idea may also be seen in the (Tamil) verse :- "I will never" associate with those who think that there is any deity other than Thee. But gladly do I accept (the privilege of) being servant to Thy devotees."
 
