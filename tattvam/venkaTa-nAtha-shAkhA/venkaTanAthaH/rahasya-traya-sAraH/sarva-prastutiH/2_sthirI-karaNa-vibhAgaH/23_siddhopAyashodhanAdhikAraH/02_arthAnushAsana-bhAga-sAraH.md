@@ -141,7 +141,7 @@ how, having realised his state as a prapanna or bhakta,
 <details><summary>Español</summary>
 
 cómo **hace** así lo que se **debe hacer**,  
-cómo, **habiéndose cuenta** de su estado como Papanna o Bhakta,
+cómo, **habiéndose cuenta** de su estado como Prapanna o Bhakta,
 </details>
 
 
