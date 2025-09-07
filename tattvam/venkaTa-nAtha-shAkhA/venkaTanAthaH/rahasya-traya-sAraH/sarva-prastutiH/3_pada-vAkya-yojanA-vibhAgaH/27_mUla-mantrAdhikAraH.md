@@ -6667,12 +6667,12 @@ y a ningún otro.
 
 #### उकारतः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
 
 THE MEANING OF U IN  AUM :
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Español</summary>
 
 El significado de "u" en aum:
 </details>
@@ -9549,6 +9549,18 @@ y la maestría **no pertenece** a nadie más.
 
 तारस्य नमसश्चेमौ सारौ देशिकदर्शितौ ।  
 अनन्यशरणत्वादेरधिकारस्य सिद्धये ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+लोकत्तिल् स्वामित्व-स्वातन्त्र्यङ्गळ् अभिमतङ्गळ् आयुम्  
+दासत्व-पारतन्त्र्यङ्गळ् अनभिमतङ्गळ् आयुम् तोऱ्ऱुगिऱदु कर्मोपाधिकम् आगव् अत्तऩै।
+</details>
+
+<details><summary>मूलम्</summary>
+
+लोकत्तिल् स्वामित्वस्वातन्त्र्यङ् गळभिमतङ्गळायुम् दासत्वपारतन्त्र्यङ्गळनभिमतङ्गळायुम् तोऱ्ऱुगिऱदु कर्मोपाधिकमागवत्तऩै।
 </details>
 
 
