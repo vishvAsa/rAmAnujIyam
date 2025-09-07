@@ -1651,7 +1651,7 @@ round the necks of his servants and of his elephants and horses.
 
 Un rey que **es** independiente  
 y quien **se complace** en **actuar** como **quiera**  
-**coloca** los adornos y guirnaldas usados ​​por sí mismo  
+**coloca** los adornos y guirnaldas usados por sí mismo  
 alrededor del cuello de sus sirvientes y de sus elefantes y caballos.
 </details>
 

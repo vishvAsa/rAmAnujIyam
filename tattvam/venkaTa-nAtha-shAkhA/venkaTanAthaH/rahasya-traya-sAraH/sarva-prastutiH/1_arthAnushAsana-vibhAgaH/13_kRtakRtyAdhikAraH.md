@@ -395,7 +395,7 @@ has been fully discharged (**torn off**).
 
 Con respecto a los jīvas (kṣetrajnas) como han tomado los nombres de prajāpati (el señor de las criaturas) y pasupati (el señor de las bestias, a saber almas atadas),  
 Es capaz, como uno  
-cuya **Nota promisora​** registrada en los Vedas no escritos  
+cuya **Nota promisora** registrada en los Vedas no escritos  
 bajo ciertas condiciones (upādhi relacionada con la casta, etc.)  
 y requerir el servicio como interés para el monto principal (tomado por él)  
 ha sido completamente descargado (** arrancado **).
