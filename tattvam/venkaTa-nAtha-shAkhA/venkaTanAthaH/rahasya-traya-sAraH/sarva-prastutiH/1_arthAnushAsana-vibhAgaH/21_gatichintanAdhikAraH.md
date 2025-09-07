@@ -2710,7 +2710,7 @@ Estos **se aplican** a casos especiales como Krama Mukti (**lanzamiento** por gr
 </details>
 
 
-### सत्य-लोदैभिः
+### सत्य-लोकादिभिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्य-लोकादिगळिल् इरुन्दु  
