@@ -10,12 +10,12 @@ title = "०० मङ्गलादि"
 **पश्यते** विष्ण्वे नमः ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 1. Homage to Visņu, the sole cause of the origin, subsistence and annihilation of the world, the sole cause of perfect bliss, for whom everything is as instantly evident as a myrobala in the hand.
 </details>
 
-<details><summary>English - Notes</summary>
+<details><summary>Buitenen - Notes</summary>
 
 To Yamuna, God's omniscience consists in this unlimited percipience,  
 so that, as he will argue below (§ 109), the validity of Pancarātra does not rest only on Scripture, but also on Perception. 
@@ -38,7 +38,7 @@ so that, as he will argue below (§ 109), the validity of Pancarātra does not r
 सन्तस् **सन्त्य्** अनसूयवो ऽपि बहवः **शंसन्ति** ये मद्-गिरम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 2. Those of my contemporaries who are 'profoundly dishonest and will condemn a penetrating treatise, however great its merits, because they are envious, (may condemn it.) There are many others, who have an excellent judgment of what is essential and what is not- honest students who do not cavil; and they will praise my work
 </details>
@@ -61,7 +61,7 @@ so that, as he will argue below (§ 109), the validity of Pancarātra does not r
 मतम् इदं **विमृशन्तु** विपश्चितः ॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Buitenen</summary>
 
 3. Even erudite scholars may err when their critical acumen is dominated by partisan views; yet, let the sagacious without envy study the Bhāgavata doctrine as I shall present it here. 
 </details>

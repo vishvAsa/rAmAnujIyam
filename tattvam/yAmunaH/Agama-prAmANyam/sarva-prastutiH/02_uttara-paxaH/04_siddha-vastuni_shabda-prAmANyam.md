@@ -25,7 +25,6 @@ they do not have proper denotative power.
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ननु च ।  
@@ -33,7 +32,6 @@ they do not have proper denotative power.
 तत्परेषु प्रयोगेषु व्युत्पत्त्यग्रहणादिति ॥  
 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -52,7 +50,6 @@ really operates its denoting power
 as fully as it does  
 by applications which concern karyas.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -112,7 +109,6 @@ If there arises a doubt as to
 amongst the many different grounds that may occur according to past, present and future, then consider this.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तत्राप्यतीतानागतादिभेदभिन्नेषु हर्षहेतुषूपप्लवमानेषु कस्य वक्ताऽयमिति विचिकित्सोदये सति   
@@ -129,12 +125,10 @@ amongst the many different grounds that may occur according to past, present and
 receives knowledge that a birth ceremony is being held. )
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तदनन्तरसंजातजातकर्मावबोधतः ।  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -150,7 +144,6 @@ receives knowledge that a birth ceremony is being held. )
 तद्-अनुभूतः को ऽपीति भिन्न-वस्त्राभरणम्² पुरा³ ॥  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "तद्-धेतु-भूतः कोऽपी"ति  
@@ -165,7 +158,6 @@ He thinks to himself, "There must be a reason for this."
 Then he considers,  
 "Is the agreeable meaning which has been understood from the statement the cause of this knowledge that a birth ceremony is to be held ?"  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -205,7 +197,6 @@ though the statement itself was no injunction,
 but a communication of an established fact,
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 प्रतीतं प्रियमित्येवं विमृशन्नवगच्छति ॥  
@@ -228,7 +219,6 @@ And on that issue:
 Definite knowledge of the denotion of words in a sentence is had through the words that are included or excluded. This being so, [51] words denote their meanings, whether these are established things or not.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तत्र च ।  
@@ -250,12 +240,10 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 > 62\. OBJECTION. However, the relation of cause and effect is not just known from the fact that one comes into existence upon the existence of the other, for that would mean over-extension. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ननु न तद्-भाव-भाविता-मात्रेण कार्य-कारण-भावः, अति प्रसङ्गात्।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -289,7 +277,6 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 दृश्यते हि कुटुम्ब-भरणायास-विदूयमान-मनसोऽप्रीति-पूर्विकापि तत्-कर्तव्यतावगतिः, 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्यावगतिः किं शब्द-कारणिका दृष्टा  
@@ -301,7 +288,6 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 
 REFUTATION. Don't we find that the realization of a kārya is caused by a verbal statement, so that we can agree that, for example, the realization that a cow is to be fetched following a statement "Fetch the cow" is indeed caused by that statement? 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -324,12 +310,10 @@ REFUTATION. Don't we find that the realization of a kārya is caused by a verbal
 When you say that, since this realization cannot occur without a cause therefore the proximate statement must in that case be the cause of the realization, then I maintain that the same holds also in the case of "A son is born."
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अथ आकस्मिकत्वानुपपत्तेः सन्निहित-शब्द एव तद्-अवगम-हेतुर् इति चेत् समानोऽयं विधिर् इतरत्रापि।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -346,13 +330,11 @@ It has been decided by our opponent that the verbal denotation of a meaning whic
 133: supra §36\.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यापि प्रवृत्ति-हेत्व्-अर्थ-प्रतिपादकता क्वचित्।  
 लिङादि-प्रत्ययावाप-हैतुकी साऽवसीयते॥
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -363,7 +345,6 @@ It has been decided by our opponent that the verbal denotation of a meaning whic
 
 He who maintains that all words only bear meaningfully on kārya, 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -381,7 +362,6 @@ maintains in effect that padārthas134 exist only in kārya statements and that 
 
 134: The things-meant or denoted by the word,  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -414,12 +394,10 @@ the meaning of the injunction thus is connected with the consequence of this des
 namely, that somebody who has this desire is prepared to do something about it.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 समर्थ्यमानापि कार्यान्वयिन्य् एव समर्थ्यत इति चेत् अलं व्यसनेन अन्यान्विताभिधानेनापि व्यवहारोपपत्तेः।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -434,13 +412,11 @@ namely, that somebody who has this desire is prepared to do something about it.
 63\. It is necessary to accept the position that words are denotative of connected meanings, for otherwise it would be impossible to explain that they are denotative of meanings connected with kāryas. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 > अवश्याश्रयणीयेयम् अन्वितार्थाभिधायिता।  
 > कार्यान्विताभिधायित्वम् अन्यथा दुर्-वचं यतः॥
 </details>
-
 
 <details><summary>नरसिंहः</summary>
 
@@ -448,8 +424,6 @@ Yāmuna emphasises here that no speciality should be attached to a statement tha
 Words, he says, generally depend upon some factors  
 and those factors need not necessarily be ‘kārya’.  
 </details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -466,7 +440,6 @@ The definition 'the thing meant by a word is always connected with a kārya' fai
 for it does not apply in the case of injunctive suffixes, 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अव्याप्तञ्चैतत् कार्यान्वितमेव सर्वत्र पदाभिधेयमिति लिङादिषु व्यभिचारात्, 
@@ -478,7 +451,6 @@ Pointing out the untenability of the theory of ‘kārya’,
 he says that it goes astray in the instance of ‘liṅ’ the optative itself.  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++("स्वर्गकामो ज्योतिष्टोमेन यजेते"ति यथा )+++  
@@ -489,7 +461,6 @@ he says that it goes astray in the instance of ‘liṅ’ the optative itself.
 
 since these suffixes denote their own meanings as connected, not with kārya, but with consequences of already established facts, such as proper qualification on the part of the person enjoined etc. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -526,13 +497,10 @@ it is more appropriate simply to accept the view that there is denotation of con
 136: ardhajaratī is a half-old woman; the ardhajaratīyanyāya is used to indicate that the opponent wants to have it both ways and that consequently his argument, like a half-old and half-young woman, is useless either way.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अथ तेष्व् अन्विताभिधानम् इतरत्र कार्यान्विताभिधानम् इति चेत् तद्-अर्द्धजरतीयम्, ततो वरं सर्वत्रान्विताभिधानम् एवाश्रीयताम् ।
 </details>
-
-
 
 <details><summary>नरसिंहः</summary>
 
@@ -548,7 +516,6 @@ Also cf. *Bhuvaneśvarīlalaukikanyāyasāhasrī*, p. 104: “ यत्र स
 यथा जरती वृद्धा स्त्री, तस्याः पतिः तदर्थं गुणमात्रं गृह्णाति ह्यवयवान्तरं त्यजतीति युक्तिशून्यम् ।”
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माद् आकाङ्क्षितासन्न-  
@@ -562,19 +529,16 @@ Also cf. *Bhuvaneśvarīlalaukikanyāyasāhasrī*, p. 104: “ यत्र स
 64\. Therefore, the adherents of all schools should accept that words have proper denotation for the meanings they denote because these meanings are connected with other meanings that are required to complete the sense of the statement, are closely collocated and are appropriate. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्माद् आकाङ्क्षितासन्नयोग्यार्थान्तरसङ्गतेः ।  
 स्वार्थे पदानां व्युत्पत्तिर् आस्थेया सर्ववादिभिः ॥
 </details>
 
-
 <details><summary>नरसिंहः</summary>
 
 Words convey their sense only in connection with such other idea or factor that is complete to its sense (ākāṅkṣita), that is compatible with it (yogya) and which is supplied by a word uttered along with it (āsanna). Kārya should therefore occupy a subordinate but not the supreme position in the scheme of significance of words.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -587,7 +551,6 @@ Words convey their sense only in connection with such other idea or factor that 
 Even if the denoting power of word is to be known only through the impossibility of operation,  
 even so
 </details>
-
 
 <details><summary>Buitenen</summary>
 
@@ -611,7 +574,6 @@ even so
 तुष्यतु दुर्जन 'न्यायेनाऽऽह ' यद्यपी 'ति । प्रवृत्तिर्गवानयनादिषु । तस्या अन्यथानुपपत्त्या प्रथमं शक्तिरभ्युपेया 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तटस्थोपायता-मात्रं  
@@ -625,20 +587,17 @@ even so
 it is correct when we decide the denotation of language to take the standpoint that kārya is just one of the inessential factors of denotation, like the identity of the speaker, the extent of space in which a statement can be heard etc. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तटस्थोपायतामात्रं शब्द-शक्ति-विनिश्चये ।  
 कार्यस्याश्रयितुं युक्तं प्रयोक्त्र्-आकाश-देशवत् ॥
 </details>
 
-
 <details><summary>नरसिंहः</summary>
 
 प्रेरक-पुरुषस्य, आकाशस्य, देशस्य वा कचिद् अपि विषय-कोटि-प्रविष्टत्वं नाऽभ्युपेयते, तटस्थत्वम् एव ।  
 एवं कार्यस्यापीति ध्येयम् ।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -668,8 +627,6 @@ just as is the case with floating precious stones on water.
 The quality of gems is tested by putting them in water. If they float, that is an indication of their superiority. This method of testing or the knowledge regarding the test is no doubt useful in determining the class of gems; but it is of no avail at the time of wearing them. On this analogy, it is argued that the knowledge of 'karya' though useful to arrive at the significance of words, is not useful at the time of using those words. 
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैव हि ब्रह्म-जातीयादि-वज्र-विशेषावधारणोपयोगिनोऽपि पयः-प्रतरणादेर् अवधृत-रत्न-सत्त्वस्य  
@@ -683,7 +640,6 @@ The quality of gems is tested by putting them in water. If they float, that is a
 Just as this floating, however helpful it may be to determine the identity of certain diamonds, e.g. the brahmin diamond, serves no purpose when a stone is being transacted which has already been properly identified, similarly the kārya, however helpful to understand the proper signification of a word, serves no purpose once its proper signification has been identified.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यथैव हि ब्रह्मजातीयादिवज्रविशेषावधारणोपयोगिनोऽपि पयः-प्रतरणादेर् अवधृत-रत्न-सत्त्वस्य न व्यवहारदशायाम् उपयोगः, एवं व्युत्पत्ति-ग्रहण-समय-समुपयुक्तस्यापि कार्यस्य न व्युत्पन्नदशायाम् उपयोगः ॥
@@ -693,7 +649,6 @@ Just as this floating, however helpful it may be to determine the identity of ce
 
 For a classification of gems as 'male' and 'female, see Ratnadipikā of Candeśvara, Śls. 11-13, and for a classification into the four castes ' brāhmana', Kşatriya', ' vaisya' and 'śūdra see Ratnasāstra : sls. 21 and 23.
 </details>
-
 
 ## नदी-तीर-फलम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -708,12 +663,10 @@ For a classification of gems as 'male' and 'female, see Ratnadipikā of Candeśv
 65\. Moreover, if words denote their meanings only as connected with kārya, then how can we know from them that, for example, there is a relation between a fruit and a river-bank, as in a statement : "There is a fruit on the river-bank?" 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यदि च कार्यान्वितम् एवार्थं शब्दाः प्रतिपादयन्ति कथं तेभ्यः परिनिष्ठित-नदी-तीर-फलादिसंसर्गावगमः, 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -726,7 +679,6 @@ For a classification of gems as 'male' and 'female, see Ratnadipikā of Candeśv
 
 If you say that a statement of such a substantive relation does not denote the relation it states through its primary sense, but through secondary sense, then, we may ask, where do statements then have their primary sense? 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -756,7 +708,6 @@ we reply: no, for then no use of words would be possible, since their meaning wo
 138: This holds for those statements which are not verifiable by other means of knowledge, for if they are verifiable, they are no means of knowledge in their own right.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मानान्तरापूर्वे कार्य इति चेन् न तत्राव्युत्पन्नत्वेन प्रयोगानुपपत्तेः ।
@@ -766,8 +717,6 @@ we reply: no, for then no use of words would be possible, since their meaning wo
 
 + शब्दस्येति शेषः । 
 </details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -784,7 +733,6 @@ when that word denotes a meaning not previously known through other means of kno
 and no cognition can arise from words with unknown meanings,  
 for that would entail over-extension.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -815,14 +763,12 @@ In ordinary language a statement is understood to have its proper signification
 when it bears on a kārya that is to be accomplished with a certain action.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 योऽपि मन्यते 
 
 > लोके क्रिया-कार्ये व्युत्पन्न-शब्दः  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -838,7 +784,6 @@ because it is the means of realizing a certain fruit
 and acquires this power on account of the collocation of words describing this fruit;  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 > फल-पद-समभिव्याहार--बल-प्रतिलब्ध-- तत्-साधन-भाव-भङ्गुर-यागादि- धात्व्-अर्थोत्तीर्णापूर्व-कार्याभिधान-शक्तिर् वेदे मोदते,  
@@ -852,8 +797,6 @@ X ' फलपदं' फल-वाचकं स्वर्ग-कामाद�
 फलपद... शक्ति:' इत्ययं बहुव्रीहि: ' शब्द ' इत्यस्य विशेषणम् ।  
 वेदे निर्वृत्त इति भावः । 
 </details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -887,7 +830,6 @@ Cf. Prakaranapañcikā V. p. 95:
 वृष्ट्य्-आयत्त-फले कर्मणि प्रवर्तन्ते । "
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यापीदं मनोरथ-मात्रम्, 
@@ -898,12 +840,10 @@ Cf. Prakaranapañcikā V. p. 95:
 REFUTATION. This position is just wishful thinking; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्यापीदं मनोरथ-मात्रम्, 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -949,8 +889,6 @@ But he will deny the entire construction (67).
 
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि वृद्ध-व्यवहारे समधिगत-पद-सामर्थ्ये ऽनुरुध्यमाने  
@@ -976,7 +914,6 @@ then we can never know their connection!
 ६ अन्वयावगतिः 'स्वर्गकाम'पदस्येति शेषः । 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तु तद्-अनुपपत्त्या  
@@ -989,7 +926,6 @@ If a language statement has lost its postulated true denoting power
 because it is impossible,  
 it does not thereby acquire another denoting power. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1033,7 +969,6 @@ For when certain words are collocated that have incompatible meanings, these wor
 'सिंहो माणवकः', 'अग्निर्माणवकः' इत्यादिप्रयोगेषु । 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं च मानान्तरापूर्व+++(←तेन न साध्यम् इत्य् अपूर्वम्)+++-  
@@ -1046,7 +981,6 @@ For when certain words are collocated that have incompatible meanings, these wor
 
 67\. Besides, we do not admit that the fact that a word has the power to communicate a kārya that is not previously known through other means of knowledge proves that there actually exists a relationship between itself and the fruit of the action it enjoins. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1061,7 +995,6 @@ For when certain words are collocated that have incompatible meanings, these wor
 अपूर्वस्य लिङर्थत्वं वर्तत इति प्राभाकरः;  
 नास्तीति भाट्टो ग्रन्थकारश्चेति बोध्यम् । 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1081,7 +1014,6 @@ which transcends the root-sense of the verb
 cannot be proved except by the relation of kārya with the fruit of the act, and the latter relation cannot be proved without the former. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 नैयोगिकस् स सम्बन्धो न पुनर् वैनियोगिकः ।  
@@ -1097,7 +1029,6 @@ cannot be proved except by the relation of kārya with the fruit of the act, and
 'स च' कर्मफलसङ्गमः । 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश् च दुरुत्तरम् इतरेतराश्रयणम् ।
@@ -1107,7 +1038,6 @@ cannot be proved except by the relation of kārya with the fruit of the act, and
 
 And therefore there is a vicious interdependence that cannot be refuted. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1126,7 +1056,6 @@ And therefore there is a vicious interdependence that cannot be refuted.
 इति अन्योन्याश्रयणप्रकारः समनुसन्धेयः ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > साध्य-स्वर्ग-विशिष्टस्य  
@@ -1141,14 +1070,12 @@ If there is no factor which activates the person who, according to the injunctio
 the injunction itself cannot be the means of achieving the desired heaven. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 साध्य-स्वर्ग-विशिष्टस्य पुरुषस्य प्रवर्तकः ।  
 न स्याद् इति तद्-इष्टार्थ-साधनं न भवेद् विधिः ॥
 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1173,13 +1100,11 @@ but the entire niyoga (cf. Prakaraṇapañcikā, p. 190),
 so that the statement of the injunction would become the means (sādhana) to realize that sādhya, sc. the injunction.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 भङ्गुरो न च धात्वर्थः करणत्वेन कल्पते ।  
 इति तद्-भिन्न-कार्यार्थ-बोधकत्वं यद् उच्यते ॥
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1218,7 +1143,6 @@ A person is not specified by heaven as the object to be achieved,142 but it is t
 Heaven can not be the specification of the person's qualification, because heaven is yet to be achieved. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न हि स्वर्गोऽधिकारिविशेषणं साध्यत्वात् ।  
@@ -1236,7 +1160,6 @@ Heaven can not be the specification of the person's qualification, because heave
 
 Only something that has already been achieved, that actually exists, can specify the person upon whom an act is enjoined, for instance, the real fact of his being alive etc. Consequently only his desire can specify his qualification for the act.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1274,7 +1197,6 @@ Only something that has already been achieved, that actually exists, can specify
 अपि च नियोज्य-विशेषणताम् अनुभवतः स्वर्गादेः कीदृशं साध्यत्वम् ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि साधन-संबन्ध-  
@@ -1282,7 +1204,6 @@ Only something that has already been achieved, that actually exists, can specify
 स्वर्गेण सिद्ध्यता भाव्यं  
 यावद् योगम् अजन्मतः ।  
 </details>
-
 
 <details><summary>Buitenen</summary>
 
@@ -1293,13 +1214,11 @@ it is impossible for heaven to be siddha, as long as its relatability obtains,
 since it cannot become siddha in the meantime.143 
 </details>
 
-
 <details><summary>Buitenen - Note</summary>
 
 143: Nothing can become a fact (siddha) as long as it is still to be made a fact (sādhya) by a "factualizing" means (sādhana);  
 thus as long as it is related with such a means it cannot be a fact.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1319,7 +1238,6 @@ thus as long as it is related with such a means it cannot be a fact.
 
 The only authority that exists for heaven becoming siddha in the end is the injunction itself, while the only authority for the injunction is just this that heaven does become siddha. This is plainly a vicious circle. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1387,10 +1305,8 @@ these actions, which are devoted simply to some material result, though a part o
 
 If heaven is the sādhya, the injunction is not the sādhya. It is not possible to combine two sādhyas in one sentence.144
 
-
 144: This is the principle of ekavākyatā: a statement can contain only one injunction, otherwise there is vākyabheda: what should be one sentence is split up into two.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1425,7 +1341,6 @@ If heaven is the sādhya, the injunction is not the sādhya. It is not possible 
 
 And here the two sādhyas are interdependent since the realization of heaven is contained in the realization of the injunction. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1482,7 +1397,6 @@ REFUTATION. No;
 ~~unless heaven is realized, how can the injunction not be realized? Without the realization of heaven neither the qualification, nor the object, nor anything else required by the injunction is realized.~~
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तन् न ।
@@ -1491,7 +1405,6 @@ REFUTATION. No;
 नाधिकारो न विषयो न चान्यद्-विध्य्-अपेक्षितम् ॥
 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1505,7 +1418,6 @@ REFUTATION. No;
 
 <details><summary>Buitenen</summary>
 
-
 70\. ~~OBJECTION.~~ In the case of the qualifications for periodical rites the injunction (apUrva) does not require the 'realization of any fruit.'146   
 
 146: No specific fruits are attached to nitya rites.  
@@ -1516,7 +1428,6 @@ fail to apply to a person who really desires another fruit.
 The pre-eminence147 is really the injunction's;  
 a person is enjoined upon by the injunction to any act in the same way  
 as he is enjoined upon to perform the periodical acts.
-
 
 147: māhātmya, which corresponds to prādhānya, pradhānatā.  
 
@@ -1529,7 +1440,6 @@ as he is enjoined upon to perform the periodical acts.
 नियोगस्यैव माहात्म्यं नित्येष्व् इव नियुज्यते । 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नियोगो हि प्रधानतया ऽधिगम्यमान-स्वर्गम् अभिलषन्तम् अप्य्  
@@ -1541,7 +1451,6 @@ as he is enjoined upon to perform the periodical acts.
 
 For the injunction draws unto itself the desirous person who himself thinks that the heaven which he desires is the principal object, in the same way as the injunction to perform the periodical acts activates a person, even though he does not desire anything, to these acts which bear no fruit at all. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1562,7 +1471,6 @@ For the injunction draws unto itself the desirous person who himself thinks that
 Besides, a person who is desirous of heaven also opens and shuts his eyes; for you these actions do not subserve his realization of heaven. Why not consider the sacrificing an action of the same kind? 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 किं च ।  
@@ -1570,7 +1478,6 @@ Besides, a person who is desirous of heaven also opens and shuts his eyes; for y
 न च ते स्वर्ग-सिद्ध्यर्था यागः किं नैवम् इष्यते ॥
 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1608,7 +1515,6 @@ Besides, a person who is desirous of heaven also opens and shuts his eyes; for y
 On this point: When the injunction does not mean to convey a relation between the object to be realized and the means of realizing it, then all acts are fruitless. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तत्र च -  
@@ -1633,12 +1539,10 @@ they are indeed the means to realize the desired object,
 and that subsequently the desire for this object prompts a person to undertake the act of realization.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्माल् लिङादिभ्यः प्रथमम् इष्ट-साधनता-अवगमः, ततो रागतः प्रवृत्तिर् इत्य् एव युक्तम्, 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1656,7 +1560,6 @@ and that
 > the denotation in the expressing of any other meaning is secondary. 
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1676,12 +1579,10 @@ We conclude that ordinary, non-Vedic statements give rise to cognitions concerni
 [[58]]
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अत एव यथा-यथं लौकिक-शब्देभ्यस् तत्-सिद्धार्थ-गोचरा बुद्धयो जायन्ते ।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1692,7 +1593,6 @@ We conclude that ordinary, non-Vedic statements give rise to cognitions concerni
 
 > 72\. OBJECTION. But these cognitions do not arise from the denoting power of language, but result from Inference. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1709,7 +1609,6 @@ but not inferential authority.
 See the verse "tasmādasti madillie ", etc., following. 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तथा हि व्युत्पत्ति-समय-संविदितार्थ-प्रतिपादन-सामर्थ्यान्य् अपि पदानि  
@@ -1723,7 +1622,6 @@ See the verse "tasmādasti madillie ", etc., following.
 do not furnish complete certainty about their meanings merely upon being heard by a listener,  
 when they are accompanied by doubt which is created by the listener's observation that in one case or other statements have deviated from their proper meanings.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1742,7 +1640,6 @@ na cApratitenarthena
 viseṣaścāvakalpate ।। 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न चानिश्चितोऽर्थो ज्ञातो भवति  
@@ -1759,7 +1656,6 @@ viseṣaścāvakalpate ।।
 न चानिश्चितोऽर्थो ज्ञातो भवति अनिश्चयात्मनो ज्ञानस्याभावात् ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तत्राज्ञातेऽपि वाक्यार्थे  
@@ -1774,13 +1670,11 @@ viseṣaścāvakalpate ।।
 If the meaning of a statement is not known, the listener wants to discover it: "The speaker uses words whose meanings apparently admit of being connected; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तत्राज्ञातेऽपि वाक्यार्थे श्रोतैवं विचिकित्सते ।  
 ब्रवीत्य् अन्योन्य-संबन्ध-योग्यार्थानि पदान्य् अयम् ॥
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1798,13 +1692,11 @@ If the meaning of a statement is not known, the listener wants to discover it: "
 and the listener realizes that therefore the speaker has knowledge of such a connection. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न चाविज्ञात-संबन्धान् शब्दान् आप्ताः प्रयुञ्जते ।  
 तेनेदृशान्वय-ज्ञानम् अस्यास्तीत्य् अवगच्छति ॥
 </details>
-
 
 <details><summary>नरसिंहः</summary>
 
@@ -1835,7 +1727,6 @@ and the listener realizes that therefore the speaker has knowledge of such a con
 If the knowledge of connection is thus inferred, the meaning discovered by the listener does not require the authority of verbal testimony. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 एवम् अन्वय-ज्ञाने ऽनुमिते तद्-उपदर्शितो ऽर्थो न शब्दम् आकाङ्क्षति, 
@@ -1853,7 +1744,6 @@ If the knowledge of connection is thus inferred, the meaning discovered by the l
 
 > Consequently, since ordinary language statements are dependent on the speaker's cognition; they terminate in that cognition through Inference alone.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1878,13 +1768,11 @@ If the knowledge of connection is thus inferred, the meaning discovered by the l
 for a word conveys its right meaning as its natural function, and the observation that in one case the statement happened to be untrue under the influence of defects in the speaker's character should not give rise to a general suspicion which would cause all statement to give up its natural capacity of conveying its meaning.149 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तद् असत्, न हि स्वभावतो ऽर्थम् अवगमयन् शब्दः  
 क्वचिद् वक्त्राशय-दोष-वशीकाराद् वितथ इत्य् अन्यत्रापि तत्-संभावनया स्वारसिकीम् अर्थावबोधकताम् उज्झितुम् अर्हति, 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1909,7 +1797,6 @@ because in one case, when obstructed by mantras, it fails to burn, does not make
 ऽथवा हत-शब्दे भावे क्त-प्रत्यय इत्य् अनुसंधेयम् ।
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि 
@@ -1924,12 +1811,10 @@ because in one case, when obstructed by mantras, it fails to burn, does not make
 And the fact that the sense of vision may give rise to a cognition which does not correspond to reality-e.g. that nacre is silver-as the result of some optical error does not signify that the visual sense cannot produce true cognition of the visible presence of a pitcher etc. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 नापि शुक्ति-रजत-धियम् अर्थ-व्यभिचारिणीम् इन्द्रियं दोष-वशाद् उपलब्धम् इति घटादिकम् अपि नावगमयति, 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1942,7 +1827,6 @@ And the fact that the sense of vision may give rise to a cognition which does no
 
 Therefore, a statement does indeed instantly convey a certain meaning to the listener if he knows the relation between the words and their meanings. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1963,14 +1847,11 @@ Therefore, a statement does indeed instantly convey a certain meaning to the lis
 It does not require knowledge of the basis. Before there is complete knowledge on the part of the listener about the basic knowledge of the speaker, and, further, when the meaning has been expressed, the question rises: "How does he know this?" and Inference proceeds to resolve that question. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मूल-ज्ञान-परिज्ञानाद् अर्वाग् अर्थे ऽपि चोदिते ।  
 कथम् एवम् अयं वेद इत्य् अनुमानं प्रवर्तते ॥
 </details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1985,13 +1866,11 @@ It does not require knowledge of the basis. Before there is complete knowledge o
 You want to infer: "Did the speaker know something?" or wish to infer his knowledge of the connection of the different meanings. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 किम् अज्ञासीद् अयम् वक्ता किञ्चिद् इत्य् अनुमित्ससे ।  
 विशिष्टार्थान्वय-ज्ञानम् अनुमातुम् अथेच्छसि ॥
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2005,7 +1884,6 @@ You want to infer: "Did the speaker know something?" or wish to infer his knowle
 
 But the mere knowledge that the speaker knew something is not enough for utterance and action concerning a statement-meaning to proceed. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2044,12 +1922,10 @@ This being so, the meaning of the statement must be known first.
 For cognitions whose particular objects are not connected, are not ~~connected~~ separated themselves. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न ह्यनासादितविषयविशेषसंसर्गाः संविदः परस्परतो व्यतिभिद्यन्ते ।  
 </details>
- 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2060,7 +1936,6 @@ For cognitions whose particular objects are not connected, are not ~~connected~~
 
 Nor is a particular meaning established by cognitions that are inferred to be such. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2085,12 +1960,10 @@ If you say that
 I maintain that the connection of the particular meanings must be known previously; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यादृशान्वय-प्रतिपादन-योग्या पद-रचना सा तद्-अन्वय-ज्ञानम् आपादयतीति चेत्, अवगतस् तर्हि प्राग् एवार्थानाम् अन्वयः, 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2102,13 +1975,10 @@ I maintain that the connection of the particular meanings must be known previous
 unless a connection has already reached the level of cognition it cannot give rise to being expressed in a statement.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न हि बुद्धाव् अनारोपित एवान्वयः प्रयोगं व्यवच्छिनत्ति,
 </details>
-
-
 
 ### उपसंहारः
 
@@ -2125,13 +1995,11 @@ unless a connection has already reached the level of cognition it cannot give ri
 74\. To conclude, the cognition of an established fact in statements like "there is a fruit on the riverbank" is strictly of verbal origin and does not arise from Inference.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्माद् अस्ति नदी-तीरे फलम् इत्य्-एवम्-आदिषु ।  
 या सिद्ध-विषया बुद्धिः सा शाब्दी नानुमानिकी ॥
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2143,12 +2011,11 @@ unless a connection has already reached the level of cognition it cannot give ri
 Therefore the position that statements produce valid knowledge only if they deal with a previously unknown kārya 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ततश् च अपूर्व-कार्य-गोचर एव शब्दः प्रमाणम् इति ।  
 </details>
- 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-सिन्धान्त-चिराभ्यास-  
@@ -2164,7 +2031,6 @@ In the manner set forth above
 it is true that statements may bear meaningfully and informatively on other meanings as well. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स्व-सिन्धान्त-चिराभ्यास-व्यामुग्ध-बल-बिद्धिभिः ॥
@@ -2175,7 +2041,6 @@ it is true that statements may bear meaningfully and informatively on other mean
 
 व्यामुग्धाबलबुद्धिभिरिति पाठस्तु न युक्त इति मन्यामहे ।
 </details>
-
 
 ## वेदान्तोक्त-पुरुषः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2188,12 +2053,10 @@ it is true that statements may bear meaningfully and informatively on other mean
 Consequently, all the statements of the Upaniṣads which set forth the existence of a categorically different Person 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ततश् च यान्य् एतानि विलक्षण-पुरुष-प्रतिपादकानि वेदान्त-वचांसि 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2222,7 +2085,6 @@ e.g.
 
 </details>
 
-
 <details><summary>Buitenen - Note</summary>
 
 148: BĀ Up. 5\.6\.1\.  
@@ -2234,12 +2096,10 @@ e.g.
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 "स एष सर्वाधिपतिः", "सर्वस्येशानः", "सर्वम् इदं प्रशास्ति", "तस्याध्यक्षम् इदं सर्वम्" इत्यादीनि,
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2255,45 +2115,14 @@ are authoritative as to what they state, since they produce indubitable and unre
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तान्य् अपि तत्र प्रमाणं तद्-विषयासंदिग्धाविपर्यय-ज्ञान-हेतुत्वात् । 
 </details>
 
 ## सम्भावितानुवाद-विपर्ययौ
-<div class="js_include" url="../../aMshaH/na_cha_siddhe" newLevelForH1="5" includeTitle="false">
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-> **न** च परिनिष्ठत-वस्तु-गोचरतया  
-तानि प्रमाण-मर्यादाम् **अतिपतन्ति** -  
-तादृशाम् अपि प्रमाणान्तर-सम्भेदातिदूर-गोचराणां पौरुषेय-वचसां  
-स्व-रस-समासाधित-प्रामाण्य-वारणायोगात् ।  
-</details>
-
-<details><summary>Buitenen</summary>
-
-[[29]]  
-35\. To continue this topic,  
-these scriptural statements do not exceed the bounds of their authority  
-just because they are concerned with facts;  
-for similar statements made by persons concerning facts that are extremely remote from a connection with other means of knowledge  
-cannot be denied the authority which is afforded them naturally. 
-</details>
-
-<details><summary>Buitenen - Notes</summary>
-
-This starts the discussion of the Prabhakara theory on the limitations of the validity of verbal statements.  
-First general Mimāmsā views on the subject are discussed. 
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-न च परिनिष्ठतवस्तुगोचरतया तानि प्रमाणमर्यादामतिपतन्ति तादृशामपि प्रमाणान्तरसम्भेदातिदूरगोचराणां पौरुषेयवचसां स्वरससमासाधितप्रामाण्यवारणायोगात् ।  
-</details>
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="../../aMshaH/na_cha_siddhe">
+<details open><summary><h5>न च सिद्धे ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **न** च +++(ईश्वर-निभे)+++ सिद्धे वस्तुनि  
@@ -2310,7 +2139,6 @@ because of the consideration that since either a proving or disproving factor ma
 there remains the possibility that this fact is thus repeated or reversed;  
 for the same may equally well happen to a statement concerning, not a fact, but a karya.  
 </details>
-
 
 <details><summary>Buitenen - Notes</summary>
 
@@ -2357,6 +2185,14 @@ as in the case of the cooking of the odana.
 कार्यमपि हि मानान्तरवेद्यमेव लौकिकं समिदाहरणादि, तच्च मानान्तरेणापि वेद्यमोदनपाकवदित्यभ्युपगमात् ।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+$ Vide Prakaraṇapañcikā II, p. 180- 
+> " कृतिसाध्यं प्रधानं यत्,  
+तत् कार्यम् अवसीयते । 
+तच मानान्तरेणापि  
+वेद्यम् ओदन-पाकवत् ॥ " 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2370,8 +2206,6 @@ Or if it be claimed that,
 inasmuch as a karya concerning a categorically different thing like the agnihotra etc. cannot conceivably find any other authority,  
 therefore the verbal testimony which sets forth such a thing must needs be its authority,
 </details>
-
-
 
 <details><summary>मूलम्</summary>
 
@@ -2390,16 +2224,16 @@ therefore the verbal testimony which sets forth such a thing must needs be its a
 well, then we may say that there is not a ghost of another authority for the Bhagavan  
 whose form consists in unsurpassed knowledge, supremacy and beatitude;  
 so that it should follow that everything is entirely the same in both cases,  
-depending on one's particular partisan views. 
+depending on one's particular partisan views.  
+(it is all the same, depending on what partisan view one takes! )
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 > हन्त तर्हि निरतिशयावबोधैश्वर्यमहानन्दसन्दोहवपुषि भगवति न मानान्तरगन्धसम्बन्ध इति सर्वं समानमन्यत्राभिनिवेशात् ।  
 </details>
+</details>
 </div>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2420,7 +2254,6 @@ that is also known through another means of knowledge
 does not recognize its own content as authoritative,  
 since it has already been taken care of by another authority,  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2459,10 +2292,7 @@ for it is a mere matter of assumption.
 Therefore it must be maintained that all indubitable and unreversed knowledge is authoritative, regardless of whether its content is established, or yet to be performed, or anything else. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्मात् परिनिष्ठितानुष्ठेयादि-भेद-शून्यम् असन्दिग्धाविपर्यस्तविज्ञानं प्रमाणम् एष्टव्यम्,  
 </details>
-
-

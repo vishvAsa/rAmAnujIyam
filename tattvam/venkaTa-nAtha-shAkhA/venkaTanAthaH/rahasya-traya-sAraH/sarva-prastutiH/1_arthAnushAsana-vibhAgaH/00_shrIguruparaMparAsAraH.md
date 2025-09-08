@@ -32,6 +32,7 @@ Una breve descripción de la sucesión de ācāryas
 श्रीमान् वेङ्कटनाथार्यः कवितार्किककेसरी ।  
 वेदान्ताचार्यवर्यो मे सन्निधत्तां सदा हृदि ॥
 </details>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/venkaTanAthaH/sIr-oNDru.md">
 <details open><summary><h5>सीर् ऒण्ड्रु ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
@@ -52,6 +53,7 @@ Una breve descripción de la sucesión de ācāryas
 </details>
 </details>
 </div>
+
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md">
 <details open><summary><h5>गुरुभ्यस् तद्-गुरुभ्यश् च ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
@@ -96,6 +98,7 @@ y los medios de alcanzarlo).
 </details>
 </details>
 </div>
+
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 +++(सम्प्रदायोक्त-काल-क्रमेण)+++  

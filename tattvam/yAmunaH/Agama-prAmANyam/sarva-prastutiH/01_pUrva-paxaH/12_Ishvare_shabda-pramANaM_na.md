@@ -24,13 +24,11 @@ for the great Lord is known on the authority of the upaniṣads.
 This is Yamuna's objection, which states the extent to which he concurs in the preceding Mimāmsā argument against Nyaya.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ननु च केवलतर्कबलादयं यदि सिषाधयिषापदमीश्वरः ।  
 भवतु नाम तथा सति दूषणं श्रुतिशिरःप्रमितो हि महेश्वरः ॥
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -47,45 +45,14 @@ who is capable of creating the entire universe,
 how then can we refuse to accept the authority of a tradition which derives from His immediate cognition? 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यदा तु सकलभुवननिर्माणक्षमसर्वज्ञसर्वेश्वरपरमपुरुषप्रतिपादकानि नित्यागमवचनान्येव बहुलमुपलभ्यन्ते कथं तदा तदनुभवमूलस्मरणप्रामाण्यानङ्गीकरणम् ।  
 </details>
 
 ### प्रमाणान्तर-गोचरता-सम्भावना न बाधते
-<div class="js_include" url="../../aMshaH/na_cha_siddhe" newLevelForH1="5" includeTitle="false">
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-> **न** च परिनिष्ठत-वस्तु-गोचरतया  
-तानि प्रमाण-मर्यादाम् **अतिपतन्ति** -  
-तादृशाम् अपि प्रमाणान्तर-सम्भेदातिदूर-गोचराणां पौरुषेय-वचसां  
-स्व-रस-समासाधित-प्रामाण्य-वारणायोगात् ।  
-</details>
-
-<details><summary>Buitenen</summary>
-
-[[29]]  
-35\. To continue this topic,  
-these scriptural statements do not exceed the bounds of their authority  
-just because they are concerned with facts;  
-for similar statements made by persons concerning facts that are extremely remote from a connection with other means of knowledge  
-cannot be denied the authority which is afforded them naturally. 
-</details>
-
-<details><summary>Buitenen - Notes</summary>
-
-This starts the discussion of the Prabhakara theory on the limitations of the validity of verbal statements.  
-First general Mimāmsā views on the subject are discussed. 
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-न च परिनिष्ठतवस्तुगोचरतया तानि प्रमाणमर्यादामतिपतन्ति तादृशामपि प्रमाणान्तरसम्भेदातिदूरगोचराणां पौरुषेयवचसां स्वरससमासाधितप्रामाण्यवारणायोगात् ।  
-</details>
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="../../aMshaH/na_cha_siddhe">
+<details open><summary><h5>न च सिद्धे ...{Loading}...</h5></summary>
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **न** च +++(ईश्वर-निभे)+++ सिद्धे वस्तुनि  
@@ -102,7 +69,6 @@ because of the consideration that since either a proving or disproving factor ma
 there remains the possibility that this fact is thus repeated or reversed;  
 for the same may equally well happen to a statement concerning, not a fact, but a karya.  
 </details>
-
 
 <details><summary>Buitenen - Notes</summary>
 
@@ -149,6 +115,14 @@ as in the case of the cooking of the odana.
 कार्यमपि हि मानान्तरवेद्यमेव लौकिकं समिदाहरणादि, तच्च मानान्तरेणापि वेद्यमोदनपाकवदित्यभ्युपगमात् ।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+$ Vide Prakaraṇapañcikā II, p. 180- 
+> " कृतिसाध्यं प्रधानं यत्,  
+तत् कार्यम् अवसीयते । 
+तच मानान्तरेणापि  
+वेद्यम् ओदन-पाकवत् ॥ " 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -162,8 +136,6 @@ Or if it be claimed that,
 inasmuch as a karya concerning a categorically different thing like the agnihotra etc. cannot conceivably find any other authority,  
 therefore the verbal testimony which sets forth such a thing must needs be its authority,
 </details>
-
-
 
 <details><summary>मूलम्</summary>
 
@@ -182,13 +154,14 @@ therefore the verbal testimony which sets forth such a thing must needs be its a
 well, then we may say that there is not a ghost of another authority for the Bhagavan  
 whose form consists in unsurpassed knowledge, supremacy and beatitude;  
 so that it should follow that everything is entirely the same in both cases,  
-depending on one's particular partisan views. 
+depending on one's particular partisan views.  
+(it is all the same, depending on what partisan view one takes! )
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 > हन्त तर्हि निरतिशयावबोधैश्वर्यमहानन्दसन्दोहवपुषि भगवति न मानान्तरगन्धसम्बन्ध इति सर्वं समानमन्यत्राभिनिवेशात् ।  
+</details>
 </details>
 </div>
 
@@ -207,7 +180,6 @@ a verbal statement concerning this fact cannot validly prove it:
 but why should not this other means of knowledge itself be the repetitious one  
 since verbal testimony concerning its fact may conceivably turn up?  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -240,7 +212,6 @@ which is expected since in his view Scripture may also be an account of (God's) 
 as in the case of Pancaratra. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 कथं वा प्रत्यस्तमितसमस्तपुरुषाशयदोषसंस्पर्शनित्यागमभुवः प्रत्ययस्य पूर्वोपमर्दकतयन्नीयमानस्य सम्भाव्यमानविविधविप्लवैः प्रमाणान्तरैरपवादापादनमिति यत्किञ्चिदेतत् ।  
@@ -269,8 +240,6 @@ on the basis of scriptural examination,
 since Scripture can indeed validly pronounce on God. 
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 इत्थञ्च श्रुतिशतसमधिगतविविधबोधैश्वर्यादिवैभवे भगवति सामान्यदर्शनावसितासार्वज्ञ्यविग्रहवत्तादयो दोषा नावकाशमश्नुवते हुतभुजीव शैत्यादयः ।  
@@ -295,7 +264,6 @@ while it is composed by the Omniscient One Himself
 > who is known through the Upanisads? 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ततश्च -  
@@ -317,19 +285,16 @@ while it is composed by the Omniscient One Himself
 > How can a mind schooled in Mimāmsā be so mistaken? 
 </details>
 
-
 <details><summary>Buitenen - Notes</summary>
 
 The Prabhakaras, who are notorious for the gaurava 'complicatedness" of their argumentations.+++(5)+++
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 अहो मन्दस्य मीमांसाश्रमहानिर्विजृम्भते ।  
 मीमांसामांसलञ्चेतः कथमित्थं प्रमाद्यति ॥  
 </details>
-
 
 ## कार्य-सम्बन्धे हि व्युत्पत्तिः
 
@@ -347,7 +312,6 @@ The Prabhakaras, who are notorious for the gaurava 'complicatedness" of their ar
 maintain that all Vedic testimony carries authority  
 only concerning such karyas as cannot presuppose any other authority. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -376,7 +340,6 @@ if it concerns something else than a karya.
 पदानां तत्परत्वेन व्युत्पत्तेरवधारणात् ।  
 न खल्वन्यपरे शब्दे व्युत्पत्तेरस्ति सम्भवः ॥
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -421,7 +384,6 @@ since there is no other ground for the second man's getting the cow,
 it must have been the first man's statement. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तथा हि वृद्धयोर्व्यवहरतोरेकतरवृद्धप्रयुक्तशब्दश्रवणसमनन्तरजनितान्यतरवृद्धसमवेतचेष्टां दृष्ट्वा अन्यथाऽनुपपत्त्युन्नीयमाना शब्दशक्तिस्तदुपपादककार्यपर्यवसायिन्येवावसीयते,
@@ -448,19 +410,16 @@ realizes that the one person's action has been caused by the other person's vari
 that he proceed to his action immediately upon become aware of what he has to do."
 </details>
 
-
 <details><summary>Buitenen - Notes</summary>
 
 [[130]]  
 Thus śalikanatha, Prakaranapancika, p. 182: niyo?? yali?? sarvakarye yaft soakiyalvena?? budhyate. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 प्रतीता हि स्वकार्यसन्ताने कार्यसंविदेव तत्तद्विशिष्टचेष्टाहेतुतया तदयमिहापि तादृशीं प्रवृत्तिं पश्यन्नेवमाकलयति - नूनमितस्सकाशादस्य कार्यसंविदाविरासीत् यदयमेतदनन्तरं प्रवर्तत इति,
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -514,7 +473,6 @@ whereas the indicative etc. terminations are subject to a contextual relation wi
 by describing consequent matters which required by the karya, e.g. a person's qualification to accomplish it etc.
 </details>
 
-
 <details><summary>Buitenen - Notes</summary>
 
 The linādi verbal terminations of Sanskrit to which in English correspond verbs compounded with auxiliaries like "should, must, to be to, ought to." 
@@ -532,7 +490,6 @@ since it is obviously subordinated to the injunctive sentence,
 to which it describes the performer's qualification:  
 only one who desires to go to heaven has title to, is qualified for, the performance of a soma sacrifice.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -562,18 +519,15 @@ that the occurrence of a cause for various joys in future, past and present
 is really due to the denotative power of the statement. 
 </details>
 
-
 <details><summary>Buitenen - Notes</summary>
 
 This is an example like "it is hot today;" the young father's happy countenance is not considered an action, 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न च पुत्रजननादिस्वरूपावेदनपर्यवसायिनः पदनिचयस्याविरलपुलकोदयवदनविकासादिभिरभिमतसुतजन्मादिप्रतिपादनशक्तिनिश्चयः अजातातिवृत्तप्रत्युत्पन्नविविधहर्षहेतूपनिपातेयममुनेति निर्धृत्य प्रतिपत्तुमशक्यत्वात् ।  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -596,7 +550,6 @@ without actually having explicit reference to a kārya.
 
 E.g., the sentence "he who desires to go to heaven offers the soma sacrifice," is an injunctive statement in indicative form.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -623,7 +576,6 @@ This is the Prabhakara view of the denotativeness of single words,
 summarized in the formula anvitābhidhāna, which is short for kāryānvitābhidhana "denotation of words syntactically connected in an injunctive sentence,"
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 पदान्तराणि यादृङ्क्षि व्युत्पद्यन्ते च तादृशम् ।  
@@ -645,7 +597,6 @@ only in so far as they are contextually connected with a karya;
 consequently, their validity concerning an established fact  
 is based on this that they give rise to the notion of karya. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -675,7 +626,6 @@ so that the contention suffers of the vice of being unproved.
 This point will be taken up and confirmed infra §04. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इष्यते तदनेकान्तं पदेष्विति न शोभते ।  
@@ -691,7 +641,6 @@ This point will be taken up and confirmed infra §04.
 
 For a notion that arises from a verbal statement can never terminate in any object whatsoever that is not a karya. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -726,7 +675,6 @@ that he knows that fruit means "fruit",
 river bank 'river bank," etc. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 याः पुनर्लौकिकशब्दश्रवणसमनन्तरभाविन्योऽन्वयावगतयस्ता आनुमानिक्योऽभिहिताः न शाब्द्य इत्युपपद्यत एव तासामतत्पर्यवसानम् ।  
@@ -748,7 +696,6 @@ on what grounds then could an indicative statement like agnihotram juhoti
 be accepted as an injunction?  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 यदि तत्परताग्राहः शब्दानां नैव विद्यते ।  
@@ -768,7 +715,6 @@ be accepted as an injunction?
 Or if it be claimed that in this case, even though the statement as it stands has no complete validity,  
 it is accepted as an injunction in order to ensure that it subserves a purpose, 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -793,13 +739,11 @@ but rather is the acceptance of purpose
 dependent on the operation of the means of knowledge. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तदसन्न प्रमाणानां प्रयोजनवशानुगा ।  
 प्रवृत्तिः किन्तु तन्मूलः प्रयोजनपरिग्रहः ॥
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -815,7 +759,6 @@ since one does not like to find rocks
 when one is looking for gold  
 therefore one finds gold! 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -837,7 +780,6 @@ only when it bears on a karya,
 we cannot assume that a verb in the present indicative  
 contains an injunction.+++(5)+++
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -866,7 +808,6 @@ this meaning, then, is that
 one must know the omniscient soul which is beatitude, i.e. an injunction. 
 </details>
 
-
 <details><summary>Buitenen - Notes</summary>
 
 This is again the Prabhakara view. The Bhatta view is somewhat different;  
@@ -875,7 +816,6 @@ which eternality is presupposed by the efficacy of the injunction:
 e.g., the injunction "he who desires heaven must offer with the soma sacrifice"  
 supposes the immortality of the performer. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -898,7 +838,6 @@ for there can also be an injunction that
 a certain thing be such while actually it is not so; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न च तावता स्वरूपमपि सिध्यतीत्यध्यवसेयम् असत्येव रूपे तादृशि तथा विधानोपपत्तेः ।  
@@ -915,7 +854,6 @@ a certain thing be such while actually it is not so;
 for example the injunction, "Know your father in someone who is not your father,"  
 or "Know that the[[34]] syllable OM, which is not the udgitha, is the udgitha." (Ch Up. 1.5.1. [[132]])
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -939,12 +877,10 @@ where the time of fruition is not specified.
 
 </details>
 
-
 <details><summary>Buitenen - Notes</summary>
 
 In this the Prabhakara concurs with the Bhatta. Injunctions without time of fruition specified are not guaranteed to bring about the desired effect during the present lifetime of the performer.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -961,12 +897,10 @@ In this the Prabhakara concurs with the Bhatta. Injunctions without time of frui
 Therefore, no verbal statement whatever is a means of knowing a thing as such.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अतो न किञ्चिदपि वचो भूतेऽर्थे प्रमाणम् ।
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -990,7 +924,6 @@ I read ata avarthavādānām.
 On this point see KMS 1.2.1. with Sabara's bhāṣya.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अतः (अत एवार्थवादानाममीति पा. ।) सर्वार्थवादानामपि परिनिष्ठितरुद्ररोदनादिप्रतिपादनपरतावारणोपपादनेन विदूरतरवर्तिविधिपदान्वयस्तावकतयाऽपि प्रदर्शितः 
@@ -1013,7 +946,6 @@ is eliminated,
 with which we conclude our extensive discussion. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तस्मादपर्यालोचितपूर्वापरपदतात्पर्याणामापातायातश्रद्धाविरचितविग्रहोऽयमुद्ग्राहितः पुरुष इत्यलमतिविस्तरेण ।  
@@ -1028,7 +960,6 @@ with which we conclude our extensive discussion.
 
 42\. It is proved now that the pre-eminence of that postulated person cannot be borne out by Scripture. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1045,7 +976,6 @@ with which we conclude our extensive discussion.
 
 Let us, further, suppose that Scripture can indeed convey knowledge of facts; 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1071,7 +1001,6 @@ when we take into account the cognition that arises from injunction?
 अथ च कथमिव चोदनाजनितधियमवधीर्य धर्माधर्मौ विजानाति कश्चिदित्यभ्युपेयते  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वज्ञता हि प्रसिद्धैर् एव प्रमाणैः यथा-यथम् अर्थान् अवगच्छतोऽपि संगच्छते, 
@@ -1088,7 +1017,6 @@ exactly as they are known by means of the different means of knowledge;
 
 On the Bhatta view of omniscience, cf. Kumārila, Samb. 47-59; 114-116.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1109,12 +1037,10 @@ for there is no statement which declares omniscience
 by cancelling the normal means of knowledge. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 न हि तदस्ति वचनं यदस्य प्रसिद्धबुद्ध्युत्पादनहेतुहानमुखेन सार्वज्ञ्यं ज्ञापयति ।  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1130,7 +1056,6 @@ Even if there were such a statement,
 it would have to be explained as an arthavada  
 since its word-meanings would not allow of mutual relation.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1161,8 +1086,6 @@ that are required primarily for the cognition to arise!
 i.e, the appropriateness or propriety of a word in collocation with other words; in the sentence "his mother is barren," "barren" is obviously inappropriate. 
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 प्रमाणान्तरावगतयोग्यतादिपुरस्सरी पदेभ्यो वाक्यार्थबुद्धिरुपजायमाना प्रथमतरनिपतितापेक्षितप्रमाणान्तरविरोधे कथमिव जनिमनुभवतीति सम्भावयामः ।  
@@ -1186,7 +1109,6 @@ who could then reject the identity of sun and sacrificial pole? +++(5)+++
 
 The identification is considered an arthavada, i,e., laudatory of the sacrificial pole
 </details>
-
 
 <details><summary>मूलम्</summary>
 
