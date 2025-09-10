@@ -63,16 +63,6 @@ if he rejects at the outset the very authority of the Vedas as sources of knowle
 about the means which lead to bliss? 
 </details>
 
-<details><summary>Español</summary>
-
-But how can we presume that a certain text can teach that a certain object,  
-which is known from the four Vedas,  
-is man's supreme goal in life  
-if he rejects at the outset the very authority of the Vedas as sources of knowledge  
-about the means which lead to bliss? 
-</details>
-
-
 <details><summary>मूलम्</summary>
 
 तदिह कथं चतुर्णामपि वेदानां निश्रेयससाधनावबोधकत्वव्युदासेन आरभमाणः तत्प्रसादावगतमर्थं पुमर्थतया कथयतीत्युत्प्रेक्ष्येत ।  

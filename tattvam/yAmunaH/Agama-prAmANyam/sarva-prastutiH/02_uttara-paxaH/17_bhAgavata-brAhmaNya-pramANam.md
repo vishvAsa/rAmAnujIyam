@@ -1699,7 +1699,8 @@ therefore we can only conclude that in both cases different castes are denoted b
 
 <details><summary>मूलम्</summary>
 
-त्रै-वर्णिकानां च शिल्पोपजीवित्वस्य प्रतिषिद्धत्वेन तेषु रथकार-शब्दस्यानुचितत्वाच् च जात्यन्तर-वाचित्वाध्यवसानम्, </details>
+त्रै-वर्णिकानां च शिल्पोपजीवित्वस्य प्रतिषिद्धत्वेन तेषु रथकार-शब्दस्यानुचितत्वाच् च जात्यन्तर-वाचित्वाध्यवसानम्,
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
