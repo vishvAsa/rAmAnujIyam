@@ -52,7 +52,6 @@ how then can we refuse to accept the authority of a tradition which derives from
 
 ### प्रमाणान्तर-गोचरता-सम्भावना न बाधते
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="../../aMshaH/na_cha_siddhe">
-##### 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -163,6 +162,7 @@ depending on one's particular partisan views.
 
 > हन्त तर्हि निरतिशयावबोधैश्वर्यमहानन्दसन्दोहवपुषि भगवति न मानान्तरगन्धसम्बन्ध इति सर्वं समानमन्यत्राभिनिवेशात् ।  
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
