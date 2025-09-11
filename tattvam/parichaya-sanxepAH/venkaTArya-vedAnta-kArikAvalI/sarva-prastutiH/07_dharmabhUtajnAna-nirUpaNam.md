@@ -289,7 +289,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-4. In this system, it (knowledge) is held as self- luminous and self-valid. Its self-luminosity is due to the fact that it reveals itself as well as other objects just as the light. 
+4. In this system, it (knowledge) is held as selfluminous and self-valid. Its self-luminosity is due to the fact that it reveals itself as well as other objects just as the light. 
 </details>
 
 
@@ -445,7 +445,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-8. The facts mentioned above have been dis- closed by the Great Acarya (Sri Rāmānuja) in his Gadyatraya. A clear understanding of the character- istics of these qualities is gained from the com- mentary thereon. 
+8. The facts mentioned above have been disclosed by the Great Acarya (Sri Rāmānuja) in his Gadyatraya. A clear understanding of the characteristics of these qualities is gained from the commentary thereon. 
 
 </details>
 
@@ -490,7 +490,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-9. The Lord grants final liberation (to men), when He is well pleased by the means of Bhakti (Unin- terrupted meditation with love) or Prapatti (Uncondi- tional Self-Surrender). Therefore Bhakti and Prapatti alone are the principal means for the attainment of Mukti. 
+9. The Lord grants final liberation (to men), when He is well pleased by the means of Bhakti (Uninterrupted meditation with love) or Prapatti (Unconditional Self-Surrender). Therefore Bhakti and Prapatti alone are the principal means for the attainment of Mukti. 
 
 </details>
 
@@ -639,7 +639,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-12. The uninterrupted stream of meditation (on the Lord) which is practised with its eight-fold auxi- liaries and developed by the application of Viveka and other disciplines so as to reach the state on a par with direct intuition, is called Bhakti-yoga. 
+12. The uninterrupted stream of meditation (on the Lord) which is practised with its eight-fold auxiliaries and developed by the application of Viveka and other disciplines so as to reach the state on a par with direct intuition, is called Bhakti-yoga. 
 </details>
 
 
@@ -897,7 +897,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-16 & 17. Nyāsavidyā is the Prapatti (Self-surren- der to God) which has five-fold auxiliaries-namely -determination to be always agreeable to the Lord and His devotees, abstaining from hostility towards them, faith as 'He will surely save me', seeking Him [[८४]] as the saviour, surrendering one's self to Him, and helplessness. 
+16 & 17. Nyāsavidyā is the Prapatti (Self-surrender to God) which has five-fold auxiliaries-namely -determination to be always agreeable to the Lord and His devotees, abstaining from hostility towards them, faith as 'He will surely save me', seeking Him [[८४]] as the saviour, surrendering one's self to Him, and helplessness. 
 </details>
 
 

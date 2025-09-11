@@ -39,7 +39,7 @@ title = "०२ अनुमान-निरूपणम्"
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-1. Anumana (Inference) is the instrument of Anumiti (Inferential cognition). The Anumāna is defined as Linga-Paramarśa (Consideration of middle term). Vyāpti-jñāna (Apprehension of invariable con- comitance) is said to be the cause of Paramarśa (consideration). 
+1. Anumana (Inference) is the instrument of Anumiti (Inferential cognition). The Anumāna is defined as Linga-Paramarśa (Consideration of middle term). Vyāpti-jñāna (Apprehension of invariable concomitance) is said to be the cause of Paramarśa (consideration). 
 </details>
 
 
@@ -230,7 +230,7 @@ title = "०२ अनुमान-निरूपणम्"
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-5-6. The Hetu (Reason) is of two kinds — Anvayin (Positive) and Vyatirekin (Negative). The faulty Reasons are unfit to establish the Sadhya by inference. They are five in number, namely - Vyabhicārin (Trans- gressing), Viruddha (Adverse), Asiddha (Not-esta- blished), Satpratipaksa (Having counter-Reason) and Bādhita (Contradicted). 
+5-6. The Hetu (Reason) is of two kinds — Anvayin (Positive) and Vyatirekin (Negative). The faulty Reasons are unfit to establish the Sadhya by inference. They are five in number, namely - Vyabhicārin (Transgressing), Viruddha (Adverse), Asiddha (Not-established), Satpratipaksa (Having counter-Reason) and Bādhita (Contradicted). 
 
 Thus the inference of Svārtha (For one's own ) has been described in detail. 
 </details>
