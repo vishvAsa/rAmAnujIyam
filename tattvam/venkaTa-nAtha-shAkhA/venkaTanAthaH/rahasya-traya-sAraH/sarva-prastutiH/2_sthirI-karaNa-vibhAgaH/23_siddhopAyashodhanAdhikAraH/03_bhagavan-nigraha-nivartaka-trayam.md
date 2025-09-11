@@ -12,6 +12,7 @@ THREE CAUSES BY WHICH THE LORD'S GRACE IS WON:
 Tres causas por las cuales **se gana** la gracia del Señor:
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व्-अर्थङ्गळिल्  
@@ -37,6 +38,12 @@ Tres causas por las cuales **se gana** la gracia del Señor:
 स्व-तन्त्रेण सर्वेश्वरेण  
 एतदीय-पूर्वापराधानुगुणं कृतस्य संकल्पस्य निवर्तनार्थं  
 प्रधानकारणानि त्रीणि भवन्ति ।  
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+महाविश्वासे समस्या यथा -  
+शुनकदंशे १४-गुणौषधिं विश्वस्य १-औषधि-प्रभावे लोकस्याविश्वासः।  
 </details>
 
 <details><summary>English</summary>
@@ -94,8 +101,18 @@ y también la potencia de estos upāyas.
 “+++(शरणागतिर्)+++ अस्तु" इत्य्-अपेक्षणे कृते सति,  
 "अस्तु ते तथैव सर्वं संपत्स्यते" इति श्री-मुख-सूक्तिः,  
 सद्-आचार्यानुग्रहः,  
-सत्-संप्रदाय-सिद्धिश्चेति । 
+सत्-संप्रदाय-सिद्धिश् चेति । 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+महाविश्वासे समस्या -  
+१४-गुणौषधिं विश्वस्य १-औषधि-प्रभावे लोकस्याविश्वासः।  
+क्वचित् सत्-सम्प्रदाय-सिद्धौ सद्-आचार्य-प्राप्तिर् न स्याद् इति पृथक् परिगणना।  
+
+</details>
+
+
 
 <details><summary>English</summary>
 
