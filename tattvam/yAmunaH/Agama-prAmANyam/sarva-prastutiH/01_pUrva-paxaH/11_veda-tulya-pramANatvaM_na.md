@@ -708,13 +708,6 @@ As they say (unidentified source):
 "The unobstructed knowledge, perfect impartiality, omnipotence of a universal lord and dharma are all four established together." 
 </details>
 
-<details><summary>Español</summary>
-
-As they say: 
-"The unobstructed knowledge, perfect impartiality, omnipotence of a universal lord and dharma are all four established together." 
-</details>
-
-
 <details><summary>मूलम्</summary>
 
 यथाऽहुः -  

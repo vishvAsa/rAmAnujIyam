@@ -167,15 +167,6 @@ in Whom such finite qualities as supremacy, dispassionateness, power etc. subsis
 in an infinite and unequalled condition. 
 </details>
 
-<details><summary>Español</summary>
-
-> That is why the wise can say that there is Someone  
-in Whom such finite qualities as supremacy, dispassionateness, power etc. subsist  
-in an infinite and unequalled condition. 
-
-</details>
-
-
 <details><summary>मूलम्</summary>
 
 इत्थमैश्वर्यवैराग्यसामर्थ्यादिगुणा अपि ।  

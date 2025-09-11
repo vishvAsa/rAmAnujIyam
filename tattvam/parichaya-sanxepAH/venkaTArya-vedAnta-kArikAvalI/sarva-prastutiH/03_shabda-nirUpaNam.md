@@ -437,7 +437,7 @@ title = "०३ शब्द-निरूपणम्"
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-14. Words denoting the body, naturally denote also the thing embodied. Therefore Bhagavan Hari is the meaning of every word. This fact will be ex- plained clearly later on. 
+14. Words denoting the body, naturally denote also the thing embodied. Therefore Bhagavan Hari is the meaning of every word. This fact will be explained clearly later on. 
 
 </details>
 
