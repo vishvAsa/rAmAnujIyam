@@ -117,7 +117,7 @@ title = "०६ नित्य-विभूति-निरूपणम्"
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-3. S'uddhasattva is a non-sentient substance full of pure Sattva guna (ie., not mixed with Rajas and Tamas). It is limited downward and unlimited up- ward. 
+3. S'uddhasattva is a non-sentient substance full of pure Sattva guna (ie., not mixed with Rajas and Tamas). It is limited downward and unlimited upward. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -168,7 +168,7 @@ title = "०६ नित्य-विभूति-निरूपणम्"
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-4. This kind of substance is formed with divine elements described in the hymns of Pañco- panisad. This is the Eternal Wealth of the Lord Visņu and is in the form of Ananda ( Bliss). 
+4. This kind of substance is formed with divine elements described in the hymns of Pañcopanisad. This is the Eternal Wealth of the Lord Visņu and is in the form of Ananda ( Bliss). 
 </details>
 
 

@@ -206,7 +206,7 @@ title = "०४ प्रकृति-निरूपणम्"
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-6. For these three Ahamkaras there are three other names-Vaikarika, Taijasa and Bhutādi respec- tively. 
+6. For these three Ahamkaras there are three other names-Vaikarika, Taijasa and Bhutādi respectively. 
 </details>
 
 
@@ -314,7 +314,7 @@ title = "०४ प्रकृति-निरूपणम्"
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-9. Mind is the cause for 'recollection and other mental functions. It also leads to bondage and libera- tion. The sense-organ which has the power to cognise the sound alone is called S'rotra. 
+9. Mind is the cause for 'recollection and other mental functions. It also leads to bondage and liberation. The sense-organ which has the power to cognise the sound alone is called S'rotra. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -433,7 +433,7 @@ title = "०४ प्रकृति-निरूपणम्"
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-13. Foot is helpful for (physical) movement. The organ of excretion brings about the removal of excreta. The organ of generation produces great pleasure be- tween a man and a woman. 
+13. Foot is helpful for (physical) movement. The organ of excretion brings about the removal of excreta. The organ of generation produces great pleasure between a man and a woman. 
 </details>
 
 
@@ -957,7 +957,7 @@ From this is produced the earth.
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-30. The Vedic passage purports also this Pañicī- karana (Five-fold combination). When Mahat and Ahamkara also are taken into consideration for the process, then is formed Saptīkarana (Seven-fold combi- nation). 
+30. The Vedic passage purports also this Pañicī- karana (Five-fold combination). When Mahat and Ahamkara also are taken into consideration for the process, then is formed Saptīkarana (Seven-fold combination). 
 </details>
 
 
@@ -1075,7 +1075,7 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-33. Body is of two types-eternal and non-eter- nal. The Lord and the Nityasūris have the eternal one which is natural to them.
+33. Body is of two types-eternal and non-eternal. The Lord and the Nityasūris have the eternal one which is natural to them.
 </details>
 
 

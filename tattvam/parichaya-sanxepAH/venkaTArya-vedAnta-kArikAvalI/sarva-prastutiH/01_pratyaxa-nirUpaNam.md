@@ -254,9 +254,9 @@ A.
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-8. The Dharmapara is of two kinds-Anyadeva- para (Addicted to the deities other than Visnu) and Visņupara (Addicted to Visnu alone ). And the Mumu- kṣu is of two kinds-Kaivalyapara (Addicted to Kai- valya) and Mokşapara (Addicted to Moksa). 
+8. The Dharmapara is of two kinds-Anyadevapara (Addicted to the deities other than Visnu) and Visņupara (Addicted to Visnu alone ). And the Mumukṣu is of two kinds-Kaivalyapara (Addicted to Kaivalya) and Mokşapara (Addicted to Moksa). 
 
-[There is vast difference between Kaivalya and Mokṣa. The former is the Self-realization and the latter is the enjoyments of extreme bliss of Para- mātman in his eternal abode.] 
+[There is vast difference between Kaivalya and Mokṣa. The former is the Self-realization and the latter is the enjoyments of extreme bliss of Paramātman in his eternal abode.] 
 
 </details>
 
@@ -297,7 +297,7 @@ Ekantin and Paramaikantin.
 The Paramaikantin does not desire any other enjoyments except the Bhagavan.  
 
 Or he is Ekantin who is resolved to attain Mokṣa by Prapatti  alone taking it as a means.  
-But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagavan alone. That is-for him Bhagavan alone is Upaya and Upeya.] +++(किम् अन्तरम्?)+++ 
+But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagavan alone. That is-for him Bhagavan alone is Upaya and Upeya.] 
 </details>
 
 
@@ -381,7 +381,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-12. Vibhava forms are told as innumerable consti- tuting Matsya (Fish) and so on. Iśvara abides in every things else as Antaryāmin (Inner Ruler). 
+12. Vibhava forms are told as innumerable constituting Matsya (Fish) and so on. Iśvara abides in every things else as Antaryāmin (Inner Ruler). 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -408,7 +408,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 <details><summary>कृष्णमाचार्यः (En)</summary>
 
-13. Arcās or Images are His avatāras or incar- nations enshrined in sacred temples such as Sri- Rangam, Venkatadri etc. The Kesava and other forms are mentioned by the wise as different Vyuhas. 
+13. Arcās or Images are His avatāras or incarnations enshrined in sacred temples such as SriRangam, Venkatadri etc. The Kesava and other forms are mentioned by the wise as different Vyuhas. 
 </details>
 
 
@@ -529,7 +529,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 17. The Anyathājñana ( error) is the knowledge of a thing with a false attribute. The Viparitadhi (error in revese nature) is the knowledge mistaking a thing itself for another thing. 
 
-[Anyathājñāna is — The conch is yellow. Vipari- tadhi is-This (shell) is silver.] 
+[Anyathājñāna is — The conch is yellow. Viparitadhi is-This (shell) is silver.] 
 </details>
 
 
@@ -855,8 +855,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 27. "The consciousness limited by Antaḥkaraṇa (The internal organ) when becomes closely joined with and non-different from its two other manifestations due to the connection with Vṛtti (activity) and Visaya (the object) brings forth the perceptual consciousness.” 
 
-28. These and other similar sayings of the philosophers of other schools are not acceptable to us. The Sāmānya (generality), Samavāya (Inherent contact) and Visesa (particularity) are not acceptable to us. 
-
+28. These and other similar sayings of the philosophers of other schools are not acceptable to us. The Sāmānya (generality), Samavāya (Inherent contact) and Visesa (particularity) are not acceptable to us.
 </details>
 
 
