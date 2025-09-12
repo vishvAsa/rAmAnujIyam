@@ -6,8 +6,7 @@ title = "१६ यज्ञोपवीतप्रतिष्ठा"
 
 पादौ प्रक्षाल्य, आचम्य, प्राणानायम्य, 'श्रीमान् वेङ्कट ……….सदा हृदि’ । अस्यां शुभतिथौ भगवत्(श्रीमन् नारायण)प्रीत्यर्थं, ‘यज्ञोपवीतप्रतिष्ठां करिष्ये’ इति सङ्कल्प्य, सात्त्विकत्यागं कृत्वा, शुचौ देशे जलपूर्णं सकूर्चयाज्ञियशाखं कुम्भं निधाय, तस्मिन् यज्ञोपवीतं निधाय, यज्ञोपवीतं स्पृशन्,
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/kAThakam/sarva-prastutiH/1/2_bhUr_agnin_cha"  newLevelForH1="5" includeTitle="false"> </div>  
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/kAThakam/sarva-prastutiH/1/02_bhUr_agnin_cha"></div>  
 
 इत्यभिमन्त्र्य,
 
@@ -17,20 +16,53 @@ title = "१६ यज्ञोपवीतप्रतिष्ठा"
 
 इति नवतन्तुदेवताः अक्षतैरावाह्य, आसनादिषोडशोपचारैरभ्यर्च्य, प्रथमग्रन्थिदेवतां ब्रह्माणम् आवाहयामि । द्वितीयग्रन्थिदेवतां विष्णुम् आवाहयामि । तृतीयग्रन्थिदेवतां गिरीशम् आवाहयामि । इति ग्रन्थित्रयदेवताः अभ्यर्च्य, यज्ञोपवीताधिष्ठातृदेवतां श्रियःपतिम् आवाहयामि इति श्रियः पतिं च आवाह्य, अभ्यर्च्य, यज्ञोपवीतसहितं कूर्चं पाणिना गृहीत्वा,
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md"  newLevelForH1="5" includeTitle="false"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/Rk/vishvAsa-prastutiH/3/4/11_rAjasUyagatA_yAjyApuronuvAkyAH/A_satyena_rajasA.md">
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/10_udvayaM_tamasaspari.md"  newLevelForH1="5" includeTitle="false"> </div>  
+आ स॒त्येन॒ रज॑सा॒ **वर्त॑मानो**  
+**निवे॒शय॑न्न्** अ॒मृतं॒ मर्त्यं॑ च ।  
+हि॒र॒ण्यये॑न सवि॒ता रथे॒न॒+  
++आऽऽदे॒वो **या॑ति॒** भुव॑ना **वि॒पश्य॑न्** ॥
 
+</div>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/10_udvayaM_tamasaspari.md">
 
+उ᳓द् वयं᳓ त᳓मसस् प᳓रि  
+ज्यो᳓तिष् **प᳓श्यन्त** उ᳓त्तरम् ।  
+देवं᳓ देवत्रा᳓ सू᳓र्यम्  
+**अ᳓गन्म** ज्यो᳓तिर् उत्तम᳓म् +++(←"उत्तमशश्वत्तमौ सर्वत्र" इत्य् अन्तोदात्तः)+++ ॥
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/050/01_udu_tyaM.md">
+
+उ᳓दु त्यं᳓ **जात᳓वेदसं**  
+देवं᳓ **वहन्ति केत᳓वः**+++(→रश्मयः)+++ ।  
+दृशे᳓ वि᳓श्वाय सू᳓र्यम् ॥
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/115/01_chitraM_devAnAmudagAdanIkaM.md">
+
+चित्रं᳓ देवा᳓नाम् **उ᳓दगाद्** अ᳓नीकं  
+च᳓क्षुर् मित्र᳓स्य व᳓रुणस्याग्नेः᳓ ।  
+**आ᳓-प्रा**+++(←पूरणे)+++ द्या᳓वा-पृथिवी᳓ अन्त᳓रिक्षं  
+**सू᳓र्य** आत्मा᳓ ज᳓गतस् तस्थु᳓षश् च ॥
+
+</div>  
 
 इत्यन्तम् उक्त्वा, सूर्याय प्रदर्श्य, पूर्ववत् निधाय, यज्ञोपवीतं स्पृशन्,
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/059/12_tryambakaM_yajAmahe.md"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/07/059/12_tryambakaM_yajAmahe.md">
 
+## १२ त्र्यम्बकं यजामहे …{Loading}…
+
+त्रि᳓यम्बकं यजामहे  
+सुग᳓न्धिम् पुष्टि-व᳓र्धनम् +++(&lt;"गतिकारकोपपदात् कृत्")+++।  
+उर्वारुक᳓म् +++(स्थूलफलम्)+++ [इ]व ब᳓न्धनान्  
+मृत्यो᳓र् मुक्षीय, मा᳓ ऽमृ᳓तात्॥
+
+</div>  
 
 इति मन्त्रम् अष्टोत्तरशतसङ्ख्यया अष्टाविंशतिसङ्ख्यया वा गायत्रीं च जपित्वा, आचम्य, सात्त्विकत्यागं कुर्यात् ॥ (सर्वत्र पृथिव्यादिशरीरकश्रियःपतिमेव ध्यात्वा आराधयेत् ॥)
 
