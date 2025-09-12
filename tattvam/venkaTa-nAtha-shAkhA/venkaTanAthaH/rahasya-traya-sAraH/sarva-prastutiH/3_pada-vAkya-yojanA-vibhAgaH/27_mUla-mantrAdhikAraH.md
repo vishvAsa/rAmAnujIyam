@@ -6688,6 +6688,7 @@ El significado de "u" en aum:
 अन्य-योग-व्यवच्छेदम् इङ्गे शाब्दम्। 
 </details>
 
+
 <details><summary>नीलमेघः (सं)</summary>
 
 [[P276]]  
@@ -9501,29 +9502,17 @@ To sum up
 
 Para resumir
 </details>
- 
 
 
+## ॐ नमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-॥ श्रीमान् स्व-तन्त्रस् स्वामी च  
+॥ श्रीमान् **स्व-तन्त्रस् स्वामी** च  
 सर्वत्रान्यानपेक्षया ।  
 निरपेक्ष-स्वतन्त्रत्वं  
 स्वाम्यञ्चान्यस्य न क्वचित् ॥  
 </details>
 
-<details><summary>मूलम्</summary>
-
-॥ श्रीमान् स्वतन्त्रस्स्वामी च सर्वत्रान्यानपेक्षया ।  
-निरपेक्षस्वतन्त्रत्वं स्वाम्यञ्चान्यस्य न क्वचित् ॥  
-</details>
-
-
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
-
-तारस्य नमसश्चेमौ सारौ देशिकदर्शितौ ।  
-अनन्यशरणत्वादेरधिकारस्य सिद्धये ॥
-</details>
 
 <details><summary>English</summary>
 
@@ -9544,6 +9533,32 @@ Independencia sin dependencia de ayuda en otros
 y la maestría **no pertenece** a nadie más.
 </details>
 
+<details><summary>मूलम्</summary>
+
+॥ श्रीमान् स्वतन्त्रस्स्वामी च सर्वत्रान्यानपेक्षया ।  
+निरपेक्षस्वतन्त्रत्वं स्वाम्यञ्चान्यस्य न क्वचित् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+
+तारस्य नमसश् चेमौ  
+सारौ देशिक-दर्शितौ ।  
+अनन्य-शरणत्वादेर्  
+अधिकारस्य सिद्धये ॥
+</details>
+
+<details><summary>English</summary>
+
+This gist of the praṇava and of the namas has been taught to us by (our) āchāryas,  
+in order that we may have the competence (for prapatti), namely, such as having the Lord alone as our refuge.
+</details>
+
+<details><summary>Español</summary>
+
+Esta esencia de la praṇava y de los namas **nos ha sido enseñado** por (nuestro) āchāryas,  
+Para que **podamos tener** la competencia (para Prapatti), a saber, **como tener** al Señor solo como nuestro refugio.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -9551,11 +9566,36 @@ y la maestría **no pertenece** a nadie más.
 अनन्यशरणत्वादेरधिकारस्य सिद्धये ॥
 </details>
 
-
+### शेषत्वाभिमतता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकत्तिल् स्वामित्व-स्वातन्त्र्यङ्गळ् अभिमतङ्गळ् आयुम्  
 दासत्व-पारतन्त्र्यङ्गळ् अनभिमतङ्गळ् आयुम् तोऱ्ऱुगिऱदु कर्मोपाधिकम् आगव् अत्तऩै।
+</details>
+
+<details><summary>English</summary>
+
+In ordinary life,  
+being master over others  
+and being independent of others  
+are considered desirable,  
+and being a servant  
+and being dependent on others  
+are considered undesirable.  
+This is merely due to past karma  as a conditioning factor (upādhi). 
+</details>
+
+<details><summary>Español</summary>
+
+En la vida ordinaria,  
+**Ser** maestro sobre los demás  
+y **ser** independiente de los demás  
+**se consideran** deseables,  
+Y **ser** un **sirviente**  
+y **depender** de los demás  
+**se consideran** indeseables.  
+Esto **se debe** simplemente al karma pasado  
+como un factor de acondicionamiento (upādhi).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9563,10 +9603,137 @@ y la maestría **no pertenece** a nadie más.
 लोकत्तिल् स्वामित्वस्वातन्त्र्यङ् गळभिमतङ्गळायुम् दासत्वपारतन्त्र्यङ्गळनभिमतङ्गळायुम् तोऱ्ऱुगिऱदु कर्मोपाधिकमागवत्तऩै।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-This gist of the praṇava and of the namas has been taught to us by (our) āchāryas, in order that we may have the competence (for prapatti), namely, such as having the Lord alone as our refuge.
+इङ्गु प्रणव-नमस्सुक्कळिले सॊऩ्ऩ दासत्वमुम् पारतन्त्र्यमुम्  
 
-In ordinary life, being master over others and being inde pendent of others are considered desirable, and being a servant and being dependent on others are considered undesirable. This is merely due to past karma  as a conditioning factor (upādhi). But here (in spiritual life), being a servant (of the Lord) and being dependent (on the Lord) are agreeable to those who have a know ledge of the truth, for they are appropriate and natural to our svarūpa (essential nature), as stated in such passages as the following: "We are all, by  nature, His servants". Thus it becomes evident that the jīva exists solely for another (Iśvara) and is entirely dependent on Him. So the jīva may rightly be employed to do what is pleasing to the śeṣī, who alone is independent (and omnipotent). Therefore it follows that the jīva should be śeṣa (and render service) to His devotees, as stated.( in the Tamil verse) ;-" The Lord who is absolutely pure, has made me the servant of His servants". If the Lord who is the śeṣī, and who is independent (and all powerful) is pleased to make us śeṣas to His good devotees, it cannot be called improper or inappropriate; nor can it be avoided (or resisted). Since He is śeṣī, He has a right to employ us in whatever He desires, and since He is all powerful, He can enforce it. This idea may also be seen in the (Tamil) verse :- "I will never" associate with those who think that there is any deity other than Thee. But gladly do I accept (the privilege of) being servant to Thy devotees."
+> ‘‘दास-भूतास् स्वतस् सर्व’’  
+(मन्त्र-राज-पद-स्तोत्रम्) 
+
+इत्य्-आदिगळिऱ् पडिये  
+स्व-रूप-प्राप्तङ्गळ् आगैयाले  
+तत्त्व-वित्तुक्कळुक्क् अनुकूलङ्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+But here (in spiritual life),  
+being a servant (of the Lord)  
+and being dependent (on the Lord)  
+are agreeable to those who have a knowledge of the truth,  
+for they are appropriate and natural to our svarūpa (essential nature),  
+as stated in such passages as the following: 
+
+> "We are all, by  nature, His servants". 
+</details>
+
+<details><summary>Español</summary>
+
+Pero aquí (en la vida espiritual),  
+**Ser** un siervo (del Señor)  
+y **ser** dependiente (sobre el Señor)  
+**están** de acuerdo  
+para aquellos que **tienen conocimiento** de la verdad,  
+porque **son** apropiados y naturales para nuestro svarūpa (naturaleza esencial),  
+Como **se indica** en pasajes como los siguientes:
+
+> "**Somos** todos, por naturaleza, sus **sirvientes**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु प्रणवनमस्सुक्कळिले सॊऩ्ऩ दासत्वमुम् पारतन्त्र्यमुम् ‘‘दासभूतास्स्वतस्सर्व’’(मन्त्र-राज-पद-स्तोत्रम्) इत्यादिगळिऱ्पडिये स्वरूपप्राप्तङ्गळागैयाले तत्त्ववित्तुक्कळुक्कनुकूलङ्गळ्। 
+</details>
+
+### भागवत-शेषता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि अत्यन्त-पारार्थ्य-पारतन्त्र्यङ्गळ् सिद्धिक्कैयाले 
+
+> 'अडियार्क्क् ऎऩ्ऩैय् आट्-पडुत्त विमलऩ्'  
+> (अमलऩ्-आदि-बिराऩ् १।) 
+
+ऎऩ्गिऱ बडिये  
+स्व-तन्त्रऩ् आऩ शेषिक्क् इष्ट-विनियोगार्हऩ् आऩ बडियाले  
+तदीय-शेषत्वमुम् इङ्गे सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+Thus it becomes evident that  
+the jīva exists solely for another (Iśvara)  
+and is entirely dependent on Him.  
+So the jīva may rightly be employed to do what is pleasing to the śeṣī,  
+who alone is independent (and omnipotent).  
+Therefore it follows that the jīva should be śeṣa (and render service) to His devotees,  
+as stated ( in the Tamil verse) -
+
+> "The Lord who is absolutely pure,  
+has made me the servant of His servants". 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **se hace** evidente que  
+El Jīva **existe** únicamente para otro (Iśvara)  
+y **depende** completamente de él.  
+Entonces, el Jīva **puede emplearse** correctamente  
+para **hacer** lo que agradece al Śeṣī,  
+quien solo **es** independiente (y omnipotente). 
+
+Por lo tanto, **se deduce** que el Jīva **sea** Śeṣa (y **debería prender** el servicio) a sus devotos,  
+Como **se indicó** (En el verso tamil) -
+
+> "El Señor que **es** absolutamente puro,  
+**me ha convertido** en el **sirviente** de sus sirvientes ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि अत्यन्तपारार्थ्यपारतन्त्र्यङ्गळ्सिद्धिक्कैयाले ’’अडियार्क्कॆऩ्ऩै याट्पडुत्तविमल’’ (अमलऩादिबिराऩ् १) ऩॆऩ्गिऱबडिये स्वतन्त्रऩाऩ शेषिक्किष्ट विनियोगार्हऩाऩबडियाले तदीयशेषत्वमुमिङ्गे सिद्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शेषियुम् आय्, स्वतन्त्रऩुम् आगैयाले  
+ईश्वरऩ् इव्व् आत्मावैत्  
+तऩक्कु नल्लर् आऩव् अडियार्क्कुत्  
+तऩ्ऩ् उगप्पाले शेषम् आक्किऩाल्  
+"इदु प्राप्तम् अऩ्ऱ्" ऎऩ्ऩ वॊण्णादु;  
+विलक्कवुम् ऒण्णादु। 
+</details>
+
+<details><summary>English</summary>
+
+If the Lord who is the śeṣī, and who is independent (and all powerful)  
+is pleased to make us śeṣas to His good devotees,  
+it cannot be called improper or inappropriate;  
+nor can it be avoided (or resisted).  
+</details>
+
+<details><summary>Español</summary>
+
+Si el Señor que es el Śeṣī, y que es independiente (y todo poderoso)
+se complace en hacernos Śeṣas a sus buenos devotos,
+No se puede llamar inapropiado o inapropiado;
+ni se puede evitar (o resistir).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शेषियुमाय् स्वतन्त्रऩुमागैयाले ईश्वरऩिव्वात्मावैत्तऩक्कु नल्लराऩ वडियार्क्कुत् तऩ्ऩुगप्पाले शेषमाक्किऩाल् इदु प्राप्तमऩ्ऱॆऩ्ऩ वॊण्णादु; विलक्कवुमॊण्णादु। 
+</details>
+
+
+
+
+Since He is śeṣī,  
+He has a right to employ us in whatever He desires,  
+and since He is all powerful, He can enforce it. This idea may also be seen in the (Tamil) verse :- "I will never" associate with those who think that there is any deity other than Thee. But gladly do I accept (the privilege of) being servant to Thy devotees."
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 

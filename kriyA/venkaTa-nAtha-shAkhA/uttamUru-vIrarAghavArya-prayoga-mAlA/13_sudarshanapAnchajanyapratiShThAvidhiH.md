@@ -45,25 +45,21 @@ title = "१३ सुदर्शनपाञ्चजन्यप्रति�
 
 ## भूसूक्तम् ।
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/bhU-sUktam/"  newLevelForH1="5" includeTitle="false"> </div>  
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/bhU-sUktam/"></div>  
 
 ## नीलासूक्तम् ।
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/nIlA-sUktam/"  newLevelForH1="5" includeTitle="false"> </div>  
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantrAdi/nIlA-sUktam/"></div>  
 
 ## पुरुषसूक्तम् 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03/puruSha-sUktam"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03_chAturhotra-chayanAdi/puruSha-sUktam"></div>  
 
 ## ब्रह्मसूक्तम्
 
 ॥ ब्रह्मसूक्तम् ॥
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8/8_21-26_brahma_jaJNAnam/"  newLevelForH1="5" includeTitle="false"> </div>  
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8_kAmya-pashavaH/8_21-26_brahma_jaJNAnam/"></div>  
 
 ## श्रीसूक्तम्
-<div class="js_include" url="/vedAH_Rk/shAkalam/khilAni/2/06_shrI-sUktam/"  newLevelForH1="5" includeTitle="false"> </div>  
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_Rk/shAkalam/khilAni/2/06_shrI-sUktam_hiraNya-varNAm/"></div>  
 
 [[73]]

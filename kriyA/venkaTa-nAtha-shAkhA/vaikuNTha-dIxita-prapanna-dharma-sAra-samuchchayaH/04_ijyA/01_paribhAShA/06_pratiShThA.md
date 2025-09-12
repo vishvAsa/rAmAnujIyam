@@ -110,14 +110,13 @@ title = "०६ प्रतिष्ठा"
 विष्णु-गायत्रीम् **उच्चार्य**
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/06_mahA-nArAyaNopaniShat/01_06/03_nArAyaNAya_vidmahe.md">
-<details open><summary><h2>03 नारायणाय विद्महे ...{Loading}...</h2></summary>
 
-ना॒रा॒य॒णाय॑ वि॒द्महे॑  
-वासुदे॒वाय॑ धीमहि ।  
-तन्नो॑ विष्णुः प्रचो॒दया᳚त् ॥
-</details>
+ना॒रा॒य॒णाय॑ **वि॒द्महे॑**  
+वासुदे॒वाय॑ **धीमहि** ।  
+तन्नो॑ विष्णुः **प्रचो॒दया॑त्** ॥  
++++(लक्षणापेता आरण्यकस्वराः।)+++
+
 </div>
-
 
 स्वाञ्जलिस्थे ऽम्बु-पात्रे  
 "ॐ भूः" इत्य् अन्ते मूर्ति-मन्त्रं **सम्बुध्योक्त्वा**  

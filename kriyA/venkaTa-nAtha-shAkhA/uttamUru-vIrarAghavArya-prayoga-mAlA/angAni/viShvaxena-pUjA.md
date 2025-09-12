@@ -1,25 +1,50 @@
 +++
 title = "विष्वक्सेन-पूजा"
+
 +++
 
 > प्रारीप्सितस्य कर्मणः निर्विघ्न-परिसमाप्त्य्-अर्थं आदौ विष्वक्सेनाराधनं करिष्ये
 
 इति संकल्प्य,
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/viShNuH/padyam/shuklAmbara-dharaM.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/devaH/AryaH/hindukaH/viShNuH/padyam/shuklAmbara-dharaM.md">
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्लाम्बरधरं विष्णुं  
 शशिवर्णं चतुर्भजम् ।  
 प्रसन्नवदनं द्यायेत्  
 सर्वविघ्नोपशान्तये ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+शुक्लाम्बरधरं विष्णुं  
+शशिवर्णं चतुर्भजम् ।  
+प्रसन्नवदनं द्यायेत्  
+सर्वविघ्नोपशान्तये ॥
+</details>
+
 </div>
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/viShvaksenaH/padyam/yasya_dvirada-vaktrAdyAH.md"  newLevelForH1="5" includeTitle="false">   
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/devaH/AryaH/hindukaH/viShvaksenaH/padyam/yasya_dvirada-vaktrAdyAH.md">
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यस्य द्वि-रद-वक्त्राद्याः  
+पारिषद्याः परश्शतम् ।  
+विघ्नं निघ्नन्ति सततं  
+विष्वक्सेनं तमाश्रये ॥
+</details>
+
+<details><summary>मूलम्</summary>
 
 यस्य द्विरदवक्त्राद्याः  
 पारिषद्याः परश्शतम् ।  
 विघ्नं निघ्नन्ति सततं  
 विष्वक्सेनं तमाश्रये ॥
+</details>
+
 </div>
 
 > विष्वक्सेनं सूत्रवती-समेतं सपरिवारं ध्यायामि,  
