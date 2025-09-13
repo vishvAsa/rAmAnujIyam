@@ -8567,7 +8567,13 @@ Para todas las oraciones **debe considerarse expresiva** de la **afirmación** e
 ऎऩ्ऩुम् इडम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
 
+> अस्मिन् प्रणवे मध्यमाक्षर-सिद्धेन तात्पर्यार्थेन संबद्ध एतन्-नमो-ऽर्थ एव  
+सर्वेषु सार 
+
+इत्य् अयम् अर्थः, 
+</details>
 
 <details><summary>English</summary>
 
@@ -8607,6 +8613,7 @@ que **tiene** el mismo significado que el "solo" de la letra del medio en praṇ
 "न ममे"ति च शाश्वतम्॥’’  
 (भारतम् शान्ति-पर्व १३-४) 
 
+इत्यादिभिः प्रत्यपादि । 
 </details>
 
 
@@ -8659,6 +8666,7 @@ y la causa de **alcanzar** al Eternal Brahman **es** la **oración** que **tiene
 किं **प्रलापः करिष्यति**॥’’  
 (भारतम् शान्ति-पर्व ७९-२२) 
 
+इति श्लोकस्यापि एतन्-नमो-ऽर्थे प्राधान्येन तात्पर्यम् ।
 </details>
 
 <details><summary>विषयः</summary>
@@ -8707,6 +8715,18 @@ y la idea de que **existimos** para nosotros mismos es torcido).
 ऎऩ्ऱद् आयिऱ्ऱु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अत्र, 'न मम' इत्य् अभिधीयते किम् +++(कर्म-कारकम्)+++? 
+
+इति चेत्—
+
+(1) प्रणवस्थ-तृतीयाक्षरे ऽनुषक्ते सति,  
+'अहं न मम' इति स्थितम् । 
+</details>
+
+
+
 <details><summary>English</summary>
 
 If it is asked 
@@ -8744,6 +8764,14 @@ a saber, la tercera carta en praṇava y **es** la **siguiente**:
 ऎऩ्ऩुम् इडम्  
 अनुषङ्गाधिकरण-सिद्धम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अध्याहाराद् अप्य् अनुषङ्ग उचित 
+
+इत्य् एतत् अनुषङ्गाधिकरण-सिद्धम् ।  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8796,6 +8824,14 @@ que **no es** tan apropiado como el anuṣaṅga.
 गो-बलीवर्द-न्यायत्ताले स्व-व्यतिरिक्त-विषयम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र 'न ममाहम्' इति विशेषणात्  
+पूर्वम् अन्य-शेषत्व-निषेधकं मध्यमाक्षरं  
+गो-बलीवर्द-न्यायात् स्व-व्यतिरिक्त-विषयकम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 Here "na mama aham" specifies that "I am not mine".  
@@ -8844,6 +8880,12 @@ como **no haber sido incluido** en los "otros"
 तऩ् स्वरूपमुम् तऩक्क् उरित्त् अल्लामैयाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+'अहं न मम' इत्य् एतद्-वाक्यतः  
+स्व-स्वरूपे ऽपि स्वत्वत्वाभावात् 
+</details>
+
 <details><summary>English</summary>
 
 Aham na mama ("I am not mine") is the sentence in namas.  
@@ -8867,6 +8909,12 @@ A partir de esto, **queda claro** que incluso el svarūpa (naturaleza esencial) 
 
 गुणङ्गळ् +++(धर्मि→)+++प्रधानानुवर्तिगळ् ऎऩ्गिऱ बडिये 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+'गुणाः प्रधानानुवर्तिनः' इति न्यायात्  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8892,6 +8940,15 @@ Dado que los atributos y las cualidades siempre **siguen** al principal o sustan
 ऎऩ्ऱु +++(आत्मानं)+++ विशेषित्त् अनुसन्धानम् फलित्तदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अन्यत् किम् अपि प्रति  
+स्वस्य निरुपाधिक-स्वामित्वं नास्ति
+
+इति +++(आत्मानं)+++ विशिष्यानुसन्धानं फलितम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 it is tantamount to saying, specially, that  
@@ -8914,6 +8971,12 @@ Uno **no es** el maestro incondicionado de nada (perteneciente a uno).
 
 इदु विशेष-निर्देशत्तुक्कुप् प्रयोजनम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं विशेष-निर्देशस्य प्रयोजनम् ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8938,6 +9001,14 @@ Este **es** el propósito de la especificación.
 "ऎऩ्ऩद् अऩ्ऱ्" ऎऩ्ऱु  
 तऩ् तुवक्क् अऱुक्किऱदु +++(=कर्तयति)+++। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(2) इत्थम् अनुषङ्गाकरण-पक्षे  
+सामान्यतः स्व-संबन्धितया प्रतीयमाने सर्वस्मिन्  
+'न मम स्वम्' इति स्व-संबन्धो व्यवच्छिद्यते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8970,6 +9041,13 @@ se **le quitará** a uno mismo.
 इत्ताल् तऩ्ऩैयुम्, तऩ्ऩुडैय गुण-विग्रहादिगळैयुम् पऱ्ऱत्  
 तऩ्ऩ् अभिमान-विशेषङ्गळैक् कऴिक्कैयाले  
 विपरीताहङ्कार--ममकारङ्गळ् आगिऱ संसार-मूलङ्गळ् छेदिक्कप् पट्टऩ। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतेन [[P280]] स्व-विषये, स्व-संबन्धि-गुण-विग्रहादि-विषये च  
+स्व-गताभिमान-विशेषस्य निवर्तनात्  
+विपरीताहंकार-ममकार-रूपे संसार-मूले छिन्ने भवतः । 
 </details>
 
 <details><summary>English</summary>
@@ -9006,6 +9084,13 @@ Por lo tanto, **se eliminan**.
 इङ्गु कऴिक्किऱ अहङ्-कारम् भ्रम-रूपम् आऩ बुद्धि-विशेषम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इह निवर्त्यमानो ऽहंकारो  
+भ्रम-रूपो बुद्धि-विशेषः । 
+</details>
+
+
 <details><summary>English</summary>
 
 The conceit (ahamkāra) which is thus removed is a form of illusory knowledge. 
@@ -9027,6 +9112,13 @@ La presunción (Ahamkāra) que **se elimina** así **es** una forma de **conocim
 मऱ्ऱुम् तत्त्वङ्गळिल् ऎण्णिऩ अहङ्कारम्  
 विवेक-मात्रत्ताऱ् कऴिवद् ऒऩ्ऱ् अऩ्ऱु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यः तत्त्वेषु गणितो ऽहंकारो  
+विवेक-मात्र-नाश्यः कश्चिद् अर्थो न भवति ; 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9052,6 +9144,13 @@ Pero que Ahamkāra **no es capaz** de **ser eliminado** por la mera inteligencia
 इवऩैत् तॊऱ्ऱिक् किडक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सूक्ष्म-शरीर-त्याग-पर्यन्तम्  
+एतद्-अनुषक्तो वर्तेत । 
+</details>
+
+
 <details><summary>English</summary>
 
 It persists with the jīva until its separation from the subtle body (Sūkṣma śarīra). 
@@ -9075,6 +9174,14 @@ It persists with the jīva until its separation from the subtle body (Sūkṣma 
 मूल-मन्त्रादिगळाले सिद्धम् आऩ  
 विवेकम् आगिऱ भेषज-विशेषत्ताले कऴिगिऱऩ। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद्-अ-चित्-संबन्धे ऽस्यानिवृत्ते ऽपि,  
+एतत्-कार्य-भूता भ्रम-रूपा अहंकारादि-व्याधयो  
+मूल-मन्त्रादि-सिद्ध-विवेक-रूप-भेषज-विशेषेण निवर्तन्ते ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9106,6 +9213,11 @@ que **son** ilusorios
 तऩक्क् अन्य-शेषत्वम् प्रणवत्तिल् मध्यमाक्षरत्तिले कऴिगैयाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(3) स्वस्यान्य-शेषत्वस्य प्रणवे मध्यमाक्षरेण निवर्तितत्वात्, 
+</details>
+
 <details><summary>English</summary>
 
 Since, from the middle letter of praṇava,  
@@ -9130,6 +9242,13 @@ La noción de que uno **es** śeṣa para cualquier otro que el Señor **se desh
 तऩक्कु शेषत्वम् इल्लैय् ऎऩ्ऱु पिरित्तुच् चॊल्ल वेण्डामैयाल्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्य-भूत-स्वं प्रति  
+स्वस्य शेषत्वं नास्तीति पृथक् प्रतिपादनस्यानपेक्षितत्वात्,  
+</details>
+
+
 <details><summary>English</summary>
 
 there is no need to state separately that one is not śeṣa to oneself. 
@@ -9150,8 +9269,15 @@ there is no need to state separately that one is not śeṣa to oneself.
 
 अन्य-शेषिय् आय्त् तोऱ्ऱिऩ तऩक्क्  
 इङ्ग् एद् एऩुम् ऒऩ्ऱैयुम् पऱ्ऱ  
-निरुपाधिक-स्वामित्वम् कऴिक्कैयिले तात्पर्यम् आगवुम् आम्।
+निरुपाधिक-स्वामित्वम् कऴिक्कैयिले तात्पर्यम् आगवुम् आम्। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्य-शेषित्वेन प्रतीतस्य स्वस्यात्र  
+यत् किम् अपि प्रति निरुपाधिक-स्वामित्वस्य निवर्तने तात्पर्यं वा । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9183,6 +9309,13 @@ de cualquiera de estas cosas.
 निरुपाधिक-सर्व-शेषिय् आऩ सर्वेश्वरऩ् स्वार्थम् आगक् कॊडुत्तवैय् इऱे। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+जीवस्य शेष-भूतानि सर्वाण्य् अपि  
+निरुपाधिक-सर्व-शेषिणा सर्वेश्वरेण स्वार्थं दत्तानि किल । 
+</details>
+
+
 <details><summary>English</summary>
 
 All those things that are śeṣa to the jīva (like his body, his attributes, his wealth etc.)  
@@ -9213,6 +9346,12 @@ quien **es** el Śeṣī de todos.
 ईश्वरऩ्-उडैय नित्येच्छा-सिद्धङ्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+जीवानां नित्या गुणादय ईश्वरस्य नित्येच्छा-सिद्धाः । 
+</details>
+
+
 <details><summary>English</summary>
 
 Those qualities and the like of the jīvas which are eternal  
@@ -9231,7 +9370,7 @@ Esas cualidades y similares de los Jīvas que **son** eternos
 जीवर्गळुडैय नित्यङ्गळाऩ गुणादिगळ् ईश्वरऩुडैय नित्येच्छासिद्धङ्गळ्। 
 </details>
 
-
+###### अनित्येच्छा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ-शुद्ध-दशैयिलुम् शुद्ध-दशैयिलुम् उण्ड् आऩ अ-नित्य--विग्रहादिगळ्  
@@ -9239,6 +9378,13 @@ Esas cualidades y similares de los Jīvas que **son** eternos
 कर्म-निरपेक्षम् आयुम् उळ्ळ  
 अ-नित्येच्छा-सिद्धङ्गळ्।  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-शुद्ध-दशायां शुद्ध-दशायां च भवन्तो ऽनित्य-विग्रहादयः  
+एतत्-कर्म-जन्यया कर्म-निरपेक्षया चानित्येच्छया सिद्धाः ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9270,6 +9416,11 @@ y sin ninguna relación con el karma (en el caso de este último).
 प्रणवत्तिले अन्य-शेषत्वङ् कऴिकैयाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(4) प्रणवे ऽन्य-शेषत्वस्य निवृत्तेः,  
+</details>
+
 <details><summary>English</summary>
 
 The praṇava states that the jīva is śeṣa to none other (than Bhagavān). 
@@ -9292,6 +9443,15 @@ El praṇava **afirma** que el Jīva es Śeṣa a ninguna otra (que Bhagavān).
 
 ऎऩ्ऩुम् इडं सिद्धिक्कैयालुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> परमात्मनो ऽन्य-भूतस्य स्वस्य  
+स्वयं शेषो न
+
+इत्य् अर्थस्य सिद्धेः,  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9319,6 +9479,15 @@ ya que **es** otra cosa que Bhagavān;
 ऎऩ्ऩुम् इडमुम् इङ्गे वरुगैयालुम् +++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> स्वस्यान्य-निरूपित-शेषत्वाभाववत्  
+अन्यस्यापि स्व-निरूपित-निरुपाधिक-शेषत्वं नास्ति
+
+इत्य् अर्थस्यात्र प्राप्तेः, 
+</details>
+
+
 <details><summary>English</summary>
 
 it follows from this that, in the same way as he is śeṣa to nobody else (than Bhagavān),  
@@ -9342,8 +9511,15 @@ Ninguna otra cosa **es** incondicionalmente Śeṣa para él.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रणवत्तिल् तोऱ्ऱाद स्व-स्वातन्त्र्य-निवृत्तियिले  
-नमस्सुक्कुत् तात्पर्यम् आगवुम् आम्।
+नमस्सुक्कुत् तात्पर्यम् आगवुम् आम्। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रणवाप्रतिपन्नायां स्व-स्वातन्त्र्य-निवृत्तौ  
+नमसस् तात्पर्यं वा । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9375,6 +9551,15 @@ que el Jīva **no es** de ninguna manera independiente
 ऎऩ्ऱु सॊल्लिऱ्ऱ् आयिऱ्ऱु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तदा पूर्व-प्रयुक्त-मकारानुषङ्गेण,  
+
+> 'अहं निर्वाहको नास्मि' 
+
+इत्य् उक्तं भवति । 
+</details>
+
 <details><summary>English</summary>
 
 In that case, taking from the context (anushaṅga) the m in praṇava,  
@@ -9404,6 +9589,14 @@ En ese caso, **tomando** del contexto (anushaṅga) el M en praṇava,
 "न मम स्वातन्त्र्यम्" ऎऩ्ऱ् आगवुम् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वातन्त्र्य-पदम् अध्याहृत्य,  
+'न मम स्वातन्त्र्यम्'  
+इति वोक्तं भवति । 
+</details>
+
+
 <details><summary>English</summary>
 
 It is also possible to understaod (adhyāhara),  
@@ -9428,6 +9621,13 @@ Luego **leería** "Na Mama Svātantryam" (**no tengo** independencia).
 इच् चेतनऩुक्कु स्व-स्वातन्त्र्य-निवृत्तिय् आवदु  
 निरपेक्ष-कर्तृत्वानर्हतै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य चेतनस्य स्व-स्वातन्त्र्य-निवृत्तिर् [[P281]] नाम —  
+निरपेक्ष-कर्तृत्त्वानर्हता । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9455,6 +9655,16 @@ La **ausencia** de independencia en el caso del ser sensible
 अवऩ् प्रेरकम् आय्, सहकारियुम् आगप् प्रवर्तिक्क वेण्डुगै।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्याः मूलं  
+बद्धावस्थायां मुक्तावस्थायां च  
+स्व-बुद्धि-पूर्वक-प्रवृत्तिं कुर्वाणस्यापि  
+ईश्वर-दत्त-करणादिकम् अवलम्ब्य  
+तस्मिन् प्रेरके सह-कारिणि च सत्य् एव  
+प्रवृत्ति-योग्यता ।
+</details>
+
 <details><summary>English</summary>
 
 This is because,  
@@ -9478,13 +9688,21 @@ y por **su estimulación** y con su **ayuda**.
 इदुक्कडि; बद्धावस्थैयिलुम् मुक्तावस्थैयिलुम् स्वबुद्धिपूर्वप्रवृत्ति पण्णानिऩ्ऱालुम् ईश्वरऩ्गॊडुत्त करणादिगळैक्कॊण्डु अवऩ् प्रेरकमाय् सहकारियुमागप् प्रवर्तिक्कवेण्डुगै।
 </details>
 
-
+#### व्याजापेक्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ईश्वरऩुक्कु प्रथमाक्षरत्तिल् प्रकृतियिले सॊऩ्ऩ सर्व-रक्षकत्वम्  
 उपायाधिकारिगळ् पक्कल्  
 एद् एऩुम् ऒरु उपायत्तिले प्रेरेपित्तुक् कॊण्डे वरक् कडवदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वरस्य प्रथमाक्षरे प्रकृत्योक्तं सर्व-रक्षकत्वम्  
+उपायाधिकारिणां विषये  
+यस्मिन् कस्मिंश्चिद् उपाये प्रेरण-पूर्वकम् एव भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9511,6 +9729,14 @@ solo **estimulándolos** a la **adopción** de cualquiera de los upāyas.
 जीवऩ् स्व-रक्षणार्थम् आऩ उपायानुष्ठानत्तिलुम् पराधीन-कर्ताव् आगैयालुम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+जीवः स्व-रक्षणार्थम् उपायानुष्ठाने ऽपि  
+पराधीन-कर्तेत्य् अतः, 
+</details>
+
+
+
 <details><summary>English</summary>
 
 Though the jīva adopts the upāya,  
@@ -9535,6 +9761,14 @@ Dado que su **actividad depende** del Señor
 प्रसन्नऩ् आऩ सर्वेश्वरऩ् आगैयालुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतस्मिन्न् उपाये ऽनुष्ठिते ऽपि  
+फल-प्रदान-रूप-रक्षा-कर्ता प्रसन्नः सर्वेश्वर  
+इत्य् अतश् च 
+</details>
+
+
 <details><summary>English</summary>
 
 and since the one who affords protection  
@@ -9556,7 +9790,14 @@ Al **otorgar** la fruta (del upāya) **es** el gobernante supremo que **es** ama
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रथमाक्षरत्तिल् प्रकृतियाले सॊल्लप्-पट्टव् अवऩ्-उडैय सर्व-रक्षकत्वमे इन् नमश्-शब्दत्तालुम् दृढी-कृतम्। 
+प्रथमाक्षरत्तिल् प्रकृतियाले सॊल्लप्-पट्टव् अवऩ्-उडैय सर्व-रक्षकत्वमे  
+इन् नमश्-शब्दत्तालुम् दृढी-कृतम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रथमाक्षरे प्रकृत्या प्रतिपन्नं तस्य सर्व-रक्षकत्वम् एव  
+अनेन नमः-शब्देनापि दृढी-कृतं भवति । 
 </details>
 
 <details><summary>English</summary>
@@ -9583,6 +9824,14 @@ Eso **es confirmado** por este Namas.
 जीवऩुक्क् एद् एऩुम् ऒऩ्ऱैयुम् पऱ्ऱ निरुपाधिक-शेषित्वमुङ् कऴित्त मुऩ्-बुऱ्ऱ योजऩैयाले  
 दृढी-कृतम् आयिऱ्ऱु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं प्रथम-चतुर्थ्या प्रतिपन्नम् ईश्वरस्य निरुपाधिक-सर्व-शेषित्वं  
+जीवस्य यत्-किञ्चिन्-निरूपित-निरुपाधिक-शेषित्वस्य निवर्तिकया पूर्व-योजनया  
+दृढीकृतं सिद्धम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9622,7 +9871,12 @@ que **niega** a Seshitvam incondicionado al Jīva.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अस्य जीवस्य विद्यमानं स्वातन्त्र्यम् अपि, 
+
 > ‘‘ +++(जीव-कर्तृत्वम्)+++ परात् तु तच्-छ्रुतेः’’(ब्रह्म-सूत्रम् २-३-४०) 
+
+इति न्यायेन  
+निरुपाधिक-स्वतन्त्रात् स्वार्थ-प्रवृत्तात् परमात्मनो निदानाद् अनुप्राप्तम् । 
 </details>
 
 <details><summary>English</summary>
@@ -9663,6 +9917,14 @@ quien **es** el incondicionado Śeṣī de todos.
 निरुपाधिक-शेषियाऩ अवऩ् स्वार्थम् आगक् कॊडुक्क वन्ददु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तथैव वस्त्व्-अन्तर-निरूपितम् अस्य जीवस्य शेषित्वम् अपि  
+निरुपाधिक-शेषिणा तेन स्वार्थं दत्तं सत् प्राप्तम् ।
+
+</details>
+
+
 <details><summary>English</summary>
 
 The jīva's being seshi to other things  
@@ -9700,11 +9962,18 @@ Para resumir
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ॥ श्रीमान् **स्व-तन्त्रस् स्वामी** च  
-सर्वत्रान्यानपेक्षया ।  
+सर्वत्रान्यानपेक्षया +++(अस्ति)+++।  
 निरपेक्ष-स्वतन्त्रत्वं  
-स्वाम्यञ्चान्यस्य न क्वचित् ॥  
+स्वाम्यञ् चान्यस्य न क्वचित् ॥  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+॥ श्रीमान् **स्व-तन्त्रस् स्वामी** च  
+सर्वत्रान्यानपेक्षया +++(अस्ति)+++।  
+निरपेक्ष-स्वतन्त्रत्वं  
+स्वाम्यञ् चान्यस्य न क्वचित् ॥  
+</details>
 
 <details><summary>English</summary>
 
@@ -9734,10 +10003,19 @@ y la maestría **no pertenece** a nadie más.
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 तारस्य नमसश् चेमौ  
-सारौ देशिक-दर्शितौ ।  
-अनन्य-शरणत्वादेर्  
-अधिकारस्य सिद्धये ॥
+सारौ देशिक-**दर्शितौ** ।  
++++(मोक्षादौ)+++ अनन्य-शरणत्वादेर्  
+अधिकारस्य **सिद्धये** ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तारस्य नमसश् चेमौ  
+सारौ देशिक-**दर्शितौ** ।  
++++(मोक्षादौ)+++ अनन्य-शरणत्वादेर्  
+अधिकारस्य **सिद्धये** ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9764,6 +10042,16 @@ Para que **podamos tener** la competencia (para Prapatti), a saber, **como tener
 लोकत्तिल् स्वामित्व-स्वातन्त्र्यङ्गळ् अभिमतङ्गळ् आयुम्  
 दासत्व-पारतन्त्र्यङ्गळ् अनभिमतङ्गळ् आयुम् तोऱ्ऱुगिऱदु कर्मोपाधिकम् आगव् अत्तऩै।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P282]]
+
+लोके स्वामित्व-स्वातन्त्र्ययोर् अभिमतत्वेन  
+दासत्व-पारतन्त्र्ययोर् अनभिमतत्वेन च प्रतीतिः  
+कर्मोपाधिकेत्य् एव । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -9807,6 +10095,18 @@ como un factor de acondicionamiento (upādhi).
 तत्त्व-वित्तुक्कळुक्क् अनुकूलङ्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इह प्रणव-नमसोर् उक्ते दासत्व-पारतन्त्र्ये  
+
+> "दास-भूताः स्वतः सर्वे"  
+(मन्त्र-राज-पद-स्तोत्रम्) 
+
+इत्य्-आद्य्-उक्त-रीत्या  
+स्व-रूप-प्राप्तत्वात् तत्त्व-विदाम् अनुकूले ।
+</details>
+
+
 <details><summary>English</summary>
 
 But here (in spiritual life),  
@@ -9849,6 +10149,17 @@ Como **se indica** en pasajes como los siguientes:
 ऎऩ्गिऱ बडिये  
 स्व-तन्त्रऩ् आऩ शेषिक्क् इष्ट-विनियोगार्हऩ् आऩ बडियाले  
 तदीय-शेषत्वमुम् इङ्गे सिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् अत्यन्त-पारार्थ्य-पारतन्त्र्ययोः सिद्धेः, 
+
+> "दासानां मां दासीकृतवान् विमलः”
+
+इत्य्-उक्त-रीत्या  
+स्वतन्त्र-शेषीष्ट-विनियोगार्हत्वात्  
+तदीय-शेषत्वम् अप्य् अत्र सिद्धम् । 
 </details>
 
 <details><summary>English</summary>
@@ -9898,6 +10209,16 @@ Como **se indicó** (En el verso tamil) -
 विलक्कवुम् ऒण्णादु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+शेषित्वात् स्वतन्त्रत्वाच् चेश्वर  
+एनम् आत्मानं स्व-प्रिय-दासानां कृते  
+स्वेच्छया शेषम् आपादयति चेत्,  
+इदम् अप्राप्तम् इति वक्तुम् अयुक्तम् ;  
+निराकर्तुम् अप्य् अशक्यम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 If the Lord who is the śeṣī, and who is independent (and all powerful)  
@@ -9925,6 +10246,12 @@ Si el Señor que **es** el Śeṣī, y que **es** independiente (y todo poderoso
 
 शेषिय् आगैयाले इष्ट-विनियोगत्तुक्कुप् प्राप्तऩ्;  
 स्वतन्त्रऩ् +++(→सर्व-शक्तिमान्)+++ आगैयाले इदुक्कु समर्थऩ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शेषित्वाद् इष्ट-विनियोगः स्वतः प्राप्तः ;  
+स्वतन्त्रत्वाद् +++(→सर्व-शक्तिमत्त्वाद्)+++ अत्र समर्थश् च । 
 </details>
 
 <details><summary>English</summary>
@@ -9958,6 +10285,14 @@ y como él **es** todo poderoso,
 (पॆरियदिरुमॊऴि ८-१०-३।)  
 
 ऎऩ्गिऱ पाट्टिलुम् इव्व्-अर्थङ् गण्डु-गॊळ्वदु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "'अन्यत् किम् अपि दैवम् अस्ती'ति स्थितैर् न संसृज्ये;  
+स्वीकृतं च त्वद्-दास-दास्यम्”
+
+इति गाथायाम् अप्य् अयम् अर्थो द्रष्टव्यः ॥
 </details>
 
 <details><summary>English</summary>
@@ -10210,6 +10545,15 @@ y **es apropiado** de diferentes maneras
 अकिञ्चनऩ् आय् इरुक्किऱव् इवऩुक्कु  
 अवऩाले पुरुषार्थम् पॆऱ वेण्डुगैयाले
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P283]]
+
+इत्थं स्वतन्त्र-शेषिणो यथेष्ट-विनियोगार्हेण (पर-तन्त्रेण)  
+अकिञ्चनेनानेन तद्-द्वारा पुरुषार्थस्य प्राप्यत्वात्,  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
