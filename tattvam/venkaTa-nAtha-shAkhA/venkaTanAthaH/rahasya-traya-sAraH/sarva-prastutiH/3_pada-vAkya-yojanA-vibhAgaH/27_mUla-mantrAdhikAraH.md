@@ -9695,7 +9695,7 @@ Como **se indicó** (En el verso tamil) -
 इप्पडि अत्यन्तपारार्थ्यपारतन्त्र्यङ्गळ्सिद्धिक्कैयाले ’’अडियार्क्कॆऩ्ऩै याट्पडुत्तविमल’’ (अमलऩादिबिराऩ् १) ऩॆऩ्गिऱबडिये स्वतन्त्रऩाऩ शेषिक्किष्ट विनियोगार्हऩाऩबडियाले तदीयशेषत्वमुमिङ्गे सिद्धम्। 
 </details>
 
-
+#### औचित्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शेषियुम् आय्, स्वतन्त्रऩुम् आगैयाले  
@@ -9757,6 +9757,7 @@ y como él **es** todo poderoso,
 शेषियागैयाले इष्टविनियोगत्तुक्कुप् प्राप्तऩ्; स्वतन्त्रऩागैयाले इदुक्कु समर्थऩ्।
 </details>
 
+#### मऱ्ऱुम् ओर् दॆय्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > "मऱ्ऱुम् ओर् दॆय्वम् उळद्" ऎऩ्ऱ् इरुप्पारोड् **उऱ्ऱ्+++(=अङ्गीकारः)+++-इलेऩ्**  
@@ -9790,29 +9791,228 @@ Pero con gusto **acepto** (el privilegio de) **ser sirviente** de tus devotos ".
 ’’मऱ्ऱुमोर् तॆय्वमुळदॆऩ्ऱिरुप्पारोडुऱ्ऱिलेऩुऱ्ऱदुमुऩ्ऩडियार्क् कडिमै’’(पॆरियदिरुमॊऴि ८-१०-३) यॆऩ्गिऱ पाट्टिलुमिव्वर्थङ्गण्डुगॊळ्वदु।
 </details>
 
+#### भगवतोऽपि, स्वेच्छया क्वचित्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+॥ स्वेच्छयैव परेशस्य +++(←भगवद्-भक्त-शेषत्वं)+++,  
+तादधीन्य-बलात् तु नः ।  
+भगवद्-भक्त-शेषत्वं,  
+स्वेच्छयापि क्वचिद् **भवेत्** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+॥ स्वेच्छयैव परेशस्य +++(←भगवद्-भक्त-शेषत्वं)+++,  
+तादधीन्य-बलात् तु नः ।  
+भगवद्-भक्त-शेषत्वं,  
+स्वेच्छयापि क्वचिद् **भवेत्** ॥  
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवत-कैङ्कर्यम्
+</details>
 
 
+<details><summary>English</summary>
+
+Being śeṣa to His devotees results to the Supreme Ruler from His own desire;  
+but to us, it is a consequence of our being dependent on Him.  
+(Sometimes) even to us, it may come as a consequence of our own desire,  
+</details>
+
+<details><summary>Español</summary>
+
+**Ser** Śeṣa para sus devotos  
+**resulta** al gobernante supremo de su propio deseo;  
+Pero para nosotros, **es** una consecuencia de que **dependamos** de él.  
+(A veces) incluso para nosotros, **puede venir** como consecuencia de nuestro propio deseo,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+॥ स्वेच्छयैव परेशस्य तादधीन्यबलात्तु नः । भगवद्भक्तशेषत्वं स्वेच्छयापि क्वचिद्भवेत् ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुणाधिके हि विषये  
+गुण-सारस्य **वेदिनः** ।  
+रामे रामानुजस्येव  
+दास्यं गुण-कृतं भवेत् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+गुणाधिके हि विषये  
+गुण-सारस्य **वेदिनः** ।  
+रामे रामानुजस्येव  
+दास्यं गुण-कृतं भवेत् ॥  
+</details>
+
+<details><summary>विषयः</summary>
+
+गुण-कृत-दास्यम्, भागवत-कैङ्कर्यम्
+</details>
+
+
+<details><summary>English</summary>
+
+for to one who appreciates the worth of (virtuous) qualities,  
+a desire to serve may arise  
+towards those who are great by their virtues.  
+Thus service may be done owing to an appreciation of (noble) qualities,  
+like the service of Lakṣmaṇa to Śrī Rāma. 
+</details>
+
+<details><summary>Español</summary>
+
+para alguien que **aprecia** el valor de cualidades (virtuosas),  
+**puede surgir** un deseo de **servir**  
+hacia aquellos que **son** geniales por sus virtudes.  
+Por lo tanto, el servicio **se puede hacer** debido a una apreciación de las cualidades (nobles),  
+Como el **servicio** de Lakṣmaṇa a Śrī Rāma.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+गुणाधिकेहि विषये गुणसारस्य वेदिनः । रामे रामानुजस्येव दास्यं गुणकृतं भवेत् ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **दास्यम्** ऐश्वर्य-योगेन  
+ज्ञातीनाञ् च **करोम्य्** अहं ॥  
+अर्ध-**भोक्ता** च भोगानां  
+वाग्-दुर्-उक्तानि च **क्षमे** ॥ +++(4)+++ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **दास्यम्** ऐश्वर्य-योगेन  
+ज्ञातीनाञ् च **करोम्य्** अहं ॥  
+अर्ध-**भोक्ता** च भोगानां  
+वाग्-दुर्-उक्तानि च **क्षमे** ॥ +++(4)+++ 
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवत-कैङ्कर्यम्
+</details>
+
+
+<details><summary>English</summary>
+
+The omnipotent Lord has Himself said.  
+
+> [Śrī Kṛṣṇa's words] "I render service to those who are my kinsmen  
+by virtue of my being independent.  
+I give one half (of what I have) to my kinsfolk  
+and enjoy the other half.  
+I forgive also harsh words (employed) by them towards me ". 
+</details>
+
+<details><summary>Español</summary>
+
+El Señor omnipotente **se ha dicho**.
+
+> [Palabras de Śrī Kṛṣṇa] "**Presento** el **servicio** a los que **son** mis parientes  
+en virtud de **ser** independiente.  
+Le **doy** la mitad (de lo que tengo) a mi pareja  
+y **disfruta** de la otra mitad.  
+**Perdono** también palabras duras (**empleadas**) por ellos ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दास्यमैश्वर्ययोगेन ज्ञातीनाञ्च करोम्यहं ॥ अर्धभोक्ता च भोगानां वाग्दुरुक्तानि च क्षमे ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति स्वोक्ति-नयाद् एव  
+स्व-भक्त-विषये विभुः ।  
+आत्मात्मीयस्य सर्वस्य  
+**सङ्कल्पयति** शेषताम् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इति स्वोक्ति-नयाद् एव  
+स्व-भक्त-विषये विभुः ।  
+आत्मात्मीयस्य सर्वस्य  
+**सङ्कल्पयति** शेषताम् ॥  
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवत-कैङ्कर्यम्
+</details>
+
+<details><summary>English</summary>
+
+Thus by virtue of these words of His,  
+He has willed that we should be śeṣas to Himself  
+and to His devotees.  
+</details>
+
+<details><summary>Español</summary>
+
+Así, en virtud de estas palabras de las suyas,  
+**Ha querido** que **debamos ser** Śeṣas para sí mismo  
+y a sus devotos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति स्वोक्तिनयादेव स्वभक्तविषये विभुः । आत्मात्मीयस्य सर्वस्य सङ्कल्पयति शेषताम् ॥  
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-॥ स्वेच्छयैव परेशस्य तादधीन्यबलात्तु नः । भगवद्भक्तशेषत्वं स्वेच्छयापि क्वचिद्भवेत् ॥  
-गुणाधिकेहि विषये गुणसारस्य वेदिनः । रामे रामानुजस्येव दास्यं गुणकृतं भवेत् ॥  
-दास्यमैश्वर्ययोगेन ज्ञातीनाञ्च करोम्यहं ॥ अर्धभोक्ता च भोगानां वाग्दुरुक्तानि च क्षमे ॥  
-इति स्वोक्तिनयादेव स्वभक्तविषये विभुः । आत्मात्मीयस्य सर्वस्य सङ्कल्पयति शेषताम् ॥  
-अन्योन्यशेषभावेऽपि परस्वातंत्र्यसंभवः । तत्तदाकारभेदेन युक्त इत्युपपादितम् ॥
+अन्योऽन्य-शेष-भावे ऽपि  
+पर-स्वातन्त्र्य-संभवः ।  
+तत्-तद्-आकार-भेदेन  
+**युक्त** इत्य् **उपपादितम्** ॥+++(4)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्योऽन्य-शेष-भावे ऽपि  
+पर-स्वातन्त्र्य-संभवः ।  
+तत्-तद्-आकार-भेदेन  
+**युक्त** इत्य् **उपपादितम्** ॥
+</details>
+
+<details><summary>English</summary>
+
+It has already been shown (in the chapter on the extreme limit of the ultimate goal of life) that  
+the service rendered as śeṣas by the devotees to one another is due to the will of the omni-potent Lord  
+and is appropriate in different ways   
+(in exalting others and in being exalted by them).
+</details>
+
+<details><summary>Español</summary>
+
+**Ya se ha demostrado** (en el capítulo sobre el límite extremo del objetivo final de la vida) que  
+El **servicio prestado** como Śeṣas por los devotos entre sí **se debe** a la voluntad del Señor omni-potente  
+y **es apropiado** de diferentes maneras  
+(Al exaltar a otros y al ser exaltados por ellos).
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-॥ स्वेच्छयैव परेशस्य तादधीन्यबलात्तु नः । भगवद्भक्तशेषत्वं स्वेच्छयापि क्वचिद्भवेत् ॥  
-गुणाधिकेहि विषये गुणसारस्य वेदिनः । रामे रामानुजस्येव दास्यं गुणकृतं भवेत् ॥  
-दास्यमैश्वर्ययोगेन ज्ञातीनाञ्च करोम्यहं ॥ अर्धभोक्ता च भोगानां वाग्दुरुक्तानि च क्षमे ॥  
-इति स्वोक्तिनयादेव स्वभक्तविषये विभुः । आत्मात्मीयस्य सर्वस्य सङ्कल्पयति शेषताम् ॥  
 अन्योन्यशेषभावेऽपि परस्वातंत्र्यसंभवः । तत्तदाकारभेदेन युक्त इत्युपपादितम् ॥
 </details>
 
-Being śeṣa to His devotees results to the Supreme Ruler from His own desire; but to us, it is a consequence of our being dependent on Him. (Sometimes) even to us, it may come as a consequence of our own desire, for to one who appreciates the worth of (virtuous) qualities, a desire to serve may arise towards those who are great by their virtues. Thus service may be done owing to an appreciation of (noble) qualities, like the service of Lakṣmaṇa to Śrī Rāma. The omnipotent Lord has Himself said. "I [Śrī Kṛṣṇa's words] render service to those who are my kinsmen by virtue of my being independent. I give one half (of what I have) to my kinsfolk and enjoy the other half. I forgive also harsh words (employed) by them towards me ". Thus by virtue of these words of His, He has willed that we should be śeṣas to Himself and to His devotees. It has already been shown (in the chapter on the extreme limit of the ultimate goal of life) that the service rendered as śeṣas by the devotees to one another is due to the will of the omni-potent Lord and is appropriate in different ways (in exalting others and in being exalted by them).
+
 
 Since the jīva who is thus (akiñcana) destitute (of any upāyas) has to receive the desired object from the independent śeṣī in accordance with His will, the prayer for protection (saranavaranam) which is explicitly stated in Dvaya and the Carama śloka for winning His favour is necessary and it is here implicit, in namas of the Tirumantra. Since the surrender of the self and the prayer for protection are inseparable, the word which denotes either denotes also the other and is intended to express both. The word namas is itself (often) employed to stand for the prayer for protection, as may be seen from the following ślokas: "The deity with eyes broad like lotuses that was seen by me before - He has now become (incarnate as) your relative viz. Janārdana, the tiger among men". "Madhava" is both the father and the mother of the whole world. Seek His protection, O best among men, for He is capable of protecting (you)." " When Markandeya gave them this advice, the three sons of Kunti and the twins, O best of the Bharatas, made namaskāra to Janārdana along with Droupadi ", so also in the episode of Damayanti (we find the following); "She considered that the time had come to seek refuge of the gods. So she made namaskara with (all) her speech and (all) her mind." (Since namas has been used to signify the prayer for protection ), it indicates that the responsibility for protecting oneself is not of the jīva (na mama bharah), where the word bharah (the burden of responsibility) is understood. Thus its purport may also be the surrender of responsibility. That the word namas indicates the surrender of self (atna samarpanam) is also wellknown from the following ślokas : "Of all yajnas which's are performed with samit and such like as an aid, the man who has surrendered his self (ātma samarpana) to Bhagavān with the word namas is said to have performed the best Yajna," and "I bow to Bhagavān, for namas (bowing) or atma samarpaṇam to Him enables a man to get rid of his suffering and enjoy whatever he wants ".
 
