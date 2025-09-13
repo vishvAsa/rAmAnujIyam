@@ -10539,9 +10539,12 @@ y **es apropiado** de diferentes maneras
 अन्योन्यशेषभावेऽपि परस्वातंत्र्यसंभवः । तत्तदाकारभेदेन युक्त इत्युपपादितम् ॥
 </details>
 
+
+## नमः शरण-वरणादौ
+### शरण-वरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पडि स्व-तन्त्रऩ् आऩ शेषिय् इट्ट-वऴक्क् आय्  
+इप्-पडि स्व-तन्त्रऩ् आऩ शेषिय् इट्ट-वऴक्क्+++(=आचारऩ्)+++ आय्  
 अकिञ्चनऩ् आय् इरुक्किऱव् इवऩुक्कु  
 अवऩाले पुरुषार्थम् पॆऱ वेण्डुगैयाले
 </details>
@@ -10554,6 +10557,18 @@ y **es apropiado** de diferentes maneras
 अकिञ्चनेनानेन तद्-द्वारा पुरुषार्थस्य प्राप्यत्वात्,  
 </details>
 
+<details><summary>English</summary>
+
+Since the jīva, who is thus (akiñcana) destitute (of any upāyas),  
+has to receive the desired object from the independent śeṣī in accordance with His will,  
+</details>
+
+<details><summary>Español</summary>
+
+Desde el Jīva, que **es** así (akiñcana) indigente (de cualquier upāyas),  
+**tiene** que **recibir** el objeto deseado del independiente Śeṣī de acuerdo con su voluntad,
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -10561,11 +10576,293 @@ y **es apropiado** de diferentes maneras
 </details>
 
 
-Since the jīva who is thus (akiñcana) destitute (of any upāyas) has to receive the desired object from the independent śeṣī in accordance with His will,  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऩ्-उडैय वशी-करणार्थम् आग  
+द्वयत्तिलुम् चरम-श्लोकत्तिलुम्  
+विशदम् आगच् चॊल्लुगिऱ शरण-वरणम्  
+इङ्गे +++(नमसि)+++ सूचितम्। 
+</details>
+
+<details><summary>English</summary>
+
 the prayer for protection (saranavaranam) which is explicitly stated in Dvaya and the Carama śloka for winning His favour is necessary  
 and it is here implicit, in namas of the Tirumantra. 
+</details>
 
-Since the surrender of the self and the prayer for protection are inseparable, the word which denotes either denotes also the other and is intended to express both. The word namas is itself (often) employed to stand for the prayer for protection, as may be seen from the following ślokas: "The deity with eyes broad like lotuses that was seen by me before - He has now become (incarnate as) your relative viz. Janārdana, the tiger among men". "Madhava" is both the father and the mother of the whole world. Seek His protection, O best among men, for He is capable of protecting (you)." " When Markandeya gave them this advice, the three sons of Kunti and the twins, O best of the Bharatas, made namaskāra to Janārdana along with Droupadi ", so also in the episode of Damayanti (we find the following); "She considered that the time had come to seek refuge of the gods. So she made namaskara with (all) her speech and (all) her mind." (Since namas has been used to signify the prayer for protection ), it indicates that the responsibility for protecting oneself is not of the jīva (na mama bharah), where the word bharah (the burden of responsibility) is understood. Thus its purport may also be the surrender of responsibility. That the word namas indicates the surrender of self (atna samarpanam) is also wellknown from the following ślokas : "Of all yajnas which's are performed with samit and such like as an aid, the man who has surrendered his self (ātma samarpana) to Bhagavān with the word namas is said to have performed the best Yajna," and "I bow to Bhagavān, for namas (bowing) or atma samarpaṇam to Him enables a man to get rid of his suffering and enjoy whatever he wants ".
+<details><summary>Español</summary>
+
+La **oración** por la protección (saranavaranam) que **se dice** explícitamente en dvaya y el carama Śloka por **ganar** su favor **es necesario**  
+Y está aquí **implícito**, en Namas of the Tirumantra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवऩुडैय वशीकरणार्थमाग द्वयत्तिलुम् चरमश्लोकत्तिलुम् विशदमागच् चॊल्लुगिऱ शरणवरणमिङ्गे सूचितम्। 
+</details>
+
+### आत्म-समर्पणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्म-समर्पणमुम् शरण-वरणमुम्  
+अन्योऽन्यम् पिरियामैयालेय्  
+ओर्-ऒऩ्ऱैच् चॊल्लुम् शब्दङ्गळिल्  
+इरण्डुम् विवक्षितम्। 
+</details>
+
+<details><summary>English</summary>
+
+Since the surrender of the self and the prayer for protection are inseparable,  
+the word which denotes either denotes also the other  
+and is intended to express both. 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que la **rendición** del yo y la **oración** por la **protección son** inseparables,  
+la palabra que **denota** cualquiera de los dos  
+**denota** el otro  
+y **está destinado** a **expresar** ambos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मसमर्पणमुम् शरणवरणमुमन्योन्यम् पिरियामैयाले योरॊऩ्ऱैच्चॊल्लुम् शब्दङ्गळिलिरण्डुम् विवक्षितम्। 
+</details>
+
+### रक्षा-भर-समर्पणे लक्ष्याणि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यस् स देवो मया **दृष्टः**  
+पुरा पद्मायातेक्षणः ।  
+स एष पुरुष-व्याघ्रस्  
+सम्बन्धी ते जनार्दनः’’  
+(भारतम् आरण्य-पर्व १९२-५१),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यस् स देवो मया **दृष्टः**  
+पुरा पद्मायातेक्षणः ।  
+स एष पुरुष-व्याघ्रस्  
+सम्बन्धी ते जनार्दनः’’  
+(भारतम् आरण्य-पर्व १९२-५१),
+</details>
+
+<details><summary>English</summary>
+
+> "The deity with eyes broad like lotuses that was seen by me before -  
+He has now become (incarnate as) your relative viz. Janārdana,  
+the tiger among men". 
+</details>
+
+<details><summary>Español</summary>
+
+> "La deidad con ojos amplios como lotos que **me vieron** antes -  
+Ahora **se ha convertido** (**encarnado** como) tu pariente a saber, Janārdana,  
+el tigre entre los hombres ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘यस्स देवो मया दृष्टः पुरा पद्मायातेक्षणः । स एष पुरुषव्याघ्रस्सम्बन्धीते जनार्दनः’’(भारतम् आरण्य-पर्व १९२-५१),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सर्वेषाम् एव लोकानां  
+पिता माता च माधवः ।  
+**गच्छध्वम्** एनं **शरणं**  
+शरण्यं पुरुषर्षभाः॥’’  
+(भारतम् आरण्य-पर्व १९२-५६) 
+
+ऎऩ्ऱु उपदेशिक्क
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सर्वेषाम् एव लोकानां  
+पिता माता च माधवः ।  
+**गच्छध्वम्** एनं **शरणं**  
+शरण्यं पुरुषर्षभाः॥’’  
+(भारतम् आरण्य-पर्व १९२-५६) 
+
+</details>
+
+<details><summary>English</summary>
+
+> "Madhava is both the father and the mother of the whole world.  
+Seek His protection, O best among men,  
+for He is capable of protecting (you)."  
+
+When Markandeya gave them this advice, 
+</details>
+
+<details><summary>Español</summary>
+
+> "Madhava **es** tanto el padre como la madre del mundo entero.  
+**Buscar** su **protección**, oh, entre los hombres,  
+porque él **es capaz** de **proteger** (usted) ".
+
+Cuando Markandeya les **dio** este consejo,
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘सर्वेषामेव लोकानां पिता माता च माधवः । गच्छध्वमेनं शरणं शरण्यं पुरुषर्षभाः॥’’(भारतम् आरण्य-पर्व १९२-५६) ऎऩ्ऱु उपदेशिक्क
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘एवम् **उक्तास्** त्रयः पार्था  
+यमौ च भरतर्षभ ।  
+द्रौपद्या सहितास् सर्वे  
+**नमश् चक्रुर्** जनार्दनम्॥’’  
+(भारतम् आरण्य-पर्व १९२-५६) 
+
+ऎऩ्ऱु सॊल्लुगैयालुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘एवम् **उक्तास्** त्रयः पार्था  
+यमौ च भरतर्षभ ।  
+द्रौपद्या सहितास् सर्वे  
+**नमश् चक्रुर्** जनार्दनम्॥’’  
+(भारतम् आरण्य-पर्व १९२-५६) 
+
+</details>
+
+
+<details><summary>English</summary>
+
+> the three sons of Kunti and the twins, O best of the Bharatas,  
+made namaskāra to Janārdana along with Draupadi ",  
+
+as may be seen from the above ~~following~~ ślokas: 
+</details>
+
+<details><summary>Español</summary>
+
+> Los tres hijos de Kunti y los gemelos, oh lo mejor de los bharatas,  
+**hecho** namaskāra a janārdana junto con draupadi ",
+
+Como **se puede ver** en lo anterior ~~siguiente~~ Ślokas:
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘एवमुक्तास्त्रयः पार्था यमौ च भरतर्षभ । द्रौपद्या सहितास्सर्वे नमश्चक्रुर्जनार्दनम्॥’’(भारतम् आरण्य-पर्व १९२-५६) ऎऩ्ऱु सॊल्लुगैयालुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दमयन्ती-वृत्तान्तत्तिले 
+
+> ‘‘शरणं प्रति देवानां  
+प्राप्त-कालमम् अन्यतः’’  
+(भारतम् आरण्य-पर्व ५४-१६) 
+
+ऎऩ्ऱु प्रक्रमित्तु   
+
+> ‘‘वाचा च मनसा चैव  
+नमस्कारं प्रयुज्य सा॥’’  
+(भारतम् आरण्य-पर्व) 
+
+ऎऩ्गैयालुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘शरणं प्रति देवानां  
+प्राप्त-कालमम् अन्यतः’’  
+(भारतम् आरण्य-पर्व ५४-१६) 
+
+> ‘‘वाचा च मनसा चैव  
+नमस्कारं प्रयुज्य सा॥’’  
+(भारतम् आरण्य-पर्व) 
+
+</details>
+
+<details><summary>English</summary>
+
+so also in the episode of Damayanti (we find the following) - 
+
+> "She considered that the time had come to seek refuge of the gods.  
+So she made namaskara with (all) her speech and (all) her mind." 
+</details>
+
+<details><summary>Español</summary>
+
+Así también en el episodio de Damayanti (**encontramos** lo siguiente) -
+
+> "Ella **consideró** que **había llegado** el momento de **buscar** refugio de los dioses.  
+Entonces **hizo** Namaskara con (todo) su **discurso** y (todo) su mente ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘शरणं प्रति देवानां प्राप्तकालममन्यत’’(भारतम् आरण्य-पर्व ५४-१६) ऎऩ्ऱु प्रक्रमित्तु 
+‘‘वाचा च मनसा चैव नमस्कारं प्रयुज्य सा’’(भारतम् आरण्य-पर्व) ऎऩ्गैयालुम्
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नमश्-शब्दन् ताऩे शरणागति-शब्द-स्थानत्तिले पठितम् आगैयाले 
+</details>
+
+<details><summary>English</summary>
+
+The word namas is itself (often) employed to stand for the prayer for protection, 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra namas **es** en sí misma (a menudo) **empleada** para **defender** la **oración** por la **protección**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नमश्शब्दन्दाऩे शरणागतिशब्दस्थानत्तिले पठितमागैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु तऩ्ऩोडु तऩ् तुवक्क्-अऱुत्तुक् कॊण्डु  
+स-परिकरम् आऩ स्व-रक्षा-भर-समर्पणत्तिले तत्-परम् आगवुम् आम्।
+</details>
+
+<details><summary>English</summary>
+
+(Since namas has been used to signify the prayer for protection ),  
+it indicates that the responsibility for protecting oneself is not of the jīva (na mama bharah),  
+where the word bharah (the burden of responsibility) is understood.  
+Thus its purport may also be the surrender of responsibility. 
+</details>
+
+<details><summary>Español</summary>
+
+(Dado que Namas **se ha utilizado** para **indicar** la oración por la **protección**),  
+Indica que la **responsabilidad** de **protegerse no es** del Jīva (Na Mama Bharah),  
+donde **se entiende** la palabra bharah (la carga de la responsabilidad).  
+Por lo tanto, su **pretensión** también **puede ser** la **rendición** de la responsabilidad.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु तऩ्ऩोडु तऩ् तुवक्कऱुत्तुक् कॊण्डु सपरिकरमाऩ स्वरक्षाभरसमर्पणत्तिले तत्परमागवुमाम्।
+</details>
+
+### आत्म-समर्पणे लक्ष्याणि
+
+
+
+That the word namas indicates the surrender of self (atma samarpanam) is also wellknown from the following ślokas : "Of all yajnas which's are performed with samit and such like as an aid, the man who has surrendered his self (ātma samarpana) to Bhagavān with the word namas is said to have performed the best Yajna," and "I bow to Bhagavān, for namas (bowing) or atma samarpaṇam to Him enables a man to get rid of his suffering and enjoy whatever he wants ".
 
 That the word namas has these meanings, viz., “I do not belong to myself; nor is any activity of mine śeṣa to me; all these are śeṣa only to Bhagavān," is stated in the section on the namaskāra in Nirukti.
 
