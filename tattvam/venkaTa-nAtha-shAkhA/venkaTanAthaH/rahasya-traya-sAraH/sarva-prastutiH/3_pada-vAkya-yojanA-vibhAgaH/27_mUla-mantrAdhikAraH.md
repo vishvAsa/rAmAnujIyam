@@ -7511,6 +7511,15 @@ y sin ninguna restricción o límite.
 अनुसंहितम् आयिऱ्ऱु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं परिशुद्धस्य स्वाभाविक-रूपस्य परामर्शे,  
+निवृत्ताचेतन-गत-जडत्वादिना  
+निवृत्त-सांसारिक-क्लेशादिना च रूपेणावस्थानात्  
+स्वरूपगतं निर्मलत्वम् अनुसंहितं भवति ।
+</details>
+
+
 <details><summary>English</summary>
 
 When we consider this natural and pure form of the jivātma,  
@@ -7549,6 +7558,13 @@ libertad de toda impureza o defecto (Nirmalatva).
 मुमुक्षु-दशैयिले अनुसन्धेयम् ऎऩ्ऩुम् इडम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं पर-शेषतैक-रस-परिशुद्ध-स्वरूपम् एव  
+मुमुक्षु-दशायाम् अनुसन्धेयम् इत्य् एतत्, 
+</details>
+
+
 <details><summary>English</summary>
 
 The seeker after salvation should meditate that  
@@ -7576,6 +7592,14 @@ Y esto ...
 
 ऎऩ्गिऱ सूत्रत्तिले सिद्धम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘+++(ध्येयः संसार-दशाया)+++ व्यतिरेकस्, +++(मोक्षे)+++ तद्-भाव-भावित्वान्, न तु +++(संसारावस्था)+++, +++(यथावस्थित-ब्रह्म-)+++उपलब्धिवत् ॥’’(ब्रह्मसूत्रम् ३-३-५२) 
+
+इति सूत्रे सिद्धम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7605,6 +7629,11 @@ como en la **contemplación** de Brahman como **es** ".
 इवऩुक्कु मुमुक्षु-दशैयिल् फल-दशानुसन्धानम् फलापेक्षैक्क् उऱुप्प् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य मुमुक्षु-दशायां फल-दशानुसन्धानं फलापेक्षायाः प्रयोजकं भवति । 
+</details>
+
 <details><summary>English</summary>
 
 To the prapanna, the meditation on the fruit of attainment in mukti  
@@ -7630,6 +7659,15 @@ A la Papanna, la **meditación** sobre el fruto del **logro** en Mukti
 ऎऩ्ऩुम् इडम्  
 श्री-गीतैयिल् अष्टमाध्यायत्तिलुम् भाष्यादिगळिलुम् सुव्यक्तम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> पुरुषार्थ-भेदानुसारेणानुसन्धेयाकारा भिद्यन्ते 
+
+इत्य् एतत्  
+श्रीगीतायाम् अष्टमाध्याये भाष्यादिषु च सुव्यक्तम् ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7663,9 +7701,12 @@ Y esto **es** evidente en el octavo capítulo del Gita y Śrī Bhāṣya y otros
 
 <details><summary>नीलमेघः (सं)</summary>
 
+जीव-भेदस्य प्रामाणिकत्वाद्  
+इदं तृतीयाक्षरं 
+
 > ‘‘नात्मा +++(उत्पद्यते)+++ - श्रुतेर्’’(ब्रह्मसूत्रम् २-३-१८) 
 
-
+इत्य्-आदिष्व् इव जात्य्-एकत्व-परम् । 
 </details>
 
 <details><summary>English</summary>
@@ -7714,13 +7755,13 @@ y, por lo tanto, realmente **significa** 'almas' (o self).
 
 <details><summary>नीलमेघः (सं)</summary>
 
-
+इत्थं जीव-तत्त्वस्य सर्वस्यात्र, 
 
 > ‘‘दास-भूतास् स्वतस् सर्वे  
 ह्य् आत्मानः परमात्मनः’’  
 (मन्त्र-राज-पद-स्तोत्रम्) 
 
-
+इत्य्-उक्त-रीत्या 
 </details>
 
 
@@ -7759,6 +7800,13 @@ que todas las almas
 अदिले ताऩुम् अन्तर्-गतऩ् आगैयाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सामान्येन भगवच्-छेषत्वेन प्रतिपादने ऽपि  
+तत्र स्वस्याप्य् अन्तर्गतत्वात्, 
+</details>
+
+
 <details><summary>English</summary>
 
 are śeṣas to Bhagavān in general terms,  
@@ -7791,6 +7839,7 @@ it follows that for that reason,
 > ‘‘अतोऽहम् अपि ते दासः’’  
 (मन्त्र-राज-पद-स्तोत्रम्) 
 
+इत्य् अनुसंधानम् अपि सिध्यति ।
 </details>
 
 <details><summary>English</summary>
@@ -7810,7 +7859,7 @@ Todos **deben darse cuenta** de que
 ‘‘अतोऽहमपि ते दासः’’(मन्त्र-राज-पद-स्तोत्रम्) ऎऩ्ऩुमनुसन्धानमुम् सिद्धिक्किऱदु।  
 </details>
 
-
+##### अहम्-अध्याहारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गु शेषत्व-ज्ञानमुम् स्व-स्वातन्त्र्याभिमान-निवृत्त्य्-आदिगळुम्  
@@ -7818,6 +7867,14 @@ Todos **deben darse cuenta** de que
 फल-भूत-शेष-वृत्ति-प्रार्थऩैयुम्  
 तऩक्कुप् पिऱक्किऱद् आगैयाले 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र शेषत्व-ज्ञान--स्व-स्वातन्त्र्याभिमान-निवृत्त्य्-आदयः,  
+उपाय-विशेष-परिग्रहः,  
+फल-भूत-शेष-वृत्ति-प्रार्थना च स्वस्य भवन्तीत्य् अतः [[P278]] 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7849,6 +7906,12 @@ a **saber**, el **servicio** de un Śeṣa al Señor
 तऩ्ऩै प्रधानम् आगक् काट्ट वेण्डुगैयाल्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वस्य प्राधान्येन प्रदर्शनीयत्वात् 
+</details>
+
+
 <details><summary>English</summary>
 
 therefore the individual is the principal (figure).  
@@ -7871,6 +7934,15 @@ Por lo tanto, el individuo **es** el principal (figura).
 
 ऎऩ्ऱु सिल आचार्यर्गळ् सॊल्लुवार्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तृतीयाक्षरस्य विशेष्य-पदत्वेन  
+अहं-शब्दो ऽध्याहृतो ऽन्वेति
+
+इति केचिद् आचार्या आहुः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -7903,15 +7975,19 @@ como **se entiende** y como el sustantivo al que el "M" (que **significa** el J�
 > ‘‘मम नाथ यद् अस्ति यो ऽस्म्य् अहं  
 सकलं तद्धि तवैव माधव’’
 (आळवन्दार्-स्तोत्रम् ५३)
+
+इत्य्-आदिगळिऱ् पडिये 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
+
+तदा प्रणव-विवरण-भूत(स्य)
 
 > ‘‘मम नाथ यद् अस्ति यो ऽस्म्य् अहं  
 सकलं तद्धि तवैव माधव’’
 (आळवन्दार्-स्तोत्रम् ५३)
 
-इत्य्-आदिगळिऱ् पडिये 
+इत्यादे रीत्या, 
 </details>
 
 <details><summary>English</summary>
@@ -7946,6 +8022,15 @@ En ese caso, como **se indica** también en ślokas que **elaboran** el praṇav
 तऩक्कु शेषम् आऩ गुणादिगळुम् उपलक्षितङ्गळ्। 
 </details>
 
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> गुणाः प्रधानानुवर्तिन 
+
+इति न्यायेन  
+स्व-शेष-भूता गुणादयो ऽप्य् उपलक्षिता भवन्ति ।
+</details>
+
 <details><summary>English</summary>
 
 since attributes always follow the principal (or the substantive),  
@@ -7975,6 +8060,18 @@ Las cualidades y atributos también **están destinados** a la **implicación** 
 ऎऩ्ऱुम् योजिप्पर्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्ये केचिद् आचार्याः – 
+
+> "अस्मच्"-छब्दे व्यञ्जन-मात्रं म-कारे गृहीत्वा  
+छान्दस-प्रक्रियया पूर्वोत्तर-भागौ लुप्तौ भवत इति  
+तृतीयाक्षरम् एवाहम्-अर्थं प्रकाशयति
+
+इति योजयन्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 (2) Other ācāryas hold that the third letter itself (m) shows the aham (or I) by dropping, in the word (asmat=I) of the first part "as" and the latter part "at"  
@@ -8003,6 +8100,13 @@ de acuerdo con el uso védico.
 प्रणवत्तै मन्त्रम् आगव् ओदुगैयाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+परमात्मने आत्म-हविषः समर्पणं विदधानायां न्यास-विद्यायां  
+प्रणवस्य मन्त्रत्वेनाम्नानाद्  
+</details>
+
+
 <details><summary>English</summary>
 
 In Nyāsa vidyā (as described in the Taittiriya Upaniṣad) which enjoins the offering of the self as an oblation to the Supreme Being,  
@@ -8029,6 +8133,13 @@ El praṇava **se llama** mantra (para ello).
 इदिले परावरात्म-विषयम् आऩ वाचकांशम् अपेक्षितम् आऩाल् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्यानुष्ठेयार्थ-प्रकाशकत्वार्थम् अत्र  
+परावरात्म-विषययोर् वाचकांशयोर् अपेक्षितत्वे सति  
+</details>
+
+
 <details><summary>English</summary>
 
 In order that the action to be performed may be made clear,  
@@ -8053,6 +8164,11 @@ y **no permanecen** simplemente implícitos.
 प्रमाणानुसारत्ताले प्रथमाक्षरम् उद्देश्य-कारकत्तैच् चॊल्लुगैयालुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रमाणानुसारात् प्रथमाक्षरेणोद्देश्य-कारकस्याभिधानात्, 
+</details>
+
 <details><summary>English</summary>
 
 Since according to the pramāṇas,  
@@ -8075,6 +8191,11 @@ La primera carta (a) **denota** a la persona a quien **se hace** la **rendición
 मध्यमाक्षरम् अन्यार्थम् आगैयालुम्  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+मध्यमाक्षरस्यान्यार्थत्वात्, 
+</details>
+
 <details><summary>English</summary>
 
 and the middle letter (u) has some other meaning (either "only" or Lakṣmī), 
@@ -8095,6 +8216,12 @@ y la letra central (u) **tiene** algún otro significado (ya **sea** "solo" o la
 
 पारिशेष्यत्ताले तृतीयाक्षरम् समर्पणीयमाऩ प्रत्यग्-आत्म-हविस्सैक् काट्ट वेण्डियदाल् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पारिशेष्यात् तृतीयाक्षरेणैव समर्पणीयात्म-विषय(स्य) प्रदर्शनीयत्वात्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8119,6 +8246,11 @@ a saber, el yo individual que **se ofrecerá**.
 
 इव्व् अक्षरत्तुक्कु "अहं" ऎऩ्ऱु पॊरुळ् आगै  
 मिगवुम् उचितम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्याक्षरस्याहम् इत्य् अर्थकत्वम् अत्यन्तम् उचितम् । 
 </details>
 
 <details><summary>English</summary>
@@ -8152,10 +8284,13 @@ Esta (tercera) carta **debería significar** Aham (o yo).
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अत एव किल भट्टार्या  
+इत्थं प्रणवम्, 
+
 > ‘‘अकारार्थायैव स्वम् अहं’’  
 (अष्टश्लोकी ३) 
 
-
+इति व्याचख्युः ॥
 </details>
 
 <details><summary>English</summary>
@@ -8199,6 +8334,13 @@ El significado de namas o namo en tirumantra:
 प्रत्यग्-आत्मावैच् चॊल्लुगिऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एवम् एव नमसि मकारः  
++++(२५-तत्त्वम्, मन्/मा-तः, अस्मत्-सङ्क्षेपः →)+++ त्रिषु [ उक्तेषु ] +अन्यतमेन प्रकारेण  
+प्रत्यग्-आत्मानं प्रतिपादयति । 
+</details>
+
 <details><summary>English</summary>
 
 So also the ma in namas (namo) denotes the individual self in any one of the three ways indicated before  
@@ -8230,6 +8372,14 @@ So also the ma in namas (namo) denotes the individual self in any one of the thr
 "न मम" ऎऩ्ऱद् आयिऱ्ऱु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य षष्ठी-विभक्त्य्-अन्तत्वात्  
+न-कारेण निषेधस्य प्रतिपादनाच् च  
+"न मम" इति सिद्धं भवति । 
+</details>
+
+
 <details><summary>English</summary>
 
 This ma is in the genitive or sixth case ending,  
@@ -8256,6 +8406,13 @@ Entonces **es** equivalente a "Na Mama" (no la mía).
 नञ् मुऩ्ऩे किडक्किऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+निषेधे आदरातिशयं द्योतयितुं  
+नञ् पूर्वं वर्तते । 
+</details>
+
+
 <details><summary>English</summary>
 
 The negation na (not) is placed first to indicate its greater importance  
@@ -8276,6 +8433,12 @@ La negación "na" (no) **se coloca** primero para ब् su mayor importancia
 
 इदु ‘‘दृष्टा सीता’’ ऎऩ्ऩुमाप् पोलेय् इरुक्किऱदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं "दृष्टा सीता" इतिवद् अस्ति ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8299,6 +8462,16 @@ Como en la **oración**, "drishtā Sītā" (**visto fue** Sīta).
 सम्बन्ध-सामान्य-मुखत्ताले  
 उचित-सम्बन्ध-विशेषत्तै विवक्षिक्किऱदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P279]]
+
+अस्मिन् मकारे षष्ठी  
+संबन्ध-सामान्य-मुखेन  
+उचित-संबन्ध-विशेषं विवक्षति ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8328,6 +8501,17 @@ e **implica** (aquí) la forma particular de relación (la de un śeṣa al Śe�
 ऎऩ्ऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अनेनाभिप्रायेण किल भट्टार्यैर् अपि, 
+
+>‘‘अथ मह्यं न’’ 
+
+इत्य्-उक्तम् ।
+</details>
+
+
+
 <details><summary>English</summary>
 
 It is with this idea indeed that Bhattar said, 
@@ -8353,6 +8537,12 @@ Es con esta idea **de hecho** que Bhattar **dijo**:
 वाक्यङ्गळुक्कु अवधारणत्तिले तात्पर्यङ् कॊळ्ळुगैय् उचितम् आगैयाले 
 </details>
 
+
+<details><summary>नीलमेघः (सं)</summary>
+
+वाक्यस्यावधारणे(न) तात्पर्याभ्युपगमस्योचितत्वात् 
+</details>
+
 <details><summary>English</summary>
 
 For all sentences should be considered as expressive of exclusive affirmation (avadharana) 
@@ -8376,6 +8566,8 @@ Para todas las oraciones **debe considerarse expresiva** de la **afirmación** e
 
 ऎऩ्ऩुम् इडम् 
 </details>
+
+
 
 <details><summary>English</summary>
 
@@ -10012,9 +10204,24 @@ y **es apropiado** de diferentes maneras
 अन्योन्यशेषभावेऽपि परस्वातंत्र्यसंभवः । तत्तदाकारभेदेन युक्त इत्युपपादितम् ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि स्व-तन्त्रऩ् आऩ शेषिय् इट्ट-वऴक्क् आय्  
+अकिञ्चनऩ् आय् इरुक्किऱव् इवऩुक्कु  
+अवऩाले पुरुषार्थम् पॆऱ वेण्डुगैयाले
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि स्वतन्त्रऩाऩ शेषियिट्टवऴक्काय् अकिञ्चनऩायिरुक्किऱविवऩुक्कु अवऩाले पुरुषार्थम् पॆऱवेण्डुगैयाले
+</details>
 
 
-Since the jīva who is thus (akiñcana) destitute (of any upāyas) has to receive the desired object from the independent śeṣī in accordance with His will, the prayer for protection (saranavaranam) which is explicitly stated in Dvaya and the Carama śloka for winning His favour is necessary and it is here implicit, in namas of the Tirumantra. Since the surrender of the self and the prayer for protection are inseparable, the word which denotes either denotes also the other and is intended to express both. The word namas is itself (often) employed to stand for the prayer for protection, as may be seen from the following ślokas: "The deity with eyes broad like lotuses that was seen by me before - He has now become (incarnate as) your relative viz. Janārdana, the tiger among men". "Madhava" is both the father and the mother of the whole world. Seek His protection, O best among men, for He is capable of protecting (you)." " When Markandeya gave them this advice, the three sons of Kunti and the twins, O best of the Bharatas, made namaskāra to Janārdana along with Droupadi ", so also in the episode of Damayanti (we find the following); "She considered that the time had come to seek refuge of the gods. So she made namaskara with (all) her speech and (all) her mind." (Since namas has been used to signify the prayer for protection ), it indicates that the responsibility for protecting oneself is not of the jīva (na mama bharah), where the word bharah (the burden of responsibility) is understood. Thus its purport may also be the surrender of responsibility. That the word namas indicates the surrender of self (atna samarpanam) is also wellknown from the following ślokas : "Of all yajnas which's are performed with samit and such like as an aid, the man who has surrendered his self (ātma samarpana) to Bhagavān with the word namas is said to have performed the best Yajna," and "I bow to Bhagavān, for namas (bowing) or atma samarpaṇam to Him enables a man to get rid of his suffering and enjoy whatever he wants ".
+Since the jīva who is thus (akiñcana) destitute (of any upāyas) has to receive the desired object from the independent śeṣī in accordance with His will,  
+the prayer for protection (saranavaranam) which is explicitly stated in Dvaya and the Carama śloka for winning His favour is necessary  
+and it is here implicit, in namas of the Tirumantra. 
+
+Since the surrender of the self and the prayer for protection are inseparable, the word which denotes either denotes also the other and is intended to express both. The word namas is itself (often) employed to stand for the prayer for protection, as may be seen from the following ślokas: "The deity with eyes broad like lotuses that was seen by me before - He has now become (incarnate as) your relative viz. Janārdana, the tiger among men". "Madhava" is both the father and the mother of the whole world. Seek His protection, O best among men, for He is capable of protecting (you)." " When Markandeya gave them this advice, the three sons of Kunti and the twins, O best of the Bharatas, made namaskāra to Janārdana along with Droupadi ", so also in the episode of Damayanti (we find the following); "She considered that the time had come to seek refuge of the gods. So she made namaskara with (all) her speech and (all) her mind." (Since namas has been used to signify the prayer for protection ), it indicates that the responsibility for protecting oneself is not of the jīva (na mama bharah), where the word bharah (the burden of responsibility) is understood. Thus its purport may also be the surrender of responsibility. That the word namas indicates the surrender of self (atna samarpanam) is also wellknown from the following ślokas : "Of all yajnas which's are performed with samit and such like as an aid, the man who has surrendered his self (ātma samarpana) to Bhagavān with the word namas is said to have performed the best Yajna," and "I bow to Bhagavān, for namas (bowing) or atma samarpaṇam to Him enables a man to get rid of his suffering and enjoy whatever he wants ".
 
 That the word namas has these meanings, viz., “I do not belong to myself; nor is any activity of mine śeṣa to me; all these are śeṣa only to Bhagavān," is stated in the section on the namaskāra in Nirukti.
 
