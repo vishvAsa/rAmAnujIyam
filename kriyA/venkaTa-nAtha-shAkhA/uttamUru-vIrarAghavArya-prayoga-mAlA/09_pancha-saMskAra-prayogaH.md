@@ -38,7 +38,14 @@ title = "पञ्चसंस्कारप्रयोगः"
 
 </div>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2_gavAm-ayanAdi/1/267_sapratha_sabhAm.md">
+
+सप्र॑थ स॒भाम् मे॑ गोपाय ।  
+ये च॒ सभ्या॑स् सभा॒सदः॑ ।  
+तानि॑न्द्रि॒याव॑तᳵ कुरु ।  
+सर्व॒म् आयु॒र् उपा॑सताम् ।
+
+</div>  
 
 > …गोत्रं ...  शर्माणं भगवद्-दासभूतम् आज्ञाऽनुज्ञा-कैङ्कर्य-योग्यता-सिद्ध्य्-अर्थं तप्त-सुदर्शन-पाञ्चजन्य-धारण--ऊर्ध्व-पुण्ड्र-धारण--दास्य-नाम-करण--मन्त्रोपदेश--यागो-पदेशैः पञ्चभिः संस्कारैः संस्कर्तुं योग्यता-सिद्धिम् अनुगृहाण 
 
@@ -986,10 +993,6 @@ title = "पञ्चसंस्कारप्रयोगः"
 ते᳓न +++(वक्ष्यमाणा)+++ देवा᳓ **अयजन्त** -  
 +++(अविशिष्टा नानापात्रेषु पश्चात्)+++ साध्या᳓ ऋ᳓षयश् च ये᳓ । ८
 
-<details><summary>वि᳓श्वा᳓स᳓-टि᳓प्प᳓नी᳓</summary>
-
-अ᳓य᳓ज᳓न्त᳓ इ᳓त्य᳓त्र᳓ - अ᳓का᳓र᳓ उ᳓दा᳓त्तः᳓ तै᳓त्ति᳓री᳓ये᳓ - 'च᳓वा᳓यो᳓गे᳓ प्र᳓थ᳓मा᳓'।
-</details>
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/09_tasmAdyajnAtsarvahutaH_sambhRtaM.md">

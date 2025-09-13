@@ -9716,10 +9716,10 @@ nor can it be avoided (or resisted).
 
 <details><summary>Español</summary>
 
-Si el Señor que es el Śeṣī, y que es independiente (y todo poderoso)
-se complace en hacernos Śeṣas a sus buenos devotos,
-No se puede llamar inapropiado o inapropiado;
-ni se puede evitar (o resistir).
+Si el Señor que **es** el Śeṣī, y que **es** independiente (y todo poderoso)  
+**se complace** en **hacernos** Śeṣas a sus buenos devotos,  
+**No se puede llamar** inapropiado o inapropiado;  
+**ni se puede evitar** (o **resistir**).
 </details>
 
 
@@ -9729,11 +9729,70 @@ ni se puede evitar (o resistir).
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+शेषिय् आगैयाले इष्ट-विनियोगत्तुक्कुप् प्राप्तऩ्;  
+स्वतन्त्रऩ् +++(→सर्व-शक्तिमान्)+++ आगैयाले इदुक्कु समर्थऩ्।
+</details>
+
+<details><summary>English</summary>
 
 Since He is śeṣī,  
 He has a right to employ us in whatever He desires,  
-and since He is all powerful, He can enforce it. This idea may also be seen in the (Tamil) verse :- "I will never" associate with those who think that there is any deity other than Thee. But gladly do I accept (the privilege of) being servant to Thy devotees."
+and since He is all powerful,  
+He can enforce it. 
+</details>
+
+<details><summary>Español</summary>
+
+Ya que él **es** Śeṣī,  
+**Tiene** derecho a **emplearnos** en lo que desee,  
+y como él **es** todo poderoso,  
+Él **puede hacer cumplirlo**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शेषियागैयाले इष्टविनियोगत्तुक्कुप् प्राप्तऩ्; स्वतन्त्रऩागैयाले इदुक्कु समर्थऩ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "मऱ्ऱुम् ओर् दॆय्वम् उळद्" ऎऩ्ऱ् इरुप्पारोड् **उऱ्ऱ्+++(=अङ्गीकारः)+++-इलेऩ्**  
+**उऱ्ऱदुम्** उऩ्ऩ्-अडियार्क्क् **अडिमैय्**'  
++++(इत्य् अष्टाक्षरोपदेशः!)+++  
+(पॆरियदिरुमॊऴि ८-१०-३।)  
+
+ऎऩ्गिऱ पाट्टिलुम् इव्व्-अर्थङ् गण्डु-गॊळ्वदु।
+</details>
+
+<details><summary>English</summary>
+
+This idea may also be seen in the (Tamil) verse :- 
+
+> "I will never associate with those who think that  
+there is any deity other than Thee.  
+But gladly do I accept (the privilege of) being servant to Thy devotees."
+</details>
+
+<details><summary>Español</summary>
+
+Esta idea también **se puede ver** en el verso (tamil):-
+
+> "Nunca **me asociaré** con aquellos que **piensan** que  
+**Hay** una deidad que **no sea**.  
+Pero con gusto **acepto** (el privilegio de) **ser sirviente** de tus devotos ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’मऱ्ऱुमोर् तॆय्वमुळदॆऩ्ऱिरुप्पारोडुऱ्ऱिलेऩुऱ्ऱदुमुऩ्ऩडियार्क् कडिमै’’(पॆरियदिरुमॊऴि ८-१०-३) यॆऩ्गिऱ पाट्टिलुमिव्वर्थङ्गण्डुगॊळ्वदु।
+</details>
+
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 

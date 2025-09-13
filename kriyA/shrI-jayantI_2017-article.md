@@ -55,13 +55,13 @@ We shall look into Śrījayantī Tiruvārādhanam and the associated anuṣṭh�
 - Some have different opinion on this.
 - Whatever it is, tamarind should not be used at all during pāraṇai.+++(5)+++
 
-## Tiruvārādhanam
+### Tiruvārādhanam
 
 - During Tiruvārādhanam saṅkalpa, one should chant kr̥taṁ ca ....śrījayantī puṇyakāle śrīkr̥ṣṇārādhanākhyena bhagavat-karmaOā bhagavantaṁ vāsudevaṁ arcayiśyāmi.
 - During mantrāsana samarpaṇa, lokanāthasya kr̥ṣṇasya jayantī samupāgatā should be recited followed by śloka-s such as saṁbhr̥tāḥ.
 - Special tirumañjanam should be performed with fresh cow’s milk.
 - A special arghya is offered after offering dhūpadīpam during alaṅkārāsanam. The method to offer the arghya is explained in a later paragraph.
-- This is followed by mantrapuLpam, arcanam and stotram.
+- This is followed by mantrapuShpam, arcanam and stotram.
 - Later during bhojyāsanam, various delicacies along with curds and butter are to be offered. 
 - Fruits, beetle leaves and nuts are offered during punarmantrāsanam.
 - Special dīpa-ārati, sār̥r̥umur̥ai are performed.
@@ -103,9 +103,29 @@ devakyā sahito hare.
 - These śloka-s are mantra-s; hence, śrī tirukkuḍantai deśikan says these must be learned from a preceptor.
 
 ## Śrimad Ahobila Maṭha Sampradāyam:
-- In the month of āvaOi, śrījayantī is on the day when kr̥ṣṇa pakṣa aṣṭamī tithī and Rohiṇī nakṣatram occur together; but they must be associated with saptamī or kr̥ttikai even for a second. Untainted combination of aṣṭamī and Rohiṇī is required. 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> सिंहमासे कृष्णपक्षे  
+सूर्योदयानन्तरं कलामान-सप्तमी-वेध-रहित अष्टमी-युक्तायां  
+सूर्योदयानन्तरं कला-मात्र-कृत्तिका-वेध-रहितायां रोहिण्यां
+>
+> शुद्धाष्टमी-सहित-शुद्ध-रोहिण्य्-अ-लाभे  
+शुद्ध-रोहिणी-सहित-नवम्यां वा,
+>
+> तयोर् अप्य् अलाभे, मृग-शीर्ष-सहित-नवम्यां दशम्यां वा
+>
+> वृषभ-लग्ने श्री-कृष्ण-जयन्ती विशेषाराधनं कृत्वा,  
+उत्सवान्ते पारणं कुर्यात् ।  
+> 
+> इति श्रीवैष्णवसदाचारनिर्णये। 
+</details>
+
+
+- In the month of āvaNi, śrījayantī is on the day when kr̥ṣṇa pakṣa aṣṭamī tithī and Rohiṇī nakṣatram occur together; but they must be associated with saptamī or kr̥ttikai even for a second. Untainted combination of aṣṭamī and Rohiṇī is required. 
 - If such a day is unavailable, the next day, on navamī, if aṣṭamī tithī and Rohiṇī nakṣatram occur together and are untainted, Śrījayantī is on that day.
 - Even if this combination is unavailable, the day on which mr̥gasīrśa nakṣatram occur together with navamī or daśamī tithī, Śrījayantī is on that day.
+
 - Taking bath, pārāyaṇam and Tiruvārādhanam should be performed at vr̥ṣabha lagna.
 - There is no requirement to fast separately on Śrījayantī.
 - No special arghya is offered during the Tiruvārādhanam at nighttime.
