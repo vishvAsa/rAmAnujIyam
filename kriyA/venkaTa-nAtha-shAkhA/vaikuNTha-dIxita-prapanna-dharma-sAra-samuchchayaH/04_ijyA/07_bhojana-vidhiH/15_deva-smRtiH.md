@@ -51,7 +51,7 @@ title = "१५ देव-स्मृतिः"
 ## ३२-३६ प्राणे निविष्टः …{Loading}…
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/01_amRtopastaraNam.md">
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒मृ॒तो॒प॒स्तर॑णमसि । (47)
 </details>
@@ -63,7 +63,7 @@ title = "१५ देव-स्मृतिः"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/02_prANAhutir_laghuH.md">
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा॒णे निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । प्रा॒णाय॒ स्वाहा॑ ।  
 अ॒पा॒ने निवि॑ष्टो॒ऽमृत॑ञ्जुहोमि । अ॒पा॒नाय॒ स्वाहा॑ ।  
@@ -83,7 +83,7 @@ title = "१५ देव-स्मृतिः"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/04_brahmaNi_ma.md">
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (48)
 </details>
@@ -95,7 +95,7 @@ title = "१५ देव-स्मृतिः"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/03_prANAhutir_dIrghaH.md">
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रा॒णे निवि॑ष्टो॒ ऽमृत॑ञ्जुहोमि।  
 शि॒वो मा॑ ऽऽवि॒शाऽप्र॑दाहाय।  
@@ -143,7 +143,7 @@ title = "१५ देव-स्मृतिः"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/04_brahmaNi_ma.md">
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (48)
 </details>
@@ -155,7 +155,7 @@ title = "१५ देव-स्मृतिः"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/05_amRtApidhAnam.md">
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अ॒मृ॒ता॒पि॒धा॒नम॑सि । (50)
 </details>
@@ -167,7 +167,7 @@ title = "१५ देव-स्मृतिः"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/06_hutam.md">
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 - श्र॒द्धायां॑ प्रा॒णे निवि॑श्या॒मृतँ॑ हु॒तम्, प्रा॒णम् अन्ने॑नाप्यायस्व ।
 - अ॒पा॒ने निवि॑श्या॒मृतँ॑ हु॒तम्, अ॑पा॒नम् अन्ने॑नाप्यायस्व ।
@@ -192,7 +192,7 @@ title = "१५ देव-स्मृतिः"
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/yajuH/sarva-prastutiH/06_mahA-nArAyaNopaniShat/32-36_prANe_niviShTaH/04_brahmaNi_ma.md">
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रह्म॑णि म आ॒त्माऽमृ॑त॒त्वाय॑ । (48)
 </details>

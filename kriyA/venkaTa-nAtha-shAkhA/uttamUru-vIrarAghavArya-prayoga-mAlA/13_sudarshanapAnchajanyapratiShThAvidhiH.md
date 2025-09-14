@@ -5336,7 +5336,7 @@ Durch Opfer opferten die Götter das Opfer; das waren die ersten Bräuche; sie, 
 
 ###### परिपूर्णपुरुषध्यानम्
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 ह्री᳓श् च ते लक्ष्मी᳓श् च प᳓त्न्यौ ।  
 अहोरात्रे᳓ पार्श्वे᳓ ।  

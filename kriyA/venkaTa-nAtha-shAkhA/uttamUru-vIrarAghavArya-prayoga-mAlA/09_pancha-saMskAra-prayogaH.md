@@ -13,7 +13,7 @@ title = "पञ्चसंस्कारप्रयोगः"
 नम॒स्सद॑से॒ नम॒स्सद॑स॒स्पत॑ये॒ नम॒स्सखी॑नाम्पुरो॒गाणा॒ञ्चक्षु॑षे॒ नमो॑ दि॒वे नमᳶ॑ पृथि॒व्यै
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 नम॒स् सद॑से॥  
 नम॒स् सद॑स॒स्-पत॑ये॥    
@@ -59,7 +59,7 @@ title = "पञ्चसंस्कारप्रयोगः"
 इति संकल्प्य,
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/devaH/AryaH/hindukaH/viShNuH/padyam/shuklAmbara-dharaM.md">
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुक्लाम्बरधरं विष्णुं  
 शशिवर्णं चतुर्भजम् ।  
@@ -77,7 +77,7 @@ title = "पञ्चसंस्कारप्रयोगः"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/devaH/AryaH/hindukaH/viShvaksenaH/padyam/yasya_dvirada-vaktrAdyAH.md">
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य द्वि-रद-वक्त्राद्याः  
 पारिषद्याः परश्शतम् ।  
@@ -518,7 +518,7 @@ title = "पञ्चसंस्कारप्रयोगः"
 अ॒ग्निरायु॑ष्मा॒न्त्स वन॒स्पति॑भि॒रायु॑ष्मा॒न्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि॒ सोम॒ आयु॑ष्मा॒न्त्स ओष॑धीभिर्य॒ज्ञ आयु॑ष्मा॒न्त्स दक्षि॑णाभि॒र्ब्रह्मायु॑ष्म॒त्तद्ब्रा॑ह्म॒णैरायु॑ष्मद्दे॒वा आयु॑ष्मन्त॒स्ते॑ऽमृते॑न पि॒तर॒ आयु॑ष्मन्त॒स्ते स्व॒धयायु॑ष्मन्त॒स्तेन॒ त्वायु॒षायु॑ष्मन्तङ्करोमि ॥ [40]
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(हे यजमान)+++  
 अ॒ग्निर् आयु॑ष्मा॒न् ,   
@@ -1062,11 +1062,23 @@ title = "पञ्चसंस्कारप्रयोगः"
 <details><summary>तैत्तिरीयक-योगः (द्रष्टुं नोद्यम्)</summary>
 
 ###### पुरुषस्तुतिः, यज्ञस्तुतिः
-वेदा॒हम् ए॒तं पुरु॑षं म॒हान्त॑म् । आ॒दि॒त्यव॑र्णं॒ तम॑सस् तु॒ पा॒रे ।  
-सर्वा॑णि रू॒पाणि॑ वि॒चित्य॒ धीरः॑ । नामा॑नि कृ॒त्वाऽभि॒वद॒न् यद् आस्ते॑ । १६
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/16_vedAham_etam.md">
 
-धा॒ता पु॒रस्ता॒द् यम् +++(पुरुषम्)+++ उ॑दाज॒हार॑,, श॒क्रः प्रवि॒द्वान् प्र॒दिश॒श् चत॑स्रः ।  
-तम् ए॒वं वि॒द्वान् अ॒मृत॑ इ॒ह भ॑वति । नान्यः पन्था॒ अय॑नाय विद्यते । १७
+वे᳓दाह᳓म् एतं᳓ पु᳓रुषं महा᳓न्तम् ।  
+आदित्य᳓वर्णं त᳓मसस् तु पारे᳓ ।  
+स᳓र्वाणि रूपा᳓णि विचि᳓त्य धी᳓रः ।  
+ना᳓मानि कृत्वा᳓ ऽभिव᳓दन् य᳓द् आ᳓स्ते । १६
+
+</div>
+
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/Rk/vishvAsa-prastutiH/03_chAturhotra-chayanAdi/12_sahasra-shIrShA/17_dhAtA_purastAt.md">
+
+धाता᳓ पुर᳓स्ताद् य᳓म् +++(पुरुषम्)+++ उदाजहा᳓र,,  
+शक्रः᳓ प्र᳓ विद्वा᳓न् प्रदि᳓शश् च᳓तस्रः ।  
+त᳓म् एवं᳓ विद्वा᳓न् अमृ᳓त इह᳓ भवति ।  
+ना᳓न्यः᳓ प᳓न्था अ᳓यनाय विद्यते । १७
+
+</div>
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/16_yajnena_yajnamayajanta.md">
@@ -1221,7 +1233,7 @@ title = "पञ्चसंस्कारप्रयोगः"
 +++(ॐ केशवाय नमः। ओं माधवाय नमः … इत्यादि १२।)+++
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/AgamaH_vaiShNavaH/prakIrNa-mantrAdi/padyam/chatush-chakram/">
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 _चतुश्-चक्रं_ नमस्यामि  
 **केशवं** कनक-प्रभम् ।
@@ -1236,7 +1248,7 @@ _चतुश्-शङ्खं_ नमाम्य् अहम् ॥
 नारायणं घनश्यामं चतुःशङ्खं नमाम्यहम् ॥ १॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **माधवं** मणि-भङ्गाभं  
 चिन्तयामि _चतुर्-गदम्_ ।
@@ -1251,7 +1263,7 @@ _चतुश्-शङ्खं_ नमाम्य् अहम् ॥
 चन्द्रभासं चतुः शार्ङ्गं गोविन्दमपि संश्रये ॥ २॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **विष्णुं** _चतुर्-हलं_ वन्दे  
 पद्म-किञ्जल्क+++(=केसर)+++-सन्निभम् ।
@@ -1266,7 +1278,7 @@ _चतुर्-मुसलम्_ अब्जाभं
 चतुर्मुसलमब्जाभं संश्रये मधुसूदनम् ॥ ३॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्नि-वर्णं _चतुः-खड्गं_  
 भावयामि **त्रि-विक्रमम्** ।
@@ -1281,7 +1293,7 @@ _चतुर्-वज्रं_ विभावये॥
 वामनं बालसूर्याभं चतुर्वज्रं विभावये ॥ ४॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 **श्रीधरं** पुण्डरीकाभं  
 _चतुःपट्टं_ समाश्रये ।
@@ -1296,7 +1308,7 @@ _चतुर्-मुद्गरम्_ अभ्येमि
 चतुर्मुद्गरमभ्येमि हृषीकेशं तटित्प्रभम् ॥ ५॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 _पञ्चायुधं_ **पद्म-नाभं**  
 प्रणमाम्य् अर्क-रोचिषम् ।
@@ -1311,7 +1323,7 @@ _पञ्चायुधं_ **पद्म-नाभं**
 दामोदरं चतुःपाशं इन्द्रगोपनिभं भजे ॥ ६॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
 
 वासुदेवम् उपासेऽहं  
 पूर्णेन्द्व्-अयुत-सन्निभम् ।।

@@ -53,8 +53,6 @@ how then can we refuse to accept the authority of a tradition which derives from
 ### प्रमाणान्तर-गोचरता-सम्भावना न बाधते
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="../../aMshaH/na_cha_siddhe">
 
-#####  …{Loading}…
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **न** च +++(ईश्वर-निभे)+++ सिद्धे वस्तुनि  
