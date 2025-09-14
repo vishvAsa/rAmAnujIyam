@@ -10860,17 +10860,213 @@ Por lo tanto, su **pretensión** también **puede ser** la **rendición** de la 
 
 ### आत्म-समर्पणे लक्ष्याणि
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नमस्सु आत्म-समर्पण-परम् आय् इरुक्कुम् 
+
+ऎऩ्ऩुम् इडम् 
+</details>
+
+<details><summary>English</summary>
+
+That the word namas indicates the surrender of self (atma samarpanam) is also wellknown from the following ślokas :
+</details>
+
+<details><summary>Español</summary>
+
+Que la palabra namas **indica** la **rendición** de uno mismo (atma samarpanam) también **es** bien **conocida** a partir de los **siguientes** Ślokas:
+</details>
+
+<details><summary>मूलम्</summary>
+
+नमस्सु आत्मसमर्पणपरमायिरुक्कुमॆऩ्ऩुम् इडम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘समित्-साधनकादीनां  
+यज्ञानां +++(अपेक्षया)+++ **न्यासम्** आत्मनः ।  
+नमसा यो **ऽकरोद्** देवे  
+स स्व्-अध्वर **इतीरितः**॥’’  
+(अहिर्बुध्न्य-सम् ३७-३७),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘समित्-साधनकादीनां  
+यज्ञानां +++(अपेक्षया)+++ **न्यासम्** आत्मनः ।  
+नमसा यो **ऽकरोद्** देवे  
+स स्व्-अध्वर **इतीरितः**॥’’  
+(अहिर्बुध्न्य-सम् ३७-३७),
+</details>
+
+<details><summary>विषयः</summary>
+
+आत्म-समर्पणम्
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> यः᳓ समि᳓धा य᳓ आ᳓हुती  
+यो᳓ वे᳓देन **ददा᳓श** म᳓र्तो अग्न᳓ये  
+यो᳓ न᳓मसा सु-अध्वरः᳓
+
+इत्य् ऋग्वेदे। 
+</details>
 
 
-That the word namas indicates the surrender of self (atma samarpanam) is also wellknown from the following ślokas : "Of all yajnas which's are performed with samit and such like as an aid, the man who has surrendered his self (ātma samarpana) to Bhagavān with the word namas is said to have performed the best Yajna," and "I bow to Bhagavān, for namas (bowing) or atma samarpaṇam to Him enables a man to get rid of his suffering and enjoy whatever he wants ".
+<details><summary>English</summary>
 
-That the word namas has these meanings, viz., “I do not belong to myself; nor is any activity of mine śeṣa to me; all these are śeṣa only to Bhagavān," is stated in the section on the namaskāra in Nirukti.
+> "Of all yajnas which's are performed with samit and such like as an aid,  
+the man who has surrendered his self (ātma samarpana) to Bhagavān with the word namas  
+is said to have performed the best Yajna," 
+</details>
 
-THE THREE MEANINGS OF NAMAS:
+<details><summary>Español</summary>
 
-Sthula, Sukṣma and Para :
+> "De todas las yajnas, que **se realizan** con Samit y como una **ayuda**,  
+El hombre que **se ha entregado** a sí mismo (ātma samarpana) a bhagavān con la palabra namas  
+**se dice** que **ha realizado** el mejor Yajna ",
+</details>
 
-Ahirbhudnya (Siva) commented on the word namas as having three different meanings : a gross meaning (sthūlārtha) a subtle meaning (suīkṣmārtha), and a supreme meaning (para), in the following ślokas :
+<details><summary>मूलम्</summary>
+
+‘‘समित्साधनकादीनां यज्ञानां न्यासमात्मनः । नमसा योऽकरोद्देवे स स्वध्वर इतीरितः॥’’(अहिर्बुध्न्य-सम् ३७-३७),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नमस्-कारात्मकं यस्मै  
+विधायात्म-निवेदनम्॥’’  
+(मन्त्र-राज-पद-स्तोत्रम्)  
+
+इत्य्-आदिगळालुम् प्रसिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नमस्-कारात्मकं यस्मै  
+विधायात्म-निवेदनम्॥’’  
+(मन्त्र-राज-पद-स्तोत्रम्)  
+
+
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "I bow to Bhagavān,  
+for namas (bowing) or atma samarpaṇam to Him enables a man to get rid of his suffering  
+and enjoy whatever he wants ".
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "Me **inclino** ante Bhagavān,  
+porque namas (inclinarse) o atma samarpaṇam para él le **permite** a un hombre **deshacerse** de su sufrimiento  
+y **disfruta** de lo que **quiera** ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नमस्कारात्मकं यस्मै विधायात्मनिवेदनम्॥’’(मन्त्र-राज-पद-स्तोत्रम्)  इत्यादिगळालुम् प्रसिद्धम्। 
+</details>
+
+## नमस्य् अर्थ-त्रयम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(प्रणवम् ओर् अक्षरम् आय् इरुप्पद्  
+ऒरु पदम् आय् इरुक्कव्  
+अक्षर-त्रयम् आक्कि  
+इव्व् अक्षरङ्गळैत् तऩित्-तऩिये पदङ्गळ् आगक् कॊण्डु  
+ऒरु वाक्यार्थम् अनुसन्धिक्कैयुम्,  
+
+"नमस्स्" ऎऩ्ऱु प्रणाम-वाचिय् आय् इरुप्पद् ऒरु अव्ययम् आय् इरुक्क  
+इत्तै विभजित्तु वाक्यार्थङ् गॊळ्ळुगैयुम्  
+निरुक्त-बलत्ताले पॆऱ्ऱदु।)
+</details>
+
+<details><summary>मूलम्</summary>
+
+(प्रणवमोरक्षरमायिरुप्पदॊरु पदमायिरुक्क वक्षरत्रयमाक्कि इव्वक्षरङ्गळैत् तऩित्तऩिये पदङ्गळागक्कॊण्डु ऒरु वाक्यार्थमनुसन्धिक्कैयुम्, नमस्सॆऩ्ऱु प्रणामवाचियायिरुप्पदॊरु अव्ययमायिरुक्क इत्तै विभजित्तु वाक्यार्थङ्गॊळ्ळुगैयुम् निरुक्तबलत्ताले पॆऱ्ऱदु।)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नाऩुम् ऎऩक्क् उरियेऩ् अल्लेऩ्,  
+
+> ऎऩ्ऩुडैयद् आऩ व्यापारादिगळुम् ऎऩक्कु शेषम् अऩ्ऱु; 
+
+> इवैय् ऎल्लाम् सर्वेश्वरऩुक्के शेषम् 
+
+ऎऩ्ऱ् इवै मुदल् आऩव् अर्थङ्गळ् ऎल्लाम् नमश्शब्दत्तिले विवक्षितमॆऩ्ऩुमिडम् निरुक्तत्तिल् नमस्कारप्रकरणत्तिलेयोदप्पट्टदु। 
+</details>
+
+<details><summary>English</summary>
+
+That the word namas has these meanings, viz.,  
+
+> “I do not belong to myself;  
+nor is any activity of mine śeṣa to me;  
+all these are śeṣa only to Bhagavān," 
+
+is stated in the section on the namaskāra in Nirukti.
+</details>
+
+<details><summary>Español</summary>
+
+Que la palabra namas **tiene** estos significados, a saber,
+
+> “**No me pertenezco** a mí mismo;  
+ni ninguna actividad mía **es** Śeṣa para mí;  
+Todos estos **son** Śeṣa solo para Bhagavān ",
+
+**se establece** en la sección del Namaskāra en Nirukti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नाऩु मॆऩक्कुरियेऩल्लेऩ्, ऎऩ्ऩुडैयदाऩ व्यापारादिगळुमॆऩक्कु शेषमऩ्ऱु; इवैयॆल्लाम् सर्वेश्वरऩुक्के शेषम् ऎऩ्ऱिवै मुदलाऩ वर्थङ्गळॆल्लाम् नमश्शब्दत्तिले विवक्षितमॆऩ्ऩुमिडम् निरुक्तत्तिल् नमस्कारप्रकरणत्तिलेयोदप्पट्टदु। 
+</details>
+
+
+<details><summary>English</summary>
+
+THE THREE MEANINGS OF NAMAS: Sthula, Sukṣma and Para 
+</details>
+
+<details><summary>Español</summary>
+
+Los tres significados de Namas: Sthula, Sukṣma y Para
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन् नमश्-शब्दत्तुक्कु  
+स्थूल-सूक्ष्म-परङ्गळ्  
+ऎऩ्ऱु मूऩ्ऱ् अर्थङ्गळै वगुत्तु+++(=विभज्य)+++  
+अहिर्बुध्न्यऩ् व्याख्यानम् पण्णिऩाऩ्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन् नमश्शब्दत्तुक्कु स्थूलसूक्ष्मपरङ्गळॆऩ्ऱु मूऩ्ऱर्थङ्गळै वगुत्तु अहिर्बुध्न्यऩ् व्याख्यानम् पण्णिऩाऩ्।
+</details>
+
+
+
+
+
+Ahirbhudnya (Siva) commented on the word namas as having three different meanings :  
+a gross meaning (sthūlārtha)  
+a subtle meaning (suīkṣmārtha),  
+and a supreme meaning (para), in the following ślokas :
 
 I. STHULĀRTHA :
 
