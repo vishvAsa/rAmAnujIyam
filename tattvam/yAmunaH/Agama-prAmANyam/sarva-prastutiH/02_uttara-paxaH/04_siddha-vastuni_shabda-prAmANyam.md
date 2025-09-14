@@ -2123,8 +2123,6 @@ are authoritative as to what they state, since they produce indubitable and unre
 ## सम्भावितानुवाद-विपर्ययौ
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="../../aMshaH/na_cha_siddhe">
 
-#####  …{Loading}…
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **न** च +++(ईश्वर-निभे)+++ सिद्धे वस्तुनि  

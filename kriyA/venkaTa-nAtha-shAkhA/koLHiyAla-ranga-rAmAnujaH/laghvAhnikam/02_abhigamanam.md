@@ -47,7 +47,25 @@ title = "०२ अभिगमनम्"
 इति मन्त्रेण कैङ्कर्य-प्रतिबन्धक-निवृत्तिं प्रार्थ्य,  
 
 ## गुरुध्यानम्
-<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/asmad-deshikam_trayI.md"></div>  
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/asmad-deshikam_trayI.md">
+
+<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्मद्-देशिकम् अस्मदीय-परमाचार्यान् अशेषान् त्रयी-  
+चूडा-देशिक--तद्-गुरुन्, यति-वरं, पूर्णं मुनिं, यामुनम् ।  
+रामं, पद्म-विलोचनं, मुनिवरं नाथं, शठद्वेषिणं,  
+सेनेशं, श्रियम्, इन्दिरा-सहचरं नारायणं संश्रये ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+अस्मद्देशिकमस्मदीयपरमाचार्यानशेषान्त्रयी  
+चूडादेशिकतद्गुरुन्, यतिवरं, पूर्णं मुनिं, यामुनम्।  
+रामं पद्मविलोचनं, मुनिवरं नाथं, शठद्वेषिणं,  
+सेनेशं, श्रियमिन्दिरासहचरं, नारायणं संश्रये ॥
+</details>
+
+</div>  
 
 इति गुरु-परम्पराम् अनुसन्धाय, 
 

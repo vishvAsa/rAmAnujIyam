@@ -34,7 +34,7 @@ Una breve descripción de la sucesión de ācāryas
 </details>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/venkaTanAthaH/sIr-oNDru.md">
-<details open><summary><h5>सीर् ऒण्ड्रु ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 सीर्+++(=सुगुणः)+++-ऒण्ड्रु+++(=प्राप्त)+++--तूप्-पुल्+++(=दर्भ[-कुल])+++-- तिरु-वेङ्गडम्-उडैयान्  
@@ -51,11 +51,11 @@ Una breve descripción de la sucesión de ācāryas
 तानेयमैयादो तारणियिल् वाऴ्वार्क्कु  
 वानेऱप्पोमळवुम् वाऴ्वु.
 </details>
-</details>
+
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md">
-<details open><summary><h5>गुरुभ्यस् तद्-गुरुभ्यश् च ...{Loading}...</h5></summary>
+
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 गुरुभ्यस् तद्-गुरुभ्यश् च  
@@ -96,7 +96,7 @@ y los medios de alcanzarlo).
 
 [^es1]: Un śeṣa es aquel que existe únicamente para los propósitos de otro. Ese otro es Śeṣī.
 </details>
-</details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
