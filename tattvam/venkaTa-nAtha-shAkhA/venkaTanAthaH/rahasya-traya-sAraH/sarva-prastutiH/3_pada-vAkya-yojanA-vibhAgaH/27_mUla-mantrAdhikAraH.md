@@ -11058,7 +11058,7 @@ Los tres significados de Namas: Sthula, Sukṣma y Para
 
 Ahirbhudnya (Siva) commented on the word namas as having three different meanings :  
 a gross meaning (sthūlārtha)  
-a subtle meaning (suīkṣmārtha),  
+a subtle meaning (sūkṣmārtha),  
 and a supreme meaning (para), in the following ślokas :
 
 </details>
@@ -11067,7 +11067,7 @@ and a supreme meaning (para), in the following ślokas :
 
 Ahirbhudnya (Siva) **comentó** que la palabra namas **tiene** tres significados diferentes:  
 Un significado asqueroso (sthūlārtha)  
-un significado sutil (Suīkṣmārtha),  
+un significado sutil (Sūkṣmārtha),  
 y un significado supremo (para), en los siguientes Ślokas:
 </details>
 
