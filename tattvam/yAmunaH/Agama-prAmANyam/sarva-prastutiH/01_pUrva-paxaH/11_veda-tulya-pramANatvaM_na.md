@@ -236,7 +236,7 @@ the mountain has fire, because it has smoke.
 
 <details><summary>Buitenen - Notes</summary>
 
-avatara "descent, emergence." The meaning is as follows: Dharma is by definition that action which leads to a certain end by suprasensible law. Since the process (the Incans-end?? relation) is suprasensible, there can be no other authority for it than Scriptural authority. 
+avatara "descent, emergence." The meaning is as follows: Dharma is by definition that action which leads to a certain end by suprasensible law. Since the process (the incarnation) is suprasensible, there can be no other authority for it than Scriptural authority. 
 </details>
 
 <details><summary>मूलम्</summary>

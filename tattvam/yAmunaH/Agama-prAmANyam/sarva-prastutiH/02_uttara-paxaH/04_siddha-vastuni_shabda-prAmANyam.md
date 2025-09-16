@@ -864,7 +864,7 @@ since that would mean over-extension.
 
 <details><summary>Buitenen - Note</summary>
 
-140: a?? sthāyi; the Prābhākara view is that the kārya has a lasting efficacy  
+140: sthāyi; the Prābhākara view is that the kārya has a lasting efficacy  
 beyond the inevitably transient action it involves;  
 for the kārya must remain in order to effect the fruit of the action  
 at any time after the completion of the action.  

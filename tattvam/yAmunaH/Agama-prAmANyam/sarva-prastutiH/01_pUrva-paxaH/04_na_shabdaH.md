@@ -1026,7 +1026,6 @@ even to the extent of cancelling all connotations which we have learnt?
 
 <details><summary>Buitenen - Notes</summary>
 
-adhyayanasiddhabuddhyangato??abkangenāpi.  
 Such a "connotation" is, for example, that the rathakara in the literal sense of cartwright  
 is disqualified for Vedic ritual,  
 because a cartwright is a śūdra;  
@@ -1656,8 +1655,8 @@ Atri, too, very explicitly declares that they are not Brahmins:
 not in Atrismr̥ti:  
 Avaluka is unknown to me.  
 kalpa devalaka can be explained as a professional kalpa priest,  
-kalpa either in the sense of ("unorthodox) ritual," or 'astrological mansion"; gapabhogadevalaka is likewise obscure,  
-but probably refers to unorthodox priest engaged in gap??a worship.
+kalpa either in the sense of "(unorthodox) ritual," or 'astrological mansion'; gaNabhogadevalaka is likewise obscure,  
+but probably refers to unorthodox priest engaged in gaNa worship.
 </details>
 
 

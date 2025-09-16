@@ -140,11 +140,6 @@ for we know from experience
 that knowledges exceed one another as their contents exceed one another. 
 </details>
 
-<details><summary>Buitenen - Notes</summary>
-
-jagati or toke??: "in the world of experience, in common experience." 
-</details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -265,7 +260,7 @@ as between colour and coloured, obtain in one object.
 <details><summary>Buitenen</summary>
 
 [[4]]  
-No knowledge that is received through one of the senses 
+No knowledge that is received through one of the senses  
 can encompass all that is knowable through all senses.  
 So how can perceptual knowledge by itself  
 make all things known,  
@@ -303,7 +298,7 @@ is directed toward the perceiving of what exists at present.
 #### सातिशयस्य निरतिशयाप्राप्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> अ-सति हि स्व-भावानुबन्धिनि विद्यमानोपलम्भनत्वे  
+> अ-सति हि +++(प्रत्यक्ष-)+++स्व-भावानुबन्धिनि विद्यमानोपलम्भनत्वे  
 +++(प्रत्यक्षस्य)+++ प्रत्यक्षतैव परावर्तते।   
 न ह्य् अ-जात-मति-वृत्तं+++(=??)+++ वा ऽगमयद् अनुमानादि  
 प्रत्यक्ष-पक्ष-निक्षेपं,  
