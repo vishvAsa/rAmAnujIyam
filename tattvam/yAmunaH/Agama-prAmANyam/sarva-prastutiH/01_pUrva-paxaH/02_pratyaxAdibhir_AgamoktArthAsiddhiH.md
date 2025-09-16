@@ -206,8 +206,7 @@ So what remains unproved? (is improper).
 6. This objection is thus refuted: 
 
 The supreme perceptual knowledge which you assume is just a fancy.  
-Perceptual knowledge can never go beyond its own sphere and trespass on another. 
-
+Perceptual knowledge can never go beyond its own sphere and trespass on another.
 </details>
 
 
@@ -225,7 +224,7 @@ Perceptual knowledge can never go beyond its own sphere and trespass on another.
 रूप-रूपि-तद्-एकार्थ-  
 समवायिषु चाक्षुषः ।  
 प्रकर्षो **भवितुं युक्तो**  
-दृश्यमान-प्रकर्षवत् +++(भगवांस् तु न दृश्यमानः)+++॥
+दृश्यमान-प्रकर्षवत् +++(न तु स्पृश्यमान-प्रकर्षवत्)+++॥
 </details>
 
 <details><summary>Buitenen</summary>
@@ -236,6 +235,15 @@ as well as a superior perceptible object,
 must necessarily occur in loci  
 where inherent relations of one kind,  
 as between colour and coloured, obtain in one object.  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+> रूपे, तद्-वति घटे, तथा रूपेण सह एकस्मिन्न् अर्थे घटे समवाय-सम्बन्धेन विषयमानेषु संख्या-परिमाणादिष्व् एव नियतः चक्षुः-प्रकर्षः,  
+न तु स्पर्शेऽपि  
+स्व-भिन्नेन्द्रिय-ग्राह्ये स्पर्शन-ग्राह्याभावाद् 
+
+इति भावः ।
 </details>
 
 
@@ -252,7 +260,7 @@ as between colour and coloured, obtain in one object.
 एवम्,  
 
 इन्द्रियान्तर-विज्ञानं  
-विश्वं **गोचरयेन् न** तु ।  
+विश्वं **गोचरयेन् न** तु +++(तद्-भिनेन्द्रिय-विषय-सद्-भावात्)+++ ।  
 **कथं** प्रत्यक्ष-विज्ञानं  
 विश्वं **बोधयितुं क्षमम्** ॥  
 </details>
@@ -279,13 +287,15 @@ i.e. also things known only through other means of ... knowledge?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ननु तत् +++(इन्द्रियम्)+++ कॢप्त-सामर्थ्यं विद्यमानोपलम्भने ।
+> ननु तत् +++(भगवत्-प्रत्यक्षं)+++ कॢप्त-सामर्थ्यं  
+> विद्यमानोपलम्भने ।
 </details>
 
 <details><summary>Buitenen</summary>
 
 7. The objector resumes:   
-However, the sensitivity which we attribute to Perception  
+
+> However, the sensitivity which we attribute to Perception  
 is directed toward the perceiving of what exists at present. 
 </details>
 
@@ -300,21 +310,24 @@ is directed toward the perceiving of what exists at present.
 
 > अ-सति हि +++(प्रत्यक्ष-)+++स्व-भावानुबन्धिनि विद्यमानोपलम्भनत्वे  
 +++(प्रत्यक्षस्य)+++ प्रत्यक्षतैव परावर्तते।   
-न ह्य् अ-जात-मति-वृत्तं+++(=??)+++ वा ऽगमयद् अनुमानादि  
-प्रत्यक्ष-पक्ष-निक्षेपं,  
-तेन अशेष-विषयिता-लक्षण-प्रत्यक्ष-प्रकर्षः  
-स्व-भाव-नियम-निर्मूलितोदय 
-
-इति न हृदयम् अधिरोहति ।  
+न ह्य् अ-जात-मति-वृत्तं वा ऽवगमयद् अनुमानादि  
+प्रत्यक्ष-पक्ष-निक्षेपं क्षमते।   
+तेन  
+> 
+> > अशेष-विषयिता-लक्षण-प्रत्यक्ष-प्रकर्षः  
+स्व-भाव-नियम-निर्मूलितोदय  
+> 
+> इति न हृदयम् अधिरोहति ।  
 </details>
 
 <details><summary>Buitenen</summary>
 
-Of course, if Perception did not have this function of perceiving what exists at present as its natural function,  
+> Of course, if Perception did not have this function of perceiving what exists at present as its natural function,  
 it would cease to be Perception at all.  
-
-Therefore, it is not reasonable to say  
-that a superior kind of Perception,  
+>
+> Therefore, it is not reasonable to say that  
+>
+> > a superior kind of Perception,  
 defined as encompassing all objects,  
 is a priori impossible  
 because it is limited to being Perception! 
@@ -324,7 +337,7 @@ because it is limited to being Perception!
 
 <details><summary>मूलम्</summary>
 
-असति हि स्वभावानुबन्धिनि विद्यमानोपलम्भनत्वे प्रत्यक्षतैव परावर्तते, न ह्यजातमतिवृत्तं वाऽगमयदनुमानादि प्रत्यक्षपक्षनिक्षेपं, तेन अशेषविषयितालक्षणप्रत्यक्षप्रकर्षः स्वभावनियमनिर्मूलितोदय इति न हृदयमधिरोहति ।  
+असति हि स्वभावानुबन्धिनि विद्यमानोपलम्भनत्वे प्रत्यक्षतैव परावर्तते, न ह्यजातमतिवृत्तं वाऽवगमयदनुमानादि प्रत्यक्षपक्षनिक्षेपं क्षमते।  तेन अशेषविषयितालक्षणप्रत्यक्षप्रकर्षः स्वभावनियमनिर्मूलितोदय इति न हृदयमधिरोहति ।  
 </details>
   
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
