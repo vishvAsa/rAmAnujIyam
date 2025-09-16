@@ -283,9 +283,9 @@ there is no other path to tread etc." (Svet Up. 3.8.)
 <details><summary>विश्वास-टिप्पनी</summary>
 
 इह कापालिक-कालामुखयोर् भ्रमो भाति।  
-तद् एव श्रीभाष्ये ऽनुवर्तितं रामानुजेनेति च श्रीभाष्ये (ii.2.35-37)।??  
+तद् एव श्रीभाष्ये ऽनुवर्तितं रामानुजेनेति च श्रीभाष्ये (ii.2.35-37)।  
 
-सम्बद्धम् - [TW](https://manasataramgini.wordpress.com/2005/03/26/dvijas-and-non-dvijas-in-the-shaiva-cults/)
+सम्बद्धम् - [TW](https://manasataramgini.wordpress.com/2005/03/26/dvijas-and-non-dvijas-in-the-shaiva-cults/)।
 </details>
 
 
@@ -413,40 +413,16 @@ and a sixteenth part of him is the material cause.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मह्य्-अन्तं महद्-आदि कार्यम् **उदितं**, तद्वद् विधिर् **गीयते** ।  
-गूढाचार-मुख-स्मशान-भसित-स्नानावसानः परः+++(??)+++ ॥  
-+++(छन्दः??)+++
+मह्य्-अन्तं महद्-आदि **कार्यम्** उदितं, तद्वद् **विधिर्** गीयते  
+गूढाचार-मुख-स्मशान-भसित-स्नानावसानः, परः ।  
+**योगो** धारणम् उच्यते हृदि धियाम् ओङ्कार-पूर्वन् तथा   
+**दुःखान्तो** हि मतो ऽपवर्ग - इति ते पञ्चापि **संकीर्तिताः** +++(पूर्वश्लोकस्थ-कारणेन सह)+++ ॥
 </details>
 
 <details><summary>Buitenen</summary>
 
 The Effect comprises the elements from Mahat to earth.  
 The Injunction is stated to comprehend principally a number of rites, secret practices, bathing and lying in ashes etc. 182  
-</details>
-
-<details><summary>Buitenen - Notes</summary>
-
-Mahat - The highest material evolute; the sloka is out of order.
-
-The text reads güṭhācāramukhasmasānabhasitāvasānaḥ pareļi??, which is a corruption; I read, wholly conjecturally gūḍhācabhasmasnānaśa yanādikrijāparaḥ.
-</details>
-
-
-<details><summary>मूलम्</summary>
-
-मह्यन्तं महदादिकार्यमुदितं तद्वद्विधिर्गीयते ।  
-गूढाचारमुखस्मशानभसितस्नानावसानः परः ॥  
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-योगो धारणम् **उच्यते**  
-हृदि धियाम् ओङ्कार-पूर्वन् तथा ।  
-**दुःखान्तो** हि मतो ऽपवर्ग  
-इति ते पञ्चापि संकीर्तिताः ॥
-</details>
-
-<details><summary>Buitenen</summary>
 
 The Yoga is said to be concentration and the muttering of formula, OM etc.   
 The Cessation of Misery is held to be release;   
@@ -454,15 +430,30 @@ The term "cessation' of misery" means total and final cessation of misery.
 thus the five Categories are enumerated.
 </details>
 
-
 <details><summary>Buitenen - Notes</summary>
 
-The text reads yogo dharanam ucjate hydi dhiyām onkarapuream tatha, and seems out of order. The sense is clear however.
+Mahat - The highest material evolute.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Vide Indian Philosophy, Vol. I, p. 489: 
+
+> “The five categories are :  
+> 1 Kāraṇa or Cause: The Cause is the Lord, the Pati, the Eternal ruler, who creates, maintains and destroys the whole existence.  
+> 2 Kārya or Effect: It is what is dependent on the cause. It includes knowledge or vidyā, organs or kalā and individual souls or paśu. All knowledge and existence, the five elements and the five qualities, the five senses and the five organs of actions and the three internal organs of intelligence, egoism and mind are dependent on the Lord.  
+> 3 Yoga or Discipline: It is the mental process by which the individual soul gains God.  
+> 4 Vidhi or Rules: It relates to the practices that make for righteousness.  
+> 5 Duḥkhānta or the end of misery: It is final deliverance or destruc-tion of misery and obtaining an elevation of spirit, with full powers of Knowledge and Action.” 
+
+For a more detailed explanation of these categories, see Liṅgadhāraṇa-candrikā, pp. 351-57.
 </details>
 
 
 <details><summary>मूलम्</summary>
 
+मह्यन्तं महदादिकार्यमुदितं तद्वद्विधिर्गीयते ।  
+गूढाचारमुखस्मशानभसितस्नानावसानः परः ॥  
 योगो धारणमुच्यते हृदि धियामोङ्कारपूर्वन्तथा ।  
 दुःखान्तो हि मतोऽपवर्ग इति ते पञ्चापि संकीर्तिताः ॥
 </details>
@@ -762,7 +753,7 @@ For thus it reads in the Varaha Purana,
 <details><summary>Buitenen - Notes</summary>
 
 [[139]]  
-corresponds to Varaha Purana. 70.36 tvam ca rudra mahabaho mokatastrāni kāraya al pajasam?? darsayitva mahajātu mahetoarah. 
+corresponds to Varaha Purana. 70.36 tvam ca rudra mahābaho mohaśāstrāṇi kāraya  
 </details>
 
 
@@ -840,7 +831,7 @@ do not respect the Vedas.16
 
 <details><summary>Buitenen - Notes</summary>
 
-cf. Variha Pur., 70.38, which reads in cd shastrejo?? abhirato loko bahuljena bhaved atah. 
+cf. Variha Pur., 70.38, which reads in cd shastreśv abhirato loko bahulyena bhaved atah. 
 </details>
 
 
@@ -911,7 +902,7 @@ This ritual called Pasupata is the lowliest and deceives men.188"
 
 <details><summary>Buitenen - Notes</summary>
 
-cf. Varaha Pur., 70.21, yad vedabāḥyam karma ṣṣācchāstram udditya senzate I tad raudram iti cikk?? yatam tan nestam gaditam nṛṇām.
+cf. Varaha Pur., 70.21, yad vedabāḥyam karma …
 </details>
 
 
