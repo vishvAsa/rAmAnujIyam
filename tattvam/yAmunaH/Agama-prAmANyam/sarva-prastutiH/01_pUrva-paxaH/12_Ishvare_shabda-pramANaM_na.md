@@ -410,12 +410,6 @@ realizes that the one person's action has been caused by the other person's vari
 that he proceed to his action immediately upon become aware of what he has to do."
 </details>
 
-<details><summary>Buitenen - Notes</summary>
-
-[[130]]  
-Thus śalikanatha, Prakaranapancika, p. 182: niyo?? yali?? sarvakarye yaft soakiyalvena?? budhyate. 
-</details>
-
 <details><summary>मूलम्</summary>
 
 प्रतीता हि स्वकार्यसन्ताने कार्यसंविदेव तत्तद्विशिष्टचेष्टाहेतुतया तदयमिहापि तादृशीं प्रवृत्तिं पश्यन्नेवमाकलयति - नूनमितस्सकाशादस्य कार्यसंविदाविरासीत् यदयमेतदनन्तरं प्रवर्तत इति,

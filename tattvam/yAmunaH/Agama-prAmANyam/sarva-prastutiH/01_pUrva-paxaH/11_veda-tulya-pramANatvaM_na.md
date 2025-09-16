@@ -236,7 +236,7 @@ the mountain has fire, because it has smoke.
 
 <details><summary>Buitenen - Notes</summary>
 
-avatara "descent, emergence." The meaning is as follows: Dharma is by definition that action which leads to a certain end by suprasensible law. Since the process (the Incans-end?? relation) is suprasensible, there can be no other authority for it than Scriptural authority. 
+avatara "descent, emergence." The meaning is as follows: Dharma is by definition that action which leads to a certain end by suprasensible law. Since the process (the incarnation) is suprasensible, there can be no other authority for it than Scriptural authority. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1261,11 +1261,11 @@ before he can actually undertake their production.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि परं शक्तिम् अ-विदुषाम्  
-अभिलषित-साधनाय तद्-उपादानादि-व्यवहारो ऽनुपपन्नः,  
+यदि परं +++(उय्येत)+++- शक्तिम् अ-विदुषाम् +++(कुम्भकारादीनां)+++ 
+अभिलषित-साधनाय तद्-उपादानादि-व्यवहारो ऽनुपपन्नः।  
 इह तु नित्यागम-जन्मना प्रत्ययेन 
-संप्रत्य्-आकलित-यागादि--तत्-तद्-उत्पादन-पाटवाः पुरुषास्  
-तैर् एव विश्वम्-भरादि+++(=??!)+++-भावान् आविर्भावयन्ति,
+संप्रत्य्-आकलित-यागादि--तत्-तद्-उत्पादन-पाटवाः पुरुषास् +++(←अनीश्वरा देवा अपि)+++  
+तैर् एव विश्वम्-भरा+++(=भू)+++ऽऽदि-भावान् आविर्भावयन्ति,
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1281,18 +1281,15 @@ Thus, aided by these causes, they render manifest such products as earth etc.
 
 <details><summary>मूलम्</summary>
 
-यदि परं शक्तिमविदुषामभिलषितसाधनाय तदुपादानादिव्यवहारोऽनुपपन्नः  
+यदि परं शक्तिमविदुषामभिलषितसाधनाय तदुपादानादिव्यवहारोऽनुपपन्नः तद्-उपादानादि-व्यवहारो ऽनुपपन्नः।  
 इह तु नित्यागमजन्मना प्रत्ययेन संप्रत्याकलितयागादितत्तदुत्पादनपाटवाः पुरुषास्तैरेव विश्वम्भरादिभावानाविर्भावयन्ति,
 </details>
 
 ## धर्म-साक्षात्-काराभावेऽपि सृष्टिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा च,
-
-> प्रत्यक्ष-प्रकृति+++(=उपादान)-+++-करणः कर्म-करण-प्रवीणो, नैवान्यः क्षम
-
-इति च नास्त्यत्र नियमः ॥
+तथा च प्रत्यक्ष-प्रकृति+++(=उपादान)-+++-करणः कर्म-करण-  
+प्रवीणो, नैवान्यः क्षम इति च नास्त्यत्र नियमः ॥
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1306,8 +1303,7 @@ and nobody else.
 
 <details><summary>मूलम्</summary>
 
-तथा च -  
-प्रत्यक्षप्रकृतिकरणः कर्मकरणप्रवीणो
+तथा च - प्रत्यक्षप्रकृतिकरणः कर्मकरणप्रवीणो
 नैवान्यः क्षम इति च नास्त्यत्र नियमः ॥
 </details>
 
