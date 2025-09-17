@@ -11071,21 +11071,339 @@ un significado sutil (Sūkṣmārtha),
 y un significado supremo (para), en los siguientes Ślokas:
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 इन् नमश्शब्दत्तुक्कु स्थूलसूक्ष्मपरङ्गळॆऩ्ऱु मूऩ्ऱर्थङ्गळै वगुत्तु अहिर्बुध्न्यऩ् व्याख्यानम् पण्णिऩाऩ्।
 </details>
 
+### प्रह्वी-भाव-व्यापारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> प्रेक्षावतः **प्रवृत्तिर्** या  
+**प्रह्वी-भावात्मिका** स्वतः ।  
+उत्कृष्टं परम् **उद्दिश्य**  
+तन् "नमः" **परिगीयते** ॥ 
+</details>
 
+<details><summary>नीलमेघः (सं)</summary>
 
+> प्रेक्षावतः **प्रवृत्तिर्** या  
+**प्रह्वी-भावात्मिका** स्वतः ।  
+उत्कृष्टं परम् **उद्दिश्य**  
+तन् "नमः" **परिगीयते** ॥ 
+</details>
 
+<details><summary>English</summary>
 
 I. STHULĀRTHA :
 
-(8) The act of an intelligent man bowing his body, of his own accord, before another who is higher (without expecting any gain fron it) is called namas. In the śāstras, all sentient beings are spoken of as belonging to two classes, the higher (Jyāyān), and the lower (ajyāyān). There is no one other than these. The primary meaning of the higher being' is He who has superior excellence both in time and (place) and in attributes. Bhagavān is present at all times and in all places and possesses also qualities that are beyond (all) measure. So He alone is the higher (Jyāyan). All sentient beings other than He are lower (ajyāyān). The relation between these two, the higher and the lower, is that He is the śeṣī and the others (who are lower) are śeṣas (to Him). The higher is only One; all the rest are lower and the relation between these two consists in this, that He is bowed to and that the others bow to Him. He who is bowed to is called the higher and the śeṣī; the others who are śeṣas are said to be those who bow ( to him). The relation between them and Him is not on account of any gain (expected by them); this relation between the higher and the lower is due to their nature, when the sentient being bows to the Higher Person without expecting any gain and with a certain feeling; that feeling is called nanana ( bowing) (b) Namanam (bowing ) consists in the thought: "Bhagavān is always my seshī and I am always his śeṣa," for it is this thought that is the cause of the bowing (of the body). This bowing makes Bhagavān bend in favour to the man who bows (i.c.) it makes Bhagavān grant to the man who bows whatever is desired by him. This is certain. Bhagavān, who is higher, observes the bowing of the man who is lower and bends (is inclined) (to do him grace). Since it makes Bhagavān bend in favour, this action is called namas: (c) Uttering the word namas with speech, having this namas in mind and bowing with the body--this is namas in its perfection (śaraṇāgati) and what is different from it in being defective in one or other of the three aspects is called defective namas. This is perfect prapatti (as aṅgī).
+> (8) The act of an intelligent man bowing his body, of his own accord,  
+before another who is higher (without expecting any gain from it)  
+is called "namas". 
+</details>
+
+<details><summary>Español</summary>
+
+I. STHULĀRTHA :
+
+> (8) El acto de un hombre inteligente **inclinando** su cuerpo, por su propia cuenta,  
+antes que otro que **sea** más alto (sin **esperar** ninguna **ganancia**)  
+**se llama** "namas".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रेक्षावतः प्रवृत्तिर्या प्रह्वीभावात्मिका स्वतः ।  
+उत्कृष्टं परमुद्दिश्य तन्नमः परिगीयते ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> लोके चेतन-वर्गस् तु  
+द्विधैव **परिकीर्त्यते** ।  
+ज्यायांश् चैव तथा ऽज्यायान्  
+नैवाभ्यां **विद्यते** परः ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> लोके चेतन-वर्गस् तु  
+द्विधैव **परिकीर्त्यते** ।  
+ज्यायांश् चैव तथा ऽज्यायान्  
+नैवाभ्यां **विद्यते** परः ॥
+</details>
+
+<details><summary>English</summary>
+
+> In the śāstras, all sentient beings are spoken of as belonging to two classes, the higher (Jyāyān), and the lower (ajyāyān).  
+There is no one other than these. 
+</details>
+
+<details><summary>Español</summary>
+
+> En los Śāstras, **se habla** de todos los seres sensibles como **pertenecientes** a dos clases,  
+los más altos (jyāyān) y los más bajos (Ajyāyān).  
+**No hay** nadie más que estos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+लोके चेतनवर्गस्तु द्विधैव परिकीर्त्यते ।  
+ज्यायांश्चैव तथा ज्यायान्नैवाभ्यां विद्यते परः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कालतो गुणतश् चैव  
+प्रकर्षो यत्र **तिष्ठति** ।   
+शब्दस् तं मुख्यया वृत्त्या  
+ज्यायान् इत्य् **अवलम्बते** ।  
+अतश् चेतन-वर्गो ऽन्यस्  
+**स्मृतः** प्रत्यवरो बुधैः ।  
+अज्यायांश् चानयोर् **योगश्**  
+शेष-शेषितयेष्यते ॥  
+(अहिर्बुध्न्य-संहिता ५२-२, ३, ४, ५,।)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कालतो गुणतश् चैव  
+प्रकर्षो यत्र **तिष्ठति** ।   
+शब्दस् तं मुख्यया वृत्त्या  
+ज्यायान् इत्य् **अवलम्बते** ।  
+अतश् चेतन-वर्गो ऽन्यस्  
+**स्मृतः** प्रत्यवरो बुधैः ।   
+अज्यायांश् चानयोर् **योगश्**  
+शेष-शेषितयेष्यते ॥  
+(अहिर्बुध्न्य-संहिता ५२-२, ३, ४, ५,।)
+</details>
+
+<details><summary>English</summary>
+
+The primary meaning of 'the higher being' is  
+He who has superior excellence both in time and (place) and in attributes.  
+Bhagavān is present at all times and in all places  
+and possesses also qualities that are beyond (all) measure.  
+So He alone is the higher (Jyāyan).  
+All sentient beings other than He are lower (ajyāyān).  
+The relation between these two, the higher and the lower, is that  
+He is the śeṣī and the others (who are lower) are śeṣas (to Him). 
+</details>
+
+<details><summary>Español</summary>
+
+El significado principal de 'el ser más alto' **es**  
+El que **tiene** una excelencia superior tanto en el tiempo como (el lugar) y en los atributos.  
+Bhagavān **está presente** en todo momento y en todos los lugares  
+y **posee** también cualidades que **están** más allá de (todas) medidas.  
+Entonces él solo **es** el más alto (Jyāyan).  
+Todos los seres sintientes distintos de él  
+**son** más bajos (Ajyāyān).  
+La relación entre estos dos, el más alto y el más bajo, **es** que  
+Él **es** el Śeṣī y los otros (que son más bajos) **son** Śeṣas (para él).
+</details>
+
+<details><summary>मूलम्</summary>
+
+कालतो गुणतश्चैव प्रकर्षो यत्र तिष्ठति ।   
+शब्दस्तं मुख्यया वृत्त्या ज्यायानित्यवलम्बते । अतश्चेतनवर्गोऽन्यस्स्मृतः प्रत्यवरो बुधैः । ’’  
+अज्यायांश्चानयोर्योगश्शेषशेषितयेष्यते ॥ (अहिर्बुध्न्य-संहिता ५२-२, ३, ४, ५,।)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अज्यायांसो ऽपरे सर्वे  
+ज्यायान् एको **मतः** परः ।  
+नन्तृ-नन्तव्य-भावेन  
+तेषां तेन **समन्वयः** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अज्यायांसो ऽपरे सर्वे  
+ज्यायान् एको **मतः** परः ।  
+नन्तृ-नन्तव्य-भावेन  
+तेषां तेन **समन्वयः** ॥
+</details>
+
+<details><summary>English</summary>
+
+> The higher is only One;  
+all the rest are lower  
+and the relation between these two consists in this,  
+that He is bowed to  
+and that the others bow to Him. 
+</details>
+
+<details><summary>Español</summary>
+
+> El más alto **es** solo uno;  
+Todo el resto **es** más bajo  
+y la relación entre estos dos **consiste** en esto,  
+que **es inclinado** a  
+y que los demás **se inclinan** ante él.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अज्यायांसोऽपरे सर्वे ज्यायानेको मतः परः । नन्तृनन्तव्यभावेन तेषां तेन समन्वयः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **नन्तव्यः** परमश् शेषी  
+शेषा **नन्तार ईरिताः** ।  
+नन्तृ-नन्तव्य-भावोऽयं  
+न प्रयोजन-पूर्वकः ॥
+</details>
+
+<details><summary>English</summary>
+
+He who is bowed to is called the higher and the śeṣī;  
+the others who are śeṣas are said to be those who bow ( to him).  
+The relation between them and Him is not on account of any gain (expected by them);  
+</details>
+
+<details><summary>Español</summary>
+
+El que **se inclina se llama** el más alto y el Śeṣī;  
+**Se dice** que los otros que **son** Śeṣas **son** aquellos que **se inclinan** (a él).  
+La relación entre ellos y él **no se debe** a ninguna ganancia (**esperada** por ellos);
+</details>
+
+<details><summary>मूलम्</summary>
+
+नन्तव्यः परमश्शेषी शेषा नन्तार ईरिताः । नन्तृनन्तव्यभावोऽयं न प्रयोजनपूर्वकः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नीचोच्चयोस् स्वभावोऽयं  
+नन्तृ-नन्तव्यताऽऽत्मकः ।  
+उपाधि-रहितेनायं  
+येन भावेन चेतनः ॥  
+**नमति** ज्यायसे तस्मै  
+तद् वा **नमनम् उच्यते** ।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> नीचोच्चयोस् स्वभावोऽयं  
+नन्तृ-नन्तव्यताऽऽत्मकः ।  
+उपाधि-रहितेनायं  
+येन भावेन चेतनः ॥  
+**नमति** ज्यायसे तस्मै  
+तद् वा **नमनम् उच्यते** ।
+</details>
+
+<details><summary>English</summary>
+
+> this relation between the higher and the lower is due to their nature,  
+when the sentient being bows to the Higher Person without expecting any gain and with a certain feeling;  
+that feeling is called namana ( bowing) 
+</details>
+
+<details><summary>Español</summary>
+
+> Esta relación entre el más alto y el más bajo **se debe** a su naturaleza,  
+Cuando el sensible ser **se inclina hacia** la persona superior **sin esperar** ninguna **ganancia** y con un cierto sentimiento;  
+Ese sentimiento **se llama** namana (**inclinado**)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नीचोच्चयोस्स्वभावोऽयं नन्तृनन्तव्यतात्मकः । उपाधिरहितेनायं येन भावेन चेतनः ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "भगवान् मे परो नित्यम्  
+अहं प्रत्यवरस् सदा ॥"  
+इति भावो नमः **प्रोक्तो**  
+नमसः कारणं हि सः । 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "भगवान् मे परो नित्यम्  
+अहं प्रत्यवरस् सदा ॥"  
+इति भावो नमः **प्रोक्तो**  
+नमसः कारणं हि सः । 
+</details>
+
+<details><summary>English</summary>
+
+> Namanam (bowing ) consists in the thought:  
+"Bhagavān is always my seshī  
+and I am always his śeṣa,"  
+for it is this thought that is the cause of the bowing (of the body). 
+</details>
+
+<details><summary>Español</summary>
+
+> Namanam (**inclinado**) **consiste** en el **pensamiento**:  
+"Bhagavān **es** siempre mi seshī  
+Y siempre **soy** su Śeṣa ",  
+Porque **es** este **pensamiento** el que **es** la causa de la **inclinación** (del cuerpo).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवान्मे परो नित्यमहं प्रत्यवरस्सदा ॥ इति भावो नमः प्रोक्तो नमसः कारणं हि सः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> +++(नमकानुजिघृक्षया)+++ **नामयत्य्** अपि वा देवं  
+**प्रह्वीभावयति** ध्रुवम् ॥  
+**प्रह्वीभवति** नीचे हि  
+परो नैच्यं **विलोकयन्** ।+++(5)+++ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> +++(नमकानुजिघृक्षया)+++ **नामयत्य्** अपि वा देवं  
+**प्रह्वीभावयति** ध्रुवम् ॥  
+**प्रह्वीभवति** नीचे हि  
+परो नैच्यं **विलोकयन्** ।+++(5)+++ 
+</details>
+
+<details><summary>विषयः</summary>
+
+नमस्कारः
+</details>
+
+<details><summary>English</summary>
+
+This bowing makes Bhagavān bend in favour to the man who bows  
+(i.e.) it makes Bhagavān grant to the man who bows whatever is desired by him.  
+This is certain.  
+Bhagavān, who is higher, observes the bowing of the man who is lower  
+and bends (is inclined) (to do him grace). 
+</details>
+
+<details><summary>Español</summary>
+
+Este **inclinación** hace que Bhagavān **se doble** a favor del hombre que **se inclina**  
+(**es decir**) **hace** que Bhagavān **dar** al hombre que **se inclina** lo que **desee**.  
+Esto **es** seguro.  
+Bhagavān, que **es** más alto, **observa** la inclinación del hombre que **es** más bajo  
+y **se dobla** (está **inclinado**) (para **hacerle** gracia).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नामयत्यपि वा देवं प्रह्वीभावयति ध्रुवम् ॥’’(अहिर्बुध्न्य-संहिता ५२-५ मुदल् १०)‘‘प्रह्वीभवति नीचे हि परो नैच्यं विलोकयन् । 
+</details>
+
+
+
+Since it makes Bhagavān bend in favour, this action is called namas: (c) Uttering the word namas with speech, having this namas in mind and bowing with the body--this is namas in its perfection (śaraṇāgati) and what is different from it in being defective in one or other of the three aspects is called defective namas. This is perfect prapatti (as aṅgī).
 
 "I will tell you its accessories or aṅgas in their perfection : Listen. "The prapatti that I perform to Bhagavān, the Supreme Being, is itself my eternal fruit. I desire no other fruit." To have this (thought) is the best of accessories (aṅgas). The desire for (other) fruit or gain is opposed to this aṅga. Ākiñcanya or being destitute is the condition of being without the knowledge or the ability to perform bhakti . This state of destitution is due to false notions (vāsanas) that have been persisting in the mind from beginningless time and to the man's being by nature without independence. It is due also to the mind being covered by the impurities of desire and hatred (rāga and dvesha). The external manifestation of this teeling of helplessness is called kārparyam and it is the second aṅga. The thought that one is independent and could act of one's own accord is opposed to this. The third aṅga is the thought that, though Bhagavān is the Supreme Being, He is merciful to all creatures and is ever bent on showing His grace to them. This is called mahaviśvāsa or intense faith and the thought that Bhagavān will reward or pupish according to one's karma  and will (therefore) be indifferent towards one-this thought is opposed to intense faith. The fourth aṅga is the thought that Bhagavān is all-powerful and can protect us and the prayer (resulting from it) for protection. This would arise if we give up the thought that Bhagavān, though merciful, is wanting in the ability to protect us. The obstacle to this aṅga is the thought that He would be indifferent to us as He is without the quality of goodness. The fifth aṅga is called the avoidance of what is disagreeable (to Bhagavān). It consists in avoiding actions which would be against the will of the Master, The obstacle to this is doiog what is for bidden in the śāstras. The sixth aṅga is the determination to do good to all creatures in as much as all creatures-both those that move and those that do not move--are His body. Doing what is harmful to them is opposed to this. Thus have I explained to you namana (or śaranāgati) which consists of the aṅgas and the upāngas[^91] which mean avoiding what is opposed to them. This is the gross (sthūla) meaniog of the word namas.
 
