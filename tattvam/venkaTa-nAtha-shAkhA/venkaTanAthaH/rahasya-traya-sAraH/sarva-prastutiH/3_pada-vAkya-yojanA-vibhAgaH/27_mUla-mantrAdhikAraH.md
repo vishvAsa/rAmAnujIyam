@@ -11436,34 +11436,236 @@ Esta acción **se llama** Namas.
 </details>
 
 #### पूर्णता
+##### करणे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाचा नम इति **प्रोच्य**   
+> वाचा "नम" इति **प्रोच्य**   
 मनसा वपुषा च यत् ।  
 तन् नमः पूर्णम् **उद्दिष्टम्**  
-अतोऽन्यन् न्यूनम् **उच्यते** ॥
+अतोऽन्यन् न्यूनम् **उच्यते** ॥  
+इयं करण-पूर्तिः स्यात्  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-वाचा नम इति **प्रोच्य**   
+> वाचा "नम" इति **प्रोच्य**   
 मनसा वपुषा च यत् ।  
 तन् नमः पूर्णम् **उद्दिष्टम्**  
-अतोऽन्यन् न्यूनम् **उच्यते** ॥
+अतोऽन्यन् न्यूनम् **उच्यते** ॥  
+इयं करण-पूर्तिः स्यात्  
+</details>
+
+<details><summary>English</summary>
+
+> (c) Uttering the word namas with speech,  
+having this namas in mind  
+and bowing with the body--  
+this is namas in its perfection (śaraṇāgati)  
+and what is different from it in being defective in one or other of the three aspects  
+is called defective namas.  
+This is perfect prapatti (as aṅgī).
+</details>
+
+<details><summary>Español</summary>
+
+> (c) **pronunciar** la palabra namas con **discurso**,  
+**Tener** esta namas en mente  
+y **inclinarse** con el cuerpo--  
+Esto **es** Namas en su perfección (Śaraṇāgati)  
+y lo que **es** diferente al ser defectuoso en uno u otro de los tres aspectos  
+**se llama** namas defectuosos.  
+Este **es** Prapatti perfecto (como Aṅgī).
+</details>
+
+<details><summary>मूलम्</summary>
+
+वाचा नम इति प्रोच्य मनसा वपुषा च यत् । तन्नमः पूर्णमुद्दिष्टमतोऽन्यन्न्यूनमुच्यते ॥ इयं करण-पूर्तिः स्याद्  
+</details>
+
+##### अङ्गेषु
+###### फल-त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्ग-पूर्तिम् इमां **शृणु** ।  
+"शाश्वती मम संसिद्धिर्  
+इयं **प्रह्वी-भवामि** यत् ॥  
+पुरुषं परम् **उद्दिश्य**  
+**न** मे **सिद्धिर्** इतो ऽन्यधा ।"  
+इत्य् अङ्गम् **उदितं** श्रेष्ठं   
+फलेप्सा तद्-**विरोधिनी** ॥  
+</details>
+<details><summary>नीलमेघः (सं)</summary>
+
+अङ्ग-पूर्तिम् इमां **शृणु** ।  
+"शाश्वती मम संसिद्धिर्  
+इयं **प्रह्वी-भवामि** यत् ॥  
+पुरुषं परम् **उद्दिश्य**  
+**न** मे **सिद्धिर्** इतो ऽन्यधा ।"  
+इत्य् अङ्गम् **उदितं** श्रेष्ठं   
+फलेप्सा तद्-**विरोधिनी** ॥  
+</details>
+
+<details><summary>English</summary>
+
+> "I will tell you its accessories or aṅgas in their perfection : Listen.  
+> 
+> > "The prapatti that I perform to Bhagavān, the Supreme Being,  
+is itself my eternal fruit.  
+I desire no other fruit." 
+> 
+> To have this (thought) is the best of accessories (aṅgas).  
+The desire for (other) fruit or gain is opposed to this aṅga. 
+</details>
+
+<details><summary>Español</summary>
+
+> "Te **diré** sus accesorios o AṅGas en su perfección: **escuchar**.
+>
+>> "El Prapatti que **realizo** con Bhagavān, el ser supremo,  
+**es** en sí misma mi fruta eterna.  
+**No deseo** otra fruta ".  
+> 
+> **Tener** esto (**pensamiento**) es el mejor accesorios (AṅGAS).  
+El **deseo** de (otra) fruta o **ganancia se opone** a este AṅGA.
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-वाचा नम इति प्रोच्य मनसा वपुषा च यत् । तन्नमः पूर्णमुद्दिष्टमतोऽन्यन्न्यूनमुच्यते ॥
+अङ्गपूर्तिमिमां शृणु । शाश्वती मम संसिद्धिरियं प्रह्वीभवामि यत् ॥ पुरुषं परमुद्दिश्य न मे सिद्धिरितोऽन्यधा । इत्यङ्गमुदितं श्रेष्ठं फलेप्सा तद्विरोधिनी ॥ 
+</details>
+
+###### कार्पण्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनादिवासनाऽऽरोहाद्  
+अनैश्वर्यात् स्वभावजात् ॥  
+मलावकुण्ठितत्वाच् च  
+दृक्-क्रिया-**विहतिर्** हि या ॥  
+तत् कार्पण्यं, तद्-**उद्बोधो**  
+द्वितीयं ह्य् अङ्गम् ईदृशम् । 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अनादिवासनाऽऽरोहाद्  
+अनैश्वर्यात् स्वभावजात् ॥  
+मलावकुण्ठितत्वाच् च  
+दृक्-क्रिया-**विहतिर्** हि या ॥  
+तत् कार्पण्यं, तद्-**उद्बोधो**  
+द्वितीयं ह्य् अङ्गम् ईदृशम् ।  
+स्व-स्वातन्त्र्यावबोधस् तु  
+तद्-**विरोध उदीर्यते** ॥ 
 </details>
 
 
+<details><summary>English</summary>
+
+Ākiñcanya or being destitute  
+is the condition of being without the knowledge or the ability to perform bhakti .  
+This state of destitution is due to false notions (vāsanas)  
+that have been persisting in the mind from beginningless time  
+and to the man's being, by nature, without independence.  
+It is due also to the mind being covered by the impurities of desire and hatred (rāga and dvesha).  
+The external manifestation of this feeling of helplessness is called kārparyam  
+and it is the second aṅga.  
+The thought that one is independent  
+and could act of one's own accord  
+is opposed to this. 
+</details>
+
+<details><summary>Español</summary>
+
+Ākiñcanya o **ser** indigente  
+**es** la condición de **estar** sin el **conocimiento** o la capacidad de realizar bhakti.  
+Este estado de indigencia **se debe** a nociones falsas (vāsanas)  
+que **han estado persistiendo** en la mente desde el tiempo sin inicio  
+y al **ser** del hombre, por naturaleza, sin independencia.  
+También **se debe** a que la mente **esté cubierta** por las impurezas del deseo y el odio (Rāga y Dvesha).  
+La manifestación externa de este **sensación** de impotencia **se llama** kārparyam  
+Y **es** el segundo aṅga.  
+El **pensamiento** de que uno **es** independiente  
+y **podría actuar** por su propia cuenta  
+**se opone** a esto.
+</details>
 
 
-(c) Uttering the word namas with speech, having this namas in mind and bowing with the body--this is namas in its perfection (śaraṇāgati) and what is different from it in being defective in one or other of the three aspects is called defective namas. This is perfect prapatti (as aṅgī).
+<details><summary>मूलम्</summary>
 
-"I will tell you its accessories or aṅgas in their perfection : Listen. "The prapatti that I perform to Bhagavān, the Supreme Being, is itself my eternal fruit. I desire no other fruit." To have this (thought) is the best of accessories (aṅgas). The desire for (other) fruit or gain is opposed to this aṅga. Ākiñcanya or being destitute is the condition of being without the knowledge or the ability to perform bhakti . This state of destitution is due to false notions (vāsanas) that have been persisting in the mind from beginningless time and to the man's being by nature without independence. It is due also to the mind being covered by the impurities of desire and hatred (rāga and dvesha). The external manifestation of this teeling of helplessness is called kārparyam and it is the second aṅga. The thought that one is independent and could act of one's own accord is opposed to this. The third aṅga is the thought that, though Bhagavān is the Supreme Being, He is merciful to all creatures and is ever bent on showing His grace to them. This is called mahaviśvāsa or intense faith and the thought that Bhagavān will reward or pupish according to one's karma  and will (therefore) be indifferent towards one-this thought is opposed to intense faith. The fourth aṅga is the thought that Bhagavān is all-powerful and can protect us and the prayer (resulting from it) for protection. This would arise if we give up the thought that Bhagavān, though merciful, is wanting in the ability to protect us. The obstacle to this aṅga is the thought that He would be indifferent to us as He is without the quality of goodness. The fifth aṅga is called the avoidance of what is disagreeable (to Bhagavān). It consists in avoiding actions which would be against the will of the Master, The obstacle to this is doiog what is for bidden in the śāstras. The sixth aṅga is the determination to do good to all creatures in as much as all creatures-both those that move and those that do not move--are His body. Doing what is harmful to them is opposed to this. Thus have I explained to you namana (or śaranāgati) which consists of the aṅgas and the upāngas[^91] which mean avoiding what is opposed to them. This is the gross (sthūla) meaniog of the word namas.
+अनादिवासनारोहादनैश्वर्यात्स्वभावजात् ॥’’(अहिर्बुध्न्य-संहिता ५२-११ मुदल् १५)‘‘मलावकुण्ठितत्वाच्च दृक्क्रियाविहतिर्हि या ॥ तत्कार्पण्यं तदुद्बोधो द्वितीयं ह्यङ्गमीदृशम् । स्वस्वातन्त्र्यावबोधस्तु तद्विरोध उदीर्यते ॥ 
+</details>
+
+###### महाविश्वासः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > परत्वे सति देवोऽयं  
+भूतानाम् अनुकंपनः ।  
+अनुग्रहैक-धीर् नित्यम्  
+> 
+> इत्य् एतत् तु तृतीयकम् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > परत्वे सति देवोऽयं  
+भूतानाम् अनुकंपनः ।  
+अनुग्रहैक-धीर् नित्यम्  
+> 
+> इत्य् एतत् तु तृतीयकम् ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+The third aṅga is the thought that,  
+though Bhagavān is the Supreme Being,  
+He is merciful to all creatures  
+and is ever bent on showing His grace to them.  
+This is called mahaviśvāsa or intense faith  
+</details>
+
+<details><summary>Español</summary>
+
+El tercer aṅga **es** el pensamiento de que,  
+Aunque Bhagavān **es** el ser supremo,  
+El **es** misericordioso con todas las criaturas  
+y siempre **se ha inclinado** en mostrarles su gracia.  
+Esto **se llama** mahaviśvāsa o fe intensa
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परत्वे सति देवोऽयं भूतानामनुकंपनः । अनुग्रहैकधीर्नित्यमित्येतत्तु तृतीयकम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उपेक्षको यथाकर्म  
+फल--दायीति या मतिः ।  
+विश्वासात्मकम् एतत्तु  
+तृतीयं हन्ति वै सदा ॥ 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> उपेक्षको यथाकर्म फलदायीति या मतिः । विश्वासात्मकमेतत्तु तृतीयं हन्ति वै सदा ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं भूतोऽप्यशक्तस्सन्न त्राणं भवितुं क्षमः । ’’(अहिर्बुध्न्य-संहिता ५२-१५ मुदल् १८।)‘‘इति बुद्ध्यास्य देवस्य गोप्तृशक्ति निरूपणम् ॥ चतुर्थमङ्गमुद्दिष्टममुष्य व्याहतिः पुनः । उदासीनो गुणाभावादित्युत्प्रेक्षा निमित्तजा ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं भूतोऽप्यशक्तस्सन्न त्राणं भवितुं क्षमः । ’’(अहिर्बुध्न्य-संहिता ५२-१५ मुदल् १८।)‘‘इति बुद्ध्यास्य देवस्य गोप्तृशक्ति निरूपणम् ॥ चतुर्थमङ्गमुद्दिष्टममुष्य व्याहतिः पुनः । उदासीनो गुणाभावादित्युत्प्रेक्षा निमित्तजा ॥
+</details>
+
+
+and the thought that Bhagavān will reward or pupish according to one's karma  
+and will (therefore) be indifferent towards one-  
+this thought is opposed to intense faith. The fourth aṅga is the thought that Bhagavān is all-powerful and can protect us and the prayer (resulting from it) for protection. This would arise if we give up the thought that Bhagavān, though merciful, is wanting in the ability to protect us. The obstacle to this aṅga is the thought that He would be indifferent to us as He is without the quality of goodness. The fifth aṅga is called the avoidance of what is disagreeable (to Bhagavān). It consists in avoiding actions which would be against the will of the Master, The obstacle to this is doiog what is for bidden in the śāstras. The sixth aṅga is the determination to do good to all creatures in as much as all creatures-both those that move and those that do not move--are His body. Doing what is harmful to them is opposed to this. Thus have I explained to you namana (or śaranāgati) which consists of the aṅgas and the upāngas[^91] which mean avoiding what is opposed to them. This is the gross (sthūla) meaniog of the word namas.
 
 [^91]: Aṅgas are accessorics, upaṅgas are those that are accessories to aṅgas: here the avoidance of what is opposed to the respective aṅgas.
 
