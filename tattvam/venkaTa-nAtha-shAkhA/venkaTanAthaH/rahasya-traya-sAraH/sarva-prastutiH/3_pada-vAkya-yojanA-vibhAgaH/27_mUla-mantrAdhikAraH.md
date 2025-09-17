@@ -11076,7 +11076,8 @@ y un significado supremo (para), en los siguientes Ślokas:
 इन् नमश्शब्दत्तुक्कु स्थूलसूक्ष्मपरङ्गळॆऩ्ऱु मूऩ्ऱर्थङ्गळै वगुत्तु अहिर्बुध्न्यऩ् व्याख्यानम् पण्णिऩाऩ्।
 </details>
 
-### प्रह्वी-भाव-व्यापारः
+### स्थूलार्थः
+#### प्रह्वी-भाव-व्यापारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > प्रेक्षावतः **प्रवृत्तिर्** या  
@@ -11356,6 +11357,7 @@ Porque **es** este **pensamiento** el que **es** la causa de la **inclinación**
 भगवान्मे परो नित्यमहं प्रत्यवरस्सदा ॥ इति भावो नमः प्रोक्तो नमसः कारणं हि सः । 
 </details>
 
+#### नामनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > +++(नमकानुजिघृक्षया)+++ **नामयत्य्** अपि वा देवं  
@@ -11398,12 +11400,68 @@ y **se dobla** (está **inclinado**) (para **hacerle** gracia).
 
 <details><summary>मूलम्</summary>
 
-नामयत्यपि वा देवं प्रह्वीभावयति ध्रुवम् ॥’’(अहिर्बुध्न्य-संहिता ५२-५ मुदल् १०)‘‘प्रह्वीभवति नीचे हि परो नैच्यं विलोकयन् । 
+नामयत्यपि वा देवं प्रह्वीभावयति ध्रुवम् ॥’’(अहिर्बुध्न्य-संहिता ५२-५ मुदल् १०)  
+‘‘प्रह्वीभवति नीचे हि परो नैच्यं विलोकयन् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो वा नम **उद्दिष्टं**  
+यत् तन् **नामयति** स्वयम् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो वा नम **उद्दिष्टं**  
+यत् तन् **नामयति** स्वयम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+Since it makes Bhagavān bend in favour,  
+this action is called namas. 
+</details>
+
+<details><summary>Español</summary>
+
+Ya que **hace** que Bhagavān **se doble** a favor,  
+Esta acción **se llama** Namas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो वा नम उद्दिष्टं यत्तन्नामयति स्वयम् ॥ 
+</details>
+
+#### पूर्णता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाचा नम इति **प्रोच्य**   
+मनसा वपुषा च यत् ।  
+तन् नमः पूर्णम् **उद्दिष्टम्**  
+अतोऽन्यन् न्यूनम् **उच्यते** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+वाचा नम इति **प्रोच्य**   
+मनसा वपुषा च यत् ।  
+तन् नमः पूर्णम् **उद्दिष्टम्**  
+अतोऽन्यन् न्यूनम् **उच्यते** ॥
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वाचा नम इति प्रोच्य मनसा वपुषा च यत् । तन्नमः पूर्णमुद्दिष्टमतोऽन्यन्न्यूनमुच्यते ॥
 </details>
 
 
 
-Since it makes Bhagavān bend in favour, this action is called namas: (c) Uttering the word namas with speech, having this namas in mind and bowing with the body--this is namas in its perfection (śaraṇāgati) and what is different from it in being defective in one or other of the three aspects is called defective namas. This is perfect prapatti (as aṅgī).
+
+(c) Uttering the word namas with speech, having this namas in mind and bowing with the body--this is namas in its perfection (śaraṇāgati) and what is different from it in being defective in one or other of the three aspects is called defective namas. This is perfect prapatti (as aṅgī).
 
 "I will tell you its accessories or aṅgas in their perfection : Listen. "The prapatti that I perform to Bhagavān, the Supreme Being, is itself my eternal fruit. I desire no other fruit." To have this (thought) is the best of accessories (aṅgas). The desire for (other) fruit or gain is opposed to this aṅga. Ākiñcanya or being destitute is the condition of being without the knowledge or the ability to perform bhakti . This state of destitution is due to false notions (vāsanas) that have been persisting in the mind from beginningless time and to the man's being by nature without independence. It is due also to the mind being covered by the impurities of desire and hatred (rāga and dvesha). The external manifestation of this teeling of helplessness is called kārparyam and it is the second aṅga. The thought that one is independent and could act of one's own accord is opposed to this. The third aṅga is the thought that, though Bhagavān is the Supreme Being, He is merciful to all creatures and is ever bent on showing His grace to them. This is called mahaviśvāsa or intense faith and the thought that Bhagavān will reward or pupish according to one's karma  and will (therefore) be indifferent towards one-this thought is opposed to intense faith. The fourth aṅga is the thought that Bhagavān is all-powerful and can protect us and the prayer (resulting from it) for protection. This would arise if we give up the thought that Bhagavān, though merciful, is wanting in the ability to protect us. The obstacle to this aṅga is the thought that He would be indifferent to us as He is without the quality of goodness. The fifth aṅga is called the avoidance of what is disagreeable (to Bhagavān). It consists in avoiding actions which would be against the will of the Master, The obstacle to this is doiog what is for bidden in the śāstras. The sixth aṅga is the determination to do good to all creatures in as much as all creatures-both those that move and those that do not move--are His body. Doing what is harmful to them is opposed to this. Thus have I explained to you namana (or śaranāgati) which consists of the aṅgas and the upāngas[^91] which mean avoiding what is opposed to them. This is the gross (sthūla) meaniog of the word namas.
 
