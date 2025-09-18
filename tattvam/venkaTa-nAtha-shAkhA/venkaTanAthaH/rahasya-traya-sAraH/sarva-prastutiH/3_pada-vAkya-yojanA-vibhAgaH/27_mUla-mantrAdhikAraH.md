@@ -11647,25 +11647,176 @@ Esto **se llama** mahaviśvāsa o fe intensa
 तृतीयं हन्ति वै सदा ॥ 
 </details>
 
+<details><summary>English</summary>
+
+and the thought that Bhagavān will reward or punish according to one's karma  
+and will (therefore) be indifferent towards one-  
+this thought is opposed to intense faith. 
+</details>
+
+<details><summary>Español</summary>
+
+y la idea de que Bhagavān **recompensará** o **castigar** de acuerdo con el karma de uno  
+y **será** (por lo tanto) indiferente hacia uno -   
+Este **pensamiento se opone** a la fe intensa.
+</details>
+
 <details><summary>मूलम्</summary>
 
 > उपेक्षको यथाकर्म फलदायीति या मतिः । विश्वासात्मकमेतत्तु तृतीयं हन्ति वै सदा ॥ 
 </details>
 
+###### गोप्तृत्व-वरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं भूतोऽप्यशक्तस्सन्न त्राणं भवितुं क्षमः । ’’(अहिर्बुध्न्य-संहिता ५२-१५ मुदल् १८।)‘‘इति बुद्ध्यास्य देवस्य गोप्तृशक्ति निरूपणम् ॥ चतुर्थमङ्गमुद्दिष्टममुष्य व्याहतिः पुनः । उदासीनो गुणाभावादित्युत्प्रेक्षा निमित्तजा ॥
+>> एवं-भूतो ऽप्य्, +++(प्रार्थनाम् अन्तरा)+++ **अ-शक्तस्** सन्,  
+**न त्राणं** भवितुं क्षमः ।   
+>
+> इति बुद्ध्या ऽस्य देवस्य  
+गोप्तृ-शक्ति-**निरूपणम्** +++(विज्ञापनेन)+++॥  
+चतुर्थम् अङ्गम् **उद्दिष्टम्**  
+अमुष्य व्याहतिः पुनः ।  
+"उदासीनो गुणाभावाद्"  
+इत्य् उत्प्रेक्षा-निमित्तजा ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+>> एवं-भूतो ऽप्य्, +++(प्रार्थनाम् अन्तरा)+++ **अ-शक्तस्** सन्,  
+**न त्राणं** भवितुं क्षमः ।   
+>
+> इति बुद्ध्या ऽस्य देवस्य  
+गोप्तृ-शक्ति-**निरूपणम्** +++(विज्ञापनेन)+++॥  
+चतुर्थम् अङ्गम् **उद्दिष्टम्**  
+अमुष्य व्याहतिः पुनः ।  
+"उदासीनो गुणाभावाद्"  
+इत्य् उत्प्रेक्षा-निमित्तजा ॥
+</details>
+
+
+<details><summary>English</summary>
+
+> The fourth aṅga is the thought that Bhagavān is all-powerful  
+and can protect us  
+and the prayer (resulting from it) for protection.  
+This would arise if we give up the thought that Bhagavān, though merciful,  
+is wanting in the ability to protect us.  
+The obstacle to this aṅga is the thought that  
+He would be indifferent to us  
+as He is without the quality of goodness. 
+</details>
+
+<details><summary>Español</summary>
+
+El cuarto aṅga **es** la idea de que Bhagavān **es** todopoderoso,  
+y **puede protegernos**,
+y la **oración** (resultante de ella) para la **protección**.  
+
+> Esto **surgiría** si **renunciamos** a la idea de que Bhagavān, aunque misericordioso,  
+**es querer** en la capacidad de **protegernos**.  
+El obstáculo para este aṅga  
+**es** la idea de que  
+Él **sería** indiferente a nosotros  
+como **está** sin la calidad de la bondad.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं भूतोऽप्यशक्तस्सन्न त्राणं भवितुं क्षमः । ’’(अहिर्बुध्न्य-संहिता ५२-१५ मुदल् १८।)‘‘इति बुद्ध्यास्य देवस्य गोप्तृशक्ति निरूपणम् ॥ चतुर्थमङ्गमुद्दिष्टममुष्य व्याहतिः पुनः । उदासीनो गुणाभावादित्युत्प्रेक्षानिमित्तजा ॥
+</details>
+
+###### प्रातिकूल्य-वर्जनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वस्य स्वामिनि **वृत्तिर्** या  
+प्रातिकूल्यस्य **वर्जनम्** ।  
+तद् अङ्गं पञ्चमं प्रोक्तम्  
+**आज्ञा-व्याघात-वर्जनम्** ॥  
+अशास्त्रीयोपसेवा तु  
+तद्-**विघात उदीर्यते** । 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वस्य स्वामिनि **वृत्तिर्** या  
+प्रातिकूल्यस्य **वर्जनम्** ।  
+तद् अङ्गं पञ्चमं प्रोक्तम्  
+**आज्ञा-व्याघात-वर्जनम्** ॥  
+अशास्त्रीयोपसेवा तु  
+तद्-**विघात उदीर्यते** । 
+</details>
+
+<details><summary>English</summary>
+
+> The fifth aṅga is called the avoidance of what is disagreeable (to Bhagavān).  
+It consists in avoiding actions  
+which would be against the will of the Master.  
+The obstacle to this is doing what is forbidden in the śāstras. 
+</details>
+
+<details><summary>Español</summary>
+
+> El quinto AṅGA **se llama** la **evitación** de lo que es **desagradable** (para Bhagavān).  
+Consiste en **evitar** acciones  
+que **estaría** en contra de la voluntad del maestro.  
+El obstáculo para esto **es hacer** lo que **está prohibido** en los Śāstras.
 </details>
 
 <details><summary>मूलम्</summary>
 
-एवं भूतोऽप्यशक्तस्सन्न त्राणं भवितुं क्षमः । ’’(अहिर्बुध्न्य-संहिता ५२-१५ मुदल् १८।)‘‘इति बुद्ध्यास्य देवस्य गोप्तृशक्ति निरूपणम् ॥ चतुर्थमङ्गमुद्दिष्टममुष्य व्याहतिः पुनः । उदासीनो गुणाभावादित्युत्प्रेक्षा निमित्तजा ॥
+स्वस्य स्वामिनि वृत्तिर्या प्रातिकूल्यस्य वर्जनम् । तदङ्गं पञ्चमं प्रोक्तमाज्ञाव्याघातवर्जनम् ॥ अशास्त्रीयोपसेवा तु तद्विघात उदीर्यते । 
 </details>
 
 
-and the thought that Bhagavān will reward or pupish according to one's karma  
-and will (therefore) be indifferent towards one-  
-this thought is opposed to intense faith. The fourth aṅga is the thought that Bhagavān is all-powerful and can protect us and the prayer (resulting from it) for protection. This would arise if we give up the thought that Bhagavān, though merciful, is wanting in the ability to protect us. The obstacle to this aṅga is the thought that He would be indifferent to us as He is without the quality of goodness. The fifth aṅga is called the avoidance of what is disagreeable (to Bhagavān). It consists in avoiding actions which would be against the will of the Master, The obstacle to this is doiog what is for bidden in the śāstras. The sixth aṅga is the determination to do good to all creatures in as much as all creatures-both those that move and those that do not move--are His body. Doing what is harmful to them is opposed to this. Thus have I explained to you namana (or śaranāgati) which consists of the aṅgas and the upāngas[^91] which mean avoiding what is opposed to them. This is the gross (sthūla) meaniog of the word namas.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> चराचराणि भूतानि  
+सर्वाणि भगवद्-वपुः ॥  
+अतस् तद्-**आनुकूल्यम्** मे  
+कार्यम् इत्य् एव **निश्चयः** ।  
+षष्ठम् अङ्गं **समुद्दिष्टं**  
+तद्-व्याघातो **निराकृतिः** ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> चराचराणि भूतानि  
+सर्वाणि भगवद्-वपुः ॥  
+अतस् तद्-**आनुकूल्यम्** मे  
+कार्यम् इत्य् एव **निश्चयः** ।  
+षष्ठम् अङ्गं **समुद्दिष्टं**  
+तद्-व्याघातो **निराकृतिः** ॥ 
+</details>
+
+<details><summary>English</summary>
+
+The sixth aṅga is the determination to do good to all creatures  
+in as much as all creatures-  
+both those that move and those that do not move--  
+are His body.  
+Doing what is harmful to them is opposed to this. 
+</details>
+
+<details><summary>Español</summary>
+
+El sexto aṅga **es** la **determinación** de **hacer** el bien a todas las criaturas  
+tanto como todas las criaturas  
+Tanto los que **se mueven** como los que **no se mueven** ...  
+**son** su cuerpo.
+**Hacer** lo que es dañino para ellos **se opone** a esto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+चराचराणि भूतानि सर्वाणि भगवद्वपुः ॥ अतस्तदानुकूल्यम्मे कार्यमित्येव निश्चयः । षष्ठमङ्गं समुद्दिष्टं तद्व्याघातो निराकृतिः ॥ 
+</details>
+
+
+
+
+Thus have I explained to you namana (or śaranāgati) which consists of the aṅgas and the upāngas[^91] which mean avoiding what is opposed to them. This is the gross (sthūla) meaniog of the word namas.
 
 [^91]: Aṅgas are accessorics, upaṅgas are those that are accessories to aṅgas: here the avoidance of what is opposed to the respective aṅgas.
 
