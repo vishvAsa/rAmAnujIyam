@@ -11892,7 +11892,7 @@ Learn (now) the subtle meaning - (sukṣmārtha).
 सूक्ष्मम् अन्यन् निशामय ॥ 
 </details>
 
-
+#### मम
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > चेतनस्य यदा मम्यं+++(←मम)+++  
@@ -11984,6 +11984,7 @@ a saber, "me na" (estos **no son** míos).
 </details>
 
 
+#### नमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > "नाहं मम, स्वतन्त्रोऽहं  
@@ -12058,6 +12059,15 @@ esos **pensamientos** falsos que **pertenecen** a uno mismo **desaparecen**.
 स्वातन्त्र्य-स्वत्व-धीमयम् ॥  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अनादि-वासना-जातैर्  
+बोधैस् तैस् तैर् **विकल्पितैः** ।  
+**रूषितं**+++(=भूषितम्)+++ यद् दृढं तत्-तत्-   
+स्वातन्त्र्य-स्वत्व-धीमयम् ॥  
+</details>
+
+
 <details><summary>English</summary>
 
 > Owing to those false thoughts that have arisen from false impressions (vāsanas ),  
@@ -12084,15 +12094,140 @@ these things are mine."
 अनादिवासनाजातैर्बोधैस्तैस्तैर्विकल्पितैः । ’’(अहिर्बुध्न्य-संहिता ५२-२३ मुदल् २८।)‘‘रूषितं यद्दृढं तत्तत्स्वातन्त्र्यस्वत्वधीमयम् ॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तत्-तद्-वैष्णव-सार्वात्म्य-  
+**प्रतिबोध-समुत्थया** ।  
+"नम" इत्य् एतया वाचा  
+नन्त्रा स्वस्माद् **अपोह्यते** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तत्-तद्-वैष्णव-सार्वात्म्य-  
+**प्रतिबोध-समुत्थया** ।  
+"नम" इत्य् एतया वाचा  
+नन्त्रा स्वस्माद् **अपोह्यते** ॥  
+</details>
+
+<details><summary>English</summary>
+
+> This thought is got rid of by the word namas  
+uttered by the man performing prapatti  
+with the right understanding that  
+Bhagavān (Viṣṇu) is the inner self or soul of all.  
+</details>
+
+<details><summary>Español</summary>
+
+> Este pensamiento **se elimina** por la palabra namas  
+**pronunciado** por el hombre que realiza Prapatti  
+con la **comprensión** correcta de que  
+Bhagavān (Viṣṇu) **es** el ser o alma interior de todos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्तद्वैष्णवसार्वात्म्यप्रतिबोधसमुत्थया ।  
+नम इत्येतया वाचा नंत्रा स्वस्मादपोह्यते ॥  
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इति ते सूक्ष्म उद्दिष्टः 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> इति ते सूक्ष्म उद्दिष्टः 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> Thus has the subtle meaning been explained,
+</details>
+
+<details><summary>मूलम्</summary>
+
+> Así **se ha explicado** el significado sutil,
+</details>
 
 
-This thought is got rid of by the word namas uttered by the man performing prapatti with the right understanding that Bhagavān (Viṣṇu) is the inner self or soul of all. Thus has the subtle meaning been explained,
+<details><summary>मूलम्</summary>
+
+इति ते सूक्ष्म उद्दिष्टः 
+</details>
+
+
+### परार्थः
+<details><summary>English</summary>
 
 III. THE SUPREME MEANING: (parārtha):
+</details>
 
-"Listen now to the supreme meaning (para), which is different (from what has been said before). The syllable na indicates the upāya (or endeavour): ma indicates that it is principal or all - important and the visarga (final aspirate) vis., S (in namas) means Bhagavān. This is the meaning obtained from that word (namas):-"In order to attain Bhagavān, who is eternal and who is the highest ruler, who is omnipotent and is called Puruṣottama - (in order to attain Him), Bhagavān is Himself the principal means called namana, Thus have I explained to you the three meanings of namas."
+<details><summary>Español</summary>
+
+III. El significado supremo: (parārtha):
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> परम् अन्यन् निशामय ।   
+</details>
+
+<details><summary>English</summary>
+
+> "Listen now to the supreme meaning (para),  
+which is different (from what has been said before). 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Escucha** ahora el significado supremo (para),  
+que **es** diferente (de lo que **se ha dicho** antes).
+</details>
+
+<details><summary>मूलम्</summary>
+
+परमन्यन्निशामय ।   
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पन्था+++(=उपायः)+++ नकार **उद्दिष्टो**  
+मः प्रधान **उदीर्यते** ॥  
+विसर्गः परमेशस् तु  
+तत्रार्थोऽयं **निरुच्यते** । 
+</details>
+
+<details><summary>English</summary>
+
+> The syllable "na" indicates the upāya (or endeavour);  
+"ma" indicates that it is principal or all-important  
+and the visarga (final aspirate) vis., "S" (in "namas") means Bhagavān.  
+This is the meaning obtained from that word (namas):-  
+</details>
+
+<details><summary>Español</summary>
+
+> La sílaba "na" **indica** el upāya (o **esfuerzo**);  
+"MA" **indica** que **es** principal o más importante  
+y el visarga (aspirado final) vis., "s" (en "namas") **significa** bhagavān.  
+Este **es** el significado **obtenido** de esa palabra (namas):-
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पन्था नकार उद्दिष्टो मः प्रधान उदीर्यते ॥ विसर्गः परमेशस्तु तत्रार्थोऽयं निरुच्यते । 
+</details>
+
+
+
+
+"In order to attain Bhagavān, who is eternal and who is the highest ruler, who is omnipotent and is called Puruṣottama - (in order to attain Him), Bhagavān is Himself the principal means called namana, Thus have I explained to you the three meanings of namas."
 
 ' Since, in the above, it is stated that only the Sapreme śeṣī should be bowed to or sought as refuge, it is evident and appropriate that the Being to whom namas is due is the Supreme śeṣī. In order to make it clear who this Supreme Seshī is, the specific name (Bhagavān) is given. In one of the ślokas quoted before,it is said, "Doing what is forbidden by the śāstras is opposed to this (avoiding what is disagreeable to Him)", and so also "Doing evil to other creatures is opposed to this doing what is pleasing to Him). The gist of these sentences is that, if at the time of performing prapatti, there occurs an act which is deliberate and is disagreeable (to the Lord), there are absent the determination to do what is pleasing (to Him) and also such things as the abstinence in thought from doing what is disagreeable (to Him). If, after the performance of prapatti, the man deliberately does what is disagreeable (to Him), he acts in a manner which is opposed to the command of Bhagavān, whom he sought with eagerness (while performing prapatti).
 
