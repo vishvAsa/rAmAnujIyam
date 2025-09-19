@@ -11814,15 +11814,281 @@ Tanto los que **se mueven** como los que **no se mueven** ...
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पूर्णम् अङ्गैर् उपाङ्गैश्+++(←अङ्ग-विरोधि-वारणम्)+++ च  
+नमनन् ते प्रकीर्तितम् ।  
+स्थूलो ऽयं नमसस् त्व् अर्थः  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> पूर्णम् अङ्गैर् उपाङ्गैश्+++(←अङ्ग-विरोधि-वारणम्)+++ च  
+नमनन् ते प्रकीर्तितम् ।  
+स्थूलो ऽयं नमसस् त्व् अर्थः  
+</details>
+
+<details><summary>English</summary>
+
+> Thus have I explained to you namana (or śaranāgati) which consists of the aṅgas  
+and the upāngas which mean avoiding what is opposed to them.  
+This is the gross (sthūla) meaning of the word namas.
+
+(Aṅgas are accessories,  
+upaṅgas are those that are accessories to aṅgas:  
+here the avoidance of what is opposed to the respective aṅgas.)
+</details>
+
+<details><summary>Español</summary>
+
+> Así te **he explicado** Namana (o Śaranāgati) que **consiste** en los AṅGas  
+y los upāngas que **significan evitar** lo que **se opone** a ellos.  
+Este **es** el significado bruto (sthūla) de la palabra namas.
+
+(AṅGAS **son** accesorios,  
+Las UPAṅGAS **son** aquellos que **son** accesorios para AṅGas:  
+aquí la **evitación** de lo que **se opone** a los respectivos AṅGAs).
+</details>
 
 
-Thus have I explained to you namana (or śaranāgati) which consists of the aṅgas and the upāngas[^91] which mean avoiding what is opposed to them. This is the gross (sthūla) meaniog of the word namas.
+<details><summary>मूलम्</summary>
 
-[^91]: Aṅgas are accessorics, upaṅgas are those that are accessories to aṅgas: here the avoidance of what is opposed to the respective aṅgas.
+पूर्णमङ्गैरुपाङ्गैश्च नमनन्ते प्रकीर्तितम् । ’’(अहिर्बुध्न्य-संहिता ५२-१८ मुदल् २३)‘स्थूलोऽयं नमसस्त्वर्थः 
+</details>
+
+
+
+
+### सूक्ष्मार्थः
+
+<details><summary>English</summary>
 
 II. THE SUBTLE MEANING - SUKSHMĀRTHA:
+</details>
 
-Learn (now) the subtle meaning - (sukṣmārtha). Whenever the sentient being considers himself and what is connected with him as his own, the two letters ma, and ma in mama (mine) signify the notion of mine' or mamakāra. The thought regarding oneself and those things that are connected with one that one is independent and that these things belong to oneself - this thought has arisen from the false notion which has grown in strength owing to wrong impressions (vāsanas) which are from time immemorial (beginningless ). This notion can be countered by the right thought viz., me na (These are not mine). The meaning of me na is, “I am not independent. I am not śeṣa to myself (but to God). (My) body and other things are not mine; they are śeṣas to the Supreme Being." By this right understanding, those false thoughts that they belong to oneself disappear, Owing to those false thoughts that have arisen from false impressions (vāsanas ), which are from time immemorial (anadi) and which have grown in strength by notions opposed to the true nature of things, (we think as follows ):- "I am independent: these things are mine." This thought is got rid of by the word namas uttered by the man performing prapatti with the right understanding that Bhagavān (Viṣṇu) is the inner self or soul of all. Thus has the subtle meaning been explained,
+<details><summary>Español</summary>
+
+II. El significado sutil - Sukshmārtha:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सूक्ष्मम् अन्यन् निशामय ॥ 
+</details>
+
+<details><summary>English</summary>
+
+Learn (now) the subtle meaning - (sukṣmārtha). 
+</details>
+
+<details><summary>Español</summary>
+
+**Aprenda** (ahora) el significado sutil - (Sukṣmārtha).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सूक्ष्मम् अन्यन् निशामय ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> चेतनस्य यदा मम्यं+++(←मम)+++  
+स्वस्मिन्, स्वीये च वस्तुनि ।  
+"म-म" इत्य् अक्षर-द्वन्द्वं  
+तदा +++(विषय-द्वन्द्वे)+++ मम्यस्य वाचकम् ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> चेतनस्य यदा मम्यं+++(←मम)+++  
+स्वस्मिन्, स्वीये च वस्तुनि ।  
+"म-म" इत्य् अक्षर-द्वन्द्वं  
+तदा +++(विषय-द्वन्द्वे)+++ मम्यस्य वाचकम् ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> Whenever the sentient being considers himself and what is connected with him as his own,  
+the two letters ma, and ma in mama (mine) signify the notion of 'mine' or mamakāra. 
+</details>
+
+<details><summary>Español</summary>
+
+> Cada vez que el ser sensible **se considera** a sí mismo y lo que **está conectado** con él como suyo,  
+Las dos letras "Ma", y "Ma" en "Mama" (mía) **significan** la noción de 'mía' o Mamakāra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+चेतनस्य यदा मम्यं स्वस्मिन् स्वीये च वस्तुनि । मम इत्यक्षरद्वन्द्वं तदा मम्यस्य वाचकम् ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनादि-वासना-रूढ-  
+मिथ्या-ज्ञान-निबन्धना ।  
+आत्मात्मीय-पदार्थ-स्था  
+या +++(स्व-)+++स्वातन्त्र्य-+++(वस्त्व्-अन्तर-)+++स्वता **मतिः** ॥  
+"मे ने"त्य् एवं समीचीन-  
+बुद्ध्या सात्र **निवार्यते** ।+++(4)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अनादि-वासना-रूढ-  
+मिथ्या-ज्ञान-निबन्धना ।  
+आत्मात्मीय-पदार्थ-स्था  
+या +++(स्व-)+++स्वातन्त्र्य-+++(वस्त्व्-अन्तर-)+++स्वता **मतिः** ॥  
+"मे ने"त्य् एवं समीचीन-  
+बुद्ध्या सात्र **निवार्यते** ।+++(4)+++
+</details>
+
+
+<details><summary>English</summary>
+
+> The thought regarding oneself and those things that are connected with one  
+that one is independent  
+and that these things belong to oneself -  
+this thought has arisen from the false notion  
+which has grown in strength  
+owing to wrong impressions (vāsanas)  
+which are from time immemorial (beginningless ).  
+This notion can be countered by the right thought  
+viz., me na (These are not mine).  
+</details>
+
+<details><summary>Español</summary>
+
+> El **pensamiento**  
+sobre uno mismo y las cosas que **están conectadas** con uno  
+que ese **es** independiente  
+y que estas cosas **se pertenecen** a uno mismo -
+>
+> Este **pensamiento ha surgido** de la falsa noción  
+que **ha crecido** en fuerza  
+Debido a impresiones incorrectas (vāsanas)  
+que **son** de tiempo inmemorial (sin inicio).  
+> 
+> Esta noción **puede ser contrarrestada** por el pensamiento correcto  
+a saber, "me na" (estos **no son** míos).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनादिवासनारूढमिथ्याज्ञान निबन्धना । आत्मात्मीयपदार्थस्था या स्वातन्त्र्यस्वता मतिः ॥ मे नेत्येवं समीचीनबुद्ध्या सात्र निवार्यते ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "नाहं मम, स्वतन्त्रोऽहं  
+**नास्मी**"त्य् अस्यार्थ **उच्यते** ॥  
+"न मे देहादिकं वस्तु  
+स शेषः परमात्मनः ।"  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "नाहं मम, स्वतन्त्रोऽहं  
+**नास्मी**"त्य् अस्यार्थ **उच्यते** ॥  
+"न मे देहादिकं वस्तु  
+स शेषः परमात्मनः ।"  
+</details>
+
+
+<details><summary>English</summary>
+
+> The meaning of "me na" is,  
+“I am not independent.  
+I am not śeṣa to myself (but to God).  
+(My) body and other things are not mine;  
+they are śeṣas to the Supreme Being."  
+</details>
+
+<details><summary>Español</summary>
+
+> El significado de "yo na" es,  
+**“No soy** independiente.  
+**No soy** Śeṣa para mí mismo (sino para Dios).  
+(Mi) cuerpo y otras cosas **no son** mías;  
+**Son** Śeṣas para el ser supremo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नाहं मम स्वतन्त्रोऽहं नास्मीत्यस्यार्थ उच्यते ॥ न मे देहादिकं वस्तु स शेषः परमात्मनः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इति बुद्ध्या **निवर्तन्ते**  
+तास् ताः स्वीया मनीषिकाः ॥  
+</details>
+
+<details><summary>English</summary>
+
+By this right understanding, those false thoughts that they belong to oneself disappear. 
+</details>
+
+<details><summary>Español</summary>
+
+Con este **entendimiento** correcto,  
+esos **pensamientos** falsos que **pertenecen** a uno mismo **desaparecen**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इति बुद्ध्या निवर्तन्ते तास्ताः स्वीया मनीषिकाः ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनादि-वासना-जातैर्  
+बोधैस् तैस् तैर् **विकल्पितैः** ।  
+**रूषितं**+++(=भूषितम्)+++ यद् दृढं तत्-तत्-   
+स्वातन्त्र्य-स्वत्व-धीमयम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+> Owing to those false thoughts that have arisen from false impressions (vāsanas ),  
+which are from time immemorial (anadi)  
+and which have grown in strength by notions opposed to the true nature of things,  
+(we think as follows ):-  
+"I am independent,  
+these things are mine." 
+</details>
+
+<details><summary>Español</summary>
+
+> Owing to those false thoughts that have arisen from false impressions (vāsanas ),  
+which are from time immemorial (anadi)  
+and which have grown in strength by notions opposed to the true nature of things,  
+(we think as follows ):-  
+"I am independent,  
+these things are mine." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनादिवासनाजातैर्बोधैस्तैस्तैर्विकल्पितैः । ’’(अहिर्बुध्न्य-संहिता ५२-२३ मुदल् २८।)‘‘रूषितं यद्दृढं तत्तत्स्वातन्त्र्यस्वत्वधीमयम् ॥  
+</details>
+
+
+
+
+
+This thought is got rid of by the word namas uttered by the man performing prapatti with the right understanding that Bhagavān (Viṣṇu) is the inner self or soul of all. Thus has the subtle meaning been explained,
 
 III. THE SUPREME MEANING: (parārtha):
 
