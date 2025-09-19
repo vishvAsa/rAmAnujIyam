@@ -279,7 +279,7 @@ Historically some acharyas preferred to do bharanyasam post kalakshepam so that 
 सौम्यजामातृ-विमतिः 
 
 - तत्त्व-त्रय-व्याख्याने बुद्धस्य साक्षाद्-अवतारत्वम् आचार्यहृदये प्रतिपादितम्। विष्वक्सेन-संहितादिषु तस्यावेशावतारत्वम् उक्तम्। Ignores viShvaksena saMhita etc॥ and says buddha is pUrNAvatAra।
-- पराशरभट्ट-विरोधेन व्यासः पूर्णावतारः कीर्तितः। Ignores parAsharabhaTTa and says he's pUrNAvatAra।  
+- पराशरभट्ट-विरोधेन व्यासः पूर्णावतारः कीर्तितः। Ignores parAsharabhaTTa and says vyAsa is pUrNAvatAra।  
 
 ## इतिहासादौ
 विभीषणशरणागतिर् न कैङ्कर्यार्थं, अपि तु राज्यार्थम् इति तॆन्नाचार्यमतम् प्रचुरम् इति श्रूयते । इदं च प्रमाण-प्रतिषिद्धं वेङ्कटनाथार्येण खण्डितम् इति ज्ञायते। 
