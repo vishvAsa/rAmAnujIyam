@@ -5,6 +5,8 @@ title = "+वासुदेव-प्रकाशः"
 
 Source: [TW](https://archive.org/details/YatindraMataDipika193450AnandaAshramSeries/page/n27/mode/1up)
 
+Source: [TW](https://archive.org/details/YatindraMataDeepika1934AnandAshramSeries/page/%E0%A5%AE/mode/2up)
+
 TODO: परिष्कार्यम्
 
 989 
