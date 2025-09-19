@@ -11892,7 +11892,7 @@ Learn (now) the subtle meaning - (sukṣmārtha).
 सूक्ष्मम् अन्यन् निशामय ॥ 
 </details>
 
-#### मम
+#### म-म
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > चेतनस्य यदा मम्यं+++(←मम)+++  
@@ -12160,7 +12160,7 @@ Bhagavān (Viṣṇu) **es** el ser o alma interior de todos.
 </details>
 
 
-### परार्थः
+### परार्थः - भगवद्-उपायता
 <details><summary>English</summary>
 
 III. THE SUPREME MEANING: (parārtha):
@@ -12197,7 +12197,7 @@ que **es** diferente (de lo que **se ha dicho** antes).
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > पन्था+++(=उपायः)+++ नकार **उद्दिष्टो**  
-मः प्रधान **उदीर्यते** ॥  
+मः +++(=)+++ प्रधान **उदीर्यते** ॥  
 विसर्गः परमेशस् तु  
 तत्रार्थोऽयं **निरुच्यते** । 
 </details>
@@ -12224,12 +12224,158 @@ Este **es** el significado **obtenido** de esa palabra (namas):-
 पन्था नकार उद्दिष्टो मः प्रधान उदीर्यते ॥ विसर्गः परमेशस्तु तत्रार्थोऽयं निरुच्यते । 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनादिः परमेशो यश्  
+शक्तिमान् पुरुषोत्तमः ॥  
+तत्-**प्राप्तये** +++(स्वयम् एव!)+++ प्रधानोऽयं  
+पन्था नमन-नामवान् ।  
+(अहिर्बुध्न्य-संहिता ५२-२८ मुदल् ३३)  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अनादिः परमेशो यश्  
+शक्तिमान् पुरुषोत्तमः ॥  
+तत्-**प्राप्तये** +++(स्वयम् एव!)+++ प्रधानोऽयं  
+पन्था नमन-नामवान् ।  
+(अहिर्बुध्न्य-संहिता ५२-२८ मुदल् ३३)  
+</details>
+
+<details><summary>English</summary>
+
+> "In order to attain Bhagavān,  
+who is eternal  
+and who is the highest ruler,  
+who is omnipotent  
+and is called Puruṣottama -  
+(in order to attain Him),  
+Bhagavān is Himself the principal means called namana,  
+</details>
+
+<details><summary>Español</summary>
+
+> "Para **alcanzar** Bhagavān,  
+quien **es** eterno  
+y quién **es** el gobernante más alto,  
+quien **es** omnipotente  
+y **se llama** puruṣottama -  
+(para **alcanzarlo**),  
+Bhagavān **es** él mismo el principal medio **llamado** Namana,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनादिः परमेशो यश्शक्तिमान् पुरुषोत्तमः ॥  
+तत्प्राप्तये प्रधानोऽयं पन्था नमननामवान् । ’’ (अहिर्बुध्न्य-संहिता ५२-२८ मुदल् ३३)  
+</details>
+
+### विवरणम्
+#### परम-शेषि-नन्तव्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘इति ते त्रिविधः प्रोक्तो  
+नमश्-शब्दार्थ ईदृशः’’  
+(अहिर्बुध्न्य-संहिता ५२-३३) 
+
+इति ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘इति ते त्रिविधः प्रोक्तो  
+नमश्-शब्दार्थ ईदृशः’’  
+(अहिर्बुध्न्य-संहिता ५२-३३) 
+</details>
+
+<details><summary>English</summary>
+
+> Thus have I explained to you the three meanings of namas."
+</details>
+
+<details><summary>Español</summary>
+
+> Así te **he explicado** los tres significados de Namas ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘इति ते त्रिविधः प्रोक्तो नमश्शब्दार्थ ईदृशः’’(अहिर्बुध्न्य-संहिता ५२-३३) इति ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिल्  
+
+> ‘‘नन्तव्यः परमश् शेषी’’ 
+
+ऎऩ्गैयाले  
+
+> नमस्सुक्कुप् परम-शेषिये प्रतिसम्बन्धिय् 
+
+ऎऩ्ऩुम् इडम् स्वतः प्राप्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+Since, in the above, it is stated that  
+only the Supreme śeṣī should be bowed to or sought as refuge,  
+it is evident and appropriate that  
+the Being to whom namas is due  
+is the Supreme śeṣī. 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que, en lo anterior, **se afirma** que  
+Solo el supremo Śeṣī **debe ser inclinado** o **buscado** como **refugio**,  
+**es evidente y apropiado** que  
+el ser a quien namas **se debe**  
+**es** el supremo Śeṣī.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् ‘‘नन्तव्यः परमश् शेषी’’ ऎऩ्गैयाले नमस्सुक्कुप् परमशेषिये प्रतिसम्बन्धियॆऩ्ऩुमिडम् स्वतः प्राप्तम्। 
+</details>
+
+#### भगवान्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> परम-शेषि इऩ्ऩाऩ्+++(=ईदृशः)+++ 
+
+ऎऩ्ऱु तॆळिगैक्क् आग  
++++("भगवान् मे परो नित्यम्" इत्यत्र)+++  
++++("भगवान्"→)+++ विशेष-नाम-धेयम्। 
+</details>
+
+
+<details><summary>English</summary>
+
+In order to make it clear who this Supreme Seshī is,  
+the specific name (Bhagavān) is given.  
+</details>
+
+<details><summary>Español</summary>
+
+Para **dejar** en claro  
+quién **es** este Seshī supremo,  
+Se **da** el nombre específico (Bhagavān).
+</details>
+
+<details><summary>मूलम्</summary>
+
+परमशेषि इऩ्ऩाऩॆऩ्ऱु तॆळिगैक्काग विशेषनामधेयम्। 
+</details>
 
 
 
-"In order to attain Bhagavān, who is eternal and who is the highest ruler, who is omnipotent and is called Puruṣottama - (in order to attain Him), Bhagavān is Himself the principal means called namana, Thus have I explained to you the three meanings of namas."
 
-' Since, in the above, it is stated that only the Sapreme śeṣī should be bowed to or sought as refuge, it is evident and appropriate that the Being to whom namas is due is the Supreme śeṣī. In order to make it clear who this Supreme Seshī is, the specific name (Bhagavān) is given. In one of the ślokas quoted before,it is said, "Doing what is forbidden by the śāstras is opposed to this (avoiding what is disagreeable to Him)", and so also "Doing evil to other creatures is opposed to this doing what is pleasing to Him). The gist of these sentences is that, if at the time of performing prapatti, there occurs an act which is deliberate and is disagreeable (to the Lord), there are absent the determination to do what is pleasing (to Him) and also such things as the abstinence in thought from doing what is disagreeable (to Him). If, after the performance of prapatti, the man deliberately does what is disagreeable (to Him), he acts in a manner which is opposed to the command of Bhagavān, whom he sought with eagerness (while performing prapatti).
+
+
+In one of the ślokas quoted before,it is said, "Doing what is forbidden by the śāstras is opposed to this (avoiding what is disagreeable to Him)", and so also "Doing evil to other creatures is opposed to this doing what is pleasing to Him). The gist of these sentences is that, if at the time of performing prapatti, there occurs an act which is deliberate and is disagreeable (to the Lord), there are absent the determination to do what is pleasing (to Him) and also such things as the abstinence in thought from doing what is disagreeable (to Him). If, after the performance of prapatti, the man deliberately does what is disagreeable (to Him), he acts in a manner which is opposed to the command of Bhagavān, whom he sought with eagerness (while performing prapatti).
 
 In the ślokas cited above, the gross meaning (sthūlārtha) is that which appears obvious from etymological derivation according to grammar. The subtle meaning (sūkṣmārtha) is that which appears from interpretation based on the similarity of syllables on the strength of Nirukta. The supreme meaning (parārtha) is that which is explained in the secret śāstras (i.e.) śāstras which comment on the meaning of the secret mantras with the help of the conventions regarding the meaning of letters. (In the ślokas cited above), in the first (sthulartha) interpretation, the behaviour which is inherent by nature to the śeṣa (namely, namana) and the structure or constitution of Sādhyopāya with its aṅgas, are explained. Then, in the second, they clarify the svarūpa of the jīva, as this is essential to the aspirant to mukti who adopts the upāya, namely, that he has no unconditional independence. Then in the third (i.e.) para, the ślokas indicate the nature of Siddhopāya (Bhagavān), who can be won by the adoption of the particular Sādhyopāya and who is also the object to be attained. It may also be understood as stating that surrender (of self) is more important' than all other upāyas. All these are to be understood in their proper places where the ten different interpretations are given later on.
 
