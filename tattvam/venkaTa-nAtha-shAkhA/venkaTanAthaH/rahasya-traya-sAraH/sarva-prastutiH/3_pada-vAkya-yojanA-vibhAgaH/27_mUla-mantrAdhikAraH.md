@@ -7131,6 +7131,10 @@ Los del grupo TA (त) **denotan** las cinco tanmatras (como el olor)
 ‘‘भूतानि च कवर्गेण चवर्गेणेन्द्रियाणि च । टवर्गेण तवर्गेण ज्ञानगन्धादयस्तथा ॥ 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द्रियाणि - कर्मेन्द्रियाणि, ज्ञानगन्धादयः – ज्ञानेन्द्रियङ्गळुम् गन्धतन्मात्रादिगळुम्, 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7225,6 +7229,12 @@ Y él **es** el vigésimo quinto tattva o real ".
 तत्त्वसागरसंहितादिगळिले पञ्चविंशतितत्त्वङ्गळुक्कुम् ककारम् मुदलाऩव् इरुबत्तैन्दक्षरङ्गळुम् वाचकङ्गळागवगुत्तुच् चॊल्लुगैयाले सिद्धम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सिद्धमिति । इदऱ्कु ’’इदु जीवात्मवाचकमॆऩ्ऩुमिड’’ मित्यनेनान्वयः । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्ताल् जडत्वाचेतनत्वादि-दोषाश्रयङ्गळ् आऩव् इरु-बत्ति-ऩालु तत्त्वङ्गळैक् काट्टिलुम्  
@@ -7273,6 +7283,28 @@ y quién **está indicado** por la primera letra (en AUM).
 इत्ताल् जडत्वाचेतनत्वादिदोषाश्रयङ्गळाऩ विरुबत्तिऩालु तत्त्वङ्गळैक् काट्टिलुम् सर्वकारणमागवुम् सर्वरक्षकऩागवुम् सर्वशेषियागवुम् प्रथमाक्षरत्तिल् तोऱ्ऱिऩ षड्विंशकऩिऱ्काट्टिलुम् जीवात्मावुक्कु वेऱुबाडु सिद्धित्तदु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मकारवाच्यत्वत्ताले जीवऩुक्कु अचेतनव्यावृत्तियुम् ईश्वरव्यावृत्तियुम् सिद्धित्तदॆऩ्गिऱार् इत्तालित्यादिना । जडत्वं, स्वयम्प्रकाशभिन्नत्वम्, अचेतनत्वम्, ज्ञानरहितत्वम्, आदिशब्दत्ताले सततविकारित्वादिगळ् सङ्गृहीतङ्गळ्। 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इरुबत्तिऩालु तत्त्वङ्गळैक्काट्टिलुम् इरुबत् तिऩालु अक्षरवाच्यङ्गळाऩ प्रकृतिविकृतिरूपङ्गळाऩ इरुबत्तिऩालु तत्त्वङ्गळैक् काट्टिलुम्, सर्वकारणमागवुमित्यादि ।  
+अकारत्ताल् सर्वकारणमागवुम्, धात्वर्थत्ताल् सर्व-रक्षकऩागवुम्, विभक्त्यर्थत्ताले सर्वशेषियागवुमॆऩ्गै।  
+**षड्विंशकऩ्** - परमात्मा,  
+
+> ‘‘तं षड्विंशकम् इत्य् आहुस्  
+सप्तविंशमथापरे’’ 
+
+ऎऩ्ऱदिऱे श्रुतिः । 
+
+वेऱुबाडु - व्यावृत्तिः,  
+ज्ञानत्वज्ञातृत्वङ्गळ् मकारार्थङ्गळागैयाले तद्-विरुद्ध-जडत्वाचेतनत्वाश्रय-वस्तु-व्यावृत्तिः । मकारार्थत्तिऱ्कु अकारार्थनिरूपितशेषत्वरक्ष्यत्वङ्गळ् तोऱ्ऱुगैयाल् ईश्वरव्यावृत्तिः । पञ्चविंशवर्णवाच्यऩागैयाल् पञ्चविंशवर्णवाच्यमागादवचित्तिऩिऩ्ऱुम् षड्विंशऩाऩ ईश्वरऩिऩ्ऱुम् व्यावृत्तिः ऎऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्-तिरु-मन्त्रत्तिल्  
@@ -7319,6 +7351,43 @@ El M (en AUM) **se refiere** al Jīva y no al Ser Supremo).)
 इत्तिरुमन्त्रत्तिल् मकारङ्गळुम् नारशब्दमुम् निष्कर्षविवक्षैयाले विशेषणमात्रपरङ्गळ्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तत्त्वात्मत्वेन संस्थितः ऎऩ्ऱु भगवाऩ् मकारवाच्य जीवऩुक्कुम् आत्मावागच् चॊल्लप्पट्ट पडियाल् मकारत्तिऱ्कु जीवान्तर्यामिपरमात्मपरत्वम् कॊळ्ळवेण्डुमागैयाल् अदिल् चतुर्थ्यर्थशेषत्वमनन्वितमागादो ऎऩ्ऩ तिरुमन्त्रत्तिल् मकारादिगळ् निष्कर्षकशब्दङ्गळागैयाल् बाधकमिल्लै यॆऩ्गिऱार् इत्तिरुमन्त्रत्तिलित्यादिना ।  
+मकारङ्गळुम् - प्रणव-नमस्सुक्कळिलुळ्ळ मकारङ्गळुम्,  
+निष्कर्षविवक्षैयाले इति ।  
+
+शब्दङ्गळ् इरण्डुविधङ्गळ् - निष्कर्षकङ्गळॆऩ्ऱुम्, अनिष्कर्षकङ्गळॆऩ्ऱुम्।  
+अदिल् **निष्कर्षकङ्गळ्** आवऩ -  
+विशेषण-मात्रत्तैच् चॊल्लुम् अवैगळ् -  
+यथा गोत्व-शरीरादि-शब्दङ्गळ्।  
+**अ-निष्कर्षक**-शब्दङ्गळ् आवऩ विशेषण-विशिष्ट-विशेष्य-वाचिगळ् आऩ शब्दङ्गळ् -  
+यथा शुक्ल-गवादि-शब्दङ्गळ्।  
+निष्कर्षक-शब्दङ्गळुम् इरण्डुविधङ्गळ्।  
+नियत-निष्कर्षकङ्गळ् ऎऩ्ऱुम् वैवक्षिक-निष्कर्षकङ्गळ् ऎऩ्ऱुम्,  
+अदिल् **नियत-निष्कर्षकङ्गळ्** गोत्वजात्यादिशब्दङ्गळ्। **वैवक्षिकनिकर्षकङ्गळ्** आवऩ विवक्षैक्क् अनुगुणम् आग  
+विशेषण-विशिष्टत्तैयुम् विशेषण-मात्रत्तैयुम् सॊल्लुम् शब्दङ्गळ्।  
+यथा शुक्लादिशब्दङ्गळ्।  
+शुक्लशब्दम् शुक्लः पट इत्यादौ  
+विशेष्य-पर्यन्त-विवक्षायां शुक्ल-रूप-विशिष्टत्तैच् चॊल्लुगिऱदु।  
+विशेषण-मात्र-विवक्षायां पटस्य शुक्लम् इत्य्-आदौ विशेषणमात्रत्तैच् चॊल्लुगिऱदु।  
+
+इप्पडिये देवादि-शब्दङ्गळुम्  
+विशेष्य-पर्यन्तत्व-विवक्षायां  
+देवत्व-विशिष्ट-पिण्ड-विशिष्ट- जीव-विशिष्ट- परमात्म-पर्यन्तत्तैच् चॊल्लुम्।  
+
+विशेषण-मात्र-विवक्षायां  
+ऎन्द विशेषणम् विवक्षितमो  
+तावत्-पर्यन्तत्तैये सॊल्लुम्।  
+तथा च देवशब्दम् देवत्व-रूपाकृति-विवक्षायां  
+देवत्व-मात्रत्तैयुम्,  
+देवत्व-विशिष्ट-पिण्ड-मात्र-विवक्षायां देवरूप-शरीरत्तैयुम्,  
+पिण्ड-विशिष्ट-जीव-विवक्षायां तादृश जीवऩैयुम् सॊल्लुगिऱाप् पोल्  
+इङ्गु मकारादि-रूप-वैवक्षिक-निष्कर्षक-शब्दङ्गळ्  
+विवक्षैयिऩाले जीव-रूप-विशेषण-मात्र-परङ्गळ् आगैयाल् अनन्वयादि-दोष-प्रसङ्गम् इल्लैय् ऎऩ्ऱु करुत्तु।
+</details>
+
+
 #### व्युत्पत्तेर् ज्ञातृत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7330,7 +7399,6 @@ El M (en AUM) **se refiere** al Jīva y no al Ser Supremo).)
 
 इदम् अक्षरं व्याकरण-प्रक्रियायां दृष्टायां  
 "मन ज्ञाने" इत्यादि-धातु-निष्पन्न-पदत्वात्,  
-
 </details>
 
 
@@ -7352,6 +7420,8 @@ y otras raíces similares (MA - que **significa** 'medida')
 
 इव्वक्षरम् व्याकरणप्रक्रियैयैप्पार्त्ताल् ‘‘मन ज्ञान’’ इत्यादिधातुक्कळिले निष्पन्नमाऩ पदमागैयाले 
 </details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -10584,6 +10654,16 @@ Desde el Jīva, que **es** así (akiñcana) indigente (de cualquier upāyas),
 इङ्गे +++(नमसि)+++ सूचितम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तद्-वशीकरणार्थं द्वये चरम-श्लोके च  
+विशदं प्रतिपादितं शरण-वरणम्  
+अत्र सूचितं भवति । 
+</details>
+
+
+
+
 <details><summary>English</summary>
 
 the prayer for protection (saranavaranam) which is explicitly stated in Dvaya and the Carama śloka for winning His favour is necessary  
@@ -10608,6 +10688,13 @@ Y está aquí **implícito**, en Namas of the Tirumantra.
 अन्योऽन्यम् पिरियामैयालेय्  
 ओर्-ऒऩ्ऱैच् चॊल्लुम् शब्दङ्गळिल्  
 इरण्डुम् विवक्षितम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आत्म-समर्पणस्य शरण-वरणस्य चान्योन्यम् अविनाभूतत्वाद्  
+एकैक-प्रतिपादन-शब्देषु  
+उभयम् अपि विवक्षितम् ।
 </details>
 
 <details><summary>English</summary>
@@ -10687,6 +10774,7 @@ el tigre entre los hombres ".
 शरण्यं पुरुषर्षभाः॥’’  
 (भारतम् आरण्य-पर्व १९२-५६) 
 
+इत्य् उपदिष्टे सति, 
 </details>
 
 <details><summary>English</summary>
@@ -10731,6 +10819,7 @@ Cuando Markandeya les **dio** este consejo,
 **नमश् चक्रुर्** जनार्दनम्॥’’  
 (भारतम् आरण्य-पर्व १९२-५६) 
 
+इति प्रतिपादनात्, 
 </details>
 
 
@@ -10775,14 +10864,19 @@ Como **se puede ver** en lo anterior ~~siguiente~~ Ślokas:
 
 <details><summary>नीलमेघः (सं)</summary>
 
+दमयन्ती-वृत्तान्ते 
+
 > ‘‘शरणं प्रति देवानां  
 प्राप्त-कालमम् अन्यतः’’  
 (भारतम् आरण्य-पर्व ५४-१६) 
+
+इत्य् उपक्रम्य, 
 
 > ‘‘वाचा च मनसा चैव  
 नमस्कारं प्रयुज्य सा॥’’  
 (भारतम् आरण्य-पर्व) 
 
+इत्य्-उक्तत्वाच् च 
 </details>
 
 <details><summary>English</summary>
@@ -10814,6 +10908,12 @@ Entonces **hizo** Namaskara con (todo) su **discurso** y (todo) su mente ".
 नमश्-शब्दन् ताऩे शरणागति-शब्द-स्थानत्तिले पठितम् आगैयाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+नमः-शब्दस्यैव शरणागति-वृन्दस्थाने पठितत्वाद् 
+</details>
+
+
 <details><summary>English</summary>
 
 The word namas is itself (often) employed to stand for the prayer for protection, 
@@ -10835,6 +10935,13 @@ La palabra namas **es** en sí misma (a menudo) **empleada** para **defender** l
 इदु तऩ्ऩोडु तऩ् तुवक्क्-अऱुत्तुक् कॊण्डु  
 स-परिकरम् आऩ स्व-रक्षा-भर-समर्पणत्तिले तत्-परम् आगवुम् आम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं स्वेन सह स्वस्य संबन्धं व्यवच्छिन्दत् सत्  
+स-परिकर-स्व-रक्षा-भर-समर्पणे तत्-परं वा । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10866,6 +10973,14 @@ Por lo tanto, su **pretensión** también **puede ser** la **rendición** de la 
 
 ऎऩ्ऩुम् इडम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> नमः-शब्द आत्म-समर्पण-परो भवति
+
+इत्य् एतत्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -10949,7 +11064,7 @@ El hombre que **se ha entregado** a sí mismo (ātma samarpana) a bhagavān con 
 विधायात्म-निवेदनम्॥’’  
 (मन्त्र-राज-पद-स्तोत्रम्)  
 
-
+इत्यादिभिश् च प्रसिद्धम् ।
 </details>
 
 <details><summary>English</summary>
@@ -10999,13 +11114,26 @@ y **disfruta** de lo que **quiera** ".
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > नाऩुम् ऎऩक्क् उरियेऩ् अल्लेऩ्,  
-
-> ऎऩ्ऩुडैयद् आऩ व्यापारादिगळुम् ऎऩक्कु शेषम् अऩ्ऱु; 
-
+> ऎऩ्ऩुडैयद् आऩ व्यापारादिगळुम् ऎऩक्कु शेषम् अऩ्ऱु;  
 > इवैय् ऎल्लाम् सर्वेश्वरऩुक्के शेषम् 
 
 ऎऩ्ऱ् इवै मुदल् आऩव् अर्थङ्गळ् ऎल्लाम् नमश्शब्दत्तिले विवक्षितमॆऩ्ऩुमिडम् निरुक्तत्तिल् नमस्कारप्रकरणत्तिलेयोदप्पट्टदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अहं न मम,  
+शेषो ऽस्मि,  
+मदीया व्यापारादयो ऽपि न मम शेष-भूताः,  
+इदं सर्वं सर्वेश्वरस्यैव शेष-भूतम् 
+
+इत्य्-एवम्-आदयः सर्वे ऽप्य् अर्था  
+नमः-शब्दे विवक्षिता  
+इत्य् अयम् अर्थो  
+निरुक्ते नमस्कार-प्रकरणे आम्नातः ॥  
+[[P284]]
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11053,6 +11181,12 @@ Los tres significados de Namas: Sthula, Sukṣma y Para
 ऎऩ्ऱु मूऩ्ऱ् अर्थङ्गळै वगुत्तु+++(=विभज्य)+++  
 अहिर्बुध्न्यऩ् व्याख्यानम् पण्णिऩाऩ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य नमः-शब्दस्य स्थूल-सूक्ष्म-परा इति त्रीन् अर्थान् विभज्य अहिर्बुध्न्यो व्याचचक्षे --
+</details>
+
 
 <details><summary>English</summary>
 
@@ -11874,17 +12008,17 @@ II. El significado sutil - Sukshmārtha:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूक्ष्मम् अन्यन् निशामय ॥ 
+> सूक्ष्मम् अन्यन् निशामय ॥ 
 </details>
 
 <details><summary>English</summary>
 
-Learn (now) the subtle meaning - (sukṣmārtha). 
+> Learn (now) the subtle meaning - (sukṣmārtha). 
 </details>
 
 <details><summary>Español</summary>
 
-**Aprenda** (ahora) el significado sutil - (Sukṣmārtha).
+> **Aprenda** (ahora) el significado sutil - (Sukṣmārtha).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -12287,6 +12421,8 @@ Bhagavān **es** él mismo el principal medio **llamado** Namana,
 > ‘‘इति ते त्रिविधः प्रोक्तो  
 नमश्-शब्दार्थ ईदृशः’’  
 (अहिर्बुध्न्य-संहिता ५२-३३) 
+
+इति ।
 </details>
 
 <details><summary>English</summary>
@@ -12316,6 +12452,20 @@ Bhagavān **es** él mismo el principal medio **llamado** Namana,
 
 ऎऩ्ऩुम् इडम् स्वतः प्राप्तम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र
+
+> ‘‘नन्तव्यः परमश् शेषी’’ 
+
+इत्य्-उक्तत्वात्  
+
+> नमसः परम-शेष्य् एव प्रति-संबन्धी
+
+इत्य् अयम् अर्थः स्वतः प्राप्तः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -12352,6 +12502,16 @@ el ser a quien namas **se debe**
 </details>
 
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> परम-शेषी अमुक 
+
+इति विशद-ज्ञानार्थं  
++++("भगवान् मे परो नित्यम्" इत्यत्र)+++  
++++("भगवान्"→)+++ विशेष-नाम-धेयम्। 
+</details>
+
+
 <details><summary>English</summary>
 
 In order to make it clear who this Supreme Seshī is,  
@@ -12370,14 +12530,279 @@ Se **da** el nombre específico (Bhagavān).
 परमशेषि इऩ्ऩाऩॆऩ्ऱु तॆळिगैक्काग विशेषनामधेयम्। 
 </details>
 
+#### आनुकूल्य-प्रातिकूल्ये
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु 
+
+> ‘‘अ-शास्त्रीयोपसेवा तु  
+तद्-विघात उदीर्यते’’ 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र,
+
+> ‘‘अ-शास्त्रीयोपसेवा तु  
+तद्-विघात उदीर्यते’’ 
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+In one of the ślokas quoted before,it is said, 
+
+> "Doing what is forbidden by the śāstras is opposed to this (avoiding what is disagreeable to Him)", 
+</details>
+
+<details><summary>Español</summary>
+
+En uno de los Ślokas **citados** antes, **se dice** que,
+
+> "**Hacer** lo que los Śāstras **se oponen** a esto (**evitando** lo que **es** desagradable para él)",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु ‘‘अशास्त्रीयोपसेवा तु तद्विघात उदीर्यते’’ ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तद्-व्याघातो निराकृतिः’’ 
+
+ऎऩ्ऱुञ् जॊऩ्ऩ वचनङ्गळुक्कु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तद्-व्याघातो निराकृतिः’’ 
+
+इत्य्-उक्तयोर् वचनयोः, 
+</details>
+
+<details><summary>English</summary>
+
+and so also 
+
+> "Doing evil to other creatures is opposed to this (doing what is pleasing to Him)." 
+</details>
+
+<details><summary>Español</summary>
+
+Y también
+
+> "**Hacer** el mal con otras criaturas **se opone** a esto (que **haga** lo que le agrade)".
+</details>
 
 
 
+<details><summary>मूलम्</summary>
+
+‘‘तद्व्याघातो निराकृतिः’’ ऎऩ्ऱुञ्जॊऩ्ऩ वचनङ्गळुक्कु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रपत्ति-कालत्तिल् बुद्धि-पूर्व-प्रातिकूल्यम् नडक्कुम् आगिल्  
+आनुकूल्य-सङ्कल्पमुम्,  
+प्रातिकूल्यत्तिल् अभिसन्धि-विरामादिगळुम् इल्लैय् आय् इऱ्ऱाम्  
+
+ऎऩ्ऱु तात्पर्यम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> प्रपत्ति-काले बुद्धि-पूर्वक-प्रातिकूल्ये वर्तमाने  
+आनुकूल्य-संकल्पः प्रातिकूल्ये ऽभिसन्धि-विरामादयश् चासिद्धा भवन्ति
+
+इत्य्-अत्र तात्पर्यम् । 
+</details>
 
 
-In one of the ślokas quoted before,it is said, "Doing what is forbidden by the śāstras is opposed to this (avoiding what is disagreeable to Him)", and so also "Doing evil to other creatures is opposed to this doing what is pleasing to Him). The gist of these sentences is that, if at the time of performing prapatti, there occurs an act which is deliberate and is disagreeable (to the Lord), there are absent the determination to do what is pleasing (to Him) and also such things as the abstinence in thought from doing what is disagreeable (to Him). If, after the performance of prapatti, the man deliberately does what is disagreeable (to Him), he acts in a manner which is opposed to the command of Bhagavān, whom he sought with eagerness (while performing prapatti).
+<details><summary>English</summary>
 
-In the ślokas cited above, the gross meaning (sthūlārtha) is that which appears obvious from etymological derivation according to grammar. The subtle meaning (sūkṣmārtha) is that which appears from interpretation based on the similarity of syllables on the strength of Nirukta. The supreme meaning (parārtha) is that which is explained in the secret śāstras (i.e.) śāstras which comment on the meaning of the secret mantras with the help of the conventions regarding the meaning of letters. (In the ślokas cited above), in the first (sthulartha) interpretation, the behaviour which is inherent by nature to the śeṣa (namely, namana) and the structure or constitution of Sādhyopāya with its aṅgas, are explained. Then, in the second, they clarify the svarūpa of the jīva, as this is essential to the aspirant to mukti who adopts the upāya, namely, that he has no unconditional independence. Then in the third (i.e.) para, the ślokas indicate the nature of Siddhopāya (Bhagavān), who can be won by the adoption of the particular Sādhyopāya and who is also the object to be attained. It may also be understood as stating that surrender (of self) is more important' than all other upāyas. All these are to be understood in their proper places where the ten different interpretations are given later on.
+The gist of these sentences is that, 
+
+> if at the time of performing prapatti,  
+there occurs an act which is deliberate and is disagreeable (to the Lord),  
+there are absent the determination to do what is pleasing (to Him)  
+and also such things as the abstinence in thought from doing what is disagreeable (to Him). 
+</details>
+
+<details><summary>Español</summary>
+
+La esencia de estas oraciones **es** que,
+
+> Si en el momento de **realizar** Prapatti,  
+ocurre un acto deliberado y que **es** desagradable (para el Señor),  
+**No hay** la determinación de **hacer** lo que es agradable (para él)  
+y también cosas como la **abstinencia** en el **pensamiento** de **hacer** lo que es desagradable (para él).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तिकालत्तिल् बुद्धिपूर्वप्रातिकूल्यम् नडक्कुमागिल् आनुकूल्यसङ्कल्पमुम् प्रातिकूल्यत्तिल् अभिसन्धिविरामादिगळुमिल्लैयायिऱ्ऱामॆऩ्ऱु तात्पर्यम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपत्त्य्-उत्तर-कालत्तिल् बुद्धि-पूर्व-प्रातिकूल्यं नडन्ददागिल्  
+इवऩ् रुचियोडु पॊरुन्दिऩ+++(=युक्त→)+++ स्व-तन्त्र--भगवद्--आज्ञैक्कु विरुद्धम् आम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रपत्त्य्-उत्तर-काले बुद्धि-पूर्वकं प्रातिकूल्यं प्रवृत्तं चेत्  
+अनेन स-रुचि परिगृहीतायाः स्वतन्त्र-भगवद्-आज्ञाया विरुद्धं भवति ।
+</details>
+
+
+<details><summary>English</summary>
+
+If, after the performance of prapatti,  
+the man deliberately does what is disagreeable (to Him),  
+he acts in a manner which is opposed to the command of Bhagavān,  
+whom he sought with eagerness (while performing prapatti).
+</details>
+
+<details><summary>Español</summary>
+
+Si, después del **rendimiento** de Prapatti,  
+El hombre deliberadamente **hace** lo que es desagradable (para él),  
+Él actúa de una manera que **se opone** al b de Bhagavān,  
+a quien **buscó** con entusiasmo (mientras realizaba Prapatti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्त्युत्तरकालत्तिल् बुद्धिपूर्वप्रातिकूल्यम् नडन्ददागिल् इवऩ् रुचियोडु पॊरुन्दिऩ स्वतन्त्रभगवदाज्ञैक्कु विरुद्धमाम्।
+</details>
+
+#### स्थूलता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु स्थूलम् आऩ अर्थम् आवदु;  
+व्याकरण-वरुगिऱ स्फुट-व्युत्पत्तियाले तोऱ्ऱुम् अदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र स्थूलो ऽर्थो नाम -  
+व्याकरणानुबद्धया स्फुट-व्युत्पत्त्या प्रतीयमानो ऽर्थः । 
+</details>
+
+
+<details><summary>English</summary>
+
+In the ślokas cited above,  
+the gross meaning (sthūlārtha) is  
+that which appears obvious from etymological derivation according to grammar. 
+</details>
+
+<details><summary>Español</summary>
+
+En los Ślokas **citados** anteriormente,  
+El significado bruto (sthūlārtha) **es**  
+Lo que **parece** obvio de la **derivación** etimológica **según** la gramática.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु स्थूलमाऩ अर्थमावदु; व्याकरण वरुगिऱ स्फुटव्युत्पत्तियाले तोऱ्ऱुमदु। 
+</details>
+
+
+#### सूक्ष्मता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सूक्ष्मम् आवदु;  
+वर्ण-साम्यादिगळैक् कॊण्ड् इऴिगिऱ निरुक्त-बलत्ताले तोऱ्ऱुम् अदु। +++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सूक्ष्मो नाम -  
+वर्ण-साम्यादीन्य् अवलम्ब्य प्रवर्तमानस्य निरुक्तस्य बलेन प्रतीयमानो ऽर्थः । 
+</details>
+
+
+<details><summary>English</summary>
+
+The subtle meaning (sūkṣmārtha) is that which appears from interpretation based on the similarity of syllables on the strength of Nirukta. 
+</details>
+
+<details><summary>Español</summary>
+
+El significado sutil (sūkṣmārtha) **es** el que **aparece** a partir de la **interpretación basada** en la similitud de las sílabas en la fuerza de Nirukta.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सूक्ष्ममावदु; वर्णसाम्यादिगळैक्कॊण्डिऴिगिऱ निरुक्तबलत्ताले तोऱ्ऱुमदु। 
+</details>
+
+#### परता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परम् आवदु;  
+रहस्य-शास्त्रङ्गळिऱ् सॊल्लुगिऱ अक्षर-निघण्टु-प्रक्रियैयाले तोऱ्ऱुम् अदु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+परो नाम --  
+रहस्य-शास्त्र-प्रतिपादिताक्षर-निघण्टु-प्रक्रियया प्रतीयमानो ऽर्थः ।  
+[[P287]]
+</details>
+
+
+<details><summary>English</summary>
+
+The supreme meaning (parārtha) is that which is explained in the secret śāstras (i.e.) śāstras  
+which comment on the meaning of the secret mantras  
+with the help of the conventions regarding the meaning of letters. 
+</details>
+
+<details><summary>Español</summary>
+
+El significado supremo (parārtha) **es** lo que **se explica** en el secreto Śāstras (es decir) Śāstras  
+que **comentario** sobre el significado de los mantras secretos  
+con la ayuda de las **convenciones** con respecto al significado de las letras.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परमावदु; रहस्यशास्त्रङ्गळिऱ् सॊल्लुगिऱ अक्षरनिघण्टुप्रक्रियैयाले तोऱ्ऱुमदु।
+</details>
+
+### ??
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् मुऱ्-पड शेष-भूतऩुक्कु स्वतः-प्राप्त-वृत्तियुम्  
+साङ्ग-न्यास-रूपम् आऩ साध्योपाय-शरीरमुम् वगुत्तदु। 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् मुऱ्पड शेषभूतऩुक्कु स्वतःप्राप्तवृत्तियुम् साङ्गन्यासरूपमाऩ साध्योपायशरीरमुम् वगुत्तदु। 
+</details>
+
+
+(In the ślokas cited above), in the first (sthulartha) interpretation, the behaviour which is inherent by nature to the śeṣa (namely, namana) and the structure or constitution of Sādhyopāya with its aṅgas, are explained. Then, in the second, they clarify the svarūpa of the jīva, as this is essential to the aspirant to mukti who adopts the upāya, namely, that he has no unconditional independence. Then in the third (i.e.) para, the ślokas indicate the nature of Siddhopāya (Bhagavān), who can be won by the adoption of the particular Sādhyopāya and who is also the object to be attained. It may also be understood as stating that surrender (of self) is more important' than all other upāyas. All these are to be understood in their proper places where the ten different interpretations are given later on.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 

@@ -253,6 +253,9 @@ Acharya-hrdayam was composed by lokAchArya's younger brother.
 ### उत्तर-प्रदेशे
 > Have heard vishvesh prapannacharya maharaj of UP takes grantha chatushtaya kalakshepas In Hindi to a few vedadhyayis etc in UP.
 
+### महाराष्ट्रे
+There were some SVs in Pune even in 18th and 19th centuries. A parakala matha yati had even administered samashrayana to some of the Brahmins there during a dharma dig vijaya in mid 19th century iirc.
+
 ### उत्कलः
 - देशिक-सम्प्रदायः
   - Mukunda deva harishchandra reconquered Puri using 6th AM swamys mantrabala as per tradition.
