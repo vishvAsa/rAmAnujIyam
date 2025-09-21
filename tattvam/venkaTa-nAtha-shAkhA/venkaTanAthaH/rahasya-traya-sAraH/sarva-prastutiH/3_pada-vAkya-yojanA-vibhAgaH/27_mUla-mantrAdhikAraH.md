@@ -13076,7 +13076,7 @@ Bhagavān (Viṣṇu) **es** el ser o alma interior de todos.
 </details>
 
 
-### परार्थः - भगवद्-उपायता
+### परार्थः - भगवद्-उपायता-पारम्यम्
 <details><summary>English</summary>
 
 III. THE SUPREME MEANING: (parārtha):
@@ -13637,13 +13637,22 @@ con la ayuda de las **convenciones** con respecto al significado de las letras.
 </details>
 
 
-#### स्थूलार्थ-सारः
+#### स्थूलार्थ-सारः - नमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदिल् मुऱ्-पड +++(स्थूलार्थे)+++ शेष-भूतऩुक्कु  
-स्वतः-प्राप्त-वृत्तियुम्,  
+इदिल् मुऱ्-पड +++(स्थूलार्थे)+++  
+शेष-भूतऩुक्कु स्वतः-प्राप्त-वृत्तियुम्,  
 साङ्ग-न्यास-रूपम् आऩ साध्योपाय-शरीरमुम् वगुत्तदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र प्रथमतः +++(स्थूलार्थे)+++  
+शेष-भूतस्य स्वतः प्राप्त-वृत्तिः,  
+साङ्ग-भर-न्यास-रूपं साध्योपाय-शरीरं च  
+विविच्य प्रत्यपादि । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -13670,15 +13679,149 @@ y **se explica** la estructura o **constitución** de Sādhyopāya con sus AṅG
 </details>
 
 
-#### सूक्ष्मार्थ-सारः
+#### सूक्ष्मार्थ-सारः - स्वरूप-ज्ञान-शुद्धिः
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+अनन्तरम् +++(सूक्ष्मार्थे)+++ मोक्षोपायाधिकारिक्क् अवश्यापेक्षितम् आऩ  
+निरपेक्ष-स्वातन्त्र्यादि-निवृत्ति-पूर्वक- स्वरूप-शोधनम् पण्णिऱ्ऱु।
+</details>
 
-Then, in the second, they clarify the svarūpa of the jīva, as this is essential to the aspirant to mukti who adopts the upāya, namely, that he has no unconditional independence. Then in the third (i.e.) para, the ślokas indicate the nature of Siddhopāya (Bhagavān), who can be won by the adoption of the particular Sādhyopāya and who is also the object to be attained. It may also be understood as stating that surrender (of self) is more important' than all other upāyas. All these are to be understood in their proper places where the ten different interpretations are given later on.
+<details><summary>English</summary>
+
+Then, in the second, they clarify the svarūpa of the jīva,  
+as this is essential to the aspirant to mukti who adopts the upāya,  
+namely, that he has no unconditional independence. 
+</details>
+
+<details><summary>Español</summary>
+
+Luego, en el segundo, **aclaran** el svarūpa de Jīva,  
+Como esto **es** esencial para el **aspirante** a Mukti que **adopta** el upāya,  
+a saber, que **no tiene** independencia incondicional.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनन्तरम् मोक्षोपायाधिकारिक्कवश्यापेक्षितमाऩ निरपेक्षस्वातन्त्र्यादि निवृत्तिपूर्वकस्वरूपशोधनम् पण्णिऱ्ऱु।
+</details>
+
+#### परार्थ-सारः - सिद्धोपायता-प्राधान्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पिऩ्बु +++(परार्थे)+++  
+साध्योपाय-विशेषत्ताले वशी-कार्यमुम् आय्  
+प्राप्यमुम् आय् इरुक्किऱ सिद्धोपायम् इरुक्कुम् बडियैच् चॊल्लिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+Then in the third (i.e.) para,  
+the ślokas indicate the nature of Siddhopāya (Bhagavān),  
+who can be won by the adoption of the particular Sādhyopāya  
+and who is also the object to be attained. 
+</details>
+
+<details><summary>Español</summary>
+
+Luego en el tercer (es decir) para,  
+Los Ślokas **indican** la naturaleza de Siddhopāya (Bhagavān),  
+Quién **puede ganarse** por la **adopción** del sādhyopāya en particular  
+y quién también **es** el objeto a alcanzar.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+पिऩ्बु साध्योपाय विशेषत्ताले वशीकार्यमुमाय् प्राप्यमुमायिरुक्किऱ सिद्धोपायमिरुक्कुम्बडियैच् चॊल्लिऱ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपायान्तरङ्गळिऱ् काट्टिल् समर्पणत्तिऩ्-उडैय प्रधानोपायत्वञ् जॊल्ल् इऱ्ऱ् आगवुम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+It may also be understood as stating that  
+surrender (of self) is more important than all other upāyas. 
+</details>
+
+<details><summary>Español</summary>
+
+También **se puede entender** como **afirmar** que  
+La **rendición** (de uno mismo) **es** más importante que todos los otros upāyas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उपायान्तरङ्गळिऱ् काट्टिल् समर्पणत्तिऩुडैय प्रधानोपायत्वञ् जॊल्लिऱ्ऱागवुमाम्। 
+</details>
+
+### सङ्ग्रहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् ऎल्लाम् मेऱ् सॊल्लप् पुगुगिऱ वाक्यार्थङ्गळिले  
+यथा-संभवम् अनुसन्धित्तुक् कॊळ्वदु। 
+</details>
+
+<details><summary>English</summary>
+
+All these are to be understood in their proper places where the ten different interpretations are given later on.
+</details>
+
+<details><summary>Español</summary>
+
+Todos estos **deben entenderse** en sus lugares apropiados   
+donde las diez interpretaciones diferentes **se dan** más adelante.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवैयॆल्लाम् मेऱ्सॊल्लप्पुगुगिऱ वाक्यार्थङ्गळिले यथासंभवमनुसन्धित्तुक् कॊळ्वदु। 
+</details>
+
+## नमसः करण-मन्त्र-घटकता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं शिक्षित-नानार्थ-  
+नमश्-शब्द-**समन्विताः** ।  
+सर्वे करणतां **यान्ति**  
+मन्त्रास् स्वात्म-समर्पणे ॥ +++(4)+++ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं शिक्षित-नानार्थ-  
+नमश्-शब्द-**समन्विताः** ।  
+सर्वे करणतां **यान्ति**  
+मन्त्रास् स्वात्म-समर्पणे ॥ +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+All the mantras that are combined with the word namas  
+with its various meanings as stated above  
+become operative mantras to be employed while surrendering one's self. 
+</details>
+
+<details><summary>Español</summary>
+
+Todos los mantras que **se combinan** con la palabra namas  
+con sus diversos significados como **se indicó** anteriormente  
+**Conviértase** en mantras operativos  
+**ser empleado** mientras rendición de uno mismo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं शिक्षितनानार्थनमश्शब्दसमन्विताः । सर्वे करणतां यान्ति मन्त्रास्स्वात्मसमर्पणे ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-एवं शिक्षितनानार्थनमश्शब्दसमन्विताः । सर्वे करणतां यान्ति मन्त्रास्स्वात्मसमर्पणे ॥  
 जीवसामान्यमुखतश्शृङ्गग्राहिकयापि वा । मकारौ तारनमसोस्स्वानुसन्धानदाविह ॥  
 इह या स्वानुसन्धानप्रक्रियैकस्य दर्शिता । अन्येषामपि तत्साम्यान्नान्योन्यशरणा इमे ॥  
 अतस्स्वपर-रक्षायां पराधीनेषु जन्तुषु । निरपेक्षशरण्यत्वं नियतं कमलापतौ ॥
@@ -13686,13 +13829,12 @@ Then, in the second, they clarify the svarūpa of the jīva, as this is essentia
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-एवं शिक्षितनानार्थनमश्शब्दसमन्विताः । सर्वे करणतां यान्ति मन्त्रास्स्वात्मसमर्पणे ॥  
 जीवसामान्यमुखतश्शृङ्गग्राहिकयापि वा । मकारौ तारनमसोस्स्वानुसन्धानदाविह ॥  
 इह या स्वानुसन्धानप्रक्रियैकस्य दर्शिता । अन्येषामपि तत्साम्यान्नान्योन्यशरणा इमे ॥  
 अतस्स्वपर-रक्षायां पराधीनेषु जन्तुषु । निरपेक्षशरण्यत्वं नियतं कमलापतौ ॥
 </details>
 
-All the mantras that are combined with the word namas with its various meanings as stated above become operative mantras to be einployed while surrendering one's self. The ma in praṇava and in the namas lead to the consideration of one's self either by reference to the Jīva as a genus (Jāti) including one, or by reference to 'I' directly which is like catching hold of the horns (i.e.) (by pointing to what is essential and all-important). Since the consideration that has been pointed out in regard to one, applies equally to others as well, there is no question of any one being the Saviour of any other. Therefore since all creatures are dependent (on another) in the matter of protecting themselves and protecting others, protectorship not dependent on others is vested only in the Lord of Kamala (Lakṣmī)
+The ma in praṇava and in the namas lead to the consideration of one's self either by reference to the Jīva as a genus (Jāti) including one, or by reference to 'I' directly which is like catching hold of the horns (i.e.) (by pointing to what is essential and all-important). Since the consideration that has been pointed out in regard to one, applies equally to others as well, there is no question of any one being the Saviour of any other. Therefore since all creatures are dependent (on another) in the matter of protecting themselves and protecting others, protectorship not dependent on others is vested only in the Lord of Kamala (Lakṣmī)
 
 THE WORD NĀRĀYAṆA IN TIRUMANTRA:
 
