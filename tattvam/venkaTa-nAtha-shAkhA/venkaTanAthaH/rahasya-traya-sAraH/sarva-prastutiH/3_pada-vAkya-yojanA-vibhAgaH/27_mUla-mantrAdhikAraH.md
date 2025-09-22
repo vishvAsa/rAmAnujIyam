@@ -13706,6 +13706,13 @@ a saber, que **no tiene** independencia incondicional.
 अनन्तरम् मोक्षोपायाधिकारिक्कवश्यापेक्षितमाऩ निरपेक्षस्वातन्त्र्यादि निवृत्तिपूर्वकस्वरूपशोधनम् पण्णिऱ्ऱु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अनन्तरं – सूक्ष्मयोजऩैयिल्, स्वातन्त्र्यादिनिवृत्तिपूर्वकस्वरूपशोधनम् पण्णिऱ्ऱु इति । अहं भगवत एव, न मम । मम याः कृतयः न ता मम । भगवत एव, ऎऩ्गिऱ निरुक्तियिल् सॊऩ्ऩ स्वातन्त्र्यादिनिषेधमुम् स्वरूपमुम् वर्णसाम्यत्ताले नमस्सिले सॊल्लप्पट्टदॆऩ्गै। 
+</details>
+
+
+
 #### परार्थ-सारः - सिद्धोपायता-प्राधान्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13737,6 +13744,12 @@ y quién también **es** el objeto a alcanzar.
 पिऩ्बु साध्योपाय विशेषत्ताले वशीकार्यमुमाय् प्राप्यमुमायिरुक्किऱ सिद्धोपायमिरुक्कुम्बडियैच् चॊल्लिऱ्ऱु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पिऩ्बु - परयोजऩैयिल्। साध्योपायविशेषत्ताले वशीकार्यमुमाय् प्राप्यमुमायिरुक्किऱ सिद्धोपायमिरुक्कुम्बडियै इति । ‘‘तत्प्राप्तये प्रधानोऽयं पन्था नमननामवान्’’ ऎऩ्गिऱविडत्तिल् तुल्यवित्तिवेद्यतया नमननामवत्ताऩ शरणागति वशीकार्यत्वत्तैच् चॊल्लिऱ्ऱु। अङ्गु तत्प्राप्तये ऎऩ्बदाल् प्राप्यत्वत्तैयुम् सॊल्लिऱ्ऱु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपायान्तरङ्गळिऱ् काट्टिल् समर्पणत्तिऩ्-उडैय प्रधानोपायत्वञ् जॊल्ल् इऱ्ऱ् आगवुम् आम्। 
@@ -13758,6 +13771,13 @@ La **rendición** (de uno mismo) **es** más importante que todos los otros upā
 
 उपायान्तरङ्गळिऱ् काट्टिल् समर्पणत्तिऩुडैय प्रधानोपायत्वञ् जॊल्लिऱ्ऱागवुमाम्। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उपायान्तरङ्गळिऱ्काट्टिलित्यादि, तुल्यवित्ति-वेद्यतैयिऩ्ऱिक्के तत्प्राप्तिसाधनङ्गळुक्कुळ् नमननामवत्ताऩ इन्द उपायम् प्रधानमाऩदॆऩ्ऱु साध्योपायमाऩ शरणागतिक्कु भक्त्याद्युपायङ्गळैक्काट्टिलुम् प्रधानोपायत्वम् सॊल् लिऱ्ऱागवुमामॆऩ्गै। 
+</details>
+
+
 
 ### सङ्ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13781,6 +13801,12 @@ donde las diez interpretaciones diferentes **se dan** más adelante.
 
 इवैयॆल्लाम् मेऱ्सॊल्लप्पुगुगिऱ वाक्यार्थङ्गळिले यथासंभवमनुसन्धित्तुक् कॊळ्वदु। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि नमश्शब्दार्थनिरूपणत्तिऱ्कु उपयोगमॆऩ्ऩ वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इवैयॆल्लामित्यनेन । 
+</details>
+
 
 ## नमसः करण-मन्त्र-घटकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13819,24 +13845,139 @@ con sus diversos significados como **se indicó** anteriormente
 एवं शिक्षितनानार्थनमश्शब्दसमन्विताः । सर्वे करणतां यान्ति मन्त्रास्स्वात्मसमर्पणे ॥  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि स्थूलादियोजऩैगळिल् शिक्षितङ्गळाऩ नानाविधार्थङ्गळैयुडैय नमश्शब्दत्तोडे कूडिऩ ऎल्ला मन्त्रङ्गळुम् आत्मसमर्पणत्तिल् करणङ्गळामॆऩ्गिऱार् एवमिति । 
+</details>
+
+### जीव-वचनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीव-सामान्य-मुखतश्  
++++(अस्मच्-छब्द-घटकत्वाद् व्यक्ति-)+++शृङ्गग्राहिकयापि वा ।  
+मकारौ तार-नमसोस्  
+स्वानुसन्धान-दाव् इह ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+जीव-सामान्य-मुखतश्  
++++(अस्मच्-छब्द-घटकत्वाद् व्यक्ति-)+++शृङ्गग्राहिकयापि वा ।  
+मकारौ तार-नमसोस्  
+स्वानुसन्धान-दाव् इह ॥  
+</details>
+
+<details><summary>English</summary>
+
+The ma in praṇava and in the namas  
+lead to the consideration of one's self  
+either by reference to the Jīva as a genus (Jāti) including one,  
+or by reference to 'I' directly  
+which is like catching hold of the horns  
+(i.e. by pointing to what is essential and all-important).  
+</details>
+
+<details><summary>Español</summary>
+
+La mamá en praṇava y en los namas  
+**conducir** a la **consideración** de uno mismo  
+ya sea por **referencia** al Jīva como un género (jāti), incluido uno,  
+o por **referencia** a 'yo' directamente  
+que **es** como **atrapar** los cuernos  
+(**es decir**, **señalando** lo que es esencial y tan importante).
+</details>
+
+<details><summary>मूलम्</summary>
+
+जीवसामान्यमुखतश्शृङ्गग्राहिकयापि वा । मकारौ तारनमसोस्स्वानुसन्धानदाविह ॥  
+</details>
+
+### भगवच्-छरण्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इह या स्वानुसन्धान-  
+प्रक्रियैकस्य **दर्शिता** ।  
+अन्येषाम् अपि तत्-साम्यान्  
+नान्योऽन्य-शरणा इमे +++(जीवाः)+++॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इह या स्वानुसन्धान-  
+प्रक्रियैकस्य **दर्शिता** ।  
+अन्येषाम् अपि तत्-साम्यान्  
+नान्योऽन्य-शरणा इमे +++(जीवाः)+++॥  
+</details>
+
+
+<details><summary>English</summary>
+
+Since the consideration that has been pointed out in regard to one,  
+applies equally to others as well,  
+there is no question of any one being the Saviour of any other. 
+</details>
+
+<details><summary>Español</summary>
+
+Desde la **consideración** que **se ha señalado** con respecto a uno,  
+**se aplica** igualmente a los demás también,  
+**No se trata** de que nadie sea el salvador de cualquier otro.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इह या स्वानुसन्धानप्रक्रियैकस्य दर्शिता । अन्येषामपि तत्साम्यान्नान्योन्यशरणा इमे ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-जीवसामान्यमुखतश्शृङ्गग्राहिकयापि वा । मकारौ तारनमसोस्स्वानुसन्धानदाविह ॥  
-इह या स्वानुसन्धानप्रक्रियैकस्य दर्शिता । अन्येषामपि तत्साम्यान्नान्योन्यशरणा इमे ॥  
-अतस्स्वपर-रक्षायां पराधीनेषु जन्तुषु । निरपेक्षशरण्यत्वं नियतं कमलापतौ ॥
+अतस् स्व-पर-रक्षायां  
+**पराधीनेषु** जन्तुषु ।  
+निरपेक्ष-शरण्यत्वं  
+**नियतं** कमलापतौ ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतस् स्व-पर-रक्षायां  
+**पराधीनेषु** जन्तुषु ।  
+निरपेक्ष-शरण्यत्वं  
+**नियतं** कमलापतौ ॥
+</details>
+
+<details><summary>English</summary>
+
+Therefore since all creatures are dependent (on another) in the matter of protecting themselves and protecting others,  
+protectorship not dependent on others  
+is vested only in the Lord of Kamala (Lakṣmī).
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, dado que todas las criaturas **dependen** (de otro) en cuestión de **protegerse** y **proteger** a los demás,  
+**Protectorship no depende** de los demás  
+**se otorga** solo en el Señor de Kamala (Lakṣmī).
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-जीवसामान्यमुखतश्शृङ्गग्राहिकयापि वा । मकारौ तारनमसोस्स्वानुसन्धानदाविह ॥  
-इह या स्वानुसन्धानप्रक्रियैकस्य दर्शिता । अन्येषामपि तत्साम्यान्नान्योन्यशरणा इमे ॥  
 अतस्स्वपर-रक्षायां पराधीनेषु जन्तुषु । निरपेक्षशरण्यत्वं नियतं कमलापतौ ॥
 </details>
 
-The ma in praṇava and in the namas lead to the consideration of one's self either by reference to the Jīva as a genus (Jāti) including one, or by reference to 'I' directly which is like catching hold of the horns (i.e.) (by pointing to what is essential and all-important). Since the consideration that has been pointed out in regard to one, applies equally to others as well, there is no question of any one being the Saviour of any other. Therefore since all creatures are dependent (on another) in the matter of protecting themselves and protecting others, protectorship not dependent on others is vested only in the Lord of Kamala (Lakṣmī)
+
+
+<details><summary>English</summary>
 
 THE WORD NĀRĀYAṆA IN TIRUMANTRA:
+</details>
+
+<details><summary>Español</summary>
+
+La palabra nārāyaṇa en tirumantra:
+</details>
+
 
 The word Nārāyaṇa here (in Tirumantra) explains (in full), by its conventional usage and by its etymology, the unconditional Saviour who appears in the first letter (of the praṇava) as the Protector of all and as the śeṣī of all. His grace is to be obtained by means of the sādhyopāya called śaraṇāgati (seeking protection or refuge of the Lord), whicb is seen either implicitly or explicitly in the word namas. He is to be the recipient of the service rendered by the prapanna, which is implicit in the dative (fourth) case ( of the word Nārāyaṇa) (i.e.) Narāyaṇāya.
 
