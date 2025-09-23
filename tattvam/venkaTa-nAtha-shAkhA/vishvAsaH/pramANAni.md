@@ -134,7 +134,15 @@ With clarity in the prameya-s in vedArthasangraha (or presumably shrI-bhAShya), 
 For S, BS does not resolve the upaniShadic contradictions (I heard that somewhere he clearly says/ implies that the sUtra-s have to be somehow interpreted in accordance with upaniShads - ie his bhAShya-s thereof).
 
 ## स्मृतिः
-**पुराणापेक्षया स्मृतिः प्रबलेति** प्रपन्न-धर्म-सार-समुच्चयः -
+### पुराणापेक्षया बलीयस्त्वम्  
+
+श्रीभाष्ये “तद्-उपर्य् अपि बादरायणः संभवात्” इति-सूत्रीये  
+
+> ‘संकीर्ण-ब्राह्मण-मन्त्रार्थ-वाद-मूलेषु धर्म-शास्त्रेतिहास-पुराणेषु’ 
+
+इति पूर्वनिपातः। 
+
+प्रपन्न-धर्म-सार-समुच्चयः -
 
 > अत एव द्वादश्यां श्राद्ध-परं पुराण-वचनम् अनादरणीयम्, स्मृतेः प्रबलत्वात्।
 
