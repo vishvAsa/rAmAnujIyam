@@ -14302,14 +14302,75 @@ La palabra nārāyaṇa **se repite** muchas veces, **mostrando** así una gran 
 </details>
 
 
+### प्रभाव-कीर्तनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इश् शब्दत्तिऩ् प्रभावम् 
+</details>
+
+<details><summary>English</summary>
+
+The potency of this name 
+</details>
+
+<details><summary>Español</summary>
+
+La **potencia** de este nombre
+</details>
+
+<details><summary>मूलम्</summary>
+
+इश् शब्दत्तिऩ् प्रभावम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘सङ्कीर्त्य नारायणशब्दमात्रं’’(व्याससञ्जयसंवादः), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘सङ्कीर्त्य नारायणशब्दमात्रं’’(व्याससञ्जयसंवादः), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘सङ्कीर्त्य नारायणशब्दमात्रं’’(व्याससञ्जयसंवादः), 
+</details>
+
+<details><summary>English</summary>
+
+> "Those who are afraid of saṁsāra  
+and who suffer from terrible diseases  
+are relieved of their sufferings  
+by merely uttering the word Nārāyaṇa,  
+and attain happiness”. 
+</details>
+
+<details><summary>Español</summary>
+
+> "Aquellos que **temen** a Saṁsāra  
+y que **sufren** de terribles enfermedades  
+**son aliviados** de sus **sufrimientos**  
+simplemente **pronunciando** la palabra nārāyaṇa,  
+y **alcanzar** la felicidad ”.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘सङ्कीर्त्य नारायणशब्दमात्रं’’(व्याससञ्जयसंवादः), 
+</details>
 
 
 
 
 
+is well-known from the following passages: 
 
 
-The potency of this name is well-known from the following passages: "Those who are afraid of saṁsāra and who suffer from terrible diseases are relieved of their sufferings by merely uttering the word Nārāyaṇa, and attain happiness”. “The man in whose mouth is the auspicious word, Nārāyaṇa, is followed by Nārāyaṇa even as the calf is followed by the cow." " The word Nārāyaṇa is always available. Oar speech is within our control. Notwithstanding this, the jīvas fall into the darkest hell by not uttering the word": " The name, Nārāyaṇa, confers (on the man who utters it) good birth in a Vaishnavite family: it confers also wealth.” “The mother  who gives the name, Nārāyaṇa, to her son will never go to hell." In the Nāradīya kalpa it is said: " Even those who utter the mere word, Nārāyaṇa, are relieved of their diseases, of their dangers, of their fears and of their sorrows. There is no doubt of this." In another purāṇa it is stated that if the number of vowels and consonants (in the word, Nārāyaṇa ) be taken separately into account, it will (be seen to) resemble Tirumantra in having eight letters and may be treated as such.
+
+“The man in whose mouth is the auspicious word, Nārāyaṇa, is followed by Nārāyaṇa even as the calf is followed by the cow." " The word Nārāyaṇa is always available. Oar speech is within our control. Notwithstanding this, the jīvas fall into the darkest hell by not uttering the word": " The name, Nārāyaṇa, confers (on the man who utters it) good birth in a Vaishnavite family: it confers also wealth.” “The mother  who gives the name, Nārāyaṇa, to her son will never go to hell." In the Nāradīya kalpa it is said: " Even those who utter the mere word, Nārāyaṇa, are relieved of their diseases, of their dangers, of their fears and of their sorrows. There is no doubt of this." In another purāṇa it is stated that if the number of vowels and consonants (in the word, Nārāyaṇa ) be taken separately into account, it will (be seen to) resemble Tirumantra in having eight letters and may be treated as such.
 
 The compound word Nārāyaṇa may be split up into its two component parts thus: Nārāh ayanam yasya (He to whom Nārās are the resting place ) and Nārāṇām ayanam (the resting place of Nārās). The word Nārās is here determinate in meaning and denotes only the nārās (sentient beings and non-sentient things) and does not refer also to the Lord who is their inter self. Therefore the two words are not in grammatical apposition. Nammalvar distinctly showed the meanings of these two ways of combining the two parts of the word (samāsa) in the following two passages by using the word at the end and at the beginning respectively. "He who has, as His śeṣas," countless jīvas with knowledge and bliss as their attributes and with self-luminousness as their nature and also His own noble qualities--that Nārāyaṇa," and " Nārāyaṇa" is the Lord of all the seven worlds". In this are implicit (Bhagavān's) possessing the two kinds of attributes, namely, freedom from defects and possession of all auspicious and noble qualities and, likewise, His possession of the two vibhūtis (glories), namely Līlā Vibhūti (this (material) Universe) with all the sentient and nonsentient beings in it) and Nitya Vibhūti, (the transcendental region of eternal glory with all that it contains). It should be borne in mind that this nārās includes the queen, the ornaments, the weapons, the attendants, the furniture and the like, the door-keepers, the retinue and such others.
 
