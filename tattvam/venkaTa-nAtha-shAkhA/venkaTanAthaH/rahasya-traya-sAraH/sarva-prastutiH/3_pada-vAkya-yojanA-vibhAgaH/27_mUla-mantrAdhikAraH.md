@@ -13706,6 +13706,13 @@ a saber, que **no tiene** independencia incondicional.
 अनन्तरम् मोक्षोपायाधिकारिक्कवश्यापेक्षितमाऩ निरपेक्षस्वातन्त्र्यादि निवृत्तिपूर्वकस्वरूपशोधनम् पण्णिऱ्ऱु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अनन्तरं – सूक्ष्मयोजऩैयिल्, स्वातन्त्र्यादिनिवृत्तिपूर्वकस्वरूपशोधनम् पण्णिऱ्ऱु इति । अहं भगवत एव, न मम । मम याः कृतयः न ता मम । भगवत एव, ऎऩ्गिऱ निरुक्तियिल् सॊऩ्ऩ स्वातन्त्र्यादिनिषेधमुम् स्वरूपमुम् वर्णसाम्यत्ताले नमस्सिले सॊल्लप्पट्टदॆऩ्गै। 
+</details>
+
+
+
 #### परार्थ-सारः - सिद्धोपायता-प्राधान्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13737,6 +13744,12 @@ y quién también **es** el objeto a alcanzar.
 पिऩ्बु साध्योपाय विशेषत्ताले वशीकार्यमुमाय् प्राप्यमुमायिरुक्किऱ सिद्धोपायमिरुक्कुम्बडियैच् चॊल्लिऱ्ऱु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पिऩ्बु - परयोजऩैयिल्। साध्योपायविशेषत्ताले वशीकार्यमुमाय् प्राप्यमुमायिरुक्किऱ सिद्धोपायमिरुक्कुम्बडियै इति । ‘‘तत्प्राप्तये प्रधानोऽयं पन्था नमननामवान्’’ ऎऩ्गिऱविडत्तिल् तुल्यवित्तिवेद्यतया नमननामवत्ताऩ शरणागति वशीकार्यत्वत्तैच् चॊल्लिऱ्ऱु। अङ्गु तत्प्राप्तये ऎऩ्बदाल् प्राप्यत्वत्तैयुम् सॊल्लिऱ्ऱु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपायान्तरङ्गळिऱ् काट्टिल् समर्पणत्तिऩ्-उडैय प्रधानोपायत्वञ् जॊल्ल् इऱ्ऱ् आगवुम् आम्। 
@@ -13758,6 +13771,13 @@ La **rendición** (de uno mismo) **es** más importante que todos los otros upā
 
 उपायान्तरङ्गळिऱ् काट्टिल् समर्पणत्तिऩुडैय प्रधानोपायत्वञ् जॊल्लिऱ्ऱागवुमाम्। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उपायान्तरङ्गळिऱ्काट्टिलित्यादि, तुल्यवित्ति-वेद्यतैयिऩ्ऱिक्के तत्प्राप्तिसाधनङ्गळुक्कुळ् नमननामवत्ताऩ इन्द उपायम् प्रधानमाऩदॆऩ्ऱु साध्योपायमाऩ शरणागतिक्कु भक्त्याद्युपायङ्गळैक्काट्टिलुम् प्रधानोपायत्वम् सॊल् लिऱ्ऱागवुमामॆऩ्गै। 
+</details>
+
+
 
 ### सङ्ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13781,6 +13801,12 @@ donde las diez interpretaciones diferentes **se dan** más adelante.
 
 इवैयॆल्लाम् मेऱ्सॊल्लप्पुगुगिऱ वाक्यार्थङ्गळिले यथासंभवमनुसन्धित्तुक् कॊळ्वदु। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि नमश्शब्दार्थनिरूपणत्तिऱ्कु उपयोगमॆऩ्ऩ वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इवैयॆल्लामित्यनेन । 
+</details>
+
 
 ## नमसः करण-मन्त्र-घटकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -13819,42 +13845,532 @@ con sus diversos significados como **se indicó** anteriormente
 एवं शिक्षितनानार्थनमश्शब्दसमन्विताः । सर्वे करणतां यान्ति मन्त्रास्स्वात्मसमर्पणे ॥  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि स्थूलादियोजऩैगळिल् शिक्षितङ्गळाऩ नानाविधार्थङ्गळैयुडैय नमश्शब्दत्तोडे कूडिऩ ऎल्ला मन्त्रङ्गळुम् आत्मसमर्पणत्तिल् करणङ्गळामॆऩ्गिऱार् एवमिति । 
+</details>
+
+### जीव-वचनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीव-सामान्य-मुखतश्  
++++(अस्मच्-छब्द-घटकत्वाद् व्यक्ति-)+++शृङ्गग्राहिकयापि वा ।  
+मकारौ तार-नमसोस्  
+स्वानुसन्धान-दाव् इह ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+जीव-सामान्य-मुखतश्  
++++(अस्मच्-छब्द-घटकत्वाद् व्यक्ति-)+++शृङ्गग्राहिकयापि वा ।  
+मकारौ तार-नमसोस्  
+स्वानुसन्धान-दाव् इह ॥  
+</details>
+
+<details><summary>English</summary>
+
+The ma in praṇava and in the namas  
+lead to the consideration of one's self  
+either by reference to the Jīva as a genus (Jāti) including one,  
+or by reference to 'I' directly  
+which is like catching hold of the horns  
+(i.e. by pointing to what is essential and all-important).  
+</details>
+
+<details><summary>Español</summary>
+
+La mamá en praṇava y en los namas  
+**conducir** a la **consideración** de uno mismo  
+ya sea por **referencia** al Jīva como un género (jāti), incluido uno,  
+o por **referencia** a 'yo' directamente  
+que **es** como **atrapar** los cuernos  
+(**es decir**, **señalando** lo que es esencial y tan importante).
+</details>
+
+<details><summary>मूलम्</summary>
+
+जीवसामान्यमुखतश्शृङ्गग्राहिकयापि वा । मकारौ तारनमसोस्स्वानुसन्धानदाविह ॥  
+</details>
+
+### भगवच्-छरण्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इह या स्वानुसन्धान-  
+प्रक्रियैकस्य **दर्शिता** ।  
+अन्येषाम् अपि तत्-साम्यान्  
+नान्योऽन्य-शरणा इमे +++(जीवाः)+++॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इह या स्वानुसन्धान-  
+प्रक्रियैकस्य **दर्शिता** ।  
+अन्येषाम् अपि तत्-साम्यान्  
+नान्योऽन्य-शरणा इमे +++(जीवाः)+++॥  
+</details>
+
+
+<details><summary>English</summary>
+
+Since the consideration that has been pointed out in regard to one,  
+applies equally to others as well,  
+there is no question of any one being the Saviour of any other. 
+</details>
+
+<details><summary>Español</summary>
+
+Desde la **consideración** que **se ha señalado** con respecto a uno,  
+**se aplica** igualmente a los demás también,  
+**No se trata** de que nadie sea el salvador de cualquier otro.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इह या स्वानुसन्धानप्रक्रियैकस्य दर्शिता । अन्येषामपि तत्साम्यान्नान्योन्यशरणा इमे ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-जीवसामान्यमुखतश्शृङ्गग्राहिकयापि वा । मकारौ तारनमसोस्स्वानुसन्धानदाविह ॥  
-इह या स्वानुसन्धानप्रक्रियैकस्य दर्शिता । अन्येषामपि तत्साम्यान्नान्योन्यशरणा इमे ॥  
-अतस्स्वपर-रक्षायां पराधीनेषु जन्तुषु । निरपेक्षशरण्यत्वं नियतं कमलापतौ ॥
+अतस् स्व-पर-रक्षायां  
+**पराधीनेषु** जन्तुषु ।  
+निरपेक्ष-शरण्यत्वं  
+**नियतं** कमलापतौ ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतस् स्व-पर-रक्षायां  
+**पराधीनेषु** जन्तुषु ।  
+निरपेक्ष-शरण्यत्वं  
+**नियतं** कमलापतौ ॥
+</details>
+
+<details><summary>English</summary>
+
+Therefore since all creatures are dependent (on another) in the matter of protecting themselves and protecting others,  
+protectorship not dependent on others  
+is vested only in the Lord of Kamala (Lakṣmī).
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, dado que todas las criaturas **dependen** (de otro) en cuestión de **protegerse** y **proteger** a los demás,  
+**Protectorship no depende** de los demás  
+**se otorga** solo en el Señor de Kamala (Lakṣmī).
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-जीवसामान्यमुखतश्शृङ्गग्राहिकयापि वा । मकारौ तारनमसोस्स्वानुसन्धानदाविह ॥  
-इह या स्वानुसन्धानप्रक्रियैकस्य दर्शिता । अन्येषामपि तत्साम्यान्नान्योन्यशरणा इमे ॥  
 अतस्स्वपर-रक्षायां पराधीनेषु जन्तुषु । निरपेक्षशरण्यत्वं नियतं कमलापतौ ॥
 </details>
 
-The ma in praṇava and in the namas lead to the consideration of one's self either by reference to the Jīva as a genus (Jāti) including one, or by reference to 'I' directly which is like catching hold of the horns (i.e.) (by pointing to what is essential and all-important). Since the consideration that has been pointed out in regard to one, applies equally to others as well, there is no question of any one being the Saviour of any other. Therefore since all creatures are dependent (on another) in the matter of protecting themselves and protecting others, protectorship not dependent on others is vested only in the Lord of Kamala (Lakṣmī)
+## नारायणः
+
+<details><summary>English</summary>
 
 THE WORD NĀRĀYAṆA IN TIRUMANTRA:
+</details>
 
-The word Nārāyaṇa here (in Tirumantra) explains (in full), by its conventional usage and by its etymology, the unconditional Saviour who appears in the first letter (of the praṇava) as the Protector of all and as the śeṣī of all. His grace is to be obtained by means of the sādhyopāya called śaraṇāgati (seeking protection or refuge of the Lord), whicb is seen either implicitly or explicitly in the word namas. He is to be the recipient of the service rendered by the prapanna, which is implicit in the dative (fourth) case ( of the word Nārāyaṇa) (i.e.) Narāyaṇāya.
+<details><summary>Español</summary>
 
-Explanation or elaboration is the clarification of what has been briefly stated before in another manner, so that there may be no ignorance, doubt or misconception (about its meaning). This explanation may be seen wherever it occurs [(i.e.) the meaning hinted at in the first letter a (of praṇava) is explained in the word Nārāyaṇa and the meaning of m in praṇava is explained in the word Nara and so on] .
+La palabra nārāyaṇa en tirumantra:
+</details>
 
-This word, Nārāyaṇa, which is of great help in showing clearly the two tattvas, namely, the śeṣa and the śeṣī finds the first place, in the Viṣṇugāyatri and in the Tirunarayaniyam, where certain names are commented upon before other vyāpaka names of Bhagavān.
+### अन्यत्र सूचनाः
+#### नमसि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु शाब्दम् आगव् आदल्  
+आर्थम् आगव् आदल्  
+नमस्सिले तोऱ्ऱिऩ शरणागतिय् आगिऱ साध्योपायत्ताले प्रसादनीयऩ् आय् 
+</details>
+
+<details><summary>English</summary>
+
+His grace is to be obtained by means of the sādhyopāya called śaraṇāgati (seeking protection or refuge of the Lord),  
+which is seen either implicitly or explicitly in the word namas. (Regarding him...)
+</details>
+
+<details><summary>Español</summary>
+
+Su gracia **debe obtenerse** mediante el sādhyopāya **llamado** Śaraṇāgati (**buscando protección** o **refugio** del Señor),  
+que **se ve** implícita o explícitamente en la palabra namas. (Con respecto a él ...)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु शाब्दमागवादल् आर्थमागवादल् नमस्सिले तोऱ्ऱिऩ शरणागतियागिऱ साध्योपायत्ताले प्रसादनीयऩाय् 
+</details>
+
+#### चतुर्थ्याम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मेलिल् चतुर्थियिल् विवक्षितम् आऩ कैङ्कर्यत्तुक्कु प्रतिसम्बन्धियुम् आय्
+</details>
+
+<details><summary>English</summary>
+
+He is to be the recipient of the service rendered by the prapanna,  
+which is implicit in the dative (fourth) case ( of the word Nārāyaṇa) (i.e.) Narāyaṇāya.
+</details>
+
+<details><summary>Español</summary>
+
+Él **debe ser** el destinatario del **servicio prestado** por el Prapanna,  
+que **está** implícito en el caso dativo (cuarto) (de la palabra nārāyaṇa) (es decir) narāyaṇāya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मेलिल् चतुर्थियिल् विवक्षितमाऩ कैङ्कर्यत्तुक्कु प्रतिसम्बन्धियुमाय्
+</details>
+
+#### प्रणवे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-रक्षकऩ् आगवुम्  
+सर्व-शेषिय् आगवुम्  
++++(प्रणव-)+++प्रथमाक्षरत्तिल् प्रतिपन्नऩ् आऩ 
+</details>
+
+<details><summary>English</summary>
+
+(He) who appears in the first letter (of the praṇava) as the Protector of all  
+and as the śeṣī of all.  
+</details>
+
+<details><summary>Español</summary>
+
+(Él) quien **aparece** en la primera carta (del praṇava) como el **protector** de todos  
+y como el Śeṣī de todos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वरक्षकऩागवुम् सर्वशेषियागवुम् प्रथमाक्षरत्तिल् प्रतिपन्नऩाऩ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निरपेक्ष-शरण्यऩ्-उडैय पडियै वॆळिय् इडुगिऱदु  
+योग-रूढम् आऩ नारायण-शब्दम्। 
+</details>
+
+<details><summary>English</summary>
+
+The word Nārāyaṇa here (in Tirumantra) explains (in full),  
+by its conventional usage and by its etymology,  
+(that) unconditional Saviour.
+</details>
+
+<details><summary>Español</summary>
+
+La palabra nārāyaṇa aquí (en tirumantra) **explica** (en su totalidad),    
+por su **uso** convencional y por su etimología,  
+(eso) Salvador incondicional.
+</details>
+
+<details><summary>मूलम्</summary>
+
+निरपेक्षशरण्यऩुडैय पडियै वॆळियिडुगिऱदु योगरूढमाऩ नारायणशब्दम्। 
+</details>
+
+### पिस्पष्टयिषा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुरुङ्गच् चॊऩ्ऩ अर्थन्-तऩ्ऩैये  
+अज्ञान-संशय-विपर्ययङ्गळ् कऴियुम् बडि  
+मुखान्तरत्ताले तॆळि-विक्कै **विवरणम्**। 
+</details>
+
+<details><summary>English</summary>
+
+Explanation or elaboration is the clarification of what has been briefly stated before in another manner,  
+so that there may be no ignorance, doubt or misconception (about its meaning).  
+
+</details>
+
+<details><summary>Español</summary>
+
+**Explicación** o **elaboración es** la **aclaración** de lo que se ha **establecido** brevemente de otra manera,    
+para que **no haya** ignorancia, duda o concepto erróneo (sobre su significado).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सुरुङ्गच्चॊऩ्ऩ अर्थन्दऩ्ऩैये अज्ञानसंशय विपर्ययङ्गळ् कऴियुम्बडि मुखान्तरत्ताले तॆळिविक्कै विवरणम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस् संग्रह-विवरण-भावम्  
+प्रथमाक्षरम् मुदल् आग  
+यथा-संभवङ् कण्डु कॊळ्वदु। 
+</details>
+
+<details><summary>English</summary>
+
+
+This explanation may be seen wherever it occurs  
+[(i.e.) the meaning hinted at in the first letter a (of praṇava) is explained in the word Nārāyaṇa  
+and the meaning of m in praṇava is explained in the word Nara and so on] .
+</details>
+
+<details><summary>Español</summary>
+
+Esta **explicación se puede ver** donde **sea** que **ocurra**  
+[(**es decir**) el significado **insinuado** en la primera letra "a" (de praṇava) **se explica** en la palabra nārāyaṇa   
+y el significado de "m" en praṇava **se explica** en la palabra nara y así sucesivamente].
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इस्संग्रहविवरणभावम्प्रथमाक्षरम् मुदलाग यथासंभवङ्गण्डुगॊळ्वदु। 
+</details>
+
+### तत्त्व-द्वय-प्रकाशकतायाः प्राधान्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन् नारायण-शब्दम्  
+शेष-शेषि-तत्त्वङ्गळ् इरण्डैयुम् वॆळियागक् काट्टुगिऱ उपकारातिशयत्ताले विष्णुगायत्रियिलुम् 
+</details>
+
+
+<details><summary>English</summary>
+
+This word, Nārāyaṇa, which is of great help in showing clearly the two tattvas,  
+namely, the śeṣa and the śeṣī  
+finds the first place, in the Viṣṇugāyatri 
 
 [ 053:-Viṣṇugayatri: Nārāyaṇaya vidmahe; Vasudevaya dhimahi, Tanno Viṣṇuh prachodayat,]
+</details>
 
-(Nārāyaṇa, Vāsudeva and Viṣṇu are called vyāpaka names because their etymology indicates that the one referred to by them is present everywhere).
+<details><summary>Español</summary>
 
-In the Nārāyaṇānuvāka which aims at determining the person of the Supreme Deity, who is the object of meditation in all vidyās, the word Nārāyaṇa is repeated many times, thus showing great regard, for the purpose of declaring that Brahma, Siva and others, who might, on first thought, be considered as the Supreme Deity, on the strength of the presence of their names in. the vidyās are only the vibhūtis (or glorious possessions) of Nārāyaṇa just like the universe (which attests His glory). This it does by stating them in *grammatical co-ordination or apposition with Nārāyaṇa (sāmānādhikaraṇyam)[^92] .
+Esta palabra, nārāyaṇa, que **es** de gran **ayuda** para **mostrar** claramente los dos tattvas,   
+a saber, el Śeṣa y el śeṣī  
+**Encuentra** el primer lugar, en el Viṣṇugāyatri
 
-[^92]: Grammatical co-ordination: The following sentences in the Nārāyaṇānuvaka are referred to here: “ This universe is all the deity Nārāyaṇa: He is the inner self of the universe: Nārāyaṇa is the Supreme Jyotis (Light): The Supreme Being is Nārāyaṇa: Nārāyaṇa is the Supreme Brahman: Nārāyaṇa is the Supreme Tattva (Reality)....... He is Brahma: He is Siva: He is Indra : He is Akṣara and He is the Supreme Independent Sovereign Ruler".
+[ 053:-Viṣṇugayatri: Nārāyaṇaya vidmahe; Vasudevaya dhimahi, Tanno Viṣṇuh prachodayat,]
+</details>
 
-It declares that even these, (Brahma, Siva and others) are included in the meaning of Nāra (the first part of the compound) and that Nārāyaṇa is their resting place or refuge.
+<details><summary>मूलम्</summary>
 
-The potency of this name is well-known from the following passages: "Those who are afraid of saṁsāra and who suffer from terrible diseases are relieved of their sufferings by merely uttering the word Nārāyaṇa, and attain happiness”. “The man in whose mouth is the auspicious word, Nārāyaṇa, is followed by Nārāyaṇa even as the calf is followed by the cow." " The word Nārāyaṇa is always available. Oar speech is within our control. Notwithstanding this, the jīvas fall into the darkest hell by not uttering the word": " The name, Nārāyaṇa, confers (on the man who utters it) good birth in a Vaishnavite family: it confers also wealth.” “The mother  who gives the name, Nārāyaṇa, to her son will never go to hell." In the Nāradīya kalpa it is said: " Even those who utter the mere word, Nārāyaṇa, are relieved of their diseases, of their dangers, of their fears and of their sorrows. There is no doubt of this." In another purāṇa it is stated that if the number of vowels and consonants (in the word, Nārāyaṇa ) be taken separately into account, it will (be seen to) resemble Tirumantra in having eight letters and may be treated as such.
+इन् नारायणशब्दम् शेषशेषितत्त्वङ्गळिरण्डैयुम् वॆळियागक् काट्टुगिऱ उपकारातिशयत्ताले विष्णुगायत्रियिलुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरु-नारायणीयत्तिले नाम-निर्वचनम् पण्णुगिऱव् इडत्तिलुम्  
+मऱ्ऱुम् उळ्ळ व्यापक-नामङ्गळुक्कुम् मुऩ्ऩे पठिक्कप् पट्टदु।
+</details>
+
+<details><summary>English</summary>
+
+and in the Tirunarayaniyam, where certain names are commented upon before other vyāpaka names of Bhagavān.
+
+(Nārāyaṇa, Vāsudeva and Viṣṇu are called vyāpaka names  
+because their etymology indicates that the one referred to by them is present everywhere).
+</details>
+
+<details><summary>Español</summary>
+
+y en el Tirunarayaniyam, donde **se comentan** ciertos nombres ante otros nombres de Vyāpaka de Bhagavān.
+
+(Nārāyaṇa, Vāsudeva y Viṣṇu **se llaman** nombres de Vyāpaka  
+porque su etimología **indica** que  
+el que **se hace referencia** por ellos  
+**está presente** en todas partes).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तिरुनारायणीयत्तिले नामनिर्वचनम् पण्णुगिऱविडत्तिलुम् मऱ्ऱुमुळ्ळ व्यापकनामङ्गळुक्कुम् मुऩ्ऩे पठिक्कप्पट्टदु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-पर-विद्योपास्य-विशेष-निर्णयम् पण्णुगिऱ नारायणानुवाकम् 
+</details>
+
+<details><summary>English</summary>
+
+In the Nārāyaṇānuvāka which aims at determining the person of the Supreme Deity, who is the object of meditation in all vidyās, 
+</details>
+
+<details><summary>Español</summary>
+
+En el nārāyaṇānuvāka que **tiene** como **objetivo determinar** a la persona de la deidad suprema, que **es** objeto de **meditación** en todos los vidyās,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वपर विद्योपास्यविशेषनिर्णयम् पण्णुगिऱ नारायणानुवाकम् 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पर-तत्त्वम् आग शङ्कितर् आऩ ब्रह्म-शिवादिगळ् ऎल्लां  
+सामानाधिकरण्य-निर्देशत्तालेय्  
+अङ्गु सॊऩ्ऩ विश्वम् पोले विभूतिय् आऩार्गळ् ऎऩ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+for the purpose of declaring that Brahma, Siva and others, who might, on first thought, be considered as the Supreme Deity,  
+on the strength of the presence of their names in the vidyās  
+are only the vibhūtis (or glorious possessions) of Nārāyaṇa just like the universe (which attests His glory)
+
+(~~This it does~~) by stating them in *grammatical co-ordination or apposition with Nārāyaṇa (sāmānādhikaraṇyam).
+
+(Grammatical co-ordination:  
+The following sentences in the Nārāyaṇānuvaka are referred to here:  
+
+> “ This universe is all the deity Nārāyaṇa;  
+He is the inner self of the universe;  
+Nārāyaṇa is the Supreme Jyotis (Light);  
+The Supreme Being is Nārāyaṇa;  
+Nārāyaṇa is the Supreme Brahman;  
+Nārāyaṇa is the Supreme Tattva (Reality).......  
+He is Brahma; He is Siva; He is Indra ; He is Akṣara and He is the Supreme Independent Sovereign Ruler".)
+</details>
+
+<details><summary>Español</summary>
+
+Con el **propósito** de **declarar** que Brahma, Siva y otros, que, por primer **pensamiento**, **podrían considerarse** como la deidad suprema,  
+Sobre la fuerza de la **presencia** de sus nombres en los Vidyās  
+**son** solo los Vibhūtis (o posesiones gloriosas) de Nārāyaṇa al igual que el universo (que atestigua su gloria)
+
+**declarándolos** en **coordinación** gramatical o **aposición** con nārāyaṇa (sāmānādhikaraṇyam).
+
+(**Coordinación** gramatical:  
+Las **siguientes oraciones** en el Nārāyaṇānuvaka **se mencionan** aquí:  
+
+> “Este universo **es** toda la deidad nārāyaṇa;  
+Él **es** el Ser interno del universo;  
+Nārāyaṇa **es** el Jyotis Supremo (luz);  
+El ser supremo **es** nārāyaṇa;  
+Nārāyaṇa **es** el Brahman supremo;  
+Nārāyaṇa **es** el tattva supremo (realidad) .......  
+Él **es** Brahma; Él **es** Siva; Él **es** Indra; Él **es** Akṣara y **es** el gobernante soberano supremo independiente ".)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परतत्त्वमाग शङ्कितराऩ ब्रह्मशिवादिगळॆल्लाम् सामानाधिकरण्यनिर्देशत्तालेय् अङ्गु सॊऩ्ऩ विश्वम् पोले विभूतियाऩार्गळॆऩ्ऱुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळुम् नार-शब्दार्थम् ऎऩ्ऱुन् तॆळि-विक्कैक्क् आग  
+इन् नारायण-शब्दत्तैप्  
+पल-गालुम् आदरन् तोऱ्ऱव् आवर्तित्तदु।
+</details>
+
+<details><summary>English</summary>
+
+~~It declares~~ to declare that even these, (Brahma, Siva and others) are included in the meaning of Nāra  
+(the first part of the compound)  
+and that Nārāyaṇa is their resting place or refuge,  
+the word Nārāyaṇa is repeated many times, thus showing great regard.  
+</details>
+
+<details><summary>Español</summary>
+
+~~ Declara ~~ **declarar** que **incluso** estos (Brahma, Siva y otros) **están incluidos** en el significado de Nāra  
+(la primera parte del complejo)  
+y que nārāyaṇa **es** su lugar de **descanso** o **refugio**,
+La palabra nārāyaṇa **se repite** muchas veces, **mostrando** así una gran **consideración**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळुम् नारशब्दार्थमॆऩ्ऱुन् तॆळिविक्कैक्काग इन् नारायणशब्दत्तैप् पलगालुमादरन्दोऱ्ऱवावर्तित्तदु।
+</details>
+
+
+### प्रभाव-कीर्तनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इश् शब्दत्तिऩ् प्रभावम् 
+</details>
+
+<details><summary>English</summary>
+
+The potency of this name 
+</details>
+
+<details><summary>Español</summary>
+
+La **potencia** de este nombre
+</details>
+
+<details><summary>मूलम्</summary>
+
+इश् शब्दत्तिऩ् प्रभावम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘सङ्कीर्त्य नारायणशब्दमात्रं’’(व्याससञ्जयसंवादः), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘सङ्कीर्त्य नारायणशब्दमात्रं’’(व्याससञ्जयसंवादः), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘सङ्कीर्त्य नारायणशब्दमात्रं’’(व्याससञ्जयसंवादः), 
+</details>
+
+<details><summary>English</summary>
+
+> "Those who are afraid of saṁsāra  
+and who suffer from terrible diseases  
+are relieved of their sufferings  
+by merely uttering the word Nārāyaṇa,  
+and attain happiness”. 
+</details>
+
+<details><summary>Español</summary>
+
+> "Aquellos que **temen** a Saṁsāra  
+y que **sufren** de terribles enfermedades  
+**son aliviados** de sus **sufrimientos**  
+simplemente **pronunciando** la palabra nārāyaṇa,  
+y **alcanzar** la felicidad ”.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘सङ्कीर्त्य नारायणशब्दमात्रं’’(व्याससञ्जयसंवादः), 
+</details>
+
+
+
+
+
+is well-known from the following passages: 
+
+
+
+“The man in whose mouth is the auspicious word, Nārāyaṇa, is followed by Nārāyaṇa even as the calf is followed by the cow." " The word Nārāyaṇa is always available. Oar speech is within our control. Notwithstanding this, the jīvas fall into the darkest hell by not uttering the word": " The name, Nārāyaṇa, confers (on the man who utters it) good birth in a Vaishnavite family: it confers also wealth.” “The mother  who gives the name, Nārāyaṇa, to her son will never go to hell." In the Nāradīya kalpa it is said: " Even those who utter the mere word, Nārāyaṇa, are relieved of their diseases, of their dangers, of their fears and of their sorrows. There is no doubt of this." In another purāṇa it is stated that if the number of vowels and consonants (in the word, Nārāyaṇa ) be taken separately into account, it will (be seen to) resemble Tirumantra in having eight letters and may be treated as such.
 
 The compound word Nārāyaṇa may be split up into its two component parts thus: Nārāh ayanam yasya (He to whom Nārās are the resting place ) and Nārāṇām ayanam (the resting place of Nārās). The word Nārās is here determinate in meaning and denotes only the nārās (sentient beings and non-sentient things) and does not refer also to the Lord who is their inter self. Therefore the two words are not in grammatical apposition. Nammalvar distinctly showed the meanings of these two ways of combining the two parts of the word (samāsa) in the following two passages by using the word at the end and at the beginning respectively. "He who has, as His śeṣas," countless jīvas with knowledge and bliss as their attributes and with self-luminousness as their nature and also His own noble qualities--that Nārāyaṇa," and " Nārāyaṇa" is the Lord of all the seven worlds". In this are implicit (Bhagavān's) possessing the two kinds of attributes, namely, freedom from defects and possession of all auspicious and noble qualities and, likewise, His possession of the two vibhūtis (glories), namely Līlā Vibhūti (this (material) Universe) with all the sentient and nonsentient beings in it) and Nitya Vibhūti, (the transcendental region of eternal glory with all that it contains). It should be borne in mind that this nārās includes the queen, the ornaments, the weapons, the attendants, the furniture and the like, the door-keepers, the retinue and such others.
 
