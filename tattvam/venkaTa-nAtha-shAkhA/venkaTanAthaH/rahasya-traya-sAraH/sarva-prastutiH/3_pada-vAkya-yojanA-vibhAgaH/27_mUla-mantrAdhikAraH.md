@@ -13966,7 +13966,7 @@ Por lo tanto, dado que todas las criaturas **dependen** (de otro) en cuestión d
 अतस्स्वपर-रक्षायां पराधीनेषु जन्तुषु । निरपेक्षशरण्यत्वं नियतं कमलापतौ ॥
 </details>
 
-
+## नारायणः
 
 <details><summary>English</summary>
 
@@ -13979,7 +13979,24 @@ La palabra nārāyaṇa en tirumantra:
 </details>
 
 
-The word Nārāyaṇa here (in Tirumantra) explains (in full), by its conventional usage and by its etymology, the unconditional Saviour who appears in the first letter (of the praṇava) as the Protector of all and as the śeṣī of all. His grace is to be obtained by means of the sādhyopāya called śaraṇāgati (seeking protection or refuge of the Lord), whicb is seen either implicitly or explicitly in the word namas. He is to be the recipient of the service rendered by the prapanna, which is implicit in the dative (fourth) case ( of the word Nārāyaṇa) (i.e.) Narāyaṇāya.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु शाब्दम् आगव् आदल्  
+आर्थम् आगव् आदल्  
+नमस्सिले तोऱ्ऱिऩ शरणागतिय् आगिऱ साध्योपायत्ताले प्रसादनीयऩ् आय् 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु शाब्दमागवादल् आर्थमागवादल् नमस्सिले तोऱ्ऱिऩ शरणागतियागिऱ साध्योपायत्ताले प्रसादनीयऩाय् 
+</details>
+
+
+The word Nārāyaṇa here (in Tirumantra) explains (in full),  
+by its conventional usage and by its etymology,  
+the unconditional Saviour who appears in the first letter (of the praṇava) as the Protector of all  
+and as the śeṣī of all.  
+His grace is to be obtained by means of the sādhyopāya called śaraṇāgati (seeking protection or refuge of the Lord), whicb is seen either implicitly or explicitly in the word namas. He is to be the recipient of the service rendered by the prapanna, which is implicit in the dative (fourth) case ( of the word Nārāyaṇa) (i.e.) Narāyaṇāya.
 
 Explanation or elaboration is the clarification of what has been briefly stated before in another manner, so that there may be no ignorance, doubt or misconception (about its meaning). This explanation may be seen wherever it occurs [(i.e.) the meaning hinted at in the first letter a (of praṇava) is explained in the word Nārāyaṇa and the meaning of m in praṇava is explained in the word Nara and so on] .
 
