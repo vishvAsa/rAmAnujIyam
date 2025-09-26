@@ -14772,13 +14772,90 @@ también **confiere** riqueza ".
 नारणऩ्ऱम्मऩ्ऩै - नारायणऩ् ऎऩ्ऱुबॆयरिट्ट पिळ्ळैयिऩ् तायार्, नरगम् पुगाळ् - नरगत्तै यडैयमाट्टाळ्। अडिक्कडि अवळ् तऩ् पिळ्ळैयै नारायणा ऎऩ्ऱु कूप्पिडुवदाल् नरगम् वारादॆऩ्ऱुगरुत्तु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नारदीय-कल्पत्तिलुम् 
+
+> ‘‘रोगापद्भय-दुःखेभ्यो  
+**मुच्यन्ते** नात्र संशयः ।  
+अपि नारायणेत्येतच्-  
+छब्द-मात्र-प्रलापिनः॥’’  
+(नारदीयम् १-३८) 
+
+ऎऩ्ऱुञ् जॊल्लप् पट्टदु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘रोगापद्भय-दुःखेभ्यो  
+**मुच्यन्ते** नात्र संशयः ।  
+अपि नारायणेत्येतच्-  
+छब्द-मात्र-प्रलापिनः॥’’  
+(नारदीयम् १-३८) 
+
+</details>
+
+<details><summary>विषयः</summary>
+
+नारायणः, नाम-जपः
+</details>
+
+<details><summary>English</summary>
+
+In the Nāradīya kalpa it is said: 
+
+> " Even those who utter the mere word, Nārāyaṇa,  
+are relieved of their diseases, of their dangers, of their fears and of their sorrows.  
+There is no doubt of this." 
+</details>
+
+<details><summary>Español</summary>
+
+En el nāradīya kalpa **se dice**: 
+
+> "Incluso aquellos que **pronuncian** la mera palabra, nārāyaṇa,  
+**son aliviados** de sus enfermedades, de sus peligros, de sus miedos y de sus penas.  
+**No hay** duda de esto ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+नारदीयकल्पत्तिलुम् ‘‘रोगापद्भयदुःखेभ्यो मुच्यन्ते नात्रसंशयः । अपि नारायणेत्येतच्छब्दमात्रप्रलापिनः’’(नारदीयम् १-३८) ऎऩ्ऱुञ्जॊल्लप्पट्टदु।
+</details>
+
+#### अष्टाक्षर-समता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु तऩ्ऩैये  
+स्वर-व्यञ्जन-भेदत्ताले ऎट्टु तिरुवक्षरम् आग भाविक्कत्  
+तिरु-मन्त्रत्तोड् ऒक्कुम्  
+ऎऩ्ऱु पुराणान्तरोक्तम्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+In another purāṇa  
+it is stated that if the number of vowels and consonants (in the word, Nārāyaṇa ) be taken separately into account,  
+it will (be seen to) resemble Tirumantra in having eight letters  
+and may be treated as such.
+</details>
+
+<details><summary>Español</summary>
+
+En otro purāṇa  
+**Se afirma** que si el número de vocales y consonantes (en la palabra, nārāyaṇa) **se toma** en cuenta por **separado**,  
+**Se verá** a Tirumantra en **tener** ocho letras  
+y **puede ser tratado** como tal.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु तऩ्ऩैये स्वरव्यञ्जनभेदत्ताले ऎट्टु तिरुवक्षरमाग भाविक्कत् तिरुमन्त्रत् तोडॊक्कुमॆऩ्ऱु पुराणान्तरोक्तम्। 
+</details>
 
 
 
-
-
-
-In the Nāradīya kalpa it is said: " Even those who utter the mere word, Nārāyaṇa, are relieved of their diseases, of their dangers, of their fears and of their sorrows. There is no doubt of this." In another purāṇa it is stated that if the number of vowels and consonants (in the word, Nārāyaṇa ) be taken separately into account, it will (be seen to) resemble Tirumantra in having eight letters and may be treated as such.
 
 The compound word Nārāyaṇa may be split up into its two component parts thus: Nārāh ayanam yasya (He to whom Nārās are the resting place ) and Nārāṇām ayanam (the resting place of Nārās). The word Nārās is here determinate in meaning and denotes only the nārās (sentient beings and non-sentient things) and does not refer also to the Lord who is their inter self. Therefore the two words are not in grammatical apposition. Nammalvar distinctly showed the meanings of these two ways of combining the two parts of the word (samāsa) in the following two passages by using the word at the end and at the beginning respectively. "He who has, as His śeṣas," countless jīvas with knowledge and bliss as their attributes and with self-luminousness as their nature and also His own noble qualities--that Nārāyaṇa," and " Nārāyaṇa" is the Lord of all the seven worlds". In this are implicit (Bhagavān's) possessing the two kinds of attributes, namely, freedom from defects and possession of all auspicious and noble qualities and, likewise, His possession of the two vibhūtis (glories), namely Līlā Vibhūti (this (material) Universe) with all the sentient and nonsentient beings in it) and Nitya Vibhūti, (the transcendental region of eternal glory with all that it contains). It should be borne in mind that this nārās includes the queen, the ornaments, the weapons, the attendants, the furniture and the like, the door-keepers, the retinue and such others.
 
