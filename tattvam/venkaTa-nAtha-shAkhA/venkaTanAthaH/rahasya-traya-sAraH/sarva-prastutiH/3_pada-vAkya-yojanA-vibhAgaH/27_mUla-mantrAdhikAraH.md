@@ -13687,6 +13687,13 @@ y **se explica** la estructura o **constitución** de Sādhyopāya con sus AṅG
 निरपेक्ष-स्वातन्त्र्यादि-निवृत्ति-पूर्वक- स्वरूप-शोधनम् पण्णिऱ्ऱु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अनन्तरं मोक्षोपायाधिकारिणो ऽवश्यापेक्षितं  
+निरपेक्ष-स्वातन्त्र्यादि-निवृत्ति-पूर्वक-- स्वरूप-शोधनम् अकारि । 
+</details>
+
+
 <details><summary>English</summary>
 
 Then, in the second, they clarify the svarūpa of the jīva,  
@@ -13722,6 +13729,14 @@ a saber, que **no tiene** independencia incondicional.
 प्राप्यमुम् आय् इरुक्किऱ सिद्धोपायम् इरुक्कुम् बडियैच् चॊल्लिऱ्ऱु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+ततः +++(परार्थे)+++   
+साध्योपाय-विशेषेण वशीकार्यस्य  
+प्राप्यस्य च सतः सिद्धोपायस्य  
+स्थिति-प्रकारः प्रत्यपादि, 
+</details>
+
 <details><summary>English</summary>
 
 Then in the third (i.e.) para,  
@@ -13755,6 +13770,11 @@ y quién también **es** el objeto a alcanzar.
 उपायान्तरङ्गळिऱ् काट्टिल् समर्पणत्तिऩ्-उडैय प्रधानोपायत्वञ् जॊल्ल् इऱ्ऱ् आगवुम् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+उपायान्तरापेक्षया समर्पणस्य प्रधानोपायत्वं प्रत्यपादीति वा ।  
+</details>
+
 <details><summary>English</summary>
 
 It may also be understood as stating that  
@@ -13784,6 +13804,13 @@ La **rendición** (de uno mismo) **es** más importante que todos los otros upā
 
 इवैय् ऎल्लाम् मेऱ् सॊल्लप् पुगुगिऱ वाक्यार्थङ्गळिले  
 यथा-संभवम् अनुसन्धित्तुक् कॊळ्वदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एते सर्वे ऽप्य् अर्था  
+वक्ष्यमाणेषु वाक्यार्थेषु  
+यथा-संभवम् अनुसन्धेयाः ॥
 </details>
 
 <details><summary>English</summary>
@@ -13892,6 +13919,17 @@ que **es** como **atrapar** los cuernos
 जीवसामान्यमुखतश्शृङ्गग्राहिकयापि वा । मकारौ तारनमसोस्स्वानुसन्धानदाविह ॥  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कीऴ्च्चॊऩ्ऩ अर्थङ्गळिल्  
+प्रधानतमङ्गळैक् कारिकैगळाले सङ्ग्रहिक्किऱार्  
+जीवसामान्यमुख्यत इति ।  
+इन्द अधिकारि-विषयत्तिल् तारनमस्सुक्कळुडैय मकारम् जीवसामान्यत्तैच् चॊल्लुगिऱबडियाल्  
+अदिलेदाऩुमन्तर्भूतऩागैयाल् स्वानुसन्धानप्रदमुमागलाम् ऎऩ्ऱबडि।  
+शृङ्गग्राहिकयापि वा – अस्मच्-छब्द-घटक-मकारमे पूर्वोत्तरलोपत्ताले स्वानुसन्धानप्रदमागलाम् ऎऩ्गै।  
+</details>
+
+
 ### भगवच्-छरण्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -13930,6 +13968,13 @@ Desde la **consideración** que **se ha señalado** con respecto a uno,
 इह या स्वानुसन्धानप्रक्रियैकस्य दर्शिता । अन्येषामपि तत्साम्यान्नान्योन्यशरणा इमे ॥  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि यागिल् नाऩ् अकारार्थत्तिऱ्कु शेषभूतऩ्; ऎऩक्कु शेषभूतऩल्लेऩ् ऎऩ्ऱु तऩक्के  
+अकारार्थशेषत्वमुम् तऩक्के स्वशेषत्वनिवृत्तियुम् सिद्धिक्कैयाले अन्यर्गळुक्कु शेषत्वपारतन्त्र्यङ्गळ् सिद्धिक्कामैयाल् शेषित्वमुम् स्वातन्त्र्यमुम् प्रसङ्गियादोवॆऩ्ऩ वरुळिच् चॆय्गिऱार् इहेति । इह – मन्त्रत्तिल्, एकस्य - ऒरु जीवऩ् विषयत्तिल्, स्वानुसन्धानप्रक्रिया - शेषत्वानुसन्धानप्रक्रियैयाऩदु, या दर्शिता - यादॊऩ्ऱु काण्बिक्कप्पट्टदो, अन्येषां – मूलमन्त्रानुसन्धाताक्कळाऩ इतरजीवर्गळुक्कुम्, तत्साम्यात् - भगवच्छेषत्वपारतन्त्र्यङ्गळुडैय अनुसन्धानप्रक्रियासाम्यमिरुक्किऱबडियाले, इमे - इन्द जीवर्गळ्, नान्योन्यशरणाः – परस्परम् शरणर्गळाग आगमाट्टार्गळ्। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -13966,6 +14011,12 @@ Por lo tanto, dado que todas las criaturas **dependen** (de otro) en cuestión d
 अतस्स्वपर-रक्षायां पराधीनेषु जन्तुषु । निरपेक्षशरण्यत्वं नियतं कमलापतौ ॥
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अत इति । अतः - जीवर्गळुक्कु अन्योन्यशरण्यत्वमिल्लै यागैयाले, स्वपररक्षायां - तऩ्ऩुडैयवुम् पिऱरुडैयवुम् रक्षणत्तिल्, पराधीनेषु – पराधीनकर्ताक्कळाऩ, जन्तुषु – जीवर्गळ् विषयत्तिल्, निरपेक्षशरण्यत्वम् - निरपेक्षमोक्षोपायत्वम्, कमलापतावेव - श्रियःपतियिऩिडत्तिलेये, नियतम् - सर्वदा सिद्धमायिरुक्किऱदु।  
+</details>
+
+
 ## नारायणः
 
 <details><summary>English</summary>
@@ -13987,6 +14038,13 @@ La palabra nārāyaṇa en tirumantra:
 नमस्सिले तोऱ्ऱिऩ शरणागतिय् आगिऱ साध्योपायत्ताले प्रसादनीयऩ् आय् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र शाब्द-रूपेण, आर्थ-रूपेण वा  
+नमसि प्रतीतेन शरणागति-रूपेण साध्योपायेन प्रसादनीयस्य, 
+</details>
+
+
 <details><summary>English</summary>
 
 His grace is to be obtained by means of the sādhyopāya called śaraṇāgati (seeking protection or refuge of the Lord),  
@@ -14005,11 +14063,23 @@ que **se ve** implícita o explícitamente en la palabra namas. (Con respecto a 
 इङ्गु शाब्दमागवादल् आर्थमागवादल् नमस्सिले तोऱ्ऱिऩ शरणागतियागिऱ साध्योपायत्ताले प्रसादनीयऩाय् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि नमश्शब्दत्तिऱ्कु व्याख्यानम् सॆय्दु नारायणशब्दत्तिऱ्कु व्याख्यानम् सॆय्य सङ्गतियै प्रदर्शिप्पिक्किऱार् इङ्गु शाब्दमागवादलित्यादिना । इङ्गु – मूलमन्त्रत्तिल्, इदऱ्कु नमस्सिले यॆऩ्बदोडवन्वयम्। मेलुळ्ळ नारायणशब्दम् ऎऩ्बदोडन् वयमागवुमाम्। शाब्दमागवादल् - स्थूलयोजऩैयिल् शाब्दमागवादल्, आर्थमाग वादल् - सूक्ष्मयोजऩैयिल् निरुक्तिबलत्ताले आर्थमागवादल्, शरणागतियागिऱ साध्योपायत्ताले प्रसादनीयऩायिति । इदऩाल् प्रसादकपरनमश्शब्दव्याख्यानानन्तरम् प्रसादनीयपर नारायणशब्द व्याख्यानमॆऩ्ऱु सङ्गति सूचितम्। 
+</details>
+
+
 #### चतुर्थ्याम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेलिल् चतुर्थियिल् विवक्षितम् आऩ कैङ्कर्यत्तुक्कु प्रतिसम्बन्धियुम् आय्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अग्रिम-चतुर्थी-विवक्षित-कैङ्कर्य-प्रतिसंबन्धिनः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -14037,6 +14107,13 @@ que **está** implícito en el caso dativo (cuarto) (de la palabra nārāyaṇa)
 +++(प्रणव-)+++प्रथमाक्षरत्तिल् प्रतिपन्नऩ् आऩ 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-रक्षकत्वेन सर्व-शेषित्वेन च  
++++(प्रणव-)+++प्रथमाक्षरे प्रतिपन्नस्य 
+</details>
+
+
 <details><summary>English</summary>
 
 (He) who appears in the first letter (of the praṇava) as the Protector of all  
@@ -14061,6 +14138,15 @@ y como el Śeṣī de todos.
 योग-रूढम् आऩ नारायण-शब्दम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+निरपेक्ष-शरण्यस्य  
+स्वरूपं **प्रकाशयति**  
+योग-रूढो नारायण-शब्दः ।  
+[[P288]]
+</details>
+
+
 <details><summary>English</summary>
 
 The word Nārāyaṇa here (in Tirumantra) explains (in full),  
@@ -14080,12 +14166,25 @@ por su **uso** convencional y por su etimología,
 निरपेक्षशरण्यऩुडैय पडियै वॆळियिडुगिऱदु योगरूढमाऩ नारायणशब्दम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पडियै - प्रकारत्तै, वॆळियिडुगिऱदु - विवरिक्किऱदु। योगरूढमाऩ इति । योगम् - योगशक्तिमत्, अवयवशक्तिमत् ऎऩ्ऱबडि। नारायणशब्दत्तिऱ्कु भगवति अवयवार्थपौष्कल्यमुम् श्रियःपतौ रूढियुम् उण्डॆऩ्बदु लोकवेदसिद्धम्। 
+</details>
+
+
 ### पिस्पष्टयिषा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुरुङ्गच् चॊऩ्ऩ अर्थन्-तऩ्ऩैये  
 अज्ञान-संशय-विपर्ययङ्गळ् कऴियुम् बडि  
 मुखान्तरत्ताले तॆळि-विक्कै **विवरणम्**। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+संक्षेपेणोक्तस्यार्थस्यैव  
+अज्ञान-संशय-विपर्यय-नाशार्थं  
+मुखान्तरेण प्रतिपादनं **विवरणम्** । 
 </details>
 
 <details><summary>English</summary>
@@ -14106,6 +14205,14 @@ para que **no haya** ignorancia, duda o concepto erróneo (sobre su significado)
 सुरुङ्गच्चॊऩ्ऩ अर्थन्दऩ्ऩैये अज्ञानसंशय विपर्ययङ्गळ् कऴियुम्बडि मुखान्तरत्ताले तॆळिविक्कै विवरणम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ननु अकारत्तिलुम् नारायणशब्दत्तिलुम् रक्षकऩाग भगवाऩे सॊल्लप्पट्टिरुक्क इव्विरण्डु पदङ्गळुक्कुम् विवरिणी विवरणभावम् सॊल्लक्कूडुमोवॆऩ्ऩवरुळिच्चॆय्गिऱार् सुरुङ्गच्चॊऩ्ऩ इत्यादि । 
+
+ननु अकारत्तैयॆडुत्तु इदऱ्कु नारायणऩ् अर्थमॆऩ्ऱुसॊऩ्ऩालऩ्ऱो अकारत्तिऱ्कु नारायणशब्दम् विवरणमागुम्; इङ्गु अप्पडियिल्लैये; इरण्डुम् भगवद्वाचकङ्गळागैयाल् नारायणशब्दत्तिऱ्कुत् ताऩ् अकारम् विवरणमागक् कूडादो? अकारत्तिल् सॊऩ्ऩवर्थत्तैये नारायणशब्दम् सॊऩ्ऩाल् पौनरुक्त्यन्दाऩ् वारादो वॆऩ्ऩ? विवरणस्वरूपत्तैक् काट्टुगिऱार् सुरुङ्गच्चॊऩ्ऩवर्थन् दऩ्ऩैये इति । ऎऩ्ऩवुमाम्। मुखान्तरत्ताले - भङ्ग्यन्तरत्ताले, 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इस् संग्रह-विवरण-भावम्  
@@ -14113,8 +14220,14 @@ para que **no haya** ignorancia, duda o concepto erróneo (sobre su significado)
 यथा-संभवङ् कण्डु कॊळ्वदु। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
+अयं संग्रह-विवरण-भावः  
+प्रथमाक्षरादि-प्रभृतिषु यथा-संभवं द्रष्टव्यः ॥
+</details>
+
+
+<details><summary>English</summary>
 
 This explanation may be seen wherever it occurs  
 [(i.e.) the meaning hinted at in the first letter a (of praṇava) is explained in the word Nārāyaṇa  
@@ -14134,11 +14247,23 @@ y el significado de "m" en praṇava **se explica** en la palabra nara y así su
 इस्संग्रहविवरणभावम्प्रथमाक्षरम् मुदलाग यथासंभवङ्गण्डुगॊळ्वदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द विवरिणीविवरणभावत्तै अन्यत्तिलुम् काट्टुगिऱार् इस् सङ्ग्रहविवरणभावम् प्रथमाक्षरम् मुदलाग इति । प्रथमाक्षरमाऩ अकारत्तिऱ्कु नारायणपदम्, तृतीयाक्षरमाऩ मकारत्तिऱ्कु नारपदमित्यादि कण्डुगॊळ्वदु। 
+</details>
+
+
 ### तत्त्व-द्वय-प्रकाशकतायाः प्राधान्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन् नारायण-शब्दम्  
 शेष-शेषि-तत्त्वङ्गळ् इरण्डैयुम् वॆळियागक् काट्टुगिऱ उपकारातिशयत्ताले विष्णुगायत्रियिलुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं नारायण-शब्दो हि  
+शेष-शेषि-तत्त्व-द्वितय-प्रकाशन-रूप- स्वभावातिशयेन विष्णु-गायत्र्यां, 
 </details>
 
 
@@ -14165,12 +14290,26 @@ a saber, el Śeṣa y el śeṣī
 इन् नारायणशब्दम् शेषशेषितत्त्वङ्गळिरण्डैयुम् वॆळियागक् काट्टुगिऱ उपकारातिशयत्ताले विष्णुगायत्रियिलुम् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन् नारायणशब्दम् उपकारातिशयत्ताले विष्णुगायत्र्यादिगळिल् ‘‘नारायणाय विद्महे’’ ऎऩ्ऱु वासुदेवविष्णुशब्दादिगळुक्कु मुऩ्बे पठिक्कप्पट्टदॆऩ्गिऱार् इन् नारायणशब्दमित्यादिना । इदिल् नारशब्दत्ताले समस्तशेषतत्त्वङ्गळैयुम्, अयनशब्दत्ताले शेषितत्त्वत्तैयुम् स्पष्टमागक् काट्टुगैयागिऱ उपकारातिशयमिरुप्पदालुम्, वासुदेवविष्णुशब्दङ्गळिल् शेषितत्त्वमे प्रकाशितमागैयाले उपकारातिशयमिल्लामैयालुम् वासुदेवादिशब्दङ्गळुक्कु मुऩ्बे नारायणशब्दम् पठिक्कप्पट्टदॆऩ्ऱु करुत्तु।
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिरु-नारायणीयत्तिले नाम-निर्वचनम् पण्णुगिऱव् इडत्तिलुम्  
 मऱ्ऱुम् उळ्ळ व्यापक-नामङ्गळुक्कुम् मुऩ्ऩे पठिक्कप् पट्टदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-नारायणीये नाम-निर्वचन-प्रकरणे च  
+
+इतरेभ्यो व्यापक-नामभ्यः पूर्वं पठितः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -14196,10 +14335,31 @@ el que **se hace referencia** por ellos
 तिरुनारायणीयत्तिले नामनिर्वचनम् पण्णुगिऱविडत्तिलुम् मऱ्ऱुमुळ्ळ व्यापकनामङ्गळुक्कुम् मुऩ्ऩे पठिक्कप्पट्टदु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तिरु नारायणीयत्तिले नामनिर्वचनम् पण्णुगिऱविडत्तिलुमिति । तिरु नारायणीयमावदु:- भारतत्तिल् शान्तिपर्वत्तिल् मोक्षधर्मत्तिल् तत्त्वोपदेशपराकाष्ठैयाऩ चरमप्रदेशम्। अदिल् 
+
+> ‘‘नाराणाम् अयनं ख्यातो  
+ह्य् अहम् एकस् सनातनः ।  
+आपो नारा इति प्रोक्ता  
+आपो वै नरसूनवः ॥  
+अयनं मम ताः पूर्वं  
+तेन नारायणोऽस्म्य् अहम्’’  
+
+इत्यादिगळिल् मुदलिल् नारायणशब्दम् निर्वचिक्कप्पट्टदिऱे।  
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-पर-विद्योपास्य-विशेष-निर्णयम् पण्णुगिऱ नारायणानुवाकम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-पर-विद्योपास्य-विशेष-निर्णायको नारायणानुवाकः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -14216,14 +14376,32 @@ En el nārāyaṇānuvāka que **tiene** como **objetivo determinar** a la perso
 सर्वपर विद्योपास्यविशेषनिर्णयम् पण्णुगिऱ नारायणानुवाकम् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
+ऎल्ला परविद्यैकळिलुम् उपास्यमॆदॆऩ्बदै निर्णयिक्किऱ ‘‘सहस्रशीर्षं देवं’’ ऎऩ्गिऱ नारायणानुवाकम् इन्द तिरुनामत्तैये आदरम् तोऩ्ऱ असकृदावर्तित्तदु ऎऩ्गिऱार् सर्वपरविद्येत्यादियाल्। सर्वपर-विद्यैकळावऩ सद्विद्यै, अक्षरविद्यै, ज्योतिर्विद्यै मुदलियऩ। 
+</details>
+
+
+### पर-तत्त्वता-स्थापनम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पर-तत्त्वम् आग शङ्कितर् आऩ ब्रह्म-शिवादिगळ् ऎल्लां  
-सामानाधिकरण्य-निर्देशत्तालेय्  
-अङ्गु सॊऩ्ऩ विश्वम् पोले विभूतिय् आऩार्गळ् ऎऩ्ऱुम् 
+> पर-तत्त्वम् आग शङ्कितर् आऩ ब्रह्म-शिवादिगळ् ऎल्लां  
++++("स ब्रह्मा स शिवस् सेन्द्रः"→)+++ सामानाधिकरण्य-निर्देशत्तालेय्  
+अङ्गु सॊऩ्ऩ +++("विश्वं नारायणन्देवं"→)+++ विश्वम् पोले विभूतिय् आऩार्गळ् 
+
+ऎऩ्ऱुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> पर-तत्त्वत्वेन शङ्किता ब्रह्म-शिवादयः सर्वे ऽपि  
++++("स ब्रह्मा स शिवस् सेन्द्रः"→)+++ सामानाधिकरण्य-निर्देशेन  
++++("विश्वं नारायणन्देवं"→)+++ तत्रोक्त-विश्ववत् विभूति-भूताः 
+
+इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -14271,6 +14449,17 @@ Nārāyaṇa **es** el tattva supremo (realidad) .......
 परतत्त्वमाग शङ्कितराऩ ब्रह्मशिवादिगळॆल्लाम् सामानाधिकरण्यनिर्देशत्तालेय् अङ्गु सॊऩ्ऩ विश्वम् पोले विभूतियाऩार्गळॆऩ्ऱुम् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द नारायणशब्दत्तै अन्दन्द विद्यैकळिलुपास्यङ्गळागच् चॊल्लप्पट्ट पदार्थङ्गळैच् चॊल्लुगिऱ ब्रह्मशिवादिपदङ्गळोडु समानाधिकरणमाग अडिक्कडि सॊऩ्ऩदऱ्कुक् कारणमरुळिच्चॆय्गिऱार् परतत्त्वमाग शङ्कितराऩ इत्यादियाल्।  
+सामानाधिकरण्यनिर्देशत्ताले -  
+‘‘नारायणपरो ज्योतिः’’  
+‘‘स ब्रह्मा स शिवस् सेन्द्रः’’  
+इत्य्-आदि-समानाधिकरण-निर्देशत्ताले, 
+ अङ्गु सॊऩ्ऩ विश्वम्बोले - अन्द अनुवाकत्तिल्  
+ ‘‘विश्वं नारायणन्देवं’’ ऎऩ्ऱु समानाधिकरणमागच् चॊऩ्ऩ विश्वशब्दवाच्यमाऩ उलगम्बोले, ‘‘विश्वन्नारायणन्देवं’’ ऎऩ्गिऱविडत्तिल् विश्वशब्दवाच्यचेतनाचेतनात्मकजगत्तिऱ्कु नारायणऩोडु ऐक्यम् सॊल्लुवदु बाधितमागैयाले शरीरात्मभावत् ताले नारायणविभूतित्वम् सिद्धिक्कुमाप्पोले ‘‘स ब्रह्मा स शिवः’’ ऎऩ्गिऱविडत्तिलुम् ब्रह्मशिवादिगळुक्कुम् वस्तुतः ऐक्यम् बाधितमागैयालुम् वैरूप्यम् कूडादागैयालुम् विभूतित्वमे सिद्धिक्कुमॆऩ्ऱु करुत्तु।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -14278,6 +14467,17 @@ Nārāyaṇa **es** el tattva supremo (realidad) .......
 इन् नारायण-शब्दत्तैप्  
 पल-गालुम् आदरन् तोऱ्ऱव् आवर्तित्तदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> 'एते ऽपि नार-शब्दार्थाः' 
+
+इति च प्रबोधयितुम्  
+
+इमं नारायण-शब्दम्  
+असकृत् सादर-प्रदर्शनम् आवर्तयामास ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -14301,12 +14501,23 @@ La palabra nārāyaṇa **se repite** muchas veces, **mostrando** así una gran 
 इवर्गळुम् नारशब्दार्थमॆऩ्ऱुन् तॆळिविक्कैक्काग इन् नारायणशब्दत्तैप् पलगालुमादरन्दोऱ्ऱवावर्तित्तदु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इवर्गळुम् नारशब्दार्थमॆऩ्ऱुन् दॆळिविक्कैक्काग इति । इवर्गळ् विभूतिकळॆऩ्ऱु अऱिन्दाल् इवर्गळुक्कु नारशब्दार्थत्वम् स्पष्टमागत्तोऱ्ऱुमिऱे।  
+</details>
+
 
 ### प्रभाव-कीर्तनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इश् शब्दत्तिऩ् प्रभावम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य शब्दस्य प्रभावः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -14323,21 +14534,29 @@ La **potencia** de este nombre
 इश् शब्दत्तिऩ् प्रभावम् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि इश् शब्दत्तिऩ् प्रभावत्तैच् चॊल्लुम् प्रमाणत्तैक् काट्टुगिऱार् इश् शब्दत्तिऩ् प्रभावमित्यादियाल्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘‘सङ्कीर्त्य नारायणशब्दमात्रं’’(व्याससञ्जयसंवादः), 
+> ‘‘सङ्कीर्त्य नारायणशब्दमात्रं’’  
+> (विमुक्त-दुःखास् सुखिनो भवन्ति॥)
+
+(व्याससञ्जयसंवादः), 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
-‘‘सङ्कीर्त्य नारायणशब्दमात्रं’’(व्याससञ्जयसंवादः), 
+> ‘‘सङ्कीर्त्य नारायणशब्दमात्रं’’  
+> (विमुक्त-दुःखास् सुखिनो भवन्ति॥)
+
+(व्याससञ्जयसंवादः), 
 </details>
 
-<details><summary>मूलम्</summary>
 
-‘‘सङ्कीर्त्य नारायणशब्दमात्रं’’(व्याससञ्जयसंवादः), 
-</details>
 
 <details><summary>English</summary>
 
@@ -14362,15 +14581,204 @@ y **alcanzar** la felicidad ”.
 ‘‘सङ्कीर्त्य नारायणशब्दमात्रं’’(व्याससञ्जयसंवादः), 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नारायणेति यस्यास्ये  
+> (वर्तते नाम मङ्गलम् ।  
+नारायणस् तम् अन्वेति  
+वत्सं गौरिव वत्सला॥)’’ , 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नारायणेति यस्यास्ये  
+> (वर्तते नाम मङ्गलम् ।  
+नारायणस् तम् अन्वेति  
+वत्सं गौरिव वत्सला॥)’’ , 
+</details>
+
+<details><summary>विषयः</summary>
+
+नारायणः, नाम-जपः
+</details>
+
+
+
+<details><summary>English</summary>
+
+> “The man in whose mouth is the auspicious word, Nārāyaṇa,  
+is followed by Nārāyaṇa  
+even as the calf is followed by the cow." 
+</details>
+
+<details><summary>Español</summary>
+
+> “El hombre en cuya boca **es** la palabra auspiciosa, nārāyaṇa,  
+**es seguido** por nārāyaṇa  
+Incluso cuando el ternero **es seguido** por la vaca ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नारायणेति यस्यास्ये’’(), 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नारायणेति यस्यास्य इति ।  
+
+> ‘‘वर्तते नाम मङ्गलम् ।  
+नारायणस् तम् अन्वेति  
+वत्सं गौरिव वत्सला॥’’ ऎऩ्बवै मेल् पादङ्गळ्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नारायणेति शब्दोऽस्ति  
+(वागस्ति वशवर्तिनि ।  
+तथापि नरके घोरे  
+पतन्तीत्य् एतद् अद्भुतम्॥) 
+
+इत्य्-आदिगळिलुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नारायणेति शब्दोऽस्ति  
+(वागस्ति वशवर्तिनि ।  
+तथापि नरके घोरे  
+पतन्तीत्य् एतद् अद्भुतम्॥) +++(5)+++
+
+इत्यादिषु, 
+</details>
+
+<details><summary>विषयः</summary>
+
+नारायणः, नाम-जपः
+</details>
+
+<details><summary>English</summary>
+
+" The word Nārāyaṇa is always available.  
+Our speech is within our control.  
+Notwithstanding this, the jīvas fall into the darkest hell  
+by not uttering the word". 
+</details>
+
+<details><summary>Español</summary>
+
+"La palabra nārāyaṇa siempre **está disponible**.  
+Nuestro **discurso está** dentro de nuestro control.  
+A pesar de esto, los Jīvas **caen** en el infierno más oscuro  
+Al **no pronunciar** la palabra ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नारायणेति शब्दोऽस्ति’’() इत्यादिगळिलुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+नारायणेति शब्दोऽस्तीति । ‘‘वागस्ति वशवर्तिनि । तथापि नरके घोरे पतन्तीत्येतदद्भुतम्’’ ऎऩ्बवै इदऱ्कुमेल् पादङ्गळ्। आदिशब्दत्ताले  
+
+> ‘‘आक्रुश्य पुत्रम् अघवान् यद् अजामिळोऽपि  
+नारायणेति म्रियमाण उपैति मुक्तिम्’’ 
+
+इत्यादिगळुक्कु ग्रहणम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऴ्वार्गळ्-उडैय 
+
+> ’’कुलन् तरुम्,  
+सॆल्वन् तन्द् इडुम् +++(नारायणावॆऩ्ऩुम् नामम्)+++’’  
+(पॆरिय तिरुमॊऴि १-१-९),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+दिव्य-सूरीणां 
+
+> "कुलं दद्यात्, धनं दद्यात् +++(नारायण-नाम)+++",
+</details>
+
+
+<details><summary>English</summary>
+
+> " The name, Nārāyaṇa, confers (on the man who utters it) good birth in a Vaishnavite family:  
+it confers also wealth.” 
+</details>
+
+<details><summary>Español</summary>
+
+> "El nombre, Nārāyaṇa, **confiere** (en el hombre que lo pronuncia) buen **nacimiento** en una familia Vaishnavita:  
+también **confiere** riqueza ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऴ्वार्गळुडैय ’’कुलन्दरुम् सॆल्वन् दन्दिडुम्’’(पॆरिय तिरुमॊऴि १-१-९),
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कुलन्दरुमिति । इदु पॆरिय तिरुमॊऴि। कुलन्दरुम् - उत्कृष्टकुलत्तैत् तरुम्, सॆल्वन् दन्दिडुम् - ज्ञानादिसम्पत्तैत् तन्दिडुम्, ’’नारायणावॆऩ्ऩुम् नामम्’’ ऎऩ्बदु इदऱ्कु मेलुळ्ळदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’नारणऩ्-तम्म्-अऩ्ऩै+++(=माता)+++ नरकम् पुगाळ्’’  
+(पॆरियाऴ्वार् तिरुमॊऴि ४-६-१) 
+
+इत्य्-आदिगळ् आऩ पासुरङ्गळालुम् प्रसिद्धम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "नारायणस्य माता नरकं न गच्छेत्"
+
+इत्यादिषु गाथासु च प्रसिद्धः । 
+</details>
+
+
+<details><summary>English</summary>
+
+“The mother  who gives the name, Nārāyaṇa, to her son will never go to hell." 
+
+(It) is well-known from the above passages.
+</details>
+
+<details><summary>Español</summary>
+
+"La madre que **da** el nombre, Nārāyaṇa, a su hijo  
+**nunca irá** al infierno".
+
+(It) **es** bien **conocido** por los pasajes anteriores.
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’नारणऩ्ऱम्मऩ्ऩै नरगम्बुगाळ्’’(पॆरियाऴ्वार् तिरुमॊऴि ४-६-१) इत्यादिगळाऩ पासुरङ्गळालुम् प्रसिद्धम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नारणऩ्ऱम्मऩ्ऩै - नारायणऩ् ऎऩ्ऱुबॆयरिट्ट पिळ्ळैयिऩ् तायार्, नरगम् पुगाळ् - नरगत्तै यडैयमाट्टाळ्। अडिक्कडि अवळ् तऩ् पिळ्ळैयै नारायणा ऎऩ्ऱु कूप्पिडुवदाल् नरगम् वारादॆऩ्ऱुगरुत्तु। 
+</details>
 
 
 
 
-is well-known from the following passages: 
 
 
 
-“The man in whose mouth is the auspicious word, Nārāyaṇa, is followed by Nārāyaṇa even as the calf is followed by the cow." " The word Nārāyaṇa is always available. Oar speech is within our control. Notwithstanding this, the jīvas fall into the darkest hell by not uttering the word": " The name, Nārāyaṇa, confers (on the man who utters it) good birth in a Vaishnavite family: it confers also wealth.” “The mother  who gives the name, Nārāyaṇa, to her son will never go to hell." In the Nāradīya kalpa it is said: " Even those who utter the mere word, Nārāyaṇa, are relieved of their diseases, of their dangers, of their fears and of their sorrows. There is no doubt of this." In another purāṇa it is stated that if the number of vowels and consonants (in the word, Nārāyaṇa ) be taken separately into account, it will (be seen to) resemble Tirumantra in having eight letters and may be treated as such.
+In the Nāradīya kalpa it is said: " Even those who utter the mere word, Nārāyaṇa, are relieved of their diseases, of their dangers, of their fears and of their sorrows. There is no doubt of this." In another purāṇa it is stated that if the number of vowels and consonants (in the word, Nārāyaṇa ) be taken separately into account, it will (be seen to) resemble Tirumantra in having eight letters and may be treated as such.
 
 The compound word Nārāyaṇa may be split up into its two component parts thus: Nārāh ayanam yasya (He to whom Nārās are the resting place ) and Nārāṇām ayanam (the resting place of Nārās). The word Nārās is here determinate in meaning and denotes only the nārās (sentient beings and non-sentient things) and does not refer also to the Lord who is their inter self. Therefore the two words are not in grammatical apposition. Nammalvar distinctly showed the meanings of these two ways of combining the two parts of the word (samāsa) in the following two passages by using the word at the end and at the beginning respectively. "He who has, as His śeṣas," countless jīvas with knowledge and bliss as their attributes and with self-luminousness as their nature and also His own noble qualities--that Nārāyaṇa," and " Nārāyaṇa" is the Lord of all the seven worlds". In this are implicit (Bhagavān's) possessing the two kinds of attributes, namely, freedom from defects and possession of all auspicious and noble qualities and, likewise, His possession of the two vibhūtis (glories), namely Līlā Vibhūti (this (material) Universe) with all the sentient and nonsentient beings in it) and Nitya Vibhūti, (the transcendental region of eternal glory with all that it contains). It should be borne in mind that this nārās includes the queen, the ornaments, the weapons, the attendants, the furniture and the like, the door-keepers, the retinue and such others.
 
