@@ -46,9 +46,14 @@ that the pa-tithram which was being given to the Desikar shrine for daily perfor
 ### Mylapore
 > in mylapore when VD was taken out of keshava perumal koil to set up his own sannidhi, since Tks won't allow vdks to aradhanam to desikan, water mixed with cow dung were poured on the sripadam tangis (idol carriers) and desikan murti.
 
+## deshika disregard
+### tiruvaLLikeNi
+In Triplicane, there are rAmAnuja, deshika and manavALa in a row. Multiple garlands are routinely placed on the first and the last, to the deliberate exclusion of the middle deshika.
+
 ## mahAmuni removal
-महामुनि: निष्कासित इत्यत्र  
-एकं स्थलं काञ्चीति कनिष्ठिकया गण्यते चेत् अनामिका सार्थवती पुनः बभूव
+> महामुनिः निष्कासित इत्यत्र  
+एकं स्थलं काञ्चीति कनिष्ठिकया गण्यते चेत्  
+अनामिका सार्थवती पुनः बभूव।
 
 Throwing of mAmunigaL's Thirumeni into the periya puSkariNi in Kanchi before 19th century - supposedly not done by a tAtArya.
 
