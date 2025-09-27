@@ -14787,12 +14787,15 @@ también **confiere** riqueza ".
 
 <details><summary>नीलमेघः (सं)</summary>
 
+नारदीय-कल्पे ऽपि, 
+
 > ‘‘रोगापद्भय-दुःखेभ्यो  
 **मुच्यन्ते** नात्र संशयः ।  
 अपि नारायणेत्येतच्-  
 छब्द-मात्र-प्रलापिनः॥’’  
 (नारदीयम् १-३८) 
 
+इत्य् अभ्यधायि । 
 </details>
 
 <details><summary>विषयः</summary>
@@ -14826,11 +14829,22 @@ En el nāradīya kalpa **se dice**:
 #### अष्टाक्षर-समता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदु तऩ्ऩैये  
+> इदु तऩ्ऩैये  
 स्वर-व्यञ्जन-भेदत्ताले ऎट्टु तिरुवक्षरम् आग भाविक्कत्  
 तिरु-मन्त्रत्तोड् ऒक्कुम्  
+
 ऎऩ्ऱु पुराणान्तरोक्तम्। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अयम् एव स्वर-व्यञ्जन-भेदेनाष्टाक्षरत्वेन ध्यायमानः  
+श्रीमन्त्र-तुल्यो भवति
+
+इति पुराणान्तरोक्तम् ॥
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -14854,10 +14868,84 @@ y **puede ser tratado** como tal.
 इदु तऩ्ऩैये स्वरव्यञ्जनभेदत्ताले ऎट्टु तिरुवक्षरमाग भाविक्कत् तिरुमन्त्रत् तोडॊक्कुमॆऩ्ऱु पुराणान्तरोक्तम्। 
 </details>
 
+### नार-सम्बन्ध-निष्कर्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वरऩोडु पृथक्-सिद्धङ्गळ् अल्लाद नारङ्गळुक्कु  
+"नाराः अयनं यस्य" ऎऩ्ऱुम्  
+"नाराणाम् अयनं" ऎऩ्ऱुम् +++(ईश्वरान्)+++ निष्कर्ष-विवक्षैयाले  
++++(ग्राह्यार्थे)+++ वैयधिकरण्यम् उण्ड् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P289]]
+
+ईश्वरापृथक्-सिद्धानां नाराणाम्,  
+'नारा अयनं यस्य' इति,  
+'नाराणाम् अयनम्' इति च +++(ग्राह्यार्थे)+++ वैयधिकरण्यं   
++++(ईश्वरान्)+++ निष्कर्ष-विवक्षया जातम् । 
+</details>
+
+<details><summary>English</summary>
+
+The compound word Nārāyaṇa may be split up into its two component parts thus:  
+
+> "Nārāh ayanam yasya"  
+(He to whom Nārās are the resting place ) 
+
+and 
+
+> Nārāṇām ayanam  
+(the resting place of Nārās). 
+
+The word Nārās is here determinate in meaning  
+and denotes only the nārās (sentient beings and non-sentient things)  
+and does not refer also to the Lord who is their inter self. 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra compuesta nārāyaṇa puede dividirse en sus dos partes componentes así:  
+
+> "Nārāh Ayanam Yasya"  
+(El que los nārās son el lugar de descanso) 
+
+y 
+
+> Nārāṇām ayanam  
+(El lugar de descanso de Nārās). 
+
+La palabra nārās está aquí determinada en significado  
+y denota solo los nārās (seres sensibles y cosas no sensibles)  
+y no se refiere también al Señor que es su Inter Ser.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩोडु पृथक्सिद्धङ्गळल्लाद नारङ्गळुक्कु नाराः अयनं यस्य ऎऩ्ऱुम् नाराणामयनं ऎऩ्ऱुम् निष्कर्षविवक्षैयाले वैयधिकरण्यमुण्डायिऱ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इश् शब्दत्तुक्कु नम्म्-आऴ्वार्  
+
+> ’’ऎण् बॆरुक्कन्नलत्तॊण् पॊरुळीऱिल वण् पुगऴ् नारणऩ्’’(तिरुवाय्मॊऴि १-२-१०) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इश् शब्दत्तुक्कु नम्माऴ्वार् ’’ऎण्बॆरुक्कन्नलत्तॊण् पॊरुळीऱिल वण् पुगऴ् नारणऩ्’’(तिरुवाय्मॊऴि १-२-१०) ऎऩ्ऱुम्, 
+</details>
+ 
 
 
 
-The compound word Nārāyaṇa may be split up into its two component parts thus: Nārāh ayanam yasya (He to whom Nārās are the resting place ) and Nārāṇām ayanam (the resting place of Nārās). The word Nārās is here determinate in meaning and denotes only the nārās (sentient beings and non-sentient things) and does not refer also to the Lord who is their inter self. Therefore the two words are not in grammatical apposition. Nammalvar distinctly showed the meanings of these two ways of combining the two parts of the word (samāsa) in the following two passages by using the word at the end and at the beginning respectively. "He who has, as His śeṣas," countless jīvas with knowledge and bliss as their attributes and with self-luminousness as their nature and also His own noble qualities--that Nārāyaṇa," and " Nārāyaṇa" is the Lord of all the seven worlds". In this are implicit (Bhagavān's) possessing the two kinds of attributes, namely, freedom from defects and possession of all auspicious and noble qualities and, likewise, His possession of the two vibhūtis (glories), namely Līlā Vibhūti (this (material) Universe) with all the sentient and nonsentient beings in it) and Nitya Vibhūti, (the transcendental region of eternal glory with all that it contains). It should be borne in mind that this nārās includes the queen, the ornaments, the weapons, the attendants, the furniture and the like, the door-keepers, the retinue and such others.
+
+Therefore the two words are not in grammatical apposition. Nammalvar distinctly showed the meanings of these two ways of combining the two parts of the word (samāsa) in the following two passages by using the word at the end and at the beginning respectively. "He who has, as His śeṣas," countless jīvas with knowledge and bliss as their attributes and with self-luminousness as their nature and also His own noble qualities--that Nārāyaṇa," and " Nārāyaṇa" is the Lord of all the seven worlds". In this are implicit (Bhagavān's) possessing the two kinds of attributes, namely, freedom from defects and possession of all auspicious and noble qualities and, likewise, His possession of the two vibhūtis (glories), namely Līlā Vibhūti (this (material) Universe) with all the sentient and nonsentient beings in it) and Nitya Vibhūti, (the transcendental region of eternal glory with all that it contains). It should be borne in mind that this nārās includes the queen, the ornaments, the weapons, the attendants, the furniture and the like, the door-keepers, the retinue and such others.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 

@@ -1,7 +1,7 @@
 +++
 title = "यदुगिरिः"
 +++
-## kaNThIrava narasarAja
+## 1709 kaNThIrava narasarAja
 15
 MYSORE DISTRICT. 
 MYSORE TALUK.
@@ -44,7 +44,7 @@ The sannad which is noticed here is the earliest of them and belongs to the reig
 
 The first sannad that refers to the Parakāla Maṭṭ belongs to the time of Hyder Ali and is dated in the year Chitrabhānu sam. Mārgaśira śu. 14 which probably corresponds to November 30, 1762 A.D. Next comes the sannad of the Bēlūr Chief, Krishnappa Nāyaka Ś 1696 Jaya sam. Phāl śu. 15 corresponding to 17th March 1775 A. D. It records the gift of a village to Rāmānuja Parakālasvāmi.
 
-## Tipu sultan
+## 1783 shyAmayya + Tipu sultan
 Source: [TW](https://archive.org/details/dli.ministry.09552/page/124/mode/1up)
 
 124
@@ -90,3 +90,17 @@ The Tenkalai school uses the following invocatory verse during the recita- tion 
 Śrīśailēśa-dayāpātram dhibhaktyādi-guṇārṇavam yatīndra-praṇavam vande Ramyajāmātaram munim. 
 
 This verse is said to have been miraculously revealed by God to the disciples of Maṇavāḷa-mahāmuni while they were engaged in the study of the Prabandhas under their guru.
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+anche shyamaNNa, a tenkalai of bhAradvAja gotra had already interfered.  
+vaDakalais complained, and got Tipu to order them to atleast be fair.
+
+parakAla-maTha lore - 
+
+- Issue was taken to tipus court by Parakala matha through the Rajamata.
+- Tks managed to get concession via shyamaNNa, who was nonetheless scolded for show.
+
+Later shyamaNNa was suspected of insurrection, and folks belonging to his bhAradvAja gotra were said to be massacred in melukoTe. (around 1783)  
+Later still, his native village was given over to parakAla maTha (around 1793).
+</details>
