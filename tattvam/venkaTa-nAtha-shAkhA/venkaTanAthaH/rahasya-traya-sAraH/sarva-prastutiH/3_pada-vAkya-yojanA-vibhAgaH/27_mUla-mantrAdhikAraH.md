@@ -14906,10 +14906,10 @@ and does not refer also to the Lord who is their inter self.
 
 <details><summary>Español</summary>
 
-La palabra compuesta nārāyaṇa puede dividirse en sus dos partes componentes así:  
+La palabra compuesta nārāyaṇa **puede dividirse** en sus dos partes componentes así:  
 
 > "Nārāh Ayanam Yasya"  
-(El que los nārās son el lugar de descanso) 
+(El que los nārās **son** el lugar de descanso) 
 
 y 
 
