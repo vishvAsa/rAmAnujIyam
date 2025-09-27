@@ -14772,15 +14772,264 @@ también **confiere** riqueza ".
 नारणऩ्ऱम्मऩ्ऩै - नारायणऩ् ऎऩ्ऱुबॆयरिट्ट पिळ्ळैयिऩ् तायार्, नरगम् पुगाळ् - नरगत्तै यडैयमाट्टाळ्। अडिक्कडि अवळ् तऩ् पिळ्ळैयै नारायणा ऎऩ्ऱु कूप्पिडुवदाल् नरगम् वारादॆऩ्ऱुगरुत्तु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नारदीय-कल्पत्तिलुम् 
+
+> ‘‘रोगापद्भय-दुःखेभ्यो  
+**मुच्यन्ते** नात्र संशयः ।  
+अपि नारायणेत्येतच्-  
+छब्द-मात्र-प्रलापिनः॥’’  
+(नारदीयम् १-३८) 
+
+ऎऩ्ऱुञ् जॊल्लप् पट्टदु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+नारदीय-कल्पे ऽपि, 
+
+> ‘‘रोगापद्भय-दुःखेभ्यो  
+**मुच्यन्ते** नात्र संशयः ।  
+अपि नारायणेत्येतच्-  
+छब्द-मात्र-प्रलापिनः॥’’  
+(नारदीयम् १-३८) 
+
+इत्य् अभ्यधायि । 
+</details>
+
+<details><summary>विषयः</summary>
+
+नारायणः, नाम-जपः
+</details>
+
+<details><summary>English</summary>
+
+In the Nāradīya kalpa it is said: 
+
+> " Even those who utter the mere word, Nārāyaṇa,  
+are relieved of their diseases, of their dangers, of their fears and of their sorrows.  
+There is no doubt of this." 
+</details>
+
+<details><summary>Español</summary>
+
+En el nāradīya kalpa **se dice**: 
+
+> "Incluso aquellos que **pronuncian** la mera palabra, nārāyaṇa,  
+**son aliviados** de sus enfermedades, de sus peligros, de sus miedos y de sus penas.  
+**No hay** duda de esto ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+नारदीयकल्पत्तिलुम् ‘‘रोगापद्भयदुःखेभ्यो मुच्यन्ते नात्रसंशयः । अपि नारायणेत्येतच्छब्दमात्रप्रलापिनः’’(नारदीयम् १-३८) ऎऩ्ऱुञ्जॊल्लप्पट्टदु।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नारदीयकल्पत्तिलुमिति । इङ्गुम् ‘‘एतच्छब्दमात्र’’ ऎऩ्बदाल् अर्थज्ञानम् व्यावर्तिक्कप्पडुगिऱदु। 
+</details>
+
+
+
+#### अष्टाक्षर-समता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इदु तऩ्ऩैये  
+स्वर-व्यञ्जन-भेदत्ताले ऎट्टु तिरुवक्षरम् आग भाविक्कत्  
+तिरु-मन्त्रत्तोड् ऒक्कुम्  
+
+ऎऩ्ऱु पुराणान्तरोक्तम्। +++(4)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अयम् एव स्वर-व्यञ्जन-भेदेनाष्टाक्षरत्वेन ध्यायमानः  
+श्रीमन्त्र-तुल्यो भवति
+
+इति पुराणान्तरोक्तम् ॥
+
+</details>
+
+
+<details><summary>English</summary>
+
+In another purāṇa  
+it is stated that if the number of vowels and consonants (in the word, Nārāyaṇa ) be taken separately into account,  
+it will (be seen to) resemble Tirumantra in having eight letters  
+and may be treated as such.
+</details>
+
+<details><summary>Español</summary>
+
+En otro purāṇa  
+**Se afirma** que si el número de vocales y consonantes (en la palabra, nārāyaṇa) **se toma** en cuenta por **separado**,  
+**Se verá** a Tirumantra en **tener** ocho letras  
+y **puede ser tratado** como tal.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु तऩ्ऩैये स्वरव्यञ्जनभेदत्ताले ऎट्टु तिरुवक्षरमाग भाविक्कत् तिरुमन्त्रत् तोडॊक्कुमॆऩ्ऱु पुराणान्तरोक्तम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> ‘‘कृष्णः कृष्णः कृष्ण इत्यन्तकाले  
+जल्पन् जन्तुर् जीवितं यो जहाति ।  
+आद्यश् शब्दः कल्पते तस्य मुक्त्यै  
+व्रीडा-नम्रौ तिष्ठतो ऽन्याव् ऋण-स्थौ॥’’+++(5)+++,  
+
+> ‘‘बद्धः परिकरस् तेन मोक्षाय गमनं प्रति ।  
+सकृद्-उच्चरितं येन हरिर् इत्य् अक्षर -द्वयम्॥’’
+
+ऎऩ्गिऱबडि इन्द प्रभावम् कृष्णहर्यादिशब्दङ्गळुक्कुम् इल्लयोवॆऩ्ऩ? नारायणशब्दत्तिऱ्कु अनितरसाधारणप्रभावत्तैक् काट्टुगिऱार् इदु तऩ्ऩैये इत्यादिना । इदु तऩ्ऩैये - इन्द नाऩ्गक्षरत्तैये, स्वरव्यञ्जनभेदत्ताले इति । स्वरमावदु अच्चुक्कळ्, व्यञ्जनमावदु हल्लुक्कळ्। इवैगळुडैय भेदत्ताले, अदावदु नकाराकाररेफाकारयकाराकारणकाराकारभेदत्ताले ऎऩ्गै।  
+
+</details>
+
+
+### नार-सम्बन्ध-निष्कर्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वरऩोडु पृथक्-सिद्धङ्गळ् अल्लाद नारङ्गळुक्कु  
+"नाराः अयनं यस्य" ऎऩ्ऱुम्  
+"नाराणाम् अयनं" ऎऩ्ऱुम् +++(ईश्वरान्)+++ निष्कर्ष-विवक्षैयाले  
++++(जीव-ब्रह्मणोर्)+++ वैयधिकरण्यम् उण्ड् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P289]]
+
+ईश्वरापृथक्-सिद्धानां नाराणाम्,  
+'नारा अयनं यस्य' इति,  
+'नाराणाम् अयनम्' इति च +++(जीव-ब्रह्मणोर्)+++ वैयधिकरण्यं   
++++(ईश्वरान्)+++ निष्कर्ष-विवक्षया जातम् । 
+</details>
+
+<details><summary>English</summary>
+
+The compound word Nārāyaṇa may be split up into its two component parts thus:  
+
+> "Nārāh ayanam yasya"  
+(He to whom Nārās are the resting place ) 
+
+and 
+
+> Nārāṇām ayanam  
+(the resting place of Nārās). 
+
+The word Nārās is here determinate in meaning  
+and denotes only the nārās (sentient beings and non-sentient things)  
+and does not refer also to the Lord who is their internal self.  
+Therefore the two words are not in grammatical apposition. 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra compuesta nārāyaṇa **puede dividirse** en sus dos partes componentes así:  
+
+> "Nārāh Ayanam Yasya"  
+(El que los nārās **son** el lugar de descanso) 
+
+y 
+
+> Nārāṇām ayanam  
+(El lugar de **descanso** de Nārās). 
+
+La palabra nārās **está** aquí **determinada** en significado  
+y **denota** solo los nārās (seres sensibles y cosas no sensibles)  
+y **no se refiere** también al Señor que **es** su yo interno.  
+Por lo tanto, las dos palabras **no están** en **aposición** gramatical.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩोडु पृथक्सिद्धङ्गळल्लाद नारङ्गळुक्कु नाराः अयनं यस्य ऎऩ्ऱुम् नाराणामयनं ऎऩ्ऱुम् निष्कर्षविवक्षैयाले वैयधिकरण्यमुण्डायिऱ्ऱु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इत् तिरुमन्त्रत्तिल् मकारङ्गळुम्, नारशब्दमुम् निष्कर्षविवक्षैयाले विशेषणमात्रपरङ्गळ् ऎऩ्ऱु कीऴ्च्चॊऩ्ऩ निष्कर्षविवक्षैयाले नारशब्दत्तिऱ्कुम् अयनशब्दत्तिऱ्कुम् वैयधिकरण्यमुण्डायिऱ्ऱॆऩ्गिऱार् ईश्वरऩोडु इत्यादियाल्। पृथक्सिद्धङ्गळल्लाद नारङ् गळुक्कु इति । नारङ्गळुक्कु - नारवाचकशब्दङ्गळुक्कु, अपृथक्सिद्धनारवाचियाऩ नारशब्दत् तिऱ्कु समानाधिकरणनिर्देशमे उसिदमायिरुक्क निष्कर्षविवक्षैयाले व्यधिकरणनिर्देशम् प्राप्तमा यिऱ्ऱॆऩ्ऱु करुत्तु।
+</details>
+
+#### शठकोपोक्ती
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इश् शब्दत्तुक्कु नम्म्-आऴ्वार्  
+
+> ऎण्+++(=गणना)+++-पॆरुक्क्+++(=वर्धयत्)+++ +++(ज्ञाननानन्दादि-)+++ अन्-नलत्तु+++(=गुण)+++  
+ऒण्+++(=उज्ज्वल)+++-पॊरुळ् +++(→जीव)+++ ईऱ्+++(=नाश)+++-इल  
+वण्+++(=उदार)+++-पुगऴ्+++(=कीर्ति)+++ नारणऩ्  
+(तिरुवाय्मॊऴि १-२-१०) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य शब्दस्य श्रीशठकोप-सूरिः, 
+
+> "संख्यातीत-तादृश-कल्याण-गुणक--  
+तेजः(स्वप्रकाश)-पदार्थ--नाश-रहित--  
+विलक्षण-गुण-नारायण[स्य]"
+
+इति, 
+</details>
+ 
+<details><summary>English</summary>
+
+Nammalvar,  
+in the following two passages  
+
+> "He who has, as His śeṣas,  
+countless jīvas with knowledge and bliss as their attributes  
+and with self-luminousness as their nature  
+and also His own noble qualities-- that Nārāyaṇa," 
+
+</details>
+
+<details><summary>Español</summary>
+
+Nammalvar,  
+En los **siguientes** dos pasajes  
+
+> "El que **tiene**, como su Śeṣas,   
+innumerables jīvas con **conocimiento** y felicidad como sus atributos  
+y con la **autocomisión** como su naturaleza  
+y también sus propias cualidades nobles, que nārāyaṇa ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इश् शब्दत्तुक्कु नम्माऴ्वार् ’’ऎण्बॆरुक्कन्नलत्तॊण् पॊरुळीऱिल वण् पुगऴ् नारणऩ्’’(तिरुवाय्मॊऴि १-२-१०) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप् पदत्तिल् नारा अयनं यस्य ऎऩ्गिऱ बहुव्रीहिसमासत्तिऩालुम्, नाराणां अयनं ऎऩ्गिऱ तत्पुरुषसमासत्तिऩालुम् किडैत्त अर्थङ्गळै नम्माऴ्वार् ऎण् पॆरुक्कन्नलत्तु इत्यादियाल् प्रकाशिप्पित्तारॆऩ्गिऱार् इश् शब्दत्तुक्कु इत्यादियाल्। ऎण् - सङ्ख्यै, पॆरुक्कु - आनन्त्यम्, सङ्ख्यैयिऩुडैय आनन्त्यत्तैयुडैत्ताऩ, असङ्ख्यातमाऩ ऎऩ्ऱबडि। अन्नलत्तु - तादृशज्ञानानन्दाश्रयमाऩ, ऒण्बॊरुळ् - स्वयम्प्रकाशमाऩ जीवऩ्गळै व्याप्यमागवुडैयवऩाय्, इदु असित्तिऱ्कुमुबलक्षणम्, ईऱिल - ऎल्लैयऱ्ऱ, वण् - उदारङ्गळाऩ, पुगऴ् – कल्याणगुणङ्गळै उडैयवऩुमाऩ, नारणऩ् - नारायणऩुडैय। इङ्गु नारणऩ् ऎऩ्ऱु नारायणऩैयॆडुत्तु अवऩ् ऎण्बॆरुक्कन् नलत्तॊण्बॊरुळै व्याप्यतया उडैयवऩ् ऎऩ्ऱाल् नारा अयनं यस्य ऎऩ्गिऱ बहुव्रीहिसमासार्थम् सॊऩ्ऩदागुमिऱे। इन्द अन्नलत्तॊण्बॊरुळ् ऎऩ्गिऱ पदत्तिऩ् अर्थम् ’’तात्पर्यरत्नावळि’’ यिल् ‘‘जगदयनतया’’ ऎऩ्गिऱ पदत्ताले काट्टप्पट्टदिऱे। 
+</details>
 
 
 
 
 
+distinctly showed the meanings  
+of these two ways of combining the two parts of the word (samāsa)  
 
-In the Nāradīya kalpa it is said: " Even those who utter the mere word, Nārāyaṇa, are relieved of their diseases, of their dangers, of their fears and of their sorrows. There is no doubt of this." In another purāṇa it is stated that if the number of vowels and consonants (in the word, Nārāyaṇa ) be taken separately into account, it will (be seen to) resemble Tirumantra in having eight letters and may be treated as such.
+by using the word at the end and at the beginning respectively. 
 
-The compound word Nārāyaṇa may be split up into its two component parts thus: Nārāh ayanam yasya (He to whom Nārās are the resting place ) and Nārāṇām ayanam (the resting place of Nārās). The word Nārās is here determinate in meaning and denotes only the nārās (sentient beings and non-sentient things) and does not refer also to the Lord who is their inter self. Therefore the two words are not in grammatical apposition. Nammalvar distinctly showed the meanings of these two ways of combining the two parts of the word (samāsa) in the following two passages by using the word at the end and at the beginning respectively. "He who has, as His śeṣas," countless jīvas with knowledge and bliss as their attributes and with self-luminousness as their nature and also His own noble qualities--that Nārāyaṇa," and " Nārāyaṇa" is the Lord of all the seven worlds". In this are implicit (Bhagavān's) possessing the two kinds of attributes, namely, freedom from defects and possession of all auspicious and noble qualities and, likewise, His possession of the two vibhūtis (glories), namely Līlā Vibhūti (this (material) Universe) with all the sentient and nonsentient beings in it) and Nitya Vibhūti, (the transcendental region of eternal glory with all that it contains). It should be borne in mind that this nārās includes the queen, the ornaments, the weapons, the attendants, the furniture and the like, the door-keepers, the retinue and such others.
+
+
+and 
+
+> "Nārāyaṇa is the Lord of all the seven worlds". 
+
+In this are implicit (Bhagavān's) possessing the two kinds of attributes, namely, freedom from defects and possession of all auspicious and noble qualities and, likewise, His possession of the two vibhūtis (glories), namely Līlā Vibhūti (this (material) Universe) with all the sentient and nonsentient beings in it) and Nitya Vibhūti, (the transcendental region of eternal glory with all that it contains). It should be borne in mind that this nārās includes the queen, the ornaments, the weapons, the attendants, the furniture and the like, the door-keepers, the retinue and such others.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
