@@ -696,7 +696,7 @@ perra Aśvati-nāḷ abhisheka-maṇḍapattu ViraVallāḷaṇ-simhasanattu Ari
 
 5. pinbum ivan niyamitta ivanudaiya Sishyargal paramparaiy=āga ivaiyirrai-kkaikkondu naḍatti-ppōdakkaḍavargal = āgavum [*] 
 
-# 
+
 
 2 This word is written below 'Svasti śri in slightly smaller characters. 
 
@@ -1900,19 +1900,14 @@ Iviii
 
 VIII 
 
+### 1809
 Letter dated the 13th day of Magha M.I. in the year Sukla (1809 A.D.), from Dewan Purniah, to Srinivasachar, Parupathegar of Sri Rāmānuja Parakālaswami's Mutt. 
 
-In your petition of the 7th instant you state that in all the Vishnu temples in this Province including that of Melukote, Vadagalay-Nāmās are borne, but for certain idols in the Swetavarahaswami's temple newly constructed and founded at the instance of Government, Tengale and Vadagalay Nāmās are both put on indiscriminately and that the cross stone beam of the Mahadwāra itself bears a Tengale Nāmā. You further mention therein that certain people have given this information. to the Swami and that from the very commencement, Vadagalay sampradaya or observance prevails in this Province, and you ask for information as to the orders which have been given. 
+In your petition of the 7th instant you state that in all the Vishnu temples in this Province including that of Melukote, Vadagalay-Nāmās are borne, but for certain idols in the Swetavarahaswami's temple newly constructed and founded at the instance of Government, Tengale and Vadagalay Nāmās are both put on indiscriminately and that the cross stone beam of the Mahadwāra itself bears a Tengale Nāmā. You further mention therein that certain people have given this information to the Swami and that from the very commencement, Vadagalay sampradaya or observance prevails in this Province, and you ask for information as to the orders which have been given. 
 
 According to the prevailing custom of putting the Vadagalay Nāmās on all the idols in all Vishnu temples in this Province, the Mahārāja of which is the principal disciple of the Srigalavaru's Mutt, Vadagalay Nāmās alone have been ordered to be put on and supplied to all the idols in Swetavarahaswami's temple as well as to its dhwajasthamba, vāhanās, silver vessels, peeta, prabhavali, etc. The stone beam which was on the doorway of the gopura in the old temple, was sent for and inspected. There was a mark of Tengalay Nāmā on the same. That has also been ordered to be changed. 
 
-Communicate all these particulars to the Swami and inform him that the Mahā Mātusriyavaru (Queen Mother) has expressed a wish that he (the Swami) may once go 
-
-- 
-
-lix 
-
-to the temple, visit the Sri Swethavarahaswamy and accept thirtham and prasāda there. Report the orders which the Swāmi may give in this matter. 
+Communicate all these particulars to the Swami and inform him that the Mahā Mātusriyavaru (Queen Mother) has expressed a wish that he (the Swami) may once go [[lix]] to the temple, visit the Sri Swethavarahaswamy and accept thirtham and prasāda there. Report the orders which the Swāmi may give in this matter. +++(4)+++
 
 IX 
 
