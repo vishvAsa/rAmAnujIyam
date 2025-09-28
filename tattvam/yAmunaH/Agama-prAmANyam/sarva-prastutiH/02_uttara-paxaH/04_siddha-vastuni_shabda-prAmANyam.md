@@ -493,7 +493,7 @@ it is more appropriate simply to accept the view that there is denotation of con
 
 <details><summary>Buitenen - Note</summary>
 
-[136]: ardhajarati is a half-old woman; the ardhajaraliyanyāya is used to indicate that the opponent wants to have it both ways and that consequently his argument, like a half-old and half-young woman, is useless either way.
+[136]: ardhajarati is a half-old woman; the ardhajaratīyanyāya is used to indicate that the opponent wants to have it both ways and that consequently his argument, like a half-old and half-young woman, is useless either way.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -864,11 +864,11 @@ even if understood in your way as bearing meaningfully only on a kārya to be ac
 does not by that token set forth a permanent kārya,140  
 since that would mean over-extension. 
 
-[139]: read na hi kriyakārye vyut pannaḥ sthāji karyam.
-
 </details>
 
 <details><summary>Buitenen - Note</summary>
+
+[139]: read na hi kriyakārye vyut pannaḥ sthāji karyam.
 
 [140]: sthāyi; the Prabhakara view is that the karya has a lasting efficacy beyond the inevitably transient action it involves; for the karya must remain in order to effect the fruit of the action at any time after the completion of the action. 
 </details>
@@ -1095,7 +1095,7 @@ Therefore the assertion that a language statement communicates as its proper mea
 
 <details><summary>Buitenen - Note</summary>
 
-[142]: This is the Pribhikara view, which holds that in the injunction nijaga seargakāmo yajeta the sadhya (object to be realized) is not sparge, but the entire niyoga (cf. Prakarapapañcika, p. 190), so that the statement of the injunction would become the means (sadhana) to realize that sadhya, sc. the injunction.  
+[142]: This is the prābhākara view, which holds that in the injunction nijaga seargakāmo yajeta the sadhya (object to be realized) is not sparge, but the entire niyoga (cf. prakaraṇapañcikā, p. 190), so that the statement of the injunction would become the means (sadhana) to realize that sadhya, sc. the injunction.  
 </details>
 
 <details><summary>मूलम्</summary>
