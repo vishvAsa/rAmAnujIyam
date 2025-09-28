@@ -14953,7 +14953,16 @@ Por lo tanto, las dos palabras **no están** en **aposición** gramatical.
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-इत् तिरुमन्त्रत्तिल् मकारङ्गळुम्, नारशब्दमुम् निष्कर्षविवक्षैयाले विशेषणमात्रपरङ्गळ् ऎऩ्ऱु कीऴ्च्चॊऩ्ऩ निष्कर्षविवक्षैयाले नारशब्दत्तिऱ्कुम् अयनशब्दत्तिऱ्कुम् वैयधिकरण्यमुण्डायिऱ्ऱॆऩ्गिऱार् ईश्वरऩोडु इत्यादियाल्। पृथक्सिद्धङ्गळल्लाद नारङ् गळुक्कु इति । नारङ्गळुक्कु - नारवाचकशब्दङ्गळुक्कु, अपृथक्सिद्धनारवाचियाऩ नारशब्दत् तिऱ्कु समानाधिकरणनिर्देशमे उसिदमायिरुक्क निष्कर्षविवक्षैयाले व्यधिकरणनिर्देशम् प्राप्तमा यिऱ्ऱॆऩ्ऱु करुत्तु।
+> इत् तिरुमन्त्रत्तिल् मकारङ्गळुम्,  
+नारशब्दमुम् निष्कर्षविवक्षैयाले विशेषणमात्र-परङ्गळ् 
+
+ऎऩ्ऱु कीऴ्च्चॊऩ्ऩ निष्कर्ष-विवक्षैयाले  
+नार-शब्दत्तिऱ्कुम् अयन-शब्दत्तिऱ्कुम् वैयधिकरण्यम् उण्ड् आय् इऱ्ऱ् ऎऩ्गिऱार् ईश्वरऩोडु इत्यादियाल्। 
+
+पृथक्सिद्धङ्गळल्लाद नारङ्गळुक्कु इति ।  
+नारङ्गळुक्कु - नार-वाचक-शब्दङ्गळुक्कु,  
+अ-पृथक्-सिद्ध-नार-वाचिय् आऩ नार-शब्दत्तिऱ्कु समानाधिकरण-निर्देशमे उचितम् आयिरुक्क  
+निष्कर्षविवक्षैयाले व्यधिकरणनिर्देशम् प्राप्तमायिऱ्ऱ् ऎऩ्ऱु करुत्तु।
 </details>
 
 #### शठकोपोक्ती
@@ -14977,7 +14986,7 @@ Por lo tanto, las dos palabras **no están** en **aposición** gramatical.
 तेजः(स्वप्रकाश)-पदार्थ--नाश-रहित--  
 विलक्षण-गुण-नारायण[स्य]"
 
-इति, 
+इति +++(नारा अयनं यस्येति सूचिका)+++, 
 </details>
  
 <details><summary>English</summary>
@@ -15011,38 +15020,142 @@ y también sus propias cualidades nobles, que nārāyaṇa ",
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-इप् पदत्तिल् नारा अयनं यस्य ऎऩ्गिऱ बहुव्रीहिसमासत्तिऩालुम्, नाराणां अयनं ऎऩ्गिऱ तत्पुरुषसमासत्तिऩालुम् किडैत्त अर्थङ्गळै नम्माऴ्वार् ऎण् पॆरुक्कन्नलत्तु इत्यादियाल् प्रकाशिप्पित्तारॆऩ्गिऱार् इश् शब्दत्तुक्कु इत्यादियाल्। ऎण् - सङ्ख्यै, पॆरुक्कु - आनन्त्यम्, सङ्ख्यैयिऩुडैय आनन्त्यत्तैयुडैत्ताऩ, असङ्ख्यातमाऩ ऎऩ्ऱबडि। अन्नलत्तु - तादृशज्ञानानन्दाश्रयमाऩ, ऒण्बॊरुळ् - स्वयम्प्रकाशमाऩ जीवऩ्गळै व्याप्यमागवुडैयवऩाय्, इदु असित्तिऱ्कुमुबलक्षणम्, ईऱिल - ऎल्लैयऱ्ऱ, वण् - उदारङ्गळाऩ, पुगऴ् – कल्याणगुणङ्गळै उडैयवऩुमाऩ, नारणऩ् - नारायणऩुडैय। इङ्गु नारणऩ् ऎऩ्ऱु नारायणऩैयॆडुत्तु अवऩ् ऎण्बॆरुक्कन् नलत्तॊण्बॊरुळै व्याप्यतया उडैयवऩ् ऎऩ्ऱाल् नारा अयनं यस्य ऎऩ्गिऱ बहुव्रीहिसमासार्थम् सॊऩ्ऩदागुमिऱे। इन्द अन्नलत्तॊण्बॊरुळ् ऎऩ्गिऱ पदत्तिऩ् अर्थम् ’’तात्पर्यरत्नावळि’’ यिल् ‘‘जगदयनतया’’ ऎऩ्गिऱ पदत्ताले काट्टप्पट्टदिऱे। 
+इप् पदत्तिल् नारा अयनं यस्य ऎऩ्गिऱ बहुव्रीहिसमासत्तिऩालुम्, नाराणां अयनं ऎऩ्गिऱ तत्पुरुषसमासत्तिऩालुम् किडैत्त अर्थङ्गळै नम्माऴ्वार् ऎण् पॆरुक्कन्नलत्तु इत्यादियाल् प्रकाशिप्पित्तारॆऩ्गिऱार् इश् शब्दत्तुक्कु इत्यादियाल्। ऎण् - सङ्ख्यै, पॆरुक्कु - आनन्त्यम्, सङ्ख्यैयिऩुडैय आनन्त्यत्तैयुडैत्ताऩ, असङ्ख्यातमाऩ ऎऩ्ऱबडि। अन्नलत्तु - तादृशज्ञानानन्दाश्रयमाऩ, ऒण्बॊरुळ् - स्वयम्प्रकाशमाऩ जीवऩ्गळै व्याप्यमागवुडैयवऩाय्, इदु असित्तिऱ्कुमुबलक्षणम्, ईऱिल - ऎल्लैयऱ्ऱ, वण् - उदारङ्गळाऩ, पुगऴ् – कल्याणगुणङ्गळै उडैयवऩुमाऩ, नारणऩ् - नारायणऩुडैय।  
+
+इङ्गु **नारणऩ्** ऎऩ्ऱु नारायणऩैय् ऎडुत्तु  
+अवऩ् **ऎण्-बॆरुक्कन् नलत्त्-ऒण्-बॊरुळै** व्याप्यतया+++(←"अन्तर्-व्याप्तिः" - विशिष्ट-सान्निध्यम् भजमानोऽपि व्यापको भगवान्??)+++ उडैयवऩ् ऎऩ्ऱाल्  
+"नारा अयनं यस्य" ऎऩ्गिऱ बहुव्रीहिसमासार्थं सॊऩ्ऩद् आगुम् इऱे।  
+
+इन्द अन्नलत्तॊण्बॊरुळ् ऎऩ्गिऱ पदत्तिऩ् अर्थम् ’’तात्पर्यरत्नावळि’’यिल् ‘‘जगदयनतया’’ ऎऩ्गिऱ पदत्ताले काट्टप्पट्टदिऱे। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-’’नारणऩ् मुऴुवेऴुलगुक्कुनादऩ्’’(तिरुवाय्मॊऴि २-७-२) ऎऩ्ऱुम् पूर्वापरङ्गळिले समासद्वयत्तिलर्थत्तै प्रदर्शिप्पित्तार्।
+> ’’नारणऩ् मुऴुव्+++(=पूर्ण)+++ एऴ् उलगुक्कु नाथऩ्’’  
+(तिरुवाय्मॊऴि २-७-२) 
+
+ऎऩ्ऱुम् +++("नाराणाम् अयनम्" इति)+++ 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
-’’नारणऩ् मुऴुवेऴुलगुक्कुनादऩ्’’(तिरुवाय्मॊऴि २-७-२) ऎऩ्ऱुम् पूर्वापरङ्गळिले समासद्वयत्तिलर्थत्तै प्रदर्शिप्पित्तार्।
+> "नारायणः कृत्स्न-सप्त-लोकी-नाथः”
+
+इति च
 </details>
 
-
-
-
-distinctly showed the meanings  
-of these two ways of combining the two parts of the word (samāsa)  
-
-by using the word at the end and at the beginning respectively. 
-
-
+<details><summary>English</summary>
 
 and 
 
 > "Nārāyaṇa is the Lord of all the seven worlds". 
+</details>
 
-In this are implicit (Bhagavān's) possessing the two kinds of attributes, namely, freedom from defects and possession of all auspicious and noble qualities and, likewise, His possession of the two vibhūtis (glories), namely Līlā Vibhūti (this (material) Universe) with all the sentient and nonsentient beings in it) and Nitya Vibhūti, (the transcendental region of eternal glory with all that it contains). It should be borne in mind that this nārās includes the queen, the ornaments, the weapons, the attendants, the furniture and the like, the door-keepers, the retinue and such others.
+<details><summary>Español</summary>
+
+y 
+
+> "Nārāyaṇa **es** el señor de los siete mundos".
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’नारणऩ् मुऴुवेऴुलगुक्कुनादऩ्’’(तिरुवाय्मॊऴि २-७-२) ऎऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++("नारण"-स्थान-)+++पूर्वापरङ्गळिले  
+समास-द्वयत्तिल् अर्थत्तै प्रदर्शिप्पित्तार्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++("नारण"-स्थान-)+++पूर्वापरयोः  
+समास-द्वयार्थं प्रदर्शयाम् आस । 
+</details>
+
+<details><summary>English</summary>
+
+\- distinctly showed the meanings  
+of these two ways of combining the two parts of the word (samāsa)  
+by using the word at the end and at the beginning respectively. 
+</details>
+
+<details><summary>Español</summary>
+
+\- **mostró** claramente los significados  
+de estas dos formas de **combinar** las dos partes de la palabra (samāsa)  
+**usando** la palabra al final y al principio respectivamente.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पूर्वापरङ्गळिले समासद्वयत्तिलर्थत्तै प्रदर्शिप्पित्तार्।
+</details>
+
+#### गुण-विभूति-योगः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिले  
+हेय-प्रत्यनीकत्व-- कल्याणैक-तानत्व-रूपम् आऩ उभय-लिङ्गत्वमुम्,  
+उभय-विभूति-योगमुम् गर्भितम्। 
+</details>
+
+<details><summary>English</summary>
+
+In this are implicit  
+(Bhagavān's) possessing the two kinds of attributes,  
+namely, freedom from defects  
+and possession of all auspicious and noble qualities  
+and, likewise, His possession of the two vibhūtis (glories),  
+namely Līlā Vibhūti (this (material) Universe with all the sentient and nonsentient beings in it) and Nitya Vibhūti, (the transcendental region of eternal glory with all that it contains). 
+</details>
+
+<details><summary>Español</summary>
+
+En esto **están implícitos**  
+(Bhagavān's) **poseer** los dos tipos de atributos,  
+a **saber**, **libertad** de defectos  
+y **posesión** de todas las cualidades auspiciosas y nobles  
+y, del mismo modo, su **posesión** de los dos vibhūtis (glorias),  
+a **saber**, līlā vibhūti (este universo (material) con todos los seres sensibles y no inferiores) y nitya vibhūti, (la región trascendental de la gloria eterna con todo lo que **contiene**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदिले हेयप्रत्यनीकत्वकल्याणैकतानत्वरूपमाऩ उभयलिङ्गत्वमुमुभयविभूतियोगमुम् गर्भितम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देवी-भूषणायुध -परिजन-परिच्छद- द्वारपाल-पार्षदादि भेदङ्गळुम्  
+इङ्गे अनुसन्धेयङ्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+It should be borne in mind that this nārās includes the queen, the ornaments, the weapons, the attendants, the furniture and the like, the door-keepers, the retinue and such others.
+</details>
+
+<details><summary>Español</summary>
+
+Debe **tenerse** en cuenta que este nārās **incluye** a la reina, los adornos, las armas, los asistentes, los muebles y similares, los guardianes, el séquito y otros.
+</details>
+
+<details><summary>मूलम्</summary>
+
+देवीभूषणायुध परिजन परिच्छद द्वारपाल पार्षदादि भेदङ्गळुमिङ्गे अनुसन्धेयङ्गळ्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-॥ कारणत्वमबाध्यत्वमुपायत्वमुपेयता । इति शारीरकस्थाप्यमिह चापि व्यवस्थितम् ॥
+> ॥ कारणत्वम् अबाध्यत्वम्  
+उपायत्वम् उपेयता ।  
+इति शारीरक-**स्थाप्यम्**  
+इह चापि **व्यवस्थितम्** ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -15050,7 +15163,7 @@ In this are implicit (Bhagavān's) possessing the two kinds of attributes, namel
 ॥ कारणत्वमबाध्यत्वमुपायत्वमुपेयता । इति शारीरकस्थाप्यमिह चापि व्यवस्थितम् ॥
 </details>
 
-In the word Nārāyaṇa, are contained all the attributes (of Brahman) which are established in the four chapters) of the Sarīraka Śāstra:(Brahma sūtras), namely, His being the cause of the Universe, the irrefutability of the proposition that He is the cause, His being the upāya for the attainment of mukti and His being the object of attainment (in mukti). All this has been explained by Bhattar in His Nitya in the words beginning with "Knowledge, bliss, purity and the like.”
+In the word Nārāyaṇa, are contained all the attributes (of Brahman) which are established in (the four chapters) of the Sarīraka Śāstra:(Brahma sūtras), namely, His being the cause of the Universe, the irrefutability of the proposition that He is the cause, His being the upāya for the attainment of mukti and His being the object of attainment (in mukti). All this has been explained by Bhattar in His Nitya in the words beginning with "Knowledge, bliss, purity and the like.”
 
 THE MEANING OF NĀRĀS:
 
