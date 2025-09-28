@@ -66,12 +66,14 @@ REFUTATION. This is a worthless remark; no experts in the Veda dispute that the 
 
 <details><summary>Buitenen</summary>
 
-For He is revealed in the upaniṣads as the Supreme Soul: "Truth, knowledge, infinite; that is the supreme step of Viṣṇu. Vāsudeva is the ultimate matter, the ultimate spirit".161  
+For He is revealed in the upaniṣads as the Supreme Soul: "Truth, knowledge, infinite; that is the supreme step of Viṣṇu. Vāsudeva is the ultimate matter, the ultimate spirit".162  
 </details>
 
 <details><summary>Buitenen - Note</summary>
 
-161: Partial quotations from Taitt Up. 2\.1\.1, Muṇḍ Up. and an unidentified source.  
+[162]: Partial quotations from Taitt Up. 2.1.1, Mund Up. and an unidentified source.
+
+[162a]: Nrsimhapurvatapani Up. 2.4 (which reads purastad for parastad) and Svet Up. 3.9.  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -253,9 +255,9 @@ That He is the Supreme Brahman is also learnt elsewhere.
 
 <details><summary>Buitenen</summary>
 
-> "Kesava, O best of the Bhāratas, the Blessed One, is the sovereign, the supreme soul, the entire universe: thus it stands revealed in many places of the Scripture."164 
+> "Kesava, O best of the Bhāratas, the Blessed One, is the sovereign, the supreme soul, the entire universe: thus it stands revealed in many places of the Scripture."163 
 
-164: not identified.  
+[163]: not identified.  
 </details>
 
 
@@ -279,7 +281,9 @@ That He is the Supreme Brahman is also learnt elsewhere.
 
 <details><summary>Buitenen</summary>
 
-> For those who seek to know the supreme principle by means of many-sided reasonings Hari alone is the Principle, the great Yogin, Nārāyaṇa the Lord.165 
+> For those who seek to know the supreme principle by means of many-sided reasonings Hari alone is the Principle, the great Yogin, Nārāyaṇa the Lord.164 
+
+[164]: not identified.
 </details>
 
 <details><summary>Buitenen - Note</summary>
@@ -352,9 +356,9 @@ Likewise in the Dānadharma,
 
 <details><summary>Buitenen</summary>
 
-Thus Rudra's word.166 Similarly, in the Mahābhārata and Matsya Purāṇa, 
+Thus Rudra's word.165 Similarly, in the Mahābhārata and Matsya Purāṇa, 
 
-166: Viṣṇu Pur., 1\.1\.31\.  
+[165]: Could this refer to Varaha Purana? Cf. infra.  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -484,7 +488,9 @@ from Him Rudra and from Him all the world."
 Likewise Parāśara's word, 
 
 > The world has originated from Viṣṇu and on Him it rests.  
-He is the maker of its subsistence and its destruction."
+He is the maker of its subsistence and its destruction."166
+
+[166]: Visnu Pur., 1.1.31.
 </details>
 
 
@@ -507,11 +513,11 @@ He is the maker of its subsistence and its destruction."
 
 <details><summary>Buitenen</summary>
 
-167 Likewise in the Mānavadharmaśāstra,168  
+Likewise in the Mānavadharmaśāstra,167 
 
 "Nārāyaṇa is higher than the unmanifest; the World-Egg originates from the unmanifest. Within the Egg are all these worlds as well as the earth with her seven continents." 
 
-167: Not in {{Manusmrti|Manusmṛti}}.  
+[167]: Not in Manusmrti.
 </details>
 
 
@@ -554,10 +560,15 @@ Therefore, the study of these and similar śrutis, smṛtis, epical texts and Pu
 
 <details><summary>Buitenen</summary>
 
-80\. Nor do the śrutis declare that Rudra is the Supreme Soul, or that any other deity is. On the contrary, the followers of the Ekāyana śākhā 169 say that he has an origin,  
-
-168: A little known Vedic branch (if it was a Vedic tradition), from which certain Vaiṣṇava sects derive their authority; cf. infra §138\.  
+80\. Nor do the śrutis declare that Rudra is the Supreme Soul, or that any other deity is. On the contrary, the followers of the Ekāyana śākhā 168 say that he has an origin,  
 </details>
+
+
+<details><summary>Buitenen - Notes</summary>
+
+[168]: A little known Vedic branch (if it was a Vedic tradition), from which certain Vaisnava sects derive their authority; cf. infra §138.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -649,10 +660,10 @@ Similarly, Rudra's position is clearly known to be a result of his karman: "He o
 
 <details><summary>Buitenen</summary>
 
-"From the forehead sprang a drop; from that Rudra was born,"170  
+"From the forehead sprang a drop; from that Rudra was born,"169  
 These and other śrutis declare that Rudra was born. 
 
-170: BĀ Up 4\.1\.5\.  
+[169]: These quotations could not be identified.
 </details>
 
 
@@ -674,9 +685,11 @@ These and other śrutis declare that Rudra was born.
 
 <details><summary>Buitenen</summary>
 
-This being so, the statements that in appearance convey the greatness of Rudra and others really serve as laudatory statements, like the śruti: "the ear is brahman."
+This being so, the statements that in appearance convey the greatness of Rudra and others really serve as laudatory statements, like the śruti: "the ear is brahman."170
 
 [[67]]
+
+[170]: BA Up 4.1.5.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -753,7 +766,7 @@ we say that Viṣṇu is stated to be the Supreme One in the texts of the Way of
 
 For example in the Viṣṇu Purāṇa, "The Supreme Soul, the Basis of all creatures, the Supreme Lord is called by the name of Viṣṇu in Vedas and Upaniṣads."171 
 
-171: Viṣṇu Pur. 6\.4\.40\.  
+[171]: Visnu Pur. 6.4.40.
 </details>
 
 
@@ -779,7 +792,7 @@ For example in the Viṣṇu Purāṇa, "The Supreme Soul, the Basis of all crea
 
 In the Varāha Purāṇa, "The Supreme Brahman is Viṣṇu; the triple division in the pathways of the Vedic doctrine is here set forth; the ignorant do not know this."172 
 
-172: cf. Varāha Pur., 72\.4, which reads pūjyate in b.  
+[172]: cf. Varaha Pur., 72.4, which reads padrate in b. 
 </details>
 
 
@@ -804,12 +817,12 @@ In the Varāha Purāṇa, "The Supreme Brahman is Viṣṇu; the triple division
 
 <details><summary>Buitenen</summary>
 
-"There has been no god greater than Nārāyaṇa, nor shall there be; this is the secret doctrine of Vedas and Purāṇas, O excellent ones."173 
+"There has been no god greater than Nārāyaṇa, nor shall there be;173 this is the secret doctrine of Vedas and Purāṇas, O excellent ones." 
 </details>
 
 <details><summary>Buitenen - Note</summary>
 
-173: cf. Varāha Pur. 70\.26 na tasmāt parato devo bhavitā na bhaviṣyati. It is clear from several quotations from this Purāṇa that Yāmuna's text had different readings, not all of them better.  
+[173]: cf. Varaha Pur. 7026 na tasmat parato devo bhavita na bhavisyati. It is clear from several quotations from this Purana that Yamuna's text had different readings, not all of them better.
 </details>
 
 
