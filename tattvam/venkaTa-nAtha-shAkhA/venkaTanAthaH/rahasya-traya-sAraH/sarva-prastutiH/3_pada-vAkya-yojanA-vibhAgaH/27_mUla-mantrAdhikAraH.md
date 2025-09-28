@@ -15063,6 +15063,12 @@ y
 ’’नारणऩ् मुऴुवेऴुलगुक्कुनादऩ्’’(तिरुवाय्मॊऴि २-७-२) ऎऩ्ऱुम् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नारणऩिदि । नारणऩ् - नारायणऩ्, मुऴु - कृत्स्नमाऩ, एऴुलगुक्कुम् - सप्तलोकङ्गळुक्कुम्, इदु नारशब्दार्थमाऩ उभयविभूतिक्कुमुबलक्षणम्। नादऩ् - स्वामी, इदऩाल् नारायण-शब्दत्तिऩुडैय नाराणामयनमॆऩ्गिऱ तत्पुरुषसमाार्थम् सॊल्लप्पट्टदु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++("नारण"-स्थान-)+++पूर्वापरङ्गळिले  
@@ -15094,13 +15100,27 @@ de estas dos formas de **combinar** las dos partes de la palabra (samāsa)
 पूर्वापरङ्गळिले समासद्वयत्तिलर्थत्तै प्रदर्शिप्पित्तार्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पूर्वापरङ्गळिले - पूर्वशतकत्तिलुम् द्वितीयशतकत्तिलुम्। नमस्सिले तोऱ्ऱिऩ वशीकार्यत्वत्तिऱ्कु उपयुक्तमायुम्, अकारत्तिल् तोऱ्ऱिऩ रक्षकत्वत्तिऱ्कु उपयुक्तमायुमुळ्ळ हेयप्रत्यनीकत्वकल्याणैकतानत्वरूपोभयलिङ्गमुम्, चतुर्थियिल्दोऱ्ऱिऩ प्राप्यत्वत्तिऱ्कु उपयुक्तमाऩ उभयविभूतियोगमुम् इन्द नारायणशब्दत्तिल् अन्तर्भूतमॆऩ्गिऱार् इदिले इत्यादियाल्। 
+</details>
+
+
 #### गुण-विभूति-योगः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदिले  
-हेय-प्रत्यनीकत्व-- कल्याणैक-तानत्व-रूपम् आऩ उभय-लिङ्गत्वमुम्,  
-उभय-विभूति-योगमुम् गर्भितम्। 
++++(बहुव्रीहौ)+++ हेय-प्रत्यनीकत्व-- कल्याणैक-तानत्व-रूपम् आऩ उभय-लिङ्गत्वमुम्,  
++++(तत्पुरुषे)+++ उभय-विभूति-योगमुम् गर्भितम्। 
 </details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र +++(बहुव्रीहौ)+++ हेय-प्रत्यनीकत्व-कल्याणैकतानत्व-रूपम् उभय-लिङ्गत्वम्  
++++(तत्पुरुषे)+++ उभय-विभूति-योगश् च गर्भितम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -15127,12 +15147,25 @@ a **saber**, līlā vibhūti (este universo (material) con todos los seres sensi
 इदिले हेयप्रत्यनीकत्वकल्याणैकतानत्वरूपमाऩ उभयलिङ्गत्वमुमुभयविभूतियोगमुम् गर्भितम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदिले - नारायणशब्दत्तिले।  
+इदिल् बहुव्रीहिसमासत्तै विवक्षित्ताल् उभयविभूतियोगम् शाब्दमाय् उभयलिङ्गत्वम् आर्थमाम्।  
+तत्पुरुषसमासत्तै विवक्षित्ताल् इरण्डुम् शाब्दमामॆऩ्ऱु करुत्तु।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवी-भूषणायुध -परिजन-परिच्छद- द्वारपाल-पार्षदादि भेदङ्गळुम्  
 इङ्गे अनुसन्धेयङ्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+देवी-भूषणायुध-परिजन-परिच्छद-द्वारपाल-पार्षदादि-भेदा अप्य् अत्रानुसन्धेयाः ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -15149,13 +15182,48 @@ Debe **tenerse** en cuenta que este nārās **incluye** a la reina, los adornos,
 देवीभूषणायुध परिजन परिच्छद द्वारपाल पार्षदादि भेदङ्गळुमिङ्गे अनुसन्धेयङ्गळ्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नारायणशब्दत्तिल् नाराणामयनमॆऩ्गिऱ विग्रहवाक्यत्तिल् घटकमाऩ बहुवचनत्ताले विवक्षितमाऩ नारभेदङ्गळैक्काट्टुगिऱार् देवीभूषणेत्यादियाल्। देविकळ् - श्रीभूमि-नीळादिगळ्; भूषणङ्गळ् - किरीटमकुटहारकेयूरादिगळ्; आयुधङ्गळ्- शङ्खचक्रादिगळ्; परिजनङ्गळ्- कैङ्कर्यैकरसर्गळाऩ अनन्तगरुडादिगळ्; परिच्छदङ्गळ्- छत्रचामरादिगळ्; द्वारपालर्- चण्डादिगळ्; पार्षदर्- कुमुदादिगळ्; आदिपदत्ताले भोगोपकरणङ्गळुक्कु ग्रहणम्। 
+
+इङ्गे – नारायणशब्दत्तिल्,
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-> ॥ कारणत्वम् अबाध्यत्वम्  
-उपायत्वम् उपेयता ।  
-इति शारीरक-**स्थाप्यम्**  
-इह चापि **व्यवस्थितम्** ॥
+> ॥+++("नार"→)+++ कारणत्वम् +++("न रिष्यतय् इति न-रः" → कारणत्वे→)+++ अ-बाध्यत्वम्  
++++(करणे "अयन"→)+++ उपायत्वम् +++(कर्मण्य् "अयन"→)+++ उपेयता ।  
+इति +++(क्रमशो ऽध्यायेषु)+++ शारीरक-**स्थाप्यम्**  
+इह +++("नारायणे")+++ चापि **व्यवस्थितम्** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ॥+++("नार"→)+++ कारणत्वम् +++("न रिष्यतय् इति न-रः" → कारणत्वे→)+++ अ-बाध्यत्वम्  
++++(करणे "अयन"→)+++ उपायत्वम् +++(कर्मण्य् "अयन"→)+++ उपेयता ।  
+इति +++(क्रमशो ऽध्यायेषु)+++ शारीरक-**स्थाप्यम्**  
+इह +++("नारायणे")+++ चापि **व्यवस्थितम्** ॥
+</details>
+
+<details><summary>English</summary>
+
+In the word Nārāyaṇa, are contained all the attributes (of Brahman)  
+which are established in (the four chapters) of the Sarīraka Śāstra (Brahma sūtras),  
+namely, His being the cause of the Universe,  
+the irrefutability of the proposition that He is the cause,  
+His being the upāya for the attainment of mukti  
+and His being the object of attainment (in mukti). 
+</details>
+
+<details><summary>Español</summary>
+
+En la palabra nārāyaṇa, **se contienen** todos los atributos (de Brahman)  
+que **se establecen** en (los cuatro capítulos) del Sarīraka Śāstra (Brahma Sūtras),  
+a saber, su causa del universo  
+la **irrefutabilidad** de la **proposición** de que él es la causa,  
+Su **ser** el upāya para el logro de mukti  
+y su **ser** el objeto de logro (en Mukti).
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -15163,11 +15231,261 @@ Debe **tenerse** en cuenta que este nārās **incluye** a la reina, los adornos,
 ॥ कारणत्वमबाध्यत्वमुपायत्वमुपेयता । इति शारीरकस्थाप्यमिह चापि व्यवस्थितम् ॥
 </details>
 
-In the word Nārāyaṇa, are contained all the attributes (of Brahman) which are established in (the four chapters) of the Sarīraka Śāstra:(Brahma sūtras), namely, His being the cause of the Universe, the irrefutability of the proposition that He is the cause, His being the upāya for the attainment of mukti and His being the object of attainment (in mukti). All this has been explained by Bhattar in His Nitya in the words beginning with "Knowledge, bliss, purity and the like.”
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शारीरकत्तिल् सॊऩ्ऩ कारणत्वाद्यर्थचतुष्टयमुम् इन्द नारायणपदत्तिले सङ्ग्रहमागच् चॊल्लप्पट्टदॆऩ्गिऱार् कारणत्वमित्यादियाल्।  
+कारणत्वं - प्रथमाध्यायत्तिल् सॊऩ्ऩ निखिलजगदेककारणत्वमुम्, अबाध्यत्वं - द्वितीयाध्यायत्तिल् सॊऩ्ऩ अन्द कारणत्वत्तिऩ् बाह्यकुदृष्टिमतङ्गळाल् बाधिक्कमुडियामैयुम्, उपायत्वं – तृतीयाध्यायत्तिऱ्सॊऩ्ऩ मोक्षोपायत्वमुम्, उपेयता – चतुर्थाध्यायत्तिऱ्सॊऩ्ऩ प्राप्यत्वमुम्, इति शारीरकस्थाप्यं - ऎऩ्ऱु इप्पडि शारीरकस्थाप्यमाऩ अर्थम्, इह चापि - इन्द नारायणशब्दत्तिलेयुम्, व्यवस्थितं – स्थितमॆऩ्गै।  
+नराज्जातानि तत्त्वानि ऎऩ्बदाल्  
+नार-शब्द-वाच्य-जगत्-कारणत्वम् सॊल्लप्पट्टदु;  
+क्षय-निषेध-वाचकम् आऩ नर-शब्दत्ताले  
+अ-बाध्यत्वम् सूचितमायिऱ्ऱु।  
+अयन-शब्दत्तिल् करण-व्युत्पत्तियाल् उपायत्वमुम्, कर्मव्युत्पत्तियाल् उपेयत्वमुम् सिद्धमॆऩ्ऱु तिरुवुळ्ळम्। +++(5)+++
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इद् ऎल्लाम् 
+
+> ‘‘ज्ञानानन्दामलत्वादि’’  
+(नित्यम्) 
+
+ऎऩ्ऱु तुडङ्गि  
+भट्टर् नित्यत्तिले प्रतिपादितम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं सर्वं 
+
+> ‘‘ज्ञानानन्दामलत्वादि’’  
+(नित्यम्) 
+
+इत्य्-आरभ्य भट्टार्याणां नित्ये प्रतिपादितम् ॥
+</details>
+
+<details><summary>English</summary>
+
+All this has been explained by Bhattar in His Nitya  
+in the words beginning with 
+
+> "Knowledge, bliss, purity and the like.”
+</details>
+
+<details><summary>Español</summary>
+
+Todo esto **ha sido explicado** por Bhattar en su nitya  
+En las palabras que **comienzan** con 
+
+> "**Conocimiento**, dicha, pureza y similares".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदॆल्लाम् ‘‘ज्ञानानन्दामलत्वादि’’(नित्यम्) ऎऩ्ऱु तुडङ्गि भट्टर् नित्यत्तिले प्रतिपादितम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इव्व्-अर्थम् ऎल्लाम्  
+भट्टर् नित्यत्तिल् नारायण-शब्दार्थम् आगच् चॊल्लप्-पट्टद् ऎऩ्गिऱार्  
+इदॆल्लाम् ‘‘ज्ञानानन्दामलत्वादि’’ ऎऩ्ऱु तुडङ्गि इत्यादियाल्। 
+</details>
+
+
+### नाराः
+<details><summary>English</summary>
 
 THE MEANING OF NĀRĀS:
+</details>
 
-"I created the waters, which are called nārās, and lay within them. Therefore am I called Nārāyaṇa." "The waters are called Nārās because they were born of Nara (i. e. Bhagavān). They were at first His abode. Therefore is He called Nārāyaṇa." In these two ślokas, the waters refer by implication (Upalakṣaṇa) to the other sattvas (reals) as well. This is evident from such passages as the following :- "The sattvas or reals had all their origin from Nara. Therefore are they known as Nāras. To Him they are the abode, therefore is He considered to be Nārāyaṇa." In this interpretation of the word as a grammatical compound Bahuvrihi samāsa ( Nārah ayanan yasya), it is stated that the tattvas had their origin from Nara and are therefore called nāras. From this it follows that, as stated in Mahopanishad and elsewhere, Nārāyaṇa is the cause of all (things and beings ) including Brahma and Isana ( Siva) in every way (i. e. the material cause and the instrumental cause). The word ayana (resting place ) is derived in this way:-‘I yate iti' ayanam. That which is pervaded is ayana (the passive voice being used for deriving the word). This declares that He pervades all, as they are all pervaded by him and that in order that He may do so, He has unparallelled subtleness (sukṣmatva). Ayana may be derived also in another way: Iyate asmin iti : (That in which it is), in which case it would mean that in which everything rests. The word Nārāyaṇa may be considered also as a compound of the tatpurusha type (tatpurusha samāsa), in which case it would be split into Narāṇam and. ayanaın (the abode of Nārās ). It is true that the compound word should then be in the neuter gender Nārāyaṇam, but by the authority of nirukti, the masculine form Nārāyaṇah is not improper. The pramāṇas are the following :-"He is also called Nārāyaṇa, for He is the resting place or abode of Narās". "The multitude of all jīvas is called Nārās. Since Bhagavān is to be attained by them and is also the upāya for attaining Him, He is called Nara yana". "Nāra is so called because it means the multitude of jīvas which are indicated by the word nara. I am the goal to be attained by them; I am also the upāya for that attainment. Therefore am I called Nārāyaṇa by the seers." "The wise call the multitude of jīvas by the name Nāra. He is called Nārāyaṇa because He is their ayana (abode or resting place). Therefore those who are thoroughly conversant with the Vedas and the Vedānta declare Him to be the kinsman, the mother, the father, the guru and the abode or resting place."
+<details><summary>Español</summary>
+
+El significado de nārās:
+</details>
+
+#### आपः, तत्त्वानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिल्  
+
+> ‘‘सृष्ट्वा नारं तोयम् अन्तस् स्थितोऽहं  
+येन स्यान् मे नाम नारायणेति’’  
+(वराहपुराणम्), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सृष्ट्वा नारं तोयम् अन्तस् स्थितोऽहं  
+येन स्यान् मे नाम नारायणेति’’  
+(वराहपुराणम्), 
+</details>
+ 
+<details><summary>English</summary>
+
+> "I created the waters, which are called nārās,  
+and lay within them.  
+Therefore am I called Nārāyaṇa." 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Creé** las aguas, que **se llaman** nārās,  
+y **se acuesta** dentro de ellos.  
+Por lo tanto, **me llamo** nārāyaṇa ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् ‘‘सृष्ट्वा नारं तोयमन्तस्स्थितोऽहं येन स्यान्मे नाम नारायणेति’’(वराहपुराणम्), 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि इन्द नारायणशब्दार्थविषयङ्गळाऩ स्मृतिकळिल् तोऱ्ऱुम् विरोधत्तै तात्पर्यवर्णनत्ताले परिहरित्तुक्काट्टुगिऱार् इव्विडत्तिलित्यादिना । इव्विडत्तिल् - इन्द नारायणशब्दार्थविवरणरूपङ्गळाग प्रवृत्तङ्गळाऩ वचनङ्गळिल्, सृष्ट्वेति । नारं – नरसम्बन्धियाऩ, तोयं - जलत्तै, सृष्ट्वा – सृष्टित्तु, अन्तः - अदिऩुळ्ळे, अहं - नाऩ्, स्थितः - इरुन्देऩ्; येन - यादॊरु अन्तरात्मतया अवस्थितियिऩाले, मे नारायणेति नाम स्यादिति । ऎदऩाल् ऎऩक्कु नारायणऩॆऩ्गिऱ पॆयर् उण्डागुमो? ऎऩ्ऱबडि। इदु वाराहवचनम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आपो +++(→विकारतो भूतान्तराण्य् अपि)+++ नारा इति प्रोक्ता  
+आपो +++(तत्त्वान्तराण्य् अपि)+++ वै नर-सूनवः +++(शरीर-विकारतः)+++।  
+ता यद् अस्यायनं पूर्वं  
+तेन नारायणस् स्मृतः॥’’  
+(मनुस्मृति १-१९) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘आपो +++(→विकारतो भूतान्तराण्य् अपि)+++ नारा इति प्रोक्ता  
+आपो +++(तत्त्वान्तराण्य् अपि)+++ वै नर-सूनवः +++(शरीर-विकारतः)+++।  
+ता यद् अस्यायनं पूर्वं  
+तेन नारायणस् स्मृतः॥’’  
+(मनुस्मृति १-१९) 
+</details>
+
+<details><summary>विषयः</summary>
+
+नारायणः
+</details>
+
+
+
+<details><summary>English</summary>
+
+> "The waters are called Nārās  
+because they were born of Nara (i. e. Bhagavān).  
+They were at first His abode.  
+Therefore is He called Nārāyaṇa." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Las aguas **se llaman** nārās  
+Porque **nacieron** de Nara (es decir, bhagavān).  
+Al principio **fueron** su morada.  
+Por lo tanto, **se llama** Nārāyaṇa ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘आपो नारा इति प्रोक्ता आपो वै नरसूनवः । ता यदस्यायनं पूर्वं तेन नारायणस्स्मृत’’(मनुस्मृति १-१९) 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आपो नारा इति ।  
+इदु मनुस्मृतिवचनम्।  
+इदिल् नरसूनवः ऎऩ्गिऱव् इडत्तिल्  
+नरशब्दम् ‘‘जह्नुर् नारायणो नरः’’ ऎऩ्गिऱ सहस्रनामवचनानुरोधेन नारायणपरम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिले  
+
+> अप्पुक्कळैय् ऎडुत्तदु  
+तत्त्वान्तरङ्गळुक्कुम् उपलक्षणम् 
+
+ऎऩ्ऩुम् इडम्
+</details>
+
+<details><summary>English</summary>
+
+In these two ślokas, the waters refer by implication (Upalakṣaṇa) to the other tattvas (reals) as well.  
+This is evident from such passages as the following :- 
+</details>
+
+<details><summary>Español</summary>
+
+En estos dos Ślokas,  
+las aguas **se refieren** por **implicación** (upalakṣaṇa) a los otros tattvas (reales) también.  
+Esto **es** evidente por pasajes como los **siguientes** :-
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिले अप्पुक्कळैयॆडुत्तदु तत्त्वान्तरङ्गळुक्कुमुपलक्षणमॆऩ्ऩुमिडम्
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तत्त्वान्तरङ्गळुक्कुम् उपलक्षणम् इति ।  
+इन्द अप्-शब्दम् अण्डसृष्टिहेतुभूत-तत्त्वङ्गळिले अजहत्-स्वार्थ-लाक्षणिकम् इत्यर्थः । तथा च आपः ऎऩ्बदऱ्कु अण्डसृष्टिहेतुभूततत्त्वङ्गळ् ऎऩ्ऱु पर्यवसितार्थम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नराज् **जातानि** तत्त्वानि  
+नाराणीति ततो **विदुः** ।  
+तान्य् एव चायनं तस्य  
+तेन नारायणः **स्मृतः**॥’’  
+( भारतम् आनुशाासनिक-पर्व १८६-७) 
+
+इत्य्-आदिगळाले सिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नराज् **जातानि** तत्त्वानि  
+नाराणीति ततो **विदुः** ।  
+तान्य् एव **चायनं** तस्य  
+तेन नारायणः **स्मृतः**॥’’  
+( भारतम् आनुशाासनिक-पर्व १८६-७) 
+
+</details>
+
+<details><summary>English</summary>
+
+> "The tattvas or reals had all their origin from Nara.  
+Therefore are they known as Nāras.  
+To Him they are the abode,  
+therefore is He considered to be Nārāyaṇa." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Los tattvas o los reales **tenían** todo su origen de Nara.  
+Por lo tanto, **se conocen** como nāras.  
+Para él **son** la morada,  
+Por lo tanto, **se considera** que es nārāyaṇa ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नराज्जातानि तत्त्वानि नाराणीति ततो विदुः । तान्येव चायनं तस्य तेन नारायणः स्मृतः॥’’( भारतम् आनुशाासनिक-पर्व १८६-७) इत्यादिगळाले सिद्धम्। 
+</details>
+
+
+
+
+In this interpretation of the word as a grammatical compound Bahuvrihi samāsa ( Nārah ayanan yasya), it is stated that the tattvas had their origin from Nara and are therefore called nāras. From this it follows that, as stated in Mahopanishad and elsewhere, Nārāyaṇa is the cause of all (things and beings ) including Brahma and Isana ( Siva) in every way (i. e. the material cause and the instrumental cause). The word ayana (resting place ) is derived in this way:-‘I yate iti' ayanam. That which is pervaded is ayana (the passive voice being used for deriving the word). This declares that He pervades all, as they are all pervaded by him and that in order that He may do so, He has unparallelled subtleness (sukṣmatva). Ayana may be derived also in another way: Iyate asmin iti : (That in which it is), in which case it would mean that in which everything rests. The word Nārāyaṇa may be considered also as a compound of the tatpurusha type (tatpurusha samāsa), in which case it would be split into Narāṇam and. ayanaın (the abode of Nārās ). It is true that the compound word should then be in the neuter gender Nārāyaṇam, but by the authority of nirukti, the masculine form Nārāyaṇah is not improper. The pramāṇas are the following :-"He is also called Nārāyaṇa, for He is the resting place or abode of Narās". "The multitude of all jīvas is called Nārās. Since Bhagavān is to be attained by them and is also the upāya for attaining Him, He is called Nara yana". "Nāra is so called because it means the multitude of jīvas which are indicated by the word nara. I am the goal to be attained by them; I am also the upāya for that attainment. Therefore am I called Nārāyaṇa by the seers." "The wise call the multitude of jīvas by the name Nāra. He is called Nārāyaṇa because He is their ayana (abode or resting place). Therefore those who are thoroughly conversant with the Vedas and the Vedānta declare Him to be the kinsman, the mother, the father, the guru and the abode or resting place."
 
 THE DERIVATION OF THE WORD NARA:
 
