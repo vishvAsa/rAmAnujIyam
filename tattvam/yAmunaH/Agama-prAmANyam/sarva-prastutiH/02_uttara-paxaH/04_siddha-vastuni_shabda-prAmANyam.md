@@ -268,8 +268,11 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 <details><summary>Buitenen</summary>
 
 > for we find also that the same realization follows upon a feeling of distress, namely when the informed father is vexed by the trouble of maintaining his family.132
+</details>
 
-132: Then, one may suppose, the child would not so readily associate the birth ceremony with the previous communication.  
+<details><summary>Buitenen - Notes</summary>
+
+[132]: Then, one may suppose, the child would not so readily associate the birth ceremony with the previous commueniation.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -327,7 +330,7 @@ When you say that, since this realization cannot occur without a cause therefore
 
 It has been decided by our opponent that the verbal denotation of a meaning which causes an action to be taken is a result of the inclusion in the statement of a liṅādi suffix.133 
 
-133: supra §36\.  
+[133]: supra §36.  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -360,7 +363,7 @@ He who maintains that all words only bear meaningfully on kārya,
 
 maintains in effect that padārthas134 exist only in kārya statements and that e.g. in the case of cows, horses and the like, which are related to bodies, their being a padārtha is ascertained by the inclusion or exclusion of the words denoting them in a statement concerning kārya. 
 
-134: The things-meant or denoted by the word,  
+[134]: The things-meant or denoted by the word,
 </details>
 
 <details><summary>मूलम्</summary>
