@@ -996,10 +996,10 @@ REFUTATION. To refute this view, the statement is made:
 > The Vedas are not the product of a maker, i.e. the Bhagavān. 
 
 Karaṇa here in the sense of "things that are made or produced",  
-by the rule "suffix lyuṭ" in the sense of the object of the action.  
+by the rule "suffix lyuṭ" in the sense of the object of the action.223  
 This then means that the Vedas are preterhuman.
 
-222: Karmaṇi Lyuṭ Pāṇini.  
+[223]: Karmani Lyu! Papini.
 
 [[88]]
 
