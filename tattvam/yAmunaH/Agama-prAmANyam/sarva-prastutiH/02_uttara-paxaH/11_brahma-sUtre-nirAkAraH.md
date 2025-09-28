@@ -12,9 +12,9 @@ title = "११ ब्रह्म-सूत्रे ऽनिराकार�
 
 <details><summary>Buitenen</summary>
 
-> 95\. OBJECTION. But then how to explain the sūtra utpattyasaṃbhavāt!? 207
+> 95\. OBJECTION. But then how to explain the sūtra utpattyasaṃbhavāt!? 208
 
-207: BrS, 2\.2\.42\.  
+[208]: BrS, 2.2.42. 
 </details>
 
 <details><summary>मूलम्</summary>
