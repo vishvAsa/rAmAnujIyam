@@ -849,7 +849,7 @@ In the Varāha Purāṇa, "The Supreme Brahman is Viṣṇu; the triple division
 
 Likewise in the Matsya Purāṇa, "In those aeons where sattva prevails, the greatness of Viṣṇu is declared. In aeons predominated by tamas the greatness of Fire and Śiva is expounded."174 
 
-174: Matsya Pur. 290\.15\.  
+[174]: Matsya Pur. 290.15.  
 </details>
 
 
@@ -940,7 +940,9 @@ Likewise in the Vāyu Purāṇa,
 
 <details><summary>Buitenen</summary>
 
-Likewise in the Bhaviṣyat Purāṇa, "Visnu is traditionally known to be the Supreme in the pathways of the Vedic doctrine. Viṣṇu is the greatest among persons, the most exalted Supreme Person." 
+Likewise in the Bhaviṣyat Purāṇa, "Visnu is traditionally known to be the Supreme in the pathways of the Vedic doctrine. Viṣṇu is the greatest among persons, the most exalted Supreme Person."175 
+
+[175]: The Linga, Vayu and Bhavisyat quotations could not be verified.
 </details>
 
 
@@ -956,9 +958,9 @@ Likewise in the Bhaviṣyat Purāṇa, "Visnu is traditionally known to be the S
 
 <details><summary>Buitenen</summary>
 
-All this has already been explained in great detail in the Puruṣanirṇaya 176 and is therefore not further enlarged upon here. 
+All this has already been explained in great detail in the Puruṣanirṇaya176 and is therefore not further enlarged upon here. 
 
-176: Title of one of Yāmuna's treatises.  
+[176]: Title of one of Yamuna's treatises.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
