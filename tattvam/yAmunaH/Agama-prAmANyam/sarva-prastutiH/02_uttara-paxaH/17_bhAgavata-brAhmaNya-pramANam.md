@@ -1885,12 +1885,7 @@ and this is so because of the interpretation:
 
 <details><summary>Buitenen</summary>
 
-132\. The contention[^278] that the bhāgavatas are bad brahmins because they perform pūjā to the God, partake of the offering substance etc. for a livelihood, is countered in the following manner: 
-</details>
-
-<details><summary> Buitenen - Notes </summary>
-
-Then, one may suppose, the child would not so readily associate the birth ceremony with the previous com. mueniation. 
+132\. The contention that the bhāgavatas are bad brahmins because they perform pūjā to the God, partake of the offering substance etc. for a livelihood, is countered in the following manner: 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2134,9 +2129,7 @@ as according to the smṛti, "He who receives the offering and he who {{deit|giv
 
 <details><summary>Buitenen</summary>
 
-133\. The statements[^282] that professional worship of the deity and living off the god's treasure makes a man a devalaka275 
-
-[^282]: supra §36.
+133\. The statements that professional worship of the deity and living off the god's treasure makes a man a devalaka275 
 
 275: supra § 16\.  
 </details>
