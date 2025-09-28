@@ -15629,6 +15629,17 @@ y que para que él **pueda hacerlo**,
 ‘‘ईयते अस्मिन्’’ ऎऩ्गिऱ अधिकरण-व्युत्पत्तियिलुम् वरुम्। 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अत्रायनस्य नार-सामानाधिकरण्यम् उक्तम्।  
+किञ्च, अयनस्य ब्रह्म-विशेषणत्वे ऽपि  
+कर्माधिकरणाभ्याम् अपि  
+व्याकत्वं सिध्यति,  
+लय-सूचनया सूक्ष्मत्वम् अपि। 
+</details>
+
+
+
 <details><summary>English</summary>
 
 Ayana (here) may be derived also in another way:  
