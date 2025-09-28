@@ -462,12 +462,14 @@ because it is not lacking in reason
 > [[104]]  
 and the fact that the sentence-meaning of the statement, 
 > 
-> > "In spring the brahmin must add fuel to the fire," 
+> > "In spring the brahmin must add fuel to the fire," 250
 >
 > is otherwise unestablished  
 does not therefore by Circumstantial-Implication  
 furnish proof that a man is a brahmin;  
 for knowledge of that sentencemeaning presupposes knowledge of the word-meaning of brahminhood etc.
+
+[250]: not identified.
 </details>
 
 
