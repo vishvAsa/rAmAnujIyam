@@ -15625,7 +15625,7 @@ y que para que él **pueda hacerlo**,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पॊरुळ्गळ्  
+इप्-पॊरुळ्गळ् +++(अग्रे वक्ष्यमाणा अपि)+++  
 ‘‘ईयते अस्मिन्’’ ऎऩ्गिऱ अधिकरण-व्युत्पत्तियिलुम् वरुम्। 
 </details>
 
@@ -15633,6 +15633,7 @@ y que para que él **pueda hacerlo**,
 
 Ayana (here) may be derived also in another way:  
 Iyate asmin iti : (That in which it is),  
+(leading to the same meanings.)
 ~~in which case it would mean that in which everything rests.~~ 
 </details>
 
@@ -15640,6 +15641,7 @@ Iyate asmin iti : (That in which it is),
 
 Ayana (aqui) **puede derivarse** también de otra manera:  
 Iyate asmin iti: (aquello en el que **está**).  
+(**conduciendo** a los mismos significados).
 ~~en cuyo caso **significaría** aquello en el que todo **descansa**.~~
 </details>
 
@@ -15648,9 +15650,56 @@ Iyate asmin iti: (aquello en el que **está**).
 इप्पॊरुळ्गळ् ‘‘ईयते अस्मिन्’’ ऎऩ्गिऱ अधिकरणव्युत्पत्तियिलुम् वरुम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पॊरुळ्गळ् - ईयते अस्मिन् ऎऩ्गिऱ अधिकरणव्युत्पत्तियिलुम् वरुमिति । इप्पॊरुळ्गळ् - कर्मव्युत्पत्तियिलेसॊऩ्ऩ पदार्थङ्गळॆल्लाम्, वरुमिति ।  
++++(तत्-पुरुष-पक्षे)+++ "ईयते अस्मिन्" ऎऩ्ऱु  
+अव्व्-इडत्तिले सर्वत्तिऱ्कुम् लयम् सॊल्लुगैयाले   
+ऎऩ्ऱु करुत्तु।
+</details>
+
+<details><summary>विश्वास-टिप्पनी - सारबोधिन्याम्</summary>
+
+सारबोधिन्याम् - "सर्वस्य तस्मिन् लयतः" इत्य् अर्थो दत्तो भाति। तस्मिन् नाम ब्रह्मणि खलु? 
+कथं तु नारा अयनं(=लयः) यस्य इति बहुव्रीहौ लयार्थः??  
+तन् न सङ्गच्छते।  
+अतो ऽत्र षष्ठीतत्पुरुषार्थो ह्य् उक्तो भाति प्रकरणम् अतिक्रम्य। 
+</details>
+
+### तत्-पुरुष-समासः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नाराणाम् अयनत्वाच् च  
+नारायण इति स्मृतः’’  
+(भारतम् उद्योग-पर्व ६९-१०),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नाराणाम् अयनत्वाच् च  
+नारायण इति स्मृतः’’  
+(भारतम् उद्योग-पर्व ६९-१०),
+</details>
 
 
-The word Nārāyaṇa may be considered also as a compound of the tatpurusha type (tatpurusha samāsa), in which case it would be split into Narāṇam and. ayanaın (the abode of Nārās ). It is true that the compound word should then be in the neuter gender Nārāyaṇam, but by the authority of nirukti, the masculine form Nārāyaṇah is not improper. The pramāṇas are the following :-"He is also called Nārāyaṇa, for He is the resting place or abode of Narās". "The multitude of all jīvas is called Nārās. Since Bhagavān is to be attained by them and is also the upāya for attaining Him, He is called Nara yana". "Nāra is so called because it means the multitude of jīvas which are indicated by the word nara. I am the goal to be attained by them; I am also the upāya for that attainment. Therefore am I called Nārāyaṇa by the seers." "The wise call the multitude of jīvas by the name Nāra. He is called Nārāyaṇa because He is their ayana (abode or resting place). Therefore those who are thoroughly conversant with the Vedas and the Vedānta declare Him to be the kinsman, the mother, the father, the guru and the abode or resting place."
+
+<details><summary>मूलम्</summary>
+
+‘‘नाराणामयनत्वाच्च नारायण इति स्मृतः’’(भारतम् उद्योग-पर्व ६९-१०),
+</details>
+
+
+
+The word Nārāyaṇa may be considered also as a compound of the tatpurusha type (tatpurusha samāsa),  
+in which case it would be split into Narāṇam and ayanam (the abode of Nārās ).  
+It is true that the compound word should then be in the neuter gender Nārāyaṇam,  
+but by the authority of nirukti, the masculine form Nārāyaṇah is not improper.  
+The pramāṇas are the following :-  
+
+> "He is also called Nārāyaṇa,  
+for He is the resting place or abode of Narās". 
+
+> "The multitude of all jīvas is called Nārās. Since Bhagavān is to be attained by them and is also the upāya for attaining Him, He is called Nara yana". "Nāra is so called because it means the multitude of jīvas which are indicated by the word nara. I am the goal to be attained by them; I am also the upāya for that attainment. Therefore am I called Nārāyaṇa by the seers." "The wise call the multitude of jīvas by the name Nāra. He is called Nārāyaṇa because He is their ayana (abode or resting place). Therefore those who are thoroughly conversant with the Vedas and the Vedānta declare Him to be the kinsman, the mother, the father, the guru and the abode or resting place."
 
 THE DERIVATION OF THE WORD NARA:
 
