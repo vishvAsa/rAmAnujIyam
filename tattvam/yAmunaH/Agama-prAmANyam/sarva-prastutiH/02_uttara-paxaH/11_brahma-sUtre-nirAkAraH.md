@@ -149,10 +149,15 @@ Cf. Sankara under Brahmasutra II. ii. 42-
 
 <details><summary>Buitenen</summary>
 
-REPLY. NO. The personal manifestation of God is described as being constituted by vyūhas,208 
-
-208: 'Divisions' of the Supreme God as Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha.  
+REPLY. NO. The personal manifestation of God is described as being constituted by vyūhas,209 
+  
 </details>
+
+<details><summary>Buitenen - Notes</summary>
+
+[209]: 'Divisions' of the Supreme God as Vasudeva, Sankarṣapa, Pradyumna and Aniruddha.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -314,9 +319,9 @@ To be identified.
 
 <details><summary>Buitenen</summary>
 
-Besides, the words 'individual soul,' 'mind' and 'ego' do not denote these tanmātras 209 themselves, but refer to a person who is the superintending deity of these orders and whose personality is entirely different from the order he superintends. 
+Besides, the words 'individual soul,' 'mind' and 'ego' do not denote these tanmātras210 themselves, but refer to a person who is the superintending deity of these orders and whose personality is entirely different from the order he superintends. 
 
-(209: tanmātras here in the sense of the "higher evolutes." )
+[210]: tanmatras here in the sense of the "higher evolutes." 
 </details>
 
 
@@ -336,9 +341,9 @@ Besides, the words 'individual soul,' 'mind' and 'ego' do not denote these tanm�
 
 <details><summary>Buitenen</summary>
 
-Birth is described as the acquisition of various bodies, as is said in the statement toyena jīvān in the Yajurmūrdhan.210 
+Birth is described as the acquisition of various bodies, as is said in the statement toyena jīvān in the Yajurmūrdhan.211 
 
-210: toyena jīvān vyasarjayad bhūmyām, MahānārUp., 1\.4\.  
+[211]: toyena jivān visasarja bhūmyām, MahānārUp., 1.4.
 </details>
 
 
@@ -371,9 +376,12 @@ Taittiriya Aranyaka X - i-1b; also Mahānārāyana I - 4b.
 
 <details><summary>Buitenen</summary>
 
-Besides, the Author of the Sūtras has already discarded the śruti, smṛti and profane views concerning the origination and reabsorption of the individual soul in the sūtra carācaravyapāśrayas tu syāt tadvyapadeśo bhāktas tadbhāvabhāvitvāt.211 
+Besides, the Author of the Sūtras has already discarded the śruti, smṛti and profane views concerning the origination and reabsorption of the individual soul in the sūtra carācaravyapāśrayas tu syāt tadvyapadeśo bhāktas tadbhāvabhāvitvāt.212  
+</details>
 
-211: BrS. 2\.3\.16 (17). Translation: "A word descriptive of moving or unmoving beings, has got a secondary meaning [in referring to Brahman], because such a being's existence depends on Brahman's existence."  
+<details><summary>Buitenen - Notes</summary>
+
+[212]: BrS. 2.3.16 (17). Translation: "A word descriptive of moving or unmoving beings, has not a secondary meaning [in referring to Brahman], because such a being's existence depends on Brahman's existence."
 </details>
 
 
@@ -403,17 +411,16 @@ Besides, the Author of the Sūtras has already discarded the śruti, smṛti and
 
 And since, moreover, the origination of the individual soul out of Brahman has been rejected in the sūtras 
 
-> "nātmā śruter nityatvāc ca tābhyaḥ",212 
+> "nātmā śruter nityatvāc ca tābhyaḥ",213 
 
 it does not occasion a renewed exposition:  
 an issue which does not need being made a topic would then be made a topic.
+</details>
 
- 
-212: BrS., 2\.3\.17 (18). Translation: 
 
-> "The ātman is not born  
-because there is no śruti to that effect,  
-and because of its eternality, which is proved by the śrutis."  
+<details><summary>Buitenen - Notes</summary>
+
+[213]: BrS., 2.3.17 (18). Translation: "The atman is not born because there is no śruti to that effect, and because of its eternality, which is proved by the śrutis."
 </details>
 
 
@@ -433,9 +440,9 @@ and because of its eternality, which is proved by the śrutis."
 
 [[81]]
 
-96\. This also explains the sūtra na ca kartuḥ karaṇam;213  
+96\. This also explains the sūtra na ca kartuḥ karaṇam;214  
 
-213: BrS, 2\.2\.43\.  
+[214]: BrS, 2.2.43.
 </details>
 
 
@@ -542,9 +549,9 @@ OBJECTION. Then why this sūtra at all?
 
 <details><summary>Buitenen</summary>
 
-REFUTATION. Well, then you reject the general view that all instruments, vital airs, mind etc. have their origin in Brahman which itself is without the entire collection of all instruments and rests solely on its own power; this view is stated in the text: "From it springs the vital air, the mind and all the senses."214 
+REFUTATION. Well, then you reject the general view that all instruments, vital airs, mind etc. have their origin in Brahman which itself is without the entire collection of all instruments and rests solely on its own power; this view is stated in the text: "From it springs the vital air, the mind and all the senses."215 
 
-214: Muṇḍ Up., 2\.1\.3\.  
+[215]: Mund Up., 2.1.3.
 </details>
 
 
@@ -669,7 +676,9 @@ or has one a quaternity of personalities which he has assumed at his own desire?
 
 <details><summary>Buitenen</summary>
 
-97\. OBJECTION. The sūtra  vā tadapratiṣedhaḥ (215: BrS., 2\.2\.44\.  ) is explained as ~~follows:~~ above.
+97\. OBJECTION. The sūtra  vā tadapratiṣedhaḥ 216 is explained as ~~follows:~~ above.
+
+[216]: BrS., 2.2.44.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -872,11 +881,11 @@ Cf. Ahirbudhnya Samhitā ch. 36 Śls. 64, 65.
 
 <details><summary>Buitenen</summary>
 
-98\. Furthermore, vipratiṣedhāt 216 may mean "because of conflict with Revelation",  
+98\. Furthermore, vipratiṣedhāt 217 may mean "because of conflict with Revelation",  
 on the basis of the citation "failing to find in the four Vedas..."  
 or "because of mutual conflict between the Tantras themselves". 
 
-216: BrS., 2\.2\.45\.  
+[217]: BrS., 2.2.45.
 </details>
 
 
