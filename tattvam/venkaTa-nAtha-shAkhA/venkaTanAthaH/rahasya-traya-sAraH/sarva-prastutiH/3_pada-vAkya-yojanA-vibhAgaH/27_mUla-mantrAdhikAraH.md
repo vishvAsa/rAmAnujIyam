@@ -15023,10 +15023,10 @@ y también sus propias cualidades nobles, que nārāyaṇa ",
 इप् पदत्तिल् नारा अयनं यस्य ऎऩ्गिऱ बहुव्रीहिसमासत्तिऩालुम्, नाराणां अयनं ऎऩ्गिऱ तत्पुरुषसमासत्तिऩालुम् किडैत्त अर्थङ्गळै नम्माऴ्वार् ऎण् पॆरुक्कन्नलत्तु इत्यादियाल् प्रकाशिप्पित्तारॆऩ्गिऱार् इश् शब्दत्तुक्कु इत्यादियाल्। ऎण् - सङ्ख्यै, पॆरुक्कु - आनन्त्यम्, सङ्ख्यैयिऩुडैय आनन्त्यत्तैयुडैत्ताऩ, असङ्ख्यातमाऩ ऎऩ्ऱबडि। अन्नलत्तु - तादृशज्ञानानन्दाश्रयमाऩ, ऒण्बॊरुळ् - स्वयम्प्रकाशमाऩ जीवऩ्गळै व्याप्यमागवुडैयवऩाय्, इदु असित्तिऱ्कुमुबलक्षणम्, ईऱिल - ऎल्लैयऱ्ऱ, वण् - उदारङ्गळाऩ, पुगऴ् – कल्याणगुणङ्गळै उडैयवऩुमाऩ, नारणऩ् - नारायणऩुडैय।  
 
 इङ्गु **नारणऩ्** ऎऩ्ऱु नारायणऩैय् ऎडुत्तु  
-अवऩ् **ऎण्-बॆरुक्कन् नलत्त्-ऒण्-बॊरुळै** व्याप्यतया+++(←"अन्तर्-व्याप्तिः" - विशिष्ट-सान्निध्यम् भजमानोऽपि व्यापको भगवान्??)+++ उडैयवऩ् ऎऩ्ऱाल्  
+अवऩ् **ऎण्-बॆरुक्कन् नलत्त्-ऒण्-बॊरुळै** व्याप्यतया+++(←भगवत्-कर्तृकया "ऽन्तर्-व्याप्त्या")+++ उडैयवऩ् ऎऩ्ऱाल्  
 "नारा अयनं यस्य" ऎऩ्गिऱ बहुव्रीहिसमासार्थं सॊऩ्ऩद् आगुम् इऱे।  
 
-इन्द अन्नलत्तॊण्बॊरुळ् ऎऩ्गिऱ पदत्तिऩ् अर्थम् ’’तात्पर्यरत्नावळि’’यिल् ‘‘जगदयनतया’’ ऎऩ्गिऱ पदत्ताले काट्टप्पट्टदिऱे। 
+इन्द अन्नलत्तॊण्बॊरुळ् ऎऩ्गिऱ पदत्तिऩ् अर्थम् ’’तात्पर्यरत्नावळि’’यिल् ‘‘जगदयनतया’’ ऎऩ्गिऱ पदत्ताले काट्टप् पट्टद् इऱे। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -15482,10 +15482,175 @@ Por lo tanto, **se considera** que es nārāyaṇa ".
 ‘‘नराज्जातानि तत्त्वानि नाराणीति ततो विदुः । तान्येव चायनं तस्य तेन नारायणः स्मृतः॥’’( भारतम् आनुशाासनिक-पर्व १८६-७) इत्यादिगळाले सिद्धम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि अप्-शब्दत्तै उपलक्षणमागक् कॊळ्वदऱ्कु अनुगुणमाऩ प्रमाणत्तैक् काट्टुगिऱार् नराज्जातानीत्यादि । 
+</details>
+
+
+### बहु-व्रीहि-समासः
+#### नाराः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द बहु-व्रीहि-समासम् आऩ निर्वचनत्तिल्  
+
+> नराज् जातानि तत्त्वानि 
+
+ऎऩ्ऱु नार-शब्दार्थञ् जॊल्लुगैयाले 
+</details>
+
+<details><summary>English</summary>
+
+In this interpretation of the word as a grammatical compound Bahuvrihi samāsa ( Nārah ayanan yasya),  
+it is stated that  
+the tattvas had their origin from Nara  
+and are therefore called nāras. 
+</details>
+
+<details><summary>Español</summary>
+
+En esta **interpretación** de la palabra como un compuesto gramatical bahuvrihi samāsa (nārah ayanan yasya),  
+**se dice** que  
+Los tattvas **tenían** su origen de Nara  
+y, por lo tanto, **se llaman** nāras.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द बहुव्रीहिसमासमाऩ निर्वचनत्तिल् नराज्जातानि तत्त्वानि ऎऩ्ऱु नारशब्दार्थञ्जॊल्लुगैयाले 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नारायणशब्दत्तिऩुडैय बहुव्रीहिसमासत्तिऱ्कु सूचकङ्गळाऩ वचनङ्गळाले  
+सर्वकारणत्वमुम्, सर्वव्याप्तियुम्, तद्-अनुगुण-निरतिशय-सूक्ष्मत्वमुम् सॊल्लप्-पट्टद्  
+
+ऎऩ्गिऱार् इन्द बहुव्रीहि समासमाऩ निर्वचनत्तिलित्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महोपनिषत्-प्रभृतिगळिऱ् सॊल्लुगिऱ बडिये  
+ब्रह्मेशानादि-सर्वत्तैयुम् पऱ्ऱ  
+नारायणऩ्-उडैय सर्व-विध-कारणत्वमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+From this it follows that, as stated in Mahopanishad and elsewhere,  
+Nārāyaṇa is the cause of all (things and beings ) including Brahma and Isana ( Siva) in every way (i. e. the material cause and the instrumental cause). 
+</details>
+
+<details><summary>Español</summary>
+
+De esto **se deduce** que, como **se indica** en Mahopanishad y en otros lugares,  
+Nārāyaṇa **es** la causa de todas (cosas y seres), incluidos Brahma e Isana (Siva) en todos los sentidos (es decir, la causa material y la causa instrumental).
+</details>
+
+<details><summary>मूलम्</summary>
+
+महोपनिषत् प्रभृतिकळिऱ् सॊल्लुगिऱबडिये ब्रह्मेशानादिसर्वत्तैयुम् पऱ्ऱ नारायणऩुडैय सर्वविधकारणत्वमुम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+महोपनिषत्-प्रभृतिकळिल् - 
+
+> ‘‘एको ह वै नारायण आसीत्  
+न ब्रह्मा नेशान’’ 
+
+इत्य्-आद्युपनिषत्तुक्कळिल्,  
+ब्रह्मेशानादिसर्वत्तैयुम् पऱ्ऱ नारायणऩुडैय सर्वविधकारणत्वमुमिति ।  
+सृष्टिक्कु मुऩ्ऩाल्  
+‘‘न ब्रह्मा नेशान’’ ऎऩ्बदाल् ब्रह्मा शिवऩ् मुदलियवर्गळ् इल्लैयॆऩ्ऱुम्,  
+‘‘एको ह वै नारायण आसीत्’’ ऎऩ्बदाल् नारायणऩ् मात्तिरमिरुन्दाऩॆऩ्ऱुम् सॊल्लप्पडुवदाल् अवऩुक्के ब्रह्मेशानादिसर्वकारणत्वंसिद्धमॆऩ्ऱु करुत्तु।
+</details>
+
+
+#### अयनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अयन-शब्दत्तिल्  
+"ईयत" इत्य् अयनं  
+ऎऩ्गिऱ कर्म-व्युत्पत्तियाले  
+इवऱ्ऱै व्याप्यम् आगव् उडैयवऩ्-उडैय सर्व-व्यापकत्वमुम् 
+</details>
+
+<details><summary>English</summary>
+
+The word ayana (resting place ) is derived in this way:-  
+‘Iyate iti ayanam'.  
+That which is pervaded is ayana (the passive voice being used for deriving the word).  
+This declares that He pervades all,  
+as they are all pervaded by him  
+
+</details>
+
+<details><summary>Español</summary>
+
+La palabra ayana (lugar de descanso) **se deriva** de esta manera:-  
+‘Iyate iti ayanam'.  
+Lo que está **impregnado** es Ayana (la voz pasiva **se usa** para **derivar** la palabra).  
+Esto **declara** que él **impregna** a todos,  
+Como todos **están impregnados** por él
+</details>
+
+<details><summary>मूलम्</summary>
+
+अयनशब्दत्तिल् ईयत इत्ययनं ऎऩ्गिऱ कर्मव्युत्पत्तियाले इवऱ्ऱै व्याप्यमागवुडैयवऩुडैय सर्वव्यापकत्वमुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदुक्क् उपयुक्तम् आऩ निरतिशय-सूक्ष्मत्वमुञ् जॊल्लिऱ्ऱ् आयिऱ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+and that in order that He may do so,  
+He has unparallelled subtleness (sukṣmatva). 
+</details>
+
+<details><summary>Español</summary>
+
+y que para que él **pueda hacerlo**,  
+**Tiene** sutileza incomparable (Sukṣmatva).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदुक्कुपयुक्तमाऩ निरतिशयसूक्ष्मत्वमुञ्जॊल्लिऱ्ऱायिऱ्ऱु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पॊरुळ्गळ्  
+‘‘ईयते अस्मिन्’’ ऎऩ्गिऱ अधिकरण-व्युत्पत्तियिलुम् वरुम्। 
+</details>
+
+<details><summary>English</summary>
+
+Ayana (here) may be derived also in another way:  
+Iyate asmin iti : (That in which it is),  
+~~in which case it would mean that in which everything rests.~~ 
+</details>
+
+<details><summary>Español</summary>
+
+Ayana (aqui) **puede derivarse** también de otra manera:  
+Iyate asmin iti: (aquello en el que **está**).  
+~~en cuyo caso **significaría** aquello en el que todo **descansa**.~~
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पॊरुळ्गळ् ‘‘ईयते अस्मिन्’’ ऎऩ्गिऱ अधिकरणव्युत्पत्तियिलुम् वरुम्। 
+</details>
 
 
 
-In this interpretation of the word as a grammatical compound Bahuvrihi samāsa ( Nārah ayanan yasya), it is stated that the tattvas had their origin from Nara and are therefore called nāras. From this it follows that, as stated in Mahopanishad and elsewhere, Nārāyaṇa is the cause of all (things and beings ) including Brahma and Isana ( Siva) in every way (i. e. the material cause and the instrumental cause). The word ayana (resting place ) is derived in this way:-‘I yate iti' ayanam. That which is pervaded is ayana (the passive voice being used for deriving the word). This declares that He pervades all, as they are all pervaded by him and that in order that He may do so, He has unparallelled subtleness (sukṣmatva). Ayana may be derived also in another way: Iyate asmin iti : (That in which it is), in which case it would mean that in which everything rests. The word Nārāyaṇa may be considered also as a compound of the tatpurusha type (tatpurusha samāsa), in which case it would be split into Narāṇam and. ayanaın (the abode of Nārās ). It is true that the compound word should then be in the neuter gender Nārāyaṇam, but by the authority of nirukti, the masculine form Nārāyaṇah is not improper. The pramāṇas are the following :-"He is also called Nārāyaṇa, for He is the resting place or abode of Narās". "The multitude of all jīvas is called Nārās. Since Bhagavān is to be attained by them and is also the upāya for attaining Him, He is called Nara yana". "Nāra is so called because it means the multitude of jīvas which are indicated by the word nara. I am the goal to be attained by them; I am also the upāya for that attainment. Therefore am I called Nārāyaṇa by the seers." "The wise call the multitude of jīvas by the name Nāra. He is called Nārāyaṇa because He is their ayana (abode or resting place). Therefore those who are thoroughly conversant with the Vedas and the Vedānta declare Him to be the kinsman, the mother, the father, the guru and the abode or resting place."
+The word Nārāyaṇa may be considered also as a compound of the tatpurusha type (tatpurusha samāsa), in which case it would be split into Narāṇam and. ayanaın (the abode of Nārās ). It is true that the compound word should then be in the neuter gender Nārāyaṇam, but by the authority of nirukti, the masculine form Nārāyaṇah is not improper. The pramāṇas are the following :-"He is also called Nārāyaṇa, for He is the resting place or abode of Narās". "The multitude of all jīvas is called Nārās. Since Bhagavān is to be attained by them and is also the upāya for attaining Him, He is called Nara yana". "Nāra is so called because it means the multitude of jīvas which are indicated by the word nara. I am the goal to be attained by them; I am also the upāya for that attainment. Therefore am I called Nārāyaṇa by the seers." "The wise call the multitude of jīvas by the name Nāra. He is called Nārāyaṇa because He is their ayana (abode or resting place). Therefore those who are thoroughly conversant with the Vedas and the Vedānta declare Him to be the kinsman, the mother, the father, the guru and the abode or resting place."
 
 THE DERIVATION OF THE WORD NARA:
 
