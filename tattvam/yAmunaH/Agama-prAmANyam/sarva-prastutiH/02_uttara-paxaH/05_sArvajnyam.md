@@ -14,7 +14,10 @@ title = "०५ सार्वज्ञ्यम्"
 <details><summary>Buitenen</summary>
 
 Hence we reject our opponent's position. [[61]]  
-76\. The objections that omniscience is acquired by means of the regular senses is incorrect, 
+76\. The objections152 that omniscience is acquired by means of the regular senses is incorrect,153 
+
+[152]: supra §42.
+[153]: read ity asal for iliyat.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -54,10 +57,9 @@ because śruti contradicts it:
 hears without ears;  
 he who does not see with the eye,  
 who sees the eyes,  
-has neither effect nor instrument;"153 
+has neither effect nor instrument;"154 
 
-153: Śvet Up. 3\.19\.  
-
+[154]: Svet Up. 3.19.  
 </details>
 
 
@@ -76,11 +78,11 @@ has neither effect nor instrument;"153
 
 <details><summary>Buitenen</summary>
 
-> "knowledge, strength and action are natural to Him,"154 
+> "knowledge, strength and action are natural to Him,"155 
 
 etc. 
 
-154: Śvet Up. 6\.8\.  
+[155]: Svet Up. 6.8. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -249,7 +251,9 @@ for how could an Inference which disproves that Person arise at all, slow-moving
 
 <details><summary>Buitenen</summary>
 
-Moreover, if this were so, the relation of sacrificing etc. to heaven, apūrva155 etc. (155: cf supra note.), would logically be contradicted by the fact that sacrificing etc. are actions, when Scripture did not cancel such reasoning. 
+Moreover, if this were so, the relation of sacrificing etc. to heaven, apūrva156 etc. would logically be contradicted by the fact that sacrificing etc. are actions, when Scripture did not cancel such reasoning. 
+
+[156]: cf supra note.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -288,9 +292,9 @@ True, the identity of sacrificial pole and sun, which is asserted by Scripture, 
 
 <details><summary>Buitenen</summary>
 
-Besides, in this case it is legitimate to assume metaphorical usage, for the statement of this identity is an arthavāda,156 since it forms one single statement with the proximate injunction about the unction of the sacrificial pole. 
+Besides, in this case it is legitimate to assume metaphorical usage, for the statement of this identity is an arthavāda,156 since it forms one single statement with the proximate injunction about the unction of the sacrificial pole.157 
 
-156: supra note 86\.  
+[157]: supra note 86.
 </details>
 
 
@@ -364,6 +368,8 @@ There is no other injunction to which it could be accessory as an arthavāda.157
 [[63]]
 
 > 78\. The objection158 that as long as statements fail to prompt the operator of the means of knowledge to being active or to prevent him from being active, they do not communicate self-sufficient information, 
+
+[158]: supra § 36.
 </details>
 
 
@@ -467,9 +473,9 @@ In the upaniṣadic texts the knowledge of brahman is declared to be rewarded by
 
 <details><summary>Buitenen - Note</summary>
 
-158: This must refer to the śruti sa yo ha vai tat paraṃ veda brahma veda brahmaiva bhavati (quoted Rāmānuja, Vedārthasaṃgraha, 91), which I have been unable to locate.  
+[159]: This must refer to the śruti sa yo ha voi tat param veda น brahma veda brahma bhavati (quoted Ramanuja, Vedārthasarngraha, 91), which I have been unable to locate.
 
-159: Taitt Up. 2\.1\.1\. {{brahmatid|brahmavid}} āpnoti param.
+[160]: Taitt Up. 2.1.1. brahmatid apnoti param.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -493,16 +499,16 @@ all that he desires:"161
 the human importance of statements without injunctions is quite clear from these and other scriptural words. 
 </details>
 
+
+<details><summary>Buitenen - Note</summary>
+
+[161]: This must refer to Taitt Up. 2.1.1 so'fnute sarpan kāmān saha brahmaṇā vipaściṭā, but sa samagaḥ is obscure, unless one may regard it as a corruption of vipafcitā.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अश्नुते ब्रह्मणा सार्धं सर्वान् कामान् स सामगः" ॥  
 इदम्-आदि-त्रयी-वाक्यैर् व्यक्ता तस्य पुम्-अर्थता । 
-</details>
-
-
-<details><summary>Buitenen - Note</summary>
-
-160: This must refer to Taitt Up. 2\.1\.1 so'śnute sarvān kāmān saha brahmaṇā vipaścitā, but sa sāmagāḥ is obscure, unless one may regard it as a corruption of vipaścitā.
 </details>
 
 
