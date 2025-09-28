@@ -15572,9 +15572,9 @@ Nārāyaṇa **es** la causa de todas (cosas y seres), incluidos Brahma e Isana 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयन-शब्दत्तिल्  
-"ईयत" इत्य् अयनं  
+"ईयत इत्य् अयनं"  
 ऎऩ्गिऱ कर्म-व्युत्पत्तियाले  
-इवऱ्ऱै व्याप्यम् आगव् उडैयवऩ्-उडैय सर्व-व्यापकत्वमुम् 
+इवऱ्ऱै व्याप्यम् आगव् उडैयवऩ्-उडैय **सर्व-व्यापकत्वमुम्** 
 </details>
 
 <details><summary>English</summary>
@@ -15603,7 +15603,7 @@ Como todos **están impregnados** por él
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदुक्क् उपयुक्तम् आऩ निरतिशय-सूक्ष्मत्वमुञ् जॊल्लिऱ्ऱ् आयिऱ्ऱु।
+अदुक्क् उपयुक्तम् आऩ निरतिशय-**सूक्ष्मत्वमुञ्** जॊल्लिऱ्ऱ् आयिऱ्ऱु।
 </details>
 
 <details><summary>English</summary>
@@ -15625,7 +15625,7 @@ y que para que él **pueda hacerlo**,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पॊरुळ्गळ् +++(अग्रे वक्ष्यमाणा अपि)+++  
+इप्-पॊरुळ्गळ् +++(←व्यापकत्व-सूक्ष्मत्वे)+++  
 ‘‘ईयते अस्मिन्’’ ऎऩ्गिऱ अधिकरण-व्युत्पत्तियिलुम् वरुम्। 
 </details>
 
@@ -15681,6 +15681,17 @@ Iyate asmin iti: (aquello en el que **está**).
 (भारतम् उद्योग-पर्व ६९-१०),
 </details>
 
+<details><summary>English</summary>
+
+> "He is also called Nārāyaṇa,  
+for He is the resting place or abode of Narās". 
+</details>
+
+<details><summary>Español</summary>
+
+> "También **se le llama** nārāyaṇa,  
+porque él **es** el lugar de **descanso** o la morada de Narās ".
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -15689,23 +15700,281 @@ Iyate asmin iti: (aquello en el que **está**).
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> ‘‘नारास् त्व् इति सर्व-पुंसां  
+समूहः **परिकीर्तितः** ।  
+**गतिर् आलम्बनं** तस्य  
+तेन नारायणस् **स्मृतः**॥’’  
+(पाद्मोत्तरम्),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नारास् त्व् इति सर्व-पुंसां  
+समूहः **परिकीर्तितः** ।  
+**गतिर् आलम्बनं** तस्य  
+तेन नारायणस् **स्मृतः**॥’’  
+(पाद्मोत्तरम्),
+</details>
+
+<details><summary>विषयः</summary>
+
+नारायणः
+</details>
+
+
+<details><summary>English</summary>
+
+> "The multitude of all jīvas is called Nārās.  
+Since Bhagavān is to be attained by them  
+and is also the upāya for attaining Him,  
+He is called Narayana". 
+</details>
+
+<details><summary>Español</summary>
+
+> "La multitud de todos los jīvas **se llama** nārās.  
+Dado que Bhagavān debe **ser alcanzado** por ellos  
+y también **es** el upāya por **lograrlo**,  
+**Se llama** Narayana ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नारास्त्विति सर्वपुंसां समूहः परिकीर्तितः । गतिरालम्बनं तस्य तेन नारायणस्स्मृतः॥’’(पाद्मोत्तरम्),
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नारो नराणां सङ्घातस्  
+तस्याहम् **अयनं, गतिः** ।  
+तेनास्मि मुनिभिर् नित्यं  
+नारायण इतीरितः ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नारो नराणां सङ्घातस्  
+तस्याहम् **अयनं, गतिः** ।  
+तेनास्मि मुनिभिर् नित्यं  
+नारायण इतीरितः ॥
+</details>
+
+<details><summary>विषयः</summary>
+
+नारायणः
+</details>
+
+<details><summary>English</summary>
+
+> "Nāra is so called  
+because it means the multitude of jīvas which are indicated by the word nara.  
+I am the goal to be attained by them;  
+I am also the upāya for that attainment.  
+Therefore am I called Nārāyaṇa by the seers." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Nāra **se llama** así  
+Porque **significa** la multitud de jīvas que **están indicados** por la palabra nara.  
+**Soy** el objetivo que **debe alcanzarlos**;  
+También **soy** el upāya para ese **logro**.  
+Por lo tanto, los **videntes me llaman** nārāyaṇa ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नारो नराणां सङ्घातस्तस्याहमयनं गतिः । तेनास्मि मुनिभिर्नित्यं नारायण इतीरितः ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नार-शब्देन जीवानां  
+समूहः **प्रोच्यते** बुधैः ।  
+तेषाम् **अयन**-भूतत्वान्  
+नारायण **इहोच्यते** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> नार-शब्देन जीवानां  
+समूहः **प्रोच्यते** बुधैः ।  
+तेषाम् **अयन**-भूतत्वान्  
+नारायण **इहोच्यते** ॥
+</details>
+
+<details><summary>विषयः</summary>
+
+नारायणः
+</details>
+
+<details><summary>English</summary>
+
+> "The wise call the multitude of jīvas by the name Nāra.  
+He is called Nārāyaṇa  
+because He is their ayana (abode or resting place).  
+</details>
+
+<details><summary>Español</summary>
+
+> "El sabio **llame** a la multitud de Jīvas con el nombre de Nāra.  
+**Se le llama** nārāyaṇa  
+Porque él **es** su ayana (morada o lugar de **descanso**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नारशब्देन जीवानां समूहः प्रोच्यते बुधैः । तेषामयनभूतत्वान्नारायण इहोच्यते ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान् नारायणं बन्धुं  
+मातरं पितरं गुरुम् ।  
+**निवासं शरणञ् चाहुर्**  
+वेद-वेदान्त-पार-**गाः**॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तस्मान् नारायणं बन्धुं  
+मातरं पितरं गुरुम् ।  
+**निवासं शरणञ् चाहुर्**  
+वेद-वेदान्त-पार-**गाः**॥  
+(पाद्मोत्तरम्)
+</details>
+
+<details><summary>English</summary>
+
+> Therefore those who are thoroughly conversant with the Vedas and the Vedānta  
+declare Him to be the kinsman, the mother, the father, the guru and the abode or resting place."
+</details>
+
+<details><summary>Español</summary>
+
+> Por lo tanto, aquellos que **están** completamente familiarizados con los Vedas y el Vedānta  
+**Declara** que es el pariente, la madre, el padre, el gurú y la morada o el lugar de descanso ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मान्नारायणं बन्धुं मातरं पितरं गुरुम् । निवासं शरणञ्चाहुर्वेदवेदान्तपारगाः॥ (पाद्मोत्तरम्)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ् पडिये  
+तत्-पुरुष-समासम् आऩालुम्  
+निरुक्त-बलत्ताले अयन-शब्दम् पुल्लिङ्गम्।
+</details>
+
+<details><summary>English</summary>
+
+The pramāṇas are the above.  
 The word Nārāyaṇa may be considered also as a compound of the tatpurusha type (tatpurusha samāsa),  
 in which case it would be split into Narāṇam and ayanam (the abode of Nārās ).  
 It is true that the compound word should then be in the neuter gender Nārāyaṇam,  
 but by the authority of nirukti, the masculine form Nārāyaṇah is not improper.  
-The pramāṇas are the following :-  
+</details>
 
-> "He is also called Nārāyaṇa,  
-for He is the resting place or abode of Narās". 
+<details><summary>Español</summary>
 
-> "The multitude of all jīvas is called Nārās. Since Bhagavān is to be attained by them and is also the upāya for attaining Him, He is called Nara yana". "Nāra is so called because it means the multitude of jīvas which are indicated by the word nara. I am the goal to be attained by them; I am also the upāya for that attainment. Therefore am I called Nārāyaṇa by the seers." "The wise call the multitude of jīvas by the name Nāra. He is called Nārāyaṇa because He is their ayana (abode or resting place). Therefore those who are thoroughly conversant with the Vedas and the Vedānta declare Him to be the kinsman, the mother, the father, the guru and the abode or resting place."
+Los Pramāṇas **son** los anteriores.  
+La palabra nārāyaṇa **puede considerarse** también como un compuesto del tipo tatpurusha (tatpurusha samāsa),  
+en cuyo caso **se dividiría** en Narāṇam y Ayanam (la morada de Nārās).  
+**Es** cierto que la palabra compuesta **debería estar** en el género neutrero nārāyaṇam,  
+Pero por la autoridad de Nirukti, la forma masculina nārāyaṇah **no es** inadecuado.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये तत्पुरुषसमासमाऩालुम् निरुक्तबलत्ताले अयनशब्दम् पुल्लिङ्गम्।
+</details>
+
+
+### नरः
+<details><summary>English</summary>
 
 THE DERIVATION OF THE WORD NARA:
+</details>
 
-The verbal root ‘in’ means 'to perish'; so ra (in nara) denotes non-sentient things (i.e.) matter which perishes (i. e.) changes its essential nature (svarūpa). Nara therefore, denotes those that do not perish or change their essential nature (i.e.) chetanas (sentient beings, using the na samāsa on the analogy of words like Naga - which means .mountain', for it does not (na) go
+<details><summary>Español</summary>
 
-or move (ga) and naika, na-eka " not one" (1. c.) many'. So Nara means sentient beings only; nāra means the multitude of naras. Their ayanam (abode or resting place) is Nārāyaṇa. This declares that He who has under His control the three kinds of chetanas or sentient beings (the bound, the released and the eternal) and also nonsentient things, their essential nature (or existence) their sustenance, and their activity--He is, to the three kinds of multitudinous souls (the bound, the released and the eternal) who are denoted by the word nara, the Dispenser of what they desire. It says also that since He is blissful, He is, of his own accord, the upeya (i. e.) the object of attainment and is also the support or resting place (ādhāra), for it is said, “ Thus has it been explained how the three worlds have Viṣṇu as the ādhāra (resting place or abode)” and “He has entered into the three lokas, viz. the non-sentient, the sentient and the released souls and supports thern without undergoing any change."
+La **derivación** de la palabra nara:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु ‘‘रीङ् क्षये’’ ऎऩ्गिऱ धातुविले  
+"र" ऎऩ्ऱु  
+स्वरूप-विकारत्ताले क्षयिष्णुव् आऩव् अ-चित्-पदार्थत्तैच् चॊल्लि, 
+</details>
+
+<details><summary>English</summary>
+
+The verbal root ‘rin’ means 'to perish';  
+so ra (in nara) denotes non-sentient things (i.e.) matter which perishes - (i. e.) changes its essential nature (svarūpa). 
+</details>
+
+<details><summary>Español</summary>
+
+La raíz verbal "rin" **significa** "**perecer**";  
+Entonces RA (en NARA) **denota** cosas no sensibles (es decir)  
+que **perece** - (es decir) **cambia** su naturaleza esencial (svarūpa).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु ‘‘रीङ् क्षये’’ ऎऩ्गिऱ धातुविले र ऎऩ्ऱु स्वरूपविकारत्ताले क्षयिष्णुवाऩवचित्पदार्थत्तैच्चॊल्लि, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् वेऱु बट्टु स्व-रूप--विकार-रहितम् आऩ चेतन-वर्गत्तै  
+न-ग--नैकादि-शब्दम् पोले  
+न-समासम् आऩ न-र-शब्दत्ताले सॊल्लि, 
+</details>
+
+<details><summary>English</summary>
+
+Nara therefore, denotes those that do not perish or change their essential nature (i.e.) chetanas (sentient beings),  
+using the na samāsa  
+on the analogy of words like Naga - which means 'mountain',  
+for it does not (na) ga or move (ga)  
+and naika, na-eka " not one" (ie.) many.  
+</details>
+
+<details><summary>Español</summary>
+
+Nara, por lo tanto, **denota** aquellos que **no perecen** o **cambian** su naturaleza esencial (es decir) Chetanas (seres sintientes),  
+**Usando** la na samāsa  
+sobre la analogía de palabras como naga, que **significa** 'montaña',  
+porque no (na) ga o **se mueve** (ga)  
+y "Naika", Na-Eka "no uno" (es decir) muchos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिल् वेऱुबट्टु स्वरूपविकाररहितमाऩ चेतनवर्गत्तै नगनैकादिशब्दम् पोले नसमासमाऩ नरशब्दत्ताले सॊल्लि, 
+</details>
+
+
+
+So Nara means sentient beings only;  
+nāra means the multitude of naras. Their ayanam (abode or resting place) is Nārāyaṇa. This declares that He who has under His control the three kinds of chetanas or sentient beings (the bound, the released and the eternal) and also nonsentient things, their essential nature (or existence) their sustenance, and their activity--He is, to the three kinds of multitudinous souls (the bound, the released and the eternal) who are denoted by the word nara, the Dispenser of what they desire. It says also that since He is blissful, He is, of his own accord, the upeya (i. e.) the object of attainment and is also the support or resting place (ādhāra), for it is said, “ Thus has it been explained how the three worlds have Viṣṇu as the ādhāra (resting place or abode)” and “He has entered into the three lokas, viz. the non-sentient, the sentient and the released souls and supports thern without undergoing any change."
 
 How these meanings are traceable in the word ayana will now be explained :- The word ayana may be derived from the verbal root in (which means to go), in three ways: (1) īyate anena iti ayana). Ayana is that by which or with which one goes, where it refers to the instrument (karaṇa) or aid. ( When derived in this way) Iśvara becomes the upāya or means (2) iyate asau iti ayana) "That which is reached. In this derivation Iśvara becomes the upeya or object that is reached or attained: (3) īyato asmin iti ayana): "that in which it rests." In this derivation Iśvara becomes the support or ādhāra on which everything reste. Ayana may also be derived from the verbal root ay, which means "to go."
 
