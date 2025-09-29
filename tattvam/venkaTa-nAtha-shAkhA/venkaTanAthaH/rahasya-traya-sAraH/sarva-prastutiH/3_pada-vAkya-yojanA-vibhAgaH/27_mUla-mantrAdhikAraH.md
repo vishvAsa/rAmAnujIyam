@@ -16393,7 +16393,7 @@ Estos dos **se declaran** en los śrutis (es decir, en nārāyaṇānuvakam).
 इवैयिरण्डुम् श्रुतिसिद्धम्। 
 </details>
 
-
+#### व्याप्त्य्-अर्थौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तर्-व्याप्तिय् आवदु  
@@ -16423,11 +16423,270 @@ De tal manera que **no se puede decir** que
 अन्तर्व्याप्तियावदु इवैयुळ्ळ विडत्तिल् तऩ्ऩैयिल्लै यॆऩ्ऩ वॊण्णादबडि कलन्दु निऱ्कै। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**बहिर्-व्याप्तिय्** आवदु  
+इवैय् इल्लादव् इडत्तिलुम्  
+ऎङ्गुन् ताऩ् उळऩ् आगै। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Transcendence (bahirvyapti) means being present also in places where they are not present. 
+</details>
+
+<details><summary>Español</summary>
+
+La trascendencia (bahirvyapti) **significa estar presente** también en lugares donde **no están** presentes.
+</details>
+
+<details><summary>मूलम्</summary>
+
+बहिर्व्याप्तियावदु इवै यिल्लाद विडत्तिलुमॆङ्गुन् दाऩुळऩागै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विभुक्कळ् आऩ कालादिगळुक्कु  
+बहिर्-व्याप्ति सॊल्ल वेण्डा। 
+</details>
+<details><summary>English</summary>
+
+Such things as Time ( Kāla) are omnipresent (vibhu).  
+So it should not be stated that Iśvara is outside of them. 
+</details>
+
+<details><summary>Español</summary>
+
+Cosas como el tiempo (kāla) **son** omnipresentes (vibhu).  
+Por lo tanto, **no debe declararse** que Iśvara **está** fuera de ellos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+विभुक्कळाऩ कालादिगळुक्कु बहिर्व्याप्ति सॊल्लवेण्डा। 
+</details>
+
+#### अणीयस्त्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ८५‘‘नारायणम् अणीयांसम् अ-शेषाणाम् अणीयसां’’(विष्णुपुराणम् १-९-४१) 
+
+ऎऩ्ऱदु
+</details>
+
+<details><summary>English</summary>
+
+When it is said 
+
+> "Nārāyaṇa who is smaller (aṇiyaan) than all the smallest":  
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se dice** 
+
+> "Nārāyaṇa que **es** más pequeño (aṇiyaan) que el más pequeño":
+</details>
+
+<details><summary>मूलम्</summary>
+
+८५‘‘नारायणमणीयांसमशेषाणामणीयसां’’(विष्णुपुराणम् १-९-४१) ऎऩ्ऱदु
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्तर्-व्याप्तिक्क् अनुगुणम् आय् निऱ्किऱ +++(अन्तर्-व्याप्ति-)+++प्रतिघातानर्हत्वम्,  
+अल्लदु अणुपरिमाणत्वम् अऩ्ऱु। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+the meaning of the word (aṇu) is not 'of small size' but 'subtle'.  
+So the passage really means: “Nārāyaṇa who is subtler than all the subtle things ".  
+It means that  
+owing to His being subtle  
+nothing can prevent Him from being within them.
+</details>
+
+<details><summary>Español</summary>
+
+El **significado** de la palabra (aṇu) **no es** 'de tamaño pequeño', pero 'sutil'.  
+Entonces el pasaje realmente **significa**: 
+
+> "Nārāyaṇa que **es** más sutil que todas las cosas sutiles".
+
+**Significa** que  
+Debido a su **ser** sutil  
+Nada **puede evitar** que esté dentro de ellos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्तर्व्याप्तिक्कनुगुणमाय् निऱ्किऱ प्रतिघातानर्हत्वम्, अल्लदु अणुपरिमाणत्वमऩ्ऱु। 
+</details>
 
 
-Transcendence (bahirvyapti) means being present also in places where they are not present. Such things as Time ( Kāla) are omnipresent (vibhu). So it should not be stated that Iśvara is outside of them. When it is said "Nārāyaṇa who is smaller (aiyiin) than all the smallest: the meaning of the word (aṇu is not 'of small size' but subtle'. So the passage really means: “Nārāyaṇa who is subtler than all the subtle things ". It means that owing to His being subtle nothing can prevent Him from being within them,
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-In the śruti ( which says “ He is smaller than the grain called śyāmāka), the purport is that He is of the size of the object within Which He is present (i.e.) of the measure of the upādhi or conditioning factor, and this is distinctly stated in the Brahma sūtras and their commentary (Śrī Bhāṣyam). Being full and complete in every object, on the part of One who is both immanent and transcendent, means that that aspect or phase of His which is within any one upadhi or conditioning factor is capable of (creating, sustaining and destroying) and doing such other things to all things and beings. It does not mean that His essential nature is all contained (and exhausted) within any one object (to the exclusion of all others). If we understand it in that sense, it would be opposed to His transcendence. If we explain this by saying that Iśvara has the power of bringing together those which cannot be brought together (aghatitaghatanā śakti), it would be acceptance of the position of other systems (like Bhaskara's and Yadava prakasa's), which maintain the possibility of bringing together things which are opposed to each other (Bhaskara and Yađava prakasa say that difference and non-difference can coexist). Here in Tirumantra, when the Supreme Ruler of all is indicated by the first letter (of praṇava), the base nara of the word Nāras and the word ayana, all these words are purposely used to indicate His being the Protector and His being the ultimate  cause (in a), His being eternal and His being the netā (guide) (in the word nara) and His being the resting place or support and the inner self in the word (ayana) in different ways. (It should not be thought that these three mean the same thing and that two of them are therefore redundant).
+इदु सॊल्लुम् इडम्  
++++(परिमाणोक्तिः)+++ "+++(व्याप्य-)+++उपाध्य्-अवच्छेदत्तालेय्" ऎऩ्ऱु  
+सूत्र-भाष्यादि-सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+In the śruti ( which says “ He is smaller than the grain called śyāmāka"),  
+the purport is that He is of the size of the object within which He is present  
+(i.e.) of the measure of the upādhi or conditioning factor,  
+and this is distinctly stated in the Brahma sūtras and their commentary (Śrī Bhāṣyam). 
+</details>
+
+<details><summary>Español</summary>
+
+En el śruti (que **dice** "**es** más pequeño que el grano **llamado** śyāmāka"),  
+El **significado es** que **es** del tamaño del objeto dentro del cual **está** presente  
+(**es decir**) de la **medida** del factor upādhi o factor de **acondicionamiento**,  
+y esto **se establece** claramente en el Brahma Sūtras y su **comentario** (śrī bhāṣyam).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु सॊल्लुमिडम् उपाध्यवच्छेदत्ताले यॆऩ्ऱु सूत्रभाष्यादिसिद्धम्। 
+</details>
+
+
+#### निर्वाह-शक्तिमत्ता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(कर्तरि क्तः, ब्रह्म→)+++ व्याप्तऩुक्कु प्रतिवस्तु-पूर्णत्वम् आवदु  
+ऒर्-ओरु उपाध्य्-अवच्छिन्न-प्रदेशमे  
++++(सृष्टि-स्थिति-लयाः→)+++ सर्वत्तैयुम् निर्वहिक्क वल्ल  
+शक्तिय्-उडैत्त् आय् इरुक्कै; 
+</details>
+
+<details><summary>English</summary>
+
+Being full and complete in every object,  
+on the part of One who is both immanent and transcendent,  
+means that that aspect or phase of His  
+which, ~~is~~ within any one upadhi or conditioning factor,  
+is capable of (creating, sustaining and destroying)  
+and doing such other things to all things and beings. 
+</details>
+
+<details><summary>Español</summary>
+
+**Estar** lleno y completo en cada objeto,  
+Por parte de alguien que **es** inmanente y trascendente,  
+**significa** que ese aspecto o fase de su  
+que, ~~ está ~~ dentro de cualquiera upadhi o factor de acondicionamiento,  
+**es capaz** de (**crear, sostener** y **destruir**)  
+Y **hacer** esas otras cosas a todas las cosas y seres.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+व्याप्तऩुक्कु प्रतिवस्तुपूर्णत्वमावदु ऒरोरु उपाध्यवच्छिन्नप्रदेशमे सर्वत्तैयुम् निर्वहिक्क वल्ल शक्तियुडैत्तायिरुक्कै; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लदु वस्तु-तोऱुम्+++(=प्रति)+++ स्वरूप-समाप्तिय् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+It does not mean that His essential nature is all contained (and exhausted) within any one object (to the exclusion of all others). 
+</details>
+
+<details><summary>Español</summary>
+
+**No significa** que su naturaleza esencial **esté contenida** (y agotada) dentro de un objeto (con la exclusión de todos los demás).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अल्लदु वस्तुतोऱुम् स्वरूपसमाप्तियऩ्ऱु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु कॊळ्ळिल् बहिर्-व्याप्तिक्कु विरुद्धमाम्।
+</details>
+
+<details><summary>English</summary>
+
+If we understand it in that sense, it would be opposed to His transcendence. 
+</details>
+
+<details><summary>Español</summary>
+
+Si lo **entendemos** en ese sentido,  
+**se opondría** a su trascendencia.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु कॊळ्ळिल् बहिर्व्याप्तिक्कु विरुद्धमाम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्तै अ-घटित--घटना-शक्तियाले निर्वहिक्किल्  
++++(भेदाभेदादि-)+++विरुद्ध-समुच्चयङ् कॊळ्ळुम् पर-मतङ्गळिऱ् पडिय् आम्। +++(5)+++
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अन्तर्-व्याप्तौ पर-(लोकाचार्यानुग?)विवरणे साधूक्तम् इदम् । 
+
+> ननु श्रीमद्-रामानुजाचार्याः
+> 
+> > "भेदो वा अभेदो वा  
+> द्व्य्-आत्मकता वा  
+> कोऽयम् अर्थः समर्थितः " ?
+> 
+> इति प्रश्नम् उत्थाप्य
+> 
+> > "सर्वस्यापि वेदवेद्यत्वात्  
+> सर्वं समर्थितम्"
+> 
+> इति वदन्ति ?
+
+अत्र शरीरि-शरीर-भावेन भेदो ऽभेदश् चोक्तः।  
+अतो नात्र विरुद्ध-समुच्चयः।  
+न चाघटित-घटना-शक्तिर् आश्रिता रामानुजेन।  
+शरीरि-शरीर-भावम् अन्तरा तु भास्कर-यादवप्रकाशाभ्यां भेदाभेद-समुच्चयः कृतः। 
+</details>
+
+<details><summary>English</summary>
+
+If we explain this by saying that Iśvara has the power of bringing together those which cannot be brought together (aghatitaghatanā śakti),  
+it would be acceptance of the position of other systems (like Bhaskara's and Yadava prakasa's),  
+which maintain the possibility of bringing together things which are opposed to each other  
+(Bhaskara and Yadava prakasa say that difference and non-difference can coexist). 
+</details>
+
+<details><summary>Español</summary>
+
+Si **explicamos** esto **diciendo** que Iśvara **tiene** el poder de **reunir** a los que **no se pueden** unir (aghatitaghatanā śakti),  
+**Sería aceptación** de la posición de otros sistemas (como el de Bhaskara y Yadava Prakasa),  
+que **mantienen** la posibilidad de **reunir** cosas que **se oponen**  
+(Bhaskara y Yadava Prakasa **dicen** que la diferencia y la no diferencia **pueden coexistir**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्तै अघटितघटनाशक्तियाले निर्वहिक्किल् विरुद्धसमुच्चयङ्गॊळ्ळुम् परमतङ्गळिऱ्पडियाम्। 
+</details>
+
+
+
+
+Here in Tirumantra, when the Supreme Ruler of all is indicated by the first letter (of praṇava), the base nara of the word Nāras and the word ayana, all these words are purposely used to indicate His being the Protector and His being the ultimate  cause (in a), His being eternal and His being the netā (guide) (in the word nara) and His being the resting place or support and the inner self in the word (ayana) in different ways. (It should not be thought that these three mean the same thing and that two of them are therefore redundant).
 
 If it be asked: "While the Cetana or sentient being is already indicated by the third letter of praṇava (m), why should it be mentioned again in the word Nara (in Nārāyaṇa)". The answer is as follows: "I do not exist without Thee, (my support); Thou dost not exist without me, (for I bring out Thy character:) " "Rāma's younger brother (Lakṣmaṇa), and Lakṣmaṇa's elder brother". (In the two passages mentioned above, there is apparent repetition, but it is not a fault since it serves a definite purpose). (In the first passage ), the first part of the sentence emphasises the importance of the śeṣī and the second emphasises the importance of the śeṣa; so also (in the secodd. passage ) Rāma's importance is hinted at in Rāmānuja (Rāma's younger brother) and Lakṣmaṇa's importance is hinted at in Lakṣmaṇapurvaja (Lakṣmaṇa's elder brother): Thus each is characterised by the other. In the praṇava, the śeṣī's inportance is prominent as in the chariot of Arjuna ( where Arjuna is prominent and Śrī Kṛṣṇa is not, being only the charioteer ); in the word Nārāyaṇa, the śeṣī's importance is prominent as in the Rasamandala (the Rasakrida described in the Bhāgavatam), where Śrī Kṛṣṇa is all-important and the Gopis not so.
 
