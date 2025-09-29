@@ -448,7 +448,7 @@ he says that it goes astray in the instance of ‘liṅ’ the optative itself.
 
 +++("स्वर्गकामो ज्योतिष्टोमेन यजेते"ति यथा )+++  
 लिङ्-आदयो हि +++(स्वर्गकामना याजके←)+++ परिनिष्ठिताधिकाराद्य्-अनुबन्ध-संबन्धिनम् एव स्वार्थम् अभिदधति ।
-</details>
+</details> 
 
 <details><summary>Buitenen</summary>
 
