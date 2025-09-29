@@ -17,7 +17,7 @@ title = "१२ ब्रह्म-सूत्रे ऽङ्गीकार�
 who oppose the Author's own accepted doctrine, are unnatural219 because they conflict with Revelation and logic. 
 
 [218]: In BrS., 2,2.
-[219]: asamañjasya, taken from BrS., 2.2.37.
+[219]: asāmañjasya, taken from BrS., 2.2.37.
 </details>
 
 
@@ -610,7 +610,7 @@ Or, we state an alternative explation for the two sutras.
 
 103\. ~~As to the other explanation that has been given of these two Sūtras,220 
 
-[220]: supra 5596, 97.
+[220]: supra §§96, 97.
 </details>
 
 
@@ -642,7 +642,7 @@ since it is vijñānādi, i.e. "a ground for validity",221 the denial of the val
 
 <details><summary>Buitenen - Note</summary>
 
-[221]: ie., as a fat purusa compound "the beginning (source) of (valid) knowledge:" aijāānddibkor "since He (God) is a source of valid knowledge." 
+[221]: ie., as a tatpuruṣa compound "the beginning (source) of (valid) knowledge:" vijñānādibhāve "since He (God) is a source of valid knowledge." 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -999,7 +999,7 @@ Karaṇa here in the sense of "things that are made or produced",
 by the rule "suffix lyuṭ" in the sense of the object of the action.223  
 This then means that the Vedas are preterhuman.
 
-[223]: Karmani Lyu! Papini.
+[223]: karmaṇi lyuṭ Pāṇini.
 
 [[88]]
 

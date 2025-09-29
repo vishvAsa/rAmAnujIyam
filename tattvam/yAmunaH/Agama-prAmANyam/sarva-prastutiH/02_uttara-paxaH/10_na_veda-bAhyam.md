@@ -808,7 +808,7 @@ Being consistent with Rk, Yajuh and Saman and the Atharvāngirasas,
 
 this discipline will of a certainty be authoritative.204
 
-[204]: Mahabharata, 12 340 (129.76) ff.
+[204]: Mahābhārata, 12 340 (129.76) ff.
 </details>
 
 
@@ -861,7 +861,7 @@ And in the Bhismaparvan too:
 according to the Satvata ritual that has been promulgated by Samkarṣaṇa,  
 at the end of the Dvapara age and the beginning of the Kali age."205 
 
-[205]: Mahabharata, 6.66 (3012). 
+[205]: Mahābhārata, 6.66 (3012). 
 </details>
 
 
@@ -925,7 +925,7 @@ Also in the Śāntiparvan:
 
 One should consecrate a Brahmin in spring, a Kṣatriya in summer, a Vaiśya in the autumn, a Śūdra in winter, a woman in the rainy season according to the Pañcarātra doctrine."206 
 
-[206]: Mahabharata not identified.  
+[206]: Mahābhārata not identified.  
 </details>
 
 
@@ -949,7 +949,7 @@ One should consecrate a Brahmin in spring, a Kṣatriya in summer, a Vaiśya in 
 
 And likewise: "It has been made commensurate with the four Vedas on the great Mountain Meru."207 
 
-[207]: Mahabharata not identified.
+[207]: Mahābhārata not identified.
 </details>
 
 

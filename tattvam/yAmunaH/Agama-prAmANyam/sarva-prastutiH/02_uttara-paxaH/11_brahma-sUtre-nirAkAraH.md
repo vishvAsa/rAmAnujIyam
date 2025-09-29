@@ -155,7 +155,7 @@ REPLY. NO. The personal manifestation of God is described as being constituted b
 
 <details><summary>Buitenen - Notes</summary>
 
-[209]: 'Divisions' of the Supreme God as Vasudeva, Sankarṣapa, Pradyumna and Aniruddha.
+[209]: 'Divisions' of the Supreme God as Vāsudeva, Saṃkarṣaṇa, Pradyumna and Aniruddha.
 </details>
 
 
@@ -321,7 +321,7 @@ To be identified.
 
 Besides, the words 'individual soul,' 'mind' and 'ego' do not denote these tanmātras210 themselves, but refer to a person who is the superintending deity of these orders and whose personality is entirely different from the order he superintends. 
 
-[210]: tanmatras here in the sense of the "higher evolutes." 
+[210]: tanmātras here in the sense of the "higher evolutes." 
 </details>
 
 
@@ -343,7 +343,7 @@ Besides, the words 'individual soul,' 'mind' and 'ego' do not denote these tanm�
 
 Birth is described as the acquisition of various bodies, as is said in the statement toyena jīvān in the Yajurmūrdhan.211 
 
-[211]: toyena jivān visasarja bhūmyām, MahānārUp., 1.4.
+[211]: toyena jīvān visasarja bhūmyām, MahānārUp., 1.4.
 </details>
 
 
@@ -420,7 +420,7 @@ an issue which does not need being made a topic would then be made a topic.
 
 <details><summary>Buitenen - Notes</summary>
 
-[213]: BrS., 2.3.17 (18). Translation: "The atman is not born because there is no śruti to that effect, and because of its eternality, which is proved by the śrutis."
+[213]: BrS., 2.3.17 (18). Translation: "The ātman is not born because there is no śruti to that effect, and because of its eternality, which is proved by the śrutis."
 </details>
 
 
@@ -551,7 +551,7 @@ OBJECTION. Then why this sūtra at all?
 
 REFUTATION. Well, then you reject the general view that all instruments, vital airs, mind etc. have their origin in Brahman which itself is without the entire collection of all instruments and rests solely on its own power; this view is stated in the text: "From it springs the vital air, the mind and all the senses."215 
 
-[215]: Mund Up., 2.1.3.
+[215]: Muṇḍ Up., 2.1.3.
 </details>
 
 
