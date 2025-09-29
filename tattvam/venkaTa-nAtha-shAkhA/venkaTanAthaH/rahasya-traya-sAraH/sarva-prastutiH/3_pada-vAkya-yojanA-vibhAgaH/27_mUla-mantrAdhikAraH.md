@@ -15632,9 +15632,9 @@ y que para que él **pueda hacerlo**,
 <details><summary>विश्वास-टिप्पनी</summary>
 
 अत्रायनस्य नार-सामानाधिकरण्यम् उक्तम्।  
-किञ्च, अयनस्य ब्रह्म-विशेषणत्वे ऽपि  
+किञ्च, तत्-पुरुष-समासे ऽयनस्य ब्रह्म-विशेषणत्वे ऽपि  
 कर्माधिकरणाभ्याम् अपि  
-व्याकत्वं सिध्यति,  
+व्यापकत्वं सिध्यति,  
 लय-सूचनया सूक्ष्मत्वम् अपि। 
 </details>
 
@@ -15913,7 +15913,7 @@ Pero por la autoridad de Nirukti, la forma masculina nārāyaṇah **no es** ina
 </details>
 
 
-### नरः
+#### नरः
 <details><summary>English</summary>
 
 THE DERIVATION OF THE WORD NARA:
@@ -15965,6 +15965,8 @@ using the na samāsa
 on the analogy of words like Naga - which means 'mountain',  
 for it does not (na) ga or move (ga)  
 and naika, na-eka " not one" (ie.) many.  
+
+So Nara means sentient beings only;  
 </details>
 
 <details><summary>Español</summary>
@@ -15974,6 +15976,8 @@ Nara, por lo tanto, **denota** aquellos que **no perecen** o **cambian** su natu
 sobre la analogía de palabras como naga, que **significa** 'montaña',  
 porque no (na) ga o **se mueve** (ga)  
 y "Naika", Na-Eka "no uno" (es decir) muchos.
+
+Entonces Nara **significa** seres sensibles solamente;
 </details>
 
 
@@ -15982,14 +15986,446 @@ y "Naika", Na-Eka "no uno" (es decir) muchos.
 अदिल् वेऱुबट्टु स्वरूपविकाररहितमाऩ चेतनवर्गत्तै नगनैकादिशब्दम् पोले नसमासमाऩ नरशब्दत्ताले सॊल्लि, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिऩ् समूहङ्गळै नार-शब्दत्ताले सॊल्लि, 
+</details>
+
+<details><summary>English</summary>
+
+nāra means the multitude of naras. 
+</details>
+
+<details><summary>Español</summary>
+
+Nara **significa** la multitud de Naras.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदिऩ् समूहङ्गळै नारशब्दत्ताले सॊल्लि, 
+</details>
+
+#### अयनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द समूहङ्गळुक्कु अयनं ऎऩ्गिऱव् इत्ताल्  
+स्वाधीन-- त्रि-विध-चेतनाचेतन-- स्वरूप-स्थिति-प्रवृत्ति-भेदऩ् आऩवऩ् 
+</details>
+
+<details><summary>English</summary>
+
+Their ayanam (abode or resting place) is Nārāyaṇa.  
+This declares that He who has under His control  
+the three kinds of chetanas or sentient beings (the bound, the released and the eternal)  
+and also nonsentient things,  
+their essential nature (or existence) their sustenance, and their activity--
+</details>
+
+<details><summary>Español</summary>
+
+Su "ayanam" (morada o lugar de descanso) es Nārāyaṇa.  
+Esto **declara** que el que **tiene** bajo su **control**  
+Los tres tipos de chetanas o seres sintientes (el límite, el liberado y el eterno)  
+y también cosas no influyentes,  
+su naturaleza esencial (o existencia) su sustento y su actividad
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द समूहङ्गळुक्कु अयनं ऎऩ्गिऱवित्ताल् स्वाधीन त्रिविध चेतनाचेतन स्वरूपस्थितिप्रवृत्तिभेदऩाऩवऩ् 
+</details>
 
 
-So Nara means sentient beings only;  
-nāra means the multitude of naras. Their ayanam (abode or resting place) is Nārāyaṇa. This declares that He who has under His control the three kinds of chetanas or sentient beings (the bound, the released and the eternal) and also nonsentient things, their essential nature (or existence) their sustenance, and their activity--He is, to the three kinds of multitudinous souls (the bound, the released and the eternal) who are denoted by the word nara, the Dispenser of what they desire. It says also that since He is blissful, He is, of his own accord, the upeya (i. e.) the object of attainment and is also the support or resting place (ādhāra), for it is said, “ Thus has it been explained how the three worlds have Viṣṇu as the ādhāra (resting place or abode)” and “He has entered into the three lokas, viz. the non-sentient, the sentient and the released souls and supports thern without undergoing any change."
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-How these meanings are traceable in the word ayana will now be explained :- The word ayana may be derived from the verbal root in (which means to go), in three ways: (1) īyate anena iti ayana). Ayana is that by which or with which one goes, where it refers to the instrument (karaṇa) or aid. ( When derived in this way) Iśvara becomes the upāya or means (2) iyate asau iti ayana) "That which is reached. In this derivation Iśvara becomes the upeya or object that is reached or attained: (3) īyato asmin iti ayana): "that in which it rests." In this derivation Iśvara becomes the support or ādhāra on which everything reste. Ayana may also be derived from the verbal root ay, which means "to go."
+नर-शब्द-वाच्यर् आऩ +++(नित्य-मुक्ता, मुक्ता, बद्धा इति)+++ त्रि-विधात्माक्कळ्-उडैय  
+समूहङ्गळुक्कुम् अपेक्षित+++(-प्राप्ति)+++-हेतुवाय् 
+</details>
 
-It is evident that Iśvara has in Him the qualities necessary for being the upāya, the upeya and the like, viz., easy accessibility (saulabhyam) and being supreme (paratvam). When ayana means 'abode', if we take Nārāyaṇa to be a bahuvrihi compound ( Nārāh Ayanam Yasya) (He whose abode is Nārās ), it is considered to indicate that Nārāyaṇa pervades all things and beings within them (i, e.) that He is immanent within them. If we take Nārāyaṇa to be a tatpurusha compound (Nārāṇam ayanam: the abode of Nārās, the (compound) word indicates that He pervades them froin without (they being within Him) (i.e.) that He is transcendent. These two are declared in the śrutis (i.e.) in Nārāyaṇānuvakam) Immanence (or antarvyāpti) means being present inseparably connected with other things and beings in such a way that it cannot be said that He is not present where they are: Transcendence (bahirvyapti) means being present also in places where they are not present. Such things as Time ( Kāla) are omnipresent (vibhu). So it should not be stated that Iśvara is outside of them. When it is said "Nārāyaṇa who is smaller (aiyiin) than all the smallest: the meaning of the word (aṇu is not 'of small size' but subtle'. So the passage really means: “Nārāyaṇa who is subtler than all the subtle things ". It means that owing to His being subtle nothing can prevent Him from being within them,
+<details><summary>English</summary>
+
+He is,  
+to the three kinds of multitudinous souls (the bound, the released and the eternal) who are denoted by the word nara,  
+the Dispenser of what they desire. 
+</details>
+
+<details><summary>Español</summary>
+
+Él **es**,  
+a los tres tipos de almas multitudinarias (The Bound, The Liteed and the Eternal) que **son denotadas** por la palabra nara,  
+El **dispensador** de lo que **desean**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नरशब्दवाच्यराऩ त्रिविधात्माक्कळुडैय समूहङ्गळुक्कुमपेक्षितहेतुवाय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वयं-भोग्यतैयाले उपेयमुम् आय्
+</details>
+
+<details><summary>English</summary>
+
+It says also that since He is blissful,  
+He is, of his own accord, the upeya (i. e.) the object of attainment  
+</details>
+
+<details><summary>Español</summary>
+
+Dice también que, dado que **es** feliz,  
+Él **es**, por su propia **cuenta**, el upeya (i. E.) El objeto de **logro**
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वयं भोग्यतैयाले उपेयमुमाय्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘विष्ण्व्-आधारं यथा चैतत्  
+त्रैलोक्य-समुपस्थितं’’  
+(विष्णुपुराणम् २-१३-२),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘विष्ण्व्-आधारं यथा चैतत्  
+त्रैलोक्य-समुपस्थितं’’  
+(विष्णुपुराणम् २-१३-२),
+</details>
+ 
+<details><summary>English</summary>
+
+and for it is said, 
+
+> “ Thus has it been explained how the three worlds have Viṣṇu as the ādhāra (resting place or abode)” 
+</details>
+
+<details><summary>Español</summary>
+
+y porque **se dice** 
+
+> "Así **se ha explicado** cómo los tres mundos **tienen** Viṣṇu como el ādhāra (lugar de **descanso** o morada)"
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘विष्ण्वाधारं यथाचैतत् त्रैलोक्य समुपस्थितं’’(विष्णुपुराणम् २-१३-२),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यो लोक-त्रयम् आविश्य  
+**बिभर्त्य्** अव्यय ईश्वर’’  
+(गीता १५-१७) 
+
+इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यो लोक-त्रयम् आविश्य  
+**बिभर्त्य्** अव्यय ईश्वर’’  
+(गीता १५-१७) 
+
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> “He has entered into the three lokas, viz. the non-sentient, the sentient and the released souls  
+and supports them without undergoing any change."
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> “**Ha entrado** en los tres Lokas, a saber.  
+y los **apoya sin someterse** a ningún cambio ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वर’’(गीता १५-१७) इत्यादिगळिऱ्पडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आधारमुम् आय् इरुक्किऱ बडि  
+सॊल्लप् पट्टदु।
+</details>
+
+<details><summary>English</summary>
+
+is also the support or resting place (ādhāra). 
+</details>
+
+<details><summary>Español</summary>
+
+es también el **apoyo** o el lugar de **descanso** (ādhāra).
+</details>
+
+<details><summary>मूलम्</summary>
+
+आधारमुमायिरुक्किऱबडि सॊल्लप्पट्टदु।
+</details>
+
+
+##### इण्-धातोः
+###### उपायः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ऎङ्ङऩेय्" ऎऩ्ऩिल्;  
+‘‘इण् गतौ’’ ऎऩ्गिऱ धातुविले  
+‘‘ईयते अनेन’’ ऎऩ्ऱु अयन-शब्दत्तिल्  
+करण-व्युत्पत्तियाले ईश्वरऩ् उपायम् आयुम्,
+</details>
+
+<details><summary>English</summary>
+
+How these meanings are traceable in the word ayana will now be explained :- 
+
+The word ayana may be derived from the verbal root in (which means to go), in three ways: 
+
+(1) "īyate anena iti ayana".  
+Ayana is that by which or with which one goes,  
+where it refers to the instrument (karaṇa) or aid.  
+( When derived in this way)  
+Iśvara becomes the upāya or means 
+</details>
+
+<details><summary>Español</summary>
+
+Cómo estos **significados son rastreables** en la palabra Ayana ahora **se explicará**:-
+
+La palabra ayana **puede derivarse** de la raíz verbal en (lo que significa ir), de tres maneras: 
+
+(1) "īyate anena iti ayana".  
+Ayana **es** aquello por el cual o con el cual uno **va**,  
+donde **se refiere** al instrumento (karaṇa) o **ayuda**.  
+(Cuando **se deriva** de esta manera)  
+Iśvara **se convierte** en el upāya o medios
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; ‘‘इण् गतौ’’ ऎऩ्गिऱ धातुविले ‘‘ईयते अनेन’’ ऎऩ्ऱु अयनशब्दत्तिल् करणव्युत्पत्तियाले ईश्वरऩुबायमायुम्,
+</details>
+
+
+###### उपेयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘ईयतेऽसौ’’ ऎऩ्गिऱ कर्म-व्युत्पत्तियाले  
+उपेयम् आयुम्,
+</details>
+
+<details><summary>English</summary>
+
+(2) "iyate asau iti ayana"  
+"That which is reached."  
+In this derivation Iśvara becomes the upeya or object that is reached or attained. 
+</details>
+
+<details><summary>Español</summary>
+
+(2) "iyate asau iti ayana"  
+"Lo que **se alcanza**".  
+En esta **derivación**, iśvara **se convierte** en el upeya u objeto que **se alcanza**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘ईयतेऽसौ’’ ऎऩ्गिऱ कर्मव्युत्पत्तियाले उपेयमायुम्,
+</details>
+
+
+###### आधारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘ईयते अस्मिन्’’ ऎऩ्गिऱ अधिकरण-व्युत्पत्तियाले  
+आधारम् आयुन् दोऱ्ऱुगिऱाऩ्। 
+</details>
+
+<details><summary>English</summary>
+
+> (3) "īyate asmin iti ayana":  
+"that in which it rests." 
+
+In this derivation Iśvara becomes the support or ādhāra on which everything rests. 
+</details>
+
+<details><summary>Español</summary>
+
+> (3) "īyate asmin iti ayana":  
+"aquello en el que **descansa**". 
+
+En esta **derivación**, Iśvara **se convierte** en el **apoyo** o ādhāra en el que todo **descansa**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘ईयते अस्मिन्’’ ऎऩ्गिऱ अधिकरणव्युत्पत्तियाले आधारमायुन्दोऱ्ऱुगिऱाऩ्। 
+</details>
+
+##### अय-धातोः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘अय पय गतौ’’ ऎऩ्गिऱ अयति धातुविलुम् इव्वयनपदम् निष्पन्नमाम्। 
+</details>
+
+
+<details><summary>English</summary>
+
+Ayana may also be derived from the verbal root ay, which means "to go."
+</details>
+
+<details><summary>Español</summary>
+
+Ayana también **puede derivarse** de la raíz verbal Ay,  
+lo que **significa "ir"**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अय पय गतौ’’ ऎऩ्गिऱ अयति धातुविलुम् इव्वयनपदम् निष्पन्नमाम्। 
+</details>
+
+##### परत्व-सौलभ्ये
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-उपायत्वोपेयत्वादिगळुक्क् उपयुक्तम् आऩ सौलभ्यमुम् परत्वमुम् इङ्गे सिद्धम्।
+</details>
+
+<details><summary>English</summary>
+
+It is evident that Iśvara has in Him the qualities necessary for being the upāya, the upeya and the like,  
+viz., easy accessibility (saulabhyam)  
+and being supreme (paratvam). 
+</details>
+
+<details><summary>Español</summary>
+
+**Es evidente** que Iśvara **tiene** en él las cualidades **necesarias** para **ser** el upāya, el upeya y similares,  
+a **saber**, fácil **accesibilidad** (saulabhyam)  
+y **ser** supremo (paratvam).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वुपायत्वोपेयत्वादिगळुक्कुपयुक्तमाऩ सौलभ्यमुम् परत्वमुमिङ्गे सिद्धम्।
+</details>
+
+### अयनतो व्याप्ती
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अयनम् ऎऩ्ऱु वास-स्थानम् आय्  
+अप्-पोदु बहु-व्रीहि-समासत्ताले अन्तर्-व्याप्तियुम्,  
+तत्पुरुषऩाले बहिर्-व्याप्तियुन् दोऱ्ऱुगिऱद्  
+ऎऩ्ऱुम् अनुसन्धिप्पार्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+When ayana means 'abode',  
+if we take Nārāyaṇa to be a bahuvrihi compound ( Nārāh Ayanam Yasya) (He whose abode is Nārās ),  
+it is considered to indicate that  
+Nārāyaṇa pervades all things and beings within them  
+(i. e.) that He is immanent within them. 
+
+If we take Nārāyaṇa to be a tatpurusha compound (Nārāṇam ayanam: the abode of Nārās,  
+the (compound) word indicates that He pervades them from without  
+(they being within Him)  
+(i.e.) that He is transcendent. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando "ayana" **significa** 'morada',  
+Si **tomamos** nārāyaṇa como un compuesto de bahuvrihi ("nārāh ayanam yasya") (aquel cuya morada **es** nārās),  
+**se considera** que **indica** que  
+Nārāyaṇa **impregna** todas las cosas y seres dentro de ellos  
+(i. e.) Que él **es** inmanente dentro de ellos. 
+
+Si **tomamos** nārāyaṇa como un compuesto de tatpurusha (nārāṇam ayanam: la morada de nārās,  
+La palabra (compuesta) **indica** que los **impregna** externamente  
+(**Están** dentro de él)  
+(es decir) que él **es** trascendente.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+अयनमॆऩ्ऱु वासस्थानमाय् अप्पोदु बहुव्रीहिसमासत्ताले अन्तर्व्याप्तियुम् तत्पुरुषऩाले बहिर्व्याप्तियुन् दोऱ्ऱुगिऱदॆऩ्ऱुमनुसन्धिप्पार्गळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् इरण्डुम् श्रुति-सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+These two are declared in the śrutis (i.e. in Nārāyaṇānuvakam).
+</details>
+
+<details><summary>Español</summary>
+
+Estos dos **se declaran** en los śrutis (es decir, en nārāyaṇānuvakam).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवैयिरण्डुम् श्रुतिसिद्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्तर्-व्याप्तिय् आवदु  
+इवैय् उळ्ळव् इडत्तिल्  
+तऩ्ऩैय् इल्लैय् ऎऩ्ऩव् ऒण्णाद बडि कलन्दु निऱ्कै। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Immanence (or antarvyāpti) means  
+being present inseparably connected with other things and beings  
+in such a way that it cannot be said that  
+He is not present where they are. 
+</details>
+
+<details><summary>Español</summary>
+
+La inmanencia (o antarvyāpti) **significa**  
+**estar presente** inseparablemente **conectado** con otras cosas y seres  
+De tal manera que **no se puede decir** que  
+**No está presente** donde **están**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्तर्व्याप्तियावदु इवैयुळ्ळ विडत्तिल् तऩ्ऩैयिल्लै यॆऩ्ऩ वॊण्णादबडि कलन्दु निऱ्कै। 
+</details>
+
+
+
+Transcendence (bahirvyapti) means being present also in places where they are not present. Such things as Time ( Kāla) are omnipresent (vibhu). So it should not be stated that Iśvara is outside of them. When it is said "Nārāyaṇa who is smaller (aiyiin) than all the smallest: the meaning of the word (aṇu is not 'of small size' but subtle'. So the passage really means: “Nārāyaṇa who is subtler than all the subtle things ". It means that owing to His being subtle nothing can prevent Him from being within them,
 
 In the śruti ( which says “ He is smaller than the grain called śyāmāka), the purport is that He is of the size of the object within Which He is present (i.e.) of the measure of the upādhi or conditioning factor, and this is distinctly stated in the Brahma sūtras and their commentary (Śrī Bhāṣyam). Being full and complete in every object, on the part of One who is both immanent and transcendent, means that that aspect or phase of His which is within any one upadhi or conditioning factor is capable of (creating, sustaining and destroying) and doing such other things to all things and beings. It does not mean that His essential nature is all contained (and exhausted) within any one object (to the exclusion of all others). If we understand it in that sense, it would be opposed to His transcendence. If we explain this by saying that Iśvara has the power of bringing together those which cannot be brought together (aghatitaghatanā śakti), it would be acceptance of the position of other systems (like Bhaskara's and Yadava prakasa's), which maintain the possibility of bringing together things which are opposed to each other (Bhaskara and Yađava prakasa say that difference and non-difference can coexist). Here in Tirumantra, when the Supreme Ruler of all is indicated by the first letter (of praṇava), the base nara of the word Nāras and the word ayana, all these words are purposely used to indicate His being the Protector and His being the ultimate  cause (in a), His being eternal and His being the netā (guide) (in the word nara) and His being the resting place or support and the inner self in the word (ayana) in different ways. (It should not be thought that these three mean the same thing and that two of them are therefore redundant).
 
