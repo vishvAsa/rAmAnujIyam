@@ -17,7 +17,7 @@ Hence we reject our opponent's position. [[61]]
 76\. The objections152 that omniscience is acquired by means of the regular senses is incorrect,153 
 
 [152]: supra §42.
-[153]: read ity asal[[??]] for iti yat.[[??]]
+[153]: read ity asat for iti yat.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -502,7 +502,7 @@ the human importance of statements without injunctions is quite clear from these
 
 <details><summary>Buitenen - Note</summary>
 
-[161]: This must refer to Taitt Up. 2.1.1 so'śnute[[??]] sarvān kāmān saha brahmaṇā vipaścitā, but sa sāmagaḥ is obscure, unless one may regard it as a corruption of vipaścitā.
+[161]: This must refer to Taitt Up. 2.1.1 so'śnute sarvān kāmān saha brahmaṇā vipaścitā, but sa sāmagaḥ is obscure, unless one may regard it as a corruption of vipaścitā.
 </details>
 
 <details><summary>मूलम्</summary>

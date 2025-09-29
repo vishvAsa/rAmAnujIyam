@@ -559,7 +559,7 @@ even so
 
 <details><summary>Buitenen - Note</summary>
 
-[137]: Misra's text here has yady api pravillyanupapattisamadhigamanīyaiva śabdaśaktis [[??]]"the denoting power of language is to be known only through the impossibility of operation,"  which makes no sense. The reading must be corrupt, in anu papatti we may find a corruption of vyutpati,in pravṛtti[[??]] perhaps a corruption of kāryārthe or kāryārtha-.  I read conjecturally kāryārtha vyutpattisamadhi gamanīyaiva, which gives the required sense.
+[137]: Misra's text here has yady api vṛttyanupapattisamadhigamanīyaiva śabdaśaktis "the denoting power of language is to be known only through the impossibility of operation,"  which makes no sense. The reading must be corrupt, in anu papatti we may find a corruption of vyutpati,in pravṛtti perhaps a corruption of kāryārthe or kāryārtha-.  I read conjecturally kāryārtha vyutpattisamadhi gamanīyaiva, which gives the required sense.
 </details>
 
 ## व्युत्पन्न-प्रयोगे कार्यानपेक्षा
@@ -939,7 +939,7 @@ In such cases we surely must assume lakṣaṇā.141
 
 <details><summary>Buitenen - Note</summary>
 
-[141]: Yāmuna objects that we cannot have two altogether different denoting powers in langauge, one to convey a[[??]] transitory thing, another to convey a non-transitory thing. The only possible explanation is that of lakṣaṇa "figurative usage," which remains related to the mukhyā vṛttiḥ "principal usage." But he will deny the entire construction (67).
+[141]: Yāmuna objects that we cannot have two altogether different denoting powers in langauge, one to convey a transitory thing, another to convey a non-transitory thing. The only possible explanation is that of lakṣaṇa "figurative usage," which remains related to the mukhyā vṛttiḥ "principal usage." But he will deny the entire construction (67).
 </details>
 
 <details><summary>मूलम्</summary>
