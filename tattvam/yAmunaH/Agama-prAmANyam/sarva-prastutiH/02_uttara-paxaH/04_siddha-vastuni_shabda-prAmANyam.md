@@ -458,7 +458,7 @@ since these suffixes denote their own meanings as connected, not with kārya, bu
 
 <details><summary>Buitenen - Note</summary>
 
-[135]: Yamuna's argument is that the injunctive, etc. termina tions of the verb denote the injunction as their thingmeant (padartha); but what makes this injunction 'meaningful' is not that it is an injunction, but that it is connected with someone who is qualified to accept the injunction, e.g., in the injunction soargakāmo jajeta. The injunctive yajua has no meaning or purpose unless there is a "desire for heaven;" the meaning of the injunction thus is connected with the consequence of this desire of heaven, namely, that somebody who has this desire is prepared to do something about it. 
+[135]: Yamuna's argument is that the injunctive, etc. terminations of the verb denote the injunction as their thingmeant (padārtha); but what makes this injunction 'meaningful' is not that it is an injunction, but that it is connected with someone who is qualified to accept the injunction, e.g., in the injunction svargakāmo yajeta. The injunctive yajeta has no meaning or purpose unless there is a "desire for heaven;"  the meaning of the injunction thus is connected with the consequence of this desire is  prepared to do something about it.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -493,7 +493,7 @@ it is more appropriate simply to accept the view that there is denotation of con
 
 <details><summary>Buitenen - Note</summary>
 
-[136]: ardhajarati is a half-old woman; the ardhajaratīyanyāya is used to indicate that the opponent wants to have it both ways and that consequently his argument, like a half-old and half-young woman, is useless either way.
+[136]: ardhajaratī is a half-old woman; the ardhajaratīyanyāya is used to indicate that the opponent wants to have it both ways and that consequently his argument, like a half-old and half-young woman, is useless either way.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -559,8 +559,7 @@ even so
 
 <details><summary>Buitenen - Note</summary>
 
-
-[137]: Misra's text here has pady api prartly anu papattisamadhigamaniyaiva Sabdaŝaktis "the denoting power of language is to be known only through the impossibility of operation," which makes no sense. The reading must be corrupt, in anu papatti we may find a corruption of yulpatti, in pracrtti perhaps a corruption of kāryārthe or kāryārtha-. I read conjecturally karyar the vyutpatti. samadhigamaniyaiva, which gives the required sense.
+[137]: Misra's text here has yady api pravillyanupapattisamadhigamanīyaiva śabdaśaktis [[??]]"the denoting power of language is to be known only through the impossibility of operation,"  which makes no sense. The reading must be corrupt, in anu papatti we may find a corruption of vyutpati,in pravṛtti[[??]] perhaps a corruption of kāryārthe or kāryārtha-.  I read conjecturally kāryārtha vyutpattisamadhi gamanīyaiva, which gives the required sense.
 </details>
 
 ## व्युत्पन्न-प्रयोगे कार्यानपेक्षा
@@ -940,7 +939,7 @@ In such cases we surely must assume lakṣaṇā.141
 
 <details><summary>Buitenen - Note</summary>
 
-[141]: Yamuna objects that we cannot have two altogether different denoting powers in langauge, one to convey a transitory thing, another to convey a non-transitory thing. The only possible explanation is that of laktand "figurative usage," which remains related to the mukhjā "principal usage." But he will deny the entire construction (67).
+[141]: Yamuna objects that we cannot have two altogether different denoting powers in langauge, one to convey a transitory thing, another to convey a non-transitory thing. The only possible explanation is that of lakṣaṇa "figurative usage," which remains related to the mukhyā vṛttiḥ "principal usage." But he will deny the entire construction (67).
 </details>
 
 <details><summary>मूलम्</summary>
