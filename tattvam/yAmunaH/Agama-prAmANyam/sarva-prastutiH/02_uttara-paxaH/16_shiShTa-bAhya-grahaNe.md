@@ -12,10 +12,16 @@ title = "१६ शिष्ट-बाह्य-ग्रहणे"
 
 <details><summary>Buitenen</summary>
 
-117\. The contention has been voiced that Pañcarātra is invalid because it is accepted by those who are outside the Veda."  
+117\. The contention has been voiced that Pañcarātra is invalid because it is accepted by those who are outside the Veda." 240 
 But why could one not equally well contend that the Vedas are invalid  
 because they are accepted by those who are outside Pancarātra? 
 </details>
+
+<details><summary>Buitenen - Notes</summary>
+
+[240]: supra § 17: vedabāhyagrhītatvāt. I have rendered grhīta by "accepted' to cover approximately the variety of meanings that Yāmuna detects in the word.
+</details>
+
 
 
 <details><summary>मूलम्</summary>
@@ -619,9 +625,11 @@ for that would entail that such smārta rites as crepuscular worship, astaka etc
 
 <details><summary>Buitenen</summary>
 
-It has been said that the conduct of exemplary people is authoritative,26  
+It has been said that the conduct of exemplary people is authoritative,246  
 and also that even when they do not know the cause of their custom,  
 they do know what is proper custom.
+
+[246]: supra §14.
 </details>
 
 
@@ -639,7 +647,9 @@ they do know what is proper custom.
 
 <details><summary>Buitenen</summary>
 
-120\. If the ground for the invalidity of Pañcaratra is that it is accepted by Bhagavatas, well, then the scriptural statements of the Ekayana Sakha and the Vājasaneyaka sakhas and the means of knowledge Perception, Inference etc., would also be invalid since the Bhagavatas accept those too! 
+120\. If the ground for the invalidity of Pañcaratra is that it is accepted by Bhagavatas,247 well, then the scriptural statements of the Ekayana Sakha and the Vājasaneyaka sakhas and the means of knowledge Perception, Inference etc., would also be invalid since the Bhagavatas accept those too! 
+
+[247]: supra § 16.
 </details>
 
 
@@ -657,7 +667,9 @@ they do know what is proper custom.
 
 <details><summary>Buitenen</summary>
 
-This same ground, moreover, namely that Pancarãtra is invalid because it is accepted by the Bhagavatas, suffers from two defects; it is both specially-occasional and unproved.249
+This same ground, moreover, namely that Pancarãtra is invalid because it is accepted by the Bhagavatas, suffers from two defects; it is both specially-occasional and unproved.248
+
+[248]: supra § 59.
 </details>
 
 
@@ -696,10 +708,16 @@ If it is because they do not belong to the three estates,
 then the Atharvanic statements whose content is accepted and observed by rathakaras, nisadas and other groups  
 which do not belong to the three estates  
 (Statements like "The rathakara must add fuel,"  
-"With [[101]] that he must sacrifice for the chief of the Nişādas," etc.)  
+"With [[101]] that he must sacrifice for the chief of the Nişādas,"249 etc.)  
 would also be invalid.
 
 </details>
+
+<details><summary>Buitenen - Notes</summary>
+
+[249]: Quotations not identified; the groups enumerated are śūdras, and yet by Vedic injunction have to observe, i.e., to accept, the few Vedic injunctions addressed to them. Do they by their acceptance invalidate these injunctions?
+</details>
+
 
 <details><summary>मूलम्</summary>
 

@@ -462,12 +462,14 @@ because it is not lacking in reason
 > [[104]]  
 and the fact that the sentence-meaning of the statement, 
 > 
-> > "In spring the brahmin must add fuel to the fire," 
+> > "In spring the brahmin must add fuel to the fire," 250
 >
 > is otherwise unestablished  
 does not therefore by Circumstantial-Implication  
 furnish proof that a man is a brahmin;  
 for knowledge of that sentencemeaning presupposes knowledge of the word-meaning of brahminhood etc.
+
+[250]: not identified.
 </details>
 
 
@@ -601,7 +603,9 @@ Nor does it run counter to ordinary experience that the eyes can convey brahminh
 
 <details><summary>Buitenen</summary>
 
-every case the sense becomes the cause of the rise of determination of sense-object when favoured by the accompanying circumstances of place, time, configuration etc. 
+every case the sense becomes the cause of the rise of determination of sense-object when favoured by the accompanying circumstances of place, time, configuration etc.251
+
+[251]: read deśakālasaṃsthānāditi.[[??]]
 </details>
 
 
@@ -646,7 +650,9 @@ As the author says:
 > "No organ of knowledge, whether in Veda or in ordinary process,  
 becomes efficacious in determining the object  
 that is to be realized through the accompanying circumstances  
-unless it is favoured by these circumstances.  
+unless it is favoured by these circumstances.252
+
+[252]: not identified.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1141,8 +1147,10 @@ Consequently the consideration if a smrti statement of this kind cannot give cer
 127\. If it be argued that since these two words also may denote another caste (namely of the vaisya vratyas),  
 then the mere fact that certain brahmins are denoted by these words proves that these brahmins belong to that caste,  
 even though they follow the doctrine of the Bbagavan,  
-it would also follow that, since we find the collocated word acaryas also used to denote the issue of a lowly vaisya,  
+it would also follow that, since we find the collocated word acaryas256 also used to denote the issue of a lowly vaisya,  
 therefore an eminent brahmin who is an acarya imparting teaching of the Veda with its ancillae and its esoteric teachings is thereby denoted as being a vaisya vratya! 
+
+[256]: In the Manu quotation supra § 15.
 </details>
 
 
@@ -1548,7 +1556,9 @@ And this occupational similarity, limited as it is, does not raise the question 
 
 <details><summary>Buitenen</summary>
 
-So here, too, there is a difference between those who perform the pañcakālikā ritual, which is established by the Bhagavan's doctrine, and the low-caste people who do the cleaning-up of the temple and are also called temple-guards.
+So here, too, there is a difference between those who perform the pañcakālikā265 ritual, which is established by the Bhagavan's doctrine, and the low-caste people who do the cleaning-up of the temple and are also called temple-guards.
+
+[265]: supra note.
 </details>
 
 
@@ -1577,7 +1587,11 @@ So here, too, there is a difference between those who perform the pañcakālikā
 
 [[110]]
 
-130\. Further, the contention that, if the words bhāgavata and satvata have their etymological meaning, this entails that the word rathakara in the injunction the "rathakara must build a fire" desomeone belonging to the three varias on account of its etymology of chariot-making,268 is not correct. 
+130\. Further, the contention266 that, if the words bhāgavata and satvata have their etymological meaning, this entails that the word rathakara in the injunction the "rathakara must build a fire"267 desomeone belonging to the three varias on account of its etymology of chariot-making,268 is not correct. 
+
+[266]: supra § 15.
+
+[267]: not identified.
 
 [268]: For the word means etymologically "maker of chariots, carts."" [269]: not identified.
 </details>
@@ -1887,7 +1901,6 @@ and this is so because of the interpretation:
 
 132\. The contention that the bhāgavatas are bad brahmins because they perform pūjā to the God, partake of the offering substance etc. for a livelihood, is countered in the following manner: 
 </details>
-
 
 <details><summary>मूलम्</summary>
 

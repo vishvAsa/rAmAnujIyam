@@ -268,8 +268,11 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 <details><summary>Buitenen</summary>
 
 > for we find also that the same realization follows upon a feeling of distress, namely when the informed father is vexed by the trouble of maintaining his family.132
+</details>
 
-132: Then, one may suppose, the child would not so readily associate the birth ceremony with the previous communication.  
+<details><summary>Buitenen - Notes</summary>
+
+[132]: Then, one may suppose, the child would not so readily associate the birth ceremony with the previous commueniation.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -327,7 +330,7 @@ When you say that, since this realization cannot occur without a cause therefore
 
 It has been decided by our opponent that the verbal denotation of a meaning which causes an action to be taken is a result of the inclusion in the statement of a liṅādi suffix.133 
 
-133: supra §36\.  
+[133]: supra §36.  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -360,7 +363,7 @@ He who maintains that all words only bear meaningfully on kārya,
 
 maintains in effect that padārthas134 exist only in kārya statements and that e.g. in the case of cows, horses and the like, which are related to bodies, their being a padārtha is ascertained by the inclusion or exclusion of the words denoting them in a statement concerning kārya. 
 
-134: The things-meant or denoted by the word,  
+[134]: The things-meant or denoted by the word,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -381,17 +384,7 @@ maintains in effect that padārthas134 exist only in kārya statements and that 
 <details><summary>Buitenen</summary>
 
 If he says, indeed, whenever their being a padārtha is significantly construed, it is construed just as connected with kārya, we reply,  
-Stop being obstinate; for verbal exchange is also possible through denotation of words that are connected with other things than kāryas.135
-</details>
-
-<details><summary>Buitenen - Note</summary>
-
-135: Yāmuna's argument is that the injunctive, etc. terminations of the verb denote the injunction as their thing-meant (padārtha); but what makes this injunction 'meaningful' is not that it is an injunction,  
-but that it is connected with someone who is qualified to accept the injunction,  
-e.g., in the injunction svargakāmo yajeta.  
-The injunctive yajña has no meaning or purpose unless there is a "desire for heaven;"  
-the meaning of the injunction thus is connected with the consequence of this desire of heaven,  
-namely, that somebody who has this desire is prepared to do something about it.  
+Stop being obstinate; for verbal exchange is also possible through denotation of words that are connected with other things than kāryas.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -459,7 +452,13 @@ he says that it goes astray in the instance of ‘liṅ’ the optative itself.
 
 <details><summary>Buitenen</summary>
 
-since these suffixes denote their own meanings as connected, not with kārya, but with consequences of already established facts, such as proper qualification on the part of the person enjoined etc. 
+since these suffixes denote their own meanings as connected, not with kārya, but with consequences of already established facts, such as proper qualification on the part of the person enjoined etc.135 
+</details>
+
+
+<details><summary>Buitenen - Note</summary>
+
+[135]: Yamuna's argument is that the injunctive, etc. terminations of the verb denote the injunction as their thingmeant (padārtha); but what makes this injunction 'meaningful' is not that it is an injunction, but that it is connected with someone who is qualified to accept the injunction, e.g., in the injunction svargakāmo yajeta. The injunctive yajeta has no meaning or purpose unless there is a "desire for heaven;"  the meaning of the injunction thus is connected with the consequence of this desire is  prepared to do something about it.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -494,7 +493,7 @@ it is more appropriate simply to accept the view that there is denotation of con
 
 <details><summary>Buitenen - Note</summary>
 
-136: ardhajaratī is a half-old woman; the ardhajaratīyanyāya is used to indicate that the opponent wants to have it both ways and that consequently his argument, like a half-old and half-young woman, is useless either way.  
+[136]: ardhajaratī is a half-old woman; the ardhajaratīyanyāya is used to indicate that the opponent wants to have it both ways and that consequently his argument, like a half-old and half-young woman, is useless either way.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -560,7 +559,7 @@ even so
 
 <details><summary>Buitenen - Note</summary>
 
-137: Miśra's text here has pady api prartly anu papattisamadhigamaniyaiva śabdaśaktis "the denoting power of language is to be known only through the impossibility of operation," which makes no sense. The reading must be corrupt, in anu papatti we may find a corruption of vyutpatti, in pravṛtti perhaps a corruption of kāryārthe or kāryārtha-. I read conjecturally kāryārthe vyutpatti-samadhigamanīyaiva, which gives the required sense.  
+[137]: Misra's text here has yady api vṛttyanupapattisamadhigamanīyaiva śabdaśaktis "the denoting power of language is to be known only through the impossibility of operation,"  which makes no sense. The reading must be corrupt, in anu papatti we may find a corruption of vyutpati,in pravṛtti perhaps a corruption of kāryārthe or kāryārtha-.  I read conjecturally kāryārtha vyutpattisamadhi gamanīyaiva, which gives the required sense.
 </details>
 
 ## व्युत्पन्न-प्रयोगे कार्यानपेक्षा
@@ -613,6 +612,12 @@ it is correct when we decide the denotation of language to take the standpoint t
 
 The logicians hold the view that the meaning of a language statement cannot be known except by language statement.138 Consequently, there exists no inherent relationship with kārya as cause of denotation in uses of words that have their proper signification,  
 just as is the case with floating precious stones on water. 
+</details>
+
+
+<details><summary>Buitenen - Notes </summary>
+
+[138]: This holds for those statements which are not verifiable by other means of knowledge, for if they are verifiable, they are no incans of knowledge in their own right.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -854,27 +859,17 @@ REFUTATION. This position is just wishful thinking;
 <details><summary>Buitenen</summary>
 
 for a language statement,  
-even if understood in your way as bearing meaningfully only on a kārya to be accomplished with an action,  
+even if understood in your way as bearing meaningfully only on a kārya to be accomplished with an action,139  
 does not by that token set forth a permanent kārya,140  
 since that would mean over-extension. 
-
-139: read na hi kriyākārye vyutpannaḥ sthāyi kāryam.  
 
 </details>
 
 <details><summary>Buitenen - Note</summary>
 
-140: sthāyi; the Prābhākara view is that the kārya has a lasting efficacy  
-beyond the inevitably transient action it involves;  
-for the kārya must remain in order to effect the fruit of the action  
-at any time after the completion of the action.  
+[139]: read na hi kriyakārye vyut pannaḥ sthāyi kāryaṃ.
 
-Yāmuna objects that we cannot have two altogether different denoting powers in language,  
-one to convey a transitory thing,  
-another to convey a non-transitory thing.  
-
-The only possible explanation is that of lakṣaṇā "figurative usage," which remains related to the mukhyā "principal usage."  
-But he will deny the entire construction (67). 
+[140]: sthāyi; the Prābhākara view is that the kārya has a lasting efficacy beyond the inevitably transient action it involves; for the kārya must remain in order to effect the fruit of the action at any time after the completion of the action. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -939,7 +934,12 @@ it does not thereby acquire another denoting power.
 
 <details><summary>Buitenen</summary>
 
-In such cases we surely must assume lakṣaṇā. 
+In such cases we surely must assume lakṣaṇā.141 
+</details>
+
+<details><summary>Buitenen - Note</summary>
+
+[141]: Yāmuna objects that we cannot have two altogether different denoting powers in langauge, one to convey a transitory thing, another to convey a non-transitory thing. The only possible explanation is that of lakṣaṇa "figurative usage," which remains related to the mukhyā vṛttiḥ "principal usage." But he will deny the entire construction (67).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1088,16 +1088,13 @@ the injunction itself cannot be the means of achieving the desired heaven.
 
 <details><summary>Buitenen</summary>
 
-The root-sense of the words being transitory, the statement itself cannot function as this means.141  
+The root-sense of the words being transitory, the statement itself cannot function as this means.142  
 Therefore the assertion that a language statement communicates as its proper meaning a kārya which exceeds this transitory root-sense, cannot be correct. 
 </details>
 
 <details><summary>Buitenen - Note</summary>
 
-141: This is the Prābhākara view, which holds that in the injunction (niyoga) svargakāmo  
-yajeta the sādhya (object to be realized) is not svarga,  
-but the entire niyoga (cf. Prakaraṇapañcikā, p. 190),  
-so that the statement of the injunction would become the means (sādhana) to realize that sādhya, sc. the injunction.  
+[142]: This is the prābhākara view, which holds that in the injunction niyoga svargakāmo yajeta the sādhya (object to be realized) is not svarga, but the entire niyoga (cf. Prakaraṇapañcikā, p. 190), so that the statement of the injunction would become the means (sādhana) to realize that sādhya, sc. the injunction. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1116,10 +1113,9 @@ so that the statement of the injunction would become the means (sādhana) to rea
 
 <details><summary>Buitenen</summary>
 
-A person is not specified by heaven as the object to be achieved,142 but it is the person who desires heaven who is enjoined upon to accomplish the act.   
+A person is not specified by heaven as the object to be achieved,143 but it is the person who desires heaven who is enjoined upon to accomplish the act.   
 
-142: {{Cr.|Cf.}} {{Prakaraṇapañcikā}} p. 182\.  
-
+[143]: Cf. Prakaraṇapañcikā p. 182.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1211,13 +1207,12 @@ Only something that has already been achieved, that actually exists, can specify
 
 If its being a sādhya means that it is fit for a relation with a sādhana,  
 it is impossible for heaven to be siddha, as long as its relatability obtains,  
-since it cannot become siddha in the meantime.143 
+since it cannot become siddha in the meantime.144 
 </details>
 
 <details><summary>Buitenen - Note</summary>
 
-143: Nothing can become a fact (siddha) as long as it is still to be made a fact (sādhya) by a "factualizing" means (sādhana);  
-thus as long as it is related with such a means it cannot be a fact.  
+[144]: Nothing can become a fact (siddha) as long as it is still to be made a fact (sādhya) by a "factualizing" means (sādhana); thus as long as it is related with such a means it cannot be a fact.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1323,8 +1318,17 @@ If heaven is the sādhya, the injunction is not the sādhya. It is not possible 
 
 <details><summary>Buitenen</summary>
 
-> 69\. OBJECTION. Indeed, the unity of a sentence is broken up when it contains two sādhyas that are independent, but not when the two are interdependent. 
+> 69\. OBJECTION. Indeed, the unity of a sentence is broken up145 when it contains two sādhyas that are independent, but not when the two are interdependent. 
 </details>
+
+<details><summary>Buitenen - Notes</summary>
+
+[145]: This is the principle of ekavākyata: a statement can contain only one injunction, otherwise there is vākyabheda: what should be one sentence is split up into two.
+</details>
+
+
+
+
 
 <details><summary>मूलम्</summary>
 
@@ -1360,9 +1364,13 @@ And here the two sādhyas are interdependent since the realization of heaven is 
 
 <details><summary>Buitenen</summary>
 
-> That is what the Author says: "When the niyoga is realized, everything else in accordance with it is also realized;" and: "Why should the realization of the fruit not be held to be subservient to the realization of the injunction?"145 Therefore there is no conflict here.
+> That is what the Author says: "When the niyoga is realized, everything else in accordance with it is also realized;" and: "Why should the realization of the fruit not be held to be subservient to the realization of the injunction?"146 Therefore there is no conflict here.
+</details>
 
-145: Quotations not identified; but for the argument, see Prakaraṇapañcikā, p 183 f.  
+
+<details><summary>Buitenen - Notes</summary>
+
+[146]: Quotations not identified; but for the argument, see Prakaraṇapañcikā, p 183 ff
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1418,19 +1426,18 @@ REFUTATION. No;
 
 <details><summary>Buitenen</summary>
 
-70\. ~~OBJECTION.~~ In the case of the qualifications for periodical rites the injunction (apUrva) does not require the 'realization of any fruit.'146   
+70\. ~~OBJECTION.~~ In the case of the qualifications for periodical rites the injunction (apUrva) does not require the 'realization of any fruit.'147   
 
-146: No specific fruits are attached to nitya rites.  
+[147]: No specific fruits are attached to nitya rites. 
 
 Nor does an injunction to one act  
 fail to apply to a person who really desires another fruit.
 
-The pre-eminence147 is really the injunction's;  
+The pre-eminence148 is really the injunction's;  
 a person is enjoined upon by the injunction to any act in the same way  
 as he is enjoined upon to perform the periodical acts.
 
-147: māhātmya, which corresponds to prādhānya, pradhānatā.  
-
+[148]: māhātmya, which corresponds to prādhānya, pradhānatā 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2079,10 +2086,12 @@ e.g.
 
 > sovereign of all. 
 
-> He commands all the world,"150 
+> He commands all the world,"149 
 
-"All this is manifest to Him" etc.
+"All this is manifest to Him150 etc."
 
+[149]: BA Up. 5.6.1.
+[150]: Not to be found in the major Upanisads.
 </details>
 
 <details><summary>Buitenen - Note</summary>
@@ -2172,7 +2181,9 @@ To the Prabhakara this validity is ideal in the case of injunctions concerning a
 A kārya, too, may be known from other means of knowledge,  
 for it must be admitted that ordinary karyas, like 'fetch firewood'  
 are also known through other means of knowledge,  
-as in the case of the cooking of the odana.
+as in the case of the cooking of the odana.151
+
+[151]: supra §35.
 </details>
 
 <details><summary>Buitenen - Notes</summary>
