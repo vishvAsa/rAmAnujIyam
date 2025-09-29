@@ -867,9 +867,9 @@ since that would mean over-extension.
 
 <details><summary>Buitenen - Note</summary>
 
-[139]: read na hi kriyakārye vyut pannaḥ sthāji karyam.
+[139]: read na hi kriyakārye vyut pannaḥ sthāyi kāryaṃ.
 
-[140]: sthāyi; the Prabhakara view is that the karya has a lasting efficacy beyond the inevitably transient action it involves; for the karya must remain in order to effect the fruit of the action at any time after the completion of the action. 
+[140]: sthāyi; the Prābhākara view is that the kārya has a lasting efficacy beyond the inevitably transient action it involves; for the kārya must remain in order to effect the fruit of the action at any time after the completion of the action. 
 </details>
 
 <details><summary>मूलम्</summary>
