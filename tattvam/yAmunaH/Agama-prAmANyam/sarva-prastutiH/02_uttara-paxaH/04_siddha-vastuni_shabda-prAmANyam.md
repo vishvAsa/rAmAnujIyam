@@ -939,7 +939,7 @@ In such cases we surely must assume lakṣaṇā.141
 
 <details><summary>Buitenen - Note</summary>
 
-[141]: Yamuna objects that we cannot have two altogether different denoting powers in langauge, one to convey a transitory thing, another to convey a non-transitory thing. The only possible explanation is that of lakṣaṇa "figurative usage," which remains related to the mukhyā vṛttiḥ "principal usage." But he will deny the entire construction (67).
+[141]: Yāmuna objects that we cannot have two altogether different denoting powers in langauge, one to convey a[[??]] transitory thing, another to convey a non-transitory thing. The only possible explanation is that of lakṣaṇa "figurative usage," which remains related to the mukhyā vṛttiḥ "principal usage." But he will deny the entire construction (67).
 </details>
 
 <details><summary>मूलम्</summary>
