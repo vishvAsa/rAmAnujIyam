@@ -19,7 +19,7 @@ because they are accepted by those who are outside Pancarātra?
 
 <details><summary>Buitenen - Notes</summary>
 
-[240]: supra § 17: vedabahyagrhitatrāt. I have rendered grhito by "accepted' to cover approximately the variety of meanings that Yamuna detects in the word.
+[240]: supra § 17: vedabāhyagrhītatvāt. I have rendered grhīta by "accepted' to cover approximately the variety of meanings that Yāmuna detects in the word.
 </details>
 
 
@@ -715,7 +715,7 @@ would also be invalid.
 
 <details><summary>Buitenen - Notes</summary>
 
-[249]: Quotations not identified; the groups enumerated are shüdras, and yet by Vedic injunction have to observe, ie., to accept, the few Vedic injunctions addressed to them. Do they by their acceptance invalidate these injunctions?
+[249]: Quotations not identified; the groups enumerated are śūdras, and yet by Vedic injunction have to observe, i.e., to accept, the few Vedic injunctions addressed to them. Do they by their acceptance invalidate these injunctions?
 </details>
 
 

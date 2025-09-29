@@ -605,7 +605,7 @@ Nor does it run counter to ordinary experience that the eyes can convey brahminh
 
 every case the sense becomes the cause of the rise of determination of sense-object when favoured by the accompanying circumstances of place, time, configuration etc.251
 
-[251]: read desaklasamsthaniditi.
+[251]: read deśakālasaṃsthānāditi.[[??]]
 </details>
 
 
