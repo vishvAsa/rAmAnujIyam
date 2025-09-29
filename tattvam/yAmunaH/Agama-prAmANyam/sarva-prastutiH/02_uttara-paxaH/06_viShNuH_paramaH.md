@@ -71,9 +71,9 @@ For He is revealed in the upaniṣads as the Supreme Soul: "Truth, knowledge, in
 
 <details><summary>Buitenen - Note</summary>
 
-[162]: Partial quotations from Taitt Up. 2.1.1, Mund Up. and an unidentified source.
+[162]: Partial quotations from Taitt Up. 2.1.1, Muṇḍ Up. and an unidentified source.
 
-[162a]: Nrsimhapurvatapani Up. 2.4 (which reads purastad for parastad) and Svet Up. 3.9.  
+[162a]: Nrsiṃhapūrvatāpani Up. 2.4 (which reads purastād for parastād) and śvet Up. 3.9.  
 </details>
 
 <details><summary>मूलम्</summary>
