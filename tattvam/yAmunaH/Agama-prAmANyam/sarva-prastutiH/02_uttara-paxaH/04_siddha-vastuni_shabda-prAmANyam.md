@@ -1326,10 +1326,6 @@ If heaven is the sādhya, the injunction is not the sādhya. It is not possible 
 [145]: This is the principle of ekavākyata: a statement can contain only one injunction, otherwise there is vākyabheda: what should be one sentence is split up into two.
 </details>
 
-
-
-
-
 <details><summary>मूलम्</summary>
 
 > स्वतन्त्रं हि साध्य-द्वयम् एकवाक्यतां निरुणद्धि नानुगुणम्, 
