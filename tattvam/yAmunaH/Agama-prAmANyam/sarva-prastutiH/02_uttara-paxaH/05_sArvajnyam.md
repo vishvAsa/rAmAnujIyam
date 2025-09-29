@@ -17,7 +17,7 @@ Hence we reject our opponent's position. [[61]]
 76\. The objections152 that omniscience is acquired by means of the regular senses is incorrect,153 
 
 [152]: supra §42.
-[153]: read ity asal for iliyat.
+[153]: read ity asal[[??]] for iti yat.[[??]]
 </details>
 
 <details><summary>मूलम्</summary>
@@ -473,9 +473,9 @@ In the upaniṣadic texts the knowledge of brahman is declared to be rewarded by
 
 <details><summary>Buitenen - Note</summary>
 
-[159]: This must refer to the śruti sa yo ha voi tat param veda น brahma veda brahma bhavati (quoted Ramanuja, Vedārthasarngraha, 91), which I have been unable to locate.
+[159]: This must refer to the śruti sa yo ha vai tat paraṃ veda brahma veda brahma bhavati (quoted Rāmanuja, Vedārthasṃgraha, 91), which I have been unable to locate.
 
-[160]: Taitt Up. 2.1.1. brahmatid apnoti param.
+[160]: Taitt Up. 2.1.1. brahmavid āpnoti param.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -502,7 +502,7 @@ the human importance of statements without injunctions is quite clear from these
 
 <details><summary>Buitenen - Note</summary>
 
-[161]: This must refer to Taitt Up. 2.1.1 so'fnute sarpan kāmān saha brahmaṇā vipaściṭā, but sa samagaḥ is obscure, unless one may regard it as a corruption of vipafcitā.
+[161]: This must refer to Taitt Up. 2.1.1 so'śnute[[??]] sarvān kāmān saha brahmaṇā vipaścitā, but sa sāmagaḥ is obscure, unless one may regard it as a corruption of vipaścitā.
 </details>
 
 <details><summary>मूलम्</summary>
