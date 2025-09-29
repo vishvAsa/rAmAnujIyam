@@ -490,7 +490,7 @@ Likewise Parāśara's word,
 > The world has originated from Viṣṇu and on Him it rests.  
 He is the maker of its subsistence and its destruction."166
 
-[166]: Visnu Pur., 1.1.31.
+[166]: viṣṇu Pur., 1.1.31.
 </details>
 
 
@@ -517,7 +517,7 @@ Likewise in the Mānavadharmaśāstra,167
 
 "Nārāyaṇa is higher than the unmanifest; the World-Egg originates from the unmanifest. Within the Egg are all these worlds as well as the earth with her seven continents." 
 
-[167]: Not in Manusmrti.
+[167]: Not in manusmṛti.
 </details>
 
 
@@ -566,7 +566,7 @@ Therefore, the study of these and similar śrutis, smṛtis, epical texts and Pu
 
 <details><summary>Buitenen - Notes</summary>
 
-[168]: A little known Vedic branch (if it was a Vedic tradition), from which certain Vaisnava sects derive their authority; cf. infra §138.
+[168]: A little known Vedic branch (if it was a Vedic tradition), from which certain vaiṣṇava sects derive their authority; cf. infra §138.
 </details>
 
 
@@ -766,7 +766,7 @@ we say that Viṣṇu is stated to be the Supreme One in the texts of the Way of
 
 For example in the Viṣṇu Purāṇa, "The Supreme Soul, the Basis of all creatures, the Supreme Lord is called by the name of Viṣṇu in Vedas and Upaniṣads."171 
 
-[171]: Visnu Pur. 6.4.40.
+[171]: viṣṇu Pur. 6.4.40.
 </details>
 
 
@@ -792,7 +792,7 @@ For example in the Viṣṇu Purāṇa, "The Supreme Soul, the Basis of all crea
 
 In the Varāha Purāṇa, "The Supreme Brahman is Viṣṇu; the triple division in the pathways of the Vedic doctrine is here set forth; the ignorant do not know this."172 
 
-[172]: cf. Varaha Pur., 72.4, which reads padrate in b. 
+[172]: cf. Varāha Pur., 72.4, which reads padyate in b. 
 </details>
 
 
@@ -822,7 +822,7 @@ In the Varāha Purāṇa, "The Supreme Brahman is Viṣṇu; the triple division
 
 <details><summary>Buitenen - Note</summary>
 
-[173]: cf. Varaha Pur. 7026 na tasmat parato devo bhavita na bhavisyati. It is clear from several quotations from this Purana that Yamuna's text had different readings, not all of them better.
+[173]: cf. Varāha Pur. 7026 na tasmāt parato devo bhavitā na bhavisyati. It is clear from several quotations from this Purāṇa that Yāmuna's text had different readings, not all of them better.
 </details>
 
 
@@ -960,7 +960,7 @@ Likewise in the Bhaviṣyat Purāṇa, "Visnu is traditionally known to be the S
 
 All this has already been explained in great detail in the Puruṣanirṇaya176 and is therefore not further enlarged upon here. 
 
-[176]: Title of one of Yamuna's treatises.
+[176]: Title of one of Yāmuna's treatises.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
