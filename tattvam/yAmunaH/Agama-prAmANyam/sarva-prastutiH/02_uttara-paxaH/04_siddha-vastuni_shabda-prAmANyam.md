@@ -1094,7 +1094,7 @@ Therefore the assertion that a language statement communicates as its proper mea
 
 <details><summary>Buitenen - Note</summary>
 
-[142]: This is the prābhākara view, which holds that in the injunction nijaga seargakāmo yajeta the sadhya (object to be realized) is not sparge, but the entire niyoga (cf. prakaraṇapañcikā, p. 190), so that the statement of the injunction would become the means (sadhana) to realize that sadhya, sc. the injunction.  
+[142]: This is the prābhākara view, which holds that in the injunction niyoga svargakāmo yajeta the sādhya (object to be realized) is not svarga, but the entire niyoga (cf. Prakaraṇapañcikā, p. 190), so that the statement of the injunction would become the means (sādhana) to realize that sādhya, sc. the injunction. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1115,7 +1115,7 @@ Therefore the assertion that a language statement communicates as its proper mea
 
 A person is not specified by heaven as the object to be achieved,143 but it is the person who desires heaven who is enjoined upon to accomplish the act.   
 
-[143]: Cr. Prakaraṇapañcikā p. 182.
+[143]: Cf. Prakaraṇapañcikā p. 182.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1212,7 +1212,7 @@ since it cannot become siddha in the meantime.144
 
 <details><summary>Buitenen - Note</summary>
 
-[144]: Nothing can become a fact (siddha) as long as it is still to be made a fact (sadhya) by a factualizing" means (sadhana); thus as long as it is related with such a means it cannot be a fact.
+[144]: Nothing can become a fact (siddha) as long as it is still to be made a fact (sādhya) by a "factualizing" means (sādhana); thus as long as it is related with such a means it cannot be a fact.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1323,7 +1323,7 @@ If heaven is the sādhya, the injunction is not the sādhya. It is not possible 
 
 <details><summary>Buitenen - Notes</summary>
 
-[145]: This is the principle of ekarakyata: a statement can contain only one injunction, otherwise there is aakyabheda: what should be one sentence is split up into two.
+[145]: This is the principle of ekavākyata: a statement can contain only one injunction, otherwise there is vākyabheda: what should be one sentence is split up into two.
 </details>
 
 
@@ -1370,7 +1370,7 @@ And here the two sādhyas are interdependent since the realization of heaven is 
 
 <details><summary>Buitenen - Notes</summary>
 
-[146]: Quotations not identified; but for the argument, see Prakarapapañcikā, p 183 f
+[146]: Quotations not identified; but for the argument, see Prakaraṇapañcikā, p 183 ff
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1437,7 +1437,7 @@ The pre-eminence148 is really the injunction's;
 a person is enjoined upon by the injunction to any act in the same way  
 as he is enjoined upon to perform the periodical acts.
 
-[148]: mahatmya, which corresponds to pradhanya, pradhānatā 
+[148]: māhātmya, which corresponds to prādhānya, pradhānatā 
 </details>
 
 <details><summary>मूलम्</summary>
