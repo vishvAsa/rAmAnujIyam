@@ -136,6 +136,12 @@ if the percipient is perfect.
 अतस्तदाश्रये क्वापि ध्रुवं परिनितिष्ठति ॥
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This is the view entertained by the Naiyāyika, as also by the Siddhāntin.
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > सर्वं हि सातिशयं निरतिशय-दशाम् अनुभवद् दृष्टं  
@@ -253,6 +259,10 @@ Perceptual knowledge can never go beyond its own sphere and trespass on another.
 स्वगोचरमतिक्रम्य नान्यदास्कन्दितुं क्षमः ॥
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The Mīmāṃsaka refutes the above view. For a detailed discussion see the Siddhitraya: Īśvara-siddhi, p. 226 ff.
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -262,6 +272,11 @@ Perceptual knowledge can never go beyond its own sphere and trespass on another.
 समवायिषु चाक्षुषः ।  
 प्रकर्षो **भवितुं युक्तो**  
 दृश्यमान-प्रकर्षवत् +++(न तु स्पृश्यमान-प्रकर्षवत्)+++॥
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+रूपे, तद्वति घटे, तथा रूपेण सह एकस्मिन्न् अर्थे घटे समवाय-सम्बन्धेन विद्यमानेषु संख्या-परिमाणादिष्व् एव नियतः चक्षुः-प्रकर्षः न तु स्व-भिन्नेन्दिय-ग्राह्ये स्पर्श-गन्धादाव् इति भावः।
 </details>
 
 <details><summary>Buitenen</summary>
