@@ -617,6 +617,11 @@ Either both are authoritative or neither is.
 **वक्तव्यो** वा, +++(येन)+++ स +++(भेद)+++ **उच्यते** ॥  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This is the reply given by the Mīmāṃsaka.
+</details>
+
 <details><summary>Buitenen</summary>
 
 [[9]]  
@@ -639,6 +644,15 @@ or we must indeed show in which respect the Pancarãtra tradition is different f
 प्रमाणम्" इति सूत्रयन् ।  
 सूत्र-कारः +++(जैमिनिः)+++ स्फुटी-चक्रे  
 वैलक्षणण्यं विवक्षितम् ॥
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Vide Pūrva Mīmāṃsā I. iii. 2. The full aphorism is : 
+
+> api vā kartṛsāmānyāt pramāṇam anumānaṃ syāt. 
+
+It is this sūtra that sanctions validity to the smṛtis, provided the rites enjoined by them are performed by the śiṣṭas, who also perform the other duties laid down in the Vedas.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -756,6 +770,10 @@ On the contrary, the Vedic experts condemn those who do.
 बाह्य-स्मरणम् **अर्हति** ।  
 **न** हि त्रैवर्णिकाः शिष्टास्  
 तदुक्तार्थान् **उपासते** ॥  
+</details>
+
+<details><summary>नरसिंहः</summary>
+'तत्' इति पदेन पूर्व-पङ्क्त्य्-उक्तं प्रामाण्यं परामृश्यते । 'पञ्च-रात्रादि-बाह्य-स्मरणम्' इत्य् एतत् कर्तृ-पदम्; तद् इति द्वितीयान्तम्।
 </details>
 
 <details><summary>Buitenen</summary>
