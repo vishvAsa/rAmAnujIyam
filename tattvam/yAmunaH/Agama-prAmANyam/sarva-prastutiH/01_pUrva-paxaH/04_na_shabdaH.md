@@ -36,6 +36,12 @@ synonymous.
 यथैव हि तन्त्र-प्रसिद्ध-दीक्षाऽऽराधन--तत्-फलाभिमत-स्वर्गादि-साध्य-साधन-भावो नानुमान-गोचरः - सम्बन्धावधारण-विरहात्।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Tantravārtika, p. 70.
+</details>
+
+
 <details><summary>Buitenen</summary>
 
 Nor is it possible, in the absence of explicit revelation,  
@@ -158,6 +164,11 @@ and yet expound an interpretation which is wholly unscriptural.
 इति शङ्कामहे ।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Manuscript M₇ starts from “vagama” See. Critical Apparatus.
+</details>
+
 <details><summary>Buitenen</summary>
 
 [[7]]  
@@ -184,14 +195,16 @@ who write as their fancy takes them!
 अस्ति तादृशगोचरः ॥
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Tantravārtika, p. 70.
+</details>
+
 <details><summary>Buitenen</summary>
 
 This argumentation by itself suffices to disprove the contended authority of Pañcarātra,  
 for there is no eternal Scripture to support the claim. 
 </details>
-
-
-
 
 <details><summary>मूलम्</summary>
 
@@ -232,6 +245,11 @@ be within the scope of the mere knowledge of similitude?
 अनुपप्रत्य्-अभावात्,  
 स्मरणान्यथाऽनुपप्रत्या हि  
 तत्-कल्पना प्रादुर्-भवति ।  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+The Mīmāṃsaka anticipates this argument from the Siddhāntin.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -353,6 +371,11 @@ therefore the cognition of the fact can only have originated from Scripture...
 यदि हि यथार्थत्व-नियमो ऽनुभवानां प्रामाणिकः स्यात्,  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The above argument is refuted as untenable by the Mīmāṃsaka.
+</details>
+
 <details><summary>Buitenen</summary>
 
 [[8]]  
@@ -377,6 +400,13 @@ that cognitions are invariably true.
 प्रमाण-भूता श्रुतिर् **उपकल्प्येत** -  
 अन्यथाऽपि स्मरणोपपत्तेः।  
 मन्वादि-स्मरणेष्व् इदानीं का वार्ता ।  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+अन्यथा ऽपि — अयथार्थानुभव-भावित-भावनातो ऽपीति भावः।
+
+the Siddhāntin poses this question to the Mīmāṃsaka.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -521,6 +551,20 @@ well, in Pancarãtra, too, …
 प्रमुखाः परमर्षयः ।  
 **स्मर्यन्ते** पञ्चरात्रेऽपि  
 संप्रदाय-प्रवर्तकाः ॥+++(4)+++
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. the following verse quoted by Bhaṭṭāraka Vedottama in his Tantra-śuddha, from some unknown source, p. 21:
+
+> nāradaḥ sumahadbhūtaṃ lokānugrahakāmyayā  
+vāsudevādavāpyedaṃ sañcikṣepa mataṃ paraṃ.
+
+The names of the teachers that promulgated the Pāñcarātra excepting those of Lord Nārāyaṇa and Nārada are given in the Īśvara Saṃhitā ( Ch. I, śls. 38-41 ): Saṅkarṣaṇa, Śāṇḍilya, Sumantu, Jaimini, Bhṛgu, Aupagāyana and Mauñjyāyana.
+
+Vide JRAS for 1911, foot-note on p. 942:
+
+> The descent of the Bhāgavata religion is, in the Kṛta age, from Nara-Nārāyaṇa to Nārada, and at the end of the Dvāpara, from Saṅkarṣaṇa to Śāṇḍilya and in the Kali, from Viṣvaksena to Śaṭhakopa.
 </details>
 
 <details><summary>Buitenen</summary>
