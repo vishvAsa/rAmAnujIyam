@@ -16852,15 +16852,11 @@ que **mantienen** la posibilidad de **reunir** cosas que **se oponen**
 इङ्गु प्रथमाक्षरत्तालुम्  
 नार-शब्दत्तिल् प्रकृतिय् आऩ नर-शब्दत्तालुम्  
 अयन-शब्दत्तालुम्  
-सर्वेश्वरऩैच् चॊल्लुगिऱ बोदु रक्षकत्व-कारणत्व+++(→"अ")+++-- नित्यत्व-नेतृत्व-+++(←"नर")+++ +आधारत्वान्तर्यामित्वादिगळ् आऩ आकार-भेदङ्गळाले  
+सर्वेश्वरऩैच् चॊल्लुगिऱ बोदु रक्षकत्व-कारणत्व+++(→"अ")+++-- नित्यत्व-नेतृत्व-+++(←"नर", "अयन"→)+++ +आधारत्वान्तर्यामित्वादिगळ् आऩ आकार-भेदङ्गळाले  
 मूऩ्ऱुम् स-प्रयोजनङ्गळ्।
 </details>
 
-<details><summary>मूलम्</summary>
-
-इङ्गु प्रथमाक्षरत्तालुम् नारशब्दत्तिल् प्रकृतियाऩ नरशब्दत्तालुम् अयनशब्दत्तालुम् सर्वेश्वरऩैच् चॊल्लुगिऱबोदु रक्षकत्वकारणत्वनित्यत्वनेतृत्वाधारत्वान्तर्यामित्वादिगळाऩ आकारभेदङ्गळाले मूऩ्ऱुम् सप्रयोजनङ्गळ्।
-</details>
-
+<details><summary>English</summary>
 
 Here in Tirumantra,  
 when the Supreme Ruler of all is indicated by the first letter (of praṇava),  
@@ -16868,9 +16864,98 @@ the base nara of the word Nāras
 and the word ayana,  
 all these words are purposely used  
 to indicate His being the Protector  
-and His being the ultimate  cause (in "a"), His being eternal and His being the netā (guide) (in the word nara) and His being the resting place or support and the inner self in the word (ayana) in different ways. (It should not be thought that these three mean the same thing and that two of them are therefore redundant).
+and His being the ultimate  cause (in "a"),  
+His being eternal  
+and His being the netā (guide) (in the word nara)  
+and His being the resting place or support  
+and the inner self (in the word ayana) in different ways.  
 
-If it be asked: "While the Cetana or sentient being is already indicated by the third letter of praṇava (m), why should it be mentioned again in the word Nara (in Nārāyaṇa)". The answer is as follows: "I do not exist without Thee, (my support); Thou dost not exist without me, (for I bring out Thy character:) " "Rāma's younger brother (Lakṣmaṇa), and Lakṣmaṇa's elder brother". (In the two passages mentioned above, there is apparent repetition, but it is not a fault since it serves a definite purpose). (In the first passage ), the first part of the sentence emphasises the importance of the śeṣī and the second emphasises the importance of the śeṣa; so also (in the secodd. passage ) Rāma's importance is hinted at in Rāmānuja (Rāma's younger brother) and Lakṣmaṇa's importance is hinted at in Lakṣmaṇapurvaja (Lakṣmaṇa's elder brother): Thus each is characterised by the other. In the praṇava, the śeṣī's inportance is prominent as in the chariot of Arjuna ( where Arjuna is prominent and Śrī Kṛṣṇa is not, being only the charioteer ); in the word Nārāyaṇa, the śeṣī's importance is prominent as in the Rasamandala (the Rasakrida described in the Bhāgavatam), where Śrī Kṛṣṇa is all-important and the Gopis not so.
+(It should not be thought that  
+these three mean the same thing  
+and that two of them are therefore redundant).
+</details>
+
+<details><summary>Español</summary>
+
+Aquí en Tirumantra,  
+Cuando el gobernante supremo de todo **se indica** por la primera letra (de praṇava),  
+la base nara de la palabra "nāras"  
+y la palabra "ayana",  
+Todas estas palabras **se usan** a propósito  
+para **indicar** que es el **protector**  
+y su **ser** la causa definitiva (en "A"),  
+Su **ser** eterno  
+y su **ser** el netā (guía) (en la palabra "nara")  
+y **siendo** el lugar o apoyo de **descanso**  
+y el yo interior (en la palabra "ayana") de diferentes maneras.  
+
+(**No debe pensarse** que  
+Estos tres **significan** lo mismo  
+y que dos de ellos son, por lo tanto, redundantes).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु प्रथमाक्षरत्तालुम् नारशब्दत्तिल् प्रकृतियाऩ नरशब्दत्तालुम् अयनशब्दत्तालुम् सर्वेश्वरऩैच् चॊल्लुगिऱबोदु रक्षकत्वकारणत्वनित्यत्वनेतृत्वाधारत्वान्तर्यामित्वादिगळाऩ आकारभेदङ्गळाले मूऩ्ऱुम् सप्रयोजनङ्गळ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रणवत्तिल् तृतीयाऽक्षरत्ताले  
+चेतनऩै प्रकाशिप्पिक्कच् चॆय्दे  
+इङ्गु नारशब्दत्ताले मीण्डुञ् जॊल्लुवाऩ् एऩ् 
+
+ऎऩ्ऩिल्;
+</details>
+
+<details><summary>English</summary>
+
+If it be asked: 
+
+> "While the Cetana or sentient being is already indicated by the third letter of praṇava (m),  
+why should it be mentioned again in the word Nara (in Nārāyaṇa)"; 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se le pregunta**: 
+
+> "Mientras que el cetana o el **ser** sensible ya **está indicado** por la tercera carta de praṇava (m),  
+¿Por qué **debería mencionarse** nuevamente en la palabra "nara" (en nārāyaṇa) ";
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रणवत्तिल् तृतीयाक्षरत्ताले चेतनऩै प्रकाशिप्पिक्कच्चॆय्दे इङ्गु नारशब्दत्ताले मीण्डुञ् जॊल्लुवाऩेऩॆऩ्ऩिल्;
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ८६’’नाऩ् उऩ्ऩैय् अऩ्ऱिय् इलेऩ्  
+कण्डाय् नारणऩे  
++++(त्वद्-गुणाविष्-कर्तृत्वात्)+++ नीय् ऎऩ्ऩैय् अऩ्ऱिय् इलैय्’’  
+(नाऩ्मुगऩ् तिरुवन्दादि ७)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+८६’’नाऩुऩ्ऩै यऩ्ऱियिलेऩ्गण्डाय् नारणऩे नी यॆऩ्ऩैयऩ्ऱियिलै’’(नाऩ्मुगऩ् तिरुवन्दादि ७) यॆऩ्ऱुम्, 
+</details>
+
+
+
+The answer is as follows: 
+
+> "I do not exist without Thee, (my support);  
+Thou dost not exist without me,  
+(for I bring out Thy character.) " 
+
+"Rāma's younger brother (Lakṣmaṇa), and Lakṣmaṇa's elder brother". (In the two passages mentioned above, there is apparent repetition, but it is not a fault since it serves a definite purpose). (In the first passage ), the first part of the sentence emphasises the importance of the śeṣī and the second emphasises the importance of the śeṣa; so also (in the secodd. passage ) Rāma's importance is hinted at in Rāmānuja (Rāma's younger brother) and Lakṣmaṇa's importance is hinted at in Lakṣmaṇapurvaja (Lakṣmaṇa's elder brother): Thus each is characterised by the other. In the praṇava, the śeṣī's inportance is prominent as in the chariot of Arjuna ( where Arjuna is prominent and Śrī Kṛṣṇa is not, being only the charioteer ); in the word Nārāyaṇa, the śeṣī's importance is prominent as in the Rasamandala (the Rasakrida described in the Bhāgavatam), where Śrī Kṛṣṇa is all-important and the Gopis not so.
 
 Even in the praṇava, though verbally the jīva is prominent, the prominence, so far as the purport is considered, is of the Protector or Saviour.
 
