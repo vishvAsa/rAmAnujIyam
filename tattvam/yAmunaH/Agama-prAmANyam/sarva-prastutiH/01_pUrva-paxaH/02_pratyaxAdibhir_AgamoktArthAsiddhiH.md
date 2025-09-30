@@ -598,14 +598,10 @@ vibhu in the sense of "omnipresent, infinite."
 परिमाणं हि नाम देशावच्छेदः, इयत्ता-परितोभाव-वेष्टनम् इति यावत् ।  
 </details>
 
-
-
 <details><summary>नरसिंहः</summary>
 
 Veṅkaṭanātha in his Nyāyasiddhāñjana, ch. VI. p. 170, quotes from “yadapi” to “nirdiśyate”
 </details>
-
-
 
 <details><summary>Buitenen</summary>
 
