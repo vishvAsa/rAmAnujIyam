@@ -5,9 +5,46 @@ title = "०२ प्रत्यक्षादिभिर् आगमोक
 ## साधारण-प्रत्यक्षम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च पञ्चरात्र-तन्त्र-प्रतिपाद्यमान-विलक्षण-दीक्षा-पूर्वक-  
+न च पञ्चरात्र-तन्त्र-प्रतिपाद्यमान-विलक्षण-दीक्षा[^1]-पूर्वक-  
 भगवद्-आराधनाभिलषित-  
 स्वर्गापवर्गादि--साध्य-साधन-संबन्धं प्रत्यक्षादीन्य् आवेदयितुं क्षमन्ते ।  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+[^1]: “Dīkṣā” or Initiation is one of the cardinal principles of the religious conduct of the Bhāgavata system. It consists of five main sacraments, barring a few details that are peculiar to particular sections of the followers. These sacraments are:
+
+> tāpaḥ puṇḍrastathā nāma mantro yāgaśca pañcamaḥ  
+pañcasaṃskārādīkṣaiṣā devadevapriyāvahā  
+pañcasaṃskārādikṣāvān mahābhāgavatassmṛtaḥ
+
+(Viṣṇutilaka Saṃhitā IV. 189-90)
+
+(i) “tāpa” : branding the two arms with the conch and discus emblems,
+
+(ii) “puṇḍra” : marking the forehead and other parts of the body with particular tilaka-materials,
+
+(iii) “nāma” : taking a new name, with the suffix ‘dāsa’, etc.
+
+(iv) “mantra” : taking the ‘aṣṭākṣarī’ (the eight-syllabled) and such other esoteric formulae, and
+
+(v) “yāga” : performing different kinds of worship of the Lord.
+
+All are eligible for this Initiation, irrespective of sex, caste and such other considerations. Cf. Īśvara Saṃhitā:
+
+> svasvavarṇāśramācārasadṛśākṛticeṣṭitān  
+lāñchitān cakrasaśāṅkhābhyāṃ bhujayor dakṣiṇāditaḥ 
+
+(VIII. 179)
+
+> sarve samānāścatvāro gotrapravaravarjitāḥ  
+utkarṣo nāpakarṣaśca jātitasteṣu sammataḥ
+
+> phaleṣu niḥspṛhāssarve dvādaśākṣaracintakāḥ  
+mokṣaikaniścayāśśāvasūtakāśaucavarjitāḥ 
+
+(XXI. 40–41) 
+(*JRAS* for 1911, pp. 946-47)
 </details>
 
 <details><summary>Buitenen</summary>
