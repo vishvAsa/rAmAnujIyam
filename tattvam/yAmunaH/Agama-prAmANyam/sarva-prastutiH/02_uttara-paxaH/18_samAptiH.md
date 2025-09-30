@@ -12,10 +12,9 @@ title = "१८ समाप्तिः"
 
 <details><summary>Buitenen</summary>
 
-139\. May Nāthamuni 285 be victorious, he to whom the Three Principles are immediately evident by virtue of his own miraculous power, he by whose pupils the arrogance of the rivals of the Sāttvata Doctrine is terminated after their own view was rent to pieces by variously apposite arguments, he whose spirit is for ever the abode of the feet of Mukunda. 
+139\. May Nāthamuni 303 be victorious, he to whom the Three Principles are immediately evident by virtue of his own miraculous power, he by whose pupils the arrogance of the rivals of the Sāttvata Doctrine is terminated after their own view was rent to pieces by variously apposite arguments, he whose spirit is for ever the abode of the feet of Mukunda. 
 
-285: Predecessor of Yāmuna at Śrīraṅga.  
-
+[303]: Predecessor of Yāmuna at Śrīraṅga.  
 </details>
 
 
@@ -39,9 +38,9 @@ title = "१८ समाप्तिः"
 
 <details><summary>Buitenen</summary>
 
-May, for the length of this Aeon, play on the pious, enchanting and irreproachable sayings of the extensive collection of prose and verse compositions which eclipse the cleverness of the befuddled, conceited and witless assembly of the evil crowd of the rivals of the Sāttvata doctrine, whose spirit has been increased by the glorious Nāthamunīndra,286 and by which all the unholy powers are cleansed,
+May, for the length of this Aeon, play on the pious, enchanting and irreproachable sayings of the extensive collection of prose and verse compositions which eclipse the cleverness of the befuddled, conceited and witless assembly of the evil crowd of the rivals of the Sāttvata doctrine, whose spirit has been increased by the glorious Nāthamunīndra,304 and by which all the unholy powers are cleansed,
 
-286: Nāthamuni compiled the sayings of the Vaiṣṇava saints, the Āḻvārs.  
+[304]: Nāthamuni compiled the sayings of the Vaiṣṇava saints, the Āḻvārs.  
 
 [[122]]
 

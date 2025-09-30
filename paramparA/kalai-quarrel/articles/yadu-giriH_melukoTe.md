@@ -1,7 +1,7 @@
 +++
 title = "यदुगिरिः"
 +++
-## kaNThIrava narasarAja
+## 1649/ 1709 kaNThIrava narasarAja
 15
 MYSORE DISTRICT. 
 MYSORE TALUK.
@@ -40,11 +40,41 @@ A number of sannads written on old paper and belonging mostly to the 18th and 19
 
 [[114]]
 
-The sannad which is noticed here is the earliest of them and belongs to the reign of Kaṇṭhīrava Narasarāja Voḍeyar but it does not refer to the Parakāla Maṭṭ.  
+The sannad which is noticed here is the earliest of them and belongs to the reign of Kaṇṭhīrava Narasarāja Voḍeyar but it does not refer to the Parakāla Maṭṭ.  ...
 
-The first sannad that refers to the Parakāla Maṭṭ belongs to the time of Hyder Ali and is dated in the year Chitrabhānu sam. Mārgaśira śu. 14 which probably corresponds to November 30, 1762 A.D. Next comes the sannad of the Bēlūr Chief, Krishnappa Nāyaka Ś 1696 Jaya sam. Phāl śu. 15 corresponding to 17th March 1775 A. D. It records the gift of a village to Rāmānuja Parakālasvāmi.
 
-## Tipu sultan
+The present record belongs to the reign of the Mysore king Kanthirava Narasaraja Vodeyar and is dated the 13th lunar day of the dark half of Jyêshtha in the cyclic year Virodhi. It is not dated in the Saka era and there were two kings at Mysore of the name of Kanthirava Narasaraja Vodeyar, the first ruling from 1638 to 1659 and the second ruling from 1704 to 1713 and as the cyclic year Virodhi occurred in both the reigns in 1649 and 1709 it is not easy to definitely fix the date. 
+
+But the nature of the paper on which the grant is written and the language and contents make the latter date more probable for the record.  
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Likely the earlier year, if the below is correct -
+
+> Tirumaliengar was a man of rare talents and ability, and during his time the kingdom of Mysore reached the summit of its prosperity. The king while on his deathbed entrusted his infant son Kantirava Narasaraja Wadayar who was deaf and dumb to the care of his Minister Tirumaliengar and his Pradhan Appajiah, and breathed his last in 1704. 
+
+tirumalai iyengar was melukoTe tenkalai. It's unlikely that, acting on behalf of a deaf and dumb king, would've issued a pro-vaDakalai order.
+</details>
+
+
+Taking this year the date becomes equivalent to 24th June 1709 A. D. [[115]] 
+
+The sannad is not addressed to the Parakala Matt but it is addressed to a certain person named Mêlugôte Châmaiya. The word Śrimatu used before his name indicates his high position. The sannad is issued in the name of the king Kanthirava Narasaraja Vodeyar and on the date, mentioned in the previous para. 
+
+The sannad records an order of the king that the practice of using the tanian (invocatory verse) of Ramanuja Dayapatra in sacred places like the Tirunarayana-svami temple at Mêlukôte on the occasions of reciting Prabandhas (Tamil hymns) which was in vogue from the time of Râjavodeyar, king of Mysore up to the reign of Kanthirava Narasaraja Vodeyar should continue in the future also in the same manner as previously. A copy of this was ordered to be written in the records of the shanbhog (accountant) and the original itself was directed to be fixed in the Sannidhi (shrine) of Ramanujâchârya (at Melukôte). 
+
+This sannad is not directly connected with the Parakâla Matt but contains an order laying down the use of the invocatory verse commencing with the words Ramanuja Dayâpatram in Srivaishnava temples at Mêlukote, etc. This invocatory verse is used by the Vadagale sect of the Srivaishnavas at the time of reciting prabhandas in the temples. 
+
+> Râmânuja-dayâpatram 
+> jnâna-vairagya-bhushanam  
+> śrimad-Venkatanâtharyam  
+> vande Vedantadesikam. 
+
+This invocatory Sanskrit verse commencing with Râmânuja-dayâpâtram is stated in a work called Guru-paramparaprabhavam (of the Vadagalai school) to have been composed by Brahmatantrasvâmi, disciple of Vêdântadêsika and the reputed founder of the Parakala Matt in the Kali year 4440 Bahudhânya sam. Avani-mâsam su 2 Hasta-nakshatra which is equivalent to 18th August 1338 A.D. at Mêlukote and sanctioned by Vêdantadéšika for use in the recitation and study of the Tamil Prabandhas. It is said to have received further support from the approval of the God Ranganatha at Srirangam in the year Sarvadhari. 
+
+The Parakala Matt follows the Vadagale usage and it is only natural that the original order advocating the use of the above tanian should have been secured and preserved by the Parakala Matt at Mysore. The sannad has a seal on the top containing the name Narasaraja in Nâgari characters and the signature Srl below. 
+
+## 1783 shyAmayya + Tipu sultan
 Source: [TW](https://archive.org/details/dli.ministry.09552/page/124/mode/1up)
 
 124
@@ -90,3 +120,19 @@ The Tenkalai school uses the following invocatory verse during the recita- tion 
 Śrīśailēśa-dayāpātram dhibhaktyādi-guṇārṇavam yatīndra-praṇavam vande Ramyajāmātaram munim. 
 
 This verse is said to have been miraculously revealed by God to the disciples of Maṇavāḷa-mahāmuni while they were engaged in the study of the Prabandhas under their guru.
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+anche shyamaNNa, a tenkalai of bhAradvAja gotra had already interfered.  
+vaDakalais complained, and got Tipu to order them to atleast be fair.
+
+parakAla-maTha lore - 
+
+- Issue was taken to tipus court by Parakala matha through the Rajamata.
+- Tks managed to get concession via shyamaNNa, who was nonetheless scolded for show.
+
+Later shyamaNNa was suspected of insurrection. Folks belonging to his bhAradvAja gotra (also of the major conspirator tirumalai iyengar of melukoTe) were said to be massacred. Deepavali of 1783 or 1784 was date of massacre. Sannad on 15 sep 1783. Pre deepavali.
+
+Later still, his native village was given over to parakAla maTha (around 1793).
+</details>
+

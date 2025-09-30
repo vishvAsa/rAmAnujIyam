@@ -462,12 +462,14 @@ because it is not lacking in reason
 > [[104]]  
 and the fact that the sentence-meaning of the statement, 
 > 
-> > "In spring the brahmin must add fuel to the fire," 
+> > "In spring the brahmin must add fuel to the fire," 250
 >
 > is otherwise unestablished  
 does not therefore by Circumstantial-Implication  
 furnish proof that a man is a brahmin;  
 for knowledge of that sentencemeaning presupposes knowledge of the word-meaning of brahminhood etc.
+
+[250]: not identified.
 </details>
 
 
@@ -601,7 +603,9 @@ Nor does it run counter to ordinary experience that the eyes can convey brahminh
 
 <details><summary>Buitenen</summary>
 
-every case the sense becomes the cause of the rise of determination of sense-object when favoured by the accompanying circumstances of place, time, configuration etc. 
+every case the sense becomes the cause of the rise of determination of sense-object when favoured by the accompanying circumstances of place, time, configuration etc.251
+
+[251]: read deśakālasaṃsthānāditi.[[??]]
 </details>
 
 
@@ -646,7 +650,9 @@ As the author says:
 > "No organ of knowledge, whether in Veda or in ordinary process,  
 becomes efficacious in determining the object  
 that is to be realized through the accompanying circumstances  
-unless it is favoured by these circumstances.  
+unless it is favoured by these circumstances.252
+
+[252]: not identified.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1141,8 +1147,10 @@ Consequently the consideration if a smrti statement of this kind cannot give cer
 127\. If it be argued that since these two words also may denote another caste (namely of the vaisya vratyas),  
 then the mere fact that certain brahmins are denoted by these words proves that these brahmins belong to that caste,  
 even though they follow the doctrine of the Bbagavan,  
-it would also follow that, since we find the collocated word acaryas also used to denote the issue of a lowly vaisya,  
+it would also follow that, since we find the collocated word acaryas256 also used to denote the issue of a lowly vaisya,  
 therefore an eminent brahmin who is an acarya imparting teaching of the Veda with its ancillae and its esoteric teachings is thereby denoted as being a vaisya vratya! 
+
+[256]: In the Manu quotation supra § 15.
 </details>
 
 
@@ -1548,7 +1556,9 @@ And this occupational similarity, limited as it is, does not raise the question 
 
 <details><summary>Buitenen</summary>
 
-So here, too, there is a difference between those who perform the pañcakālikā ritual, which is established by the Bhagavan's doctrine, and the low-caste people who do the cleaning-up of the temple and are also called temple-guards.
+So here, too, there is a difference between those who perform the pañcakālikā265 ritual, which is established by the Bhagavan's doctrine, and the low-caste people who do the cleaning-up of the temple and are also called temple-guards.
+
+[265]: supra note.
 </details>
 
 
@@ -1577,7 +1587,11 @@ So here, too, there is a difference between those who perform the pañcakālikā
 
 [[110]]
 
-130\. Further, the contention that, if the words bhāgavata and satvata have their etymological meaning, this entails that the word rathakara in the injunction the "rathakara must build a fire" desomeone belonging to the three varias on account of its etymology of chariot-making,268 is not correct. 
+130\. Further, the contention266 that, if the words bhāgavata and satvata have their etymological meaning, this entails that the word rathakara in the injunction the "rathakara must build a fire"267 desomeone belonging to the three varias on account of its etymology of chariot-making,268 is not correct. 
+
+[266]: supra § 15.
+
+[267]: not identified.
 
 [268]: For the word means etymologically "maker of chariots, carts."" [269]: not identified.
 </details>
@@ -1627,7 +1641,9 @@ would be invalidated.
 
 Despite the fact that rathakāra is also a name for another caste-as learnt from the smṛti 
 
-> "the rathakāra is born out of a kāriṇī by a māhiṣya"  
+> "the rathakāra is born out of a kāriṇī by a māhiṣya" 271
+
+[271]: cf. Amarakoṣa, 10.4.
 </details>
 
 
@@ -1648,11 +1664,13 @@ Despite the fact that rathakāra is also a name for another caste-as learnt from
 
 <details><summary>Buitenen</summary>
 
-nevertheless, since, on Śaṅkha's evidence that ~~so that~~ the rathakāra is born from an anuloma marriage of a kṣatriya man and a vaiśya woman,265  
+nevertheless, since, on Śaṅkha's evidence272 that ~~so that~~ the rathakāra is born from an anuloma marriage of a kṣatriya man and a vaiśya woman,265  
 the rathakāra is not forbidden to perform rites of sacrificing, fire-building and initiation,266  
 
 265: supra § 15\.  
 266: not identified.  
+
+[272]: not verified.
 </details>
 
 
@@ -1671,9 +1689,9 @@ the rathakāra is not forbidden to perform rites of sacrificing, fire-building a
 
 <details><summary>Buitenen</summary>
 
-there is no conflict of qualification for rites that can only be realized through knowledge of the Veda,267 
+there is no conflict of qualification for rites that can only be realized through knowledge of the Veda,273 
 
-267: which is the prerogative only of the three varṇas.  
+[273]: which is the prerogative only of the three varṇas.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1734,9 +1752,9 @@ and so there is no conflict (here).
 
 <details><summary>Buitenen</summary>
 
-Moreover, when knowledge of the thing meant by a word is obtained from the denotation of the separate members that compose the word, then the Author of the Sūtras rules out the validity of a denotation in which the meanings of the component members are lost, namely in prokṣaṇīṣv arthasaṃyogāt. 268
+Moreover, when knowledge of the thing meant by a word is obtained from the denotation of the separate members that compose the word, then the Author of the Sūtras rules out the validity of a denotation in which the meanings of the component members are lost, namely in prokṣaṇīṣv arthasaṃyogāt. 274
 
-268: KMS.  
+[274]: KMS. 
 
 [[111]]
 </details>
@@ -1801,9 +1819,9 @@ Later on we shall show that other smṛtis set forth the eminent brahminhood of 
 
 <details><summary>Buitenen</summary>
 
-131\. The further objection,269 namely why these people should invariably be denoted by the exclusive names of Sāttvata and Bhāgavata, if their brahminhood were the same as that of others, can be answered thus: there is no defect in that, for it is as it is in the case of the names parivrājaka and nigada. 
+131\. The further objection,275 namely why these people should invariably be denoted by the exclusive names of Sāttvata and Bhāgavata, if their brahminhood were the same as that of others, can be answered thus: there is no defect in that, for it is as it is in the case of the names parivrājaka and nigada. 
 
-269: supra § 15\.  
+[275]: supra § 15.  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1840,12 +1858,12 @@ Later on we shall show that other smṛtis set forth the eminent brahminhood of 
 Certain brahmins are called bhāgavatas, just as certain brahmins are called parivrājakas, and certain yajuḥ formulae nigadas, though both are equally brahmins and equally yajuḥ formulae; namely in the statements:  
 
 > The brahmins should remain,  
-the parivrājakas must be fetched; 270  
+the parivrājakas must be fetched; 276  
 "the yajuḥ formulae take place, not the nigadas;  
-the nigadas take place, not the yajuḥ formulae;"271 
+the nigadas take place, not the yajuḥ formulae;"277 
 
-270: not identified.  
-271: not identified.  
+[276]: not identified.
+[277]: not identified.  
 </details>
 
 
@@ -1885,9 +1903,10 @@ and this is so because of the interpretation:
 
 <details><summary>Buitenen</summary>
 
-132\. The contention that the bhāgavatas are bad brahmins because they perform pūjā to the God, partake of the offering substance etc. for a livelihood, is countered in the following manner: 
-</details>
+132\. The contention278 that the bhāgavatas are bad brahmins because they perform pūjā to the God, partake of the offering substance etc. for a livelihood, is countered in the following manner: 
 
+[278]: supra § 16.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1992,9 +2011,9 @@ If the priest were not to receive fees, the pūjā itself would remain fruitless
 <details><summary>Buitenen</summary>
 
 At the conclusion of the worship one must give gold to the priest according to capacity; otherwise the fruit will go to the pūjā priest himself,  
-as is shown by the smṛti: "A sacrifice for which a small fee is given kills (the sacrificer)."272 
+as is shown by the smṛti: "A sacrifice for which a small fee is given kills (the sacrificer)."279 
 
-272: cf. Manu, 11\.40\.  
+[279]: cf. Manu, 11.40.
 </details>
 
 
@@ -2052,10 +2071,9 @@ e.g. in the statement:
 who covets the office, thinking either  
 "He should give me (a fee)"  
 or "He should choose me."  
-"This is as far from the sacrificer as garbage; this does not benefit the sacrificer."273 
+"This is as far from the sacrificer as garbage; this does not benefit the sacrificer."280 
 
-273: AitBr., 3\.46\.  
-
+[280]: AitBr., 3.46.
 </details>
 
 
@@ -2103,9 +2121,9 @@ The donation of the sacerdotal fee which is purified by faith is felicitous for 
 
 <details><summary>Buitenen</summary>
 
-as according to the smṛti, "He who receives the offering and he who {{deit|gives it}} both go to heaven."274
+as according to the smṛti, "He who receives the offering and he who {{deit|gives it}} both go to heaven."281
 
-274: not identified.  
+[281]: not identified.
 
 [[112]]
 </details>
@@ -2130,9 +2148,9 @@ as according to the smṛti, "He who receives the offering and he who {{deit|giv
 
 <details><summary>Buitenen</summary>
 
-133\. The statements that professional worship of the deity and living off the god's treasure makes a man a devalaka275 
+133\. The statements282 that professional worship of the deity and living off the god's treasure makes a man a devalaka275 
 
-275: supra § 16\.  
+[282]: supra § 16.
 </details>
 
 
@@ -2171,7 +2189,9 @@ must be taken to refer to the professional worship of, and the living off the tr
 
 <details><summary>Buitenen</summary>
 
-Thus the blessed Vyāsa: "A devalaka is he who lives on Rudra etc." 
+Thus the blessed Vyāsa: "A devalaka is he who lives on Rudra etc." 283
+
+[283]: This and the following quotations could not be identified.
 </details>
 
 
@@ -2367,9 +2387,11 @@ By considering these and a hundred similar smṛti statements we can be sure tha
 
 <details><summary>Buitenen</summary>
 
-134\. As to the statement that the bhāgavatas cannot pass for exemplary persons because they make use of flower and food offerings, which practice is abhorred by exemplary persons, to this we say: what does the śrotriya 277 mean by left-over flowers and leftover food? 
+134\. As to the statement284 that the bhāgavatas cannot pass for exemplary persons because they make use of flower and food offerings, which practice is abhorred by exemplary persons, to this we say: what does the śrotriya 285 mean by left-over flowers and leftover food? 
 
-277: a Brahman erudite in the Veda and following its observances.  
+[284]: supra § 16.
+
+[285]: a Brahman erudite in the Veda and following its observances.  
 </details>
 
 
@@ -2390,11 +2412,13 @@ By considering these and a hundred similar smṛti statements we can be sure tha
 
 <details><summary>Buitenen</summary>
 
-When he takes it only as the flowers and the cakes,278 he is contradicted by all the world, for nobody approves of wasting flowers and cakes. 
-
-278: If he does not believe that God is present in the effigy, the offerings are obviously not used and cannot be characterized as left-overs. The priest's avoidance of them would simply amount to sinful waste.+++(4)+++  
+When he takes it only as the flowers and the cakes,286 he is contradicted by all the world, for nobody approves of wasting flowers and cakes. 
 </details>
 
+<details><summary>Buitenen - Notes</summary>
+
+[286]: If he does not believe that God is present in the effigie, the offerings are obviously not used and cannot be characterized as left-overs. The priest's avoidance of them would simply amount to sinful waste.+++(4)+++
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2412,9 +2436,13 @@ When he takes it only as the flowers and the cakes,278 he is contradicted by all
 
 <details><summary>Buitenen</summary>
 
-Also, a particularized prohibition is not in order, because it is not established. 
+Also, a particularized prohibition 287 is not in order, because it is not established. 
 </details>
 
+<details><summary>Buitenen - Notes</summary>
+
+[287]: He must make his prohibition specific, in order not to prohibit the priest from using food that is otherwise wasted. But he cannot determine the specification on his own terms.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2501,7 +2529,9 @@ REPLY. Are you now accepting the validity of Pañcaratra? For only when one admi
 
 <details><summary>Buitenen</summary>
 
-For unless the validity of the Tantra is admitted, how can an idol which is set forth in the Tantra be a deity, and, a fortiori, how can the substance that is offered up for this deity's sake be nirmālya and nivedya, 
+For unless the validity of the Tantra is admitted, how can an idol which is set forth in the Tantra be a deity, and, a fortiori, how can the substance that is offered up for this deity's sake be nirmālya and nivedya,288
+
+[288]: used flowers and used food offerings.
 </details>
 
 
@@ -2633,6 +2663,8 @@ therefore the particularization must be determined in the terms of the others', 
 and thus the offering up becomes greatly purifying.  
 And inasmuch as therefore the utilization of nirmālya and nivedya becomes most purifying,  
 it must needs be accepted by those who admit the validity of the Pañcarātra Tantra as well by others who do not.
+
+[289]: without divine utilisation.
 </details>
 
 
@@ -2724,10 +2756,9 @@ should reject nevertheless the nirmālya and nivedya?
 <details><summary>Buitenen</summary>
 
 > Similarly in another passage: "When one has eaten nirmālya, or the foodrests of someone who is not one's guru, one must observe a milk-vow for a month, continuously recite the eight-syllable formula, 
-and drink the pañcagavya,279 in order to be purified." 
+and drink the pañcagavya,279 in order to be purified."290 
 
-279: The {{pancagavya|pañcagavya}} is a substance in which the 5 products of the cow are mingled.  
-
+[290]: The pañcagavya is a substance in which the 5 products of the cow are mingled.
 </details>
 
 
@@ -2842,9 +2873,9 @@ and drink the pañcagavya,279 in order to be purified."
 
 <details><summary>Buitenen</summary>
 
-REFUTATION. To this he says: The utilization of a proffered substance which has been offered up to the deity is not condemned if it is done ~~within~~ after a period of ten nāḍikās.280 
+REFUTATION. To this he says: The utilization of a proffered substance which has been offered up to the deity is not condemned if it is done ~~within~~ after a period of ten nāḍikās.291
 
-280: one nāḍikā is a half muhūrta.  
+[291]: one nāḍikā is a half muhūrta.  
 </details>
 
 
@@ -3035,7 +3066,9 @@ since all this is indeed to be observed by Vaiṣṇavas who are qualified to do
 
 <details><summary>Buitenen</summary>
 
-for it is not to be touched by others, just as the puroḍaśa cake is not to be touched by dogs! 
+for it is not to be touched by others, just as the puroḍaśa cake292 is not to be touched by dogs! 
+
+[292]: cake used at Vedic offerings.
 </details>
 
 
@@ -3239,10 +3272,15 @@ Similarly in the Īśvara Saṃhitā,
 
 <details><summary>Buitenen</summary>
 
-The above statements which to the consecrated prohibit the use of nirmālya at the time mentioned in the time instruction must be understood to mean a time subsequent to that when the (offerings to) the chief of the Bhagavān's retinue281 is being used. 
-
-281: Viśvaksena, to whom pūjā is performed after the main pūjā.  
+The above statements which to the consecrated prohibit the use of nirmālya at the time mentioned in the time instruction293 must be understood to mean a time subsequent to that when the (offerings to) the chief of the Bhagavān's retinue294 is being used. 
 </details>
+
+<details><summary>Buitenen - Notes</summary>
+
+[293]: namely, in the above statement on the 10 nāḍikās.
+
+[294]: Viśvaksena, to whom pūjā is performed after the main pūjā.
+</details> 
 
 <details><summary>मूलम्</summary>
 
@@ -3452,7 +3490,9 @@ He who wears it on his head goes to supreme bliss."
 
 <details><summary>Buitenen</summary>
 
-It follows that the smṛti statement that a man who eats nirmālya and nivedya must perform the cāndrāyaṇa should be taken to bear upon the nirmālya of Rudra, Kālī etc.
+It follows that the smṛti statement that a man who eats nirmālya and nivedya must perform the cāndrāyaṇa 295 should be taken to bear upon the nirmālya of Rudra, Kālī etc.
+
+[295]: as quoted supra § 16.
 </details>
 
 
@@ -3530,7 +3570,9 @@ Thus in the Mahābhārata:
 
 <details><summary>Buitenen</summary>
 
-Likewise in another passage, "what has been offered to the god must be given to a brahmacārin." 
+Likewise in another passage, "what has been offered to the god must be given to a brahmacārin."296 
+
+[296]: Mahābhārata quotations not verifiable.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3560,7 +3602,9 @@ Likewise in another passage, "what has been offered to the god must be given to 
 
 Thus in the Mahābhārata: 
 
-> "The saintly knowers of the Pañcaratra ate in his house that which had been left over by the Bhagavān, as a means to attain to bliss, as supreme nourishment." 
+> "The saintly knowers of the Pañcaratra ate in his house that which had been left over by the Bhagavān, as a means to attain to bliss, as supreme nourishment."297 
+
+[297]: The ritual taking of food is considered a performance of the prāṇāgnihotra.
 </details>
 
 
@@ -3738,9 +3782,9 @@ but actually given to Viśvaksena shows that.
 
 <details><summary>Buitenen</summary>
 
-He is familiar under various guises, or just as at a sacrifice the soma juice that is left over by the hotṛ is pure to the adhvaryu, so it is also with the nirmālya.284
+He is familiar under various guises, or just as at a sacrifice the soma juice that is left over by the hotṛ is pure to the adhvaryu, so it is also with the nirmālya.298
 
-284: The hotṛ is the principal reciting priest at the soma sacrifice, the adhvaryu the main executive.  
+[298]: The hotar is the principal reciting priest at the soma sacrifice, the adhvaryu the main executive
 </details>
 
 
@@ -3821,6 +3865,8 @@ here again ignorance is to blame.
 It is not your Honour's fault  
 that the Bhagavatas, who have the Vājasanevasakha in the transmission of their family line,  
 observe the sacraments of conception ceremony etc. according to the manner laid down by the grhyasutras of Katyayana etc. 
+
+[299]: supra § 17.
 </details>
 
 
@@ -3845,11 +3891,13 @@ observe the sacraments of conception ceremony etc. according to the manner laid 
 Those who perform the forty sacraments  
 which are enjoined by the Ekayana scripture  
 while giving up the dharmas of the Veda,  
-from the recitation of the gayatri onward, [[300]]  
+from the recitation of the gāyatri onward, 300  
 they properly follow the rules laid down by the grhyasutras of their own sakha  
 and do not abdicate their brahminhood  
 because they fail to follow the rites of a different shakha;  
-since otherwise it would follow that other brahmins too would forfeit their brahminhood because they fail to perform the rites enjoined by other [[121]] people's Sakha. 
+since otherwise it would follow that other brahmins too would forfeit their brahminhood because they fail to perform the rites enjoined by other [[121]] people's Sakha.
+
+[300]: namely, at the upanayana ceremony.
 </details>
 
 
@@ -3916,7 +3964,7 @@ do not all together accumulate in any one place.
 
 <details><summary>Buitenen</summary>
 
-And the Aspirants who are distinct from those brahmins who are qualified for rites of the aindragneya etc.,  
+And the Aspirants who are distinct from those brahmins who are qualified for rites of the aindrāgneya etc.,301  
 which are means leading to the enjoyment of rewards like heaven etc.,  
 as enjoined by the three Vedas,  
 and who themselves are qualified for the rites of the Ekayana,  
@@ -3925,6 +3973,7 @@ viz. knowledge, cleansing the way to the Lord, preparation of worship and oblati
 It follows that the non-observance of certain rites enjoined by different sākhās  
 does not mean that either one forfeits his brahminhood-  
 
+[301]: aindrāgneya, name of a spauta[[??]] ritual.
 </details>
 
 
@@ -3943,8 +3992,10 @@ does not mean that either one forfeits his brahminhood-
 
 <details><summary>Buitenen</summary>
 
-that the Ekāyana sākhā is preterpersonal scripture has been enlarged upon in the Treatise on the Validity of Kasmira Agama,\*  
+that the Ekāyana sākhā is preterpersonal scripture has been enlarged upon in the Treatise on the Validity of Kasmira Agama,302  
 and is therefore here not further discussed. 
+
+[302]: Name of a work of Yāmuna.
 </details>
 
 

@@ -34,11 +34,8 @@ Therefore, how can our tongue endeavour to say that the Tantra which is revealed
 <details><summary>Buitenen</summary>
 
 > For He is such that He has an immediate insight into the dharma of Consecration, Propitiation etc., by virtue of the omniscience that is natural to Him.177
-</details>
 
-<details><summary>Buitenen - Note</summary>
-
-177: read sa hi 
+[177]: read sa hi sahajasaṃvedanasākṣātkṛta dīkṣārādhanādidharmaḥ
 </details>
 
 

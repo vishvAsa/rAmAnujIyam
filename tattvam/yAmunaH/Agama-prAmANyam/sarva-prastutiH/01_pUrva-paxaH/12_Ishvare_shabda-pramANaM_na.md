@@ -1,9 +1,8 @@
 +++
 title = "१२ ईश्वरे शब्द-प्रमाणं न"
-
 +++
 ## पूर्वपक्षः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च केवल-तर्क-बलाद् अयं  
 यदि **सिषाधयिषा**-पदम् ईश्वरः ।  
@@ -30,7 +29,7 @@ This is Yamuna's objection, which states the extent to which he concurs in the p
 भवतु नाम तथा सति दूषणं श्रुतिशिरःप्रमितो हि महेश्वरः ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यदा तु सकल-भुवन-निर्माण-क्षम--  
 सर्व-ज्ञ--सर्वेश्वर--परम-पुरुष-प्रतिपादकानि नित्यागम-वचनान्य् एव बहुलम् उपलभ्यन्ते  
@@ -53,7 +52,7 @@ how then can we refuse to accept the authority of a tradition which derives from
 ### प्रमाणान्तर-गोचरता-सम्भावना न बाधते
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="../../aMshaH/na_cha_siddhe">
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **न** च +++(ईश्वर-निभे)+++ सिद्धे वस्तुनि  
 > +++(तद्-वस्तु-)+++साधक-बाधकयोर् अन्यतरोपनिपात-सम्भव-प्रसक्तेर्  
@@ -91,7 +90,7 @@ To the Prabhakara this validity is ideal in the case of injunctions concerning a
 न च सिद्धे वस्तुनि साधकबाधकयोरन्यतरोपनिपातसम्भवप्रसक्तेर्भावितानुवादविपर्ययपर्यालोचनया तद्गोचरवचसः प्रामाण्यप्रच्युतिः कार्यनिष्ठस्यापि तत्प्रसङ्गात्, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > +++(लौकिकं←)+++कार्यम् अपि हि मानान्तर-वेद्यम् एव +++("ओदनेन होतव्यम्" इत्यत्र)+++ लौकिकं समिद्-आहरणादि,  
 तच् च मानान्तरेणापि **वेद्यम्** ओदन-पाकवद् इत्य् अभ्युपगमात् ।  
@@ -124,7 +123,7 @@ $ Vide Prakaraṇapañcikā II, p. 180-
 वेद्यम् ओदन-पाकवत् ॥ " 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 >> अथ विलक्षणाग्नि-होत्रादि-विषय-कार्यस्यासम्भावित-मानान्तरतया  
 > तत्-प्रतिपादयद् वचः प्रमाणम्,  
@@ -142,7 +141,7 @@ therefore the verbal testimony which sets forth such a thing must needs be its a
 > अथ विलक्षणाग्निहोत्रादिविषयकार्यस्यासम्भावितमानान्तरतया तत्प्रतिपादयद्वचः प्रमाणम्,  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > हन्त तर्हि निरतिशयावबोधैश्वर्य-महाऽऽनन्द-सन्दोह-वपुषि भगवति  
 > न मानान्तर-गन्ध-सम्बन्ध  
@@ -165,7 +164,7 @@ depending on one's particular partisan views.
 
 </div>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अपि च प्रवृत्त-प्रमाणान्तरम् अपि  
 > स्व-गोचरं तद्-गोचरतया नावभासयतीति  
@@ -186,7 +185,7 @@ since verbal testimony concerning its fact may conceivably turn up?
 अपि च प्रवृत्तप्रमाणान्तरमपि स्वगोचरं तद्गोचरतया नावभासयतीति परमपि प्रमाणमेव कुतस्तदुपनिपातसम्भावनयाऽनुवादत्वम्,  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > कथं वा प्रत्यस्तमित-समस्त-पुरुषाशय-दोष-संस्पर्श--नित्यागम-भुवः प्रत्ययस्य पूर्वोपमर्दकतयन्नीयमानस्य  
 सम्भाव्यमान-विविध-विप्लवैः प्रमाणान्तरैर् अपवादापादनम्  
@@ -218,7 +217,7 @@ as in the case of Pancaratra.
 </details>
 
 ### निगमनम्
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इत्थञ् च श्रुति-शत-समधिगत--विविध-बोधैश्वर्यादि-वैभवे भगवति  
 > सामान्य-दर्शनावसितासार्वज्ञ्य-विग्रहवत्तादयो दोषा  
@@ -245,7 +244,7 @@ since Scripture can indeed validly pronounce on God.
 इत्थञ्च श्रुतिशतसमधिगतविविधबोधैश्वर्यादिवैभवे भगवति सामान्यदर्शनावसितासार्वज्ञ्यविग्रहवत्तादयो दोषा नावकाशमश्नुवते हुतभुजीव शैत्यादयः ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ततश् च -  
 > 
@@ -271,7 +270,7 @@ while it is composed by the Omniscient One Himself
 तन्त्रं मिथ्येति वक्तुं नः कथं जिह्वा प्रवर्तते ॥  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अहो मन्दस्य मीमांसा-  
 श्रम-हानिर् **विजृम्भते** ।  
@@ -298,7 +297,7 @@ The Prabhakaras, who are notorious for the gaurava 'complicatedness" of their ar
 
 ## कार्य-सम्बन्धे हि व्युत्पत्तिः
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्ये मानान्तरापूर्वे  
 समस्तं वैदिकं वचः ।  
@@ -319,7 +318,7 @@ only concerning such karyas as cannot presuppose any other authority.
 प्रमाणमिति हि प्राज्ञाः मन्यन्ते मान्यबुद्धयः ॥  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पदानां तत्+++(→प्रमाणान्तरागोचर-कार्य)+++-परत्वेन  
 व्युत्पत्तेर् **अवधारणात्** ।  
@@ -341,7 +340,7 @@ if it concerns something else than a karya.
 न खल्वन्यपरे शब्दे व्युत्पत्तेरस्ति सम्भवः ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि वृद्धयोर् व्यवहरतोर् एकतर-वृद्ध-प्रयुक्त-शब्द+++(←"गाम् आनय")+++-श्रवण-समनन्तर--  
 जनितान्यतर-वृद्ध-समवेत-चेष्टां **दृष्ट्वा**  
@@ -389,7 +388,7 @@ it must have been the first man's statement.
 तथा हि वृद्धयोर्व्यवहरतोरेकतरवृद्धप्रयुक्तशब्दश्रवणसमनन्तरजनितान्यतरवृद्धसमवेतचेष्टां दृष्ट्वा अन्यथाऽनुपपत्त्युन्नीयमाना शब्दशक्तिस्तदुपपादककार्यपर्यवसायिन्येवावसीयते,
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **प्रतीता** हि स्व-कार्य-सन्ताने  
 कार्य-संविद् एव तत्-तद्-विशिष्ट-चेष्टा-हेतुतया।  
@@ -415,7 +414,7 @@ that he proceed to his action immediately upon become aware of what he has to do
 प्रतीता हि स्वकार्यसन्ताने कार्यसंविदेव तत्तद्विशिष्टचेष्टाहेतुतया तदयमिहापि तादृशीं प्रवृत्तिं पश्यन्नेवमाकलयति - नूनमितस्सकाशादस्य कार्यसंविदाविरासीत् यदयमेतदनन्तरं प्रवर्तत इति,
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं च  
 समस्त-व्यवहारानुगत-प्रवृत्ति-निमित्त--कार्य-प्रतिपादन-परतया व्युत्पन्ने शब्दे  
@@ -448,7 +447,7 @@ is dependent upon the injunctive denotation of the statement as a whole.
 एवं च समस्तव्यवहारानुगतप्रवृत्तिनिमित्तकार्यप्रतिपादनपरतया व्युत्पन्ने शब्दे यत्पदावापोद्धारानुयायिनोयेऽर्थभागास्ते प्रथमावगतप्रधानभूतकार्यानुगुणतया तैस्तैरभिधीयन्ते इत्यध्यवस्यति, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र च लिङ्-आदयो  
 ऽव्यभिचरित-कार्य-संविदः कार्य-शरीरम् एव  
@@ -490,7 +489,7 @@ only one who desires to go to heaven has title to, is qualified for, the perform
 तत्र च लिङादयोऽव्यभिचरितकार्यसंविदः कार्यशरीरमेव साक्षात्समर्पयन्ति तिङादयस्तु तदपेक्षिताधिकाराद्यनुबन्धप्रतिपादनमुखेन तत्समन्वयमनुभवन्तीति ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** च पुत्र-जननादि-स्वरूपावेदन-पर्यवसायिनः पद-निचयस्य  
 अविरल-पुलकोदय--वदन-विकासादिभिर् अभिमत-सुत-जन्मादि-प्रतिपादन-**शक्ति-निश्चयः** -  
@@ -523,7 +522,7 @@ This is an example like "it is hot today;" the young father's happy countenance 
 न च पुत्रजननादिस्वरूपावेदनपर्यवसायिनः पदनिचयस्याविरलपुलकोदयवदनविकासादिभिरभिमतसुतजन्मादिप्रतिपादनशक्तिनिश्चयः अजातातिवृत्तप्रत्युत्पन्नविविधहर्षहेतूपनिपातेयममुनेति निर्धृत्य प्रतिपत्तुमशक्यत्वात् ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतेन +++("स्वर्गकामः सोमेन यजते"→)+++ व्युत्पन्नेतर-पद-समभिव्याहृत--वर्तमान-निर्देशेऽपि  
 कार्यैदम्पर्य-विरहित-पद--शक्ति--निश्चय-प्रतिविधिर् +++(लिङ्-आक्षेपेण)+++ **अनुसंधातव्यः** ।  
@@ -550,7 +549,7 @@ E.g., the sentence "he who desires to go to heaven offers the soma sacrifice," i
 एतेन व्युत्पन्नेतरपदसमभिव्याहृतवर्तमाननिर्देशेऽपि कार्यैदम्पर्यविरहितपदशक्तिनिश्चयप्रतिविधिरनुसंधातव्यः ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "पदान्तराणि यादृङ्क्षि  
 **व्युत्पद्यन्ते** च तादृशम् ।  
@@ -576,7 +575,7 @@ summarized in the formula anvitābhidhāna, which is short for kāryānvitābhid
 इदञ्च पदमित्येव तत्र व्युत्पद्यते नरः ॥  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि कार्यान्वित-स्वार्थ-  
 **बोधकानीति साधितम्** ।  
@@ -598,7 +597,7 @@ is based on this that they give rise to the notion of karya.
 अथ तद्बुद्धिहेतुत्वात् प्रामाण्यं भूतगोचरम् ॥  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **इष्यते** तद्+++(→कर्य-बोधन)+++-अनेकान्तं+++(=क्वचित्ता)+++  
 पदेष्व् इति **न शोभते** ।  
@@ -626,7 +625,7 @@ This point will be taken up and confirmed infra §04.
 अथ तत्परता हेतुस्ततश्च स्यादसिद्धता ॥  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ह्य् अकार्यरूपे वस्तुनि क्वचिदपि शाब्दी बुद्धिः प्रर्यवस्यति ।  
 </details>
@@ -641,7 +640,7 @@ For a notion that arises from a verbal statement can never terminate in any obje
 न ह्यकार्यरूपे वस्तुनि क्वचिदपि शाब्दी बुद्धिः प्रर्यवस्यति ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 याः पुनर् लौकिक-शब्द-श्रवण-समनन्तर-भाविन्यो ऽन्वयावगतयस्  
 ता आनुमानिक्यो ऽभिहिताः,  
@@ -674,7 +673,7 @@ river bank 'river bank," etc.
 याः पुनर्लौकिकशब्दश्रवणसमनन्तरभाविन्योऽन्वयावगतयस्ता आनुमानिक्योऽभिहिताः न शाब्द्य इत्युपपद्यत एव तासामतत्पर्यवसानम् ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि तत्+++(=कार्य)+++-परता-**ग्राहः**  
 शब्दानां **नैव विद्यते** ।  
@@ -696,7 +695,7 @@ be accepted as an injunction?
 अग्निहोत्रञ्जुहोतीति विधिः कस्मादुपेयते ॥  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अथ तत्र प्रमाणत्वे  
 **संवृत्ते** ऽपि च तावता ।  
@@ -716,7 +715,7 @@ it is accepted as an injunction in order to ensure that it subserves a purpose,
 पुरुषार्थत्वलाभाय विधिरभ्युपगम्यते ॥  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् असन् - **न** प्रमाणानां  
 **प्रयोजन-वशानुगा** ।  
@@ -739,7 +738,7 @@ dependent on the operation of the means of knowledge.
 प्रवृत्तिः किन्तु तन्मूलः प्रयोजनपरिग्रहः ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** खलु कनकम् **अभिलषतः**  
 शिलावलोकनम् **अनभिमतम्**  
@@ -759,7 +758,7 @@ therefore one finds gold!
 न खलु कनकमभिलषतः शिलावलोकनमनभिमतमिति कनकावलोकनताऽश्रयितुमुचिता ।
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तात्पर्यम् एव शब्दानां  
 यावत् कार्ये **न कल्पितम्** ।  
@@ -784,7 +783,7 @@ contains an injunction.+++(5)+++
 
 ## उपनिषद्-वाक्यावगतिः
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवञ् चोपनिषदाम् अपि  
 तत्र-तत्राम्नायमान-ज्ञानोपासनादि-विधि-शेषतया ऽर्थो **व्याकरणीयः**,  
@@ -816,7 +815,7 @@ supposes the immortality of the performer.
 एवञ्चोपनिषदामपि तत्रतत्राम्नायमानज्ञानोपासनादिविधिशेषतयाऽर्थो व्याकरणीयः, तदयमर्थः सर्वज्ञमानन्दमात्मानं जानीयात् इति ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** च तावता स्वरूपम् अपि सिध्यतीत्य् **अध्यवसेयम्** -  
 अ-सत्य् एव रूपे तादृशि  
@@ -837,7 +836,7 @@ a certain thing be such while actually it is not so;
 न च तावता स्वरूपमपि सिध्यतीत्यध्यवसेयम् असत्येव रूपे तादृशि तथा विधानोपपत्तेः ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैतद् अ-पितर्य् एव "पितरञ् जानीयाद्" इति  
 तथा चानुद्गीथ ओङ्कार उद्गीथ-विधानम् इति ।  
@@ -854,7 +853,7 @@ or "Know that the[[34]] syllable OM, which is not the udgitha, is the udgitha." 
 यथैतदपितर्येव पितरञ्जानीयादिति तथा चानुद्गीथ ओङ्कार उद्गीथविधानमिति ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यानि पुनर् आत्म-सत्यत्व-नित्यत्व-वादीनि वाक्यानि  
 तान्य् +++(विधि-वाक्ये→)+++अ-विशेषित-काल--कर्म-विधानाक्षिप्यमाण+-  
@@ -881,7 +880,7 @@ In this the Prabhakara concurs with the Bhatta. Injunctions without time of frui
 यानि पुनरात्मसत्यत्वनित्यत्ववादीनि वाक्यानि तान्यविशेषितकालकर्मविधानाक्षिप्यमाणामुष्मिकफलभोगोचितचेतनकर्तृप्रतिपादनपराणि 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो न किञ्चिद् अपि वचो भूते +++(←सिद्धे)+++ ऽर्थे प्रमाणम् ।  
 </details>
@@ -896,7 +895,7 @@ Therefore, no verbal statement whatever is a means of knowing a thing as such.
 अतो न किञ्चिदपि वचो भूतेऽर्थे प्रमाणम् ।
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतः सर्वार्थवादानाम् अपि  
 परिनिष्ठित-रुद्र-रोदनादि-प्रतिपादन-परता-वारणोपपादनेन  
@@ -924,7 +923,7 @@ On this point see KMS 1.2.1. with Sabara's bhāṣya.
 </details>
 
 ## उपसंहारः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माद् **अ-पर्यालोचित**-पूर्वापर-पद-तात्पर्याणाम्  
 आपातायात-श्रद्धा-**विरचित**-विग्रहो ऽयम् **उद्ग्राहितः** पुरुष  
@@ -945,7 +944,7 @@ with which we conclude our extensive discussion.
 तस्मादपर्यालोचितपूर्वापरपदतात्पर्याणामापातायातश्रद्धाविरचितविग्रहोऽयमुद्ग्राहितः पुरुष इत्यलमतिविस्तरेण ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धम् इदं - न श्रुतितो ऽप्य् अभिमत-पुरुषातिशयः सिध्यतीति ।
 </details>
@@ -961,7 +960,7 @@ with which we conclude our extensive discussion.
 </details>
 
 ## सिद्ध-वस्तु-परत्वेऽपि नेश्वरः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च भवतु भूतम् अपि वस्तु शास्त्रस्य विषयः, 
 </details>
@@ -976,7 +975,7 @@ Let us, further, suppose that Scripture can indeed convey knowledge of facts;
 अपि च भवतु भूतमपि वस्तु शास्त्रस्य विषयः, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ च कथम् इव चोदना-जनित-धियम् **अवधीर्य**  
 धर्माधर्मौ **विजानाति** कश्चिद् इत्य् **अभ्युपेयते**? 
@@ -995,7 +994,7 @@ when we take into account the cognition that arises from injunction?
 अथ च कथमिव चोदनाजनितधियमवधीर्य धर्माधर्मौ विजानाति कश्चिदित्यभ्युपेयते  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वज्ञता हि प्रसिद्धैर् एव प्रमाणैः यथा-यथम् अर्थान् अवगच्छतोऽपि संगच्छते, 
 </details>
@@ -1017,7 +1016,7 @@ On the Bhatta view of omniscience, cf. Kumārila, Samb. 47-59; 114-116.
 सर्वज्ञता हि प्रसिद्धैरेव प्रमाणैः यथायथमर्थानवगच्छतोऽपि संगच्छते, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि तद् अस्ति वचनं  
 यद् अस्य  
@@ -1036,7 +1035,7 @@ by cancelling the normal means of knowledge.
 न हि तदस्ति वचनं यदस्य प्रसिद्धबुद्ध्युत्पादनहेतुहानमुखेन सार्वज्ञ्यं ज्ञापयति ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्य् अपि किञ्चिद् अभविष्यत्  
 तथाऽपि परस्परान्वयाऽनुचित-पदार्थतया  
@@ -1056,7 +1055,7 @@ since its word-meanings would not allow of mutual relation.
 यद्यपि किञ्चिदभविष्यत् तथाऽपि परस्परान्वयाऽनुचितपदार्थतयाऽर्थवादतयैव समर्थनीयम्
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रमाणान्तरावगत-योग्यतादि-**पुरस्-सरी**  
 पदेभ्यो वाक्यार्थ-बुद्धिर् **उपजायमाना** -  
@@ -1085,7 +1084,7 @@ i.e, the appropriateness or propriety of a word in collocation with other words;
 प्रमाणान्तरावगतयोग्यतादिपुरस्सरी पदेभ्यो वाक्यार्थबुद्धिरुपजायमाना प्रथमतरनिपतितापेक्षितप्रमाणान्तरविरोधे कथमिव जनिमनुभवतीति सम्भावयामः ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यक्षादि-**प्रतिक्षिप्त**-  
 गोचरं वचनं यदि ।  

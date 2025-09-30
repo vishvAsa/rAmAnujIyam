@@ -14787,12 +14787,15 @@ también **confiere** riqueza ".
 
 <details><summary>नीलमेघः (सं)</summary>
 
+नारदीय-कल्पे ऽपि, 
+
 > ‘‘रोगापद्भय-दुःखेभ्यो  
 **मुच्यन्ते** नात्र संशयः ।  
 अपि नारायणेत्येतच्-  
 छब्द-मात्र-प्रलापिनः॥’’  
 (नारदीयम् १-३८) 
 
+इत्य् अभ्यधायि । 
 </details>
 
 <details><summary>विषयः</summary>
@@ -14823,14 +14826,32 @@ En el nāradīya kalpa **se dice**:
 नारदीयकल्पत्तिलुम् ‘‘रोगापद्भयदुःखेभ्यो मुच्यन्ते नात्रसंशयः । अपि नारायणेत्येतच्छब्दमात्रप्रलापिनः’’(नारदीयम् १-३८) ऎऩ्ऱुञ्जॊल्लप्पट्टदु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नारदीयकल्पत्तिलुमिति । इङ्गुम् ‘‘एतच्छब्दमात्र’’ ऎऩ्बदाल् अर्थज्ञानम् व्यावर्तिक्कप्पडुगिऱदु। 
+</details>
+
+
+
 #### अष्टाक्षर-समता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदु तऩ्ऩैये  
+> इदु तऩ्ऩैये  
 स्वर-व्यञ्जन-भेदत्ताले ऎट्टु तिरुवक्षरम् आग भाविक्कत्  
 तिरु-मन्त्रत्तोड् ऒक्कुम्  
+
 ऎऩ्ऱु पुराणान्तरोक्तम्। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अयम् एव स्वर-व्यञ्जन-भेदेनाष्टाक्षरत्वेन ध्यायमानः  
+श्रीमन्त्र-तुल्यो भवति
+
+इति पुराणान्तरोक्तम् ॥
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -14854,14 +14875,355 @@ y **puede ser tratado** como tal.
 इदु तऩ्ऩैये स्वरव्यञ्जनभेदत्ताले ऎट्टु तिरुवक्षरमाग भाविक्कत् तिरुमन्त्रत् तोडॊक्कुमॆऩ्ऱु पुराणान्तरोक्तम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> ‘‘कृष्णः कृष्णः कृष्ण इत्यन्तकाले  
+जल्पन् जन्तुर् जीवितं यो जहाति ।  
+आद्यश् शब्दः कल्पते तस्य मुक्त्यै  
+व्रीडा-नम्रौ तिष्ठतो ऽन्याव् ऋण-स्थौ॥’’+++(5)+++,  
+
+> ‘‘बद्धः परिकरस् तेन मोक्षाय गमनं प्रति ।  
+सकृद्-उच्चरितं येन हरिर् इत्य् अक्षर -द्वयम्॥’’
+
+ऎऩ्गिऱबडि इन्द प्रभावम् कृष्णहर्यादिशब्दङ्गळुक्कुम् इल्लयोवॆऩ्ऩ? नारायणशब्दत्तिऱ्कु अनितरसाधारणप्रभावत्तैक् काट्टुगिऱार् इदु तऩ्ऩैये इत्यादिना । इदु तऩ्ऩैये - इन्द नाऩ्गक्षरत्तैये, स्वरव्यञ्जनभेदत्ताले इति । स्वरमावदु अच्चुक्कळ्, व्यञ्जनमावदु हल्लुक्कळ्। इवैगळुडैय भेदत्ताले, अदावदु नकाराकाररेफाकारयकाराकारणकाराकारभेदत्ताले ऎऩ्गै।  
+
+</details>
 
 
+### नार-सम्बन्ध-निष्कर्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The compound word Nārāyaṇa may be split up into its two component parts thus: Nārāh ayanam yasya (He to whom Nārās are the resting place ) and Nārāṇām ayanam (the resting place of Nārās). The word Nārās is here determinate in meaning and denotes only the nārās (sentient beings and non-sentient things) and does not refer also to the Lord who is their inter self. Therefore the two words are not in grammatical apposition. Nammalvar distinctly showed the meanings of these two ways of combining the two parts of the word (samāsa) in the following two passages by using the word at the end and at the beginning respectively. "He who has, as His śeṣas," countless jīvas with knowledge and bliss as their attributes and with self-luminousness as their nature and also His own noble qualities--that Nārāyaṇa," and " Nārāyaṇa" is the Lord of all the seven worlds". In this are implicit (Bhagavān's) possessing the two kinds of attributes, namely, freedom from defects and possession of all auspicious and noble qualities and, likewise, His possession of the two vibhūtis (glories), namely Līlā Vibhūti (this (material) Universe) with all the sentient and nonsentient beings in it) and Nitya Vibhūti, (the transcendental region of eternal glory with all that it contains). It should be borne in mind that this nārās includes the queen, the ornaments, the weapons, the attendants, the furniture and the like, the door-keepers, the retinue and such others.
+ईश्वरऩोडु पृथक्-सिद्धङ्गळ् अल्लाद नारङ्गळुक्कु  
+"नाराः अयनं यस्य" ऎऩ्ऱुम्  
+"नाराणाम् अयनं" ऎऩ्ऱुम् +++(ईश्वरान्)+++ निष्कर्ष-विवक्षैयाले  
++++(जीव-ब्रह्मणोर्)+++ वैयधिकरण्यम् उण्ड् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P289]]
+
+ईश्वरापृथक्-सिद्धानां नाराणाम्,  
+'नारा अयनं यस्य' इति,  
+'नाराणाम् अयनम्' इति च +++(जीव-ब्रह्मणोर्)+++ वैयधिकरण्यं   
++++(ईश्वरान्)+++ निष्कर्ष-विवक्षया जातम् । 
+</details>
+
+<details><summary>English</summary>
+
+The compound word Nārāyaṇa may be split up into its two component parts thus:  
+
+> "Nārāh ayanam yasya"  
+(He to whom Nārās are the resting place ) 
+
+and 
+
+> Nārāṇām ayanam  
+(the resting place of Nārās). 
+
+The word Nārās is here determinate in meaning  
+and denotes only the nārās (sentient beings and non-sentient things)  
+and does not refer also to the Lord who is their internal self.  
+Therefore the two words are not in grammatical apposition. 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra compuesta nārāyaṇa **puede dividirse** en sus dos partes componentes así:  
+
+> "Nārāh Ayanam Yasya"  
+(El que los nārās **son** el lugar de descanso) 
+
+y 
+
+> Nārāṇām ayanam  
+(El lugar de **descanso** de Nārās). 
+
+La palabra nārās **está** aquí **determinada** en significado  
+y **denota** solo los nārās (seres sensibles y cosas no sensibles)  
+y **no se refiere** también al Señor que **es** su yo interno.  
+Por lo tanto, las dos palabras **no están** en **aposición** gramatical.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩोडु पृथक्सिद्धङ्गळल्लाद नारङ्गळुक्कु नाराः अयनं यस्य ऎऩ्ऱुम् नाराणामयनं ऎऩ्ऱुम् निष्कर्षविवक्षैयाले वैयधिकरण्यमुण्डायिऱ्ऱु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> इत् तिरुमन्त्रत्तिल् मकारङ्गळुम्,  
+नारशब्दमुम् निष्कर्षविवक्षैयाले विशेषणमात्र-परङ्गळ् 
+
+ऎऩ्ऱु कीऴ्च्चॊऩ्ऩ निष्कर्ष-विवक्षैयाले  
+नार-शब्दत्तिऱ्कुम् अयन-शब्दत्तिऱ्कुम् वैयधिकरण्यम् उण्ड् आय् इऱ्ऱ् ऎऩ्गिऱार् ईश्वरऩोडु इत्यादियाल्। 
+
+पृथक्सिद्धङ्गळल्लाद नारङ्गळुक्कु इति ।  
+नारङ्गळुक्कु - नार-वाचक-शब्दङ्गळुक्कु,  
+अ-पृथक्-सिद्ध-नार-वाचिय् आऩ नार-शब्दत्तिऱ्कु समानाधिकरण-निर्देशमे उचितम् आयिरुक्क  
+निष्कर्षविवक्षैयाले व्यधिकरणनिर्देशम् प्राप्तमायिऱ्ऱ् ऎऩ्ऱु करुत्तु।
+</details>
+
+#### शठकोपोक्ती
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इश् शब्दत्तुक्कु नम्म्-आऴ्वार्  
+
+> ऎण्+++(=गणना)+++-पॆरुक्क्+++(=वर्धयत्)+++ +++(ज्ञाननानन्दादि-)+++ अन्-नलत्तु+++(=गुण)+++  
+ऒण्+++(=उज्ज्वल)+++-पॊरुळ् +++(→जीव)+++ ईऱ्+++(=नाश)+++-इल  
+वण्+++(=उदार)+++-पुगऴ्+++(=कीर्ति)+++ नारणऩ्  
+(तिरुवाय्मॊऴि १-२-१०) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य शब्दस्य श्रीशठकोप-सूरिः, 
+
+> "संख्यातीत-तादृश-कल्याण-गुणक--  
+तेजः(स्वप्रकाश)-पदार्थ--नाश-रहित--  
+विलक्षण-गुण-नारायण[स्य]"
+
+इति +++(नारा अयनं यस्येति सूचिका)+++, 
+</details>
+ 
+<details><summary>English</summary>
+
+Nammalvar,  
+in the following two passages  
+
+> "He who has, as His śeṣas,  
+countless jīvas with knowledge and bliss as their attributes  
+and with self-luminousness as their nature  
+and also His own noble qualities-- that Nārāyaṇa," 
+
+</details>
+
+<details><summary>Español</summary>
+
+Nammalvar,  
+En los **siguientes** dos pasajes  
+
+> "El que **tiene**, como su Śeṣas,   
+innumerables jīvas con **conocimiento** y felicidad como sus atributos  
+y con la **autocomisión** como su naturaleza  
+y también sus propias cualidades nobles, que nārāyaṇa ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इश् शब्दत्तुक्कु नम्माऴ्वार् ’’ऎण्बॆरुक्कन्नलत्तॊण् पॊरुळीऱिल वण् पुगऴ् नारणऩ्’’(तिरुवाय्मॊऴि १-२-१०) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप् पदत्तिल् नारा अयनं यस्य ऎऩ्गिऱ बहुव्रीहिसमासत्तिऩालुम्, नाराणां अयनं ऎऩ्गिऱ तत्पुरुषसमासत्तिऩालुम् किडैत्त अर्थङ्गळै नम्माऴ्वार् ऎण् पॆरुक्कन्नलत्तु इत्यादियाल् प्रकाशिप्पित्तारॆऩ्गिऱार् इश् शब्दत्तुक्कु इत्यादियाल्। ऎण् - सङ्ख्यै, पॆरुक्कु - आनन्त्यम्, सङ्ख्यैयिऩुडैय आनन्त्यत्तैयुडैत्ताऩ, असङ्ख्यातमाऩ ऎऩ्ऱबडि। अन्नलत्तु - तादृशज्ञानानन्दाश्रयमाऩ, ऒण्बॊरुळ् - स्वयम्प्रकाशमाऩ जीवऩ्गळै व्याप्यमागवुडैयवऩाय्, इदु असित्तिऱ्कुमुबलक्षणम्, ईऱिल - ऎल्लैयऱ्ऱ, वण् - उदारङ्गळाऩ, पुगऴ् – कल्याणगुणङ्गळै उडैयवऩुमाऩ, नारणऩ् - नारायणऩुडैय।  
+
+इङ्गु **नारणऩ्** ऎऩ्ऱु नारायणऩैय् ऎडुत्तु  
+अवऩ् **ऎण्-बॆरुक्कन् नलत्त्-ऒण्-बॊरुळै** व्याप्यतया+++(←भगवत्-कर्तृकया "ऽन्तर्-व्याप्त्या")+++ उडैयवऩ् ऎऩ्ऱाल्  
+"नारा अयनं यस्य" ऎऩ्गिऱ बहुव्रीहिसमासार्थं सॊऩ्ऩद् आगुम् इऱे।  
+
+इन्द अन्नलत्तॊण्बॊरुळ् ऎऩ्गिऱ पदत्तिऩ् अर्थम् ’’तात्पर्यरत्नावळि’’यिल् ‘‘जगदयनतया’’ ऎऩ्गिऱ पदत्ताले काट्टप् पट्टद् इऱे। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’नारणऩ् मुऴुव्+++(=पूर्ण)+++ एऴ् उलगुक्कु नाथऩ्’’  
+(तिरुवाय्मॊऴि २-७-२) 
+
+ऎऩ्ऱुम् +++("नाराणाम् अयनम्" इति)+++ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "नारायणः कृत्स्न-सप्त-लोकी-नाथः”
+
+इति च
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "Nārāyaṇa is the Lord of all the seven worlds". 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "Nārāyaṇa **es** el señor de los siete mundos".
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’नारणऩ् मुऴुवेऴुलगुक्कुनादऩ्’’(तिरुवाय्मॊऴि २-७-२) ऎऩ्ऱुम् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नारणऩिदि । नारणऩ् - नारायणऩ्, मुऴु - कृत्स्नमाऩ, एऴुलगुक्कुम् - सप्तलोकङ्गळुक्कुम्, इदु नारशब्दार्थमाऩ उभयविभूतिक्कुमुबलक्षणम्। नादऩ् - स्वामी, इदऩाल् नारायण-शब्दत्तिऩुडैय नाराणामयनमॆऩ्गिऱ तत्पुरुषसमाार्थम् सॊल्लप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++("नारण"-स्थान-)+++पूर्वापरङ्गळिले  
+समास-द्वयत्तिल् अर्थत्तै प्रदर्शिप्पित्तार्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++("नारण"-स्थान-)+++पूर्वापरयोः  
+समास-द्वयार्थं प्रदर्शयाम् आस । 
+</details>
+
+<details><summary>English</summary>
+
+\- distinctly showed the meanings  
+of these two ways of combining the two parts of the word (samāsa)  
+by using the word at the end and at the beginning respectively. 
+</details>
+
+<details><summary>Español</summary>
+
+\- **mostró** claramente los significados  
+de estas dos formas de **combinar** las dos partes de la palabra (samāsa)  
+**usando** la palabra al final y al principio respectivamente.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पूर्वापरङ्गळिले समासद्वयत्तिलर्थत्तै प्रदर्शिप्पित्तार्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पूर्वापरङ्गळिले - पूर्वशतकत्तिलुम् द्वितीयशतकत्तिलुम्। नमस्सिले तोऱ्ऱिऩ वशीकार्यत्वत्तिऱ्कु उपयुक्तमायुम्, अकारत्तिल् तोऱ्ऱिऩ रक्षकत्वत्तिऱ्कु उपयुक्तमायुमुळ्ळ हेयप्रत्यनीकत्वकल्याणैकतानत्वरूपोभयलिङ्गमुम्, चतुर्थियिल्दोऱ्ऱिऩ प्राप्यत्वत्तिऱ्कु उपयुक्तमाऩ उभयविभूतियोगमुम् इन्द नारायणशब्दत्तिल् अन्तर्भूतमॆऩ्गिऱार् इदिले इत्यादियाल्। 
+</details>
+
+
+#### गुण-विभूति-योगः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिले  
++++(बहुव्रीहौ)+++ हेय-प्रत्यनीकत्व-- कल्याणैक-तानत्व-रूपम् आऩ उभय-लिङ्गत्वमुम्,  
++++(तत्पुरुषे)+++ उभय-विभूति-योगमुम् गर्भितम्। 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र +++(बहुव्रीहौ)+++ हेय-प्रत्यनीकत्व-कल्याणैकतानत्व-रूपम् उभय-लिङ्गत्वम्  
++++(तत्पुरुषे)+++ उभय-विभूति-योगश् च गर्भितम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+In this are implicit  
+(Bhagavān's) possessing the two kinds of attributes,  
+namely, freedom from defects  
+and possession of all auspicious and noble qualities  
+and, likewise, His possession of the two vibhūtis (glories),  
+namely Līlā Vibhūti (this (material) Universe with all the sentient and nonsentient beings in it) and Nitya Vibhūti, (the transcendental region of eternal glory with all that it contains). 
+</details>
+
+<details><summary>Español</summary>
+
+En esto **están implícitos**  
+(Bhagavān's) **poseer** los dos tipos de atributos,  
+a **saber**, **libertad** de defectos  
+y **posesión** de todas las cualidades auspiciosas y nobles  
+y, del mismo modo, su **posesión** de los dos vibhūtis (glorias),  
+a **saber**, līlā vibhūti (este universo (material) con todos los seres sensibles y no inferiores) y nitya vibhūti, (la región trascendental de la gloria eterna con todo lo que **contiene**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदिले हेयप्रत्यनीकत्वकल्याणैकतानत्वरूपमाऩ उभयलिङ्गत्वमुमुभयविभूतियोगमुम् गर्भितम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदिले - नारायणशब्दत्तिले।  
+इदिल् बहुव्रीहिसमासत्तै विवक्षित्ताल् उभयविभूतियोगम् शाब्दमाय् उभयलिङ्गत्वम् आर्थमाम्।  
+तत्पुरुषसमासत्तै विवक्षित्ताल् इरण्डुम् शाब्दमामॆऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देवी-भूषणायुध -परिजन-परिच्छद- द्वारपाल-पार्षदादि भेदङ्गळुम्  
+इङ्गे अनुसन्धेयङ्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+देवी-भूषणायुध-परिजन-परिच्छद-द्वारपाल-पार्षदादि-भेदा अप्य् अत्रानुसन्धेयाः ॥
+</details>
+
+
+<details><summary>English</summary>
+
+It should be borne in mind that this nārās includes the queen, the ornaments, the weapons, the attendants, the furniture and the like, the door-keepers, the retinue and such others.
+</details>
+
+<details><summary>Español</summary>
+
+Debe **tenerse** en cuenta que este nārās **incluye** a la reina, los adornos, las armas, los asistentes, los muebles y similares, los guardianes, el séquito y otros.
+</details>
+
+<details><summary>मूलम्</summary>
+
+देवीभूषणायुध परिजन परिच्छद द्वारपाल पार्षदादि भेदङ्गळुमिङ्गे अनुसन्धेयङ्गळ्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नारायणशब्दत्तिल् नाराणामयनमॆऩ्गिऱ विग्रहवाक्यत्तिल् घटकमाऩ बहुवचनत्ताले विवक्षितमाऩ नारभेदङ्गळैक्काट्टुगिऱार् देवीभूषणेत्यादियाल्। देविकळ् - श्रीभूमि-नीळादिगळ्; भूषणङ्गळ् - किरीटमकुटहारकेयूरादिगळ्; आयुधङ्गळ्- शङ्खचक्रादिगळ्; परिजनङ्गळ्- कैङ्कर्यैकरसर्गळाऩ अनन्तगरुडादिगळ्; परिच्छदङ्गळ्- छत्रचामरादिगळ्; द्वारपालर्- चण्डादिगळ्; पार्षदर्- कुमुदादिगळ्; आदिपदत्ताले भोगोपकरणङ्गळुक्कु ग्रहणम्। 
+
+इङ्गे – नारायणशब्दत्तिल्,
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-॥ कारणत्वमबाध्यत्वमुपायत्वमुपेयता । इति शारीरकस्थाप्यमिह चापि व्यवस्थितम् ॥
+> ॥+++("नार"→)+++ कारणत्वम् +++("न रिष्यतय् इति न-रः" → कारणत्वे→)+++ अ-बाध्यत्वम्  
++++(करणे "अयन"→)+++ उपायत्वम् +++(कर्मण्य् "अयन"→)+++ उपेयता ।  
+इति +++(क्रमशो ऽध्यायेषु)+++ शारीरक-**स्थाप्यम्**  
+इह +++("नारायणे")+++ चापि **व्यवस्थितम्** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ॥+++("नार"→)+++ कारणत्वम् +++("न रिष्यतय् इति न-रः" → कारणत्वे→)+++ अ-बाध्यत्वम्  
++++(करणे "अयन"→)+++ उपायत्वम् +++(कर्मण्य् "अयन"→)+++ उपेयता ।  
+इति +++(क्रमशो ऽध्यायेषु)+++ शारीरक-**स्थाप्यम्**  
+इह +++("नारायणे")+++ चापि **व्यवस्थितम्** ॥
+</details>
+
+<details><summary>English</summary>
+
+In the word Nārāyaṇa, are contained all the attributes (of Brahman)  
+which are established in (the four chapters) of the Sarīraka Śāstra (Brahma sūtras),  
+namely, His being the cause of the Universe,  
+the irrefutability of the proposition that He is the cause,  
+His being the upāya for the attainment of mukti  
+and His being the object of attainment (in mukti). 
+</details>
+
+<details><summary>Español</summary>
+
+En la palabra nārāyaṇa, **se contienen** todos los atributos (de Brahman)  
+que **se establecen** en (los cuatro capítulos) del Sarīraka Śāstra (Brahma Sūtras),  
+a saber, su causa del universo  
+la **irrefutabilidad** de la **proposición** de que él es la causa,  
+Su **ser** el upāya para el logro de mukti  
+y su **ser** el objeto de logro (en Mukti).
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -14869,25 +15231,1731 @@ The compound word Nārāyaṇa may be split up into its two component parts thus
 ॥ कारणत्वमबाध्यत्वमुपायत्वमुपेयता । इति शारीरकस्थाप्यमिह चापि व्यवस्थितम् ॥
 </details>
 
-In the word Nārāyaṇa, are contained all the attributes (of Brahman) which are established in the four chapters) of the Sarīraka Śāstra:(Brahma sūtras), namely, His being the cause of the Universe, the irrefutability of the proposition that He is the cause, His being the upāya for the attainment of mukti and His being the object of attainment (in mukti). All this has been explained by Bhattar in His Nitya in the words beginning with "Knowledge, bliss, purity and the like.”
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शारीरकत्तिल् सॊऩ्ऩ कारणत्वाद्यर्थचतुष्टयमुम् इन्द नारायणपदत्तिले सङ्ग्रहमागच् चॊल्लप्पट्टदॆऩ्गिऱार् कारणत्वमित्यादियाल्।  
+कारणत्वं - प्रथमाध्यायत्तिल् सॊऩ्ऩ निखिलजगदेककारणत्वमुम्, अबाध्यत्वं - द्वितीयाध्यायत्तिल् सॊऩ्ऩ अन्द कारणत्वत्तिऩ् बाह्यकुदृष्टिमतङ्गळाल् बाधिक्कमुडियामैयुम्, उपायत्वं – तृतीयाध्यायत्तिऱ्सॊऩ्ऩ मोक्षोपायत्वमुम्, उपेयता – चतुर्थाध्यायत्तिऱ्सॊऩ्ऩ प्राप्यत्वमुम्, इति शारीरकस्थाप्यं - ऎऩ्ऱु इप्पडि शारीरकस्थाप्यमाऩ अर्थम्, इह चापि - इन्द नारायणशब्दत्तिलेयुम्, व्यवस्थितं – स्थितमॆऩ्गै।  
+नराज्जातानि तत्त्वानि ऎऩ्बदाल्  
+नार-शब्द-वाच्य-जगत्-कारणत्वम् सॊल्लप्पट्टदु;  
+क्षय-निषेध-वाचकम् आऩ नर-शब्दत्ताले  
+अ-बाध्यत्वम् सूचितमायिऱ्ऱु।  
+अयन-शब्दत्तिल् करण-व्युत्पत्तियाल् उपायत्वमुम्, कर्मव्युत्पत्तियाल् उपेयत्वमुम् सिद्धमॆऩ्ऱु तिरुवुळ्ळम्। +++(5)+++
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इद् ऎल्लाम् 
+
+> ‘‘ज्ञानानन्दामलत्वादि’’  
+(नित्यम्) 
+
+ऎऩ्ऱु तुडङ्गि  
+भट्टर् नित्यत्तिले प्रतिपादितम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं सर्वं 
+
+> ‘‘ज्ञानानन्दामलत्वादि’’  
+(नित्यम्) 
+
+इत्य्-आरभ्य भट्टार्याणां नित्ये प्रतिपादितम् ॥
+</details>
+
+<details><summary>English</summary>
+
+All this has been explained by Bhattar in His Nitya  
+in the words beginning with 
+
+> "Knowledge, bliss, purity and the like.”
+</details>
+
+<details><summary>Español</summary>
+
+Todo esto **ha sido explicado** por Bhattar en su nitya  
+En las palabras que **comienzan** con 
+
+> "**Conocimiento**, dicha, pureza y similares".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदॆल्लाम् ‘‘ज्ञानानन्दामलत्वादि’’(नित्यम्) ऎऩ्ऱु तुडङ्गि भट्टर् नित्यत्तिले प्रतिपादितम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इव्व्-अर्थम् ऎल्लाम्  
+भट्टर् नित्यत्तिल् नारायण-शब्दार्थम् आगच् चॊल्लप्-पट्टद् ऎऩ्गिऱार्  
+इदॆल्लाम् ‘‘ज्ञानानन्दामलत्वादि’’ ऎऩ्ऱु तुडङ्गि इत्यादियाल्। 
+</details>
+
+
+### नाराः
+<details><summary>English</summary>
 
 THE MEANING OF NĀRĀS:
+</details>
 
-"I created the waters, which are called nārās, and lay within them. Therefore am I called Nārāyaṇa." "The waters are called Nārās because they were born of Nara (i. e. Bhagavān). They were at first His abode. Therefore is He called Nārāyaṇa." In these two ślokas, the waters refer by implication (Upalakṣaṇa) to the other sattvas (reals) as well. This is evident from such passages as the following :- "The sattvas or reals had all their origin from Nara. Therefore are they known as Nāras. To Him they are the abode, therefore is He considered to be Nārāyaṇa." In this interpretation of the word as a grammatical compound Bahuvrihi samāsa ( Nārah ayanan yasya), it is stated that the tattvas had their origin from Nara and are therefore called nāras. From this it follows that, as stated in Mahopanishad and elsewhere, Nārāyaṇa is the cause of all (things and beings ) including Brahma and Isana ( Siva) in every way (i. e. the material cause and the instrumental cause). The word ayana (resting place ) is derived in this way:-‘I yate iti' ayanam. That which is pervaded is ayana (the passive voice being used for deriving the word). This declares that He pervades all, as they are all pervaded by him and that in order that He may do so, He has unparallelled subtleness (sukṣmatva). Ayana may be derived also in another way: Iyate asmin iti : (That in which it is), in which case it would mean that in which everything rests. The word Nārāyaṇa may be considered also as a compound of the tatpurusha type (tatpurusha samāsa), in which case it would be split into Narāṇam and. ayanaın (the abode of Nārās ). It is true that the compound word should then be in the neuter gender Nārāyaṇam, but by the authority of nirukti, the masculine form Nārāyaṇah is not improper. The pramāṇas are the following :-"He is also called Nārāyaṇa, for He is the resting place or abode of Narās". "The multitude of all jīvas is called Nārās. Since Bhagavān is to be attained by them and is also the upāya for attaining Him, He is called Nara yana". "Nāra is so called because it means the multitude of jīvas which are indicated by the word nara. I am the goal to be attained by them; I am also the upāya for that attainment. Therefore am I called Nārāyaṇa by the seers." "The wise call the multitude of jīvas by the name Nāra. He is called Nārāyaṇa because He is their ayana (abode or resting place). Therefore those who are thoroughly conversant with the Vedas and the Vedānta declare Him to be the kinsman, the mother, the father, the guru and the abode or resting place."
+<details><summary>Español</summary>
+
+El significado de nārās:
+</details>
+
+#### आपः, तत्त्वानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिल्  
+
+> ‘‘सृष्ट्वा नारं तोयम् अन्तस् स्थितोऽहं  
+येन स्यान् मे नाम नारायणेति’’  
+(वराहपुराणम्), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सृष्ट्वा नारं तोयम् अन्तस् स्थितोऽहं  
+येन स्यान् मे नाम नारायणेति’’  
+(वराहपुराणम्), 
+</details>
+ 
+<details><summary>English</summary>
+
+> "I created the waters, which are called nārās,  
+and lay within them.  
+Therefore am I called Nārāyaṇa." 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Creé** las aguas, que **se llaman** nārās,  
+y **se acuesta** dentro de ellos.  
+Por lo tanto, **me llamo** nārāyaṇa ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् ‘‘सृष्ट्वा नारं तोयमन्तस्स्थितोऽहं येन स्यान्मे नाम नारायणेति’’(वराहपुराणम्), 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि इन्द नारायणशब्दार्थविषयङ्गळाऩ स्मृतिकळिल् तोऱ्ऱुम् विरोधत्तै तात्पर्यवर्णनत्ताले परिहरित्तुक्काट्टुगिऱार् इव्विडत्तिलित्यादिना । इव्विडत्तिल् - इन्द नारायणशब्दार्थविवरणरूपङ्गळाग प्रवृत्तङ्गळाऩ वचनङ्गळिल्, सृष्ट्वेति । नारं – नरसम्बन्धियाऩ, तोयं - जलत्तै, सृष्ट्वा – सृष्टित्तु, अन्तः - अदिऩुळ्ळे, अहं - नाऩ्, स्थितः - इरुन्देऩ्; येन - यादॊरु अन्तरात्मतया अवस्थितियिऩाले, मे नारायणेति नाम स्यादिति । ऎदऩाल् ऎऩक्कु नारायणऩॆऩ्गिऱ पॆयर् उण्डागुमो? ऎऩ्ऱबडि। इदु वाराहवचनम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आपो +++(→विकारतो भूतान्तराण्य् अपि)+++ नारा इति प्रोक्ता  
+आपो +++(तत्त्वान्तराण्य् अपि)+++ वै नर-सूनवः +++(शरीर-विकारतः)+++।  
+ता यद् अस्यायनं पूर्वं  
+तेन नारायणस् स्मृतः॥’’  
+(मनुस्मृति १-१९) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘आपो +++(→विकारतो भूतान्तराण्य् अपि)+++ नारा इति प्रोक्ता  
+आपो +++(तत्त्वान्तराण्य् अपि)+++ वै नर-सूनवः +++(शरीर-विकारतः)+++।  
+ता यद् अस्यायनं पूर्वं  
+तेन नारायणस् स्मृतः॥’’  
+(मनुस्मृति १-१९) 
+</details>
+
+<details><summary>विषयः</summary>
+
+नारायणः
+</details>
+
+
+
+<details><summary>English</summary>
+
+> "The waters are called Nārās  
+because they were born of Nara (i. e. Bhagavān).  
+They were at first His abode.  
+Therefore is He called Nārāyaṇa." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Las aguas **se llaman** nārās  
+Porque **nacieron** de Nara (es decir, bhagavān).  
+Al principio **fueron** su morada.  
+Por lo tanto, **se llama** Nārāyaṇa ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘आपो नारा इति प्रोक्ता आपो वै नरसूनवः । ता यदस्यायनं पूर्वं तेन नारायणस्स्मृत’’(मनुस्मृति १-१९) 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आपो नारा इति ।  
+इदु मनुस्मृतिवचनम्।  
+इदिल् नरसूनवः ऎऩ्गिऱव् इडत्तिल्  
+नरशब्दम् ‘‘जह्नुर् नारायणो नरः’’ ऎऩ्गिऱ सहस्रनामवचनानुरोधेन नारायणपरम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिले  
+
+> अप्पुक्कळैय् ऎडुत्तदु  
+तत्त्वान्तरङ्गळुक्कुम् उपलक्षणम् 
+
+ऎऩ्ऩुम् इडम्
+</details>
+
+<details><summary>English</summary>
+
+In these two ślokas, the waters refer by implication (Upalakṣaṇa) to the other tattvas (reals) as well.  
+This is evident from such passages as the following :- 
+</details>
+
+<details><summary>Español</summary>
+
+En estos dos Ślokas,  
+las aguas **se refieren** por **implicación** (upalakṣaṇa) a los otros tattvas (reales) también.  
+Esto **es** evidente por pasajes como los **siguientes** :-
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिले अप्पुक्कळैयॆडुत्तदु तत्त्वान्तरङ्गळुक्कुमुपलक्षणमॆऩ्ऩुमिडम्
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तत्त्वान्तरङ्गळुक्कुम् उपलक्षणम् इति ।  
+इन्द अप्-शब्दम् अण्डसृष्टिहेतुभूत-तत्त्वङ्गळिले अजहत्-स्वार्थ-लाक्षणिकम् इत्यर्थः । तथा च आपः ऎऩ्बदऱ्कु अण्डसृष्टिहेतुभूततत्त्वङ्गळ् ऎऩ्ऱु पर्यवसितार्थम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नराज् **जातानि** तत्त्वानि  
+नाराणीति ततो **विदुः** ।  
+तान्य् एव चायनं तस्य  
+तेन नारायणः **स्मृतः**॥’’  
+( भारतम् आनुशाासनिक-पर्व १८६-७) 
+
+इत्य्-आदिगळाले सिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नराज् **जातानि** तत्त्वानि  
+नाराणीति ततो **विदुः** ।  
+तान्य् एव **चायनं** तस्य  
+तेन नारायणः **स्मृतः**॥’’  
+( भारतम् आनुशाासनिक-पर्व १८६-७) 
+
+</details>
+
+<details><summary>English</summary>
+
+> "The tattvas or reals had all their origin from Nara.  
+Therefore are they known as Nāras.  
+To Him they are the abode,  
+therefore is He considered to be Nārāyaṇa." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Los tattvas o los reales **tenían** todo su origen de Nara.  
+Por lo tanto, **se conocen** como nāras.  
+Para él **son** la morada,  
+Por lo tanto, **se considera** que es nārāyaṇa ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नराज्जातानि तत्त्वानि नाराणीति ततो विदुः । तान्येव चायनं तस्य तेन नारायणः स्मृतः॥’’( भारतम् आनुशाासनिक-पर्व १८६-७) इत्यादिगळाले सिद्धम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि अप्-शब्दत्तै उपलक्षणमागक् कॊळ्वदऱ्कु अनुगुणमाऩ प्रमाणत्तैक् काट्टुगिऱार् नराज्जातानीत्यादि । 
+</details>
+
+
+### बहु-व्रीहि-समासः
+#### नाराः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द बहु-व्रीहि-समासम् आऩ निर्वचनत्तिल्  
+
+> नराज् जातानि तत्त्वानि 
+
+ऎऩ्ऱु नार-शब्दार्थञ् जॊल्लुगैयाले 
+</details>
+
+<details><summary>English</summary>
+
+In this interpretation of the word as a grammatical compound Bahuvrihi samāsa ( Nārah ayanan yasya),  
+it is stated that  
+the tattvas had their origin from Nara  
+and are therefore called nāras. 
+</details>
+
+<details><summary>Español</summary>
+
+En esta **interpretación** de la palabra como un compuesto gramatical bahuvrihi samāsa (nārah ayanan yasya),  
+**se dice** que  
+Los tattvas **tenían** su origen de Nara  
+y, por lo tanto, **se llaman** nāras.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द बहुव्रीहिसमासमाऩ निर्वचनत्तिल् नराज्जातानि तत्त्वानि ऎऩ्ऱु नारशब्दार्थञ्जॊल्लुगैयाले 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नारायणशब्दत्तिऩुडैय बहुव्रीहिसमासत्तिऱ्कु सूचकङ्गळाऩ वचनङ्गळाले  
+सर्वकारणत्वमुम्, सर्वव्याप्तियुम्, तद्-अनुगुण-निरतिशय-सूक्ष्मत्वमुम् सॊल्लप्-पट्टद्  
+
+ऎऩ्गिऱार् इन्द बहुव्रीहि समासमाऩ निर्वचनत्तिलित्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महोपनिषत्-प्रभृतिगळिऱ् सॊल्लुगिऱ बडिये  
+ब्रह्मेशानादि-सर्वत्तैयुम् पऱ्ऱ  
+नारायणऩ्-उडैय सर्व-विध-कारणत्वमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+From this it follows that, as stated in Mahopanishad and elsewhere,  
+Nārāyaṇa is the cause of all (things and beings ) including Brahma and Isana ( Siva) in every way (i. e. the material cause and the instrumental cause). 
+</details>
+
+<details><summary>Español</summary>
+
+De esto **se deduce** que, como **se indica** en Mahopanishad y en otros lugares,  
+Nārāyaṇa **es** la causa de todas (cosas y seres), incluidos Brahma e Isana (Siva) en todos los sentidos (es decir, la causa material y la causa instrumental).
+</details>
+
+<details><summary>मूलम्</summary>
+
+महोपनिषत् प्रभृतिकळिऱ् सॊल्लुगिऱबडिये ब्रह्मेशानादिसर्वत्तैयुम् पऱ्ऱ नारायणऩुडैय सर्वविधकारणत्वमुम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+महोपनिषत्-प्रभृतिकळिल् - 
+
+> ‘‘एको ह वै नारायण आसीत्  
+न ब्रह्मा नेशान’’ 
+
+इत्य्-आद्युपनिषत्तुक्कळिल्,  
+ब्रह्मेशानादिसर्वत्तैयुम् पऱ्ऱ नारायणऩुडैय सर्वविधकारणत्वमुमिति ।  
+सृष्टिक्कु मुऩ्ऩाल्  
+‘‘न ब्रह्मा नेशान’’ ऎऩ्बदाल् ब्रह्मा शिवऩ् मुदलियवर्गळ् इल्लैयॆऩ्ऱुम्,  
+‘‘एको ह वै नारायण आसीत्’’ ऎऩ्बदाल् नारायणऩ् मात्तिरमिरुन्दाऩॆऩ्ऱुम् सॊल्लप्पडुवदाल् अवऩुक्के ब्रह्मेशानादिसर्वकारणत्वंसिद्धमॆऩ्ऱु करुत्तु।
+</details>
+
+
+#### अयनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अयन-शब्दत्तिल्  
+"ईयत इत्य् अयनं"  
+ऎऩ्गिऱ कर्म-व्युत्पत्तियाले  
+इवऱ्ऱै व्याप्यम् आगव् उडैयवऩ्-उडैय **सर्व-व्यापकत्वमुम्** 
+</details>
+
+<details><summary>English</summary>
+
+The word ayana (resting place ) is derived in this way:-  
+‘Iyate iti ayanam'.  
+That which is pervaded is ayana (the passive voice being used for deriving the word).  
+This declares that He pervades all,  
+as they are all pervaded by him  
+
+</details>
+
+<details><summary>Español</summary>
+
+La palabra ayana (lugar de descanso) **se deriva** de esta manera:-  
+‘Iyate iti ayanam'.  
+Lo que está **impregnado** es Ayana (la voz pasiva **se usa** para **derivar** la palabra).  
+Esto **declara** que él **impregna** a todos,  
+Como todos **están impregnados** por él
+</details>
+
+<details><summary>मूलम्</summary>
+
+अयनशब्दत्तिल् ईयत इत्ययनं ऎऩ्गिऱ कर्मव्युत्पत्तियाले इवऱ्ऱै व्याप्यमागवुडैयवऩुडैय सर्वव्यापकत्वमुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदुक्क् उपयुक्तम् आऩ निरतिशय-**सूक्ष्मत्वमुञ्** जॊल्लिऱ्ऱ् आयिऱ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+and that in order that He may do so,  
+He has unparallelled subtleness (sukṣmatva). 
+</details>
+
+<details><summary>Español</summary>
+
+y que para que él **pueda hacerlo**,  
+**Tiene** sutileza incomparable (Sukṣmatva).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदुक्कुपयुक्तमाऩ निरतिशयसूक्ष्मत्वमुञ्जॊल्लिऱ्ऱायिऱ्ऱु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पॊरुळ्गळ् +++(←व्यापकत्व-सूक्ष्मत्वे)+++  
+‘‘ईयते अस्मिन्’’ ऎऩ्गिऱ अधिकरण-व्युत्पत्तियिलुम् वरुम्। 
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अत्रायनस्य नार-सामानाधिकरण्यम् उक्तम्।  
+किञ्च, तत्-पुरुष-समासे ऽयनस्य ब्रह्म-विशेषणत्वे ऽपि  
+कर्माधिकरणाभ्याम् अपि  
+व्यापकत्वं सिध्यति,  
+लय-सूचनया सूक्ष्मत्वम् अपि। 
+
+बहुव्रीह्या बहिर्-व्याप्तिर् अप्य् उक्तेति वेङ्कटनाथमतम् इति सारबोधिनीकारः। 
+</details>
+
+
+
+<details><summary>English</summary>
+
+Ayana (here) may be derived also in another way:  
+Iyate asmin iti : (That in which it is),  
+(leading to the same meanings.)
+~~in which case it would mean that in which everything rests.~~ 
+</details>
+
+<details><summary>Español</summary>
+
+Ayana (aqui) **puede derivarse** también de otra manera:  
+Iyate asmin iti: (aquello en el que **está**).  
+(**conduciendo** a los mismos significados).
+~~en cuyo caso **significaría** aquello en el que todo **descansa**.~~
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पॊरुळ्गळ् ‘‘ईयते अस्मिन्’’ ऎऩ्गिऱ अधिकरणव्युत्पत्तियिलुम् वरुम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पॊरुळ्गळ् - ईयते अस्मिन् ऎऩ्गिऱ अधिकरणव्युत्पत्तियिलुम् वरुमिति । इप्पॊरुळ्गळ् - कर्मव्युत्पत्तियिलेसॊऩ्ऩ पदार्थङ्गळॆल्लाम्, वरुमिति ।  
++++(तत्-पुरुष-पक्षे)+++ "ईयते अस्मिन्" ऎऩ्ऱु  
+अव्व्-इडत्तिले सर्वत्तिऱ्कुम् लयम् सॊल्लुगैयाले   
+ऎऩ्ऱु करुत्तु।
+</details>
+
+<details><summary>विश्वास-टिप्पनी - सारबोधिन्याम्</summary>
+
+सारबोधिन्याम् - "सर्वस्य तस्मिन् लयतः" इत्य् अर्थो दत्तो भाति। तस्मिन् नाम ब्रह्मणि खलु? 
+कथं तु नारा अयनं(=लयः) यस्य इति बहुव्रीहौ लयार्थः??  
+तन् न सङ्गच्छते।  
+अतो ऽत्र षष्ठीतत्पुरुषार्थो ह्य् उक्तो भाति प्रकरणम् अतिक्रम्य। 
+</details>
+
+### तत्-पुरुष-समासः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नाराणाम् अयनत्वाच् च  
+नारायण इति स्मृतः’’  
+(भारतम् उद्योग-पर्व ६९-१०),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नाराणाम् अयनत्वाच् च  
+नारायण इति स्मृतः’’  
+(भारतम् उद्योग-पर्व ६९-१०),
+</details>
+
+<details><summary>English</summary>
+
+> "He is also called Nārāyaṇa,  
+for He is the resting place or abode of Narās". 
+</details>
+
+<details><summary>Español</summary>
+
+> "También **se le llama** nārāyaṇa,  
+porque él **es** el lugar de **descanso** o la morada de Narās ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नाराणामयनत्वाच्च नारायण इति स्मृतः’’(भारतम् उद्योग-पर्व ६९-१०),
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नाराणामयनमॆऩ्गिऱ षष्ठीतत्पुरुषसमासम् सॊल्लुम्बॊऴुदु ‘‘परवल्लिङ्गं द्वन्द्वतत्पुरुषयोः’’ ऎऩ्गिऱ शास्त्रप्पडि अयनशब्दम् नित्यनपुंसकमागैयाले नारायणं ऎऩ्ऱे सॊल्ल वेण्डियिरुक्क नारायणः ऎऩ्ऱु पुंलिङ्गनिर्देशम् कूडुवदु ऎङ्ङऩेयॆऩ्ऩ वरुळिच् चॆय्गिऱार् नाराणामयनत्वाच्चेत्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नारास् त्व् इति सर्व-पुंसां  
+समूहः **परिकीर्तितः** ।  
+**गतिर् आलम्बनं** तस्य  
+तेन नारायणस् **स्मृतः**॥’’  
+(पाद्मोत्तरम्),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नारास् त्व् इति सर्व-पुंसां  
+समूहः **परिकीर्तितः** ।  
+**गतिर् आलम्बनं** तस्य  
+तेन नारायणस् **स्मृतः**॥’’  
+(पाद्मोत्तरम्),
+</details>
+
+<details><summary>विषयः</summary>
+
+नारायणः
+</details>
+
+
+<details><summary>English</summary>
+
+> "The multitude of all jīvas is called Nārās.  
+Since Bhagavān is to be attained by them  
+and is also the upāya for attaining Him,  
+He is called Narayana". 
+</details>
+
+<details><summary>Español</summary>
+
+> "La multitud de todos los jīvas **se llama** nārās.  
+Dado que Bhagavān debe **ser alcanzado** por ellos  
+y también **es** el upāya por **lograrlo**,  
+**Se llama** Narayana ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नारास्त्विति सर्वपुंसां समूहः परिकीर्तितः । गतिरालम्बनं तस्य तेन नारायणस्स्मृतः॥’’(पाद्मोत्तरम्),
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नारो नराणां सङ्घातस्  
+तस्याहम् **अयनं, गतिः** ।  
+तेनास्मि मुनिभिर् नित्यं  
+नारायण इतीरितः ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नारो नराणां सङ्घातस्  
+तस्याहम् **अयनं, गतिः** ।  
+तेनास्मि मुनिभिर् नित्यं  
+नारायण इतीरितः ॥
+</details>
+
+<details><summary>विषयः</summary>
+
+नारायणः
+</details>
+
+<details><summary>English</summary>
+
+> "Nāra is so called  
+because it means the multitude of jīvas which are indicated by the word nara.  
+I am the goal to be attained by them;  
+I am also the upāya for that attainment.  
+Therefore am I called Nārāyaṇa by the seers." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Nāra **se llama** así  
+Porque **significa** la multitud de jīvas que **están indicados** por la palabra nara.  
+**Soy** el objetivo que **debe alcanzarlos**;  
+También **soy** el upāya para ese **logro**.  
+Por lo tanto, los **videntes me llaman** nārāyaṇa ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नारो नराणां सङ्घातस्तस्याहमयनं गतिः । तेनास्मि मुनिभिर्नित्यं नारायण इतीरितः ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नार-शब्देन जीवानां  
+समूहः **प्रोच्यते** बुधैः ।  
+तेषाम् **अयन**-भूतत्वान्  
+नारायण **इहोच्यते** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> नार-शब्देन जीवानां  
+समूहः **प्रोच्यते** बुधैः ।  
+तेषाम् **अयन**-भूतत्वान्  
+नारायण **इहोच्यते** ॥
+</details>
+
+<details><summary>विषयः</summary>
+
+नारायणः
+</details>
+
+<details><summary>English</summary>
+
+> "The wise call the multitude of jīvas by the name Nāra.  
+He is called Nārāyaṇa  
+because He is their ayana (abode or resting place).  
+</details>
+
+<details><summary>Español</summary>
+
+> "El sabio **llame** a la multitud de Jīvas con el nombre de Nāra.  
+**Se le llama** nārāyaṇa  
+Porque él **es** su ayana (morada o lugar de **descanso**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नारशब्देन जीवानां समूहः प्रोच्यते बुधैः । तेषामयनभूतत्वान्नारायण इहोच्यते ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान् नारायणं बन्धुं  
+मातरं पितरं गुरुम् ।  
+**निवासं शरणञ् चाहुर्**  
+वेद-वेदान्त-पार-**गाः**॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तस्मान् नारायणं बन्धुं  
+मातरं पितरं गुरुम् ।  
+**निवासं शरणञ् चाहुर्**  
+वेद-वेदान्त-पार-**गाः**॥  
+(पाद्मोत्तरम्)
+</details>
+
+<details><summary>English</summary>
+
+> Therefore those who are thoroughly conversant with the Vedas and the Vedānta  
+declare Him to be the kinsman, the mother, the father, the guru and the abode or resting place."
+</details>
+
+<details><summary>Español</summary>
+
+> Por lo tanto, aquellos que **están** completamente familiarizados con los Vedas y el Vedānta  
+**Declara** que es el pariente, la madre, el padre, el gurú y la morada o el lugar de descanso ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मान्नारायणं बन्धुं मातरं पितरं गुरुम् । निवासं शरणञ्चाहुर्वेदवेदान्तपारगाः॥ (पाद्मोत्तरम्)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ् पडिये  
+तत्-पुरुष-समासम् आऩालुम्  
+निरुक्त-बलत्ताले अयन-शब्दम् पुल्लिङ्गम्।
+</details>
+
+<details><summary>English</summary>
+
+The pramāṇas are the above.  
+The word Nārāyaṇa may be considered also as a compound of the tatpurusha type (tatpurusha samāsa),  
+in which case it would be split into Narāṇam and ayanam (the abode of Nārās ).  
+It is true that the compound word should then be in the neuter gender Nārāyaṇam,  
+but by the authority of nirukti, the masculine form Nārāyaṇah is not improper.  
+</details>
+
+<details><summary>Español</summary>
+
+Los Pramāṇas **son** los anteriores.  
+La palabra nārāyaṇa **puede considerarse** también como un compuesto del tipo tatpurusha (tatpurusha samāsa),  
+en cuyo caso **se dividiría** en Narāṇam y Ayanam (la morada de Nārās).  
+**Es** cierto que la palabra compuesta **debería estar** en el género neutrero nārāyaṇam,  
+Pero por la autoridad de Nirukti, la forma masculina nārāyaṇah **no es** inadecuado.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये तत्पुरुषसमासमाऩालुम् निरुक्तबलत्ताले अयनशब्दम् पुल्लिङ्गम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द नारायणनामनिर्वचनवचनङ्गळिल् षष्ठीसमासत्तैच् चॊल्लि ‘‘नारायण इति स्मृतः’’, ‘‘नारायण इतीरितः’’, ‘‘नारायण इहोच्यते’’ ऎऩ्ऱु नारायणशब्दत्तै ऋषिकळ् पुल्लिङ्गमागप् प्रयोगित्तबडियाल् इन्द निर्वचनबलत्ताले नारायणशब्दम् पुल्लिङ्गमागवे सिद्धिक्कुमॆऩ्ऱु करुत्तु।
+</details>
+
+
+#### नरः
+<details><summary>English</summary>
 
 THE DERIVATION OF THE WORD NARA:
+</details>
 
-The verbal root ‘in’ means 'to perish'; so ra (in nara) denotes non-sentient things (i.e.) matter which perishes (i. e.) changes its essential nature (svarūpa). Nara therefore, denotes those that do not perish or change their essential nature (i.e.) chetanas (sentient beings, using the na samāsa on the analogy of words like Naga - which means .mountain', for it does not (na) go
+<details><summary>Español</summary>
 
-or move (ga) and naika, na-eka " not one" (1. c.) many'. So Nara means sentient beings only; nāra means the multitude of naras. Their ayanam (abode or resting place) is Nārāyaṇa. This declares that He who has under His control the three kinds of chetanas or sentient beings (the bound, the released and the eternal) and also nonsentient things, their essential nature (or existence) their sustenance, and their activity--He is, to the three kinds of multitudinous souls (the bound, the released and the eternal) who are denoted by the word nara, the Dispenser of what they desire. It says also that since He is blissful, He is, of his own accord, the upeya (i. e.) the object of attainment and is also the support or resting place (ādhāra), for it is said, “ Thus has it been explained how the three worlds have Viṣṇu as the ādhāra (resting place or abode)” and “He has entered into the three lokas, viz. the non-sentient, the sentient and the released souls and supports thern without undergoing any change."
+La **derivación** de la palabra nara:
+</details>
 
-How these meanings are traceable in the word ayana will now be explained :- The word ayana may be derived from the verbal root in (which means to go), in three ways: (1) īyate anena iti ayana). Ayana is that by which or with which one goes, where it refers to the instrument (karaṇa) or aid. ( When derived in this way) Iśvara becomes the upāya or means (2) iyate asau iti ayana) "That which is reached. In this derivation Iśvara becomes the upeya or object that is reached or attained: (3) īyato asmin iti ayana): "that in which it rests." In this derivation Iśvara becomes the support or ādhāra on which everything reste. Ayana may also be derived from the verbal root ay, which means "to go."
 
-It is evident that Iśvara has in Him the qualities necessary for being the upāya, the upeya and the like, viz., easy accessibility (saulabhyam) and being supreme (paratvam). When ayana means 'abode', if we take Nārāyaṇa to be a bahuvrihi compound ( Nārāh Ayanam Yasya) (He whose abode is Nārās ), it is considered to indicate that Nārāyaṇa pervades all things and beings within them (i, e.) that He is immanent within them. If we take Nārāyaṇa to be a tatpurusha compound (Nārāṇam ayanam: the abode of Nārās, the (compound) word indicates that He pervades them froin without (they being within Him) (i.e.) that He is transcendent. These two are declared in the śrutis (i.e.) in Nārāyaṇānuvakam) Immanence (or antarvyāpti) means being present inseparably connected with other things and beings in such a way that it cannot be said that He is not present where they are: Transcendence (bahirvyapti) means being present also in places where they are not present. Such things as Time ( Kāla) are omnipresent (vibhu). So it should not be stated that Iśvara is outside of them. When it is said "Nārāyaṇa who is smaller (aiyiin) than all the smallest: the meaning of the word (aṇu is not 'of small size' but subtle'. So the passage really means: “Nārāyaṇa who is subtler than all the subtle things ". It means that owing to His being subtle nothing can prevent Him from being within them,
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-In the śruti ( which says “ He is smaller than the grain called śyāmāka), the purport is that He is of the size of the object within Which He is present (i.e.) of the measure of the upādhi or conditioning factor, and this is distinctly stated in the Brahma sūtras and their commentary (Śrī Bhāṣyam). Being full and complete in every object, on the part of One who is both immanent and transcendent, means that that aspect or phase of His which is within any one upadhi or conditioning factor is capable of (creating, sustaining and destroying) and doing such other things to all things and beings. It does not mean that His essential nature is all contained (and exhausted) within any one object (to the exclusion of all others). If we understand it in that sense, it would be opposed to His transcendence. If we explain this by saying that Iśvara has the power of bringing together those which cannot be brought together (aghatitaghatanā śakti), it would be acceptance of the position of other systems (like Bhaskara's and Yadava prakasa's), which maintain the possibility of bringing together things which are opposed to each other (Bhaskara and Yađava prakasa say that difference and non-difference can coexist). Here in Tirumantra, when the Supreme Ruler of all is indicated by the first letter (of praṇava), the base nara of the word Nāras and the word ayana, all these words are purposely used to indicate His being the Protector and His being the ultimate  cause (in a), His being eternal and His being the netā (guide) (in the word nara) and His being the resting place or support and the inner self in the word (ayana) in different ways. (It should not be thought that these three mean the same thing and that two of them are therefore redundant).
+इङ्गु ‘‘रीङ् क्षये’’ ऎऩ्गिऱ धातुविले  
+"र" ऎऩ्ऱु  
+स्वरूप-विकारत्ताले क्षयिष्णुव् आऩव् अ-चित्-पदार्थत्तैच् चॊल्लि, 
+</details>
 
-If it be asked: "While the Cetana or sentient being is already indicated by the third letter of praṇava (m), why should it be mentioned again in the word Nara (in Nārāyaṇa)". The answer is as follows: "I do not exist without Thee, (my support); Thou dost not exist without me, (for I bring out Thy character:) " "Rāma's younger brother (Lakṣmaṇa), and Lakṣmaṇa's elder brother". (In the two passages mentioned above, there is apparent repetition, but it is not a fault since it serves a definite purpose). (In the first passage ), the first part of the sentence emphasises the importance of the śeṣī and the second emphasises the importance of the śeṣa; so also (in the secodd. passage ) Rāma's importance is hinted at in Rāmānuja (Rāma's younger brother) and Lakṣmaṇa's importance is hinted at in Lakṣmaṇapurvaja (Lakṣmaṇa's elder brother): Thus each is characterised by the other. In the praṇava, the śeṣī's inportance is prominent as in the chariot of Arjuna ( where Arjuna is prominent and Śrī Kṛṣṇa is not, being only the charioteer ); in the word Nārāyaṇa, the śeṣī's importance is prominent as in the Rasamandala (the Rasakrida described in the Bhāgavatam), where Śrī Kṛṣṇa is all-important and the Gopis not so.
+<details><summary>English</summary>
+
+The verbal root ‘rin’ means 'to perish';  
+so ra (in nara) denotes non-sentient things (i.e.) matter which perishes - (i. e.) changes its essential nature (svarūpa). 
+</details>
+
+<details><summary>Español</summary>
+
+La raíz verbal "rin" **significa** "**perecer**";  
+Entonces RA (en NARA) **denota** cosas no sensibles (es decir)  
+que **perece** - (es decir) **cambia** su naturaleza esencial (svarūpa).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु ‘‘रीङ् क्षये’’ ऎऩ्गिऱ धातुविले र ऎऩ्ऱु स्वरूपविकारत्ताले क्षयिष्णुवाऩवचित्पदार्थत्तैच्चॊल्लि, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् वेऱु बट्टु स्व-रूप--विकार-रहितम् आऩ चेतन-वर्गत्तै  
+न-ग--नैकादि-शब्दम् पोले  
+न-समासम् आऩ न-र-शब्दत्ताले सॊल्लि, 
+</details>
+
+<details><summary>English</summary>
+
+Nara therefore, denotes those that do not perish or change their essential nature (i.e.) chetanas (sentient beings),  
+using the na samāsa  
+on the analogy of words like Naga - which means 'mountain',  
+for it does not (na) ga or move (ga)  
+and naika, na-eka " not one" (ie.) many.  
+
+So Nara means sentient beings only;  
+</details>
+
+<details><summary>Español</summary>
+
+Nara, por lo tanto, **denota** aquellos que **no perecen** o **cambian** su naturaleza esencial (es decir) Chetanas (seres sintientes),  
+**Usando** la na samāsa  
+sobre la analogía de palabras como naga, que **significa** 'montaña',  
+porque no (na) ga o **se mueve** (ga)  
+y "Naika", Na-Eka "no uno" (es decir) muchos.
+
+Entonces Nara **significa** seres sensibles solamente;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिल् वेऱुबट्टु स्वरूपविकाररहितमाऩ चेतनवर्गत्तै नगनैकादिशब्दम् पोले नसमासमाऩ नरशब्दत्ताले सॊल्लि, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि तत्पुरुषसमासपक्षत्तिल् नारशब्दत्तिऩ् अर्थङ्गळै तद्घटकावान्तरशब्दङ्गळुडैय विग्रहसमासप्रदर्शनपूर्वकमाग काट्टानिऩ्ऱुगॊण्डु नारत्तिऱ्कु अयनमॆऩ्ऱदाल् सर्वेश्वरऩुडैय उपायत्वोपेयत्वाधारत्वङ्गळ् सिद्धित्तऩ ऎऩ्गिऱार् इङ्गु रीङ् क्षय इत्यादियाल्। रीयत इति व्युत्पत्तिसिद्धमाऩ रेफत्ताले स्वरूपविकारमुळ्ळ अचित्पदार्थम् सॊल्लप्पट्टदु। गच्छतीति गः, न-गः नगः ऎऩ्बदु पोले न-रः नरः ऎऩ्गिऱ समासत्ताले स्वरूपविकाररहितमाऩ चेतनवर्गम् सॊल्लप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिऩ् समूहङ्गळै नार-शब्दत्ताले सॊल्लि, 
+</details>
+
+<details><summary>English</summary>
+
+nāra means the multitude of naras. 
+</details>
+
+<details><summary>Español</summary>
+
+Nara **significa** la multitud de Naras.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदिऩ् समूहङ्गळै नारशब्दत्ताले सॊल्लि, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नराणां समूहः नारमॆऩ्गिऱ समूहार्थकाण् प्रत्यान्तमाऩ नारशब्दत्ताले जीवसमूहम् सॊल्लप्पट्टदु। 
+</details>
+
+
+#### अयनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द समूहङ्गळुक्कु अयनं ऎऩ्गिऱव् इत्ताल्  
+स्वाधीन-- त्रि-विध-चेतनाचेतन-- स्वरूप-स्थिति-प्रवृत्ति-भेदऩ् आऩवऩ् 
+</details>
+
+<details><summary>English</summary>
+
+Their ayanam (abode or resting place) is Nārāyaṇa.  
+This declares that He who has under His control  
+the three kinds of chetanas or sentient beings (the bound, the released and the eternal)  
+and also nonsentient things,  
+their essential nature (or existence) their sustenance, and their activity--
+</details>
+
+<details><summary>Español</summary>
+
+Su "ayanam" (morada o lugar de descanso) es Nārāyaṇa.  
+Esto **declara** que el que **tiene** bajo su **control**  
+Los tres tipos de chetanas o seres sintientes (el límite, el liberado y el eterno)  
+y también cosas no influyentes,  
+su naturaleza esencial (o existencia) su sustento y su actividad
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द समूहङ्गळुक्कु अयनं ऎऩ्गिऱवित्ताल् स्वाधीन त्रिविध चेतनाचेतन स्वरूपस्थितिप्रवृत्तिभेदऩाऩवऩ् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द नारशब्दत्तोडु अयनशब्दत्तैच् चेर्त्तु नाराणामयनमॆऩ्ऱु विग्रहम् पण्णिऩाल् अन्द नारायणऩ्त्रिविधात्माक्कळुक्कुम् अभीष्टफलप्रदानत्ताले उपायमायुम्, स्वयं भोग्यतैयिऩाले उपेयमायुम्, आधारमायुम् तोऱ्ऱुवाऩॆऩ्ऱु भावम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नर-शब्द-वाच्यर् आऩ +++(नित्य-मुक्ता, मुक्ता, बद्धा इति)+++ त्रि-विधात्माक्कळ्-उडैय  
+समूहङ्गळुक्कुम् अपेक्षित+++(-प्राप्ति)+++-हेतुवाय् 
+</details>
+
+<details><summary>English</summary>
+
+He is,  
+to the three kinds of multitudinous souls (the bound, the released and the eternal) who are denoted by the word nara,  
+the Dispenser of what they desire. 
+</details>
+
+<details><summary>Español</summary>
+
+Él **es**,  
+a los tres tipos de almas multitudinarias (The Bound, The Liteed and the Eternal) que **son denotadas** por la palabra nara,  
+El **dispensador** de lo que **desean**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नरशब्दवाच्यराऩ त्रिविधात्माक्कळुडैय समूहङ्गळुक्कुमपेक्षितहेतुवाय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वयं-भोग्यतैयाले उपेयमुम् आय्
+</details>
+
+<details><summary>English</summary>
+
+It says also that since He is blissful,  
+He is, of his own accord, the upeya (i. e.) the object of attainment  
+</details>
+
+<details><summary>Español</summary>
+
+Dice también que, dado que **es** feliz,  
+Él **es**, por su propia **cuenta**, el upeya (i. E.) El objeto de **logro**
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वयं भोग्यतैयाले उपेयमुमाय्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘विष्ण्व्-आधारं यथा चैतत्  
+त्रैलोक्य-समुपस्थितं’’  
+(विष्णुपुराणम् २-१३-२),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘विष्ण्व्-आधारं यथा चैतत्  
+त्रैलोक्य-समुपस्थितं’’  
+(विष्णुपुराणम् २-१३-२),
+</details>
+ 
+<details><summary>English</summary>
+
+and for it is said, 
+
+> “ Thus has it been explained how the three worlds have Viṣṇu as the ādhāra (resting place or abode)” 
+</details>
+
+<details><summary>Español</summary>
+
+y porque **se dice** 
+
+> "Así **se ha explicado** cómo los tres mundos **tienen** Viṣṇu como el ādhāra (lugar de **descanso** o morada)"
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘विष्ण्वाधारं यथाचैतत् त्रैलोक्य समुपस्थितं’’(विष्णुपुराणम् २-१३-२),
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+भगवत आधारत्वे प्रमाणम् विष्ण्वाधारमित्यादि । विष्णुः आधारं यस्य तत् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यो लोक-त्रयम् आविश्य  
+**बिभर्त्य्** अव्यय ईश्वर’’  
+(गीता १५-१७) 
+
+इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यो लोक-त्रयम् आविश्य  
+**बिभर्त्य्** अव्यय ईश्वर’’  
+(गीता १५-१७) 
+
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> “He has entered into the three lokas, viz. the non-sentient, the sentient and the released souls  
+and supports them without undergoing any change."
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> “**Ha entrado** en los tres Lokas, a saber.  
+y los **apoya sin someterse** a ningún cambio ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वर’’(गीता १५-१७) इत्यादिगळिऱ्पडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आधारमुम् आय् इरुक्किऱ बडि  
+सॊल्लप् पट्टदु।
+</details>
+
+<details><summary>English</summary>
+
+is also the support or resting place (ādhāra). 
+</details>
+
+<details><summary>Español</summary>
+
+es también el **apoyo** o el lugar de **descanso** (ādhāra).
+</details>
+
+<details><summary>मूलम्</summary>
+
+आधारमुमायिरुक्किऱबडि सॊल्लप्पट्टदु।
+</details>
+
+
+##### इण्-धातोः
+###### उपायः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ऎङ्ङऩेय्" ऎऩ्ऩिल्;  
+‘‘इण् गतौ’’ ऎऩ्गिऱ धातुविले  
+‘‘ईयते अनेन’’ ऎऩ्ऱु अयन-शब्दत्तिल्  
+करण-व्युत्पत्तियाले ईश्वरऩ् उपायम् आयुम्,
+</details>
+
+<details><summary>English</summary>
+
+How these meanings are traceable in the word ayana will now be explained :- 
+
+The word ayana may be derived from the verbal root in (which means to go), in three ways: 
+
+(1) "īyate anena iti ayana".  
+Ayana is that by which or with which one goes,  
+where it refers to the instrument (karaṇa) or aid.  
+( When derived in this way)  
+Iśvara becomes the upāya or means 
+</details>
+
+<details><summary>Español</summary>
+
+Cómo estos **significados son rastreables** en la palabra Ayana ahora **se explicará**:-
+
+La palabra ayana **puede derivarse** de la raíz verbal en (lo que significa ir), de tres maneras: 
+
+(1) "īyate anena iti ayana".  
+Ayana **es** aquello por el cual o con el cual uno **va**,  
+donde **se refiere** al instrumento (karaṇa) o **ayuda**.  
+(Cuando **se deriva** de esta manera)  
+Iśvara **se convierte** en el upāya o medios
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; ‘‘इण् गतौ’’ ऎऩ्गिऱ धातुविले ‘‘ईयते अनेन’’ ऎऩ्ऱु अयनशब्दत्तिल् करणव्युत्पत्तियाले ईश्वरऩुबायमायुम्,
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अयनशब्दम् उपायत्वोपेयत्वाधारत्वङ्गळैक्काट्टुम् प्रकारत्तैयरुळिच् चॆय्गिऱार् ‘‘इण् गतौ’’ ऎऩ्गिऱ इत्यादियाल्। 
+</details>
+
+
+###### उपेयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘ईयतेऽसौ’’ ऎऩ्गिऱ कर्म-व्युत्पत्तियाले  
+उपेयम् आयुम्,
+</details>
+
+<details><summary>English</summary>
+
+(2) "iyate asau iti ayana"  
+"That which is reached."  
+In this derivation Iśvara becomes the upeya or object that is reached or attained. 
+</details>
+
+<details><summary>Español</summary>
+
+(2) "iyate asau iti ayana"  
+"Lo que **se alcanza**".  
+En esta **derivación**, iśvara **se convierte** en el upeya u objeto que **se alcanza**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘ईयतेऽसौ’’ ऎऩ्गिऱ कर्मव्युत्पत्तियाले उपेयमायुम्,
+</details>
+
+
+###### आधारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘ईयते अस्मिन्’’ ऎऩ्गिऱ अधिकरण-व्युत्पत्तियाले  
+आधारम् आयुन् दोऱ्ऱुगिऱाऩ्। 
+</details>
+
+<details><summary>English</summary>
+
+> (3) "īyate asmin iti ayana":  
+"that in which it rests." 
+
+In this derivation Iśvara becomes the support or ādhāra on which everything rests. 
+</details>
+
+<details><summary>Español</summary>
+
+> (3) "īyate asmin iti ayana":  
+"aquello en el que **descansa**". 
+
+En esta **derivación**, Iśvara **se convierte** en el **apoyo** o ādhāra en el que todo **descansa**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘ईयते अस्मिन्’’ ऎऩ्गिऱ अधिकरणव्युत्पत्तियाले आधारमायुन्दोऱ्ऱुगिऱाऩ्। 
+</details>
+
+##### अय-धातोः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘अय पय गतौ’’ ऎऩ्गिऱ अयति धातुविलुम् इव्वयनपदम् निष्पन्नमाम्। 
+</details>
+
+
+<details><summary>English</summary>
+
+Ayana may also be derived from the verbal root ay, which means "to go."
+</details>
+
+<details><summary>Español</summary>
+
+Ayana también **puede derivarse** de la raíz verbal Ay,  
+lo que **significa "ir"**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अय पय गतौ’’ ऎऩ्गिऱ अयति धातुविलुम् इव्वयनपदम् निष्पन्नमाम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘अयते निखिलान्नारान्’’ ऎऩ्गिऱ वचनत्तिल् अयनपदम् अयपयगतौ ऎऩ्गिऱ धातुविले निष्पन्नमागत् तोऩ्ऱुगिऱदेयॆऩ्ऩ? अन्द धातुविलुम् अयनशब्दम् निष्पन्नमागलामॆऩ्गिऱार् अयपयगतौ इत्यादिना । 
+</details>
+
+
+##### परत्व-सौलभ्ये
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-उपायत्वोपेयत्वादिगळुक्क् उपयुक्तम् आऩ सौलभ्यमुम् परत्वमुम् इङ्गे सिद्धम्।
+</details>
+
+<details><summary>English</summary>
+
+It is evident that Iśvara has in Him the qualities necessary for being the upāya, the upeya and the like,  
+viz., easy accessibility (saulabhyam)  
+and being supreme (paratvam). 
+</details>
+
+<details><summary>Español</summary>
+
+**Es evidente** que Iśvara **tiene** en él las cualidades **necesarias** para **ser** el upāya, el upeya y similares,  
+a **saber**, fácil **accesibilidad** (saulabhyam)  
+y **ser** supremo (paratvam).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वुपायत्वोपेयत्वादिगळुक्कुपयुक्तमाऩ सौलभ्यमुम् परत्वमुमिङ्गे सिद्धम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द उपायत्वोपेयत्वङ्गळाल् परत्वसौलभ्यङ्गळुम् आक्षिप्तङ्गळ् आगुम् ऎऩ्गिऱार् इव्वुपायत्वेत्यादियाल्। 
+</details>
+
+
+### अयनतो व्याप्ती
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अयनम्" ऎऩ्ऱु +++("ईयते ऽस्मिन्न्" इत्य् अधिकरण-व्युत्पत्त्या)+++ वास-स्थानम् आय्  
+अप्-पोदु बहु-व्रीहि-समासत्ताले अन्तर्-व्याप्तियुम्,  
+तत्पुरुषऩाले बहिर्-व्याप्तियुन् दोऱ्ऱुगिऱद्  
+ऎऩ्ऱुम् अनुसन्धिप्पार्गळ्। 
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+बहुव्रीह्या बहिर्-व्याप्तिर् अप्य् उक्तेति वेङ्कटनाथमतम्। 
+</details>
+
+
+<details><summary>English</summary>
+
+When ayana means 'abode',  
+if we take Nārāyaṇa to be a bahuvrihi compound ( Nārāh Ayanam Yasya) (He whose abode is Nārās ),  
+it is considered to indicate that  
+Nārāyaṇa pervades all things and beings within them  
+(i. e.) that He is immanent within them. 
+
+If we take Nārāyaṇa to be a tatpurusha compound (Nārāṇam ayanam: the abode of Nārās,  
+the (compound) word indicates that He pervades them from without  
+(they being within Him)  
+(i.e.) that He is transcendent. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando "ayana" **significa** 'morada',  
+Si **tomamos** nārāyaṇa como un compuesto de bahuvrihi ("nārāh ayanam yasya") (aquel cuya morada **es** nārās),  
+**se considera** que **indica** que  
+Nārāyaṇa **impregna** todas las cosas y seres dentro de ellos  
+(i. e.) Que él **es** inmanente dentro de ellos. 
+
+Si **tomamos** nārāyaṇa como un compuesto de tatpurusha (nārāṇam ayanam: la morada de nārās,  
+La palabra (compuesta) **indica** que los **impregna** externamente  
+(**Están** dentro de él)  
+(es decir) que él **es** trascendente.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अयनमॆऩ्ऱु वासस्थानमाय् अप्पोदु बहुव्रीहिसमासत्ताले अन्तर्व्याप्तियुम् तत्पुरुषऩाले बहिर्व्याप्तियुन् दोऱ्ऱुगिऱदॆऩ्ऱुमनुसन्धिप्पार्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+बहुव्रीहिसमासत्तिल् ईयते ऎऩ्गिऱ कर्मणि व्युत्पत्तियिऩाले अन्तर्व्याप्तियुम्, बहिर्व्याप्तियुम् सिद्धिक्कुमॆऩ्ऱु ताम् निऩैत्तु +++(5)+++  
+‘‘बहुव्रीहिपक्षत्तिल् अन्तर्व्याप्तियुम् तत्पुरुषपक्षत्तिल् बहिर्व्याप्तियुम् तोऱ्ऱुगिऱद्" ऎऩ्ऱु सिल अभियुक्तर् सॊल्लुवर्गळ् ऎऩ्गिऱार् अयनमॆऩ्ऱु इत्यादियाल्।  
+"वासस्थानम् आय्" ऎऩ्ऱदु अधिकरणव्युत्पत्त्यभिप्रायत्ताले।  
+अप्पोदु "नाराः अयनं वासस्थानं यस्य" ऎऩ्गिऱ व्युत्पत्तियिल्  
+आत्माविऱ्कु शरीरम् वासस्थानम् आय् इरुन्दे  
+आधारम् आगाद्,  
+अदु पोले 
+
+> नारङ्गळुम् भगवाऩुक्कु वास-स्थानम् आय् इरुन्दे आधारङ्गळऩ्ऱु  
+
+ऎऩ्ऱु तोऱ्ऱुगैयाल्  
+अन्तर्व्याप्तिये तोऱ्ऱुम् ऎऩ्ऱुम्  
+
+"नाराणाम् अयनम्" ऎऩ्गिऱ तत्पुरुषसमासत्तिल्  
+"नारङ्गळुक्कु वासस्थानम्" ऎऩ्ऱाल्  
+"वस्तु-स्वभावत्ताले आधारम्" ऎऩ्ऱे पर्यवसिक्कुम् ऎऩ्ऱुम्  
+अभियुक्तर्गळिऩभिप्रायम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् इरण्डुम् श्रुति-सिद्धम् +++(←‘अन्तर्बहिश्च तत्सर्वं व्याप्य नारायणस्स्थितः’)+++। 
+</details>
+
+<details><summary>English</summary>
+
+These two are declared in the śrutis (i.e. in Nārāyaṇānuvakam).
+</details>
+
+<details><summary>Español</summary>
+
+Estos dos **se declaran** en los śrutis (es decir, en nārāyaṇānuvakam).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवैयिरण्डुम् श्रुतिसिद्धम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इवैय् इरण्डुम् ‘‘अन्तर्बहिश्च तत्सर्वं व्याप्य नारायणस्स्थितः’’ ऎऩ्गिऱ श्रुतियिऩाले सिद्धमॆऩ्ऱबडि।  
+</details>
+
+
+#### व्याप्त्य्-अर्थौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्तर्-व्याप्तिय् आवदु  
+इवैय् उळ्ळव् इडत्तिल्  
+तऩ्ऩैय् इल्लैय् ऎऩ्ऩव् ऒण्णाद बडि कलन्दु निऱ्कै। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Immanence (or antarvyāpti) means  
+being present inseparably connected with other things and beings  
+in such a way that it cannot be said that  
+He is not present where they are. 
+</details>
+
+<details><summary>Español</summary>
+
+La inmanencia (o antarvyāpti) **significa**  
+**estar presente** inseparablemente **conectado** con otras cosas y seres  
+De tal manera que **no se puede decir** que  
+**No está presente** donde **están**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्तर्व्याप्तियावदु इवैयुळ्ळ विडत्तिल् तऩ्ऩैयिल्लै यॆऩ्ऩ वॊण्णादबडि कलन्दु निऱ्कै। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> ननु अणुक्कळाऩ जीवरूपनारङ्गळिले अन्तःप्रदेशमिल्लामैयाले अन्तर्व्याप्ति कूडुमो?  
+विभुक्कळाऩ कालादिरूपनारङ्गळिले बहिः प्रदेशमिल्लामैयाले बहिर्व्याप्ति कूडुमो? 
+
+ऎऩ्गिऱ शङ्गैयै व्याप्तिकळिऩ्स्वरूपनिरूपणत्ताले निरसिक्किऱार् अन्तर्व्याप्तियावदु इत्यादिना ।  
+इवैयुळ्ळविडत्तिल् तऩ्ऩै यिल्लै यॆऩ्ऩ वॊण्णादबडि कलन्दु निऱ्कै इति । जीवऩुळ्ळ दश दिक्कुगळिलुम् स्वाभावमिल्लादबडि सम्बन्धित्तिरुक्कैये अन्तर्व्याप्तियागैयाले जीवऩिल् अन्तःप्रदेशमिल्लाविडिलुम् अन्तर्व्याप्तिक्कुक् कुऱैयिल्लै यॆऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**बहिर्-व्याप्तिय्** आवदु  
+इवैय् इल्लादव् इडत्तिलुम्  
+ऎङ्गुन् ताऩ् उळऩ् आगै। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Transcendence (bahirvyapti) means being present also in places where they are not present. 
+</details>
+
+<details><summary>Español</summary>
+
+La trascendencia (bahirvyapti) **significa estar presente** también en lugares donde **no están** presentes.
+</details>
+
+<details><summary>मूलम्</summary>
+
+बहिर्व्याप्तियावदु इवैयिल्लादविडत्तिलुमॆङ्गुन् दाऩुळऩागै। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+बहिर्व्याप्तियावदु इवै यिल्लादविडत्तिलुमॆङ्गुन् दाऩुळऩागै इति । उम्मैयाल् इवै युळ्ळ विडत्तिऱ्कु सङ्ग्रहम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विभुक्कळ् आऩ कालादिगळुक्कु  
+बहिर्-व्याप्ति सॊल्ल वेण्डा। 
+</details>
+<details><summary>English</summary>
+
+Such things as Time ( Kāla) are omnipresent (vibhu).  
+So it should not be stated that Iśvara is outside of them. 
+</details>
+
+<details><summary>Español</summary>
+
+Cosas como el tiempo (kāla) **son** omnipresentes (vibhu).  
+Por lo tanto, **no debe declararse** que Iśvara **está** fuera de ellos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+विभुक्कळाऩ कालादिगळुक्कु बहिर्व्याप्ति सॊल्लवेण्डा। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदु बहिर्व्याप्तियाऩाल् कालादिविभुपदार्थङ्गळ् इल्लाद इडमिल्लैयागैयाल् अवैगळुक्कु इदु कूडुवदु ऎङ्ङऩेयॆऩ्ऩवरुळिच्चॆय्गिऱार् विभुक्कळाऩ इत्यादियाल्। 
+कालादीत्यत्रादिपदादीश्वरधर्मभूतज्ञानादिपरिग्रहः । 
+</details>
+
+
+#### अणीयस्त्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ८५‘‘नारायणम् अणीयांसम् अ-शेषाणाम् अणीयसां’’(विष्णुपुराणम् १-९-४१) 
+
+ऎऩ्ऱदु
+</details>
+
+<details><summary>English</summary>
+
+When it is said 
+
+> "Nārāyaṇa who is smaller (aṇiyaan) than all the smallest":  
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se dice** 
+
+> "Nārāyaṇa que **es** más pequeño (aṇiyaan) que el más pequeño":
+</details>
+
+<details><summary>मूलम्</summary>
+
+८५‘‘नारायणमणीयांसमशेषाणामणीयसां’’(विष्णुपुराणम् १-९-४१) ऎऩ्ऱदु
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> ननु ‘‘अणोर् अणीयान्’’, ‘‘नारायणम् अणीयांसम् अशेषाणाम् अणीयसाम्’’ ऎऩ्ऱु अत्यन्ताणुवागच् चॊल्लप्पट्ट नारायणऩुक्कु  
+इन्द व्याप्तिद्वयम् कूडुमोव्? 
+
+ऎऩ्ऩ  
+अङ्गु अणीयश्शब्दत्तिऱ्कु भावमरुळिच्चॆय्गिऱार् नारायणमित्यादिना । 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्तर्-व्याप्तिक्क् अनुगुणम् आय् निऱ्किऱ +++(अन्तर्-व्याप्ति-)+++प्रतिघातानर्हत्वम्,  
+अल्लदु अणुपरिमाणत्वम् अऩ्ऱु। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+the meaning of the word (aṇu) is not 'of small size' but 'subtle'.  
+So the passage really means: “Nārāyaṇa who is subtler than all the subtle things ".  
+It means that  
+owing to His being subtle  
+nothing can prevent Him from being within them.
+</details>
+
+<details><summary>Español</summary>
+
+El **significado** de la palabra (aṇu) **no es** 'de tamaño pequeño', pero 'sutil'.  
+Entonces el pasaje realmente **significa**: 
+
+> "Nārāyaṇa que **es** más sutil que todas las cosas sutiles".
+
+**Significa** que  
+Debido a su **ser** sutil  
+Nada **puede evitar** que esté dentro de ellos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्तर्व्याप्तिक्कनुगुणमाय् निऱ्किऱ प्रतिघातानर्हत्वम्, अल्लदु अणुपरिमाणत्वमऩ्ऱु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रतिघातानर्हत्वमिति । अणीयश्शब्दत्तिऱ्कु प्रतिघातानर्हत्वत्तिल् तात्पर्यमागैयालुम्, महतो महीयानित्यादिगळिल् विभुवागच् चॊल्लप्पट्ट भगवाऩुक्कु अणुपरिमाणवत्वम् बाधितमागैयालुम् विरोधमिल्लै यॆऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु सॊल्लुम् इडम्  
++++(परिमाणोक्तिः)+++ "+++(व्याप्य-)+++उपाध्य्-अवच्छेदत्तालेय्" ऎऩ्ऱु  
+सूत्र-भाष्यादि-सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+In the śruti ( which says “ He is smaller than the grain called śyāmāka"),  
+the purport is that He is of the size of the object within which He is present  
+(i.e.) of the measure of the upādhi or conditioning factor,  
+and this is distinctly stated in the Brahma sūtras and their commentary (Śrī Bhāṣyam). 
+</details>
+
+<details><summary>Español</summary>
+
+En el śruti (que **dice** "**es** más pequeño que el grano **llamado** śyāmāka"),  
+El **significado es** que **es** del tamaño del objeto dentro del cual **está** presente  
+(**es decir**) de la **medida** del factor upādhi o factor de **acondicionamiento**,  
+y esto **se establece** claramente en el Brahma Sūtras y su **comentario** (śrī bhāṣyam).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु सॊल्लुमिडम् उपाध्यवच्छेदत्ताले यॆऩ्ऱु सूत्रभाष्यादिसिद्धम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आऩालुम् ‘‘अणीयान् व्रीहेर्वा यवाद्वा’’ ऎऩ्गिऱविडत्तिल् व्रीहियवादिगळैक् काट्टिलुम् अणुत्वम् तोऱ्ऱुगिऱदे। अङ्गु प्रतिघातानर्हत्वम् सॊल्लुवदु स्वरसमागत् तोऩ्ऱविल्लैये यॆऩ्ऩ वरुळिच्चॆय्गिऱार् इदु सॊल्लु मिडमित्यादिना ।  
+उपाध्यवच्छेदत्ताले - हृदयरूपोपाध्यवच्छेदत्ताले, सूत्रभाष्यादिसिद्धमिति ।  
+‘‘अर्भकौकस्त्वाद्’’ इत्य्-आदि-सूत्रत्तालुम् तद्भाष्यदीपादिगळालुम् सिद्धमॆऩ्ऱबडि। 
+</details>
+
+
+
+#### निर्वाह-शक्तिमत्ता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(कर्तरि क्तः, ब्रह्म→)+++ व्याप्तऩुक्कु प्रतिवस्तु-पूर्णत्वम् आवदु  
+ऒर्-ओरु उपाध्य्-अवच्छिन्न-प्रदेशमे  
++++(सृष्टि-स्थिति-लयाः→)+++ सर्वत्तैयुम् निर्वहिक्क वल्ल  
+शक्तिय्-उडैत्त् आय् इरुक्कै; 
+</details>
+
+<details><summary>English</summary>
+
+Being full and complete in every object,  
+on the part of One who is both immanent and transcendent,  
+means that that aspect or phase of His  
+which, ~~is~~ within any one upadhi or conditioning factor,  
+is capable of (creating, sustaining and destroying)  
+and doing such other things to all things and beings. 
+</details>
+
+<details><summary>Español</summary>
+
+**Estar** lleno y completo en cada objeto,  
+Por parte de alguien que **es** inmanente y trascendente,  
+**significa** que ese aspecto o fase de su  
+que, ~~ está ~~ dentro de cualquiera upadhi o factor de acondicionamiento,  
+**es capaz** de (**crear, sostener** y **destruir**)  
+Y **hacer** esas otras cosas a todas las cosas y seres.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+व्याप्तऩुक्कु प्रतिवस्तुपूर्णत्वमावदु ऒरोरु उपाध्यवच्छिन्नप्रदेशमे सर्वत्तैयुम् निर्वहिक्क वल्ल शक्तियुडैत्तायिरुक्कै; 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> इप्पडि "ईश्वरऩुक्कु सर्ववस्तुव्यापित्वम् उण्ड्" ऎऩ्ऱाल्  
+"अवऩुक्कु वस्तुक्कळ् तोऱुम् पूर्तिय् उण्ड्" ऎऩ्ऱु सॊल्लुगिऱ  
+‘‘तेनेदं पूर्णं पुरुषेण सर्वम्’’ ऎऩ्गिऱ श्रुतिक्कु विरोधम् वारादोव्? 
+
+ऎऩ्ऩ अन्द श्रुतिक्कु भावमरुळिच्चॆय्गिऱार् व्याप्तऩुक्कु प्रतिवस्तुपूर्णत्वमावदु इति ।  
+ऒरोरुवुपाध्यवच्छिन्नप्रदेशमे -  
+घटावच्छिन्नाकाशम्बोलिरुक्किऱ घटाद्यवच्छिन्नमाऩऒव्वॊरु ब्रह्मप्रदेशमे,  
+सर्वत्तैयुम् निर्वहिक्क वल्ल शक्तियुडैत्तायिरुक्कै इति । सर्वजगत्कार्यङ्गळैयुम् निर्वहिक्कक्कूडिऩ शक्तिमत्वमे ऎऩ्गै। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लदु वस्तु-तोऱुम्+++(=प्रति)+++ स्वरूप-समाप्तिय् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+It does not mean that His essential nature is all contained (and exhausted) within any one object (to the exclusion of all others). 
+</details>
+
+<details><summary>Español</summary>
+
+**No significa** que su naturaleza esencial **esté contenida** (y agotada) dentro de un objeto (con la exclusión de todos los demás).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अल्लदु वस्तुतोऱुम् स्वरूपसमाप्तियऩ्ऱु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु कॊळ्ळिल् बहिर्-व्याप्तिक्कु विरुद्धमाम्।
+</details>
+
+<details><summary>English</summary>
+
+If we understand it in that sense, it would be opposed to His transcendence. 
+</details>
+
+<details><summary>Español</summary>
+
+Si lo **entendemos** en ese sentido,  
+**se opondría** a su trascendencia.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु कॊळ्ळिल् बहिर्व्याप्तिक्कु विरुद्धमाम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदऩाल् व्यापित्वत्तिऱ्कुम् पूर्णत्वत्तिऱ्कुम् विरोधम् वारादॆऩ्ऱु सूचितम्। सर्वपरिसमाप्तत्वम् पूर्णत्वमॆऩ्ऱु मुख्यार्थम् कॊळ्ळुम् पक्षत्तिल् श्रुतियिल् सॊऩ्ऩ बहिर्व्याप्तिक्कु विरुद्धमामॆऩ्गिऱार् इदु कॊळ्ळिलित्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्तै अ-घटित--घटना-शक्तियाले निर्वहिक्किल्  
++++(भेदाभेदादि-)+++विरुद्ध-समुच्चयङ् कॊळ्ळुम् पर-मतङ्गळिऱ् पडिय् आम्। +++(5)+++
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अन्तर्-व्याप्तौ पर-(लोकाचार्यानुग?)विवरणे साधूक्तम् इदम् । 
+
+> ननु श्रीमद्-रामानुजाचार्याः
+> 
+> > "भेदो वा अभेदो वा  
+> द्व्य्-आत्मकता वा  
+> कोऽयम् अर्थः समर्थितः " ?
+> 
+> इति प्रश्नम् उत्थाप्य
+> 
+> > "सर्वस्यापि वेदवेद्यत्वात्  
+> सर्वं समर्थितम्"
+> 
+> इति वदन्ति ?
+
+अत्र शरीरि-शरीर-भावेन भेदो ऽभेदश् चोक्तः।  
+अतो नात्र विरुद्ध-समुच्चयः।  
+न चाघटित-घटना-शक्तिर् आश्रिता रामानुजेन।  
+शरीरि-शरीर-भावम् अन्तरा तु भास्कर-यादवप्रकाशाभ्यां भेदाभेद-समुच्चयः कृतः। 
+</details>
+
+<details><summary>English</summary>
+
+If we explain this by saying that Iśvara has the power of bringing together those which cannot be brought together (aghatitaghatanā śakti),  
+it would be acceptance of the position of other systems (like Bhaskara's and Yadava prakasa's),  
+which maintain the possibility of bringing together things which are opposed to each other  
+(Bhaskara and Yadava prakasa say that difference and non-difference can coexist). 
+</details>
+
+<details><summary>Español</summary>
+
+Si **explicamos** esto **diciendo** que Iśvara **tiene** el poder de **reunir** a los que **no se pueden** unir (aghatitaghatanā śakti),  
+**Sería aceptación** de la posición de otros sistemas (como el de Bhaskara y Yadava Prakasa),  
+que **mantienen** la posibilidad de **reunir** cosas que **se oponen**  
+(Bhaskara y Yadava Prakasa **dicen** que la diferencia y la no diferencia **pueden coexistir**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्तै अघटितघटनाशक्तियाले निर्वहिक्किल् विरुद्धसमुच्चयङ्गॊळ्ळुम् परमतङ्गळिऱ्पडियाम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रतिवस्तुपरिसमाप्तत्वरूपपूर्णत्वमुम् सर्ववस्तुबहिर्व्याप्तियुम् ईश्वरऩुक्कु अघटितघटनासामर्थ्यत्ताले कूडलामॆऩ्बार् पक्षत्तैयनुवदित्तु निरसिक्किऱार् इत्तै इत्यादियाल्। विरुद्धसमुच्चयम् कॊळ्ळुम् परमतङ्गळिऱ्पडियामिति । विरुद्धमाऩ भेदाभेदङ्गळुक्कु ऒरु वस्तुविल् समुच्चयम् सॊल्लुम् भास्करादिमतप्रक्रियैयामॆऩ्गै।  
+
+> अघटित-घटना-सामर्थ्यत्ताले  
+प्रतिवस्तुपूर्णत्व-बहिर्व्याप्तिगळुक्कु सामानाधिकरण्यत्तिल् दोषम् इल्लैय् ऎऩ्ऱाल्  
+अदऩालेये जीवेश्वरर्गळिऩ् भेदाभेदङ्गळ्-उडैय सामानाधिकरण्यत्तिलुम् दोषम् इल्लैय् आम् 
+
+ऎऩ्ऱु करुत्तु।
+</details>
+
+### बहु-शब्द-वाच्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु प्रथमाक्षरत्तालुम्  
+नार-शब्दत्तिल् प्रकृतिय् आऩ नर-शब्दत्तालुम्  
+अयन-शब्दत्तालुम्  
+सर्वेश्वरऩैच् चॊल्लुगिऱ बोदु रक्षकत्व-कारणत्व+++(→"अ")+++-- नित्यत्व-नेतृत्व-+++(←"नर", "अयन"→)+++ +आधारत्वान्तर्यामित्वादिगळ् आऩ आकार-भेदङ्गळाले  
+मूऩ्ऱुम् स-प्रयोजनङ्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+Here in Tirumantra,  
+when the Supreme Ruler of all is indicated by the first letter (of praṇava),  
+the base nara of the word Nāras  
+and the word ayana,  
+all these words are purposely used  
+to indicate His being the Protector  
+and His being the ultimate  cause (in "a"),  
+His being eternal  
+and His being the netā (guide) (in the word nara)  
+and His being the resting place or support  
+and the inner self (in the word ayana) in different ways.  
+
+(It should not be thought that  
+these three mean the same thing  
+and that two of them are therefore redundant).
+</details>
+
+<details><summary>Español</summary>
+
+Aquí en Tirumantra,  
+Cuando el gobernante supremo de todo **se indica** por la primera letra (de praṇava),  
+la base nara de la palabra "nāras"  
+y la palabra "ayana",  
+Todas estas palabras **se usan** a propósito  
+para **indicar** que es el **protector**  
+y su **ser** la causa definitiva (en "A"),  
+Su **ser** eterno  
+y su **ser** el netā (guía) (en la palabra "nara")  
+y **siendo** el lugar o apoyo de **descanso**  
+y el yo interior (en la palabra "ayana") de diferentes maneras.  
+
+(**No debe pensarse** que  
+Estos tres **significan** lo mismo  
+y que dos de ellos son, por lo tanto, redundantes).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु प्रथमाक्षरत्तालुम् नारशब्दत्तिल् प्रकृतियाऩ नरशब्दत्तालुम् अयनशब्दत्तालुम् सर्वेश्वरऩैच् चॊल्लुगिऱबोदु रक्षकत्वकारणत्वनित्यत्वनेतृत्वाधारत्वान्तर्यामित्वादिगळाऩ आकारभेदङ्गळाले मूऩ्ऱुम् सप्रयोजनङ्गळ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रणवत्तिल् तृतीयाऽक्षरत्ताले  
+चेतनऩै प्रकाशिप्पिक्कच् चॆय्दे  
+इङ्गु नारशब्दत्ताले मीण्डुञ् जॊल्लुवाऩ् एऩ् 
+
+ऎऩ्ऩिल्;
+</details>
+
+<details><summary>English</summary>
+
+If it be asked: 
+
+> "While the Cetana or sentient being is already indicated by the third letter of praṇava (m),  
+why should it be mentioned again in the word Nara (in Nārāyaṇa)"; 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se le pregunta**: 
+
+> "Mientras que el cetana o el **ser** sensible ya **está indicado** por la tercera carta de praṇava (m),  
+¿Por qué **debería mencionarse** nuevamente en la palabra "nara" (en nārāyaṇa) ";
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रणवत्तिल् तृतीयाक्षरत्ताले चेतनऩै प्रकाशिप्पिक्कच्चॆय्दे इङ्गु नारशब्दत्ताले मीण्डुञ् जॊल्लुवाऩेऩॆऩ्ऩिल्;
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ८६’’नाऩ् उऩ्ऩैय् अऩ्ऱिय् इलेऩ्  
+कण्डाय् नारणऩे  
++++(त्वद्-गुणाविष्-कर्तृत्वात्)+++ नीय् ऎऩ्ऩैय् अऩ्ऱिय् इलैय्’’  
+(नाऩ्मुगऩ् तिरुवन्दादि ७)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+८६’’नाऩुऩ्ऩै यऩ्ऱियिलेऩ्गण्डाय् नारणऩे नी यॆऩ्ऩैयऩ्ऱियिलै’’(नाऩ्मुगऩ् तिरुवन्दादि ७) यॆऩ्ऱुम्, 
+</details>
+
+
+
+The answer is as follows: 
+
+> "I do not exist without Thee, (my support);  
+Thou dost not exist without me,  
+(for I bring out Thy character.) " 
+
+"Rāma's younger brother (Lakṣmaṇa), and Lakṣmaṇa's elder brother". (In the two passages mentioned above, there is apparent repetition, but it is not a fault since it serves a definite purpose). (In the first passage ), the first part of the sentence emphasises the importance of the śeṣī and the second emphasises the importance of the śeṣa; so also (in the secodd. passage ) Rāma's importance is hinted at in Rāmānuja (Rāma's younger brother) and Lakṣmaṇa's importance is hinted at in Lakṣmaṇapurvaja (Lakṣmaṇa's elder brother): Thus each is characterised by the other. In the praṇava, the śeṣī's inportance is prominent as in the chariot of Arjuna ( where Arjuna is prominent and Śrī Kṛṣṇa is not, being only the charioteer ); in the word Nārāyaṇa, the śeṣī's importance is prominent as in the Rasamandala (the Rasakrida described in the Bhāgavatam), where Śrī Kṛṣṇa is all-important and the Gopis not so.
 
 Even in the praṇava, though verbally the jīva is prominent, the prominence, so far as the purport is considered, is of the Protector or Saviour.
 

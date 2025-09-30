@@ -1,9 +1,8 @@
 +++
 title = "०४ सिद्ध-वस्तुनि शब्द-प्रामाण्यम्"
-
 +++
 ## प्रतिज्ञा
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च   
 > 
@@ -33,7 +32,7 @@ they do not have proper denotative power.
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् असत् सिद्धम् अप्य् अर्थम्  
 **आचक्षाणाः** प्रयोगतः ।  
@@ -58,7 +57,7 @@ by applications which concern karyas.
 </details>
 
 ## पुत्र-जन्मोदाहरणम्
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् यथा "पुत्रस् ते जात"  
 इति वचन-श्रवणानन्तर-जनित-विशिष्ट-वदन-**विकासावसान**-समनन्तरं  
@@ -91,7 +90,7 @@ the statement itself has the power to convey an agreeable meaning.
 तद्यथा पुत्रस्ते जात इति वचनश्रवणानन्तरजनितविशिष्टवदनविकासावसानसमनन्तरं हृष्टोऽयमिति प्रतिपद्य हर्षोऽयं प्रियार्थावगमनिबन्धन इति स्वात्मन्याकलयन् मध्यमवृद्धस्यापि तन्निबन्धनमेव हर्षमनुमिमानस्तद्भावभावितया शब्दस्यैव प्रियार्थाऽवबोधकतामव्यवस्यति ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्राप्य् 
 
@@ -114,7 +113,7 @@ amongst the many different grounds that may occur according to past, present and
 तत्राप्यतीतानागतादिभेदभिन्नेषु हर्षहेतुषूपप्लवमानेषु कस्य वक्ताऽयमिति विचिकित्सोदये सति   
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (तद्-अनन्तर-संजात--जात-कर्मावबोधतः ।  )
 </details>
@@ -130,7 +129,7 @@ receives knowledge that a birth ceremony is being held. )
 तदनन्तरसंजातजातकर्मावबोधतः ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (तद्-अन्तर-सञ्जातं  
 ज्ञापकम् **अन्विष्यतः** ।  
@@ -144,7 +143,7 @@ receives knowledge that a birth ceremony is being held. )
 तद्-अनुभूतः को ऽपीति भिन्न-वस्त्राभरणम्² पुरा³ ॥  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "तद्-धेतु-भूतः कोऽपी"ति  
 निश्चिन्वन्न् आत्मनः पुरा ॥  
@@ -165,7 +164,7 @@ Then he considers,
 कर्तव्यं जातकर्मेति प्रतीतेः किन्नु कारणम् ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रतीतं प्रियम् इत्य् एवं  
 **विमृशन्न् अवगच्छति** ॥  
@@ -203,7 +202,7 @@ but a communication of an established fact,
 पुत्रजन्मैव निवान्यदिति व्युत्पित्सुरर्भकः ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र च -  
 
@@ -227,7 +226,7 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 </details>
 
 ## विधि-पक्षेऽप्य् आवापोद्वापक्रमः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु न तद्-भाव-भाविता-मात्रेण कार्य-कारण-भावः,  
 अति प्रसङ्गात्।
@@ -245,7 +244,7 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 ननु न तद्-भाव-भाविता-मात्रेण कार्य-कारण-भावः, अति प्रसङ्गात्।
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न च जात-कर्म-कर्तव्यताऽवगतिर् नियमेन प्रियार्थावगम-पुरस्सरी, 
 </details>
@@ -260,7 +259,7 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 न च जात-कर्म-कर्तव्यताऽवगतिर् नियमेन प्रियार्थावगम-पुरस्सरी, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > दृश्यते हि कुटुम्ब-भरणायास-विदूयमान-मनसो ऽप्रीति-पूर्विकापि तत्-कर्तव्यतावगतिः, 
 </details>
@@ -268,8 +267,11 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 <details><summary>Buitenen</summary>
 
 > for we find also that the same realization follows upon a feeling of distress, namely when the informed father is vexed by the trouble of maintaining his family.132
+</details>
 
-132: Then, one may suppose, the child would not so readily associate the birth ceremony with the previous communication.  
+<details><summary>Buitenen - Notes</summary>
+
+[132]: Then, one may suppose, the child would not so readily associate the birth ceremony with the previous commueniation.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -277,7 +279,7 @@ Definite knowledge of the denotion of words in a sentence is had through the wor
 दृश्यते हि कुटुम्ब-भरणायास-विदूयमान-मनसोऽप्रीति-पूर्विकापि तत्-कर्तव्यतावगतिः, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्यावगतिः किं शब्द-कारणिका दृष्टा  
 येन "गाम् आनये"त्य् आदौ  
@@ -294,7 +296,7 @@ REFUTATION. Don't we find that the realization of a kārya is caused by a verbal
 कार्यावगतिः किं शब्द-कारणिका दृष्टा येन गाम्-आनयेत्य् आदौ गवानयनादि-कर्तव्यतावगतिः शब्द-कारणिकाऽभ्युपेयते। 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ 
 
@@ -315,7 +317,7 @@ When you say that, since this realization cannot occur without a cause therefore
 अथ आकस्मिकत्वानुपपत्तेः सन्निहित-शब्द एव तद्-अवगम-हेतुर् इति चेत् समानोऽयं विधिर् इतरत्रापि।
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यापि प्रवृत्ति-हेत्व्-अर्थ-  
 प्रतिपादकता क्वचित्।  
@@ -327,7 +329,7 @@ When you say that, since this realization cannot occur without a cause therefore
 
 It has been decided by our opponent that the verbal denotation of a meaning which causes an action to be taken is a result of the inclusion in the statement of a liṅādi suffix.133 
 
-133: supra §36\.  
+[133]: supra §36.  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -336,7 +338,7 @@ It has been decided by our opponent that the verbal denotation of a meaning whic
 लिङादि-प्रत्ययावाप-हैतुकी साऽवसीयते॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यश् च कार्य-परताम् एवाखिल-पदानाम् आतिष्ठते, 
 </details>
@@ -351,7 +353,7 @@ He who maintains that all words only bear meaningfully on kārya,
 यश् च कार्य-परताम् एवाखिल-पदानाम् आतिष्ठते, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनाप्य्-आवापोद्धार-विनिर्धारितासंसृष्ट-शरीराणाम् एव गवाश्वादीनां तत्-पदार्थता समर्थनीया, 
 </details>
@@ -360,7 +362,7 @@ He who maintains that all words only bear meaningfully on kārya,
 
 maintains in effect that padārthas134 exist only in kārya statements and that e.g. in the case of cows, horses and the like, which are related to bodies, their being a padārtha is ascertained by the inclusion or exclusion of the words denoting them in a statement concerning kārya. 
 
-134: The things-meant or denoted by the word,  
+[134]: The things-meant or denoted by the word,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -369,7 +371,7 @@ maintains in effect that padārthas134 exist only in kārya statements and that 
 </details>
 
 ## न कार्यान्विताभिधान-मात्रम्
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > समर्थ्यमाना ऽपि कार्यान्वयिन्य् एव समर्थ्यत 
 
@@ -381,17 +383,7 @@ maintains in effect that padārthas134 exist only in kārya statements and that 
 <details><summary>Buitenen</summary>
 
 If he says, indeed, whenever their being a padārtha is significantly construed, it is construed just as connected with kārya, we reply,  
-Stop being obstinate; for verbal exchange is also possible through denotation of words that are connected with other things than kāryas.135
-</details>
-
-<details><summary>Buitenen - Note</summary>
-
-135: Yāmuna's argument is that the injunctive, etc. terminations of the verb denote the injunction as their thing-meant (padārtha); but what makes this injunction 'meaningful' is not that it is an injunction,  
-but that it is connected with someone who is qualified to accept the injunction,  
-e.g., in the injunction svargakāmo yajeta.  
-The injunctive yajña has no meaning or purpose unless there is a "desire for heaven;"  
-the meaning of the injunction thus is connected with the consequence of this desire of heaven,  
-namely, that somebody who has this desire is prepared to do something about it.  
+Stop being obstinate; for verbal exchange is also possible through denotation of words that are connected with other things than kāryas.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -399,7 +391,7 @@ namely, that somebody who has this desire is prepared to do something about it.
 समर्थ्यमानापि कार्यान्वयिन्य् एव समर्थ्यत इति चेत् अलं व्यसनेन अन्यान्विताभिधानेनापि व्यवहारोपपत्तेः।
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवश्याश्रयणीयेयम्  
 अन्वितार्थाभिधायिता।  
@@ -425,7 +417,7 @@ Words, he says, generally depend upon some factors
 and those factors need not necessarily be ‘kārya’.  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव्याप्तञ् चैतत् 
 
@@ -451,7 +443,7 @@ Pointing out the untenability of the theory of ‘kārya’,
 he says that it goes astray in the instance of ‘liṅ’ the optative itself.  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++("स्वर्गकामो ज्योतिष्टोमेन यजेते"ति यथा )+++  
 लिङ्-आदयो हि +++(स्वर्गकामना याजके←)+++ परिनिष्ठिताधिकाराद्य्-अनुबन्ध-संबन्धिनम् एव स्वार्थम् अभिदधति ।
@@ -459,7 +451,12 @@ he says that it goes astray in the instance of ‘liṅ’ the optative itself.
 
 <details><summary>Buitenen</summary>
 
-since these suffixes denote their own meanings as connected, not with kārya, but with consequences of already established facts, such as proper qualification on the part of the person enjoined etc. 
+since these suffixes denote their own meanings as connected, not with kārya, but with consequences of already established facts, such as proper qualification on the part of the person enjoined etc.135 
+</details>
+
+<details><summary>Buitenen - Note</summary>
+
+[135]: Yamuna's argument is that the injunctive, etc. terminations of the verb denote the injunction as their thingmeant (padārtha); but what makes this injunction 'meaningful' is not that it is an injunction, but that it is connected with someone who is qualified to accept the injunction, e.g., in the injunction svargakāmo yajeta. The injunctive yajeta has no meaning or purpose unless there is a "desire for heaven;"  the meaning of the injunction thus is connected with the consequence of this desire is  prepared to do something about it.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -475,7 +472,7 @@ Even the ‘liṅ’-suffix is found to depend upon a host of factors like the q
 > स्वार्थे पदानां व्युत्पत्तिर् आस्थेया सर्ववादिभिः ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ 
 
@@ -494,7 +491,7 @@ it is more appropriate simply to accept the view that there is denotation of con
 
 <details><summary>Buitenen - Note</summary>
 
-136: ardhajaratī is a half-old woman; the ardhajaratīyanyāya is used to indicate that the opponent wants to have it both ways and that consequently his argument, like a half-old and half-young woman, is useless either way.  
+[136]: ardhajaratī is a half-old woman; the ardhajaratīyanyāya is used to indicate that the opponent wants to have it both ways and that consequently his argument, like a half-old and half-young woman, is useless either way.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -512,11 +509,11 @@ For an explanation of the ardhajaratī-nyāya see Nyāyasudhā under I. iii. 1, 
 >
 > इति लोक-प्रवादो ऽर्धजरतीशब्दे। 
 
-Also cf. *Bhuvaneśvarīlalaukikanyāyasāhasrī*, p. 104: “ यत्र सर्वत्यागे ग्रहणे वा प्रसक्ते, निर्युक्तिकम् एकांशोपादानम् अरंशान्तरत्यागश् च क्रियते, तत्रायं न्यायोऽवतरति—  
+Also cf. *Bhuvaneśvarīlalaukikanyāyasāhasrī*, p. 104: “ यत्र सर्वत्यागे ग्रहणे वा प्रसक्ते, निर्युक्तिकम् एकांशोपादानम् अरंशान्तरत्यागश् च क्रियते, तत्रायं न्यायोऽवतरति—  
 यथा जरती वृद्धा स्त्री, तस्याः पतिः तदर्थं गुणमात्रं गृह्णाति ह्यवयवान्तरं त्यजतीति युक्तिशून्यम् ।”
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माद् आकाङ्क्षितासन्न-  
 योग्यार्थान्तर-सङ्गतेः ।  
@@ -540,7 +537,7 @@ Also cf. *Bhuvaneśvarīlalaukikanyāyasāhasrī*, p. 104: “ यत्र स
 Words convey their sense only in connection with such other idea or factor that is complete to its sense (ākāṅkṣita), that is compatible with it (yogya) and which is supplied by a word uttered along with it (āsanna). Kārya should therefore occupy a subordinate but not the supreme position in the scheme of significance of words.
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++("तुष्यतु दुर्जन" इति)+++ यद्य् अपि +++("गाम् आनये"ति →)+++ प्रवृत्त्य्-अनुपपत्ति-समधिगमनीयैव  
 शब्द-शक्तिस्, तथाऽपि -
@@ -560,7 +557,7 @@ even so
 
 <details><summary>Buitenen - Note</summary>
 
-137: Miśra's text here has pady api prartly anu papattisamadhigamaniyaiva śabdaśaktis "the denoting power of language is to be known only through the impossibility of operation," which makes no sense. The reading must be corrupt, in anu papatti we may find a corruption of vyutpatti, in pravṛtti perhaps a corruption of kāryārthe or kāryārtha-. I read conjecturally kāryārthe vyutpatti-samadhigamanīyaiva, which gives the required sense.  
+[137]: Misra's text here has yady api vṛttyanupapattisamadhigamanīyaiva śabdaśaktis "the denoting power of language is to be known only through the impossibility of operation,"  which makes no sense. The reading must be corrupt, in anu papatti we may find a corruption of vyutpati,in pravṛtti perhaps a corruption of kāryārthe or kāryārtha-.  I read conjecturally kāryārtha vyutpattisamadhi gamanīyaiva, which gives the required sense.
 </details>
 
 ## व्युत्पन्न-प्रयोगे कार्यानपेक्षा
@@ -574,7 +571,7 @@ even so
 तुष्यतु दुर्जन 'न्यायेनाऽऽह ' यद्यपी 'ति । प्रवृत्तिर्गवानयनादिषु । तस्या अन्यथानुपपत्त्या प्रथमं शक्तिरभ्युपेया 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तटस्थोपायता-मात्रं  
 शब्द-शक्ति-विनिश्चये ।  
@@ -599,7 +596,7 @@ it is correct when we decide the denotation of language to take the standpoint t
 एवं कार्यस्यापीति ध्येयम् ।
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनन्य-लभ्यश् शब्दार्थ  
 इति न्याय-विदस् स्थिताः ।  
@@ -615,6 +612,11 @@ The logicians hold the view that the meaning of a language statement cannot be k
 just as is the case with floating precious stones on water. 
 </details>
 
+<details><summary>Buitenen - Notes </summary>
+
+[138]: This holds for those statements which are not verifiable by other means of knowledge, for if they are verifiable, they are no incans of knowledge in their own right.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनन्यलभ्यश् शब्दार्थ इति न्यायविदस् स्थिताः ।  
@@ -627,7 +629,7 @@ just as is the case with floating precious stones on water.
 The quality of gems is tested by putting them in water. If they float, that is an indication of their superiority. This method of testing or the knowledge regarding the test is no doubt useful in determining the class of gems; but it is of no avail at the time of wearing them. On this analogy, it is argued that the knowledge of 'karya' though useful to arrive at the significance of words, is not useful at the time of using those words. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथैव हि ब्रह्म-जातीयादि-वज्र-विशेषावधारणोपयोगिनोऽपि पयः-प्रतरणादेर् अवधृत-रत्न-सत्त्वस्य  
 न व्यवहार-दशायाम् उपयोगः,  
@@ -651,7 +653,7 @@ For a classification of gems as 'male' and 'female, see Ratnadipikā of Candeśv
 </details>
 
 ## नदी-तीर-फलम्
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि च कार्यान्वितम् एवार्थं शब्दाः प्रतिपादयन्ति कथं तेभ्यः परिनिष्ठित-नदी-तीर-फलादिसंसर्गावगमः, 
 </details>
@@ -668,7 +670,7 @@ For a classification of gems as 'male' and 'female, see Ratnadipikā of Candeśv
 यदि च कार्यान्वितम् एवार्थं शब्दाः प्रतिपादयन्ति कथं तेभ्यः परिनिष्ठित-नदी-तीर-फलादिसंसर्गावगमः, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > नायं मुख्यो लाक्षणिक 
 
@@ -686,7 +688,7 @@ If you say that a statement of such a substantive relation does not denote the r
 </details>
 
 ## मानान्तरानपेक्षा
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > +++(शब्दानां मुख्य-प्रयोगः)+++ मानान्तरापूर्वे+++(←तेन न साध्यम् इत्य् "अपूर्वम्")+++ कार्य 
 
@@ -718,7 +720,7 @@ we reply: no, for then no use of words would be possible, since their meaning wo
 + शब्दस्येति शेषः । 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि मानान्तरापूर्वे+++(←तेन न साध्यम् इत्य् अपूर्वम्)+++  
 व्युत्पत्तिर् उपपद्यते ।  
@@ -746,7 +748,7 @@ Yamuna here attacks the theory advanced by the Prabhakaras that the words uttere
 </details>
 
 ## अपूर्वे शक्तिः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योऽपि मन्यते 
 
@@ -770,7 +772,7 @@ when it bears on a kārya that is to be accomplished with a certain action.
 > लोके क्रिया-कार्ये व्युत्पन्न-शब्दः  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > +++(शब्दः)+++ फल-पद-समभिव्याहार--बल-प्रतिलब्ध-- तत्-साधन-भाव-भङ्गुर-यागादि-धात्व्-अर्थोत्तीर्ण-  +अपूर्व+++(-रूप)+++-कार्याभिधान-शक्तिर् वेदे मोदते,  
 </details>
@@ -798,7 +800,7 @@ X ' फलपदं' फल-वाचकं स्वर्ग-कामाद�
 वेदे निर्वृत्त इति भावः । 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > लोके तु सं-मुग्धेनापि[1] व्यवहारोपपत्तेर्  
 न शब्दार्थ-तत्त्वावधारणम् आद्रियते 
@@ -830,7 +832,7 @@ Cf. Prakaranapañcikā V. p. 95:
 वृष्ट्य्-आयत्त-फले कर्मणि प्रवर्तन्ते । "
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यापीदं मनोरथ-मात्रम्, 
 </details>
@@ -845,7 +847,7 @@ REFUTATION. This position is just wishful thinking;
 तस्यापीदं मनोरथ-मात्रम्, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि क्रिया+++(-रूप)+++-कार्ये व्युत्पन्नः +++("यजेत"-शब्दः)+++  
 स्थायि+++(-अपूर्व-रूप)+++-कार्यं प्रतिपादयति - अति-प्रसङ्गात् । 
@@ -854,27 +856,17 @@ REFUTATION. This position is just wishful thinking;
 <details><summary>Buitenen</summary>
 
 for a language statement,  
-even if understood in your way as bearing meaningfully only on a kārya to be accomplished with an action,  
+even if understood in your way as bearing meaningfully only on a kārya to be accomplished with an action,139  
 does not by that token set forth a permanent kārya,140  
 since that would mean over-extension. 
-
-139: read na hi kriyākārye vyutpannaḥ sthāyi kāryam.  
 
 </details>
 
 <details><summary>Buitenen - Note</summary>
 
-140: sthāyi; the Prābhākara view is that the kārya has a lasting efficacy  
-beyond the inevitably transient action it involves;  
-for the kārya must remain in order to effect the fruit of the action  
-at any time after the completion of the action.  
+[139]: read na hi kriyakārye vyut pannaḥ sthāyi kāryaṃ.
 
-Yāmuna objects that we cannot have two altogether different denoting powers in language,  
-one to convey a transitory thing,  
-another to convey a non-transitory thing.  
-
-The only possible explanation is that of lakṣaṇā "figurative usage," which remains related to the mukhyā "principal usage."  
-But he will deny the entire construction (67). 
+[140]: sthāyi; the Prābhākara view is that the kārya has a lasting efficacy beyond the inevitably transient action it involves; for the kārya must remain in order to effect the fruit of the action at any time after the completion of the action. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -889,7 +881,7 @@ But he will deny the entire construction (67).
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि वृद्ध-व्यवहारे समधिगत-पद-सामर्थ्ये ऽनुरुध्यमाने  
 ऽन्वयावगतिर् +++('स्वर्गकाम'पदस्य)+++ नोपपद्यते, मोपपादि। 
@@ -914,7 +906,7 @@ then we can never know their connection!
 ६ अन्वयावगतिः 'स्वर्गकाम'पदस्येति शेषः । 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तु तद्-अनुपपत्त्या  
 कॢप्त-शक्ति-परित्यागेन शब्द-शक्त्य्-अन्तरं भजते । 
@@ -932,14 +924,19 @@ it does not thereby acquire another denoting power.
 न तु तद्-अनुपपत्त्या कॢप्त-शक्ति-परित्यागेन शब्द-शक्त्यन्तरं भजते । 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं लक्षणाऽश्रीयताम् ।
 </details>
 
 <details><summary>Buitenen</summary>
 
-In such cases we surely must assume lakṣaṇā. 
+In such cases we surely must assume lakṣaṇā.141 
+</details>
+
+<details><summary>Buitenen - Note</summary>
+
+[141]: Yāmuna objects that we cannot have two altogether different denoting powers in langauge, one to convey a transitory thing, another to convey a non-transitory thing. The only possible explanation is that of lakṣaṇa "figurative usage," which remains related to the mukhyā vṛttiḥ "principal usage." But he will deny the entire construction (67).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -947,7 +944,7 @@ In such cases we surely must assume lakṣaṇā.
 कामं लक्षणाऽश्रीयताम् 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि +++('सिंहो माणवकः', 'अग्निर्माणवकः' इत्यादिप्रयोगेषु)+++ विरुद्धार्थ-पद-समभिव्याहारे  
 पदानाम् अभिधानम् एवान्यथा नीयते,  
@@ -969,7 +966,7 @@ For when certain words are collocated that have incompatible meanings, these wor
 'सिंहो माणवकः', 'अग्निर्माणवकः' इत्यादिप्रयोगेषु । 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं च मानान्तरापूर्व+++(←तेन न साध्यम् इत्य् अपूर्वम्)+++-  
 +++(-रूप-)+++कार्य-बोधन-शक्तता ।  
@@ -996,7 +993,7 @@ For when certain words are collocated that have incompatible meanings, these wor
 नास्तीति भाट्टो ग्रन्थकारश्चेति बोध्यम् । 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नैयोगिकस्+++(=विधि-सूचकः)+++ स +++(कर्म-फल-)+++सम्बन्धो  
 न पुनर् वैनियोगिकः +++(=साधन-सूचकः)+++ ।  
@@ -1029,7 +1026,7 @@ cannot be proved except by the relation of kārya with the fruit of the act, and
 'स च' कर्मफलसङ्गमः । 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश् च दुरुत्तरम् इतरेतराश्रयणम् ।
 </details>
@@ -1056,7 +1053,7 @@ And therefore there is a vicious interdependence that cannot be refuted.
 इति अन्योन्याश्रयणप्रकारः समनुसन्धेयः ।
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > साध्य-स्वर्ग-विशिष्टस्य  
 पुरुषस्य **प्रवर्तकः** ।  
@@ -1077,7 +1074,7 @@ the injunction itself cannot be the means of achieving the desired heaven.
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > भङ्गुरो **न** च धात्वर्थः  
 **करणत्वेन कल्पते** ।  
@@ -1088,16 +1085,13 @@ the injunction itself cannot be the means of achieving the desired heaven.
 
 <details><summary>Buitenen</summary>
 
-The root-sense of the words being transitory, the statement itself cannot function as this means.141  
+The root-sense of the words being transitory, the statement itself cannot function as this means.142  
 Therefore the assertion that a language statement communicates as its proper meaning a kārya which exceeds this transitory root-sense, cannot be correct. 
 </details>
 
 <details><summary>Buitenen - Note</summary>
 
-141: This is the Prābhākara view, which holds that in the injunction (niyoga) svargakāmo  
-yajeta the sādhya (object to be realized) is not svarga,  
-but the entire niyoga (cf. Prakaraṇapañcikā, p. 190),  
-so that the statement of the injunction would become the means (sādhana) to realize that sādhya, sc. the injunction.  
+[142]: This is the prābhākara view, which holds that in the injunction niyoga svargakāmo yajeta the sādhya (object to be realized) is not svarga, but the entire niyoga (cf. Prakaraṇapañcikā, p. 190), so that the statement of the injunction would become the means (sādhana) to realize that sādhya, sc. the injunction. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1106,7 +1100,7 @@ so that the statement of the injunction would become the means (sādhana) to rea
 इति तद्-भिन्न-कार्यार्थ-बोधकत्वं यद् उच्यते ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् असन् - न हि साध्येन  
 स्वर्गेणायं +++(पुरुषो)+++ विशेष्यते ।  
@@ -1116,10 +1110,9 @@ so that the statement of the injunction would become the means (sādhana) to rea
 
 <details><summary>Buitenen</summary>
 
-A person is not specified by heaven as the object to be achieved,142 but it is the person who desires heaven who is enjoined upon to accomplish the act.   
+A person is not specified by heaven as the object to be achieved,143 but it is the person who desires heaven who is enjoined upon to accomplish the act.   
 
-142: {{Cr.|Cf.}} {{Prakaraṇapañcikā}} p. 182\.  
-
+[143]: Cf. Prakaraṇapañcikā p. 182.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1133,7 +1126,7 @@ A person is not specified by heaven as the object to be achieved,142 but it is t
 'ज्योतिष्टोमेन स्वर्गकामो यजेते'त्यत्र । 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि स्वर्गोऽधिकारिविशेषणं साध्यत्वात् ।  
 </details>
@@ -1148,7 +1141,7 @@ Heaven can not be the specification of the person's qualification, because heave
 न हि स्वर्गोऽधिकारिविशेषणं साध्यत्वात् ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धम् एव हि सर्वस्य  
 नियोज्यस्य विशेषणम् ।  
@@ -1179,7 +1172,7 @@ Only something that has already been achieved, that actually exists, can specify
 न तु साध्यम् । एवं प्रकृते ऽपि विभाव्यम् । 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च नियोज्य-विशेषणताम् +++(त्वन्-मते)+++ अनुभवतः स्वर्गादेः  
 कीदृशं साध्यत्वम् ।  
@@ -1197,7 +1190,7 @@ Only something that has already been achieved, that actually exists, can specify
 अपि च नियोज्य-विशेषणताम् अनुभवतः स्वर्गादेः कीदृशं साध्यत्वम् ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि साधन-संबन्ध-  
 योग्यत्वं - नैव तावता ॥  
@@ -1211,13 +1204,12 @@ Only something that has already been achieved, that actually exists, can specify
 
 If its being a sādhya means that it is fit for a relation with a sādhana,  
 it is impossible for heaven to be siddha, as long as its relatability obtains,  
-since it cannot become siddha in the meantime.143 
+since it cannot become siddha in the meantime.144 
 </details>
 
 <details><summary>Buitenen - Note</summary>
 
-143: Nothing can become a fact (siddha) as long as it is still to be made a fact (sādhya) by a "factualizing" means (sādhana);  
-thus as long as it is related with such a means it cannot be a fact.  
+[144]: Nothing can become a fact (siddha) as long as it is still to be made a fact (sādhya) by a "factualizing" means (sādhana); thus as long as it is related with such a means it cannot be a fact.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1226,7 +1218,7 @@ thus as long as it is related with such a means it cannot be a fact.
 स्वर्गेण सिद्ध्यता भाव्यं यावद् योगम् अजन्मतः ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्धि-पर्यन्तता तस्य +++(स्वर्गस्य "नियोज्य-विशेषणस्य")+++  
 +++(अपूर्व=)+++नियोगैक-प्रमाणिका ॥
@@ -1293,7 +1285,7 @@ these actions, which are devoted simply to some material result, though a part o
 </details>
 
 ### साध्य-द्वयापत्तिः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि स्वर्गस्य साध्यत्वं,  
 न नियोगस्य+++(=अपूर्वस्य)+++ साध्यता +++(इति वाच्यम्)+++॥  
@@ -1315,7 +1307,7 @@ If heaven is the sādhya, the injunction is not the sādhya. It is not possible 
 </details>
 
 #### नियोग-स्वान्तन्त्र्यम्
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > स्वतन्त्रं हि साध्य-द्वयम् एकवाक्यतां निरुणद्धि -  
 नानुगुणम्, 
@@ -1323,7 +1315,12 @@ If heaven is the sādhya, the injunction is not the sādhya. It is not possible 
 
 <details><summary>Buitenen</summary>
 
-> 69\. OBJECTION. Indeed, the unity of a sentence is broken up when it contains two sādhyas that are independent, but not when the two are interdependent. 
+> 69\. OBJECTION. Indeed, the unity of a sentence is broken up145 when it contains two sādhyas that are independent, but not when the two are interdependent. 
+</details>
+
+<details><summary>Buitenen - Notes</summary>
+
+[145]: This is the principle of ekavākyata: a statement can contain only one injunction, otherwise there is vākyabheda: what should be one sentence is split up into two.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1331,7 +1328,7 @@ If heaven is the sādhya, the injunction is not the sādhya. It is not possible 
 > स्वतन्त्रं हि साध्य-द्वयम् एकवाक्यतां निरुणद्धि नानुगुणम्, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुगुणं चैतत्-साध्य-द्वयं -  
 नियोग-सिद्धिनान्तरीयकत्वात् स्वर्ग-सिद्धेः, 
@@ -1347,7 +1344,7 @@ And here the two sādhyas are interdependent since the realization of heaven is 
 अनुगुणं चैतत्-साध्यद्वयं नियोग-सिद्धि-नान्तरीयकत्वात् स्वर्ग-सिद्धेः, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यद् आह  
 > 
@@ -1360,9 +1357,12 @@ And here the two sādhyas are interdependent since the realization of heaven is 
 
 <details><summary>Buitenen</summary>
 
-> That is what the Author says: "When the niyoga is realized, everything else in accordance with it is also realized;" and: "Why should the realization of the fruit not be held to be subservient to the realization of the injunction?"145 Therefore there is no conflict here.
+> That is what the Author says: "When the niyoga is realized, everything else in accordance with it is also realized;" and: "Why should the realization of the fruit not be held to be subservient to the realization of the injunction?"146 Therefore there is no conflict here.
+</details>
 
-145: Quotations not identified; but for the argument, see Prakaraṇapañcikā, p 183 f.  
+<details><summary>Buitenen - Notes</summary>
+
+[146]: Quotations not identified; but for the argument, see Prakaraṇapañcikā, p 183 ff
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1373,7 +1373,7 @@ And here the two sādhyas are interdependent since the realization of heaven is 
 इति चेत् — 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन् न -
 
@@ -1406,7 +1406,7 @@ REFUTATION. No;
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न हि नित्याधिकारेषु  
 +++(अपूर्वः=)+++नियोगस् ताम् +++(स्वर्गसिद्धिं)+++ अपेक्षते ।  
@@ -1418,19 +1418,18 @@ REFUTATION. No;
 
 <details><summary>Buitenen</summary>
 
-70\. ~~OBJECTION.~~ In the case of the qualifications for periodical rites the injunction (apUrva) does not require the 'realization of any fruit.'146   
+70\. ~~OBJECTION.~~ In the case of the qualifications for periodical rites the injunction (apUrva) does not require the 'realization of any fruit.'147   
 
-146: No specific fruits are attached to nitya rites.  
+[147]: No specific fruits are attached to nitya rites. 
 
 Nor does an injunction to one act  
 fail to apply to a person who really desires another fruit.
 
-The pre-eminence147 is really the injunction's;  
+The pre-eminence148 is really the injunction's;  
 a person is enjoined upon by the injunction to any act in the same way  
 as he is enjoined upon to perform the periodical acts.
 
-147: māhātmya, which corresponds to prādhānya, pradhānatā.  
-
+[148]: māhātmya, which corresponds to prādhānya, pradhānatā 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1440,7 +1439,7 @@ as he is enjoined upon to perform the periodical acts.
 नियोगस्यैव माहात्म्यं नित्येष्व् इव नियुज्यते । 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नियोगो हि प्रधानतया ऽधिगम्यमान-स्वर्गम् अभिलषन्तम् अप्य्  
 आत्मन्य् आकर्षति  
@@ -1458,7 +1457,7 @@ For the injunction draws unto itself the desirous person who himself thinks that
 </details>
 
 #### निमेषादि-साधनता
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं च ।  
 
@@ -1479,7 +1478,7 @@ Besides, a person who is desirous of heaven also opens and shuts his eyes; for y
 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "तत्-साधनतया नैते  
 गृह्यन्त" इति चेन् मतम् ।  
@@ -1500,7 +1499,7 @@ Besides, a person who is desirous of heaven also opens and shuts his eyes; for y
 यागादयः किं तद्-बुद्धि-ग्राह्या विधि-बहिष्कृताः ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र च -  
 
@@ -1524,7 +1523,7 @@ On this point: When the injunction does not mean to convey a relation between th
 </details>
 
 ### निगमनम्
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माल् लिङादिभ्यः प्रथमम् इष्ट-साधनता-अवगमः,  
 ततो रागतः प्रवृत्तिर् इत्य् एव युक्तम्, 
@@ -1544,7 +1543,7 @@ and that subsequently the desire for this object prompts a person to undertake t
 तस्माल् लिङादिभ्यः प्रथमम् इष्ट-साधनता-अवगमः, ततो रागतः प्रवृत्तिर् इत्य् एव युक्तम्, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "तद् अपूर्व-कार्याभिधान एव मुख्या शक्तिः, इतरत्र लाक्षणिकी"त्य् अनुपपन्नम्, 
 </details>
@@ -1567,7 +1566,7 @@ and that
 </details>
 
 ## अनुमान-मूलता न लौकिक-शब्देषु
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत एव यथा-यथं लौकिक-शब्देभ्यस् तत्-सिद्धार्थ-गोचरा बुद्धयो जायन्ते ।
 </details>
@@ -1584,7 +1583,7 @@ We conclude that ordinary, non-Vedic statements give rise to cognitions concerni
 अत एव यथा-यथं लौकिक-शब्देभ्यस् तत्-सिद्धार्थ-गोचरा बुद्धयो जायन्ते ।
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु न ताः शब्द-महिम-भुवः, आनुमानिक्यो हि ताः, 
 </details>
@@ -1609,7 +1608,7 @@ but not inferential authority.
 See the verse "tasmādasti madillie ", etc., following. 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तथा हि व्युत्पत्ति-समय-संविदितार्थ-प्रतिपादन-सामर्थ्यान्य् अपि पदानि  
 क्वचिद् +++(शब्देषु)+++ व्यभिचार-दर्शन-जनित-संशय-प्रतिबद्धानि  
@@ -1640,7 +1639,7 @@ na cApratitenarthena
 viseṣaścāvakalpate ।। 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न चानिश्चितोऽर्थो ज्ञातो भवति  
 अनिश्चयात्मनो ज्ञानस्याभावात् ।
@@ -1656,7 +1655,7 @@ viseṣaścāvakalpate ।।
 न चानिश्चितोऽर्थो ज्ञातो भवति अनिश्चयात्मनो ज्ञानस्याभावात् ।
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > तत्राज्ञातेऽपि वाक्यार्थे  
 श्रोतैवं विचिकित्सते ।  
@@ -1676,7 +1675,7 @@ If the meaning of a statement is not known, the listener wants to discover it: "
 ब्रवीत्य् अन्योन्य-संबन्ध-योग्यार्थानि पदान्य् अयम् ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 >> न चाविज्ञात-संबन्धान्  
 शब्दान् आप्ताः प्रयुञ्जते ।  
@@ -1716,7 +1715,7 @@ and the listener realizes that therefore the speaker has knowledge of such a con
 इति दोषो न कश्चन ॥ " 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > एवम् अन्वय-ज्ञाने ऽनुमिते  
 तद्-उपदर्शितो ऽर्थो न शब्दम् आकाङ्क्षति, 
@@ -1732,7 +1731,7 @@ If the knowledge of connection is thus inferred, the meaning discovered by the l
 एवम् अन्वय-ज्ञाने ऽनुमिते तद्-उपदर्शितो ऽर्थो न शब्दम् आकाङ्क्षति, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अतो लौकिकस्य वचसो वक्त्र्-अनुभव--पर-तन्त्रतया  
 तत्रैव पर्यवसानम् 
@@ -1751,7 +1750,7 @@ If the knowledge of connection is thus inferred, the meaning discovered by the l
 </details>
 
 ### शब्द-शक्तिर् अप्रतिहतैकत्र दोषेऽपि
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् असत्,  
 न हि  
@@ -1774,7 +1773,7 @@ for a word conveys its right meaning as its natural function, and the observatio
 क्वचिद् वक्त्राशय-दोष-वशीकाराद् वितथ इत्य् अन्यत्रापि तत्-संभावनया स्वारसिकीम् अर्थावबोधकताम् उज्झितुम् अर्हति, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि "मन्त्र-प्रतिहत-दशायां हुतवहो न दहती"त्य्  
 अन्यत्रापि तादृश-दशा-शङ्क्या न दहति, +++(5)+++
@@ -1797,7 +1796,7 @@ because in one case, when obstructed by mantras, it fails to burn, does not make
 ऽथवा हत-शब्दे भावे क्त-प्रत्यय इत्य् अनुसंधेयम् ।
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि 
 
@@ -1816,7 +1815,7 @@ And the fact that the sense of vision may give rise to a cognition which does no
 नापि शुक्ति-रजत-धियम् अर्थ-व्यभिचारिणीम् इन्द्रियं दोष-वशाद् उपलब्धम् इति घटादिकम् अपि नावगमयति, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो विदित-पद-पदार्थ-सङ्गतेः  
 श्रोतुस् सहसैव शब्दो ऽर्थम् अवबोधयति  
@@ -1834,7 +1833,7 @@ Therefore, a statement does indeed instantly convey a certain meaning to the lis
 </details>
 
 ### मूल-ज्ञानापर्याप्तता
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मूल-ज्ञान-परिज्ञानाद्  
 अर्वाग् अर्थे ऽपि चोदिते ।  
@@ -1853,7 +1852,7 @@ It does not require knowledge of the basis. Before there is complete knowledge o
 कथम् एवम् अयं वेद इत्य् अनुमानं प्रवर्तते ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > "किम् **अज्ञासीद्** अयम् वक्ता  
 किञ्चिद्" इत्य् **अनुमित्ससे** ।  
@@ -1872,7 +1871,7 @@ You want to infer: "Did the speaker know something?" or wish to infer his knowle
 विशिष्टार्थान्वय-ज्ञानम् अनुमातुम् अथेच्छसि ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** तावद् अयम् **अज्ञासीद्**  
 वक्ता किञ्चिद् इतीयता ।  
@@ -1891,7 +1890,7 @@ But the mere knowledge that the speaker knew something is not enough for utteran
 व्याहार-व्यवहारौ वा स्यातां वाक्यार्थ-गोचरौ ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विशिष्टार्थान्वय-गोचर-चेतो ऽनुमानन् तु  
 प्रथमतर-प्रवृत्त--तद्-विषय-शेमुषीम् अन्तरेणानुपपन्नम्  
@@ -1911,7 +1910,7 @@ This being so, the meaning of the statement must be known first.
 विशिष्टार्थान्वयगोचरचेतोऽनुमानन्तु प्रथमतरप्रवृत्ततद्विषयशेमुषीमन्तरेणानुपपन्नमिति प्रागेव शब्दार्थोऽवगन्तव्यः, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ह्य् अनासादित-विषय-विशेष-संसर्गाः संविदः  
 परस्-परतो व्यतिभिद्यन्ते ।  
@@ -1927,7 +1926,7 @@ For cognitions whose particular objects are not connected, are not ~~connected~~
 न ह्यनासादितविषयविशेषसंसर्गाः संविदः परस्परतो व्यतिभिद्यन्ते ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च तथा ऽनुमिताभिर् अर्थ-विशेषः सिध्यति, 
 </details>
@@ -1942,7 +1941,7 @@ Nor is a particular meaning established by cognitions that are inferred to be su
 न च तथा ऽनुमिताभिर् अर्थ-विशेषः सिध्यति, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यादृशान्वय-प्रतिपादन-योग्या पद-रचना  
 सा तद्-अन्वय-ज्ञानम् आपादयति
@@ -1965,7 +1964,7 @@ I maintain that the connection of the particular meanings must be known previous
 यादृशान्वय-प्रतिपादन-योग्या पद-रचना सा तद्-अन्वय-ज्ञानम् आपादयतीति चेत्, अवगतस् तर्हि प्राग् एवार्थानाम् अन्वयः, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि बुद्धाव् अनारोपित एवान्वयः प्रयोगं व्यवच्छिनत्ति,
 </details>
@@ -1982,7 +1981,7 @@ unless a connection has already reached the level of cognition it cannot give ri
 
 ### उपसंहारः
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माद् अस्ति नदी-तीरे  
 फलम् इत्य्-एवम्-आदिषु ।  
@@ -2001,7 +2000,7 @@ unless a connection has already reached the level of cognition it cannot give ri
 या सिद्ध-विषया बुद्धिः सा शाब्दी नानुमानिकी ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश् च "अपूर्व-कार्य-गोचर एव शब्दः प्रमाणम्" इति -  
 </details>
@@ -2016,7 +2015,7 @@ Therefore the position that statements produce valid knowledge only if they deal
 ततश् च अपूर्व-कार्य-गोचर एव शब्दः प्रमाणम् इति ।  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-सिन्धान्त-चिराभ्यास-  
 व्यामुग्ध-बल-बिद्धिभिः ॥
@@ -2043,7 +2042,7 @@ it is true that statements may bear meaningfully and informatively on other mean
 </details>
 
 ## वेदान्तोक्त-पुरुषः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततश् च यान्य् एतानि विलक्षण-पुरुष-प्रतिपादकानि वेदान्त-वचांसि 
 </details>
@@ -2058,7 +2057,7 @@ Consequently, all the statements of the Upaniṣads which set forth the existenc
 ततश् च यान्य् एतानि विलक्षण-पुरुष-प्रतिपादकानि वेदान्त-वचांसि 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > "स एष सर्वाधिपतिः", 
 
@@ -2079,10 +2078,12 @@ e.g.
 
 > sovereign of all. 
 
-> He commands all the world,"150 
+> He commands all the world,"149 
 
-"All this is manifest to Him" etc.
+"All this is manifest to Him150 etc."
 
+[149]: BA Up. 5.6.1.
+[150]: Not to be found in the major Upanisads.
 </details>
 
 <details><summary>Buitenen - Note</summary>
@@ -2101,7 +2102,7 @@ e.g.
 "स एष सर्वाधिपतिः", "सर्वस्येशानः", "सर्वम् इदं प्रशास्ति", "तस्याध्यक्षम् इदं सर्वम्" इत्यादीनि,
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान्य् अपि तत्र प्रमाणं  
 तद्-विषयासंदिग्धाविपर्यय-ज्ञान-हेतुत्वात् । 
@@ -2123,7 +2124,7 @@ are authoritative as to what they state, since they produce indubitable and unre
 ## सम्भावितानुवाद-विपर्ययौ
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="../../aMshaH/na_cha_siddhe">
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **न** च +++(ईश्वर-निभे)+++ सिद्धे वस्तुनि  
 > +++(तद्-वस्तु-)+++साधक-बाधकयोर् अन्यतरोपनिपात-सम्भव-प्रसक्तेर्  
@@ -2161,7 +2162,7 @@ To the Prabhakara this validity is ideal in the case of injunctions concerning a
 न च सिद्धे वस्तुनि साधकबाधकयोरन्यतरोपनिपातसम्भवप्रसक्तेर्भावितानुवादविपर्ययपर्यालोचनया तद्गोचरवचसः प्रामाण्यप्रच्युतिः कार्यनिष्ठस्यापि तत्प्रसङ्गात्, 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > +++(लौकिकं←)+++कार्यम् अपि हि मानान्तर-वेद्यम् एव +++("ओदनेन होतव्यम्" इत्यत्र)+++ लौकिकं समिद्-आहरणादि,  
 तच् च मानान्तरेणापि **वेद्यम्** ओदन-पाकवद् इत्य् अभ्युपगमात् ।  
@@ -2194,7 +2195,7 @@ $ Vide Prakaraṇapañcikā II, p. 180-
 वेद्यम् ओदन-पाकवत् ॥ " 
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 >> अथ विलक्षणाग्नि-होत्रादि-विषय-कार्यस्यासम्भावित-मानान्तरतया  
 > तत्-प्रतिपादयद् वचः प्रमाणम्,  
@@ -2212,7 +2213,7 @@ therefore the verbal testimony which sets forth such a thing must needs be its a
 > अथ विलक्षणाग्निहोत्रादिविषयकार्यस्यासम्भावितमानान्तरतया तत्प्रतिपादयद्वचः प्रमाणम्,  
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > हन्त तर्हि निरतिशयावबोधैश्वर्य-महाऽऽनन्द-सन्दोह-वपुषि भगवति  
 > न मानान्तर-गन्ध-सम्बन्ध  
@@ -2235,7 +2236,7 @@ depending on one's particular partisan views.
 
 </div>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि च -  
 
@@ -2263,7 +2264,7 @@ since it has already been taken care of by another authority,
 प्रमाणम् एव तत्-पूर्वं न चेत् स्वार्थं विगाहते ॥
 </details>
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य संभावना-मात्राद्  
 अप्रामाण्यम् अलौकिकम् । 
@@ -2281,7 +2282,7 @@ for it is a mere matter of assumption.
 </details>
 
 ## उपसंहारः
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् परिनिष्ठितानुष्ठेयादि-भेद-शून्यम्  
 असन्दिग्धाविपर्यस्तविज्ञानं प्रमाणम् एष्टव्यम्,  

@@ -27,6 +27,18 @@ In the purva paksa the principal opponents introduced are what one may already c
 परमपुरुषविरचितनिरतिशयनिश्रेयसगोचरपञ्चरात्रतन्त्रप्रामाण्ये **विप्रतिपद्यन्ते** ।
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See JRAS (1911), pp. 940-41, for various definitions of the term ‘Pāñcarātra’. See also the latest article on the meaning of the term by Dr. V. Raghavan, JAOS, Vol. 85, No. 1 (Jan.-Mar. 1965), pp. 73-79. The Mahāsanatkumāra Saṃhitā, Indrarātra section, ch. III, offers the following explanation for the term “sāttvata”:
+
+> sa punassāttvate yasmāt kule jātassureśvaraḥ,  
+tasmāttu sāttvatāṃ nāma purāṇaṃ kovidā viduḥ  
+upadiṣṭaṃ pañcarātraṃ tena lokahitaiṣiṇā,  
+āhukāṃstu samuddiśya tena sāttvatamucyate
+
+(Adyar edn. p. 245, śls. 79-80)
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वदन्ति च ।
@@ -41,6 +53,11 @@ And they contend:
 <details><summary>मूलम्</summary>
 
 वदन्ति च ।
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+The Mīmāṃsaka is the pūrvapakṣin here.
 </details>
 
 ## सापेक्षता
@@ -108,6 +125,13 @@ for a verbal assertion to be authoritative, it must by definition be independent
 आसीदति प्रमाणत्वमनपेक्षत्वलक्षणम् ॥
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Prakaraṇapañcikā II. 19:
+
+> वाक्यं हि पुरुषाधीन-रचनं लौकिकं सदा ।  
+शङ्क्यमानायथार्धत्वं नार्थ-निश्चायकं स्वतः ॥
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

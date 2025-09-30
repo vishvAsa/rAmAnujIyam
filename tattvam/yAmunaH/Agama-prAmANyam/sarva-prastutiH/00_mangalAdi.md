@@ -52,6 +52,12 @@ so that, as he will argue below (§ 109), the validity of Pancarātra does not r
 सन्तस्सन्त्यनसूयवोऽपि बहवः शंसन्ति ये मद्गिरम् ॥
 </details>
 
+<details><summary>नरसिंहः</summary> 
+
+This verse brings out the disdain of our author towards some of his contemporaries, who, out of jealousy, were too critical in their attitude towards his works. Also compare in this connection, the two concluding verses of this text.
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -59,6 +65,21 @@ so that, as he will argue below (§ 109), the validity of Pancarātra does not r
 बहु-विदाम् अपि **सम्भवति भ्रमः** ।  
 तद् इह भागवतं गत-मत्सरा  
 मतम् इदं **विमृशन्तु** विपश्चितः ॥+++(5)+++
+</details>
+
+<details><summary>नरसिंहः</summary> 
+
+The term ‘bhāgavata’ refers to the Pañcarātra system of thought. Another term used generally is ‘sāttvata’. For names applied to adherents of this religious school, see the Pādma Saṃhitā (Tantra) IV. ii. 88:
+
+> sūrissuhṛt bhāgavataḥ sāttvataḥ pañcakālavit  
+aikāntikaḥ tanmayaśca pāñcarātrika ityapi.
+
+See article on the ‘Pāñcarātra’ in JRAS for 1911, p. 936.
+</details>
+
+<details><summary>नरसिंहः</summary> 
+
+Yāmuna in this verse appeals to scholars for an impartial scrutiny of the Pañcarātra religion.
 </details>
 
 <details><summary>Buitenen</summary>

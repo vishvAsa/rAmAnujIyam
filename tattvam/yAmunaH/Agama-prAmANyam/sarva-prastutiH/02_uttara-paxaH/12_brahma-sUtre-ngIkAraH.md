@@ -13,11 +13,11 @@ title = "१२ ब्रह्म-सूत्रे ऽङ्गीकार�
 <details><summary>Buitenen</summary>
 
 
-99\. The meaning of the Sūtras is this. First the Author has set forth that the doctrines of Kapila, Kaśyapa, Buddha, Jina and Paśupati,  
-who oppose the Author's own accepted doctrine, are unnatural217 because they conflict with Revelation and logic. 
+99\. The meaning of the Sūtras is this. First the Author has set forth that the doctrines of Kapila, Kaśyapa, Buddha, Jina and Paśupati,218  
+who oppose the Author's own accepted doctrine, are unnatural219 because they conflict with Revelation and logic. 
 
-217: In BrS., 2,2\.  
-218: āsamañjasya, taken from BrS., 2\.2\.37\.  
+[218]: In BrS., 2,2.
+[219]: asāmañjasya, taken from BrS., 2.2.37.
 </details>
 
 
@@ -608,9 +608,9 @@ Or, we state an alternative explation for the two sutras.
 
 [[86]]
 
-103\. ~~As to the other explanation that has been given of these two Sūtras,219~~ 
+103\. ~~As to the other explanation that has been given of these two Sūtras,220 
 
-~~219: supra §§96, 97\.~~
+[220]: supra §§96, 97.
 </details>
 
 
@@ -636,13 +636,13 @@ Or, we state an alternative explation for the two sutras.
 
 <details><summary>Buitenen</summary>
 
-since it is vijñānādi, i.e. "a ground for validity",220 the denial of the validity of Pāñcarātra is not justified, because it entails overextension. 
+since it is vijñānādi, i.e. "a ground for validity",221 the denial of the validity of Pāñcarātra is not justified, because it entails overextension. 
 </details>
 
 
 <details><summary>Buitenen - Note</summary>
 
-220: i.e., as a tatpuruṣa compound "the beginning (source) of (valid) knowledge:" vijñānādibhāvāt "since He (God) is a source of valid knowledge."  
+[221]: ie., as a tatpuruṣa compound "the beginning (source) of (valid) knowledge:" vijñānādibhāve "since He (God) is a source of valid knowledge." 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -964,7 +964,9 @@ $ This is the contention of the Naiyāyika. He does not accept the "apauruṣeya
 
 <details><summary>Buitenen</summary>
 
-Just as the Pāñcarātra Traditions are dependent on His cognition, so are the Vedas too dependent on His cognition.
+Just as the Pāñcarātra Traditions are dependent on His cognition, so are the Vedas too dependent on His cognition.222
+
+[222]: cf. supra § 18.
 </details>
 
 
@@ -994,10 +996,10 @@ REFUTATION. To refute this view, the statement is made:
 > The Vedas are not the product of a maker, i.e. the Bhagavān. 
 
 Karaṇa here in the sense of "things that are made or produced",  
-by the rule "suffix lyuṭ" in the sense of the object of the action.  
+by the rule "suffix lyuṭ" in the sense of the object of the action.223  
 This then means that the Vedas are preterhuman.
 
-222: Karmaṇi Lyuṭ Pāṇini.  
+[223]: karmaṇi lyuṭ Pāṇini.
 
 [[88]]
 
