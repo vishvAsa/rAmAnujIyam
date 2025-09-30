@@ -24,7 +24,19 @@ In the purva paksa the principal opponents introduced are what one may already c
 <details><summary>मूलम्</summary>
 
 इह केचिद्यतस्ततोऽवगतकतिपयकुतर्ककल्कविस्फूर्जितविजितमनसस्त्रयीमार्गसंरक्षणव्याजेन निजविमर्शकौशलातिशयमुपदर्शयन्तः  
-परमपुरुषविरचितनिरतिशयनिश्रेयसगोचरपञ्चरात्रतन्त्रप्रामाण्ये **विप्रतिपद्यन्ते** ।
+परमपुरुषविरचितनिरतिशयनिश्रेयसगोचर[^1]पञ्चरात्रतन्त्रप्रामाण्ये **विप्रतिपद्यन्ते** ।
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+[^1]: See JRAS (1911), pp. 940-41, for various definitions of the term ‘Pāñcarātra’. See also the latest article on the meaning of the term by Dr. V. Raghavan, JAOS, Vol. 85, No. 1 (Jan.-Mar. 1965), pp. 73-79. The Mahāsanatkumāra Saṃhitā, Indrarātra section, ch. III, offers the following explanation for the term “sāttvata”:
+
+> sa punassāttvate yasmāt kule jātassureśvaraḥ,  
+tasmāttu sāttvatāṃ nāma purāṇaṃ kovidā viduḥ  
+upadiṣṭaṃ pañcarātraṃ tena lokahitaiṣiṇā,  
+āhukāṃstu samuddiśya tena sāttvatamucyate
+
+(Adyar edn. p. 245, śls. 79-80)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
