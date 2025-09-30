@@ -52,7 +52,12 @@ And they contend:
 
 <details><summary>मूलम्</summary>
 
-वदन्ति च ।
+वदन्ति[^2] च ।
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+[^2]: The Mīmāṃsaka is the pūrvapakṣin here.
 </details>
 
 ## सापेक्षता
@@ -116,10 +121,17 @@ for a verbal assertion to be authoritative, it must by definition be independent
 
 <details><summary>मूलम्</summary>
 
-न तावत्पुरुषाधीनरचनं वचनं क्वचित् ।  
+न[^3] तावत्पुरुषाधीनरचनं वचनं क्वचित् ।  
 आसीदति प्रमाणत्वमनपेक्षत्वलक्षणम् ॥
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+[^3]: Cf. Prakaraṇapañcikā II. 19:
+
+> वाक्यं हि पुरुषाधीन-रचनं लौकिकं सदा ।  
+शङ्क्यमानायथार्धत्वं नार्ध-निश्चायकं स्वतः ॥[[??]]
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
