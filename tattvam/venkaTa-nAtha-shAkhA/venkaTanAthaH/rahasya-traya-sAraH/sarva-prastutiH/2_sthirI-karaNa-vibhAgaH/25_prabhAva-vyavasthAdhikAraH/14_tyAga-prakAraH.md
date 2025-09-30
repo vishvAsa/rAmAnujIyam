@@ -1737,6 +1737,12 @@ y el **servicio** prapanna como un fin en sí mismo.
 चरम-श्लोक-संग्रहः ॥
 </details>
 
+<details><summary>विषयः</summary>
+
+प्रपत्तिः, चरम-श्लोकः
+</details>
+
+
 <details><summary>English</summary>
 
 If a man is in despair  
