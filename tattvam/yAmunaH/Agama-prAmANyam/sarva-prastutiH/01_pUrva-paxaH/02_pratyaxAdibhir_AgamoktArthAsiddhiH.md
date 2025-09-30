@@ -10,6 +10,43 @@ title = "०२ प्रत्यक्षादिभिर् आगमोक
 स्वर्गापवर्गादि--साध्य-साधन-संबन्धं प्रत्यक्षादीन्य् आवेदयितुं क्षमन्ते ।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+“Dīkṣā” or Initiation is one of the cardinal principles of the religious conduct of the Bhāgavata system. It consists of five main sacraments, barring a few details that are peculiar to particular sections of the followers. These sacraments are:
+
+> tāpaḥ puṇḍrastathā nāma mantro yāgaśca pañcamaḥ  
+pañcasaṃskārādīkṣaiṣā devadevapriyāvahā  
+pañcasaṃskārādikṣāvān mahābhāgavatassmṛtaḥ
+
+(Viṣṇutilaka Saṃhitā IV. 189-90)
+
+(i) “tāpa” : branding the two arms with the conch and discus emblems,
+
+(ii) “puṇḍra” : marking the forehead and other parts of the body with particular tilaka-materials,
+
+(iii) “nāma” : taking a new name, with the suffix ‘dāsa’, etc.
+
+(iv) “mantra” : taking the ‘aṣṭākṣarī’ (the eight-syllabled) and such other esoteric formulae, and
+
+(v) “yāga” : performing different kinds of worship of the Lord.
+
+All are eligible for this Initiation, irrespective of sex, caste and such other considerations. Cf. Īśvara Saṃhitā:
+
+> svasvavarṇāśramācārasadṛśākṛticeṣṭitān  
+lāñchitān cakrasaśāṅkhābhyāṃ bhujayor dakṣiṇāditaḥ 
+
+(VIII. 179)
+
+> sarve samānāścatvāro gotrapravaravarjitāḥ  
+utkarṣo nāpakarṣaśca jātitasteṣu sammataḥ
+
+> phaleṣu niḥspṛhāssarve dvādaśākṣaracintakāḥ  
+mokṣaikaniścayāśśāvasūtakāśaucavarjitāḥ 
+
+(XXI. 40–41) 
+(*JRAS* for 1911, pp. 946-47)
+</details>
+
 <details><summary>Buitenen</summary>
 
 Now, Perception and the other means of knowledge which involve Perception,  
@@ -98,6 +135,12 @@ if the percipient is perfect.
 प्रकृष्यमाणं प्रत्यक्षं दृष्टमाश्रयभेदतः ।  
 अतस्तदाश्रये क्वापि ध्रुवं परिनितिष्ठति ॥
 </details>
+
+<details><summary>नरसिंहः</summary>
+
+This is the view entertained by the Naiyāyika, as also by the Siddhāntin.
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -216,6 +259,10 @@ Perceptual knowledge can never go beyond its own sphere and trespass on another.
 स्वगोचरमतिक्रम्य नान्यदास्कन्दितुं क्षमः ॥
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The Mīmāṃsaka refutes the above view. For a detailed discussion see the Siddhitraya: Īśvara-siddhi, p. 226 ff.
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -225,6 +272,11 @@ Perceptual knowledge can never go beyond its own sphere and trespass on another.
 समवायिषु चाक्षुषः ।  
 प्रकर्षो **भवितुं युक्तो**  
 दृश्यमान-प्रकर्षवत् +++(न तु स्पृश्यमान-प्रकर्षवत्)+++॥
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+रूपे, तद्वति घटे, तथा रूपेण सह एकस्मिन्न् अर्थे घटे समवाय-सम्बन्धेन विद्यमानेषु संख्या-परिमाणादिष्व् एव नियतः चक्षुः-प्रकर्षः न तु स्व-भिन्नेन्दिय-ग्राह्ये स्पर्श-गन्धादाव् इति भावः।
 </details>
 
 <details><summary>Buitenen</summary>

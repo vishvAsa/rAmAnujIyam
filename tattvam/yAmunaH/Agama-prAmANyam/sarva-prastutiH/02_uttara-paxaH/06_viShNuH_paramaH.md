@@ -822,7 +822,7 @@ In the Varāha Purāṇa, "The Supreme Brahman is Viṣṇu; the triple division
 
 <details><summary>Buitenen - Note</summary>
 
-[173]: cf. Varāha Pur. 7026 na tasmāt parato devo bhavitā na bhavisyati. It is clear from several quotations from this Purāṇa that Yāmuna's text had different readings, not all of them better.
+[173]: cf. Varāha Pur. 70.26 na tasmāt parato devo bhavitā na bhaviṣyati. It is clear from several quotations from this Purāṇa that Yāmuna's text had different readings, not all of them better.
 </details>
 
 
