@@ -5,14 +5,14 @@ title = "०२ प्रत्यक्षादिभिर् आगमोक
 ## साधारण-प्रत्यक्षम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च पञ्चरात्र-तन्त्र-प्रतिपाद्यमान-विलक्षण-दीक्षा[^1]-पूर्वक-  
+न च पञ्चरात्र-तन्त्र-प्रतिपाद्यमान-विलक्षण-दीक्षा-पूर्वक-  
 भगवद्-आराधनाभिलषित-  
 स्वर्गापवर्गादि--साध्य-साधन-संबन्धं प्रत्यक्षादीन्य् आवेदयितुं क्षमन्ते ।  
 </details>
 
 <details><summary>नरसिंहः</summary>
 
-[^1]: “Dīkṣā” or Initiation is one of the cardinal principles of the religious conduct of the Bhāgavata system. It consists of five main sacraments, barring a few details that are peculiar to particular sections of the followers. These sacraments are:
+“Dīkṣā” or Initiation is one of the cardinal principles of the religious conduct of the Bhāgavata system. It consists of five main sacraments, barring a few details that are peculiar to particular sections of the followers. These sacraments are:
 
 > tāpaḥ puṇḍrastathā nāma mantro yāgaśca pañcamaḥ  
 pañcasaṃskārādīkṣaiṣā devadevapriyāvahā  

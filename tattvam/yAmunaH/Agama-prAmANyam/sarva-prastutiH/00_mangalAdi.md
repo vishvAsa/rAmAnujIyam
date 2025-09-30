@@ -49,12 +49,12 @@ so that, as he will argue below (§ 109), the validity of Pancarātra does not r
 येऽमी केचन मत्सरात् स-वयसो दुर्मानसारा नरा  
 गम्भीरां गुणशालिनीम् अपि गिरं निन्दन्ति, निन्दन्तु ते ।  
 सारासारविचारकौशलदशापारे परेऽवस्थिताः  
-सन्तस्सन्त्यनसूयवोऽपि बहवः शंसन्ति ये मद्गिरम् ॥[^1]
+सन्तस्सन्त्यनसूयवोऽपि बहवः शंसन्ति ये मद्गिरम् ॥
 </details>
 
 <details><summary>नरसिंहः</summary> 
 
-[^1]: This verse brings out the disdain of our author towards some of his contemporaries, who, out of jealousy, were too critical in their attitude towards his works. Also compare in this connection, the two concluding verses of this text.
+This verse brings out the disdain of our author towards some of his contemporaries, who, out of jealousy, were too critical in their attitude towards his works. Also compare in this connection, the two concluding verses of this text.
 </details>
 
 
@@ -63,13 +63,13 @@ so that, as he will argue below (§ 109), the validity of Pancarātra does not r
 
 अभिनिवेश-वशी-कृत-चेतसां  
 बहु-विदाम् अपि **सम्भवति भ्रमः** ।  
-तद् इह भागवतं[^2] गत-मत्सरा  
-मतम् इदं **विमृशन्तु** विपश्चितः ॥[^3] +++(5)+++
+तद् इह भागवतं गत-मत्सरा  
+मतम् इदं **विमृशन्तु** विपश्चितः ॥+++(5)+++
 </details>
 
 <details><summary>नरसिंहः</summary> 
 
-[^2]: The term ‘bhāgavata’ refers to the Pañcarātra system of thought. Another term used generally is ‘sāttvata’. For names applied to adherents of this religious school, see the Pādma Saṃhitā (Tantra) IV. ii. 88:
+The term ‘bhāgavata’ refers to the Pañcarātra system of thought. Another term used generally is ‘sāttvata’. For names applied to adherents of this religious school, see the Pādma Saṃhitā (Tantra) IV. ii. 88:
 
 > sūrissuhṛt bhāgavataḥ sāttvataḥ pañcakālavit  
 aikāntikaḥ tanmayaśca pāñcarātrika ityapi.
@@ -79,7 +79,7 @@ See article on the ‘Pāñcarātra’ in JRAS for 1911, p. 936.
 
 <details><summary>नरसिंहः</summary> 
 
-[^3]: Yāmuna in this verse appeals to scholars for an impartial scrutiny of the Pañcarātra religion.
+Yāmuna in this verse appeals to scholars for an impartial scrutiny of the Pañcarātra religion.
 </details>
 
 <details><summary>Buitenen</summary>
