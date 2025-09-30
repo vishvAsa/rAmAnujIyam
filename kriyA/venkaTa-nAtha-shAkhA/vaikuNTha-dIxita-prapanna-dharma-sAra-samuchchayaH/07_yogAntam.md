@@ -1,6 +1,5 @@
 +++
 title = "०७ योगान्तम्"
-
 +++
 
 ## सन्ध्या-वन्दनम्
@@ -122,7 +121,7 @@ title = "०७ योगान्तम्"
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/24_agnish_cha/">
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निश्च मा मन्युश्च मन्युपतयश्च मन्यु॑कृते॒भ्यः।  
 पापेभ्यो॑ रक्ष॒न्ताम् ।  
