@@ -3973,7 +3973,7 @@ viz. knowledge, cleansing the way to the Lord, preparation of worship and oblati
 It follows that the non-observance of certain rites enjoined by different sākhās  
 does not mean that either one forfeits his brahminhood-  
 
-[301]: aindrāgneya, name of a spauta[[??]] ritual.
+[301]: aindrāgneya, name of a srauta ritual.
 </details>
 
 
