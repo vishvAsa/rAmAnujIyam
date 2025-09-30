@@ -16846,7 +16846,7 @@ que **mantienen** la posibilidad de **reunir** cosas que **se oponen**
 ऎऩ्ऱु करुत्तु।
 </details>
 
-### बहु-शब्द-वाच्यता
+### देवस्य बहु-शब्द-वाच्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गु प्रथमाक्षरत्तालुम्  
@@ -16900,6 +16900,7 @@ y que dos de ellos son, por lo tanto, redundantes).
 इङ्गु प्रथमाक्षरत्तालुम् नारशब्दत्तिल् प्रकृतियाऩ नरशब्दत्तालुम् अयनशब्दत्तालुम् सर्वेश्वरऩैच् चॊल्लुगिऱबोदु रक्षकत्वकारणत्वनित्यत्वनेतृत्वाधारत्वान्तर्यामित्वादिगळाऩ आकारभेदङ्गळाले मूऩ्ऱुम् सप्रयोजनङ्गळ्।
 </details>
 
+### जीव-प्राधान्य-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > प्रणवत्तिल् तृतीयाऽक्षरत्ताले  
@@ -16942,12 +16943,7 @@ Si **se le pregunta**:
 ऎऩ्ऱुम्, 
 </details>
 
-<details><summary>मूलम्</summary>
-
-८६’’नाऩुऩ्ऩै यऩ्ऱियिलेऩ्गण्डाय् नारणऩे नी यॆऩ्ऩैयऩ्ऱियिलै’’(नाऩ्मुगऩ् तिरुवन्दादि ७) यॆऩ्ऱुम्, 
-</details>
-
-
+<details><summary>English</summary>
 
 The answer is as follows: 
 
@@ -16955,9 +16951,177 @@ The answer is as follows:
 Thou dost not exist without me,  
 (for I bring out Thy character.) " 
 
-"Rāma's younger brother (Lakṣmaṇa), and Lakṣmaṇa's elder brother". (In the two passages mentioned above, there is apparent repetition, but it is not a fault since it serves a definite purpose). (In the first passage ), the first part of the sentence emphasises the importance of the śeṣī and the second emphasises the importance of the śeṣa; so also (in the secodd. passage ) Rāma's importance is hinted at in Rāmānuja (Rāma's younger brother) and Lakṣmaṇa's importance is hinted at in Lakṣmaṇapurvaja (Lakṣmaṇa's elder brother): Thus each is characterised by the other. In the praṇava, the śeṣī's inportance is prominent as in the chariot of Arjuna ( where Arjuna is prominent and Śrī Kṛṣṇa is not, being only the charioteer ); in the word Nārāyaṇa, the śeṣī's importance is prominent as in the Rasamandala (the Rasakrida described in the Bhāgavatam), where Śrī Kṛṣṇa is all-important and the Gopis not so.
+</details>
 
-Even in the praṇava, though verbally the jīva is prominent, the prominence, so far as the purport is considered, is of the Protector or Saviour.
+<details><summary>Español</summary>
+
+La respuesta **es** la siguiente: 
+
+> "**No existo** sin ti, (mi apoyo);  
+**No existes** sin mi  
+(Porque **saco** a tu personaje.) "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+८६’’नाऩुऩ्ऩै यऩ्ऱियिलेऩ्गण्डाय् नारणऩे नी यॆऩ्ऩैयऩ्ऱियिलै’’(नाऩ्मुगऩ् तिरुवन्दादि ७) यॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ८७‘‘रामानुजं लक्ष्मण-पूर्वजञ् च’’  
+(रामायणम् सुन्दरकाण्डम् २८-१०)
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ८७‘‘रामानुजं लक्ष्मण-पूर्वजञ् च’’  
+(रामायणम् सुन्दरकाण्डम् २८-१०)
+
+</details>
+
+<details><summary>English</summary>
+
+> "Rāma's younger brother (Lakṣmaṇa),  
+and Lakṣmaṇa's elder brother".  
+</details>
+
+<details><summary>Español</summary>
+
+> "El hermano menor de Rāma (Lakṣmaṇa),  
+y el hermano mayor de Lakṣmaṇa ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+८७‘‘रामानुजं लक्ष्मणपूर्वजञ्च’’(रामायणम् सुन्दरकाण्डम् २८-१०)ऎऩ्ऱुञ् जॊल्लुगिऱबडिये 
+</details>
+
+
+<details><summary>English</summary>
+
+(In the two passages mentioned above, there is apparent repetition,  
+but it is not a fault since it serves a definite purpose). 
+
+(In the first passage ), the first part of the sentence emphasises the importance of the śeṣī  
+and the second emphasises the importance of the śeṣa;  
+so also (in the second passage )  
+Rāma's importance is hinted at in Rāmānuja (Rāma's younger brother)  
+and Lakṣmaṇa's importance is hinted at in Lakṣmaṇapurvaja (Lakṣmaṇa's elder brother).  
+</details>
+
+<details><summary>Español</summary>
+
+(En los dos pasajes **mencionados** anteriormente, **hay** aparente **repetición**,  
+pero **no es** una falla ya que **tiene** un propósito definitivo). 
+
+(En el primer pasaje), la primera parte de la **oración enfatiza** la importancia del Śeṣī  
+y el segundo **enfatiza** la importancia del Śeṣa;  
+Así también (en el segundo pasaje)  
+La importancia de Rāma **se insinúa** en Rāmānuja (el hermano menor de Rāma)  
+y la importancia de Lakṣmaṇa **se insinúa** en Lakṣmaṇapurvaja (el hermano mayor de Lakṣmaṇa).
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऒऩ्ऱैय् इट्ट् ऒऩ्ऱै निरूपिया निऩ्ऱाल् 
+</details>
+
+<details><summary>English</summary>
+
+Thus each is characterised by the other. 
+</details>
+
+<details><summary>Español</summary>
+
+Así, cada uno **se caracteriza** por el otro.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऒऩ्ऱैयिट्टॊऩ्ऱै निरूपिया निऩ्ऱाल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(कृष्ण-सारथिकोऽपि)+++ अर्जुन-रथम् पोले प्रणवं शेष-प्रधानम् आगैयालुम्
+</details>
+
+<details><summary>English</summary>
+
+In the praṇava, the śeṣī's importance is prominent as in the chariot of Arjuna  
+( where Arjuna is prominent  
+and Śrī Kṛṣṇa is not, being only the charioteer ); 
+</details>
+
+<details><summary>Español</summary>
+
+En el praṇava, la importancia del Śeṣī **es** prominente como en el carro de Arjuna  
+(Donde Arjuna **es prominente**  
+y Śrī Kṛṣṇa **no lo es**, **siendo** solo el auriga);
+</details>
+
+<details><summary>मूलम्</summary>
+
+अर्जुनरथम् पोले प्रणवं शेषप्रधानमागैयालुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रास-मण्डलम् बोले नारायण-शब्दम् शेषि-प्रधानम् आगैयालुम्  
+पुनर्-उक्तिय् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+in the word Nārāyaṇa, the śeṣī's importance is prominent as in the Rasamandala (the Rasakrida described in the Bhāgavatam),  
+where Śrī Kṛṣṇa is all-important and the Gopis not so.
+</details>
+
+<details><summary>Español</summary>
+
+En la palabra nārāyaṇa, la importancia del Śeṣī **es** prominente como en el rasamandala (el rasakrida descrito en el bhāgavatam),  
+donde Śrī Kṛṣṇa **es** muy importante y los Gopis **no son** así.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रासमण्डलम्बोले नारायणशब्दम् शेषिप्रधानमागैयालुम् पुनरुक्तियिल्लै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रणवन्-तऩ्ऩिलुम्  
+शाब्द-प्राधान्यम् जीवऩुक्क् आऩालुम्  
+रक्षकऩाऩ शेषिक्के आर्थम् प्राधान्यम्।
+</details>
+
+<details><summary>English</summary>
+
+Even in the praṇava, though verbally the jīva is prominent,  
+the prominence, so far as the purport is considered, is of the Protector or Saviour.
+</details>
+
+<details><summary>Español</summary>
+
+Incluso en la praṇava, aunque verbalmente el Jīva **es** prominente,  
+La prominencia, en la medida en que **se considera** el significado, **es** del protector o salvador.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रणवन्दऩ्ऩिलुम् शाब्द प्राधान्यम् जीवऩुक्काऩालुम् रक्षकऩाऩ शेषिक्के आर्थम् प्राधान्यम्।
+</details>
+
+
+
+
 
 The jīva who appears in the praṇava as of the form (ākāra) of jñāna, both in his essential nature and in his attribute, and also as being atomic (aṇu), is described in the word Nara as eternal (without change or deterioration.) Further since Narāh means 'the multitude of naraś, it makes clear the fact of the jīvas being different from one another. If (on the other hand) we take the word Nārah to mean those who have their origin from Nara (Bhagavān ), it indicates that the jīvas have Brahman for their cause (in so-far as their embodiment is concerned). Owing to these additional meanings appearing in the word (Nārāyaṇa), the two words serve a purpose ( and are not redundant).
 
