@@ -16900,7 +16900,7 @@ y que dos de ellos son, por lo tanto, redundantes).
 इङ्गु प्रथमाक्षरत्तालुम् नारशब्दत्तिल् प्रकृतियाऩ नरशब्दत्तालुम् अयनशब्दत्तालुम् सर्वेश्वरऩैच् चॊल्लुगिऱबोदु रक्षकत्वकारणत्वनित्यत्वनेतृत्वाधारत्वान्तर्यामित्वादिगळाऩ आकारभेदङ्गळाले मूऩ्ऱुम् सप्रयोजनङ्गळ्।
 </details>
 
-### जीव-प्राधान्य-भेदः
+#### जीव-प्राधान्य-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > प्रणवत्तिल् तृतीयाऽक्षरत्ताले  
@@ -17120,14 +17120,252 @@ La prominencia, en la medida en que **se considera** el significado, **es** del 
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रणवत्तिले स्व-रूपत्तालुम् गुणत्तालुम् ज्ञानाकारऩ् आय् 
+</details>
+
+<details><summary>English</summary>
+
+The jīva who appears in the praṇava as of the form (ākāra) of jñāna,  
+both in his essential nature and in his attribute, 
+</details>
+
+<details><summary>Español</summary>
+
+El Jīva que **aparece** en la praṇava como de la forma (ākāra) de jñāna,  
+tanto en su naturaleza esencial como en su atributo,
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रणवत्तिलेस्वरूपत्तालुम् गुणत्तालुम् ज्ञानाकारऩाय् 
+</details>
+
+#### जीव-विशेषणैर् भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रत्यक्क् आय्,  
+अणुव् आय्त् तोऱ्ऱिऩ जीवऩुक्कु 
+</details>
+
+<details><summary>English</summary>
+
+and also as being atomic (aṇu), 
+</details>
+
+<details><summary>Español</summary>
+
+y también como atómico (aṇu),  
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-The jīva who appears in the praṇava as of the form (ākāra) of jñāna, both in his essential nature and in his attribute, and also as being atomic (aṇu), is described in the word Nara as eternal (without change or deterioration.) Further since Narāh means 'the multitude of naraś, it makes clear the fact of the jīvas being different from one another. If (on the other hand) we take the word Nārah to mean those who have their origin from Nara (Bhagavān ), it indicates that the jīvas have Brahman for their cause (in so-far as their embodiment is concerned). Owing to these additional meanings appearing in the word (Nārāyaṇa), the two words serve a purpose ( and are not redundant).
+प्रत्यक्कायणुवाय्त्तोऱ्ऱिऩ जीवऩुक्कु 
+</details>
 
-(When the word Nārāyaṇa is taken as a bahuvrihi compound which can be split into Nārāh ayanam yasya), the word ayana is in grammatical co-ordination with Nārāh. By the word ayana, such ideas as their (nārāh) being pervaded by Bhagavān are to be understood. The meaning of the śruti  that in regard to many chetanas who are eternal, one Cetana who is eternal is the cause of their attaining the desired objects--this meaning may also be seen here.
 
-It is true that the jīva is, according to the pramāṇas, eternal. When he was described before as taking his origin from Brahman, what was meant was that, in respect of his body which is his attribute, the origin was from Brahman (but not his essential nature, which is eternal.)
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**नार**-शब्दम् क्षयम् इल्लाद्-अवऩ् ऎऩ्ऱु नित्यत्वञ् जॊल्लुगैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+is described in the word Nara as eternal (without change or deterioration.) 
+</details>
+
+<details><summary>Español</summary>
+
+**se describe** en la palabra nara como eterna (sin **cambio** o **deterioro**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नारशब्दम् क्षयमिल्लादवऩॆऩ्ऱु नित्यत्वञ्जॊल्लुगैयालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नरर्-उडैय समूहत्तैच् चॊल्लुगैयाले  
+जीवर्गळ्-उडैय अन्योऽन्य-भेदत्तै व्यक्तम् आक्कुगैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+Further since Narāh means 'the multitude of naraś',  
+it makes clear the fact of the jīvas being different from one another. 
+</details>
+
+<details><summary>Español</summary>
+
+Además desde que Narāh **significa** 'la multitud de Naraś',  
+**Deja** en claro el hecho de que los Jīvas **son** diferentes entre sí.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नररुडैय समूहत्तैच् चॊल्लुगैयाले जीवर्गळुडैय अन्योन्यभेदत्तै व्यक्तमाक्कुगैयालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"नराज् जातङ्गळ् नारङ्गळ्" ऎऩ्ऱ बोदु  
+विशिष्ट-वेषत्तालुम् +++(शरीर-सम्बन्धे)+++ ब्रह्म-कार्यत्वन् तोऱ्ऱुगैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+If (on the other hand) we take the word Nārah to mean those who have their origin from Nara (Bhagavān ),  
+it indicates that the jīvas have Brahman for their cause (in so far as their embodiment is concerned). 
+</details>
+
+<details><summary>Español</summary>
+
+Si (por otro lado) **tomamos** la palabra nārah para **significar** aquellos que **tienen** su origen de nara (bhagavān),  
+**Indica** que los Jīvas **tienen** a Brahman por su causa (en lo que respecta a su **encarnación**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नराज्जातङ्गळ् नारङ्गळॆऩ्ऱबोदु विशिष्टवेषत्तालुम् ब्रह्मकार्यत्वन्दोऱ्ऱुगैयालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पद-द्वयत्तुक्कुम् प्रयोजन-भेदम् उण्डु।
+</details>
+
+<details><summary>English</summary>
+
+Owing to these additional meanings appearing in the word (Nārāyaṇa),  
+the two words serve a purpose ( and are not redundant).
+</details>
+
+<details><summary>Español</summary>
+
+Debido a estos significados adicionales que **aparecen** en la palabra (nārāyaṇa),  
+Las dos palabras **tienen** un propósito (y **no son** redundantes).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पदद्वयत्तुक्कुम् प्रयोजनभेदमुण्डु।
+</details>
+
+##### व्याप्यत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(बहु-व्रीहि-विग्रहे)+++ नार-शब्द-समानाधिकरणम् आऩ अयन-शब्दत्ताले  
+इवऱ्ऱुक्कु व्याप्यत्वादिगळुङ् कण्डु कॊळ्वदु। 
+</details>
+
+<details><summary>English</summary>
+
+(When the word Nārāyaṇa is taken as a bahuvrihi compound  
+which can be split into "NārāH ayanam yasya"),  
+the word ayana is in grammatical co-ordination with NārāH.  
+By the word ayana, such ideas as their (nārāh) being pervaded by Bhagavān are to be understood. 
+</details>
+
+<details><summary>Español</summary>
+
+(Cuando la palabra nārāyaṇa **se toma** como un compuesto de bahuvrihi  
+que **se puede dividir** en "nārāh ayanam yasya"),  
+La palabra ayana **está** en **coordinación** gramatical con nārāh.  
+Por la palabra Ayana, **se deben entender** las ideas como sus (nārāh) **ser impregnados** por Bhagavān.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नारशब्दसमानाधिकरणमाऩ अयनशब्दत्ताले इवऱ्ऱुक्कु व्याप्यत्वादिगळुङ्गण्डु कॊळ्वदु। 
+</details>
+
+##### अभिमत-प्राप्ति-हेतुः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नित्यर् आऩ पल चेतनर्क्कु  
+ऒरु नित्यऩ् आऩ चेतनऩ् अभिमत+++(-प्राप्ति)+++-हेतुव् 
+
+ऎऩ्गिऱ श्रुत्य्-अर्थमुम्  
+इङ्गे कण्डु-गॊळ्वदु। 
+</details>
+
+<details><summary>English</summary>
+
+The meaning of the śruti  that in regard to many chetanas who are eternal,  
+one Cetana who is eternal  
+is the cause of their attaining the desired objects--  
+this meaning may also be seen here.
+</details>
+
+<details><summary>Español</summary>
+
+El significado del Śruti que, con respecto a muchas chetanas, que **son** eternas,  
+una cetana que **es** eterna  
+**es** la causa de alcanzar los objetos deseados  
+Este significado también **se puede ver** aquí.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नित्यराऩ पल चेतनर्क्कु ऒरु नित्यऩाऩ चेतनऩभिमतहेतुवॆऩ्गिऱ श्रुत्यर्थमुमिङ्गे कण्डुगॊळ्वदु। 
+</details>
+
+
+##### नित्यत्वे कार्यत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्यऩ् आग प्रमाण-सिद्धऩ् आऩ जीवऩुक्कु ब्रह्म-कार्यत्वम्  
+विशेषण द्वारकम्।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+It is true that the jīva is, according to the pramāṇas, eternal.  
+When he was described before as taking his origin from Brahman,  
+what was meant was that,  
+in respect of his body which is his attribute,  
+the origin was from Brahman  
+(but not his essential nature, which is eternal.)
+</details>
+
+<details><summary>Español</summary>
+
+**Es** cierto que el Jīva **es**, según los Pramāṇas, eterno.  
+Cuando **fue descrito** antes como **tomando** su origen de Brahman,  
+Lo que **se entendió fue** que,  
+con respecto a su cuerpo, que **es** su atributo,  
+El origen **era** de Brahman  
+(Pero **no** su naturaleza esencial, que **es** eterna).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नित्यऩाग प्रमाणसिद्धऩाऩ जीवऩुक्कु ब्रह्मकार्यत्वम् विशेषण द्वारकम्।
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि नारायणात्मकादि-कल्पङ्गळिले सॊऩ्ऩ व्युत्पत्त्य्-अन्तरङ्गळुम् ऎल्लाम्  
+इवऱ्ऱोडु तुल्यम्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि नारायणात्मकादिकल्पङ्गळिले सॊऩ्ऩव्युत्पत्त्यन्तरङ्गळुमॆल्लामिवऱ्ऱोडु तुल्यम्।
+</details>
+
 
 The other interpretations which are given in kalpas like Narāyaṇatmaka are also similar to these.
 
