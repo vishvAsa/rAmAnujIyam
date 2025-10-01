@@ -33,6 +33,24 @@ is sufficient ground to deny authority to the Pañcaratra Scriptures.
 चैत्य-वन्दन-वाक्यवत् ॥
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'विवादाध्यासितं', प्रामाण्य-विषये विप्रतिपत्ति-समाक्रान्तम्।
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+'पुण्य-पापयोर्' इति विषय-सप्तमी।
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Bhaṭṭa Medhātithi, commenting on Manusmṛti, XII. 95, quotes from some unknown source, the following:
+
+> nodanāḥ caityavandanataḥ svargo bhavati.
+
+</details>
+
 <details><summary>Buitenen</summary>
 
 17\. Furthermore, the class of texts  
