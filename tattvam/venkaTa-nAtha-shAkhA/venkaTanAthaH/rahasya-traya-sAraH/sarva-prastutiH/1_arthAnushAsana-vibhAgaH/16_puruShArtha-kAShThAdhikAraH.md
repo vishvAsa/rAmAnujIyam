@@ -54,7 +54,7 @@ as far as the service of those who are dear to Him (Bhāgavatas).
 
 En el mundo de la **vida** cotidiana (un rey a veces **usa** a sus dependientes y **adornos** para **servir** a los propósitos de aquellos que **son queridos** para él como sus hijos, esposas, etc.)  
 Y en los Vedas, se declara que todos los dioses **hacen** sus ofrendas al devoto.  
-Aun así, el Señor de Lakṣmī **usa** seres sensibles y cosas no sensibles para **servir** para siempre  
+Aun así, el Señor de Lakṣmī **usa** seres sensibles y cosas no sintientes para **servir** para siempre  
 los propósitos de aquellos que **han ganado** su respeto,  
 Porque él **es** independiente y **es** su maestro.  
 
@@ -354,7 +354,7 @@ whether it be sentient or non-sentient.
 <details><summary>Español</summary>
 
 Esa gloria **dependerá** de la naturaleza del Śeṣa,
-ya sea sensible o no sensible.
+ya sea sensible o no sintiente.
 </details>
 
 
@@ -411,7 +411,7 @@ The special glory that he can be the cause of promoting must be by means of his 
 
 > ¿Cuál es la gloria que el Jīva **es capaz** de **conferir** al ser supremo?
 
-Con su cuerpo y similares, **puede conferir** solo una gloria como lo hacen las cosas no sensibles.  
+Con su cuerpo y similares, **puede conferir** solo una gloria como lo hacen las cosas no sintientes.  
 Entonces, este servicio **es** común para él y ACIT.  
 La gloria especial de que él **puede ser** la causa de la **promoción**  
 debe **ser mediante** su inteligencia o Chaitanya. [^es_55]

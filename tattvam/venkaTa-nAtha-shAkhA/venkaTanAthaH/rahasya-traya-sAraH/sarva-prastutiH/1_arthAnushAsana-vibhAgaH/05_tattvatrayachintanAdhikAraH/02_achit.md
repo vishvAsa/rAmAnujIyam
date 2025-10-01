@@ -11,7 +11,7 @@ Among them, non-sentient things which are the objects of experience are of three
 <details><summary>Español</summary>
 
 Entre ellos,  
-las cosas no sensibles que son los objetos de la experiencia  
+las cosas no sintientes que son los objetos de la experiencia  
 son de tres tipos  
 (1) Prakṛti o materia que tiene las tres cualidades de Sattvam, Rajas y Tamas  
 (2) Kala o Time y  
@@ -45,7 +45,7 @@ and is the field of action (karma) for the jīva".
 
 La naturaleza de (1) prakṛti ha sido descrita así:-
 
-> "No es [^f134] no sensible (achetana).  
+> "No es [^f134] no sintiente (achetana).  
 Existe (siempre) para los demás y es eterno,  
 pero sujeto siempre a cambiar o modificar.  
 Tiene tres cualidades Sattvam, Rajas y Tamas  
@@ -169,7 +169,7 @@ Thus the nature of Prakṛti, Kāla and Śuddha sattva which belong to three cla
 
 Así, se ha descrito  
 la naturaleza de Prakṛti, Kāla y Śuddha Sattva  
-que pertenecen a tres clases de cosas no sensibles (Achetana).
+que pertenecen a tres clases de cosas no sintientes (Achetana).
 </details>
 
 <details><summary>मूलम्</summary>

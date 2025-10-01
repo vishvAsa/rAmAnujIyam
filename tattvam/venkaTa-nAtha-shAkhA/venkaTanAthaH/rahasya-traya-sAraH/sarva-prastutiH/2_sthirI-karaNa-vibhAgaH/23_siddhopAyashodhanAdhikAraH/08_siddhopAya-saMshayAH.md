@@ -1835,7 +1835,7 @@ Por eso **se dice**
 
 > "Los Upaniṣads **indican** que  
 > El Señor de Śrī **crea, mantiene, controla** y **hace** otras cosas  
-> con respecto a las cosas sensibles y no sensibles,  
+> con respecto a las cosas sensibles y no sintientes,  
 > Solo por su propio bien.  
 > Por lo tanto, O, Señor de śrīraṅga,  
 > Tu naturaleza **es** el medio de **salvación** (upāya) para el jīva  

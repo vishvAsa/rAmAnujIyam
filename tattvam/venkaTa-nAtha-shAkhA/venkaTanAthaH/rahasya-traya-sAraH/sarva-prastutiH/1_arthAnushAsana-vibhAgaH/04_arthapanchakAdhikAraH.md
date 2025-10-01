@@ -2188,7 +2188,7 @@ and others for His enjoyment (bhoga).
 <details><summary>Español</summary>
 
 Estos vibhūtis (posesiones o glorias) de Dios  
-son de dos tipos, sensibles y no sensibles,  
+son de dos tipos, sensibles y no sintientes,  
 y estos nuevamente son de dos tipos,  
 algunos existentes para su līlā o deporte  
 y otros para su disfrute (bhoga).
