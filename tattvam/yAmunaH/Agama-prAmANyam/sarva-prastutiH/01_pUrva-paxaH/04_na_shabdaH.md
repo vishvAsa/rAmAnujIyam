@@ -1897,6 +1897,11 @@ but probably refers to unorthodox priest engaged in gaNa worship.
 Mahābhārata XII. 76.6.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'महा-पथिकाः' शव-वाहका इत्य् अर्थः।
+</details>
+
 <details><summary>Buitenen</summary>
 
 [[14]]  
