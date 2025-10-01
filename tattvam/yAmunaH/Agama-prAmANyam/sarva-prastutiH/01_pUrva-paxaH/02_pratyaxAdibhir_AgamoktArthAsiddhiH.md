@@ -455,6 +455,9 @@ something limited (the boy) is really unlimited (mature adult).
 <details><summary>नरसिंहः</summary>
 
 This is the second alternative.
+</details>
+
+<details><summary>नरसिंहः</summary>
 
 This is the third one.
 </details>
