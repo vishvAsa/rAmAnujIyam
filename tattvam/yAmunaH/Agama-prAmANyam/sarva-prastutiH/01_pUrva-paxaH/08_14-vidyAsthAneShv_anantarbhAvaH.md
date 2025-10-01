@@ -10,6 +10,15 @@ title = "०८ १४-विद्यास्थानेष्व् अन�
 अन्यथा हीदम् अपि तद्-अन्यतमत्वेन स्मर्येत ।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Yājñavalkyasmṛti: I. 3:
+
+> purāṇanyāyamīmāṃsādharmaśāstrāṅgamiśritāḥ ।  
+vedāssthānāni vidyānāṃ dharmasya ca caturdaśa ॥
+
+</details>
+
 <details><summary>Buitenen</summary>
 
 Again, another indication of its non-Vedic character is the fact  
