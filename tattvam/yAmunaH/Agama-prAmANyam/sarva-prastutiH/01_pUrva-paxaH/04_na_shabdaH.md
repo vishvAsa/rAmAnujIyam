@@ -947,7 +947,7 @@ Cf. Tantravārtika pp. 5-6.
 
 <details><summary>नरसिंहः</summary>
 
-Duṣṭaśūdras could be those śūdras, who, being other than the[[??]] three higher castes, pretend to be one among them by wearing marks like the sacred thread. If the word dṛṣṭaśūdras is taken to be correct it would then refer to those people of the śūdra-community who are also entitled to have sacred thread and such other marks.
+Duṣṭaśūdras could be those śūdras, who, being other than the three higher castes, pretend to be one among them by wearing marks like the sacred thread. If the word dṛṣṭaśūdras is taken to be correct it would then refer to those people of the śūdra-community who are also entitled to have sacred thread and such other marks.
 </details>
 
 <details><summary>Buitenen</summary>
