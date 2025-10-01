@@ -36,6 +36,12 @@ synonymous.
 यथैव हि तन्त्र-प्रसिद्ध-दीक्षाऽऽराधन--तत्-फलाभिमत-स्वर्गादि-साध्य-साधन-भावो नानुमान-गोचरः - सम्बन्धावधारण-विरहात्।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Tantravārtika, p. 70.
+</details>
+
+
 <details><summary>Buitenen</summary>
 
 Nor is it possible, in the absence of explicit revelation,  
@@ -158,6 +164,11 @@ and yet expound an interpretation which is wholly unscriptural.
 इति शङ्कामहे ।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Manuscript M₇ starts from “vagama” See. Critical Apparatus.
+</details>
+
 <details><summary>Buitenen</summary>
 
 [[7]]  
@@ -184,14 +195,16 @@ who write as their fancy takes them!
 अस्ति तादृशगोचरः ॥
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Tantravārtika, p. 70.
+</details>
+
 <details><summary>Buitenen</summary>
 
 This argumentation by itself suffices to disprove the contended authority of Pañcarātra,  
 for there is no eternal Scripture to support the claim. 
 </details>
-
-
-
 
 <details><summary>मूलम्</summary>
 
@@ -232,6 +245,11 @@ be within the scope of the mere knowledge of similitude?
 अनुपप्रत्य्-अभावात्,  
 स्मरणान्यथाऽनुपप्रत्या हि  
 तत्-कल्पना प्रादुर्-भवति ।  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+The Mīmāṃsaka anticipates this argument from the Siddhāntin.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -353,6 +371,11 @@ therefore the cognition of the fact can only have originated from Scripture...
 यदि हि यथार्थत्व-नियमो ऽनुभवानां प्रामाणिकः स्यात्,  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The above argument is refuted as untenable by the Mīmāṃsaka.
+</details>
+
 <details><summary>Buitenen</summary>
 
 [[8]]  
@@ -377,6 +400,13 @@ that cognitions are invariably true.
 प्रमाण-भूता श्रुतिर् **उपकल्प्येत** -  
 अन्यथाऽपि स्मरणोपपत्तेः।  
 मन्वादि-स्मरणेष्व् इदानीं का वार्ता ।  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+अन्यथा ऽपि — अयथार्थानुभव-भावित-भावनातो ऽपीति भावः।
+
+the Siddhāntin poses this question to the Mīmāṃsaka.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -523,6 +553,20 @@ well, in Pancarãtra, too, …
 संप्रदाय-प्रवर्तकाः ॥+++(4)+++
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. the following verse quoted by Bhaṭṭāraka Vedottama in his Tantra-śuddha, from some unknown source, p. 21:
+
+> nāradaḥ sumahadbhūtaṃ lokānugrahakāmyayā  
+vāsudevādavāpyedaṃ sañcikṣepa mataṃ paraṃ.
+
+The names of the teachers that promulgated the Pāñcarātra excepting those of Lord Nārāyaṇa and Nārada are given in the Īśvara Saṃhitā ( Ch. I, śls. 38-41 ): Saṅkarṣaṇa, Śāṇḍilya, Sumantu, Jaimini, Bhṛgu, Aupagāyana and Mauñjyāyana.
+
+Vide JRAS for 1911, foot-note on p. 942:
+
+> The descent of the Bhāgavata religion is, in the Kṛta age, from Nara-Nārāyaṇa to Nārada, and at the end of the Dvāpara, from Saṅkarṣaṇa to Śāṇḍilya and in the Kali, from Viṣvaksena to Śaṭhakopa.
+</details>
+
 <details><summary>Buitenen</summary>
 
 great sages are traditionally known  
@@ -573,6 +617,11 @@ Either both are authoritative or neither is.
 **वक्तव्यो** वा, +++(येन)+++ स +++(भेद)+++ **उच्यते** ॥  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This is the reply given by the Mīmāṃsaka.
+</details>
+
 <details><summary>Buitenen</summary>
 
 [[9]]  
@@ -595,6 +644,15 @@ or we must indeed show in which respect the Pancarãtra tradition is different f
 प्रमाणम्" इति सूत्रयन् ।  
 सूत्र-कारः +++(जैमिनिः)+++ स्फुटी-चक्रे  
 वैलक्षणण्यं विवक्षितम् ॥
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Vide Pūrva Mīmāṃsā I. iii. 2. The full aphorism is : 
+
+> api vā kartṛsāmānyāt pramāṇam anumānaṃ syāt. 
+
+It is this sūtra that sanctions validity to the smṛtis, provided the rites enjoined by them are performed by the śiṣṭas, who also perform the other duties laid down in the Vedas.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -714,6 +772,10 @@ On the contrary, the Vedic experts condemn those who do.
 तदुक्तार्थान् **उपासते** ॥  
 </details>
 
+<details><summary>नरसिंहः</summary>
+'तत्' इति पदेन पूर्व-पङ्क्त्य्-उक्तं प्रामाण्यं परामृश्यते । 'पञ्च-रात्रादि-बाह्य-स्मरणम्' इत्य् एतत् कर्तृ-पदम्; तद् इति द्वितीयान्तम्।
+</details>
+
 <details><summary>Buitenen</summary>
 
 It follows that the validity which we attribute to different Traditions  
@@ -740,6 +802,11 @@ do not accept the doctrines of Traditions of this kind.
 चोदना-मूलत्त्वे संभाव्यमाने  
 कथम् इव प्रामाण्य-प्रत्यनीक-भूता भ्रम-विप्रलम्भादयः  
 स्मरण-कारणतया कल्प्यन्ते ।  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+The Siddhāntin questions.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -770,6 +837,11 @@ the very negation of valid authority?.
 प्रामाण्यम् उपपादितम् ।  
 यत् त्रैवर्णिक-विद्विष्टाश्  
 शिष्टा भागवता इति ॥
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+The Mīmāṃsaka replies.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -837,6 +909,14 @@ Brahmins? Far from it!
 नरत्वातिरेकिणं ब्राह्मण्यं नाम जाति-विशेषम् अपरोक्षयामः,
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Prakaraṇapañcikā III. p. 30:
+
+> न हि क्षत्रियादिभ्यो व्यावर्तमानं, सकल-ब्राह्मणेष्व् अनुवर्तमानम् एकम् आकारम् अतिचिरम् अनुसन्दधतो ऽपि बुध्यन्ते ।
+
+</details>
+
 <details><summary>Buitenen</summary>
 
 We do not regard Brahmins as a distinct species,  
@@ -858,6 +938,16 @@ and absent in others.
 नाप्य् अवगमयन्ति,  
 दुष्ट-शूद्रादिषु व्यभिचार-दर्शनात्,  
 अतो ऽनिर्विवाद-सिद्ध-वृद्ध-व्यवहार एवात्रावगम-निदानम् ।+++(5)+++  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. Tantravārtika pp. 5-6.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Duṣṭaśūdras could be those śūdras, who, being other than the[[??]] three higher castes, pretend to be one among them by wearing marks like the sacred thread. If the word dṛṣṭaśūdras is taken to be correct it would then refer to those people of the śūdra-community who are also entitled to have sacred thread and such other marks.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1017,6 +1107,18 @@ Rathakara means by yoga "chariot-maker, cartwright." by rūḍhi a caste which i
 जाति-विशेषम् अभिनिविशते ।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+There is a Vedic statement “varṣāsu rathakāra ādadhīta”, which enjoins Installation of fire on a Rathakāra. Etymologically the word ‘Rathakāra’ can refer to any person that belongs to the three higher castes, viz., the Brāhmaṇa, the Kṣatriya and the Vaiśya. But conventionally this term refers to a particular communiy bearing the name ‘rathakāra’. The Pūrva Mīmāṃsā, in a separate section called the Rathakāra Adhikaraṇa [VI. i. 44-50] discusses the matter and concludes that the term ‘rathakāra’ occurring in the above Vedic text refers only to one belonging to a separate community called ‘Saudhanvana’, which is another name for the ‘rathakāra’ community. This community is a distinct one, neither Śūdra, nor Vaiśya, nor Kṣatriya. 
+
+Certain Mantras of the Ṛgveda indicate that the terms ‘rathakāra’, ‘saudhanvana’ and ‘ṛbhava’ applied to persons of this community, are all synonymous. See Śabara’s commentary on Pūrva Mīmāṃsā VI. i. 50.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+अध्ययन-सिद्ध-ज्ञानानाङ्गकत्वं[[??]] अग्न्य्-आधानस्य । तद् अपि भङ्क्त्वा[[??]] , इति योजना । अग्न्य्-आधाने वेदाध्येतार एव अधिकृता इत्य् अयम् अंशस् तावत् सर्व-सम्मतः । निसर्ग-सिद्धम् अपि अध्ययन-ज्ञानाङ्गकत्वम् आधानस्य, 'वर्षासु रथ-कार आदधीत' इत्य् अनेन विशेष-विधानेन बाध्यते । तथा च रथ-काराख्यस्य ब्राह्मण-क्षत्रिय-वैश्य-वर्ण-विभिन्नस्य[[??]], शूद्र-वर्ण-विभिन्नस्य च जाति-विशेषस्य बोधकत्वम् इति रूढि-समाश्रयणेन निर्वाहः ।
+</details>
+
 <details><summary>Buitenen</summary>
 
 If there were no such rule,  
@@ -1043,6 +1145,16 @@ on this point see infra.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सन्ति च सात्त्वता नाम उपनयनादि-संस्कार-हीना वैश्य-व्रात्यान्वयिनो ऽवर-जन्मानः केचिद्,   
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+For an explanation of the term ‘vrātya’ see Manusmṛti II.38, 39:
+
+> ā ṣoḍaśāt brāhmaṇasya sāvitrī nātivartate ।  
+ā dvāviṃśāt kṣatrabandhoḥ ā caturviṃśater viśaḥ ॥  
+ata ūrdhvaṃ trayo'pyete[[??]] yathākālamasaṃskṛtāḥ ।  
+sāvitrīpatitā vrātyā bhavantyāryavigarhitāḥ ॥
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1073,6 +1185,11 @@ upanayana, which is the first step to his acquisition of Vedic knowledge.
 मैत्र-सात्त्वत एव च ॥
 
 इति,
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Manusmṛti X-23.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1126,6 +1243,11 @@ that Bhagavata is another name for Satvata;
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be traced out.
+</details>
+
 <details><summary>Buitenen</summary>
 
 Smrti has it that 
@@ -1160,6 +1282,11 @@ the term "by royal decree" shows that it is a caste profession. Quotation not id
 यद् अमी ह प्रत्यक्षम् एव वृत्त्य्-अर्थम् अनुतिष्ठन्तो दृश्यन्ते  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+यत् कर्म देव-पूजन-रूपं, अमी पाञ्चरात्रिका इह अनुतिष्ठन्ति, तत् स्मृतिषु व्रात्यापत्य-वृत्तितया[[??]] प्रसिद्धम् एवेति भावः ।
+</details>
+
 <details><summary>Buitenen</summary>
 
 The Smrti thus describes which profession the descendants of the said vratya vaisya pursue  
@@ -1181,6 +1308,11 @@ and with our own eyes we indeed see them pursue this profession.
 > आचार्य-सात्त्वतयोर् देव-पूजनम् 
 
 इति,  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Passages to be identified.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1269,6 +1401,11 @@ Elsewhere (unidentified) the same is stated thus:
 
 <details><summary>Buitenen</summary>
 
+Manusmṛti X. 40.
+</details>
+
+<details><summary>Buitenen</summary>
+
 And, to dispel the last doubt about the sort of people they are,  
 Manu (Manu 10.40) declares: 
 
@@ -1295,6 +1432,11 @@ Manu (Manu 10.40) declares:
 दीक्षा नैवेद्य-भक्षणम् ॥  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See foot-note on p. 3 above.
+</details>
+
 <details><summary>Buitenen</summary>
 
 16\. Their conduct, moreover, proves that they cannot be Brahmins.  
@@ -1315,6 +1457,11 @@ eat themselves the food which is offered to the idols
 संस्कारान्तर-सेवनम् ।  
 श्रौत-क्रियाऽननुष्ठानं  
 द्विजैस् सम्बन्ध-वर्जनम् ॥  
+</details>
+
+<details><summary>Buitenen</summary>
+
+By “saṃbandha” here is meant the matrimonial alliance —“yauna-saṃbandha.”
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1378,6 +1525,11 @@ is this that they perform pūjā to the Deity in order to earn a living:
 
 <details><summary>Buitenen</summary>
 
+Passage to be traced out.
+</details>
+
+<details><summary>Buitenen</summary>
+
 [[13]]  
 "Those who from generation to generation  
 have worshipped the Deity professionally  
@@ -1408,6 +1560,15 @@ and for officiating in sacrifices."
 देवदेवं कदाचन ॥ 
 
 इति ।  
+</details>
+
+<details><summary>Buitenen</summary>
+
+Paramasaṃhitā XXVIII : 33b-34a.
+Also Cf. ibid.: 
+
+> annapānaṃ dhanaṃ putramāyuraiśvaryamāspadāṃ  
+āpadyapi na yāceta pūjakaḥ puruṣottamam.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1505,6 +1666,16 @@ it is necessary to perform an expiation.
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘अमी’ भागवता इत्य् अर्थः।
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Passages to be identified.
+</details>
+
 <details><summary>Buitenen</summary>
 
 A devalaka is someone who lives on temple treasure  
@@ -1526,6 +1697,11 @@ and worships the idol for a livelihood.
 स देवलक उच्यते ।  
 
 इति,
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Passages to be identified.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1561,6 +1737,20 @@ not in Devalasmr̥ti.
 सर्वकर्मसु गर्हितः ॥
 
 इति ।  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+To be traced out.
+Cf. Bhaviṣyapurāṇa ch. 139, śls. 18, 21 and 22 :
+
+> yadi devārthadānaṃ syāt tato devalakā dvijāḥ  
+devadravyābhilāṣaśca brāhmaṇyaṃ tu vimuñcati
+
+> dvijo devalako yatra paṅktyāṃ bhuṅkte mahipate  
+annānyupasṛśennīcā sā paṅktiḥ pāpamācaret  
+dvijo devalako yasya saṃskāraṃ saṃprayacchati  
+so'dhomukhān[[??]] pitṝn sarvān ākramya vinipātayet
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1616,6 +1806,20 @@ Those who have been known to worship the God as a hereditary profession are auto
 
 <details><summary>Buitenen</summary>
 
+Passage to be identified.
+Cf. Sāttvatasaṃhitā XXI. 20 :
+
+> nagarāpaṇavīthīṣu tasya devalakasya ca  
+darśanaṃ sparaśanaṃ caiva kuryāt saṃbhāṣaṇaṃ na hi
+
+Also cf. Paramasaṃhitā III.47 :
+
+> pāṣaṇḍasamayasthāṃśca devakośopajīvinaḥ  
+nāstikān ninditān duṣṭān na spṛśenna ca saṃvadet
+</details>
+
+<details><summary>Buitenen</summary>
+
 The rite of expiation is set forth in the precept: 
 
 > "A Brahmin who is taking his meal should not look at ordure, a pig, a eunuch, a sacrificial pole, a devalaka or a corpse;  
@@ -1640,6 +1844,11 @@ The rite of expiation is set forth in the precept:
 
 इति, 
 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+To be identified.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1681,6 +1890,16 @@ but probably refers to unorthodox priest engaged in gaNa worship.
 
 इति, 
 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Mahābhārata XII. 76.6.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+'महा-पथिकाः' शव-वाहका इत्य् अर्थः।
 </details>
 
 <details><summary>Buitenen</summary>

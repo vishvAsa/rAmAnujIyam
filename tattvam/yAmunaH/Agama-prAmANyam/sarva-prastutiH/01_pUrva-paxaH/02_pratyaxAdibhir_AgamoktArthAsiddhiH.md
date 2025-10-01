@@ -317,6 +317,11 @@ as between colour and coloured, obtain in one object.
 विश्वं **बोधयितुं क्षमम्** ॥  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+ज्ञानम् एव विज्ञान-शब्देनोक्तम्।
+</details>
+
 <details><summary>Buitenen</summary>
 
 [[4]]  
@@ -341,6 +346,11 @@ i.e. also things known only through other means of ... knowledge?
 
 > ननु तत् +++(भगवत्-प्रत्यक्षं)+++ कॢप्त-सामर्थ्यं  
 > विद्यमानोपलम्भने ।
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+“ननु” इति “प्रत्युत” इत्य् अथे प्रयुक्तः।
 </details>
 
 <details><summary>Buitenen</summary>
@@ -404,6 +414,12 @@ because it is limited to being Perception!
 बाल इव स्थविर-भावम् ।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The Mīmāṃsaka poses three alternatives against the Naiyāyika’s theory of “Supreme Person” of which this is the first alternative.
+</details>
+
+
 <details><summary>Buitenen</summary>
 
 8\. The objection is refuted:  
@@ -435,6 +451,17 @@ something limited (the boy) is really unlimited (mature adult).
 केनाप्य् अन्येन निरतिशयेन भवितव्यम् इति  
 आहोस्वित् समान-जातीयेनान्येन निरतिशय-दशाम् अधिरूढेन भवितव्यम् इति ।  
 </details>
+
+<details><summary>नरसिंहः</summary>
+
+This is the second alternative.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+This is the third one.
+</details>
+
 
 <details><summary>Buitenen</summary>
 
@@ -480,6 +507,11 @@ which had the same expansion as space.
 इति तत्-प्रतिहततयेतर-भाव-भङ्ग-प्रसङ्गः
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+गणिको महा-कुम्भः।
+</details>
+
 <details><summary>Buitenen</summary>
 
 [[5]]
@@ -501,6 +533,11 @@ so that all other things would be pushed out and perish accordingly!
 मध्यमः सिद्ध-साधनः ।  
 कल्पान्तरेऽपि **दुर्-वारं**  
 प्राग्-उदीरित-दूषणम् ॥
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Manuscript V₁ starts from “dūṣaṇam”, the preceding text being lost. See Critical Apparatus.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -562,6 +599,11 @@ vibhu in the sense of "omnipresent, infinite."
 यद् अपि वियति परिमाणम् इह निदर्शितं  
 तद् अपि विमर्शनीयम् एव -  
 परिमाणं हि नाम देशावच्छेदः, इयत्ता-परितोभाव-वेष्टनम् इति यावत् ।  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Veṅkaṭanātha in his Nyāyasiddhāñjana, ch. VI. p. 170, quotes from “yadapi” to “nirdiśyate”
 </details>
 
 <details><summary>Buitenen</summary>
