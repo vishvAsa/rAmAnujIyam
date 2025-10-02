@@ -30,6 +30,11 @@ presupposes the abandoning of the Way of the Veda;
 इत्यादीनि 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This objection is raised by Śaṅkara in his commentary on the Brahma-sūtra: II. ii.45: “vipratiṣedhācca”. Cf. his commentary: “vedavipratiṣedhaśca bhavati; 'caturṣu vedeṣu paraṃ śreyo' labdhvā śāṇḍilya idaṃ śāstramadhigatavān’ ityādivedanindādarśanāt”, etc.
+</details>
+
 <details><summary>Buitenen</summary>
 
 > "having failed to find the supreme good in the four Vedas,  
@@ -97,6 +102,11 @@ derive solely from Scripture:
 > स्मृतिशीले च तद्विदाम् ।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Manusmṛti: II. 6a.
+</details>
+
 <details><summary>Buitenen</summary>
 
 > "The Veda in its entirety is the basis of the Law,  
@@ -113,6 +123,12 @@ derive solely from Scripture:
 
 > श्रुतिस्मृतिविहितो धर्मः ।  
 </details>
+
+<details><summary>नरसिंहः</summary>
+
+Vasiṣṭhasmṛti: I. 2.
+</details>
+
 
 <details><summary>Buitenen</summary>
 
@@ -132,6 +148,11 @@ derive solely from Scripture:
 सर्व-ज्ञानमयो हि सः ।  
 
 इति च ।  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Manusmṛti: II. 7b.
 </details>
 
 <details><summary>Buitenen</summary>

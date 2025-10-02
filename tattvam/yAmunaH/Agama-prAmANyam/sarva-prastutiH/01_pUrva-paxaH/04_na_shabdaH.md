@@ -947,7 +947,7 @@ Cf. Tantravārtika pp. 5-6.
 
 <details><summary>नरसिंहः</summary>
 
-Duṣṭaśūdras could be those śūdras, who, being other than the[[??]] three higher castes, pretend to be one among them by wearing marks like the sacred thread. If the word dṛṣṭaśūdras is taken to be correct it would then refer to those people of the śūdra-community who are also entitled to have sacred thread and such other marks.
+Duṣṭaśūdras could be those śūdras, who, being other than the three higher castes, pretend to be one among them by wearing marks like the sacred thread. If the word dṛṣṭaśūdras is taken to be correct it would then refer to those people of the śūdra-community who are also entitled to have sacred thread and such other marks.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1116,7 +1116,7 @@ Certain Mantras of the Ṛgveda indicate that the terms ‘rathakāra’, ‘sau
 
 <details><summary>नरसिंहः</summary>
 
-अध्ययन-सिद्ध-ज्ञानानाङ्गकत्वं[[??]] अग्न्य्-आधानस्य । तद् अपि भङ्क्त्वा[[??]] , इति योजना । अग्न्य्-आधाने वेदाध्येतार एव अधिकृता इत्य् अयम् अंशस् तावत् सर्व-सम्मतः । निसर्ग-सिद्धम् अपि अध्ययन-ज्ञानाङ्गकत्वम् आधानस्य, 'वर्षासु रथ-कार आदधीत' इत्य् अनेन विशेष-विधानेन बाध्यते । तथा च रथ-काराख्यस्य ब्राह्मण-क्षत्रिय-वैश्य-वर्ण-विभिन्नस्य[[??]], शूद्र-वर्ण-विभिन्नस्य च जाति-विशेषस्य बोधकत्वम् इति रूढि-समाश्रयणेन निर्वाहः ।
+अध्ययन-सिद्ध-ज्ञानानाङ्गकत्वं अग्न्य्-आधानस्य । तद् अपि भङ्क्त्वा , इति योजना । अग्न्य्-आधाने वेदाध्येतार एव अधिकृता इत्य् अयम् अंशस् तावत् सर्व-सम्मतः । निसर्ग-सिद्धम् अपि अध्ययन-ज्ञानाङ्गकत्वम् आधानस्य, 'वर्षासु रथ-कार आदधीत' इत्य् अनेन विशेष-विधानेन बाध्यते । तथा च रथ-काराख्यस्य ब्राह्मण-क्षत्रिय-वैश्य-वर्ण-विभिन्नस्य, शूद्र-वर्ण-विभिन्नस्य च जाति-विशेषस्य बोधकत्वम् इति रूढि-समाश्रयणेन निर्वाहः ।
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1153,7 +1153,7 @@ For an explanation of the term ‘vrātya’ see Manusmṛti II.38, 39:
 
 > ā ṣoḍaśāt brāhmaṇasya sāvitrī nātivartate ।  
 ā dvāviṃśāt kṣatrabandhoḥ ā caturviṃśater viśaḥ ॥  
-ata ūrdhvaṃ trayo'pyete[[??]] yathākālamasaṃskṛtāḥ ।  
+ata ūrdhvaṃ trayo'pyete yathākālamasaṃskṛtāḥ ।  
 sāvitrīpatitā vrātyā bhavantyāryavigarhitāḥ ॥
 </details>
 
@@ -1284,7 +1284,7 @@ the term "by royal decree" shows that it is a caste profession. Quotation not id
 
 <details><summary>नरसिंहः</summary>
 
-यत् कर्म देव-पूजन-रूपं, अमी पाञ्चरात्रिका इह अनुतिष्ठन्ति, तत् स्मृतिषु व्रात्यापत्य-वृत्तितया[[??]] प्रसिद्धम् एवेति भावः ।
+यत् कर्म देव-पूजन-रूपं, अमी पाञ्चरात्रिका इह अनुतिष्ठन्ति, तत् स्मृतिषु व्रात्यापत्य-वृत्तितया प्रसिद्धम् एवेति भावः ।
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1750,7 +1750,7 @@ devadravyābhilāṣaśca brāhmaṇyaṃ tu vimuñcati
 > dvijo devalako yatra paṅktyāṃ bhuṅkte mahipate  
 annānyupasṛśennīcā sā paṅktiḥ pāpamācaret  
 dvijo devalako yasya saṃskāraṃ saṃprayacchati  
-so'dhomukhān[[??]] pitṝn sarvān ākramya vinipātayet
+so'dhomukhān pitṝn sarvān ākramya vinipātayet
 </details>
 
 <details><summary>Buitenen</summary>

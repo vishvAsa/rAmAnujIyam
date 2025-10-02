@@ -11,6 +11,16 @@ title = "०९ बादरायणोक्तिः"
 "उत्प्रत्य्-असंभवात्" इति ।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This is the contention of the Advaitins. The entire Utpattyasambhava or the Pāñcarātra section of the Brahmasūtra [II. ii. 42-45] consisting of the four aphorisms: “utpattyasaṃbhavāt”, “na ca kartuḥ karaṇaṃ”, “vijñānādibhāve vā tadapratiṣedhaḥ” and “vipratiṣedhācca” had been interpreted by Śaṅkarācārya as refuting the validity of the Pāñcarātrāgamas.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Brahmasūtra: II. ii.42. This sūtra is the 42nd one in the second Pāda of the second Adhyāya, according to Śaṅkara. But according to Rāmānuja, this is the 39th aphorism.
+</details>
+
 <details><summary>Buitenen</summary>
 
 For this reason the venerable Badarāyaṇa,  

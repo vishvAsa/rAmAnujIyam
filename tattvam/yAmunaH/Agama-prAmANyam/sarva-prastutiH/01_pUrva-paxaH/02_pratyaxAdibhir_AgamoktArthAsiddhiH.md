@@ -454,12 +454,9 @@ something limited (the boy) is really unlimited (mature adult).
 
 <details><summary>नरसिंहः</summary>
 
-This is the second alternative.
-</details>
+अथ एकस्मिन् … - This is the second alternative.
 
-<details><summary>नरसिंहः</summary>
-
-This is the third one.
+अहोस्वित् … - This is the third one.
 </details>
 
 
