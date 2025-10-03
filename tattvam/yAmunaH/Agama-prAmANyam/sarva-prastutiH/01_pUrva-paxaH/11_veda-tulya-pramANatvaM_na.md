@@ -1445,7 +1445,22 @@ before he can actually undertake their production.
 
 <details><summary>नरसिंहः</summary>
 
-'यदि परं' इत्य् अस्य , 'यदि यत् किञ्चिद् विवक्षितं, तर्हि एवं वक्तव्यम्' इत्य् अर्थः। 
+यदि परं ... 'यदि परं' इत्य् अस्य , 'यदि यत् किञ्चिद् विवक्षितं, तर्हि एवं वक्तव्यम्' इत्य् अर्थः। 
+
+इह तु ... Cf. Ślokavārtika, Saṃbandhākṣepaparihāra: śl. 75:
+
+> kasyacit hetumātṛatvaṁ yadyadhiṣṭhānatocyate  
+karmabhiḥ sarvajīvānāṁ tatsiddheḥ siddhasādhanam.
+
+The same idea is expressed in the Īśvarasiddhi, P.242:
+
+> āgamādavagamyante vicitrāḥ karmaśaktayaḥ  
+tena karmabhirātmānaḥ sarvaṁ nirmimatāṁ pṛthak.
+
+प्रत्ययेन ...   “Pratyaya” here means “jñāna”.
+
+सम्प्रत्याकलित ... “Samprati” is used in the sense of “samyak”. Also see the following verse “kṛtārthatvāt krīḍā” etc. where also the word “saṃprati” occurs.
+
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1472,6 +1487,11 @@ Thus, aided by these causes, they render manifest such products as earth etc.
 प्रवीणो, नैवान्यः क्षम इति च नास्त्यत्र नियमः ॥
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+By “prakṛti” is meant “upādāna” and by “karaṇa” is meant “nimitta” and the like.
+</details>
+
 <details><summary>Buitenen</summary>
 
 Also, there is no invariable rule  
@@ -1495,6 +1515,14 @@ and nobody else.
 बलीयः प्रत्यक्ष-प्रतिहत-मुखत्वेन तद् असत् ॥  
 स एवायम् मेरुर् दिवस-कर-बिम्बञ् च तदिदं  
 धरित्री सैवेति स्फुटम् इह यतो धीर् उदयते ।+++(5)+++
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+अपश्यन्नेवायं ... Cf. Īśvarasiddhi, P.246: “na copādānādisākṣātkāriṇa eva kartṛtvamityapi niyamaḥ; upādānamupakaraṇaṁ ca aviduṣa evātmano jñānādiṣu kartṛtvāt”.
+
+विनाशीदं ... Cf. तथा सावयवत्वेन etc., above.
+
 </details>
 
 <details><summary>Buitenen</summary>
