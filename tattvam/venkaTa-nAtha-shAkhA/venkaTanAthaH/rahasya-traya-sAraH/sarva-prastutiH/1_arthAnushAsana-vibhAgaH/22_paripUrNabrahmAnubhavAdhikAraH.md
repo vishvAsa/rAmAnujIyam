@@ -4473,7 +4473,7 @@ and as he sees by constant perception (pratyakṣa ) the imperfections of all ot
 <details><summary>Español</summary>
 
 Alguna vez en el estado de deseo de Mukti,  
-El Mukta **tenía** una aversión al disfrute de las cosas no sensibles (materia)  
+El Mukta **tenía** una aversión al disfrute de las cosas no sintientes (materia)  
 y también al mero disfrute de su propio ser (Kaivalya).
 
 Esta aversión ahora **está bien establecida** en él;

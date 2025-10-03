@@ -24,7 +24,7 @@ Así, las tres realidades consisten en el gobernante y el gobernado (este últim
 y nuestro ācārya s (śrī yāmunācārya y Śrī rāmānujācārya) lo han declarado concisamente en las palabras
 
 > "(Iśvara) [^30] de quién depende de la naturaleza esencial (svarūpa), la continuación (sthiti) y la actividad (pravṛtti) de los tres tipos de seres sintientes  
-> y de cosas no sensibles con todas sus diferencias".
+> y de cosas no sintientes con todas sus diferencias".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -66,7 +66,7 @@ The three kinds of non-sentient things are Prakṛti with its three qualities (s
 
 <details><summary>Español</summary>
 
-Los tres tipos de cosas no sensibles son Prakṛti con sus tres cualidades (Sattvam, Rajas y Tamas), Time y Śuddhasattvam.
+Los tres tipos de cosas no sintientes son Prakṛti con sus tres cualidades (Sattvam, Rajas y Tamas), Time y Śuddhasattvam.
 </details>
 
 <details><summary>मूलम्</summary>

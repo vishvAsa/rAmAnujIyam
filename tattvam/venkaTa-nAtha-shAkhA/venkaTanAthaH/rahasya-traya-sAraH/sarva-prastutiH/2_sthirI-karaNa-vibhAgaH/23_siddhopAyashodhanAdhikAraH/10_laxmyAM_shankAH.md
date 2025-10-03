@@ -1926,7 +1926,7 @@ En tales vidyās o formas de **meditación** como la de Pratardana,
 Aunque el ser supremo **es** el objeto del **conocimiento**,  
 **Admitimos** que los seres sintientes como Indra  
 **pueden ser** atributos de Bhagavān  
-al igual que las cualidades no sensibles.
+al igual que las cualidades no sintientes.
 </details>
 
 
@@ -2767,7 +2767,7 @@ in relation to the world".
 
 y por la autoridad de los siguientes Śloka,
 
-> "El mundo de los seres sensibles y no sensibles **es Śeṣa** a Lakṣmī, (es decir)  
+> "El mundo de los seres sensibles y no sintientes **es Śeṣa** a Lakṣmī, (es decir)  
 **Existe** para Lakṣmī:  
 Ella y el mundo **son** Śeṣa a Bhagavān,  
 quien **es** su Śeṣī.  

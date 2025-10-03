@@ -641,7 +641,7 @@ just as they do not ask for protection ?
 
 <details><summary>Español</summary>
 
-Porque **no hemos visto** que las cosas no sensibles, el ganado, los ciervos, las aves y los similares, y niñas **lactantes están protegidos**,  
+Porque **no hemos visto** que las cosas no sintientes, el ganado, los ciervos, las aves y los similares, y niñas **lactantes están protegidos**,  
 Aunque **no tienen conocimiento** de esta relación,  
 tal como **no piden protección**?
 </details>
@@ -826,7 +826,7 @@ Si, por otro lado, **se mantiene** que
 > en los que uno **es capaz de hacerlo**,
 
 **Respondemos** que  
-**Hemos visto protección** incluso de cosas no sensibles que **son incapaces de prevenirlo**  
+**Hemos visto protección** incluso de cosas no sintientes que **son incapaces de prevenirlo**  
 e **incluso** de seres sensibles como ganado e hijos que **intentan prevenirlo**.
 </details>
  

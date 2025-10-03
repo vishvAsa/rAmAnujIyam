@@ -139,7 +139,7 @@ Eso es lo más importante y exclusivo de nuestro sistema de Vedānta.
 Es la doctrina
 que mantiene que la relación entre Iśvara
 y el mundo de los seres sintientes
-y cosas no sensibles  
+y cosas no sintientes  
 es que entre el alma y el cuerpo.
 
 (Otra es la doctrina de que cada palabra,  
@@ -196,7 +196,7 @@ for whose purposes they exist.
 
 Iśvara se llama el yo o alma interior (sariri),
 Porque mientras existan,
-Él está, con respecto a sustancias sensibles y no sensibles (Dravya),
+Él está, con respecto a sustancias sensibles y no sintientes (Dravya),
 su apoyo (ādhāra),
 su controlador o gobernante (niyantā)
 y su Señor o Maestro (Śeṣī)
@@ -231,7 +231,7 @@ throughout their existence.
 
 <details><summary>Español</summary>
 
-Los seres sensibles y las cosas no sensibles forman su cuerpo,
+Los seres sensibles y las cosas no sintientes forman su cuerpo,
 ya que, con respecto a él,
 se paran como sustancias apoyadas por él,
 controlado por él,
@@ -270,7 +270,7 @@ as  befitting[^22] each of these two (svarūpa and saṅkalpa).
 
 Iśvara se llama el seguidor  
 y el controlador o regla  
-de todos los seres sintientes y las cosas no sensibles,  
+de todos los seres sintientes y las cosas no sintientes,  
 Porque desde su swarupa o naturaleza esencial  
 y su saṅkalpa o voluntad,  
 derivan su existencia, continuación y actividades  
@@ -310,7 +310,7 @@ Así como Iśvara es la morada, āśraya o ādhāra (apoyo)
 de los atributos que definen su naturaleza esencial (svarūpa a Viz. Satyam, jñānan, anantam y similares)  
 y de las otras cualidades poseídas por él con su naturaleza esencial tan definida (cualidades Al igual que la compasión y la accesibilidad),  
 también es el apoyo inseparable y directo (āsraya o ādhāra)  
-de todas las sustancias (sensibles y no sensibles) que no sean él.
+de todas las sustancias (sensibles y no sintientes) que no sean él.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -436,7 +436,7 @@ depend entirely on the existence of their support (i. e.) Isvara.
 <details><summary>Español</summary>
 
 En relación con Iśvara,  
-todas (sustancias), sensibles y no sensibles,  
+todas (sustancias), sensibles y no sintientes,  
 son atributos que son inseparables de él (aprithaksiddha viśeṣaṇas).
 Por lo tanto su existencia y similar
 depende completamente de la existencia de su apoyo (i. E.) Isvara.
@@ -880,7 +880,7 @@ cómo Iśvara es el Śeṣin de todos:
 
 > El [^f49] el enunciado de los Upaniṣads es en el sentido de que
 >
->> El Señor toma en cosas sensibles y no sensibles  
+>> El Señor toma en cosas sensibles y no sintientes  
 > Para el cumplimiento de sus propios propósitos,  
 > siendo la causa de su existencia, su continuación y su control.
 > 
@@ -921,7 +921,7 @@ This is being śeṣī .
 
 <details><summary>Español</summary>
 
-Existen seres sintientes y cosas no sensibles  
+Existen seres sintientes y cosas no sintientes  
 no por su propio bien  
 pero para el cumplimiento de los propósitos de Dios.  
 Su naturaleza siempre debe existir  
@@ -1673,8 +1673,8 @@ Iśvara se revela como el śeṣī (es decir) como uno para quien
 todo lo demás existe.  
 
 Él se para en la relación de Śeṣī  
-tanto a los seres sintientes como a las cosas no sensibles en común.  
-En relación con las cosas no sensibles, él es Śeṣī,
+tanto a los seres sintientes como a las cosas no sintientes en común.  
+En relación con las cosas no sintientes, él es Śeṣī,
 Porque existen para sus propósitos.  
 En relación con seres sintientes o jīvas dotados de inteligencia,  
 Él es Śeshī en el sentido especial de ser Swami (es decir) Maestro  
@@ -1704,7 +1704,7 @@ but we are śeṣas in the special sense also of being His servants (dāsāh).
 <details><summary>Español</summary>
 
 Nuestro ser Śeṣa para el Señor  
-Compartimos en común con cosas no sensibles  
+Compartimos en común con cosas no sintientes  
 Pero somos Śeṣas en el sentido especial también de ser sus siervos (dāsāh).
 </details>
 
@@ -1760,7 +1760,7 @@ is revealed in the purport or implication.
 <details><summary>Español</summary>
 
 La forma específica de ser Śeṣas  
-que se aplica solo a Jīvas (y no a cosas no sensibles)  
+que se aplica solo a Jīvas (y no a cosas no sintientes)  
 y que realmente es ser los siervos del Señor (dāsas) y de ser el swami o maestro  
 se revela en el significado o la implicación.
 </details>

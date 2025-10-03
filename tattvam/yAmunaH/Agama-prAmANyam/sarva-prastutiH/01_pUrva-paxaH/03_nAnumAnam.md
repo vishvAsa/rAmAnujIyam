@@ -48,6 +48,13 @@ Relation of means to ends - namely, the Pañcaratra postulation that such tantri
 न ह्य् अ-दृष्ट-चर-वह्नयस् तद्-अविना-भावितया धूमम् अनुसंदधति ।+++(5)+++
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Siddhitraya: Īśvara°, pp. 233-34, for almost parallel statements.
+
+दीक्षाराधन-स्वर्गादीनां साध्य-साधन-भावे इत्य् अर्थः।
+</details>
+
 <details><summary>Buitenen</summary>
 
 9\. Not only is there no Perception,  

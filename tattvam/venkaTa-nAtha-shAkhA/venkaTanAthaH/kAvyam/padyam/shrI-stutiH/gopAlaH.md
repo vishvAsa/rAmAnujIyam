@@ -6,6 +6,8 @@ TODO: परिष्कार्यम्
 
 Source: [TW](https://archive.org/details/sri-stuti/page/251/mode/2up)  
 
+[TW](https://archive.org/details/sri-stuti_202507)
+
 ॥ श्रीस्तुतिः ॥  
 
 

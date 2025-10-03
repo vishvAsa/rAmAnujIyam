@@ -7642,7 +7642,7 @@ there is also spotlessness or freedom from all impurity or defect (nirmalatva).
 Cuando **consideramos** esta forma natural y pura del Jivātma,  
 **parecerá** que **está libre** 
 
-de la inercia y otros defectos similares de las cosas no sensibles  
+de la inercia y otros defectos similares de las cosas no sintientes  
 
 y así también de cosas como dolor, sufrimiento, etc.,
 que se encuentran en Saṁsāra.
@@ -9581,7 +9581,7 @@ resulting from such things as the mūlamantra.
 
 <details><summary>Español</summary>
 
-Aunque esta conexión con el tattva (real) no sensible **llamado** Ahankāra **continúa existiendo**,  
+Aunque esta conexión con el tattva (real) no sintiente **llamado** Ahankāra **continúa existiendo**,  
 sus efectos en forma de enfermedad de la **presunción** (abhimana) y similares  
 que **son** ilusorios  
 **son curados** por la medicina en forma de discriminación (Viveka)  
@@ -14940,7 +14940,7 @@ y
 (El lugar de **descanso** de Nārās). 
 
 La palabra nārās **está** aquí **determinada** en significado  
-y **denota** solo los nārās (seres sensibles y cosas no sensibles)  
+y **denota** solo los nārās (seres sensibles y cosas no sintientes)  
 y **no se refiere** también al Señor que **es** su yo interno.  
 Por lo tanto, las dos palabras **no están** en **aposición** gramatical.
 </details>
@@ -15954,7 +15954,7 @@ so ra (in nara) denotes non-sentient things (i.e.) matter which perishes - (i. e
 <details><summary>Español</summary>
 
 La raíz verbal "rin" **significa** "**perecer**";  
-Entonces RA (en NARA) **denota** cosas no sensibles (es decir)  
+Entonces RA (en NARA) **denota** cosas no sintientes (es decir)  
 que **perece** - (es decir) **cambia** su naturaleza esencial (svarūpa).
 </details>
 
@@ -16846,7 +16846,7 @@ que **mantienen** la posibilidad de **reunir** cosas que **se oponen**
 ऎऩ्ऱु करुत्तु।
 </details>
 
-### बहु-शब्द-वाच्यता
+### देवस्य बहु-शब्द-वाच्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गु प्रथमाक्षरत्तालुम्  
@@ -16900,6 +16900,13 @@ y que dos de ellos son, por lo tanto, redundantes).
 इङ्गु प्रथमाक्षरत्तालुम् नारशब्दत्तिल् प्रकृतियाऩ नरशब्दत्तालुम् अयनशब्दत्तालुम् सर्वेश्वरऩैच् चॊल्लुगिऱबोदु रक्षकत्वकारणत्वनित्यत्वनेतृत्वाधारत्वान्तर्यामित्वादिगळाऩ आकारभेदङ्गळाले मूऩ्ऱुम् सप्रयोजनङ्गळ्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि मूलमन्त्रत्तिल् प्रथमाक्षरमाऩ अकारमुम् नारशब्दप्रकृतियाऩ नरशब्दमुम् अयनशब्दमुम् भगवाऩैये सॊल्लुगिऱदॆऩ्ऱाल् पौनरुक्त्यम् वारादो वॆऩ्ऩ आकारभेदमिरुप्पदालदु वारादॆऩ्गिऱार् इङ्गु इत्यादिना । अकारत्ताले रक्षकत्वकारणत्वाकारङ्गळैयुम्, नरशब्दत्ताले नित्यत्वनेतृत्वाकारङ्गळैयुम्, अयनशब्दत्ताले युपायत्वोपेयत्वाकारङ्गळैयुम् सॊल्लुगैयाल् ऎल्लाम् सप्रयोजनमागैयाल् पौनरुक्त्यमिल्लैयॆऩ्ऱु करुत्तु।
+</details>
+
+
+#### जीव-प्राधान्य-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > प्रणवत्तिल् तृतीयाऽक्षरत्ताले  
@@ -16931,6 +16938,11 @@ Si **se le pregunta**:
 प्रणवत्तिल् तृतीयाक्षरत्ताले चेतनऩै प्रकाशिप्पिक्कच्चॆय्दे इङ्गु नारशब्दत्ताले मीण्डुञ् जॊल्लुवाऩेऩॆऩ्ऩिल्;
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदऩाल् एकाकारावच्छिन्नवस्तुवै मऱुबडि मऱुबडि सॊल्लुमिडत्तिलेये पौनरुक्त्य दोषत्तिऱ्कु प्रसक्तियॆऩ्ऱु सॊल्लिऱ्ऱायिऱ्ऱु। ईश्वरवाचकशब्दङ्गळिल् पौनरुक्त्यदोषत्तै परिहरित्तु जीववाचकमकारनारशब्दङ्गळिल् पौनरुक्त्यत्तै शङ्गित्तुप् परिहरिक्किऱार् प्रणवत्तिलित्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -16942,12 +16954,7 @@ Si **se le pregunta**:
 ऎऩ्ऱुम्, 
 </details>
 
-<details><summary>मूलम्</summary>
-
-८६’’नाऩुऩ्ऩै यऩ्ऱियिलेऩ्गण्डाय् नारणऩे नी यॆऩ्ऩैयऩ्ऱियिलै’’(नाऩ्मुगऩ् तिरुवन्दादि ७) यॆऩ्ऱुम्, 
-</details>
-
-
+<details><summary>English</summary>
 
 The answer is as follows: 
 
@@ -16955,23 +16962,996 @@ The answer is as follows:
 Thou dost not exist without me,  
 (for I bring out Thy character.) " 
 
-"Rāma's younger brother (Lakṣmaṇa), and Lakṣmaṇa's elder brother". (In the two passages mentioned above, there is apparent repetition, but it is not a fault since it serves a definite purpose). (In the first passage ), the first part of the sentence emphasises the importance of the śeṣī and the second emphasises the importance of the śeṣa; so also (in the secodd. passage ) Rāma's importance is hinted at in Rāmānuja (Rāma's younger brother) and Lakṣmaṇa's importance is hinted at in Lakṣmaṇapurvaja (Lakṣmaṇa's elder brother): Thus each is characterised by the other. In the praṇava, the śeṣī's inportance is prominent as in the chariot of Arjuna ( where Arjuna is prominent and Śrī Kṛṣṇa is not, being only the charioteer ); in the word Nārāyaṇa, the śeṣī's importance is prominent as in the Rasamandala (the Rasakrida described in the Bhāgavatam), where Śrī Kṛṣṇa is all-important and the Gopis not so.
+</details>
 
-Even in the praṇava, though verbally the jīva is prominent, the prominence, so far as the purport is considered, is of the Protector or Saviour.
+<details><summary>Español</summary>
 
-The jīva who appears in the praṇava as of the form (ākāra) of jñāna, both in his essential nature and in his attribute, and also as being atomic (aṇu), is described in the word Nara as eternal (without change or deterioration.) Further since Narāh means 'the multitude of naraś, it makes clear the fact of the jīvas being different from one another. If (on the other hand) we take the word Nārah to mean those who have their origin from Nara (Bhagavān ), it indicates that the jīvas have Brahman for their cause (in so-far as their embodiment is concerned). Owing to these additional meanings appearing in the word (Nārāyaṇa), the two words serve a purpose ( and are not redundant).
+La respuesta **es** la siguiente: 
 
-(When the word Nārāyaṇa is taken as a bahuvrihi compound which can be split into Nārāh ayanam yasya), the word ayana is in grammatical co-ordination with Nārāh. By the word ayana, such ideas as their (nārāh) being pervaded by Bhagavān are to be understood. The meaning of the śruti  that in regard to many chetanas who are eternal, one Cetana who is eternal is the cause of their attaining the desired objects--this meaning may also be seen here.
+> "**No existo** sin ti, (mi apoyo);  
+**No existes** sin mi  
+(Porque **saco** a tu personaje.) "
+</details>
 
-It is true that the jīva is, according to the pramāṇas, eternal. When he was described before as taking his origin from Brahman, what was meant was that, in respect of his body which is his attribute, the origin was from Brahman (but not his essential nature, which is eternal.)
+
+<details><summary>मूलम्</summary>
+
+८६’’नाऩुऩ्ऩै यऩ्ऱियिलेऩ्गण्डाय् नारणऩे नी यॆऩ्ऩैयऩ्ऱियिलै’’(नाऩ्मुगऩ् तिरुवन्दादि ७) यॆऩ्ऱुम्, 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नाऩुऩ्ऩैयित्यादि । नाऩ् - त्वदेकधार्यऩाऩ नाऩ्। उऩ्ऩैयऩ्ऱि - धारकऩाऩ उऩ्ऩैविट्टु, इलेऩ् सत्तावाऩाग आगमाट्टेऩ्। नी - नारऩाऩ ऎऩ्ऩै निरूपकमागवुडैय नी,ऎऩ्ऩैयऩ्ऱि - निरूपकभूतऩाऩ ऎऩ्ऩैयॊऴिय, इलै - सिद्धिक्कमाट्टाय्। इप् पासुरत्तिल् नारणऩे ऎऩ्बदाल् पूर्वापरत्तिऱ् सॊऩ्ऩ इदु नारायणशब्दार्थमॆऩ्ऱु सूचितम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ८७‘‘रामानुजं लक्ष्मण-पूर्वजञ् च’’  
+(रामायणम् सुन्दरकाण्डम् २८-१०)
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ८७‘‘रामानुजं लक्ष्मण-पूर्वजञ् च’’  
+(रामायणम् सुन्दरकाण्डम् २८-१०)
+
+</details>
+
+<details><summary>English</summary>
+
+> "Rāma's younger brother (Lakṣmaṇa),  
+and Lakṣmaṇa's elder brother".  
+</details>
+
+<details><summary>Español</summary>
+
+> "El hermano menor de Rāma (Lakṣmaṇa),  
+y el hermano mayor de Lakṣmaṇa ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+८७‘‘रामानुजं लक्ष्मणपूर्वजञ्च’’(रामायणम् सुन्दरकाण्डम् २८-१०)ऎऩ्ऱुञ् जॊल्लुगिऱबडिये 
+</details>
+
+
+<details><summary>English</summary>
+
+(In the two passages mentioned above, there is apparent repetition,  
+but it is not a fault since it serves a definite purpose). 
+
+(In the first passage ), the first part of the sentence emphasises the importance of the śeṣī  
+and the second emphasises the importance of the śeṣa;  
+so also (in the second passage )  
+Rāma's importance is hinted at in Rāmānuja (Rāma's younger brother)  
+and Lakṣmaṇa's importance is hinted at in Lakṣmaṇapurvaja (Lakṣmaṇa's elder brother).  
+</details>
+
+<details><summary>Español</summary>
+
+(En los dos pasajes **mencionados** anteriormente, **hay** aparente **repetición**,  
+pero **no es** una falla ya que **tiene** un propósito definitivo). 
+
+(En el primer pasaje), la primera parte de la **oración enfatiza** la importancia del Śeṣī  
+y el segundo **enfatiza** la importancia del Śeṣa;  
+Así también (en el segundo pasaje)  
+La importancia de Rāma **se insinúa** en Rāmānuja (el hermano menor de Rāma)  
+y la importancia de Lakṣmaṇa **se insinúa** en Lakṣmaṇapurvaja (el hermano mayor de Lakṣmaṇa).
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+रामानुजमित्यादि । रामानुजमॆऩ्बदिल् शेषियाऩ रामऩाले शेषऩाऩ लक्ष्मणऩ् निरूपिक्कप्पट्टाऩ्; लक्ष्मपूर्वजञ्च ऎऩ्गिऱ पदत्तिल् शेषऩाऩ लक्ष्मणऩाले शेषियाऩ रामऩ् निरूपिक्कप्पट्टाऩ् ऎऩ्गै। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऒऩ्ऱैय् इट्ट् ऒऩ्ऱै निरूपिया निऩ्ऱाल् 
+</details>
+
+<details><summary>English</summary>
+
+Thus each is characterised by the other. 
+</details>
+
+<details><summary>Español</summary>
+
+Así, cada uno **se caracteriza** por el otro.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऒऩ्ऱैयिट्टॊऩ्ऱै निरूपिया निऩ्ऱाल् 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(कृष्ण-सारथिकोऽपि)+++ अर्जुन-रथम् पोले प्रणवं शेष-प्रधानम् आगैयालुम्
+</details>
+
+<details><summary>English</summary>
+
+In the praṇava, the śeṣī's importance is prominent as in the chariot of Arjuna  
+( where Arjuna is prominent  
+and Śrī Kṛṣṇa is not, being only the charioteer ); 
+</details>
+
+<details><summary>Español</summary>
+
+En el praṇava, la importancia del Śeṣī **es** prominente como en el carro de Arjuna  
+(Donde Arjuna **es prominente**  
+y Śrī Kṛṣṇa **no lo es**, **siendo** solo el auriga);
+</details>
+
+<details><summary>मूलम्</summary>
+
+अर्जुनरथम् पोले प्रणवं शेषप्रधानमागैयालुम्
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अर्जुनरथम्बोले प्रणवम् शेषप्रधानमागैयालुमिति । अर्जुनरथत्तिल् शेषभूतऩाऩ अर्जुनऩ् रथियागैयाल् प्रधानऩायुम्, भगवाऩ् सारथियागैयाले अप्रधानऩायुम् काट्टप्पट्टऩर्। अप्पडिये प्रणवत्तिलुम् अकारार्थमाऩ भगवाऩ् चतुर्थ्यर्थशेषत्वत्तिऱ्कु निरूपकमागैयाले अप्रधानऩायुम् मकारार्थमाऩ जीवऩ् अन्द चतुर्थ्यर्थशेषत्वत्तिऱ्कु आश्रयऩागैयाले प्रधानऩायुम् काट्टप्पट्टाऩॆऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रास-मण्डलम् बोले नारायण-शब्दम् शेषि-प्रधानम् आगैयालुम्  
+पुनर्-उक्तिय् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+in the word Nārāyaṇa, the śeṣī's importance is prominent as in the Rasamandala (the Rasakrida described in the Bhāgavatam),  
+where Śrī Kṛṣṇa is all-important and the Gopis not so.
+</details>
+
+<details><summary>Español</summary>
+
+En la palabra nārāyaṇa, la importancia del Śeṣī **es** prominente como en el rasamandala (el rasakrida descrito en el bhāgavatam),  
+donde Śrī Kṛṣṇa **es** muy importante y los Gopis **no son** así.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रासमण्डलम्बोले नारायणशब्दम् शेषिप्रधानमागैयालुम् पुनरुक्तियिल्लै।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+रासमण्डलम्बोले नारायणशब्दम् शेषिप्रधानमागै यालुमिति । रासमण्डलमावदु- तिरुवाय्प्पाडियिल् यमुऩैयिऩ् पुळिनत्तिल्, 
+
+> ‘‘अङ्गनाम् अङ्गनाम् अन्तरे माधवो  
+माधवं माधवञ् चान्तरे चाङ्गना ।  
+इत्थम् आकल्पिते मण्डले मध्यगः॥’’ 
+
+ऎऩ्ऱु सॊल्लुगिऱबडि ऒव्वॊरु गोपियुम्,  
+अनेक-रूपत्तै धरित्त ऒव्वॊरु कृष्णऩुम् कैगळैक् कोत्तुक्कॊण्डु मण्डलमाग निऩ्ऱुगॊऩ्डु रसविशेषत्तै अनुभवित्त कृष्णगोपीसमुदायम्। अदिल् गोपिकळ् अप्रधानर्गळायुम्, कृष्णऩ् रसविशेषजनकऩाय्क्कॊण्डु प्रधानऩायुम् निऱ्कैयाल् अदु शेषिप्रधानम्। अप्पडिये नारायणशब्दम् नारङ्गळै शेषङ्गळायुम् अवैगळुक्कु अयनत्वेन नारायणऩै शेषियागवुम् काट्टुगैयाले शेषिप्रधानमॆऩ्ऱु करुत्तु।
+
+तथाच प्रणवत्तिल् मकारार्थम् प्रधानमागत् तोऩ्ऱुगैयालुम्, नारायणशब्दत्तिल् नारशब्दार्थम् अप्रधानमागत्तोऩ्ऱुगैयालुम् आकारभेदमिरुप्पदाले पौनरुक्त्यमिल्लैयॆऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रणवन्-तऩ्ऩिलुम्  
+शाब्द-प्राधान्यम् जीवऩुक्क् आऩालुम्  
+रक्षकऩाऩ शेषिक्के आर्थम् प्राधान्यम्।
+</details>
+
+<details><summary>English</summary>
+
+Even in the praṇava, though verbally the jīva is prominent,  
+the prominence, so far as the purport is considered, is of the Protector or Saviour.
+</details>
+
+<details><summary>Español</summary>
+
+Incluso en la praṇava, aunque verbalmente el Jīva **es** prominente,  
+La prominencia, en la medida en que **se considera** el significado, **es** del protector o salvador.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रणवन्दऩ्ऩिलुम् शाब्द प्राधान्यम् जीवऩुक्काऩालुम् रक्षकऩाऩ शेषिक्के आर्थम् प्राधान्यम्।
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ननु प्रणवत्तिल् रक्षकऩाऩ भगवाऩैक्काट्टिलुम् रक्ष्यऩाऩ जीवऩुक्कु प्राधान्यम् तोऱ्ऱुगिऱदॆऩ्ऱाल् ईश्वरप्राधान्यम् सॊल्लुम् शास्त्रत्तिऱ्कु विरोधम् वारादोवॆऩ्ऩ, इङ्गु जीवऩुक्कुच् चॊऩ्ऩ प्राधान्यम् शाब्दबोधत्तिल् विशेष्यत्वरूपमागैयालुम्, शास्त्रत्तिल् सॊल्लुम् आर्थप्राधान्यम् अकारार्थमाऩ रक्षकऩुक्केयागैयालुम् विरोधम् वारादॆऩ्गिऱार् प्रणवन्दऩ्ऩिलुमित्यादियाल्।  
+शाब्दप्राधान्यम् जीवऩुक्काऩालुमिति । अकारार्थशेषभूतो मकारार्थः ऎऩ्गिऱविडत्तिल् प्रथमान्तार्थमुख्यविशेष्यकशाब्दबोधत्तै ऒप्पुक्कॊळ्ळुम् नैयायिकमतरीत्या प्रथमान्तमकारार्थमाऩ जीवऩुक्कु अकारार्थशेषत्वप्रकारकशाब्दबोधनिरूपितमुख्यविशेष्यत्वमुण्डाऩालुमॆऩ्ऱबडि। रक्षकऩाऩ शेषिक्के आर्थम् प्राधान्यमिति । अर्थस्वभावत्ताले वरुम् उत्कर्षम् रक्षगऩाऩ ईश्वर-ऩुक्के ऎऩ्ऱबडि। रक्ष्यरक्षकर्गळुक्कुळ् रक्षकऩुक्कऩ्ऱो प्राधान्यम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रणवत्तिले स्व-रूपत्तालुम् गुणत्तालुम् ज्ञानाकारऩ् आय् 
+</details>
+
+<details><summary>English</summary>
+
+The jīva who appears in the praṇava as of the form (ākāra) of jñāna,  
+both in his essential nature and in his attribute, 
+</details>
+
+<details><summary>Español</summary>
+
+El Jīva que **aparece** en la praṇava como de la forma (ākāra) de jñāna,  
+tanto en su naturaleza esencial como en su atributo,
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रणवत्तिलेस्वरूपत्तालुम् गुणत्तालुम् ज्ञानाकारऩाय् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि मकारनारशब्दङ्गळिले जीवऩुक्कु मुऱैये प्राधान्यमुम् अप्राधान्यमुम् तोऱ्ऱुगैयाल् पौनरुक्त्यमिल्लैयॆऩ्ऱु सॊल्लि, मकारनारशब्दङ्गळिल् जीवऩुक्कु ज्ञानस्वरूपत्व ज्ञानगुणकत्व नित्यत्वाद्याकारभेदम् तोऱ्ऱुगैयालुम् प्रयोजनम् सिद्धिप्पदाल् पौनरुक्त्यमिल्लै यॆऩ्गिऱार् प्रणवत्तिले इत्यादियाल्। 
+</details>
+
+
+#### जीव-विशेषणैर् भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रत्यक्क् आय्,  
+अणुव् आय्त् तोऱ्ऱिऩ जीवऩुक्कु 
+</details>
+
+<details><summary>English</summary>
+
+and also as being atomic (aṇu), 
+</details>
+
+<details><summary>Español</summary>
+
+y también como atómico (aṇu),  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रत्यक्कायणुवाय्त्तोऱ्ऱिऩ जीवऩुक्कु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**नार**-शब्दम् क्षयम् इल्लाद्-अवऩ् ऎऩ्ऱु नित्यत्वञ् जॊल्लुगैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+is described in the word Nara as eternal (without change or deterioration.) 
+</details>
+
+<details><summary>Español</summary>
+
+**se describe** en la palabra nara como eterna (sin **cambio** o **deterioro**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नारशब्दम् क्षयमिल्लादवऩॆऩ्ऱु नित्यत्वञ्जॊल्लुगैयालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नरर्-उडैय समूहत्तैच् चॊल्लुगैयाले  
+जीवर्गळ्-उडैय अन्योऽन्य-भेदत्तै व्यक्तम् आक्कुगैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+Further since Narāh means 'the multitude of naraś',  
+it makes clear the fact of the jīvas being different from one another. 
+</details>
+
+<details><summary>Español</summary>
+
+Además desde que Narāh **significa** 'la multitud de Naraś',  
+**Deja** en claro el hecho de que los Jīvas **son** diferentes entre sí.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नररुडैय समूहत्तैच् चॊल्लुगैयाले जीवर्गळुडैय अन्योन्यभेदत्तै व्यक्तमाक्कुगैयालुम् 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नररुडैय समूहत्तैच् चॊल्लुगैयाले जीवर्गळुडैय वन्योन्यभेदत्तै व्यक्तमाक्कुगैयालुमित्यादि । प्रणवत्तिलुळ्ळ मकारम् पोलऩ्ऱिक्के नारशब्दम् नरसमूहविवक्षया जीवर्गळुडैय परस्परभेदप्रकाशकमागैयालुम्, नरजातत्वविवक्षया प्रकृतिविशिष्टवेषेण ब्रह्मकार्यत्वप्रकाशकमागैयालुम् सप्रयोजनमागैयाल् पौनरुक्त्यमिल्लैयॆऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"नराज् जातङ्गळ् नारङ्गळ्" ऎऩ्ऱ बोदु  
+विशिष्ट-वेषत्तालुम् +++(शरीर-सम्बन्धे)+++ ब्रह्म-कार्यत्वन् तोऱ्ऱुगैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+If (on the other hand) we take the word Nārah to mean those who have their origin from Nara (Bhagavān ),  
+it indicates that the jīvas have Brahman for their cause (in so far as their embodiment is concerned). 
+</details>
+
+<details><summary>Español</summary>
+
+Si (por otro lado) **tomamos** la palabra nārah para **significar** aquellos que **tienen** su origen de nara (bhagavān),  
+**Indica** que los Jīvas **tienen** a Brahman por su causa (en lo que respecta a su **encarnación**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नराज्जातङ्गळ् नारङ्गळॆऩ्ऱबोदु विशिष्टवेषत्तालुम् ब्रह्मकार्यत्वन्दोऱ्ऱुगैयालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पद-द्वयत्तुक्कुम् प्रयोजन-भेदम् उण्डु।
+</details>
+
+<details><summary>English</summary>
+
+Owing to these additional meanings appearing in the word (Nārāyaṇa),  
+the two words serve a purpose ( and are not redundant).
+</details>
+
+<details><summary>Español</summary>
+
+Debido a estos significados adicionales que **aparecen** en la palabra (nārāyaṇa),  
+Las dos palabras **tienen** un propósito (y **no son** redundantes).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पदद्वयत्तुक्कुम् प्रयोजनभेदमुण्डु।
+</details>
+
+##### व्याप्यत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(बहु-व्रीहि-विग्रहे)+++ नार-शब्द-समानाधिकरणम् आऩ अयन-शब्दत्ताले  
+इवऱ्ऱुक्कु व्याप्यत्वादिगळुङ् कण्डु कॊळ्वदु। 
+</details>
+
+<details><summary>English</summary>
+
+(When the word Nārāyaṇa is taken as a bahuvrihi compound  
+which can be split into "NārāH ayanam yasya"),  
+the word ayana is in grammatical co-ordination with NārāH.  
+By the word ayana, such ideas as their (nārāh) being pervaded by Bhagavān are to be understood. 
+</details>
+
+<details><summary>Español</summary>
+
+(Cuando la palabra nārāyaṇa **se toma** como un compuesto de bahuvrihi  
+que **se puede dividir** en "nārāh ayanam yasya"),  
+La palabra ayana **está** en **coordinación** gramatical con nārāh.  
+Por la palabra Ayana, **se deben entender** las ideas como sus (nārāh) **ser impregnados** por Bhagavān.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नारशब्दसमानाधिकरणमाऩ अयनशब्दत्ताले इवऱ्ऱुक्कु व्याप्यत्वादिगळुङ्गण्डु कॊळ्वदु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि आकारभेदबोधकमागैयाल् मकारमुम् नारशब्दमुम् अपुनरुक्तमॆऩ्ऱाल् बहुव्रीहिसमासत्तिल् अयनशब्दत्तालुम् जीवऩैये सॊल्लुगैयाल् पौनरुक्त्यम् वारादोवॆऩ्ऩ, अङ्गुमाकारभेदम् काणलामॆऩ्गिऱार् नारशब्दसमानाधिकरणमाऩ इत्यादियाल्। 
+</details>
+
+
+##### अभिमत-प्राप्ति-हेतुः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नित्यर् आऩ पल चेतनर्क्कु  
+ऒरु नित्यऩ् आऩ चेतनऩ् अभिमत+++(-प्राप्ति)+++-हेतुव्  
++++(← "नित्यो नित्यानां चेतनश् चेतनानाम्")+++
+
+ऎऩ्गिऱ श्रुत्य्-अर्थमुम्  
+इङ्गे कण्डु-गॊळ्वदु। 
+</details>
+
+<details><summary>English</summary>
+
+The meaning of the śruti  that in regard to many chetanas who are eternal,  
+one Cetana who is eternal  
+is the cause of their attaining the desired objects--  
+this meaning may also be seen here.
+</details>
+
+<details><summary>Español</summary>
+
+El significado del Śruti que, con respecto a muchas chetanas, que **son** eternas,  
+una cetana que **es** eterna  
+**es** la causa de alcanzar los objetos deseados  
+Este significado también **se puede ver** aquí.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नित्यराऩ पल चेतनर्क्कु ऒरु नित्यऩाऩ चेतनऩभिमतहेतुवॆऩ्गिऱ श्रुत्यर्थमुमिङ्गे कण्डुगॊळ्वदु। 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नारशब्दप्रकृतियाऩ नरशब्दत्ताले जीवऩ्गळुक्कु नित्यत्वत्तैच् चॊल्लुगैयालुम्, 
+समूहार्थकाण्-प्रत्ययत्ताले अवर्गळुक्कु बहुत्वत्तैच् चॊल्लुगैयालुम्,  
+‘‘नराज्जातानि तत्त्वानि’’ ऎऩ्गिऱ वसनप्पडि नरशब्दत्ताले नित्यऩाऩ भगवाऩैच् चॊल्लुगैयालुम्,  
+‘‘नरात्’’ ऎऩ्ऱु एकवचनत्ताले अवऩुक्कु एकत्वत्तैच् चॊल्लुगैयालुम्,  
+अयनशब्दत्तिल् करणव्युत्पत्तियाले कामप्रापकत्वत्तैच् चॊल्लुगैयालुम्  
+नारायणशब्दत्तिलेये 
+
+> ‘‘नित्यो नित्यानां चेतनश् चेतनानाम्  
+एको बहूनां यो विदधाति कामान्’’ 
+
+ऎऩ्गिऱ श्रुत्यर्थत्तैक् काणलामॆऩ्गिऱार् नित्यराऩ पल चेतनर्क्कु इत्यादिना । 
+</details>
+
+
+##### नित्यत्वे कार्यत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्यऩ् आग प्रमाण-सिद्धऩ् आऩ जीवऩुक्कु ब्रह्म-कार्यत्वम्  
+विशेषण-द्वारकम्।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+It is true that the jīva is, according to the pramāṇas, eternal.  
+When he was described before as taking his origin from Brahman,  
+what was meant was that,  
+in respect of his body which is his attribute,  
+the origin was from Brahman  
+(but not his essential nature, which is eternal.)
+</details>
+
+<details><summary>Español</summary>
+
+**Es** cierto que el Jīva **es**, según los Pramāṇas, eterno.  
+Cuando **fue descrito** antes como **tomando** su origen de Brahman,  
+Lo que **se entendió fue** que,  
+con respecto a su cuerpo, que **es** su atributo,  
+El origen **era** de Brahman  
+(Pero **no** su naturaleza esencial, que **es** eterna).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नित्यऩाग प्रमाणसिद्धऩाऩ जीवऩुक्कु ब्रह्मकार्यत्वम् विशेषण द्वारकम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि नाराणां समूहो नारमॆऩ्गिऱ व्युत्पत्तियिल् जीवनित्यत्वमुम्, बहुत्वमुम् सॊल्लप्पट्टदॆऩ्ऱाल्, नराज्जातानि तत्वानि नाराः ऎऩ्गिऱ व्युत्पत्तियिल् चेतनाचेतनतत्वसामान्यमुम् नरऩाऩ भगवाऩिडमिरुन्दु उण्डाऩवैयॆऩ्ऱु सॊल्लुवदु कूडुमो ऎऩ्ऩवरुळिच्चॆय्गिऱार् नित्यऩाग प्रमाणसिद्धऩाऩ जीवऩुक्कु इत्यादियाल् विशेषणद्वारकम् - देहद्वारकम्, सङ्कोच-विकासवत्ताऩ ज्ञानद्वारकमॆऩ्ऩवुमाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि नारायणात्मकादि-कल्पङ्गळिले सॊऩ्ऩ व्युत्पत्त्य्-अन्तरङ्गळुम् ऎल्लाम्  
+इवऱ्ऱोडु तुल्यम्।
+</details>
+
+<details><summary>English</summary>
 
 The other interpretations which are given in kalpas like Narāyaṇatmaka are also similar to these.
+</details>
 
-In the śloka :-- “Both sentient beings and non-sentient things which are all different from Viṣṇu are called Nāram. He who has nāram as His ayanam (abode or resting place) is Nārāyaṇa" (in the light of this śloka) what was stated before (in Padmottaram), viz., Nārāh is the collection of all persons" should be taken in a wider sense (Upalakṣaṇa) to include also the collection of all tattvas (non-sentient included). Because even non-sentient matter is not perishable in its essential nature (svarūpa) and also owing to the continuity (pravāha) of the different states (avasthās) into which it changes, (even) non. sentient matter is eternal. Nārāh means therefore by implication (Upalakṣaṇa) all the tattvas which are eternal and which are denoted by the word Nara.
+<details><summary>Español</summary>
 
-"Nara means also Nārāyaṇa for the following reasons : (1) While pervading all (beings and things), He (i. e.) Nārāyaṇa is na ra (one who does not change or deteriorate), for He is not tainted by the faults or impurities in them and by the sufferings which might be caused by them; (2) the verbal root nr means " to lead": He who leads (souls) is Nara : (3) In the Sahasra nāma, Jahnu, Nārāyaṇa and Nara are said to be the names of Bhagavān : (4) In the passage, "The waters are the sons of Nara, the word Nara indicates only Nārāyaṇa and this is evident from the sentence in Vyasasmṛti :-- "The waters took their origin from Nārāyaṇa and they alone became afterwards His ayana or resting place". So the eternal and Supreme Ruler who leads all (to Himself ) is called by the name Nara.
+Las otras **interpretaciones**  
+que **se dan** en Kalpas como Narāyaṇatmaka  
+también **son** similares a estas.
+</details>
 
-In the Ahirbudhnyasamhitā (we find the following ślokas : “Those that are related to nara are nārāh. That nara is Puruṣottama. It is He that confers knowledge on those that have sought His protection. It is He that dispels all (their) ignorance. Wherever He may be, He does not updergo any change. Hence He is called Nara, because He is always the same (na ra), Sentient beings and non-sentient things that are related to Him are His śeṣas. They are supported by Him, controlled by Him and created by Him. He has entered into them for supporting them. Therefore are they called Nārāh (because they are sup ported, created and controlled by Nara). He controls all nārās; that is, by being within them, He pervades them in order to do such things as sustaining them. The nārāk are helpful (to us) in ander standing Him, for, by their existence is His existence understood. He is the ayana or abode of nārās and they are always His abode. To souls that are nārāh, He is the supreme end to be attained and also the means or upāya of attaining Him ". This interpretation makes it clear that those attributes which define the essential nature of the Supreme Being such as(satyam, jñānam and ānandam) and the qualities or attributes of the essential nature so defined, such as compassion, His activities and the specific forms assumed by Him and likewise the three kinds of sentient beings, (the bound, the released and the eternal) and all non-sentient things — all these are meant by the word nārāh. From all this it may be inferred that He has the attribute of being the support of all except Himself. Hence it declares also that He stands by Himself and in Himself (alone). From this, the delusion maintained by men of perverted vision (Advaitins) that Purusho tama, who pervades, supports, controls and masters them and the nārās who are related to Him are identical in their essential nature-this delusion will disappear, since it is evident that He is the soul of all and that He has such glories as that of being denoted by all words.
+
+<details><summary>मूलम्</summary>
+
+इप्पडि नारायणात्मकादिकल्पङ्गळिले सॊऩ्ऩव्युत्पत्त्यन्तरङ्गळुमॆल्लामिवऱ्ऱोडु तुल्यम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि सिल व्युत्पत्तिकळुक्कु निर्वाहम् सॊऩ्ऩालुम् नारायणात्मककल्पान्तरङ्गळिल् सॊऩ्ऩ व्युत्पत्त्यन्तरङ्गळै निर्वहिक्कुम् वऴि ऎऩ्ऩॆऩ्ऩ वरुळिच्चॆय्गिऱार् इप्पडि इत्यादियाल्। इवऱ्ऱोडु तुल्यमिति । अधिकार्थङ्गळाऩ व्युत्पत्त्यन्तरङ्गळिल्लामैयाले कल्पान्तरङ्गळिऱ्सॊऩ्ऩ व्युत्पत्त्यन्तरङ्गळुम् एतत्तुल्यनिर्वाहङ्गळॆऩ्ऱु करुत्तु।
+</details>
+
+
+### अ-चिद्-आदि-नरता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘चेतनाचेतनं सर्वं  
+विष्णोर् यद् **व्यतिरिच्यते** ।  
+नारन्, तद् **अयनञ्** चेदं  
+यस्य नारायणस् तु सः॥’’() 
+
+ऎऩ्गैयाले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘चेतनाचेतनं सर्वं  
+विष्णोर् यद् **व्यतिरिच्यते** ।  
+नारन् तद् **अयनञ्** चेदं  
+यस्य नारायणस् तु सः॥’’() 
+
+</details>
+
+<details><summary>English</summary>
+
+In the śloka :-- 
+
+> “Both sentient beings and non-sentient things which are all different from Viṣṇu  
+are called Nāram.  
+He who has nāram as His ayanam (abode or resting place) is Nārāyaṇa"  
+</details>
+
+<details><summary>Español</summary>
+
+En el Śloka:- 
+
+> “Tanto los seres sensibles y las cosas no sintientes que **son** diferentes de Viṣṇu  
+**se llaman** "nāram".  
+El que **tiene** a Nāram como su ayanam (morada o lugar de **descanso**) **es** nārāyaṇa "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘चेतनाचेतनं सर्वं विष्णोर्यद्व्यतिरिच्यते । नारन्तदयनञ्चेदं यस्य नारायणस्तु सः॥’’() ऎऩ्गैयाले 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि नरशब्दम् नित्यऩाऩ जीवऩैच् चॊल्लुगिऱदॆऩ्ऱुम्, नारशब्दम् अवर्गळुडैय समूहत्तैच् चॊल्लुगिऱदॆऩ्ऱुम्, अवैगळ् भगवाऩुक्कु अयनमागिऩ्ऱऩवॆऩ्ऱुम् सॊऩ्ऩाल्, 
+
+> ‘‘चेतनाचेतनं सर्वं  
+विष्णोर् यद् व्यतिरिच्यते ।  
+नारं, तद् अयनञ्चेदं  
+यस्य नारायणस्तु सः॥’’ 
+
+ऎऩ्गिऱ निर्वचनत्तिल् अचेतनत्तैयुम् सेर्त्तु चेतनाचेतनसमूहत्तिऱ्कु भगवदयनत्वम् सॊल्लुगिऱदु कूडुमोवॆऩ्ऩ वरुळिच् चॆय्गिऱार् चेतनाचेतनमित्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सर्व-पुंसां समूहः’’() 
+
+ऎऩ्ऱदुवुम् उपलक्षणमागैयाल्  
+क्षयिष्णुक्कळ् अल्लामैयाले 
+</details>
+
+<details><summary>English</summary>
+
+(In the light of this śloka) what was stated before (in Padmottaram), viz., 
+
+> "Nārāh is the collection of all persons" 
+
+should be taken in a wider sense (Upalakṣaṇa) to include also the collection of all tattvas (non-sentient included). 
+
+Because even non-sentient matter is not perishable in its essential nature (svarūpa)  
+</details>
+
+<details><summary>Español</summary>
+
+(A la luz de este Śloka) Lo que **se dijo** anteriormente (en Padmottaram),  
+a saber, 
+
+> "Nārāh **es** la colección de todas las personas"
+
+**Debe tomarse** en un sentido más amplio (upalakṣaṇa)  
+para **incluir** también la colección de todos los tattvas (no sintientes incluidos). 
+
+Porque incluso la materia no sensible **no es perecedera** en su naturaleza esencial (svarūpa)
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘सर्वपुंसां समूहः’’() ऎऩ्ऱदुवुम् उपलक्षणमागैयाल् क्षयिष्णुक्कळल्लामैयाले 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+विष्णोर्यद्व्यतिरिच्यते - विष्णुविऩुडैय स्वरूपत्तैक् काट्टिलुम् व्यतिरिक्तमाग यादॊरु वस्तुवुण्डो, उपलक्षणमागैयालिति । सर्वपुंसां ऎऩ्गिऱविडत्तिल् पुंशब्दत्तै अचित्तिऱ्कुम् उपलक्षणमागक् कॊळ्ळवेण्डुमागै यालॆऩ्ऱबडि। काकेभ्यो दधि रक्ष्यता मॆऩ्गिऱविडत्तिल् दध्युपघातकत्वम् उपलक्ष्याकारमा किऱाप्पोले इङ्गु चेतनाचेतनासाधारणमाऩ उपलक्ष्याकारम् घटिक्कुमोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् क्षयिष्णुक्कळल्लामैयाले इति । रः ऎऩ्गिऱ शब्दम् स्वरूपतो नाशत्तैच् चॊल्लुगिऱदॆऩ्ऱाल् नरशब्दम् स्वरूपतो नाशरहितचेतनाचेतनरूपमाऩ वस्तुद्वयत्तैयुम् सॊल्लुमागैयाल् नाशरहितत्वमे उपलक्ष्याकारमागलामॆऩ्ऱु करुत्तु।
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वरूपत्तालेयादल्, प्रवाहत्तालेयादल् नित्यङ्गळ् आय्  
+न-र-शब्द-वाच्यङ्गळ् आऩ सर्व-तत्त्वङ्गळ्-उडैय समूहङ्गळुम् नारङ्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+and also owing to the continuity (pravāha) of the different states (avasthās) into which it changes,  
+(even) non sentient matter is eternal.  
+
+Nārāh means therefore by implication (Upalakṣaṇa)  
+all the tattvas which are eternal  
+and which are denoted by the word Nara.
+</details>
+
+<details><summary>Español</summary>
+
+y también debido a la continuidad (pravāha) de los diferentes estados (avasthās) en el que **cambia**,  
+(incluso) la materia no sensible **es** eterna.
+
+Nārāh **significa** por lo tanto por **implicación** (upalakṣaṇa)  
+todos los tattvas que **son** eternos  
+y que **son denotados** por la palabra nara.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वरूपत्तालेयादल् प्रवाहत्तालेयादल् नित्यङ्गळाय् नरशब्दवाच्यङ्गळाऩ सर्वतत्त्वङ्गळुडैय समूहङ्गळुम् नारङ्गळ्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द स्वरूपतो नित्यत्वम् कार्यवर्गङ्गळिल् इल्लैये ऎऩ्ऩ वरुळिच्चॆय्गिऱार् प्रवाहत्तालेयादलिति । तथाच स्वरूपप्रयुक्त नित्यत्व प्रवाह प्रयुक्त नित्यत्वान्यतरवत्वमुपलक्ष्याकारमॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+
+### ब्रह्म-न-रता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-व्यापकत्वादि-विशिष्टऩ् आय् इरुक्कच् चॆय्दे  
+तद्+++(→व्याप्य)+++-गत-दोषङ्गळै तत्+++(→व्याप्य)+++-प्रयुक्त+++(→कृत)+++-दोषङ्गळैयुम् कऴिक्किऱ क्षय-रहितऩ् ऎऩ्गिऱ व्युत्पत्तियालुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(1) While pervading all (beings and things),  
+He (i. e.) Nārāyaṇa is "na ra" (one who does not change or deteriorate),  
+for He is not tainted by the faults or impurities in them  
+and by the sufferings which might be caused by them; 
+</details>
+
+<details><summary>Español</summary>
+
+(1) Mientras **impregna** todos (seres y cosas),  
+Él (i. E.) Nārāyaṇa **es** "na ra" (uno que **no cambia** o **se deteriora**),  
+porque **no está contaminado** por las fallas o impurezas en ellos  
+y por los **sufrimientos** que **podrían ser** causados ​​por ellos;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वव्यापकत्वादिविशिष्टऩायिरुक्कच्चॆय्दे तद्गतदोषङ्गळै तत्प्रयुक्तदोषङ् गळैयुम् कऴिक्किऱ क्षयरहितऩॆऩ्गिऱ व्युत्पत्तियालुम्, 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि नारशब्दत्तिऱ्कु व्युत्पत्त्यन्तरत्तैक् काट्टानिऩ्ऱुगॊण्डु नारायणशब्दत्तिऱ्कु अर्थान्तरमरुळिच्चॆय्गिऱार् सर्वव्यापकत्वादीत्यादिमहावाक्यत्ताले। इदिल् सर्वव्यापकत्वेत्यादि क्षयरहितऩॆऩ्गिऱ व्युत्पत्तियालुमित्यन्तमाऩ अवान्तरवाक्यत्ताल् नरशब्दव्युत्पत्तियाले लब्धमाऩ सर्वव्यापकत्वत्ताले शङ्कितमाऩ व्याप्यगतदोषमुम् व्याप्यप्रयुक्तगतदोषमुम् कऴिन्दु पोमॆऩ्गिऱदु। व्यापकत्वादि ऎऩ्गिऱविडत्तिल् आदिपदत्ताले शरीरित्वत्तिऱ्कु ग्रहणम्। तद्गतदोषङ्गळ् - स्वरूपान्यथाभावस्वभावान्यथाभावादिगळ्। 
+
+तत्प्रयुक्तदोषङ्गळ् - जीवऩुक्कुप् पोले शरीरसम्बन्धत्ताले वरुम् सुखदुःखादिगळ्, इदऩाल् उभयलिङ्गाधिकरणार्थमुम्, ‘‘सम्भोगप्राप्तिरितिचेन्न वैशेष्यात्’’ ऎऩ्गिऱ सूत्रत्तिऩ् अर्थमुम् सूचिप्पिक्कप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘नृ नये’’ इत्य्-आदिगळालुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(2) the verbal root nr means " to lead": He who leads (souls) is Nara 
+</details>
+
+<details><summary>Español</summary>
+
+(2) La raíz verbal "nr" **significa** "**liderar**":  
+el que **lidera** (almas) **es** nara
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नृ नये’’ इत्यादिगळालुम्, 
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ > ‘‘जह्नुर् नारायणो नरः’’  
+(भारतम् आनुशासनिक २३१-२९) 
+
+ऎऩ्ऱु नाम-धेयम् आगच् चॊल्लुगैयालुम्,
+</details>
+
+<details><summary>English</summary>
+
+(3) In the Sahasra nāma, Jahnu, Nārāyaṇa and Nara are said to be the names of Bhagavān 
+</details>
+
+<details><summary>Español</summary>
+
+(3) En el Sahasra Nāma, Jahnu, Nārāyaṇa y Nara **se dice**  
+que **son** los nombres de Bhagavān
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘जह्नुर्नारायणो नरः’’(भारतम् आनुशासनिक २३१-२९) ऎऩ्ऱु नामधेयमागच् चॊल्लुगैयालुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आपो नारायणोद्भूतास्  
+ता एवास्यायनं पुनः’’  
+(व्यासस्मृतिः) 
+
+ऎऩ्गिऱ व्यास-स्मृति-वाक्यत्ताले 
+
+> > ‘‘आपो वै नरसूनव’’ 
+> 
+> इत्य्-आदिगळिल्  
+नर-शब्दमुम् नारायणऩैये सॊल्लुगिऱद् 
+
+ऎऩ्ऩुम् इडम् सुव्यक्तम् आगैयालुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘आपो नारायणोद्भूतास्  
+ता एवास्यायनं पुनः’’  
+(व्यासस्मृतिः) 
+
+
+> > ‘‘आपो वै नरसूनव’’ 
+
+</details>
+
+<details><summary>English</summary>
+
+(4) In the passage, 
+
+> The waters are the sons of Nara,  
+
+the word Nara indicates only Nārāyaṇa  
+and this is evident from the sentence in Vyasasmṛti :--  
+
+> "The waters took their origin from Nārāyaṇa  
+and they alone became afterwards His ayana or resting place". 
+
+</details>
+
+<details><summary>Español</summary>
+
+(4) En el pasaje, 
+
+> Las aguas **son** los hijos de Nara,  
+
+La palabra nara **indica** solo nārāyaṇa  
+Y esto **es** evidente por la **oración** en Vyasasmṛti:-  
+
+> "Las aguas **tomaron** su origen de Nārāyaṇa  
+y solo se **convirtieron** en su ayana o lugar de **descanso** ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘आपो नारायणोद्भूतास्ता एवास्यायनं पुनः’’(व्यासस्मृति) ऎऩ्गिऱ व्यासस्मृतिवाक्यत्ताले ‘‘आपो वै नरसूनव’’ इत्यादिगळिल् नरशब्दमुम् नारायणऩैये सॊल्लुगिऱदॆऩ्ऩुमिडम् सुव्यक्तमागैयालुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"नरऩ्" ऎऩ्ऱु नित्यऩ् आय्  
+सर्व-नेताव् आऩ सर्वेश्वरऩुक्कुत् तिरु-नामम् आगैयाले
+</details>
+
+<details><summary>English</summary>
+
+Nara means also Nārāyaṇa for the above ~~following~~ reasons.
+
+So the eternal and Supreme Ruler who leads all (to Himself ) is called by the name Nara.
+</details>
+
+<details><summary>Español</summary>
+
+Nara **significa** también nārāyaṇa para las razones anteriores.
+
+Entonces, el gobernante eterno y supremo que **lleva** a todos (para sí mismo) **se llama** por el nombre de Nara.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नरऩॆऩ्ऱु नित्यऩाय् सर्वनेतावाऩ सर्वेश्वरऩुक्कुत् तिरुनाममागैयाले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नर-सम्बन्धिनो नारा  
+नरस् स पुरुषोत्तमः ।  
+**नयत्य्** अखिल-विज्ञानन्  
+**नाशयत्य्** अखिलन् तमः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नर-सम्बन्धिनो नारा  
+नरस् स पुरुषोत्तमः ।  
+**नयत्य्** अखिल-विज्ञानन्  
+**नाशयत्य्** अखिलन् तमः ॥ 
+
+</details>
+
+<details><summary>English</summary>
+
+> “Those that are related to nara are nārāh.  
+That nara is Puruṣottama.  
+It is He that confers knowledge on those that have sought His protection.  
+It is He that dispels all (their) ignorance.  
+</details>
+
+<details><summary>Español</summary>
+
+> “Los que están relacionados con Nara **son** Nārāh.  
+Que Nara **es** Puruṣottama.  
+**Es** él quien **confiere conocimiento** sobre aquellos que **han buscado** su **protección**.  
+**Es** él quien **disipa** toda (su) ignorancia.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नरसम्बन्धिनो नारा नरस्स पुरुषोत्तमः । नयत्यखिलविज्ञानन्नाशयत्यखिलन्तमः ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **न रिष्यति** च सर्वत्र  
+नरस् तस्मात् सनातनः ।  
+नर-सम्बन्धिनस् सर्वे  
+चेतनाचेतनात्मकाः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **न रिष्यति** च सर्वत्र  
+नरस् तस्मात् सनातनः ।  
+नर-सम्बन्धिनस् सर्वे  
+चेतनाचेतनात्मकाः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> Wherever He may be,  
+He does not undergo any change.  
+Hence He is called Nara,  
+because He is always the same (na ra),  
+Sentient beings and non-sentient things that are related to Him are His śeṣas.  
+</details>
+
+<details><summary>Español</summary>
+
+> Donde **sea** que **esté**,  
+**No se somete** a ningún **cambio**.
+Por lo tanto, **se le llama** Nara,  
+Porque él siempre **es** el mismo (na ra),  
+Los seres sintientes y las cosas no sensibles que **están** relacionadas con él  
+**son** sus Śeṣas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नरिष्यति च सर्वत्र नरस्तस्मात्सनातनः । नरसम्बन्धिनस्सर्वे चेतनाचेतनात्मकाः ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ईशितव्यतया नारा  
+धार्य-पोष्यतया तथा ।  
+नियाम्यत्वेन सृज्यत्व-  
+प्रवेश-भरणैस् तथा ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ईशितव्यतया नारा  
+धार्य-पोष्यतया तथा ।  
+नियाम्यत्वेन सृज्यत्व-  
+प्रवेश-भरणैस् तथा ॥
+</details>
+
+<details><summary>English</summary>
+
+> They are supported by Him,  
+controlled by Him and created by Him.  
+He has entered into them for supporting them.  
+Therefore are they called Nārāh  
+(because they are supported, created and controlled by Nara). 
+</details>
+
+<details><summary>Español</summary>
+
+> **Son apoyados** por él,  
+**controlado** por él y **creado** por él.  
+Él **ha entrado** en ellos **por apoyarlos**.  
+Por lo tanto, **se llaman** nārāh  
+(Porque **son** compatibles, **creados** y **controlados** por NARA).
+</details>
+
+<details><summary>मूलम्</summary>
+
+ईशितव्यतया नारा धार्यपोष्यतया तथा । नियाम्यत्वेन सृज्यत्वप्रवेशभरणैस्तथा ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **अयते** निखिलान् नारान्  
+**व्याप्नोति** क्रियया तया ।  
+नाराश् चाप्यनन्तस्य  
+तैस् तद्-भाव-निरूपणात् ॥
+</details>
+
+<details><summary>English</summary>
+
+He controls all nārās;  
+that is, by being within them,  
+He pervades them in order to do such things as sustaining them.  
+The nārāH are helpful (to us) in understanding Him,  
+for, by their existence is His existence understood. 
+</details>
+
+<details><summary>Español</summary>
+
+Él **controla** todos los nārās;  
+es **decir**, por **estar** dentro de ellos,  
+Los **impregna** para **hacer** cosas como **sostenerlas**.  
+Los nārāh **son útiles** (para nosotros) para **entenderlo**,  
+porque, por sus **existencias se entiende** su **existencia**.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+अयते निखिलान्नारान्व्याप्नोति क्रियया तया । नाराश्चाप्यनन्तस्य तैस्तद्भाव निरूपणात् ॥
+</details>
+
+
+
+In the Ahirbudhnyasamhitā (we find the following ślokas) : 
+
+
+
+
+
+He is the ayana or abode of nārās and they are always His abode. To souls that are nārāh, He is the supreme end to be attained and also the means or upāya of attaining Him ". This interpretation makes it clear that those attributes which define the essential nature of the Supreme Being such as(satyam, jñānam and ānandam) and the qualities or attributes of the essential nature so defined, such as compassion, His activities and the specific forms assumed by Him and likewise the three kinds of sentient beings, (the bound, the released and the eternal) and all non-sentient things — all these are meant by the word nārāh. From all this it may be inferred that He has the attribute of being the support of all except Himself. Hence it declares also that He stands by Himself and in Himself (alone). From this, the delusion maintained by men of perverted vision (Advaitins) that Purusho tama, who pervades, supports, controls and masters them and the nārās who are related to Him are identical in their essential nature-this delusion will disappear, since it is evident that He is the soul of all and that He has such glories as that of being denoted by all words.
 
 The word nara (meaning . 'one who does not change') brings out the meaning of the clarificatory texts in the śruti (where Brahman is declared to be satyamn, the Real that is un chaṅgīng). The word nāra which means those things which have their origin in Nara as declared in the passage : "Those reals or tattvas that are born of Nara are called nārāh”-this word brings out the meaning of the śruti that declares Brahman to be the ultimate cause of all; the word ayana brings out the meaning of the texts prescribing forms of meditation or worship (as leading to the attainment of ends desired by men).
 

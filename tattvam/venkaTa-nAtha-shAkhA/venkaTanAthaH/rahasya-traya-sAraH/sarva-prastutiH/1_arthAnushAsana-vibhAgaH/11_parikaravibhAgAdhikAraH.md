@@ -4681,7 +4681,7 @@ and this means may be either sentient or non-sentient.
 <details><summary>Español</summary>
 
 La palabra upāya **representa** "los medios para **asegurar** un fin"  
-Y esto puede ser sensible o no sensible.
+Y esto puede ser sensible o no sintiente.
 </details>
 
 

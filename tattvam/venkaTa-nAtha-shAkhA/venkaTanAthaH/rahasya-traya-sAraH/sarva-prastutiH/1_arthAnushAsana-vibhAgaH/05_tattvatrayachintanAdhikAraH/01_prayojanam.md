@@ -30,7 +30,7 @@ and He who rules over both of them (Iśvara).
 <details><summary>Español</summary>
 
 La ilusión de que el alma no es más que el cuerpo y los sentidos (prakṛti)  
-desaparece cuando uno tiene conocimiento de las características distintivas de los seres sintientes y las cosas no sensibles.  
+desaparece cuando uno tiene conocimiento de las características distintivas de los seres sintientes y las cosas no sintientes.  
 Así también las disputas sobre preguntas  
 como la unidad del Jīva y Dios ya no continuarán,  
 Cuando los rasgos característicos de cada uno de ellos están marcados.  

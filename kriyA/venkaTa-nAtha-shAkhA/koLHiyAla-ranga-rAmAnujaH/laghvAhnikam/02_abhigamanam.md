@@ -1,6 +1,5 @@
 +++
 title = "०२ अभिगमनम्"
-
 +++
 अथाभिगमनम् ॥ (१) 
 
@@ -49,7 +48,7 @@ title = "०२ अभिगमनम्"
 ## गुरुध्यानम्
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="/rAmAnujIyam/vyakti-shlokAdi/asmad-deshikam_trayI.md">
 
-<details open=""><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्मद्-देशिकम् अस्मदीय-परमाचार्यान् अशेषान् त्रयी-  
 चूडा-देशिक--तद्-गुरुन्, यति-वरं, पूर्णं मुनिं, यामुनम् ।  
