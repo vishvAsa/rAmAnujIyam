@@ -23,7 +23,7 @@ It may be noted that the passage quoted above mentions Pāñcarātra along with 
 
 In the Tantra-terminology, “vidveṣaṇa” etc. are technically called “ṣaṭkarmas”. Vide Liṅgādhāraṇacandrikā: p. 285, foot-note. These “ṣaṭkarmas” are : “māraṇa” (destruction), “uccāṭana” (driving away), “stambhana” (arrest, that is, staying a storm, striking a man dumb etc.), “vaśīkaraṇa” (bringing under control, which includes hypnotism), “vidveṣaṇa” (causing antagonism between persons) and “svastyayana” (curative and healing power in disease, misfortune and danger).
 
-A number of Pāñcarātra works describe in detail the ways and means of achieving mundane pleasures, effecting enmity, attracting and subduing persons and even the minor gods, curing or healing poisons of insects and [[creptiles|reptiles]] [[??]] and so on. The Kāśyapasaṃhitā, for instance, is a work entirely devoted to the delineation of the curing of various sorts of poisons.
+A number of Pāñcarātra works describe in detail the ways and means of achieving mundane pleasures, effecting enmity, attracting and subduing persons and even the minor gods, curing or healing poisons of insects and reptiles and so on. The Kāśyapasaṃhitā, for instance, is a work entirely devoted to the delineation of the curing of various sorts of poisons.
 
 For “vidveṣaṇa”, see Kāśyapasaṃhitā: III. 32; Śrīviṣṇutilakasaṃhitā: IV. 640-643; and the Hiraṇyagarbhasaṃhitā: XIX.
 

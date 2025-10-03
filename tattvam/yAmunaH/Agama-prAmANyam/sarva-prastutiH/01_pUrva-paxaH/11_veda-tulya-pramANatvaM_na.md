@@ -542,7 +542,7 @@ have been created by a maker who possesses the described knowledge.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > उत्पत्ति-नाश-भागित्वाद्  
-यद्-उत्पत्ति-विनाशवद् ।  
+यद् उत्पत्ति-विनाशवद् ।  
 **दृष्टन्** तत्, तादृशा कर्त्रा  
 **निर्मितन्** - तद् यथा गृहम् ॥
 </details>
@@ -565,19 +565,19 @@ just because it is subject to origination and annihilation, like a house.
 > न च वाच्यं -
 >
 > > कर्मणाम् एव स्वानुष्ठातृ-पुरुष-समीहितानि संपादयताम् अन्तरा  
-नान्तरीयकं +++(→कर्त्र्-आदि-युक्तं)+++ तनु-भुवनादि-कार्य-निर्माणम् 
+नान्तरीयकं +++(→नाविना-भूतं)+++ तनु-भुवनादि-कार्य-निर्माणम् 
 >
 > इति …  
 </details>
 
 <details><summary>नरसिंहः</summary>
 
-एव कारेण ईश्वरो निषिध्यते। [[??]]
+एव-कारेण ईश्वरो निषिध्यते। 
 </details>
 
 <details><summary>नरसिंहः</summary>
 
-यतिना यन् न भवति, तत् तस्य नान्तरीयकम्। [[??]]
+यद् विना यन् न भवति, तत् तस्य नान्तरीयकम्। 
 </details>
 
 <details><summary>Buitenen</summary>
@@ -620,13 +620,13 @@ On this cf. Prakaraṇapañcikā, p. 137 ff. for the Prabhakara view, and Slokav
 
 > यतश् चेतनानधिष्ठितानि तानि  
 **न** कार्याणि **जनयितुम्** उत्सहन्ते  
-अ-चेतनत्वाद् वासीवत्,  
+अ-चेतनत्वाद् वासीवत्, +++(=क्षुरवत्)+++ 
 </details>
 
 <details><summary>नरसिंहः</summary>
 Vide Prakaraṇapañcikā; VII. P134:
 
-> [[??]] धिष्ठिता वर्धकिना वासी वर्धनाय प्रवर्तते। 
+> न खल्व् अनधिष्ठिता वर्धकिना वासी वर्धनाय प्रवर्तते। 
 
 Also cf. Nyāyakusumāñjali: V. P51:
 
@@ -1067,12 +1067,9 @@ is also perceived to be uttered by no one but an embodied being …
 
 <details><summary>नरसिंहः</summary>
 
-पुण्यवद् इतरा(पापा)धीनेति भावः। [[??]]
-</details>
+पुण्येतराधीन... पुण्यवद् इतरा(पापा)धीनेति भावः। 
 
-<details><summary>नरसिंहः</summary>
-
-"निर्माणं" निर्मातृत्वम् इति भावः। [[??]]
+निर्माणं ... "निर्माणं" निर्मातृत्वम् इति भावः। 
 
 </details>
 
@@ -1091,7 +1088,7 @@ and who therefore cannot be God.
 अनीश्वरस्य निर्माणं वाक्यत्वमनुमापयेत् ॥  
 </details>
 
-### धर्म-प्रामाण्यता-हानि-प्रङ्गः
+### धर्म-प्रामाण्यता-हानि-प्रसङ्गः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि चैवं प्रमाणत्वं  
@@ -1335,6 +1332,24 @@ but never at one time, since all entities presuppose former acts that have broug
 साक्षात् कर्तुं **क्षमा** यतः ॥  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+यागादिभिः ... Vide Karmamīmāṁsā, P.61:
+
+> Though the Mīmāṁsā is so deeply concerned with the sacrifice, it has no belief in the doctrine that the rewards of offering are to be expected either from the deities to whom the offerings are directed to be made, from a God as Creator or apportioner of reward and punishment. The sacrifice generates an unseen potency, whence the goods desired by sacrificers are obtained.
+
+नः ... “नः” अस्मद्-इष्टाः चेतना इत्य् अन्वयः। 
+
+युक्तं ... Cf. Īśvarasiddhi, P.240:
+
+> “yuktaṁ caitat yadubhayavādisiddhānāmeva cetanānāṁ kartṛtvābhyupagamaḥ, lāghavāt; na copādānādyanabhijñatayā tatpratikṣepaḥ। 
+
+> upādānaṁ pṛthivyādi yāgadānādi sādhanaṁ।  
+sākṣātkartuṁ kṣamante yat sarva eva hi cetanāḥ॥
+
+सिद्धानां ... उभय-वादि-सम्मतानां जीवानाम् इति भावः।
+</details>
+
 <details><summary>Buitenen</summary>
 
 [[22]]  
@@ -1361,6 +1376,11 @@ for we can have direct knowledge of these acts, sacrifices, donations and the li
 अ-पूर्वादि-पदास्पदम् ।  
 **मा** भूत् **प्रत्यक्षता** तस्य  
 किन् तेनाध्यक्षितेन नः ॥
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. Īśvarasiddhi*, P.241, where this verse is reproduced almost as it is, but for a slight change in the second half of the second line, which reads as “śaktimaddhyakṣagocaraḥ”.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1394,6 +1414,12 @@ because he perceives it is absurd.
 तत् तद् आरभन्ते ।+++(5)+++  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Īśvarasiddhi, P.242, for identical statements.
+
+</details>
+
 <details><summary>Buitenen</summary>
 
 26\. Certainly, it is not true that an agent, for instance a potter,  
@@ -1415,6 +1441,11 @@ before he can actually undertake their production.
 इह तु नित्यागम-जन्मना प्रत्ययेन 
 संप्रत्य्-आकलित-यागादि--तत्-तद्-उत्पादन-पाटवाः पुरुषास् +++(←अनीश्वरा देवा अपि)+++  
 तैर् एव विश्वम्-भरा+++(=भू)+++ऽऽदि-भावान् आविर्भावयन्ति,
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+'यदि परं' इत्य् अस्य , 'यदि यत् किञ्चिद् विवक्षितं, तर्हि एवं वक्तव्यम्' इत्य् अर्थः। 
 </details>
 
 <details><summary>Buitenen</summary>
