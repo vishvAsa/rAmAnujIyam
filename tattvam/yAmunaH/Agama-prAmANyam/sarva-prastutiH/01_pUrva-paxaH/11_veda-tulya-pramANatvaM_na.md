@@ -1584,6 +1584,11 @@ who have the same notion of these entities' present existence.
 इदानीन्तन-कालवत् +++(←सनरः)+++ ॥ +++(5)+++ 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This long compound qualifies the term “atītakālaḥ”.
+</details>
+
 <details><summary>Buitenen</summary>
 
 To put it in syllogistic form: 
@@ -1622,6 +1627,12 @@ The same syllogism can be constructed with regard to the future.
 प्रत्यक्षौ भङ्ग-सम्भवौ ॥ +++(4)+++ 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'यो ऽयं घट' इति प्रत्यभिज्ञया घटादेर् अपि नित्यत्वं न शङ्कनीयम् इति भावः। तत्र कारणम् आह ‘यत‘ इति । [[??]]  
+
+</details>
+
 <details><summary>Buitenen</summary>
 
 This reasoning does not entail the fallacious conclusion that pots etc. are eternal,  
@@ -1642,6 +1653,21 @@ for in their case origination and annihilation are directly evident.
 हेतुना **नैव लभ्यते** ।  
 **न लभ्यते** ऽविरोधेऽपि  
 तेनात्मेत्य् अस्त्य् **असम्भवः** ॥
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+'विरोधे सति, येन हेतुना आत्मा नैव लभ्यते [हेतुत्वं हीयत इति यावत्], तेन अविरोधे ऽपि सति, आत्मा [[??]] इत्य् एतत् न सम्भवति ।' इति श्लोकस्यास्य पदान्वयः । 
+
+Cf. Tantravārttika under I. iii. 51-54, 55:
+
+> na hi yena pramāṇatvaṁ labdhapūrvaṁ kadācana।  
+tena tat sarvadā labhyamityājñāpayatīśvaraḥ॥  
+na ca yad balavadruddhamātmānaṁ naiva vindati।  
+avirodhe 'pi tenātmā na labdhavyaḥ kathaṁcana॥  
+na cāpi bādhakābhāvāt labdha ātmeti sarvadā।  
+labdhavyaḥ sa virodhe 'pi pūrvasāmānyadarśanāt॥
+
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1676,6 +1702,11 @@ this does not prove that the same ground (recollection) cannot prove the eternal
 जगज्-जन्म-भङ्गश् च यः **प्रत्यपादि** ।  
 स च प्रत्यभिज्ञा-बल-ध्वस्त-हेतुर्  
 **न** हृद्यत्वम् अद्य **प्रपद्येत** युक्त्या ॥
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. महत्तया सनाथेन etc., above.[[??]]
 </details>
 
 <details><summary>Buitenen</summary>
