@@ -95,6 +95,14 @@ derive solely from Scripture:
 मन्वादयो हि विवक्षितसकलसमीहितसाधनावबोधकमागमैकमूलमभिदधाना दृश्यन्ते ।
 </details>
 
+'वेदो धर्म-मूलं', 'तद्-विदां च स्मृति-शीले'
+
+<details><summary>नरसिंहः</summary>
+
+Gautamadharmasūtra: I. 1-2.
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
