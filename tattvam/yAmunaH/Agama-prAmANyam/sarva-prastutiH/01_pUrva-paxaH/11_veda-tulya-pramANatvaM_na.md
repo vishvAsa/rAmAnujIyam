@@ -14,6 +14,16 @@ title = "११ वेद-तुल्य-प्रमाणत्वं न"
 
 <details><summary>Buitenen</summary>
 
+The Naiyāyika now argues with the Mīmāṃsaka. His contention is that the Vedas and the Pāñcarātra texts are utterances of one and the same Supreme Being, Who is also the Omniscient Designer-Architect of this wonderful cosmos. He forms the second critic to be refuted by the Siddhāntin, only in so far as the authorship of the Vedas is concerned. For the Siddhāntin, as for the Mīmāṃsaka, the Vedas are revealed, “apauruṣeya”, not composed even by the Supreme.
+</details>
+
+<details><summary>Buitenen</summary>
+
+कक्ष्यया एकया अन्तरितं प्रामाण्यं मन्वादि-शास्त्राणाम्। वेदानां प्रामाण्य-सार्वभौमत्वात्, तद्-अनुसारणाच् च सर्व-स्मृतीनाम्। पञ्च-रात्रं तु वेदवद् एव निरपेक्षतया सर्वोत्कृष्टतया च प्रमाणं, तत्-समान-योग-क्षेमत्वाद् इति हार्दम्।
+</details>
+
+<details><summary>Buitenen</summary>
+
 DISCURSUS: 
 
 18\. At this point someone interjects:  
