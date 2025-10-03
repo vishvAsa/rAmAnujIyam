@@ -83,9 +83,12 @@ de una **consideración** de la relación peculiar
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ईश्वरऩ् शेषिय् आयिरुक्क,  
-नाम् 
+नाम् +++(दण्डके राम-स्मारित—विस्मित-ऋषि-शरणागतौ)+++
 > 
-> > ‘‘गर्भ-भूतास् तपो-धनाः’’(रामायणम् आरण्यकाण्डम् १-२१) 
+> > (न्यस्त-दण्डा वयं राजन्  
+जित-क्रोधा जितेन्द्रियाः।  
+रक्षितव्यास् त्वया शश्वत्)  
+"गर्भ-भूतास् तपोधनाः" (रामायणम् आरण्यकाण्डम् १-२१)
 > 
 > ऎऩ्ऩुङ् कणक्किले स्तनन्-धय-प्रायर् आय् इरुक्कद् आय्  
 मुलैप्-पालुक्क् आर्तऩ् आय् अऴुदल् सॆय्युम् अळव्+++(=मानम्) अऩ्ऱिक्के  
@@ -93,7 +96,7 @@ de una **consideración** de la relación peculiar
 नाम् आत्म-समर्पणम् पण्णुगैयुम्,  
 +++(तद्-अङ्गत्वेन)+++ रक्षिक्क-वेणुम् ऎऩ्ऱ् अपेक्षिक्कैयुम्,  
 +++(तद्-अङ्गत्वेन)+++ विश्वसिक्कैयुम् ऎऩ्ऱाऱ् पोले सॊल्लुगिऱव् इवैय् ऎल्लाम्  
-स्व-रूपत्तुक्कुप् पॊरुन्दुमोव् 
+स्व-रूपत्तुक्कुप् पॊरुन्दुमोव्+++(=युज्यते वा?)+++ 
 
 ऎऩ्ऱु सिलर् सिद्धोपाय-मुखत्ताले साध्योपाय-शरीरत्तैय् अऴिक्कप् पार्प्पार्गळ्। 
 </details>
@@ -101,7 +104,14 @@ de una **consideración** de la relación peculiar
 <details><summary>नीलमेघः (सं)</summary>
 
 > ईश्वरे शेषित्वेनावस्थिते,  
-अस्मासु च "गर्भ-भूतास् तपोधनाः" इति न्यायेन स्तनन्-धय-प्रायेषु सत्सु  
+अस्मासु च +++(दण्डके राम-स्मारित—विस्मित-ऋषि-शरणागतौ)+++ 
+>
+> > (न्यस्त-दण्डा वयं राजन्  
+जित-क्रोधा जितेन्द्रियाः।  
+रक्षितव्यास् त्वया शश्वत्)  
+"गर्भ-भूतास् तपोधनाः" (रामायणम् आरण्यकाण्डम् १-२१)
+>
+> इति न्यायेन स्तनन्-धय-प्रायेषु सत्सु  
 मातृ-स्तन्यार्थम् आर्तितया रोदन-करणाद् अतिरेकेण +++(स्तन्य-दानस्य)+++ भृतिं ददद्भिर् इवास्माभिर्  
 आत्म-समर्पणस्य करणं,  
 +++(तद्-अङ्गत्वेन)+++ "रक्षा कार्ये"त्य् अपेक्षणं, 
@@ -110,6 +120,13 @@ de una **consideración** de la relación peculiar
 
 इति केचित् सिद्धोपाय-मुखेन साध्योपाय-शरीरं विनाशयितुम् उद्युञ्जते । 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+"श्रीवचन-भूषण-महा-शास्त्रत्तिलेय्" इति प्रशंसन्ति।  
+तत्रत्य-१८२-१८३-सूत्रयोः खण्डनम् इह।  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -175,16 +192,29 @@ y a quien **pertenecemos**.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवर्गळै विलक्कुम् बडि;  
-परम-र्षिगळुम् भाष्य-कारादिगळुम् विश्वास-पूर्वक-प्रार्थनात्म-निक्षेपादिगळैत् ताङ्गळुम् अनुष्ठित्तु  
+परम-र्षिगळुम् भाष्य-कारादिगळुम् +++(←यामुनादयोऽपि)+++  विश्वास-पूर्वक-प्रार्थनात्म-निक्षेपादिगळैत् ताङ्गळुम् अनुष्ठित्तु  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 एषां निवारणं यथा -  
-महर्षिभिर् भाष्य-कारादिभिश् च  
+महर्षिभिर् भाष्य-कारादिभिश् च +++(←यामुनादयोऽपि)+++  
 विश्वास-पूर्वक-प्रार्थनात्मनिक्षेपादीनि  
 स्वयम् अनुष्ठाय  
+</details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> विश्वास-पूर्वकं भगवन्तं नित्य-किङ्करतां प्रर्थये
+
+इति रामानुजो गद्ये।  
+तद्-आचार्यः पॆरिय-वाचाऩ्/ कृष्ण-पादः स्पष्टम् एव वदति गद्य-व्याख्यायाम् - 
+
+> फाल्गुन-मासोत्तरफल्गुन्य्-ऋक्षे  
+उत्सवार्थं मण्डपे सम्मिलतोर् दिव्यदम्पत्यो  
+रामानुजेनानुष्ठितम् इदं शरणागतिकर्म 
+
++इति। 
 </details>
 
 
@@ -306,7 +336,7 @@ Esta verdad **tiene** que **ser aceptada** por todos los que **tienen** por los 
 
 शास्त्रत्तैक् कै विट्टाल्  
 इस् सम्बन्धञ् जॊल्लुगैक्कु  
-ईश्वरऩैयुङ् किडैयादु। 
+ईश्वरऩैयुङ् किडैयादु। +++(५)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -641,7 +671,7 @@ just as they do not ask for protection ?
 
 <details><summary>Español</summary>
 
-Porque **no hemos visto** que las cosas no sensibles, el ganado, los ciervos, las aves y los similares, y niñas **lactantes están protegidos**,  
+Porque **no hemos visto** que las cosas no sintientes, el ganado, los ciervos, las aves y los similares, y niñas **lactantes están protegidos**,  
 Aunque **no tienen conocimiento** de esta relación,  
 tal como **no piden protección**?
 </details>
@@ -826,7 +856,7 @@ Si, por otro lado, **se mantiene** que
 > en los que uno **es capaz de hacerlo**,
 
 **Respondemos** que  
-**Hemos visto protección** incluso de cosas no sensibles que **son incapaces de prevenirlo**  
+**Hemos visto protección** incluso de cosas no sintientes que **son incapaces de prevenirlo**  
 e **incluso** de seres sensibles como ganado e hijos que **intentan prevenirlo**.
 </details>
  

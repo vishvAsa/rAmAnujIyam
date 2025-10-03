@@ -1459,7 +1459,7 @@ Como **se ha dicho** en estos Ślokas:
 > y **renuncia** a todo contacto con ella  
 > y **alcanzar** a Bhagavān, que **está libre** de toda la mancha.  
 > Me **convertiré** en uno con él  
-> Y **no seré** uno con este prakṛti no sensible.  
+> Y **no seré** uno con este prakṛti no sintiente.  
 > **Está** en la aptitud de las cosas  
 > que **debería ser** uno con él  
 > y no con este prakṛti ",

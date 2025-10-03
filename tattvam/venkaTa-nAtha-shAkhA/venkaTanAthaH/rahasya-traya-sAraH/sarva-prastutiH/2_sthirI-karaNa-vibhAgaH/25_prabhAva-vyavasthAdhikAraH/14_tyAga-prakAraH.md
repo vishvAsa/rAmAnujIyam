@@ -1968,7 +1968,7 @@ Así que también "**Renuncia** a Satyam y también anritam" **significa**
 Además, **no desee el disfrute** de Anrita los placeres del mundo, la riqueza y similares ".
 
 (Una **interpretación** de la palabra satya es el ātmā o yo eterno cambiante;  
-Anṛta **se refiere** a cosas no sensibles que **contribuyen** a los placeres de la riqueza).
+Anṛta **se refiere** a cosas no sintientes que **contribuyen** a los placeres de la riqueza).
 </details>
 
 <details><summary>मूलम्</summary>
