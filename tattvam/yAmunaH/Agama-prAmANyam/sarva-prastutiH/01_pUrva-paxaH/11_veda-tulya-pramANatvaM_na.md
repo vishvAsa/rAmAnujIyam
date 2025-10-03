@@ -12,12 +12,12 @@ title = "११ वेद-तुल्य-प्रमाणत्वं न"
 पञ्च-रात्र-स्मरणस्य तु किं वेदेन?
 </details>
 
-<details><summary>Buitenen</summary>
+<details><summary>नरसिंहः</summary>
 
 The Naiyāyika now argues with the Mīmāṃsaka. His contention is that the Vedas and the Pāñcarātra texts are utterances of one and the same Supreme Being, Who is also the Omniscient Designer-Architect of this wonderful cosmos. He forms the second critic to be refuted by the Siddhāntin, only in so far as the authorship of the Vedas is concerned. For the Siddhāntin, as for the Mīmāṃsaka, the Vedas are revealed, “apauruṣeya”, not composed even by the Supreme.
 </details>
 
-<details><summary>Buitenen</summary>
+<details><summary>नरसिंहः</summary>
 
 कक्ष्यया एकया अन्तरितं प्रामाण्यं मन्वादि-शास्त्राणाम्। वेदानां प्रामाण्य-सार्वभौमत्वात्, तद्-अनुसारणाच् च सर्व-स्मृतीनाम्। पञ्च-रात्रं तु वेदवद् एव निरपेक्षतया सर्वोत्कृष्टतया च प्रमाणं, तत्-समान-योग-क्षेमत्वाद् इति हार्दम्।
 </details>
@@ -111,6 +111,12 @@ In fact, the two traditions of the aştaka rite and the acamana rite are not int
 आगमो नावसीदति ॥+++(5)+++
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+पञ्च-रात्रस्य वेद-मूलत्वाभावाद् यदि अप्रामाण्य-प्रसक्तिः, तर्हि पाञ्चरात्र-मूलत्वाभावात् वेदस्याप्य् अप्रामाण्य-प्रसङ्ग इति समानधर्मे। उभयोर् अपि वेद-पञ्च-रात्रयोः भगवद्-अनुभवैक-मूलतया तुल्यत्वात्, तद्-अन्तरे एकतरामूलत्व-प्रयुक्तम् अप्रामाण्यम् अन्यस्य न शक्य-शङ्कम् इति निष्कर्षः।
+
+</details>
+
 <details><summary>Buitenen</summary>
 
 If Pancaratra collapses as soon as it is denied the support of the Veda,  
@@ -126,6 +132,11 @@ why then should the Veda not collapse when the support of Pañcaratra is taken a
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > आह - "किम् एवं वेदा अपि पुरुषानुभवाधीनप्रामाण्याः पौरुषेया एव?"
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+This is the objection raised by the Mīmāṃsaka to the above view.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -145,6 +156,11 @@ and must therefore naturally derive from a person?
 > कस् संशयः?  
 वाक्यत्वं हि पराधीन-रचनत्व-स्वभावम् उपलभ्यमानं  
 कथम् अपरथा ऽवतिष्ठेत? 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+The Naiyāyika meets this objection.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -229,6 +245,11 @@ the mountain has fire, because it has smoke.
 > 
 > मैवं - यतस् सहज-संवेदन--साक्षात्-कृत-धर्माधर्म एव  
 > भगवान् जगद्-अनुकम्पया वेदम्-अनामानं ग्रन्थम् आरचयतीति ।  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+‘संवेदनं’ ज्ञानम्; तच् च भगवतस् सहजम्। इन्द्रिय-निरपेक्षं तस्य प्रत्यक्षम् इति भावः।
 </details>
 
 <details><summary>Buitenen</summary>
@@ -362,6 +383,11 @@ the "answer is as follows:
 **विनाशो** ऽप्य् अवसीयते ॥  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘विचित्र-सन्निवेशत्वात्’, सावयवत्वाद् इति यावत्।
+</details>
+
 <details><summary>Buitenen</summary>
 
 [[18]]  
@@ -410,6 +436,11 @@ when we know by what means to destroy them.
 इति नानैकान्तिकत्वम् आवहन्ति ।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘विमत्याक्रान्ता’ पक्षे क्रोडी-कृता इत्य् अर्थः। पक्षे व्यभिचारशङ्का तु न दोषाय, अपरथा अनुमान-व्यवहार-स्यैवोच्छेद-प्रसङ्गात् इति आशयः।
+</details>
+
 <details><summary>Buitenen</summary>
 
 In the case of entities that are shattered, for instance, by a falling tree,  
@@ -434,6 +465,11 @@ there can also be not positive certainty that the cause of their destruction is 
 स्पन्दमानत्व-हेतुना ।  
 उत्पत्ति-भङ्गौ भावानाम्  
 अनुमातुम् इहोचितौ ॥
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+‘महत्त्वे सति क्रियावत्त्वाद्‘ इति यावत्।
 </details>
 
 <details><summary>Buitenen</summary>
@@ -534,6 +570,16 @@ just because it is subject to origination and annihilation, like a house.
 > इति …  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+एव कारेण ईश्वरो निषिध्यते। [[??]]
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+यतिना यन् न भवति, तत् तस्य नान्तरीयकम्। [[??]]
+</details>
+
 <details><summary>Buitenen</summary>
 
 [[19]]  
@@ -575,6 +621,20 @@ On this cf. Prakaraṇapañcikā, p. 137 ff. for the Prabhakara view, and Slokav
 > यतश् चेतनानधिष्ठितानि तानि  
 **न** कार्याणि **जनयितुम्** उत्सहन्ते  
 अ-चेतनत्वाद् वासीवत्,  
+</details>
+
+<details><summary>नरसिंहः</summary>
+Vide Prakaraṇapañcikā; VII. P134:
+
+> [[??]] धिष्ठिता वर्धकिना वासी वर्धनाय प्रवर्तते। 
+
+Also cf. Nyāyakusumāñjali: V. P51:
+
+> परमाण्व्-आदयो हि चेतनाधिष्ठिताः प्रवर्तन्ते, अचेतनत्वात् वासीवत्।
+
+Also cf. Śaṅkara's commentary on Brahmasūtra: II. ii-1 : P221 [Nirṇayasāgara Edition]:
+
+> नाऽचेतनं लोके चेतनानधिष्ठितं स्व-तन्त्रं...दृष्टम्।
 </details>
 
 <details><summary>Buitenen</summary>
@@ -687,6 +747,21 @@ And there is no embodied soul which is known, or claimed, to be capable of havin
 > तस्य चाप्रतिघ-ज्ञानत्वादयस् सहजाः ।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Doctrine of Śakti in Indian Literature, P42:
+
+> God in the conception of the Naiyāyikas is one that is not only the efficient cause and supreme agent of the world, but possesses innumerable qualities such as knowledge, activity, desire, etc.
+
+Cf. Vātsyāyana's commentary on the Nyāyasūtra, IV. i.21, P. 292:
+
+> guṇaviśiṣṭamātmāntaraṃ īśvaraḥ.
+
+Cf. also ibid: P293 :
+
+> na tāvadasya buddhiṁ vinā kaściddharmo liṅgabhūtaśśakya upapādayitum.
+</details>
+
 <details><summary>Buitenen</summary>
 
 Therefore we must admit a Person of absolute omnipotence 
@@ -710,6 +785,11 @@ and in whose nature such properties as unrestricted knowledge etc. subsist.
 सहसिद्धं चतुष्टयम् ॥
 >
 > इति, 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+To be identified. This verse is quoted by Sucaritamiśra in his commentary on the Ślokavārtika, P.110 [Trivandrum Skt. Series No. 90].
 </details>
 
 <details><summary>Buitenen</summary>
@@ -755,6 +835,16 @@ mantra and arthavada: the terms indicate that the Naiyayika continues to address
 प्रजापतिर्वेदानसृजत ।
 
 इत्य् एवम् आदयः ।
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Mahānārāyaṇīya Upaniṣat: II. 2.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+To be identified.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -806,6 +896,11 @@ their instruments for the experiencing of karmic results- body, senses and other
 
 > सकलम् अपि जगद् उपजनय्य  
 तद्-अभिलषित-समस्त-सांसारिक-सम्पत्-प्राप्त्युपाय-प्रकाशन-बहुलां त्रयीम् एकतो निर्माय  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+'एकतः' कारन्यैनेति यावत्। [[??]]
 </details>
 
 <details><summary>Buitenen</summary>
@@ -887,6 +982,11 @@ can they belong in the company of any Tradition, that of Manu or anyone?
 **न** चासाव् **उपलभ्यते** ॥  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The Mīmāṁsaka raises his objection again.
+</details>
+
 <details><summary>Buitenen</summary>
 
 REFUTATION.   
@@ -965,6 +1065,17 @@ is also perceived to be uttered by no one but an embodied being …
 वाक्यत्वम् अनुमापयेत् ॥+++(5)+++  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+पुण्यवद् इतरा(पापा)धीनेति भावः। [[??]]
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+"निर्माणं" निर्मातृत्वम् इति भावः। [[??]]
+
+</details>
+
 <details><summary>Buitenen</summary>
 
 [[21]]  
@@ -989,6 +1100,11 @@ and who therefore cannot be God.
 धर्मे तस्यास्ति **संभवः** ॥
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘तस्य’ निर्माणस्येत्य् अर्थः।
+</details>
+
 <details><summary>Buitenen</summary>
 
 Moreover, in that case it would be impossible  
@@ -1001,7 +1117,6 @@ there is no exclusive authority of the Vedas.
 
 That which makes the Veda authoritative, i.e., a means of valid knowledge, is just this that it communicates knowledge of apurva facts, e.g., that a soma sacrifice is a means of attaining heaven, i.e., generally matters pertaining to dharma.
 </details>
-
 
 
 <details><summary>मूलम्</summary>
@@ -1020,6 +1135,11 @@ That which makes the Veda authoritative, i.e., a means of valid knowledge, is ju
 > कथम् अन्यथा तद्-उपकरणं जगज् जनयति 
 > 
 > इति।
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+This is the contention of the Naiyāyika.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1045,6 +1165,15 @@ how else could He produce the world of which dharma and adharma are the instrume
 तद्+++(=ततः)+++ विश्वस्य जगतो", **न** हि ।  
 **विद्यते** कोऽपि निर्माता  
 येनैवम् अपि **कल्प्यते** ॥  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+The Mīmāṁsaka refutes the above contention of the Naiyāyika.
+
+Vide Śaivasiddhānta, P.74 ff, for the following:
+
+> It may be noted that even the Lokāyata (Cārvāka) entertains similar view regarding, the world's creatorship, i.e., that there is no creator for it.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1096,6 +1225,11 @@ can be objected that empiricists distinguish three kinds of entities:
 केचिद् विश्वम्-भरादयः ।  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Pāṇini's sūtra: "nadyṛtaśca" (V. iv-153) would require this to be "pratyakṣadṛṣṭakartṛkāḥ", since the compound intended by the author here is of the Bahuvrīhi-type. But according to the well-known saying "sthitasya gatiḥ kalpanīyā", the term "pratyakṣadṛṣṭakartāraḥ" can be interpreted as a Karmadhāraya compound, thus: "yatra pratyakṣadṛṣṭāḥ kartāraḥ, ete kecit ghaṭādayaḥ", in which case, the expression necessarily has to be split into two parts.
+</details>
+
 <details><summary>Buitenen</summary>
 
 Those whose makers are evident to perception, e.g. pots and the like;  
@@ -1132,6 +1266,11 @@ there is no room for God's activity.
 
 अद्यवद् एव विश्वम्-भरादयः क्रम-प्राप्तागन्तुकोपचयापचययोर्  
 न युगपद् उदय-विलय-भागिनः। 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. Īśvarasiddhi, P.241, where the same sentence occurs.
 </details>
 
 <details><summary>Buitenen</summary>

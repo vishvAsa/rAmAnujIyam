@@ -13,7 +13,7 @@ title = "१० क्षुद्र-विद्या-परता"
 इति मन्यामहे । 
 </details>
 
-<details><summary>Buitenen</summary>
+<details><summary>नरसिंहः</summary>
 
 Cf. Tantravārtika under I. iii-4 : pp. 114-115 :
 
