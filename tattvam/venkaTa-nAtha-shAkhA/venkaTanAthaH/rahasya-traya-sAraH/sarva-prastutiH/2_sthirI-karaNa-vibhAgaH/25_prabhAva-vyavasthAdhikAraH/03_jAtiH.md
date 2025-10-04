@@ -803,6 +803,17 @@ Pero que el Kulam **será** diferente.
 श्री-सुरभि-भावेऽपि गोत्वं न हीयेत किल । 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> After swami desikan meeting pillai lokacharyar‌‌/ Periya vachan pillai, he was so much convinced and realized he made a mistake (with this statement). Only then he composed muni-vahana-bhogam.
+
+इति प्रवादो वर्तते। 
+
+> Popular claim is that he met Periya vachan pillai. Not Pillai Lokacharya. Both tk and vdk claim their own version of this meeting. But said meeting never took place. Because PVP predeceased VD by a few years.  
+\- रविलोचनः। 
+</details>
+
+
 
 <details><summary>English</summary>
 

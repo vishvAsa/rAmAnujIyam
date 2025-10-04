@@ -7,7 +7,7 @@ anAchAra resulting from misunderstanding vidhi and tyAga is the most serious par
 These other issues (status of lakshmi, kaivalya, vyApti), though, add to the arrogance and intransigence of anAchAra-para-s if ignored।
 
 ## प्रमाणम्
-वेङ्कटनाथशाखाऽभ्युपगतः क्रमो [ऽन्यत्रोक्तः](॥/pramANAni)। 
+वेङ्कटनाथशाखाऽभ्युपगतः क्रमो [ऽन्यत्रोक्तः](../pramANAni)। 
 
 लोकाचार्य-शाखायाम् -
 
