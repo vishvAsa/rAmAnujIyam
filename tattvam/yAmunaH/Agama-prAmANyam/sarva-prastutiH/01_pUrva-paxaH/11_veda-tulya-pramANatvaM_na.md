@@ -2187,6 +2187,48 @@ Besides, if their karman provides sufficient causes for these creatures' variety
 why assume God at all? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अनुकम्पाप्रयुक्तेन ... Vide Ślokavārtika, under I. i-5, śls. 52, 53:
+
+> abhāvāccānukampyānāṁ nānukampāsya jāyate।  
+sṛjecca śubhamevaikaṁ anukaṁpāprayojitaḥ॥  
+athāśubhād vinā sṛṣṭiḥ sthitirvā nopapadyate।  
+ātmādhīnābhyupāye hi bhavet kiṁnāma duṣkaram ?
+
+Cf. Īśvarasiddhi, P.244-245:
+
+> svārthakāruṇyābhāvena vyāptāḥ prekṣāvataḥ kriyāḥ।  
+īśvarasyobhayābhāvāt jagatsargo na yujyate॥
+
+avāptakāmatvānna tāvadātmārthe sṛjati; pralayasamaye pralīnasakalakaraṇakalebarādibhogopakaraṇatayā ca cetanānāṁ duḥkhābhāvāt duḥkhidarśanajanitakṛpāprayuktirapi nāstīti vyāpakabhūtasvārthakāruṇyanivṛtteḥ vyāpyabhūtāyā prekṣāvatpravṛttyāpi nivartitavyam;
+
+> sukhaikatānāṁ janayet jagat karuṇayā sṛjan।  
+tatkarmānuvidhāyitve hīyetāsya svatantratā॥
+
+Cf. Nyāyamañjarī, Vol. I. P.192:
+
+> avāptasarvānandasya rāgādirahitātmanaḥ।  
+jagadārabhamāṇasya na vidmaḥ kiṁ prayojanam॥  
+
+anukampayā pravartata iti cet, maivam —  
+
+> sargāt pūrvaṁ hi niśśeṣakleśasaṁsparśavarjitāḥ।  
+nāsya muktā ivātmāno bhavanti karuṇāspadam॥  
+
+... ... ... ... ... ... ... ... ... ... ...  
+
+> karuṇāmṛtasaṁsiktahṛdayo vā jagat sṛjan।  
+kathaṁ sṛjati durvāraduḥkha prāgbhāradāruṇam?
+
+
+ततः ... Cf. ibid*:
+
+nānātmagataśubhāśubhakarmakalāpānapekṣaḥ[[??]] sraṣṭā prajāpatiriti cet karmāṇyeva hi tarhi[[??]] sṛjantu jaganti, kiṁ prajāpatinā ? athācetanānāṁ cetanānadhiṣṭhitānāṁ[[??]] sraṣṭṛtvamaghaṭamānamiti teṣāmadhiṣṭhātā cetanaḥ kalpyata iti cenna;[[??]] tadāśrayāṇāmeva cetanatvāt ta evādhiṣṭhātāro bhaviṣyanti; kimadhiṣṭhātrantareṇeśvareṇa[[??]] kāryam ?
+
+हेतुभिः — कर्म-स्वभावादिभिः।
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2252,6 +2294,13 @@ The latter is justifiable
 because the well no longer serves a purpose.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Śābarabhāṣya under I. i-5; P.12:
+
+na ca himavadādiṣu kūpārāmādivat asmaraṇaṁ bhavitumarhati..
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2364,6 +2413,11 @@ the same holds true of the Pañicarātra Tantra.
 It is the contention of Mimamsa that words and their capacity of conveying meaning are eternal.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The Naiyāyika tries to examine the revealed character (apauruṣeyatva) of the Vedas, which the Mīmāṁsaka so zealously champions.
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2432,7 +2486,7 @@ So where does the difference lie between Pañçaratra and Vedic revelation?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अयममेव विशेषो यद्  
+अयमेव विशेषो यद्  
 एकत्र स्व-तन्त्र एव पुरुषस् तां ताम् आनुपूर्वीं **रचयति**  
 इतरत्र पर-तन्त्रो नियमेन पूर्वाध्येतृ-सिद्धाम् एव **विवक्षति**,+++(4)+++ 
 </details>
@@ -2447,9 +2501,14 @@ a dependent person invariably wishes to repeat the exact sequence
 which had been laid down before him by students who preceded him. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This is how the Mīmāṁsaka vindicates his contention.
+</details>
+
 <details><summary>मूलम्</summary>
 
-अयममेव विशेषो यदेकत्र स्वतन्त्र एव पुरुषस्तां तामानुपूर्वीं रचयति इतरत्र परतन्त्रो नियमेन पूर्वाध्येतृसिद्धामेव विवक्षति, 
+अयमेव विशेषो यदेकत्र स्वतन्त्र एव पुरुषस्तां तामानुपूर्वीं रचयति इतरत्र परतन्त्रो नियमेन पूर्वाध्येतृसिद्धामेव विवक्षति, 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2470,6 +2529,10 @@ And with this we conclude our lengthy disquisition.
 kramāvāntarajati; the difference resides in the createdness of the Pancarātra and the uncreatedness of the Veda, which introduces a difference of degree between the word sequences of both corpora of verbal statements.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘अवान्तरजातिर्’ इत्य् अस्य वैलक्षण्यम् इत्य् अर्थः। क्रम-नियमानियमाभ्याम् एव वेद-पञ्च-रात्रयोर् वैलक्षण्यं सुस्पष्टम् इत्य् आशयः।
+</details>
 
 <details><summary>मूलम्</summary>
 
