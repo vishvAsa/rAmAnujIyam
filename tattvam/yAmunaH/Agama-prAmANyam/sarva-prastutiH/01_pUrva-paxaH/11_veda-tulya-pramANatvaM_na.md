@@ -1657,7 +1657,7 @@ for in their case origination and annihilation are directly evident.
 
 <details><summary>नरसिंहः</summary>
 
-'विरोधे सति, येन हेतुना आत्मा नैव लभ्यते [हेतुत्वं हीयत इति यावत्], तेन अविरोधे ऽपि सति, आत्मा [[??]] इत्य् एतत् न सम्भवति ।' इति श्लोकस्यास्य पदान्वयः । 
+'विरोधे सति, येन हेतुना आत्मा नैव लभ्यते [हेतुत्वं हीयत इति यावत्], तेन अविरोधे ऽपि सति, आत्मा न लभ्यतय् इत्य् एतत् न सम्भवति ।' इति श्लोकस्यास्य पदान्वयः । 
 
 Cf. Tantravārttika under I. iii. 51-54, 55:
 
@@ -1681,7 +1681,7 @@ when it does not involve a contradiction.
 
 <details><summary>Buitenen - Notes</summary>
 
-read na labhyate .avirodhe" pi; the meaning is this: when a certain fact (the eternality of pots) cannot be proved by a ground (recollection)  
+read "na labhyate .avirodhe" pi; the meaning is this: when a certain fact (the eternality of pots) cannot be proved by a ground (recollection)  
 because this ground contains a contradiction  
 (it is recollected that pots having existed cease to exist),  
 this does not prove that the same ground (recollection) cannot prove the eternality of earth, mountains, etc., when there is no contradiction contained in it (nobody has recollection of a vanishing mountain). 
@@ -1706,7 +1706,7 @@ this does not prove that the same ground (recollection) cannot prove the eternal
 
 <details><summary>नरसिंहः</summary>
 
-Cf. महत्तया सनाथेन etc., above.[[??]]
+Cf. महत्तया सनाथेन etc., above.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1747,6 +1747,12 @@ having something left to desire,
 being deprived of omnipotence and omniscience, etc.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Karmamīmāṁsā*: pp. 61-62:
+
+> Experience, Prabhākara urges, shows us the bodies of all animals being produced by purely natural means; we can argue hence to the facts of the past and future and need invoke no extraneous aid.....Supervision ( by God ) also is impossible, even had God the necessary knowledge; it must take the form either of contact, which is impossible as merit and demerit being qualities are not subject to contact, or inherence, and plainly a man's qualities cannot inhere in God. If the argument is adduced on the analogy of the carpenter, it may be replied that on this basis, the creator would have to be an embodied spirit, and no embodied spirit can effect such subtle things as the atoms or merit and demerit.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1764,6 +1770,12 @@ How, then, can the fact that the world is a product
 convey to us the knowledge that the producer proposed for it  
 possesses the postulated properties, of being bodiless, eternally satisfied, omniscient etc., properties,  
 that is, which are the opposite of what would naturally follow? 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+'सिसाधयिषिते कर्तरि' इत्य् अर्थः।
+
 </details>
 
 
@@ -1816,6 +1828,10 @@ If it be eternal, then your contention that
 whatever has parts must come to an end is not universally true.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+स्वदुक्तस्य[[??]] सावयवत्वहेतोर् नैकान्तिक-दोषो भवेद् इत्य् अन्वयः।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1843,6 +1859,10 @@ establishes another topic discussed (e.g., omniscience).
 On this question, ef. Tarkabhāṣā 43. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+“Adhikaraṇasiddhānta” or “Doctrine resting on Implication”, is defined in the Nyāyasūtra under I. i. 30 as “yatsiddhau anvayaprakaraṇasiddhiḥ, so'dhikaraṇasiddhāntaḥ”. Cf. Vātsyāyana's bhāṣya on it: “yasya arthasya siddhau anye arthāḥ anuṣajjyante, na tair vinā so'rthaḥ siddhyati, te arthāḥ tadadhiṣṭhānāḥ[[??]], so'dhikaraṇasiddhāntaḥ”. So, Adhikaraṇasiddhānta can be explained as the principle by which, when a certain thing is known or accepted, certain other things automatically follow, by reason of their dependence upon the former. This Adhikaraṇasiddhānta in modern logic is known as “pakṣadharmatā”. Since the fact of earth, etc. having a creator cannot be proved unless that creator is also accepted as a direct perceiver of all entities including the atoms ( the material cause of the cosmos ), the admission of such a power of all-round perception in that creator follows by the principle ‘Adhikaraṇasiddhānta’ ( Implied Doctrine ).
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1864,6 +1884,10 @@ but does not actually exist.
 In our case, however, the conflict is plain enough. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+“अपि च धर्मि-विशेष-विरुद्धश् चायं हेतुः” इति पूर्वम् एव (पु.32) हेतु-विरोधः प्रपञ्चितः।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1887,6 +1911,11 @@ In our case, however, the conflict is plain enough.
 then all logical process of deduction is done with.  
 But if deduction can indeed convey true knowledge,  
 that it must also convey that there is a producer capable of creating the entire universe. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+'अवधृताविनाभाव-नियमम्' इत्य् एतत् ‘कार्यत्वम्’ इत्य् अस्य पदस्य अध्याहृतस्य विशेषणं भवितुम् अर्हति। [[??]] इत्य् अस्य वा विशेषणत्वेन स्वीकर्तुं शक्यते।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1924,6 +1953,11 @@ as at the moment of grasping the concomitance, are known to obtain in any produc
 <details><summary>Buitenen</summary>
 
 Nor do we carry our point too far. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+यत्र धूमस् तत्र वह्निर् इति व्याप्तिर् महानसादौ गृहीता। पर्वते धूमं दृष्ट्वा वह्निम् अनुमातुं प्रवृत्तस्य पुरुषस्य, तत्रत्यो ऽपि वह्निः महानसादाव् इव फूत्कारेणैव प्रवृद्ध इति, स च पाकार्थम् उपयुज्यत इत्य्-आद्याः सम्भावनाः सम्भाव्यमाना अत्र अतिप्रसङ्ग-शब्देन सूचिताः। एतेषां विपरीत-विशेषणानां प्रत्यक्ष-प्रमाण-बाध्यत्वम् आह प्रमाणान्तरेत्य्-आदिना। तथा च पर्वतं गत्वा तत्रत्यो वह्निः कीदृश इति विचारे क्रियमाणे, पूर्वं वह्नि-विषये सम्भावितान् फूत्कार-प्रवर्धन-पाकोपयोगादीन् अतिप्रसङ्गान् प्रत्यक्ष-प्रमाणम् एव निवारयेद् इति भावः।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1970,6 +2004,14 @@ elicited through positive and negative consideration
 are indiscriminately established by the deduction, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अत्र ... Cf. Īśvarasiddhi, P.244.
+
+कर्मभावे ... ‘सकल-प्रमाणान्तरानवगते’ इत्य् अर्थः।
+
+स्थापयतीति ... कर्तृत्वम् इव अनीश्वरत्वादिकम् अपि धर्म-जातं व्याप्ति-बलेन व्यवस्थापयतीत्य् अर्थः।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1992,6 +2034,13 @@ In this instance, too, the assumption that a person, beyond the ken of our sense
 must remain entirely conjectural, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+तथा च ... अत्र सन्दर्भानुरोधेन ‘तथा च’ इत्य् अस्य ‘किञ्च’ इत्य् अर्थो वर्णनीयः।
+
+अनैकान्तः ... कार्यत्व-हेतुर् इति योजनीयम्।
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2022,6 +2071,38 @@ while occupying a certain space at a certain time
 and aiming at a certain result which he wants.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Nyāyamañjarī Vol. I, P.191:
+
+> kiṁ kimapi prayojanamananusandhāya jagatsarge pravartate prajāpatirevameva vā ? niṣprayojanīyāṁ pravṛttāvaprekṣāpūrvakāritvāt unmattatulyo'sau bhavet.
+
+Vide Śaivasiddhānta P.83 ff.
+
+> To create the world, the Lord should have occupied some place, but where is it exactly, when we definitely know that by then, space itself has not been created ?
+
+Kumārila is the most relentless and vehement critic of the divine origination and dissolution of the universe. Creation of the world is refuted in
+
+Ślokavārtika, under 1-i-5; śl. 47:
+
+> pravṛttiḥ kathaṁ ādyā ca jagataḥ saṁpratīyate।  
+śarīrāder vinā cāsya kathamicchāpi sarjane ?
+
+Dissolution, likewise, is refuted in śl. 68:
+
+> pralaye 'pi pramāṇaṁ naḥ sarvocchedātmake na hi।  
+na ca prayojanaṁ tena syāt prajāpatikarmaṇā॥
+
+For a detailed refutation of the creative activity of God, at a time when space itself did not exist, see ibid. śls. 45, 50-51:
+
+> yadā sarvamidaṁ nāsīt kvāvasthā tatra gamyatām।  
+prajāpateḥ kva vā sthānaṁ kiṁ rūpaṁ ca pratīyatām॥
+
+> sādhanaṁ cāsya dharmādi tadā kiṁcinna vidyate।  
+na ca nissādhanaḥ kartā kaścit sṛjati kiñcana॥  
+nādhāreṇa vinā sṛṣṭirūrṇanābherapīṣyate।  
+prāṇināṁ bhakṣaṇāccāpi tasya lālā pravartate॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2048,6 +2129,37 @@ for this states clearly that the Lord is by nature independent from anything bes
 Yet willynilly, without regard for anything He might wish, He shoulders the vast task of creating, sustaining and destroying the world.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+कृतार्थत्वात् ... Vide Ślokavārtika under I. i. 5, śls. 54-56:
+
+> tathā cāpekṣamāṇasya svātantryaṁ pratihanyate।  
+jagaccāsṛjatastasya kiṁ nāmeṣṭaṁ na siddhyati ?  
+prayojanamanuddiśya na mando 'pi pravartate।  
+evameva pravṛttiścet caitanyenāsya kiṁ bhavet ?  
+krīḍārthāyāṁ pravṛttau ca vihanyeta kṛtārthatā।  
+bahuvyāpāratāyāṁ ca kleśo bahutaro bhavet॥
+
+Also cf. ibid: śl. 57, ff.
+
+Cf. Nyāyamañjarī, Vol. I, P.192:
+
+atha krīḍārthe jagatsarge bhagavataḥ pravṛttirīdṛśā ca śubhāśubharūpeṇa jagatḥ sṛṣṭena[[??]] krīḍati parameśvara ityucyate, tarhi krīḍāsādhyasukharahitatvena sṛṣṭeḥ[[??]] pūrvamanavāptasakalānandatvaṁ nāma tasya svarūpamavahīyate;
+
+> na ca krīḍāpi niśśeṣajanatātaṅkakāriṇī।  
+āyāsabahulā ceyaṁ kartuṁ yuktā mahātmanaḥ॥
+
+tasmānna jagatāṁ nātha īśvaraḥ sraṣṭā saṁhartāpi bhavati.
+
+Also cf. ibid: P.194:
+
+> ata eva nirīkṣya durghaṭāṁ jagato janmavināśāḍambaraṁ।  
+na kadācidanīdṛśaṁ jagat kathitaṁ nītirahasyavedibhiḥ॥
+
+‘सम्प्रति’ सम्यग् इत्य् अर्थः। जगत्-सृजनं भगवतः स्वभावश् चेद् उच्यते, तर्हि सम्यग् एव तस्य स्वातन्त्र्यं प्रतिपादितं भवद्विर् इति सोपालम्भम् आह। तदा तु भगवान् परतन्त्र एव स्याद् इत्य् आशयः।
+
+असमीक्ष्यैव ... स्वभावत्वाद् एव असमीक्षोपपद्यते।
+</details>
 
 <details><summary>मूलम्</summary>
 
