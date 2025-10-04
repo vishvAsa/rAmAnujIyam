@@ -20,13 +20,6 @@ title = "०१ प्रामाण्यम्"
 In the purva paksa the principal opponents introduced are what one may already call smārta brahmins, and among them especially the orthodox followers of Mimāmsa. Vedanta opposition will be discussed. 
 </details>
 
-
-<details><summary>मूलम्</summary>
-
-इह केचिद्यतस्ततोऽवगतकतिपयकुतर्ककल्कविस्फूर्जितविजितमनसस्त्रयीमार्गसंरक्षणव्याजेन निजविमर्शकौशलातिशयमुपदर्शयन्तः  
-परमपुरुषविरचितनिरतिशयनिश्रेयसगोचरपञ्चरात्रतन्त्रप्रामाण्ये **विप्रतिपद्यन्ते** ।
-</details>
-
 <details><summary>नरसिंहः</summary>
 
 See JRAS (1911), pp. 940-41, for various definitions of the term ‘Pāñcarātra’. See also the latest article on the meaning of the term by Dr. V. Raghavan, JAOS, Vol. 85, No. 1 (Jan.-Mar. 1965), pp. 73-79. The Mahāsanatkumāra Saṃhitā, Indrarātra section, ch. III, offers the following explanation for the term “sāttvata”:
@@ -37,6 +30,12 @@ upadiṣṭaṃ pañcarātraṃ tena lokahitaiṣiṇā,
 āhukāṃstu samuddiśya tena sāttvatamucyate
 
 (Adyar edn. p. 245, śls. 79-80)
+</details>
+
+<details><summary>मूलम्</summary>
+
+इह केचिद्यतस्ततोऽवगतकतिपयकुतर्ककल्कविस्फूर्जितविजितमनसस्त्रयीमार्गसंरक्षणव्याजेन निजविमर्शकौशलातिशयमुपदर्शयन्तः  
+परमपुरुषविरचितनिरतिशयनिश्रेयसगोचरपञ्चरात्रतन्त्रप्रामाण्ये **विप्रतिपद्यन्ते** ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -50,14 +49,14 @@ And they contend:
 </details>
 
 
-<details><summary>मूलम्</summary>
-
-वदन्ति च ।
-</details>
-
 <details><summary>नरसिंहः</summary>
 
 The Mīmāṃsaka is the pūrvapakṣin here.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वदन्ति च ।
 </details>
 
 ## सापेक्षता
@@ -119,18 +118,18 @@ No verbal assertion can be a means of valid knowledge if it has been formulated 
 for a verbal assertion to be authoritative, it must by definition be independent.
 </details>
 
-<details><summary>मूलम्</summary>
-
-न तावत्पुरुषाधीनरचनं वचनं क्वचित् ।  
-आसीदति प्रमाणत्वमनपेक्षत्वलक्षणम् ॥
-</details>
-
 <details><summary>नरसिंहः</summary>
 
 Cf. Prakaraṇapañcikā II. 19:
 
 > वाक्यं हि पुरुषाधीन-रचनं लौकिकं सदा ।  
 शङ्क्यमानायथार्धत्वं नार्थ-निश्चायकं स्वतः ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+न तावत्पुरुषाधीनरचनं वचनं क्वचित् ।  
+आसीदति प्रमाणत्वमनपेक्षत्वलक्षणम् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
