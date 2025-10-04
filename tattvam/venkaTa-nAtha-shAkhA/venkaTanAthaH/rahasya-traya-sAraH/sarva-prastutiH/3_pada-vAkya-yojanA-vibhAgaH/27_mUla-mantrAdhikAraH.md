@@ -16120,13 +16120,13 @@ Nara **significa** la multitud de Naras.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "इन्द समूहङ्गळुक्कु अयनं" ऎऩ्गिऱव् इत्ताल्  
-स्वाधीन-- त्रि-विध--+++(बद्ध-मुक्त-नित्याः→)+++चेतनाचेतन+++(→प्रकृति-काल-नित्यविभूतयः)-- स्वरूप-स्थिति-प्रवृत्ति-भेदऩ् आऩवऩ् 
+स्वाधीन-- त्रि-विध--+++(बद्ध-मुक्त-नित्याः→)+++चेतनाचेतन+++(→प्रकृति-काल-नित्यविभूतयः)+++-- स्वरूप-स्थिति-प्रवृत्ति-भेदऩ् आऩवऩ् 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 "एषां समूहानाम् अयनम्" इत्य् अनेन  
-स्वाधीन-- त्रि-विध--+++(बद्ध-मुक्त-नित्याः→)+++चेतनाचेतन+++(→प्रकृति-काल-नित्यविभूतयः)--  
+स्वाधीन-- त्रि-विध--+++(बद्ध-मुक्त-नित्याः→)+++चेतनाचेतन+++(→प्रकृति-काल-नित्यविभूतयः)+++--  
 स्वरूप-स्थिति-प्रवृत्ति-भेदस्य तस्य  
 [[P291]] 
 </details>
@@ -17093,7 +17093,15 @@ que **mantienen** la posibilidad de **reunir** cosas que **se oponen**
 मूऩ्ऱुम् स-प्रयोजनङ्गळ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
 
+अत्र प्रथमाक्षरेण,  
+नार-शब्दे प्रकृत्या नर-शब्देन,  
+अयन-शब्देन च  
+सर्वेश्वरे प्रतिपाद्यमाने  
+रक्षकत्व-कारणत्व+++(→"अ")+++--  नित्यत्व-नेतृत्व--+++(←"नर", "अयन"→)+++ आधारत्वान्तर्यामित्वाद्य्-आकार-भेदैस्  
+त्रीण्य् अपि स-प्रयोजनानि ।
+</details>
 
 <details><summary>English</summary>
 
@@ -17155,6 +17163,16 @@ y que dos de ellos son, por lo tanto, redundantes).
 ऎऩ्ऩिल्;
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> प्रणवे तृतीयाक्षरेण  
+चेतनस्य प्रकाश्यमानत्वे सत्य् एव,  
+अत्र नार-शब्देन पुनः प्रतिपादनं किम्-अर्थम् 
+
+इति चेत् — 
+</details>
+
+
 <details><summary>English</summary>
 
 If it be asked: 
@@ -17192,6 +17210,16 @@ Si **se le pregunta**:
 
 ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अहं त्वां विना नास्मि;  
+पश्य नारायण;  
+त्वं मां विना नासि"  
+
+इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -17238,6 +17266,7 @@ La respuesta **es** la siguiente:
 > ८७‘‘रामानुजं लक्ष्मण-पूर्वजञ् च’’  
 (रामायणम् सुन्दरकाण्डम् २८-१०)
 
+इति चोक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -17294,6 +17323,12 @@ y la importancia de Lakṣmaṇa **se insinúa** en Lakṣmaṇapurvaja (el herm
 ऒऩ्ऱैय् इट्ट् ऒऩ्ऱै निरूपिया निऩ्ऱाल् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एकेन परस्य निरूपणे क्रियमाणे, 
+</details>
+
+
 <details><summary>English</summary>
 
 Thus each is characterised by the other. 
@@ -17313,8 +17348,15 @@ Así, cada uno **se caracteriza** por el otro.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(कृष्ण-सारथिकोऽपि)+++ अर्जुन-रथम् पोले प्रणवं शेष-प्रधानम् आगैयालुम्
++++(कृष्ण-सारथिक+)+++-अर्जुन-रथम् पोले प्रणवं शेष-प्रधानम् आगैयालुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(कृष्ण-सारथिक+)+++-अर्जुन-रथवत्  
+प्रणवस्य शेष-प्रधानत्वात्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -17344,7 +17386,13 @@ y Śrī Kṛṣṇa **no lo es**, **siendo** solo el auriga);
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रास-मण्डलम् बोले नारायण-शब्दम् शेषि-प्रधानम् आगैयालुम्  
-पुनर्-उक्तिय् इल्लै।
+पुनर्-उक्तिय् इल्लै।+++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+रास-मण्डलवत् नारायण-शब्दस्य शेषि-प्रधानत्वाच् च  
+पुनर्-उक्तिर् नास्ति । +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -17387,6 +17435,14 @@ donde Śrī Kṛṣṇa **es** muy importante y los Gopis **no son** así.
 रक्षकऩाऩ शेषिक्के आर्थम् प्राधान्यम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रणवे ऽपि  
+शाब्द-प्राधान्यस्य जीव-गतत्वे ऽपि  
+रक्षकस्य शेषिण एवार्थे प्राधान्यम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 Even in the praṇava, though verbally the jīva is prominent,  
@@ -17418,6 +17474,13 @@ La prominencia, en la medida en que **se considera** el significado, **es** del 
 प्रणवत्तिले स्व-रूपत्तालुम् गुणत्तालुम् ज्ञानाकारऩ् आय् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रणवे  
+स्वरूपतो गुणतश् च ज्ञानाकारत्वेन 
+</details>
+
+
 <details><summary>English</summary>
 
 The jīva who appears in the praṇava as of the form (ākāra) of jñāna,  
@@ -17448,6 +17511,12 @@ tanto en su naturaleza esencial como en su atributo,
 अणुव् आय्त् तोऱ्ऱिऩ जीवऩुक्कु 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रत्यक्त्वेन अणुत्वेन च प्रतीतस्य जीवस्य, 
+</details>
+
+
 <details><summary>English</summary>
 
 and also as being atomic (aṇu), 
@@ -17468,6 +17537,11 @@ y también como atómico (aṇu),
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **नार**-शब्दम् क्षयम् इल्लाद्-अवऩ् ऎऩ्ऱु नित्यत्वञ् जॊल्लुगैयालुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+नार-शब्देन 'क्षय-रहित' इति नित्यत्वस्य बोधनात्, 
 </details>
 
 <details><summary>English</summary>
@@ -17492,6 +17566,14 @@ is described in the word Nara as eternal (without change or deterioration.)
 नरर्-उडैय समूहत्तैच् चॊल्लुगैयाले  
 जीवर्गळ्-उडैय अन्योऽन्य-भेदत्तै व्यक्तम् आक्कुगैयालुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+नर-समूह-प्रतिपादनेन  
+जीवानाम् अन्योन्य-भेदस्य व्यक्तीकरणात्, 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -17523,6 +17605,14 @@ Además desde que Narāh **significa** 'la multitud de Naraś',
 विशिष्ट-वेषत्तालुम् +++(शरीर-सम्बन्धे)+++ ब्रह्म-कार्यत्वन् तोऱ्ऱुगैयालुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> 'नराज् जातानि नाराणि' 
+
+इति निर्वचने विशिष्ट-वेषेण ब्रह्म-कार्यत्वस्य प्रतीतेश् च 
+</details>
+
+
 <details><summary>English</summary>
 
 If (on the other hand) we take the word Nārah to mean those who have their origin from Nara (Bhagavān ),  
@@ -17546,6 +17636,12 @@ Si (por otro lado) **tomamos** la palabra nārah para **significar** aquellos qu
 
 पद-द्वयत्तुक्कुम् प्रयोजन-भेदम् उण्डु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पद-द्वयस्य प्रयोजन-भेदो ऽस्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -17571,6 +17667,13 @@ Las dos palabras **tienen** un propósito (y **no son** redundantes).
 +++(बहु-व्रीहि-विग्रहे)+++ नार-शब्द-समानाधिकरणम् आऩ अयन-शब्दत्ताले  
 इवऱ्ऱुक्कु व्याप्यत्वादिगळुङ् कण्डु कॊळ्वदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(बहु-व्रीहि-विग्रहे)+++ नार-शब्द-समानाधिकरणेनायन-शब्देन  
+एषां व्याप्यत्वादि-सिद्धिर् अपि द्रष्टव्या । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -17609,6 +17712,19 @@ Por la palabra Ayana, **se deben entender** las ideas como sus (nārāh) **ser i
 ऎऩ्गिऱ श्रुत्य्-अर्थमुम्  
 इङ्गे कण्डु-गॊळ्वदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P293]]  
+
+> नित्यानां बहूनां चेतनानाम्  
+एको नित्यश् चेतनो  
+अभिमत+++(-प्राप्ति)+++-हेतुर् 
++++(← "नित्यो नित्यानां चेतनश् चेतनानाम्")+++
+
+इति श्रुत्य्-अर्थो ऽप्य् अत्र द्रष्टव्यः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -17656,6 +17772,12 @@ Este significado también **se puede ver** aquí.
 विशेषण-द्वारकम्।+++(4)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+नित्यत्वेन प्रमाण-सिद्धस्य जीवस्य  
+ब्रह्म-कार्यत्वं विशेषण-द्वारकम् । +++(5)+++
+</details>
+
 <details><summary>English</summary>
 
 It is true that the jīva is, according to the pramāṇas, eternal.  
@@ -17693,6 +17815,13 @@ El origen **era** de Brahman
 इप्-पडि नारायणात्मकादि-कल्पङ्गळिले सॊऩ्ऩ व्युत्पत्त्य्-अन्तरङ्गळुम् ऎल्लाम्  
 इवऱ्ऱोडु तुल्यम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं नारायणात्मकादि-कल्पोक्तानि व्युत्पत्य्-अन्तराण्य् अपि सर्वाण्य्  
+एतत्-तुल्यानि ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -17736,6 +17865,7 @@ también **son** similares a estas.
 नारन् तद् **अयनञ्** चेदं  
 यस्य नारायणस् तु सः॥’’() 
 
+इत्य्-उक्तत्वेन, 
 </details>
 
 <details><summary>English</summary>
@@ -17783,6 +17913,16 @@ El que **tiene** a Nāram como su ayanam (morada o lugar de **descanso**) **es**
 क्षयिष्णुक्कळ् अल्लामैयाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सर्व-पुंसां समूहः’’() 
+
+इत्य्-अस्याप्य् उपलक्षणत्वात्,  
+क्षयिष्णुत्वाभावात् 
+</details>
+
+
+
 <details><summary>English</summary>
 
 (In the light of this śloka) what was stated before (in Padmottaram), viz., 
@@ -17826,6 +17966,12 @@ Porque incluso la materia no sensible **no es perecedera** en su naturaleza esen
 न-र-शब्द-वाच्यङ्गळ् आऩ सर्व-तत्त्वङ्गळ्-उडैय समूहङ्गळुम् नारङ्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वरूपतः प्रवाहतो वा नित्यानां नर-शब्द-वाच्यानां सर्व-तत्त्वानां समूहा नाराः ।
+</details>
+
+
 <details><summary>English</summary>
 
 and also owing to the continuity (pravāha) of the different states (avasthās) into which it changes,  
@@ -17865,6 +18011,14 @@ y que **son denotados** por la palabra nara.
 तद्+++(→व्याप्य)+++-गत-दोषङ्गळै तत्+++(→व्याप्य)+++-प्रयुक्त+++(→कृत)+++-दोषङ्गळैयुम् कऴिक्किऱ क्षय-रहितऩ् ऎऩ्गिऱ व्युत्पत्तियालुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-व्यापकत्वादि-विशिष्टस्यैव सतो ऽपि  
+तद्-गत-दोषान् तत्-प्रयुक्त-दोषांश् च निवर्तयन्त्याः  
+'क्षय-रहित' इति व्युत्पत्तेः, 
+</details>
+
+
 <details><summary>English</summary>
 
 (1) While pervading all (beings and things),  
@@ -17901,6 +18055,12 @@ y por los **sufrimientos** que **podrían ser** causados ​​por ellos;
 ‘‘नृ नये’’ इत्य्-आदिगळालुम् +++(←नश्, रिष्)+++, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+'नृ नये' इत्यादिभ्यः +++(←नश्, रिष्)+++, 
+</details>
+
+
 <details><summary>English</summary>
 
 (2) the verbal root nr means " to lead": He who leads (souls) is Nara 
@@ -17929,11 +18089,20 @@ el que **lidera** (almas) **es** nara
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
- > ‘‘जह्नुर् नारायणो नरः’’  
+> ‘‘जह्नुर् नारायणो नरः’’  
 (भारतम् आनुशासनिक २३१-२९) 
 
 ऎऩ्ऱु नाम-धेयम् आगच् चॊल्लुगैयालुम्,
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘जह्नुर् नारायणो नरः’’  
+(भारतम् आनुशासनिक २३१-२९) 
+
+इति नामधेयतया प्रतिपादनात्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -17975,9 +18144,12 @@ que **son** los nombres de Bhagavān
 ता एवास्यायनं पुनः’’  
 (व्यासस्मृतिः) 
 
+इति व्यास-स्मृति-वाक्येन 
 
-> > ‘‘आपो वै नरसूनव’’ 
+> ‘‘आपो वै नरसूनव’’ 
 
+इत्य्-आदिषु  
+नर-शब्दस्य नारायण-बोधकत्वस्य सुव्यक्तत्वाच् च 
 </details>
 
 <details><summary>English</summary>
@@ -18028,6 +18200,11 @@ y solo se **convirtieron** en su ayana o lugar de **descanso** ".
 सर्व-नेताव् आऩ सर्वेश्वरऩुक्कुत् तिरु-नामम् आगैयाले
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"नर" इति नित्यस्य सर्व-नेतुः सर्वेश्वरस्य [श्री-]नामत्वात्, 
+</details>
+
 <details><summary>English</summary>
 
 Nara means also Nārāyaṇa for the above ~~following~~ reasons.
@@ -18064,7 +18241,6 @@ Entonces, el gobernante eterno y supremo que **lleva** a todos (para sí mismo) 
 नरस् स पुरुषोत्तमः ।  
 **नयत्य्** अखिल-विज्ञानन्  
 **नाशयत्य्** अखिलन् तमः ॥ 
-
 </details>
 
 <details><summary>English</summary>
@@ -18278,6 +18454,13 @@ y también los medios o upāya de **alcanzarlo** ".
 ऎऩ्ऱ अहिर्बुद्ध्न्यादि निर्वचनम् पण्णिऩबडिये 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P294]]  
+इत्य् अहिर्बुध्न्यादि-कृत-निर्वचन-रीत्या 
+</details>
+
+
 <details><summary>English</summary>
 
 In the Ahirbudhnyasamhitā (we find the above ślokas).
@@ -18297,8 +18480,14 @@ En el Ahirbudhnyasamhitā (**encontramos** los anteriores Ślokas).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘‘नरसम्बन्धि नारम्’’ ऎऩ्गिऱ व्युत्पत्तियाले 
+‘‘नर-सम्बन्धि नारम्’’ ऎऩ्गिऱ व्युत्पत्तियाले 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+'नर-संबन्धि नारम्' इति व्युत्पत्त्या 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -18311,8 +18500,17 @@ En el Ahirbudhnyasamhitā (**encontramos** los anteriores Ślokas).
 सर्वेश्वरऩ्-उडैय स्व-रूप--निरूपक-धर्मङ्गळुम्,  
 निरूपित--स्व-रूप--विशेषण-धर्मङ्गळुम्,  
 व्यापारङ्गळुम्, विग्रह-विशेषङ्गळुम्,  
-मऱ्ऱुम् उळ्ळ त्रि-विध--+++(बद्ध-मुक्त-नित्याः→)+++चेतनाचेतनङ्गळुम्+++(→प्रकृति-काल-नित्यविभूतयः) ऎल्लां नार-शब्दार्थम् आऩ पोदु 
+मऱ्ऱुम् उळ्ळ त्रि-विध--+++(बद्ध-मुक्त-नित्याः→)+++चेतनाचेतनङ्गळुम्+++(→प्रकृति-काल-नित्यविभूतयः)+++ ऎल्लां नार-शब्दार्थम् आऩ पोदु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वेश्वरस्य स्वरूप-निरूपक-धर्माणां, निरूपित--स्व-रूप--विशेषण-धर्माणां,  
+व्यापाराणां, विग्रह-विशेषाणाम्,  
+अन्येषां च त्रि-विध-+++(बद्ध-मुक्त-नित्याः→)+++चेतनाचेतनानां+++(→प्रकृति-काल-नित्यविभूतयः)+++ सर्वेषां  
+नार-शब्दार्थत्वे सति 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -18347,6 +18545,15 @@ Todos estos **se entienden** por la palabra nārāh.
 स्व-निष्ठत्वादिगळैच् चॊल्लुगिऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-व्यतिरिक्तस्य सर्वस्य  
+आश्रयत्वादि-रूपेणावस्थिति-रूपस्य प्रकारस्य विवक्षितत्वात्  
+स्वनिष्ठत्वादीनि प्रतिपाद्यन्ते ।
+
+</details>
+
+
 <details><summary>English</summary>
 
 From all this it may be inferred that He has the attribute of being the support of all except Himself.  
@@ -18373,6 +18580,17 @@ Por lo tanto, **declara** también que él **se mantiene** solo y en sí mismo (
 सर्व-शरीरित्व--सर्व-शब्द-वाच्यत्वादि वैभवमुम्  
 इङ्गे फलितम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं व्यापन-भरण-नियमन-स्वाम्य्-आदिभिः पृथग्-भूतस्य पुरुषोत्तमस्य  
+तत्-संबन्धिनां च  
+कु-दृष्टि--कथित--स्व-रूपैक्यादि-विषयक-- भ्रम-निवर्तनौपयिकं वैभवम्,  
+सर्व-शरीरित्व-- सर्व-शब्द-वाच्यत्वादि-वैभवम्  
+अत्र फलितम् । 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -18410,6 +18628,12 @@ y que **tiene** tan glorias como la de **ser denotada** por todas las palabras.
 नर-शब्दत्ताले +++(सत्यत्व-बोधक-)+++शोधक-वाक्यार्थमुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+नर-शब्देन +++(सत्यत्व-बोधक-)+++शोधक-वाक्यार्थः,  
+</details>
+
+
 <details><summary>English</summary>
 
 The word nara (meaning 'one who does not change') brings out the meaning of the clarificatory texts in the śruti  
@@ -18430,16 +18654,55 @@ La palabra nara (que **significa** 'uno que **no cambia**') **resalta** el signi
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नार-शब्दत्ताले स्वाम्य्-आदिगळाले वेऱु-बट्ट् इरुक्कुऱ पुरुषोत्तमऩुक्कुम् तत्सम्बन्धिकळुक्कुम् ‘‘नराज्जातानि तत्त्वानि नाराणि’’ ऎऩ्गैयाले कारणवाक्यार्थमुम्, 
+नार-शब्दत्ताले 
+
+> ‘‘नराज् जातानि तत्त्वानि नाराणि’’ 
+
+ऎऩ्गैयाले +++(जगत्-)+++कारण-वाक्यार्थमुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नराज् जातानि तत्त्वानि नाराणि’’ 
+
+</details>
+
+<details><summary>English</summary>
+
+The word nāra  
+which means those things which have their origin in Nara  
+as declared in the passage : 
+
+> "Those reals or tattvas that are born of Nara  
+are called nārāh”
+
+\- this word brings out the meaning of the śruti  
+that declares Brahman to be the ultimate cause of all; 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra nāra  
+lo que **significa** aquellas cosas que **tienen** su origen en Nara  
+Como **se declara** en el pasaje: 
+
+> "Esos reales o tattvas que **nacen** de Nara  
+**se llaman** nārāh "
+
+\- Esta palabra **saca** de lado el significado del Śruti  
+que **declara** que Brahman **es** la última causa de todos;
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-नारशब्दत्ताले स्वाम्यादिगळाले वेऱुबट्टिरुक्कुऱ पुरुषोत्तमऩुक्कुम् तत्सम्बन्धिकळुक्कुम् ‘‘नराज्जातानि तत्त्वानि नाराणि’’ ऎऩ्गैयाले कारणवाक्यार्थमुम्, 
+नारशब्दत्ताले ‘‘नराज्जातानि तत्त्वानि नाराणि’’ ऎऩ्गैयाले कारणवाक्यार्थमुम्, 
 </details>
 
 
-The word nāra which means those things which have their origin in Nara as declared in the passage : "Those reals or tattvas that are born of Nara are called nārāh”-this word brings out the meaning of the śruti that declares Brahman to be the ultimate cause of all; the word ayana brings out the meaning of the texts prescribing forms of meditation or worship (as leading to the attainment of ends desired by men).
+
+
+the word ayana brings out the meaning of the texts prescribing forms of meditation or worship (as leading to the attainment of ends desired by men).
 
 Such texts as those in the Subālopanishad declare that the Supreme Being who is the inner self of all and who has all kinds of kinship (to us) is Nārāyaṇa. (By this declaration) these passages state that the Supreme Being is no other deity than Nārāyaṇa.
 
