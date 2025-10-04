@@ -11,16 +11,6 @@ title = "०९ बादरायणोक्तिः"
 "उत्पत्त्य्-असंभवात्" इति ।  
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-This is the contention of the Advaitins. The entire Utpattyasambhava or the Pāñcarātra section of the Brahmasūtra [II. ii. 42-45] consisting of the four aphorisms: “utpattyasaṃbhavāt”, “na ca kartuḥ karaṇaṃ”, “vijñānādibhāve vā tadapratiṣedhaḥ” and “vipratiṣedhācca” had been interpreted by Śaṅkarācārya as refuting the validity of the Pāñcarātrāgamas.
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-Brahmasūtra: II. ii.42. This sūtra is the 42nd one in the second Pāda of the second Adhyāya, according to Śaṅkara. But according to Rāmānuja, this is the 39th aphorism.
-</details>
-
 <details><summary>Buitenen</summary>
 
 For this reason the venerable Badarāyaṇa,  
@@ -29,10 +19,17 @@ also refutes the Pancarãtra in his Sutra (BrS. 2.2.42.):
 "Because of the impossibility of origin.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अत ... This is the contention of the Advaitins. The entire Utpattyasambhava or the Pāñcarātra section of the Brahmasūtra [II. ii. 42-45] consisting of the four aphorisms: “utpattyasaṃbhavāt”, “na ca kartuḥ karaṇaṃ”, “vijñānādibhāve vā tadapratiṣedhaḥ” and “vipratiṣedhācca” had been interpreted by Śaṅkarācārya as refuting the validity of the Pāñcarātrāgamas.
+
+उत्पत्त्यसम्भवात् ... Brahmasūtra: II. ii.42. This sūtra is the 42nd one in the second Pāda of the second Adhyāya, according to Śaṅkara. But according to Rāmānuja, this is the 39th aphorism.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अत एव च भगवता बादरायणेन त्रयीमार्गप्रत्यनीकभूतकणभुगक्षचरणसुगतमतादिबाह्यसम् अयनिरासावसरेऽस्य तन्त्रस्य निरासः ।  
-उत्प्रत्यसंभवात् इति ।  
+उत्पत्त्यसम्भवात् इति ।  
 
 </details>
 
