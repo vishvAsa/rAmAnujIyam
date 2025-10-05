@@ -18823,11 +18823,125 @@ Así que **eres** por todos ",
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+’’ऎम्-बिराऩ्+++(=उदारः → स्वामी)+++, ऎन्दै+++(=पिता)+++’’  
+(पॆरिय-तिरु-मॊऴि १-१-६), 
+</details>
+
+<details><summary>English</summary>
+
+> The Lord is my master, who is my benefactor,  
+He is my father, my kinsman, my king." 
+</details>
+
+<details><summary>Español</summary>
+
+> El Señor **es** mi maestro, que **es** mi benefactor,  
+Él **es** mi padre, mi pariente, mi rey ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’ऎम्बिराऩॆन्दै’’(पॆरियदिरुमॊऴि १-१-६), 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘पिता त्वं, माता त्वं’’  
+(आळवन्दार् स्तोत्रम् ६०)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘पिता त्वं, माता त्वं’’  
+(आळवन्दार् स्तोत्रम् ६०)
+</details>
+
+<details><summary>English</summary>
+
+> " Thou art the world's father, its mother,  
+its beloved son, its affectionate friend,  
+its well-wisher and its guru ;  
+Thou art the goal to be attained  
+and also the upāya or means by which it is to be attained.  
+I am Thine,  
+I am sustained by Thee.  
+I am Thy servant.  
+I am one who considers Thee as the highest benefit.  
+I am one who has performed prapatti to Thee.  
+Therefore the burden of protecting me is Thine". 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Eres** el padre del mundo, su madre,  
+su amado hijo, su cariñoso amigo,  
+su **simpatizante** y su gurú;  
+Tú **eres** el objetivo a alcanzar  
+y también el upāya o medios por los cuales **se debe alcanzar**.  
+Yo **soy** tuyo  
+**Soy sostenido** por ti.  
+**Soy** tu sirviente.  
+**Soy** uno que te considera el mayor beneficio.  
+**Soy** uno que ha realizado Prapatti para ti.  
+Por lo tanto, la carga de **protegerme es** tuya ".
+</details>
 
 
-The Lord is my master who is my benefactor, He is my father, ny kinsman, my king." " Thou art the world's father, its mother, its beloved son, its affectionate friend, its wellwisher and its guru ; Thou art the goal to be attained and also the upāya or means by which it is to be attained. I am Thine, I am sustained by Thee. I am Thy servant. I am one who considers Thee as the highest benefit. I am one who has performed prapatti to Thee. Therefore the burden of protecting me is Thine". The Supreme Ruler is thas one who is the unconditioned relative in every form. If He is pleased (with us), there will be no one who will be opposed to us, for it has been said :-- "He from whose favour all these people will become favourable (to us)--that Rāma is now soliciting the favour of Sugrīva, the best of monkeys", and "When Keśava," the best of deities, who loves His devotees, is pleased, (with a man), his mind becomes clear thereby and all creatures--those that move and those that do not move become favourable to him. “When Bhagavān who is the God of all gods and who controls even Brahma is gracious, all the three worlds become favourable". “Iśvara is, by His very nature, "the well-wisher of all creatures ". If He is (at any time) differently disposed, it is due to the upādhi or circumstance of the cetana (or sentient being) having disobeyed His command. Even that disposition (of Iśvara's) will change (and become favourable) by some little gesture or consideration (vyāja). Have they not
+<details><summary>मूलम्</summary>
+
+‘‘पिता त्वं माता त्वं’’(आळवन्दार् स्तोत्रम् ६०)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ् पडिये  
+निरुपाधिक--सर्व-विध-बन्धु सर्वेश्वरऩ् ऒरुवऩुमे।
+</details>
+
+<details><summary>English</summary>
+
+The Supreme Ruler is thas one who is the unconditioned relative in every form. 
+</details>
+
+<details><summary>Español</summary>
+
+El gobernante supremo **es** el que es el pariente incondicionado en todas las formas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये निरुपाधिकसर्वविधबन्धु सर्वेश्वरऩॊरुवऩुमे।
+</details>
+
+### ??
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यस्य **प्रसादे** सकलाः  
+**प्रसीदेयुर्** इमाः प्रजाः’’  
+(रामायणम् किष्किन्दाकाण्डम् ४-२१) 
+
+ऎऩ्ऱुम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यस्य **प्रसादे** सकलाः  
+**प्रसीदेयुर्** इमाः प्रजाः’’  
+(रामायणम् किष्किन्दाकाण्डम् ४-२१) 
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘यस्य प्रसादे सकलाः प्रसीदेयुरिमाः प्रजाः’’(रामायणम् किष्किन्दाकाण्डम् ४-२१) ऎऩ्ऱुम्,
+</details>
+
+
+If He is pleased (with us), there will be no one who will be opposed to us, for it has been said :-- "He from whose favour all these people will become favourable (to us)--that Rāma is now soliciting the favour of Sugrīva, the best of monkeys", and "When Keśava," the best of deities, who loves His devotees, is pleased, (with a man), his mind becomes clear thereby and all creatures--those that move and those that do not move become favourable to him. “When Bhagavān who is the God of all gods and who controls even Brahma is gracious, all the three worlds become favourable". “Iśvara is, by His very nature, "the well-wisher of all creatures ". If He is (at any time) differently disposed, it is due to the upādhi or circumstance of the cetana (or sentient being) having disobeyed His command. Even that disposition (of Iśvara's) will change (and become favourable) by some little gesture or consideration (vyāja). Have they not
 
 declared: "Even after approaching Śrī Raṅganātha who is so mad as always to take pity on His servants, why do we still continue to be afflicted by saṁsāra?"
 
