@@ -7,7 +7,7 @@ anAchAra resulting from misunderstanding vidhi and tyAga is the most serious par
 These other issues (status of lakshmi, kaivalya, vyApti), though, add to the arrogance and intransigence of anAchAra-para-s if ignored।
 
 ## प्रमाणम्
-वेङ्कटनाथशाखाऽभ्युपगतः क्रमो [ऽन्यत्रोक्तः](॥/pramANAni)। 
+वेङ्कटनाथशाखाऽभ्युपगतः क्रमो [ऽन्यत्रोक्तः](../pramANAni)। 
 
 लोकाचार्य-शाखायाम् -
 
@@ -35,12 +35,20 @@ These other issues (status of lakshmi, kaivalya, vyApti), though, add to the arr
 इति केचित्।  
 These books are just collection of aitihyams unlike rahasya granthams। Not absolute pramana। Some vks doubt their authenticity claiming they came post १७th century and were attributed to earlier authors to get legitimacy। 
 
-One such dubious aitihyam, regarding nADAdUr ammAL, used by them is this। They cancel prapanna parijatam and other works of his telling that they were meant for lower prapanna adhikaris on the basis of this - 
+
+> वैशेषिकाः कथयन्ति  -ईश्वरस्य सिसृक्षावशात् परमाणुषु क्रिया  ततो विभागक्रमेण सृष्टिः  
+एवं तस्य संजिहीर्षावशात् प्रलय इति।  
+तद्वद् एव  ईश्वरस्य संप्रदायरक्षणेच्छया देशिकग्रन्थानामुत्पत्तिः,  
+संजिहीर्षावशात् वितथैतिह्यप्रमाणात् संप्रदायस्य नाशः।
+
+इति शठकोपतातार्यः। 
+
+One such dubious aitihyam, regarding nADAdUr ammAL, used by them is this - They cancel prapanna parijatam and other works of his telling that they were meant for lower prapanna adhikaris on the basis of this - 
 
 > प्रयाणकाले चतुरः स्वशिष्यन्  
 पादान्तिक-स्थान् वरदो ऽथ वीक्ष्य ।
-भक्तीप्रपत्ती यदि दुष्करे वो  
-रामानुजाय नमेत्यवादि ॥
+भक्तिप्रपत्ती यदि दुष्करे वो  
+??रामानुजाय नम इत्य् अवादि?? ॥
 
 ## प्रपत्तौ  
 प्रयोग-विचारो [ऽन्यत्र](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/lokAchAryAnuga-bhedAH) । 
