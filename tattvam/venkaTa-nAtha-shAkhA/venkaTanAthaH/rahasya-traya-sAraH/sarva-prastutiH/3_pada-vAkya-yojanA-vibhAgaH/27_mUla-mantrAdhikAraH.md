@@ -18621,8 +18621,8 @@ y que **tiene** tan glorias como la de **ser denotada** por todas las palabras.
 इप्पडि व्यापन भरणनियमनस्वाम्यादिगळाले वेऱुपट्टिरुक्किऱ पुरुषोत्तमऩुक्कुं, तत्-सम्बन्धिगळुक्कुं कुदृष्टिकळ् सॊऩ्ऩ स्वरूपैक्यादिभ्रमङ्गऴियुम्बडि सर्वशरीरित्वसर्वशब्दवाच्यत्वादि वैभवमुमिङ्गे फलितम्।
 </details>
 
-
-### सत्यम्
+### वेदान्त-वाक्यार्थाः
+#### सत्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नर-शब्दत्ताले +++(सत्यत्व-बोधक-)+++शोधक-वाक्यार्थमुम्, 
@@ -18651,7 +18651,7 @@ La palabra nara (que **significa** 'uno que **no cambia**') **resalta** el signi
 नरशब्दत्ताले शोधकवाक्यार्थमुम्, 
 </details>
 
-
+#### मूल-कारणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नार-शब्दत्ताले 
@@ -18699,10 +18699,34 @@ que **declara** que Brahman **es** la última causa de todos;
 नारशब्दत्ताले ‘‘नराज्जातानि तत्त्वानि नाराणि’’ ऎऩ्गैयाले कारणवाक्यार्थमुम्, 
 </details>
 
+#### उपासन-वाक्यार्थाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अयन-शब्दत्ताले अव्व्-ओ उपासन-वाक्यार्थङ्गळुम् ऎल्लाम्  
+इङ्गे प्रकाशितङ्गळ् आगिऱऩ। 
+</details>
+
+<details><summary>English</summary>
+
+the word ayana brings out the meaning of the texts prescribing forms of meditation or worship  
+(as leading to the attainment of ends desired by men).
+</details>
+
+<details><summary>Español</summary>
+
+La palabra Ayana **saca** a relucir el significado de los textos que **prescriben** formas de **meditación** o **adoración**  
+(como **conduciendo** al logro de los fines  
+**deseados** por los hombres).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अयनशब्दत्ताले अव्वो उपासनवाक्यार्थङ्गळुमॆल्लामिङ्गे प्रकाशितङ्गळागिऱऩ। 
+</details>
 
 
 
-the word ayana brings out the meaning of the texts prescribing forms of meditation or worship (as leading to the attainment of ends desired by men).
 
 Such texts as those in the Subālopanishad declare that the Supreme Being who is the inner self of all and who has all kinds of kinship (to us) is Nārāyaṇa. (By this declaration) these passages state that the Supreme Being is no other deity than Nārāyaṇa.
 
