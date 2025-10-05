@@ -23,6 +23,11 @@ for the great Lord is known on the authority of the upaniṣads.
 This is Yamuna's objection, which states the extent to which he concurs in the preceding Mimāmsā argument against Nyaya.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The Naiyāyika tries to uphold the validity of the Āgama, on the ground that its[[??]] author, the Supreme Person, is glorified in the Upaniṣads.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ननु च केवलतर्कबलादयं यदि सिषाधयिषापदमीश्वरः ।  
@@ -44,10 +49,28 @@ who is capable of creating the entire universe,
 how then can we refuse to accept the authority of a tradition which derives from His immediate cognition? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Vātsyāyana's commentary on the Nyāyasūtra, under IV. i. 21, P.291:[[??]]
+
+> āgamācca draṣṭā boddhā sarvajñātā īśvaraḥ.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदा तु सकलभुवननिर्माणक्षमसर्वज्ञसर्वेश्वरपरमपुरुषप्रतिपादकानि नित्यागमवचनान्येव बहुलमुपलभ्यन्ते कथं तदा तदनुभवमूलस्मरणप्रामाण्यानङ्गीकरणम् ।  
 </details>
+
+<details><summary>मूलम्</summary>
+
+न च परिनिष्ठित-वस्तु-गोचरतया तानि प्रमाण-मर्यादाम् अतिपतन्ति । तादृशाम् अपि प्रमाणान्तर-सम्भेदातिदूर-गोचराणां पौरुषेय-वचसां स्व-रस-समासादित-प्रामाण्य-वारणायोगात् ।
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+The Prābhākara's position with regard to the authority of statements speaking[[??]] of a past event (siddha or pariniṣṭhitavastu) is criticised by the Naiyāyika here.
+</details>
+
 
 ### प्रमाणान्तर-गोचरता-सम्भावना न बाधते
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="../../aMshaH/na_cha_siddhe">
@@ -109,6 +132,15 @@ as in the case of the cooking of the odana.
 (The injunction concerning the odana oblation includes an injunction concerning the preparation of the odana and the fetching of firewood for the cooking. Since experience shows that for a cooking fire one needs firewood, this karya is not strictly known on scriptural authority.)
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Prakaraṇapañcikā II. P.180:
+
+> kṛtisādhyaṁ pradhānaṁ yat, tat kāryamavasīyate  
+tacca mānāntareṇāpi vedyamodanapākavat.
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 कार्यमपि हि मानान्तरवेद्यमेव लौकिकं समिदाहरणादि, तच्च मानान्तरेणापि वेद्यमोदनपाकवदित्यभ्युपगमात् ।  
@@ -136,6 +168,11 @@ inasmuch as a karya concerning a categorically different thing like the agnihotr
 therefore the verbal testimony which sets forth such a thing must needs be its authority,
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Statements like “agnihotraṁ juhoti” (Taittirīya Saṁhitā : V. 9. 1) speak of “agnihotra”, which is a siddhavastu, but not a kārya. This, according to the Prābhākara, should not be primarily valid. But actually, he accepts its primary validity on the ground that such statements are the only means of revealing the instrumentality of fire-sacrifice with regard to heaven and such other fruits. When this is the case, the Naiyāyika sees no reason why the Prābhākara should not approve the validity of statements which speak of the existence of a Supreme Being.
+</details>
+
 <details><summary>मूलम्</summary>
 
 > अथ विलक्षणाग्निहोत्रादिविषयकार्यस्यासम्भावितमानान्तरतया तत्प्रतिपादयद्वचः प्रमाणम्,  
@@ -155,6 +192,11 @@ whose form consists in unsurpassed knowledge, supremacy and beatitude;
 so that it should follow that everything is entirely the same in both cases,  
 depending on one's particular partisan views.  
 (it is all the same, depending on what partisan view one takes! )
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+आग्रहे परं भेदः। तेन विना त्वदीयं मतं मदीयेन तुल्यम् एवेति भावः।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -209,6 +251,11 @@ Generally Perception is prior to Inference.
 To Yamuna, therefore, no priority of Perception to Scripture is given,  
 which is expected since in his view Scripture may also be an account of (God's) Perception,  
 as in the case of Pancaratra. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+पूर्वम् अवगतस्य तन्त्र-सामान्य-ज्ञानस्य उपमर्दकतया इति यावत्।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -289,6 +336,11 @@ while it is composed by the Omniscient One Himself
 The Prabhakaras, who are notorious for the gaurava 'complicatedness" of their argumentations.+++(5)+++
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The Prābhākara explains his position at great length.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अहो मन्दस्य मीमांसाश्रमहानिर्विजृम्भते ।  
@@ -310,6 +362,13 @@ The Prabhakaras, who are notorious for the gaurava 'complicatedness" of their ar
 36\. Learned thinkers, whose intellectual powers command respect,  
 maintain that all Vedic testimony carries authority  
 only concerning such karyas as cannot presuppose any other authority. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. Prakaraṇapañcikā V, P.93:
+
+sarvapadānāmeva hi svābhāvikī vṛddhavyavahārasiddhā kāryaparatā, lākṣaṇikī[[??]] ca siddhaparateti.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -484,6 +543,13 @@ to which it describes the performer's qualification:
 only one who desires to go to heaven has title to, is qualified for, the performance of a soma sacrifice.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Prakaraṇapañcikā* V, P.91:
+
+tatra liṅādipratyayo niyogārthaśarīramevābhidhadhāti, prakṛtistadviṣayam; padāntarāṇi ca viṣayaviśeṣaṇaṁ nāmadheyaṁ niyojyaṁ ca abhidhadhātīti.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्र च लिङादयोऽव्यभिचरितकार्यसंविदः कार्यशरीरमेव साक्षात्समर्पयन्ति तिङादयस्तु तदपेक्षिताधिकाराद्यनुबन्धप्रतिपादनमुखेन तत्समन्वयमनुभवन्तीति ।  
@@ -517,6 +583,17 @@ is really due to the denotative power of the statement.
 This is an example like "it is hot today;" the young father's happy countenance is not considered an action, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+न च ... Cf. ibid* V, P.93:
+
+tathāpi putraste jāta iti vākyasya putrajanmākhyaharṣahetupratipādakatā harṣahetūnāmānantyāt duranumānā; na ca pāriśeṣyeṇa tatpratipādakatvādhyavasāyaḥ; bhūtabhaviṣyadvartamānānāṁ sannihitavyavahitānāṁ pāriśeṣyāvadhāraṇāyā atyantaduṣkaratvāt.
+
+हेतूपनिपातेयममुनेति ... 'अयं हर्षः अमुना हेतुना जात' इति निर्धारयितुं शक्यम् इति।
+
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 न च पुत्रजननादिस्वरूपावेदनपर्यवसायिनः पदनिचयस्याविरलपुलकोदयवदनविकासादिभिरभिमतसुतजन्मादिप्रतिपादनशक्तिनिश्चयः अजातातिवृत्तप्रत्युत्पन्नविविधहर्षहेतूपनिपातेयममुनेति निर्धृत्य प्रतिपत्तुमशक्यत्वात् ।  
@@ -544,6 +621,13 @@ without actually having explicit reference to a kārya.
 E.g., the sentence "he who desires to go to heaven offers the soma sacrifice," is an injunctive statement in indicative form.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Prakaraṇapañcikā* V, P.92:
+
+vyutpannetarapadavibhaktyarthāḥ kāṣṭhaiḥ pacati iti vartamānopadeśe'pi yat pāke karaṇaṁ, tat kāṣṭhaśabdena pratipādyata ityavagamya pratyakṣeṇa kāṣṭhānāṁ karaṇabhāvamavagacchantaḥ kāṣṭhaśabde vyutpadyante.
+</details>
+
 <details><summary>मूलम्</summary>
 
 एतेन व्युत्पन्नेतरपदसमभिव्याहृतवर्तमाननिर्देशेऽपि कार्यैदम्पर्यविरहितपदशक्तिनिश्चयप्रतिविधिरनुसंधातव्यः ।  
@@ -569,6 +653,14 @@ This is the Prabhakara view of the denotativeness of single words,
 summarized in the formula anvitābhidhāna, which is short for kāryānvitābhidhana "denotation of words syntactically connected in an injunctive sentence,"
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Prakaraṇapañcikā* II, P.179:
+
+> śabdāntarāṇi svārtheṣu vyutpadyante yathaiva hi।  
+āvāpodvāpabhedena tathā kārye liṅādayaḥ॥
+</details>
+
 <details><summary>मूलम्</summary>
 
 पदान्तराणि यादृङ्क्षि व्युत्पद्यन्ते च तादृशम् ।  
@@ -589,6 +681,15 @@ It is proved that words have the power of denoting things
 only in so far as they are contextually connected with a karya;  
 consequently, their validity concerning an established fact  
 is based on this that they give rise to the notion of karya. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+अथ ... The Mīmāṁsaka poses two alternatives to refute the validity of statements referring to existent factors.
+
+“Tadbuddhihetutvāt” means “bhūtavastuviṣayakajñānajanakatvāt”.
+
+
 </details>
 
 <details><summary>मूलम्</summary>
@@ -617,6 +718,11 @@ so that the contention suffers of the vice of being unproved.
 <details><summary>Buitenen - Notes</summary>
 
 This point will be taken up and confirmed infra §04. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+“Tatparatā” means “bhūtavastuparatā”.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -668,6 +774,11 @@ that he knows that fruit means "fruit",
 river bank 'river bank," etc. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+According to the Prābhākara, all statements made by human beings are only inferential in character and as such, cannot be primarily valid.
+</details>
+
 <details><summary>मूलम्</summary>
 
 याः पुनर्लौकिकशब्दश्रवणसमनन्तरभाविन्योऽन्वयावगतयस्ता आनुमानिक्योऽभिहिताः न शाब्द्य इत्युपपद्यत एव तासामतत्पर्यवसानम् ।  
@@ -687,6 +798,12 @@ river bank 'river bank," etc.
 on what grounds then could an indicative statement like agnihotram juhoti  
 "he offers the agnihotra"  
 be accepted as an injunction?  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Taittirīya Saṁhitā* V. 9. 1.
+
 </details>
 
 <details><summary>मूलम्</summary>
@@ -753,6 +870,16 @@ when one is looking for gold
 therefore one finds gold! 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Tantravārtika under I. ii 1, P.2:
+
+na hi loṣṭaṁ paśyataḥ taddarśanaṁ niṣprayojanamiti suvarṇadarśanāt kalpyate.
+
+Veṅkaṭanātha quotes this passage in his Śeśvaramīmāṁsā under I. ii. 1, P.57.
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 न खलु कनकमभिलषतः शिलावलोकनमनभिमतमिति कनकावलोकनताऽश्रयितुमुचिता ।
@@ -808,6 +935,14 @@ according to the latter the upanisads are arthavadas (subsidiary substantive sta
 which eternality is presupposed by the efficacy of the injunction:  
 e.g., the injunction "he who desires heaven must offer with the soma sacrifice"  
 supposes the immortality of the performer. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. Prakaraṇapañcikā* V, P.93, ff:
+
+ataśca vedāntānāmapi ātmā jñātavya ityapunarāvṛttaye samāmnātena vidhinā ekavākyatāmāśritya kāryaparatvameva varṇanīyam....api ca siddhārthaparatve'pi śabdasya na vedāntānāṁ paramānandādirūpatve brahmaṇaḥ prāmāṇyamavakalpate; tatra hi brahmasvarūpānuvādenānandādirūpavidhirāstheyah.
+
 </details>
 
 <details><summary>मूलम्</summary>
