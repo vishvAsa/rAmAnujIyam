@@ -18725,12 +18725,109 @@ La palabra Ayana **saca** a relucir el significado de los textos que **prescribe
 अयनशब्दत्ताले अव्वो उपासनवाक्यार्थङ्गळुमॆल्लामिङ्गे प्रकाशितङ्गळागिऱऩ। 
 </details>
 
+#### सर्वान्तर्यामी सर्व-बन्धुः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुबालोपनिषत्-प्रभृतिगळिले  
+सर्वान्तर्यामियुम् आय्  
+सर्व-विध-बन्धुवुम् आय् इरुक्किऱ सर्वेश्वरऩ्  
+नारायण-शब्दत्ताले देवतान्तर-व्यावृत्तऩ् आग प्रतिपादितऩ् आऩाऩ्। 
+</details>
+
+<details><summary>English</summary>
+
+Such texts as those in the Subālopanishad declare that  
+the Supreme Being who is the inner self of all  
+and who has all kinds of kinship (to us) is Nārāyaṇa.  
+(By this declaration) these passages state that  
+the Supreme Being is no other deity than Nārāyaṇa.
+</details>
+
+<details><summary>Español</summary>
+
+Textos tales como los del subālopanishad **declaran** que  
+el ser supremo que **es** el ser interno de todos  
+Y quién **tiene** todo tipo de parentesco (para nosotros) **es** Nārāyaṇa.  
+(Por esta declaración) Estos pasajes **indican** que  
+El Ser Supremo **no es** otra deidad que Nārāyaṇa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सुबालोपनिषत्प्रभृतिकळिले सर्वान्तर्यामियुमाय् सर्वविधबन्धुवुमायिरुक्किऱ सर्वेश्वरऩ् नारायणशब्दत्ताले देवतान्तरव्यावृत्तऩाग प्रतिपादितऩाऩाऩ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+लोकत्तिल् उळ्ळ सर्व-बन्धुक्कळुम्  
+भगवत्-सङ्कल्पत्ताले बन्धुक्कळ् आऩार्गळ्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Those who are relatives in the world became relatives (to us) by the will of Bhagavān. 
+</details>
+
+<details><summary>Español</summary>
+
+Los que **son** parientes en el mundo **se convirtieron** en parientes (para nosotros) por la **voluntad** de Bhagavān.
+</details>
+
+<details><summary>मूलम्</summary>
+
+लोकत्तिलुळ्ळ सर्वबन्धुक्कळुम् भगवत्सङ्कल्पत्ताले बन्धुक्कळाऩार्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘त्वमेव माता च पिता त्वम् एव’’  
+(गान्धारीवाक्यम्) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘त्वमेव माता च पिता त्वम् एव’’  
+(गान्धारीवाक्यम्) 
+</details>
+
+
+<details><summary>English</summary>
+
+> “O, Best of  deities, Thou art my mother.  
+Thou art my father;  
+Thou art my kinsman;  
+Thou art my guru ;  
+Thou art my learning;  
+Thou art my wealth.  
+So Thou art by all ", 
+
+</details>
+
+<details><summary>Español</summary>
+
+> “Oh, lo mejor de las deidades, **eres** mi madre.  
+Tú **eres** mi padre;  
+Tú **eres** mi pariente;  
+Tú **eres** mi gurú;  
+Tú **eres** mi aprendizaje;  
+Tú **eres** mi riqueza.  
+Así que **eres** por todos ",
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘त्वमेव माता च पिता त्वमेव’’(गान्धारीवाक्यम्) 
+</details>
 
 
 
-Such texts as those in the Subālopanishad declare that the Supreme Being who is the inner self of all and who has all kinds of kinship (to us) is Nārāyaṇa. (By this declaration) these passages state that the Supreme Being is no other deity than Nārāyaṇa.
 
-Those who are relatives in the world became relatives (to us) by the will of Bhagavān. “O, Best of  deities, Thou art my mother. Thou art my father: Thou art my kinsman: Thou art my guru : Thou art my learning: Thou art my wealth. So Thou art by all ", The Lord is my master who is my benefactor, He is my father, ny kinsman, my king." " Thou art the world's father, its mother, its beloved son, its affectionate friend, its wellwisher and its guru : Thou art the goal to be attained and also the upāya or means by which it is to be attained. I am Thine, I am sustained by Thee. I am Thy servant. I am one who considers Thee as the highest benefit. I am one who has performed prapatti to Thee. Therefore the burden of protecting me is Thine". The Supreme Ruler is thas one who is the unconditioned relative in every form. If He is pleased (with us), there will be no one who will be opposed to us, for it has been said :-- "He from whose favour all these people will become favourable (to us)--that Rāma is now soliciting the favour of Sugrīva, the best of monkeys", and "When Keśava," the best of deities, who loves His devotees, is pleased, (with a man), his mind becomes clear thereby and all creatures--those that move and those that do not move become favourable to him. “When Bhagavān who is the God of all gods and who controls even Brahma is gracious, all the three worlds become favourable". “Iśvara is, by His very nature, "the well-wisher of all creatures ". If He is (at any time) differently disposed, it is due to the upādhi or circumstance of the cetana (or sentient being) having disobeyed His command. Even that disposition (of Iśvara's) will change (and become favourable) by some little gesture or consideration (vyāja). Have they not
+
+
+The Lord is my master who is my benefactor, He is my father, ny kinsman, my king." " Thou art the world's father, its mother, its beloved son, its affectionate friend, its wellwisher and its guru ; Thou art the goal to be attained and also the upāya or means by which it is to be attained. I am Thine, I am sustained by Thee. I am Thy servant. I am one who considers Thee as the highest benefit. I am one who has performed prapatti to Thee. Therefore the burden of protecting me is Thine". The Supreme Ruler is thas one who is the unconditioned relative in every form. If He is pleased (with us), there will be no one who will be opposed to us, for it has been said :-- "He from whose favour all these people will become favourable (to us)--that Rāma is now soliciting the favour of Sugrīva, the best of monkeys", and "When Keśava," the best of deities, who loves His devotees, is pleased, (with a man), his mind becomes clear thereby and all creatures--those that move and those that do not move become favourable to him. “When Bhagavān who is the God of all gods and who controls even Brahma is gracious, all the three worlds become favourable". “Iśvara is, by His very nature, "the well-wisher of all creatures ". If He is (at any time) differently disposed, it is due to the upādhi or circumstance of the cetana (or sentient being) having disobeyed His command. Even that disposition (of Iśvara's) will change (and become favourable) by some little gesture or consideration (vyāja). Have they not
 
 declared: "Even after approaching Śrī Raṅganātha who is so mad as always to take pity on His servants, why do we still continue to be afflicted by saṁsāra?"
 
