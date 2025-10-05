@@ -12,17 +12,6 @@ title = "०७ पृथक्-संस्कर-लिङ्गम्"
 तद् अवैदिकताम् एवानुकारयति, 
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-Cf. Pādmasaṃhitā Caryāpāda: I. 8b-10a:
-
-> naivādhikāriṇaste ca dīkṣāsaṃskāravarjitāḥ ॥  
-yathaiva dīkṣaṇīyeṣṭyā jāyante brāhmaṇādayaḥ ।  
-tathaiva dīkṣāvidhinā jāyamānā yathoditāḥ ॥  
-pūjāvidhau bhagavataḥ prakalpante 'dhikāriṇaḥ ।
-
-</details>
-
 <details><summary>Buitenen</summary>
 
 [[15]]  
@@ -34,6 +23,16 @@ demonstrates that the system is non-Vedic;
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Pādmasaṃhitā Caryāpāda: I. 8b-10a:
+
+> naivādhikāriṇaste ca dīkṣāsaṃskāravarjitāḥ ॥  
+yathaiva dīkṣaṇīyeṣṭyā jāyante brāhmaṇādayaḥ ।  
+tathaiva dīkṣāvidhinā jāyamānā yathoditāḥ ॥  
+pūjāvidhau bhagavataḥ prakalpante 'dhikāriṇaḥ ।
+
+</details>
 
 <details><summary>मूलम्</summary>
 

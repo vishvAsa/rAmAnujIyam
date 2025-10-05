@@ -13,6 +13,16 @@ title = "१० क्षुद्र-विद्या-परता"
 इति मन्यामहे । 
 </details>
 
+<details><summary>Buitenen</summary>
+
+In view of all this it is our opinion that such infrequent good rites- e.g., the worship of the Bhagavān - which are described by the Pañcaratricas  
+(who teach a good many others,  
+mostly black arts of exciting hatred, haunting a person out of his occupation, envoutement etc.)  
+are merely added to deceive people about their real attentions and do not deserve our faith or consideration: they are like milk that is put in a dog's bladder ! 
+
+[[16]]
+</details>
+
 <details><summary>नरसिंहः</summary>
 
 Cf. Tantravārtika under I. iii-4 : pp. 114-115 :
@@ -66,17 +76,6 @@ madgatā bhaktirevedamubhayaṃ sādhayiṣyati.
 
 This is the norm of all the Pāñcarātra texts. The main concern of their teaching is unflinching devotion to the Lord and the methods of translating that devotion into acts of worship, which are divided into five types: “abhigamana”, “upādāna”, “svādhyāya”, “ijyā” and “yoga”, to be performed in different parts of the day.
 </details>
-
-<details><summary>Buitenen</summary>
-
-In view of all this it is our opinion that such infrequent good rites- e.g., the worship of the Bhagavān - which are described by the Pañcaratricas  
-(who teach a good many others,  
-mostly black arts of exciting hatred, haunting a person out of his occupation, envoutement etc.)  
-are merely added to deceive people about their real attentions and do not deserve our faith or consideration: they are like milk that is put in a dog's bladder ! 
-
-[[16]]
-</details>
-
 
 <details><summary>मूलम्</summary>
 

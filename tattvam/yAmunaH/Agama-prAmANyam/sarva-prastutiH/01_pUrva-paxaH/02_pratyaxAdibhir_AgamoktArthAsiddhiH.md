@@ -10,6 +10,17 @@ title = "०२ प्रत्यक्षादिभिर् आगमोक
 स्वर्गापवर्गादि--साध्य-साधन-संबन्धं प्रत्यक्षादीन्य् आवेदयितुं क्षमन्ते ।  
 </details>
 
+<details><summary>Buitenen</summary>
+
+Now, Perception and the other means of knowledge which involve Perception,  
+cannot produce the knowledge  
+that the Pañcaratra Tantra does indeed set forth that the desired heaven, release and other supernatural ends  
+can be attained by means of such ritual acts as Consecration  
+and such devotional acts as worship of the Bhagavan etc.,  
+for this relation of means and ends is not of the order of Perception. 
+</details>
+
+
 <details><summary>नरसिंहः</summary>
 
 “Dīkṣā” or Initiation is one of the cardinal principles of the religious conduct of the Bhāgavata system. It consists of five main sacraments, barring a few details that are peculiar to particular sections of the followers. These sacraments are:
@@ -46,17 +57,6 @@ mokṣaikaniścayāśśāvasūtakāśaucavarjitāḥ
 (XXI. 40–41) 
 (*JRAS* for 1911, pp. 946-47)
 </details>
-
-<details><summary>Buitenen</summary>
-
-Now, Perception and the other means of knowledge which involve Perception,  
-cannot produce the knowledge  
-that the Pañcaratra Tantra does indeed set forth that the desired heaven, release and other supernatural ends  
-can be attained by means of such ritual acts as Consecration  
-and such devotional acts as worship of the Bhagavan etc.,  
-for this relation of means and ends is not of the order of Perception. 
-</details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -128,6 +128,11 @@ if the percipient is perfect.
 </details>
 
 
+<details><summary>नरसिंहः</summary>
+
+This is the view entertained by the Naiyāyika, as also by the Siddhāntin.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ननु च -  
@@ -135,12 +140,6 @@ if the percipient is perfect.
 प्रकृष्यमाणं प्रत्यक्षं दृष्टमाश्रयभेदतः ।  
 अतस्तदाश्रये क्वापि ध्रुवं परिनितिष्ठति ॥
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-This is the view entertained by the Naiyāyika, as also by the Siddhāntin.
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -252,16 +251,15 @@ The supreme perceptual knowledge which you assume is just a fancy.
 Perceptual knowledge can never go beyond its own sphere and trespass on another.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The Mīmāṃsaka refutes the above view. For a detailed discussion see the Siddhitraya: Īśvara-siddhi, p. 226 ff.
+</details>
 
 <details><summary>मूलम्</summary>
 
 तन्न प्रत्यक्षविज्ञानप्रकर्षः कल्पितोऽपि वः ।  
 स्वगोचरमतिक्रम्य नान्यदास्कन्दितुं क्षमः ॥
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-The Mīmāṃsaka refutes the above view. For a detailed discussion see the Siddhitraya: Īśvara-siddhi, p. 226 ff.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -272,11 +270,6 @@ The Mīmāṃsaka refutes the above view. For a detailed discussion see the Sidd
 समवायिषु चाक्षुषः ।  
 प्रकर्षो **भवितुं युक्तो**  
 दृश्यमान-प्रकर्षवत् +++(न तु स्पृश्यमान-प्रकर्षवत्)+++॥
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-रूपे, तद्वति घटे, तथा रूपेण सह एकस्मिन्न् अर्थे घटे समवाय-सम्बन्धेन विद्यमानेषु संख्या-परिमाणादिष्व् एव नियतः चक्षुः-प्रकर्षः न तु स्व-भिन्नेन्दिय-ग्राह्ये स्पर्श-गन्धादाव् इति भावः।
 </details>
 
 <details><summary>Buitenen</summary>
@@ -291,13 +284,8 @@ as between colour and coloured, obtain in one object.
 
 <details><summary>नरसिंहः</summary>
 
-> रूपे, तद्-वति घटे, तथा रूपेण सह एकस्मिन्न् अर्थे घटे समवाय-सम्बन्धेन विषयमानेषु संख्या-परिमाणादिष्व् एव नियतः चक्षुः-प्रकर्षः,  
-न तु स्पर्शेऽपि  
-स्व-भिन्नेन्द्रिय-ग्राह्ये स्पर्शन-ग्राह्याभावाद् 
-
-इति भावः ।
+रूपे, तद्वति घटे, तथा रूपेण सह एकस्मिन्न् अर्थे घटे समवाय-सम्बन्धेन विद्यमानेषु संख्या-परिमाणादिष्व् एव नियतः चक्षुः-प्रकर्षः न तु स्व-भिन्नेन्द्रिय-ग्राह्ये स्पर्श-गन्धादाव् इति भावः।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -317,11 +305,6 @@ as between colour and coloured, obtain in one object.
 विश्वं **बोधयितुं क्षमम्** ॥  
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-ज्ञानम् एव विज्ञान-शब्देनोक्तम्।
-</details>
-
 <details><summary>Buitenen</summary>
 
 [[4]]  
@@ -332,6 +315,10 @@ make all things known,
 i.e. also things known only through other means of ... knowledge? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+ज्ञानम् एव विज्ञान-शब्देनोक्तम्।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -348,11 +335,6 @@ i.e. also things known only through other means of ... knowledge?
 > विद्यमानोपलम्भने ।
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-“ननु” इति “प्रत्युत” इत्य् अथे प्रयुक्तः।
-</details>
-
 <details><summary>Buitenen</summary>
 
 7. The objector resumes:   
@@ -361,6 +343,10 @@ i.e. also things known only through other means of ... knowledge?
 is directed toward the perceiving of what exists at present. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+“ननु” इति “प्रत्युत” इत्य् अथे प्रयुक्तः।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -414,12 +400,6 @@ because it is limited to being Perception!
 बाल इव स्थविर-भावम् ।  
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-The Mīmāṃsaka poses three alternatives against the Naiyāyika’s theory of “Supreme Person” of which this is the first alternative.
-</details>
-
-
 <details><summary>Buitenen</summary>
 
 8\. The objection is refuted:  
@@ -440,6 +420,11 @@ something limited (the boy) is really unlimited (mature adult).
 </details>
 
 
+<details><summary>नरसिंहः</summary>
+
+The Mīmāṃsaka poses three alternatives against the Naiyāyika’s theory of “Supreme Person” of which this is the first alternative.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इदमपि सातिशयेन निरतिशयमनुमिमानः पृष्टो व्याचष्टां सातिशय एव किन्नु तां दशामनुभवति यतः परं न संभवति महिमेत्यभिनिविशसे बाल इव स्थविरभावम् ।  
@@ -452,14 +437,6 @@ something limited (the boy) is really unlimited (mature adult).
 आहोस्वित् समान-जातीयेनान्येन निरतिशय-दशाम् अधिरूढेन भवितव्यम् इति ।  
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-अथ एकस्मिन् … - This is the second alternative.
-
-अहोस्वित् … - This is the third one.
-</details>
-
-
 <details><summary>Buitenen</summary>
 
 There are two possibilities:  
@@ -467,6 +444,12 @@ either the infinite exists in the finite,
 or the finite gradually becomes infinite. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अथ एकस्मिन् … - This is the second alternative.
+
+अहोस्वित् … - This is the third one.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -504,11 +487,6 @@ which had the same expansion as space.
 इति तत्-प्रतिहततयेतर-भाव-भङ्ग-प्रसङ्गः
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-गणिको महा-कुम्भः।
-</details>
-
 <details><summary>Buitenen</summary>
 
 [[5]]
@@ -518,6 +496,10 @@ so that all other things would be pushed out and perish accordingly!
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+गणिको महा-कुम्भः।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -530,11 +512,6 @@ so that all other things would be pushed out and perish accordingly!
 मध्यमः सिद्ध-साधनः ।  
 कल्पान्तरेऽपि **दुर्-वारं**  
 प्राग्-उदीरित-दूषणम् ॥
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-Manuscript V₁ starts from “dūṣaṇam”, the preceding text being lost. See Critical Apparatus.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -554,6 +531,10 @@ Space (akāta) is, by definition, unlimited
 and cannot illustrate the thesis that something finite can be infinite. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Manuscript V₁ starts from “dūṣaṇam”, the preceding text being lost. See Critical Apparatus.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -598,11 +579,6 @@ vibhu in the sense of "omnipresent, infinite."
 परिमाणं हि नाम देशावच्छेदः, इयत्ता-परितोभाव-वेष्टनम् इति यावत् ।  
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-Veṅkaṭanātha in his Nyāyasiddhāñjana, ch. VI. p. 170, quotes from “yadapi” to “nirdiśyate”
-</details>
-
 <details><summary>Buitenen</summary>
 
 Let us also consider your illustration,  
@@ -612,6 +588,10 @@ something that can be entirely circumscribed.
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Veṅkaṭanātha in his Nyāyasiddhāñjana, ch. VI. p. 170, quotes from “yadapi” to “nirdiśyate”
+</details>
 
 <details><summary>मूलम्</summary>
 

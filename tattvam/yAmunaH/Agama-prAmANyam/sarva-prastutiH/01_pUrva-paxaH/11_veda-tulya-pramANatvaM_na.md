@@ -1067,9 +1067,9 @@ is also perceived to be uttered by no one but an embodied being …
 
 <details><summary>नरसिंहः</summary>
 
-पुण्येतराधीन... पुण्यवद् इतरा(पापा)धीनेति भावः। 
+पुण्यवद् इतरा(पापा)धीनेति भावः। 
 
-निर्माणं ... "निर्माणं" निर्मातृत्वम् इति भावः। 
+"निर्माणं" निर्मातृत्वम् इति भावः। 
 
 </details>
 
@@ -1445,7 +1445,22 @@ before he can actually undertake their production.
 
 <details><summary>नरसिंहः</summary>
 
-'यदि परं' इत्य् अस्य , 'यदि यत् किञ्चिद् विवक्षितं, तर्हि एवं वक्तव्यम्' इत्य् अर्थः। 
+यदि परं ... 'यदि परं' इत्य् अस्य , 'यदि यत् किञ्चिद् विवक्षितं, तर्हि एवं वक्तव्यम्' इत्य् अर्थः। 
+
+इह तु ... Cf. Ślokavārtika, Saṃbandhākṣepaparihāra: śl. 75:
+
+> kasyacit hetumātṛatvaṁ yadyadhiṣṭhānatocyate  
+karmabhiḥ sarvajīvānāṁ tatsiddheḥ siddhasādhanam.
+
+The same idea is expressed in the Īśvarasiddhi, P.242:
+
+> āgamādavagamyante vicitrāḥ karmaśaktayaḥ  
+tena karmabhirātmānaḥ sarvaṁ nirmimatāṁ pṛthak.
+
+प्रत्ययेन ...   “Pratyaya” here means “jñāna”.
+
+सम्प्रत्याकलित ... “Samprati” is used in the sense of “samyak”. Also see the following verse “kṛtārthatvāt krīḍā” etc. where also the word “saṃprati” occurs.
+
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1472,6 +1487,11 @@ Thus, aided by these causes, they render manifest such products as earth etc.
 प्रवीणो, नैवान्यः क्षम इति च नास्त्यत्र नियमः ॥
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+By “prakṛti” is meant “upādāna” and by “karaṇa” is meant “nimitta” and the like.
+</details>
+
 <details><summary>Buitenen</summary>
 
 Also, there is no invariable rule  
@@ -1495,6 +1515,14 @@ and nobody else.
 बलीयः प्रत्यक्ष-प्रतिहत-मुखत्वेन तद् असत् ॥  
 स एवायम् मेरुर् दिवस-कर-बिम्बञ् च तदिदं  
 धरित्री सैवेति स्फुटम् इह यतो धीर् उदयते ।+++(5)+++
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+अपश्यन्नेवायं ... Cf. Īśvarasiddhi, P.246: “na copādānādisākṣātkāriṇa eva kartṛtvamityapi niyamaḥ; upādānamupakaraṇaṁ ca aviduṣa evātmano jñānādiṣu kartṛtvāt”.
+
+विनाशीदं ... Cf. तथा सावयवत्वेन etc., above.
+
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1556,6 +1584,11 @@ who have the same notion of these entities' present existence.
 इदानीन्तन-कालवत् +++(←सनरः)+++ ॥ +++(5)+++ 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This long compound qualifies the term “atītakālaḥ”.
+</details>
+
 <details><summary>Buitenen</summary>
 
 To put it in syllogistic form: 
@@ -1594,6 +1627,12 @@ The same syllogism can be constructed with regard to the future.
 प्रत्यक्षौ भङ्ग-सम्भवौ ॥ +++(4)+++ 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'यो ऽयं घट' इति प्रत्यभिज्ञया घटादेर् अपि नित्यत्वं न शङ्कनीयम् इति भावः। तत्र कारणम् आह ‘यत‘ इति । [[??]]  
+
+</details>
+
 <details><summary>Buitenen</summary>
 
 This reasoning does not entail the fallacious conclusion that pots etc. are eternal,  
@@ -1616,6 +1655,21 @@ for in their case origination and annihilation are directly evident.
 तेनात्मेत्य् अस्त्य् **असम्भवः** ॥
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'विरोधे सति, येन हेतुना आत्मा नैव लभ्यते [हेतुत्वं हीयत इति यावत्], तेन अविरोधे ऽपि सति, आत्मा न लभ्यतय् इत्य् एतत् न सम्भवति ।' इति श्लोकस्यास्य पदान्वयः । 
+
+Cf. Tantravārttika under I. iii. 51-54, 55:
+
+> na hi yena pramāṇatvaṁ labdhapūrvaṁ kadācana।  
+tena tat sarvadā labhyamityājñāpayatīśvaraḥ॥  
+na ca yad balavadruddhamātmānaṁ naiva vindati।  
+avirodhe 'pi tenātmā na labdhavyaḥ kathaṁcana॥  
+na cāpi bādhakābhāvāt labdha ātmeti sarvadā।  
+labdhavyaḥ sa virodhe 'pi pūrvasāmānyadarśanāt॥
+
+</details>
+
 <details><summary>Buitenen</summary>
 
 It does not follow that,  
@@ -1627,7 +1681,7 @@ when it does not involve a contradiction.
 
 <details><summary>Buitenen - Notes</summary>
 
-read na labhyate .avirodhe" pi; the meaning is this: when a certain fact (the eternality of pots) cannot be proved by a ground (recollection)  
+read "na labhyate .avirodhe" pi; the meaning is this: when a certain fact (the eternality of pots) cannot be proved by a ground (recollection)  
 because this ground contains a contradiction  
 (it is recollected that pots having existed cease to exist),  
 this does not prove that the same ground (recollection) cannot prove the eternality of earth, mountains, etc., when there is no contradiction contained in it (nobody has recollection of a vanishing mountain). 
@@ -1648,6 +1702,11 @@ this does not prove that the same ground (recollection) cannot prove the eternal
 जगज्-जन्म-भङ्गश् च यः **प्रत्यपादि** ।  
 स च प्रत्यभिज्ञा-बल-ध्वस्त-हेतुर्  
 **न** हृद्यत्वम् अद्य **प्रपद्येत** युक्त्या ॥
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. महत्तया सनाथेन etc., above.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1688,6 +1747,12 @@ having something left to desire,
 being deprived of omnipotence and omniscience, etc.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Karmamīmāṁsā*: pp. 61-62:
+
+> Experience, Prabhākara urges, shows us the bodies of all animals being produced by purely natural means; we can argue hence to the facts of the past and future and need invoke no extraneous aid.....Supervision ( by God ) also is impossible, even had God the necessary knowledge; it must take the form either of contact, which is impossible as merit and demerit being qualities are not subject to contact, or inherence, and plainly a man's qualities cannot inhere in God. If the argument is adduced on the analogy of the carpenter, it may be replied that on this basis, the creator would have to be an embodied spirit, and no embodied spirit can effect such subtle things as the atoms or merit and demerit.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1705,6 +1770,12 @@ How, then, can the fact that the world is a product
 convey to us the knowledge that the producer proposed for it  
 possesses the postulated properties, of being bodiless, eternally satisfied, omniscient etc., properties,  
 that is, which are the opposite of what would naturally follow? 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+'सिसाधयिषिते कर्तरि' इत्य् अर्थः।
+
 </details>
 
 
@@ -1757,6 +1828,10 @@ If it be eternal, then your contention that
 whatever has parts must come to an end is not universally true.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+स्वदुक्तस्य[[??]] सावयवत्वहेतोर् नैकान्तिक-दोषो भवेद् इत्य् अन्वयः।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1784,6 +1859,10 @@ establishes another topic discussed (e.g., omniscience).
 On this question, ef. Tarkabhāṣā 43. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+“Adhikaraṇasiddhānta” or “Doctrine resting on Implication”, is defined in the Nyāyasūtra under I. i. 30 as “yatsiddhau anvayaprakaraṇasiddhiḥ, so'dhikaraṇasiddhāntaḥ”. Cf. Vātsyāyana's bhāṣya on it: “yasya arthasya siddhau anye arthāḥ anuṣajjyante, na tair vinā so'rthaḥ siddhyati, te arthāḥ tadadhiṣṭhānāḥ[[??]], so'dhikaraṇasiddhāntaḥ”. So, Adhikaraṇasiddhānta can be explained as the principle by which, when a certain thing is known or accepted, certain other things automatically follow, by reason of their dependence upon the former. This Adhikaraṇasiddhānta in modern logic is known as “pakṣadharmatā”. Since the fact of earth, etc. having a creator cannot be proved unless that creator is also accepted as a direct perceiver of all entities including the atoms ( the material cause of the cosmos ), the admission of such a power of all-round perception in that creator follows by the principle ‘Adhikaraṇasiddhānta’ ( Implied Doctrine ).
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1805,6 +1884,10 @@ but does not actually exist.
 In our case, however, the conflict is plain enough. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+“अपि च धर्मि-विशेष-विरुद्धश् चायं हेतुः” इति पूर्वम् एव (पु.32) हेतु-विरोधः प्रपञ्चितः।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1828,6 +1911,11 @@ In our case, however, the conflict is plain enough.
 then all logical process of deduction is done with.  
 But if deduction can indeed convey true knowledge,  
 that it must also convey that there is a producer capable of creating the entire universe. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+'अवधृताविनाभाव-नियमम्' इत्य् एतत् ‘कार्यत्वम्’ इत्य् अस्य पदस्य अध्याहृतस्य विशेषणं भवितुम् अर्हति। [[??]] इत्य् अस्य वा विशेषणत्वेन स्वीकर्तुं शक्यते।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1865,6 +1953,11 @@ as at the moment of grasping the concomitance, are known to obtain in any produc
 <details><summary>Buitenen</summary>
 
 Nor do we carry our point too far. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+यत्र धूमस् तत्र वह्निर् इति व्याप्तिर् महानसादौ गृहीता। पर्वते धूमं दृष्ट्वा वह्निम् अनुमातुं प्रवृत्तस्य पुरुषस्य, तत्रत्यो ऽपि वह्निः महानसादाव् इव फूत्कारेणैव प्रवृद्ध इति, स च पाकार्थम् उपयुज्यत इत्य्-आद्याः सम्भावनाः सम्भाव्यमाना अत्र अतिप्रसङ्ग-शब्देन सूचिताः। एतेषां विपरीत-विशेषणानां प्रत्यक्ष-प्रमाण-बाध्यत्वम् आह प्रमाणान्तरेत्य्-आदिना। तथा च पर्वतं गत्वा तत्रत्यो वह्निः कीदृश इति विचारे क्रियमाणे, पूर्वं वह्नि-विषये सम्भावितान् फूत्कार-प्रवर्धन-पाकोपयोगादीन् अतिप्रसङ्गान् प्रत्यक्ष-प्रमाणम् एव निवारयेद् इति भावः।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1911,6 +2004,14 @@ elicited through positive and negative consideration
 are indiscriminately established by the deduction, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अत्र ... Cf. Īśvarasiddhi, P.244.
+
+कर्मभावे ... ‘सकल-प्रमाणान्तरानवगते’ इत्य् अर्थः।
+
+स्थापयतीति ... कर्तृत्वम् इव अनीश्वरत्वादिकम् अपि धर्म-जातं व्याप्ति-बलेन व्यवस्थापयतीत्य् अर्थः।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1933,6 +2034,13 @@ In this instance, too, the assumption that a person, beyond the ken of our sense
 must remain entirely conjectural, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+तथा च ... अत्र सन्दर्भानुरोधेन ‘तथा च’ इत्य् अस्य ‘किञ्च’ इत्य् अर्थो वर्णनीयः।
+
+अनैकान्तः ... कार्यत्व-हेतुर् इति योजनीयम्।
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1963,6 +2071,38 @@ while occupying a certain space at a certain time
 and aiming at a certain result which he wants.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Nyāyamañjarī Vol. I, P.191:
+
+> kiṁ kimapi prayojanamananusandhāya jagatsarge pravartate prajāpatirevameva vā ? niṣprayojanīyāṁ pravṛttāvaprekṣāpūrvakāritvāt unmattatulyo'sau bhavet.
+
+Vide Śaivasiddhānta P.83 ff.
+
+> To create the world, the Lord should have occupied some place, but where is it exactly, when we definitely know that by then, space itself has not been created ?
+
+Kumārila is the most relentless and vehement critic of the divine origination and dissolution of the universe. Creation of the world is refuted in
+
+Ślokavārtika, under 1-i-5; śl. 47:
+
+> pravṛttiḥ kathaṁ ādyā ca jagataḥ saṁpratīyate।  
+śarīrāder vinā cāsya kathamicchāpi sarjane ?
+
+Dissolution, likewise, is refuted in śl. 68:
+
+> pralaye 'pi pramāṇaṁ naḥ sarvocchedātmake na hi।  
+na ca prayojanaṁ tena syāt prajāpatikarmaṇā॥
+
+For a detailed refutation of the creative activity of God, at a time when space itself did not exist, see ibid. śls. 45, 50-51:
+
+> yadā sarvamidaṁ nāsīt kvāvasthā tatra gamyatām।  
+prajāpateḥ kva vā sthānaṁ kiṁ rūpaṁ ca pratīyatām॥
+
+> sādhanaṁ cāsya dharmādi tadā kiṁcinna vidyate।  
+na ca nissādhanaḥ kartā kaścit sṛjati kiñcana॥  
+nādhāreṇa vinā sṛṣṭirūrṇanābherapīṣyate।  
+prāṇināṁ bhakṣaṇāccāpi tasya lālā pravartate॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1989,6 +2129,37 @@ for this states clearly that the Lord is by nature independent from anything bes
 Yet willynilly, without regard for anything He might wish, He shoulders the vast task of creating, sustaining and destroying the world.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+कृतार्थत्वात् ... Vide Ślokavārtika under I. i. 5, śls. 54-56:
+
+> tathā cāpekṣamāṇasya svātantryaṁ pratihanyate।  
+jagaccāsṛjatastasya kiṁ nāmeṣṭaṁ na siddhyati ?  
+prayojanamanuddiśya na mando 'pi pravartate।  
+evameva pravṛttiścet caitanyenāsya kiṁ bhavet ?  
+krīḍārthāyāṁ pravṛttau ca vihanyeta kṛtārthatā।  
+bahuvyāpāratāyāṁ ca kleśo bahutaro bhavet॥
+
+Also cf. ibid: śl. 57, ff.
+
+Cf. Nyāyamañjarī, Vol. I, P.192:
+
+atha krīḍārthe jagatsarge bhagavataḥ pravṛttirīdṛśā ca śubhāśubharūpeṇa jagatḥ sṛṣṭena[[??]] krīḍati parameśvara ityucyate, tarhi krīḍāsādhyasukharahitatvena sṛṣṭeḥ[[??]] pūrvamanavāptasakalānandatvaṁ nāma tasya svarūpamavahīyate;
+
+> na ca krīḍāpi niśśeṣajanatātaṅkakāriṇī।  
+āyāsabahulā ceyaṁ kartuṁ yuktā mahātmanaḥ॥
+
+tasmānna jagatāṁ nātha īśvaraḥ sraṣṭā saṁhartāpi bhavati.
+
+Also cf. ibid: P.194:
+
+> ata eva nirīkṣya durghaṭāṁ jagato janmavināśāḍambaraṁ।  
+na kadācidanīdṛśaṁ jagat kathitaṁ nītirahasyavedibhiḥ॥
+
+‘सम्प्रति’ सम्यग् इत्य् अर्थः। जगत्-सृजनं भगवतः स्वभावश् चेद् उच्यते, तर्हि सम्यग् एव तस्य स्वातन्त्र्यं प्रतिपादितं भवद्विर् इति सोपालम्भम् आह। तदा तु भगवान् परतन्त्र एव स्याद् इत्य् आशयः।
+
+असमीक्ष्यैव ... स्वभावत्वाद् एव असमीक्षोपपद्यते।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2016,6 +2187,48 @@ Besides, if their karman provides sufficient causes for these creatures' variety
 why assume God at all? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अनुकम्पाप्रयुक्तेन ... Vide Ślokavārtika, under I. i-5, śls. 52, 53:
+
+> abhāvāccānukampyānāṁ nānukampāsya jāyate।  
+sṛjecca śubhamevaikaṁ anukaṁpāprayojitaḥ॥  
+athāśubhād vinā sṛṣṭiḥ sthitirvā nopapadyate।  
+ātmādhīnābhyupāye hi bhavet kiṁnāma duṣkaram ?
+
+Cf. Īśvarasiddhi, P.244-245:
+
+> svārthakāruṇyābhāvena vyāptāḥ prekṣāvataḥ kriyāḥ।  
+īśvarasyobhayābhāvāt jagatsargo na yujyate॥
+
+avāptakāmatvānna tāvadātmārthe sṛjati; pralayasamaye pralīnasakalakaraṇakalebarādibhogopakaraṇatayā ca cetanānāṁ duḥkhābhāvāt duḥkhidarśanajanitakṛpāprayuktirapi nāstīti vyāpakabhūtasvārthakāruṇyanivṛtteḥ vyāpyabhūtāyā prekṣāvatpravṛttyāpi nivartitavyam;
+
+> sukhaikatānāṁ janayet jagat karuṇayā sṛjan।  
+tatkarmānuvidhāyitve hīyetāsya svatantratā॥
+
+Cf. Nyāyamañjarī, Vol. I. P.192:
+
+> avāptasarvānandasya rāgādirahitātmanaḥ।  
+jagadārabhamāṇasya na vidmaḥ kiṁ prayojanam॥  
+
+anukampayā pravartata iti cet, maivam —  
+
+> sargāt pūrvaṁ hi niśśeṣakleśasaṁsparśavarjitāḥ।  
+nāsya muktā ivātmāno bhavanti karuṇāspadam॥  
+
+... ... ... ... ... ... ... ... ... ... ...  
+
+> karuṇāmṛtasaṁsiktahṛdayo vā jagat sṛjan।  
+kathaṁ sṛjati durvāraduḥkha prāgbhāradāruṇam?
+
+
+ततः ... Cf. ibid*:
+
+nānātmagataśubhāśubhakarmakalāpānapekṣaḥ[[??]] sraṣṭā prajāpatiriti cet karmāṇyeva hi tarhi[[??]] sṛjantu jaganti, kiṁ prajāpatinā ? athācetanānāṁ cetanānadhiṣṭhitānāṁ[[??]] sraṣṭṛtvamaghaṭamānamiti teṣāmadhiṣṭhātā cetanaḥ kalpyata iti cenna;[[??]] tadāśrayāṇāmeva cetanatvāt ta evādhiṣṭhātāro bhaviṣyanti; kimadhiṣṭhātrantareṇeśvareṇa[[??]] kāryam ?
+
+हेतुभिः — कर्म-स्वभावादिभिः।
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2081,6 +2294,13 @@ The latter is justifiable
 because the well no longer serves a purpose.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Śābarabhāṣya under I. i-5; P.12:
+
+na ca himavadādiṣu kūpārāmādivat asmaraṇaṁ bhavitumarhati..
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2193,6 +2413,11 @@ the same holds true of the Pañicarātra Tantra.
 It is the contention of Mimamsa that words and their capacity of conveying meaning are eternal.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The Naiyāyika tries to examine the revealed character (apauruṣeyatva) of the Vedas, which the Mīmāṁsaka so zealously champions.
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2261,7 +2486,7 @@ So where does the difference lie between Pañçaratra and Vedic revelation?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अयममेव विशेषो यद्  
+अयमेव विशेषो यद्  
 एकत्र स्व-तन्त्र एव पुरुषस् तां ताम् आनुपूर्वीं **रचयति**  
 इतरत्र पर-तन्त्रो नियमेन पूर्वाध्येतृ-सिद्धाम् एव **विवक्षति**,+++(4)+++ 
 </details>
@@ -2276,9 +2501,14 @@ a dependent person invariably wishes to repeat the exact sequence
 which had been laid down before him by students who preceded him. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This is how the Mīmāṁsaka vindicates his contention.
+</details>
+
 <details><summary>मूलम्</summary>
 
-अयममेव विशेषो यदेकत्र स्वतन्त्र एव पुरुषस्तां तामानुपूर्वीं रचयति इतरत्र परतन्त्रो नियमेन पूर्वाध्येतृसिद्धामेव विवक्षति, 
+अयमेव विशेषो यदेकत्र स्वतन्त्र एव पुरुषस्तां तामानुपूर्वीं रचयति इतरत्र परतन्त्रो नियमेन पूर्वाध्येतृसिद्धामेव विवक्षति, 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2299,6 +2529,10 @@ And with this we conclude our lengthy disquisition.
 kramāvāntarajati; the difference resides in the createdness of the Pancarātra and the uncreatedness of the Veda, which introduces a difference of degree between the word sequences of both corpora of verbal statements.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘अवान्तरजातिर्’ इत्य् अस्य वैलक्षण्यम् इत्य् अर्थः। क्रम-नियमानियमाभ्याम् एव वेद-पञ्च-रात्रयोर् वैलक्षण्यं सुस्पष्टम् इत्य् आशयः।
+</details>
 
 <details><summary>मूलम्</summary>
 
