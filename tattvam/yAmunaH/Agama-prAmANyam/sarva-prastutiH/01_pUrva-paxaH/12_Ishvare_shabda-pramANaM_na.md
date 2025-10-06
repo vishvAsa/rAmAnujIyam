@@ -25,7 +25,7 @@ This is Yamuna's objection, which states the extent to which he concurs in the p
 
 <details><summary>नरसिंहः</summary>
 
-The Naiyāyika tries to uphold the validity of the Āgama, on the ground that its[[??]] author, the Supreme Person, is glorified in the Upaniṣads.
+The Naiyāyika tries to uphold the validity of the Āgama, on the ground that its author, the Supreme Person, is glorified in the Upaniṣads.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -68,7 +68,7 @@ Cf. Vātsyāyana's commentary on the Nyāyasūtra, under IV. i. 21, P.291:[[??]]
 
 <details><summary>नरसिंहः</summary>
 
-The Prābhākara's position with regard to the authority of statements speaking[[??]] of a past event (siddha or pariniṣṭhitavastu) is criticised by the Naiyāyika here.
+The Prābhākara's position with regard to the authority of statements speaking of a past event (siddha or pariniṣṭhitavastu) is criticised by the Naiyāyika here.
 </details>
 
 
@@ -368,7 +368,7 @@ only concerning such karyas as cannot presuppose any other authority.
 
 Cf. Prakaraṇapañcikā V, P.93:
 
-sarvapadānāmeva hi svābhāvikī vṛddhavyavahārasiddhā kāryaparatā, lākṣaṇikī[[??]] ca siddhaparateti.
+sarvapadānāmeva hi svābhāvikī vṛddhavyavahārasiddhā kāryaparatā, lākṣaṇikī ca siddhaparateti.
 </details>
 
 <details><summary>मूलम्</summary>
