@@ -488,6 +488,10 @@ there would be tautology of sarvavit.
 Consequently, the word sarvajia refers only to Mahadeva;
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The above argument, says the Mīmāṁsaka, is favourable to the Pāśupatas since the text “yassarvajñaḥ sarvavit” (Muṇḍaka: I. i. 9) cannot be properly explained in favour of the Pāñcarātrins. “If the term ‘sarvajña’ be etymologically taken as referring to Viṣṇu, what about the term ‘sarvavit’ ?” he asks. This term too has to be explained as ‘all-knower’, which lands the Pāñcarātrin in the defect of redundance. Therefore, the Pāśupata method of explanation is in sooth, proper : the term ‘sarvajña’ refers to Śiva conventionally, while the term ‘sarvavit’ does so, through etymology.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -576,6 +580,19 @@ how then can the theory be held of him that he has promulgated the Pañcarātra 
 which conflicts with Revelation of him who said, "Revelation and Tradition are my commands ?'' (unidentified) 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The popular reading of the Viṣṇudharma-verse, in which this statement occurs is:
+
+> śrutismṛtī mamaivājñā yas tām ullaṅghya vartate  
+ājñācchedī mama drohī madbhakto'pi na vaiṣṇavaḥ.
+
+But the following reading is found in the printed edition, ch: 76, śl. 31:
+
+> śrutismṛtir mamaivājñā tām ullaṅghya yajan śubhe  
+sarvasvenāpi māṁ devi nāpnotyājñāvilaṅghanāt.
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -665,6 +682,11 @@ Now, has he indeed composed this Tantra,
 leading the faithful into the mysterious abyss of his grand power of illusion, or not?  
 This is the question that now arises.  
 How are we to resolve it? 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Viṣṇupurāṇa: ( Jīvānanda's edn. ) Aṁśa : III. chs. 17-18 give the story of Māyāmohana, preaching non-Vedic doctrines to demons, with a view to delude them. Other instances of Viṣṇu assuming different forms out of his Māyā, are to be found in the Liṅgapurāṇa and the Kāśīkhaṇḍa.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -783,7 +805,7 @@ then the assumption that He was independent is purposeless and false.
 
 अनधीतोऽपि वेदोऽस्य  
 **प्रतिभातीत्य्** अलौकिकम् +++(ततोऽसम्भाव्यम्)+++॥  
-अत्र वार्त्तिककारेण  
+तत्र वार्तिककारेण  
 ये दोषास् **समुदीरिताः** ।  
 ते च सर्वे **ऽनुसंधेयाः**  
 पुरुषातिशयादयः ॥
@@ -797,9 +819,15 @@ are all to be presumed in the case of Pañcarātra,
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Ślokavārtika* I. i. 2, śl. 111b, ff.
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनधीतोऽपि वेदोऽस्य प्रतिभातीत्यलौकिकम् ॥  
-अत्र वार्त्तिककारेण ये दोषास्समुदीरिताः ।  
+तत्र वार्तिककारेण ये दोषास्समुदीरिताः ।  
 ते च सर्वेऽनुसंधेयाः पुरुषातिशयादयः ॥
 </details>
