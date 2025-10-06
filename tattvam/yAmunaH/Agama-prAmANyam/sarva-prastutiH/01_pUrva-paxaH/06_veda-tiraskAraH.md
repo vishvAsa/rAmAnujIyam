@@ -30,15 +30,15 @@ presupposes the abandoning of the Way of the Veda;
 इत्यादीनि 
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-This objection is raised by Śaṅkara in his commentary on the Brahma-sūtra: II. ii.45: “vipratiṣedhācca”. Cf. his commentary: “vedavipratiṣedhaśca bhavati; 'caturṣu vedeṣu paraṃ śreyo' labdhvā śāṇḍilya idaṃ śāstramadhigatavān’ ityādivedanindādarśanāt”, etc.
-</details>
-
 <details><summary>Buitenen</summary>
 
 > "having failed to find the supreme good in the four Vedas,  
 > Sandilya learnt this doctrine...." 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+This objection is raised by Śaṅkara in his commentary on the Brahma-sūtra: II. ii.45: “vipratiṣedhācca”. Cf. his commentary: “vedavipratiṣedhaśca bhavati; 'caturṣu vedeṣu paraṃ śreyo' labdhvā śāṇḍilya idaṃ śāstramadhigatavān’ ityādivedanindādarśanāt”, etc.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -95,16 +95,17 @@ derive solely from Scripture:
 मन्वादयो हि विवक्षितसकलसमीहितसाधनावबोधकमागमैकमूलमभिदधाना दृश्यन्ते ।
 </details>
 
+'वेदो धर्म-मूलं', 'तद्-विदां च स्मृति-शीले'
+
+<details><summary>नरसिंहः</summary>
+
+Gautamadharmasūtra: I. 1-2.
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > वेदोऽखिलो धर्ममूलं  
 > स्मृतिशीले च तद्विदाम् ।  
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-Manusmṛti: II. 6a.
 </details>
 
 <details><summary>Buitenen</summary>
@@ -113,6 +114,10 @@ Manusmṛti: II. 6a.
 > as well as of the traditions and customs of those who are expert in Law"; 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Manusmṛti: II. 6a.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -124,17 +129,15 @@ Manusmṛti: II. 6a.
 > श्रुतिस्मृतिविहितो धर्मः ।  
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-Vasiṣṭhasmṛti: I. 2.
-</details>
-
-
 <details><summary>Buitenen</summary>
 
 > "the Law is enjoined by Scripture and Tradition"; 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vasiṣṭhasmṛti: I. 2.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -150,17 +153,16 @@ Vasiṣṭhasmṛti: I. 2.
 इति च ।  
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-Manusmṛti: II. 7b.
-</details>
-
 <details><summary>Buitenen</summary>
 
 "it is entirely expressed in the Veda;  
 for the Veda contains all knowledge." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Manusmṛti: II. 7b.
+</details>
 
 <details><summary>मूलम्</summary>
 
