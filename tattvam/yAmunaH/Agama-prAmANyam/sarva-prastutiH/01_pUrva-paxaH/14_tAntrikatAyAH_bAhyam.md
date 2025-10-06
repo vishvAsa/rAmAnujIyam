@@ -17,6 +17,12 @@ title = "१४ तान्त्रिकतायाः बाह्यम्
 48\. Moreover, the Saivite, Pasupata, Buddhist, Jainist, Kāpālika and Pañcarātra teachings are traditionally known as heretical. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 किञ्च -   
@@ -24,13 +30,6 @@ title = "१४ तान्त्रिकतायाः बाह्यम्
 शैवं पाशुपतञ्चैव बौद्धमप्यार्हतं तथा ।  
 कापालं पञ्चरात्रञ्चेत्येवं पाषण्डता स्मृतेः ॥  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-$ To be identified. 
-</details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -46,41 +45,34 @@ On the basis of the distinction between Vedic and Tantric
 we arrive at the conclusion that Pañcarātra is outside the Veda. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Anandasamhitā ch. XIII, folios 43b-44a :  
+
+> athāto devasyārcanaṁ dvividhaṁ śruņu । [sic]  
+vaikhānasaṁ pañcarātraṁ vaidikaṁ tantrikaṁ kramāt ॥  
+tayor vaikhānasaṁ śreṣṭhamaihikāmuṣmikapradam । 
+
+The (Mahā) Sanatkumārasaṁhitā draws a distinction among the Vaiṣṇava-mantras in terms of Vaidika Tāntrika and Vaidika-tāntrika.
+
+Cf. ṛṣirātra IX. 35:  
+
+> vaidikaṁ tāntrikaṁ caiva tathā vaidikatāntrikam ।  
+mantratrayaṁ krameṇoktam........ ॥ 
+
+Cf. Vasiṣṭahasaṁhitā XIII. 16b-17a: 
+
+> Vaidikaṁ tāntrikaṁ caiva tathā vaidikatāntrikam ।  
+miśritaṁ vaidikaṁ mantraiḥ tasmāt vaidikatāntrikam ॥ 
+
+Hārita in his Dharmaśāstra, says: srutiśca dvividhā, vaidikī tantrikī ca (Quoted in the Liṅgadhāraṇacandrikā, p. 240).  
+</details>
 
 <details><summary>मूलम्</summary>
 
 वैदिकं तान्त्रिकं चेति विभागकरणादपि ।  
 गम्यते पञ्चरात्रस्य वेदबाह्यत्वनिश्चयः ॥  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-+ Vide Anandasamhitā ch. XIII, folios 43b-44a-  
-
-athāto devasyarcanam dvividham śruņu [sic]  
-vaikhānasam pañcarātraṁ  
-vaidikaṁ tantrikam kramāt ॥ 
-tayor vaikhānasaṁ śreṣṭham  
-aihikāmuṣmikapradam 1 
-
-The (Maha) Sanatkumārasaṁhitā draws a distinction among the Vaisnava-mantras in terms of Vaidika Tantrika and Vaidika-tantrika.  
-Cf. Rṣirātra IX. 35-  
-
-vaidikam tāntrikam caiva  
-tathā vaidikatāntrikam  
-mantratrayaṁ krameṇoktam........ ॥ 
-
-Cf. Vasisthasamhità XIII. 16b-17a-  
-
-Vaidikaṁ tantrikaṁ caiva  
-tatha vaidikatāntrikam  
-miśritam vaidikaṁ mantraiḥ  
-tasmāt vaidikatāntrikam ॥ 
-
-Harita in his Dharmasastra, says- srutiśca dvividhā, vaidiki tantriki ca (Quoted in the Lingadharanacandrikā, p. 240). 
-44 
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
