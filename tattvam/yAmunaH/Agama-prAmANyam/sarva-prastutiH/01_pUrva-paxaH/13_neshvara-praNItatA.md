@@ -359,18 +359,18 @@ then one might as well reason that a soma-drinker is on a level with a ~~wine~~b
 just because he is a drinker! 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+> केवलं तन्त्रत्व-साम्यम् आदाय यदि पञ्चरात्रम् अपि अवैदिकम् इति वक्तुम् उत्सहसे,[[??]] तर्हि, ते तव प्रीति-पात्रं सोमपो ऽपि, पातृत्व-साम्यम् आदाय, सुरा-पैः समानः प्रसजति 
+
+इत्य्-अन्वयः। "समान"-पदं पूर्व-पादाद् अध्याहार्यम्। मीमांसकस्य पूर्व-पक्षित्वाद् अत्र सोम-प-दृष्टान्तः सरस इति च ध्येयम्।
+</details>
 
 <details><summary>मूलम्</summary>
 
 इत्थं नानाश्रुतिमुनिवचस्सन्ततस्तूयमानज्ञानैश्वर्यः परमपुरुषः पञ्चरात्रं व्यधत्त ।  
 तच्चेदेतच्छुतिपथपरिभ्रष्टतन्त्रैः समानं पातृत्वेन प्रसजति तदा सोमपस्ते सुरापैः ॥  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-केवलं तन्त्रत्व-साम्यम् आदाय यदि पञ्चरात्रम् अपि अवैदिकम् इति वक्तुम् उत्सहसे, तर्हि, ते तव प्रीति-पात्रं सोमपोऽपि, पातृत्व-साम्यम् आदाय, सुरा-पैः समानः प्रसजति इत्य्-अन्वयः। "समान" पदं पूर्व-पादाद् अध्याहार्यम्। मीमांसकस्य पूर्व-पक्षित्वाद् अत्र सोम-प-दृष्टान्तः सरस इति च ध्येयम्।
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -393,6 +393,10 @@ and for whom the entire Vedanta furnishes evidence to the exclusion of anyone el
 how could He promulgate a doctrine that is outside the pale of the Veda? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The above argument of the Siddhāntin is refuted by the Mīmāṁsaka.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -427,19 +431,18 @@ which ascribe omniscience and omnipotence to lord Pasupati as well:
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+यस्सर्वज्ञः ... Muṇḍakopaniṣad: I. i. 9.
+
+तमीश्वराणां... Śvetāśvatara*: VI. 7.
+</details>
 
 <details><summary>मूलम्</summary>
 
 तथा हि भगवतः पशुपतेरपि सार्वज्ञ्यसर्वैश्वर्यावेदिकाः श्रुतयो बहुलमुपलभ्यन्ते यस्सर्वज्ञस्स सर्ववित् ।  
 तमीश्वराणां परमं महेश्वरम् इत्याद्याः ।  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-* The above argument of the Siddhantin is refuted by the Mimāṁsaka.
-
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
