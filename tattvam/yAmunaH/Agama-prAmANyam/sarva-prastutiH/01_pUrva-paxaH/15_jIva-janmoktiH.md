@@ -57,6 +57,18 @@ and,
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अविनाशी ... Bṛhadāraṇyaka IV. v. 14.
+
+Cf. Bhagavadgītā II. 14:
+
+> mātrāsparśāstu kaunteya śītoṣṇasukhaduḥkhadāḥ।  
+āgamāpāyino'nityāstān titikṣasva bhārata॥
+
+जीवापेतं ...Chāndogy* VI. 11. 3.
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -113,6 +125,11 @@ it is impossible that an entity that has been born
 does not perish. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'जातो भावो नैव क्षरेद्' इत्य् एतद् वचनं न शक्य-सम्भवम् इति भावः ।
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -140,6 +157,10 @@ Nonetheless, from the emphasis which in the statement "only sat was here" (ChUp.
 it follows that there were no souls before the time of creation. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Chāndogya: VI. ii. 1: ‘सद् एव सोम्येदम् अग्र आसीत् एकम् एवाद्वितीयं ब्रह्म' ।
+</details>
 
 <details><summary>मूलम्</summary>
 
