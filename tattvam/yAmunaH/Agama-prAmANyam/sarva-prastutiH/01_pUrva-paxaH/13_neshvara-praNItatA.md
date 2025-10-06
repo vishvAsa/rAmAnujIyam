@@ -129,6 +129,10 @@ As the (unidentified) text says,
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -154,6 +158,10 @@ since the various tantric doctrines are mutually in conflict,
 the result will be that none of them is authoritative, ! 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘स्वतन्त्र’ इत्य् अस्य ‘स्वकीय-तन्त्र’ इत्य् अर्थो विवक्षितः।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -180,6 +188,10 @@ who is well-known in Revelation and Tradition,
 be brought to the same level as other Tantras? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The Mīmāṁsaka anticipates the following argument from the Siddhāntin.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -216,6 +228,16 @@ likewise, "He is Brahma, he is śiva;" (Mahānār Up 11.12.)
 "Visnu's highest step" (Kath Up. 3.9.)
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+पद्भ्यां ... Ṛgveda X. 90.41.
+
+सूर्याचन्द्रमसौ ... Mahānārāyaṇa Up. V. 7.
+
+स ब्रह्मा ... Ibid. XI. 13.
+
+तद्विष्णोः ... Kaṭhopaniṣad III. 9; also Maitrīyopaniṣad VI. 26.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -242,6 +264,10 @@ In this way, the statements of Revelation describe his manifestation
 characterized by His origination, maintenance and annihilation of the world. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Śvetāśvatara Up. VI. 9.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -268,6 +294,10 @@ Similarly, the Tradition:
 said Parāśara; 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Viṣṇupurāṇa I. i. 35. This verse declares that Viṣṇu is both the material and the instrumental cause of the universe.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -297,6 +327,11 @@ Manu, too, declared that He is the lord:
 
 Not in Manusmrti; reference perhaps to Manu 1.9-10? 
 I read tatha pi.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+This verse does not occur in editions of Manusmṛti with the commentaries of Medhātithi and Kullūkabhaṭṭa. Manvarthamuktāvalī of the Kāśī Sanskrit Series, however, has this verse inserted between the 10th and the 11th stanzas of the Ist Chapter.
 </details>
 
 <details><summary>मूलम्</summary>
