@@ -91,50 +91,39 @@ thus are described the divisions of Tantra;
 one should not confuse them." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The Vaikhānōsāgamas call the Vaikhānasa and the Pāñcarātra systems “saumya” and “āgneya” respectively. Cf. Kāśyapajñānakāṇḍa, P.171:
+
+vaikhānasaṁ saumyam; āgneyaṁ pāñcarātram.
+
+See also Vimānārcanākalpa, paṭala 77, P.467:
+
+vaiṣṇavaṁ dvidvidhaṁ, vaikhānasaṁ pāñcarātram iti; vaikhānasaṁ vaidikaṁ, vaidikairarcitam aihikāmuṣmikaphalapradam; pāñcarātramāgneyaṁ avaidikam āmuṣmikaphalapradam; saumyaṁ sarvatra saṁpūjyam.
+
+Cf. also Bhāgavata XI. 27. 7, 49:
+
+> vaidikastāntriko miśra iti me trividho makhaḥ ।  
+trayāṇāmipsitenaiva vidhinā māṁ samarcayet ॥  
+evaṁ kriyāyogapathaiḥ pumān vaidikatāntrikaiḥ ।  
+arcayannubhayataḥ siddhim matto vindatyabhipsitam ॥
+
+It may be noted that such a division is found even among the Śaivāgamas. Thus, the Vāyu Saṁhitā of the Śivapurāṇa (uttarabhāga XXIV. 177-178) says:
+
+> śivāgamo'pi dvidvidhaḥ śrauto'śrautaśca saṁsmṛtaḥ ।  
+śrutisāramayaḥ śrautaḥ svatantra itarassmṛtaḥ॥ (Quoted in Liṅgādhāraṇacandrikā, P.290).
+
+Also see Śaivasiddhānta P.43:
+
+> Āgamas are of two kinds: Śrauta and Aśrauta. The Śrautāgamas are dependent upon the Vedas and are full of their essence; not so the Aśrauta. The former Āgamas are accepted but not the latter. The aśrauta-āgamas have been declared by the Lord in order to delude some people. These Āgamas are Vāma, Pāśupata, Lākula, Bhairava, etc.
+
+</details>
 
 <details><summary>मूलम्</summary>
 
 शैवं पाशुपतं सौम्यं लागुडञ्च चतुर्विधम् ।  
 तन्त्रभेदः समुद्दिष्टः सङ्करं न समाचरेत् ॥ इति , ।  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-<details><summary>नरसिंहः</summary>
-
-§ The Vaikhanosāgamas call the Vaikhānasa and the Pañcarātra systems "saumya" and "agneya" respectively. Cf. Kasyapajñānakāṇḍa, p. 171- vaikhanasaṁ saumyam; agneyaṁ pañcarātram. 
-See also Vimānārcanākalpa, paṭala 77, p. 467-  
-
-> vaiṣṇavam dvividham,  
-vaikhānasaṁ pañcarātramiti;  
-vaikhānasaṁ vaidikaṁ,  
-vaidikairarcitam aihikāmuṣmikaphalapradam;  
-pāñcarātramagneyam avaidikaṁ āmuṣmikaphalapradam;  
-saumyam sarvatra sampūjyam. 
-
-Cf. also Bhagavata XI. 27. 7, 49-   
-
-> vaidikastantriko miśra iti me trividho makhaḥ ।   trayāṇāmīpsitenaiva vidhinā māṁ samarcayet ॥  
-evam kriyāyoga-pathaiḥ  
-puman vaidikatāntrikaiḥ ।  
-arcayannubhayataḥ siddhim  
-matto vindatyabhīpsitam ॥ 
-
-It may be noted that such a division is found even among the Saivāgamas. Thus, the Vayu Samhita of the Sivapurāṇa ( uttarabhāga XXIV. 177-178) 
-says- 
-
-śivagamopi dvividhaḥ  
-śrauto 'śrautaśca samsmṛlaḥ । 
-śrutisāramayaḥ śrautaḥ  
-svatantra itarassmṛtaḥ ।  
-(Quoted in Linga- dhāraṇucandrikā, p. 290). 
-
-Also see Saivasiddhānta p. 43- 6.  
-
-Āgamas are of two kinds- Śrauta and Asrauta. The Śrautagamas are dependent upon the Vedas and are full of their essence; not so the Asrauta. The former Agamas are accepted but not the latter. The asrauta-agamas have been declared by the Lord in order to delude some people. These Agamas are Vāma, Pasupata, Lakula, Bhairava, etc. " 
-</details>
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
