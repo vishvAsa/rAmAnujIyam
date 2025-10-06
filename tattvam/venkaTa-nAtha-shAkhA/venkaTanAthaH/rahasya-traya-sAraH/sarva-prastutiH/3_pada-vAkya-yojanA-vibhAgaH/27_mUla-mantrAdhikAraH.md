@@ -18917,7 +18917,7 @@ El gobernante supremo **es** el que es el pariente incondicionado en todas las f
 इत्यादिगळिऱ्पडिये निरुपाधिकसर्वविधबन्धु सर्वेश्वरऩॊरुवऩुमे।
 </details>
 
-### ??
+### सर्व-प्रसाद-जनकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘यस्य **प्रसादे** सकलाः  
@@ -18935,21 +18935,279 @@ El gobernante supremo **es** el que es el pariente incondicionado en todas las f
 
 </details>
 
+<details><summary>English</summary>
+
+"He from whose favour all these people will **become favourable** (to us)--  
+that Rāma **is now soliciting** the favour of Sugrīva, the best of monkeys", 
+</details>
+
+<details><summary>Español</summary>
+
+"Él de cuyo favor todas estas personas **se volverán** favorables (para nosotros)-  
+Ese Rāma ahora **solicita** el favor de sugrīva, lo mejor de los monos ",
+</details> 
+
 <details><summary>मूलम्</summary>
 
 ‘‘यस्य प्रसादे सकलाः प्रसीदेयुरिमाः प्रजाः’’(रामायणम् किष्किन्दाकाण्डम् ४-२१) ऎऩ्ऱुम्,
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-If He is pleased (with us), there will be no one who will be opposed to us, for it has been said :-- "He from whose favour all these people will become favourable (to us)--that Rāma is now soliciting the favour of Sugrīva, the best of monkeys", and "When Keśava," the best of deities, who loves His devotees, is pleased, (with a man), his mind becomes clear thereby and all creatures--those that move and those that do not move become favourable to him. “When Bhagavān who is the God of all gods and who controls even Brahma is gracious, all the three worlds become favourable". “Iśvara is, by His very nature, "the well-wisher of all creatures ". If He is (at any time) differently disposed, it is due to the upādhi or circumstance of the cetana (or sentient being) having disobeyed His command. Even that disposition (of Iśvara's) will change (and become favourable) by some little gesture or consideration (vyāja). Have they not
+> ‘‘प्रसन्नम् **अभवत्** तस्मै  
+प्रसन्नाय चराचरम्’’  
+(इतिहास-समुच्चयः ३३-१४१),
+</details>
 
-declared: "Even after approaching Śrī Raṅganātha who is so mad as always to take pity on His servants, why do we still continue to be afflicted by saṁsāra?"
+<details><summary>नीलमेघः (सं)</summary>
 
-THE MEANING OF THE DATIVE (FOURTH) CASE OF
+> ‘‘प्रसन्नम् अभवत् तस्मै  
+प्रसन्नाय चराचरम्’’  
+(इतिहास-समुच्चयः ३३-१४१),
 
-THE WORD NĀRĀYAṆA (i.e.) NĀRĀYAŅĀYA:
+</details>
 
-We will now set forth the meanings of the fourth case such as " for the sake of some one" which will correspond with the meaning of the sentences to be shown hereafter :
+<details><summary>English</summary>
+
+and 
+
+> When Keśava, the best of deities, who loves His devotees, is pleased, (with a man),  
+his mind becomes clear thereby  
+and all creatures-- those that move and those that do not move  
+become favourable to him. 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> Cuando Keśava, el mejor de las deidades, que **ama** a sus devotos, **está complacido** (con un hombre),  
+Su mente **se vuelve clara** por ello  
+y todas las criaturas, las que se **mueven** y las que **no se mueven**  
+**volverse** favorable para él.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रसन्नमभवत्तस्मै प्रसन्नाय चराचरं’’(इतिहास-समुच्चयः ३३-१४१),
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘प्रसन्ने देवदेवेशे’’  
+(नारसिंहपुराणम्)  
+
+ऎऩ्ऱुञ्जॊल्लुगैयाले
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘प्रसन्ने देवदेवेशे’’  
+(नारसिंहपुराणम्)  
+
+</details>
+
+<details><summary>English</summary>
+
+> “When Bhagavān who is the God of all gods  
+and who controls even Brahma is gracious,  
+all the three worlds become favourable". 
+
+for it has been said (as above) :-- 
+</details>
+
+<details><summary>Español</summary>
+
+> “Cuando bhagavān, quien **es** el dios de todos los dioses  
+Y quién **controla** incluso Brahma **es** amable,  
+Los tres mundos **se vuelven** favorables ".
+
+porque **se ha dicho** (como arriba):-
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रसन्ने देवदेवेशे’’(नारसिंहपुराणम्) ऎऩ्ऱुञ्जॊल्लुगैयाले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऩ् प्रसन्नऩ् आऩाल्  
+प्रतिकूलर् आवार् ऒरुवरुम् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+If He is **pleased** (with us),  
+there **will be no** one who will be **opposed** to us,  
+</details>
+
+<details><summary>Español</summary>
+
+Si está **complacido** (con nosotros),  
+**no habrá** uno que **se opondrá** a nosotros,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवऩ् प्रसन्नऩाऩाल् प्रतिकूलरावारॊरुवरुमिल्लै।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्वीश्वरऩुक्कु 
+
+> ‘‘सुहृदं सर्वभूतानां’’(गीता ५-२९) 
+
+ऎऩ्गिऱव् आकारम् स्व-भाव--सिद्धम्। 
+</details>
+
+### सर्व-सुहृत्
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सुहृदं सर्वभूतानां’’(गीता ५-२९) 
+</details>
+
+<details><summary>English</summary>
+
+Iśvara is, by His very nature, "the well-wisher of all creatures ". 
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara **es**, por su propia naturaleza, "el bien-**amado** de todas las criaturas".
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वीश्वरऩुक्कु ‘‘सुहृदं सर्वभूतानां’’(गीता ५-२९) ऎऩ्गिऱवाकारम् स्वभावसिद्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकारान्तरम् चेतनर्-उडैयव् आज्ञातिलङ्घनम् आगिऱ उपाधिय् अडिय् आग वन्ददु। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+If He is (at any time) differently disposed,  
+it is due to the upādhi or circumstance of the cetana (or sentient being) having disobeyed His command. 
+</details>
+
+<details><summary>Español</summary>
+
+Si él **está** (en cualquier momento) **dispuesto** de manera diferente,  
+Se debe a que el upādhi o la circunstancia del cetana (o ser sensible) **ha desobedecido** su **orden**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आकारान्तरम् चेतनरुडैय वाज्ञातिलङ्घनमागिऱ उपाधियडियाग वन्ददु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदुवुम् अल्प-व्याजत्ताले माऱुम्।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Even that disposition (of Iśvara's) will change (and become favourable)  
+by some little gesture or consideration (vyāja). 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso esa disposición (de Iśvara) **cambiará** (y se **volverá** favorable)  
+por un poco de **gesto** o **consideración** (Vyāja).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदुवुमल्पव्याजत्ताले माऱुम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इत्तऩैय् अडियर् **आऩार्क्क्**  
+**इरङ्गु**+++(म्=दयमानं)+++ नम् अरङ्गऩ् **आय**,  
+पित्तऩै+++(=व्यामुग्धं)+++ (**पॆऱ्ऱुम्** - अन्दो+++(=अय्यो)+++,)  
+(तिरुमालै ४)  
+
+ऎऩ्ऱार्गळिऱे। 
+</details>
+
+<details><summary>English</summary>
+
+Have they not declared: 
+
+> "Even after approaching Śrī Raṅganātha  
+who is so mad as always to take pity on His servants,  
+why do we still continue to be afflicted by saṁsāra?"
+</details>
+
+<details><summary>Español</summary>
+
+**No han declarado**: 
+
+> "Incluso después de **acercarse** a Śrī Raṅganātha  
+quien **está** tan enojado como siempre por **tener** una pena con sus sirvientes,  
+¿Por qué **seguimos siendo afectados** por Saṁsāra? "
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’इत्तऩैयडिय राऩार्क्किरङ्गुनमरङ्गऩायबित्तऩ्’’ (तिरुमालै ४)  ऎऩ्ऱार्गळिऱे। 
+</details>
+
+## चतुर्थी
+
+<details><summary>English</summary>
+
+THE MEANING OF THE DATIVE (FOURTH) CASE OF THE WORD NĀRĀYAṆA (i.e.) NĀRĀYAŅĀYA:
+</details>
+
+<details><summary>Español</summary>
+
+El significado del caso dativo (cuarto) de la palabra nārāyaṇa (**es decir**) nārāyaņāya:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन् नारायण-शब्दत्तिल् चतुर्थियाले  
+मेल् सॊल्लप् पुगुगिऱ वाक्यार्थङ्गळुक्क् ईड् आग  
+तादर्थ्यादिगळ् काट्टप् पडुगिऱऩ। 
+</details>
+
+<details><summary>English</summary>
+
+We will now set forth the meanings of the fourth case  
+such as "for the sake of some one"  
+which will correspond with the meaning of the sentences to be shown hereafter.
+</details>
+
+<details><summary>Español</summary>
+
+Ahora **estableceremos** los significados del cuarto caso  
+como "por el bien de alguien"  
+que **se correspondirá** con el significado de las **oraciones** que **se mostrarán** en adelante.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन् नारायणशब्दत्तिल् चतुर्थियाले मेल् सॊल्लप्पुगुगिऱ वाक्यार्थङ्गळुक्कीडाग तादर्थ्यादिगळ् काट्टप्पडुगिऱऩ। 
+</details>
+
+
+
+
 
 Considered in the obvious and ordinary way, it may be thought that the fourth case is used because of the word namas (which governs the fourth case (according to grawmar). In that view there is nothing noteworthy in the use of the dative case. This is the part of the Tirumantra which is the cause of the attainment of the fruit (desired), for it has been said: “That part of the mantra (mūlamantra). which remains after the sixth letter counting from namas (i.e.) a and which is after the fifteenth letter counting the consonants of the alphabet beginning with ka (i.e.) na, and leaving the consonantal part of ṇa that part which remains after the ì in Nārāyanāya, (i. e.) āya, is called the potent part of that mantra.' This part is concerned with the attainment of the fruit. According to some interpretations, the prayer for the attainment of the fruit is found here. There is no difference of opinion in regard to the statement that the meanings of a word differ in accordance with the purpose, the context, the mark or sign, the propriety, the locality and the time of its use and not by the were word as such. One of the meanings of the fourth case that are accepted is sampradūna (ie) to make the word indicate the person to whom a thing is given and who thereby becomes its seshin. Here in the fourth case Nārāyaṇāya in Tirumantra, it is true that what does not belong to Iśvara is not given to Him, for the jīva is always Nārāyaṇa's śeṣa and belongs to Him. So it might be thought that the sampradana which is indicated by the fourth case does not apply here. But in as much as the jīva offers to Iśvara what already belongs to Him for protection by Himself, it may be held that the fourth case indicates sampradana and Ahirbudbnya (Siva) commented in this manner on the dative or fourth case in the Vyāpaka Mantras :
 
