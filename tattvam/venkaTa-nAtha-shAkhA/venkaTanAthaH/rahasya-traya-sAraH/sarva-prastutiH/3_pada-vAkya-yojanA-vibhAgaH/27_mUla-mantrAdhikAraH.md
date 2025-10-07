@@ -19205,11 +19205,256 @@ que **se correspondirá** con el significado de las **oraciones** que **se mostr
 इन् नारायणशब्दत्तिल् चतुर्थियाले मेल् सॊल्लप्पुगुगिऱ वाक्यार्थङ्गळुक्कीडाग तादर्थ्यादिगळ् काट्टप्पडुगिऱऩ। 
 </details>
 
+### व्याकरणतो नमः-प्रेरिता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्थूलानुसन्धानत्तिल्  
+इच् चतुर्थी  
++++(व्याकरणतो)+++ नमश्-शब्द-योगत्तालुङ् कॊळ्ळल् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+Considered in the obvious and ordinary way,  
+it may be thought that the fourth case is used because of the word namas  
+(which governs the fourth case according to grammar). 
+</details>
+
+<details><summary>Español</summary>
+
+**Considerado** de la manera obvia y ordinaria,  
+**Se puede pensar** que el cuarto caso **se usa** debido a la palabra namas  
+(que **gobierna** el cuarto caso **según** la gramática).
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्थूलानुसन्धानत्तिलिच् चतुर्थी नमश्शब्दयोगत्तालुङ्गॊळ्ळलाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोद् इच् चतुर्थिक्कु प्रयोजनातिशयम् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+In that view there is nothing noteworthy in the use of the dative case. 
+</details>
+
+<details><summary>Español</summary>
+
+Desde ese punto de **vista**, **no hay** nada notable en el uso del caso dativo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्पोदिच्चतुर्थिक्कु प्रयोजनातिशयमिल्लै।
+</details>
+
+### फल-सिद्धि-हेतुः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘षष्ठ-पञ्च-दशाद् वर्णात्  
+केवल-व्यञ्जनी-कृतात् ।  
+उत्तरो मन्त्र-शेषस्तु  
+शक्तिर् इत्य् अस्य कथ्यते॥’’  
+(नारदीयम् १-५९) 
+
+ऎऩ्गैयालॆय् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘षष्ठ-पञ्च-दशाद् वर्णात्  
+केवल-व्यञ्जनी-कृतात् ।  
+उत्तरो मन्त्र-शेषस्तु  
+शक्तिर् इत्य् अस्य कथ्यते॥’’  
+(नारदीयम् १-५९) 
+
+</details>
+
+<details><summary>English</summary>
+
+> That part of the mantra (mūlamantra)  
+which remains after the sixth letter counting from namas (i.e.) "ṇa"  
+and which is after the fifteenth letter, counting the consonants of the alphabet beginning with "ka" (i.e.) "ṇa",  
+and leaving the consonantal part of "ṇa"  
+that part which remains after the "ṇ" in Nārāyaṇāya, (i. e.) āya,  
+is called the potent part of that mantra.
+
+For the above has been said:  
+</details>
+
+<details><summary>Español</summary>
+
+> Esa parte del mantra (Mūlamantra)  
+que **permanece** después de la sexta carta **contando** desde namas (es decir) "ṇa"  
+y que **es después** de la decimoquinta letra, **cuenta** las consonantes del alfabeto que **comienzan** con "ka" (es decir) "ṇa",  
+y **dejando** la parte consonántica de "ṇa"  
+esa parte que **permanece** después del "ṇ" en nārāyaṇāya, (i. e.) āya,  
+**se llama** la parte potente de ese mantra.
+
+Porque lo anterior ha sido dicho:  
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘षष्ठपञ्चदशाद्वर्णात् केवलव्यञ्जनीकृतात् । उत्तरो मन्त्रशेषस्तु शक्तिरित्यस्य कथ्यते॥’’(नारदीयम् १-५९) ऎऩ्गैयालॆय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु तिरु-मन्त्रत्तिल् फल-सिद्धि-हेतुव् आऩ प्रदेशम्।
+</details>
+
+<details><summary>English</summary>
+
+This is the part of the Tirumantra which is the cause of the attainment of the fruit (desired).  
+This part is concerned with the attainment of the fruit. 
+</details>
+
+<details><summary>Español</summary>
+
+Esta **es** la parte del Tirumantra,  
+que **es** la causa del **logro** de la fruta (deseado).  
+Esta parte **se refiere** al **logro** de la fruta.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु तिरुमन्त्रत्तिल् फलसिद्धिहेतुवाऩ प्रदेशम्।
+</details>
+
+### फल-प्रार्थना
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+योजना-विशेषङ्गळिल् फल-प्रार्थऩैयुम्  
+इव्व् इडत्तिलेय् आगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+According to some interpretations,  
+the prayer for the attainment of the fruit is found here. 
+</details>
+
+<details><summary>Español</summary>
+
+**Según** algunas interpretaciones,  
+La **oración** por el logro de la fruta **se encuentra** aquí.
+</details>
+
+<details><summary>मूलम्</summary>
+
+योजनाविशेषङ्गळिल् फलप्रार्थऩैयुमिव्विडत्तिलेयागिऱदु।
+</details>
+
+### 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अर्थात् प्रकरणाल् लिङ्गाद्  
+औचित्याद् देश-कालतः ।  
+शब्दार्थाः **प्रविभज्यन्ते**  
+न शब्दाद् एव केवलात्’’() 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अर्थात् प्रकरणाल् लिङ्गाद्  
+औचित्याद् देश-कालतः ।  
+शब्दार्थाः **प्रविभज्यन्ते**  
+न शब्दाद् एव केवलात्’’() 
+
+</details>
+
+<details><summary>English</summary>
+
+That 
+
+> the meanings of a word differ in accordance with the purpose, the context, the mark or sign, the propriety, the locality and the time of its use and not by the mere word as such. 
+</details>
+
+<details><summary>Español</summary>
+
+Eso 
+
+> Los significados de una palabra **difieren** de acuerdo con el propósito, el contexto, la marca o el signo, la propiedad, la localidad y el tiempo de su uso  
+y no por la mera palabra como tal.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अर्थात् प्रकरणाल्लिङ्गादौचित्याद्देगकालतः । शब्दार्थाः प्रविभज्यन्ते न शब्दादेव केवलात्’’() ऎऩ्गिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऒरु शब्दत्तुक्के प्रकरणादिगळुक्क् ईड् आग  
+अर्थ-भेदम् कॊळ्ळुगै सर्व-सम्मतम्।
+</details>
+
+<details><summary>English</summary>
+
+there is no difference of opinion in regard to the (above) statement.
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** diferencia de opinión con respecto a la **declaración** (anterior).
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऒरु शब्दत्तुक्के प्रकरणादिगळुक्कीडाग अर्थभेदम् कॊळ्ळुगै सर्वसम्मतम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाले 
+
+> ‘‘दीयमानार्थ+++(→वस्तु)+++-शेषित्वं  
+संप्रदानत्वम् इष्यत’’() 
+
+इत्य्-आदिगळिऱ् पडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘दीयमानार्थ-शेषित्वं  
+संप्रदानत्वम् इष्यत’’() 
+
+</details>
+
+<details><summary>English</summary>
+
+One of the meanings of the fourth case that are accepted is sampradAna (ie) to make the word indicate the person to whom a thing is given  
+and who thereby becomes its seshin. 
+</details>
+
+<details><summary>Español</summary>
+
+Uno de los significados del cuarto caso que **se aceptan** **es** sampradana (es decir) para hacer que la palabra indique a la persona a quien se le da una cosa  
+y quién se convierte así en su seshina.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाले ‘‘दीयमानार्थशेषित्वं संप्रदानत्वमिष्यत’’() इत्यादिगळिऱ्पडिये
+</details>
 
 
 
 
-Considered in the obvious and ordinary way, it may be thought that the fourth case is used because of the word namas (which governs the fourth case (according to grawmar). In that view there is nothing noteworthy in the use of the dative case. This is the part of the Tirumantra which is the cause of the attainment of the fruit (desired), for it has been said: “That part of the mantra (mūlamantra). which remains after the sixth letter counting from namas (i.e.) a and which is after the fifteenth letter counting the consonants of the alphabet beginning with ka (i.e.) na, and leaving the consonantal part of ṇa that part which remains after the ì in Nārāyanāya, (i. e.) āya, is called the potent part of that mantra.' This part is concerned with the attainment of the fruit. According to some interpretations, the prayer for the attainment of the fruit is found here. There is no difference of opinion in regard to the statement that the meanings of a word differ in accordance with the purpose, the context, the mark or sign, the propriety, the locality and the time of its use and not by the were word as such. One of the meanings of the fourth case that are accepted is sampradūna (ie) to make the word indicate the person to whom a thing is given and who thereby becomes its seshin. Here in the fourth case Nārāyaṇāya in Tirumantra, it is true that what does not belong to Iśvara is not given to Him, for the jīva is always Nārāyaṇa's śeṣa and belongs to Him. So it might be thought that the sampradana which is indicated by the fourth case does not apply here. But in as much as the jīva offers to Iśvara what already belongs to Him for protection by Himself, it may be held that the fourth case indicates sampradana and Ahirbudbnya (Siva) commented in this manner on the dative or fourth case in the Vyāpaka Mantras :
+Here in the fourth case Nārāyaṇāya in Tirumantra,  
+it is true that what does not belong to Iśvara is not given to Him, for the jīva is always Nārāyaṇa's śeṣa and belongs to Him. So it might be thought that the sampradana which is indicated by the fourth case does not apply here. But in as much as the jīva offers to Iśvara what already belongs to Him for protection by Himself, it may be held that the fourth case indicates sampradana and Ahirbudbnya (Siva) commented in this manner on the dative or fourth case in the Vyāpaka Mantras :
 
 "The surrender or offer of the self which is shown to be subordinate or śeṣa is indicated by the fourth case in such words as Viṣṇu (i.e. Namo followed by Viṣṇu). When the qnestion is asked: "To whom is this self which is subordinate offered or surrendered for the sake of protection ", the answer is " to Viṣṇu". Thus Vishou is indicated by the fourth case". This is a commentary also on the fourth case in words like Nārāyaṇa as the śloka says 'in such words as Viṣṇu'.
 
