@@ -19432,6 +19432,18 @@ there is no difference of opinion in regard to the (above) statement.
 
 </details>
 
+<details><summary>English</summary>
+
+One of the meanings of the fourth case that are accepted is sampradAna (ie) to make the word indicate the person to whom a thing is given  
+and who thereby becomes its seshin. 
+</details>
+
+<details><summary>Español</summary>
+
+Uno de los significados del cuarto caso que **se aceptan** **es** sampradana (es decir) para hacer que la palabra indique a la persona a quien se le da una cosa  
+y quién se convierte así en su seshina.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -19439,8 +19451,7 @@ there is no difference of opinion in regard to the (above) statement.
 </details>
 
 
-One of the meanings of the fourth case that are accepted is sampradAna (ie) to make the word indicate the person to whom a thing is given  
-and who thereby becomes its seshin. 
+
 
 Here in the fourth case Nārāyaṇāya in Tirumantra,  
 it is true that what does not belong to Iśvara is not given to Him, for the jīva is always Nārāyaṇa's śeṣa and belongs to Him. So it might be thought that the sampradana which is indicated by the fourth case does not apply here. But in as much as the jīva offers to Iśvara what already belongs to Him for protection by Himself, it may be held that the fourth case indicates sampradana and Ahirbudbnya (Siva) commented in this manner on the dative or fourth case in the Vyāpaka Mantras :
