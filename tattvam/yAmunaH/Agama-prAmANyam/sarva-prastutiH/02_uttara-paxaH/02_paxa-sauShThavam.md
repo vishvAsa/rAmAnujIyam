@@ -173,6 +173,12 @@ does not occasion a doubtful cognition:
 "Must one worship Him thus or not?" 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘तत एव’ प्रत्यक्षाद् एवेत्य् अर्थः ।
+
+पद्ममध्ये ... To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -200,6 +206,10 @@ This point shall be discussed in detail later on.
 this "non-apprehension of what should be there (yogānupalambha) is the criterion by which we know the absence of a thing. Here it is the absence of truth in Pañcarātra that needs be proved by yoganupalambha, if the objector's contention that Pañcarātra is invalid-through-reversion be correct. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+विपर्ययो मिथ्या-ज्ञानम् । ‘पञ्च-रात्रं मिथ्या इत्य् एतज्-ज्ञानम् इदानीं नास्ति, कालान्तरे भविष्यति’ इति, तद् आदाय अप्रामाण्य-वचनं प्रत्यक्षेण विरुध्यते । तथा सति सकल-लोक-व्यवहार-बाधश् चेति भावः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -245,6 +255,11 @@ The claim that Pañcarātra is invalid is opposed by the Pañcarātra Agama itse
 </details>
 
 
+<details><summary>नरसिंहः</summary>
+
+'पञ्च-रात्रम् अ-प्रमाणं वेद-बाह्यत्वात्' इति विरोधानुमानं पूर्व-पक्षिणा प्रदर्शितम् ।  तत्रोच्यते सिद्धान्तिना 'आगम-विरुद्धं च' इति । आगम-पदेन पाञ्चरात्रागमः अभिप्रेतः । पाञ्चरात्रागमे प्रतिपाद्यमानो ऽर्थः प्रमाणम् इति तेनैवागमेन बोध्यते इत्य् अर्थः । तत्र आक्षिपति मीमांसक: 'अथे'ति । 'तस्य' पाञ्चरात्रागमस्यैव अप्रामाण्ये निश्चिते सति, मद्-उक्तेनानुमान-वाक्येन विरोधः स्फुट एव । तत्र को दोषः ? इति तस्य प्रश्नः । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 आगमविरुद्धञ् च -  
@@ -252,20 +267,6 @@ The claim that Pañcarātra is invalid is opposed by the Pañcarātra Agama itse
 पञ्चरात्रागमे स्वार्थस्तथैवेत्यवबोधनात् ।  
 अथ तस्याप्रमाणत्वे तद्विरोधो न दूषणम् ॥
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-' पञ्च-रात्रम् अ-प्रमाणं वेद-बाह्यत्वात्' इति विरोधानुमानं पूर्व-पक्षिणा प्रदर्शितम् ।  
-तत्रोच्यते सिद्धान्तिना 
-' आगम-विरुद्धं च ' इति ।  
-आगम-पदेन पाञ्चरात्रागमः अभिप्रेतः ।  
-पाञ्चरात्रागमे प्रतिपाद्यमानोऽर्थः प्रमाणम्  
-इति तेनैवागमेन बोध्यते इत्यर्थः ।  
-
-तत्र आक्षिपति मीमांसक: ' अथे 'ति ।  
-' तस्य' पाञ्चरात्रागमस्यैव अप्रामाण्ये निश्चिते सति, मदुक्तेनानुमानवाक्येन विरोधः स्फुट एव । तत्र को दोषः ? इति तस्य प्रश्नः । 
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -306,6 +307,10 @@ But I don't see how the objector can reasonably infer the validity of Pañcarāt
 [[134]]
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+यदा पञ्च-रात्रम् अप्रमाणम् इति निश्चितं तदैव त्वद्-उक्तानुमानं प्रमाणम्; तथा त्वदीयानुमाने प्रमाणतया सिद्धे पञ्च-रात्राप्रामाण्य-निश्चयश् चेति अन्योन्याश्रय-दोष-प्रतिपादनं क्रियते ऽत्र सिद्धान्तिना ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -322,6 +327,10 @@ But I don't see how the objector can reasonably infer the validity of Pañcarāt
 57\. Besides, what does this mean, "being nonVedic, or outside the Veda?" 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+परोक्तानुमान-वाक्ये हेतु-भूतस्य ‘वेद-बाह्यत्व’ पदस्य तत्त्वं विचार्यते ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -372,6 +381,10 @@ and he has to produce a different ground.
 By the rules of debate this means a defeat.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Nyāyadarśana V. ii. 6: “अविशेषोक्ते हेतौ प्रतिषिद्धे विशेषम् इच्छतो हेत्व्-अन्तरम् ।”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -413,6 +426,10 @@ you claim that being outside the Veda means
 then what do you, logician, think of it? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The term ‘Tārkika’ need not necessarily refer to the logician here. Yāmuna makes fun of the dialectical helplessness of the Mīmāṁsaka.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -508,6 +525,10 @@ then still we have a vicious applicability to such precepts as
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This line runs like a verse.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -561,6 +582,10 @@ for hundreds of śrutis demonstrate
 that the Perception of God encompasses all things related to dharma and adharma. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+असिद्धिरेवेत्य् अर्थः।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -624,6 +649,12 @@ for hundreds of scriptural statements, like idam mahopaniṣadam,
 will be adduced which set forth that Pañcarātra is authoritative. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Mahābhārata ( Critical edn., Poona ) XII. 326. 100a:
+
+> इदं महोपनिषदं चतुर्-वेद-समन्वितम्।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -691,6 +722,14 @@ does not cancel its own content, as does, for instance, the statement:
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Ślokavārtika (I. i. 5) śls. 61b-62b:
+
+> त्रिधाशब्द-विरोधस् स्यात् प्रसिद्ध्य्-आदि-विभागतः ।  
+प्रतिज्ञा-पूर्व-संजल्प-सर्व-लोक-प्रसिद्धितः ॥  
+यावज्-जीवम् अहं मौनीत्य् उक्ति-मात्रेण बाध्यते ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -736,6 +775,14 @@ Thirdly, there is no contradiction through utterance of substance,
 since in the given substance a connection with the given property is not contradictory:  
 Pancarātra is not contradicted by its property authoritativeness,  
 as motherhood is contradicted by the property sterility. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. ibid*: śl. 63:
+
+> सर्व-वाक्य-मृषात्वे तु धर्मोक्त्यैवात्म-बाधनम् ।  
+धर्म्य्-उक्त्याहं यतो जातः, सा वन्ध्या जननी मम ॥
 </details>
 
 <details><summary>मूलम्</summary>

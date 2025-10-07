@@ -12,6 +12,12 @@ title = "०३ हेतु-सौष्ठवम्"
 59\. Nor is the ground affected by logical defects, like occasional application etc. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Tarkasaṅgraha (Vavilla edn.) Anumāna-section, P.52:
+
+> सव्यभिचार-विरुद्ध-सत्-प्रति-पक्षासिद्ध-बाधिताः पञ्च-हेत्व्-आभासाः ।
+</details>
 
 <details><summary>मूलम्</summary>
 

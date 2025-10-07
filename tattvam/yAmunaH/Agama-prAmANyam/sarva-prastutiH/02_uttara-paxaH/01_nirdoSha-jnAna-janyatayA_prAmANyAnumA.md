@@ -19,6 +19,10 @@ because it produces faultless knowledge,
 like the scriptural statements on the Vedic sacrifices jyotiştoma etc. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘ज्योतिष्टोमेन स्वर्ग-कामो यजेत’ इति वाक्यवत् पञ्च-रात्र-तन्त्रम् अपि निर्दोष-ज्ञान-कारणत्वाद् धेतोः प्रमाणम् एवेति स्वीक्रियताम् इत्य् आशयः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -76,6 +80,11 @@ In the proposition both S and P must be siddha, established as existing somewher
 a non-thing like a hare's horn can be neither S nor P. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+पक्ष-शब्दं निर्वक्ति । पक्षो नाम (पर्वतादिः) प्रतिज्ञा-विषयी-भूतः कश्चन स्वयं सिद्धः पदार्थः । [ प्रतिज्ञा ‘पर्वतो वह्निमान्’ इत्य् एवं रूपा ।] स च सिद्धेन केनचिद् अन्येन पदार्थेण हेतु-भूतेन [धूमादिना] सिसाधयिषितः । सिसाधयिषितो ऽपि सः किञ्चिद् विशिष्टाकारेण [वह्निमत्-स्व-रूपेण] [[??]] सिसाधयिषितः; न तु सामान्याकारेण, इति दिक् ।
+
+</details>
 
 <details><summary>मूलम्</summary>
 
