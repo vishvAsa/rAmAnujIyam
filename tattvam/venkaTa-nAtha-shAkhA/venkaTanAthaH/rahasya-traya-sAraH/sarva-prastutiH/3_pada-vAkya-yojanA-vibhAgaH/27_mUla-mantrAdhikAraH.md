@@ -3031,7 +3031,7 @@ should be understood as being present in the base of the second syllable of nama
 
 <details><summary>Español</summary>
 
-Las ideas de **conocimiento** y similares **contenidos** en la tercera carta de Praṇava, a saber "M"  
+Las ideas de **conocimiento** y similares **contenidos** en la tercera letra de Praṇava, a saber "M"  
 **debe entenderse** como **presente** en la base de la segunda sílaba de namas (o namo), a saber "m".
 </details>
 
@@ -3967,7 +3967,7 @@ is seen from the meaning to be appropriate."
 <details><summary>Español</summary>
 
 > Por lo tanto, "A" **denota** Bhagavān.  
-Es **denota** por esa carta.  
+Es **denota** por esa letra.  
 Esta relación entre la letra "A" y Bhagavān  
 **se ve** desde el significado para ser apropiado ".
 
@@ -4016,7 +4016,7 @@ who is the origin of all things denoted by these words.
 
 Śrī Rāmānuja **declaró** en el Vedārthasaṅgraha que
 
-> Por la primera carta (de praṇava)  
+> Por la primera letra (de praṇava)  
 cual **es** el origen de todas las palabras  
 **se denota** nārāyaṇa  
 quien **es** el origen de todas las cosas **denotadas** por estas palabras.
@@ -8405,7 +8405,7 @@ the first letter (a) denotes the person to whom the surrender is made
 <details><summary>Español</summary>
 
 Dado que **según** los pramāṇas,  
-La primera carta (a) **denota** a la persona a quien **se hace** la **rendición**
+La primera letra (a) **denota** a la persona a quien **se hace** la **rendición**
 </details>
 
 <details><summary>मूलम्</summary>
@@ -8507,7 +8507,7 @@ this (third) letter should mean aham (or I).
 <details><summary>Español</summary>
 
 Por lo tanto, **es** apropiado **sostener** que  
-Esta (tercera) carta **debería significar** Aham (o yo).
+Esta (tercera) letra **debería significar** Aham (o yo).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -9062,7 +9062,7 @@ Si **se le pregunta**
 > "¿Qué **es** lo que **no es** mío (na mamá)?",
 
 La **respuesta se encuentra suministrada** por el contexto (anushaṅga)  
-a saber, la tercera carta en praṇava y **es** la **siguiente**:
+a saber, la tercera letra en praṇava y **es** la **siguiente**:
 
 "**No me pertenezco** a mí mismo".
 </details>
@@ -9185,7 +9185,7 @@ stated in the middle letter).
 <details><summary>Español</summary>
 
 Aquí "Na Mama Aham" **especifica** que "Yo **no soy** mío".  
-Como la carta del medio (en praṇava) a saber "solo",  
+Como la letra del medio (en praṇava) a saber "solo",  
 ya **ha declarado** que **existen** solo para iśvara,  
 que **niega** Śeṣatva a los demás,  
 Esta especificación en Namas **indica** que  
@@ -9627,7 +9627,7 @@ the notion that one is śeṣa to any other than the Lord is got rid of,
 
 <details><summary>Español</summary>
 
-Desde entonces, de la carta del medio de praṇava,  
+Desde entonces, de la letra del medio de praṇava,  
 La noción de que uno **es** śeṣa para cualquier otro que el Señor **se deshace** de,
 </details>
 
@@ -14122,7 +14122,7 @@ and as the śeṣī of all.
 
 <details><summary>Español</summary>
 
-(Él) quien **aparece** en la primera carta (del praṇava) como el **protector** de todos  
+(Él) quien **aparece** en la primera letra (del praṇava) como el **protector** de todos  
 y como el Śeṣī de todos.
 </details>
 
@@ -17185,7 +17185,7 @@ why should it be mentioned again in the word Nara (in Nārāyaṇa)";
 
 Si **se le pregunta**: 
 
-> "Mientras que el cetana o el **ser** sensible ya **está indicado** por la tercera carta de praṇava (m),  
+> "Mientras que el cetana o el **ser** sensible ya **está indicado** por la tercera letra de praṇava (m),  
 ¿Por qué **debería mencionarse** nuevamente en la palabra "nara" (en nārāyaṇa) ";
 </details>
 
@@ -19290,7 +19290,7 @@ For the above has been said:
 <details><summary>Español</summary>
 
 > Esa parte del mantra (Mūlamantra)  
-que **permanece** después de la sexta carta **contando** desde namas (es decir) "ṇa"  
+que **permanece** después de la sexta letra **contando** desde namas (es decir) "ṇa"  
 y que **es después** de la decimoquinta letra, **cuenta** las consonantes del alfabeto que **comienzan** con "ka" (es decir) "ṇa",  
 y **dejando** la parte consonántica de "ṇa"  
 esa parte que **permanece** después del "ṇ" en nārāyaṇāya, (i. e.) āya,  
@@ -19353,7 +19353,7 @@ La **oración** por el logro de la fruta **se encuentra** aquí.
 योजनाविशेषङ्गळिल् फलप्रार्थऩैयुमिव्विडत्तिलेयागिऱदु।
 </details>
 
-### 
+### शेषत्वम्, तद्-वस्तु-सम्प्रदानत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘अर्थात् प्रकरणाल् लिङ्गाद्  
@@ -19419,7 +19419,7 @@ there is no difference of opinion in regard to the (above) statement.
 
 आगैयाले 
 
-> ‘‘दीयमानार्थ+++(→वस्तु)+++-शेषित्वं  
+> ‘‘दीयमानार्थ+++(→वस्तु)+++-शेषित्वं +++(दायक-शेषत्वं च)+++  
 संप्रदानत्वम् इष्यत’’() 
 
 इत्य्-आदिगळिऱ् पडिये
@@ -19427,9 +19427,23 @@ there is no difference of opinion in regard to the (above) statement.
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘दीयमानार्थ-शेषित्वं  
+> ‘‘दीयमानार्थ+++(→वस्तु)+++-शेषित्वं +++(दायक-शेषत्वं च)+++  
 संप्रदानत्वम् इष्यत’’() 
 
+</details>
+
+<details><summary>English</summary>
+
+One of the meanings of the fourth case that are accepted is sampradAna (ie) to make the word indicate the person to whom a thing is given  
+and who thereby becomes its seshin. 
+</details>
+
+<details><summary>Español</summary>
+
+Uno de los significados del cuarto caso que **se aceptan** **es** 
+
+- sampradana (es decir) para hacer que la palabra indique a la persona a quien **se le da** una cosa  
+- y quién **se convierte** así en su seshin.
 </details>
 
 
@@ -19438,26 +19452,854 @@ there is no difference of opinion in regard to the (above) statement.
 आगैयाले ‘‘दीयमानार्थशेषित्वं संप्रदानत्वमिष्यत’’() इत्यादिगळिऱ्पडिये
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-One of the meanings of the fourth case that are accepted is sampradAna (ie) to make the word indicate the person to whom a thing is given  
-and who thereby becomes its seshin. 
+परस्वत्वापादनमिव्विडत्तिल् कूडादागिलुम् 
+</details>
+
+<details><summary>मूलम्</summary>
+
+परस्वत्वापादनमिव्विडत्तिल् कूडादागिलुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पर-स्वत्वापादनम् इव्व्-इडत्तिल् कूडाद् आगिलुम् 
+</details>
+
+<details><summary>English</summary>
 
 Here in the fourth case Nārāyaṇāya in Tirumantra,  
-it is true that what does not belong to Iśvara is not given to Him, for the jīva is always Nārāyaṇa's śeṣa and belongs to Him. So it might be thought that the sampradana which is indicated by the fourth case does not apply here. But in as much as the jīva offers to Iśvara what already belongs to Him for protection by Himself, it may be held that the fourth case indicates sampradana and Ahirbudbnya (Siva) commented in this manner on the dative or fourth case in the Vyāpaka Mantras :
+it is true that what does not belong to Iśvara is not given to Him, 
+for the jīva is always Nārāyaṇa's śeṣa  
+and belongs to Him. 
+</details>
 
-"The surrender or offer of the self which is shown to be subordinate or śeṣa is indicated by the fourth case in such words as Viṣṇu (i.e. Namo followed by Viṣṇu). When the qnestion is asked: "To whom is this self which is subordinate offered or surrendered for the sake of protection ", the answer is " to Viṣṇu". Thus Vishou is indicated by the fourth case". This is a commentary also on the fourth case in words like Nārāyaṇa as the śloka says 'in such words as Viṣṇu'.
+<details><summary>Español</summary>
 
-In this Tirumantra, the meanings of the seven sacred letters beginping from na have been separately stated in the mantra. smṛtis and these meanings have been summarised as follows by some  ācāryas in passages like the following :- "The meaning of na is looking after the welfare of all, helping to incline the wind (of the jīva) towards Paramapada and destroying those unworthy qualities of the self which are opposed to it. Since the letter ma signifies doing what is good to those who have sought (Him), helping to expand their attributive jñāna (knowledge), and securing for them the respect of others : these are said to be its meanings by those that know. The letter ‘na’ signifies giving up scepticism, rendering service always to Bhagavān and doing the work of the ācārya which consists in leading the śiṣya to Parumapada. These benefits will, in the opinion of those that know the mantra, accrue to those that meditate on this letter. Those that meditate on the letter rā will acquire the love of the Lord, give up the love of those that sre other than the Lord and protect the kingdom (from evils). By the letter ya, wise men acquire the eagerness to adopt the Yoga necessary for attaining Bhagavān and also its fruit.
+Aquí, en el cuarto caso, Nārāyaṇāya en Tirumantra,  
+**es** cierto que lo que **no le pertenece** a Iśvara **no se le da** a Él, 
+porque la jīva **es** siempre la śeṣa de Nārāyaṇa  
+y le pertenece.
+</details>
 
-From the letter ’ṇā’ one acquires the desire to praise the Lord and the command of language necessary for praising Him. The letter ‘ya’ causes dread in (the minds) of Yakṣas, Rākṣasas, Vethala, and goblins (bhūtas). Those that know the mantras have thus described the function of the different letters ".
 
-Thus Tirumantra which has been rendered free from the stain arising from perverse controversialists with the help of a careful study of the interpretations derived from grammar, nirukta and the like - will, like a mirror, reveal clearly the essential nature of the Supreme Being, and also whatever is difficult to see in regard to one's own essential nature.
+<details><summary>मूलम्</summary>
 
-THE ATTRIBUTES OF BHAGAVĀN  TO BE MEDITATED
+परस्वत्वापादनमिव्विडत्तिल् कूडादागिलुम् 
+</details>
 
-UPON WITH REFERENCE TO TIRUMANTRA:
 
-When we reflect in accordance with the pramāṇas, on the essential nature of the Supreme Being, who is the deity indicated by this (mantra) in all the forms which are explicitly stated and which are also implicit in this mantra, we should reflect on the following qualities of His in principal and on other excellent traits connected with them:- such qualities as His being the protector : His protectorship being the result of His very nature: His protectorship extending to all, the many ways of His protection, correspondiog to the nature of the thing to be protected, His being the protector at all times, His being the protector in all places, His protection being of all kinds, His protection being directed by His own interest, the omniscience so essential for a protector, His omnipotence, the protection being irrevocable by any except His own will, the irresistibility by others of His protection, His supreme mercy, His expecting an occasion for protection, His requiring from the jīva just a pretext or vyāja for extending His protection, His accessibility to all those who have sought His help. His nature being such as may ever be relied on (for succour), His having as His attribute (Lakṣmī) who will recommend the pardon of those who have committed offences (17), His being the śeṣī, His beiug the Seshī under all conditions and at all times and to all, His freedom from being śeṣa to any one else, His being the śeṣī to those who admire His attributes and qualities, His being the śeṣī in association with His consort, His being without equals or superiors, His being worthy of the surrenderiog of the self as an offering (havis), His being different from non-sentient matter, from souls in bondage, from souls in mukti and from the eternal sūris (nityas), His being the cause of others being śeṣīs in relation to certain things (28), His being an independent doer, His being capable of inspiring jīvas with such qualities as knowing, His being the inspirer of all activities, His not being inspired by any one else, His permitting of what is being done, His being the witness of all karmas or rites done, His co-operation (in karma s), His inducing those who have sought succour to do what is pleasing (to Him), His inducing them to do what is beneficial (to themselves), His being the unconditional object of worship, His readiness to be at the disposal of others (when they have done the right thing), His being the Siddhopāya ever ready to redeem (the jita), His being the cause of the jīva adopting the sādhyopaya (bhakti  or prapatti), His commands being expressed in the śrutis aod smṛtis, His being the ruler who punishes (the evil doer), His equal treatinent of all, His being sympathetic to those who seek His help, His being the cause of avidyā and the like, His being incapable of avidyā and the like (karma ), His readiness to dispel avidyā (ignorance) of those who have sought His protection (48), His being free from any change in His essential nature, His being free from any change in His character or qualities, His readiness to lead all (the jīvas) to the attainment of Himself, the creation maintenance and destrnction of the world being His līlā or sportive activity (52), His being the principal subject of all Vedānta (Upaniṣads), His being the material cause of everything, His being the instrumental cause of everything, the irresistibility of His will, His having all (beings and things) as His body, His being denoted by all words, His adoration being performed by deans of all karma s, His being the grantor of the fruits of all karma s, His being the kinsman to the jīva in every form, His universal pervasiveness, His unsurpassed subtleness, His being the support of everything. His being His own support, His being of the nature of satya, His being of the nature of jñāna, His infiniteness, His being of the nature of bliss, His being pure (and spotless) His possession of countless and unnamed attributes in His essential nature which has been defined by certain specific attributes like satyam, jñānam, ānantam, anandam, amalatvam, His having an eternal, divine and auspicious form, His having states like Para (the supreme) Vyūha and others, His incarnations being satya, (facts of history), His possession of His own svabhāva or nature even in the state of incarnation, His incarnations being free from the touch of prakṛti or matter, His incarnations not being the result of karma , His incarnations having no fixed or appointed time of occurrence, His incarnations being the overflow of multi. tudes of qualities which are to serve the purposes of those who seek succour (from Him), His being pure and fit for contemplation in all states, His having Lakṣmī as His companion in all states, His possession of divine ornaments, weapons, queen, abode, attendants, furniture, door-keepers, retinue, and the like (81), tha power which He has of causing the separation of the gross body from the self, His being the resting place of the jīvas for repose, His dispensation of special favours to all jīvas at that time, His lighting up of the opening of the Brahma Nadi for the entrance of the self, His enabling the self to enter it, His being the cause of the emergence of the self out of the opening of the Brahma nādi, the appointment by Him of Archis and other escort for the self, His leading the self through the gateway of the sun, His being the Cause of the self emerging out of the sphere (anda) of the material universe, His leading the self to the bank of the river Viraja, His being the cause of the separation of the subtle body from the self, His granting, to the self, of a transcendental (non-material) body, His being the cause of the self being welcomed and honoured by the divine Apsarases, His causing the self to enter the Brahmic fragrance and the like, His being the cause of the self being welcomed and honoured by the eternal süris and the released souls (muktas), the regard shown by Him up to the time when the self rises to the couch, His being the cause of the self enjoying perfect blies, His being the principal goal of attainment, His being responsible for all kinds of service rendered with the body, without the body[^93] and with more bodies than one, His possession of all objects of desire, His enjoyment of unsurpassed bliss, His being an object of upsurpassed enjoyment, His being an object of enjoyment in all forms, His being favourable, by His very nature, at all times, His bestowal to the self of bliss perfectly similar to His own, His inability to endure separation from thuse who seek succour from Him, and his being the cause of the self never returning to samsára. (108).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वरऩ् तऩक्कु शेषम् आऩ वस्तुवैत्  
+ताऩे रक्षित्तुक् कॊळ्ळुम् बडि  
+समर्पिक्किऱव् अळवैप् पऱ्ऱ 
+</details>
+
+<details><summary>English</summary>
+
+So it might be thought that  
+the sampradana which is indicated by the fourth case  
+does not apply here.  
+But in as much as the jīva offers to Iśvara  
+what already belongs to Him for protection by Himself,  
+it may be held that the fourth case indicates sampradana  
+</details>
+
+<details><summary>Español</summary>
+
+Entonces se podría pensar que  
+la sampradana que se indica en el cuarto caso  
+No se aplica aquí.  
+Pero en la medida en que la jīva ofrece a Iśvara  
+lo que ya le pertenece para que Él mismo lo proteja,  
+Se puede sostener que el cuarto caso indica sampradana.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩ् तऩक्कु शेषमाऩ वस्तुवैत् ताऩे रक्षित्तुक्कॊळ्ळुम्बडि समर्पिक्किऱवळवैप्पऱ्ऱ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव् व्यापक-मन्त्रङ्गळिल्  
+चतुर्थियै संप्रदानार्थैय् आगव्  
+अहिर्बुध्न्यऩ् व्याख्यानम् पण्णिऩाऩ्। 
+</details>
+
+<details><summary>English</summary>
+
+and Ahirbudbnya (Siva) commented in this manner on the dative or fourth case in the Vyāpaka Mantras :
+</details>
+
+<details><summary>Español</summary>
+
+y Ahirbudbnya (Siva) **comentó** de esta manera sobre el dativo o cuarto caso en los mantras vyāpaka:
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव् व्यापकमन्त्रङ्गळिल् चतुर्थियै संप्रदानार्थैयाग वहिर्बुद्ध्न्यऩ् व्याख्यानम् पण्णिऩाऩ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नीची-भावेन **सन्द्योत्यम्**  
+आत्मनो यत् **समर्पणम्** ।  
+विष्ण्व्-आदिषु चतुर्थी तत्  
+संप्रदान-**प्रदर्शिनी** ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नीची-भावेन **सन्द्योत्यम्**  
+आत्मनो यत् **समर्पणम्** ।  
+विष्ण्व्-आदिषु चतुर्थी तत्  
+संप्रदान-**प्रदर्शिनी** ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> "The surrender or offer of the self  
+which is shown to be subordinate or śeṣa  
+is indicated by the fourth case in such words as Viṣṇu  
+(i.e. Namo followed by Viṣṇu).  
+</details>
+
+<details><summary>Español</summary>
+
+> "La **rendición** u **oferta** del yo  
+que **se muestra** subordinado o Śeṣa  
+**está indicado** por el cuarto caso en palabras como viṣṇu  
+(**es decir**, Namo **seguido** de Viṣṇu).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नीचीभावेन सन्द्योत्यमात्मनो यत्समर्पणं । विष्ण्वादिषु चतुर्थी तत्संप्रदानप्रदर्शिनी ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नीची-भूतो ह्य् असाव् आत्मा  
+यत् संरक्ष्यतया **ऽर्प्यते** ।  
+"तत् कस्मा?" इत्य् **अपेक्षायां**  
+विष्णवे स **इतीर्यते**’’
+
+ऎऩ्गिऱ वचनत्तिल्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> नीची-भूतो ह्य् असाव् आत्मा  
+यत् संरक्ष्यतया **ऽर्प्यते** ।  
+"तत् कस्मा?" इत्य् **अपेक्षायां**  
+विष्णवे स **इतीर्यते**’’
+</details>
+
+<details><summary>English</summary>
+
+> When the question is asked:  
+"To whom is this self which is subordinate offered or surrendered  
+for the sake of protection ",  
+the answer is " to Viṣṇu".  
+Thus Viṣṇu is indicated by the fourth case". 
+</details>
+
+<details><summary>Español</summary>
+
+> Cuando **se hace** la **pregunta**:  
+"¿A quién **es** este yo  
+que **es** subordinado  
+**ofrecido** o **entregado**  
+por el bien de la **protección** ",  
+La **respuesta es** "a Viṣṇu".  
+Así, Viṣṇu **está indicado** por el cuarto caso ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+नीचीभूतो ह्यसावात्मा यत्संरक्ष्यतयार्प्यते । तत्कस्मा इत्यपेक्षायां विष्णवे स इतीर्यते’’ ऎऩ्गिऱ वचनत्तिल्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘विष्ण्व्-आदिषु’’  
+(अहिर्बुध्न्य-संहिता ५२-३५, ३६।) 
+
+ऎऩ्गैयाले
+</details>
+
+<details><summary>English</summary>
+
+as the śloka says 'in such words as Viṣṇu'
+</details>
+
+<details><summary>Español</summary>
+
+por que **dice** el Śloka 'en palabras como viṣṇu'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘विष्ण्वादिषु’’(अहिर्बुध्न्य-संहिता ५२-३५, ३६।) ऎऩ्गैयाले
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नारायणादि-शब्दङ्गळिल् चतुर्थियुम् व्याख्यानम् पण्णप् पट्टदु।
+</details>
+
+<details><summary>English</summary>
+
+This is a commentary also on the fourth case in words like Nārāyaṇa.
+</details>
+
+<details><summary>Español</summary>
+
+Este **es** un **comentario** también sobre el cuarto caso en palabras como Nārāyaṇa.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नारायणादि शब्दङ्गळिल् चतुर्थियुम् व्याख्यानम् पण्णप् पट्टदु।
+</details>
+
+## अक्षरार्थाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत् तिरु-मन्त्रत्तिल् नकारम् मुदलाऩ एऴु तिरुव्-अक्षरङ्गळुक्कुम्  
+प्रत्येकम् मन्त्र-स्मृतिगळिऱ् सॊऩ्ऩ अर्थङ्गळै
+</details>
+
+<details><summary>English</summary>
+
+In this Tiru-mantra,  
+the meanings of the seven sacred letters beginping from na  
+have been separately stated in the mantra smṛtis  
+</details>
+
+<details><summary>Español</summary>
+
+En este tiru-mantra,  
+Los significados de las siete letras sagradas **comienzan** desde na  
+**han sido declarados** por **separado** en el mantra smṛtis
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत् तिरुमन्त्रत्तिल् नकारम् मुदलाऩ एऴु तिरुवक्षरङ्गळुक्कुम्प्रत्येकम् मन्त्रस्मृतिकळिऱ्सॊऩ्ऩ अर्थङ्गळै
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नायकत्वञ् च सर्वेषां  
+नामनत्वं परे+++(=परमे)+++ पदे ।  
+नाशकत्वं विरुद्धानां  
+नकारार्थः **प्रकीर्तिताः** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नायकत्वञ् च सर्वेषां  
+नामनत्वं परे+++(=परमे)+++ पदे ।  
+नाशकत्वं विरुद्धानां  
+नकारार्थः **प्रकीर्तिताः** ॥
+</details>
+
+<details><summary>English</summary>
+
+> "The meaning of na is looking after the welfare of all,  
+helping to incline the mind (of the jīva) towards Paramapada  
+and destroying those unworthy qualities of the self  
+which are opposed to it. 
+</details>
+
+<details><summary>Español</summary>
+
+> "El **significado** de NA **está cuidando** el bienestar de todos,  
+**Ayudando** a **inclinar** la mente (del Jīva) hacia Paramapada  
+y **destruir** esas cualidades indignas del yo  
+que **se oponen** a ello.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नायकत्वञ्च सर्वेषां नामनत्वं परे पदे । नाशकत्वं विरुद्धानां नकारार्थः प्रकीर्तिताः ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मङ्गलत्वम् महत्वञ् च  
+**महनञ्** च करोति यत् ।  
+आश्रितानान् ततो **ज्ञेयो**  
+मकारार्थस् ततो बुधैः ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> मङ्गलत्वम् महत्वञ् च  
+**महनञ्** च **करोति** यत् ।  
+आश्रितानान् ततो **ज्ञेयो**  
+मकारार्थस् ततो बुधैः ॥
+</details>
+
+<details><summary>English</summary>
+
+> Since the letter "ma" signifies  
+doing what is good to those who have sought (Him),  
+helping to expand their attributive jñāna (knowledge),  
+and securing for them the respect of others :  
+these are said to be its meanings by those that know. 
+</details>
+
+<details><summary>Español</summary>
+
+> Dado que la letra "ma" **significa**  
+**Haciendo** lo que **es** bueno  
+para aquellos que lo **han buscado** (él),  
+**Ayudando** a **expandir** su atributivo jñāna (**conocimiento**),  
+y **asegurando** para ellos el respeto de los demás:  
+**Se dice** que estos **son** sus significados por aquellos que **saben**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मङ्गलत्वम्महत्वञ्च महनञ्च करोति यत् । आश्रितानान्ततो ज्ञेयो मकारार्थस्ततो बुधैः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नास्तिक्य-**हानिर्** +++(भगवत्-कर्मसु)+++ नित्यत्वं  
+**नेतृत्वञ्** च हरेः पदे ।  
+नाकार-सेविनां नॄणाम्  
+मन्त्र-**विद्भिः प्रकीर्तितः** ।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> नास्तिक्य-**हानिर्** +++(भगवत्-कर्मसु)+++ नित्यत्वं  
+**नेतृत्वञ्** च हरेः पदे ।  
+नाकार-सेविनां नॄणाम्  
+मन्त्र-**विद्भिः प्रकीर्तितः** ।
+</details>
+
+<details><summary>English</summary>
+
+> The letter ‘na’ signifies giving up scepticism,  
+rendering service always to Bhagavān  
+and doing the work of the ācārya  
+which consists in leading the śiṣya to Parumapada.  
+These benefits will, in the opinion of those that know the mantra,  
+accrue to those that meditate on this letter. 
+</details>
+
+<details><summary>Español</summary>
+
+> La letra "na" **significa renunciar** al escepticismo,  
+**prestar** servicio siempre a Bhagavān  
+y **haciendo** el **trabajo** de la ācārya  
+que **consiste** en **liderar** el Śiṣya a Parumapada.  
+Estos beneficios, en opinión de aquellos que **conocen** el mantra,  
+**acumularse** a aquellos que **meditan** en esta letra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नास्तिक्यहानिर्नित्यत्वं नेतृत्वञ्च हरेः पदे । नाकारसेविनां नॄणाम्मन्त्रविद्भिः प्रकीर्तितः ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **रञ्जनं** भगवत्य् आशु  
+राग-**हानिस्** ततो ऽन्यतः ।  
+राष्ट्र-त्राणादिकञ् चापि  
+**प्राप्यते** रेफ-**सेवया** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **रञ्जनं** भगवत्य् आशु  
+राग-**हानिस्** ततो ऽन्यतः ।  
+राष्ट्र-त्राणादिकञ् चापि  
+**प्राप्यते** रेफ-**सेवया** ॥
+</details>
+
+<details><summary>English</summary>
+
+Those that meditate on the letter rā  
+will acquire the love of the Lord,  
+give up the love of those that are other than the Lord  
+and protect the kingdom (from evils). 
+</details>
+
+<details><summary>Español</summary>
+
+Los que **meditan** en la letra rā  
+**adquirirá** el amor del Señor,  
+**renunciar** al amor de aquellos que **son** además del Señor  
+y **proteger** el reino (de los males).
+</details>
+
+<details><summary>मूलम्</summary>
+
+रञ्जनं भगवत्याशु रागहानिस्ततोऽन्यतः । राष्ट्रत्राणादिकञ्चापि प्राप्यते रेफसेवया ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> योगोद्योगः फलञ् चाशु  
+यकारात् **प्राप्यते** बुधैः ।  
+**वर्णनञ्** च तथा विष्णोर्,  
+वाणी-सिद्धिर् णकारतः ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> योगोद्योगः फलञ् चाशु  
+यकारात् **प्राप्यते** बुधैः ।  
+**वर्णनञ्** च तथा विष्णोर्,  
+वाणी-सिद्धिर् णकारतः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> By the letter "ya", wise men acquire the eagerness to adopt the Yoga necessary for attaining Bhagavān  
+and also its fruit.
+
+> From the letter ’ṇā’  
+one acquires the desire to praise the Lord  
+and the command of language necessary for praising Him. 
+</details>
+
+<details><summary>Español</summary>
+
+> Por la letra "Ya", los sabios adquieren el afán de adoptar el yoga necesario para lograr Bhagavān  
+y también su fruta.
+
+> De la letra ’ṇā’  
+uno adquiere el deseo de alabar al Señor  
+y el mandato del lenguaje necesario para alabarlo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+योगोद्योगः फलञ्चाशु यकारात् प्राप्यते बुधैः । वर्णनञ्च तथा विष्णोर्वाणीसिद्धिर्णकारतः ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यक्ष-राक्षस-वेताल-  
+भूतादीनां **भयाय** यः ।  
+एवम् अक्षर-निर्वाहो  
+मन्त्रविद्भिः **प्रकीर्तितः**॥’’  
+(पूर्वाचार्य-कारिका)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> यक्ष-राक्षस-वेताल-  
+भूतादीनां **भयाय** यः ।  
+एवम् अक्षर-निर्वाहो  
+मन्त्रविद्भिः **प्रकीर्तितः**॥’’  
+(पूर्वाचार्य-कारिका)
+</details>
+
+<details><summary>English</summary>
+
+> The letter ‘ya’ causes dread in (the minds) of Yakṣas, Rākṣasas, Vethala, and goblins (bhūtas).  
+Those that know the mantras  
+have thus described the function of the different letters ".
+</details>
+
+<details><summary>Español</summary>
+
+> La letra "Ya" **causa** temor en (las mentes) de Yakṣas, Rākṣasas, Vethala y Goblins (Bhūtas).  
+Los que **conocen** los mantras  
+**han descrito** así la función de las diferentes letras ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+यक्षराक्षसवेतालभूतादीनां भयाय यः । एवमक्षरनिर्वाहो मन्त्रविद्भिः प्रकीर्तितः॥’’(पूर्वाचार्य-कारिका)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळाले  
+सिल आचार्यर्गळ् संग्रहित्तार्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+\- and these meanings have been summarised as above by some  ācāryas in passages like the above ~~following~~.
+</details>
+
+<details><summary>Español</summary>
+
+\- y estos significados **han sido resumidos** como arriba  
+por algunos ācāryas  
+en pasajes como los anteriores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळालेसिल आचार्यर्गळ् संग्रहित्तार्गळ्। 
+</details>
+
+
+## शोधितादर्शः स्वरूपदर्शनाय
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् इप्-पदङ्गळिऩ्-उडैय व्याकरण-निरुक्त्य्-आदि सिद्ध-व्युत्पत्ति-परामर्शत्ताले 
+</details>
+
+<details><summary>English</summary>
+
+Thus, with the help of a careful study of the interpretations derived from grammar, nirukta and the like - 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, con la **ayuda** de un **estudio** cuidadoso de las **interpretaciones derivadas** de la gramática, nirukta y similares
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडियिप्पदङ्गळिऩुडैय व्याकरणनिरुक्त्यादि सिद्धव्युत्पत्तिपरामर्शत्ताले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पर-वादि-मूलम् आग वरुम् मास्+++(=कलङ्कम्)+++ अऱ  
+विळक्कप् पट्ट  
+तिरु-मन्त्रम् आगिऱ कण्णाडि +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Tirumantra, which has been rendered free from the stain arising from perverse controversialists will,  
+like a mirror, 
+</details>
+
+<details><summary>Español</summary>
+
+Tirumantra, que **se ha liberado** de la mancha **derivada** de los **controvertidos perversos**,  
+Como un espejo,
+</details>
+
+<details><summary>मूलम्</summary>
+
+परवादिमूलमाग वरुम् मासऱ विळक्कप् पट्ट तिरुमन्त्रमागिऱ कण्णाडि
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पर--स्व-रूपादिगळैयुम्  
+स्व--स्व-रूपत्तिऱ् काणव् अरिय निलङ्गळैयुम् ऎल्लाम्  
+**सुव्यक्तम् आगक् काट्टुम्।**  
+</details>
+
+<details><summary>English</summary>
+
+reveals clearly the essential nature of the Supreme Being, and also whatever is difficult to see in regard to one's own essential nature.
+</details>
+
+<details><summary>Español</summary>
+
+**revela** claramente la naturaleza esencial del ser supremo,  
+y también lo que **sea** difícil de **ver** con respecto a la propia naturaleza esencial.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परस्वरूपादिगळैयुम् स्वस्वरूपत्तिऱ्काण वरिय निलङ्गळैयुमॆल्लाम् सुव्यक्तमागक्काट्टुम्।  
+</details>
+
+
+
+### भगवद्-गुणाः
+
+<details><summary>English</summary>
+
+THE ATTRIBUTES OF BHAGAVĀN  TO BE MEDITATED UPON WITH REFERENCE TO TIRUMANTRA:
+</details>
+
+<details><summary>Español</summary>
+
+Los atributos de Bhagavān **se pueden meditar** con **referencia** a Tirumantra:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कु प्रतिपाद्य-देवतैय् आय्  
+प्राप्यमुम् आऩ पर-स्वरूपत्तै  
+इत् तिरु-मन्त्रत्तिल् शाब्दङ्गळ् आयुम्, आर्थङ्गळ् आयुम् उळ्ळ प्रकारङ्गळोडे कूड  
+यथा-प्रमाणम् अनुसन्धिक्कुम् बोदु; 
+</details>
+
+<details><summary>English</summary>
+
+When we reflect, in accordance with the pramāṇas, on the essential nature of the Supreme Being,  
+who is the deity indicated by this (mantra)  
+(and who is to be attained by this mantra)  
+in all the forms which are explicitly stated  
+and which are also implicit in this mantra,  
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **reflexionamos**, de acuerdo con los pramāṇas, sobre la naturaleza esencial del ser supremo,  
+quien **es** la deidad **indicada** por esto (mantra)  
+(y quién debe **ser alcanzado** por este mantra)  
+en todas las formas que **se indican** explícitamente  
+y que también **están implícitos** en este mantra,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदुक्कु प्रतिपाद्यदेवतैयाय् प्राप्यमुमाऩ परस्वरूपत्तै इत् तिरुमन्त्रत्तिल् शाब्दङ्गळायुमार्थङ्गळायुमुळ्ळ प्रकारङ्गळोडे कूड यथाप्रमाणमनुसन्धिक्कुम्बोदु; 
+</details>
+
+#### रक्षकत्वादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रक्षकत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+रक्षकत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+such qualities as His being the protector ;
+</details>
+
+<details><summary>Español</summary>
+
+cualidades como su ser el **protector**;
+</details>
+
+<details><summary>मूलम्</summary>
+
+रक्षकत्वम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिऩ्-उडैय स्वभाव-सिद्धत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+His protectorship being the result of His very nature; 
+</details>
+
+<details><summary>Español</summary>
+
+**protectoridad** por **ser** el **resultado** de su propia naturaleza;
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदिऩुडैय स्वभावसिद्धत्वम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिऩ् सर्वविषयत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His protectorship extending to all, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **protectoridad se extiende** a todos,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदिऩ् सर्वविषयत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रक्ष्य-वस्तु-विशेषानुरूपम् आग  
+रक्षैयिऩ्-उडैय नाना-प्रकारत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+the many ways of His protection,  
+corresponding to the nature of the thing to be protected, 
+</details>
+
+<details><summary>Español</summary>
+
+las muchas formas de su **protección**,  
+correspondiente a la naturaleza de la cosa a **proteger**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रक्ष्यवस्तुविशेषानुरूपमाग रक्षैयिऩुडैय नानाप्रकारत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वदा-रक्षकत्वम्, सर्वत्र-रक्षकत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His being the protector at all times,  
+His being the protector in all places, 
+</details>
+
+<details><summary>Español</summary>
+
+**Siendo** el **protector** en todo momento,  
+**Siendo** el **protector** en todos los lugares,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वदा-रक्षकत्वम्, सर्वत्र-रक्षकत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-प्रकार-रक्षकत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+His protection being of all kinds, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **protección ser** de todo tipo,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वप्रकाररक्षकत्वम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वार्थ-रक्षकत्वम्, +++(5)+++ 
+</details>
+<details><summary>English</summary>
+
+His protection being directed by His own interest, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **protección** **ser dirigida** por su propio interés,
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वार्थरक्षकत्वम्,
+</details>
+
+##### अपेक्षित-गुणान्तरम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-रक्षकत्वापेक्षितम् आऩ सर्वज्ञत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+the omniscience so essential for a protector, 
+</details>
+
+<details><summary>Español</summary>
+
+la **omnisciencia** tan **esencial** para un **protector**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वरक्षकत्वापेक्षितमाऩ सर्वज्ञत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-शक्तित्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His omnipotence, 
+</details>
+
+<details><summary>Español</summary>
+
+Su omnipotencia,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वशक्तित्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वेच्छा-व्यतिरिक्तानिवार्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+the protection being irrevocable by any except His own will, 
+</details>
+
+<details><summary>Español</summary>
+
+la **protección ser irrevocable** por cualquiera excepto su propia **voluntad**,
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+स्वेच्छाव्यतिरिक्तानिवार्यत्वम्, 
+</details>
+
+
+
+
+we should reflect on the following qualities of His in principal and on other excellent traits connected with them:-  
+
+the irresistibility by others of His protection, His supreme mercy, His expecting an occasion for protection, His requiring from the jīva just a pretext or vyāja for extending His protection, His accessibility to all those who have sought His help. His nature being such as may ever be relied on (for succour), His having as His attribute (Lakṣmī) who will recommend the pardon of those who have committed offences (17), His being the śeṣī, His beiug the Seshī under all conditions and at all times and to all, His freedom from being śeṣa to any one else, His being the śeṣī to those who admire His attributes and qualities, His being the śeṣī in association with His consort, His being without equals or superiors, His being worthy of the surrenderiog of the self as an offering (havis), His being different from non-sentient matter, from souls in bondage, from souls in mukti and from the eternal sūris (nityas), His being the cause of others being śeṣīs in relation to certain things (28), His being an independent doer, His being capable of inspiring jīvas with such qualities as knowing, His being the inspirer of all activities, His not being inspired by any one else, His permitting of what is being done, His being the witness of all karmas or rites done, His co-operation (in karma s), His inducing those who have sought succour to do what is pleasing (to Him), His inducing them to do what is beneficial (to themselves), His being the unconditional object of worship, His readiness to be at the disposal of others (when they have done the right thing), His being the Siddhopāya ever ready to redeem (the jita), His being the cause of the jīva adopting the sādhyopaya (bhakti  or prapatti), His commands being expressed in the śrutis aod smṛtis, His being the ruler who punishes (the evil doer), His equal treatinent of all, His being sympathetic to those who seek His help, His being the cause of avidyā and the like, His being incapable of avidyā and the like (karma ), His readiness to dispel avidyā (ignorance) of those who have sought His protection (48), His being free from any change in His essential nature, His being free from any change in His character or qualities, His readiness to lead all (the jīvas) to the attainment of Himself, the creation maintenance and destrnction of the world being His līlā or sportive activity (52), His being the principal subject of all Vedānta (Upaniṣads), His being the material cause of everything, His being the instrumental cause of everything, the irresistibility of His will, His having all (beings and things) as His body, His being denoted by all words, His adoration being performed by deans of all karma s, His being the grantor of the fruits of all karma s, His being the kinsman to the jīva in every form, His universal pervasiveness, His unsurpassed subtleness, His being the support of everything. His being His own support, His being of the nature of satya, His being of the nature of jñāna, His infiniteness, His being of the nature of bliss, His being pure (and spotless) His possession of countless and unnamed attributes in His essential nature which has been defined by certain specific attributes like satyam, jñānam, ānantam, anandam, amalatvam, His having an eternal, divine and auspicious form, His having states like Para (the supreme) Vyūha and others, His incarnations being satya, (facts of history), His possession of His own svabhāva or nature even in the state of incarnation, His incarnations being free from the touch of prakṛti or matter, His incarnations not being the result of karma , His incarnations having no fixed or appointed time of occurrence, His incarnations being the overflow of multi. tudes of qualities which are to serve the purposes of those who seek succour (from Him), His being pure and fit for contemplation in all states, His having Lakṣmī as His companion in all states, His possession of divine ornaments, weapons, queen, abode, attendants, furniture, door-keepers, retinue, and the like (81), tha power which He has of causing the separation of the gross body from the self, His being the resting place of the jīvas for repose, His dispensation of special favours to all jīvas at that time, His lighting up of the opening of the Brahma Nadi for the entrance of the self, His enabling the self to enter it, His being the cause of the emergence of the self out of the opening of the Brahma nādi, the appointment by Him of Archis and other escort for the self, His leading the self through the gateway of the sun, His being the Cause of the self emerging out of the sphere (anda) of the material universe, His leading the self to the bank of the river Viraja, His being the cause of the separation of the subtle body from the self, His granting, to the self, of a transcendental (non-material) body, His being the cause of the self being welcomed and honoured by the divine Apsarases, His causing the self to enter the Brahmic fragrance and the like, His being the cause of the self being welcomed and honoured by the eternal süris and the released souls (muktas), the regard shown by Him up to the time when the self rises to the couch, His being the cause of the self enjoying perfect blies, His being the principal goal of attainment, His being responsible for all kinds of service rendered with the body, without the body[^93] and with more bodies than one, His possession of all objects of desire, His enjoyment of unsurpassed bliss, His being an object of upsurpassed enjoyment, His being an object of enjoyment in all forms, His being favourable, by His very nature, at all times, His bestowal to the self of bliss perfectly similar to His own, His inability to endure separation from thuse who seek succour from Him, and his being the cause of the self never returning to samsára. (108).
 
 [^93]: Service without the body: Perhaps this should be taken to mean anubhava or experience.]
 
