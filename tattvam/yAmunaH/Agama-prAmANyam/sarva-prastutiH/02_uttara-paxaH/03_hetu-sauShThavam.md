@@ -64,6 +64,10 @@ Since pots are knowable, the ground would also apply to prove the eternality of 
 Since only earth (as an element) possesses smell, this ground has no general applicability.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+A third variety of ‘anaikāntika’ is ‘anupasaṁhārin’ which the author does not enumerate here. Cf. Tarkasaṅgraha: P.53: ‘सव्यभिचारो ऽनैकान्तिकः । स त्रि-विधः — साधारणासाधारणानुसंहारि-भेदात्।’ Quoting the passage ‘न तावद् अनैकान्तिकः’ & c. in his Nyāyapariśuddhi [Deśika Granthamālā], P.130, Deśika says: “बाधितस्य तु न पक्ष-धर्मत्वं, नापि व्याप्तिर् इति दूषण-द्वय-समुच्चयः।”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -150,6 +154,10 @@ Nor is the ground precluded,
 since there is no concomitance of its opposite; being a cause of faultless knowledge is not invariably accompanied by nonauthoritativeness.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+विपरीतेन साध्याभावेन व्याप्तिः विपरीत-व्याप्तिर् इति तृतीया-तत्पुरुषः । सा च व्याप्तिः पञ्च-रात्र-प्रामाण्य-प्रतिपादके वाक्ये ‘निर्दोष-ज्ञान-जन्मत्व’-रूपस्य हेतोर् नास्तीत्य् अर्थः । ‘शब्दो नित्यः कृतकत्वात्’ इत्य् अत्र कृतकत्व-रूपो हेतुः साध्याभावेन नित्यत्वाभावेन अनित्यत्वेन हि व्याप्तः, यत्र कृतकत्वं तत्रानित्यत्वम् इति नियमात् । तस्मात् स हेतुर् विरुद्धः । एवम् अत्रापीति बोध्यम् ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -171,6 +179,11 @@ since there is no conflict with Perception
 and in this it is analogous with Scripture. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+कालात्ययापदिष्टस्यैव ‘बाध’ इत्य् अपि व्यवहारः ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 न च कालात्ययापदिष्टः प्रत्यक्षविरोधाभावात् आगमानुगुण्याच्च ।  
@@ -190,6 +203,13 @@ Nor is the ground itself unproved or unestablished.
 If a ground is unestablished,  
 this is because either its locus or its essence is unestablished.  
 The first does not apply, for its locus is Pañicarātra Sastra, which is proved to exist. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+हेतोर् असिद्धता ऽपि नास्तीत्य् अर्थः । व्याप्यत्वासिद्धिर् इत्य् अन्यो ऽपि असिद्धि-प्रकारः शास्त्र-ग्रन्थेषु परिगण्यते । स तु नोदाहृतो ग्रन्थ-कृता ।
+
+अत्र हेत्वाभासेषु पञ्चसु ‘अनैकान्तिक-विरुद्ध-कालात्ययापदिष्टासिद्धा’ इति चत्वार एव प्रकाराः परिगणिताः । अन्यः प्रभेदः सत्-प्रति-पक्षाख्यः न प्रतिपादितो ऽत्र । ‘साध्याभावसाधकं हेत्व्-अन्तरं यस्य स सत्-प्रति-पक्ष’ इति हि तल्-लक्षणम् । तादृशं च हेत्व-अन्तरं नैव सम्भावना-भूमिर् इति महता प्रबन्धेन ग्रन्थ-कारेण समनन्तरम् एव निरूपितम् इति, न पृथग्-उक्तिर् इति च ध्येयम् ।
 </details>
 
 <details><summary>मूलम्</summary>
