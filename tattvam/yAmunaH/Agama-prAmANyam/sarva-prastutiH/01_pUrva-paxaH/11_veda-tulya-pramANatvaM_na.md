@@ -2144,7 +2144,7 @@ Also cf. ibid: śl. 57, ff.
 
 Cf. Nyāyamañjarī, Vol. I, P.192:
 
-atha krīḍārthe jagatsarge bhagavataḥ pravṛttirīdṛśā ca śubhāśubharūpeṇa jagatḥ sṛṣṭena[[??]] krīḍati parameśvara ityucyate, tarhi krīḍāsādhyasukharahitatvena sṛṣṭeḥ[[??]] pūrvamanavāptasakalānandatvaṁ nāma tasya svarūpamavahīyate;
+atha krīḍārthe jagatsarge bhagavataḥ pravṛttirīdṛśā ca śubhāśubharūpeṇa jagatḥ sṛṣṭena krīḍati parameśvara ityucyate, tarhi krīḍāsādhyasukharahitatvena sṛṣṭeḥ pūrvamanavāptasakalānandatvaṁ nāma tasya svarūpamavahīyate;
 
 > na ca krīḍāpi niśśeṣajanatātaṅkakāriṇī।  
 āyāsabahulā ceyaṁ kartuṁ yuktā mahātmanaḥ॥
