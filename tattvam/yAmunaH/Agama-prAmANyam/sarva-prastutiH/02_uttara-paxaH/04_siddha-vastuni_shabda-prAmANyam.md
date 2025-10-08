@@ -24,6 +24,11 @@ they do not have proper denotative power.
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This is the view of the Prābhākara.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ननु च ।  
@@ -48,6 +53,11 @@ even though this fact is established,
 really operates its denoting power  
 as fully as it does  
 by applications which concern karyas.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+This is the reply given by the Siddhāntin.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -312,6 +322,11 @@ REFUTATION. Don't we find that the realization of a kārya is caused by a verbal
 When you say that, since this realization cannot occur without a cause therefore the proximate statement must in that case be the cause of the realization, then I maintain that the same holds also in the case of "A son is born."
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+आकस्मिक ... कारणं विना कार्यं न जायत इति हेतोः ।
+
+"विधिः" न्याय इत्य् अर्थः ।
 <details><summary>मूलम्</summary>
 
 अथ आकस्मिकत्वानुपपत्तेः सन्निहित-शब्द एव तद्-अवगम-हेतुर् इति चेत् समानोऽयं विधिर् इतरत्रापि।
@@ -330,6 +345,13 @@ When you say that, since this realization cannot occur without a cause therefore
 It has been decided by our opponent that the verbal denotation of a meaning which causes an action to be taken is a result of the inclusion in the statement of a liṅādi suffix.133 
 
 [133]: supra §36.  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+प्रवृत्ति-हेतुः कार्यम्; तद्-रूउपो ऽर्थः; तत्-प्रतिपादकता लिङादीनाम् इत्य् अन्वयः ।
+
+आवापः प्रयोग इति यावत्।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -355,7 +377,7 @@ He who maintains that all words only bear meaningfully on kārya,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेनाप्य्-आवापोद्धार-विनिर्धारितासंसृष्ट-शरीराणाम् एव गवाश्वादीनां तत्-पदार्थता समर्थनीया, 
+तेनाप्य्-आवापोद्धार-विनिर्धारितासंसृष्ट-शरीराणाम् एव गवाश्वादीनां तत्-तत्-पदार्थता समर्थनीया, 
 </details>
 
 <details><summary>Buitenen</summary>
@@ -365,9 +387,19 @@ maintains in effect that padārthas134 exist only in kārya statements and that 
 [134]: The things-meant or denoted by the word,
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+विनिर्धारिता ... आवापोद्धारैः विनिर्धारितं कार्यम् । तद्-असंसृष्ट-शरीराणाम् इत्य् अन्वयः ।
+
+गवाश्वादीनां ... शुद्ध-गवाश्वादि-पदानाम् ।
+
+तत्-तत्-पदार्थता, कार्यानन्वितो ऽप्य् अर्थः ।
+
+</details>
+
 <details><summary>मूलम्</summary>
 
-तेनाप्य्-आवापोद्धार-विनिर्धारितासंसृष्ट-शरीराणाम् एव गवाश्वादीनां तत्-पदार्थता समर्थनीया, 
+तेनाप्य्-आवापोद्धार-विनिर्धारितासंसृष्ट-शरीराणाम् एव गवाश्वादीनां तत्-तत्-पदार्थता समर्थनीया, 
 </details>
 
 ## न कार्यान्विताभिधान-मात्रम्
@@ -384,6 +416,12 @@ maintains in effect that padārthas134 exist only in kārya statements and that 
 
 If he says, indeed, whenever their being a padārtha is significantly construed, it is construed just as connected with kārya, we reply,  
 Stop being obstinate; for verbal exchange is also possible through denotation of words that are connected with other things than kāryas.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+भाट्ट-मते पदेनार्थः; तेन जाति-मात्रस्य बोध इत्य् अभ्युपगमः । अन्विताभिधानं नोररीक्रियते ।
+
 </details>
 
 <details><summary>मूलम्</summary>
