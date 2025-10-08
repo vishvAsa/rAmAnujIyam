@@ -626,16 +626,16 @@ even so
 it is correct when we decide the denotation of language to take the standpoint that kārya is just one of the inessential factors of denotation, like the identity of the speaker, the extent of space in which a statement can be heard etc. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+प्रेरक-पुरुषस्य, आकाशस्य, देशस्य वा क्वचिद् अपि विषय-कोटि-प्रविष्टत्वं नाऽभ्युपेयते, तटस्थत्वम् एव ।  
+एवं कार्यस्यापीति ध्येयम् ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 तटस्थोपायतामात्रं शब्द-शक्ति-विनिश्चये ।  
 कार्यस्याश्रयितुं युक्तं प्रयोक्त्र्-आकाश-देशवत् ॥
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-प्रेरक-पुरुषस्य, आकाशस्य, देशस्य वा कचिद् अपि विषय-कोटि-प्रविष्टत्वं नाऽभ्युपेयते, तटस्थत्वम् एव ।  
-एवं कार्यस्यापीति ध्येयम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -659,16 +659,25 @@ just as is the case with floating precious stones on water.
 [138]: This holds for those statements which are not verifiable by other means of knowledge, for if they are verifiable, they are no incans of knowledge in their own right.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अनन्यलभ्यः ... ‘शब्दार्थः’ शब्द-शक्ति-गोचर इत्य् अर्थः । स एव शब्दस्यार्थः; यः प्रकारान्तरेण न लभ्यते । “गङ्गायां घोष” इत्य् अत्र गङ्गा-पदस्य प्रवाह-रूपार्थ-मात्रे शक्ति-स्वीकारे, तत्-सम्बन्धात् तीरम् अपि लभ्यते । एवं लक्षणया प्रकारान्तरेणापि तीर-लाभान् न तत्र शक्ति-स्वीकारः । अत एव जाति-मात्रे शक्तिः; व्यक्तेर् आक्षेपाद् एव सिद्धेः ।
+
+Cf. Bhuvaneśalaukikanyāyasāhasrī, P.243.
+
+पयःप्रतरणादिवत् ... Vide Ratnaśāstra of Buddhabhaṭa, śl. 39:
+
+> यत् तु सर्वैर् गुणैर् युक्तं वज्रं तरति वारिणि ।  
+रत्नानां समस्ते ऽपि तस्य धारणम् इष्यते ॥
+
+The quality of gems is tested by putting them in water. If they float, that is an indication of their superiority. This method of testing or the knowledge regarding the test is no doubt useful in determining the class of gems; but it is of no avail at the time of wearing them. On this analogy, it is argued that the knowledge of 'kārya' though useful to arrive at the significance of words, is not useful at the time of using those words.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनन्यलभ्यश् शब्दार्थ इति न्यायविदस् स्थिताः ।  
 तस्मान् नोपायभूतस्य कार्यस्यास्ति समन्वयः ॥  
 व्युत्पन्न-व्यवहारेषु पयःप्रतरणादिवत् ।
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-The quality of gems is tested by putting them in water. If they float, that is an indication of their superiority. This method of testing or the knowledge regarding the test is no doubt useful in determining the class of gems; but it is of no avail at the time of wearing them. On this analogy, it is argued that the knowledge of 'karya' though useful to arrive at the significance of words, is not useful at the time of using those words. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -684,14 +693,14 @@ The quality of gems is tested by putting them in water. If they float, that is a
 Just as this floating, however helpful it may be to determine the identity of certain diamonds, e.g. the brahmin diamond, serves no purpose when a stone is being transacted which has already been properly identified, similarly the kārya, however helpful to understand the proper signification of a word, serves no purpose once its proper signification has been identified.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+For a classification of gems as 'male' and 'female', see Ratnadīpikā of Caṇḍeśvara, Śls. 11-13, and for a classification into the four castes 'brāhmana', 'kṣatriya', 'vaiśya' and 'śūdra' see Ratnaśāstra : śls. 21 and 23.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथैव हि ब्रह्मजातीयादिवज्रविशेषावधारणोपयोगिनोऽपि पयः-प्रतरणादेर् अवधृत-रत्न-सत्त्वस्य न व्यवहारदशायाम् उपयोगः, एवं व्युत्पत्ति-ग्रहण-समय-समुपयुक्तस्यापि कार्यस्य न व्युत्पन्नदशायाम् उपयोगः ॥
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-For a classification of gems as 'male' and 'female, see Ratnadipikā of Candeśvara, Śls. 11-13, and for a classification into the four castes ' brāhmana', Kşatriya', ' vaisya' and 'śūdra see Ratnasāstra : sls. 21 and 23.
 </details>
 
 ## नदी-तीर-फलम्
