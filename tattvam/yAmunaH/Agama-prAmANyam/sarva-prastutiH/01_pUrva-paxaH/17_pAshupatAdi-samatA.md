@@ -72,17 +72,17 @@ Or else, if someone says that
 </details>
 
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Slokavārtika ( I. 1. 2 ) śl.54a: 
+
+> अप्रामाण्यं त्रिधा भिन्नं मिथ्यात्वाज्ञान-संशयैः । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथो कश्चिद् ब्रूयादनुदयविपर्यासविशयैस्त्रिरूपे प्रामाण्ये कतरदिह जोघुष्यत इति ।  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-Cf. Slokavārtika ( I. 1. 2 ) $1.54a- 
-" अप्रामाण्यं त्रिधा भिन्नं मिथ्यात्वाज्ञानसंशयैः । " 
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -103,6 +103,11 @@ and once you know this, it is refuted.
 Your worship better keep quiet. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+लागुड-मतं पाशुपतम् इति यावत् । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 स वक्तव्यः 
@@ -111,9 +116,3 @@ Your worship better keep quiet.
 > लागुडमते तदेवेति ज्ञात्वा  
 > नियमितमदश्शाम्यतु भवान्।
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-+ लागुडमतं पाशुपतमिति यावत् । 
-</details>
-

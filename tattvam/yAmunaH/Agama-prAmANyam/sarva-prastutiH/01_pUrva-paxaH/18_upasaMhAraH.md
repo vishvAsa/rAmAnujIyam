@@ -63,6 +63,10 @@ Concerning its apocryphal character, which we have now exposed, we have the decl
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Manusmṛti XII. 95.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -109,6 +113,10 @@ Those who follow the Veda are forbidden to speak with those who follow such evil
 "The following are not to be honoured even with a word: heretics, criminals, impostors, crooks, thieves and hypocrites are not to be honoured even with a word." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid. IV. 30.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -143,6 +151,10 @@ whatever as a means of knowledge.
 I read rityā.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+From here starts the ‘Siddhānta’.
+</details>
 
 <details><summary>मूलम्</summary>
 

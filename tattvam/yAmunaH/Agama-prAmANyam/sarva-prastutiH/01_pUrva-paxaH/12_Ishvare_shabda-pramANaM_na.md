@@ -25,7 +25,7 @@ This is Yamuna's objection, which states the extent to which he concurs in the p
 
 <details><summary>नरसिंहः</summary>
 
-The Naiyāyika tries to uphold the validity of the Āgama, on the ground that its[[??]] author, the Supreme Person, is glorified in the Upaniṣads.
+The Naiyāyika tries to uphold the validity of the Āgama, on the ground that its author, the Supreme Person, is glorified in the Upaniṣads.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -68,7 +68,7 @@ Cf. Vātsyāyana's commentary on the Nyāyasūtra, under IV. i. 21, P.291:[[??]]
 
 <details><summary>नरसिंहः</summary>
 
-The Prābhākara's position with regard to the authority of statements speaking[[??]] of a past event (siddha or pariniṣṭhitavastu) is criticised by the Naiyāyika here.
+The Prābhākara's position with regard to the authority of statements speaking of a past event (siddha or pariniṣṭhitavastu) is criticised by the Naiyāyika here.
 </details>
 
 
@@ -368,7 +368,7 @@ only concerning such karyas as cannot presuppose any other authority.
 
 Cf. Prakaraṇapañcikā V, P.93:
 
-sarvapadānāmeva hi svābhāvikī vṛddhavyavahārasiddhā kāryaparatā, lākṣaṇikī[[??]] ca siddhaparateti.
+sarvapadānāmeva hi svābhāvikī vṛddhavyavahārasiddhā kāryaparatā, lākṣaṇikī ca siddhaparateti.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -966,6 +966,15 @@ for there can also be an injunction that
 a certain thing be such while actually it is not so; 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The Mīmāṁsakas do not accept the existence of any deity that receives the offerings of the votaries and rewards them.
+
+Cf. Prakaraṇapañcikā V, P.94:  
+
+brahmasvarūpāṇi ca pramāṇāntarasiddhamevāśrayaṇīyam; brahmaśabdasya ca loke pramāṇāntarasiddhātmavācitvena siddheḥ vede'pi sa evārthaḥ; tathā ca sati nityaprakāśaparamānandādirūpavidhiḥ sakalapratipattiviruddhaḥ; sarvapratipattiṣu hi pramāṇasmṛtibhūtāsvātmā prakāśate; na ca tatra paramānandaḥ saṁvedyate; na ca sāṁsārikaduḥkhābhibhūtatvāt tasyāprakāśaḥ, abhibhavānupapatteḥ;[[??]] avacchinnaṁ hi duḥkham anavacchinnānanda iti nālpīyasā mahataḥ[[??]] abhibhavaḥ saṁbhavati; svaprakāśasya ca abhibhavāvaraṇānabhivyaktīnām[[??]] asambhava eva;... sakalavikāraśūnyatāpi vijñānādivikārotpatteḥ pramāṇāntaraviruddhaiveti[[??]] parasparānvayāyogyatayā nānandādiparatvaṁ; ajarāmaratvayostu[[??]] pramāṇāntaraprasiddhereva anuvādatvāt aprāmāṇyam iti.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न च तावता स्वरूपमपि सिध्यतीत्यध्यवसेयम् असत्येव रूपे तादृशि तथा विधानोपपत्तेः ।  
@@ -981,6 +990,14 @@ a certain thing be such while actually it is not so;
 
 for example the injunction, "Know your father in someone who is not your father,"  
 or "Know that the[[34]] syllable OM, which is not the udgitha, is the udgitha." (Ch Up. 1.5.1. [[132]])
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+अपितर्येव ... लौकिकम् इदम् उदाहरणम्।[[??]] वैदिकम् अपि दर्शयति 'अनुद्गीथ' इति। 
+
+तथा च ... See Chāndogyopaniṣad I. 5: atha khalu ya udgīthaḥ sa praṇavo, yaḥ praṇavaḥ[[??]] sa udgītha iti. See Raṅgarāmānuja's commentary on it.
+
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1051,6 +1068,12 @@ I read ata avarthavādānām.
 
 On this point see KMS 1.2.1. with Sabara's bhāṣya.
 </details>
+
+<details><summary>नरसिंहः</summary>
+
+</details>
+
+For instance, for the arthavāda statement “so 'rodīt yadarodīt tat rudrasya [[??]] rudratvam” (Taittirīya Saṁhitā : I. v. i. 1), the corresponding vidhisentence[[??]] is “barhiṣi rajataṁ na deyam” (Ibid: I. v. i. 2).
 
 <details><summary>मूलम्</summary>
 
@@ -1146,6 +1169,26 @@ exactly as they are known by means of the different means of knowledge;
 On the Bhatta view of omniscience, cf. Kumārila, Samb. 47-59; 114-116.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Ślokavārtika under I. i. 2, śls. 111b-117:
+
+> yadi ṣaḍbhiḥ pramāṇaissyāt sarvajñaḥ kena vāryate ?  
+ekena tu pramāṇena sarvajño yena kalpyate।  
+nūnaṁ sa cakṣuṣā sarvān rasādīn pratipadyate॥  
+yajjātīyaiḥ pramāṇaistu yajjātīyārthadarśanam।  
+bhavedidānīṁ lokasya tathā kālāntare 'pyabhūt॥  
+yatrāpyatiśayo dṛṣṭaḥ sa svārthānatilaṅghanāt।  
+dūrasūkṣmādidṛṣṭau syānna rūpe śrotravṛttitā॥  
+bhaviṣyati na dṛṣṭaṁ ca pratyakṣasya manāgapi।  
+sāmarthyaṁ nānumānāder liṅgādirahite kvacit॥  
+sarvajñakalpanādyaistu vede cāpauruṣeyatā।  
+tulyatā kalpitā yena tenedaṁ sampradhāryatām॥  
+sarvajño dṛśyate tāvannedānīmasmadādibhiḥ।  
+nirākaraṇavacchakyā na cāsīditi kalpanā॥
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 सर्वज्ञता हि प्रसिद्धैरेव प्रमाणैः यथायथमर्थानवगच्छतोऽपि संगच्छते, 
@@ -1163,6 +1206,14 @@ On the Bhatta view of omniscience, cf. Kumārila, Samb. 47-59; 114-116.
 
 for there is no statement which declares omniscience  
 by cancelling the normal means of knowledge. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. ibid., śl. 118.
+
+> na cāgamena sarvajñastadīye 'nyonyasaṁśrayāt।  
+narāntarapraṇītasya prāmāṇyaṁ gamyate katham ?
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1183,6 +1234,21 @@ by cancelling the normal means of knowledge.
 Even if there were such a statement,  
 it would have to be explained as an arthavada  
 since its word-meanings would not allow of mutual relation.  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+यद्यपि ... The Mīmāṁsaka has in mind, statements like “yassarvajñaḥ sarvavit” (Muṇḍaka : I-9) and “na tasya kāryaṁ karaṇaṁ ca vidyate, svābhāvikī jñānabalakriyā[[??]] ca” (Śvetāśvatara : VI-8), which declare that there does exist an Omniscient[[??]] Being and that His Omniscience is natural but not due to any extraneous[[??]] factor.
+
+अर्थवादतयैव ... Cf. Ślokavārtika, I. i. 2, śls. 118-120:
+
+> na cāgamena sarvajñastadīye 'nyonyasaṁśrayāt ।  
+narāntarapraṇītasya prāmāṇyaṁ gamyate katham ॥  
+na cāpyevaṁparo nityaḥ śakyo labdhum ihāgamaḥ ।  
+nityaścedarthavādatvaṁ tatpare syādaniyatā ॥  
+āgamasya ca nityatve siddhe tatkalpanā vṛthā ।  
+yatastaṁ pratipadyante dharmameva tato narāḥ ॥
+
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1214,6 +1280,14 @@ that are required primarily for the cognition to arise!
 i.e, the appropriateness or propriety of a word in collocation with other words; in the sentence "his mother is barren," "barren" is obviously inappropriate. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+प्रमाणान्तरवगत ... By the term “pramāṇāntara” here is meant “śabda”.
+
+विरोधे ... The term “pramāṇāntara” here means “pratyakṣa”.
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रमाणान्तरावगतयोग्यतादिपुरस्सरी पदेभ्यो वाक्यार्थबुद्धिरुपजायमाना प्रथमतरनिपतितापेक्षितप्रमाणान्तरविरोधे कथमिव जनिमनुभवतीति सम्भावयामः ।  
@@ -1236,6 +1310,14 @@ who could then reject the identity of sun and sacrificial pole? +++(5)+++
 <details><summary>Buitenen - Notes</summary>
 
 The identification is considered an arthavada, i,e., laudatory of the sacrificial pole
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Vide Taittirīya Brāhmaṇa: II. i.5.2 : “ādityo yūpaḥ”.
+
+The argument is that if perception were not taken as the guiding principle [[??]] in ascertaining the connotation of passages, one would have to literally identify[[??]] the Sun and the sacrifical post on the authority of the text “ādityo yūpaḥ”, which is a eulogistic passage. But their identity is disproved by perception[[??]] itself. Likewise, Omniscience is also to be disproved.
+
 </details>
 
 <details><summary>मूलम्</summary>

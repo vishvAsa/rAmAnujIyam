@@ -1629,7 +1629,7 @@ The same syllogism can be constructed with regard to the future.
 
 <details><summary>नरसिंहः</summary>
 
-'यो ऽयं घट' इति प्रत्यभिज्ञया घटादेर् अपि नित्यत्वं न शङ्कनीयम् इति भावः। तत्र कारणम् आह ‘यत‘ इति । [[??]]  
+'सो ऽयं घट' इति प्रत्यभिज्ञया घटादेर् अपि नित्यत्वं न शङ्कनीयम् इति भावः। तत्र कारणम् आह ‘यत‘ इति ।  
 
 </details>
 
@@ -1830,7 +1830,7 @@ whatever has parts must come to an end is not universally true.
 
 <details><summary>नरसिंहः</summary>
 
-स्वदुक्तस्य[[??]] सावयवत्वहेतोर् नैकान्तिक-दोषो भवेद् इत्य् अन्वयः।
+तावद्-उक्तस्य सावयवत्वहेतोर् नैकान्तिक-दोषो भवेद् इत्य् अन्वयः।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1861,7 +1861,7 @@ On this question, ef. Tarkabhāṣā 43.
 
 <details><summary>नरसिंहः</summary>
 
-“Adhikaraṇasiddhānta” or “Doctrine resting on Implication”, is defined in the Nyāyasūtra under I. i. 30 as “yatsiddhau anvayaprakaraṇasiddhiḥ, so'dhikaraṇasiddhāntaḥ”. Cf. Vātsyāyana's bhāṣya on it: “yasya arthasya siddhau anye arthāḥ anuṣajjyante, na tair vinā so'rthaḥ siddhyati, te arthāḥ tadadhiṣṭhānāḥ[[??]], so'dhikaraṇasiddhāntaḥ”. So, Adhikaraṇasiddhānta can be explained as the principle by which, when a certain thing is known or accepted, certain other things automatically follow, by reason of their dependence upon the former. This Adhikaraṇasiddhānta in modern logic is known as “pakṣadharmatā”. Since the fact of earth, etc. having a creator cannot be proved unless that creator is also accepted as a direct perceiver of all entities including the atoms ( the material cause of the cosmos ), the admission of such a power of all-round perception in that creator follows by the principle ‘Adhikaraṇasiddhānta’ ( Implied Doctrine ).
+“Adhikaraṇasiddhānta” or “Doctrine resting on Implication”, is defined in the Nyāyasūtra under I. i. 30 as “yatsiddhau anvayaprakaraṇasiddhiḥ, so'dhikaraṇasiddhāntaḥ”. Cf. Vātsyāyana's bhāṣya on it: “yasya arthasya siddhau anye arthāḥ anuṣajjyante, na tair vinā so'rthaḥ siddhyati, te arthāḥ tadadhiṣṭhānāḥ, so'dhikaraṇasiddhāntaḥ”. So, Adhikaraṇasiddhānta can be explained as the principle by which, when a certain thing is known or accepted, certain other things automatically follow, by reason of their dependence upon the former. This Adhikaraṇasiddhānta in modern logic is known as “pakṣadharmatā”. Since the fact of earth, etc. having a creator cannot be proved unless that creator is also accepted as a direct perceiver of all entities including the atoms ( the material cause of the cosmos ), the admission of such a power of all-round perception in that creator follows by the principle ‘Adhikaraṇasiddhānta’ ( Implied Doctrine ).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1915,7 +1915,7 @@ that it must also convey that there is a producer capable of creating the entire
 
 <details><summary>नरसिंहः</summary>
 
-'अवधृताविनाभाव-नियमम्' इत्य् एतत् ‘कार्यत्वम्’ इत्य् अस्य पदस्य अध्याहृतस्य विशेषणं भवितुम् अर्हति। [[??]] इत्य् अस्य वा विशेषणत्वेन स्वीकर्तुं शक्यते।
+'अवधृताविनाभाव-नियमम्' इत्य् एतत् ‘कार्यत्वम्’ इत्य् अस्य पदस्य अध्याहृतस्य विशेषणं भवितुम् अर्हति। अथवा [[??]]विश्वम्-भरादि इत्य् अस्य वा विशेषणत्वेन स्वीकर्तुं शक्यते।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2144,7 +2144,7 @@ Also cf. ibid: śl. 57, ff.
 
 Cf. Nyāyamañjarī, Vol. I, P.192:
 
-atha krīḍārthe jagatsarge bhagavataḥ pravṛttirīdṛśā ca śubhāśubharūpeṇa jagatḥ sṛṣṭena[[??]] krīḍati parameśvara ityucyate, tarhi krīḍāsādhyasukharahitatvena sṛṣṭeḥ[[??]] pūrvamanavāptasakalānandatvaṁ nāma tasya svarūpamavahīyate;
+atha krīḍārthe jagatsarge bhagavataḥ pravṛttirīdṛśā ca śubhāśubharūpeṇa jagatḥ sṛṣṭena krīḍati parameśvara ityucyate, tarhi krīḍāsādhyasukharahitatvena sṛṣṭeḥ pūrvamanavāptasakalānandatvaṁ nāma tasya svarūpamavahīyate;
 
 > na ca krīḍāpi niśśeṣajanatātaṅkakāriṇī।  
 āyāsabahulā ceyaṁ kartuṁ yuktā mahātmanaḥ॥
@@ -2224,7 +2224,7 @@ kathaṁ sṛjati durvāraduḥkha prāgbhāradāruṇam?
 
 ततः ... Cf. ibid*:
 
-nānātmagataśubhāśubhakarmakalāpānapekṣaḥ[[??]] sraṣṭā prajāpatiriti cet karmāṇyeva hi tarhi[[??]] sṛjantu jaganti, kiṁ prajāpatinā ? athācetanānāṁ cetanānadhiṣṭhitānāṁ[[??]] sraṣṭṛtvamaghaṭamānamiti teṣāmadhiṣṭhātā cetanaḥ kalpyata iti cenna;[[??]] tadāśrayāṇāmeva cetanatvāt ta evādhiṣṭhātāro bhaviṣyanti; kimadhiṣṭhātrantareṇeśvareṇa[[??]] kāryam ?
+nānātma-gata-śubhāśubha-karma-kalāpāpekṣaḥ sraṣṭā prajāpatiriti cet karmāṇyeva hi tarhi sṛjantu jaganti, kiṁ prajāpatinā ? athācetanānāṁ cetanānadhiṣṭhitānāṁ sraṣṭṛtvamaghaṭamānamiti teṣāmadhiṣṭhātā cetanaḥ kalpyata iti cen na; tad-āśrayāṇām ātmanām eva cetanatvāt ta evādhiṣṭhātāro bhaviṣyanti; kimadhiṣṭhātrantareṇeśvareṇa kāryam ?
 
 हेतुभिः — कर्म-स्वभावादिभिः।
 

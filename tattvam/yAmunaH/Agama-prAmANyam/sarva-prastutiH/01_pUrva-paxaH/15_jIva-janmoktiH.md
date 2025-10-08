@@ -57,6 +57,18 @@ and,
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अविनाशी ... Bṛhadāraṇyaka IV. v. 14.
+
+Cf. Bhagavadgītā II. 14:
+
+> mātrāsparśāstu kaunteya śītoṣṇasukhaduḥkhadāḥ।  
+āgamāpāyino'nityāstān titikṣasva bhārata॥
+
+जीवापेतं ...Chāndogy* VI. 11. 3.
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -113,6 +125,11 @@ it is impossible that an entity that has been born
 does not perish. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'जातो भावो नैव क्षरेद्' इत्य् एतद् वचनं न शक्य-सम्भवम् इति भावः ।
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -140,6 +157,10 @@ Nonetheless, from the emphasis which in the statement "only sat was here" (ChUp.
 it follows that there were no souls before the time of creation. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Chāndogya: VI. ii. 1: ‘सद् एव सोम्येदम् अग्र आसीत् एकम् एवाद्वितीयं ब्रह्म' ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -165,6 +186,10 @@ why then this emphasis of "only sat"
 on sat's absolute solitariness?
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Chāndogya VI. ii. 1.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -234,6 +259,10 @@ since in the sequel "That sat created fire, etc. (Ch Up. 6.2.3. )
 we do not hear of the creation of the individual soul. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid: VI. ii. 3.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -254,6 +283,10 @@ OBJECTION. However, in the text yato va imani bhūtāni etc.
 we hear that the souls too know origin, continuance and reabsorption. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Taittirīya : III. i. 1: "यतो वा इमानि भूतानि जायन्ते, येन जातानि जीवन्ति" etc.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -272,6 +305,11 @@ we hear that the souls too know origin, continuance and reabsorption.
 
 Here the word bhuta denotes the jiva, the individual soul;  
 for thus we find the word used in the passage bhrāmayan sarvabhūtāni,  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Bhagavadgītā: XVIII, 61b.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -399,6 +437,11 @@ and we also have other Śrutis which declare that the soul is unborn.
 Similarly, the word of the Lord: 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Śvetāśvatara IV. 5: “अजो ह्य् एको जुषमाणो ऽनुशेते ।”
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथाजोह्येक इत्याद्याः श्रुतयोऽन्याश्च सन्ति नः ।  
@@ -414,6 +457,11 @@ Similarly, the word of the Lord:
 <details><summary>Buitenen</summary>
 
 "Know that both matter and spirit are without beginning;"  (Bh G. 13.19.)
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Bhagavadgītā XIII. 19a.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -432,6 +480,10 @@ Similarly, the word of the Lord:
 "this ancient spirit is unborn, eternal, everlasting;" (Kath Up. 2.18.)
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid: II. 20c.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -450,6 +502,10 @@ Similarly, the word of the Lord:
 "it is never born nor does it die" etc. (Kath Up. 2.17.)
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid: II. 20a.
+</details>
 
 <details><summary>मूलम्</summary>
 
