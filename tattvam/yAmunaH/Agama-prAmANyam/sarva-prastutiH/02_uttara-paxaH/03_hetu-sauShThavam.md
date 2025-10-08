@@ -410,6 +410,14 @@ for instance in a language statement,
 "There is a herd of elephants on my finger-tip." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Prakaraṇapañcikā: II. 4, P.13:
+
+> विनाप्य् अर्थं हि शब्देन प्रतीतिर् उपजायते ।  
+अङ्गुल्य् अग्रेऽरित[[??]] करिणां यूथम् इत्य् एवम् आदिना ॥
+</details>
+
 <details><summary>मूलम्</summary>
 
 वक्तुराशयदोषेण केषुचित्तदपोद्यते ।  
@@ -454,6 +462,19 @@ For the Vedanta texts set forth that the omniscient Lord of the world is supreme
 then how can we suppose Him to be deceitful etc.? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Deśika, in his Stotraratnabhāṣya (Deśika Granthamālā), P.37, says that the mercy of the Lord is referred to in the following Upaniṣads:
+
+Śvetāśvatara : III. 17 : ‘सर्वस्य प्रभुम् ईशानं सर्वस्य शरणं सुहृत्’;
+Kaṭhavalli : IV. 12a : ‘अङ्गुष्ठ-मात्रः पुरुषो मध्य आत्मनि तिष्ठति’ and
+Mahopaniṣat : 1 : ‘स एकाकी न रमेत’
+
+Also cf. Paramasaṁhitā : III. 40b-41a; P.24:
+
+> ध्यातव्यो भगवान् एव नान्यो विश्वस्य कारणात् ।  
+स्वामित्वेन गुरुत्वेन सुहृत्त्वेन च सर्वदा ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
