@@ -442,17 +442,23 @@ Stop being obstinate; for verbal exchange is also possible through denotation of
 63\. It is necessary to accept the position that words are denotative of connected meanings, for otherwise it would be impossible to explain that they are denotative of meanings connected with kāryas. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अवश्याश्रयणीयेयम् ... Yāmuna emphasises here that no speciality should be attached to a statement that speaks of something to be done (kārya). Words, he says, generally depend upon some factors and those factors need not necessarily be ‘kārya’. Pointing out the untenability of the theory of ‘kārya’, he says that it goes astray in the instance of ‘liṅ’ the optative itself. Even the ‘liṅ’—suffix is found to depend upon a host of factors like the qualified aspirant (adhikārin), the means (sādhana) and the thing to be attained (sādhya). *Cf*. the following verse:
+
+> tasmādākāṅkṣitāsannayogyārthāntarasaṅgate ।  
+svārthe padānāṁ vyutpattirāstheyā sarvavādibhiḥ॥
+
+Words convey their sense only in connection with such other idea or factor that is required to complete its sense (ākāṅkṣita), that is compatible with it (yogya) and which is supplied by a word uttered along with it (āsanna). Kārya should therefore occupy a subordinate but not the supreme position in the scheme of significance of words.
+
+दुर्वदं ... [[??]]
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 > अवश्याश्रयणीयेयम् अन्वितार्थाभिधायिता।  
 > कार्यान्विताभिधायित्वम् अन्यथा दुर्-वचं यतः॥
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-Yāmuna emphasises here that no speciality should be attached to a statement that speaks of something to be done (kārya).  
-Words, he says, generally depend upon some factors  
-and those factors need not necessarily be ‘kārya’.  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -470,15 +476,14 @@ The definition 'the thing meant by a word is always connected with a kārya' fai
 for it does not apply in the case of injunctive suffixes, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+लिङा [[??]] साक्षात् कार्यम् उच्यत इति चेत्, लिङि कार्य-परत्वं नास्तीति व्यभिचारः । लिङ् कार्यम् एव साक्षात्, न तु[[??]] कार्य-परम् इति ध्येयम् ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 अव्याप्तञ्चैतत् कार्यान्वितमेव सर्वत्र पदाभिधेयमिति लिङादिषु व्यभिचारात्, 
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-Pointing out the untenability of the theory of ‘kārya’,  
-he says that it goes astray in the instance of ‘liṅ’ the optative itself.  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -497,17 +502,16 @@ since these suffixes denote their own meanings as connected, not with kārya, bu
 [135]: Yamuna's argument is that the injunctive, etc. terminations of the verb denote the injunction as their thingmeant (padārtha); but what makes this injunction 'meaningful' is not that it is an injunction, but that it is connected with someone who is qualified to accept the injunction, e.g., in the injunction svargakāmo yajeta. The injunctive yajeta has no meaning or purpose unless there is a "desire for heaven;"  the meaning of the injunction thus is connected with the consequence of this desire is  prepared to do something about it.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+सम्बन्धिनमेव ... अधिकारः फल-स्वाम्यम् — स्वर्ग-कामादि-पदोक्तम् ।
+
+स्वार्थम् ... स्वार्थं कार्यम् ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 लिङादयो हि परिनिष्ठिताधिकाराद्य्-अनुबन्ध-संबन्धिनम् एव स्वार्थम् अभिदधति ।
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-Even the ‘liṅ’-suffix is found to depend upon a host of factors like the qualified aspirant (adhikārin), the means (sādhana) and the thing to be attained (sādhya). Cf. the following verse:  
-
-> तस्माद् आकाङ्क्षितासन्नयोग्यार्थान्तरसङ्गतेः ।  
-> स्वार्थे पदानां व्युत्पत्तिर् आस्थेया सर्ववादिभिः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -532,23 +536,22 @@ it is more appropriate simply to accept the view that there is denotation of con
 [136]: ardhajaratī is a half-old woman; the ardhajaratīyanyāya is used to indicate that the opponent wants to have it both ways and that consequently his argument, like a half-old and half-young woman, is useless either way.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+तेषु लिङादिषु ।
+
+जरतीयम् ... For an explanation of the ardhajaratī-nyāya see Nyāyasūdhā under I. iii. 3. P.135: 
+
+> केनचित् पाशुपतेन सर्वज्ञतया योषितो ऽनुपभोग्यत्वात्, सर्व-तरुण्याश् च वृद्धे ऽप्य् अरुचि-प्रसङ्गात् [[??]] अर्ध-जरत्या नयेन[[??]] दूतः प्रेषित इति लोक-प्रवादो ऽर्ध-जरती-शब्दे ।
+
+Also cf. Bhuvaneśalaukikanyāyasāhasrī, P.104: 
+
+> यत्र सर्व-त्यागे ग्रहणे वा प्रसक्ते, किञ्चिद् निर्युक्तिकम् एकांशोपादानम्[[??]] अरंशान्तर-त्यागश् च क्रियते तत्रायं न्यायो ऽवतरति — यथा जरती वृद्धा स्त्री, तस्याः पतिः तद्-अर्धं गुण-मात्रं[[??]] गृह्णाति ह्य् अवयवान्तरं त्यजतीति युक्ति-शून्यम् ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ तेष्व् अन्विताभिधानम् इतरत्र कार्यान्विताभिधानम् इति चेत् तद्-अर्द्धजरतीयम्, ततो वरं सर्वत्रान्विताभिधानम् एवाश्रीयताम् ।
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-For an explanation of the ardhajaratī-nyāya see Nyāyasudhā under I. iii. 1, p. 135: 
-
-> > “केनचित् पाशुपतेन सबन्धस्य सर्वजरत्या योषितो ऽनुपभोग्यत्वात्,  
-तरुण्या अपि वृद्धेऽप्य् अरुचि-प्रसङ्गात्,  
-अर्धजरत्यानयने दूतः प्रेषित 
->
-> इति लोक-प्रवादो ऽर्धजरतीशब्दे। 
-
-Also cf. *Bhuvaneśvarīlalaukikanyāyasāhasrī*, p. 104: “ यत्र सर्वत्यागे ग्रहणे वा प्रसक्ते, निर्युक्तिकम् एकांशोपादानम् अरंशान्तरत्यागश् च क्रियते, तत्रायं न्यायोऽवतरति—  
-यथा जरती वृद्धा स्त्री, तस्याः पतिः तदर्थं गुणमात्रं गृह्णाति ह्यवयवान्तरं त्यजतीति युक्तिशून्यम् ।”
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -564,15 +567,15 @@ Also cf. *Bhuvaneśvarīlalaukikanyāyasāhasrī*, p. 104: “ यत्र स�
 64\. Therefore, the adherents of all schools should accept that words have proper denotation for the meanings they denote because these meanings are connected with other meanings that are required to complete the sense of the statement, are closely collocated and are appropriate. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+योग्यार्थान्तर-सङ्गते स्वार्थ एव पद-व्युत्पत्तिः । एतेन पदानां यत् किञ्चिद् अर्थान्वयः निरस्तो वेदितव्यः । पदानां [[??]] विशिष्ट-बोधकत्वं स्वाभाव्यम् इति भाट्टः । शब्दस्यैव सम्बन्ध-बोधकत्वं, नार्थस्येति प्राभाकराः । [[??]] तस्माद्' इत्य्-आदिना ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्माद् आकाङ्क्षितासन्नयोग्यार्थान्तरसङ्गतेः ।  
 स्वार्थे पदानां व्युत्पत्तिर् आस्थेया सर्ववादिभिः ॥
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-Words convey their sense only in connection with such other idea or factor that is complete to its sense (ākāṅkṣita), that is compatible with it (yogya) and which is supplied by a word uttered along with it (āsanna). Kārya should therefore occupy a subordinate but not the supreme position in the scheme of significance of words.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -598,15 +601,16 @@ even so
 [137]: Misra's text here has yady api vṛttyanupapattisamadhigamanīyaiva śabdaśaktis "the denoting power of language is to be known only through the impossibility of operation,"  which makes no sense. The reading must be corrupt, in anu papatti we may find a corruption of vyutpati,in pravṛtti perhaps a corruption of kāryārthe or kāryārtha-.  I read conjecturally kāryārtha vyutpattisamadhi gamanīyaiva, which gives the required sense.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘तुष्यतु दुर्जन’-न्यायेनाऽऽह ‘यद्य् अपी'ति । प्रवृत्तिर् गवानयनादिषु । तस्या अन्यथा ऽनुपपत्त्या प्रथमं  [[??]] शक्तिर् अभ्युपेया ।
+
+</details>
+
 ## व्युत्पन्न-प्रयोगे कार्यानपेक्षा
 <details><summary>मूलम्</summary>
 
 यद्य् अपि प्रवृत्त्य्-अनुपपत्ति-समधिगमनीयैव शब्दशक्तिस् तथाऽपि -
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-तुष्यतु दुर्जन 'न्यायेनाऽऽह ' यद्यपी 'ति । प्रवृत्तिर्गवानयनादिषु । तस्या अन्यथानुपपत्त्या प्रथमं शक्तिरभ्युपेया 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
