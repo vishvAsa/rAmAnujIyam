@@ -18405,6 +18405,16 @@ porque, por sus **existencias se entiende** su **existencia**.
 अयते निखिलान्नारान्व्याप्नोति क्रियया तया । नाराश्चाप्यनन्तस्य तैस्तद्भाव निरूपणात् ॥
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि नारशब्दत्तै निरूपित्तु अयनशब्दत्तै निरूपिक्किऱार् अयते निखिलान्नारानित्यादियाल्। अयते – नियमयतीत्यर्थः । अदैये विवरिक्किऱार् व्याप्नोतीति ।  
+तया क्रियया व्याप्नोति – पूर्वोक्त व्यापनपोषणभरणक्रियया व्याप्य नियच्छति, इन्द पक्षत्तिल् अयनशब्दम् कर्तरि व्युत्पन्नम्; नाराणामॆऩ्ऱु कर्मणि षष्ठी ।  
+
+बहुव्रीहिपक्षत्तैक् काट्टुगिऱार् नाराश् चापीति ।  
+अयनं – ज्ञानसाधनम्, नारङ्गळ् अयनमावदऱ्कुक् कारणमॆऩ्ऩव् ऎऩ्ऩव् अरुळिच्चॆय्गिऱार् तैस्तद्भावनिरूपणादिति । तैः – चेतनाचेतनरूपङ्गळाऩ अन्द नारङ्गळाले, तद्भावनिरूपणात् – ब्रह्मत्तिऩुडैय सद्भावम् निरूपिक्कप्पडुगैयाले, विभूतिकळ् विभूतिमाऩुडैय सद्भावज्ञानत्तिऱ्कु हेतुवागुमिऱे।
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -18447,6 +18457,12 @@ y también los medios o upāya de **alcanzarlo** ".
 
 नाराणामयनं वासस्ते च तस्यायनं सदा । परमा च गतिस्तेषां नाराणामात्मनां सदा॥’’(अहिर्बुध्न्य-संहिता ५२-५०) 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि अयनशब्दत्तिऱ्कु समासद्वयत्तिलुम् अर्थान्तरमरुळिच्चॆय्गिऱार् नाराणामयनमित्यादिना । वासः – आधारभूतः, ते च तस्यायनमॆऩ्गिऱविडत्तिल् अयनशब्दम् व्याप्यपरम्। तत्पुरुषे अर्थान्तरमाह परमा च गतिरिति । गतिशब्दः कर्मणि करणे च । परमप्राप्यऩुम् परमप्रापकमॆऩ्गै। 
+</details>
+ 
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -18538,6 +18554,12 @@ Todos estos **se entienden** por la palabra nārāh.
 सर्वेश्वरऩुडैय स्वरूपनिरूपकधर्मङ्गळुम् निरूपितस्वरूप-विशेषणधर्मङ्गळुम् व्यापारङ्गळुम् विग्रहविशेषङ्गळुम् मऱ्ऱुमुळ्ळ त्रिविधचेतनाचेतनङ्गळुमॆल्लां नारशब्दार्थमाऩ पोदु 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+स्वरूपनिरूपकधर्मङ्गळ् - सत्यत्वज्ञानत्वादिगळ्, निरूपितस्वरूपविशेषणङ्गळ् - स्वरूपनिरूपक धर्मङ्गळाले निरूपितमाऩ स्वरूपत्तिऱ्कु विशेषणङ्गळाऩ ज्ञानशक्त्यादिधर्मङ्गळ्। व्यापारङ्गळ् - साधु-परित्राणादिगळ्, विग्रहविशेषङ्गळ् - परव्यूहादिगळ्, आश्रयत्वादीत्यत्रादिशब्दात् शेषित्वस्य उपायत्वो-पेयत्वादीनाञ्च ग्रहणम्। 
+</details>
+
+
 ### स्व-निष्ठत्वादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -18571,6 +18593,12 @@ Por lo tanto, **declara** también que él **se mantiene** solo y en sí mismo (
 
 स्वव्यतिरिक्तसर्वत्तुक्कुमाश्रयत्वादिरूपेण निऱ्कुम् प्रकारम् विवक्षितमागैयाले स्वनिष्ठत्वादिगळैच् चॊल्लुगिऱदु। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+स्वनिष्ठत्वादिगळैच् चॊल्लुगिऱदु इति । इङ्गु नारायणशब्दमॆऩ्ऱु अध्याहरिप्पदु। स्वव्यतिरिक्तमाऩ सर्वत्तिऱ्कुम् इवऩ् आश्रयऩॆऩ्ऱु तोऱ्ऱिऩाल् इवऩुक्कु आश्रयान्तरमिल्लैयॆऩ्ऱु तोऱ्ऱुमागैयाल् स्वे महिम्नि ऎऩ्गिऱविडत्तिल् पोल् स्वनिष्ठत्वम् सॊल्लप्पट्टदामिऱे। इङ्गु आदिपदत्ताल् सर्वशेषित्वनिस्समाभ्यधिकत्वादेः ग्रहणम्। 
+</details>
+
 
 ### भेदः, सर्व-शरीरित्वम्, सर्व-वाच्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -18621,6 +18649,12 @@ y que **tiene** tan glorias como la de **ser denotada** por todas las palabras.
 इप्पडि व्यापन भरणनियमनस्वाम्यादिगळाले वेऱुपट्टिरुक्किऱ पुरुषोत्तमऩुक्कुं, तत्-सम्बन्धिगळुक्कुं कुदृष्टिकळ् सॊऩ्ऩ स्वरूपैक्यादिभ्रमङ्गऴियुम्बडि सर्वशरीरित्वसर्वशब्दवाच्यत्वादि वैभवमुमिङ्गे फलितम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि नारङ्गळुक्कुम् भगवाऩुक्कुम् व्यापनभरणस्वाम्यादिगळाल् वेऱुबाट्टै इन्द शब्दम् सॊल्लुगिऱदॆऩ्ऱाल् इवैयिरण्डिऱ्कुम् स्वरूपैसॊल्लुगिऱदुबोलुळ्ळ तत्त्वमसि, अयमात्मेत्यादि वाक्यङ्गळुक्कु सामरस्यम् कूडुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इप्पडि व्यापनभरणेत्यादियाल् सर्वशरीरित्वसर्वशब्दवाच्यत्वादिवैभवमुम् इङ्गे फलितमिति । इन्द नारायणशब्दत्तिल् नाराणामयनमॆऩ्गिऱ व्युत्पत्तियिल् सर्वाधारत्वरूपसर्वशरीरित्वम् तोऱ्ऱुगैयालुम् अदऩाल् सर्वशब्दवाच्यत्वम् सिद्धिक्कुमागैयालुम् तत्त्वमसि, अयमात्मेत्यादिगळिऱ्सॊऩ्ऩ सामानाधिकरण्यम् शरीर शरीरिभावसम्बन्धकृतमॆऩ्ऱु एऱ्पडुमागैयाल् स्वरूपैक्यभ्रमम् निवृत्तमामॆऩ्ऱु तात्पर्यम्। 
+</details>
+
+
 ### वेदान्त-वाक्यार्थाः
 #### सत्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -18650,6 +18684,12 @@ La palabra nara (que **significa** 'uno que **no cambia**') **resalta** el signi
 
 नरशब्दत्ताले शोधकवाक्यार्थमुम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि इन्द नारायणशब्दत्तिल् क्षयरूपदोषाभाववाचकमाऩ नरशब्दत्ताले शोधकवाक्यार्थमुम्, नराज्जातानि तत्त्वानि नाराणि ऎऩ्गिऱ व्युत्पत्तियैयुडैय नारशब्दत्ताले कारणवाक्यार्थमुम्, ईयत इत्ययनम् ऎऩ्गिऱ कर्मव्युत्पत्तियैयुडैय अयनशब्दत्ताले गतिकर्मत्वम् सिद्धित्तु, अदऩाल् गत्यर्थानां बुद्ध्यर्थत्वात् ऎऩ्गिऱ न्यायत्ताले उपासनरूपबुद्धिकर्मत्वम् फलिक्कैयाल् उपासनवाक्यार्थमुम् प्रकाशितमॆऩ्गिऱार् नरशब्दत्ताले शोधकवाक्यार्थमुमित्यादियाल्। 
+</details>
+
 
 #### मूल-कारणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -18758,6 +18798,22 @@ El Ser Supremo **no es** otra deidad que Nārāyaṇa.
 सुबालोपनिषत्प्रभृतिकळिले सर्वान्तर्यामियुमाय् सर्वविधबन्धुवुमायिरुक्किऱ सर्वेश्वरऩ् नारायणशब्दत्ताले देवतान्तरव्यावृत्तऩाग प्रतिपादितऩाऩाऩ्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि नारायणशब्दत्तिल् योगव्युत्पत्तियाले वरुम् आधारत्वादिगळॆल्लाम् देवतान्तरसाधारणङ्गळागैयाल् इदु देवताविशेषत्तैच् चॊल्लुम्बडि ऎङ्ङऩे यॆऩ्ऩ वरुळिच्चॆय्गिऱार् सुबालोपनिषत्प्रभृतिकळिले इति । इङ्गु 
+
+> ‘‘एष सर्वभूतान्तरात्मा ऽपहतपाप्मा दिव्यो देव एको नारायणः’’ 
+
+ऎऩ्ऱुम्, 
+
+> ‘‘माता पिता भ्राता  
+निवासश् शरणं सुहृत्’’ ।  
+
+> ‘‘गतिर् नारायणः’’ 
+
+ऎऩ्ऱुम् नारायणशब्दार्थत्तै प्रधानमाग निर्देशिक्कैयालुम् योगार्थङ्गळॆल्लाम् समभिव्याहृतपदान्तरलभ्यङ्गळागैयाल् रूढ्यर्थमाऩ श्रियःपति-यैये नारायणशब्दत्ताले सॊल्लवेण्डुमागैयाले योगार्थावच्छिन्नरूढ्यर्थदेवताविशेषम् प्रतिपादितमॆऩ्ऱु करुत्तु।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -18781,15 +18837,27 @@ Los que **son** parientes en el mundo **se convirtieron** en parientes (para nos
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदऩाल् मूलमन्त्रत्तिलुम् योगरूढमाऩ नारायणशब्दम् योगार्थावच्छिन्नरूढ्यर्थमाऩ श्रियःपतियैये सॊल्लुगिऱदॆऩ्ऱु निर्णीतमायिऱ्ऱु। लोकत्तिल् माता पित्रादिबन्धुक्कळिरुक्क नारायणऩै सर्वविधबन्धु ऎऩ्बदु कूडुमोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् लोकत्तिलुळ्ळ इत्यादियाल्। 
+
+> ‘‘न वा अरे पत्युः कामाय  
+पतिः प्रियो भवति  
+आत्मनस्तु कामाय’’ 
+
+ऎऩ्गिऱबडि अवर्गळुडैय बन्धुत्वम् परसङ्कल्पप्रयुक्तमागैयाल् सोपाधिकमॆऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘त्वमेव माता च पिता त्वम् एव’’  
+> ‘‘त्वम् एव माता च पिता त्वम् एव’’  
 (गान्धारीवाक्यम्) 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> ‘‘त्वमेव माता च पिता त्वम् एव’’  
+> ‘‘त्वम् एव माता च पिता त्वम् एव’’  
 (गान्धारीवाक्यम्) 
 </details>
 
@@ -18823,6 +18891,13 @@ Así que **eres** por todos ",
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+भगवाऩुडैय सर्वविधबन्धुत्वत्तिल् उपाधिनिर्देशमिल्लामैयालेअवऩे निरुपाधिकसर्वविधबन्धु ऎऩ्गिऱार् त्वमेवेत्यादियाल्। 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ’’ऎम्-बिराऩ्+++(=उदारः → स्वामी)+++, ऎन्दै+++(=पिता)+++’’  
@@ -18845,6 +18920,13 @@ He is my father, my kinsman, my king."
 
 ’’ऎम्बिराऩॆन्दै’’(पॆरियदिरुमॊऴि १-१-६), 
 </details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ऎम्बिराऩ् - ऎऩक्कु उपकारकऩ्, ऎन्दै - ऎऩ्ऩुडैय पिता, इदऩाल् ईश्वरऩुडैय निरुपाधिकसर्वविधबन्धुत्वे साम्प्रदायिकत्वमपि दर्शितम्। 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -18894,6 +18976,8 @@ Por lo tanto, la carga de **protegerme es** tuya ".
 
 ‘‘पिता त्वं माता त्वं’’(आळवन्दार् स्तोत्रम् ६०)
 </details>
+
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -18952,6 +19036,12 @@ Ese Rāma ahora **solicita** el favor de sugrīva, lo mejor de los monos ",
 ‘‘यस्य प्रसादे सकलाः प्रसीदेयुरिमाः प्रजाः’’(रामायणम् किष्किन्दाकाण्डम् ४-२१) ऎऩ्ऱुम्,
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि माता पिता ऎऩ्गिऱ सुबालोपनिषद्वाक्यत्तिल् सॊऩ्ऩ निरुपाधिकबन्धुत्वत्तै उपपादित्तु अदिऱ्सॊऩ्ऩ निरुपाधिकसुहृत्वत्तै उपपादिक्किऱार् यस्य प्रसाद इत्यादियाल्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘प्रसन्नम् **अभवत्** तस्मै  
@@ -18991,6 +19081,12 @@ y todas las criaturas, las que se **mueven** y las que **no se mueven**
 <details><summary>मूलम्</summary>
 
 ‘‘प्रसन्नमभवत्तस्मै प्रसन्नाय चराचरं’’(इतिहास-समुच्चयः ३३-१४१),
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रसन्नाय तस्मै – भगवत्प्रसादेन प्रसन्नचित्ताय पुरुषाय, 
 </details>
 
 
@@ -19089,6 +19185,12 @@ Iśvara **es**, por su propia naturaleza, "el bien-**amado** de todas las criatu
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि प्रसादान्तरहेतुवाऩ भगवत्प्रसादम् सोपाधिकमो निरुपाधिकमो ऎऩ्ऩ वरुळिच्चॆय्गिऱार् इव्वीश्वरऩुक्कु इत्यादियाल् ऎऩ्गिऱवाकारम् - प्रसादरूपमाऩ सौहार्दमागिऱ आकारम्, 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकारान्तरम् चेतनर्-उडैयव् आज्ञातिलङ्घनम् आगिऱ उपाधिय् अडिय् आग वन्ददु। +++(5)+++
@@ -19110,6 +19212,12 @@ Se debe a que el upādhi o la circunstancia del cetana (o ser sensible) **ha des
 
 आकारान्तरम् चेतनरुडैय वाज्ञातिलङ्घनमागिऱ उपाधियडियाग वन्ददु। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडियागिल् शत्रुविषयत्तिल् विपरीताकारम् तोऩ्ऱुगिऱदे यॆऩ्ऩ? अदु सोपाधिकमॆऩ्गिऱार् आकारान्तरमित्यादियाल्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19133,10 +19241,15 @@ por un poco de **gesto** o **consideración** (Vyāja).
 अदुवुमल्पव्याजत्ताले माऱुम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आकारान्तरमौपाधिकमागैयाले प्रणिपतनाद्यल्पव्यापारत्ताले कऴिन्दु पोमॆऩ्गिऱार् अदुवुमिति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> इत्तऩैय् अडियर् **आऩार्क्क्**  
+> इत्तऩैय्+++(←"गोविन्द"-वचनेन)+++ अडियर् **आऩार्क्क्**  
 **इरङ्गु**+++(म्=दयमानं)+++ नम् अरङ्गऩ् **आय**,  
 पित्तऩै+++(=व्यामुग्धं)+++ (**पॆऱ्ऱुम्** - अन्दो+++(=अय्यो)+++,)  
 (तिरुमालै ४)  
@@ -19166,6 +19279,15 @@ quien **está** tan enojado como siempre por **tener** una pena con sus sirvient
 
 ’’इत्तऩैयडिय राऩार्क्किरङ्गुनमरङ्गऩायबित्तऩ्’’ (तिरुमालै ४)  ऎऩ्ऱार्गळिऱे। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि माऱुमॆऩ्बदिल् संवादम् काट्टुगिऱार् इत्तऩैयडियराऩार्क्कित्यादियाल्। इत्तऩैयडियराऩार्क्कु - मॊय्त्तवल् विऩैयैयुडैय क्षत्रबन्धुवाऩवऩ् ‘‘गोविन्द!’’ ऎऩ्गिऱ मूऩ्ऱॆऴुत्तुडैय नामत्तैच् चॊऩ्ऩमात्तिरत्ताल्  
+अन्द जन्मत्तिलेये पर-गतियैय् अडैन्दाऩ् ऎऩ्ऱदु कीऴ्। 
+
+इत्तऩैयडियराऩार्क्कु - मूऩ्ऱॆऴुत्तै युडैय नामत्तैच् चॊऩ्ऩ मात्तिरमागिऱ स्वल्पव्याजत्ताले दासराऩार्क्कुम्, इरङ्गुम् - मोक्षप्रदानपर्यन्तमाऩ इरक्कत्तैयुडैय, नम् - नम् स्वामियाऩ, अरङ्गऩायबित्तऩै - अरङ्गऩॆऩ्गिऱ आश्रितवत्सलऩै, पॆऱ्ऱुम् - सुलभमाग अडैन्दुम्, अन्दो संसारचक्रत्तिले भ्रमिप्पदे। 
+</details>
+
 
 ## चतुर्थी
 
@@ -19205,6 +19327,8 @@ que **se correspondirá** con el significado de las **oraciones** que **se mostr
 इन् नारायणशब्दत्तिल् चतुर्थियाले मेल् सॊल्लप्पुगुगिऱ वाक्यार्थङ्गळुक्कीडाग तादर्थ्यादिगळ् काट्टप्पडुगिऱऩ। 
 </details>
 
+
+
 ### व्याकरणतो नमः-प्रेरिता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19233,6 +19357,17 @@ it may be thought that the fourth case is used because of the word namas
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि इन् नारायणशब्दत्तिल् चतुर्थियिऩाले तादर्थ्याद्यर्थङ्गळ् काट्टप्पडुगिऩ्ऱऩ वॆऩ्गिऱार् इन् नारायणशब्दत्तिलित्यादियाल्। तादर्थ्यादि प्रदर्शनत्तिऱ्कु आवश्यकतैयै यरुळिच्चॆय्गिऱार् सॊल्लप्पुगुगिऱ इति । तादर्थ्यादिगळॆऩ्गिऱविडत्तिल् आदिपदत्ताले सम्प्रदानत्तिऱ्कु परिग्रहम्। 
+
+> ‘‘नमस्-स्वस्ति-स्वाहा-स्वधालं-वषड्योगाच् च’’ 
+
+ऎऩ्गिऱ सूत्रत्तिऩ्बडि नमश्-शब्दयोगत्तालुम्  
+चतुर्थी वरुमॆऩ्ऱुम्, अप्पोदु अदु उपपदविभक्तियागैयाले साधुत्वार्थमे यॊऴिय अदऱ्कु प्रयोजनविशेषमिल्लै यॆऩ्ऱुमरुळिच्चॆय्गिऱार् स्थूलानुसन्धानत्तिलित्यादिना । स्थूलानुसन्धानत्तिल् - नमश्शब्दत्तिऩ् स्थूलयोजऩैयिल्, प्रयोजनातिशयमिल्लै इति । आगैयाल् प्रयोजनातिशयमुळ्ळ अर्थत्तैये कॊळ्ळवेण्डु मॆऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्-पोद् इच् चतुर्थिक्कु प्रयोजनातिशयम् इल्लै।
@@ -19252,6 +19387,8 @@ Desde ese punto de **vista**, **no hay** nada notable en el uso del caso dativo.
 
 अप्पोदिच्चतुर्थिक्कु प्रयोजनातिशयमिल्लै।
 </details>
+
+
 
 ### फल-सिद्धि-हेतुः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -19304,6 +19441,12 @@ Porque lo anterior ha sido dicho:
 ‘‘षष्ठपञ्चदशाद्वर्णात् केवलव्यञ्जनीकृतात् । उत्तरो मन्त्रशेषस्तु शक्तिरित्यस्य कथ्यते॥’’(नारदीयम् १-५९) ऎऩ्गैयालॆय् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नारायणपदोत्तरमुळ्ळ आय ऎऩ्गिऱ चतुर्थियाऩदु मन्त्रत्तिऩुडैय शक्त्यंशमागैयाल् इदु फलसिद्धिहेतुवाऩ सारांशमॆऩ्ऱु इच् चतुर्थियिऩ् वैभवत्तै यरुळिच्चॆय्गिऱार् षष्ठपञ्चदशादित्यादियाल्। षष्ठपञ्चदशात् – मन्त्रत्तिल् प्रणवत्तैविट्टु नकारम् मुदल् ऎण्णिऩाल् आऱावदु वर्णमाय्, कवर्गादिगणऩैयिल् पदिऩैन्दावदु वर्णमाऩ, केवलव्यञ्जनीकृतात् – उत्तरमाऩ अच्चै विट्टु व्यञ्जनमात्रमागप् पण्णप्पट्ट, वर्णादुत्तरः – ण ऎऩ्गिऱ ऎऴुत्तैक्काट्टिलुम् मेलाऩ, मन्त्रशेषः – मन्त्रत्तिऩ् मिगुदि याऩ आय ऎऩ्बदे, अस्य - इन्द मन्त्रत्तिऱ्कु, शक्तिरिति – फलसिद्धिहेतुभूतसारांशमॆऩ्ऱु, कथ्यते - सॊल्लप्पडुगिऱदु। मन्त्रज्ञैरिति शेषः । 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19353,6 +19496,12 @@ La **oración** por el logro de la fruta **se encuentra** aquí.
 योजनाविशेषङ्गळिल् फलप्रार्थऩैयुमिव्विडत्तिलेयागिऱदु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सर्वयोजऩैयिलुम् फलप्रार्थऩै इन्द शक्त्यंशत्तिलेयामॆऩ्गिऱार् योजनाविशेषङ्गळिलिति । 
+</details>
+
+
 ### शेषत्वम्, तद्-वस्तु-सम्प्रदानत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19393,6 +19542,12 @@ y no por la mera palabra como tal.
 
 ‘‘अर्थात् प्रकरणाल्लिङ्गादौचित्याद्देगकालतः । शब्दार्थाः प्रविभज्यन्ते न शब्दादेव केवलात्’’() ऎऩ्गिऱबडिये 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ऒरु चतुर्थिक्के योजनाभेदत्ताले तादर्थ्यसम्प्रदानाद्यर्थभेदम् सॊल्लक्कूडुमोवॆऩ्ऩवरुळिच्चॆय्गिऱार् अर्थादिति । अर्थात् – प्रयोजनविशेषत्तालुम्, प्रकरणात् – साकाङ्क्षपदसमभिव्याहारत्तालुम्, लिङ्गात् – अर्थसामर्थ्यत्तालुम्, औचित्यात् - योग्यतादिगळालुम्, देशकालतः – देशत्तालुम् कालत्तालुम्, शब्दार्थाः प्रविभज्यन्ते शब्दार्थङ्गळ् भिन्नङ्गळाग आगिऱदुगळ्, केवलाच्छब्दादेव न – केवलशब्दमात्रत्तिऩालऩ्ऱु। आगैयाल् तत्तद्योजऩैक्कनुगुणमाग ऒरु चतुर्थिक्के अर्थभेदम् सॊल्ललामॆऩ्ऱुगरुत्तु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19452,15 +19607,11 @@ Uno de los significados del cuarto caso que **se aceptan** **es**
 आगैयाले ‘‘दीयमानार्थशेषित्वं संप्रदानत्वमिष्यत’’() इत्यादिगळिऱ्पडिये
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-परस्वत्वापादनमिव्विडत्तिल् कूडादागिलुम् 
+ननु स्वीयवस्तुविऱ्कु स्वस्वत्वनिवृत्तिपूर्वकपरस्वत्वापादनमऩ्ऱो दानम्; इङ्गु समर्पणीयमाऩ वात्मा स्वीयमऩ्ऱु; आगैयाल् दीयमानत्वम् कूडादे; इप्पडियिरुक्क नारायणपदोत्तरचतुर्थिक्कु दीयमानार्थशेषित्वरूपसम्प्रदानत्वमर्थमॆऩ्ऱु सॊल्लक्कूडुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् आगैयाले इत्यादिना । 
 </details>
 
-<details><summary>मूलम्</summary>
-
-परस्वत्वापादनमिव्विडत्तिल् कूडादागिलुम् 
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19488,6 +19639,8 @@ y le pertenece.
 
 परस्वत्वापादनमिव्विडत्तिल् कूडादागिलुम् 
 </details>
+
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -19523,6 +19676,12 @@ Se puede sostener que el cuarto caso indica sampradana.
 ईश्वरऩ् तऩक्कु शेषमाऩ वस्तुवैत् ताऩे रक्षित्तुक्कॊळ्ळुम्बडि समर्पिक्किऱवळवैप्पऱ्ऱ 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ईश्वरऩ् तऩक्कु शेषमाऩ वस्तुवैत् ताऩे रक्षित्तुक्कॊळ्ळुम्बडि समर्पिक्किऱवळवैप्पऱ्ऱ इति । यद्यपि इङ्गु आत्माविऱ्कु स्वीयत्वमिल्लैयागैयाल् मुख्यमाऩ दीयमानत्वम् कूडादु; 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव् व्यापक-मन्त्रङ्गळिल्  
@@ -19544,6 +19703,12 @@ y Ahirbudbnya (Siva) **comentó** de esta manera sobre el dativo o cuarto caso e
 
 इव् व्यापकमन्त्रङ्गळिल् चतुर्थियै संप्रदानार्थैयाग वहिर्बुद्ध्न्यऩ् व्याख्यानम् पण्णिऩाऩ्। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आगिलुम् रक्षणीयतया समर्पणीयत्वम् कूडुमागैयाल् संरक्ष्यतया अर्पणीयवस्तु शेषित्वरूपगौणार्थाभिप्रायत्ताले अहिर्बुद्ध्न्यऩ् इच् चतुर्थियै सम्प्रदानार्थैयाग व्याख्यानम् पण्णिऩाऩॆऩ्ऱु करुत्तु।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19581,6 +19746,12 @@ que **se muestra** subordinado o Śeṣa
 <details><summary>मूलम्</summary>
 
 ‘‘नीचीभावेन सन्द्योत्यमात्मनो यत्समर्पणं । विष्ण्वादिषु चतुर्थी तत्संप्रदानप्रदर्शिनी ॥ 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ननु अहिर्बुद्ध्न्य संहितैयिल् विष्णुशब्दोत्तरचतुर्थी सम्प्रदानपरमाग व्याख्यातमाऩालुम् मूलमन्त्रस्थनारायणपदोत्तरचतुर्थियाऩदु व्याख्यातमागविल्लैये यॆऩ्ऩ वरुळिच्चॆय्गिऱार् नीचीभावेन सन्द्योत्यमित्यादियाल्। नीचीभावेन – नैच्यत्ताले, सन्द्योत्यं –प्रकाश्यमाऩ, आत्मनो यत्समर्पणं – आत्माविऩुडैय संरक्ष्यतया समर्पणमॆऩ्बदु यादॊऩ्ऱुण्डो, तत्सम्प्रदानप्रदर्शिनी – अन्द समर्पणत्तिऩ् सम्प्रदानकारकत्तै प्रदर्शिप्पिक्किऱदु, विष्ण्वादिषु चतुर्थी – मन्त्रघटकविष्णुशब्दोत्तरचतुर्थी, इङ्गु आदिशब्दत्ताले नारायणवासुदेवशब्दङ्गळुक्कु ग्रहणम्। 
 </details>
 
 
@@ -19628,6 +19799,16 @@ Así, Viṣṇu **está indicado** por el cuarto caso ".
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सॊऩ्ऩ अर्थत्तैये विशदीकरिक्किऱार् नीचीभूतो ह्यसाविति ।  
+
+> अन्द समर्पणमाऩदु ऎवऩ् पॊरुट्टु? 
+
+ऎऩ्ऱु सम्प्रदानाकाङ्क्षैयिल् विष्णुविऩ् पॊरुट्टॆऩ्ऱु विष्ण्वादिपदोत्तरचतुर्थियिऩाले सॊल्लप्पडुगिऱदॆऩ्गै। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘विष्ण्व्-आदिषु’’  
@@ -19672,6 +19853,12 @@ Este **es** un **comentario** también sobre el cuarto caso en palabras como Nā
 नारायणादि शब्दङ्गळिल् चतुर्थियुम् व्याख्यानम् पण्णप् पट्टदु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इङ्गु विष्ण्वादिषु ऎऩ्ऱु आदिपदत्ताले नारायणपदवासुदेवपदङ्गळैयुम् सङ्ग्रहिक्कैयाल् तदुत्तरचतुर्थियुम् सम्प्रदानार्थैयागच् चॊल्लिऱ्ऱायिऱ्ऱु। 
+</details>
+
+
 ## अक्षरार्थाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19696,6 +19883,12 @@ Los significados de las siete letras sagradas **comienzan** desde na
 <details><summary>मूलम्</summary>
 
 इत् तिरुमन्त्रत्तिल् नकारम् मुदलाऩ एऴु तिरुवक्षरङ्गळुक्कुम्प्रत्येकम् मन्त्रस्मृतिकळिऱ्सॊऩ्ऩ अर्थङ्गळै
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि इम् मन्त्रत्तिऱ्कु मन्त्रस्मृतिकळिऱ्सॊऩ्ऩ ऒव्वॊरु अक्षरार्थत्तैयुम् पूर्वाचार्यर्गळ्सङ्ग्रहित्तार्गळॆऩ्गिऱार् इत् तिरुमन्त्रत्तिलित्यादिना । 
 </details>
 
 
@@ -19734,6 +19927,11 @@ que **se oponen** a ello.
 <details><summary>मूलम्</summary>
 
 ‘‘नायकत्वञ्च सर्वेषां नामनत्वं परे पदे । नाशकत्वं विरुद्धानां नकारार्थः प्रकीर्तिताः ॥
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सर्वेषां – सर्वश्रेयस्सुक्कळुक्कुम्, नायकत्वञ्च – प्रापकत्वमुम्, परे पदे - परमपदत्तिल्, नामनं – भगवत्प्रावण्यजनकत्वमुम्, विरुद्धानां – विरुद्धमाऩ अनात्मगुणङ्गळुक्कु, नाशकत्वं – निवर्तकत्वमुम्, नकारार्थः प्रकीर्तितः – नकारार्थमागच् चॊल्लप्पट्टदु। 
 </details>
 
 
@@ -19777,6 +19975,14 @@ y **asegurando** para ellos el respeto de los demás:
 मङ्गलत्वम्महत्वञ्च महनञ्च करोति यत् । आश्रितानान्ततो ज्ञेयो मकारार्थस्ततो बुधैः ॥
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आश्रितानां – आश्रितर्गळुक्कु, मङ्गळत्वं – मङ्गळकरत्वत्तैयुम्, महत्वञ्च – धर्मभूतज्ञानविकासत्तैयुम्, महनञ्च – पूजनत्तैयुम्, अदावदु मकारोच्चारयितृकर्मकपूजैयै, यत् - यस्मात्, करोति – इन्द मकारमाऩदु पण्णुगिऱदो, ततः – आगैयाल्, बुधैः – पण्डितर्गळाल्, ततः – मङ्गळकरत्वम् मुदलाऩदु, सार्वविभक्तिकस्तसिल् । 
+
+मकारार्थो ज्ञेयः – मकारार्थमाग अऱियत्तक्कदु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > नास्तिक्य-**हानिर्** +++(भगवत्-कर्मसु)+++ नित्यत्वं  
@@ -19818,6 +20024,12 @@ Estos beneficios, en opinión de aquellos que **conocen** el mantra,
 नास्तिक्यहानिर्नित्यत्वं नेतृत्वञ्च हरेः पदे । नाकारसेविनां नॄणाम्मन्त्रविद्भिः प्रकीर्तितः ।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नास्तिक्यहानिः – परलोकमिल्लैयॆऩ्गिऱ बुद्धिक्कु हानियुम्, नित्यत्वं – भगवत्सेवानिरतत्वमुम् हरेः पदे नेतृत्वं – परमपदविषयत्तिल् प्रापकत्वमुम्, अदावदु आचार्यककरणेन परमपदप्राप्तिहेतुत्वमुम्, नाकारसेविनामित्यादि । नाकारत्तै अनुसन्धिप्पवर्गळुगु उण्डागिऱदॆऩ्ऱु मन्त्रवित्तुक्कळिऩाले सॊल्लप्पट्टदॆऩ्गै। तथाच नास्तिक्य हान्यादिगळ् नाकारसेविकळुक्कु प्रयोजनमॆऩ्ऱु सॊल्लुगैयाल् नास्तिक्यहान्यादिकरत्वम् नाकारत्तिऱ्कु अर्थमॆऩ्ऱु फलित्तदु। नाकारत्तै एतादृशार्थत्तोडु जपित्ताल् नास्तिक्य-हान्यादिफलम् सिद्धिक्कुमिऱे। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19854,6 +20066,11 @@ y **proteger** el reino (de los males).
 <details><summary>मूलम्</summary>
 
 रञ्जनं भगवत्याशु रागहानिस्ततोऽन्यतः । राष्ट्रत्राणादिकञ्चापि प्राप्यते रेफसेवया ॥
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+रञ्जनमिति । रेफत्तिऩुडैय सेवानन्तरमे अदावदु अदऩुडैय जपाद्यनन्तरमे भगवाऩिडत्तिल् रागमुम्, भगवद्वयतिरिक्तविषयत्तिल् रागहानियुम्, राष्ट्रपरिपालनमुम्, राष्ट्रकृतपूजादिगळुम् अडैयप्पडुगिऩ्ऱऩ। तथाच भगवद्रागादिजनकत्वम् रेफार्थमॆऩ्ऱु फलित्तदॆऩ्ऱबडि। 
 </details>
 
 
@@ -19899,6 +20116,12 @@ y el mandato del lenguaje necesario para alabarlo.
 योगोद्योगः फलञ्चाशु यकारात् प्राप्यते बुधैः । वर्णनञ्च तथा विष्णोर्वाणीसिद्धिर्णकारतः ॥ 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+योगोद्योग इति । भक्तियोगत्तिल् त्वरैयुम् अदिऩ् फल-माऩ भगवत्प्राप्तियुम् यकारसेवैयाले अडैयप्पडुगिऱदु। तथाच भगवद्भक्तित्वराजनकत्वमुम् तत्फलजनकत्वमुम् यकारार्थमॆऩ्ऱु सिद्धित्तदु। विष्णोः – विष्णुविऩुडैय, वर्णनं – स्तुतियुम्, तथा वाणीसिद्धिः – स्तोत्रत्तिऱ्कु उचितमाऩ वाक्सिद्धियुम्, णकारतः – णकारसेवै यिऩाले उण्डागिऱदु। तथाच स्तुतिजनकत्वमुम् तदुचितवाक्सिद्धिजनकत्वमुम् णकारार्थमॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यक्ष-राक्षस-वेताल-  
@@ -19934,6 +20157,12 @@ Los que **conocen** los mantras
 <details><summary>मूलम्</summary>
 
 यक्षराक्षसवेतालभूतादीनां भयाय यः । एवमक्षरनिर्वाहो मन्त्रविद्भिः प्रकीर्तितः॥’’(पूर्वाचार्य-कारिका)
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+यक्षेति । यकारमाऩदु यक्षादिगळुडैय भयत्तिऩ्बॊरुट्टागिऱदु। तथाच यक्षादिभयजनकत्वम् यकारार्थमॆऩ्ऱु फलित्तदु। 
 </details>
 
 
@@ -19983,6 +20212,14 @@ Por lo tanto, con la **ayuda** de un **estudio** cuidadoso de las **interpretaci
 इप्पडियिप्पदङ्गळिऩुडैय व्याकरणनिरुक्त्यादि सिद्धव्युत्पत्तिपरामर्शत्ताले 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि ताम् व्याकरणनिरुक्त्यादिगळैक्कॊण्डु अरुळिच्चॆय्द तत्तत्पदङ्गळुडैय व्युत्पत्तिविशेषादिगळै अनुसन्धिप्पार्क्कु स्वस्वरूप परस्वरूपादिगळै इम् मन्त्रमे विशदमागक् काट्टुमॆऩ्गिऱार् इप्पडि इत्यादियाल्। 
+निरुक्त्यादीत्यत्रादिशब्दात् अक्षरनिघण्टुमन्त्रस्मृत्यादिनां ग्रहणम्।  
+व्युत्पत्तिपरामर्शत्ताले - व्युत्पत्तिसिद्धार्थपरामर्शत्ताले,  
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर-वादि-मूलम् आग वरुम् मास्+++(=कलङ्कम्)+++ अऱ  
@@ -20005,6 +20242,12 @@ Como un espejo,
 <details><summary>मूलम्</summary>
 
 परवादिमूलमाग वरुम् मासऱ विळक्कप् पट्ट तिरुमन्त्रमागिऱ कण्णाडि
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मासऱ - पूर्वपक्षिकळ् सॊल्लुम् जीवपरैक्यादिपरत्वरूपदोषम् अऱ्ऱु बोम् बडि, 
 </details>
 
 
@@ -20032,6 +20275,10 @@ y también lo que **sea** difícil de **ver** con respecto a la propia naturalez
 परस्वरूपादिगळैयुम् स्वस्वरूपत्तिऱ्काण वरिय निलङ्गळैयुमॆल्लाम् सुव्यक्तमागक्काट्टुम्।  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परस्वरूपादिगळैयुमिति । आदिशब्दत्ताले गुणविग्रहादिगळुक्कु ग्रहणम्। स्वस्वरूपत्तिल् - जीवस्वरूपत्तिल्, काणवरिय निलङ्गळैयुमॆल्लामिति । प्रत्यक्षादिप्रमाणङ्गळाले अऱियमुडियादवऱ्ऱैयॆल्लामॆऩ्ऱबडि।  
+</details>
 
 
 ### भगवद्-गुणाः
@@ -20078,6 +20325,14 @@ y que también **están implícitos** en este mantra,
 इदुक्कु प्रतिपाद्यदेवतैयाय् प्राप्यमुमाऩ परस्वरूपत्तै इत् तिरुमन्त्रत्तिल् शाब्दङ्गळायुमार्थङ्गळायुमुळ्ळ प्रकारङ्गळोडे कूड यथाप्रमाणमनुसन्धिक्कुम्बोदु; 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि इन्द मन्त्रम् परस्वरूपादिगळैक् काट्टुम् प्रकारत्तै प्रथमाक्षरक्रमत्ताले यरुळिच् चॆय्गिऱार् इदुक्कु प्रतिपाद्यदेवतैयाय् इत्यादिना ।  
+प्राप्यमुमाऩ परस्वरूपत्तै इति । इम् मन्त्रत्तिऩ् अयनशब्दार्थमाऩ प्राप्यस्वरूपत्तै ऎऩ्ऱबडि।  
+प्रकारङ्गळोडे - विशेषणङ्गळोडे। 
+</details>
+
+
 #### रक्षकत्वादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -20104,6 +20359,12 @@ cualidades como su ser el **protector**;
 रक्षकत्वम्,
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+रक्षकत्वमित्यादि । रक्षकत्वम् - इदु अव रक्षणे ऎऩ्गिऱ धातुविले निष्पन्नमाऩ अकारार्थम्, 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदिऩ्-उडैय स्वभाव-सिद्धत्वम्,
@@ -20122,6 +20383,11 @@ His protectorship being the result of His very nature;
 <details><summary>मूलम्</summary>
 
 अदिऩुडैय स्वभावसिद्धत्वम्,
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अदिऩुडैय स्वभावसिद्धत्वम् - उपाधियिल्लामैयाले वन्द अन्द रक्षकत्वत्तिऩुडैय स्वाभाविकत्वम्, 
 </details>
 
 
@@ -20144,6 +20410,12 @@ Su **protectoridad se extiende** a todos,
 
 अदिऩ् सर्वविषयत्वम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अदिऩ् सर्वविषयकत्वमिति । सङ्कोचकाभावात् ऎऩ्गै। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -20169,6 +20441,14 @@ correspondiente a la naturaleza de la cosa a **proteger**,
 रक्ष्यवस्तुविशेषानुरूपमाग रक्षैयिऩुडैय नानाप्रकारत्वम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+रक्ष्यवस्तु – बद्धमुक्तनित्यर्गळ्, 
+</details>
+
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वदा-रक्षकत्वम्, सर्वत्र-रक्षकत्वम्, 
@@ -20191,6 +20471,12 @@ His being the protector in all places,
 सर्वदा-रक्षकत्वम्, सर्वत्र-रक्षकत्वम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सर्वदा रक्षकत्वमिति । कालोपाधि सॊल्लामैयाले, सर्वत्र रक्षकत्वमिति । देशोपाधिसॊल्लामैयाले, 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-प्रकार-रक्षकत्वम्,
@@ -20209,6 +20495,12 @@ Su **protección ser** de todo tipo,
 <details><summary>मूलम्</summary>
 
 सर्वप्रकाररक्षकत्वम्,
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सर्वप्रकाररक्षकत्वमिति । प्रकारविशेषम् सॊल्लामैयाले, 
 </details>
 
 
@@ -20231,6 +20523,12 @@ Su **protección** **ser dirigida** por su propio interés,
 स्वार्थरक्षकत्वम्,
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+स्वार्थरक्षकत्वमिति । आश्रितरक्षणस्यापि स्वप्रयोजनत्वात् ऎऩ्ऱु करुत्तु।
+</details>
+
+
 ##### अपेक्षित-गुणान्तरम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -20252,10 +20550,22 @@ la **omnisciencia** tan **esencial** para un **protector**,
 सर्वरक्षकत्वापेक्षितमाऩ सर्वज्ञत्वम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि रक्षकत्वाक्षिप्तगुणङ्गळैक् काट्टुगिऱार् सर्वरक्षकत्वापेक्षितमाऩ सर्वज्ञत्वमिति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-शक्तित्वम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-शक्तित्वम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -20278,6 +20588,12 @@ Su omnipotencia,
 स्वेच्छा-व्यतिरिक्तानिवार्यत्वम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वेच्छा-व्यतिरिक्तानिवार्यत्वम्, 
+</details>
+
+
 <details><summary>English</summary>
 
 the protection being irrevocable by any except His own will, 
@@ -20294,12 +20610,315 @@ la **protección ser irrevocable** por cualquiera excepto su propia **voluntad**
 स्वेच्छाव्यतिरिक्तानिवार्यत्वम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+स्वेच्छाव्यतिरिक्तानिवार्यत्वम् - रक्षणविषयत्तिल् स्वसङ्कल्पव्यतिरिक्तङ्गळाले तडुक्कप्पडामै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(स्वतोऽपि→)+++ अनतिक्रमणीय-रक्षण-संरम्भत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(स्वतोऽपि→)+++ अनतिक्रमणीय-रक्षण-संरम्भत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+the irresistibility by others of His protection, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनतिक्रमणीयरक्षणसंरम्भत्वम्,
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अनतिक्रमणीयरक्षण-संरम्भत्वम् - तऩ्ऩालेयुम् अतिक्रमिक्क मुडियाद रक्षणसंरम्भत्तैयुडैत्तागै, इङ्गु संरम्भम् प्रतिज्ञै । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परम-कारुणिकत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+परम-कारुणिकत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+His supreme mercy, 
+</details>
+
+<details><summary>Español</summary>
+
+Su suprema misericordia,
+</details>
+
+<details><summary>मूलम्</summary>
+
+परमकारुणिकत्वम्,
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+रक्षणोपयुक्तगुणङ्गळैच् चॊल्लुगिऱार् परमकारुणिकत्वमिति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवसर-प्रतीक्षत्वम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अवसर-प्रतीक्षत्वम्+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+His expecting an occasion for protection, 
+</details>
+
+<details><summary>Español</summary>
+
+Está **esperando** una ocasión de **protección**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवसरप्रतीक्षत्वम्
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अदिऩ्गार्यङ्गळैच् चॊल्लुगिऱार् अवसरप्रतीक्षत्वमित्यादिना । कारुणिकत्वादिप्रयुक्तम् आश्रितसुलभत्वम्। अवसरप्रतीक्षत्वादिप्रयुक्तम् विश्वनीयत्वम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्याज-मात्र-सापेक्षत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+व्याज-मात्र-सापेक्षत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+His requiring from the jīva just a pretext or vyāja for extending His protection, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **exigencia** de la jīva  
+sólo un pretexto o vyāja  
+para **extender** Su **protección**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+व्याजमात्रसापेक्षत्वम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आश्रित--सु-लभत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आश्रित--सु-लभत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His accessibility to all those who have sought His help
+</details>
+
+<details><summary>Español</summary>
+
+Su **accesibilidad** a todos los que **han buscado** su **ayuda**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आश्रितसुलभत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विश्वसनीयत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+विश्वसनीयत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+His nature being such as may ever be relied on (for succour), 
+</details>
+
+<details><summary>Español</summary>
+
+**Siendo** su naturaleza tal en la que siempre **se puede confiar** (para socorro),
+</details>
+
+<details><summary>मूलम्</summary>
+
+विश्वसनीयत्वम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सापराध-+++([संयोगे] प्रयासः→)+++घटनाद्य्-अनुगुण-विशेषणवत्त्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सापराध-+++([संयोगे] प्रयासः→)+++घटनाद्य्-अनुगुण-विशेषणवत्त्वम्,
+</details>
+
+<details><summary>English</summary>
+
+His having as His attribute (Lakṣmī)  
+who will recommend the pardon of those who have committed offences (17), 
+</details>
+
+<details><summary>Español</summary>
+
+Su **tener** como su atributo (Lakṣmī)  
+quien **recomendará** el **perdón** de aquellos  
+que **han cometido delitos** (17),
+</details>
+
+<details><summary>मूलम्</summary>
+
+सापराधघटनाद्यनुगुणविशेषणवत्त्वम्,
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सापराधघटनाद्यनुगुणविशेषणवत्वमिति ।  
+सापराधर्गळाऩ जीवर्गळिऩ्  
+घटनम् आऩदु भगवद्-आश्रयणोपयुक्तम् आऩ पुरुषगारकृत्यम्। आदिपदत्ताले उपायविरोधिपापनिवर्तकत्वत्तिऱ्कुम् प्राप्तिविरोधिपापनिवर्तकत्वत्तिऱ्कुम् सङ्ग्रहम्। इवैगळुक् कनुगुणमाऩ विशेषणम् लक्ष्मीः, तद्वत्वमॆऩ्गै। रक्षकत्वमुम् रक्षकत्वोपयुक्तङ्गळाऩ इन्द पदिऩेऴु गुणङ्गळुमकारत्तिल् अनुसन्धेयङ्गळ्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शेषित्वम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शेषित्वम्
+</details>
+
+
+<details><summary>English</summary>
+
+His being the śeṣī, 
+</details>
+
+<details><summary>Español</summary>
+
+**Siendo** él el śeṣī,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शेषित्वम्
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मेले लुप्तचतुर्थियिल् अनुसन्धेयङ् गळाऩ पदिऩोरु गुणङ्गळैक् काट्टुगिऱार् शेषित्वमित्यादियाल्। शेषित्वमिति । इदु चर्तथ्यर्थशेषत्वप्रतिसम्बन्धत्ताले किडैत्तवर्थम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिऩ्-उडैय निरुपाधिकत्व-नित्यत्व--सर्व-विषयत्वङ्गळ्, 
+</details>
+
+<details><summary>English</summary>
+
+His being the Seshī under all conditions and at all times and to all,  
+</details>
+
+<details><summary>Español</summary>
+
+**Ser** el Seshī en todas las condiciones y en todo momento y para todos,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदिऩुडैय निरुपाधिकत्व नित्यत्वसर्वविषयत्वङ्गळ्, 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अदिऩुडैय निरुपाधिकत्वनित्यत्व सर्वविषयत्वङ्गळिति । उपाधियुम्, कालपरिच्छित्तियुम्, विषयपरिच्छित्तियुम् इल्लामैयाले ऎऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्-अन्य-शेषित्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्-अन्य-शेषित्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His freedom from being śeṣa to any one else, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **libertad** de **ser** Śeṣa a cualquier otra persona,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनन्यशेषित्वम्, / अनन्यशेषत्वम्
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अनन्यशेषित्वमिति । अन्य-निरूपित-शेषत्व-शून्यऩ् आऩ अनन्यऩुक्कु शेषित्वम्। इदु अवधारणार्थक उकारत्ताले फलितम्। 
+</details>
 
 
 
 we should reflect on the following qualities of His in principal and on other excellent traits connected with them:-  
 
-the irresistibility by others of His protection, His supreme mercy, His expecting an occasion for protection, His requiring from the jīva just a pretext or vyāja for extending His protection, His accessibility to all those who have sought His help. His nature being such as may ever be relied on (for succour), His having as His attribute (Lakṣmī) who will recommend the pardon of those who have committed offences (17), His being the śeṣī, His beiug the Seshī under all conditions and at all times and to all, His freedom from being śeṣa to any one else, His being the śeṣī to those who admire His attributes and qualities, His being the śeṣī in association with His consort, His being without equals or superiors, His being worthy of the surrenderiog of the self as an offering (havis), His being different from non-sentient matter, from souls in bondage, from souls in mukti and from the eternal sūris (nityas), His being the cause of others being śeṣīs in relation to certain things (28), His being an independent doer, His being capable of inspiring jīvas with such qualities as knowing, His being the inspirer of all activities, His not being inspired by any one else, His permitting of what is being done, His being the witness of all karmas or rites done, His co-operation (in karma s), His inducing those who have sought succour to do what is pleasing (to Him), His inducing them to do what is beneficial (to themselves), His being the unconditional object of worship, His readiness to be at the disposal of others (when they have done the right thing), His being the Siddhopāya ever ready to redeem (the jita), His being the cause of the jīva adopting the sādhyopaya (bhakti  or prapatti), His commands being expressed in the śrutis aod smṛtis, His being the ruler who punishes (the evil doer), His equal treatinent of all, His being sympathetic to those who seek His help, His being the cause of avidyā and the like, His being incapable of avidyā and the like (karma ), His readiness to dispel avidyā (ignorance) of those who have sought His protection (48), His being free from any change in His essential nature, His being free from any change in His character or qualities, His readiness to lead all (the jīvas) to the attainment of Himself, the creation maintenance and destrnction of the world being His līlā or sportive activity (52), His being the principal subject of all Vedānta (Upaniṣads), His being the material cause of everything, His being the instrumental cause of everything, the irresistibility of His will, His having all (beings and things) as His body, His being denoted by all words, His adoration being performed by deans of all karma s, His being the grantor of the fruits of all karma s, His being the kinsman to the jīva in every form, His universal pervasiveness, His unsurpassed subtleness, His being the support of everything. His being His own support, His being of the nature of satya, His being of the nature of jñāna, His infiniteness, His being of the nature of bliss, His being pure (and spotless) His possession of countless and unnamed attributes in His essential nature which has been defined by certain specific attributes like satyam, jñānam, ānantam, anandam, amalatvam, His having an eternal, divine and auspicious form, His having states like Para (the supreme) Vyūha and others, His incarnations being satya, (facts of history), His possession of His own svabhāva or nature even in the state of incarnation, His incarnations being free from the touch of prakṛti or matter, His incarnations not being the result of karma , His incarnations having no fixed or appointed time of occurrence, His incarnations being the overflow of multi. tudes of qualities which are to serve the purposes of those who seek succour (from Him), His being pure and fit for contemplation in all states, His having Lakṣmī as His companion in all states, His possession of divine ornaments, weapons, queen, abode, attendants, furniture, door-keepers, retinue, and the like (81), tha power which He has of causing the separation of the gross body from the self, His being the resting place of the jīvas for repose, His dispensation of special favours to all jīvas at that time, His lighting up of the opening of the Brahma Nadi for the entrance of the self, His enabling the self to enter it, His being the cause of the emergence of the self out of the opening of the Brahma nādi, the appointment by Him of Archis and other escort for the self, His leading the self through the gateway of the sun, His being the Cause of the self emerging out of the sphere (anda) of the material universe, His leading the self to the bank of the river Viraja, His being the cause of the separation of the subtle body from the self, His granting, to the self, of a transcendental (non-material) body, His being the cause of the self being welcomed and honoured by the divine Apsarases, His causing the self to enter the Brahmic fragrance and the like, His being the cause of the self being welcomed and honoured by the eternal süris and the released souls (muktas), the regard shown by Him up to the time when the self rises to the couch, His being the cause of the self enjoying perfect blies, His being the principal goal of attainment, His being responsible for all kinds of service rendered with the body, without the body[^93] and with more bodies than one, His possession of all objects of desire, His enjoyment of unsurpassed bliss, His being an object of upsurpassed enjoyment, His being an object of enjoyment in all forms, His being favourable, by His very nature, at all times, His bestowal to the self of bliss perfectly similar to His own, His inability to endure separation from thuse who seek succour from Him, and his being the cause of the self never returning to samsára. (108).
+His being the śeṣī to those who admire His attributes and qualities, His being the śeṣī in association with His consort, His being without equals or superiors, His being worthy of the surrenderiog of the self as an offering (havis), His being different from non-sentient matter, from souls in bondage, from souls in mukti and from the eternal sūris (nityas), His being the cause of others being śeṣīs in relation to certain things (28), His being an independent doer, His being capable of inspiring jīvas with such qualities as knowing, His being the inspirer of all activities, His not being inspired by any one else, His permitting of what is being done, His being the witness of all karmas or rites done, His co-operation (in karma s), His inducing those who have sought succour to do what is pleasing (to Him), His inducing them to do what is beneficial (to themselves), His being the unconditional object of worship, His readiness to be at the disposal of others (when they have done the right thing), His being the Siddhopāya ever ready to redeem (the jita), His being the cause of the jīva adopting the sādhyopaya (bhakti  or prapatti), His commands being expressed in the śrutis aod smṛtis, His being the ruler who punishes (the evil doer), His equal treatinent of all, His being sympathetic to those who seek His help, His being the cause of avidyā and the like, His being incapable of avidyā and the like (karma ), His readiness to dispel avidyā (ignorance) of those who have sought His protection (48), His being free from any change in His essential nature, His being free from any change in His character or qualities, His readiness to lead all (the jīvas) to the attainment of Himself, the creation maintenance and destrnction of the world being His līlā or sportive activity (52), His being the principal subject of all Vedānta (Upaniṣads), His being the material cause of everything, His being the instrumental cause of everything, the irresistibility of His will, His having all (beings and things) as His body, His being denoted by all words, His adoration being performed by deans of all karma s, His being the grantor of the fruits of all karma s, His being the kinsman to the jīva in every form, His universal pervasiveness, His unsurpassed subtleness, His being the support of everything. His being His own support, His being of the nature of satya, His being of the nature of jñāna, His infiniteness, His being of the nature of bliss, His being pure (and spotless) His possession of countless and unnamed attributes in His essential nature which has been defined by certain specific attributes like satyam, jñānam, ānantam, anandam, amalatvam, His having an eternal, divine and auspicious form, His having states like Para (the supreme) Vyūha and others, His incarnations being satya, (facts of history), His possession of His own svabhāva or nature even in the state of incarnation, His incarnations being free from the touch of prakṛti or matter, His incarnations not being the result of karma , His incarnations having no fixed or appointed time of occurrence, His incarnations being the overflow of multi. tudes of qualities which are to serve the purposes of those who seek succour (from Him), His being pure and fit for contemplation in all states, His having Lakṣmī as His companion in all states, His possession of divine ornaments, weapons, queen, abode, attendants, furniture, door-keepers, retinue, and the like (81), tha power which He has of causing the separation of the gross body from the self, His being the resting place of the jīvas for repose, His dispensation of special favours to all jīvas at that time, His lighting up of the opening of the Brahma Nadi for the entrance of the self, His enabling the self to enter it, His being the cause of the emergence of the self out of the opening of the Brahma nādi, the appointment by Him of Archis and other escort for the self, His leading the self through the gateway of the sun, His being the Cause of the self emerging out of the sphere (anda) of the material universe, His leading the self to the bank of the river Viraja, His being the cause of the separation of the subtle body from the self, His granting, to the self, of a transcendental (non-material) body, His being the cause of the self being welcomed and honoured by the divine Apsarases, His causing the self to enter the Brahmic fragrance and the like, His being the cause of the self being welcomed and honoured by the eternal süris and the released souls (muktas), the regard shown by Him up to the time when the self rises to the couch, His being the cause of the self enjoying perfect blies, His being the principal goal of attainment, His being responsible for all kinds of service rendered with the body, without the body[^93] and with more bodies than one, His possession of all objects of desire, His enjoyment of unsurpassed bliss, His being an object of upsurpassed enjoyment, His being an object of enjoyment in all forms, His being favourable, by His very nature, at all times, His bestowal to the self of bliss perfectly similar to His own, His inability to endure separation from thuse who seek succour from Him, and his being the cause of the self never returning to samsára. (108).
 
 [^93]: Service without the body: Perhaps this should be taken to mean anubhava or experience.]
 
