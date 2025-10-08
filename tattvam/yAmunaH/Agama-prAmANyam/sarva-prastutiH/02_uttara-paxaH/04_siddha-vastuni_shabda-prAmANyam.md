@@ -695,7 +695,10 @@ Just as this floating, however helpful it may be to determine the identity of ce
 
 <details><summary>नरसिंहः</summary>
 
-For a classification of gems as 'male' and 'female', see Ratnadīpikā of Caṇḍeśvara, Śls. 11-13, and for a classification into the four castes 'brāhmana', 'kṣatriya', 'vaiśya' and 'śūdra' see Ratnaśāstra : śls. 21 and 23.
+यथैव ... For a classification of gems as 'male' and 'female', see Ratnadīpikā of Caṇḍeśvara, Śls. 11-13, and for a classification into the four castes 'brāhmana', 'kṣatriya', 'vaiśya' and 'śūdra' see Ratnaśāstra : śls. 21 and 23.
+
+‘व्यवहार-दशा’-पदेन, धारण-समयो विवक्षितः ।
+
 </details>
 
 <details><summary>मूलम्</summary>
@@ -761,14 +764,19 @@ we reply: no, for then no use of words would be possible, since their meaning wo
 138: This holds for those statements which are not verifiable by other means of knowledge, for if they are verifiable, they are no means of knowledge in their own right.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+मानान्तरापूर्वे ... Cf. Prakaraṇapañcikā II. P.187:
+
+> क्रियादि-भिन्नं यत् कार्यं वेद्यं मानान्तरैर् न तत् ।  
+अतो मानान्तरापूर्वम् अपूर्वम् इति गीयते ॥
+
+अव्युत्पन्नत्वेन ... शब्दस्येति शेषः । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 मानान्तरापूर्वे कार्य इति चेन् न तत्राव्युत्पन्नत्वेन प्रयोगानुपपत्तेः ।
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-+ शब्दस्येति शेषः । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -793,11 +801,6 @@ for that would entail over-extension.
 न चाव्युत्पन्न-शब्देभ्यः प्रत्ययोऽतिप्रसङ्गतः ॥
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-Yamuna here attacks the theory advanced by the Prabhakaras that the words uttered by human beings gain validity only on inferential evidence because those beings are liable to defects. 
-</details>
-
 ## अपूर्वे शक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -814,6 +817,11 @@ Yamuna here attacks the theory advanced by the Prabhakaras that the words uttere
 > 66\. OBJECTION. My position is this.  
 In ordinary language a statement is understood to have its proper signification  
 when it bears on a kārya that is to be accomplished with a certain action.  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Yāmuna here attacks the theory advanced by the Prābhakaras that the words uttered by human beings gain validity only on inferential evidence because those beings are liable to defects. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -837,18 +845,14 @@ because it is the means of realizing a certain fruit
 and acquires this power on account of the collocation of words describing this fruit;  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'फल-पदं' फल-वाचकं स्वर्ग-कामादि-पदम् । तत्-साधन-भावः स्वर्ग-साधनत्वं अपूर्वस्येत्य् अर्थः । धात्व्-अर्थोतीर्णं, धात्व्-अर्थातिरिक्तम् । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 > फल-पद-समभिव्याहार--बल-प्रतिलब्ध-- तत्-साधन-भाव-भङ्गुर-यागादि- धात्व्-अर्थोत्तीर्णापूर्व-कार्याभिधान-शक्तिर् वेदे मोदते,  
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-X ' फलपदं' फल-वाचकं स्वर्ग-कामादि-पदम् ।  
-तत्-साधन-भावः स्वर्ग-साधनत्वं अपूर्वस्येत्य् अर्थः ।  
-धात्व्-अर्थोतीर्णं, धात्व्-अर्थातिरिक्तम् ।  
-फलपद... शक्ति:' इत्ययं बहुव्रीहि: ' शब्द ' इत्यस्य विशेषणम् ।  
-वेदे निर्वृत्त इति भावः । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
