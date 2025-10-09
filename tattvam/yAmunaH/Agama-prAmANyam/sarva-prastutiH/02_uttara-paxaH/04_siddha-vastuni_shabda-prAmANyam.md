@@ -1607,19 +1607,14 @@ We conclude that ordinary, non-Vedic statements give rise to cognitions concerni
 > 72\. OBJECTION. But these cognitions do not arise from the denoting power of language, but result from Inference. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This view of Prabhākara regarding the validity pertaining to the statements made by human beings, has already been stated and refuted briefly by Yāmuna. He now exposes in detail, the untenability and absurdity of this view and proves that even sentences uttered by people in the world possess verbal authority, but not inferential authority. See the verse "tasmādasti madillie"[[??]], etc., following. 
+</details>
+
 <details><summary>मूलम्</summary>
 
 > ननु न ताः शब्द-महिम-भुवः, आनुमानिक्यो हि ताः, 
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-This view of Prabhakara regarding the validity pertaining to the statements made by human beings,  
-has already been stated and refuted briefly by Yamuna.  
-He now exposes in detail, the untenability and absurdity of this view  
-and proves that even sentences uttered by people in the world possess verbal authority,  
-but not inferential authority.  
-See the verse "tasmādasti madillie ", etc., following. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1636,21 +1631,22 @@ do not furnish complete certainty about their meanings merely upon being heard b
 when they are accompanied by doubt which is created by the listener's observation that in one case or other statements have deviated from their proper meanings.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Prakaraṇapañcikā II. 24, P.14:
+
+> śaṅkyamānānyathārthatvaracanaṁ tena puṁvacaḥ ।  
+śrutamātrakamevārthe na tāvanniścayāvaham ॥
+
+Also vide ibid: śl. 36, P.15:
+
+> arthenaiva viśeṣo hi nirākāratayā dhiyām ।  
+na cāpratītenārthena viśeṣaścāvakalpate ॥
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथा हि व्युत्पत्ति-समय-संविदितार्थ-प्रतिपादन-सामर्थ्यान्य् अपि पदानि क्व-चिद् व्यभिचार-दर्शन-जनित-संशय-प्रतिबद्धानि न श्रुत-मात्राण्य् अर्थं निश्चाययन्ति, 
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-1 Cf. Prakaranapañcikā II. 24, p. 14- 
-shankyamAnAyatharthatva-racanam tena pumvacaḥ   
-śruta-mātrakam evärthe na tavan niścayāvaham ।।  
-Also vide ibidः $1. 36, p. 15-  
-arthenaiva višeşo hi  
-nirākāratayā dhiyāṁ ।  
-na cApratitenarthena  
-viseṣaścāvakalpate ।। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1681,6 +1677,22 @@ viseṣaścāvakalpate ।।
 <details><summary>Buitenen</summary>
 
 If the meaning of a statement is not known, the listener wants to discover it: "The speaker uses words whose meanings apparently admit of being connected; 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. ibid. II. 38-40, P.16:
+
+> किं त्व् अज्ञाते ऽपि शब्दार्थे पद-जाते श्रुते सति ।  
+विमर्शो जायते श्रोतुर् ईदृशो मति-शालिनः ॥  
+अन्योन्यान्वय-योग्यार्थं पद-जातं ब्रवीत्य् अयम् ।  
+आप्तस् तेनामुना नूनं ज्ञातस् तेषां समन्वयः ॥  
+न कदाचिद् असम्बद्धान् अर्थान् एष विवक्षति ।  
+न वा ऽप्रतीत-सम्बन्धान् इति दोषो न कश्चन ॥
+
+Also cf. ibid: V, P.95:
+
+> यो हि पुरुषः एवम् अवधारितो नायम् अशक्तो, न प्रमादी, सम्भवद् एतद् अर्थ-विषय-प्रमाणः सकलाशय-दोष-रहितश् च; नायम् अविज्ञायार्थम् अन्वितार्थानि प्रयुङ्क्त इति तद्-वाक्य-प्रयोगस्यान्वय-ज्ञान-पूर्वकत्वाद् अन्वय-ज्ञानं तावद् अनुमीयते । अन्वय-ज्ञानाच् चान्वयो ऽप्य् अनुमीयते । ज्ञानं हि ज्ञेयाविनाभावि, ज्ञेयानुमाने भवत्य् एव लिङ्गम् । तद् एवं लौकिकाद् वचसो लिङ्ग-भूताद् वक्तृ-ज्ञानम् अनुमीयते । ततो ऽर्थं निश्चित्य व्यवहारः प्रवर्तते । एवं च निश्चिते ऽन्वये निवृत्तान्वयाशङ्काद् वाक्याद् अप्य् अर्थ-निश्चयो जायते । किन्तु तस्यां दशायाम् अनुवादकतैव । अत एव लौकिक-वचने न शब्दं प्रमाणम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1738,6 +1750,18 @@ and the listener realizes that therefore the speaker has knowledge of such a con
 <details><summary>Buitenen</summary>
 
 If the knowledge of connection is thus inferred, the meaning discovered by the listener does not require the authority of verbal testimony. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. ibid. II. śls. 26-28; P.15:
+
+> तस्य ज्ञानं च वाक्येन लिङ्ग-भूतेन गम्यते ।  
+ज्ञात्वैवार्थं ब्रवीतीति य एवम् अवधारितः ॥  
+तस्य ज्ञानेन नियतं वाक्यं ज्ञानानुमापकम् ।  
+ज्ञानं चार्थाविनाभावि तेनार्थे ऽपि विनिश्चयः ॥  
+ततो ऽर्थे निश्चिते पश्चात् सो ऽर्थो वाक्येन गम्यते ।  
+तस्यां दशायां वाक्यस्य तस्य स्याद् अनुवादता ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1896,6 +1920,11 @@ You want to infer: "Did the speaker know something?" or wish to infer his knowle
 <details><summary>Buitenen</summary>
 
 But the mere knowledge that the speaker knew something is not enough for utterance and action concerning a statement-meaning to proceed. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+व्यवहारः कायिकः व्याहारः वाचिकः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2111,6 +2140,13 @@ e.g.
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+स एष ... Bṛhadāraṇyaka V. vi. 1.
+
+तस्याध्यक्षम् ... To be identified.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "स एष सर्वाधिपतिः", "सर्वस्येशानः", "सर्वम् इदं प्रशास्ति", "तस्याध्यक्षम् इदं सर्वम्" इत्यादीनि,
@@ -2171,6 +2207,11 @@ Scriptural validity, i.e., Scripture's being a means of knowledge, is to the Pra
 To the Prabhakara this validity is ideal in the case of injunctions concerning actions which, suprasensibly, lead to a certain desired end.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This and the succeeding paragraph are mere repetitions. See pp.39-40 above.
+</details>
+
 <details><summary>मूलम्</summary>
 
 न च सिद्धे वस्तुनि साधकबाधकयोरन्यतरोपनिपातसम्भवप्रसक्तेर्भावितानुवादविपर्ययपर्यालोचनया तद्गोचरवचसः प्रामाण्यप्रच्युतिः कार्यनिष्ठस्यापि तत्प्रसङ्गात्, 
@@ -2195,18 +2236,17 @@ as in the case of the cooking of the odana.
 (The injunction concerning the odana oblation includes an injunction concerning the preparation of the odana and the fetching of firewood for the cooking. Since experience shows that for a cooking fire one needs firewood, this karya is not strictly known on scriptural authority.)
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Prakaraṇapañcikā II, p. 180: 
+
+> कृति-साध्यं प्रधानं यत्, तत् कार्यम् अवसीयते ।  
+तच् च मानान्तरेणापि वेद्यम् ओदन-पाकवत् ॥
+</details>
+
 <details><summary>मूलम्</summary>
 
 कार्यमपि हि मानान्तरवेद्यमेव लौकिकं समिदाहरणादि, तच्च मानान्तरेणापि वेद्यमोदनपाकवदित्यभ्युपगमात् ।  
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-$ Vide Prakaraṇapañcikā II, p. 180- 
-> " कृतिसाध्यं प्रधानं यत्,  
-तत् कार्यम् अवसीयते । 
-तच मानान्तरेणापि  
-वेद्यम् ओदन-पाकवत् ॥ " 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2305,6 +2345,11 @@ for it is a mere matter of assumption.
 <details><summary>Buitenen</summary>
 
 Therefore it must be maintained that all indubitable and unreversed knowledge is authoritative, regardless of whether its content is established, or yet to be performed, or anything else. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+परिनिष्ठिर् अयं [[??]] सिद्धार्थ-बोधकत्वम्; अनुष्ठेयत्वं पराभीष्टं कार्य-बोधकत्वम् । उभयोर् एतयोर् न कुत्राप्य् आग्रहः कार्य इति [[??]] ज्ञान-प्रामाण्यस्य तादृश-भेदाप्रयोजकत्वात्, विपर्ययादि-शून्यत्वस्यैव तत्वाच् च ।
 </details>
 
 <details><summary>मूलम्</summary>
