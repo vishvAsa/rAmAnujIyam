@@ -478,7 +478,7 @@ for it does not apply in the case of injunctive suffixes,
 
 <details><summary>नरसिंहः</summary>
 
-लिङा [[??]] साक्षात् कार्यम् उच्यत इति चेत्, लिङि कार्य-परत्वं नास्तीति व्यभिचारः । लिङ् कार्यम् एव साक्षात्, न तु[[??]] कार्य-परम् इति ध्येयम् ।
+लिङा साक्षात् कार्यम् उच्यत इति चेत्, लिङि कार्य-परत्वं नास्तीति व्यभिचारः । लिङ् कार्यम् एव साक्षात्, न तु कार्य-परम् इति ध्येयम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -499,7 +499,7 @@ since these suffixes denote their own meanings as connected, not with kārya, bu
 
 <details><summary>Buitenen - Note</summary>
 
-[135]: Yamuna's argument is that the injunctive, etc. terminations of the verb denote the injunction as their thingmeant (padārtha); but what makes this injunction 'meaningful' is not that it is an injunction, but that it is connected with someone who is qualified to accept the injunction, e.g., in the injunction svargakāmo yajeta. The injunctive yajeta has no meaning or purpose unless there is a "desire for heaven;"  the meaning of the injunction thus is connected with the consequence of this desire is  prepared to do something about it.
+[135]: Yamuna's argument is that the injunctive, etc. terminations of the verb denote the injunction as their thing meant (padārtha); but what makes this injunction 'meaningful' is not that it is an injunction, but that it is connected with someone who is qualified to accept the injunction, e.g., in the injunction svargakāmo yajeta. The injunctive yajeta has no meaning or purpose unless there is a "desire for heaven;"  the meaning of the injunction thus is connected with the consequence of this desire is  prepared to do something about it.
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -542,11 +542,11 @@ it is more appropriate simply to accept the view that there is denotation of con
 
 जरतीयम् ... For an explanation of the ardhajaratī-nyāya see Nyāyasūdhā under I. iii. 3. P.135: 
 
-> केनचित् पाशुपतेन सर्वज्ञतया योषितो ऽनुपभोग्यत्वात्, सर्व-तरुण्याश् च वृद्धे ऽप्य् अरुचि-प्रसङ्गात् [[??]] अर्ध-जरत्या नयेन[[??]] दूतः प्रेषित इति लोक-प्रवादो ऽर्ध-जरती-शब्दे ।
+> केनचित् पाशुपतेन सर्व-जरत्या योषितो ऽनुपभोग्यत्वात्, सर्व-तरुण्याश् च वृद्धे ऽप्य् अरुचि-प्रसङ्गात् अर्ध-जरत्यानयने दूतः प्रेषित इति लोक-प्रवादो ऽर्ध-जरती-शब्दे ।
 
 Also cf. Bhuvaneśalaukikanyāyasāhasrī, P.104: 
 
-> यत्र सर्व-त्यागे ग्रहणे वा प्रसक्ते, किञ्चिद् निर्युक्तिकम् एकांशोपादानम्[[??]] अरंशान्तर-त्यागश् च क्रियते तत्रायं न्यायो ऽवतरति — यथा जरती वृद्धा स्त्री, तस्याः पतिः तद्-अर्धं गुण-मात्रं[[??]] गृह्णाति ह्य् अवयवान्तरं त्यजतीति युक्ति-शून्यम् ।
+> यत्र सर्व-त्यागे ग्रहणे वा प्रसक्ते, किञ्चिद् निर्युक्तिकम् एकांशोपादानम् अंशान्तर-त्यागश् च क्रियते तत्रायं न्यायो ऽवतरति — यथा जरती वृद्धा स्त्री, तस्याः पतिः तद्-अर्धं गुण-मात्रं गृह्णाति ह्य् अवयवान्तरं त्यजतीति युक्ति-शून्यम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -569,7 +569,7 @@ Also cf. Bhuvaneśalaukikanyāyasāhasrī, P.104:
 
 <details><summary>नरसिंहः</summary>
 
-योग्यार्थान्तर-सङ्गते स्वार्थ एव पद-व्युत्पत्तिः । एतेन पदानां यत् किञ्चिद् अर्थान्वयः निरस्तो वेदितव्यः । पदानां [[??]] विशिष्ट-बोधकत्वं स्वाभाव्यम् इति भाट्टः । शब्दस्यैव सम्बन्ध-बोधकत्वं, नार्थस्येति प्राभाकराः । [[??]] तस्माद्' इत्य्-आदिना ।
+योग्यार्थान्तर-सङ्गते स्वार्थ एव पद-व्युत्पत्तिः । एतेन पदानां यत् किञ्चिद् अर्थान्वयः निरस्तो वेदितव्यः । अर्थानां विशिष्ट-बोधकत्वं स्वाभाव्यम् इति भाट्टः । शब्दस्यैव सम्बन्ध-बोधकत्वं, नार्थस्येति प्राभाकराः । तत्राह - 'तस्माद्' इत्य्-आदिना ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -603,7 +603,7 @@ even so
 
 <details><summary>नरसिंहः</summary>
 
-‘तुष्यतु दुर्जन’-न्यायेनाऽऽह ‘यद्य् अपी'ति । प्रवृत्तिर् गवानयनादिषु । तस्या अन्यथा ऽनुपपत्त्या प्रथमं  [[??]] शक्तिर् अभ्युपेया ।
+‘तुष्यतु दुर्जन’-न्यायेनाऽऽह ‘यद्य् अपी'ति । प्रवृत्तिर् गवानयनादिषु । तस्या अन्यथा ऽनुपपत्त्या प्रथमं शब्द-शक्तिर् अभ्युपेया ।
 
 </details>
 
