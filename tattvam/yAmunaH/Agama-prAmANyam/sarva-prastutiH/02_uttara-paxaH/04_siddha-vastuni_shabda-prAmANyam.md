@@ -24,6 +24,11 @@ they do not have proper denotative power.
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This is the view of the Prābhākara.
+</details>
+
 <details><summary>मूलम्</summary>
 
 ननु च ।  
@@ -48,6 +53,11 @@ even though this fact is established,
 really operates its denoting power  
 as fully as it does  
 by applications which concern karyas.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+This is the reply given by the Siddhāntin.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -312,6 +322,11 @@ REFUTATION. Don't we find that the realization of a kārya is caused by a verbal
 When you say that, since this realization cannot occur without a cause therefore the proximate statement must in that case be the cause of the realization, then I maintain that the same holds also in the case of "A son is born."
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+आकस्मिक ... कारणं विना कार्यं न जायत इति हेतोः ।
+
+"विधिः" न्याय इत्य् अर्थः ।
 <details><summary>मूलम्</summary>
 
 अथ आकस्मिकत्वानुपपत्तेः सन्निहित-शब्द एव तद्-अवगम-हेतुर् इति चेत् समानोऽयं विधिर् इतरत्रापि।
@@ -330,6 +345,13 @@ When you say that, since this realization cannot occur without a cause therefore
 It has been decided by our opponent that the verbal denotation of a meaning which causes an action to be taken is a result of the inclusion in the statement of a liṅādi suffix.133 
 
 [133]: supra §36.  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+प्रवृत्ति-हेतुः कार्यम्; तद्-रूउपो ऽर्थः; तत्-प्रतिपादकता लिङादीनाम् इत्य् अन्वयः ।
+
+आवापः प्रयोग इति यावत्।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -355,7 +377,7 @@ He who maintains that all words only bear meaningfully on kārya,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेनाप्य्-आवापोद्धार-विनिर्धारितासंसृष्ट-शरीराणाम् एव गवाश्वादीनां तत्-पदार्थता समर्थनीया, 
+तेनाप्य्-आवापोद्धार-विनिर्धारितासंसृष्ट-शरीराणाम् एव गवाश्वादीनां तत्-तत्-पदार्थता समर्थनीया, 
 </details>
 
 <details><summary>Buitenen</summary>
@@ -365,9 +387,19 @@ maintains in effect that padārthas134 exist only in kārya statements and that 
 [134]: The things-meant or denoted by the word,
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+विनिर्धारिता ... आवापोद्धारैः विनिर्धारितं कार्यम् । तद्-असंसृष्ट-शरीराणाम् इत्य् अन्वयः ।
+
+गवाश्वादीनां ... शुद्ध-गवाश्वादि-पदानाम् ।
+
+तत्-तत्-पदार्थता, कार्यानन्वितो ऽप्य् अर्थः ।
+
+</details>
+
 <details><summary>मूलम्</summary>
 
-तेनाप्य्-आवापोद्धार-विनिर्धारितासंसृष्ट-शरीराणाम् एव गवाश्वादीनां तत्-पदार्थता समर्थनीया, 
+तेनाप्य्-आवापोद्धार-विनिर्धारितासंसृष्ट-शरीराणाम् एव गवाश्वादीनां तत्-तत्-पदार्थता समर्थनीया, 
 </details>
 
 ## न कार्यान्विताभिधान-मात्रम्
@@ -384,6 +416,12 @@ maintains in effect that padārthas134 exist only in kārya statements and that 
 
 If he says, indeed, whenever their being a padārtha is significantly construed, it is construed just as connected with kārya, we reply,  
 Stop being obstinate; for verbal exchange is also possible through denotation of words that are connected with other things than kāryas.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+भाट्ट-मते पदेनार्थः; तेन जाति-मात्रस्य बोध इत्य् अभ्युपगमः । अन्विताभिधानं नोररीक्रियते ।
+
 </details>
 
 <details><summary>मूलम्</summary>
@@ -404,17 +442,23 @@ Stop being obstinate; for verbal exchange is also possible through denotation of
 63\. It is necessary to accept the position that words are denotative of connected meanings, for otherwise it would be impossible to explain that they are denotative of meanings connected with kāryas. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अवश्याश्रयणीयेयम् ... Yāmuna emphasises here that no speciality should be attached to a statement that speaks of something to be done (kārya). Words, he says, generally depend upon some factors and those factors need not necessarily be ‘kārya’. Pointing out the untenability of the theory of ‘kārya’, he says that it goes astray in the instance of ‘liṅ’ the optative itself. Even the ‘liṅ’—suffix is found to depend upon a host of factors like the qualified aspirant (adhikārin), the means (sādhana) and the thing to be attained (sādhya). *Cf*. the following verse:
+
+> tasmādākāṅkṣitāsannayogyārthāntarasaṅgate ।  
+svārthe padānāṁ vyutpattirāstheyā sarvavādibhiḥ॥
+
+Words convey their sense only in connection with such other idea or factor that is required to complete its sense (ākāṅkṣita), that is compatible with it (yogya) and which is supplied by a word uttered along with it (āsanna). Kārya should therefore occupy a subordinate but not the supreme position in the scheme of significance of words.
+
+दुर्वदं ... [[??]]
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 > अवश्याश्रयणीयेयम् अन्वितार्थाभिधायिता।  
 > कार्यान्विताभिधायित्वम् अन्यथा दुर्-वचं यतः॥
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-Yāmuna emphasises here that no speciality should be attached to a statement that speaks of something to be done (kārya).  
-Words, he says, generally depend upon some factors  
-and those factors need not necessarily be ‘kārya’.  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -432,15 +476,14 @@ The definition 'the thing meant by a word is always connected with a kārya' fai
 for it does not apply in the case of injunctive suffixes, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+लिङा [[??]] साक्षात् कार्यम् उच्यत इति चेत्, लिङि कार्य-परत्वं नास्तीति व्यभिचारः । लिङ् कार्यम् एव साक्षात्, न तु[[??]] कार्य-परम् इति ध्येयम् ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 अव्याप्तञ्चैतत् कार्यान्वितमेव सर्वत्र पदाभिधेयमिति लिङादिषु व्यभिचारात्, 
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-Pointing out the untenability of the theory of ‘kārya’,  
-he says that it goes astray in the instance of ‘liṅ’ the optative itself.  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -459,17 +502,16 @@ since these suffixes denote their own meanings as connected, not with kārya, bu
 [135]: Yamuna's argument is that the injunctive, etc. terminations of the verb denote the injunction as their thingmeant (padārtha); but what makes this injunction 'meaningful' is not that it is an injunction, but that it is connected with someone who is qualified to accept the injunction, e.g., in the injunction svargakāmo yajeta. The injunctive yajeta has no meaning or purpose unless there is a "desire for heaven;"  the meaning of the injunction thus is connected with the consequence of this desire is  prepared to do something about it.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+सम्बन्धिनमेव ... अधिकारः फल-स्वाम्यम् — स्वर्ग-कामादि-पदोक्तम् ।
+
+स्वार्थम् ... स्वार्थं कार्यम् ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 लिङादयो हि परिनिष्ठिताधिकाराद्य्-अनुबन्ध-संबन्धिनम् एव स्वार्थम् अभिदधति ।
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-Even the ‘liṅ’-suffix is found to depend upon a host of factors like the qualified aspirant (adhikārin), the means (sādhana) and the thing to be attained (sādhya). Cf. the following verse:  
-
-> तस्माद् आकाङ्क्षितासन्नयोग्यार्थान्तरसङ्गतेः ।  
-> स्वार्थे पदानां व्युत्पत्तिर् आस्थेया सर्ववादिभिः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -494,23 +536,22 @@ it is more appropriate simply to accept the view that there is denotation of con
 [136]: ardhajaratī is a half-old woman; the ardhajaratīyanyāya is used to indicate that the opponent wants to have it both ways and that consequently his argument, like a half-old and half-young woman, is useless either way.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+तेषु लिङादिषु ।
+
+जरतीयम् ... For an explanation of the ardhajaratī-nyāya see Nyāyasūdhā under I. iii. 3. P.135: 
+
+> केनचित् पाशुपतेन सर्वज्ञतया योषितो ऽनुपभोग्यत्वात्, सर्व-तरुण्याश् च वृद्धे ऽप्य् अरुचि-प्रसङ्गात् [[??]] अर्ध-जरत्या नयेन[[??]] दूतः प्रेषित इति लोक-प्रवादो ऽर्ध-जरती-शब्दे ।
+
+Also cf. Bhuvaneśalaukikanyāyasāhasrī, P.104: 
+
+> यत्र सर्व-त्यागे ग्रहणे वा प्रसक्ते, किञ्चिद् निर्युक्तिकम् एकांशोपादानम्[[??]] अरंशान्तर-त्यागश् च क्रियते तत्रायं न्यायो ऽवतरति — यथा जरती वृद्धा स्त्री, तस्याः पतिः तद्-अर्धं गुण-मात्रं[[??]] गृह्णाति ह्य् अवयवान्तरं त्यजतीति युक्ति-शून्यम् ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 अथ तेष्व् अन्विताभिधानम् इतरत्र कार्यान्विताभिधानम् इति चेत् तद्-अर्द्धजरतीयम्, ततो वरं सर्वत्रान्विताभिधानम् एवाश्रीयताम् ।
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-For an explanation of the ardhajaratī-nyāya see Nyāyasudhā under I. iii. 1, p. 135: 
-
-> > “केनचित् पाशुपतेन सबन्धस्य सर्वजरत्या योषितो ऽनुपभोग्यत्वात्,  
-तरुण्या अपि वृद्धेऽप्य् अरुचि-प्रसङ्गात्,  
-अर्धजरत्यानयने दूतः प्रेषित 
->
-> इति लोक-प्रवादो ऽर्धजरतीशब्दे। 
-
-Also cf. *Bhuvaneśvarīlalaukikanyāyasāhasrī*, p. 104: “ यत्र सर्वत्यागे ग्रहणे वा प्रसक्ते, निर्युक्तिकम् एकांशोपादानम् अरंशान्तरत्यागश् च क्रियते, तत्रायं न्यायोऽवतरति—  
-यथा जरती वृद्धा स्त्री, तस्याः पतिः तदर्थं गुणमात्रं गृह्णाति ह्यवयवान्तरं त्यजतीति युक्तिशून्यम् ।”
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -526,15 +567,15 @@ Also cf. *Bhuvaneśvarīlalaukikanyāyasāhasrī*, p. 104: “ यत्र स�
 64\. Therefore, the adherents of all schools should accept that words have proper denotation for the meanings they denote because these meanings are connected with other meanings that are required to complete the sense of the statement, are closely collocated and are appropriate. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+योग्यार्थान्तर-सङ्गते स्वार्थ एव पद-व्युत्पत्तिः । एतेन पदानां यत् किञ्चिद् अर्थान्वयः निरस्तो वेदितव्यः । पदानां [[??]] विशिष्ट-बोधकत्वं स्वाभाव्यम् इति भाट्टः । शब्दस्यैव सम्बन्ध-बोधकत्वं, नार्थस्येति प्राभाकराः । [[??]] तस्माद्' इत्य्-आदिना ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 तस्माद् आकाङ्क्षितासन्नयोग्यार्थान्तरसङ्गतेः ।  
 स्वार्थे पदानां व्युत्पत्तिर् आस्थेया सर्ववादिभिः ॥
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-Words convey their sense only in connection with such other idea or factor that is complete to its sense (ākāṅkṣita), that is compatible with it (yogya) and which is supplied by a word uttered along with it (āsanna). Kārya should therefore occupy a subordinate but not the supreme position in the scheme of significance of words.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -560,15 +601,16 @@ even so
 [137]: Misra's text here has yady api vṛttyanupapattisamadhigamanīyaiva śabdaśaktis "the denoting power of language is to be known only through the impossibility of operation,"  which makes no sense. The reading must be corrupt, in anu papatti we may find a corruption of vyutpati,in pravṛtti perhaps a corruption of kāryārthe or kāryārtha-.  I read conjecturally kāryārtha vyutpattisamadhi gamanīyaiva, which gives the required sense.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘तुष्यतु दुर्जन’-न्यायेनाऽऽह ‘यद्य् अपी'ति । प्रवृत्तिर् गवानयनादिषु । तस्या अन्यथा ऽनुपपत्त्या प्रथमं  [[??]] शक्तिर् अभ्युपेया ।
+
+</details>
+
 ## व्युत्पन्न-प्रयोगे कार्यानपेक्षा
 <details><summary>मूलम्</summary>
 
 यद्य् अपि प्रवृत्त्य्-अनुपपत्ति-समधिगमनीयैव शब्दशक्तिस् तथाऽपि -
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-तुष्यतु दुर्जन 'न्यायेनाऽऽह ' यद्यपी 'ति । प्रवृत्तिर्गवानयनादिषु । तस्या अन्यथानुपपत्त्या प्रथमं शक्तिरभ्युपेया 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -584,16 +626,16 @@ even so
 it is correct when we decide the denotation of language to take the standpoint that kārya is just one of the inessential factors of denotation, like the identity of the speaker, the extent of space in which a statement can be heard etc. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+प्रेरक-पुरुषस्य, आकाशस्य, देशस्य वा क्वचिद् अपि विषय-कोटि-प्रविष्टत्वं नाऽभ्युपेयते, तटस्थत्वम् एव ।  
+एवं कार्यस्यापीति ध्येयम् ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 तटस्थोपायतामात्रं शब्द-शक्ति-विनिश्चये ।  
 कार्यस्याश्रयितुं युक्तं प्रयोक्त्र्-आकाश-देशवत् ॥
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-प्रेरक-पुरुषस्य, आकाशस्य, देशस्य वा कचिद् अपि विषय-कोटि-प्रविष्टत्वं नाऽभ्युपेयते, तटस्थत्वम् एव ।  
-एवं कार्यस्यापीति ध्येयम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -617,16 +659,25 @@ just as is the case with floating precious stones on water.
 [138]: This holds for those statements which are not verifiable by other means of knowledge, for if they are verifiable, they are no incans of knowledge in their own right.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अनन्यलभ्यः ... ‘शब्दार्थः’ शब्द-शक्ति-गोचर इत्य् अर्थः । स एव शब्दस्यार्थः; यः प्रकारान्तरेण न लभ्यते । “गङ्गायां घोष” इत्य् अत्र गङ्गा-पदस्य प्रवाह-रूपार्थ-मात्रे शक्ति-स्वीकारे, तत्-सम्बन्धात् तीरम् अपि लभ्यते । एवं लक्षणया प्रकारान्तरेणापि तीर-लाभान् न तत्र शक्ति-स्वीकारः । अत एव जाति-मात्रे शक्तिः; व्यक्तेर् आक्षेपाद् एव सिद्धेः ।
+
+Cf. Bhuvaneśalaukikanyāyasāhasrī, P.243.
+
+पयःप्रतरणादिवत् ... Vide Ratnaśāstra of Buddhabhaṭa, śl. 39:
+
+> यत् तु सर्वैर् गुणैर् युक्तं वज्रं तरति वारिणि ।  
+रत्नानां समस्ते ऽपि तस्य धारणम् इष्यते ॥
+
+The quality of gems is tested by putting them in water. If they float, that is an indication of their superiority. This method of testing or the knowledge regarding the test is no doubt useful in determining the class of gems; but it is of no avail at the time of wearing them. On this analogy, it is argued that the knowledge of 'kārya' though useful to arrive at the significance of words, is not useful at the time of using those words.
+</details>
+
 <details><summary>मूलम्</summary>
 
 अनन्यलभ्यश् शब्दार्थ इति न्यायविदस् स्थिताः ।  
 तस्मान् नोपायभूतस्य कार्यस्यास्ति समन्वयः ॥  
 व्युत्पन्न-व्यवहारेषु पयःप्रतरणादिवत् ।
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-The quality of gems is tested by putting them in water. If they float, that is an indication of their superiority. This method of testing or the knowledge regarding the test is no doubt useful in determining the class of gems; but it is of no avail at the time of wearing them. On this analogy, it is argued that the knowledge of 'karya' though useful to arrive at the significance of words, is not useful at the time of using those words. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -642,14 +693,17 @@ The quality of gems is tested by putting them in water. If they float, that is a
 Just as this floating, however helpful it may be to determine the identity of certain diamonds, e.g. the brahmin diamond, serves no purpose when a stone is being transacted which has already been properly identified, similarly the kārya, however helpful to understand the proper signification of a word, serves no purpose once its proper signification has been identified.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+यथैव ... For a classification of gems as 'male' and 'female', see Ratnadīpikā of Caṇḍeśvara, Śls. 11-13, and for a classification into the four castes 'brāhmana', 'kṣatriya', 'vaiśya' and 'śūdra' see Ratnaśāstra : śls. 21 and 23.
+
+‘व्यवहार-दशा’-पदेन, धारण-समयो विवक्षितः ।
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथैव हि ब्रह्मजातीयादिवज्रविशेषावधारणोपयोगिनोऽपि पयः-प्रतरणादेर् अवधृत-रत्न-सत्त्वस्य न व्यवहारदशायाम् उपयोगः, एवं व्युत्पत्ति-ग्रहण-समय-समुपयुक्तस्यापि कार्यस्य न व्युत्पन्नदशायाम् उपयोगः ॥
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-For a classification of gems as 'male' and 'female, see Ratnadipikā of Candeśvara, Śls. 11-13, and for a classification into the four castes ' brāhmana', Kşatriya', ' vaisya' and 'śūdra see Ratnasāstra : sls. 21 and 23.
 </details>
 
 ## नदी-तीर-फलम्
@@ -710,14 +764,19 @@ we reply: no, for then no use of words would be possible, since their meaning wo
 138: This holds for those statements which are not verifiable by other means of knowledge, for if they are verifiable, they are no means of knowledge in their own right.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+मानान्तरापूर्वे ... Cf. Prakaraṇapañcikā II. P.187:
+
+> क्रियादि-भिन्नं यत् कार्यं वेद्यं मानान्तरैर् न तत् ।  
+अतो मानान्तरापूर्वम् अपूर्वम् इति गीयते ॥
+
+अव्युत्पन्नत्वेन ... शब्दस्येति शेषः । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 मानान्तरापूर्वे कार्य इति चेन् न तत्राव्युत्पन्नत्वेन प्रयोगानुपपत्तेः ।
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-+ शब्दस्येति शेषः । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -742,11 +801,6 @@ for that would entail over-extension.
 न चाव्युत्पन्न-शब्देभ्यः प्रत्ययोऽतिप्रसङ्गतः ॥
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-Yamuna here attacks the theory advanced by the Prabhakaras that the words uttered by human beings gain validity only on inferential evidence because those beings are liable to defects. 
-</details>
-
 ## अपूर्वे शक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -763,6 +817,11 @@ Yamuna here attacks the theory advanced by the Prabhakaras that the words uttere
 > 66\. OBJECTION. My position is this.  
 In ordinary language a statement is understood to have its proper signification  
 when it bears on a kārya that is to be accomplished with a certain action.  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Yāmuna here attacks the theory advanced by the Prābhakaras that the words uttered by human beings gain validity only on inferential evidence because those beings are liable to defects. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -786,18 +845,14 @@ because it is the means of realizing a certain fruit
 and acquires this power on account of the collocation of words describing this fruit;  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'फल-पदं' फल-वाचकं स्वर्ग-कामादि-पदम् । तत्-साधन-भावः स्वर्ग-साधनत्वं अपूर्वस्येत्य् अर्थः । धात्व्-अर्थोतीर्णं, धात्व्-अर्थातिरिक्तम् । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 > फल-पद-समभिव्याहार--बल-प्रतिलब्ध-- तत्-साधन-भाव-भङ्गुर-यागादि- धात्व्-अर्थोत्तीर्णापूर्व-कार्याभिधान-शक्तिर् वेदे मोदते,  
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-X ' फलपदं' फल-वाचकं स्वर्ग-कामादि-पदम् ।  
-तत्-साधन-भावः स्वर्ग-साधनत्वं अपूर्वस्येत्य् अर्थः ।  
-धात्व्-अर्थोतीर्णं, धात्व्-अर्थातिरिक्तम् ।  
-फलपद... शक्ति:' इत्ययं बहुव्रीहि: ' शब्द ' इत्यस्य विशेषणम् ।  
-वेदे निर्वृत्त इति भावः । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
