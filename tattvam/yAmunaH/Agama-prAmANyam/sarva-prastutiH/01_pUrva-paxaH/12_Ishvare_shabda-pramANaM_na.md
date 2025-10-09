@@ -972,7 +972,7 @@ The Mīmāṁsakas do not accept the existence of any deity that receives the of
 
 Cf. Prakaraṇapañcikā V, P.94:  
 
-brahmasvarūpāṇi ca pramāṇāntarasiddhamevāśrayaṇīyam; brahmaśabdasya ca loke pramāṇāntarasiddhātmavācitvena siddheḥ vede'pi sa evārthaḥ; tathā ca sati nityaprakāśaparamānandādirūpavidhiḥ sakalapratipattiviruddhaḥ; sarvapratipattiṣu hi pramāṇasmṛtibhūtāsvātmā prakāśate; na ca tatra paramānandaḥ saṁvedyate; na ca sāṁsārikaduḥkhābhibhūtatvāt tasyāprakāśaḥ, abhibhavānupapatteḥ;[[??]] avacchinnaṁ hi duḥkham anavacchinnānanda iti nālpīyasā mahataḥ[[??]] abhibhavaḥ saṁbhavati; svaprakāśasya ca abhibhavāvaraṇānabhivyaktīnām[[??]] asambhava eva;... sakalavikāraśūnyatāpi vijñānādivikārotpatteḥ pramāṇāntaraviruddhaiveti[[??]] parasparānvayāyogyatayā nānandādiparatvaṁ; ajarāmaratvayostu[[??]] pramāṇāntaraprasiddhereva anuvādatvāt aprāmāṇyam iti.
+brahmasvarūpāṁ ca pramāṇāntarasiddhamevāśrayaṇīyam; brahmaśabdasya ca loke pramāṇāntarasiddhātmavācitvena siddheḥ vede'pi sa evārthaḥ; tathā ca sati nityaprakāśaparamānandādirūpavidhiḥ sakalapratipattiviruddhaḥ; sarvapratipattiṣu hi pramāṇasmṛtibhūtāsvātmā prakāśate; na ca tatra paramānandaḥ saṁvedyate; na ca sāṁsārikaduḥkhābhibhūtatvāt tasyāprakāśaḥ, abhibhavānupapatteḥ; avacchinnaṁ hi duḥkham anavacchinnānanda iti nālpīyasā mahataḥ[[??]] abhibhavaḥ saṁbhavati; svaprakāśasya ca abhibhavāvaraṇānabhivyaktīnām asambhava eva;... sakalavikāraśūnyatāpi vijñānādivikārotpatteḥ pramāṇāntaraviruddhaiveti parasparānvayāyogyatayā nānandādiparatvaṁ; ajarāmaratvayostu[[??]] pramāṇāntaraprasiddhereva anuvādatvāt aprāmāṇyam iti.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -994,9 +994,9 @@ or "Know that the[[34]] syllable OM, which is not the udgitha, is the udgitha." 
 
 <details><summary>नरसिंहः</summary>
 
-अपितर्येव ... लौकिकम् इदम् उदाहरणम्।[[??]] वैदिकम् अपि दर्शयति 'अनुद्गीथ' इति। 
+अपितर्येव ... लौकिकम् इदम् उदाहरणम्। वैदिकम् अपि दर्शयति 'अनुद्गीथ' इति। 
 
-तथा च ... See Chāndogyopaniṣad I. 5: atha khalu ya udgīthaḥ sa praṇavo, yaḥ praṇavaḥ[[??]] sa udgītha iti. See Raṅgarāmānuja's commentary on it.
+तथा च ... See Chāndogyopaniṣad I. 5: atha khalu ya udgīthaḥ sa praṇavo, yaḥ praṇavaḥ sa udgītha iti. See Raṅgarāmānuja's commentary on it.
 
 </details>
 
@@ -1073,7 +1073,7 @@ On this point see KMS 1.2.1. with Sabara's bhāṣya.
 
 </details>
 
-For instance, for the arthavāda statement “so 'rodīt yadarodīt tat rudrasya [[??]] rudratvam” (Taittirīya Saṁhitā : I. v. i. 1), the corresponding vidhisentence[[??]] is “barhiṣi rajataṁ na deyam” (Ibid: I. v. i. 2).
+For instance, for the arthavāda statement “so 'rodīt yadarodīt tat rudrasya rudratvam” (Taittirīya Saṁhitā : I. v. i. 1), the corresponding vidhi-sentence is “barhiṣi rajataṁ na deyam” (Ibid: I. v. i. 2).
 
 <details><summary>मूलम्</summary>
 
@@ -1238,7 +1238,7 @@ since its word-meanings would not allow of mutual relation.
 
 <details><summary>नरसिंहः</summary>
 
-यद्यपि ... The Mīmāṁsaka has in mind, statements like “yassarvajñaḥ sarvavit” (Muṇḍaka : I-9) and “na tasya kāryaṁ karaṇaṁ ca vidyate, svābhāvikī jñānabalakriyā[[??]] ca” (Śvetāśvatara : VI-8), which declare that there does exist an Omniscient[[??]] Being and that His Omniscience is natural but not due to any extraneous[[??]] factor.
+यद्यपि ... The Mīmāṁsaka has in mind, statements like “yassarvajñaḥ sarvavit” (Muṇḍaka : I-9) and “na tasya kāryaṁ karaṇaṁ ca vidyate, svābhāvikī jñānabalakriyā ca” (Śvetāśvatara : VI-8), which declare that there does exist an Omniscient Being and that His Omniscience is natural but not due to any extraneous factor.
 
 अर्थवादतयैव ... Cf. Ślokavārtika, I. i. 2, śls. 118-120:
 
@@ -1316,7 +1316,7 @@ The identification is considered an arthavada, i,e., laudatory of the sacrificia
 
 Vide Taittirīya Brāhmaṇa: II. i.5.2 : “ādityo yūpaḥ”.
 
-The argument is that if perception were not taken as the guiding principle [[??]] in ascertaining the connotation of passages, one would have to literally identify[[??]] the Sun and the sacrifical post on the authority of the text “ādityo yūpaḥ”, which is a eulogistic passage. But their identity is disproved by perception[[??]] itself. Likewise, Omniscience is also to be disproved.
+The argument is that if perception were not taken as the guiding principle in ascertaining the connotation of passages, one would have to literally identify the Sun and the sacrifical post on the authority of the text “ādityo yūpaḥ”, which is a eulogistic passage. But their identity is disproved by perception itself. Likewise, Omniscience is also to be disproved.
 
 </details>
 
