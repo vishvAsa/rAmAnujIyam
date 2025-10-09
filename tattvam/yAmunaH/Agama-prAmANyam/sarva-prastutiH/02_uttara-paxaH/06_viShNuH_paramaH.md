@@ -17,18 +17,15 @@ title = "०६ विष्णुः परमः"
 > 79\. OBJECTION. Granted that, as you have described it, there exists some Person who is endowed with natural omniscience, as it is known from the upaniṣads, yet, unless it is absolutely certain that this Person is indeed Hari, Pañcaratra will not be authoritative. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The doubt expressed here by the opponent is as to who, among the trinity—Brahmā, Viṣṇu and Śiva, is the Supreme Deity. 
+</details>
 
 <details><summary>मूलम्</summary>
 
 ननु विरचितनीत्या कश्चिदाम्नायमूर्द्धप्रमितसहजसर्वज्ञानवानस्तु नाम ।  
 स च हरिरिति यावन्नावगम्येत सम्यक् न खलु भवति तावत्पञ्चरात्रं प्रमाणम् ॥  
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-†The doubt expressed here by the opponent is as to who, among the trinity—Brahmā, Visnu and Siva, is the Supreme Deity. 
-
-§ The following is a brief exposition of the Supremacy of Nārāyaṇa. The Purusanirnaya of Yamuna, solely devoted to this question is yet to be traced. 
 </details>
 
 ## श्रुतिः
@@ -47,6 +44,10 @@ title = "०६ विष्णुः परमः"
 REFUTATION. This is a worthless remark; no experts in the Veda dispute that the Supreme Soul, cause of the entire universe, is Vāsudeva. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The following is a brief exposition of the Supremacy of Nārāyaṇa. The Puruṣanirṇaya of Yāmuna, solely devoted to this question is yet to be traced out and as such, the importance of this part of the text need not be overemphasised. It indicates the way at least, in which the author had dealt with this question in the work.
+</details>
 
 <details><summary>मूलम्</summary>
 
