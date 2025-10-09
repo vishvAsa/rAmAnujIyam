@@ -458,7 +458,7 @@ Words convey their sense only in connection with such other idea or factor that 
 <details><summary>मूलम्</summary>
 
 > अवश्याश्रयणीयेयम् अन्वितार्थाभिधायिता।  
-> कार्यान्विताभिधायित्वम् अन्यथा दुर्-वचं यतः॥
+> कार्यान्विताभिधायित्वम् अन्यथा दुर्-वचं(दुर्वदं) यतः॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
