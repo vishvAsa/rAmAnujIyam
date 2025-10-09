@@ -848,6 +848,10 @@ and acquires this power on account of the collocation of words describing this f
 <details><summary>नरसिंहः</summary>
 
 'फल-पदं' फल-वाचकं स्वर्ग-कामादि-पदम् । तत्-साधन-भावः स्वर्ग-साधनत्वं अपूर्वस्येत्य् अर्थः । धात्व्-अर्थोतीर्णं, धात्व्-अर्थातिरिक्तम् । 
+
+वेदे ... ‘फल-पद...शक्तिः’ इत्य् अयं बहु-व्रीहिः । ‘शब्द’ इत्य् अस्य विशेषणम् ।
+
+मोदते ... वेदे निर्वृत्त इति भावः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -870,21 +874,20 @@ since there verbal exchange is possible also to the unsophisticated,
 this determination of the nature of word and meaning is not attended to.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘क्रिया-कार्ये शक्तिर् लोके ऽप्य् अस्ती’ति भ्रान्तः पुरुष इति भावः ।
+
+Cf. Prakaraṇapañcikā V. P.95:
+
+> कथं तर्हि लौकिक-वाक्येभ्यो व्यवहार-प्रवृत्तिः ? उच्यते — अर्थ-संशयेनापि लोको व्यवहरति । सन्दिग्धायाम् अपि वृष्टौ वृष्ट्य्-आयत्त-फले कर्मणि प्रवर्तेन्ते ।
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 लोके तु सं-मुग्धेनापि[1] व्यवहारोपपत्तेर् न शब्दार्थ-तत्त्वावधारणम् आद्रियते इति ।
 (सममुग्धेनेति पा.)
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-मुग्धेन - +'क्रिया-कार्ये शक्तिके ऽप्यस्ती'ति भ्रान्तः पुरुष इति भावः ।  
-Cf. Prakaranapañcikā V. p. 95: 
-
-> " कथं तर्हि लौकिकवाक्येभ्यो व्यवहारप्रवृत्तिः ?  
-उच्यते - अर्ध-संशयेनापि लोको व्यवहरति ।  
-सन्दिग्धायाम् अपि वृष्टौ  
-वृष्ट्य्-आयत्त-फले कर्मणि प्रवर्तन्ते । "
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -924,16 +927,17 @@ since that would mean over-extension.
 [140]: sthāyi; the Prābhākara view is that the kārya has a lasting efficacy beyond the inevitably transient action it involves; for the kārya must remain in order to effect the fruit of the action at any time after the completion of the action. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+व्युत्पन्नः ... शब्द इति शेषः । 
+
+अतिप्रसङ्गात् ... घट-ज्ञानात् पट-ज्ञानम् अपि भवेद् इत्य् आपत्तिः । 
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 न हि क्रिया-कार्ये व्युत्पन्न(ः) स्थायि-कार्यं प्रतिपादयति अति-प्रसङ्गात् । 
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-* शब्द इति शेषः । 
-+ घटज्ञानात् पटज्ञानमपि भवेदित्यापत्तिः । 
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -951,14 +955,14 @@ takes place in accordance with these words,
 then we can never know their connection!  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अन्वयावगतिः ‘स्वर्ग-काम’ पदस्येति शेषः ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदि वृद्ध-व्यवहारे समधिगत-पद-सामर्थ्ये ऽनुरुध्यमाने ऽन्वयावगतिर् नोपपद्यते, मोपपादि। 
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-६ अन्वयावगतिः 'स्वर्गकाम'पदस्येति शेषः । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1011,14 +1015,14 @@ In such cases we surely must assume lakṣaṇā.141
 For when certain words are collocated that have incompatible meanings, these words do not therefore denote something else altogether, for then all word meanings would become unreliable.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'सिंहो माणवकः', 'अग्निर् माणवकः' इत्य्-आदि-प्रयोगेषु । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 न हि विरुद्धार्थ-पद-समभिव्याहारे पदानाम् अभिधानम् एवान्यथा नीयते, सर्व-शब्दार्थेष्व् अनाश्वास-प्रसङ्गात् ।
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-'सिंहो माणवकः', 'अग्निर्माणवकः' इत्यादिप्रयोगेषु । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1034,18 +1038,17 @@ For when certain words are collocated that have incompatible meanings, these wor
 67\. Besides, we do not admit that the fact that a word has the power to communicate a kārya that is not previously known through other means of knowledge proves that there actually exists a relationship between itself and the fruit of the action it enjoins. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+मानान्तरापूर्वं = प्रमाणान्तरेणाज्ञातं अपूर्वम्; तद्-रूपं कार्यम् इत्य् अन्वयः । 
+
+न कर्मफल ... कर्मणो यागादेः, फलेन स्वर्गादिना सम्बन्धः । तत्-सिध्य्-अर्थं मानान्तराज्ञातस्य कार्यस्य बोधकता पदानां नाभ्युपेया । अपूर्वस्य लिङर्थत्वं वर्तत इति प्राभाकरः; नास्तीति भाट्टो ग्रन्थकारश् चेति बोध्यम् । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 किं च मानान्तरापूर्व-कार्य-बोधन-शक्तता ।  
 न कर्म-फल-सम्बन्ध-सिद्ध्यै तावद् उपेयते ॥
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-मानान्तरापूर्वं = प्रमाणान्तरेणाज्ञातं अपूर्वम्; तद्रूपं कार्यमित्यन्वयः ।  
--ः कर्मणो यागादेः, फलेन स्वर्गादिना सम्बन्धः । तत्-सिध्य्-अर्थं मानान्तराज्ञातस्य कार्यस्य बोधकता पदानां नाभ्युपेया ।  
-अपूर्वस्य लिङर्थत्वं वर्तत इति प्राभाकरः;  
-नास्तीति भाट्टो ग्रन्थकारश्चेति बोध्यम् । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1066,19 +1069,18 @@ which transcends the root-sense of the verb
 cannot be proved except by the relation of kārya with the fruit of the act, and the latter relation cannot be proved without the former. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'धात्व्-अर्थ'-पदेन यागादिर् उच्यते । धात्व्-अर्थोत्तीर्ण-कार्यात्मा सम्बन्धः । 
+
+तस्मादृते ... 'स च' कर्म-फल-सङ्गमः । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 नैयोगिकस् स सम्बन्धो न पुनर् वैनियोगिकः ।  
 धात्वर्थोत्तीर्ण-कार्यात्मा न कर्म-फल-सङ्गमात् ॥  
 ऋते सिध्यति सम्बन्धस् स च तस्माद् ऋते न हि ।  
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-'धात्वर्थ'पदेन यागादिरुच्यते ।  
-धात्वर्थोत्तीर्णकार्यात्मा सम्बन्धः । 
-
-'स च' कर्मफलसङ्गमः । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1091,21 +1093,16 @@ cannot be proved except by the relation of kārya with the fruit of the act, and
 And therefore there is a vicious interdependence that cannot be refuted. 
 </details>
 
-<details><summary>मूलम्</summary>
-
-ततश् च दुरुत्तरम् इतरेतराश्रयणम् ।
-</details>
 
 <details><summary>नरसिंहः</summary>
 
-+ स्वर्गकामरूपनियोज्यस्य क्रियासम्बन्धज्ञानम् ;  
-तेन स्वर्गयागयोः सम्बन्धज्ञानम् ;  
-तद्-अन्यथानुपपत्त्याऽपूर्व-कल्पनम् ;  
-ततस् तस्य लिङ्-वाच्यत्व-कल्पनम्  
-वाच्येऽपूर्वे यागस्य स्वर्गकामस्य चान्वयकल्पनम् ;  
-एवं 'स्वर्गकामीयं याग-सम्बन्ध्य् अपूर्वम्' इति ज्ञाने  
-तद्-अनन्तरम् एव स्वर्ग-याग-सम्बन्ध-कल्पनम्  
-इति अन्योन्याश्रयणप्रकारः समनुसन्धेयः ।
+स्वर्ग-काम-रूप-नियोज्यस्य क्रिया-सम्बन्ध-ज्ञानम्; तेन स्वर्ग-यागयोः सम्बन्ध-ज्ञानम्; तद्-अन्यथानुपपत्त्या ऽपूर्व-कल्पनम्; ततस् तस्य लिङ्-वाच्यत्व-कल्पनम्; वाच्ये ऽपूर्वे यागस्य स्वर्ग-कामस्य चान्वय-कल्पनम्; एवं, स्वर्ग-कामीयं याग-सम्बन्ध्य् अपूर्वम्' इति ज्ञाते तद्-अनन्तरम् एव स्वर्ग-याग-सम्बन्ध-कल्पनम्  
+इति अन्योन्याश्रयण-प्रकारः समनुसन्धेयः ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततश् च दुरुत्तरम् इतरेतराश्रयणम् ।
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1170,15 +1167,15 @@ A person is not specified by heaven as the object to be achieved,143 but it is t
 [143]: Cf. Prakaraṇapañcikā p. 182.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'ज्योतिष्टोमेन स्वर्ग-कामो यजेते'त्य् अत्र । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 तद् असन् न हि साध्येन स्वर्गेणायं विशेष्यते ।  
 स्वर्गं कामयमानो हि पुरुषो ऽत्र नियुज्यते ॥
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-'ज्योतिष्टोमेन स्वर्गकामो यजेते'त्यत्र । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1209,22 +1206,18 @@ Heaven can not be the specification of the person's qualification, because heave
 Only something that has already been achieved, that actually exists, can specify the person upon whom an act is enjoined, for instance, the real fact of his being alive etc. Consequently only his desire can specify his qualification for the act.
 </details>
 
+
+<details><summary>नरसिंहः</summary>
+
+'नियोज्यः' पुरुषः 'स्वर्ग-काम'-पदाभिहितः । 
+
+जीवनादि ... 'यावज् जीवम् अग्नि-होत्रं जुहोति', 'यावज् जीवं दर्श-पूर्णमासाभ्यां यजेत' (see Śābarabhāsya under II iv I ) इत्य्-आदिषु नित्य-विधिषु जीवनादिकं सिद्धम् एव हि पुरुषस्य विशेषणं दृश्यते, न तु साध्यम् । एवं प्रकृते ऽपीति विभाव्यम् । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 सिद्धमेव हि सर्वस्य नियोज्यस्य विशेषणम् ।  
 जीवनादि तथैवेह कामनैव विशेषणम् ॥
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-' नियोज्यः पुरुषः 'स्वर्गकाम'पदाभिहितः ।  
-
-'यावज्-जीवम् अग्निहोत्रं जुहोति',  
-'यावज्-जीवं दर्श-पूर्णमासाभ्यां यजेत'  
-(see Sābarabhāsya under II iv I )  
-इत्यादिषु नित्यविधिषु  
-जीवनादिकं सिद्धमेव हि पुरुषस्य विशेषणं दृश्यते,  
-न तु साध्यम् । एवं प्रकृते ऽपि विभाव्यम् । 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1286,57 +1279,23 @@ since it cannot become siddha in the meantime.144
 The only authority that exists for heaven becoming siddha in the end is the injunction itself, while the only authority for the injunction is just this that heaven does become siddha. This is plainly a vicious circle. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'Niyoga' is another name coined by Prabhakara to denote Apūrva. See Karmamīmāṁsā, pp. 74-75: 
+
+Mīmāṁsā does not believe in any God that receives the offerings from the votaries and rewards them accordingly.
+
+> There must, therefore, be a capacity, which does not exist prior to the sacrificial action, either in the principal performance or in the agent, but which is generated in the course of the performance. Before a man performs a sacrifice, which will lead to heaven, there is an incapacity in the offering and in the man himself to secure that result, but when he has performed it, he becomes, as a result of the action, endowed with a potency, styled 'apūrva', which in the course of time, will secure for him the end desired. The existence of this potency is testified to in the scriptures; its necessity is apparent by the means of proof known as Presumption (arthāpatti). We find in the Veda, assertions that sacrifices produce certain results, and, as the operation of the sacrifice, as we see it, is transient, the truth of the scripture would be vitiated if we did not accept the theory of Apūrva. Nor is there anything illogical in this doctrine; every action sets in force activities in substances or agents, and these come to fruition when the necessary auxiliaries are present. The action specified is called into existence by the injunction contained in the form of an optative in a sentence in the Veda.  
+
+> From this doctrine, Prabhākara dissents, elaborating instead, a theory which is obviously a refinement on the simple view which Kumārila accepts from the older writers of the school and which best suits the Mīmāṃsā Sūtras. In his opinion, the injunction rests in the sentence as a whole, not in the optative verb, and he denies that from the action there arises directly the Apūrva. On the contrary the process is that the injunctive sentence lays down A Mandate, Niyoga; this excites the man to exertion, and this exertion pertains to some form of action, indicated by the verb of the injunctive sentence. The exertion produces in the agent a result (kārya) to which also the name of Niyoga is given by Prabhākara, on the ground that it is this which acts as an Incentive to the agent to put forth exertion towards the performance of the action denoted by the verb of the injunctive clause. The Niyoga, however, is unable to produce its result, unless aided by something which Śālikanātha styles 'fate', nor is it apparent that either in his terminology, or in his view of the process, Prabhākara's doctrine is any superior to that of Kumārila. It seems as if primarily it arose from nothing more important than the observation that The result produced in the agent was in one sense his motive to action as much as the sentence directing the action to be done, leading to a transfer of the term Niyoga, naturally applicable to the sentence, to the condition in the agent to which the more orthodox name of Apūrva was usually applied.
+
+> In simple sacrifices, there is only one Apūrva produced, but in more complicated sacrifices, there may be several, as a rule, four.... But it is not every action which brings out an Apūrva; these actions, which are devoted simply to some material result, though a part of the sacrifice, such as the appointment of priests or the threshing of corn are not credited with any such effect, as they serve an immediate purpose and need no further explanation.
+</details>
+
 <details><summary>मूलम्</summary>
 
 सिद्धि-पर्यन्तता तस्य नियोगैक-प्रमाणिका ॥
 नियोगस् तत्-प्रमाणश् चेत्य् अन्योन्याश्रयणं ध्रुवम् ।  
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-** 'Niyoga' is another name coined by Prabhakara to denote Apurva. See Karmamimāṁsā, pp. 74-75-  
-
-> Mīmāmsā does not believe in any God that receives the offerings from the votaries and rewards them accordingly.  
->
-> > "There must, therefore, be a capacity,  
-which does not exist prior to the sacrificial action,  
-either in the principal performance or in the agent,  
-but which is generated in the course of the performance.  
-Before a man performs a sacrifice, which will lead to heaven,  
-there is an incapacity in the offering and in the man himself to secure that result,  
-but when he has performed it, he becomes, as a result of the action, endowed with a potency, styled 'apūrva', which in the course of time, will secure for him the end desired.  
-The existence of this potency is testified to in the scriptures;  
-its necessity is apparent by the means of proof known as Presumption (arthāpatti).  
-We find in the Veda, assertions that sacrifices produce certain results,  
-and, as the operation of the sacrifice, as we see it, is transient, the truth of the scripture would be vitiated if we did not accept the theory of Apūrva.  
-Nor is there anything illogical in this doctrine;  
-every action sets in force activities in substances or agents,  
-and these come to fruition when the necessary auxiliaries are present.  
-The action specified is called into existence by the injunction contained in the form of an optative in a sentence in the Veda.  
->
-> From this doctrine, Prabhakara dissents, elaborating instead, a theory which is obviously a refinement on the simple view which Kumārila accepts from the older writers of the school  
-and which best suits the Mimämsä Sūtras.  
-In his opinion, the injunction rests in the sentence as a whole, not in the optative verb,  
-and he denies that from the action there arises directly the Apurva.  
-On the contrary the process is that the injunctive sentence lays down A Mandate, Niyoga;  
-this excites the man to exertion,  
-and this exertion pertains to some form of action, indicated by the verb of the injunctive sentence.  
-The exertion produces in the agent a result (karya) to which also the name of Niyoga is given by Prabhakara,  
-on the ground that it is this which acts as an Incentive to the agent to put forth exertion towards the performance of the action denoted by the verb of the injunctive clause.  
-The Niyoga, however, is unable to produce its result,  
-unless aided by something which Śālikanatha styles fate,  
->
-> nor is it apparent that either in his terminology, or in his view of the process,  
-Prabhakara's doctrine is any superior to that of Kumārila.  
-It seems as if primarily it arose from nothing more important  
-than the observation that The result produced in the agent was in one sense his motive to action  
-as much As the sentence directing the action to be done,  
-leading to a transfer of the term Niyoga, naturally applicable to the sentence,  
-to the condition in the agent to which the more orthodox name of Apurva was usually applied. "   
->
-> " In simple sacrifices, there is only one Apūrva produced, but in more complicated sacrifices, there may be several, as a rule, four....  
-But it is not every action which brings out an Apurva;  
-these actions, which are devoted simply to some material result, though a part of the sacrifice, such as the appointment of priests or the threshing of corn are not credited with any such effect, as they serve an immediate purpose and need no further explanation".
 </details>
 
 ### साध्य-द्वयापत्तिः
