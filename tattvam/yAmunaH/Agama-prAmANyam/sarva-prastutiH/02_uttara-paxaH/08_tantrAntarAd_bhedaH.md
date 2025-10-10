@@ -80,6 +80,10 @@ the view that these Tantras are based on Perception or Scripture is sublated.
 For there are four kinds of followers of the way of life set forth in those Tantras, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The followers of the Māheśvara Doctrine are fourfold : Śaivas, Pāśupatas, Kāpālikas and Kāruṇikasiddhāntins, according to Vācaspati and Ānandagiri. Yāmuna calls the fourth group, Kālāmukhas. Rāmānuja follows Yāmuna in calling them so. The term Māheśvara is a name common for the followers of all these sects.
+</details>
 
 <details><summary>मूलम्</summary>
 

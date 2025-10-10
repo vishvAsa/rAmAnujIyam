@@ -77,6 +77,18 @@ For He is revealed in the upaniṣads as the Supreme Soul: "Truth, knowledge, in
 [162a]: Nrsiṃhapūrvatāpani Up. 2.4 (which reads purastād for parastād) and śvet Up. 3.9.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+वेदान्तेष्वात्मा ... Mahānārāyaṇa : XI. 4
+
+सत्यं ... Taittirīya : II-i-1.
+
+तद्विष्णोः ... Yajurveda : VI-5; also Kaṭhopaniṣat : III-9.
+
+परा ... To be traced out.
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 श्रूयते हि स वेदान्तेष्वात्मा नारायणः परः ।  
@@ -112,6 +124,16 @@ Therefore Viṣṇu's perfect knowledge is established by the upaniṣads.
 162: Nṛsiṃhapūrvatāpanī Up. 2\.4 (which reads purastāt for parastāt) and Śvet Up. 3\.9\.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+एकः ... This appears in the Āyuṣyasūkta, beginning with “यो ब्रह्मा ब्रह्मण उज्जहार”. The reading found is “एकः पुरस्ताद् य इदं बभूव”. It appears on folio 15 b of palm-leaf ms. in Grantha, under R. No. 657, deposited in the Govt. Or. Mss. Library, Madras, and also on folio 42 a of another p.l. ms. in Grantha, R. No. 67 from the same library.
+
+यस्मात्परं ... Śvetāśvatara : III-9;
+
+यतो ... Taittirīya : III-i-1;
+
+सदेव ... Chāndogya : VI-ii-1.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -134,6 +156,10 @@ Therefore Viṣṇu's perfect knowledge is established by the upaniṣads.
 And it is not declared in śruti that the origination, subsistence and destruction of the world are caused by anyone but Him. Hence there is a consensus that He is the supreme omniscient soul. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Brahmasūtra I-i-2 : “जन्माद्यस्य यतः” ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -176,6 +202,10 @@ Thus -
 > "Know thou, O tormentor of thy foes, that the entire world rests on Viṣṇu. The Great Viṣṇu creates the totality of creatures, moving and unmoving. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Mahābhārata (Cr. edn.) XII. 271. 7-8. Variant : महा-बाहो for महा-विष्णुः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -217,6 +247,10 @@ Thus -
 163: not identified.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid. XII. 271. 19. Variant : हरिः for मुनिः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -236,6 +270,11 @@ Thus -
 That He is the Supreme Brahman is also learnt elsewhere. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid. XII. 280. 26 b. Variant परमो for परं ।
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -261,6 +300,10 @@ That He is the Supreme Brahman is also learnt elsewhere.
 [163]: not identified.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid. XII. 200.5. Variants : प्रभुः for परः; इत्य् एव for इत्य् एतत्; विभुः for श्रुतौ ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -292,6 +335,10 @@ That He is the Supreme Brahman is also learnt elsewhere.
 165: Could this refer to Varāha Purāṇa Cf. infra. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid. XII. 335. 83b-84a.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -318,6 +365,10 @@ Likewise in the Dānadharma,
 > "Padmanābha is the Supreme Soul, the highest One, the pure One, the Refuge. This is the secret doctrine of the Veda; dost thou not know, sacker of cities? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -382,6 +433,15 @@ Thus Rudra's word.165 Similarly, in the Mahābhārata and Matsya Purāṇa,
 > "He who amongst them is the Supreme Soul, He indeed is the eternal, unqualified, perfect One; He is to be known as Nārāyaṇa, for He is the world-soul, the Spirit." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Mahābhārata XII. 339. 14. Variants: नित्यं for नित्यो; हि for वै ।
+
+Cf. also ibid. XIII. App. 13, lines 20-21:
+
+> आलोड्य सर्व-शास्त्राणि विचार्य च पुनः पुनः ।  
+इदम् एकं सुनिष्पन्नं ध्येयो नारायणः सदा ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -410,6 +470,10 @@ Likewise in the Varāha Purāṇa,
 "Who, excepting the Lord Nārāyaṇa, is superior to the God whose conduct has become the life-order on the earth?" 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be traced out.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -437,6 +501,10 @@ Likewise in the Varāha Purāṇa,
 "There has been no God greater than Nārāyaṇa, nor shall there be; this is the secret doctrine of the Vedas and the Purāṇas, O excellent ones."
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ch. 73. śl. 52.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -464,6 +532,13 @@ Likewise in the Liṅga Purāṇa,
 from Him Rudra and from Him all the world." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Liṅgapurāṇa: uttarabhāga: Ch. I. śl. 7b-8a. There the reading is:
+
+> य एकः पुरुष-श्रेष्ठः परमात्मा जनार्दनः ।  
+यस्माद् ब्रह्मा ततस् सर्वं समाश्रित्यैव मुच्यते ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -494,6 +569,10 @@ He is the maker of its subsistence and its destruction."166
 [166]: viṣṇu Pur., 1.1.31.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Viṣṇupurāṇa: I. 1. 35. The remainder of the śloka is: ‘जगतो ऽस्य जगच् च सः’
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -521,6 +600,10 @@ Likewise in the Mānavadharmaśāstra,167
 [167]: Not in manusmṛti.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This verse is not found in the Manusmṛti commented by Bhaṭṭa Medhātithi. It is however, found inserted between the 10th and 11th verses of the first chapter in the Manvarthamuktāvalī with Kullūka's commentary [ Kāśī Skt. Series, 1935 ]. Kullūka too did not comment upon it.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -570,6 +653,10 @@ Therefore, the study of these and similar śrutis, smṛtis, epical texts and Pu
 [168]: A little known Vedic branch (if it was a Vedic tradition), from which certain vaiṣṇava sects derive their authority; cf. infra §138.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The Pāñcarātrins are the followers of the Ekāyanaśākhā, one of the redactions of the Śukla Yajurveda.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -597,6 +684,10 @@ that is the greatest in all the worlds,"
 169: These quotations could not be identified.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Maitrīyopaniṣat V. 2.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -613,6 +704,11 @@ that is the greatest in all the worlds,"
 <details><summary>Buitenen</summary>
 
 "that indeed is the oldest in the worlds." 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Ṛgveda X. 120. i.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -645,6 +741,11 @@ Similarly, Rudra's position is clearly known to be a result of his karman: "He o
 "अस्य देवस्ये"ति,  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid. VII. 40. 5.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अस्य देवस्ये"ति,  
@@ -667,6 +768,10 @@ These and other śrutis declare that Rudra was born.
 [169]: These quotations could not be identified.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Subālopaniṣat II. 1: “ललाटात् क्रोध-जो रुद्रो जायते ।”
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -691,6 +796,11 @@ This being so, the statements that in appearance convey the greatness of Rudra a
 [[67]]
 
 [170]: BA Up 4.1.5.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Bṛhadāraṇyaka IV. i. 5: “श्रोत्रं वै ब्रह्म” ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -748,6 +858,12 @@ since their greatness is set forth only in non-Vedic Tantric texts,
 we say that Viṣṇu is stated to be the Supreme One in the texts of the Way of the Vedic doctrine. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This line occurs below. It is from the Bhaviṣya Purāṇa, to be identified.
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 वेद-सिद्धान्त-मार्गेषु विष्णुर् एव परः स्मृतः ।  
@@ -770,6 +886,10 @@ For example in the Viṣṇu Purāṇa, "The Supreme Soul, the Basis of all crea
 [171]: viṣṇu Pur. 6.4.40.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Viṣṇupurāṇa VI. iv. 39.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -796,6 +916,10 @@ In the Varāha Purāṇa, "The Supreme Brahman is Viṣṇu; the triple division
 [172]: cf. Varāha Pur., 72.4, which reads padyate in b. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Varāhapurāṇa [Sri Venkatesvara Press, Bombay], Ch. 72. śl. 4.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -826,6 +950,14 @@ In the Varāha Purāṇa, "The Supreme Brahman is Viṣṇu; the triple division
 [173]: cf. Varāha Pur. 70.26 na tasmāt parato devo bhavitā na bhaviṣyati. It is clear from several quotations from this Purāṇa that Yāmuna's text had different readings, not all of them better.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ch. 73, śl. 52.
+
+Also cf. ibid. Ch. 70, śl. 26a:
+
+> न तस्मात् परतो देवो भविता न भविष्यति।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -853,6 +985,10 @@ Likewise in the Matsya Purāṇa, "In those aeons where sattva prevails, the gre
 [174]: Matsya Pur. 290.15.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Matsya Purāṇa Ch. 53, śl. 67b-68a.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -886,6 +1022,10 @@ Likewise in the Liṅga Purāṇa,
 175: The Liṅga, Vāyu and Bhaviṣyat quotations could not be verified.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Liṅga Purāṇa [ Pūrva ] Ch. 24, śl. 143.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -915,6 +1055,10 @@ Likewise in the Vāyu Purāṇa,
 "The Spirit that belongs to the Way of the Veda is explained to be the thousand-armed supreme lord of creatures." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Passages to be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -967,6 +1111,11 @@ All this has already been explained in great detail in the Puruṣanirṇaya176 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वं चैतत् पुरुष-निर्णये निपुणतरम् उपपादितम् इति नेह प्रपञ्च्यते ।
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Puruṣanirṇaya is another work of Yāmuna, which is yet to be recovered.
 </details>
 
 <details><summary>मूलम्</summary>
