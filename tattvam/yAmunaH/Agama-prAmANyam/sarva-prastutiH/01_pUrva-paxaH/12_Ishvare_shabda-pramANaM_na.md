@@ -972,7 +972,7 @@ The Mīmāṁsakas do not accept the existence of any deity that receives the of
 
 Cf. Prakaraṇapañcikā V, P.94:  
 
-brahmasvarūpāṁ ca pramāṇāntarasiddhamevāśrayaṇīyam; brahmaśabdasya ca loke pramāṇāntarasiddhātmavācitvena siddheḥ vede'pi sa evārthaḥ; tathā ca sati nityaprakāśaparamānandādirūpavidhiḥ sakalapratipattiviruddhaḥ; sarvapratipattiṣu hi pramāṇasmṛtibhūtāsvātmā prakāśate; na ca tatra paramānandaḥ saṁvedyate; na ca sāṁsārikaduḥkhābhibhūtatvāt tasyāprakāśaḥ, abhibhavānupapatteḥ; avacchinnaṁ hi duḥkham anavacchinnānanda iti nālpīyasā mahataḥ[[??]] abhibhavaḥ saṁbhavati; svaprakāśasya ca abhibhavāvaraṇānabhivyaktīnām asambhava eva;... sakalavikāraśūnyatāpi vijñānādivikārotpatteḥ pramāṇāntaraviruddhaiveti parasparānvayāyogyatayā nānandādiparatvaṁ; ajarāmaratvayostu[[??]] pramāṇāntaraprasiddhereva anuvādatvāt aprāmāṇyam iti.
+brahmasvarūpāṁ ca pramāṇāntarasiddhamevāśrayaṇīyam; brahmaśabdasya ca loke pramāṇāntarasiddhātmavācitvena siddheḥ vede'pi sa evārthaḥ; tathā ca sati nityaprakāśaparamānandādirūpavidhiḥ sakalapratipattiviruddhaḥ; sarvapratipattiṣu hi pramāṇasmṛtibhūtāsvātmā prakāśate; na ca tatra paramānandaḥ saṁvedyate; na ca sāṁsārikaduḥkhābhibhūtatvāt tasyāprakāśaḥ, abhibhavānupapatteḥ; avacchinnaṁ hi duḥkham anavacchinnānanda iti nālpīyasā mahataḥ abhibhavaḥ saṁbhavati; svaprakāśasya ca abhibhavāvaraṇānabhivyaktīnām[[??]] asambhava eva;... sakalavikāraśūnyatāpi vijñānādivikārotpatteḥ pramāṇāntaraviruddhaiveti parasparānvayāyogyatayā nānandādiparatvaṁ; ajarāmaratvayostu pramāṇāntaraprasiddhereva anuvādatvāt aprāmāṇyam iti.
 </details>
 
 <details><summary>मूलम्</summary>
