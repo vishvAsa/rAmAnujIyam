@@ -681,6 +681,12 @@ As they say," merely by entering Consecration one becomes instantly a Brahmin.
 A man becomes an ascetic by accepting the Kāpālika vow." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+
+Every school of thought stresses the importance of its own dīkṣā-ceremony. See Śaivasiddhānta, P.47.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -747,6 +753,14 @@ this latter ground is sufficient to prove the lack of authority of these texts
 and entails no overextension to other texts. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See the verse “vāsudevābhidhānena” etc. on P.52 above for the pūrvapakṣa-view.
+
+Cf. Tantraśuddha, P.17:
+
+> यतः केनचिद् अवक्तिनेन [[??]] क्षेत्र-ज्ञेन महेश्वर-समान-नाम्ना त्रयी-मार्ग-बहिष्कृतेयं प्रक्रिया विरचिता । तन् नाम नारायणं केचिद् व्याख्याय[[??]] महेश्वर-नामकोपदिष्ट-मार्गम् अवलम्बितवन्तः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
