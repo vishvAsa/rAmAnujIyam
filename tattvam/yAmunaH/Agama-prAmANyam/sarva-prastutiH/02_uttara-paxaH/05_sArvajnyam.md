@@ -20,6 +20,16 @@ Hence we reject our opponent's position. [[61]]
 [153]: read ity asat for iti yat.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This line runs like a verse.
+
+Cf. Ślokavārtika under I. 1.2; śl. 111b:
+
+> यदि षड्भिः प्रमाणैस् स्यात् सर्व-ज्ञः, केन वार्यते ?
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 अत इदम् अपास्तम् -  
@@ -62,6 +72,16 @@ has neither effect nor instrument;"154
 [154]: Svet Up. 3.19.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+पश्यत्य् ... Śvetāśvatara : III. 19.
+
+यः ... Kenopaniṣat : I. 6a; but the reading found is:
+
+> यच् चक्षुषा न पश्यति, येन चक्षूँषि पश्यति ।
+
+न तस्य ... Śvetāśvatara*: VI. 8.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -196,6 +216,12 @@ we reply that this does not hold in our case since the object,
 that is the said Person, is actually apprehended through Scripture itself, which is the highest-ranking among the assembly of the means of knowledge. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This line too is metrical.
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 योग्य-अनुपलम्भाद् अभाव-निश्चय इति चेन् न प्रमाण-गोष्ठी-ज्येष्ठेन शास्त्रेणैवोपलम्भनात्, 
@@ -228,18 +254,15 @@ Nor does it militate against Inference;
 for how could an Inference which disproves that Person arise at all, slow-moving as it is, when its object is instantly refuted by the rapidly arising scriptural cognition? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+शब्द-प्रमाणापेक्षया अनुमानस्य दौर्बल्यम् एव । शाब्दं ज्ञानं शीघ्रतरम् । व्याप्ति-ज्ञानानन्तर-लब्ध-प्रतिष्ठस्यानुमानस्य मन्थर-प्रवृत्तिर् एवेति भावः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
 तद् धि शीघ्र-जन्मागमिक-प्रत्यय-प्रक्षिप्त-प्रतिबन्धं कथम् इव मन्थर-प्रवृत्ति प्रादुर्भवति ।
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-+ शब्दप्रमाणापेक्षया अनुमानस्य दौर्बल्यमेव । शाब्दं ज्ञानं शीघ्रतरम् । व्याप्तिज्ञानानन्तरलब्धप्रतिष्ठस्या- नुमानस्य मन्थरप्रवृत्तिरेवेति भावः । 
-</details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -276,6 +299,13 @@ Moreover, if this were so, the relation of sacrificing etc. to heaven, apūrva15
 True, the identity of sacrificial pole and sun, which is asserted by Scripture, is cancelled by another means of knowledge, namely Perception alone, because the difference between a piece of wood and the disc of the sun is indeed obvious. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See P.47 above for the Mīmāṁsaka's argument. The illustration of the arthavāda : “ādityo yūpaḥ” [Taittirīya Brāhmaṇa : II-i-5-2] was put forth there. This view is now being refuted.
+
+The figurative statement “ādityo yūpaḥ” is made on the ground of similarity of brightness (tejasvitva) between the Sun and the sacrificial post. The relevant sūtra is “sārūpyāt” [Pūrvamīmāṁsā : I. iv. 25].
+</details>
+
 <details><summary>मूलम्</summary>
 
 यूपादित्यादि-तादात्म्यं प्रत्यक्षेणैव बाधितम् ।  
@@ -297,20 +327,15 @@ Besides, in this case it is legitimate to assume metaphorical usage, for the sta
 [157]: supra note 86.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The ṛk to be repeated while anointing the yūpa with ghee is: "añjanti tvāmadhvare devayantaḥ" ( Taittirīya Brāhmaṇa - VI-ii. p. 142 ). For the derivation of the term yūpa, see ibid- VI-i, the opening part. 
+</details>
 
 <details><summary>मूलम्</summary>
 
 अपि च तत्र सन्निहित-यूपाञ्जन-विध्य्-एकवाक्यतया अर्थ-वादत्वाद् युक्तं गुण-वादत्वाश्रयणम्, 
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-f See p. 47 above for the Mimāmsaka's argument. The illustration of the arthavāda - "ādityo yūpah” [Taittiriya Brāhmana - II-i-5-2] was put forth there. This view is now being refuted. 
-The figurative statement "adityo yūpaḥ "is made on the ground of simi- larity of brightness ( tejasvitva) between the Sun and the sacrificial post. The relevant sūtra is " sārupyat " [ Pūrvamimāmsā - I. iv. 25 ]. 
-§ The rk to be repeated while anointing the yupa with ghee is- "añjanti tvāmadhvare devayantah " ( Taittiriya Brāhmana - VIii. p. 142 ). For the deri- vation of the term yūpa, see ibid- VI-i, the opening part. 
-
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -372,6 +397,10 @@ There is no other injunction to which it could be accessory as an arthavāda.157
 [158]: supra § 36.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -478,6 +507,16 @@ In the upaniṣadic texts the knowledge of brahman is declared to be rewarded by
 [160]: Taitt Up. 2.1.1. brahmavid āpnoti param.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+इह तु ... Note the way in which Yāmuna connects the previous discussion with the main theme, viz, the validity of the Pāñcarātra-texts, based upon the authorship of Nārāyaṇa, the Supreme and Omniscient Being.
+
+ब्रह्मवित् ... Cf. Muṇḍaka: III-ii-9: “ब्रह्मैव वेद ब्रह्मैव भवति” ।
+
+प्राप्नोति ... Cf. Taittirīya: II-i-1: “ब्रह्मविद् आप्नोति परम्” ।
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 इह तु ब्रह्म-विज्ञानं महानन्द-फलं श्रुतम् ॥  
@@ -505,6 +544,11 @@ the human importance of statements without injunctions is quite clear from these
 [161]: This must refer to Taitt Up. 2.1.1 so'śnute sarvān kāmān saha brahmaṇā vipaścitā, but sa sāmagaḥ is obscure, unless one may regard it as a corruption of vipaścitā.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. ibid: “सो ऽश्नुते सर्वान् कामान् सह ब्रह्मणा विपश्चिता” ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 "अश्नुते ब्रह्मणा सार्धं सर्वान् कामान् स सामगः" ॥  
@@ -524,33 +568,29 @@ the human importance of statements without injunctions is quite clear from these
 To sum up, when it is established that the Bhagavān is the treasury solely of beautiful qualities of direct universal cognition, compassionateness etc., qualities which are true and natural to Him, and which we know from hundreds of quoted śrutis, then it is also established that the Tantra which is based on His universal cognition is authoritative indeed.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Aniruddhasaṁhitā* : II. 7-8:
+
+> तथा सर्वेषु शास्त्रेषु पञ्च-रात्रं वरिष्ठकम् ।  
+श्रुति-मूलम् इदं तन्त्रं प्रमाणं कल्प-सूत्रवत् ॥  
+पञ्च-रात्रे विशेषेण विष्णुना भाषितं यथा ।  
+अतः प्रमाणं लोके ऽस्मिन् धर्म-शास्त्रेषु सर्वशः ॥
+
+Also cf. Viṣṇusaṁhitā : ch. II:
+
+> वेद-मूलतया तन्त्रम् आप्त-मूलतया ऽथवा ॥ [11b]  
+पुराणवत् प्रमाणं स्यात् तथा मन्व्-आदि-वाक्यवत्। [12a]
+
+> आप्त-प्रोक्ततया तन्त्रं प्रमाणम् इति ये विदुः ।  
+वेद-प्रामाण्यम् अप्य् आहुर् आप्त-मूलतयैव[[??]] ते ॥ [19]
+
+> विष्णोर् धर्म-प्रवक्तृत्वात् तत्-प्रोक्तं मनु-वाक्यवत् ।  
+ब्रह्म-विष्णू हि धर्माणां प्रवक्तारौ बुधैस् स्मृतौ ॥ [21]
+</details>
 
 <details><summary>मूलम्</summary>
 
 तद् एवम् उदीरित-श्रुति-शत-समधिगतावितथ-सहज-सर्व-साक्षात्काराकारुण्यादि-कल्याण-गुणैक-राशौ भगवति सिध्यति,  
 सिध्यत्य् एव तद्-अनुभव-मूलतया तन्त्र-प्रामाण्यम् । +++(4)+++
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-Note the way in which Yamuna connects the previous discussion with the main theme, viz, the validity of the Pāñcarātra-texts, based upon the author- ship of Narayana, the Supreme and Omniscient Being. 
-
-* Cf. Aniruddhasamhitā- II. 7-8- 
-
-> " तथा सर्वेषु शास्त्रेषु  
-पञ्चरात्रं वरिष्ठकम् ।  
-श्रुतिमूलमिदं तन्त्रं  
-प्रमाणं कल्पसूत्रवत् ॥  
-पञ्चरात्रं विशेषेण  
-विष्णुना भाषितं यथा ।  
-अतः प्रमाणं लोकेऽस्मिन्  
-धर्मशास्त्रेषु सर्वशः ॥ " 
-
-Also cf. Visnusamhitā - ch. II- 
-
-> " वेदमूलतया तन्त्रम्  
-आप्तमूलतयाऽथवा ॥ 
-पुराणवत्प्रमाणं स्यात्  
-तथा मन्वादिवाक्यवत् । " 
-</details>
-
