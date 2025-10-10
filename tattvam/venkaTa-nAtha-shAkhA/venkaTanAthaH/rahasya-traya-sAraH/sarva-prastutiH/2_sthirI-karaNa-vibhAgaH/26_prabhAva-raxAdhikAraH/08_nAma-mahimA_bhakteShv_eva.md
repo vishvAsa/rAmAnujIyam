@@ -796,6 +796,7 @@ El que siempre **odia** a Bhagavān
 भगवद्द्वेषियै सण्डाळऩाग वसऩम् सॊल्लिऱ्ऱॆऩ्गिऱार् यः पुत्र इत्यादिना ।  
 </details>
 
+### पूर्व-सुकृततस् सद्गतिः
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -857,7 +858,6 @@ y nosotros (Nārada y otros) por devoción ".
 
 
 
-### पूर्व-सुकृततस् सद्गतिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
