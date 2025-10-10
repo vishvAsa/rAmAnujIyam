@@ -308,6 +308,10 @@ and who concentrates on the soul Vasudeva as the cause of the entire Universe:
 there is no other path to tread etc." (Svet Up. 3.8.) 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Taittirīya Āraṇyaka III. xiii. 1; also Śvetāśvatara VI. 15.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -401,6 +405,19 @@ and their overlord is Siva, the Lord of Cattle.
 To assist the souls Siva has composed the Paficādhyāyi. ("The Doctrine of the Five Chapters.")
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+जीवाः ... Vide Pāśupatasūtra with Kauṇḍinya's commentary, I. 1, P.5:
+
+> पश्यनात् पाशनाच् च पशवः । तत्र पाशा नाम कार्य-कारणाख्याः कलाः ।
+
+Also see ibid:
+
+> साङ्ख्य-योगेन ये मुक्ताः, साङ्ख्य-योगेश्वराश् च ये ।  
+ब्रह्मादयस् तिर्यग्-अन्ताः सर्वे ते पशवः स्मृताः ॥
+
+पञ्चाध्यायीम् ... This Pañcādhyāyī* is, in all probability, same as the Pāśupatasūtra, referred to above. This work is in five chapters, dealing with the five characteristics of this cult, viz., Kāraṇa, Kārya, Vidhi, Yoga and Duḥkhānta, which also go by the name Pañcapadārthas or Pañcārthas.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -422,6 +439,29 @@ To assist the souls Siva has composed the Paficādhyāyi. ("The Doctrine of the 
 
 There the five Categories are explained, namely,  
 Cause, Effect, Injunction, Yoga and the Cessation of Misery. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. Kauṇḍinya's commentary on the Pāśupatasūtra : I-i, P.6:
+
+> एवं सदुःखान्तं[[??]] कार्यं कारणं योगो विधिर् इति पञ्चैव पदार्थाः समासत उद्दिष्टाः ।
+
+Vide Indian Philosophy, Vol. I, P.489:
+
+> The five categories are:
+
+> 1.  Kāraṇa or Cause: The Cause is the Lord, the Pati, the Eternal ruler, who creates, maintains and destroys the whole existence.
+
+> 2.  Kārya or Effect: It is what is dependent on the cause. It includes knowledge or vidyā, organs or kalā and individual souls or paśu. All knowledge and existence, the five elements and the five qualities, the five senses and the five organs of actions and the three internal organs of intelligence, egoism and mind are dependent on the Lord.
+
+> 3.  Yoga or Discipline: It is the mental process by which the individual soul gains God.
+
+> 4.  Vidhi or Rules: It relates to the practices that make for righteousness.
+
+> 5.  Duḥkhānta or the end of misery: It is final deliverance or destruction of misery and obtaining an elevation of spirit, with full powers of Knowledge and Action.
+
+For a more detailed explanation of these categories, see Liṅgādhāraṇacandrikā, pp.351-57.
 </details>
 
 <details><summary>मूलम्</summary>
