@@ -3,6 +3,11 @@ title = "०१ अनुमानलक्षणम् अनुमितिल
 
 +++
 
+<details><summary>वासुदेवः</summary>
+
+अथ द्वितीयो ऽवतारः । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
