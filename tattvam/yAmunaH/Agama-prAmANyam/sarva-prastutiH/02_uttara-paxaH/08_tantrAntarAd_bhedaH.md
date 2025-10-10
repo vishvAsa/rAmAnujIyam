@@ -520,18 +520,18 @@ Mahat - The highest material evolute.
 
 <details><summary>नरसिंहः</summary>
 
-Vide Indian Philosophy, Vol. I, p. 489: 
+गूढाचार ... Cf. Pāśupatasūtra : IV. 2 : ‘गूढवतः’; IV. 3 : ‘गूढ-पवित्र-पाणिः’; IV. 4: ‘सर्वाणि द्वाराणि पिधाय’; IV. 5 : ‘बुद्ध्या’।
 
-> “The five categories are :  
-> 1 Kāraṇa or Cause: The Cause is the Lord, the Pati, the Eternal ruler, who creates, maintains and destroys the whole existence.  
-> 2 Kārya or Effect: It is what is dependent on the cause. It includes knowledge or vidyā, organs or kalā and individual souls or paśu. All knowledge and existence, the five elements and the five qualities, the five senses and the five organs of actions and the three internal organs of intelligence, egoism and mind are dependent on the Lord.  
-> 3 Yoga or Discipline: It is the mental process by which the individual soul gains God.  
-> 4 Vidhi or Rules: It relates to the practices that make for righteousness.  
-> 5 Duḥkhānta or the end of misery: It is final deliverance or destruc-tion of misery and obtaining an elevation of spirit, with full powers of Knowledge and Action.” 
+स्मशान ... Ibid. V. 30 : ‘स्मशान-वासी’
 
-For a more detailed explanation of these categories, see Liṅgadhāraṇa-candrikā, pp. 351-57.
+भसित ... Ibid. I : 2, 3, 4 : ‘भस्मना त्रि-षवणं स्नायीत’, ‘भस्मनि शयीत’, ‘अनुस्नानम्’।
+
+हृदि ... Ibid. V. 23, 24 & 25 : ‘अतो योगः प्रवर्तेत’, ‘ओङ्कारम् अभिध्यायीत’, ‘हृदि कुर्वीत धारणम्’।
+
+दुःखान्तो ... Ibid. V. 40 :    
+
+> अप्रमादी गच्छेत् दुःखानाम् अन्तम् ईश-प्रसादात् ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -587,6 +587,10 @@ This conception of God is held by the Saivas as well as the others.
 And this view of God is entirely, incompatible with Scripture, for   
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This line is wanting in two syllables. Or, this may be taken as a prose passage.
+</details>
 
 <details><summary>मूलम्</summary>
 
