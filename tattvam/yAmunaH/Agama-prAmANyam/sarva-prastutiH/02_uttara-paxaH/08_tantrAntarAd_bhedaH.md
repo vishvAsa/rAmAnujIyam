@@ -105,6 +105,41 @@ the Kāpālikas, Kālamukhas, Pasupatas and Saivas.
 The Kapalika doctrine is described as follows: 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See M. R. Sakhare, Liṅgādhāraṇacandrikā, pp.331-332:
+
+> In the Vāyupurāṇa (ch. 23) and the Liṅgapurāṇa (ch. 24) it is said that Maheśvara told Brahmā that when Vāsudeva is born, he would incarnate himself as a Brahmacārin by the name of Lakulin and that Lakulin would have four pupils of names Kushika, Garga, Mitra and Kaurushya, these would be Pāśupatas. The refutation of the Pāśupata system is found in the Brahmasūtra: “patyurasāmañjasyāt” (II. ii. 37).
+
+> From all this it appears that the Pāśupata school was founded by Lakulīśa (the holder of lakula or lakuṭa — a club or staff). This Lakulīśa (also called Nakulīśa) is the last of the 28 incarnations of Śiva as mentioned by the Purāṇas. This has been confirmed by inscriptions too.
+
+The Kālāmukhas and Kāpālikas were two different sects of the Māheśvaras. Dr. Bhandarkar (in his Śaivism and Vaiṣṇavism, etc., P.183), identifies the Kālāmukhas with Mahāvratadharas on the authority of Śivapurāṇa but M. R. Sakhare, on the evidence of a Jain author, states that the Kāpālikas but not the Kālāmukhas were the same as Mahāvratadharas (pp.344 f.).
+
+The Kālāmukhas, according to T. A. Gopinatha Rao (Elements of Hindu Iconography, Vol. II, P.26), were so called as they marked their forehead with black streak and were said to be the offspring of “nara” and “rākṣasa” parents.
+
+> The Kāpālika system is very ancient since it is mentioned in the Maitrī Upaniṣad (‘atha ye cānye ha vṛthā kaṣāyakuṇḍalinaḥ kāpālinaḥ’)
+
+[Liṅgādhāraṇacandrikā, P.344].
+
+> The allegorical drama, Prabodhacandrodaya of Kṛṣṇamiśra (III. 12, 13) introduces a Kāpālika, who describes himself and his practices as follows:
+>
+> नरास्थि-माला-कृत-चारु-भूषणः  
+श्मशान-वासी नृ-कपाल-भोजनः ।  
+पश्यामि योगाञ्जन-शुद्ध-जक्षुषा  
+जगन् मिथो भिन्नम् अभिन्नम् ईश्वरात् ॥  
+मस्तिष्कान्त्र-वसभि-पूरित-महा-मांसाहुतीः जुह्वतां  
+वह्नौ ब्रह्म-कपाल-कल्पित-सुरा-पानेन नः पारणा ।  
+सद्यः-कृत्त-कठोर-कण्ठ-विगलत्-कीलाल-धारोज्ज्वलैः  
+अर्च्यो नः पुरुषोपहार-बलिभिर् देवो महा-भैरवः ॥
+
+[Ibid. P.345]
+
+Also vide Indian Philosophy by Dr. S. Radhakrishnan, Vol. I, P.488:
+
+> The Rudra of the Ṛgveda (I. 114.8), the personification of the destructive powers of nature, becomes in the Śatarudrīya, the Lord of Cattle, ‘paśūnāṁ patiḥ’. In the Brāhmaṇas, Śiva becomes the distinctive term for Rudra. The Pāśupata system continues the tradition of Rudra-Śiva. In the Mahābhārata, we find a theology named Pāśupata centring round Śiva [Śāntiparvan, ch. 149, v. 64]. We have an account of this system in Sarvadarśanasaṅgraha and Advaitānanda's Brahmavidyābharaṇa. Śaṅkara criticises this theology in his commentary (II. ii. 37-39).
+
+For a history and philosophy of these different schools of Śaivism from inscriptional data, see V. S. Pathak, History of Śaiva Cults in Northern India from Inscriptions, pp.4-28.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -133,6 +168,10 @@ not by knowing Brahman.
 External signs worn by Saiva sectarians.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Passages to be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
