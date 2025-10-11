@@ -41,6 +41,12 @@ but for God it is revealed in Scripture, e.g.,
 "From fear for Him..." (Aitareya Br.) 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+तस्याध्यक्ष ... To be traced out.
+
+भीषास्मादि ... Taittirīya Āraṇyaka : VIII. 8. 1a; also Taittirīyopaniṣat: II. 8. 1a.
+</details>
 
 <details><summary>मूलम्</summary>
 
