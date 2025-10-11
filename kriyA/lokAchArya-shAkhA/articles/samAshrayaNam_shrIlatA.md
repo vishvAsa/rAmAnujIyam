@@ -421,8 +421,24 @@ Having said this, he went to the shrine in his house. The initiate and her husba
 
 [^57]: On the authorship of the *Śaraṇāgatigadya* and its significance for Śrīvaiṣṇava ideology see Raman (2004).
 [^58]: *Stotraratna* V: 22: *na dharma-niṣṭho ’smi na cātmavedī na bhaktimāṃs tava caraṇāravinde | ākiñcanyo ’nanyagatiḥ śaraṇya tvatpādamūlaṃ śaraṇaṃ prapadye* ||
-[^59]: *Periyatirumoḻi* I: 9.7: *kaṟiyēyillai niṉṉaruḷallatu eṉakku | nitiyē tirunīrmalai nittilattoṯṯē | paṟiyē paravittoḻum toṇṭar tamakkuk kaṟiyē uṉṉaikkaṇṭukoṇṭu uyntoliṉtēṉē*.
-[^60]: *Tiruvāymoḻi* VI: 10.10: *akalakillēṉ iṟaiyum eṉṟu alarmēlmaṅkai uṟaimārpā | nikaril pukalāy ulakammūṉṟuṭayāy eṉṉaiyāḻvāṉē | nikarilamararmuṉikaṇaṅkaḷ virumpum tiruvēṅkaṭattāṉē | pukoṉṟillā aṭiyēṉ uṉ aṭikīḻ amarntu pukuntēṉē*.
+
+[^59]: *Periyatirumoḻi* ७: १.७:~~ 
+
+    गतिये लिल्लैनिऩ् ऩरुळल् लदॆऩक्कु,  
+    निदिये। तिरुनीर् मलैनित् तिलत्तॊत्ते,  
+    पदिये परवित् तॊऴुम्दॊण् डर्दमक्कुक्  
+    गतिये उऩैक्कण्डु कॊण्डुय्न् दॊऴिन्देऩे ७।१।७
+
+[^60]: *Tiruvāymoḻi* VI: 10.10: 
+
+    > अगल किल्लेऩ् इऱैयुम् ऎऩ्  
+    ऱलर्मेल् मङ्गै युऱैमार्बा,  
+    निगरिल् पुगऴाय्। उलगमूऩ्  
+    ऱुडैयाय्। ऎऩ्ऩै आळ्वाऩे,  
+    निगरिल् अमरर् मुऩिक्कणङ्गळ्  
+    विरुम्बुम् तिरुवेङ् गडत्ताऩे,  
+    पुगलॊऩ् ऱिल्ला अडियेऩुऩ्  
+    अडिक्की ऴमर्न्दु पुगुन्देऩे। ६।१०।१०
 
 
 
@@ -449,7 +465,7 @@ In both cases, the two schools seem to have consciously restructured a fundament
 
 In their observations on the issue of how theological texts relate to actual ritual performance (observations quoted in the preface to this volume) Humphrey & Laidlaw (1994: 199) have discouraged the view that there might be a correlation between the two, citing Christopher Fuller’s study of the consecration rituals of the priests of the Mīnākṣī temple in Madurai as further evidence for their views. 
 
-Often a priestly citation of Āgamic sources as the basis for their ritual practice proves to be highly misleading. “The accepted idea that they [such sources] are authoritative can well go along with almost universal ignorance about their content” (ibid.: 200). The Tenkalai samāśrayaṇa ceremony could, at one level, be seen as validating this view. +++(5)+++
+Often a priestly citation of Āgamic sources as the basis for their ritual practice proves to be highly misleading. “The accepted idea that they [such sources] are authoritative can well go along with almost universal ignorance about their content” (ibid.: 200). The Tenkalai samāśrayaṇa ceremony could, at one level, be seen as validating this view. +++(as the initiate has no idea she's performing "prapatti". 5)+++
 
 Certainly, from the perspective of the initiate the Tenkalai ceremony, its significance and its possible theological underpinnings would seem not to matter and it would be radically underprescribed, her observance of it largely being a matter of a family tradition which she too chooses to faithfully uphold. 
 
