@@ -827,6 +827,13 @@ For thus it reads in the Varaha Purana,
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+त्वं ... Ch. 70, śl. 36b.
+
+कुहकादीन्द्र ... To be traced out.
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -857,6 +864,14 @@ For thus it reads in the Varaha Purana,
 corresponds to Varaha Purana. 70.36 tvam ca rudra mahābaho mohaśāstrāṇi kāraya  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The ptd. text of the purāṇa has the following line in the place of this verse:
+
+> अल्पायातं दर्शयित्वा मोहयाशु महेश्वर। 
+
+( ch. 70, śl. 37a )
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -908,6 +923,14 @@ in order to deceive those who have deserted the Way of the Veda.185
 cf. Varāha Pur., 70.41, which in cd reads nayasiddhanta sam jñabhir maya shāstran tu darshitam.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The ptd. edn. has the following reading:
+
+> नय-सिद्धान्त-संज्ञाभिः मया शास्त्रं तु दर्शितम्। 
+
+( ch. 70, śl. 41b-42a )
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -935,6 +958,12 @@ do not respect the Vedas.16
 cf. Variha Pur., 70.38, which reads in cd shastreśv abhirato loko bahulyena bhaved atah. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ch. 70. śl. 38b-39a. Variant for the second line:
+
+> शास्त्रेष्व् अभिरतो लोके बाहुल्येन भवेद् अतः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -959,6 +988,12 @@ Thus the Pasupata and like doctrines are active in the Kali Age.
 nearest is Varaha Pur., 70.42, tada pasupatam sastram jāyate vedasanjaitam.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid*. śl. 43a. Variant:
+
+> तदा पाशुपतं शास्त्रं जायते वेद-संज्ञितम ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1006,6 +1041,10 @@ This ritual called Pasupata is the lowliest and deceives men.188"
 cf. Varaha Pur., 70.21, yad vedabāḥyam karma …
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1033,6 +1072,16 @@ because they are too numerous.
 [189]: cf. Varaha Pur., 70.40, mam vimor oyatiriktam ye brahmasiat ca doijottama bhajante pāpakarmāņas te panti narakam narāḥ, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ch. 70. śl. 40b. Variant: 
+
+> मां विष्णोः व्यतिरिक्तं ये ब्रह्मणश् च द्वि-जोत्तम ।
+
+The next line ( 41a ) of the purāṇa may also be noted: 
+
+> भजन्ते पाप-कर्माणस् ते यान्ति नरकं नराः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1076,6 +1125,12 @@ as is stated in the same Purana:
 > Be you outside the Veda and disqualified for Vedic rites. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ch. 71. śl. 40b-41a. Variant for the first line: 
+
+> ..जटा-भस्म-मिथ्या-व्रत-धरास् तदा ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1108,6 +1163,15 @@ all these hair-tuft wearing devotees of Rudra are consumed by the fire of Brahma
 (not identified.)
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+कलौ ... Ch. 71. śl. 51*. Variant:
+
+> कलौ त्वद्-रूपिणस् सर्वे[[??]]  जटा-मुकुट-धारिणः ।  
+स्वेच्छया प्रेत-वेषाश् च मिथ्या-लिङ्ग-धराः प्रभो ॥
+
+ब्रह्म ... Passages to be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1188,7 +1252,10 @@ have formerly been made to relinquish the Veda
 as well as God Nārāyaṇa on account of Gautama's curse."
 </details>
 
+<details><summary>नरसिंहः</summary>
 
+Passages to be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1212,7 +1279,6 @@ Moreover, those fools who pass censure on Vasudeva
 are to be regarded as heretics,  
 for thus it is declared in the Linga Puriņa, 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1273,13 +1339,26 @@ read yesAm for eṣām.
 supra §52.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+पाषण्डिनो ... Cf. Manusmṛti IV-30:
+
+> पाषण्डिनो विकर्मस्थान् बैडाल-व्रतिकान् शठान् ।  
+हैतुकान् बक-वृत्तींश् च वाङ्-मात्रेणापि नार्चयेत् ॥
+
+या वेदबाह्या ... Ibid*. XII-95:
+
+> या वेद-बाह्यास् स्मृतयो याश् च काश् च कु-दृष्टयः ।  
+सर्वास् ता निष्फलाः प्रेत्य तमो-निष्ठा हि तास् स्मृताः ॥
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततश्च -  
 
 एत एव च ते एषां वाङ्मात्रेणापि नार्चनम् ।  
 पाषण्डिनोविकर्मस्थानित्यादिस्मृतिषूदितम् ॥  
-
+"या वेद-बाह्या" इत्येतद् अपि चेदृशगोचरम् ।
 </details>
 
 ### न वेदाः, न प्रत्यक्षम्
