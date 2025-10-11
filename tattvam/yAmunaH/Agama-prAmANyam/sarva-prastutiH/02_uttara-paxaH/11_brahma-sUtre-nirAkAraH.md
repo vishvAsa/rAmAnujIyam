@@ -17,6 +17,11 @@ title = "११ ब्रह्म-सूत्रे ऽनिराकार�
 [208]: BrS, 2.2.42. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Brahmasūtra II. ii. -39.
+</details>
+
 <details><summary>मूलम्</summary>
 
 > कथं तर्हीदं सूत्रम् "उत्पत्त्यसंभवात्" इति?  
@@ -55,17 +60,17 @@ REPLY. What is the intention of the sūtra?
 OBJECTION. The following: Since it is expounded in the Bhāgavata Śāstra that the individual soul has an origin, and since this is impossible as it militates against Scripture and Logic, therefore this śāstra is erroneous. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+इदमस्य ... The ‘pūrvapakṣa’ arguments advanced here are those made by Śaṅkara. See his commentary on the four sūtras comprising the ‘Utpattyasambhava’ or the ‘Pāñcarātra’ section : Brahmasūtra II. ii. 42-45.
+
+सूत्रस्य ... ‘हृदयम्’ इति शेषः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
 इदमस्य सूत्रस्य [भावः] भागवतशास्त्रे जीवोत्पत्तेः प्रतिपाद्यमानत्वात् तस्याश् च श्रुति-न्याय-विरोधेनासम्भवाद् असमीचीनं शास्त्रम् इति । 
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-The 'purvapakşa' arguments advanced here are those made by Sankara- See his commentary on the four sutras comprising the Utpattyasambhava or the ' Pañcarūtra ' sectionः Brahmasūtra II. ii. 42-45. 
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
