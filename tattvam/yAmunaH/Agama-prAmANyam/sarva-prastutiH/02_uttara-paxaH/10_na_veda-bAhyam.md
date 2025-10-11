@@ -385,6 +385,10 @@ It is as in the Manavadharma Shastra (Manusmrti, 4.124.):
 here the censure of the Samaveda serves to praise the other Vedas. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Manusmṛti IV. 124.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -421,6 +425,11 @@ And since in bulk and in weight the latter preponderated,
 it is called the Great Bharata for its bulk and weight."  
 This is said, not to belittle the Vedas,  
 but to bestow praise on the Mahabharata. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Ādiparvan I. 208-209.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -509,6 +518,10 @@ That is said by the Upanisads which set forth the knowledge of truth"
 etc. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -633,6 +646,22 @@ do not therefore become non-Vedic.
 āgnavaisNava, name of a sacrificial cake offered at the dikşaniyeşti.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+यत्पुनरुक्तम् ... See 18 above, for the opponent's argument.
+
+
+आग्नावैष्णवम्... Cf. 
+
+> आग्नावैष्णवम् एकादश-कपालं पुरोडाशं निर्वपेद् दीक्षिष्यमाणः, 
+
+quoted by Śabara under XII. 1-25, P.319.
+
+Also cf. Aitareya Brāhmaṇa. I. 1:
+
+> आग्नावैष्णवं पुरोडाशं निर्वपन्ति दीक्षणीयम् एकादश-कपालम् ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत्पुनरुक्तमुपनयनादिसंस्कृतानां भगवदाराधनार्थतया दीक्षालक्षणसंस्कारविधानादवैदिकत्वमिति तदयुक्तं न ह्युपनयनादिसंस्कृतानां ज्योतिष्टोमादिकर्माङ्गतया दीक्षादिसंस्कारविधायकम् आग्नावैष्णवम् इत्यादिवाक्यमवैदिकं भवति ।  
@@ -746,6 +775,10 @@ would also have an occasional application to the texts of the Bharata and Rāmā
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See P.19 above, for pūrvapakṣa.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -775,7 +808,10 @@ model for the all the world?
 [[140]] The author of the Brahmasutras is identified with Vyasa Dvaipayana, composer of the Mahabharata
 </details>
 
+<details><summary>नरसिंहः</summary>
 
+See ibid.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -800,6 +836,10 @@ This has been extracted from the Bharata in its full length of thousand Slokas a
 as butter is extracted from curds, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Māhābhārata, śānti, 331. 2-3.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -845,6 +885,12 @@ and the amṛta from the herbs
 this Mahopanisada which is consistent with the four Vedas and the demonstrations of Sankhya and Yoga is called the Pañcaratra. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid. 326. 100.
+
+> इदं पञ्च-रात्रं महोपनिषदं — महतीनाम् उपनिषदाम् अर्थ-प्रतिपादकम्, वेदार्थ-प्रतिपादकम्, साङ्ख्य-योग-सिद्धान्त[[??]] चेत्य् अर्थः ।[[??]]
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -867,6 +913,12 @@ this is the summum bonum.
 Being consistent with Rk, Yajuh and Saman and the Atharvāngirasas,  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid. (Gorakhpur edn.) 322. 33a, 41b.
+
+ऋग्भिः, सामभिः, अथर्वेण, अङ्गिरसा च दृष्टा ये मन्त्राः तैर् अपि जुष्टं सहितम् इति भावः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -888,6 +940,10 @@ this discipline will of a certainty be authoritative.204
 [204]: Mahābhārata, 12 340 (129.76) ff.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid. (Critical edn.) 322.41a.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -899,7 +955,7 @@ this discipline will of a certainty be authoritative.204
 
 भीष्म-पर्वण्य् अपि -  
 
-> ब्रह्मणैः क्षत्रियैर् वैश्यैः  
+> ब्राह्मणैः क्षत्रियैर् वैश्यैः  
 शूद्रैश् च कृत-लक्षणैः ।  
 **अर्चनीयश्** च **सेव्यश्च**  
 **पूजनीयश्** च माधवः ॥  
@@ -913,12 +969,20 @@ And in the Bhismaparvan too:
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+ब्राह्मणैः ... Ibid. 62. 38-39.
+
+One of the chief characteristics of the Pañcarātra-religion is its liberal catholicity. It offers hope of salvation to all, without the distinctions of caste and sex.
+
+कृतलक्षणैः ... 'कृत-लक्षणैः', कृत-दीक्षैर् इत्य् अर्थः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
 भीष्मपर्वण्यपि -  
 
-ब्रह्मणैः क्षत्रियैर्वैश्यैः शूद्रैश्च कृतलक्षणैः ।  
+ब्राह्मणैः क्षत्रियैर्वैश्यैः शूद्रैश्च कृतलक्षणैः ।  
 अर्चनीयश्च सेव्यश्च पूजनीयश्च माधवः ॥  
 </details>
 
@@ -941,7 +1005,10 @@ at the end of the Dvapara age and the beginning of the Kali age."205
 [205]: Mahābhārata, 6.66 (3012). 
 </details>
 
+<details><summary>नरसिंहः</summary>
 
+Cf. Īśvarasaṁhitā I. 10 for a similar statement.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -951,8 +1018,6 @@ at the end of the Dvapara age and the beginning of the Kali age."205
 इति । 
 </details>
 
-
- 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा शान्तिपर्वण्यपि  -  
@@ -981,6 +1046,67 @@ Also in the Śāntiparvan:
 204: Mahabharata not identified.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+
+As all schools of Śaivism, Vaiṣṇavism too insists upon the performance of Dīkṣā-ceremony.
+
+See Sāttvata Saṁhitā II. 11b-12a:
+
+> karmavāṅmanasaissamyag bhaktānāṁ parameśvara ॥
+caturṇāmadhikāro vai prāpte dīkṣākrame sati ।
+
+This Dīkṣā is three fold[[??]], yielding different results to the followers.
+
+Cf. ibid. XIX. 4:
+
+> kaivalyaphaladāpyekā bhogaikaphaladā parā ।  
+bhogadaiva tṛtīyā ca prabuddhānāṁ sadaiva hi ॥
+
+Ch. XIX of this āgama deals with Dīkṣā in detail.
+
+Also see Parama Saṁhitā XXXI. 53:
+
+> tisro dīkṣāḥ kṛtā yena vaiṣṇavena tapasvinā ।  
+sa eva vaiṣṇavaṁ jñānamakhilaṁ śrotumarhati ॥
+
+Ibid. XXVII. 41b:
+
+> evaṁ dīkṣāṁ tridhā bhinnāṁ uttarottarabhūyasīm ॥
+
+Also cf. ibid. VIII. 3:
+
+> sā tu bhaktivaśāt nṝṇāṁ triṣu karmasu niṣṭhitā ।  
+prathamāṁ samaye paścāt tantrajñāne tato 'rcane ॥
+
+The Dīkṣā-ceremony is dealt with in ch. VIII of this Saṁhitā, in detail.The purpose of Initiation is given in VIII. 1-2:
+
+> ata ūrdhvaṁ pravakṣyāmi dīkṣāyā lakṣaṇaṁ param ।  
+yāmavāpya viśuddhātmā vaiṣṇavaḥ siddhimṛcchati ॥  
+apratiṣṭhasya manasaḥ śreyomārgamavindataḥ ।  
+upāyaṁ bandhanasyāhur dīkṣāṁ dīkṣāviśāradāḥ ॥
+
+Also cf. ibid. śl. 6b-7a:
+
+> yastu tīvrḥ prayuñjīta dīkṣāṁ bhaktisamanvitaḥ ॥  
+tasya devaprasādena sakalaṁ siddhyatīpsitam ।
+
+The three types of Dīkṣā called Samaya, Tantra and Arcana, are defined and explained in ch. VIII. śls. 7b-11a.
+
+Also, cf. ibid. III. 29b-30a:
+
+> brāhmaṇāḥ kṣatriyā vaiśyāśśūdrā yoṣita eva ca ॥  
+bhaktiyuktāḥ svabhāvena kuryād devasya pūjanam ।
+
+It is said that one who undertakes Dīkṣā is better qualified than one without it. Cf. ibid. III. 39:
+
+> dvidvidhaḥ puruṣo brahman dīkṣito 'dīkṣitastathā ।  
+dīkṣitassakalaṁ kuryāt ekadeśamadīkṣitaḥ ॥
+
+Cf. also Aniruddha Saṁhitā ch. IV and Viṣṇu Saṁhitā ch. X for different treatments of Dīkṣā.
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1005,6 +1131,10 @@ One should consecrate a Brahmin in spring, a Kṣatriya in summer, a Vaiśya in 
 [206]: Mahābhārata not identified.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be traced out.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1029,6 +1159,10 @@ And likewise: "It has been made commensurate with the four Vedas on the great Mo
 [207]: Mahābhārata not identified.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Mahābhārata, śānti*, 322. 28b:
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1061,6 +1195,10 @@ Now, how could Dvaipāyana reject the Pañcaratra, which is his own supreme doct
 [[80]]
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Yāmuna holds Vyāsa, the author of the Mahābhārata to be one with Bādarāyaṇa, the author of the Brahmasūtra.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1068,10 +1206,3 @@ Now, how could Dvaipāyana reject the Pañcaratra, which is his own supreme doct
 वेदान्तसारसर्वस्वमात्मीयं परमं मतम् ।  
 पञ्चरात्रं निराकुर्यात् कथं द्वैपायनः स्वयम् ।  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-3 
-Yamuna holds Vyāsa, the author of the Mahābhārata to be one with Badarayana, the author of the Brahmasutra. 
-</details>
-
