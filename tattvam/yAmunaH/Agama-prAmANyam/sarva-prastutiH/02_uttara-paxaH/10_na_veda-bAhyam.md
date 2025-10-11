@@ -42,6 +42,14 @@ because it is purposeless;
 for it is not proper to forget that from which the meaning's authority derives. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘तस्य’ मूल-भूत-वेद-वाक्य-स्मरणस्येत्य् अर्थः ।
+
+न हि ... Cf. Tantravārtika under I. iii. 1, P.73:
+
+> न हि यत् कृतं प्रामाण्यं, तद् एव विस्मर्तुं युज्यते ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -59,6 +67,13 @@ for it is not proper to forget that from which the meaning's authority derives.
 [[75]]  
 Or if, in order to justify this oblivion,  
 the standpoint is taken that the doctrine is based on a Vedic sakha which has been lost or which is always deducible,  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. ibid : I-iii-1, P.73:
+
+> यदि तु प्रलीन-शाखा-मूलता कल्प्येत, ततस् सर्वासां बुद्धादि-स्मृतीनाम् अपि, तद्-द्वारं प्रामाण्यं प्रसज्येत । यस्यैव च भङ्गो ऽन्विष्येत[[??]] स एव तत् प्रलीन-शाखा-मस्तके निक्षिप्य प्रमाणी-कुर्यात् । अथ विद्यमान-शाखा-गता एवैते ऽर्थाः; तथापि मन्वाद्य् अपि इव सर्वं[[??]] पुरुषास् तत एवोपलभ्यन्ते । युक्ततरा च स्वाध्यायाध्ययन-विधेः साक्षाद् वेदाद् एव प्रतीतिर् इति स्मृति-प्रामाण्य-नैष्फल्यं[[??]] स्यात् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -159,6 +174,10 @@ As they say
 the Sage, out of compassion with his devotees for their convenience."
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Mahābhārata, śāntiparvan, ch. 348. śl. 64.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -187,6 +206,10 @@ are easily answered by all those who have made a diligent study of the commentar
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This is another name for Tantravārtika of Kumārila Bhaṭṭa.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -207,6 +230,10 @@ is disproved by the fact that
 we find in these very Tantras a condemnation of the Veda. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See p. 17 above, for the pūrvapakṣa-view.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -231,6 +258,17 @@ For it is said that
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Aniruddha Saṁhitā Ch. I:
+
+> शृणु वेदविदां श्रेष्ठम् आत्म-ध्यान-परायणम् ॥ (9 b)  
+पार्श्व-रथा मुनयस् सर्वे प्रणिपत्य जगद्-गुरुम् ।  
+ऊचुस् तं मुनयः सर्वे एतद् वाक्यम् अतन्द्रिताः ॥ (12)  
+वेदास् सर्वे समासेन साङ्गोपाङ्गास् सविस्तराः ।  
+स्वतः कमल-पत्राक्ष श्रुताः पूर्वं दयापर ॥ (13)  
+श्रेयो-मार्गं न पश्यामः, तद् वदस्व महा-मुने । (14 a)
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -253,6 +291,37 @@ For this censure does not mean to censure something deserving of censure,
 but rather to praise something else than that which is censured.
 </details> 
 
+<details><summary>नरसिंहः</summary>
+
+अनवगत ... Cf. Śrībhāṣya under II-ii-42, P.831:
+
+> यश् चैव केषाञ्चिद् उद्बोधः [[??]]: 
+>
+>> साङ्गेषु वेदेषु निष्ठाम् अलभमानः शाण्डिल्यः पञ्च-रात्रम् अधीतवान् इति, साङ्गेषु वेदेषु पुरुषार्थ-निष्ठा[[??]] न लब्धेति वचनात् वेद-विरुद्धं तन्त्रम् इति’, 
+>
+> सो ऽप्य् अनाघ्रात-वेद-वचसाम् अनाकलित-तद्-उपबृंहण-न्याय-कलापानां महा-मात्र-विजृम्भितः[[??]] । यथा 
+>
+>> प्रातः प्रातर् अनृतं ते वदन्ति पुरोदयात् जुह्वति ये ऽग्नि-होत्रम्
+>
+> इति, अनुदित-होम-निन्दा प्रशंसार्थेत्य् उक्तं[[??]], यथा च भूम-विद्या-प्रकरणे[[??]] नारदेन 
+>
+>> ऋग्-वेदं भगवो ऽध्येमि यजुर्-वेदं साम-वेदम् आथर्वणं चतुर्थम् इतिहास-पुराणं पञ्चमम् 
+>
+>> इत्य् आरभ्य, सर्वं विद्या-स्थानम् अभिधाय, 
+>
+>> सो ऽहं भगवो मन्त्रविद् एवास्मि नात्मवित्
+>
+> इति भूमि-विद्या-व्यतिरिक्तासु सर्वासु विद्या-स्वात्म-वेदना-लाभ-वचनं वक्ष्यमाण-भूम-विद्या-प्रशंसार्थं कृतम्, अथवा ऽस्य नारदस्य साङ्गेषु वेदेषु यत् परतत्त्वं प्रतिपाद्यते, तद्-अलाभ-निमित्तो ऽयं वादः; एवम् एव शाण्डिल्यस्येति पश्चाद् वेदान्त-वेद्य-वासुदेवाख्य-पर-ब्रह्म-तत्त्वाभिधानाद् अवगम्यते । तथा वेदार्थस्य दुर्ज्ञानतया सुखावबोधार्थ-शास्त्रारम्भः परम-संहितायाम् उच्यते ।
+>
+>> अधीता भगवन् ! वेदाः साङ्गोपाङ्गाः सविस्तराः ।  
+श्रुतानि च मयाङ्गानि वाकोवाक्य-युतानि च ॥  
+न चैतेषु समस्तेषु संशयेन विना क्वचित् ।  
+श्रेयो-मार्गं प्रपश्यामि येन सिद्धिर् भविष्यति ॥ *
+>
+> इति । [ I, 3, 4 ]
+
+न हि ... Vide Śābarabhāṣya under II-iv-20, P.139, lines 27 & 28.
+</details> 
 
 <details><summary>मूलम्</summary>
 
@@ -277,6 +346,14 @@ the censure passed on the pre-dawn oblation
 is understood to praise the post-dawn oblation.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Aitareya Brāhmaṇa: V-31-6.
+
+Cf. also Taittirīya Brāhmaṇa II. 1. 2. 7: 
+
+> यद् अनुदिते सूर्ये प्रातर् जुहुयात् उभयम् एवाग्नेयस्याद् उदिते सूर्ये प्रातर् जुहोति ।
+</details>
 
 <details><summary>मूलम्</summary>
 
