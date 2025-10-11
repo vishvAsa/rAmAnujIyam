@@ -80,6 +80,10 @@ the view that these Tantras are based on Perception or Scripture is sublated.
 For there are four kinds of followers of the way of life set forth in those Tantras, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The followers of the Māheśvara Doctrine are fourfold : Śaivas, Pāśupatas, Kāpālikas and Kāruṇikasiddhāntins, according to Vācaspati and Ānandagiri. Yāmuna calls the fourth group, Kālāmukhas. Rāmānuja follows Yāmuna in calling them so. The term Māheśvara is a name common for the followers of all these sects.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -101,6 +105,41 @@ the Kāpālikas, Kālamukhas, Pasupatas and Saivas.
 The Kapalika doctrine is described as follows: 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See M. R. Sakhare, Liṅgādhāraṇacandrikā, pp.331-332:
+
+> In the Vāyupurāṇa (ch. 23) and the Liṅgapurāṇa (ch. 24) it is said that Maheśvara told Brahmā that when Vāsudeva is born, he would incarnate himself as a Brahmacārin by the name of Lakulin and that Lakulin would have four pupils of names Kushika, Garga, Mitra and Kaurushya, these would be Pāśupatas. The refutation of the Pāśupata system is found in the Brahmasūtra: “patyurasāmañjasyāt” (II. ii. 37).
+
+> From all this it appears that the Pāśupata school was founded by Lakulīśa (the holder of lakula or lakuṭa — a club or staff). This Lakulīśa (also called Nakulīśa) is the last of the 28 incarnations of Śiva as mentioned by the Purāṇas. This has been confirmed by inscriptions too.
+
+The Kālāmukhas and Kāpālikas were two different sects of the Māheśvaras. Dr. Bhandarkar (in his Śaivism and Vaiṣṇavism, etc., P.183), identifies the Kālāmukhas with Mahāvratadharas on the authority of Śivapurāṇa but M. R. Sakhare, on the evidence of a Jain author, states that the Kāpālikas but not the Kālāmukhas were the same as Mahāvratadharas (pp.344 f.).
+
+The Kālāmukhas, according to T. A. Gopinatha Rao (Elements of Hindu Iconography, Vol. II, P.26), were so called as they marked their forehead with black streak and were said to be the offspring of “nara” and “rākṣasa” parents.
+
+> The Kāpālika system is very ancient since it is mentioned in the Maitrī Upaniṣad (‘atha ye cānye ha vṛthā kaṣāyakuṇḍalinaḥ kāpālinaḥ’)
+
+[Liṅgādhāraṇacandrikā, P.344].
+
+> The allegorical drama, Prabodhacandrodaya of Kṛṣṇamiśra (III. 12, 13) introduces a Kāpālika, who describes himself and his practices as follows:
+>
+> नरास्थि-माला-कृत-चारु-भूषणः  
+श्मशान-वासी नृ-कपाल-भोजनः ।  
+पश्यामि योगाञ्जन-शुद्ध-जक्षुषा  
+जगन् मिथो भिन्नम् अभिन्नम् ईश्वरात् ॥  
+मस्तिष्कान्त्र-वसभि-पूरित-महा-मांसाहुतीः जुह्वतां  
+वह्नौ ब्रह्म-कपाल-कल्पित-सुरा-पानेन नः पारणा ।  
+सद्यः-कृत्त-कठोर-कण्ठ-विगलत्-कीलाल-धारोज्ज्वलैः  
+अर्च्यो नः पुरुषोपहार-बलिभिर् देवो महा-भैरवः ॥
+
+[Ibid. P.345]
+
+Also vide Indian Philosophy by Dr. S. Radhakrishnan, Vol. I, P.488:
+
+> The Rudra of the Ṛgveda (I. 114.8), the personification of the destructive powers of nature, becomes in the Śatarudrīya, the Lord of Cattle, ‘paśūnāṁ patiḥ’. In the Brāhmaṇas, Śiva becomes the distinctive term for Rudra. The Pāśupata system continues the tradition of Rudra-Śiva. In the Mahābhārata, we find a theology named Pāśupata centring round Śiva [Śāntiparvan, ch. 149, v. 64]. We have an account of this system in Sarvadarśanasaṅgraha and Advaitānanda's Brahmavidyābharaṇa. Śaṅkara criticises this theology in his commentary (II. ii. 37-39).
+
+For a history and philosophy of these different schools of Śaivism from inscriptional data, see V. S. Pathak, History of Śaiva Cults in Northern India from Inscriptions, pp.4-28.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -129,6 +168,10 @@ not by knowing Brahman.
 External signs worn by Saiva sectarians.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Passages to be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -265,6 +308,10 @@ and who concentrates on the soul Vasudeva as the cause of the entire Universe:
 there is no other path to tread etc." (Svet Up. 3.8.) 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Taittirīya Āraṇyaka III. xiii. 1; also Śvetāśvatara VI. 15.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -358,6 +405,19 @@ and their overlord is Siva, the Lord of Cattle.
 To assist the souls Siva has composed the Paficādhyāyi. ("The Doctrine of the Five Chapters.")
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+जीवाः ... Vide Pāśupatasūtra with Kauṇḍinya's commentary, I. 1, P.5:
+
+> पश्यनात् पाशनाच् च पशवः । तत्र पाशा नाम कार्य-कारणाख्याः कलाः ।
+
+Also see ibid:
+
+> साङ्ख्य-योगेन ये मुक्ताः, साङ्ख्य-योगेश्वराश् च ये ।  
+ब्रह्मादयस् तिर्यग्-अन्ताः सर्वे ते पशवः स्मृताः ॥
+
+पञ्चाध्यायीम् ... This Pañcādhyāyī* is, in all probability, same as the Pāśupatasūtra, referred to above. This work is in five chapters, dealing with the five characteristics of this cult, viz., Kāraṇa, Kārya, Vidhi, Yoga and Duḥkhānta, which also go by the name Pañcapadārthas or Pañcārthas.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -379,6 +439,29 @@ To assist the souls Siva has composed the Paficādhyāyi. ("The Doctrine of the 
 
 There the five Categories are explained, namely,  
 Cause, Effect, Injunction, Yoga and the Cessation of Misery. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. Kauṇḍinya's commentary on the Pāśupatasūtra : I-i, P.6:
+
+> एवं सदुःखान्तं[[??]] कार्यं कारणं योगो विधिर् इति पञ्चैव पदार्थाः समासत उद्दिष्टाः ।
+
+Vide Indian Philosophy, Vol. I, P.489:
+
+> The five categories are:
+
+> 1.  Kāraṇa or Cause: The Cause is the Lord, the Pati, the Eternal ruler, who creates, maintains and destroys the whole existence.
+
+> 2.  Kārya or Effect: It is what is dependent on the cause. It includes knowledge or vidyā, organs or kalā and individual souls or paśu. All knowledge and existence, the five elements and the five qualities, the five senses and the five organs of actions and the three internal organs of intelligence, egoism and mind are dependent on the Lord.
+
+> 3.  Yoga or Discipline: It is the mental process by which the individual soul gains God.
+
+> 4.  Vidhi or Rules: It relates to the practices that make for righteousness.
+
+> 5.  Duḥkhānta or the end of misery: It is final deliverance or destruction of misery and obtaining an elevation of spirit, with full powers of Knowledge and Action.
+
+For a more detailed explanation of these categories, see Liṅgādhāraṇacandrikā, pp.351-57.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -437,18 +520,18 @@ Mahat - The highest material evolute.
 
 <details><summary>नरसिंहः</summary>
 
-Vide Indian Philosophy, Vol. I, p. 489: 
+गूढाचार ... Cf. Pāśupatasūtra : IV. 2 : ‘गूढवतः’; IV. 3 : ‘गूढ-पवित्र-पाणिः’; IV. 4: ‘सर्वाणि द्वाराणि पिधाय’; IV. 5 : ‘बुद्ध्या’।
 
-> “The five categories are :  
-> 1 Kāraṇa or Cause: The Cause is the Lord, the Pati, the Eternal ruler, who creates, maintains and destroys the whole existence.  
-> 2 Kārya or Effect: It is what is dependent on the cause. It includes knowledge or vidyā, organs or kalā and individual souls or paśu. All knowledge and existence, the five elements and the five qualities, the five senses and the five organs of actions and the three internal organs of intelligence, egoism and mind are dependent on the Lord.  
-> 3 Yoga or Discipline: It is the mental process by which the individual soul gains God.  
-> 4 Vidhi or Rules: It relates to the practices that make for righteousness.  
-> 5 Duḥkhānta or the end of misery: It is final deliverance or destruc-tion of misery and obtaining an elevation of spirit, with full powers of Knowledge and Action.” 
+स्मशान ... Ibid. V. 30 : ‘स्मशान-वासी’
 
-For a more detailed explanation of these categories, see Liṅgadhāraṇa-candrikā, pp. 351-57.
+भसित ... Ibid. I : 2, 3, 4 : ‘भस्मना त्रि-षवणं स्नायीत’, ‘भस्मनि शयीत’, ‘अनुस्नानम्’।
+
+हृदि ... Ibid. V. 23, 24 & 25 : ‘अतो योगः प्रवर्तेत’, ‘ओङ्कारम् अभिध्यायीत’, ‘हृदि कुर्वीत धारणम्’।
+
+दुःखान्तो ... Ibid. V. 40 :    
+
+> अप्रमादी गच्छेत् दुःखानाम् अन्तम् ईश-प्रसादात् ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -504,6 +587,10 @@ This conception of God is held by the Saivas as well as the others.
 And this view of God is entirely, incompatible with Scripture, for   
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This line is wanting in two syllables. Or, this may be taken as a prose passage.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -594,6 +681,12 @@ As they say," merely by entering Consecration one becomes instantly a Brahmin.
 A man becomes an ascetic by accepting the Kāpālika vow." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+
+Every school of thought stresses the importance of its own dīkṣā-ceremony. See Śaivasiddhānta, P.47.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -660,6 +753,14 @@ this latter ground is sufficient to prove the lack of authority of these texts
 and entails no overextension to other texts. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See the verse “vāsudevābhidhānena” etc. on P.52 above for the pūrvapakṣa-view.
+
+Cf. Tantraśuddha, P.17:
+
+> यतः केनचिद् अवक्तिनेन [[??]] क्षेत्र-ज्ञेन महेश्वर-समान-नाम्ना त्रयी-मार्ग-बहिष्कृतेयं प्रक्रिया विरचिता । तन् नाम नारायणं केचिद् व्याख्याय[[??]] महेश्वर-नामकोपदिष्ट-मार्गम् अवलम्बितवन्तः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -726,6 +827,13 @@ For thus it reads in the Varaha Purana,
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+त्वं ... Ch. 70, śl. 36b.
+
+कुहकादीन्द्र ... To be traced out.
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -756,6 +864,14 @@ For thus it reads in the Varaha Purana,
 corresponds to Varaha Purana. 70.36 tvam ca rudra mahābaho mohaśāstrāṇi kāraya  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The ptd. text of the purāṇa has the following line in the place of this verse:
+
+> अल्पायातं दर्शयित्वा मोहयाशु महेश्वर। 
+
+( ch. 70, śl. 37a )
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -807,6 +923,14 @@ in order to deceive those who have deserted the Way of the Veda.185
 cf. Varāha Pur., 70.41, which in cd reads nayasiddhanta sam jñabhir maya shāstran tu darshitam.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The ptd. edn. has the following reading:
+
+> नय-सिद्धान्त-संज्ञाभिः मया शास्त्रं तु दर्शितम्। 
+
+( ch. 70, śl. 41b-42a )
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -834,6 +958,12 @@ do not respect the Vedas.16
 cf. Variha Pur., 70.38, which reads in cd shastreśv abhirato loko bahulyena bhaved atah. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ch. 70. śl. 38b-39a. Variant for the second line:
+
+> शास्त्रेष्व् अभिरतो लोके बाहुल्येन भवेद् अतः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -858,6 +988,12 @@ Thus the Pasupata and like doctrines are active in the Kali Age.
 nearest is Varaha Pur., 70.42, tada pasupatam sastram jāyate vedasanjaitam.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid*. śl. 43a. Variant:
+
+> तदा पाशुपतं शास्त्रं जायते वेद-संज्ञितम ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -905,6 +1041,10 @@ This ritual called Pasupata is the lowliest and deceives men.188"
 cf. Varaha Pur., 70.21, yad vedabāḥyam karma …
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -932,6 +1072,16 @@ because they are too numerous.
 [189]: cf. Varaha Pur., 70.40, mam vimor oyatiriktam ye brahmasiat ca doijottama bhajante pāpakarmāņas te panti narakam narāḥ, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ch. 70. śl. 40b. Variant: 
+
+> मां विष्णोः व्यतिरिक्तं ये ब्रह्मणश् च द्वि-जोत्तम ।
+
+The next line ( 41a ) of the purāṇa may also be noted: 
+
+> भजन्ते पाप-कर्माणस् ते यान्ति नरकं नराः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -975,6 +1125,12 @@ as is stated in the same Purana:
 > Be you outside the Veda and disqualified for Vedic rites. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ch. 71. śl. 40b-41a. Variant for the first line: 
+
+> ..जटा-भस्म-मिथ्या-व्रत-धरास् तदा ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1007,6 +1163,15 @@ all these hair-tuft wearing devotees of Rudra are consumed by the fire of Brahma
 (not identified.)
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+कलौ ... Ch. 71. śl. 51*. Variant:
+
+> कलौ त्वद्-रूपिणस् सर्वे[[??]]  जटा-मुकुट-धारिणः ।  
+स्वेच्छया प्रेत-वेषाश् च मिथ्या-लिङ्ग-धराः प्रभो ॥
+
+ब्रह्म ... Passages to be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1087,7 +1252,10 @@ have formerly been made to relinquish the Veda
 as well as God Nārāyaṇa on account of Gautama's curse."
 </details>
 
+<details><summary>नरसिंहः</summary>
 
+Passages to be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1111,7 +1279,6 @@ Moreover, those fools who pass censure on Vasudeva
 are to be regarded as heretics,  
 for thus it is declared in the Linga Puriņa, 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1172,13 +1339,26 @@ read yesAm for eṣām.
 supra §52.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+पाषण्डिनो ... Cf. Manusmṛti IV-30:
+
+> पाषण्डिनो विकर्मस्थान् बैडाल-व्रतिकान् शठान् ।  
+हैतुकान् बक-वृत्तींश् च वाङ्-मात्रेणापि नार्चयेत् ॥
+
+या वेदबाह्या ... Ibid*. XII-95:
+
+> या वेद-बाह्यास् स्मृतयो याश् च काश् च कु-दृष्टयः ।  
+सर्वास् ता निष्फलाः प्रेत्य तमो-निष्ठा हि तास् स्मृताः ॥
+</details>
+
 <details><summary>मूलम्</summary>
 
 ततश्च -  
 
 एत एव च ते एषां वाङ्मात्रेणापि नार्चनम् ।  
 पाषण्डिनोविकर्मस्थानित्यादिस्मृतिषूदितम् ॥  
-
+"या वेद-बाह्या" इत्येतद् अपि चेदृशगोचरम् ।
 </details>
 
 ### न वेदाः, न प्रत्यक्षम्
