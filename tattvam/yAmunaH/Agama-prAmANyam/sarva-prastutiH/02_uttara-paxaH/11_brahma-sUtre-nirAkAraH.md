@@ -126,25 +126,23 @@ For the Pāñcarātra Śāstras do not accept that the individual soul has an or
 > OBJECTION. But is it not their assertion that Vāsudeva is at once the supreme material cause and the supreme spirit; that from him the individual soul Saṅkarṣaṇa is born, from Saṅkarṣaṇa the mind called Pradyumna, and from the latter the ego called Aniruddha?
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Ahirbudhnya Saṁhitā V. 28a:
+
+> भगवान् वासुदेवस् स परमा प्रकृतिश् च सा ।
+
+Cf. Śaṅkara under Brahmasūtra II. ii. 42:
+
+> यत् पुनर् इदम् उच्यते — वासुदेवात् सङ्कर्षण उत्पद्यते, सङ्कर्षणाच् च प्रद्युम्नः, प्रद्युम्नाच् चानिरुद्ध इति । 
+
+etc.
+</details>
 
 <details><summary>मूलम्</summary>
 
 नन्व् अस्तीदं वचनं वासुदेवः परा प्रकृतिः परमात्मा ततस् सङ्कर्षणो नाम जीवो जायते । सङ्कर्षणात् प्रद्युम्न-संज्ञं मनो जायते । ततोऽनिरुद्ध-नामा अहङ्कारो जायते इति ।
 </details>
-
-
-<details><summary>नरसिंहः</summary>
-
-+ Cf. Ahirbudhnya Samhitā V. 28a 
-* भगवान् वासुदेवस्त परमा प्रकृतिश्च सा । ' 
-
-Cf. Sankara under Brahmasutra II. ii. 42- 
-यत् पुनर् इदम् उच्यते -  
-वासुदेवाय संकर्षण उत्पयते,  
-संकर्षणाच्च प्रद्युम्नः,  
-प्रद्युम्नाच्च अनिरुद्ध इति । ' etc. 
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -163,12 +161,6 @@ REPLY. NO. The personal manifestation of God is described as being constituted b
 [209]: 'Divisions' of the Supreme God as Vāsudeva, Saṃkarṣaṇa, Pradyumna and Aniruddha.
 </details>
 
-
-<details><summary>मूलम्</summary>
-
-अपि तु व्यूह-रूपेण व्यक्तिर् देवस्य कीर्त्यते ।  
-</details>
-
 <details><summary>नरसिंहः</summary>
 
 Cf. Ahirbudhnya Samhitā, ch. V- 
@@ -184,6 +176,10 @@ Cf. Ahirbudhnya Samhitā, ch. V-
 **व्यक्ति-भावम्** उपागताः ॥ 5.43 ॥  
 </details>
 
+<details><summary>मूलम्</summary>
+
+अपि तु व्यूह-रूपेण व्यक्तिर् देवस्य कीर्त्यते ।  
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -198,14 +194,6 @@ Cf. Ahirbudhnya Samhitā, ch. V-
 and the word "individual soul" is assigned to one of these vyūhas for practical purposes, in order to prove clearly the differences that exist within the Adorable One, which differences are in accordance with those of the varṇas. 
 </details>
 
-
-<details><summary>मूलम्</summary>
-
-तत्र संव्यवहारार्थं जीव-शब्दः प्रयुज्यते ॥  
-वर्णानाम् आनुलोम्येन पूज्य-भेद-प्रसिद्धये ।  
-</details>
-
-
 <details><summary>नरसिंहः</summary>
 
 Cf. Ahirbudhnya Samhitā- V. 44- 
@@ -215,69 +203,74 @@ Cf. Ahirbudhnya Samhitā- V. 44-
 मन-आलम्बनायैषा[^34]  
 चातुरात्म्य-व्यवस्थितिः ॥ 5.44 ॥
 
-This Samhita thus clarifies that the four-fold manifestation of the Supreme Lord Vasudeva, as Sankarṣaṇa, Pradyumna and Aniruddha is for the welfare of the creation, by facilitating mental concentration in different degrees for aspirants of different capacities. 
-This four-fold manifestation has got a purpose, says the Sattvata Samhitā, namely, facilitating the worship by the four castes, Brāhmana, Kşatriya, Vaiśya and Sūdra, respectively. 
-It is only the Brāhmaṇa that is entitled to worship all these four mani- festations of God, viz., Vasudeva, Sankarsana, Pradyumna and Aniruddha. For the remaining castes, however, only particular forms of God are ordained for worship For further details, see the Sättvata Samhitā ch. VII. 
+This Saṃhitā thus clarifies that the four-fold manifestation of the Supreme Lord Vāsudeva, as Saṅkarṣaṇa, Pradyumna and Aniruddha is for the welfare of the creation, by facilitating mental concentration in different degrees for aspirants of different capacities. 
 
+This four-fold manifestation has got a purpose, says the Sāttvata Saṃhitā, namely, facilitating the worship by the four castes, Brāhmana, Kṣatriya, Vaiśya and Sūdra, respectively. 
 
-Cf. the following passages from the Sattvata Samhitā
+It is only the Brāhmaṇa that is entitled to worship all these four manifestations of God, viz., Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha. For the remaining castes, however, only particular forms of God are ordained for worship. For further details, see the Sāttvata Saṃhitā ch. VII. 
 
-> अब्दान्तम् अर्चनं विष्णोर्  
-निष्कामेणाग्रजन्मना ॥ २९ ॥  
+Cf. the following passages from the Sāttvata Samhitā
+
+> अब्जान्तम् अर्चनं विष्णोर्  
+निष्कामेणाग्र-जन्मना ॥ २९ ॥  
 एवं सङ्कर्षणाद्यं तु वासुदेवान्तम् अर्चनम् ।  
 विहितं क्षत्र-जातेर् वै कर्तव्यत्वेन सर्वदा ॥ ३० ॥  
 प्रद्युम्नाद्यं तु वैश्यस्य  
-मुसल्यन्तम् उदाहृतम् ।  
-सच्छूद्रस्यानिरुद्धाद्यं  
+मुसलान्तम् उदाहृतम् ।  
+सच् छूद्रस्यानिरुद्धाद्यं  
 प्रद्युम्नान्तं सदैव हि ॥ ३१ ॥  
-
-> सर्वत्राधिकृतो विप्रो  
+सर्वत्राधिकृतो विप्रो  
 वासुदेवादि-पूजने ।  
 यथा तथा न क्षत्राद्यास्  
 तस्माच् छास्त्रोक्तम् आचरेत् ॥ ५५ ॥  
-
-> चतुर्णां ब्राह्मणादीनां  
-स्वयमेवानुकम्पया ।  
+चतुर्णां ब्राह्मणादीनां  
+स्वयम् एवानुकम्पया ।  
 चातुरात्म्येन रूपेण  
 चतुर्धा व्यक्तिमेति च ॥ 12.17 ॥  
+एवम् अस्त्व् अनुग्रहार्थं तु  
+शक्त्यात्मा भावितात्मनाम् ।  
+बिभर्ति बहु-भेदोत्थं 
+रूपं सद्-वाहन-स्थितम् ॥ [ 176 ]
 
-
-the following from the Parama Samhita 11. 99b-101- 
+the following from the Parama Saṃhitā 11. 99b-101- 
 
 > स तु देवश् चतुर्व्युहो  
 भुवनेष्व् अधितिष्ठते ॥  
 धुर्मादिषु परां सिद्धिम्  
-अवाप्य हितकाम्यया ।  
+अवाप्य हित-काम्यया ।  
 वसुदेवस् स्मृतो धर्मो  
 ज्ञानम् सन्कर्षणस् स्मृतः ॥  
-तथ विमुक्तः प्रद्युम्नः  
+तथा विमुक्तः प्रद्युम्नः  
 अनिरुद्धस् सकलेश्वरः 
-तत्र व्यक्तास् समस्ताश्च  
-चत्वारस्तु गुणा इमे ॥
+तत्र व्यक्तास् समस्ताश् च  
+चत्वारस् तु गुणा इमे ॥
 
-The above passages from the Parama Samhita point out that the four forms of the Lord, viz., Vasudeva, Sankarṣaṇa, Pradyumna and Aniruddha are intended by the Lord to initiate the qualities of Dharma, Jñana, Vimukti and Avarya respectively, in the beings created. 
+The above passages from the Parama saṃhitā point out that the four forms of the Lord, viz., Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha are intended by the Lord to initiate the qualities of Dharma, Jñāna, Vimukti and Aiśvarya respectively, in the beings created. 
 
-The fact that the four manifestations of the Lord are designed by the Ford Himself to facilitate the worship by the four different castes is briefly set both by the Pauskara Samhita ( ch. 38. śl. 4a, 5a), which Rāmānuja quotes in his SribhaSya under II. ii. 41, p. 829- 
-
-C. also Visvaksena Samhitä XI. 146-147- 
+The fact that the four manifestations of the Lord are designed by the Ford Himself to facilitate the worship by the four different castes is briefly set both by the Pauṣkara Saṃhitā ( ch. 38. śl. 4a, 5a), which Rāmānuja quotes in his śrībhāṣyā under II. ii. 41, p. 829- 
 
 > कर्तव्यत्वेन वै यत्र  
-चातरात्म्यम् उपासते 
+चातरात्म्यम् उपासते  
 क्रमागतैः स्व-संज्ञाभिः  
 ब्राह्मणैर् आगमम् तु तत् । 
 
-C. also Visvaksena Samhitā XI. 146-147- 
+C. also Viṣvaksena Saṃhitā XI. 146-147- 
 
 > वसुदेवः परा मूर्तिस्  
 स्थापनीया द्विजोत्तमैः ।  
-द्वितियः स्थाप्यते मूर्तिः  
-क्षत्रियैर् मोक्षकङ्षिभिः ॥ 
+द्वितिया स्थाप्यते मूर्तिः  
+क्षत्रियैर् मोक्ष-काङ्क्षिभिः ॥  
 प्रद्युम्नाख्या तु विप्रेन्द्र  
-वैश्यैस्स्थाप्या मुमुक्सुभिः  
+वैश्यैस् स्थाप्या मुमुक्षुभिः  
 शूद्रैस् संस्थाप्यते मूर्तिर्  
-अनिरुद्धो जगद्गुरुः ॥
+अनिरुद्धो जगद्-गुरुः ॥
 </details>
 
+<details><summary>मूलम्</summary>
+
+तत्र संव्यवहारार्थं जीव-शब्दः प्रयुज्यते ॥  
+वर्णानाम् आनुलोम्येन पूज्य-भेद-प्रसिद्धये ।  
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -294,6 +287,10 @@ C. also Visvaksena Samhitā XI. 146-147-
 It is as they say: "The four vyūhas are to be worshipped successively by the four varṇas successively." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified. 
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -304,12 +301,6 @@ It is as they say: "The four vyūhas are to be worshipped successively by the fo
 
 इति, 
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-To be identified. 
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -351,6 +342,10 @@ Birth is described as the acquisition of various bodies, as is said in the state
 [211]: toyena jīvān visasarja bhūmyām, MahānārUp., 1.4.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Taittirīya Āraṇyaka X-i-1b; also Mahānārāyaṇa I-4b.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -359,12 +354,6 @@ Birth is described as the acquisition of various bodies, as is said in the state
 तोयेन जीवान् इत्य् एतद्  
 यजुर्-मूर्ध्नि यथा वचः ॥
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-Taittiriya Aranyaka X - i-1b; also Mahānārāyana I - 4b. 
-</details>
-
 
 #### निर्वाह-सूत्रान्तरम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -389,15 +378,16 @@ Besides, the Author of the Sūtras has already discarded the śruti, smṛti and
 [212]: BrS. 2.3.16 (17). Translation: "A word descriptive of moving or unmoving beings, has not a secondary meaning [in referring to Brahman], because such a being's existence depends on Brahman's existence."
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अपि च ... Here Yāmuna points out the discrepancy in Śaṅkara's division of the Brahmasūtra into Adhikaraṇas. According to Śaṅkara, the aphorism “carācaravyapāśrayastu” etc., forms another topic (adhikaraṇa). He argues that the origination of the jīva is not of primary significance. But according to Yāmuna, this point has already been clarified by the sūtra : *nātmā śruteḥ”, etc., so much so that the sūtra “carācara” etc., becomes redundant and thus becomes “anadhikaraṇīya”, that is to say that it does not deserve treatment as a separate topic.
+
+चराचर ... Brahmasūtra II. iii. 17.
+</details>
 
 <details><summary>मूलम्</summary>
 
 अपि च जीवोत्पत्ति-प्रलयादि-गोचराः श्रुति-स्मृति-लोक-वादाः "चराचर-व्यपाश्रयस् तु स्यात् तद्-व्यपदेशो भाक्तस् तद्भाव-भावित्वात्" इत्य्-अत्रैव सूत्रकारेण कृत-निर्वाहाः ॥
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-† Here Yamuna points out the discrepancy in Sankara's division of the Brahmasutra into Adhikaraņas. According to Sankara, the aphorism "cara- caravyapāśrayastu " etc., forms another topic ( adhikarana). He argues that the origination of the jiva is not of primary significance. But according to Yamuna, this point has already been clarified by the sutra- "nātmā śruteḥ ", etc., so much so that the sutra "caracara" etc., becomes redundant and thus becomes "anadhikaraṇīya", that is to say that it does not deserve treatment as a separate topic. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -428,6 +418,10 @@ an issue which does not need being made a topic would then be made a topic.
 [213]: BrS., 2.3.17 (18). Translation: "The ātman is not born because there is no śruti to that effect, and because of its eternality, which is proved by the śrutis."
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid. II. iii. 18.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -435,10 +429,10 @@ an issue which does not need being made a topic would then be made a topic.
 न पुनर् उपन्यासं प्रयोजयतीति अनधिकरणीयम् अधिकरणम् आपद्येत । 
 </details>
 
-### न च कर्त्तुः करणम्
+### न च कर्तुः करणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतेन "न च कर्त्तुः करणम्" इति सूत्रं व्याख्यातम् । 
+एतेन "न च कर्तुः करणम्" इति सूत्रं व्याख्यातम् । 
 </details>
 
 <details><summary>Buitenen</summary>
@@ -450,10 +444,14 @@ an issue which does not need being made a topic would then be made a topic.
 [214]: BrS, 2.2.43.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid. II. ii 40.
+</details>
 
 <details><summary>मूलम्</summary>
 
-एतेन "न च कर्त्तुः करणम्" इति सूत्रं व्याख्यातम् । 
+एतेन "न च कर्तुः करणम्" इति सूत्रं व्याख्यातम् । 
 </details>
 
 
@@ -500,6 +498,18 @@ For we have already stated that these names solely refer to the persons who uper
 OBJECTION. Then why this sūtra at all? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+† Cf. Śaṅkara on II-ii-43- 
+
+> न च कर्तुः करणम् । इतश् चासङ्गतैषा कल्पना —  यस्मान् न हि लोके कर्तुर् देवदत्तादेः करणं परश्व्-आद्य् उत्पद्यमानं दृश्यते । वर्णयन्ति च भागवताः 
+>
+>> कर्तुर् जीवात् सङ्कर्षण-संज्ञकात् करणं मनः प्रद्युम्न-संज्ञकम् उत्पद्यते, कर्तृजाच् च तस्माद् अनिरुद्ध-संज्ञको ऽहंकार उत्पद्यत 
+>
+> इति । न चैतद्-दृष्टान्तम् अन्तरेणाध्यवसातुं शक्नुमः । न चैवंभूतां श्रुतिम् उपलभामहे ॥ ४३ ॥
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 किम् इति वा कर्तुः करणं नोत्पद्यते ?
@@ -523,25 +533,6 @@ OBJECTION. Then why this sūtra at all?
 देवदत्तादेः कर्तुः परशु-प्रभृति-करणोत्पत्त्यदर्शनाद् इति चेत्, 
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-† Cf. Sankara on IIii-43- 
-
-> “न च कर्तुः करणम् । इतश् चासङ्गतैषा कल्पना —  
-यस्मान् न हि लोके  
-कर्तुर् देवदत्तादेः  
-करणं परश्व्-आद्य् उत्पद्यमानं दृश्यते।  
-वर्णयन्ति च भागवताः कर्तुर् जीवात् सङ्कर्षण-संज्ञकात्  
-करणं मनः प्रद्युम्नसंज्ञकम् उत्पद्यते,  
-कर्तृजाच् च तस्माद्  
-अनिरुद्ध-संज्ञको ऽहंकार उत्पद्यत इति।  
-न
-चैतद्-दृष्टान्तम् अन्तरेणाध्यवसातुं शक्नुमः।  
-
-न चैवंभूतां श्रुतिम् उपलभामहे ॥ ४३ ॥
-</details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हन्त हतस् तर्हि  अपगत-सकल-करण-कलाप--स्व-महिम-प्रतिष्ठ-ब्रह्मणः  
@@ -559,6 +550,10 @@ REFUTATION. Well, then you reject the general view that all instruments, vital a
 [215]: Muṇḍ Up., 2.1.3.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Muṇḍakopaniṣat II-i-3.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -579,6 +574,14 @@ REFUTATION. Well, then you reject the general view that all instruments, vital a
 Or if you do agree on this because it is clearly proved in Revelation, I ask you why you don't agree on it because it is clearly proved in Pañcaratra. 
 </details>
 
+
+<details><summary>नरसिंहः</summary>
+
+Yāmuna here pleads for the validity of the Pāñcarātrāgamas on the ground that they, like the Vedas, are based upon knowledge that is free from all defects. Cf. the inferential statement made by Yāmuna above:
+
+> vivādādhyāsitaṁ tantraṁ pramāṇam iti gṛhyatām ।  
+nirdoṣajñānajanmatvāt jyotiṣṭomādivākyavat ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -608,15 +611,6 @@ It is not a very proper procedure to deny things that are proved by smṛti; sin
 निर्दोष-ज्ञान-जन्मत्वात् प्रामाण्यं हि समं द्वयोः ॥  
 </details>
 
-
-<details><summary>नरसिंहः</summary>
-
-Yamuna here pleads for the validity of the Pañcaratragamas on the ground that they, like the Vedas, are based upon knowledge that is free from all defects. Cf. the inferential statement made by Yamuna above - १५ 
-
-vivādādhyāsitam tantram pramāṇamiti gṛhyatām ।  
-nirdoṣajñānajanmatvāt jyotiṣṭomādivākyavat 
-</details>
-
 ## व्यूह-रूप-भगवत्त्वय् उत्पत्ति-करण-सम्भवौ
 ### विज्ञानादि-भावे वा तद्-अप्रतिषेधः
 #### चतुर्धा-भाव उपपन्नः
@@ -637,6 +631,22 @@ Are these four equally and independently sovereign,
 or has one a quaternity of personalities which he has assumed at his own desire?  
 </details>
 
+
+<details><summary>नरसिंहः</summary>
+
+Cf. Śaṅkara on II. ii. 44. 
+
+> अत्रोच्यते — एवम् अपि,  
+**तद्-अप्रतिषेधः** उत्पत्त्य्-असम्भवस्याप्रतिषेधः, यदि तावद् अयम् अभिप्रायः — परस्पर-भिन्ना एवैते वासुदेवादयश् चत्वार ईश्वरास् तुल्य-धर्माणः, नैषाम् एकात्मकत्वम् अस्तीति; ततो ऽनेकेश्वर-कल्पनाऽनर्थक्यम् , एकेनैवेश्वरेणेश्वर-कार्य-सिद्धेः।
+>
+> सिद्धान्त-हानिश् च, भगवान् एवैको वासुदेवः परमार्थ-तत्त्वम् इत्य् अभ्युपगमात् ।
+>
+> अथा ऽयम् अभिप्रायः —  
+> 
+>> एकस्यैव भगवत एते चत्वारो व्यूहास् तुल्य-धर्माण 
+> 
+> इति, तथापि तद्-अवस्थ एवोत्पत्त्य्-असम्भवः। न हि वासुदेवात् सङ्कर्षणस्योत्पत्तिः सम्भवति, सङ्कर्षणाच् च प्रद्युम्नस्य, प्रद्युम्नाच् चानिरुद्धस्य, अतिशयाभावात्। भवितव्यं हि कार्यकारणयोर् अतिशयेन, यथा मृद्-घटयोः। न ह्य् असत्य् अतिशये, कार्यं कारणम् इत्य् अवकल्पते। न च पञ्च-रात्र-सिद्धान्तिभिः वासुदेवादिष्व् एकस्मिन् सर्वेषु वा ज्ञानैश्वर्यादि-तारतम्य-कृतः कश्चिद् भेदो ऽभ्युपगम्यते। वासुदेवा एव हि सर्वे व्यूहा निर्विशेषा इष्यन्ते। न चैते भगवद्-व्यूहाश् चतुः-सङ्ख्यायाम् एवावतिष्ठेरन् , ब्रह्मादि-स्तम्ब-पर्यन्तस्य समस्तस्यैव जगतो भगवद्-व्यूहत्वावगमात् ॥ ४४ ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -686,43 +696,14 @@ or has one a quaternity of personalities which he has assumed at his own desire?
 [216]: BrS., 2.2.44.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Brahmasūtra-II-ii-41.
+</details>
+
 <details><summary>मूलम्</summary>
 
 "विज्ञानादि-भावे वा तद्-अप्रतिषेधः" इति । 
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-$ Cf. Sankara on II. ii. 44. 
-
-> अत्रोच्यते — एवम् अपि,  
-**तद्-अप्रतिषेधः** उत्पत्त्य्-असम्भवस्याप्रतिषेधः,  
-…  
-> 
-> परस्पर-भिन्ना एवैते वासुदेवादयश् चत्वार ईश्वरास् तुल्य-धर्माणः,  
-नैषाम् एकात्मकत्वम् अस्तीति;  
-ततो ऽनेकेश्वर-कल्पनाऽनर्थक्यम् ,  
-एकेनैवेश्वरेणेश्वर-कार्यसिद्धेः।
->
-> सिद्धान्तहानिश्च,  
-भगवान् एवैको वासुदेवः परमार्थ-तत्त्वम् इत्य् अभ्युपगमात् ।
->
-> अथा ऽयम् अभिप्रायः —  
-> 
-> > एकस्यैव भगवत एते चत्वारो व्यूहास् तुल्य-धर्माण 
-> 
-> इति,  
-तथापि तद्-अवस्थ एवोत्पत्त्यसम्भवः।  
-न हि वासुदेवात् सङ्कर्षणस्योत्पत्तिः सम्भवति,  
-सङ्कर्षणाच् च प्रद्युम्नस्य,  
-प्रद्युम्नाच् चानिरुद्धस्य, अतिशयाभावात्।  
-भवितव्यं हि कार्यकारणयोर् अतिशयेन, यथा मृद्घटयोः।  
-न ह्य् असत्य् अतिशये,  
-कार्यं कारणम् इत्य् अवकल्पते।  
-वासुदेवा एव हि  
-सर्वे व्यूहा निर्विशेषा इष्यन्ते।  
-न चैते भगवद्-व्यूहाश् चतुः-संख्यायाम् एवावतिष्ठेरन् ,  
-ब्रह्मादि-स्तम्ब-पर्यन्तस्य समस्तस्यैव जगतो भगवद्-व्यूहत्वावगमात् ॥ ४४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -755,6 +736,12 @@ REFUTATION. That is not correct, because an alternative is impossible.
 For no one who holds that there is a God theorizes that the world has several Gods, least of all the Pāñcarātrikas who hold that "Vāsudeva is the ultimate material cause". 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Ahirbudhnya Saṁhitā V-28a:
+
+> भगवान् वासुदेवः स परमा प्रकृतिश् च सा ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -774,39 +761,34 @@ But this one Bhagavān, who has divided Himself into four for reasons of sport, 
 </details>
 
 
+<details><summary>नरसिंहः</summary>
+
+Cf. ibid. śls. 21b-24- 
+
+> तत्र ज्ञानमयत्वेन  
+देवस् संकर्षणो बली ॥  
+व्यनक्त्य् ऐकान्तिकं मार्गं  
+भगवत्-प्राप्ति-साधनम् ।  
+वीर्यैश्वर्यमयो देवः  
+प्रद्युम्नः पुरुषोत्तमः ॥  
+स्थितः शास्त्रार्थ-भावेन  
+भगवत्-प्राप्ति-वर्त्मना ।  
+शास्त्रार्थस्य फलं यत् तद्  
+भगवत्-प्राप्ति-लक्षणम् ॥  
+प्रापयत्य् अनिरुद्धस् सन्  
+साधकान् पुरुषोत्तमः ।  
+शास्त्र-शास्त्रार्थ-तत्-साध्य-  
+फल-निर्वाहका इमे ॥ 
+
+Cf. Philosophy of Viśiṣṭādvaita, p. 156- 
+
+> Vasudeva, the perfect self, manifests Himself in the interests of the meditational needs of the devotee, as Saṅkarṣaṇa with the two qualities of jñāna and bala, as Pradyumna with the qualities of aiśvarya and vīrya, and as Aniruddha with Śakti and Tejas without any diminution of Divinity. 
+</details>
+
 <details><summary>मूलम्</summary>
 
 किन्तु स एव भगवान् लीला-विरचित-चतुर्भेदः सकलम् अपि जगत् संरक्षतीति ।
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-* Cf. Ahirbudhnya Samhita V-28a-  
-'भगवान् वासुदेवः स परमा प्रकृतिश्च सा ।'  
-
-$ Cf. ibid. śls. 21b-24- 
-" तत्र ज्ञानमयत्वेन  
-देवस्संकर्षणो बली ॥  
-व्यनक्त्यैकान्तिकं मार्गं  
-भगवत्प्राप्तिसाधनम् ।  
-वीर्यैश्वर्यमयो देवः  
-प्रद्युम्नः पुरुषोत्तमः ॥  
-स्थितः शास्त्रार्थभावेन  
-भगवत्प्राप्तिवर्त्मना ।  
-शास्त्रार्थस्य फलं यत्तद्  
-भगवत्प्राप्तिलक्षणम् ॥  
-प्रापयत्य् अनिरुद्धस् सन्  
-साधकान् पुरुषोत्तमः ।  
-शास्त्रशास्त्रार्थतत्साध्य-  
-फल-निर्वाहका इमे ॥ 
-"
-
-Cf. Philosophy of Visistādvaita, p. 156- 
-99 
-"Vasudeva, the perfect self, manifests Himself in the interests of the meditational needs of the devotee, as Sankarṣaṇa with the two qualities of jñāna and bala, as Pradyumna with the qualities of aiśvarya and virya, and as Aniruddha with Sakti and Tejas without any diminution of Divinity ". 
-
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
