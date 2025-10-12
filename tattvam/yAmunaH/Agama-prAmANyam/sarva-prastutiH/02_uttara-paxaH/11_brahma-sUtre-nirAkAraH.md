@@ -825,37 +825,36 @@ For just as the Bhagavān, who has created the variety of phenomena of ether, Wi
 [[83]]
 </details>
 
+<details><summary>नरसिंहः</summary>
 
+CJ. Sāttvata Saṁhitā IV. 33-34- 
+
+> यथाम्बर-स्थस् सविता  
+त्वेक एव महा-मते ।  
+जलाश्रयाणि चाश्रित्य  
+बहुत्वं सम्प्रदर्शयेत् ।  
+एवम् एको ऽपि भगवान्  
+नाना-मन्त्राश्रयेषु च ।  
+तुर्यादि-पद-संस्थेषु  
+बहुत्वम् उपयाति च ॥ +++(5)+++  
+
+The cause behind the manifestation of the Lord into different forms is His mere sport ( krīḍā or līlā) and the purpose of this manifestation is protection for the good. 
+
+Cf. Ahirbudhnya Saṁhitā ch. 36 Śls. 64, 65. 
+
+> प्रतित्रेतायुगं देवः  
+साधु-त्राण-कृते इरिः ।  
+राम-लक्ष्मण-शत्रुघ्न-  
+भरताद्य् आत्मना स्वयम् ॥  
+चतुर्धा ऽवस्थितस् तद्वत्  
+चक्रात्मा हरिर् एव हि ।  
+गुण-प्रधान-भावस् तु  
+रामादेर् इव युज्यते ॥ 
+</details>
 
 <details><summary>मूलम्</summary>
 
 न चेदमनुपपन्नं बल-भारतावरजाग्रजादिप्रादुर्भाववदुपपत्तेः, यथैव हि भगवतः स्वलीलाविरचितगगन-पवन-हर-विरिञ्च्यादिप्रपञ्चस्य अचिन्त्यमहिमलीलैकप्रयोजनस्य राम-लक्ष्मण-भरत-शत्रुघ्नादिस्वच्छन्दा विग्रहा न विरोत्स्यन्ते एवं सङ्कर्षणप्रद्युम्नादिभेदा इति ।  
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-CJ. Sattvata Samithitā IV. 33-34- 
-यथाम्बरस्थस् सविता  
-त्वेक एव महामते ।  
-जलाश्रयाणि चाश्रित्य  
-बहुत्वं संप्रदर्शयेत् ।  
-एवम् एकोऽपि भगवान्  
-नानामन्त्राश्रयेषु च ।  
-तुर्यादि-पद-संस्थेषु  
-बहुत्वम् उपयाति च ॥ " +++(5)+++  
-
-The cause behind the manifestation of the Lord into different forms is His mere sport ( krīḍā or lilā) and the purpose of this manifestation is protection for the good. 
-
-Cf. Ahirbudhnya Samhitā ch. 36 Śls. 64, 65. 
-
-> " प्रतित्रेतायुगं देवः  
-साधुत्राणकृते इरिः ।  
-रामलक्ष्मणशत्रुघ्न-  
-भरताद्यात्मना स्वयम् ॥  
-चतुर्धावस्थितस् तद्वत्  
-चक्रात्मा हरिरेव हि ।  
-गुणप्रधानभावस्तु  
-रामादेरिव युज्यते ॥ 
 </details>
 
 ## शब्द-विप्रतिषेधो न
@@ -875,33 +874,33 @@ or "because of mutual conflict between the Tantras themselves".
 [217]: BrS., 2.2.45.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Brahmasūtra- II-ii-42. The reading found in the Śrībhāṣya and Śāṅkarabhāṣya is- 'विप्रतिषेधाच् च'. But Yāmuna, throughout has it as 'विप्रतिषेधात्'. 
+
+Cf. Śaṅkara on II-ii-45 - 'विप्रतिषेधाच् च'
+
+> विप्रतिषेधश् च +अस्मिन् शास्त्रे बहु-विध उपलभ्यते —  
+गुण-गुणित्व-कल्पनादि-लक्षणः।  
+>
+>> ज्ञानैश्वर्य-बल-वीर्य-तेजांसि गुणाः, आत्मान एवैते, भगवन्तो वासुदेवा 
+>
+> इत्य्-आदि-दर्शनात्।  
+> 
+> वेद-विप्रतिषेधश् च भवति —  
+> 
+>> चतुर्षु वेदेषु परं श्रेयो ऽलब्ध्वा शाण्डिल्य इदं शास्त्रम् अधिगतवान् 
+> 
+> इत्य्-आदि-वेद-निन्दा-दर्शनात्।  
+
+तस्मात् असङ्गतैषा कल्पनेति सिद्धम् ॥ ४५ ॥
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 यत्परं विप्रतिषेधात् इति चतुर्षु वेदेषु इति श्रुतिविप्रतिषेधात् तन्त्राणां परस्परविप्रतिषेधाद्वा ।  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-+ Brahmasutra- II-ii-42. The reading found in the Sribhāsya and San katabhāsya is- 'विप्रतिषेधाच्च. But Yamuna, throughout has it as 'विप्रतिषेधात् '. 
-
-Shankara on II-ii-42 -
-
-> विप्रतिषेधश् च +अस्मिन् शास्त्रे बहुविध उपलभ्यते —  
-गुण-गुणित्व-कल्पनादि-लक्षणः।  
-ज्ञानैश्वर्य-शक्ति-बल-वीर्य-तेजांसि गुणाः,  
-आत्मान एवैते, भगवन्तो वासुदेवा इत्य्-आदि-दर्शनात्।  
-> 
-> वेद-विप्रतिषेधश् च भवति —  
-> 
-> > चतुर्षु वेदेषु परं श्रेयोऽलब्ध्वा  
-शाण्डिल्य इदं शास्त्रम् अधिगतवान् 
-> 
-> इत्यादिवेद-निन्दा-दर्शनात्।  
-तस्मात् असङ्गतैषा कल्पनेति सिद्धम् ॥ ४५ ॥
-
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -931,6 +930,12 @@ The former alternative, incompatibility with Revelation has already been refuted
 Mutual conflict between the Pañcarātra Tantras themselves, whose terminological precision has been perfected by the rules of logic governing principal matter, generality, peculiarity, quality and the like, does not exist. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘प्रधान-गुण-न्यायः’ = अङ्गाङ्गि-भावः; ‘सामान्य-विशेष-न्यायः’ = छाग-पशु-न्यायः।
+
+वचन-व्यक्तीनां = वचनान्वय-क्रमाणाम्।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -961,23 +966,23 @@ as the maxim says:
 > "A statement must have precision perfected by logic before it can communicate its meaning." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The source is yet to be identified. This verse, however, is quoted in full by Sudarśani, in his commentary on the Śrībhāṣya, I-i-1; pp. 168-169- 
+
+> पद-जातं श्रुतं सर्वं स्मारितानन्वितार्थकम् । 
+न्याय-सम्पादित-व्यक्ति पश्चाद् वाक्यार्थ-बोधकम् ॥ 
+
+Vedāntadeśika too quotes this in his Nyāyapariśuddhi, p.151. 
+</details>
 
 <details><summary>मूलम्</summary>
 
-न्यायानुग्रहरहितानान्तु वचसां न क्वचिदपि परिनिश्चायकत्वम्, 
+न्यायानुग्रहरहितानान्तु वचसां न क्वचिदपि परिनिश्चायकत्वम्,यथा ऽह —
+
+> न्याय-सम्पादित-व्यक्ति  
+पश्चाद्-वाक्यार्थ-बोधकम्॥ 
 </details>
-
-
-<details><summary>नरसिंहः</summary>
-
-f The source is yet to be identified. This verse, however, is quoted in full by Sudarśani, in his commentary on the Sribhāsya, I-i-1; pp. 168-169- 
-
-पदजातं श्रुतं सर्वं स्मारितानन्वितार्धकम् । 
-न्यायसम्पादितव्यक्ति पश्चाद्वाक्यार्थबोधकम् ॥ 
-
-Vedantadeśika too quotes this in his Nyayapariśuddhi, p.151. 
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1000,14 +1005,14 @@ explain that the sūtra means to reject the Pañcaratra Tantras.
 Enough.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+इदं ... Mahābhārata, Sānti, ch. 326.100. 
+
+'अविशेषेण' समानतया इत्य् अर्थः । 
+</details>
 
 <details><summary>मूलम्</summary>
 
 तस्मात् सूत्रकारेण इदं महोपनिषदम् इत्यादिवचनैर्वेदेभ्योविशेषेणाभिमततरप्रामाण्येषु पञ्चरात्रतन्त्रेष्वविद्यमानजीवोत्पत्तिप्रतिपादनाध्यारोपेण तन्निराकरणपरतया सूत्रं व्याख्यायमानं व्याख्यातॄणामेवाख्यातिं ख्यापयतीत्यलं प्रबन्धेन ।
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-8 Mahābhārata, Sānti, ch. 326.100.  
-' अविशेषेण' समानतया इत्यर्थः । 
 </details>
