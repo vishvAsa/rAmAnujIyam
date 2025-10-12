@@ -1454,11 +1454,24 @@ So also my ācārya , who is compassionate, is capable of making me attain Thee,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उक्त्या +++("सर्वधर्मान् …"→)+++धनञ्-जय--+++("सकृद् एव …"→)+++विभीषण-लक्ष्यया ते  
+**उक्त्या** +++("सर्वधर्मान् …"→)+++धनञ्-जय--+++("सकृद् एव …"→)+++विभीषण-लक्ष्यया ते  
 **प्रत्याय्य** लक्ष्मण-मुनेर् भवता **वितीर्णम्** +++(शरणागति-गद्ये)+++।  
 **श्रुत्वा** वरं तद्-अनुबन्ध-**मदावलिप्ते**  
 नित्यं **प्रसीद** भगवन् मयि रङ्गनाथ ॥ २२॥
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+इदम् आदाय केचिद् काञ्च्य्-अण्णङ्गरार्यनिभाः ऊचुः -  
+
+> वेङ्कटनाथार्यो ऽपि रामानुजसम्बन्धेनालम् इति चिन्तयाम् आस।  
+ततः प्रपत्तिर् न कार्या। 
+
+देशिकोक्त्यन्तरेणेदम् मतम् परास्तम् एव।  
+न चात्र मूले प्रसादमात्रेण मोक्षदानं सूच्यते -  
+कामं प्रपत्तिप्रयोग-गत-क्षुद्र-दोष-क्षमाभिप्रायो ऽस्तु। 
+</details>
+
 
 <details><summary>रामस्वामी (En)</summary>
 
@@ -1470,7 +1483,7 @@ The first half of the sloka is an obvious reference to the concluding portion of
 
 Knowing all this, Desika says to the Lord, I boldly come before you and pray that you may be my protector, because of my connection with Ramanuja. உடையவர் சம்பந்தம் is highly valued by all Srivaishnavaites. There is one school of thought, however, which seems to suggest that that sambandham alone is enough to secure moksha, and it is utterly needless to perform bhakti or prapatti. The adherents of that school of thought may be right or may be wrong. But this sloka of Desika lends no support to them. Alavandar wound up his Stotra Ratna with the prayer “Please look at Nathamunigal and favour me on the ground that I am his grandson and disciple’s desciple’s desciple’s desciple, without considering my qualifications and conduct.” He had already performed prapatti ;in sloka 22 in the words அகிஞ்சந : அநந்யகதி: சரண்ய! த்வத்பாதமூலம் சரணம் ப்ரபத்யே. In sloka 65 the last sloka referred to above he is only presenting a further and additional qualification. Desika likewise having become a prapanna as per the earlier slokas expresses an intense feeling of satisfaction at his possessing Ramanuja sambhandha, which in view of the Lord’s own words addressed to Ramanuja gives him an addd sense of security, he is already a prapanna through the grace of his own Acharya, Atreya Ramanuja.
 
-The anubandha with Ramanujareferred to here does not fully satisfy Desika. He has obtained through drama what he did not get in actual life, immediate and ஸாக்ஷாத் ஸம்பந்தம் with Ramanuja, in his famous classical drama Sankalapa Suryodhayam, he realises his heart’s desire by portraying Ramanuja as the Acharya and himself as his direct disciple (canto 11)
+The anubandha with Ramanuja referred to here does not fully satisfy Desika. He has obtained through drama what he did not get in actual life, immediate and ஸாக்ஷாத் ஸம்பந்தம் with Ramanuja, in his famous classical drama Sankalapa Suryodhayam, he realises his heart’s desire by portraying Ramanuja as the Acharya and himself as his direct disciple (canto 11)
 
 As in sloka 3 ante where Krishna was put before Rama, யது ரகு துரீண here also தனஞ்சய விபீஷண is the order. The saying to Arjuna is put before the declaration at the time of Vibheeshana saranagati. The words மாசு ச: must have weighed with Desika.
 
