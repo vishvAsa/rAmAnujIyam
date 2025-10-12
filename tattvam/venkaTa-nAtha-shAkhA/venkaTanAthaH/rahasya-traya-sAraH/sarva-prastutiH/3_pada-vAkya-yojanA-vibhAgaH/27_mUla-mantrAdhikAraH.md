@@ -21662,7 +21662,7 @@ Su **ser** la causa del jīva **adoptando** el sādhyopaya (bhakti o prapatti),
 साध्योपायहेतुत्वम्, 
 </details>
 
-
+#### दण्डः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुति-स्मृति-रूपाज्ञावत्वम्, 
@@ -21688,12 +21688,477 @@ Sus órdenes **expresadas** en los śrutis y smṛtis,
 श्रुतिस्मृतिरूपाज्ञावत्वम्, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दण्ड-धरत्वम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+दण्ड-धरत्वम्
+</details>
+
+<details><summary>English</summary>
+
+His **being** the ruler who **punishes** (the evil doer), 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** el gobernante que **castiga** (al **malhechor**),
+</details>
+
+<details><summary>मूलम्</summary>
+
+दण्डधरत्वम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-समत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-समत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+His equal treatment of all, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **trato** igualitario a todos, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वसमत्वम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आश्रित-पक्ष-पातित्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आश्रित-पक्ष-पातित्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being** sympathetic to those who **seek** His help, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** comprensivo con aquellos que **buscan** Su **ayuda**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+आश्रितपक्षपातित्वम्, 
+</details>
+
+#### माया
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-विद्यादि-हेतुत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-विद्यादि-हेतुत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+His **being** the cause of avidyā and the like, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** la causa de avidyā y cosas por el estilo,
+</details> 
+
+<details><summary>मूलम्</summary>
+
+अविद्यादिहेतुत्वम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-विद्याद्य्-अनर्हत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-विद्याद्य्-अनर्हत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His being incapable of avidyā and the like (karma ), 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser incapaz** de avidyā y cosas similares (karma),
+</details>
+
+<details><summary>मूलम्</summary>
+
+अविद्याद्यनर्हत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आश्रिताविद्या-निवर्तकत्वम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आश्रिताविद्या-निवर्तकत्वम्
+</details>
+
+<details><summary>English</summary>
+
+His **readiness** to **dispel** avidyā (ignorance) of those who have **sought** His protection (48), 
+</details>
+
+<details><summary>Español</summary>
+
+Su **disposición** para **disipar** avidyā (ignorancia) de aquellos que **han buscado** Su protección (48), 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+आश्रिताविद्यानिवर्तकत्वम्
+</details>
+
+#### निर्विकारता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-रूपान्यथा-भाव-राहित्यम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-रूपान्यथा-भाव-राहित्यम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being** free from any **change** in His essential nature, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** libre de cualquier **cambio** en Su naturaleza esencial, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वरूपान्यथाभावराहित्यम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-भावान्यथा-भाव-राहित्यम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-भावान्यथा-भाव-राहित्यम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being** free from any **change** in His character or qualities, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** libre de cualquier **cambio** en Su carácter o cualidades, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वभावान्यथाभावराहित्यम्, 
+</details>
+
+
+#### जगन्-निर्वाहः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-नेतृत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-नेतृत्वम्, 
+</details>
+
+
+<details><summary>English</summary>
+
+His readiness to lead all (the jīvas) to the attainment of Himself, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **disposición** para **guiar** a todos (los jīvas) al **logro** de Sí mismo, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वनेतृत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-जगद्-व्यापार-लीलत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-जगद्-व्यापार-लीलत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+the creation maintenance and destrnction of the world being His līlā or sportive activity (52), 
+</details>
+
+<details><summary>Español</summary>
+
+la **creación**, el **mantenimiento** y la **destrucción** del mundo son Su līlā o actividad deportiva (52), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वजगद्व्यापारलीलत्वम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-वेदान्त-प्रधान-प्रतिपाद्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-वेदान्त-प्रधान-प्रतिपाद्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His being the principal subject of all Vedānta (Upaniṣads), 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** el sujeto principal de todos los Vedānta (Upaniṣads), 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्ववेदान्तप्रधानप्रतिपाद्यत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वोपादानत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वोपादानत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being** the material cause of everything, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** la causa material de todo, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वोपादानत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-निमित्तत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-निमित्तत्वम्,
+</details>
+ 
+<details><summary>English</summary>
+
+His **being** the instrumental cause of everything, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** la causa instrumental de todo, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वनिमित्तत्वम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्य-सङ्कल्पत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सत्य-सङ्कल्पत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+the **irresistibility** of His will, 
+</details>
+
+<details><summary>Español</summary>
+
+la **irresistibilidad** de Su voluntad, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सत्यसङ्कल्पत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-शरीरित्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-शरीरित्वम्,
+</details>
+
+<details><summary>English</summary>
+
+His **having** all (beings and things) as His body, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **tener** todos (seres y cosas) como Su cuerpo, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वशरीरित्वम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-शब्द-वाच्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-शब्द-वाच्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being denoted** by all words, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser denotado** por todas las palabras, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वशब्दवाच्यत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-कर्म-समाराध्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-कर्म-समाराध्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **adoration being performed** by means of all karma-s, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **adoración realizada** por medio de todos los karma-s, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वकर्मसमाराध्यत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-फल-प्रदत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-फल-प्रदत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His being the grantor of the fruits of all karma-s, 
+</details>
+
+<details><summary>Español</summary>
+
+**Siendo** el **otorgante** de los frutos de todos los karmas, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वफलप्रदत्वम्, 
+</details>
 
 
 we should reflect on the following qualities of His in principal and on other excellent traits connected with them:-  
 
 
-His being the ruler who punishes (the evil doer), His equal treatinent of all, His being sympathetic to those who seek His help, His being the cause of avidyā and the like, His being incapable of avidyā and the like (karma ), His readiness to dispel avidyā (ignorance) of those who have sought His protection (48), His being free from any change in His essential nature, His being free from any change in His character or qualities, His readiness to lead all (the jīvas) to the attainment of Himself, the creation maintenance and destrnction of the world being His līlā or sportive activity (52), His being the principal subject of all Vedānta (Upaniṣads), His being the material cause of everything, His being the instrumental cause of everything, the irresistibility of His will, His having all (beings and things) as His body, His being denoted by all words, His adoration being performed by deans of all karma s, His being the grantor of the fruits of all karma s, His being the kinsman to the jīva in every form, His universal pervasiveness, His unsurpassed subtleness, His being the support of everything. His being His own support, His being of the nature of satya, His being of the nature of jñāna, His infiniteness, His being of the nature of bliss, His being pure (and spotless) His possession of countless and unnamed attributes in His essential nature which has been defined by certain specific attributes like satyam, jñānam, ānantam, anandam, amalatvam, His having an eternal, divine and auspicious form, His having states like Para (the supreme) Vyūha and others, His incarnations being satya, (facts of history), His possession of His own svabhāva or nature even in the state of incarnation, His incarnations being free from the touch of prakṛti or matter, His incarnations not being the result of karma , His incarnations having no fixed or appointed time of occurrence, His incarnations being the overflow of multi. tudes of qualities which are to serve the purposes of those who seek succour (from Him), His being pure and fit for contemplation in all states, His having Lakṣmī as His companion in all states, His possession of divine ornaments, weapons, queen, abode, attendants, furniture, door-keepers, retinue, and the like (81), tha power which He has of causing the separation of the gross body from the self, His being the resting place of the jīvas for repose, His dispensation of special favours to all jīvas at that time, His lighting up of the opening of the Brahma Nadi for the entrance of the self, His enabling the self to enter it, His being the cause of the emergence of the self out of the opening of the Brahma nādi, the appointment by Him of Archis and other escort for the self, His leading the self through the gateway of the sun, His being the Cause of the self emerging out of the sphere (anda) of the material universe, His leading the self to the bank of the river Viraja, His being the cause of the separation of the subtle body from the self, His granting, to the self, of a transcendental (non-material) body, His being the cause of the self being welcomed and honoured by the divine Apsarases, His causing the self to enter the Brahmic fragrance and the like, His being the cause of the self being welcomed and honoured by the eternal süris and the released souls (muktas), the regard shown by Him up to the time when the self rises to the couch, His being the cause of the self enjoying perfect blies, His being the principal goal of attainment, His being responsible for all kinds of service rendered with the body, without the body[^93] and with more bodies than one, His possession of all objects of desire, His enjoyment of unsurpassed bliss, His being an object of upsurpassed enjoyment, His being an object of enjoyment in all forms, His being favourable, by His very nature, at all times, His bestowal to the self of bliss perfectly similar to His own, His inability to endure separation from thuse who seek succour from Him, and his being the cause of the self never returning to samsára. (108).
+His being the kinsman to the jīva in every form, His universal pervasiveness, His unsurpassed subtleness, His being the support of everything. His being His own support, His being of the nature of satya, His being of the nature of jñāna, His infiniteness, His being of the nature of bliss, His being pure (and spotless) His possession of countless and unnamed attributes in His essential nature which has been defined by certain specific attributes like satyam, jñānam, ānantam, anandam, amalatvam, His having an eternal, divine and auspicious form, His having states like Para (the supreme) Vyūha and others, His incarnations being satya, (facts of history), His possession of His own svabhāva or nature even in the state of incarnation, His incarnations being free from the touch of prakṛti or matter, His incarnations not being the result of karma , His incarnations having no fixed or appointed time of occurrence, His incarnations being the overflow of multi. tudes of qualities which are to serve the purposes of those who seek succour (from Him), His being pure and fit for contemplation in all states, His having Lakṣmī as His companion in all states, His possession of divine ornaments, weapons, queen, abode, attendants, furniture, door-keepers, retinue, and the like (81), tha power which He has of causing the separation of the gross body from the self, His being the resting place of the jīvas for repose, His dispensation of special favours to all jīvas at that time, His lighting up of the opening of the Brahma Nadi for the entrance of the self, His enabling the self to enter it, His being the cause of the emergence of the self out of the opening of the Brahma nādi, the appointment by Him of Archis and other escort for the self, His leading the self through the gateway of the sun, His being the Cause of the self emerging out of the sphere (anda) of the material universe, His leading the self to the bank of the river Viraja, His being the cause of the separation of the subtle body from the self, His granting, to the self, of a transcendental (non-material) body, His being the cause of the self being welcomed and honoured by the divine Apsarases, His causing the self to enter the Brahmic fragrance and the like, His being the cause of the self being welcomed and honoured by the eternal süris and the released souls (muktas), the regard shown by Him up to the time when the self rises to the couch, His being the cause of the self enjoying perfect blies, His being the principal goal of attainment, His being responsible for all kinds of service rendered with the body, without the body[^93] and with more bodies than one, His possession of all objects of desire, His enjoyment of unsurpassed bliss, His being an object of upsurpassed enjoyment, His being an object of enjoyment in all forms, His being favourable, by His very nature, at all times, His bestowal to the self of bliss perfectly similar to His own, His inability to endure separation from thuse who seek succour from Him, and his being the cause of the self never returning to samsára. (108).
 
 [^93]: Service without the body: Perhaps this should be taken to mean anubhava or experience.]
 
