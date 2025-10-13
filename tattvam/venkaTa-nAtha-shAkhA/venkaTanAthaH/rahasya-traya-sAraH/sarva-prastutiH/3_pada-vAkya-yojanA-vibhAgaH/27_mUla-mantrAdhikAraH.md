@@ -22155,6 +22155,7 @@ His being the grantor of the fruits of all karma-s,
 </details>
 
 
+
 we should reflect on the following qualities of His in principal and on other excellent traits connected with them:-  
 
 
