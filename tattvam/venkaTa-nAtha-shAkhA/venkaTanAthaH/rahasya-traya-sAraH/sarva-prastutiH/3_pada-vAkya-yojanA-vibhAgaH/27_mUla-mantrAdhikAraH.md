@@ -16846,7 +16846,7 @@ Nada **puede evitar** que esté dentro de ellos.
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-प्रतिघातानर्हत्वमिति । अणीयश्शब्दत्तिऱ्कु प्रतिघातानर्हत्वत्तिल् तात्पर्यमागैयालुम्, महतो महीयानित्यादिगळिल् विभुवागच् चॊल्लप्पट्ट भगवाऩुक्कु अणुपरिमाणवत्वम् बाधितमागैयालुम् विरोधमिल्लै यॆऩ्ऱु करुत्तु।
+प्रतिघातानर्हत्वमिति । अणीयश्शब्दत्तिऱ्कु प्रतिघातानर्हत्वत्तिल् तात्पर्यमागैयालुम्, महतो महीयानित्यादिगळिल् विभुवागच् चॊल्लप्पट्ट भगवाऩुक्कु अणुपरिमाणवत्त्वम् बाधितमागैयालुम् विरोधमिल्लै यॆऩ्ऱु करुत्तु।
 </details>
 
 
@@ -17999,7 +17999,7 @@ y que **son denotados** por la palabra nara.
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-इन्द स्वरूपतो नित्यत्वम् कार्यवर्गङ्गळिल् इल्लैये ऎऩ्ऩ वरुळिच्चॆय्गिऱार् प्रवाहत्तालेयादलिति । तथाच स्वरूपप्रयुक्त नित्यत्व प्रवाह प्रयुक्त नित्यत्वान्यतरवत्वमुपलक्ष्याकारमॆऩ्ऱदायिऱ्ऱु। 
+इन्द स्वरूपतो नित्यत्वम् कार्यवर्गङ्गळिल् इल्लैये ऎऩ्ऩ वरुळिच्चॆय्गिऱार् प्रवाहत्तालेयादलिति । तथाच स्वरूपप्रयुक्त नित्यत्व प्रवाह प्रयुक्त नित्यत्वान्यतरवत्त्वमुपलक्ष्याकारमॆऩ्ऱदायिऱ्ऱु। 
 </details>
 
 
@@ -18359,7 +18359,7 @@ Por lo tanto, **se llaman** nārāh
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-सम्बन्धङ्गळैक्काट्टुगिऱार् ईशितव्यतयेत्यादियाल्। ईशितव्यत्वम् - शेषत्वम्, धार्यत्वम् - तदधीनसत्ताकत्वम्, पोष्यत्वम् - तदधीनपोषणवत्वम्, नियाम्यत्वम् - तदधीनप्रवृत्तिमत्वम्, सृज्यत्वम् - उत्पाद्यत्वम्, प्रवेशः – अन्तस्सम्बन्धः, भरणम् - रक्षणम्, 
+सम्बन्धङ्गळैक्काट्टुगिऱार् ईशितव्यतयेत्यादियाल्। ईशितव्यत्वम् - शेषत्वम्, धार्यत्वम् - तदधीनसत्ताकत्वम्, पोष्यत्वम् - तदधीनपोषणवत्त्वम्, नियाम्यत्वम् - तदधीनप्रवृत्तिमत्वम्, सृज्यत्वम् - उत्पाद्यत्वम्, प्रवेशः – अन्तस्सम्बन्धः, भरणम् - रक्षणम्, 
 </details>
  
 
@@ -20468,7 +20468,7 @@ y también lo que **sea** difícil de **ver** con respecto a la propia naturalez
 </details>
 
 
-### भगवद्-गुणाः
+### नारायण-गुणाः
 
 <details><summary>English</summary>
 
@@ -21054,9 +21054,9 @@ que **han cometido delitos** (17),
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-सापराधघटनाद्यनुगुणविशेषणवत्वमिति ।  
+सापराधघटनाद्यनुगुणविशेषणवत्त्वमिति ।  
 सापराधर्गळाऩ जीवर्गळिऩ्  
-घटनम् आऩदु भगवद्-आश्रयणोपयुक्तम् आऩ पुरुषगारकृत्यम्। आदिपदत्ताले उपायविरोधिपापनिवर्तकत्वत्तिऱ्कुम् प्राप्तिविरोधिपापनिवर्तकत्वत्तिऱ्कुम् सङ्ग्रहम्। इवैगळुक् कनुगुणमाऩ विशेषणम् लक्ष्मीः, तद्वत्वमॆऩ्गै। रक्षकत्वमुम् रक्षकत्वोपयुक्तङ्गळाऩ इन्द पदिऩेऴु गुणङ्गळुमकारत्तिल् अनुसन्धेयङ्गळ्। 
+घटनम् आऩदु भगवद्-आश्रयणोपयुक्तम् आऩ पुरुषगारकृत्यम्। आदिपदत्ताले उपायविरोधिपापनिवर्तकत्वत्तिऱ्कुम् प्राप्तिविरोधिपापनिवर्तकत्वत्तिऱ्कुम् सङ्ग्रहम्। इवैगळुक् कनुगुणमाऩ विशेषणम् लक्ष्मीः, तद्वत्त्वमॆऩ्गै। रक्षकत्वमुम् रक्षकत्वोपयुक्तङ्गळाऩ इन्द पदिऩेऴु गुणङ्गळुमकारत्तिल् अनुसन्धेयङ्गळ्। 
 </details>
 
 
@@ -21665,12 +21665,12 @@ Su **ser** la causa del jīva **adoptando** el sādhyopaya (bhakti o prapatti),
 #### दण्डः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रुति-स्मृति-रूपाज्ञावत्वम्, 
+श्रुति-स्मृति-रूपाज्ञावत्त्वम्, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-श्रुति-स्मृति-रूपाज्ञावत्वम्, 
+श्रुति-स्मृति-रूपाज्ञावत्त्वम्, 
 </details>
 
 <details><summary>English</summary>
@@ -21685,7 +21685,7 @@ Sus órdenes **expresadas** en los śrutis y smṛtis,
 
 <details><summary>मूलम्</summary>
 
-श्रुतिस्मृतिरूपाज्ञावत्वम्, 
+श्रुतिस्मृतिरूपाज्ञावत्त्वम्, 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -22425,12 +22425,12 @@ Su **ser** puro (e inmaculado),
 ##### विशेषणान्तराणि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(सत्यत्वादि-)+++निरूपित--स्व-रूप-- विशेषणानुक्तानन्त-गुणवत्वम्, 
++++(सत्यत्वादि-)+++निरूपित--स्व-रूप-- विशेषणानुक्तानन्त-गुणवत्त्वम्, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-+++(सत्यत्वादि-)+++निरूपित--स्व-रूप-- विशेषणानुक्तानन्त-गुणवत्वम्, 
++++(सत्यत्वादि-)+++निरूपित--स्व-रूप-- विशेषणानुक्तानन्त-गुणवत्त्वम्, 
 </details>
 
 <details><summary>English</summary>
@@ -22448,18 +22448,18 @@ que **ha sido definido** por ciertos atributos específicos como satyam, jñāna
 
 <details><summary>मूलम्</summary>
 
-निरूपितस्वरूपविशेषणानुक्तानन्तगुणवत्वम्, 
+निरूपितस्वरूपविशेषणानुक्तानन्तगुणवत्त्वम्, 
 </details>
 
 #### विग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नित्य-दिव्य-मङ्गल-विग्रहवत्वम्, 
+नित्य-दिव्य-मङ्गल-विग्रहवत्त्वम्, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-नित्य-दिव्य-मङ्गल-विग्रहवत्वम्, 
+नित्य-दिव्य-मङ्गल-विग्रहवत्त्वम्, 
 </details>
 
 <details><summary>English</summary>
@@ -22474,18 +22474,18 @@ Su **tener** una forma eterna, divina y auspiciosa,
 
 <details><summary>मूलम्</summary>
 
-नित्यदिव्यमङ्गळविग्रहवत्वम्, 
+नित्यदिव्यमङ्गळविग्रहवत्त्वम्, 
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पर-व्यूहाद्य्-अवस्थावत्वम्, 
+पर-व्यूहाद्य्-अवस्थावत्त्वम्, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-पर-व्यूहाद्य्-अवस्थावत्वम्, 
+पर-व्यूहाद्य्-अवस्थावत्त्वम्, 
 </details>
 
 <details><summary>English</summary>
@@ -22500,7 +22500,7 @@ Su **tener** estados como Para (el supremo) Vyūha y otros,
 
 <details><summary>मूलम्</summary>
 
-परव्यूहाद्यवस्थावत्वम्, 
+परव्यूहाद्यवस्थावत्त्वम्, 
 </details>
 
 #### अवतारादि
@@ -23195,7 +23195,7 @@ Su **ser** la causa del **disfrute** de la felicidad perfecta,
 परिपूर्णानुभवहेतुत्वम्, 
 </details>
 
-
+#### कैङ्कर्य-दातृत्वादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रधान-प्राप्यत्वम्, 
@@ -23222,20 +23222,313 @@ Su **ser** la meta principal de **logro**,
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-we should reflect on the following qualities of His in principal and on other excellent traits connected with them:-  
+स-देह–विदेह–बहु-देह–कृत- सर्व-विध-कैङ्कर्य-प्रतिसम्बन्धित्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स-देह–विदेह–बहु-देह–कृत- सर्व-विध-कैङ्कर्य-प्रतिसम्बन्धित्वम्, 
+</details>
+ 
+<details><summary>English</summary>
+
+His **being responsible** for all kinds of service rendered with the body, without the body and with more bodies than one, 
+
+[Service without the body: Perhaps this should be taken to mean anubhava or experience.]+++(4)+++
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser responsable** de toda clase de **servicio prestado** con el cuerpo, sin el cuerpo y con más de un cuerpo, 
+
+[**Servicio** sin el cuerpo: Quizás esto **debería entenderse** como anubhava o **experiencia**.]+++(4)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
+सदेहविदेहबहुदेहकृतसर्वविधकैङ्कर्यप्रतिसम्बन्धित्वम्, 
+</details>
+
+#### भोग्यत्वादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवाप्त-समस्त-कामत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अवाप्त-समस्त-कामत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **possession** of all objects of desire, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **posesión** de todos los objetos de **deseo**, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवाप्तसमस्तकामत्वम्, 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-His **being** responsible for all kinds of service rendered with the body, without the body[^93] and with more bodies than one, His possession of all objects of desire, His enjoyment of unsurpassed bliss, His **being** an object of upsurpassed enjoyment, His **being** an object of enjoyment in all forms, His **being** favourable, by His very nature, at all times, His bestowal to the self of bliss perfectly similar to His own, His inability to endure separation from thuse who seek succour from Him, and his **being** the cause of the self never returning to samsára. (108).
+निरतिशयानन्दवत्त्वम्, 
+</details>
 
-[^93]: Service without the body: Perhaps this should be taken to mean anubhava or experience.]
+<details><summary>नीलमेघः (सं)</summary>
+
+निरतिशयानन्दवत्त्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **enjoyment** of unsurpassed bliss, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **disfrute** de una felicidad **insuperable**, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+निरतिशयानन्दवत्त्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निरतिशय-भोग्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+निरतिशय-भोग्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being** an object of **upsurpassed enjoyment**, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** un objeto de **disfrute superado**, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+निरतिशयभोग्यत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-प्रकार-भोग्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-प्रकार-भोग्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being** an object of enjoyment in all forms, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** un objeto de **disfrute** en todas sus formas, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वप्रकारभोग्यत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वदाऽनुकूल-स्वभावत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वदाऽनुकूल-स्वभावत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being** favourable, by His very nature, at all times, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** favorable, por Su propia naturaleza, en todo momento, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वदानुकूलस्वभावत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्यन्ततुल्य-भोग-प्रदत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्यन्ततुल्य-भोग-प्रदत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **bestowal** to the self of bliss  
+perfectly similar to His own, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **otorgamiento** al yo de la bienaventuranza  
+perfectamente similar a la suya, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्यन्ततुल्यभोगप्रदत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आश्रित-विश्लेषासहत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आश्रित-विश्लेषासहत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **inability** to **endure separation** from those who **seek succour** from Him, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **incapacidad** para **soportar la separación** de aquellos que **buscan socorro** de Él, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आश्रितविश्लेषासहत्वम्, 
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-पुनर्-आवृत्ति-हेतुत्वम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-पुनर्-आवृत्ति-हेतुत्वम् 
+</details>
+
+<details><summary>English</summary>
+
+and his **being** the cause of the self **never returning** to samsára. (108).
+</details>
+
+<details><summary>Español</summary>
+
+y su **ser** la causa del yo  
+**nunca regresar** al samsára. (108).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपुनरावृत्तिहेतुत्वम् 
+</details>
+
+#### उपसंहारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱ् इवै प्रधानम् आग  
+मऱ्ऱुम् इवऱ्ऱैत् तुवक्कि+++(=सम्बध्य)+++ वरुम् एऱ्ऱङ्गळुम् ऎल्लाम्  
+अडैवे+++(=क्रमशो)+++ अनुसन्धेयङ्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+\- we should reflect on the above qualities of His in principal  
+and on other excellent traits connected with them.
+
+</details>
+
+<details><summary>Español</summary>
+
+\- **deberíamos reflexionar** sobre las cualidades anteriores de Su en principio  
+y en otros rasgos excelentes **conectados** con ellos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱिवै प्रधानमाग मऱ्ऱुमिवऱ्ऱैत् तुवक्कि वरुमेऱ्ऱङ्गळुमॆल्लामडैवे अनुसन्धेयङ्गळ्।
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-इह सङ्ग्रहतश्श्रीमान् गोप्ता शेषी समाधिकदरिद्रः ।  
-शरणं सर्वशरीरी प्राप्यस्सेव्यश्च साधुभिर्भाव्यः ॥
+इह सङ्ग्रहतश् श्रीमान् +++(→"अ")+++  
+**गोप्ता**+++(→"४")+++  शेषी समाधिक-दरिद्रः +++(→"नमः")+++ ।  
++++("नारायण"→)+++ **शरणं** सर्व-शरीरी, +++("४"←)+++ **प्राप्यस्**  
+**सेव्यश्** च साधुभिर् **भाव्यः** ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इह सङ्ग्रहतश् श्रीमान् +++(→"अ")+++  
+**गोप्ता**+++(→"४")+++  शेषी समाधिक-दरिद्रः +++(→"नमः")+++ ।  
++++("नारायण"→)+++ **शरणं** सर्व-शरीरी, +++("४"←)+++ **प्राप्यस्**  
+**सेव्यश्** च साधुभिर् **भाव्यः** ॥
+</details>
+
+<details><summary>English</summary>
+
+(Thus) here in Tirumantra,  
+the Lord **is to be reflected upon** by good men  
+in a concise form (in the letter a) as the consort of Śrī (Lakṣmī)  
+and as the **Saviour** (in the dative or the fourth case whose affix **has been dropped**),  
+as the śeṣī, and as **destitute** of equals and superiors (in the word namas ),  
+as the upāya or means of **attaining** Him (in the word Nārāyaṇa), as the **in-dwelling** Self of all,  
+(and in the fourth case of that word) as the object of **attainment**  
+and as the Person to whom **service** is due.
+</details>
+
+<details><summary>Español</summary>
+
+(Así) aquí en Tirumantra,  
+el Señor **debe ser reflexionado** por hombres buenos  
+en forma concisa (en la letra a) como la consorte de Śrī (Lakṣmī)  
+y como el **Salvador** (en el dativo o en el cuarto caso cuyo afijo **se ha eliminado**),  
+como el śeṣī, y como **destituido** de iguales y superiores (en la palabra "namas"),  
+como el upāya o medio para **alcanzarlo** a Él (en la palabra "Nārāyaṇa"), como el Ser **residente** de todo,  
+(y en el cuarto caso de esa palabra) como el objeto de **logro**  
+y como la Persona a la que se debe **servicio**.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -23243,13 +23536,76 @@ His **being** responsible for all kinds of service rendered with the body, witho
 शरणं सर्वशरीरी प्राप्यस्सेव्यश्च साधुभिर्भाव्यः ॥
 </details>
 
-(Thus) here in Tirumantra, the Lord is to be reflected upon by good men in a concise form (in the letter a) as the consort of Śrī (Lakṣmī) and as the Saviour:(in the dative or the fourth case whose affix has been dropped) as the śeṣī, and as destitute of equals and superiors : in the word namas ) as the upāya or means of attaining Him: (in the word Nārāyaṇa) as the in-dwelling Self of all, (and in the fourth case of that word) as the object of atlainment and as the Person to whom service is due.
+### नार-गुणाः
 
-THE QUALITIES OF THE JIVĀTMĀ:
+<details><summary>English</summary>
 
-In the same way, when the jīvatma who is to attain the Supreme **being**, which is the object of his attaioment, reflects on himself with the help of the Tirumantra, he should note the following principal qualities of his own, which are indicated explicitly by the words themselves and which lie implicit in their meaning and other qualities connected with them, which are all accepted on the authority of the pramāṇ as : 'That he has to be redeemed by Bhagavān and Śrī (Lakṣmī), that he cannot be saved by any one else, that he has one who will protect him in all places, at all times, and in every manner, that he has a Saviour who has noble qualities, that he has one (Lakṣmī) to recommend
+THE QUALITIES OF THE JIVĀTMĀ.
+</details>
 
-him (to the Lord's mercy), that he is the servant of the Lord and (His consort) Lakṣmī, that he is their eternal servant, that he is their unconditional servant, that he is not entitled to be the servant of anyone else, that, in his essential nature, the self is jñāna (knowledge), that it is bliss, that it is self-luminous, that the self shines to itself, that the self is denoted by the word 'I', that the self is atomic (aṇu), that it is subtle (sukṣma), that it cannot be cut (burnt and so on), that the self or soul is different from the twenty four tattvas or reals, that (in its essential nature) the self is pure, that it is different from Iśvara, that the self is a knower (**having** knowledge as its attribute), that the jīva has, by nature, the capacity to enjoy all things as agreeable, that he is competent to desire the supreme end of life, that he is fit to be commanded (by the Supreme **being**), that he is fit to render service, that be has in him the power to have a direct perception of all things, that he is entitled to have unsurpassed bliss, that he is a doer who can act subject to the will of the Supreme **being**, that he is a master (of certain things) under certain conditions or upādhis, that he is the śeṣa of the devotees of the Lord, that he is their servant, that he is destitute of upāyas other than the Lord, that he is steeped in such things as avidyā, that his knowledge is capable of expansion with the help of (suitable) instruments (karaṇa) and the like, that be is beset by the fears due to saṁsāra, that be should look forward to the removal of avidyā and the like, that he is destitute of any means (of attaining the end), that he has such things as the good-will of Iśvara, that he should seek and obtain a good ācārya, that he is competent to adopt sādhyopāya (bhakti  or prapatti), that he should stand firm in the upāya, that he has great potency, that he may be called an object of creation, destruction and the like in virtue of his **having** the body as an attribute, but that the self is imperishable, that the self is one among many, that the selves are countless, that the selt is pervaded by Iśvara (who is its in-dwelling Self), that he is subject to the control of Iśvara, that he is supported by Iśvara, and that as a consequence of these, the self is the body of Iśvara that the jīva is the cause of the sportive delight
+<details><summary>Español</summary>
+
+LAS CUALIDADES DEL JIVĀTMĀ.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि प्राप्यऩ् आऩ परमात्मवै प्रापिक्कुम् जीवात्मा  
+इत् तिरु-मन्त्रत्ताले अनुसन्धेयऩ् आम् बोदु; 
+</details>
+
+<details><summary>English</summary>
+
+In the same way,  
+when the jīvatma,  
+who is to attain the Supreme Being, which is the object of his attainment,  
+reflects on himself with the help of the Tirumantra -  
+</details>
+
+<details><summary>Español</summary>
+
+De la misma manera,  
+cuando el jīvatma,  
+que **ha de alcanzar** al Ser Supremo, que **es** el objeto de su **logro**,  
+**reflexiona** sobre sí mismo con la **ayuda** del Tirumantra -  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि प्राप्यऩाऩ परमात्मवै प्रापिक्कुम् जीवात्मा इत्तिरुमन्त्रत्ताले अनुसन्धेयऩाम्बोदु; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रीमद्-रक्ष्यत्वम्, 
+</details>
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रीमद्-रक्ष्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+That he has to be redeemed by Bhagavān and Śrī (Lakṣmī), 
+</details>
+
+<details><summary>Español</summary>
+
+Que **tiene** que **ser redimido** por Bhagavān y Śrī (Lakṣmī), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रीमद्रक्ष्यत्वम्, 
+</details>
+
+
+
+he should note the above principal qualities of his own, which are indicated explicitly by the words themselves and which lie implicit in their meaning and other qualities connected with them, which are all accepted on the authority of the pramāṇas : 
+
+that he cannot be saved by any one else, that he has one who will protect him in all places, at all times, and in every manner, that he has a Saviour who has noble qualities, that he has one (Lakṣmī) to recommend him (to the Lord's mercy), that he is the servant of the Lord and (His consort) Lakṣmī, that he is their eternal servant, that he is their unconditional servant, that he is not entitled to be the servant of anyone else, that, in his essential nature, the self is jñāna (knowledge), that it is bliss, that it is self-luminous, that the self shines to itself, that the self is denoted by the word 'I', that the self is atomic (aṇu), that it is subtle (sukṣma), that it cannot be cut (burnt and so on), that the self or soul is different from the twenty four tattvas or reals, that (in its essential nature) the self is pure, that it is different from Iśvara, that the self is a knower (**having** knowledge as its attribute), that the jīva has, by nature, the capacity to enjoy all things as agreeable, that he is competent to desire the supreme end of life, that he is fit to be commanded (by the Supreme Being), that he is fit to render service, that be has in him the power to have a direct perception of all things, that he is entitled to have unsurpassed bliss, that he is a doer who can act subject to the will of the Supreme Being, that he is a master (of certain things) under certain conditions or upādhis, that he is the śeṣa of the devotees of the Lord, that he is their servant, that he is destitute of upāyas other than the Lord, that he is steeped in such things as avidyā, that his knowledge is capable of expansion with the help of (suitable) instruments (karaṇa) and the like, that be is beset by the fears due to saṁsāra, that be should look forward to the removal of avidyā and the like, that he is destitute of any means (of attaining the end), that he has such things as the good-will of Iśvara, that he should seek and obtain a good ācārya, that he is competent to adopt sādhyopāya (bhakti  or prapatti), that he should stand firm in the upāya, that he has great potency, that he may be called an object of creation, destruction and the like in virtue of his **having** the body as an attribute, but that the self is imperishable, that the self is one among many, that the selves are countless, that the selt is pervaded by Iśvara (who is its in-dwelling Self), that he is subject to the control of Iśvara, that he is supported by Iśvara, and that as a consequence of these, the self is the body of Iśvara that the jīva is the cause of the sportive delight
 
 (lilā rasa) of Iśvara, that he is entitled to be the instrument for the Lord's enjoyment (bhoga) (in Nityavibhūti), that his passage to his goal depends on Iśvara, that the attainment of that goal depends on Iśvara, that he should seek neither worldly prosperity nor kaivalya, that he should eagerly long for the attainment of Bhagavān, that he should become free from all avidyā, that the self would manifest itself in its essential nature, that the self is capable of visualising everything (in the state of mukti), that his sole enjoyment should consist in the experience of Bhagavān in every form, that he is capable of **having** unsurpassed bliss, that his **being** an enjoyer is (only) for the enjoyment ot of Bhagavān, that the self (in its realised state) can take any form and the like at will, that its will is irresistible, that the self will have perfect resemblance to the Lord except in regard to those uncommon qualities or attributes that define His essential nature, that the sell's delight is in rendering every kind of service to Bhagavān and that the self will never return to saṁsāra (after attaining mukti). (67).
 
@@ -23267,7 +23623,7 @@ him (to the Lord's mercy), that he is the servant of the Lord and (His consort) 
 
 In the three words of this (Tirumantra), we should reflect, in brief, on our **being** entitled to be the śeṣa, of no one other than the Lord, that we have no other upāya than the Lord, and that we have no other end to attain than the Lord.
 
-Thus the Tirumantra has ( as stated in Nāradiyakalpam) everything that a man ought to know. From it one can understand the essential nature of cit (sentient **being**s ) acit (non-sentient matter) and Iśvara, as well as the differences among the jīvas themselves. The Tirumantra also teaches the unconditional differences between the jīva (the individual self) and the Supreme Sell, as, the former is śeṣa and the latter śeṣī. It determines Also the person of the Supreme Deity who is both the material and the instrumental cause of the whole universe. Therefore even those who live in the same locality as those that meditate on the Tirumantra in this manner will never have delusions such as.the following :- " There is no Iśvara or God"; "Iśvara is attributeless"; "Iśvara is absolutely indifferent (to the welfare of the jīvas), "His god.head is a mere reflection or image which has no reality" • His divinity is the result of some special karma  performed by Him". “He is occasionally subject to such things as karma ". "The three gods, Brahma, Viṣṇu and Siva, are of equal rank", "The three gods mentioned above are really one : " The Supreme Reality or Tattva is someone beyond these three gods", "One of these, Brabma and Siva, is Iśvara". "The essential nature (svarūpa) of Iśvara is subject to change or modification". "The material cause and the instrumental cause can never be the same", "The jīva and Iśvara are only a single self". "The difference between the jīva and Iśvara is due to certain limiting factors or conditions (upādhi)". "The jīva and Iśvara are eternally (both) different and non-different," " The jīva is śeṣa only on account of his karma ". "The jīva is at times śeṣa and at other times not a śeṣa". "The jīva is inert (jaḍa)". "The jīva is, in his essential nature, knowledge (and does not possess knowledge as an attribute)". "The jīva is eternally free from bondage". "The jīva only seems to enjoy (i.e. his enjoyment is not real but illusory). "The jīva is not a doer or agent". " The jīva is a doer or agent independent of Iśvara". "The self laats (only) until the pralaya". "The jīva lasts only until mukti (and then becomes one with the Supreme **being**)". There is only one jīva (all the others are illusory)", "The jīva stands self-supported". "The jīva is, in his essential nature, an effeci baving its origin in a cause." "The jīva can, in no sense, be considered as an effect (even with regard to His body and the like)", "The jīva can attain his end only by karma ". "The jīva, in the state of release from saṁsāra, is like a stone (**having** no knowledge and the like)". "The jīva finds delight only in his own disembodied self". "The jīva is absolutely independent of Bhagavān". "The jīva is one with Iśvara". "The jīva is without such things as activities". "The jīva can separate and unite (with Iśvara)". "The jīvas vary in the bliss that they will enjoy after mukti ". "The jīvas have such differences as **being** fit to have only salokya and the like ", and other such delusions due to perverted systems of religious thought and to those who are outside the pale of Vedic religion.
+Thus the Tirumantra has ( as stated in Nāradiyakalpam) everything that a man ought to know. From it one can understand the essential nature of cit (sentient **being**s ) acit (non-sentient matter) and Iśvara, as well as the differences among the jīvas themselves. The Tirumantra also teaches the unconditional differences between the jīva (the individual self) and the Supreme Sell, as, the former is śeṣa and the latter śeṣī. It determines Also the person of the Supreme Deity who is both the material and the instrumental cause of the whole universe. Therefore even those who live in the same locality as those that meditate on the Tirumantra in this manner will never have delusions such as.the following :- " There is no Iśvara or God"; "Iśvara is attributeless"; "Iśvara is absolutely indifferent (to the welfare of the jīvas), "His god.head is a mere reflection or image which has no reality" • His divinity is the result of some special karma  performed by Him". “He is occasionally subject to such things as karma ". "The three gods, Brahma, Viṣṇu and Siva, are of equal rank", "The three gods mentioned above are really one : " The Supreme Reality or Tattva is someone beyond these three gods", "One of these, Brabma and Siva, is Iśvara". "The essential nature (svarūpa) of Iśvara is subject to change or modification". "The material cause and the instrumental cause can never be the same", "The jīva and Iśvara are only a single self". "The difference between the jīva and Iśvara is due to certain limiting factors or conditions (upādhi)". "The jīva and Iśvara are eternally (both) different and non-different," " The jīva is śeṣa only on account of his karma ". "The jīva is at times śeṣa and at other times not a śeṣa". "The jīva is inert (jaḍa)". "The jīva is, in his essential nature, knowledge (and does not possess knowledge as an attribute)". "The jīva is eternally free from bondage". "The jīva only seems to enjoy (i.e. his enjoyment is not real but illusory). "The jīva is not a doer or agent". " The jīva is a doer or agent independent of Iśvara". "The self laats (only) until the pralaya". "The jīva lasts only until mukti (and then becomes one with the Supreme Being)". There is only one jīva (all the others are illusory)", "The jīva stands self-supported". "The jīva is, in his essential nature, an effeci baving its origin in a cause." "The jīva can, in no sense, be considered as an effect (even with regard to His body and the like)", "The jīva can attain his end only by karma ". "The jīva, in the state of release from saṁsāra, is like a stone (**having** no knowledge and the like)". "The jīva finds delight only in his own disembodied self". "The jīva is absolutely independent of Bhagavān". "The jīva is one with Iśvara". "The jīva is without such things as activities". "The jīva can separate and unite (with Iśvara)". "The jīvas vary in the bliss that they will enjoy after mukti ". "The jīvas have such differences as **being** fit to have only salokya and the like ", and other such delusions due to perverted systems of religious thought and to those who are outside the pale of Vedic religion.
 
 So also weakness of faith in the Consort of Śrī as a Protector, the search for other Redeemers, the protest  [See page (89 of the book ).] against **being** dependent on God, the delusion of **being** the unconditional śeṣa to others, reverence to other deities, association with those who are their devotees, and, likewise, the delight in serving those who are unfit for service, such delusions as that the body and the soul are the same, such delusions as that the self is independent of Bhagavān, the earning (of money or other things) for one's own use, offence to the devotees of Bhagavān, forgetfulness of the fact that one is helpless and destitute of upāyas, a longing for the continuance of life in saṁsāra, the fear that the soul will suffer annihilation, the taste for doing what is improper, the classification of men into friends and foes, the seeking of other kinsmen (than Bhagavān ), the desire for other ends (than the attainment of Bhagavān), averseness to the supreme goal of life and other such hindrances to one's firm stand in one's essential nature, in the real upāya and in the end in view - all these ( delusions) will never approach them.
 
@@ -23309,7 +23665,7 @@ When thus taken as two sentences, the whole of the Tirumantra is descriptive of 
 
 TWO SENTENCES INDICATING THE UPĀYA :
 
-(4) In this construction of Tirumantra into two sentences, some consider that the whole of Tirumantra has, for its purport, the surrender of the self with its accessories. In that case, the m in praṇava should be considered to be in the nominative or first case. By the principle of the offering of the havis (or oblation), Tirumantra would then mean "This unconditional oflering, namely, the self or soul is surrendered to Nārāyaṇa who is denoted by the letter a as His responsibility and who is the deity subject to no conditions or limiting factors (upādhi). In this unconditional sacrifice of the self, the word namas (na mama) would come to mean that one dissociates oneself from oneself and says, " The burden of my protection is not mine." As when (an offering is made) with the words: “This is for Indra and not mine", here also, the two sentences are essential; one to express the connection (of the offering) with the Supreme **being** and the denial of its connection with oneself. Also in this surrender with the words namas (na mama), the purport may also extend to the denial of one's **being** an agent or doer absolutely independeat of the Supreme **being**. The two sentences may also be considered to suggest the meaning; "The burden of my protection is of no other (than Bhagavān) nor is it my own".
+(4) In this construction of Tirumantra into two sentences, some consider that the whole of Tirumantra has, for its purport, the surrender of the self with its accessories. In that case, the m in praṇava should be considered to be in the nominative or first case. By the principle of the offering of the havis (or oblation), Tirumantra would then mean "This unconditional oflering, namely, the self or soul is surrendered to Nārāyaṇa who is denoted by the letter a as His responsibility and who is the deity subject to no conditions or limiting factors (upādhi). In this unconditional sacrifice of the self, the word namas (na mama) would come to mean that one dissociates oneself from oneself and says, " The burden of my protection is not mine." As when (an offering is made) with the words: “This is for Indra and not mine", here also, the two sentences are essential; one to express the connection (of the offering) with the Supreme Being and the denial of its connection with oneself. Also in this surrender with the words namas (na mama), the purport may also extend to the denial of one's **being** an agent or doer absolutely independeat of the Supreme Being. The two sentences may also be considered to suggest the meaning; "The burden of my protection is of no other (than Bhagavān) nor is it my own".
 
 That Tirumantra has, for its purport, the offering or surrender of the self was stated in the Nitya as follows :- "After offering the self to the deity with the mūlamantra etc" This idea is shown also in Śrī Vaikuṇṭha Gadya as follows: "Praying that Bhagavān should accept one for eternal service to Himself alone, one should prostrate oneself and offer the soul to Bhagavān with the utterance of the sacred mūlamantra",
 
@@ -23403,7 +23759,7 @@ The answer to this question may be expressed as follows :
 सापराधस्तथा दासः कैङ्कर्यं परमात्मनः ॥
 </details>
 
-"The son begs of his father for his share of the property, though it is lawfully his. In the same way the servant (the jīva) who has offended (the Master) begs of the Supreme **being** that he should be permitted to render service ". There is nothing inappropriate in the jīva who has lost what he is entitled to, praying thus:-- “May I have what is my sharel Be Thou so gracious as to pardon my offence;"
+"The son begs of his father for his share of the property, though it is lawfully his. In the same way the servant (the jīva) who has offended (the Master) begs of the Supreme Being that he should be permitted to render service ". There is nothing inappropriate in the jīva who has lost what he is entitled to, praying thus:-- “May I have what is my sharel Be Thou so gracious as to pardon my offence;"
 
 
 
@@ -23510,7 +23866,7 @@ OTHER VYĀPAKA MANTRAS
 
 
 
-The ideas contained in the other Vyapaka mantras which contain the words (Viṣṇu and Vāsudeva), namely Namo Vishnave preceded by praṇava and namo Bhagavate Vāsudevāya preceded by praňava are just those which have been declared as existing in Tirumantra. As interpreted by Ahirbudhnya such qualities as pervasiveness, splendour, entrance (into all) or immanence and will, which are deduced from the respective verbal roots are additional qualities in the Supreme **being**, Viṣṇu and decisive of His **being** the Supreme Deity". The meanings of the word "Viṣṇu” as derived from the root Vish which means "to pervade, 'vas' which means to 'shine', ‘vis’ . which means 'to enter" and ‘ish’ which means 'to will' and so also the meanings of the Vāsudeva derived from ‘vasati’, ‘vasayati’, which mean respectively, "He dwells within all" and 'He makes all dwell within Himself" and ‘Divyati’ which means 'shineś, from which follow His **being** the support of all, His **being** free from any taint due to contact with them, His sportive activity, and His will to conquer - all these meanings are contained in parts of the word “ Nārāyaṇa".
+The ideas contained in the other Vyapaka mantras which contain the words (Viṣṇu and Vāsudeva), namely Namo Vishnave preceded by praṇava and namo Bhagavate Vāsudevāya preceded by praňava are just those which have been declared as existing in Tirumantra. As interpreted by Ahirbudhnya such qualities as pervasiveness, splendour, entrance (into all) or immanence and will, which are deduced from the respective verbal roots are additional qualities in the Supreme Being, Viṣṇu and decisive of His **being** the Supreme Deity". The meanings of the word "Viṣṇu” as derived from the root Vish which means "to pervade, 'vas' which means to 'shine', ‘vis’ . which means 'to enter" and ‘ish’ which means 'to will' and so also the meanings of the Vāsudeva derived from ‘vasati’, ‘vasayati’, which mean respectively, "He dwells within all" and 'He makes all dwell within Himself" and ‘Divyati’ which means 'shineś, from which follow His **being** the support of all, His **being** free from any taint due to contact with them, His sportive activity, and His will to conquer - all these meanings are contained in parts of the word “ Nārāyaṇa".
 
 
 
@@ -23550,12 +23906,12 @@ Those wise men with eight qualities who meditate on the mantra of eight letters 
 
 EXPLANATION OF <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-To those great and wise men who meditate on the sacred aṣṭākṣara, which treats of the Supreme Ruler, who is the (ultimate) cause of all and who is opposed to everything of the nature of blemish and is, at the sametime, the abɔde of all auspicious qualities -(to these great men) whatever is desired by them among the spiritual virtues, the eight forms of wealth and the like is never beyond their reach. The 'eight-bodied' means Rudra who obtained the boon of **having** eight bodies, namely, the five elements (bhutas-earth, water, fire, air and ether or space), the moon and the sun and the man who performs a yajna or sacrifice; the eight-eyed refers to Brahma who has eight eyes because of his four faces; the eight quarters; the eight guardians of the eight quarters such as lndra, the eight prakṛtis are the eight tattvas or reals like avyakta, mahat and ahañkāra, the eight great mountains means the eight chief mountain ranges[^97] ; 'who created these means the Supreme **being** possessed of eight qualities who created all these; His eight qualities are **being** (1) without subjection to karma , (2) without old age, or (3) death, or (1) grief, (5) or hunger or, (6) thirst, (7) the possession of eternal objects of enjoyment and (8) omnipotence or the ability to accomplish whatever He desires ; to those wise men possessed of wisdom with its eight aṅgas who meditate on the mantra' means to those enlightened men who are possessed of understanding with its eight aṅgas and who meditate on the sacred aṣṭākṣara which is the chief mantra among those that treat of Bhagavān.' The eight aṅgas of wisdom are " quickness of grasp, retention of what is learnt, remembrance, the ability to explain, inference, modification of what has been stated (to adapt it to new situations), reason, the knowledge of Truth - these are the eight qualities of understanding ". The eight great flowers are the following :-"Non-Violence (ahimsā) is the first flower, control of the senses is (another) flower: then comes the flower called compassion to all creatures, then the flower of forgiveness in special, then the flower of knowledge, the flower of tapas and so also the flower of contemplation (dhyāna) and the flower of truth these eight kinds of fiowers are most pleasing to Viṣṇu, The eight siddhis are inference, the knowledge of words, learning Vedānta, freedom from the three kinds of suffering; that in the body brought about by animals, and that due to the (anger of the ) gods, like storm and lightning. the possession of friends and charity. The eight forms of devotion are the following :- Love to God's devotees without an eye to their faults, delight in the worship offered to Him by others, an eagerness to listen to stories concerning Bhagavān, changes in the voice and the body and tears in the eyes while listening to them, efforts to worship Bhagavān, freedom from hypocrisy in one's relations towards God, constant meditation on God, and freedom from the expectation of rewards from God. The eight aṅgas of yoga are yama, niyama and the rest (āsana, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi); the eight forms of wealth are:- the power to contract one's body to a much smaller size, the power to make one's body assume larger dimensions, the power to make oneself light (of weigbt), the power to make oneself heavy, perfect control over oneself, control over others, the attainment of whatever is desired, and success by merely desiring it.
+To those great and wise men who meditate on the sacred aṣṭākṣara, which treats of the Supreme Ruler, who is the (ultimate) cause of all and who is opposed to everything of the nature of blemish and is, at the sametime, the abɔde of all auspicious qualities -(to these great men) whatever is desired by them among the spiritual virtues, the eight forms of wealth and the like is never beyond their reach. The 'eight-bodied' means Rudra who obtained the boon of **having** eight bodies, namely, the five elements (bhutas-earth, water, fire, air and ether or space), the moon and the sun and the man who performs a yajna or sacrifice; the eight-eyed refers to Brahma who has eight eyes because of his four faces; the eight quarters; the eight guardians of the eight quarters such as lndra, the eight prakṛtis are the eight tattvas or reals like avyakta, mahat and ahañkāra, the eight great mountains means the eight chief mountain ranges[^97] ; 'who created these means the Supreme Being possessed of eight qualities who created all these; His eight qualities are **being** (1) without subjection to karma , (2) without old age, or (3) death, or (1) grief, (5) or hunger or, (6) thirst, (7) the possession of eternal objects of enjoyment and (8) omnipotence or the ability to accomplish whatever He desires ; to those wise men possessed of wisdom with its eight aṅgas who meditate on the mantra' means to those enlightened men who are possessed of understanding with its eight aṅgas and who meditate on the sacred aṣṭākṣara which is the chief mantra among those that treat of Bhagavān.' The eight aṅgas of wisdom are " quickness of grasp, retention of what is learnt, remembrance, the ability to explain, inference, modification of what has been stated (to adapt it to new situations), reason, the knowledge of Truth - these are the eight qualities of understanding ". The eight great flowers are the following :-"Non-Violence (ahimsā) is the first flower, control of the senses is (another) flower: then comes the flower called compassion to all creatures, then the flower of forgiveness in special, then the flower of knowledge, the flower of tapas and so also the flower of contemplation (dhyāna) and the flower of truth these eight kinds of fiowers are most pleasing to Viṣṇu, The eight siddhis are inference, the knowledge of words, learning Vedānta, freedom from the three kinds of suffering; that in the body brought about by animals, and that due to the (anger of the ) gods, like storm and lightning. the possession of friends and charity. The eight forms of devotion are the following :- Love to God's devotees without an eye to their faults, delight in the worship offered to Him by others, an eagerness to listen to stories concerning Bhagavān, changes in the voice and the body and tears in the eyes while listening to them, efforts to worship Bhagavān, freedom from hypocrisy in one's relations towards God, constant meditation on God, and freedom from the expectation of rewards from God. The eight aṅgas of yoga are yama, niyama and the rest (āsana, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi); the eight forms of wealth are:- the power to contract one's body to a much smaller size, the power to make one's body assume larger dimensions, the power to make oneself light (of weigbt), the power to make oneself heavy, perfect control over oneself, control over others, the attainment of whatever is desired, and success by merely desiring it.
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-To those great and wise men who meditate on the sacred aṣṭākṣara, which treats of the Supreme Ruler, who is the (ultimate) cause of all and who is opposed to everything of the nature of blemish and is, at the sametime, the abɔde of all auspicious qualities -(to these great men) whatever is desired by them among the spiritual virtues, the eight forms of wealth and the like is never beyond their reach. The 'eight-bodied' means Rudra who obtained the boon of **having** eight bodies, namely, the five elements (bhutas-earth, water, fire, air and ether or space), the moon and the sun and the man who performs a yajna or sacrifice; the eight-eyed refers to Brahma who has eight eyes because of his four faces; the eight quarters; the eight guardians of the eight quarters such as lndra, the eight prakṛtis are the eight tattvas or reals like avyakta, mahat and ahañkāra, the eight great mountains means the eight chief mountain ranges[^97] ; 'who created these means the Supreme **being** possessed of eight qualities who created all these; His eight qualities are **being** (1) without subjection to karma , (2) without old age, or (3) death, or (1) grief, (5) or hunger or, (6) thirst, (7) the possession of eternal objects of enjoyment and (8) omnipotence or the ability to accomplish whatever He desires ; to those wise men possessed of wisdom with its eight aṅgas who meditate on the mantra' means to those enlightened men who are possessed of understanding with its eight aṅgas and who meditate on the sacred aṣṭākṣara which is the chief mantra among those that treat of Bhagavān.' The eight aṅgas of wisdom are " quickness of grasp, retention of what is learnt, remembrance, the ability to explain, inference, modification of what has been stated (to adapt it to new situations), reason, the knowledge of Truth - these are the eight qualities of understanding ". The eight great flowers are the following :-"Non-Violence (ahimsā) is the first flower, control of the senses is (another) flower: then comes the flower called compassion to all creatures, then the flower of forgiveness in special, then the flower of knowledge, the flower of tapas and so also the flower of contemplation (dhyāna) and the flower of truth these eight kinds of fiowers are most pleasing to Viṣṇu, The eight siddhis are inference, the knowledge of words, learning Vedānta, freedom from the three kinds of suffering; that in the body brought about by animals, and that due to the (anger of the ) gods, like storm and lightning. the possession of friends and charity. The eight forms of devotion are the following :- Love to God's devotees without an eye to their faults, delight in the worship offered to Him by others, an eagerness to listen to stories concerning Bhagavān, changes in the voice and the body and tears in the eyes while listening to them, efforts to worship Bhagavān, freedom from hypocrisy in one's relations towards God, constant meditation on God, and freedom from the expectation of rewards from God. The eight aṅgas of yoga are yama, niyama and the rest (āsana, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi); the eight forms of wealth are:- the power to contract one's body to a much smaller size, the power to make one's body assume larger dimensions, the power to make oneself light (of weigbt), the power to make oneself heavy, perfect control over oneself, control over others, the attainment of whatever is desired, and success by merely desiring it.
+To those great and wise men who meditate on the sacred aṣṭākṣara, which treats of the Supreme Ruler, who is the (ultimate) cause of all and who is opposed to everything of the nature of blemish and is, at the sametime, the abɔde of all auspicious qualities -(to these great men) whatever is desired by them among the spiritual virtues, the eight forms of wealth and the like is never beyond their reach. The 'eight-bodied' means Rudra who obtained the boon of **having** eight bodies, namely, the five elements (bhutas-earth, water, fire, air and ether or space), the moon and the sun and the man who performs a yajna or sacrifice; the eight-eyed refers to Brahma who has eight eyes because of his four faces; the eight quarters; the eight guardians of the eight quarters such as lndra, the eight prakṛtis are the eight tattvas or reals like avyakta, mahat and ahañkāra, the eight great mountains means the eight chief mountain ranges[^97] ; 'who created these means the Supreme Being possessed of eight qualities who created all these; His eight qualities are **being** (1) without subjection to karma , (2) without old age, or (3) death, or (1) grief, (5) or hunger or, (6) thirst, (7) the possession of eternal objects of enjoyment and (8) omnipotence or the ability to accomplish whatever He desires ; to those wise men possessed of wisdom with its eight aṅgas who meditate on the mantra' means to those enlightened men who are possessed of understanding with its eight aṅgas and who meditate on the sacred aṣṭākṣara which is the chief mantra among those that treat of Bhagavān.' The eight aṅgas of wisdom are " quickness of grasp, retention of what is learnt, remembrance, the ability to explain, inference, modification of what has been stated (to adapt it to new situations), reason, the knowledge of Truth - these are the eight qualities of understanding ". The eight great flowers are the following :-"Non-Violence (ahimsā) is the first flower, control of the senses is (another) flower: then comes the flower called compassion to all creatures, then the flower of forgiveness in special, then the flower of knowledge, the flower of tapas and so also the flower of contemplation (dhyāna) and the flower of truth these eight kinds of fiowers are most pleasing to Viṣṇu, The eight siddhis are inference, the knowledge of words, learning Vedānta, freedom from the three kinds of suffering; that in the body brought about by animals, and that due to the (anger of the ) gods, like storm and lightning. the possession of friends and charity. The eight forms of devotion are the following :- Love to God's devotees without an eye to their faults, delight in the worship offered to Him by others, an eagerness to listen to stories concerning Bhagavān, changes in the voice and the body and tears in the eyes while listening to them, efforts to worship Bhagavān, freedom from hypocrisy in one's relations towards God, constant meditation on God, and freedom from the expectation of rewards from God. The eight aṅgas of yoga are yama, niyama and the rest (āsana, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi); the eight forms of wealth are:- the power to contract one's body to a much smaller size, the power to make one's body assume larger dimensions, the power to make oneself light (of weigbt), the power to make oneself heavy, perfect control over oneself, control over others, the attainment of whatever is desired, and success by merely desiring it.
 </details>
 
 [^97]: They are Himavān, Vishada, Vindhya, Mālyavān, Pāriyātraka. Mandara. Malaya and Meru.
