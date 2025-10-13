@@ -23576,7 +23576,7 @@ que **ha de alcanzar** al Ser Supremo, que **es** el objeto de su **logro**,
 इप्पडि प्राप्यऩाऩ परमात्मवै प्रापिक्कुम् जीवात्मा इत्तिरुमन्त्रत्ताले अनुसन्धेयऩाम्बोदु; 
 </details>
 
-
+#### रक्ष्यतादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रीमद्-रक्ष्यत्वम्, 
@@ -23601,11 +23601,323 @@ Que **tiene** que **ser redimido** por Bhagavān y Śrī (Lakṣmī),
 श्रीमद्रक्ष्यत्वम्, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्-अन्य-रक्ष्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्-अन्य-रक्ष्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **cannot be saved** by any one else, 
+</details>
+
+<details><summary>Español</summary>
+
+que **no puede ser salvado** por nadie más, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनन्यरक्ष्यत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वत्र-सर्वदा-सर्व-प्रकार–रक्षकवत्त्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वत्र-सर्वदा-सर्व-प्रकार–रक्षकवत्त्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he has one who **will protect** him in all places, at all times, and in every manner, 
+</details>
+
+<details><summary>Español</summary>
+
+que **tiene** a alguien que **lo protegerá** en todo lugar, en todo momento y de todas las maneras, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वत्र-सर्वदा-सर्वप्रकाररक्षकवत्त्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुशीलारक्षकवत्त्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सु-शीलारक्षकवत्त्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **has** a **Saviour** who has noble qualities, 
+</details>
+
+<details><summary>Español</summary>
+
+que **tiene** un **Salvador** que **tiene** cualidades nobles, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सुशीलारक्षकवत्त्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुष-कारवत्त्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पुरुष-कारवत्त्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **has** one (Lakṣmī) to **recommend** him (to the Lord's mercy), 
+</details>
+
+<details><summary>Español</summary>
+
+que él **tiene** a uno (Lakṣmī) para **recomendarlo** (a la misericordia del Señor), 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुरुषकारवत्त्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महा-विश्वास-योगित्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+महा-विश्वास-योगित्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **is** the **servant** of the Lord and (His consort) Lakṣmī, 
+</details>
+
+<details><summary>Español</summary>
+
+que él **es** el **sirviente** del Señor y (Su consorte) Lakṣmī, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+महाविश्वासयोगित्वम्, 
+</details>
+
+#### दास्यादि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स-लक्ष्मीक-दासत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स-लक्ष्मीक-दासत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he is the servant of the Lord and (His consort) Lakṣmī,
+</details>
+
+<details><summary>Español</summary>
+
+que él **es** el **siervo** del Señor y (Su consorte) Lakṣmī,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सलक्ष्मीकदासत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्य-दासत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+नित्य-दासत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **is** their eternal **servant**, 
+</details>
+
+<details><summary>Español</summary>
+
+que él **es** su eterno **siervo**, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नित्यदासत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निरुपाधिक-दासत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+निरुपाधिक-दासत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he is their unconditional servant, 
+</details>
+
+<details><summary>Español</summary>
+
+que él **es** su **siervo** incondicional, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निरुपाधिकदासत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्-अन्यार्ह-दासत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्-अन्यार्ह-दासत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **is not entitled** to be the servant of anyone else, 
+</details>
+
+<details><summary>Español</summary>
+
+que **no tiene derecho** a **ser** el **sirviente** de nadie más, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनन्यार्हदासत्वम्, 
+</details>
+
+#### स्वरूपे - ज्ञानत्वादि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञानत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ज्ञानत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that, in his essential nature, the self is jñāna (knowledge), 
+</details>
+
+<details><summary>Español</summary>
+
+que, en su naturaleza esencial, el ser **es** jñāna (**conocimiento**), 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आनन्दत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आनन्दत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that it is bliss, 
+</details>
+
+<details><summary>Español</summary>
+
+que **es** dicha, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आनन्दत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वयं-प्रकाशत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वयं-प्रकाशत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+that it **is** self-**luminous**, 
+</details>
+
+<details><summary>Español</summary>
+
+que **es** auto-**luminoso**, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वयंप्रकाशत्वम्,
+</details>
+
 
 
 he should note the above principal qualities of his own, which are indicated explicitly by the words themselves and which lie implicit in their meaning and other qualities connected with them, which are all accepted on the authority of the pramāṇas : 
 
-that he cannot be saved by any one else, that he has one who will protect him in all places, at all times, and in every manner, that he has a Saviour who has noble qualities, that he has one (Lakṣmī) to recommend him (to the Lord's mercy), that he is the servant of the Lord and (His consort) Lakṣmī, that he is their eternal servant, that he is their unconditional servant, that he is not entitled to be the servant of anyone else, that, in his essential nature, the self is jñāna (knowledge), that it is bliss, that it is self-luminous, that the self shines to itself, that the self is denoted by the word 'I', that the self is atomic (aṇu), that it is subtle (sukṣma), that it cannot be cut (burnt and so on), that the self or soul is different from the twenty four tattvas or reals, that (in its essential nature) the self is pure, that it is different from Iśvara, that the self is a knower (**having** knowledge as its attribute), that the jīva has, by nature, the capacity to enjoy all things as agreeable, that he is competent to desire the supreme end of life, that he is fit to be commanded (by the Supreme Being), that he is fit to render service, that be has in him the power to have a direct perception of all things, that he is entitled to have unsurpassed bliss, that he is a doer who can act subject to the will of the Supreme Being, that he is a master (of certain things) under certain conditions or upādhis, that he is the śeṣa of the devotees of the Lord, that he is their servant, that he is destitute of upāyas other than the Lord, that he is steeped in such things as avidyā, that his knowledge is capable of expansion with the help of (suitable) instruments (karaṇa) and the like, that be is beset by the fears due to saṁsāra, that be should look forward to the removal of avidyā and the like, that he is destitute of any means (of attaining the end), that he has such things as the good-will of Iśvara, that he should seek and obtain a good ācārya, that he is competent to adopt sādhyopāya (bhakti  or prapatti), that he should stand firm in the upāya, that he has great potency, that he may be called an object of creation, destruction and the like in virtue of his **having** the body as an attribute, but that the self is imperishable, that the self is one among many, that the selves are countless, that the selt is pervaded by Iśvara (who is its in-dwelling Self), that he is subject to the control of Iśvara, that he is supported by Iśvara, and that as a consequence of these, the self is the body of Iśvara that the jīva is the cause of the sportive delight
+that the self shines to itself, that the self is denoted by the word 'I', that the self is atomic (aṇu), that it is subtle (sukṣma), that it cannot be cut (burnt and so on), that the self or soul is different from the twenty four tattvas or reals, that (in its essential nature) the self is pure, that it is different from Iśvara, that the self is a knower (**having** knowledge as its attribute), that the jīva has, by nature, the capacity to enjoy all things as agreeable, that he is competent to desire the supreme end of life, that he is fit to be commanded (by the Supreme Being), that he is fit to render service, that be has in him the power to have a direct perception of all things, that he is entitled to have unsurpassed bliss, that he is a doer who can act subject to the will of the Supreme Being, that he is a master (of certain things) under certain conditions or upādhis, that he is the śeṣa of the devotees of the Lord, that he is their servant, that he is destitute of upāyas other than the Lord, that he is steeped in such things as avidyā, that his knowledge is capable of expansion with the help of (suitable) instruments (karaṇa) and the like, that be is beset by the fears due to saṁsāra, that be should look forward to the removal of avidyā and the like, that he is destitute of any means (of attaining the end), that he has such things as the good-will of Iśvara, that he should seek and obtain a good ācārya, that he is competent to adopt sādhyopāya (bhakti  or prapatti), that he should stand firm in the upāya, that he has great potency, that he may be called an object of creation, destruction and the like in virtue of his **having** the body as an attribute, but that the self is imperishable, that the self is one among many, that the selves are countless, that the selt is pervaded by Iśvara (who is its in-dwelling Self), that he is subject to the control of Iśvara, that he is supported by Iśvara, and that as a consequence of these, the self is the body of Iśvara that the jīva is the cause of the sportive delight
 
 (lilā rasa) of Iśvara, that he is entitled to be the instrument for the Lord's enjoyment (bhoga) (in Nityavibhūti), that his passage to his goal depends on Iśvara, that the attainment of that goal depends on Iśvara, that he should seek neither worldly prosperity nor kaivalya, that he should eagerly long for the attainment of Bhagavān, that he should become free from all avidyā, that the self would manifest itself in its essential nature, that the self is capable of visualising everything (in the state of mukti), that his sole enjoyment should consist in the experience of Bhagavān in every form, that he is capable of **having** unsurpassed bliss, that his **being** an enjoyer is (only) for the enjoyment ot of Bhagavān, that the self (in its realised state) can take any form and the like at will, that its will is irresistible, that the self will have perfect resemblance to the Lord except in regard to those uncommon qualities or attributes that define His essential nature, that the sell's delight is in rendering every kind of service to Bhagavān and that the self will never return to saṁsāra (after attaining mukti). (67).
 
