@@ -1062,6 +1062,24 @@ has been taught to the sages by Narada
 as he had seen it and heard it in the abode of Brahma."
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+साङ्ख्ययोग ... See G.A. Grierson, Indian Antiquary, vol. 37, p. 261:
+
+> Nearly the whole Mokṣadharma-parvan consists lectures on Sāṅkhya-Yoga, together with attempts to reconcile it with Brahmaism. One system which results from the attempted reconciliation of these two opposite philosophies is attributed to Pañcaśikha and is explained at some length ...The Nārāyaṇīya, while claiming to describe Sāṅkhya-Yoga really describes the Bhāgavata monotheism as united with this system, but also with more of a Brahmaist colouring than we find in the Gītā.
+
+पञ्चरात्रानुशब्दितम् ... See ibid., p.258:
+
+> The Nārāyaṇīya sometimes alludes to the religion which it preaches as the doctrine of the Bhāgavatas, and sometimes as that of the Pāñcarātras. The two terms are not exactly synonymous, for the Pāñcarātras formed only one sect of the great Bhāgavata religion. Prof. R.G. Bhandarkar tells us that Dhruvasena I, one of the earliest princes of the Valabhi dynasty (C. 530 A.D.) is called a Bhāgavata, and Bāṇa (C. 600 A.D.) in the 8th chapter of the Harṣacarita mentions both the Bhāgavatas and the Pāñcarātras.
+
+नारायणमुखोद्गीतं ... According to the Śāntiparvan of the Mahābhārata (Gorakhpur edn.), the Sāttvata-teaching is said to have been announced by the sun:
+
+> सात्त्वतं विधिम् आस्थाय प्राक् सूर्य-मुख-निःसृतम् ।  
+पूजयामास देवेशं तच्-छेषेण पितामहान् ॥
+
+See G.A. Grierson, Indian Antiquary, vol. 37, p.253:
+
+</details>
 
 <details><summary>मूलम्</summary>
 
