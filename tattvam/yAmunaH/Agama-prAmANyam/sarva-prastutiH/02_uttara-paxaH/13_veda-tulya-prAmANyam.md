@@ -46,6 +46,13 @@ it becomes optional beside 89 scripture;
 and optionality is deficient in the case of the Tantras by eight defects. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Tantravārtika, pp. 89-90.
+Cf. Tantraśuddha, pp. 11-12:
+
+> “व्रीहिभिर् यजेत”, “यवैर् यजेत” इत्य् उभयम् अपि वाक्यं प्रमाणम् । तत्र व्रीहि-वाक्याश्रयणे यव-वाक्यम् अनाश्रयणीयं भवति । अश्यक्यत्वात् युगपत् उभयानुष्ठानस्य । तत्र प्राप्तं यव-वाक्य-गतं प्रामाण्यं विना कारणेनापह्नुतव्यम्; अप्रामाण्यस्य प्रमाणत्वं षष्ठ-गोचर-कल्पम् अभाव-प्रमाणावसेयम् अङ्गीकर्तव्यम्; एवम् अपि केनापि हेतुना प्रयोग-साधनत्वेन यवाभ्युपगमे पूर्वम् अपाश्रय्य[[??]] प्रामाण्यस्य पुनर् आश्रयणीयत्वम्; तन्-निरासेनाङ्गीकृतस्य अप्रामाण्यस्य पुनः परित्याग इति चत्वारो दोषा एकस्मिन् वाक्ये प्रसज्यन्ते । द्वितीये ऽपि प्राप्त-परित्यागो ऽप्राप्ताश्रयणं परित्यक्तोपादानं यत् आनीतस्य परित्याग इति चत्वारो दोषाः । तथा ऽपि तुल्य-बलत्वात् गत्य्-अन्तराभावाच् च व्रीहि-यवयोर् विकल्प आश्रितः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -67,6 +74,14 @@ for instance: "He must sacrifice with rice,"
 beside "he must sacrifice with barley." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘क्वचित्’ = वेद-वाक्ये
+
+व्रीहिभिर्यजेत ... Āpastamba Śrautasūtra, VI. 3.1.13.
+
+यवैर्यजेत ... To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -86,6 +101,10 @@ In the latter case it is impossible to eliminate one or the other
 because both ~~neither~~ of these statements is characterized by independence. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अनपेक्षत्वाविशिष्टत्वात् = अपौरुषेयत्वात् ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -143,6 +162,10 @@ So how can they be alternatives and optional?
 109\. REFUTATION. Listen: because Pañcarātra too is independent.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘निरपेक्षत्वात्’, वचनान्तर-मूलान्तर-निरपेक्षत्वात् ।
+</details>
 
 <details><summary>मूलम्</summary>
 
