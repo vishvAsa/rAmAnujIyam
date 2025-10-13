@@ -22803,16 +22803,431 @@ Su **ser** el lugar de **descanso** de los jīvas para **reposo**,
 अनुग्रह-विशेषवत्त्वम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अनुग्रह-विशेषवत्त्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **dispensation** of special favours to all jīvas at that time, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **dispensación** de favores especiales a todos los jīvas en ese momento, 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 अनुग्रहविशेषवत्त्वम्, 
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म-नाडी-द्वार-प्रकाशकत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ब्रह्म-नाडी-द्वार-प्रकाशकत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **lighting up** of the opening of the Brahma Nadi  
+for the **entrance** of the self,  
+</details>
+
+<details><summary>Español</summary>
+
+Su **iluminación** de la apertura del Brahma Nadi  
+para la **entrada** del yo,  
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मनाडीद्वारप्रकाशकत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्-प्रवेशकत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्-प्रवेशकत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **enabling** the self to **enter** it, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **habilitación** del yo para **entrar** en él, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्प्रवेशकत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म-रन्ध्रोत्क्रान्ति-हेतुत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ब्रह्म-रन्ध्रोत्क्रान्ति-हेतुत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being** the cause of the **emergence** of the self  
+out of the opening of the Brahma nādi, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** la causa de la **emergencia** del yo  
+por la abertura del Brahma nādi, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मरन्ध्रोत्क्रान्तिहेतुत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्चिर्-आद्य्-आतिवाहिक-नियोक्तृत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अर्चिर्-आद्य्-आतिवाहिक-नियोक्तृत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+the **appointment** by Him of Archis and other **escorts** for the self, 
+</details>
+
+<details><summary>Español</summary>
+
+el **nombramiento** por Él de Archis y otros **escoltas** para el yo, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अर्चिराद्यातिवाहिकनियोक्तृत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सूर्य-द्वारादि-नेतृत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सूर्य-द्वारादि-नेतृत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **leading** the self through the gateway of the sun, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **guiando** al yo a través de la puerta del sol, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सूर्यद्वारादिनेतृत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अण्डावरण--प्रकृति-मण्डलातिक्रम-हेतुत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अण्डावरण--प्रकृति-मण्डलातिक्रम-हेतुत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being** the Cause of the self **emerging** out of the sphere (anda) of the material universe, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** la Causa del yo **emergiendo** de la esfera (anda) del universo material, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अण्डावरणप्रकृतिमण्डलातिक्रमहेतुत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विरजा-तीर-प्रापकत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+विरजा-तीर-प्रापकत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **leading** the self to the bank of the river Viraja, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **conduciendo** al yo a la orilla del río Viraja, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+विरजातीरप्रापकत्वम्, 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सूक्ष्म-शरीर-विश्लेषकत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सूक्ष्म-शरीर-विश्लेषकत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being** the cause of the **separation** of the subtle body from the self, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** la causa de la **separación** del cuerpo sutil del yo, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सूक्ष्मशरीरविश्लेषकत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-प्राकृत-देह-प्रदत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-प्राकृत-देह-प्रदत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **granting**, to the self, of a transcendental (non-material) body, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **otorgamiento**, al yo, de un cuerpo trascendental (no material), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्राकृतदेहप्रदत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दिव्याप्सरस्--सत्-कारादि-प्रयोजकत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+दिव्याप्सरस्--सत्-कारादि-प्रयोजकत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being** the cause of the self **being welcomed and honoured** by the divine Apsarases, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** la causa del yo **ser bienvenido y honrado** por los divinos Apsarases, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+दिव्याप्सरस्सत्कारादिप्रयोजकत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म-गन्धादि-प्रवेशकत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ब्रह्म-गन्धादि-प्रवेशकत्वम्, 
+</details>
+
+
+<details><summary>English</summary>
+
+His **causing** the self to enter the Brahmic fragrance and the like, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **causa** de que el yo **entre** en la fragancia brahmánica y cosas por el estilo, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मगन्धादि-प्रवेशकत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्य-मुक्त--सत्-कार--विशेष-हेतुत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+नित्य-मुक्त--सत्-कार--विशेष-हेतुत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being** the cause of the self **being welcomed and honoured** by the eternal süris and the released souls (muktas), 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** la causa del yo **ser bienvenido y honrado** por los süris eternos y las almas **liberadas** (muktas), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नित्यमुक्तसत्कारविशेषहेतुत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पर्यङ्काधिरोहण-पर्यन्तादरवत्त्वम्, 
+</details>
+<details><summary>नीलमेघः (सं)</summary>
+
+पर्यङ्काधिरोहण-पर्यन्तादरवत्त्वम्, 
+</details>
+
+
+<details><summary>English</summary>
+
+the regard **shown** by Him  
+up to the time when the self **rises** to the couch, 
+</details>
+
+<details><summary>Español</summary>
+
+la **consideración mostrada** por Él  
+hasta el momento en que el yo **se levanta** al sofá, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पर्यङ्काधिरोहणपर्यन्तादरवत्त्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परिपूर्णानुभव-हेतुत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+परिपूर्णानुभव-हेतुत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being** the cause of the self **enjoying** perfect bliss, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** la causa del **disfrute** de la felicidad perfecta, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+परिपूर्णानुभवहेतुत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रधान-प्राप्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रधान-प्राप्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+His **being** the principal goal of attainment, 
+</details>
+
+<details><summary>Español</summary>
+
+Su **ser** la meta principal de **logro**, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रधानप्राप्यत्वम्, 
+</details>
+
+
+
 we should reflect on the following qualities of His in principal and on other excellent traits connected with them:-  
 
 
-His **dispensation** of special favours to all jīvas at that time, His lighting up of the opening of the Brahma Nadi for the entrance of the self, His enabling the self to enter it, His **being** the cause of the emergence of the self out of the opening of the Brahma nādi, the appointment by Him of Archis and other escort for the self, His leading the self through the gateway of the sun, His **being** the Cause of the self emerging out of the sphere (anda) of the material universe, His leading the self to the bank of the river Viraja, His **being** the cause of the separation of the subtle body from the self, His granting, to the self, of a transcendental (non-material) body, His **being** the cause of the self **being** welcomed and honoured by the divine Apsarases, His causing the self to enter the Brahmic fragrance and the like, His **being** the cause of the self **being** welcomed and honoured by the eternal süris and the released souls (muktas), the regard shown by Him up to the time when the self rises to the couch, His **being** the cause of the self enjoying perfect blies, His **being** the principal goal of attainment, His **being** responsible for all kinds of service rendered with the body, without the body[^93] and with more bodies than one, His possession of all objects of desire, His enjoyment of unsurpassed bliss, His **being** an object of upsurpassed enjoyment, His **being** an object of enjoyment in all forms, His **being** favourable, by His very nature, at all times, His bestowal to the self of bliss perfectly similar to His own, His inability to endure separation from thuse who seek succour from Him, and his **being** the cause of the self never returning to samsára. (108).
+
+His **being** responsible for all kinds of service rendered with the body, without the body[^93] and with more bodies than one, His possession of all objects of desire, His enjoyment of unsurpassed bliss, His **being** an object of upsurpassed enjoyment, His **being** an object of enjoyment in all forms, His **being** favourable, by His very nature, at all times, His bestowal to the self of bliss perfectly similar to His own, His inability to endure separation from thuse who seek succour from Him, and his **being** the cause of the self never returning to samsára. (108).
 
 [^93]: Service without the body: Perhaps this should be taken to mean anubhava or experience.]
 
