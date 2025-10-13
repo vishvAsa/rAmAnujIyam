@@ -202,7 +202,7 @@ his descendents of course became mAmuni-ites.
 
 
 ### भगवद्-विषय-परम्परा
-रामानुजः → ऎम्बार् गोविन्दः → पराशर-भट्टः → पॆरिय-जीयर्, नञ्-जीयर् (मैसूरु-प्रदेशे तॆङ्गले-ग्रामात्) 9k-व्याख्या-स्रोतः (शिष्य-लेखितः) → नम्पिळ्ळै → पॆरियव्-आच्चान्-पिळ्ळै, वडक्कुत्-तिरु-वीदिप्-पिळ्ळै (ईडु-३६k-व्याख्या-लेखकः) → Vāraṇādrīśa/ Pillai Lokacharya, अऴगिय-मणवाळः → thiruvAimozhi piLLai → Manavala Mamuni →   VanamamAlai jIyar, paravastu-bhaTTa Piran jIyar, tiruvenkaTa jIyar, kovil kandaaDai aNNan, Erumbi Appa, Appillai, Appillan, (एकदेशिनाम् अनुसारेण) prathivadi-bhayankara aNNan (वेदान्तदेशिकात्मजस्यापि श्रीभाष्यशिष्यः)
+रामानुजः → ऎम्बार् गोविन्दः → पराशर-भट्टः → पॆरिय-जीयर्, नञ्-जीयर् (मैसूरु-प्रदेशे तॆङ्गले-ग्रामात्) 9k-व्याख्या-स्रोतः (शिष्य-लेखितः) → नम्पिळ्ळै → पॆरियव्-आच्चाऩ्-पिळ्ळै (दिव्य-प्रबन्ध-व्याख्याता), वडक्कुत्-तिरु-वीदिप्-पिळ्ळै (ईडु-३६k-व्याख्या-लेखकः) → Vāraṇādrīśa/ Pillai Lokacharya, अऴगिय-मणवाळः → thiruvAimozhi piLLai → Manavala Mamuni →   VanamamAlai jIyar, paravastu-bhaTTa Piran jIyar, tiruvenkaTa jIyar, kovil kandaaDai aNNan, Erumbi Appa, Appillai, Appillan, (एकदेशिनाम् अनुसारेण) prathivadi-bhayankara aNNan (वेदान्तदेशिकात्मजस्यापि श्रीभाष्यशिष्यः)
 
 वडक्कुत्-तिरु-वीदिप्-पिळ्ळै इत्यनेन रचिता प्रथम-व्याख्या तद्-आचार्येण नम्पिळ्ळै-महाशयेन तिरस्कृता ज्वालिता च।  
 पुनर् लिखिते सति, निगूहितम्। तच्च पुनर् मनवाळ-मामुनि-काले वंश-प्राप्तं प्रकाशितम्। 
@@ -229,8 +229,8 @@ was upset when ranganAtha of shrIrangam decided in favor of VD's work represente
 </details>
 
 #### स्मार्त-भागवताः
-केचिद् द्राविडाः स्मार्ताश् चन्दन-पुण्ड्रधारिणो रङ्गनाथनिभाः ([YT](https://www.youtube.com/watch?v=-amOdFBStKI))  
-पॆरियव्-आच्चान्-पिळ्ळै-परम्परां वदन्ति।  
+केचिद् द्राविडाः स्मार्ताश् चन्दन-पुण्ड्रधारिणो कृष्ण-प्रेमि-सुत- रङ्गनाथ-निभाः ([YT](https://www.youtube.com/watch?v=-amOdFBStKI))।  
+रङ्गनाथादयः पॆरियव्-आच्चान्-पिळ्ळै-दुहितृ-प्रजा इति वदन्ति।  
 
 
 ### प्रपत्तौ व्यावृत्तिः

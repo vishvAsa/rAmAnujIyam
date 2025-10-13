@@ -1,0 +1,22396 @@
++++
+title = "तिरुच्चन्दविरुत्तम् पदवुरै"
++++
+
+
+<details open><summary>मूलम् - ७५२।१</summary>
+
+पू निलाय ऐन्दुम् आय्
+</details>
+
+
+
+<details><summary>टीका - ७५२।१</summary>
+
+(ऎम्बॆरुमाऩे) पूमियिल् तङ्गियिरुक्किऱ (सप्तम् मुदलिय) ऐन्दु कुणङ्गळुक्कुम् निर्वाहगऩाय्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७५२।२</summary>
+
+पुऩल् कण् निऩ्ऱ नाऩ्गुम् आय्
+</details>
+
+
+
+<details><summary>टीका - ७५२।२</summary>
+
+नीरिले उळ्ळ नाऩ्गु कुणङ्गळुक्कुम् निर्वाहगऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५२।३</summary>
+
+ती निलाय मूऩ्ऱुम्आय्
+</details>
+
+
+
+<details><summary>टीका - ७५२।३</summary>
+
+तेजस्सिले उळ्ळ मूऩ्ऱु कुणङ्गळुक्कुम् निर्वाहगऩाय्,
+</details>
+
+
+
+<details open><summary>मूलम् - ७५२।४</summary>
+
+सिऱन्द काल् इरण्डुम् आय्
+</details>
+
+
+
+<details><summary>टीका - ७५२।४</summary>
+
+(सर्वप्पिराणिगळुक्कुम्  जीव हेदुवागैयाले) च्रेष्टमाऩ वायुविले उळ्ळ इरण्डु कुणङ्गळुक्कुम् निर्वाहऩाय्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७५२।५</summary>
+
+मी निलायदु ऒऩ्ऱुम् आगि
+</details>
+
+
+
+<details><summary>टीका - ७५२।५</summary>
+
+आगासत्तिले उळ्ळ सप्तगुणमॊऩ्ऱुक्कुम् निर्वाहगऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५२।६</summary>
+
+वेऱु वेऱु तऩ्मै आय्
+</details>
+
+
+
+<details><summary>टीका - ७५२।६</summary>
+
+परस्परम् विलक्षणमाऩ तेवादि पदार्त्तङ्गळुक्कुम् आत्मावाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५२।७</summary>
+
+नी निलाय वण्णम्
+</details>
+
+
+
+<details><summary>टीका - ७५२।७</summary>
+
+नी निऱ्‌किऱ पडियैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५२।८</summary>
+
+निऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ७५२।८</summary>
+
+उऩ्ऩैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५२।९</summary>
+
+आर् निऩैक्क वल्लर्
+</details>
+
+
+
+<details><summary>टीका - ७५२।९</summary>
+
+स्वप्रयत्नत्तिऩाल् यार् ताऩ् सिन्दित्तऱियक् कडवर्?
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।१</summary>
+
+आऱुम् आय्
+</details>
+
+
+
+<details><summary>टीका - ७५३।१</summary>
+
+(अत्ययनम् मुदलिय) आऱु करुमङ्गळुक्कुम् निर्वाहगऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।२</summary>
+
+आऱुम् (आय्)
+</details>
+
+
+
+<details><summary>टीका - ७५३।२</summary>
+
+(अक्करुमङ्गळै अनुष्टिप्पदऱ्‌कु उरिय कालमागिय वसन्दम् मुदलिय) आऱु रुदुक्कळुक्कुम् निर्वाहगऩाय्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।३</summary>
+
+आऱुम्(आय्)
+</details>
+
+
+
+<details><summary>टीका - ७५३।३</summary>
+
+(आक्नेयम् मुदलिय) आऱु यज्ञङ्गळाले आरादिक्कत्तगुन्दवऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।४</summary>
+
+ओर् ऐन्दुम् आय्
+</details>
+
+
+
+<details><summary>टीका - ७५३।४</summary>
+
+पञ्जमहा यज्ञङ्गळाल् आरात्यऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।५</summary>
+
+ऐन्दुम् (आय्)
+</details>
+
+
+
+<details><summary>टीका - ७५३।५</summary>
+
+पञ्जाहुदिगळाले आरात्यऩाय्,
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।६</summary>
+
+ऐन्दुम् (आय्)
+</details>
+
+
+
+<details><summary>टीका - ७५३।६</summary>
+
+(कार्हबत्यम् मुदलिय) पञ्जाक्निगळैच् चरीरमागक् कॊण्डवऩाय्,
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।७</summary>
+
+एऱु सीर्
+</details>
+
+
+
+<details><summary>टीका - ७५३।७</summary>
+
+मिक्क अदिसयत्तैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।८</summary>
+
+इरण्डुम् (आय्)
+</details>
+
+
+
+<details><summary>टीका - ७५३।८</summary>
+
+(ज्ञान विरक्तिगळागिऱ) इरण्डैयुम् अळिक्कवल्लऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।९</summary>
+
+मूऩ्ऱुम् (आय्)
+</details>
+
+
+
+<details><summary>टीका - ७५३।९</summary>
+
+(अन्द ज्ञानविरक्तिसात्यमाऩ) परबक्ति परज्ञान परम पक्तिगळागिऱ मूऩ्ऱैयुम् अळिक्कवल्लऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।१०</summary>
+
+एऴुम् (आय्)
+</details>
+
+
+
+<details><summary>टीका - ७५३।१०</summary>
+
+(विवेगादिगळाऩ) एऴुक्कुम् निर्वाहगऩाय्,
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।११</summary>
+
+आऱुम् (आय्)
+</details>
+
+
+
+<details><summary>टीका - ७५३।११</summary>
+
+(ज्ञानसक्तियागि) आऱु कुणङ्गळुक्कुम् निर्वाहगऩाय्,
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।१२</summary>
+
+ऎट्टुम् आय्
+</details>
+
+
+
+<details><summary>टीका - ७५३।१२</summary>
+
+(अबहदबाप्मत्वम् मुदलिय) ऎट्टुक् कुणङ्गट्कुम् निर्वाहगऩाय्,
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।१३</summary>
+
+वेऱु वेऱु ञाऩम् आगि
+</details>
+
+
+
+<details><summary>टीका - ७५३।१३</summary>
+
+पाह्यसमयमॆऩ्ऱुम् कुत्रुष्टि समयमॆऩ्ऱुम् पलबलवागच् चॊल्लप्पडुगिऱ समयङ्गट्कु प्रवर्त्तगऩाय्,
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।१४</summary>
+
+मॆय्यिऩोडु पॊय्युम् आय्
+</details>
+
+
+
+<details><summary>टीका - ७५३।१४</summary>
+
+यदार्त्त ञाऩिगळुक्कु मॆय्यऩाय्, अल्लादार्क्कुप् पॊय्यऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।१५</summary>
+
+ऊऱॊडु ओसै आय ऐन्दुम् आय
+</details>
+
+
+
+<details><summary>टीका - ७५३।१५</summary>
+
+स्पर्सम् सप्तम् मुदलिय पञ्ज विषयङ्गळुमागक् कडवैयाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।१६</summary>
+
+आय!
+</details>
+
+
+
+<details><summary>टीका - ७५३।१६</summary>
+
+कोबालसजादीयऩाय् वन्दु पिऱन्दवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।१७</summary>
+
+निऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ७५३।१७</summary>
+
+उऩ्ऩैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५३।१८</summary>
+
+आर् निऩैक्क वल्लर्
+</details>
+
+
+
+<details><summary>टीका - ७५३।१८</summary>
+
+स्वप्रयत्नत्तिऩाल् यार् ताऩ् सिन्दित्तऱियक् कडवर्?
+</details>
+
+
+
+<details open><summary>मूलम् - ७५४।१</summary>
+
+ऐन्दुम्
+</details>
+
+
+
+<details><summary>टीका - ७५४।१</summary>
+
+आगासादि पूदङ्गळ् ऐन्दुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५४।२</summary>
+
+ऐन्दुम्
+</details>
+
+
+
+<details><summary>टीका - ७५४।२</summary>
+
+ज्ञानेन्दिरियङ्गळ् ऐन्दुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५४।३</summary>
+
+ऐन्दुम्
+</details>
+
+
+
+<details><summary>टीका - ७५४।३</summary>
+
+करुमेन्दिरियङ्गळ् ऐन्दुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५४।४</summary>
+
+ऐन्दुम्
+</details>
+
+
+
+<details><summary>टीका - ७५४।४</summary>
+
+तन्मात्रैगळ् ऐन्दुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५४।५</summary>
+
+मूऩ्ऱुम्
+</details>
+
+
+
+<details><summary>टीका - ७५४।५</summary>
+
+प्रक्रुदि, महान्, अहङ्गारम् ऎऩ्ऱ मूऩ्ऱुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५४।६</summary>
+
+ऒऩ्ऱुम्
+</details>
+
+
+
+<details><summary>टीका - ७५४।६</summary>
+
+मनस्सागिय ऒऩ्ऱुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५४।७</summary>
+
+आगि
+</details>
+
+
+
+<details><summary>टीका - ७५४।७</summary>
+
+(आग इप्पडिप्पट्ट इरुबत्तिऩालु तत्तुवङ्गट्कु) निर्वाहगऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५४।८</summary>
+
+अल्ल वऱ्‌ऱुळायुम् आय् निऩ्ऱ
+</details>
+
+
+
+<details><summary>टीका - ७५४।८</summary>
+
+कीऴ्च्चॊल्लप्पट्ट असित्तुप् पोलऩ्ऱिये सेदनरायुळ्ळवर्गट्कुम् अन्दर्यामियाय् ऎऴुन्दरुळियिरुक्किऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७५४।९</summary>
+
+आदिदेवऩे!
+</details>
+
+
+
+<details><summary>टीका - ७५४।९</summary>
+
+मुऴु मुदऱ्‌कडवुळे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७५४।१०</summary>
+
+अन्दरत्तु अणैन्दु! निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७५४।१०</summary>
+
+परमबदत्तिले पॊरुन्दि निऩ्ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ७५४।११</summary>
+
+ऐन्दुम् ऐन्दुम् ऐन्दुम् आगि
+</details>
+
+
+
+<details><summary>टीका - ७५४।११</summary>
+
+अप्राक्रुद पञ्जसक्तिगळुक्कुम् ज्ञानेन्दिरियङ्गळैन्दुक्कुम्, करुमेन्दिरियङ्गळैन्दुक्कुम् निर्वाहगऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५४।१२</summary>
+
+ऐन्दुम् ऐन्दुम् आय निऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ७५४।१२</summary>
+
+सप्तादिबोक्यङ्गळैन्दुमाय्, पोगस्तागम्, पोगोबगरणम्, वैगुन्दत्तमरर् मुऩिवर् मुक्तर् ऎऩ्ऱ ऐन्दु वगुप्पुगट्कु नियामगऩुमा यॆऴुन्दरुळियिरुक्किऱ उऩ्ऩै।
+</details>
+
+
+
+<details open><summary>मूलम् - ७५४।१३</summary>
+
+यावर् काण वल्लर्
+</details>
+
+
+
+<details><summary>टीका - ७५४।१३</summary>
+
+यार् अऱियवल्लर्? (यारुमऱियगिल्लार्।)
+</details>
+
+
+
+<details open><summary>मूलम् - ७५५।१</summary>
+
+मूऩ्ऱु मुप्पदु
+</details>
+
+
+
+<details><summary>टीका - ७५५।१</summary>
+
+मुप्पत्तु मूऩ्ऱु हल्लॆऴुत्तुगट्कुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५५।२</summary>
+
+आऱिऩॊरु ऒरु ऐन्दुम् ऐन्दुम्
+</details>
+
+
+
+<details><summary>टीका - ७५५।२</summary>
+
+पदिऩाऱु अच्चॆऴुत्तुगट्कुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५५।३</summary>
+
+ऐन्दु
+</details>
+
+
+
+<details><summary>टीका - ७५५।३</summary>
+
+ळगारादि पञ्जाक्षरङ्गट्कुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५५।४</summary>
+
+आय्
+</details>
+
+
+
+<details><summary>टीका - ७५५।४</summary>
+
+निर्वाहगऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५५।५</summary>
+
+मूऩ्ऱु मूर्त्ति आगि
+</details>
+
+
+
+<details><summary>टीका - ७५५।५</summary>
+
+रुक्कु, यजुस्, सरमम् ऩऎ“किऱ वेदत्रय स्वरूबियाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५५।६</summary>
+
+मूऩ्ऱु मूऩ्ऱु मूऩ्ऱु मूऩ्ऱुम् आय्
+</details>
+
+
+
+<details><summary>टीका - ७५५।६</summary>
+
+त्वादसाक्षरी प्रदि पात्यऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५५।७</summary>
+
+मूऩ्ऱु तोऩ्ऱु सोदि आय्
+</details>
+
+
+
+<details><summary>टीका - ७५५।७</summary>
+
+मूऩ्ऱु ट्अषरमागिय प्रणवत्तिले विळङ्गुम् ज्योदिरिमयऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५५।८</summary>
+
+तुळक्कम् इल् विळक्कम् आय्
+</details>
+
+
+
+<details><summary>टीका - ७५५।८</summary>
+
+ऎऩ्ऱु मऴिवऱ्‌ऱ विळक्कागिय अगारत्तुक्कु वाच्यऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५५।९</summary>
+
+ऎम् ईसऩे
+</details>
+
+
+
+<details><summary>टीका - ७५५।९</summary>
+
+ऎमक्कु निरुबादिग सेषियायिरुप्पवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७५५।१०</summary>
+
+ऎऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७५५।१०</summary>
+
+(ऎऩ् कारियङ्गळैयॆल्लाम् नीये उऩ् तलैच्चुमैयाग) एऱिट्टुक्कॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ७५५।११</summary>
+
+ऎऩ् आवियुळ्
+</details>
+
+
+
+<details><summary>टीका - ७५५।११</summary>
+
+ऎऩ्ऩुडैय ह्रुदयत्तिऩुळ्ळे
+</details>
+
+
+
+<details open><summary>मूलम् - ७५५।१२</summary>
+
+पुगुन्ददु
+</details>
+
+
+
+<details><summary>टीका - ७५५।१२</summary>
+
+पुगुन्दिरुप्पदु
+</details>
+
+
+
+<details open><summary>मूलम् - ७५५।१३</summary>
+
+ऎऩ् कॊल्?
+</details>
+
+
+
+<details><summary>टीका - ७५५।१३</summary>
+
+ऎऩ्ऩ नीर्मै!
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।१</summary>
+
+निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७५६।१</summary>
+
+स्तावरमायुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।२</summary>
+
+इयङ्गुम्
+</details>
+
+
+
+<details><summary>टीका - ७५६।२</summary>
+
+जङ्गममायुमिरुक्किऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।३</summary>
+
+ऒऩ्ऱु अला रुक्कळ् तोऱुम्
+</details>
+
+
+
+<details><summary>टीका - ७५६।३</summary>
+
+पलवगैयाऩ सरीरङ्गळ् तोऱुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।४</summary>
+
+आवि आय्
+</details>
+
+
+
+<details><summary>टीका - ७५६।४</summary>
+
+आत्मावाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।५</summary>
+
+ऒऩ्ऱि
+</details>
+
+
+
+<details><summary>टीका - ७५६।५</summary>
+
+पॊरुन्दि
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।६</summary>
+
+उळ् कलन्दु निऩ्ऱ
+</details>
+
+
+
+<details><summary>टीका - ७५६।६</summary>
+
+परिसमाप्य वर्त्तियानिऩ्ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।७</summary>
+
+निऩ्ऩ
+</details>
+
+
+
+<details><summary>टीका - ७५६।७</summary>
+
+उऩ्ऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।८</summary>
+
+तऩ्मै
+</details>
+
+
+
+<details><summary>टीका - ७५६।८</summary>
+
+स्वबावम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।९</summary>
+
+इऩ्ऩदु ऎऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७५६।९</summary>
+
+इत्तगैयदॆऩ्ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।१०</summary>
+
+ऎऩ्ऱुम्
+</details>
+
+
+
+<details><summary>टीका - ७५६।१०</summary>
+
+ऎक्कालत्तिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।११</summary>
+
+यार्क्कुम्
+</details>
+
+
+
+<details><summary>टीका - ७५६।११</summary>
+
+ऎप्पडिप्पट्ट ञाऩिगट्कुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।१२</summary>
+
+ऎण् इऱन्द
+</details>
+
+
+
+<details><summary>टीका - ७५६।१२</summary>
+
+सिन्दिक्क मुडियादिरुक्किऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।१३</summary>
+
+आदियाय्
+</details>
+
+
+
+<details><summary>टीका - ७५६।१३</summary>
+
+आदिगारणबूदऩऩाऩ ऎऩम्बॆरुमाऩे! (नी)
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।१४</summary>
+
+अऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७५६।१४</summary>
+
+मुऱ्‌कालत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।१५</summary>
+
+निऩ् उन्दिवाय्
+</details>
+
+
+
+<details><summary>टीका - ७५६।१५</summary>
+
+उऩदु तिरुनाबियिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।१६</summary>
+
+नाऩ् मुगऩ्
+</details>
+
+
+
+<details><summary>टीका - ७५६।१६</summary>
+
+सदुर्मुगप्रह्मावै
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।१७</summary>
+
+पयन्द
+</details>
+
+
+
+<details><summary>टीका - ७५६।१७</summary>
+
+पडैत्त
+</details>
+
+
+
+<details open><summary>मूलम् - ७५६।१८</summary>
+
+आदिदेवऩ् अल्लैये
+</details>
+
+
+
+<details><summary>टीका - ७५६।१८</summary>
+
+मुऴु मुदऱ्‌ कडवुळल्लैयोर्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।१</summary>
+
+नागम् एन्दुम् आग!
+</details>
+
+
+
+<details><summary>टीका - ७५७।१</summary>
+
+तिरुवऩन्दाऴ्वऩाले तरिक्कप्पट्ट तिरुमेऩियैयुडैय ऎम्बॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।२</summary>
+
+नागम्
+</details>
+
+
+
+<details><summary>टीका - ७५७।२</summary>
+
+सवर्क्कलोगत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।३</summary>
+
+एन्दु
+</details>
+
+
+
+<details><summary>टीका - ७५७।३</summary>
+
+तरिक्किऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।४</summary>
+
+मेरु वॆऱ्‌पै
+</details>
+
+
+
+<details><summary>टीका - ७५७।४</summary>
+
+मेरु पर्वदत्तैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।५</summary>
+
+नागम्
+</details>
+
+
+
+<details><summary>टीका - ७५७।५</summary>
+
+तिरुवऩन्दाऴ्वाऩ् (अल्लदु) तिक्कजङ्गळाले
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।६</summary>
+
+एन्दु
+</details>
+
+
+
+<details><summary>टीका - ७५७।६</summary>
+
+तरिक्कप्पट्ट
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।७</summary>
+
+मण्णिऩै
+</details>
+
+
+
+<details><summary>टीका - ७५७।७</summary>
+
+पूमियैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।८</summary>
+
+मागम्
+</details>
+
+
+
+<details><summary>टीका - ७५७।८</summary>
+
+परम पदत्तैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।९</summary>
+
+मागम् एन्दु वार्बुऩल्
+</details>
+
+
+
+<details><summary>टीका - ७५७।९</summary>
+
+आगासत्ताले तरिक्कप्पट्ट सिऱन्दगङ्गळैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।१०</summary>
+
+मा कम् एन्दु मङ्गुल्
+</details>
+
+
+
+<details><summary>टीका - ७५७।१०</summary>
+
+आगासत्ताले तरिक्कप्पट्ट मेग मण्डलत्तैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।११</summary>
+
+ओर् ती
+</details>
+
+
+
+<details><summary>टीका - ७५७।११</summary>
+
+वैच्वानराक्कियैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।१२</summary>
+
+ऐन्दु वायु
+</details>
+
+
+
+<details><summary>टीका - ७५७।१२</summary>
+
+पञ्जव्रुत्ति प्राणङ्गळैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।१३</summary>
+
+अमैन्दु कात्तु
+</details>
+
+
+
+<details><summary>टीका - ७५७।१३</summary>
+
+पॊरुन्दि रक्षित्तरुळि
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।१४</summary>
+
+एगम् एन्दि निऩ्ऱ नीर्मै
+</details>
+
+
+
+<details><summary>टीका - ७५७।१४</summary>
+
+(ऎल्लावऱ्‌ऱैयुम्) ऒरु वस्तुवे तरित्तुक्कॊण्डु निऱ्‌किऱदॆऩ्ऱु (उबनिषत्तक्कळिल्) सॊल्लप्पट्टुळ्ळ स्वबावम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।१५</summary>
+
+निऩ्गणे
+</details>
+
+
+
+<details><summary>टीका - ७५७।१५</summary>
+
+उऩ्ऩिडत्तिल् नाऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५७।१६</summary>
+
+इयऩ्ऱदु
+</details>
+
+
+
+<details><summary>टीका - ७५७।१६</summary>
+
+इरुक्किऩ्ऱदु।
+</details>
+
+
+
+<details open><summary>मूलम् - ७५८।१</summary>
+
+ऒऩ्ऱु इणर्डु मूर्त्ति आय्
+</details>
+
+
+
+<details><summary>टीका - ७५८।१</summary>
+
+प्रदानमाऩ ऒरु मूर्त्तियुम् अप्रदानमाऩ इरण्डु मूर्त्तियुमाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५८।२</summary>
+
+उऱक्कमोडु उणर्च्चि आय्
+</details>
+
+
+
+<details><summary>टीका - ७५८।२</summary>
+
+अज्ञानत्तुक्कुम् सत्ज्ञाऩत्तुक्कुम् नियामगऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५८।३</summary>
+
+ऒऩ्ऱु इरण्डु कालम् आगि
+</details>
+
+
+
+<details><summary>टीका - ७५८।३</summary>
+
+मूऩ्ऱु कालङ्गळुक्कुम् निर्वाहऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५८।४</summary>
+
+वेलै ञाम् आयिऩाय्
+</details>
+
+
+
+<details><summary>टीका - ७५८।४</summary>
+
+कडल्सूऴ्न्द पूमण्डलत्तुक्कु प्रवत्तगऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५८।५</summary>
+
+ऒऩ्ऱु इरण्डु तीयुम् आगि
+</details>
+
+
+
+<details><summary>टीका - ७५८।५</summary>
+
+मूऩ्ऱु अक्निगळुक्कुम् निर्वाहऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५८।६</summary>
+
+आयऩ् आय
+</details>
+
+
+
+<details><summary>टीका - ७५८।६</summary>
+
+कोबालसजादीयऩाय् अवदरित्त
+</details>
+
+
+
+<details open><summary>मूलम् - ७५८।७</summary>
+
+मायऩे!
+</details>
+
+
+
+<details><summary>टीका - ७५८।७</summary>
+
+आच्चर्यबूदऩाऩ ऎम्बॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७५८।८</summary>
+
+ऒऩ्ऱु इरण्डु कण्णिऩालुम्
+</details>
+
+
+
+<details><summary>टीका - ७५८।८</summary>
+
+मुक्कण्णऩाऩ सिवबिराऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५८।९</summary>
+
+उऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ७५८।९</summary>
+
+उऩ्ऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ७५८।१०</summary>
+
+एन्द वल्लऩे
+</details>
+
+
+
+<details><summary>टीका - ७५८।१०</summary>
+
+तुदिक्क वल्लवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७५९।१</summary>
+
+आदि आऩ काल
+</details>
+
+
+
+<details><summary>टीका - ७५९।१</summary>
+
+आदिगालत्तुक्कु निर्वाहगऩाऩवऩे!।
+</details>
+
+
+
+<details open><summary>मूलम् - ७५९।२</summary>
+
+आदि आऩ
+</details>
+
+
+
+<details><summary>टीका - ७५९।२</summary>
+
+जक्त्स्रुष्टि मुदलिऩवऱ्‌ऱुक्कुक् कर्त्ताक्कळाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७५९।३</summary>
+
+वाऩवर्क्कुम्
+</details>
+
+
+
+<details><summary>टीका - ७५९।३</summary>
+
+(पिरमऩ् मुदलिय) तेवदैगट्कुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७५९।४</summary>
+
+अण्डम् आय अप्पुऱत्तु आगि आऩ वाऩवर्क्कुम्
+</details>
+
+
+
+<details><summary>टीका - ७५९।४</summary>
+
+अण्डमॆऩ्ऱु पॆयर् पॆऱ्‌ऱ अप्परमबदत्तिलुळ्ळ प्रदानगर्गळाऩ नित्यसूरिगळुक्कुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७५९।५</summary>
+
+आदि आऩ
+</details>
+
+
+
+<details><summary>टीका - ७५९।५</summary>
+
+निर्वाहगऩाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७५९।६</summary>
+
+आदि
+</details>
+
+
+
+<details><summary>टीका - ७५९।६</summary>
+
+अदिबदि
+</details>
+
+
+
+<details open><summary>मूलम् - ७५९।७</summary>
+
+नी
+</details>
+
+
+
+<details><summary>टीका - ७५९।७</summary>
+
+नीयागिऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७५९।८</summary>
+
+आदि आऩ
+</details>
+
+
+
+<details><summary>टीका - ७५९।८</summary>
+
+जगत्तुक्कुक् कडवर्गळाग एऱ्‌पट्टिरुक्किऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७५९।९</summary>
+
+वाऩम् वाणर्
+</details>
+
+
+
+<details><summary>टीका - ७५९।९</summary>
+
+(पिरमऩ् मुदलिय) मेलुलगत्तवर्गळिऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७५९।१०</summary>
+
+अन्द कालम्
+</details>
+
+
+
+<details><summary>टीका - ७५९।१०</summary>
+
+मुडिवु कालत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ७५९।११</summary>
+
+नी उरैत्ति
+</details>
+
+
+
+<details><summary>टीका - ७५९।११</summary>
+
+नी अरुळिच्चॆय्य निऩ्ऱाय्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७५९।१२</summary>
+
+आदि कालम आऩ निऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ७५९।१२</summary>
+
+आदिगालत्तुक्कु निर्वाहगऩाऩ उऩ्ऩै।
+</details>
+
+
+
+<details open><summary>मूलम् - ७५९।१३</summary>
+
+यावर् काणवल्लर्
+</details>
+
+
+
+<details><summary>टीका - ७५९।१३</summary>
+
+परिच्चेदिक्क वल्लार् यार्?
+</details>
+
+
+
+<details open><summary>मूलम् - ७६०।१</summary>
+
+तादु उलावु
+</details>
+
+
+
+<details><summary>टीका - ७६०।१</summary>
+
+तादुगळ् उलावुगिऩ्ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७६०।२</summary>
+
+कॊऩ्ऱै मालै
+</details>
+
+
+
+<details><summary>टीका - ७६०।२</summary>
+
+कॊऩ्ऩैप्पू मालैयैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६०।३</summary>
+
+तुऩ्ऩु सॆम् सडै
+</details>
+
+
+
+<details><summary>टीका - ७६०।३</summary>
+
+नॆरुङ्गिय सिवन्द सडैयैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७६०।४</summary>
+
+सिवऩ्
+</details>
+
+
+
+<details><summary>टीका - ७६०।४</summary>
+
+रुत्रऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६०।५</summary>
+
+नीदियाल्
+</details>
+
+
+
+<details><summary>टीका - ७६०।५</summary>
+
+मुऱैमैप्पडि
+</details>
+
+
+
+<details open><summary>मूलम् - ७६०।६</summary>
+
+वणङ्गु
+</details>
+
+
+
+<details><summary>टीका - ७६०।६</summary>
+
+वणङ्गप्पॆऱ्‌ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७६०।७</summary>
+
+पाद
+</details>
+
+
+
+<details><summary>टीका - ७६०।७</summary>
+
+तिरुवडिगळैयुडैयवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७६०।८</summary>
+
+निऩ्मला!
+</details>
+
+
+
+<details><summary>टीका - ७६०।८</summary>
+
+निर्मलस्वरूबिये!
+</details>
+
+
+
+<details open><summary>मूलम् - ७६०।९</summary>
+
+निलाय सीर्वेदम् वाणर्
+</details>
+
+
+
+<details><summary>टीका - ७६०।९</summary>
+
+निरम्बिय कुणङ्गळैयुडैय वैदिगर्गळॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७६०।१०</summary>
+
+कीदम् वेळ्वियार्
+</details>
+
+
+
+<details><summary>टीका - ७६०।१०</summary>
+
+सामगाऩम् मिगुन्द यज्ञयागङ्गळै नडत्तुमवर्गळॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७६०।११</summary>
+
+नीदि आऩ केळ्वि यार्
+</details>
+
+
+
+<details><summary>टीका - ७६०।११</summary>
+
+सिरमप्पडि च्रवण मननङ्गळै च् चॆय्गिऱ महाऩ्गळॆऩ्ऩ (इवर्गळ्)
+</details>
+
+
+
+<details open><summary>मूलम् - ७६०।१२</summary>
+
+नीदियाल्
+</details>
+
+
+
+<details><summary>टीका - ७६०।१२</summary>
+
+सास्त्रविदिप्पडि
+</details>
+
+
+
+<details open><summary>मूलम् - ७६०।१३</summary>
+
+वणङ्गु निऩ्ऱ नीर्मै
+</details>
+
+
+
+<details><summary>टीका - ७६०।१३</summary>
+
+वणङ्गुगैक्कु उरिय तऩ्मै।
+</details>
+
+
+
+<details open><summary>मूलम् - ७६०।१४</summary>
+
+निऩ् कण्णे निऩ्ऱदु
+</details>
+
+
+
+<details><summary>टीका - ७६०।१४</summary>
+
+उऩ् पक्कलिल्दाऩ् उळ्ळदु।
+</details>
+
+
+
+<details open><summary>मूलम् - ७६१।१</summary>
+
+तऩ्ऩुळ्ळे तिरैत्तु
+</details>
+
+
+
+<details><summary>टीका - ७६१।१</summary>
+
+तऩ्ऩिले किळर्न्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ७६१।२</summary>
+
+ऎऴुम्
+</details>
+
+
+
+<details><summary>टीका - ७६१।२</summary>
+
+परवुगिऩ्ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७६१।३</summary>
+
+तरङ्गम्
+</details>
+
+
+
+<details><summary>टीका - ७६१।३</summary>
+
+अलैगळैयुडैत्ताय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६१।४</summary>
+
+वॆण्दडम्
+</details>
+
+
+
+<details><summary>टीका - ७६१।४</summary>
+
+वॆळुत्त प्रदेसङ्गळैयुडैत्ताऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७६१।५</summary>
+
+कडल्
+</details>
+
+
+
+<details><summary>टीका - ७६१।५</summary>
+
+कडलाऩदु
+</details>
+
+
+
+<details open><summary>मूलम् - ७६१।६</summary>
+
+तऩ्ऩुळ्ळे  तिरैत्तु ऎऴुन्दु
+</details>
+
+
+
+<details><summary>टीका - ७६१।६</summary>
+
+तऩक्कुळ्ळे किळर्दुलावि
+</details>
+
+
+
+<details open><summary>मूलम् - ७६१।७</summary>
+
+अडङ्गुगिऩ्ऱ तऩ्मैबोल्
+</details>
+
+
+
+<details><summary>टीका - ७६१।७</summary>
+
+(मऱुबडियुम्) सान्दमावदुबोल।
+</details>
+
+
+
+<details open><summary>मूलम् - ७६१।८</summary>
+
+निऱ्‌पवुम्
+</details>
+
+
+
+<details><summary>टीका - ७६१।८</summary>
+
+स्तावरजङ्गमरूबमाऩ प्रबञ्जमॆल्लाम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६१।९</summary>
+
+निऩ्ऩुळ्ळे
+</details>
+
+
+
+<details><summary>टीका - ७६१।९</summary>
+
+उऩ् स्वरूबत्तुक्कुळ्ळे
+</details>
+
+
+
+<details open><summary>मूलम् - ७६१।१०</summary>
+
+पिऱन्दु
+</details>
+
+
+
+<details><summary>टीका - ७६१।१०</summary>
+
+उत्पन्दमाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६१।११</summary>
+
+इऱन्दु
+</details>
+
+
+
+<details><summary>टीका - ७६१।११</summary>
+
+लाबमडैन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ७६१।१२</summary>
+
+निऩ्ऩुळ्ळे अडक्कुगिऩ्ऱ नीर्मै
+</details>
+
+
+
+<details><summary>टीका - ७६१।१२</summary>
+
+(इप्पडि) उऩ् स्वरूबत्तुक्कुळ्ळेये ऒडुङ्गिप्पॊरुगैक्कु उरिय तऩ्मै
+</details>
+
+
+
+<details open><summary>मूलम् - ७६१।१३</summary>
+
+निऩ् कण्णे निऩ्ऱदु
+</details>
+
+
+
+<details><summary>टीका - ७६१।१३</summary>
+
+उऩ् पक्कलिल् ताऩ् उळ्ळदु।
+</details>
+
+
+
+<details open><summary>मूलम् - ७६२।१</summary>
+
+सॊल्लिऩाल्
+</details>
+
+
+
+<details><summary>टीका - ७६२।१</summary>
+
+वेदान्द सास्त्र मुगत्ताले
+</details>
+
+
+
+<details open><summary>मूलम् - ७६२।२</summary>
+
+तॊडर्च्चि नी
+</details>
+
+
+
+<details><summary>टीका - ७६२।२</summary>
+
+(एगान्दिगळुक्कु) उऱवै उण्डु पण्णुमवऩ् नी;
+</details>
+
+
+
+<details open><summary>मूलम् - ७६२।३</summary>
+
+सॊलप्पडुम् पॊरुळुम् नी
+</details>
+
+
+
+<details><summary>टीका - ७६२।३</summary>
+
+(सिल पुराणादिगळिल् आच्रयणीयरागच्) चॊल्लप्पडुगिऱ तेवादि पदार्त्तङ्गळुक्कु अन्रात्मा नी;
+</details>
+
+
+
+<details open><summary>मूलम् - ७६२।४</summary>
+
+सॊल्लरिऩाल् सॊल्लप्पडादु तोऩ्ऱुगिऩ्ऱ सोदि नी सॊल्लिऩाल्
+</details>
+
+
+
+<details><summary>टीका - ७६२।४</summary>
+
+नी काट्टिक्कॊडुत्त वेदत्तिऱ्‌ सॊल्लियबडि
+</details>
+
+
+
+<details open><summary>मूलम् - ७६२।५</summary>
+
+पडैक्क
+</details>
+
+
+
+<details><summary>टीका - ७६२।५</summary>
+
+(उलगङ्गळै) उण्डाक्कुवदऱ्‌काग
+</details>
+
+
+
+<details open><summary>मूलम् - ७६२।६</summary>
+
+नी पडैक्क वन्दु तोऩ्ऱिऩार्
+</details>
+
+
+
+<details><summary>टीका - ७६२।६</summary>
+
+उऩ्ऩाले स्रुष्टिक्कप्पट्टु वन्दु पिऱन्दवर्गळाऩ प्रह्मादिगऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६२।७</summary>
+
+सॊल्लिऩाल्
+</details>
+
+
+
+<details><summary>टीका - ७६२।७</summary>
+
+सप्तङ्गळैक् कॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ७६२।८</summary>
+
+सुरुङ्ग
+</details>
+
+
+
+<details><summary>टीका - ७६२।८</summary>
+
+सुरुक्कमावावदु
+</details>
+
+
+
+<details open><summary>मूलम् - ७६२।९</summary>
+
+निऩ् कुणङ्गळ्
+</details>
+
+
+
+<details><summary>टीका - ७६२।९</summary>
+
+उऩदु कल्याण कुणङ्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ७६२।१०</summary>
+
+सॊल्लवल्लरे।
+</details>
+
+
+
+<details><summary>टीका - ७६२।१०</summary>
+
+वर्णिक्क सक्तर्गळो? (अल्लर्।)
+</details>
+
+
+
+<details open><summary>मूलम् - ७६३।१</summary>
+
+उलगु तऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ७६३।१</summary>
+
+लोगङ्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ७६३।२</summary>
+
+नी पडैत्ति
+</details>
+
+
+
+<details><summary>टीका - ७६३।२</summary>
+
+नी स्रुष्टियागिऩ्ऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७६३।३</summary>
+
+उळ् ऒडुक्कि वैत्ति
+</details>
+
+
+
+<details><summary>टीका - ७६३।३</summary>
+
+(नित्यसनमित्तिगादि प्रळयाबत्तुक्कळिले अव्वुलगङ्गळैत्) तिरुवयिऱ्‌ऱिऩुळ्ळे ऒडुङ्गवैत्तु नीये नोक्का निऩ्ऱाय्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७६३।४</summary>
+
+मीण्डु
+</details>
+
+
+
+<details><summary>टीका - ७६३।४</summary>
+
+अदुमऩ्ऱियिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६३।५</summary>
+
+उलगु तऩ्ऩे
+</details>
+
+
+
+<details><summary>टीका - ७६३।५</summary>
+
+इव्वुलगत्तिऩुळ्ळे
+</details>
+
+
+
+<details open><summary>मूलम् - ७६३।६</summary>
+
+पिऱत्ति
+</details>
+
+
+
+<details><summary>टीका - ७६३।६</summary>
+
+वन्दु अवदरिया निऩ्ऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७६३।७</summary>
+
+ओर् इडत्तै अल्लै
+</details>
+
+
+
+<details><summary>टीका - ७६३।७</summary>
+
+ओरिडत्तै इरुप्पिडमागवुडैयै ऎऩ्ऱु निर्णयिक्क मुडियादवऩायिरा निऩ्ऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७६३।८</summary>
+
+उलगु
+</details>
+
+
+
+<details><summary>टीका - ७६३।८</summary>
+
+प्रबञ्जम् मुऴुदुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६३।९</summary>
+
+निऩ्ऩॊडु ऒऩ्ऱि निऱ्‌क
+</details>
+
+
+
+<details><summary>टीका - ७६३।९</summary>
+
+(सरीरियाऩ) उऩ्ऩोडु (सरीरमाय्) अणैन्दु निऱ्‌क
+</details>
+
+
+
+<details open><summary>मूलम् - ७६३।१०</summary>
+
+वेऱु निऱ्‌ऱि
+</details>
+
+
+
+<details><summary>टीका - ७६३।१०</summary>
+
+असादारण विक्रहगत्तोडु कूडि व्याव्रुत्तऩायिरा निऩ्ऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७६३।११</summary>
+
+आदलाल् उलगिल्
+</details>
+
+
+
+<details><summary>टीका - ७६३।११</summary>
+
+आदलाल् लोगत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७६३।१२</summary>
+
+कुऴल् उळ्ळ निऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ७६३।१२</summary>
+
+आच्चरियमाऩ पडिगळैयुडैय उऩ्ऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ७६३।१३</summary>
+
+यावलर् उळ्ळ वल्लवर्
+</details>
+
+
+
+<details><summary>टीका - ७६३।१३</summary>
+
+अऱियवल्लारार्?
+</details>
+
+
+
+<details open><summary>मूलम् - ७६४।१</summary>
+
+इऩ्ऩै ऎऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७६४।१</summary>
+
+‘नी इप्पडिप्पट्टवऩ्’ ऎऩ्ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ७६४।२</summary>
+
+सॊल्ललावदु
+</details>
+
+
+
+<details><summary>टीका - ७६४।२</summary>
+
+सॊल्लक्कूडियदु
+</details>
+
+
+
+<details open><summary>मूलम् - ७६४।३</summary>
+
+यादुम् इल्लै
+</details>
+
+
+
+<details><summary>टीका - ७६४।३</summary>
+
+ऒरु पडियुमिल्लै;
+</details>
+
+
+
+<details open><summary>मूलम् - ७६४।४</summary>
+
+उऩ् पिणक्कु उणर्न्द पॆऱ्‌ऱियोर्
+</details>
+
+
+
+<details><summary>टीका - ७६४।४</summary>
+
+उऩ्ऩुडैय अवदारादि विषयङ्गळिल् आच्रिदर्क्कुम् अनाच्चरिदर्क्कु मुळ्ळ विवादत्तै अऱिन्दिरुक्कुम् महाऩ्गळ् (उऩ्ऩै)
+</details>
+
+
+
+<details open><summary>मूलम् - ७६४।५</summary>
+
+आदियुम्
+</details>
+
+
+
+<details><summary>टीका - ७६४।५</summary>
+
+(विक्रक्षबरिक्रक्षम् पण्णिऩदऱ्‌कुक्कु) कारणत्तैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६४।६</summary>
+
+नीर्मैयाल् निऩैक्किल् (अल्लदु)
+</details>
+
+
+
+<details><summary>टीका - ७६४।६</summary>
+
+उऩ्ऩुडैय किरुबैयिऩाले नी अऱिविक्क इऱियुमदॆऴिय
+</details>
+
+
+
+<details open><summary>मूलम् - ७६४।७</summary>
+
+इट्टिडै पिऩ्ऩै केळ्वऩ् ऎऩ्बर् निऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ७६४।७</summary>
+
+नुण्णिय इडैयै युडैयळाऩ नप्पिऩ्ऩैप्पिराट्टिक्कु वल्लबऩाऩगक् कूऱुवर्गळ्; उऩ्ऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७६४।८</summary>
+
+पिऩ्ऩै आय कोल मोडु
+</details>
+
+
+
+<details><summary>टीका - ७६४।८</summary>
+
+सर्वविलक्षणमाऩ तिव्विय मङ्गळ विक्रक्षत्तैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६४।९</summary>
+
+पेरुम् ऊरुम्
+</details>
+
+
+
+<details><summary>टीका - ७६४।९</summary>
+
+तिरुनामङ्गळैयुम् तिव्यस्ताऩङ्गळैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६४।१०</summary>
+
+आर् निऩैक्क वल्लर्
+</details>
+
+
+
+<details><summary>टीका - ७६४।१०</summary>
+
+(मऱ्‌ऱैप्पडि) अऱिय वल्लारार्?
+</details>
+
+
+
+<details open><summary>मूलम् - ७६५।१</summary>
+
+तूय्मै योगम् आयिऩाय्
+</details>
+
+
+
+<details><summary>टीका - ७६५।१</summary>
+
+संसारिगळ् अऴुक्कुडम्बु नीङ्गिप् परिसुत्तमाऩ अप्राक्रुद सरीरम् पॆऱुम्बडि अरुळ् सॆय्युमवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७६५।२</summary>
+
+तुऴाय् अलङ्गल् मऴैयाय्
+</details>
+
+
+
+<details><summary>टीका - ७६५।२</summary>
+
+तिरुत्तुऴाय्मालै यणिन्दुळ्ळवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७६५।३</summary>
+
+आमै! आगि! आऴ्! कडल्! तुयिऩ्ऱ! आदिदेव!
+</details>
+
+
+
+<details><summary>टीका - ७६५।३</summary>
+
+कूर्मरुबियाय् आऴ्न्द कडलिले तिरुक्कण् वळर्न्दरुळिऩ आदि तेवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७६५।४</summary>
+
+निऩ् नामदेयम्
+</details>
+
+
+
+<details><summary>टीका - ७६५।४</summary>
+
+उऩदु तिरुनामङ्गळुक्कु वाच्यमाऩ कुसेष्टिदङ्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६५।५</summary>
+
+इऩ्ऩदु ऎऩ्ऩ
+</details>
+
+
+
+<details><summary>टीका - ७६५।५</summary>
+
+इऩ्ऩिऩ्ऩवै यॆऩ्ऱु सॊल्ल
+</details>
+
+
+
+<details open><summary>मूलम् - ७६५।६</summary>
+
+वल्लम् अल्ल आगिलुम्
+</details>
+
+
+
+<details><summary>टीका - ७६५।६</summary>
+
+याम् समर्त्तर्गळल्लो मायिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६५।७</summary>
+
+साम वेद कीदऩ् आय
+</details>
+
+
+
+<details><summary>टीका - ७६५।७</summary>
+
+सामवेदत्तिले प्रदिबादिक्कप्पट्टवऩाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७६५।८</summary>
+
+सक्र साबि अल्लैये
+</details>
+
+
+
+<details><summary>टीका - ७६५।८</summary>
+
+कैयिले तिरुवाऴि यणिन्द परमबुरुषऩ् नीयेयिऱे (ऎऩ्ऱु सॊल्लवल्लोम्)
+</details>
+
+
+
+<details open><summary>मूलम् - ७६६।१</summary>
+
+अङ्गम् आऱुम्
+</details>
+
+
+
+<details><summary>टीका - ७६६।१</summary>
+
+सीक्षै मुदलिय आऱु अङ्गङ्गळॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७६६।२</summary>
+
+वेदम् नाऩ्गुम्
+</details>
+
+
+
+<details><summary>टीका - ७६६।२</summary>
+
+(अङ्गियाऩ) नाऩ्गु वेदङ्गळॆऩ्ऩ (इवऱ्‌ऱुक्कु)
+</details>
+
+
+
+<details open><summary>मूलम् - ७६६।३</summary>
+
+आगि निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७६६।३</summary>
+
+प्रवर्त्तगऩाय् वेदङ्गळिऩुळ्ळे
+</details>
+
+
+
+<details open><summary>मूलम् - ७६६।४</summary>
+
+तङ्गुगिऩ्ऱ तऩ्मैयाय्
+</details>
+
+
+
+<details><summary>टीका - ७६६।४</summary>
+
+सुप्रदिष्टिदमायुळ्ळ स्वरु पस्वाबङ्गळैयुडैयवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७६६।५</summary>
+
+तड कडल्
+</details>
+
+
+
+<details><summary>टीका - ७६६।५</summary>
+
+महा समुत्तिरत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७६६।६</summary>
+
+पणम् तलै सॆम् कण् नाग अणै
+</details>
+
+
+
+<details><summary>टीका - ७६६।६</summary>
+
+पडङ्गळिऩ् तलैयिले सिवन्द कण्गळै युडैयऩाऩ तीरुवऩन्दाऴ्वाऩागिऱ अणैयिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७६६।७</summary>
+
+किडन्द
+</details>
+
+
+
+<details><summary>टीका - ७६६।७</summary>
+
+कण्वळर्न्दरुळुगिऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७६६।८</summary>
+
+मल्गुसॆल्वम् सीरिऩाय्
+</details>
+
+
+
+<details><summary>टीका - ७६६।८</summary>
+
+निऱैन्द सॆल्वत्तैयुम् कुणङ्गळैयुडैयवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७६६।९</summary>
+
+सङ्ग वण्णम् अऩ्ऩमेऩि
+</details>
+
+
+
+<details><summary>टीका - ७६६।९</summary>
+
+सङ्गिऩुडैय वर्णम् पोऩ्ऱ तिरुमेऩियैयुडैयऩाय् (किरुदयुगत्तिल् तिरुववदरित्तु)
+</details>
+
+
+
+<details open><summary>मूलम् - ७६६।१०</summary>
+
+सार्ङ्गबाणि अल्लैये
+</details>
+
+
+
+<details><summary>टीका - ७६६।१०</summary>
+
+(त्रेदायुगत्तिल् इक्ष्वागु कुलत्तिले) कैयुम् विल्लुमाय् वन्दु पिऱन्दवऩ् नीयेयऩ्ऱो?
+</details>
+
+
+
+<details open><summary>मूलम् - ७६७।१</summary>
+
+तलैक्कणम्
+</details>
+
+
+
+<details><summary>टीका - ७६७।१</summary>
+
+मुदऩ्मैबॆऱ्‌ऱ तेवगणमॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७६७।२</summary>
+
+तुगळ्
+</details>
+
+
+
+<details><summary>टीका - ७६७।२</summary>
+
+क्षुत्रमाऩ सदावरगणमॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७६७।३</summary>
+
+कुऴम्बु सादि
+</details>
+
+
+
+<details><summary>टीका - ७६७।३</summary>
+
+मिच्रयोऩिगळाऩ मनुष्य तिर्यक्जादिगळॆऩ्ऩ इवऱ्‌ऱिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७६७।४</summary>
+
+सोदि
+</details>
+
+
+
+<details><summary>टीका - ७६७।४</summary>
+
+अप्राक्रुदमाऩ तेजस्सोडे कूड
+</details>
+
+
+
+<details open><summary>मूलम् - ७६७।५</summary>
+
+तोऱ्‌ऱम् आय्
+</details>
+
+
+
+<details><summary>टीका - ७६७।५</summary>
+
+तिरुववदरित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७६७।६</summary>
+
+निलैक्कणगङ्गळ् काण
+</details>
+
+
+
+<details><summary>टीका - ७६७।६</summary>
+
+(तेवादिगळ् मात्तिरमे यऩ्ऱिये) स्तावरङ्गळुम् (उऩ्ऩै) अऩुबविक्कुम्बडि
+</details>
+
+
+
+<details open><summary>मूलम् - ७६७।७</summary>
+
+वन्दु निऱ्‌ऱि
+</details>
+
+
+
+<details><summary>टीका - ७६७।७</summary>
+
+वन्दु निऱ्‌किऱायागिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६७।८</summary>
+
+एलुम् नीडु  इरुम् कलै कणङ्गळ्
+</details>
+
+
+
+<details><summary>टीका - ७६७।८</summary>
+
+नित्तियमाय् विरिन्दवैयाऩ वेदसास्तिर समूहङ्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६७।९</summary>
+
+सॊल् पॊरुळिऩाल्
+</details>
+
+
+
+<details><summary>टीका - ७६७।९</summary>
+
+अबिदानव्रुत्तियालुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६७।१०</summary>
+
+करुत्तिऩाल्
+</details>
+
+
+
+<details><summary>टीका - ७६७।१०</summary>
+
+ताम्बर्य व्रुत्तियालुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६७।११</summary>
+
+निऩैक्क ऒणा
+</details>
+
+
+
+<details><summary>टीका - ७६७।११</summary>
+
+(उऩ् पॆरुमैगळै) निऩैक्कवुम् माट्टामल्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६७।१२</summary>
+
+मलै कणङ्गळ् पोल् उणर्त्तुम् माट्चि
+</details>
+
+
+
+<details><summary>टीका - ७६७।१२</summary>
+
+पर्वद समूहङक्ळ्बोल् अबरिच्चेत्यमाग अऱिविक्कुम् वैलक्षण्यमाऩदु
+</details>
+
+
+
+<details open><summary>मूलम् - ७६७।१३</summary>
+
+निऩ् तऩ् माट्चिये
+</details>
+
+
+
+<details><summary>टीका - ७६७।१३</summary>
+
+उऩ्ऩुडैय वैलक्षण्य मॆऩ्ऩुमित्तऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ७६८।१</summary>
+
+आदि तेवऩे
+</details>
+
+
+
+<details><summary>टीका - ७६८।१</summary>
+
+सर्वगारण पूदऩाऩ पॆरुमाळे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७६८।२</summary>
+
+एगमूर्त्ति आय्
+</details>
+
+
+
+<details><summary>टीका - ७६८।२</summary>
+
+(परमबदनिलयऩाऩ) परवासु तेवमूर्त्तियाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६८।३</summary>
+
+मूऩ्ऱु मूर्त्ति आय्
+</details>
+
+
+
+<details><summary>टीका - ७६८।३</summary>
+
+सङ्गर्षण, प्रत्यम्न, अनिरुत्तर्गळागिऱ मूऩ्ऱु मूर्त्तियाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६८।४</summary>
+
+मुदलायिरम्
+</details>
+
+
+
+<details><summary>टीका - ७६८।४</summary>
+
+तिरुच्चन्द विरुत्तम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६८।५</summary>
+
+नालु मूर्त्ति आय्
+</details>
+
+
+
+<details><summary>टीका - ७६८।५</summary>
+
+प्रदागम्, पुरुषऩ्, अव्यक्तम्, कालम् ऎऩ्ऩुमिवऱ्‌ऱै सरीरमागक्कॊण्ड नालु मूर्त्तियाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६८।६</summary>
+
+नऩ्मै सेर् पोगम् मूर्त्ति आय्
+</details>
+
+
+
+<details><summary>टीका - ७६८।६</summary>
+
+विलक्षणमाय्प् पोगत्तक्कु अर्हमाऩ मूर्त्तियाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६८।७</summary>
+
+पुण्णियत्तिऩ् मूर्त्ति आय्
+</details>
+
+
+
+<details><summary>टीका - ७६८।७</summary>
+
+पुण्यमे वडिवुगॊण्डदॊरु मूर्त्तियाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६८।८</summary>
+
+ऎण् इल् मूर्त्ति आय्
+</details>
+
+
+
+<details><summary>टीका - ७६८।८</summary>
+
+(इप्पडि) ऎण्णिऱन्द (पल पल) मूर्त्तियाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६८।९</summary>
+
+नलम् कडल्
+</details>
+
+
+
+<details><summary>टीका - ७६८।९</summary>
+
+नल्ल तिरुप्पाऱ्‌कडलिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६८।१०</summary>
+
+कागम् मूर्त्ति सयऩम् आय् किडन्दु
+</details>
+
+
+
+<details><summary>टीका - ७६८।१०</summary>
+
+तिरुवऩन्दाऴ्वाऩुडैय तिरुमेऩियैप् पडुक्कैयाग वुडैयवऩाय्क् कण् वळर्न्दरुळि
+</details>
+
+
+
+<details open><summary>मूलम् - ७६८।११</summary>
+
+मेल्
+</details>
+
+
+
+<details><summary>टीका - ७६८।११</summary>
+
+अदुक्कुमेले
+</details>
+
+
+
+<details open><summary>मूलम् - ७६८।१२</summary>
+
+आग मूर्त्ति आय वण्णम्
+</details>
+
+
+
+<details><summary>टीका - ७६८।१२</summary>
+
+अडियार्गळ् उगन्द उरुवमागिय अर्च्चरवदारमाय् अवदरित्त तऩ्मै
+</details>
+
+
+
+<details open><summary>मूलम् - ७६८।१३</summary>
+
+ऎऩ् कॊल्
+</details>
+
+
+
+<details><summary>टीका - ७६८।१३</summary>
+
+ऎऩ्ऩायिरुन्ददु।
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।१</summary>
+
+वेलै वण्णऩे
+</details>
+
+
+
+<details><summary>टीका - ७६९।१</summary>
+
+करुङ्गडल् वण्णऩाऩ ऎम्बॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।२</summary>
+
+विडत्त
+</details>
+
+
+
+<details><summary>टीका - ७६९।२</summary>
+
+विषत्तैयुडैत्ताऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।३</summary>
+
+ऒरु आयिरम् वाय्
+</details>
+
+
+
+<details><summary>टीका - ७६९।३</summary>
+
+ओरायिरम् वाय्गळिऩिऩ्ऱुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।४</summary>
+
+इरु आयिरम् कण्
+</details>
+
+
+
+<details><summary>टीका - ७६९।४</summary>
+
+ईरायिरम् कण्गळिऩिऩ्ऱुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।५</summary>
+
+वॆम् तऴल्
+</details>
+
+
+
+<details><summary>टीका - ७६९।५</summary>
+
+वॆव्विय तऴलै
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।६</summary>
+
+विडुत्तु
+</details>
+
+
+
+<details><summary>टीका - ७६९।६</summary>
+
+पुऱप्पडविट्टुक्कॊण्डु,
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।७</summary>
+
+वीऴ्वु इलाद पोगम्
+</details>
+
+
+
+<details><summary>टीका - ७६९।७</summary>
+
+ऒरु कालुम् विच्चेदमिल्लाद पगवनऱुबवत्तैयुडैयऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।८</summary>
+
+मिक्क सोदि
+</details>
+
+
+
+<details><summary>टीका - ७६९।८</summary>
+
+मिगुन्द ज्योदिस्सैयुडैयऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।९</summary>
+
+विदाऩम् आय्
+</details>
+
+
+
+<details><summary>टीका - ७६९।९</summary>
+
+मेऱ्‌कट्टिबोऩ्ऱ पडङ्गळिऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।१०</summary>
+
+मेल्
+</details>
+
+
+
+<details><summary>टीका - ७६९।१०</summary>
+
+मेऱ्‌पुऱत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।११</summary>
+
+तॊक्क
+</details>
+
+
+
+<details><summary>टीका - ७६९।११</summary>
+
+तिरळ्दिरळायिरुक्किऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।१२</summary>
+
+सीर्
+</details>
+
+
+
+<details><summary>टीका - ७६९।१२</summary>
+
+अऴगै
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।१३</summary>
+
+तॊडुत्तु
+</details>
+
+
+
+<details><summary>टीका - ७६९।१३</summary>
+
+तॊडुत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।१४</summary>
+
+पौवम् नीर्
+</details>
+
+
+
+<details><summary>टीका - ७६९।१४</summary>
+
+समुत्रजलत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।१५</summary>
+
+पडुत्त
+</details>
+
+
+
+<details><summary>टीका - ७६९।१५</summary>
+
+पडुक्कैयाग अमैन्द
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।१६</summary>
+
+अरा अणै पायल् पळ्ळि कॊळ्ळदु
+</details>
+
+
+
+<details><summary>टीका - ७६९।१६</summary>
+
+तिरुवऩन्दाऴ्वाऩागिय सयगत्तिले पळ्ळिगॊण्डरुळुम् तऩ्ऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ७६९।१७</summary>
+
+ऎऩ् सॊल्
+</details>
+
+
+
+<details><summary>टीका - ७६९।१७</summary>
+
+ऎत्तिऱम्!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७०।१</summary>
+
+मिऩ्गॊळ्  नेदमियाय्
+</details>
+
+
+
+<details><summary>टीका - ७७०।१</summary>
+
+तेजस्वियाय् विळङ्गानिऩ्ऱुळ्ळ तिरुवाऴियैयुडैय पॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७०।२</summary>
+
+पुळ् अदु आगि
+</details>
+
+
+
+<details><summary>टीका - ७७०।२</summary>
+
+हंसरूबियाय् अवदरित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७७०।३</summary>
+
+वेदम् नाऩ्गुम्
+</details>
+
+
+
+<details><summary>टीका - ७७०।३</summary>
+
+नाऩ्गु वेदङ्गळैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७०।४</summary>
+
+ओदिऩाय्
+</details>
+
+
+
+<details><summary>टीका - ७७०।४</summary>
+
+उबदेसित्तरुळिऩाय्,
+</details>
+
+
+
+<details open><summary>मूलम् - ७७०।५</summary>
+
+अदु अऩ्ऱियुम्
+</details>
+
+
+
+<details><summary>टीका - ७७०।५</summary>
+
+अदुवुमल्लामल्,
+</details>
+
+
+
+<details open><summary>मूलम् - ७७०।६</summary>
+
+पुळ्ळिऩ् वाय् पिळन्दु
+</details>
+
+
+
+<details><summary>टीका - ७७०।६</summary>
+
+(उऩ्ऩै विऴुङ्गुवदाग वायैत् तिऱन्दुगॊण्डु वन्द) पगासुरऩुडैय वायैक् किऴित्तु (अवऩै मुडित्तु विट्टु)
+</details>
+
+
+
+<details open><summary>मूलम् - ७७०।७</summary>
+
+पुळ्गॊडि पिडित्त पिऩ्ऩरुम्
+</details>
+
+
+
+<details><summary>टीका - ७७०।७</summary>
+
+पॆरिय तिरुवडियै त्वजमागप् पिडित्तदुमल्लामल्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७०।८</summary>
+
+पुळ्ळै
+</details>
+
+
+
+<details><summary>टीका - ७७०।८</summary>
+
+अप्पॆरिय तिरुवडियै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७०।९</summary>
+
+ऊर्दि
+</details>
+
+
+
+<details><summary>टीका - ७७०।९</summary>
+
+वरहनमागक्कॊण्डु सॆल्ला निऩ्ऱाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७०।१०</summary>
+
+आदलाल्
+</details>
+
+
+
+<details><summary>टीका - ७७०।१०</summary>
+
+इप्पडि पलवगैयाऩ रक्षणोबायङ्गळैच् चॆय्दरुळा निऱ्‌कच् चॆय्देयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७०।११</summary>
+
+कडल्
+</details>
+
+
+
+<details><summary>टीका - ७७०।११</summary>
+
+तिरुप्पाऱ्‌कडलिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७७०।१२</summary>
+
+पुळ्ळिऩ् पगै मॆय्
+</details>
+
+
+
+<details><summary>टीका - ७७०।१२</summary>
+
+करुडजादिक्कुप् पगैयॆऩ्ऱु तोऱ्‌ऱुम्बडियाऩ तिरुवळर् ताऴ्वाऩुडैय तिरुमेऩियिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७७०।१३</summary>
+
+किडत्तल्
+</details>
+
+
+
+<details><summary>टीका - ७७०।१३</summary>
+
+पळ्ळिगॊळ्वदै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७०।१४</summary>
+
+कादलित्तदु
+</details>
+
+
+
+<details><summary>टीका - ७७०।१४</summary>
+
+विरुम्बिप्पोवदागिय
+</details>
+
+
+
+<details open><summary>मूलम् - ७७०।१५</summary>
+
+ऎऩ्गॊल्
+</details>
+
+
+
+<details><summary>टीका - ७७०।१५</summary>
+
+ऎऩ्ऩ तिरुवुळ्ळत्ताले?
+</details>
+
+
+
+<details open><summary>मूलम् - ७७१।१</summary>
+
+मुऩ्
+</details>
+
+
+
+<details><summary>टीका - ७७१।१</summary>
+
+अनादिगालमाग।
+</details>
+
+
+
+<details open><summary>मूलम् - ७७१।२</summary>
+
+वेलैनीर्
+</details>
+
+
+
+<details><summary>टीका - ७७१।२</summary>
+
+समुत्रजलत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७७१।३</summary>
+
+कूसम् ऒऩ्ऱुम् इऩ्ऱि
+</details>
+
+
+
+<details><summary>टीका - ७७१।३</summary>
+
+सिऱिदुम् कूसादे
+</details>
+
+
+
+<details open><summary>मूलम् - ७७१।४</summary>
+
+मागणम्
+</details>
+
+
+
+<details><summary>टीका - ७७१।४</summary>
+
+तिरुवऩन्दाऴ्वाऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७१।५</summary>
+
+पडुत्तु
+</details>
+
+
+
+<details><summary>टीका - ७७१।५</summary>
+
+पडुक्कैयाग विरित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७७१।६</summary>
+
+पोगिऩ्ऱदेवर् वन्दु पाडक् किडन्ददुम्
+</details>
+
+
+
+<details><summary>टीका - ७७१।६</summary>
+
+स्तोत्तरम् पण्णुवदऱ्‌कॆऩ्ऱु अमैन्द प्रह्मादि तेवर्गळ् वन्दु पाडुम्बडि समनित्तरुळिऩबडियैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७१।७</summary>
+
+अऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७७१।७</summary>
+
+तेवर्गळुक्कागक् कडल् कडैन्द अक्कालत्तिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७१।८</summary>
+
+पासम् निऩ्ऱ नीरिल् वाऴुम् आमैयाऩ केसवा (ऎऩ्ऱु) एस नी किडन्द आऱुम्
+</details>
+
+
+
+<details><summary>टीका - ७७१।८</summary>
+
+“वरुण पासङ्गळ् किडक्किऱ कडलिलेवाऴ्गिऩ्ऱ आमैयॆऩ्ऩुम् क्षुत्र जन्दुवागप् पिऱन्द केसवऩे!” ऎऩ्ऱु (अविवेगिगळ्) एसुम्बडि किडन्दबडियैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७१।९</summary>
+
+तेऱ
+</details>
+
+
+
+<details><summary>टीका - ७७१।९</summary>
+
+अडियेऩ् नऩ्गुदॆरिन्दु कॊळ्ळुम्बडि
+</details>
+
+
+
+<details open><summary>मूलम् - ७७१।१०</summary>
+
+कूऱु
+</details>
+
+
+
+<details><summary>टीका - ७७१।१०</summary>
+
+(ऎऩक्कु) अरुळिच् चॆय्यवेणुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७७२।१</summary>
+
+कुरङ्गै
+</details>
+
+
+
+<details><summary>टीका - ७७२।१</summary>
+
+वाऩरप्पडैगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७२।२</summary>
+
+आळ् उगन्द ऎन्दै !
+</details>
+
+
+
+<details><summary>टीका - ७७२।२</summary>
+
+उगन्द आट्कॊण्ड नायऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७२।३</summary>
+
+अरङ्गऩे
+</details>
+
+
+
+<details><summary>टीका - ७७२।३</summary>
+
+श्रीअरङ्गनादऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७२।४</summary>
+
+अऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७७२।४</summary>
+
+(तुर्वास महर्षियिऩ् साबत्तिऩाले तेवर्गळ् सॆल्वमिऴन्दु वरुन्दि उऩ्ऩैच् चरणम् पऱ्‌ऱि निऩ्ऱ) अऩ्ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ७७२।५</summary>
+
+तरङ्गम् नीर् कलङ्ग
+</details>
+
+
+
+<details><summary>टीका - ७७२।५</summary>
+
+अलैगळैयुडैय समुत्रमाऩदु कलङ्गवुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७२।६</summary>
+
+मा निलम् कुलङ्ग
+</details>
+
+
+
+<details><summary>टीका - ७७२।६</summary>
+
+पॆरिय पूमियाऩदु कुलुङ्गवुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७२।७</summary>
+
+मागणम् नॆरुङ्ग कलाय्
+</details>
+
+
+
+<details><summary>टीका - ७७२।७</summary>
+
+वासुगि यॆऩ्ऩुम् नागत्तै अऴुन्दच् चुऱ्‌ऱि
+</details>
+
+
+
+<details open><summary>मूलम् - ७७२।८</summary>
+
+नी कडैन्द
+</details>
+
+
+
+<details><summary>टीका - ७७२।८</summary>
+
+(कडलै) नी कडैन्दरुळिऩ कालत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७७२।९</summary>
+
+निऩ्ऱ
+</details>
+
+
+
+<details><summary>टीका - ७७२।९</summary>
+
+अरुगे निऩ्ऱु कॊण्डिरुन्द
+</details>
+
+
+
+<details open><summary>मूलम् - ७७२।१०</summary>
+
+सूरर्
+</details>
+
+
+
+<details><summary>टीका - ७७२।१०</summary>
+
+मिक्क पराक्रमसालिगळॆऩ्ऱु पेर्बॆऱ्‌ऱ तेवासुर प्रप्रुदिगळ्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७७२।११</summary>
+
+ऎऩ् सॆय्दार्
+</details>
+
+
+
+<details><summary>टीका - ७७२।११</summary>
+
+ऎऩ्ऩ  कारियम् सॆय्दार्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७२।१२</summary>
+
+इदु
+</details>
+
+
+
+<details><summary>टीका - ७७२।१२</summary>
+
+इव्विषयत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७२।१३</summary>
+
+वेऱु
+</details>
+
+
+
+<details><summary>टीका - ७७२।१३</summary>
+
+विसेषित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७७२।१४</summary>
+
+तेऱ
+</details>
+
+
+
+<details><summary>टीका - ७७२।१४</summary>
+
+नाऩ् तॆरिन्दु कॊळ्ळुम्बडि
+</details>
+
+
+
+<details open><summary>मूलम् - ७७२।१५</summary>
+
+कूऱु
+</details>
+
+
+
+<details><summary>टीका - ७७२।१५</summary>
+
+अरुळिच् चॆय्यवेणुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७७३।१</summary>
+
+पण्डुम् इऩ्ऱुम् मेलुम् आय्
+</details>
+
+
+
+<details><summary>टीका - ७७३।१</summary>
+
+मूऩ्ऱु कालङ्गळिलुम् कैविडादे निऩ्ऱु रक्षित्तरुळुमवऩागैयाले
+</details>
+
+
+
+<details open><summary>मूलम् - ७७३।२</summary>
+
+ञाऩम् ऎऴुम्
+</details>
+
+
+
+<details><summary>टीका - ७७३।२</summary>
+
+उलगङ्गळैयॆल्लाम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७३।३</summary>
+
+मण्डि उण्डु
+</details>
+
+
+
+<details><summary>टीका - ७७३।३</summary>
+
+(प्रळय वॆळ्ळम् कॊळ्ळादबडि) विरुम्बि अमुदु सॆय्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ७७३।४</summary>
+
+ओय् पालऩ् आगि
+</details>
+
+
+
+<details><summary>टीका - ७७३।४</summary>
+
+ऒप्पऱ्‌ऱ सिऱु कुऴन्दैयाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७३।५</summary>
+
+आलिलै तुयिऩ्ऱ
+</details>
+
+
+
+<details><summary>टीका - ७७३।५</summary>
+
+आलन्दळिरिले कण्वळर्न्दरुळिऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७७३।६</summary>
+
+आदिदेवऩे !
+</details>
+
+
+
+<details><summary>टीका - ७७३।६</summary>
+
+मूल पुरुषऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७३।७</summary>
+
+वण्डु
+</details>
+
+
+
+<details><summary>टीका - ७७३।७</summary>
+
+वण्डुगळाऩवै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७३।८</summary>
+
+किण्डु
+</details>
+
+
+
+<details><summary>टीका - ७७३।८</summary>
+
+(मदुवुक्काग वन्दु) कुडैयुम्बडियाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७७३।९</summary>
+
+तण्दुऴाय् अलङ्गलाय्
+</details>
+
+
+
+<details><summary>टीका - ७७३।९</summary>
+
+कुळिर्न्ददिरुत्तुऴाय् मालैयै अणिन्दवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७३।१०</summary>
+
+सीर् कलन्द पुण्डरीग पावै सेरुम्मार्ब!
+</details>
+
+
+
+<details><summary>टीका - ७७३।१०</summary>
+
+अऴगु सेर्न्द तामरै मलरिऱ्‌पिऱन्द पॆरिय पिराट्टियार् वन्दु पुणरुम्बडियाऩ तिरुमार्बैयुडैयवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७३।११</summary>
+
+पूमि नादऩे!
+</details>
+
+
+
+<details><summary>टीका - ७७३।११</summary>
+
+पूमिप्पिराट्टिक्कु नादऩे! (ऎऩ्ऱु ईडुबडुगिऱार्।)
+</details>
+
+
+
+<details open><summary>मूलम् - ७७४।१</summary>
+
+वाल् तिऱन्दु
+</details>
+
+
+
+<details><summary>टीका - ७७४।१</summary>
+
+वॆळुत्त निऱत्तैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७७४।२</summary>
+
+ओर् सीयम् आय्
+</details>
+
+
+
+<details><summary>टीका - ७७४।२</summary>
+
+ऒप्पऱ्‌ऱ नरसिङ्ग मूर्त्तियायवदरित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७७४।३</summary>
+
+वळैन्द वाळ् वयिऱ्‌ऱिऩऩ्
+</details>
+
+
+
+<details><summary>टीका - ७७४।३</summary>
+
+वळैन्दुम् ऒळिबॆऱ्‌ऱुमिरुक्किऱ पऱ्‌कळैयुडैयऩाऩ इरणियऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७७४।४</summary>
+
+ऊऩ् निऱत्तु
+</details>
+
+
+
+<details><summary>टीका - ७७४।४</summary>
+
+सरीरत्तिल् मर्म स्ताऩत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७७४।५</summary>
+
+उदिर् तलम् अऴुत्तिऩाय्
+</details>
+
+
+
+<details><summary>टीका - ७७४।५</summary>
+
+कै नगङ्गळै अऴुत्तिऩवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७४।६</summary>
+
+उलाय सीर्
+</details>
+
+
+
+<details><summary>टीका - ७७४।६</summary>
+
+उलगमॆङ्गुम् उलावुगिऩ्ऱ सीर्मैयैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७७४।७</summary>
+
+काल् निऱत्त वेदम्
+</details>
+
+
+
+<details><summary>टीका - ७७४।७</summary>
+
+उदात्तम्, अनुदात्तम्, स्वरिदम्,प्रसयम् ऎऩगिऱ नाल्वगै स्वरङ्गळैयुडैय वेदङ्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७४।८</summary>
+
+नावर्
+</details>
+
+
+
+<details><summary>टीका - ७७४।८</summary>
+
+नाविले उडैयवर्गळ् (च्रोत्रियर्गळ्)
+</details>
+
+
+
+<details open><summary>मूलम् - ७७४।९</summary>
+
+नल्ल योदिऩाल्
+</details>
+
+
+
+<details><summary>टीका - ७७४।९</summary>
+
+विलक्षणमाऩ उबायत्तिऩाले
+</details>
+
+
+
+<details open><summary>मूलम् - ७७४।१०</summary>
+
+वणङ्गु
+</details>
+
+
+
+<details><summary>टीका - ७७४।१०</summary>
+
+वणङ्गुवदऱ्‌कु इडमाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७७४।११</summary>
+
+पाल्निऱक् कडल्
+</details>
+
+
+
+<details><summary>टीका - ७७४।११</summary>
+
+तिरुप्पाऱ्‌ कडलिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७७४।१२</summary>
+
+किडन्द
+</details>
+
+
+
+<details><summary>टीका - ७७४।१२</summary>
+
+पळ्ळिगॊण्डरुळिऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७७४।१३</summary>
+
+पऱ्‌पनरबऩ् अल्लैये
+</details>
+
+
+
+<details><summary>टीका - ७७४।१३</summary>
+
+पत्मनाबऩ् नीयेयऩ्ऱो
+</details>
+
+
+
+<details open><summary>मूलम् - ७७५।१</summary>
+
+कङ्गै नीर्
+</details>
+
+
+
+<details><summary>टीका - ७७५।१</summary>
+
+कङ्गा तीर्त्तत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७५।२</summary>
+
+पयन्द
+</details>
+
+
+
+<details><summary>टीका - ७७५।२</summary>
+
+उण्डाक्किऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७७५।३</summary>
+
+पाद पङ्गयत्तु ऎम् अण्णले
+</details>
+
+
+
+<details><summary>टीका - ७७५।३</summary>
+
+तीरुवडित् तामरैयैयुडैय ऎम्बॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७५।४</summary>
+
+अम् कै
+</details>
+
+
+
+<details><summary>टीका - ७७५।४</summary>
+
+अऴगिय तिरुक्कैयिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७७५।५</summary>
+
+आऴि सङ्गु तण्डुम् विल्लुम् वाळुम्
+</details>
+
+
+
+<details><summary>टीका - ७७५।५</summary>
+
+पञ्जायुदाऴ्वारक्ळै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७५।६</summary>
+
+एन्दिऩाय् !
+</details>
+
+
+
+<details><summary>टीका - ७७५।६</summary>
+
+एन्दिक् कॊण्डिरुप्पवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७५।७</summary>
+
+सिङ्गम् आय
+</details>
+
+
+
+<details><summary>टीका - ७७५।७</summary>
+
+नरसिम्म मूर्त्तियायवदरित्त
+</details>
+
+
+
+<details open><summary>मूलम् - ७७५।८</summary>
+
+तेव तेव!
+</details>
+
+
+
+<details><summary>टीका - ७७५।८</summary>
+
+तेवादि तेवऩे;
+</details>
+
+
+
+<details open><summary>मूलम् - ७७५।९</summary>
+
+तॆऩ् उलावुम् मॆल्मलर् मङ्गै
+</details>
+
+
+
+<details><summary>टीका - ७७५।९</summary>
+
+तेऩ् पॊरुन्दिय सुगुमारमाऩ तामरैप् पूविऱ्‌ पिऱन्द पिराट्टि
+</details>
+
+
+
+<details open><summary>मूलम् - ७७५।१०</summary>
+
+मऩ्ऩिवाऴुम् मार्ब
+</details>
+
+
+
+<details><summary>टीका - ७७५।१०</summary>
+
+(अप्पूवै विट्टु वन्दु) पॊरुन्दि वाऴुम्बडियाऩ तिरुमार्बैयुडैयवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७५।११</summary>
+
+आऴि मेऩि
+</details>
+
+
+
+<details><summary>टीका - ७७५।११</summary>
+
+कडल् पोऩ्ऱ तिरुमेऩियैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७७५।१२</summary>
+
+मायऩे
+</details>
+
+
+
+<details><summary>टीका - ७७५।१२</summary>
+
+आच्चर्य पूदऩे! (ऎऩ्ऱु ईडुबडुगिऱार्।)
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।१</summary>
+
+वरत्तिऩिल्
+</details>
+
+
+
+<details><summary>टीका - ७७६।१</summary>
+
+(पिरमऩ् कॊडुत्त) वरत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।२</summary>
+
+सिरत्तै मिक्क
+</details>
+
+
+
+<details><summary>टीका - ७७६।२</summary>
+
+अदिगमाऩ नम्बिक्कैयुडैयवऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।३</summary>
+
+वाळ् ऎयिऱु
+</details>
+
+
+
+<details><summary>टीका - ७७६।३</summary>
+
+वाळ् पोऩ्ऱ (पयङ्गरामऩ) कोरप्पऱ्‌कळैयुडैयवऩाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।४</summary>
+
+मऱ्‌ऱवऩ्
+</details>
+
+
+
+<details><summary>टीका - ७७६।४</summary>
+
+आच्रिद सत्रुवाऩ इरणियऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।५</summary>
+
+उरत्तिऩिल्
+</details>
+
+
+
+<details><summary>टीका - ७७६।५</summary>
+
+मार्विले
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।६</summary>
+
+करत्तै वैत्तु
+</details>
+
+
+
+<details><summary>टीका - ७७६।६</summary>
+
+तिरुक्कैगळै वैत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।७</summary>
+
+उगिर्त्तलत्तै
+</details>
+
+
+
+<details><summary>टीका - ७७६।७</summary>
+
+नगरङ्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।८</summary>
+
+ऊऩ्ऱिऩाय्
+</details>
+
+
+
+<details><summary>टीका - ७७६।८</summary>
+
+अऴुत्तिक् कॊऩ्ऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।९</summary>
+
+नी
+</details>
+
+
+
+<details><summary>टीका - ७७६।९</summary>
+
+इप्पडिप्पट्ट नी
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।१०</summary>
+
+इरत्ति
+</details>
+
+
+
+<details><summary>टीका - ७७६।१०</summary>
+
+(ऒरु सयम् मावलियिडत्ते सॆऩ्ऱु) यासिक्किऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।११</summary>
+
+इदु ऎऩ्ऩ पॊय्
+</details>
+
+
+
+<details><summary>टीका - ७७६।११</summary>
+
+इदु ऎऩ्ऩ इन्दिरजालम्!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।१२</summary>
+
+इरन्द मण्
+</details>
+
+
+
+<details><summary>टीका - ७७६।१२</summary>
+
+यासित्तुप्पॆऱ्‌ऱ उलगत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।१३</summary>
+
+वयिऱ्‌ऱुळे करत्ति
+</details>
+
+
+
+<details><summary>टीका - ७७६।१३</summary>
+
+(ऒरु काल्) तिरुवयिऱ्‌ऱुक्कुळ्ळे ऒळित्तु वैक्किऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।१४</summary>
+
+कण्णऩे
+</details>
+
+
+
+<details><summary>टीका - ७७६।१४</summary>
+
+कण्णबिराऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।१५</summary>
+
+उऩ् करुत्तै
+</details>
+
+
+
+<details><summary>टीका - ७७६।१५</summary>
+
+(इप्पडियॆल्लाम्, सॆय्गिऱ) उऩ्ऩुडैय करुत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७६।१६</summary>
+
+यावर् काण वल्लर्
+</details>
+
+
+
+<details><summary>टीका - ७७६।१६</summary>
+
+यार्गण्डऱिवल्लार्! (यारुमिल्लै।)
+</details>
+
+
+
+<details open><summary>मूलम् - ७७७।१</summary>
+
+आणिऩोडु पॆण्णुम् आगि
+</details>
+
+
+
+<details><summary>टीका - ७७७।१</summary>
+
+पुरुषजादि, स्त्रीजादि ऎऩ्ऱ इरण्डु सादिक्कुम् प्रवर्त्तगऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७७।२</summary>
+
+अल्लवोडु नल्ल आय्
+</details>
+
+
+
+<details><summary>टीका - ७७७।२</summary>
+
+मेऱ्‌सॊऩ्ऩ इरण्डु जादियिलुम् सेराद नबुंसग पदार्त्तङ्गळॆऩ्ऩ इम्मूऩ्ऱु वगुबबिलुम् सिऱन्दवैयॆऩ्ऩ इवऱ्‌ऱुक्कॆल्लाम् निर्वाहगऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७७।३</summary>
+
+ऊणॊडु ओसै कूऱुम् आगि
+</details>
+
+
+
+<details><summary>टीका - ७७७।३</summary>
+
+रसम्, सप्तम्, स्पर्सम् मुदलिय विषयङ्गळुक्कु नियामगऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७७।४</summary>
+
+ऎऩ्ऱु अलाद मायै आय्
+</details>
+
+
+
+<details><summary>टीका - ७७७।४</summary>
+
+उलगिलुळ्ळ ऎल्लाप् पॊरुळागवुम् परिणमिक्किऩ्ऱ प्रक्रुदिक्कु निर्वाहगऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७७।५</summary>
+
+पूणि पेणुम्
+</details>
+
+
+
+<details><summary>टीका - ७७७।५</summary>
+
+पसुक्कळै मेय्गिक्किऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७७७।६</summary>
+
+आयऩ् आगि
+</details>
+
+
+
+<details><summary>टीका - ७७७।६</summary>
+
+इडैयऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७७।७</summary>
+
+पॊय्यिऩोडु मॆय्युम् आय्
+</details>
+
+
+
+<details><summary>टीका - ७७७।७</summary>
+
+पॊय्यराऩ तुर्योदनरदिगऩ् पक्कलिले पॊय्यऩाय् मॆय्यराऩ पाण्डवर् पक्कलिले मॆय्यऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७७।८</summary>
+
+काणिप्पेणुम् माणि आय्
+</details>
+
+
+
+<details><summary>टीका - ७७७।८</summary>
+
+(मूवडि) निलत्तै आसैप्पट्ट पिरमसारियागि
+</details>
+
+
+
+<details open><summary>मूलम् - ७७७।९</summary>
+
+करन्दु सॆऩ्ऱ कळ्वऩे!
+</details>
+
+
+
+<details><summary>टीका - ७७७।९</summary>
+
+(महाबलियिऩ् याग पूमियिले) क्रुत्रिममाग ऎऴुन्दरुळिऩ् मायऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७७।१०</summary>
+
+उऩ्ऩै यार् मदिक्कवल्लर्!
+</details>
+
+
+
+<details><summary>टीका - ७७७।१०</summary>
+
+उऩ्ऩै अळविडक्कूडियवर्गळ् यार्?
+</details>
+
+
+
+<details open><summary>मूलम् - ७७८।१</summary>
+
+विण् कडन्द सोदियाय्
+</details>
+
+
+
+<details><summary>टीका - ७७८।१</summary>
+
+विबुवाऩ मूलप्रक्रुदि उऩक्कुळ्ळेयाम्बडि अदऩै अदिक्रमित्त स्वाम्ब्रगासऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७८।२</summary>
+
+विळङ्गु
+</details>
+
+
+
+<details><summary>टीका - ७७८।२</summary>
+
+स्वयम्ब्रगासऩाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७७८।३</summary>
+
+ञाऩम्
+</details>
+
+
+
+<details><summary>टीका - ७७८।३</summary>
+
+जीवात्मावै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७८।४</summary>
+
+मूर्त्तियाय्
+</details>
+
+
+
+<details><summary>टीका - ७७८।४</summary>
+
+सरीरमाग वुडैयवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७८।५</summary>
+
+पण्गडन्द तेसम् मेवु
+</details>
+
+
+
+<details><summary>टीका - ७७८।५</summary>
+
+वेदङ्गळालुम् अळविड मुडियाद परमबदत्तिले नित्यवासम् पण्णुमवऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७८।६</summary>
+
+पावनास नादऩे!
+</details>
+
+
+
+<details><summary>टीका - ७७८।६</summary>
+
+हेयप्रत्यनीगऩाऩ सर्वेच्वरऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७८।७</summary>
+
+ऎण् कडन्द योगिऩोडु
+</details>
+
+
+
+<details><summary>टीका - ७७८।७</summary>
+
+ऎण्णमुडियाद आच्चर्य सक्तियोडु कूडिऩवऩाय्क् कॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ७७८।८</summary>
+
+माणि आय्
+</details>
+
+
+
+<details><summary>टीका - ७७८।८</summary>
+
+वामऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७८।९</summary>
+
+इरन्दु सॆऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७७८।९</summary>
+
+(मूवडिमण् वेणुमॆऩ्ऱु) यासित्तुच् चॆऩ्ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ७७८।१०</summary>
+
+मण् कडन्द वण्णम्
+</details>
+
+
+
+<details><summary>टीका - ७७८।१०</summary>
+
+पूमियै यळन्दुगॊण्ड विदत्तैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७८।११</summary>
+
+निऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ७७८।११</summary>
+
+उऩ्ऩैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७८।१२</summary>
+
+आर् मदिक्क वल्लर्
+</details>
+
+
+
+<details><summary>टीका - ७७८।१२</summary>
+
+अळविडक्कूडियवर्गळ् यार्?
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।१</summary>
+
+पौवम् नीर्
+</details>
+
+
+
+<details><summary>टीका - ७७९।१</summary>
+
+(अण्डङ्गळुक्कुक् कारणमाऩ) एगार्णवत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।२</summary>
+
+पडैत्तु
+</details>
+
+
+
+<details><summary>टीका - ७७९।२</summary>
+
+स्रुष्टित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।३</summary>
+
+पडैत्त
+</details>
+
+
+
+<details><summary>टीका - ७७९।३</summary>
+
+(पिऱगु, अण्डप्रह्मस्रुष्टि पूर्वमाग) स्रुष्टिक्कप्पट्ट
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।४</summary>
+
+पार्
+</details>
+
+
+
+<details><summary>टीका - ७७९।४</summary>
+
+पूमियै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।५</summary>
+
+इडन्दु
+</details>
+
+
+
+<details><summary>टीका - ७७९।५</summary>
+
+(श्रीवराहमूर्त्तियाय् अण्डबित्तियिल् निऩ्ऱुम्) ऒट्टुवित्तॆडुत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।६</summary>
+
+अळन्दु
+</details>
+
+
+
+<details><summary>टीका - ७७९।६</summary>
+
+(त्रिविक्रमऩाय्) अळन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।७</summary>
+
+उण्डु
+</details>
+
+
+
+<details><summary>टीका - ७७९।७</summary>
+
+(प्रळयगालत्तिल्) तिरुवयिऱ्‌ऱिल् वैत्तु नोक्कि
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।८</summary>
+
+उमिऴ्न्दु
+</details>
+
+
+
+<details><summary>टीका - ७७९।८</summary>
+
+(प्रळयङ्गऴिन्द पिऩ्बु) वॆळिप्पडुत्तियुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।९</summary>
+
+पौवम् नीर्
+</details>
+
+
+
+<details><summary>टीका - ७७९।९</summary>
+
+(इलङ्गैक्कु अऴगाऩ) कडलै
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।१०</summary>
+
+अडैत्तु
+</details>
+
+
+
+<details><summary>टीका - ७७९।१०</summary>
+
+सेदुगट्टित् तूर्त्तु।
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।११</summary>
+
+मुऩ् अदिल् किडन्दु
+</details>
+
+
+
+<details><summary>टीका - ७७९।११</summary>
+
+मुऩ्बॊरुगाल् अक्कडलिऱ्‌ कण्वळर्न्दरुळि
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।१२</summary>
+
+कडैन्द
+</details>
+
+
+
+<details><summary>टीका - ७७९।१२</summary>
+
+(ऒरुगाल् अमुदमॆडुप्पदऱ्‌काग अदऩैक्) कडैन्दरुळिऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।१३</summary>
+
+पॆऱ्‌ऱिबोय्!
+</details>
+
+
+
+<details><summary>टीका - ७७९।१३</summary>
+
+(इप्पडिप्पट्ट अळवऱ्‌ऱ पॆरुमैगळैयुडैयवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।१४</summary>
+
+मिडैत्त
+</details>
+
+
+
+<details><summary>टीका - ७७९।१४</summary>
+
+सॆरुक्कि वन्द
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।१५</summary>
+
+मालि
+</details>
+
+
+
+<details><summary>टीका - ७७९।१५</summary>
+
+मालि ऎऩ्ऱगिऱ राक्षसऩॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।१६</summary>
+
+विलङ्गु माऩ् मालि
+</details>
+
+
+
+<details><summary>टीका - ७७९।१६</summary>
+
+अदिक्षुत्रऩाऩ सुमालियॆऩ्ऩुम् राक्षसऩॆऩ्ऩ इवर्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।१७</summary>
+
+कालऩ् ऊर् पुग
+</details>
+
+
+
+<details><summary>टीका - ७७९।१७</summary>
+
+यमलोगम् पोय्च् चेरुम्बडियाग
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।१८</summary>
+
+पडैक्कलम् विडुत्त
+</details>
+
+
+
+<details><summary>टीका - ७७९।१८</summary>
+
+आयुदङ्गळै प्रयोगित्तरुळिऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७७९।१९</summary>
+
+पल् पडै तडगै मायऩे!
+</details>
+
+
+
+<details><summary>टीका - ७७९।१९</summary>
+
+पलवगैप्पट्ट तिव्यायुदङ्गळै विसालमाऩ तिरुक्कैयिले  युडैयऩाऩ पॆरुमाऩे! (उऩ्ऩैयार् मदिक्कवल्लर्? ऎऩ्ऱु कीऴ्प्पाट्टिऩ् क्रियैक् कूट्टिक्कॊळ्वदु)
+</details>
+
+
+
+<details open><summary>मूलम् - ७८०।१</summary>
+
+नाद
+</details>
+
+
+
+<details><summary>टीका - ७८०।१</summary>
+
+स्वामिन्!
+</details>
+
+
+
+<details open><summary>मूलम् - ७८०।२</summary>
+
+ञाऩम् मूर्त्ति आयिऩाय्
+</details>
+
+
+
+<details><summary>टीका - ७८०।२</summary>
+
+ज्ञानस्वरुबियाऩवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७८०।३</summary>
+
+परत्तिलुम् परत्तै आगि
+</details>
+
+
+
+<details><summary>टीका - ७८०।३</summary>
+
+परात्परऩायिरानिऩ्ऱाय्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७८०।४</summary>
+
+ऒरुत्ति तऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ७८०।४</summary>
+
+ऒप्पऱ्‌ऱ पॆरिय पिराट्टियारै
+</details>
+
+
+
+<details open><summary>मूलम् - ७८०।५</summary>
+
+उरत्तिल्
+</details>
+
+
+
+<details><summary>टीका - ७८०।५</summary>
+
+तिरुमार्बिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७८०।६</summary>
+
+वैत्तु
+</details>
+
+
+
+<details><summary>टीका - ७८०।६</summary>
+
+पिरियामल् अणैयवैत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८०।७</summary>
+
+उगन्दु
+</details>
+
+
+
+<details><summary>टीका - ७८०।७</summary>
+
+मगिऴ्न्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८०।८</summary>
+
+पौवम् नीर् अणै किडन्दु
+</details>
+
+
+
+<details><summary>टीका - ७८०।८</summary>
+
+तिरुवाऱ्‌कडलागिय सयनत्तिले कण्वळर्न्दरुळि
+</details>
+
+
+
+<details open><summary>मूलम् - ७८०।९</summary>
+
+अदु अऩ्ऱियुम्
+</details>
+
+
+
+<details><summary>टीका - ७८०।९</summary>
+
+इप्पडिगळाले आच्रिरक्षणम् सॆय्वदु मल्लामल्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८०।१०</summary>
+
+नरत्तिलुम्
+</details>
+
+
+
+<details><summary>टीका - ७८०।१०</summary>
+
+हेयमाऩ माऩिड सादियिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८०।११</summary>
+
+पिऱत्ति
+</details>
+
+
+
+<details><summary>टीका - ७८०।११</summary>
+
+वन्दु पिऱक्किऩ्ऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७८०।१२</summary>
+
+निऩादु तऩ्मै
+</details>
+
+
+
+<details><summary>टीका - ७८०।१२</summary>
+
+उऩ्ऩुडैय अनुक्रह स्वबावत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ७८०।१३</summary>
+
+ऒरुत्तरुम्
+</details>
+
+
+
+<details><summary>टीका - ७८०।१३</summary>
+
+यारागिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८०।१४</summary>
+
+इऩ्ऩदु ऎऩ्ऩ वल्लरे?
+</details>
+
+
+
+<details><summary>टीका - ७८०।१४</summary>
+
+इप्पडिप्पट्टदॆऩ्ऱु परिच्चेददिक्क समर्त्तर्गळो? (यारुमिल्लै।)
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।१</summary>
+
+वाऩगमुम्
+</details>
+
+
+
+<details><summary>टीका - ७८१।१</summary>
+
+वाऩुलगत्तिलुळ्ळळारयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।२</summary>
+
+मण्णगमुम्
+</details>
+
+
+
+<details><summary>टीका - ७८१।२</summary>
+
+मण्णुलगत्तिलुळ्ळारैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।३</summary>
+
+एऴ् वॆऱ्‌पुम्
+</details>
+
+
+
+<details><summary>टीका - ७८१।३</summary>
+
+सप्तगुलबर्वदङ्गळैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।४</summary>
+
+एऴ् कडल्गळुम्
+</details>
+
+
+
+<details><summary>टीका - ७८१।४</summary>
+
+सप्तसागरङ्गळैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।५</summary>
+
+पोऩगम् सॆय्दु
+</details>
+
+
+
+<details><summary>टीका - ७८१।५</summary>
+
+अमुदु सॆय्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।६</summary>
+
+आल् इलै तुयिऩ्ऱ
+</details>
+
+
+
+<details><summary>टीका - ७८१।६</summary>
+
+आलन्दळिरिले कण्वळर्न्दरुळिऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।७</summary>
+
+पुण्डरीगऩे!
+</details>
+
+
+
+<details><summary>टीका - ७८१।७</summary>
+
+तामरै पोऩ्ऱ अवयवङ्गळैयुडैय पॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।८</summary>
+
+तेऩ् सॆय् अगम्
+</details>
+
+
+
+<details><summary>टीका - ७८१।८</summary>
+
+तेऩ् निऱैन्द उट्पुऱत्तै युडैत्ताय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।९</summary>
+
+तण्
+</details>
+
+
+
+<details><summary>टीका - ७८१।९</summary>
+
+कुळिर्न्ददाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।१०</summary>
+
+नऱु
+</details>
+
+
+
+<details><summary>टीका - ७८१।१०</summary>
+
+परिमळिदमाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।११</summary>
+
+मलर् तुऴाय्
+</details>
+
+
+
+<details><summary>टीका - ७८१।११</summary>
+
+तिरुत्तुऴायै
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।१२</summary>
+
+कल् मालैयाय्!
+</details>
+
+
+
+<details><summary>टीका - ७८१।१२</summary>
+
+नल्लमालैयाग अणिन्दवऩे! (नी)
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।१३</summary>
+
+कूऩ्
+</details>
+
+
+
+<details><summary>टीका - ७८१।१३</summary>
+
+(कूऩियिऩुडैय) कूऩाऩदु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।१४</summary>
+
+अगम् पुग
+</details>
+
+
+
+<details><summary>टीका - ७८१।१४</summary>
+
+उळ्ळे यॊडुङ्गुम्बडि
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।१५</summary>
+
+तॆऱित्त
+</details>
+
+
+
+<details><summary>टीका - ७८१।१५</summary>
+
+विट्टॆऱिन्द
+</details>
+
+
+
+<details open><summary>मूलम् - ७८१।१६</summary>
+
+कॊऱ्‌ऱम् विल्लि अल्लैये
+</details>
+
+
+
+<details><summary>टीका - ७८१।१६</summary>
+
+वॆऱ्‌ऱि विल्लै युडैयवऩाऩ्ऱो
+</details>
+
+
+
+<details open><summary>मूलम् - ७८२।१</summary>
+
+कालनेमि कालऩे!
+</details>
+
+
+
+<details><summary>टीका - ७८२।१</summary>
+
+कालनेमियॆऩ्ऩुम् असुरऩदुक्कु यमऩाऩवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७८२।२</summary>
+
+कणक्कु इलाद कीर्त्तियाय्
+</details>
+
+
+
+<details><summary>टीका - ७८२।२</summary>
+
+ऎण्णिऱन्द पुगऴैयुडैयवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७८२।३</summary>
+
+पण्डु
+</details>
+
+
+
+<details><summary>टीका - ७८२।३</summary>
+
+मुऩ्बॊरुगाल् (प्रळय कालत्तिले)
+</details>
+
+
+
+<details open><summary>मूलम् - ७८२।४</summary>
+
+ञालम् ऎऴुम् उण्डु
+</details>
+
+
+
+<details><summary>टीका - ७८२।४</summary>
+
+एऴुलगङ्गळैयुम् अमुदु सॆय्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८२।५</summary>
+
+पाट्टु
+</details>
+
+
+
+<details><summary>टीका - ७८२।५</summary>
+
+मिऩ्ऩऱदॆयिऱ्‌ऱरक्कऩ् वीऴ
+</details>
+
+
+
+<details open><summary>मूलम् - ७८२।६</summary>
+
+ओर् पालऩ् आय
+</details>
+
+
+
+<details><summary>टीका - ७८२।६</summary>
+
+ऒरु सिऱुगुऴन्दैवडिवमॆडुत्त
+</details>
+
+
+
+<details open><summary>मूलम् - ७८२।७</summary>
+
+पण्बऩे!
+</details>
+
+
+
+<details><summary>टीका - ७८२।७</summary>
+
+आच्चर्यबूदऩे
+</details>
+
+
+
+<details open><summary>मूलम् - ७८२।८</summary>
+
+वेलैवेव
+</details>
+
+
+
+<details><summary>टीका - ७८२।८</summary>
+
+कडल्नीर् वॆन्दु पोम्बडि
+</details>
+
+
+
+<details open><summary>मूलम् - ७८२।९</summary>
+
+विल्वळैत्त
+</details>
+
+
+
+<details><summary>टीका - ७८२।९</summary>
+
+विल्लै वळैत्त।
+</details>
+
+
+
+<details open><summary>मूलम् - ७८२।१०</summary>
+
+वॆल् सिऩत्त  वीर!
+</details>
+
+
+
+<details><summary>टीका - ७८२।१०</summary>
+
+ऎदिरिगळै वॆऩ्ऱेविडुम्बडियाऩ सीऱ्‌ऱत्तैयुडैय वीरऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७८२।११</summary>
+
+निऩ्बालर् आय पक्तर् सित्तम्
+</details>
+
+
+
+<details><summary>टीका - ७८२।११</summary>
+
+उऩ्बक्कल् अऩ्बु पूण्डवर्गळिऩ् सित्तत्तिऩ्बडि
+</details>
+
+
+
+<details open><summary>मूलम् - ७८२।१२</summary>
+
+मुत्ति सॆय्युम्
+</details>
+
+
+
+<details><summary>टीका - ७८२।१२</summary>
+
+(अवर्गट्कु) मोक्षम् तन्दरुळ्गिऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७८२।१३</summary>
+
+मूर्त्तिये!
+</details>
+
+
+
+<details><summary>टीका - ७८२।१३</summary>
+
+स्वामिये!
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।१</summary>
+
+कुरङ्गु इऩम् पडैगॊडु
+</details>
+
+
+
+<details><summary>टीका - ७८३।१</summary>
+
+वानगर्गळिऩ् तिरळाऩ सेऩैयैत् तुणैगॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।२</summary>
+
+कुरै कडलिऩ् मीदु पोय्
+</details>
+
+
+
+<details><summary>टीका - ७८३।२</summary>
+
+कोषिक्किऩ्ऱ कडलिल् (अणैगट्टि) ऎऴुन्दरुळि
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।३</summary>
+
+अङ्गु
+</details>
+
+
+
+<details><summary>टीका - ७८३।३</summary>
+
+अव्विलङ्गैयिलुळ्ळ
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।४</summary>
+
+अरक्कर्
+</details>
+
+
+
+<details><summary>टीका - ७८३।४</summary>
+
+रावणादि राक्षसर्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।५</summary>
+
+अरङ्ग
+</details>
+
+
+
+<details><summary>टीका - ७८३।५</summary>
+
+अऴियुम्बडि
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।६</summary>
+
+वॆम् सरम्
+</details>
+
+
+
+<details><summary>टीका - ७८३।६</summary>
+
+तीक्ष्णमाऩ अम्बुगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।७</summary>
+
+तुरन्द
+</details>
+
+
+
+<details><summary>टीका - ७८३।७</summary>
+
+अवर्गळ् मेल् पिरयोगित्त
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।८</summary>
+
+आदि
+</details>
+
+
+
+<details><summary>टीका - ७८३।८</summary>
+
+वीरर्गळिल् तलैवऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।९</summary>
+
+नी
+</details>
+
+
+
+<details><summary>टीका - ७८३।९</summary>
+
+(ऎम्बॆरुमाऩे;) नीये काण्ग;
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।१०</summary>
+
+इरक्क
+</details>
+
+
+
+<details><summary>टीका - ७८३।१०</summary>
+
+नी वामनऩाय्च् चॆऩ्ऱु यासिक्क
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।११</summary>
+
+मण्गॊडुत्तवऱ्‌कु
+</details>
+
+
+
+<details><summary>टीका - ७८३।११</summary>
+
+उऩक्कु मूवडि निलम् ताऩङ् गॊडुत्त महाबलिक्कु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।१२</summary>
+
+इरुक्क
+</details>
+
+
+
+<details><summary>टीका - ७८३।१२</summary>
+
+कुडियिरुप्पदऱ्‌कु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।१३</summary>
+
+ऒऩ्ऱुम् इऩ्ऱिये
+</details>
+
+
+
+<details><summary>टीका - ७८३।१३</summary>
+
+ऒरुसाण्निलमुम् मिगादबडि
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।१४</summary>
+
+परक्क वैत्तु
+</details>
+
+
+
+<details><summary>टीका - ७८३।१४</summary>
+
+(तिरुवडियै) मिगवुम् विस्तारमाग वैत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।१५</summary>
+
+अळन्दु कॊण्ड
+</details>
+
+
+
+<details><summary>टीका - ७८३।१५</summary>
+
+(मूवुलगङ्गळैयुम्) स्वादीगप्पडुत्तिक् कॊण्ड
+</details>
+
+
+
+<details open><summary>मूलम् - ७८३।१६</summary>
+
+पऱ्‌पबरदऩ् अल्लैये
+</details>
+
+
+
+<details><summary>टीका - ७८३।१६</summary>
+
+तामरैबोऩ्ऱ तिरुवडिगळैयुडैय पॆरुमाऩुम् नीये काण्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।१</summary>
+
+मिऩ् निऱत्तु ऎयिऱु अरक्कऩ्
+</details>
+
+
+
+<details><summary>टीका - ७८४।१</summary>
+
+मिऩ्ऩल् निऱत्तैयॊत्त पऱ्‌कळैयुडैयऩाऩ इरावणऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।२</summary>
+
+वीऴ
+</details>
+
+
+
+<details><summary>टीका - ७८४।२</summary>
+
+माळुम्बडि
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।३</summary>
+
+वॆम् सरम्
+</details>
+
+
+
+<details><summary>टीका - ७८४।३</summary>
+
+कॊडिय अम्बुगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।४</summary>
+
+तुरन्दु
+</details>
+
+
+
+<details><summary>टीका - ७८४।४</summary>
+
+अवऩ् मेल् पिरयोगित्तु (अवऩै मुडित्तरुळि)
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।५</summary>
+
+पिऩ्ऩवऱ्‌कु
+</details>
+
+
+
+<details><summary>टीका - ७८४।५</summary>
+
+अवऩदु तम्बियाऩ विबीडणऩुक्कु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।६</summary>
+
+अरुळ् पुरिन्दु
+</details>
+
+
+
+<details><summary>टीका - ७८४।६</summary>
+
+क्रुबै सॆय्दरुळि
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।७</summary>
+
+अरसु अळित्त
+</details>
+
+
+
+<details><summary>टीका - ७८४।७</summary>
+
+पट्टाबिषेगम् सॆय्दु वैत्त
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।८</summary>
+
+पॆऱ्‌ऱियोय्!
+</details>
+
+
+
+<details><summary>टीका - ७८४।८</summary>
+
+पॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।९</summary>
+
+नल् सिऱत्तु
+</details>
+
+
+
+<details><summary>टीका - ७८४।९</summary>
+
+नल्ल निऱत्तैयुडैयवळाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।१०</summary>
+
+ओर् इऩ् सॊल्
+</details>
+
+
+
+<details><summary>टीका - ७८४।१०</summary>
+
+ऒप्पऱ्‌ऱ मदुरमाऩ वाक्कैयुडैयवळाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।११</summary>
+
+एऴै
+</details>
+
+
+
+<details><summary>टीका - ७८४।११</summary>
+
+उऩ्बक्कल् साबल्यमुडैयवळाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।१२</summary>
+
+पिऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ७८४।१२</summary>
+
+नप्पिऩ्ऩैप् पिराट्टिक्कु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।१३</summary>
+
+केळ्वि
+</details>
+
+
+
+<details><summary>टीका - ७८४।१३</summary>
+
+नायगऩाऩवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।१४</summary>
+
+मऩ्ऩु सीर्
+</details>
+
+
+
+<details><summary>टीका - ७८४।१४</summary>
+
+नित्यळित्त कल्याण कुणङ्गळैयुडैयऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।१५</summary>
+
+पॊऩ् निऱन्द वण्णऩ् आय
+</details>
+
+
+
+<details><summary>टीका - ७८४।१५</summary>
+
+पॊऩ्बोऩ्ऱ तिव्यमङ्गळ विक्रहत्तैयुडैयऩाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७८४।१६</summary>
+
+पुण्डरीगऩ् अल्लैये
+</details>
+
+
+
+<details><summary>टीका - ७८४।१६</summary>
+
+पुण्डरीगाक्षऩॆऩ्बवऩ्  नीये काऩ्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७८५।१</summary>
+
+आदि आदि आदि नी
+</details>
+
+
+
+<details><summary>टीका - ७८५।१</summary>
+
+मूऩ्ऱु विदमाऩ कारणमुम् नीये यागिऱाय्:
+</details>
+
+
+
+<details open><summary>मूलम् - ७८५।२</summary>
+
+ऒरु अण्डम् आदि
+</details>
+
+
+
+<details><summary>टीका - ७८५।२</summary>
+
+अण्डत्तुक्कुट्पट्ट  सगल पदार्त्तङ्गळुक्कुम् निर्वाहगऩुमागिऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७८५।३</summary>
+
+आदलाल्
+</details>
+
+
+
+<details><summary>टीका - ७८५।३</summary>
+
+इप्पडियिरुक्कैयाले
+</details>
+
+
+
+<details open><summary>मूलम् - ७८५।४</summary>
+
+सोदियाद सोदि नी
+</details>
+
+
+
+<details><summary>टीका - ७८५।४</summary>
+
+परीक्षिक्कवेण्डाद परम्बॊरुळ् नी नीयेयागिऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७८५।५</summary>
+
+अदु उण्मैयिल्
+</details>
+
+
+
+<details><summary>टीका - ७८५।५</summary>
+
+अन्द सोदियाऩदु प्रमाणसित्तामगैयाले
+</details>
+
+
+
+<details open><summary>मूलम् - ७८५।६</summary>
+
+विळङ्गिऩाय्
+</details>
+
+
+
+<details><summary>टीका - ७८५।६</summary>
+
+(वेऱॊऩ्ऱालऩ्ऱिक्के) ताऩागवे नी विळङ्गुगिऩ्ऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७८५।७</summary>
+
+वेदम् आगि
+</details>
+
+
+
+<details><summary>टीका - ७८५।७</summary>
+
+वेदङ्गट्कु निर्वाहगऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८५।८</summary>
+
+वेळ्वि आगि
+</details>
+
+
+
+<details><summary>टीका - ७८५।८</summary>
+
+यज्ञ्गळाले आरात्यऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८५।९</summary>
+
+विण्णिऩोडु मण्णुम् आय्
+</details>
+
+
+
+<details><summary>टीका - ७८५।९</summary>
+
+उबय विबूदिक्कुम् नियामगऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८५।१०</summary>
+
+आदि आगि
+</details>
+
+
+
+<details><summary>टीका - ७८५।१०</summary>
+
+इप्पडि सर्वगारण पूदऩायिरुन्दु वैत्त
+</details>
+
+
+
+<details open><summary>मूलम् - ७८५।११</summary>
+
+आयऩ् आय मायम्
+</details>
+
+
+
+<details><summary>टीका - ७८५।११</summary>
+
+इडैयऩाय्प् पिऱन्दामयम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८५।१२</summary>
+
+ऎऩ्ऩ मायम्
+</details>
+
+
+
+<details><summary>टीका - ७८५।१२</summary>
+
+ऎऩ्ऩ आच्चरियमोदाऩ्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७८६।१</summary>
+
+ऎऩ् इसऩे
+</details>
+
+
+
+<details><summary>टीका - ७८६।१</summary>
+
+ऎम्बॆरुमाऩे! (तेवरीर्)
+</details>
+
+
+
+<details open><summary>मूलम् - ७८६।२</summary>
+
+आऴियार् तम् पिराऩुम् आगि
+</details>
+
+
+
+<details><summary>टीका - ७८६।२</summary>
+
+तिरुवाऴियाऴ्वाऩैयुडैय परमबुरुषऩायिरुन्दु वैत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८६।३</summary>
+
+अम्बु उलावुम् मीऩुम् आगि
+</details>
+
+
+
+<details><summary>टीका - ७८६।३</summary>
+
+जलत्तिल् उलावुगिऩ्ऱ मीऩागियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८६।४</summary>
+
+आमै आगि
+</details>
+
+
+
+<details><summary>टीका - ७८६।४</summary>
+
+आमैयागियुम् (अवदरित्तु)
+</details>
+
+
+
+<details open><summary>मूलम् - ७८६।५</summary>
+
+मिक्कदु
+</details>
+
+
+
+<details><summary>टीका - ७८६।५</summary>
+
+अदिसयत्तै अडैन्दरुळिऱ्‌ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८६।६</summary>
+
+अऩ्बु मिक्कदु
+</details>
+
+
+
+<details><summary>टीका - ७८६।६</summary>
+
+मिगुन्द अऩ्बैयुम् काट्टियरुळिऱ्‌ऱु;
+</details>
+
+
+
+<details open><summary>मूलम् - ७८६।७</summary>
+
+अऩ्ऱियुम्
+</details>
+
+
+
+<details><summary>टीका - ७८६।७</summary>
+
+इदऱ्‌कु मेलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८६।८</summary>
+
+कॊम्बु अरावु नुण्मरुङ्गुल् आयर् मादर् पिळ्ळै आय्
+</details>
+
+
+
+<details><summary>टीका - ७८६।८</summary>
+
+वञ्जिक्कॊम्बु पोलुम् अरवु पोलुम् नुट्पमाऩ इडैयैयुडैय इडैप् पॆण्णुक्कुप् पिळ्ळैयाय्प् पिऱन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८६।९</summary>
+
+ऎम्बिराऩुम् आय वण्णम् ऎऩ् कॊल्
+</details>
+
+
+
+<details><summary>टीका - ७८६।९</summary>
+
+ऎम्बिराऩुमाग निऩ्ऱ निलैयुम् ऎऩ्ऩ अऱ्‌पुदम्!।
+</details>
+
+
+
+<details open><summary>मूलम् - ७८७।१</summary>
+
+आडगन्दबूण् मुलै
+</details>
+
+
+
+<details><summary>टीका - ७८७।१</summary>
+
+स्वर्णमयमाऩ आबरणङ्गळैयणिन्द स्तमङ्गळैयुडैयळाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७८७।२</summary>
+
+असोदै आय्च्चि पिळ्ळै आय्
+</details>
+
+
+
+<details><summary>टीका - ७८७।२</summary>
+
+यसोदैयॆऩ्ऩुम् कोबिगैक्कु पुत्तिरऩाय्प् पिऱन्दरुळि
+</details>
+
+
+
+<details open><summary>मूलम् - ७८७।३</summary>
+
+साडु उदैत्तु
+</details>
+
+
+
+<details><summary>टीका - ७८७।३</summary>
+
+सगडासुरऩैत् तिरुवडिगळाल् उदैत् तॊऴित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८७।४</summary>
+
+ओर् पुळ्ळदु अवि कळ्ळ तायबेय् मगळ्
+</details>
+
+
+
+<details><summary>टीका - ७८७।४</summary>
+
+सिऱु कुऴन्दैगळै अऩुङ्गप् पण्णुवदॊरु पऱवैयिऩ् वडिवुगॊण्डु वन्दरुत्रिम मादावागिय पूदऩैयाऩवळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८७।५</summary>
+
+वीड
+</details>
+
+
+
+<details><summary>टीका - ७८७।५</summary>
+
+नी उयिर्विट्टु माळुम्बडि
+</details>
+
+
+
+<details open><summary>मूलम् - ७८७।६</summary>
+
+वैत्त
+</details>
+
+
+
+<details><summary>टीका - ७८७।६</summary>
+
+उऩ् तिरुप्वळत्तिले वैत्त
+</details>
+
+
+
+<details open><summary>मूलम् - ७८७।७</summary>
+
+वॆय्य  कॊङ्गै
+</details>
+
+
+
+<details><summary>टीका - ७८७।७</summary>
+
+(विषम् तीऱ्‌ऱिऩ) कॊडिय मुलैयिलुळ्ळ
+</details>
+
+
+
+<details open><summary>मूलम् - ७८७।८</summary>
+
+ऐय पाल्
+</details>
+
+
+
+<details><summary>टीका - ७८७।८</summary>
+
+सूक्ष्ममाऩ पालै
+</details>
+
+
+
+<details open><summary>मूलम् - ७८७।९</summary>
+
+अमुदुसॆय्दु
+</details>
+
+
+
+<details><summary>टीका - ७८७।९</summary>
+
+उऱिञ्जियुण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८७।१०</summary>
+
+आडगम् कै मादर्
+</details>
+
+
+
+<details><summary>टीका - ७८७।१०</summary>
+
+पॊऩ्वळैगळ् अणिन्द कैगळैयुडैय स्त्रीगळिऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७८७।११</summary>
+
+वाय् अमुदम् उण्डदु
+</details>
+
+
+
+<details><summary>टीका - ७८७।११</summary>
+
+अदरत्तिलुळ् अमुदत्तैप् परुगिऩदु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८७।१२</summary>
+
+ऎऩ्गॊल्
+</details>
+
+
+
+<details><summary>टीका - ७८७।१२</summary>
+
+ऎऩ्ऩ वित्तगम्!
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।१</summary>
+
+काय्न्द
+</details>
+
+
+
+<details><summary>टीका - ७८८।१</summary>
+
+काय्गळ् निऱैन्ददुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।२</summary>
+
+नीळ्
+</details>
+
+
+
+<details><summary>टीका - ७८८।२</summary>
+
+उयर्त्तियैयुडैयदुमाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।३</summary>
+
+विळङ्गऩि
+</details>
+
+
+
+<details><summary>टीका - ७८८।३</summary>
+
+(असुराविष्टमाऩ) विळामरत्तिऩ् कऩिगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।४</summary>
+
+उदिर्त्तु
+</details>
+
+
+
+<details><summary>टीका - ७८८।४</summary>
+
+उदिरच्चॆय्दु (अव्वसुरऩैक् कॊऩ्ऱु)
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।५</summary>
+
+ऎदिर्त्त पू कुरुन्दम्
+</details>
+
+
+
+<details><summary>टीका - ७८८।५</summary>
+
+ऎदिरिट्ट वडिवङ्गॊण्डु वन्द केसियॆऩ्ऩुमसुरऩै इरु तुण्डमागप् पिळन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।६</summary>
+
+साय्त्तु
+</details>
+
+
+
+<details><summary>टीका - ७८८।६</summary>
+
+मुडित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।७</summary>
+
+मा पिळन्द
+</details>
+
+
+
+<details><summary>टीका - ७८८।७</summary>
+
+कुदिरै वडिवङ्गॊण्डु वन्द केसियॆऩ्ऩुमसुरऩै इरु तुण्डमागप् पिळन्द
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।८</summary>
+
+कैत् तलत्त
+</details>
+
+
+
+<details><summary>टीका - ७८८।८</summary>
+
+तिरुक्कैगळैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।९</summary>
+
+कण्णऩ् ऎऩ्बर्
+</details>
+
+
+
+<details><summary>टीका - ७८८।९</summary>
+
+कण्णऩ् ऎऩ्ऱु (उऩ्ऩै अऱिवुडैयार्) सॊल्लुवार्गळ्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।१०</summary>
+
+आय्च्चि पालै
+</details>
+
+
+
+<details><summary>टीका - ७८८।१०</summary>
+
+यसोदैप् पिराट्टियिऩुडैय मुलैप्पालै
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।११</summary>
+
+उण्डु
+</details>
+
+
+
+<details><summary>टीका - ७८८।११</summary>
+
+अमुदु सॆय्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।१२</summary>
+
+वॆण्णॆय् उण्डु
+</details>
+
+
+
+<details><summary>टीका - ७८८।१२</summary>
+
+नवनीदत्तै अमुद सॆय्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।१३</summary>
+
+पेय्च्चिबालै उण्डु
+</details>
+
+
+
+<details><summary>टीका - ७८८।१३</summary>
+
+पूसदऩैयिऩुडैय मुलैप्पालै उण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।१४</summary>
+
+पिऩ्
+</details>
+
+
+
+<details><summary>टीका - ७८८।१४</summary>
+
+कल्प्पत्तिऩ् मुडिविल्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।१५</summary>
+
+मण्णै
+</details>
+
+
+
+<details><summary>टीका - ७८८।१५</summary>
+
+पूमियै
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।१६</summary>
+
+उण्डु
+</details>
+
+
+
+<details><summary>टीका - ७८८।१६</summary>
+
+तिरुवयिऱ्‌ऱिले वैत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।१७</summary>
+
+पण्डु
+</details>
+
+
+
+<details><summary>टीका - ७८८।१७</summary>
+
+कल्बत्तिऩ् आदियिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।१८</summary>
+
+ओर् एऩम् आय
+</details>
+
+
+
+<details><summary>टीका - ७८८।१८</summary>
+
+ऒप्पऱ्‌ऱ वराहरुबियाय् अवदरित्त
+</details>
+
+
+
+<details open><summary>मूलम् - ७८८।१९</summary>
+
+वामऩा
+</details>
+
+
+
+<details><summary>टीका - ७८८।१९</summary>
+
+वामन मूर्त्तिये!
+</details>
+
+
+
+<details open><summary>मूलम् - ७८९।१</summary>
+
+कडम् कलन्द
+</details>
+
+
+
+<details><summary>टीका - ७८९।१</summary>
+
+मदजलत्ताल् व्याप्तमाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७८९।२</summary>
+
+वऩ् करि
+</details>
+
+
+
+<details><summary>टीका - ७८९।२</summary>
+
+वलिय (कुवलयाबीडमॆऩ्ऱ) याऩैयिऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७८९।३</summary>
+
+मरुप्पु
+</details>
+
+
+
+<details><summary>टीका - ७८९।३</summary>
+
+कॊम्बै
+</details>
+
+
+
+<details open><summary>मूलम् - ७८९।४</summary>
+
+ऒसित्तु
+</details>
+
+
+
+<details><summary>टीका - ७८९।४</summary>
+
+मुऱित्तॆऱिन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ७८९।५</summary>
+
+ओर् पॊय्गै वाय्
+</details>
+
+
+
+<details><summary>टीका - ७८९।५</summary>
+
+ओर् मडुविऩ् तुऱैयिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७८९।६</summary>
+
+विडम् कलन्द पाम्बिऩ् मेल्
+</details>
+
+
+
+<details><summary>टीका - ७८९।६</summary>
+
+विषमऩाऩ काळियनागत्तिऩ् मेल्
+</details>
+
+
+
+<details open><summary>मूलम् - ७८९।७</summary>
+
+नडम् पयिऩ्ऱ
+</details>
+
+
+
+<details><summary>टीका - ७८९।७</summary>
+
+नर्ददऩम् सॆय्दरुळिऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७८९।८</summary>
+
+नादऩे!
+</details>
+
+
+
+<details><summary>टीका - ७८९।८</summary>
+
+स्वामिये!
+</details>
+
+
+
+<details open><summary>मूलम् - ७८९।९</summary>
+
+कुडम् कलन्द कूत्तऩ् आय
+</details>
+
+
+
+<details><summary>टीका - ७८९।९</summary>
+
+कुडक्कूत्ताडिऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७८९।१०</summary>
+
+कॊण्डल् वण्ण!
+</details>
+
+
+
+<details><summary>टीका - ७८९।१०</summary>
+
+काळमेगम् पोऩ्ऱ कण्णबिराऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७८९।११</summary>
+
+तण् तुऴाय् वडम् कलन्द मालै मार्ब
+</details>
+
+
+
+<details><summary>टीका - ७८९।११</summary>
+
+कुळिर्न्द तिरुत्तुऴाय् वडत्तोडु कूडऩ मालैयै अणिन्द तिरुमार्बैयुडैयवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७८९।१२</summary>
+
+कालनेमि कालऩे!
+</details>
+
+
+
+<details><summary>टीका - ७८९।१२</summary>
+
+कालनेमियॆऩ्ऩुम् असुरऩुक्कु म्रुत्युवाऩवऩे! (ऎऩ्ऱु ईडुबडुगिऱार्।)
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।१</summary>
+
+वॆऱ्‌पु ऎडुत्तु
+</details>
+
+
+
+<details><summary>टीका - ७९०।१</summary>
+
+मन्दर पर्वदत्तैक्कॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।२</summary>
+
+वेलै नीर्
+</details>
+
+
+
+<details><summary>टीका - ७९०।२</summary>
+
+कडल् नीरै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।३</summary>
+
+कलक्किऩाय्
+</details>
+
+
+
+<details><summary>टीका - ७९०।३</summary>
+
+कलङ्गच् चॆय्दाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।४</summary>
+
+अदु अऩ्ऱियुम्
+</details>
+
+
+
+<details><summary>टीका - ७९०।४</summary>
+
+अदुवु मल्लामल्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।५</summary>
+
+वॆऱ्‌पु ऎडुत्तु
+</details>
+
+
+
+<details><summary>टीका - ७९०।५</summary>
+
+मलैगळैक्कॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।६</summary>
+
+वेलै नीर्
+</details>
+
+
+
+<details><summary>टीका - ७९०।६</summary>
+
+(तॆऱ्‌कुक्) कडलिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।७</summary>
+
+वरम्बु कट्टि
+</details>
+
+
+
+<details><summary>टीका - ७९०।७</summary>
+
+तिरुवणैयैक्कट्टि
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।८</summary>
+
+वेलैसूऴ्
+</details>
+
+
+
+<details><summary>टीका - ७९०।८</summary>
+
+कडलाले (अगऴागच्) चूऴप्पट्टदायुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।९</summary>
+
+वॆऱ्‌पु ऎडुत्त इञ्जि सूऴ्
+</details>
+
+
+
+<details><summary>टीका - ७९०।९</summary>
+
+मलैयाऩ मदिऩाले सूऴप्पट्टदायुमुळ्ळ
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।१०</summary>
+
+इलङ्गै
+</details>
+
+
+
+<details><summary>टीका - ७९०।१०</summary>
+
+लङ्गैयिऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।११</summary>
+
+कट्टु
+</details>
+
+
+
+<details><summary>टीका - ७९०।११</summary>
+
+अरणै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।१२</summary>
+
+अऴित्त
+</details>
+
+
+
+<details><summary>टीका - ७९०।१२</summary>
+
+अऴियच् चॆय्द
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।१३</summary>
+
+नी
+</details>
+
+
+
+<details><summary>टीका - ७९०।१३</summary>
+
+तेवरीर्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।१४</summary>
+
+वॆऱ्‌पु ऎडुत्तु
+</details>
+
+
+
+<details><summary>टीका - ७९०।१४</summary>
+
+कोवर्त्तऩमलैयैक् कुडैयाग वॆडुत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।१५</summary>
+
+मारि कात्त
+</details>
+
+
+
+<details><summary>टीका - ७९०।१५</summary>
+
+मऴैयैत् तडुत्त
+</details>
+
+
+
+<details open><summary>मूलम् - ७९०।१६</summary>
+
+मेगम् वण्णऩ् अल्लैये
+</details>
+
+
+
+<details><summary>टीका - ७९०।१६</summary>
+
+काळमेग निबच्यामरऩ्ऱो!
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।१</summary>
+
+आऩै कात्तु
+</details>
+
+
+
+<details><summary>टीका - ७९१।१</summary>
+
+कजेन्द्राऴ्वाऩैक् कात्तरुळि
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।२</summary>
+
+अदु अऩ्ऱि
+</details>
+
+
+
+<details><summary>टीका - ७९१।२</summary>
+
+अव्वळवेयल्लामल्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।३</summary>
+
+आयर्बिळ्ळै आय्
+</details>
+
+
+
+<details><summary>टीका - ७९१।३</summary>
+
+कोबालगुमारऩागि
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।४</summary>
+
+ओर् आऩै कॊऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७९१।४</summary>
+
+कुवलयाबीडमॆऩ्ऱ ऒरु याऩैयैक् कॊऩ्ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।५</summary>
+
+आऩै
+</details>
+
+
+
+<details><summary>टीका - ७९१।५</summary>
+
+पसुक्कळै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।६</summary>
+
+मेय्त्ति
+</details>
+
+
+
+<details><summary>टीका - ७९१।६</summary>
+
+मेय्त्तरुळा निऩ्ऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।७</summary>
+
+आ नॆय्
+</details>
+
+
+
+<details><summary>टीका - ७९१।७</summary>
+
+पसुक्कळिऩ् नॆय्यै।
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।८</summary>
+
+उण्डि
+</details>
+
+
+
+<details><summary>टीका - ७९१।८</summary>
+
+अमुदु सॆय्या निऩ्ऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।९</summary>
+
+अऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७९१।९</summary>
+
+इन्दिरऩ् विडामऴै पॆय्वित्तगालत्तिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।१०</summary>
+
+कुऩ्ऱम् ऒऩ्ऱिऩाल्
+</details>
+
+
+
+<details><summary>टीका - ७९१।१०</summary>
+
+कोवर्त्तनमॆऩ्ऱ ऒरु मलैयैक् कॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।११</summary>
+
+आऩैक् काट्टु
+</details>
+
+
+
+<details><summary>टीका - ७९१।११</summary>
+
+पसुक्कळै रक्षित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।१२</summary>
+
+मै अरि कण् मादरार् तिऱन्दु
+</details>
+
+
+
+<details><summary>टीका - ७९१।१२</summary>
+
+मैयणिन्दु सॆव्वरि पडर्न्द कण्णैयुडैयळाऩ नप्पिऩ्ऩैप् पिराट्टिक्काग
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।१३</summary>
+
+अऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७९१।१३</summary>
+
+अक्कालत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।१४</summary>
+
+मुऩ्सॆऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७९१।१४</summary>
+
+अवळॆदिरे निऩ्ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।१५</summary>
+
+आऩै अडर्न्द मायम् ऎरुदुगळेऴैयुङ् गॊऩ्ऱ आच्चरियम्
+</details>
+
+
+
+<details><summary>टीका - ७९१।१५</summary>
+
+ऎरुदुगळेऴैयुङ् गॊऩ्ऱ आच्चरियम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९१।१६</summary>
+
+ऎऩ्ऩ मरयम्
+</details>
+
+
+
+<details><summary>टीका - ७९१।१६</summary>
+
+ऎऩ्ऩ आच्चरियम्!
+</details>
+
+
+
+<details open><summary>मूलम् - ७९२।१</summary>
+
+माय !
+</details>
+
+
+
+<details><summary>टीका - ७९२।१</summary>
+
+आच्चरियबूदऩे। (नी)
+</details>
+
+
+
+<details open><summary>मूलम् - ७९२।२</summary>
+
+अयऩ् आगि
+</details>
+
+
+
+<details><summary>टीका - ७९२।२</summary>
+
+इडप्पिळ्ळैयाय्प् पिऱन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९२।३</summary>
+
+आयर् मङ्गै
+</details>
+
+
+
+<details><summary>टीका - ७९२।३</summary>
+
+इडैप्पॆण्णाऩ नप्पिऩ्ऩैप्पिराट्टियिऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७९२।४</summary>
+
+वेय तोळ् विरुम्बिऩाय्
+</details>
+
+
+
+<details><summary>टीका - ७९२।४</summary>
+
+वेय्बोऩ्ऱ तोळ्गळै विरुम्बिप् पुणर्न्दाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७९२।५</summary>
+
+अम्बरत्तोडु इम्बराय्
+</details>
+
+
+
+<details><summary>टीका - ७९२।५</summary>
+
+मेलुलगत्तवर्गळुम् इव्वुलगत्तवर्गळुमा युळ्ळवर्गळिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९२।६</summary>
+
+यावर्
+</details>
+
+
+
+<details><summary>टीका - ७९२।६</summary>
+
+यार्दाऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९२।७</summary>
+
+निऩ्ऩै आयवल्लर्
+</details>
+
+
+
+<details><summary>टीका - ७९२।७</summary>
+
+उऩ् स्वरूबत्तै आराय्न्दु अऱियवल्लर्? (यारुम् अऱिय किल्लार्।)
+</details>
+
+
+
+<details open><summary>मूलम् - ७९२।८</summary>
+
+मायम् मायै कॊल्!
+</details>
+
+
+
+<details><summary>टीका - ७९२।८</summary>
+
+(इप्पडि अऱियमाट्टाददु) पिरगिरुदियैप् पऱ्‌ऱिऩ अज्ञागत्तलल्ल। (सर्वज्ञरायिरुन्दालुम् उऩ् स्वरूबम् अऱियमुडियाददे।)
+</details>
+
+
+
+<details open><summary>मूलम् - ७९२।९</summary>
+
+अदु अऩ्ऱि
+</details>
+
+
+
+<details><summary>टीका - ७९२।९</summary>
+
+अदु अप्पडियिरुक्कट्टुम्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७९२।१०</summary>
+
+नी
+</details>
+
+
+
+<details><summary>टीका - ७९२।१०</summary>
+
+सर्वसक्तऩाऩ नी
+</details>
+
+
+
+<details open><summary>मूलम् - ७९२।११</summary>
+
+वगुत्तलुम्
+</details>
+
+
+
+<details><summary>टीका - ७९२।११</summary>
+
+(उऩ्ऩै वणङ्गि वऴिबडुवदऱ्‌कु उऱुप्पागक् करणगळे परादिगळै) उबगरित्तिरुक्कच् चॆय्देयुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७९२।१२</summary>
+
+माय
+</details>
+
+
+
+<details><summary>टीका - ७९२।१२</summary>
+
+(सेदगर्गळ् अवऱ्‌ऱैक्कॊण्डु नल्वऴियिल् पुगामल्) माय्न्दुबोग (अन्द विनासत्तै नी सहिक्कमाट्टामल्)
+</details>
+
+
+
+<details open><summary>मूलम् - ७९२।१३</summary>
+
+मायम् आक्किऩाय्
+</details>
+
+
+
+<details><summary>टीका - ७९२।१३</summary>
+
+(इवरक्ळै सम्हरिप्पदे क्षेममॆऩ्ऱु) प्रक्रुत्यवस्तैयिले कॊण्डु निऱुत्तिऩाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७९२।१४</summary>
+
+उऩ् मायम् मुऱ्‌ऱुम्
+</details>
+
+
+
+<details><summary>टीका - ७९२।१४</summary>
+
+उऩ्ऩुडैय सङ्गल्बमॆल्लाम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९२।१५</summary>
+
+मायमे
+</details>
+
+
+
+<details><summary>टीका - ७९२।१५</summary>
+
+आच्चरियमायिरुक्किऩ्ऱऩ।
+</details>
+
+
+
+<details open><summary>मूलम् - ७९३।१</summary>
+
+कूसम् इऩ्ऱिये सॆऩ्ऱु एऱु अडर्न्द ईस
+</details>
+
+
+
+<details><summary>टीका - ७९३।१</summary>
+
+कूसामल् सॆऩ्ऱु (नप्पिऩ्ऩैप् पिराट्टिक्काग) ऎरुदुगळै वलियडक्किऩ पॆरुमाऩै!
+</details>
+
+
+
+<details open><summary>मूलम् - ७९३।२</summary>
+
+वेऱु
+</details>
+
+
+
+<details><summary>टीका - ७९३।२</summary>
+
+वेऱाग
+</details>
+
+
+
+<details open><summary>मूलम् - ७९३।३</summary>
+
+इसैक्क
+</details>
+
+
+
+<details><summary>टीका - ७९३।३</summary>
+
+सम्हारत्तॊऴिलुक्कुत् तगुदियाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७९३।४</summary>
+
+सॆक्कर् मेऩि
+</details>
+
+
+
+<details><summary>टीका - ७९३।४</summary>
+
+सिवन्द उडलैयुडैयऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९३।५</summary>
+
+नीऱु अणिन्द
+</details>
+
+
+
+<details><summary>टीका - ७९३।५</summary>
+
+पस्तारियाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९३।६</summary>
+
+पुण् सडै कीऱु तिङ्गळ् वैत्तवऩ् कै वैत्त
+</details>
+
+
+
+<details><summary>टीका - ७९३।६</summary>
+
+हेयामऩ जडैयिले सन्दिरगलैयै वैत्तुक् कॊण्डिरुप्पवऩाऩ रुत्तिरऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९३।७</summary>
+
+कै वैत्त
+</details>
+
+
+
+<details><summary>टीका - ७९३।७</summary>
+
+तऩ्गैयिल् वैत्तुक् कॊण्डिरुन्द
+</details>
+
+
+
+<details open><summary>मूलम् - ७९३।८</summary>
+
+वल् कबाल् मिसै
+</details>
+
+
+
+<details><summary>टीका - ७९३।८</summary>
+
+वलिदाऩ कबालत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९३।९</summary>
+
+ऊऱुसॆम् कुरुदियाल्
+</details>
+
+
+
+<details><summary>टीका - ७९३।९</summary>
+
+उळ् तिरुमेऩियिले ऊऱा निऩ्ऱुळ्ळ सिवन्द रत्तत्ताले
+</details>
+
+
+
+<details open><summary>मूलम् - ७९३।१०</summary>
+
+निऱैन्द कारणम्दऩै
+</details>
+
+
+
+<details><summary>टीका - ७९३।१०</summary>
+
+निऱैन्द कारणत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९३।११</summary>
+
+पेसु
+</details>
+
+
+
+<details><summary>टीका - ७९३।११</summary>
+
+अरुळिच् चॆय्यवेणुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७९३।१२</summary>
+
+पाट्टु
+</details>
+
+
+
+<details><summary>टीका - ७९३।१२</summary>
+
+पालिऩीर्मै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९४।१</summary>
+
+वॆंसिऩन्द
+</details>
+
+
+
+<details><summary>टीका - ७९४।१</summary>
+
+उक्रमाऩ कोबत्तैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७९४।२</summary>
+
+वेऴम्
+</details>
+
+
+
+<details><summary>टीका - ७९४।२</summary>
+
+कुवलयाबीड मॆऩ्ऩुम् याऩै यिऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७९४।३</summary>
+
+वॆण् मरुप्पु
+</details>
+
+
+
+<details><summary>टीका - ७९४।३</summary>
+
+वॆण्णिऱमाऩ तन्दत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९४।४</summary>
+
+ऒसित्तु
+</details>
+
+
+
+<details><summary>टीका - ७९४।४</summary>
+
+ऒडित्तु (अन्द याऩैयै मुडित्तु)
+</details>
+
+
+
+<details open><summary>मूलम् - ७९४।५</summary>
+
+उरुत्त
+</details>
+
+
+
+<details><summary>टीका - ७९४।५</summary>
+
+कोबिष्टऩायुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९४।६</summary>
+
+मा
+</details>
+
+
+
+<details><summary>टीका - ७९४।६</summary>
+
+पल्ष्टऩायुमिरुन्द
+</details>
+
+
+
+<details open><summary>मूलम् - ७९४।७</summary>
+
+कञ्जऩै
+</details>
+
+
+
+<details><summary>टीका - ७९४।७</summary>
+
+कंसऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९४।८</summary>
+
+कडिन्दु
+</details>
+
+
+
+<details><summary>टीका - ७९४।८</summary>
+
+वदैसॆय्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९४।९</summary>
+
+वञ्जऩत्तु वन्द पेय्च्चि आवि
+</details>
+
+
+
+<details><summary>टीका - ७९४।९</summary>
+
+वञ्जऩैयाल् वन्द पूदऩैयिऩ् उयिरै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९४।१०</summary>
+
+पालुऩ् वाङ्गिऩाय्
+</details>
+
+
+
+<details><summary>टीका - ७९४।१०</summary>
+
+मुलैप्पालुण्गिऱ पावऩैयिऩाल् आगर्जित्तवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७९४।११</summary>
+
+मण् अळन्दु कॊण्ड कालऩे!
+</details>
+
+
+
+<details><summary>टीका - ७९४।११</summary>
+
+(त्रिविक्रमऩाय्) पूमियॆल्लामळन्दुगॊण्ड तिरुवडियैयुडैयवऩे! नी।
+</details>
+
+
+
+<details open><summary>मूलम् - ७९४।१२</summary>
+
+अञ्जऩन्द वण्णऩ् आय
+</details>
+
+
+
+<details><summary>टीका - ७९४।१२</summary>
+
+मैबोऩ्ऱ कान्दियैयुडैयऩाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७९४।१३</summary>
+
+आदिदेवऩ् अल्लैये
+</details>
+
+
+
+<details><summary>टीका - ७९४।१३</summary>
+
+आदिबुरुषऩऩ्ऱो?
+</details>
+
+
+
+<details open><summary>मूलम् - ७९५।१</summary>
+
+पालिऩ् नीर्मै
+</details>
+
+
+
+<details><summary>टीका - ७९५।१</summary>
+
+पालिऩ् निऱम्बोऩ्ऱ वॆण्मैयॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७९५।२</summary>
+
+सॆम्बॊऩ् नीर्मै
+</details>
+
+
+
+<details><summary>टीका - ७९५।२</summary>
+
+सिवन्द पॊऩ्ऩिऩ् निऱम् पोऩ्ऱ सॆम्मैयॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७९५।३</summary>
+
+पासियिऩ् पसुम्बुऱम् पोलुम् नीर्मै
+</details>
+
+
+
+<details><summary>टीका - ७९५।३</summary>
+
+पासियिऩुडैय पसुम्बुऱम् पोऩ्ऱ पसुमै निऱमॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७९५।४</summary>
+
+पॊऱ्‌पु उडै तडत्तु वण्डु विण्डु उलाम् नीलम् नीर्मै
+</details>
+
+
+
+<details><summary>टीका - ७९५।४</summary>
+
+अऴगैयुडैय तडागत्तिलेयुळ्ळ वण्डुगळ् सिऱगु विरित्तु परवानिऱ्‌कुम् करुनॆय्दल् पूविऩ् निऱम्बोऩ्ऱ करुनिऱमॆऩ्ऩ।
+</details>
+
+
+
+<details open><summary>मूलम् - ७९५।५</summary>
+
+ऎऩ्ऱु इवै निऱैन्द
+</details>
+
+
+
+<details><summary>टीका - ७९५।५</summary>
+
+ऎऩ्गिऱ इन्द नाऩ्गु निऱङ्गळुम् निऱैयप्पॆऱ्‌ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७९५।६</summary>
+
+कालम् नाऩ्गुम् आम् माविऩ् नीर्मै
+</details>
+
+
+
+<details><summary>टीका - ७९५।६</summary>
+
+नाऩ्गु युगङ्गळुक्कुम् निर्वाहगऩाऩ ऎम्बॆरुमाऩुडैय सौलप्यगुणत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९५।७</summary>
+
+वैयगम्
+</details>
+
+
+
+<details><summary>टीका - ७९५।७</summary>
+
+इव्वुलगत्तिलुळ्ळवर्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९५।८</summary>
+
+मऱैत्तदु
+</details>
+
+
+
+<details><summary>टीका - ७९५।८</summary>
+
+तिरस्करित्तदु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९५।९</summary>
+
+ऎऩ्ऩ नीर्मै
+</details>
+
+
+
+<details><summary>टीका - ७९५।९</summary>
+
+ऎऩ्ऩ स्वबावम्!
+</details>
+
+
+
+<details open><summary>मूलम् - ७९६।१</summary>
+
+अऩन्दऩ् मेल् किडन्द
+</details>
+
+
+
+<details><summary>टीका - ७९६।१</summary>
+
+तिरुवऩन्दाऴ्वाऩ्मेले  साय्न्दरुळ्गिऩ्ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७९६।२</summary>
+
+ऎम् पुण्णिया
+</details>
+
+
+
+<details><summary>टीका - ७९६।२</summary>
+
+ऎङ्गळुडैय  सुक्रुद स्वरूबियाऩ ऎम्बॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७९६।३</summary>
+
+पुऩम् तुऴाय् अलङ्गल्
+</details>
+
+
+
+<details><summary>टीका - ७९६।३</summary>
+
+तऩ्ऩिलत्तिले वळर्न्द तिरुत्तुऴायाले सॆय्यप्पट्ट मालैयैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७९६।४</summary>
+
+अम् पुऩिदऩे
+</details>
+
+
+
+<details><summary>टीका - ७९६।४</summary>
+
+परमबावगऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७९६।५</summary>
+
+मण् उळाय्
+</details>
+
+
+
+<details><summary>टीका - ७९६।५</summary>
+
+लीलाविबूदियिल् अवदरित्तिरा निऩ्ऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७९६।६</summary>
+
+विण् उळाय्
+</details>
+
+
+
+<details><summary>टीका - ७९६।६</summary>
+
+परमबदत्तिल् ऎऴुन्दरुळियिरा निऩ्ऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७९६।७</summary>
+
+मण्णुळ् मयङगि निऩ्ऱु ऎण्णुम् ऎण् अगप्पडाय्
+</details>
+
+
+
+<details><summary>टीका - ७९६।७</summary>
+
+इन्निलत्तिले विबरीदज्ञानिगळायिरुक्किऱ संसारिगळुडैय ऎण्णङ्गळुक्कु विषयमागादिरुक्किऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७९६।८</summary>
+
+निऩ् तमर्
+</details>
+
+
+
+<details><summary>टीका - ७९६।८</summary>
+
+उऩ्ऩुडैयवर्गळाऩ अनन्य प्रयोजनर्गळुक्कु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९६।९</summary>
+
+कण्णुळाय्
+</details>
+
+
+
+<details><summary>टीका - ७९६।९</summary>
+
+सक्षुर्विषयमागानिऩ्ऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७९६।१०</summary>
+
+सेयै
+</details>
+
+
+
+<details><summary>टीका - ७९६।१०</summary>
+
+(मऱ्‌ऱैयोर्क्कु) तूरस्तऩायिरा निऩ्ऱाय्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७९६।११</summary>
+
+ऎऩ्ऩ मायै
+</details>
+
+
+
+<details><summary>टीका - ७९६।११</summary>
+
+इदु ऎऩ्ऩ आच्चरियम्!
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।१</summary>
+
+तोडु पॆऱ्‌ऱ
+</details>
+
+
+
+<details><summary>टीका - ७९७।१</summary>
+
+इदऴ्गळैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।२</summary>
+
+तण् तुऴाय्
+</details>
+
+
+
+<details><summary>टीका - ७९७।२</summary>
+
+कुळिर्न्द तिरुत्तुऴायिऩालागिय
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।३</summary>
+
+अलङ्गल्
+</details>
+
+
+
+<details><summary>टीका - ७९७।३</summary>
+
+मालैयाऩदु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।४</summary>
+
+आडु
+</details>
+
+
+
+<details><summary>टीका - ७९७।४</summary>
+
+विळङ्गप्पॆऱ्‌ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।५</summary>
+
+सॆऩ्ऩियाय्
+</details>
+
+
+
+<details><summary>टीका - ७९७।५</summary>
+
+तिरुमुडियैयुडैवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।६</summary>
+
+कोडु
+</details>
+
+
+
+<details><summary>टीका - ७९७।६</summary>
+
+श्रीबाञ्जजक्याऴ्वाऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।७</summary>
+
+पऱ्‌ऱि
+</details>
+
+
+
+<details><summary>टीका - ७९७।७</summary>
+
+तरित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।८</summary>
+
+आऴि
+</details>
+
+
+
+<details><summary>टीका - ७९७।८</summary>
+
+तिरुवाऴियाऴ्वाऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।९</summary>
+
+एन्दि
+</details>
+
+
+
+<details><summary>टीका - ७९७।९</summary>
+
+एन्दिक्कॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।१०</summary>
+
+अम् सिऱैबुळ्
+</details>
+
+
+
+<details><summary>टीका - ७९७।१०</summary>
+
+अऴगिय सिऱगैयुडैय पॆरिय तिरुवडियै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।११</summary>
+
+ऊर्दि
+</details>
+
+
+
+<details><summary>टीका - ७९७।११</summary>
+
+वाहगमाग नडन्दानिऩ्ऱार्;
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।१२</summary>
+
+नाडु पॆऱ्‌ऱ नऩ्मै
+</details>
+
+
+
+<details><summary>टीका - ७९७।१२</summary>
+
+मऱ्‌ऱ पेर्गळ् पॆऱ्‌ऱ नऩ्मैयै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।१३</summary>
+
+कण्णम् इल्लैयेऩुम्
+</details>
+
+
+
+<details><summary>टीका - ७९७।१३</summary>
+
+नाऩ् पॆऱ्‌ऱिलेऩागिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।१४</summary>
+
+कायिऩेऩ्
+</details>
+
+
+
+<details><summary>टीका - ७९७।१४</summary>
+
+नीसऩाऩ अडियेऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।१५</summary>
+
+वीडुबॆऱ्‌ऱु
+</details>
+
+
+
+<details><summary>टीका - ७९७।१५</summary>
+
+मोक्षत्तैप् पॆऱ्‌ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।१६</summary>
+
+इऱप्पॊडुम् पिऱप्पु अऱुक्कुम् आ
+</details>
+
+
+
+<details><summary>टीका - ७९७।१६</summary>
+
+इऱप्पदुम् पिऱप्पदुमाऩ संसारत्तैत् तॊलैक्कुम् वगैयै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९७।१७</summary>
+
+सॊल्
+</details>
+
+
+
+<details><summary>टीका - ७९७।१७</summary>
+
+अरुळिच् चॆय्यवेणुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।१</summary>
+
+कारॊडु ऒत्त मेऩि
+</details>
+
+
+
+<details><summary>टीका - ७९८।१</summary>
+
+काळमेगत्तोडु ऒत्त तिरुमेऩियैयुडैयऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।२</summary>
+
+नङ्गळ् कण्ण
+</details>
+
+
+
+<details><summary>टीका - ७९८।२</summary>
+
+ऎङ्गळुक्कु अनुबाल्यऩाऩ कण्णऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।३</summary>
+
+विण्णिऩ् नादऩे
+</details>
+
+
+
+<details><summary>टीका - ७९८।३</summary>
+
+नित्यसूरिगट्कुत् तलैवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।४</summary>
+
+नीर् इडत्तु
+</details>
+
+
+
+<details><summary>टीका - ७९८।४</summary>
+
+(नीदि) तिरुप्पाऱ्‌कडलिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।५</summary>
+
+अरा अणै
+</details>
+
+
+
+<details><summary>टीका - ७९८।५</summary>
+
+तिरुवऩन्दाऴ्वाऩ् आगिऱबडुक्कैयिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।६</summary>
+
+किडत्ति
+</details>
+
+
+
+<details><summary>टीका - ७९८।६</summary>
+
+पळ्ळिगॊण्डरुळा निऩ्ऱाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।७</summary>
+
+ऎऩ्बर्
+</details>
+
+
+
+<details><summary>टीका - ७९८।७</summary>
+
+ऎऩ्ऱु (ञाऩिगळ्) सॊल्लुवार्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।८</summary>
+
+अऩ्ऱियुम्
+</details>
+
+
+
+<details><summary>टीका - ७९८।८</summary>
+
+अदु तविरवुम् (नी)
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।९</summary>
+
+ओर् इडत्तै अल्लै
+</details>
+
+
+
+<details><summary>टीका - ७९८।९</summary>
+
+ओरिडत्तै इरुप्पिडमागवुडैयैयल्लै।
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।१०</summary>
+
+ऎल्लै इल्लै
+</details>
+
+
+
+<details><summary>टीका - ७९८।१०</summary>
+
+(नी उऱैयुमिडङ्गट्कु) ऎल्लै इल्लै।
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।११</summary>
+
+ऎऩ्बर्
+</details>
+
+
+
+<details><summary>टीका - ७९८।११</summary>
+
+ऎऩ्ऱुम् सॊल्लुवार्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।१२</summary>
+
+आदलाल्
+</details>
+
+
+
+<details><summary>टीका - ७९८।१२</summary>
+
+इप्पडि उऩ् इरुप्पिडम् सुल पमल्लामैयाले
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।१३</summary>
+
+कायिऩेऩ्
+</details>
+
+
+
+<details><summary>टीका - ७९८।१३</summary>
+
+मिगवुम् नीसऩागिय अडियेऩ्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।१४</summary>
+
+सेर्वु इडत्तै तॆरिन्दु
+</details>
+
+
+
+<details><summary>टीका - ७९८।१४</summary>
+
+आच्रयिप्पदऱ्‌कु उरियस्तलत्तै (इऩ्ऩदॆऩ्ऱु) तॆरिन्दुगॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।१५</summary>
+
+इऱैञ्जुम् आ
+</details>
+
+
+
+<details><summary>टीका - ७९८।१५</summary>
+
+आच्रयिक्कलाम्बडियै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९८।१६</summary>
+
+सॊल्
+</details>
+
+
+
+<details><summary>टीका - ७९८।१६</summary>
+
+अरुळिच् चॆय्यवेणुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७९९।१</summary>
+
+कुऩ्ऱिल् निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७९९।१</summary>
+
+तिरुवेङ्गडमलैयिल् निऩ्ऱुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९९।२</summary>
+
+वाऩ् इरुन्दु
+</details>
+
+
+
+<details><summary>टीका - ७९९।२</summary>
+
+परमबदत्तिल् वीऱ्‌ऱिरुन्दुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९९।३</summary>
+
+नीळ् कडल् किडन्दु
+</details>
+
+
+
+<details><summary>टीका - ७९९।३</summary>
+
+पॆरिदाऩ तिरुप्पाऱ्‌कडलिले तिरुक्कण्वळर्न्दरुळियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९९।४</summary>
+
+मण् ऒऩ्ऱु सॆऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७९९।४</summary>
+
+इप्पूमण्डलत्तै ऒरुगाल् (त्रिविक्रमऩाय्) वियाबित्तुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९९।५</summary>
+
+ऒऩ्ऱु अदै उण्डु
+</details>
+
+
+
+<details><summary>टीका - ७९९।५</summary>
+
+मऱ्‌ऱॊरुगाल् अप्पूमियै विऴुङ्गियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९९।६</summary>
+
+ऒऩ्ऱु अदु पऩ्ऱि आय् इडन्दु
+</details>
+
+
+
+<details><summary>टीका - ७९९।६</summary>
+
+मऱ्‌ऱॊरुगाल् अप्पूमियै वराहरुबियाय् इडन्दुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९९।७</summary>
+
+कऩ्ऱु सॆऩ्ऱ नाळ् अवऱ्‌ऱुळ्
+</details>
+
+
+
+<details><summary>टीका - ७९९।७</summary>
+
+कऩ्ऱाय् सॆऩ्ऱ नाट्कळिले
+</details>
+
+
+
+<details open><summary>मूलम् - ७९९।८</summary>
+
+नल् उयिर् पडैत्तु
+</details>
+
+
+
+<details><summary>टीका - ७९९।८</summary>
+
+नल्ल उयिराऩ मऩिदर्गळै स्रुष्टित्तुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ७९९।९</summary>
+
+अऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ७९९।९</summary>
+
+अप्पोदु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९९।१०</summary>
+
+अवर्क्कु
+</details>
+
+
+
+<details><summary>टीका - ७९९।१०</summary>
+
+अन्द मऩिदर्गट्कु
+</details>
+
+
+
+<details open><summary>मूलम् - ७९९।११</summary>
+
+तेवु
+</details>
+
+
+
+<details><summary>टीका - ७९९।११</summary>
+
+(तङ्गळ् तङ्गळ् कुणङ्गळुक्कुत् तक्कबडि आच्रयिक्कत्तक्क) तेवदैगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ७९९।१२</summary>
+
+अमैत्तु
+</details>
+
+
+
+<details><summary>टीका - ७९९।१२</summary>
+
+एऱ्‌पडुत्तियुम् (इप्पडिगळाले)
+</details>
+
+
+
+<details open><summary>मूलम् - ७९९।१३</summary>
+
+अळित्त
+</details>
+
+
+
+<details><summary>टीका - ७९९।१३</summary>
+
+नऩ्मै सॆय्दरुळिऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ७९९।१४</summary>
+
+आदिदेवऩ् इल्लैये
+</details>
+
+
+
+<details><summary>टीका - ७९९।१४</summary>
+
+परमबुरुषऩ् नीयेगाण्।
+</details>
+
+
+
+<details open><summary>मूलम् - ७९९।१५</summary>
+
+पाट्टु
+</details>
+
+
+
+<details><summary>टीका - ७९९।१५</summary>
+
+मऩ्ऩुमामलर्
+</details>
+
+
+
+<details open><summary>मूलम् - ८००।१</summary>
+
+missing
+</details>
+
+
+
+<details open><summary>मूलम् - ८०१।१</summary>
+
+missing
+</details>
+
+
+
+<details open><summary>मूलम् - ८०२।१</summary>
+
+missing
+</details>
+
+
+
+<details open><summary>मूलम् - ८०३।१</summary>
+
+missing
+</details>
+
+
+
+<details open><summary>मूलम् - ८०४।१</summary>
+
+मोडियोडु
+</details>
+
+
+
+<details><summary>टीका - ८०४।१</summary>
+
+काळियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०४।२</summary>
+
+इलच्चै आय साबम् ऎय्दि मुक्कणाऩ्
+</details>
+
+
+
+<details><summary>टीका - ८०४।२</summary>
+
+वॆट्कत्तै विळैप्पदाऩ साबत्तैयडैन्द रुत्रऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०४।३</summary>
+
+मक्कळोडु
+</details>
+
+
+
+<details><summary>टीका - ८०४।३</summary>
+
+स्वजऩङ्गळोडु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०४।४</summary>
+
+कूडु
+</details>
+
+
+
+<details><summary>टीका - ८०४।४</summary>
+
+तिरण्ड
+</details>
+
+
+
+<details open><summary>मूलम् - ८०४।५</summary>
+
+सेऩै
+</details>
+
+
+
+<details><summary>टीका - ८०४।५</summary>
+
+सेऩैयै
+</details>
+
+
+
+<details open><summary>मूलम् - ८०४।६</summary>
+
+कॊण्डु
+</details>
+
+
+
+<details><summary>टीका - ८०४।६</summary>
+
+अऴैत्तुक्कॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०४।७</summary>
+
+वॆम् समत्तु
+</details>
+
+
+
+<details><summary>टीका - ८०४।७</summary>
+
+पयङ्गरमाऩ पोर्क्कळत्तिलिरुन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०४।८</summary>
+
+मण्डि ओड
+</details>
+
+
+
+<details><summary>टीका - ८०४।८</summary>
+
+वेगमाग ओडिप्पोऩ वळविले
+</details>
+
+
+
+<details open><summary>मूलम् - ८०४।९</summary>
+
+वाणऩ्
+</details>
+
+
+
+<details><summary>टीका - ८०४।९</summary>
+
+पाणासुरऩदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०४।१०</summary>
+
+आयिरम् करम्
+</details>
+
+
+
+<details><summary>टीका - ८०४।१०</summary>
+
+आयिरम् कैगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८०४।११</summary>
+
+कऴित्त
+</details>
+
+
+
+<details><summary>टीका - ८०४।११</summary>
+
+अऱित्तॊऴित्त
+</details>
+
+
+
+<details open><summary>मूलम् - ८०४।१२</summary>
+
+आदि माल्
+</details>
+
+
+
+<details><summary>टीका - ८०४।१२</summary>
+
+परमबुरुषऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८०४।१३</summary>
+
+पीडुगोयिल्
+</details>
+
+
+
+<details><summary>टीका - ८०४।१३</summary>
+
+पॆरुमैदङ्गिय कोयिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०४।१४</summary>
+
+नीर् कूडु
+</details>
+
+
+
+<details><summary>टीका - ८०४।१४</summary>
+
+कावेरियोडु कूडिऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८०४।१५</summary>
+
+अरङ्गम् ऎऩ्ऱबोदु
+</details>
+
+
+
+<details><summary>टीका - ८०४।१५</summary>
+
+तिरुवरङ्गमॆऩ्ऩुम् तिरुनाममुडैयदाम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।१</summary>
+
+इलै तलै
+</details>
+
+
+
+<details><summary>टीका - ८०५।१</summary>
+
+इलैबोऩ्ऱ नुऩियैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।२</summary>
+
+सरम्
+</details>
+
+
+
+<details><summary>टीका - ८०५।२</summary>
+
+अम्बुगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।३</summary>
+
+तुरन्दु
+</details>
+
+
+
+<details><summary>टीका - ८०५।३</summary>
+
+पिरयोगित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।४</summary>
+
+इलङ्गै
+</details>
+
+
+
+<details><summary>टीका - ८०५।४</summary>
+
+ऎल्लैयिऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।५</summary>
+
+कट्टु
+</details>
+
+
+
+<details><summary>टीका - ८०५।५</summary>
+
+अरण्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।६</summary>
+
+अऴित्तवऩ्
+</details>
+
+
+
+<details><summary>टीका - ८०५।६</summary>
+
+अऴियच्चॆय्द इरामबिराऩ्;
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।७</summary>
+
+मलैत्तलै
+</details>
+
+
+
+<details><summary>टीका - ८०५।७</summary>
+
+(सह्यमॆऩ्ऩुम्) मलैयिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।८</summary>
+
+पिऱन्दु
+</details>
+
+
+
+<details><summary>टीका - ८०५।८</summary>
+
+पिऱन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।९</summary>
+
+इऴिन्दु
+</details>
+
+
+
+<details><summary>टीका - ८०५।९</summary>
+
+अङ्गु निऩ्ऱुम् प्रवहित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।१०</summary>
+
+वन्दु
+</details>
+
+
+
+<details><summary>टीका - ८०५।१०</summary>
+
+नॆडुग ओडिवन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।११</summary>
+
+सन्दऩम्
+</details>
+
+
+
+<details><summary>टीका - ८०५।११</summary>
+
+सन्दऩ मरङ्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।१२</summary>
+
+नुन्दु
+</details>
+
+
+
+<details><summary>टीका - ८०५।१२</summary>
+
+(पोर्त्तुत्) तळ्ळानिऩ्ऱदायुम्,
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।१३</summary>
+
+कुलैत्तु
+</details>
+
+
+
+<details><summary>टीका - ८०५।१३</summary>
+
+(कुङ्गुमप्पडर्गॊडियै सिदिलप्पडुत्ति
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।१४</summary>
+
+अलैत्तु
+</details>
+
+
+
+<details><summary>टीका - ८०५।१४</summary>
+
+अलसि
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।१५</summary>
+
+इऱुत्तु
+</details>
+
+
+
+<details><summary>टीका - ८०५।१५</summary>
+
+मुऱिक्क
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।१६</summary>
+
+ऎऱिन्द
+</details>
+
+
+
+<details><summary>टीका - ८०५।१६</summary>
+
+(अक्कॊडिगळ् तम्मिलिरुन्दु) वॆळिप्पडुत्तिऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।१७</summary>
+
+कुङ्गुमम् कुऴम्बिऩोडु
+</details>
+
+
+
+<details><summary>टीका - ८०५।१७</summary>
+
+कुङ्गुमत् तुगळ्गळिऩालाय कुऴम्बुडऩेगूड
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।१८</summary>
+
+अलैत्तु ऒऴुगु काविरि
+</details>
+
+
+
+<details><summary>टीका - ८०५।१८</summary>
+
+अलैमोदिक्कॊण्डु पॆरुगा निऩ्ऱदायुमुळ्ळ तिरुक्कावेरियुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।१९</summary>
+
+अरङ्गम्
+</details>
+
+
+
+<details><summary>टीका - ८०५।१९</summary>
+
+कोयिलिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।२०</summary>
+
+मेय
+</details>
+
+
+
+<details><summary>टीका - ८०५।२०</summary>
+
+ऎऴुन्दरुळियिरुक्किऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८०५।२१</summary>
+
+अण्णऩ्
+</details>
+
+
+
+<details><summary>टीका - ८०५।२१</summary>
+
+स्वामियावर्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८०६।१</summary>
+
+मा मलर् मऩ्ऩु किऴत्ति
+</details>
+
+
+
+<details><summary>टीका - ८०६।१</summary>
+
+सिऱन्द तामरैप्पूविल् पॊरुन्दिय पिराट्टुक्कुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०६।२</summary>
+
+वैयम् मङ्गै
+</details>
+
+
+
+<details><summary>टीका - ८०६।२</summary>
+
+श्रीबूमिप्पिराट्टिक्कुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०६।३</summary>
+
+मैन्दऩ् आय्
+</details>
+
+
+
+<details><summary>टीका - ८०६।३</summary>
+
+(विरुम्बत्तक्क) युवावाय्,
+</details>
+
+
+
+<details open><summary>मूलम् - ८०६।४</summary>
+
+पिऩ्ऩुम्
+</details>
+
+
+
+<details><summary>टीका - ८०६।४</summary>
+
+मेलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०६।५</summary>
+
+आयर् पिऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ८०६।५</summary>
+
+(कोबालराऩ श्रीगुम्बरुडैय मगळाऩ नप्पिऩ्ऩैप् पिराट्टियिऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८०६।६</summary>
+
+तोळ्
+</details>
+
+
+
+<details><summary>टीका - ८०६।६</summary>
+
+तोळोडे
+</details>
+
+
+
+<details open><summary>मूलम् - ८०६।७</summary>
+
+मणम् पुणर्न्दु
+</details>
+
+
+
+<details><summary>टीका - ८०६।७</summary>
+
+सम्च्लेषित्तु (विळङ्गुमवऩाय्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८०६।८</summary>
+
+अदु अऩ्ऱियुम्
+</details>
+
+
+
+<details><summary>टीका - ८०६।८</summary>
+
+अदुक्कु मेलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०६।९</summary>
+
+उऩ्ऩ पादम्
+</details>
+
+
+
+<details><summary>टीका - ८०६।९</summary>
+
+उऩ्ऩुडैय तिरुवडिगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८०६।१०</summary>
+
+ऎऩ्ऩ सिन्दै
+</details>
+
+
+
+<details><summary>टीका - ८०६।१०</summary>
+
+ऎऩ्ऩुडैय नॆञ्जिऩुळ्ळे
+</details>
+
+
+
+<details open><summary>मूलम् - ८०६।११</summary>
+
+मऩ्ऩै वैत्तु
+</details>
+
+
+
+<details><summary>टीका - ८०६।११</summary>
+
+पॊरुन्दवैत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०६।१२</summary>
+
+कल्गिऩाय्
+</details>
+
+
+
+<details><summary>टीका - ८०६।१२</summary>
+
+अरुळ्सॆय्द पॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८०६।१३</summary>
+
+पॊऩ्ऩि सूऴ् अरङ्गम् मेय
+</details>
+
+
+
+<details><summary>टीका - ८०६।१३</summary>
+
+(नी) काविरि सूऴ्न्द कोयिलिले ऎऴुन्दिरुळियिरुक्किऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८०६।१४</summary>
+
+पुण्डरीगऩ् अल्लैये
+</details>
+
+
+
+<details><summary>टीका - ८०६।१४</summary>
+
+तामरैबोऩ्ऱ अवयङ्गळैयुडैय तेवऩऩ्ऱो।
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।१</summary>
+
+अऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८०७।१</summary>
+
+मुऱ्‌कालत्तिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।२</summary>
+
+इलङ्गै मऩ्ऩऩ्
+</details>
+
+
+
+<details><summary>टीका - ८०७।२</summary>
+
+इरावणऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।३</summary>
+
+ऐन्दॊडु ऐन्दु
+</details>
+
+
+
+<details><summary>टीका - ८०७।३</summary>
+
+पत्तागिय
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।४</summary>
+
+पै तलै
+</details>
+
+
+
+<details><summary>टीका - ८०७।४</summary>
+
+वलिय तलैगळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।५</summary>
+
+नीलत्तु उलग
+</details>
+
+
+
+<details><summary>टीका - ८०७।५</summary>
+
+पूमियिले विऴुन्दॊऴियवुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।६</summary>
+
+कलङ्ग
+</details>
+
+
+
+<details><summary>टीका - ८०७।६</summary>
+
+(अव्वरक्कऩ् अञ्जिक्) कलङ्गवुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।७</summary>
+
+सॆऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८०७।७</summary>
+
+इलङ्गैयिऱ्‌ पुगुन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।८</summary>
+
+कॊऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८०७।८</summary>
+
+(अवऩैक् कूट्टत्तोडु) कॊलै सॆय्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।९</summary>
+
+वॆऩ्ऱि कॊण्ड
+</details>
+
+
+
+<details><summary>टीका - ८०७।९</summary>
+
+विजयम् पॆऱ्‌ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।१०</summary>
+
+वीरऩे
+</details>
+
+
+
+<details><summary>टीका - ८०७।१०</summary>
+
+महावीरऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।११</summary>
+
+विलक्कु नूलर्
+</details>
+
+
+
+<details><summary>टीका - ८०७।११</summary>
+
+उडम्बिले यज्ञोबवीदत्तैयुडैयवरुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।१२</summary>
+
+वेदम् नावर्
+</details>
+
+
+
+<details><summary>टीका - ८०७।१२</summary>
+
+वेदङ्गळै नाक्किऩ् नुऩियिलो उडैयरुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।१३</summary>
+
+नीदि आऩ केळ्वि यार्
+</details>
+
+
+
+<details><summary>टीका - ८०७।१३</summary>
+
+(नल्लासिरियर् पक्कलिले) सारमाऩ अर्त्तङ्गळैक् केट्टुणर्न्दवर्गळुमाऩ वैदिगर्गळ्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।१४</summary>
+
+वलम् कॊळ
+</details>
+
+
+
+<details><summary>टीका - ८०७।१४</summary>
+
+वऴिबाडुगळ् सॆय्युम्बडियाग
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।१५</summary>
+
+कुडन्दैयुळ्
+</details>
+
+
+
+<details><summary>टीका - ८०७।१५</summary>
+
+तिरुक्कुडन्दैयिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।१६</summary>
+
+किडन्द
+</details>
+
+
+
+<details><summary>टीका - ८०७।१६</summary>
+
+तिरुक्कण् वळर्न्दरुळा निऩ्ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८०७।१७</summary>
+
+मालुम् अल्लैये
+</details>
+
+
+
+<details><summary>टीका - ८०७।१७</summary>
+
+सर्वेच्वरऩुम् नीयऩ्ऱो
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।१</summary>
+
+सङ्गु तङ्गु मुऩ् कै नङ्गै
+</details>
+
+
+
+<details><summary>टीका - ८०८।१</summary>
+
+(नित्य सम्च्लेषत्ताले) सङ्गु वळैगळ् पॊरुन्दियिरुक्कप्पॆऱ्‌ऱ पिराट्टियिऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।२</summary>
+
+कॊङ्गै
+</details>
+
+
+
+<details><summary>टीका - ८०८।२</summary>
+
+तिरुमुलैत्तडत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।३</summary>
+
+तङ्गल् उऱ्‌ऱवऩ्
+</details>
+
+
+
+<details><summary>टीका - ८०८।३</summary>
+
+विहारत्तै विरुम्बिऩ पडुबावियिऩुडैय (इरावणऩुडैय)
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।४</summary>
+
+अङ्गम्
+</details>
+
+
+
+<details><summary>टीका - ८०८।४</summary>
+
+सरीरमाऩदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।५</summary>
+
+मङ्ग
+</details>
+
+
+
+<details><summary>टीका - ८०८।५</summary>
+
+माळवेणुमॆऩ्ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।६</summary>
+
+अऩ्ऱु सॆऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८०८।६</summary>
+
+मुऩ्बु (इलङ्गैक्कु) ऎऴुन्दरुळि
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।७</summary>
+
+अडर्न्दु
+</details>
+
+
+
+<details><summary>टीका - ८०८।७</summary>
+
+अव्वूरै आक्रमित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।८</summary>
+
+ऎऱिन्द
+</details>
+
+
+
+<details><summary>टीका - ८०८।८</summary>
+
+(अवऩ् तलैगळै) अऱुत्तॊऴित्तवऩाय्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।९</summary>
+
+आऴियाऩ्
+</details>
+
+
+
+<details><summary>टीका - ८०८।९</summary>
+
+कडल्बोऩ्ऱ च्रमहरामऩ तिरुमेऩियैयुडैयवऩाऩ इरामबिराऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।१०</summary>
+
+कॊञ्गु तङ्गुवार् कुऴल्
+</details>
+
+
+
+<details><summary>टीका - ८०८।१०</summary>
+
+नीण्ड कून्दलैयुडैयवर्गळाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।११</summary>
+
+मडन्दैयार्
+</details>
+
+
+
+<details><summary>टीका - ८०८।११</summary>
+
+तिव्यसुन्दरिगळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।१२</summary>
+
+कुडन्दै
+</details>
+
+
+
+<details><summary>टीका - ८०८।१२</summary>
+
+अवगाहिक्कप्पॆऱ्‌ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।१३</summary>
+
+नीर्
+</details>
+
+
+
+<details><summary>टीका - ८०८।१३</summary>
+
+तीर्त्तमाऩदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।१४</summary>
+
+पॊङ्गु
+</details>
+
+
+
+<details><summary>टीका - ८०८।१४</summary>
+
+व्रुत्तियडैन्दिरुक्कप्पॆऱ्‌ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।१५</summary>
+
+तण् कुडन्दैयुळ्
+</details>
+
+
+
+<details><summary>टीका - ८०८।१५</summary>
+
+कुळिर्न्द तिरुक्कुडन्दैयिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।१६</summary>
+
+किडन्द
+</details>
+
+
+
+<details><summary>टीका - ८०८।१६</summary>
+
+पळ्ळिगॊण्डिरानिऩ्ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८०८।१७</summary>
+
+पुण्डरीगऩ्
+</details>
+
+
+
+<details><summary>टीका - ८०८।१७</summary>
+
+सुन्दराङ्गऩ्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८०९।१</summary>
+
+मरम् कॆड कडन्दु
+</details>
+
+
+
+<details><summary>टीका - ८०९।१</summary>
+
+यमऩार्जुन स्रुक्षङ्गळ् मुडियुम्बडि कडैगऱ्‌ऱु।
+</details>
+
+
+
+<details open><summary>मूलम् - ८०९।२</summary>
+
+मत्त याऩै अडर्न्दु
+</details>
+
+
+
+<details><summary>टीका - ८०९।२</summary>
+
+(कुवलयाबीडमॆऩ्ऩुम्) कॊऴुत्त याऩैयै मद मॊऴित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०९।३</summary>
+
+मत्तगत्तु
+</details>
+
+
+
+<details><summary>टीका - ८०९।३</summary>
+
+(अव्वाऩैयिऩ्) तलैमेल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८०९।४</summary>
+
+उरम्गॆड पुडैत्तु
+</details>
+
+
+
+<details><summary>टीका - ८०९।४</summary>
+
+(अदऩ्) वलिमाऩ प्रहारङ्गळ् कॊडुत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०९।५</summary>
+
+ओर्गॊम्बु ऒसित्त उत्तमर्
+</details>
+
+
+
+<details><summary>टीका - ८०९।५</summary>
+
+(अदऩ्) तन्दत्तै मुऱित्तॆऱिन्द परमबुरुषऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८०९।६</summary>
+
+तुरङ्गम्
+</details>
+
+
+
+<details><summary>टीका - ८०९।६</summary>
+
+कुदिरै वडिवङ्गॊण्डु  वन्द केसियॆऩ्ऩुमसुरऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८०९।७</summary>
+
+वाय्बिळन्दु
+</details>
+
+
+
+<details><summary>टीका - ८०९।७</summary>
+
+वायैप्पिळन्दु (अवऩैयॊऴित्त पॆरुमाऩे)
+</details>
+
+
+
+<details open><summary>मूलम् - ८०९।८</summary>
+
+मण् अळन्द पाद!
+</details>
+
+
+
+<details><summary>टीका - ८०९।८</summary>
+
+उलगङ्गळै यळन्दु कॊण्ड तिरुवडिगळैयुडैयोऩे! (नी।)
+</details>
+
+
+
+<details open><summary>मूलम् - ८०९।९</summary>
+
+वेदियर् वसम् कॊळ
+</details>
+
+
+
+<details><summary>टीका - ८०९।९</summary>
+
+वैदियर्गळ् तङ्गळ् तङ्गळुडैय विरुप्पङ्गळैप् पॆऱ्‌ऱुक्कॊळ्ळुमाऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ८०९।१०</summary>
+
+कुडन्दैयुळ्
+</details>
+
+
+
+<details><summary>टीका - ८०९।१०</summary>
+
+तिरुक्कुडन्दैयिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८०९।११</summary>
+
+किडन्द
+</details>
+
+
+
+<details><summary>टीका - ८०९।११</summary>
+
+तिरुक्कण् वळर्न्दरुळा निऩ्ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८०९।१२</summary>
+
+माल् अल्लैये
+</details>
+
+
+
+<details><summary>टीका - ८०९।१२</summary>
+
+सर्वेच्वरऩुम् नीयऩ्ऱो
+</details>
+
+
+
+<details open><summary>मूलम् - ८१०।१</summary>
+
+सालिवेलि
+</details>
+
+
+
+<details><summary>टीका - ८१०।१</summary>
+
+सॆन्नॆऱ्‌ पयिर्गळै वेलियागवुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८१०।२</summary>
+
+तण् वयल् तडम् किडङ्गु
+</details>
+
+
+
+<details><summary>टीका - ८१०।२</summary>
+
+कुळिर्न्द कऴऩिगळॆऩ्ऩ पॆरिय अगऴिगळॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८१०।३</summary>
+
+तण्
+</details>
+
+
+
+<details><summary>टीका - ८१०।३</summary>
+
+कुळिर्न्ददाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८१०।४</summary>
+
+कुडन्दै
+</details>
+
+
+
+<details><summary>टीका - ८१०।४</summary>
+
+तिरुक्कुडन्दैयिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८१०।५</summary>
+
+मेय
+</details>
+
+
+
+<details><summary>टीका - ८१०।५</summary>
+
+ऎऴुन्दरुळियिरानिऩ्ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८१०।६</summary>
+
+कोवला
+</details>
+
+
+
+<details><summary>टीका - ८१०।६</summary>
+
+क्रुष्णऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८१०।७</summary>
+
+कालनेमि
+</details>
+
+
+
+<details><summary>टीका - ८१०।७</summary>
+
+कालनेमियॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८१०।८</summary>
+
+वक्करऩ्
+</details>
+
+
+
+<details><summary>टीका - ८१०।८</summary>
+
+तन्दवक्रऩॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८१०।९</summary>
+
+पूबॊऴिल् कोलम् नीडु माडम्
+</details>
+
+
+
+<details><summary>टीका - ८१०।९</summary>
+
+पुष्पित्त सोलैगळॆऩ्ऩ अऴगाग ओङ्गिऩ माडङ्गळॆऩ्ऩ इवऱ्‌ऱैयुडैत्ताय्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१०।१०</summary>
+
+करऩ् मुरऩ्
+</details>
+
+
+
+<details><summary>टीका - ८१०।१०</summary>
+
+कॊडियवऩाऩ मुरऩॆऩ्ऩ इवर्गळुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८१०।११</summary>
+
+सिरम् अवै
+</details>
+
+
+
+<details><summary>टीका - ८१०।११</summary>
+
+तलैगळाऩवै
+</details>
+
+
+
+<details open><summary>मूलम् - ८१०।१२</summary>
+
+कालऩोडु कूड
+</details>
+
+
+
+<details><summary>टीका - ८१०।१२</summary>
+
+यमलोगम् पोय्च् चेरुम्बडियाग
+</details>
+
+
+
+<details open><summary>मूलम् - ८१०।१३</summary>
+
+विल्गुऩित्त
+</details>
+
+
+
+<details><summary>टीका - ८१०।१३</summary>
+
+विल्लै वळैत्त
+</details>
+
+
+
+<details open><summary>मूलम् - ८१०।१४</summary>
+
+विल् कै
+</details>
+
+
+
+<details><summary>टीका - ८१०।१४</summary>
+
+अऴगिय तिरुक्कैयैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८१०।१५</summary>
+
+वीरऩे
+</details>
+
+
+
+<details><summary>टीका - ८१०।१५</summary>
+
+तऩि वीरऩे! (ऎऩ्ऱु एत्तुगिऱार्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।१</summary>
+
+सॆऴुम् कॊऴुम् पॆरुम्बणि
+</details>
+
+
+
+<details><summary>टीका - ८११।१</summary>
+
+इडैविडादे तारैगळाय् विऴुगिऱ कऩत्त मूडुबऩियाऩदु।
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।२</summary>
+
+पॊऴिन्दिड
+</details>
+
+
+
+<details><summary>टीका - ८११।२</summary>
+
+पॊऴिन्दवळविले
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।३</summary>
+
+उयर्न्द वेय् विऴुन्दु
+</details>
+
+
+
+<details><summary>टीका - ८११।३</summary>
+
+मुऩ्बु ओङ्गियिरुन्द मूङ्गिऱ्‌पणैगळ् (अप्पणियिऩ् कऩत्ताले) तरैयिले साय्न्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।४</summary>
+
+उलर्न्दु ऎऴुन्दु
+</details>
+
+
+
+<details><summary>टीका - ८११।४</summary>
+
+(पिऱगु सूर्यगिरणङ्गळाले अप्पऩि) उलर्न्द पिऩ्बु
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।५</summary>
+
+ऎऴुन्दु
+</details>
+
+
+
+<details><summary>टीका - ८११।५</summary>
+
+(अम्मूङ्गिऱ्‌पणैगळ्) उयरक् किळम्बि
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।६</summary>
+
+विण् पुडैक्कुम्
+</details>
+
+
+
+<details><summary>टीका - ८११।६</summary>
+
+विण्णुलगत्तै मुट्टुम्बडियाऩ उन्नदियै युडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।७</summary>
+
+वेङ्गडत्तुळ्
+</details>
+
+
+
+<details><summary>टीका - ८११।७</summary>
+
+तिरुवेङ्गडमलैयिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।८</summary>
+
+निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८११।८</summary>
+
+निऩ्ऱरुळि
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।९</summary>
+
+तेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८११।९</summary>
+
+वण्डुगळाऩवै
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।१०</summary>
+
+ऎऴुन्दु इरुन्दु पॊरुन्दु
+</details>
+
+
+
+<details><summary>टीका - ८११।१०</summary>
+
+मेले किळम्बुवदुम् कीऴे पडिन्दिरुप्पदुमाऩ निलैमैगळो पॊरुन्दियिरुक्कप् पॆऱ्‌ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।११</summary>
+
+पू पॊऴिल्
+</details>
+
+
+
+<details><summary>टीका - ८११।११</summary>
+
+पुष्पङ्गळ् निऱैन्द सोलैगळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।१२</summary>
+
+तऴै कॊऴुम्
+</details>
+
+
+
+<details><summary>टीका - ८११।१२</summary>
+
+तऴैत्तोङ्गा निऱ्‌कप्पॆऱ्‌ऱदाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।१३</summary>
+
+सॆऴुम्गडल्
+</details>
+
+
+
+<details><summary>टीका - ८११।१३</summary>
+
+सॆऴुमै तङ्गिय तडागङ्गळैयुडैत्ताऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।१४</summary>
+
+कुडन्दैयुळ्
+</details>
+
+
+
+<details><summary>टीका - ८११।१४</summary>
+
+तिरुक्कुडन्दैयिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।१५</summary>
+
+किडन्द
+</details>
+
+
+
+<details><summary>टीका - ८११।१५</summary>
+
+तिरुक्कण्वळर्न्दरुळा निऩ्ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८११।१६</summary>
+
+माल् अल्लैये
+</details>
+
+
+
+<details><summary>टीका - ८११।१६</summary>
+
+पॆरुमाळ् नीयिऱे।
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।१</summary>
+
+विलङ्गु
+</details>
+
+
+
+<details><summary>टीका - ८१२।१</summary>
+
+नीर् पॆरुगवॊण्णादबडि    तडैयायिरुक्किऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।२</summary>
+
+माल् वरै
+</details>
+
+
+
+<details><summary>टीका - ८१२।२</summary>
+
+पॆरुप्पॆरुत्त मलैगळैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।३</summary>
+
+करम्
+</details>
+
+
+
+<details><summary>टीका - ८१२।३</summary>
+
+पालैनिलम् मुदलिय अरुवऴिगळैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।४</summary>
+
+कडन्द
+</details>
+
+
+
+<details><summary>टीका - ८१२।४</summary>
+
+(वेगत्तिले) कडन्दुगॊण्डु वरुगिऩ्ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।५</summary>
+
+काल् परन्द
+</details>
+
+
+
+<details><summary>टीका - ८१२।५</summary>
+
+विस्तारमाऩ वाय्क्काल्गळैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।६</summary>
+
+काविरि
+</details>
+
+
+
+<details><summary>टीका - ८१२।६</summary>
+
+तिरुक्कावेरि नदियिऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।७</summary>
+
+कूरै
+</details>
+
+
+
+<details><summary>टीका - ८१२।७</summary>
+
+कूरैमीदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।८</summary>
+
+कुडन्दैयुम्
+</details>
+
+
+
+<details><summary>टीका - ८१२।८</summary>
+
+तिरुक्कुडन्दैयिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।९</summary>
+
+किडन्द आऱु
+</details>
+
+
+
+<details><summary>टीका - ८१२।९</summary>
+
+तिरुक्कण् वळर्न्दरुळुगिऱबडियाऩदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।१०</summary>
+
+नडन्द काल्गळ् नॊन्दवो
+</details>
+
+
+
+<details><summary>टीका - ८१२।१०</summary>
+
+उलगळन्द तिरुवडिगळ् नॊन्ददऩालो? (उलगळन्द वीडाय् तीरवो?)
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।११</summary>
+
+ञालम्
+</details>
+
+
+
+<details><summary>टीका - ८१२।११</summary>
+
+पूमिप्पिराट्टियाऩवळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।१२</summary>
+
+नडुङ्ग
+</details>
+
+
+
+<details><summary>टीका - ८१२।१२</summary>
+
+(पादाळत्तिले उरुमाय्न्दु नम्मै यॆडुक्क वल्लार् आरुमिल्लैये’ ऎऩ्ऱु) नडुङ्गिक् किडन्द कालत्तु)
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।१३</summary>
+
+एऩम् आय्
+</details>
+
+
+
+<details><summary>टीका - ८१२।१३</summary>
+
+महावराहमूर्त्तियागि
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।१४</summary>
+
+इडन्द
+</details>
+
+
+
+<details><summary>टीका - ८१२।१४</summary>
+
+अप्पूमियै अण्डबित्तियिल् निऩ्ऱुम् विडुवित्तु उत्तरिप्पित्त
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।१५</summary>
+
+मॆय्
+</details>
+
+
+
+<details><summary>टीका - ८१२।१५</summary>
+
+तिरुमेऩि
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।१६</summary>
+
+कुलुङ्गवो?
+</details>
+
+
+
+<details><summary>टीका - ८१२।१६</summary>
+
+च्रमप्पट्टदऩालो? (एऩमाय् उलगिडन्द विडाय्दीरवो?)
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।१७</summary>
+
+कोऩे
+</details>
+
+
+
+<details><summary>टीका - ८१२।१७</summary>
+
+कोवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।१८</summary>
+
+ऎऴुन्दिरुन्दु पो
+</details>
+
+
+
+<details><summary>टीका - ८१२।१८</summary>
+
+(ऎन्दविडाय् तीरक् किडक्किऱायॆऩ्बदै) ऎऴुन्दिरुन्दु अरुळीच्चॆय्ग;
+</details>
+
+
+
+<details open><summary>मूलम् - ८१२।१९</summary>
+
+वाऴि
+</details>
+
+
+
+<details><summary>टीका - ८१२।१९</summary>
+
+इक्किडैयऴगु ऎऩ्ऱुम् वाऴ्ग।
+</details>
+
+
+
+<details open><summary>मूलम् - ८१३।१</summary>
+
+करण्डम् आडु पॊय्गैयुळ्
+</details>
+
+
+
+<details><summary>टीका - ८१३।१</summary>
+
+नीर्क्काक्कैगळ् उलावुगिऩ्ऱ पॊय्गैयिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८१३।२</summary>
+
+करु पऩै पॆरु पऴम्
+</details>
+
+
+
+<details><summary>टीका - ८१३।२</summary>
+
+करिय पॆरिय पऩम्बऴङ्गळाऩवै
+</details>
+
+
+
+<details open><summary>मूलम् - ८१३।३</summary>
+
+पुरण्डु वीऴ
+</details>
+
+
+
+<details><summary>टीका - ८१३।३</summary>
+
+विऴुन्दुबुरळ (अवऱ्‌ऱैक् कण्डु नीर्क्काक्कैगळाग प्रमित्तु अञ्जिऩ)
+</details>
+
+
+
+<details open><summary>मूलम् - ८१३।४</summary>
+
+वाळै
+</details>
+
+
+
+<details><summary>टीका - ८१३।४</summary>
+
+मीऩ्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१३।५</summary>
+
+पाय्
+</details>
+
+
+
+<details><summary>टीका - ८१३।५</summary>
+
+तुळ्ळियोडि यॊऩिक्किऩ्ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८१३।६</summary>
+
+कुऱुङ्गुडि
+</details>
+
+
+
+<details><summary>टीका - ८१३।६</summary>
+
+तिरुक्कुऱुक्कुडियिले ऎऴुन्दरुळियिरुक्किऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८१३।७</summary>
+
+नॆडुन्दगाय्
+</details>
+
+
+
+<details><summary>टीका - ८१३।७</summary>
+
+महादुबावऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८१३।८</summary>
+
+तिरण्ड तोळ्
+</details>
+
+
+
+<details><summary>टीका - ८१३।८</summary>
+
+तिरण्डदोळ्गळैयुडैयवऩाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८१३।९</summary>
+
+इरणियऩ्
+</details>
+
+
+
+<details><summary>टीका - ८१३।९</summary>
+
+हिरण्यऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८१३।१०</summary>
+
+सिऩम्गॊळ् आगम् ऒऩ्ऱै
+</details>
+
+
+
+<details><summary>टीका - ८१३।१०</summary>
+
+मात्सर्यम् विळङ्गुगिऱ कडुमैयिऩ् अत्विदीयमाऩ सरीरत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८१३।११</summary>
+
+इरण्डु कूऱु सॆय्दु
+</details>
+
+
+
+<details><summary>टीका - ८१३।११</summary>
+
+इरुबिळवागप् पिळन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१३।१२</summary>
+
+उगन्द
+</details>
+
+
+
+<details><summary>टीका - ८१३।१२</summary>
+
+मगिऴ्न्द
+</details>
+
+
+
+<details open><summary>मूलम् - ८१३।१३</summary>
+
+सिङ्गम् ऎऩ्बदु
+</details>
+
+
+
+<details><summary>टीका - ८१३।१३</summary>
+
+नरसिम्ह मूर्त्तियॆऩ्ऱु सॊल्वदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१३।१४</summary>
+
+उऩ्ऩैये
+</details>
+
+
+
+<details><summary>टीका - ८१३।१४</summary>
+
+उऩ्ऩैयो? (सुगुमारऩाऩवुऩ्ऩै मुरट्टुच् चिङ्गमॆऩ्ऩत्तगुमो?।)
+</details>
+
+
+
+<details open><summary>मूलम् - ८१४।१</summary>
+
+नऩ्ऱु इरुन्दु
+</details>
+
+
+
+<details><summary>टीका - ८१४।१</summary>
+
+(योगप्पयिऱ्‌सिक्कु उरिय आसऩत्तिले मुऱैप्पडि निलैत्तिरुन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१४।२</summary>
+
+योगम् नीदि
+</details>
+
+
+
+<details><summary>टीका - ८१४।२</summary>
+
+योगमागियु उबायत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८१४।३</summary>
+
+नण्णुवार्गळ्
+</details>
+
+
+
+<details><summary>टीका - ८१४।३</summary>
+
+सादिक्किऩ्ऱ योगिगळुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८१४।४</summary>
+
+सिन्दैयुळ्
+</details>
+
+
+
+<details><summary>टीका - ८१४।४</summary>
+
+ह्रुदयत्तिऩुळ्ळे
+</details>
+
+
+
+<details open><summary>मूलम् - ८१४।५</summary>
+
+सॆऩ्ऱु इरुन्दु
+</details>
+
+
+
+<details><summary>टीका - ८१४।५</summary>
+
+प्रवेसित्तिरुन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१४।६</summary>
+
+ऊरगत्तुम्
+</details>
+
+
+
+<details><summary>टीका - ८१४।६</summary>
+
+तिरुवूरगत्तिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१४।७</summary>
+
+वॆह्ह³ऩै
+</details>
+
+
+
+<details><summary>टीका - ८१४।७</summary>
+
+तिरुवॆह्हा³विलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१४।८</summary>
+
+ती विऩैगळ् तीर्त्त
+</details>
+
+
+
+<details><summary>टीका - ८१४।८</summary>
+
+(अवर्गळुडैय) ती विऩैगळैत् तॊलैत्तरुळिऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८१४।९</summary>
+
+तेव तेवऩे!
+</details>
+
+
+
+<details><summary>टीका - ८१४।९</summary>
+
+तेवादि तेवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८१४।१०</summary>
+
+कुऩ्ऱु इरुन्द नीडु माडम्
+</details>
+
+
+
+<details><summary>टीका - ८१४।१०</summary>
+
+मलैगळैक् कॊणर्न्दु सेर्त्तु वैत्ताऱ्‌पोऩ्ऱिरा निऩ्ऱ ओङ्गिऩ माडङ्गळैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८१४।११</summary>
+
+पाडगत्तुम्
+</details>
+
+
+
+<details><summary>टीका - ८१४।११</summary>
+
+तिरुप्पाडगत्तिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१४।१२</summary>
+
+इरुन्दु निऩ्ऱु किडन्ददु
+</details>
+
+
+
+<details><summary>टीका - ८१४।१२</summary>
+
+(क्रमेण) वीऱ्‌ऱिरुक्क तिरुक्कोलमागवुम् निऩ्ऱ तिरुक्कोलमागवुम् सयऩत्तिरुक्कोलमागवुम् ऎऴुन्दरुळियिरुप्पदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१४।१३</summary>
+
+ऎऩ्ऩ नीर्मै
+</details>
+
+
+
+<details><summary>टीका - ८१४।१३</summary>
+
+ऎऩ्ऩ सौहार्त्तमो!
+</details>
+
+
+
+<details open><summary>मूलम् - ८१५।१</summary>
+
+ऎन्दै
+</details>
+
+
+
+<details><summary>टीका - ८१५।१</summary>
+
+ऎम्बॆरुमाऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१५।२</summary>
+
+ऊरगत्तु
+</details>
+
+
+
+<details><summary>टीका - ८१५।२</summary>
+
+तिरुवूरगत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८१५।३</summary>
+
+निऩ्ऱदु
+</details>
+
+
+
+<details><summary>टीका - ८१५।३</summary>
+
+निऩ्ऱरुळिऩदुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१५।४</summary>
+
+पाडगत्तु
+</details>
+
+
+
+<details><summary>टीका - ८१५।४</summary>
+
+तिरुप्पाडगत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८१५।५</summary>
+
+इरुन्ददु
+</details>
+
+
+
+<details><summary>टीका - ८१५।५</summary>
+
+वीऱ्‌ऱिरुन्ददुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१५।६</summary>
+
+वॆह्ह³ऩै
+</details>
+
+
+
+<details><summary>टीका - ८१५।६</summary>
+
+तिरुवॆह्हा³विल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१५।७</summary>
+
+किडन्ददु
+</details>
+
+
+
+<details><summary>टीका - ८१५।७</summary>
+
+तिरुक्कण्णै वळर्न्दरुळिऩदुम् (ऎप्पोदॆऩ्ऱाल्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८१५।८</summary>
+
+ऎऩ् इलाद मुऩ् ऎलाम्
+</details>
+
+
+
+<details><summary>टीका - ८१५।८</summary>
+
+नाऩ् पिऱवादिरुन्द मुऱ्‌कालत्तिलेयाय्त्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१५।९</summary>
+
+अऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८१५।९</summary>
+
+अप्पोदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१५।१०</summary>
+
+नाऩ् पिऱन्दिलेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८१५।१०</summary>
+
+नाऩ् ज्ञाऩजऩ्मम् पॆऱ्‌ऱेऩिल्लै
+</details>
+
+
+
+<details open><summary>मूलम् - ८१५।११</summary>
+
+पिऱन्दबिऩ्
+</details>
+
+
+
+<details><summary>टीका - ८१५।११</summary>
+
+अदुबॆऱ्‌ऱ पिऩ्बु (अऱिवु पिऱन्दबिऩ्बु)
+</details>
+
+
+
+<details open><summary>मूलम् - ८१५।१२</summary>
+
+मऱन्दिलेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८१५।१२</summary>
+
+मऱक्कविल्लै
+</details>
+
+
+
+<details open><summary>मूलम् - ८१५।१३</summary>
+
+निऩ्ऱदुम् इरुन्ददुम् किडन्ददुम् ऎऩ् नॆञ्जुळे
+</details>
+
+
+
+<details><summary>टीका - ८१५।१३</summary>
+
+आदलाल् अवऩ् ऊरगम् मुदलिय तिरुप्पदिगळिल् पण्णुम् सॆयल्गळैयॆल्लाम् ऎऩदु नॆञ्जिऩुळ्ळे सॆय्या निऩ्ऱाऩ् काणीर्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८१६।१</summary>
+
+अऱ्‌पुदऩ्
+</details>
+
+
+
+<details><summary>टीका - ८१६।१</summary>
+
+(ञाऩम् सक्ति मुदलियवऱ्‌ऱाल् आच्चरियबूदऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१६।२</summary>
+
+अऩन्द सयऩऩ्
+</details>
+
+
+
+<details><summary>टीका - ८१६।२</summary>
+
+अरवणैमेऱ्‌ पळ्ळि कॊळ्बवऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१६।३</summary>
+
+आदिबूदऩ्
+</details>
+
+
+
+<details><summary>टीका - ८१६।३</summary>
+
+जगत्कारणबूदऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१६।४</summary>
+
+मादवऩ्
+</details>
+
+
+
+<details><summary>टीका - ८१६।४</summary>
+
+च्रियाबदियुमाऩ पॆरुमाऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१६।५</summary>
+
+ओर् वॆऱ्‌पु अगददु निऱ्‌पदुम् वीण्
+</details>
+
+
+
+<details><summary>टीका - ८१६।५</summary>
+
+विलक्षणमाऩ तिरुवेङ्गडमलैयिले निऩ्ऱरुळ्वदुम् परमागासमॆऩ्ऩुम् तिरुनाट्टिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८१६।६</summary>
+
+इरुम्बुम्
+</details>
+
+
+
+<details><summary>टीका - ८१६।६</summary>
+
+वीऱ्‌ऱिरुप्पदुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१६।७</summary>
+
+नल् पॆरुदिरै कडलुळ् किडप्पदुम्
+</details>
+
+
+
+<details><summary>टीका - ८१६।७</summary>
+
+नल्ल पॆरिय अलैगळैयुडैय तिरुप्पाऱ्‌कडलिले साय्न्दरुळ्वदुम्,
+</details>
+
+
+
+<details open><summary>मूलम् - ८१६।८</summary>
+
+नाऩ् इलाद मुळ् ऎलाम् :
+</details>
+
+
+
+<details><summary>टीका - ८१६।८</summary>
+
+नाऩ् मुऱैयऱियादे अऩत्ताय्क् किडन्द कालत्तिलेयाम्; (इप्पॊऴुदोवॆऩ्ऱाल्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८१६।९</summary>
+
+निऱ्‌पदुम्  इरुप्पदुम् किडप्पदुम् ऎऩ् नॆञ्जऩे।
+</details>
+
+
+
+<details><summary>टीका - ८१६।९</summary>
+
+आदलाल् अवऩ् ऊरगम् मुदलिय तिरुप्पदिगळिल् पण्णुम् सॆयल्गळैयॆल्लाम् ऎऩदु नॆञ्जिऩुळ्ळे सॆय्या निऩ्ऱाऩ् काणीर्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८१७।१</summary>
+
+इऩ्ऱु सादल् निऩ्ऱु सादल्
+</details>
+
+
+
+<details><summary>टीका - ८१७।१</summary>
+
+पिऱन्दाऩॆऩ्गिऱ क्षणत्तिले सॆत्तुप्पोवदो सिलगालमिरुन्दु सॆत्तुप् पोवदो
+</details>
+
+
+
+<details open><summary>मूलम् - ८१७।२</summary>
+
+अऩ्ऱि
+</details>
+
+
+
+<details><summary>टीका - ८१७।२</summary>
+
+इव्विरण्डत्तॊऩ्ऱु तविर
+</details>
+
+
+
+<details open><summary>मूलम् - ८१७।३</summary>
+
+यारुम्
+</details>
+
+
+
+<details><summary>टीका - ८१७।३</summary>
+
+मेऩ्मक्कळाऩ प्रह्मादिगळुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१७।४</summary>
+
+वैयगत्तु
+</details>
+
+
+
+<details><summary>टीका - ८१७।४</summary>
+
+इन्निलत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८१७।५</summary>
+
+ऒऩ्ऱि निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८१७।५</summary>
+
+सिरञ्जीवियायिरुन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१७।६</summary>
+
+वाऴ्दल् इऩ्मै कण्डुम्
+</details>
+
+
+
+<details><summary>टीका - ८१७।६</summary>
+
+वाऴ मुडियादॆऩ्बदै प्रत्यक्षमागप् पार्त्तिरुन्दुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१७।७</summary>
+
+नीसर्
+</details>
+
+
+
+<details><summary>टीका - ८१७।७</summary>
+
+अऱिविल्लादवर्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१७।८</summary>
+
+अऩ्ऱु पार् अळन्दबादबोदै उऩ्ऩिसॆऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८१७।८</summary>
+
+मुऩ्बु पूमि मुऴुवदैयुम् अळन्दरुळिऩ पादारविन्दत्तैच् चिन्दित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१७।९</summary>
+
+सॆऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८१७।९</summary>
+
+अर्च्चिरादिमार्क्कत्ताले सॆऩ्ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१७।१०</summary>
+
+वाऩिऩ्मेल् सॆऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८१७।१०</summary>
+
+परमबदत्तेऱप् पुगुन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१७।११</summary>
+
+तेवर् आय् इरुक्किलाद वण्णम् ऎऩ् कोल्
+</details>
+
+
+
+<details><summary>टीका - ८१७।११</summary>
+
+नित्यसूरिगळोडॊक्क इराददु एऩो?
+</details>
+
+
+
+<details open><summary>मूलम् - ८१८।१</summary>
+
+सण्डऩ् मण्डलत्तिऩूडु सॆऩ्ऱु वीडु पॆऱ्‌ऱु
+</details>
+
+
+
+<details><summary>टीका - ८१८।१</summary>
+
+सूर्यमण्डल मत्यमार्क्कत्ताले पोय्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१८।२</summary>
+
+वीडु पॆऱ्‌ऱु
+</details>
+
+
+
+<details><summary>टीका - ८१८।२</summary>
+
+परमबदत्तै अडैन्दु (अव्विडत्तिल्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८१८।३</summary>
+
+मेल्वीडु इलाद
+</details>
+
+
+
+<details><summary>टीका - ८१८।३</summary>
+
+पक्तियिऩ् पयऩाऩ कैङ्गर्य
+</details>
+
+
+
+<details open><summary>मूलम् - ८१८।४</summary>
+
+कादल् इऩ्बम्
+</details>
+
+
+
+<details><summary>टीका - ८१८।४</summary>
+
+सुगत्तै नित्तियमागप् पॆऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८१८।५</summary>
+
+नाळुम् कण्डु
+</details>
+
+
+
+<details><summary>टीका - ८१८।५</summary>
+
+विरुप्पमुडैयवर्गळे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८१८।६</summary>
+
+ऎय्दुवीर्
+</details>
+
+
+
+<details><summary>टीका - ८१८।६</summary>
+
+(मुमुक्षुक्कळे)
+</details>
+
+
+
+<details open><summary>मूलम् - ८१८।७</summary>
+
+पुण्डरीग  पादऩ्
+</details>
+
+
+
+<details><summary>टीका - ८१८।७</summary>
+
+तामरैबोऩ्ऱ तिरुवडिगळैयुडैऩाऩ पॆरुमाऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८१८।८</summary>
+
+पुण्य कीर्त्ति
+</details>
+
+
+
+<details><summary>टीका - ८१८।८</summary>
+
+परिसुत्तमाऩ तिरुप्पुगऴ्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८१८।९</summary>
+
+नुम् सॆवि
+</details>
+
+
+
+<details><summary>टीका - ८१८।९</summary>
+
+उङ्गळुडैय कादुगळिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८१८।१०</summary>
+
+मडुत्तु
+</details>
+
+
+
+<details><summary>टीका - ८१८।१०</summary>
+
+तेक्कि
+</details>
+
+
+
+<details open><summary>मूलम् - ८१८।११</summary>
+
+उण्डु
+</details>
+
+
+
+<details><summary>टीका - ८१८।११</summary>
+
+अनुबवित्तु।
+</details>
+
+
+
+<details open><summary>मूलम् - ८१८।१२</summary>
+
+नुम् उऱु विऩै तुयरुम् नीङ्गि उय्म्मिऩ्
+</details>
+
+
+
+<details><summary>टीका - ८१८।१२</summary>
+
+उङ्गळुडैय प्रबल पाबङ्गळिऩ् पलऩै तुक्कङ्गळिऩ् निऩ्ऱुम् नीक्कि उज्जिवित्तुप्पोङ्गोळ्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।१</summary>
+
+मूत्तिऱन्दु
+</details>
+
+
+
+<details><summary>टीका - ८१९।१</summary>
+
+मूऩ्ऱु वगैप्पट्ट (सात्वीग, राजस, तामसङ्गळाऩ) पल्गळुक्कुळ्ळे
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।२</summary>
+
+इरण्डिल्
+</details>
+
+
+
+<details><summary>टीका - ८१९।२</summary>
+
+(सात्विगमॊऴिन्द) मऱ्‌ऱैयिरण्डु पलऩ्गळिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।३</summary>
+
+ऒऩ्ऱुम्
+</details>
+
+
+
+<details><summary>टीका - ८१९।३</summary>
+
+विरुप्पमुडैयराऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।४</summary>
+
+नीसर्गळ्
+</details>
+
+
+
+<details><summary>टीका - ८१९।४</summary>
+
+नीसराऩ मऩिसर्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।५</summary>
+
+अदिल् इट्टु
+</details>
+
+
+
+<details><summary>टीका - ८१९।५</summary>
+
+अन्द लोगत्तिले अन्दक् करुम पलऩ्गळैयॊऴित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।६</summary>
+
+इऱन्दु
+</details>
+
+
+
+<details><summary>टीका - ८१९।६</summary>
+
+अवऱ्‌ऱै यनुबविप्पदऱ्‌कागप् पूण्डुगॊण्ड सरीरत्तै मुडित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।७</summary>
+
+पोन्दु
+</details>
+
+
+
+<details><summary>टीका - ८१९।७</summary>
+
+(मऱुबडियुम् कर्प्पवाऩ वऴियाले) पूलोगत्तिल् वन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।८</summary>
+
+मत्तर् आय्
+</details>
+
+
+
+<details><summary>टीका - ८१९।८</summary>
+
+“तेहमे आत्मा” ऎऩ्गिऱ प्रमत्तैयुडैयराय्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।९</summary>
+
+मयङ्गुगिऩ्ऱदु
+</details>
+
+
+
+<details><summary>टीका - ८१९।९</summary>
+
+मोहित्तुप्पोवार्गळ्; (अप्पडिप्पट्टवर्गट्कु)
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।१०</summary>
+
+उय्वदु ओर् उबायम्
+</details>
+
+
+
+<details><summary>टीका - ८१९।१०</summary>
+
+उज्जीव्नोबायम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।११</summary>
+
+ऎत्तिऱत्तुम् इल्लै
+</details>
+
+
+
+<details><summary>टीका - ८१९।११</summary>
+
+ऎव्वऴियालुमिल्लै, (मेलेऱुवदुम् कीऴिऱङ्गुवदुमाय्त् तिरित्लॊऴिय निलैनिऩ्ऱ पुरुषार्त्तम्बॆऱ विरगिल्लै)
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।१२</summary>
+
+उय्गुऱिल्
+</details>
+
+
+
+<details><summary>टीका - ८१९।१२</summary>
+
+(उङ्गळुक्कु) उज्जीविक्क विरुप्पमुण्डागिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।१३</summary>
+
+कॊत्तु इऱुत्त
+</details>
+
+
+
+<details><summary>टीका - ८१९।१३</summary>
+
+कॊत्तुक्कॊत्तागच् चॆऱिन्द
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।१४</summary>
+
+तण् तुऴाय्
+</details>
+
+
+
+<details><summary>टीका - ८१९।१४</summary>
+
+कुळिर्न्द तिरुत्तुऴाय् मालैयै युडैयऩाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।१५</summary>
+
+नम् मालै
+</details>
+
+
+
+<details><summary>टीका - ८१९।१५</summary>
+
+परमबुरुषऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।१६</summary>
+
+वाऴ्त्ति
+</details>
+
+
+
+<details><summary>टीका - ८१९।१६</summary>
+
+तुगित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८१९।१७</summary>
+
+वाऴ्विऩ्
+</details>
+
+
+
+<details><summary>टीका - ८१९।१७</summary>
+
+उज्जीवित्तुप् पोङ्गोळ्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।१</summary>
+
+काणिलुम्
+</details>
+
+
+
+<details><summary>टीका - ८२०।१</summary>
+
+कण्डालुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।२</summary>
+
+उरु पोलार्
+</details>
+
+
+
+<details><summary>टीका - ८२०।२</summary>
+
+विगारमाऩ उरुवत्तैयुडैयरायुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।३</summary>
+
+सॆविक्कु इऩाद कीर्त्तियार्
+</details>
+
+
+
+<details><summary>टीका - ८२०।३</summary>
+
+कादुक्कुक् कडूरमाऩ सरित्तिरङ्गळैयुडैयरायुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।४</summary>
+
+पेणिलुम्
+</details>
+
+
+
+<details><summary>टीका - ८२०।४</summary>
+
+(इप्पडिप्पट्ट विगारमाऩ उरुवत्तैयुम् हेमयमाऩ सरिदैयैयुम्, कवऩियामल्) आच्रयित्तालुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।५</summary>
+
+वरम् तर
+</details>
+
+
+
+<details><summary>टीका - ८२०।५</summary>
+
+(आच्रयित्तवर्गट्कु) इष्टत्तैक् कॊडुक्क
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।६</summary>
+
+मिडुक्कु इलाद
+</details>
+
+
+
+<details><summary>टीका - ८२०।६</summary>
+
+सक्तियऱ्‌ऱवर्गळायुमुळ्ळ
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।७</summary>
+
+तेवरै
+</details>
+
+
+
+<details><summary>टीका - ८२०।७</summary>
+
+तेवदैगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।८</summary>
+
+आणम् ऎऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८२०।८</summary>
+
+सरणमॆऩ्ऱुगॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।९</summary>
+
+अडैन्दु वाऴुम्
+</details>
+
+
+
+<details><summary>टीका - ८२०।९</summary>
+
+अवऱ्‌ऱैयडैन्दु कॆट्टुप्पोगिऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।१०</summary>
+
+आदर्गळ्
+</details>
+
+
+
+<details><summary>टीका - ८२०।१०</summary>
+
+कुरुडर्गळे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।११</summary>
+
+ऎऩ् आदिबाल्
+</details>
+
+
+
+<details><summary>टीका - ८२०।११</summary>
+
+सर्वगारणबूदऩाऩ ऎम्बॆरुमाऩिडत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।१२</summary>
+
+पेणि
+</details>
+
+
+
+<details><summary>टीका - ८२०।१२</summary>
+
+वऴिबाडुगळैच् चॆय्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।१३</summary>
+
+नुम्
+</details>
+
+
+
+<details><summary>टीका - ८२०।१३</summary>
+
+उङ्गळुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।१४</summary>
+
+पिऱप्पु ऎऩुम्
+</details>
+
+
+
+<details><summary>टीका - ८२०।१४</summary>
+
+संसारमागिऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।१५</summary>
+
+पिणक्कु
+</details>
+
+
+
+<details><summary>टीका - ८२०।१५</summary>
+
+पॆरुम्बुदरै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२०।१६</summary>
+
+अऱुक्क किऱ्‌ऱिरे
+</details>
+
+
+
+<details><summary>टीका - ८२०।१६</summary>
+
+अऱुत्तॊऴिक्क वल्लीर्गळे?
+</details>
+
+
+
+<details open><summary>मूलम् - ८२१।१</summary>
+
+कुन्दमोडु कुलम् वेल्गळ् तोमरङ्गळ् तण्डु वाळ्
+</details>
+
+
+
+<details><summary>टीका - ८२१।१</summary>
+
+ईट्टिगळॆऩ्ऩ सूलङ्गळॆऩ्ऩ वेलायुदङ्गळॆऩ्ऩ इरुप्पुलक्कैगळॆऩ्ऩ कदैगळॆऩ्ऩ वाळ्गळॆऩ्ऩ (इवऱ्‌ऱोडु कूड)
+</details>
+
+
+
+<details open><summary>मूलम् - ८२१।२</summary>
+
+पन्दम् आऩ तेवर्गळ्
+</details>
+
+
+
+<details><summary>टीका - ८२१।२</summary>
+
+कूट्टङ् गूट्टमायिरुन्द रुत्रादिदेवदैगळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२१।३</summary>
+
+परन्दु
+</details>
+
+
+
+<details><summary>टीका - ८२१।३</summary>
+
+(पल तिक्कुगळिलुम्) सिदऱिप् पोय्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२१।४</summary>
+
+वाऩगम् उऱ
+</details>
+
+
+
+<details><summary>टीका - ८२१।४</summary>
+
+तङ्गळ् तङ्गळिरुप्पिडमाऩ मेलुलगङ्गळिऱ्‌ सॆऩ्ऱुसेर
+</details>
+
+
+
+<details open><summary>मूलम् - ८२१।५</summary>
+
+वन्द वाणऩ्
+</details>
+
+
+
+<details><summary>टीका - ८२१।५</summary>
+
+(पिऱगु तोळ्गळै वीसिक्कॊण्डु) ऎदिर्त्तु वन्द पाणासुरऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८२१।६</summary>
+
+ईर् ऐनूऱु तोळ्गळै
+</details>
+
+
+
+<details><summary>टीका - ८२१।६</summary>
+
+आयिरन्दोळ्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२१।७</summary>
+
+तुणिन्द नाळ्
+</details>
+
+
+
+<details><summary>टीका - ८२१।७</summary>
+
+अऱुत्तुत् तळ्ळिऩबोदु (अत्तॆय्वङ्ळ्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८२१।८</summary>
+
+अन्द अन्द अगुलम्
+</details>
+
+
+
+<details><summary>टीका - ८२१।८</summary>
+
+वायाऱ्‌सॊल्ल मुडियादबडि वियागुलप्पट्टमैयै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२१।९</summary>
+
+अमररे अऱिवर्
+</details>
+
+
+
+<details><summary>टीका - ८२१।९</summary>
+
+(नाम् अऱियोम्;) अत् तॆय्वङ्गळ् तामे अऱिवर्। (अवर्गळैये केट्टुक् कॊळ्वदु।)
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।१</summary>
+
+वण्डु उलावु कोदै मादर् कारणत्तिऩाल्
+</details>
+
+
+
+<details><summary>टीका - ८२२।१</summary>
+
+(मगरन्दत्तिऱ्‌काग) वण्डुगळ् उलावप्पॆऱ्‌ऱ पूमालैयै अणिन्दिरुन्द उषैयिऩ् निमित्तमाग
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।२</summary>
+
+वॆगुण्डु
+</details>
+
+
+
+<details><summary>टीका - ८२२।२</summary>
+
+कोबङ्गॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।३</summary>
+
+इण्ड
+</details>
+
+
+
+<details><summary>टीका - ८२२।३</summary>
+
+सॆऱित्तुवन्द
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।४</summary>
+
+वाणऩ्
+</details>
+
+
+
+<details><summary>टीका - ८२२।४</summary>
+
+पाणागरऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।५</summary>
+
+ईर् ऐ नूऱु तोळ्गळै
+</details>
+
+
+
+<details><summary>टीका - ८२२।५</summary>
+
+आयिरन्दोळ्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।६</summary>
+
+तुणित्तनाळ्
+</details>
+
+
+
+<details><summary>टीका - ८२२।६</summary>
+
+कऴित्तबोदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।७</summary>
+
+मुण्डऩ् नीऱऩ्
+</details>
+
+
+
+<details><summary>टीका - ८२२।७</summary>
+
+मॊट्टैत्तलैयऩाय् नीऱु पूसिऩवऩाऩ रुत्तिरऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।८</summary>
+
+मक्कळ्
+</details>
+
+
+
+<details><summary>टीका - ८२२।८</summary>
+
+अवऩुडैय कुमारर्गळुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।९</summary>
+
+वॆप्पु
+</details>
+
+
+
+<details><summary>टीका - ८२२।९</summary>
+
+ज्वरदेवदैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।१०</summary>
+
+मोडि
+</details>
+
+
+
+<details><summary>टीका - ८२२।१०</summary>
+
+पिडारियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।११</summary>
+
+अङ्गि
+</details>
+
+
+
+<details><summary>टीका - ८२२।११</summary>
+
+अक्नि तेवदैयुम् (मऱ्‌ऱुमुळ्ळवर्गळुम्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।१२</summary>
+
+ओडिड
+</details>
+
+
+
+<details><summary>टीका - ८२२।१२</summary>
+
+(पाणासुरऩै वञ्जित्तुविट्टु। तङ्गळुयिरैक् कात्तुक् कॊळ्ळ) ओडिप्पोऩ वळविले
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।१३</summary>
+
+कण्डु
+</details>
+
+
+
+<details><summary>टीका - ८२२।१३</summary>
+
+पार्त्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।१४</summary>
+
+नाणि
+</details>
+
+
+
+<details><summary>टीका - ८२२।१४</summary>
+
+(इन्द मुदुगुगाट्टिप् पयल्गळोडु पोर् सॆय्यवा नाम् वन्दोमॆऩ्ऱु) वॆट्कप्पट्टु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।१५</summary>
+
+वाणऩुक्कु
+</details>
+
+
+
+<details><summary>टीका - ८२२।१५</summary>
+
+पाणागरऩ् विषयत्तिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।१६</summary>
+
+इरङ्गिऩाऩ्
+</details>
+
+
+
+<details><summary>टीका - ८२२।१६</summary>
+
+किरुबैबण्णिऩवऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२२।१७</summary>
+
+ऎम्मायऩे
+</details>
+
+
+
+<details><summary>टीका - ८२२।१७</summary>
+
+आच्चरिय सक्तियुक्तऩाऩ ऎम्बॆरुमाऩेयावऩ्। (‘ऎम् आयऩे’ ऎऩ्ऱु पिरिक्कवुमाम्। आयऩ् कण्णबिराऩ्।)
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।१</summary>
+
+पोदिल् मङ्गै
+</details>
+
+
+
+<details><summary>टीका - ८२३।१</summary>
+
+पूमगळाऩ लक्षिमियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।२</summary>
+
+पूदलम् किऴत्ति
+</details>
+
+
+
+<details><summary>टीका - ८२३।२</summary>
+
+पूमिप्पिराट्टियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।३</summary>
+
+तेवि
+</details>
+
+
+
+<details><summary>टीका - ८२३।३</summary>
+
+तेविमारावर्;
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।४</summary>
+
+अऩ्ऱियुम्
+</details>
+
+
+
+<details><summary>टीका - ८२३।४</summary>
+
+मेलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।५</summary>
+
+पोदु तङ्गुनाऩ् मुगऩ्
+</details>
+
+
+
+<details><summary>टीका - ८२३।५</summary>
+
+पूविले पॊरुन्दिरुप्पवऩाऩ पिरमऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।६</summary>
+
+अवऩ् मगऩ्
+</details>
+
+
+
+<details><summary>टीका - ८२३।६</summary>
+
+पेरऩायिरा निऩ्ऱाऩ्;
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।७</summary>
+
+ऎऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८२३।७</summary>
+
+इव्वण्णमाग
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।८</summary>
+
+वेदम्नूल्
+</details>
+
+
+
+<details><summary>टीका - ८२३।८</summary>
+
+वेद सास्त्रम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।९</summary>
+
+ओदुगिऩ्ऱदु
+</details>
+
+
+
+<details><summary>टीका - ८२३।९</summary>
+
+उरैप्पदाऩदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।१०</summary>
+
+उण्मै
+</details>
+
+
+
+<details><summary>टीका - ८२३।१०</summary>
+
+सत्यम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।११</summary>
+
+मगऩ्
+</details>
+
+
+
+<details><summary>टीका - ८२३।११</summary>
+
+पुत्तिरऩायिरा निऩ्ऱाऩ्;
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।१२</summary>
+
+सॊलिल्
+</details>
+
+
+
+<details><summary>टीका - ८२३।१२</summary>
+
+मेलुम् सॊल्लप्पुक्काल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।१३</summary>
+
+मादु तङ्गु कूऱऩ्
+</details>
+
+
+
+<details><summary>टीका - ८२३।१३</summary>
+
+ऒरु पक्कत्तिले पार्वदि तङ्गप् पॆऱ्‌ऱवऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।१४</summary>
+
+एऱु अदु ऊर्दि
+</details>
+
+
+
+<details><summary>टीका - ८२३।१४</summary>
+
+ऎरुदै वाहऩमाग वुडैयऩाऩ सिवऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।१५</summary>
+
+मऱ्‌ऱु
+</details>
+
+
+
+<details><summary>टीका - ८२३।१५</summary>
+
+इङ्ङऩऩ्ऱिक्के
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।१६</summary>
+
+अल्लदु
+</details>
+
+
+
+<details><summary>टीका - ८२३।१६</summary>
+
+इप्पडियल्लाद वेऱॊरु अर्त्तत्तै (सिवबारम्यत्तै)
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।१७</summary>
+
+उरैक्किल्
+</details>
+
+
+
+<details><summary>टीका - ८२३।१७</summary>
+
+(सैव आगमादिगळैक् कॊण्डु) सॊल्लप्पार्क्किल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२३।१८</summary>
+
+इल्लै
+</details>
+
+
+
+<details><summary>टीका - ८२३।१८</summary>
+
+अदु असत्यम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२४।१</summary>
+
+मुऩ् ओर् नाळ्
+</details>
+
+
+
+<details><summary>टीका - ८२४।१</summary>
+
+मुऩ्ऩॊरु कालत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८२४।२</summary>
+
+मरम् पॊद
+</details>
+
+
+
+<details><summary>टीका - ८२४।२</summary>
+
+सम्बसालव्रुहङ्गळ् तुळैबडुम्बडियाग
+</details>
+
+
+
+<details open><summary>मूलम् - ८२४।३</summary>
+
+सरम् तुरन्दु
+</details>
+
+
+
+<details><summary>टीका - ८२४।३</summary>
+
+अम्बैप् पिरयोगित्तु (अदऱ्‌कुप् पिऱगु)
+</details>
+
+
+
+<details open><summary>मूलम् - ८२४।४</summary>
+
+वालि वीऴ
+</details>
+
+
+
+<details><summary>टीका - ८२४।४</summary>
+
+वालियाऩवऩ् मुडियुम्बडियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२४।५</summary>
+
+उरम् पॊद
+</details>
+
+
+
+<details><summary>टीका - ८२४।५</summary>
+
+अवऩदु मार्बिले पॊत्तुम् पडियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२४।६</summary>
+
+सरम् तुरन्द
+</details>
+
+
+
+<details><summary>टीका - ८२४।६</summary>
+
+पाणत्तैप् पिरयोगित्त
+</details>
+
+
+
+<details open><summary>मूलम् - ८२४।७</summary>
+
+उम्बर् आळि ऎम् पिराऩ्
+</details>
+
+
+
+<details><summary>टीका - ८२४।७</summary>
+
+तेवादि तेवऩाऩ ऎम्बॆरुमाऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२४।८</summary>
+
+वरम् कुऱिप्पिल्
+</details>
+
+
+
+<details><summary>टीका - ८२४।८</summary>
+
+(तऩ्ऩुडैय) सिऱन्द तिरुवुळ्ळत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८२४।९</summary>
+
+वैत्तवर्क्कु अलादु
+</details>
+
+
+
+<details><summary>टीका - ८२४।९</summary>
+
+यारै विषयीगरिक्किऱाऩो अवर्गट्कुत् तविर;
+</details>
+
+
+
+<details open><summary>मूलम् - ८२४।१०</summary>
+
+वाऩम् आळिऩुम्
+</details>
+
+
+
+<details><summary>टीका - ८२४।१०</summary>
+
+मेलुलगङ्गट्कु अदिबदिगळायिरुन्दालुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२४।११</summary>
+
+यार्क्कुम्
+</details>
+
+
+
+<details><summary>टीका - ८२४।११</summary>
+
+मऱ्‌ऱवर्गट्कुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२४।१२</summary>
+
+निरम्बु नीडु पोगम्
+</details>
+
+
+
+<details><summary>टीका - ८२४।१२</summary>
+
+साच्वदमाय्प् पर्बूर्णमाऩ कैङ्गर्यसुगम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२४।१३</summary>
+
+ऎत्तिऱत्तुम्
+</details>
+
+
+
+<details><summary>टीका - ८२४।१३</summary>
+
+ऎव्वऴियालुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२४।१४</summary>
+
+इल्लै
+</details>
+
+
+
+<details><summary>टीका - ८२४।१४</summary>
+
+किडैक्कमाट्टादु।
+</details>
+
+
+
+<details open><summary>मूलम् - ८२५।१</summary>
+
+वामणऩ्
+</details>
+
+
+
+<details><summary>टीका - ८२५।१</summary>
+
+उलगळन्द पॆरुयामऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८२५।२</summary>
+
+अडि इणै
+</details>
+
+
+
+<details><summary>टीका - ८२५।२</summary>
+
+अडियिणैगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२५।३</summary>
+
+अऱिन्दु अऱिन्दु
+</details>
+
+
+
+<details><summary>टीका - ८२५।३</summary>
+
+उबायमॆऩ्ऱुम् उबेयमॆऩ्ऱुम् तॆरिन्दु कॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२५।४</summary>
+
+वणङ्गिऩाल्
+</details>
+
+
+
+<details><summary>टीका - ८२५।४</summary>
+
+नमस्करित्ताल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२५।५</summary>
+
+सॆऱिन्दु ऎऴुन्द ञाऩमॊऴि
+</details>
+
+
+
+<details><summary>टीका - ८२५।५</summary>
+
+परम च्लाक्यमागक् किळर्न्द ञाऩमुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२५।६</summary>
+
+सॆल्वमुम्
+</details>
+
+
+
+<details><summary>टीका - ८२५।६</summary>
+
+पक्तियागिऱ सॆल्वमुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२५।७</summary>
+
+सॆऱित्तिडुम्
+</details>
+
+
+
+<details><summary>टीका - ८२५।७</summary>
+
+परिबूर्णमाग विळैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२५।८</summary>
+
+मऱिन्दु ऎऴुन्द
+</details>
+
+
+
+<details><summary>टीका - ८२५।८</summary>
+
+परम्बिक्किळर्न्द;
+</details>
+
+
+
+<details open><summary>मूलम् - ८२५।९</summary>
+
+तॆऩ् तिरैयुळ्
+</details>
+
+
+
+<details><summary>टीका - ८२५।९</summary>
+
+तॆळिन्द अलैगळैयुडैय तिरुप्पाऱ्‌कडलिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८२५।१०</summary>
+
+मऩ्ऩु
+</details>
+
+
+
+<details><summary>टीका - ८२५।१०</summary>
+
+निदय्वासम् सॆय्दरुळ्गिऩ्ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८२५।११</summary>
+
+मालै
+</details>
+
+
+
+<details><summary>टीका - ८२५।११</summary>
+
+सर्वेच्वरऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२५।१२</summary>
+
+वाऴ्दिऩाल्
+</details>
+
+
+
+<details><summary>टीका - ८२५।१२</summary>
+
+सङ्गीरत्तगम् पण्णिऩाल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२५।१३</summary>
+
+ऎऴुन्द तीविऩैगळ्
+</details>
+
+
+
+<details><summary>टीका - ८२५।१३</summary>
+
+आत्मस्वरूबत्तिले वळर्न्दु किडक्किऱ कॊडु विऩैगळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२५।१४</summary>
+
+पऱ्‌ऱु अऱुदल्
+</details>
+
+
+
+<details><summary>टीका - ८२५।१४</summary>
+
+वासऩैयुम् मिगादबडि नसित्तुप्पोदल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२५।१५</summary>
+
+पऩ्मैये
+</details>
+
+
+
+<details><summary>टीका - ८२५।१५</summary>
+
+इयऱ्‌कैयेयाम् (अनायाऩमाग नसिक्कुमॆऩ्गै।)
+</details>
+
+
+
+<details open><summary>मूलम् - ८२६।१</summary>
+
+ऒऩ्ऱि निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८२६।१</summary>
+
+मऩम् सलियामल् निलैत्तु निऩ्ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८२६।२</summary>
+
+नल् तवम्
+</details>
+
+
+
+<details><summary>टीका - ८२६।२</summary>
+
+विलक्षणमाऩ तबस्सै (अदावदु  कर्मयोगत्तै)
+</details>
+
+
+
+<details open><summary>मूलम् - ८२६।३</summary>
+
+ऊऴि ऊऴिदोऱु ऎलाम् सॆय्दु
+</details>
+
+
+
+<details><summary>टीका - ८२६।३</summary>
+
+पलबल जन्मबरम्बरैगळिले अनुष्टित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२६।४</summary>
+
+अवऩ् कुणङ्गळ्
+</details>
+
+
+
+<details><summary>टीका - ८२६।४</summary>
+
+अप्पॆरुमाऩुडैय तिरुक्कुणङ्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२६।५</summary>
+
+निऩ्ऱु निऩ्ऱु उळ्ळि
+</details>
+
+
+
+<details><summary>टीका - ८२६।५</summary>
+
+सात्मिक्क सात्मिक्क अनुसन्दित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२६।६</summary>
+
+उळ्ळम् तूयर् आय्
+</details>
+
+
+
+<details><summary>टीका - ८२६।६</summary>
+
+कल्मषमऱ्‌ऱ नॆञ्जै युडैयराय्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२६।७</summary>
+
+सॆऩ्ऱु सॆऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८२६।७</summary>
+
+मेल्मेल् पडिगळिले एऱि (च्रवणम्  मननम् निदित्यासदम् ऎऩ्गिऱ पर्वङ्गळिऱ्‌ सॆऩ्ऱु)
+</details>
+
+
+
+<details open><summary>मूलम् - ८२६।८</summary>
+
+उम्बर् उम्बर् उम्बर् आय् अऩ्ऱि तेवदेवर्
+</details>
+
+
+
+<details><summary>टीका - ८२६।८</summary>
+
+परबक्ति युक्तराय् परज्ञान युत्तराय् परम पक्तियुन्दराय् इप्पडि यॆल्ला माऩाल्लदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२६।९</summary>
+
+तेवदेवर्
+</details>
+
+
+
+<details><summary>टीका - ८२६।९</summary>
+
+(मऱ्‌ऱबडि) तेवदेवरायिरुन्दालुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२६।१०</summary>
+
+ऎङ्गळ् सॆम् कण् मालै
+</details>
+
+
+
+<details><summary>टीका - ८२६।१०</summary>
+
+सॆन्दामरैक् कण्णाले ऎम्मै विषयीगरित्तरुळुम् पॆरुमाऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२६।११</summary>
+
+यावर् काणवल्लर्
+</details>
+
+
+
+<details><summary>टीका - ८२६।११</summary>
+
+यार् काणक्कूडियवर्गळ्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८२७।१</summary>
+
+पुल्
+</details>
+
+
+
+<details><summary>टीका - ८२७।१</summary>
+
+क्षुत्रङ्गळाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८२७।२</summary>
+
+पुलऩ् वऴि
+</details>
+
+
+
+<details><summary>टीका - ८२७।२</summary>
+
+सप्तादिविषयङ्गळिले इन्दिरियङ्गळ् ओडुवदऱ्‌कुरिय वऴियै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२७।३</summary>
+
+अडैत्तु
+</details>
+
+
+
+<details><summary>टीका - ८२७।३</summary>
+
+अडैत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२७।४</summary>
+
+अरक्कु इलच्चिऩै सॆय्दु
+</details>
+
+
+
+<details><summary>टीका - ८२७।४</summary>
+
+(विषयमार्न्द त्वारत्तिले) अरक्कु मुत्तिरैयिट्टु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२७।५</summary>
+
+नऩ् पुलऩ् वऴि तिऱन्दु
+</details>
+
+
+
+<details><summary>टीका - ८२७।५</summary>
+
+सत्विषय मार्क्कत्तैत् तिऱन्दु विट्टु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२७।६</summary>
+
+ञाऩम्
+</details>
+
+
+
+<details><summary>टीका - ८२७।६</summary>
+
+ञाऩमागिय
+</details>
+
+
+
+<details open><summary>मूलम् - ८२७।७</summary>
+
+नल्सुडर्
+</details>
+
+
+
+<details><summary>टीका - ८२७।७</summary>
+
+विलक्षमाऩ प्रबैयै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२७।८</summary>
+
+कॊळी इ
+</details>
+
+
+
+<details><summary>टीका - ८२७।८</summary>
+
+कॊळुत्ति (ञाऩत्तै नऩ्गु पिरगासिक्कच् चॆय्दु)
+</details>
+
+
+
+<details open><summary>मूलम् - ८२७।९</summary>
+
+ऎऩ्बु इल्
+</details>
+
+
+
+<details><summary>टीका - ८२७।९</summary>
+
+ऎलुम्बु वीडागिय सरीरम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२७।१०</summary>
+
+ऎऩ्गि
+</details>
+
+
+
+<details><summary>टीका - ८२७।१०</summary>
+
+सिदिलमागि
+</details>
+
+
+
+<details open><summary>मूलम् - ८२७।११</summary>
+
+नॆञ्जु उरुगि
+</details>
+
+
+
+<details><summary>टीका - ८२७।११</summary>
+
+नॆञ्जु उरुगि (इप्पडिप्पट्ट निलैमैयिल्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८२७।१२</summary>
+
+उळ् कऩिन्दु
+</details>
+
+
+
+<details><summary>टीका - ८२७।१२</summary>
+
+नॆञ्जु उरुगि (इप्पडिप्पट्ट निलैमैयिल्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८२७।१३</summary>
+
+उऩ् कऩिन्दु ऎऴुन्ददु ओर् अऩ्बिल् अऩ्ऱि
+</details>
+
+
+
+<details><summary>टीका - ८२७।१३</summary>
+
+परिबक्कुवमाय्क् किळर्न्द यिलक्षणमाऩदॊरु प्रेम मुण्डाऩलल्लदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२७।१४</summary>
+
+आऴियाऩै
+</details>
+
+
+
+<details><summary>टीका - ८२७।१४</summary>
+
+तिरुवाऴियैक् कैयिलेन्दिऩ पॆरुमाऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२७।१५</summary>
+
+यावर् काणवल्लर्
+</details>
+
+
+
+<details><summary>टीका - ८२७।१५</summary>
+
+यार् काणक्कूडियवर्गळ्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८२८।१</summary>
+
+ऎट्टुम् ऎट्टुम् ऎट्टुम् आय्
+</details>
+
+
+
+<details><summary>टीका - ८२८।१</summary>
+
+इरुबत्तिऩाऩ्गु तत्तुवङ्गळुक्कु निर्वाहगऩायुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२८।२</summary>
+
+ओर् एऴुम् एऴुम् आय्
+</details>
+
+
+
+<details><summary>टीका - ८२८।२</summary>
+
+सप्तत्वीबङ्गळुक्कुम् स्पद कुलबर्वदङ्गळुक्कुम् स्पद सागरङ्गळुक्कुम् निर्वाहगऩावुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२८।३</summary>
+
+ऎट्टुम् मूऩ्ऱुम् ऒऩ्ऱुम् आगि निऩ्ऱ
+</details>
+
+
+
+<details><summary>टीका - ८२८।३</summary>
+
+त्वारदसादित्यर्गळुक्कु अन्द रात्मावायुमिरुक्किऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८२८।४</summary>
+
+आदि तेवऩै
+</details>
+
+
+
+<details><summary>टीका - ८२८।४</summary>
+
+परमबुरुषऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२८।५</summary>
+
+ऎट्टियैप् पोदमोडु इरञ्जि निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८२८।५</summary>
+
+साष्टाङ्गप्रणामम् पण्णि
+</details>
+
+
+
+<details open><summary>मूलम् - ८२८।६</summary>
+
+अवळ् पॆयर् ऎट्टु ऎऴुत्तुम्
+</details>
+
+
+
+<details><summary>टीका - ८२८।६</summary>
+
+अव्वॆम्बॆरुमाऩुक्कु वासगमाऩ तिरुवष्टाक्षरमन्द्रत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२८।७</summary>
+
+ओदुवार्गळ्
+</details>
+
+
+
+<details><summary>टीका - ८२८।७</summary>
+
+अनुसन्दिक्कुमवर्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२८।८</summary>
+
+वाऩम् आऩ वल्लर्
+</details>
+
+
+
+<details><summary>टीका - ८२८।८</summary>
+
+परमबदत्तै आळवल्लवर्गळावर्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२९।१</summary>
+
+नीर्
+</details>
+
+
+
+<details><summary>टीका - ८२९।१</summary>
+
+तिरुप्पाऱ्‌कडलिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८२९।२</summary>
+
+अरा अणै
+</details>
+
+
+
+<details><summary>टीका - ८२९।२</summary>
+
+तिरुवऩन्दाऴ्वाऩागिऱ पडुक्कैयिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८२९।३</summary>
+
+किडन्द
+</details>
+
+
+
+<details><summary>टीका - ८२९।३</summary>
+
+कण् वळर्न्दरुळ्गिऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८२९।४</summary>
+
+निऩ्मलऩ्
+</details>
+
+
+
+<details><summary>टीका - ८२९।४</summary>
+
+अगिल हेयप्रत्यनीगऩाऩ ऎम्बॆरुमाऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८२९।५</summary>
+
+नलम् कऴल्
+</details>
+
+
+
+<details><summary>टीका - ८२९।५</summary>
+
+नऩ्मैबॊरुन्दिय तिरुवडिगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२९।६</summary>
+
+आर्वमोडु
+</details>
+
+
+
+<details><summary>टीका - ८२९।६</summary>
+
+अऩ्बुडऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२९।७</summary>
+
+इऱैञ्जि निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८२९।७</summary>
+
+अच्रयित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२९।८</summary>
+
+सोर्वु इल्लाद कादलाल्
+</details>
+
+
+
+<details><summary>टीका - ८२९।८</summary>
+
+विषयान्दरप्पऱ्‌ऱिऩाल् तळराद कादलोडु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२९।९</summary>
+
+तुडक्कु अदु मऩत्तर् आय्
+</details>
+
+
+
+<details><summary>टीका - ८२९।९</summary>
+
+विच्चेदमिल्लामल् एगान्रमाऩ मऩमुडैयवर्गळाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२९।१०</summary>
+
+अवळ् पॆयर् ऎट्टु ऎऴुत्तुम्
+</details>
+
+
+
+<details><summary>टीका - ८२९।१०</summary>
+
+अव्वॆम्बॆरुमाऩुक्कु वासगमाऩ तिरुवष्टाक्षरमन्द्रत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८२९।११</summary>
+
+वारम् आग
+</details>
+
+
+
+<details><summary>टीका - ८२९।११</summary>
+
+इदुवे नमक्कुत् तञ्जम् ऎऩ्गिऱ अत्यवसायत्तोडु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२९।१२</summary>
+
+ओदुवार्गळ्
+</details>
+
+
+
+<details><summary>टीका - ८२९।१२</summary>
+
+अनुसन्दिक्कुमवर्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८२९।१३</summary>
+
+वाऩम् आऩ
+</details>
+
+
+
+<details><summary>टीका - ८२९।१३</summary>
+
+परमबदत्तै आळ्वदऱ्‌कु
+</details>
+
+
+
+<details open><summary>मूलम् - ८२९।१४</summary>
+
+वल्लर्
+</details>
+
+
+
+<details><summary>टीका - ८२९।१४</summary>
+
+समर्त्तरावर्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८३०।१</summary>
+
+पत्तिऩोडु पत्तुम् आय्
+</details>
+
+
+
+<details><summary>टीका - ८३०।१</summary>
+
+पत्तु तिक्कुगळुक्कुम् पत्तु तिक्पालगर्गळुक्कुम् अन्दर्या मियाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३०।२</summary>
+
+ओर् एऴिऩोडु ओर् ऒऩ्बदु आय्
+</details>
+
+
+
+<details><summary>टीका - ८३०।२</summary>
+
+सप्तस्वरङ्गळॆऩ्ऩ नवनाट्य रसङ्गळॆऩ्ऩ इवऱ्‌ऱुक्कुप् प्रवर्त्तगऩाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३०।३</summary>
+
+पत्तु नूल् तिसै कण् निऩ्ऱ
+</details>
+
+
+
+<details><summary>टीका - ८३०।३</summary>
+
+पदिऩाऩ्गु वगैप्पट्ट
+</details>
+
+
+
+<details open><summary>मूलम् - ८३०।४</summary>
+
+नाडु
+</details>
+
+
+
+<details><summary>टीका - ८३०।४</summary>
+
+लोगङ्गळिलुळ्ळवर्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३०।५</summary>
+
+पॆऱ्‌ऱ
+</details>
+
+
+
+<details><summary>टीका - ८३०।५</summary>
+
+पॆऱक्कूडिय
+</details>
+
+
+
+<details open><summary>मूलम् - ८३०।६</summary>
+
+नऩ्मै आय्
+</details>
+
+
+
+<details><summary>टीका - ८३०।६</summary>
+
+नऩ्मैक्काग
+</details>
+
+
+
+<details open><summary>मूलम् - ८३०।७</summary>
+
+पत्तिऩ् आय तोऱ्‌ऱमोडु
+</details>
+
+
+
+<details><summary>टीका - ८३०।७</summary>
+
+तसावदारङ्गळोडु (आविर्प्पवित्तु)
+</details>
+
+
+
+<details open><summary>मूलम् - ८३०।८</summary>
+
+आऱ्‌ऱल्मिक्क
+</details>
+
+
+
+<details><summary>टीका - ८३०।८</summary>
+
+पॊऱुमैयिऩाले पूर्णऩाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८३०।९</summary>
+
+ओर् आदि पाल्
+</details>
+
+
+
+<details><summary>टीका - ८३०।९</summary>
+
+ऎम्बॆरुमाऩ् विषयत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८३०।१०</summary>
+
+पक्तर् आमवर्क्कु अलादु
+</details>
+
+
+
+<details><summary>टीका - ८३०।१०</summary>
+
+क्तियुडैयवरायिरुप्पवर्गळुक्कऩ्ऱि (मऱ्‌ऱैयोर्क्कु)
+</details>
+
+
+
+<details open><summary>मूलम् - ८३०।११</summary>
+
+मूर्त्ति
+</details>
+
+
+
+<details><summary>टीका - ८३०।११</summary>
+
+मोक्षबुरुषार्त्तम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३०।१२</summary>
+
+मुऱ्‌ऱल् आगुमे
+</details>
+
+
+
+<details><summary>टीका - ८३०।१२</summary>
+
+परिबक्वमागुमो?
+</details>
+
+
+
+<details open><summary>मूलम् - ८३१।१</summary>
+
+वासि आगि
+</details>
+
+
+
+<details><summary>टीका - ८३१।१</summary>
+
+(कोवेऱु) कऴुदैयिऩ् वडिवङ्गॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३१।२</summary>
+
+नेसम् इऩ्ऱि वन्दु
+</details>
+
+
+
+<details><summary>टीका - ८३१।२</summary>
+
+पक्तियऱ्‌ऱवऩाय् वन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३१।३</summary>
+
+ऎदिन्द
+</details>
+
+
+
+<details><summary>टीका - ८३१।३</summary>
+
+ऎदिरिट्ट
+</details>
+
+
+
+<details open><summary>मूलम् - ८३१।४</summary>
+
+तेऩुगऩ्
+</details>
+
+
+
+<details><summary>टीका - ८३१।४</summary>
+
+तेनुगासुरऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ८३१।५</summary>
+
+नासम् आगि नाऩ् उलप्प
+</details>
+
+
+
+<details><summary>टीका - ८३१।५</summary>
+
+आयुळ् सुमाण्डु अऴिन्दु पोम्बडियाग
+</details>
+
+
+
+<details open><summary>मूलम् - ८३१।६</summary>
+
+मेल् निमिर्न्द तोळिऩ्
+</details>
+
+
+
+<details><summary>टीका - ८३१।६</summary>
+
+उयर्त्तूक्कप्पट्ट तोळाले
+</details>
+
+
+
+<details open><summary>मूलम् - ८३१।७</summary>
+
+नऩ्मै सेर् पणङ्गऩिक्कु वीसि
+</details>
+
+
+
+<details><summary>टीका - ८३१।७</summary>
+
+अऴगिय पणम्बऴङ्गळिऩ् मेले तूक्कियॆऱिन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३१।८</summary>
+
+इल्लै आक्किऩाय् कऴऱ्‌कु
+</details>
+
+
+
+<details><summary>टीका - ८३१।८</summary>
+
+(अव्वसुरऩै) ऒऴित्तरुळिऩ तेवरीरुडैय तिरुवडिगळुक्कु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३१।९</summary>
+
+आसै आमवर्क्कु अलाल्
+</details>
+
+
+
+<details><summary>टीका - ८३१।९</summary>
+
+नेसिक्कुवमर्गळुक्कऩ्ऱि मऱ्‌ऱैयोर्क्कु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३१।१०</summary>
+
+अमरर् आगल्
+</details>
+
+
+
+<details><summary>टीका - ८३१।१०</summary>
+
+नित्यसूरिगळोडु ऒप्पडैत्तल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३१।११</summary>
+
+आगुमे
+</details>
+
+
+
+<details><summary>टीका - ८३१।११</summary>
+
+कूडुमो?
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।१</summary>
+
+कडैन्द
+</details>
+
+
+
+<details><summary>टीका - ८३२।१</summary>
+
+(कूर्मावदारत्तिले) कडैयप्पट्ट
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।२</summary>
+
+पाल् कडल्
+</details>
+
+
+
+<details><summary>टीका - ८३२।२</summary>
+
+तिरुप्पाऱ्‌कडलिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।३</summary>
+
+किडन्दु
+</details>
+
+
+
+<details><summary>टीका - ८३२।३</summary>
+
+कण्वळर्न्दरुळियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।४</summary>
+
+कालनेमियै
+</details>
+
+
+
+<details><summary>टीका - ८३२।४</summary>
+
+कालनेमियॆऩ्ऩुमसुरऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।५</summary>
+
+कडिन्दु
+</details>
+
+
+
+<details><summary>टीका - ८३२।५</summary>
+
+ऒऴित्तरुळियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।६</summary>
+
+उडैन्द
+</details>
+
+
+
+<details><summary>टीका - ८३२।६</summary>
+
+नडुङ्गिक् किडन्द
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।७</summary>
+
+वालि तन्दऩुक्कु
+</details>
+
+
+
+<details><summary>टीका - ८३२।७</summary>
+
+वालियिऩ् तम्बियाऩ सुक्रीवऩुक्कु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।८</summary>
+
+उदव
+</details>
+
+
+
+<details><summary>टीका - ८३२।८</summary>
+
+उबगारम् सॆय्य
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।९</summary>
+
+इरामऩ् आय् वन्दु
+</details>
+
+
+
+<details><summary>टीका - ८३२।९</summary>
+
+इरामबिराऩाय् वन्दु तोऩ्ऱि
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।१०</summary>
+
+मिडत्तै
+</details>
+
+
+
+<details><summary>टीका - ८३२।१०</summary>
+
+ऒऩ्ऱॊडॊऩ्ऱागप् पिणैन्दु किडन्द
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।११</summary>
+
+एऴ् मरङ्गळुम्
+</details>
+
+
+
+<details><summary>टीका - ८३२।११</summary>
+
+सप्तसाल व्रुक्षङ्गळैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।१२</summary>
+
+अडङ्ग
+</details>
+
+
+
+<details><summary>टीका - ८३२।१२</summary>
+
+एऴेऴागवुळ्ळ सप्तगुलबावदादिगळाऩ मऱ्‌ऱवऱ्‌ऱैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।१३</summary>
+
+ऎय्दु
+</details>
+
+
+
+<details><summary>टीका - ८३२।१३</summary>
+
+पाणत्ताले तुळैबडुत्ति
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।१४</summary>
+
+वेङ्गडम् अडैन्द
+</details>
+
+
+
+<details><summary>टीका - ८३२।१४</summary>
+
+तिरुवेऱ्‌कडमलैयिले ऎऴुन्दरुळियिरुप्पवाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।१५</summary>
+
+माल
+</details>
+
+
+
+<details><summary>टीका - ८३२।१५</summary>
+
+ऎम्बॆरुमाऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।१६</summary>
+
+पादमे
+</details>
+
+
+
+<details><summary>टीका - ८३२।१६</summary>
+
+तिरुवडिगळैये
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।१७</summary>
+
+नाळुम्
+</details>
+
+
+
+<details><summary>टीका - ८३२।१७</summary>
+
+नाळ्दोऱुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।१८</summary>
+
+अडैन्दु
+</details>
+
+
+
+<details><summary>टीका - ८३२।१८</summary>
+
+आच्रयित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३२।१९</summary>
+
+उय्म्मिऩ्
+</details>
+
+
+
+<details><summary>टीका - ८३२।१९</summary>
+
+उज्जिवियुङ्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३३।१</summary>
+
+ऎत्तिऱत्तुम् ऒत्तु निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८३३।१</summary>
+
+ऎन्द जादियिल् अवदरित्तालुम् सजादीयऩ् ऎऩ्ऱ कारणत्ताल् सेदना सेदनङ्गळोडु ऒत्तिरुक्कच् चॆय्देयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३३।२</summary>
+
+उयर्न्दु उयर्न्द पॆऱ्‌ऱियोय्
+</details>
+
+
+
+<details><summary>टीका - ८३३।२</summary>
+
+(कुणविसेषत्ताल्) मेऩ्मेलुमुयर्न्द प्रबावत्तैयुडैयोऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८३३।३</summary>
+
+मूत्तिऱत्तु मूरि नीर्
+</details>
+
+
+
+<details><summary>टीका - ८३३।३</summary>
+
+तिरुप्पाऱ्‌कडलिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८३३।४</summary>
+
+अरा अणै तुयिऩ्ऱ
+</details>
+
+
+
+<details><summary>टीका - ८३३।४</summary>
+
+सेषसयऩत्तिले तिरुक्कण् वळर्न्दरुळ्गिऩ्ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८३३।५</summary>
+
+निऩ्
+</details>
+
+
+
+<details><summary>टीका - ८३३।५</summary>
+
+तेवरीर् विषयत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८३३।६</summary>
+
+पत्तु उऱुत्त सिन्दैयोडु निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८३३।६</summary>
+
+पक्ति अऴुन्दिऩ नॆञ्जोडु कूडियिरुन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३३।७</summary>
+
+पासम् विट्टवर्क्कु ऎत्तिऱत्तुम् इऩ्बम्
+</details>
+
+
+
+<details><summary>टीका - ८३३।७</summary>
+
+विषयान्दरप् पऱ्‌ऱुक्कळै विट्टवर्गट्कु सर्वविद सुगमुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३३।८</summary>
+
+इङ्गुम्
+</details>
+
+
+
+<details><summary>टीका - ८३३।८</summary>
+
+इव्वुलगत्तिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३३।९</summary>
+
+अङ्गम्
+</details>
+
+
+
+<details><summary>टीका - ८३३।९</summary>
+
+अव्वुलगत्तिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३३।१०</summary>
+
+ऎङ्गुम्
+</details>
+
+
+
+<details><summary>टीका - ८३३।१०</summary>
+
+मऱ्‌ऱॆव्वुलगत्तिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३३।११</summary>
+
+आगुम्
+</details>
+
+
+
+<details><summary>टीका - ८३३।११</summary>
+
+ऎळिदाम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८३३।१२</summary>
+
+पाट्टु
+</details>
+
+
+
+<details><summary>टीका - ८३३।१२</summary>
+
+पिऩ्बिऱक्कवैत्तऩऩ् कॊल्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८३४।१</summary>
+
+मट्टु उणवु
+</details>
+
+
+
+<details><summary>टीका - ८३४।१</summary>
+
+तेऩ् नित्यायिरुक्कबॆऱ्‌ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८३४।२</summary>
+
+तण्
+</details>
+
+
+
+<details><summary>टीका - ८३४।२</summary>
+
+कुळिर्न्द
+</details>
+
+
+
+<details open><summary>मूलम् - ८३४।३</summary>
+
+तुऴाय्
+</details>
+
+
+
+<details><summary>टीका - ८३४।३</summary>
+
+तिरुत्तुऴायिऩाल् तॊडुक्कप्पट्ट
+</details>
+
+
+
+<details open><summary>मूलम् - ८३४।४</summary>
+
+अलङ्गलाय्
+</details>
+
+
+
+<details><summary>टीका - ८३४।४</summary>
+
+तिरुमालैयै अणिन्दुळ्ळवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८३४।५</summary>
+
+पुलऩ् कऴल् विट्टु
+</details>
+
+
+
+<details><summary>टीका - ८३४।५</summary>
+
+(उऩ्ऩुडैय) विलक्षणमाऩ तिरुवडिगळै (इन्निलत्तिलेये अनुबविप्पदै) विट्टु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३४।६</summary>
+
+विण्णिल् एऱि
+</details>
+
+
+
+<details><summary>टीका - ८३४।६</summary>
+
+परमबदत्तिऱ्‌ सॆऩ्ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३४।७</summary>
+
+वीऴ्वु इलाद पोगम् कण्णिलुम्
+</details>
+
+
+
+<details><summary>टीका - ८३४।७</summary>
+
+अऴिविल्लादॊरु पोगत्तै अडैयप्पॆऱ्‌ऱालुम्। (अदु किडक्कट्टुम्) (इन्निलत्तिल् इरुन्दुगॊण्डे)
+</details>
+
+
+
+<details open><summary>मूलम् - ८३४।८</summary>
+
+ऎट्टिऩोडु इरण्डु ऎऩुम् कयिऱ्‌ऱिऩाल्
+</details>
+
+
+
+<details><summary>टीका - ८३४।८</summary>
+
+पत्तु ऎऩ्गिऱ पक्तियागिऱ पासत्तिऩाले
+</details>
+
+
+
+<details open><summary>मूलम् - ८३४।९</summary>
+
+मऩम् तऩै
+</details>
+
+
+
+<details><summary>टीका - ८३४।९</summary>
+
+मनस्सै
+</details>
+
+
+
+<details open><summary>मूलम् - ८३४।१०</summary>
+
+कट्टि
+</details>
+
+
+
+<details><summary>टीका - ८३४।१०</summary>
+
+कट्टुप्पडुत्ति
+</details>
+
+
+
+<details open><summary>मूलम् - ८३४।११</summary>
+
+वीडु इलादु
+</details>
+
+
+
+<details><summary>टीका - ८३४।११</summary>
+
+विच्चेदमिल्लाबडि
+</details>
+
+
+
+<details open><summary>मूलम् - ८३४।१२</summary>
+
+वैत्त
+</details>
+
+
+
+<details><summary>टीका - ८३४।१२</summary>
+
+अमैक्कप्पट्ट
+</details>
+
+
+
+<details open><summary>मूलम् - ८३४।१३</summary>
+
+कादल्
+</details>
+
+
+
+<details><summary>टीका - ८३४।१३</summary>
+
+प्रेमत्तिऩालुण्डागक् कूडिय
+</details>
+
+
+
+<details open><summary>मूलम् - ८३४।१४</summary>
+
+इऩ्बम् आगुमे
+</details>
+
+
+
+<details><summary>टीका - ८३४।१४</summary>
+
+आनन्दत्तै ऒक्कुमो अप्परमबदानुबवम्!
+</details>
+
+
+
+<details open><summary>मूलम् - ८३५।१</summary>
+
+आऴियाऩ्
+</details>
+
+
+
+<details><summary>टीका - ८३५।१</summary>
+
+सक्रहस्तऩाऩ ऎम्बॆरुमाऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३५।२</summary>
+
+पिऩ् पिऱन्द वैत्तऩऩ् कॊल्
+</details>
+
+
+
+<details><summary>टीका - ८३५।२</summary>
+
+नाऩ् इऩ्ऩुम् सिल पिऱविगळ् पिऱक्कुम्बडियागत् तिरुवुळम् पऱ्‌ऱि यिरुक्किऱाऩो!
+</details>
+
+
+
+<details open><summary>मूलम् - ८३५।३</summary>
+
+अऩ्ऱि
+</details>
+
+
+
+<details><summary>टीका - ८३५।३</summary>
+
+अल्लदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३५।४</summary>
+
+तऩ् कऴऱ्‌कु
+</details>
+
+
+
+<details><summary>टीका - ८३५।४</summary>
+
+तऩ् तिरुवडिगळिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८३५।५</summary>
+
+निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८३५।५</summary>
+
+निलैत्तुनिऩ्ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३५।६</summary>
+
+अऩ्बु उऱैक्क वैत्तु
+</details>
+
+
+
+<details><summary>टीका - ८३५।६</summary>
+
+(ऎऩक्कु) अऩ्बु ऊर्जिदमाम्बडियाग सङ्गल्बित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३५।७</summary>
+
+अन्नाळ् अऱिन्दऩऩ् सॊल्
+</details>
+
+
+
+<details><summary>टीका - ८३५।७</summary>
+
+परमबदत्तिले सॆऩ्ऱु अनुबविक्कुमॊरु नाळैत्तिरुवुळ्ळम् पऱ्‌ऱियिरुक्किऱाऩो!
+</details>
+
+
+
+<details open><summary>मूलम् - ८३५।८</summary>
+
+तऩ् तिऱन्दु
+</details>
+
+
+
+<details><summary>टीका - ८३५।८</summary>
+
+तऩ् विषयत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८३५।९</summary>
+
+ओर् अऩ्बु इला
+</details>
+
+
+
+<details><summary>टीका - ८३५।९</summary>
+
+सिऱिदुम् अऩ्बु इल्लादवऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३५।१०</summary>
+
+अऱिवु इलाद
+</details>
+
+
+
+<details><summary>टीका - ८३५।१०</summary>
+
+विवेगमिल्लादवऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३५।११</summary>
+
+नायिऩेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८३५।११</summary>
+
+नीसऩुमागिय
+</details>
+
+
+
+<details open><summary>मूलम् - ८३५।१२</summary>
+
+ऎऩ् तिऱत्तिल्
+</details>
+
+
+
+<details><summary>टीका - ८३५।१२</summary>
+
+ऎऩ् विषयत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८३५।१३</summary>
+
+ऎम्बिराऩ्
+</details>
+
+
+
+<details><summary>टीका - ८३५।१३</summary>
+
+ऎम्बॆरुमाऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३५।१४</summary>
+
+कुऱिप्पिल् वैत्तदु
+</details>
+
+
+
+<details><summary>टीका - ८३५।१४</summary>
+
+तिरुवुळ्ळम्बऱ्‌ऱि विरुप्पदाऩदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३५।१५</summary>
+
+ऎऩ् सॊल्
+</details>
+
+
+
+<details><summary>टीका - ८३५।१५</summary>
+
+ऎदुवो (अऱियेऩ्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।१</summary>
+
+नञ्जु अरा अणै
+</details>
+
+
+
+<details><summary>टीका - ८३६।१</summary>
+
+(आच्रिद विरोदिगळ्मेल्) विषत्तै उमिऴ्गिऩ्ऱ तिरुवऩन्दाऴ्वाऩागिऱ सयऩत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।२</summary>
+
+किडन्द
+</details>
+
+
+
+<details><summary>टीका - ८३६।२</summary>
+
+तिरुक्कण् वळर्न्दरुळ्गिऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।३</summary>
+
+नाद
+</details>
+
+
+
+<details><summary>टीका - ८३६।३</summary>
+
+स्वेच्वरऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।४</summary>
+
+पाद पोदिऩिल्
+</details>
+
+
+
+<details><summary>टीका - ८३६।४</summary>
+
+(उऩ्ऩुडैय) तिरुवडित् तामरैगळिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।५</summary>
+
+वैत्त
+</details>
+
+
+
+<details><summary>टीका - ८३६।५</summary>
+
+(इप्पोदु) वैक्कप्पट्टुळ्ळ
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।६</summary>
+
+सिन्दै
+</details>
+
+
+
+<details><summary>टीका - ८३६।६</summary>
+
+मगस्सै
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।७</summary>
+
+वाङ्गुवित्तु
+</details>
+
+
+
+<details><summary>टीका - ८३६।७</summary>
+
+अदिल् निऩ्ऱुम् तिरुप्पि
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।८</summary>
+
+नीङ्गुविक्क
+</details>
+
+
+
+<details><summary>टीका - ८३६।८</summary>
+
+वेऱु विषयङ्गळिल् पोक्क
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।९</summary>
+
+नी
+</details>
+
+
+
+<details><summary>टीका - ८३६।९</summary>
+
+स्वदन्द्रऩाऩ नी
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।१०</summary>
+
+इऩम्
+</details>
+
+
+
+<details><summary>टीका - ८३६।१०</summary>
+
+इऩ्ऩमुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।११</summary>
+
+मॆय्त्तऩ्
+</details>
+
+
+
+<details><summary>टीका - ८३६।११</summary>
+
+मॆय्यागवे
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।१२</summary>
+
+वल्लै आदल्
+</details>
+
+
+
+<details><summary>टीका - ८३६।१२</summary>
+
+समर्त्तऩायिरुक्किऱाय् ऎऩ्बदै
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।१३</summary>
+
+अऱिन्दऩऩ्
+</details>
+
+
+
+<details><summary>टीका - ८३६।१३</summary>
+
+अऱिन्दिरुक्किऱेऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।१४</summary>
+
+मायऩे!
+</details>
+
+
+
+<details><summary>टीका - ८३६।१४</summary>
+
+आच्चरियसक्तियुक्तऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।१५</summary>
+
+ऎऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ८३६।१५</summary>
+
+अडियेऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।१६</summary>
+
+निऩ् मायमे उय्न्दु
+</details>
+
+
+
+<details><summary>टीका - ८३६।१६</summary>
+
+उऩ्ऩुडैय मायच्चॆयलैये कडत्ति
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।१७</summary>
+
+मयक्किऩिल्
+</details>
+
+
+
+<details><summary>टीका - ८३६।१७</summary>
+
+प्राक्रुद पासङ्गळिले (वैत्तु)
+</details>
+
+
+
+<details open><summary>मूलम् - ८३६।१८</summary>
+
+मयक्कल्
+</details>
+
+
+
+<details><summary>टीका - ८३६।१८</summary>
+
+मयक्कवेण्डा
+</details>
+
+
+
+<details open><summary>मूलम् - ८३७।१</summary>
+
+साडु नाडु पादऩे
+</details>
+
+
+
+<details><summary>टीका - ८३७।१</summary>
+
+सगडासुरऩै उदैत्तॊऴित्त तिरुवडियैयुडैयवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८३७।२</summary>
+
+सलम् कलन्द पॊय्गै वाय्
+</details>
+
+
+
+<details><summary>टीका - ८३७।२</summary>
+
+(विषमे अदिगमागि अत्तुडऩ् सिऱिदु) जलमुम् कलन्दिरुक्कप्पॆऱ्‌ऱ ऒरु मडुविले
+</details>
+
+
+
+<details open><summary>मूलम् - ८३७।३</summary>
+
+आडु अरविऩ्
+</details>
+
+
+
+<details><summary>टीका - ८३७।३</summary>
+
+(सॆरुक्किऩाल् पडमॆडुत्तु) आडिक्कॊण्डिरुन्द काळियनागत्तिऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८३७।४</summary>
+
+वऩ्बिडर्
+</details>
+
+
+
+<details><summary>टीका - ८३७।४</summary>
+
+वलियदाऩ पिडरियिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८३७।५</summary>
+
+नडम् पयिऩ्ऱ
+</details>
+
+
+
+<details><summary>टीका - ८३७।५</summary>
+
+नर्त्तऩम् सॆय्द
+</details>
+
+
+
+<details open><summary>मूलम् - ८३७।६</summary>
+
+नादऩे!
+</details>
+
+
+
+<details><summary>टीका - ८३७।६</summary>
+
+स्वामिये
+</details>
+
+
+
+<details open><summary>मूलम् - ८३७।७</summary>
+
+कोडु नीडु कैय
+</details>
+
+
+
+<details><summary>टीका - ८३७।७</summary>
+
+श्रीबाञ्जजन्यत्तिऩाल्  नित्रासङ्ग्कुदामऩ तिरुक्कैयैयुडैयवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८३७।८</summary>
+
+कण्णऩे
+</details>
+
+
+
+<details><summary>टीका - ८३७।८</summary>
+
+कण्णबिराऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८३७।९</summary>
+
+सॆय्य पादम्
+</details>
+
+
+
+<details><summary>टीका - ८३७।९</summary>
+
+(उऩदु) सॆन्दामरैबोऱ्‌ सिवन्द तिरुवडिगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८३७।१०</summary>
+
+नाळुम्
+</details>
+
+
+
+<details><summary>टीका - ८३७।१०</summary>
+
+नाळ्दोऱुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३७।११</summary>
+
+उऩ्ऩिऩाल्
+</details>
+
+
+
+<details><summary>टीका - ८३७।११</summary>
+
+अडियेऩ् तियाऩित्तुक् कॊण्डिरुक्कुम्बोदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३७।१२</summary>
+
+मॆय्
+</details>
+
+
+
+<details><summary>टीका - ८३७।१२</summary>
+
+मॆय्यागवे
+</details>
+
+
+
+<details open><summary>मूलम् - ८३७।१३</summary>
+
+वीडऩ् आग सॆयाद वण्णम् ऎऩ् कॊल्
+</details>
+
+
+
+<details><summary>टीका - ८३७।१३</summary>
+
+(अडियेऩै) मुत्तऩाक्काददु एऩो!
+</details>
+
+
+
+<details open><summary>मूलम् - ८३८।१</summary>
+
+नॆऱ्‌ऱिबॆऱ्‌ऱ कण्णऩ्
+</details>
+
+
+
+<details><summary>टीका - ८३८।१</summary>
+
+नॆऱ्‌ऱियिले कण्णैप् पॆऱ्‌ऱवऩाऩ सिवऩुम्:
+</details>
+
+
+
+<details open><summary>मूलम् - ८३८।२</summary>
+
+विण्णिऩ् नादऩ्
+</details>
+
+
+
+<details><summary>टीका - ८३८।२</summary>
+
+तेवेन्दिरऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३८।३</summary>
+
+पोदिऩ् मेल् नल् तवत्तु नादऩ्
+</details>
+
+
+
+<details><summary>टीका - ८३८।३</summary>
+
+तामरैप्पूविले पिऱन्द नल्ल तबासऩाऩ नाऩ्मुगक् कडवुळुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३८।४</summary>
+
+मऱ्‌ऱुम् उळ्ळ वाऩवर्
+</details>
+
+
+
+<details><summary>टीका - ८३८।४</summary>
+
+मऱ्‌ऱुमुण्डाऩ पल तेवदैगळुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३८।५</summary>
+
+कऱ्‌ऱ वॆऱ्‌ऱियाल्
+</details>
+
+
+
+<details><summary>टीका - ८३८।५</summary>
+
+ताङ्गळ् ताङ्गळ् अप्पयणित्तुळ्ळ मुऱैमैक् किणङ्ग
+</details>
+
+
+
+<details open><summary>मूलम् - ८३८।६</summary>
+
+वणङ्गुबाद!
+</details>
+
+
+
+<details><summary>टीका - ८३८।६</summary>
+
+वन्दु वणङ्गप्पॆऱ्‌ऱ तिरुवडिगळै युडैयवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८३८।७</summary>
+
+नाद!
+</details>
+
+
+
+<details><summary>टीका - ८३८।७</summary>
+
+नायगऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८३८।८</summary>
+
+वेद!
+</details>
+
+
+
+<details><summary>टीका - ८३८।८</summary>
+
+वेदप्रदिबात्यऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८३८।९</summary>
+
+उरैक्किल्
+</details>
+
+
+
+<details><summary>टीका - ८३८।९</summary>
+
+(ऎऩ् अत्यवसायत्तैच्) चॊल्लप्पुक्काल् (सॊल्लुगिऱेऩ् केळाय्।)
+</details>
+
+
+
+<details open><summary>मूलम् - ८३८।१०</summary>
+
+निऩ् पऱ्‌ऱु अलाल्
+</details>
+
+
+
+<details><summary>टीका - ८३८।१०</summary>
+
+उऩ्ऩैये आच्रयमागक् कॊण्डिरुप्पदु तविर
+</details>
+
+
+
+<details open><summary>मूलम् - ८३८।११</summary>
+
+मऱ्‌ऱदु ओर् पऱ्‌ऱु
+</details>
+
+
+
+<details><summary>टीका - ८३८।११</summary>
+
+वेऱॊर् आच्रयत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८३८।१२</summary>
+
+उऱ्‌ऱिलेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८३८।१२</summary>
+
+नाऩ् नॆञ्जालुम् स्पर्सिक्कविल्लै।
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।१</summary>
+
+वॆळ्ळै वेलै
+</details>
+
+
+
+<details><summary>टीका - ८३९।१</summary>
+
+वॆण्गडलागिय तिरुप्पाऱ्‌कडलिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।२</summary>
+
+वॆऱ्‌पु
+</details>
+
+
+
+<details><summary>टीका - ८३९।२</summary>
+
+मन्दरमलैयै
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।३</summary>
+
+नाट्टि
+</details>
+
+
+
+<details><summary>टीका - ८३९।३</summary>
+
+नट्टु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।४</summary>
+
+वेळ् ऎयिऱु अरर्
+</details>
+
+
+
+<details><summary>टीका - ८३९।४</summary>
+
+वॆळुत्त पऱ्‌कळैयुडैय वासुगि नागत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।५</summary>
+
+अळाय्
+</details>
+
+
+
+<details><summary>टीका - ८३९।५</summary>
+
+(कडैगयिऱागच्) चुऱ्‌ऱि
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।६</summary>
+
+अळ्ळल् आ
+</details>
+
+
+
+<details><summary>टीका - ८३९।६</summary>
+
+अलैगळ् सॆऱियुम्बडि
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।७</summary>
+
+कडैन्दअऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८३९।७</summary>
+
+(कडलैक्) कडैन्दरुळिऩ कालत्तिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।८</summary>
+
+अरुवरैक्कु
+</details>
+
+
+
+<details><summary>टीका - ८३९।८</summary>
+
+ताङ्ग मुडियाददाऩ अम्मलैक्कु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।९</summary>
+
+ओर् आमै नॆय्
+</details>
+
+
+
+<details><summary>टीका - ८३९।९</summary>
+
+(तारगमाऩ) ऒरु आमैयागि
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।१०</summary>
+
+वाऩवर्गळुक्कु
+</details>
+
+
+
+<details><summary>टीका - ८३९।१०</summary>
+
+तेवदैगळुक्कु
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।११</summary>
+
+उळ्ळ नोय्गळ् तीर् मरुन्दु
+</details>
+
+
+
+<details><summary>टीका - ८३९।११</summary>
+
+एऱ्‌पट्टिरुन्द नोय्गळैत् तीर्क्कवल्ल मरुन्दागिय अम्रुदत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।१२</summary>
+
+अळित्त
+</details>
+
+
+
+<details><summary>टीका - ८३९।१२</summary>
+
+(कडलिऱ्‌ कडैन्दॆडुत्तु) अरुळिऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।१३</summary>
+
+ऎम् वळ्ळलारै
+</details>
+
+
+
+<details><summary>टीका - ८३९।१३</summary>
+
+उदारऩाऩ ऎम्बॆरुमाऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।१४</summary>
+
+अऩ्ऱि
+</details>
+
+
+
+<details><summary>टीका - ८३९।१४</summary>
+
+यऩ्ऱि
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।१५</summary>
+
+मऱ्‌ऱु ओर् तॆय्वम्
+</details>
+
+
+
+<details><summary>टीका - ८३९।१५</summary>
+
+वेऱॊरु तेवदैयै
+</details>
+
+
+
+<details open><summary>मूलम् - ८३९।१६</summary>
+
+नाऩ् मदिप्पवऩे
+</details>
+
+
+
+<details><summary>टीका - ८३९।१६</summary>
+
+नाऩ् (ऒरुबॊरुळाग) मदिप्पऩो!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४०।१</summary>
+
+मुऩ्
+</details>
+
+
+
+<details><summary>टीका - ८४०।१</summary>
+
+मुऱ्‌कालत्तिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४०।२</summary>
+
+पार् मिगुन्द परम्
+</details>
+
+
+
+<details><summary>टीका - ८४०।२</summary>
+
+पूमियिले अदिमागवुण्डाऩ सुमैयागिय तुष्टवर्क्कत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८४०।३</summary>
+
+ऒऴिच्चुवाऩ्
+</details>
+
+
+
+<details><summary>टीका - ८४०।३</summary>
+
+ऒऴिप्पदऱ्‌काग
+</details>
+
+
+
+<details open><summary>मूलम् - ८४०।४</summary>
+
+अरुच्चुऩऩ्  तेर् मिगुत्तु
+</details>
+
+
+
+<details><summary>टीका - ८४०।४</summary>
+
+अर्जुऩऩुडैय तेरै नऩ्ऱाग नडत्ति
+</details>
+
+
+
+<details open><summary>मूलम् - ८४०।५</summary>
+
+मायम्
+</details>
+
+
+
+<details><summary>टीका - ८४०।५</summary>
+
+(पगलै इरवाक्कुगै मुदलाऩ) आच्चरियच् चॆयल्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८४०।६</summary>
+
+आक्कि निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८४०।६</summary>
+
+उण्डाक्कि
+</details>
+
+
+
+<details open><summary>मूलम् - ८४०।७</summary>
+
+कॊऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८४०।७</summary>
+
+(ऎदिरिगळैक्) कॊऩ्ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४०।८</summary>
+
+वॆळ्ळिसेर् मारदर्क्कु
+</details>
+
+
+
+<details><summary>टीका - ८४०।८</summary>
+
+ऐयम्बॆऱुवदाग निऩैत्तिरुन्द महारदर्गळाऩ तुर्योदनादिगळुक्कु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४०।९</summary>
+
+वाऩ् कॊडुत्तु
+</details>
+
+
+
+<details><summary>टीका - ८४०।९</summary>
+
+वीरस्वर्क्कत्तैक् कॊडुत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४०।१०</summary>
+
+वैयम्
+</details>
+
+
+
+<details><summary>टीका - ८४०।१०</summary>
+
+पूमण्डलत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८४०।११</summary>
+
+ऐवर् पालदु आम्
+</details>
+
+
+
+<details><summary>टीका - ८४०।११</summary>
+
+पञ्जबाण्डवर्गळुडैयदाग अक्कुवित्त
+</details>
+
+
+
+<details open><summary>मूलम् - ८४०।१२</summary>
+
+सीर् मिगुन्द
+</details>
+
+
+
+<details><summary>टीका - ८४०।१२</summary>
+
+पुगऴ् मिगुन्द
+</details>
+
+
+
+<details open><summary>मूलम् - ८४०।१३</summary>
+
+निऩ् अलाल्
+</details>
+
+
+
+<details><summary>टीका - ८४०।१३</summary>
+
+उऩ्ऩैत्तविर
+</details>
+
+
+
+<details open><summary>मूलम् - ८४०।१४</summary>
+
+ओर् तॆय्वम्
+</details>
+
+
+
+<details><summary>टीका - ८४०।१४</summary>
+
+मऱ्‌ऱॊरु तॆय्वत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८४०।१५</summary>
+
+नाऩ् मदिप्पऩे
+</details>
+
+
+
+<details><summary>टीका - ८४०।१५</summary>
+
+नाऩ् आदरिप्पेऩो!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४१।१</summary>
+
+पुऩिद
+</details>
+
+
+
+<details><summary>टीका - ८४१।१</summary>
+
+परिसुत्तमाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८४१।२</summary>
+
+ऎम् ईसऩे
+</details>
+
+
+
+<details><summary>टीका - ८४१।२</summary>
+
+ऎम्बॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४१।३</summary>
+
+कुलङ्गळ् आय ईर् इरण्डिल्
+</details>
+
+
+
+<details><summary>टीका - ८४१।३</summary>
+
+(प्राहङ्मणादि) नाऩ्गु वर्णङ्गळुक्कुळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४१।४</summary>
+
+ऒऩ्ऱिलुम्
+</details>
+
+
+
+<details><summary>टीका - ८४१।४</summary>
+
+ऒरु वर्णत्तिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४१।५</summary>
+
+पिऱन्दिलेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८४१।५</summary>
+
+नाऩ् पिऱक्कविल्लै
+</details>
+
+
+
+<details open><summary>मूलम् - ८४१।६</summary>
+
+कलङ्गळ् आय नल्गलैगळ् कालिलुम्
+</details>
+
+
+
+<details><summary>टीका - ८४१।६</summary>
+
+(सेदनर्क्कु) नऩ्मैयैक् काट्टुवदाऩ नल्ल नाऩ्गु वेदङ्गळिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४१।७</summary>
+
+नविऩ्ऱिलेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८४१।७</summary>
+
+पयिऱ्‌सि सॆय्यविल्लै;
+</details>
+
+
+
+<details open><summary>मूलम् - ८४१।८</summary>
+
+पुलऩ्गळ् ऐन्दुम्
+</details>
+
+
+
+<details><summary>टीका - ८४१।८</summary>
+
+पञ्जेन्दिरियङ्गळैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४१।९</summary>
+
+वॆऩ्ऱिलेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८४१।९</summary>
+
+जयिक्कविल्लै।
+</details>
+
+
+
+<details open><summary>मूलम् - ८४१।१०</summary>
+
+पॊऱियिलेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८४१।१०</summary>
+
+पच्तागि विषयङ्गळिल् अगप्पट्टिरुक्किऱेऩ्; (आऩबिऩ्बु)
+</details>
+
+
+
+<details open><summary>मूलम् - ८४१।११</summary>
+
+निऩ्
+</details>
+
+
+
+<details><summary>टीका - ८४१।११</summary>
+
+उऩ्ऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८४१।१२</summary>
+
+इलङ्गु पादम् अऩ्ऱि
+</details>
+
+
+
+<details><summary>टीका - ८४१।१२</summary>
+
+ऒळिमिक्क तिरुवडिगळैत् तविर
+</details>
+
+
+
+<details open><summary>मूलम् - ८४१।१३</summary>
+
+मऱ्‌ऱु ओर् पऱ्‌ऱु इलेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८४१।१३</summary>
+
+वेऱॊरु आच्रयत्तै युडैयेऩल्लेऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४२।१</summary>
+
+पण् उलावुम् मॆऩ्मॊऴि
+</details>
+
+
+
+<details><summary>टीका - ८४२।१</summary>
+
+(कुऱिञ्जि कान्दारम् कामरम् मुदलिय) रागङ्गळ् विळङ्गुगिऩ्ऱ इऩिय पेच्चै युडैयवळुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४२।२</summary>
+
+पडै तडम्गणाळ् पॊरुट्टु
+</details>
+
+
+
+<details><summary>टीका - ८४२।२</summary>
+
+वाळ् पोऩ्ऱु पॆरिय कण्गळैयुडैयवळुमाऩ पिराट्टिक्काग
+</details>
+
+
+
+<details open><summary>मूलम् - ८४२।३</summary>
+
+ऎण् इला अरक्करै
+</details>
+
+
+
+<details><summary>टीका - ८४२।३</summary>
+
+कणक्किलाद राक्षसरै
+</details>
+
+
+
+<details open><summary>मूलम् - ८४२।४</summary>
+
+नॆरुप्पिऩाल्
+</details>
+
+
+
+<details><summary>टीका - ८४२।४</summary>
+
+अम्बुगळिऩ् तीयिऩाल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४२।५</summary>
+
+नॆरुक्किऩाय्
+</details>
+
+
+
+<details><summary>टीका - ८४२।५</summary>
+
+तॊलैत्तरुळिऩवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४२।६</summary>
+
+कण् अलाल्
+</details>
+
+
+
+<details><summary>टीका - ८४२।६</summary>
+
+(ऎऩक्कु नी) निर्वाहगऩेयॊऴिय
+</details>
+
+
+
+<details open><summary>मूलम् - ८४२।७</summary>
+
+ओर् कण् इलेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८४२।७</summary>
+
+वेऱॊरु निर्वाहगऩे काणुडैयेऩल्लेऩ्;
+</details>
+
+
+
+<details open><summary>मूलम् - ८४२।८</summary>
+
+कलन्द सुऱ्‌ऱुम्मऱ्‌ऱु इलेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८४२।८</summary>
+
+नॆञ्जु पॊरुन्दिऩ उऱवुम् वेऱिल्लै;
+</details>
+
+
+
+<details open><summary>मूलम् - ८४२।९</summary>
+
+ऎण् इलाद माय!
+</details>
+
+
+
+<details><summary>टीका - ८४२।९</summary>
+
+अनन्दमाऩ आच्चरिय सक्तियैयुडैयवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४२।१०</summary>
+
+निऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ८४२।१०</summary>
+
+उऩ्ऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ८४२।११</summary>
+
+ऎऩ्ऱुम्
+</details>
+
+
+
+<details><summary>टीका - ८४२।११</summary>
+
+ऎक्कालत्तिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४२।१२</summary>
+
+ऎऩ्ऩुळ् नीक्कल्
+</details>
+
+
+
+<details><summary>टीका - ८४२।१२</summary>
+
+ऎऩ्ऩैविट्टुप् प्रिक्कवे कूडादु।
+</details>
+
+
+
+<details open><summary>मूलम् - ८४३।१</summary>
+
+वेलै नीर्
+</details>
+
+
+
+<details><summary>टीका - ८४३।१</summary>
+
+जलदत्तुवमागिय कडलै
+</details>
+
+
+
+<details open><summary>मूलम् - ८४३।२</summary>
+
+पडैत्तु
+</details>
+
+
+
+<details><summary>टीका - ८४३।२</summary>
+
+(मुदल्मुदलाग) स्रुष्टित्तुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४३।३</summary>
+
+अडैत्तु
+</details>
+
+
+
+<details><summary>टीका - ८४३।३</summary>
+
+(श्रीरामावदारत्तिले अक्कडलिल्) अणैगट्टियुम्;
+</details>
+
+
+
+<details open><summary>मूलम् - ८४३।४</summary>
+
+अदिल् किडन्दु
+</details>
+
+
+
+<details><summary>टीका - ८४३।४</summary>
+
+(तङ्गळ् तङ्गळ् आबत्तै मुऱैयिट्टुक् कॊळ्वार्क्कु मुगङ्गॊडुक्क) अक्कडलिल् पळ्ळिगॊण्डळियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४३।५</summary>
+
+मुऩ्
+</details>
+
+
+
+<details><summary>टीका - ८४३।५</summary>
+
+मुऩ्ऩॊरुगालत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८४३।६</summary>
+
+कनैडबुदु
+</details>
+
+
+
+<details><summary>टीका - ८४३।६</summary>
+
+(तेवदैगळुक्काग अदैक्) कडैन्दुम् (इप्पडियॆल्लाम् सॆय्ददु मल्लामल्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८४३।७</summary>
+
+एऴ्विडै कुलङ्गळ्
+</details>
+
+
+
+<details><summary>टीका - ८४३।७</summary>
+
+नानावर्णमाऩ एऴु रिषबङ्गळैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४३।८</summary>
+
+अडर्न्दु
+</details>
+
+
+
+<details><summary>टीका - ८४३।८</summary>
+
+कॊऴुप्पडक्कि
+</details>
+
+
+
+<details open><summary>मूलम् - ८४३।९</summary>
+
+वॆऩ्ऱिवेल् मण्मादरर्
+</details>
+
+
+
+<details><summary>टीका - ८४३।९</summary>
+
+जयसीलमाऩ वेल्बोऩ्ऱ कण्गगळैयुडैयळाऩ नप्पिऩ्ऩैप् पिराट्टियिऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८४३।१०</summary>
+
+कडि कलन्द
+</details>
+
+
+
+<details><summary>टीका - ८४३।१०</summary>
+
+परिमळम् मिक्क तिरुत्तोळोडे
+</details>
+
+
+
+<details open><summary>मूलम् - ८४३।११</summary>
+
+पुणर्न्द
+</details>
+
+
+
+<details><summary>टीका - ८४३।११</summary>
+
+सम्च्लेषित्त
+</details>
+
+
+
+<details open><summary>मूलम् - ८४३।१२</summary>
+
+कालि आय
+</details>
+
+
+
+<details><summary>टीका - ८४३।१२</summary>
+
+कोबालगिरुष्णऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४३।१३</summary>
+
+निऩ् तऩक्कु
+</details>
+
+
+
+<details><summary>टीका - ८४३।१३</summary>
+
+उऩ् पक्कलिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८४३।१४</summary>
+
+अडैक्कलम् पुगुन्द ऎऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ८४३।१४</summary>
+
+सरणम् पुगुन्द ऎऩ्ऩै नोक्कि
+</details>
+
+
+
+<details open><summary>मूलम् - ८४३।१५</summary>
+
+अञ्जल् ऎऩ्ऩ वेण्डुम्
+</details>
+
+
+
+<details><summary>टीका - ८४३।१५</summary>
+
+“पयप्पडादे” ऎऩ्ऱॊरु वार्त्तै यरुळिच्चॆय्य वेणुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।१</summary>
+
+करुम्बु इरुन्द कट्टिये
+</details>
+
+
+
+<details><summary>टीका - ८४४।१</summary>
+
+करुप्पङ् गट्टिबोले परम पोक्यऩायिरुन्दवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।२</summary>
+
+कडल् किडन्द कण्णऩे
+</details>
+
+
+
+<details><summary>टीका - ८४४।२</summary>
+
+तिरुप्पाऱ्‌कडलिले तिरुक्कण् वळर्न्दरुळुम् सुलबऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।३</summary>
+
+इरुम्बु
+</details>
+
+
+
+<details><summary>टीका - ८४४।३</summary>
+
+इरुम्बुबोल् वलिय राक्षससरीरङ्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।४</summary>
+
+अरङ्ग
+</details>
+
+
+
+<details><summary>टीका - ८४४।४</summary>
+
+अऴियुम्बडि
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।५</summary>
+
+वॆंसरम्
+</details>
+
+
+
+<details><summary>टीका - ८४४।५</summary>
+
+तीक्ष्णमाऩ अम्बुगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।६</summary>
+
+तुरन्द
+</details>
+
+
+
+<details><summary>टीका - ८४४।६</summary>
+
+पिरयोगित्त
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।७</summary>
+
+विल्
+</details>
+
+
+
+<details><summary>टीका - ८४४।७</summary>
+
+श्रीसार्ङ्गविल्लैयुडैयवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।८</summary>
+
+इरामऩे
+</details>
+
+
+
+<details><summary>टीका - ८४४।८</summary>
+
+इरामबिराऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।९</summary>
+
+अरङ्गम् वाणऩे
+</details>
+
+
+
+<details><summary>टीका - ८४४।९</summary>
+
+कोयिलिल् वाऴ्बवऩे
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।१०</summary>
+
+करुम्बु
+</details>
+
+
+
+<details><summary>टीका - ८४४।१०</summary>
+
+वण्डुगळाऩवै
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।११</summary>
+
+अरङ्गु
+</details>
+
+
+
+<details><summary>टीका - ८४४।११</summary>
+
+पडिन्दिरुक्कबॆऱ्‌ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।१२</summary>
+
+तण् तुऴाय्
+</details>
+
+
+
+<details><summary>टीका - ८४४।१२</summary>
+
+कुळिर्न्द तिरुत्तुऴाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।१३</summary>
+
+तुदैत्तु
+</details>
+
+
+
+<details><summary>टीका - ८४४।१३</summary>
+
+नॆरुङ्गि
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।१४</summary>
+
+अलर्न्द
+</details>
+
+
+
+<details><summary>टीका - ८४४।१४</summary>
+
+विसुसित्तिरुक्कप्पॆऱ्‌ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।१५</summary>
+
+पादमे
+</details>
+
+
+
+<details><summary>टीका - ८४४।१५</summary>
+
+(उऩदु) तिरुवडिगळैये
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।१६</summary>
+
+विरुम्बि निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८४४।१६</summary>
+
+स्वयम्ब्रयोजगमाग आसैप्पट्टु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।१७</summary>
+
+इऱैञ्जु वेऱ्‌कु
+</details>
+
+
+
+<details><summary>टीका - ८४४।१७</summary>
+
+तॊऴुगिऩ्ऱ अडियेऩ् पक्कल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४४।१८</summary>
+
+इरङ्गु
+</details>
+
+
+
+<details><summary>टीका - ८४४।१८</summary>
+
+क्रुबैबण्णियरुळ्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८४५।१</summary>
+
+इरामऩे
+</details>
+
+
+
+<details><summary>टीका - ८४५।१</summary>
+
+इरामबिराऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४५।२</summary>
+
+ऊऩिल् मेय आवि नी
+</details>
+
+
+
+<details><summary>टीका - ८४५।२</summary>
+
+सरीरत्तिले पॊरुन्दियिरुक्किऩ्ऱ पिराणऩ् नीयिट्ट वऴक्कु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४५।३</summary>
+
+उऱ्‌ऱमोडु उणर्च्चि नी
+</details>
+
+
+
+<details><summary>टीका - ८४५।३</summary>
+
+ज्ञानमुम् अज्ञाऩमुम् नी विट्ट वऴक्कु।
+</details>
+
+
+
+<details open><summary>मूलम् - ८४५।४</summary>
+
+आऩिल् मेय ऐन्दुम् नी
+</details>
+
+
+
+<details><summary>टीका - ८४५।४</summary>
+
+पसुक्कळिडत्तु उण्डाऩ पञ्जगव्यमुम् नी;
+</details>
+
+
+
+<details open><summary>मूलम् - ८४५।५</summary>
+
+अवऱ्‌ऱुळ् निऩ्ऱ तूय्मै नी
+</details>
+
+
+
+<details><summary>टीका - ८४५।५</summary>
+
+अप्पञ्ज कव्यङ्गळुक्कुळ्ळ परिसुत्तियुम् नी सङ्गल्बित्तदु;
+</details>
+
+
+
+<details open><summary>मूलम् - ८४५।६</summary>
+
+वाऩिऩोडु मण्णुम् नी
+</details>
+
+
+
+<details><summary>टीका - ८४५।६</summary>
+
+नित्य विबूदि लीला विबूदियॆऩ्ऱ उबय विबूदियुम् नीयिट्ट वऴक्कुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४५।७</summary>
+
+वळम् कडल् पयऩुम् नी
+</details>
+
+
+
+<details><summary>टीका - ८४५।७</summary>
+
+अऴगिय समुत्तिरत्तिलुण्डाऩ (अम्रुदम् रत्ऩम् मुलाऩ) पिरयोजऩङ्गळुम् नी;
+</details>
+
+
+
+<details open><summary>मूलम् - ८४५।८</summary>
+
+याऩुम् नी
+</details>
+
+
+
+<details><summary>टीका - ८४५।८</summary>
+
+अडियेऩु“ उऩ् अदीगऩ्;
+</details>
+
+
+
+<details open><summary>मूलम् - ८४५।९</summary>
+
+अदु अऩ्ऱि
+</details>
+
+
+
+<details><summary>टीका - ८४५।९</summary>
+
+इप्पडि पलवाऱु पिरित्तुच् चॊल्वदल्लामल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४५।१०</summary>
+
+ऎम्बिराऩुम् नी
+</details>
+
+
+
+<details><summary>टीका - ८४५।१०</summary>
+
+सर्वेच्वरऩुम् नी काण्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८४६।१</summary>
+
+ऎम् अण्णले!
+</details>
+
+
+
+<details><summary>टीका - ८४६।१</summary>
+
+ऎम्बॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४६।२</summary>
+
+अडक्क अरु
+</details>
+
+
+
+<details><summary>टीका - ८४६।२</summary>
+
+अडक्क मुडियाद
+</details>
+
+
+
+<details open><summary>मूलम् - ८४६।३</summary>
+
+ऐन्दु पुलऩ्गळ्
+</details>
+
+
+
+<details><summary>टीका - ८४६।३</summary>
+
+पञ्जेन्दिरियङ्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८४६।४</summary>
+
+अडक्कि
+</details>
+
+
+
+<details><summary>टीका - ८४६।४</summary>
+
+पट्टिमेयादबडि नियमित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४६।५</summary>
+
+आसै अरुम् अवै
+</details>
+
+
+
+<details><summary>टीका - ८४६।५</summary>
+
+विषयन्दरप् पऱ्‌ऱुक्कळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८४६।६</summary>
+
+तुडक्कु अऱुत्तु वन्दु
+</details>
+
+
+
+<details><summary>टीका - ८४६।६</summary>
+
+सवासगमागत् तॊल्लैत्तु विट्टु वन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४६।७</summary>
+
+निऩ् तॊऴिल् कण्
+</details>
+
+
+
+<details><summary>टीका - ८४६।७</summary>
+
+उऩ् कैङ्गरियत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८४६।८</summary>
+
+निऩ्ऱ
+</details>
+
+
+
+<details><summary>टीका - ८४६।८</summary>
+
+निष्टऩायिरुक्किऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८४६।९</summary>
+
+ऎऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ८४६।९</summary>
+
+अडैयेऩे
+</details>
+
+
+
+<details open><summary>मूलम् - ८४६।१०</summary>
+
+नी
+</details>
+
+
+
+<details><summary>टीका - ८४६।१०</summary>
+
+इव्वळवु आळाक्किऩ नी
+</details>
+
+
+
+<details open><summary>मूलम् - ८४६।११</summary>
+
+विड करुदि
+</details>
+
+
+
+<details><summary>टीका - ८४६।११</summary>
+
+उबेक्षिक्कत् तिरुवळ्ळम्बऱ्‌ऱि
+</details>
+
+
+
+<details open><summary>मूलम् - ८४६।१२</summary>
+
+मॆय् सॆयादु
+</details>
+
+
+
+<details><summary>टीका - ८४६।१२</summary>
+
+ऎऩ् उज्जीवनार्त्तमाऩ क्रुषियै मॆय्याग नडत्तामल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४६।१३</summary>
+
+मिक्क ओर् आसै आक्किलुम्
+</details>
+
+
+
+<details><summary>टीका - ८४६।१३</summary>
+
+विषयान्दरप्रावण्यत्तै अदिगरिप्पित्तालुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४६।१४</summary>
+
+कडल् किडन्द निऩ् अलाल्
+</details>
+
+
+
+<details><summary>टीका - ८४६।१४</summary>
+
+क्षीरसागर सायियाऩ उऩ्ऩैयल्लदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४६।१५</summary>
+
+ओर् कण् इलेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८४६।१५</summary>
+
+वेऱॊरु स्वामियैयुडैय ऩल्लेऩ्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८४७।१</summary>
+
+वरम्बु इलाद माय
+</details>
+
+
+
+<details><summary>टीका - ८४७।१</summary>
+
+अळविऱन्द स्वरूबत्तैयुडैय पिरगिरुदिदत्तुवत्तै स्वादीगमागवुडैयवऩे
+</details>
+
+
+
+<details open><summary>मूलम् - ८४७।२</summary>
+
+माय!
+</details>
+
+
+
+<details><summary>टीका - ८४७।२</summary>
+
+आच्चरियसक्तियुक्तऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४७।३</summary>
+
+वैयम् ऎऴुम्
+</details>
+
+
+
+<details><summary>टीका - ८४७।३</summary>
+
+एऴुलगत्तिलुमुळ्ळ जऩङ्गळुम् (कूडि)
+</details>
+
+
+
+<details open><summary>मूलम् - ८४७।४</summary>
+
+मॆय्म्मैये
+</details>
+
+
+
+<details><summary>टीका - ८४७।४</summary>
+
+मॆय्यागवे
+</details>
+
+
+
+<details open><summary>मूलम् - ८४७।५</summary>
+
+वरम्बु इल् ऊऴि
+</details>
+
+
+
+<details><summary>टीका - ८४७।५</summary>
+
+पलबल कऱ्‌पगङ्गळ् वरैयिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४७।६</summary>
+
+एत्तिलुम्
+</details>
+
+
+
+<details><summary>टीका - ८४७।६</summary>
+
+तोत्तिरम् पण्णिऩालुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४७।७</summary>
+
+वरम्बु इलाद कीर्त्तियाय्
+</details>
+
+
+
+<details><summary>टीका - ८४७।७</summary>
+
+ऎल्लैगाण मुडियाद पुगऴैयुडैयोऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४७।८</summary>
+
+पुण्डरीगऩे
+</details>
+
+
+
+<details><summary>टीका - ८४७।८</summary>
+
+पुण्डरीगाक्षऩे! (अडियेऩ्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८४७।९</summary>
+
+वरम्बु इलाया
+</details>
+
+
+
+<details><summary>टीका - ८४७।९</summary>
+
+मुडिविल्लामल् नेरक्कूडियवऩाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८४७।१०</summary>
+
+पल् पिऱप्पु
+</details>
+
+
+
+<details><summary>टीका - ८४७।१०</summary>
+
+पऱ्‌पल जऩ्मङ्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८४७।११</summary>
+
+अऱुत्तु
+</details>
+
+
+
+<details><summary>टीका - ८४७।११</summary>
+
+इऩ्ऱोडु मुडित्तुविट्टु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४७।१२</summary>
+
+निऩ् कऴल् वन्दु
+</details>
+
+
+
+<details><summary>टीका - ८४७।१२</summary>
+
+उऩदु तिरुवडिगळैक् किट्टि
+</details>
+
+
+
+<details open><summary>मूलम् - ८४७।१३</summary>
+
+पॊरुन्दुम् आ
+</details>
+
+
+
+<details><summary>टीका - ८४७।१३</summary>
+
+अवऱ्‌ऱिलेये सक्तऩायिरुक्कुम्बडि
+</details>
+
+
+
+<details open><summary>मूलम् - ८४७।१४</summary>
+
+तिरुन्द
+</details>
+
+
+
+<details><summary>टीका - ८४७।१४</summary>
+
+नऩ्ऱाग
+</details>
+
+
+
+<details open><summary>मूलम् - ८४७।१५</summary>
+
+नी वरम् सॆय्
+</details>
+
+
+
+<details><summary>टीका - ८४७।१५</summary>
+
+अनुक्रहित्तरुळ वेणुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४८।१</summary>
+
+वॆय्य आऴि
+</details>
+
+
+
+<details><summary>टीका - ८४८।१</summary>
+
+(ऎदिरिगळ्मेल्) तीक्ष्णमाऩ तिरुवाऴियैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४८।२</summary>
+
+सङ्गु तण्डु विल्लुम् वाळुम्
+</details>
+
+
+
+<details><summary>टीका - ८४८।२</summary>
+
+तिरुसङ्गैयुम् कदैयैयुम् श्रीसार्ङ्गत्तैयुम् नन्दगवाळैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४८।३</summary>
+
+सेरुम् मार्ब
+</details>
+
+
+
+<details><summary>टीका - ८४८।३</summary>
+
+नित्यवाऩम् पण्णुगिऱ तिरुमार्बैयुडैवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४८।४</summary>
+
+नादऩे
+</details>
+
+
+
+<details><summary>टीका - ८४८।४</summary>
+
+सर्वस्वामिये!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४८।५</summary>
+
+ऐयिल् आय आक्कै नोय्
+</details>
+
+
+
+<details><summary>टीका - ८४८।५</summary>
+
+सिलेष्यम् मुदलियवऱ्‌ऱुक्कु इरुप्पिडमागिय सरीरमागिय वियादियै
+</details>
+
+
+
+<details open><summary>मूलम् - ८४८।६</summary>
+
+एन्दु सीर् कैय!
+</details>
+
+
+
+<details><summary>टीका - ८४८।६</summary>
+
+तरित्तुक् कॊण्डिरुक्किऱ अऴगिय तिरुक्कैळैयुडैयवऩे
+</details>
+
+
+
+<details open><summary>मूलम् - ८४८।७</summary>
+
+सॆय्यबोदिल् मादु
+</details>
+
+
+
+<details><summary>टीका - ८४८।७</summary>
+
+सॆन्दामरै मलरिल् पिऱन्द पिराट्टि
+</details>
+
+
+
+<details open><summary>मूलम् - ८४८।८</summary>
+
+अऱुत्तु वन्दु
+</details>
+
+
+
+<details><summary>टीका - ८४८।८</summary>
+
+तॊलैत्तु वन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४८।९</summary>
+
+निऩ् अडैन्दु
+</details>
+
+
+
+<details><summary>टीका - ८४८।९</summary>
+
+उऩ्ऩै अडैन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४८।१०</summary>
+
+उय्वदु ओर् उबायम्
+</details>
+
+
+
+<details><summary>टीका - ८४८।१०</summary>
+
+नाऩ् उज्जीविक्कुम्बडियाऩवॊरु उबायत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८४८।११</summary>
+
+ऎऩक्कु
+</details>
+
+
+
+<details><summary>टीका - ८४८।११</summary>
+
+अडियेऩुक्कु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४८।१२</summary>
+
+नी नल्गवेण्डुम्
+</details>
+
+
+
+<details><summary>टीका - ८४८।१२</summary>
+
+अरुळ वेणुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८४९।१</summary>
+
+माय!
+</details>
+
+
+
+<details><summary>टीका - ८४९।१</summary>
+
+आच्चरिय सक्ति युक्तऩाऩ पॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८४९।२</summary>
+
+मऱम् तुऱन्दु
+</details>
+
+
+
+<details><summary>टीका - ८४९।२</summary>
+
+कोबत्तै ऒऴित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४९।३</summary>
+
+वञ्जम् माऱ्‌ऱि
+</details>
+
+
+
+<details><summary>टीका - ८४९।३</summary>
+
+कऩ्ऩङ्सुवडुगळैत् तविर्त्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४९।४</summary>
+
+ऐम्बुलऩ्गळ् आसैयुम् तुऱन्दु
+</details>
+
+
+
+<details><summary>टीका - ८४९।४</summary>
+
+पञ्जेन्द्रियङ्गळिऩुडैय विषयान्दरप् पऱ्‌ऱैयुम् ऒऴित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४९।५</summary>
+
+निऩ् कण्
+</details>
+
+
+
+<details><summary>टीका - ८४९।५</summary>
+
+उऩ् पक्कलिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४९।६</summary>
+
+आसैये तॊडर्न्दु निऩ्ऱ कायिऩेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८४९।६</summary>
+
+पक्तिये मेऩ्मेलुम् पॆरुगि वरप्पॆऱ्‌ऱ अडियेऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४९।७</summary>
+
+पिऱन्दु इऱन्दु
+</details>
+
+
+
+<details><summary>टीका - ८४९।७</summary>
+
+पिऱप्पदु इऱप्पदुमाऩ विगारङ्गळैयडैन्दु कॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४९।८</summary>
+
+पेर् इडर् कऴिक्कण् निऩ्ऱुम्
+</details>
+
+
+
+<details><summary>टीका - ८४९।८</summary>
+
+महादुक्क मण्डलाऩ संसुरत्तिल् निऩ्ऱुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४९।९</summary>
+
+नीक्कुम् आ
+</details>
+
+
+
+<details><summary>टीका - ८४९।९</summary>
+
+नीङ्गुम् पिरगारत्तैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४९।१०</summary>
+
+मऱ्‌ऱु
+</details>
+
+
+
+<details><summary>टीका - ८४९।१०</summary>
+
+अदऱ्‌कु मेऱ्‌पट्टुप् परमानन्द मडैयुम् पिरगारत्तैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४९।११</summary>
+
+ऎऩक्कु
+</details>
+
+
+
+<details><summary>टीका - ८४९।११</summary>
+
+अडियेऩुक्कु
+</details>
+
+
+
+<details open><summary>मूलम् - ८४९।१२</summary>
+
+मऱन्दिडादु
+</details>
+
+
+
+<details><summary>टीका - ८४९।१२</summary>
+
+मऱवामल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८४९।१३</summary>
+
+कल्ग वेण्डुम्
+</details>
+
+
+
+<details><summary>टीका - ८४९।१३</summary>
+
+अरुळवेणुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५०।१</summary>
+
+पूवै वण्णऩे
+</details>
+
+
+
+<details><summary>टीका - ८५०।१</summary>
+
+कायाम्बूप्पोऩ्ऱ निऱमुडैयवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८५०।२</summary>
+
+पिऩ्ऩैगेळ्व!
+</details>
+
+
+
+<details><summary>टीका - ८५०।२</summary>
+
+!  नप्पिऩ्ऩैप् पिराट्टिक्कु नादऩे
+</details>
+
+
+
+<details open><summary>मूलम् - ८५०।३</summary>
+
+(यमगिङ्गर राऩवर्गळ्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८५०।४</summary>
+
+नाऩ् सॆय् वल्विऩै काट्टि
+</details>
+
+
+
+<details><summary>टीका - ८५०।४</summary>
+
+नाऩ् सॆय्द पिरबलमाऩ पावङ्गळै ऎऩक्कु ञाबगप्पडुत्ति
+</details>
+
+
+
+<details open><summary>मूलम् - ८५०।५</summary>
+
+पयऩ् तऩिल्
+</details>
+
+
+
+<details><summary>टीका - ८५०।५</summary>
+
+अप्पावङ्गळिऩ् पलऩ्गळै अनुबविप्पदिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५०।६</summary>
+
+मऩम् तऩै
+</details>
+
+
+
+<details><summary>टीका - ८५०।६</summary>
+
+ऎऩदु मनस्सै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५०।७</summary>
+
+नाट्टि वैत्तु
+</details>
+
+
+
+<details><summary>टीका - ८५०।७</summary>
+
+तुणियुम्बडि सॆय्वित्त
+</details>
+
+
+
+<details open><summary>मूलम् - ८५०।८</summary>
+
+नल्ल अल्ल
+</details>
+
+
+
+<details><summary>टीका - ८५०।८</summary>
+
+असह्रयमाऩ हिंसैगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५०।९</summary>
+
+सॆय्य ऎण्णिऩार्
+</details>
+
+
+
+<details><summary>टीका - ८५०।९</summary>
+
+सॆय्य निऩैत्तिरुक्किऱार्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५०।१०</summary>
+
+ऎऩ केट्टदु अऩ्ऱि
+</details>
+
+
+
+<details><summary>टीका - ८५०।१०</summary>
+
+ऎऩ्ऱु नाऩ् केट्टिरुक्किऱ पडियागैयामैक्काग
+</details>
+
+
+
+<details open><summary>मूलम् - ८५०।११</summary>
+
+उऩ्ऩदु आवि
+</details>
+
+
+
+<details><summary>टीका - ८५०।११</summary>
+
+ऎऩ्ऩुडैय आत्मावै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५०।१२</summary>
+
+निऩ्ऩॊडुम् पूट्टिवैत्त ऎऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ८५०।१२</summary>
+
+उऩ् पक्कलिल् समर्प्पित्तु नीर्प्परऩायिरुक्कि ऎऩ्ऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५१।१</summary>
+
+पॆऱऱ्‌कु अरिय मायऩे
+</details>
+
+
+
+<details><summary>टीका - ८५१।१</summary>
+
+(ऒरुवर्क्कुम् स्वयत्तक्कदाले पॆऱुवदऱ्‌कु मुडियाद ऎम्बॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८५१।२</summary>
+
+पिऱप्पिऩोडु पेर् इडर् कऴिक्कऩ् निऩ्ऱुम्
+</details>
+
+
+
+<details><summary>टीका - ८५१।२</summary>
+
+पिऱप्पु मुदलिय पॆरुप्पॆरुत्त तुक्कङ्गळै निऩैक्किऩ्ऱ संसारत्तिल् निऩ्ऱुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५१।३</summary>
+
+नीङ्गुम् अह्दु
+</details>
+
+
+
+<details><summary>टीका - ८५१।३</summary>
+
+नीङ्गुवदऱ्‌ कुऱुम्बाऩ तत्व हिदरङ्गळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५१।४</summary>
+
+इऱप्प वैत्त
+</details>
+
+
+
+<details><summary>टीका - ८५१।४</summary>
+
+मऱन्दॊऴिन्द
+</details>
+
+
+
+<details open><summary>मूलम् - ८५१।५</summary>
+
+ञाऩ नीसरै
+</details>
+
+
+
+<details><summary>टीका - ८५१।५</summary>
+
+सर्वज्ञरागत् तङ्गळै निऩैत्तुक्कॊण्डिरुक्किऱ नीसर्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५१।६</summary>
+
+करै कॊडु एऱ्‌ऱम् आ
+</details>
+
+
+
+<details><summary>टीका - ८५१।६</summary>
+
+करैयिले कॊण्डु सेर्क्कुम्बडियाग
+</details>
+
+
+
+<details open><summary>मूलम् - ८५१।७</summary>
+
+पॆऱऱ्‌कु अरिय
+</details>
+
+
+
+<details><summary>टीका - ८५१।७</summary>
+
+तुर्लबमाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८५१।८</summary>
+
+सिऩ्ऩ पादम् पत्ति आऩ
+</details>
+
+
+
+<details><summary>टीका - ८५१।८</summary>
+
+उऩ् तिरुवडिगळिल् पक्तियागिऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८५१।९</summary>
+
+पासऩम्
+</details>
+
+
+
+<details><summary>टीका - ८५१।९</summary>
+
+मरक्कल (ओड) त्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५१।१०</summary>
+
+ऎऩक्कु नल्ग वेण्डुम्
+</details>
+
+
+
+<details><summary>टीका - ८५१।१०</summary>
+
+अडियेऩुक्कु अरुळवेणुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८५२।१</summary>
+
+एमम् नीर् निऱत्तु
+</details>
+
+
+
+<details><summary>टीका - ८५२।१</summary>
+
+महाजलमाऩ कडल्बोऩ्ऱ निऱत्तैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८५२।२</summary>
+
+अम्मा !
+</details>
+
+
+
+<details><summary>टीका - ८५२।२</summary>
+
+स्वामि!
+</details>
+
+
+
+<details open><summary>मूलम् - ८५२।३</summary>
+
+इरन्दु उरैप्पदु उण्डु
+</details>
+
+
+
+<details><summary>टीका - ८५२।३</summary>
+
+(तेवरीरै) यासित्तुच् चॊल्लुम् वार्त्तैयॊऩ्ऱुण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ८५२।४</summary>
+
+वाऴि
+</details>
+
+
+
+<details><summary>टीका - ८५२।४</summary>
+
+पल्लाण्डु पल्लाण्डु;
+</details>
+
+
+
+<details open><summary>मूलम् - ८५२।५</summary>
+
+मऩ्ऩु सीर्वरम् तरुम् तिरुक्कुऱिप्पिल्
+</details>
+
+
+
+<details><summary>टीका - ८५२।५</summary>
+
+(सेदनर्क्कुच् ) चिऱन्द वरङ्गळैयरुळ्वदे इयल्वाऩ (तेवरीरुडैय) तिरुवुळ्ळत्तिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५२।६</summary>
+
+वैत्तदु आगिल्
+</details>
+
+
+
+<details><summary>टीका - ८५२।६</summary>
+
+अडियेऩुक्कु एदावदु वरङ्गॊडुक्क निऩैवुण्डागिल् (इन्द वरम् कॊडुक्क वेणुम्।)
+</details>
+
+
+
+<details open><summary>मूलम् - ८५२।७</summary>
+
+परन्द
+</details>
+
+
+
+<details><summary>टीका - ८५२।७</summary>
+
+कण्ड विडङ्गळिल् अलैन्दु तिरिगिऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८५२।८</summary>
+
+सिन्दै
+</details>
+
+
+
+<details><summary>टीका - ८५२।८</summary>
+
+ऎऩदु नॆञ्जाऩदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८५२।९</summary>
+
+ऒऩ्ऱि निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८५२।९</summary>
+
+(तेवर् विषयत्तिलेये) स्तिरमायिरुन्दुगॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ८५२।१०</summary>
+
+निऩ्ऩ
+</details>
+
+
+
+<details><summary>टीका - ८५२।१०</summary>
+
+तेवरीरुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८५२।११</summary>
+
+पादबङ्गयम्
+</details>
+
+
+
+<details><summary>टीका - ८५२।११</summary>
+
+तिरुवडित्तामरैगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५२।१२</summary>
+
+निरन्दरम्
+</details>
+
+
+
+<details><summary>टीका - ८५२।१२</summary>
+
+इडैविडामल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५२।१३</summary>
+
+निऩैप्पदु आग
+</details>
+
+
+
+<details><summary>टीका - ८५२।१३</summary>
+
+तियाऩित्तिरुक्कुम्बडियाग
+</details>
+
+
+
+<details open><summary>मूलम् - ८५२।१४</summary>
+
+नी निऩैक्क वेण्डुम्
+</details>
+
+
+
+<details><summary>टीका - ८५२।१४</summary>
+
+तेवरीर् तिरुवुळ्ळ मिरङ्ग वेणुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।१</summary>
+
+तॆऴिक्कुम् नीर्
+</details>
+
+
+
+<details><summary>टीका - ८५३।१</summary>
+
+कॊन्दळिक्किऩ्ऱ कडलिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।२</summary>
+
+पळ्ळि
+</details>
+
+
+
+<details><summary>टीका - ८५३।२</summary>
+
+सयऩङ्गॊण्डिरुक्किऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।३</summary>
+
+माय
+</details>
+
+
+
+<details><summary>टीका - ८५३।३</summary>
+
+सर्वेच्वरऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।४</summary>
+
+पऩ्ऱि आय
+</details>
+
+
+
+<details><summary>टीका - ८५३।४</summary>
+
+महावराहमागक् तिरुववदरित्त
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।५</summary>
+
+वॆऩ्ऱि वीर
+</details>
+
+
+
+<details><summary>टीका - ८५३।५</summary>
+
+जयसीलऩाऩ वीरऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।६</summary>
+
+तुळ्ळुम् नीर्
+</details>
+
+
+
+<details><summary>टीका - ८५३।६</summary>
+
+तुळ्ळिऩ कडलिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।७</summary>
+
+कुऩ्ऱिऩाल्
+</details>
+
+
+
+<details><summary>टीका - ८५३।७</summary>
+
+मलैगळैक् कॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।८</summary>
+
+उळ्ळु वेऩदु
+</details>
+
+
+
+<details><summary>टीका - ८५३।८</summary>
+
+(अत्तिरुवडिगळैये तञ्जमाग) अनुसन्दित्तिरुक्किऱ ऎऩ्ऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।९</summary>
+
+ऊऩम् नोय्
+</details>
+
+
+
+<details><summary>टीका - ८५३।९</summary>
+
+सरीर सम्बन्दमाऩ नोय्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।१०</summary>
+
+वरम्बु सॆय्द
+</details>
+
+
+
+<details><summary>टीका - ८५३।१०</summary>
+
+अणैगट्टिऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।११</summary>
+
+तोऩ्ऱल्
+</details>
+
+
+
+<details><summary>टीका - ८५३।११</summary>
+
+स्वामिये!
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।१२</summary>
+
+यिलवु इलाद कादलाल्
+</details>
+
+
+
+<details><summary>टीका - ८५३।१२</summary>
+
+नीक्कमिल्लाद अऩ्बिऩाल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।१३</summary>
+
+विळङ्गु पाद पोदिल् वैत्तु
+</details>
+
+
+
+<details><summary>टीका - ८५३।१३</summary>
+
+(उऩदु) विळङ्गुगिऩ्ऱ पादारलिङ्गत्तिले (नॆञ्जै) वैत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।१४</summary>
+
+ऒऴिक्कुम् आ
+</details>
+
+
+
+<details><summary>टीका - ८५३।१४</summary>
+
+ऒऴिक्कुम् वऴिगळिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।१५</summary>
+
+ऒऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८५३।१५</summary>
+
+ऒरुवऴियै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५३।१६</summary>
+
+सॊल्लिविडु
+</details>
+
+
+
+<details><summary>टीका - ८५३।१६</summary>
+
+अरुळिच् चॆय्ग
+</details>
+
+
+
+<details open><summary>मूलम् - ८५४।१</summary>
+
+तिरु कलन्दु सेरुम्
+</details>
+
+
+
+<details><summary>टीका - ८५४।१</summary>
+
+पॆरिय पिराट्टियार्  नित्यसम्च्लेषम् पण्णि वाऴप्पॆऱ्‌ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८५४।२</summary>
+
+मार्बु
+</details>
+
+
+
+<details><summary>टीका - ८५४।२</summary>
+
+तिरुमार्बैयुडैयऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८५४।३</summary>
+
+तेवर् तेवर् तेवऩे
+</details>
+
+
+
+<details><summary>टीका - ८५४।३</summary>
+
+प्रह्मादिगळिऱ्‌ काट्टिलुम् मेऱ्‌पट्ट नित्यसूरिगळुक्कुम् तलैवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८५४।४</summary>
+
+इरुक्कु कलन्द वेदम् नीदि आगि निऩ्ऱ
+</details>
+
+
+
+<details><summary>टीका - ८५४।४</summary>
+
+(पलवगैप्पट्ट) रुक्कुक्कऩ् सेर्न्दिरुक्किऱ वेदङ्गळाल् पिरदि पादिक्कप्पडुगैयै स्वबावमागवुडैयऩाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८५४।५</summary>
+
+निऩ् मला
+</details>
+
+
+
+<details><summary>टीका - ८५४।५</summary>
+
+परिसुत्तऩे
+</details>
+
+
+
+<details open><summary>मूलम् - ८५४।६</summary>
+
+करु कलन्द
+</details>
+
+
+
+<details><summary>टीका - ८५४।६</summary>
+
+पॊऩ्ऩोडु  सेर्न्द
+</details>
+
+
+
+<details open><summary>मूलम् - ८५४।७</summary>
+
+काळमेगम् मेऩि
+</details>
+
+
+
+<details><summary>टीका - ८५४।७</summary>
+
+काळमेगम्बोऩ्ऱ तिरुमेऩियैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८५४।८</summary>
+
+आय
+</details>
+
+
+
+<details><summary>टीका - ८५४।८</summary>
+
+कण्णबिराऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८५४।९</summary>
+
+निऩ् पॆयर्
+</details>
+
+
+
+<details><summary>टीका - ८५४।९</summary>
+
+उऩ् तिरुनामङक्ळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५४।१०</summary>
+
+ऒऴिवु इलादु
+</details>
+
+
+
+<details><summary>टीका - ८५४।१०</summary>
+
+निरन्दरमाग
+</details>
+
+
+
+<details open><summary>मूलम् - ८५४।११</summary>
+
+उरु कलन्दु  उरैक्कुम् आऱु
+</details>
+
+
+
+<details><summary>टीका - ८५४।११</summary>
+
+तिव्यमङ्गळविक्रहत्तोडु सेर्न्दु अनुसन्दिक्कुम् वगैयै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५४।१२</summary>
+
+उरैसॆय्
+</details>
+
+
+
+<details><summary>टीका - ८५४।१२</summary>
+
+अरुळिच् चॆय्यवेणुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८५५।१</summary>
+
+कडु
+</details>
+
+
+
+<details><summary>टीका - ८५५।१</summary>
+
+क्रूरऩाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८५५।२</summary>
+
+कवन्दऩ्
+</details>
+
+
+
+<details><summary>टीका - ८५५।२</summary>
+
+कबन्ददॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८५५।३</summary>
+
+वक्करऩ्
+</details>
+
+
+
+<details><summary>टीका - ८५५।३</summary>
+
+तन्दवक्त्रऩॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८५५।४</summary>
+
+करऩ्
+</details>
+
+
+
+<details><summary>टीका - ८५५।४</summary>
+
+करऩॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८५५।५</summary>
+
+मुरऩ्  सिऱै अवै
+</details>
+
+
+
+<details><summary>टीका - ८५५।५</summary>
+
+मुरऩॆऩ्ऩ (इवर्गळुडैय तलैगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५५।६</summary>
+
+इडन्दु कूऱु सॆय्द
+</details>
+
+
+
+<details><summary>टीका - ८५५।६</summary>
+
+सिन्नबिन्नमाक्किऩवऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५५।७</summary>
+
+पल्बडै तडगै
+</details>
+
+
+
+<details><summary>टीका - ८५५।७</summary>
+
+पलवगैप्पट्ट आयुदङ्गळैप् पॆरिय तिरुक्कैगळिले उडैयऩुमाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८५५।८</summary>
+
+मायऩे
+</details>
+
+
+
+<details><summary>टीका - ८५५।८</summary>
+
+पॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८५५।९</summary>
+
+किडन्दु इरुन्दु निऩ्ऱु इयङ्गुबोदुम्
+</details>
+
+
+
+<details><summary>टीका - ८५५।९</summary>
+
+पडुक्कै इरुक्कै निऱ्‌कै तिरिगै मुदलिय सर्वावस्तैगळिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५५।१०</summary>
+
+निऩ्ऩ
+</details>
+
+
+
+<details><summary>टीका - ८५५।१०</summary>
+
+तेवरीरुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८५५।११</summary>
+
+पॊऩ्गऴल्
+</details>
+
+
+
+<details><summary>टीका - ८५५।११</summary>
+
+अऴगिय तिरुवडिगळैये
+</details>
+
+
+
+<details open><summary>मूलम् - ८५५।१२</summary>
+
+तॊडर्न्दु वीळ्वु इलाददु ओर् तॊडर्च्चि
+</details>
+
+
+
+<details><summary>टीका - ८५५।१२</summary>
+
+इडैविडादु अदुवर्त्तित् तिरुक्कैयागिऱ ऒरु तॊडर्बै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५५।१३</summary>
+
+नलक् वेण्डुम्
+</details>
+
+
+
+<details><summary>टीका - ८५५।१३</summary>
+
+तन्दरुळवेणुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८५६।१</summary>
+
+मण्णै उण्डु
+</details>
+
+
+
+<details><summary>टीका - ८५६।१</summary>
+
+पूमियैप् पिरळयगालत्तिले तिरुवयिऱ्‌ऱिल् वैत्तु नोक्कियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५६।२</summary>
+
+पिऩ् उमिऴ्न्दु
+</details>
+
+
+
+<details><summary>टीका - ८५६।२</summary>
+
+पिरळयम् कऴिन्द पिऱगु वॆळिप्पडुत्तियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५६।३</summary>
+
+इरन्दुगॊण्डु
+</details>
+
+
+
+<details><summary>टीका - ८५६।३</summary>
+
+(महाबलियिडत्तिल्) पिक्षैयेऱ्‌ऱुप् पॆऱ्‌ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ८५६।४</summary>
+
+अळन्दु
+</details>
+
+
+
+<details><summary>टीका - ८५६।४</summary>
+
+अळन्दुगॊण्डुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८५६।५</summary>
+
+मण् कण्णुळ् अल्लदु इल्लै ऎऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८५६।५</summary>
+
+‘इव्वुलगमाऩदु नमदु कडाक्षत्तालऩ्ऱि सत्तै पॆऱ्‌ऱिरुक्कमाट्टादु’ ऎऩ्ऱु तिरुवुळ्ळम्बऱ्‌ऱि
+</details>
+
+
+
+<details open><summary>मूलम् - ८५६।६</summary>
+
+वॆऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८५६।६</summary>
+
+(अव्वुलग मुऴुवदैयुम्) स्वादीगप्पडुत्तिक् कॊण्डुम् पोन्द
+</details>
+
+
+
+<details open><summary>मूलम् - ८५६।७</summary>
+
+कालम् आयिऩुम्
+</details>
+
+
+
+<details><summary>टीका - ८५६।७</summary>
+
+सर्वगाल निर्वाहगऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८५६।८</summary>
+
+पण्णै वॆऩ्ऱ इऩ्सॊल् मङ्गै
+</details>
+
+
+
+<details><summary>टीका - ८५६।८</summary>
+
+पण्गळैत् तिरस्करित्त इऩिमैयाऩ पेच्चैयुडैय पिराट्टियिऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८५६।९</summary>
+
+कॊङ्गै
+</details>
+
+
+
+<details><summary>टीका - ८५६।९</summary>
+
+तिरुमुलैत्तडत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८५६।१०</summary>
+
+तङ्गु
+</details>
+
+
+
+<details><summary>टीका - ८५६।१०</summary>
+
+पिरियादु वाऴ्गिऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८५६।११</summary>
+
+पङ्गयक्कण्ण
+</details>
+
+
+
+<details><summary>टीका - ८५६।११</summary>
+
+पुण्डरीगाक्षऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८५६।१२</summary>
+
+निऩ्ऩ वण्णम् अल्लदु
+</details>
+
+
+
+<details><summary>टीका - ८५६।१२</summary>
+
+उऩ् वडिवऴगुदविर
+</details>
+
+
+
+<details open><summary>मूलम् - ८५६।१३</summary>
+
+ऎण्णुम् वण्णम् इल्लै
+</details>
+
+
+
+<details><summary>टीका - ८५६।१३</summary>
+
+तियाऩिक्कक्कूडिय वडिवु मऱ्‌ऱॊऩ्ऱुमिल्लै।
+</details>
+
+
+
+<details open><summary>मूलम् - ८५७।१</summary>
+
+अऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८५७।१</summary>
+
+मुऩ्ऩॊरु कालत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८५७।२</summary>
+
+कऱुत्तु ऎदिर्न्द कालनेमि
+</details>
+
+
+
+<details><summary>टीका - ८५७।२</summary>
+
+कोबित्तु ऎदिरियिट्ट कालनेमियाऩवऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५७।३</summary>
+
+कालऩोडु कूड
+</details>
+
+
+
+<details><summary>टीका - ८५७।३</summary>
+
+यमलोगम् पोय्च्चेरुम्बडियाग
+</details>
+
+
+
+<details open><summary>मूलम् - ८५७।४</summary>
+
+अऱुन्द
+</details>
+
+
+
+<details><summary>टीका - ८५७।४</summary>
+
+अवऩ् तलैयै अऱुत्त
+</details>
+
+
+
+<details open><summary>मूलम् - ८५७।५</summary>
+
+आऴिसङ्गु तण्डु विल्लुम् वाळुम् एन्दिऩाय्
+</details>
+
+
+
+<details><summary>टीका - ८५७।५</summary>
+
+पञ्जायुदाऴ्वार्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५७।६</summary>
+
+एन्दिऩाय्
+</details>
+
+
+
+<details><summary>टीका - ८५७।६</summary>
+
+तिरुक्कैयिले अणिन्दु कॊण्डिरुक्कुम् पॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८५७।७</summary>
+
+तॊऱु कलन्द ऊऩम् अह्दु
+</details>
+
+
+
+<details><summary>टीका - ८५७।७</summary>
+
+पसुक्कळुक्कु नेर्न्द अप्पडिप्पट्ट आबत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५७।८</summary>
+
+अऩ्ऱु ऒऴिक्क
+</details>
+
+
+
+<details><summary>टीका - ८५७।८</summary>
+
+अप्पोदे पोक्कुवदऱ्‌काग
+</details>
+
+
+
+<details open><summary>मूलम् - ८५७।९</summary>
+
+मुऩ्
+</details>
+
+
+
+<details><summary>टीका - ८५७।९</summary>
+
+ऎल्लारुडैयवुम् कण्मुऩ्ऩे
+</details>
+
+
+
+<details open><summary>मूलम् - ८५७।१०</summary>
+
+कुऩ्ऱम् पॊरुत्त नी
+</details>
+
+
+
+<details><summary>टीका - ८५७।१०</summary>
+
+कोवर्ददऩमलैयै (कुडैयागत्) तूक्किऩॆयेडुत्त तेवरीरुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८५७।११</summary>
+
+पुगऴ्क्कु अलाल्
+</details>
+
+
+
+<details><summary>टीका - ८५७।११</summary>
+
+तिरुक्कुणङ्गळुक्कुत् तविर (मऱ्‌ऱॆव्विषयत्तिलुम्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८५७।१२</summary>
+
+नॆञ्जम्
+</details>
+
+
+
+<details><summary>टीका - ८५७।१२</summary>
+
+ऎऩदु नॆञ्जुक्कु
+</details>
+
+
+
+<details open><summary>मूलम् - ८५७।१३</summary>
+
+ओर् केसम् इल्लै
+</details>
+
+
+
+<details><summary>टीका - ८५७।१३</summary>
+
+सिऱिदुम् प्रदियिल्लै।
+</details>
+
+
+
+<details open><summary>मूलम् - ८५८।१</summary>
+
+ऎम् ईसऩे
+</details>
+
+
+
+<details><summary>टीका - ८५८।१</summary>
+
+ऎम्बॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८५८।२</summary>
+
+काय् सिऩन्द कासिमऩ्ऩऩ्
+</details>
+
+
+
+<details><summary>टीका - ८५८।२</summary>
+
+महा कोबियाऩ कासिराजावुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५८।३</summary>
+
+वक्करऩ्
+</details>
+
+
+
+<details><summary>टीका - ८५८।३</summary>
+
+(रुक्मिऩि विवाह कालत्तिल् वन्दु पोर् सॆय्द) तन्दवक्त्रऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५८।४</summary>
+
+पवुण्डिरऩ्
+</details>
+
+
+
+<details><summary>टीका - ८५८।४</summary>
+
+पौण्ड्रग वासुदेवऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५८।५</summary>
+
+मा सिऩन्द मालि
+</details>
+
+
+
+<details><summary>टीका - ८५८।५</summary>
+
+अदिगोबिष्टऩाऩ मालियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५८।६</summary>
+
+मा कमालि
+</details>
+
+
+
+<details><summary>टीका - ८५८।६</summary>
+
+महाऩाऩ सुलिमालियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५८।७</summary>
+
+केसि
+</details>
+
+
+
+<details><summary>टीका - ८५८।७</summary>
+
+(कुदिरै वडिवङ्गॊण्डु कॊल्ल वन्द) केसियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५८।८</summary>
+
+तेऩुगऩ्
+</details>
+
+
+
+<details><summary>टीका - ८५८।८</summary>
+
+तेनुगासुरऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५८।९</summary>
+
+नासम् उऱ्‌ऱु वीऴ
+</details>
+
+
+
+<details><summary>टीका - ८५८।९</summary>
+
+तुक्कत्तैयनुबवित्तु माण्डु पोम्बडियाग
+</details>
+
+
+
+<details open><summary>मूलम् - ८५८।१०</summary>
+
+नाळ् कवर्न्द
+</details>
+
+
+
+<details><summary>टीका - ८५८।१०</summary>
+
+(अवर्गळुडैय) वाऴ्नाळै मुडित्त
+</details>
+
+
+
+<details open><summary>मूलम् - ८५८।११</summary>
+
+निऩ्
+</details>
+
+
+
+<details><summary>टीका - ८५८।११</summary>
+
+तेवरीरुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८५८।१२</summary>
+
+कऴऱ्‌कु अलाल्
+</details>
+
+
+
+<details><summary>टीका - ८५८।१२</summary>
+
+तिरुवडिगळुक्कुत् तविर
+</details>
+
+
+
+<details open><summary>मूलम् - ८५८।१३</summary>
+
+ऎत्तिऱन्दुम्
+</details>
+
+
+
+<details><summary>टीका - ८५८।१३</summary>
+
+वेऱु ऎव्विषयत्तिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५८।१४</summary>
+
+नेस पासम्
+</details>
+
+
+
+<details><summary>टीका - ८५८।१४</summary>
+
+आसाबासत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८५८।१५</summary>
+
+वैत्तिडेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८५८।१५</summary>
+
+वैक्कमाट्टेऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५९।१</summary>
+
+केडु इल् सीर् वरत्तऩ् आम् अयऩ्
+</details>
+
+
+
+<details><summary>टीका - ८५९।१</summary>
+
+अऴिविल्लाद सम्बत्तै युडैयवऩाम्बडि वरम्बॆऱ्‌ऱवाऩ पिरमऩॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८५९।२</summary>
+
+कॆडुम् वरत्तु अरऩ्
+</details>
+
+
+
+<details><summary>टीका - ८५९।२</summary>
+
+ऎल्लावऱ्‌ऱुक्कुम् मुडिवै उण्डु     पणिणुवऩाग वरम् पॆऱ्‌ऱ सिवऩॆऩ्ऩ (इवर्गळुडैय)
+</details>
+
+
+
+<details open><summary>मूलम् - ८५९।३</summary>
+
+नाडिऩोडु कूड
+</details>
+
+
+
+<details><summary>टीका - ८५९।३</summary>
+
+नाडुगळोडु कूड
+</details>
+
+
+
+<details open><summary>मूलम् - ८५९।४</summary>
+
+कूडुम् आसै अल्लदु
+</details>
+
+
+
+<details><summary>टीका - ८५९।४</summary>
+
+ऎम्बॆरुमाऩोडु सेरवेणुम् सेरवेणुम् ऎऩ्ऱु मनोरदत्तिरुक्कै तविर
+</details>
+
+
+
+<details open><summary>मूलम् - ८५९।५</summary>
+
+नाट्टम् आयिरत्तऩ् नाडु
+</details>
+
+
+
+<details><summary>टीका - ८५९।५</summary>
+
+आयिरङ्गण्णुडैय इन्दिरऩुडैय नाट्टैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५९।६</summary>
+
+कण्णीरुम्
+</details>
+
+
+
+<details><summary>टीका - ८५९।६</summary>
+
+अडैयप्पॆऱुवदायिरुन्दालुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५९।७</summary>
+
+वीडु आऩअदु पोगम् ऎय्दि वीऱ्‌ऱिरुन्द पोदिलुम्
+</details>
+
+
+
+<details><summary>टीका - ८५९।७</summary>
+
+मोक्षमागिय अव्वनुबवत्तैये पॆऱ्‌ऱु (आनन्दमयमाय्) वीऱ्‌ऱिरुक्क पॆऱुवदाऩालुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८५९।८</summary>
+
+ऒऩ्ऱु कुऱिप्पिल् कॊळ्वऩो
+</details>
+
+
+
+<details><summary>टीका - ८५९।८</summary>
+
+मऱ्‌ऱॊऩ्ऱै नॆञ्जिऩुळ् निऩैप्पेऩो।
+</details>
+
+
+
+<details open><summary>मूलम् - ८६०।१</summary>
+
+सुरुङ्गुवारै इऩ्ऱिये
+</details>
+
+
+
+<details><summary>टीका - ८६०।१</summary>
+
+सुरुङ्गच्चॆय्वदऱ्‌कु हेदुवाऩ करुममम् मुदलियवै ऒऩ्ऱुमिल्लामले
+</details>
+
+
+
+<details open><summary>मूलम् - ८६०।२</summary>
+
+सुरुङ्गिऩाय्
+</details>
+
+
+
+<details><summary>टीका - ८६०।२</summary>
+
+(श्रीवामऩागच्) चुरुङ्गिऩ पॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८६०।३</summary>
+
+सुरुङ्गियुम् पॆरुक्कु वारै इऩ्ऱिये
+</details>
+
+
+
+<details><summary>टीका - ८६०।३</summary>
+
+अप्पडिक् कुऱुगिऩबिऩ्ऩुम् पॆरुगच् चॆय्वदऱ्‌कु हेदुवाऩ करुमम् मुदलियवै ऒऩ्ऱुमिल्लामल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६०।४</summary>
+
+पॆरुक्कम् ऎय्दु
+</details>
+
+
+
+<details><summary>टीका - ८६०।४</summary>
+
+(त्रिविक्रमऩागत्) तिरुवळर्त्ति
+</details>
+
+
+
+<details open><summary>मूलम् - ८६०।५</summary>
+
+पॆऱ्‌ऱियोय्
+</details>
+
+
+
+<details><summary>टीका - ८६०।५</summary>
+
+पॆऱ्‌ऱ पॆरुमाऩे
+</details>
+
+
+
+<details open><summary>मूलम् - ८६०।६</summary>
+
+सॆरुक्कुवार्गळ्
+</details>
+
+
+
+<details><summary>टीका - ८६०।६</summary>
+
+अहङ्गारिगळाय्त् तिरिन्द महाबलि पोल्वारुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८६०।७</summary>
+
+ती कुणङ्गळ्
+</details>
+
+
+
+<details><summary>टीका - ८६०।७</summary>
+
+अहङ्गार ममगारङ्गळागिऱ तीयगुणङ्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८६०।८</summary>
+
+तीर्त्त तेवदेवऩ्!
+</details>
+
+
+
+<details><summary>टीका - ८६०।८</summary>
+
+तॊलैत्तरुळिऩ तेवादिदेवऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८६०।९</summary>
+
+ऎऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८६०।९</summary>
+
+इव्वाऱु पल सम्बोदगङ्गळैयिट्टु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६०।१०</summary>
+
+इरुक्कुवाय् मुऩि कणङ्गळ् एन्द
+</details>
+
+
+
+<details><summary>टीका - ८६०।१०</summary>
+
+वेदमोदुम् वायैयुडैयराऩ  महरिषिगळिऩ् तिरळ् तुदिक्क (अदैक्कण्डु)
+</details>
+
+
+
+<details open><summary>मूलम् - ८६०।११</summary>
+
+याऩुम् एत्तिऩेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८६०।११</summary>
+
+अडियेऩुम् तुदित्तऩित्तऩै।
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।१</summary>
+
+करुम्बु उलावु
+</details>
+
+
+
+<details><summary>टीका - ८६१।१</summary>
+
+वण्डुगळ् उलावप्पॆऱ्‌ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।२</summary>
+
+तण् तुऴाय्
+</details>
+
+
+
+<details><summary>टीका - ८६१।२</summary>
+
+कुळिर्न्द तिरुत्तुऴाय् मालैयैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।३</summary>
+
+माय!
+</details>
+
+
+
+<details><summary>टीका - ८६१।३</summary>
+
+आच्चर्य सन्दियुक्तऩाऩ पॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।४</summary>
+
+नायिऩेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८६१।४</summary>
+
+नीसऩाऩ अडियेऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।५</summary>
+
+तूयऩायुम्
+</details>
+
+
+
+<details><summary>टीका - ८६१।५</summary>
+
+परिसुत्तऩागवो
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।६</summary>
+
+अऩ्ऱियुम्
+</details>
+
+
+
+<details><summary>टीका - ८६१।६</summary>
+
+परिसुत्तऩल्लादवऩागवो
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।७</summary>
+
+निऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ८६१।७</summary>
+
+तेवरीरै
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।८</summary>
+
+वणङ्गि
+</details>
+
+
+
+<details><summary>टीका - ८६१।८</summary>
+
+सेवित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।९</summary>
+
+वेलै नीर्  पायलोडु
+</details>
+
+
+
+<details><summary>टीका - ८६१।९</summary>
+
+तिरुप्पाऱ्‌कडलागिऱ पडुक्कै योडुङ्गूड
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।१०</summary>
+
+पक्तर् सित्तर्
+</details>
+
+
+
+<details><summary>टीका - ८६१।१०</summary>
+
+पक्तर्गळुडैय ह्रुदयत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।११</summary>
+
+मेय
+</details>
+
+
+
+<details><summary>टीका - ८६१।११</summary>
+
+कुडियिरुक्किऩ्ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।१२</summary>
+
+वेलैवण्णऩे!
+</details>
+
+
+
+<details><summary>टीका - ८६१।१२</summary>
+
+कडल्वण्णऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।१३</summary>
+
+वाऴ्त्तुम् इदु ऎलाम्
+</details>
+
+
+
+<details><summary>टीका - ८६१।१३</summary>
+
+तुदिप्पदागिऱ इदऩैयॆल्लाम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।१४</summary>
+
+नीयुम्
+</details>
+
+
+
+<details><summary>टीका - ८६१।१४</summary>
+
+(सर्वसहिष्णुवाऩ) तेवरीरुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।१५</summary>
+
+निऩ् कुऱिप्पिऩिल् पॊऱुत्तु
+</details>
+
+
+
+<details><summary>टीका - ८६१।१५</summary>
+
+तिरुवुळ्ळत्तिले क्षमित्तिरुळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६१।१६</summary>
+
+नल्गु
+</details>
+
+
+
+<details><summary>टीका - ८६१।१६</summary>
+
+अनुक्रहम् सॆय्य वेणुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८६२।१</summary>
+
+निऩ्ऩै वैदु
+</details>
+
+
+
+<details><summary>टीका - ८६२।१</summary>
+
+तेवरीरै निन्दित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६२।२</summary>
+
+वल्लआ पऴित्तवर्क्कुम्
+</details>
+
+
+
+<details><summary>टीका - ८६२।२</summary>
+
+सक्तियुळ्ळवरैक्कुम् अबवादङ्गळै सॊऩ्ऩ सिसुबालादिगळुक्कुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६२।३</summary>
+
+माऱु इल्बोर् सॆय्दु
+</details>
+
+
+
+<details><summary>टीका - ८६२।३</summary>
+
+ऒप्पिल्लाद युत्तम्बण्णि
+</details>
+
+
+
+<details open><summary>मूलम् - ८६२।४</summary>
+
+निऩ्ऩ सॆऱ्‌ऱुम्
+</details>
+
+
+
+<details><summary>टीका - ८६२।४</summary>
+
+तेवरीरुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८६२।५</summary>
+
+तीयिल्
+</details>
+
+
+
+<details><summary>टीका - ८६२।५</summary>
+
+कोबाक्नियिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६२।६</summary>
+
+वॆन्दवर्क्कुम्
+</details>
+
+
+
+<details><summary>टीका - ८६२।६</summary>
+
+वॆन्दुबोऩ वालि मुदलाऩोर्क्कुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६२।७</summary>
+
+उऩैवन्दु ऎय्दल् आगुम् ऎऩ्बर्
+</details>
+
+
+
+<details><summary>टीका - ८६२।७</summary>
+
+तेवरीरैक् किट्ट उज्जीविक्कप्पॆऱलागुमॆऩ्ऱु (महरिषिगळ्) सॊल्लानिऩ्ऱऩर्;
+</details>
+
+
+
+<details open><summary>मूलम् - ८६२।८</summary>
+
+आदलाल्
+</details>
+
+
+
+<details><summary>टीका - ८६२।८</summary>
+
+आगैयाले
+</details>
+
+
+
+<details open><summary>मूलम् - ८६२।९</summary>
+
+ऎम् माय!
+</details>
+
+
+
+<details><summary>टीका - ८६२।९</summary>
+
+ऎम्बॆरुमाऩै!
+</details>
+
+
+
+<details open><summary>मूलम् - ८६२।१०</summary>
+
+ञाऩम् नादऩै
+</details>
+
+
+
+<details><summary>टीका - ८६२।१०</summary>
+
+सर्वलोग सम्रक्षगऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८६२।११</summary>
+
+नायिऩेऩ्
+</details>
+
+
+
+<details><summary>टीका - ८६२।११</summary>
+
+अडियेऩ् पण्णिऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८६२।१२</summary>
+
+सॆय्द कुऱ्‌ऱम्
+</details>
+
+
+
+<details><summary>टीका - ८६२।१२</summary>
+
+कुऱ्‌ऱङ्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८६२।१३</summary>
+
+नऱ्‌ऱम् आगवे कॊळ्
+</details>
+
+
+
+<details><summary>टीका - ८६२।१३</summary>
+
+कुणमागवे कॊळ्ळल् वेण्डुम्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८६३।१</summary>
+
+नाळ्गळ्
+</details>
+
+
+
+<details><summary>टीका - ८६३।१</summary>
+
+तिऩङ्गळाऩवै
+</details>
+
+
+
+<details open><summary>मूलम् - ८६३।२</summary>
+
+वाळ्गळ् आगि सॆल्ल
+</details>
+
+
+
+<details><summary>टीका - ८६३।२</summary>
+
+(नमदु आयुळै अऱुक्कुम्) वाळ्गळ्बोऩ्ऱु कऴिय
+</details>
+
+
+
+<details open><summary>मूलम् - ८६३।३</summary>
+
+नोय्मै
+</details>
+
+
+
+<details><summary>टीका - ८६३।३</summary>
+
+पलवगै वियादिगळाले
+</details>
+
+
+
+<details open><summary>मूलम् - ८६३।४</summary>
+
+कुऩ्ऱि
+</details>
+
+
+
+<details><summary>टीका - ८६३।४</summary>
+
+उडल् पलक्कुऱैबट्टु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६३।५</summary>
+
+मूप्पु ऎय्दि
+</details>
+
+
+
+<details><summary>टीका - ८६३।५</summary>
+
+किऴत्तऩमुम् वन्दु सेर्न्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६३।६</summary>
+
+माळुम् नाळ् अदु
+</details>
+
+
+
+<details><summary>टीका - ८६३।६</summary>
+
+मरणमडैवदोर् नाळ् नॆरुङ्गिविट्टदु;
+</details>
+
+
+
+<details open><summary>मूलम् - ८६३।७</summary>
+
+आदलाल्
+</details>
+
+
+
+<details><summary>टीका - ८६३।७</summary>
+
+म्रुत्युगालम् कुऱुगिविट्टबडियाल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६३।८</summary>
+
+ऎऩ् नॆञ्जमे
+</details>
+
+
+
+<details><summary>टीका - ८६३।८</summary>
+
+ऎऩदु मऩमे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८६३।९</summary>
+
+आऩदु नऩ्मै आगुम् ऎऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८६३।९</summary>
+
+ऎम्बॆरुमाऩुक्कु आट्पट्टिरुप्पदे नऩ्मैयॆऩ्ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६३।१०</summary>
+
+नऩ्गु उणर्न्दु
+</details>
+
+
+
+<details><summary>टीका - ८६३।१०</summary>
+
+त्रुडमाऩ अत्यवसायङ्गॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६३।११</summary>
+
+वणङ्गि वाऴ्त्तु
+</details>
+
+
+
+<details><summary>टीका - ८६३।११</summary>
+
+(अव्वॆम्बॆरुमाऩैत्) तॊऴुदु एत्तुवायागा;
+</details>
+
+
+
+<details open><summary>मूलम् - ८६३।१२</summary>
+
+अदु अऩ्ऱियुम्
+</details>
+
+
+
+<details><summary>टीका - ८६३।१२</summary>
+
+अदऱ्‌कु मेले
+</details>
+
+
+
+<details open><summary>मूलम् - ८६३।१३</summary>
+
+माल पादमे
+</details>
+
+
+
+<details><summary>टीका - ८६३।१३</summary>
+
+अप्पॆरुमाऩुडैय तिरुवडिगळे
+</details>
+
+
+
+<details open><summary>मूलम् - ८६३।१४</summary>
+
+मीळ्वु इलाद पोगम्
+</details>
+
+
+
+<details><summary>टीका - ८६३।१४</summary>
+
+मऱुबडि तिरुम्बि वरुदलिल्लाद नित्यबोगत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८६३।१५</summary>
+
+नल्ग वेण्डुम्
+</details>
+
+
+
+<details><summary>टीका - ८६३।१५</summary>
+
+अळिक्कक्कडवदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।१</summary>
+
+नॆञ्जमे!
+</details>
+
+
+
+<details><summary>टीका - ८६४।१</summary>
+
+ऎऩ्मऩमे
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।२</summary>
+
+वाऴि
+</details>
+
+
+
+<details><summary>टीका - ८६४।२</summary>
+
+उऩक्कुप् पल्लाण्डु, (नाऩ् सॊल्वदैक् कुऱिक्कोळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।३</summary>
+
+सलम् कलन्द सॆंसडै
+</details>
+
+
+
+<details><summary>टीका - ८६४।३</summary>
+
+कङ्गै नीरोडु वडिऩ सिवन्द जडैयैयुडैवऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।४</summary>
+
+कऱुत्त कण्डऩ्
+</details>
+
+
+
+<details><summary>टीका - ८६४।४</summary>
+
+(विषत्तिऩाल्) कऱुत्त कऴुत्तैयुडैयऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।५</summary>
+
+पुलऩ् कलङ्ग
+</details>
+
+
+
+<details><summary>टीका - ८६४।५</summary>
+
+सर्व इन्दिरियङ्गळुम् कलङ्गुमाऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।६</summary>
+
+वॆण्दलै
+</details>
+
+
+
+<details><summary>टीका - ८६४।६</summary>
+
+वॆळुत्तुप्पोऩ कबालत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।७</summary>
+
+उण्ड
+</details>
+
+
+
+<details><summary>टीका - ८६४।७</summary>
+
+पिच्चैवाङ्गियुण्डु जीवित्त
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।८</summary>
+
+पादगत्ताऩ्
+</details>
+
+
+
+<details><summary>टीका - ८६४।८</summary>
+
+कोरमादगियुळ्ळ सिवबिराऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।९</summary>
+
+वऩ्दुयर्गॆट्
+</details>
+
+
+
+<details><summary>टीका - ८६४।९</summary>
+
+वलिदाऩ तुक्कम् तीरुम्बडि
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।१०</summary>
+
+अलङ्गल्
+</details>
+
+
+
+<details><summary>टीका - ८६४।१०</summary>
+
+तिरुत्तुऴाय् मालैयैयणिन्द
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।११</summary>
+
+मार्विल्
+</details>
+
+
+
+<details><summary>टीका - ८६४।११</summary>
+
+तिरुमार्बिऩिऩ्ऱुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।१२</summary>
+
+वासम् नीर्
+</details>
+
+
+
+<details><summary>टीका - ८६४।१२</summary>
+
+तिव्यबरिमळमाऩ तीर्त्तत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।१३</summary>
+
+कॊडुत्तवऩ्
+</details>
+
+
+
+<details><summary>टीका - ८६४।१३</summary>
+
+अवऩुक्कु प्रसादित्तरुळि
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।१४</summary>
+
+अडुत्त सीर्
+</details>
+
+
+
+<details><summary>टीका - ८६४।१४</summary>
+
+ऎऩ्ऱुंविट्टु नीङ्गाद तिरुक्कल्याण कुणङ्गळैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।१५</summary>
+
+नलम्गॊळ् मालै
+</details>
+
+
+
+<details><summary>टीका - ८६४।१५</summary>
+
+आनन्दमयऩाऩ ऎम्बॆरुमाऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।१६</summary>
+
+कण्णुम् वण्णम्
+</details>
+
+
+
+<details><summary>टीका - ८६४।१६</summary>
+
+अणुगुम् वऴियागिऱ अवऩदु तिरुवरुळैये
+</details>
+
+
+
+<details open><summary>मूलम् - ८६४।१७</summary>
+
+ऎण्णु
+</details>
+
+
+
+<details><summary>टीका - ८६४।१७</summary>
+
+अनुसन्दित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।१</summary>
+
+ऎऩ् नॆञ्जमे
+</details>
+
+
+
+<details><summary>टीका - ८६५।१</summary>
+
+ऎऩदु मऩमे
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।२</summary>
+
+ईऩम् आय
+</details>
+
+
+
+<details><summary>टीका - ८६५।२</summary>
+
+(अऱिवुक्कुक्) कुऱैवै विळैक्कवल्ल
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।३</summary>
+
+ऎट्टुम्
+</details>
+
+
+
+<details><summary>टीका - ८६५।३</summary>
+
+अवित्यै। करुमम्, वासगा, रुसि, पिरगिरुदि सम्बन्दम्, ताब त्रयम् आगिय ऎट्टैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।४</summary>
+
+नीक्कि
+</details>
+
+
+
+<details><summary>टीका - ८६५।४</summary>
+
+पोक्कि
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।५</summary>
+
+एदम् इऩ्ऱि
+</details>
+
+
+
+<details><summary>टीका - ८६५।५</summary>
+
+संसार तुक्कङ्गळॆल्लाम् पोय्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।६</summary>
+
+मीदु पोय्
+</details>
+
+
+
+<details><summary>टीका - ८६५।६</summary>
+
+(अर्सिरादि मार्क्कत्ताले लीला विबूदिक्कु) मेले सॆऩ्ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।७</summary>
+
+वाऩम्
+</details>
+
+
+
+<details><summary>टीका - ८६५।७</summary>
+
+परमबदत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।८</summary>
+
+आळविल्लै नूल्
+</details>
+
+
+
+<details><summary>टीका - ८६५।८</summary>
+
+अनुबविक्क वेण्डियिरुन्दायागिल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।९</summary>
+
+ञाऩम् आगि
+</details>
+
+
+
+<details><summary>टीका - ८६५।९</summary>
+
+आत्मञाऩत्तै यळिप्पवऩायुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।१०</summary>
+
+ञायिऱु आगि
+</details>
+
+
+
+<details><summary>टीका - ८६५।१०</summary>
+
+सूरियऩैप्पोले इन्दिय ञाऩत्तै अळिप्पवऩायुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।११</summary>
+
+एऩम् मूर्त्तिआय्
+</details>
+
+
+
+<details><summary>टीका - ८६५।११</summary>
+
+महा वराहमूर्त्तियाय्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।१२</summary>
+
+ञालम् मुऱ्‌ऱुम्
+</details>
+
+
+
+<details><summary>टीका - ८६५।१२</summary>
+
+पूमि मुऴुवदैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।१३</summary>
+
+ओर् ऎयिऱु
+</details>
+
+
+
+<details><summary>टीका - ८६५।१३</summary>
+
+ऒरु कोट्टिऩाले
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।१४</summary>
+
+इडन्द
+</details>
+
+
+
+<details><summary>टीका - ८६५।१४</summary>
+
+अण्डबित्तियिल् निऩ्ऱुम् ऒट्टु विडुवित्तॆडुत्तु रक्षित्त
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।१५</summary>
+
+ऎन्दै
+</details>
+
+
+
+<details><summary>टीका - ८६५।१५</summary>
+
+ऎम्बॆरुमाऩदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।१६</summary>
+
+पादम्
+</details>
+
+
+
+<details><summary>टीका - ८६५।१६</summary>
+
+तिरुवडिगळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।१७</summary>
+
+ऎण्णि
+</details>
+
+
+
+<details><summary>टीका - ८६५।१७</summary>
+
+सिन्दित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।१८</summary>
+
+वणङ्गि
+</details>
+
+
+
+<details><summary>टीका - ८६५।१८</summary>
+
+नमस्करित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६५।१९</summary>
+
+वाऴ्त्तु
+</details>
+
+
+
+<details><summary>टीका - ८६५।१९</summary>
+
+तुदिक्कक्कडवै
+</details>
+
+
+
+<details open><summary>मूलम् - ८६६।१</summary>
+
+मुत्तऩार्
+</details>
+
+
+
+<details><summary>टीका - ८६६।१</summary>
+
+संसार सम्बन्दमिल्लादवरुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६६।२</summary>
+
+मुगुन्दऩार्
+</details>
+
+
+
+<details><summary>टीका - ८६६।२</summary>
+
+मोक्षबूमियै अळिप्पवरुमाऩ पॆरुयामऩ्;
+</details>
+
+
+
+<details open><summary>मूलम् - ८६६।३</summary>
+
+ऒत्तु ऒव्वाद  पल् पिऱप्पु ऒऴित्तु
+</details>
+
+
+
+<details><summary>टीका - ८६६।३</summary>
+
+ञाऩमुडैमैयाल् ऒत्तुम् योनिबेदत्ताल् ऒव्वामलुमिरुक्किऱ पलवगैप्पट्ट पिऱविगळैप्पोक्कि
+</details>
+
+
+
+<details open><summary>मूलम् - ८६६।४</summary>
+
+नम्मै आट्कॊळ्वाळ्
+</details>
+
+
+
+<details><summary>टीका - ८६६।४</summary>
+
+नम्मै अडिमै कॊळ्वदऱ्‌काग
+</details>
+
+
+
+<details open><summary>मूलम् - ८६६।५</summary>
+
+अत्तऩ् आगि
+</details>
+
+
+
+<details><summary>टीका - ८६६।५</summary>
+
+पिदावायुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६६।६</summary>
+
+अऩ्ऩै आगि
+</details>
+
+
+
+<details><summary>टीका - ८६६।६</summary>
+
+मादावयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६६।७</summary>
+
+आळुम् ऎम्बिराऩुम् आय्
+</details>
+
+
+
+<details><summary>टीका - ८६६।७</summary>
+
+अडिमैगॊळ्ळुम् स्वामियायुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६६।८</summary>
+
+नम्मुऩ्
+</details>
+
+
+
+<details><summary>टीका - ८६६।८</summary>
+
+नम्मिडत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८६६।९</summary>
+
+पुगुन्दु मेविऩार्
+</details>
+
+
+
+<details><summary>टीका - ८६६।९</summary>
+
+पुगुन्दु ऒरु नीरागप् पॊरुन्दिऩार्; (आऩबिऩ्बु)
+</details>
+
+
+
+<details open><summary>मूलम् - ८६६।१०</summary>
+
+एऴै नॆञ्जमे
+</details>
+
+
+
+<details><summary>टीका - ८६६।१०</summary>
+
+मदिगॆट्ट मऩमे
+</details>
+
+
+
+<details open><summary>मूलम् - ८६६।११</summary>
+
+ऎत्तिऩाल्
+</details>
+
+
+
+<details><summary>टीका - ८६६।११</summary>
+
+ऎदुक्काग
+</details>
+
+
+
+<details open><summary>मूलम् - ८६६।१२</summary>
+
+इडर् कडल्
+</details>
+
+
+
+<details><summary>टीका - ८६६।१२</summary>
+
+तुक्कसागरत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८६६।१३</summary>
+
+किडत्ति
+</details>
+
+
+
+<details><summary>टीका - ८६६।१३</summary>
+
+अऴुन्दिक् किडक्किऱाय्।
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।१</summary>
+
+माऱु सॆय्द
+</details>
+
+
+
+<details><summary>टीका - ८६७।१</summary>
+
+ऎदिरिट्ट
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।२</summary>
+
+वाळ् अरसर्गळ्
+</details>
+
+
+
+<details><summary>टीका - ८६७।२</summary>
+
+आयुदबाणियाऩ इरावणऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।३</summary>
+
+नाळ् उवप्प
+</details>
+
+
+
+<details><summary>टीका - ८६७।३</summary>
+
+वाऴ्नाळ् मुडियुम्बडियाग
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।४</summary>
+
+अऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८६७।४</summary>
+
+मुऱ्‌कालत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।५</summary>
+
+इलङ्गै
+</details>
+
+
+
+<details><summary>टीका - ८६७।५</summary>
+
+लङ्गाबुरियै
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।६</summary>
+
+सॆऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८६७।६</summary>
+
+अडैन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।७</summary>
+
+नीऱु सॆय्दु
+</details>
+
+
+
+<details><summary>टीका - ८६७।७</summary>
+
+नीऱाक्कि
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।८</summary>
+
+कॊऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८६७।८</summary>
+
+अवऩैक् कॊऩ्ऱु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।९</summary>
+
+वॆऱ्‌ऱि कॆणण्ड
+</details>
+
+
+
+<details><summary>टीका - ८६७।९</summary>
+
+जयम्बॆऱ्‌ऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।१०</summary>
+
+वीरऩार्
+</details>
+
+
+
+<details><summary>टीका - ८६७।१०</summary>
+
+महावीरराऩ पॆरुमाळ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।११</summary>
+
+ऎऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ८६७।११</summary>
+
+अडियेऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।१२</summary>
+
+तम्मुळ् वेऱु  सॆय्दु वैत्तिडामैयाल्
+</details>
+
+
+
+<details><summary>टीका - ८६७।१२</summary>
+
+तम्मिल् वेऱुबडुत्ति वैक्कामैयिऩाल् (ऎऩ्ऩै अन्दरङ्ग पूदऩागक् कॊण्डरुळिऩबडियाल् ) (इऩि)
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।१३</summary>
+
+नमऩ्
+</details>
+
+
+
+<details><summary>टीका - ८६७।१३</summary>
+
+यमऩाऩवऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।१४</summary>
+
+कूऱुसॆय्दु कॊण्डु
+</details>
+
+
+
+<details><summary>टीका - ८६७।१४</summary>
+
+(ऎऩ्ऩै अम्बॆरुमाऩिडत्तिऩिऩ्ऱुम्) पिरित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।१५</summary>
+
+इऱन्द कुऱ्‌ऱम्
+</details>
+
+
+
+<details><summary>टीका - ८६७।१५</summary>
+
+नाऩ् सॆय्दु कऴित्त पावङ्गळै
+</details>
+
+
+
+<details open><summary>मूलम् - ८६७।१६</summary>
+
+ऎऩ्ऩ वल्लऩे
+</details>
+
+
+
+<details><summary>टीका - ८६७।१६</summary>
+
+नॆञ्जालुम् निऩैक्कक् कडवऩो।
+</details>
+
+
+
+<details open><summary>मूलम् - ८६८।१</summary>
+
+अच्चम्
+</details>
+
+
+
+<details><summary>टीका - ८६८।१</summary>
+
+पयमॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८६८।२</summary>
+
+नोयोडु अल्ललि
+</details>
+
+
+
+<details><summary>टीका - ८६८।२</summary>
+
+वियादियोडु कूडिऩ मगो वियादियॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८६८।३</summary>
+
+अवायम् मूप्पु
+</details>
+
+
+
+<details><summary>टीका - ८६८।३</summary>
+
+अबायङ्गळुक्कु इडमाऩ किऴत्तऩमॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८६८।४</summary>
+
+पल् पिऱप्पु
+</details>
+
+
+
+<details><summary>टीका - ८६८।४</summary>
+
+पलवगैप् पिऱप्पुगळॆऩ्ऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८६८।५</summary>
+
+इवै
+</details>
+
+
+
+<details><summary>टीका - ८६८।५</summary>
+
+आगिय इवऱ्‌ऱैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६८।६</summary>
+
+वैत्त सिन्दै
+</details>
+
+
+
+<details><summary>टीका - ८६८।६</summary>
+
+इवऱ्‌ऱै यऩुबविप्पदऱ्‌कागक् कण्ड नॆञ्जैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६८।७</summary>
+
+वैत्त आक्कै
+</details>
+
+
+
+<details><summary>टीका - ८६८।७</summary>
+
+कीऴ्सॊऩ्ऩवऱ्‌ऱुक्कु आच्रमागक् कण्ड सरीरत्तैयुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६८।८</summary>
+
+माऱ्‌ऱि
+</details>
+
+
+
+<details><summary>टीका - ८६८।८</summary>
+
+पोक्कडित्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६८।९</summary>
+
+वाऩिल्
+</details>
+
+
+
+<details><summary>टीका - ८६८।९</summary>
+
+(नम्मैप् श्रीबरमबदत्तिले कॊण्डु सेर्प्पवऩ् (आरॆऩ्ऩिल्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८६८।१०</summary>
+
+अच्चुदऩ्
+</details>
+
+
+
+<details><summary>टीका - ८६८।१०</summary>
+
+अडियारै ऒरुनाळुम् कैविडादवऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६८।११</summary>
+
+अऩन्द कीर्त्ति
+</details>
+
+
+
+<details><summary>टीका - ८६८।११</summary>
+
+ऎल्लैयिल्ला कीर्त्तिगळैयुडैयवऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६८।१२</summary>
+
+आदि अन्दम् इल्लवऩ्
+</details>
+
+
+
+<details><summary>टीका - ८६८।१२</summary>
+
+मुदलुम् मुडिवुम् मिल्लादवऩुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६८।१३</summary>
+
+नञ्जु नाग अणै किडन्द नादऩै
+</details>
+
+
+
+<details><summary>टीका - ८६८।१३</summary>
+
+(विरोदिगळ्मीदु) विषत्तै उमिऴ्गिऩ्ऱ आसिदेषऩागिऱ सयऩत्तिले किडन्दरुळुम् स्वामियुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६८।१४</summary>
+
+वेद कीदम्
+</details>
+
+
+
+<details><summary>टीका - ८६८।१४</summary>
+
+वेदङ्गळिऩाल् पिरदिबादिक्कप्पट्टदुमाऩ पॆरुमाऩाम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६९।१</summary>
+
+वल्लि नाळ् मलर् किऴत्तिनाद!
+</details>
+
+
+
+<details><summary>टीका - ८६९।१</summary>
+
+पडर्न्द सॆव्वित् तामरैप्पूविले पिऱन्द पिराट्टिक्कु नादऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८६९।२</summary>
+
+उळ्ळम्
+</details>
+
+
+
+<details><summary>टीका - ८६९।२</summary>
+
+ऎऩदु नॆञ्जाऩदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६९।३</summary>
+
+सॊल्लिऩुम्
+</details>
+
+
+
+<details><summary>टीका - ८६९।३</summary>
+
+वाक्किलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६९।४</summary>
+
+तॊऴिल् कणुम्
+</details>
+
+
+
+<details><summary>टीका - ८६९।४</summary>
+
+कायिगव्यबारङ्गळिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६९।५</summary>
+
+तॊडक्कु अऱाद अऩ्बिऩुम्
+</details>
+
+
+
+<details><summary>टीका - ८६९।५</summary>
+
+पिच्चेदमऱ्‌ऱ अऩ्बिलुम् (ऒरुबडिप्पट्टु)
+</details>
+
+
+
+<details open><summary>मूलम् - ८६९।६</summary>
+
+अल्लिऩोडु आऩ मालैयुम्
+</details>
+
+
+
+<details><summary>टीका - ८६९।६</summary>
+
+रात्रियोडु कूडिऩ सायंसक् त्यैयिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६९।७</summary>
+
+नल् पगविऩोडु आऩ कालैयुम्
+</details>
+
+
+
+<details><summary>टीका - ८६९।७</summary>
+
+नल्ल अहस्सोडु कूडिय प्रादस् सन्द्यैयिलुम् (आग सर्वगालङ्गळिलुम्)
+</details>
+
+
+
+<details open><summary>मूलम् - ८६९।८</summary>
+
+पादम् पॊदिऩै
+</details>
+
+
+
+<details><summary>टीका - ८६९।८</summary>
+
+उऩ्ऩुडैय तिरुवडित् तामरैयै
+</details>
+
+
+
+<details open><summary>मूलम् - ८६९।९</summary>
+
+पुल्लि
+</details>
+
+
+
+<details><summary>टीका - ८६९।९</summary>
+
+अऩैत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६९।१०</summary>
+
+विळैवु इलादु
+</details>
+
+
+
+<details><summary>टीका - ८६९।१०</summary>
+
+(ऒरु नॊडिप्पॊऴुदुम्) विच्चेदमिल्लामल्
+</details>
+
+
+
+<details open><summary>मूलम् - ८६९।११</summary>
+
+पूण्डु
+</details>
+
+
+
+<details><summary>टीका - ८६९।११</summary>
+
+अत्तिरुवडिगळैये मेऱ्‌कॊण्डु
+</details>
+
+
+
+<details open><summary>मूलम् - ८६९।१२</summary>
+
+मीण्डदिल्लै
+</details>
+
+
+
+<details><summary>टीका - ८६९।१२</summary>
+
+निलैत्तु निऱ्‌किऩ्ऱदु।
+</details>
+
+
+
+<details open><summary>मूलम् - ८७०।१</summary>
+
+अरङ्गम्
+</details>
+
+
+
+<details><summary>टीका - ८७०।१</summary>
+
+तिरुवरङ्गत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८७०।२</summary>
+
+पॊऩ्ऩिसूऴ्
+</details>
+
+
+
+<details><summary>टीका - ८७०।२</summary>
+
+काविरिसूऴ्न्द
+</details>
+
+
+
+<details open><summary>मूलम् - ८७०।३</summary>
+
+मेय
+</details>
+
+
+
+<details><summary>टीका - ८७०।३</summary>
+
+नित्यवासम् सॆय्दरुळ्गिऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८७०।४</summary>
+
+पूवै वण्ण
+</details>
+
+
+
+<details><summary>टीका - ८७०।४</summary>
+
+कायम्बूप्पोऩ्ऱ तिरुमेऩियैयुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८७०।५</summary>
+
+माय!
+</details>
+
+
+
+<details><summary>टीका - ८७०।५</summary>
+
+आच्चर्यबूदराऩ पॆरिय पॆरुमाऩे!
+</details>
+
+
+
+<details open><summary>मूलम् - ८७०।६</summary>
+
+केळ्
+</details>
+
+
+
+<details><summary>टीका - ८७०।६</summary>
+
+(इव्विण्णप्पत्तैक्) केट्टरुळ वेणुम्;
+</details>
+
+
+
+<details open><summary>मूलम् - ८७०।७</summary>
+
+ऎऩ्ऩदु
+</details>
+
+
+
+<details><summary>टीका - ८७०।७</summary>
+
+ऎऩ्ऩुडैयदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८७०।८</summary>
+
+आवि ऎऩ्ऩुम्
+</details>
+
+
+
+<details><summary>टीका - ८७०।८</summary>
+
+आत्मा ऎऩ्गिऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८७०।९</summary>
+
+वल्विऩैयिऩुळ्
+</details>
+
+
+
+<details><summary>टीका - ८७०।९</summary>
+
+वलिय पाबरासियिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८७०।१०</summary>
+
+कॊऴुन्दु ऎऴुन्दु उळ्ळ
+</details>
+
+
+
+<details><summary>टीका - ८७०।१०</summary>
+
+(तेवरीर् विषयमाऩ अनुरागमागिऱ) कॊऴुन्दु किळर्न्दु  उळ्ळ तेवरीरुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८७०।११</summary>
+
+पादऴ् ऎऩ्ऩ निऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८७०।११</summary>
+
+तिरुवडियॆऩ्गिऱ
+</details>
+
+
+
+<details open><summary>मूलम् - ८७०।१२</summary>
+
+ऒण्सुडर् कॊऴुमलर्
+</details>
+
+
+
+<details><summary>टीका - ८७०।१२</summary>
+
+अऴगिय सुडर्मिक्क पुष्पत्तिले
+</details>
+
+
+
+<details open><summary>मूलम् - ८७०।१३</summary>
+
+मऩ्ऩवन्दु पूण्डु
+</details>
+
+
+
+<details><summary>टीका - ८७०।१३</summary>
+
+स्तिरमाग वन्दु पडिन्दु
+</details>
+
+
+
+<details open><summary>मूलम् - ८७०।१४</summary>
+
+ऎङ्गुम्
+</details>
+
+
+
+<details><summary>टीका - ८७०।१४</summary>
+
+तेवरीरुडैय विबूदिगळ् ऎल्लावऱ्‌ऱिलुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८७०।१५</summary>
+
+वाट्टम् इऩ्ऱि निऩ्ऱदु।
+</details>
+
+
+
+<details><summary>टीका - ८७०।१५</summary>
+
+कुऱैयामल् वियाबिया निऩ्ऱदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।१</summary>
+
+उयक्कॊळ्
+</details>
+
+
+
+<details><summary>टीका - ८७१।१</summary>
+
+(नम्बोल्वारै) उज्जीविक्कच् चॆय्बवऩाऩ
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।२</summary>
+
+मेगवण्णऩ्
+</details>
+
+
+
+<details><summary>टीका - ८७१।२</summary>
+
+काळमेग निबच्यामऩाऩ पॆरुमाऩ्
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।३</summary>
+
+इऩ्ऱु
+</details>
+
+
+
+<details><summary>टीका - ८७१।३</summary>
+
+इऩ्ऱैक्कु (निर्हेदगमाग)
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।४</summary>
+
+इयक्कु अऱाद पल् पिऱप्पिल्
+</details>
+
+
+
+<details><summary>टीका - ८७१।४</summary>
+
+तॊडर्च्चिमाऱामल् नॆडुगच् चॆल्लुम्बडियाऩ पलवगैप् पिऱप्पुगळिऩिऩ्ऱुम्
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।५</summary>
+
+ऎऩ्ऩै
+</details>
+
+
+
+<details><summary>टीका - ८७१।५</summary>
+
+अडियेऩै
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।६</summary>
+
+माऱ्‌ऱि
+</details>
+
+
+
+<details><summary>टीका - ८७१।६</summary>
+
+माऱ्‌ऱुगैक्कुत् तिरुवुळ्ळम् पऱ्‌ऱि
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।७</summary>
+
+वन्दु नण्णि
+</details>
+
+
+
+<details><summary>टीका - ८७१।७</summary>
+
+इङ्गेयॆऴुन्दरुळि नॆरुङ्गि
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।८</summary>
+
+तऩ्ऩिल् आय ऎऩ्ऩुळ्
+</details>
+
+
+
+<details><summary>टीका - ८७१।८</summary>
+
+तऩ्ऩोडु अविगाबूदमाऩ ऎऩ्ऩुळ्ळे
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।९</summary>
+
+तऩ्
+</details>
+
+
+
+<details><summary>टीका - ८७१।९</summary>
+
+तऩ्ऩुडैय
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।१०</summary>
+
+मऩ्ऩुसोदि
+</details>
+
+
+
+<details><summary>टीका - ८७१।१०</summary>
+
+नित्य ज्योदिर्मयमाऩ तिव्य मङ्गळ विक्रहत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।११</summary>
+
+मयक्किऩाऩ्
+</details>
+
+
+
+<details><summary>टीका - ८७१।११</summary>
+
+सम्च्लेषिप्पित्ताऩ्!
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।१२</summary>
+
+आदलाल्
+</details>
+
+
+
+<details><summary>टीका - ८७१।१२</summary>
+
+इप्पडि पुरैयाऱक् कलन्दरुळुगैयाले
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।१३</summary>
+
+ऎऩ् आवि ताऩ्
+</details>
+
+
+
+<details><summary>टीका - ८७१।१३</summary>
+
+ऎऩदु आत्म वस्तुवाऩदु
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।१४</summary>
+
+इयक्कु ऎल्लाम् अऱुत्तु
+</details>
+
+
+
+<details><summary>टीका - ८७१।१४</summary>
+
+ऒऩ्ऱोडॊऩ्ऱु  इणैन्दु किडन्द अवित्यादिगळै वेरऱुत्तु
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।१५</summary>
+
+अऱाद इऩ्बम् वीडु:
+</details>
+
+
+
+<details><summary>टीका - ८७१।१५</summary>
+
+ऒरुनाळुम् मुडियाद इऩ्बमागिय मोक्षसुगत्तै
+</details>
+
+
+
+<details open><summary>मूलम् - ८७१।१६</summary>
+
+पॆऱ्‌ऱदु
+</details>
+
+
+
+<details><summary>टीका - ८७१।१६</summary>
+
+पॆऱ्‌ऱादयिऱ्‌ऱु
+</details>
+
