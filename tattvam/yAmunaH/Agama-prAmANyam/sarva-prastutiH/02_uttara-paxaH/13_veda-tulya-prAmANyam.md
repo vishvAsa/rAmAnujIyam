@@ -46,6 +46,13 @@ it becomes optional beside 89 scripture;
 and optionality is deficient in the case of the Tantras by eight defects. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Tantravārtika, pp. 89-90.
+Cf. Tantraśuddha, pp. 11-12:
+
+> “व्रीहिभिर् यजेत”, “यवैर् यजेत” इत्य् उभयम् अपि वाक्यं प्रमाणम् । तत्र व्रीहि-वाक्याश्रयणे यव-वाक्यम् अनाश्रयणीयं भवति । अश्यक्यत्वात् युगपत् उभयानुष्ठानस्य । तत्र प्राप्तं यव-वाक्य-गतं प्रामाण्यं विना कारणेनापह्नुतव्यम्; अप्रामाण्यस्य प्रमाणत्वं षष्ठ-गोचर-कल्पम् अभाव-प्रमाणावसेयम् अङ्गीकर्तव्यम्; एवम् अपि केनापि हेतुना प्रयोग-साधनत्वेन यवाभ्युपगमे पूर्वम् अपाश्रय्य[[??]] प्रामाण्यस्य पुनर् आश्रयणीयत्वम्; तन्-निरासेनाङ्गीकृतस्य अप्रामाण्यस्य पुनः परित्याग इति चत्वारो दोषा एकस्मिन् वाक्ये प्रसज्यन्ते । द्वितीये ऽपि प्राप्त-परित्यागो ऽप्राप्ताश्रयणं परित्यक्तोपादानं यत् आनीतस्य परित्याग इति चत्वारो दोषाः । तथा ऽपि तुल्य-बलत्वात् गत्य्-अन्तराभावाच् च व्रीहि-यवयोर् विकल्प आश्रितः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -67,6 +74,14 @@ for instance: "He must sacrifice with rice,"
 beside "he must sacrifice with barley." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘क्वचित्’ = वेद-वाक्ये
+
+व्रीहिभिर्यजेत ... Āpastamba Śrautasūtra, VI. 3.1.13.
+
+यवैर्यजेत ... To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -86,6 +101,10 @@ In the latter case it is impossible to eliminate one or the other
 because both ~~neither~~ of these statements is characterized by independence. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अनपेक्षत्वाविशिष्टत्वात् = अपौरुषेयत्वात् ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -143,6 +162,10 @@ So how can they be alternatives and optional?
 109\. REFUTATION. Listen: because Pañcarātra too is independent.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘निरपेक्षत्वात्’, वचनान्तर-मूलान्तर-निरपेक्षत्वात् ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -216,10 +239,17 @@ nothing else is required for this statement to be informative,
 because the meaning of the words has already become known from other contexts. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+चक्रवर्त्युपचारेण ... To be identified.
+
+व्युत्पत्ति-ग्रहणं विना अन्यत् किम् अपि नापेक्षत इति भावः।
+
+</details>
 
 <details><summary>मूलम्</summary>
 
-न खलु चक्रवर्त्त्युपचारेण भगवन्तं समर्चयेदितीदं वचनं श्रूयमाणं बोधकत्वाय किञ्चिदपेक्षते अन्यत्र व्युत्पत्तिग्रहणात्, 
+न खलु चक्रवर्त्युपचारेण भगवन्तं समर्चयेदितीदं वचनं श्रूयमाणं बोधकत्वाय किञ्चिदपेक्षते अन्यत्र व्युत्पत्तिग्रहणात्, 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -335,6 +365,15 @@ this is learnt solely from the Sastra itself.
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Ahirbudhnya Saṁhitā ch. XV:
+
+> पाञ्चकालिकम् अच्छिद्रं कुर्वाणः शत-वार्षिकम्॥ [15b]  
+क्षेत्र-ज्ञं सर्व-भूतानां वासुदेवं विशन्ति ते॥ [17b]  
+पञ्च-काल-रतो नित्यं दया-क्षान्ति-धृति-स्थितिः॥ [49b]  
+प्राप्त-वेदान्त-विज्ञानो वैष्णवं श्रयते पदम्॥ [53b]
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -428,6 +467,10 @@ because (its defectlessness) is already known."229
 [229]: ślokavārttika, 2.6 7 ab.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ślokavārtika under I.i.2, śl. 67a.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -462,6 +505,10 @@ they are helpful by merely existing."
 [230]: ib. 2.67 cd.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ibid. 67b.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -508,6 +555,11 @@ As they say,
 > "Action proceeds on the basis of recollection and desire." 
 
 [231]: not identified.
+</details>
+
+<details><summary>मूलम्</summary>
+
+To be identified.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -590,6 +642,10 @@ therefore its validity cannot be questioned."\*\*"
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ślokavārtika under I.i.2, śl. 68.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -615,6 +671,10 @@ therefore its validity cannot be questioned."\*\*"
 REFUTATION. Why, in the case of Pañcarátra too no question can arise about its validity, since the absence of defects is easily proved by the fact that the omniscient and omnipotent God is its speaker; so the argument is the same.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The similarity of status between the Vedas and the Āgamas, according to Yāmuna, lies in the fact that both of them are understood to be free from the defects that generally stand in their way. The way in which this ‘faultlessness’ is understood, however, differs between the Vedas and the Āgamas. As regards the Vedic texts, there being no author (apauruṣeya), there is no question of any defect ever appearing at all. As regards the Pañcarātrāgamas too, there could be no question of any defect ever arising, on the ground that they are the direct utterances of Vāsudeva, the Omniscient Supreme Lord of the Universe. This is what Yāmuna explains in the succeeding para: “etaduktaṁ bhavati” etc.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -890,6 +950,10 @@ For there exists a strong transmission of the recollection, extending to women a
 So great a faith do people have in His authorship that they erect monuments according to the precepts of Pañcarātra, donating elephants, horses and great wealth in various fees, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+For pratiṣṭhā-rite, see Sāttvatasaṁhitā Ch. XXV and Jayākhyasaṁhitā, paṭala 16.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -899,7 +963,7 @@ So great a faith do people have in His authorship that they erect monuments acco
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एसाङ्ख्यस्य कपिलो वक्ता  
+साङ्ख्यस्य कपिलो वक्ता  
 पञ्चरात्रस्य केशवः ॥  
 इति स्कन्दपुराणेऽपि  
 पठ्यते भारते तथा ।  
@@ -910,10 +974,26 @@ So great a faith do people have in His authorship that they erect monuments acco
 In the Skanda Purana it is said that "Kapila is the promulgator of Samkhya, Kesava of Pañcaratra." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+साङ्ख्यस्य ... To be identified. See Tantraśuddha, p.22, for the second half of this verse:
+
+> वक्ता पञ्च-पदार्थानां साक्षात् देवो महेश्वरः॥
+
+Cf. Mahābhārata, XII. 337.60a:
+
+> साङ्ख्यस्य वक्ता कपिलः परमर्षिस् स उच्यते ।
+
+भारते ...  
+
+> The Nārāyaṇīya section of the Mahābhārata ( XII. chs. 334-348 ) is valuable as it is the only fairly full account of the Pāñcarātra doctrines that we possess in original Sanskrit....All the bhakti-writers from Rāmānuja down to the present day, assume the reader's familiarity with the principles inculcated therein. 
+
+[ See G. A. Grierson, “The Nārāyaṇīya and the Bhāgavatas”, The Indian Antiquary, vol. 37, pp. 261-62. ]
+</details>
 
 <details><summary>मूलम्</summary>
 
-एसाङ्ख्यस्य कपिलो वक्ता  
+साङ्ख्यस्य कपिलो वक्ता  
 पञ्चरात्रस्य केशवः ॥  
 इति स्कन्दपुराणेऽपि  
 पठ्यते भारते तथा ।  
@@ -934,6 +1014,28 @@ Likewise in the Mahabharata:
 
 > "Narayana Himself is the promulgator of the entire Pañcaratra.  
 This great Upanisada, consistent with the four Vedas,  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+पञ्चरात्रस्य ... Mahābhārata, XII. 337. 63a. Variant: वक्ता तु भगवान् स्वयम्। Also cf. ibid. śl. 63b-64a:
+
+> सर्वेषु च नृप-श्रेष्ठ ज्ञानेष्व् एतेषु दृश्यते ।॥  
+यथागमं यथा ज्ञानं निष्ठा नारायणः प्रभुः ।
+
+Quoting the line ‘पञ्च-रात्रस्य कृत्स्नस्य’ etc. in his Śrībhāṣya II. ii. 42 (p. 834), Rāmānuja says:
+
+> पञ्च-रात्रस्य कृत्स्नस्य वक्ता नारायणः स्वयम् इत्य् उक्तवान् । एवं वदतश् चायम् आशयः। पौरुषेयाणां हि तन्त्राणां परस्पर-विरुद्ध-वस्तु-वादितया, अपौरुषेयत्वेन निरस्त-प्रमादादि-निखिल-दोष-गन्ध-वेद्य-वस्तु-विरुद्धाभिधायित्वाच् च, यथावस्थित-वस्तुनि प्रामाण्यं दुर्लभम्। वेद-वेद्यश् च पर-ब्रह्म-भूतो नारायणः। अतः तत्-तन्त्राभिहित-प्रधान-पुरुष-पशु-पति-प्रभृति-तत्त्वस्य वेदान्त-वेद्य-पर-ब्रह्म-भूत-नारायणात्मकतयैव वस्तुत्वम् अभ्युपगमनीयम् इति। ... अतो वेदान्त-वेद्यः पर-ब्रह्म-भूतो नारायणः स्वयम् एव पञ्च-रात्रस्य कृत्स्नस्य वक्तेति, तत्--स्व-रूप--तद्-उपासनाभिधायि तत्-तन्त्रम् इति च तस्मिन्न्-इतर-तन्त्र-सामान्यं न केनचिद् उद्भावयितुं शक्यम्।
+
+इदं ... Mahābhārata, XII. 326, 100-101.
+
+Discussing the position of the Pañcarātra with reference to the Upaniṣads, Dr. D. L. De in his article “Pāñcarātra and the Upaniṣads” [ Indian Historical Quarterly, Vol. IX ], p.648, says:
+
+> The Upaniṣads, with no set theory of philosophy or dogmatic scheme of theology to propound, form the root of all the later religio-philosophic systems of the country.
+
+> It cannot be said definitely whether the Pāñcarātras confined themselves wholly to the contemporary Upaniṣads in the matter of borrowing. They borrowed probably from the contemporary Upaniṣads as well as from the pre-existing Upaniṣads. The Upaniṣads are the sources from which they drew most of their doctrines.
+
+For a detailed account of these borrowings, see ibid., pp.648-660.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -960,6 +1062,27 @@ has been taught to the sages by Narada
 as he had seen it and heard it in the abode of Brahma."
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+साङ्ख्ययोग ... See G.A. Grierson, Indian Antiquary, vol. 37, p. 261:
+
+> Nearly the whole Mokṣadharma-parvan consists lectures on Sāṅkhya-Yoga, together with attempts to reconcile it with Brahmaism. One system which results from the attempted reconciliation of these two opposite philosophies is attributed to Pañcaśikha and is explained at some length ...The Nārāyaṇīya, while claiming to describe Sāṅkhya-Yoga really describes the Bhāgavata monotheism as united with this system, but also with more of a Brahmaist colouring than we find in the Gītā.
+
+पञ्चरात्रानुशब्दितम् ... See ibid., p.258:
+
+> The Nārāyaṇīya sometimes alludes to the religion which it preaches as the doctrine of the Bhāgavatas, and sometimes as that of the Pāñcarātras. The two terms are not exactly synonymous, for the Pāñcarātras formed only one sect of the great Bhāgavata religion. Prof. R.G. Bhandarkar tells us that Dhruvasena I, one of the earliest princes of the Valabhi dynasty (C. 530 A.D.) is called a Bhāgavata, and Bāṇa (C. 600 A.D.) in the 8th chapter of the Harṣacarita mentions both the Bhāgavatas and the Pāñcarātras.
+
+नारायणमुखोद्गीतं ... According to the Śāntiparvan of the Mahābhārata (Gorakhpur edn.), the Sāttvata-teaching is said to have been announced by the sun:
+
+> सात्त्वतं विधिम् आस्थाय प्राक् सूर्य-मुख-निःसृतम् ।  
+पूजयामास देवेशं तच्-छेषेण पितामहान् ॥
+
+See G.A. Grierson, Indian Antiquary, vol. 37, p.253:
+
+> We have no literary evidence as to the train of reasoning by which this doctrine (Bhāgavata) was reached, but to me it appears more than probable that it was a development of the Sun-worship that was the common heritage of both branches of the Aryan people—the Eranian and the Indian. All the legends dealing with the origins of the Bhāgavata religion are connected in some way or other, with the sun.
+
+See also in this connection, L.D. Barnett, “The Hindu Gods and Heroes,” pp. 82-83.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1041,6 +1164,11 @@ is this that both are causes of defectless knowledge.
 <details><summary>Buitenen</summary>
 
 Consequently, because both are equally exemplary, they are optionally valid. It is with this view in mind that the wise Author of the Sūtras has explained: vijñanādibhave vaa tadapratiṣedhah.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Brahmasūtra II. ii. 41.
 </details>
 
 <details><summary>मूलम्</summary>

@@ -59,6 +59,11 @@ or that it has been stated according to the truth with complete attentiveness of
 REFUTATION. To this objection the Author replies vipratisedhat, i.e., on account of the contradiction of all śruti, epic, purana and worldly experience. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Brahmasūtra II. ii. 42
+</details>
+
 <details><summary>मूलम्</summary>
 
 तत्रोच्यते विप्रतिषेधात् इति, समस्तश्रुतीतिहासपुराणलोकविप्रतिषेधात्।  
@@ -179,6 +184,13 @@ because He is satisfied in all His desires,
 and since He is not in the least affected by defects of partiality and cruelty etc.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. ibid. II. i. 34:
+
+> वैषम्य-नैर्घृण्ये न, सापेक्षत्वात्, तथा हि दर्शयति।
+</details>
+
 <details><summary>मूलम्</summary>
 
 वैषम्यनैर्घृण्यादिदोषैर्मात्रयापि चासंस्पृष्टत्वात् 
@@ -193,6 +205,13 @@ and since He is not in the least affected by defects of partiality and cruelty e
 <details><summary>Buitenen</summary>
 
 because He abides with natural affection for all living beings; 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. Śvetāśvatara III. 17:
+
+> सर्वस्य प्रभुम् ईशानं सर्वस्य शरणं सुहृत्॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -261,6 +280,14 @@ have in deceiving the poor people
 who have failed to understand the meaning (of the Veda)? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+दयानिधेः ... See G.A. Grierson, Indian Antiquary, vol. 37, p. 260:
+
+> India again owes the preservation of the idea of a God of Grace, of the Fatherhood of God, to the Bhāgavatas.
+
+विप्रलब्धैः ... ‘प्राणिभिः’ *इति विशेष्यम् अध्याहार्यम्।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -302,6 +329,11 @@ if it had been composed in order to deceive?
 For thus the saints declare in Vārāha Purana, the Ramayana and the Bharata etc. that this Tantra is an equally esoteric doctrine as the Vedas; and we declare the same. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘निर्विशेषं’ समानम् इत्य् अर्थः।
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथा हि वेदैस्सह निर्विशेषं वाराह-रामायण-भारतादौ ।  
@@ -322,6 +354,11 @@ For thus the saints declare in Vārāha Purana, the Ramayana and the Bharata etc
 
 > "Through Veda, Pañcaratra, through devotion and sacrifice, O Brahmin, I can be attained,  
 and not in any other way, even in hundreds of lacs of years. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Varāhapurāṇa Ch. 66. śls. 19, 14, 15a, 18a.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -371,6 +408,14 @@ at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra
 [238]: not identified.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Varāhapurāṇa Ch. 66. śl. 18b.
+
+Also Cf. ibid. śl. 11b:
+
+> अलाभे वेद-मन्त्राणां पञ्च-रात्रोदितेन वा॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -393,6 +438,15 @@ at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra
 > The Yogins mediate upon the Eternal One with Puranas, Vedas and Pañcaratras, and worship Him with the proper rites. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Rāmāyaṇa [ uttara ] Ch. X (Prakṣipta) [M.L.J. Press],p.1012. The reading found is:
+
+> यजन्ति पञ्चभिर् यज्ञैः सततं मधुसूदनम्॥ [61b]
+
+> यः पुराणे च वेदे च पञ्च-रात्रे च पठ्यते॥ [62b]
+</details>
+
 <details><summary>मूलम्</summary>
 
 पुराणैश्चैव वेदैश्च पञ्चरात्रैस्तथैव च ॥  
@@ -410,6 +464,38 @@ at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra
 <details><summary>Buitenen</summary>
 
 > Thus Samkhya and Yoga on the one hand, and Veda and Aranyaka on the other hand are one and the same; all together they are the members that constitute Pañcaratra
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+वेदारण्यक ... See Amarnath Ray, “Śrīkṛṣṇa and the source of the Bhagavadgītā,” Indian Historical Quarterly, Vol. IX, pp. 193-194:
+
+> Kṛṣṇa was the great religious teacher who brought about a Sāṁkhya-Yoga-Vedānta synthesis....The first book which is fragmentary might have been a remnant of the Āraṇyaka of the Sāttvatas, spoken of in the Nārāyaṇīya account of the Mahābhārata [XII. 348. 31]. When the doctrines of bhakti and avatāra and desireless action were adopted by Kṛṣṇa's followers, they were called Bhāgavatas.
+
+For a detailed account of the alliance between Pañcarātra and Sāṅkhya-Yoga and their influences and counter-influences, see G.A. Grierson, ‘The Nārāyaṇīya and the Bhāgavatas’, The Indian Antiquary, Vol. 37, pp. 255-258.
+
+सत्तम ... Mahābhārata XII. 336. 76.
+
+Cf. ibid., Ch. 337. śl. 1:
+
+> sāṅkhyaṁ yogaṁ pāñcarātraṁ vedāraṇyakameva ca।  
+jñānānyetāni brahmarṣe lokeṣu pracaranti ha॥
+
+Also cf. ibid. śl. 59:
+
+> sāṅkhyaṁ yogaḥ pāñcarātraṁ vedāḥ pāśupataṁ tathā।  
+jñānānyetāni rājarṣe viddhi nānāmatāni vai॥
+
+Commenting upon the verse “evamekam” in his Śrībhāṣya under II. ii. 39 (p. 834), Rāmānuja says:
+
+> साङ्ख्यं च योगश् च साङ्ख्य-योगम् । वेदाश् चारण्यकानि च वेदारण्यकम् । परस्पराङ्गान्य् एतानि, एक-तत्त्व-प्रतिपादन-परतयैकी-भूतानि; एकं पञ्च-रात्रम् इति कथ्यते । एतद् उक्तं भवति — साङ्ख्योक्तानि पञ्च-विंशति-तत्त्वानि । योगोक्तं च यम-नियमाद्य्-आत्मकं योगम् । वेदोदित-कर्म--स्व-रूपाण्य् अङ्गीकृत्य तत्त्वानां ब्रह्मात्मकत्वं, योगस्य च ब्रह्मोपासन-प्रकारत्वं कर्मणां च तद्-आराधन-रूपताम् अभिदधति । कर्म--स्व-रूपं प्रतिपादयन्त्य् आरण्यकानि । एतद् एव परेण ब्रह्मणा नारायणेन स्वयम् एव पञ्च-रात्र-तन्त्रे विशदीकृतम् इति । शारीरके च साङ्ख्योक्त-तत्त्वानाम् अब्रह्मात्मकता-मात्रं[[??]] निराकृतम्, न स्व-रूपम् । योग-पाशुपतयोश् चेश्वरस्य केवल-निमित्त-कारणता, परा-वर-तत्त्व-विपरीत-कल्पना, वेद-बहिष्कृताचारो निराकृतः; न योग--स्व-रूपं, पशुपति--स्व-रूपं च । अतः 
+>
+>> साङ्ख्यं योगः पञ्च-रात्रं वेदाः पाशुपतं तथा।  
+आत्म-प्रमाणान्य् एतानि न हन्तव्यानि हेतुभिः 
+>
+> इति तत्-तद्-अभिहित-तत्-तत्-स्व-रूप-मात्रम् अङ्गीकार्यम् । जिन-सुगताभिहित-तत्त्ववत् सर्वं न बहिष्कार्यम् इत्य् उच्यते । ‘यथागमं यथा-न्यायं निष्ठा नारायणः प्रभुर्’ इत्य् अनेनैकार्थ्यात् ।
+
+Also see Collected Works of Sir R. G. Bhandarkar (Bhandarkar Oriental Research Institute, 1933), Vol. I, pp. 248-294 for an article ‘The Rāmānujīya and the Bhāgavata or Pāñcarātra systems’.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -431,6 +517,12 @@ at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra
 > O excellent one! He who sees through Veda and Pañcaratra sees truly; this great Upanisada, consistent with the four Vedas...." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+वेदेन ... To be identified.
+
+इदं ... Mahābhārata XII. 326. 100a.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -454,6 +546,11 @@ Since the number of these and similar statements is infinite, we stop here. If y
 then there can be no faith in anything. It is with this view in mind that the Author sets forth: 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+पञ्च-रात्रस्य परम-प्रमाण-भूतस्यापि विप्लावन-शङ्कायां सर्वत्रापि अप्रामाण्य-बुद्ध्या अनाश्वास एव भवेत् । विप्रतिषेधश् च स्याद् वैदिक-लौकिक-व्यवहाराणाम् इति सूत्रार्थं समुच्चिनोति ‘सर्वत्र स्याद् अनाश्वास’ इत्य् अनेन । ‘विप्रतिषेधात् इति’ इत्य् एतत् पर्यन्तम् एकं वाक्यम् ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 वचसामेवमादीनामानन्त्यादुपरम्यते ।  
@@ -473,6 +570,10 @@ then there can be no faith in anything. It is with this view in mind that the Au
 vipratisedAt.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Brahmasūtra II. ii. 42.
+</details>
 
 <details><summary>मूलम्</summary>
 

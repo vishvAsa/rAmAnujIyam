@@ -22,7 +22,10 @@ because they are accepted by those who are outside Pancarātra?
 [240]: supra § 17: vedabāhyagrhītatvāt. I have rendered grhīta by "accepted' to cover approximately the variety of meanings that Yāmuna detects in the word.
 </details>
 
+<details><summary>नरसिंहः</summary>
 
+See the verse ‘विवादाध्यासितं’ etc., p. 17 above.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -203,6 +206,12 @@ it would follow that the ground "because they are accepted by people outside the
 People who do prohibited acts follow Vedic expiations; but if acceptance by people who commit forbidden acts is sufficient to deny the validity of what they accept, this means that the validity of the Veda would be denied.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Bodhāyanadharmasūtra, III. vii. 1:
+
+> कूष्माण्डैर् जुहुयात् यो ऽपूत इव मन्येत ।
+</details>
 
 <details><summary>मूलम्</summary>
 

@@ -42,6 +42,18 @@ Therefore, even if there were a conflict between the Bhagavan's doctrine and the
 Sabarabhasya and KMS.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This reference by Yāmuna to ‘bhāṣyakāra’ has been taken by some Vaiṣṇava scholars as speaking of Dramiḍabhāṣyakāra, who is traditionally said to have commented upon the Brahmasūtra. But this may be taken as a reference to Śaṅkara himself. Rāmānuja's Śrībhāṣya also seems to support this position. Cf. Śrībhāṣya under II. ii. 42, p. 832:
+
+> यत् तु परैः सूत्र-चतुष्टयं कस्यचिद् विरुद्धांशस्य प्रामाण्य-निषेध-परं व्याख्यातम्, 
+
+with the above passage : “नन्व् अत्र भवतां” etc. Also cf. Śaṅkara on the above sūtra, p. 259:
+
+> यद्यप्य् एवं-जातीयको ऽंशः समानत्वात् न विसंवाद-गोचरो भवति । अस्ति तु अंशान्तरं विसंवाद-स्थानम् इत्य् अतः तत्-प्रत्याख्यानायारम्भः 
+
+etc.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -84,6 +96,13 @@ must not be [[97]] disrespectful to the Veda.
 
 This is comparable to the venerable Jaimini's exposition  
 that the fruits of acts serve to increase people's faith in the acts.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. Vedārthasaṅgraha, p. 157:
+
+> अश्रुत-वेदान्तानां कर्मणि अश्रद्धा मा भूद् इति देवताधिकरणे अतिवादाः कृताः; कर्म-मात्रे यथा श्रद्धा स्याद् इति ।
 </details>
 
 <details><summary>मूलम्</summary>
