@@ -23913,13 +23913,814 @@ que **es** auto-**luminoso**,
 स्वयंप्रकाशत्वम्,
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वस्मै भासमानत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वस्मै भासमानत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that the self **shines** to itself, 
+</details>
+
+<details><summary>Español</summary>
+
+que el yo **brilla** para sí mismo, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वस्मै भासमानत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहं-शब्द-वाच्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अहं-शब्द-वाच्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that the self is denoted by the word 'I', 
+</details>
+
+<details><summary>Español</summary>
+
+que el yo **se denota** con la palabra 'yo', 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अहंशब्दवाच्यत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अणु-परिमाणत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अणु-परिमाणत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that the self is atomic (aṇu), 
+</details>
+
+<details><summary>Español</summary>
+
+que el yo **es** atómico (aṇu), 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अणुपरिमाणत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सूक्ष्मत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सूक्ष्मत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that it is subtle (sukṣma), 
+</details>
+
+<details><summary>Español</summary>
+
+que **es** sutil (sukṣma),
+</details>
+
+<details><summary>मूलम्</summary>
+
+सूक्ष्मत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+छेदनाद्य्--अन्-अर्हत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+छेदनाद्य्--अन्-अर्हत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that it **cannot be cut (burnt** and so on), 
+</details>
+
+<details><summary>Español</summary>
+
+que **no se puede cortar (quemar**, etc.), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+छेदनाद्यनर्हत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चतुर्-विंशति-तत्त्व-विलक्षणत्वम्, 
+</details>
+
+#### अप्राकृतत्वादि
+<details><summary>नीलमेघः (सं)</summary>
+
+चतुर्-विंशति-तत्त्व-विलक्षणत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that the self or soul **is different** from the twenty four tattvas or reals, 
+</details>
+
+<details><summary>Español</summary>
+
+que el yo o alma **es diferente** de los veinticuatro tattvas o reales, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+चतुर्विंशतितत्त्वविलक्षणत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अमलत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अमलत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that (in its essential nature) the self is pure, 
+</details>
+
+<details><summary>Español</summary>
+
+que (en su naturaleza esencial) el yo **es puro**, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अमलत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वराद् अन्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वराद् अन्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that it is different from Iśvara, 
+</details>
+
+<details><summary>Español</summary>
+
+que **es diferente** de Iśvara, 
+</details>
+ 
+<details><summary>मूलम्</summary>
+
+ईश्वरादन्यत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञातृत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ज्ञातृत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that the self is a knower (**having** knowledge as its attribute), 
+</details>
+
+<details><summary>Español</summary>
+
+que el yo **es** un **conocedor** (**teniendo** el **conocimiento** como su atributo), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञातृत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आनुकूल्यादि-योग्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आनुकूल्यादि-योग्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that the jīva has, by nature, the capacity to enjoy all things as agreeable, 
+</details>
+
+<details><summary>Español</summary>
+
+que el jīva **tiene**, por naturaleza, la **capacidad** de **disfrutar** de todas las cosas como agradables, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आनुकूल्यादियोग्यत्वम्, 
+</details>
+
+#### मोक्षार्हतादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परम-पुरुषार्थापेक्षार्हत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+परम-पुरुषार्थापेक्षार्हत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **is** competent to **desire** the supreme end of life, 
+</details>
+
+<details><summary>Español</summary>
+
+que **es competente** para **desear** el fin supremo de la vida, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+परमपुरुषार्थापेक्षार्हत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नियोग-योग्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+नियोग-योग्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **is** fit to be **commanded** (by the Supreme Being), 
+</details>
+
+<details><summary>Español</summary>
+
+que **es** apto para ser **ordenado** (por el Ser Supremo), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नियोगयोग्यत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कैङ्कर्य-योग्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कैङ्कर्य-योग्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **is fit** to render service, 
+</details>
+
+<details><summary>Español</summary>
+
+que **es apto** para **prestar servicio**, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+कैङ्कर्ययोग्यत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-साक्षात्-कार-योग्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-साक्षात्-कार-योग्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **has** in him the power to have a direct **perception** of all things, 
+</details>
+
+<details><summary>Español</summary>
+
+que él **tiene** en sí  
+el poder de **tener** una **percepción** directa de todas las cosas, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वसाक्षात्कारयोग्यत्वम्, 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निरतिशयानन्द-योग्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+निरतिशयानन्द-योग्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **is entitled** to have **unsurpassed** bliss, 
+</details>
+
+<details><summary>Español</summary>
+
+que él **tiene** derecho a **tener** una dicha **insuperable**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+निरतिशयानन्दयोग्यत्वम्, 
+</details>
+
+#### परापेक्ष-कर्तृत्वादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परापेक्ष-कर्तृत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+परापेक्ष-कर्तृत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+that he **is a doer** who can act subject to the will of the Supreme Being, 
+</details>
+
+<details><summary>Español</summary>
+
+que él **es un hacedor** que **puede actuar** sujeto a la **voluntad** del Ser Supremo,
+</details>
+
+<details><summary>मूलम्</summary>
+
+परापेक्षकर्तृत्वम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सोपाधिक-स्वामित्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सोपाधिक-स्वामित्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **is** a master (of certain things) under certain conditions or upādhis, 
+</details>
+
+<details><summary>Español</summary>
+
+que **es** un maestro (de ciertas cosas) bajo ciertas condiciones o upādhis, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सोपाधिकस्वामित्वम्, 
+</details>
+
+#### भागवत-दास्यादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भागवत-शेषत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भागवत-शेषत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **is** the śeṣa of the **devotees** of the Lord, 
+</details>
+
+<details><summary>Español</summary>
+
+que él **es** el śeṣa de los **devotos** del Señor, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+भागवतशेषत्वम्, 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भागवत-किङ्-करत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भागवत-किङ्-करत्वम्, 
+</details>
+  
+<details><summary>English</summary>
+
+that he is their servant, 
+</details>
+
+<details><summary>Español</summary>
+
+que él **es** su **siervo**, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भागवतकिङ्करत्वम्, 
+</details>
+
+
+#### उपायापेक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्-अन्योपायत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्-अन्योपायत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he is destitute of upāyas other than the Lord, 
+</details>
+
+<details><summary>Español</summary>
+
+que **está desprovisto** de upāyas que **no sean** el Señor, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनन्योपायत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-विद्यादिमत्त्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-विद्यादिमत्त्वम्,
+</details>
+
+
+<details><summary>English</summary>
+
+that he is steeped in such things as avidyā, 
+</details>
+
+<details><summary>Español</summary>
+
+que **está empapado** de cosas como avidyā, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अविद्यादिमत्त्वम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+करणादि-सापेक्ष-ज्ञान-विकासवत्त्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+करणादि-सापेक्ष-ज्ञान-विकासवत्त्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that his knowledge **is capable** of **expansion** with the **help** of (suitable) instruments (karaṇa) and the like, 
+</details>
+
+<details><summary>Español</summary>
+
+que su **conocimiento es capaz** de **expansión** con la **ayuda** de instrumentos (adecuados) (karaṇa) y similares, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+करणादिसापेक्षज्ञानविकासवत्त्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संसार-भयाक्रान्तत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+संसार-भयाक्रान्तत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **is beset** by the **fears** due to saṁsāra, 
+</details>
+
+<details><summary>Español</summary>
+
+que él **está acosado** por los **temores** debidos al saṁsāra, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+संसारभयाक्रान्तत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-विद्यादि-निवृत्ति-सापेक्षत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-विद्यादि-निवृत्ति-सापेक्षत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **should look forward** to the **removal** of avidyā and the like, 
+</details>
+
+<details><summary>Español</summary>
+
+que **debería esperar** la **remoción** de avidyā y similares, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अविद्यादि-निवृत्तिसापेक्षत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-किञ्चनत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-किञ्चनत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **is destitute** of any means (of **attaining** the end), 
+</details>
+
+<details><summary>Español</summary>
+
+que **está desprovisto** de cualquier medio (de **alcanzar** el fin), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अकिञ्चनत्वम्, 
+</details>
+
+#### ईश्वरादिसौहार्दम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वर-सौर्हार्दादिमत्त्वम्, 
+</details>
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वर-सौर्हार्दादिमत्त्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **has** such things as the good-will of Iśvara, 
+</details>
+
+<details><summary>Español</summary>
+
+que **tiene** cosas tales como la buena voluntad de Iśvara,ra, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ईश्वरसौर्हार्दादिमत्त्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सद्-आचार्य-प्राप्तिमत्त्वम्, 
+</details>
+<details><summary>English</summary>
+
+that he **should seek** and **obtain** a good ācārya, 
+</details>
+
+<details><summary>Español</summary>
+
+que **debe buscar** y **obtener** un buen ācārya, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सदाचार्यप्राप्तिमत्त्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साध्योपायानुष्ठानार्हत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+साध्योपायानुष्ठानार्हत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **is competent** to **adopt** sādhyopāya (bhakti  or prapatti), 
+</details>
+
+<details><summary>Español</summary>
+
+que **es competente** para **adoptar** sādhyopāya (bhakti o prapatti), 
+</details>
+ 
+<details><summary>मूलम्</summary>
+
+साध्योपायानुष्ठानार्हत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपाय-निष्ठत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उपाय-निष्ठत्वम्, 
+</details>
+
+
+<details><summary>English</summary>
+
+that he **should stand firm** in the upāya, 
+</details>
+
+<details><summary>Español</summary>
+
+que **debe mantenerse firme** en el upāya, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+उपायनिष्ठत्वम्, 
+</details>
+
+#### प्रभावः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महा-प्रभावत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+महा-प्रभावत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he has great potency, 
+</details>
+
+<details><summary>Español</summary>
+
+que **tiene** gran potencia, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+महाप्रभावत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विशिष्ट-वेषत्ताले सृष्टि-संहार-विषयत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+… सृष्टि-संहार-विषयत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he may be called an object of creation, destruction and the like,  
+in virtue of his **having** the body as an attribute,  
+</details>
+
+<details><summary>Español</summary>
+
+para que **pueda ser llamado** objeto de **creación, destrucción** y cosas similares,  
+en virtud de que **tiene** el cuerpo como atributo,
+</details>
+
+<details><summary>मूलम्</summary>
+
+विशिष्टवेषत्तालेसृष्टिसंहारविषयत्वम्, 
+</details>
+
+
+
+but that the self is imperishable, that the self is one among many, that the selves are countless, that the selt is pervaded by Iśvara (who is its in-dwelling Self), that he is subject to the control of Iśvara, that he is supported by Iśvara, and that as a consequence of these, the self is the body of Iśvara that the jīva is the cause of the sportive delight (lilā rasa) of Iśvara, that he is entitled to be the instrument for the Lord's enjoyment (bhoga) (in Nityavibhūti), that his passage to his goal depends on Iśvara, that the attainment of that goal depends on Iśvara, that he should seek neither worldly prosperity nor kaivalya, that he should eagerly long for the attainment of Bhagavān, that he should become free from all avidyā, that the self would manifest itself in its essential nature, that the self is capable of visualising everything (in the state of mukti), that his sole enjoyment should consist in the experience of Bhagavān in every form, that he is capable of **having** unsurpassed bliss, that his **being** an enjoyer is (only) for the enjoyment ot of Bhagavān, that the self (in its realised state) can take any form and the like at will, that its will is irresistible, that the self will have perfect resemblance to the Lord except in regard to those uncommon qualities or attributes that define His essential nature, that the sell's delight is in rendering every kind of service to Bhagavān and that the self will never return to saṁsāra (after attaining mukti). (67).
 
 
 he should note the above principal qualities of his own, which are indicated explicitly by the words themselves and which lie implicit in their meaning and other qualities connected with them, which are all accepted on the authority of the pramāṇas : 
-
-that the self shines to itself, that the self is denoted by the word 'I', that the self is atomic (aṇu), that it is subtle (sukṣma), that it cannot be cut (burnt and so on), that the self or soul is different from the twenty four tattvas or reals, that (in its essential nature) the self is pure, that it is different from Iśvara, that the self is a knower (**having** knowledge as its attribute), that the jīva has, by nature, the capacity to enjoy all things as agreeable, that he is competent to desire the supreme end of life, that he is fit to be commanded (by the Supreme Being), that he is fit to render service, that be has in him the power to have a direct perception of all things, that he is entitled to have unsurpassed bliss, that he is a doer who can act subject to the will of the Supreme Being, that he is a master (of certain things) under certain conditions or upādhis, that he is the śeṣa of the devotees of the Lord, that he is their servant, that he is destitute of upāyas other than the Lord, that he is steeped in such things as avidyā, that his knowledge is capable of expansion with the help of (suitable) instruments (karaṇa) and the like, that be is beset by the fears due to saṁsāra, that be should look forward to the removal of avidyā and the like, that he is destitute of any means (of attaining the end), that he has such things as the good-will of Iśvara, that he should seek and obtain a good ācārya, that he is competent to adopt sādhyopāya (bhakti  or prapatti), that he should stand firm in the upāya, that he has great potency, that he may be called an object of creation, destruction and the like in virtue of his **having** the body as an attribute, but that the self is imperishable, that the self is one among many, that the selves are countless, that the selt is pervaded by Iśvara (who is its in-dwelling Self), that he is subject to the control of Iśvara, that he is supported by Iśvara, and that as a consequence of these, the self is the body of Iśvara that the jīva is the cause of the sportive delight
-
-(lilā rasa) of Iśvara, that he is entitled to be the instrument for the Lord's enjoyment (bhoga) (in Nityavibhūti), that his passage to his goal depends on Iśvara, that the attainment of that goal depends on Iśvara, that he should seek neither worldly prosperity nor kaivalya, that he should eagerly long for the attainment of Bhagavān, that he should become free from all avidyā, that the self would manifest itself in its essential nature, that the self is capable of visualising everything (in the state of mukti), that his sole enjoyment should consist in the experience of Bhagavān in every form, that he is capable of **having** unsurpassed bliss, that his **being** an enjoyer is (only) for the enjoyment ot of Bhagavān, that the self (in its realised state) can take any form and the like at will, that its will is irresistible, that the self will have perfect resemblance to the Lord except in regard to those uncommon qualities or attributes that define His essential nature, that the sell's delight is in rendering every kind of service to Bhagavān and that the self will never return to saṁsāra (after attaining mukti). (67).
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
