@@ -20,7 +20,6 @@ who oppose the Author's own accepted doctrine, are unnatural219 because they con
 [219]: asāmañjasya, taken from BrS., 2.2.37.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 तत्रैष सूत्रार्थः पूर्वं स्वाभिप्रेतसमयपरिपन्थिकपिल-काश्यपसुगत-जिन-पशुपतिमतानां श्रुतिन्याय विरोधादसामञ्जस्यं प्रतिपाद्य 
@@ -36,6 +35,14 @@ who oppose the Author's own accepted doctrine, are unnatural219 because they con
 <details><summary>Buitenen</summary>
 
 Now, in order to remove the suspicion that the Pancarãtra Tantras (which are his own accepted doctrine) are equally unnatural with the other doctrines because their usual enumeration on an equal plane with the others has made them closely associated with them in people's thinking, he elicits their validity. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+सन्निहितानाम् ... तन्त्रत्व-सामान्येन सन्निहितानाम् इति भावः।
+
+व्युत्पाद्यते = स्थाप्यते।
+
 </details>
 
 
@@ -69,18 +76,15 @@ Now, in order to remove the suspicion that the Pancarãtra Tantras (which are hi
 In the first two Sūtras the prima-facie case is laid down:  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+According to Śaṅkara, all the four aphorisms of the utpattyasambhava section [ 11-ii-42-45 ] put forth the refutation of the Pañcarātra. 
+</details>
 
 <details><summary>मूलम्</summary>
 
 तत्राद्येन सूत्रद्वयेन पूर्वपक्ष उपक्षिप्यते,  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-§ According to Sankara, all the four aphorisms of the utpattyasambhava section । 11-ii-42-45] put forth the refutation of the Pañcarātra. 
-</details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -166,7 +170,7 @@ the Pancarãtra likewise has no validity, utpattyasaṃbhavāt, i.e., on account
 
 तथा 
 
-> न च कर्त्तुः करणम्  
+> न च कर्तुः करणम्  
 इतश् च +अप्रमाणं कर्तुः सङ्कर्षण-संज्ञाज् जीवात् करणस्य प्रद्युम्नसंज्ञस्य मनस उत्पत्त्य्-अ-संभवात्,  
 न हि देवदत्तात् परशुरुत्पद्यत 
 
@@ -180,24 +184,21 @@ the Pancarãtra likewise has no validity, utpattyasaṃbhavāt, i.e., on account
 > 100\. Similarly na ca kartuḥ karaṇam: Pañcarātra has no validity for the further reason that it is impossible that the instrument, sc. the mind called Pradyumna, originates from the agent, sc. the individual soul called Saṅkarṣaṇa, for the hatchet does not originate from Devadatta. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Brahmasūtra II. ii. 40.
+</details>
 
 <details><summary>मूलम्</summary>
 
-तथा न च कर्त्तुः करणम् इतश्च अप्रमाणं कर्तुः सङ्कर्षण-संज्ञाज् जीवात् करणस्य प्रद्युम्नसंज्ञस्य मनस उत्पत्त्यसंभवात्, न हि देवदत्तात् परशुरुत्पद्यत इति ।
+तथा न च कर्तुः करणम् इतश्च अप्रमाणं कर्तुः सङ्कर्षण-संज्ञाज् जीवात् करणस्य प्रद्युम्नसंज्ञस्य मनस उत्पत्त्यसंभवात्, न हि देवदत्तात् परशुरुत्पद्यत इति ।
 </details>
-
-
-<details><summary>नरसिंहः</summary>
-
-t Cf. Sribhāsya under II. ii. 40, where almost the same words are used. $ Mundakopanisad II. 1. 3. 
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं वा -  
 
-> "न च कर्त्तुः करणम्"।  
+> "न च कर्तुः करणम्"।  
 इतश्च कर्त्तुः संकर्षणात् न करणम् उत्पद्यते -  
 ब्रह्मण एव समस्त-करणोत्पत्ति-श्रुतेः,  
 > 
@@ -218,17 +219,17 @@ since according to the text:
 > it is revealed that all instruments really originate from Brahman.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+न च ... Cf. Śrībhāṣya under II. ii. 40, where almost the same words are used. 
+
+एतस्माज्जायते ... Mundakopanisad II. 1. 3. 
+</details>
 
 <details><summary>मूलम्</summary>
 
-एवं वा न च कर्त्तुः करणम् इतश्च कर्त्तुः संकर्षणात् न करणम् उत्पद्यते ब्रह्मण एव समस्तकरणोत्पत्तिश्रुतेः, एतस्माज्जायते प्राणो मनः सर्वेन्द्रियाणि च इति।  
+एवं वा न च कर्तुः करणम् इतश्च कर्त्तुः संकर्षणात् न करणम् उत्पद्यते ब्रह्मण एव समस्तकरणोत्पत्तिश्रुतेः, एतस्माज्जायते प्राणो मनः सर्वेन्द्रियाणि च इति।  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-$ Mundakopanisad II. 1. 3. 
-</details>
-
 
 ### उत्तर-पक्षः - व्यूह-ब्रह्म-त्वमात्रेण 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -245,14 +246,14 @@ $ Mundakopanisad II. 1. 3.
 By the particle va this prima-facie case is now reversed.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Śrībhāṣya under II.ii. 41- "vijñānādibhāve vā tadapratiṣedhaḥ," where again the same words are used. 
+</details>
+
 <details><summary>मूलम्</summary>
 
 विज्ञानादिभावे वा तदप्रतिषेध इति, वा-शब्दात् पक्षो विपरिवर्त्तते ।
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-Cf. Sribhāsya under IIii. 41- where again the same words are used. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -302,15 +303,14 @@ it is not contradictory that Saṅkarṣaṇa etc. have originated.
 Indeed, it would be contradictory if they were not vijñānādi. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'एते' सङ्कर्षणादयः । 
+</details>
 
 <details><summary>मूलम्</summary>
 
 यदि हि विज्ञानादय एते न भवेयुः स्यादुत्पत्तिप्रतिषेधः ।  
-</details>
-
-<details><summary>नरसिंहः</summary>
-
-i ' एते' सङ्कर्षणादयः । 
 </details>
 
 #### विज्ञानादिः
@@ -413,43 +413,43 @@ Inasmuch as they are Brahman (brahmabhāve), the origination is not contradictor
 That is to say by virtue of the fact that the unique Supreme Soul Vāsudeva, whose omnipotence is unbounded, enters into them through His māyā, a cause-effect relation is justified. 
 </details>
 
+
+<details><summary>नरसिंहः</summary>
+
+एतदुक्तं ... चत्वार ईश्वरा इति पक्षः परित्यक्तः । तद्-एकत्व-पक्षः समादृतः। एक एव भगवान् सर्वेश्वरः स्वलीलया जगद्-अवनाय चतुर्धा ऽवतरतीति सिद्धान्तः । 
+
+एकस्यैव ... Vide Ahirbudhnya Saṁhitā Ch. V- 
+
+> पुरुषाः पुण्डरीकाक्षा  
+व्यूहाः शक्तिमया हरेः ।  [25a ]
+
+> सर्व-शक्तिमयो देवो  
+वासुदेवः सिसृक्षया ॥  
+विभजत्य् आत्मना ऽऽत्मानं  
+यस् स सङ्कर्षणस् स्मृतः । [ 29b-30a ] 
+
+> अनन्त एव भगवान्  
+वासुदेवस् सनातनः ।  
+तत्र ज्ञान-बलोन्मेषात्  
+स्व-सङ्कल्प-प्रचोदितात् ॥  
+अनन्त एव भगवान्  
+देवस् सङ्कर्षणो ऽच्युतः ।  [ 34-35a ]
+
+> अनन्त एव भगवान्  
+प्रद्युम्नः पुरुषोत्तमः । [36a ]  
+
+अनन्त एव भगवान्  
+अनिरुद्धो भवत्य् उत ॥ [38b ] 
+
+The words "ananta eva bhagavān" occuring in 34a, 35a, 36a & 38b quoted above, stress the point that he Lord is One and only One and that He assumes different forms, without any diminution of His powers and perfections in this process. Therefore, the question raised by Śaṅkara regarding the plurality of God is unwarranted. 
+
+स्वमायावेश ... This Māyā is the Śakti or the Power of the Lord, termed also Jñāna, Vidyā, Saṅkalpa and so on. 
+</details>
+
 <details><summary>मूलम्</summary>
 
 एतदुक्तं भवति एकस्यैव परमात्मनो वासुदेवस्यापरिच्छिन्नशक्तेः स्वमायावेशवशात् कार्यकारणभावोपपत्तिरिति ।  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-$ चत्वार ईश्वरा इति पक्षः परित्यक्तः । तदेकत्वपक्षः समादृतः। एक एव भगवान् सर्वेश्वरः स्वलीलया जगदवनाय चतुर्धाऽवतरतीति सिद्धान्तः । 
-
-+ Vide Ahirbudhnya Samhità Ch. V- 
-
-> " पुरुषाः पुण्डरीकाक्षा  
-व्यूहाः शक्तिमया हरेः । 
-सर्वशक्तिमयो देवो  
-वासुदेवः सिसृक्षया ॥ [25a ] 
-
-> विभजत्यात्मनाऽऽत्मानं  
-यस् स सङ्कर्षणस्स्मृतः । " [ 29b-30a ] 
-
-> 'अनन्त एव भगवान्  
-वासुदेवस् सनातनः । 
-तत्र ज्ञान-बलोन्मेषात्  
-स्वसंकल्प-प्रचोदितात् ॥  
-अनन्त एव भगवान्  
-देवस् संकर्षणोऽच्युतः । " [ 34-35a ]  
-
-> " अनन्त एव भगवान्  
-प्रद्युम्नः पुरुषोत्तमः ।" [36a ]  
-अनन्त एव भगवान्  
-अनिरुद्धो भवत्युत ॥ " [38b ] 
-
-The words " ananta eva bhagavān " occuring in 34a, 35a, 36a & 38b quoted above, stress the point that he Lord is One and only One and that He assumes different forms, without any diminution of His powers and perfections in this process. Therefore, the question raised by Sankara regarding the plurality of God is unwarranted. 
-
-$ This Māyā is the Sakti or the Power of the Lord, termed also Jñāna, Vidya, Sankalpa and so on. 
-
-</details>
-
 
 #### करणोत्पत्तिः - विप्रतिषेधात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -488,18 +488,17 @@ The objection that the mind cannot originate from Saṅkarṣaṇa, on the autho
 102\. Furthermore, what is being said in the argument na ca kartuḥ karaṇam?  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अपि च ... These different interpretations are not included by Rāmānuja in his Śrībhāṣya. 
+
+न च ... Vide Brahmasūtra: II.ii.40.
+</details>
 
 <details><summary>मूलम्</summary>
 
-अपि च न च कर्त्तुः करणम् इति किमुक्तं भवति ।  
+अपि च न च कर्तुः करणम् इति किमुक्तं भवति ।  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-These different interpretations are not included by Ramanuja in his Sribhasya. 
-</details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -515,16 +514,15 @@ Is it that the instrument of a certain action does not originate from the agent 
 or that no instrument of any action whatever originates from any agent whatsoever? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'यत्र क्वापि क्रियायाम्' इति शेषः । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 किं यस्याः क्रियाया यत्करणं तत्क्रियाकर्त्तुर्नोत्पद्यते, उत यद् यत्र क्वापि करणं तत् कुतश्चिदपि कर्त्तुर्नोत्पद्यत इति वा ।  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-$ ' यत्र क्वापि क्रियायाम्' इति शेषः । 
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -585,6 +583,11 @@ If the alternative view is taken, we have a conflict with Perception, because we
 This the Author says in the sūtra vipratiṣedhāt: 'because there is conflict.'
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Brahmasūtra: II.ii.42.
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -613,17 +616,15 @@ Or, we state an alternative explation for the two sutras.
 [220]: supra §§96, 97.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+सिद्धान्त-सूत्र-द्वयस्य - 'विज्ञानादि-भावे वा तद्-अप्रतिषेधः, विप्रतिषेधात्' इति सूत्र-द्वयस्येति भावः । 
+</details>
 
 <details><summary>मूलम्</summary>
 
 यद्वा सूत्रद्वस्यास्य व्याख्यानान्तरमुच्यते ।  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-सिद्धान्तसूत्रद्वयस्य - 'विज्ञानादिभावे वा तदप्रतिषेधः विप्रतिषेधात्' इति मुत्रद्वयस्येति भावः । 
-</details>
-
 
 #### विज्ञानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -645,19 +646,20 @@ since it is vijñānādi, i.e. "a ground for validity",221 the denial of the val
 [221]: ie., as a tatpuruṣa compound "the beginning (source) of (valid) knowledge:" vijñānādibhāve "since He (God) is a source of valid knowledge." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+'विज्ञानादेः' ब्रह्मण इत्य् अर्थः । 
+
+भावे - सद्-भावे । 
+
+अतिप्रसङ्गः ... अन्यथा मन्वादि-स्मृतेर् अपि अप्रामाण्य-प्रसक्तेर् इत्य् आशयः । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 विज्ञानादेः प्रामाणत्वहेतोर् भावे न युज्यते ॥  
 पञ्चरात्रप्रमाणत्वनिषेधोऽतिप्रसङ्गतः ।  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-'विज्ञानादेः' ब्रह्मण इत्यर्थः ।  
-भावे - सद्भावे ।  
-अन्यथा मन्वादिस्मृतेरपि अप्रामाण्य-प्रसक्तिर् इत्य् आशयः । 
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -692,20 +694,16 @@ The invalidity, which is defined by the non-origination of knowledge through rep
 In order to remove the suspicion of untruth occasioned by the speaker's character, the word ādi is used to convey the intended meaning that the Tantras are in fact spoken by a trustworthy person. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The term ādi is from Brahmasūtra II. ii. 41- 'विज्ञानादि-भावे वा तद्-अप्रतिषेधः ।' आदि-शब्देन दोष-राहित्यम्, विज्ञान-शब्देन गुण-साहित्यं चाभिप्रेतम् । 
+</details>
 
 <details><summary>मूलम्</summary>
 
 वक्त्राशयवशप्राप्तमिथ्याशंकाऽपनुत्तये ॥  
 आदिशब्देन तन्त्राणामाप्तोक्तत्वं विवक्षितम् ।  
 </details>
-
-
-<details><summary>नरसिंहः</summary>
-
-§ The term ādi is from Brahmasūtra II. ii. 41- विज्ञानादिभावे वा तदप्रतिषेधः । 
-आदिशब्देन दोषरहित्यम्, विज्ञानशब्देन गुणसाहित्यं चामिप्रेतम् । 
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -722,6 +720,15 @@ In order to remove the suspicion of untruth occasioned by the speaker's characte
 Consequently the meaning is this: He always has direct knowledge of the entire world by virtue of the omniscience which is part of His nature; He bestows man's wishes upon him, when He is satisfied—and he is satisfied by meditation alone; Him the experts in the Veda describe as eternally satisfied in all His desires: how then can there be defects in Him like error, deceit etc.?
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. The following verse, which, according to tradition, forms the opening verse of Nāthamuni's Nyāyatattva- 
+
+> यो वेत्ति युगपत् सर्वं  
+प्रत्यक्षेण सदा स्वतः ।  
+तं प्रणम्य हरिं शास्त्रं  
+न्याय-तत्त्वं प्रचक्ष्महे ॥  
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -731,17 +738,6 @@ Consequently the meaning is this: He always has direct knowledge of the entire w
 नित्यावाप्तसमस्तकाम इति यं प्राहुस्त्रयीपारगाः ।  
 तस्मिन् विभ्रमविप्रलम्भनमुखा दोषा भवेयुः कथम् ॥  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-Cf. The following verse, which, according to tradition, forms the opening verse of Nāthamuni's Nyāyatattva- 
-
-“ यो वेत्ति युगपत् सर्वं  
-प्रत्यक्षेण सदा स्वतः ।  
-तं प्रणम्य हरिं शास्त्रं  
-न्याय-तत्त्वं प्रचक्ष्महे ॥ "  
-</details>
-
 
 #### विप्रतिषेधात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -757,18 +753,16 @@ Cf. The following verse, which, according to tradition, forms the opening verse 
 104\. The 'impossibility of origination,' which has been stated in the first two Sūtras, is thereupon denied for Saṅkarṣaṇa and the other forms of God in the sūtra vipratiṣedhāt. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+पूर्वं जीव-मन-आदीनाम् उत्पत्तिर् न सम्भवतीत्य् अस्य पूर्व-पक्षस्य समाधानम् उक्तम् । इदानीं 'उत्पत्त्य्-असम्भव' इत्य्-आदिना 'मूर्ति-भेदो ऽपि कथम् ?' इति शङ्कायाः समाधानम् उच्यते । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 उत्पत्त्यसम्भवो यश्च पूर्वसूत्रद्वयोदितः ।  
 संकर्षणादिमूर्तीनां तत्र प्रतिविधीयते ॥
 </details>
-
-<details><summary></summary>
-
-पूर्वं जीव-मन-आदीनाम् उत्पत्तिर् न सम्भवतीत्य् अस्य पूर्वपक्षस्य समाधानम् उक्तम् ।  
-इदानीं 'उत्पत्त्यसम्भव' इत्यादिना 'मूर्ति-भेदोऽपि कथम् ?' इति शङ्कायाः समाधानमुच्यते । 
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -782,17 +776,15 @@ This means either; "Because there is conflict with the Bhagavān's perception wh
 [[87]]
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Brahmasūtra II.ii. 42. 
+</details>
 
 <details><summary>मूलम्</summary>
 
 विप्रतिषेधात् इति पञ्चरात्रस्मरणानुमितभगवत्प्रत्यक्षविप्रतिषेधात् तदनुमितश्रुतिविप्रतिषेधाद्वेति ।  
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-Brahmasutra II.ii. 42. 
-</details>
-
 
 ## विरुद्ध-प्रमित्य्-उत्पत्त्य्-अर्थेन 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -886,6 +878,10 @@ determines the Tradition's sense as being different,
 and consequently conflicting with itself.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+For a discussion on the validity of smṛtis when they are in opposition to more powerful means of knowledge, see Tantravārtika under I. iii. 3, pp. 82-103.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -907,23 +903,19 @@ and consequently conflicting with itself.
 For Pāñcarātra conveys that scripture is its basis only as long as the sword of direct scripture does not cut its root.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. ibid. p. 87- 
+
+> tāvadeva sphurantyarthāḥ purastādānumānikāḥ।  
+yāvat pratyakṣaśāstreṇa mūlameṣāṁ na kṛtyate॥
+</details>
 
 <details><summary>मूलम्</summary>
 
 तावद्धि पञ्चरात्रस्य मूलश्रुत्यवबोधनम् ।  
 प्रत्यक्षशास्त्रशस्त्रेण यावन्मूलं न लूयते ॥
 </details>
-
-<details><summary>नरसिंहः</summary>
-
-For a discussion on the validity of smrtis when they are in opposition to more powerful means of knowledge, see Tantravārtika under Iiii 3, pp. 82-103. 
-5 Cf. ibid. p. 87- 
-
-tāvadeva sphurantyarthaḥ purastādānumānikāḥ ।  
-yāvat pratyakṣaśāstreņa mūlameṣāṁ na kṛntyate ॥ 
-</details>
-
-
 
 #### न च कर्त्तुः करणं वेदः
 
@@ -941,18 +933,16 @@ yāvat pratyakṣaśāstreņa mūlameṣāṁ na kṛntyate ॥
 221: cf. supra § 18\.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This is the contention of the Naiyāyika. He does not accept the “apauruṣeyatva” of the Vedas. They, according to him, are dependent upon the Supreme Being, like the Pāñcarātrāgamas, for their validity, so much so they too are “pauruṣeya”, i.e., composed by the Divine Person. This is the point on which Yāmuna differs from the Naiyāyika. The aphorism “na ca kartuḥ karaṇam” (Brahmasūtra II. ii. 40) is ingeniously interpreted by Yāmuna to refute the above concept of the Logician, and to establish the “apauruṣeyatva” or the revealed character of the Vedas.
+</details>
 
 <details><summary>मूलम्</summary>
 
 ननु कथं वेदा वा निरपेक्षा?  
 यावता तेषामपि भगवदनुभवसापेक्षमेव प्रमाणत्वं तत्कारणत्वात्। 
 </details>
-
-<details><summary>Buitenen</summary>
-
-$ This is the contention of the Naiyāyika. He does not accept the "apauruṣeyatva" of the Vedas. They, according to him, are dependent upon the Supreme Being, like the Pāñcarātrāgamas, for their validity, so much so they too are "pauruṣeya ", i.e., composed by the Divine Person. This is the point on which Yamuna differs from the Naiyayika. The aphorism "na ca kartuḥ harapum" ( Brahmasūtra II. ii. 40 ) is ingeniously interpreted by Yāmuna to elute the above concept of the Logician, and to establish the "apauruṣe- vatva " or the revealed character of the Vedas. 
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -979,9 +969,9 @@ Just as the Pāñcarātra Traditions are dependent on His cognition, so are the 
 
 तत्रोच्यते -  
 
-> न च कर्त्तुः करणं - 
+> न च कर्तुः करणं - 
 
-न कर्त्तुर् ईश्वरस्य करणं वेदाः।  
+न कर्तुर् ईश्वरस्य करणं वेदाः।  
 क्रियन्त इति करणम्,  
 कर्मणि ल्युट्,  
 अपौरुषेया वेदा इति यावत् ।  
@@ -1005,10 +995,16 @@ This then means that the Vedas are preterhuman.
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+न च ... Brahmasūtra, II. ii. 40.
+
+करणं ... ‘करणं’ = ‘क्रियमाणं’ = ‘कार्यम्’ इत्य् अर्थः।
+</details>
 
 <details><summary>मूलम्</summary>
 
-तत्रोच्यते न च कर्त्तुः करणं न कर्त्तुरीश्वरस्य करणं वेदाः क्रियन्त इति करणम्,  कर्मणि ल्युट्, अपौरुषेया वेदा इति यावत् ।  
+तत्रोच्यते न च कर्तुः करणं न कर्तुरीश्वरस्य करणं वेदाः क्रियन्त इति करणम्,  कर्मणि ल्युट्, अपौरुषेया वेदा इति यावत् ।  
 </details>
 
 
@@ -1023,6 +1019,10 @@ This then means that the Vedas are preterhuman.
 107\. Vijñānādibhāve vā tadapratiṣedhaḥ. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Brahmasūtra, II. ii. 41.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1148,6 +1148,12 @@ various lapses are conceivable in their knowledge.
 Whereas in the case of the Bhagavān, whose supremacy is natural and unlimited, His knowledge is the immediate insight in all dharma and adharma, which is natural to Him and true, as is known from hundreds of śrutis; it is this knowledge which in the sūtra is described as vijñāna, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Pādma Saṁhitā, Jñānapāda, II. 5b:
+
+> विज्ञानं भगवज्-ज्ञानं तज्-ज्ञानान् मुक्तिर् उच्यते ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1167,6 +1173,10 @@ Whereas in the case of the Bhagavān, whose supremacy is natural and unlimited, 
 When such knowledge is the 'beginning,' i.e. the basis, there is non-rejection, sc. the śāstra is valid.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘तद्-अप्रतिषेधः’ प्रामाण्यस्याप्रतिषेधः, प्रामाण्यम् इति यावत्।
+</details>
 
 <details><summary>मूलम्</summary>
 
