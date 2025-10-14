@@ -986,7 +986,7 @@ Cf. Mahābhārata, XII. 337.60a:
 
 भारते ...  
 
-> The Nārāyaṇīya section of the Mahābhārata ( XII. chs. 334-348 ) is valuable as it is the only fairly full account of the Pāñcarātra doctrines that we possess in original Sanskrit....All the bhakti-writers from Rāmānuja down to the present day, assume the reader's familiarity with the principles inculcated there in[[??]]. 
+> The Nārāyaṇīya section of the Mahābhārata ( XII. chs. 334-348 ) is valuable as it is the only fairly full account of the Pāñcarātra doctrines that we possess in original Sanskrit....All the bhakti-writers from Rāmānuja down to the present day, assume the reader's familiarity with the principles inculcated therein. 
 
 [ See G. A. Grierson, “The Nārāyaṇīya and the Bhāgavatas”, The Indian Antiquary, vol. 37, pp. 261-62. ]
 </details>
@@ -1079,6 +1079,9 @@ as he had seen it and heard it in the abode of Brahma."
 
 See G.A. Grierson, Indian Antiquary, vol. 37, p.253:
 
+> We have no literary evidence as to the train of reasoning by which this doctrine (Bhāgavata) was reached, but to me it appears more than probable that it was a development of the Sun-worship that was the common heritage of both branches of the Aryan people—the Eranian and the Indian. All the legends dealing with the origins of the Bhāgavata religion are connected in some way or other, with the sun.
+
+See also in this connection, L.D. Barnett, “The Hindu Gods and Heroes,” pp. 82-83.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1161,6 +1164,11 @@ is this that both are causes of defectless knowledge.
 <details><summary>Buitenen</summary>
 
 Consequently, because both are equally exemplary, they are optionally valid. It is with this view in mind that the wise Author of the Sūtras has explained: vijñanādibhave vaa tadapratiṣedhah.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Brahmasūtra II. ii. 41.
 </details>
 
 <details><summary>मूलम्</summary>
