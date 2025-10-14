@@ -232,6 +232,11 @@ because they are "accepted" by people hostile to the Veda,
 for the ground is unproved. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The argument here is that the handling of Vedic texts by the unorthodox people like the Buddhists and the Jains, cannot bring down the authoritative character of those texts. Otherwise, the Vedas would long ago, have become invalid since the unorthodox schools of thought tried to explain the Vedic passages as they pleased contradicting their original significance. The authority of the Vedas is for all time to come and the wrong handling of those texts by others cannot undermine it.
+</details>
+
 <details><summary>मूलम्</summary>
 
 नापि वेदद्वेषिजनपरिगृहीतत्वादप्रामाण्यं पञ्चरात्रतन्त्राणाम्,  हेतोरसिद्धत्वात्,
@@ -288,6 +293,13 @@ simply by accepting" the Vedas in some manner by way of deception.
 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Tantravārtika I. iii. 3, p. 85:
+
+> लोकायतिक-मूर्खाणां नैवान्यत् कर्म विद्यते ।  
+यावत् किञ्चिद् अदृष्टार्थं तत् दृश्यार्थं हि कुर्वते ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -316,6 +328,10 @@ simply by accepting" the Vedas in some manner by way of deception.
 118\. OBJECTION, A consideration of such statements as "He should never use the Veda, except at a funerary offering," (Manusmrti) shows that the defect affects only the unqualified students, not the defectless Vedic statements themselves.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Manusmṛti II. 172a. The reading found is: ‘नाभिव्याहारयेत्’ etc. A similar statement is found in the Gautama Dharmasūtra II. 9: ‘न ब्रह्माभिव्याहारयेत्’ & c.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -367,6 +383,13 @@ because it is accepted by those who, being unqualified, are outside the Veda,
 supra § 17: this Buddhist injunction is outside the Veda
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Bhaṭṭa Medhātithi, commenting upon Manusmṛti XII. 95, quotes from some unidentified source:
+
+> नोदनाः चैत्य-वन्दनतः स्वर्गो भवति ।
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -438,7 +461,7 @@ simply because they were not qualified to observe these prohibitions.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्य हि यन् न कर्त्तव्यं  
+यस्य हि यन् न कर्तव्यं  
 तस्य हि तत्-करणं प्रत्यवायाय, 
 </details>
 
@@ -448,10 +471,16 @@ If a man does something he should not do,
 he commits an offence. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Karmamīmāṁsā*, p. 93:
+
+> While an injunction directs a positive act, a prohibition (niṣedha or pratiṣedha) serves to turn a man away from performing the action expressed in the verb and its object. The prohibition does not lead to any desirable result such as heaven; it serves none the less a useful purpose; the man, who obeys the direction not to eat the mysterious kalañja, by observing this taboo escapes the hell which else had been his fate. In disgusted technical phraseology of Mīmāṁsā, the negative applies not to the sense of the verb, but to the optative affix; as an optative urges us to action, so a negatived optative turns away from it.
+</details>
 
 <details><summary>मूलम्</summary>
 
-यस्य हि यन्न कर्त्तव्यं तस्य हि तत्करणं प्रत्यवायाय, 
+यस्य हि यन्न कर्तव्यं तस्य हि तत्करणं प्रत्यवायाय, 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
