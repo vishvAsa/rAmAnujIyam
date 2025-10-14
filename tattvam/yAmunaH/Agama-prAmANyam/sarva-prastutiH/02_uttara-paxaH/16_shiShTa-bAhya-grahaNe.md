@@ -566,6 +566,10 @@ which are accepted by qualified persons belonging to the three estates,
 and is therefore inconclusive. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अप्रयोजकत्वम् एव प्रतिपादयति ‘चैत्य-वन्दनतः इत्य्-आदिना ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -607,6 +611,14 @@ but by the deficiency of its cause, [[100]]
 119\. We have already said that Pancarâtra has been accepted by the Vedic, and among all orthodox pre-eminent, sages Bhṛgu, Bharadvāja, Dvaipāyaṇa etc. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See G.A. Grierson, “The Nārāyaṇīya and the Bhāgavatas”, Indian Antiquary Vol. 37, p. 254:
+
+> The usual tradition is that it (the Bhāgavata doctrine) was transmitted: Deity—Nārada—saints including the Sun—Ṛṣis in his train—gods—Asita—to the world in different channels. Modern Bhāgavatas recognise two great teachers of their religion. One is Nārada, to whom is attributed Nāradīya Bhaktisūtra. Equally esteemed is the collection of Śāṇḍilyabhakti-sūtras. The author to whom it is attributed, composed the Śāṇḍilyavidyā quoted in the Chāndogya Upaniṣad III. xiv. 3.
+
+See also p. 9 above, fn
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -628,6 +640,16 @@ perform the rites of temple-building, erection of idols, prostration, circumambu
 just as they perform the agnihotra and other rituals enjoined directly by Scripture. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+For a detailed account of temple-construction according to Pañcarātra-texts, see Agastyasaṁhitā 1-106; Ahirbudhnya Saṁhitā XXXVI. 31-49; Īśvarasaṁhitā XVI. 1, 219-247; 266-287; Kapiñjalasaṁhitā X. 61-66; 69-72; Jayākhyasaṁhitā XX. 73ff; Pādma ‘kriyā’ IV. 24-28, 35-45; V. 84-90; VIII; Pārameśvara X. 2-106; Pauṣkara XL. 92-109a, XLII. 71-118; Viṣṇutilaka VI. 1-342a, 449-498; Sanatkumāra ‘Brahma’ VIII; Sāttvata XXIV. 280-432a, XXV. 1-375; Hayaśīrṣa ‘Ādi’. XIII. 1-41; XXXVIII. 61; XLIV. 12-19.
+
+For the installation of images, see Aniruddha XV, XXXIII, XXXIV; Īśvara XVI. 228-352, XVIII. 1-560; Jayākhya XX. 131b ff; Parama XVIII. 28-75; Pauṣkara XXXVIII. 1ff, 15-46; Sanatkumāra “Brahma” VI. 110 passim, IX. passim; Sāttvata XXV. 307ff; 320ff, XXVI. 375.
+
+For a description of Utsavas, which are as many as fifty in number, see Agastya V. 1-2; Aniruddha XVII. 9-16a, XX. 1-16, XXIV, XXV. 1-4, XXVII; Īśvara X. 4a-10, XII. 1-233a, XIII. 1-265a, XIX. 469-473; Kapiñjala XXII. 3-5, 8-9; XXIII. 1-84a, XXIV. 1-69a; Pādma “caryā” X. 6-23, XI. 1-292, XIV. 1-85; Pārameśvara XVI. 1-55, XVII. 1-550, Śāṇḍilya I, XV. 1-126; Śrīpraśna XXX. 79-87; Sanatkumāra “Śiva” IX.
+
+For the annual festival called Mahotsava, see Aniruddha XXI. 1-112; Īśvara X; Pādma “car” Xl; Śrīpraśna XXXI. 8, XXXVIII.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -670,6 +692,10 @@ they do know what is proper custom.
 [246]: supra §14.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Pūrvamīmāṁsā I. iii. 7.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -690,6 +716,12 @@ they do know what is proper custom.
 [247]: supra § 16.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अथ ... See p. 17 above, “एवं जात्या” & c.
+
+वासननेय ... The Ekāyanaśākhā belongs to the Śukla Yajurveda.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -756,6 +788,12 @@ would also be invalid.
 [249]: Quotations not identified; the groups enumerated are śūdras, and yet by Vedic injunction have to observe, i.e., to accept, the few Vedic injunctions addressed to them. Do they by their acceptance invalidate these injunctions?
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+रथकार ... Cf. Āpastambaśrautasūtra V. 3.19.
+
+एतया ... Maitrāyaṇi Saṁhitā [ed. Dr. Leopold V. Schroeder] II. 2.4. The reading found is : “तया निषाद-स्थ-पतिं याजयेत् सा हि तस्येष्टिः ।” For the Niṣādasthapati-nyāya see Śabara on Pūrvamīmāṁsā VI. i. 51, 52.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -779,6 +817,10 @@ is evident by all criteria of knowledge,
 their acceptance of Pañcaratra rather confirms its validity.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+For a detailed notice of the origination, transformation and philosophy of the Bhāgavata religion and its contribution to the Indian thought, see G. A. Grierson, “The Nārāyaṇīya and the Bhāgavatas”, Indian Antiquary, Vol. 37, pp. 251-262.
+</details>
 
 <details><summary>मूलम्</summary>
 
