@@ -206,6 +206,11 @@ if he suspects his mother of having had a lover;
 and how, my excellent opponent, can you be quite sure yourself that your birth entitled you to Veda-study? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अयं बहु-व्रीहिः ‘त्वं’ इत्य् अस्य अध्याहृतस्य विशेषणम् ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथा हि ।  
@@ -257,6 +262,10 @@ between the brahminhood of Bhagavatas and of others.
 is then the same authority stated for the brahminhood of the ones as well as of the others,
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अन्येषां ब्राह्मणत्वेन प्रसिद्धानां ब्राह्मण्य-ग्रहणे यत् प्रमाणं, तद् एव एतेषां भागवतानां ब्राह्मण्य-ग्रहणे प्रमाणं भवतीति ग्रन्थ-कृद्-वचः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -288,6 +297,10 @@ or how else is their brahminhood known
 if not by that same authority? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अस्माकम् एतेन विवादेन को लाभः? तथापि श्रूयताम् इत्य् आह ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -472,6 +485,10 @@ for knowledge of that sentencemeaning presupposes knowledge of the word-meaning 
 [250]: not identified.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Taittirīya Brāhmaṇa I.1.2.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -608,6 +625,15 @@ every case the sense becomes the cause of the rise of determination of sense-obj
 [251]: read deśakālasaṃsthānāditi.[[??]]
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+सर्वत्र ... Cf. Ślokavārtika under I.1.5, śl. 26 (vanavāda) :
+
+> तस्योपलक्षणं चापि क्वचित् केनचिद् इष्यते ।  
+रूपादीनां विशेषेण देश-कालाद्य्-अपेक्षया[[??]] ॥
+
+परिच्छेदः = ज्ञानं, निर्णयो वा ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -623,6 +649,11 @@ every case the sense becomes the cause of the rise of determination of sense-obj
 <details><summary>Buitenen</summary>
 
 It is the natural function of the sense-organ as such to relate itself to these accompanying circumstances. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+करण-मात्रम् = करण-सामान्यम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -655,6 +686,17 @@ unless it is favoured by these circumstances.252
 [252]: not identified.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ślokavārtika (Sambandhākṣepavāda) under I.i.5.śl. 37.
+
+‘इति-कर्तव्यता-साध्ये’ अङ्गाधीने; ‘अनुग्रहे’ उपकारे; ‘अर्थिता’ सापेक्षता इति भावः ।
+
+Cf. Nyāyaratnākara (Chowkhamba edn.) on the above verse p.507:
+
+> सर्वत्र चक्षुरादौ प्रदीपाद्य्-अर्थित्व-दर्शनाद् ऐकान्तिकं सहायापेक्षणं नाशक्तिम् आपादयति । प्रस्तुत इति-कर्तव्य-तयैव करणत्वं, तद्-अभाव एव तस्य सिध्यति ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा ऽऽह -  
@@ -678,6 +720,15 @@ gives knowledge of brahminhood
 without the object giving up its perceptuality. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Veṅkaṭanātha quotes this and the following verse in his Nyāyasiddhāñjana V. p. 267.
+
+Cf. Prakaraṇapañcikā III. p. 17:
+
+> जातिर् आश्रयतो भिन्ना प्रत्यक्ष-ज्ञान-गोचरा ।  
+पूर्वाकारावमर्शेन प्रभाकर-गुरोर् मता ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -698,6 +749,10 @@ without the object giving up its perceptuality.
 So it is evident that the visual sense can be the instrument of knowledge of genus in dependence on a variety of accompanying factors. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+श्लोक-वार्तिक इति भावः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -741,6 +796,13 @@ fire, which is hidden by ashes, perceived through touching the ashes.
 Sound may provide us with proof that there is a horse in the distance; 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Ślokavārtika (Vākyādhikaraṇa) śl. 358, p. 947:
+
+> पश्यतः श्वेतिमारूपं[[??]] हेषा-शब्दं च शृण्वतः ।  
+खुर-निक्षेप-शब्दं च श्वेतो ऽश्वो धावतीति धीः ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -763,6 +825,10 @@ Sound may provide us with proof that there is a horse in the distance;
 a pitcher etc. are known through their configuration; brahminhood through descent, and also through conduct in certain particulars, which is completely protected by the king.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide ibid (Vanavāda) I. i.5, śls. 27 & 29.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -807,6 +873,10 @@ but the perceptuality of their differentness is not refuted by just this.
 In this case the non-perception of their differentness is caused by the defect of similarity. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+विभागो भेदः, विशेषो वा ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -848,6 +918,12 @@ The difference between nacre and silver, which are similar in appearance and con
 Or else, brahminhood is that which arises from the differentiae of genus, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Prakaraṇapañcikā, III, p. 31:
+
+> तेन सन्तति-विशेष-प्रभवत्वम् एव ब्राह्मण-शब्द-प्रवृत्ताव् उपाधिः । तत्-प्रभवानाम् एव कर्मस्व् अधिकार इति न किञ्चिद् अवहीनम् । के पुनस् ते सन्तति-विशेषाः? न ते परिगणय्य निर्देष्टुं शक्यन्ते; किन्तु लोकत एव प्रसिद्धाः प्रत्येतव्याः । तथा च तज्-जन्यत्वे ऽवगते ब्राह्मण-शब्दं प्रयुञ्जते[[??]] लोकाः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -865,6 +941,11 @@ Or else, brahminhood is that which arises from the differentiae of genus,
 
 and such a product can empirically be known just like any other product  
 by a process of positive and negative consideration, 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+कपाल-द्वय-योग एव घटोत्पत्तिः; नो चेत् । एवं, एतादृश-पितृ-मातृ-कारणत्व एव ब्राह्मणत्वं, न त्व् अन्यथा इति भावः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -929,6 +1010,10 @@ it is established that the Bhagavatas are brahmins, because they possess gotra e
 126\. The objection that was made that the Bhāgavatas are born from a vaiśya vratya: 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See p. 13 above, for the pūrvapakṣa view.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -950,6 +1035,10 @@ it is established that the Bhagavatas are brahmins, because they possess gotra e
 > "The fifth one, the Sarvata, must worship the sanctuaries of Visnu by royal decree;" 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -972,6 +1061,14 @@ and
 > "he is also called a Bhagavata; he is born from a vaisya vratya." 
 
 \- On the authority of the two statements.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. Manusmṛti X. 23:
+
+> वैश्यात् तु जायते व्रात्यात् सुधन्वा ऽऽचार्य एव च ।  
+भानुवश् च[[??]] निजङ्घश् च मैत्रस् सात्वत एव च ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1108,6 +1205,10 @@ the predicated fire does not necessarily possess smoke.255
 The example is 'parvato 'gnimin dhumavattvāt if we interchange S and P, we get parvato dhumavin agnimattvåt, but this is not true, for though there is no fireless smoke, there is smokeless fire. Similarly here: the fifth may be a sitvata or a vaidya vratya, but being the fifth does not make the sitvata a vaidya vratya, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘उद्दिश्यमानस्य’ धूमवत इत्य् अर्थः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1153,6 +1254,14 @@ therefore an eminent brahmin who is an acarya imparting teaching of the Veda wit
 [256]: In the Manu quotation supra § 15.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+यदि ... This paragraph is in elucidation of the word “atiprasaṅgācca” used in the para “na tāvat” etc. above.
+
+सहपठिताचार्य ... The term ‘ācārya’ is from the Manusmṛti X. 23a:
+
+> वैश्यात् तु जायते व्रात्यात् सुधन्वा ऽऽचार्य एव च ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1179,6 +1288,17 @@ therefore an eminent brahmin who is an acarya imparting teaching of the Veda wit
 If, on the other hand, even though a true brahmin is denoted by the word ācārya which dea vratya, there still can be no suspicion that he actually is a vratya, because there is positive certainty of his brabminhood which is clearly proved by other means of knowledge, and because it is possible that the word acarya is used figuratively (ācārya as one who "accumulates"— acinoti the pupil's knowledge) for a Brahmin teacher, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Nirukta (Ānandāśrama Series 88) I. ii. 4, p. 36:
+
+> आचारं ग्राहयत्य् आचिनोत्य् अर्थान्, आचिनोति बुद्धिम् इति वा ।
+
+Also Cf. Vihagendrasaṁhitā (ms.):
+
+> आचिनोति परान् सर्वान् आचारयति सर्वतः ।  
+आचरेत्य् अपि तान् लोकान् स तु आचार्य उच्यते ॥ [XXII. 14]
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1228,6 +1348,10 @@ does not mean that therefore both belong to one and the same caste,
 lest the true brahmin be not made into a low-caste man because he is also denoted by the word AchArya.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+“śabdyatvāt” would have been a better reading. But no text preserves this reading. As it stands now, the term “ācāryaśabdatvāt” has to be explained as a Bahuvrīhi compound, qualifying the term “Brāhmaṇa”.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1253,6 +1377,11 @@ We find that the word hari also means 'frog.' Does it follow that a lion is a fr
 ([259]: gauḥ can mean 'cow' and 'word." )
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This and the two succeeding lines are quoted by Sudarśanasūri in his commentary on Śrībhāṣya, I.i.1, Vol. I, p. 153.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथा च 'हरि'-शब्दस्य दृष्टा मण्डूकवाचिता ।  
@@ -1275,6 +1404,12 @@ We find that the word hari also means 'frog.' Does it follow that a lion is a fr
 Consequently, just as the words sudhanvan, ācārya etc., which denote more than one meaning, are also used for someone born from a vaiśya vratya, so also the words Bhagavata and Satvata.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+सुधन्वाऽऽचार्य ... Manusmṛti X. 23a: “वैश्यात् तु जायते व्रात्यात्” etc.
+
+यथा ... सुधन्वादि-शब्दा यथा अर्थान्तर-वाचका, एवं सात्त्वत-भागवत-शब्दाव् अपीति योजना । ‘यथार्थान्तर-वाचका’ इति न समस्तं पदम् ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1302,6 +1437,11 @@ Consequently, just as the words sudhanvan, ācārya etc., which denote more than
 [260]: supra §15.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See “रूढ्या” etc., p. 12 above.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदुक्तं योगरूढिशक्तिद्वयोपनिपाते सात्त्वत-भागवत-शब्दयो रूढिशक्तिरेवाश्रयितुमुचितेति ।  
@@ -1322,6 +1462,10 @@ which is the composite of the denotations of the component elements of the words
 then it is not right to assume a non-composite denotation.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अवयव-शक्तिः = योग-शक्तिः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1355,6 +1499,33 @@ must also theorize that the words sattvavat and bhagarut, which are the stem and
 [262]: "conventionally the two words are synonymous, 'etymologically' they have different meanings.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+सत्त्ववद् ... Parāśarabhaṭṭa in his ‘Viṣṇusahasranāmabhāṣya’ gives the following explanations for the term ‘sāttvata’ identifying the latter with ‘mahābhāgavata’ [ See Introduction to Jayākhya Saṁhitā ]
+
+(i) सत् ब्रह्म, सत्त्वं वा, तद्वन्तः सात्त्वन्तः; ब्रह्म-विधाः सात्त्विका वा; तेषाम् इदं कर्म शास्त्रं वा सात्त्वतम्, तत्-कुर्वाणाः, तद्-आचक्षणाश् च वा ।
+
+(ii) सातयति सुखयत्य् आश्रितान् इति सात् परमात्मा; स एतेषाम् अस्तीति वा सात्त्वताः । सात्त्वतो वा महा-भागवतः ।
+
+The Mahābhārata, Āśvamedhikaparvan [Vavilla edn., Vol. XVIII] ch. 124, śls. 33-37 speaks in favour of the brahmanical status of the Bhāgavatas:
+
+> अपार्थकं प्रभाषन्ते शूद्रा भागवता इति ।  
+न शूद्रा भगवद्-भक्ता विप्रा भागवताः स्मृताः ॥  
+सर्व-वर्णेषु ते शूद्रा ये ह्य् अभक्ताः जनार्दने ।  
+द्वादशाक्षर-तत्त्व-ज्ञः चतुर्-वेद-विभागवित् ॥  
+अच्छिद्र-पञ्च-काल-ज्ञः स वै भागवतः स्मृतः ।  
+ऋग्-वेदेनैव होता च यजुषा ऽध्वर्युर् एव च ॥  
+साम-वेदेन चोद्गाता पुण्येनाभिष्टुवन्ति माम् ।  
+अथर्व-शिरसा चैव नित्यम् आथर्वणा द्वि-जाः ॥  
+स्तुवन्ति सततं ये मां ते वै भागवताः स्मृताः ॥
+
+तद्धित ... अमुम् एव प्रत्ययं ‘अण्’ इति स्वयम् एव निर्दिशति ।
+
+सात्त्वतं ... Mahābhārata, Bhīṣma, ch. 62. śl. 39b.
+
+जन्मान्तर ... Paramasaṁhitā, III. 38b.
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1396,6 +1567,10 @@ clearing away the bali offerings,
 guarding the idol etc., for it is taught that the can suffix may occur in the sense of a simple relation, "this is of that." (263, Panini.)
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See Siddhāntakaumudī, IV. iii. 120.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1412,6 +1587,11 @@ guarding the idol etc., for it is taught that the can suffix may occur in the se
 <details><summary>Buitenen</summary>
 
 And it is declared that the issue of a vaiśya vratya has the work discipline of cleaning the Bhagavan's temple etc., 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+See p. 14 above where the word नैवेद्य-शोधनं was used.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1431,6 +1611,10 @@ And it is declared that the issue of a vaiśya vratya has the work discipline of
 "and (the task) of the satvatas is the cleaning of the deity's temple, the eating of the offerings, the guarding of the idol;" 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
