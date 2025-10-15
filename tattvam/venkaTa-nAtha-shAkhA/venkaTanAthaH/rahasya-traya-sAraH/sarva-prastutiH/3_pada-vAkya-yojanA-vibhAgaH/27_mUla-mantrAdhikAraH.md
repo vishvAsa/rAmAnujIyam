@@ -17944,7 +17944,7 @@ a saber,
 **Debe tomarse** en un sentido más amplio (upalakṣaṇa)  
 para **incluir** también la colección de todos los tattvas (no sintientes incluidos). 
 
-Porque incluso la materia no sensible **no es perecedera** en su naturaleza esencial (svarūpa)
+Porque incluso la materia no sintiente **no es perecedera** en su naturaleza esencial (svarūpa)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -17985,7 +17985,7 @@ and which are denoted by the word Nara.
 <details><summary>Español</summary>
 
 y también debido a la continuidad (pravāha) de los diferentes estados (avasthās) en el que **cambia**,  
-(incluso) la materia no sensible **es** eterna.
+(incluso) la materia no sintiente **es** eterna.
 
 Nārāh **significa** por lo tanto por **implicación** (upalakṣaṇa)  
 todos los tattvas que **son** eternos  
@@ -18302,7 +18302,7 @@ Sentient beings and non-sentient things that are related to Him are His śeṣas
 **No se somete** a ningún **cambio**.
 Por lo tanto, **se le llama** Nara,  
 Porque él siempre **es** el mismo (na ra),  
-Los seres sintientes y las cosas no sensibles que **están** relacionadas con él  
+Los seres sintientes y las cosas no sintientes que **están** relacionadas con él  
 **son** sus Śeṣas.
 </details>
 
@@ -18544,7 +18544,7 @@ Esta interpretación **deja** en claro que
 Esos atributos que **definen** la naturaleza esencial del ser supremo como (Satyam, Jñānam y ānandam)  
 y las cualidades o atributos de la naturaleza esencial tan **definida**, como la compasión,  
 Sus **actividades** y las formas específicas **asumidas** por él  
-y del mismo modo los tres tipos de seres sintientes (el límite, el liberado y lo eterno) y todas las cosas no sensibles,  
+y del mismo modo los tres tipos de seres sintientes (el límite, el liberado y lo eterno) y todas las cosas no sintientes,  
 Todos estos **se entienden** por la palabra nārāh.
 </details>
  
@@ -21282,7 +21282,7 @@ His **being** different from non-sentient matter, from souls in bondage, from so
 
 <details><summary>Español</summary>
 
-Su **ser** diferente de la materia no sensible, de las almas en **esclavitud**, de las almas en **mukti** y de los eternos sūris (nityas),
+Su **ser** diferente de la materia no sintiente, de las almas en **esclavitud**, de las almas en **mukti** y de los eternos sūris (nityas),
 </details>
 
 <details><summary>मूलम्</summary>
@@ -24715,17 +24715,685 @@ en virtud de que **tiene** el cuerpo como atributo,
 विशिष्टवेषत्तालेसृष्टिसंहारविषयत्वम्, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-क्षयत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-क्षयत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+but that the self **is imperishable**, 
+</details>
+
+<details><summary>Español</summary>
+
+sino que el yo **es imperecedero**, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अक्षयत्वम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वतो बहुत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वतो बहुत्वम्, 
+</details>
+<details><summary>English</summary>
+
+that the self **is** one among many, 
+</details>
+
+<details><summary>Español</summary>
+
+que el yo **es** uno entre muchos, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वतो बहुत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-संख्यातत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-संख्यातत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that the selves are countless, 
+</details>
+
+<details><summary>Español</summary>
+
+que los yoes **son** innumerables, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+असंख्यातत्वम्, 
+</details>
+
+#### ईश्वर-व्याप्त्यादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वर-व्याप्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वर-व्याप्यत्वम्, 
+</details>
+<details><summary>English</summary>
+
+that the self **is pervaded** by Iśvara (who **is** its in-**dwelling** Self), 
+</details>
+
+<details><summary>Español</summary>
+
+que el yo **está impregnado** por Iśvara (que **es** su Ser interior-**morada**), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ईश्वरव्याप्यत्वम्, 
+</details>
 
 
-but that the self is imperishable, that the self is one among many, that the selves are countless, that the selt is pervaded by Iśvara (who is its in-dwelling Self), that he is subject to the control of Iśvara, that he is supported by Iśvara, and that as a consequence of these, the self is the body of Iśvara that the jīva is the cause of the sportive delight (lilā rasa) of Iśvara, that he is entitled to be the instrument for the Lord's enjoyment (bhoga) (in Nityavibhūti), that his passage to his goal depends on Iśvara, that the attainment of that goal depends on Iśvara, that he should seek neither worldly prosperity nor kaivalya, that he should eagerly long for the attainment of Bhagavān, that he should become free from all avidyā, that the self would manifest itself in its essential nature, that the self is capable of visualising everything (in the state of mukti), that his sole enjoyment should consist in the experience of Bhagavān in every form, that he is capable of **having** unsurpassed bliss, that his **being** an enjoyer is (only) for the enjoyment ot of Bhagavān, that the self (in its realised state) can take any form and the like at will, that its will is irresistible, that the self will have perfect resemblance to the Lord except in regard to those uncommon qualities or attributes that define His essential nature, that the sell's delight is in rendering every kind of service to Bhagavān and that the self will never return to saṁsāra (after attaining mukti). (67).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वर-नियाम्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वर-नियाम्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **is subject** to the **control** of Iśvara, 
+</details>
+
+<details><summary>Español</summary>
+
+que **está sujeto** al **control** de Iśvara, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ईश्वर-नियाम्यत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वर-धार्यत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वर-धार्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he is supported by Iśvara, 
+</details>
+
+<details><summary>Español</summary>
+
+que **es apoyado** por Iśvara, 
+</details>
+ 
+<details><summary>मूलम्</summary>
+
+ईश्वरधार्यत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱिऩ् नियमम् अडिय् आग वन्द ईश्वर-शरीरत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+/... ईश्वर-शरीरत्वम्
+</details>
+
+<details><summary>English</summary>
+
+and that as a **consequence** of these,  
+the self **is** the body of Iśvara, 
+</details>
+
+<details><summary>Español</summary>
+
+y que como **consecuencia** de estos,  
+el yo **es** el cuerpo de Iśvara,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिऩ् नियममडियाग वन्द ईश्वरशरीरत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वर-लीला-रस-हेतुत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वर-लीला-रस-हेतुत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+that the jīva **is** the cause of the **sportive delight** (lilā rasa) of Iśvara, 
+</details>
+
+<details><summary>Español</summary>
+
+que el jīva **es** la causa del **deleite deportivo** (lilā rasa) de Iśvara, 
+</details>
 
 
-he should note the above principal qualities of his own, which are indicated explicitly by the words themselves and which lie implicit in their meaning and other qualities connected with them, which are all accepted on the authority of the pramāṇas : 
+<details><summary>मूलम्</summary>
+
+ईश्वरलीलारसहेतुत्वम्,
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वर-भोगोपकरणार्हत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वर-भोगोपकरणार्हत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **is entitled to be** the instrument for the Lord's **enjoyment** (bhoga) (in Nityavibhūti), 
+</details>
+
+<details><summary>Español</summary>
+
+que **tiene derecho a ser** el instrumento para el **disfrute** (bhoga) (en Nityavibhūti) del Señor, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ईश्वरभोगोपकरणार्हत्वम्, 
+</details>
+
+
+#### गत्य्-आदि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-अधीन-गतित्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तद्-अधीन-गतित्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that his passage to his goal **depends** on Iśvara, 
+</details>
+
+<details><summary>Español</summary>
+
+que su **paso** a su meta **depende** de Iśvara, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदधीनगतित्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-अधीन--तत्-प्राप्तित्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तद्-अधीन--तत्-प्राप्तित्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that the **attainment** of that goal **depends** on Iśvara, 
+</details>
+
+<details><summary>Español</summary>
+
+que el **logro** de esa meta **depende** de Iśvara, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तदधीनतत्प्राप्तित्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऐश्वर्य-कैवल्य-निरपेक्षत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ऐश्वर्य-कैवल्य-निरपेक्षत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+that he should **seek** neither worldly prosperity nor kaivalya, 
+</details>
+
+<details><summary>Español</summary>
+
+que **no buscara** ni la prosperidad mundana ni el kaivalya, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऐश्वर्यकैवल्यनिरपेक्षत्वम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-प्राप्त्य्-अर्थित्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवत्-प्राप्त्य्-अर्थित्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **should** eagerly **long for** the attainment of Bhagavān, 
+</details>
+
+<details><summary>Español</summary>
+
+que **debería anhelar** ansiosamente el **logro** de Bhagavān, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवत्प्राप्त्यर्थित्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वाविद्योन्मुक्तत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वाविद्योन्मुक्तत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **should become free** from all avidyā, 
+</details>
+
+<details><summary>Español</summary>
+
+que **se libere** de todo avidyā, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वाविद्योन्मुक्तत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आविर्-भूत-स्वरूपत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आविर्-भूत-स्वरूपत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that the self **would manifest** itself in its essential nature, 
+</details>
+
+<details><summary>Español</summary>
+
+que el yo **se manifestaría** en su naturaleza esencial, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आविर्भूतस्वरूपत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-द्रष्टृत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-द्रष्टृत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that the self **is capable** of **visualising** everything (in the state of mukti), 
+</details>
+
+<details><summary>Español</summary>
+
+que el yo **es capaz** de **visualizar** todo (en el estado de mukti), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वद्रष्टृत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-प्रकार-भगवद्-अनुभवैक-भोगत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-प्रकार-भगवद्-अनुभवैक-भोगत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that his sole **enjoyment should consist** in the **experience** of Bhagavān in every form, 
+</details>
+
+<details><summary>Español</summary>
+
+que su único **disfrute consista** en la **experiencia** de Bhagavān en todas sus formas, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वप्रकारभगवदनुभवैकभोगत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निर्-अतिशयानन्दवत्त्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+निर्-अतिशयानन्दवत्त्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that he **is capable** of **having unsurpassed** bliss, 
+</details>
+
+<details><summary>Español</summary>
+
+que **es capaz** de **tener una dicha insuperable**, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+निरतिशयानन्दवत्त्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवद्-भोगार्थ-भोक्तृत्वम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवद्-भोगार्थ-भोक्तृत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+that his **being** an **enjoyer** is (only) for the **enjoyment** of Bhagavān, 
+</details>
+
+<details><summary>Español</summary>
+
+que su **ser** un **disfrutador** es (sólo) para el **disfrute** de Bhagavān, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवद्भोगार्थभोक्तृत्वम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऐच्छिक-विग्रहादिमत्त्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ऐच्छिक-विग्रहादिमत्त्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that the self (in its realised state) **can take** any form and the like at will, 
+</details>
+
+<details><summary>Español</summary>
+
+que el yo (en su estado realizado) **puede tomar** cualquier forma y similares a voluntad, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऐच्छिकविग्रहादिमत्त्वम्, 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इच्छा-विघात-रहितत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इच्छा-विघात-रहितत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that its will **is irresistible**, 
+</details>
+
+<details><summary>Español</summary>
+
+que su voluntad **es irresistible**, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इच्छाविघातरहितत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वर-लक्षण-व्यतिरिक्त-परम-साम्यम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वर-लक्षण-व्यतिरिक्त-परम-साम्यम्,
+</details>
+
+<details><summary>English</summary>
+
+that the self **will have** perfect **resemblance** to the Lord except in regard to those uncommon qualities or attributes that **define** His essential nature, 
+</details>
+
+<details><summary>Español</summary>
+
+que el yo **tendrá** una **semejanza** perfecta con el Señor, excepto en lo que respecta a aquellas cualidades o atributos poco comunes que **definen** Su naturaleza esencial, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरलक्षणव्यतिरिक्तपरमसाम्यम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-शेष-कैङ्कर्यैक-रतित्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-शेष-कैङ्कर्यैक-रतित्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+that the self's **delight is** in **rendering** every kind of **service** to Bhagavān  
+</details>
+
+<details><summary>Español</summary>
+
+que el **deleite** del yo es **rendir** todo tipo de **servicio** a Bhagavān  
+</details>
+
+<details><summary>मूलम्</summary>
+
+अशेषकैङ्कर्यैकरतित्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-पुनर्-आवृत्तिमत्त्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+and that the self **will never return** to saṁsāra (after **attaining** mukti) (67) -
+</details>
+
+<details><summary>Español</summary>
+
+y que el Ser **nunca regresará** al saṁsāra (después de **alcanzar** mukti) (67) -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपुनरावृत्तिमत्त्वम्, 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱ् इवै प्रधानङ्गळ् आगक् कॊण्ड्  
+इवऱ्ऱैत् तुवक्कि वरुम् मऱ्ऱ्-उळ्ळ प्रामाणिकार्थङ्गळुम् ऎल्लाम्  
+इप्-पदङ्गळिल् अडैवे+++(=क्रमशः)+++  
+शब्द-सामर्थ्यत्तालुम् अर्थ--स्वभावत्तालुम् अनुसन्धेयङ्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+he **should note** the above principal qualities of his own,  
+which **are indicated** explicitly by the words themselves  
+and which **lie implicit** in their meaning  
+and other qualities connected with them,  
+which **are all accepted** on the authority of the pramāṇas.
+</details>
+
+<details><summary>Español</summary>
+
+él **debe tener en cuenta** las principales cualidades propias **mencionadas** anteriormente,  
+que **están indicados** explícitamente por las propias palabras  
+y que **están implícitos** en su significado  
+y otras cualidades **relacionadas** con ellos,  
+los cuales **son todos aceptados**  
+bajo la autoridad de los pramāṇas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱिवै प्रधानङ्गळागक् कॊण्डिवऱ्ऱैत् तुवक्कि वरुम् मऱ्ऱुळ्ळ प्रामाणिकार्थङ्गळुमॆल्लामिप् पदङ्गळिलडैवे शब्दसामर्थ्यत्तालुमर्थस्वभावत्तालुमनुसन्धेयङ्गळ्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-पदत्रयेऽत्र संक्षेपाद्भाव्यानन्यार्हशेषता ।  
-अनन्योपायता स्वस्य तथानन्यपुमर्थता ॥
+पद-त्रयेऽत्र संक्षेपाद्  
+**भाव्यानन्यार्ह-शेषता** ।  
+अनन्योपायता स्वस्य  
+तथा ऽनन्य-पुम्-अर्थता ॥ +++(4)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पद-त्रयेऽत्र संक्षेपाद्  
+**भाव्यानन्यार्ह-शेषता** ।  
+अनन्योपायता स्वस्य  
+तथा ऽनन्य-पुम्-अर्थता ॥ +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+In the three words of this (Tirumantra),  
+**we should reflect**, in brief,  
+on our **being entitled to be** the śeṣa of no one other than the Lord,  
+that we **have** no other upāya than the Lord,  
+and that we **have** no other end to attain than the Lord.
+</details>
+
+<details><summary>Español</summary>
+
+En las tres palabras de este (Tirumantra),  
+**debemos reflexionar**, en breve,  
+sobre nuestro **tener derecho a ser** el śeṣa de nadie más que el Señor,  
+sobre que **no tenemos** otro upāya que el Señor,  
+y sobre **no tenemos** otro fin que **alcanzar** sino el Señor.
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -24734,9 +25402,294 @@ he should note the above principal qualities of his own, which are indicated exp
 अनन्योपायता स्वस्य तथानन्यपुमर्थता ॥
 </details>
 
-In the three words of this (Tirumantra), we should reflect, in brief, on our **being** entitled to be the śeṣa, of no one other than the Lord, that we have no other upāya than the Lord, and that we have no other end to attain than the Lord.
+### भेदाः
 
-Thus the Tirumantra has ( as stated in Nāradiyakalpam) everything that a man ought to know. From it one can understand the essential nature of cit (sentient **being**s ) acit (non-sentient matter) and Iśvara, as well as the differences among the jīvas themselves. The Tirumantra also teaches the unconditional differences between the jīva (the individual self) and the Supreme Sell, as, the former is śeṣa and the latter śeṣī. It determines Also the person of the Supreme Deity who is both the material and the instrumental cause of the whole universe. Therefore even those who live in the same locality as those that meditate on the Tirumantra in this manner will never have delusions such as.the following :- " There is no Iśvara or God"; "Iśvara is attributeless"; "Iśvara is absolutely indifferent (to the welfare of the jīvas), "His god.head is a mere reflection or image which has no reality" • His divinity is the result of some special karma  performed by Him". “He is occasionally subject to such things as karma ". "The three gods, Brahma, Viṣṇu and Siva, are of equal rank", "The three gods mentioned above are really one : " The Supreme Reality or Tattva is someone beyond these three gods", "One of these, Brabma and Siva, is Iśvara". "The essential nature (svarūpa) of Iśvara is subject to change or modification". "The material cause and the instrumental cause can never be the same", "The jīva and Iśvara are only a single self". "The difference between the jīva and Iśvara is due to certain limiting factors or conditions (upādhi)". "The jīva and Iśvara are eternally (both) different and non-different," " The jīva is śeṣa only on account of his karma ". "The jīva is at times śeṣa and at other times not a śeṣa". "The jīva is inert (jaḍa)". "The jīva is, in his essential nature, knowledge (and does not possess knowledge as an attribute)". "The jīva is eternally free from bondage". "The jīva only seems to enjoy (i.e. his enjoyment is not real but illusory). "The jīva is not a doer or agent". " The jīva is a doer or agent independent of Iśvara". "The self laats (only) until the pralaya". "The jīva lasts only until mukti (and then becomes one with the Supreme Being)". There is only one jīva (all the others are illusory)", "The jīva stands self-supported". "The jīva is, in his essential nature, an effeci baving its origin in a cause." "The jīva can, in no sense, be considered as an effect (even with regard to His body and the like)", "The jīva can attain his end only by karma ". "The jīva, in the state of release from saṁsāra, is like a stone (**having** no knowledge and the like)". "The jīva finds delight only in his own disembodied self". "The jīva is absolutely independent of Bhagavān". "The jīva is one with Iśvara". "The jīva is without such things as activities". "The jīva can separate and unite (with Iśvara)". "The jīvas vary in the bliss that they will enjoy after mukti ". "The jīvas have such differences as **being** fit to have only salokya and the like ", and other such delusions due to perverted systems of religious thought and to those who are outside the pale of Vedic religion.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् पडि  
+
+> ‘‘सर्वम् अष्टाक्षरान्तस्थं’’  
+(नारदीय-कल्पः १-९) 
+
+ऎऩ्ऩुम् बडिय् इरुक्किऱ इत् तिरु-मन्त्रत्तिले
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सर्वम् अष्टाक्षरान्तस्थं’’  
+(नारदीय-कल्पः १-९) 
+
+</details>
+
+<details><summary>English</summary>
+
+Thus the Tirumantra **has** ( as **stated** in Nāradiyakalpam) everything that a man **ought to know**.  
+From it …  
+</details>
+
+<details><summary>Español</summary>
+
+Así, el Tirumantra **tiene** (como **declaró** en Nāradiyakalpam) todo lo que un hombre **debe saber**.  
+De ahí ...  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि ‘‘सर्वमष्टाक्षरान्तस्थं’’(नारदीय-कल्पः १-९) ऎऩ्ऩुम्बडियिरुक्किऱ इत्तिरुमन्त्रत्तिले
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चिद्--अ-चिद्--ईश्वर--स्व-रूपङ्गळुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+चिद्--अ-चिद्--ईश्वर--स्व-रूपाणि, 
+</details>
+
+<details><summary>English</summary>
+
+the essential nature of cit (sentient beings ), acit (non-sentient matter) and Iśvara, 
+</details>
+
+<details><summary>Español</summary>
+
+la naturaleza esencial de cit (seres sintientes), acit (materia no sintiente) e Iśvara, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+चिदचिदीश्वरस्वरूपङ्गळुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीवर्गळ्-उडैयव् अन्योऽन्य-भेदमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+as well as the differences among the jīvas themselves
+(one can understand.)
+</details>
+
+<details><summary>Español</summary>
+
+así como las diferencias entre los propios jīvas  
+(Uno **puede entender**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+जीवर्गळुडैयवन्योन्यभेदमुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शेष-शेषि-भावादिगळाले  
+निरुपाधिक-जीवेश्वर-भेदमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(The Tirumantra also teaches)  
+the unconditional differences between the jīva (the individual self) and the Supreme Self,  
+as, the former is śeṣa and the latter śeṣī. 
+</details>
+
+<details><summary>Español</summary>
+
+(El Tirumantra también **enseña**)  
+las diferencias incondicionales entre el jīva (el yo individual) y el Ser Supremo,  
+como, el primero es śeṣa y el segundo śeṣī. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+शेषशेषिभावादिगळाले निरुपाधिकजीवेश्वरभेदमुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निखिल-जगन्-निमित्तोपादान-भूत--  पर-देवता-विशेष-निर्धारणादिगळुं सिद्धिक्कैयाल् 
+</details>
+
+<details><summary>English</summary>
+
+It determines also the person of the Supreme Deity  
+who is both the material and the instrumental cause of the whole universe. 
+</details>
+
+<details><summary>Español</summary>
+
+**Determina** también la persona de la Deidad Suprema  
+que **es** tanto la causa material como la instrumental de todo el universo. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+निखिलजगन्निमित्तोपादानभूतपरदेवताविशेष-निर्धारणादिगळुम् सिद्धिक्कैयाल् 
+</details>
+
+### फलित-विवेकः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि अनुसन्धिप्पार् इरुन्द ऊरिल् इरुक्कुम् अवर्गळुक्कुम्  
+</details>
+
+<details><summary>English</summary>
+
+Therefore even those who live in the same locality as those that meditate on the Tirumantra in this manner :-
+</details>
+
+<details><summary>Español</summary>
+Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que **meditan** en el Tirumantra de esta manera:  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि अनुसन्धिप्पारिरुन्द ऊरिलिरुक्कुमवर्गळुक्कुम् 
+</details>
+
+#### ऐश्वर्ये
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ईश्वरऩ् इल्लैय्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "There **is no** Iśvara or God"; 
+</details>
+
+<details><summary>Español</summary>
+
+> "**No hay** Iśvara o Dios"; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+"ईश्वरऩ् इल्लैय्" ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"निर्विशेषऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+"Iśvara **is** attributeless"; 
+</details>
+
+<details><summary>Español</summary>
+
+"Iśvara **es** sin atributos"; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+निर्विशेषऩॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अत्यन्तोदासीनऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> Iśvara **is** absolutely indifferent (to the welfare of the jīvas), 
+</details>
+
+<details><summary>Español</summary>
+
+> Iśvara **es** absolutamente indiferente (al **bien-estar** de los jīvas), 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्यन्तोदासीनऩॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"प्रतिफलन-तुल्यैश्वर्यऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "His god-head is a mere reflection or image which has no reality" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Su divinidad **es** un mero **reflejo** o imagen que **no tiene** realidad" 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रतिफलन-तुल्यैश्वर्यऩॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"कर्म-विशेष-सिद्धैश्वर्यऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> His divinity **is** the result of some special karma  **performed** by Him. 
+</details>
+
+<details><summary>Español</summary>
+
+> Su divinidad **es** el **resultado** de algún karma especial **realizado** por Él. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कर्मविशेषसिद्धैश्वर्यऩॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कदाचित्-कर्मादिपरवशऩॆऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> “He **is** occasionally **subject** to such things as karma ". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Él **está** ocasionalmente **sujeto** a cosas como el karma". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कदाचित्-कर्मादिपरवशऩॆऩ्ऱुम्, 
+</details>
+
+
+
+
+
+will never have delusions such as the following  
+
+
+
+"The three gods, Brahma, Viṣṇu and Siva, are of equal rank", "The three gods mentioned above are really one : " The Supreme Reality or Tattva is someone beyond these three gods", "One of these, Brabma and Siva, is Iśvara". "The essential nature (svarūpa) of Iśvara is subject to change or modification". "The material cause and the instrumental cause can never be the same", "The jīva and Iśvara are only a single self". "The difference between the jīva and Iśvara is due to certain limiting factors or conditions (upādhi)". "The jīva and Iśvara are eternally (both) different and non-different," " The jīva is śeṣa only on account of his karma ". "The jīva is at times śeṣa and at other times not a śeṣa". "The jīva is inert (jaḍa)". "The jīva is, in his essential nature, knowledge (and does not possess knowledge as an attribute)". "The jīva is eternally free from bondage". "The jīva only seems to enjoy (i.e. his enjoyment is not real but illusory). "The jīva is not a doer or agent". " The jīva is a doer or agent independent of Iśvara". "The self laats (only) until the pralaya". "The jīva lasts only until mukti (and then becomes one with the Supreme Being)". There is only one jīva (all the others are illusory)", "The jīva stands self-supported". "The jīva is, in his essential nature, an effeci baving its origin in a cause." "The jīva can, in no sense, be considered as an effect (even with regard to His body and the like)", "The jīva can attain his end only by karma ". "The jīva, in the state of release from saṁsāra, is like a stone (**having** no knowledge and the like)". "The jīva finds delight only in his own disembodied self". "The jīva is absolutely independent of Bhagavān". "The jīva is one with Iśvara". "The jīva is without such things as activities". "The jīva can separate and unite (with Iśvara)". "The jīvas vary in the bliss that they will enjoy after mukti ". "The jīvas have such differences as **being** fit to have only salokya and the like ", and other such delusions due to perverted systems of religious thought and to those who are outside the pale of Vedic religion.
 
 So also weakness of faith in the Consort of Śrī as a Protector, the search for other Redeemers, the protest  [See page (89 of the book ).] against **being** dependent on God, the delusion of **being** the unconditional śeṣa to others, reverence to other deities, association with those who are their devotees, and, likewise, the delight in serving those who are unfit for service, such delusions as that the body and the soul are the same, such delusions as that the self is independent of Bhagavān, the earning (of money or other things) for one's own use, offence to the devotees of Bhagavān, forgetfulness of the fact that one is helpless and destitute of upāyas, a longing for the continuance of life in saṁsāra, the fear that the soul will suffer annihilation, the taste for doing what is improper, the classification of men into friends and foes, the seeking of other kinsmen (than Bhagavān ), the desire for other ends (than the attainment of Bhagavān), averseness to the supreme goal of life and other such hindrances to one's firm stand in one's essential nature, in the real upāya and in the end in view - all these ( delusions) will never approach them.
 
