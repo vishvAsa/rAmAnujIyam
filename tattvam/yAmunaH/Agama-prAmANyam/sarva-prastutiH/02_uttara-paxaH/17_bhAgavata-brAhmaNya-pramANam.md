@@ -1688,6 +1688,20 @@ and quite another thing to perform the variety of actions that are daily observe
 It is as it is in the case of the jyotistoma etc. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Journal of Royal Asiatic Society, (1911), p. 948:  
+
+The Pañcakāla or Five-Time-observances enjoined on a Bhāgavata are: (i) abhigamana: morning prayer, abluting etc., (ii) upādāna: fetching articles of worship, (iii) ijyā: divine worship, (iv) svādhyāya: study of the sacred lore and (v) yāga or yoga: divine meditation.
+
+The day, from 4 a.m. to 10 p.m. is to be divided into five divisions for each of these acts. Cf. Pādmasaṁhitā: Caryāpāda: XIII: 3-4a:
+
+> ādyaṃ karmābhigamanamupādānamataḥ param ।  
+ijyā ca paścāt svādhyāyastato yogastataḥ param ॥  
+pañcaite vidhayasteṣāṃ kālāḥ pañcaiva te kramāt ।
+
+For a definition and explanation of these five terms, see ibid: śl. 4b, ff.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1707,6 +1721,10 @@ It is as it is in the case of the jyotistoma etc.
 In the jyotistoma, too, a carpenter has a task in making the various receptacles, soma-cups, soma-decanters, ladles etc., while the officiating priests have their tasks in reciting various different mantra recitations, representing the deity, pressing of the soma etc. +++(5)+++
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+"Graha", "Camasa", etc., are the names of cups into which soma-juice is poured during a sacrifice. Cf. Śabara on Pūrvamīmāṁsā: III.i.16, p. 158: "grahādi somapātram".
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1780,6 +1798,14 @@ So here, too, there is a difference between those who perform the pañcakālikā
 [268]: For the word means etymologically "maker of chariots, carts."" [269]: not identified.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+यत्पुनरुक्तं ... See p. 12 above for the pūrvapakṣa.
+
+रथकार ... Cf. Āpastambaśrautasūtra, V. 3.19.
+
+रथकरण ... रथ-करण-रूप-योग-शक्त्या । 
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1808,6 +1834,13 @@ and because usages of a word in the sense of different castes, which is given in
 would be invalidated. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+युक्तं हि ... "अध्यवसानम्" इति शेषः ।
+
+सौधन्वना ... Ṛgveda: I.110.4.
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1830,6 +1863,10 @@ Despite the fact that rathakāra is also a name for another caste-as learnt from
 [271]: cf. Amarakoṣa, 10.4.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Yājñavalkyasmṛti : Ācārādhyāya: I.iv.95a.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1857,6 +1894,14 @@ the rathakāra is not forbidden to perform rites of sacrificing, fire-building a
 [272]: not verified.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+No printed text of the Śāṅkhasmṛti contains this passage. It is however, traced in the "Reconstruction of the Dharmasūtra of Śāṅkha and Likhita", attempted by Dr. P. V. Kane, in the Annals of the Bhandarkar Institute, Vol. VII, p. 115. The passage was numbered 76 there. The reading found is:
+
+> kṣatriyavaiśyānulomāntarotpannajo rathakāraḥ, tasyejyādhānopanayanasaṁskārakriyā aśvapratiṣṭhā rathasūtravāstuvidyādhayayanavṛttitā ca.
+
+This passage appears in the Mitākṣarā on Yājñavalkyasmṛti: I-95 and in Aparārka. The Mitākṣarā [Chowkhamba Sanskrit Series No. 62] has a variant: "kṣatriyavaiśyānulomāntarotpanno yo rathakāraḥ".
+</details>
 
 <details><summary>मूलम्</summary>
 
