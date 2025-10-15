@@ -26386,18 +26386,288 @@ y debido a aquellos que **están** fuera de los límites de la religión védica
 
 
 ### फलित-योग्यताः
+#### रक्षायाम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पडिये रक्षकऩ् आऩ श्रियःपतियैप् पऱ्ऱ 
+इप्-पडिये रक्षकऩ् आऩ श्रियःपतियैप् पऱ्ऱ विश्वास-मान्द्यमुम्,  
+</details>
+
+<details><summary>English</summary>
+
+So also weakness of faith in the Consort of Śrī as a Protector, 
+</details>
+
+<details><summary>Español</summary>
+
+Así también la **debilidad** de la fe en la Consorte de Śrī como **Protector**, 
 </details>
 
 <details><summary>मूलम्</summary>
 
-इप्पडिये रक्षकऩाऩ श्रियःपतियैप्पऱ्ऱ 
+इप्पडिये रक्षकऩाऩ श्रियःपतियैप्पऱ्ऱ विश्वासमान्द्यमुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रक्षकान्तरान्वेषणमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+the search for other Redeemers, 
+</details>
+
+<details><summary>Español</summary>
+
+la **búsqueda** de otros **Redentores**, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+रक्षकान्तरान्वेषणमुम्, 
 </details>
 
 
-So also weakness of faith in the Consort of Śrī as a Protector, the search for other Redeemers, the protest  [See page (89 of the book ).] against **being** dependent on God, the delusion of **being** the unconditional śeṣa to others, reverence to other deities, association with those who are their devotees, and, likewise, the delight in serving those who are unfit for service, such delusions as that the body and the soul are the same, such delusions as that the self is independent of Bhagavān, the earning (of money or other things) for one's own use, offence to the devotees of Bhagavān, forgetfulness of the fact that one is helpless and destitute of upāyas, a longing for the continuance of life in saṁsāra, the fear that the soul will suffer annihilation, the taste for doing what is improper, the classification of men into friends and foes, the seeking of other kinsmen (than Bhagavān ), the desire for other ends (than the attainment of Bhagavān), averseness to the supreme goal of life and other such hindrances to one's firm stand in one's essential nature, in the real upāya and in the end in view - all these ( delusions) will never approach them.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘त्वम् मे ऽहम् मे’’ ऎऩ्गिऱ पिणक्कुम्+++(=प्रणय-कलहम्)+++,
+</details>
+
+<details><summary>English</summary>
+
+the protest  [See page (89 of the book )] against **being dependent** on God, 
+</details>
+
+<details><summary>Español</summary>
+
+la **protesta** [Ver página (89 del libro)] contra **ser dependiente** de Dios, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘त्वम्मेऽहम्मे’’ ऎऩ्गिऱ पिणक्कुम्,
+</details>
+
+#### अन्य-शेषतादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निरुपाधिकान्य-शेषत्व-भ्रममुम्, 
+</details>
+
+<details><summary>English</summary>
+
+the **delusion** of **being** the unconditional śeṣa to others, 
+</details>
+
+<details><summary>Español</summary>
+
+el **engaño** de **ser** el śeṣa incondicional para los demás, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+निरुपाधिकान्यशेषत्वभ्रममुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देवतान्तर-प्रावण्यमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+reverence to other deities, 
+</details>
+
+<details><summary>Español</summary>
+
+**reverencia** a otras deidades, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+देवतान्तरप्रावण्यमुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-भक्त-संसर्गमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+**association** with those who are their **devotees**, 
+</details>
+
+<details><summary>Español</summary>
+
+**asociación** con aquellos que **son** sus **devotos**, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्भक्तसंसर्गमुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मऱ्ऱुम् उळ्ळ अ-सेव्य-सेवा-रुचियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+and, likewise, the **delight** in **serving** those who **are unfit** for **service**, 
+</details>
+
+<details><summary>Español</summary>
+
+y, asimismo, el **deleite** en **servir** a los que **no son aptos** para el **servicio**, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुमुळ्ळ असेव्यसेवारुचियुम्, 
+</details>
+
+#### देहात्म-भ्रमादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देहात्म-भ्रमादिगळुम्, 
+</details>
+
+<details><summary>English</summary>
+
+such delusions as that the body and the soul are the same, 
+</details>
+
+<details><summary>Español</summary>
+
+tales **ilusiones** como que el cuerpo y el alma **son** lo mismo, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+देहात्मभ्रमादिगळुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-तन्त्रात्म-भ्रमादिगळुम्, 
+</details>
+
+<details><summary>English</summary>
+
+such **delusions** as that the self **is independent** of Bhagavān, 
+</details>
+
+<details><summary>Español</summary>
+
+tales **ilusiones** como que el yo **es independiente** de Bhagavān, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वतन्त्रात्मभ्रमादिगळुम्, 
+</details>
+
+#### अर्थ-कामादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वार्थ-परिग्रहमुम्, 
+</details>
+<details><summary>English</summary>
+
+the earning (of money or other things) for one's own use, 
+</details>
+
+<details><summary>Español</summary>
+
+la **ganancia** (de dinero u otras cosas) para el propio **uso**, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वार्थपरिग्रहमुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भागवतापचारमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+offence to the devotees of Bhagavān, 
+</details>
+
+<details><summary>Español</summary>
+
+**ofensa** a los **devotos** de Bhagavān, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+भागवतापचारमुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकिञ्चन्य-विस्मृतियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+**forgetfulness** of the fact that one **is helpless** and **destitute** of upāyas, 
+</details>
+
+<details><summary>Español</summary>
+
+**olvido** del hecho de que uno **está indefenso** y **desprovisto** de upāyas, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आकिञ्चन्यविस्मृतियुम्, 
+</details>
+
+#### संसार-रुच्य्-आदि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संसारानुवृत्ति-रुचियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+a **longing** for the **continuance** of life in saṁsāra, 
+</details>
+
+<details><summary>Español</summary>
+
+un **anhelo** por la **continuación** de la vida en el saṁsāra, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+संसारानुवृत्तिरुचियुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्म-नाशादि-भयमुम्, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आत्मनाशादिभयमुम्, 
+</details>
+
+
+the fear that the soul will suffer annihilation, the taste for doing what is improper, the classification of men into friends and foes, the seeking of other kinsmen (than Bhagavān ), the desire for other ends (than the attainment of Bhagavān), averseness to the supreme goal of life and other such hindrances to one's firm stand in one's essential nature, in the real upāya and in the end in view - all these ( delusions) will never approach them.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
