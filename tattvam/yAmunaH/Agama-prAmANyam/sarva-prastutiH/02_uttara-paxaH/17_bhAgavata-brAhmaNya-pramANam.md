@@ -2424,6 +2424,12 @@ as according to the smṛti, "He who receives the offering and he who {{deit|giv
 [[112]]
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Manusmṛti. IV-238. The remainder of the verse is “narakaṁ tu viparyaye”. The term “arcitaṁ” should be understood in the sense of “arcanāpurassaraṁ”. It is an adverb and not a noun.
+
+This verse is also found in the Mahābhārata, Āśvamedhika [ Vavilla edn. Vol. XVIII. ] ch. 112, śl. 30.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2449,6 +2455,10 @@ as according to the smṛti, "He who receives the offering and he who {{deit|giv
 [282]: supra § 16.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See pp. 15-16 above.
+</details>
 
 <details><summary>मूलम्</summary>
 
