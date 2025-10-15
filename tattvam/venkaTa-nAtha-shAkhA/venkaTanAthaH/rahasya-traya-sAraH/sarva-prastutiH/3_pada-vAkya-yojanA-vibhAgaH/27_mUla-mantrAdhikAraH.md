@@ -25682,14 +25682,100 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+त्रि-मूर्तिगळुं समर् ऎऩ्ऱुम्, एकर् ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The three gods, Brahma, Viṣṇu and Siva, are of equal rank",  
+"The three gods mentioned above are really one" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Los tres dioses, Brahma, Viṣṇu y Siva, **son** de igual rango",  
+"Los tres dioses mencionados anteriormente **son** realmente uno" 
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्रिमूर्तिगळुं समरॆऩ्ऱुम्, एकरॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रि-मूर्त्य्-उत्तीर्णऩ् पर-तत्त्वम् ऎऩ्ऱुम्,
+</details>
+
+<details><summary>English</summary>
+
+> The Supreme Reality or Tattva is someone beyond these three gods, 
+</details>
+
+<details><summary>Español</summary>
+
+> La Realidad Suprema o Tattva **es** alguien más allá de estos tres dioses,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+त्रिमूर्त्युत्तीर्णऩ् परतत्त्वमॆऩ्ऱुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ब्रह्मादिगळिलेय् ऒरुवऩ् ईश्वरऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "One of these, Brahma and Siva, is Iśvara". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Uno de ellos, Brahma y Siva, **es** Iśvara".
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मादिगळिले यॊरुवऩीश्वरऩॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"स्व-रूप--परिणामवान्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"स्व-रूप--परिणामवान्" 
+</details>
+
+<details><summary>English</summary>
+
+> "The essential nature (svarūpa) of Iśvara **is subject to change or modification**", 
+</details>
+
+<details><summary>Español</summary>
+
+> "La naturaleza esencial (svarūpa) de Iśvara **está sujeta a cambios o modificaciones**", 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वरूपपरिणामवाऩॆऩ्ऱुम्, 
+</details>
 
 
 will never have delusions such as the following  
 
-
-
-"The three gods, Brahma, Viṣṇu and Siva, are of equal rank", "The three gods mentioned above are really one : " The Supreme Reality or Tattva is someone beyond these three gods", "One of these, Brabma and Siva, is Iśvara". "The essential nature (svarūpa) of Iśvara is subject to change or modification". "The material cause and the instrumental cause can never be the same", "The jīva and Iśvara are only a single self". "The difference between the jīva and Iśvara is due to certain limiting factors or conditions (upādhi)". "The jīva and Iśvara are eternally (both) different and non-different," " The jīva is śeṣa only on account of his karma ". "The jīva is at times śeṣa and at other times not a śeṣa". "The jīva is inert (jaḍa)". "The jīva is, in his essential nature, knowledge (and does not possess knowledge as an attribute)". "The jīva is eternally free from bondage". "The jīva only seems to enjoy (i.e. his enjoyment is not real but illusory). "The jīva is not a doer or agent". " The jīva is a doer or agent independent of Iśvara". "The self laats (only) until the pralaya". "The jīva lasts only until mukti (and then becomes one with the Supreme Being)". There is only one jīva (all the others are illusory)", "The jīva stands self-supported". "The jīva is, in his essential nature, an effeci baving its origin in a cause." "The jīva can, in no sense, be considered as an effect (even with regard to His body and the like)", "The jīva can attain his end only by karma ". "The jīva, in the state of release from saṁsāra, is like a stone (**having** no knowledge and the like)". "The jīva finds delight only in his own disembodied self". "The jīva is absolutely independent of Bhagavān". "The jīva is one with Iśvara". "The jīva is without such things as activities". "The jīva can separate and unite (with Iśvara)". "The jīvas vary in the bliss that they will enjoy after mukti ". "The jīvas have such differences as **being** fit to have only salokya and the like ", and other such delusions due to perverted systems of religious thought and to those who are outside the pale of Vedic religion.
+"The material cause and the instrumental cause can never be the same", "The jīva and Iśvara are only a single self". "The difference between the jīva and Iśvara is due to certain limiting factors or conditions (upādhi)". "The jīva and Iśvara are eternally (both) different and non-different," " The jīva is śeṣa only on account of his karma ". "The jīva is at times śeṣa and at other times not a śeṣa". "The jīva is inert (jaḍa)". "The jīva is, in his essential nature, knowledge (and does not possess knowledge as an attribute)". "The jīva is eternally free from bondage". "The jīva only seems to enjoy (i.e. his enjoyment is not real but illusory). "The jīva is not a doer or agent". " The jīva is a doer or agent independent of Iśvara". "The self laats (only) until the pralaya". "The jīva lasts only until mukti (and then becomes one with the Supreme Being)". There is only one jīva (all the others are illusory)", "The jīva stands self-supported". "The jīva is, in his essential nature, an effeci baving its origin in a cause." "The jīva can, in no sense, be considered as an effect (even with regard to His body and the like)", "The jīva can attain his end only by karma ". "The jīva, in the state of release from saṁsāra, is like a stone (**having** no knowledge and the like)". "The jīva finds delight only in his own disembodied self". "The jīva is absolutely independent of Bhagavān". "The jīva is one with Iśvara". "The jīva is without such things as activities". "The jīva can separate and unite (with Iśvara)". "The jīvas vary in the bliss that they will enjoy after mukti ". "The jīvas have such differences as **being** fit to have only salokya and the like ", and other such delusions due to perverted systems of religious thought and to those who are outside the pale of Vedic religion.
 
 So also weakness of faith in the Consort of Śrī as a Protector, the search for other Redeemers, the protest  [See page (89 of the book ).] against **being** dependent on God, the delusion of **being** the unconditional śeṣa to others, reverence to other deities, association with those who are their devotees, and, likewise, the delight in serving those who are unfit for service, such delusions as that the body and the soul are the same, such delusions as that the self is independent of Bhagavān, the earning (of money or other things) for one's own use, offence to the devotees of Bhagavān, forgetfulness of the fact that one is helpless and destitute of upāyas, a longing for the continuance of life in saṁsāra, the fear that the soul will suffer annihilation, the taste for doing what is improper, the classification of men into friends and foes, the seeking of other kinsmen (than Bhagavān ), the desire for other ends (than the attainment of Bhagavān), averseness to the supreme goal of life and other such hindrances to one's firm stand in one's essential nature, in the real upāya and in the end in view - all these ( delusions) will never approach them.
 
