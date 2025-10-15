@@ -1988,6 +1988,12 @@ Moreover, when knowledge of the thing meant by a word is obtained from the denot
 [[111]]
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+नष्टावयवत्वं योग-शक्ति-राहित्यम् । ‘नाम’ पदेन प्रतिपादिकम् उच्यते । नष्टावयव-नामत्वं = रूढिम् इत्य् अतः ।
+
+प्रोक्षणीष्वर्थ ... Pūrvamīmāṁsā : I.iv.11. This aphorism means that in words like “prokṣaṇī”, the etymological significance itself is applicable; i.e., the word is to be taken in its etymological sense alone and not the conventional one, for the former is quite compatible with the latter. The advantage of this sūtra over the preceding sūtras is that all liquids are meant by the term “prokṣaṇī”, and not water alone.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2011,6 +2017,18 @@ Moreover, when knowledge of the thing meant by a word is obtained from the denot
 Therefore, those emine~nt brahmins are called sāttvatas and bhāgavatas who because of their pure character (sattva) devote themselves to the Bhagavān who is the Supreme Person. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+For a definition of the term Bhāgavata, see Pādmasaṁhitā, Caryāpāda, II.91b-95a and XXI. 14-15. For an interesting account of the origin and significance of the term Sāttvata see J. Przyluski, ‘Sātvant, Sātvata and Nāsatya’, IIIQ, Vol. IX pp 83-91.
+
+For a glorification of Pāñcarātrins along with Vaikhānasas, see Mahābhārata, Anuśāsana [Vavilla edn. Vol. XVI], ch. 78:
+
+> यतयो मोक्ष-धर्म-ज्ञा योगिनश् चरित-व्रताः ।  
+पाञ्च-रात्र-विदो मुख्यास् तथा भागवताः परे ॥ [ 24 ]  
+वैखानसाः कुल-श्रेष्ठाः वैदिकाचार-वारिणः । [ 25a ]
+ 
+> यावद् एते प्रपश्यन्ति पङ्क्तीस् तावत् पुनन्ति सः[[??]] ॥ [ 28b ]
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2027,6 +2045,11 @@ Therefore, those emine~nt brahmins are called sāttvatas and bhāgavatas who bec
 <details><summary>Buitenen</summary>
 
 Later on we shall show that other smṛtis set forth the eminent brahminhood of the bhāgavatas.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+No such smṛtis are however, quoted by the author in the remaining portion of the text.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2053,6 +2076,11 @@ Later on we shall show that other smṛtis set forth the eminent brahminhood of 
 [275]: supra § 15.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See p. 12 above, for the pūrvapakṣa-view.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत् पुनर् उक्तं समाने ब्राह्मण्ये किम् इति सात्त्वत-भागवतैकान्तिक-शब्दैर् एवैतेषां नियमेन व्यपदेश इति, तत् परिव्राजक-निगदादिवद् इत्य् अदोषः ।  
@@ -2074,6 +2102,16 @@ Later on we shall show that other smṛtis set forth the eminent brahminhood of 
 > निगदा वर्तन्ते न यजूंषि 
 
 इति च, 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+यथैव हि ... See Pūrvamīmāṁsā, II. i. 35-37: "तेषां ऋक् यत्रार्थ-वशेन पाद-व्यवस्था", "गीतिषु समाख्या", "शेषे यजुश् शब्दः", for the definitions of ṛk, sāman and yajus respectively. By the last of the above sūtras, the group of mantras called “nigada” also comes to be known as “yajus”.
+
+तिष्ठन्तु ... Cf. Śābara under II. i. 43, p. 89.
+
+यजूंषि ... Cf. ibid. under II. i. 39, p. 89.
+
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2113,6 +2151,10 @@ and this is so because of the interpretation:
 > "the nigadas are the fourth mantra collection, or the yajuḥ formulae, because they are identical."
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Pūrvamīmāṁsā II. i. 40.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2135,6 +2177,11 @@ and this is so because of the interpretation:
 132\. The contention278 that the bhāgavatas are bad brahmins because they perform pūjā to the God, partake of the offering substance etc. for a livelihood, is countered in the following manner: 
 
 [278]: supra § 16.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+See p. 15 above.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2245,6 +2292,12 @@ as is shown by the smṛti: "A sacrifice for which a small fee is given kills (t
 [279]: cf. Manu, 11.40.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अर्चनान्ते ... Paramasaṁhitā, XVII. 46b-47a.
+
+हन्त्यल्पदक्षिणो ... Manusmṛti, XI. 40b.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2305,6 +2358,20 @@ or "He should choose me."
 [280]: AitBr., 3.46.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Aitareya Brāhmaṇa XV. ii. p. 418 [ Ānandāśrama Skt. Ser. 32, with Sāyaṇa’s commentary ]. The passage reads thus :
+
+> taddhaitadeva jagdhāṁ yadāśaṁsamānamārtvijyaṁ kārayata uta vā me dadyāt uta vā mā vṛṇīteti taddha tatparāṇeva yathā jagdhāṁ na haiva tad yajamānaṁ bhunakti.
+
+This passage points out that a careful yajamāna should avoid greedy priests who perform three types of objectionable offerings in sacrifices. Cf. ibid. p. 417: “trīṇi ha vai yajñe kriyante, jagdhaṁ, gīrṇaṁ, vāntaṁ”.
+
+Vide Sāyaṇa’s commentary on it:
+
+> tānyetāni trīṇi durbuddhibhir yajñe kriyante jagdhādisthānīyāni trīṇi, varjanīyānītyarthaḥ.
+
+For more information on this, see Sāyaṇa’s commentary, p. 411.
+</details>
 
 <details><summary>मूलम्</summary>
 
