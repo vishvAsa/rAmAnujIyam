@@ -25681,15 +25681,721 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 कदाचित्-कर्मादिपरवशऩॆऩ्ऱुम्, 
 </details>
 
+#### देवतान्तर-व्यावृत्तौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"त्रि-मूर्तिगळुं समर्" ऎऩ्ऱुम्, "एकर्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The three gods, Brahma, Viṣṇu and Siva, are of equal rank",  
+"The three gods mentioned above are really one" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Los tres dioses, Brahma, Viṣṇu y Siva, **son** de igual rango",  
+"Los tres dioses mencionados anteriormente **son** realmente uno" 
+</details>
+
+<details><summary>मूलम्</summary>
+
+त्रिमूर्तिगळुं समरॆऩ्ऱुम्, एकरॆऩ्ऱुम्, 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"त्रि-मूर्त्य्-उत्तीर्णऩ् पर-तत्त्वम्" ऎऩ्ऱुम्,
+</details>
+
+<details><summary>English</summary>
+
+> The Supreme Reality or Tattva is someone beyond these three gods, 
+</details>
+
+<details><summary>Español</summary>
+
+> La Realidad Suprema o Tattva **es** alguien más allá de estos tres dioses,
+</details>
 
 
-will never have delusions such as the following  
+<details><summary>मूलम्</summary>
+
+त्रिमूर्त्युत्तीर्णऩ् परतत्त्वमॆऩ्ऱुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ब्रह्मादिगळिलेय् ऒरुवऩ् ईश्वरऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "One of these, Brahma and Siva, is Iśvara". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Uno de ellos, Brahma y Siva, **es** Iśvara".
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मादिगळिले यॊरुवऩीश्वरऩॆऩ्ऱुम्, 
+</details>
+
+#### लोकोत्पत्तौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"स्व-रूप--परिणामवान्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"स्व-रूप--परिणामवान्" 
+</details>
+
+<details><summary>English</summary>
+
+> "The essential nature (svarūpa) of Iśvara **is subject to change or modification**", 
+</details>
+
+<details><summary>Español</summary>
+
+> "La naturaleza esencial (svarūpa) de Iśvara **está sujeta a cambios o modificaciones**", 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वरूपपरिणामवाऩॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"निमित्तोपादानैक्यङ् कॊळ्ळ वॊण्णाद्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The material cause and the instrumental cause **can never be** the same", 
+</details>
+
+<details><summary>Español</summary>
+
+> "La causa material y la causa instrumental **nunca pueden ser** lo mismo", 
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+निमित्तोपादानैक्यङ् गॊळ्ळवॊण्णादॆऩ्ऱुम्, 
+</details>
+
+#### जीवेश्वर-भेदे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"जीवेश्वरर्गळ् एकात्माव्" ऎऩ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva and Iśvara are only a single self", 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva y el Iśvara **son** un solo yo", 
+</details>
+
+<details><summary>मूलम्</summary>
+
+जीवेश्वरर्गळ् एकात्मावॆऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"+++(जीवेश्वरर्गळ्)+++ उपाधि-सिद्ध-भेदर्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The difference between the jīva and Iśvara **is** due to certain **limiting** factors or conditions (upādhi)". 
+</details>
+
+<details><summary>Español</summary>
+
+> "La diferencia entre el jīva y el Iśvara **es** debido a ciertos factores o condiciones **limitantes** (upādhi)". 
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-"The three gods, Brahma, Viṣṇu and Siva, are of equal rank", "The three gods mentioned above are really one : " The Supreme Reality or Tattva is someone beyond these three gods", "One of these, Brabma and Siva, is Iśvara". "The essential nature (svarūpa) of Iśvara is subject to change or modification". "The material cause and the instrumental cause can never be the same", "The jīva and Iśvara are only a single self". "The difference between the jīva and Iśvara is due to certain limiting factors or conditions (upādhi)". "The jīva and Iśvara are eternally (both) different and non-different," " The jīva is śeṣa only on account of his karma ". "The jīva is at times śeṣa and at other times not a śeṣa". "The jīva is inert (jaḍa)". "The jīva is, in his essential nature, knowledge (and does not possess knowledge as an attribute)". "The jīva is eternally free from bondage". "The jīva only seems to enjoy (i.e. his enjoyment is not real but illusory). "The jīva is not a doer or agent". " The jīva is a doer or agent independent of Iśvara". "The self laats (only) until the pralaya". "The jīva lasts only until mukti (and then becomes one with the Supreme Being)". There is only one jīva (all the others are illusory)", "The jīva stands self-supported". "The jīva is, in his essential nature, an effeci baving its origin in a cause." "The jīva can, in no sense, be considered as an effect (even with regard to His body and the like)", "The jīva can attain his end only by karma ". "The jīva, in the state of release from saṁsāra, is like a stone (**having** no knowledge and the like)". "The jīva finds delight only in his own disembodied self". "The jīva is absolutely independent of Bhagavān". "The jīva is one with Iśvara". "The jīva is without such things as activities". "The jīva can separate and unite (with Iśvara)". "The jīvas vary in the bliss that they will enjoy after mukti ". "The jīvas have such differences as **being** fit to have only salokya and the like ", and other such delusions due to perverted systems of religious thought and to those who are outside the pale of Vedic religion.
+उपाधिसिद्धभेदरॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्यभिन्नाभिन्नरॆऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva and Iśvara **are** eternally (both) different and non-different," 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva y el Iśvara **son** eternamente (ambos) diferentes y no diferentes", 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नित्यभिन्नाभिन्नरॆऩ्ऱुम्, 
+</details>
+
+#### शेषत्वे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"जीवऩ् कर्म-मात्राधीन-शेष-भावऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> " The jīva **is** śeṣa only on account of his karma ", 
+</details>
+
+<details><summary>Español</summary>
+
+> " El jīva **es** śeṣa solo a causa de su karma ", 
+</details>
+
+<details><summary>मूलम्</summary>
+
+जीवऩ्गर्ममात्राधीनशेषभावऩॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अनियत-शेष-भावऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva is at times śeṣa  
+and at other times not a śeṣa", 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva **es** a veces śeṣa  
+y en otras ocasiones **no es** un śeṣa", 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनियतशेषभावऩॆऩ्ऱुम्, 
+</details>
+
+
+#### जीव-स्वरूपे
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"+++(जीवः)+++ जडम्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+"The jīva **is** inert (jaḍa)", 
+</details>
+
+<details><summary>Español</summary>
+
+"El jīva **es** inerte (jaḍa)", 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जडमॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ज्ञान-मात्र-स्वरूपऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva **is**, in his essential nature, knowledge (and **does not possess knowledge** as an attribute)". 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva **es**, en su naturaleza esencial, **conocimiento**  
+(y **no posee conocimiento** como atributo)". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानमात्रस्वरूपऩॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"नित्य-मुक्तऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva **is** eternally free from **bondage**". 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva **está** eternamente libre de **esclavitud**". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नित्यमुक्तऩॆऩ्ऱुम्, 
+</details>
+
+#### भोक्तृत्वादौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"आरोपित-भोगऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva only **seems to enjoy**  
+(i.e. his enjoyment **is** not real but illusory). 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva solo **parece disfrutar**  
+(**es decir**, su **disfrute no es** real sino ilusorio). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आरोपितभोगऩॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"कर्ताव् अल्लऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva **is not a doer** or agent". 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva **no es un hacedor** o agente". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कर्तावल्लऩॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ईश्वर-निरपेक्ष-कर्ताव्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> " The jīva **is a doer** or agent  
+independent of Iśvara". 
+</details>
+
+<details><summary>Español</summary>
+
+> " El jīva **es un hacedor** o agente  
+independiente de Iśvara". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरनिरपेक्षकर्तावॆऩ्ऱुम्, 
+</details>
+
+
+#### नित्यत्वादौ
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आ-प्रलय-स्थायिय् ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The self **lasts** (only) until the pralaya". 
+</details>
+
+<details><summary>Español</summary>
+
+> "El yo **dura** (solo) hasta el pralaya". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आप्रळयस्थायियॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"आ-मोक्ष-स्थायिय्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva **lasts** only until mukti  
+(and then **becomes** one with the Supreme Being)". 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva **dura** solo hasta mukti  
+(y luego **se convierte** en uno con el Ser Supremo)". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आमोक्षस्थायियॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"एकऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> There **is** only one jīva (all the others **are** illusory), 
+</details>
+
+<details><summary>Español</summary>
+
+> **Hay** solo un jīva (todos los demás **son** ilusorios), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+एकऩॆऩ्ऱुम्, 
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"स्व-निष्ठऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+"The jīva stands self-supported". 
+</details>
+
+<details><summary>Español</summary>
+
+"El jīva **se sostiene** a sí mismo". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वनिष्ठऩॆऩ्ऱुम्, 
+</details>
+
+#### विकारे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"स्वरूपतः कार्य-भूतऩ्" ऎऩ्ऱुम्,
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva is, in his essential nature, an effect having its origin in a cause." 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva **es**, en su naturaleza esencial, un efecto que **tiene** su origen en una causa". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वरूपतः कार्यभूतऩॆऩ्ऱुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"कार्यत्व-प्रसङ्ग-रहितऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva **can**, in no sense, **be considered** as an effect (even with regard to His body and the like)", 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva **puede**, en ningún sentido, **ser considerado** como un efecto (incluso con respecto a Su cuerpo y similares)", 
+</details>
+
+<details><summary>मूलम्</summary>
+
+कार्यत्वप्रसङ्गरहितऩॆऩ्ऱुम्, 
+</details>
+
+#### उपाये
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"कर्म-मात्रोपायऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva **can attain** his end only by karma ". 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva **puede alcanzar** su fin solo por el karma". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+कर्ममात्रोपायऩॆऩ्ऱुम्, 
+</details>
+
+#### मुक्तौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"मुक्त-दशैयिल् पाषाण-कल्पऩ्" ऎऩ्ऱुम्,
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva, in the state of **release** from saṁsāra, **is** like a stone (**having** no knowledge and the like)". 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva, en el estado de **liberación** del saṁsāra, **es** como una piedra (**no teniendo** conocimiento y cosas por el estilo)". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुक्तदशैयिल् पाषाणकल्पऩॆऩ्ऱुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"स्वात्मानन्द-मात्र-तृप्तऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva **finds delight** only in his own disembodied self". 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva **encuentra deleite** solo en su propio yo incorpóreo". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वात्मानन्दमात्रतृप्तऩॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अत्यन्त--स्व-तन्त्रऩ् आम्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva **is** absolutely independent of Bhagavān". 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva **es** absolutamente independiente de Bhagavān". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्यन्तस्वतन्त्रऩामॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ईश्वरऩोडे एकी-भूतऩ् आम्" ऎऩ्ऱुम्,
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva **is** one with Iśvara". 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva **es** uno con Iśvara". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩोडे एकीभूतऩामॆऩ्ऱुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"व्यापारादि-रहितऩ् आम्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva **is** without such things as **activities**". 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva **está** sin cosas como **actividades**". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+व्यापारादिरहितऩामॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"+++(ईश्वराद्)+++ विभागाविभागादि-शक्तिमाऩ्" ऎऩ्ऱुम्,
+</details>
+
+<details><summary>English</summary>
+
+> "The jīva **can separate and unite** (with Iśvara)". 
+</details>
+
+<details><summary>Español</summary>
+
+> "El jīva **puede separar y unir** (con Iśvara)". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+विभागाविभागादिशक्तिमाऩॆऩ्ऱुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"आनन्द-तारतम्यवाऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The jīvas **vary** in the bliss that they **will enjoy** after mukti ". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Los jīvas **varían** en la dicha que **disfrutarán** después del mukti ". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आनन्दतारतम्यवाऩॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"व्यवस्थित-सालोक्यादि-भेदवाऩ्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The jīvas **have** such differences as **being fit** to have only salokya and the like ", 
+</details>
+
+<details><summary>Español</summary>
+
+> "Los jīvas **tienen** diferencias tales como **ser aptos** para **tener** solo salokya y similares", 
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्यवस्थितसालोक्यादिभेदवाऩॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मऱ्ऱुम् इप्-पुडैगळिल्+++(=अभितः)+++ उळ्ळ  
+बाह्य--कु-दृष्टि-मतङ्गळ् ऒऩ्ऱालुङ्  
+कलक्कम् वारादु।
+</details>
+
+<details><summary>English</summary>
+
+**will never have** delusions such as the above  
+and other such delusions  
+due to perverted systems of religious thought  
+and due to those who **are** outside the pale of Vedic religion.
+</details>
+
+<details><summary>Español</summary>
+
+**nunca tendrá** delirios como los anteriores  
+y otros delirios similares  
+debido a sistemas **pervertidos** de pensamiento religioso  
+y debido a aquellos que **están** fuera de los límites de la religión védica.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुमिप्पुडैगळिलुळ्ळ बाह्यकुदृष्टिमतङ्गळॊऩ्ऱालुङ् गलक्कम् वारादु।
+</details>
+
+
+### फलित-योग्यताः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिये रक्षकऩ् आऩ श्रियःपतियैप् पऱ्ऱ 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडिये रक्षकऩाऩ श्रियःपतियैप्पऱ्ऱ 
+</details>
+
 
 So also weakness of faith in the Consort of Śrī as a Protector, the search for other Redeemers, the protest  [See page (89 of the book ).] against **being** dependent on God, the delusion of **being** the unconditional śeṣa to others, reverence to other deities, association with those who are their devotees, and, likewise, the delight in serving those who are unfit for service, such delusions as that the body and the soul are the same, such delusions as that the self is independent of Bhagavān, the earning (of money or other things) for one's own use, offence to the devotees of Bhagavān, forgetfulness of the fact that one is helpless and destitute of upāyas, a longing for the continuance of life in saṁsāra, the fear that the soul will suffer annihilation, the taste for doing what is improper, the classification of men into friends and foes, the seeking of other kinsmen (than Bhagavān ), the desire for other ends (than the attainment of Bhagavān), averseness to the supreme goal of life and other such hindrances to one's firm stand in one's essential nature, in the real upāya and in the end in view - all these ( delusions) will never approach them.
 
