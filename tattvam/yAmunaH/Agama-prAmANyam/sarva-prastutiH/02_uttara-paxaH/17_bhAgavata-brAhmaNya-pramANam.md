@@ -3929,6 +3929,13 @@ For instance it is said in the Brahma Purāṇa:
 He who wears it on his head goes to supreme bliss." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Pādmasaṁhitā, caryā, XII. 85:
+
+> धरितं विष्णु-निर्माल्यं चन्दनाद्य् अनुलेपनम् ।  
+अहर्-निशं धारयतां न पुनर्-जननं भवेत् ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3953,6 +3960,12 @@ It follows that the smṛti statement that a man who eats nirmālya and nivedya 
 [295]: as quoted supra § 16.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be traced out. Cf. Pādmasaṁhitā, caryā, XII. 79a:
+
+> ब्रह्मेशानादि-देवानां नैव भोज्यं निवेदितम् ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3983,6 +3996,21 @@ Thus in the Mahābhārata:
 > "Meditating in one's heart upon Hari, one must offer food to Him with full attention, thereupon pick up this food again with the middlefinger and the thumb, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified. 
+
+Cf. Laghuvyāsasaṁhitā ( Aṣṭāviṁśatismṛtis ) ch. II. 74-76:
+
+> स्वाहा-प्रणव-संयुक्तं प्राणायान्नाहुतिं ततः ।  
+अपानाय ततो हुत्वा ध्यानाय तद्-अनन्तरम् ॥  
+उदानाय ततो हुत्वा समानायेति पञ्चमम् ।  
+विज्ञाय चार्थम् एतेषां जुहुयाद् आत्मनि द्वि-जः ॥  
+शेषम् अन्नं यथा-कामं भुञ्जीत व्यञ्जनैर् युतम् ।  
+ध्यात्वा तन्-मनसा देवम् आत्मानं वै प्रजा-पतिम् ॥
+
+This type of taking food is called ‘anuyāga’. See Pāñcarātrarakṣā, p. 115: ‘ईदृशं च भोजनम् एवानुयाग-समाख्यया ऽन्यत्र व्यपदिश्यते ।’
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -4033,6 +4061,11 @@ Likewise in another passage, "what has been offered to the god must be given to 
 [296]: Mahābhārata quotations not verifiable.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be traced out.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथा प्रदेशान्तरे  -  
@@ -4065,6 +4098,16 @@ Thus in the Mahābhārata:
 [297]: The ritual taking of food is considered a performance of the prāṇāgnihotra.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Śānti, ch. 322, śl. 23.  
+Cf. Sāttvatasaṁhitā, ch. 17, śls. 423-424:
+
+> दानानं च व्रतानां च तपसाम् यज्ञ-कर्मणाम् ।  
+निवेदितव्यं यद् द्रव्यं, दत्तं वा यत् पुरा ॥  
+कर्तव्यम् अनुयागार्थं प्राक् तद् एव हि केवलम् ।  
+तद् भावितम् अतो ऽश्रीयात् पावनं प्राणान्वितम् ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -4091,6 +4134,16 @@ And likewise the blessed Śaunaka:
 "He himself eats the nivedya." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Viṣṇudharma ( of Bhaviṣyapurāṇa ), Śaunakīya, ch. 92. śl. 32a:
+
+> नैवेद्यं स्वयम् अश्नीयात् मौनीत्य् एतद् उदङ्-मुखः ।
+
+Cf. Pūjāsaṅgraha ( ms. ) folio 90b:
+
+> स्वयं वापि तद् अश्नीयात् सर्व-पाप-विशुद्धये ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -4136,6 +4189,10 @@ The exemplary people do not approve of a means for homa etc. for which ~~no buil
 283: The ritual taking of food is considered a performance of the prāṇāgnihotra.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vedānta Deśika quotes from "ननु" upto "यथानुष्ठान-तन्त्रत्वं" etc., below, in his Saccaritrārakṣā, p. 93.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -4156,6 +4213,10 @@ The exemplary people do not approve of a means for homa etc. for which ~~no buil
 > Nor can a substitution of another substance do duty as a homa, because he lives off food that has been obtained according to taste. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+आक्षेपः कल्पनम् इति यावत् ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -4180,6 +4241,10 @@ for scripture enjoins upon the twiceborn a meal in the evening and a meal in the
 as follows from the prohibition: "One should not take food in between."
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The remainder of the verse is ‘अग्नि-होत्र-समो विधिः ।’ Many Smṛtis attribute this to Manu. But Aparārka on Yājñavalkyasmṛti (p. 61) attributes this to Saṁvarta. Cf. also Saṁvartasmṛti ( Collection of 27 smṛtis, Ānandāśrama Skt. Series ), I.12.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -4268,6 +4333,12 @@ He is familiar under various guises, or just as at a sacrifice the soma juice th
 Moreover, only scripture can be our criterion for what is to be eaten and what is not to be eaten. When it says that something is fit to be eaten, what injunction are we to invent ourselves? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Bhagavadgītā, XVI. 24a:
+
+> तस्माच् छास्त्रं प्रमाणं ते कार्याकार्य-व्यवस्थितौ ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -4292,6 +4363,10 @@ Just as the same rule governs both the periodical and the desiderative agnihotra
 [[120]]
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+उभयोद्देशेन सकृद् अनुष्ठानं तन्त्रम् ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -4327,6 +4402,14 @@ observe the sacraments of conception ceremony etc. according to the manner laid 
 [299]: supra § 17.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+यदप्युक्तं ... See p. 14 above for pūrvapakṣa. Vedānta Deśika quotes from here upto the end of the text, in his Nyāyapariśuddhi, p. 168
+
+यदेते ... Deśika quotes from here upto the end, in his Pāñcarātrarakṣā, p. 95.
+
+कात्यायनादि ... See Kātyāyanagṛhyasūtra ( ms. ), p. 25ff for saṁskāras.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -4358,6 +4441,20 @@ since otherwise it would follow that other brahmins too would forfeit their brah
 [300]: namely, at the upanayana ceremony.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अननुष्ठानात् हेतोर् इति भावः ।
+
+प्रच्यवन्ते ... Cf. the following quoted in the Pāñcarātrarakṣā, p. 110, as from the Pārameśvarasaṁhitā:
+
+> निषेकादींश् च संस्कारान् स्व-सूत्रोक्तान् समाचरेत् ।  
+पञ्च-रात्रोदितान् वापि ये स्व-वंश्यैर् अनुष्ठिताः ॥
+
+Cf. also Auśanasa Dharmaśāstra ( Smṛtīnāṁ Samuccayaḥ, Ānandāśrama Sanskrit Series 48 ), I, 48:
+
+> निषेकाद्याः श्मशानान्ताः क्रियाः पूजाङ्ग-सूत्र-धृक् ।  
+पञ्च-रात्रेण वा कश्चित् तन्त्रोक्तं धर्मम् आचरेत् ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -4384,6 +4481,10 @@ since otherwise it would follow that other brahmins too would forfeit their brah
 For everywhere among brahmins we find customs that differ according to birth, caraṇa, gotra, qualification etc. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+चरण-शब्देन शाखोच्यते ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -4404,6 +4505,14 @@ still all the various dharmas relating to mutually different qualified performer
 do not all together accumulate in any one place.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Śābara on II. iv. 32, p. 142: “..सर्व-शाखा-प्रत्ययं सर्व-ब्राह्म-प्रत्ययं चैकं कर्म चोद्यत इति सिद्धं भवति ।”
+
+See also Pūrvamīmāṁsā, II. iv. 18: “न चैकं प्रति शिष्यते ।” and Śābara on this (p. 139): 
+
+> न च यत् काठके ऽग्नि-होत्रं तत् काठकम् एवैकं पुरुषं प्रति विधीयते । तैत्तिरीयस्यापि तत् विहितम् एव । पुरुष-विशेष-वचनाभावात् ।...तस्मात् सर्व-शाखाभिर् एकं समाप्तं कर्मोच्यत इति ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -4434,6 +4543,17 @@ does not mean that either one forfeits his brahminhood-
 [301]: aindrāgneya, name of a śrauta ritual.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+त्रय्यन्तैकायन ... See Pādmasaṁhitā, I. 5b-6a:
+
+> आद्यम् एकायनं वेदं सद्-ब्रह्म-प्रतिपादकम् ॥  
+तेनैव संस्कृता विप्रा मुख्य-कल्पाधिकारिणः ।
+
+विज्ञानाभिगमन ... Ibid. Jñāna, II. 5b:
+
+> विज्ञानं भगवज्-ज्ञानं तज्-ज्ञानान् मुक्तिर् उच्यते ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
