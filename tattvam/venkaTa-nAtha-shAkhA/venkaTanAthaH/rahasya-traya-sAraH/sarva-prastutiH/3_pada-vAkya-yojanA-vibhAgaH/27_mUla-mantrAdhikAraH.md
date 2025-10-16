@@ -198,7 +198,12 @@ En el Dharma sobre sí mismo, que **es** característico de Krita Yuga -
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-इप्पडि मन्त्रप्रतिपाद्यऩाऩ नारायणऩै अनुसन्धित्तु अनिष्टनिवृत्तियैप् प्रार्थित्तु मेले अवऩ् तऩ्ऩैये मन्त्रप्रदऩाऩ बदरिकाश्रमवासियाऩ नारायणऩाग अनुसन्धित्तु इष्टत्तैप् प्रार्थिक्किऱार् कल्याणमावहतु इत्यादिना । अष्टचक्रं - ऎट्टु चक्रङ्गळैयुडैय, आद्यं - मुदलाऩ, कमपि – अनिर्वाच्यमहिमैयैयुडैय, रथं - महाभारतत्तिल् नारायणीयत्तिल् ‘‘अष्टचक्रं हि तद्यानं भूतयुक्तं मनोजवम्’’  ऎऩ्ऱु सॊल्लप्पट्ट रथत्तै, अधिगतः - अडैन्दवऩाय्, इव्वळवाल् तिरुमन्द्रम् रथमॆऩ्ऱुम्, अदिलुळ्ळ ऎट्टु ऎऴुत्तुक्कळ् सक्रङ्गळॆऩ्ऱुम्, नारायणऩ् प्रतिपाद्यार्थतया अधिगतऩॆऩ्ऱुम् द्योतितमागिऱदु। प्रणिहितेषु - मिगवुम् सावधानर्गळाऩ, सम्यक्प्रशान्तचित्तायेत्यादिगळिल् सॊल्लप् पट्ट शिष्यलक्षणपूर्णर्गळाऩ ऎऩ्ऱबडि। नरादिकेषु - तऩ्ऩुडैय द्वितीयावतारऩाऩ नरऩ् मुदलाऩवर्गळ् विषयत्तिले, आदिशब्दत्ताले नारदादिगळुक्कुक् ग्रहणम्। कार्तयुगं – कृतयुगसम्बन्धियाऩ, स्वधर्मं – ‘‘निवृत्तिलक्षणं धर्मं ऋषिर्नारायणोऽब्रवीत्’’ ऎऩ्ऱु सॊल्लप्पट्ट स्वोपदिष्टमाऩ निवृत्तिधर्मत्तै, प्रख्यापयन् – विशेषतः उपदेशिक्किऱवऩायुम्, सतां – ब्रह्मज्ञानत् ताले लब्धसत्ताकर्गळाऩ भक्तिप्रपत्तिनिष्ठर्गळुक्कु, बन्धुः – ‘‘माता पिता भ्राता’’ ऎऩ्गिऱबडि सर्वविधबन्धुवुमाऩ, बदरिकाश्रमतापसः – बदरिकाश्रमत्तिल् तबस् सॆय्दुक्कॊण्डिरुक्किऱ नारायणऩाऩवऩ्, नः - नमक्कु, कल्याणं - मङ्गळत्तै, निवृत्तिधर्मनिष्ठतैयै ऎऩ्ऱबडि। आवहतु - उण्डु पण्णक्कडवऩ्। 
+इप्पडि मन्त्रप्रतिपाद्यऩाऩ नारायणऩै अनुसन्धित्तु अनिष्टनिवृत्तियैप् प्रार्थित्तु मेले अवऩ् तऩ्ऩैये मन्त्रप्रदऩाऩ बदरिकाश्रमवासियाऩ नारायणऩाग अनुसन्धित्तु इष्टत्तैप् प्रार्थिक्किऱार् कल्याणमावहतु इत्यादिना । अष्टचक्रं - ऎट्टु चक्रङ्गळैयुडैय, आद्यं - मुदलाऩ, कमपि – अनिर्वाच्यमहिमैयैयुडैय, रथं - महाभारतत्तिल् नारायणीयत्तिल् ‘‘अष्टचक्रं हि तद्यानं भूतयुक्तं मनोजवम्’’  ऎऩ्ऱु सॊल्लप्पट्ट रथत्तै, अधिगतः - अडैन्दवऩाय्, इव्वळवाल् तिरुमन्द्रम् रथमॆऩ्ऱुम्, अदिलुळ्ळ ऎट्टु ऎऴुत्तुक्कळ् सक्रङ्गळॆऩ्ऱुम्, नारायणऩ् प्रतिपाद्यार्थतया अधिगतऩॆऩ्ऱुम् द्योतितमागिऱदु। प्रणिहितेषु - मिगवुम् सावधानर्गळाऩ, सम्यक्प्रशान्तचित्तायेत्यादिगळिल् सॊल्लप् पट्ट शिष्यलक्षणपूर्णर्गळाऩ ऎऩ्ऱबडि। नरादिकेषु - तऩ्ऩुडैय द्वितीयावतारऩाऩ नरऩ् मुदलाऩवर्गळ् विषयत्तिले, आदिशब्दत्ताले नारदादिगळुक्कुक् ग्रहणम्। कार्तयुगं – कृतयुगसम्बन्धियाऩ, स्वधर्मं – 
+
+> ‘‘निवृत्तिलक्षणं धर्मं 
+ ऋषिर्नारायणोऽब्रवीत्’’ 
+
+ऎऩ्ऱु सॊल्लप्पट्ट स्वोपदिष्टमाऩ निवृत्तिधर्मत्तै, प्रख्यापयन् – विशेषतः उपदेशिक्किऱवऩायुम्, सतां – ब्रह्मज्ञानत् ताले लब्धसत्ताकर्गळाऩ भक्तिप्रपत्तिनिष्ठर्गळुक्कु, बन्धुः – ‘‘माता पिता भ्राता’’ ऎऩ्गिऱबडि सर्वविधबन्धुवुमाऩ, बदरिकाश्रमतापसः – बदरिकाश्रमत्तिल् तबस् सॆय्दुक्कॊण्डिरुक्किऱ नारायणऩाऩवऩ्, नः - नमक्कु, कल्याणं - मङ्गळत्तै, निवृत्तिधर्मनिष्ठतैयै ऎऩ्ऱबडि। आवहतु - उण्डु पण्णक्कडवऩ्। 
 </details>
 
 ### मन्त्रः
@@ -26385,8 +26390,8 @@ y debido a aquellos que **están** fuera de los límites de la religión védica
 </details>
 
 
-### फलित-योग्यताः
-#### रक्षायाम्
+### निष्ठा-दार्ढ्यम्
+#### उपाये
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिये रक्षकऩ् आऩ श्रियःपतियैप् पऱ्ऱ विश्वास-मान्द्यमुम्,  
@@ -26449,7 +26454,8 @@ la **protesta** [Ver página (89 del libro)] contra **ser dependiente** de Dios,
 ‘‘त्वम्मेऽहम्मे’’ ऎऩ्गिऱ पिणक्कुम्,
 </details>
 
-#### अन्य-शेषतादि
+#### स्वरूपे
+##### अन्य-शेषतादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरुपाधिकान्य-शेषत्व-भ्रममुम्, 
@@ -26532,7 +26538,7 @@ y, asimismo, el **deleite** en **servir** a los que **no son aptos** para el **s
 मऱ्ऱुमुळ्ळ असेव्यसेवारुचियुम्, 
 </details>
 
-#### देहात्म-भ्रमादि
+##### देहात्म-भ्रमादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देहात्म-भ्रमादिगळुम्, 
@@ -26573,7 +26579,8 @@ tales **ilusiones** como que el yo **es independiente** de Bhagavān,
 स्वतन्त्रात्मभ्रमादिगळुम्, 
 </details>
 
-#### अर्थ-कामादि
+#### पुरुषार्थे
+##### अर्थ-कामादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वार्थ-परिग्रहमुम्, 
@@ -26634,7 +26641,7 @@ offence to the devotees of Bhagavān,
 आकिञ्चन्यविस्मृतियुम्, 
 </details>
 
-#### संसार-रुच्य्-आदि
+##### संसार-रुच्य्-आदि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संसारानुवृत्ति-रुचियुम्, 
@@ -26661,18 +26668,184 @@ un **anhelo** por la **continuación** de la vida en el saṁsāra,
 आत्म-नाशादि-भयमुम्, 
 </details>
 
+<details><summary>English</summary>
+
+the **fear** that the soul **will suffer annihilation**, 
+</details>
+
+<details><summary>Español</summary>
+
+el **miedo** de que el alma **sufrirá la aniquilación**, 
+</details>
+
 <details><summary>मूलम्</summary>
 
 आत्मनाशादिभयमुम्, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-the fear that the soul will suffer annihilation, the taste for doing what is improper, the classification of men into friends and foes, the seeking of other kinsmen (than Bhagavān ), the desire for other ends (than the attainment of Bhagavān), averseness to the supreme goal of life and other such hindrances to one's firm stand in one's essential nature, in the real upāya and in the end in view - all these ( delusions) will never approach them.
+अ-सद्-आचारादि-रुचियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+the taste for doing what is improper, 
+</details>
+
+<details><summary>Español</summary>
+
+el gusto por **hacer** lo que **es** impropio,  
+</details>
+
+<details><summary>मूलम्</summary>
+
+असदाचारादिरुचियुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(भागवतत्व-भिन्न-)+++शत्रु-मित्रादि-विभाग-निरूपणमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+the classification of men into friends and foes, 
+</details>
+
+<details><summary>Español</summary>
+
+la **clasificación** de los hombres en amigos y enemigos, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+शत्रुमित्रादिविभागनिरूपणमुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बान्धवान्तर-परिग्रहमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+the **seeking** of other kinsmen (than Bhagavān ), 
+</details>
+
+<details><summary>Español</summary>
+
+la **búsqueda** de otros parientes (que **no sean** Bhagavān), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+बान्धवान्तरपरिग्रहमुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रयोजनान्तर-रुचियुम्, 
+</details>
+
+<details><summary>English</summary>
+
+the **desire** for other ends (than the **attainment** of Bhagavān), 
+</details>
+
+<details><summary>Español</summary>
+
+el **deseo** de otros fines (que **no sean** el **logro** de Bhagavān), 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रयोजनान्तररुचियुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परम-प्रयोजन-वैमुख्यमुम्, 
+</details>
+
+<details><summary>English</summary>
+
+**averseness** to the supreme goal of life 
+</details>
+
+<details><summary>Español</summary>
+
+**aversión** a la meta suprema de la vida 
+</details>
+
+<details><summary>मूलम्</summary>
+
+परमप्रयोजन-वैमुख्यमुम्, 
+</details>
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मऱ्ऱुम् स्व-निष्ठाविरोधिगळ् ऒऩ्ऱुम् पिऩ्ऩ् आडादु।
+</details>
+
+<details><summary>English</summary>
+
+and other such hindrances to one's firm stand  
+in one's essential nature,  
+in the real upāya  
+and in the end in view -  
+all these ( delusions) will never approach them.
+</details>
+
+<details><summary>Español</summary>
+
+y otros obstáculos similares para la **posición** firme  
+en la naturaleza esencial de uno,  
+En el verdadero upāya  
+y al final a la vista...  
+Todos estos (delirios) **nunca se acercarán** a ellos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱुम् स्वनिष्ठाविरोधिकळॊऩ्ऱुम् पिऩ्ऩाडादु।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-इह निजपक्षविरुद्धैरीदृशनिष्ठाविरोधिभिश्चान्यैः ।  
-द्विचतुष्कसारवेदी गङ्गाह्रद इव न गच्छति क्षोभम् ॥
+इह निज-पक्ष-**विरुद्धैर्**  
+ईदृश-**निष्ठा-विरोधिभिश्** चान्यैः ।  
+द्वि-चतुष्क-सार-वेदी  
+गङ्गा-ह्रद इव **न गच्छति** क्षोभम् ॥ +++(4)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इह निज-पक्ष-**विरुद्धैर्**  
+ईदृश-**निष्ठा-विरोधिभिश्** चान्यैः ।  
+द्वि-चतुष्क-सार-वेदी  
+गङ्गा-ह्रद इव **न गच्छति** क्षोभम् ॥ +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+The person who **knows** the essence of AshtAkṣara  
+**will never be deluded** by these and other ideas  
+which **are opposed** to his system and his way of life.  
+In no circumstances **are** the waters of the deep pool of the Gaṅga **disturbed**.
+</details>
+
+<details><summary>Español</summary>
+
+La persona que **conoce** la esencia de AshtAkṣara  
+**nunca se dejarán engañar** por estas y otras ideas  
+que **se oponen** a su sistema y a su forma de vida.  
+En ninguna circunstancia **son** perturbadas las aguas del profundo estanque del Gaṅga**.
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -26681,19 +26854,257 @@ the fear that the soul will suffer annihilation, the taste for doing what is imp
 द्विचतुष्कसारवेदी गङ्गाह्रद इव न गच्छति क्षोभम् ॥
 </details>
 
-The person who knows the essence of Ashtūkṣara will never be deluded by these and other ideas which are opposed to his system and his way of life. In no circumstances are the waters of the deep pool of the Gaṅga disturbed :
 
-TEN WAYS OF CONSTRUING AND INTERPRETING
+## वाक्य-योजनाः
+<details><summary>English</summary>
 
-TIRUMANTRA:
+TEN WAYS OF CONSTRUING AND INTERPRETING TIRUMANTRA:
+</details>
 
-We shall now consider in what manner the Tirumantra should be considered as forming a sentence or sentences and the meaning of such sentence or sentences:
+<details><summary>Español</summary>
 
-The Tirumantra is considered as **being** a single sentence, as **being** two sentences and as beiаg three sentences, in different traditions. So also the meanings of the sentence or sentences are reflected opon in many ways:
+DIEZ FORMAS DE **INTERPRETAR** EL TIRUMANTRA:
+</details>
 
-ONE SENTENCE-INDICATING UPĀYA.
 
-When it is looked upon as a single sentence, the connection of words is to this effect :-" Adoration to Narayaṇa whose nature is such as can be ascertained from the praṇava (aum), for it has been said: "Praṇava" is the word that denotes Bhagavān." (It is true that) the praṇava itself is the name of Bhagavān, but there is no repetition or redundancy in another name **being** used, viz,, Nārāyaṇa, for, as stated in Śāṇḍilya Smṛti and the like, the aum (or praṇava) is not of much avail, because its meaning by itself is not definite". Therefore, in the Vyāpaka mantras, the other name is for the purpose of indicating the particular (deity). This way of construing the sentence, when considered in the light of the gross interpretation described in such places as the Ahirbudhnya Saṁhitā (see before) will make it (Tirumantra) appear as indicating the upāya. However the essential nature (of the jīva) and the supreme goal of life are also implicit in it (for, without a knowledge of them, no upāya can be adopted).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इत् तिरु-मन्त्रत्तिल्  
+वाक्यमुम् वाक्यार्थमुम् इरुक्कुम् बडिय् ऎङ्ङऩेय्? 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+We shall now consider  
+in what manner the Tirumantra should be considered as forming a sentence or sentences  
+and the meaning of such sentence or sentences.
+</details>
+
+<details><summary>Español</summary>
+
+**Consideraremos** ahora  
+de qué manera **se debe considerar** que el Tirumantra forma una oración o oraciones  
+y el **significado** de dicha oración o oraciones.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत् तिरुमन्त्रत्तिल् वाक्यमुम् वाक्यार्थमुमिरुक्कुम्बडिय् ऎङ्ङऩेयॆऩ्ऩिल्; 
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्तै "एक-वाक्यम्" ऎऩ्ऱुम्  
+"वाक्य-द्वयम्" ऎऩ्ऱुम्,  
+"वाक्य-त्रयम्" ऎऩ्ऱुम्,  
+अव्वो अनुसन्धिप्पार्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+The Tirumantra **is considered** as **being** a single sentence,  
+as **being** two sentences  
+and as **being** three sentences,  
+in different traditions. 
+</details>
+
+<details><summary>Español</summary>
+
+El Tirumantra **se considera** como **ser** una sola oración,  
+como **siendo** dos oraciones  
+y como **siendo** tres oraciones,  
+en diferentes tradiciones. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्तै एकवाक्यमॆऩ्ऱुम् वाक्यद्वयमॆऩ्ऱुम्, वाक्यत्रयमॆऩ्ऱुम्, अव्वो अनुसन्धिप्पार्गळ्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि वाक्यार्थत्तैयुम् बहु-प्रकारम् आग वगुत्त् अनुसन्धानम् पण्णुवार्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+So also the meanings of the sentence or sentences **are reflected** opon in many ways.
+</details>
+
+<details><summary>Español</summary>
+
+Así también los significados de la oración o oraciones **se reflejan** de muchas maneras.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि वाक्यार्थत्तैयुम् बहुप्रकारमाग वगुत्तनुसन्धानम् पण्णुवार्गळ्। 
+</details>
+
+### उपाय-पर-वाक्यम्
+<details><summary>English</summary>
+
+ONE SENTENCE, INDICATING UPĀYA.
+</details>
+
+<details><summary>Español</summary>
+
+UNA ORACIÓN, QUE **INDICA** UPĀYA.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एक-वाक्यम् आऩ बोदु 
+
+> ‘‘तस्य वाचकः प्रणव’’  
+(पातञ्जल-योगसूत्रम् १-१-२७) 
+
+इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>English</summary>
+
+When **it is looked** upon as a single sentence,  
+for it **has been said**:  
+
+> "Praṇava is the word that denotes Bhagavān."  
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se considera** como una sola frase,  
+porque **se ha dicho**:  
+
+> "Praṇava **es** la palabra que **denota** Bhagavān".  
+</details>
+
+<details><summary>मूलम्</summary>
+
+एकवाक्यमाऩबोदु ‘‘तस्य वाचकः प्रणव’’(पातञ्जल-योगसूत्रम् १-१-२७) इत्यादिगळिऱ्पडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘प्रणव-प्रतिपाद्य-स्वभाव-विशिष्टाय नारायणाय नमः’’ 
+
+ऎऩ्ऱु अन्वयमाम्।
+</details>
+
+<details><summary>English</summary>
+
+the **connection** of words **is** to this effect :-
+
+> **Adoration** to Narayaṇa  
+whose nature **is** such as **can be ascertained** from the praṇava (aum).  
+</details>
+
+<details><summary>Español</summary>
+
+La **conexión** de palabras **es** a este efecto:
+
+> **Adoración** a Narayaṇa  
+cuya naturaleza **es** tal que **puede determinarse** a partir del praṇava (aum).  
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रणवप्रतिपाद्यस्वभावविशिष्टाय नारायणाय नमः’’ ऎऩ्ऱु अन्वयमाम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् प्रणवन् दाऩे नामम् आगवऱ्ऱ् आय् निऱ्क 
+</details>
+
+<details><summary>English</summary>
+
+(It **is** true that) the praṇava itself **is** the name of Bhagavān,  
+
+(but there **is no** repetition or redundancy  
+in another name **being used**, viz, Nārāyaṇa,)  
+</details>
+
+<details><summary>Español</summary>
+
+(**Es** cierto que) el praṇava mismo **es** el nombre de Bhagavān,  
+(pero **no hay repetición o redundancia**  
+en otro nombre **usando**, a saber, Nārāyaṇa,)  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् प्रणवन्दाऩे नाममागवऱ्ऱाय् निऱ्क 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अव्यक्तार्थतयोङ्कारः  
+केवलं नैव साधकः’’  
+(शाण्डिल्य-स्मृतिः ५-७१) 
+
+ऎऩ्ऱु शाण्डिल्याद्य्-उक्त-प्रक्रियैयाले
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अव्यक्तार्थतयोङ्कारः  
+केवलं नैव साधकः’’  
+(शाण्डिल्य-स्मृतिः ५-७१) 
+
+</details>
+
+<details><summary>English</summary>
+
+for, as **stated** in Śāṇḍilya Smṛti and the like,  
+
+> the aum (or praṇava) **is not** of much avail,  
+because its meaning by itself **is not definite**.
+</details>
+
+<details><summary>Español</summary>
+
+porque, como **declaró** en Śāṇḍilya Smṛti y similares,  
+
+> el aum (o praṇava) **no es** de mucha utilidad,  
+porque su significado por sí mismo **no es definido**
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अव्यक्तार्थतयोङ्कारः केवलं नैव साधकः’’(शाण्डिल्य-स्मृतिः ५-७१) ऎऩ्ऱु शाण्डिल्याद्युक्तप्रक्रियैयाले
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्यापक-मन्त्रङ्गळिल् नामान्तरम् व्यक्त्य्-अर्थम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+व्यापकमन्त्रङ्गळिल् नामान्तरम् व्यक्त्यर्थम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द योजना-विशेषम्  
+अहिर्-बुध्न्य्-आद्य्-उक्तम् आऩ स्थूलानुसन्धान-प्रकारत्तैप् पार्त्ताल्  
+उपाय-परम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द योजनाविशेषम् अहिर्बुध्न्याद्युक्तमाऩ स्थूलानुसन्धानप्रकारत्तैप् पार्त्तालुपायपरम्। 
+</details>
+
+
+
+Therefore, in the Vyāpaka mantras, the other name is for the purpose of indicating the particular (deity). This way of construing the sentence, when considered in the light of the gross interpretation described in such places as the Ahirbudhnya Saṁhitā (see before) will make it (Tirumantra) appear as indicating the upāya. However the essential nature (of the jīva) and the supreme goal of life are also implicit in it (for, without a knowledge of them, no upāya can be adopted).
 
 ONE SENTENCE INDICATING KAIÑKARYA.
 
