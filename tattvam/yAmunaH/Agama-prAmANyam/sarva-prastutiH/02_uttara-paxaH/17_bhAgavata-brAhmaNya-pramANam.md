@@ -3897,6 +3897,14 @@ For instance it is said in the Brahma Purāṇa:
 > "The nivedya of Viṣṇu is declared by the sages to be pure and fit for consumption; one who eats other nirmālya and nivedya must perform the cāndrāyaṇa in expiation. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+विष्णोर् ... Passages to be identified.
+
+मुनिभिर्भोज्यमुच्यते ... Cf. Pādmasaṁhitā, caryā, XII. 81b:
+
+> विष्णोर् निवेदितेन शुद्धं पावनानां च पावनम् ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
