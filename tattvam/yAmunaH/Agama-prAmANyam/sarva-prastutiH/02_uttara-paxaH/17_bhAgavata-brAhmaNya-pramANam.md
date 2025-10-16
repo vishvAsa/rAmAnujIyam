@@ -1838,6 +1838,12 @@ would be invalidated.
 
 युक्तं हि ... "अध्यवसानम्" इति शेषः ।
 
+तत्राधानोत्पत्ति ... The “ādhāna-utpattivākyas” referred to here are: “vasante brāhmaṇo ’gnimādadhīta”, “grīṣme rājanyaḥ” and “śaradi vaiśyaḥ” (Taittirīya Brāhmaṇa, I.i.2.1.)
+
+Vide Karmamīmāṁsā, pp. 86-87:
+
+> The direction to perform an offering is laid down in an originating injunction (utpattividhi) or an injunction of application (viniyogavidhi), according as the matter concerned is a principal or a subordinate offering. The originating injunctions are few in number relating as they do, to the principal Vedic offerings only, such as the Agnihotra, the New and Full-moon sacrifices, the Soma sacrifice and so forth...The originating injunctions, however, do no more than excite in the mind of the hearer the desire to perform the action which they enjoin, generally in the form of a sacrifice; it remains for other injunctions, those of application (viniyogavidhi), to denote the exact manner of procedure (itikartavyatā) by specifying the numerous subsidiary actions required, and the materials and other necessaries for the performance.
+
 सौधन्वना ... Ṛgveda: I.110.4.
 
 </details>
@@ -2027,7 +2033,7 @@ For a glorification of Pāñcarātrins along with Vaikhānasas, see Mahābhārat
 पाञ्च-रात्र-विदो मुख्यास् तथा भागवताः परे ॥ [ 24 ]  
 वैखानसाः कुल-श्रेष्ठाः वैदिकाचार-वारिणः । [ 25a ]
  
-> यावद् एते प्रपश्यन्ति पङ्क्तीस् तावत् पुनन्ति सः[[??]] ॥ [ 28b ]
+> यावद् एते प्रपश्यन्ति पङ्क्तीस् तावत् पुनन्ति च ॥ [ 28b ]
 </details>
 
 <details><summary>मूलम्</summary>
