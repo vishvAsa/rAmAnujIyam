@@ -206,6 +206,11 @@ if he suspects his mother of having had a lover;
 and how, my excellent opponent, can you be quite sure yourself that your birth entitled you to Veda-study? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अयं बहु-व्रीहिः ‘त्वं’ इत्य् अस्य अध्याहृतस्य विशेषणम् ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथा हि ।  
@@ -257,6 +262,10 @@ between the brahminhood of Bhagavatas and of others.
 is then the same authority stated for the brahminhood of the ones as well as of the others,
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अन्येषां ब्राह्मणत्वेन प्रसिद्धानां ब्राह्मण्य-ग्रहणे यत् प्रमाणं, तद् एव एतेषां भागवतानां ब्राह्मण्य-ग्रहणे प्रमाणं भवतीति ग्रन्थ-कृद्-वचः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -288,6 +297,10 @@ or how else is their brahminhood known
 if not by that same authority? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अस्माकम् एतेन विवादेन को लाभः? तथापि श्रूयताम् इत्य् आह ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -472,6 +485,10 @@ for knowledge of that sentencemeaning presupposes knowledge of the word-meaning 
 [250]: not identified.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Taittirīya Brāhmaṇa I.1.2.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -608,6 +625,15 @@ every case the sense becomes the cause of the rise of determination of sense-obj
 [251]: read deśakālasaṃsthānāditi.[[??]]
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+सर्वत्र ... Cf. Ślokavārtika under I.1.5, śl. 26 (vanavāda) :
+
+> तस्योपलक्षणं चापि क्वचित् केनचिद् इष्यते ।  
+रूपादीनां विशेषेण देश-कालाद्य्-अपेक्षया[[??]] ॥
+
+परिच्छेदः = ज्ञानं, निर्णयो वा ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -623,6 +649,11 @@ every case the sense becomes the cause of the rise of determination of sense-obj
 <details><summary>Buitenen</summary>
 
 It is the natural function of the sense-organ as such to relate itself to these accompanying circumstances. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+करण-मात्रम् = करण-सामान्यम् ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -655,6 +686,17 @@ unless it is favoured by these circumstances.252
 [252]: not identified.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Ślokavārtika (Sambandhākṣepavāda) under I.i.5.śl. 37.
+
+‘इति-कर्तव्यता-साध्ये’ अङ्गाधीने; ‘अनुग्रहे’ उपकारे; ‘अर्थिता’ सापेक्षता इति भावः ।
+
+Cf. Nyāyaratnākara (Chowkhamba edn.) on the above verse p.507:
+
+> सर्वत्र चक्षुरादौ प्रदीपाद्य्-अर्थित्व-दर्शनाद् ऐकान्तिकं सहायापेक्षणं नाशक्तिम् आपादयति । प्रस्तुत इति-कर्तव्य-तयैव करणत्वं, तद्-अभाव एव तस्य सिध्यति ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 यथा ऽऽह -  
@@ -678,6 +720,15 @@ gives knowledge of brahminhood
 without the object giving up its perceptuality. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Veṅkaṭanātha quotes this and the following verse in his Nyāyasiddhāñjana V. p. 267.
+
+Cf. Prakaraṇapañcikā III. p. 17:
+
+> जातिर् आश्रयतो भिन्ना प्रत्यक्ष-ज्ञान-गोचरा ।  
+पूर्वाकारावमर्शेन प्रभाकर-गुरोर् मता ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -698,6 +749,10 @@ without the object giving up its perceptuality.
 So it is evident that the visual sense can be the instrument of knowledge of genus in dependence on a variety of accompanying factors. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+श्लोक-वार्तिक इति भावः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -741,6 +796,13 @@ fire, which is hidden by ashes, perceived through touching the ashes.
 Sound may provide us with proof that there is a horse in the distance; 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Ślokavārtika (Vākyādhikaraṇa) śl. 358, p. 947:
+
+> पश्यतः श्वेतिमारूपं[[??]] हेषा-शब्दं च शृण्वतः ।  
+खुर-निक्षेप-शब्दं च श्वेतो ऽश्वो धावतीति धीः ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -763,6 +825,10 @@ Sound may provide us with proof that there is a horse in the distance;
 a pitcher etc. are known through their configuration; brahminhood through descent, and also through conduct in certain particulars, which is completely protected by the king.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide ibid (Vanavāda) I. i.5, śls. 27 & 29.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -807,6 +873,10 @@ but the perceptuality of their differentness is not refuted by just this.
 In this case the non-perception of their differentness is caused by the defect of similarity. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+विभागो भेदः, विशेषो वा ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -848,6 +918,12 @@ The difference between nacre and silver, which are similar in appearance and con
 Or else, brahminhood is that which arises from the differentiae of genus, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Prakaraṇapañcikā, III, p. 31:
+
+> तेन सन्तति-विशेष-प्रभवत्वम् एव ब्राह्मण-शब्द-प्रवृत्ताव् उपाधिः । तत्-प्रभवानाम् एव कर्मस्व् अधिकार इति न किञ्चिद् अवहीनम् । के पुनस् ते सन्तति-विशेषाः? न ते परिगणय्य निर्देष्टुं शक्यन्ते; किन्तु लोकत एव प्रसिद्धाः प्रत्येतव्याः । तथा च तज्-जन्यत्वे ऽवगते ब्राह्मण-शब्दं प्रयुञ्जते[[??]] लोकाः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -865,6 +941,11 @@ Or else, brahminhood is that which arises from the differentiae of genus,
 
 and such a product can empirically be known just like any other product  
 by a process of positive and negative consideration, 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+कपाल-द्वय-योग एव घटोत्पत्तिः; नो चेत् । एवं, एतादृश-पितृ-मातृ-कारणत्व एव ब्राह्मणत्वं, न त्व् अन्यथा इति भावः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -929,6 +1010,10 @@ it is established that the Bhagavatas are brahmins, because they possess gotra e
 126\. The objection that was made that the Bhāgavatas are born from a vaiśya vratya: 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See p. 13 above, for the pūrvapakṣa view.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -950,6 +1035,10 @@ it is established that the Bhagavatas are brahmins, because they possess gotra e
 > "The fifth one, the Sarvata, must worship the sanctuaries of Visnu by royal decree;" 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -972,6 +1061,14 @@ and
 > "he is also called a Bhagavata; he is born from a vaisya vratya." 
 
 \- On the authority of the two statements.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. Manusmṛti X. 23:
+
+> वैश्यात् तु जायते व्रात्यात् सुधन्वा ऽऽचार्य एव च ।  
+भानुवश् च[[??]] निजङ्घश् च मैत्रस् सात्वत एव च ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1108,6 +1205,10 @@ the predicated fire does not necessarily possess smoke.255
 The example is 'parvato 'gnimin dhumavattvāt if we interchange S and P, we get parvato dhumavin agnimattvåt, but this is not true, for though there is no fireless smoke, there is smokeless fire. Similarly here: the fifth may be a sitvata or a vaidya vratya, but being the fifth does not make the sitvata a vaidya vratya, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+‘उद्दिश्यमानस्य’ धूमवत इत्य् अर्थः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1153,6 +1254,14 @@ therefore an eminent brahmin who is an acarya imparting teaching of the Veda wit
 [256]: In the Manu quotation supra § 15.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+यदि ... This paragraph is in elucidation of the word “atiprasaṅgācca” used in the para “na tāvat” etc. above.
+
+सहपठिताचार्य ... The term ‘ācārya’ is from the Manusmṛti X. 23a:
+
+> वैश्यात् तु जायते व्रात्यात् सुधन्वा ऽऽचार्य एव च ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1179,6 +1288,17 @@ therefore an eminent brahmin who is an acarya imparting teaching of the Veda wit
 If, on the other hand, even though a true brahmin is denoted by the word ācārya which dea vratya, there still can be no suspicion that he actually is a vratya, because there is positive certainty of his brabminhood which is clearly proved by other means of knowledge, and because it is possible that the word acarya is used figuratively (ācārya as one who "accumulates"— acinoti the pupil's knowledge) for a Brahmin teacher, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Nirukta (Ānandāśrama Series 88) I. ii. 4, p. 36:
+
+> आचारं ग्राहयत्य् आचिनोत्य् अर्थान्, आचिनोति बुद्धिम् इति वा ।
+
+Also Cf. Vihagendrasaṁhitā (ms.):
+
+> आचिनोति परान् सर्वान् आचारयति सर्वतः ।  
+आचरेत्य् अपि तान् लोकान् स तु आचार्य उच्यते ॥ [XXII. 14]
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1228,6 +1348,10 @@ does not mean that therefore both belong to one and the same caste,
 lest the true brahmin be not made into a low-caste man because he is also denoted by the word AchArya.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+“śabdyatvāt” would have been a better reading. But no text preserves this reading. As it stands now, the term “ācāryaśabdatvāt” has to be explained as a Bahuvrīhi compound, qualifying the term “Brāhmaṇa”.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1253,6 +1377,11 @@ We find that the word hari also means 'frog.' Does it follow that a lion is a fr
 ([259]: gauḥ can mean 'cow' and 'word." )
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This and the two succeeding lines are quoted by Sudarśanasūri in his commentary on Śrībhāṣya, I.i.1, Vol. I, p. 153.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथा च 'हरि'-शब्दस्य दृष्टा मण्डूकवाचिता ।  
@@ -1275,6 +1404,12 @@ We find that the word hari also means 'frog.' Does it follow that a lion is a fr
 Consequently, just as the words sudhanvan, ācārya etc., which denote more than one meaning, are also used for someone born from a vaiśya vratya, so also the words Bhagavata and Satvata.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+सुधन्वाऽऽचार्य ... Manusmṛti X. 23a: “वैश्यात् तु जायते व्रात्यात्” etc.
+
+यथा ... सुधन्वादि-शब्दा यथा अर्थान्तर-वाचका, एवं सात्त्वत-भागवत-शब्दाव् अपीति योजना । ‘यथार्थान्तर-वाचका’ इति न समस्तं पदम् ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1302,6 +1437,11 @@ Consequently, just as the words sudhanvan, ācārya etc., which denote more than
 [260]: supra §15.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See “रूढ्या” etc., p. 12 above.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यदुक्तं योगरूढिशक्तिद्वयोपनिपाते सात्त्वत-भागवत-शब्दयो रूढिशक्तिरेवाश्रयितुमुचितेति ।  
@@ -1322,6 +1462,10 @@ which is the composite of the denotations of the component elements of the words
 then it is not right to assume a non-composite denotation.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अवयव-शक्तिः = योग-शक्तिः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1355,6 +1499,33 @@ must also theorize that the words sattvavat and bhagarut, which are the stem and
 [262]: "conventionally the two words are synonymous, 'etymologically' they have different meanings.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+सत्त्ववद् ... Parāśarabhaṭṭa in his ‘Viṣṇusahasranāmabhāṣya’ gives the following explanations for the term ‘sāttvata’ identifying the latter with ‘mahābhāgavata’ [ See Introduction to Jayākhya Saṁhitā ]
+
+(i) सत् ब्रह्म, सत्त्वं वा, तद्वन्तः सात्त्वन्तः; ब्रह्म-विधाः सात्त्विका वा; तेषाम् इदं कर्म शास्त्रं वा सात्त्वतम्, तत्-कुर्वाणाः, तद्-आचक्षणाश् च वा ।
+
+(ii) सातयति सुखयत्य् आश्रितान् इति सात् परमात्मा; स एतेषाम् अस्तीति वा सात्त्वताः । सात्त्वतो वा महा-भागवतः ।
+
+The Mahābhārata, Āśvamedhikaparvan [Vavilla edn., Vol. XVIII] ch. 124, śls. 33-37 speaks in favour of the brahmanical status of the Bhāgavatas:
+
+> अपार्थकं प्रभाषन्ते शूद्रा भागवता इति ।  
+न शूद्रा भगवद्-भक्ता विप्रा भागवताः स्मृताः ॥  
+सर्व-वर्णेषु ते शूद्रा ये ह्य् अभक्ताः जनार्दने ।  
+द्वादशाक्षर-तत्त्व-ज्ञः चतुर्-वेद-विभागवित् ॥  
+अच्छिद्र-पञ्च-काल-ज्ञः स वै भागवतः स्मृतः ।  
+ऋग्-वेदेनैव होता च यजुषा ऽध्वर्युर् एव च ॥  
+साम-वेदेन चोद्गाता पुण्येनाभिष्टुवन्ति माम् ।  
+अथर्व-शिरसा चैव नित्यम् आथर्वणा द्वि-जाः ॥  
+स्तुवन्ति सततं ये मां ते वै भागवताः स्मृताः ॥
+
+तद्धित ... अमुम् एव प्रत्ययं ‘अण्’ इति स्वयम् एव निर्दिशति ।
+
+सात्त्वतं ... Mahābhārata, Bhīṣma, ch. 62. śl. 39b.
+
+जन्मान्तर ... Paramasaṁhitā, III. 38b.
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1396,6 +1567,10 @@ clearing away the bali offerings,
 guarding the idol etc., for it is taught that the can suffix may occur in the sense of a simple relation, "this is of that." (263, Panini.)
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See Siddhāntakaumudī, IV. iii. 120.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1412,6 +1587,11 @@ guarding the idol etc., for it is taught that the can suffix may occur in the se
 <details><summary>Buitenen</summary>
 
 And it is declared that the issue of a vaiśya vratya has the work discipline of cleaning the Bhagavan's temple etc., 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+See p. 14 above where the word नैवेद्य-शोधनं was used.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1431,6 +1611,10 @@ And it is declared that the issue of a vaiśya vratya has the work discipline of
 "and (the task) of the satvatas is the cleaning of the deity's temple, the eating of the offerings, the guarding of the idol;" 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1504,6 +1688,20 @@ and quite another thing to perform the variety of actions that are daily observe
 It is as it is in the case of the jyotistoma etc. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Journal of Royal Asiatic Society, (1911), p. 948:  
+
+The Pañcakāla or Five-Time-observances enjoined on a Bhāgavata are: (i) abhigamana: morning prayer, abluting etc., (ii) upādāna: fetching articles of worship, (iii) ijyā: divine worship, (iv) svādhyāya: study of the sacred lore and (v) yāga or yoga: divine meditation.
+
+The day, from 4 a.m. to 10 p.m. is to be divided into five divisions for each of these acts. Cf. Pādmasaṁhitā: Caryāpāda: XIII: 3-4a:
+
+> ādyaṃ karmābhigamanamupādānamataḥ param ।  
+ijyā ca paścāt svādhyāyastato yogastataḥ param ॥  
+pañcaite vidhayasteṣāṃ kālāḥ pañcaiva te kramāt ।
+
+For a definition and explanation of these five terms, see ibid: śl. 4b, ff.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1523,6 +1721,10 @@ It is as it is in the case of the jyotistoma etc.
 In the jyotistoma, too, a carpenter has a task in making the various receptacles, soma-cups, soma-decanters, ladles etc., while the officiating priests have their tasks in reciting various different mantra recitations, representing the deity, pressing of the soma etc. +++(5)+++
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+"Graha", "Camasa", etc., are the names of cups into which soma-juice is poured during a sacrifice. Cf. Śabara on Pūrvamīmāṁsā: III.i.16, p. 158: "grahādi somapātram".
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1596,6 +1798,14 @@ So here, too, there is a difference between those who perform the pañcakālikā
 [268]: For the word means etymologically "maker of chariots, carts."" [269]: not identified.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+यत्पुनरुक्तं ... See p. 12 above for the pūrvapakṣa.
+
+रथकार ... Cf. Āpastambaśrautasūtra, V. 3.19.
+
+रथकरण ... रथ-करण-रूप-योग-शक्त्या । 
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1624,6 +1834,19 @@ and because usages of a word in the sense of different castes, which is given in
 would be invalidated. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+युक्तं हि ... "अध्यवसानम्" इति शेषः ।
+
+तत्राधानोत्पत्ति ... The “ādhāna-utpattivākyas” referred to here are: “vasante brāhmaṇo ’gnimādadhīta”, “grīṣme rājanyaḥ” and “śaradi vaiśyaḥ” (Taittirīya Brāhmaṇa, I.i.2.1.)
+
+Vide Karmamīmāṁsā, pp. 86-87:
+
+> The direction to perform an offering is laid down in an originating injunction (utpattividhi) or an injunction of application (viniyogavidhi), according as the matter concerned is a principal or a subordinate offering. The originating injunctions are few in number relating as they do, to the principal Vedic offerings only, such as the Agnihotra, the New and Full-moon sacrifices, the Soma sacrifice and so forth...The originating injunctions, however, do no more than excite in the mind of the hearer the desire to perform the action which they enjoin, generally in the form of a sacrifice; it remains for other injunctions, those of application (viniyogavidhi), to denote the exact manner of procedure (itikartavyatā) by specifying the numerous subsidiary actions required, and the materials and other necessaries for the performance.
+
+सौधन्वना ... Ṛgveda: I.110.4.
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1646,6 +1869,10 @@ Despite the fact that rathakāra is also a name for another caste-as learnt from
 [271]: cf. Amarakoṣa, 10.4.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Yājñavalkyasmṛti : Ācārādhyāya: I.iv.95a.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1673,6 +1900,14 @@ the rathakāra is not forbidden to perform rites of sacrificing, fire-building a
 [272]: not verified.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+No printed text of the Śāṅkhasmṛti contains this passage. It is however, traced in the "Reconstruction of the Dharmasūtra of Śāṅkha and Likhita", attempted by Dr. P. V. Kane, in the Annals of the Bhandarkar Institute, Vol. VII, p. 115. The passage was numbered 76 there. The reading found is:
+
+> kṣatriyavaiśyānulomāntarotpannajo rathakāraḥ, tasyejyādhānopanayanasaṁskārakriyā aśvapratiṣṭhā rathasūtravāstuvidyādhayayanavṛttitā ca.
+
+This passage appears in the Mitākṣarā on Yājñavalkyasmṛti: I-95 and in Aparārka. The Mitākṣarā [Chowkhamba Sanskrit Series No. 62] has a variant: "kṣatriyavaiśyānulomāntarotpanno yo rathakāraḥ".
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1759,6 +1994,12 @@ Moreover, when knowledge of the thing meant by a word is obtained from the denot
 [[111]]
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+नष्टावयवत्वं योग-शक्ति-राहित्यम् । ‘नाम’ पदेन प्रतिपादिकम् उच्यते । नष्टावयव-नामत्वं = रूढिम् इत्य् अतः ।
+
+प्रोक्षणीष्वर्थ ... Pūrvamīmāṁsā : I.iv.11. This aphorism means that in words like “prokṣaṇī”, the etymological significance itself is applicable; i.e., the word is to be taken in its etymological sense alone and not the conventional one, for the former is quite compatible with the latter. The advantage of this sūtra over the preceding sūtras is that all liquids are meant by the term “prokṣaṇī”, and not water alone.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1782,6 +2023,18 @@ Moreover, when knowledge of the thing meant by a word is obtained from the denot
 Therefore, those emine~nt brahmins are called sāttvatas and bhāgavatas who because of their pure character (sattva) devote themselves to the Bhagavān who is the Supreme Person. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+For a definition of the term Bhāgavata, see Pādmasaṁhitā, Caryāpāda, II.91b-95a and XXI. 14-15. For an interesting account of the origin and significance of the term Sāttvata see J. Przyluski, ‘Sātvant, Sātvata and Nāsatya’, IIIQ, Vol. IX pp 83-91.
+
+For a glorification of Pāñcarātrins along with Vaikhānasas, see Mahābhārata, Anuśāsana [Vavilla edn. Vol. XVI], ch. 78:
+
+> यतयो मोक्ष-धर्म-ज्ञा योगिनश् चरित-व्रताः ।  
+पाञ्च-रात्र-विदो मुख्यास् तथा भागवताः परे ॥ [ 24 ]  
+वैखानसाः कुल-श्रेष्ठाः वैदिकाचार-वारिणः । [ 25a ]
+ 
+> यावद् एते प्रपश्यन्ति पङ्क्तीस् तावत् पुनन्ति च ॥ [ 28b ]
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1798,6 +2051,11 @@ Therefore, those emine~nt brahmins are called sāttvatas and bhāgavatas who bec
 <details><summary>Buitenen</summary>
 
 Later on we shall show that other smṛtis set forth the eminent brahminhood of the bhāgavatas.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+No such smṛtis are however, quoted by the author in the remaining portion of the text.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1824,6 +2082,11 @@ Later on we shall show that other smṛtis set forth the eminent brahminhood of 
 [275]: supra § 15.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See p. 12 above, for the pūrvapakṣa-view.
+</details>
+
 <details><summary>मूलम्</summary>
 
 यत् पुनर् उक्तं समाने ब्राह्मण्ये किम् इति सात्त्वत-भागवतैकान्तिक-शब्दैर् एवैतेषां नियमेन व्यपदेश इति, तत् परिव्राजक-निगदादिवद् इत्य् अदोषः ।  
@@ -1845,6 +2108,16 @@ Later on we shall show that other smṛtis set forth the eminent brahminhood of 
 > निगदा वर्तन्ते न यजूंषि 
 
 इति च, 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+यथैव हि ... See Pūrvamīmāṁsā, II. i. 35-37: "तेषां ऋक् यत्रार्थ-वशेन पाद-व्यवस्था", "गीतिषु समाख्या", "शेषे यजुश् शब्दः", for the definitions of ṛk, sāman and yajus respectively. By the last of the above sūtras, the group of mantras called “nigada” also comes to be known as “yajus”.
+
+तिष्ठन्तु ... Cf. Śābara under II. i. 43, p. 89.
+
+यजूंषि ... Cf. ibid. under II. i. 39, p. 89.
+
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1884,6 +2157,10 @@ and this is so because of the interpretation:
 > "the nigadas are the fourth mantra collection, or the yajuḥ formulae, because they are identical."
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Pūrvamīmāṁsā II. i. 40.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1906,6 +2183,11 @@ and this is so because of the interpretation:
 132\. The contention278 that the bhāgavatas are bad brahmins because they perform pūjā to the God, partake of the offering substance etc. for a livelihood, is countered in the following manner: 
 
 [278]: supra § 16.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+See p. 15 above.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2016,6 +2298,12 @@ as is shown by the smṛti: "A sacrifice for which a small fee is given kills (t
 [279]: cf. Manu, 11.40.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अर्चनान्ते ... Paramasaṁhitā, XVII. 46b-47a.
+
+हन्त्यल्पदक्षिणो ... Manusmṛti, XI. 40b.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2076,6 +2364,20 @@ or "He should choose me."
 [280]: AitBr., 3.46.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Aitareya Brāhmaṇa XV. ii. p. 418 [ Ānandāśrama Skt. Ser. 32, with Sāyaṇa’s commentary ]. The passage reads thus :
+
+> taddhaitadeva jagdhāṁ yadāśaṁsamānamārtvijyaṁ kārayata uta vā me dadyāt uta vā mā vṛṇīteti taddha tatparāṇeva yathā jagdhāṁ na haiva tad yajamānaṁ bhunakti.
+
+This passage points out that a careful yajamāna should avoid greedy priests who perform three types of objectionable offerings in sacrifices. Cf. ibid. p. 417: “trīṇi ha vai yajñe kriyante, jagdhaṁ, gīrṇaṁ, vāntaṁ”.
+
+Vide Sāyaṇa’s commentary on it:
+
+> tānyetāni trīṇi durbuddhibhir yajñe kriyante jagdhādisthānīyāni trīṇi, varjanīyānītyarthaḥ.
+
+For more information on this, see Sāyaṇa’s commentary, p. 411.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2128,6 +2430,12 @@ as according to the smṛti, "He who receives the offering and he who {{deit|giv
 [[112]]
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vide Manusmṛti. IV-238. The remainder of the verse is “narakaṁ tu viparyaye”. The term “arcitaṁ” should be understood in the sense of “arcanāpurassaraṁ”. It is an adverb and not a noun.
+
+This verse is also found in the Mahābhārata, Āśvamedhika [ Vavilla edn. Vol. XVIII. ] ch. 112, śl. 30.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2153,6 +2461,10 @@ as according to the smṛti, "He who receives the offering and he who {{deit|giv
 [282]: supra § 16.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See pp. 15-16 above.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2194,6 +2506,10 @@ Thus the blessed Vyāsa: "A devalaka is he who lives on Rudra etc." 283
 [283]: This and the following quotations could not be identified.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2297,6 +2613,14 @@ One must have pūjā offered by another professional priest who has been properl
 This is the principal offering; in another manner it is secondary." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Paramasaṁhitā, XVII. 46a. 
+
+Cf also ibid., 8b:
+
+> अन्येन वैष्णवेनैव देवं शूरः प्रपूजयेत् ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2394,6 +2718,12 @@ By considering these and a hundred similar smṛti statements we can be sure tha
 [285]: a Brahman erudite in the Veda and following its observances.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See p. 15 above for the opponent's view.
+
+For a detailed discussion on this subject, see Vedānta Deśika’s Saccaritrarakṣā, Adhikāra III.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2512,6 +2842,10 @@ and here it is impossible to determine the particularization.
 REPLY. Are you now accepting the validity of Pañcaratra? For only when one admits that there is a deity present in the idols that are erected with the sacred formulae enjoined by Pañcaratra Tantra can one postulate that the particularization of the prohibition lies in the offering-up to the deity. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The discussion here is, whether or not the usage of nirmālya, nivedya, etc., contradicts the genuine character of the Bhāgavatas. The Mīmāṁsaka cannot attribute non-brahmanical character to the Bhāgavatas, says the author, on the ground that they use nirmālya and nivedya prohibited is some smṛti-texts. First of all, the prohibition pertains to the nirmālya and nivedya offered to deities other than Viṣṇu. Secondly, the Mīmāṁsaka has to qualify the terms “nirmālya” and “nivedya”, even to refute their usage, because flowers and food in general cannot be termed so. He might say that “nirmālya” and “nivedya” are things offered by the Pāñcarātrins to some deity; but this statement lands him in trouble, since he does not admit of any deity with a personality and also because such a statement would imply his acceptance of the validity of the Pāñcarātra-texts. Without admitting their validity as the starting point, he cannot speak of a deity, and flowers etc., being offered to that deity.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2557,6 +2891,17 @@ For unless the validity of the Tantra is admitted, how can an idol which is set 
 only that deity which is known to be correlated with an oblation on the authority of scriptural testimony is the deity to that oblation; 
 
 that is your own doctrine.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. Tantravārtika under I. iii. 10, p. 172:
+
+> विधिनैव हि देवत्वं प्रतिकर्मवधार्यते । न जात्या देवतात्वं हि क्वचिद् अस्ति व्यवस्थितम् ॥
+
+Cf. also Prakaraṇapañcikā, V. p. 105:
+
+> देवतोद्देशेन द्रव्य-त्यागो यागः ।......स्तोत्रं शृणोमि यद् गुण-वचने । यद् उद्देशेन च हविषां त्यागश् चोद्यते, सा देवता । तत्रैव याज्ञिक-वृद्धानां देवता-शब्द-प्रयोगात् । यत्र हि आग्नेयादि-देशनार्थानुष्ठाने प्रवृत्तो ऽग्निम् उद्दिश्य हविस् त्यजति, तत्रैवम् आहुर् अग्निर् अत्र देवतेति । 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2709,6 +3054,10 @@ should reject nevertheless the nirmālya and nivedya?
 > For in the Tantras the tasting etc. of the nirmālya is prohibited. For instance, it is said in the Sanatkumārīya Saṃhitā: 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Published by the Adyar Library and Research Centre, Madras, 1969.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2730,6 +3079,18 @@ should reject nevertheless the nirmālya and nivedya?
 > "The offering that is proffered (to the deity), flower or fruit, is called nirmālya; that must be avoided meticulously." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Śivarātra, V. 48b-49a. Also Cf. Paramasaṁhitā XII. 36b-37a:
+
+> पूजायां विनियुक्तं तु यद् द्रव्यम् इह पूजकैः ।  
+निर्माल्यम् इति विज्ञेयं न[[??]] कार्येषु वर्जितम् ॥
+
+Cf also Vasiṣṭhasaṁhitā ( ms ) VII. 52b-5 a:
+
+> निवेदितं च यद् द्रव्यं पुण्यं फलम् अथापि वा[[??]] ।  
+निर्माल्यम् इति तं [ तत् ? ] चैव प्रयत्नेन विवर्जयेत् ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2761,6 +3122,12 @@ and drink the pañcagavya,279 in order to be purified."290
 [290]: The pañcagavya is a substance in which the 5 products of the cow are mingled.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+निर्माल्यं ... Ṛṣirātra, VIII. 77b-78. Variants: “भक्षयित्वा चापि” in the first line, “जप्त्वा चाष्टाक्षर” in the second line and “पूतो भवति साधकः” in the third line.
+
+ब्रह्मकूर्चं ... A mixture of five products of the cow (pañcagavya) with darbha-water.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2785,6 +3152,10 @@ and drink the pañcagavya,279 in order to be purified."290
 > Likewise in the Indrarātra: "One should not live off the Supreme God, nor eat the nirmālya offerings." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+IX. 2a.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2807,6 +3178,11 @@ and drink the pañcagavya,279 in order to be purified."290
 > Also: 
 > 
 >>  "And the nirmālya offerings are never fit for consumption." 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+This is not found in the extant text of the Indrarātra-section, perhaps lost in the rest of ch. IX, which ends in a blank.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2837,6 +3213,15 @@ and drink the pañcagavya,279 in order to be purified."290
 > > "One should not eat the nirmālya offerings, nor smell them, nor step over them."
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+
+Cf Paramasaṁhitā III. 44:
+
+> निर्माल्यं लङ्घयेन् नैव न भुञ्जीत न संस्पृशेत् ।  
+न दद्याच् च न जिघ्रेच् च रक्षेत्.........च ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2902,6 +3287,10 @@ Thus in the same Indrarātra:
 > "The wise one must let the offering-cake stand for ten nāḍikās. This period of time has been prescribed both for night and for day. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+I. 10b-11a. Variants: स्थापयित्वा for स्थापयेत् तु and स उद्दिष्टः for समुद्दिष्टः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2927,6 +3316,10 @@ Thus in the same Indrarātra:
 thereupon he must throw it in water, or in fire, or bury it in the ground." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+I. 11b, 10a. Variant: वा चाग्नौ for चैवाग्नौ ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2950,6 +3343,11 @@ thereupon he must throw it in water, or in fire, or bury it in the ground."
 <details><summary>Buitenen</summary>
 
 > OBJECTION. But what is said here is not to praise the tasting etc. of the nirmālya, but to prescribe that the substance of the cake pūjā is thrown away after a period of ten nāḍikās. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+For an account of pūraṇapūjā, see Indrarātra, ch. I. See also Kapiñjalasaṁhitā, ch. 29.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2981,6 +3379,10 @@ because they have now fulfilled their ritual function,
 they must be kept by way of accessory pūjā rite for a period of ten nāḍikās. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Indrarātra, I. 10b.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3005,6 +3407,10 @@ they must be kept by way of accessory pūjā rite for a period of ten nāḍikā
 > And consequently even a study of the conclusions of your own Tantras shows that the touching etc. of the turmeric powder, the food offerings and the water used to clean the idol's feet is not established by Tantric doctrine. Now, where are you!
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This is Yāmuna’s reply to the above arguments regarding nirmālya and naivedya.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3029,6 +3435,14 @@ REFUTATION. Where are you, loquacious debaters, witless fools who have been swal
 This prohibition applies only to fools like you, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Sāttvata Saṁhitā, XXI. 45b-46:
+
+> yo na vettyacyutaṁ tattvaṁ pañcarātrārthameva ca ।  
+tathā sadvaiṣṇavīṁ dīkṣāṁ nānāśāstroktalakṣaṇām ॥  
+na tena saha saṁbandhaḥ kāryaḥ................... ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3071,6 +3485,12 @@ for it is not to be touched by others, just as the puroḍaśa cake292 is not to
 [292]: cake used at Vedic offerings.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Pādmasaṁhitā, Caryāpāda, XII.83b:
+
+> śunāmiva puroḍāśo na nīceṣu tadīyate ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3099,6 +3519,10 @@ Thus in the Īśvara Saṃhitā,
 and, among those who are, it is even more difficult to find a disposition which is truly pure enough for the footwater, or to use the garlands etc. which have been mentioned in the doctrine,  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+These and a few other verses following, quoted by Yāmuna as from Īśvarasaṁhitā, are not found in the available āgamas of that name. The Īśvarasaṁhitā from which Yāmuna quotes appears to have been a different work. See Introduction to Jayākhyasaṁhitā ( Gaekwad Oriental Series ), p. 49.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3168,6 +3592,10 @@ and, among those who are, it is even more difficult to find a disposition which 
 And in another passage: "The saffron, sandal, camphor and oils that have been taken off Viṣṇu's body are supremely purifying." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3222,6 +3650,10 @@ Similarly in the Īśvara Saṃhitā,
 > "No blame should be put by statements arising from ignorance on all that is used, the perfume, flowers etc., (the water) of the idol's bath etc., and the curds, milk etc. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This is the second instance where Yāmuna quotes from Īśvarasaṁhitā, which is yet to be recovered.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3282,6 +3714,11 @@ The above statements which to the consecrated prohibit the use of nirmālya at t
 [294]: Viśvaksena, to whom pūjā is performed after the main pūjā.
 </details> 
 
+<details><summary>नरसिंहः</summary>
+
+इतः पूर्वम् अभक्तानां निर्माल्याद्य्-उपयोग-निषेध-विषयो विचारितः । इदानीं दीक्षितस्यापि तद्-विषये विचारः प्रस्तूयते ।
+</details> 
+
 <details><summary>मूलम्</summary>
 
 यानि पुनर् दीक्षितम् एवाधिकृत्य समयानुशासन-समये निर्माल्योपयोग-निषेध-पराणि वचनानि तानि पारिषदेशोपयोगोत्तर-कालाभिप्रायेण द्रष्टव्यानि । 
@@ -3307,6 +3744,15 @@ The above statements which to the consecrated prohibit the use of nirmālya at t
 Since the garlands, sandal etc, which are offered up to the Bhagavān, later on, after the Viśvaksena offering, become unfit to eat, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Sāttvata Saṁhitā, X. 57-58.
+
+> दिजातेः दत्त-शिष्टस्य पुष्प-पत्रादिकस्य च ।  
+विहितश् चाम्भसि त्यागो विश्वक्सेनेनार्चने कृते ॥  
+धर्तव्यं न चिरं चाग्रे यत् पुरा विनिवेदितम् ।  
+नैवेद्यं मन्त्र-मूर्तीनां किञ्चित्-पुष्प-फलादृते ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3354,6 +3800,16 @@ therefore the Sātvatas use the nivedya etc. before that time. Consequently the 
 136\. Moreover, it is our postulation that the exemplary people hold the nirmālya of other gods in contempt; this is postulated like the drinking of soma (which is good) because it is Vedic (in contrast to the drinking of liquor which is evil). 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+देवतान्तर-निर्माल्यं शिष्टैः विगर्हित-स्वरूपेण इष्टम् इत्य् अर्थः ।
+
+इदं तु ... Cf. Viṣṇusaṁhitā, XXXIX. 12-13a:
+
+> निर्माल्यं न स्पृशेदद्यात् लङ्घयेद् वाशनं कुतः ।  
+सर्वेषाम् एव देवानां निर्माल्यम् अशुचि स्मृतम् ॥  
+विष्णु-भुक्तं तु पुष्पादि शुचीत्य् आददते परे ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3447,6 +3903,14 @@ For instance it is said in the Brahma Purāṇa:
 > "The nivedya of Viṣṇu is declared by the sages to be pure and fit for consumption; one who eats other nirmālya and nivedya must perform the cāndrāyaṇa in expiation. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+विष्णोर् ... Passages to be identified.
+
+मुनिभिर्भोज्यमुच्यते ... Cf. Pādmasaṁhitā, caryā, XII. 81b:
+
+> विष्णोर् निवेदितेन शुद्धं पावनानां च पावनम् ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3471,6 +3935,13 @@ For instance it is said in the Brahma Purāṇa:
 He who wears it on his head goes to supreme bliss." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Pādmasaṁhitā, caryā, XII. 85:
+
+> धरितं विष्णु-निर्माल्यं चन्दनाद्य् अनुलेपनम् ।  
+अहर्-निशं धारयतां न पुनर्-जननं भवेत् ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3495,6 +3966,12 @@ It follows that the smṛti statement that a man who eats nirmālya and nivedya 
 [295]: as quoted supra § 16.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be traced out. Cf. Pādmasaṁhitā, caryā, XII. 79a:
+
+> ब्रह्मेशानादि-देवानां नैव भोज्यं निवेदितम् ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3525,6 +4002,21 @@ Thus in the Mahābhārata:
 > "Meditating in one's heart upon Hari, one must offer food to Him with full attention, thereupon pick up this food again with the middlefinger and the thumb, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified. 
+
+Cf. Laghuvyāsasaṁhitā ( Aṣṭāviṁśatismṛtis ) ch. II. 74-76:
+
+> स्वाहा-प्रणव-संयुक्तं प्राणायान्नाहुतिं ततः ।  
+अपानाय ततो हुत्वा ध्यानाय तद्-अनन्तरम् ॥  
+उदानाय ततो हुत्वा समानायेति पञ्चमम् ।  
+विज्ञाय चार्थम् एतेषां जुहुयाद् आत्मनि द्वि-जः ॥  
+शेषम् अन्नं यथा-कामं भुञ्जीत व्यञ्जनैर् युतम् ।  
+ध्यात्वा तन्-मनसा देवम् आत्मानं वै प्रजा-पतिम् ॥
+
+This type of taking food is called ‘anuyāga’. See Pāñcarātrarakṣā, p. 115: ‘ईदृशं च भोजनम् एवानुयाग-समाख्यया ऽन्यत्र व्यपदिश्यते ।’
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3575,6 +4067,11 @@ Likewise in another passage, "what has been offered to the god must be given to 
 [296]: Mahābhārata quotations not verifiable.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be traced out.
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथा प्रदेशान्तरे  -  
@@ -3607,6 +4104,16 @@ Thus in the Mahābhārata:
 [297]: The ritual taking of food is considered a performance of the prāṇāgnihotra.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Śānti, ch. 322, śl. 23.  
+Cf. Sāttvatasaṁhitā, ch. 17, śls. 423-424:
+
+> दानानं च व्रतानां च तपसाम् यज्ञ-कर्मणाम् ।  
+निवेदितव्यं यद् द्रव्यं, दत्तं वा यत् पुरा ॥  
+कर्तव्यम् अनुयागार्थं प्राक् तद् एव हि केवलम् ।  
+तद् भावितम् अतो ऽश्रीयात् पावनं प्राणान्वितम् ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3633,6 +4140,16 @@ And likewise the blessed Śaunaka:
 "He himself eats the nivedya." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Viṣṇudharma ( of Bhaviṣyapurāṇa ), Śaunakīya, ch. 92. śl. 32a:
+
+> नैवेद्यं स्वयम् अश्नीयात् मौनीत्य् एतद् उदङ्-मुखः ।
+
+Cf. Pūjāsaṅgraha ( ms. ) folio 90b:
+
+> स्वयं वापि तद् अश्नीयात् सर्व-पाप-विशुद्धये ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3678,6 +4195,10 @@ The exemplary people do not approve of a means for homa etc. for which ~~no buil
 283: The ritual taking of food is considered a performance of the prāṇāgnihotra.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Vedānta Deśika quotes from "ननु" upto "यथानुष्ठान-तन्त्रत्वं" etc., below, in his Saccaritrārakṣā, p. 93.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3698,6 +4219,10 @@ The exemplary people do not approve of a means for homa etc. for which ~~no buil
 > Nor can a substitution of another substance do duty as a homa, because he lives off food that has been obtained according to taste. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+आक्षेपः कल्पनम् इति यावत् ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3722,6 +4247,10 @@ for scripture enjoins upon the twiceborn a meal in the evening and a meal in the
 as follows from the prohibition: "One should not take food in between."
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The remainder of the verse is ‘अग्नि-होत्र-समो विधिः ।’ Many Smṛtis attribute this to Manu. But Aparārka on Yājñavalkyasmṛti (p. 61) attributes this to Saṁvarta. Cf. also Saṁvartasmṛti ( Collection of 27 smṛtis, Ānandāśrama Skt. Series ), I.12.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3810,6 +4339,12 @@ He is familiar under various guises, or just as at a sacrifice the soma juice th
 Moreover, only scripture can be our criterion for what is to be eaten and what is not to be eaten. When it says that something is fit to be eaten, what injunction are we to invent ourselves? 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Bhagavadgītā, XVI. 24a:
+
+> तस्माच् छास्त्रं प्रमाणं ते कार्याकार्य-व्यवस्थितौ ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3834,6 +4369,10 @@ Just as the same rule governs both the periodical and the desiderative agnihotra
 [[120]]
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+उभयोद्देशेन सकृद् अनुष्ठानं तन्त्रम् ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3869,6 +4408,14 @@ observe the sacraments of conception ceremony etc. according to the manner laid 
 [299]: supra § 17.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+यदप्युक्तं ... See p. 14 above for pūrvapakṣa. Vedānta Deśika quotes from here upto the end of the text, in his Nyāyapariśuddhi, p. 168
+
+यदेते ... Deśika quotes from here upto the end, in his Pāñcarātrarakṣā, p. 95.
+
+कात्यायनादि ... See Kātyāyanagṛhyasūtra ( ms. ), p. 25ff for saṁskāras.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3900,6 +4447,20 @@ since otherwise it would follow that other brahmins too would forfeit their brah
 [300]: namely, at the upanayana ceremony.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+अननुष्ठानात् हेतोर् इति भावः ।
+
+प्रच्यवन्ते ... Cf. the following quoted in the Pāñcarātrarakṣā, p. 110, as from the Pārameśvarasaṁhitā:
+
+> निषेकादींश् च संस्कारान् स्व-सूत्रोक्तान् समाचरेत् ।  
+पञ्च-रात्रोदितान् वापि ये स्व-वंश्यैर् अनुष्ठिताः ॥
+
+Cf. also Auśanasa Dharmaśāstra ( Smṛtīnāṁ Samuccayaḥ, Ānandāśrama Sanskrit Series 48 ), I, 48:
+
+> निषेकाद्याः श्मशानान्ताः क्रियाः पूजाङ्ग-सूत्र-धृक् ।  
+पञ्च-रात्रेण वा कश्चित् तन्त्रोक्तं धर्मम् आचरेत् ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3926,6 +4487,10 @@ since otherwise it would follow that other brahmins too would forfeit their brah
 For everywhere among brahmins we find customs that differ according to birth, caraṇa, gotra, qualification etc. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+चरण-शब्देन शाखोच्यते ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3946,6 +4511,14 @@ still all the various dharmas relating to mutually different qualified performer
 do not all together accumulate in any one place.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Śābara on II. iv. 32, p. 142: “..सर्व-शाखा-प्रत्ययं सर्व-ब्राह्म-प्रत्ययं चैकं कर्म चोद्यत इति सिद्धं भवति ।”
+
+See also Pūrvamīmāṁsā, II. iv. 18: “न चैकं प्रति शिष्यते ।” and Śābara on this (p. 139): 
+
+> न च यत् काठके ऽग्नि-होत्रं तत् काठकम् एवैकं पुरुषं प्रति विधीयते । तैत्तिरीयस्यापि तत् विहितम् एव । पुरुष-विशेष-वचनाभावात् ।...तस्मात् सर्व-शाखाभिर् एकं समाप्तं कर्मोच्यत इति ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3976,6 +4549,17 @@ does not mean that either one forfeits his brahminhood-
 [301]: aindrāgneya, name of a śrauta ritual.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+त्रय्यन्तैकायन ... See Pādmasaṁhitā, I. 5b-6a:
+
+> आद्यम् एकायनं वेदं सद्-ब्रह्म-प्रतिपादकम् ॥  
+तेनैव संस्कृता विप्रा मुख्य-कल्पाधिकारिणः ।
+
+विज्ञानाभिगमन ... Ibid. Jñāna, II. 5b:
+
+> विज्ञानं भगवज्-ज्ञानं तज्-ज्ञानान् मुक्तिर् उच्यते ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
