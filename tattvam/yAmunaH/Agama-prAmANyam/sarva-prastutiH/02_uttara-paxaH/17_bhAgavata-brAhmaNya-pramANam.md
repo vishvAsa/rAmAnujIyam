@@ -2500,6 +2500,10 @@ Thus the blessed Vyāsa: "A devalaka is he who lives on Rudra etc." 283
 [283]: This and the following quotations could not be identified.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2603,6 +2607,14 @@ One must have pūjā offered by another professional priest who has been properl
 This is the principal offering; in another manner it is secondary." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Paramasaṁhitā, XVII. 46a. 
+
+Cf also ibid., 8b:
+
+> अन्येन वैष्णवेनैव देवं शूरः प्रपूजयेत् ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2700,6 +2712,12 @@ By considering these and a hundred similar smṛti statements we can be sure tha
 [285]: a Brahman erudite in the Veda and following its observances.  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+See p. 15 above for the opponent's view.
+
+For a detailed discussion on this subject, see Vedānta Deśika’s Saccaritrarakṣā, Adhikāra III.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2818,6 +2836,10 @@ and here it is impossible to determine the particularization.
 REPLY. Are you now accepting the validity of Pañcaratra? For only when one admits that there is a deity present in the idols that are erected with the sacred formulae enjoined by Pañcaratra Tantra can one postulate that the particularization of the prohibition lies in the offering-up to the deity. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+The discussion here is, whether or not the usage of nirmālya, nivedya, etc., contradicts the genuine character of the Bhāgavatas. The Mīmāṁsaka cannot attribute non-brahmanical character to the Bhāgavatas, says the author, on the ground that they use nirmālya and nivedya prohibited is some smṛti-texts. First of all, the prohibition pertains to the nirmālya and nivedya offered to deities other than Viṣṇu. Secondly, the Mīmāṁsaka has to qualify the terms “nirmālya” and “nivedya”, even to refute their usage, because flowers and food in general cannot be termed so. He might say that “nirmālya” and “nivedya” are things offered by the Pāñcarātrins to some deity; but this statement lands him in trouble, since he does not admit of any deity with a personality and also because such a statement would imply his acceptance of the validity of the Pāñcarātra-texts. Without admitting their validity as the starting point, he cannot speak of a deity, and flowers etc., being offered to that deity.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2863,6 +2885,17 @@ For unless the validity of the Tantra is admitted, how can an idol which is set 
 only that deity which is known to be correlated with an oblation on the authority of scriptural testimony is the deity to that oblation; 
 
 that is your own doctrine.
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+Cf. Tantravārtika under I. iii. 10, p. 172:
+
+> विधिनैव हि देवत्वं प्रतिकर्मवधार्यते । न जात्या देवतात्वं हि क्वचिद् अस्ति व्यवस्थितम् ॥
+
+Cf. also Prakaraṇapañcikā, V. p. 105:
+
+> देवतोद्देशेन द्रव्य-त्यागो यागः ।......स्तोत्रं शृणोमि यद् गुण-वचने । यद् उद्देशेन च हविषां त्यागश् चोद्यते, सा देवता । तत्रैव याज्ञिक-वृद्धानां देवता-शब्द-प्रयोगात् । यत्र हि आग्नेयादि-देश-नाथनिष्ठाने[[??]] प्रवृत्तो ऽग्निम् उद्दिश्य हविस् त्यजति, तथैवम् आहुर् अग्निर् अत्र देवतेति[[??]] । 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3015,6 +3048,10 @@ should reject nevertheless the nirmālya and nivedya?
 > For in the Tantras the tasting etc. of the nirmālya is prohibited. For instance, it is said in the Sanatkumārīya Saṃhitā: 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Published by the Adyar Library and Research Centre, Madras, 1969.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3036,6 +3073,18 @@ should reject nevertheless the nirmālya and nivedya?
 > "The offering that is proffered (to the deity), flower or fruit, is called nirmālya; that must be avoided meticulously." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Śivarātra, V. 48b-49a. Also Cf. Paramasaṁhitā XII. 36b-37a:
+
+> पूजायां विनियुक्तं तु यद् द्रव्यम् इह पूजकैः ।  
+निर्माल्यम् इति विज्ञेयं न[[??]] कार्येषु वर्जितम् ॥
+
+Cf also Vasiṣṭhasaṁhitā ( ms ) VII. 52b-5 a:
+
+> निवेदितं च यद् द्रव्यं पुण्यं फलम् अथापि वा[[??]] ।  
+निर्माल्यम् इति तं [ तत् ? ] चैव प्रयत्नेन विवर्जयेत् ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3067,6 +3116,12 @@ and drink the pañcagavya,279 in order to be purified."290
 [290]: The pañcagavya is a substance in which the 5 products of the cow are mingled.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+निर्माल्यं ... Ṛṣirātra, VIII. 77b-78. Variants: “भक्षयित्वा चापि” in the first line, “जप्त्वा चाष्टाक्षर” in the second line and “पूतो भवति साधकः” in the third line.
+
+ब्रह्मकूर्चं ... A mixture of five products of the cow (pañcagavya) with darbha-water.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3091,6 +3146,10 @@ and drink the pañcagavya,279 in order to be purified."290
 > Likewise in the Indrarātra: "One should not live off the Supreme God, nor eat the nirmālya offerings." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+IX. 2a.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3113,6 +3172,11 @@ and drink the pañcagavya,279 in order to be purified."290
 > Also: 
 > 
 >>  "And the nirmālya offerings are never fit for consumption." 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+This is not found in the extant text of the Indrarātra-section, perhaps lost in the rest of ch. IX, which ends in a blank.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3143,6 +3207,15 @@ and drink the pañcagavya,279 in order to be purified."290
 > > "One should not eat the nirmālya offerings, nor smell them, nor step over them."
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+
+Cf Paramasaṁhitā III. 44:
+
+> निर्माल्यं लङ्घयेनैव न भुञ्जीत न धारयेत् ।  
+न दद्याच् च न जिघ्रेच् च रक्षेत्.........च ॥[[??]]
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3208,6 +3281,10 @@ Thus in the same Indrarātra:
 > "The wise one must let the offering-cake stand for ten nāḍikās. This period of time has been prescribed both for night and for day. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+I. 10b-11a. Variants: स्थापयित्वा for स्थापयेत् तु and स उद्दिष्टः for समुद्दिष्टः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3233,6 +3310,10 @@ Thus in the same Indrarātra:
 thereupon he must throw it in water, or in fire, or bury it in the ground." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+I. 11b, 10a. Variant: वा चाग्नौ for चैवाग्नौ ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3256,6 +3337,11 @@ thereupon he must throw it in water, or in fire, or bury it in the ground."
 <details><summary>Buitenen</summary>
 
 > OBJECTION. But what is said here is not to praise the tasting etc. of the nirmālya, but to prescribe that the substance of the cake pūjā is thrown away after a period of ten nāḍikās. 
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+For an account of pūraṇapūjā, see Indrarātra, ch. I. See also Kapiñjalasaṁhitā, ch. 29.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3287,6 +3373,10 @@ because they have now fulfilled their ritual function,
 they must be kept by way of accessory pūjā rite for a period of ten nāḍikās. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Indrarātra, I. 10b.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3311,6 +3401,10 @@ they must be kept by way of accessory pūjā rite for a period of ten nāḍikā
 > And consequently even a study of the conclusions of your own Tantras shows that the touching etc. of the turmeric powder, the food offerings and the water used to clean the idol's feet is not established by Tantric doctrine. Now, where are you!
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This is Yāmuna’s reply to the above arguments regarding nirmālya and naivedya.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3335,6 +3429,14 @@ REFUTATION. Where are you, loquacious debaters, witless fools who have been swal
 This prohibition applies only to fools like you, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Sāttvata Saṁhitā, XXI. 45b-46:
+
+> yo na vettyacyutaṁ tattvaṁ pañcarātrārthameva ca ।  
+tathā sadvaiṣṇavīṁ dīkṣāṁ nānāśāstroktalakṣaṇām ॥  
+na tena saha saṁbandhaḥ kāryaḥ................... ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3377,6 +3479,12 @@ for it is not to be touched by others, just as the puroḍaśa cake292 is not to
 [292]: cake used at Vedic offerings.
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Pādmasaṁhitā, Caryāpāda, XII.83b:
+
+> śunāmiva puroḍāśo na nīceṣu tadīyate ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3405,6 +3513,10 @@ Thus in the Īśvara Saṃhitā,
 and, among those who are, it is even more difficult to find a disposition which is truly pure enough for the footwater, or to use the garlands etc. which have been mentioned in the doctrine,  
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+These and a few other verses following, quoted by Yāmuna as from Īśvarasaṁhitā, are not found in the available āgamas of that name. The Īśvarasaṁhitā from which Yāmuna quotes appears to have been a different work. See Introduction to Jayākhyasaṁhitā ( Gaekwad Oriental Series ), p. 49.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3474,6 +3586,10 @@ and, among those who are, it is even more difficult to find a disposition which 
 And in another passage: "The saffron, sandal, camphor and oils that have been taken off Viṣṇu's body are supremely purifying." 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+To be identified.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3528,6 +3644,10 @@ Similarly in the Īśvara Saṃhitā,
 > "No blame should be put by statements arising from ignorance on all that is used, the perfume, flowers etc., (the water) of the idol's bath etc., and the curds, milk etc. 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+This is the second instance where Yāmuna quotes from Īśvarasaṁhitā, which is yet to be recovered.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3588,6 +3708,11 @@ The above statements which to the consecrated prohibit the use of nirmālya at t
 [294]: Viśvaksena, to whom pūjā is performed after the main pūjā.
 </details> 
 
+<details><summary>नरसिंहः</summary>
+
+इतः पूर्वम् अभक्तानां निर्माल्याद्य्-उपयोग-निषेध-विषयो विचारितः । इदानीं दीक्षितस्यापि तद्-विषये विचारः प्रस्तूयते ।
+</details> 
+
 <details><summary>मूलम्</summary>
 
 यानि पुनर् दीक्षितम् एवाधिकृत्य समयानुशासन-समये निर्माल्योपयोग-निषेध-पराणि वचनानि तानि पारिषदेशोपयोगोत्तर-कालाभिप्रायेण द्रष्टव्यानि । 
@@ -3613,6 +3738,15 @@ The above statements which to the consecrated prohibit the use of nirmālya at t
 Since the garlands, sandal etc, which are offered up to the Bhagavān, later on, after the Viśvaksena offering, become unfit to eat, 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+Cf. Sāttvata Saṁhitā, X. 57-58.
+
+> दिजातेः दत्त-शिष्टस्य पुष्प-पत्रादिकस्य च ।  
+विहितश् चाम्भसि त्यागो विश्वक्सेनेनार्चने कृते ॥  
+धर्तव्यं न चिरं चाग्रे यत् पुरा विनिवेदितम् ।  
+नैवेद्यं मन्त्र-मूर्तीनां किञ्चित्-पुष्प-फलादृते ॥
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3660,6 +3794,16 @@ therefore the Sātvatas use the nivedya etc. before that time. Consequently the 
 136\. Moreover, it is our postulation that the exemplary people hold the nirmālya of other gods in contempt; this is postulated like the drinking of soma (which is good) because it is Vedic (in contrast to the drinking of liquor which is evil). 
 </details>
 
+<details><summary>नरसिंहः</summary>
+
+देवतान्तर-निर्माल्यं शिष्टैः विगर्हित-स्वरूपेण इष्टम् इत्य् अर्थः ।
+
+इदं तु ... Cf. Viṣṇusaṁhitā, XXXIX. 12-13a:
+
+> निर्माल्यं न स्पृशेदद्यात् लङ्घयेद् वाशनं कुतः ।  
+सर्वेषाम् एव देवानां निर्माल्यम् अशुचि स्मृतम् ॥  
+विष्णु-भुक्तं तु पुष्पादि शुचीत्य् आददते परे ।
+</details>
 
 <details><summary>मूलम्</summary>
 
