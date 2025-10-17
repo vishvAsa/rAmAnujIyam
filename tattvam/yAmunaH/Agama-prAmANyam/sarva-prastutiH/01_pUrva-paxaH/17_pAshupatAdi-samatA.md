@@ -93,7 +93,6 @@ Cf. Slokavārtika ( I. 1. 2 ) śl.54a:
 > 
 > इति ज्ञात्वा  
 नियमित-मदश् शाम्यतु भवान् ।  
-
 </details>
 
 <details><summary>Buitenen</summary>

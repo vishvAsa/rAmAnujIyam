@@ -14,7 +14,6 @@ title = "०५ बाह्य-परिग्रहः"
 Therefore, the fact that Pañcarātra recognizes the authority of the Bhagavatas  
 who by birth and by deeds have deviated from the Way of the Veda  
 is sufficient ground to deny authority to the Pañcaratra Scriptures. 
-
 </details>
 
 
@@ -52,7 +51,6 @@ and thus are of the same kind as the Buddhist statements on stupa worship.
 चैत्यवन्दन ... Bhaṭṭa Medhātithi, commenting on Manusmṛti, XII. 95, quotes from some unknown source, the following:
 
 > nodanāḥ caityavandanataḥ svargo bhavati.
-
 </details>
 
 <details><summary>मूलम्</summary>

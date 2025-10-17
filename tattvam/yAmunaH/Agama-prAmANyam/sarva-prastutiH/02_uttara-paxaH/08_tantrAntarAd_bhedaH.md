@@ -824,7 +824,6 @@ For thus it reads in the Varaha Purana,
 
 > "For Thou, strong-armed Rudra, must cause deluding doctrines to be expounded, 
 > the deceptions of jugglers (sic) and the like as well as conflicting practices.  
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -832,7 +831,6 @@ For thus it reads in the Varaha Purana,
 त्वं ... Ch. 70, śl. 36b.
 
 कुहकादीन्द्र ... To be traced out.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1328,7 +1326,6 @@ are to be regarded as heretics who are expelled from the Way of the Veda," (not 
 
 To conclude, it is these followers of other Tantras of whom it is said, in the smrtis:  
 "Heretics, criminals etc.", that they should not be honoured even with a word;  
-
 </details>
 
 
@@ -1377,7 +1374,6 @@ and the declaration "Which are outside the Veda..."  refers to them.
 Consequently, since it cannot properly be said of the other Tantras  
 that they are based either on Veda or on Perception,  
 another cause must be assumed for them. 
-
 </details>
 
 
@@ -1401,7 +1397,6 @@ another cause must be assumed for them.
 87\. OBJECTION. If it is true that for these Tantras another basis must be assumed,  
 let the defect be granted. 
 But is in your own view knowledge not self-proved? 
-
 </details>
 
 
@@ -1426,7 +1421,6 @@ REFUTATION.
 Certainly; but this self-validity of knowledge is here negated by these two defects of sublation,  
 namely, sublation through ~~Perception~~ origin and through Scripture,  
 for both these defects are plain in their case. 
-
 </details>
 
 

@@ -30,7 +30,6 @@ also refutes the Pancarãtra in his Sutra (BrS. 2.2.42.):
 
 अत एव च भगवता बादरायणेन त्रयीमार्गप्रत्यनीकभूतकणभुगक्षचरणसुगतमतादिबाह्यसम् अयनिरासावसरेऽस्य तन्त्रस्य निरासः ।  
 उत्पत्त्यसम्भवात् इति ।  
-
 </details>
 
 
@@ -48,7 +47,6 @@ Therefore, as the Vedic experts regard the Pañcaratra doctrine as non-Vedic
 since it is not included among the Vedic systems  
 and because of other reasons which will be advanced in the sequel,  
 it cannot be compared with the Tradition of Manu etc. 
-
 </details>
 
 

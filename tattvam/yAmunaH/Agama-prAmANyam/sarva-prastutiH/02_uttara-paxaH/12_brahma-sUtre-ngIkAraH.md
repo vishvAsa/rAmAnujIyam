@@ -42,7 +42,6 @@ Now, in order to remove the suspicion that the Pancarãtra Tantras (which are hi
 सन्निहितानाम् ... तन्त्रत्व-सामान्येन सन्निहितानाम् इति भावः।
 
 व्युत्पाद्यते = स्थाप्यते।
-
 </details>
 
 
@@ -143,7 +142,6 @@ the Pancarãtra likewise has no validity, utpattyasaṃbhavāt, i.e., on account
 
 किन्तु चत्वार एवैते समानैश्वर्यभागिनः ।
 एको वा स्यात् चतुर्भेदे द्वेधा व्युत्पत्त्यसंभवः ॥
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -468,7 +466,6 @@ The words "ananta eva bhagavān" occuring in 34a, 35a, 36a & 38b quoted above, s
 The objection that the mind cannot originate from Saṅkarṣaṇa, on the authority of the śruti that the mind originates from Brahman, is invalidated by the fact that he, sc. Saṅkarṣaṇa is vijñānādi, i.e., Brahman.
 
 [[85]]
-
 </details>
 
 
@@ -586,7 +583,6 @@ This the Author says in the sūtra vipratiṣedhāt: 'because there is conflict.
 <details><summary>नरसिंहः</summary>
 
 Cf. Brahmasūtra: II.ii.42.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -992,7 +988,6 @@ This then means that the Vedas are preterhuman.
 [223]: karmaṇi lyuṭ Pāṇini.
 
 [[88]]
-
 </details>
 
 <details><summary>नरसिंहः</summary>

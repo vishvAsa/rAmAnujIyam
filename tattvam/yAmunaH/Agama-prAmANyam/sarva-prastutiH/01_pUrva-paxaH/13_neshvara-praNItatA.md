@@ -126,7 +126,6 @@ As the (unidentified) text says,
 > "If there are several omniscient beings who propound incompatible doctrines  
 > and if for each of them the arguments are equally valid,  
 > then whom can we elicit as the true and only one ?" 
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -199,7 +198,6 @@ The Mīmāṁsaka anticipates the following argument from the Siddhāntin.
 
 > श्रुतिस्मृतिप्रसिद्धेन वासुदेवेन भाषितम् ।  
 कथं तन्त्रान्तरैरेतत् तुल्यकक्ष्यां निवेक्ष्यते ॥  
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -428,7 +426,6 @@ which ascribe omniscience and omnipotence to lord Pasupati as well:
 "He who is allknowing, omniscient;" (Mund Up. 1.1.9.)
 
 "The supreme great sovereign of sovereigns." (Svet Up. 6.7.)
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -591,7 +588,6 @@ But the following reading is found in the printed edition, ch: 76, śl. 31:
 
 > śrutismṛtir mamaivājñā tām ullaṅghya yajan śubhe  
 sarvasvenāpi māṁ devi nāpnotyājñāvilaṅghanāt.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -634,7 +630,6 @@ Thus we conclude that there has been a deceiver
 who assumed the name of 'Vasudeva'  
 and under that name composed the Tantra under 
 discussion. 
-
 </details>
 
 
@@ -816,13 +811,11 @@ then the assumption that He was independent is purposeless and false.
 It is not borne out by human experience that the Veda was immediately manifest to him, even though he never learnt it. The defects 
 which the Author of the Varttika enumerates, those of personal superiority and inferiority etc., (Kumarila, Slokavārttika 2.114)  
 are all to be presumed in the case of Pañcarātra, 
-
 </details>
 
 <details><summary>नरसिंहः</summary>
 
 Vide Ślokavārtika* I. i. 2, śl. 111b, ff.
-
 </details>
 
 <details><summary>मूलम्</summary>

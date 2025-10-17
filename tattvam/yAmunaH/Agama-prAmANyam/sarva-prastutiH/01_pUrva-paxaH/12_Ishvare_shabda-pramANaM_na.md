@@ -138,7 +138,6 @@ Vide Prakaraṇapañcikā II. P.180:
 
 > kṛtisādhyaṁ pradhānaṁ yat, tat kāryamavasīyate  
 tacca mānāntareṇāpi vedyamodanapākavat.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -203,7 +202,6 @@ depending on one's particular partisan views.
 
 > हन्त तर्हि निरतिशयावबोधैश्वर्यमहानन्दसन्दोहवपुषि भगवति न मानान्तरगन्धसम्बन्ध इति सर्वं समानमन्यत्राभिनिवेशात् ।  
 </details>
-
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -590,7 +588,6 @@ This is an example like "it is hot today;" the young father's happy countenance 
 tathāpi putraste jāta iti vākyasya putrajanmākhyaharṣahetupratipādakatā harṣahetūnāmānantyāt duranumānā; na ca pāriśeṣyeṇa tatpratipādakatvādhyavasāyaḥ; bhūtabhaviṣyadvartamānānāṁ sannihitavyavahitānāṁ pāriśeṣyāvadhāraṇāyā atyantaduṣkaratvāt.
 
 हेतूपनिपातेयममुनेति ... 'अयं हर्षः अमुना हेतुना जात' इति निर्धारयितुं शक्यम् इति।
-
 </details>
 
 
@@ -688,8 +685,6 @@ is based on this that they give rise to the notion of karya.
 अथ ... The Mīmāṁsaka poses two alternatives to refute the validity of statements referring to existent factors.
 
 “Tadbuddhihetutvāt” means “bhūtavastuviṣayakajñānajanakatvāt”.
-
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -803,7 +798,6 @@ be accepted as an injunction?
 <details><summary>नरसिंहः</summary>
 
 Taittirīya Saṁhitā* V. 9. 1.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -877,7 +871,6 @@ Cf. Tantravārtika under I. ii 1, P.2:
 na hi loṣṭaṁ paśyataḥ taddarśanaṁ niṣprayojanamiti suvarṇadarśanāt kalpyate.
 
 Veṅkaṭanātha quotes this passage in his Śeśvaramīmāṁsā under I. ii. 1, P.57.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -942,7 +935,6 @@ supposes the immortality of the performer.
 Cf. Prakaraṇapañcikā* V, P.93, ff:
 
 ataśca vedāntānāmapi ātmā jñātavya ityapunarāvṛttaye samāmnātena vidhinā ekavākyatāmāśritya kāryaparatvameva varṇanīyam....api ca siddhārthaparatve'pi śabdasya na vedāntānāṁ paramānandādirūpatve brahmaṇaḥ prāmāṇyamavakalpate; tatra hi brahmasvarūpānuvādenānandādirūpavidhirāstheyah.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -997,7 +989,6 @@ or "Know that the[[34]] syllable OM, which is not the udgitha, is the udgitha." 
 अपितर्येव ... लौकिकम् इदम् उदाहरणम्। वैदिकम् अपि दर्शयति 'अनुद्गीथ' इति। 
 
 तथा च ... See Chāndogyopaniṣad I. 5: atha khalu ya udgīthaḥ sa praṇavo, yaḥ praṇavaḥ sa udgītha iti. See Raṅgarāmānuja's commentary on it.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1019,7 +1010,6 @@ only serve to convey that there is a spiritual agent,
 who is required in order to experience the otherworldly fruits  
 that are mentioned in ritual injunctions  
 where the time of fruition is not specified.  
-
 </details>
 
 <details><summary>Buitenen - Notes</summary>
@@ -1070,7 +1060,6 @@ On this point see KMS 1.2.1. with Sabara's bhāṣya.
 </details>
 
 <details><summary>नरसिंहः</summary>
-
 </details>
 
 For instance, for the arthavāda statement “so 'rodīt yadarodīt tat rudrasya rudratvam” (Taittirīya Saṁhitā : I. v. i. 1), the corresponding vidhi-sentence is “barhiṣi rajataṁ na deyam” (Ibid: I. v. i. 2).
@@ -1186,7 +1175,6 @@ sarvajñakalpanādyaistu vede cāpauruṣeyatā।
 tulyatā kalpitā yena tenedaṁ sampradhāryatām॥  
 sarvajño dṛśyate tāvannedānīmasmadādibhiḥ।  
 nirākaraṇavacchakyā na cāsīditi kalpanā॥
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1248,7 +1236,6 @@ na cāpyevaṁparo nityaḥ śakyo labdhum ihāgamaḥ ।
 nityaścedarthavādatvaṁ tatpare syādaniyatā ॥  
 āgamasya ca nityatve siddhe tatkalpanā vṛthā ।  
 yatastaṁ pratipadyante dharmameva tato narāḥ ॥
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1285,7 +1272,6 @@ i.e, the appropriateness or propriety of a word in collocation with other words;
 प्रमाणान्तरवगत ... By the term “pramāṇāntara” here is meant “śabda”.
 
 विरोधे ... The term “pramāṇāntara” here means “pratyakṣa”.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1317,7 +1303,6 @@ The identification is considered an arthavada, i,e., laudatory of the sacrificia
 Vide Taittirīya Brāhmaṇa: II. i.5.2 : “ādityo yūpaḥ”.
 
 The argument is that if perception were not taken as the guiding principle in ascertaining the connotation of passages, one would have to literally identify the Sun and the sacrifical post on the authority of the text “ādityo yūpaḥ”, which is a eulogistic passage. But their identity is disproved by perception itself. Likewise, Omniscience is also to be disproved.
-
 </details>
 
 <details><summary>मूलम्</summary>

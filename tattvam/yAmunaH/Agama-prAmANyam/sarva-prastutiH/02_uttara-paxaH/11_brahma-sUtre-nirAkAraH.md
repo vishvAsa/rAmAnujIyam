@@ -153,7 +153,6 @@ etc.
 <details><summary>Buitenen</summary>
 
 REPLY. NO. The personal manifestation of God is described as being constituted by vyūhas,209 
-  
 </details>
 
 <details><summary>Buitenen - Notes</summary>

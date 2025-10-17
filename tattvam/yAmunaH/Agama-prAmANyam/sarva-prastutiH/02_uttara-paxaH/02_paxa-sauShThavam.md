@@ -104,7 +104,6 @@ because no inference proving non-validity is found.
 
 55\. OBJECTION. But such an inference is actually found: Pañcarātra Sastra is non-authoritative,  
 because it is non-Vedic, like Buddhism, 
-
 </details>
 
 
@@ -522,7 +521,6 @@ If the reason is further corrected into:
 and this statement concerns an action to be taken,"  
 then still we have a vicious applicability to such precepts as  
 "One must eat little when one has indigestion."  
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -675,7 +673,6 @@ anyone of the three kinds of contradiction of language-statements;
 namely, contradiction within the terms of the statement;  
 contradiction with one's own thesis;  
 or contradiction with universally accepted facts. 
-
 </details>
 
 
@@ -719,7 +716,6 @@ Firstly, the proposition is not contradicted by its mere utterance,
 for the statement of the thesis "Pañcarātra Sastra is authoritative"  
 does not cancel its own content, as does, for instance, the statement:  
 "During my entire life I have kept silence." 
-
 </details>
 
 <details><summary>नरसिंहः</summary>

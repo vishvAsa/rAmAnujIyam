@@ -54,7 +54,6 @@ should be Truth is a highly ludicrous contention.
 and, 
 
 > "This dies without the soul; the soul does not die."\*104 (Ch Up. 6.11.3.)
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -67,7 +66,6 @@ Cf. Bhagavadgītā II. 14:
 āgamāpāyino'nityāstān titikṣasva bhārata॥
 
 जीवापेतं ...Chāndogy* VI. 11. 3.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -81,7 +79,6 @@ Cf. Bhagavadgītā II. 14:
 "जीवापेतं वाव किलेदम्म्रियते न जीवो म्रियते"  
 
 इति ।  
-
 </details>
 
 
@@ -128,7 +125,6 @@ does not perish.
 <details><summary>नरसिंहः</summary>
 
 'जातो भावो नैव क्षरेद्' इत्य् एतद् वचनं न शक्य-सम्भवम् इति भावः ।
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -168,7 +164,6 @@ Chāndogya: VI. ii. 1: ‘सद् एव सोम्येदम् अग्
 
 सदेव सौम्येदमिति सदेकत्वावधारणात् ।  
 प्राक्सृष्टिकालाज्जीवानामभावोऽध्यवसीयते ।  
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -538,5 +533,4 @@ as it consists of spirit, like the Supreme Soul.
 
 विवादाध्यासितो जीवो न जातु जनिमृच्छति ।  
 द्रव्यत्वे सत्यमूर्तत्वाच्चिद्रूपत्वात्परात्मवत् ॥  
-
 </details>

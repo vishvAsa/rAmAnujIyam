@@ -23,7 +23,6 @@ Therefore, how can our tongue endeavour to say that the Tantra which is revealed
 ततश् च ।  
 श्रुति-मूर्ध्नि प्रसिद्धेन वासुदेवेन भाषितम् ।  
 तन्त्रं मिथ्येति वक्तुं नः कथं जिह्वा प्रवर्तते ॥
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

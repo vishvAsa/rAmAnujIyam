@@ -30,7 +30,6 @@ Vide Yājñavalkyasmṛti: I. 3:
 
 > purāṇanyāyamīmāṃsādharmaśāstrāṅgamiśritāḥ ।  
 vedāssthānāni vidyānāṃ dharmasya ca caturdaśa ॥
-
 </details>
 
 <details><summary>मूलम्</summary>

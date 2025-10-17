@@ -47,7 +47,6 @@ This objection is raised by Śaṅkara in his commentary on the Brahma-sūtra: I
 शाण्डिल्य इदं शास्त्रमधीतवान्  
 
 इत्यादीनि 
-
 </details>
 
 

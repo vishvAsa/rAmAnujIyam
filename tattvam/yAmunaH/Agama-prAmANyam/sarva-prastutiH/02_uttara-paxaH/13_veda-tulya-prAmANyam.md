@@ -244,7 +244,6 @@ because the meaning of the words has already become known from other contexts.
 चक्रवर्त्युपचारेण ... To be identified.
 
 व्युत्पत्ति-ग्रहणं विना अन्यत् किम् अपि नापेक्षत इति भावः।
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -362,7 +361,6 @@ when they have heard the doctrine,
 and hence they perform the "five-timesa-day" rites ([228]: Vaisnava rite observed five times a day: pañcakálika.), which form this content,  
 and hence they attain to supreme perfection;  
 this is learnt solely from the Sastra itself.
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -639,7 +637,6 @@ As they say:
 therefore its validity cannot be questioned."\*\*" 
 
 [[92]]
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -654,7 +651,6 @@ therefore its validity cannot be questioned."\*\*"
 वेदे तेनाप्रमाणत्वं न शङ्कामधिगच्छति ॥
 
 इति ।  
-
 </details>
 
 
@@ -1146,7 +1142,6 @@ is this that both are causes of defectless knowledge.
 साफल्य-निश्चयः - 
 
 - धारणाद् धर्मम् इत्याहुः। केन प्रजा वरं धृता इति साक्षात्कार्यम्
-
 </details>
 
 

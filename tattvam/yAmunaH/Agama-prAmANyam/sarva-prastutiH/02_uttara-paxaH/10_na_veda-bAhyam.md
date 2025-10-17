@@ -203,7 +203,6 @@ which are equally applicable to all Traditions of Manu and the others,
 are easily answered by all those who have made a diligent study of the commentaries on the Tantras and are not further enlarged upon here.  
 
 [[76]] 
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -255,7 +254,6 @@ See p. 17 above, for the pūrvapakṣa-view.
 For it is said that 
 
 > Sandilya, failing to find a meaning of human importance in the four Vedas, learnt this shastra. 
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -358,7 +356,6 @@ Cf. also Taittirīya Brāhmaṇa II. 1. 2. 7:
 <details><summary>मूलम्</summary>
 
 यथैतरेयकब्राह्मणे प्रातः प्रातरनृतं ते वदन्ति इत्यनुदितहोमनिन्दा उदितहोमप्रशंसार्थेति गम्यते।  
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -566,7 +563,6 @@ but simply "failing to find the purpose of human importance which is in the Veda
 OBJECTION. However, the principal connection in this sentence is between  
 "failing to find" and "a purpose of human importance;"  
 not between "purpose of human importance" and "in the Vedas." 
-
 </details>
 
 
@@ -772,7 +768,6 @@ is disproved on the ground that Pañcarātra Sastra is Vedic.
 because like the Pasupata Tantra it is not included among the fourteen sciences  
 which are held to be authoritative of dharma,  
 would also have an occasional application to the texts of the Bharata and Rāmāyaṇa composed by Dvaipayana and Valmiki. 
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -966,7 +961,6 @@ Ibid. (Critical edn.) 322.41a.
 And in the Bhismaparvan too: 
 
 "Brahmins, Ksatriyas, Vaisyas and Sūdras as described are all to worship, serve and honour Madhava  
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -1105,7 +1099,6 @@ It is said that one who undertakes Dīkṣā is better qualified than one withou
 dīkṣitassakalaṁ kuryāt ekadeśamadīkṣitaḥ ॥
 
 Cf. also Aniruddha Saṁhitā ch. IV and Viṣṇu Saṁhitā ch. X for different treatments of Dīkṣā.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1141,7 +1134,6 @@ To be traced out.
 वसन्ते दीक्षयेद्विप्रं ग्रीष्मे राजन्यमेव च ।  
 शरदः समये वैश्यं हेमन्ते शूद्रमेव च ॥  
 स्त्रियं च वर्षाकाले तु पञ्चरात्रविधानतः ॥
-
 </details>
 
 

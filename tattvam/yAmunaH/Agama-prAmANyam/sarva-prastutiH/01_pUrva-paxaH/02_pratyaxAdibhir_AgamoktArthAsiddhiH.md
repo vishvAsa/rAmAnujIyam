@@ -73,7 +73,6 @@ mokṣaikaniścayāśśāvasūtakāśaucavarjitāḥ
 
 For if we consider Consecration, worship etc. merely with the aid of Perception,  
 we cannot say that they are means to realize the summum bonum. 
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -124,7 +123,6 @@ cannot surpass the boundaries of sensitiveness as we know it commonly.
 However, perception of a superior kind is possible, depending on its percipient.  
 Perception, therefore, may become perfect  
 if the percipient is perfect. 
-
 </details>
 
 
@@ -225,7 +223,6 @@ Consequently, this Person whose immediate perception encompasses the entire rang
 is hereby explained to be the Bhagavan  
 who has immediate perceptual knowledge that Consecration, worship and so forth are dharma.  
 So what remains unproved? (is improper). 
-
 </details>
 
 
@@ -326,7 +323,6 @@ i.e. also things known only through other means of ... knowledge?
 
 इन्द्रियान्तरविज्ञानं विश्वं गोचरयेन्न तु ।  
 कथं प्रत्यक्षविज्ञानं विश्वं बोधयितुं क्षमम् ॥  
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -379,7 +375,6 @@ it would cease to be Perception at all.
 defined as encompassing all objects,  
 is a priori impossible  
 because it is limited to being Perception! 
-
 </details>
 
 
@@ -470,7 +465,6 @@ The former cannot stand,
 for there is no Perception to support it:  
 we have never seen a bowl or a similar finite object  
 which had the same expansion as space. 
-
 </details>
 
 
@@ -493,7 +487,6 @@ which had the same expansion as space.
 And suppose a finite quantity could assume inconceivable infinitude:  
 why, then any single jar or pitcher could fill up the entire space within the Egg of Brahma,  
 so that all other things would be pushed out and perish accordingly! 
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -585,7 +578,6 @@ Let us also consider your illustration,
 namely that in space we have an example of a finite extent becoming infinite.  
 Extent is by definition a limited extension of space, a relative quantity,  
 something that can be entirely circumscribed.  
-
 </details>
 
 <details><summary>नरसिंहः</summary>

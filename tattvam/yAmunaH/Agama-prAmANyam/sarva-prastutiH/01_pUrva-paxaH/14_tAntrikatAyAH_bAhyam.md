@@ -20,7 +20,6 @@ title = "१४ तान्त्रिकतायाः बाह्यम्
 <details><summary>नरसिंहः</summary>
 
 To be identified.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -116,7 +115,6 @@ It may be noted that such a division is found even among the Śaivāgamas. Thus,
 Also see Śaivasiddhānta P.43:
 
 > Āgamas are of two kinds: Śrauta and Aśrauta. The Śrautāgamas are dependent upon the Vedas and are full of their essence; not so the Aśrauta. The former Āgamas are accepted but not the latter. The aśrauta-āgamas have been declared by the Lord in order to delude some people. These Āgamas are Vāma, Pāśupata, Lākula, Bhairava, etc.
-
 </details>
 
 <details><summary>मूलम्</summary>

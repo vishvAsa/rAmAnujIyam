@@ -148,7 +148,6 @@ and yet expound an interpretation which is wholly unscriptural.
 
 अद्यत्वेऽपि हि दृश्यन्ते केचिदागमिकच्छलात् ।  
 अनागमिकमेवार्थं व्याचक्षाणा विचक्षणाः ॥
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -599,7 +598,6 @@ Either both are authoritative or neither is.
 
 तुल्याक्षेपसमाधाने पञ्चरात्रमनुस्मृती ।  
 प्रमाणमप्रमाणं वा स्यातां भेदो न युक्तिमान् ॥  
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -615,7 +613,6 @@ Either both are authoritative or neither is.
 [[9]]  
 Either we must reject the authority of Manu's tradition as well,  
 or we must indeed show in which respect the Pancarãtra tradition is different from Manu's. 
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -728,7 +725,6 @@ ultimately derives from Scripture itself.
 
 On the other hand, we find that those who observe the scriptural rites of agnihotra etc.  
 do not observe the Tantric customs in the same manner as they observe such traditional customs as acamana investiture with the sacred thread etc.  
-
 </details>
 
 
@@ -770,7 +766,6 @@ It follows that the validity which we attribute to different Traditions
 to heterodox Traditions as the Pañcaratra;  
 for exemplary exponents of the three estates  
 do not accept the doctrines of Traditions of this kind. 
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -805,7 +800,6 @@ that these rites likewise ultimately derive from the Veda.
 On what grounds, then, are we to assume  
 that this same Pañcarātra Tradition really has its origins in error, deceit and the like,  
 the very negation of valid authority?. 
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -863,7 +857,6 @@ Objection:
 But they are Brahmins,  
 and Brahmins are considered to be the highest estate:  
 why should they not be exemplary? 
-
 </details>
 
 
@@ -911,7 +904,6 @@ and absent in others.
 Cf. Prakaraṇapañcikā III. p. 30:
 
 > न हि क्षत्रियादिभ्यो व्यावर्तमानं, सकल-ब्राह्मणेष्व् अनुवर्तमानम् एकम् आकारम् अतिचिरम् अनुसन्दधतो ऽपि बुध्यन्ते ।
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1221,7 +1213,6 @@ that Bhagavata is another name for Satvata;
 स तु भागवतः स्मृतः ॥ 
 
 इति
-
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1295,7 +1286,6 @@ Thus Uśanas:
 
 > "They all live by the plough and the sword,  
 > the Acaryas and the Satvatas live on the worship of the Deity." 
-
 </details>
 
 <details><summary>Buitenen - Notes</summary>
@@ -1388,7 +1378,6 @@ And, to dispel the last doubt about the sort of people they are,
 Manu (Manu 10.40) declares: 
 
 > "Whether disguised or not, they can be known by their deeds." 
-
 </details>
 
 
@@ -1399,7 +1388,6 @@ Manu (Manu 10.40) declares:
 > प्रच्छन्ना वा प्रकाशा वा वेदितव्याः स्वकर्मभिः ।  
 
 इति ।  
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1513,7 +1501,6 @@ have worshipped the Deity professionally
 are disqualified for the study of the Veda,  
 for participation in the sacrifices  
 and for officiating in sacrifices." 
-
 </details>
 
 
@@ -1523,7 +1510,6 @@ and for officiating in sacrifices."
 तेषामध्ययने यज्ञे याजने नास्ति योग्यता ॥ 
 
 इति ।  
-
 </details>
 
 
@@ -1571,7 +1557,6 @@ This point is detailed upon infra § 134 f
 पूजयेन्नैव वृत्त्यर्थं देवदेवं कदाचन ॥ 
 
 इति ।  
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1640,7 +1625,6 @@ it is necessary to perform an expiation.
 
 देवलकाश् चामी देव-कोशोपजीवित्वाद्  
 वृत्त्यर्थं देवपूजनात् ।  
-
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1661,7 +1645,6 @@ and worships the idol for a livelihood.
 
 देवलकाश् चामी देव-कोशोपजीवित्वाद्  
 वृत्त्यर्थं देवपूजनात् ।  
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1697,7 +1680,6 @@ Passages to be identified.
 देवकोशोपजीवी यस्स देवलक उच्यते ।  
 
 इति,
-
 </details>
 
 
@@ -1744,7 +1726,6 @@ so'dhomukhān pitṝn sarvān ākramya vinipātayet
 स वै देवलको नाम सर्वकर्मसु गर्हितः ॥
 
 इति ।  
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1816,7 +1797,6 @@ The rite of expiation is set forth in the precept:
 > अ-वालुका देवलकाः कल्प-देवलका गण-भोग-देवलका भागवत-वृत्तिर् इति चतुर्थः - एते उपब्राह्मणा +++(5)+++
 
 इति, 
-
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1824,7 +1804,6 @@ The rite of expiation is set forth in the precept:
 Atri, too, very explicitly declares that they are not Brahmins: 
 
 > "The Avalukas, Devalakas, Kalpadevalakas, Ganabhogadevalakas and fourthly those of the Bhagavata profession are corrupt Brahmins."" 
-
 </details>
 
 <details><summary>Buitenen - Notes</summary>
@@ -1849,7 +1828,6 @@ To be identified.
 > अ-वालुका देवलकाः कल्प-देवलका गण-भोग-देवलका भागवत-वृत्तिर् इति चतुर्थः - एते उपब्राह्मणा +++(5)+++
 
 इति, 
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1862,7 +1840,6 @@ To be identified.
 महा-पथिक-पञ्चमाः ॥
 
 इति, 
-
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1871,7 +1848,6 @@ To be identified.
 Also the venerable Vyasa: 
 
 > "The Ahvāyakas, Devalakas, Nakṣatragrāmayājakas and Mahapathikas are outcaste Brahmins." 15 
-
 </details>
 
 
@@ -1890,5 +1866,4 @@ Also the venerable Vyasa:
 एते ब्राह्मणचण्डाला महापथिकपञ्चमाः ॥
 
 इति, 
-
 </details>

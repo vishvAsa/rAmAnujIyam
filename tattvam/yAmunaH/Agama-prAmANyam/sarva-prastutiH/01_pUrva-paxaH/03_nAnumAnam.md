@@ -27,7 +27,6 @@ and since the authority of Pañcaratra is based upon the Perception of this supp
 its authority is entirely non-existent. 
 
 [[6]] 
-
 </details>
 
 <details><summary>Buitenen - Notes</summary>

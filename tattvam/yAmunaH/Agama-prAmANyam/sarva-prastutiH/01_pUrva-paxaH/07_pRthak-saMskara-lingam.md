@@ -20,7 +20,6 @@ and are thereby qualified for all the Vedic rituals, agnihotra etc.,
 must yet undergo another sacrament, called Consecration ( namely, dīkṣā),  
 in order to be qualified for the worship of the Bhagavan,  
 demonstrates that the system is non-Vedic;  
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -31,7 +30,6 @@ Cf. Pādmasaṃhitā Caryāpāda: I. 8b-10a:
 yathaiva dīkṣaṇīyeṣṭyā jāyante brāhmaṇādayaḥ ।  
 tathaiva dīkṣāvidhinā jāyamānā yathoditāḥ ॥  
 pūjāvidhau bhagavataḥ prakalpante 'dhikāriṇaḥ ।
-
 </details>
 
 <details><summary>मूलम्</summary>

@@ -86,7 +86,6 @@ For He is revealed in the upaniṣads as the Supreme Soul: "Truth, knowledge, in
 तद्विष्णोः ... Yajurveda : VI-5; also Kaṭhopaniṣat : III-9.
 
 परा ... To be traced out.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -273,7 +272,6 @@ That He is the Supreme Brahman is also learnt elsewhere.
 <details><summary>नरसिंहः</summary>
 
 Ibid. XII. 280. 26 b. Variant परमो for परं ।
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -483,7 +481,6 @@ To be traced out.
 कोऽन्यस्तस्मादभ्यधिको मुक्त्वा नारायणं प्रभुम् ॥
 
 इति,
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -510,7 +507,6 @@ Ch. 73. śl. 52.
 
 नारायणात्परो देवो न भूतो न भविष्यति ।  
 एतद्रहस्यं वेदानां पुराणानां च सत्तमाः ॥ इति ।  
-
 </details>
 
 
@@ -861,7 +857,6 @@ we say that Viṣṇu is stated to be the Supreme One in the texts of the Way of
 <details><summary>नरसिंहः</summary>
 
 This line occurs below. It is from the Bhaviṣya Purāṇa, to be identified.
-
 </details>
 
 <details><summary>मूलम्</summary>

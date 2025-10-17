@@ -27,7 +27,6 @@ This line runs like a verse.
 Cf. Ślokavārtika under I. 1.2; śl. 111b:
 
 > यदि षड्भिः प्रमाणैस् स्यात् सर्व-ज्ञः, केन वार्यते ?
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -219,7 +218,6 @@ that is the said Person, is actually apprehended through Scripture itself, which
 <details><summary>नरसिंहः</summary>
 
 This line too is metrical.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -514,7 +512,6 @@ In the upaniṣadic texts the knowledge of brahman is declared to be rewarded by
 ब्रह्मवित् ... Cf. Muṇḍaka: III-ii-9: “ब्रह्मैव वेद ब्रह्मैव भवति” ।
 
 प्राप्नोति ... Cf. Taittirīya: II-i-1: “ब्रह्मविद् आप्नोति परम्” ।
-
 </details>
 
 <details><summary>मूलम्</summary>

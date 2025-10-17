@@ -54,7 +54,6 @@ Does "being outside the Veda" mean
 "being different from the Veda"  
 or "doing what is forbidden by the Veda"  
 or "being hostile to the Vedas?"  
-
 </details>
 
 
@@ -290,7 +289,6 @@ for they endeavour to uproot the validity of the Veda.
 
 Thus the naked Jainas could effortlessly render the Vedas untruthful  
 simply by accepting" the Vedas in some manner by way of deception.
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -388,7 +386,6 @@ supra § 17: this Buddhist injunction is outside the Veda
 Bhaṭṭa Medhātithi, commenting upon Manusmṛti XII. 95, quotes from some unidentified source:
 
 > नोदनाः चैत्य-वन्दनतः स्वर्गो भवति ।
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -523,7 +520,6 @@ Nor can the second alternative be adopted
 that the Tantras are invalid because they are accepted by people  
 who are unqualified for certain Vedic rites,  
 because that would entail the conclusion that all Vedic statements are invalid.  
-
 </details>
 
 
@@ -544,7 +540,6 @@ because that would entail the conclusion that all Vedic statements are invalid.
 For every man has some Vedic rites for which he is not qualified:  
 the brahmin is not qualified for the Royal Consecration,  
 the ksatriya not for the ritual drinking of soma. 
-
 </details>
 
 
@@ -780,7 +775,6 @@ which do not belong to the three estates
 (Statements like "The rathakara must add fuel,"  
 "With [[101]] that he must sacrifice for the chief of the Nişādas,"249 etc.)  
 would also be invalid.
-
 </details>
 
 <details><summary>Buitenen - Notes</summary>

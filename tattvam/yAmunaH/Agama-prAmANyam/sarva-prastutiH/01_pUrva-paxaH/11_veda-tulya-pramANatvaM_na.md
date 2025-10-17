@@ -29,7 +29,6 @@ DISCURSUS:
 18\. At this point someone interjects:  
 If you please, by all means assume that the Vedas constitute the cause  
 of the delegated and indirect authority of the Tradition of Manu etc.  
-
 </details>
 
 <details><summary>Buitenen - Notes</summary>
@@ -114,7 +113,6 @@ In fact, the two traditions of the aştaka rite and the acamana rite are not int
 <details><summary>नरसिंहः</summary>
 
 पञ्च-रात्रस्य वेद-मूलत्वाभावाद् यदि अप्रामाण्य-प्रसक्तिः, तर्हि पाञ्चरात्र-मूलत्वाभावात् वेदस्याप्य् अप्रामाण्य-प्रसङ्ग इति समानधर्मे। उभयोर् अपि वेद-पञ्च-रात्रयोः भगवद्-अनुभवैक-मूलतया तुल्यत्वात्, तद्-अन्तरे एकतरामूलत्व-प्रयुक्तम् अप्रामाण्यम् अन्यस्य न शक्य-शङ्कम् इति निष्कर्षः।
-
 </details>
 
 <details><summary>Buitenen</summary>
@@ -363,7 +361,6 @@ This envisages the world as the sum total of the fruits (phala) brought about by
 
 22\. If one contends that such entities as mountains, earth and the like are not effects,  
 the "answer is as follows: 
-
 </details>
 
 
@@ -395,7 +392,6 @@ The entities in question, earth etc., are effects,
 because they have a complex construction, like a king's palace (cf. Udayana, Kusumanjali 4.1.).  
 Similarly, from the fact that they are made up of parts  
 we conclude that they are subject to destruction. 
-
 </details>
 
 
@@ -448,7 +444,6 @@ that is without perceptible intelligent agency,
 the cause of their destruction remains dubious:  
 but because of this very dubiety  
 there can also be not positive certainty that the cause of their destruction is entirely occasional. 
-
 </details>
 
 
@@ -499,7 +494,6 @@ that an entity which has mass and can move is subject to origination and to dest
 It being thus established that earth etc. are indeed effects, on the grounds adduced above,  
 it follows that the Bhagavan has knowledge of dharma and adharma  
 which are the instrumental causes of origination and annihilation. 
-
 </details>
 
 <details><summary>Buitenen - Notes</summary>
@@ -1070,7 +1064,6 @@ is also perceived to be uttered by no one but an embodied being …
 पुण्यवद् इतरा(पापा)धीनेति भावः। 
 
 "निर्माणं" निर्मातृत्वम् इति भावः। 
-
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1417,7 +1410,6 @@ because he perceives it is absurd.
 <details><summary>नरसिंहः</summary>
 
 Cf. Īśvarasiddhi, P.242, for identical statements.
-
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1460,7 +1452,6 @@ tena karmabhirātmānaḥ sarvaṁ nirmimatāṁ pṛthak.
 प्रत्ययेन ...   “Pratyaya” here means “jñāna”.
 
 सम्प्रत्याकलित ... “Samprati” is used in the sense of “samyak”. Also see the following verse “kṛtārthatvāt krīḍā” etc. where also the word “saṃprati” occurs.
-
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1522,7 +1513,6 @@ and nobody else.
 अपश्यन्नेवायं ... Cf. Īśvarasiddhi, P.246: “na copādānādisākṣātkāriṇa eva kartṛtvamityapi niyamaḥ; upādānamupakaraṇaṁ ca aviduṣa evātmano jñānādiṣu kartṛtvāt”.
 
 विनाशीदं ... Cf. तथा सावयवत्वेन etc., above.
-
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1630,7 +1620,6 @@ The same syllogism can be constructed with regard to the future.
 <details><summary>नरसिंहः</summary>
 
 'सो ऽयं घट' इति प्रत्यभिज्ञया घटादेर् अपि नित्यत्वं न शङ्कनीयम् इति भावः। तत्र कारणम् आह ‘यत‘ इति ।  
-
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1667,7 +1656,6 @@ na ca yad balavadruddhamātmānaṁ naiva vindati।
 avirodhe 'pi tenātmā na labdhavyaḥ kathaṁcana॥  
 na cāpi bādhakābhāvāt labdha ātmeti sarvadā।  
 labdhavyaḥ sa virodhe 'pi pūrvasāmānyadarśanāt॥
-
 </details>
 
 <details><summary>Buitenen</summary>
@@ -1775,7 +1763,6 @@ that is, which are the opposite of what would naturally follow?
 <details><summary>नरसिंहः</summary>
 
 'सिसाधयिषिते कर्तरि' इत्य् अर्थः।
-
 </details>
 
 
@@ -2039,7 +2026,6 @@ must remain entirely conjectural,
 तथा च ... अत्र सन्दर्भानुरोधेन ‘तथा च’ इत्य् अस्य ‘किञ्च’ इत्य् अर्थो वर्णनीयः।
 
 अनैकान्तः ... कार्यत्व-हेतुर् इति योजनीयम्।
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2227,7 +2213,6 @@ kathaṁ sṛjati durvāraduḥkha prāgbhāradāruṇam?
 nānātma-gata-śubhāśubha-karma-kalāpāpekṣaḥ sraṣṭā prajāpatiriti cet karmāṇyeva hi tarhi sṛjantu jaganti, kiṁ prajāpatinā ? athācetanānāṁ cetanānadhiṣṭhitānāṁ sraṣṭṛtvamaghaṭamānamiti teṣāmadhiṣṭhātā cetanaḥ kalpyata iti cen na; tad-āśrayāṇām ātmanām eva cetanatvāt ta evādhiṣṭhātāro bhaviṣyanti; kimadhiṣṭhātrantareṇeśvareṇa kāryam ?
 
 हेतुभिः — कर्म-स्वभावादिभिः।
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2299,7 +2284,6 @@ because the well no longer serves a purpose.
 Cf. Śābarabhāṣya under I. i-5; P.12:
 
 na ca himavadādiṣu kūpārāmādivat asmaraṇaṁ bhavitumarhati..
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2416,7 +2400,6 @@ It is the contention of Mimamsa that words and their capacity of conveying meani
 <details><summary>नरसिंहः</summary>
 
 The Naiyāyika tries to examine the revealed character (apauruṣeyatva) of the Vedas, which the Mīmāṁsaka so zealously champions.
-
 </details>
 
 <details><summary>मूलम्</summary>

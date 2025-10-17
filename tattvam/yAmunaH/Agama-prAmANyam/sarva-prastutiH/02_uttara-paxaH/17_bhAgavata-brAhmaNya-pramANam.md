@@ -30,7 +30,6 @@ the brahminhood of another set of people is evident.
 <details><summary>Buitenen</summary>
 
 121\. OBJECTION. But when one sees the small sons of the twice-born who wear the customary hairtuft, sacred thread, palasa wood stick and munjagrass girdle, one knows, the moment the eyes fall on them, that they are brahmins.
-
 </details>
 
 
@@ -1524,7 +1523,6 @@ The Mahābhārata, Āśvamedhikaparvan [Vavilla edn., Vol. XVIII] ch. 124, śls.
 सात्त्वतं ... Mahābhārata, Bhīṣma, ch. 62. śl. 39b.
 
 जन्मान्तर ... Paramasaṁhitā, III. 38b.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1845,7 +1843,6 @@ Vide Karmamīmāṁsā, pp. 86-87:
 > The direction to perform an offering is laid down in an originating injunction (utpattividhi) or an injunction of application (viniyogavidhi), according as the matter concerned is a principal or a subordinate offering. The originating injunctions are few in number relating as they do, to the principal Vedic offerings only, such as the Agnihotra, the New and Full-moon sacrifices, the Soma sacrifice and so forth...The originating injunctions, however, do no more than excite in the mind of the hearer the desire to perform the action which they enjoin, generally in the form of a sacrifice; it remains for other injunctions, those of application (viniyogavidhi), to denote the exact manner of procedure (itikartavyatā) by specifying the numerous subsidiary actions required, and the materials and other necessaries for the performance.
 
 सौधन्वना ... Ṛgveda: I.110.4.
-
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2117,7 +2114,6 @@ See p. 12 above, for the pūrvapakṣa-view.
 तिष्ठन्तु ... Cf. Śābara under II. i. 43, p. 89.
 
 यजूंषि ... Cf. ibid. under II. i. 39, p. 89.
-
 </details>
 
 <details><summary>मूलम्</summary>

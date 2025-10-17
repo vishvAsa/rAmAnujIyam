@@ -19,7 +19,6 @@ and the inacceptability of this Tantra to all exemplary persons
 go to show that the Pañcaratra texts must have been composed by someone  
 who pretended to teach a path that would lead to heaven and salvation,  
 but actually wished to deceive the world.  
-
 </details>
 
 
@@ -60,7 +59,6 @@ Concerning its apocryphal character, which we have now exposed, we have the decl
 > "The traditional teachings that are outside the Veda  
 > and all other false doctrines remain fruitless in the afterworld,  
 > for they are considered to derive from tamas." 
-
 </details>
 
 <details><summary>नरसिंहः</summary>
@@ -127,7 +125,6 @@ Ibid. IV. 30.
 हैतुकान् बकवृत्तिंश्च वाङ्मात्रेणापि नार्चयेत् ।  
 
 इति ।  
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
