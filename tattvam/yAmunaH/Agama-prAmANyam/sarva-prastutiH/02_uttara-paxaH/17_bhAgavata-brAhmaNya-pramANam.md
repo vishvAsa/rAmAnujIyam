@@ -620,7 +620,7 @@ Nor does it run counter to ordinary experience that the eyes can convey brahminh
 
 <details><summary>Buitenen</summary>
 
-every case the sense becomes the cause of the rise of determination of sense-object when favoured by the accompanying circumstances of place, time, configuration etc.251
+In every case the sense becomes the cause of the rise of determination of sense-object when favoured by the accompanying circumstances of place, time, configuration etc.251
 
 [251]: read deśakālasaṃsthānāditi.[[??]]
 </details>
@@ -630,7 +630,7 @@ every case the sense becomes the cause of the rise of determination of sense-obj
 सर्वत्र ... Cf. Ślokavārtika under I.1.5, śl. 26 (vanavāda) :
 
 > तस्योपलक्षणं चापि क्वचित् केनचिद् इष्यते ।  
-रूपादीनां विशेषेण देश-कालाद्य्-अपेक्षया[[??]] ॥
+रूपादीनां विशेषेण देश-कालाद्य्-अपेक्षया ॥
 
 परिच्छेदः = ज्ञानं, निर्णयो वा ।
 </details>
@@ -800,7 +800,7 @@ Sound may provide us with proof that there is a horse in the distance;
 
 Cf. Ślokavārtika (Vākyādhikaraṇa) śl. 358, p. 947:
 
-> पश्यतः श्वेतिमारूपं[[??]] हेषा-शब्दं च शृण्वतः ।  
+> पश्यतः श्वेतिमारूपं हेषा-शब्दं च शृण्वतः ।  
 खुर-निक्षेप-शब्दं च श्वेतो ऽश्वो धावतीति धीः ॥
 </details>
 
@@ -922,7 +922,7 @@ Or else, brahminhood is that which arises from the differentiae of genus,
 
 Cf. Prakaraṇapañcikā, III, p. 31:
 
-> तेन सन्तति-विशेष-प्रभवत्वम् एव ब्राह्मण-शब्द-प्रवृत्ताव् उपाधिः । तत्-प्रभवानाम् एव कर्मस्व् अधिकार इति न किञ्चिद् अवहीनम् । के पुनस् ते सन्तति-विशेषाः? न ते परिगणय्य निर्देष्टुं शक्यन्ते; किन्तु लोकत एव प्रसिद्धाः प्रत्येतव्याः । तथा च तज्-जन्यत्वे ऽवगते ब्राह्मण-शब्दं प्रयुञ्जते[[??]] लोकाः ।
+> तेन सन्तति-विशेष-प्रभवत्वम् एव ब्राह्मण-शब्द-प्रवृत्ताव् उपाधिः । तत्-प्रभवानाम् एव कर्मस्व् अधिकार इति न किञ्चिद् अवहीनम् । के पुनस् ते सन्तति-विशेषाः? न ते परिगणय्य निर्देष्टुं शक्यन्ते; किन्तु लोकत एव प्रसिद्धाः प्रत्येतव्याः । तथा च तज्-जन्यत्वे ऽवगते ब्राह्मण-शब्दं प्रयुञ्जते लोकाः ।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1068,7 +1068,7 @@ and
 Cf. Manusmṛti X. 23:
 
 > वैश्यात् तु जायते व्रात्यात् सुधन्वा ऽऽचार्य एव च ।  
-भानुवश् च[[??]] निजङ्घश् च मैत्रस् सात्वत एव च ॥
+भारुषश् च निजङ्घश् च मैत्रस् सात्वत एव च ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3084,11 +3084,11 @@ Published by the Adyar Library and Research Centre, Madras, 1969.
 Śivarātra, V. 48b-49a. Also Cf. Paramasaṁhitā XII. 36b-37a:
 
 > पूजायां विनियुक्तं तु यद् द्रव्यम् इह पूजकैः ।  
-निर्माल्यम् इति विज्ञेयं न[[??]] कार्येषु वर्जितम् ॥
+निर्माल्यम् इति विज्ञेयं न कार्येषु वर्जितम् ॥
 
 Cf also Vasiṣṭhasaṁhitā ( ms ) VII. 52b-5 a:
 
-> निवेदितं च यद् द्रव्यं पुण्यं फलम् अथापि वा[[??]] ।  
+> निवेदितं च यद् द्रव्यं पुष्पं फलम् अथापि वा ।  
 निर्माल्यम् इति तं [ तत् ? ] चैव प्रयत्नेन विवर्जयेत् ॥
 </details>
 
