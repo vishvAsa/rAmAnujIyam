@@ -1093,7 +1093,6 @@ cannot be proved except by the relation of kārya with the fruit of the act, and
 And therefore there is a vicious interdependence that cannot be refuted. 
 </details>
 
-
 <details><summary>नरसिंहः</summary>
 
 स्वर्ग-काम-रूप-नियोज्यस्य क्रिया-सम्बन्ध-ज्ञानम्; तेन स्वर्ग-यागयोः सम्बन्ध-ज्ञानम्; तद्-अन्यथानुपपत्त्या ऽपूर्व-कल्पनम्; ततस् तस्य लिङ्-वाच्यत्व-कल्पनम्; वाच्ये ऽपूर्वे यागस्य स्वर्ग-कामस्य चान्वय-कल्पनम्; एवं, स्वर्ग-कामीयं याग-सम्बन्ध्य् अपूर्वम्' इति ज्ञाते तद्-अनन्तरम् एव स्वर्ग-याग-सम्बन्ध-कल्पनम्  
@@ -1205,7 +1204,6 @@ Heaven can not be the specification of the person's qualification, because heave
 
 Only something that has already been achieved, that actually exists, can specify the person upon whom an act is enjoined, for instance, the real fact of his being alive etc. Consequently only his desire can specify his qualification for the act.
 </details>
-
 
 <details><summary>नरसिंहः</summary>
 
@@ -2207,11 +2205,6 @@ Scriptural validity, i.e., Scripture's being a means of knowledge, is to the Pra
 To the Prabhakara this validity is ideal in the case of injunctions concerning actions which, suprasensibly, lead to a certain desired end.
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-This and the succeeding paragraph are mere repetitions. See pp.39-40 above.
-</details>
-
 <details><summary>मूलम्</summary>
 
 न च सिद्धे वस्तुनि साधकबाधकयोरन्यतरोपनिपातसम्भवप्रसक्तेर्भावितानुवादविपर्ययपर्यालोचनया तद्गोचरवचसः प्रामाण्यप्रच्युतिः कार्यनिष्ठस्यापि तत्प्रसङ्गात्, 
@@ -2236,17 +2229,18 @@ as in the case of the cooking of the odana.
 (The injunction concerning the odana oblation includes an injunction concerning the preparation of the odana and the fetching of firewood for the cooking. Since experience shows that for a cooking fire one needs firewood, this karya is not strictly known on scriptural authority.)
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-Vide Prakaraṇapañcikā II, p. 180: 
-
-> कृति-साध्यं प्रधानं यत्, तत् कार्यम् अवसीयते ।  
-तच् च मानान्तरेणापि वेद्यम् ओदन-पाकवत् ॥
-</details>
-
 <details><summary>मूलम्</summary>
 
 कार्यमपि हि मानान्तरवेद्यमेव लौकिकं समिदाहरणादि, तच्च मानान्तरेणापि वेद्यमोदनपाकवदित्यभ्युपगमात् ।  
+</details>
+
+<details><summary>नरसिंहः</summary>
+
+$ Vide Prakaraṇapañcikā II, p. 180- 
+> " कृतिसाध्यं प्रधानं यत्,  
+तत् कार्यम् अवसीयते । 
+तच मानान्तरेणापि  
+वेद्यम् ओदन-पाकवत् ॥ " 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2355,4 +2349,5 @@ Therefore it must be maintained that all indubitable and unreversed knowledge is
 <details><summary>मूलम्</summary>
 
 तस्मात् परिनिष्ठितानुष्ठेयादि-भेद-शून्यम् असन्दिग्धाविपर्यस्तविज्ञानं प्रमाणम् एष्टव्यम्,  
+</details>
 </details>

@@ -71,7 +71,6 @@ Cf. Vātsyāyana's commentary on the Nyāyasūtra, under IV. i. 21, P.291:[[??]]
 The Prābhākara's position with regard to the authority of statements speaking of a past event (siddha or pariniṣṭhitavastu) is criticised by the Naiyāyika here.
 </details>
 
-
 ### प्रमाणान्तर-गोचरता-सम्भावना न बाधते
 <div class="js_include" includetitle="false" newlevelforh1="5" unfilled url="../../aMshaH/na_cha_siddhe">
 
@@ -132,14 +131,6 @@ as in the case of the cooking of the odana.
 (The injunction concerning the odana oblation includes an injunction concerning the preparation of the odana and the fetching of firewood for the cooking. Since experience shows that for a cooking fire one needs firewood, this karya is not strictly known on scriptural authority.)
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-Vide Prakaraṇapañcikā II. P.180:
-
-> kṛtisādhyaṁ pradhānaṁ yat, tat kāryamavasīyate  
-tacca mānāntareṇāpi vedyamodanapākavat.
-</details>
-
 <details><summary>मूलम्</summary>
 
 कार्यमपि हि मानान्तरवेद्यमेव लौकिकं समिदाहरणादि, तच्च मानान्तरेणापि वेद्यमोदनपाकवदित्यभ्युपगमात् ।  
@@ -167,11 +158,6 @@ inasmuch as a karya concerning a categorically different thing like the agnihotr
 therefore the verbal testimony which sets forth such a thing must needs be its authority,
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-Statements like “agnihotraṁ juhoti” (Taittirīya Saṁhitā : V. 9. 1) speak of “agnihotra”, which is a siddhavastu, but not a kārya. This, according to the Prābhākara, should not be primarily valid. But actually, he accepts its primary validity on the ground that such statements are the only means of revealing the instrumentality of fire-sacrifice with regard to heaven and such other fruits. When this is the case, the Naiyāyika sees no reason why the Prābhākara should not approve the validity of statements which speak of the existence of a Supreme Being.
-</details>
-
 <details><summary>मूलम्</summary>
 
 > अथ विलक्षणाग्निहोत्रादिविषयकार्यस्यासम्भावितमानान्तरतया तत्प्रतिपादयद्वचः प्रमाणम्,  
@@ -193,15 +179,11 @@ depending on one's particular partisan views.
 (it is all the same, depending on what partisan view one takes! )
 </details>
 
-<details><summary>नरसिंहः</summary>
-
-आग्रहे परं भेदः। तेन विना त्वदीयं मतं मदीयेन तुल्यम् एवेति भावः।
-</details>
-
 <details><summary>मूलम्</summary>
 
 > हन्त तर्हि निरतिशयावबोधैश्वर्यमहानन्दसन्दोहवपुषि भगवति न मानान्तरगन्धसम्बन्ध इति सर्वं समानमन्यत्राभिनिवेशात् ।  
 </details>
+
 </div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -589,7 +571,6 @@ tathāpi putraste jāta iti vākyasya putrajanmākhyaharṣahetupratipādakatā 
 
 हेतूपनिपातेयममुनेति ... 'अयं हर्षः अमुना हेतुना जात' इति निर्धारयितुं शक्यम् इति।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
