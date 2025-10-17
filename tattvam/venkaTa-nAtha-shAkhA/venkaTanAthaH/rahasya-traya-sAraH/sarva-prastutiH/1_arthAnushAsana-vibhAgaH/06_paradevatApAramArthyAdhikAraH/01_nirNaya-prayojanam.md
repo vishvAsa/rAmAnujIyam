@@ -35,7 +35,7 @@ All 'reals' have been classified into matter ( Prakṛti), the individual self a
 on the basis of the differences among them pointed out before.  
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 मुऩ्ऩधिकारत्तिऱ् ‌चॊऩ्ऩ चिदचिदीश्वरतत्वत्रयज्ञानत्तालेये  
 अमृतत्वसिद्धिय् उण्ड् ऎऩ्ऱु उपनिषत्तुक्कळिल् सॊल्लियिरुक्क,  
@@ -96,7 +96,7 @@ as in the words of the Alwar:
 > nor dream of any such god". 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 ऒऩ्ऱुम् तेवुमित्यादिगळिऱ्‌पडिये.  
 ऒऩ्ऱुम् तेवुमॆऩ्गिऱ तिरुवाय्मॊऴि नालाम्बत्तिल् पत्तावदु तिरुवाय्मॊऴि.  
@@ -161,7 +161,7 @@ is mokṣa  possible of attainment without delay.
 So it is necessary to decide who is the Supreme Deity.
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 इप्पडि वैमुख्यम् इल्लाद रुद्रभक्तऩाऩ परमैकान्तिक्कुम् 
 

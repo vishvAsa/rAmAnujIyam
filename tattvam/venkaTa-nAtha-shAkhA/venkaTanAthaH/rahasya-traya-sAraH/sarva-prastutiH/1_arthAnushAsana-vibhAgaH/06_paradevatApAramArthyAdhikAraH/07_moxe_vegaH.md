@@ -31,7 +31,7 @@ the man attains spiritual wisdom and seeks my protection”
 the man attains spiritual wisdom and seeks my protection” 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 इप्पडि 
 
@@ -84,7 +84,7 @@ and again,
 will at length become well established here." 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 ये जन्मकोटिभिस्सिद्धा इति । सिद्धाः – सिद्धिं प्राप्ताः । इङ्गु सिद्धियावदु मोक्षव्यतिरिक्तफलङ्गळ्. भगवानिडत्तिल् निऩ्ऱुम् जन्म-कोटिकालम् मोक्षव्यतिरिक्तैश्वर्यादिफलङ्गळैयडैन्दवर्गळॆऩ्ऱबडि. अत्र – अनन्यप्रयोजऩ-भक्तिरूपमोक्षोपायत्तिले तपोध्यानसमाधिभिः – फलान्तरार्थमाऩ तपोध्यानसमाधिकळाले. 
 </details>
@@ -126,7 +126,7 @@ become purified of their sins by penance, meditation and yoga (samadhi)
 will acquire devotion to Kṛṣṇa," 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 क्षीण-पापानां – पूर्वोक्तरीत्या आनुषङ्गिकपापक्षयवताम् । कृष्णे भक्तिः प्रजायते – ‘‘मयि चानन्ययोगेन भक्तिरव्यभिचारिणी’’ इत्यादिगळिल् सॊल्लुगिऱबडिये अनन्यप्रयोजनभक्तियुण्डागुमॆऩ्ऱबडि. 
 </details>
@@ -156,7 +156,7 @@ But there is delay in such cases as may be seen in the above (following) passage
 But there is delay in such cases as may be seen in the above (following) passages
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 उक्तश्लोकार्थत्तै संग्रहित्तुक् काट्टुगिऱार् ऎऩ्गिऱबडिये विळम्बमुण्डु इति । 
 </details>
@@ -190,7 +190,7 @@ When the desire for mokṣa  has become ardent
 and when the man practises  upāya which is within his power,  
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 इप्पडि ऐश्वर्यार्थिक्कु अन्ततो मोक्षम् सिद्धित्तालुम् ऐश्वर्यरुचि माऱि मोक्षत्तिल् रुचि वरुवदऱ्‌कुम् मोक्षोपायप्रवृत्ति वरुवदऱ्‌कुम् बहुकालविळम्बत्तै वचनङ्गळाले काट्टि, मुदलिलेये उत्कटसुकृतविशेषत्ताल् मोक्षरुचि पिऱन्दु मोक्षार्थं भगवानै आश्रयित्तवनुक्कु मोक्षसिद्धियिल् विळम्बमिल्लै यॆऩ्गिऱार् मोक्षरुचि पिऱन्दु इत्यादिना । मोक्षरुचि पिऱन्दु ऎन्बदाल् मोक्षरुचिहेतुभूतबहुजन्मविळम्बमिवनुक्कु इल्लैयॆन्बदु सूचितम्. वल्लदॊरु उपायमिति । वल्लदु - शक्यमानदु. सद्विद्यादिभक्तिभेदङ्गळिल् तऩ् शक्तिक्कनुगुणमानदु ऎऩ्ऱबडि. मूण्डालिति । मूळुगै - प्रवृत्तिक्कै. 
 </details>
@@ -233,7 +233,7 @@ to them I become the redeemer
 > and save them quickly out of the sea of saṁsāra". 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 तेषामित्यादि । अनन्यप्रयोजनयोगत्तालेऎऩ्ऩै ध्यानम् पण्णुगिऱवर्गळै मोक्षविरोधिसंसारसागरत्तिल् निऩ्ऱुम् स्वल्पकालत्तिलेये समुद्धरणम् पण्णुगिऱेऩ् ऎऩ्गै. 
 </details>
@@ -263,7 +263,7 @@ there will be no delay in the attainment of mokṣa , for He has declared +++(th
 there will be no delay in the attainment of mokṣa , for He has declared +++(the above)+++:[^f224] 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 मोक्षसिद्धिक्कु विळम्बमिल्लै इति । ऐश्वर्यार्थिक्कुप्पोले ऐश्वर्यानुभवत्तालुण्डाऩ विळम्बमुम् मोक्षरुचियुण्डावदऱ्‌काग बहुपुण्यजन्मविळम्बमुमिल्लैयॆऩ्ऱबडि. 
 </details>
@@ -300,7 +300,7 @@ there is neither delay nor absence of delay,
 except in accordance with his own desire.  
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 इप्पडि मुदलिलेये मोक्षरुचि पिऱन्दु सद्विद्यादिगळिलिऴिबवनुक्कुम् ‘‘भवामि न चिरात्’’ ऎऩ्गिऱबडि मोक्षमविळम्बेन वरुमॆऩ्ऱाल् स्वतन्त्रप्रपत्तिक्कु अविळम्बेन मोक्षजनकत्वप्रथै ऎङ्ङनेयॆऩ्ऩवरुळिच्चॆय्गिऱार् स्वतन्त्र-प्रपत्तिनिष्ठनुक्कुत् ताऩ् कोलिनदेयळवु इति ।  
 ताऩ्गोलिनदेयळवु - ताऩ् कोलिऩ क्षणान्तर दिवसान्तर देहावसानादिगळिल् इवऩ् कोलिनगालमे मोक्षावधियॆऩ्ऱ पडि. वेऱु विळम्बाविळम्बङ्गळुक्कुक् कुऱियिल्लै इति ।  

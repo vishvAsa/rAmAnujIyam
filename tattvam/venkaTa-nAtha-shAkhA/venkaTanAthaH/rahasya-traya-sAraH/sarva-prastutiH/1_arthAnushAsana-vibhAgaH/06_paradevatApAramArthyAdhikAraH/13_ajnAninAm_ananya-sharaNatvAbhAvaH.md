@@ -23,7 +23,7 @@ For men other than those who have this conviction about the Supreme Deity,
 For men other than those who have this conviction about the Supreme Deity, 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 इप्पडि परदेवतैक्कुमदिऩ् पारमार्थ्यत्तुक्कुमनुसन्धेयस्थलङ् गळै रहस्यत्रयत्तिले काट्टि श्रीमाऩाऩ नारायणने परदेवतै यॆऩ्गिऱ निश्चयमिल्ला तवनुक्कु अनन्यशरणत्वादिरूपपारमैकान्त्यम् किडैयादॆऩ्गिऱार् इद्देवताविशेषेत्यादि । 
 </details>
@@ -53,7 +53,7 @@ For men other than those who have this conviction about the Supreme Deity,
 "[^f239] There is no refuge other than Kṛṣṇa". 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 अनन्यशरणतैयिऩ् प्रकारत्तै पासुरङ्गळाले काण्बिक्किऱार् कण्णनित्यादि । कण्णऩ् कण् - कृष्णने रक्षकऩ्, अल्लदु - तद्व्यतिरिक्तमाऩ, ओर्गण्णे -ऒरु रक्षकने इल्लै. 
 </details>
@@ -96,7 +96,7 @@ For men other than those who have this conviction about the Supreme Deity,
 > I have no other means of getting it removed." 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 कळैवायित्यादि । तुन्बम् - संसारदुःखत्तै, कळैवाय् - पोक्कडित्तरुळुवाय्; अऩ्ऱिये कळैयादॊऴिवाय् - पोक्कडिक्कामल् पोवायागिल्, कळैगण्मऱ्ऱिलेऩ् - अदैप् पोक्कडिप्पदऱ्‌कु उपायम् वेऱुडैयेनल्लेऩ्. त्वद्व्यतिरिक्तरक्षकरॆनक्कॊरुवरुमिल्लै यॆऩ्ऱबडि. 
 </details>
@@ -131,7 +131,7 @@ For men other than those who have this conviction about the Supreme Deity,
 "I know[^f241] of no other staff of support for my soul". 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 आविक्कु इत्यादि । आविक्कु - संसारमागिऱ नदियिले अडित्तुक्कॊण्डुबोगिऱ ऎऩ्ऩात्मावुक्कु, ओर् पऱ्ऱुक्कॊम्बु - ऒरु हस्तावलंबनशाखै, शरणमॆऩ्ऱबडि. निऩ्ऩलाल् - ‘‘अमृतस्यैष सेतुः’’ ‘‘विष्णुपोतं विना नान्यत्’’ ऎऩ्ऱु सॊल्लप्पट्ट उऩ्ऩैयॊऴिय, अऱिगिऩ्ऱिलेऩ् - अऱियमाट्टुगिऱिलेऩ्. 
 </details>
@@ -169,7 +169,7 @@ For men other than those who have this conviction about the Supreme Deity,
 “If you do not [^f242] withhold the suffering due to my karma", 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 तरुदुयरमित्यादि । तरुदुयरम् - कर्मानुगुणमाग नी तरुम् तुयरत्तै, अक्करुमङ्गळै नीक्कि नीये तडुक्कवेणुम्. अप्पडित् तडायेल् - पोक्कडिक्काविडिल्, उऩ् सरणल्लाल् सरणिल्लै - तेवरीर् तिरुवडिगळैयॊऴिय वेऱु शरणमिल्लै. ऎऩ्गिऱ तिरुमॊऴि मुदलानवऱ्ऱिलुम् - इदै उपक्रमगाथैयागवुडैय दशगाथापरिमितमाऩ तिरुमॊऴि प्रभृतिकळिलुम्, मुदलाऩ ऎन्बदाल् "कॊण्डबॆण्डिर्" इत्यादिग्रहणम्. 
 </details>
@@ -199,7 +199,7 @@ it is not possible to be in the state of having Bhagavān alone exclusively as t
 it is not possible to be in the state of having Bhagavān alone exclusively as their protector, a state such as is described in the preceding (following) and other words of the Alwars.
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 अनन्यशरणत्वावस्थै किडैयादु इति । अनन्यगतित्वरूपप्रपत्त्यधिकारमे सिद्धियादॆऩ्ऱबडि.  
 </details>

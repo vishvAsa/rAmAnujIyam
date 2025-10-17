@@ -62,7 +62,7 @@ that He (alone) can give mukti
 and that He is the object of blissful enjoyment for those who have attained mokṣa.
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 ॥ श्रीः ॥  
 श्रीसारबोधिनीव्याख्यायां  

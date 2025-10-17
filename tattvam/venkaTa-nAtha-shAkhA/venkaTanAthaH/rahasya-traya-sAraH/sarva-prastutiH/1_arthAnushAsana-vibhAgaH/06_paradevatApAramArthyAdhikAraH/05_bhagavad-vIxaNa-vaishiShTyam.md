@@ -43,7 +43,7 @@ will become subject to the influence of rajas and tamas.
 This difference is brought out in the following passages - 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 इनि जायमानदशैयिल् भगवत्कटाक्षम् मोक्षेच्छैक्कुक् कारणमॆऩ्ऱुम् ब्रह्मरुद्रर्गळुडैय दर्शनम् संसारकारणमॆऩ्ऱुम् सॊल्लुगिऱ वचनङ्गळै इवर्गळुडैय उत्कर्षापकर्षार्थ मुदाहरिक्कप् पोगिऱवरायवैगळिनर्थत्तै युपक्षेपिक्किऱार् करुविले इत्यादियाल्. करुविले - गर्भदशैयिले तुडङ्गि. तिरुवुडैयार्गळाय् - श्रीमान्गळाय्, जायमानदशैयिले भगवत्कटाक्षम् पॆऱुम्बडि याऩ सम्बन्दत्तैयुडैयवर्गळायॆऩ्ऱबडि.
 </details>
@@ -85,7 +85,7 @@ should be considered to be a pure soul (sātvika)
 and he will ever think of the goal of mokṣa . 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 जायमानदशैयिलेय् ऎऩ्ऱदु ‘‘जायमानं हि पुरुष’’म् ऎऩ्गिऱदिनर्थम्.  
 ‘‘रजस्तमःप्रशमहेतुवाऩ" ऎऩ्ऱदु मधुसूदनशब्दत्तिऱ्‌कु द्योत्यार्थम्.  
@@ -129,7 +129,7 @@ and he will ever think of the goal of mokṣa .
 > his mind will be overcome by rajas and tamas.
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 ब्रह्मरुद्रदृष्टर्गळॆन्बदु ‘‘पश्यत्येनं जायमानं ब्रह्मा रुद्रोऽथ वा पुनः’’ ऎन्बदिनर्थम्. रजस्तमःपरतन्त्ररावार्गळॆन्बदु ‘‘रजसा तमसा चास्य मानसं समभिप्लुतं’’ ऎऩ्गिऱ उत्तरार्धत्तिनर्थम्. ऎऩ्ऱु विभजिक्कप्पट्टदु.  
 उत्कृष्टापकृष्टफलप्रदत्वेन पिरिक्कप्पट्टद् ऎऩ्ऱबडि.  

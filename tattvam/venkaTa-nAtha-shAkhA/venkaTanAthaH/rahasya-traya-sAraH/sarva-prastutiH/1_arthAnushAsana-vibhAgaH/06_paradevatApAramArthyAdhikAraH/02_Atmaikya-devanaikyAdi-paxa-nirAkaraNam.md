@@ -43,7 +43,7 @@ since sentient and non-sentient things are known by the pramāṇas to be entire
 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 इप्पडियनेग पक्षङ्गळ् प्रसक्तङ्गळागुम्बोदु इतरपक्षङ्गळिल् अनुपपत्तिकळै प्रकाशिप्पित्तालॊऴिय स्वपक्षत्तै निष्कर्षिक्कमुडियादे यॆऩ्ऩ इतरपक्षङ्गळिले अनुपपत्तिकळै प्रकाशिप्पिक्किऱार् अव्विडत् तिलित्यादिना ॥  
 अव्विडत्तिल् - देवताविशेषत्तै निष्कर्षिक्किऱ विषयत्तिल्. चेतना-चेतनङ्गळुडैय अत्यन्तभेदम् प्रमाणसिद्धमागैयाले इति । इदनाल् मेले सॊल्लप्पोगिऱ पक्षत्तिऱ्‌कु अनुपपत्ति काट्टप्पट्टदु.  
@@ -87,7 +87,7 @@ the essential differences between the jīva and Iśvara cannot be ignored
 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 इनि देवतैक्यमॆऩ्गिऱ पक्षङ् गूडादॆऩ्गिऱार् स्वभावसिद्धमाऩ इत्यादियाल्. स्वभावसिद्धमानवॆन्बदाल् औपाधिक भेदवादनिरासः । 
 जीवेश्वरभेदमुम्. इदऱ्‌कु प्रामाणिकमागैयालॆन्बदोडन्वयम्. 
@@ -124,7 +124,7 @@ are based on the pramaṇas,
 because of their association with varied pleasures and pains.  
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 अप्पडिये इति । स्वाभाविकमागवेयॆऩ्ऱबडि. 
 </details>
@@ -162,7 +162,7 @@ Therefore, though the indwelling Supreme Self, Antaryāmin is one, the view that
 Therefore, though the indwelling Supreme Self, Antaryāmin is one, the view that Brahma, Rudra, and the other gods are not different from Iśvara and from one another cannot be justified.
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 सुखदुःखादिव्यवस्थैयाले प्रामाणिक मागैयाले इति ।  
 देवतैकळॆल्लामेगरागिल् ऎल्लोरुक्कुमॊरुविदमाऩ सुखमो अल्लदु ऒरु विदमाऩ दुःखमो इरुक्कवेण्डुमेयॊऴिय प्रत्येकम् व्यवस्थितमाऩ सुखदुःखङ्गळ् कूडादॊऴियुमॆऩ्गिऱ प्रसङ्गंवरुमागैयालुम् प्रत्येकम् सुखदुःखव्यवस्थैयिरुप्पदालुम् तदन्यथानुपपत्तियाले भेदमे प्रामाणिकमॆऩ्ऱु करुत्तु.  

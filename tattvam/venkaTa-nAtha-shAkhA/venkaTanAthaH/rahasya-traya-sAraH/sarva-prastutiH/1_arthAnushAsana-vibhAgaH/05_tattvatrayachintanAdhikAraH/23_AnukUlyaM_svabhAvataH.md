@@ -280,7 +280,7 @@ when a man has come to understand his real nature
 and (has come) to realise that these things exist for the purposes of the Lord. 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 > मुक्तनुक्कु ऎल्लाम् अनुकूलतया उपादेयम् ऎऩ्ऱदु कूडुम् ओ?  
 अवनुक्के बद्ध-दशैयिल् प्रतिकूलम् आगव् इरुन्द् अवै  
@@ -335,7 +335,7 @@ We will explain this matter at length
 when we come to speak of the perfect and complete enjoyment of (the bliss of ) Brahman.
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 इव्व्-अर्थत्तैये मेले विस्तरिप्पद् आगव् अरुळिच्चॆय्गिऱार् इव्वर्थमित्यादियाल्.  
 </details>

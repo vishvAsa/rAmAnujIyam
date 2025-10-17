@@ -65,7 +65,7 @@ This may be seen from the following śloka s :-
 "O best [^f199] of men, there is no one superior to (Nārāyaṇa)  the god of the lotus-like eyes;" 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 समाधिकदरिद्रनॆऩ्ऩुमिडत्तै - नारायणऩ् समरालुम् अधिकरालुम् रहितनॆऩ्ऱु अनुमित्त विषयत्तै. 
 न परं पुण्डरीकाक्षाद्दृश्यत इत्यादि । इङ्गु पुण्डरीकाक्षात्परं न दृश्यते ऎऩ्ऱु वाचनिकमागवे वर्तमानकालिकाधिकनिषेधम् सॊल्लप्पडुगिऱदु.  
@@ -108,7 +108,7 @@ nor will there be any one superior to Him in the future :
 There is no[^f201] god superior to Viṣṇu , O best of kings;" 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 ‘‘परं हि पुण्डरीकाक्षाऩ्ऩ भूतं न भविष्यति’’ ऎऩ्ऱु पुण्डरीकाक्षनुक्कु भूतभविष्यत्कालाधिकनिषेधम् सॊल्लप्पडुगिऱदु.  
 </details>
@@ -137,7 +137,7 @@ There is no[^f201] god superior to Viṣṇu , O best of kings;"
 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 मङ्गळं – श्रेयःप्रदम्. पावनं – अनिष्टनिवर्तकम्. त्रैलोक्ये तादृशः कश्चिन्न जातो न जनिष्यते इति । इन्द वचनम् वाचनिकमाऩ त्रैकालिकसमनिषेधपरम्. 
 </details>
@@ -251,7 +251,7 @@ We know Him to be Iśvara.
 He is the Father, the Creator." 
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 राजाधिराजस्सर्वेषां – राजानः – ब्रह्मादयः, तेषामप्यधिराजः – अधिकराजः ।
 ब्रह्ममयो महान् – ब्रह्ममयः – परब्रह्मभूतः । स्वार्थे मयट् ।
@@ -272,7 +272,7 @@ He is the Father, the Creator."
 इत्यादिभिर् बहुधा प्रतिपादयामासुः ॥
 </details>
 
-<details><summary>सारबोधिनी</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
 पलबडियुम् सॊऩ्ऩार्गळिति ।  
 कालत्रयत्तिलुमवनुक्कधिकरिल्लै यॆऩ्ऱुम्, देवर्गळिले ऒरुवनुमवनुक्कु अधिकरिल्लै यॆऩ्ऱुम्, अवनुक्कुमेल् मङ्गळमुम् पावनमुमिल्लैयॆऩ्ऱुम्, कालत्रयत्तिलुमवनुक्कु समनिल्लैयॆऩ्ऱुम्, राजाधिराजत्वेन निस्समाभ्यधिकनॆऩ्ऱुम् इप्पडिये पलबडिगळिलुम् सॊऩ्ऩार्गळॆऩ्ऱबडि.  
