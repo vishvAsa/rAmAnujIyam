@@ -27959,7 +27959,7 @@ Así también los significados de la oración o oraciones **se reflejan** de muc
 
 
 
-### उपाय-पर-वाक्यम्
+### नमस्कारोपाय-वाक्यम् (१)
 <details><summary>English</summary>
 
 ONE SENTENCE, INDICATING UPĀYA.
@@ -28048,7 +28048,7 @@ cuya naturaleza **es** tal que **puede determinarse** a partir del praṇava (au
 #### प्रणव-विशेषणता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप् प्रणवन् दाऩे नामम् आगवऱ्ऱ् आय् निऱ्क 
+इप् प्रणवन् दाऩे नामम् आगव् अऱ्ऱ्+++(=अलम्)+++ आय् निऱ्क 
 </details>
 
 <details><summary>English</summary>
@@ -28183,7 +28183,7 @@ cuando **se considera** a la luz de la **interpretación** burda **descrita** en
 </details>
 
 
-
+#### स्वरूप-पुरुषार्थ-ज्ञाने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिय् आऩालुम्  
@@ -28219,7 +28219,7 @@ también **están implícitos** en él
 
 
 
-### कैङ्कर्य-पर-वाक्यम्
+### कैङ्कर्य-पर-वाक्यम् (२)
 
 <details><summary>English</summary>
 
@@ -28380,7 +28380,7 @@ cuando **pueden realizar** la felicidad (de ese **servicio** al Señor).
 </details>
 
 
-### स्वरूप-पर-वाक्ये
+### स्वरूप-पर-वाक्ये (३)
 
 <details><summary>English</summary>
 
@@ -28497,14 +28497,18 @@ y (**Yo soy** el śeṣa) de ningún otro.
 नाऩ् निरुपाधिकानन्यार्हशेषभूतऩ्; 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+निरुपाधिकानन्यार्हशेषभूतऩ् ऎऩ्ऩुमळवुम् प्रथमवाक्यार्थम्। 
+</details>
 
 
+#### नमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ऎऩक्क् उरियेऩ् अल्लेऩ्, 
 </details>
 
-#### नमः
 <details><summary>English</summary>
 
 > (b) I do not belong to myself, 
@@ -28519,6 +28523,12 @@ y (**Yo soy** el śeṣa) de ningún otro.
 
 ऎऩक्कुरियेऩल्लेऩ्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+’’ऎऩक्कुरियेऩल्लेऩ्’’ इत्यादि द्वितीयवाक्यार्थम्। नाऩ् ऎऩक्कुरियेऩल्लेऩ् ऎऩ्बदाल् अहङ्कारनिवृत्तिः । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28539,6 +28549,12 @@ y (**Yo soy** el śeṣa) de ningún otro.
 
 ऒऩ्ऱैप्पऱ्ऱ निरुपाधिकस्वामियुमल्लेऩ्;
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ऒऩ्ऱैप् पऱ्ऱ निरुपाधिकस्वामियुमल्लेऩ् ऎऩ्बदाल् ममकारनिवृत्तिः । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28562,6 +28578,10 @@ y (**Yo soy** el śeṣa) de ningún otro.
 निरपेक्षस्वतन्त्रऩुमल्लेऩॆऩ्ऱदाम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+निरपेक्षस्वतन्त्रऩुमल्लेऩ् ऎऩ्बदाल् स्वातन्त्र्यादि निवृत्तिः । 
+</details>
 
 #### अपुनरुक्तिः
 
@@ -28600,9 +28620,15 @@ La **respuesta es** (como **sigue**):--
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द पक्षत्तिल् ‘अ निषेधे पुमान्विष्णौ’’ ऎऩ्ऱु अकारम् भगवाऩिडत्तिले रूढमागैयालुम्, अप्पडिये नारायणशब्दमुम् भगवति रूढमागैयालुम् ऒऩ्ऱे पोदुमायिरुक्क मऱ्ऱॊऩ्ऱु पुनरुक्तमागादो ऎऩ्ऱु शङ्गिक्किऱार् अकार नारायणशब्दङ्गळिरण्डुमिति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप्-पोदु व्युत्पत्ति-विशेष-सिद्धम् आऩ अर्थ-विशेषत्तै विवक्षित्तु  
+अप्-पोदु +++(एकतरे)+++ व्युत्पत्ति-विशेष-सिद्धम् आऩ अर्थ-विशेषत्तै विवक्षित्तु  
 ऒऩ्ऱु विशेषणम् आगक् कडवदु। 
 </details>
 
@@ -28625,49 +28651,1081 @@ con el propósito de **indicar** las cualidades especiales (como **protectoridad
 अप्पोदु व्युत्पत्तिविशेषसिद्धमाऩ अर्थविशेषत्तै विवक्षित्तु ऒऩ्ऱु विशेषणमागक् कडवदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परिहरिक्किऱार् अप्पोदु इति ।  
+व्युत्पत्ति-विशेष-सिद्धम् आऩ अर्थ-विशेषत्तै विवक्षित्तु  
+ऒऩ्ऱु विशेषणम् आगक् कडवदु इति ।  
+नारायण-शब्दत्तै रूढम् आगक् कॊण्डु  
+अव रक्षणे ऎऩ्गिऱ धातुविल् निष्पन्नम् आऩ अकारत्तै यौगिकमाक्कि  
+"रक्षकऩ् आऩ नारायणऩिऩ् पॊरुट्टु" ऎऩ्ऱु अन्वयित्तालुम्  
+"अ निषेधे पुमान्विष्णौ" ऎऩ्गिऱबडि अकारत्तै विष्णुविल् रूढमागक्कॊण्डु "नाराणाम् अयनम्" ऎऩ्गिऱ व्युत्पत्तियाले  
+नारायणशब्दत्तै यौगिकमाक्कि  
+"सर्वाधारऩाऩ विष्णुविऩ् पॊरुट्टु" ऎऩ्ऱु अन्वयित्तालुम् एकार्थकमल्लामैयाले पौनरुक्त्यमिल्लैयॆऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> अ-कार-वाच्यऩ् आऩ नारायणऩुक्क्  
+> +++(व्युत्पत्तिम् अनाश्रित्यैव)+++ अ-कार-वाच्यऩ् आऩ नारायणऩुक्क्  
 
 ऎऩ्ऱुम् पुनर्-उक्ति परिहरिक्कलाम्। 
 </details>
 
-<details><summary>मूलम्</summary>
-
-अकारवाच्यऩाऩ नारायणऩुक्कॆऩ्ऱुम् पुनरुक्तिपरिहरिक्कलाम्। 
-</details>
-
-
+<details><summary>English</summary>
 
 The redundancy would also **cease**  
 if **we construe** the sentence into 
 
 > "(I am the śeṣa) of Nārāyaṇa  
 who is denoted by the letter a in (aum)". 
+</details>
 
-Do we not see the word 'Bhagavān', which is His name, **being** employed in apposition or grammatical co-ordination (sāmānādhikaraṇya)) with the word · Vāsudeva! (in the Vāsudeva mantra )? There is no redundance, as the word Nārāyaṇa serves a purpose, **being** used for removing all doubts as to which deity is the ultimate universal cause denoted by the letter which is the origin of all letters (namely a ). The order of words in a sentence is dependent on the ways in which they are recited (according to tradition); but the construction or syntactical con. nection of the words is in accordance with the meaning.
+<details><summary>Español</summary>
 
-When thus taken as two sentences, the whole of the Tirumantra is descriptive of the essential nature (svarūpa) of the jīva. In the light of this coustruction, namely, that of describing the essential nature, the ancients used to say: "Be born in Tiru. mantra, grow up in Dvaya and stand firm in Dvaya alone". ** Birth' is due to the birth of a knowledge of one's essential nature and the disappearance of the state which preceded it. This may be seen (from the verse): “Before I had a knowledge of my essential nature, I was like one unborn. After attaining that knowledge, I was born and I do not forget this". That is acknowledging, of one's own accord, that one is the śeṣa of no one other than Bhagavān, that one is not subject to the will of any one other than Bhagavān that, consequently, one has no other interests than **being** śeṣa to Him and that one has no other saviour than He. "Growth' means the adoption of the upāya resulting from a knowledge of a particular thing that has to be performed as **being** suited to one's competency. "To stand firm in Dvaya alone" means to become well-established in this upāya and in the (know. ledge of the) fruit arising from it, without associating oneself with any other upāya and without any other end in view. Thus Tiru mantra and Dvaya combined together reveal the svarūpa, the upāya and the end for which the upāya is adopted.
+El **despido** también **cesaría**  
+Si **interpretamos** la oración en 
+
+> "(Yo **soy** el śeṣa) de Nārāyaṇa  
+que **se denota** con la letra a en (aum)". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अकारवाच्यऩाऩ नारायणऩुक्कॆऩ्ऱुम् पुनरुक्तिपरिहरिक्कलाम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परिहारान्तरम् अरुळिच्चॆय्गिऱार् - अकारवाच्यऩाऩ इति ।  
+इङ्गु अकार-वाच्यत्वम् विशेषणताऽवच्छेदकम् आगैयालुम्  
+नारायणत्वम् विशेष्यताऽवच्छेदकम् आगैयालुम्  
+पौनरुक्त्यमिल्लै यॆऩ्ऱु करुत्तु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवच्-छब्दमुम् नाम-धेयम् आय् इरुक्क  
+वासु-देवादि-शब्दत्तोडे समानाधिकरणम् आगा निऩ्ऱद् इऱे।
+</details>
+
+<details><summary>English</summary>
+
+**Do we not see** the word 'Bhagavān', which is His name, **being employed** in apposition or grammatical co-ordination (sāmānādhikaraṇya)  
+with the word Vāsudeva (in the Vāsudeva mantra )?  
+</details>
+
+<details><summary>Español</summary>
+
+**¿No vemos** la palabra 'Bhagavān', que es Su nombre, **siendo empleada** en la aposición o coordinación gramatical (sāmānādhikaraṇya)  
+con la palabra Vāsudeva (en el mantra Vāsudeva )?  
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवच्छब्दमुम् नामधेयमायिरुक्क वासुदेवादिशब्दत्तोडे समानाधिकरणमागानिऩ्ऱदिऱे।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्व-बीजाक्षर-वाच्यम् आऩ सर्व-कारणम् देवतान्तरमोव् 
+
+ऎऩ्ऱु शङ्कियाद बडि  
+नारायणऩ् ऎऩ्ऱु  
+विशेषिक्कैयालुम् स-प्रयोजनम्।
+</details>
+
+<details><summary>English</summary>
+
+**There is no redundance**,  
+as the word Nārāyaṇa **serves** a purpose,  
+**being used** for **removing** all doubts as to which deity **is** the ultimate universal cause  
+**denoted** by the letter  
+which **is** the origin of all letters (namely "a" ). 
+</details>
+
+<details><summary>Español</summary>
+
+**No hay redundancia**,  
+como la palabra Nārāyaṇa **sirve** a un propósito,  
+**siendo usado** para **eliminar** todas las dudas sobre  
+qué deidad **es** la causa universal última  
+**denotado** por la letra  
+que **es** el origen de todas las letras (a saber, "a"). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वबीजाक्षरवाच्यमाऩ सर्वकारणम् देवतान्तरमोवॆऩ्ऱु शङ्कियातबडि नारायणऩॆऩ्ऱु विशेषिक्कैयालुम् सप्रयोजनम्।
+</details>
+
+#### पद-क्रमः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्त्रङ्गळुक्कु पद-क्रमम् अध्ययन-नियतम्।
+</details>
+
+<details><summary>English</summary>
+
+The order of words in a sentence is dependent on the ways in which they are recited (according to tradition); 
+</details>
+
+<details><summary>Español</summary>
+
+El orden de las palabras en una oración  
+**depende** de las formas en que **se recitan** (**según** la tradición); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मन्त्रङ्गळुक्कु पदक्रमम् अध्ययननियतम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्वयम् अर्थानुगुणम् आगक् कडवदु। 
+</details>
+
+<details><summary>English</summary>
+
+but the **construction** or syntactical connection of the words **is** in accordance with the meaning.
+</details>
+
+<details><summary>Español</summary>
+
+pero la **construcción** o conexión sintáctica de las palabras **está** de acuerdo con el significado.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्वयमर्थानुगुणमागक् कडवदु। 
+</details>
+
+#### स्वरूपे निष्ठा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि वाक्य-द्वयम् आऩाल्  
+तिरु-मन्त्रम् मुऴुक्क+++(=आहत्य)+++ स्व-रूप--परम्।
+</details>
+
+<details><summary>English</summary>
+
+When thus **taken** as two sentences,  
+the whole of the Tirumantra **is descriptive** of the essential nature (svarūpa) of the jīva. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando así **tomado** como dos oraciones,  
+todo el Tirumantra **es descriptivo** de la naturaleza esencial (svarūpa) del jīva. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि वाक्यद्वयमाऩाल् तिरुमन्त्रम् मुऴुक्कस्वरूपपरम्।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द स्व-रूप-पर--योजऩैयैप् पऱ्ऱ  
+तिरु-मन्त्रत्तिले पिऱन्दु  
+द्वयत्तिले वळर्न्दु  
+"द्वयैकनिष्ठऩ् आवाय्" ऎऩ्ऱु पूर्वर्गळ् अरुळिच् चॆय्दार्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+In the light of this **coustruction**,  
+namely, that of describing the essential nature,  
+the ancients used to say: 
+
+> "**Be born** in Tiru mantra,  
+**grow up** in Dvaya  
+and **stand firm** in Dvaya alone". 
+</details>
+
+<details><summary>Español</summary>
+
+A la luz de esta **construcción**,  
+a saber, la de **describir** la naturaleza esencial,  
+Los antiguos **solían decir**: 
+
+> "**Nacer** en el mantra Tiru,  
+**crecer** en Dvaya  
+y **mantente firme** solo en Dvaya". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द स्वरूपपर योजऩैयैप्पऱ्ऱ तिरुमन्त्रत्तिले पिऱन्दु द्वयत्तिले वळर्न्दु द्वयैकनिष्ठऩावायॆऩ्ऱु पूर्वर्गळरुळिच्चॆय्दार्गळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पिऱक्कैय् आवदु -  
+स्व-रूप--ज्ञानम् **पिऱक्कैयाले** 
+
+> ’’अऩ्ऱु नाऩ् पिऱन्द्-इलेऩ्  
+पिऱन्द पिऩ् मऱन्द्-इलेऩ्’’  
+(तिरुच्-छन्द-विरुत्तम् ६४) 
+
+ऎऩ्गिऱ मुऩ्ब् उऱ्ऱ निलै **कऴिगै**। 
+</details>
+
+
+<details><summary>English</summary>
+
+**'Birth' is** due to the **birth** of a knowledge of one's essential nature  
+and the **disappearance** of the state which **preceded** it.  
+This **may be seen** (from the verse): 
+
+> “Before I **had** a **knowledge** of my essential nature,  
+I **was** like one **unborn**.  
+After **attaining** that knowledge,  
+**I was born**  
+and I **do not forget** this". 
+</details>
+
+<details><summary>Español</summary>
+
+**'Nacimiento' es** debido al **nacimiento** de un conocimiento de la naturaleza esencial de uno  
+y la **desaparición** del estado que **lo precedió**.  
+Esto **se puede ver** (del versículo): 
+
+> "Antes de **tener** un **conocimiento** de mi naturaleza esencial,  
+Yo **era** como un **no nacido**.  
+Después de **alcanzar** ese **conocimiento**,  
+**Nací**  
+y **no olvido** esto". 
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+पिऱक्कैयावदु - स्वरूपज्ञानम् पिऱक्कैयाले ’’अऩ्ऱु नाऩ् पिऱन् दिलेऩ् पिऱन्द पिऩ् मऱन्दिले’’(तिरुच्-छन्दविरुत्तम् ६४) ऩॆऩ्गिऱ मुऩ्बुऱ्ऱ निलै कऴिगै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद् आवदु  
+तऩ्ऩ् इसैवालुम् अन्-अन्य-शेषऩ् आय्,  
+अद्-अडिय् आग अन्-अन्याधीनऩ् आय्,  
+अद्-अडिय् आग अन्-अन्य-प्रयोजनऩ् आय्,  
+अनन्य-शरणऩ् आगै।
+</details>
+
+<details><summary>English</summary>
+
+That **is acknowledging**, of one's own accord,  
+that one **is** the śeṣa of no one other than Bhagavān,  
+that one **is not subject** to the **will** of any one other than Bhagavān,  
+that, consequently, one **has no** other interests  
+than **being** śeṣa to Him  
+and that one **has no** other **saviour** than He. 
+</details>
+
+<details><summary>Español</summary>
+
+Que **es reconocer**, por su propia **voluntad**,  
+que uno **es** el śeṣa de nadie más que Bhagavān,  
+que uno **no está sujeto** a la **voluntad** de nadie que **no sea** Bhagavān,  
+que, en **consecuencia**, uno **no tiene** otros intereses  
+que **ser** śeṣa para Él,  
+y ese **no tiene** otro **salvador** que Él. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदावदु तऩ्ऩिसैवालुम् अनन्यशेषऩाय्, अदडियाग अनन्याधीनऩाय्, अदडियाग अनन्यप्रयोजनऩाय्, अनन्यशरणऩागै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"वळरुगैय्" आवदु;  
+अधिकार-विशेषानुरूप-- कर्तव्य-विशेष-विषय-ज्ञान-विशेषत्ताले उपाय-परिग्रहम् पण्णुगै।
+</details>
+
+<details><summary>English</summary>
+
+**"Growth" means** the **adoption** of the upāya  
+**resulting** from a **knowledge** of a particular thing that **has to be performed**  
+as **being suited** to one's competency. 
+</details>
+
+<details><summary>Español</summary>
+
+**"Crecimiento" significa** la **adopción** del upāya  
+**resultante** de un **conocimiento** de una cosa particular que **tiene que realizarse**  
+como **ser adecuado** a la propia competencia. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+वळरुगैयावदु; अधिकारविशेषानुरूप कर्तव्यविशेष विषयज्ञानविशेषत्ताले उपायपरिग्रहम् पण्णुगै।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"द्वैयैक-निष्ठऩ् आगैय्" आवदु;  
+द्वयानुसन्धानत्ताले उपायान्तरत्तिलुम्  
+प्रयोजनान्तरत्तिलुन् तुवक्क् अऱ  
+इदिऱ् सॊऩ्ऩ उपायत्तिलुम्  
+प्रयोजनत्तिलुम् प्रतिष्ठितऩ् आगै।
+</details>
+
+<details><summary>English</summary>
+
+"**To stand firm** in Dvaya alone" **means**  
+**to become well-established** in this upāya  
+and in the (**knowledge** of the) fruit arising from it,  
+**without associating** oneself with any other upāya  
+and **without** any other end in view. 
+</details>
+
+<details><summary>Español</summary>
+
+"**Mantenerse firme** solo en Dvaya" **significa**  
+**para llegar a estar bien establecido** en este upāya  
+y en el fruto que de él **se deriva**,  
+**sin asociarse** con ningún otro upāya  
+y **sin** ningún otro fin a la vista. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्वैयैक निष्ठऩागैयावदु; द्वयानुसन्धानत्ताले उपायान्तरत्तिलुम् प्रयोजनान्तरत्तिलुन् दुवक्कऱ इदिऱ्सॊऩ्ऩ उपायत्तिलुम् प्रयोजनत्तिलुम् प्रतिष्ठितऩागै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि तिरु-मन्त्रमुम् द्वयमुङ् कूड  
+स्वरूपोपाय-पुरुषार्थङ्गळैक् काट्टुगिऱऩ।
+</details>
+
+<details><summary>English</summary>
+
+Thus Tiru mantra and Dvaya **combined** together  
+**reveal** the svarūpa, the upāya and the end for which the upāya **is adopted**.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, el mantra Tiru y Dvaya **combinados** juntos  
+**revelar** el svarūpa, el upāya y el fin para el cual el upāya **es adoptado**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि तिरुमन्त्रमुम् द्वयमुङ्गूड स्वरूपोपायपुरुषार्थङ्गळैक् काट्टुगिऱऩ।
+</details>
+
+
+### आत्म-समर्पण--पर-वाक्ये (४)
+
+<details><summary>English</summary>
 
 TWO SENTENCES INDICATING THE UPĀYA :
+</details>
 
-(4) In this construction of Tirumantra into two sentences, some consider that the whole of Tirumantra has, for its purport, the surrender of the self with its accessories. In that case, the m in praṇava should be considered to be in the nominative or first case. By the principle of the offering of the havis (or oblation), Tirumantra would then mean "This unconditional oflering, namely, the self or soul is surrendered to Nārāyaṇa who is denoted by the letter a as His responsibility and who is the deity subject to no conditions or limiting factors (upādhi). In this unconditional sacrifice of the self, the word namas (na mama) would come to mean that one dissociates oneself from oneself and says, " The burden of my protection is not mine." As when (an offering is made) with the words: “This is for Indra and not mine", here also, the two sentences are essential; one to express the connection (of the offering) with the Supreme Being and the denial of its connection with oneself. Also in this surrender with the words namas (na mama), the purport may also extend to the denial of one's **being** an agent or doer absolutely independeat of the Supreme Being. The two sentences may also be considered to suggest the meaning; "The burden of my protection is of no other (than Bhagavān) nor is it my own".
+<details><summary>Español</summary>
 
-That Tirumantra has, for its purport, the offering or surrender of the self was stated in the Nitya as follows :- "After offering the self to the deity with the mūlamantra etc" This idea is shown also in Śrī Vaikuṇṭha Gadya as follows: "Praying that Bhagavān should accept one for eternal service to Himself alone, one should prostrate oneself and offer the soul to Bhagavān with the utterance of the sacred mūlamantra",
+DOS ORACIONES QUE **INDICAN** EL UPĀYA:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इरण्डु वाक्यम् आऩ योजऩै तऩ्ऩिले  
+तिरु-मन्त्रम् मुऴुक्क+++(=आहत्य)+++ स-परिकरात्म-समर्पण-परम् ऎऩ्ऱुम् अनुसन्धिप्पार्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+(4) In this **construction** of Tirumantra into two sentences,  
+some **consider** that the whole of Tirumantra **has**, for its purport,  
+the **surrender** of the self with its accessories. 
+</details>
+
+<details><summary>Español</summary>
+
+(4) En esta **construcción** de Tirumantra en dos oraciones,  
+algunos **consideran** que todo el Tirumantra **tiene**, por su significado,  
+la **entrega** del yo con sus accesorios. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्विरण्डु वाक्यमाऩ योजऩै तऩ्ऩिले तिरुमन्त्रम् मुऴुक्क सपरिकरात्म समर्पणपरमॆऩ्ऱुमनुसन्धिप्पार्गळ्। 
+</details>
+
+#### ओं नारायणाय
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदु प्रणवत्तिल् म-कारम्  
+प्रथमान्तमेय् आगव् अमैयुम् हविस्-समर्पण-न्यायत्ताले … 
+</details>
+
+<details><summary>English</summary>
+
+In that case, the "m" in praṇava **should be considered** to be in the nominative or first case.  
+By the principle of the **offering** of the havis (or **oblation**),  
+</details>
+
+<details><summary>Español</summary>
+
+En ese caso, la "m" en praṇava **debe considerarse** como nominativo o primer caso.  
+Por el principio de la **ofrenda** de los havis (u **oblación**),  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पोदु प्रणवत्तिल् मकारम् प्रथमान्त-मेयागवमैयुम् हविस्समर्पणन्यायत्ताले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निरुपाधिकम् आऩव् आत्म-हविस्सु  
+निरुपाधिक-देवतैय् आय् अ-कार-वाच्यऩ् आऩ नारायणऩुक्के  
+भरम् आग समर्पितम् 
+
+ऎऩ्ऱद् आयिऱ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+Tirumantra **would** then **mean** 
+
+> "This **unconditional offering**, namely, the self or soul  
+**is surrendered** to Nārāyaṇa  
+who is denoted by the letter "a"  
+as His **responsibility**  
+and who **is** the deity  
+**subject to** no conditions or limiting factors (upādhi). 
+</details>
+
+<details><summary>Español</summary>
+
+Tirumantra **sería** entonces **significa** 
+
+> "Esta **ofrenda incondicional**, es decir, el yo o el alma  
+**se rinde** a Nārāyaṇa  
+que **se denota** con la letra "a"  
+como Su **responsabilidad**  
+y quién **es** la deidad  
+**sujeto a** ninguna condición o factor limitante (upādhi). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निरुपाधिकमाऩवात्महविस्सुनिरुपाधिकदेवतैयाय् अकारवाच्यऩाऩ नारायणऩुक्के भरमाग समर्पितमॆऩ्ऱतायिऱ्ऱु।
+</details>
+
+#### नमः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि निरुपाधिकम् आऩव् आत्म-यागत्तिल्  
+‘‘नमः’’ ऎऩ्ऱु तऩ्ऩोडु तऩ् तुवक्क्-अऱुत्तु  
+"ऎऩक्कु भरम् अल्लेऩ्" ऎऩ्ऱद् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+In this **unconditional sacrifice** of the self,  
+the word namas (na mama) **would come to mean** that  
+one **dissociates** oneself from oneself  
+and **says**, 
+
+> " The burden of my **protection is not** mine."  
+
+</details>
+
+<details><summary>Español</summary>
+
+En este **sacrificio incondicional** del yo,  
+La palabra namas (na mama) **vendría a significar** que  
+uno **se disocia** de sí mismo  
+y **dice**, 
+
+> "La carga de mi **protección no es** mía".  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि निरुपाधिकमाऩ वात्मयागत्तिल् ‘‘नमः’’ ऎऩ्ऱु तऩ्ऩोडु तऩ् तुवक्कऱुत्तु ऎऩक्कु भरमल्लेऩॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+#### वाक्य-द्वय-सप्रयोजनता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘इदम् इन्द्राय, न मम’’ 
+
+ऎऩ्ऩुमाप् पोले 
+</details>
+
+<details><summary>English</summary>
+
+As when (an **offering is made**) with the words:  
+
+> “This is for Indra  
+and not mine", 
+</details>
+
+<details><summary>Español</summary>
+
+Como cuando (se **hace una ofrenda**) con las palabras:  
+
+> "Esto **es** para Indra  
+y no la mía", 
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+‘‘इदमिन्द्राय न मम’’ ऎऩ्ऩुमाप्पोले 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गुम् पर-सम्बन्ध-विधियिलुम्  
+स्व-सम्बन्ध-निषेधत्तिलुम् प्रवृत्तम् आगैयाले  
+वाक्य-द्वयमुम् स-प्रयोजनम्। 
+</details>
+
+<details><summary>English</summary>
+
+here also,  
+the two sentences **are** essential;  
+one **to express** the **connection** (of the offering) with the Supreme Being  
+and the **denial** of its **connection** with oneself. 
+</details>
+
+<details><summary>Español</summary>
+
+aquí también,  
+las dos oraciones **son** esenciales;  
+uno **para expresar** la **conexión** (de la ofrenda) con el Ser Supremo  
+y la **negación** de su **conexión** con uno mismo. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गुम् परसम्बन्धविधियिलुम् स्वसम्बन्धनिषेधत्तिलुम् प्रवृत्तमागैयाले वाक्यद्वयमुम् सप्रयोजनम्। 
+</details>
+
+#### नमसा स्वातन्त्र्य-निषेधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन् नमस्सु समर्पणन्-तऩ्ऩिलुम्  
+पर-निर्-अपेक्ष-कर्तृत्वादिगळै निषेधिक्कैयिले  
+तत्-परम् आगवुम् आम्।
+</details>
+
+<details><summary>English</summary>
+
+Also in this **surrender** with the words namas (na mama),  
+the **purport** may also **extend** to the **denial** of one's **being** an agent or **doer**  
+absolutely independent of the Supreme Being. 
+</details>
+
+<details><summary>Español</summary>
+
+También en esta **rendición** con las palabras namas (na mama),  
+El **significado** también puede **extenderse** a la **negación** de que uno **sea** un agente o **hacedor**  
+absolutamente independiente del Ser Supremo. 
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+इन् नमस्सु समर्पणन्दऩ्ऩिलुम् परनिरपेक्षकर्तृत्वादिगळै निषेधिक्कैयिले तत्परमागवुमाम्।
+</details>
+
+#### परेषाम् अपि न भरः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वेऱ्-ऒरुत्तरुक्कुम् भरम् अऩ्ऱु  
+ऎऩक्कुम् भरम् अऩ्ऱु 
+
+ऎऩ्ऱु वाक्य-द्वयाभिप्रायम् आगवुमाम्। 
+</details>
+
+<details><summary>English</summary>
+
+The two sentences **may also be considered to suggest** the meaning -
+
+> "The burden of my **protection** is of no other (than Bhagavān)  
+nor **is** it my own".
+</details>
+
+<details><summary>Español</summary>
+
+También **se puede considerar** que las dos oraciones **sugieren** el significado:
+
+> "La carga de mi **protección** no es de otra (que Bhagavān)  
+ni **es** mío".
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+वेऱॊरुत्तरुक्कुम् भरमऩ्ऱु ऎऩक्कुम् भरमऩ्ऱु ऎऩ्ऱु वाक्यद्वयाभिप्रायमागवुमाम्। 
+</details>
+
+#### रामानुजोक्ती
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तिरु-मन्त्रम् आत्म-निवेदन-परम् 
+
+ऎऩ्ऩुम् इडत्तै 
+</details>
+
+<details><summary>English</summary>
+
+That Tirumantra **has**, for its purport, the **offering** or **surrender** of the self  
+</details>
+
+<details><summary>Español</summary>
+
+Ese Tirumantra **tiene**, como su propósito, la **ofrenda** o **entrega** del yo  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तिरुमन्त्रमात्मनिवेदनपरमॆऩ्ऩुमिडत्तै 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्यत्तिले 
+
+> ‘‘मूल-मन्त्रेण स्वात्मानं देवाय निवेद्य’’(नित्यम्) 
+
+ऎऩ्ऱ् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘मूल-मन्त्रेण स्वात्मानं देवाय निवेद्य’’(नित्यम्) 
+</details>
+
+
+<details><summary>English</summary>
+
+**was stated** in the Nitya as follows :- 
+
+> "After **offering** the self to the deity with the mūlamantra etc" 
+</details>
+
+<details><summary>Español</summary>
+
+**se declaró** en el Nitya de la **siguiente** manera: 
+
+> "Después de **ofrecer** el yo a la deidad con el mūlamantra, etc." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नित्यत्तिले ‘‘मूलमन्त्रेण स्वात्मानं देवाय निवेद्य’’(नित्यम्) ऎऩ्ऱरुळिच्चॆय्दार्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि श्री-वैकुण्ठ-गद्यत्तिलुम् 
+
+> ‘‘श्रीमता मूल-मन्त्रेण  
+माम् ऐकान्तिकात्यन्तिक-परिचर्या-करणाय परिगृह्णीष्वेति याचमानः  
+प्रणम्यात्मानं भगवते निवेदयेत्’’  
+(वैकुण्ठ-गद्यम्) 
+
+ऎऩ्ऱ् इव्व्-अर्थम् दर्शितम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘श्रीमता मूल-मन्त्रेण  
+माम् ऐकान्तिकात्यन्तिक-परिचर्या-करणाय परिगृह्णीष्वेति याचमानः  
+प्रणम्यात्मानं भगवते निवेदयेत्’’  
+(वैकुण्ठ-गद्यम्) 
+
+</details>
+
+<details><summary>English</summary>
+
+This idea **is shown** also in Śrī Vaikuṇṭha Gadya as **follows**: 
+
+> "**Praying** that Bhagavān **should accept** one for eternal **service** to Himself alone,  
+one **should prostrate** oneself  
+and **offer** the soul to Bhagavān  
+with the **utterance** of the sacred mūlamantra",
+</details>
+
+<details><summary>Español</summary>
+
+Esta idea **se muestra** también en Śrī Vaikuṇṭha Gadya como **sigue**: 
+
+> "**Orando** para que  
+Bhagavān **acepte** a uno para el **servicio** eterno a Sí mismo solo,  
+uno **debe postrarse**  
+y **ofrecer** el alma a Bhagavān  
+con la **expresión** del sagrado mūlamantra",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि श्रीवैकुण्ठगद्यत्तिलुम् ‘‘श्रीमता मूलमन्त्रेण मामैकान्तिकात्यन्तिकपरिचर्याकरणाय परिगृह्णीष्वेति याचमानःप्रणम्यात्मानं भगवते निवेदयेत्’’(वैकुण्ठ-गद्यम्) ऎऩ्ऱिव्वर्थम् दर्शितम्।
+</details>
+
+
+### कैङ्कर्य-प्रार्थना-पर-वाक्ये (५)
+
+<details><summary>English</summary>
 
 TWO SENTENCES INDICATING PURUṢĀRTHA:
+</details>
 
-(5) In each of the two sentences, some understand a word (like syām) meaning 'I pray that etc' or 'May I' etc. (In that case the first sentence would be aum Nārāyaṇāya syām, and the second na mama syām), and their meanings would be:
+<details><summary>Español</summary>
 
-“May I render service to Nārāyaṇa denoted by the letter a! May there be no hindrances to this!" Tirumantra, as a whole, would then be a prayer for the attainment of what is desired and the removal of all undesirable things and this is considered the supreme end. In that case the reflection on one's svarūpa is implicit in it. Similarly even when the Tirumantra is considered to have, for its purport, only the indication of one's svarūpa, (as in the third meaning) it would, by suggestion or implication, indicate the specific end to be attained. The upāya and the prayer would then be known from the respective pramāṇas which ordain prapatti.
+DOS ORACIONES QUE **INDICAN** PURUṢĀRTHA:
+</details>
 
-It is often said that Tirumantra has, for its purport, the knowledge of svarūpa, of upāya and of puruṣārtha, because a knowledge of these which did not exist before is acquired from it. The knowledge of these is prāpya (to be acquired) and the Tirumantra from which this knowledge arises may therefore be said to be prāpyapara (i.e.) to have, for its purport, the knowledge of these three. But the expression prapyapara does not mean that Tirumantra has, for its denotation, this knowledge. It denotes the svarūpa, upāya and puruṣārtha and not the knowledge of these which afterwards arises from it. (For example: the word **cow' denotes the animal called 'cow'; but when the word 'cow' is employed, we got also a knowledge of the cow. From this we should not say that the word 'cow' denotes the knowledge of the cow. It denotes only the cow though, subsequently, the knowledge also arises. To put it in other words, the denotation of the word and the items of knowledge which may arise when the word is employed are two different things. 'Cow' and knowledge of the cow' are two different things.
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाक्यन् तोऱुम्+++(=प्रति)+++  
+ऒरु +++("स्याम्"→)+++ प्रार्थना-पदत्तैय् अध्याहरित्तु  
+तिरु-मन्त्रम् मुऴुक्क+++(=आहत्य)+++  
+द्वयत्तिल् उत्तर-खण्डम् बोले  
+इष्ट-प्राप्त्य्--अनिष्ट-निवृत्ति-रूप-- पुरुषार्थ-प्रार्थना-परम् आगवुम् अनुसन्धिप्पार्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+(5) In each of the two sentences,  
+some **understand** a word (like syām) **meaning**  
+'**I pray** that etc.'  
+or 'May I' etc.  
+
+(In that case the first sentence **would be** "aum Nārāyaṇāya syām", and the second "na mama syām"),  
+
+and their meanings **would be**:
+
+> “**May I render service** to Nārāyaṇa  
+**denoted** by the letter "a"!  
+**May there be no hindrances** to this!" 
+
+Tirumantra, as a whole, **would then be** a **prayer**  
+for the **attainment** of what **is desired**  
+and the **removal** of all **undesirable** things  
+and this **is considered** the supreme end.  
+</details>
+
+<details><summary>Español</summary>
+
+(5) En cada una de las dos oraciones,  
+Algunos **entienden** una palabra (como syām) **significado**  
+'**Rezo** eso, etc.'  
+o '**Puedo**', etc.  
+
+(En ese caso, la primera oración **sería** "aum Nārāyaṇāya syām", y la segunda "na mama syām"),  
+
+y sus significados **serían**:
+
+> "**Que pueda rendir servicio** a Nārāyaṇa  
+**denotado** por la letra "a"!  
+**¡Que no haya obstáculos** para esto!" 
+
+Tirumantra, en su conjunto, **sería** una **oración**  
+para el **logro** de lo **que se desea**  
+y la **eliminación** de todas las cosas **indeseables**  
+y esto **se considera** el fin supremo.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वाक्यन्दोऱुम् ऒरु प्रार्थनापदत्तैयध्याहरित्तु तिरुमन्त्रम् मुऴुक्क द्वयत्तिलुत्तरखण्डम्बोले इष्टप्राप्त्यनिष्टनिवृत्तिरूप पुरुषार्थप्रार्थनापरमागवुमनुसन्धिप्पार्गळ्।
+</details>
+
+### वाक्य-द्वय-पक्षे परस्-पर-सूचना
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदुम् स्व-रूपानुसन्धानम् इदिलेय् अन्तर्गतम्। 
+</details>
+
+<details><summary>English</summary>
+
+In that case, the **reflection** on one's svarūpa **is implicit** in it. 
+</details>
+
+<details><summary>Español</summary>
+
+En ese caso, el **reflejo** en el svarūpa de uno **está implícito** en él. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्पोदुम् स्वरूपानुसन्धानमिदिले यन्तर्गतम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वरूप-मात्र-परम् आऩ बोदुम्  
+पुरुषार्थ-विशेषम् सूचितम्। 
+</details>
+
+<details><summary>English</summary>
+
+Similarly even when the Tirumantra **is considered to have**, for its purport,  
+only the **indication** of one's svarūpa, (as in the third meaning)  
+**it would**, by **suggestion** or **implication**, **indicate** the specific end **to be attained**. 
+</details>
+
+<details><summary>Español</summary>
+
+De manera similar, incluso cuando **se considera** que el Tirumantra **tiene**, por su significado,  
+solo la **indicación** del svarūpa de uno, (como en el tercer significado)  
+**Indicaría**, por **sugerencia** o **implicación**, **indicaría** el fin específico **a alcanzar**. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वरूपमात्रपरमाऩबोदुम् पुरुषार्थविशेषम् सूचितम्। 
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिऩ् उपायमुम्, प्रार्थऩैयुम्, तत्-तत्-प्रमाण-वशत्ताले वरुम्।
+</details>
+
+<details><summary>English</summary>
+
+The upāya and the **prayer would then be known**  
+from the respective pramāṇas which **ordain** prapatti.
+</details>
+
+<details><summary>Español</summary>
+
+Entonces **se conocerían** la upāya y la **oración**  
+de los respectivos pramāṇas que **ordenan** prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिऩुबायमुम् प्रार्थऩैयुम् तत्तत्प्रमाणवशत्ताले वरुम्।
+</details>
+
+### न ज्ञान-मात्र-परम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इम् मन्त्रोत्पाद्यङ्गळ् आऩ शेषत्व-ज्ञानादिगळ्  
+मुऩ्बु प्राप्तङ्गळ् अल्लामैयाले  
+इम् मन्त्रम् मुऴुक्क+++(=आहत्य)+++ प्राप्य-परम्  
+
+ऎऩ्ऱदु +++(ज्ञान-जनक-प्राप्यम्→)+++अन्य-परम् +++(वक्ष्यमाण-रीत्या)+++।
+</details>
+
+<details><summary>English</summary>
+
+It is often **said** that Tirumantra **has**, for its purport, the **knowledge** of svarūpa, of upāya and of puruṣārtha,  
+because a **knowledge** of these which **did not exist** before  
+**is acquired** from it.  
+The **knowledge** of these **is** prāpya (to be acquired) and the Tirumantra from which this **knowledge arises**  
+may therefore **be said to be** prāpya-para  
+(i.e.) **to have**, for its purport, the **knowledge** of these three.  
+But the expression prapya-para **does not mean** that  
+Tirumantra has, **for its denotation**, this **knowledge**. 
+</details>
+
+<details><summary>Español</summary>
+
+A menudo se **dice** que Tirumantra **tiene**, como su significado, el **conocimiento** de svarūpa, de upāya y de puruṣārtha,  
+porque un **conocimiento** de estos que **no existía** antes  
+**se adquiere** de él.  
+El **conocimiento** de estos **es** prāpya (para ser adquirido) y el Tirumantra del cual surge este **conocimiento**  
+por lo tanto, puede **decirse que es** prāpya-para  
+(es decir) **tener**, por su significado, el **conocimiento** de estos tres.  
+Pero la expresión prapya-para **no significa** que  
+Tirumantra tiene, **por su denotación**, este **conocimiento**. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इम् मन्त्रोत्पाद्यङ्गळाऩ शेषत्वज्ञानादिगळ् मुऩ्बुप्राप्तङ्गळल्लामैयाले इम् मन्त्रम् मुऴुक्क प्राप्यपरमॆऩ्ऱदु अन्यपरम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+"प्राप्य-परम्" ऎऩ्ऱदु  
+"प्राप्य-प्रतिपादकम्" ऎऩ्ऱ बडिय् अऩ्ऱु;  
+शब्दत्ताल् उत्पाद्यम् आऩ ज्ञानम्  
+शब्दत्तुक्कु प्रतिपाद्यम् अऩ्ऱ् इऱे। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+It **denotes** the svarūpa, upāya and puruṣārtha  
+and **not** the **knowledge** of these  
+which afterwards **arises** from it.  
+
+(For example: the word 'cow' **denotes** the animal called 'cow';  
+but when the word 'cow' **is employed**,  
+we **got** also a **knowledge** of the cow.  
+From this **we should not say** that  
+the word 'cow' **denotes** the **knowledge** of the cow.  
+It **denotes** only the cow though,  
+subsequently, the **knowledge** also **arises**.  
+To **put** it in other words,  
+the **denotation** of the word  
+and the items of **knowledge** which **may arise** when the word **is employed**  
+**are** two different things.  
+'Cow' and '**knowledge** of the cow' **are** two different things.)
+</details>
+
+<details><summary>Español</summary>
+
+**Denota** el svarūpa, upāya y puruṣārtha  
+y **no** el **conocimiento** de estos  
+que luego **surge** de él.  
+
+(Por ejemplo: la palabra 'vaca' **denota** el animal llamado 'vaca';  
+pero cuando **se emplea** la palabra 'vaca',  
+También **tenemos** un **conocimiento** de la vaca.  
+De esto **no deberíamos decir** que  
+La palabra 'vaca' **denota** el **conocimiento** de la vaca.  
+Sin embargo, **denota** solo la vaca,  
+Posteriormente, el **conocimiento** también **surge**.  
+
+Para **decirlo** en otras palabras,  
+la **denotación** de la palabra  
+y los elementos de **conocimiento** que **pueden surgir** cuando **se emplea** la palabra   
+**son** dos cosas diferentes.  
+'Vaca' y '**conocimiento** de la vaca' **son** dos cosas diferentes).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; प्राप्यपरमॆऩ्ऱदु प्राप्यप्रतिपादकमॆऩ्ऱबडियऩ्ऱु; शब्दत्ताल् उत्पाद्यमाऩ ज्ञानम् शब्दत्तुक्कु प्रतिपाद्यमऩ्ऱिऱे।  
+</details>
+
+
+### वाक्य-त्रयम्
+<details><summary>English</summary>
 
 THREE SENTENCES:
+</details>
 
-When Tirumantra is considered as consisting of three. sentences (there are several ways of understanding the meaning:) (6) & (7) The svarūpa or essential nature (of the jīva) and his supreme goal (puruṣārtha) are stated by the words themselves and the upāya is implicit in the meaning (though not expressed by the words); (8) or the svarūpa and the upāya are stated by the words themselves and the puruṣārtha is implicit in the meaning: (9) or the upāya and the puruṣārtha are stated by the words themselves and the svarūpa is implicit in the meaning (10) or the svarūpa, the upāya and the puruṣārtha ( all the three) are stated (distinctly) by the words themselves.
+<details><summary>Español</summary>
 
-(6) If it be asked how this is, the answer is as follows: The first two words indicate svarūpa and the third word puruṣārtha.
+TRES FRASES:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरु-मन्त्रम् मूऩ्ऱु वाक्यम् आऩ बोदु  
+
+स्वरूपमुम् पुरुषार्थमुञ् जॊल्लव्,  
+उपायम् आर्थम् आदल्,  
+
+स्वरूपमुम् उपायमुञ् जॊल्ल पुरुषार्थम् आर्थम् आदल्,  
+
+उपायमुम् पुरुषार्थमुञ् जॊल्ल  
+स्वरूपम् आर्थम् आदल्,  
+
+स्वरूपोपाय-पुरुषार्थङ्गळ् अडैवे शाब्दङ्गळ् आदल् 
+
+आगक् कडवदु।  
+ऎङ्ङऩेयॆऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+When Tirumantra **is considered as consisting** of three sentences  
+(there **are** several ways of **understanding** the meaning:)  
+
+\- (6) & (7) The svarūpa or essential nature (of the jīva) and his supreme goal (puruṣārtha) **are stated** by the words themselves  
+and the upāya **is implicit** in the meaning  
+(though **not expressed** by the words);  
+
+\- (8) or the svarūpa and the upāya **are stated** by the words themselves  
+and the puruṣārtha **is implicit** in the meaning; 
+
+\- (9) or the upāya and the puruṣārtha **are stated** by the words themselves and the svarūpa **is implicit** in the meaning 
+
+\- (10) or the svarūpa, the upāya and the puruṣārtha ( all the three) **are stated** (distinctly) by the words themselves.
+
+If it be asked how this is, the answer is as follows: 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se considera** que Tirumantra **consta de** tres oraciones  
+(**Hay** varias formas de **entender** el significado:)  
+
+\- (6) & (7) El svarūpa o naturaleza esencial (del jīva) y su meta suprema (puruṣārtha) **están declarados** por las palabras mismas  
+y el upāya **está implícito** en el significado  
+(aunque **no expresado** por las palabras);  
+
+\- (8) o el svarūpa y el upāya **se afirman** por las palabras mismas  
+y el puruṣārtha **está implícito** en el significado; 
+
+\- (9) o el upāya y el puruṣārtha **se afirman** por las palabras mismas  
+y el svarūpa **está implícito** en el significado 
+
+\- (10) o el svarūpa, el upāya y el puruṣārtha (los tres) **se afirman** (distintamente) por las palabras mismas.
+
+Si **se pregunta** cómo es esto, la **respuesta es** la **siguiente**: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तिरुमन्त्रम् मूऩ्ऱु वाक्यमाऩबोदु स्वरूपमुम् पुरुषार्थमुञ्जॊल्लवु पायमार्थमादल्, स्वरूपमुमुपायमुञ्जॊल्ल पुरुषार्थमार्थमादल्, उपायमुम् पुरुषार्थमुञ्जॊल्ल स्वरूपमार्थमादल्, स्वरूपोपायपुरुषार्थङ्गळडैवे शाब्दङ्गळादलागक् कडवदु।  
+ऎङ्ङऩेयॆऩ्ऩिल्; 
+</details>
+
+
+#### स्वरूप-फल-पराणि (६)
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अ-कारार्थायैव स्वम् अहम् अथ, मह्यं न निवहाः+++(=समूहाः)+++,  
+नराणां नित्यानाम् **अयनम्** इति नारायण-पदम् ।  
+यम् **आहास्मै** कालं सकलम् अपि सर्वत्र सकलास्व्  
+अवस्थास्व् **आविः स्युर्** मम सहज-**कैङ्कर्य-विधयः** ॥   
+(अष्टश्लोकी ३)
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अकारार्थायैव स्वमहमथ मह्यन्न निवहा नराणां नित्यानामयनमिति नारायणपदम् । यमाहास्मै कालं सकलमपि सर्वत्र सकलास्ववस्थास्वाविस्स्युर्मम सहजकैङ्कर्यविधयः’’(अष्टश्लोकी ३)
+</details>
+
+
+(6) The first two words indicate svarūpa and the third word puruṣārtha.
 
 As stated in the following śloka : I am the property (śeṣa) na mama of only Bhagavān who is denoted by the letter a; I do not exist for myself : He who is denoted by the word 'Nārāyaṇa', which means the person whose abode or dwelling place is the multitude of the etermal nārās (i.e.) jīvas --- To Him the varied forms of service which I should reader in virtue of my nature should appear (to me) in all places and in all states". (as stated in this śloka ), the praṇava and the namas clarify the svarūpa ; and the third word Nārāyaṇāya with the predicate understood (Namely syām) is a prayer for the attainment of the goal, in view of the idea of existing for Bhagavān expressed (already) by the praṇava. The form of the prayer would be “May I be for Nārāyaṇa!" In this view, the prayer for the removal of hindrances (to śeṣatva) results from the meaning (and not from the words themselves, because the attainment of the puruṣārtha is impossible without the removal of hindrances). As stated in the Dvaya and in such passages as "Thou shalt enjoy thyself on the slopes of the hills in the company of Sītā", since the one to whom service is due has a spouse, the meaning would here also be, “May I be for Nārāyaṇa as well as for Lakṣmī!". If the predicate be needed, a word like bhaveyam (May I be) should be understood. This prayer has indeed been made in such forms as the following:-- “May I render faultless service remaining with Bhagavān constantly in all places and in all states." "Vouchsafe upto me Thy grace so that I may render service to Thee". "I pray for eternal service to Thee" and " I should be Thy eternal servant,"
 
