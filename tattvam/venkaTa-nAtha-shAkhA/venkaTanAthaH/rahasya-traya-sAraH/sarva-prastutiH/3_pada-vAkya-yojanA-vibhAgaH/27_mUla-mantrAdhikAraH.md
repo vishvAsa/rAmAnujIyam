@@ -28497,14 +28497,18 @@ y (**Yo soy** el śeṣa) de ningún otro.
 नाऩ् निरुपाधिकानन्यार्हशेषभूतऩ्; 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+निरुपाधिकानन्यार्हशेषभूतऩ् ऎऩ्ऩुमळवुम् प्रथमवाक्यार्थम्। 
+</details>
 
 
+#### नमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ऎऩक्क् उरियेऩ् अल्लेऩ्, 
 </details>
 
-#### नमः
 <details><summary>English</summary>
 
 > (b) I do not belong to myself, 
@@ -28519,6 +28523,12 @@ y (**Yo soy** el śeṣa) de ningún otro.
 
 ऎऩक्कुरियेऩल्लेऩ्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+’’ऎऩक्कुरियेऩल्लेऩ्’’ इत्यादि द्वितीयवाक्यार्थम्। नाऩ् ऎऩक्कुरियेऩल्लेऩ् ऎऩ्बदाल् अहङ्कारनिवृत्तिः । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28539,6 +28549,12 @@ y (**Yo soy** el śeṣa) de ningún otro.
 
 ऒऩ्ऱैप्पऱ्ऱ निरुपाधिकस्वामियुमल्लेऩ्;
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ऒऩ्ऱैप् पऱ्ऱ निरुपाधिकस्वामियुमल्लेऩ् ऎऩ्बदाल् ममकारनिवृत्तिः । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -28562,6 +28578,10 @@ y (**Yo soy** el śeṣa) de ningún otro.
 निरपेक्षस्वतन्त्रऩुमल्लेऩॆऩ्ऱदाम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+निरपेक्षस्वतन्त्रऩुमल्लेऩ् ऎऩ्बदाल् स्वातन्त्र्यादि निवृत्तिः । 
+</details>
 
 #### अपुनरुक्तिः
 
@@ -28600,9 +28620,15 @@ La **respuesta es** (como **sigue**):--
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द पक्षत्तिल् ‘अ निषेधे पुमान्विष्णौ’’ ऎऩ्ऱु अकारम् भगवाऩिडत्तिले रूढमागैयालुम्, अप्पडिये नारायणशब्दमुम् भगवति रूढमागैयालुम् ऒऩ्ऱे पोदुमायिरुक्क मऱ्ऱॊऩ्ऱु पुनरुक्तमागादो ऎऩ्ऱु शङ्गिक्किऱार् अकार नारायणशब्दङ्गळिरण्डुमिति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप्-पोदु व्युत्पत्ति-विशेष-सिद्धम् आऩ अर्थ-विशेषत्तै विवक्षित्तु  
+अप्-पोदु +++(एकतरे)+++ व्युत्पत्ति-विशेष-सिद्धम् आऩ अर्थ-विशेषत्तै विवक्षित्तु  
 ऒऩ्ऱु विशेषणम् आगक् कडवदु। 
 </details>
 
@@ -28625,27 +28651,118 @@ con el propósito de **indicar** las cualidades especiales (como **protectoridad
 अप्पोदु व्युत्पत्तिविशेषसिद्धमाऩ अर्थविशेषत्तै विवक्षित्तु ऒऩ्ऱु विशेषणमागक् कडवदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परिहरिक्किऱार् अप्पोदु इति ।  
+व्युत्पत्ति-विशेष-सिद्धम् आऩ अर्थ-विशेषत्तै विवक्षित्तु  
+ऒऩ्ऱु विशेषणम् आगक् कडवदु इति ।  
+नारायण-शब्दत्तै रूढम् आगक् कॊण्डु  
+अव रक्षणे ऎऩ्गिऱ धातुविल् निष्पन्नम् आऩ अकारत्तै यौगिकमाक्कि  
+"रक्षकऩ् आऩ नारायणऩिऩ् पॊरुट्टु" ऎऩ्ऱु अन्वयित्तालुम्  
+"अ निषेधे पुमान्विष्णौ" ऎऩ्गिऱबडि अकारत्तै विष्णुविल् रूढमागक्कॊण्डु "नाराणाम् अयनम्" ऎऩ्गिऱ व्युत्पत्तियाले  
+नारायणशब्दत्तै यौगिकमाक्कि  
+"सर्वाधारऩाऩ विष्णुविऩ् पॊरुट्टु" ऎऩ्ऱु अन्वयित्तालुम् एकार्थकमल्लामैयाले पौनरुक्त्यमिल्लैयॆऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> अ-कार-वाच्यऩ् आऩ नारायणऩुक्क्  
+> +++(व्युत्पत्तिम् अनाश्रित्यैव)+++ अ-कार-वाच्यऩ् आऩ नारायणऩुक्क्  
 
 ऎऩ्ऱुम् पुनर्-उक्ति परिहरिक्कलाम्। 
 </details>
 
-<details><summary>मूलम्</summary>
-
-अकारवाच्यऩाऩ नारायणऩुक्कॆऩ्ऱुम् पुनरुक्तिपरिहरिक्कलाम्। 
-</details>
-
-
+<details><summary>English</summary>
 
 The redundancy would also **cease**  
 if **we construe** the sentence into 
 
 > "(I am the śeṣa) of Nārāyaṇa  
 who is denoted by the letter a in (aum)". 
+</details>
 
-Do we not see the word 'Bhagavān', which is His name, **being** employed in apposition or grammatical co-ordination (sāmānādhikaraṇya)) with the word · Vāsudeva! (in the Vāsudeva mantra )? There is no redundance, as the word Nārāyaṇa serves a purpose, **being** used for removing all doubts as to which deity is the ultimate universal cause denoted by the letter which is the origin of all letters (namely a ). The order of words in a sentence is dependent on the ways in which they are recited (according to tradition); but the construction or syntactical con. nection of the words is in accordance with the meaning.
+<details><summary>Español</summary>
+
+El **despido** también **cesaría**  
+Si **interpretamos** la oración en 
+
+> "(Yo **soy** el śeṣa) de Nārāyaṇa  
+que **se denota** con la letra a en (aum)". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अकारवाच्यऩाऩ नारायणऩुक्कॆऩ्ऱुम् पुनरुक्तिपरिहरिक्कलाम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परिहारान्तरम् अरुळिच्चॆय्गिऱार् - अकारवाच्यऩाऩ इति ।  
+इङ्गु अकार-वाच्यत्वम् विशेषणताऽवच्छेदकम् आगैयालुम्  
+नारायणत्वम् विशेष्यताऽवच्छेदकम् आगैयालुम्  
+पौनरुक्त्यमिल्लै यॆऩ्ऱु करुत्तु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवच्-छब्दमुम् नाम-धेयम् आय् इरुक्क  
+वासु-देवादि-शब्दत्तोडे समानाधिकरणम् आगा निऩ्ऱद् इऱे।
+</details>
+
+<details><summary>English</summary>
+
+**Do we not see** the word 'Bhagavān', which is His name, **being employed** in apposition or grammatical co-ordination (sāmānādhikaraṇya)  
+with the word Vāsudeva (in the Vāsudeva mantra )?  
+</details>
+
+<details><summary>Español</summary>
+
+**¿No vemos** la palabra 'Bhagavān', que es Su nombre, **siendo empleada** en la aposición o coordinación gramatical (sāmānādhikaraṇya)  
+con la palabra Vāsudeva (en el mantra Vāsudeva )?  
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवच्छब्दमुम् नामधेयमायिरुक्क वासुदेवादिशब्दत्तोडे समानाधिकरणमागानिऩ्ऱदिऱे।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्व-बीजाक्षर-वाच्यम् आऩ सर्व-कारणम् देवतान्तरमोव् 
+
+ऎऩ्ऱु शङ्कियाद बडि  
+नारायणऩ् ऎऩ्ऱु  
+विशेषिक्कैयालुम् स-प्रयोजनम्।
+</details>
+
+<details><summary>English</summary>
+
+**There is no redundance**,  
+as the word Nārāyaṇa **serves** a purpose,  
+**being used** for **removing** all doubts as to which deity **is** the ultimate universal cause  
+**denoted** by the letter  
+which **is** the origin of all letters (namely "a" ). 
+</details>
+
+<details><summary>Español</summary>
+
+**No hay redundancia**,  
+como la palabra Nārāyaṇa **sirve** a un propósito,  
+**siendo usado** para **eliminar** todas las dudas sobre  
+qué deidad **es** la causa universal última  
+**denotado** por la letra  
+que **es** el origen de todas las letras (a saber, "a"). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वबीजाक्षरवाच्यमाऩ सर्वकारणम् देवतान्तरमोवॆऩ्ऱु शङ्कियातबडि नारायणऩॆऩ्ऱु विशेषिक्कैयालुम् सप्रयोजनम्।
+</details>
+
+
+
+The order of words in a sentence is dependent on the ways in which they are recited (according to tradition); but the construction or syntactical con. nection of the words is in accordance with the meaning.
 
 When thus taken as two sentences, the whole of the Tirumantra is descriptive of the essential nature (svarūpa) of the jīva. In the light of this coustruction, namely, that of describing the essential nature, the ancients used to say: "Be born in Tiru. mantra, grow up in Dvaya and stand firm in Dvaya alone". ** Birth' is due to the birth of a knowledge of one's essential nature and the disappearance of the state which preceded it. This may be seen (from the verse): “Before I had a knowledge of my essential nature, I was like one unborn. After attaining that knowledge, I was born and I do not forget this". That is acknowledging, of one's own accord, that one is the śeṣa of no one other than Bhagavān, that one is not subject to the will of any one other than Bhagavān that, consequently, one has no other interests than **being** śeṣa to Him and that one has no other saviour than He. "Growth' means the adoption of the upāya resulting from a knowledge of a particular thing that has to be performed as **being** suited to one's competency. "To stand firm in Dvaya alone" means to become well-established in this upāya and in the (know. ledge of the) fruit arising from it, without associating oneself with any other upāya and without any other end in view. Thus Tiru mantra and Dvaya combined together reveal the svarūpa, the upāya and the end for which the upāya is adopted.
 
