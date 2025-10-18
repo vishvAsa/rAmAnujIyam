@@ -27959,7 +27959,7 @@ Así también los significados de la oración o oraciones **se reflejan** de muc
 
 
 
-### उपाय-पर-वाक्यम्
+### नमस्कारोपाय-वाक्यम्
 <details><summary>English</summary>
 
 ONE SENTENCE, INDICATING UPĀYA.
@@ -28183,7 +28183,7 @@ cuando **se considera** a la luz de la **interpretación** burda **descrita** en
 </details>
 
 
-
+#### स्वरूप-पुरुषार्थ-ज्ञाने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिय् आऩालुम्  
@@ -29029,7 +29029,7 @@ Por lo tanto, el mantra Tiru y Dvaya **combinados** juntos
 </details>
 
 
-### उपाय-पर-वाक्ये
+### आत्म-समर्पण--पर-वाक्ये
 
 <details><summary>English</summary>
 
@@ -29066,9 +29066,169 @@ la **entrega** del yo con sus accesorios.
 इव्विरण्डु वाक्यमाऩ योजऩै तऩ्ऩिले तिरुमन्त्रम् मुऴुक्क सपरिकरात्म समर्पणपरमॆऩ्ऱुमनुसन्धिप्पार्गळ्। 
 </details>
 
+#### ओं नारायणाय
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदु प्रणवत्तिल् म-कारम्  
+प्रथमान्तमेय् आगव् अमैयुम् हविस्-समर्पण-न्यायत्ताले … 
+</details>
+
+<details><summary>English</summary>
+
+In that case, the "m" in praṇava **should be considered** to be in the nominative or first case.  
+By the principle of the **offering** of the havis (or **oblation**),  
+</details>
+
+<details><summary>Español</summary>
+
+En ese caso, la "m" en praṇava **debe considerarse** como nominativo o primer caso.  
+Por el principio de la **ofrenda** de los havis (u **oblación**),  
+</details>
 
 
-In that case, the m in praṇava should be considered to be in the nominative or first case. By the principle of the offering of the havis (or oblation), Tirumantra would then mean "This unconditional oflering, namely, the self or soul is surrendered to Nārāyaṇa who is denoted by the letter a as His responsibility and who is the deity subject to no conditions or limiting factors (upādhi). In this unconditional sacrifice of the self, the word namas (na mama) would come to mean that one dissociates oneself from oneself and says, " The burden of my protection is not mine." As when (an offering is made) with the words: “This is for Indra and not mine", here also, the two sentences are essential; one to express the connection (of the offering) with the Supreme Being and the denial of its connection with oneself. Also in this surrender with the words namas (na mama), the purport may also extend to the denial of one's **being** an agent or doer absolutely independeat of the Supreme Being. The two sentences may also be considered to suggest the meaning; "The burden of my protection is of no other (than Bhagavān) nor is it my own".
+<details><summary>मूलम्</summary>
+
+अप्पोदु प्रणवत्तिल् मकारम् प्रथमान्त-मेयागवमैयुम् हविस्समर्पणन्यायत्ताले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निरुपाधिकम् आऩव् आत्म-हविस्सु  
+निरुपाधिक-देवतैय् आय् अ-कार-वाच्यऩ् आऩ नारायणऩुक्के  
+भरम् आग समर्पितम् 
+
+ऎऩ्ऱद् आयिऱ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+Tirumantra **would** then **mean** 
+
+> "This **unconditional offering**, namely, the self or soul  
+**is surrendered** to Nārāyaṇa  
+who is denoted by the letter "a"  
+as His **responsibility**  
+and who **is** the deity  
+**subject to** no conditions or limiting factors (upādhi). 
+</details>
+
+<details><summary>Español</summary>
+
+Tirumantra **sería** entonces **significa** 
+
+> "Esta **ofrenda incondicional**, es decir, el yo o el alma  
+**se rinde** a Nārāyaṇa  
+que **se denota** con la letra "a"  
+como Su **responsabilidad**  
+y quién **es** la deidad  
+**sujeto a** ninguna condición o factor limitante (upādhi). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निरुपाधिकमाऩवात्महविस्सुनिरुपाधिकदेवतैयाय् अकारवाच्यऩाऩ नारायणऩुक्के भरमाग समर्पितमॆऩ्ऱतायिऱ्ऱु।
+</details>
+
+#### नमः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि निरुपाधिकम् आऩव् आत्म-यागत्तिल्  
+‘‘नमः’’ ऎऩ्ऱु तऩ्ऩोडु तऩ् तुवक्क्-अऱुत्तु  
+"ऎऩक्कु भरम् अल्लेऩ्" ऎऩ्ऱद् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+In this **unconditional sacrifice** of the self,  
+the word namas (na mama) **would come to mean** that  
+one **dissociates** oneself from oneself  
+and **says**, 
+
+> " The burden of my **protection is not** mine."  
+
+</details>
+
+<details><summary>Español</summary>
+
+En este **sacrificio incondicional** del yo,  
+La palabra namas (na mama) **vendría a significar** que  
+uno **se disocia** de sí mismo  
+y **dice**, 
+
+> "La carga de mi **protección no es** mía".  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि निरुपाधिकमाऩ वात्मयागत्तिल् ‘‘नमः’’ ऎऩ्ऱु तऩ्ऩोडु तऩ् तुवक्कऱुत्तु ऎऩक्कु भरमल्लेऩॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+#### वाक्य-द्वय-सप्रयोजनता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘इदम् इन्द्राय, न मम’’ 
+
+ऎऩ्ऩुमाप् पोले 
+</details>
+
+<details><summary>English</summary>
+
+As when (an **offering is made**) with the words:  
+
+> “This is for Indra  
+and not mine", 
+</details>
+
+<details><summary>Español</summary>
+
+Como cuando (se **hace una ofrenda**) con las palabras:  
+
+> "Esto **es** para Indra  
+y no la mía", 
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+‘‘इदमिन्द्राय न मम’’ ऎऩ्ऩुमाप्पोले 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गुम् पर-सम्बन्ध-विधियिलुम्  
+स्व-सम्बन्ध-निषेधत्तिलुम् प्रवृत्तम् आगैयाले  
+वाक्य-द्वयमुम् स-प्रयोजनम्। 
+</details>
+
+<details><summary>English</summary>
+
+here also,  
+the two sentences **are** essential;  
+one **to express** the **connection** (of the offering) with the Supreme Being  
+and the **denial** of its **connection** with oneself. 
+</details>
+
+<details><summary>Español</summary>
+
+aquí también,  
+las dos oraciones **son** esenciales;  
+uno **para expresar** la **conexión** (de la ofrenda) con el Ser Supremo  
+y la **negación** de su **conexión** con uno mismo. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गुम् परसम्बन्धविधियिलुम् स्वसम्बन्धनिषेधत्तिलुम् प्रवृत्तमागैयाले वाक्यद्वयमुम् सप्रयोजनम्। 
+</details>
+
+
+
+Also in this surrender with the words namas (na mama), the purport may also extend to the denial of one's **being** an agent or doer absolutely independeat of the Supreme Being. The two sentences may also be considered to suggest the meaning; "The burden of my protection is of no other (than Bhagavān) nor is it my own".
 
 That Tirumantra has, for its purport, the offering or surrender of the self was stated in the Nitya as follows :- "After offering the self to the deity with the mūlamantra etc" This idea is shown also in Śrī Vaikuṇṭha Gadya as follows: "Praying that Bhagavān should accept one for eternal service to Himself alone, one should prostrate oneself and offer the soul to Bhagavān with the utterance of the sacred mūlamantra",
 
