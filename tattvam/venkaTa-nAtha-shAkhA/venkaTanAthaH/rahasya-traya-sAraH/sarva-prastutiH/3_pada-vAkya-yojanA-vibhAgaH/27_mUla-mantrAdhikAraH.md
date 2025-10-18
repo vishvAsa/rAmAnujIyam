@@ -28760,15 +28760,315 @@ que **es** el origen de todas las letras (a saber, "a").
 सर्वबीजाक्षरवाच्यमाऩ सर्वकारणम् देवतान्तरमोवॆऩ्ऱु शङ्कियातबडि नारायणऩॆऩ्ऱु विशेषिक्कैयालुम् सप्रयोजनम्।
 </details>
 
+#### पद-क्रमः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्त्रङ्गळुक्कु पद-क्रमम् अध्ययन-नियतम्।
+</details>
+
+<details><summary>English</summary>
+
+The order of words in a sentence is dependent on the ways in which they are recited (according to tradition); 
+</details>
+
+<details><summary>Español</summary>
+
+El orden de las palabras en una oración  
+**depende** de las formas en que **se recitan** (**según** la tradición); 
+</details>
 
 
-The order of words in a sentence is dependent on the ways in which they are recited (according to tradition); but the construction or syntactical con. nection of the words is in accordance with the meaning.
+<details><summary>मूलम्</summary>
 
-When thus taken as two sentences, the whole of the Tirumantra is descriptive of the essential nature (svarūpa) of the jīva. In the light of this coustruction, namely, that of describing the essential nature, the ancients used to say: "Be born in Tiru. mantra, grow up in Dvaya and stand firm in Dvaya alone". ** Birth' is due to the birth of a knowledge of one's essential nature and the disappearance of the state which preceded it. This may be seen (from the verse): “Before I had a knowledge of my essential nature, I was like one unborn. After attaining that knowledge, I was born and I do not forget this". That is acknowledging, of one's own accord, that one is the śeṣa of no one other than Bhagavān, that one is not subject to the will of any one other than Bhagavān that, consequently, one has no other interests than **being** śeṣa to Him and that one has no other saviour than He. "Growth' means the adoption of the upāya resulting from a knowledge of a particular thing that has to be performed as **being** suited to one's competency. "To stand firm in Dvaya alone" means to become well-established in this upāya and in the (know. ledge of the) fruit arising from it, without associating oneself with any other upāya and without any other end in view. Thus Tiru mantra and Dvaya combined together reveal the svarūpa, the upāya and the end for which the upāya is adopted.
+मन्त्रङ्गळुक्कु पदक्रमम् अध्ययननियतम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्वयम् अर्थानुगुणम् आगक् कडवदु। 
+</details>
+
+<details><summary>English</summary>
+
+but the **construction** or syntactical connection of the words **is** in accordance with the meaning.
+</details>
+
+<details><summary>Español</summary>
+
+pero la **construcción** o conexión sintáctica de las palabras **está** de acuerdo con el significado.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्वयमर्थानुगुणमागक् कडवदु। 
+</details>
+
+#### स्वरूपे निष्ठा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि वाक्य-द्वयम् आऩाल्  
+तिरु-मन्त्रम् मुऴुक्क+++(=आहत्य)+++ स्व-रूप--परम्।
+</details>
+
+<details><summary>English</summary>
+
+When thus **taken** as two sentences,  
+the whole of the Tirumantra **is descriptive** of the essential nature (svarūpa) of the jīva. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando así **tomado** como dos oraciones,  
+todo el Tirumantra **es descriptivo** de la naturaleza esencial (svarūpa) del jīva. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि वाक्यद्वयमाऩाल् तिरुमन्त्रम् मुऴुक्कस्वरूपपरम्।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द स्व-रूप-पर--योजऩैयैप् पऱ्ऱ  
+तिरु-मन्त्रत्तिले पिऱन्दु  
+द्वयत्तिले वळर्न्दु  
+"द्वयैकनिष्ठऩ् आवाय्" ऎऩ्ऱु पूर्वर्गळ् अरुळिच् चॆय्दार्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+In the light of this **coustruction**,  
+namely, that of describing the essential nature,  
+the ancients used to say: 
+
+> "**Be born** in Tiru mantra,  
+**grow up** in Dvaya  
+and **stand firm** in Dvaya alone". 
+</details>
+
+<details><summary>Español</summary>
+
+A la luz de esta **construcción**,  
+a saber, la de **describir** la naturaleza esencial,  
+Los antiguos **solían decir**: 
+
+> "**Nacer** en el mantra Tiru,  
+**crecer** en Dvaya  
+y **mantente firme** solo en Dvaya". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द स्वरूपपर योजऩैयैप्पऱ्ऱ तिरुमन्त्रत्तिले पिऱन्दु द्वयत्तिले वळर्न्दु द्वयैकनिष्ठऩावायॆऩ्ऱु पूर्वर्गळरुळिच्चॆय्दार्गळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पिऱक्कैय् आवदु -  
+स्व-रूप--ज्ञानम् **पिऱक्कैयाले** 
+
+> ’’अऩ्ऱु नाऩ् पिऱन्द्-इलेऩ्  
+पिऱन्द पिऩ् मऱन्द्-इलेऩ्’’  
+(तिरुच्-छन्द-विरुत्तम् ६४) 
+
+ऎऩ्गिऱ मुऩ्ब् उऱ्ऱ निलै **कऴिगै**। 
+</details>
+
+
+<details><summary>English</summary>
+
+**'Birth' is** due to the **birth** of a knowledge of one's essential nature  
+and the **disappearance** of the state which **preceded** it.  
+This **may be seen** (from the verse): 
+
+> “Before I **had** a **knowledge** of my essential nature,  
+I **was** like one **unborn**.  
+After **attaining** that knowledge,  
+**I was born**  
+and I **do not forget** this". 
+</details>
+
+<details><summary>Español</summary>
+
+**'Nacimiento' es** debido al **nacimiento** de un conocimiento de la naturaleza esencial de uno  
+y la **desaparición** del estado que **lo precedió**.  
+Esto **se puede ver** (del versículo): 
+
+> "Antes de **tener** un **conocimiento** de mi naturaleza esencial,  
+Yo **era** como un **no nacido**.  
+Después de **alcanzar** ese **conocimiento**,  
+**Nací**  
+y **no olvido** esto". 
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+पिऱक्कैयावदु - स्वरूपज्ञानम् पिऱक्कैयाले ’’अऩ्ऱु नाऩ् पिऱन् दिलेऩ् पिऱन्द पिऩ् मऱन्दिले’’(तिरुच्-छन्दविरुत्तम् ६४) ऩॆऩ्गिऱ मुऩ्बुऱ्ऱ निलै कऴिगै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद् आवदु  
+तऩ्ऩ् इसैवालुम् अन्-अन्य-शेषऩ् आय्,  
+अद्-अडिय् आग अन्-अन्याधीनऩ् आय्,  
+अद्-अडिय् आग अन्-अन्य-प्रयोजनऩ् आय्,  
+अनन्य-शरणऩ् आगै।
+</details>
+
+<details><summary>English</summary>
+
+That **is acknowledging**, of one's own accord,  
+that one **is** the śeṣa of no one other than Bhagavān,  
+that one **is not subject** to the **will** of any one other than Bhagavān,  
+that, consequently, one **has no** other interests  
+than **being** śeṣa to Him  
+and that one **has no** other **saviour** than He. 
+</details>
+
+<details><summary>Español</summary>
+
+Que **es reconocer**, por su propia **voluntad**,  
+que uno **es** el śeṣa de nadie más que Bhagavān,  
+que uno **no está sujeto** a la **voluntad** de nadie que **no sea** Bhagavān,  
+que, en **consecuencia**, uno **no tiene** otros intereses  
+que **ser** śeṣa para Él,  
+y ese **no tiene** otro **salvador** que Él. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदावदु तऩ्ऩिसैवालुम् अनन्यशेषऩाय्, अदडियाग अनन्याधीनऩाय्, अदडियाग अनन्यप्रयोजनऩाय्, अनन्यशरणऩागै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"वळरुगैय्" आवदु;  
+अधिकार-विशेषानुरूप-- कर्तव्य-विशेष-विषय-ज्ञान-विशेषत्ताले उपाय-परिग्रहम् पण्णुगै।
+</details>
+
+<details><summary>English</summary>
+
+**"Growth" means** the **adoption** of the upāya  
+**resulting** from a **knowledge** of a particular thing that **has to be performed**  
+as **being suited** to one's competency. 
+</details>
+
+<details><summary>Español</summary>
+
+**"Crecimiento" significa** la **adopción** del upāya  
+**resultante** de un **conocimiento** de una cosa particular que **tiene que realizarse**  
+como **ser adecuado** a la propia competencia. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+वळरुगैयावदु; अधिकारविशेषानुरूप कर्तव्यविशेष विषयज्ञानविशेषत्ताले उपायपरिग्रहम् पण्णुगै।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"द्वैयैक-निष्ठऩ् आगैय्" आवदु;  
+द्वयानुसन्धानत्ताले उपायान्तरत्तिलुम्  
+प्रयोजनान्तरत्तिलुन् तुवक्क् अऱ  
+इदिऱ् सॊऩ्ऩ उपायत्तिलुम्  
+प्रयोजनत्तिलुम् प्रतिष्ठितऩ् आगै।
+</details>
+
+<details><summary>English</summary>
+
+"**To stand firm** in Dvaya alone" **means**  
+**to become well-established** in this upāya  
+and in the (**knowledge** of the) fruit arising from it,  
+**without associating** oneself with any other upāya  
+and **without** any other end in view. 
+</details>
+
+<details><summary>Español</summary>
+
+"**Mantenerse firme** solo en Dvaya" **significa**  
+**para llegar a estar bien establecido** en este upāya  
+y en el fruto que de él **se deriva**,  
+**sin asociarse** con ningún otro upāya  
+y **sin** ningún otro fin a la vista. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्वैयैक निष्ठऩागैयावदु; द्वयानुसन्धानत्ताले उपायान्तरत्तिलुम् प्रयोजनान्तरत्तिलुन् दुवक्कऱ इदिऱ्सॊऩ्ऩ उपायत्तिलुम् प्रयोजनत्तिलुम् प्रतिष्ठितऩागै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि तिरु-मन्त्रमुम् द्वयमुङ् कूड  
+स्वरूपोपाय-पुरुषार्थङ्गळैक् काट्टुगिऱऩ।
+</details>
+
+<details><summary>English</summary>
+
+Thus Tiru mantra and Dvaya **combined** together  
+**reveal** the svarūpa, the upāya and the end for which the upāya **is adopted**.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, el mantra Tiru y Dvaya **combinados** juntos  
+**revelar** el svarūpa, el upāya y el fin para el cual el upāya **es adoptado**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि तिरुमन्त्रमुम् द्वयमुङ्गूड स्वरूपोपायपुरुषार्थङ्गळैक् काट्टुगिऱऩ।
+</details>
+
+
+### उपाय-पर-वाक्ये
+
+<details><summary>English</summary>
 
 TWO SENTENCES INDICATING THE UPĀYA :
+</details>
 
-(4) In this construction of Tirumantra into two sentences, some consider that the whole of Tirumantra has, for its purport, the surrender of the self with its accessories. In that case, the m in praṇava should be considered to be in the nominative or first case. By the principle of the offering of the havis (or oblation), Tirumantra would then mean "This unconditional oflering, namely, the self or soul is surrendered to Nārāyaṇa who is denoted by the letter a as His responsibility and who is the deity subject to no conditions or limiting factors (upādhi). In this unconditional sacrifice of the self, the word namas (na mama) would come to mean that one dissociates oneself from oneself and says, " The burden of my protection is not mine." As when (an offering is made) with the words: “This is for Indra and not mine", here also, the two sentences are essential; one to express the connection (of the offering) with the Supreme Being and the denial of its connection with oneself. Also in this surrender with the words namas (na mama), the purport may also extend to the denial of one's **being** an agent or doer absolutely independeat of the Supreme Being. The two sentences may also be considered to suggest the meaning; "The burden of my protection is of no other (than Bhagavān) nor is it my own".
+<details><summary>Español</summary>
+
+DOS ORACIONES QUE **INDICAN** EL UPĀYA:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इरण्डु वाक्यम् आऩ योजऩै तऩ्ऩिले  
+तिरु-मन्त्रम् मुऴुक्क+++(=आहत्य)+++ स-परिकरात्म-समर्पण-परम् ऎऩ्ऱुम् अनुसन्धिप्पार्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+(4) In this **construction** of Tirumantra into two sentences,  
+some **consider** that the whole of Tirumantra **has**, for its purport,  
+the **surrender** of the self with its accessories. 
+</details>
+
+<details><summary>Español</summary>
+
+(4) En esta **construcción** de Tirumantra en dos oraciones,  
+algunos **consideran** que todo el Tirumantra **tiene**, por su significado,  
+la **entrega** del yo con sus accesorios. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्विरण्डु वाक्यमाऩ योजऩै तऩ्ऩिले तिरुमन्त्रम् मुऴुक्क सपरिकरात्म समर्पणपरमॆऩ्ऱुमनुसन्धिप्पार्गळ्। 
+</details>
+
+
+
+In that case, the m in praṇava should be considered to be in the nominative or first case. By the principle of the offering of the havis (or oblation), Tirumantra would then mean "This unconditional oflering, namely, the self or soul is surrendered to Nārāyaṇa who is denoted by the letter a as His responsibility and who is the deity subject to no conditions or limiting factors (upādhi). In this unconditional sacrifice of the self, the word namas (na mama) would come to mean that one dissociates oneself from oneself and says, " The burden of my protection is not mine." As when (an offering is made) with the words: “This is for Indra and not mine", here also, the two sentences are essential; one to express the connection (of the offering) with the Supreme Being and the denial of its connection with oneself. Also in this surrender with the words namas (na mama), the purport may also extend to the denial of one's **being** an agent or doer absolutely independeat of the Supreme Being. The two sentences may also be considered to suggest the meaning; "The burden of my protection is of no other (than Bhagavān) nor is it my own".
 
 That Tirumantra has, for its purport, the offering or surrender of the self was stated in the Nitya as follows :- "After offering the self to the deity with the mūlamantra etc" This idea is shown also in Śrī Vaikuṇṭha Gadya as follows: "Praying that Bhagavān should accept one for eternal service to Himself alone, one should prostrate oneself and offer the soul to Bhagavān with the utterance of the sacred mūlamantra",
 
