@@ -29710,6 +29710,17 @@ Si **se pregunta** cómo es esto, la **respuesta es** la **siguiente**:
 
 #### स्वरूप-फल-पराणि (६)
 
+<details><summary>English</summary>
+
+(6) The first two words indicate svarūpa and the third word puruṣārtha.
+</details>
+
+<details><summary>Español</summary>
+
+(6) Las dos primeras palabras **indican** svarūpa y la tercera palabra puruṣārtha.
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अ-कारार्थायैव स्वम् अहम् अथ, मह्यं न निवहाः+++(=समूहाः)+++,  
@@ -29717,17 +29728,92 @@ Si **se pregunta** cómo es esto, la **respuesta es** la **siguiente**:
 यम् **आहास्मै** कालं सकलम् अपि सर्वत्र सकलास्व्  
 अवस्थास्व् **आविः स्युर्** मम सहज-**कैङ्कर्य-विधयः** ॥   
 (अष्टश्लोकी ३)
+
+ऎऩ्गिऱ बडिये
+</details>
+
+<details><summary>English</summary>
+
+As stated in the following śloka : 
+
+> I **am** the property (śeṣa) of only Bhagavān  
+who **is denoted** by the letter "a";  
+I **do not exist** for myself ("na mama");  
+He who **is denoted** by the word 'Nārāyaṇa',  
+which **means** the person whose abode or dwelling place **is** the multitude of the eternal nārās (i.e.) jīvas ---  
+To Him the varied forms of **service** which I **should render** in virtue of my nature  
+**should appear** (to me) in all places and in all states". 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se indica** en el **siguiente** śloka : 
+
+> Yo **soy** la propiedad (śeṣa) de solo Bhagavān  
+que **se denota** con la letra "a";  
+Yo **no existo** para mí mismo ("na mama");  
+Aquel que **es denotado** por la palabra 'Nārāyaṇa',  
+que **significa** la persona cuya morada **es** la multitud de los eternos nārās (es decir) jīvas ---  
+A Él las variadas formas de **servicio** que **debo rendir** en virtud de mi naturaleza  
+**debería aparecer** (para mí) en todos los lugares y en todos los estados". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अकारार्थायैव स्वमहमथ मह्यन्न निवहा नराणां नित्यानामयनमिति नारायणपदम् । यमाहास्मै कालं सकलमपि सर्वत्र सकलास्ववस्थास्वाविस्स्युर्मम सहजकैङ्कर्यविधयः’’(अष्टश्लोकी ३) ऎऩ्गिऱबडिये
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रणवमुम् नमस्सुं स्वरूपत्तै शोधिक्किऩ्ऱऩ। 
+</details>
+
+<details><summary>English</summary>
+
+the praṇava and the namas clarify the svarūpa ; 
+</details>
+
+<details><summary>Español</summary>
+
+el praṇava y los namas **aclaran** el svarūpa; 
 </details>
 
 <details><summary>मूलम्</summary>
 
-‘‘अकारार्थायैव स्वमहमथ मह्यन्न निवहा नराणां नित्यानामयनमिति नारायणपदम् । यमाहास्मै कालं सकलमपि सर्वत्र सकलास्ववस्थास्वाविस्स्युर्मम सहजकैङ्कर्यविधयः’’(अष्टश्लोकी ३)
+प्रणवमुम् नमस्सुंस्वरूपत्तै शोधिक्किऩ्ऱऩ। 
 </details>
 
 
-(6) The first two words indicate svarūpa and the third word puruṣārtha.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-As stated in the following śloka : I am the property (śeṣa) na mama of only Bhagavān who is denoted by the letter a; I do not exist for myself : He who is denoted by the word 'Nārāyaṇa', which means the person whose abode or dwelling place is the multitude of the etermal nārās (i.e.) jīvas --- To Him the varied forms of service which I should reader in virtue of my nature should appear (to me) in all places and in all states". (as stated in this śloka ), the praṇava and the namas clarify the svarūpa ; and the third word Nārāyaṇāya with the predicate understood (Namely syām) is a prayer for the attainment of the goal, in view of the idea of existing for Bhagavān expressed (already) by the praṇava. The form of the prayer would be “May I be for Nārāyaṇa!" In this view, the prayer for the removal of hindrances (to śeṣatva) results from the meaning (and not from the words themselves, because the attainment of the puruṣārtha is impossible without the removal of hindrances). As stated in the Dvaya and in such passages as "Thou shalt enjoy thyself on the slopes of the hills in the company of Sītā", since the one to whom service is due has a spouse, the meaning would here also be, “May I be for Nārāyaṇa as well as for Lakṣmī!". If the predicate be needed, a word like bhaveyam (May I be) should be understood. This prayer has indeed been made in such forms as the following:-- “May I render faultless service remaining with Bhagavān constantly in all places and in all states." "Vouchsafe upto me Thy grace so that I may render service to Thee". "I pray for eternal service to Thee" and " I should be Thy eternal servant,"
+मूऩ्ऱाम् पदम् प्रणवत्तिऱ् सॊऩ्ऩ तादर्थ्यत्तै पुरस्करित्तुक् कॊण्डु  
+अध्याहृतम् आऩ +++("स्याम्")+++ क्रियापदत्तोडे कूडि  
+पुरुषार्थ-प्रार्थनार्थम्। 
+</details>
+
+<details><summary>English</summary>
+
+and the third word Nārāyaṇāya with the predicate **understood** (Namely "syām") **is a prayer** for the **attainment** of the goal,  
+in **view** of the idea of **existing** for Bhagavān **expressed (already)** by the praṇava.  
+</details>
+
+<details><summary>Español</summary>
+
+y la tercera palabra Nārāyaṇāya con el predicado **entendido** (A saber, "syām") **es una oración** para el **logro** de la meta,  
+en **vista** de la idea de **existir** para Bhagavān **expresada (ya)** por el praṇava.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+मूऩ्ऱाम् पदम् प्रणवत्तिऱ्सॊऩ्ऩ तादर्थ्यत्तै पुरस्करित्तुक्कॊण्डु अध्याहृतमाऩ क्रियापदत्तोडे कूडि पुरुषार्थप्रार्थनार्थम्। 
+</details>
+
+
+
+
+
+The form of the prayer would be “May I be for Nārāyaṇa!" In this view, the prayer for the removal of hindrances (to śeṣatva) results from the meaning (and not from the words themselves, because the attainment of the puruṣārtha is impossible without the removal of hindrances). As stated in the Dvaya and in such passages as "Thou shalt enjoy thyself on the slopes of the hills in the company of Sītā", since the one to whom service is due has a spouse, the meaning would here also be, “May I be for Nārāyaṇa as well as for Lakṣmī!". If the predicate be needed, a word like bhaveyam (May I be) should be understood. This prayer has indeed been made in such forms as the following:-- “May I render faultless service remaining with Bhagavān constantly in all places and in all states." "Vouchsafe upto me Thy grace so that I may render service to Thee". "I pray for eternal service to Thee" and " I should be Thy eternal servant,"
 
 “Existing for His sake' is eternal; so there is no need to pray for it; this relationship of existing for His sake (as His śeṣa) is already expressed by the praṇava. Therefore prayer is inside here for service (to Bhagavān), which is the overflow of the full and perfect enjoyment of Bhagavān and which contains within itself all other ends of life as in the common saying: "In the ocean is a small puddle (i.e.) the larger contains the smaller within it)".
 
