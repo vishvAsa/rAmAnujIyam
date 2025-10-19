@@ -29725,12 +29725,23 @@ Si **se pregunta** cómo es esto, la **respuesta es** la **siguiente**:
 
 > अ-कारार्थायैव स्वम् अहम् अथ, मह्यं न निवहाः+++(=समूहाः)+++,  
 नराणां नित्यानाम् **अयनम्** इति नारायण-पदम् ।  
-यम् **आहास्मै** कालं सकलम् अपि सर्वत्र सकलास्व्  
+यम् **आहास्मै** कालं सकलम् अपि सर्वत्र स-कलास्व्  
 अवस्थास्व् **आविः स्युर्** मम सहज-**कैङ्कर्य-विधयः** ॥   
 (अष्टश्लोकी ३)
 
 ऎऩ्गिऱ बडिये
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अ-कारार्थायैव स्वम् अहम् अथ, मह्यं न निवहाः+++(=समूहाः)+++,  
+नराणां नित्यानाम् **अयनम्** इति नारायण-पदम् ।  
+यम् **आहास्मै** कालं सकलम् अपि सर्वत्र स-कलास्व्  
+अवस्थास्व् **आविः स्युर्** मम सहज-**कैङ्कर्य-विधयः** ॥   
+(अष्टश्लोकी ३)
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29796,12 +29807,14 @@ el praṇava y los namas **aclaran** el svarūpa;
 
 and the third word Nārāyaṇāya with the predicate **understood** (Namely "syām") **is a prayer** for the **attainment** of the goal,  
 in **view** of the idea of **existing** for Bhagavān **expressed (already)** by the praṇava.  
+The form of the prayer would be “May I be for Nārāyaṇa!" 
 </details>
 
 <details><summary>Español</summary>
 
 y la tercera palabra Nārāyaṇāya con el predicado **entendido** (A saber, "syām") **es una oración** para el **logro** de la meta,  
 en **vista** de la idea de **existir** para Bhagavān **expresada (ya)** por el praṇava.  
+La forma de la oración **sería**: "¡Que **pueda ser** para Nārāyaṇa!" 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -29809,11 +29822,101 @@ en **vista** de la idea de **existir** para Bhagavān **expresada (ya)** por el 
 मूऩ्ऱाम् पदम् प्रणवत्तिऱ्सॊऩ्ऩ तादर्थ्यत्तै पुरस्करित्तुक्कॊण्डु अध्याहृतमाऩ क्रियापदत्तोडे कूडि पुरुषार्थप्रार्थनार्थम्। 
 </details>
 
+##### आर्थांशाः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदु अन्-इष्ट--निवृत्ति-प्रार्थऩै  
+अर्थ-स्वभावत्ताले वरक् कडवदु। 
+</details>
+
+<details><summary>English</summary>
+
+In this **view**, the **prayer** for the **removal** of **hindrances** (to śeṣatva) **results** from the meaning  
+(and not from the words themselves,  
+because the **attainment** of the puruṣārtha **is impossible**  
+without the **removal** of **hindrances**). 
+</details>
+
+<details><summary>Español</summary>
+
+En este **punto de vista**, la **oración** para la **remoción** de **obstáculos** (a śeṣatva) **resulta** del significado  
+(y no por las palabras mismas,  
+porque el **logro** del Puruṣārtha **es imposible**  
+sin la **eliminación** de **obstáculos**). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्पोदु अनिष्टनिवृत्तिप्रार्थऩै अर्थस्वभावत्ताले वरक्कडवदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वयत्तिलुम्,  
+
+> ‘‘भवांस् तु सह वैदेह्या’’  
+(रामायणम् अयोध्या-काण्डम् ३१-२७) 
+
+इत्य्-आदिगळिलुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>English</summary>
+
+As **stated** in the Dvaya  
+and in such passages as 
+
+> "Thou **shalt enjoy** thyself on the slopes of the hills in the company of Sītā", 
+</details>
+
+<details><summary>Español</summary>
+
+Como **declaró** en el Dvaya  
+y en pasajes tales como 
+
+> "Te **divertirás** en las laderas de las colinas en **compañía** de Sītā", 
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्वयत्तिलुम् ‘‘भवांस्तु सह वैदेह्या’’(रामायणम् अयोध्या-काण्डम् ३१-२७) इत्यादिगळिलुञ् जॊल्लुगिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कैङ्कर्य-प्रतिसम्बन्धियुम् स-पत्नीकऩ् आऩ बडियाले  
+इङ्गुम् सलक्ष्मीकऩ् आऩ नारायणऩ् पॊरुट्टावे 
+</details>
+
+<details><summary>English</summary>
+
+since the one to whom **service is due** **has** a spouse,  
+the meaning here **would also be**, 
+
+> “**May I be** for Nārāyaṇa as well as for Lakṣmī!". 
+</details>
+
+<details><summary>Español</summary>
+
+ya que aquel a quien **se le debe servicio**  
+**tiene** un cónyuge,  
+el significado aquí **también sería**, 
+
+> "¡**Que yo sea** para Nārāyaṇa así como para Lakṣmī!". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+कैङ्कर्यप्रतिसम्बन्धियुम् सपत्नीकऩाऩबडियाले इङ्गुम् सलक्ष्मीकऩाऩ नारायणऩ् पॊरुट्टावे 
+</details>
 
 
 
 
-The form of the prayer would be “May I be for Nārāyaṇa!" In this view, the prayer for the removal of hindrances (to śeṣatva) results from the meaning (and not from the words themselves, because the attainment of the puruṣārtha is impossible without the removal of hindrances). As stated in the Dvaya and in such passages as "Thou shalt enjoy thyself on the slopes of the hills in the company of Sītā", since the one to whom service is due has a spouse, the meaning would here also be, “May I be for Nārāyaṇa as well as for Lakṣmī!". If the predicate be needed, a word like bhaveyam (May I be) should be understood. This prayer has indeed been made in such forms as the following:-- “May I render faultless service remaining with Bhagavān constantly in all places and in all states." "Vouchsafe upto me Thy grace so that I may render service to Thee". "I pray for eternal service to Thee" and " I should be Thy eternal servant,"
+
+If the predicate be needed, a word like bhaveyam (May I be) should be understood. This prayer has indeed been made in such forms as the following:-- “May I render faultless service remaining with Bhagavān constantly in all places and in all states." "Vouchsafe upto me Thy grace so that I may render service to Thee". "I pray for eternal service to Thee" and " I should be Thy eternal servant,"
 
 “Existing for His sake' is eternal; so there is no need to pray for it; this relationship of existing for His sake (as His śeṣa) is already expressed by the praṇava. Therefore prayer is inside here for service (to Bhagavān), which is the overflow of the full and perfect enjoyment of Bhagavān and which contains within itself all other ends of life as in the common saying: "In the ocean is a small puddle (i.e.) the larger contains the smaller within it)".
 
