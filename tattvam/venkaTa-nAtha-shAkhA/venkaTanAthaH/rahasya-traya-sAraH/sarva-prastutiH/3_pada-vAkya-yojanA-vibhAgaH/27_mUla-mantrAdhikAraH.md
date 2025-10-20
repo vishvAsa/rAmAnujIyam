@@ -23835,6 +23835,14 @@ y su **ser** la causa del yo
 अडैवे+++(=क्रमशो)+++ अनुसन्धेयङ्गळ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P298]]  
+इत्य् एते प्रधानतया,  
+अन्ये ऽप्य् एतद्-अनुबद्धतया समुत्कर्षाः सर्वे ऽपि क्रमेणानुसन्धेयाः ॥
+</details>
+ 
+
 <details><summary>English</summary>
 
 \- we should reflect on the above qualities of His in principal  
@@ -23930,6 +23938,13 @@ LAS CUALIDADES DEL JIVĀTMĀ.
 इप्-पडि प्राप्यऩ् आऩ परमात्मवै प्रापिक्कुम् जीवात्मा  
 इत् तिरु-मन्त्रत्ताले अनुसन्धेयऩ् आम् बोदु; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं प्राप्यं परमात्मानं प्राप्नुवतो जीवात्मनः  
+अनेन श्रीमन्त्रेणानुसन्धानावसरे -- 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -25188,6 +25203,12 @@ que **tiene** cosas tales como la buena voluntad de Iśvara,ra,
 
 सद्-आचार्य-प्राप्तिमत्त्वम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सद्-आचार्य-प्राप्तिमत्त्वम्, 
+</details>
+
 <details><summary>English</summary>
 
 that he **should seek** and **obtain** a good ācārya, 
@@ -25295,7 +25316,7 @@ que **tiene** gran potencia,
 
 <details><summary>नीलमेघः (सं)</summary>
 
-… सृष्टि-संहार-विषयत्वम्, 
+[[P299]] विशिष्ट-वेषेण सृष्टि-संहार-विषयत्वम्, 
 </details>
 
 <details><summary>English</summary>
@@ -25507,7 +25528,7 @@ que **es apoyado** por Iśvara,
 
 <details><summary>नीलमेघः (सं)</summary>
 
-/... ईश्वर-शरीरत्वम्
+एतद्-धर्म-नियम-निबन्धनम् ईश्वर-शरीरत्वम्
 </details>
 
 <details><summary>English</summary>
@@ -26028,6 +26049,12 @@ que el **deleite** del yo es **rendir** todo tipo de **servicio** a Bhagavān
 अ-पुनर्-आवृत्तिमत्त्वम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-पुनर्-आवृत्तिमत्त्वम्, 
+</details>
+
+
 <details><summary>English</summary>
 
 and that the self **will never return** to saṁsāra (after **attaining** mukti) (67) -
@@ -26057,6 +26084,14 @@ y que el Ser **nunca regresará** al saṁsāra (después de **alcanzar** mukti)
 इप्-पदङ्गळिल् अडैवे+++(=क्रमशः)+++  
 शब्द-सामर्थ्यत्तालुम् अर्थ--स्वभावत्तालुम् अनुसन्धेयङ्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य् एते प्रधानतया,  
+अन्ये च प्रामाणिका अर्थाः सर्वे ऽप्य् एषु पदेषु  
+क्रमेण शब्द-सामर्थ्याद् अर्थ-स्वभावाच् चानुसन्धेयाः ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -26148,9 +26183,13 @@ y sobre **no tenemos** otro fin que **alcanzar** sino el Señor.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+[[P300]]  
+इत्थं 
+
 > ‘‘सर्वम् अष्टाक्षरान्तस्थं’’  
 (नारदीय-कल्पः १-९) 
 
+इत्य्-उक्त-प्रकारे ऽस्मिन् श्रीमन्त्रे 
 </details>
 
 <details><summary>English</summary>
@@ -26206,6 +26245,12 @@ la naturaleza esencial de cit (seres sintientes), acit (materia no sintiente) e 
 जीवर्गळ्-उडैयव् अन्योऽन्य-भेदमुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+जीवानाम् अन्योन्य-भेदस्य, 
+</details>
+
+
 <details><summary>English</summary>
 
 as well as the differences among the jīvas themselves
@@ -26227,6 +26272,11 @@ así como las diferencias entre los propios jīvas
 
 शेष-शेषि-भावादिगळाले  
 निरुपाधिक-जीवेश्वर-भेदमुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शेष-शेषि-भावादिभिर् निरुपाधिक-जीवेश्वर-भेदस्य, 
 </details>
 
 <details><summary>English</summary>
@@ -26252,6 +26302,12 @@ como, el primero es śeṣa y el segundo śeṣī.
 
 निखिल-जगन्-निमित्तोपादान-भूत--  पर-देवता-विशेष-निर्धारणादिगळुं सिद्धिक्कैयाल् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+निखिल-जगन्-निमित्तोपादान-भूत-- पर-देवता-विशेष-निर्धारणादीनां च सिद्धेः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -26283,6 +26339,12 @@ que **es** tanto la causa material como la instrumental de todo el universo.
 इप्-पडि अनुसन्धिप्पार् इरुन्द ऊरिल् इरुक्कुम् अवर्गळुक्कुम्  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एवम् अनुसंदधानैर् अधिष्ठिते ग्रामे वसताम् अपि
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore even those who live in the same locality as those that meditate on the Tirumantra in this manner :-
@@ -26303,6 +26365,12 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 
 "ईश्वरऩ् इल्लैय्" ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वरो नास्तीति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -26330,6 +26398,12 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 "निर्विशेषऩ्" ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+निर्विशेष इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 "Iśvara **is** attributeless"; 
@@ -26355,6 +26429,12 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 
 "अत्यन्तोदासीनऩ्" ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्यन्तोदासीन इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -26383,6 +26463,12 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 "प्रतिफलन-तुल्यैश्वर्यऩ्" ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रतिफलन-तुल्यैश्वर्य इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "His god-head is a mere reflection or image which has no reality" 
@@ -26410,6 +26496,12 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 "कर्म-विशेष-सिद्धैश्वर्यऩ्" ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+कर्म-विशेष-सिद्धैश्वर्य इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > His divinity **is** the result of some special karma  **performed** by Him. 
@@ -26433,6 +26525,12 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 कदाचित्-कर्मादिपरवशऩॆऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+कदाचित् कर्मादि-परवश इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > “He **is** occasionally **subject** to such things as karma ". 
@@ -26454,6 +26552,12 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 
 "त्रि-मूर्तिगळुं समर्" ऎऩ्ऱुम्, "एकर्" ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तिस्रो मूर्तयः समा इति, त्रि-मूर्त्य्-ऐक्यम् इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -26484,6 +26588,13 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 "त्रि-मूर्त्य्-उत्तीर्णऩ् पर-तत्त्वम्" ऎऩ्ऱुम्,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+त्रि-मूर्त्य्-उत्तीर्णं पर-तत्त्वम् इति, 
+</details>
+
+
+
 <details><summary>English</summary>
 
 > The Supreme Reality or Tattva is someone beyond these three gods, 
@@ -26510,6 +26621,12 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 
 "ब्रह्मादिगळिलेय् ऒरुवऩ् ईश्वरऩ्" ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ब्रह्मादिर् एक ईश्वर इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -26542,7 +26659,7 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 
 <details><summary>नीलमेघः (सं)</summary>
 
-"स्व-रूप--परिणामवान्" 
+"स्व-रूप--परिणामवान्" इति
 </details>
 
 <details><summary>English</summary>
