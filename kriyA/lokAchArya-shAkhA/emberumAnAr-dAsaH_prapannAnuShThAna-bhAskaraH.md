@@ -4,6 +4,8 @@ title = "ऎम्बॆरुमानार्-दासः - प्रपन�
 
 Source: [TW](https://archive.org/details/Vaishvadeva/prapannAnuShThAna-bhAskaraH.pdf)
 
+Source: [TW](https://archive.org/details/vhhs_prapanna-anushthana-bhaskaram-by-m.-berumanar-das-telugu-chennai-vasu-ratnakara-printing-press/mode/2up)
+
 [[TODO: परिष्कार्यम्]]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
