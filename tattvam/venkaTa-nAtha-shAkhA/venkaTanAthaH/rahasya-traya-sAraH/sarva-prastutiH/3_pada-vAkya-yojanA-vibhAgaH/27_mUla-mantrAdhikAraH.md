@@ -27078,6 +27078,10 @@ independiente de Iśvara".
 आ-प्रलय-स्थायिय् ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+आ-प्रलय-स्थायीति, 
+</details>
 
 
 <details><summary>English</summary>
@@ -27106,6 +27110,12 @@ independiente de Iśvara".
 "आ-मोक्ष-स्थायिय्" ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+आ-मोक्ष-स्थायीति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "The jīva **lasts** only until mukti  
@@ -27128,6 +27138,12 @@ independiente de Iśvara".
 
 "एकऩ्" ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एक इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -27154,6 +27170,12 @@ independiente de Iśvara".
 
 "स्व-निष्ठऩ्" ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वनिष्ठ इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -27183,6 +27205,12 @@ independiente de Iśvara".
 "स्वरूपतः कार्य-भूतऩ्" ऎऩ्ऱुम्,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वरूपतः कार्य-भूत इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "The jīva is, in his essential nature, an effect having its origin in a cause." 
@@ -27208,6 +27236,12 @@ independiente de Iśvara".
 
 "कार्यत्व-प्रसङ्ग-रहितऩ्" ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कार्यत्व-प्रसङ्ग-रहित इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -27236,6 +27270,12 @@ independiente de Iśvara".
 "कर्म-मात्रोपायऩ्" ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+कर्म-मात्रोपाय इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "The jīva **can attain** his end only by karma ". 
@@ -27256,6 +27296,12 @@ independiente de Iśvara".
 
 "मुक्त-दशैयिल् पाषाण-कल्पऩ्" ऎऩ्ऱुम्,
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुक्त-दशायां पाषाण-कल्प इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -27281,6 +27327,12 @@ independiente de Iśvara".
 
 "स्वात्मानन्द-मात्र-तृप्तऩ्" ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वात्मानन्द-मात्र-तृप्त इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -27309,6 +27361,12 @@ independiente de Iśvara".
 "अत्यन्त--स्व-तन्त्रऩ् आम्" ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्यन्त-स्वतन्त्र इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "The jīva **is** absolutely independent of Bhagavān". 
@@ -27336,6 +27394,12 @@ independiente de Iśvara".
 "ईश्वरऩोडे एकी-भूतऩ् आम्" ऎऩ्ऱुम्,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वरेण सह एकी-भूत इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "The jīva **is** one with Iśvara". 
@@ -27361,6 +27425,13 @@ independiente de Iśvara".
 
 "व्यापारादि-रहितऩ् आम्" ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+व्यापारादि-रहित इति, 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -27389,6 +27460,12 @@ independiente de Iśvara".
 "+++(ईश्वराद्)+++ विभागाविभागादि-शक्तिमाऩ्" ऎऩ्ऱुम्,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+विभागाविभागादि-शक्तिमान् इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "The jīva **can separate and unite** (with Iśvara)". 
@@ -27414,6 +27491,12 @@ independiente de Iśvara".
 
 "आनन्द-तारतम्यवाऩ्" ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आनन्द-तारतम्यवान् इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -27442,6 +27525,12 @@ independiente de Iśvara".
 "व्यवस्थित-सालोक्यादि-भेदवाऩ्" ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+व्यवस्थित-सालोक्यादि-भेदवान् इत्य् एवं-प्रकारेषु, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "The jīvas **have** such differences as **being fit** to have only salokya and the like ", 
@@ -27469,6 +27558,14 @@ independiente de Iśvara".
 बाह्य--कु-दृष्टि-मतङ्गळ् ऒऩ्ऱालुङ्  
 कलक्कम् वारादु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यान्य् एवं-विध-प्रकारवत्सु च  
+बाह्य-कुदृष्टि-मतेषु केनापि  
+व्यामोहो न जायेत ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -27504,6 +27601,15 @@ y debido a aquellos que **están** fuera de los límites de la religión védica
 इप्-पडिये रक्षकऩ् आऩ श्रियःपतियैप् पऱ्ऱ विश्वास-मान्द्यमुम्,  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P301]]
+
+इत्थम् एव रक्षकस्य श्रियः पत्युर् विषये  
+विश्वास-मान्द्यं, 
+</details>
+
+
 <details><summary>English</summary>
 
 So also weakness of faith in the Consort of Śrī as a Protector, 
@@ -27530,6 +27636,12 @@ Así también la **debilidad** de la fe en la Consorte de Śrī como **Protector
 रक्षकान्तरान्वेषणमुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+रक्षकान्तरान्वेषणं, 
+</details>
+
+
 <details><summary>English</summary>
 
 the search for other Redeemers, 
@@ -27554,6 +27666,11 @@ la **búsqueda** de otros **Redentores**,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘‘त्वम् मे ऽहम् मे’’ ऎऩ्गिऱ पिणक्कुम्+++(=प्रणय-कलहम्)+++,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+‘‘त्वम् मे ऽहम् मे’’ इति विवाद-हेतुः, 
 </details>
 
 <details><summary>English</summary>
@@ -27585,6 +27702,12 @@ la **protesta** [Ver página (89 del libro)] contra **ser dependiente** de Dios,
 निरुपाधिकान्य-शेषत्व-भ्रममुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+निरुपाधिकान्य-शेषत्व-भ्रमः, 
+</details>
+
+
 <details><summary>English</summary>
 
 the **delusion** of **being** the unconditional śeṣa to others, 
@@ -27610,6 +27733,12 @@ el **engaño** de **ser** el śeṣa incondicional para los demás,
 
 देवतान्तर-प्रावण्यमुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+देवतान्तर-प्रावण्यम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -27637,6 +27766,12 @@ reverence to other deities,
 तद्-भक्त-संसर्गमुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तद्-भक्त-संसर्गः, 
+</details>
+
+
 <details><summary>English</summary>
 
 **association** with those who are their **devotees**, 
@@ -27661,6 +27796,11 @@ reverence to other deities,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मऱ्ऱुम् उळ्ळ अ-सेव्य-सेवा-रुचियुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तद्-इतरासेव्य-सेवारुचिः, 
 </details>
 
 <details><summary>English</summary>
@@ -27690,6 +27830,13 @@ y, asimismo, el **deleite** en **servir** a los que **no son aptos** para el **s
 देहात्म-भ्रमादिगळुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+देहात्म-भ्रमादयः, 
+</details>
+
+
+
 <details><summary>English</summary>
 
 such delusions as that the body and the soul are the same, 
@@ -27714,6 +27861,11 @@ tales **ilusiones** como que el cuerpo y el alma **son** lo mismo,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-तन्त्रात्म-भ्रमादिगळुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वतन्त्रात्म-भ्रमादयः, 
 </details>
 
 <details><summary>English</summary>
@@ -27743,6 +27895,14 @@ tales **ilusiones** como que el yo **es independiente** de Bhagavān,
 
 स्वार्थ-परिग्रहमुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वार्थ-परिग्रहः, 
+</details>
+
+
+
 <details><summary>English</summary>
 
 the earning (of money or other things) for one's own use, 
@@ -27769,6 +27929,12 @@ la **ganancia** (de dinero u otras cosas) para el propio **uso**,
 भागवतापचारमुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भागवतापचारः, 
+</details>
+
+
 <details><summary>English</summary>
 
 offence to the devotees of Bhagavān, 
@@ -27788,6 +27954,12 @@ offence to the devotees of Bhagavān,
 
 आकिञ्चन्य-विस्मृतियुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आकिञ्चन्य-विस्मृतिः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -27810,6 +27982,12 @@ offence to the devotees of Bhagavān,
 संसारानुवृत्ति-रुचियुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+संसारानुवृत्ति-रुचिः, 
+</details>
+
+
 <details><summary>English</summary>
 
 a **longing** for the **continuance** of life in saṁsāra, 
@@ -27831,6 +28009,12 @@ un **anhelo** por la **continuación** de la vida en el saṁsāra,
 आत्म-नाशादि-भयमुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+आत्म-नाशादि-भयम्, 
+</details>
+
+
 <details><summary>English</summary>
 
 the **fear** that the soul **will suffer annihilation**, 
@@ -27851,6 +28035,12 @@ el **miedo** de que el alma **sufrirá la aniquilación**,
 अ-सद्-आचारादि-रुचियुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+असद्-आचारादि-रुचिः, 
+</details>
+
+
 <details><summary>English</summary>
 
 the taste for doing what is improper, 
@@ -27870,6 +28060,12 @@ el gusto por **hacer** lo que **es** impropio,
 
 +++(भागवतत्व-भिन्न-)+++शत्रु-मित्रादि-विभाग-निरूपणमुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(भागवतत्व-भिन्न-)+++शत्रु-मित्रादि-विभाग-निरूपणम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -27892,6 +28088,11 @@ la **clasificación** de los hombres en amigos y enemigos,
 बान्धवान्तर-परिग्रहमुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+बान्धवान्तर-परिग्रहः, 
+</details>
+
 <details><summary>English</summary>
 
 the **seeking** of other kinsmen (than Bhagavān ), 
@@ -27911,6 +28112,12 @@ la **búsqueda** de otros parientes (que **no sean** Bhagavān),
 
 प्रयोजनान्तर-रुचियुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रयोजनान्तर-रुचिः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -27934,6 +28141,11 @@ el **deseo** de otros fines (que **no sean** el **logro** de Bhagavān),
 परम-प्रयोजन-वैमुख्यमुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+परम-प्रयोजन-वैमुख्यम्, 
+</details>
+
 <details><summary>English</summary>
 
 **averseness** to the supreme goal of life 
@@ -27954,6 +28166,14 @@ el **deseo** de otros fines (que **no sean** el **logro** de Bhagavān),
 
 मऱ्ऱुम् स्व-निष्ठाविरोधिगळ् ऒऩ्ऱुम् पिऩ्ऩ् आडादु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्ये च स्व-निष्ठा-विरोधिनो ऽंशा  
+ईषद् अपि नानुवर्तेरन् ॥
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -28051,6 +28271,14 @@ DIEZ FORMAS DE **INTERPRETAR** EL TIRUMANTRA:
 ऎऩ्ऩिल्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अस्मिन् श्रीमन्त्रे वाक्य-वाक्यार्थयोः स्थिति-प्रकारः कथम् 
+
+इति चेत् - 
+</details>
+
+
 <details><summary>English</summary>
 
 We shall now consider  
@@ -28084,6 +28312,12 @@ y el **significado** de dicha oración o oraciones.
 अव्वो अनुसन्धिप्पार्गळ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इमम् एक-वाक्यम् इति, वाक्य-द्वयम् इति, वाक्य-त्रयम् इति च तत्-तत्-संप्रदायतो ऽनुसंदधते । 
+</details>
+
+
 <details><summary>English</summary>
 
 The Tirumantra **is considered** as **being** a single sentence,  
@@ -28109,6 +28343,11 @@ en diferentes tradiciones.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि वाक्यार्थत्तैयुम् बहु-प्रकारम् आग वगुत्त् अनुसन्धानम् पण्णुवार्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं वाक्यार्थम् अपि बहु-प्रकारं विभज्यानुसंदधते । 
 </details>
 
 <details><summary>English</summary>
@@ -28172,6 +28411,17 @@ UNA ORACIÓN, QUE **INDICA** UPĀYA.
 इत्य्-आदिगळिऱ् पडिये 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एक-वाक्य-रूपत्वे, 
+
+> ‘‘तस्य वाचकः प्रणव’’  
+(पातञ्जल-योगसूत्रम् १-१-२७) 
+
+इत्य्-आद्य्-उक्त-रीत्या  
+</details>
+
+
 <details><summary>English</summary>
 
 When **it is looked** upon as a single sentence,  
@@ -28205,6 +28455,14 @@ porque **se ha dicho**:
 
 ऎऩ्ऱु अन्वयमाम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘प्रणव-प्रतिपाद्य-स्वभाव--+++(←जगत्कारणत्व-रक्षकत्व-शेषित्वादि)+++  -विशिष्टाय नारायणाय नमः’’ 
+
+इत्य् अन्वयः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -28241,6 +28499,13 @@ cuya naturaleza **es** tal que **puede determinarse** a partir del praṇava (au
 
 इप् प्रणवन् दाऩे नामम् आगव् अऱ्ऱ्+++(=अलम्)+++ आय् निऱ्क 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् प्रणवे  
+स्वतो नाम-भावार्हे सति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -28283,6 +28548,7 @@ en otro nombre **usando**, a saber, Nārāyaṇa,)
 केवलं नैव साधकः’’  
 (शाण्डिल्य-स्मृतिः ५-७१) 
 
+इति शाण्डिल्याद्य्-उक्त-प्रक्रियया  
 </details>
 
 <details><summary>English</summary>
@@ -28317,6 +28583,12 @@ porque su significado por sí mismo **no es definido**
 व्यापक-मन्त्रङ्गळिल् नामान्तरम् +++(देव-)+++व्यक्त्य्-अर्थम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+व्यापक-मन्त्रेषु नामान्तरं +++(देव-)+++व्यक्त्यर्थम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore, in the Vyāpaka mantras,  
@@ -28347,6 +28619,13 @@ el otro nombre **tiene** el **propósito** de **indicar** el particular (deidad)
 अहिर्-बुध्न्याद्य्-उक्तम् आऩ स्थूलानुसन्धान-प्रकारत्तैप् पार्त्ताल्  
 उपाय-परम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं योजना-विशेषो ऽहिर्बुध्न्याद्य्-उक्त-स्थूलानुसन्धान-प्रकार-परामर्शे  
+उपाय-परः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -28381,6 +28660,13 @@ cuando **se considera** a la luz de la **interpretación** burda **descrita** en
 स्व-रूप--पुरुषार्थङ्गळ्  
 इदिले अन्तर्-गतङ्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं सत्य् अपि  
+स्वरूप-पुरुषार्थाव् अप्य् अन्तर्गतौ । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -28431,6 +28717,15 @@ UNA ORACIÓN QUE **INDICA** KAIÑKARYA.
 इत्यादिगळैप् पार्त्तु 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘बद्धाञ्जलि-पुटा हृष्टा  
+नम इत्य् एव वादिनः’’  
+(भारतम् शान्ति-पर्व ३४४-४५) 
+
+[[P302]] इत्यादिकं दृष्ट्वा 
+</details>
+
 <details><summary>English</summary>
 
 (2) Considering such passages as 
@@ -28461,6 +28756,11 @@ y con gran deleite **pronunciar** la palabra namas".
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्यान्तर्गत-शेष-वृत्ति-परम् आगवुम् अनुसन्धिप्पार्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्राप्यान्तर्गत-शेष-वृत्ति-परत्वेनाप्य् अनुसंदधते ।
 </details>
 
 
@@ -28496,6 +28796,12 @@ que **está incluido** en la **experiencia** suprema de Bhagavān en mokṣa.
 इव् वृत्ति-विशेषमुम् स्व-रूपानुसन्धान-पूर्वकम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं वृत्ति-विशेषो ऽपि स्वरूपानुसन्धान-पूर्वकः । 
+</details>
+
+
 <details><summary>English</summary>
 
 This form of service **must (necessarily) be preceded** by a **reflection** on (one's) essential nature or "svarūpa  (i. e.) that of **being** a śeṣa to the Lord. 
@@ -28528,6 +28834,8 @@ Esta forma de **servicio debe (necesariamente) ser precedida** por una **reflexi
 कृतोपायर्क्क् इव्व्-अळवु +++(शेषवृत्तिं)+++ रसिक्कुम् अवस्थैयिलुम्  
 **उपजीव्यम्।**  
 </details>
+
+
 
 <details><summary>English</summary>
 
