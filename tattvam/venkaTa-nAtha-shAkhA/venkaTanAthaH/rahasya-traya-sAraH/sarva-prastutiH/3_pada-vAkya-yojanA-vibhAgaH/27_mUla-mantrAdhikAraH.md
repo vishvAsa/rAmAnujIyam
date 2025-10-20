@@ -28835,6 +28835,10 @@ Esta forma de **servicio debe (necesariamente) ser precedida** por una **reflexi
 **उपजीव्यम्।**  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् अपि कृतोपायानाम् एतावद्-रस(स्वाद)नौपयिकावस्थायाम् उपजीव्यम् ।
+</details>
 
 
 <details><summary>English</summary>
@@ -28899,6 +28903,13 @@ DOS ORACIONES QUE **INDICAN** SVARUPA:
 स्व-रूप--विवेकं वेणुम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतयोर् द्वयोर् अनुसन्धानयोः प्रतिष्ठितत्वाय  
+स्वरूप-विवेक आवश्यकः । 
+</details>
+
+
 <details><summary>English</summary>
 
 (3) When these two ideas **become well-established**,  
@@ -28927,6 +28938,12 @@ it **is necesary** to have a clear and distinctive **knowledge** of one's essent
 अदऱ्क् आग वाक्य-द्वयम् आग अनुसन्धिक्कुम् बोदु 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तद्-अर्थं वाक्य-द्वय-रूपेणानुसन्धाने, 
+</details>
+
+
 <details><summary>English</summary>
 
 For that purpose, the Tirumantra **may be looked** upon as **being** two sentences (a) "a Nārāyanāya um" - (b) "namas" (or na mama) **meaning** 
@@ -28948,6 +28965,12 @@ Para ese propósito, el Tirumantra **puede ser considerado** como **siendo** dos
 
 > अ-कार--नारायण-शब्द-वाच्य-- सर्व-रक्षकत्व-- सर्वाधारत्वादि-विशिष्टऩ् आऩवऩुक्के 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अकार-नारायण-शब्द-वाच्य-- सर्व-रक्षकत्व-- सर्वाधारत्वादि-विशिष्टस्यैव  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -28976,18 +28999,24 @@ y que **tiene** atributos tales como **ser** el **Redentor** universal y el **ap
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाऩ् निरुपाधिकानन्यार्ह-शेष-भूतऩ्; 
+> नाऩ् निरुपाधिकानन्यार्ह-शेष-भूतऩ्; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अहं निरुपाधिकानन्यार्ह-शेष-भूतो ऽस्मि ; 
+</details>
+
 
 <details><summary>English</summary>
 
-**I am** the unconditional śeṣa  
+> **I am** the unconditional śeṣa  
 and (**I am** the śeṣa) of no other. 
 </details>
 
 <details><summary>Español</summary>
 
-**Yo soy** el śeṣa incondicional  
+> **Yo soy** el śeṣa incondicional  
 y (**Yo soy** el śeṣa) de ningún otro. 
 </details>
 
@@ -29007,6 +29036,12 @@ y (**Yo soy** el śeṣa) de ningún otro.
 
 > ऎऩक्क् उरियेऩ् अल्लेऩ्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> न मम स्व-भूतो ऽस्मि, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29034,6 +29069,12 @@ y (**Yo soy** el śeṣa) de ningún otro.
 > ऒऩ्ऱैप् पऱ्ऱ निर्-उपाधिक-स्वामियुम् अल्लेऩ्; +++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> कम् अपि प्रति निरुपाधिक-स्वाम्य् अपि नास्मि, 
+</details>
+
+
 <details><summary>English</summary>
 
 > **neither am I** the unconditional master of anything  
@@ -29060,6 +29101,13 @@ y (**Yo soy** el śeṣa) de ningún otro.
 > निर्-अपेक्ष--स्व-तन्त्रऩुम् अल्लेऩ् 
 
 ऎऩ्ऱद् आम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> निरपेक्ष-स्वतन्त्रो ऽपि नास्मि 
+
+इत्य् उक्तं भवति ॥ 
 </details>
 
 <details><summary>English</summary>
@@ -29092,6 +29140,15 @@ y (**Yo soy** el śeṣa) de ningún otro.
 
 ऎऩ्ऩिल्; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अकार-नारायण-शब्दयोर् उभयोर् अपि भगवन्-नामत्वात्  
+पुनरुक्तिः किं न भवति
+
+इति चेत् — 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29130,6 +29187,13 @@ La **respuesta es** (como **sigue**):--
 अप्-पोदु +++(एकतरे)+++ व्युत्पत्ति-विशेष-सिद्धम् आऩ अर्थ-विशेषत्तै विवक्षित्तु  
 ऒऩ्ऱु विशेषणम् आगक् कडवदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तदा +++(एकतरे)+++  व्युत्पत्ति-विशेष-सिद्धार्थ-विशेष-विवक्षणेन  
+एकं विशेषणं भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29171,6 +29235,14 @@ con el propósito de **indicar** las cualidades especiales (como **protectoridad
 ऎऩ्ऱुम् पुनर्-उक्ति परिहरिक्कलाम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> +++(व्युत्पत्तिम् अनाश्रित्यैव)+++ अकार-वाच्याय नारायणाय
+
+इति च पुनरुक्तिः सुपरिहरा।  
+</details>
+
+
 <details><summary>English</summary>
 
 The redundancy would also **cease**  
@@ -29209,6 +29281,12 @@ que **se denota** con la letra a en (aum)".
 वासु-देवादि-शब्दत्तोडे समानाधिकरणम् आगा निऩ्ऱद् इऱे।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवच्-छब्दो नामधेयं सन्न् अपि  
+वासुदेवादि-शब्द-समानाधिकरणः स्थितः किल । 
+</details>
+
 <details><summary>English</summary>
 
 **Do we not see** the word 'Bhagavān', which is His name, **being employed** in apposition or grammatical co-ordination (sāmānādhikaraṇya)  
@@ -29226,6 +29304,12 @@ con la palabra Vāsudeva (en el mantra Vāsudeva )?
 भगवच्छब्दमुम् नामधेयमायिरुक्क वासुदेवादिशब्दत्तोडे समानाधिकरणमागानिऩ्ऱदिऱे।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि पौनरुक्त्यपरिहारत्तिऱ्कु दृष्टान्तमरुळिच्चॆय्गिऱार् भगवच्छब्दमुमित्यादियाल्। वासुदेवद्वादशाक्षरियिल् योगरूढमाऩ भगवच्छब्दमुम् योगरूढमाऩ वासुदेवशब्दमुम् समानाधिकरणमागक् काण्गिऱोमिऱे। इङ्गु प्रणवत्तै समर्पणपरमाक्कि पौनरुक्त्यत्तै परिहरित्तालुम् द्वादशाक्षरियिल् पौनरुक्त्यपरिहारम् मुऩ्सॊऩ्ऩ रीदियिले आगक्कडवदॆऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > सर्व-बीजाक्षर-वाच्यम् आऩ सर्व-कारणम् देवतान्तरमोव् 
@@ -29234,6 +29318,16 @@ con la palabra Vāsudeva (en el mantra Vāsudeva )?
 नारायणऩ् ऎऩ्ऱु  
 विशेषिक्कैयालुम् स-प्रयोजनम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> सर्व-बीजाक्षर-वाच्यं सर्व-कारणं किं देवतान्तरम् 
+
+इति शङ्कानवकाशाय  
+नारायण इति विशेषण-करणाद् अपि  
+स-प्रयोजनम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29259,11 +29353,24 @@ que **es** el origen de todas las letras (a saber, "a").
 सर्वबीजाक्षरवाच्यमाऩ सर्वकारणम् देवतान्तरमोवॆऩ्ऱु शङ्कियातबडि नारायणऩॆऩ्ऱु विशेषिक्कैयालुम् सप्रयोजनम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नारायणशब्दम् सर्वबीजाक्षरमाऩ अकारत्तिऱ्कु विशेषणमाय्क्कॊण्डु देवतान्तरव्यावर्तकमागैयालुम् प्रयोजनवत्तरमॆऩ्गिऱार् सर्वबीजाक्षरवाच्यमाऩ इति । 
+</details>
+
+
 #### पद-क्रमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मन्त्रङ्गळुक्कु पद-क्रमम् अध्ययन-नियतम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मन्त्राणां पद-क्रमो ऽध्ययन-नियतः,  
+</details>
+ 
+
 
 <details><summary>English</summary>
 
@@ -29283,10 +29390,22 @@ El orden de las palabras en una oración
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मन्त्रत्तिल् नमो नारयणाय ऎऩ्ऱु पाठक्रममिरुक्क नारायणाय नमः ऎऩ्ऱु अन्वयम् सॊल्लक्कूडुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् मन्त्रङ्गळुक्कु इत्यादियाल्। पाठक्रमादर्थक्रमो बलीयान् ऎऩ्गिऱ न्यायमिङ्गु अभिप्रेतम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्वयम् अर्थानुगुणम् आगक् कडवदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्वयो ऽर्थानुगुणो भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29303,12 +29422,21 @@ pero la **construcción** o conexión sintáctica de las palabras **está** de a
 अन्वयमर्थानुगुणमागक् कडवदु। 
 </details>
 
+
+
 #### स्वरूपे निष्ठा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि वाक्य-द्वयम् आऩाल्  
 तिरु-मन्त्रम् मुऴुक्क+++(=आहत्य)+++ स्व-रूप--परम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं वाक्य-द्वय-रूपत्वे  
+श्रीमन्त्रः कृत्स्नो ऽपि स्वरूप-परः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29328,15 +29456,34 @@ todo el Tirumantra **es descriptivo** de la naturaleza esencial (svarūpa) del j
 इप्पडि वाक्यद्वयमाऩाल् तिरुमन्त्रम् मुऴुक्कस्वरूपपरम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप् पक्षत्तिल् नमस्सै स्वशेषत्वनिवृत्त्यादिगळिल् अन्यतमत्तै विवक्षित्तुक्कॊण्डु योजित्तु द्वितीयवाक्यमाक्किऩाल् तिरुमन्त्रम् मुडिय स्वरूपपरमॆऩ्गिऱार् इप्पडि वाक्यद्वयमाऩालिति । 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द स्व-रूप-पर--योजऩैयैप् पऱ्ऱ  
-तिरु-मन्त्रत्तिले पिऱन्दु  
+
+> "तिरु-मन्त्रत्तिले पिऱन्दु  
 द्वयत्तिले वळर्न्दु  
-"द्वयैकनिष्ठऩ् आवाय्" ऎऩ्ऱु पूर्वर्गळ् अरुळिच् चॆय्दार्गळ्। 
+द्वयैकनिष्ठऩ् आवाय्" 
+
+ऎऩ्ऱु पूर्वर्गळ् अरुळिच् चॆय्दार्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमां स्वरूप-पर-योजनाम् अभिप्रेत्य  
+
+> श्रीमन्त्रे जनित्वा  
+द्वये वृद्धिमान् भूत्वा  
+द्वयैक-निष्ठो भव
+
+इति पूर्वे ऽनुजगृहुः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29365,6 +29512,12 @@ y **mantente firme** solo en Dvaya".
 इन्द स्वरूपपर योजऩैयैप्पऱ्ऱ तिरुमन्त्रत्तिले पिऱन्दु द्वयत्तिले वळर्न्दु द्वयैकनिष्ठऩावायॆऩ्ऱु पूर्वर्गळरुळिच्चॆय्दार्गळ्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द स्वरूपपरयोजऩै आचार्यरुचिपरिगृहीतमॆऩ्बदैपूर्वर्गळिऩ् वाक्योदाहरणत्ताले दर्शिप्पिक्किऱार् इन्द स्वरूपपरयोजऩैयैप् पऱ्ऱ इत्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिऱक्कैय् आवदु -  
@@ -29375,6 +29528,18 @@ y **mantente firme** solo en Dvaya".
 (तिरुच्-छन्द-विरुत्तम् ६४) 
 
 ऎऩ्गिऱ मुऩ्ब् उऱ्ऱ निलै **कऴिगै**। 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+जननं नाम  
+स्वरूप-ज्ञानस्य जननात्,  
+
+> "तदाहं न जातो ऽस्मि,  
+जननात् परं न विस्मृतवान् अस्मि" 
+
+इत्य्-उक्त-प्राक्तनावस्था-निवृत्तिः । 
 </details>
 
 
@@ -29410,15 +29575,28 @@ y **no olvido** esto".
 पिऱक्कैयावदु - स्वरूपज्ञानम् पिऱक्कैयाले ’’अऩ्ऱु नाऩ् पिऱन् दिलेऩ् पिऱन्द पिऩ् मऱन्दिले’’(तिरुच्-छन्दविरुत्तम् ६४) ऩॆऩ्गिऱ मुऩ्बुऱ्ऱ निलै कऴिगै। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पिऱप्पुक्कु अर्थमरुळिच्चॆय्गिऱार् पिऱक्कैयावदु इति । अऩ्ऱु - स्वरूप-ज्ञानम् पिऱप्पदऱ्कु मुऩ्बु, पिऱन्दिलेऩ् - केवलशरीरजननत्ताले जनित्तवऩाग विल्लै। पिऱन्द पिऩ् - स्वरूपज्ञानमागिऱ जन्मत्तैप् पॆऱ्ऱबिऩ्, मऱन्दिलेऩ् - शेषत्वत्तै मऱन्दवऩल्लऩ्, मुऩ्बुऱ्ऱ निलै कऴिगै - ज्ञानमिल्लाद अवस्थै कऴिगै, 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अद् आवदु  
-तऩ्ऩ् इसैवालुम् अन्-अन्य-शेषऩ् आय्,  
+अद् +++(प्राक्तनावस्था-निवृत्तिः)+++ आवदु  
+तऩ्ऩ् इसैवालुम्+++(=इच्छया)+++ अन्-अन्य-शेषऩ् आय्,  
 अद्-अडिय् आग अन्-अन्याधीनऩ् आय्,  
 अद्-अडिय् आग अन्-अन्य-प्रयोजनऩ् आय्,  
 अनन्य-शरणऩ् आगै।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सा च +++(प्राक्तनावस्था-निवृत्तिः)+++  
+स्वेच्छया ऽनन्य-शेषत्वानन्याधीनत्व-- तन्-मूलकानन्य-प्रयोजनत्व-- +अनन्य-शरणत्व-शालिता । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29446,11 +29624,25 @@ y ese **no tiene** otro **salvador** que Él.
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अदै उपपादिक्किऱार् अदावदु इत्यादिना । इसैवु - इच्चै, वळरुगैक्कु अर्थमरुळिच्चॆय्गिऱार् वळरुगैयावदु इत्यादियाल्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"वळरुगैय्" आवदु;  
+"वळरुगैय्" +++(=वृद्धिर्)+++ आवदु;  
 अधिकार-विशेषानुरूप-- कर्तव्य-विशेष-विषय-ज्ञान-विशेषत्ताले उपाय-परिग्रहम् पण्णुगै।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+वृद्धिर् नाम  
+अधिकारि-विशेषानुरूप-- कर्तव्य-विशेष-विषय-- ज्ञान-विशेषेण  
+उपाय-परिग्रह-करणम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29471,6 +29663,13 @@ como **ser adecuado** a la propia competencia.
 वळरुगैयावदु; अधिकारविशेषानुरूप कर्तव्यविशेष विषयज्ञानविशेषत्ताले उपायपरिग्रहम् पण्णुगै।
 </details>
 
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अधिकारविशेषानुरूप – आकिञ्चन्यानन्यगतित्वरूपाधिकारविशेषत्तिऱ्कु अनुगुणमाऩ, कर्तव्य विशेषविषयकज्ञानविशेषत्ताले - कर्तव्यमाऩ साङ्गभरसमर्पण विषयकज्ञानविशेषत्ताले, उपायपरिग्रहम् पण्णुगै - भरसमर्पणत्तै पण्णुगै। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "द्वैयैक-निष्ठऩ् आगैय्" आवदु;  
@@ -29479,6 +29678,14 @@ como **ser adecuado** a la propia competencia.
 इदिऱ् सॊऩ्ऩ उपायत्तिलुम्  
 प्रयोजनत्तिलुम् प्रतिष्ठितऩ् आगै।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"द्वयैक-निष्ठत्वं" नाम-  
+द्वयानुसन्धानेनोपायान्तरे प्रयोजनान्तरे च संबन्ध-च्छेदेन  
+एतत्-प्रतिपादिते उपाये प्रयोजने च प्रतिष्ठितत्वम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29504,11 +29711,24 @@ y **sin** ningún otro fin a la vista.
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+द्वयैकनिष्ठऩागैयावदु इत्यादि । अनवरतम् द्वयानुसन्धानम् पण्णिऩाल् सावधारणमाऩ चरणशब्दत्तालुम् सावधारणचतुर्थ्यन्तनारायणशब्दत्तालुम् उपायान्तर प्रयोजनान्तर निवृत्तिपूर्वक द्वयोक्तोपाय प्रयोजननिष्ठै सिद्धिक्कुमॆऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि तिरु-मन्त्रमुम् द्वयमुङ् कूड  
 स्वरूपोपाय-पुरुषार्थङ्गळैक् काट्टुगिऱऩ।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं श्रीमन्त्रो द्वयं च  
+स्वरूपोपाय-पुरुषार्थान् प्रदर्शयतः ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29525,6 +29745,13 @@ Por lo tanto, el mantra Tiru y Dvaya **combinados** juntos
 <details><summary>मूलम्</summary>
 
 इप्पडि तिरुमन्त्रमुम् द्वयमुङ्गूड स्वरूपोपायपुरुषार्थङ्गळैक् काट्टुगिऱऩ।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द स्वरूपपरयोजऩैयिल्  
+उपायोपेय-प्रदर्शकम् द्वयम् ऎऩ्गिऱार्  
+इप्पडि तिरुमन्त्रमुम् द्वयमुम् कूड इति । 
 </details>
 
 
@@ -29546,6 +29773,12 @@ DOS ORACIONES QUE **INDICAN** EL UPĀYA:
 तिरु-मन्त्रम् मुऴुक्क+++(=आहत्य)+++ स-परिकरात्म-समर्पण-परम् ऎऩ्ऱुम् अनुसन्धिप्पार्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्यां वाक्य-द्वय-रूपायां योजनायां  
+श्रीमन्त्रः कृत्स्नः स-परिकरात्म-समर्पण-पर इत्य् अप्य् अनुसंदधते । 
+</details>
+
 <details><summary>English</summary>
 
 (4) In this **construction** of Tirumantra into two sentences,  
@@ -29565,33 +29798,52 @@ la **entrega** del yo con sus accesorios.
 इव्विरण्डु वाक्यमाऩ योजऩै तऩ्ऩिले तिरुमन्त्रम् मुऴुक्क सपरिकरात्म समर्पणपरमॆऩ्ऱुमनुसन्धिप्पार्गळ्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि वाक्यद्वयपक्षत्तिल् उपायपरयोजऩैयैक्काट्टुगिऱार् इव्विरण्डु वाक्यमाऩ योजऩै तऩ्ऩिले इति । 
+सपरिकरात्मसमर्पणपरमॆऩ्ऱुमनुसन्धिप्पार्गळिति । आगैयालेये इदु उपायपरयोजऩैयायिऱ्ऱु। 
+</details>
+
+
 #### ओं नारायणाय
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्-पोदु प्रणवत्तिल् म-कारम्  
-प्रथमान्तमेय् आगव् अमैयुम् हविस्-समर्पण-न्यायत्ताले … 
+प्रथमान्तमेय् आगव् अमैयुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तदा प्रणवे मकारः प्रथमान्त एव भवति ।
+</details>
+
 
 <details><summary>English</summary>
 
 In that case, the "m" in praṇava **should be considered** to be in the nominative or first case.  
-By the principle of the **offering** of the havis (or **oblation**),  
 </details>
 
 <details><summary>Español</summary>
 
 En ese caso, la "m" en praṇava **debe considerarse** como nominativo o primer caso.  
-Por el principio de la **ofrenda** de los havis (u **oblación**),  
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-अप्पोदु प्रणवत्तिल् मकारम् प्रथमान्त-मेयागवमैयुम् हविस्समर्पणन्यायत्ताले
+अप्पोदु प्रणवत्तिल् मकारम् प्रथमान्त-मेयागवमैयुम्।
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडियागिल् ऎऩ्ऩै नारायणऩिऩ् पॊरुट्टुसमर्पिक्किऱेऩॆऩ्ऱु प्रणवत्तिल् मकारम् द्वितीयान्तमाग वेण्डावो वॆऩ्ऩ वरुळिच् चॆय्गिऱार् अप्पोदु इति । समर्पणपरमाऩबोदु ऎऩ्ऱर्थम्। 
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हविस्-समर्पण-न्यायत्ताले 
 
 > निरुपाधिकम् आऩव् आत्म-हविस्सु  
 निरुपाधिक-देवतैय् आय् अ-कार-वाच्यऩ् आऩ नारायणऩुक्के  
@@ -29600,8 +29852,21 @@ Por el principio de la **ofrenda** de los havis (u **oblación**),
 ऎऩ्ऱद् आयिऱ्ऱु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+हविस्-समर्पण-न्यायेन  
+
+> निरुपाधिकम् आत्म-हविर्  
+निरुपाधिक-देवतायाय् अकार-वाच्याय नारायणायैव  
+भरत्वेन समर्पितम् 
+
+इति फलितम् । 
+</details>
+
+
 <details><summary>English</summary>
 
+By the principle of the **offering** of the havis (or **oblation**),  
 Tirumantra **would** then **mean** 
 
 > "This **unconditional offering**, namely, the self or soul  
@@ -29614,6 +29879,7 @@ and who **is** the deity
 
 <details><summary>Español</summary>
 
+Por el principio de la **ofrenda** de los havis (u **oblación**),  
 Tirumantra **sería** entonces **significa** 
 
 > "Esta **ofrenda incondicional**, es decir, el yo o el alma  
@@ -29627,15 +29893,31 @@ y quién **es** la deidad
 
 <details><summary>मूलम्</summary>
 
-निरुपाधिकमाऩवात्महविस्सुनिरुपाधिकदेवतैयाय् अकारवाच्यऩाऩ नारायणऩुक्के भरमाग समर्पितमॆऩ्ऱतायिऱ्ऱु।
+हविस्समर्पणन्यायत्ताले निरुपाधिकमाऩवात्महविस्सुनिरुपाधिकदेवतैयाय् अकारवाच्यऩाऩ नारायणऩुक्के भरमाग समर्पितमॆऩ्ऱतायिऱ्ऱु।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+समर्पणीयवस्तुवै प्रथमान्तशब्दत्ताले सॊल्लक्कण्डदुण्डो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् हविस्समर्पणन्यायत्ताले इत्यादिना । इन्द्रायेदं हविः ऎऩ्ऱु देवतैयिऩ्बॊरुट्टु हविस्सै समर्पिक्कुम् पोदु समर्पणकर्मीभूतहविर्वाचकशब्दम् प्रथमान्तमागक् काणप्पडुगैयाल् अन्द न्यायत्ताले ऎऩ्ऱबडि। हविस्सिऱ्कु निरुपाधिकत्वमावदु अवऩुक्के शेषमायिरुक्कै। 
+
+देवतैक्कु निरुपाधिकत्वमावदु स्वतश्शेषित्वम्, अकारवाच्यऩाऩ नारायणऩुक्के भरमाग समर्पितमॆऩ्ऱतायिऱ्ऱु इति । एतावता प्रथमवाक्यार्थम् सॊल्लिऱ्ऱायिऱ्ऱु। 
+</details>
+
 
 #### नमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि निरुपाधिकम् आऩव् आत्म-यागत्तिल्  
-‘‘नमः’’ ऎऩ्ऱु तऩ्ऩोडु तऩ् तुवक्क्-अऱुत्तु  
+‘‘न मः’’ ऎऩ्ऱु तऩ्ऩोडु तऩ् तुवक्क्-अऱुत्तु  
 "ऎऩक्कु भरम् अल्लेऩ्" ऎऩ्ऱद् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं निरुपाधिके आत्म-यागे --  
+"न मः" इति स्वेन सह स्वस्य संबन्धं व्यवच्छिद्य  
+"मम भरो नास्मि"  
+इति कथितं भवति । 
 </details>
 
 <details><summary>English</summary>
@@ -29664,6 +29946,12 @@ y **dice**,
 इप्पडि निरुपाधिकमाऩ वात्मयागत्तिल् ‘‘नमः’’ ऎऩ्ऱु तऩ्ऩोडु तऩ् तुवक्कऱुत्तु ऎऩक्कु भरमल्लेऩॆऩ्ऱदायिऱ्ऱु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+द्वितीयवाक्यार्थत्तैक् काट्टुगिऱार् इप्पडि इत्यादियाल्। आत्मयागत्तिल् निरुपाधिकत्वमावदु स्वतश्शेषिविषयत्तिल् स्वतस्समर्पणरूपत्वम् तऩ्ऩोडु तुवक्कऱुत्तु ऎऩक्कु भरमल्लेऩ् ऎऩ्बदु नमश्शब्दार्थम्।  
+</details>
+
+
 #### वाक्य-द्वय-सप्रयोजनता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29671,6 +29959,14 @@ y **dice**,
 
 ऎऩ्ऩुमाप् पोले 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "इदम् इन्द्राय न मम" 
+
+इतिवत् 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29703,6 +29999,14 @@ y no la mía",
 वाक्य-द्वयमुम् स-प्रयोजनम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्रापि पर-संबन्ध-विधौ  
+स्व-संबन्ध-निषेधे च प्रवृत्तत्वात्  
+वाक्य-द्वयं स-प्रयोजनम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 here also,  
@@ -29728,10 +30032,18 @@ y la **negación** de su **conexión** con uno mismo.
 #### नमसा स्वातन्त्र्य-निषेधः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन् नमस्सु समर्पणन्-तऩ्ऩिलुम्  
-पर-निर्-अपेक्ष-कर्तृत्वादिगळै निषेधिक्कैयिले  
+इन् नमस्सु  
+समर्पणन्-तऩ्ऩिलुम् पर-निर्-अपेक्ष-कर्तृत्वादिगळै निषेधिक्कैयिले +++(ग्राह्ये सति)+++  
 तत्-परम् आगवुम् आम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं "नमः"  
+समर्पणे ऽपि पर-निरपेक्ष-कर्तृत्वादीनां निषेधे +++(ग्राह्ये सति)+++  
+तत्-परं वा । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29761,6 +30073,15 @@ absolutamente independiente del Ser Supremo.
 
 ऎऩ्ऱु वाक्य-द्वयाभिप्रायम् आगवुमाम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> नान्यस्य कस्यचिद् भरः,  
+न ममापि भरः
+
+इति वाक्य-द्वयाभिप्रायकं वा । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29792,6 +30113,14 @@ ni **es** mío".
 ऎऩ्ऩुम् इडत्तै 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> 'श्रीमन्त्र आत्म-निवेदन-परः' 
+
+इत्य् एतम् अर्थं 
+</details>
+
+
 <details><summary>English</summary>
 
 That Tirumantra **has**, for its purport, the **offering** or **surrender** of the self  
@@ -29819,7 +30148,11 @@ Ese Tirumantra **tiene**, como su propósito, la **ofrenda** o **entrega** del y
 
 <details><summary>नीलमेघः (सं)</summary>
 
+नित्ये
+
 > ‘‘मूल-मन्त्रेण स्वात्मानं देवाय निवेद्य’’(नित्यम्) 
+
+इत्य् अनुजग्राह । 
 </details>
 
 
@@ -29858,11 +30191,15 @@ Ese Tirumantra **tiene**, como su propósito, la **ofrenda** o **entrega** del y
 
 <details><summary>नीलमेघः (सं)</summary>
 
+इत्थं वैकुण्ठ-गद्ये ऽपि, 
+
 > ‘‘श्रीमता मूल-मन्त्रेण  
 माम् ऐकान्तिकात्यन्तिक-परिचर्या-करणाय परिगृह्णीष्वेति याचमानः  
 प्रणम्यात्मानं भगवते निवेदयेत्’’  
 (वैकुण्ठ-गद्यम्) 
 
+इत्य् अयम् अर्थो दर्शितः ।
+[[P304]]
 </details>
 
 <details><summary>English</summary>
@@ -29915,6 +30252,14 @@ DOS ORACIONES QUE **INDICAN** PURUṢĀRTHA:
 द्वयत्तिल् उत्तर-खण्डम् बोले  
 इष्ट-प्राप्त्य्--अनिष्ट-निवृत्ति-रूप-- पुरुषार्थ-प्रार्थना-परम् आगवुम् अनुसन्धिप्पार्गळ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रति-वाक्यम् एकं प्रार्थना-पदम् अध्याहृत्य  
+श्रीमन्तं कृत्स्नम् अपि  
+द्वये उत्तर-खण्डवत् इष्ट-प्राप्त्य्--अनिष्ट-निवृत्ति--रूप-- पुरुषार्थ-प्रार्थना-परत्वेनाप्य् अनुसन्दधते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -29970,6 +30315,12 @@ y esto **se considera** el fin supremo.
 अप्-पोदुम् स्व-रूपानुसन्धानम् इदिलेय् अन्तर्गतम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तदा ऽपि स्व-रूपानुसन्धानम् अत्रान्तर्गतम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 In that case, the **reflection** on one's svarūpa **is implicit** in it. 
@@ -29989,6 +30340,12 @@ En ese caso, el **reflejo** en el svarūpa de uno **está implícito** en él.
 
 स्वरूप-मात्र-परम् आऩ बोदुम्  
 पुरुषार्थ-विशेषम् सूचितम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वरूप-मात्र-परत्वे ऽपि  
+पुरुषार्थ-विशेषः सूचितः । 
 </details>
 
 <details><summary>English</summary>
@@ -30016,6 +30373,12 @@ solo la **indicación** del svarūpa de uno, (como en el tercer significado)
 अदिऩ् उपायमुम्, प्रार्थऩैयुम्, तत्-तत्-प्रमाण-वशत्ताले वरुम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तस्योपायः प्रार्थना च  
+तत्-तत्-प्रमाण-वशात् सिध्यतः ।
+</details>
+
 <details><summary>English</summary>
 
 The upāya and the **prayer would then be known**  
@@ -30041,8 +30404,17 @@ de los respectivos pramāṇas que **ordenan** prapatti.
 मुऩ्बु प्राप्तङ्गळ् अल्लामैयाले  
 इम् मन्त्रम् मुऴुक्क+++(=आहत्य)+++ प्राप्य-परम्  
 
-ऎऩ्ऱदु +++(ज्ञान-जनक-प्राप्यम्→)+++अन्य-परम् +++(वक्ष्यमाण-रीत्या)+++।
+ऎऩ्ऱदु +++(ज्ञान-विषयक-प्राप्यम्→)+++अन्य-परम् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘एतन्-मन्त्रोत्पाद्य-शेषत्व-ज्ञानादीनां पूर्वम् अप्राप्तत्वात्  
+अयं मन्त्रः कृत्स्नो ऽपि प्राप्य-परः' 
+
+इति वचो +++(ज्ञान-विषयक-प्राप्यम्→)+++ऽन्य-परम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -30082,6 +30454,16 @@ Tirumantra tiene, **por su denotación**, este **conocimiento**.
 शब्दत्ताल् उत्पाद्यम् आऩ ज्ञानम्  
 शब्दत्तुक्कु प्रतिपाद्यम् अऩ्ऱ् इऱे। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कथम् इति चेत् -- 
+"प्राप्य-परम्" इत्य् एतस्य  
+"प्राप्य-प्रतिपादकम्" इति नार्थः ।  
+शब्दोत्पाद्यं ज्ञानं  
+शब्दस्य प्रतिपाद्यं न भवति किल ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -30206,6 +30588,20 @@ Si **se pregunta** cómo es esto, la **respuesta es** la **siguiente**:
 ऎङ्ङऩेयॆऩ्ऩिल्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अथ श्रीमन्त्रस्य वाक्य-त्रय-रूपत्वे  
+
+- स्वरूप-पुरुषार्थयोः शाब्दत्वे उपायस्यार्थता वा,  
+- स्वरूपोपाययोः शाब्दत्वे पुरुषार्थस्यार्थता वा,  
+- उपाय-पुरुषार्थयोः शाब्दत्वे स्वरूपस्यार्थता वा,  
+- स्वरूपोपाय-पुरुषार्थानां क्रमेण शाब्दता वा 
+
+भवति ।  
+कथम् इति चेत्—
+</details>
+
+
 
 #### स्वरूप-फल-पराणि (६)
 
@@ -30239,6 +30635,7 @@ Si **se pregunta** cómo es esto, la **respuesta es** la **siguiente**:
 अवस्थास्व् **आविः स्युर्** मम सहज-**कैङ्कर्य-विधयः** ॥   
 (अष्टश्लोकी ३)
 
+इत्य्-उक्त-रीत्या 
 </details>
 
 
@@ -30280,6 +30677,12 @@ A Él las variadas formas de **servicio** que **debo rendir** en virtud de mi na
 प्रणवमुम् नमस्सुं स्वरूपत्तै शोधिक्किऩ्ऱऩ। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रणव-नमसी स्वरूपं शोधयतः । 
+</details>
+
+
 <details><summary>English</summary>
 
 the praṇava and the namas clarify the svarūpa ; 
@@ -30302,6 +30705,14 @@ el praṇava y los namas **aclaran** el svarūpa;
 अध्याहृतम् आऩ +++("स्याम्")+++ क्रियापदत्तोडे कूडि  
 पुरुषार्थ-प्रार्थनार्थम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तृतीय-पदं प्रणवोक्तं तादर्थ्यं पुरस्कृत्य  
+अध्याहृतेन +++("स्याम्")+++ क्रिया-पदेन संबध्य  
+पुरुषार्थ-प्रार्थनार्थम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -30329,6 +30740,13 @@ La forma de la oración **sería**: "¡Que **pueda ser** para Nārāyaṇa!"
 अप्-पोदु अन्-इष्ट--निवृत्ति-प्रार्थऩै  
 अर्थ-स्वभावत्ताले वरक् कडवदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तदा अनिष्ट-निवृत्ति-प्रार्थना  
+अर्थ-स्वभावेन सिध्यति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -30362,6 +30780,17 @@ sin la **eliminación** de **obstáculos**).
 इत्य्-आदिगळिलुञ् जॊल्लुगिऱ बडिये 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+द्वये, 
+
+> ‘‘भवांस् तु सह वैदेह्या’’  
+(रामायणम् अयोध्या-काण्डम् ३१-२७) 
+
+इत्यादिषु चोक्त-रीत्या 
+</details>
+
+
 <details><summary>English</summary>
 
 As **stated** in the Dvaya  
@@ -30389,6 +30818,16 @@ y en pasajes tales como
 कैङ्कर्य-प्रतिसम्बन्धियुम् स-पत्नीकऩ् आऩ बडियाले  
 इङ्गुम् सलक्ष्मीकऩ् आऩ नारायणऩ् पॊरुट्टावे 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कैङ्कर्य-प्रतिसंबन्धिनः स-पत्नीकत्वाद् अत्रापि 
+
+> स-पत्नीकाय नारायणाय भवेयम् 
+
+इत्य् उक्तं भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -30421,6 +30860,13 @@ el significado aquí **también sería**,
 ‘‘भवेयं’’ ऎऩ्ऱ् ऒरु पदम् अध्याहार्यम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"नारायणाये"त्य् अस्य क्रियापेक्षायाः [[P305]] सत्त्वाद्  
+औचित्याद् "भवेयम्" इति पदम् एकम् अध्याहार्यम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 If the predicate **be needed**,  
@@ -30447,6 +30893,15 @@ una palabra como "bhaveyam" (**Que yo sea**) **debe entenderse**.
 ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "अप्रच्युति-कैङ्कर्यं वाञ्छामो वयम्” 
+
+इति, 
+</details>
+
+
+
 <details><summary>English</summary>
 
 > “May I **render** faultless **service**  
@@ -30470,11 +30925,19 @@ en todos los lugares y en todos los estados".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ’’अडियेऩैय् आट्-कॊण्ड् अरुळेय्’’  
+> ’’अडियेऩैय् आट्+++(ळ्)+++ कॊण्ड् अरुळेय्’’  
 (पॆरिय तिरुमॊऴि १-९-२) 
 
 ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "शेषं मां दासं कर्तुं कृपां कुरु"
+
+इति, 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
