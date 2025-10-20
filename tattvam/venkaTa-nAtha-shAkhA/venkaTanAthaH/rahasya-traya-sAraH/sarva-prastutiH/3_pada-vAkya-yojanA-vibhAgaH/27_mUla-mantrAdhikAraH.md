@@ -26688,6 +26688,12 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 "निमित्तोपादानैक्यङ् कॊळ्ळ वॊण्णाद्" ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+निमित्तोपादानैक्यम् अभ्युपगन्तुम् अयुक्तम् इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "The material cause and the instrumental cause **can never be** the same", 
@@ -26716,6 +26722,12 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 "जीवेश्वरर्गळ् एकात्माव्" ऎऩ्ऱुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+जीवेश्वराव् एकात्मेति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "The jīva and Iśvara are only a single self", 
@@ -26742,6 +26754,13 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 "+++(जीवेश्वरर्गळ्)+++ उपाधि-सिद्ध-भेदर्" ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+उपाधि-सिद्ध-भेदौ इति, 
+</details>
+
+
+
 <details><summary>English</summary>
 
 > "The difference between the jīva and Iśvara **is** due to certain **limiting** factors or conditions (upādhi)". 
@@ -26767,8 +26786,14 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नित्यभिन्नाभिन्नरॆऩ्ऱुम्, 
+नित्य-भिन्नाभिन्नर् ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+नित्य-भिन्नाभिन्नौ इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -26798,6 +26823,12 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 "जीवऩ् कर्म-मात्राधीन-शेष-भावऩ्" ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+जीवः कर्म-मात्राधीन-शेष-भाव इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > " The jīva **is** śeṣa only on account of his karma ", 
@@ -26818,6 +26849,12 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 
 "अनियत-शेष-भावऩ्" ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनियत-शेष-भाव इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -26843,6 +26880,11 @@ y en otras ocasiones **no es** un śeṣa",
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "+++(जीवः)+++ जडम्" ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+जड इति, 
 </details>
 
 <details><summary>English</summary>
@@ -26873,6 +26915,12 @@ y en otras ocasiones **no es** un śeṣa",
 "ज्ञान-मात्र-स्वरूपऩ्" ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+ज्ञान-मात्र-स्वरूप इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "The jīva **is**, in his essential nature, knowledge (and **does not possess knowledge** as an attribute)". 
@@ -26902,6 +26950,12 @@ y en otras ocasiones **no es** un śeṣa",
 "नित्य-मुक्तऩ्" ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+नित्य-मुक्त इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "The jīva **is** eternally free from **bondage**". 
@@ -26928,6 +26982,12 @@ y en otras ocasiones **no es** un śeṣa",
 "आरोपित-भोगऩ्" ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+आरोपित-भोग इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "The jīva only **seems to enjoy**  
@@ -26953,6 +27013,12 @@ y en otras ocasiones **no es** un śeṣa",
 "कर्ताव् अल्लऩ्" ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अकर्तेति, 
+</details>
+
+
 <details><summary>English</summary>
 
 > "The jīva **is not a doer** or agent". 
@@ -26974,6 +27040,12 @@ y en otras ocasiones **no es** un śeṣa",
 
 "ईश्वर-निरपेक्ष-कर्ताव्" ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वर-निरपेक्ष-कर्तेति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -27005,6 +27077,8 @@ independiente de Iśvara".
 
 आ-प्रलय-स्थायिय् ऎऩ्ऱुम्, 
 </details>
+
+
 
 <details><summary>English</summary>
 
