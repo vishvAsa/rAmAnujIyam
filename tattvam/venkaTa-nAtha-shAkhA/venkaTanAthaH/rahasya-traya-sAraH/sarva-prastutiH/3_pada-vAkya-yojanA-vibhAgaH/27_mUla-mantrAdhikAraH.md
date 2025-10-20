@@ -29775,6 +29775,7 @@ A Él las variadas formas de **servicio** que **debo rendir** en virtud de mi na
 ‘‘अकारार्थायैव स्वमहमथ मह्यन्न निवहा नराणां नित्यानामयनमिति नारायणपदम् । यमाहास्मै कालं सकलमपि सर्वत्र सकलास्ववस्थास्वाविस्स्युर्मम सहजकैङ्कर्यविधयः’’(अष्टश्लोकी ३) ऎऩ्गिऱबडिये
 </details>
 
+##### स्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रणवमुम् नमस्सुं स्वरूपत्तै शोधिक्किऩ्ऱऩ। 
@@ -29795,7 +29796,7 @@ el praṇava y los namas **aclaran** el svarūpa;
 प्रणवमुम् नमस्सुंस्वरूपत्तै शोधिक्किऩ्ऱऩ। 
 </details>
 
-
+##### पुरुषार्थः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मूऩ्ऱाम् पदम् प्रणवत्तिऱ् सॊऩ्ऩ तादर्थ्यत्तै पुरस्करित्तुक् कॊण्डु  
@@ -29822,7 +29823,7 @@ La forma de la oración **sería**: "¡Que **pueda ser** para Nārāyaṇa!"
 मूऩ्ऱाम् पदम् प्रणवत्तिऱ्सॊऩ्ऩ तादर्थ्यत्तै पुरस्करित्तुक्कॊण्डु अध्याहृतमाऩ क्रियापदत्तोडे कूडि पुरुषार्थप्रार्थनार्थम्। 
 </details>
 
-##### आर्थांशाः
+##### हेय-निवृत्ति-याच्ञा ऽऽर्था
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -29851,7 +29852,7 @@ sin la **eliminación** de **obstáculos**).
 अप्पोदु अनिष्टनिवृत्तिप्रार्थऩै अर्थस्वभावत्ताले वरक्कडवदु। 
 </details>
 
-
+##### सपत्नीकता ऽऽर्था
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वयत्तिलुम्,  
@@ -29913,10 +29914,79 @@ el significado aquí **también sería**,
 </details>
 
 
+##### अध्याहारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘नारायणाय’’ ऎऩ्गिऱव् इदुक्कु  
+क्रियापेक्षैय् उण्ड् आगैयाल्  
+‘‘भवेयं’’ ऎऩ्ऱ् ऒरु पदम् अध्याहार्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+If the predicate **be needed**,  
+a word like "bhaveyam" (**May I be**) **should be understood**. 
+</details>
+
+<details><summary>Español</summary>
+
+Si el predicado **es necesario**,  
+una palabra como "bhaveyam" (**Que yo sea**) **debe entenderse**. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नारायणाय’’ ऎऩ्गिऱविदुक्कु क्रियापेक्षैयुण्डागैयाल् ‘‘भवेयं’’ ऎऩ्ऱॊरु पदमध्याहार्यम्। 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-If the predicate be needed, a word like bhaveyam (May I be) should be understood. This prayer has indeed been made in such forms as the following:-- “May I render faultless service remaining with Bhagavān constantly in all places and in all states." "Vouchsafe upto me Thy grace so that I may render service to Thee". "I pray for eternal service to Thee" and " I should be Thy eternal servant,"
+> ’’वऴुव्+++(=स्खालित्यम्)+++ इलाव् अडिमै सॆय्य वेण्डुम्’’  
+(तिरुवाय्मॊऴि ३-३-१)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> “May I **render** faultless **service**  
+**remaining** with Bhagavān constantly  
+in all places and in all states." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Que yo **prestea** un **servicio** impecable  
+**permaneciendo** con Bhagavān constantemente  
+en todos los lugares y en todos los estados". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’वऴुविला वडिमै सॆय्यवेण्डुम्’’(तिरुवाय्मॊऴि ३-३-१)  ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’अडियेऩैय् आट्-कॊण्ड् अरुळेय्’’  
+(पॆरिय तिरुमॊऴि १-९-२) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’अडियेऩैयाट्कॊण्डरुळेय्’’(पॆरिय तिरुमॊऴि १-९-२) ऎऩ्ऱुम्, 
+</details>
+
+
+This prayer has indeed been made in such forms as the following:-- 
+
+> "Vouchsafe upto me Thy grace  
+so that **I may render service** to Thee". "I pray for eternal service to Thee" and " I should be Thy eternal servant,"
 
 “Existing for His sake' is eternal; so there is no need to pray for it; this relationship of existing for His sake (as His śeṣa) is already expressed by the praṇava. Therefore prayer is inside here for service (to Bhagavān), which is the overflow of the full and perfect enjoyment of Bhagavān and which contains within itself all other ends of life as in the common saying: "In the ocean is a small puddle (i.e.) the larger contains the smaller within it)".
 
