@@ -2889,7 +2889,7 @@ para que **pueda rendirte servicio**".
 
 > ‘‘नित्य-किङ्करो भवानि’’(लघु-गद्यम्) 
 
-
+इति, 
 </details>
 
 <details><summary>English</summary>
@@ -2912,6 +2912,12 @@ y "Yo **debería ser** Tu eterno **siervo**",
 इप् प्रार्थऩैयै प्रयोगित्तार्गळ् इऱे।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+चेमां प्रार्थनां प्रयुयुजिरे किल । 
+</details>
+
+
 <details><summary>English</summary>
 
 This prayer has indeed been made in such forms as the above.
@@ -2929,18 +2935,168 @@ Esta **oración se ha hecho** en formas como las anteriores.
 </details>
 
 
+#### प्रार्थना-गाम्भीर्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तादर्थ्यम् नित्य-सिद्धम् आगैयाले  
+आशासिक्क वेण्डामैय् आलुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तादर्थ्यस्य नित्य-सिद्धत्वेनानाशास्यत्वात्, 
+</details>
+
+
+<details><summary>English</summary>
+
+“Existing for His sake" is eternal;  
+so there is no need to pray for it; 
+</details>
+
+<details><summary>Español</summary>
+
+"**Existiendo** por Su causa" **es** eterno;  
+así que **no hay necesidad** de **orar** por ello; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तादर्थ्यम् नित्यसिद्धमागैयाले आशासिक्कवेण्डामैयालुम् 
+</details>
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस् सम्बन्ध-स्वरूपम् प्रणवत्तिले सॊल्लुगैयालुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य च संबन्ध-स्वरूपस्य प्रणवे प्रतिपादनाच् च, 
+</details>
+
+<details><summary>English</summary>
+
+this relationship of existing for His sake (as His śeṣa) is already expressed by the praṇava. Therefore 
+</details>
+
+<details><summary>Español</summary>
+
+esta **relación** de **existir** por Su causa (como Su śeṣa)  
+**está** ya **expresado** por el praṇava.  
+Por lo tanto...
+</details>
+
+<details><summary>मूलम्</summary>
+
+इस् सम्बन्धस्वरूपम् प्रणवत्तिले सॊल्लुगैयालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिऩ् फलम् आय्  
+
+> ‘‘समुद्रे गोष्पदम् अस्ति’’ 
+
+ऎऩ्ऩुमाप् पोले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतत्-फल-भूतम्, 
+
+> ‘‘समुद्रे गोष्पदम् अस्ति’’ 
+
+इतिवत् 
+</details>
+
+<details><summary>English</summary>
+
+as in the common saying: 
+
+> "In the ocean is a small puddle (i.e. the larger contains the smaller within it)".
+</details>
+
+<details><summary>Español</summary>
+
+como en el **dicho** común: 
+
+> "En el océano **hay** un pequeño charco (es decir, el más grande **contiene** al más pequeño dentro de él)".
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-“Existing for His sake" is eternal; so there is no need to pray for it; this relationship of existing for His sake (as His śeṣa) is already expressed by the praṇava. Therefore prayer is inside here for service (to Bhagavān), which is the overflow of the full and perfect enjoyment of Bhagavān and which contains within itself all other ends of life as in the common saying: "In the ocean is a small puddle (i.e.) the larger contains the smaller within it)".
+इदिऩ् फलमाय् ‘‘समुद्रे गोष्पदमस्ति’’ ऎऩ्ऩुमाप्पोले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुषार्थान्तरङ्गळैय् ऎल्लाम्  
+विळाक्+++(=आकृष्य)+++ कुलैक्+++(=विस्तार्य)+++ कॊण्ड् इरुक्किऱ  
+परिपूर्ण-ब्रह्मानुभव-परीवाहम् आऩ कैङ्कर्यम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पुरुषार्थान्तराणि सर्वाणि गर्भी-कुर्वत्  
+परिपूर्ण-ब्रह्मानुभव-परीवाह-रूपं कैङ्कर्यम्, 
+</details>
+
+<details><summary>English</summary>
+
+(that) which **contains** within itself all other ends of life  
+for that service (to Bhagavān),  
+which **is** the overflow of the full and perfect **enjoyment** of Bhagavān  
+</details>
+
+<details><summary>Español</summary>
+
+(aquello) que **contiene** dentro de sí mismo todos los demás fines de la vida  
+por ese **servicio** (a Bhagavān),  
+que **es** el **desbordamiento** del **disfrute** pleno y perfecto de Bhagavān  
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुरुषार्थान्तरङ्गळैयॆल्लाम् विळाक्कुलैक्कॊण्डिरुक्किऱ परिपूर्णब्रह्मानुभवपरीवाहमाऩ कैङ्कर्यम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(तिरुवाय्मोऴि 3-3-1)+++ "ऒऴिविल्+++(=अवधि-रहित)+++ काल"त्तिऱ् पडियेय्  
+इङ्ग् अपेक्षिक्कप् पडुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+(in the manner of "time without end")  
+a prayer is made here.
+</details>
+
+<details><summary>Español</summary>
+
+(a la manera de "tiempo sin fin")  
+Aquí **se hace** una **oración**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऒऴिविल्गालत्तिऱ्पडियेय् इङ्गपेक्षिक्कप् पडुगिऱदु। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-॥ अत्र स्वलाभापेक्षापि स्वामिलाभावसायिनी ।  
-स्वामिप्रयोजनापेक्षाप्यतस्स्वानन्दहेतुका ॥
+अत्र स्वलाभापेक्षा ऽपि  
+स्वामि-लाभावसायिनी ।  
+स्वामि-प्रयोजनाऽऽपेक्षा ऽप्य्  
+अतस् स्वानन्द-हेतुका ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
