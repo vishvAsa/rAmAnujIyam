@@ -2769,7 +2769,7 @@ una palabra como "bhaveyam" (**Que yo sea**) **debe entenderse**.
 नारायणाय ऎऩ्गिऱ चतुर्थ्यन्तपदम् क्रियापदमिऩ्ऱिक्के अनन्वितमागैयाले प्रार्थऩैक्कु उसिदमाऩ भवेयमॆऩ्गिऱ क्रियापदम् अध्याहार्यमॆऩ्गिऱार् नारायणाय ऎऩ्गिऱविदुक्कु इत्यादियाल्। 
 </details>
 
-
+#### पूर्व-प्रार्थनाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ’’वऴुव्+++(=स्खालित्यम्)+++ इलाव् अडिमै सॆय्य वेण्डुम्’’  
@@ -2828,6 +2828,18 @@ en todos los lugares y en todos los estados".
 इति, 
 </details>
 
+<details><summary>English</summary>
+
+> "**Vouchsafe** upto me Thy grace  
+so that **I may render service** to Thee". 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "**Concédeme** Tu gracia  
+para que **pueda rendirte servicio**". 
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2835,12 +2847,95 @@ en todos los lugares y en todos los estados".
 </details>
 
 
-This prayer has indeed been made in such forms as the following:-- 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> "Vouchsafe upto me Thy grace  
-so that **I may render service** to Thee". "I pray for eternal service to Thee" and " I should be Thy eternal servant,"
+> ‘‘नित्य-किङ्करतां प्रार्थये’’  
+(लघु-गद्यम्) 
 
-“Existing for His sake' is eternal; so there is no need to pray for it; this relationship of existing for His sake (as His śeṣa) is already expressed by the praṇava. Therefore prayer is inside here for service (to Bhagavān), which is the overflow of the full and perfect enjoyment of Bhagavān and which contains within itself all other ends of life as in the common saying: "In the ocean is a small puddle (i.e.) the larger contains the smaller within it)".
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नित्य-किङ्करतां प्रार्थये’’  
+(लघु-गद्यम्) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+> "I **pray** for eternal **service** to Thee" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Te **rezo** por el **servicio** eterno a Ti" 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नित्यकिङ्करतां प्रार्थये’’(लघु-गद्यम्) ऎऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नित्य-किङ्करो भवानि’’(लघु-गद्यम्) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नित्य-किङ्करो भवानि’’(लघु-गद्यम्) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+and "I **should be** Thy eternal **servant**,"
+</details>
+
+<details><summary>Español</summary>
+
+y "Yo **debería ser** Tu eterno **siervo**",
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नित्यकिङ्करो भवानि’’(लघु-गद्यम्) ऎऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् प्रार्थऩैयै प्रयोगित्तार्गळ् इऱे।
+</details>
+
+<details><summary>English</summary>
+
+This prayer has indeed been made in such forms as the above.
+</details>
+
+<details><summary>Español</summary>
+
+Esta **oración se ha hecho** en formas como las anteriores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप् प्रार्थऩैयै प्रयोगित्तार्गळिऱे।
+</details>
+
+
+
+
+
+
+
+
+“Existing for His sake" is eternal; so there is no need to pray for it; this relationship of existing for His sake (as His śeṣa) is already expressed by the praṇava. Therefore prayer is inside here for service (to Bhagavān), which is the overflow of the full and perfect enjoyment of Bhagavān and which contains within itself all other ends of life as in the common saying: "In the ocean is a small puddle (i.e.) the larger contains the smaller within it)".
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
