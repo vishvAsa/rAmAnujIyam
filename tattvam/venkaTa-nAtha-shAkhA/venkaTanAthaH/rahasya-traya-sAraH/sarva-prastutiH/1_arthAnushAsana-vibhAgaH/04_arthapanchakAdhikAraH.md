@@ -3757,14 +3757,14 @@ whether at the end of a kalpa or of a manvantara or of a yuga.
 
 <details><summary>Español</summary>
 
-Es cierto que el gītā dice  
-que para aquellos que practican karmayoga,  
-El esfuerzo nunca perecerá o será en vano.  
-Lo que se ha construido, por supuesto, permanecerá construido,  
-por así decirlo, de piedra.  
-Pero no podemos decir  
-cuándo se alcanzará la fruta,  
-ya sea al final de un kalpa o de un manvantara o de un yuga. 
+Es cierto que el gītā **dice**  
+que para aquellos que **practican** karmayoga,  
+El **esfuerzo nunca perecerá** o **será** en vano.  
+Lo que **se ha construido**, por supuesto, **permanecerá construido**,  
+por así **decirlo**, de **piedra**.  
+Pero **no podemos decir**  
+cuándo se **alcanzará** la fruta,  
+ya **sea** al final de un kalpa o de un manvantara o de un yuga. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3787,8 +3787,8 @@ had to wait long.
 <details><summary>Español</summary>
 
 Incluso sabios como Vasiṣṭha,  
-Quien actuó de tal manera que le agradara a Dios,  
-Tuve que esperar mucho.
+Quien **actuó** de tal manera que le **agradara** a Dios,  
+**Tuve** que **esperar** mucho.
 </details>
 
 <details><summary>मूलम्</summary>
