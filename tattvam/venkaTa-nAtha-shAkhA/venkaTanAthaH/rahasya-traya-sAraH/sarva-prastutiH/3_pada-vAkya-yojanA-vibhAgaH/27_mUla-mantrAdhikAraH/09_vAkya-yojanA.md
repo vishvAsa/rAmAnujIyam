@@ -2213,17 +2213,17 @@ de los respectivos pramāṇas que **ordenan** prapatti.
 
 > इम् मन्त्रोत्पाद्यङ्गळ् आऩ शेषत्व-ज्ञानादिगळ्  
 मुऩ्बु प्राप्तङ्गळ् अल्लामैयाले  
-इम् मन्त्रम् मुऴुक्क+++(=आहत्य)+++ प्राप्य-परम्  
+इम् मन्त्रम् मुऴुक्क+++(=आहत्य, स्वरूपोपाय-परत्वे ऽपि)+++ प्राप्य-परम्+++(→प्रतिपादकम्)+++  
 
-ऎऩ्ऱदु +++(ज्ञान-विषयक-प्राप्यम्→)+++अन्य-परम् +++(वक्ष्यमाण-रीत्या)+++।
+ऎऩ्ऱदु +++(लक्षणया ज्ञानोत्पत्ति-प्रशंसा→)+++ अन्य-परम् +++(वक्ष्यमाण-रीत्या)+++।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘एतन्-मन्त्रोत्पाद्य-शेषत्व-ज्ञानादीनां पूर्वम् अप्राप्तत्वात्  
-अयं मन्त्रः कृत्स्नो ऽपि प्राप्य-परः' 
+अयं मन्त्रः कृत्स्नो ऽपि +++(स्वरूपोपाय-परत्वे ऽपि)+++ प्राप्य-परः' 
 
-इति वचो +++(ज्ञान-विषयक-प्राप्यम्→)+++ऽन्य-परम् । 
+इति वचो +++(लक्षणया ज्ञानोत्पत्ति-प्रशंसा→)+++ ऽन्य-परम् । 
 </details>
 
 
@@ -2283,8 +2283,8 @@ Tirumantra tiene, **por su denotación**, este **conocimiento**.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎङ्ङऩेय् ऎऩ्ऩिल्;  
-"प्राप्य-परम्" ऎऩ्ऱदु  
-"प्राप्य-प्रतिपादकम्" ऎऩ्ऱ बडिय् अऩ्ऱु;  
++++(ज्ञान-प्राप्ति-प्रशंसा-वाक्ये)+++ "प्राप्य-परम्" ऎऩ्ऱदु  
+"+++(ज्ञान-मात्र-)+++प्राप्य-प्रतिपादकम्" ऎऩ्ऱ बडिय् अऩ्ऱु;  
 शब्दत्ताल् उत्पाद्यम् आऩ ज्ञानम्  
 शब्दत्तुक्कु प्रतिपाद्यम् अऩ्ऱ् इऱे। +++(4)+++
 </details>
@@ -2292,8 +2292,8 @@ Tirumantra tiene, **por su denotación**, este **conocimiento**.
 <details><summary>नीलमेघः (सं)</summary>
 
 कथम् इति चेत् -- 
-"प्राप्य-परम्" इत्य् एतस्य  
-"प्राप्य-प्रतिपादकम्" इति नार्थः ।  
++++(ज्ञान-प्राप्ति-प्रशंसा-वाक्ये)+++ "प्राप्य-परम्" इत्य् एतस्य  
+"+++(ज्ञान-मात्र-)+++प्राप्य-प्रतिपादकम्" इति नार्थः ।  
 शब्दोत्पाद्यं ज्ञानं  
 शब्दस्य प्रतिपाद्यं न भवति किल ।
 </details>
@@ -2344,6 +2344,11 @@ y los elementos de **conocimiento** que **pueden surgir** cuando **se emplea** l
 <details><summary>मूलम्</summary>
 
 ऎङ्ङऩेयॆऩ्ऩिल्; प्राप्यपरमॆऩ्ऱदु प्राप्यप्रतिपादकमॆऩ्ऱबडियऩ्ऱु; शब्दत्ताल् उत्पाद्यमाऩ ज्ञानम् शब्दत्तुक्कु प्रतिपाद्यमऩ्ऱिऱे।  
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अन्यपरत्वत्तै उपपादिक्किऱार् ऎङ्ङऩेयॆऩ्ऩिलित्यादिना ।  
 </details>
 
 
@@ -2418,7 +2423,7 @@ Si **se pregunta** cómo es esto, la **respuesta es** la **siguiente**:
 
 <details><summary>मूलम्</summary>
 
-तिरुमन्त्रम् मूऩ्ऱु वाक्यमाऩबोदु स्वरूपमुम् पुरुषार्थमुञ्जॊल्लवु पायमार्थमादल्, स्वरूपमुमुपायमुञ्जॊल्ल पुरुषार्थमार्थमादल्, उपायमुम् पुरुषार्थमुञ्जॊल्ल स्वरूपमार्थमादल्, स्वरूपोपायपुरुषार्थङ्गळडैवे शाब्दङ्गळादलागक् कडवदु।  
+तिरुमन्त्रम् मूऩ्ऱु वाक्यमाऩबोदु स्वरूपमुम् पुरुषार्थमुञ्जॊल्लवुपायमार्थमादल्, स्वरूपमुमुपायमुञ्जॊल्ल पुरुषार्थमार्थमादल्, उपायमुम् पुरुषार्थमुञ्जॊल्ल स्वरूपमार्थमादल्, स्वरूपोपायपुरुषार्थङ्गळडैवे शाब्दङ्गळादलागक् कडवदु।  
 ऎङ्ङऩेयॆऩ्ऩिल्; 
 </details>
 
@@ -2435,9 +2440,14 @@ Si **se pregunta** cómo es esto, la **respuesta es** la **siguiente**:
 कथम् इति चेत्—
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि वाक्यत्रयपक्षत्तिल् प्रणवनमस्सुक्कळ् स्वरूपपरङ्गळ्, तृतीय पदम् पुरुषार्थप्रार्थनापरम्, उपायमार्थमॆऩ्गिऱ मुदल् योजऩैयैयुम्, प्रणवम् स्वरूपपरम्, द्वितीयतृतीयपदम् पुरुषार्थप्रार्थनापरम्, उपायमार्थमॆऩ्गिऱ इरण्डावदु योजऩैयैयुम्, प्रणवम् स्वरूपपरम्, मेलिरण्डु पदङ्गळ् उपायपरम् पुरुषार्थप्रार्थऩै आर्थमॆऩ्गिऱ मूऩ्ऱावदु योजऩैयैयुम्, प्रणवमुपायपरम्, मेलिरण्डु पदम् पुरुषार्थप्रार्थनापरम्, स्वरूपमार्थमॆऩ्गिऱ नालावदु योजऩैयैयुम्, अडैवे प्रणवम् स्वरूपपरम्, नमस्सु उपायपरम्, तृतीयपदम् पुरुषार्थप्रार्थनापरमॆऩ्गिऱ ऐन्दावदु योजऩैयैयुम् काट्टुगिऱार् तिरुमन्त्रम् मूऩ्ऱु वाक्यमाऩबोदु इत्यादियाल्।  
+</details>
 
 
 ### स्वरूप-फल-पराणि (६)
+
 
 <details><summary>English</summary>
 
@@ -2447,6 +2457,19 @@ Si **se pregunta** cómo es esto, la **respuesta es** la **siguiente**:
 <details><summary>Español</summary>
 
 (6) Las dos primeras palabras **indican** svarūpa y la tercera palabra puruṣārtha.
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+स्वरूपमुम् पुरुषार्थमुम् सॊल्ल उपायमार्थमादलिति ।  
+
+इदिल् प्रणवनमस्सुक्कळ् स्वरूपपरम्, तृतीयपदम् पुरुषार्थ प्रार्थनापरम्,  
+उपायमार्थमॆऩ्गिऱ योजऩैयुम्,  
+
+प्रणवम्, स्वरूपपरम्,  
+द्वितीय-तृतीयपदम्, पुरुषार्थप्रार्थनापरम् उपायमार्थमॆऩ्गिऱ योजनैयुम् 
+
+अभिप्रेतम्। +++(4)+++  
 </details>
 
 
@@ -2504,6 +2527,12 @@ A Él las variadas formas de **servicio** que **debo rendir** en virtud de mi na
 
 ‘‘अकारार्थायैव स्वमहमथ मह्यन्न निवहा नराणां नित्यानामयनमिति नारायणपदम् । यमाहास्मै कालं सकलमपि सर्वत्र सकलास्ववस्थास्वाविस्स्युर्मम सहजकैङ्कर्यविधयः’’(अष्टश्लोकी ३) ऎऩ्गिऱबडिये
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द योजनापञ्चकत्तिल् प्रथमयोजऩैयै सप्रमाणमागक् काट्टुगिऱार् अकारार्थायैवेत्यादिना । इदु भट्टर् अरुळिच्चॆय्द श्लोकम्। इदु तिरुमन्त्रम् स्वरूपपुरुषार्थप्रकाशकमॆऩ्बदै वॆळियिडुगिऱदु। अकारार्थायैव – अकारार्थत्तिऩ् पॊरुट्टे, अहं - नाऩ् शेषभूतऩ्; इदु प्रणवार्थम्। अथ मह्यं न - ऎऩ् पॊरुट्टु शेषभूतऩऩ्ऱु। इदु नमस्सिऩर्थम्। नित्यानां नराणां निवहा अयनं यस्येति नारायणपदं यमाह – ऎवऩैच् चॊल्लुगिऱदो, इदुबहुव्रीहिगर्भमाऩ नारायणपदत्तिऩर्थम्। अस्मै कालमित्यादि प्रार्थनापदान्वितचतुर्थियिऩर्थम्। ऎऩ्गिऱ पडिये - इन्द श्लोकोक्तप्रक्रियैयाले, 
+</details>
+
 
 #### स्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2567,6 +2596,12 @@ La forma de la oración **sería**: "¡Que **pueda ser** para Nārāyaṇa!"
 मूऩ्ऱाम् पदम् प्रणवत्तिऱ्सॊऩ्ऩ तादर्थ्यत्तै पुरस्करित्तुक्कॊण्डु अध्याहृतमाऩ क्रियापदत्तोडे कूडि पुरुषार्थप्रार्थनार्थम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मूऩ्ऱाम् पदम् - नारायणाय ऎऩ्गिऱ पदम्, प्रणवत्तिऱ्सॊऩ्ऩ तादर्थ्यत्तै - प्रणवत्तिल् लुप्तचतुर्थियिऩाल् सॊल्लप्पट्ट शेषत्वत्तै, अध्याहृतमाऩ क्रियापदत्तोडु भवेयमॆऩ्गिऱ प्रार्थनार्थकक्रियापदत्तोडु, पुरुषार्थप्रार्थनार्थम् चतुर्थियिल्सॊऩ्ऩ कैङ्कर्यरूपपुरुषार्थप्रार्थनार्थकम्। 
+</details>
+
+
 #### हेय-निवृत्ति-याच्ञा ऽऽर्था
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2602,6 +2637,12 @@ sin la **eliminación** de **obstáculos**).
 
 अप्पोदु अनिष्टनिवृत्तिप्रार्थऩै अर्थस्वभावत्ताले वरक्कडवदु। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द योजऩैयिल् नमस्सु स्वरूपपरमॆऩ्ऱदाल् अनिष्टनिवृत्तिरूपपुरुषार्थत्तिऱ्कु वाचकपदमिल्लैये ऎऩ्ऩ वरुळिच् चॆय्गिऱार् अप्पोदु इति । अर्थस्वभावत्ताले इति । अनिष्टनिवृत्तिपूर्वकमागवे इष्टप्राप्ति वरुमागैयालॆऩ्ऱबडि। 
+</details>
+
 
 #### सपत्नीकता ऽऽर्था
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2644,6 +2685,11 @@ y en pasajes tales como
 <details><summary>मूलम्</summary>
 
 द्वयत्तिलुम् ‘‘भवांस्तु सह वैदेह्या’’(रामायणम् अयोध्या-काण्डम् ३१-२७) इत्यादिगळिलुञ् जॊल्लुगिऱबडिये 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+द्वयत्तिल् उत्तरखण्डत्तिलुम् ‘‘भवांस्तु सह वैदेह्या’’ ऎऩ्गिऱ श्लोकत्तिलुम् कैङ्कर्यप्रतिसम्बन्धियै सलक्ष्मीकऩाग निर्देशिक्कैयाल् ऎङ्गुम् कैङ्कर्यप्रतिसम्बन्धियै सपत्नीकऩागवे कॊळ्ळवेण्डुमागैयाल् मूलमन्त्रत्तिल् केवलनारायणशब्दमिरुन्दालुम् इङ्गुम् श्रीमाऩाऩ नारायणऩिऩ् पॊरुट्टे आगक्कडवेऩ् ऎऩ्ऱु प्रार्थऩै आवश्यकमॆऩ्गिऱार् द्वयत्तिलुमित्यादियाल्। 
 </details>
 
 
@@ -2718,7 +2764,12 @@ una palabra como "bhaveyam" (**Que yo sea**) **debe entenderse**.
 ‘‘नारायणाय’’ ऎऩ्गिऱविदुक्कु क्रियापेक्षैयुण्डागैयाल् ‘‘भवेयं’’ ऎऩ्ऱॊरु पदमध्याहार्यम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
+नारायणाय ऎऩ्गिऱ चतुर्थ्यन्तपदम् क्रियापदमिऩ्ऱिक्के अनन्वितमागैयाले प्रार्थऩैक्कु उसिदमाऩ भवेयमॆऩ्गिऱ क्रियापदम् अध्याहार्यमॆऩ्गिऱार् नारायणाय ऎऩ्गिऱविदुक्कु इत्यादियाल्। 
+</details>
+
+#### पूर्व-प्रार्थनाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ’’वऴुव्+++(=स्खालित्यम्)+++ इलाव् अडिमै सॆय्य वेण्डुम्’’  
@@ -2756,6 +2807,11 @@ en todos los lugares y en todos los estados".
 ’’वऴुविला वडिमै सॆय्यवेण्डुम्’’(तिरुवाय्मॊऴि ३-३-१)  ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इम्मादिरि स्थलङ्गळिल् प्रार्थनावाचिक्रियापदत्तैये प्रयोगिक्कवेण्डुमॆऩ्बदिल् पूर्वाचार्यर्गळिऩ् श्रीसूक्तिकळैक् काट्टुगिऱार् वऴुविलावडिमै सॆय्यवेण्डुमॆऩ्ऱुमित्यादियाल्। वऴुविला - अपराधमिल्लादबडि, स्वाधीनस्वार्थकर्तृत्वभ्रममिल्लाद ऎऩ्ऩवुमाम्। अडिमै - कैङ्कर्यत्तै, नाम् - अडियोङ्गळ्, सॆय्यवेण्डुम् - सॆय्यक्कड वोम्, 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2772,6 +2828,18 @@ en todos los lugares y en todos los estados".
 इति, 
 </details>
 
+<details><summary>English</summary>
+
+> "**Vouchsafe** upto me Thy grace  
+so that **I may render service** to Thee". 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "**Concédeme** Tu gracia  
+para que **pueda rendirte servicio**". 
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2779,12 +2847,95 @@ en todos los lugares y en todos los estados".
 </details>
 
 
-This prayer has indeed been made in such forms as the following:-- 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> "Vouchsafe upto me Thy grace  
-so that **I may render service** to Thee". "I pray for eternal service to Thee" and " I should be Thy eternal servant,"
+> ‘‘नित्य-किङ्करतां प्रार्थये’’  
+(लघु-गद्यम्) 
 
-“Existing for His sake' is eternal; so there is no need to pray for it; this relationship of existing for His sake (as His śeṣa) is already expressed by the praṇava. Therefore prayer is inside here for service (to Bhagavān), which is the overflow of the full and perfect enjoyment of Bhagavān and which contains within itself all other ends of life as in the common saying: "In the ocean is a small puddle (i.e.) the larger contains the smaller within it)".
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नित्य-किङ्करतां प्रार्थये’’  
+(लघु-गद्यम्) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+> "I **pray** for eternal **service** to Thee" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Te **rezo** por el **servicio** eterno a Ti" 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नित्यकिङ्करतां प्रार्थये’’(लघु-गद्यम्) ऎऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नित्य-किङ्करो भवानि’’(लघु-गद्यम्) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नित्य-किङ्करो भवानि’’(लघु-गद्यम्) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+and "I **should be** Thy eternal **servant**,"
+</details>
+
+<details><summary>Español</summary>
+
+y "Yo **debería ser** Tu eterno **siervo**",
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नित्यकिङ्करो भवानि’’(लघु-गद्यम्) ऎऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् प्रार्थऩैयै प्रयोगित्तार्गळ् इऱे।
+</details>
+
+<details><summary>English</summary>
+
+This prayer has indeed been made in such forms as the above.
+</details>
+
+<details><summary>Español</summary>
+
+Esta **oración se ha hecho** en formas como las anteriores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप् प्रार्थऩैयै प्रयोगित्तार्गळिऱे।
+</details>
+
+
+
+
+
+
+
+
+“Existing for His sake" is eternal; so there is no need to pray for it; this relationship of existing for His sake (as His śeṣa) is already expressed by the praṇava. Therefore prayer is inside here for service (to Bhagavān), which is the overflow of the full and perfect enjoyment of Bhagavān and which contains within itself all other ends of life as in the common saying: "In the ocean is a small puddle (i.e.) the larger contains the smaller within it)".
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
