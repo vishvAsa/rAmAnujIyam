@@ -2935,7 +2935,7 @@ Esta **oración se ha hecho** en formas como las anteriores.
 </details>
 
 
-
+#### प्रार्थना-गाम्भीर्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तादर्थ्यम् नित्य-सिद्धम् आगैयाले  
@@ -3037,43 +3037,66 @@ como en el **dicho** común:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरुषार्थान्तरङ्गळैय् ऎल्लाम्  
-विळाक्+++(=आकृष्य)+++ कुलैक्+++(=विस्तार्य)+++ कॊण्ड् इरुक्किऱ 
+विळाक्+++(=आकृष्य)+++ कुलैक्+++(=विस्तार्य)+++ कॊण्ड् इरुक्किऱ  
+परिपूर्ण-ब्रह्मानुभव-परीवाहम् आऩ कैङ्कर्यम् 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-पुरुषार्थान्तराणि सर्वाणि गर्भी-कुर्वत् 
+पुरुषार्थान्तराणि सर्वाणि गर्भी-कुर्वत्  
+परिपूर्ण-ब्रह्मानुभव-परीवाह-रूपं कैङ्कर्यम्, 
 </details>
 
 <details><summary>English</summary>
 
-and (that) which **contains** within itself all other ends of life  
+(that) which **contains** within itself all other ends of life  
+for that service (to Bhagavān),  
+which **is** the overflow of the full and perfect **enjoyment** of Bhagavān  
 </details>
 
 <details><summary>Español</summary>
 
-y (aquello) que **contiene** dentro de sí mismo todos los demás fines de la vida  
+(aquello) que **contiene** dentro de sí mismo todos los demás fines de la vida  
+por ese **servicio** (a Bhagavān),  
+que **es** el **desbordamiento** del **disfrute** pleno y perfecto de Bhagavān  
 </details>
 
 <details><summary>मूलम्</summary>
 
-पुरुषार्थान्तरङ्गळैयॆल्लाम् विळाक्कुलैक्कॊण्डिरुक्किऱ 
+पुरुषार्थान्तरङ्गळैयॆल्लाम् विळाक्कुलैक्कॊण्डिरुक्किऱ परिपूर्णब्रह्मानुभवपरीवाहमाऩ कैङ्कर्यम्
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
++++(तिरुवाय्मोऴि 3-3-1)+++ "ऒऴिविल्+++(=अवधि-रहित)+++ काल"त्तिऱ् पडियेय्  
+इङ्ग् अपेक्षिक्कप् पडुगिऱदु। 
+</details>
 
+<details><summary>English</summary>
 
-prayer is inside here for service (to Bhagavān),  
+(in the manner of "time without end")  
+a prayer is made here.
+</details>
 
-which **is** the overflow of the full and perfect **enjoyment** of Bhagavān  
+<details><summary>Español</summary>
 
+(a la manera de "tiempo sin fin")  
+Aquí **se hace** una **oración**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऒऴिविल्गालत्तिऱ्पडियेय् इङ्गपेक्षिक्कप् पडुगिऱदु। 
+</details>
 
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-॥ अत्र स्वलाभापेक्षापि स्वामिलाभावसायिनी ।  
-स्वामिप्रयोजनापेक्षाप्यतस्स्वानन्दहेतुका ॥
+अत्र स्वलाभापेक्षा ऽपि  
+स्वामि-लाभावसायिनी ।  
+स्वामि-प्रयोजनाऽऽपेक्षा ऽप्य्  
+अतस् स्वानन्द-हेतुका ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
