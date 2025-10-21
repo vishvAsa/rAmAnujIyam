@@ -3072,6 +3072,13 @@ que **es** el **desbordamiento** del **disfrute** pleno y perfecto de Bhagavān
 इङ्ग् अपेक्षिक्कप् पडुगिऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+“अवधि-शून्यं कालं सर्वम्" इत्य्-अत्रोक्त-रीत्या  
+अत्रापेक्ष्यते ॥
+</details>
+
+
 <details><summary>English</summary>
 
 (in the manner of "time without end")  
@@ -3093,11 +3100,42 @@ Aquí **se hace** una **oración**.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-अत्र स्वलाभापेक्षा ऽपि  
-स्वामि-लाभावसायिनी ।  
-स्वामि-प्रयोजनाऽऽपेक्षा ऽप्य्  
-अतस् स्वानन्द-हेतुका ॥
+अत्र +++(चतुर्थ्याम्)+++ स्व-**लाभापेक्षा** ऽपि  
+स्वामि-**लाभावसायिनी** ।  
+स्वामि-**प्रयोजनाऽऽपेक्षा** ऽप्य्  
+अतस् **स्वानन्द**-हेतुका ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र +++(चतुर्थ्याम्)+++ स्व-**लाभापेक्षा** ऽपि  
+स्वामि-**लाभावसायिनी** ।  
+स्वामि-**प्रयोजनाऽऽपेक्षा** ऽप्य्  
+अतस् **स्वानन्द**-हेतुका ॥
+</details>
+
+<details><summary>English</summary>
+
+Here in the dative or fourth case ( in the word Nārāyaṇāya ),  
+although the jīva **expects** his own gain (namely, the attainment of his puruṣārtha ),  
+yet it ends in the Master **gaining** pleasure or delight.  
+(Therefore **there is no violation** of the proper **function** of the, śeṣa).  
+
+(Likewise) **desiring** that the Master should **gain**  
+**conduces** also to one's own bliss or ānanda.
+</details>
+
+<details><summary>Español</summary>
+
+Aquí en el dativo o cuarto caso ( en la palabra Nārāyaṇāya ),  
+Aunque el jīva **espera** su propia **ganancia** (es **decir**, el **logro** de su puruṣārtha),  
+sin embargo, **termina** con el Maestro **ganando** placer o deleite.  
+(Por lo tanto, **no hay violación** de la **función** apropiada de la, śeṣa).  
+
+(Del mismo modo) **deseando** que el Maestro **gane**  
+**conduce** también a la propia bienaventuranza o ānanda.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -3105,7 +3143,8 @@ Aquí **se hace** una **oración**.
 स्वामिप्रयोजनापेक्षाप्यतस्स्वानन्दहेतुका ॥
 </details>
 
-Here in the dative or fourth case ( in the word Nārāyaṇāya ), although the jīva expects his owa gain (namely, the attainment of his puruṣārtha ), yet it ends in the Master gaining pleasure or delight. (Therefore there is no violation of the proper function of the, śeṣa). (Likewise) desiring that the Master should gain conduces also to one's own bliss or ānanda.
+
+
 
 " Whether it is said, "I beg for service which would please Thee" or " Thou shouldst find delight in **having** my service" - in either case, both are gainers". (This is the idea). It has been said:-" Food is of two kinds, that which has three qualities and that which has six qualities: That which has three qualities[^94] is for those bound by karma ; the other is for others". Here the food with six qualities is the enjoyment of the (six) qualities of Bhagavān and also the different kinds of service which result from them and which are most enjoyable.
 
