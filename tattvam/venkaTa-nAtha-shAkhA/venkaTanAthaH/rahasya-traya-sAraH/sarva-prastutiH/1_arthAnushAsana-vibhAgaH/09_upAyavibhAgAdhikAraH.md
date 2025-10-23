@@ -2393,8 +2393,7 @@ there are, in Nyāsa Vidyā also, differences stated in the different branches o
 वाचिकम्, मानसम्, कायिकम्  
 ऎऩ्ऱु पिरिन्दाप्-पोले  
 प्रपत्तियिलुम् ओर्-ऒऩ्ऱै मुऩ्ऩ् इट्टु  
-इव् **विभागङ्गळ् सॊल्लप् पट्टदु**  
-+++(यथा सत्त्व-बाहुल्य-मात्रे सात्त्विक इति)+++.  
+इव् **विभागङ्गळ् सॊल्लप् पट्टदु**...  
 </details>
 
 <details open><summary>विश्वास-टिप्पनी</summary>
@@ -2402,8 +2401,8 @@ there are, in Nyāsa Vidyā also, differences stated in the different branches o
 उक्तिनिष्ठायाम् उक्तेर् बाहुल्यम्,  
 आचार्यनिष्ठायाम् कायिकस्याधिक्यम्,  
 स्वनिष्ठायाम् मनसः प्राधान्यम्।  
+यथा सत्त्व-बाहुल्य-मात्रे सात्त्विक इति।
 </details>
-
 
 <details><summary>नीलमेघः (सं)</summary>
 
