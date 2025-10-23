@@ -167,7 +167,7 @@ for the fruit of their worship is very limited,”
 **उपायोऽस्मि** हरेः स्मृतौ”  
 > (हरिवंशं ३.८९.९)
 
-ऎऩ्ऱ् उञ् +++(शिवेन)+++ चॊल्लप्पट्टदु.
+ऎऩ्ऱुञ् +++(शिवेन)+++ चॊल्लप्पट्टदु.
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
