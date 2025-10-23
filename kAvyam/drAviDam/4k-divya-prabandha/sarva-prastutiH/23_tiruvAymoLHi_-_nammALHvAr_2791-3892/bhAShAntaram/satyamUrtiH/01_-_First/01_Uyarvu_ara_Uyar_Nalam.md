@@ -7,7 +7,7 @@ title = "01 Uyarvu ara Uyar Nalam"
 
 
 
-## 00 Intro1.1
+## 00 Intro 1.1
 [Note: This work comprises ten centums, or hundred decades, each of which is called a ‘Tiruvāymoḻi’, which means ‘Inspired utterance’ as well as ‘Divine speech’, the speech from the holy mouth of the Saint. This is a skilled poetic composition in which each stanza begins with the closing word of the previous stanza or the phonetic sound thereof. Unlike the other hymns of the ‘Divya Prabandha’, Tiruvāymoḻi is accorded the special status of being chanted only inside the temples or at homes when the Deity is seated for congregational worship, and not when the Deity is taken out in the streets in ceremonial precession.]
 
 In the opening song, the Saint exhorts his chastened mind to adore the dazzling, distress-dispelling feet of the Lord, the Supreme Benefactor, and attain salvation. Right at the very start, and that too in the opening line itself, the Āḻvār characterises God as one with perfections, all of the nature of bliss and love, the natural repository of innumerable auspicious traits of unlimited dimensions and thus easily scores over the ‘Upaniṣad’, which made a futile attempt to gauge the immeasurable bliss of the Supreme Lord and had to acknowledge defeat.[^1]
