@@ -95,7 +95,7 @@ One such dubious aitihyam, regarding nADAdUr ammAL, used by them is this - They 
 अचिद्-द्रव्येषु पशु-मृग-पक्ष्य्-आदिषु स्तनन्-धयेषु च दृश्यतय्  
 इति प्रति-युक्तिर् [वेङ्कटनाथार्यस्य](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/rahasya-traya-sAraH/sarva-prastutiH/2_sthirI-karaNa-vibhAgaH/23_siddhopAyashodhanAdhikAraH/09_saMbandha-visheSha-mUlaka-shankAH)।  
 
-अथवा युक्तिं त्यक्त्वा शास्त्रं दर्शय इत्य् उक्तौ  
+अथवा "युक्तिं त्यक्त्वा शास्त्रं दर्शय" इत्य् उक्तौ  
 केचिद् वैष्णवत्व-सम्पादन-प्रशंसकादीनि वाक्यानि,  
 परम्परया मोक्ष-फलं यानि सूचयन्ति,  
 तानि कानिचिद् वदन्ति।  
@@ -123,10 +123,12 @@ One such dubious aitihyam, regarding nADAdUr ammAL, used by them is this - They 
 इवरै निऩैत्तु इप्पत्तुङ् गऱ्ऱार् बक्कलिलुम्  
 ईश्वरऩ् प्रसन्नऩ् आम्।
 
+##### आचारे तिरस्कारः
 किञ्च +ईडु-ग्रन्थस्थोद्गारैकदेशा न प्रमाणम् - अखिल-ग्रन्थोक्तीर् अकलय्यैव तद्-आशयो निर्णेतव्यः। 
-(तच्छिष्येण तद्-अनुज्ञाम् अन्तरैव सङ्गृहीतः स ग्रन्थ इति न विस्मरणीयम्।) 
+(तच्छिष्येण तद्-अनुज्ञाम् अन्तरैव सङ्गृहीतः स ग्रन्थ इति च न विस्मरणीयम्।) 
 
-अन्ततः तेष्व् आत्म-रक्षा-भर-समर्पणम् अङ्गीकृतम्, अनुष्ठीयते चेति, अन्येथा-प्रवादो भ्रम इति [तदीय-विद्वांसः](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/lokAchAryAnuga-bhedAH) ।  
+अन्ततः तेष्व् आत्म-रक्षा-भर-समर्पणम् अङ्गीकृतम्, अनुष्ठीयते चेति,  
+अन्येथा-प्रवादो भ्रम इति [तदीय-विद्वांसः](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/lokAchAryAnuga-bhedAH) ।  
 
 ### अभीप्सितो ऽर्थः
 प्रपत्तौ गोप्तृत्व-वरणम्/ स्वाभिप्राय-निवेदनम् अङ्गम्।  
