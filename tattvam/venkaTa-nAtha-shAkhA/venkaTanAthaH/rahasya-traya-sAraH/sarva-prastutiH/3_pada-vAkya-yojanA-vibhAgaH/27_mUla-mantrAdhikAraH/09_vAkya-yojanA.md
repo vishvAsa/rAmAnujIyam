@@ -3158,23 +3158,264 @@ sin embargo, **termina** con el Maestro **ganando** placer o deleite.
 इरुवर्क्कुम् प्रयोजनम् सिद्धम्।
 </details>
 
+<details><summary>English</summary>
+
+Whether **it is said**,  
+
+> "I **beg** for **service** which **would please** Thee" 
+
+or 
+
+> " Thou **shouldst find delight** in **having** my **service**" 
+
+\- in either case, both **are gainers**.  
+(This **is** the idea). 
+</details>
+
+<details><summary>Español</summary>
+
+Ya sea que **se diga**,  
+
+> "Te **ruego** un **servicio** que te **agrada**" 
+
+o 
+
+> "Deberías **encontrarte deleite** en **tener** mi **servicio**" 
+
+\- en cualquier caso, ambos **son ganadores**.  
+(Esta **es** la idea). 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 उऩ्ऩै युगप्पिक्कुम् कैङ्कर्यत्तै नाऩ् पॆऱवेणुमॆऩ्ऱालुम् ऎऩ्ऩैयडिमै कॊण्डु नी युगक्क वेणुमॆऩ्ऱालु मिरुवर्क्कुम् प्रयोजनम् सिद्धम्।
 </details>
 
+#### भगवद्-गुणानुभवः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘त्रैगुण्यं षड्-गुणाढ्यञ् च  
+द्विधा ऽन्नं परिकीर्तितम् ।  
+त्रै-गुण्यम् अन्नं बद्धानाम्  
+इतरेषाम् अथेतरत्’’  
+(लक्ष्मीतन्त्रम्)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘त्रैगुण्यं षड्-गुणाढ्यञ् च  
+द्विधा ऽन्नं परिकीर्तितम् ।  
+त्रै-गुण्यम् अन्नं बद्धानाम्  
+इतरेषाम् अथेतरत्’’  
+(लक्ष्मीतन्त्रम्)
+</details>
 
 
-" Whether it is said, "I beg for service which would please Thee" or " Thou shouldst find delight in **having** my service" - in either case, both are gainers". (This is the idea). It has been said:-" Food is of two kinds, that which has three qualities and that which has six qualities: That which has three qualities[^94] is for those bound by karma ; the other is for others". Here the food with six qualities is the enjoyment of the (six) qualities of Bhagavān and also the different kinds of service which result from them and which are most enjoyable.
+<details><summary>नीलमेघः (सं)</summary>
 
-[^94]: That which has three qualities : material objects of enjoyment **having** sattvam, rajas and tamas.
+> ‘‘त्रैगुण्यं षड्-गुणाढ्यञ् च  
+द्विधा ऽन्नं परिकीर्तितम् ।  
+त्रै-गुण्यम् अन्नं बद्धानाम्  
+इतरेषाम् अथेतरत्’’  
+(लक्ष्मीतन्त्रम्)
+</details>
 
 
+<details><summary>English</summary>
+
+It **has been said**:-
+
+> " Food **is** of two kinds,  
+that which **has** three qualities  
+and that which **has** six qualities.  
+That which **has** three qualities  
+(material objects of enjoyment **having** sattvam, rajas and tamas.)  
+**is** for those **bound** by karma ;  
+the other **is** for others". 
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho**:
+
+> " La comida **es** de dos tipos,  
+aquello que **tiene** tres cualidades  
+y la que **tiene** seis cualidades.  
+Lo que **tiene** tres cualidades  
+(objetos materiales de disfrute **teniendo** sattvam, rajas y tamas).  
+**es** para aquellos b por el karma;  
+el otro **es** para los demás". 
+</details>
 
 
-(In the Brahma Sūtras) it is said that since the śrutis indicate that there would be perfect resemblance or equality (bhoga mātra sāmya) only in regard to enjoyment between Brahman and the mukta, the perfect equality is only in enjoyment and in jñāna or knowledge. Therefore there is nothing (in the śrutis or the sūtras) opposed to the mukta **being** a śeṣa (to Bhagavān) which pertains to his essential nature (svarūpa) and, as a result thereof, rendering service (kaiṅkarya) to Him. It has been explained in Śrī Bhāṣya and elsewhere that when, in the state of aspiring to mukti and in the state of mukti, the jīva meditates on his **being** Brahman, what is meant is that this contemplation is only in virtue of the self or jīva **being** the body of Bhagavān. Therefore this notion of "I am Brahman" is indeed the result of the body (here the self or jīva) **being** dependent on the inner self (Bhagavān ) and existing only for the fulfilment of His purposes. (Therefore there is no impropriety in the self **being** śeṣa to Bhagavān even in the state of mukti ). The service that is rendered in the state of release or mukti comes from the very nature of the self: it is free from the pairs of opposites[^95] , constant and un-intermittent, and produces unlimited delight. In the state of aspiration to mukti (mumukṣu) the service that is rendered for its own sake is due to the circumstance or upadhi of some good karma  done in the past; it has to endure the pairs of opposites (dvandva ) such as heat and cold and pleasare and pain; it is interrupted by sleep and other such (hindrances) and the delight arising therefrom is limited.
+<details><summary>मूलम्</summary>
 
-[^95]: pairs of opposites like pleasure and pain, heat and cold etc.
+‘‘त्रैगुण्यं षड्गुणाढ्यञ्च द्विधान्नं परिकीर्तितम् । त्रैगुण्यमन्नं बद्धानामितरेषामथेतरत्’’(लक्ष्मीतन्त्रम्)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ षड्-गुणाढ्यम् आऩ अन्नम् आवदु भगवद्-गुणानुभवम्। 
+</details>
+
+<details><summary>English</summary>
+
+Here the food with six qualities **is** the **enjoyment** of the (six) qualities of Bhagavān  
+</details>
+
+<details><summary>Español</summary>
+
+Aquí la comida con seis cualidades **es** el **disfrute** de las (seis) cualidades de Bhagavān  
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱ षड्गुणाढ्यमाऩ अन्नमावदु भगवद्गुणानुभवम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद्-अडिय् आग वरुगिऱ भोग्यतम-कैङ्कर्य विशेषङ्गळ् आगवुम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+and also the different kinds of **service**  
+which **result** from them  
+and which **are** most **enjoyable**.
+</details>
+
+<details><summary>Español</summary>
+
+y también los diferentes tipos de **servicio**  
+que **resultan** de ellos  
+y cuáles **son** más **agradables**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदडियाग वरुगिऱ भोग्यतमकैङ्कर्य विशेषङ्गळागवुमाम्। 
+</details>
+
+#### भोगस्याम्यस्य कैङ्कर्ये ऽविरोधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘भोग-मात्र-साम्य-लिङ्गाच् च”  
+( ब्रह्मसूत्रम् ४-४-२१) 
+
+ऎऩ्गिऱबडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘भोग-मात्र-साम्य-लिङ्गाच् च”  
+( ब्रह्मसूत्रम् ४-४-२१) 
+
+</details>
+
+<details><summary>English</summary>
+
+
+(In the Brahma Sūtras)  
+it **is said** that  
+since the śrutis **indicate** that there would be perfect resemblance or equality (bhoga mātra sāmya)  
+only in regard to **enjoyment** 
+</details>
+
+<details><summary>Español</summary>
+
+
+(En los Brahma Sūtras)  
+**se dice** que  
+ya que los śrutis **indican** que habría perfecta semejanza o igualdad (bhoga mātra sāmya)  
+solo en lo que respecta al **disfrute** 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘भोगमात्रसाम्यलिङ्गाच्च”( ब्रह्मसूत्रम् ४-४-२१) ऎऩ्गिऱबडिये
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्त-दशैयिल् परम-साम्यम् भोगत्तिलुम् ज्ञानत्तिलुम् आगैयाल्  
+अप्पोदुम् स्वरूपानुबन्धिय् आऩ शेषत्वत्तुक्कुम्  
+इदिऩ् फलम् आऩ कैङ्कर्यत्तुक्कुम् विरोधम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+between Brahman and the mukta,  
+the perfect equality **is** only in **enjoyment** and in jñāna or knowledge.  
+Therefore there **is** nothing (in the śrutis or the sūtras)  
+**opposed** to the mukta **being** a śeṣa (to Bhagavān)  
+which **pertains** to his essential nature (svarūpa)  
+and, as a **result** thereof, **rendering service** (kaiṅkarya) to Him. 
+</details>
+
+<details><summary>Español</summary>
+
+entre Brahman y el mukta,  
+La igualdad perfecta **está** sólo en **disfrute** y en jñāna o conocimiento.  
+Por lo tanto, **no hay** nada (en los śrutis o los sūtras)  
+**opuesto** al **ser** mukta a śeṣa (a Bhagavān)  
+que **pertenece** a su naturaleza esencial (svarūpa)  
+y, como **resultado** de ello, **rendirle servicio** (kaiṅkarya). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुक्तदशैयिल् परमसाम्यम् भोगत्तिलुम् ज्ञानत्तिलुमागैयाल् अप्पोदुम् स्वरूपानुबन्धियाऩ शेषत्वत्तुक्कुम् इदिऩ् फलमाऩ कैङ्कर्यत्तुक्कुम् विरोधमिल्लै। 
+</details>
+
+
+#### ब्रह्म-भावना
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुमुक्षु-दशैयिलुम् मुक्त-दशैयिलुम् उण्ड् आऩव् "अहं +++(ब्रह्म)+++"-ग्रहम्  
+शरीरात्म-भावत्तालेय् ऎऩ्ऱु  
+भाष्यादिगळिले समर्थितम् आगैयाल् 
+</details>
+
+<details><summary>English</summary>
+
+It **has been explained** in Śrī Bhāṣya and elsewhere that  
+when, in the state of **aspiring** to mukti and in the state of mukti,  
+the jīva **meditates** on his **being** Brahman,  
+what **is meant is** that this **contemplation is** only in virtue of the self or jīva **being** the body of Bhagavān.  
+
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha explicado** en Śrī Bhāṣya y en otros lugares que  
+cuando, en el estado de **aspiración** a mukti y en el estado de mukti,  
+el jīva **medita** en su **ser** Brahman,  
+lo que **se quiere decir es** que esta **contemplación es** sólo en virtud de que el yo o jīva **siendo** el cuerpo de Bhagavān.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुदशैयिलुम् मुक्तदशैयिलुमुण्डाऩवहंग्रहम् शरीरात्मभावत्ताले यॆऩ्ऱु भाष्यादिगळिले समर्थितमागैयाल् 
+</details>
+
+
+Therefore this notion of "I **am** Brahman" **is** indeed the result of the body (here the self or jīva) **being** dependent on the inner self (Bhagavān )  
+and **existing** only for the **fulfilment** of His purposes.  
+(Therefore there is no impropriety in the self **being** śeṣa to Bhagavān even in the state of mukti ).  
+The **service** that **is rendered** in the state of **release** or mukti  
+**comes** from the very nature of the self:  
+it **is** free from the pairs of opposites (like pleasure and pain, heat and cold etc.) ,  
+constant and un-intermittent,  
+and **produces** unlimited delight. In the state of aspiration to mukti (mumukṣu) the service that is rendered for its own sake is due to the circumstance or upadhi of some good karma  done in the past; it has to endure the pairs of opposites (dvandva ) such as heat and cold and pleasare and pain; it is interrupted by sleep and other such (hindrances) and the delight arising therefrom is limited.
+
+
 
 
 
