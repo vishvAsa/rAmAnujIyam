@@ -3500,7 +3500,7 @@ y el **deleite que surge** de ello **es** limitado.
 मुमुक्षुदशैयिल्स्वयंप्रयोजनमागप् पण्णुम् कैङ्कर्यम् सुकृतविशेषोपाधिकमाय् द्वंद्वतितिक्षायुक्तमाय् निद्रादिगळालेयन्तरितमाय् अवच्छिन्नरसमायिरुक्कुम्।
 </details>
 
-
+#### अकैङ्कर्याभोग्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्ग् इवऩ् कैङ्कर्यम् ऒऴियप् पण्णुम् व्यापारङ्गळिल्  
@@ -3508,14 +3508,65 @@ y el **deleite que surge** de ello **es** limitado.
 एद् एऩुम् ऒरु प्रतिकूल-फलत्तैक् कॊडुक्कुम्।+++(5)+++
 </details>
 
+<details><summary>English</summary>
+
+Here all **activities** of the jīva  
+which **do not form** the **service** of Bhagavān  
+and which **do not fit** in with His commands  
+**will yield** adverse **results** of some kind or other. 
+</details>
+
+<details><summary>Español</summary>
+
+Aquí todas las **actividades** de la jīva  
+que **no forman** el **servicio** de Bhagavān  
+y que **no encajan** con Sus **mandamientos**  
+**producirá** **resultados** adversos de algún tipo u otro.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इङ्गिवऩ् कैङ्कर्यमॊऴियप्पण्णुम् व्यापारङ्गळिल् भगवदाज्ञैक्कुप् पॊरुन्दादवै यॆल्लाम् एदेऩुमॊरु प्रतिकूलफलत्तैक् कॊडुक्कुम्।
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Here all activities of the jīva which do not form the service of Bhagavān and which do not fit in with His commands will yield adverse results of some kind or other. Among those activities which are permitted by Bhagavān, those which are for the purpose of attaining svarga, cows and the like will yield fruits which may appear to be pleasant but which are mingled with many undesirable elements. Therefore they are, for that reason, hindrances. So, as stated in the śloka : "One should give up the performance of those actions which are aimed at attaining the three ends, namely, dharma, wealth (artha) and pleasure (kāma)," the aspirant to mukti may perform those rites or actions in relation to Bhagavān which are the means of securing bhakti  and jñāna and also of promoting the glory of Bhagavān and of Bhāgavatas without caring for any other fruit. Since these rites or actions are not productive of life in saṁsāra, they would be included in the proper form of service, The state of **being** a śeṣa to Bhagavān indicated in the praṇava extends to that of **being** a śeṣa to His devotees in so far as laid down in the pramāṇas, as a consequence of the jīva's absolute subjection to and sole existence for Hiin, which are indicated appropriately by the word namas.
+भगवद्-अनुज्ञातङ्गळ् आऩ काम्यङ्गळिल्  
+स्वर्ग-पश्व्-आद्य्-अर्थङ्गळ् आऩ्-अवैय् ऎल्लाम्  
+अनेक-दोष-दुष्टङ्गळ् आऩव् अनुकूलाभासङ्गळैक् कॊडुत्तु  
+अम्-मुखत्ताले बाधकङ्गळ् आम्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Among those **activities** which **are permitted** by Bhagavān,  
+those which **are** for the purpose of **attaining** svarga, cows and the like  
+**will** yield fruits  
+which **may appear** to be pleasant  
+but which **are mingled** with many undesirable elements.  
+Therefore they **are**, for that reason, **hindrances**. 
+</details>
+
+<details><summary>Español</summary>
+
+Entre aquellas **actividades** que **están permitidas** por Bhagavān,  
+aquellos que **son** con el propósito de **obtener** svarga, vacas y similares  
+**dará** frutos  
+que **puede parecer** agradable  
+pero que **están mezclados** con muchos elementos indeseables.  
+Por lo tanto **son**, por eso, **obstáculos**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवदनुज्ञातङ्गळाऩ काम्यङ्गळिल् स्वर्गपश्वाद्यर्थङ्गळाऩवै यॆल्लाम् अनेकदोषदुष्टङ्गळाऩव् अनुकूलाभासङ्गळैक् कॊडुत्तु अम्मुगत्ताले बाधकङ्गळाम्। 
+</details>
+
+
+
+So, as stated in the śloka : "One should give up the performance of those actions which are aimed at attaining the three ends, namely, dharma, wealth (artha) and pleasure (kāma)," the aspirant to mukti may perform those rites or actions in relation to Bhagavān which are the means of securing bhakti  and jñāna and also of promoting the glory of Bhagavān and of Bhāgavatas without caring for any other fruit. Since these rites or actions are not productive of life in saṁsāra, they would be included in the proper form of service, The state of **being** a śeṣa to Bhagavān indicated in the praṇava extends to that of **being** a śeṣa to His devotees in so far as laid down in the pramāṇas, as a consequence of the jīva's absolute subjection to and sole existence for Hiin, which are indicated appropriately by the word namas.
 
 
 
