@@ -3299,7 +3299,7 @@ y cuáles **son** más **agradables**.
 अदडियाग वरुगिऱ भोग्यतमकैङ्कर्य विशेषङ्गळागवुमाम्। 
 </details>
 
-#### भोगस्याम्यस्य कैङ्कर्ये ऽविरोधः
+#### भोगसाम्यस्य कैङ्कर्ये ऽविरोधः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘भोग-मात्र-साम्य-लिङ्गाच् च”  
@@ -3388,7 +3388,6 @@ It **has been explained** in Śrī Bhāṣya and elsewhere that
 when, in the state of **aspiring** to mukti and in the state of mukti,  
 the jīva **meditates** on his **being** Brahman,  
 what **is meant is** that this **contemplation is** only in virtue of the self or jīva **being** the body of Bhagavān.  
-
 </details>
 
 <details><summary>Español</summary>
@@ -3405,18 +3404,114 @@ lo que **se quiere decir es** que esta **contemplación es** sólo en virtud de 
 मुमुक्षुदशैयिलुम् मुक्तदशैयिलुमुण्डाऩवहंग्रहम् शरीरात्मभावत्ताले यॆऩ्ऱु भाष्यादिगळिले समर्थितमागैयाल् 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अहं-ग्रहम् पारार्थ्य-काष्ठैय्-अडिय् आग वन्दद् इऱे। +++(4)+++
+</details>
+
+<details><summary>English</summary>
 
 Therefore this notion of "I **am** Brahman" **is** indeed the result of the body (here the self or jīva) **being** dependent on the inner self (Bhagavān )  
 and **existing** only for the **fulfilment** of His purposes.  
 (Therefore there is no impropriety in the self **being** śeṣa to Bhagavān even in the state of mukti ).  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, esta noción de "yo **soy** Brahman" **es** de hecho el **resultado** de que el cuerpo (aquí el yo o jīva) **siendo dependiente** del ser interno (Bhagavān)  
+y **existiendo** solo para el **cumplimiento** de Sus propósitos.  
+(Por lo tanto, **no hay impropiedad** en que el yo **sea** śeṣa para Bhagavān  
+ni siquiera en el estado de mukti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वहंग्रहम् पारार्थ्यकाष्ठैयडियाग वन्ददिऱे। 
+</details>
+
+#### कैङ्कर्य-भोग्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि मुक्त-दशैयिल् वरुम् कैङ्कर्यम्  
+स्वतः-प्राप्तम् आय्  
+द्वन्द्व-रहितम् आय्  
+निरन्तरम् आय्  
+अनवच्छिन्न-रसम् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
 The **service** that **is rendered** in the state of **release** or mukti  
-**comes** from the very nature of the self:  
+**comes** from the very nature of the self;  
 it **is** free from the pairs of opposites (like pleasure and pain, heat and cold etc.) ,  
 constant and un-intermittent,  
-and **produces** unlimited delight. In the state of aspiration to mukti (mumukṣu) the service that is rendered for its own sake is due to the circumstance or upadhi of some good karma  done in the past; it has to endure the pairs of opposites (dvandva ) such as heat and cold and pleasare and pain; it is interrupted by sleep and other such (hindrances) and the delight arising therefrom is limited.
+and **produces** unlimited delight. 
+</details>
+
+<details><summary>Español</summary>
+
+El **servicio** que **se presta** en el estado de **liberación** o mukti  
+**viene** de la naturaleza misma del yo;  
+**está** libre de pares de opuestos (como placer y dolor, calor y frío, etc.),  
+constante y no intermitente,  
+y **produce** deleite ilimitado.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
+इप्पडि मुक्तदशैयिल् वरुम् कैङ्कर्यम् स्वतःप्राप्तमाय् द्वंद्वरहितमाय् निरन्तरमाय् अनवच्छिन्नरसमायिरुक्कुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुमुक्षु-दशैयिल्  
+स्वयं-प्रयोजनम् आगप् पण्णुम् कैङ्कर्यम्  
+सुकृत-विशेषोपाधिकम् आय्  
+द्वन्द्व-तितिक्षा-युक्तम् आय्  
+निद्रादिगळालेय् अन्तरितम् आय्  
+अवच्छिन्न-रसम् आय् इरुक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+In the state of aspiration to mukti (mumukṣu)  
+the **service** that **is rendered** for its own sake  
+**is** due to the circumstance or upadhi of some good karma **done** in the past;  
+it **has to endure** the pairs of opposites (dvandva ) such as heat and cold, and pleasare and pain;  
+it is interrupted by sleep and other such (hindrances)  
+and the **delight arising** therefrom **is** limited.
+</details>
+
+<details><summary>Español</summary>
+
+En el estado de aspiración a mukti (mumukṣu)  
+el **servicio** que **se presta** por sí mismo  
+**se debe** a la circunstancia o upadhi de algún buen karma **realizado** en el pasado;  
+**tiene que soportar** los pares de opuestos (dvandva), como el calor y el frío, el placer y el dolor;  
+**se ve interrumpido** por el **sueño** y otros (obstáculos similares)  
+y el **deleite que surge** de ello **es** limitado.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुदशैयिल्स्वयंप्रयोजनमागप् पण्णुम् कैङ्कर्यम् सुकृतविशेषोपाधिकमाय् द्वंद्वतितिक्षायुक्तमाय् निद्रादिगळालेयन्तरितमाय् अवच्छिन्नरसमायिरुक्कुम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ग् इवऩ् कैङ्कर्यम् ऒऴियप् पण्णुम् व्यापारङ्गळिल्  
+भगवद्-आज्ञैक्कुप् पॊरुन्दाद् अवैय् ऎल्लाम्  
+एद् एऩुम् ऒरु प्रतिकूल-फलत्तैक् कॊडुक्कुम्।+++(5)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गिवऩ् कैङ्कर्यमॊऴियप्पण्णुम् व्यापारङ्गळिल् भगवदाज्ञैक्कुप् पॊरुन्दादवै यॆल्लाम् एदेऩुमॊरु प्रतिकूलफलत्तैक् कॊडुक्कुम्।
+</details>
 
 
 
