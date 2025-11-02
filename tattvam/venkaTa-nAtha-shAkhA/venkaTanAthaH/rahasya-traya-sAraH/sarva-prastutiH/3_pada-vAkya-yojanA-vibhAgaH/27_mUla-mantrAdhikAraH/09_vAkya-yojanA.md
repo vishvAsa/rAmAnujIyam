@@ -3500,7 +3500,7 @@ y el **deleite que surge** de ello **es** limitado.
 मुमुक्षुदशैयिल्स्वयंप्रयोजनमागप् पण्णुम् कैङ्कर्यम् सुकृतविशेषोपाधिकमाय् द्वंद्वतितिक्षायुक्तमाय् निद्रादिगळालेयन्तरितमाय् अवच्छिन्नरसमायिरुक्कुम्।
 </details>
 
-
+#### अकैङ्कर्याभोग्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्ग् इवऩ् कैङ्कर्यम् ऒऴियप् पण्णुम् व्यापारङ्गळिल्  
@@ -3508,26 +3508,548 @@ y el **deleite que surge** de ello **es** limitado.
 एद् एऩुम् ऒरु प्रतिकूल-फलत्तैक् कॊडुक्कुम्।+++(5)+++
 </details>
 
+<details><summary>English</summary>
+
+Here all **activities** of the jīva  
+which **do not form** the **service** of Bhagavān  
+and which **do not fit** in with His commands  
+**will yield** adverse **results** of some kind or other. 
+</details>
+
+<details><summary>Español</summary>
+
+Aquí todas las **actividades** de la jīva  
+que **no forman** el **servicio** de Bhagavān  
+y que **no encajan** con Sus **mandamientos**  
+**producirá** **resultados** adversos de algún tipo u otro.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इङ्गिवऩ् कैङ्कर्यमॊऴियप्पण्णुम् व्यापारङ्गळिल् भगवदाज्ञैक्कुप् पॊरुन्दादवै यॆल्लाम् एदेऩुमॊरु प्रतिकूलफलत्तैक् कॊडुक्कुम्।
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Here all activities of the jīva which do not form the service of Bhagavān and which do not fit in with His commands will yield adverse results of some kind or other. Among those activities which are permitted by Bhagavān, those which are for the purpose of attaining svarga, cows and the like will yield fruits which may appear to be pleasant but which are mingled with many undesirable elements. Therefore they are, for that reason, hindrances. So, as stated in the śloka : "One should give up the performance of those actions which are aimed at attaining the three ends, namely, dharma, wealth (artha) and pleasure (kāma)," the aspirant to mukti may perform those rites or actions in relation to Bhagavān which are the means of securing bhakti  and jñāna and also of promoting the glory of Bhagavān and of Bhāgavatas without caring for any other fruit. Since these rites or actions are not productive of life in saṁsāra, they would be included in the proper form of service, The state of **being** a śeṣa to Bhagavān indicated in the praṇava extends to that of **being** a śeṣa to His devotees in so far as laid down in the pramāṇas, as a consequence of the jīva's absolute subjection to and sole existence for Hiin, which are indicated appropriately by the word namas.
+भगवद्-अनुज्ञातङ्गळ् आऩ काम्यङ्गळिल्  
+स्वर्ग-पश्व्-आद्य्-अर्थङ्गळ् आऩ्-अवैय् ऎल्लाम्  
+अनेक-दोष-दुष्टङ्गळ् आऩव् अनुकूलाभासङ्गळैक् कॊडुत्तु  
+अम्-मुखत्ताले बाधकङ्गळ् आम्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Among those **activities** which **are permitted** by Bhagavān,  
+those which **are** for the purpose of **attaining** svarga, cows and the like  
+**will** yield fruits  
+which **may appear** to be pleasant  
+but which **are mingled** with many undesirable elements.  
+Therefore they **are**, for that reason, **hindrances**. 
+</details>
+
+<details><summary>Español</summary>
+
+Entre aquellas **actividades** que **están permitidas** por Bhagavān,  
+aquellos que **son** con el propósito de **obtener** svarga, vacas y similares  
+**dará** frutos  
+que **puede parecer** agradable  
+pero que **están mezclados** con muchos elementos indeseables.  
+Por lo tanto **son**, por eso, **obstáculos**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवदनुज्ञातङ्गळाऩ काम्यङ्गळिल् स्वर्गपश्वाद्यर्थङ्गळाऩवै यॆल्लाम् अनेकदोषदुष्टङ्गळाऩव् अनुकूलाभासङ्गळैक् कॊडुत्तु अम्मुगत्ताले बाधकङ्गळाम्। 
+</details>
+
+#### अनुज्ञा-कैङ्कर्ये विवेकः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाले मुमुक्षुवुक्कु  
+
+> ‘‘त्रैवर्गिकांस् त्यजेद् धर्मान्’’  
+(विष्णु-पुराणम्) 
+
+ऎऩ्गिऱ बडिये  
+प्रयोजनान्तर-हेतुक्कळै विट्टु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘त्रैवर्गिकांस् त्यजेद् धर्मान्’’  
+(विष्णु-पुराणम्) 
+
+</details>
+
+<details><summary>English</summary>
+
+So, as **stated** in the śloka : 
+
+> "One **should give up** the **performance** of those **actions**  
+which **are aimed at attaining** the three ends,  
+namely, dharma, wealth (artha) and pleasure (kāma)," 
+
+the **aspirant** to mukti,  
+without caring for any other fruit,  
+</details>
+
+<details><summary>Español</summary>
+
+Entonces, como **indica** en el śloka: 
+
+> "Uno **debería renunciar** a la **realización** de esas **acciones**  
+que **tienen como objetivo alcanzar** los tres fines,  
+a **saber**, dharma, riqueza (artha) y placer (kāma)," 
+
+el **aspirante** a mukti,  
+sin **importarnos** ningún otro fruto,
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाले मुमुक्षुवुक्कु ‘‘त्रैवर्गिकांस्त्यजेद्धर्मान्’’(विष्णुपुराणम्) ऎऩ्गिऱबडिये प्रयोजनान्तरहेतुक्कळै विट्टु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भक्ति-तत्त्व-ज्ञानङ्गळैयुम् भगवद्-भागवत-समृद्धियैयुम् पऱ्ऱच्  
+चॆय्युम् काम्यङ्गळ् आऩ भगवद्-धर्मङ्गळ्  
+साधनम् आग अनुष्ठिक्कच् चॆय्देयुम् 
+</details>
+
+<details><summary>English</summary>
+
+**may perform** those rites or **actions** in relation to Bhagavān  
+which **are** the means of securing bhakti and jñāna  
+and also of **promoting** the glory of Bhagavān and of Bhāgavatas.  
+
+</details>
+
+<details><summary>Español</summary>
+
+**puede realizar** esos ritos o **acciones** en relación con Bhagavān  
+que **son** los medios para **asegurar** el bhakti y el jñāna  
+y también de **promover** la gloria de Bhagavān y de Bhāgavatas.  
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+भक्तितत्त्वज्ञानङ्गळैयुम् भगवद्भागवतसमृद्धियैयुम् पऱ्ऱच्चॆय्युम् काम्यङ्गळाऩ भगवद्धर्मङ्गळ् साधनमाग अनुष्ठिक्कच् चॆय्देयुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(संसारेण)+++ बन्धकङ्गळ् अल्लामैयाले  
+उचितम् आऩ कैङ्कर्य-कोटियिले सेर्न्दु किडक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+Since these rites or actions **are not productive** of life in saṁsāra,  
+they **would be included** in the proper form of service.  
+</details>
+
+<details><summary>Español</summary>
+
+Dado que estos ritos o acciones **no son productivos** de la vida en el saṁsāra,  
+**se incluirían** en la forma adecuada de **servicio**.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+बन्धकङ्गळल्लामैयाले उचितमाऩ कैङ्कर्यकोटियिले सेर्न्दु किडक्कुम्। 
+</details>
+
+#### भागवत-कैङ्कर्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रणवत्तिऱ् सॊऩ्ऩ भगवच्-छेषत्वम्  
+नमस्सिले औचित्य-रूपम् आऩ अत्यन्त-पारतन्त्र्य-पारार्थ्यङ्गळ्-अडिय् आग  
+यथा-प्रमाणम् तदीय-पर्यन्तम् आय् निऱ्कैयाले 
+</details>
+
+<details><summary>English</summary>
+
+The state of **being** a śeṣa to Bhagavān  
+**indicated** in the praṇava  
+**extends** to that of **being** a śeṣa to His devotees  
+in so far as **laid down** in the pramāṇas,  
+as a consequence of the jīva's absolute **subjection** to and sole **existence** for Him, which **are indicated** appropriately by the word namas.
+</details>
+
+<details><summary>Español</summary>
+
+El estado de **ser** un śeṣa para Bhagavān  
+**indicado** en el praṇava  
+**se extiende** a la de **ser** un śeṣa para Sus devotos  
+en la medida en que **establecido** en los pramāṇas,  
+como **consecuencia** de la **sujeción** absoluta de la jīva y su única **existencia** para Él, que **se indican** apropiadamente con la palabra namas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रणवत्तिऱ्सॊऩ्ऩ भगवच्छेषत्वम् नमस्सिले औचित्यरूपमाऩ अत्यन्तपारतन्त्र्यपारार्थ्यङ्गळडियाग यथाप्रमाणम् तदीयपर्यन्तमाय् निऱ्कैयाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘नारायणाय’’ ऎऩ्गिऱव् इडत्तिल् अपेक्षिक्किऱ भगवत्-कैङ्कर्यमुम्  
+तदीय-पर्यन्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+So the kaiṅkarya or **service** to Bhagavān  
+which **is desired** in the word Nārāyaṇāya  
+**extends** to His devotees. 
+</details>
+
+<details><summary>Español</summary>
+
+Así que el kaiṅkarya o **servicio** a Bhagavān  
+lo cual **se desea** en la palabra Nārāyaṇāya  
+**se extiende** a Sus devotos. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘नारायणाय’’ ऎऩ्गिऱविडत्तिलपेक्षिक्किऱ भगवत्कैङ्कर्यमुम् तदीयपर्यन्तम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘मम मद्-भक्त-भक्तेषु  
+**प्रीतिर्** अभ्यधिका **भवेत्** ।  
+तस्मान् मद्-भक्त-भक्ताश् च  
+**पूजनीया** विशेषतः॥’’  
+(भारतम् आश्वमेधिक-पर्व ११६-२३), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘मम मद्-भक्त-भक्तेषु  
+**प्रीतिर्** अभ्यधिका **भवेत्** ।  
+तस्मान् मद्-भक्त-भक्ताश् च  
+**पूजनीया** विशेषतः॥’’  
+(भारतम् आश्वमेधिक-पर्व ११६-२३), 
+</details>
+
+<details><summary>English</summary>
+
+> "I **am** greatly **pleased**  
+with those who **have devotion** towards my **devotees**.  
+Therefore one **should honour** them greatly", 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "**Estoy** muy **complacido**  
+con aquellos que **tienen devoción** hacia mis **devotos**.  
+Por lo tanto, uno **debe honrarlos** grandemente", 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मम मद्भक्तभक्तेषु प्रीतिरभ्यधिका भवेत् । तस्मान्मद्भक्तभक्ताश्च पूजनीया विशेषतः’’(भारतम् आश्वमेधिक-पर्व ११६-२३), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तस्माद् विष्णु-**प्रसादाय**  
+वैष्णवान् **परितोषयेत्** ।  
+प्रसाद-सुमुखो विष्णुस्  
+तेनैव **स्यान्** न संशय’’  
+(इतिहास-समुच्चयः २७-२७) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तस्माद् विष्णु-**प्रसादाय**  
+वैष्णवान् **परितोषयेत्** ।  
+प्रसाद-सुमुखो विष्णुस्  
+तेनैव **स्यान्** न संशय’’  
+(इतिहास-समुच्चयः २७-२७) 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> “Therefore in order to **obtain** the grace of Bhagavān,  
+one **should please** His devotees.  
+By this the Lord **becomes** heartily inclined to **show** His grace.  
+There **is no** doubt of this ".
+
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "Por lo tanto, para **obtener** la gracia de Bhagavān,  
+uno **debería complacer** a sus devotos.  
+Por esto, el Señor **se vuelve** sinceramente inclinado a **mostrar** Su gracia.  
+**No hay** duda de esto".
+</details>
 
 
 
-So the kaiṅkarya or service to Bhagavān which is desired in the word Nārāyaṇāya extends to His devotees. This idea is expressed in such ślokas as the following :- "I am greatly pleased with those who have devotion towards my devotees. Therefore one should honour them greatly", and. “Therefore in order to obtain the grace of Bhagavān, one should please His devotees. By this the Lord becomes heartily inclined to show His grace. There is no doubt of this ".
+<details><summary>मूलम्</summary>
+
+‘‘तस्माद्विष्णुप्रसादाय वैष्णवान् परितोषयेत् । प्रसादसुमुखो विष्णुस्तेनैवस्यान्न संशय’’(इतिहास-समुच्चयः २७-२७) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिलुम् इव्व्-अर्थम् सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+This idea is expressed in such ślokas as the above.
+</details>
+
+<details><summary>Español</summary>
+
+Esta idea **se expresa** en ślokas como los anteriores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिलुमिव्वर्थम् सिद्धम्। 
+</details>
+
+#### अ-क्षुद्र-दास्योत्कर्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सर्वं पर-वशं दुःखम्’’  
+(मनुस्मृति ४-१६०) 
+
+इत्य्-आदिगळ्  
+तऩक्कु प्राप्तम् अल्लाद क्षुद्र-विषयत्तिले  
+कर्म-मूलम् आग वरुगिऱ पारवश्यम्  
+दुःख-कारणम् ऎऩ्गिऱऩ।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सर्वं पर-वशं दुःखम्’’  
+(मनुस्मृति ४-१६०) 
+
+</details>
+
+<details><summary>English</summary>
+
+The **saying** that “**dependence** upon others **is** miserable"  
+**means** (only) that the **dependence** on the worthless,  
+which **is** due to past karma  
+and which **is not suited** to one's svarūpa,  
+**is** the cause of misery. 
+</details>
+
+<details><summary>Español</summary>
+
+El **dicho** de que "la **dependencia** de los demás **es** miserable"  
+**significa** (solamente) que la **dependencia** de lo inútil,  
+que **es** debido a karma pasado  
+y que **no es adecuado** para el svarūpa de uno,  
+**es** la causa de la miseria. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सर्वं परवशं दुःखम्’’(मनुस्मृति ४-१६०) इत्यादिगळ् तऩक्कु प्राप्तमल्लाद क्षुद्रविषयत्तिले कर्ममूलमाग वरुगिऱ पारवश्यम् दुःखकारणमॆऩ्गिऱऩ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवद्-भागवत-विषयत्तिल् पारतंत्र्यम्  
+आत्माभिमानानुगुण--पुरुषार्थ-व्यवस्थैयाले निरतिशय-प्रीति-कारणम्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+**Being** subject to (the will of) Bhagavān and tadiyas  
+**is** the prescribed goal  
+**suited** to one who **realises** the essential nature of his self  
+and it **is** therefore the cause of unsurpassed delight. 
+</details>
+
+<details><summary>Español</summary>
+
+**Ser** sujeto a (la voluntad de) Bhagavān y tadiyas  
+**es** el objetivo prescrito  
+**adecuado** para alguien que **se da cuenta** de la naturaleza esencial de su ser  
+y **es** por lo tanto la causa de un deleite insuperable. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवद्भागवतविषयत्तिल् पारतंत्र्यम् आत्माभिमानानुगुणपुरुषार्थव्यवस्थैयाले निरतिशयप्रीतिकारणम्। 
+</details>
+
+#### तदीयता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु तदीयर् ऎऩ्गिऱदु  
+तदीयत्व-व्यवसाय-रसम् उडैयवर्गळै।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+"Tadiyas" or 'Bhāgavatas' means those who **feel** a delight in **being** the servants of the Lord.
+</details>
+
+<details><summary>Español</summary>
+
+"Tadiyas" o "Bhāgavatas" **significa** aquellos que **sienten** un deleite en **ser** los siervos del Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु तदीयरॆऩ्गिऱदु तदीयत्वव्यवसायरसमुडैयवर्गळै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > नारङ्गळाले विशिष्टऩ् आऩ नारायणऩैप् पऱ्ऱ कैङ्कर्यत्तैय् अपेक्षिक्कुम् बोदु  
+विशेषणम् आऩ नारङ्गळैयुम् बऱ्ऱ कैङ्कर्यम् अपेक्षिक्कप् पट्टद् आम् 
+> 
+> ऎऩ्ऩुम् इडम् न्याय-सिद्धम् आगैयाले  
+इङ्गे तदीय-कैङ्कर्यम् सिद्धिक्किऱद्  
+
+ऎऩ्ऱु सिलर् सॊल्लुवर्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+There **are** some who **maintain** that **service** to His **devotees** (tadiyas) logically **follows**  
+when one **desires** to serve Nārāyaṇa  
+who **has** for His attribute Nārās,  
+for **service** to the substantive in Nārāṇām ayanam **includes** (they say) service to Nārāṇām (all nārās ) which **is** the adjective or attribute.  
+
+</details>
+
+<details><summary>Español</summary>
+
+**Hay** algunos que **mantienen** ese **servicio** a Sus **devotos** (tadiyas) que lógicamente **sigue**  
+cuando uno **desea** servir a Nārāyaṇa  
+quien **tiene** por Su atributo a Nārās,  
+porque **servicio** al sustantivo en Nārāṇām ayanam **incluye** (dicen) servicio a Nārāṇām (todos los nārās) que **es** el adjetivo o atributo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नारङ्गळाले विशिष्टऩाऩ नारायणऩैप्पऱ्ऱ कैङ्कर्यत्तैयपेक्षिक्कुम्बोदु विशेषणमाऩ नारङ्गळैयुम्बऱ्ऱ कैङ्कर्यमपेक्षिक्कप्पट्टदामॆऩ्ऩुमिडम् न्यायसिद्धमागैयाले इङ्गे तदीयकैङ्कर्यम् सिद्धिक्किऱदॆऩ्ऱु सिलर् सॊल्लुवर्गळ्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि विशेषणत्वमे प्रयोजकम् आऩाल्  
+नार-शब्दार्थङ्गळ् आग इङ्गु विवक्षितङ्गळ् आऩ  
+ब्रह्मादि-देवतान्तरङ्गळैयुम् भगवद्-द्वेषिगळैयुम् पश्वादिगळैयुम् पऱ्ऱ कैङ्कर्यापेक्षै 
+</details>
+
+<details><summary>English</summary>
+
+If the logic of this statement that  
+what **is prescribed** for the substantive  
+**should be considered** as **prescribed** also for its adjective or attribute,  
+(in other words ), if **being** the attribute is itself the cause (of **being** honoured and served),  
+then every thing that **is** denoted by the word Nārās here, such as Brahma and the other gods, the enemies of Bhagavān, cattle and the like,  
+**would come under** those to whom **service should be desired**. 
+
+</details>
+
+<details><summary>Español</summary>
+
+Si la lógica de esta **afirmación** de que  
+qué **está prescrito** para el sustantivo  
+**debe considerarse** como **prescrito** también por su adjetivo o atributo,  
+(en otras palabras), si **ser** el atributo es en sí mismo la causa (de **ser** honrado y servido),  
+entonces, todo lo que **se denota** aquí con la palabra Nārās, como Brahma y los otros dioses, los enemigos de Bhagavān, el ganado y similares,  
+**estaría incluido** aquellos a quienes **se debe desear servicio**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि विशेषणत्वमे प्रयोजकमाऩाल् नारशब्दार्थङ्गळाग इङ्गु विवक्षितङ्गळाऩ ब्रह्मादिदेवतान्तरङ्गळैयुम् भगवद्द्वेषिकळैयुम् पश्वादिगळैयुम् पऱ्ऱ कैङ्कर्यापेक्षै 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नर-पतियैप् पऱ्ऱ कैङ्कर्यत्तै अपेक्षित्ताऩ् 
+
+ऎऩ्ऱाल्  
+नररैप् पऱ्ऱ कैङ्कर्यम् अपेक्षितम् आगादाप् पोले 
+</details>
+
+<details><summary>English</summary>
+
+If it **is said**, “He **desires** to **serve** men's sovereign",  
+it **does not follow** that  
+he **desires** to **serve** men also  
+who **are** the adjectives of the sovereign (in the phrase "men's sovereign"). 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se dice**:  
+"Él **desea** **servir** al soberano de los hombres",  
+**no se deduce** que  
+Él **desea** **servir** también a los hombres  
+que **son** los adjetivos del soberano (en la frase "soberano de los hombres"). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नरपतियैप् पऱ्ऱ कैङ्कर्यत्तै अपेक्षित्ताऩॆऩ्ऱाल् नररैप्पऱ्ऱ कैङ्कर्यमपेक्षितमागादाप्पोले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गुम् न्याय-मात्रत्ताल् नारङ्गळैप् पऱ्ऱ कैङ्कर्यापेक्षै सिद्धियादु।
+</details>
+
+<details><summary>English</summary>
+
+So also, by mere logic, the **desire to serve** Nārās **will not become proved**.  
+(That **will require** pramāṇas for **proof**). 
+</details>
+
+<details><summary>Español</summary>
+
+Así también, por mera lógica, el **deseo de servir** a Nārās **no se probará**.  
+(Eso **requerirá** pramāṇas como **prueba**). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गुम् न्यायमात्रत्ताल् नारङ्गळैप्पऱ्ऱ कैङ्कर्यापेक्षै सिद्धियादु।
+</details>
 
 
 
-The saying that “dependence upon others is miserable" means (only) that the dependence on the worthless, which is due to past karma and which is not suited to one's svarūpa, is the cause of misery. **being** subject to (the will of) Bhagavān and tadiyas is the prescribed goal suited to one who realises the essential nature of his self and it is therefore the cause of unsurpassed delight. "Tadiyas" or 'Bhāgavatas' means those who feel a delight in **being** the servants of the Lord.
-
-
-
-There are some who maintain that service to His devotees (tadiyas) logically follows when one desires to serve Nārāyaṇa who his for His attribute Nārās, for service to the substantive in Nārāṇām ayanam iacludes (they say) service to Nārāṇām (all nārās ) which is the adjective or attribute. (If the logic of this statement that what is prescribed for the substantive should be considered as prescribed also for its adjective or attribute, (in other words ), if **being** the attribute is itself the cause (of **being** honoured and served), then every thing that is denoted by the word Nārās here, such as Brahma and the other gods, the enemies of Bhagavān, cattle and the like, would come under those to whom service shonld be desired. If it is said, “He desires to serve men's sovereign", it does not follow that he desires to serve men also who are the adjectives of the sovereign (in the phrase 'men's sovereign"), So also, by mere logic, the desire to serve Nārās will not become proved. (That will require pramāṇas for proof). Therefore only this much can be said:- By the authority of the pramāṇas, since the aspirant desires to do what is pleasing to the Master, he desires to serve those who are dear to Him and who realise that they are His śeṣas and have no other interests in life. Even in the experience of the state of mukti, the experience of everything else indicated by the word Nāra which is included in the experience or enjoyment of Bhagavān - even this is not understood from (the) logic (of the adjective and the substantive ). It is understood from the authority of the pramāṇa, (namely the śruti) which says " He sees all, and attains all things".
+Therefore only this much can be said:- By the authority of the pramāṇas, since the aspirant desires to do what is pleasing to the Master, he desires to serve those who are dear to Him and who realise that they are His śeṣas and have no other interests in life. Even in the experience of the state of mukti, the experience of everything else indicated by the word Nāra which is included in the experience or enjoyment of Bhagavān - even this is not understood from (the) logic (of the adjective and the substantive ). It is understood from the authority of the pramāṇa, (namely the śruti) which says " He sees all, and attains all things".
 
 
 

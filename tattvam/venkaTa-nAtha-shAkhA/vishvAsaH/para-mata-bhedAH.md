@@ -109,7 +109,11 @@ gauDIya-s claim that bhAgavata-purANa, since it claims precedence over even BS, 
 येन +++(मातृ-मेयादि-भेदैर्)+++ +अनवच्छिन्न-प्रकाश-शिव-रूपतयैव प्रकाशते ।
 
 अयं तर्हि प्रसिद्धः ब्रह्म-परिणामवादः - रामानुजार्येण सामान्यतो निरस्तः।  
-पुनस् तत्र ब्रह्माज्ञानवादो ऽपि वर्तते - स्व-स्वातन्त्र्येण ब्रह्म स्वीयैकदेशे ऽज्ञानम् आरोप्य बद्धो भवतीति।
+पुनस् तत्र ब्रह्माज्ञानवादो ऽपि वर्तते - स्व-स्वातन्त्र्येण ब्रह्म स्वीयैकदेशे ऽज्ञानम् आरोप्य बद्धो भवतीति।  
+तच् चानिष्टम् पूर्वोक्तरीत्या, अवैदिकं च। 
+
+An appreciable level of incarnation by use of svAtantrya would be that of "rudras", described by sthAneshvara ([TW](https://www.youtube.com/shorts/psb4bT7WVdI)) as being above mAyA in shuddhAdhvan, and not anything below it.
+
 
 अथवा त्रिकशैवैर् अप्य् अवयवावयविरूपा जीवेश्वरभिदोच्यतय् एव, यथाह स्थानेश्वरार्यः - 
 
