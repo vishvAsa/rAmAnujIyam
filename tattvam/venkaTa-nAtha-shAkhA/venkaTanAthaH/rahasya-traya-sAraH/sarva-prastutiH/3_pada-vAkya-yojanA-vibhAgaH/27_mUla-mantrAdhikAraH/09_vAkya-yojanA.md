@@ -5432,20 +5432,307 @@ por la voluntad de Dios,
 ‘‘इच्छात एव तव विश्वपदार्थसत्ता’’(वैकुण्ठ-स्तवः ३६) ऎऩ्गिऱबडिये नियतैयाऩ ईश्वरेच्छैयाले परम्बुमाप्पोले
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इङ्गुम् स्वाभाविकम् आऩ ज्ञान-विकासादिगळ्  
+सहज-कारुण्य-रूपैय् आऩव् ईश्वरेच्छैयाले वरुगिऱऩव्  
+
+ऎऩ्ऩुम् इडन् तोऱ्ऱुगिऱदु।
+</details>
+
+<details><summary>English</summary>
 
 so also such things as the expansion of jñāna  
 which naturally **belong** to the Jīva,  
 **are manifested** as a result of the Lord's will,  
 which **is** of the form of the compassion natural to Him.
+</details>
 
-But it may be asked: "In a [^96] system of thought which holds that the non-existence (of a thing) means the presence of some other thing, the removal of hindrances should, by itself, be the attainment of what is desired. Hence will not the separate prayer for it be redundant? Besides has not the author of Śrī Bhāṣya declared: “The disappearance of avidyā (literally, ignorance; karma  ) is itself mokṣa"?
+<details><summary>Español</summary>
 
-[^96]: Vísishtadvaitins hold that the non-existence (of a thing) is simply the existence of some other thing and not a category apart. For example, when we say, "There is no pot on the floor', the non-existence of the pot is merely the existence of the floor. Tarkikas hold, on the other hand, that non-existence or the absence of a thing (abhava) should be considered as a separate category.
+así también cosas como la **expansión** de jñāna  
+que naturalmente **pertenecen** al Jīva,  
+**se manifiestan** como **resultado** de la voluntad del Señor,  
+que **es** de la forma de la compasión natural a Él.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गुम् स्वाभाविकमाऩ ज्ञानविकासादिगळ् सहजकारुण्यरूपैयाऩवीश्वरेच्छैयाले वरुगिऱऩवॆऩ्ऩुमिडन् तोऱ्ऱुगिऱदु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आऩालुम् भावान्तराभाव-पक्षत्तिल्  
+सर्वानिष्ट-निवृत्ति-ताऩे इष्ट-प्राप्तिय् आय् इरुक्कत्  
+तऩित्तुच् चॊऩ्ऩाल्  
+पुनर्-उक्ति वारादो?
+</details>
+
+<details><summary>English</summary>
+
+But it **may be asked**: 
+
+> "In a system of **thought**  
+which **holds** that the **non-existence** (of a thing)  
+means the **presence** of some other thing,  
+the **removal** of **hindrances should**, by itself, **be** the attainment of what **is desired**.  
+Hence **will not** the separate prayer for it **be redundant**? 
+
+
+(Vísishtadvaitins **hold** that the **non-existence** (of a thing)  
+**is** simply the **existence** of some other thing  
+and not a category apart.  
+For example, when we **say**,  
+"There **is no** pot on the floor",  
+the **non-existence** of the pot  
+**is** merely the **existence** of the floor.  
+Tarkikas **hold**, on the other hand,  
+that **non-existence** or the **absence** of a thing (abhava)  
+**should be considered** as a separate category.)
+</details>
+
+<details><summary>Español</summary>
+
+Pero **se puede preguntar**: 
+
+> "En un sistema de **pensamiento**  
+que **sostiene** que la **inexistencia** (de una cosa)  
+significa la **presencia** de alguna otra cosa,  
+La **eliminación** de **obstáculos debería**, por sí misma, **ser** el **logro** de lo que **se desea**.  
+Por lo tanto, ¿**no será redundante** la **oración** separada por ello? 
+
+(Vísishtadvaitins **sostiene** que la **inexistencia** (de una cosa)  
+**es** simplemente la **existencia** de alguna otra cosa  
+y no una categoría aparte.  
+Por ejemplo, cuando **decimos**,  
+"**No hay** maceta en el suelo",  
+la **inexistencia** de la olla  
+**es** simplemente la **existencia** del piso.  
+Tarkikas **sostiene**, por otro lado,  
+esa **inexistencia** o la **ausencia** de una cosa (abhava)  
+**debe considerarse** como una categoría separada).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩालुम् भावान्तराभावपक्षत्तिल् सर्वानिष्टनिवृत्तिताऩे इष्टप्राप्तियायिरुक्कत् तऩित्तुच् चॊऩ्ऩाल् पुनरुक्ति वारादो?
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ‘‘अ-विद्या-निवृत्तिर् एव हि मोक्षः’’(श्रीभाष्यम्, लघु-सिद्धान्तः।) 
+> 
+> ऎऩ्ऱु भाष्यकाररुम् अरुळिच् चॆय्द् इलरोव् 
+
+ऎऩ्ऩिल्, 
+</details>
+
+<details><summary>English</summary>
+
+> Besides has not the author of Śrī Bhāṣya **declared**:  
+>
+> > “The **disappearance** of avidyā (literally, ignorance; karma  ) **is** itself mokṣa"?
+
+
+To that **question** the **answer is** as **follows**: - 
+</details>
+
+<details><summary>Español</summary>
+
+> Además, el autor de Śrī Bhāṣya **no ha declarado**:  
+>
+> > "La **desaparición** de avidyā (literalmente, ignorancia; karma) **es** en sí mismo mokṣa"?
+
+A esa **pregunta** la **respuesta es** la **siguiente**: - 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अविद्यानिवृत्तिरेव हि मोक्षः’’(श्रीभाष्यम्, लघु-सिद्धान्तः।) ऎऩ्ऱु भाष्यकाररुमरुळिच्चॆय्दिलरोव् ऎऩ्ऩिल्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एकम् एव स्व-रूपेण  
+परेण च **निरूपितम्** ।  
+इष्ट-**प्राप्तिर्** अन्-इष्टस्य  
+निवृत्तिश् चेति **कीर्त्यते** ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एकम् एव स्व-रूपेण,  
+परेण च **निरूपितम्** ।  
+इष्ट-**प्राप्तिर्** अन्-इष्टस्य  
+निवृत्तिश् चेति **कीर्त्यते** ॥ 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एकमेव स्वरूपेण परेण च निरूपितम् । इष्टप्राप्तिरनिष्टस्य निवृत्तिश्चेति कीर्त्यते ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऒऩ्ऱु-दऩ्ऩैये स्व-रूपत्तालुम् प्रतियोगियालुम् **निरूपित्तु**  
+प्रयोजन-विशेषाभिसन्धियाले पिरियच् चॊल्लक् कडवद् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+For the sake of some purpose,  
+a single thing **may be indicated** (in two ways),  
+in its essential nature (svarūpa)  
+and also in a form that **is opposed** to it.  
+So (here ), it **is called** the **attainment** of what **is desired**  
+and the **disappearance** of what **is not desired**,  
+because of the intention to **signify** a special purpose. 
+</details>
+
+<details><summary>Español</summary>
+
+Por el bien de algún propósito,  
+una sola cosa **puede ser indicada** (de dos maneras),  
+en su naturaleza esencial (svarūpa)  
+y también en una forma que **se opone** a ella.  
+Así que (aquí), **se llama** el **logro** de lo que **se desea**  
+y la **desaparición** de lo **no deseado**,  
+debido a la intención de **significar** un propósito especial. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऒऩ्ऱुदऩ्ऩैये स्वरूपत्तालुम् प्रतियोगियालुम् निरूपित्तु प्रयोजनविशेषाभिसन्धियाले पिरियच् चॊल्लक् कडवदायिरुक्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संसार-दशैयिल् ऒरु प्रतिकूल-निवृत्ति  
+प्रतिकूलान्तरम् आयुम् अनुकूल-प्रतिकूलोभय-निवृत्तिय् आयुम्  
+इरुक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+In the state of saṁsāra, the **disappearance** of something that **is undesirable**  
+may be another **undesirable** thing  
+or the **disappearance** of what **is desired**  
+and what **is not desirable** alike. 
+</details>
+
+<details><summary>Español</summary>
+
+En el estado de saṁsāra, la **desaparición** de algo que **es indeseable**  
+puede ser otra cosa **indeseable**  
+
+o la **desaparición** de lo **deseado**  
+y lo que **no es deseable** igual. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+संसारदशैयिल् ऒरु प्रतिकूल निवृत्तिप्रतिकूलान्तरमायुम् अनुकूलप्रतिकूलोभयनिवृत्तियायुमिरुक्कुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु सर्व-प्रतिकूल--निवृत्तिय् आगैयाले  
+मेल् मुऴुक्क अनुकूलमेय् आय् इरुक्कुम्।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+But in the state of mokṣa,  
+since every thing (without exception) that **is undesirable disappears**,  
+what **remains is** all agreeable.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Pero en el estado de mokṣa,  
+ya que todo lo que **es indeseable (sin excepción) desaparece**,  
+lo que **queda es** todo agradable.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु सर्वप्रतिकूलनिवृत्तियागैयाले मेल् मुऴुक्क अनुकूलमेयायिरुक्कुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल्  
+पूर्वावस्थैयिऩ्-उडैय अनिष्टतमत्वत्तैयुम्  
+केवलानुकूल-रूपैय् आऩ उत्तरावस्थैयिऩ्-उडैय इष्टतमत्वत्तैयुन्  
+तोऱ्ऱु+++(=उद्भाव्य)+++ विक्कैक्क् आग  
+आदरातिशयत्ताले पिरियव् अपेक्षिक्किऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+So the two (the **disappearance** of the undesirable and the **attainment** of what is desired) **were stated** separately  
+in order to show, with great regard,  
+that the former state (saṁsāra) **is** most undesirable  
+and the latter most desirable,  
+since it (**is free** from all undesirable elements and) **has** only what is desirable. 
+</details>
+
+<details><summary>Español</summary>
+
+Así que los dos (la **desaparición** de lo indeseable y el **logro** de lo deseado) **se mencionaron** por separado  
+para **mostrar**, con gran respeto,  
+que el estado anterior (saṁsāra) **es** el más indeseable  
+y el último muy deseable,  
+ya que (**está libre** de todos los elementos indeseables y) **tiene** solo lo que es deseable. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् पूर्वावस्थैयिऩुडैय अनिष्टतमत्वत्तैयुम् केवलानुकूलरूपैयाऩ उत्तरावस्थैयिऩुडैय इष्टतमत्वत्तैयुन्दोऱ्ऱु विक्कैक्काग आदरातिशयत्ताले पिरियवपेक्षिक्किऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवन्-निग्रहादि-निवृत्तियुम्,  
+जीवऩ्-उडैय ज्ञान-विकासादिगळुम्  
+वेऱ् आगैयाले  
+पिरियव् अपेक्षिक्किऱद् आगवुम् आम्।
+</details>
+
+<details><summary>English</summary>
+
+Further the two **have to be stated** separately,  
+since the **withdrawal** of **punishment** by Bhagavān  
+and such things as the **expansion** of the jīva's **knowledge**  
+**are** different things. 
+</details>
+
+<details><summary>Español</summary>
+
+Además, los dos **deben establecerse** por separado,  
+desde la **retirada** del **castigo** por parte de Bhagavān  
+y cosas tales como la **expansión** del **conocimiento** del jīva  
+**son** cosas diferentes. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवन्निग्रहादिनिवृत्तियुम्,जीवऩुडैय ज्ञानविकासादिगळुम् वेऱागैयाले पिरियवपेक्षिक्किऱदागवुमाम्।
+</details>
 
 
 
 
-To that question the answer is as follows: - For the sake of some purpose, a single thing may be indicated (in two ways), in its essential nature (svarūpa) and also in a form that is opposed to it. So (here ), it is called the attainment of what is desired and the disappearance of what is not desired, because of the intention to signify a special purpose. In the state of saṁsāra, the dis. appearance of something that is undesirable may be another undesirable thing or the disappearance of what is desired and what is not desirable alike. But in the state of mokṣa, since every thing (without exception) that is undesirable disappears, whal remains is all agreeable So the two (the disappearance of the undesirable and the attainment of what is desired) were stated separately in order to show, with great regard, that the former state (saṁsāra) is most undesirable and the latter most desirable, since it (is free from all undesirable elements and) has only what is desirable. Further the two have to be stated separately, since the withdrawal of punishment by Bhagavān and such things as the expansion of the jīva's knowledge are different things. It is not improper to pray separately for these two things since the remission of punishment by God which is the cause of the contraction of knowledge and the like is different from such things as the expansion of knowledge, service and the like which results from the disappearance of the contraction of knowledge, service and the like, which were the results of that punishment.
+It is not improper to pray separately for these two things since the remission of punishment by God which is the cause of the contraction of knowledge and the like is different from such things as the expansion of knowledge, service and the like which results from the disappearance of the contraction of knowledge, service and the like, which were the results of that punishment.
 
 
 
