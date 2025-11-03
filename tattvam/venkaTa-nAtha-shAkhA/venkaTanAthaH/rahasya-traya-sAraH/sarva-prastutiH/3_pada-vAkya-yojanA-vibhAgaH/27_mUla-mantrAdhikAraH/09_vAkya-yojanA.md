@@ -5554,6 +5554,7 @@ A esa **pregunta** la **respuesta es** la **siguiente**: -
 ‘‘अविद्यानिवृत्तिरेव हि मोक्षः’’(श्रीभाष्यम्, लघु-सिद्धान्तः।) ऎऩ्ऱु भाष्यकाररुमरुळिच्चॆय्दिलरोव् ऎऩ्ऩिल्, 
 </details>
 
+##### विशेषाभिसन्धिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > एकम् एव स्व-रूपेण  
@@ -5578,7 +5579,7 @@ A esa **pregunta** la **respuesta es** la **siguiente**: -
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऒऩ्ऱु-दऩ्ऩैये स्व-रूपत्तालुम् प्रतियोगियालुम् **निरूपित्तु**  
+ऒऩ्ऱु-तऩ्ऩैये स्व-रूपत्तालुम् प्रतियोगियालुम् **निरूपित्तु**  
 प्रयोजन-विशेषाभिसन्धियाले पिरियच् चॊल्लक् कडवद् आय् इरुक्कुम्। 
 </details>
 
@@ -5609,6 +5610,7 @@ debido a la intención de **significar** un propósito especial.
 ऒऩ्ऱुदऩ्ऩैये स्वरूपत्तालुम् प्रतियोगियालुम् निरूपित्तु प्रयोजनविशेषाभिसन्धियाले पिरियच् चॊल्लक् कडवदायिरुक्कुम्। 
 </details>
 
+##### हेय-नाशात्यन्तिकता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5698,6 +5700,7 @@ ya que (**está libre** de todos los elementos indeseables y) **tiene** solo lo 
 आगैयाल् पूर्वावस्थैयिऩुडैय अनिष्टतमत्वत्तैयुम् केवलानुकूलरूपैयाऩ उत्तरावस्थैयिऩुडैय इष्टतमत्वत्तैयुन्दोऱ्ऱु विक्कैक्काग आदरातिशयत्ताले पिरियवपेक्षिक्किऱदु। 
 </details>
 
+##### काङ्क्षितयोर् भेदः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5730,13 +5733,112 @@ y cosas tales como la **expansión** del **conocimiento** del jīva
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान-सङ्कोचादिगळुक्कु हेतुव् आऩ भगवन्-निग्रहादिगळ्-उडैय निवृत्तियुम्,  
+निग्रह-फलम् आऩ ज्ञान-सङ्कोचादिगळ्-उडैय निवृत्तिय् आऩ ज्ञान-विकास-कैङ्कर्यादिगळुम्  
+वेऱु-पट्ट्-अवैय् आगैयाले  
+पिरिय अपेक्षिक्कक् कुऱैय् इल्लैय् इऱे।  
+</details>
+
+<details><summary>English</summary>
+
+It **is not** improper to **pray** separately for these two things since  
+the **remission** of **punishment** by God  
+which **is** the cause of the **contraction** of knowledge and the like  
+**is** different from such things as the **expansion** of **knowledge**, **service** and the like  
+which **results** from the **disappearance** of the **contraction** of **knowledge**, **service** and the like,  
+which **were the results** of that **punishment**.
+</details>
+
+<details><summary>Español</summary>
+
+**No es** impropio **orar** por separado por estas dos cosas, ya que  
+la **remisión** del **castigo** por parte de Dios  
+que **es** la causa de la **contracción** del **conocimiento** y cosas por el estilo  
+**es** diferente de cosas como la **expansión** del **conocimiento**, **servicio** y similares  
+que **resulta** de la **desaparición** de la **contracción** del **conocimiento**, **servicio** y similares,  
+que **fueron los resultados** de ese **castigo**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञानसङ्कोचादिगळुक्कु हेतुवाऩ भगवन्निग्रहादिगळुडैय निवृत्तियुम्, निग्रहफलमाऩ ज्ञानसङ्कोचादिगळुडैय निवृत्तियाऩ ज्ञानविकासकैङ्कर्यादिगळुम् वेऱुबट्टवैयागैयाले पिरिय अपेक्षिक्कक् कुऱैयिल्लैयिऱे।  
+</details>
+
+##### मुक्ति-गुणाः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वानिष्ट-निवृत्ति पिऱन्दाल्  
+पाषाण-कल्पत्वादि-मतान्तर-शङ्कै वारामैक्क् आगवुम्, 
+</details>
+
+<details><summary>English</summary>
+
+In some other systems of thought (like that of the Tārkikas), mokṣa **means** the **disappearance** of all **undesirable** things  
+and the **attainment** of a state similar to that of a stone  
+(with no positive content in the form of **enjoyment** or bliss).  
+
+In order **to show** that mokṣa in our system **is not** of that kind,  
+but **has** a positive content of enjoyment or bliss,  
+the two (prayers) **are stated** as **being separate**  
+
+</details>
+
+<details><summary>Español</summary>
+
+En algunos otros sistemas de pensamiento (como el de los Tārkikas), mokṣa **significa** la **desaparición** de todas las cosas **indeseables**  
+y el **logro** de un estado similar al de una piedra  
+(sin contenido positivo en forma de **disfrute** o felicidad).  
+
+Con el fin de **mostrar** que mokṣa en nuestro sistema **no es** de esa clase,  
+pero **tiene** un contenido positivo de **disfrute** o dicha,  
+los dos (oraciones) **se afirman** como **separados**  
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वानिष्टनिवृत्ति पिऱन्दाल् पाषाणकल्पत्वादि मतान्तरशङ्कै वारामैक्कागवुम्, 
+</details>
 
 
-It is not improper to pray separately for these two things since the remission of punishment by God which is the cause of the contraction of knowledge and the like is different from such things as the expansion of knowledge, service and the like which results from the disappearance of the contraction of knowledge, service and the like, which were the results of that punishment.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> भगवत्-प्राप्तियिल्  
+इन्द्रादि-प्राप्तियिऱ् पोले  
+दुःख-सम्बन्धम् इल्लैय् 
+
+ऎऩ्ऱु तोऱ्ऱुविक्कैयिल् तात्पर्यत्तालुम्  
+पिरित्तुच् चॊल्लुगिऱद् आगवुमाम्।
+</details>
+
+<details><summary>English</summary>
+
+This **is** also another reason for two separate prayers - 
+
+Also **to show** that in the **attainment** of Bhagavān (in mukti),  
+there **is no** such thing as an alloy of misery or pain  
+just as there **is** in **attaining** such states as the position of Indra.
+</details>
+
+<details><summary>Español</summary>
+
+Esta **es** también otra razón para dos **oraciones** separadas: 
+
+También **para mostrar** que en el **logro** de Bhagavān (in mukti),  
+No existe tal cosa como una aleación de miseria o dolor  
+así como **hay** en **alcanzar** estados tales como la posición de Indra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवत्प्राप्तियिल् इन्द्रादिप्राप्तियिऱ्पोले दुःखसम्बन्धमिल्लैयॆऩ्ऱु तोऱ्ऱुविक्कैयिल् तात्पर्यत्तालुम् पिरित्तुच् चॊल्लुगिऱदागवुमाम्।
+</details>
 
 
 
-There is also another reason for two separate prayers - In some other systems of thought (like that of the Tārkikas), mokṣa means the disappearance of all undesirable things and the attainment of a state similar to that of a stone (with no positive content in the form of enjoyment or bliss). In order to show that mokṣa in our system is not of that kind, bat has a positive content of enjoyment or bliss, the two are stated as **being** separate and also to show that in the attainmeot of Bhagavān (in mukti), there is no such thing as an alloy of misery or pain just as there is in attaining such states as the position of Indra."
+
 
 
 
