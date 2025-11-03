@@ -5836,55 +5836,326 @@ así como **hay** en **alcanzar** estados tales como la posición de Indra.
 भगवत्प्राप्तियिल् इन्द्रादिप्राप्तियिऱ्पोले दुःखसम्बन्धमिल्लैयॆऩ्ऱु तोऱ्ऱुविक्कैयिल् तात्पर्यत्तालुम् पिरित्तुच् चॊल्लुगिऱदागवुमाम्।
 </details>
 
+#### नमसि साध्योपायः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि स्वरूपमुम्, पुरुषार्थ-प्रार्थनमुम् शाब्दम् आऩाल् 
+</details>
+
+<details><summary>English</summary>
+
+Thus if it is held that the svarūpa and the prayer **are expressed** explicitly by the words themselves, 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, si **se sostiene** que el svarūpa y la oración **se expresan** explícitamente por las palabras mismas, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि स्वरूपमुम् पुरुषार्थप्रार्थनमुम् शाब्दमाऩाल् 
+</details>
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् पुरुषार्थत्तुक्कु साधनम् आग शास्त्र-विहितम् आऩ साध्योपायमुम्  
+भर-न्यास-पर्यन्तम् आग  
+अ-किञ्चनऩुक्क् अन्-इष्ट-निवृत्तियैच् चॊल्लुगिऱ नमस्सिलेय्  
+आर्थम् आग अनुसन्धेयम्।
+</details>
+
+<details><summary>English</summary>
+
+the upāya **prescribed** by the shastras for the **attainment** of the end in view (puruṣārtha)  
+namely, the Sādhyopāya,  
+**is implicit** in the meaning of "namas"  
+which **states** the **disappearance** of undesirable things  
+in the case of the man **destitute** of all other upāyas,  
+as a result of bharanyāsa.
+</details>
+
+<details><summary>Español</summary>
+
+El upāya **prescrito** por los Shastras para el **logro** del fin en vista (Puruṣārtha)  
+a saber, el Sādhyopāya,  
+**está implícito** en el significado de "namas"  
+que **afirma** la **desaparición** de cosas indeseables  
+En el caso del hombre **desprovisto** de todos los demás upāyas,  
+como **resultado** de Bharanyāsa.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-Thus if it is held that the svarūpa and the prayer are expressed explicitly by the words themselves, the upāya prescribed by the sütras, for the attainment of the end in view (puruṣārtha) namely, the Sādhyopāya, is implicit in the meaning of namas which states the disappearance of undesirable things in the case of the man destitute of all other upāyas as a result of bharanyāsa.
+इप् पुरुषार्थत्तुक्कु साधनमाग शास्त्र-विहितमाऩ साध्योपायमुम् भरन्यासपर्यन्तमाग अकिञ्चनऩुक्कनिष्टनिवृत्तियैच् चॊल्लुगिऱ नमस्सिलेयार्थमाग अनुसन्धेयम्।
+</details>
+
+### स्वरूपोपाय-पराणि (८)
 
 
+<details><summary>English</summary>
 
 (8) SVARŪPA AND UPÃYA :
+</details>
+
+<details><summary>Español</summary>
+
+(8) SVARŪPA Y UPÃYA :
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् +++("नारायणाय स्याम्"→)+++ पुरुषार्थ-प्रार्थऩै  
+इच्छा-मात्रम् आय् इरुक्कैय् अऩ्ऱिक्के  
+गोप्तृत्व-वरण-रूपैय् आगैयाले  
+शेषम् उपलक्षितम् आगवुम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+Since the prayer for the puruṣārtha **is not** a mere desire  
+but the **soliciting** of a **protector**,  
+the aṅga and other accessories **may be considered** also as implicit and not expressed. 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que la **oración** por el puruṣārtha **no es** un mero deseo  
+sino la **solicitud** de un **protector**,  
+El aṅga y otros accesorios **pueden considerarse** también como implícitos y **no expresados**. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् पुरुषार्थप्रार्थऩै इच्छामात्रमायिरुक्कैयऩ्ऱिक्के गोप्तृत्ववरणरूपैयागैयाले शेषमुपलक्षितमागवुमाम्। 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Since the prayer for the puruṣārtha is not a mere desire but the soliciting of a protector, the aṅga and other accessories may be considered also as implicit and not expressed. The Tirumantra would then mainly indicate the svarūpa and upāya. If we split Nārāyaṇa into nārāṇām ayanam yena "He by whom He becomes the resting place of nārās (the world of jīvas), the word ayana may be considered also as indicating the upāya, for He is the upāya.
+अप्-पोदु तिरु-मन्त्रम् स्वरूपोपाय-प्रधानम् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+The Tirumantra would then mainly **indicate** the svarūpa and upāya. 
+</details>
+
+<details><summary>Español</summary>
+
+El Tirumantra entonces **indicaría** principalmente el svarūpa y upāya. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्पोदु तिरुमन्त्रम् स्वरूपोपायप्रधानमायिरुक्कुम्। 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अयन-शब्दत्तिल् करण-व्युत्पत्तियाले ईश्वरऩ्-उडैय उपायत्वमुम् सिद्धिक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+If **we split** Nārāyaṇa into "nārāṇām ayanam yena"  
+"He by whom He **becomes** the resting place of nārās (the world of jīvas)",  
+the word ayana **may be considered** also as **indicating** the upāya,  
+for He **is** the upāya.
+</details>
+
+<details><summary>Español</summary>
+
+Si **dividimos** Nārāyaṇa en "nārāṇām ayanam yena"  
+"Aquel por quien Él **se convierte** en el lugar de **descanso** de nārās (el mundo de los jīvas)",  
+La palabra Ayana **puede ser considerada** también como **indicando** el upāya,  
+porque Él **es** el upāya.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अयनशब्दत्तिल् करणव्युत्पत्तियाले ईश्वरऩुडैय उपायत्वमुम् सिद्धिक्कुम्। 
+</details>
+
+
+### उपाय-फल-पराणि (९)
+
+<details><summary>English</summary>
 
 (9) UPĀYA AND PURUṢĀRTHA :
+</details>
 
+<details><summary>Español</summary>
 
+(9) UPĀYA Y PURUṢĀRTHA :
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-केचित्तु चरमश्लोके द्वये चोक्तक्रमादिह । भरन्यासपरं तारं शेषं फलपरं विदुः ॥
+केचित्तु चरमश्लोके  
+द्वये चोक्त-क्रमाद् इह ।  
+भर-न्यास-परं तारं  
+शेषं फल-परं **विदुः** ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+केचित्तु चरमश्लोके  
+द्वये चोक्त-क्रमाद् इह ।  
+भर-न्यास-परं तारं  
+शेषं फल-परं **विदुः** ॥
+</details>
+
+<details><summary>English</summary>
+
+Some ācāryas **considered** that,  
+as in the order in which these **are expressed** in Dvaya and in the carama śloka,  
+here, in Tirumantra also,  
+the praṇava (tāram) **expresses** bharanyāsa or the **surrender** of the responsibility of **protection**  
+and that the other two words namas and Nárāyaṇāya **express** the **attainment** of the end in view.
+</details>
+
+<details><summary>Español</summary>
+
+Algunos ācāryas **consideraron** que,  
+como en el orden en que estos **se expresan** en Dvaya y en el carama śloka,  
+aquí, también en Tirumantra,  
+El Praṇava (Tāram) **expresa** Bharanyāsa o la **rendición** de la responsabilidad de **protección**  
+y que las otras dos palabras namas y Nárāyaṇāya **expresan** el **logro** del fin en vista.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 केचित्तु चरमश्लोके द्वये चोक्तक्रमादिह । भरन्यासपरं तारं शेषं फलपरं विदुः ॥
 </details>
 
-Someācāryas considered that, as in the order in which these are expressed in Dvaya and in the carama śloka, here, in Tirumantra also, the praṇava (tāram) expresses bharanyāsa or the surrender of the responsibility of protection and that the other two words namas and Nárāyaṇāya express the attainment of the end in view.
+
+
+### स्वरूपोपाय-फल-पराणि (१०)
+
+<details><summary>English</summary>
+
+(10) THREE SENTENCES INDICATING RESPECTIVELY SVARŪPA, UPĀYA AND PURUṢĀRTHA
+</details>
+
+<details><summary>Español</summary>
+
+(10) TRES **ORACIONES** QUE **INDICAN** RESPECTIVAMENTE SVARŪPA, UPĀYA Y PURUṢĀRTHA
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत् तिरु-मन्त्रत्तिल्  
+स्व-रूपोपाय--पुरुषार्थङ्गळ् मूऩ्ऱुम्  
+अडैवे+++(=क्रमशः)+++ शाब्दम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+Tirumantra **may be considered** also as **stating** all the three, viz., svarūpa, upāya and puruṣārtha in that order. 
+</details>
+
+<details><summary>Español</summary>
+
+Tirumantra **puede ser considerado** también como **declarando** los tres, a saber, svarūpa, upāya y puruṣārtha en ese orden. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत् तिरुमन्त्रत्तिल् स्वरूपोपायपुरुषार्थङ्गळ् मूऩ्ऱुमडैवे शाब्दमाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदु  
+प्रणवम् स्व-रूप--परम्,  
+नमस्सु उपाय-परम्,  
+शेषम् पुरुषार्थ-प्रार्थना-परम्। 
+</details>
+<details><summary>English</summary>
+
+In this case  
+the praṇava **states** the svarūpa or essential nature of the jīva (as Bhagavān's śeṣa),  
+the namas **states** the upāya  
+and what remains (i.e.) Nārāyaṇāya **states** the **prayer** for the puruṣārtha  
+or the **attainment** of the end in view.
+</details>
+
+<details><summary>Español</summary>
+
+En este caso  
+
+el praṇava **declara** el svarūpa o naturaleza esencial del jīva (como el śeṣa de Bhagavān),  
+
+Los namas **afirman** el upāya  
+
+y lo que **queda** (es decir) Nārāyaṇāya **declara** la **oración** por el puruṣārtha  
+o el **logro** del fin en vista.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्पोदु प्रणवम् स्वरूपपरम्, नमस्सु उपायपरम्, शेषम् पुरुषार्थप्रार्थनापरम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इम्-मूऩ्ऱिऩ् विरिव्+++(=विस्तारम्)+++ ऎल्लाम् अध्यात्म-शास्त्रङ्गळैक् कॊण्डु तॆळिन्द्  
+इङ्गे अनुसन्धेयम्।
+</details>
+
+<details><summary>English</summary>
+
+The details concerning these three  
+**should be understood** by a **study** of the Vedānta śāstras.  
+</details>
+
+<details><summary>Español</summary>
+
+Los detalles relativos a estos tres  
+**debe entenderse** mediante un **estudio** de los śāstras del Vedānta.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इम्मूऩ्ऱिऩ् विरिवॆल्लामध्यात्मशास्त्रङ्गळैक्कॊण्डु तॆळिन्दिङ्गे अनुसन्धेयम्।
+</details>
+
+#### वेदान्त-शास्त्र-सादृश्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द योजऩैक्कु  
+वेदान्त-शास्त्रत्तिल् तत्त्वोपाय-पुरुषार्थङ्गळै निरूपित्त क्रमत्तोडु सेर्त्तिय् उण्डु, 
+</details>
+
+<details><summary>English</summary>
+
+The **construction** or **interpretation** **given** above of Tirumantra  
+**has resemblances** to the order in which the tattva, the upāya and the puruṣārtha **are explained** in the Vedāntha śāstras. 
+</details>
+
+<details><summary>Español</summary>
+
+La **construcción** o **interpretación** **dada** arriba de Tirumantra  
+**tiene semejanzas** con el orden en que el tattva, el upāya y el puruṣārtha **se explican** en los śāstras del Vedāntha. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द योजऩैक्कु वेदान्तशास्त्रत्तिल् तत्त्वोपायपुरुषार्थङ्गळै निरूपित्त क्रमत्तोडु सेर्त्तियुण्डु, 
+</details>
 
 
 
-(10) THREE SENTENCES INDICATING RESPECTIVELY
 
-
-
-SVARŪPA, UPĀYA AND PURUṢĀRTHA
-
-
-
-Tirumantra may be considered also as stating all the three, viz., svarūpa, upāya and puruṣārtha in that order. In this case the praṇava states the svarūpa or essential nature of the jīva (as Bhagavān's śeṣa), the namas states the upāya and what remains (i.e.) Nārāyaṇāya states the prayer for the puruṣārtha or the attainment of the end in view.
-
-
-
-The details concerning these three should be understood by a study of the Vedānta śāstras. The construction or interpretation given above of Tirumantra has resemblances to the order in which the tattva, the upāya and the puruṣārtha are explained in the Vedāntha śāstras. Does not that śāstra proceed in this way? So the first two chapters (adhyāyas) (of the Brahma sūtras), the Supreme Real (Brahman) and the reals subordinate to it are determined. In the third chapter, competency (adhikāra) and accessories (aṅgas) are stated along with the upāya and in the fourth chapter, the fruit or the attainment of the goal is explained by way of conclusion. The essential nature of the Supreme Real and that of the lower reals explained in the first two chapters (adhyāyas ) and the fruit or goal of attainment explained in the fourth are the same for the man who has adopted prapatti as a direct and independent means or upāya. The shortcomings and sufferings in saṁsāra which are dealt with in the sections (pāda) on Vairagya and Ubhayalinga in the third chapter and the Redeemer's **being** opposed to all that is of the nature of blemish (heya) and His **being** the sole possessor of all auspicious qualities --- these, too, must necessarily be understood by the prapanna who is an aspirant to mukti. The different forms of meditation or worship (upāsana) of Brahman, which are treated of in the third section (pāda) of the third chapter (of the Brahma sütras ), should be adopted by those who are competent for them (i.e.) those who have adopted bhakti. The man who is not competent for them and who is destitute of other upāyas should realise that these forms of meditation are too high for him and adopt nyāsa as his upāya. For, as stated in the following sub-sections:- Nānā śabdādi bhedāt (Brahma sūtras 3-3-56) (The forms of meditation or worship or vidyās concerning Brahman) are different from one another, for their names are different and vikalpah avisiṣṭa phalatvat (3---3--57). (Any one of them may be adopted as there is no difference in the resulting fruit). Nyāsa is different from the other vidyās and in yielding the fruit conferred by them, does not require any other aid. The man who has adopted upāsana (or bhakti ) should perform the rights and duties pertaining to his varṇa (caste) and āśrama (stage of life) as an accessory or aṅga to the vidyā or form of meditation as stated in Brahma Sūtras (3.4.33)  The man who practises bhakti  should perform the duties of his varṇa and āśrama as an aṅga to bhakti ." The man who has adopted prapatti as a direct and independent upāya should perfom these rites and duties as **having** been enjoined by Bhagavān and for their own sake (without expecting any gain or reward), for it is said in the Brahma Sūtras (3.4 - 32). “Since they are enjoined, yajnas and other rites become the duties of the (respective) āsramas". If this is understood the, svarūpa, upāya and puruṣārtha which are explained in the Sārīraka Śāstras (Brahma sūtras) are all to be found within the sacred Aṣṭākṣara. We have already explained how the five truths that ought to be understood may be found in this. (Chap. 4).
+Does not that śāstra proceed in this way? So the first two chapters (adhyāyas) (of the Brahma sūtras), the Supreme Real (Brahman) and the reals subordinate to it are determined. In the third chapter, competency (adhikāra) and accessories (aṅgas) are stated along with the upāya and in the fourth chapter, the fruit or the attainment of the goal is explained by way of conclusion. The essential nature of the Supreme Real and that of the lower reals explained in the first two chapters (adhyāyas ) and the fruit or goal of attainment explained in the fourth are the same for the man who has adopted prapatti as a direct and independent means or upāya. The shortcomings and sufferings in saṁsāra which are dealt with in the sections (pāda) on Vairagya and Ubhayalinga in the third chapter and the Redeemer's **being** opposed to all that is of the nature of blemish (heya) and His **being** the sole possessor of all auspicious qualities --- these, too, must necessarily be understood by the prapanna who is an aspirant to mukti. The different forms of meditation or worship (upāsana) of Brahman, which are treated of in the third section (pāda) of the third chapter (of the Brahma sütras ), should be adopted by those who are competent for them (i.e.) those who have adopted bhakti. The man who is not competent for them and who is destitute of other upāyas should realise that these forms of meditation are too high for him and adopt nyāsa as his upāya. For, as stated in the following sub-sections:- Nānā śabdādi bhedāt (Brahma sūtras 3-3-56) (The forms of meditation or worship or vidyās concerning Brahman) are different from one another, for their names are different and vikalpah avisiṣṭa phalatvat (3---3--57). (Any one of them may be adopted as there is no difference in the resulting fruit). Nyāsa is different from the other vidyās and in yielding the fruit conferred by them, does not require any other aid. The man who has adopted upāsana (or bhakti ) should perform the rights and duties pertaining to his varṇa (caste) and āśrama (stage of life) as an accessory or aṅga to the vidyā or form of meditation as stated in Brahma Sūtras (3.4.33)  The man who practises bhakti  should perform the duties of his varṇa and āśrama as an aṅga to bhakti ." The man who has adopted prapatti as a direct and independent upāya should perfom these rites and duties as **having** been enjoined by Bhagavān and for their own sake (without expecting any gain or reward), for it is said in the Brahma Sūtras (3.4 - 32). “Since they are enjoined, yajnas and other rites become the duties of the (respective) āsramas". If this is understood the, svarūpa, upāya and puruṣārtha which are explained in the Sārīraka Śāstras (Brahma sūtras) are all to be found within the sacred Aṣṭākṣara. We have already explained how the five truths that ought to be understood may be found in this. (Chap. 4).
 
 
 
