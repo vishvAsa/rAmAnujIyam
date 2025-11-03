@@ -3892,8 +3892,6 @@ Dado que estos ritos o acciones **no son productivos** de la vida en el saṁsā
 प्रणवोक्तस्य भगवच्-छेषत्वस्य  
 नमस्य् औचित्य-रूपात्यन्त--पारतन्त्र्य-पारार्थ्य-बलात्  
 यथाप्रमाणं तदीय-पर्यन्ततया ऽवस्थितत्वात्  
-"नारायणाय” +इत्य् अत्रापेक्ष्यमाणं भगवत्-कैङ्कर्यम् अपि  
-तदीय-पर्यन्तम् । 
 </details>
 
 <details><summary>English</summary>
@@ -3934,6 +3932,12 @@ como **consecuencia** de la **sujeción** absoluta de la jīva y su única **exi
 
 ‘‘नारायणाय’’ ऎऩ्गिऱव् इडत्तिल् अपेक्षिक्किऱ भगवत्-कैङ्कर्यमुम्  
 तदीय-पर्यन्तम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"नारायणाय” +इत्य् अत्रापेक्ष्यमाणं भगवत्-कैङ्कर्यम् अपि  
+तदीय-पर्यन्तम् । 
 </details>
 
 <details><summary>English</summary>
@@ -3995,6 +3999,13 @@ Por lo tanto, uno **debe honrarlos** grandemente",
 ‘‘मम मद्भक्तभक्तेषु प्रीतिरभ्यधिका भवेत् । तस्मान्मद्भक्तभक्ताश्च पूजनीया विशेषतः’’(भारतम् आश्वमेधिक-पर्व ११६-२३), 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+भगवत्-कैङ्कर्यम् तदीय-पर्यन्तम् ऎऩ्बदिल्  
+प्रमाणत्तैक् काट्टुगिऱार् ममेत्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘तस्माद् विष्णु-**प्रसादाय**  
@@ -4047,6 +4058,12 @@ Por esto, el Señor **se vuelve** sinceramente inclinado a **mostrar** Su gracia
 इत्य्-आदिगळिलुम् इव्व्-अर्थम् सिद्धम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आदिष्व् अयम् अर्थः सिद्धः ।
+</details>
+
+
 <details><summary>English</summary>
 
 This idea is expressed in such ślokas as the above.
@@ -4080,6 +4097,11 @@ Esta idea **se expresa** en ślokas como los anteriores.
 > ‘‘सर्वं पर-वशं दुःखम्’’  
 (मनुस्मृति ४-१६०) 
 
+[[P307]]  
+इत्य्-आदीनि  
+स्वस्याप्राप्तं  
+क्षुद्र-विषये कर्म-मूलकतया जायमानं पारवश्यं  
+दुःख-कारणम् इति प्रतिपादयन्ति । 
 </details>
 
 <details><summary>English</summary>
@@ -4106,11 +4128,32 @@ y que **no es adecuado** para el svarūpa de uno,
 ‘‘सर्वं परवशं दुःखम्’’(मनुस्मृति ४-१६०) इत्यादिगळ् तऩक्कु प्राप्तमल्लाद क्षुद्रविषयत्तिले कर्ममूलमाग वरुगिऱ पारवश्यम् दुःखकारणमॆऩ्गिऱऩ।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सर्वं परवशं दुःखं ऎऩ्ऱु शास्त्रम् परवशतैयैदुःखरूपमागच् चॊल्लानिऱ्क भगवद्भागवतर्गळुक्कु परवशऩाय्प्पण्णुम् कैङ्कर्यत्तै सुखरूपमायुम् भोग्यमायुम् कॊण्डु प्रार्थनीयमागच् चॊल्लक्कूडुमो वॆऩ्ऩ? अन्द शास्त्रम् तऩक्कु प्राप्तमिल्लाद क्षुद्रविषयत्तिल् प्राचीनकर्ममूलमाग वरुम् पारवश्यम् दुःखकरमॆऩ्ऱु सॊल्लुगिऱदागैयालुम् भगवद्भागवतकैङ्कर्यम् कर्मोपाधिकमिऩ्ऱिक्के स्वतःप्राप्तमागैयालुम्, महनीयभगवद्भागवतविषयकमागैयालुम्, 
+
+> ‘‘अन्नं भोज्यं मनुष्याणाम्  
+अमृतन् तु दिवौकसां ।  
+श्वपशू विट्-तृणाहारौ  
+सन्तो दास्यैक जीवनाः॥’’ +++(5)+++
+
+ऎऩ्ऱु आत्माभिमानानुगुणपुरुषार्थव्यवस्थै प्रमाणसिद्धमागैयालुम्, निरतिशयप्रीतिहेतुवागैयालुम्, प्रार्थनीयमागलामॆऩ्गिऱार् सर्वं परवशं दुःखमित्यादिना निरतिशयप्रीतिकारणमित्यन्तेन ।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवद्-भागवत-विषयत्तिल् पारतंत्र्यम्  
 आत्माभिमानानुगुण--पुरुषार्थ-व्यवस्थैयाले निरतिशय-प्रीति-कारणम्। +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवद्-भागवत-विषये पारतन्त्र्यम्  
+आत्माभिमानानुगुण-पुरुषार्थ-व्यवस्थया  
+निरतिशय-प्रीति-कारणं भवति । +++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4142,6 +4185,13 @@ y **es** por lo tanto la causa de un deleite insuperable.
 तदीयत्व-व्यवसाय-रसम् उडैयवर्गळै।+++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र तदीया इत्य्-अनेन  
+तदीयत्व-व्यवसाय-रसवन्तो विश्यन्ते ।
+</details>
+
+
 <details><summary>English</summary>
 
 "Tadiyas" or 'Bhāgavatas' means those who **feel** a delight in **being** the servants of the Lord.
@@ -4159,6 +4209,12 @@ y **es** por lo tanto la causa de un deleite insuperable.
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इङ्गु तदीयरॆऩ्ऱु भगवच्छेषर्गळै यऩ्ऱो सॊल्लुगिऱदु। ऎल्लोरुमे भगवच्छेषभूतरागैयाल् भगवच्छेषभूतदेवतान्तरपररुडैय कैङ्कर्यमुम् प्रार्थनीयमागप् प्रसङ्गियादो वॆऩ्ऩवरुळिच्चॆय्गिऱार् इङ्गु तदीयरॆऩ्गिऱदु तदीयत्वव्यवसायरसमुडैयवर्गळै इति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > नारङ्गळाले विशिष्टऩ् आऩ नारायणऩैप् पऱ्ऱ कैङ्कर्यत्तैय् अपेक्षिक्कुम् बोदु  
@@ -4169,6 +4225,19 @@ y **es** por lo tanto la causa de un deleite insuperable.
 
 ऎऩ्ऱु सिलर् सॊल्लुवर्गळ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > नार-विशिष्ट-नारायणम् उद्दिश्य कैङ्कर्ये ऽपेक्षिते सति  
+विशेषणी-भूतानि नाराण्य् अप्य् उद्दिश्य कैङ्कर्यम् अपेक्षितं भवति
+> 
+> इत्य् अर्थस्य न्याय-सिद्धत्वात्  
+अत्र तदीय-कैङ्कर्यं सिध्यति
+
+इति केचिद् आचक्षते । 
+</details>
+ 
+
 
 <details><summary>English</summary>
 
@@ -4194,12 +4263,27 @@ porque **servicio** al sustantivo en Nārāṇām ayanam **incluye** (dicen) ser
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि अपेक्षितमाऩ नारायणकैङ्कर्यम् तदीयकैङ्कर्यपर्यन्तमागैयाल् तदीयकैङ्कर्यमुमपेक्षणीयमॆऩ्ऱु सॊल्लवेण्डुमो? नारायणकैङ्कर्यमपेक्षितमाऩाल् विशेणीभूतनारर्गळाऩ भागवतकैङ्कर्यमुम् विशिष्टान्वयिनः ऎऩ्गिऱ न्यायत्तिऩालेये अपेक्षितमाग सिद्धिक्कादो वॆऩ्ऩ? इप्पडि सिलर् सॊल्लुमदै अनुवदित्तु विशिष्टान्वयिनः ऎऩ्गिऱ न्यायत्ताले विशेषणीभूतभागवतकैङ्कर्यापेक्षै सिद्धित्ताल् इदे न्यायत्ताले विशेषणीभूतदेवतान्तरकैङ्कर्यापेक्षैयुम् सिद्धिक्कुमागैयाल् अतिप्रसङ्गम् वरुमॆऩ्गिऱार् नारङ्गळाले विशिष्टऩाऩ इत्यादियाल्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि विशेषणत्वमे प्रयोजकम् आऩाल्  
 नार-शब्दार्थङ्गळ् आग इङ्गु विवक्षितङ्गळ् आऩ  
 ब्रह्मादि-देवतान्तरङ्गळैयुम् भगवद्-द्वेषिगळैयुम् पश्वादिगळैयुम् पऱ्ऱ कैङ्कर्यापेक्षै 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं विशेषणत्वस्यैव प्रयोजकत्वे  
+नार-शब्दार्थत्वेनात्र विवक्षितानि  
+ब्रह्मादि-देवतान्तराणि, द्वेषिणः, पश्वादीन् प्रति  
+कैङ्कर्यापेक्षा कृता प्रसज्येत । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4237,6 +4321,15 @@ entonces, todo lo que **se denota** aquí con la palabra Nārās, como Brahma y 
 नररैप् पऱ्ऱ कैङ्कर्यम् अपेक्षितम् आगादाप् पोले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> नर-पतिम् उद्दिश्य कैङ्कर्यम् अपेक्षितवान् 
+
+इत्य् उक्तौ  
+यथा नरान् उद्दिश्य कैङ्कर्यम् अपेक्षितं न भवति, 
+</details>
+
+
 <details><summary>English</summary>
 
 If it **is said**, “He **desires** to **serve** men's sovereign",  
@@ -4259,9 +4352,20 @@ que **son** los adjetivos del soberano (en la frase "soberano de los hombres").
 नरपतियैप् पऱ्ऱ कैङ्कर्यत्तै अपेक्षित्ताऩॆऩ्ऱाल् नररैप्पऱ्ऱ कैङ्कर्यमपेक्षितमागादाप्पोले 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मेलुम् नरपतियैप्पऱ्ऱ कैङ्कर्यमपेक्षितमॆऩ्ऱाल् विशेषणीभूतनरऩैप्पऱ्ऱि कैङ्कर्यम् अपेक्षितम् आगाद् आगैयाल् इन्द न्यायम् व्याप्तिशून्यमाम्। आगैयाल् प्रमाणबलत्ताले स्वामिकैङ्कर्यत्तै अपेक्षिक्कुमवऩुक्कु प्रमाणबलत्ताले स्वामिक्कु प्रियतमराऩ भागवतकैङ्कर्यमपेक्षितमागवेण्डुमॆऩ्गिऱार् नरपतियैप् पऱ्ऱ इत्यादियाल्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गुम् न्याय-मात्रत्ताल् नारङ्गळैप् पऱ्ऱ कैङ्कर्यापेक्षै सिद्धियादु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तथा ऽत्रापि न्याय-मात्रेण नाराण्य् उद्दिश्य कैङ्कर्यापेक्षा न सिध्येत् । 
 </details>
 
 <details><summary>English</summary>
@@ -4288,6 +4392,13 @@ Así también, por mera lógica, el **deseo de servir** a Nārās **no se probar
 आऩ बिऩ्बु  
 प्रमाण-मुखत्ताले स्वामियिऩ्-उडैय अभिमतञ् जॆय्य अपेक्षिक्किऱाऩ् आगैयाले
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः,  
+प्रमाण-मुखेन स्वाम्य्-अभिमत-करणम् अपेक्षते इत्य् अतः  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4316,6 +4427,12 @@ ya que el aspirante **desea hacer** lo que **agrada** al Maestro,
 इत्तऩै। +++(4)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्-प्रियतम-भूतान् शेषत्व-ज्ञानवतो ऽनन्य-प्रयोजनान् उद्दिश्य  
+कैङ्कर्यम् अपेक्षितं भवतीत्य् एतावद् एव ।
+</details>
+
 <details><summary>English</summary>
 
 he **desires to serve** those who **are** dear to Him  
@@ -4342,6 +4459,15 @@ y **no tienen** otros intereses en la vida.
 ऎऩ्ऩुम् इडमुम्  
 +++(शब्द-)+++प्रमाण-बलत्ताले वन्दद् अत्तऩै +++(न तावद् व्युत्पत्त्या)+++। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> +++(मुक्त-दशायां विशिष्य)+++ अनुभाव्यतायां नार-शब्दार्थः सर्वो ऽपि प्रविष्ट 
+
+इत्य् एतद् अपि  
++++(शब्द-)+++प्रमाण-बलात् प्राप्तम् इत्य् एव +++(न तावद् व्युत्पत्त्या)+++।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4373,6 +4499,12 @@ que **dice**
 अनुभाव्यतैयिलुम् नारशब्दार्थमाऩ सर्वमुम् प्रविष्टमामॆऩ्ऩुमिडमुम् प्रमाणबलत्ताले वन्ददत्तऩै। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडियागिल् उभयविभूतिविशिष्ट भगवाऩै अनुभविक्कुम्बोदुम् विशेषणीभूतविभूतिक्कुमनुभवम् सिद्धमागुमो वॆऩ्ऩ? अदु न्यायबलत्ताले सिद्धिक्काविडिलुम् प्रमाणबलत्तालेये सिद्धित्तदॆऩ्गिऱार् अनुभाव्यतैयिलुमित्यादिना । प्रमाणबलत्ताले - ‘‘सर्वं ह पश्यः पश्यति’’ ऎऩ्गिऱ प्रमाणबलत्ताले,
+</details>
+
+
 #### उपसंहारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4380,6 +4512,14 @@ que **dice**
 इरण्डु वाक्यम् स्वरूप-परम् आय्  
 ऒरु वाक्यम् पुरुषार्थ-प्रार्थना-परम् आग योजित्तदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं श्रीमन्त्रे वाक्य-त्रये  
+वाक्य-द्वयं स्वरूप-परतया  
+एकं वाक्यं पुरुषार्थ-प्रार्थना-परतया च योजितम् ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4402,29 +4542,752 @@ y el tercero como **indicando** la **oración** para el **logro** del puruṣār
 इप्पडि तिरुमन्त्रत्तिल् वाक्यत्रयत्तिले इरण्डु वाक्यम् स्वरूपपरमाय् ऒरु वाक्यम् पुरुषार्थप्रार्थनापरमाग योजित्तदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रणवनमस्सुक्कळ् स्वरूपपरङ्गळॆऩ्ऱुम् तृतीयपदम् पुरुषार्थपरमॆऩ्ऱुम् सॊऩ्ऩ योजऩैयै निगमिक्किऱार् इप्पडि तिरुमन्त्रत्तिलित्यादियाल्। 
+</details>
+
 
 ### स्वरूपम्, हेय-हानम्, फल-प्रार्थना (७)
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् अऩ्ऱिक्के  
+
+- प्रणवम् स्व-रूप-परम् आय्  
+- नमस्सिले अन्-इष्ट-निवृत्ति-प्रार्थऩैय् आय्  
+- अन्-इष्टम् निवर्तित्ताल् वरुम् पुरुषार्थत्तै ‘‘नारायणाय स्याम्’’ ऎऩ्ऱु गणिसिक्किऱद् आगवुम्  
+
+आम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनैवम्-भावेन 
+
+- प्रणवः स्वरूप-परः,  
+- नमस्य् अनिष्ट-निवृत्ति-प्रार्थना,  
+- अनिष्ट-निवृत्तौ जातायां जायमानः पुरुषार्थः “नारायणाय स्याम्” इति प्रार्थ्यत 
+
+इति वा भवतु ।
+[[P308]]
+
+</details>
+
+
+<details><summary>English</summary>
+
+(7) Different from this **is** the **construction** of Tirumantra into three sentences, of which 
+
+- the praṇava **brings out** the svarūpa or essential nature, 
+- namas **forms** the **prayer** for the **removal** of **hindrances** or evils, 
+- and the puruṣārtha which **will result** from that renewal **is indicated** in "Nārāyaṇāya syām" ("**May I be** for Nārāyaṇa !") 
+</details>
+
+<details><summary>Español</summary>
+
+(7) Diferente de esto **es** la **construcción** del Tirumantra en tres oraciones, de las cuales 
+
+- el praṇava **saca a relucir** el svarūpa o naturaleza esencial, 
+- namas **forma** la **oración** para la **eliminación** de **obstáculos** o males, 
+- y el puruṣārtha que **resultará** de esa **renovación se indica** en "Nārāyaṇāya syām" ("¡Que **yo sea** para Nārāyaṇa!") 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩऩ्ऱिक्के प्रणवम् स्वरूपपरमाय् नमस्सिले अनिष्टनिवृत्तिप्रार्थऩैयाय् अनिष्टम् निवर्तित्ताल् वरुम् पुरुषार्थत्तै ‘‘नारायणाय स्यां’’ ऎऩ्ऱु कणिसिक्किऱदागवुमाम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि प्रणवमात्रम् स्वरूपपरमाय् नमस्सु अनिष्टनिवृत्तिप्रार्थनापरमाय् तृतीयपदम् इष्टप्रार्थनापरमॆऩ्ऱुम् योजऩैयैक् काट्टुगिऱार् इङ्ङऩ्ऱिक्के इत्यादियाल्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्-नमस्सुक्कुम्  
+इप्-पडि द्वयत्तिल् नमस्सुक्कुप् पोले  
+विरोधि-निवृत्ति-प्रार्थऩैयिले तात्पर्यम् आऩ योजना-विशेषमुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य नमसो ऽपि  
+इत्थं द्वये नमस इव,  
+विरोधि-निवृत्ति-प्रार्थनायां तात्पर्यम् इति योजना-विशेषः, 
+</details>
+
+
+<details><summary>English</summary>
+
+That the namas in Tirumantra too,  
+like the namas in Dvaya **has**, as its purport,  
+the **prayer** for the **removal** of **hindrances** -  
+this **interpretation**, too, 
+</details>
+
+<details><summary>Español</summary>
+
+Que los namas en Tirumantra también,  
+como los namas en Dvaya **tiene**, como su significado,  
+la **oración** para la **eliminación** de **obstáculos** -  
+esta **interpretación** también,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्नमस्सुक्कुमिप्पडि द्वयत्तिल् नमस्सुक्कुप्पोले विरोधिनिवृत्तिप्रार्थऩैयिले तात्पर्यमाऩ योजनाविशेषमुम्
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द योजऩैयै भट्टर् तम्मुडैय नित्यत्तिले यरुळिच्चॆय्द रॆऩ्गिऱार् इन् नमस्सुक्कुमित्यादियाल्। 
+</details>
+
+
+#### पराशर-भट्टः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘प्रणवोदित-तच्-छेष-  
+**भावो** ऽहं निज-कर्मभिः ।  
+अहङ्-कार--ममत्वाभ्याम्  
+**अभिभूतो** ऽप्य् अतः परम् ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘प्रणवोदित-तच्-छेष-  
+**भावो** ऽहं निज-कर्मभिः ।  
+अहङ्-कार--ममत्वाभ्याम्  
+**अभिभूतो** ऽप्य् अतः परम् ॥ 
+</details>
+
+<details><summary>English</summary>
+
+> “As **stated** in the praṇava,  
+I **am** the śeṣa of Bhagavān;  
+in spite of it,  
+I **was subdued** by the notions of 'I' and Mine' owing to (my) past karma . 
+</details>
+
+<details><summary>Español</summary>
+
+> "Como **declaró** en el praṇava,  
+Yo **soy** el śeṣa de Bhagavān;  
+a pesar de ello,  
+**Fui sometido** por las nociones de "Yo" y "Mío" debido a (mi) karma pasado. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रणवोदिततच्छेषभावोऽहं निजकर्मभिः । अहङ्कारममत्वाभ्यामभिभूतोऽप्यतः परम् ॥ 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘प्रणवोदिततच्छेषभावोऽहं’’ ऎऩ्बदाले प्रणवम् स्वरूपपरमॆऩ्ऱुम्,  
+
+‘‘निजकर्मभिः अहङ्कारममत्वाभ्याम् अभिभूतो ऽप्य् अतः परम्’’ ऎऩ्गिऱविडत्तिल्  
+"अतः परम्" ऎऩ्ऱु अहङ्कार-ममकाररूपानिष्ट-निवृत्त्य्-उत्तर-कालिकत्वम्  
+शेषवृत्तियिले सॊल्लुगैयाले नमस्सु अनिष्टनिवृत्तिप्रार्थनापरम् ऎऩ्ऱुम्,  
+
+</details>
 
 
 
-(7) Different from this is the construction of Tirumantra into three sentences of which the praṇava brings out the svarūpa or essential nature, namas forms the prayer for the removal of hindrances or evils, and the puruṣārtha which will result from that renewal is indicated in Nārāyaṇāya syām ("May I be for Nārāyaṇa !") That the namas in Tirumantra too, like the namas in Dvaya has, as its purport, the prayer for the removal of hindrances - this interpretation, too, is explained in Bhattar's Nitya in the ślokas: “As stated in the praṇava, I am the śeṣa of Bhagavān; in spite of it, I wily subdued by the notions of 'I' and Mine' owing to (my) past karma . The word namas states that, hereafter, I should reinember my **being** śeṣa to Bhagavān and render service to him". Therefore the syntactical construction becomes (in this interpretation): Aham na mama syam "I shall not be my own śeṣa or na mama kincit syat" "May I have no hindranceś" Syām or Syāt **being** understood. So it amounts to a prayer for tha complete removal of all hindrances such as avidyā or ignorance, karma , the impressions left by them (vāsanas), the taste or inclination (ruchi) and the association with prakṛti or matter. This has been shown in the passage in Vedārthasaṅgraha, where it is said. " Owing to beginningless avidyā or ignorance, two kinds of karma, good and evil (puṇya and pāpa) have been flowing like a stream. On account of this, the jīva becomes enclosed in bodies of four kinds: Brahma and the other gods, men, animals and plants. So in accordance with the notion entertained by the jīva regarding his nature, the streain of saṁsāra increases in its volume. In order to get rid of the fear caused by it which is hard to resist etc.” So also it ia said, " In order to protect the souls of saṁsārins whose nature is such that they have false notions of 'I' about the body, bad ways of life due to these (false notions) and the impure body which results therefrom, the Lord of the Nityasuris was born into all sorts of castes and species ".
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तच्-**छेषत्वानुसन्धान**-  
+पूर्व--तच्-छेष-**वृत्तिकः** ।  
+**भूयासम्** इत्य् अमुं भावं  
+**व्यनक्ति** नम इत्य् अदः॥’’  (पराशरभट्ट-नित्य-ग्रन्थः) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> तच्-**छेषत्वानुसन्धान**-  
+पूर्व--तच्-छेष-**वृत्तिकः** ।  
+**भूयासम्** इत्य् अमुं भावं  
+**व्यनक्ति** नम इत्य् अदः॥’’  (पराशरभट्ट-नित्य-ग्रन्थः) 
+</details>
+
+<details><summary>English</summary>
+
+> The word namas **states** that,  
+hereafter, I should **remember** my **being** śeṣa to Bhagavān  
+and **render service** to him". 
+</details>
+
+<details><summary>Español</summary>
+
+> La palabra namas **afirma** que,  
+de ahora en adelante, debería **recordar** mi **ser** śeṣa a Bhagavān  
+y **prestarle servicio**". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तच्छेषत्वानुसन्धान-पूर्वतच्छेषवृत्तिकः । भूयासमित्यमुं भावं व्यनक्ति नम इत्यदः॥’’(पराशरभट्ट-नित्य-ग्रन्थः) 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+‘‘तच्छेषत्वानुसन्धानपूर्वतच्छेषवृत्तिको भूयासं’’ ऎऩ्बदाल् तृतीयपदम् शेषवृत्तिरूपेष्टप्रार्थनापरमॆऩ्ऱुम् तोऩ्ऱुगैयाल् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु भट्टर् नित्यत्तिले प्रदर्शितम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इति भट्टार्याणां नित्ये प्रदर्शितः । 
+</details>
+
+
+<details><summary>English</summary>
+
+(This) is explained in Bhattar's Nitya in the (above) ślokas. 
+</details>
+
+<details><summary>Español</summary>
+
+(Esto) **se explica** en el Nitya de Bhattar en los ślokas (anteriores). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु भट्टर् नित्यत्तिले प्रदर्शितम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द श्लोकङ्गळ् इन्द इरण्डावदु योजऩैयै प्रदर्शिप्पिक्किऱदुगळ् ऎऩ्ऱु तिरुवुळ्ळम्।
+</details>
+
+
+#### हेय-हान-विस्तारः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाले ‘‘अहं न मम स्याम्’’ ऎऩ्ऱादल्,  
+‘‘न मम किञ्चित् स्यात्’’ ऎऩ्ऱादल् वाक्यान्वयम् आय् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः 'अहं न मम स्याम्' इति वा,  
+'न मम किञ्चित् स्याद्' इति वा वाक्यान्वयात्, 
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore the syntactical **construction becomes** (in this **interpretation**):  
+
+"Aham na mama syam"  
+"I **shall not be** my own śeṣa"  
+or "na mama kincit syat"  
+"May I **have no** hindranceś" 
+
+(Syām or Syāt **being understood**.) 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, la **construcción sintáctica se convierte** (en esta **interpretación**):  
+
+"Aham na mama syam"  
+"Yo **no seré** mi propio śeṣa"  
+o "na mama kincit syat"  
+"Que **no tenga obstáculos**" 
+
+(Syām o Syāt **siendo entendido**.) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाले ‘‘अहं न मम स्यां’’ ऎऩ्ऱादल्, ‘‘न मम किञ्चित्स्यात्’’ ऎऩ्ऱादल् वाक्यान्वयमाय् 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नमश्शब्दत्तोडे इरण्डु क्रियापदङ्गळैच् चेर्त्तु इरण्डु प्रार्थनावाक्यमाक्किऩाल् सर्वानिष्टमुम् निवृत्तमागवेणुमॆऩ्ऱु प्रार्थिक्कप्पट्टदागुमॆऩ्गिऱार् आगैयाले इति ।  
+अहं न मम स्यामिति ।  
+इदु अहङ्कारनिवृत्तिप्रार्थनावाक्यम्।  
+न मम किञ्चित्स्यादिति ।  
+इदु ममकारनिवृत्तिप्रार्थनावाक्यम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताले 
+
+> ‘‘अस्य जीवात्मनो  
+ऽनाद्य्--अ-विद्या--सञ्चित-- पुण्य-पाप-रूप-- कर्म-प्रवाह-हेतुक-- ब्रह्मादि-सुर-नर-तिर्यक्-स्थावरात्मक-- चतुर्-विध-देह-प्रवेश-कृत-- तत्-तद्-आत्माभिमान-जनितावर्जनीय--  
+भव-भय-विध्वंसनाय’’  
+(वेदार्थ-सङ्ग्रहः) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनेन 
+
+> ‘‘अस्य जीवात्मनो  
+ऽनाद्य्--अ-विद्या--सञ्चित-- पुण्य-पाप-रूप-- कर्म-प्रवाह-हेतुक-- ब्रह्मादि-सुर-नर-तिर्यक्-स्थावरात्मक-- चतुर्-विध-देह-प्रवेश-कृत-- तत्-तद्-आत्माभिमान-जनितावर्जनीय--  
+भव-भय-विध्वंसनाय’’  
+(वेदार्थ-सङ्ग्रहः) 
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+This **has been shown** in the passage in Vedārthasaṅgraha, where it is said. 
+
+> " Owing to beginningless avidyā or ignorance,  
+two kinds of karma, good and evil (puṇya and pāpa)  
+**have been flowing** like a stream.  
+On account of this,  
+the jīva **becomes enclosed** in bodies of four kinds:  
+Brahma and the other gods, men, animals and plants.  
+So in accordance with the notion **entertained** by the jīva **regarding** his nature,  
+the stream of saṁsāra **increases** in its volume.  
+In order to **get rid of** the fear **caused** by it  
+which **is** hard to **resist** etc.”   
+</details>
+
+<details><summary>Español</summary>
+
+Esto **se ha mostrado** en el pasaje del Vedārthasaṅgraha, donde **se dice**. 
+
+> " Debido a la avidyā o ignorancia sin principio,  
+Dos tipos de karma, el bien y el mal (Puṇya y Pāpa)  
+**han estado fluyendo** como un arroyo.  
+Por ello,  
+El jīva **se encierra** en cuerpos de cuatro tipos:  
+Brahma y los otros dioses, hombres, animales y plantas.  
+Entonces, de acuerdo con la noción **entretenida** por el jīva **con respecto a** su naturaleza,  
+La corriente del Saṁsāra **aumenta** en su volumen.  
+Para **deshacerse** del miedo **causado** por él  
+que **es** difícil de **resistir**, etc."   
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्ताले ‘‘अस्य जीवात्मनोऽनाद्यविद्यासञ्चितपुण्यपापरूप-- कर्मप्रवाहहेतुक-- ब्रह्मादिसुरनरतिर्यक्स्थावरात्मक-- चतुर्विधदेहप्रवेशकृत-- तत्तदात्माभिमानजनितावर्जनीय-- भवभयविध्वंसनाय’’(वेदार्थ-सङ्ग्रहः) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द वाक्यङ्गळाले लब्धङ्गळाऩ प्रार्थनाप्रकारङ्गळै वेदार्थसङ्ग्रहवाक्यत्तालुम् तिरुविरुत्त गाथैयालुम् विशदीकरिक्किऱार् अस्य जीवात्मन इत्यादियाल्। इज्जीवात्माविऱ्कु अनादियाऩ अविद्यैयिऩाले सम्पादितमाऩ पुण्यपापरूपमाऩ कर्मप्रवाहत्तालेयुण्डाऩ ब्रह्मा मुदलाऩ देवतैमनुष्यतिर्यक्स्थावररूपमाऩ नाऩ्गु विदमाऩ देहप्रवेशत्तालुण्डाऩ अन्दन्द शरीरत्तिले आत्माभिमानत्ताले अदावदु अहङ्कारत्ताले उण्डुबण्णप्पट्ट विलक्कमुडियाद संसारत्तिलुण्डाऩ भयत्तिऩुडैय नाशत्तिऩ्बॊरुट्टु ऎऩ्बदु इदिऩ् अर्थम्। इदऩाल् सहेतुकमायुम् सकार्यमुमायुमुळ्ळ अहङ्कारनिवृत्तिप्रार्थनाप्रकारम् सॊल्लप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’पॊय्न् निऩ्ऱ ञाऩमुम्  
+पॊल्लाव् ऒऴुक्कुम्+++(=क्रमणम्)+++ अऴुक्क्-उडम्बुम्’’(तिरु-विरुत्तम् १)  
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ 
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "मिथ्या-भूतं ज्ञानं, दुष्टाचरणं, मलिन-शरीरम्"
+
+इति चोक्तम् 
+</details>
+
+<details><summary>English</summary>
+
+So also it **is said**, 
+
+> " In order to **protect** the souls of saṁsārins  
+whose nature **is** such that they **have**  
+false notions of 'I' about the body,  
+bad ways of life due to these (false notions)  
+and the impure body which **results** therefrom,  
+the Lord of the Nityasuris **was born** into all sorts of castes and species ".
+
+</details>
+
+<details><summary>Español</summary>
+
+Así también **se dice**, 
+
+> "Con el fin de **proteger** las almas de los saṁsārins  
+cuya naturaleza **es** tal que **tienen**  
+falsas nociones de 'yo' sobre el cuerpo,  
+malas formas de vida debido a estas (nociones falsas)  
+y el cuerpo impuro que **resulta** de ella,  
+el Señor de los Nityasuris **nació** en todo tipo de castas y especies".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’पॊय्न् निऩ्ऱ ञाऩमुम् पॊल्लावॊऴुक्कुमऴुक्कुडम्बुम्’’(तिरुविरुत्तम् १)  ऎऩ्ऱुञ् जॊल्लुगिऱ 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पॊय् निऩ्ऱेदि । पॊय् - पॊय्याऩ शरीरत्तिले, निऩ्ऱ ञाऩमुम् - स्थिर प्रतिष्ठितमाऩ निरुपाधिकममत्वज्ञानमुम्, (आत्माभिमानरूपभ्रममुम्) पॊल्लावॊऴुक्कुम् - देहात्माभिमानकृतदुराचारमुम्, अऴुक्कुडम्बुम् - दुराचारत्ताले वन्द रजस्तमस्सुक्कळैयुडैय शरीरमुम्, 
+
+इऩियामुऱामै - इऩिमेल् नाऩ् अडैयादबडि ऎऩ्बदु इदिऩर्थम्। इदऩाल् सकार्यमाऩ ममकारनिवृत्तिप्रार्थनाप्रकारम् सॊल्लप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-विद्या--कर्म-- तद्-उभय--वासना-रुचि-- प्रकृति-सम्बन्धादि-रूपम् आऩ  
+सर्वानिष्टमुम् अत्यन्त-निवृत्तम् आग वेणुम् 
+
+ऎऩ्ऱ् अपेक्षित्तद् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अ-विद्या--कर्म-- तद्-उभय-वासना-रुचि-- प्रकृति-संबन्धादि-रूपं सर्वम् अनिष्टम्  
+अत्यन्तं निवृत्तं भवत्व् 
+
+इति अपेक्षितं भवतीति सिद्धम् ।
+</details>
+
+<details><summary>English</summary>
+
+So it **amounts** to a **prayer** for the complete **removal** of all **hindrances** such as avidyā or ignorance, karma, the impressions left by them (vāsanas), the **taste** or **inclination** (ruchi) and the **association** with prakṛti or matter. 
+</details>
+
+<details><summary>Español</summary>
+
+De modo que **equivale** a una **oración** para la **remoción** completa de todos los **obstáculos** tales como avidyā o ignorancia, karma, las impresiones dejadas por ellos (vāsanas), el **sabor** o **inclinación** (ruchi) y la **asociación** con prakṛti o materia. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अविद्याकर्मतदुभयवासनारुचिप्रकृतिसम्बन्धादिरूपमाऩ सर्वानिष्टमुमत्यन्तनिवृत्तमागवेणुम् ऎऩ्ऱपेक्षित्तदायिऱ्ऱु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ऎडुत्त प्रमाणङ्गळाले फलित्तदैक् काट्टुगिऱार् अविद्येत्यादिना । 
+</details>
+
+
+#### इष्ट-याच्ञौचित्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडि अनिष्ट-निवृत्तियै प्रार्थित्ताल्  
+इष्ट-प्राप्तियै अपेक्षिक्क वेणुमो; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> इत्थम् अनिष्ट-निवृत्तौ प्रार्थितायां सत्यम्  
+इष्ट-प्राप्तिर् अपि किम् अपेक्षणीया ? 
+</details>
+
+
+<details><summary>English</summary>
+
+It may be asked :-
+
+> " When a **prayer has been made** for the **removal** of **hindrances**,  
+where **is** the need for another **prayer**  
+for the **attainment** of the desired end?  
+</details>
+
+<details><summary>Español</summary>
+
+**Se puede preguntar** -
+
+> "Cuando se ha hecho una **oración** para la **eliminación** de **obstáculos**,  
+donde **está** la necesidad de otra **oración**  
+para el **logro** del fin deseado?  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि अनिष्टनिवृत्तियै प्रार्थित्तालिष्टप्राप्तियै अपेक्षिक्कवेणुमो; 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि नमस्साले अनिष्टनिवृत्तिप्रार्थितमाऩाल् तृतीयपदत्ताले इष्टप्रार्थऩै पृथक्कागच् चॆय्यवेण्डुमो? अनिष्टम् निवृत्तमाऩाल् इष्टम् स्वतःप्राप्तमागिऱदॆऩ्ऱऩ्ऱो प्रमाणङ्गळ् सॊल्लुगिऩ्ऱऩ ऎऩ्ऱु शङ्गित्तुस्वतःप्राप्तमाऩालुम् तत्प्रार्थऩैयुम् आवश्यकमॆऩ्बदै सदृष्टान्तमाग उपपादिक्किऱार् इप्पडिअनिष्टनिवृत्तियै प्रार्थित्तालित्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > ‘‘+++(ब्रह्म-)+++संपद्य् आविर्-भावस् - "स्वेन"-शब्दात्’’  
+(ब्रह्मसूत्रम् ४-४-१) 
+> 
+> ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘+++(ब्रह्म-)+++संपद्य् आविर्-भावस् - "स्वेन"-शब्दात्’’  
+(ब्रह्मसूत्रम् ४-४-१) 
+> 
+> इति,
+</details>
+
+<details><summary>English</summary>
+
+> “When the jīva **attains** Brahman,  
+those qualities or attributes of his which **are** natural to him  
+and which **were**, till now, hidden begin to shine forth.  
+This **is revealed** by the word Svena in the śruti". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Cuando el jīva **alcanza** al Brahman,  
+aquellas cualidades o atributos suyos que **son** naturales para él  
+y que **estaban**, hasta ahora, ocultos comienzan a brillar.  
+Esto **se revela** por la palabra Svena en el śruti". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘संपद्याविर्भावस्स्वेनशब्दात्’’(ब्रह्मसूत्रम् ४-४-१) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>> ‘‘यथा **न क्रियते** ज्योत्स्ना  
+मल-**प्रक्षालनान्** मणेः ।  
+दोष-**प्रहाणान् न** ज्ञानम्  
+आत्मनः **क्रियते** तथा ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+>> ‘‘यथा **न क्रियते** ज्योत्स्ना  
+मल-**प्रक्षालनान्** मणेः ।  
+दोष-**प्रहाणान् न** ज्ञानम्  
+आत्मनः **क्रियते** तथा ॥ 
+</details>
+
+<details><summary>English</summary>
+
+>> "In the same way as the brightness or radiance of a gem **is not produced** (anew)  
+but **is** a natural consequence of washing away the dirt covering it,  
+so also jñāna or knowledge **is not produced** in the soul (anew).  
+</details>
+
+<details><summary>Español</summary>
+
+> > "De la misma manera que el brillo o el resplandor de una gema **no se produce** (de nuevo)  
+pero **es** una consecuencia natural de lavar la suciedad que lo cubre,  
+así también jñāna o conocimiento **no se produce** en el alma (de nuevo).  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यथा न क्रियते ज्योत्स्ना मलप्रक्षालनान्मणेः । दोष प्रहाणान्नज्ञानमात्मनः क्रियते तथा ॥ 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+यथा न क्रियत इति मणेः – रत्नत्तिऱ्कु, मलप्रक्षाळणात् – ल्यब्लोपे पञ्चमी । मलप्रक्षाळणत्तैक्काट्टिलुम् अतिरिक्तमाग ऎऩ्ऱबडि। ज्योत्स्ना – प्रकाशमाऩदु, यथोदपानकरणादिति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > यथोदपान-करणात्  
+**क्रियते न** जलाम्बरम्+++(=जलावकाशप्रद आकाशः)+++ ।  
+सद् एव **नीयते व्यक्तिम्**  
+**अ-सतः सम्भवः** कुतः ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > यथोदपान+++(←कूपादि)+++-करणात्  
+**क्रियते न** जलाम्बरम्+++(=जलावकाशप्रद आकाशः)+++ ।  
+सद् एव **नीयते व्यक्तिम्**  
+**अ-सतः सम्भवः** कुतः ॥  
+</details>
+
+<details><summary>English</summary>
+
+> When a tank or a well **is dug**,  
+the water and the ether (space) **are not created**  
+but simply **come into prominence** (**having** already **been** there).  
+It **is** only what already **exists** that **is manifested** clearly,  
+How **can there be** the **production** of a thing which **did not exist** ? 
+</details>
+
+<details><summary>Español</summary>
+
+> Cuando **se cava** un tanque o un pozo,  
+el agua y el éter (espacio) **no son creados**  
+sino simplemente **llegar a la prominencia** (**haber estado** allí).  
+**es** solo lo que ya **existe** lo que **se manifiesta** claramente,  
+¿Cómo **puede haber** la **producción** de una cosa que **no existía**? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथोदपानकरणात् क्रियते न जलाम्बरम् । सदेव नीयते व्यक्तिमसतस्संभवः कुतः ॥ 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उदपानम् - किणऱु, अदैप्पण्णुगिऱदावदु अदिऩ् उळ्ळे इरुक्कुम् जलत्तिऱ्कु आवरणमाऩ पृथिवीभागत्तै वॆळियिले ऎडुत्तुप् पोडुदल्, अदैत् तविर ऎऩ्गै। जलाम्बरं – जलञ्चाम्बरञ्च जलाम्बरं, उळ्ळे इरुक्किऱ जलमुम्, उळ्ळे इरुक्किऱ अवकाशरूपमाऩ आकाशमुम्, सदेव - मुऩ्बु उळ्ळे इरुन्द जलमुम् आकाशमुम्, व्यक्तिं – प्रकाशत्तै, नीयते – अडैविप्पिक्कप्पडुगिऱदु। असतः - मुऩ्बिल्लाद जलत्तिऱ्कुम् अम्बरत्तिऱ्कुम्, सम्भवः - पुदिदाऩ उत्पत्तियाऩदु, कुतः - एदु; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > तथा हेय-गुण-**ध्वंसाद्**  
+अवबोधादयो गुणाः ।
+**प्रकाश्यन्ते न जन्यन्ते**  
+नित्या एवात्मनो हि ते ।  
+(विष्णुधर्मः १०४-५५-५७)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > तथा हेय-गुण-**ध्वंसाद्**  
+अवबोधादयो गुणाः ।
+**प्रकाश्यन्ते न जन्यन्ते**  
+नित्या एवात्मनो हि ते ।  
+(विष्णुधर्मः १०४-५५-५७)
+</details>
+
+<details><summary>English</summary>
+
+> > So also on the **removal** of undesirable or evil qualities,  
+qualities like knowledge **begin to shine** forth.  
+They are **not created** anew,  
+for these qualities **are** eternal in the jīva   
+(since they **belong** to his essential nature) "?
+</details>
+
+<details><summary>Español</summary>
+
+> > Así también en la **eliminación** de cualidades indeseables o malas,  
+cualidades como el conocimiento **comienzan a brillar**.  
+**No son creados** de nuevo,  
+porque estas cualidades **son** eternas en el jīva   
+(ya que **pertenecen** a su naturaleza esencial) "?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हेयगुणध्वंसादवबोधादयो गुणाः । प्रकाश्यन्ते न जन्यन्ते नित्या एवात्मनो हि ते’’  
+(विष्णुधर्मः १०४-५५-५७)
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तथा - कीऴ्च्चॊऩ्ऩ इरण्डु दृष्टान्तप्पडिये, हेयगुणध्वंसात् – वन्देऱियाऩ हेयगुणङ्गळुडैय ध्वंसत्ताले, आत्मनः अवबोधादयो गुणाः प्रकाश्यन्ते न जन्यन्ते – आत्माविऩ् ज्ञानम् मुदलिय गुणङ्गळ् प्रकाशिप्पिक्कप्पडुगिऩ्ऱऩ, अपूर्वमाग उण्डुबण्णप् पडुगिऱदुगळिल्लै। हि - यस्मात्, ते – अन्द ज्ञानादिगुणङ्गळ्, नित्याः – आत्माविऱ्कु नित्यङ्गळो ऎऩ्गै। 
+</details>
 
 
 
-It may be asked :-" When a prayer has been made for the removal of hindrances, where is the need for another prayer for the attainment of the desired end? Will it not follow as a natural consequence? Has it not been said: “When the jīva attains Brahman, those qualities or attributes of his which are natural to him and which were, till now, hidden begin to shine forth. This is revealed by the word Svena in the śruti". "In the same way as the brightness or radiance of a gem is not produced (anew) but is a natural consequence of washing away the dirt covering it), so also jñāna or knowledge is not produced in the soul (anew). When a tank or a well is dug, the water and the ether (space) are not created but simply come into prominence (**having** already been there). It is only what already exists that is manifested clearly, How can there be the production of a thing which did not exist ? So also on the removal of undesirable or evil qualities, qualities like knowledge begin to shine forth. They are not created anew, for these qualities are eternal in the jīva (since they belong to his essential nature) "?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये  
+इष्ट-प्राप्ति ताऩे वारादोव् 
+
+ऎऩ्ऩिल्;  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> इति चोक्त-रीत्येष्ट-प्राप्तिः  
+किं स्वत एव न सिध्येद् 
+
+इति चेत् —
+</details>
 
 
+<details><summary>English</summary>
+
+> **As** (the above) **has been said**,  
+**Will attainment** of the desired end **not follow** as a natural consequence?  
 
 The answer to this question may be expressed as follows :
+</details>
 
+<details><summary>Español</summary>
+
+> **Como** (lo anterior) **se ha dicho**,  
+¿**No se seguirá** el logro del fin **deseado** como consecuencia natural?  
+
+La **respuesta** a esta **pregunta puede expresarse** de la siguiente manera:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱुञ्जॊल्लुगिऱबडिये इष्टप्राप्ति ताऩे वारादोवॆऩ्ऩिल्;  
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ताऩे वारादो इति । ज्ञानविकासादिरूपमाऩ इष्टप्राप्तिसङ्कोच-निवृत्तिमात्रत्ताले स्वयमे वारादो ऎऩ्ऱबडि। 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-स्वतस्स्वार्हं यथाभागं पुत्रः पितुरपेक्षते ।  
-सापराधस्तथा दासः कैङ्कर्यं परमात्मनः ॥
+स्वतस् स्वार्हं यथा-भागं  
+पुत्रः पितुर् **अपेक्षते** ।  
+सापराधस् तथा दासः  
+कैङ्कर्यं परमात्मनः ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वतस् स्वार्हं यथा-भागं  
+पुत्रः पितुर् **अपेक्षते** ।  
+सापराधस् तथा दासः  
+कैङ्कर्यं परमात्मनः ॥
+</details>
+
+<details><summary>English</summary>
+
+"The son **begs** of his father for his share of the property,  
+though it **is** lawfully his.  
+In the same way, the servant (the jīva) who **has offended** (the Master)  
+**begs** of the Supreme Being that  
+he **should be permitted** to **render service** ". 
+</details>
+
+<details><summary>Español</summary>
+
+"El hijo **mendiga** a su padre su parte de la propiedad,  
+aunque **es** legítimamente suyo.  
+De la misma manera, el sirviente (el jīva) que **ha ofendido** (el Maestro)  
+**suplica** al Ser Supremo que  
+**se le debe permitir prestar servicio** ". 
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -4432,13 +5295,148 @@ The answer to this question may be expressed as follows :
 सापराधस्तथा दासः कैङ्कर्यं परमात्मनः ॥
 </details>
 
-"The son begs of his father for his share of the property, though it is lawfully his. In the same way the servant (the jīva) who has offended (the Master) begs of the Supreme Being that he should be permitted to render service ". There is nothing inappropriate in the jīva who has lost what he is entitled to, praying thus:-- “May I have what is my sharel Be Thou so gracious as to pardon my offence;"
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सापराधः – अपराधत्तोडु कूडिऩ, पुत्रः – पुत्रऩाऩवऩ्, स्वतः – स्वतस्सिद्धमाऩ, अदावदु जननमात्रत्ताले सिद्धमाऩ, स्वार्हं भागं- तऩक्कु अर्हमाऩ दायभागत्तै, यथा - ऎप्पडि, पितुः – पिताविऩिडत्तिल् निऩ्ऱुम्, अपेक्षते - अपेक्षिक्किऱाऩो, तथा - अप्पडिये, दासः – दासवृत्त्यर्हऩाऩवऩ् सापराधस्सन् - अपराधियाय्क्कॊण्डु, कैङ्कर्यं – स्वतस्सिद्धमाय् स्वार्हमाऩ कैङ्कर्यत्तै, परमात्मनः – परमात्माविऩिडत्तिल् निऩ्ऱुम्, अपेक्षते – प्रार्थिक्किऱाऩ्। दासभूतऩाऩ इन्द आत्माविऱ्कुअनिष्टम् निवृत्तमाऩालुम् इवऩ् अपराधियायिरुप्पदाल् कैङ्कर्यपर्यन्तभगवदनुभवरूपेष्टत्तै भगवाऩ् कॊडुक्कप् पॆऱवेण्डुगैयाल् ‘‘नारायणाय भवेयं’’ ऎऩ्ऱु इष्टप्रार्थऩैयुम् तऩियाग वेण्डुमॆऩ्ऱु करुत्तु।
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-From the passages quoted above, it would appear also that just  when the hindrance is removed the radiance natural to the gem begins to shine by the will of God, as stated in." All things exist as such only by Thy will", so also such things as the expansion of jñāna which naturally belong to the Jīva, are manifested as a result of the Lord's will, which is of the form of the compassion natural to Him.
+तऩ्ऩ् अपराधत्ताले  
+स्वतः-प्राप्तत्तैय् इऴन्दु+++(=च्यावयित्वा)+++ किडक्किऱव्+++(=प्राप्यमान)+++ इवऩ्  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P309]]  
+स्वापराधात् स्वतः प्राप्तं हित्वा वर्तमानेनानेन, 
+</details>
+
+<details><summary>English</summary>
+
+In the jīva who **has lost** what he **is entitled to**,  
+</details>
+
+<details><summary>Español</summary>
+
+En el jīva que **ha perdido** aquello a lo que **tiene derecho**,  
+</details>
+
+<details><summary>मूलम्</summary>
+
+तऩ्ऩबराधत्ताले स्वतः प्राप्तत्तैयिऴन्दु किडक्किऱविवऩ् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सॊऩ्ऩ कारिकैक्कु अर्थमरुळिच्चॆय्गिऱार् तऩ् अपराधत्ताले इत्यादियाल्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऎऩ् कूऱु नाऩ् पॆऱ वेणुम्,  
+अदुक्क् आगव् ऎऩ्ऩ् अपराधत्तैप् पॊऱुत्त्+++(=क्षान्त्वा)+++ अरुळ वेणुम् 
+
+ऎऩ्ऱ् अपेक्षिक्कैयिल् विरोधम् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+There **is** nothing inappropriate  
+in **praying** thus:-- 
+
+> “May **I have** what is my share!  
+**Be** Thou so gracious as to **pardon** my **offence**;"
+
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** nada inapropiado  
+en **orar** así: 
+
+> "¡Que **tenga** cuál es mi parte!  
+**Ses** tan misericordioso como para **perdonar** mi **ofensa**;"
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ् कूऱु नाऩ् पॆऱ वेणुम्, अदुक्कागवॆऩ्ऩबराधत्तैप् पॊऱुत्तरुळवेणुमॆऩ्ऱपेक्षिक्कैयिल् विरोधमिल्लै।
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताल् प्रतिबन्धक-निवृत्तियिल्  
+माणिक्कत्तिल् ऒळियुम्
+</details>
+
+<details><summary>English</summary>
+
+From the passages **quoted** above,  
+it **would appear** also that  
+just when the **hindrance is removed**  
+the **radiance** natural to the gem  
+**begins to shine**,  
+</details>
+
+<details><summary>Español</summary>
+
+De los pasajes **citados** arriba,  
+**parecería** también que  
+justo cuando **se elimina** el **obstáculo**  
+el **resplandor** natural de la gema  
+**comienza a brillar**,  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्ताल् प्रतिबन्धकनिवृत्तियिल् माणिक्कत्तिलॊळियुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘इच्छात एव तव विश्व-पदार्थ-सत्ता’’(वैकुण्ठ-स्तवः ३६) 
+
+ऎऩ्गिऱ बडिये  
+नियतैय् आऩ ईश्वरेच्छैयाले परम्बुमाप्+++(=विस्तृणद्)+++ पोले
+</details>
+
+<details><summary>English</summary>
+
+as **stated** in -  
+
+> " All things **exist** as such  
+only by Thy will", 
+
+by the will of God,
+
+</details>
+
+<details><summary>Español</summary>
+
+como **se declaró** en -  
+
+> "Todas las cosas **existen** como tales  
+solo por Tu voluntad", 
+
+por la voluntad de Dios,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘इच्छात एव तव विश्वपदार्थसत्ता’’(वैकुण्ठ-स्तवः ३६) ऎऩ्गिऱबडिये नियतैयाऩ ईश्वरेच्छैयाले परम्बुमाप्पोले
+</details>
+
+
+so also such things as the expansion of jñāna  
+which naturally **belong** to the Jīva,  
+**are manifested** as a result of the Lord's will,  
+which **is** of the form of the compassion natural to Him.
 
 But it may be asked: "In a [^96] system of thought which holds that the non-existence (of a thing) means the presence of some other thing, the removal of hindrances should, by itself, be the attainment of what is desired. Hence will not the separate prayer for it be redundant? Besides has not the author of Śrī Bhāṣya declared: “The disappearance of avidyā (literally, ignorance; karma  ) is itself mokṣa"?
 
