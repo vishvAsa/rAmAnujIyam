@@ -4789,7 +4789,6 @@ It may be asked :-
 > " When a **prayer has been made** for the **removal** of **hindrances**,  
 where **is** the need for another **prayer**  
 for the **attainment** of the desired end?  
-**Will it not follow** as a natural consequence?  
 </details>
 
 <details><summary>Español</summary>
@@ -4799,7 +4798,6 @@ for the **attainment** of the desired end?
 > "Cuando se ha hecho una **oración** para la **eliminación** de **obstáculos**,  
 donde **está** la necesidad de otra **oración**  
 para el **logro** del fin deseado?  
-**¿No seguirá** como una consecuencia natural?  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4889,10 +4887,28 @@ así también jñāna o conocimiento **no se produce** en el alma (de nuevo).
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> > यथोदपान-करणात्  
+> > यथोदपान+++(←कूपादि)+++-करणात्  
 **क्रियते न** जलाम्बरम्+++(=जलावकाशप्रद आकाशः)+++ ।  
 सद् एव **नीयते व्यक्तिम्**  
 **अ-सतः सम्भवः** कुतः ॥  
+</details>
+
+<details><summary>English</summary>
+
+> When a tank or a well **is dug**,  
+the water and the ether (space) **are not created**  
+but simply **come into prominence** (**having** already **been** there).  
+It **is** only what already **exists** that **is manifested** clearly,  
+How **can there be** the **production** of a thing which **did not exist** ? 
+</details>
+
+<details><summary>Español</summary>
+
+> Cuando **se cava** un tanque o un pozo,  
+el agua y el éter (espacio) **no son creados**  
+sino simplemente **llegar a la prominencia** (**haber estado** allí).  
+**es** solo lo que ya **existe** lo que **se manifiesta** claramente,  
+¿Cómo **puede haber** la **producción** de una cosa que **no existía**? 
 </details>
 
 
@@ -4902,19 +4918,79 @@ así también jñāna o conocimiento **no se produce** en el alma (de nuevo).
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**Has it not been said**:  
+> > तथा हेय-गुण-**ध्वंसाद्**  
+अवबोधादयो गुणाः ।
+**प्रकाश्यन्ते न जन्यन्ते**  
+नित्या एवात्मनो हि ते ।  
+(विष्णुधर्मः १०४-५५-५७)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > तथा हेय-गुण-**ध्वंसाद्**  
+अवबोधादयो गुणाः ।
+**प्रकाश्यन्ते न जन्यन्ते**  
+नित्या एवात्मनो हि ते ।  
+(विष्णुधर्मः १०४-५५-५७)
+</details>
+
+<details><summary>English</summary>
+
+> > So also on the **removal** of undesirable or evil qualities,  
+qualities like knowledge **begin to shine** forth.  
+They are **not created** anew,  
+for these qualities **are** eternal in the jīva   
+(since they **belong** to his essential nature) "?
+</details>
+
+<details><summary>Español</summary>
+
+> > Así también en la **eliminación** de cualidades indeseables o malas,  
+cualidades como el conocimiento **comienzan a brillar**.  
+**No son creados** de nuevo,  
+porque estas cualidades **son** eternas en el jīva   
+(ya que **pertenecen** a su naturaleza esencial) "?
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+तथा हेयगुणध्वंसादवबोधादयो गुणाः । प्रकाश्यन्ते न जन्यन्ते नित्या एवात्मनो हि ते’’  
+(विष्णुधर्मः १०४-५५-५७)
+</details>
 
 
-When a tank or a well is dug, the water and the ether (space) are not created but simply come into prominence (**having** already been there). It is only what already exists that is manifested clearly, How can there be the production of a thing which did not exist ? So also on the removal of undesirable or evil qualities, qualities like knowledge begin to shine forth. They are not created anew, for these qualities are eternal in the jīva (since they belong to his essential nature) "?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये  
+इष्ट-प्राप्ति ताऩे वारादोव् 
 
+ऎऩ्ऩिल्;  
+</details>
+
+<details><summary>English</summary>
+
+> **As** (the above) **has been said**,  
+**Will attainment** of the desired end **not follow** as a natural consequence?  
 
 The answer to this question may be expressed as follows :
+</details>
+
+<details><summary>Español</summary>
+
+> **Como** (lo anterior) **se ha dicho**,  
+¿**No se seguirá** el logro del fin **deseado** como consecuencia natural?  
+
+La **respuesta** a esta **pregunta puede expresarse** de la siguiente manera:
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱुञ्जॊल्लुगिऱबडिये इष्टप्राप्ति ताऩे वारादोवॆऩ्ऩिल्;  
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
