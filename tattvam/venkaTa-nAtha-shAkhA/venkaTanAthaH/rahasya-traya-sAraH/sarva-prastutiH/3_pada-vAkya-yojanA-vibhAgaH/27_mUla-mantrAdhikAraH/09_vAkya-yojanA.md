@@ -4979,7 +4979,7 @@ De modo que **equivale** a una **oración** para la **remoción** completa de to
 
 <details><summary>मूलम्</summary>
 
-अविद्याकर्मतदुभयवासनारुचिप्रकृतिसम्बन्धादिरूपमाऩ सर्वानिष्टमुमत्यन्तनिवृत्तमागवेणुम् ऎऩ्ऱबेक्षित्तदायिऱ्ऱु। 
+अविद्याकर्मतदुभयवासनारुचिप्रकृतिसम्बन्धादिरूपमाऩ सर्वानिष्टमुमत्यन्तनिवृत्तमागवेणुम् ऎऩ्ऱपेक्षित्तदायिऱ्ऱु। 
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -5334,20 +5334,109 @@ En el jīva que **ha perdido** aquello a lo que **tiene derecho**,
 सॊऩ्ऩ कारिकैक्कु अर्थमरुळिच्चॆय्गिऱार् तऩ् अपराधत्ताले इत्यादियाल्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> ऎऩ् कूऱु नाऩ् पॆऱ वेणुम्,  
+अदुक्क् आगव् ऎऩ्ऩ् अपराधत्तैप् पॊऱुत्त्+++(=क्षान्त्वा)+++ अरुळ वेणुम् 
+
+ऎऩ्ऱ् अपेक्षिक्कैयिल् विरोधम् इल्लै।
+</details>
+
+<details><summary>English</summary>
 
 There **is** nothing inappropriate  
-
-**praying** thus:-- 
+in **praying** thus:-- 
 
 > “May **I have** what is my share!  
 **Be** Thou so gracious as to **pardon** my **offence**;"
 
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** nada inapropiado  
+en **orar** así: 
+
+> "¡Que **tenga** cuál es mi parte!  
+**Ses** tan misericordioso como para **perdonar** mi **ofensa**;"
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ् कूऱु नाऩ् पॆऱ वेणुम्, अदुक्कागवॆऩ्ऩबराधत्तैप् पॊऱुत्तरुळवेणुमॆऩ्ऱपेक्षिक्कैयिल् विरोधमिल्लै।
+</details>
 
 
-From the passages quoted above, it would appear also that just  when the hindrance is removed the radiance natural to the gem begins to shine by the will of God, as stated in." All things exist as such only by Thy will", so also such things as the expansion of jñāna which naturally belong to the Jīva, are manifested as a result of the Lord's will, which is of the form of the compassion natural to Him.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताल् प्रतिबन्धक-निवृत्तियिल्  
+माणिक्कत्तिल् ऒळियुम्
+</details>
+
+<details><summary>English</summary>
+
+From the passages **quoted** above,  
+it **would appear** also that  
+just when the **hindrance is removed**  
+the **radiance** natural to the gem  
+**begins to shine**,  
+</details>
+
+<details><summary>Español</summary>
+
+De los pasajes **citados** arriba,  
+**parecería** también que  
+justo cuando **se elimina** el **obstáculo**  
+el **resplandor** natural de la gema  
+**comienza a brillar**,  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्ताल् प्रतिबन्धकनिवृत्तियिल् माणिक्कत्तिलॊळियुम्
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘इच्छात एव तव विश्व-पदार्थ-सत्ता’’(वैकुण्ठ-स्तवः ३६) 
+
+ऎऩ्गिऱ बडिये  
+नियतैय् आऩ ईश्वरेच्छैयाले परम्बुमाप्+++(=विस्तृणद्)+++ पोले
+</details>
+
+<details><summary>English</summary>
+
+as **stated** in -  
+
+> " All things **exist** as such  
+only by Thy will", 
+
+by the will of God,
+
+</details>
+
+<details><summary>Español</summary>
+
+como **se declaró** en -  
+
+> "Todas las cosas **existen** como tales  
+solo por Tu voluntad", 
+
+por la voluntad de Dios,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘इच्छात एव तव विश्वपदार्थसत्ता’’(वैकुण्ठ-स्तवः ३६) ऎऩ्गिऱबडिये नियतैयाऩ ईश्वरेच्छैयाले परम्बुमाप्पोले
+</details>
+
+
+so also such things as the expansion of jñāna  
+which naturally **belong** to the Jīva,  
+**are manifested** as a result of the Lord's will,  
+which **is** of the form of the compassion natural to Him.
 
 But it may be asked: "In a [^96] system of thought which holds that the non-existence (of a thing) means the presence of some other thing, the removal of hindrances should, by itself, be the attainment of what is desired. Hence will not the separate prayer for it be redundant? Besides has not the author of Śrī Bhāṣya declared: “The disappearance of avidyā (literally, ignorance; karma  ) is itself mokṣa"?
 
