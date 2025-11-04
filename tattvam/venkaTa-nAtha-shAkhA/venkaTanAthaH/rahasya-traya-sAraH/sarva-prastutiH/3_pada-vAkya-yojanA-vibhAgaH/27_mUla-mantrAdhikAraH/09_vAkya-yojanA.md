@@ -6128,7 +6128,7 @@ Los detalles relativos a estos tres
 इम्मूऩ्ऱिऩ् विरिवॆल्लामध्यात्मशास्त्रङ्गळैक्कॊण्डु तॆळिन्दिङ्गे अनुसन्धेयम्।
 </details>
 
-#### वेदान्त-शास्त्र-सादृश्यम्
+#### ब्रह्म-सूत्र-सादृश्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द योजऩैक्कु  
@@ -6152,10 +6152,165 @@ La **construcción** o **interpretación** **dada** arriba de Tirumantra
 इन्द योजऩैक्कु वेदान्तशास्त्रत्तिल् तत्त्वोपायपुरुषार्थङ्गळै निरूपित्त क्रमत्तोडु सेर्त्तियुण्डु, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+
+- मुदल्-इरण्ड्-अध्यायत्ताले परावर-तत्त्वङ्गळैत् तॆळिवित्तु  
+- तृतीयत्ताले अधिकार-परिकरङ्गळोडे कूडिऩ उपायञ् जॊल्लि  
+- चतुर्थत्ताले फलञ् जॊल्लिय् इऱे शारीरक-शास्त्रन् तलैक् कट्टिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+Does not that śāstra **proceed** in this way?  
+
+So the first two chapters (adhyāyas) (of the Brahma sūtras),  
+the Supreme Real (Brahman) and the reals subordinate to it **are determined**.  
+
+In the third chapter, competency (adhikāra) and accessories (aṅgas) **are stated**  
+along with the upāya  
+
+and in the fourth chapter, the fruit or the **attainment** of the goal **is explained** by way of **conclusion**.
+</details>
+
+<details><summary>Español</summary>
+
+¿No **procede** ese śāstra de esta manera?  
+
+Así que los dos primeros capítulos (adhyāyas) (de los sūtras de Brahma),  
+el Real Supremo (Brahman) y los reales subordinados a él **están determinados**.  
+
+En el tercer capítulo, **se declaran** la competencia (adhikāra) y los accesorios (aṅgas)  
+junto con el upāya  
+
+y en el cuarto capítulo, el fruto o el **logro** de la meta **se explica** por medio de **conclusión**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; मुदलिरण्डध्यायत्ताले परावरतत्त्वङ्गळैत् तॆळिवित्तु तृतीयत्ताले अधिकारपरिकरङ्गळोडे कूडिऩ उपायञ्जॊल्लि चतुर्थत्ताले फलञ्जॊल्लियिऱे शारीरकशास्त्रन् दलैक्कट्टिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्गु मुदल्-इरण्ड् अध्यायत्तिऱ् सॊऩ्ऩ परावर-तत्त्व-स्वरूपमुम्,  
+नाऩ्गाम् अध्यायत्तिऱ् सॊऩ्ऩ फलमुम्  
+स्व-तन्त्र--प्रपत्ति-निष्ठऩुक्कुम् तुल्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+The essential nature of the Supreme Real and that of the lower reals **explained** in the first two chapters (adhyāyas )  
+and the fruit or goal of **attainment explained** in the fourth  
+**are** the same for the man  
+who **has adopted** prapatti as a direct and independent means or upāya. 
+</details>
+
+<details><summary>Español</summary>
+
+La naturaleza esencial del Real Supremo y la de los reales inferiores **explicada** en los dos primeros capítulos (adhyāyas)  
+y el fruto o meta de **logro explicado** en el cuarto  
+**son** lo mismo para el hombre  
+que **ha adoptado** prapatti como un medio directo e independiente o upāya. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अङ्गु मुदलिरण्डध्यायत्तिऱ्सॊऩ्ऩ परावरतत्वस्वरूपमुम्, नाऩ्गामध्यायत्तिऱ्सॊऩ्ऩ फलमुम् स्वतन्त्रप्रपत्तिनिष्ठऩुक्कुम् तुल्यम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मूऩ्ऱाम् अध्यायत्तिल्  
+वैराग्य-पादत्तिलुम् उभय-लिङ्ग-पादत्तिलुम् सॊऩ्ऩ संसार-दोषमुम्  
+शरण्यऩ्-उडैय हेय-प्रत्यनीक-- कल्याणैकतानत्वमुम्  
+मुमुक्षुव् आऩ इवऩुक्क् अवश्यम् **ज्ञातव्यम्**।
+</details>
+
+<details><summary>English</summary>
+
+The shortcomings and sufferings in saṁsāra which **are dealt with** in the sections (pāda) on Vairagya and Ubhayalinga in the third chapter  
+and the Redeemer's **being opposed** to all that **is** of the nature of blemish (heya)  
+and His **being** the sole possessor of all auspicious qualities ---  
+these, too, **must necessarily be understood** by the prapanna  
+who is an **aspirant** to mukti. 
+</details>
+
+<details><summary>Español</summary>
+
+Las deficiencias y **sufrimientos** en el saṁsāra que **se tratan** en las secciones (pāda) sobre Vairagya y Ubhayalinga en el tercer capítulo  
+y el **oponerse** del Redentor a todo lo que **es** de la naturaleza de la mancha (heya)  
+y Su **ser** el único **poseedor** de todas las cualidades auspiciosas ---  
+Estos, también, **necesariamente deben ser entendidos** por el Prapanna  
+que **es** un **aspirante** a mukti. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मूऩ्ऱामध्यायत्तिल् वैराग्यपादत्तिलुम् उभयलिङ्गपादत्तिलुम् सॊऩ्ऩ संसारदोषमुम् शरण्यऩुडैय हेयप्रत्यनीककल्याणैकतानत्वमुम् मुमुक्षुवाऩ इवऩुक्कवश्यम् ज्ञातव्यम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मूऩ्ऱाम् पादत्तिल् उपायम् आगच् चॊऩ्ऩ उपासन-भेदङ्गळै  
+अवऱ्ऱुक्क् अधिकारिगळ् आऩ्-अवर्गळ् अनुष्ठिक्कक् कडवर्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+The different forms of **meditation** or **worship** (upāsana) of Brahman,  
+which **are treated** of in the third section (pāda) of the third chapter (of the Brahma sütras ),  
+**should be adopted** by those who **are competent** for them  
+(i.e.) those who **have adopted** bhakti. 
+</details>
+
+<details><summary>Español</summary>
+
+Las diferentes formas de **meditación** o **adoración** (upāsana) de Brahman,  
+de los que **se tratan** en la tercera sección (pāda) del tercer capítulo (de los Brahma sütras),  
+**deben ser adoptados** por aquellos que **son competentes** para ellos  
+(es decir) aquellos que **han adoptado** bhakti. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+मूऩ्ऱाम् पादत्तिलुपायमागच् चॊऩ्ऩ उपासनभेदङ्गळै अवऱ्ऱुक्कधिकारिकळाऩवर्गळनुष्ठिक्कक्कडवर्गळ्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अकिञ्चनऩ् आऩ अधिकारि  
+तऩक्क् अवऱ्ऱिऩ् अरुमैयैक् कण्डु 
+</details>
+
+<details><summary>English</summary>
+
+The man who **is not competent** for them  
+and who **is destitute** of other upāyas  
+**should realise** that these forms of meditation **are** too high for him  
+</details>
+
+<details><summary>Español</summary>
+
+El hombre que **no es competente** para ellos  
+y que **está desprovisto** de otros upāyas  
+**debería darse cuenta** de que estas formas de meditación **son** demasiado altas para él  
+</details>
+
+<details><summary>मूलम्</summary>
+
+अकिञ्चनऩाऩ अधिकारि तऩक्कवऱ्ऱिऩरुमैयैक्कण्डु 
+</details>
 
 
 
-Does not that śāstra proceed in this way? So the first two chapters (adhyāyas) (of the Brahma sūtras), the Supreme Real (Brahman) and the reals subordinate to it are determined. In the third chapter, competency (adhikāra) and accessories (aṅgas) are stated along with the upāya and in the fourth chapter, the fruit or the attainment of the goal is explained by way of conclusion. The essential nature of the Supreme Real and that of the lower reals explained in the first two chapters (adhyāyas ) and the fruit or goal of attainment explained in the fourth are the same for the man who has adopted prapatti as a direct and independent means or upāya. The shortcomings and sufferings in saṁsāra which are dealt with in the sections (pāda) on Vairagya and Ubhayalinga in the third chapter and the Redeemer's **being** opposed to all that is of the nature of blemish (heya) and His **being** the sole possessor of all auspicious qualities --- these, too, must necessarily be understood by the prapanna who is an aspirant to mukti. The different forms of meditation or worship (upāsana) of Brahman, which are treated of in the third section (pāda) of the third chapter (of the Brahma sütras ), should be adopted by those who are competent for them (i.e.) those who have adopted bhakti. The man who is not competent for them and who is destitute of other upāyas should realise that these forms of meditation are too high for him and adopt nyāsa as his upāya. For, as stated in the following sub-sections:- Nānā śabdādi bhedāt (Brahma sūtras 3-3-56) (The forms of meditation or worship or vidyās concerning Brahman) are different from one another, for their names are different and vikalpah avisiṣṭa phalatvat (3---3--57). (Any one of them may be adopted as there is no difference in the resulting fruit). Nyāsa is different from the other vidyās and in yielding the fruit conferred by them, does not require any other aid. The man who has adopted upāsana (or bhakti ) should perform the rights and duties pertaining to his varṇa (caste) and āśrama (stage of life) as an accessory or aṅga to the vidyā or form of meditation as stated in Brahma Sūtras (3.4.33)  The man who practises bhakti  should perform the duties of his varṇa and āśrama as an aṅga to bhakti ." The man who has adopted prapatti as a direct and independent upāya should perfom these rites and duties as **having** been enjoined by Bhagavān and for their own sake (without expecting any gain or reward), for it is said in the Brahma Sūtras (3.4 - 32). “Since they are enjoined, yajnas and other rites become the duties of the (respective) āsramas". If this is understood the, svarūpa, upāya and puruṣārtha which are explained in the Sārīraka Śāstras (Brahma sūtras) are all to be found within the sacred Aṣṭākṣara. We have already explained how the five truths that ought to be understood may be found in this. (Chap. 4).
+and adopt nyāsa as his upāya. For, as stated in the following sub-sections:- Nānā śabdādi bhedāt (Brahma sūtras 3-3-56) (The forms of meditation or worship or vidyās concerning Brahman) are different from one another, for their names are different and vikalpah avisiṣṭa phalatvat (3---3--57). (Any one of them may be adopted as there is no difference in the resulting fruit). Nyāsa is different from the other vidyās and in yielding the fruit conferred by them, does not require any other aid. The man who has adopted upāsana (or bhakti ) should perform the rights and duties pertaining to his varṇa (caste) and āśrama (stage of life) as an accessory or aṅga to the vidyā or form of meditation as stated in Brahma Sūtras (3.4.33)  The man who practises bhakti  should perform the duties of his varṇa and āśrama as an aṅga to bhakti ." The man who has adopted prapatti as a direct and independent upāya should perfom these rites and duties as **having** been enjoined by Bhagavān and for their own sake (without expecting any gain or reward), for it is said in the Brahma Sūtras (3.4 - 32). “Since they are enjoined, yajnas and other rites become the duties of the (respective) āsramas". If this is understood the, svarūpa, upāya and puruṣārtha which are explained in the Sārīraka Śāstras (Brahma sūtras) are all to be found within the sacred Aṣṭākṣara. We have already explained how the five truths that ought to be understood may be found in this. (Chap. 4).
 
 
 
