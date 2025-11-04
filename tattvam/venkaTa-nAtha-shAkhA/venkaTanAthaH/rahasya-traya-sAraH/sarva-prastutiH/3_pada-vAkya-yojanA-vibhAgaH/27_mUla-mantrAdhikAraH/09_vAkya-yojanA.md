@@ -6255,6 +6255,7 @@ que **es** un **aspirante** a mukti.
 मूऩ्ऱामध्यायत्तिल् वैराग्यपादत्तिलुम् उभयलिङ्गपादत्तिलुम् सॊऩ्ऩ संसारदोषमुम् शरण्यऩुडैय हेयप्रत्यनीककल्याणैकतानत्वमुम् मुमुक्षुवाऩ इवऩुक्कवश्यम् ज्ञातव्यम्।
 </details>
 
+##### साधना-भाग-सङ्गतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मूऩ्ऱाम् पादत्तिल् उपायम् आगच् चॊऩ्ऩ उपासन-भेदङ्गळै  
@@ -6308,9 +6309,284 @@ y que **está desprovisto** de otros upāyas
 अकिञ्चनऩाऩ अधिकारि तऩक्कवऱ्ऱिऩरुमैयैक्कण्डु 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नाना शब्दादि-भेदात्’’ (ब्रह्मसूत्रम् ३-३-५६), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नाना शब्दादि-भेदात्’’ (ब्रह्मसूत्रम् ३-३-५६), 
+</details>
+
+<details><summary>English</summary>
+
+> Nānā śabdādi bhedāt (Brahma sūtras 3-3-56) 
+
+> (The forms of meditation or worship or vidyās concerning Brahman) **are** different from one another, for their names **are** different 
+</details>
+
+<details><summary>Español</summary>
+
+> Nānā śabdādi bhedāt (Brahma sūtras 3-3-56) 
+
+> (Las formas de **meditación** o **adoración** o vidyās **concernientes** a Brahman) **son** diferentes entre sí, porque sus nombres **son** diferentes 
+</details>
 
 
-and adopt nyāsa as his upāya. For, as stated in the following sub-sections:- Nānā śabdādi bhedāt (Brahma sūtras 3-3-56) (The forms of meditation or worship or vidyās concerning Brahman) are different from one another, for their names are different and vikalpah avisiṣṭa phalatvat (3---3--57). (Any one of them may be adopted as there is no difference in the resulting fruit). Nyāsa is different from the other vidyās and in yielding the fruit conferred by them, does not require any other aid. The man who has adopted upāsana (or bhakti ) should perform the rights and duties pertaining to his varṇa (caste) and āśrama (stage of life) as an accessory or aṅga to the vidyā or form of meditation as stated in Brahma Sūtras (3.4.33)  The man who practises bhakti  should perform the duties of his varṇa and āśrama as an aṅga to bhakti ." The man who has adopted prapatti as a direct and independent upāya should perfom these rites and duties as **having** been enjoined by Bhagavān and for their own sake (without expecting any gain or reward), for it is said in the Brahma Sūtras (3.4 - 32). “Since they are enjoined, yajnas and other rites become the duties of the (respective) āsramas". If this is understood the, svarūpa, upāya and puruṣārtha which are explained in the Sārīraka Śāstras (Brahma sūtras) are all to be found within the sacred Aṣṭākṣara. We have already explained how the five truths that ought to be understood may be found in this. (Chap. 4).
+<details><summary>मूलम्</summary>
+
+‘‘नानाशब्दादिभेदात्’’ (ब्रह्मसूत्रम् ३-३-५६), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘विकल्पो ऽविशिष्ट-फलत्वात्’’  
+(ब्रह्मसूत्रम् ३-३-५७) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘विकल्पो ऽविशिष्ट-फलत्वात्’’  
+(ब्रह्मसूत्रम् ३-३-५७) 
+</details>
+
+<details><summary>English</summary>
+
+and "vikalpah avisiṣṭa-phalatvat (3-3-57)"  
+
+(Any one of them **may be adopted**  
+as there **is no** difference in the **resulting** fruit).  
+</details>
+
+<details><summary>Español</summary>
+
+y "vikalpah avisiṣṭa-phalatvat (3-3-57)"  
+
+(Cualquiera de ellos **puede ser adoptado**  
+ya que **no hay** diferencia en la fruta **resultante**).  
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘विकल्पोऽविशिष्टफलत्वात्’’ (ब्रह्मसूत्रम् ३-३-५७) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ अधिकरणङ्गळिऱ् सॊऩ्ऩ कट्टळैयिले 
+</details>
+
+<details><summary>English</summary>
+
+For, as stated in the above sub-sections:- 
+</details>
+
+<details><summary>Español</summary>
+
+Porque, como **se indicó** en las subsecciones anteriores: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱ अधिकरणङ्गळिऱ्सॊऩ्ऩ कट्टळैयिले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विद्यान्तर-व्यावृत्तम् आय्  
+अवै कॊडुक्कुम् मोक्षत्तैक् कॊडुक्कुम्+++(→पुरस्-करणस्य)+++ इडत्तिल्  
+निर्-अपेक्षमुम् आऩ न्यासत्तैये पऱ्ऱक् कडवऩ्।
+</details>
+
+<details><summary>English</summary>
+
+and adopt nyāsa as his upāya. 
+
+Nyāsa **is** different from the other vidyās  
+and in **yielding** the fruit **conferred** by them,  
+**does not require** any other aid.  
+</details>
+
+<details><summary>Español</summary>
+
+y **adopta** a nyāsa como su upāya. 
+
+Nyāsa **es** diferente de los otros vidyās  
+y al **producir** el fruto **conferido** por ellos,  
+**No requiere** ninguna otra ayuda.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+विद्यान्तरव्यावृत्तमाय् अवै कॊडुक्कुम् मोक्षत्तैक् कॊडुक्कुमिडत्तिल् निरपेक्षमुमाऩ न्यासत्तैये पऱ्ऱक्कडवऩ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाऩ्गाम् पादत्तिऱ् सॊऩ्ऩ वर्णाश्रम-धर्मङ्गळै उपासननिष्ठऩ्
+</details>
+
+<details><summary>English</summary>
+
+By the man who **has adopted** upāsana (or bhakti ) -  
+the rights and duties **pertaining** to his varṇa (caste) and āśrama (stage of life)  
+</details>
+
+<details><summary>Español</summary>
+
+Por el hombre que **ha adoptado** upāsana (o bhakti) -  
+los derechos y deberes **pertenecen** a su varṇa (casta) y āśrama (etapa de la vida)  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नाऩ्गाम् पादत्तिऱ्सॊऩ्ऩ वर्णाश्रमधर्मङ्गळै उपासननिष्ठऩ्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सहकारित्वेन च’’ (ब्रह्मसूत्रम् ३-४-३३) 
+
+ऎऩ्गिऱ बडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सहकारित्वेन च’’ (ब्रह्मसूत्रम् ३-४-३३) 
+</details>
+
+<details><summary>English</summary>
+
+As **stated** in Brahma Sūtras (3.4.33). 
+
+> The man who **practises** bhakti  
+**should perform** the **duties** of his varṇa and āśrama as an aṅga to bhakti . 
+</details>
+
+<details><summary>Español</summary>
+
+Como **declaró** en Brahma Sūtras (3.4.33). 
+
+> El hombre que **practica** bhakti  
+**debe realizar** los **deberes** de su varṇa y āśrama como un aṅga para bhakti. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘सहकारित्वेन च’’ (ब्रह्मसूत्रम् ३-४-३३) ऎऩ्गिऱबडिये
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विद्या-परिकरम् आग अनुष्ठिक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+**should be performed** as an accessory or aṅga to the vidyā or form of **meditation**. 
+</details>
+
+<details><summary>Español</summary>
+
+**debe realizarse** como un accesorio o aṅga del vidyā o forma de **meditación**. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विद्यापरिकरमाग अनुष्ठिक्कुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-तन्त्र-प्रपत्ति--निष्ठऩ् 
+</details>
+
+<details><summary>English</summary>
+
+The man who **has adopted** prapatti as a direct and independent upāya 
+</details>
+
+<details><summary>Español</summary>
+
+El hombre que **ha adoptado** prapatti como un upāya directo e independiente 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वतन्त्रप्रपत्तिनिष्ठऩ् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘विहितत्वाच् चाश्रमकर्मापि’’ (ब्रह्मसूत्रम् ३-४-३२) 
+
+ऎऩ्गिऱ बडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘विहितत्वाच् चाश्रमकर्मापि’’ (ब्रह्मसूत्रम् ३-४-३२) 
+</details>
+
+<details><summary>English</summary>
+
+for it **is said** in the Brahma Sūtras (3.4 - 32) - 
+
+> “Since they **are enjoined**,  
+yajnas and other rites become the **duties** of the (respective) āsramas". 
+</details>
+
+<details><summary>Español</summary>
+
+porque **se dice** en los Brahma Sūtras (3.4 - 32) - 
+
+> "Ya que **se les ordena**,  
+Los Yajnas y otros ritos **se convierten** en los **deberes** de los (respectivos) Āsramas". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘विहितत्वाच्चाश्रमकर्मापि’’ (ब्रह्मसूत्रम् ३-४-३२) ऎऩ्गिऱबडिये
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवद्-आज्ञा-सिद्धम् ऎऩ्ऱु स्वयं-प्रयोजनम् आग अनुष्ठिक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+**should perfom** these rites and duties as **having been enjoined** by Bhagavān  
+and for their own sake (without expecting any gain or reward). 
+</details>
+
+<details><summary>Español</summary>
+
+**debe realizar** estos ritos y deberes  
+como  **han sido ordenados** por Bhagavān  
+y por su propio bien (**sin esperar** ninguna **ganancia** o recompensa). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवदाज्ञासिद्धमॆऩ्ऱु स्वयंप्रयोजनमाग अनुष्ठिक्कुम्।
+</details>
+
+
+
+
+
+
+If this is understood the, svarūpa, upāya and puruṣārtha which are explained in the Sārīraka Śāstras (Brahma sūtras) are all to be found within the sacred Aṣṭākṣara. We have already explained how the five truths that ought to be understood may be found in this. (Chap. 4).
 
 
 
