@@ -6323,7 +6323,7 @@ Por lo tanto, incluso aquellos que **viven** en la misma localidad que los que *
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"निमित्तोपादानैक्यङ् कॊळ्ळ वॊण्णाद्" ऎऩ्ऱुम्, 
+"निमित्तोपादानैक्यङ् कॊळ्ळव् ऒण्णाद्" ऎऩ्ऱुम्, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
