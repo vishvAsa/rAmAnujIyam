@@ -6128,7 +6128,7 @@ Los detalles relativos a estos tres
 इम्मूऩ्ऱिऩ् विरिवॆल्लामध्यात्मशास्त्रङ्गळैक्कॊण्डु तॆळिन्दिङ्गे अनुसन्धेयम्।
 </details>
 
-#### वेदान्त-शास्त्र-सादृश्यम्
+#### ब्रह्म-सूत्र-सादृश्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द योजऩैक्कु  
@@ -6152,26 +6152,825 @@ La **construcción** o **interpretación** **dada** arriba de Tirumantra
 इन्द योजऩैक्कु वेदान्तशास्त्रत्तिल् तत्त्वोपायपुरुषार्थङ्गळै निरूपित्त क्रमत्तोडु सेर्त्तियुण्डु, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+
+- मुदल्-इरण्ड्-अध्यायत्ताले परावर-तत्त्वङ्गळैत् तॆळिवित्तु  
+- तृतीयत्ताले अधिकार-परिकरङ्गळोडे कूडिऩ उपायञ् जॊल्लि  
+- चतुर्थत्ताले फलञ् जॊल्लिय् इऱे शारीरक-शास्त्रन् तलैक् कट्टिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+Does not that śāstra **proceed** in this way?  
+
+So the first two chapters (adhyāyas) (of the Brahma sūtras),  
+the Supreme Real (Brahman) and the reals subordinate to it **are determined**.  
+
+In the third chapter, competency (adhikāra) and accessories (aṅgas) **are stated**  
+along with the upāya  
+
+and in the fourth chapter, the fruit or the **attainment** of the goal **is explained** by way of **conclusion**.
+</details>
+
+<details><summary>Español</summary>
+
+¿No **procede** ese śāstra de esta manera?  
+
+Así que los dos primeros capítulos (adhyāyas) (de los sūtras de Brahma),  
+el Real Supremo (Brahman) y los reales subordinados a él **están determinados**.  
+
+En el tercer capítulo, **se declaran** la competencia (adhikāra) y los accesorios (aṅgas)  
+junto con el upāya  
+
+y en el cuarto capítulo, el fruto o el **logro** de la meta **se explica** por medio de **conclusión**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; मुदलिरण्डध्यायत्ताले परावरतत्त्वङ्गळैत् तॆळिवित्तु तृतीयत्ताले अधिकारपरिकरङ्गळोडे कूडिऩ उपायञ्जॊल्लि चतुर्थत्ताले फलञ्जॊल्लियिऱे शारीरकशास्त्रन् दलैक्कट्टिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्गु मुदल्-इरण्ड् अध्यायत्तिऱ् सॊऩ्ऩ परावर-तत्त्व-स्वरूपमुम्,  
+नाऩ्गाम् अध्यायत्तिऱ् सॊऩ्ऩ फलमुम्  
+स्व-तन्त्र--प्रपत्ति-निष्ठऩुक्कुम् तुल्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+The essential nature of the Supreme Real and that of the lower reals **explained** in the first two chapters (adhyāyas )  
+and the fruit or goal of **attainment explained** in the fourth  
+**are** the same for the man  
+who **has adopted** prapatti as a direct and independent means or upāya. 
+</details>
+
+<details><summary>Español</summary>
+
+La naturaleza esencial del Real Supremo y la de los reales inferiores **explicada** en los dos primeros capítulos (adhyāyas)  
+y el fruto o meta de **logro explicado** en el cuarto  
+**son** lo mismo para el hombre  
+que **ha adoptado** prapatti como un medio directo e independiente o upāya. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अङ्गु मुदलिरण्डध्यायत्तिऱ्सॊऩ्ऩ परावरतत्वस्वरूपमुम्, नाऩ्गामध्यायत्तिऱ्सॊऩ्ऩ फलमुम् स्वतन्त्रप्रपत्तिनिष्ठऩुक्कुम् तुल्यम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मूऩ्ऱाम् अध्यायत्तिल्  
+वैराग्य-पादत्तिलुम् उभय-लिङ्ग-पादत्तिलुम् सॊऩ्ऩ संसार-दोषमुम्  
+शरण्यऩ्-उडैय हेय-प्रत्यनीक-- कल्याणैकतानत्वमुम्  
+मुमुक्षुव् आऩ इवऩुक्क् अवश्यम् **ज्ञातव्यम्**।
+</details>
+
+<details><summary>English</summary>
+
+The shortcomings and sufferings in saṁsāra which **are dealt with** in the sections (pāda) on Vairagya and Ubhayalinga in the third chapter  
+and the Redeemer's **being opposed** to all that **is** of the nature of blemish (heya)  
+and His **being** the sole possessor of all auspicious qualities ---  
+these, too, **must necessarily be understood** by the prapanna  
+who is an **aspirant** to mukti. 
+</details>
+
+<details><summary>Español</summary>
+
+Las deficiencias y **sufrimientos** en el saṁsāra que **se tratan** en las secciones (pāda) sobre Vairagya y Ubhayalinga en el tercer capítulo  
+y el **oponerse** del Redentor a todo lo que **es** de la naturaleza de la mancha (heya)  
+y Su **ser** el único **poseedor** de todas las cualidades auspiciosas ---  
+Estos, también, **necesariamente deben ser entendidos** por el Prapanna  
+que **es** un **aspirante** a mukti. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मूऩ्ऱामध्यायत्तिल् वैराग्यपादत्तिलुम् उभयलिङ्गपादत्तिलुम् सॊऩ्ऩ संसारदोषमुम् शरण्यऩुडैय हेयप्रत्यनीककल्याणैकतानत्वमुम् मुमुक्षुवाऩ इवऩुक्कवश्यम् ज्ञातव्यम्।
+</details>
+
+##### साधना-भाग-सङ्गतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मूऩ्ऱाम् पादत्तिल् उपायम् आगच् चॊऩ्ऩ उपासन-भेदङ्गळै  
+अवऱ्ऱुक्क् अधिकारिगळ् आऩ्-अवर्गळ् अनुष्ठिक्कक् कडवर्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+The different forms of **meditation** or **worship** (upāsana) of Brahman,  
+which **are treated** of in the third section (pāda) of the third chapter (of the Brahma sütras ),  
+**should be adopted** by those who **are competent** for them  
+(i.e.) those who **have adopted** bhakti. 
+</details>
+
+<details><summary>Español</summary>
+
+Las diferentes formas de **meditación** o **adoración** (upāsana) de Brahman,  
+de los que **se tratan** en la tercera sección (pāda) del tercer capítulo (de los Brahma sütras),  
+**deben ser adoptados** por aquellos que **son competentes** para ellos  
+(es decir) aquellos que **han adoptado** bhakti. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+मूऩ्ऱाम् पादत्तिलुपायमागच् चॊऩ्ऩ उपासनभेदङ्गळै अवऱ्ऱुक्कधिकारिकळाऩवर्गळनुष्ठिक्कक्कडवर्गळ्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अकिञ्चनऩ् आऩ अधिकारि  
+तऩक्क् अवऱ्ऱिऩ् अरुमैयैक् कण्डु 
+</details>
+
+<details><summary>English</summary>
+
+The man who **is not competent** for them  
+and who **is destitute** of other upāyas  
+**should realise** that these forms of meditation **are** too high for him  
+</details>
+
+<details><summary>Español</summary>
+
+El hombre que **no es competente** para ellos  
+y que **está desprovisto** de otros upāyas  
+**debería darse cuenta** de que estas formas de meditación **son** demasiado altas para él  
+</details>
+
+<details><summary>मूलम्</summary>
+
+अकिञ्चनऩाऩ अधिकारि तऩक्कवऱ्ऱिऩरुमैयैक्कण्डु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नाना शब्दादि-भेदात्’’ (ब्रह्मसूत्रम् ३-३-५६), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नाना शब्दादि-भेदात्’’ (ब्रह्मसूत्रम् ३-३-५६), 
+</details>
+
+<details><summary>English</summary>
+
+> Nānā śabdādi bhedāt (Brahma sūtras 3-3-56) 
+
+> (The forms of meditation or worship or vidyās concerning Brahman) **are** different from one another, for their names **are** different 
+</details>
+
+<details><summary>Español</summary>
+
+> Nānā śabdādi bhedāt (Brahma sūtras 3-3-56) 
+
+> (Las formas de **meditación** o **adoración** o vidyās **concernientes** a Brahman) **son** diferentes entre sí, porque sus nombres **son** diferentes 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नानाशब्दादिभेदात्’’ (ब्रह्मसूत्रम् ३-३-५६), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘विकल्पो ऽविशिष्ट-फलत्वात्’’  
+(ब्रह्मसूत्रम् ३-३-५७) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘विकल्पो ऽविशिष्ट-फलत्वात्’’  
+(ब्रह्मसूत्रम् ३-३-५७) 
+</details>
+
+<details><summary>English</summary>
+
+and "vikalpah avisiṣṭa-phalatvat (3-3-57)"  
+
+(Any one of them **may be adopted**  
+as there **is no** difference in the **resulting** fruit).  
+</details>
+
+<details><summary>Español</summary>
+
+y "vikalpah avisiṣṭa-phalatvat (3-3-57)"  
+
+(Cualquiera de ellos **puede ser adoptado**  
+ya que **no hay** diferencia en la fruta **resultante**).  
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘विकल्पोऽविशिष्टफलत्वात्’’ (ब्रह्मसूत्रम् ३-३-५७) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ अधिकरणङ्गळिऱ् सॊऩ्ऩ कट्टळैयिले 
+</details>
+
+<details><summary>English</summary>
+
+For, as stated in the above sub-sections:- 
+</details>
+
+<details><summary>Español</summary>
+
+Porque, como **se indicó** en las subsecciones anteriores: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱ अधिकरणङ्गळिऱ्सॊऩ्ऩ कट्टळैयिले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विद्यान्तर-व्यावृत्तम् आय्  
+अवै कॊडुक्कुम् मोक्षत्तैक् कॊडुक्कुम्+++(→पुरस्-करणस्य)+++ इडत्तिल्  
+निर्-अपेक्षमुम् आऩ न्यासत्तैये पऱ्ऱक् कडवऩ्।
+</details>
+
+<details><summary>English</summary>
+
+and adopt nyāsa as his upāya. 
+
+Nyāsa **is** different from the other vidyās  
+and in **yielding** the fruit **conferred** by them,  
+**does not require** any other aid.  
+</details>
+
+<details><summary>Español</summary>
+
+y **adopta** a nyāsa como su upāya. 
+
+Nyāsa **es** diferente de los otros vidyās  
+y al **producir** el fruto **conferido** por ellos,  
+**No requiere** ninguna otra ayuda.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+विद्यान्तरव्यावृत्तमाय् अवै कॊडुक्कुम् मोक्षत्तैक् कॊडुक्कुमिडत्तिल् निरपेक्षमुमाऩ न्यासत्तैये पऱ्ऱक्कडवऩ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाऩ्गाम् पादत्तिऱ् सॊऩ्ऩ वर्णाश्रम-धर्मङ्गळै उपासननिष्ठऩ्
+</details>
+
+<details><summary>English</summary>
+
+By the man who **has adopted** upāsana (or bhakti ) -  
+the rights and duties **pertaining** to his varṇa (caste) and āśrama (stage of life)  
+</details>
+
+<details><summary>Español</summary>
+
+Por el hombre que **ha adoptado** upāsana (o bhakti) -  
+los derechos y deberes **pertenecen** a su varṇa (casta) y āśrama (etapa de la vida)  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नाऩ्गाम् पादत्तिऱ्सॊऩ्ऩ वर्णाश्रमधर्मङ्गळै उपासननिष्ठऩ्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सहकारित्वेन च’’ (ब्रह्मसूत्रम् ३-४-३३) 
+
+ऎऩ्गिऱ बडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘सहकारित्वेन च’’ (ब्रह्मसूत्रम् ३-४-३३) 
+</details>
+
+<details><summary>English</summary>
+
+As **stated** in Brahma Sūtras (3.4.33). 
+
+> The man who **practises** bhakti  
+**should perform** the **duties** of his varṇa and āśrama as an aṅga to bhakti . 
+</details>
+
+<details><summary>Español</summary>
+
+Como **declaró** en Brahma Sūtras (3.4.33). 
+
+> El hombre que **practica** bhakti  
+**debe realizar** los **deberes** de su varṇa y āśrama como un aṅga para bhakti. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘सहकारित्वेन च’’ (ब्रह्मसूत्रम् ३-४-३३) ऎऩ्गिऱबडिये
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विद्या-परिकरम् आग अनुष्ठिक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+**should be performed** as an accessory or aṅga to the vidyā or form of **meditation**. 
+</details>
+
+<details><summary>Español</summary>
+
+**debe realizarse** como un accesorio o aṅga del vidyā o forma de **meditación**. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विद्यापरिकरमाग अनुष्ठिक्कुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-तन्त्र-प्रपत्ति--निष्ठऩ् 
+</details>
+
+<details><summary>English</summary>
+
+The man who **has adopted** prapatti as a direct and independent upāya 
+</details>
+
+<details><summary>Español</summary>
+
+El hombre que **ha adoptado** prapatti como un upāya directo e independiente 
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वतन्त्रप्रपत्तिनिष्ठऩ् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘विहितत्वाच् चाश्रमकर्मापि’’ (ब्रह्मसूत्रम् ३-४-३२) 
+
+ऎऩ्गिऱ बडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘विहितत्वाच् चाश्रमकर्मापि’’ (ब्रह्मसूत्रम् ३-४-३२) 
+</details>
+
+<details><summary>English</summary>
+
+for it **is said** in the Brahma Sūtras (3.4 - 32) - 
+
+> “Since they **are enjoined**,  
+yajnas and other rites become the **duties** of the (respective) āsramas". 
+</details>
+
+<details><summary>Español</summary>
+
+porque **se dice** en los Brahma Sūtras (3.4 - 32) - 
+
+> "Ya que **se les ordena**,  
+Los Yajnas y otros ritos **se convierten** en los **deberes** de los (respectivos) Āsramas". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘विहितत्वाच्चाश्रमकर्मापि’’ (ब्रह्मसूत्रम् ३-४-३२) ऎऩ्गिऱबडिये
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवद्-आज्ञा-सिद्धम् ऎऩ्ऱु स्वयं-प्रयोजनम् आग अनुष्ठिक्कुम्।
+</details>
+
+<details><summary>English</summary>
+
+**should perfom** these rites and duties as **having been enjoined** by Bhagavān  
+and for their own sake (without expecting any gain or reward). 
+</details>
+
+<details><summary>Español</summary>
+
+**debe realizar** estos ritos y deberes  
+como  **han sido ordenados** por Bhagavān  
+y por su propio bien (**sin esperar** ninguna **ganancia** o recompensa). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवदाज्ञासिद्धमॆऩ्ऱु स्वयंप्रयोजनमाग अनुष्ठिक्कुम्।
+</details>
+
+##### निगमनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् आऩाल्  
+शारीरकत्तिऱ् सॊऩ्ऩ स्व-रूपोपाय-पुरुषार्थङ्गळ् ऎल्लाम्  
+श्रीमद्-अष्टाक्षरान्तस्-स्थङ्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+If this **is understood**,  
+the svarūpa, upāya and puruṣārtha  
+which **are explained** in the Sārīraka Śāstras (Brahma sūtras)  
+**are** all to be **found** within the sacred Aṣṭākṣara. 
+</details>
+
+<details><summary>Español</summary>
+
+Si esto **se entiende**,  
+El Svarūpa, Upāya y Puruṣārtha  
+que **se explican** en los Śāstras de Sārīraka (sūtras de Brahma)  
+**son** todos los que **deben fundarse** dentro del sagrado Aṣṭākṣara. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडियाऩाल् शारीरकत्तिऱ्सॊऩ्ऩ स्वरूपोपायपुरुषार्थङ्गळॆल्लाम् श्रीमदष्टाक्षरान्तस्स्थङ्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् अर्थ-पञ्चकादिगळ् किडक्किऱ वगुप्प्+++(=विभागम्)+++ ऎल्लाङ्  
+कीऴे सॊऩ्ऩोम्। 
+</details>
+
+<details><summary>English</summary>
+
+We have already **explained**  
+how the five truths that **ought to be understood may be found** in this. (Chap. 4).
+</details>
+
+<details><summary>Español</summary>
+
+Ya **hemos explicado**  
+cómo las cinco verdades que **deben entenderse** **se pueden encontrar** en esto. (Cap. 4).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् अर्थपञ्चकादिगळ् किडक्किऱ वगुप्पॆल्लाङ्गीऴे सॊऩ्ऩोम्। 
+</details>
+
+
+## सिंहावलोकनम्
+<details><summary>English</summary>
+
+SUMMARY OF THE TEN INTERPRETATIONS OF TIRUMANTRA GIVEN ABOVE:
+</details>
+
+<details><summary>Español</summary>
+
+**RESUMEN** DE LAS DIEZ **INTERPRETACIONES** DEL TIRUMANTRA **DADAS** ANTERIORMENTE:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि तिरु-मन्त्रम् एक-वाक्यम् आऩ बोदु  
++++(नमस्क्रियया→)+++ उपायपरम् ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>English</summary>
+
+When the Tirumantra **is considered** as a single sentence,  
+it **is thought** of as **indicating**  
+
+(1) the upāya 
+
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el Tirumantra **se considera** como una sola oración,  
+**se piensa** como **indicando**  
+
+(1) El Upāya 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि तिरुमन्त्रमेगवाक्यमाऩबोदु उपायपरमॆऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(कैङ्कर्य-)+++वृत्ति-परम् ऎऩ्ऱुम्; 
+</details>
+
+<details><summary>English</summary>
+
+and  
+(2) his activity as a śeṣa. 
+
+</details>
+
+<details><summary>Español</summary>
+
+y  
+(2) Su **actividad** como śeṣa. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+वृत्तिपरम् ऎऩ्ऱुम्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाक्य-द्वयम् आऩ बोदु  
+स्व-रूप--परम् ऎऩ्ऱुम्,
+</details>
+
+<details><summary>English</summary>
+
+When **considered** as two sentences,  
+it **is thought of** as **indicating**  
+(1) the essential nature of the self 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **considerado** como dos oraciones,  
+**se considera** como **indicativo**  
+(1) la naturaleza esencial del yo 
+</details>
+
+<details><summary>मूलम्</summary>
+
+वाक्यद्वयमाऩबोदु स्वरूपपरमॆऩ्ऱुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्वय-व्यतिरेक-मुखेन समर्पण-परम् ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+and (2) the **surrender** (of the self) by a positive and a negative statement,  
+(Namely, The burden of **protecting** me **is** Bhagavān's : it **is not** mine) 
+</details>
+
+<details><summary>Español</summary>
+
+y (2) la **entrega** (del yo) mediante una **declaración** positiva y una negativa,  
+(Es **decir**, la carga de **protegerme** **es** de Bhagavān: **no es** mía) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्वयव्यतिरेकमुखेन समर्पणपरमॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुषार्थ-प्रार्थना-परम् ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+and so also (3) as **indicating** a **prayer** for the puruṣārtha. 
+</details>
+
+<details><summary>Español</summary>
+
+y así también (3) como **indicando** una **oración** para el puruṣārtha. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुरुषार्थप्रार्थनापरमॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाक्य-त्रयम् आऩ बोदु  
+
+मुदल् इरण्डु पदमुम्  
+स्व-रूप--परम् आय्  
+मेल् पदम् पुरुषार्थ-प्रार्थना-परम् 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+When it **is considered** as three sentences,  
+it **is thought of** in the following ways:-  
+
+(1) The first two words **indicate** the svarūpa  
+and the third word **indicates** the prayer; 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se considera** como tres **oraciones**,  
+**se piensa** de las siguientes maneras:  
+
+(1) Las dos primeras palabras **indican** el svarūpa  
+y la tercera palabra **indica** la oración; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+वाक्यत्रयमाऩबोदु मुदलिरण्डु पदमुम् स्वरूपपरमाय् मेल् पदम् पुरुषार्थप्रार्थनापरमॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रणवं स्वरूप-परम् आय्  
+मेल् इरण्डु पदमुम्  
+अनिष्ट-निवृत्तीष्ट-प्राप्ति--प्रार्थना-परम् 
+
+ऎऩ्ऱुम्,
+</details>
+
+<details><summary>English</summary>
+
+(2) The praṇava **indicates** the essential nature or svarūpa,  
+and the other two words **indicate** the prayer for the **removal** of undesirable elements  
+and for the **attainment** of the desired end. 
+</details>
+
+<details><summary>Español</summary>
+
+(2) El praṇava **indica** la naturaleza esencial o svarūpa,  
+y las otras dos palabras **indican** la oración por la **remoción** de elementos indeseables  
+y para el **logro** del fin deseado. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रणवम् स्वरूपपरमाय् मेलिरण्डु पदमुम् अनिष्टनिवृत्तीष्टप्राप्तिप्रार्थनापरमॆऩ्ऱुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इक्-कट्टळैयिले  
+प्रथम-पदम् स्व-रूप-परम् आय्  
+मेल् इरण्डु पदमुम् उपाय-परम् 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(3) In the same manner,  
+the first word **indicates** the svarūpa  
+and the other two indicate the upāya, 
+</details>
+
+<details><summary>Español</summary>
+
+(3) De la misma manera,  
+La primera palabra **indica** el svarūpa  
+y los otros dos **indican** el upāya, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इक्कट्टळैयिले प्रथमपदम् स्वरूपपरमाय् मेलिरण्डु पदमुमुपायपरमॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रथम-पदम् समर्पण-परम् आय्  
+मेल् इरण्डु पदमुम्  
+फल-प्रार्थना-परम् 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(4) the first word **indicates** the **surrender** (of the self)  
+and the other two **indicate** the **prayer** for the **attainment** of the fruit ( **desired**), 
+</details>
+
+<details><summary>Español</summary>
+
+(4) la primera palabra **indica** la **entrega** (del yo)  
+y los otros dos **indican** la **oración** para el **logro** del fruto (**deseado**), 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रथमपदम् समर्पणपरमाय् मेलिरण्डु पदमुम् फलप्रार्थनापरमॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पद-त्रयमुम् अडैवे+++(=क्रमशो हि)+++ तत्त्वोपाय-पुरुषार्थ--प्रार्थना-परम् 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+(5) The three words **indicate** respectively the tattva, the upāya and the puruṣārtha.
+</details>
+
+<details><summary>Español</summary>
+
+(5) Las tres palabras **indican** respectivamente el tattva, el upāya y el puruṣārtha.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पदत्रयमुमडैवे तत्त्वोपायपुरुषार्थप्रार्थनापरमॆऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनन्तार्थ-गर्भम् आऩव् इत्-तिरु-मन्त्रत्तिल्  
+वाक्यार्थत्तैप् पत्तुप् पडिय् आग  
+यथा-संप्रदायम् अनुसन्धिप्पार्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+Thus the ācāryas **consider** Tirumantra,  
+which **has** innumerable meanings within it, as **having** ten (different) **meanings**  
+in **accordance** with their respective tradition.
+</details>
+
+<details><summary>Español</summary>
+
+Así, los ācāryas **consideran** a Tirumantra,  
+que **tiene** innumerables significados dentro de él,  
+como **teniendo** diez (diferentes) **significados**  
+de **acuerdo** con su respectiva tradición.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनन्तार्थगर्भमाऩ वित्तिरुमन्त्रत्तिल् वाक्यार्थत्तैप् पत्तुप् पडियाग यथासंप्रदायमनुसन्धिप्पार्गळ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि सिलवऱ्ऱै प्रधानम् आग अनुसन्धित्तालुम्  
+मऱ्ऱ् उळ्ळ् अवैयुम्  
+आर्थम् आगक् कडवदु। 
+</details>
+
+<details><summary>English</summary>
+
+When some of these meanings **are considered** as the main **interpretations**,  
+the others, too, should **be looked upon**  
+as **being implicit** in the meaning,  
+though **not expressed explicitly** by the words thenselves.
+</details>
+
+<details><summary>Español</summary>
+
+Cuando algunos de estos significados **se consideran** como las principales **interpretaciones**,  
+los demás, también, deben **ser vistos**  
+como **estando implícito** en el significado,  
+aunque **no expresadas explícitamente** por las palabras mismas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सिलवऱ्ऱै प्रधानमाग अनुसन्धित्तालुम् मऱ्ऱुळ्ळवैयुमार्थमागक् कडवदु। 
+</details>
 
 
 
-Does not that śāstra proceed in this way? So the first two chapters (adhyāyas) (of the Brahma sūtras), the Supreme Real (Brahman) and the reals subordinate to it are determined. In the third chapter, competency (adhikāra) and accessories (aṅgas) are stated along with the upāya and in the fourth chapter, the fruit or the attainment of the goal is explained by way of conclusion. The essential nature of the Supreme Real and that of the lower reals explained in the first two chapters (adhyāyas ) and the fruit or goal of attainment explained in the fourth are the same for the man who has adopted prapatti as a direct and independent means or upāya. The shortcomings and sufferings in saṁsāra which are dealt with in the sections (pāda) on Vairagya and Ubhayalinga in the third chapter and the Redeemer's **being** opposed to all that is of the nature of blemish (heya) and His **being** the sole possessor of all auspicious qualities --- these, too, must necessarily be understood by the prapanna who is an aspirant to mukti. The different forms of meditation or worship (upāsana) of Brahman, which are treated of in the third section (pāda) of the third chapter (of the Brahma sütras ), should be adopted by those who are competent for them (i.e.) those who have adopted bhakti. The man who is not competent for them and who is destitute of other upāyas should realise that these forms of meditation are too high for him and adopt nyāsa as his upāya. For, as stated in the following sub-sections:- Nānā śabdādi bhedāt (Brahma sūtras 3-3-56) (The forms of meditation or worship or vidyās concerning Brahman) are different from one another, for their names are different and vikalpah avisiṣṭa phalatvat (3---3--57). (Any one of them may be adopted as there is no difference in the resulting fruit). Nyāsa is different from the other vidyās and in yielding the fruit conferred by them, does not require any other aid. The man who has adopted upāsana (or bhakti ) should perform the rights and duties pertaining to his varṇa (caste) and āśrama (stage of life) as an accessory or aṅga to the vidyā or form of meditation as stated in Brahma Sūtras (3.4.33)  The man who practises bhakti  should perform the duties of his varṇa and āśrama as an aṅga to bhakti ." The man who has adopted prapatti as a direct and independent upāya should perfom these rites and duties as **having** been enjoined by Bhagavān and for their own sake (without expecting any gain or reward), for it is said in the Brahma Sūtras (3.4 - 32). “Since they are enjoined, yajnas and other rites become the duties of the (respective) āsramas". If this is understood the, svarūpa, upāya and puruṣārtha which are explained in the Sārīraka Śāstras (Brahma sūtras) are all to be found within the sacred Aṣṭākṣara. We have already explained how the five truths that ought to be understood may be found in this. (Chap. 4).
 
 
-
-SUMMARY OF THE TEN INTERPRETATIONS OF
-
-
-
-TIRUMANTRA GIVEN ABOVE:
-
-
-
-Thus the ācāryas consider Tirumantra, which has innumerable meanings within it, as **having** ten (different) meanings in accordance with their respective tradition: When the Tirumantra is considered as a single sentence, it is thought of as indicating (1) the essential nature (svarūpa) of the jīva and (2) his activity as a śeṣa. When coosidered as two sentences, it is thought of as indicating (1) the essential nature of the self and (2) the surrender (of the self) by a positive and a negative statement, Namely, (The burden of protecting me is Bhagavān's : it is not mine) and so also (3) as indicating a prayer for the puruṣārtha. When it is considered as three sentences, it is thought of in the following ways:- (1) The first two words indicate the svarūpa and the third word indicates the prayer: (2) The praṇava indicates the essential nature or svarūpa, and the other two words indicate the prayer for the removal of undesirable elements and for the attainment of the desired end. (3) In the same manner, the first word indicates the svarūpa and the other two indicate the upāya, (4) the first word indicates the surrender (of the self) and the other two indicate the prayer for the attainment of the fruit ( desired), (5) The three words indicate respectively the tattva, the upāya and the puruṣārtha.
-
-
-
-When some of these meanings are considered as the main interpretations, the others, too, should be looked upon as **being** implicit in the meaning, though not expressed explicitly by the words thenselves.
 
 
 
