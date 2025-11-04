@@ -6581,28 +6581,396 @@ y por su propio bien (**sin esperar** ninguna **ganancia** o recompensa).
 भगवदाज्ञासिद्धमॆऩ्ऱु स्वयंप्रयोजनमाग अनुष्ठिक्कुम्।
 </details>
 
+##### निगमनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् आऩाल्  
+शारीरकत्तिऱ् सॊऩ्ऩ स्व-रूपोपाय-पुरुषार्थङ्गळ् ऎल्लाम्  
+श्रीमद्-अष्टाक्षरान्तस्-स्थङ्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+If this **is understood**,  
+the svarūpa, upāya and puruṣārtha  
+which **are explained** in the Sārīraka Śāstras (Brahma sūtras)  
+**are** all to be **found** within the sacred Aṣṭākṣara. 
+</details>
+
+<details><summary>Español</summary>
+
+Si esto **se entiende**,  
+El Svarūpa, Upāya y Puruṣārtha  
+que **se explican** en los Śāstras de Sārīraka (sūtras de Brahma)  
+**son** todos los que **deben fundarse** dentro del sagrado Aṣṭākṣara. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडियाऩाल् शारीरकत्तिऱ्सॊऩ्ऩ स्वरूपोपायपुरुषार्थङ्गळॆल्लाम् श्रीमदष्टाक्षरान्तस्स्थङ्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् अर्थ-पञ्चकादिगळ् किडक्किऱ वगुप्प्+++(=विभागम्)+++ ऎल्लाङ्  
+कीऴे सॊऩ्ऩोम्। 
+</details>
+
+<details><summary>English</summary>
+
+We have already **explained**  
+how the five truths that **ought to be understood may be found** in this. (Chap. 4).
+</details>
+
+<details><summary>Español</summary>
+
+Ya **hemos explicado**  
+cómo las cinco verdades que **deben entenderse** **se pueden encontrar** en esto. (Cap. 4).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् अर्थपञ्चकादिगळ् किडक्किऱ वगुप्पॆल्लाङ्गीऴे सॊऩ्ऩोम्। 
+</details>
+
+
+## सिंहावलोकनम्
+<details><summary>English</summary>
+
+SUMMARY OF THE TEN INTERPRETATIONS OF TIRUMANTRA GIVEN ABOVE:
+</details>
+
+<details><summary>Español</summary>
+
+**RESUMEN** DE LAS DIEZ **INTERPRETACIONES** DEL TIRUMANTRA **DADAS** ANTERIORMENTE:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि तिरु-मन्त्रम् एक-वाक्यम् आऩ बोदु  
++++(नमस्क्रियया→)+++ उपायपरम् ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>English</summary>
+
+When the Tirumantra **is considered** as a single sentence,  
+it **is thought** of as **indicating**  
+
+(1) the upāya 
+
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el Tirumantra **se considera** como una sola oración,  
+**se piensa** como **indicando**  
+
+(1) El Upāya 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि तिरुमन्त्रमेगवाक्यमाऩबोदु उपायपरमॆऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(कैङ्कर्य-)+++वृत्ति-परम् ऎऩ्ऱुम्; 
+</details>
+
+<details><summary>English</summary>
+
+and  
+(2) his activity as a śeṣa. 
+
+</details>
+
+<details><summary>Español</summary>
+
+y  
+(2) Su **actividad** como śeṣa. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+वृत्तिपरम् ऎऩ्ऱुम्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाक्य-द्वयम् आऩ बोदु  
+स्व-रूप--परम् ऎऩ्ऱुम्,
+</details>
+
+<details><summary>English</summary>
+
+When **considered** as two sentences,  
+it **is thought of** as **indicating**  
+(1) the essential nature of the self 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **considerado** como dos oraciones,  
+**se considera** como **indicativo**  
+(1) la naturaleza esencial del yo 
+</details>
+
+<details><summary>मूलम्</summary>
+
+वाक्यद्वयमाऩबोदु स्वरूपपरमॆऩ्ऱुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्वय-व्यतिरेक-मुखेन समर्पण-परम् ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+and (2) the **surrender** (of the self) by a positive and a negative statement,  
+(Namely, The burden of **protecting** me **is** Bhagavān's : it **is not** mine) 
+</details>
+
+<details><summary>Español</summary>
+
+y (2) la **entrega** (del yo) mediante una **declaración** positiva y una negativa,  
+(Es **decir**, la carga de **protegerme** **es** de Bhagavān: **no es** mía) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्वयव्यतिरेकमुखेन समर्पणपरमॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुषार्थ-प्रार्थना-परम् ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+and so also (3) as **indicating** a **prayer** for the puruṣārtha. 
+</details>
+
+<details><summary>Español</summary>
+
+y así también (3) como **indicando** una **oración** para el puruṣārtha. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुरुषार्थप्रार्थनापरमॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाक्य-त्रयम् आऩ बोदु  
+
+मुदल् इरण्डु पदमुम्  
+स्व-रूप--परम् आय्  
+मेल् पदम् पुरुषार्थ-प्रार्थना-परम् 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+When it **is considered** as three sentences,  
+it **is thought of** in the following ways:-  
+
+(1) The first two words **indicate** the svarūpa  
+and the third word **indicates** the prayer; 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se considera** como tres **oraciones**,  
+**se piensa** de las siguientes maneras:  
+
+(1) Las dos primeras palabras **indican** el svarūpa  
+y la tercera palabra **indica** la oración; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+वाक्यत्रयमाऩबोदु मुदलिरण्डु पदमुम् स्वरूपपरमाय् मेल् पदम् पुरुषार्थप्रार्थनापरमॆऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रणवं स्वरूप-परम् आय्  
+मेल् इरण्डु पदमुम्  
+अनिष्ट-निवृत्तीष्ट-प्राप्ति--प्रार्थना-परम् 
+
+ऎऩ्ऱुम्,
+</details>
+
+<details><summary>English</summary>
+
+(2) The praṇava **indicates** the essential nature or svarūpa,  
+and the other two words **indicate** the prayer for the **removal** of undesirable elements  
+and for the **attainment** of the desired end. 
+</details>
+
+<details><summary>Español</summary>
+
+(2) El praṇava **indica** la naturaleza esencial o svarūpa,  
+y las otras dos palabras **indican** la oración por la **remoción** de elementos indeseables  
+y para el **logro** del fin deseado. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रणवम् स्वरूपपरमाय् मेलिरण्डु पदमुम् अनिष्टनिवृत्तीष्टप्राप्तिप्रार्थनापरमॆऩ्ऱुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इक्-कट्टळैयिले  
+प्रथम-पदम् स्व-रूप-परम् आय्  
+मेल् इरण्डु पदमुम् उपाय-परम् 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(3) In the same manner,  
+the first word **indicates** the svarūpa  
+and the other two indicate the upāya, 
+</details>
+
+<details><summary>Español</summary>
+
+(3) De la misma manera,  
+La primera palabra **indica** el svarūpa  
+y los otros dos **indican** el upāya, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इक्कट्टळैयिले प्रथमपदम् स्वरूपपरमाय् मेलिरण्डु पदमुमुपायपरमॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रथम-पदम् समर्पण-परम् आय्  
+मेल् इरण्डु पदमुम्  
+फल-प्रार्थना-परम् 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+(4) the first word **indicates** the **surrender** (of the self)  
+and the other two **indicate** the **prayer** for the **attainment** of the fruit ( **desired**), 
+</details>
+
+<details><summary>Español</summary>
+
+(4) la primera palabra **indica** la **entrega** (del yo)  
+y los otros dos **indican** la **oración** para el **logro** del fruto (**deseado**), 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रथमपदम् समर्पणपरमाय् मेलिरण्डु पदमुम् फलप्रार्थनापरमॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पद-त्रयमुम् अडैवे+++(=क्रमशो हि)+++ तत्त्वोपाय-पुरुषार्थ--प्रार्थना-परम् 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+(5) The three words **indicate** respectively the tattva, the upāya and the puruṣārtha.
+</details>
+
+<details><summary>Español</summary>
+
+(5) Las tres palabras **indican** respectivamente el tattva, el upāya y el puruṣārtha.
+</details>
+
+<details><summary>मूलम्</summary>
+
+पदत्रयमुमडैवे तत्त्वोपायपुरुषार्थप्रार्थनापरमॆऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनन्तार्थ-गर्भम् आऩव् इत्-तिरु-मन्त्रत्तिल्  
+वाक्यार्थत्तैप् पत्तुप् पडिय् आग  
+यथा-संप्रदायम् अनुसन्धिप्पार्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+Thus the ācāryas **consider** Tirumantra,  
+which **has** innumerable meanings within it, as **having** ten (different) **meanings**  
+in **accordance** with their respective tradition.
+</details>
+
+<details><summary>Español</summary>
+
+Así, los ācāryas **consideran** a Tirumantra,  
+que **tiene** innumerables significados dentro de él,  
+como **teniendo** diez (diferentes) **significados**  
+de **acuerdo** con su respectiva tradición.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनन्तार्थगर्भमाऩ वित्तिरुमन्त्रत्तिल् वाक्यार्थत्तैप् पत्तुप् पडियाग यथासंप्रदायमनुसन्धिप्पार्गळ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि सिलवऱ्ऱै प्रधानम् आग अनुसन्धित्तालुम्  
+मऱ्ऱ् उळ्ळ् अवैयुम्  
+आर्थम् आगक् कडवदु। 
+</details>
+
+<details><summary>English</summary>
+
+When some of these meanings **are considered** as the main **interpretations**,  
+the others, too, should **be looked upon**  
+as **being implicit** in the meaning,  
+though **not expressed explicitly** by the words thenselves.
+</details>
+
+<details><summary>Español</summary>
+
+Cuando algunos de estos significados **se consideran** como las principales **interpretaciones**,  
+los demás, también, deben **ser vistos**  
+como **estando implícito** en el significado,  
+aunque **no expresadas explícitamente** por las palabras mismas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सिलवऱ्ऱै प्रधानमाग अनुसन्धित्तालुम् मऱ्ऱुळ्ळवैयुमार्थमागक् कडवदु। 
+</details>
 
 
 
 
 
-If this is understood the, svarūpa, upāya and puruṣārtha which are explained in the Sārīraka Śāstras (Brahma sūtras) are all to be found within the sacred Aṣṭākṣara. We have already explained how the five truths that ought to be understood may be found in this. (Chap. 4).
-
-
-
-SUMMARY OF THE TEN INTERPRETATIONS OF
-
-
-
-TIRUMANTRA GIVEN ABOVE:
-
-
-
-Thus the ācāryas consider Tirumantra, which has innumerable meanings within it, as **having** ten (different) meanings in accordance with their respective tradition: When the Tirumantra is considered as a single sentence, it is thought of as indicating (1) the essential nature (svarūpa) of the jīva and (2) his activity as a śeṣa. When coosidered as two sentences, it is thought of as indicating (1) the essential nature of the self and (2) the surrender (of the self) by a positive and a negative statement, Namely, (The burden of protecting me is Bhagavān's : it is not mine) and so also (3) as indicating a prayer for the puruṣārtha. When it is considered as three sentences, it is thought of in the following ways:- (1) The first two words indicate the svarūpa and the third word indicates the prayer: (2) The praṇava indicates the essential nature or svarūpa, and the other two words indicate the prayer for the removal of undesirable elements and for the attainment of the desired end. (3) In the same manner, the first word indicates the svarūpa and the other two indicate the upāya, (4) the first word indicates the surrender (of the self) and the other two indicate the prayer for the attainment of the fruit ( desired), (5) The three words indicate respectively the tattva, the upāya and the puruṣārtha.
-
-
-
-When some of these meanings are considered as the main interpretations, the others, too, should be looked upon as **being** implicit in the meaning, though not expressed explicitly by the words thenselves.
 
 
 
