@@ -1796,7 +1796,7 @@ O **era** justificable en el caso de ese individuo excepcional.+++(5)+++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदु कॊण्डु व्यक्त्य्-अन्तरङ्गळिल् न्याय-सञ्चारम् पण्ण वॊण्णादु। +++(5)+++
+इदु कॊण्डु व्यक्त्य्-अन्तरङ्गळिल् न्याय-सञ्चारम् पण्णव् ऒण्णादु। +++(5)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>

@@ -84,7 +84,7 @@ como dotada de los atributos que la definen.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्द स्व-रूपत्तैच् चॊल्लुम् पोदु 
-अव्व्-ओ धर्मङ्गळैय् इट्ट्-अल्लदु सॊल्ल-वॊण्णादु.
+अव्व्-ओ धर्मङ्गळैय् इट्ट्-अल्लदु सॊल्लव् ऒण्णादु.
 </details>
 
 <details><summary>English</summary>
