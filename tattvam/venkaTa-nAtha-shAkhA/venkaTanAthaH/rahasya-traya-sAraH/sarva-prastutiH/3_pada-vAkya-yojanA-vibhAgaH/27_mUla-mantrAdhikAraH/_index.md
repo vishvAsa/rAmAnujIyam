@@ -99,6 +99,13 @@ y por herejes (dentro de ese redil)
 ॥ तदेवं पदवाक्यार्थैस्तत्त्वविद्गुरुदर्शितैः । तत्तत्कुदृष्टिकथितं निरस्तं योजनान्तरम् ॥
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि पत्तु योजऩैयुम् तत्त्ववित्तुक्कळाऩ नम् पूर्वाचार्यर्गळाले सम्प्रदायत्तैयनुसरित्तु सॊल्लप् पट्टबडियाल् इवैगळाले मूलमन्त्रत्तिऱ्कु कुदृष्टिकळाले सॊल्लप्पट्ट आभासङ्गळाऩ योजनान्तरङ्गळ् अर्थान्निरस्तप्रायङ्गळॆऩ्गिऱार् तदेवमित्यादियाल्। तत् - अन्द पत्तु योजऩैयिलुम् शाब्दमागवो आर्थमागवो तत्त्वहितपुरुषार्थानुसन्धानत्तिऩ् पूर्तियुण्डागैयाल्, तत्त्वविद्गुरुदर्शितैः - यथार्थवित्तुक्कळाऩ नम् पूर्वाचार्यर्गळाल् काण्बिक् कप्पट्ट, एवं – एतादृशङ्गळाऩ, पूर्वोक्तङ्गळाऩ ऎऩ्ऱबडि। पदवाक्यार्थैः – पदार्थङ्गळालुम् वाक्यार्थङ्गळालुम्, तत्तत्कुदृष्टिकथितं - अव्वो कुदृष्टिकळाल् सॊल्लप्पट्ट, योजनान्तरम् - कुदृष्टिकथितमागैयाल् आभासप्रायमाऩ योजनान्तरम्, निरस्तम् - निराकरिक्कप्  
+पट्टदु।  
+</details>
+
+
 ## ज्ञातृ-प्रशस्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -694,6 +701,13 @@ Los significados de la palabra "Viṣṇu" como **derivados** de la raíz Vish q
 सर्व-व्यापकत्वं, सर्वाधारत्वं, तद्-गत-दोष-रहितत्वं, क्रीडा-विजिगीषादिमत्त्वम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+वासुदेव-शब्दे ऽपि "वसति वासयति" +इति, “दीव्यति" +इति च प्रतीताः  
+सर्व-व्यापकत्वं, तद्-गत-दोष-रहितत्वं, क्रीडा-विजिगीषादिमत्त्वम् 
+</details>
+
+
 <details><summary>English</summary>
 
 and so also the meanings of the Vāsudeva **derived** from ‘vasati’, ‘vasayati’, which mean respectively,  
@@ -735,6 +749,13 @@ y Su **voluntad de conquistar** -
 नारायण-शब्दार्थत्तिले एक-देशम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य् एते आकाराश् च  
+सर्वे ऽपि नारायण-शब्दार्थस्यैक-देशाः ॥
+</details>
+
+
 <details><summary>English</summary>
 
 all these meanings **are contained** in parts of the word “ Nārāyaṇa".
@@ -770,6 +791,7 @@ todos estos significados **están contenidos** en partes de la palabra "Nārāya
 यच् चान्यद् अपि वाङ्मयं॥’’  
 (नारदीय-कल्पः १-९) 
 
+इत्य्-उक्तत्वाद्
 </details>
 
 
@@ -806,6 +828,13 @@ es decir, los Vedas, a saber, Rik, Yajus, Saman y así también Atharvan y otras
 इत्-तिरुव् अष्टाक्षरमे  
 मुमुक्षुक्कळुक्कु तत्त्व-हितानुबन्धिगळ् आऩ सर्वापेक्षितङ्गळुक्कुम् प्रकाशकम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं श्रीमद्-अष्टाक्षर एव  
+मुमुक्षूणां तत्त्व-हितानुबन्धि--सर्वापेक्षित-प्रकाशकः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -846,6 +875,7 @@ en relación con el tattva (Verdad) y hita (el medio o upāya para **alcanzar** 
 स तस्य फलम् **अश्नुते**॥’’  
 (नारदीयम् १-१०) 
 
+इत्य्-उक्तेर्
 </details>
 
 <details><summary>विषयः</summary>
@@ -882,6 +912,12 @@ Una sola **expresión** de este mantra **es** igual a una **repetición** de tod
 इदिऩ्-उडैय सकृद्-उच्चारणम् सर्व-वेद-जप-तुल्यम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य सकृद्-उच्चारणं सर्व-वेद-जप-तुल्यम् ।
+</details>
+
+
 <details><summary>English</summary>
 
 A single **utterence** of it **is** equal to frequent **repetitions** of all the vedas.
@@ -917,6 +953,7 @@ Una sola **expresión** de ella **es** igual a **repeticiones** frecuentes de to
 प्रभावः **परिमीयते**॥’’  
 (नारदीय-कल्पः १-१४) 
 
+[[P314]] इत्य्-उक्तेः 
 </details>
 
 
@@ -958,6 +995,14 @@ Aunque, como **declaró** en el śloka:
 तिरु-मन्त्रम् अनवच्छिन्न-प्रभावम् आय् इरुक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-स्व-विश्वास-तारतम्यानुरोधेन  
+सिद्धि-तारतम्य-भावे ऽपि  
+महा-विश्वासवत्सु +अयं श्रीमन्त्रो ऽनवच्छिन्न-प्रभावो वर्तते । 
+</details>
+
+
 <details><summary>English</summary>
 
 (though, as **stated** in the śloka),  
@@ -985,6 +1030,12 @@ La potencia (del mantra) **es** ilimitada (incapaz de **ser** medida) en el caso
 इश्-श्लोकत्तिल् इऩ्ऩाराल्+++(=ईदृशैः)+++ परिच्छेदिक्कव् ऒण्णाद् ऎऩ्ऱु विशेषियामैयाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् श्लोके,  
+'अमुकेन न परिमीयते' इत्य् अविशेषणात् 
+</details>
+
 <details><summary>English</summary>
 
 Since in that śloka (100)  
@@ -1009,16 +1060,24 @@ por quien **es** imposible **medir** su potencia,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ’’नर-नारणऩ् आय् उलगत् तरु नूल्  
+> ’’नर-नारणऩ् आय् उलगत् तऱ नूल्  
 सिङ्गामै+++(=निर्ह्रासं)+++ विरित्त्-अवऩ्+++(=विस्तृतवान्)+++’’  
 (पॆरिय-दिरु-मॊऴि १०-६-१)  
 
 ऎऩ्गिऱ बडि
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "नर-नारायण-रूपो लोके धर्म- [पर-मन्त्र-रूप] -शास्त्रम्, यथा न संकुचेत् तथा विस्तारयिता"
+
+इत्य्-उक्त-रीत्या
+</details>
+
+
 <details><summary>मूलम्</summary>
 
-’’नरनारणऩायुलगत्तरु नूल्सिङ्गामै विरित्तवऩ्’’(पॆरियदिरुमॊऴि १०-६-१)  ऎऩ्गिऱबडि
+’’नरनारणऩायुलगत् तऱनूल्सिङ्गामै विरित्तवऩ्’’(पॆरियदिरुमॊऴि १०-६-१)  ऎऩ्गिऱबडि
 </details>
 
 

@@ -181,6 +181,14 @@ An appreciable level of incarnation by use of svAtantrya would be that of "rudra
 साक्षात्कृतश् च कश्चन महान् विद्वान् अद्वैतादि-पारङ्गतः कविवरो गौरवान्वितः शङ्कराभिमानी सन्ध्यावन्दनाद्युपेक्षापरो ऽसन्न्यासी (आश्रमतः) ।   
 ब्रह्मज्ञानिनम् आत्मानम् मन्यते।
 
+किञ्च -
+
+> Addressed here is the misconception that Advaita waives all niyama-s ("injunctions") and anuṣṭhāna-s ("observances"), with the clarification that the teaching is not drop karma, but to reach a stage where karma drops off on its own.
+> 
+> Source: [TW](https://t.co/RhSctNT1Hy)
+
+इत्य् अर्वाचीनाः। 
+
 ### ईश्वरः
 तदीय "ईश्वरो" ऽविद्याग्रस्तो जीवन्मुक्तवद् अपि, यतः कर्म-बन्ध-मोक्षादिषु व्यवहरति।
 
