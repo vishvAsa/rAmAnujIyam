@@ -105,6 +105,12 @@ y por herejes (dentro de ese redil)
 इत् तिरु-मन्त्रत्तिल् बाह्य-कुदृष्टि-मतङ्गळाल् कलक्कव् ऒण्णाद+++(=अयुज्यत्)+++ तॆळिव् उडैयवऩै 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् श्रीमन्त्रे बाह्य-कुदृष्टि-मताक्षोभ्य- विशद-ज्ञानवन्तम्, 
+</details>
+
+
 <details><summary>English</summary>
 
 The man who **has attained** a clear and sure **knowledge** of Tirumantra  
@@ -143,6 +149,7 @@ que **no puede ser sacudido** por aquellos fuera de los límites de la religión
 ह्य् **अ-ज्ञान् प्राज्ञः प्रपश्यति**॥’’  
 (भारतम् शान्ति-पर्व ४५०-११) 
 
+इति वर्णयति ।
 </details>
 
 <details><summary>विषयः</summary>
@@ -194,6 +201,8 @@ como un hombre en la cima de una montaña
 > ‘‘ज्ञानेन हीनः पशुभिस् समानः’’  
 (नर-सिंह-पुराणम् १६-१३)  
 
+इत्य्-उक्तं ज्ञानम् अपि 
+अयं प्रबोध एव । 
 </details>
 
 <details><summary>English</summary>
@@ -242,12 +251,15 @@ Aquellos que **no tienen conocimiento son** como animales"
 
 <details><summary>नीलमेघः (सं)</summary>
 
+इत्थं प्रबोधवान्, 
+
 > ‘‘**न प्रहृष्यति** सम्माने  
 **नावमाने ऽनुतप्यते** ।  
 गङ्गा-ह्रद इवाक्षोभ्यो  
 यस् स **पण्डित उच्यते**॥’’  
 (भारतम् उद्योग-पर्व ३३-३३) 
 
+इत्य्-उक्त-रीत्या मानावमानयोर् न क्षुभ्येत्। 
 </details>
 
 <details><summary>विषयः</summary>
@@ -295,6 +307,13 @@ o **dolido** por **censura**".
 आदरिक्कुम् देशत्तिलुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् श्रीमन्त्रे  
+यथार्थ-ज्ञानं निष्ठां च वहन्तम् आद्रियमाणे देशे, 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इत्तिरुमन्त्रत्तिल् यथार्थज्ञानमुम् निष्ठैयैयुमुडैयवऩै आदरिक्कुम् देशत्तिलुम् 
@@ -319,6 +338,7 @@ o **dolido** por **censura**".
 व्याधि--दुर्भिक्ष-तस्कराः॥’’ +++(4)+++  
 (नारदीयम् १-२०) 
 
+इत्य्-उक्त-रीत्या
 </details>
 
 <details><summary>विषयः</summary>
@@ -349,6 +369,11 @@ no habrá enfermedades, ni hambruna ni miedo a los ladrones".
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऒरु दोषङ्गळुम् वारादु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कश्चिद् अपि दोषो नोपनमेत् । 
 </details>
 
 <details><summary>English</summary>
@@ -384,12 +409,15 @@ Como **declaró** en este śloka:
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अनेन श्लोकेन, 
+
 > १४०‘‘ रागादि-रोगान् **सततानुषक्तान्**  
 अशेष-काय-**प्रसृतान्** अशेषान् ।  
 औत्सुक्य-मोहारति-**दान्** **जघान**  
 यो, ऽपूर्व-वैद्याय नमो **ऽस्तु** तस्मै’’  
 (वाग्भटः) 
 
+इत्य् आयुर्वेद-विद्भिः
 </details>
 
 <details><summary>विषयः</summary>
@@ -436,6 +464,12 @@ de **acuerdo** con la declaración anterior en Vāgbhatam,
 प्रधान-व्याधिगळ् आगव् ऎडुत्त रागादिगळुम्  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रधान-व्याधित्वेनोपात्ता रागादयः, 
+</details>
+
+
 <details><summary>English</summary>
 
 that (in the land where a knowledge of Tirumantra **is honoured**) there **will be**  
@@ -457,6 +491,12 @@ no enfermedades principales como rāga o deseo,
 
 सत्तुक्कळुक्कु श्रीय् ऎऩ्ऱ् ओदप् पट्ट ज्ञान-संपत्तिऩ्-उडैय सङ्कोचमुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+'सतां श्रीः' इत्य् आम्नाताया ज्ञान-संपत्तेः संकोचः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -482,6 +522,14 @@ porque **el conocimiento ha sido descrito** como riqueza o Śrī (de buenas pers
 नडैय् आडाद्  
 ऎऩ्ऱद् आयिऱ्ऱु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+बाह्य-तस्करासाध्यात्मापहारादि-कर्तारो महा-तस्कर-भूता अहंकारादयश् च  
+न संचरेयुर् इति सिद्धम् ॥
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -530,6 +578,13 @@ OTROS MANTRAS VYĀPAKA
 व्यापक-मन्त्रान्तरङ्गळुक्कुम् पॊरुळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् श्रीमन्त्रे निर्णीतो ऽर्थ एव  
+विष्णु-वासुदेव-शब्द-विशिष्टयोर् व्यापक-मन्त्रान्तरयोर् अप्य् अर्थः । 
+</details>
+
+
 <details><summary>English</summary>
 
 The ideas **contained** in the other Vyapaka mantras  
@@ -575,6 +630,7 @@ que **han sido declarados** como existentes en Tirumantra.
 देवस्य परमात्मनः॥’’  
 (अहिर्बुध्न्यसंहिता ५२-३८) 
 
+इत्य् अहिर्बुध्न्यादि-निरुक्त-रीत्या
 </details>
 
 <details><summary>English</summary>
@@ -607,6 +663,12 @@ y **decisivo** de que Él **sea** la Deidad Suprema".
 
 ‘‘विषॢ व्याप्तौ’’, ‘‘वश कान्तौ’’, ‘‘विश प्रवेशने’’, ‘‘इषु इच्छायां’’ ऎऩ्गिऱ धातुक्कळिले निष्पन्नम् आऩ विष्णु-शब्दत्तिल् उळ्ळ पॊरुळ्गळुम्,
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+‘‘विषॢ व्याप्तौ’’, ‘‘वश कान्तौ’’, ‘‘विश प्रवेशने’’, ‘‘इषु इच्छायां’’ इति धातु-निष्पन्न-विष्णु-शब्दोक्ता अर्थाः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -920,8 +982,24 @@ La potencia (del mantra) **es** ilimitada (incapaz de **ser** medida) en el caso
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इश्-श्लोकत्तिल् इऩ्-ऩाराल् परिच्छेदिक्कव् ऒण्णादॆऩ्ऱु विशेषियामैयाले 
+इश्-श्लोकत्तिल् इऩ्ऩाराल्+++(=ईदृशैः)+++ परिच्छेदिक्कव् ऒण्णाद् ऎऩ्ऱु विशेषियामैयाले 
 </details>
+
+<details><summary>English</summary>
+
+Since in that śloka (100)  
+it **is not specifically stated**  
+by whom it **is** impossible to measure its potency,  
+
+</details>
+
+<details><summary>Español</summary>
+
+Ya que en ese śloka (100)  
+**no se indica** específicamente  
+por quien **es** imposible **medir** su potencia,  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -929,8 +1007,31 @@ La potencia (del mantra) **es** ilimitada (incapaz de **ser** medida) en el caso
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Since in that śloka (100) it is not specifically stated by whom it is impossible to measure its potency, it may be inferred that even Nārāyaṇa who propagated this mantra, who is the subject of this mantra and who is, by nature, omniscient and who incarnated as Nara and Nārāyaṇa and propagated (by precept and practice) the Scripture without letting it become extinct-that even Nārāyaṇa knows that its potency is not capable of **being** measured. Tirumaṅgai Alvar who wis initiated into this mantra and its meaning by the seer of this mantra (Bhagavān, who is also its deity, has declared as follows:- "If thou shouldst, with the help of the mantra of eight letters, always enjoy Bhagavān, who appears at the end of the Vedas which form the wealth of Brahmins, thou shalt be happy."
+> ’’नर-नारणऩ् आय् उलगत् तरु नूल्  
+सिङ्गामै+++(=निर्ह्रासं)+++ विरित्त्-अवऩ्+++(=विस्तृतवान्)+++’’  
+(पॆरिय-दिरु-मॊऴि १०-६-१)  
+
+ऎऩ्गिऱ बडि
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’नरनारणऩायुलगत्तरु नूल्सिङ्गामै विरित्तवऩ्’’(पॆरियदिरुमॊऴि १०-६-१)  ऎऩ्गिऱबडि
+</details>
+
+
+
+it **may be inferred** that  
+even Nārāyaṇa **who** propagated this mantra,  
+who **is** the subject of this mantra  
+and who **is**, by nature, **omniscient**  
+and who **incarnated** as Nara and Nārāyaṇa  
+and **propagated** (by precept and practice) the Scripture  
+without **letting** it **become extinct**-  
+that even Nārāyaṇa **knows** that its potency  
+**is not capable** of **being measured**. Tirumaṅgai Alvar who wis initiated into this mantra and its meaning by the seer of this mantra (Bhagavān, who is also its deity, has declared as follows:- "If thou shouldst, with the help of the mantra of eight letters, always enjoy Bhagavān, who appears at the end of the Vedas which form the wealth of Brahmins, thou shalt be happy."
 
 
 

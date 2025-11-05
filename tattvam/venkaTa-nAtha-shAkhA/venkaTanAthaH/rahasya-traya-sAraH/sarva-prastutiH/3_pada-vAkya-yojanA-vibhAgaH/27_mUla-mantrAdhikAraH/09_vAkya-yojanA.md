@@ -5336,11 +5336,20 @@ En el jīva que **ha perdido** aquello a lo que **tiene derecho**,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ऎऩ् कूऱु नाऩ् पॆऱ वेणुम्,  
+> ऎऩ् कूऱु+++(=भागं)+++ नाऩ् पॆऱ वेणुम्,  
 अदुक्क् आगव् ऎऩ्ऩ् अपराधत्तैप् पॊऱुत्त्+++(=क्षान्त्वा)+++ अरुळ वेणुम् 
 
 ऎऩ्ऱ् अपेक्षिक्कैयिल् विरोधम् इल्लै।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> 'मद्-भागो मया लब्धव्यः ;  
+तद्-अर्थं मदीयम् अपराधं कृपया क्षमस्व'  
+
+इत्य् अपेक्षणे विरोधो नास्ति ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5369,15 +5378,27 @@ en **orar** así:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्ताल् प्रतिबन्धक-निवृत्तियिल्  
+इत्ताल् 
+
+> प्रतिबन्धक-निवृत्तियिल्  
 माणिक्कत्तिल् ऒळियुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनेन, 
+
+> प्रतिबन्धक-निवृत्तौ  
+माणिक्ये तेजः, 
+</details>
+
 
 <details><summary>English</summary>
 
 From the passages **quoted** above,  
 it **would appear** also that  
-just when the **hindrance is removed**  
+
+> just when the **hindrance is removed**  
 the **radiance** natural to the gem  
 **begins to shine**,  
 </details>
@@ -5386,7 +5407,8 @@ the **radiance** natural to the gem
 
 De los pasajes **citados** arriba,  
 **parecería** también que  
-justo cuando **se elimina** el **obstáculo**  
+
+> justo cuando **se elimina** el **obstáculo**  
 el **resplandor** natural de la gema  
 **comienza a brillar**,  
 </details>
@@ -5399,31 +5421,39 @@ el **resplandor** natural de la gema
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘इच्छात एव तव विश्व-पदार्थ-सत्ता’’(वैकुण्ठ-स्तवः ३६) 
-
-ऎऩ्गिऱ बडिये  
+> > ‘‘इच्छात एव तव विश्व-पदार्थ-सत्ता’’(वैकुण्ठ-स्तवः ३६) 
+> 
+> ऎऩ्गिऱ बडिये  
 नियतैय् आऩ ईश्वरेच्छैयाले परम्बुमाप्+++(=विस्तृणद्)+++ पोले
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘इच्छात एव तव विश्व-पदार्थ-सत्ता’’(वैकुण्ठ-स्तवः ३६) 
+> 
+> इत्य्-उक्त-रीत्या नियतयेश्वरेच्छया यथा प्रसरति
+</details>
+
+
 <details><summary>English</summary>
 
-as **stated** in -  
-
-> " All things **exist** as such  
+> as **stated** in -  
+> 
+> > " All things **exist** as such  
 only by Thy will", 
-
-by the will of God,
+> 
+> by the will of God,
 
 </details>
 
 <details><summary>Español</summary>
 
-como **se declaró** en -  
-
-> "Todas las cosas **existen** como tales  
+> como **se declaró** en -  
+> 
+> > "Todas las cosas **existen** como tales  
 solo por Tu voluntad", 
-
-por la voluntad de Dios,
+> 
+> por la voluntad de Dios,
 </details>
 
 
@@ -5440,9 +5470,18 @@ por la voluntad de Dios,
 ऎऩ्ऩुम् इडन् तोऱ्ऱुगिऱदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> तथात्रापि स्वाभाविका ज्ञान-विकासादयः  
+सहज-कारुण्य-रूपयेश्वरेच्छयोपनमन्ति
+
+इत्य् एतत् प्रतीयते ।
+</details>
+
+
 <details><summary>English</summary>
 
-so also such things as the expansion of jñāna  
+> so also such things as the expansion of jñāna  
 which naturally **belong** to the Jīva,  
 **are manifested** as a result of the Lord's will,  
 which **is** of the form of the compassion natural to Him.
@@ -5450,7 +5489,7 @@ which **is** of the form of the compassion natural to Him.
 
 <details><summary>Español</summary>
 
-así también cosas como la **expansión** de jñāna  
+> así también cosas como la **expansión** de jñāna  
 que naturalmente **pertenecen** al Jīva,  
 **se manifiestan** como **resultado** de la voluntad del Señor,  
 que **es** de la forma de la compasión natural a Él.
@@ -5463,11 +5502,20 @@ que **es** de la forma de la compasión natural a Él.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> आऩालुम् भावान्तराभाव-पक्षत्तिल्  
+> आऩालुम् भावान्तराभाव-पक्षत्तिल् +++(→"भावान्तरम् एवाभावः")+++  
 सर्वानिष्ट-निवृत्ति-ताऩे इष्ट-प्राप्तिय् आय् इरुक्कत्  
 तऩित्तुच् चॊऩ्ऩाल्  
 पुनर्-उक्ति वारादो?
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अथापि भावान्तराभाव-पक्षे +++(→"भावान्तरम् एवाभावः")+++  
+सर्वानिष्ट-निवृत्ताव् एवेष्ट-प्राप्ति-रूपायां सत्यां  
+पार्थक्येनोक्तौ  
+पुनरुक्तिः किं न भवति ? 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5530,6 +5578,16 @@ esa **inexistencia** o la **ausencia** de una cosa (abhava)
 ऎऩ्ऩिल्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> > ‘‘अ-विद्या-निवृत्तिर् एव हि मोक्षः’’(श्रीभाष्यम्, लघु-सिद्धान्तः।) 
+> 
+> इति भाष्य-कारः किं नानुगृहीतवान् 
+
+इति चेत्—
+</details>
+
+
 <details><summary>English</summary>
 
 > Besides has not the author of Śrī Bhāṣya **declared**:  
@@ -5583,6 +5641,14 @@ A esa **pregunta** la **respuesta es** la **siguiente**: -
 प्रयोजन-विशेषाभिसन्धियाले पिरियच् चॊल्लक् कडवद् आय् इरुक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एकम् एव स्वरूपेण प्रतियोगिना च निरूपितं सत्  
+प्रयोजन-विशेषाभिसन्धिना  
+पृथङ् निर्देष्टुं युज्यते । 
+</details>
+
+
 <details><summary>English</summary>
 
 For the sake of some purpose,  
@@ -5619,6 +5685,14 @@ debido a la intención de **significar** un propósito especial.
 इरुक्कुम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+संसार-दशायां काचित् प्रतिकूल-निवृत्तिः  
+प्रतिकूलान्तर-रूपा,  
+अनुकूल-प्रतिकूलोभय-निवृत्ति-रूपा च भवति । 
+</details>
+
+
 <details><summary>English</summary>
 
 In the state of saṁsāra, the **disappearance** of something that **is undesirable**  
@@ -5646,6 +5720,13 @@ y lo que **no es deseable** igual.
 इङ्गु सर्व-प्रतिकूल--निवृत्तिय् आगैयाले  
 मेल् मुऴुक्क अनुकूलमेय् आय् इरुक्कुम्।+++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र सर्व-प्रतिकूल-निवृत्ति-भावात्  
+अग्रे कृत्स्नम् अनुकूलम् एव भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5675,6 +5756,16 @@ lo que **queda es** todo agradable.
 तोऱ्ऱु+++(=उद्भाव्य)+++ विक्कैक्क् आग  
 आदरातिशयत्ताले पिरियव् अपेक्षिक्किऱदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः पूर्वावस्थाया अनिष्टतमत्वं  
+केवलानुकूल-रूपाया उत्तरावस्थाया इष्टतमत्वं च प्रकाशयितुम्  
+आदरातिशयात् पृथग् अपेक्षा क्रियते ।  
+[[P310]]
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5710,6 +5801,14 @@ ya que (**está libre** de todos los elementos indeseables y) **tiene** solo lo 
 पिरियव् अपेक्षिक्किऱद् आगवुम् आम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवन्-निग्रहादि-निवृत्तेर्  
+जीव-गत-ज्ञान-विकासादेश् च भिन्नत्वात्  
+पृथग् अपेक्ष्यत इति च भवतु । 
+</details>
+
+
 <details><summary>English</summary>
 
 Further the two **have to be stated** separately,  
@@ -5740,6 +5839,15 @@ y cosas tales como la **expansión** del **conocimiento** del jīva
 वेऱु-पट्ट्-अवैय् आगैयाले  
 पिरिय अपेक्षिक्कक् कुऱैय् इल्लैय् इऱे।  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ज्ञान-संकोचादि-हेतु-भूत-- भगवन्-निग्रहादि-निवृत्तिः,  
+निग्रह-फल-भूत-- ज्ञान-संकोचादि-निवृत्ति-रूपा ज्ञान-विकास-कैङ्कर्यादयश् च  
+भिन्ना इति  
+पृथग्-अपेक्षणे न दोषः किल । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5773,6 +5881,14 @@ que **fueron los resultados** de ese **castigo**.
 सर्वानिष्ट-निवृत्ति पिऱन्दाल्  
 पाषाण-कल्पत्वादि-मतान्तर-शङ्कै वारामैक्क् आगवुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वानिष्ट-निवृत्तौ जातायां  
+पाषाण-कल्पत्वादि-मतान्तर-शङ्काया अपसारणार्थम्,  
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5813,6 +5929,17 @@ los dos (oraciones) **se afirman** como **separados**
 पिरित्तुच् चॊल्लुगिऱद् आगवुमाम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> भगवत्-प्राप्तौ  
+इन्द्रादि-प्राप्ताव् इव दुःख-संबन्धो नास्ति
+
+इति प्रत्यायने तात्पर्याच् च  
+पृथग्-उक्तिर्  
+इति च भाव्यम् ।
+</details>
+
+
 <details><summary>English</summary>
 
 This **is** also another reason for two separate prayers - 
@@ -5842,6 +5969,12 @@ así como **hay** en **alcanzar** estados tales como la posición de Indra.
 इप्पडि स्वरूपमुम्, पुरुषार्थ-प्रार्थनमुम् शाब्दम् आऩाल् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं स्वरूपस्य पुरुषार्थ-प्रार्थनस्य च शाब्दत्वे  
+</details>
+
+
 <details><summary>English</summary>
 
 Thus if it is held that the svarūpa and the prayer **are expressed** explicitly by the words themselves, 
@@ -5867,6 +6000,16 @@ Por lo tanto, si **se sostiene** que el svarūpa y la oración **se expresan** e
 अ-किञ्चनऩुक्क् अन्-इष्ट-निवृत्तियैच् चॊल्लुगिऱ नमस्सिलेय्  
 आर्थम् आग अनुसन्धेयम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य पुरुषार्थस्य साधनत्वेन  
+शास्त्र-विहितः साध्योपायो ऽपि  
+भर-न्यास-पर्यन्ततया,  
+अकिञ्चनस्यानिष्ट-निवृत्तिं प्रतिपादयति नमसि  
+आर्थत्वेनानुसन्धेयः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5912,8 +6055,16 @@ como **resultado** de Bharanyāsa.
 इप् +++("नारायणाय स्याम्"→)+++ पुरुषार्थ-प्रार्थऩै  
 इच्छा-मात्रम् आय् इरुक्कैय् अऩ्ऱिक्के  
 गोप्तृत्व-वरण-रूपैय् आगैयाले  
-शेषम् उपलक्षितम् आगवुम् आम्। 
+शेषम् +++(प्रपत्त्य्-अङ्ग-जातम्)+++ उपलक्षितम् आगवुम् आम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्याः +++("नारायणाय स्याम्"→)+++ पुरुषार्थ-प्रार्थनाया  
+इच्छा-मात्र-रूपत्वातिरेकेण गोप्तृत्व-वरण-रूपत्वात्  
+शेषम् +++(प्रपत्त्य्-अङ्ग-जातम्)+++ उपलक्षितम् इति वास्तु । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5940,6 +6091,12 @@ El aṅga y otros accesorios **pueden considerarse** también como implícitos y
 अप्-पोदु तिरु-मन्त्रम् स्वरूपोपाय-प्रधानम् आय् इरुक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तदा श्री-मन्त्रः स्वरूपोपाय-प्रधानो भवति । 
+</details>
+
+
 <details><summary>English</summary>
 
 The Tirumantra would then mainly **indicate** the svarūpa and upāya. 
@@ -5960,6 +6117,12 @@ El Tirumantra entonces **indicaría** principalmente el svarūpa y upāya.
 
 अयन-शब्दत्तिल् करण-व्युत्पत्तियाले ईश्वरऩ्-उडैय उपायत्वमुम् सिद्धिक्कुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयन-शब्दे करण-व्युत्पत्त्येश्वरस्योपायत्वं सिध्यति ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6056,6 +6219,12 @@ y que las otras dos palabras namas y Nárāyaṇāya **expresan** el **logro** d
 अडैवे+++(=क्रमशः)+++ शाब्दम् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् श्रीमन्त्रे स्वरूपोपाय-पुरुषार्थास् त्रयो ऽपि क्रमेण शाब्दाः । 
+</details>
+
+
 <details><summary>English</summary>
 
 Tirumantra **may be considered** also as **stating** all the three, viz., svarūpa, upāya and puruṣārtha in that order. 
@@ -6078,6 +6247,15 @@ Tirumantra **puede ser considerado** también como **declarando** los tres, a sa
 नमस्सु उपाय-परम्,  
 शेषम् पुरुषार्थ-प्रार्थना-परम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तदा प्रणवः स्वरूप-परः ;  
+नमः-शब्द उपाय-परः;  
+शेषः पुरुषार्थ-प्रार्थना-परः । 
+</details>
+
+
 <details><summary>English</summary>
 
 In this case  
@@ -6110,6 +6288,16 @@ o el **logro** del fin en vista.
 इङ्गे अनुसन्धेयम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एषां त्रयाणां विस्तारः सर्वो ऽपि  
+अध्यात्म-शास्त्रे विशदं बुध्वा  
+अत्रानुसन्धेयः । 
+</details>
+
+
+
+
 <details><summary>English</summary>
 
 The details concerning these three  
@@ -6134,6 +6322,14 @@ Los detalles relativos a estos tres
 इन्द योजऩैक्कु  
 वेदान्त-शास्त्रत्तिल् तत्त्वोपाय-पुरुषार्थङ्गळै निरूपित्त क्रमत्तोडु सेर्त्तिय् उण्डु, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P311]]  
+अस्या योजनाया वेदान्त-शास्त्र-स्थ-- तत्त्वोपाय-पुरुषार्थ-निरूपण-क्रमेण सह  
+सादृश्यम् अस्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6160,6 +6356,19 @@ La **construcción** o **interpretación** **dada** arriba de Tirumantra
 - तृतीयत्ताले अधिकार-परिकरङ्गळोडे कूडिऩ उपायञ् जॊल्लि  
 - चतुर्थत्ताले फलञ् जॊल्लिय् इऱे शारीरक-शास्त्रन् तलैक् कट्टिऱ्ऱु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कथम् इति चेत् — 
+
+- आद्याध्याय-द्वयेन परावर-तत्त्वानि विशदं प्रतिपाद्य 
+- तृतीयेनाधिकार-सहितम् उपायम् उक्त्वा  
+- चतुर्थेन फलं प्रतिपाद्य किल  
+
+शारीरक-शास्त्रं परिसमाप्तं भवति । 
+</details>
+ 
+
 
 <details><summary>English</summary>
 
@@ -6201,6 +6410,14 @@ y en el cuarto capítulo, el fruto o el **logro** de la meta **se explica** por 
 स्व-तन्त्र--प्रपत्ति-निष्ठऩुक्कुम् तुल्यम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्र आद्याध्याय-द्वयोक्तं परावर-तत्त्व-स्वरूपं  
+चतुर्थाध्यायोक्तं फलं च  
+स्वतन्त्र-प्रपत्ति-निष्ठस्यापि तुल्यम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 The essential nature of the Supreme Real and that of the lower reals **explained** in the first two chapters (adhyāyas )  
@@ -6230,6 +6447,16 @@ que **ha adoptado** prapatti como un medio directo e independiente o upāya.
 शरण्यऩ्-उडैय हेय-प्रत्यनीक-- कल्याणैकतानत्वमुम्  
 मुमुक्षुव् आऩ इवऩुक्क् अवश्यम् **ज्ञातव्यम्**।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+
+तृतीयाध्याये वैराग्य-पादे, उभय-लिङ्ग-पादे चोक्ते  
+संसार-दोषः शरण्य-गत-प्रत्यनीक-कल्याणैकतानत्वं च  
+मुमुक्षुणा ऽनेनावश्यं ज्ञातव्ये । 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -6262,6 +6489,12 @@ que **es** un **aspirante** a mukti.
 अवऱ्ऱुक्क् अधिकारिगळ् आऩ्-अवर्गळ् अनुष्ठिक्कक् कडवर्गळ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तृतीय-पादे उपायतयोक्तान् उपासन-भेदान्  
+तद्-अधिकारिणो ऽनुष्ठातुम् अर्हन्ति । 
+</details>
+
 <details><summary>English</summary>
 
 The different forms of **meditation** or **worship** (upāsana) of Brahman,  
@@ -6289,6 +6522,13 @@ de los que **se tratan** en la tercera sección (pāda) del tercer capítulo (de
 अकिञ्चनऩ् आऩ अधिकारि  
 तऩक्क् अवऱ्ऱिऩ् अरुमैयैक् कण्डु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अकिञ्चनो ऽधिकारी  
+स्वस्य तद्-दौर्लभ्यं दृष्ट्वा, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6378,6 +6618,12 @@ ya que **no hay** diferencia en la fruta **resultante**).
 ऎऩ्गिऱ अधिकरणङ्गळिऱ् सॊऩ्ऩ कट्टळैयिले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-अधिकरणोक्त-न्यायेन
+</details>
+
+
 <details><summary>English</summary>
 
 For, as stated in the above sub-sections:- 
@@ -6398,9 +6644,17 @@ Porque, como **se indicó** en las subsecciones anteriores:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्यान्तर-व्यावृत्तम् आय्  
-अवै कॊडुक्कुम् मोक्षत्तैक् कॊडुक्कुम्+++(→पुरस्-करणस्य)+++ इडत्तिल्  
-निर्-अपेक्षमुम् आऩ न्यासत्तैये पऱ्ऱक् कडवऩ्।
+अवै कॊडुक्कुम् मोक्षत्तैक् कॊडुक्कुम् इडत्तिल्+++(→विषये)+++ निर्-अपेक्षमुम् आऩ  
+न्यासत्तैये पऱ्ऱक् कडवऩ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+विद्यान्तर-व्यावृत्तम्,  
+तत्-प्रदेय-मोक्ष-प्रदाने निरपेक्षं च  
+न्यासम् एवादर्तुम् अर्हति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6429,6 +6683,13 @@ y al **producir** el fruto **conferido** por ellos,
 
 नाऩ्गाम् पादत्तिऱ् सॊऩ्ऩ वर्णाश्रम-धर्मङ्गळै उपासननिष्ठऩ्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+चतुर्थ-पादोक्तान् वर्णाश्रम-धर्मान्  
+उपासन-निष्ठः 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6459,6 +6720,8 @@ los derechos y deberes **pertenecen** a su varṇa (casta) y āśrama (etapa de 
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘सहकारित्वेन च’’ (ब्रह्मसूत्रम् ३-४-३३) 
+
+इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -6487,6 +6750,12 @@ Como **declaró** en Brahma Sūtras (3.4.33).
 विद्या-परिकरम् आग अनुष्ठिक्कुम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+विद्या-परिकरत्वेनानुतिष्ठेत् । 
+</details>
+
+
 <details><summary>English</summary>
 
 **should be performed** as an accessory or aṅga to the vidyā or form of **meditation**. 
@@ -6507,6 +6776,12 @@ Como **declaró** en Brahma Sūtras (3.4.33).
 
 स्व-तन्त्र-प्रपत्ति--निष्ठऩ् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वतन्त्र-प्रपत्ति-निष्ठः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6533,6 +6808,8 @@ El hombre que **ha adoptado** prapatti como un upāya directo e independiente
 <details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘विहितत्वाच् चाश्रमकर्मापि’’ (ब्रह्मसूत्रम् ३-४-३२) 
+
+इत्य्-उक्त-रीत्या
 </details>
 
 <details><summary>English</summary>
@@ -6562,6 +6839,13 @@ Los Yajnas y otros ritos **se convierten** en los **deberes** de los (respectivo
 भगवद्-आज्ञा-सिद्धम् ऎऩ्ऱु स्वयं-प्रयोजनम् आग अनुष्ठिक्कुम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवद्-आज्ञा-सिद्धत्व-धिया  
+स्वयं-प्रयोजनत्वेनानुतिष्ठेत् । 
+</details>
+
+
 <details><summary>English</summary>
 
 **should perfom** these rites and duties as **having been enjoined** by Bhagavān  
@@ -6590,6 +6874,14 @@ y por su propio bien (**sin esperar** ninguna **ganancia** o recompensa).
 श्रीमद्-अष्टाक्षरान्तस्-स्थङ्गळ्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं सति  
+शारीरकोक्ताः स्वरूपोपाय-पुरुषार्थाः सर्वे ऽपि  
+श्रीमद्-अष्टाक्षरान्तस्थाः ।
+</details>
+
+
 <details><summary>English</summary>
 
 If this **is understood**,  
@@ -6615,8 +6907,14 @@ que **se explican** en los Śāstras de Sārīraka (sūtras de Brahma)
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदिल् अर्थ-पञ्चकादिगळ् किडक्किऱ वगुप्प्+++(=विभागम्)+++ ऎल्लाङ्  
-कीऴे सॊऩ्ऩोम्। 
+कीऴे सॊऩ्ऩोम् +++(चतुर्थाधिकारे)+++। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्रार्थ-पञ्चकादीनाम् अन्तर्भाव-प्रकारान् सर्वान् अधस्ताद् अवोचाम +++(चतुर्थाधिकारे)+++।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6655,6 +6953,15 @@ SUMMARY OF THE TEN INTERPRETATIONS OF TIRUMANTRA GIVEN ABOVE:
 +++(नमस्क्रियया→)+++ उपायपरम् ऎऩ्ऱुम्,  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं श्रीमन्त्र  
+एक-वाक्य-रूपत्वे 
+
+(1) उपाय-पर इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 When the Tirumantra **is considered** as a single sentence,  
@@ -6683,6 +6990,12 @@ Cuando el Tirumantra **se considera** como una sola oración,
 +++(कैङ्कर्य-)+++वृत्ति-परम् ऎऩ्ऱुम्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(2) +++(कैङ्कर्य-)+++वृत्ति-पर इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 and  
@@ -6706,6 +7019,13 @@ y
 वाक्य-द्वयम् आऩ बोदु  
 स्व-रूप--परम् ऎऩ्ऱुम्,
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+वाक्य-द्वय-रूपत्वे  
+(3) स्वरूप-पर इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6731,6 +7051,12 @@ Cuando **considerado** como dos oraciones,
 अन्वय-व्यतिरेक-मुखेन समर्पण-परम् ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(4) अन्वय-व्यतिरेक-मुखेन समर्पण-पर इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 and (2) the **surrender** (of the self) by a positive and a negative statement,  
@@ -6753,6 +7079,13 @@ y (2) la **entrega** (del yo) mediante una **declaración** positiva y una negat
 
 पुरुषार्थ-प्रार्थना-परम् ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(5) पुरुषार्थ-प्रार्थना-पर इति, [[P312]] 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -6779,6 +7112,17 @@ y así también (3) como **indicando** una **oración** para el puruṣārtha.
 
 ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+वाक्य-त्रय-रूपत्वे  
+
+(6) प्रथम-पद-द्वयं स्वरूप-परम्  
+अग्रिम-पदं पुरुषार्थ-प्रार्थना-परम् 
+
+इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6812,6 +7156,13 @@ y la tercera palabra **indica** la oración;
 ऎऩ्ऱुम्,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(7) प्रणवः स्वरूप-परो  
+ऽग्रिम-पद-द्वयम् अनिष्ट-निवृत्तीष्ट-प्राप्ति-प्रार्थना-परम् इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 (2) The praṇava **indicates** the essential nature or svarūpa,  
@@ -6842,6 +7193,13 @@ y para el **logro** del fin deseado.
 ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(8) अनया रीत्या प्रथम-पदं स्वरूप-परम्  
+अग्रिम-पद-द्वयम् उपाय-परम् इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 (3) In the same manner,  
@@ -6871,6 +7229,12 @@ y los otros dos **indican** el upāya,
 ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(9) प्रथम-पदं समर्पण-परम् अग्रिम-पद-द्वयं फल-प्रार्थना-परम् इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 (4) the first word **indicates** the **surrender** (of the self)  
@@ -6897,6 +7261,12 @@ y los otros dos **indican** la **oración** para el **logro** del fruto (**desea
 ऎऩ्ऱुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(10) पद-त्रयं क्रमेण तत्त्वोपाय-पुरुषार्थ-प्रार्थना-परम् इति च 
+</details>
+
+
 <details><summary>English</summary>
 
 (5) The three words **indicate** respectively the tattva, the upāya and the puruṣārtha.
@@ -6919,6 +7289,13 @@ y los otros dos **indican** la **oración** para el **logro** del fruto (**desea
 वाक्यार्थत्तैप् पत्तुप् पडिय् आग  
 यथा-संप्रदायम् अनुसन्धिप्पार्गळ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनन्तार्थ-गर्भे ऽस्मिन् श्रीमन्त्रे  
+वाक्यार्थं दश-धा यथा-संप्रदायम् अनुसंदधते ॥ 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6946,6 +7323,14 @@ de **acuerdo** con su respectiva tradición.
 मऱ्ऱ् उळ्ळ् अवैयुम्  
 आर्थम् आगक् कडवदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं केषाञ्चित् प्राधान्येनानुसंधाने ऽप्य्  
+अन्ये संभाविता अप्य्  
+आर्था भवितुम् अर्हन्ति ॥
+</details>
+
 
 <details><summary>English</summary>
 
