@@ -1181,7 +1181,7 @@ por quien **es** imposible **medir** su potencia,
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ’’नर-नारणऩ् आय् उलगत्त् अरु+++(=दुर्ज्ञेयम्)+++-नूल्  
-सिङ्गामै+++(=निर्ह्रासं)+++ विरित्त्-अवऩ्+++(=विस्तृतवान्)+++’’  
+सिङ्गामै+++(=निर्ह्रासं)+++ विरित्त्-अवऩ्+++(=विस्तारयिता)+++’’  
 (पॆरिय-दिरु-मॊऴि १०-६-१)  
 
 ऎऩ्गिऱ बडि
@@ -1189,11 +1189,28 @@ por quien **es** imposible **medir** su potencia,
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> "नर-नारायण-रूपो लोके धर्म- [पर-मन्त्र-रूप] -शास्त्रम्, यथा न संकुचेत् तथा विस्तारयिता"
+> "नर-नारायण-रूपो लोके धर्म- [पर-मन्त्र-रूप] -शास्त्रम्,  
+यथा न संकुचेत्  
+तथा विस्तारयिता"
 
 इत्य्-उक्त-रीत्या
 </details>
 
+
+<details><summary>English</summary>
+
+> (he) who **incarnated** as Nara and Nārāyaṇa  
+and **propagated** (by precept and practice) the Scripture  
+without **letting** it **become extinct**-  
+
+</details>
+
+<details><summary>Español</summary>
+
+> (él) que **encarnó** como Nara y Nārāyaṇa  
+y **propagaron** (por precepto y práctica) la Escritura  
+**sin dejarlo extinguirse**-  
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1206,9 +1223,7 @@ it **may be inferred** that
 even Nārāyaṇa **who** propagated this mantra,  
 who **is** the subject of this mantra  
 and who **is**, by nature, **omniscient**  
-and who **incarnated** as Nara and Nārāyaṇa  
-and **propagated** (by precept and practice) the Scripture  
-without **letting** it **become extinct**-  
+
 that even Nārāyaṇa **knows** that its potency  
 **is not capable** of **being measured**. Tirumaṅgai Alvar who **was initiated** into this mantra and its meaning by the seer of this mantra (Bhagavān),  
 who **is** also its deity,  
