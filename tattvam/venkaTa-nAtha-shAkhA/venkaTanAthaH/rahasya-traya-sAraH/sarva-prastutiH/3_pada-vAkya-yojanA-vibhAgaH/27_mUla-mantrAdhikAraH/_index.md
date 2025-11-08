@@ -1203,6 +1203,7 @@ por quien **es** imposible **medir** su potencia,
 and **propagated** (by precept and practice) the Scripture  
 without **letting** it **become extinct**-  
 
+(as described above)
 </details>
 
 <details><summary>Español</summary>
@@ -1210,6 +1211,8 @@ without **letting** it **become extinct**-
 > (él) que **encarnó** como Nara y Nārāyaṇa  
 y **propagaron** (por precepto y práctica) la Escritura  
 **sin dejarlo extinguirse**-  
+
+(como **se describió** anteriormente)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1217,35 +1220,204 @@ y **propagaron** (por precepto y práctica) la Escritura
 ’’नरनारणऩायुलगत्तऱ(रु)नूल्सिङ्गामै विरित्तवऩ्’’(पॆरियदिरुमॊऴि १०-६-१)  ऎऩ्गिऱबडि
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
+नर नारणऩायिति । नरऩायुम् नारायणऩायुमवतरित्तु, उलगत्तरुनूल् - जगत्तिल् दुर्ज्ञेयमाऩ अष्टाक्षरब्रह्मविद्यैयै, सिङ्गामै - शिथिलमागादबडि, विरित्तवऩ् - प्रकाशिप्पित्तवऩॆऩ्गै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्-तिरु-मन्त्रत्तुक्कु प्रवर्तकऩुम् आय्  
+प्रतिपाद्यऩुम् आय् इरुक्किऱ
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य श्रीमन्त्रस्य प्रवर्तक-भूतः प्रतिपाद्य-भूतश् च  
+</details>
+
+
+<details><summary>English</summary>
+
+even Nārāyaṇa who **propagated** this mantra,  
+who **is** the subject of this mantra  
+</details>
+
+<details><summary>Español</summary>
+
+incluso Nārāyaṇa quien **propagó** este mantra,  
+que **es** el sujeto de este mantra
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्तिरु मन्त्रत्तुक्कु प्रवर्तकऩुमाय् प्रतिपाद्यऩुमायिरुक्किऱ
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वतस्-सर्वज्ञऩ् आऩ नारायणऩ् ताऩुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वतः सर्वज्ञो नारायणो ऽपि  
+</details>
+
+<details><summary>English</summary>
+
+and who **is**, by nature, **omniscient**  
+</details>
+
+<details><summary>Español</summary>
+
+y que **es**, por naturaleza, **omnisciente**  
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वतस्सर्वज्ञऩाऩ नारायणऩ् ताऩुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिऩ् प्रभावत्तै परिच्छेद-योग्यम् अऩ्ऱ् 
+
+ऎऩ्ऱ् अऱियुम् अत्तऩै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतत्-प्रभावं परिच्छेदायोग्यतया जानातीत्य् एतावद् एव । 
+</details>
+
+
+<details><summary>English</summary>
 
 it **may be inferred** that  
-even Nārāyaṇa **who** propagated this mantra,  
-who **is** the subject of this mantra  
-and who **is**, by nature, **omniscient**  
+that even (this) Nārāyaṇa **knows** that its potency  
+**is not capable** of **being measured**. 
+</details>
 
-that even Nārāyaṇa **knows** that its potency  
-**is not capable** of **being measured**. Tirumaṅgai Alvar who **was initiated** into this mantra and its meaning by the seer of this mantra (Bhagavān),  
+<details><summary>Español</summary>
+
+**se puede inferir** que  
+que incluso (este) Nārāyaṇa **sabe** que su potencia  
+**no es capaz** de **ser medido**. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदिऩ् प्रभावत्तै परिच्छेदयोग्यमऩ्ऱॆऩ्ऱऱियुमत्तऩै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इम् मन्त्रत्तुक्कु द्रष्टाव् आय्  
+देवतैयुम् आऩवऩ् पक्कलिले  
+इत्तै सार्थम् आगप् पॆऱ्ऱ तिरु-मङ्गैय्-आऴ्वार् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतस्य मन्त्रस्य द्रष्टुर् देवता-भूतस्य च (भगवतः) सन्निधौ  
+एनं सार्थं प्राप्तवान् श्रीपरकाल-सूरिर् अपि
+</details>
+
+
+<details><summary>English</summary>
+
+Tirumaṅgai Alvar who **was initiated** into this mantra and its meaning  
+by the **seer** of this mantra (Bhagavān),  
 who **is** also its deity,  
+
+</details>
+
+<details><summary>Español</summary>
+
+Tirumaṅgai Alvar quien **fue iniciado** en este mantra y su significado  
+por el **vidente** de este mantra (Bhagavān),  
+que **es** también su deidad,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इम् मन्त्रत्तुक्कु द्रष्टावाय् देवतैयुमाऩवऩ् पक्कलिले इत्तै सार्थमागप्पॆऱ्ऱ तिरुमङ्गैयाऴ्वार् 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि अनवच्छिन्नप्रभावमायिरुप्पदाल् प्रपन्नर्क्कु अनुष्ठानपर्यन्तमाऩ इम् मन्त्रार्थानुभवमिरुन्दाल्मोक्षत्तिल् अनवच्छिन्नभगवदनुभवत्तैप् पॆऱ्ऱु वाऴलामॆऩ्ऱु तिरुमङ्गैयाऴ्वार् अरुळिच्चॆय्दारॆऩ्गिऱार् इम् मन्त्रत्तुक्कित्यादियाल्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’अन्दणर्-माट्ट्+++(→माडु + ६ =धनस्य→ वेदस्य) अन्दि+++(←सन्धि)+++-वैत्त मन्तिरत्तै+++(→तत्-प्रतिपाद्यं)+++  
++++(अष्टाक्षर-)+++मन्तिरत्ताल् मऱवाद्  
+ऎऩ्ऱुम्+++(=नित्यम्)+++ वाऴुदियेल् वाऴल् आम्’’  
+(तिरुनॆडुन्दाण्डगम् ४) 
+
+ऎऩ्ऱ् अरुळिच् चॆय्दार्।  
+</details>
+<details><summary>नीलमेघः (सं)</summary>
+
+> ब्राह्मण-धन-भूतस्य वेदस्यान्ते स्थितं मन्त्रं (भगवन्तं)  
+मन्त्रेणाविस्मरन्  
+सदानुभवेच् चेत्, उज्जीवनं भवति"
+
+इत्य् अनुजग्राह ।
+</details>
+
+<details><summary>English</summary>
+
 **has declared** as follows:- 
 
 > "If thou **shouldst**, with the **help** of the mantra of eight letters, always **enjoy** Bhagavān,  
 who **appears** at the end of the Vedas  
 which **form** the wealth of Brahmins,  
 thou **shalt be happy**."
+</details>
 
+<details><summary>Español</summary>
+
+**ha declarado** lo siguiente: 
+
+> "Si **debes**, con la **ayuda** del mantra de ocho letras, siempre **disfruta** Bhagavān,  
+que **aparece** al final de los Vedas  
+que **forman** la riqueza de los brahmanes,  
+**serás feliz**".
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+’’अन्दणर् माट्टन्दिवैत्त मन्दिरत्तै मन्दिरत्ताल् मऱवादॆऩ्ऱुम् वाऴुदियेल् वाऴलाम्’’(तिरुनॆडुन्दाण्डगम् ४) ऎऩ्ऱरुळिच्चॆय्दार्।  
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अन्दणरिति । अन्दणर् - ब्राह्मणर्गळुक्कु, माडु - धनमाऩ वेदत्तिऩुडैय, अन्दि - शिरस्साऩ वेदान्तत्तिले, वैत्त - प्रतिपाद्यमाग वैक्कप्पट्ट, अदावदु सॊल्लप्पट्ट, मन्दिरत्तै - ‘‘मन्तारं त्रायते’’ ऎऩ्गिऱ व्युत्पत्तियाले तऩ्ऩै मननम् पण्णुगिऱवऩै रक्षिक्किऱवऩागच् चॊल्लप्पट्ट ईश्वरऩै, मन्दिरत्ताल् - मूलमन्त्रत्ताल्, मऱवादे - विस्मरणमऩ्ऱिक्के, ऎऩ्ऱुम् - ऎप्पॊऴुदुम्, वाऴुदियेल् - ध्यानम् पण्णि वाऴ्न्दीर्गळागिल्, वाऴलाम् - परमपदत्तिल् भगवदनुभवपूर्वकसर्वविधकैङ्कर्यत्तैप् पॆऱ्ऱु वाऴलाम्, सन्तुष्टर्गळाग इरुक्कलामॆऩ्गै।  
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-ऎट्टुमामूर्त्ति यॆण् कण्णनॆण्डिक्  
-कॆट्टिऱैयॆण्बिरगिरुदि  
-ऎट्टु मा वरैगळीऩ्ऱ वॆण्गुणत्तो  
-नॆट्टॆणु मॆण्गुणमदियोर्क्  
-कॆट्टुमामल रॆण्सित्ति यॆण्बत्ति  
-यॆट्टुयोगाङ्गमॆण्सॆल्वम्  
-ऎट्टुमागुण मॆट्टॆट्टॆणुङ्गलै  
-यॆट्टिरद मेलनवु मॆट्टिनवे. ( 38)
+ऎट्टु-मा-मूर्त्तिय् ऎण्-कण्णन् ऎण्+दिक्क् ऎट्ट्-इऱैय्+++(=देवाः/पालाः)+++ ऎण्-पिरकिरुति  
+ऎट्टु मा-वरैगळ् **ईऩ्ऱव्**+++(=सृजत्)+++ ऎण्-गुणत्तोन्  
+ऎट्ट्-**ऎणुम्**+++(=गणयताम्)+++ ऎण्-गुण-मतियोर्क्क्  
+ऎट्टु मा-मलर्+++(=पुष्पाणि)+++ ऎण्-सिद्धिय् ऎण्-भक्तिय्  
+ऎट्टु योगाङ्गम् ऎण्-सॆल्वम्  
+ऎट्टु--मा-गुणम् ऎट्ट्-ऎट्ट्-ऎणुङ् कलैय्  
+ऎट्ट् इरद+++(=काम)+++ मेलनवुम् **ऎट्टिनवे**+++(=प्राप्ता हि)+++. ( 38)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
@@ -1264,17 +1436,25 @@ Those wise men with eight qualities who meditate on the mantra of eight letters 
 
 
 
+<details><summary>English</summary>
 
-
-EXPLANATION OF <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
-
-To those great and wise men who meditate on the sacred aṣṭākṣara, which treats of the Supreme Ruler, who is the (ultimate) cause of all and who is opposed to everything of the nature of blemish and is, at the sametime, the abɔde of all auspicious qualities -(to these great men) whatever is desired by them among the spiritual virtues, the eight forms of wealth and the like is never beyond their reach. The 'eight-bodied' means Rudra who obtained the boon of **having** eight bodies, namely, the five elements (bhutas-earth, water, fire, air and ether or space), the moon and the sun and the man who performs a yajna or sacrifice; the eight-eyed refers to Brahma who has eight eyes because of his four faces; the eight quarters; the eight guardians of the eight quarters such as lndra, the eight prakṛtis are the eight tattvas or reals like avyakta, mahat and ahañkāra, the eight great mountains means the eight chief mountain ranges[^97] ; 'who created these means the Supreme Being possessed of eight qualities who created all these; His eight qualities are **being** (1) without subjection to karma , (2) without old age, or (3) death, or (1) grief, (5) or hunger or, (6) thirst, (7) the possession of eternal objects of enjoyment and (8) omnipotence or the ability to accomplish whatever He desires ; to those wise men possessed of wisdom with its eight aṅgas who meditate on the mantra' means to those enlightened men who are possessed of understanding with its eight aṅgas and who meditate on the sacred aṣṭākṣara which is the chief mantra among those that treat of Bhagavān.' The eight aṅgas of wisdom are " quickness of grasp, retention of what is learnt, remembrance, the ability to explain, inference, modification of what has been stated (to adapt it to new situations), reason, the knowledge of Truth - these are the eight qualities of understanding ". The eight great flowers are the following :-"Non-Violence (ahimsā) is the first flower, control of the senses is (another) flower: then comes the flower called compassion to all creatures, then the flower of forgiveness in special, then the flower of knowledge, the flower of tapas and so also the flower of contemplation (dhyāna) and the flower of truth these eight kinds of fiowers are most pleasing to Viṣṇu, The eight siddhis are inference, the knowledge of words, learning Vedānta, freedom from the three kinds of suffering; that in the body brought about by animals, and that due to the (anger of the ) gods, like storm and lightning. the possession of friends and charity. The eight forms of devotion are the following :- Love to God's devotees without an eye to their faults, delight in the worship offered to Him by others, an eagerness to listen to stories concerning Bhagavān, changes in the voice and the body and tears in the eyes while listening to them, efforts to worship Bhagavān, freedom from hypocrisy in one's relations towards God, constant meditation on God, and freedom from the expectation of rewards from God. The eight aṅgas of yoga are yama, niyama and the rest (āsana, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi); the eight forms of wealth are:- the power to contract one's body to a much smaller size, the power to make one's body assume larger dimensions, the power to make oneself light (of weigbt), the power to make oneself heavy, perfect control over oneself, control over others, the attainment of whatever is desired, and success by merely desiring it.
+EXPLANATION OF TAMIL VERSE - 
 </details>
 
-<details><summary>मूलम् (त॰प॰)</summary>
+<details><summary>Español</summary>
+
+EXPLICACIÓN DEL VERSO TAMIL - 
+</details>
+
+
+
+
 
 To those great and wise men who meditate on the sacred aṣṭākṣara, which treats of the Supreme Ruler, who is the (ultimate) cause of all and who is opposed to everything of the nature of blemish and is, at the sametime, the abɔde of all auspicious qualities -(to these great men) whatever is desired by them among the spiritual virtues, the eight forms of wealth and the like is never beyond their reach. The 'eight-bodied' means Rudra who obtained the boon of **having** eight bodies, namely, the five elements (bhutas-earth, water, fire, air and ether or space), the moon and the sun and the man who performs a yajna or sacrifice; the eight-eyed refers to Brahma who has eight eyes because of his four faces; the eight quarters; the eight guardians of the eight quarters such as lndra, the eight prakṛtis are the eight tattvas or reals like avyakta, mahat and ahañkāra, the eight great mountains means the eight chief mountain ranges[^97] ; 'who created these means the Supreme Being possessed of eight qualities who created all these; His eight qualities are **being** (1) without subjection to karma , (2) without old age, or (3) death, or (1) grief, (5) or hunger or, (6) thirst, (7) the possession of eternal objects of enjoyment and (8) omnipotence or the ability to accomplish whatever He desires ; to those wise men possessed of wisdom with its eight aṅgas who meditate on the mantra' means to those enlightened men who are possessed of understanding with its eight aṅgas and who meditate on the sacred aṣṭākṣara which is the chief mantra among those that treat of Bhagavān.' The eight aṅgas of wisdom are " quickness of grasp, retention of what is learnt, remembrance, the ability to explain, inference, modification of what has been stated (to adapt it to new situations), reason, the knowledge of Truth - these are the eight qualities of understanding ". The eight great flowers are the following :-"Non-Violence (ahimsā) is the first flower, control of the senses is (another) flower: then comes the flower called compassion to all creatures, then the flower of forgiveness in special, then the flower of knowledge, the flower of tapas and so also the flower of contemplation (dhyāna) and the flower of truth these eight kinds of fiowers are most pleasing to Viṣṇu, The eight siddhis are inference, the knowledge of words, learning Vedānta, freedom from the three kinds of suffering; that in the body brought about by animals, and that due to the (anger of the ) gods, like storm and lightning. the possession of friends and charity. The eight forms of devotion are the following :- Love to God's devotees without an eye to their faults, delight in the worship offered to Him by others, an eagerness to listen to stories concerning Bhagavān, changes in the voice and the body and tears in the eyes while listening to them, efforts to worship Bhagavān, freedom from hypocrisy in one's relations towards God, constant meditation on God, and freedom from the expectation of rewards from God. The eight aṅgas of yoga are yama, niyama and the rest (āsana, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi); the eight forms of wealth are:- the power to contract one's body to a much smaller size, the power to make one's body assume larger dimensions, the power to make oneself light (of weigbt), the power to make oneself heavy, perfect control over oneself, control over others, the attainment of whatever is desired, and success by merely desiring it.
-</details>
+
+
+To those great and wise men who meditate on the sacred aṣṭākṣara, which treats of the Supreme Ruler, who is the (ultimate) cause of all and who is opposed to everything of the nature of blemish and is, at the sametime, the abɔde of all auspicious qualities -(to these great men) whatever is desired by them among the spiritual virtues, the eight forms of wealth and the like is never beyond their reach. The 'eight-bodied' means Rudra who obtained the boon of **having** eight bodies, namely, the five elements (bhutas-earth, water, fire, air and ether or space), the moon and the sun and the man who performs a yajna or sacrifice; the eight-eyed refers to Brahma who has eight eyes because of his four faces; the eight quarters; the eight guardians of the eight quarters such as lndra, the eight prakṛtis are the eight tattvas or reals like avyakta, mahat and ahañkāra, the eight great mountains means the eight chief mountain ranges[^97] ; 'who created these means the Supreme Being possessed of eight qualities who created all these; His eight qualities are **being** (1) without subjection to karma , (2) without old age, or (3) death, or (1) grief, (5) or hunger or, (6) thirst, (7) the possession of eternal objects of enjoyment and (8) omnipotence or the ability to accomplish whatever He desires ; to those wise men possessed of wisdom with its eight aṅgas who meditate on the mantra' means to those enlightened men who are possessed of understanding with its eight aṅgas and who meditate on the sacred aṣṭākṣara which is the chief mantra among those that treat of Bhagavān.' The eight aṅgas of wisdom are " quickness of grasp, retention of what is learnt, remembrance, the ability to explain, inference, modification of what has been stated (to adapt it to new situations), reason, the knowledge of Truth - these are the eight qualities of understanding ". The eight great flowers are the following :-"Non-Violence (ahimsā) is the first flower, control of the senses is (another) flower: then comes the flower called compassion to all creatures, then the flower of forgiveness in special, then the flower of knowledge, the flower of tapas and so also the flower of contemplation (dhyāna) and the flower of truth these eight kinds of fiowers are most pleasing to Viṣṇu, The eight siddhis are inference, the knowledge of words, learning Vedānta, freedom from the three kinds of suffering; that in the body brought about by animals, and that due to the (anger of the ) gods, like storm and lightning. the possession of friends and charity. The eight forms of devotion are the following :- Love to God's devotees without an eye to their faults, delight in the worship offered to Him by others, an eagerness to listen to stories concerning Bhagavān, changes in the voice and the body and tears in the eyes while listening to them, efforts to worship Bhagavān, freedom from hypocrisy in one's relations towards God, constant meditation on God, and freedom from the expectation of rewards from God. The eight aṅgas of yoga are yama, niyama and the rest (āsana, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi); the eight forms of wealth are:- the power to contract one's body to a much smaller size, the power to make one's body assume larger dimensions, the power to make oneself light (of weigbt), the power to make oneself heavy, perfect control over oneself, control over others, the attainment of whatever is desired, and success by merely desiring it.
+
 
 [^97]: They are Himavān, Vishada, Vindhya, Mālyavān, Pāriyātraka. Mandara. Malaya and Meru.
 
