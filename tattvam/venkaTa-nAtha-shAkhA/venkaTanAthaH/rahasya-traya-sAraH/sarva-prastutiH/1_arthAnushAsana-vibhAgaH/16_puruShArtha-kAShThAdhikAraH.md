@@ -916,7 +916,7 @@ Los siguientes textos autorizados **se pueden estudiar** a este respecto:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > मद्-भक्त-जन-**वात्सल्यं**  
-> पूजायाञ् **चानुमोदनं** ।  
+> पूजायाञ् **चानुमोदनम्** ।  
 > मत्-कथा-**श्रवणे भक्तिः**  
 > स्वर-नेत्राङ्ग-**विक्रिया** ॥  
 > 
@@ -938,7 +938,7 @@ Los siguientes textos autorizados **se pueden estudiar** a este respecto:
 <details><summary>नीलमेघः (सं)</summary>
 
 > मद्-भक्त-जन-**वात्सल्यं**  
-> पूजायाञ् **चानुमोदनं** ।  
+> पूजायाञ् **चानुमोदनम्** ।  
 > मत्-कथा-**श्रवणे भक्तिः**  
 > स्वर-नेत्राङ्ग-**विक्रिया** ॥  
 > 
