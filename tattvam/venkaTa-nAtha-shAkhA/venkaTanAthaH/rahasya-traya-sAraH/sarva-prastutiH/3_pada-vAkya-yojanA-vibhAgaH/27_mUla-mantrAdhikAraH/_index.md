@@ -868,7 +868,7 @@ todos estos significados **están contenidos** en partes de la palabra "Nārāya
 </details>
 
 
-## महत्त्वम्
+## महत्त्वम्, सिद्धिः
 ### सर्व-मन्त्रान्तर्भावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2459,6 +2459,12 @@ Ellos **son**:-- derecho al **conocimiento**, buen **nacimiento**, **control** d
 (ऎट्ट्-ऎट्ट् ऎणुम् कलै) चतुष्-षष्टि-कलैगळ्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+" अष्टाष्टक संख्याक-कलाः " - चतुष्-षष्टि-संख्याः कलाः । 
+</details>
+
+
 <details><summary>English</summary>
 
 Eight times eight kalās are the sixty four arts and crafts. 
@@ -2482,8 +2488,19 @@ Ocho por ocho kalās **son** las sesenta y cuatro artes y oficios.
 
 > ‘‘शृङ्गार-वीर-करुणाद्भुत-हास्य-भयानकाः । बीभत्स-रौद्रौ च रसाः’’ 
 
-ऎऩ्गिऱ रसङ्गळ् ऎट्टुक्कुम् मेल् आऩ शान्ति-रसम्
+ऎऩ्गिऱ रसङ्गळ् ऎट्टुक्कुम् मेल् आऩ शान्ति-रसम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+“अष्ट-रसातीतश् च”—
+
+> ‘‘शृङ्गार-वीर-करुणाद्भुत-हास्य-भयानकाः । बीभत्स-रौद्रौ च रसाः’’ 
+
+इत्य्-उक्तेभ्यो रसेभ्यो ऽष्टभ्योऽधिकः शान्तिरसः । 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -2501,26 +2518,202 @@ Los ocho rasas **son** sṛṅgāra (amor), vīra (heroísmo), karuṇa (patetis
 (ऎट्टिरदमेलदुवुम्) ‘‘शृङ्गारवीरकरुणाद्भुतहास्यभयानकाः । बीभत्सरौद्रौ च रसाः’’ ऎऩ्गिऱ रसङ्गळॆट्टुक्कुम् मेलाऩ शान्तिरसम्
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## 
+इवैय् ऎल्लाम्,  
+(ऎट्टिऩवे) इवऱ्ऱिल् इवऩुक्क् इच्छैय्-उळ्ळ पोदु  
+ऎट्टादवैय् ऒऩ्ऱुम् इल्लै। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमानि सर्वाण्यपि " प्राप्तानि” ।  
+एषु अस्येच्छायां सत्याम्  
+अनवाप्यं किम् अपि नास्ति । 
+</details>
 
 
-Among these, there is nothing which he cannot have at his desire. The imperfect development of spiritual qualities results from want of earnestness in meditation. The inability to attain the right forms of wealth is due to neglect. The delay in the release from saṁsāra is due to weakness in the desire for it. That is why it has been declared "The mantra „  namo Nārāyaṇa - secures whatever is desired."
+<details><summary>English</summary>
+
+Among these, there **is** nothing which he **cannot have** at his **desire**. 
+</details>
+
+<details><summary>Español</summary>
+
+Entre estos, **no hay** nada que él **no pueda tener** según su **deseo**.
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+इवैयॆल्लाम्, (ऎट्टिऩवे) इवऱ्ऱिलिवऩुक्किच्छैयुळ्ळबोदु ऎट्टादवैयॊऩ्ऱुमिल्लै। 
+</details>
+
+
+
+### फल-वैकल्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्म-गुणादिगळ् निरम्बाद्+++(=अपूर्तिः)+++ ऒऴिगिऱदु  
+अनुसन्धानत्तिल् ऊऱ्ऱम्+++(=अभ्यासे)+++ पोदामैयाले+++(=अपर्याप्ततायाः)+++। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आत्म-गुणादीनाम् अ-पूर्तिस् तावत्  
+अनुसंधाने श्रद्धा-वैधुर्यात् । 
+</details>
+
+
+<details><summary>English</summary>
+
+The imperfect development of spiritual qualities  
+**results** from want of earnestness in **meditation**. 
+</details>
+
+<details><summary>Español</summary>
+
+El **desarrollo** imperfecto de las cualidades espirituales  
+**resulta** de la falta de seriedad en la **meditación**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आत्मगुणादिगळ् निरम्बादॊऴिगिऱदु अनुसन्धानत्तिलूऱ्ऱम् पोदामैयाले। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अष्टैश्वर्यादिगळुम् वाराद् ऒऴिगिऱदु उपेक्षैयाले। 
+</details>
+
+<details><summary>English</summary>
+
+The inability to attain the right forms of wealth is due to neglect. 
+</details>
+
+<details><summary>Español</summary>
+
+La incapacidad de **alcanzar** las formas adecuadas de riqueza  
+se debe a la **negligencia**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अष्टैश्वर्यादिगळुम् वारादॊऴिगिऱदु उपेक्षैयाले। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कडुग संसारम् निवर्तियाद् ऒऴिगिऱदु  
+इसैविल् कुऱैयाले। 
+</details>
+
+<details><summary>English</summary>
+
+The delay in the **release** from saṁsāra  
+**is** due to weakness in the **desire** for it. 
+</details>
+
+<details><summary>Español</summary>
+
+El **retraso** en la **liberación** del saṁsāra  
+**se** se debe a la debilidad en el **deseo** de ello.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कडुग संसारम् निवर्तियादॊऴिगिऱदु इसैविल् कुऱैयाले। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयालेयिऱे 
+
+> ‘‘नमो नारायणायेति  
+मन्त्रस् सर्वार्थ-साधकः’’  
+(नारदीयम् १-४१) 
+
+ऎऩ्गिऱदु।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नमो नारायणायेति  
+मन्त्रस् सर्वार्थ-साधकः’’  
+(नारदीयम् १-४१) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+That is why it **has been declared**  
+
+> "The mantra namo Nārāyaṇa - **secures** whatever **is desired**."
+</details>
+
+<details><summary>Español</summary>
+
+Por eso **ha sido declarado**  
+
+> "El mantra namo Nārāyaṇa - **asegura** todo lo **que se desee**."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयालेयिऱे ‘‘नमो नारायणायेति मन्त्रस्सर्वार्थ साधकः’’(नारदीयम् १-४१) ऎऩ्गिऱदु।  
+</details>
+
+
+
+## उपसंहारः
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-अविद्यापूतनोन्मुक्तैरनवज्ञातसत्पथैः । असदास्वादसव्रीडैरादिष्टमिति दर्शितम् ॥
+अ-विद्या-पूतनोन्मुक्तैर्  
+**अन्-अवज्ञात**-सत्-पथैः ।  
+अ-सद्-आस्वाद--स-व्रीडैर्  
++++(आचार्यैर्)+++ **आदिष्टम्** इति **दर्शितम्** ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-विद्या-पूतनोन्मुक्तैर्  
+**अन्-अवज्ञात**-सत्-पथैः ।  
+अ-सद्-आस्वाद--स-व्रीडैर्  
++++(आचार्यैर्)+++ **आदिष्टम्** इति **दर्शितम्** ॥
+</details>
+
+
+<details><summary>English</summary>
+
+Thus we **have shown** here  
+what **was taught** by (acāryās)  
+who **were free** from the demon of ignorance (avidyā),  
+who **never ignored** the path of the righteous  
+and who **shrank** in shame from the enjoyment of petty pleasures.
+</details>
+
+<details><summary>Español</summary>
+
+Por eso **hemos mostrado** aquí  
+lo que **fue enseñado** por (acāryās)  
+quienes **estaban libres** del demonio de la ignorancia (avidyā),  
+quien **nunca ignoró** el camino de los justos  
+y que **rehuyeron avergonzados** el disfrute de pequeños placeres.
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 अविद्यापूतनोन्मुक्तैरनवज्ञातसत्पथैः । असदास्वादसव्रीडैरादिष्टमिति दर्शितम् ॥
 </details>
-
-Thus (we have shown here what was taoght by (acāryās) who were free from the demon of ignorance (avidyā), who never ignored the path of the righteous and who shrank in shame fronı the enjoyment of petty pleasures.
-
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
@@ -2547,17 +2740,20 @@ We have been initiated into the excellent mantra, which enables us to give up al
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-इत्थं सङ्घटितः पदैस्त्रिभिरसावेकद्विपञ्चाक्षरै
+इत्थं सङ्घटितः पदैस्त्रिभिरसावेकद्विपञ्चाक्षरैर्  
+अर्थैस्तत्त्वहितप्रयोजनमयैरध्यात्मसारैस्त्रिभिः ।  
+आद्यस्त्र्यक्षरवेदसूतिरजहत्स्थूलादिवृत्तित्रयस्  
+त्रैगुण्यप्रशमं प्रयच्छति सतां त्रय्यन्तसारो मनुः ॥ ६३ ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-इत्थं सङ्घटितः पदैस्त्रिभिरसावेकद्विपञ्चाक्षरै
-</details>
-
+इत्थं सङ्घटितः पदैस्त्रिभिरसावेकद्विपञ्चाक्षरै  
 -रर्थैस्तत्त्वहितप्रयोजनमयैरध्यात्मसारैस्त्रिभिः ।  
 आद्यस्त्र्यक्षरवेदसूतिरजहत्स्थूलादिवृत्तित्रय-  
 स्त्रैगुण्यप्रशमं प्रयच्छति सतां त्रय्यन्तसारो मनुः ॥ ६३ ॥
+</details>
+
 
 This mantra which is thus constituted of three words that are composed, respectively, of one, two and five letters and which treats of the three things to be known, namely, tattva (the truth), hita (the upāya) and puruṣārtha (the end to be attained) that are of the very essence of Vedānta-this mantra which is the foremost of all mantras, which has the praṇava of three letters which is the
 
