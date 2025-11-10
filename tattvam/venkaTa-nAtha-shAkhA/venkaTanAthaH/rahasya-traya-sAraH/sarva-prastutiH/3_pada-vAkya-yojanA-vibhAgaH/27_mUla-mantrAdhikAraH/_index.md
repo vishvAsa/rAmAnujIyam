@@ -2452,6 +2452,13 @@ Ellos **son**:-- derecho al **conocimiento**, buen **nacimiento**, **control** d
 दानं यथा-शक्ति कृत-ज्ञता च’’ 
 
 ऎऩ्बदु इदऱ्कु मेल् मूऩ्ऱु पादङ्गळ्। 
+
+इत्यादिगळिति । इङ्गु आदिशब्दत्ताले 
+
+> ‘‘दया सर्व-भूतेषु, क्षान्तिर्  
+अनसूया, शौचम्, अनायासो, मङ्गलम्, अकार्पण्यम्, अस्पृहा’’ 
+
+ऎऩ्गिऱ गौतमसूत्रत्तिऱ्कु ग्रहणम्। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2517,6 +2524,12 @@ Los ocho rasas **son** sṛṅgāra (amor), vīra (heroísmo), karuṇa (patetis
 
 (ऎट्टिरदमेलदुवुम्) ‘‘शृङ्गारवीरकरुणाद्भुतहास्यभयानकाः । बीभत्सरौद्रौ च रसाः’’ ऎऩ्गिऱ रसङ्गळॆट्टुक्कुम् मेलाऩ शान्तिरसम्
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ऎट्टिरदम् - ऎट्टुरसम्, 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2613,6 +2626,18 @@ se debe a la **negligencia**.
 इसैविल् कुऱैयाले। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अष्टैश्वर्याद्य्-अ-सिद्धिर् उपेक्षणात् । 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+झटिति संसारस्यानिवृत्तिः  
+इच्छायाः न्यूनत्वात् । 
+</details>
+
+
 <details><summary>English</summary>
 
 The delay in the **release** from saṁsāra  
@@ -2644,11 +2669,13 @@ El **retraso** en la **liberación** del saṁsāra
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अत एव किल, 
+
 > ‘‘नमो नारायणायेति  
 मन्त्रस् सर्वार्थ-साधकः’’  
 (नारदीयम् १-४१) 
 
-
+इत्युच्यते ॥ 
 </details>
 
 <details><summary>English</summary>
@@ -2671,6 +2698,10 @@ Por eso **ha sido declarado**
 आगैयालेयिऱे ‘‘नमो नारायणायेति मन्त्रस्सर्वार्थ साधकः’’(नारदीयम् १-४१) ऎऩ्गिऱदु।  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि ऎट्टाददु ऒऩ्ऱुमिल्लैयॆऩ्ऱु सॊल्लक्कूडुमो? सिलर्क्कु आत्मगुणङ्गळुम्, सिलर्क्कु अष्टैश्वर्यमुम्, सिलऱ्कु शीघ्रमाग संसारनिवृत्तियुम् ऎट्टाम लिरुप्पदु प्रत्यक्षसिद्धमऩ्ऱो वॆऩ्ऩ? अदु मन्त्रप्रभावत्तिऩ् कुऱैवालऩ्ऱु; अनुसन्धाताविऩ् कुऱ्ऱत्तालेयेयॆऩ्गिऱार् आत्मगुणादिगळित्यादियाल्, इव्विषयत्तिल् प्रमाणसम्मतियैक् काट्टुगिऱार् आगैयालेयिऱे ‘‘नमो नारायणायेति मन्त्रस्सर्वार्थसाधकः’’ ऎऩ्गिऱदु इति ।  
+</details>
 
 
 ## उपसंहारः
@@ -2715,14 +2746,63 @@ y que **rehuyeron avergonzados** el disfrute de pequeños placeres.
 अविद्यापूतनोन्मुक्तैरनवज्ञातसत्पथैः । असदास्वादसव्रीडैरादिष्टमिति दर्शितम् ॥
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि ताम् सॊऩ्ऩ मन्त्रार्थङ्गळॆल्लाम् स्वोत्प्रेक्षामूलमऩ्ऱिये अविद्यापिशाचिकाविनिर्मुक्तर्गळाय् सत्पथत्तै ईषत्तुमतिलङ्घनम् सॆय्यादवर्गळाय् विषयास्वादत्तिल् लज्जैयुळ्ळवर्गळायुमुळ्ळ सदाचार्यर्गळाले नऩ्ऱाग उपदेशिक्कप्पट्टदॆऩ् किऱार् अविद्यापूतनोन्मुक्तैरिति ।  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-उयर्न्द नङ्गावलनल्लार्गुरिमै तुऱन्दुयिराय्  
-मयर्न्दमै तीर्न्दु मऱ्ऱोर् वऴियिऩ्ऱि यडैक्कलमाय्  
-पयन्द वन्नारणन्बादङ्गळ् सेर्न्द पऴवडियार्  
-नयन्द कुऱ्ऱेवलॆल्ला नाडु नन् मनु वोदिनमे. ( 39 )
+उयर्न्द नङ्-कावलन्-अल्लार्क् **उरिमै+++(=शेषतां)+++ तुऱन्द्**, +++(शरीर-भिन्न-)+++उयिर् **आय्**, +++(→ॐ)+++  
+मयर्न्द्+++(=भ्रान्त्वा)+++ अमै+++(=स्थितिं)+++ **तीर्न्दु**, मऱ्ऱ् ओर् वऴिय् इऩ्ऱिय् अडैक्-कलम्+++(=रक्ष्य-वस्तु)+++ **आय्**, +++(→"नमो")+++  
+पयन्द्-अवन्+++(=स्रष्टुर्)+++ नारणन् पादङ्गळ् **सेर्न्द**, पऴव्-अडियार्+++(→नित्य-सूरि)+++-  
+**नयन्द**+++(=काङ्क्षित)+++ कुऱ्ऱ्+++(=किञ्चित्)+++-**एवल्**+++(=सेवाः)+++ ऎल्ला **नाडु**+++(म्=विचारयत् →"नारायणाय")+++ नन्-मनुव् **ओदिनमे**.  ( 39 )
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[३१७]] 
+
+उत्कृष्टाद् अस्मद्-रक्षकाद् व्यतिरिक्तानां शेषत्वं हित्वा +++(शरीर-भिन्न-)+++जीवभूता (वयं) +++(→ॐ)+++    
+अज्ञान-दशायां निवृत्तायाम्, अगतिकतया शरणागताः +++(→"नमो")+++    
+स्रष्टुर् नारायणस्य पादावाश्रितैः प्राचीन-दासैः (नित्य-सूरिभिः)  
+अभिलषितानि कैङ्कर्याणि +++(→"नारायणाय")+++ निर्दिशन्तं सन्मन्त्रम् अध्यगीष्महि ॥ 
+</details>
+
+<details><summary>English</summary>
+
+We have **been initiated** into the excellent mantra,  
+which **enables** us to **give up** all **association** as śeṣas  
+with those who **are** other than our great **Redeemer**,  
+and to **realise** that we **are** souls (and not mere bodies) (praṇava).  
+We **have awakened** from (our) ignorance  
+and **being** without any other refuge,  
+(we) **have sought** the feet of Nārāyaṇa  
+who **created** (all the worlds) (namas).  
+As the **result** of our **initiation** into this mantra,  
+we (now) **seek** to **perform** that **service**  
+which the ancient devotees (the eternal sūris) **render** with eagerness (Nārāyanāya).
+
+</details>
+
+<details><summary>Español</summary>
+
+**Hemos sido iniciados** en el excelente mantra,  
+lo cual **nos permite renunciar** a toda **asociación** como śeṣas  
+con aquellos que **son** distintos de nuestro gran **Redentor**,  
+y **darnos cuenta** de que **somos** almas (y no meros cuerpos) (praṇava).  
+
+**Hemos despertado** de (nuestra) ignorancia  
+y **estar** sin otro refugio,  
+(nosotros) **hemos buscado** los pies de Nārāyaṇa  
+quien **creó** (todos los mundos) (namas).  
+
+Como **resultado** de nuestra **iniciación** en este mantra,  
+nosotros (ahora) **buscamos realizar** ese **servicio**  
+que los antiguos devotos (los eternos sūris) **renderizan** con entusiasmo (Nārāyanāya).
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -2732,18 +2812,21 @@ y que **rehuyeron avergonzados** el disfrute de pequeños placeres.
 नयन्द कुऱ्ऱेवलॆल्ला नाडु नन् मनु वोदिनमे. ( 39 )
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि अधिकारावसानगाथैयाले तत्त्वहितपुरुषार्थपरमाऩ दशम योजऩैयै प्रदर्शिप्पित्तुक् कॊण्डे प्रत्यक्षरार्थत्तैयुम् विशदीकरित्तु एतादृशमाऩ महामन्त्रत्तै नाम् आचार्यरिडत् तिल् अभ्यसित्तोमे ऎऩ्ऱु हृष्टरागिऱार् उयर्न्द इत्यादियाल्। उयर्न्द – सर्वजगत्का-रणतया निस्समाभ्यधिकऩाय् निऩ्ऱ, नङ्गावलऩ् - नमक्कु रक्षकऩाऩ श्रियःपतियैक् काट्टिलुम्, इव्वळवुम् अकारार्थम्, अल्लार्क्कु - वेऱुबट्टवर्गळुक्कु, उरिमैदुऱन्दु - शेषत्वत्तैविट्टु, इदु लुप्तचतुर्थ्युकारङ्गळिऩर्थम्। उयिराय् - ज्ञानस्वरूप ज्ञानगुणकऩाऩ अहमर्थमाय्, इदु मकारत्तिऩर्थम्। मयर्न्दमै तीर्न्दु - अहङ्कारममकाररूपाविद्यैयै विट्टु, इदु मः न ऎऩ्बदिऩर्थम्। मऱ्ऱोर् वऴियिऩ्ऱि - वेऱु उपायमऩ्ऱिक्के, इदु न मम किञ्चित्स्यात् ऎऩ्बदिऩर्थम्। अडैक्कलमाय् - रक्ष्यवस्तुवाय्, इदु आत्मनिवेदनपरमाऩ नमस्साले फलितमाऩ अर्थम्। पयन्द - जगत्सृष्टावाऩ, अन्नारणऩ् - स्वरूपरूपगुणविभूतिकळैयुडैय अन्द नारायणऩुडैय, इदु चतुर्थ्यन्तनारायणशब्दार्थम्। पादङ्गळ् सेर्न्द - तिरुवडिगळैच् चेर्न्द, पऴवडियार् - नित्यसूरिकळोडे कूड, नयन्द - प्रीतियोडु पण्णुम्, कुऱ्ऱेवलॆल्लाम् - कैङ्कर्यङ्गळैयॆल्लाम्, इदु नारायणपदोत्तरचतुर्थियिऩर्थम्। नाडु - प्रतिपादिक्किऱ, नऩ्मऩु - महामन्त्रत्तै, ओदिऩमे - आचार्यर्गळिडत्तिलिरुन्दु अध्ययनम् पण्णप्पॆऱ्ऱोमे ऎऩ्गै।  
+</details>
 
 
-We have been initiated into the excellent mantra, which enables us to give up all association as śeṣas with those who are other than our great Redeemer, and to realise that we are souls (and not mere bodies) (praṇava) We have awakened from (our) ignorance and **being** without any other refuge, (we) have sought the feet of Nārāyaṇa who created (all the worlds) (namas). As the result of our initiation into this mantra, we (now) seek to perform that service which the ancient devotees (the eternal sūris render with eagerness (Nārāyanāya).
 
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-इत्थं सङ्घटितः पदैस्त्रिभिरसावेकद्विपञ्चाक्षरैर्  
-अर्थैस्तत्त्वहितप्रयोजनमयैरध्यात्मसारैस्त्रिभिः ।  
-आद्यस्त्र्यक्षरवेदसूतिरजहत्स्थूलादिवृत्तित्रयस्  
-त्रैगुण्यप्रशमं प्रयच्छति सतां त्रय्यन्तसारो मनुः ॥ ६३ ॥
+इत्थं **सङ्घटितः** पदैस् त्रिभिर् असाव् एक-द्वि-पञ्चाक्षरैर्  
+अर्थैस् +++(क्रमशः)+++ तत्त्व-हित+++(→उपाय)+++-प्रयोजनमयैर् अध्यात्म-सारैस् त्रिभिः ।  
+आद्यस् त्र्य्-अक्षर-वेद-सूतिर् अ-जहत्--स्थूलादि-वृत्ति-त्रयस्  
+त्रैगुण्य-**प्रशमं** **प्रयच्छति** सतां त्रय्य्-अन्त-सारो मनुः ॥ ६३ ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -2755,9 +2838,9 @@ We have been initiated into the excellent mantra, which enables us to give up al
 </details>
 
 
-This mantra which is thus constituted of three words that are composed, respectively, of one, two and five letters and which treats of the three things to be known, namely, tattva (the truth), hita (the upāya) and puruṣārtha (the end to be attained) that are of the very essence of Vedānta-this mantra which is the foremost of all mantras, which has the praṇava of three letters which is the
 
-origin of the Vedas, which has the word **having** the three meanings, sthūla (gross) sūkṣma, (subtle) and para the (suprerme) (namely, namas) and which has in it the word (Nārāyaṇa) that forms the essence of the Upaniṣads--this mantra confers, on those who seek no other reward. freedom from prakṛti with its three qualities (i.e. from saṁsāra.)
+
+This mantra which is thus constituted of three words that are composed, respectively, of one, two and five letters and which treats of the three things to be known, namely, tattva (the truth), hita (the upāya) and puruṣārtha (the end to be attained) that are of the very essence of Vedānta-this mantra which is the foremost of all mantras, which has the praṇava of three letters which is the origin of the Vedas, which has the word **having** the three meanings, sthūla (gross) sūkṣma, (subtle) and para the (suprerme) (namely, namas) and which has in it the word (Nārāyaṇa) that forms the essence of the Upaniṣads--this mantra confers, on those who seek no other reward. freedom from prakṛti with its three qualities (i.e. from saṁsāra.)
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे  
 मूलमन्त्राधिकारः सप्तविंशः ॥  
