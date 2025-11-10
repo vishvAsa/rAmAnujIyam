@@ -253,7 +253,7 @@ A partir de esto, los hombres de mal **entendimiento podrían preguntar**,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> भागवतशूद्रऩिऩ्ऩबडिये वर्तिप्पाऩ्
+> भागवतशूद्रऩ् इऩ्ऩ बडिये वर्तिप्पाऩ्
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -814,7 +814,7 @@ Pero que el Kulam **será** diferente.
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-> After swami desikan meeting pillai lokacharyar‌‌/ Periya vachan pillai, he was so much convinced and realized he made a mistake (with this statement). Only then he composed muni-vahana-bhogam.
+> After swami desikan meeting pillai lokacharyar  / Periya vachan pillai, he was so much convinced and realized he made a mistake (with this statement). Only then he composed muni-vahana-bhogam.
 
 इति प्रवादो वर्तते। 
 
@@ -1491,7 +1491,6 @@ Are they not my very life?"
 इत्य् उत्तर-दानात्  
 श्री-विदुर-विषये दुर्योधनोक्तं जाति-विशेषं भगवान् अङ्गी-चकारेति सिद्धम् । 
 </details>
-
 
 <details><summary>English</summary>
 
