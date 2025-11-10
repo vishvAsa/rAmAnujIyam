@@ -2825,9 +2825,56 @@ que los antiguos devotos (los eternos sūris) **renderizan** con entusiasmo (Nā
 
 इत्थं **सङ्घटितः** पदैस् त्रिभिर् असाव् एक-द्वि-पञ्चाक्षरैर्  
 अर्थैस् +++(क्रमशः)+++ तत्त्व-हित+++(→उपाय)+++-प्रयोजनमयैर् अध्यात्म-सारैस् त्रिभिः ।  
-आद्यस् त्र्य्-अक्षर-वेद-सूतिर् अ-जहत्--स्थूलादि-वृत्ति-त्रयस्  
-त्रैगुण्य-**प्रशमं** **प्रयच्छति** सतां त्रय्य्-अन्त-सारो मनुः ॥ ६३ ॥
++++(पदेष्व्)+++ आद्यस् त्र्य्-अक्षर-वेद-**सूतिर्**, **अ-जहत्**--स्थूलादि-वृत्ति-त्रयस् +++(→"नमः")+++,  
+त्रैगुण्य-**प्रशमं** **प्रयच्छति** सतां +++("नारायणाय"←)+++ त्रय्य्-अन्त-सारो मनुः ॥ ६३ ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं **सङ्घटितः** पदैस् त्रिभिर् असाव् एक-द्वि-पञ्चाक्षरैर्  
+अर्थैस् +++(क्रमशः)+++ तत्त्व-हित+++(→उपाय)+++-प्रयोजनमयैर् अध्यात्म-सारैस् त्रिभिः ।  
++++(पदेष्व्)+++ आद्यस् त्र्य्-अक्षर-वेद-**सूतिर्**, **अ-जहत्**--स्थूलादि-वृत्ति-त्रयस् +++(→"नमः")+++,  
+त्रैगुण्य-**प्रशमं** **प्रयच्छति** सतां +++("नारायणाय"←)+++ त्रय्य्-अन्त-सारो मनुः ॥ ६३ ॥
+
+</details>
+
+
+<details><summary>English</summary>
+
+This mantra which **is** thus **constituted** of three words  
+that **are composed**, respectively, of one, two and five letters  
+and which **treats** of the three things to be known,  
+**namely**, tattva (the truth), hita (the upāya) and puruṣārtha (the end to be attained)  
+that **are** of the very essence of Vedānta-  
+this mantra which **is** the foremost of all mantras,  
+which **has** the praṇava of three letters  
+which **is** the origin of the Vedas,  
+which **has** the word **having** the three meanings, sthūla (gross) sūkṣma, (subtle) and para the (suprerme) (namely, namas)  
+and which **has** in it the word (Nārāyaṇa) that forms the essence of the Upaniṣads--  
+this mantra **confers**, on those who seek no other reward  
+**freedom** from prakṛti with its three qualities (i.e. from saṁsāra.)
+</details>
+
+<details><summary>Español</summary>
+
+Este mantra que **está** así **constituido** de tres palabras  
+que **están compuestos**, respectivamente, de una, dos y cinco letras  
+y que **trata** de las tres cosas por saber,  
+**a saber**, tattva (la verdad), hita (el upāya) y puruṣārtha (el fin a **alcanzar**)  
+que **son** de la esencia misma del Vedānta-  
+este mantra que **es** el más importante de todos los mantras,  
+
+que **tiene** el praṇava de tres letras  
+que **es** el origen de los Vedas,  
+
+que **tiene** la palabra **que tiene** los tres **significados**, sthūla (bruto) sūkṣma, (sutil) y para el (suprerme) (es decir, namas)  
+
+y que **tiene** en ella la palabra (Nārāyaṇa) que forma la esencia de los Upaniṣads--  
+
+este mantra **confiere**, a aquellos que **no buscan** otra **recompensa**  
+**libertad** de prakṛti con sus tres cualidades (es decir, de saṁsāra.)
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -2839,19 +2886,48 @@ que los antiguos devotos (los eternos sūris) **renderizan** con entusiasmo (Nā
 
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-This mantra which is thus constituted of three words that are composed, respectively, of one, two and five letters and which treats of the three things to be known, namely, tattva (the truth), hita (the upāya) and puruṣārtha (the end to be attained) that are of the very essence of Vedānta-this mantra which is the foremost of all mantras, which has the praṇava of three letters which is the origin of the Vedas, which has the word **having** the three meanings, sthūla (gross) sūkṣma, (subtle) and para the (suprerme) (namely, namas) and which has in it the word (Nārāyaṇa) that forms the essence of the Upaniṣads--this mantra confers, on those who seek no other reward. freedom from prakṛti with its three qualities (i.e. from saṁsāra.)
+प्रणवादिपदत्रयङ्गळाले तत्त्वहितपुरुषार्थरूपार्थत्रयङ्गळैक् काण्बिक्किऱ (वेदान्तसारमाऩ) इत् तिरुमन्त्रम् ब्रह्मवित्तुक्कळुक्कु संसारनिवर्तियैप् पण्णिवैक्कुमॆऩ्ऱु अधिकारावसानश्लोकत्तालेय् अरुळिच्चॆय्गिऱार् इत्थमिति ।  
+एकद्विपञ्चाक्षरैः – ‘‘ओमित्येकाक्षरं, नम इति द्वे अक्षरे, नारायणायेति पञ्चाक्षराणि’’ ऎऩ्गिऱबडिये एकाक्षरमायुम् द्व्यक्षरमायुम् पञ्चाक्षरमायुमुळ्ळ, त्रिभिः पदैः – ॐ नमः नारायणाय ऎऩ्गिऱ मूऩ्ऱु पदङ्गळालुम्, अध्यात्मसारैः – वेदान्तसारङ्गळाऩ, तत्त्वहितप्रयोजनमयैः – तत्वहितपुरुषार्थरूपङ्गळाऩ, त्रिभिः – मूऩ्ऱाऩ, अर्थैः – अर्थङ्गळालुम्, सङ्घटितः - सेर्क्कप्पट्टिरुक्किऱ, 
+
+आद्यस् त्र्यक्षरवेदसूतिः - वेदत्तिऱ्कु मूलमाऩ प्रणवत्तै मुदलिलेय् उडैयदायुम्, 
+
+अजहत्-स्थूलादि-वृत्ति-त्रयः – स्थूलादिवृत्तीनां त्रयं यस्मिन्नमश्शब्दे सः स्थूलादिवृत्तित्रयः,  
+स्थूलयोजऩै सूक्ष्मयोजऩै परयोजऩै ऎऩ्गिऱ मूऩ्ऱु वृत्तिकळोडे कूडिऩ नमश्शब्दम् ऎऩ्ऱबडि।  
+अजहत् स्थूलादिवृत्तित्रयः यं सः अजहत्स्थूलादिवृत्तित्रयः, स्थूलादिवृत्तित्रयत्तै युडैय नमस्साऩदु यादॊरु मन्त्रत्तै विडविल्लैयो अदु ऎऩ्ऱबडि। 
+
+त्रय्यन्तसारः – वेदान्तसारभूतमाऩ नारायणशब्दत्तैयुडैयदायुमिरुक्किऱ 
+
+मनुः - इत् तिरुमन्त्रमाऩदु, सतां - तऩ्ऩै अनुसन्धिक्कुम् ब्रह्मवित्तुक्कळुक्कु, त्रैगुण्यप्रशमं – त्रयो गुणास्त्रैगुण्यं, सत्वरजस्तमांसि, अदुगळुडैय आत्यन्तिकनाशत्तै, त्रिगुणमाऩ  
+प्रकृतिविमोक्षत्तै यॆऩ्ऱबडि। प्रयच्छति –कॊडुक्किऱदॆऩ्गै।  
+
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे  
 मूलमन्त्राधिकारः सप्तविंशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे  
+मूलमन्त्राधिकारः सप्तविंशः ॥  
+श्रीमते निगमान्तमहादेशिकाय नमः ॥
+</details>
 
 
-------------------------
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-
-
+॥ इति श्रीमदहोबिलमठास्थाने द्विचत्वारिंशत्पट्टे मूर्द्धाभिषिक्तस्य निरवधिकगुरुभक्तिभरितस्य श्रीलक्ष्मीनृसिंहदिव्यपादुकासेवक श्रीवण्शठकोप श्री श्रीरङ्गशठकोपयतीन्द्रस्य कृतौ  
+    
+श्री सारबोधिन्याख्यायां व्याख्यायां मूलमन्त्राधिकारस्सप्तविंशः ॥
+</details>
 
 
 
