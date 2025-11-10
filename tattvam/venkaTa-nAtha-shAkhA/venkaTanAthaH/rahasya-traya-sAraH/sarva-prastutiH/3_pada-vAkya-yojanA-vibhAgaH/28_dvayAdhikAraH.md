@@ -3,7 +3,19 @@ title = "२८ द्वयाधिकारः"
 
 +++
 
-(28) THE CHAPTER ON THE DVAYA page479
+<details><summary>English</summary>
+
+(28) THE CHAPTER ON THE DVAYA  
+page 479
+
+</details>
+
+<details><summary>Español</summary>
+
+(28) EL CAPÍTULO SOBRE EL DVAYA  
+página 479
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
