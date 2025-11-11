@@ -222,10 +222,91 @@ THE REASON FOR ITS BEING CALLED DVAYA:
 LA RAZÓN POR LA QUE **SE LLAMA** DVAYA:
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इम् मन्त्रम् 
+
+> “स भ्रातुश् चरणौ गाढं”  
+( रामायणम् आरण्य-काण्डम् १५-६),  
+
+> “भवांस्तु सह वैदेह्या”  
+( रामायणम् अयोध्या-काण्डम् ३१-२८) 
+
+ऎऩ्गिऱ श्लोकद्-वयत्तिल् विवक्षितम् आऩ
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “स भ्रातुश् चरणौ गाढं”  
+( रामायणम् आरण्य-काण्डम् १५-६),
+
+> “भवांस्तु सह वैदेह्या”  
+( रामायणम् अयोध्या-काण्डम् ३१-२८) 
+</details>
+
+<details><summary>English</summary>
+
+This mantra  
+**as implicit** in two ślokas (of the Rāmāyaṇa ), namely 
+
+> He ('Lakṣmaṇa) **fell** at the two feet of his brother  
+and **said** in the **presence** of Sītā,   
+
+> "Thou **shalt enjoy** thyself with Sītā on the slopes of the mountains.  
+Whether thou **art awake** or **asleep**,  
+I (Lakṣmaṇa) **will render** every form of **service** to Thee" 
+
+</details>
+
+<details><summary>Español</summary>
+
+este mantra  
+**como implícito** en dos ślokas (del Rāmāyaṇa), a saber 
+
+> Él ('Lakṣmaṇa) **cay** a los dos pies de su hermano  
+y **dijo** en la **presencia** de Sītā,   
+
+> "Te **divertirás** con Sītā en las laderas de las montañas.  
+Ya **sea** que **estés despierto** o **dormido**,  
+Yo (Lakṣmaṇa) **te prestaré** toda forma de **servicio**"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इम् मन्त्रम् “स भ्रातुश्चरणौ गाढं”( रामायणम् आरण्यकाण्डम् १५-६), “भवांस्तु सहवैदेह्या”( रामायणम् अयोध्या-काण्डम् ३१-२८) ऎऩ्गिऱ श्लोकद्वयत्तिल् विवक्षितमाऩ
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपायोपेय-रूपम् आऩ अर्थ-द्वयत्तै प्रतिपादिक्कैयाले  
+द्वयम् ऎऩ्ऱु पेर् पॆऱ्ऱदु।
+</details>
+
+<details><summary>English</summary>
+
+**is called** Dvaya (the Two)  
+because it **treats** of two points, the upāya and the upeya (the means and the goal of **attainment**. 
+</details>
+
+<details><summary>Español</summary>
+
+**se llama** Dvaya (los Dos)  
+porque **trata** de dos puntos, el upāya y el upeya (el medio y la meta de **logro**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायोपेयरूपमाऩ अर्थद्वयत्तै प्रतिपादिक्कैयाले द्वयमॆऩ्ऱु बेर् पॆऱ्ऱदु।
+</details>
 
 
 
-This mantra is called Dvaya (the Two) because it treats of two points, the upāya and the upeya (the means and the goal of attainment, which are implicit in two ślokas (of the Rāmāyaṇa ), Namely, "He ('Lakṣmaṇa) fell at the two feet of his brother and said in the presence of Sītā, "Thou shalt enjoy thyself with Sītā on the slopes of the mountains. Whether thou art awake or asleep, I (Lakṣmaṇa) will render every form of service to Thee" The man who is not for any other upāya or for any other end or object (in view) has full competence for the adoption of this mantra.
+
+
+The man who is not for any other upāya or for any other end or object (in view) has full competence for the adoption of this mantra.
 
 Some (ācāryas) say that this mantra is called Dvaya (The Two), because it indicates (1) the soliciting (varana) of a Saviour and (2) the surrender of the responsibility (bharasamarpaṇam), both in one The same is the reason for the word Dvaya being employed in respeet of such other mantras as "Śrīman Nārāyaṇa Swamin". To this mantra also, such things as the adoration of The guru which are prescribed in the following ślokas in regard to another mantra concerning prapatti are applicable : "After prostrating before the guru, this sacred mantra (literally: the king of mantras) should be learnt. The guru is, himself, the supreme Brahman; the guru is himself the great upāya; the guru is himself the great vidyā or form of meditation; the guru is himsell the sacred Siddhopāya, the guru is himself mokṣa, the guru is himself the great wealth of jñāna or koowledge and bhakti  because he initiates (one) into the mantra, the guru is most venerable. This mantra does not require any suitability or any auspicious position of the stars for its initiation nor any purity attainable from baths in holy waters. Nor does it require for its successful initiation any japam, homam, daily repetition and the like. First one should prostrate in full before the guru three times and touch his feet with one's head and receive the mantra like a poor man expecting a hidden treasure. Having thus received the mantra, one should seek refuge under me. By this mantra alone should ope surrender one's self to me. He who has done so becomes one who has done what one ought to do ".
 
