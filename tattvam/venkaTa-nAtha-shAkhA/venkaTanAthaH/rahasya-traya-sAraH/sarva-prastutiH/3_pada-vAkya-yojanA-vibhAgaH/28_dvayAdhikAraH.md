@@ -3,15 +3,64 @@ title = "२८ द्वयाधिकारः"
 
 +++
 
-(28) THE CHAPTER ON THE DVAYA page479
+## परिचयः
+
+<details><summary>English</summary>
+
+(28) THE CHAPTER ON THE DVAYA  
+page 479
+
+</details>
+
+<details><summary>Español</summary>
+
+(28) EL CAPÍTULO SOBRE EL DVAYA  
+página 479
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-आकर्णितो वितनुते कृतकृत्यकक्ष्या-  
-माम्रेडितो दिशति यश्च कृतार्थभावम् ।  
-प्रत्यूषतां भजति संसृतिकालरात्रेः  
-पद्मासहायशरणागतिमन्त्र एषः ॥ ६४ ॥
+**+++(भगवता)+++ आकर्णितो वितनुते** कृत-कृत्य-कक्ष्याम्  
+**आम्रेडितो दिशति** यश् च कृतार्थ-भावम् +++(सद्यो-लब्ध-फल इव)+++।  
+प्रत्यूषतां **भजति** संसृति-काल-रात्रेः  
+पद्मा-सहाय-शरणागति-मन्त्र एषः ॥ ६४ ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+**+++(भगवता)+++ आकर्णितो वितनुते** कृत-कृत्य-कक्ष्याम्  
+**आम्रेडितो दिशति** यश् च कृतार्थ-भावम् +++(सद्यो-लब्ध-फल इव)+++।  
+प्रत्यूषतां **भजति** संसृति-काल-रात्रेः  
+पद्मा-सहाय-शरणागति-मन्त्र एषः ॥ ६४ ॥
+
+</details>
+
+<details><summary>English</summary>
+
+This mantra (Dvaya) which **is used** for **performing** śaranagati to the Lord of Padma ( Lakṣmī)  
+**is** of the nature of the dawn **coming** after the dark night of saṁsāra;  
+for **having caused it to be heard** by Bhagavān,  
+a man **is** in the position of one  
+who **has done** his **duty**;  
+**having repeated** it frequently,  
+he **is** in the position of one  
+who **has attained** his goal.
+</details>
+
+<details><summary>Español</summary>
+
+Este mantra (Dvaya) que **se usa** para **realizar** śaranagati al Señor de Padma (Lakṣmī)  
+**es** de la naturaleza del amanecer **que viene** después de la noche oscura del saṁsāra;  
+por **haber hecho** que Bhagavān **lo escuchara**,  
+un hombre **está** en la posición de uno  
+quien **ha cumplido** su **deber**;  
+**habiéndolo repetido** frecuentemente,  
+él **está** en la posición de uno  
+quien **ha logrado** su objetivo.
+</details>
+
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -21,15 +70,547 @@ title = "२८ द्वयाधिकारः"
 पद्मासहायशरणागतिमन्त्र एषः ॥ ६४ ॥
 </details>
 
-This mantra (Dvaya) which is used for performing śaranagati to the Lord of Padma ( Lakṣmī) is of the nature of the dawn coming after the dark night of saṁsāra; for having caused it to be heard by Bhagavān, a man is in the position of one who has done his duty; having repeated it frequently, he is in the position of one who has attained his goal.
 
-The particular upāya (viz. prapatti) which was stated as being indicated directly and explicitly by the middle word of Tirumantra (namo) or by implication in its meaning and the goal of attainment ( puruṣārtha ) viz. service to the Lord which is indicated in the third word (Nārāyaṇāya) are shown clearly and distinctly in Dvaya. This mantra is revealed in kattavalli separately, in two parts (with other passages coming in between ) and is enjoined as fit to be meditated on with the two parts together. It is also explained in such treatises as Śrī Prasna Saṁhitā in pañcarātra with details about the number of syllables in it (the aumber of letters, sentences, their order etc ). Therefore it is a tantrika mantra based on the śruti. The statement of some that it is a sentence given by ancientācāryas means only this much: that it should be held in great esteem because it was taught by the ancient achüryas or that Bhagavān who is the Supremeācārya enjoined it in the Bhagavat Śāstra, (pañcarātra). Those who desire to know may find its rishi (its beejam etc.) as for the Mūlamantra and the like in accordance with such treatises as the Mantraśāstra and the Science of Grammar (vyākaraṇa).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरु-मन्त्रत्तिल् मध्यम-पदत्तिल्  
+आर्थम् आगव् आदल्, शाब्दम् आगव् आदल् सॊऩ्ऩ उपाय-विशेषत्तैयुम्  
+
+इदिऩ् फलम् आग तृतीय-पदत्तिऱ् सॊऩ्ऩ पुरुषार्थ-विशेषत्तैयुम्  
+
+विशदम् आग प्रकाशिप्पिक्किऱदु द्वयम्। 
+</details>
+
+<details><summary>English</summary>
+
+The particular upāya (viz. prapatti) which **was stated** as **being indicated** directly and explicitly by the middle word of Tirumantra (namo) or by **implication** in its **meaning**  
+and the goal of **attainment** ( puruṣārtha ) viz. **service** to the Lord which **is indicated** in the third word (Nārāyaṇāya)  
+**are shown** clearly and distinctly in Dvaya. 
+</details>
+
+<details><summary>Español</summary>
+
+El upāya particular (es decir, prapatti) que **fue declarado** como **indicado** directa y explícitamente por la palabra media de Tirumantra (namo) o por **implicación** en su **significado**  
+y la meta de **logro** ( puruṣārtha ) a saber. **servicio** al Señor que **está indicado** en la tercera palabra (Nārāyaṇāya)  
+**se muestran** clara y distintivamente en Dvaya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तिरुमन्त्रत्तिल् मध्यमपदत्तिलार्थमागवादल् शाब्दमागवादल् सॊऩ्ऩ उपायविशेषत्तैयुम् इदिऩ् फलमाग तृतीयपदत्तिऱ् सॊऩ्ऩ पुरुषार्थविशेषत्तैयुम् विशदमाग प्रकाशिप्पिक्किऱदु द्वयम्। 
+</details>
+
+## स्रोतः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु कठ-वल्लियिले पिरिय वोदिच्  
+चेर्त्त् अनुसन्धिक्क विधिक्कैयालुम्  
+भगवच्-छास्त्रत्तिले श्री-प्रश्न-संहितादिगळिले वर्णोद्धारादिगळुम् पण्णि प्रतिपादिक्कैयालुम्  
+श्रुति-मूलम् आऩ तान्त्रिक-मन्त्रम्। 
+</details>
+
+<details><summary>English</summary>
+
+This mantra **is revealed** in kattavalli separately, in two parts (with other passages **coming** in between )  
+and **is enjoined** as **fit to be meditated on**  
+with the two parts together.  
+It **is** also **explained** in such treatises as Śrī Prasna Saṁhitā in pañcarātra  
+with details about the number of syllables in it (the number of letters, sentences, their order etc ).  
+Therefore it **is** a tantrika mantra **based** on the śruti. 
+</details>
+
+<details><summary>Español</summary>
+
+Este mantra **se revela** en kattavalli por separado, en dos partes (con otros pasajes en el medio)  
+y **se recomienda** como **apto para ser meditado**  
+con las dos partes juntas.  
+
+También **se explica** en tratados como Śrī Prasna Saṁhitā en pañcarātra  
+con detalles sobre el número de sílabas que **contiene** (el número de letras, oraciones, su orden, etc.).  
+Por lo tanto **es** un mantra tantrika **basado** en el śruti. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु कठवल्लियिले पिरियवोदिच् चेर्त्तनुसन्धिक्क विधिक्कैयालुम् भगवच्छास्त्रत्तिले श्रीप्रश्नसंहितादिगळिले वर्णोद्धारादिगळुम् पण्णि प्रतिपादिक्कैयालुम् श्रुतिमूलमाऩ तांत्रिकमन्त्रम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्तै पूर्वाचार्य-वाक्यम् ऎऩ्ऱु सिलर् सॊऩ्ऩदुवुम्  
+आप्तर् उपदेशित्तार् ऎऩ्ऱ् आदरिक्कैक्क् आगव् आदल्  
+परमाचार्यऩ् आऩ सर्वेश्वरऩ्  
+भगवच्-छास्त्रत्तिलेय् अरुळिच् चॆय्गैयालेय् आदल् आम् अत्तऩै। 
+</details>
+
+<details><summary>English</summary>
+
+The **statement** of some that it **is** a sentence  
+**given** by ancient ācāryas  
+**means** only this much:  
+
+that it **should be held** in great esteem  
+because it **was taught** by the ancient ācāryas  
+
+or that Bhagavān who **is** the Supreme ācārya  
+**enjoined it** in the Bhagavat Śāstra, (pañcarātra). 
+</details>
+
+<details><summary>Español</summary>
+
+La **afirmación** de algunos de que **es** una oración  
+**dado** por los antiguos ācāryas  
+**significa** sólo esto:  
+
+que **debe ser tenido** en gran estima  
+porque **fue enseñado** por los antiguos ācāryas  
+
+o ese Bhagavān que **es** el ācārya Supremo  
+**lo ordenó** en el Bhagavat Śāstra, (pañcarātra).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्तै पूर्वाचार्यवाक्यमॆऩ्ऱु सिलर् सॊऩ्ऩदुवुम् आप्तरुपदेशित्तारॆऩ्ऱा दरिक्कैक्कागवादल् परमाचार्यऩाऩ सर्वेश्वरऩ् भगवच्छास्त्रत्तिले यरुळिच् चॆय्गैयालेयादलामत्तऩै। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कु ऋष्य्-आदिगळुम्  
+मूल-मन्त्रादिगळिऱ् पोले अपेक्षमाणर्क्कु  
+मन्त्र-व्याकरणादिगळिऱ् पडिये कण्डु गॊळ्ळल् आम्।   
+</details>
+
+<details><summary>English</summary>
+
+Those who **desire** to **know**  
+**may find** its rishi (its beejam etc.)  
+as for the Mūlamantra and the like  
+in accordance with such treatises as the Mantraśāstra and the Science of Grammar (vyākaraṇa).
+</details>
+
+<details><summary>Español</summary>
+
+Aquellos que **desean saber**  
+**puede encontrar** su rishi (su beejam, etc.)  
+en cuanto al Mūlamantra y similares  
+de acuerdo con tratados como el Mantraśāstra y la Ciencia de la Gramática (vyākaraṇa).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुक्कु ऋष्यादिगळुम् मूलमन्त्रादिगळिऱ् पोले अपेक्षमाणर्क्कु मन्त्रव्याकरणादिगळिऱ्पडिये कण्डुगॊळ्ळलाम्।   
+</details>
+
+
+
+## द्वयत्वम्
+<details><summary>English</summary>
 
 THE REASON FOR ITS BEING CALLED DVAYA:
+</details>
 
-This mantra is called Dvaya (the Two) because it treats of two points, the upāya and the upeya (the means and the goal of attainment, which are implicit in two ślokas (of the Rāmāyaṇa ), Namely, "He ('Lakṣmaṇa) fell at the two feet of his brother and said in the presence of Sītā, "Thou shalt enjoy thyself with Sītā on the slopes of the mountains. Whether thou art awake or asleep, I (Lakṣmaṇa) will render every form of service to Thee" The man who is not for any other upāya or for any other end or object (in view) has full competence for the adoption of this mantra.
+<details><summary>Español</summary>
 
-Some (ācāryas) say that this mantra is called Dvaya (The Two), because it indicates (1) the soliciting (varana) of a Saviour and (2) the surrender of the responsibility (bharasamarpaṇam), both in one The same is the reason for the word Dvaya being employed in respeet of such other mantras as "Śrīman Nārāyaṇa Swamin". To this mantra also, such things as the adoration of The guru which are prescribed in the following ślokas in regard to another mantra concerning prapatti are applicable : "After prostrating before the guru, this sacred mantra (literally: the king of mantras) should be learnt. The guru is, himself, the supreme Brahman; the guru is himself the great upāya; the guru is himself the great vidyā or form of meditation; the guru is himsell the sacred Siddhopāya, the guru is himself mokṣa, the guru is himself the great wealth of jñāna or koowledge and bhakti  because he initiates (one) into the mantra, the guru is most venerable. This mantra does not require any suitability or any auspicious position of the stars for its initiation nor any purity attainable from baths in holy waters. Nor does it require for its successful initiation any japam, homam, daily repetition and the like. First one should prostrate in full before the guru three times and touch his feet with one's head and receive the mantra like a poor man expecting a hidden treasure. Having thus received the mantra, one should seek refuge under me. By this mantra alone should ope surrender one's self to me. He who has done so becomes one who has done what one ought to do ".
+LA RAZÓN POR LA QUE **SE LLAMA** DVAYA:
+</details>
+
+
+### उपायोपेयौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इम् मन्त्रम् 
+
+> “स भ्रातुश् चरणौ गाढं”  
+( रामायणम् आरण्य-काण्डम् १५-६),  
+
+> “भवांस्तु सह वैदेह्या”  
+( रामायणम् अयोध्या-काण्डम् ३१-२८) 
+
+ऎऩ्गिऱ श्लोकद्-वयत्तिल् विवक्षितम् आऩ
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “स भ्रातुश् चरणौ गाढं”  
+( रामायणम् आरण्य-काण्डम् १५-६),
+
+> “भवांस्तु सह वैदेह्या”  
+( रामायणम् अयोध्या-काण्डम् ३१-२८) 
+</details>
+
+<details><summary>English</summary>
+
+This mantra  
+**as implicit** in two ślokas (of the Rāmāyaṇa ), namely 
+
+> He ('Lakṣmaṇa) **fell** at the two feet of his brother  
+and **said** in the **presence** of Sītā,   
+
+> "Thou **shalt enjoy** thyself with Sītā on the slopes of the mountains.  
+Whether thou **art awake** or **asleep**,  
+I (Lakṣmaṇa) **will render** every form of **service** to Thee" 
+
+</details>
+
+<details><summary>Español</summary>
+
+este mantra  
+**como implícito** en dos ślokas (del Rāmāyaṇa), a saber 
+
+> Él ('Lakṣmaṇa) **cay** a los dos pies de su hermano  
+y **dijo** en la **presencia** de Sītā,   
+
+> "Te **divertirás** con Sītā en las laderas de las montañas.  
+Ya **sea** que **estés despierto** o **dormido**,  
+Yo (Lakṣmaṇa) **te prestaré** toda forma de **servicio**"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इम् मन्त्रम् “स भ्रातुश्चरणौ गाढं”( रामायणम् आरण्यकाण्डम् १५-६), “भवांस्तु सहवैदेह्या”( रामायणम् अयोध्या-काण्डम् ३१-२८) ऎऩ्गिऱ श्लोकद्वयत्तिल् विवक्षितमाऩ
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपायोपेय-रूपम् आऩ अर्थ-द्वयत्तै प्रतिपादिक्कैयाले  
+द्वयम् ऎऩ्ऱु पेर् पॆऱ्ऱदु।
+</details>
+
+<details><summary>English</summary>
+
+**is called** Dvaya (the Two)  
+because it **treats** of two points, the upāya and the upeya (the means and the goal of **attainment**. 
+</details>
+
+<details><summary>Español</summary>
+
+**se llama** Dvaya (los Dos)  
+porque **trata** de dos puntos, el upāya y el upeya (el medio y la meta de **logro**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायोपेयरूपमाऩ अर्थद्वयत्तै प्रतिपादिक्कैयाले द्वयमॆऩ्ऱु बेर् पॆऱ्ऱदु।
+</details>
+
+#### अधिकारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् इरुक्कैयाल्  
+उपायान्तरङ्गळिलुम् उपेयान्तरङ्गळिलुन् तुवक्क् अऱ्ऱवऩ्  
+इम् मन्त्रत्तुक्कु पूर्णाधिकारी ।
+</details>
+
+<details><summary>English</summary>
+
+The man who **is not** for any other upāya or for any other end or object (in view)  
+**has** full **competence** for the **adoption** of this mantra.
+</details>
+
+<details><summary>Español</summary>
+
+El hombre que **no está** para ningún otro upāya o para ningún otro fin u objeto (a la vista)  
+**tiene** plena **competencia** para la **adopción** de este mantra.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियिरुक्कैयाल् उपायान्तरङ्गळिलुमुपेयान्तरङ्गळि लुन्दुवक्कऱ्ऱवऩ् इम् मन्त्रत्तुक्कु पूर्णाधिकारी ।
+</details>
+
+### वरण-समर्पणे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इम् मन्त्रम् वरण-समर्पणङ्गळैय् अडैवे प्रतिपादिक्कैयाले  
+द्वयम् ऎऩ्ऱु सॊल्लप्-पडुगिऱद् ऎऩ्ऱुञ्  
+जिलर् सॊल्लुवर्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+Some (ācāryas) **say** that this mantra **is called** Dvaya (The Two),  
+because it **indicates** both  
+
+(1) the **soliciting** (varana) of a Saviour and  
+(2) the **surrender** of the responsibility (bharasamarpaṇam), 
+
+in one. 
+</details>
+
+<details><summary>Español</summary>
+
+Algunos (ācāryas) **dicen** que este mantra **se llama** Dvaya (Los Dos),  
+porque **indica** ambos  
+
+(1) la **solicitud** (varana) de un Salvador y  
+(2) la **rendición** de la responsabilidad (bharasamarpaṇam), 
+
+en uno.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इम् मन्त्रम् वरणसमर्पणङ् गळैयडैवे प्रतिपादिक्कैयाले द्वयमॆऩ्ऱु सॊल्लप्पडुगिऱ तॆऩ्ऱुञ्जिलर् सॊल्लुवर्गळ्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि 
+
+> “श्रीमन् नारायण-स्वामिन्न्”  
+
+इत्य्-आदि-मन्त्रान्तरत्तिलुम्  
+द्वय-शब्द-प्रयोगत्तुक्क्  
+इवैये निमित्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+The same **is** the reason for the word Dvaya **being employed**  
+in respect of such other mantras as "Śrīman Nārāyaṇa Svamin". 
+</details>
+
+<details><summary>Español</summary>
+
+La misma **es** la razón por la cual la palabra Dvaya **se emplea**  
+con respecto a otros mantras como "Śrīman Nārāyaṇa Svamin".
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि “श्रीमन्नारायणस्वामि”न्नित्यादिमन्त्रान्तरत्तिलुम् द्वयशब्दप्रयोगत्तुक्किवैये निमित्तम्। 
+</details>
+
+## गुरुः प्राप्तौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “मन्त्र-राजम् इमं **विद्यात्**  
+गुरु-वन्दन-पूर्वकम् ।  
+गुरुर् एव परं ब्रह्म  
+गुरुर् एव परा गतिः +++(→उपायः)+++ ॥ 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “मन्त्र-राजम् इमं **विद्यात्**  
+गुरु-वन्दन-पूर्वकम् ।  
+गुरुर् एव परं ब्रह्म  
+गुरुर् एव परा गतिः +++(→उपायः)+++॥ 
+</details>
+
+<details><summary>English</summary>
+
+> "After **prostrating** before the guru,  
+this sacred mantra (literally: the king of mantras) **should be learnt**.  
+The guru **is**, himself, the supreme Brahman;  
+the guru **is** himself the great upāya;  
+</details>
+
+<details><summary>Español</summary>
+
+> "Después de **postrarte** ante el gurú,  
+este mantra sagrado (literalmente: el rey de los mantras) **debe aprenderse**.  
+El gurú **es** él mismo, el Brahman supremo;  
+el gurú **es** él mismo el gran upāya;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“मन्त्रराजमिमं विद्यात् गुरुवन्दनपूर्वकम् । गुरुरेव परं ब्रह्म गुरुरेव परा गतिः ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> गुरुर् एव परा विद्या  
+गुरुर् एव परायणम् +++(←सिद्धोपायः)+++।  
+गुरुर् एव परः कामो +++(→मोक्षः)+++  
+गुरुरेव परन् धनम् +++(→ज्ञान-रूपम्)+++॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> गुरुर् एव परा विद्या  
+गुरुर् एव परायणम् +++(←सिद्धोपायः)+++।  
+गुरुर् एव परः कामो +++(→मोक्षः)+++  
+गुरुरेव परन् धनम् +++(→ज्ञान-रूपम्)+++॥
+</details>
+
+
+<details><summary>English</summary>
+
+> the guru **is** himself the great vidyā or form of meditation;  
+the guru **is** himself the sacred Siddhopāya,  
+the guru **is** himself mokṣa,  
+the guru **is** himself the great wealth of jñāna or knowledge and bhakti  
+</details>
+
+<details><summary>Español</summary>
+
+> el gurú **es** él mismo el gran vidyā o forma de **meditación**;  
+el gurú **es** él mismo el sagrado Siddhopāya,  
+el gurú **es** él mismo mokṣa,  
+el gurú **es** él mismo la gran riqueza de jñāna o **conocimiento** y bhakti
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गुरुरेव परा विद्या गुरुरेव परायणम् । गुरुरेव परः कामो गुरुरेव परन्धनम् ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यस्मात् तद्-उपदेष्टा ऽसौ  
+तस्माद् गुरुतरो गुरुः । 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> यस्मात् तद्-उपदेष्टा ऽसौ  
+तस्माद् गुरुतरो गुरुः । 
+</details>
+
+<details><summary>English</summary>
+
+> because he **initiates** (one) into the mantra,  
+the guru **is** most venerable. 
+</details>
+
+<details><summary>Español</summary>
+
+> porque él **inicia** (a uno) en el mantra,  
+el gurú **es** muy venerable.
+</details>
+
+<details><summary>मूलम्</summary>
+
+यस्मात्तदुपदेष्टासौ तस्माद्गुरुतरो गुरुः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> +++(उपदेशाय)+++ नानुकूल्यं न नक्षत्रं  
+न तीर्थादि-निषेवणम् ।  
+न पुरश्-चरणं नित्यं  
+जपं वापेक्षते ह्य् अयम् +++(मन्त्रः)+++। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> +++(उपदेशाय)+++ नानुकूल्यं न नक्षत्रं  
+न तीर्थादि-निषेवणम् ।  
+न पुरश्-चरणं नित्यं  
+जपं वापेक्षते ह्य् अयम् +++(मन्त्रः)+++। 
+</details>
+
+
+<details><summary>English</summary>
+
+> This mantra **does not require** any **suitability**  
+or any auspicious position of the stars for its **initiation**  
+nor any purity **attainable** from baths in holy waters.  
+**Nor does it require** for its successful **initiation**  
+any japa, homa, daily repetition and the like. 
+</details>
+
+<details><summary>Español</summary>
+
+> Este mantra **no requiere** ninguna **idoneidad**  
+o cualquier posición auspiciosa de los astros para su **iniciación**  
+ni ninguna pureza **alcanzable** a partir de **baños** en aguas benditas.  
+**Tampoco requiere** para su **iniciación** exitosa  
+cualquier japa, homa, **repetición** diaria y similares.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नानुकूल्यं न नक्षत्रं न तीर्थादिनिषेवणम् । न पुरश्चरणं नित्यं जपं वापेक्षते ह्ययम् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **नमस्कृत्य** गुरुं दीर्घ-  
+प्रणामैस् त्रिभिर् आदितः ॥  
+तत्-पादौ गृह्य मूर्ध्नि स्वे  
+**निधाय** विनयान्वितः । 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **नमस्कृत्य** गुरुं दीर्घ-  
+प्रणामैस् त्रिभिर् आदितः ॥  
+तत्-पादौ गृह्य मूर्ध्नि स्वे  
+**निधाय** विनयान्वितः । 
+</details>
+
+<details><summary>English</summary>
+
+> First one **should prostrate** in full before the guru three times  
+and **touch** his feet with one's head  
+
+</details>
+
+<details><summary>Español</summary>
+
+> El primero **debe postrarse** completamente ante el gurú tres veces  
+y **tocar** sus pies con la cabeza
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नमस्कृत्य गुरुं दीर्घप्रणामैस्त्रिभिरादितः ॥ तत्पादौ गृह्य मूर्ध्नि स्वे निधाय विनयान्वितः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **गृह्णीयान्** मन्त्र-राजानं  
+निधि-काङ्क्षीव निर्धनः ॥  
+**लब्ध्वैवं** मन्त्र-राजानं  
+माङ् **गच्छेच् छरणं** नरः । 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> **गृह्णीयान्** मन्त्र-राजानं  
+निधि-काङ्क्षीव निर्धनः ॥  
+**लब्ध्वैवं** मन्त्र-राजानं  
+माङ् **गच्छेच् छरणं** नरः । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गृह्णीयान्मन्त्रराजानं निधिकांक्षीव निर्धनः ॥ लब्ध्वैवं मन्त्रराजानं माङ्गच्छेच्छरणं नरः । 
+</details>
+
+
+To this mantra also,  
+such things as the **adoration** of the guru  
+which **are prescribed** in the above ślokas  
+in regard to another mantra **concerning** prapatti  
+**are applicable**.
+
+and receive the mantra like a poor man expecting a hidden treasure. Having thus received the mantra, one should seek refuge under me. By this mantra alone should ope surrender one's self to me. He who has done so becomes one who has done what one ought to do ".
 
 It is learnt from the Śāstras (Kaṭhavalli and the like) that a single utterance of this mantra by a believer preceded by a knowledge of its meaning as a whole will secure salvation. The potency of this mantra as distinguished from that of other mantras has been described as follows (by Śrī Rāmānuja):- "In whatever manner you utter the Dvaya etc." It has been said:-- "The man by whom the name of Bhagavān is uttered even unconsciously is freed from all sins as a forest with a lion in it from animals that are afraid of lions ", and (so also), "The extent of potency that Thy name, O Hari, has in condoping sins exceeds even that of sins that can (ever) be committed by a man who eats dog's flesh (i. e, a chandāla,". If, in such passages, the potency of a mere utterance of the Lord's name is praised in very high terms, what is said in such treatises as the śruti about even a single utterance of this great mantra which reveals, in full, the Redeemer, the surrender of the self to Him and the fruit to be obtained there from can be easily realised by the force of pramāṇas. The reason of this potency may be understood from the pramāṇas and from tradition or sampradāya. It is not proper to argne about these subjects which are of the nature of mystic doctrines. We can only place faith in them on the strength of what is stated in the śastras. In such treatises as the Mahabhiirata. it is said: - "Arguments based on reason are of no avail in regard to divine and other mys teries. The man who desires his happiness should have implicit faith in them like one who is deaf and who is blind."
 
