@@ -101,12 +101,129 @@ y la meta de **logro** ( puruṣārtha ) a saber. **servicio** al Señor que **e
 तिरुमन्त्रत्तिल् मध्यमपदत्तिलार्थमागवादल् शाब्दमागवादल् सॊऩ्ऩ उपायविशेषत्तैयुम् इदिऩ् फलमाग तृतीयपदत्तिऱ् सॊऩ्ऩ पुरुषार्थविशेषत्तैयुम् विशदमाग प्रकाशिप्पिक्किऱदु द्वयम्। 
 </details>
 
+## स्रोतः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु कठ-वल्लियिले पिरिय वोदिच्  
+चेर्त्त् अनुसन्धिक्क विधिक्कैयालुम्  
+भगवच्-छास्त्रत्तिले श्री-प्रश्न-संहितादिगळिले वर्णोद्धारादिगळुम् पण्णि प्रतिपादिक्कैयालुम्  
+श्रुति-मूलम् आऩ तान्त्रिक-मन्त्रम्। 
+</details>
+
+<details><summary>English</summary>
+
+This mantra **is revealed** in kattavalli separately, in two parts (with other passages **coming** in between )  
+and **is enjoined** as **fit to be meditated on**  
+with the two parts together.  
+It **is** also **explained** in such treatises as Śrī Prasna Saṁhitā in pañcarātra  
+with details about the number of syllables in it (the number of letters, sentences, their order etc ).  
+Therefore it **is** a tantrika mantra **based** on the śruti. 
+</details>
+
+<details><summary>Español</summary>
+
+Este mantra **se revela** en kattavalli por separado, en dos partes (con otros pasajes en el medio)  
+y **se recomienda** como **apto para ser meditado**  
+con las dos partes juntas.  
+
+También **se explica** en tratados como Śrī Prasna Saṁhitā en pañcarātra  
+con detalles sobre el número de sílabas que **contiene** (el número de letras, oraciones, su orden, etc.).  
+Por lo tanto **es** un mantra tantrika **basado** en el śruti. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु कठवल्लियिले पिरियवोदिच् चेर्त्तनुसन्धिक्क विधिक्कैयालुम् भगवच्छास्त्रत्तिले श्रीप्रश्नसंहितादिगळिले वर्णोद्धारादिगळुम् पण्णि प्रतिपादिक्कैयालुम् श्रुतिमूलमाऩ तांत्रिकमन्त्रम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्तै पूर्वाचार्य-वाक्यम् ऎऩ्ऱु सिलर् सॊऩ्ऩदुवुम्  
+आप्तर् उपदेशित्तार् ऎऩ्ऱ् आदरिक्कैक्क् आगव् आदल्  
+परमाचार्यऩ् आऩ सर्वेश्वरऩ्  
+भगवच्-छास्त्रत्तिलेय् अरुळिच् चॆय्गैयालेय् आदल् आम् अत्तऩै। 
+</details>
+
+<details><summary>English</summary>
+
+The **statement** of some that it **is** a sentence  
+**given** by ancient ācāryas  
+**means** only this much:  
+
+that it **should be held** in great esteem  
+because it **was taught** by the ancient ācāryas  
+
+or that Bhagavān who **is** the Supreme ācārya  
+**enjoined it** in the Bhagavat Śāstra, (pañcarātra). 
+</details>
+
+<details><summary>Español</summary>
+
+La **afirmación** de algunos de que **es** una oración  
+**dado** por los antiguos ācāryas  
+**significa** sólo esto:  
+
+que **debe ser tenido** en gran estima  
+porque **fue enseñado** por los antiguos ācāryas  
+
+o ese Bhagavān que **es** el ācārya Supremo  
+**lo ordenó** en el Bhagavat Śāstra, (pañcarātra).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्तै पूर्वाचार्यवाक्यमॆऩ्ऱु सिलर् सॊऩ्ऩदुवुम् आप्तरुपदेशित्तारॆऩ्ऱा दरिक्कैक्कागवादल् परमाचार्यऩाऩ सर्वेश्वरऩ् भगवच्छास्त्रत्तिले यरुळिच् चॆय्गैयालेयादलामत्तऩै। 
+</details>
 
 
 
-This mantra is revealed in kattavalli separately, in two parts (with other passages coming in between ) and is enjoined as fit to be meditated on with the two parts together. It is also explained in such treatises as Śrī Prasna Saṁhitā in pañcarātra with details about the number of syllables in it (the aumber of letters, sentences, their order etc ). Therefore it is a tantrika mantra based on the śruti. The statement of some that it is a sentence given by ancientācāryas means only this much: that it should be held in great esteem because it was taught by the ancient achüryas or that Bhagavān who is the Supremeācārya enjoined it in the Bhagavat Śāstra, (pañcarātra). Those who desire to know may find its rishi (its beejam etc.) as for the Mūlamantra and the like in accordance with such treatises as the Mantraśāstra and the Science of Grammar (vyākaraṇa).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कु ऋष्य्-आदिगळुम्  
+मूल-मन्त्रादिगळिऱ् पोले अपेक्षमाणर्क्कु  
+मन्त्र-व्याकरणादिगळिऱ् पडिये कण्डु गॊळ्ळल् आम्।   
+</details>
+
+<details><summary>English</summary>
+
+Those who **desire** to **know**  
+**may find** its rishi (its beejam etc.)  
+as for the Mūlamantra and the like  
+in accordance with such treatises as the Mantraśāstra and the Science of Grammar (vyākaraṇa).
+</details>
+
+<details><summary>Español</summary>
+
+Aquellos que **desean saber**  
+**puede encontrar** su rishi (su beejam, etc.)  
+en cuanto al Mūlamantra y similares  
+de acuerdo con tratados como el Mantraśāstra y la Ciencia de la Gramática (vyākaraṇa).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुक्कु ऋष्यादिगळुम् मूलमन्त्रादिगळिऱ् पोले अपेक्षमाणर्क्कु मन्त्रव्याकरणादिगळिऱ्पडिये कण्डुगॊळ्ळलाम्।   
+</details>
+
+
+
+## द्वयत्वम्
+<details><summary>English</summary>
 
 THE REASON FOR ITS BEING CALLED DVAYA:
+</details>
+
+<details><summary>Español</summary>
+
+LA RAZÓN POR LA QUE **SE LLAMA** DVAYA:
+</details>
+
+
+
 
 This mantra is called Dvaya (the Two) because it treats of two points, the upāya and the upeya (the means and the goal of attainment, which are implicit in two ślokas (of the Rāmāyaṇa ), Namely, "He ('Lakṣmaṇa) fell at the two feet of his brother and said in the presence of Sītā, "Thou shalt enjoy thyself with Sītā on the slopes of the mountains. Whether thou art awake or asleep, I (Lakṣmaṇa) will render every form of service to Thee" The man who is not for any other upāya or for any other end or object (in view) has full competence for the adoption of this mantra.
 
