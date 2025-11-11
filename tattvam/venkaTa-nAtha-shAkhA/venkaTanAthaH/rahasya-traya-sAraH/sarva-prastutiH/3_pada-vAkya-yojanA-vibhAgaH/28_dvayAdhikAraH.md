@@ -3,7 +3,7 @@ title = "२८ द्वयाधिकारः"
 
 +++
 
-## प्रवेशः
+## परिचयः
 
 <details><summary>English</summary>
 
@@ -21,20 +21,45 @@ página 479
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-**आकर्णितो वितनुते** कृत-कृत्य-कक्ष्याम्  
-**आम्रेडितो दिशति** यश् च कृतार्थ-भावम् ।  
+**+++(भगवता)+++ आकर्णितो वितनुते** कृत-कृत्य-कक्ष्याम्  
+**आम्रेडितो दिशति** यश् च कृतार्थ-भावम् +++(सद्यो-लब्ध-फल इव)+++।  
 प्रत्यूषतां **भजति** संसृति-काल-रात्रेः  
 पद्मा-सहाय-शरणागति-मन्त्र एषः ॥ ६४ ॥
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-**आकर्णितो वितनुते** कृत-कृत्य-कक्ष्याम्  
-**आम्रेडितो दिशति** यश् च कृतार्थ-भावम् ।  
+**+++(भगवता)+++ आकर्णितो वितनुते** कृत-कृत्य-कक्ष्याम्  
+**आम्रेडितो दिशति** यश् च कृतार्थ-भावम् +++(सद्यो-लब्ध-फल इव)+++।  
 प्रत्यूषतां **भजति** संसृति-काल-रात्रेः  
 पद्मा-सहाय-शरणागति-मन्त्र एषः ॥ ६४ ॥
 
 </details>
+
+<details><summary>English</summary>
+
+This mantra (Dvaya) which **is used** for **performing** śaranagati to the Lord of Padma ( Lakṣmī)  
+**is** of the nature of the dawn **coming** after the dark night of saṁsāra;  
+for **having caused it to be heard** by Bhagavān,  
+a man **is** in the position of one  
+who **has done** his **duty**;  
+**having repeated** it frequently,  
+he **is** in the position of one  
+who **has attained** his goal.
+</details>
+
+<details><summary>Español</summary>
+
+Este mantra (Dvaya) que **se usa** para **realizar** śaranagati al Señor de Padma (Lakṣmī)  
+**es** de la naturaleza del amanecer **que viene** después de la noche oscura del saṁsāra;  
+por **haber hecho** que Bhagavān **lo escuchara**,  
+un hombre **está** en la posición de uno  
+quien **ha cumplido** su **deber**;  
+**habiéndolo repetido** frecuentemente,  
+él **está** en la posición de uno  
+quien **ha logrado** su objetivo.
+</details>
+
 
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -45,9 +70,41 @@ página 479
 पद्मासहायशरणागतिमन्त्र एषः ॥ ६४ ॥
 </details>
 
-This mantra (Dvaya) which is used for performing śaranagati to the Lord of Padma ( Lakṣmī) is of the nature of the dawn coming after the dark night of saṁsāra; for having caused it to be heard by Bhagavān, a man is in the position of one who has done his duty; having repeated it frequently, he is in the position of one who has attained his goal.
 
-The particular upāya (viz. prapatti) which was stated as being indicated directly and explicitly by the middle word of Tirumantra (namo) or by implication in its meaning and the goal of attainment ( puruṣārtha ) viz. service to the Lord which is indicated in the third word (Nārāyaṇāya) are shown clearly and distinctly in Dvaya. This mantra is revealed in kattavalli separately, in two parts (with other passages coming in between ) and is enjoined as fit to be meditated on with the two parts together. It is also explained in such treatises as Śrī Prasna Saṁhitā in pañcarātra with details about the number of syllables in it (the aumber of letters, sentences, their order etc ). Therefore it is a tantrika mantra based on the śruti. The statement of some that it is a sentence given by ancientācāryas means only this much: that it should be held in great esteem because it was taught by the ancient achüryas or that Bhagavān who is the Supremeācārya enjoined it in the Bhagavat Śāstra, (pañcarātra). Those who desire to know may find its rishi (its beejam etc.) as for the Mūlamantra and the like in accordance with such treatises as the Mantraśāstra and the Science of Grammar (vyākaraṇa).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरु-मन्त्रत्तिल् मध्यम-पदत्तिल्  
+आर्थम् आगव् आदल्, शाब्दम् आगव् आदल् सॊऩ्ऩ उपाय-विशेषत्तैयुम्  
+
+इदिऩ् फलम् आग तृतीय-पदत्तिऱ् सॊऩ्ऩ पुरुषार्थ-विशेषत्तैयुम्  
+
+विशदम् आग प्रकाशिप्पिक्किऱदु द्वयम्। 
+</details>
+
+<details><summary>English</summary>
+
+The particular upāya (viz. prapatti) which **was stated** as **being indicated** directly and explicitly by the middle word of Tirumantra (namo) or by **implication** in its **meaning**  
+and the goal of **attainment** ( puruṣārtha ) viz. **service** to the Lord which **is indicated** in the third word (Nārāyaṇāya)  
+**are shown** clearly and distinctly in Dvaya. 
+</details>
+
+<details><summary>Español</summary>
+
+El upāya particular (es decir, prapatti) que **fue declarado** como **indicado** directa y explícitamente por la palabra media de Tirumantra (namo) o por **implicación** en su **significado**  
+y la meta de **logro** ( puruṣārtha ) a saber. **servicio** al Señor que **está indicado** en la tercera palabra (Nārāyaṇāya)  
+**se muestran** clara y distintivamente en Dvaya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तिरुमन्त्रत्तिल् मध्यमपदत्तिलार्थमागवादल् शाब्दमागवादल् सॊऩ्ऩ उपायविशेषत्तैयुम् इदिऩ् फलमाग तृतीयपदत्तिऱ् सॊऩ्ऩ पुरुषार्थविशेषत्तैयुम् विशदमाग प्रकाशिप्पिक्किऱदु द्वयम्। 
+</details>
+
+
+
+
+This mantra is revealed in kattavalli separately, in two parts (with other passages coming in between ) and is enjoined as fit to be meditated on with the two parts together. It is also explained in such treatises as Śrī Prasna Saṁhitā in pañcarātra with details about the number of syllables in it (the aumber of letters, sentences, their order etc ). Therefore it is a tantrika mantra based on the śruti. The statement of some that it is a sentence given by ancientācāryas means only this much: that it should be held in great esteem because it was taught by the ancient achüryas or that Bhagavān who is the Supremeācārya enjoined it in the Bhagavat Śāstra, (pañcarātra). Those who desire to know may find its rishi (its beejam etc.) as for the Mūlamantra and the like in accordance with such treatises as the Mantraśāstra and the Science of Grammar (vyākaraṇa).
 
 THE REASON FOR ITS BEING CALLED DVAYA:
 

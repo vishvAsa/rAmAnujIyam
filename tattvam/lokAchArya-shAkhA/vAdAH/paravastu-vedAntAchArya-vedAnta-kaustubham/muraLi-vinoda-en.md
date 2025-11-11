@@ -4,7 +4,9 @@ title = "MuraLi vinoda en"
 
 Journal Article
 
-Lexical Debates: Unravelling the term ‘Nārāyaṇa’ in Early Modern Polemical Works of Vedānta _Open Access_
+Lexical Debates: Unravelling the term ‘Nārāyaṇa’ in Early Modern Polemical Works of Vedānta  
+
+_Open Access_
 
 Vinoth Murali
 
