@@ -755,13 +755,472 @@ La **potencia** de este mantra **se distingue** de la de otros mantras
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अवशेनापि यन्-नाम्नि  
+**कीर्तिते** सर्व-पातकैः ।  
+पुमान् **विमुच्यते** सद्यस्   
+सिंह-**त्रस्तैर्** मृगैर् इव”॥  
+( विष्णुपुराणम् ६-८-१९)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अवशेनापि यन्-नाम्नि  
+**कीर्तिते** सर्व-पातकैः ।  
+पुमान् **विमुच्यते** सद्यस्   
+सिंह-**त्रस्तैर्** मृगैर् इव”॥  
+( विष्णुपुराणम् ६-८-१९)
+
+</details>
+
+<details><summary>विषयः</summary>
+
+नाम, विष्णुः
+</details>
 
 
-It has been said:-- "The man by whom the name of Bhagavān is uttered even unconsciously is freed from all sins as a forest with a lion in it from animals that are afraid of lions ", and (so also), "The extent of potency that Thy name, O Hari, has in condoping sins exceeds even that of sins that can (ever) be committed by a man who eats dog's flesh (i. e, a chandāla,". If, in such passages, the potency of a mere utterance of the Lord's name is praised in very high terms, what is said in such treatises as the śruti about even a single utterance of this great mantra which reveals, in full, the Redeemer, the surrender of the self to Him and the fruit to be obtained there from can be easily realised by the force of pramāṇas. The reason of this potency may be understood from the pramāṇas and from tradition or sampradāya. It is not proper to argne about these subjects which are of the nature of mystic doctrines. We can only place faith in them on the strength of what is stated in the śastras. In such treatises as the Mahabhiirata. it is said: - "Arguments based on reason are of no avail in regard to divine and other mys teries. The man who desires his happiness should have implicit faith in them like one who is deaf and who is blind."
+<details><summary>English</summary>
 
-The self-surrender which is the purport of this mantra has been praised in such ślokas as the folluwing and in other contexts : "A man should surrender to Brahman his true and natural self free from all limiting conditions like avidyā. This is bhakti  yoga and the karma  yoga which is necessary for it. Other things are vain talk." Instead of Other things are vaio talk" there is
+It has been said:-- 
 
-another reading of the śloka which would mean “This is (real) knowledge and what is to be acquired with the help of knowledge." Though this śloka has, for its purport, the surrender of the self, the surrender of the responsibility or burden of protection which is described here is contained within it. Other mantras which are mentioned in such treatises as Vyāsasmṛti and in Svetaśvatara Upaniṣad like, “A  man should remember that he is the body of the spotless and resplendent Viṣṇu and with an eager longing for Him, who is the object of attainment, and without any desire for other ends, (he) should surrender his self to Viṣṇu uttering the mantra "Tad Vishnoh" - None of those other mantras reveals the Redeemer, the act of seeking His protection and the fruit arising from it so clearly (as this Dvaya). Even in the Tirumantra these three are stated (only) with extreme conciseness. Therefore this Dvaya which reveals, in full, the object of attainment and the means of attainment is the most important of all mantras dealing with prapatti.
+> "The man by whom the name of Bhagavān **is uttered** even unconsciously  
+**is freed** from all sins  
+as a forest with a lion in it from animals that **are afraid** of lions ", 
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho**:-- 
+
+> "El hombre por quien el nombre de Bhagavān **es pronunciado** incluso inconscientemente  
+**es liberado** de todos los pecados  
+como un bosque con un león dentro de los animales que **temen** a los leones",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अवशेनापि यन्नाम्नि कीर्तिते सर्वपातकैः । पुमान्विमुच्यते सद्यस्सिंहत्रस्तैर्मृगैरिव”( विष्णुपुराणम् ६-८-१९)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “नाम्नस् ते यावती शक्तिः  
+पाप-**निर्हरणे** हरे ।  
+श्वपचोऽपि नरः **कर्तुं**  
+क्षमस् तावन् न किल्बिषम्”()  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “नाम्नस् ते यावती शक्तिः  
+पाप-**निर्हरणे** हरे ।  
+श्वपचोऽपि नरः **कर्तुं**  
+क्षमस् तावन् न किल्बिषम्”()  
+</details>
+
+
+<details><summary>विषयः</summary>
+
+नाम, विष्णुः
+</details>
+
+<details><summary>English</summary>
+
+and (so also), 
+
+> "The extent of **potency** that Thy name, O Hari, **has** in **condoning** sins  
+**exceeds** even that of sins  
+that **can (ever) be committed** by a man  
+who **eats** dog's flesh (i. e, a chandāla)". 
+</details>
+
+<details><summary>Español</summary>
+
+y (así también), 
+
+> "El grado de **potencia** que Tu nombre, oh Hari, **tiene** para **condonar** los pecados  
+**supera** incluso el de los pecados  
+que **puede (alguna vez) ser cometido** por un hombre  
+que **come** carne de perro (es decir, un chandāla)".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“नाम्नस्ते यावती शक्तिः पापनिर्हरणे हरे । श्वपचोऽपि नरः कर्तुं क्षमस्तावन्नकिल्बिषम्”()  इत्यादिगळिले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिले  
+तिरु-नाम-सङ्कीर्तन-मात्रत्तिऩ्-उडैय प्रभावम् इरुक्कुम् बडि कण्डाल्
+</details>
+
+<details><summary>English</summary>
+
+If, in such passages,  
+the potency of a mere **utterance** of the Lord's name  
+**is praised** in very high terms, 
+</details>
+
+<details><summary>Español</summary>
+
+Si en tales pasajes  
+la potencia de una mera **expresión** del nombre del Señor  
+**es elogiado** en términos muy altos,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिले तिरुनामसङ्कीर्तनमात्रत्तिऩुडैय प्रभावमिरुक्कुम्बडि कण्डाल्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरण्य-शरणागति-- तत्-फल-विशेषङ्गळै  
+पूर्णम् आगप् प्रकाशिप्पिक्किऱव् इम्-मन्त्र-विशेषत्तिऩ्-उडैय  
+सकृद्-उच्चारण-मात्रत्त् अळविलुम् उळ्ळप् प्रभावम्  
+श्रुत्यादिप्रमाणबलत्ताले सुग्रहम्।  
+</details>
+
+<details><summary>English</summary>
+
+what **is said** in such treatises as the śruti  
+about even a single **utterance** of this great mantra  
+
+which **reveals**, in full, the **Redeemer**,  
+the **surrender** of the self to Him  
+and the fruit **to be obtained** therefrom  
+
+**can be easily realised** by the force of pramāṇas. 
+</details>
+
+<details><summary>Español</summary>
+
+lo que **se dice** en tratados como el śruti  
+sobre incluso una sola **expresión** de este gran mantra  
+
+que **revela**, en su totalidad, al **Redentor**,  
+la **entrega** del yo a Él  
+y el fruto **a obtener** del mismo  
+
+**puede realizarse fácilmente** mediante la fuerza de pramāṇas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शरण्य शरणागति तत्फलविशेषङ्गळै पूर्णमागप् प्रकाशिप्पिक्किऱविम्मन्त्रविशेषत्तिऩुडैय सकृदुच्चारणमात्रत्तळविलुमुळ्ळप् प्रभावम् श्रुत्यादिप्रमाणबलत्ताले सुग्रहम्।  
+</details>
+
+### निर्विवाद-ग्राह्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् प्रभाव-निबन्धनत्तैयुम्  
+इङ्गे प्रमाण-संप्रदायङ्गळाले कण्डु-गॊळ्वदु।
+</details>
+
+<details><summary>English</summary>
+
+The reason of this **potency**  
+**may be understood** from the pramāṇas  
+and from tradition or sampradāya. 
+</details>
+
+<details><summary>Español</summary>
+
+La razón de esta **potencia**  
+**puede entenderse** de los pramāṇas  
+y de la tradición o sampradāya.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् प्रभावनिबन्धनत्तैयुम् इङ्गे प्रमाणसंप्रदायङ्गळाले कण्डुगॊळ्वदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिप्-पट्ट रहस्यतमार्थङ्गळिल्  
+हेतु-निरूपणम् पण्णक् कडवद् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+It **is not proper** to argue about these subjects  
+which **are** of the nature of mystic doctrines. 
+</details>
+
+<details><summary>Español</summary>
+
+**No es apropiado discutir** sobre estos temas  
+que **son** de la naturaleza de doctrinas místicas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडिप्पट्ट रहस्यतमार्थङ्गळिल् हेतुनिरूपणम् पण्णक्कडवदऩ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्रत्तैक् कॊण्डु विश्वसिक्कुम् अत्तऩैय् ऎऩ्ऩुम् इडम्  
+महाभारतादिगळिले 
+</details>
+
+<details><summary>English</summary>
+
+We **can** only **place** faith in them  
+on the strength of what is stated in the śastras.  
+In such treatises as the Mahabhiirata **it is said**: - 
+</details>
+
+<details><summary>Español</summary>
+
+Sólo **podemos poner** fe en ellos  
+sobre la base de lo que **se afirma** en los śastras.  
+En tratados como el Mahabhiirata **se dice**: -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शास्त्रत्तैक्कॊण्डु विश्वसिक्कुमत्तऩै यॆऩ्ऩुमिडम् महाभारतादिगळिले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “देव-**गुह्येषु** चान्येषु  
+हेतुर् देवि निर्-अर्थकः ।  
+बधिरान्धवद् एवात्र  
+वर्तितव्यं हितैषिणा”  
+( भारतम् आनुशाासनिक-पर्व २२८-६०) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “देव-**गुह्येषु** चान्येषु  
+हेतुर् देवि निर्-अर्थकः ।  
+बधिरान्धवद् एवात्र  
+वर्तितव्यं हितैषिणा”  
+( भारतम् आनुशाासनिक-पर्व २२८-६०) 
+</details>
+
+<details><summary>English</summary>
+
+"**Arguments** based on reason **are** of no avail  
+in regard to divine and other mysteries.  
+The man who **desires** his happiness  
+**should have** implicit faith in them  
+like one who **is** deaf and who **is** blind."
+</details>
+
+<details><summary>Español</summary>
+
+"**Los argumentos basados** en el motivo **son** inútiles  
+en lo que respecta a los misterios divinos y otros.  
+El hombre que **desea** su felicidad  
+**debería tener** fe implícita en ellos  
+como quien **es** sordo y quien **es** ciego."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“देवगुह्येषु चान्येषु हेतुर्देवि निरर्थकः । बधिरान्धवदेवात्र वर्तितव्यं हितैषिणा”( भारतम् आनुशाासनिक-पर्व २२८-६०) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळाले सॊल्लप्-पट्टदु।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळाले सॊल्लप्पट्टदु।
+</details>
+
+## आत्म-समर्पणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इम् मन्त्रत्तिले विवक्षितम् आऩव् आत्म-समर्पणम् 
+</details>
+
+<details><summary>English</summary>
+
+The self-surrender which **is** the purport of this mantra 
+</details>
+
+<details><summary>Español</summary>
+
+La **entrega** personal que **es** el significado de este mantra
+</details>
+
+<details><summary>मूलम्</summary>
+
+इम् मन्त्रत्तिले विवक्षितमाऩवात्मसमर्पणम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “सर्वोपाधि-**विनिर्मुक्तं**  
+क्षेत्र-ज्ञं ब्रह्मणि **न्यसेत्** ।  
+एतद् ध्यानञ्+++(←भक्ति-योगः)+++ च +++(कर्म-)+++योगश् च  
+शेषोऽन्यो ग्रन्थ-विस्तरः॥”  
+( दक्ष-स्मृति) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “सर्वोपाधि-**विनिर्मुक्तं**  
+क्षेत्र-ज्ञं ब्रह्मणि **न्यसेत्** ।  
+एतद् ध्यानञ्+++(←भक्ति-योगः)+++ च +++(कर्म-)+++योगश् च  
+शेषोऽन्यो ग्रन्थ-विस्तरः॥”  
+</details>
+
+<details><summary>English</summary>
+
+> "A man **should surrender** to Brahman his true and natural self  
+free from all limiting conditions like avidyā.  
+This **is** bhakti yoga and the karma yoga  
+which is **necessary** for it.  
+Other things are vain talk." 
+
+Instead of "Other things are vain talk"  
+there is another reading of the śloka which would mean 
+
+> “This **is** (real) knowledge  
+and what **is** to be **acquired** with the help of knowledge." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Un hombre **debe entregar** a Brahman su ser verdadero y natural  
+libre de todas las condiciones limitantes como avidyā.  
+Esto **es** bhakti yoga y karma yoga.  
+que **es necesario** para ello.  
+Otras cosas **son** palabras vanas." 
+
+En lugar de "Otras cosas son palabras vanas"  
+**hay** otra lectura del śloka que **significaría** 
+
+> “Este **es** conocimiento (real)  
+y lo que **se** debe **adquirir** con la ayuda del conocimiento."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“सर्वोपाधिविनिर्मुक्तं क्षेत्रज्ञं ब्रह्मणि न्यसेत् । एतद्ध्यानञ्च योगश्च शेषोऽन्यो ग्रन्थविस्तरः॥”( दक्ष-स्मृति) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळाले  
+प्रकरणान्तरङ्गळिलुम् स्तुतिक्कप् पट्टदु।
+</details>
+
+<details><summary>English</summary>
+
++++(This)+++ has been praised in such ślokas as the above and in other contexts. 
+</details>
+
+<details><summary>Español</summary>
+
++++(Esto)+++ **ha sido elogiado** en ślokas como el anterior y en otros contextos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळाले प्रकरणान्तरङ्गळिलुम् स्तुतिक्कप्पट्टदु।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“एतत् ध्यानञ्च ध्येयञ्च” ऎऩ्ऱु पाठान्तरम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“एतत् ध्यानञ्च ध्येयञ्च” ऎऩ्ऱु पाठान्तरम्। 
+</details>
+
+## भर-समर्पणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इश् श्लोकम् स्व-रूप--समर्पण-परम् आऩालुम्  
+इङ्गु सॊल्लुगिऱ भर-समर्पणम् तद्-अनुप्रविष्टम्।
+</details>
+
+<details><summary>English</summary>
+
+Though this śloka **has**, for its purport,  
+the **surrender** of the self,  
+
+the **surrender** of the **responsibility** or burden of **protection**  
+which **is described** here  
+**is contained** within it. 
+</details>
+
+<details><summary>Español</summary>
+
+Though this śloka **has**, for its purport,  
+the **surrender** of the self,  
+
+the **surrender** of the **responsibility** or burden of **protection**  
+which **is described** here  
+**is contained** within it. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इश् श्लोकम् स्वरूपसमर्पणपरमाऩालुम् इङ्गु सॊल्लुगिऱ भरसमर्पणम् तदनुप्रविष्टम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस् समर्पणत्तुक्कु 
+
+> “**निवेदयीत** स्वात्मानं  
+विष्णाव् अमल-तेजसि ।  
+तद्-आत्मा तन्-मनाश् शान्तस्  
+तद्-विष्णोर् इति मन्त्रतः”  
+( व्यासस्मृति) 
+
+ऎऩ्ऱु
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “निवेदयीत स्वात्मानं  
+विष्णाव् अमल-तेजसि ।  
+तद्-आत्मा तन्-मनाश् शान्तस्  
+तद्-विष्णोर् इति मन्त्रतः”  
+( व्यासस्मृति) 
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इस् समर्पणत्तुक्कु “निवेदयीत स्वात्मानं विष्णावमलतेजसि । तदात्मा तन्मनाश्शान्तस्तद्विष्णोरिति मन्त्रतः”( व्यासस्मृति) ऎऩ्ऱु
+</details>
+
+
+Other mantras which are mentioned in such treatises as Vyāsasmṛti and in Svetaśvatara Upaniṣad like, “A  man should remember that he is the body of the spotless and resplendent Viṣṇu and with an eager longing for Him, who is the object of attainment, and without any desire for other ends, (he) should surrender his self to Viṣṇu uttering the mantra "Tad Vishnoh" - None of those other mantras reveals the Redeemer, the act of seeking His protection and the fruit arising from it so clearly (as this Dvaya). Even in the Tirumantra these three are stated (only) with extreme conciseness. Therefore this Dvaya which reveals, in full, the object of attainment and the means of attainment is the most important of all mantras dealing with prapatti.
 
 THE MEANING OF THIS MANTRA
 
