@@ -1955,15 +1955,64 @@ con una **comprensión** de su **significado**, etc."
 
 <details><summary>मूलम्</summary>
 
-इदु“द्वयमर्थानुसन्धानेन सह सदैवं वक्ता” ऎऩ्गिऱ पासुरत्तालुम् सूचितम्। 
+इदु “द्वयमर्थानुसन्धानेन सह सदैवं वक्ता” ऎऩ्गिऱ पासुरत्तालुम् सूचितम्। 
+</details>
+
+
+
+
+
+
+
+     
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पर-भक्त्य्--आदि-मूलत्वं  
+कैङ्कर्यस्य यद् **उच्यते** ।  
+गद्यादिषु तद् अप्य् **आहुर्**  
+अपवर्ग+++(=मोक्ष)+++-दशाश्रयम् ॥  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+पर-भक्त्य्--आदि-मूलत्वं  
+कैङ्कर्यस्य यद् **उच्यते** ।  
+गद्यादिषु तद् अप्य् **आहुर्**  
+अपवर्ग+++(=मोक्ष)+++-दशाश्रयम् ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+The ācāryas of old **have declared** that  
+the statement in such **writings** as the Gadya that 
+
+> superior bhakti ( para-bhakti ) and the like (parajñāna and parama bhakti) **have**, for their **result**, kaiṅkarya  
+
+**describes** what occurs in the state of mukti. 
+</details>
+
+<details><summary>Español</summary>
+
+Los ācāryas de antaño **han declarado** que  
+la **declaración** en **escritos** como el Gadya que 
+
+> bhakti superior (para-bhakti) y similares (parajñāna y parama bhakti) **tienen**, por su **resultado**, kaiṅkarya  
+
+**describe** lo que **ocurre** en el estado de mukti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परभक्त्यादिमूलत्वं कैङ्कर्यस्य यदुच्यते । गद्यादिषु तदप्याहुरपवर्गदशाश्रयम् ॥  
+</details>
 
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-परभक्त्यादिमूलत्वं कैङ्कर्यस्य यदुच्यते । गद्यादिषु तदप्याहुरपवर्गदशाश्रयम् ॥  
 उत्तरोत्तरयोस्स्वामिसाक्षात्-करणभोगयोः । पूर्वपूर्वक्षणेष्टत्वात्तन्मूलत्वमुदीरितम् ॥  
 शरीरपातकाले तु हार्दस्यानुग्रहस्स्वयं । परिपाकं प्रपन्नानां प्रयच्छति तथाविधम् ॥  
 अङ्कोलतैलसिक्तानां बीजानामचिराद्यथा । विपाकः फलपर्यन्तस्तथात्रेति निदर्शितं ॥  
@@ -1983,7 +2032,7 @@ con una **comprensión** de su **significado**, etc."
 अनुग्रह विशेषेण केनचित्परमात्मनः । कुरुकाधीशनाथाद्याः प्रागप्यन्वभवन् प्रभुम् ॥
 </details>
 
-The ācāryas of old have declared that the statement in such writings as the Gadya that superior bhakti ( para-bhakti ) and the like (li, e. parajñāna and parama bhaktı) have, for their result, kaiṅkarya describes what occurs in the state of mukti. Since what follows later in order namely, the direct vision of the Lord (para-jñāna) and the eager desire for the uninterrupted enjoyment of Bhagavān are preceded by the eager longing to do so, they are said to result from para-.bhakti .
+Since what follows later in order namely, the direct vision of the Lord (para-jñāna) and the eager desire for the uninterrupted enjoyment of Bhagavān are preceded by the eager longing to do so, they are said to result from para-.bhakti .
 
 At the time of departure from the body, the grace of the Lord who dwells in the heart (of the jīva) grants to those who have performed prapatti that spiritual ripeness which would enable them to have a vision of the Lord. When the seed of a plant is soaked in the oil of ankola (azhinjil), it produces sprouts, leaves, flowers, fruits and the like in a few instants. So also, in just a few instants, the grace of the Lord enables the self to attain that spiritual perfection which would inake possible parābhakti , parajñāna and paramabhakti . This state of perfection or ripeness which is referred to in the Gadya is as appropriate as what is taught in such treatises as the Sātvata concerning the special religious observances (vrata) for attaining mokṣa - for instance, that the minds of men rendered impure by stains caused by the wicked senses become pure at the time of their death, as a result of their residence in a place where there is a temple dedicated to Nārāyaṇa. Such (great souls) as Nammalvar, Nāthamuni and others enjoyed the Lord even before their death, owing to some special grace of the Supreme Being.
 
