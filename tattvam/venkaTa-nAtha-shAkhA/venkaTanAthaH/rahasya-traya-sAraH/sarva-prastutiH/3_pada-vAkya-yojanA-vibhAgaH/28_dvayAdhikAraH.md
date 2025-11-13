@@ -1809,16 +1809,157 @@ con el pensamiento de la naturaleza del Salvador **precediéndolo**,
 (**Se muestra** que **es** el **significado resultante** del Dvaya de Śrī Rāmānuja).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 द्वयत्तुक्कु समुदितार्थमाग वरुळिच्चॆय्दार्। 
 </details>
 
+### नमः, चतुर्थी
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मेल् अर्थ-क्रमत्ताले +++(न तु शब्द-क्रमेण)+++
+
+मुऱ्-पड **नमस्साले** प्रार्थिक्किऱव् अनिष्ट-निवृत्तियै व्याख्यानम् पण्णि  
+
+पिऩ्बु इङ्ग् उळ्ळ पर-भक्त्य्-आदि-पुरुषार्थ-पूर्वकम् आग  
+**चतुर्थ्य्**-अन्त-पदङ्गळिल् विभक्त्य्-अभिप्रेतमाऩ परम-पुरुषार्थ-लाभत्तै वॆळिय् इट्ट् अरुळिऩार्।
+</details>
+
+<details><summary>English</summary>
+
+Thereafter **following** the order **indicated** by the meaning  
+(and not by the actual order of words in the sentence),  
+Śrī Rāmānuja **explains** the prayer in the word "namas" for the **removal** of (all) **hindrances**.  
+After this, he **explains** the supreme aim of life  
+which **is indicated** by the suffix of the dative (or fourth case) in the words which end in the fourth case (Narāyānāya),  
+which **includes** such aims as superior bhakti  (parābhakti )  
+that **precede** the **attainment** of the supreme aim (the attainment of Bhagavān and His kaiṅkarya). 
+</details>
+
+<details><summary>Español</summary>
+
+En adelante **siguiendo** el orden **indicado** por el significado  
+(y no por el orden real de las palabras en la oración),  
+Śrī Rāmānuja **explica** la oración en la palabra "namas" para la **eliminación** de (todos) **obstáculos**.  
+Después de esto, **explica** el objetivo supremo de la vida.  
+que **está indicado** por el sufijo del dativo (o cuarto caso) en las palabras que terminan en el cuarto caso (Narāyānāya),  
+que **incluye** objetivos tales como bhakti superior (parābhakti)  
+que **preceden** al **logro** del objetivo supremo (el logro de Bhagavān y Su kaiṅkarya).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मेल् अर्थक्रमत्ताले मुऱ्पड नमस्साले प्रार्थिक्किऱवनिष्ट निवृत्तियै व्याख्यानम् पण्णि पिऩ्बु इङ्गुळ्ळ परभक्त्यादिपुरुषार्थपूर्वकमाग चतुर्थ्यन्तपदङ्गळिल् विभक्त्यभिप्रेतमाऩ परमपुरुषार्थलाभत्तै वॆळियिट्टरुळिऩार्।
+</details>
+
+### भगवद्-अनुग्रह-सङ्कल्पः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् अनुष्ठितोपायऩ् आऩव् अधिकारि-विषयत्तिल्  
+इङ्गुम्, अङ्गुम् उळ्ळ सिद्धियैप् पऱ्ऱ  
+चरम-श्लोकत्तिल् उत्तरार्धत्तिऱ् पडिये  
+
+स्वाभाविक-दयार्द्रम् आऩ **भगवद्-अभिप्रायम्** इरुक्कुम् बडियै  
+तद्-व्यञ्जक-भगवद्-वाक्य-प्रक्रियैयालेय्  
+अरुळिच् चॆय्दु काट्टिऩार्। 
+</details>
+
+<details><summary>English</summary>
+
+Then he points out how Bhagavān **is** so full of compassion  
+(as **shown** also in the second half of the Caramaśloka,)  
+as to **vouchsafe** success  
+both in regard to this life  
+and in regard to what **is** to **follow** thereafter. 
+
+(This he does) by the words **stated** to have been **spoken** by Bhagavān. 
+</details>
+
+<details><summary>Español</summary>
+
+Luego señala cómo Bhagavān **está** tan **lleno** de compasión,  
+(como **se muestra** también en la segunda mitad del Caramaśloka,)  
+en cuanto a **garantizar** el éxito  
+tanto en lo que respecta a esta vida  
+y con respecto a lo que **seguirá** a partir de entonces. 
+
+(Esto lo hace) mediante las palabras **declaradas** que **fueron pronunciadas** por Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि यनुष्ठितोपायऩाऩवधिकारिविषयत्तिल् इङ्गुमङ्गुमुळ्ळ सिद्धियैप्पऱ्ऱ चरमश्लोकत्तिलुत्तरार्धत्तिऱ्पडिये स्वाभाविकदयार्द्रमाऩ भगवदभिप्रायमिरुक्कुम्बडियै तद्व्यञ्जकभगवद्वाक्यप्रक्रियैयाले यरुळिच्चॆय्दु काट्टिऩार्। 
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाले गद्यत्तिल् अरुळिच्-चॆय्दद् ऎल्लाम् द्वयत्तिले विवक्षितम्।
+</details>
+
+<details><summary>English</summary>
+
+Therefore all that **is stated** by (Rāmānuja) in the (Śaraṇāgati) Gadya  
+**is intended** to be conveyed by the Dvaya. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, todo lo que **es declarado** por (Rāmānuja) en el (Śaraṇāgati) Gadya  
+**está destinado** a ser **transmitido** por el Dvaya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाले गद्यत्तिलरुळिच्चॆय्ददॆल्लाम् द्वयत्तिले विवक्षितम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु 
+
+> “द्वयम् अर्थानुसन्धानेन सह  
+सदैवं वक्ता” 
+
+ऎऩ्गिऱ पासुरत्तालुम् सूचितम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “द्वयम् अर्थानुसन्धानेन सह  
+सदैवं वक्ता” 
+
+</details>
+
+<details><summary>English</summary>
+
+This **is indicated** also by the words (in the Gadya) which **mean** 
+
+> “**uttering** the Dvaya in this manner  
+with an **understanding** of its meaning etc".
+
+</details>
+
+<details><summary>Español</summary>
+
+Esto **está indicado** también por las palabras (en Gadya) que **significan** 
+
+> “**pronunciar** el Dvaya de esta manera  
+con una **comprensión** de su **significado**, etc."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु“द्वयमर्थानुसन्धानेन सह सदैवं वक्ता” ऎऩ्गिऱ पासुरत्तालुम् सूचितम्। 
+</details>
 
 
 
-Thereafter following the order indicated by the meaning (and not by the actual order of words in the sentence), Śrī Rāmānuja explains the prayer in the word namas for the removal of (all) hindrances. After this, he explains the supreme aim of life which is indicated by the suffix of the dative (or fourth case) in the words which end in the fourth case (Narāyānāya), which includes such aims as superior bhakti  (parābhakti ) that precede the attainment of the supreme aim (the attainment of Bhagavān and His kaiṅkarya). Then he points out how Bhagavān is so full of compassion (as shown also in the second half of the Caramaśloka,) as to vouchsafe success both in regard to this life and in regard to what is to follow thereafter. (This he does) by the words stated to have been spoken by Bhagavān. Therefore all that is stated by (Rāmānuja) in the (Śaraṇāgati) Gadya is intended to be conveyed by the Dvaya. This is indicated also by the words in the Gadya) which mean “uttering the Dvaya in this manner with an understanding of its meaning etc".
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
