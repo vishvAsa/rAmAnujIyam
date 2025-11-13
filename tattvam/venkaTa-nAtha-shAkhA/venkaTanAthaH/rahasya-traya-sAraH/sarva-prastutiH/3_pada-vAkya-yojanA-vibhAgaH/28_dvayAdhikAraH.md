@@ -755,26 +755,1297 @@ La **potencia** de este mantra **se distingue** de la de otros mantras
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अवशेनापि यन्-नाम्नि  
+**कीर्तिते** सर्व-पातकैः ।  
+पुमान् **विमुच्यते** सद्यस्   
+सिंह-**त्रस्तैर्** मृगैर् इव”॥  
+( विष्णुपुराणम् ६-८-१९)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अवशेनापि यन्-नाम्नि  
+**कीर्तिते** सर्व-पातकैः ।  
+पुमान् **विमुच्यते** सद्यस्   
+सिंह-**त्रस्तैर्** मृगैर् इव”॥  
+( विष्णुपुराणम् ६-८-१९)
+
+</details>
+
+<details><summary>विषयः</summary>
+
+नाम, विष्णुः
+</details>
 
 
-It has been said:-- "The man by whom the name of Bhagavān is uttered even unconsciously is freed from all sins as a forest with a lion in it from animals that are afraid of lions ", and (so also), "The extent of potency that Thy name, O Hari, has in condoping sins exceeds even that of sins that can (ever) be committed by a man who eats dog's flesh (i. e, a chandāla,". If, in such passages, the potency of a mere utterance of the Lord's name is praised in very high terms, what is said in such treatises as the śruti about even a single utterance of this great mantra which reveals, in full, the Redeemer, the surrender of the self to Him and the fruit to be obtained there from can be easily realised by the force of pramāṇas. The reason of this potency may be understood from the pramāṇas and from tradition or sampradāya. It is not proper to argne about these subjects which are of the nature of mystic doctrines. We can only place faith in them on the strength of what is stated in the śastras. In such treatises as the Mahabhiirata. it is said: - "Arguments based on reason are of no avail in regard to divine and other mys teries. The man who desires his happiness should have implicit faith in them like one who is deaf and who is blind."
+<details><summary>English</summary>
 
-The self-surrender which is the purport of this mantra has been praised in such ślokas as the folluwing and in other contexts : "A man should surrender to Brahman his true and natural self free from all limiting conditions like avidyā. This is bhakti  yoga and the karma  yoga which is necessary for it. Other things are vain talk." Instead of Other things are vaio talk" there is
+It has been said:-- 
 
-another reading of the śloka which would mean “This is (real) knowledge and what is to be acquired with the help of knowledge." Though this śloka has, for its purport, the surrender of the self, the surrender of the responsibility or burden of protection which is described here is contained within it. Other mantras which are mentioned in such treatises as Vyāsasmṛti and in Svetaśvatara Upaniṣad like, “A  man should remember that he is the body of the spotless and resplendent Viṣṇu and with an eager longing for Him, who is the object of attainment, and without any desire for other ends, (he) should surrender his self to Viṣṇu uttering the mantra "Tad Vishnoh" - None of those other mantras reveals the Redeemer, the act of seeking His protection and the fruit arising from it so clearly (as this Dvaya). Even in the Tirumantra these three are stated (only) with extreme conciseness. Therefore this Dvaya which reveals, in full, the object of attainment and the means of attainment is the most important of all mantras dealing with prapatti.
+> "The man by whom the name of Bhagavān **is uttered** even unconsciously  
+**is freed** from all sins  
+as a forest with a lion in it from animals that **are afraid** of lions ", 
+</details>
+
+<details><summary>Español</summary>
+
+**Se ha dicho**:-- 
+
+> "El hombre por quien el nombre de Bhagavān **es pronunciado** incluso inconscientemente  
+**es liberado** de todos los pecados  
+como un bosque con un león dentro de los animales que **temen** a los leones",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अवशेनापि यन्नाम्नि कीर्तिते सर्वपातकैः । पुमान्विमुच्यते सद्यस्सिंहत्रस्तैर्मृगैरिव”( विष्णुपुराणम् ६-८-१९)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “नाम्नस् ते यावती शक्तिः  
+पाप-**निर्हरणे** हरे ।  
+श्वपचोऽपि नरः **कर्तुं**  
+क्षमस् तावन् न किल्बिषम्”()  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “नाम्नस् ते यावती शक्तिः  
+पाप-**निर्हरणे** हरे ।  
+श्वपचोऽपि नरः **कर्तुं**  
+क्षमस् तावन् न किल्बिषम्”()  
+</details>
+
+
+<details><summary>विषयः</summary>
+
+नाम, विष्णुः
+</details>
+
+<details><summary>English</summary>
+
+and (so also), 
+
+> "The extent of **potency** that Thy name, O Hari, **has** in **condoning** sins  
+**exceeds** even that of sins  
+that **can (ever) be committed** by a man  
+who **eats** dog's flesh (i. e, a chandāla)". 
+</details>
+
+<details><summary>Español</summary>
+
+y (así también), 
+
+> "El grado de **potencia** que Tu nombre, oh Hari, **tiene** para **condonar** los pecados  
+**supera** incluso el de los pecados  
+que **puede (alguna vez) ser cometido** por un hombre  
+que **come** carne de perro (es decir, un chandāla)".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“नाम्नस्ते यावती शक्तिः पापनिर्हरणे हरे । श्वपचोऽपि नरः कर्तुं क्षमस्तावन्नकिल्बिषम्”()  इत्यादिगळिले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिले  
+तिरु-नाम-सङ्कीर्तन-मात्रत्तिऩ्-उडैय प्रभावम् इरुक्कुम् बडि कण्डाल्
+</details>
+
+<details><summary>English</summary>
+
+If, in such passages,  
+the potency of a mere **utterance** of the Lord's name  
+**is praised** in very high terms, 
+</details>
+
+<details><summary>Español</summary>
+
+Si en tales pasajes  
+la potencia de una mera **expresión** del nombre del Señor  
+**es elogiado** en términos muy altos,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिले तिरुनामसङ्कीर्तनमात्रत्तिऩुडैय प्रभावमिरुक्कुम्बडि कण्डाल्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरण्य-शरणागति-- तत्-फल-विशेषङ्गळै  
+पूर्णम् आगप् प्रकाशिप्पिक्किऱव् इम्-मन्त्र-विशेषत्तिऩ्-उडैय  
+सकृद्-उच्चारण-मात्रत्त् अळविलुम् उळ्ळप् प्रभावम्  
+श्रुत्यादिप्रमाणबलत्ताले सुग्रहम्।  
+</details>
+
+<details><summary>English</summary>
+
+what **is said** in such treatises as the śruti  
+about even a single **utterance** of this great mantra  
+
+which **reveals**, in full, the **Redeemer**,  
+the **surrender** of the self to Him  
+and the fruit **to be obtained** therefrom  
+
+**can be easily realised** by the force of pramāṇas. 
+</details>
+
+<details><summary>Español</summary>
+
+lo que **se dice** en tratados como el śruti  
+sobre incluso una sola **expresión** de este gran mantra  
+
+que **revela**, en su totalidad, al **Redentor**,  
+la **entrega** del yo a Él  
+y el fruto **a obtener** del mismo  
+
+**puede realizarse fácilmente** mediante la fuerza de pramāṇas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शरण्य शरणागति तत्फलविशेषङ्गळै पूर्णमागप् प्रकाशिप्पिक्किऱविम्मन्त्रविशेषत्तिऩुडैय सकृदुच्चारणमात्रत्तळविलुमुळ्ळप् प्रभावम् श्रुत्यादिप्रमाणबलत्ताले सुग्रहम्।  
+</details>
+
+### निर्विवाद-ग्राह्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् प्रभाव-निबन्धनत्तैयुम्  
+इङ्गे प्रमाण-संप्रदायङ्गळाले कण्डु-गॊळ्वदु।
+</details>
+
+<details><summary>English</summary>
+
+The reason of this **potency**  
+**may be understood** from the pramāṇas  
+and from tradition or sampradāya. 
+</details>
+
+<details><summary>Español</summary>
+
+La razón de esta **potencia**  
+**puede entenderse** de los pramāṇas  
+y de la tradición o sampradāya.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् प्रभावनिबन्धनत्तैयुम् इङ्गे प्रमाणसंप्रदायङ्गळाले कण्डुगॊळ्वदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिप्-पट्ट रहस्यतमार्थङ्गळिल्  
+हेतु-निरूपणम् पण्णक् कडवद् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+It **is not proper** to argue about these subjects  
+which **are** of the nature of mystic doctrines. 
+</details>
+
+<details><summary>Español</summary>
+
+**No es apropiado discutir** sobre estos temas  
+que **son** de la naturaleza de doctrinas místicas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडिप्पट्ट रहस्यतमार्थङ्गळिल् हेतुनिरूपणम् पण्णक्कडवदऩ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्रत्तैक् कॊण्डु विश्वसिक्कुम् अत्तऩैय् ऎऩ्ऩुम् इडम्  
+महाभारतादिगळिले 
+</details>
+
+<details><summary>English</summary>
+
+We **can** only **place** faith in them  
+on the strength of what is stated in the śastras.  
+In such treatises as the Mahabhiirata **it is said**: - 
+</details>
+
+<details><summary>Español</summary>
+
+Sólo **podemos poner** fe en ellos  
+sobre la base de lo que **se afirma** en los śastras.  
+En tratados como el Mahabhiirata **se dice**: -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शास्त्रत्तैक्कॊण्डु विश्वसिक्कुमत्तऩै यॆऩ्ऩुमिडम् महाभारतादिगळिले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “देव-**गुह्येषु** चान्येषु  
+हेतुर् देवि निर्-अर्थकः ।  
+बधिरान्धवद् एवात्र  
+वर्तितव्यं हितैषिणा”  
+( भारतम् आनुशाासनिक-पर्व २२८-६०) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “देव-**गुह्येषु** चान्येषु  
+हेतुर् देवि निर्-अर्थकः ।  
+बधिरान्धवद् एवात्र  
+वर्तितव्यं हितैषिणा”  
+( भारतम् आनुशाासनिक-पर्व २२८-६०) 
+</details>
+
+<details><summary>English</summary>
+
+"**Arguments** based on reason **are** of no avail  
+in regard to divine and other mysteries.  
+The man who **desires** his happiness  
+**should have** implicit faith in them  
+like one who **is** deaf and who **is** blind."
+</details>
+
+<details><summary>Español</summary>
+
+"**Los argumentos basados** en el motivo **son** inútiles  
+en lo que respecta a los misterios divinos y otros.  
+El hombre que **desea** su felicidad  
+**debería tener** fe implícita en ellos  
+como quien **es** sordo y quien **es** ciego."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“देवगुह्येषु चान्येषु हेतुर्देवि निरर्थकः । बधिरान्धवदेवात्र वर्तितव्यं हितैषिणा”( भारतम् आनुशाासनिक-पर्व २२८-६०) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळाले सॊल्लप्-पट्टदु।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळाले सॊल्लप्पट्टदु।
+</details>
+
+## आत्म-समर्पणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इम् मन्त्रत्तिले विवक्षितम् आऩव् आत्म-समर्पणम् 
+</details>
+
+<details><summary>English</summary>
+
+The self-surrender which **is** the purport of this mantra 
+</details>
+
+<details><summary>Español</summary>
+
+La **entrega** personal que **es** el significado de este mantra
+</details>
+
+<details><summary>मूलम्</summary>
+
+इम् मन्त्रत्तिले विवक्षितमाऩवात्मसमर्पणम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “सर्वोपाधि-**विनिर्मुक्तं**  
+क्षेत्र-ज्ञं ब्रह्मणि **न्यसेत्** ।  
+एतद् ध्यानञ्+++(←भक्ति-योगः)+++ च +++(कर्म-)+++योगश् च  
+शेषोऽन्यो ग्रन्थ-विस्तरः॥”  
+( दक्ष-स्मृति) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “सर्वोपाधि-**विनिर्मुक्तं**  
+क्षेत्र-ज्ञं ब्रह्मणि **न्यसेत्** ।  
+एतद् ध्यानञ्+++(←भक्ति-योगः)+++ च +++(कर्म-)+++योगश् च  
+शेषोऽन्यो ग्रन्थ-विस्तरः॥”  
+</details>
+
+<details><summary>English</summary>
+
+> "A man **should surrender** to Brahman his true and natural self  
+free from all limiting conditions like avidyā.  
+This **is** bhakti yoga and the karma yoga  
+which is **necessary** for it.  
+Other things are vain talk." 
+
+Instead of "Other things are vain talk"  
+there is another reading of the śloka which would mean 
+
+> “This **is** (real) knowledge  
+and what **is** to be **acquired** with the help of knowledge." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Un hombre **debe entregar** a Brahman su ser verdadero y natural  
+libre de todas las condiciones limitantes como avidyā.  
+Esto **es** bhakti yoga y karma yoga.  
+que **es necesario** para ello.  
+Otras cosas **son** palabras vanas." 
+
+En lugar de "Otras cosas son palabras vanas"  
+**hay** otra lectura del śloka que **significaría** 
+
+> “Este **es** conocimiento (real)  
+y lo que **se** debe **adquirir** con la ayuda del conocimiento."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“सर्वोपाधिविनिर्मुक्तं क्षेत्रज्ञं ब्रह्मणि न्यसेत् । एतद्ध्यानञ्च योगश्च शेषोऽन्यो ग्रन्थविस्तरः॥”( दक्ष-स्मृति) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळाले  
+प्रकरणान्तरङ्गळिलुम् स्तुतिक्कप् पट्टदु।
+</details>
+
+<details><summary>English</summary>
+
++++(This)+++ has been praised in such ślokas as the above and in other contexts. 
+</details>
+
+<details><summary>Español</summary>
+
++++(Esto)+++ **ha sido elogiado** en ślokas como el anterior y en otros contextos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळाले प्रकरणान्तरङ्गळिलुम् स्तुतिक्कप्पट्टदु।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“एतत् ध्यानञ्च ध्येयञ्च” ऎऩ्ऱु पाठान्तरम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“एतत् ध्यानञ्च ध्येयञ्च” ऎऩ्ऱु पाठान्तरम्। 
+</details>
+
+## भर-समर्पणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इश् श्लोकम् स्व-रूप--समर्पण-परम् आऩालुम्  
+इङ्गु सॊल्लुगिऱ भर-समर्पणम् तद्-अनुप्रविष्टम्।
+</details>
+
+<details><summary>English</summary>
+
+Though this śloka **has**, for its purport,  
+the **surrender** of the self,  
+
+the **surrender** of the **responsibility** or burden of **protection**  
+which **is described** here  
+**is contained** within it. 
+</details>
+
+<details><summary>Español</summary>
+
+Though this śloka **has**, for its purport,  
+the **surrender** of the self,  
+
+the **surrender** of the **responsibility** or burden of **protection**  
+which **is described** here  
+**is contained** within it. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इश् श्लोकम् स्वरूपसमर्पणपरमाऩालुम् इङ्गु सॊल्लुगिऱ भरसमर्पणम् तदनुप्रविष्टम्।
+</details>
+
+## वैशिष्ट्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस् समर्पणत्तुक्कु 
+
+> “**निवेदयीत** स्वात्मानं  
+विष्णाव् अमल-तेजसि ।  
+तद्-आत्मा तन्-मनाश् शान्तस्  
+तद्-विष्णोर् इति मन्त्रतः”  
+( व्यासस्मृति) 
+
+ऎऩ्ऱु
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “निवेदयीत स्वात्मानं  
+विष्णाव् अमल-तेजसि ।  
+तद्-आत्मा तन्-मनाश् शान्तस्  
+तद्-विष्णोर् इति मन्त्रतः”  
+( व्यासस्मृति) 
+
+</details>
+
+<details><summary>English</summary>
+
+“A  man **should remember** that he is the body of the spotless and resplendent Viṣṇu  
+and with an eager **longing** for Him,  
+who **is** the object of **attainment**,  
+and **without any desire** for other ends,  
+(he) **should surrender** his self to Viṣṇu  
+**uttering** the mantra "Tad Vishnoh" - 
+</details>
+
+<details><summary>Español</summary>
+
+“El hombre **debe recordar** que él es el cuerpo del impecable y resplandeciente Viṣṇu  
+y con un ansioso **anhelo** de Él,  
+quien **es** el objeto de **logro**,  
+y **sin deseo alguno** de otros fines,  
+(él) **debe entregarse** a Viṣṇu  
+**pronunciando** el mantra "Tad Vishnoh" -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इस् समर्पणत्तुक्कु “निवेदयीत स्वात्मानं विष्णावमलतेजसि । तदात्मा तन्मनाश्शान्तस्तद्विष्णोरिति मन्त्रतः”( व्यासस्मृति) ऎऩ्ऱु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्यास-स्मृत्य्-आदिगळिलुम्  
+श्वेताश्वतरादिगळिलुञ् जॊऩ्ऩ मन्त्रान्तरङ्गळ्
+</details>
+
+<details><summary>English</summary>
+
+(These) Other mantras which **are mentioned** in such treatises as Vyāsasmṛti and in Svetaśvatara Upaniṣad like the above,  
+</details>
+
+<details><summary>Español</summary>
+
+(Estos) Otros mantras que **se mencionan** en tratados como Vyāsasmṛti y en Svetaśvatara Upaniṣad como lo anterior,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+व्यास स्मृत्यादिगळिलुम् श्वेताश्वतरादिगळिलुञ् जॊऩ्ऩ मन्त्रान्तरङ्गळ्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि शरण्य-शरणागति--तत्-फलङ्गळै  
+विशदम् आगप् प्रकाशिप्पियादु।
+</details>
+
+<details><summary>English</summary>
+
+None of those other mantras **reveals** the Redeemer,  
+the **act** of **seeking** His **protection**  
+and the fruit **arising** from it so clearly (as this Dvaya). 
+</details>
+
+<details><summary>Español</summary>
+
+Ninguno de esos otros mantras **revela** al **Redentor**,  
+el **acto** de **buscar** Su **protección**  
+y el fruto **que surge** de él tan claramente (como este Dvaya).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि शरण्यशरणागतितत्फलङ्गळै विशदमागप् प्रकाशिप्पियादु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरु-मन्त्रत्तिलुम्  
+इवै मूऩ्ऱुम् संक्षिप्तङ्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+Even in the Tirumantra these three **are stated** (only) with extreme conciseness. 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso en el Tirumantra estos tres **se exponen** (sólo) con extrema concisión.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तिरुमन्त्रत्तिलुम् इवै मूऩ्ऱुम् संक्षिप्तङ्गळ्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाले  
+प्राप्य-प्रापक-विशेषङ्गळै संपूर्णम् आगप् प्रकाशिप्पिक्किऱव् इद्-द्वयमे  
+प्रपत्ति-मन्त्रङ्गळ् ऎल्लात्तिलुम् प्रधानम्। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore this Dvaya which **reveals**, in full,  
+the object of attainment  
+and the means of attainment  
+**is** the most important of all mantras  
+**dealing** with prapatti.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, este Dvaya que **revela**, en su totalidad,  
+el objeto de logro  
+y los medios para lograrlo  
+**es** el más importante de todos los mantras  
+**tratando** con prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाले प्राप्य प्रापकविशेषङ्गळै संपूर्णमागप् प्रकाशिप्पिक्किऱविद्द्वयमे प्रपत्तिमन्त्रङ् गळॆल्लात्तिलुम् प्रधानम्। 
+</details>
+
+
+## शरणागति-गद्य-व्याख्या
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 THE MEANING OF THIS MANTRA
+</details>
 
-The śaranāgati Gadya is a commentary on Dvaya :
+<details><summary>मूलम्</summary>
 
-(Śrī Rāmānuja) has in his Gadya (prose treatise) given the meaning of this mantra as known from śruti, smṛti, Itihāsas Purāṇas, Bhagavat Śāstra and the like and in accordance with the traditional order of interpretation of greatācāryas :-- It is as follows:-The purport of the word Śrīmat (in Dvaya) is explained in these words in the Gadya);-" (Lakṣmī) whose essential Nature (svarūpa) and whose form rūpa are such as can be held in esteem by Bhagavān and as are in conformity with the nature of) Bhagavān Nārāyaṇa ". In the words beginniog with "opposed to everything of the nature of blemish" (in the Gadya), (Śrī Rāmānuja) has described at length Bhagavān's essential nature (svarūpa), His form (rupa ), and His attributes and glories (vibhūtis). So the meaning of the word Nārāyaṇa has been commented upon (in them.) In the commentary on the word 'Nārāyaṇa', Lakṣmī who has been already stated in Śrīmat is once again made to appear in the midst of His glories (vibhūtis) in the word Śrīvallabha in the Gadya in order to explain her role as mediator (between the jīva and her Spouse). Then Śrī Rāmānuja takes for comment the words Śrīman Nārāyaṇa employed in the sentences treating of the goal and the means of attaining it. The person competent for prapatti indicated by the first person singular in the word prapadye (I seek Him for refuge) is explained in the words (in the Gadya) which mean "I seek the refuge of Thy two lotus feet" explain the words caraṇau (feet) and saranam (refuge) and so also the verb (in Dvaya). Later Śrī Rāmānuja indicates distinctly the word Dvaya which is commented upon.
+EL SIGNIFICADO DE ESTE MANTRA
+</details>
 
-It may be asked: "Why should (he) dwell at such length without specifying the word Draya either in the beginning or at the end, but only here?" The answer is as follows:- Here in regard to the upāya and the upeya or what is to be attained thereby, the most important is Nārāyaṇa with Śrī (Lakṣmī). Therefore the word Nārāyaṇa with its attribute Śrī which occurs in two places rip Dvaya) has been already commented upon. So in order to show that along with the Sādhyopāya (namely prapatti)) which is indicated by this mantra, the principal upāya and the principal object of attainment have been commented upon, the word Dvaya is here inserted (i.e.) to mean that the Dvaya has been, for the most part, explained. Then in the ślokas which begin with 'pitaran mataram" and in certaio sentences taken form Jitante, and Bhagavadgītā and other passages which express the same idea, Śrī Rāmānuja shows that the resulting meaning of the Dvaya is the adoption of the upāya (prapatti) without any other object and with no other upāya in one's view or power, and the form of prayer for pardon with the thought of the Saviour's nature preceding it. Thereafter following the order indicated by the meaning (and not by the actual order of words in the sentence), Śrī Rāmānuja explains the prayer in the word namas for the removal of (all) hindrances. After this, he explains the supreme aim of life which is indicated by the suffix of the dative (or fourth case) in the words which end in the fourth case (Narāyānāya), which includes such aims as superior bhakti  (parābhakti ) that precede the attainment of the supreme aim (the attainment of Bhagavān and His kaiṅkarya). Then he points out how Bhagavān is so full of compassion (as shown also in the second half of the Caramaśloka,) as to vouchsafe success both in regard to this life and in regard to what is to follow thereafter. (This he does) by the words stated to have been spoken by Bhagavān. Therefore all that is stated by (Rāmānuja) in the (Śaraṇāgati) Gadya is intended to be conveyed by the Dvaya. This is indicated also by the words in the Gadya) which mean “uttering the Dvaya in this manner with an understanding of its meaning etc".
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिऩ् अर्थत्तै श्रुति-स्मृतीतिहास-पुराण- भगवच्-छास्त्रादिगळिल् प्रसिद्धम् आऩ बडिये  
+सद्-आचार्य संप्रदाय-क्रमत्ताले  
+गद्यत्तिले विवरित्त् अरुळिऩार्। 
+</details>
+
+<details><summary>English</summary>
+
+The śaranāgati Gadya **is** a commentary on Dvaya :
+
+(Śrī Rāmānuja) **has** in his Gadya (prose treatise)  
+**given** the meaning of this mantra as known from śruti, smṛti, Itihāsas Purāṇas, Bhagavat Śāstra and the like  
+and in **accordance** with the traditional order of interpretation of great ācāryas.  
+</details>
+
+<details><summary>Español</summary>
+
+El śaranāgati Gadya **es** un **comentario** sobre Dvaya:
+
+(Śrī Rāmānuja) **tiene** en su Gadya (tratado en prosa)  
+**dado** el significado de este mantra tal como **se conoce** en śruti, smṛti, Itihāsas Purāṇas, Bhagavat Śāstra y similares  
+y de **de acuerdo** con el orden tradicional de **interpretación** de los grandes ācāryas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिऩर्थत्तै श्रुतिस्मृतीतिहासपुराणभगवच्छास्त्रादिगळिल् प्रसिद्धमाऩबडिये सदाचार्य संप्रदायक्रमत्ताले गद्यत्तिले विवरित्तरुळिऩार्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+It is as follows:-
+</details>
+
+<details><summary>Español</summary>
+
+**Es** el siguiente:-
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; 
+</details>
+
+### श्रीमन्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“भगवन्-नारायणाभिमतानुरूप-- स्व-रूप-रूप”  
+ऎऩ्ऱु तुडङ्गि  
+श्रीमच्-छब्दाभिप्रेतत्तैय् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>English</summary>
+
+The purport of the word Śrīmat (in Dvaya) **is explained** in these words (in the Gadya)-
+
+> " (Lakṣmī) whose essential Nature (svarūpa) and whose form rūpa **are** such as **can be held** in esteem by Bhagavān  
+and as **are** in conformity with the nature of Bhagavān Nārāyaṇa ". 
+</details>
+
+<details><summary>Español</summary>
+
+El significado de la palabra Śrīmat (en Dvaya) **se explica** en estas palabras (en Gadya):
+
+> " (Lakṣmī) cuya Naturaleza esencial (svarūpa) y cuya forma rūpa **son** tales como **pueden ser tenidas** en estima por Bhagavān  
+y como **están** en **conformidad** con la naturaleza de Bhagavān Nārāyaṇa ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“भगवन्नारायणाभिमतानुरूपस्वरूपरूप” ऎऩ्ऱु तुडङ्गि श्रीमच्छब्दाभिप्रेतत्तैयरुळिच्चॆय्दार्। 
+</details>
+
+### नारायण
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“अखिल-हेय-प्रत्यनीके”त्य्-आदियाले  
+स्व-रूप-- रूप-गुण-विभूतिगळैप् परक्कव् अरुळिच् चॆय्गैयाले  
+नारायण-शब्दार्थम् व्याख्यातम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+In the words **beginning** with  
+
+> "**opposed** to everything of the nature of blemish" 
+
+(in the Gadya),  
+(Śrī Rāmānuja) **has described** at length Bhagavān's essential nature (svarūpa),  
+His form (rupa ),  
+and His attributes and glories (vibhūtis).  
+So the **meaning** of the word Nārāyaṇa **has been commented** upon (in them.) 
+</details>
+
+<details><summary>Español</summary>
+
+En las palabras **que comienzan** con  
+
+> "**opuesto** a todo lo que **tenga** la naturaleza de imperfección" 
+
+(en Gadya),  
+(Śrī Rāmānuja) **ha descrito** detalladamente la naturaleza esencial de Bhagavān (svarūpa),  
+Su forma (rupa),  
+y Sus atributos y glorias (vibhūtis).  
+Así que el **significado** de la palabra Nārāyaṇa **ha sido comentado** (en ellos).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अखिलहेयप्रत्यनीके”त्यादियाले स्वरूपरूपगुणविभूतिकळैप् परक्क वरुळिच्चॆय्गैयाले नारायणशब्दार्थम् व्याख्यातमायिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुऱ्-पड पिराट्टियैच् चॊल्लच् चॆय्दे  
+पुरुष-कारत्व-निर्वाहार्थम् आग  
+विभूति-मध्यत्तिल् निलै तोऱ्ऱुगैक्क् आग  
+मीण्डुम् नारायण-शब्द-व्याख्यानत्तिलुम् +++("श्री-वल्लभ" इति)+++ अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>English</summary>
+
+In the commentary on the word 'Nārāyaṇa',  
+Lakṣmī **who has been already stated** in Śrīmat  
+**is** once again **made to appear** in the midst of His glories (vibhūtis)  
+in the word Śrī-vallabha in the Gadya  
+in order to **explain** her **role** as **mediator** (between the jīva and her Spouse). 
+</details>
+
+<details><summary>Español</summary>
+
+En el **comentario** sobre la palabra 'Nārāyaṇa',  
+Lakṣmī **quien ya ha sido declarado** en Śrīmat  
+**es** una vez más **hecho para aparecer** en medio de Sus glorias (vibhūtis)  
+en la palabra Śrī-vallabha en el Gadya  
+para **explicar** su **papel** como **mediadora** (entre la jīva y su Cónyuge).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुऱ्पड पिराट्टियैच् चॊल्लच् चॆय्दे पुरुषकारत्वनिर्वाहार्थमाग विभूति मध्यत्तिल् निलैदोऱ्ऱुगैक्काग मीण्डुम् नारायणशब्दव्याख्यानत्तिलुमरुळिच्चॆय्दार् ।
+</details>
+
+
+### श्रीमन्-नारायण (फलोपाययोः)
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनन्तरं “श्रीमन्-नारायण” ऎऩ्ऱु  
+फलोपाय-वाक्यङ्गळिल् प्रयुक्तम् आऩ व्याख्येय-शब्दत्तै  
+उपादानम् पण्णिय् अरुळिऩार्।
+</details>
+
+<details><summary>English</summary>
+
+Then Śrī Rāmānuja takes for comment the words Śrīman Nārāyaṇa  
+**employed** in the sentences **treating** of the goal and the means of **attaining** it.  
+</details>
+
+<details><summary>Español</summary>
+
+Entonces Śrī Rāmānuja toma como comentario las palabras Śrīman Nārāyaṇa.  
+**empleado** en las oraciones **que tratan** del objetivo y los medios para **alcanzarlo**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनन्तरं “श्रीमन्नारायण” ऎऩ्ऱु फलोपाय वाक्यङ्गळिल् प्रयुक्तमाऩ व्याख्येयशब्दत्तै उपादानम् पण्णियरुळिऩार्।
+</details>
+
+### प्रपद्ये
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“प्रपद्ये” ऎऩ्गिऱव् इडत्तिल्  
+उत्तमऩाले विवक्षितम् आऩव् अधिकारि-विशेषम्  
+“अनन्य-शरणोऽहं" ऎऩ्ऱु विवृतम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+The person **competent** for prapatti  
+**indicated** by the first person singular in the word prapadye (I **seek** Him for **refuge**)  
+**is explained** in the words (in the Gadya) which **mean** 
+
+> (I **seek refuge** in you and noone else.)
+</details>
+
+<details><summary>Español</summary>
+
+La persona **competente** para prapatti  
+**indicado** por la primera persona del singular en la palabra prapadye (Yo **lo busco** como **refugio**)  
+**se explica** en las palabras (en Gadya) que **significan** 
+
+> (Yo **busco refugio** en ti y en nadie más.)
+</details>
+
+<details><summary>मूलम्</summary>
+
+“प्रपद्ये” ऎऩ्गिऱविडत्तिलुत्तमऩाले विवक्षितमाऩवधिकारिविशेषम् “अनन्यशरणोऽहं ऎऩ्ऱु विवृतमायिऱ्ऱु। 
+</details>
+
+### चरणौ शरणं प्रपद्ये
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “त्वत्-पादारविन्द-युगलं शरणं प्रपद्ये” 
+
+ऎऩ्गैयाले  
+“चरणौ” ऎऩ्गिऱ शब्दमुम्  
+शरण-शब्दमुम्  
+क्रिया-पदमुम् प्रदर्शितम् आयिऱ्ऱु। 
+</details>
+
+
+<details><summary>English</summary>
+
+> "I **seek** the **refuge** of Thy two lotus feet" 
+
+explain the words caraṇau (feet) and saranam (refuge) and so also the verb (in Dvaya). 
+</details>
+
+<details><summary>Español</summary>
+
+> "Yo **busco** el **refugio** de Tus dos pies de loto" 
+
+**Explique** las palabras caraṇau (pies) y saranam (refugio) y también el verbo (en Dvaya).
+</details>
+
+<details><summary>मूलम्</summary>
+
+“त्वत्पादारविन्दयुगळं शरणं प्रपद्ये” ऎऩ्गैयाले “चरणौ” ऎऩ्गिऱ शब्दमुम् शरणशब्दमुम् क्रियापदमुम् प्रदर्शितमायिऱ्ऱु। 
+</details>
+
+### द्वयोल्लेखः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनन्तरं “द्वयं” ऎऩ्ऱु व्याख्येयत्तै पूर्णम् आग निर्देशित्तार्।
+</details>
+
+<details><summary>English</summary>
+
+Later Śrī Rāmānuja indicates distinctly the word Dvaya which is commented upon.
+</details>
+
+<details><summary>Español</summary>
+
+Más tarde Śrī Rāmānuja **indica** claramente la palabra Dvaya  
+sobre la cual **se comenta**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनन्तरं “द्वयं” ऎऩ्ऱु व्याख्येयत्तै पूर्णमाग निर्देशित्तार्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अडियिलेय् आदल्, मुडिविलेय् आदल्  
+“द्वयं” ऎऩ्ऱु निर्देशियादे  
+इव्व् अळविले +++(मध्ये क्वचित्)+++ सॊल्ल वेण्डुवाऩ् एऩ् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+It **may be asked**: 
+
+> "Why **should** (he) **dwell** at such length  
+without **specifying** the word Draya either in the beginning or at the end,  
+but only here?" 
+
+The answer **is** as follows:- 
+</details>
+
+<details><summary>Español</summary>
+
+**Se puede preguntar**: 
+
+> "¿Por qué **debería** (él) **extender** tanto tiempo?  
+sin **especificar** la palabra Draya ni al principio ni al final,  
+pero sólo aquí?" 
+
+La **respuesta es** la **siguiente**:-
+</details>
+
+<details><summary>मूलम्</summary>
+
+अडियिलेयादल् मुडिविलेयादल् “द्वयं” ऎऩ्ऱु निर्देशियादे इव्वळविले सॊल्लवेण्डुवाऩेऩॆऩ्ऩिल्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपाय-प्राप्यङ्गळिल्  
+इङ्गु प्रधान-भूतऩ् श्रीमाऩ् आऩ नारायणऩ् आगैयाले  
+इरण्ड् इडत्तिलुङ् किडक्किऱ स-विशेष-नारायण-शब्दम् व्याख्यातम् आय् निऩ्ऱव् अळविले
+</details>
+
+<details><summary>English</summary>
+
+Here in regard to the upāya and the upeya or what is to be **attained** thereby,  
+the most important **is** Nārāyaṇa with Śrī (Lakṣmī).  
+Therefore the word Nārāyaṇa with its attribute Śrī which occurs in two places in Dvaya) **has been** already **commented** upon. 
+</details>
+
+<details><summary>Español</summary>
+
+Aquí, con respecto al upāya y el upeya o lo que **se alcanza** con ello,  
+el más importante **es** Nārāyaṇa con Śrī (Lakṣmī).  
+Por lo tanto, la palabra Nārāyaṇa con su atributo Śrī que **aparece** en dos lugares en Dvaya) ya **ha sido comentada**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उपायप्राप्यङ्गळिलिङ्गु प्रधानभूतऩ् श्रीमाऩाऩ नारायणऩागैयाले इरण्डिडत्तिलुङ्गिडक्किऱ सविशेषनारायणशब्दम् व्याख्यातमाय् निऩ्ऱ वळविले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इम् मन्त्रत्तुक्कु प्रतिपाद्यम् आऩ साध्योपायत्तोडे कूड  
+प्रधानोपायमुम् प्रधान-प्राप्यमुम् व्याख्यातम् 
+
+ऎऩ्ऱु तोऱ्ऱुगैक्क् आग  
+इङ्गे “द्वयं” ऎऩ्ऱ् अरुळिच् चॆय्दार्।
+</details>
+
+<details><summary>English</summary>
+
+So in order to **show** that  
+along with the Sādhyopāya (namely prapatti) which is **indicated** by this mantra,  
+the principal upāya and the principal object of **attainment** **have been commented** upon,  
+the word Dvaya **is** here **inserted**  
+(i.e. to **mean** that the Dvaya **has been**, for the most part, **explained**). 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces, para **mostrar** que  
+junto con el Sādhyopāya (es decir, prapatti) que está **indicado** por este mantra,  
+el upāya principal y el objeto principal de **logro** **han sido comentados**,  
+la palabra Dvaya **está** aquí **insertada**  
+(es decir, **significar** que el Dvaya **ha sido**, en su mayor parte, **explicado**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इम् मन्त्रत्तुक्कु प्रतिपाद्यमाऩ साध्योपायत्तोडे कूड प्रधानोपायमुम् प्रधानप्राप्यमुम् व्याख्यातमॆऩ्ऱु तोऱ्ऱुगैक्काग इङ्गे “द्वयं” ऎऩ्ऱरुळिच् चॆय्दार्।
+</details>
+
+### अधिकारादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनन्तरं “पितरं मातरं” ऎऩ्ऱु तुडङ्गि  
+जितन्ता-विशेष--भगवद्-गीतादि-स्थितम् आऩ संवाद-वाक्य-मुखत्ताले  
+</details>
+
+<details><summary>English</summary>
+
+Then in the ślokas which **begin** with 'pitaram mataram" and in certain sentences taken form Jitante, and Bhagavadgītā  
+and other passages which **express** the same idea,  
+
+</details>
+
+<details><summary>Español</summary>
+
+Luego en los ślokas que **comienzan** con 'pitaram mataram' y en ciertas oraciones **tomadas** de Jitante y Bhagavadgītā  
+y otros pasajes que **expresan** la misma idea,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनन्तरं “पितरं मातरं” ऎऩ्ऱु तुडङ्गि जितन्ता-विशेषभगवद्गीतादिस्थितमाऩ संवादवाक्यमुखत्ताले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनन्य-प्रयोजनऩ् आय्  
+अनन्योपायऩ् आय्क्-कॊण्ड्  
+उपाय-परिग्रहम् पण्णिऩ बडियैयुम्
+</details>
+
+<details><summary>English</summary>
+
+without any other object  
+and with no other upāya in one's view or power,  
+the adoption of the upāya (prapatti)  
+</details>
+
+<details><summary>Español</summary>
+
+sin ningún otro objeto  
+y sin ningún otro upāya en la vista o el poder,  
+la **adopción** del upāya (prapatti)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनन्यप्रयोजनऩाय् अनन्योपायऩाय्क्कॊण्डुपायपरिग्रहम् पण्णिऩबडियैयुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरण्य--स्व-भावानुसन्धान-पूर्वकम् आगव् अपराध-क्षापणम् पण्णुगिऱ बडियैयुम्
+</details>
+
+<details><summary>English</summary>
+
+and (with) the form of **prayer** for **pardon**  
+with the thought of the Saviour's nature preceding it, 
+</details>
+
+<details><summary>Español</summary>
+
+y (con) la forma de **oración** por **perdón**  
+con el pensamiento de la naturaleza del Salvador **precediéndolo**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शरण्यस्वभावानुसन्धानपूर्वकमाग वपराधक्षापणम् पण्णुगिऱ बडियैयुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वयत्तुक्कु समुदितार्थम् आगव् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>English</summary>
+
+(is shown to be the the **resulting meaning** of the Dvaya by Śrī Rāmānuja).
+</details>
+
+<details><summary>Español</summary>
+
+(**Se muestra** que **es** el **significado resultante** del Dvaya de Śrī Rāmānuja).
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्वयत्तुक्कु समुदितार्थमाग वरुळिच्चॆय्दार्। 
+</details>
+
+### नमः, चतुर्थी
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मेल् अर्थ-क्रमत्ताले +++(न तु शब्द-क्रमेण)+++
+
+मुऱ्-पड **नमस्साले** प्रार्थिक्किऱव् अनिष्ट-निवृत्तियै व्याख्यानम् पण्णि  
+
+पिऩ्बु इङ्ग् उळ्ळ पर-भक्त्य्-आदि-पुरुषार्थ-पूर्वकम् आग  
+**चतुर्थ्य्**-अन्त-पदङ्गळिल् विभक्त्य्-अभिप्रेतमाऩ परम-पुरुषार्थ-लाभत्तै वॆळिय् इट्ट् अरुळिऩार्।
+</details>
+
+<details><summary>English</summary>
+
+Thereafter **following** the order **indicated** by the meaning  
+(and not by the actual order of words in the sentence),  
+Śrī Rāmānuja **explains** the prayer in the word "namas" for the **removal** of (all) **hindrances**.  
+After this, he **explains** the supreme aim of life  
+which **is indicated** by the suffix of the dative (or fourth case) in the words which end in the fourth case (Narāyānāya),  
+which **includes** such aims as superior bhakti  (parābhakti )  
+that **precede** the **attainment** of the supreme aim (the attainment of Bhagavān and His kaiṅkarya). 
+</details>
+
+<details><summary>Español</summary>
+
+En adelante **siguiendo** el orden **indicado** por el significado  
+(y no por el orden real de las palabras en la oración),  
+Śrī Rāmānuja **explica** la oración en la palabra "namas" para la **eliminación** de (todos) **obstáculos**.  
+Después de esto, **explica** el objetivo supremo de la vida.  
+que **está indicado** por el sufijo del dativo (o cuarto caso) en las palabras que terminan en el cuarto caso (Narāyānāya),  
+que **incluye** objetivos tales como bhakti superior (parābhakti)  
+que **preceden** al **logro** del objetivo supremo (el logro de Bhagavān y Su kaiṅkarya).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मेल् अर्थक्रमत्ताले मुऱ्पड नमस्साले प्रार्थिक्किऱवनिष्ट निवृत्तियै व्याख्यानम् पण्णि पिऩ्बु इङ्गुळ्ळ परभक्त्यादिपुरुषार्थपूर्वकमाग चतुर्थ्यन्तपदङ्गळिल् विभक्त्यभिप्रेतमाऩ परमपुरुषार्थलाभत्तै वॆळियिट्टरुळिऩार्।
+</details>
+
+### भगवद्-अनुग्रह-सङ्कल्पः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् अनुष्ठितोपायऩ् आऩव् अधिकारि-विषयत्तिल्  
+इङ्गुम्, अङ्गुम् उळ्ळ सिद्धियैप् पऱ्ऱ  
+चरम-श्लोकत्तिल् उत्तरार्धत्तिऱ् पडिये  
+
+स्वाभाविक-दयार्द्रम् आऩ **भगवद्-अभिप्रायम्** इरुक्कुम् बडियै  
+तद्-व्यञ्जक-भगवद्-वाक्य-प्रक्रियैयालेय्  
+अरुळिच् चॆय्दु काट्टिऩार्। 
+</details>
+
+<details><summary>English</summary>
+
+Then he points out how Bhagavān **is** so full of compassion  
+(as **shown** also in the second half of the Caramaśloka,)  
+as to **vouchsafe** success  
+both in regard to this life  
+and in regard to what **is** to **follow** thereafter. 
+
+(This he does) by the words **stated** to have been **spoken** by Bhagavān. 
+</details>
+
+<details><summary>Español</summary>
+
+Luego señala cómo Bhagavān **está** tan **lleno** de compasión,  
+(como **se muestra** también en la segunda mitad del Caramaśloka,)  
+en cuanto a **garantizar** el éxito  
+tanto en lo que respecta a esta vida  
+y con respecto a lo que **seguirá** a partir de entonces. 
+
+(Esto lo hace) mediante las palabras **declaradas** que **fueron pronunciadas** por Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि यनुष्ठितोपायऩाऩवधिकारिविषयत्तिल् इङ्गुमङ्गुमुळ्ळ सिद्धियैप्पऱ्ऱ चरमश्लोकत्तिलुत्तरार्धत्तिऱ्पडिये स्वाभाविकदयार्द्रमाऩ भगवदभिप्रायमिरुक्कुम्बडियै तद्व्यञ्जकभगवद्वाक्यप्रक्रियैयाले यरुळिच्चॆय्दु काट्टिऩार्। 
+</details>
+
+### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाले गद्यत्तिल् अरुळिच्-चॆय्दद् ऎल्लाम् द्वयत्तिले विवक्षितम्।
+</details>
+
+<details><summary>English</summary>
+
+Therefore all that **is stated** by (Rāmānuja) in the (Śaraṇāgati) Gadya  
+**is intended** to be conveyed by the Dvaya. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, todo lo que **es declarado** por (Rāmānuja) en el (Śaraṇāgati) Gadya  
+**está destinado** a ser **transmitido** por el Dvaya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाले गद्यत्तिलरुळिच्चॆय्ददॆल्लाम् द्वयत्तिले विवक्षितम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु 
+
+> “द्वयम् अर्थानुसन्धानेन सह  
+सदैवं वक्ता” 
+
+ऎऩ्गिऱ पासुरत्तालुम् सूचितम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “द्वयम् अर्थानुसन्धानेन सह  
+सदैवं वक्ता” 
+
+</details>
+
+<details><summary>English</summary>
+
+This **is indicated** also by the words (in the Gadya) which **mean** 
+
+> “**uttering** the Dvaya in this manner  
+with an **understanding** of its meaning etc".
+
+</details>
+
+<details><summary>Español</summary>
+
+Esto **está indicado** también por las palabras (en Gadya) que **significan** 
+
+> “**pronunciar** el Dvaya de esta manera  
+con una **comprensión** de su **significado**, etc."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु “द्वयमर्थानुसन्धानेन सह सदैवं वक्ता” ऎऩ्गिऱ पासुरत्तालुम् सूचितम्। 
+</details>
+
+### पर-भक्त्यादौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पर-भक्त्य्--आदि-मूलत्वं  
+कैङ्कर्यस्य यद् **उच्यते** ।  
+गद्यादिषु तद् अप्य् **आहुर्**  
+अपवर्ग+++(=मोक्ष)+++-दशाश्रयम् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पर-भक्त्य्--आदि-मूलत्वं  
+कैङ्कर्यस्य यद् **उच्यते** ।  
+गद्यादिषु तद् अप्य् **आहुर्**  
+अपवर्ग+++(=मोक्ष)+++-दशाश्रयम् ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+The ācāryas of old **have declared** that  
+the statement in such **writings** as the Gadya that 
+
+> superior bhakti ( para-bhakti ) and the like (parajñāna and parama bhakti) **have**, for their **result**, kaiṅkarya  
+
+**describes** what occurs in the state of mukti. 
+</details>
+
+<details><summary>Español</summary>
+
+Los ācāryas de antaño **han declarado** que  
+la **declaración** en **escritos** como el Gadya que 
+
+> bhakti superior (para-bhakti) y similares (parajñāna y parama bhakti) **tienen**, por su **resultado**, kaiṅkarya  
+
+**describe** lo que **ocurre** en el estado de mukti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परभक्त्यादिमूलत्वं कैङ्कर्यस्य यदुच्यते । गद्यादिषु तदप्याहुरपवर्गदशाश्रयम् ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्तरोत्तरयोस् स्वामि-  
+**साक्षात्-करण+++(→पर-ज्ञान)+++--भोगयोः** ।  
+पूर्व-पूर्व-क्षणेष्टत्वात्  
+तन्+++(→पर-भक्ति-)+++-मूलत्वम् **उदीरितम्** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उत्तरोत्तरयोस् स्वामि-  
+**साक्षात्-करण+++(→पर-ज्ञान)+++--भोगयोः** ।  
+पूर्व-पूर्व-क्षणेष्टत्वात्  
+तन्+++(→पर-भक्ति-)+++-मूलत्वम् **उदीरितम्** ॥  
+</details>
+
+<details><summary>English</summary>
+
+Since what **follows** later in order namely,  
+the direct **vision** of the Lord (para-jñāna)  
+and the eager **desire** for the uninterrupted **enjoyment** of Bhagavān  
+**are preceded** by the eager **longing** to do so,  
+they are said to result from para-bhakti .
+</details>
+
+<details><summary>Español</summary>
+
+Dado que lo que **sigue** más adelante en orden, es **decir**,  
+la **visión** directa del Señor (para-jñāna)  
+y el ansioso **deseo** por el **disfrute** ininterrumpido de Bhagavān  
+**están precedidos** por el ansioso **anhelo** de **hacerlo**,  
+**se dice** que **resultan** del para-bhakti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उत्तरोत्तरयोस्स्वामिसाक्षात्-करणभोगयोः । पूर्वपूर्वक्षणेष्टत्वात्तन्मूलत्वमुदीरितम् ॥  
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-परभक्त्यादिमूलत्वं कैङ्कर्यस्य यदुच्यते । गद्यादिषु तदप्याहुरपवर्गदशाश्रयम् ॥  
-उत्तरोत्तरयोस्स्वामिसाक्षात्-करणभोगयोः । पूर्वपूर्वक्षणेष्टत्वात्तन्मूलत्वमुदीरितम् ॥  
 शरीरपातकाले तु हार्दस्यानुग्रहस्स्वयं । परिपाकं प्रपन्नानां प्रयच्छति तथाविधम् ॥  
 अङ्कोलतैलसिक्तानां बीजानामचिराद्यथा । विपाकः फलपर्यन्तस्तथात्रेति निदर्शितं ॥  
 दुष्टेन्द्रियवशाच्चित्तं नृणां यत्कल्मषैर्वृतम् । तदन्तकाले संशुद्धिं याति नारायणालये ॥  
@@ -793,7 +2064,7 @@ It may be asked: "Why should (he) dwell at such length without specifying the wo
 अनुग्रह विशेषेण केनचित्परमात्मनः । कुरुकाधीशनाथाद्याः प्रागप्यन्वभवन् प्रभुम् ॥
 </details>
 
-The ācāryas of old have declared that the statement in such writings as the Gadya that superior bhakti ( para-bhakti ) and the like (li, e. parajñāna and parama bhaktı) have, for their result, kaiṅkarya describes what occurs in the state of mukti. Since what follows later in order namely, the direct vision of the Lord (para-jñāna) and the eager desire for the uninterrupted enjoyment of Bhagavān are preceded by the eager longing to do so, they are said to result from para-.bhakti .
+
 
 At the time of departure from the body, the grace of the Lord who dwells in the heart (of the jīva) grants to those who have performed prapatti that spiritual ripeness which would enable them to have a vision of the Lord. When the seed of a plant is soaked in the oil of ankola (azhinjil), it produces sprouts, leaves, flowers, fruits and the like in a few instants. So also, in just a few instants, the grace of the Lord enables the self to attain that spiritual perfection which would inake possible parābhakti , parajñāna and paramabhakti . This state of perfection or ripeness which is referred to in the Gadya is as appropriate as what is taught in such treatises as the Sātvata concerning the special religious observances (vrata) for attaining mokṣa - for instance, that the minds of men rendered impure by stains caused by the wicked senses become pure at the time of their death, as a result of their residence in a place where there is a temple dedicated to Nārāyaṇa. Such (great souls) as Nammalvar, Nāthamuni and others enjoyed the Lord even before their death, owing to some special grace of the Supreme Being.
 
