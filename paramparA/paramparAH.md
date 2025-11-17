@@ -20,7 +20,9 @@ GPPs themselves are very late and very suspect anyway.
 
 Koyilozhuku cannot be taken too seriously beyond a limit - unless you can substantiate it with inscriptions. The kind of dates which it gives for Azhvars or even the first turushka invasion are untenable. It also leaves out several ket events which are referred to in the vijayanagar inscriptions (like visit of the vnagar emperors and their grants).
 
-(Comments on 3k-paDi - see that file.)
+6k-paDi Current text is claimed to be his (pinbazhagiya perumAL jeeyar's). But very suspect. There is a possibility that just there was a second VAMJ, a second PPJ existed. 6k has chronological impossibilities like PVP and VD having dialogues. All these stuff would not hv been there if the text was contemporary as claimed.
+
+(Comments on 3k-paDi - see that file : [TW](/rAmAnujIyam/kAvyam/drAviDam/aitihyam/3k_guru-paramparA-prabhAvaH).)
 </details>
 
 

@@ -12,7 +12,9 @@ Unfortunately, due to lack of consistency, they can't all be mechanically fixed 
 Patterns such as ऴ्अ and ऩ्ऱु (artifacts from partial fixing) should be further repaired.
 
 3k guruparamparA-prabhAva is unlikely to be by 3rd parakAla yati as claimed.  
-Too many cock and bull stories about deshika.  
+Too many cock and bull stories about deshika, eg. -   
+
+- meeting of prabodha-chandrodaya author with sankalpa-sUryodaya author VD
 </details>
 
 <details><summary>रविलोचनाभिप्रायः</summary>
