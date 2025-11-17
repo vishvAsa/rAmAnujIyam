@@ -2343,6 +2343,8 @@ The Acharya's Ishta Devata is Lord Srinivasa of Tiruvengadam. That Lord reveals 
 एवं पाञ्चरात्रिक-प्रक्रियाणां पृथग्-भूतत्वे ऽपि  
 वैखानसे पार्थक्यं न भवति। 
 
+
+
 [[P14]]
 
 तद् इदम् अत्रिणा वैखानस-पाञ्चरात्र-रूप--वैष्णव-विधि-द्वैविध्यं,  
