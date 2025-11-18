@@ -1902,7 +1902,7 @@ It is as follows:-
 दासोऽहं तव तस्य वै ।  
 परम् ईप्सुस् तम् एवार्थम्  
 अनुकूलो विवर्जयन् ॥  
-प्रातिकूल्यं सुविस्रस्थस्  
+प्रातिकूल्यं सुविस्रस्तः  
 सम्प्रार्थ्य शरणं परम् ।  
 व्रजामि युष्मच्-चरणं  
 तत्रैवाहं मयार्पितः” 
@@ -3023,13 +3023,13 @@ debido a alguna gracia especial del Ser Supremo.
 
 <details><summary>English</summary>
 
-Nammalvar has, in the following passages and elsewhere, stated the meaning of Dvaya: - 
+Nammalvar has, (in the following passages and elsewhere, stated) the meaning of Dvaya: - 
 </details>
 
 <details><summary>Español</summary>
 
-Nammalvar, en los siguientes pasajes y en otros lugares,  
-**ha declarado** el significado de Dvaya:
+Nammalvar, (en los siguientes pasajes y en otros lugares,  
+**ha declarado**) el significado de Dvaya:
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3135,14 +3135,24 @@ y que **ha** con ello **alcanzado** nueva vida"
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मुगिल्वण्णऩ् ऎऩ्बदाल् श्रीमन्नारायणशब्दत्तिऩर्थत्तैयुम्  
+अडियै ऎऩ्बदाल् चरणशब्दत्तिऩर्थत्तैयुम्,  
+अडैन्दु ऎऩ्बदाल् शरणं प्रपद्ये ऎऩ्बदिऩर्थत्तैयुम्,  
+अरुळ् सूडिय् उय्न्दवऩ् ऎऩ्बदाल् उत्तरखण्डत्तिऩ् अर्थत्तैयुमनुसन्धित्तार्।  
+
+</details>
 
 
 
-## श्रीमन्नारायणशब्दार्थः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“अगिल्-अग् इल्लेऩ्”( तिरुवाय्मॊऴि ६-१०-१०) 
+</details>
 
 
-
-
+<details><summary>English</summary>
 
 and 
 
@@ -3150,15 +3160,324 @@ and
 because she cannot **endure separation** from Thee  
 even for an instant, etc".
 
+</details>
 
+<details><summary>Español</summary>
+
+y 
+
+> "Oh Tú en cuyo pecho **habita** Lakṣmī  
+porque ella **no puede soportar la separación** de Ti  
+aunque sea por un instante, etc"., etc".
+</details>
+
+<details><summary>मूलम्</summary>
+
+“अगिलगिल्लेऩ्”( तिरुवाय्मॊऴि ६-१०-१०) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुदल् आऩ प्रदेशङ्गळिलुम् अरुळिच् चॆय्दार्।   
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुदलाऩ प्रदेशङ्गळिलुमरुळिच्चॆय्दार्।   
+</details>
+
+
+
+
+<details><summary>English</summary>
 
 THE DETAILED INTERPRETATION OF DVAYA:
+</details>
+
+<details><summary>Español</summary>
+
+LA **INTERPRETACIÓN** DETALLADA DE DVAYA:
+</details>
+
+
+
+## श्रीमन्नारायणशब्दार्थः
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् मुऱ्पड “श्रीमन्नारायण” ऎऩ्ऱु सर्वशरण्यमाऩ परतत्त्वत्तैच् चॊऩ्ऩ पडि।
+</details>
+
+<details><summary>English</summary>
+
+The word Śrīman Nārāyaṇa which **stands** first in Dvaya  
+**refers** to the Supreme Reality (paratattva)  
+which **is** the **refuge** of every one. 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra Śrīman Nārāyaṇa que **está** primero en Dvaya  
+**se refiere** a la Realidad Suprema (paratattva)  
+que **es** el **refugio** de cada uno.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् मुऱ्पड “श्रीमन्नारायण” ऎऩ्ऱु सर्वशरण्यमाऩ परतत्त्वत्तैच् चॊऩ्ऩ पडि।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(अनितर-विशेषणत्वात् →)+++ श्रियः-पतित्व-लिङ्गत्तालुम्  
++++(णत्वयुक्तेन विशेष्यत्वात्→)+++ नारायण-शब्दत्तालुम् इऱे  
+श्रुतिगळिल् पर-तत्त्व-विशेष-निर्णयम् पण्णप्-पट्टदु।
+</details>
+
+<details><summary>English</summary>
+
+The **determination** of the person of the Supreme Reality  
+**is** well **known** to be **arrived** at in the śrutis  
+by reason of His **being** the Lord of Śrī and by the word 'Nārāyaṇa.' 
+</details>
+
+<details><summary>Español</summary>
+
+La **determinación** de la persona de la Realidad Suprema  
+**es** muy **conocido** por haber **llegado** a los śrutis  
+por razón de Su **ser** el Señor de Śrī  
+y por la palabra 'Nārāyaṇa'.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रियःपतित्वलिङ्गत्तालुम् नारायणशब्दत्तालुमिऱे श्रुतिकळिल् परतत्त्वविशेषनिर्णयम् पण्णप्पट्टदु।
+</details>
+
+
+### श्रीमत्
+<details><summary>English</summary>
 
 The meaning of Śrīman:
+</details>
 
-The word Śrīman Nārāyaṇa which stands first in Dvaya refers to the Supreme Reality (paratattva) which is the refuge of every one. The determination of the person of the Supreme Reality is well known to be arrived at in the śrutis by reason of His being the Lord of Śrī and by the word 'Nārāyaṇa.' The word Śrīmat in the first part (of Dvaya) is to show that, when Nārāyaṇa becomes the Redeemer, He is with His attribute (Lakṣmī). Arulalapperumal Emberumanar states :- " Before understanding the sabstantive which has attributes, the attributes have to be understood. Therefore to understand Hari who has Lakṣmī for His attribute, the attribute, 'Lakṣmī', has (first) to be understood." That this (Lakṣmī) is an attribute both in the first part (of the Dvaya) and in the second has already been explained in the chapter Siddhopāya śodhana as also the principle that when the upāya has an attribute, there will be no duality of the upāya. (See page : ).
+<details><summary>Español</summary>
 
-The meaning of Śrī:- In the Bhagavat śāstras (pañcarātra), the word Śrī has been etymologically interpreted in six ways: (1) srīyate (is resorted to); (2) srayate (resorts to); (3) srnoti (listens); (4) srāvayati (makes listen); (5) srniti (removes); (6) śrīnati (makes ripe). The other words that are required to make the meaning clear have to be understood from what is appropriate (in the context) and on the strength of pramāṇas. (1) & (2) Śrīyate and Srayate :- Among them when we take the word to mean that She (Lakṣmī) is resorted to by those who desire spiritual re-birth and that she resorts to the Supreme Ruler of all in order to give them spiritual rebirth, we may take the following śloka (for authority):- "When Thy beloved Lord is displeased with a man who has committed serious offences in order, like a father, to reform him, Thou, O mother, sayest to Him, " What is this? Is there any man in the world who has no faults?" and persuadest Him by suitable devices to accept the offender by making Him forget (vismārya) his offences. Therefore art Thou our mother." As stated in this śloka, she helps to mitigate the anger of the Supreme Ruler who wields the rod of punishment for the sake of promoting the welfare of the offender. Thus she sees to it that the Lord's natural compassion becomes the cause of the man's ( spiritual) rebirth. The word Śrī, in this interpretation, would describe her greatness as a mediator (who intercedes on behalf of the jīva) owing to her excessive love which is that of a mother. The word vismārya, which means 'by making him forget' has, for its purport, as in the word avignāta (in avijnāta sahasrāmśu), which literally means (not knowing), the removal of the thought of punishing entertained by the omniscient Iśvara. The same is the meaning of the word 'fascinated in the passage, "He who is fascinated by the "charms of Lakṣmī, the lotus-born etc" The word 'mediator (purushakara) means "another intelligent being who is sought as a means or upāya for securing the favour of an intelligent being who can satisfy the wants of one". This mediator or purushakāra' is the mediate (as distinguished from the direct) cause for the attainment of the (desired) fruit.
+El significado de Śrīman:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नारायणऩ् शरण्यऩ् आम् बोदु  
+लक्ष्मी-विशिष्टऩ् आय् इरुक्कुम्  
+ऎऩ्गैक्क् आग  
+पूर्व-खण्डत्तिल् श्रीमच्-छब्दम्।
+</details>
+
+<details><summary>English</summary>
+
+The word Śrīmat in the first part (of Dvaya) **is** to show that,  
+when Nārāyaṇa **becomes** the **Redeemer**,  
+He **is** with His attribute (Lakṣmī). 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra Śrīmat en la primera parte (de Dvaya) **es** para **mostrar** que,  
+cuando Nārāyaṇa **se convierta** en el **Redentor**,  
+Él **es** con Su atributo (Lakṣmī).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नारायणऩ् शरण्यऩाम्बोदु लक्ष्मीविशिष्टऩायिरुक्कुम् ऎऩ्गैक्काग पूर्वखण्डत्तिल् श्रीमच्छब्दम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “आकारिणस् तु विज्ञानम्  
+आकार-ज्ञान-पूर्वकम् ।  
+तेनाकारं श्रियं ज्ञात्वा  
+ज्ञातव्यो भगवान् हरिः॥”  
+( अरुळ्-आळप् पॆरुमाळ् ऎम्-पॆरुमाऩार्) 
+
+ऎऩ्ऱ् अरुळ्-आळप्-पॆरुमाळॆम् पॆरुमाऩार् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “आकारिणस् तु विज्ञानम्  
+आकार-ज्ञान-पूर्वकम् ।  
+तेनाकारं श्रियं ज्ञात्वा  
+ज्ञातव्यो भगवान् हरिः॥”  
+( अरुळ्-आळप् पॆरुमाळ् ऎम्-पॆरुमाऩार्) 
+
+</details>
+
+<details><summary>विषयः</summary>
+
+लक्ष्मीः
+</details>
+
+
+<details><summary>English</summary>
+
+Arulalap-perumal Emberumanar states :- 
+
+> " Before **understanding** the sabstantive which **has** attributes,  
+the attributes **have to be understood**.  
+Therefore to **understand** Hari who has Lakṣmī for His attribute,  
+the attribute, 'Lakṣmī', **has** (first) **to be understood**." 
+</details>
+
+<details><summary>Español</summary>
+
+Arulalap-perumal Emberumanar **afirma** - 
+
+> " Antes de **comprender** el sustantivo que **tiene** atributos,  
+los atributos **tienen que entenderse**.  
+Por lo tanto, para **entender** a Hari, quien **tiene** a Lakṣmī como Su atributo,  
+el atributo, 'Lakṣmī', **tiene** (primero) **que ser comprendido**."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“आकारिणस्तु विज्ञानमाकारज्ञान पूर्वकम् । तेनाकारं श्रियं ज्ञात्वा ज्ञातव्यो भगवान् हरिः”( अरुळाळप्पॆरुमाळॆम्बॆरुमाऩार्) ऎऩ्ऱरुळाळप्पॆरुमाळॆम् पॆरुमाऩाररुळिच्चॆय्दार्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इदु उत्तर-खण्डत्तिऱ् पोले  
+पूर्व-खण्डत्तिलुम् विशेषणम् 
+
+ऎऩ्ऩुम् इडमुम्  
+
+> उपाय-विशेषणङ्गळाल् उपाय-द्वित्वम् वाराद् 
+
+ऎऩ्ऩुम् इडमुम्  
+सिद्धोपाय-शोधनत्तिले सॊऩ्ऩोम्।  
+</details>
+
+<details><summary>English</summary>
+
+That this (Lakṣmī) **is** an attribute both in the first part (of the Dvaya) and in the second  
+**has already been explained** in the chapter Siddhopāya śodhana  
+
+as also the principle that  
+when the upāya **has** an attribute,  
+there **will be no** duality of the upāya.
+</details>
+
+<details><summary>Español</summary>
+
+Que este (Lakṣmī) **es** un atributo tanto en la primera parte (del Dvaya) como en la segunda  
+**ya ha sido explicado** en el capítulo Siddhopāya śodhana  
+
+como también el principio de que  
+cuando el upāya **tiene** un atributo,  
+**no habrá** dualidad del upāya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु उत्तरखण्डत्तिऱ्पोले पूर्वखण्डत्तिलुम् विशेषणमॆऩ्ऩुमिडमुम् उपायविशेषणङ्गळाल् उपायद्वित्वम् वारादॆऩ्ऩुमिडमुम् सिद्धोपायशोधनत्तिले सॊऩ्ऩोम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रीमच्-छब्दम्;  
+
+श्रीयते, श्रयते,  
+शृणोति, श्रावयति,  
+शृणाति+++(=निवारयति)+++, श्रीणाति+++(=पचति)+++  
+
+ऎऩ्ऱ् आऱु बडिय् आग  
+भगवच्-छास्त्रङ्गळिले निर्वचनम् पण्णप्-पट्ट् इरुक्कुम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रीयते, श्रयते,  
+शृणोति, श्रावयति,  
+शृणाति+++(=निवारयति)+++, श्रीणाति+++(=पचति)+++  
+</details>
+
+<details><summary>English</summary>
+
+The meaning of Śrī:-  
+In the Bhagavat śāstras (pañcarātra),  
+the word Śrī **has been** etymologically **interpreted** in six ways:  
+
+(1) śrīyate (is resorted to);  
+(2) śrayate (resorts to);  
+(3) śrnoti (listens);  
+(4) śrāvayati (makes listen);  
+(5) śrniti (removes);  
+(6) śrīnati (makes ripe). 
+
+</details>
+
+<details><summary>Español</summary>
+
+El significado de Śrī:-  
+En los Bhagavat śāstras (pañcarātra),  
+la palabra Śrī **ha sido** etimológicamente **interpretada** de seis maneras:  
+
+(1) śrīyate (**se recurre** a);  
+(2) śrayate (**recurre** a);  
+(3) śrnoti (**escucha**);  
+(4) śrāvayati (**hace escuchar**);  
+(5) śrniti (**elimina**);  
+(6) śrīnati (**hace madurar**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रीमच्छब्दम्; श्रीयते, श्रयते, शृणोति, श्रावयति, शृणाति, श्रीणाति ऎऩ्ऱाऱुबडियाग भगवच्छास्त्रङ्गळिले निर्वचनम् पण्णप्पट्टिरुक्कुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऱ्ऱिल् अपेक्षित-पदान्तरङ्गळ्  
+औचित्यत्तालुम्  
+अव्व्-ओ प्रमाण-बलत्तालुम्  
+विशेषित्त् अऱिय वेणुम्।
+</details>
+
+<details><summary>English</summary>
+
+The other words that **are required** to **make** the meaning clear  
+**have to be understood** from what **is appropriate** (in the context)  
+and on the strength of pramāṇas. 
+</details>
+
+<details><summary>Español</summary>
+
+Las otras palabras que **son necesarias** para **aclarar** el significado  
+**tienen que entenderse** de lo que **es apropiado** (en el contexto)  
+y sobre la fuerza de los pramāṇas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवऱ्ऱिल् अपेक्षितपदान्तरङ्गळ् औचित्यत्तालुम् अव्वो प्रमाणबलत्तालुम् विशेषित्तऱिय वेणुम्।
+</details>
+
+
+
+(1) & (2) Śrīyate and Srayate :- Among them when we take the word to mean that She (Lakṣmī) is resorted to by those who desire spiritual re-birth and that she resorts to the Supreme Ruler of all in order to give them spiritual rebirth, we may take the following śloka (for authority):- "When Thy beloved Lord is displeased with a man who has committed serious offences in order, like a father, to reform him, Thou, O mother, sayest to Him, " What is this? Is there any man in the world who has no faults?" and persuadest Him by suitable devices to accept the offender by making Him forget (vismārya) his offences. Therefore art Thou our mother." As stated in this śloka, she helps to mitigate the anger of the Supreme Ruler who wields the rod of punishment for the sake of promoting the welfare of the offender. Thus she sees to it that the Lord's natural compassion becomes the cause of the man's ( spiritual) rebirth. The word Śrī, in this interpretation, would describe her greatness as a mediator (who intercedes on behalf of the jīva) owing to her excessive love which is that of a mother. The word vismārya, which means 'by making him forget' has, for its purport, as in the word avignāta (in avijnāta sahasrāmśu), which literally means (not knowing), the removal of the thought of punishing entertained by the omniscient Iśvara. The same is the meaning of the word 'fascinated in the passage, "He who is fascinated by the "charms of Lakṣmī, the lotus-born etc" The word 'mediator (purushakara) means "another intelligent being who is sought as a means or upāya for securing the favour of an intelligent being who can satisfy the wants of one". This mediator or purushakāra' is the mediate (as distinguished from the direct) cause for the attainment of the (desired) fruit.
 
 We have already pointed out in Nikṣeparakṣa, as an authority, that by (her) very nature, by the practice (of the wise), by what we see in worldly affairs and by the words of gurus, and so also by the śruti and smṛti, dependence on an interceding) mediator is established (as a rule to be followed). "By Her very nature" means "By her nature in which there is no admixture of the anger arising from mental strength characteristic of a father and in which love (as for a child) resulting from a motherly feelings becomes over-whelming." It is her nature (always) to say: "There is no one who does not commit an offence"; "Who will get angry, best of monkeys, with these Rākṣasis who are under the authority of a king and being servants, render service to him?" "I cannot endure (to see) the sufferings of these servants of Ravana and therefore I pardon their offences". Her being the Lord's favourite is also such that, if she should intercede (on our behalf), the Lord cannot refuse. Since her very nature is such, it cannot be said that, to secure her help, the intercession of some one else will be needed and so on ad infinitum. As (an instance of) the practice of the wise, it is well-known from the Purāṇas, that, when Brahma and others were afraid to approach the Lord on seeing His wrath against His enemy, Hiranya, which arose owing to His intense love for Prahlāda, they approached the Supreme Ruler, who was then in the form of Nrisimha, with Lakṣmī as their leader (mediator) and praised Him. (Instances) may be seen also in such contexts as the following:- " The renowned" Lakṣmaṇa thus spoke to Sītā and the noble-minded Rāma." "Lakṣmaṇa, the descendent of Raghu, seized the two feet of his brother, Śrī Rāma, and said these words, in the presence of Sītā." In worldly affairs, too, this may be seen in kings pardoning the servants of the zenana as a result of even slight propitiation though their offences are great. This idea is also the purport of the śloka:-"O Mother Lakṣmī ! We who find our sole delight in rendering service to Thee and have only that as our aim, approach the Lord, look at Him and delight in serving Him, here and elsewhere, with the idea that He is Thy Spouse, in the same way as the people of Mithila looked upon Śrī Rāma as the bridegroom and the beloved husband of Sītā". The words of gurus are such passages as that of Nammalvar who says :-"O Thou on whose chest abides Lakṣmī, who says she cannot endure separation from Thee even for an instant". Texts may also be seen in support of this in the śrutis which are in the form of Śrī Sūktas. The Smṛtis based on these are the words of Śaunaka and others -such as the following :- "The man who begs for the attainment of Bhagavān, who is the purport of all words, should, of necessity, seek the protection also of Lakṣmī. It is not enough to perform prapatti to the Lord alone". Since it is evident from many pramāṇas that Lakṣmī plays the role of a mediator interceding at the feet of the Lord, it is but proper to understand it (in this way) in this context. Thus she is resorted to as a mediator and as the attribute of Siddhopāya.
 
