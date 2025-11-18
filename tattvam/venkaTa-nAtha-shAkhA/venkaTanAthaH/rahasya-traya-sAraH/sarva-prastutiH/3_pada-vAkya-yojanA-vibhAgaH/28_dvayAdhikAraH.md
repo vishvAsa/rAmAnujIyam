@@ -1958,7 +1958,7 @@ con una **comprensión** de su **significado**, etc."
 इदु “द्वयमर्थानुसन्धानेन सह सदैवं वक्ता” ऎऩ्गिऱ पासुरत्तालुम् सूचितम्। 
 </details>
 
-### पर-भक्त्यादौ
+### साक्षात्कार-भोगौ मृतौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर-भक्त्य्--आदि-मूलत्वं  
@@ -2042,33 +2042,230 @@ y el ansioso **deseo** por el **disfrute** ininterrumpido de Bhagavān
 उत्तरोत्तरयोस्स्वामिसाक्षात्-करणभोगयोः । पूर्वपूर्वक्षणेष्टत्वात्तन्मूलत्वमुदीरितम् ॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरीर-पात-काले तु  
+**हार्दस्यानुग्रहस्** स्वयं ।  
+**परिपाकं** प्रपन्नानां  
++++(अन्तिम-स्मृति-रूपेण)+++ **प्रयच्छति** तथा-विधम् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शरीर-पात-काले तु  
+**हार्दस्यानुग्रहस्** स्वयं ।  
+**परिपाकं** प्रपन्नानां  
++++(अन्तिम-स्मृति-रूपेण)+++ **प्रयच्छति** तथा-विधम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+At the time of **departure** from the body,  
+the grace of the Lord who **dwells** in the heart (of the jīva)  
+**grants** to those who have **performed** prapatti  
+that spiritual ripeness  
+which would **enable** them  
+to ****have a **vision** of the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+En el momento de la **salida** del cuerpo,  
+la gracia del Señor que **habita** en el corazón (de la jīva)  
+**becas** a aquellos que han **realizado** prapatti  
+esa madurez espiritual  
+que les **permitiría**  
+**tener** una **visión** del Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शरीरपातकाले तु हार्दस्यानुग्रहस्स्वयं । परिपाकं प्रपन्नानां प्रयच्छति तथाविधम् ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्कोल-तैल-**सिक्तानां**  
+बीजानाम् अचिराद् यथा ।  
+**विपाकः** फल-पर्यन्तस्  
+तथा ऽत्रेति **निदर्शितम्** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अङ्कोल-तैल-**सिक्तानां**  
+बीजानाम् अचिराद् यथा ।  
+**विपाकः** फल-पर्यन्तस्  
+तथा ऽत्रेति **निदर्शितम्** ॥  
+</details>
+
+<details><summary>English</summary>
+
+When the seed of a plant **is soaked** in the oil of ankola (azhinjil),  
+it **produces** sprouts, leaves, flowers, fruits and the like in a few instants.  
+So also, in just a few instants,  
+the grace of the Lord **enables** the self  
+**to attain** that spiritual perfection  
+which would **make possible** parābhakti , parajñāna and paramabhakti . 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando la semilla de una planta **se remoja** en aceite de ankola (azhinjil),  
+**produce** brotes, hojas, flores, frutos y similares en unos instantes.  
+Así también, en tan sólo unos instantes,  
+la gracia del Señor **habilita** el yo  
+**para alcanzar** esa perfección espiritual  
+lo cual **haría posible** parābhakti, parajñāna y paramabhakti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अङ्कोलतैलसिक्तानां बीजानामचिराद्यथा । विपाकः फलपर्यन्तस्तथात्रेति निदर्शितम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> दुष्टेन्द्रिय-**वशाच्** चित्तं  
+नृणां यत् कल्मषैर् **वृतम्** ।  
+तद् अन्त-काले **संशुद्धिं**  
+**याति** नारायणालये ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> दुष्टेन्द्रिय-**वशाच्** चित्तं  
+नृणां यत् कल्मषैर् **वृतम्** ।  
+तद् अन्त-काले **संशुद्धिं**  
+**याति** नारायणालये ॥  
+</details>
+
+<details><summary>English</summary>
+
+> The minds of men **rendered** impure by stains **caused** by the wicked senses  
+become pure at the time of their death,  
+as a result of their **residence** in a place  
+where there **is** a temple dedicated to Nārāyaṇa. 
+</details>
+
+<details><summary>Español</summary>
+
+Las mentes de los hombres **se vuelven** impuras  
+por las manchas **causadas** por los malos sentidos  
+**se vuelven** puros en el momento de su **muerte**,  
+como **resultado** de su **residencia** en un lugar  
+donde **hay** un templo dedicado a Nārāyaṇa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दुष्टेन्द्रियवशाच्चित्तं नृणां यत्कल्मषैर्वृतम् । तदन्तकाले संशुद्धिं याति नारायणालये ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति व्रत-विशेषे यत्  
+सात्वतादिषु **शिष्यते** ।  
+तद्वद् अत्रोपपद्येत  
+गद्योक्तान्त्य-दशागमः ॥  
+</details>
+
+<details><summary>English</summary>
+
+This state of perfection or ripeness  
+which **is referred to** in the Gadya  
+**is** as **appropriate** as what is **taught**  
+in such treatises as the Sātvata  
+**concerning** the special religious **observances** (vrata) for **attaining** mokṣa -  
+for instance, (the above). 
+</details>
+
+<details><summary>Español</summary>
+
+Este estado de perfección o madurez  
+que **se menciona** en el Gadya  
+**es** tan **apropiado** como lo **enseñado**  
+en tratados como el Sātvata  
+**concerniente** a las **observancias religiosas** especiales (vrata) para **alcanzar** mokṣa -  
+por ejemplo, (lo anterior).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इति व्रतविशेषे यत् सात्वतादिषु शिष्यते । तद्वदत्रोपपद्येत गद्योक्तान्त्यदशागमः ॥  
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-शरीरपातकाले तु हार्दस्यानुग्रहस्स्वयं । परिपाकं प्रपन्नानां प्रयच्छति तथाविधम् ॥  
-अङ्कोलतैलसिक्तानां बीजानामचिराद्यथा । विपाकः फलपर्यन्तस्तथात्रेति निदर्शितं ॥  
-दुष्टेन्द्रियवशाच्चित्तं नृणां यत्कल्मषैर्वृतम् । तदन्तकाले संशुद्धिं याति नारायणालये ॥  
-इति व्रतविशेषे यत् सात्वतादिषु शिष्यते । तद्वदत्रोपपद्येत गद्योक्तान्त्यदशागमः ॥  
-अनुग्रह विशेषेण केनचित्परमात्मनः । कुरुकाधीशनाथाद्याः प्रागप्यन्वभवन् प्रभुम् ॥
+अनुग्रह विशेषेण  
+केनचित् परमात्मनः ।  
+कुरुकाधीश--नाथाद्याः  
+प्राग् अप्य् **अन्वभवन्** प्रभुम् ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनुग्रह विशेषेण  
+केनचित् परमात्मनः ।  
+कुरुकाधीश--नाथाद्याः  
+प्राग् अप्य् **अन्वभवन्** प्रभुम् ॥
+</details>
+
+<details><summary>English</summary>
+
+Such (great souls) as Nammalvar, Nāthamuni and others  
+**enjoyed** the Lord even before their **death**,  
+owing to some special grace of the Supreme Being.
+</details>
+
+<details><summary>Español</summary>
+
+(Grandes almas) como Nammalvar, Nāthamuni y otros  
+**disfrutaron** del Señor incluso antes de su **muerte**,  
+debido a alguna gracia especial del Ser Supremo.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-परभक्त्यादिमूलत्वं कैङ्कर्यस्य यदुच्यते । गद्यादिषु तदप्याहुरपवर्गदशाश्रयम् ॥  
-उत्तरोत्तरयोस्स्वामिसाक्षात्-करणभोगयोः । पूर्वपूर्वक्षणेष्टत्वात्तन्मूलत्वमुदीरितम् ॥  
-शरीरपातकाले तु हार्दस्यानुग्रहस्स्वयं । परिपाकं प्रपन्नानां प्रयच्छति तथाविधम् ॥  
-अङ्कोलतैलसिक्तानां बीजानामचिराद्यथा । विपाकः फलपर्यन्तस्तथात्रेति निदर्शितं ॥  
-दुष्टेन्द्रियवशाच्चित्तं नृणां यत्कल्मषैर्वृतम् । तदन्तकाले संशुद्धिं याति नारायणालये ॥  
-इति व्रतविशेषे यत् सात्वतादिषु शिष्यते । तद्वदत्रोपपद्येत गद्योक्तान्त्यदशागमः ॥  
 अनुग्रह विशेषेण केनचित्परमात्मनः । कुरुकाधीशनाथाद्याः प्रागप्यन्वभवन् प्रभुम् ॥
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-At the time of departure from the body, the grace of the Lord who dwells in the heart (of the jīva) grants to those who have performed prapatti that spiritual ripeness which would enable them to have a vision of the Lord. When the seed of a plant is soaked in the oil of ankola (azhinjil), it produces sprouts, leaves, flowers, fruits and the like in a few instants. So also, in just a few instants, the grace of the Lord enables the self to attain that spiritual perfection which would inake possible parābhakti , parajñāna and paramabhakti . This state of perfection or ripeness which is referred to in the Gadya is as appropriate as what is taught in such treatises as the Sātvata concerning the special religious observances (vrata) for attaining mokṣa - for instance, that the minds of men rendered impure by stains caused by the wicked senses become pure at the time of their death, as a result of their residence in a place where there is a temple dedicated to Nārāyaṇa. Such (great souls) as Nammalvar, Nāthamuni and others enjoyed the Lord even before their death, owing to some special grace of the Supreme Being.
+इत् द्वयत्तिल् अर्थत्तै नम्माऴ्वारुम् 
+</details>
 
-Nammalvar has, in the following passages and elsewhere, stated the meaning of Dvaya: - "Meditate  soon on the feet of Nārāyaṇa and His consort and acquire a new life" (here the words up to and acquire express the upāya stated in the first part of Dvaya and what follows indicates the meaning of the second part); “The man that has sought the feet of Bhagavān black as the raincloud and who has thereby attained new life" and "O Thou on whose chest abides Lakṣmī because she cannot endure separation from Thee even for an instant, etc".
+<details><summary>English</summary>
+
+Nammalvar has, in the following passages and elsewhere, stated the meaning of Dvaya: - 
+</details>
+
+<details><summary>Español</summary>
+
+Nammalvar, en los siguientes pasajes y en otros lugares,  
+**ha declarado** el significado de Dvaya:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत् द्वयत्तिलर्थत्तै नम्माऴ्वारुम् 
+</details>
+
+
+
+
+
+"Meditate  soon on the feet of Nārāyaṇa and His consort and acquire a new life" (here the words up to and acquire express the upāya stated in the first part of Dvaya and what follows indicates the meaning of the second part); “The man that has sought the feet of Bhagavān black as the raincloud and who has thereby attained new life" and "O Thou on whose chest abides Lakṣmī because she cannot endure separation from Thee even for an instant, etc".
 
 THE DETAILED INTERPRETATION OF DVAYA:
 
