@@ -3475,9 +3475,168 @@ y sobre la fuerza de los pramāṇas.
 अवऱ्ऱिल् अपेक्षितपदान्तरङ्गळ् औचित्यत्तालुम् अव्वो प्रमाणबलत्तालुम् विशेषित्तऱिय वेणुम्।
 </details>
 
+#### आश्रये
+<details><summary>English</summary>
+
+(1) & (2) Śrīyate and Srayate :- 
+</details>
+
+<details><summary>Español</summary>
+
+(1) y (2) Śrīyate y Srayate: -
+</details>
 
 
-(1) & (2) Śrīyate and Srayate :- Among them when we take the word to mean that She (Lakṣmī) is resorted to by those who desire spiritual re-birth and that she resorts to the Supreme Ruler of all in order to give them spiritual rebirth, we may take the following śloka (for authority):- "When Thy beloved Lord is displeased with a man who has committed serious offences in order, like a father, to reform him, Thou, O mother, sayest to Him, " What is this? Is there any man in the world who has no faults?" and persuadest Him by suitable devices to accept the offender by making Him forget (vismārya) his offences. Therefore art Thou our mother." As stated in this śloka, she helps to mitigate the anger of the Supreme Ruler who wields the rod of punishment for the sake of promoting the welfare of the offender. Thus she sees to it that the Lord's natural compassion becomes the cause of the man's ( spiritual) rebirth. The word Śrī, in this interpretation, would describe her greatness as a mediator (who intercedes on behalf of the jīva) owing to her excessive love which is that of a mother. The word vismārya, which means 'by making him forget' has, for its purport, as in the word avignāta (in avijnāta sahasrāmśu), which literally means (not knowing), the removal of the thought of punishing entertained by the omniscient Iśvara. The same is the meaning of the word 'fascinated in the passage, "He who is fascinated by the "charms of Lakṣmī, the lotus-born etc" The word 'mediator (purushakara) means "another intelligent being who is sought as a means or upāya for securing the favour of an intelligent being who can satisfy the wants of one". This mediator or purushakāra' is the mediate (as distinguished from the direct) cause for the attainment of the (desired) fruit.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्व्-इडत्तिल् "स्वोज्जीवनार्थिगळाले आश्रयिक्कप् पडुम्" +++("श्रीयतय् इति श्रीः")+++ ऎऩ्ऱुम्  
+</details>
+
+<details><summary>English</summary>
+
+Among them  
+when **we take** the word to **mean** that  
+She (Lakṣmī) **is resorted to** by those who **desire** spiritual **re-birth** 
+
+</details>
+
+<details><summary>Español</summary>
+
+Entre ellos  
+cuando **consideramos** la palabra para **significar** que  
+Ella (Lakṣmī) **a ella recurren** aquellos que **desean** un **renacimiento** espiritual.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अव्विडत्तिल् स्वोज्जीवनार्थिकळाले आश्रयिक्कप्पडुमॆऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवर्गळैय् उज्जीविप्पिक्कैक्क् आग  
+सर्वेश्वरऩैय् आश्रयित्त् इरुक्कुम् 
+
++++("श्रयतय् इति श्रीः")+++  ऎऩ्ऱुम् पॊरुळ् आऩ बोदु
+</details>
+
+<details><summary>English</summary>
+
+and that she **resorts** to the Supreme Ruler of all  
+in order to **give** them spiritual **rebirth**, 
+</details>
+
+<details><summary>Español</summary>
+
+y que ella **recurre** al Gobernante Supremo de todos  
+para **darles** **renacimiento** espiritual,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळैयुज्जीविप्पिक्कैक्काग सर्वेश्वरऩै याश्रयित्तिरुक्कुमॆऩ्ऱुम् पॊरुळाऩबोदु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पितेव त्वत्-प्रेयाञ् जननि परिपूर्णागसि जने  
+हित-स्रोतो-**वृत्त्या भवति** च कदाचित् कलुष-धीः ।  
+"+++(कालुश्यं)+++ किम् एतन्? निर्दोषः क इह जगती"ति त्वम् उचितैर्  
+उपायैर् **विस्मार्य स्वजनयसि** - माता तद् **असि** नः ॥ ५२ ॥  
+( श्रीगुणरत्न-कोशः ५२) 
+
+ऎऩ्गिऱ बडिये
+</details>
+
+<details><summary>English</summary>
+
+we may take the following śloka (for authority):- 
+
+> "When Thy **beloved** Lord **is displeased** with a man  
+who **has committed** serious offences  
+in order, like a father, to **reform** him,  
+Thou, O mother, **sayest** to Him,  
+>
+> > " What **is** this?  
+**Is there** any man in the world  
+who **has no** faults?"  
+>
+> and **persuadest** Him by suitable devices  
+to **accept** the offender  
+by **making Him forget** (vismārya) his **offences**.  
+Therefore **art** Thou our mother." 
+
+</details>
+
+<details><summary>Español</summary>
+
+Podemos **tomar** el **siguiente** śloka (como **autoridad**): - 
+
+> "Cuando Tu **amado** Señor **está disgustado** con un hombre  
+que **ha cometido** delitos graves  
+para, como un padre, **reformarlo**,  
+Tú, oh madre, **le dices**:  
+>
+> > " ¿Qué **es** esto?  
+**¿Hay** algún hombre en el mundo  
+Quién **no tiene** defectos?"  
+>
+> y **persuadirlo mediante** dispositivos adecuados  
+**aceptar** al delincuente  
+**haciéndole olvidar** (vismārya) sus **ofensas**.  
+Por eso **eres** Tú nuestra madre."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“पितेव त्वत्प्रेयान् जननि परिपूर्णागसि जने हितस्रोतो वृत्त्या भवति चकदाचित्कलुषधीः । किमेतन्निर्दोषः क इह जगतीति त्वमुचितैरुपायैर्विस्मार्य स्वजनयसि माता तदसि नः”( श्रीगुणरत्न-कोशः ५२) ऎऩ्गिऱबडिये
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सापराधर् आऩवर्गळ् पक्कल् स्वयं हितैषिय् आय् 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सापराधराऩवर्गळ् पक्कल् स्वयं हितैषियाय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दण्ड-धरऩ् आऩ सर्वेश्वरऩ्-उडैय सीऱ्ऱत्तैय्+++(=क्रोधम्)+++ आऱ्ऱि 
+</details>
+
+<details><summary>English</summary>
+
+As **stated** in this śloka,  
+she **helps to mitigate** the anger of the Supreme Ruler  
+who **wields** the rod of **punishment**  
+for the sake of **promoting** the welfare of the **offender**. 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se dice** en este śloka,  
+ella **ayuda a mitigar** la ira del Gobernante Supremo  
+quien **empuña** la vara del **castigo**  
+con el fin de **promover** el bienestar del **infractor**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दण्डधरऩाऩ सर्वेश्वरऩुडैय सीऱ्ऱत्तैयाऱ्ऱि 
+</details>
+
+
+
+Thus she sees to it that the Lord's natural compassion becomes the cause of the man's ( spiritual) rebirth. The word Śrī, in this interpretation, would describe her greatness as a mediator (who intercedes on behalf of the jīva) owing to her excessive love which is that of a mother. The word vismārya, which means 'by making him forget' has, for its purport, as in the word avignāta (in avijnāta sahasrāmśu), which literally means (not knowing), the removal of the thought of punishing entertained by the omniscient Iśvara. The same is the meaning of the word 'fascinated in the passage, "He who is fascinated by the "charms of Lakṣmī, the lotus-born etc" The word 'mediator (purushakara) means "another intelligent being who is sought as a means or upāya for securing the favour of an intelligent being who can satisfy the wants of one". This mediator or purushakāra' is the mediate (as distinguished from the direct) cause for the attainment of the (desired) fruit.
 
 We have already pointed out in Nikṣeparakṣa, as an authority, that by (her) very nature, by the practice (of the wise), by what we see in worldly affairs and by the words of gurus, and so also by the śruti and smṛti, dependence on an interceding) mediator is established (as a rule to be followed). "By Her very nature" means "By her nature in which there is no admixture of the anger arising from mental strength characteristic of a father and in which love (as for a child) resulting from a motherly feelings becomes over-whelming." It is her nature (always) to say: "There is no one who does not commit an offence"; "Who will get angry, best of monkeys, with these Rākṣasis who are under the authority of a king and being servants, render service to him?" "I cannot endure (to see) the sufferings of these servants of Ravana and therefore I pardon their offences". Her being the Lord's favourite is also such that, if she should intercede (on our behalf), the Lord cannot refuse. Since her very nature is such, it cannot be said that, to secure her help, the intercession of some one else will be needed and so on ad infinitum. As (an instance of) the practice of the wise, it is well-known from the Purāṇas, that, when Brahma and others were afraid to approach the Lord on seeing His wrath against His enemy, Hiranya, which arose owing to His intense love for Prahlāda, they approached the Supreme Ruler, who was then in the form of Nrisimha, with Lakṣmī as their leader (mediator) and praised Him. (Instances) may be seen also in such contexts as the following:- " The renowned" Lakṣmaṇa thus spoke to Sītā and the noble-minded Rāma." "Lakṣmaṇa, the descendent of Raghu, seized the two feet of his brother, Śrī Rāma, and said these words, in the presence of Sītā." In worldly affairs, too, this may be seen in kings pardoning the servants of the zenana as a result of even slight propitiation though their offences are great. This idea is also the purport of the śloka:-"O Mother Lakṣmī ! We who find our sole delight in rendering service to Thee and have only that as our aim, approach the Lord, look at Him and delight in serving Him, here and elsewhere, with the idea that He is Thy Spouse, in the same way as the people of Mithila looked upon Śrī Rāma as the bridegroom and the beloved husband of Sītā". The words of gurus are such passages as that of Nammalvar who says :-"O Thou on whose chest abides Lakṣmī, who says she cannot endure separation from Thee even for an instant". Texts may also be seen in support of this in the śrutis which are in the form of Śrī Sūktas. The Smṛtis based on these are the words of Śaunaka and others -such as the following :- "The man who begs for the attainment of Bhagavān, who is the purport of all words, should, of necessity, seek the protection also of Lakṣmī. It is not enough to perform prapatti to the Lord alone". Since it is evident from many pramāṇas that Lakṣmī plays the role of a mediator interceding at the feet of the Lord, it is but proper to understand it (in this way) in this context. Thus she is resorted to as a mediator and as the attribute of Siddhopāya.
 
