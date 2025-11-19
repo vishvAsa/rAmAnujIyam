@@ -3342,7 +3342,7 @@ cuando Nārāyaṇa **se convierta** en el **Redentor**,
 ज्ञातव्यो भगवान् हरिः॥”  
 ( अरुळ्-आळप् पॆरुमाळ् ऎम्-पॆरुमाऩार्) 
 
-ऎऩ्ऱ् अरुळ्-आळप्-पॆरुमाळॆम् पॆरुमाऩार् अरुळिच् चॆय्दार्। 
+ऎऩ्ऱ् अरुळ्-आळप्-पॆरुमाळॆम् पॆरुमाऩार् +++(=वरुदरामानुजो वैष्णवीभूतो यज्ञमूर्त्य्-आख्यः)+++ अरुळिच् चॆय्दार्। 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -3353,7 +3353,7 @@ cuando Nārāyaṇa **se convierta** en el **Redentor**,
 ज्ञातव्यो भगवान् हरिः॥”  
 ( अरुळ्-आळप् पॆरुमाळ् ऎम्-पॆरुमाऩार्) 
 
-इति वरद-रामानुजः (अरुळ्-आळप् पॆरुमाळ् ऎम्-पॆरुमाऩार्) (यज्ञमूर्तिः) अनुजग्राह । 
+इति +++(वैष्णवीभूते)+++ वरद-रामानुजः (अरुळ्-आळप्-पॆरुमाळ् ऎम्-पॆरुमाऩार्) (+++(अवैष्णवावस्थायां)+++ यज्ञ-मूर्तिः) अनुजग्राह । 
 </details>
 
 <details><summary>विषयः</summary>
@@ -3413,7 +3413,6 @@ el atributo, 'Lakṣmī', **tiene** (primero) **que ser comprendido**."
 इत्य् एतम् अर्थं च 
  सिद्धोपाय-शोधनाधिकारो ऽवोचाम ॥
 </details>
-
 
 <details><summary>English</summary>
 
@@ -3552,6 +3551,15 @@ y sobre la fuerza de los pramāṇas.
 अव्व्-इडत्तिल् "स्वोज्जीवनार्थिगळाले आश्रयिक्कप् पडुम्" +++("श्रीयतय् इति श्रीः")+++ ऎऩ्ऱुम्  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(1) तत्र 
+
+> स्वोज्जीवनार्थिभिर् आश्रीयते 
+
++++("श्रीयतय् इति श्रीः")+++ इति, 
+
+</details>
 
 
 <details><summary>English</summary>
@@ -3583,6 +3591,14 @@ Ella (Lakṣmī) **a ella recurren** aquellos que **desean** un **renacimiento**
 +++("श्रयतय् इति श्रीः")+++  ऎऩ्ऱुम् पॊरुळ् आऩ बोदु
 </details>
 
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एषाम् उज्जीवनार्थं सर्वेश्वरम् आश्रयते 
+
+इति +++("श्रयतय् इति श्रीः")+++ चार्थे सति — 
+</details>
+
 <details><summary>English</summary>
 
 and that she **resorts** to the Supreme Ruler of all  
@@ -3612,6 +3628,18 @@ para **darles** **renacimiento** espiritual,
 
 ऎऩ्गिऱ बडिये
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> पितेव त्वत्-प्रेयाञ् जननि परिपूर्णागसि जने  
+हित-स्रोतो-**वृत्त्या भवति** च कदाचित् कलुष-धीः ।  
+"+++(कालुश्यं)+++ किम् एतन्? निर्दोषः क इह जगती"ति त्वम् उचितैर्  
+उपायैर् **विस्मार्य स्वजनयसि** - माता तद् **असि** नः ॥ ५२ ॥  
+( श्रीगुणरत्न-कोशः ५२) 
+
+इत्य्-उक्त-रीत्या 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3664,6 +3692,25 @@ Por eso **eres** Tú nuestra madre."
 सापराधर् आऩवर्गळ् पक्कल् स्वयं हितैषिय् आय् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सापराधेषु स्वयं हितैषितया 
+</details>
+
+<details><summary>English</summary>
+
+As **stated** in this śloka,  
+for the sake of **promoting** the welfare of the **offender**
+
+</details>
+
+<details><summary>Español</summary>
+
+Como **se dice** en este śloka,  
+con el fin de **promover** el bienestar del **infractor**
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 सापराधराऩवर्गळ् पक्कल् स्वयं हितैषियाय् 
@@ -3674,20 +3721,24 @@ Por eso **eres** Tú nuestra madre."
 दण्ड-धरऩ् आऩ सर्वेश्वरऩ्-उडैय सीऱ्ऱत्तैय्+++(=क्रोधम्)+++ आऱ्ऱि 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+दण्ड-धरस्य सर्वेश्वरस्य क्रोधं प्रशमय्य, 
+</details>
+
+
 <details><summary>English</summary>
 
-As **stated** in this śloka,  
 she **helps to mitigate** the anger of the Supreme Ruler  
 who **wields** the rod of **punishment**  
-for the sake of **promoting** the welfare of the **offender**. 
+. 
 </details>
 
 <details><summary>Español</summary>
 
-Como **se dice** en este śloka,  
 ella **ayuda a mitigar** la ira del Gobernante Supremo  
 quien **empuña** la vara del **castigo**  
-con el fin de **promover** el bienestar del **infractor**.
+.
 </details>
 
 
@@ -3701,6 +3752,13 @@ con el fin de **promover** el bienestar del **infractor**.
 अवऩ्-उडैय सहज-कारुण्यम्  
 इवर्गळुक्क् उज्जीवकम् आम् बडि पण्णिक् कॊडुक्कैयाल्  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तदीयं सहज-कारुण्यम् एषाम् उज्जीवकं यथा स्यात्  
+तथा ऽऽपादनेन 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3727,6 +3785,12 @@ La compasión natural del Señor **se convierte** en la causa del **renacimiento
 पुरुषकार-भूतैय् आय् निऱ्किऱव् एऱ्ऱञ् जॊल्लिऱ्ऱ् आम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+मातृत्व-प्रयुक्त-वात्सल्यातिशयात् पुरुषकार-भूततया ऽवस्थिति-रूपो ऽतिशयः प्रतिपादितो भवति ॥ 
+</details>
+
+
 <details><summary>English</summary>
 
 The word Śrī, in this interpretation,  
@@ -3748,20 +3812,28 @@ que **es** el de una madre.
 मातृत्वप्रयुक्त वात्सल्यातिशयत्ताले पुरुषकारभूतैयाय् निऱ्किऱ वेऱ्ऱञ् जॊल्लिऱ्ऱाम्।
 </details>
 
+##### विस्मारणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “अविज्ञाते”त्यादिगळिऱ् पोले  
 इङ्गु “विस्मार्य” ऎऩ्ऱदुक्कुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"अविज्ञाता" इत्यादिष्व् इवात्र,  
+'विस्मार्य' इत्यस्य, 
+</details>
+
+
 <details><summary>English</summary>
 
-The word "vismārya", which **means** 'by making him forget' **has**, for its purport, as in the word avignāta (in avijnāta sahasrāmśu), which literally means not knowing, 
+The word "vismārya", which **means** 'by making him forget', as in the word avignāta (in avijnāta sahasrāmśu), which literally means not knowing, 
 </details>
 
 <details><summary>Español</summary>
 
-La palabra "vismārya", que **significa** '**haciéndo le olvidar**' **tiene**, por su significado, como en la palabra avignāta (en avijnāta sahasrāmśu), que literalmente **significa no saber**,
+La palabra "vismārya", que **significa** '**haciéndo le olvidar**' como en la palabra avignāta (en avijnāta sahasrāmśu), que literalmente **significa no saber**,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3771,10 +3843,19 @@ La palabra "vismārya", que **significa** '**haciéndo le olvidar**' **tiene**, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“अल्लि-मलर्-मगळ् पोगमयक्कुगळ्”( तिरुवाय्मॊऴि ३-१०-८) 
+> “अल्लि+++(=कमल)+++-मलर्-मगळ्-भोग-मयक्कुगळ् +++(=व्यामोहाः)+++”  
+( तिरुवाय्मॊऴि ३-१०-८) 
 
 इत्य्-आदिगळुक्कुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "पङ्कज-कुसुमाङ्गना-भोग-व्यामोहाः" 
+
+इत्यादीनां च 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3794,11 +3875,234 @@ por los **encantos** de Lakṣmī, la **nacida** del loto, etc."
 “अल्लिमलर्मगळ् पोगमयक्कुगळ्”( तिरुवाय्मॊऴि ३-१०-८) इत्यादिगळुक्कुम्
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सदा सर्वज्ञऩ् आऩ ईश्वरऩ्-उडैय निग्रहाभिसन्धि-निवृत्तियिले तात्पर्यम्।
+</details>
+
+<details><summary>English</summary>
+
+**has**, for its purport  
+the **removal** of the **thought** of **punishing** entertained by the omniscient Iśvara.  
+</details>
+
+<details><summary>Español</summary>
+
+**tiene**, por su significado  
+la **eliminación** del **pensamiento** de **castigar** albergado por el omnisciente Iśvara.
+</details>
 
 
-the removal of the thought of punishing entertained by the omniscient Iśvara.  The word 'mediator (purushakara) means "another intelligent being who is sought as a means or upāya for securing the favour of an intelligent being who can satisfy the wants of one". This mediator or purushakāra' is the mediate (as distinguished from the direct) cause for the attainment of the (desired) fruit.
+<details><summary>मूलम्</summary>
 
-We have already pointed out in Nikṣeparakṣa, as an authority, that by (her) very nature, by the practice (of the wise), by what we see in worldly affairs and by the words of gurus, and so also by the śruti and smṛti, dependence on an interceding) mediator is established (as a rule to be followed). "By Her very nature" means "By her nature in which there is no admixture of the anger arising from mental strength characteristic of a father and in which love (as for a child) resulting from a motherly feelings becomes over-whelming." It is her nature (always) to say: "There is no one who does not commit an offence"; "Who will get angry, best of monkeys, with these Rākṣasis who are under the authority of a king and being servants, render service to him?" "I cannot endure (to see) the sufferings of these servants of Ravana and therefore I pardon their offences". Her being the Lord's favourite is also such that, if she should intercede (on our behalf), the Lord cannot refuse. Since her very nature is such, it cannot be said that, to secure her help, the intercession of some one else will be needed and so on ad infinitum. As (an instance of) the practice of the wise, it is well-known from the Purāṇas, that, when Brahma and others were afraid to approach the Lord on seeing His wrath against His enemy, Hiranya, which arose owing to His intense love for Prahlāda, they approached the Supreme Ruler, who was then in the form of Nrisimha, with Lakṣmī as their leader (mediator) and praised Him. (Instances) may be seen also in such contexts as the following:- " The renowned" Lakṣmaṇa thus spoke to Sītā and the noble-minded Rāma." "Lakṣmaṇa, the descendent of Raghu, seized the two feet of his brother, Śrī Rāma, and said these words, in the presence of Sītā." In worldly affairs, too, this may be seen in kings pardoning the servants of the zenana as a result of even slight propitiation though their offences are great. This idea is also the purport of the śloka:-"O Mother Lakṣmī ! We who find our sole delight in rendering service to Thee and have only that as our aim, approach the Lord, look at Him and delight in serving Him, here and elsewhere, with the idea that He is Thy Spouse, in the same way as the people of Mithila looked upon Śrī Rāma as the bridegroom and the beloved husband of Sītā". The words of gurus are such passages as that of Nammalvar who says :-"O Thou on whose chest abides Lakṣmī, who says she cannot endure separation from Thee even for an instant". Texts may also be seen in support of this in the śrutis which are in the form of Śrī Sūktas. The Smṛtis based on these are the words of Śaunaka and others -such as the following :- "The man who begs for the attainment of Bhagavān, who is the purport of all words, should, of necessity, seek the protection also of Lakṣmī. It is not enough to perform prapatti to the Lord alone". Since it is evident from many pramāṇas that Lakṣmī plays the role of a mediator interceding at the feet of the Lord, it is but proper to understand it (in this way) in this context. Thus she is resorted to as a mediator and as the attribute of Siddhopāya.
+सदा सर्वज्ञऩाऩ ईश्वरऩुडैय निग्रहाभिसन्धिनिवृत्तियिले तात्पर्यम्।
+</details>
+
+##### पुरुषकारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सापेक्षऩ् आऩ पुरुषऩुक्क्  
+अपेक्षितं तलैक्-कट्टिक् कॊडुक्क वल्ल  
+चेतनऩ् अभिगम्यऩ् आगैक्क्  
+उपायम् आग वरिक्कप् पट्ट चेतनान्तरत्तै  
+"पुरुष-कारम्" ऎऩ्ऱु व्यवहरिप्पार्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+The word 'mediator (purushakara) **means** 
+
+> "Another intelligent being who **is sought** as a means or upāya  
+**for securing** the favour of an intelligent being  
+who **can satisfy** the wants of one". 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra 'mediador (purushakara) **significa** 
+
+> "Otro ser inteligente que **se busca** como medio o upāya  
+**por asegurar** el favor de un ser inteligente  
+que **puede satisfacer** los deseos de uno".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सापेक्षऩाऩ पुरुषऩुक्कपेक्षितन्दलैक्कट्टिक्कॊडुक्कवल्ल चेतनऩ् अभिगम्यऩागैक्कुपायमाग वरिक्कप्पट्ट चेतनान्तरत्तै पुरुषकारमॆऩ्ऱु व्यवहरिप्पार्गळ्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् पुरुष-कारम्  
+फलत्तुक्कु परं-परया कारणम्। 
+</details>
+<details><summary>English</summary>
+
+This mediator or 'purushakāra' **is** the mediate (as distinguished from the direct) cause  
+for the **attainment** of the (desired) fruit.
+</details>
+
+<details><summary>Español</summary>
+
+Este mediador o 'purushakāra' **es** la causa mediata (a diferencia de la directa)  
+para **alcanzar** el fruto (deseado).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप् पुरुषकारम् फलत्तुक्कु परंपरया कारणम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अर्थ-स्वभाव-+अनुष्ठान-  
+लोक-दृष्टि--गुरूक्तिभिः ।  
+श्रुत्या स्मृत्या च संसिद्धं  
+घटकार्थावलम्बनम्” 
+
+ऎऩ्ऱिप् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अर्थ-स्वभाव-+अनुष्ठान-  
+लोक-दृष्टि--गुरूक्तिभिः ।  
+श्रुत्या स्मृत्या च संसिद्धं  
+घटकार्थावलम्बनम्” 
+
+</details>
+
+<details><summary>English</summary>
+
+That 
+
+> by (her) very nature,  
+by the practice (of the wise),  
+by what we see in worldly affairs  
+and by the words of gurus,  
+and so also by the śruti and smṛti,  
+dependence on an interceding mediator  
+**is established** (as a rule to be followed). 
+</details>
+
+<details><summary>Español</summary>
+
+eso 
+
+> por (su) propia naturaleza,  
+por la **práctica** (de los sabios),  
+por lo que **vemos** en los asuntos mundanos  
+y por las palabras de los gurús,  
+y así también por el śruti y el smṛti,  
+**dependencia** de un mediador intercesor  
+**está establecido** (como regla a seguir).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अर्थस्वभावानुष्ठानलोकदृष्टिगुरूक्तिभिः । श्रुत्या स्मृत्या च संसिद्धं घटकार्थावलम्बनं” ऎऩ्ऱिप् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुषकारभावत्तुक्कु प्रमाणम् निक्षेपरक्षैयिले सॊऩ्ऩोम्।
+</details>
+
+
+<details><summary>English</summary>
+
+as an authority (for mediation), we have already pointed out in Nikṣeparakṣa.
+</details>
+
+<details><summary>Español</summary>
+
+como autoridad (para mediación), ya lo **hemos señalado** en Nikṣeparakṣa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुरुषकारभावत्तुक्कु प्रमाणम् निक्षेपरक्षैयिले सॊऩ्ऩोम्।
+</details>
+
+
+###### अर्थ-स्वभावः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱिल् अर्थ-स्वभावम् आवदु; 
+</details>
+
+<details><summary>English</summary>
+
+"By Her very nature" means 
+</details>
+
+<details><summary>Español</summary>
+
+"Por Su propia naturaleza" significa
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिल् अर्थस्वभावमावदु; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वरऩैप् पोले पितृत्वानुरूपम् आऩ प्रतापोष्मलत्वङ् कलसादे
+</details>
+
+<details><summary>English</summary>
+
+By her nature in which **there is** no **admixture** of the anger  
+**arising** from mental strength  
+characteristic of a father 
+</details>
+
+<details><summary>Español</summary>
+
+Por su naturaleza en la que **no hay** ninguna **mezcla** de ira  
+**surgiendo** de la fuerza mental  
+característica de un padre
+</details>
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩैप्पोले पितृत्वानुरूपमाऩ प्रतापोष्मलत्वङ्गलसादे
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मातृत्व-प्रयुक्तङ्गळ् आऩ वात्सल्यादिगळ् अतिशयित्तु 
+</details>
+
+<details><summary>English</summary>
+
+and in which love (as for a child) **resulting** from a motherly feelings **becomes** over-whelming.
+</details>
+
+<details><summary>Español</summary>
+
+y en el que el amor (como el de un niño) **resultante** de un sentimiento maternal se **vuelve** abrumador."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मातृत्वप्रयुक्तङ्गळाऩ वात्सल्यादिगळतिशयित्तु 
+</details>
+
+
+
+
+It is her nature (always) to say: "There is no one who does not commit an offence"; "Who will get angry, best of monkeys, with these Rākṣasis who are under the authority of a king and being servants, render service to him?" "I cannot endure (to see) the sufferings of these servants of Ravana and therefore I pardon their offences". Her being the Lord's favourite is also such that, if she should intercede (on our behalf), the Lord cannot refuse. Since her very nature is such, it cannot be said that, to secure her help, the intercession of some one else will be needed and so on ad infinitum. As (an instance of) the practice of the wise, it is well-known from the Purāṇas, that, when Brahma and others were afraid to approach the Lord on seeing His wrath against His enemy, Hiranya, which arose owing to His intense love for Prahlāda, they approached the Supreme Ruler, who was then in the form of Nrisimha, with Lakṣmī as their leader (mediator) and praised Him. (Instances) may be seen also in such contexts as the following:- " The renowned" Lakṣmaṇa thus spoke to Sītā and the noble-minded Rāma." "Lakṣmaṇa, the descendent of Raghu, seized the two feet of his brother, Śrī Rāma, and said these words, in the presence of Sītā." In worldly affairs, too, this may be seen in kings pardoning the servants of the zenana as a result of even slight propitiation though their offences are great. This idea is also the purport of the śloka:-"O Mother Lakṣmī ! We who find our sole delight in rendering service to Thee and have only that as our aim, approach the Lord, look at Him and delight in serving Him, here and elsewhere, with the idea that He is Thy Spouse, in the same way as the people of Mithila looked upon Śrī Rāma as the bridegroom and the beloved husband of Sītā". The words of gurus are such passages as that of Nammalvar who says :-"O Thou on whose chest abides Lakṣmī, who says she cannot endure separation from Thee even for an instant". Texts may also be seen in support of this in the śrutis which are in the form of Śrī Sūktas. The Smṛtis based on these are the words of Śaunaka and others -such as the following :- "The man who begs for the attainment of Bhagavān, who is the purport of all words, should, of necessity, seek the protection also of Lakṣmī. It is not enough to perform prapatti to the Lord alone". Since it is evident from many pramāṇas that Lakṣmī plays the role of a mediator interceding at the feet of the Lord, it is but proper to understand it (in this way) in this context. Thus she is resorted to as a mediator and as the attribute of Siddhopāya.
 
 As stated in the following ślokas ;- "O Lakṣmī,  with a countenance as delightful as the moon! When we consider Bhagavān and Thee separately, (we see) that the essential nature (svarūpa) of Bhagavān and His being the Supreme Ruler over all are the outcome of the superiority resulting from His being associated with Thee. Therefore Thou art that aspect of His which declares Thy Lord as being such and such." "Thou art, O Lakṣmī, the property of Bhagavān solely by Thine own will. Though His greatness (and superiority) result from Thee, they are not dependent on any one else for the reason given above. A gem is precious because of its radiance; still it should not be considered as having no worth (in itself). Its natural value does not diminish and is not dependent on anything else ",-(as stated in these ślokas) she is attached to Bhagavān (the Siddhopāya) like rays to the sun and the like, contributing to His splendour.
 
