@@ -1685,6 +1685,42 @@ whereas you protected the Rākṣasis while they were in the very act of offendi
 उपायैर् **विस्मार्य स्वजनयसि** - माता तद् **असि** नः ॥ ५२ ॥
 </details>
 
+<details><summary>English</summary>
+
+"When Thy **beloved** Lord **is displeased** with a man  
+who **has committed** serious offences  
+in order, like a father, to **reform** him,  
+Thou, O mother, **sayest** to Him,
+
+
+> " What **is** this?  
+**Is there** any man in the world  
+who **has no** faults?"
+
+and **persuadest** Him by suitable devices  
+to **accept** the offender  
+by **making Him forget** (vismārya) his **offences**.  
+Therefore **art** Thou our mother."
+
+</details>
+
+<details><summary>Español</summary>
+
+"Cuando Tu **amado** Señor **está disgustado** con un hombre  
+que **ha cometido** delitos graves  
+para, como un padre, **reformarlo**,  
+Tú, oh madre, **le dices**:
+
+> " ¿Qué **es** esto?  
+**¿Hay** algún hombre en el mundo  
+Quién **no tiene** defectos?"
+
+y **persuadirlo mediante** dispositivos adecuados  
+**aceptar** al delincuente  
+**haciéndole olvidar** (vismārya) sus **ofensas**.  
+Por eso **eres** Tú nuestra madre."
+</details>
+
 <details><summary>मूलम्</summary>
 
 पितेव त्वत्प्रेयाञ्जननि परिपूर्णागसि जने  

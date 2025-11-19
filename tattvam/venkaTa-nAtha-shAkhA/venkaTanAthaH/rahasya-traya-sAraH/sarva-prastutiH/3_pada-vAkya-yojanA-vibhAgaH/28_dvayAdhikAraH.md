@@ -3634,6 +3634,17 @@ con el fin de **promover** el bienestar del **infractor**.
 दण्डधरऩाऩ सर्वेश्वरऩुडैय सीऱ्ऱत्तैयाऱ्ऱि 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎवऩ्-उडैय सहज-कारुण्यम् इवर्गळुक्क् उज्जीवकम् आम् बडि पण्णिक् कॊडुक्कैयाल्  
+मातृत्वप्रयुक्त वात्सल्यातिशयत्ताले पुरुषकारभूतैयाय् निऱ्किऱ वेऱ्ऱञ् जॊल्लिऱ्ऱाम्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎवऩुडैय सहजकारुण्यमिवर्गळुक्कुज्जीवगमाम्बडि पण्णिक्कॊडुक्कैयाल् मातृत्वप्रयुक्त वात्सल्यातिशयत्ताले पुरुषकारभूतैयाय् निऱ्किऱ वेऱ्ऱञ् जॊल्लिऱ्ऱाम्।
+</details>
+
 
 
 Thus she sees to it that the Lord's natural compassion becomes the cause of the man's ( spiritual) rebirth. The word Śrī, in this interpretation, would describe her greatness as a mediator (who intercedes on behalf of the jīva) owing to her excessive love which is that of a mother. The word vismārya, which means 'by making him forget' has, for its purport, as in the word avignāta (in avijnāta sahasrāmśu), which literally means (not knowing), the removal of the thought of punishing entertained by the omniscient Iśvara. The same is the meaning of the word 'fascinated in the passage, "He who is fascinated by the "charms of Lakṣmī, the lotus-born etc" The word 'mediator (purushakara) means "another intelligent being who is sought as a means or upāya for securing the favour of an intelligent being who can satisfy the wants of one". This mediator or purushakāra' is the mediate (as distinguished from the direct) cause for the attainment of the (desired) fruit.
