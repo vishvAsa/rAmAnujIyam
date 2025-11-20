@@ -4101,27 +4101,135 @@ y en el que el amor (como el de un niño) **resultante** de un sentimiento mater
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“न कश्चिन् नापराध्यति” (रामायणम् युद्ध-काण्डम् ११६-४४),
+> “न कश्चिन् नापराध्यति”  
+(रामायणम् युद्ध-काण्डम् ११६-४४),
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “न कश्चिन् नापराध्यति”  
+(रामायणम् युद्ध-काण्डम् ११६-४४),
+</details>
+
+
+
+<details><summary>English</summary>
+
+> "There **is no one** who **does not commit** an **offence**"; 
+</details>
+
+<details><summary>Español</summary>
+
+> "**No hay** nadie que **no cometa** un **delito**";
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 “न कश्चिन्नापराध्यति” (रामायणम् युद्ध-काण्डम् ११६-४४),
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> “कः कुप्येद् वानरोत्तम”   
+(रामायणम् युद्ध-काण्डम् ११६-३८),
+</details>
 
+<details><summary>नीलमेघः (सं)</summary>
 
-It is her nature (always) to say: 
+> “कः कुप्येद् वानरोत्तम”   
+(रामायणम् युद्ध-काण्डम् ११६-३८),
 
-> "There **is no one** who **does not commit** an **offence**"; 
+</details>
+
+<details><summary>English</summary>
 
 > "Who will **get angry**, best of monkeys, with these Rākṣasis  
 who **are** under the authority of a king  
 and **being servants**, **render service** to him?" 
 
+</details>
+
+<details><summary>Español</summary>
+
+> "¿Quién **se enfadará**, el mejor de los monos, con estos Rākṣasis?  
+que **están** bajo la autoridad de un rey  
+y **siendo siervos**, **prestarle servicio**?"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“कः कुप्येद्वानरोत्तम” (रामायणम् युद्ध-काण्डम् ११६-३८),
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “मर्षयामीह दुर्बला”  
+(रामायणम् युद्ध-काण्डम् ११६-५०) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “मर्षयामीह दुर्बला”  
+(रामायणम् युद्ध-काण्डम् ११६-५०) 
+</details>
+
+<details><summary>English</summary>
+
 > "I **cannot endure** (**to see**) the **sufferings** of these **servants** of Ravana  
 and therefore I **pardon** their offences". 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Yo **no puedo soportar** (**ver**) los **sufrimientos** de estos **sirvientes** de Ravana  
+y por eso **perdono** sus ofensas".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“मर्षयामीह दुर्बला” (रामायणम् युद्ध-काण्डम् ११६-५०) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गैये स्वभावम् आय् इरुक्कैयुम्,
+</details>
+
+<details><summary>English</summary>
+
+It is her nature (always) to say (the above). 
+</details>
+
+<details><summary>Español</summary>
+
+Es su naturaleza (siempre) **decir** (lo anterior).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गैये स्वभावमायिरुक्कैयुम्,
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाल्लभ्यातिशयत्ताले  
+इवळै मुऩ्ऩ् इट्टाल्  
+अवऩ् मऱुक्क माट्टाद् ऒऴिगैयुम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+वाल्लभ्यातिशयत्ताले इवळै मुऩ्ऩिट्टालवऩ् मऱुक्क माट्टादॊऴिगैयुम्। 
+</details>
+
 
 Her being the Lord's favourite is also such that, if she should intercede (on our behalf), the Lord cannot refuse. Since her very nature is such, it cannot be said that, to secure her help, the intercession of some one else will be needed and so on ad infinitum. As (an instance of) the practice of the wise, it is well-known from the Purāṇas, that, when Brahma and others were afraid to approach the Lord on seeing His wrath against His enemy, Hiranya, which arose owing to His intense love for Prahlāda, they approached the Supreme Ruler, who was then in the form of Nrisimha, with Lakṣmī as their leader (mediator) and praised Him. (Instances) may be seen also in such contexts as the following:- " The renowned" Lakṣmaṇa thus spoke to Sītā and the noble-minded Rāma." "Lakṣmaṇa, the descendent of Raghu, seized the two feet of his brother, Śrī Rāma, and said these words, in the presence of Sītā." In worldly affairs, too, this may be seen in kings pardoning the servants of the zenana as a result of even slight propitiation though their offences are great. This idea is also the purport of the śloka:-"O Mother Lakṣmī ! We who find our sole delight in rendering service to Thee and have only that as our aim, approach the Lord, look at Him and delight in serving Him, here and elsewhere, with the idea that He is Thy Spouse, in the same way as the people of Mithila looked upon Śrī Rāma as the bridegroom and the beloved husband of Sītā". The words of gurus are such passages as that of Nammalvar who says :-"O Thou on whose chest abides Lakṣmī, who says she cannot endure separation from Thee even for an instant". Texts may also be seen in support of this in the śrutis which are in the form of Śrī Sūktas. The Smṛtis based on these are the words of Śaunaka and others -such as the following :- "The man who begs for the attainment of Bhagavān, who is the purport of all words, should, of necessity, seek the protection also of Lakṣmī. It is not enough to perform prapatti to the Lord alone". Since it is evident from many pramāṇas that Lakṣmī plays the role of a mediator interceding at the feet of the Lord, it is but proper to understand it (in this way) in this context. Thus she is resorted to as a mediator and as the attribute of Siddhopāya.
 
