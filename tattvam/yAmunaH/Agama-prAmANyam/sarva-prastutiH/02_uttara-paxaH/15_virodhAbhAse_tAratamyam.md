@@ -29,12 +29,12 @@ Therefore, even if there were a conflict between the Bhagavan's doctrine and the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> नन्व् अत्र-भवतां +++(शाबर-)+++भाष्यकाराणां विरुद्धांशाप्रामाण्याभिधानं कथम् इव?  
+> नन्व् अत्र-भवतां +++(शाबर/शाङ्कर-)+++भाष्यकाराणां विरुद्धांशाप्रामाण्याभिधानं कथम् इव?  
 </details>
 
 <details><summary>Buitenen</summary>
 
-116\. OBJECTION. However, how can the venerable Author of the Bhasya239 state that those parts which are in conflict are invalid: 
+116\. OBJECTION. However, how can the venerable Author of the Bhasya 239 state that those parts which are in conflict are invalid: 
 </details>
 
 <details><summary>Buitenen - Notes</summary>
@@ -44,13 +44,18 @@ Sabarabhasya and KMS.
 
 <details><summary>नरसिंहः</summary>
 
-This reference by Yāmuna to ‘bhāṣyakāra’ has been taken by some Vaiṣṇava scholars as speaking of Dramiḍabhāṣyakāra, who is traditionally said to have commented upon the Brahmasūtra. But this may be taken as a reference to Śaṅkara himself. Rāmānuja's Śrībhāṣya also seems to support this position. Cf. Śrībhāṣya under II. ii. 42, p. 832:
+This reference by Yāmuna to ‘bhāṣyakāra’ has been taken by some Vaiṣṇava scholars as speaking of Dramiḍabhāṣyakāra, who is traditionally said to have commented upon the Brahmasūtra. But this may be taken as a reference to Śaṅkara himself. 
+
+Rāmānuja's Śrībhāṣya also seems to support this position. Cf. Śrībhāṣya under II. ii. 42, p. 832:
 
 > यत् तु परैः सूत्र-चतुष्टयं कस्यचिद् विरुद्धांशस्य प्रामाण्य-निषेध-परं व्याख्यातम्, 
 
 with the above passage : “नन्व् अत्र भवतां” etc. Also cf. Śaṅkara on the above sūtra, p. 259:
 
-> यद्यप्य् एवं-जातीयको ऽंशः समानत्वात् न विसंवाद-गोचरो भवति । अस्ति तु अंशान्तरं विसंवाद-स्थानम् इत्य् अतः तत्-प्रत्याख्यानायारम्भः 
+> यद्यप्य् एवं-जातीयको ऽंशः  
+> समानत्वान् न विसंवाद-गोचरो भवति ।  
+> अस्ति तु अंशान्तरं विसंवाद-स्थानम्  
+> इत्य् अतः तत्-प्रत्याख्यानायारम्भः 
 
 etc.
 </details>
