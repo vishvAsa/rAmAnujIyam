@@ -3880,6 +3880,12 @@ por los **encantos** de Lakṣmī, la **nacida** del loto, etc."
 सदा सर्वज्ञऩ् आऩ ईश्वरऩ्-उडैय निग्रहाभिसन्धि-निवृत्तियिले तात्पर्यम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सदा सर्वज्ञस्येश्वरस्य निग्रहाभिसन्धि-निवृत्तौ तात्पर्यम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 **has**, for its purport  
@@ -3907,6 +3913,16 @@ la **eliminación** del **pensamiento** de **castigar** albergado por el omnisci
 उपायम् आग वरिक्कप् पट्ट चेतनान्तरत्तै  
 "पुरुष-कारम्" ऎऩ्ऱु व्यवहरिप्पार्गळ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सापेक्षेण पुरुषेण  
+स्वापेक्षितार्थं साधयितुं  
+समर्थस्य चेतनस्याभिगम्यता-संपत्त्यर्थम्  
+उपायत्वेन वृतं चेतनान्तरं  
+पुरुषकार इति व्यवहरन्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3938,6 +3954,13 @@ que **puede satisfacer** los deseos de uno".
 इप् पुरुष-कारम्  
 फलत्तुक्कु परं-परया कारणम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं पुरुषकारः फलस्य परम्परया कारणम् ।
+</details>
+
+
 <details><summary>English</summary>
 
 This mediator or 'purushakāra' **is** the mediate (as distinguished from the direct) cause  
@@ -3962,8 +3985,6 @@ para **alcanzar** el fruto (deseado).
 लोक-दृष्टि--गुरूक्तिभिः ।  
 श्रुत्या स्मृत्या च संसिद्धं  
 घटकार्थावलम्बनम्” 
-
-ऎऩ्ऱिप् 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -3972,6 +3993,7 @@ para **alcanzar** el fruto (deseado).
 लोक-दृष्टि--गुरूक्तिभिः ।  
 श्रुत्या स्मृत्या च संसिद्धं  
 घटकार्थावलम्बनम्” 
+
 
 </details>
 
@@ -4004,12 +4026,16 @@ y así también por el śruti y el smṛti,
 
 <details><summary>मूलम्</summary>
 
-“अर्थस्वभावानुष्ठानलोकदृष्टिगुरूक्तिभिः । श्रुत्या स्मृत्या च संसिद्धं घटकार्थावलम्बनं” ऎऩ्ऱिप् 
-</details>
+“अर्थस्वभावानुष्ठानलोकदृष्टिगुरूक्तिभिः । श्रुत्या स्मृत्या च संसिद्धं घटकार्थावलम्बनं” </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुरुषकारभावत्तुक्कु प्रमाणम् निक्षेपरक्षैयिले सॊऩ्ऩोम्।
+ऎऩ्ऱ् इप् पुरुषकारभावत्तुक्कु प्रमाणम् निक्षेपरक्षैयिले सॊऩ्ऩोम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य् अस्य पुरुषकार-भावस्य प्रमाणं निक्षेप-रक्षायाम् अवोचाम ।
 </details>
 
 
@@ -4026,7 +4052,7 @@ como autoridad (para mediación), ya lo **hemos señalado** en Nikṣeparakṣa.
 
 <details><summary>मूलम्</summary>
 
-पुरुषकारभावत्तुक्कु प्रमाणम् निक्षेपरक्षैयिले सॊऩ्ऩोम्।
+ऎऩ्ऱिप् पुरुषकारभावत्तुक्कु प्रमाणम् निक्षेपरक्षैयिले सॊऩ्ऩोम्।
 </details>
 
 
@@ -4035,6 +4061,12 @@ como autoridad (para mediación), ya lo **hemos señalado** en Nikṣeparakṣa.
 
 इवऱ्ऱिल् अर्थ-स्वभावम् आवदु; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एषु अर्थ-स्वभावो नाम - 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4057,6 +4089,12 @@ como autoridad (para mediación), ya lo **hemos señalado** en Nikṣeparakṣa.
 
 ईश्वरऩैप् पोले पितृत्वानुरूपम् आऩ प्रतापोष्मलत्वङ् कलसादे
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वरवत् पितृत्वानुरूप-प्रतापोष्मलत्वेनासंपृक्तानां 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4082,6 +4120,12 @@ característica de un padre
 
 मातृत्व-प्रयुक्तङ्गळ् आऩ वात्सल्यादिगळ् अतिशयित्तु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मातृत्व-प्रयुक्तानां वात्सल्यादीनाम् अतिशयेन, [[P325]]
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4200,6 +4244,12 @@ y por eso **perdono** sus ofensas".
 ऎऩ्गैये स्वभावम् आय् इरुक्कैयुम्,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-उक्ति-स्वभावत्वम्,
+</details>
+
+
 <details><summary>English</summary>
 
 It is her nature (always) to say (the above). 
@@ -4225,13 +4275,400 @@ Es su naturaleza (siempre) **decir** (lo anterior).
 अवऩ् मऱुक्क माट्टाद् ऒऴिगैयुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+वाल्लभ्यातिशयात्  
+अस्याः पुरस्करणे  
+तेनाप्रत्याख्येयत्वं च । 
+</details>
+
+
+<details><summary>English</summary>
+
+Her **being** the Lord's favourite **is** also such that,  
+if she **should intercede** (on our behalf),  
+the Lord **cannot refuse**. 
+</details>
+
+<details><summary>Español</summary>
+
+Ella **ser** la favorita del Señor **es** también tal que,  
+si ella **debería interceder** (en nuestro nombre),  
+el Señor **no puede negarse**.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 वाल्लभ्यातिशयत्ताले इवळै मुऩ्ऩिट्टालवऩ् मऱुक्क माट्टादॊऴिगैयुम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Her being the Lord's favourite is also such that, if she should intercede (on our behalf), the Lord cannot refuse. Since her very nature is such, it cannot be said that, to secure her help, the intercession of some one else will be needed and so on ad infinitum. As (an instance of) the practice of the wise, it is well-known from the Purāṇas, that, when Brahma and others were afraid to approach the Lord on seeing His wrath against His enemy, Hiranya, which arose owing to His intense love for Prahlāda, they approached the Supreme Ruler, who was then in the form of Nrisimha, with Lakṣmī as their leader (mediator) and praised Him. (Instances) may be seen also in such contexts as the following:- " The renowned" Lakṣmaṇa thus spoke to Sītā and the noble-minded Rāma." "Lakṣmaṇa, the descendent of Raghu, seized the two feet of his brother, Śrī Rāma, and said these words, in the presence of Sītā." In worldly affairs, too, this may be seen in kings pardoning the servants of the zenana as a result of even slight propitiation though their offences are great. This idea is also the purport of the śloka:-"O Mother Lakṣmī ! We who find our sole delight in rendering service to Thee and have only that as our aim, approach the Lord, look at Him and delight in serving Him, here and elsewhere, with the idea that He is Thy Spouse, in the same way as the people of Mithila looked upon Śrī Rāma as the bridegroom and the beloved husband of Sītā". The words of gurus are such passages as that of Nammalvar who says :-"O Thou on whose chest abides Lakṣmī, who says she cannot endure separation from Thee even for an instant". Texts may also be seen in support of this in the śrutis which are in the form of Śrī Sūktas. The Smṛtis based on these are the words of Śaunaka and others -such as the following :- "The man who begs for the attainment of Bhagavān, who is the purport of all words, should, of necessity, seek the protection also of Lakṣmī. It is not enough to perform prapatti to the Lord alone". Since it is evident from many pramāṇas that Lakṣmī plays the role of a mediator interceding at the feet of the Lord, it is but proper to understand it (in this way) in this context. Thus she is resorted to as a mediator and as the attribute of Siddhopāya.
+इव्व्-अर्थ-स्वभावत्ताले  
+इवळैप् पऱ्ऱ्-उवार्क्कु  
+पुरुष-कारान्तरापेक्षैय् उण्ड् आय्  
+अनवस्थै वारादु। +++(4)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्माद् अर्थ-स्वभावात्  
+इमाम् आश्रयतां  
+पुरुष-कारान्तरापेक्षा-निबन्धना ऽनवस्था नोपनमति ।
+
+</details>
+
+
+<details><summary>English</summary>
+
+Since her very nature **is** such,  
+it **cannot be said** that,  
+to **secure** her **help**,  
+the **intercession** of some one else **will be needed**  
+and so on ad infinitum.
+</details>
+
+<details><summary>Español</summary>
+
+Dado que su propia naturaleza **es** tal,  
+**no se puede decir** que,  
+para **asegurar** su **ayuda**,  
+la **intercesión** de alguien más **será necesaria**  
+y así hasta el infinito.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थस्वभावत्ताले इवळैप् पऱ्ऱुवार्क्कु पुरुषकारान्तरापेक्षैयुण्डा यनवस्थै वारादु। 
+</details>
+
+
+
+###### अनुष्ठानम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुष्ठानम् आवदु;  
+प्रह्लाद-विषयत्तिल् प्रेमातिशयत्ताले  
+प्रतिकूल-विषयत्तिऱ् पिऱन्द सीऱ्ऱत्तिऩ् घनत्तैक् कण्ड्  
+अणुगव्+++(=सन्निधातुम्)+++ अञ्जिऩ ब्रह्मादिगळ् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनुष्ठानं नाम –  
+प्रह्लाद-विषये प्रेमातिशयेन  
+प्रतिकूल-विषये जातस्य क्रोधस्याधिक्यं दृष्ट्वा उपसर्पण-भीताः ब्रह्मादयः 
+</details>
+
+
+<details><summary>English</summary>
+
+As (an instance of) the **practice** of the wise,  
+it **is well-known** from the Purāṇas, that,  
+when Brahma and others **were afraid** to **approach** the Lord  
+on **seeing** His wrath against His enemy, Hiranya,  
+which **arose** owing to His intense love for Prahlāda,  
+</details>
+
+<details><summary>Español</summary>
+
+Como (un ejemplo de) la **práctica** de los sabios,  
+**es bien sabido** por los Purāṇas que,  
+cuando Brahma y otros **tuvieron miedo** de **acercarse** al Señor  
+al **ver** Su ira contra Su enemigo, Hiranya,  
+que **surgió** debido a Su intenso amor por Prahlāda,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुष्ठानमावदु; प्रह्लादविषयत्तिल् प्रेमातिशयत्ताले प्रतिकूलविषयत्तिऱ् पिऱन्द सीऱ्ऱत्तिऩ् कऩत्तैक् कण्डणुग वञ्जिऩ ब्रह्मादिगळ् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवळै शरणम् आगप् पऱ्ऱि  
+इवळ् मुऩ्ऩिलैय् आग  
+श्रीनृसिंह-रूपऩ् आऩ सर्वेश्वरऩैक् किट्टि  
+स्तोत्रम् पण्णिऩार्गळ् ऎऩ्ऱु पुराण-प्रसिद्धम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमां शरणत्वेन आश्रित्यैतत्-पुरतः  
+श्रीनृसिंह-रूपं सर्वेश्वरम् उपसृत्य तुष्टुवुर्  
+इति पुराण-प्रसिद्धम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+they **approached** the Supreme Ruler,  
+who **was** then in the form of Nrisimha,  
+with Lakṣmī as their leader (mediator)  
+and **praised** Him. 
+</details>
+
+<details><summary>Español</summary>
+
+ellos **se acercaron** al Gobernante Supremo,  
+quien **estaba** entonces en la forma de Nrisimha,  
+con Lakṣmī como su líder (mediador)  
+y **lo alabamos**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवळै शरणमागप् पऱ्ऱि इवळ् मुऩ्ऩिलैयाग श्रीनृसिंहरूपऩाऩ सर्वेश्वरऩैक्किट्टि स्तोत्रम् पण्णिऩार्गळॆऩ्ऱु पुराणप्रसिद्धम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “सीताम् उवाचातियशा  
+राघवञ्च महाव्रतम्”  
+(रामायणम् अयोध्या-काण्डम् ३१-२), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “सीताम् उवाचातियशा  
+राघवञ्च महाव्रतम्”  
+(रामायणम् अयोध्या-काण्डम् ३१-२), 
+
+</details>
+
+<details><summary>English</summary>
+
+> " The **renowned** Lakṣmaṇa  
+thus **spoke** to Sītā and the noble-minded Rāma." 
+</details>
+
+<details><summary>Español</summary>
+
+> " El **renombrado** Lakṣmaṇa  
+así **habló** a Sītā y al noble Rāma."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“सीतामुवाचातियशा राघवञ्च महाव्रतं” (रामायणम् अयोध्या-काण्डम् ३१-२), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“सीता-समक्षं काकुत्स्थम्”  
+(रामायणम् आरण्यकाण्डम् १५-६) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+“सीता-समक्षं काकुत्स्थम्”  
+(रामायणम् आरण्यकाण्डम् १५-६) 
+</details>
+
+<details><summary>English</summary>
+
+> "Lakṣmaṇa, the descendent of Raghu,  
+**seized** the two feet of his brother, Śrī Rāma,  
+and **said** these words, in the **presence** of Sītā." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Lakṣmaṇa, el descendiente de Raghu,  
+**agarró** los dos pies de su hermano, Śrī Rāma,  
+y **dijo** estas palabras, en la **presencia** de Sītā."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“सीतासमक्षं काकुत्स्थम्” (रामायणम् आरण्यकाण्डम् १५-६) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्यादिगळिलुम् कण्डु गॊळ्वदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्यादिष्व् अपि द्रष्टव्यम् ।
+</details>
+
+
+<details><summary>English</summary>
+
+(Instances) **may be seen** also in such contexts as the above.
+</details>
+
+<details><summary>Español</summary>
+
+(Instancias) **pueden verse** también en contextos como el anterior.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिलुम् कण्डुगॊळ्वदु। 
+</details>
+
+###### लोक-दृष्टिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+लोक-दृष्टिय् आवदु; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+लोक-दृष्टिर् नाम - 
+</details>
+
+
+<details><summary>English</summary>
+
+In worldly affairs, too, 
+</details>
+
+<details><summary>Español</summary>
+
+También en los asuntos mundanos
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+लोकदृष्टियावदु; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्तः-पुर-परिजनत्तै  
+अपराध-भूयस्तैय् उण्डाऩालुम्  
+राजाक्कळ् अल्पङ्गळ् आऩ प्रसादनङ्गळाले  
+क्षमिक्कक् काण्गै।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्तःपुर-परिजन-विषये ऽपराध-भूयस्तायां सत्याम् अपि  
+राजानो ऽल्प-प्रसादनैः क्षाम्यन्तीति दर्शनम् । 
+</details>
+
+
+
+<details><summary>English</summary>
+
+this **may be seen** in kings **pardoning** the servants of the zenana  
+as a **result** of even slight **propitiation**  
+though their **offences are** great. 
+</details>
+
+<details><summary>Español</summary>
+
+esto **puede verse** en reyes **perdonando** a los sirvientes del zenana  
+como **resultado** de incluso una ligera **propiciación**  
+aunque sus **delitos son** geniales.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्तःपुरपरिजनत्तै अपराधभूयस्तैयुण्डाऩालुम् राजाक्कळ् अल्पङ्गळाऩ प्रसादनङ्गळाले क्षमिक्कक्काण्गै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थम् 
+
+> “मातर्लक्ष्मि यथैव मैथिल-जनः”  
+( श्री-गुण-रत्न-कोशः) 
+
+ऎऩ्गिऱ श्लोकत्तिलुम् विवक्षितम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयम् अर्थः, 
+
+> “मातर्लक्ष्मि यथैव मैथिल-जनः”  
+( श्री-गुण-रत्न-कोशः) 
+
+इति श्लोके ऽपि विवक्षितः ।
+</details>
+
+<details><summary>English</summary>
+
+This idea **is** also the purport of the śloka:-
+
+> "O Mother Lakṣmī !  
+We who **find** our sole delight  
+in **rendering service** to Thee  
+and have only that as our aim,  
+**approach** the Lord,  
+**look** at Him  
+and **delight** in serving Him, here and elsewhere,  
+with the idea that  
+He **is** Thy Spouse,  
+in the same way as the people of Mithila looked upon Śrī Rāma  
+as the bridegroom and the beloved husband of Sītā". 
+</details>
+
+<details><summary>Español</summary>
+
+Esta idea **es** también el significado del śloka:-
+
+> "¡Oh Madre Lakṣmī!  
+Nosotros que **encontramos** nuestro único deleite  
+en **prestar servicio** a Ti  
+y **tenemos** sólo eso como nuestro objetivo,  
+**acércate** al Señor,  
+**míralo**  
+y **deleitarnos** en **servirle**, aquí y en otros lugares,  
+con la idea de que  
+Él **es** tu Esposo,  
+de la misma manera que la gente de Mithila **miraba** a Śrī Rāma  
+como el novio y el amado esposo de Sītā".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थम् “मातर्लक्ष्मि यथैव मैथिलजनः”( श्री-गुण-रत्न-कोशः) ऎऩ्गिऱ श्लोकत्तिलुम् विवक्षितम्। 
+</details>
+
+###### गुरूक्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुरूक्तिय् आवदु;  
+नम्म्-आऴ्वार् मुदल्-आऩव् आचार्यर्गळ्-उडैय 
+
+> “अगलगिल्लेऩ्” 
+
+मुदल् आऩ पासुरङ्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+गुरुक्तिर् नाम  
+श्रीशठकोपसूरि-प्रभृतीनाम् आचार्याणां  
+"विश्लेष्टुं न शक्नोमि" इत्यादयो गाथाः । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गुरूक्तियावदु; नम्माऴ्वार् मुदलाऩवाचार्यर्गळुडैय “अगलगिल्लेऩ्” मुदलाऩ पासुरङ्गळ्। 
+</details>
+
+
+
+The words of gurus are such passages as that of Nammalvar who says :-"O Thou on whose chest abides Lakṣmī, who says she cannot endure separation from Thee even for an instant". Texts may also be seen in support of this in the śrutis which are in the form of Śrī Sūktas. The Smṛtis based on these are the words of Śaunaka and others -such as the following :- "The man who begs for the attainment of Bhagavān, who is the purport of all words, should, of necessity, seek the protection also of Lakṣmī. It is not enough to perform prapatti to the Lord alone". Since it is evident from many pramāṇas that Lakṣmī plays the role of a mediator interceding at the feet of the Lord, it is but proper to understand it (in this way) in this context. Thus she is resorted to as a mediator and as the attribute of Siddhopāya.
 
 As stated in the following ślokas ;- "O Lakṣmī,  with a countenance as delightful as the moon! When we consider Bhagavān and Thee separately, (we see) that the essential nature (svarūpa) of Bhagavān and His being the Supreme Ruler over all are the outcome of the superiority resulting from His being associated with Thee. Therefore Thou art that aspect of His which declares Thy Lord as being such and such." "Thou art, O Lakṣmī, the property of Bhagavān solely by Thine own will. Though His greatness (and superiority) result from Thee, they are not dependent on any one else for the reason given above. A gem is precious because of its radiance; still it should not be considered as having no worth (in itself). Its natural value does not diminish and is not dependent on anything else ",-(as stated in these ślokas) she is attached to Bhagavān (the Siddhopāya) like rays to the sun and the like, contributing to His splendour.
 
