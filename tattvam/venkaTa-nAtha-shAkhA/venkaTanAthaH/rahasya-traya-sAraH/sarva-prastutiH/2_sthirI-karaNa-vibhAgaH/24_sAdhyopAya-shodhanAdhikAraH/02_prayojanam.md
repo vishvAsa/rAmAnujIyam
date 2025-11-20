@@ -321,6 +321,12 @@ y que **resultó** de una **violación** sin inicio y continua de sus mandamient
 साध्योपाय-विशेषस्य यथावद् वेदनाभावे, 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+उत्तमपुरुषो मन्त्रत्व-लिङ्गम् इति मीमांसकाः। लट्-लकारश् चानुष्ठानकालम् बोधयति।  
+आवृत्ति-कालादि-नियमोक्त्य्-अभावात्, "सकृत् कृतः शास्त्रार्थः" - सकृद् एवानुष्ठानं विहितम्। 
+</details>
+
 
 <details><summary>English</summary>
 

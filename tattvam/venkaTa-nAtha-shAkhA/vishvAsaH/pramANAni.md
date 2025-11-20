@@ -8,10 +8,12 @@ title = "प्रमाणानि"
 अदुष्टम् प्रत्यक्षम् > वेदाः, ब्रह्म-सूत्राणि > स्मृतयः > इतिहासौ (रामायणं विशिष्य) > सात्त्विक-पुराणानि (विशिष्य विष्णु-पुराणम्) > आन्तरिक-तारतम्येन वैष्णवा आगमाः, द्रविड-गाथाः, सम्प्रदाय-रहस्य-ग्रन्थाः > राजस-तामस-पुराणानि, इतरागमाः ससाङ्ख्ययोगादयः > गुर्व्-आद्य्-आदेशः > शिष्टाचारः > ऐतिह्यम्।
 
 तत्र ब्रह्म-सूत्राणां रहस्यग्रन्थानां च निर्णायकत्वेन प्रामाण्यम्।  
-(The purpose of the Brahmasutras is to establish the right interpretation of theय Shruti; hence equal priority.)
+(The purpose of the Brahmasutras is to establish the right interpretation of the Shruti; hence equal priority.)
 
 
 क्रमे साधारण-विचारो [ऽन्यत्र](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/5_internal-contradictions/hierarchy)। अत्र सम्प्रदाय-विशिष्टवचनादीन्य् उच्यन्ते। 
+
+रहस्य-त्रय-सारादौ वेङ्कटनाथार्यः प्रमाणोदाहर-क्रमं स्वोदाहरणक्रमेणेव सूचयति।
 
 ### भगवद्-आज्ञा-ज्ञान-क्रमः
 बद्ध-दशायाम् भगवद्-आज्ञा-ज्ञान-क्रमः -
