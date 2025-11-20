@@ -4099,10 +4099,31 @@ y en el que el amor (como el de un niño) **resultante** de un sentimiento mater
 मातृत्वप्रयुक्तङ्गळाऩ वात्सल्यादिगळतिशयित्तु 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“न कश्चिन् नापराध्यति” (रामायणम् युद्ध-काण्डम् ११६-४४),
+</details>
+
+<details><summary>मूलम्</summary>
+
+“न कश्चिन्नापराध्यति” (रामायणम् युद्ध-काण्डम् ११६-४४),
+</details>
 
 
 
-It is her nature (always) to say: "There is no one who does not commit an offence"; "Who will get angry, best of monkeys, with these Rākṣasis who are under the authority of a king and being servants, render service to him?" "I cannot endure (to see) the sufferings of these servants of Ravana and therefore I pardon their offences". Her being the Lord's favourite is also such that, if she should intercede (on our behalf), the Lord cannot refuse. Since her very nature is such, it cannot be said that, to secure her help, the intercession of some one else will be needed and so on ad infinitum. As (an instance of) the practice of the wise, it is well-known from the Purāṇas, that, when Brahma and others were afraid to approach the Lord on seeing His wrath against His enemy, Hiranya, which arose owing to His intense love for Prahlāda, they approached the Supreme Ruler, who was then in the form of Nrisimha, with Lakṣmī as their leader (mediator) and praised Him. (Instances) may be seen also in such contexts as the following:- " The renowned" Lakṣmaṇa thus spoke to Sītā and the noble-minded Rāma." "Lakṣmaṇa, the descendent of Raghu, seized the two feet of his brother, Śrī Rāma, and said these words, in the presence of Sītā." In worldly affairs, too, this may be seen in kings pardoning the servants of the zenana as a result of even slight propitiation though their offences are great. This idea is also the purport of the śloka:-"O Mother Lakṣmī ! We who find our sole delight in rendering service to Thee and have only that as our aim, approach the Lord, look at Him and delight in serving Him, here and elsewhere, with the idea that He is Thy Spouse, in the same way as the people of Mithila looked upon Śrī Rāma as the bridegroom and the beloved husband of Sītā". The words of gurus are such passages as that of Nammalvar who says :-"O Thou on whose chest abides Lakṣmī, who says she cannot endure separation from Thee even for an instant". Texts may also be seen in support of this in the śrutis which are in the form of Śrī Sūktas. The Smṛtis based on these are the words of Śaunaka and others -such as the following :- "The man who begs for the attainment of Bhagavān, who is the purport of all words, should, of necessity, seek the protection also of Lakṣmī. It is not enough to perform prapatti to the Lord alone". Since it is evident from many pramāṇas that Lakṣmī plays the role of a mediator interceding at the feet of the Lord, it is but proper to understand it (in this way) in this context. Thus she is resorted to as a mediator and as the attribute of Siddhopāya.
+
+It is her nature (always) to say: 
+
+> "There **is no one** who **does not commit** an **offence**"; 
+
+> "Who will **get angry**, best of monkeys, with these Rākṣasis  
+who **are** under the authority of a king  
+and **being servants**, **render service** to him?" 
+
+> "I **cannot endure** (**to see**) the **sufferings** of these **servants** of Ravana  
+and therefore I **pardon** their offences". 
+
+Her being the Lord's favourite is also such that, if she should intercede (on our behalf), the Lord cannot refuse. Since her very nature is such, it cannot be said that, to secure her help, the intercession of some one else will be needed and so on ad infinitum. As (an instance of) the practice of the wise, it is well-known from the Purāṇas, that, when Brahma and others were afraid to approach the Lord on seeing His wrath against His enemy, Hiranya, which arose owing to His intense love for Prahlāda, they approached the Supreme Ruler, who was then in the form of Nrisimha, with Lakṣmī as their leader (mediator) and praised Him. (Instances) may be seen also in such contexts as the following:- " The renowned" Lakṣmaṇa thus spoke to Sītā and the noble-minded Rāma." "Lakṣmaṇa, the descendent of Raghu, seized the two feet of his brother, Śrī Rāma, and said these words, in the presence of Sītā." In worldly affairs, too, this may be seen in kings pardoning the servants of the zenana as a result of even slight propitiation though their offences are great. This idea is also the purport of the śloka:-"O Mother Lakṣmī ! We who find our sole delight in rendering service to Thee and have only that as our aim, approach the Lord, look at Him and delight in serving Him, here and elsewhere, with the idea that He is Thy Spouse, in the same way as the people of Mithila looked upon Śrī Rāma as the bridegroom and the beloved husband of Sītā". The words of gurus are such passages as that of Nammalvar who says :-"O Thou on whose chest abides Lakṣmī, who says she cannot endure separation from Thee even for an instant". Texts may also be seen in support of this in the śrutis which are in the form of Śrī Sūktas. The Smṛtis based on these are the words of Śaunaka and others -such as the following :- "The man who begs for the attainment of Bhagavān, who is the purport of all words, should, of necessity, seek the protection also of Lakṣmī. It is not enough to perform prapatti to the Lord alone". Since it is evident from many pramāṇas that Lakṣmī plays the role of a mediator interceding at the feet of the Lord, it is but proper to understand it (in this way) in this context. Thus she is resorted to as a mediator and as the attribute of Siddhopāya.
 
 As stated in the following ślokas ;- "O Lakṣmī,  with a countenance as delightful as the moon! When we consider Bhagavān and Thee separately, (we see) that the essential nature (svarūpa) of Bhagavān and His being the Supreme Ruler over all are the outcome of the superiority resulting from His being associated with Thee. Therefore Thou art that aspect of His which declares Thy Lord as being such and such." "Thou art, O Lakṣmī, the property of Bhagavān solely by Thine own will. Though His greatness (and superiority) result from Thee, they are not dependent on any one else for the reason given above. A gem is precious because of its radiance; still it should not be considered as having no worth (in itself). Its natural value does not diminish and is not dependent on anything else ",-(as stated in these ślokas) she is attached to Bhagavān (the Siddhopāya) like rays to the sun and the like, contributing to His splendour.
 
