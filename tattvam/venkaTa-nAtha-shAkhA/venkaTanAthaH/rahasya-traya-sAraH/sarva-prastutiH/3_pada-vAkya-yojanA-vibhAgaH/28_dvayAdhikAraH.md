@@ -4889,8 +4889,8 @@ which **are** in the form of Śrī Sūktas.
 
 <details><summary>Español</summary>
 
-Texts **may also be seen** in **support** of this in the śrutis  
-which **are** in the form of Śrī Sūktas. 
+Los textos también **se pueden ver** en **apoyo** de esto en los śrutis  
+que **están** en la forma de Śrī Sūktas.
 </details>
 
 
@@ -4915,8 +4915,8 @@ which **are** in the form of Śrī Sūktas.
 
 इवैय्-अडिय् आग वन्द स्मृतिगळ् आवऩ; 
 
-> “वाचःपरं प्रार्थयिता  
-प्रपद्येन् नियतश् श्रियम्”  
+> “वाचःपरं **प्रार्थयिता**  
+**प्रपद्येन्** नियतश् श्रियम्”  
 ( शौनकसंहिता) 
 
 इत्यादिगळ् आऩ शौनकादि-वाक्यङ्गळ्। 
@@ -4924,8 +4924,8 @@ which **are** in the form of Śrī Sūktas.
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> “वाचःपरं प्रार्थयिता  
-प्रपद्येन् नियतश् श्रियम्”  
+> “वाचःपरं **प्रार्थयिता**  
+**प्रपद्येन्** नियतश् श्रियम्”  
 ( शौनकसंहिता) 
 
 </details>
@@ -4942,12 +4942,12 @@ It **is not enough** to **perform** prapatti to the Lord alone". +++(5)+++
 
 <details><summary>Español</summary>
 
-The Smṛtis based on these are the words of Śaunaka and others -such as the following :- 
+Los Smṛtis basados en estos **son** las palabras de Śaunaka y otros -tales como las **siguientes**:- 
 
-> "The man who **begs** for the attainment of Bhagavān,  
-who **is** the purport of all words,  
-**should**, of necessity, **seek the protection** also of Lakṣmī.  
-It **is not enough** to **perform** prapatti to the Lord alone". +++(5)+++
+> "El hombre que **ruega** por el logro de Bhagavān,  
+quien **es** el significado de todas las palabras,  
+**debería**, por necesidad, **buscar la protección** también de Lakṣmī.  
+**No es suficiente realizar** prapatti sólo para el Señor". +++(5)+++
 </details>
 
 
@@ -4961,6 +4961,15 @@ It **is not enough** to **perform** prapatti to the Lord alone". +++(5)+++
 श्रुतियै मूलमागवुडैय स्मृतियैक् काट्टुगिऱार् इवैयडियाग वन्द स्मृतिकळावऩ इति । वाचः परं – वाचामगोचरमाऩ भगवाऩै, प्रार्थयिता - शरणमाग वरिक्कप्पोगिऱवऩ्, नियतः - नियमयुक्तऩाय्क्कॊण्डु, श्रियं प्रपद्येत् – पुरुषकारत्वेन श्रीप्रपदनं नियमेन कुर्यादित्यर्थः । 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि इवळुक्कु सर्वेश्वरऩ् तिरुवडिगळिल् घटकत्वम् बहुप्रमाणसिद्धमागैयालिङ्गु मिव्विवक्षै कॊळ्ळ उचितम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि इवळुक्कु सर्वेश्वरऩ् तिरुवडिगळिल् घटकत्वम् बहुप्रमाणसिद्धमागैयालिङ्गु मिव्विवक्षै कॊळ्ळ उचितम्। 
+</details>
 
 
 Since it is evident from many pramāṇas that Lakṣmī plays the role of a mediator interceding at the feet of the Lord, it is but proper to understand it (in this way) in this context. Thus she is resorted to as a mediator and as the attribute of Siddhopāya.
