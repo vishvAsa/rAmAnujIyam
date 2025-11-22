@@ -4963,16 +4963,46 @@ quien **es** el significado de todas las palabras,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्पडि इवळुक्कु सर्वेश्वरऩ् तिरुवडिगळिल् घटकत्वम् बहुप्रमाणसिद्धमागैयालिङ्गु मिव्विवक्षै कॊळ्ळ उचितम्। 
+इप्पडि इवळुक्कु  
+सर्वेश्वरऩ् तिरुव्-अडिगळिल् घटकत्वम् बहु-प्रमाण-सिद्धम् आगैयाल्  
+इङ्गुम् इव्-विवक्षै कॊळ्ळ उचितम्। 
 </details>
+
+<details><summary>English</summary>
+
+Since it **is evident** from many pramāṇas  
+that Lakṣmī **plays** the role of a mediator  
+**interceding** at the feet of the Lord,  
+it **is** but proper to **understand** it (in this way) in this context. 
+
+</details>
+
+<details><summary>Español</summary>
+
+Dado que **es evidente** en muchos pramāṇas  
+que Lakṣmī **desempeña** el papel de mediador  
+**intercediendo** a los pies del Señor,  
+**es** pero apropiado **entenderlo** (de esta manera) en este contexto.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इप्पडि इवळुक्कु सर्वेश्वरऩ् तिरुवडिगळिल् घटकत्वम् बहुप्रमाणसिद्धमागैयालिङ्गु मिव्विवक्षै कॊळ्ळ उचितम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Since it is evident from many pramāṇas that Lakṣmī plays the role of a mediator interceding at the feet of the Lord, it is but proper to understand it (in this way) in this context. Thus she is resorted to as a mediator and as the attribute of Siddhopāya.
+इप्पडि पुरुषकारभूतैयुमाय् सिद्धोपाय विशेषणमुमाय्क्कॊण्डु आश्रयिक्कप्पडुम्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि पुरुषकारभूतैयुमाय् सिद्धोपाय विशेषणमुमाय्क्कॊण्डु आश्रयिक्कप्पडुम्।
+</details>
+
+
+Thus she is resorted to as a mediator and as the attribute of Siddhopāya.
 
 As stated in the following ślokas ;- "O Lakṣmī,  with a countenance as delightful as the moon! When we consider Bhagavān and Thee separately, (we see) that the essential nature (svarūpa) of Bhagavān and His being the Supreme Ruler over all are the outcome of the superiority resulting from His being associated with Thee. Therefore Thou art that aspect of His which declares Thy Lord as being such and such." "Thou art, O Lakṣmī, the property of Bhagavān solely by Thine own will. Though His greatness (and superiority) result from Thee, they are not dependent on any one else for the reason given above. A gem is precious because of its radiance; still it should not be considered as having no worth (in itself). Its natural value does not diminish and is not dependent on anything else ",-(as stated in these ślokas) she is attached to Bhagavān (the Siddhopāya) like rays to the sun and the like, contributing to His splendour.
 
