@@ -4958,9 +4958,13 @@ quien **es** el significado de todas las palabras,
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-श्रुतियै मूलमागवुडैय स्मृतियैक् काट्टुगिऱार् इवैयडियाग वन्द स्मृतिकळावऩ इति । वाचः परं – वाचामगोचरमाऩ भगवाऩै, प्रार्थयिता - शरणमाग वरिक्कप्पोगिऱवऩ्, नियतः - नियमयुक्तऩाय्क्कॊण्डु, श्रियं प्रपद्येत् – पुरुषकारत्वेन श्रीप्रपदनं नियमेन कुर्यादित्यर्थः । 
+श्रुतियै मूलम् आगवुडैय स्मृतियैक् काट्टुगिऱार् इवैयडियाग वन्द स्मृतिकळावऩ इति ।  
+वाचः परं – वाचामगोचरमाऩ भगवाऩै, प्रार्थयिता - शरणमाग वरिक्कप्पोगिऱवऩ्,  
+नियतः - नियमयुक्तऩ् आय्क् कॊण्डु,  
+श्रियं प्रपद्येत् – पुरुषकारत्वेन श्रीप्रपदनं नियमेन कुर्यादित्यर्थः । 
 </details>
 
+###### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्पडि इवळुक्कु  
@@ -4993,7 +4997,21 @@ que Lakṣmī **desempeña** el papel de mediador
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्पडि पुरुषकारभूतैयुमाय् सिद्धोपाय विशेषणमुमाय्क्कॊण्डु आश्रयिक्कप्पडुम्।
+इप्पडि पुरुष-कार-भूतैयुम् आय्  
+सिद्धोपाय-विशेषणमुम् आय्क् कॊण्डु  
+आश्रयिक्कप्-पडुम्।
+</details>
+
+<details><summary>English</summary>
+
+Thus she **is resorted to** as a **mediator**  
+and as the attribute of Siddhopāya.
+</details>
+
+<details><summary>Español</summary>
+
+Por eso **se recurre** a ella como **mediadora**  
+y como atributo de Siddhopāya.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5002,9 +5020,47 @@ que Lakṣmī **desempeña** el papel de mediador
 </details>
 
 
-Thus she is resorted to as a mediator and as the attribute of Siddhopāya.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-As stated in the following ślokas ;- "O Lakṣmī,  with a countenance as delightful as the moon! When we consider Bhagavān and Thee separately, (we see) that the essential nature (svarūpa) of Bhagavān and His being the Supreme Ruler over all are the outcome of the superiority resulting from His being associated with Thee. Therefore Thou art that aspect of His which declares Thy Lord as being such and such." "Thou art, O Lakṣmī, the property of Bhagavān solely by Thine own will. Though His greatness (and superiority) result from Thee, they are not dependent on any one else for the reason given above. A gem is precious because of its radiance; still it should not be considered as having no worth (in itself). Its natural value does not diminish and is not dependent on anything else ",-(as stated in these ślokas) she is attached to Bhagavān (the Siddhopāya) like rays to the sun and the like, contributing to His splendour.
+“स्वरूपं स्वातन्त्र्यं”( श्री-गुण-कोशः २८), 
+</details>
+
+<details><summary>English</summary>
+
+> "O Lakṣmī,  with a countenance as delightful as the moon!  
+When **we consider** Bhagavān and Thee separately,  
+(**we see**) that the essential nature (svarūpa) of Bhagavān  
+and His **being** the Supreme **Ruler** over all  
+**are** the outcome of the superiority  
+**resulting** from His being **associated** with Thee.  
+Therefore Thou **art** that aspect of His  
+which **declares** Thy Lord as **being** such and such." 
+</details>
+
+<details><summary>Español</summary>
+
+> "¡Oh Lakṣmī, con un **semblante** tan delicioso como la luna!  
+Cuando **consideramos** a Bhagavān y a Ti por **separado**,  
+(**vemos**) que la naturaleza esencial (svarūpa) de Bhagavān  
+y Su **ser** el **Gobernante** Supremo sobre todo  
+**son** el **resultado** de la superioridad  
+**resultante** de Su estar **asociado** contigo.  
+Por lo tanto Tú **eres** ese aspecto de Su  
+que **declara** a Tu Señor como **siendo** tal y cual."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“स्वरूपं स्वातन्त्र्यं”( श्री-गुण-कोशः २८), 
+</details>
+
+
+As stated in the following ślokas ;- 
+
+
+
+> "Thou art, O Lakṣmī, the property of Bhagavān solely by Thine own will. Though His greatness (and superiority) result from Thee, they are not dependent on any one else for the reason given above. A gem is precious because of its radiance; still it should not be considered as having no worth (in itself). Its natural value does not diminish and is not dependent on anything else ",-(as stated in these ślokas) she is attached to Bhagavān (the Siddhopāya) like rays to the sun and the like, contributing to His splendour.
 
 When we take the etymological meaning to be that she is to be reverenced by all, while she (herself) reveres the Supreme Ruler over all, she is the lady entitled to the service of all (of us). She is herself of the nature of a śeṣa to the Lord as stated in: “ Thy beloved Spouse is Bhagavān who is called Puruṣottama" and in the śloka : "All things, those that move and those that do not move, are, O Goddess that rulest over Śrīraṅgam, for Thy līlā. The eternal sūris who are said to be constantly looking at the region of eternal enjoyment (bhoga) namely, Vaikuṇṭha, were appointed to be Thy servants. By Thy compassion alone are we among those who are protected. Thy śeṣī is Bhagavān; all the rest are subject to Thy grace". W'hen the (etymological) meaning of the word Śrī is taken to be as stated in the śloka : “The whole world depends on Lakṣmī for support" that all things depend upon Her for protection and that she is attached to all things, that aspect of the Lord of Śrī which is declared by such words as Nārāyaṇa (Viṣṇu and Vāsudeva ) is declared also of Viṣṇu's consort. The author on Śrī Bhāṣya, too, has said Bhagavatī Śrī in the same way as He says Bhagavān Nārāyaṇa in that context; (i. e.) he calls for Bhagavatī to show that She has the same distinction as Her Spouse.
 
