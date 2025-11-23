@@ -3210,7 +3210,7 @@ aunque sea por un instante, etc"., etc".
 
 
 
-## श्रीमन्नारायणशब्दार्थः
+## श्रीमन्नारायणः
 <details><summary>English</summary>
 
 THE DETAILED INTERPRETATION OF DVAYA:
@@ -5203,7 +5203,7 @@ ella **está apegada** a Bhagavān (el Siddhopāya)
 अतिशयकारिणियाय्क्कॊण्डु सिद्धोपायत्तै आश्रयित्तिरुक्कुम्। 
 </details>
 
-##### शेषता, शेषिता
+##### शेषता, आश्रयते
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎल्लार्क्कुम् सेव्यैय् आय् 
@@ -5232,7 +5232,7 @@ Que ella debe **ser reverenciada** por todos,
 
 > सर्वेश्वरऩै सेवित्त् इरुक्कुम् 
 
-ऎऩ्ऱु पॊरुळ् +++(श्रीः)+++ आऩ बोदु  
+ऎऩ्ऱु +++(श्र्याः)+++ पॊरुळ् आऩ बोदु  
 ऎल्लार्क्कुम् स्वामिनिय् आय्
 </details>
 
@@ -5342,16 +5342,429 @@ Ella misma **es** de la naturaleza de una śeṣa para el Señor.
 ऎऩ्गिऱबडि इवऩुक्कुशेषमाऩ निलै सॊल्लिऱ्ऱाम्। 
 </details>
 
+##### आश्रयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “जगत्-समस्तं यद्-अपाङ्ग-संश्रयम्”  
+( आळवन्दार् स्तोत्रम् ३७)
+
+इत्य्-आदिगळिऱ् पडिये  
+</details>
+
+<details><summary>English</summary>
+
+As **stated** in the śloka : 
+
+> “The whole world **depends** on Lakṣmī for support" 
+</details>
+
+<details><summary>Español</summary>
+
+Como **indicado** en el śloka: 
+
+> “El mundo entero **depende** del **apoyo** de Lakṣmī"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“जगत्समस्तं यदपाङ्गसंश्रयम्”( आळवन्दार् स्तोत्रम् ३७) इत्यादिगळिऱ् पडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऎल्ला वस्तुक्कळालुम् आश्रयिक्कप् पट्टु 
+</details>
+
+<details><summary>English</summary>
+
+> all things **depend** upon Her for **protection**  
+</details>
+
+<details><summary>Español</summary>
+
+> todas las cosas **dependen** de Ella para **protección**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎल्ला वस्तुक्कळालुमाश्रयिक्कप्पट्टु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऎल्लात्तैयुम् ताऩ् अश्रयित्त् इरुक्कुम्  
+
+ऎऩ्ऱु +++(श्र्याः)+++ पॊरुळ् आऩ बोदु 
+</details>
+
+<details><summary>English</summary>
+
+> and that she **is attached** to all things, 
+
+When the (etymological) **meaning** of the word Śrī **is taken** to be (this)
+</details>
+
+<details><summary>Español</summary>
+
+> y que ella **está apegada** a todas las cosas,
+
+
+Cuando el **significado** (etimológico) de la palabra Śrī **se toma** como (esto)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎल्लात्तैयुम् ताऩश्रयित्तिरुक्कुम् ऎऩ्ऱु पॊरुळाऩबोदु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नारायणादि-शब्दङ्गळ् श्रियः-पतिक्कुच् चॊल्लुङ् कट्टळैयै  
+विष्णु-पत्निक्कुञ् जॊल्लिऱ्ऱ् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+that aspect of the Lord of Śrī which **is declared** by such words as Nārāyaṇa (Viṣṇu and Vāsudeva )  
+**is declared** also of Viṣṇu's consort. 
+</details>
+
+<details><summary>Español</summary>
+
+ese aspecto del Señor de Śrī que **es declarado** por palabras como Nārāyaṇa (Viṣṇu y Vāsudeva)  
+**se declara** también de la consorte de Viṣṇu.
+</details>
+
+<details><summary>मूलम्</summary>
+
+नारायणादिशब्दङ्गळ् श्रियःपतिक्कुच् चॊल्लुङ्गट्टळैयै विष्णुपत्निक्कुञ् जॊल्लिऱ्ऱाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्री-भाष्य-काररुम् “भगवन्-नारायण” ऎऩ्गिऱ नेरिले  
+“भगवतीं श्रियं” ऎऩ्ऱ् अरुळिच् चॆय्दार् 
+</details>
+
+<details><summary>English</summary>
+
+The author on Śrī Bhāṣya, too, **has said** Bhagavatī Śrī  
+in the same way as He **says** Bhagavān Nārāyaṇa in that context;  
+(i. e.) he **calls** for Bhagavatī  
+**to show** that She has the same distinction as Her Spouse.
+</details>
+
+<details><summary>Español</summary>
+
+El autor de Śrī Bhāṣya también **ha dicho** Bhagavatī Śrī  
+de la misma manera como Él **dice** Bhagavān Nārāyaṇa en ese contexto;  
+(es decir) él **llama** a Bhagavatī  
+**para mostrar** que Ella tiene la misma distinción que Su Esposo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीभाष्यकाररुम् “भगवन्नारायण” ऎऩ्गिऱ नेरिले “भगवतीं श्रियं” ऎऩ्ऱरुळिच्चॆय्दार् 
+</details>
 
 
 
+#### श्रवणे
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“शृणोति श्रावयति” ऎऩ्गिऱ व्युत्पत्तिगळिल् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+“शृणोति श्रावयति” 
+</details>
+
+
+<details><summary>English</summary>
+
+(3) & (4) When the (etymological) meaning (of Śrī) **is taken** to be,  
+'She **listens**' (śṛṇoti)  
+and She **makes listen** (śrāvayati): 
+</details>
+
+<details><summary>Español</summary>
+
+(3) y (4) Cuando el significado (etimológico) (de Śrī) **se toma** como,  
+'Ella **escucha**' (śṛṇoti)  
+y 'Ella **hace escuchar** (śrāvayati)':
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“शृणोति श्रावयति” ऎऩ्गिऱ व्युत्पत्तिगळिल् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सापराधर् आऩव्-अडियोङ्गळै  
+
+> सर्वेश्वरऩ् तिरुव्-अडिगळिले काट्टिक् कॊडुत्त् अरुळ वेणुम् 
+
+ऎऩ्ऱ्  
+इप्-पुडैगळिले+++(=पक्षे)+++ आश्रितर्-उडैय आर्त-ध्वनियैक् केट्टु  
+सर्वेश्वरऩुक्कु विण्णप्पञ् जॆय्दु  
+
+> इवर्गळ्-उडैय आर्तियै शमिप्पिक्कुम् 
+
+ऎऩ्ऱद् आम्।
+</details>
+
+<details><summary>English</summary>
+
+it would mean -
+
+When we who **have offended** (against the Lord) **pray** to Her  
+that she **should persuade** Him to **be accessible** to us  
+on our **approaching** His feet for **protection**,  
+she **listens** to the **cry** of **suffering** of those who have **sought** Her as a **refuge**  
+and **pleads** (to the Lord) on our behalf,  
+God **helps** to **mitigate** our **suffering**. 
+</details>
+
+<details><summary>Español</summary>
+
+**significaría** -
+
+Cuando nosotros que **hemos ofendido** (contra el Señor) **rogamos** a Ella  
+que ella **debería persuadirlo** para que **sea accesible** para nosotros  
+en nuestro **acercamiento** a Sus pies para **protección**,  
+ella **escucha** el **grito** de **sufrimiento** de quienes la han **buscado** como **refugio**  
+y **suplica** (al Señor) en nuestro nombre,  
+Dios **ayuda** a **mitigar** nuestro **sufrimiento**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सापराधराऩवडियोङ्गळै सर्वेश्वरऩ् तिरुवडिगळिले काट्टिक् कॊडुत्तरुळवेणुम् ऎऩ्ऱिप्पुडैगळिले आश्रितरुडैय आर्तध्वनियैक् केट्टु सर्वेश्वरऩुक्कु विण्णप्पञ् जॆय्दु इवर्गळुडैय आर्तियै शमिप्पिक्कुमॆऩ्ऱदाम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि पुरुष-कार-कृत्यत्तैच् चॊल्लुगिऱव् इदुक्कुम्  
+पुरुष-कार-भावत्तिले नोक्कु। 
+</details>
+
+<details><summary>English</summary>
+
+The words which (literally) **state** her **activity**  
+(really) **aim** at stating Her role as a mediator. 
+</details>
+
+<details><summary>Español</summary>
+
+Las palabras que (literalmente) **indican** su **actividad**  
+(Realmente) **apunta** a **exponer** Su papel como **mediadora**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि पुरुषकारकृत्यत्तैच् चॊल्लुगिऱ विदुक्कुम् पुरुषकारभावत्तिले नोक्कु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “मत्-पद-द्वन्द्वम् एकं ये  
+**प्रपद्यन्ते** परायणम् ।  
+**उद्धरिष्याम्य्** अहं देवि  
+संसारात् स्वयम् एव तान्”॥  
+( वराह-पुराणम्), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “मत्-पद-द्वन्द्वम् एकं ये  
+**प्रपद्यन्ते** परायणम् ।  
+**उद्धरिष्याम्य्** अहं देवि  
+संसारात् स्वयम् एव तान्”॥  
+( वराह-पुराणम्), 
+</details>
+
+<details><summary>English</summary>
+
+> "Those who **seek** my two feet as their sole upāya or **refuge** -  
+I myself **take** them, O, my beloved! out of saṁsāra", 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Aquellos que **buscan** mis dos pies como único upāya o **refugio** -  
+¡Yo mismo los **tomo**, oh amado mío! fuera del saṁsāra",
+</details>
+
+<details><summary>मूलम्</summary>
+
+“मत्पदद्वंद्वमेकं ये प्रपद्यन्ते परायणम् । उद्धरिष्याम्यहं देवि संसारात् स्वयमेव तान्”( वराहपुराणम्), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “आनृशंस्यं परो धर्म”  
+( रामायणम् सुन्दरकाण्डम् ३८-४१) 
+
+इत्यादिगळै
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “आनृशंस्यं परो धर्म”  
+( रामायणम् सुन्दरकाण्डम् ३८-४१) 
+</details>
+
+<details><summary>English</summary>
+
+and also 
+
+> "Compassion **is** a supreme virtue", 
+
+</details>
+
+<details><summary>Español</summary>
+
+y también 
+
+> "La compasión **es** una virtud suprema",
+</details>
+
+<details><summary>मूलम्</summary>
+
+“आनृशंस्यंपरो धर्म”( रामायणम् सुन्दरकाण्डम् ३८-४१)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळैय् अवऩ् पक्कलिले केट्टु
+</details>
+
+<details><summary>English</summary>
+
+**Having heard** from Him these words  
+</details>
+
+<details><summary>Español</summary>
+
+**Habiendo escuchado** de Él estas palabras
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळैयवऩ् पक्कलिले केट्टु
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “शृणु चावहितः कान्त  
+यत् ते वक्ष्याम्य् अहं हितम् ।  
+प्राणैर् अपि त्वया नित्यं  
+संरक्ष्यश् शरणागतः॥”  
+( इतिहास-समुच्चयः १०-५१)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “शृणु चावहितः कान्त  
+यत् ते वक्ष्याम्य् अहं हितम् ।  
+प्राणैर् अपि त्वया नित्यं  
+संरक्ष्यश् शरणागतः॥”  
+( इतिहास-समुच्चयः १०-५१)
+</details>
+
+<details><summary>English</summary>
+
+> "**Listen**, my beloved husband, with attention  
+to what I **am going to say** for your good.  
+He who **has sought refuge** under you  
+**should be protected** even if it be at the cost of your life". 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Escucha**, mi amado esposo, con atención  
+a lo que **voy a decir** por tu bien.  
+El que **ha buscado refugio** debajo de ti  
+**debe ser protegido** aunque **sea** a costa de su vida".
+</details>
+
+<details><summary>मूलम्</summary>
+
+“शृणु चावहितः कान्त यत्ते वक्ष्याम्यहं हितम् । प्राणैरपि त्वया नित्यं संरक्ष्यश्शरणागतः”( इतिहास-समुच्चयः १०-५१)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु कपोतत्तै कपोति केट्पित्ताऱ् पोले  
+अवसरत्तिले केट्पिक्कुम्  
+ऎऩ्ऩवुम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+she **would**, when the proper occasion **arises**, **say**,  
+like the female pigeon to the male pigeon in the (above) śloka. 
+</details>
+
+<details><summary>Español</summary>
+
+ella **haría**, cuando **surgiera** la ocasión apropiada, **decirá**,  
+como la paloma hembra al macho en el śloka (arriba).
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु कपोतत्तै कपोति केट्पित्ताऱ्पोले अवसरत्तिले केट्पिक्कुमॆऩ्ऩवुमाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वेश्वरऩ् पक्कलिले लोक-हितत्तैक् केट्टु 
+</details>
+
+<details><summary>English</summary>
+
+**Having heard** from the Supreme Ruler  
+that He **is** ever **bent** on the **advancement** of the world's welfare,  
+</details>
+
+<details><summary>Español</summary>
+
+**Habiendo escuchado** del Gobernante Supremo  
+que Él **está** siempre **empeñado** en el **avance** del bienestar del mundo,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वेश्वरऩ् पक्कलिले लोकहितत्तैक् केट्टु 
+</details>
 
 
 
+It may also be considered to have the following meanings : 
 
-When the (etymological) meaning of the word Śrī is taken to be as stated in the śloka : “The whole world depends on Lakṣmī for support" that all things depend upon Her for protection and that she is attached to all things, that aspect of the Lord of Śrī which is declared by such words as Nārāyaṇa (Viṣṇu and Vāsudeva ) is declared also of Viṣṇu's consort. The author on Śrī Bhāṣya, too, has said Bhagavatī Śrī in the same way as He says Bhagavān Nārāyaṇa in that context; (i. e.) he calls for Bhagavatī to show that She has the same distinction as Her Spouse.
 
-(3) & (4) When the (etymological) meaning (of Śrī) is taken to be, 'She listens' (śṛṇoti) and She makes listen (śrāvayati) it would mean: "When we who have offended (against the Lord) pray to Her that she should persuade Him to be accessible to us on our approaching His feet for protection, she listens to the cry of suffering of those who have sought Her as a refuge and pleads (to the Lord) on our behalf god helps to mitigate our suffering. The words which (literally) state her activity (really) aim at stating Her role as a mediator. Having heard from Him these words : "Those who seek my two feet as their sole upāya or refuge - I myself take them, O, my beloved! out of saṁsāra", and also "Compassion is a supreme virtue", she would, when the proper occasion arises, say, like the female pigeon to the male pigeon in the śloka :-- "Listen, my beloved husband, with attention to what I am going to say for your good. He who has sought refuge under you should be protected even if it be at the cost of your life". It may also be considered to have the following meanings : Having heard from the Supreme Ruler that He is ever bent on the advancement of the world's welfare, she would offer her advice to be listened to even by her enemies as in the passage : " If you should desire to save your abode (viz. Lanka) and to avoid a horrible death, it would be in your interest to obtain the friendship ot Śrī Rāma, who is the best of men "..
+she would offer her advice to be listened to even by her enemies as in the passage : " If you should desire to save your abode (viz. Lanka) and to avoid a horrible death, it would be in your interest to obtain the friendship ot Śrī Rāma, who is the best of men "..
 
 (5) " When the etymological meaning (of Śrī) is taken to be that she removes all faults (śṝṇāti), it would mean that she removes all hindrances in the way of those who have adopted the upāya (namely prapatti), such as karma , and this idea is brought out in the following passages :- "In all siddhāntas (systems of religious thought) and in the Vedānta, it has been declared that when Bhagavān affords protection, He does it always with Lakṣmī, who is the very embodiment of compassion, by His side", and so also, "Lakṣmī who resides in the ever fragrant lotus destroys all the (past) karma  of jīvas".
 
