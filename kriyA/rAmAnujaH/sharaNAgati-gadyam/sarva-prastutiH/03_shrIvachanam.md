@@ -32,27 +32,90 @@ title = "०३ श्रीवचनम्"
 <dg 15/>
 
 किमपेक्षितमित्यत्राह **पारमार्थिक** इति ।  
+
+<details><summary>English</summary>
+
+Then the object for which Lakshmi Saranaagathi is performed as a preparatory step, is stated.
+</details>
+
 अनुभव-विशेषणम् ।  
+
+<details><summary>English</summary>
+
+The word Paaramaarthika goes to qualify the word Anubhava lower down. 
+</details>
+
 परम-पुरुषार्थान्तर्-भूतत्वात्,  
 स्वयं परम-पुरुषार्थत्वात्,  
+
+<details><summary>English</summary>
+
+This word denotes either that Bhagavat Anubhava i.e. enjoyment of Vision of God is included in Parama Purushaartha or that God Himself is the Parama Purushaartha.
+</details>
+
 अकृत्रिमत्वाद् वा **पारमार्थिकत्वम्** ।  
+
+<details><summary>English</summary>
+
+It may also mean 'natural' and not artificial, i.e. caused by some external phenomenon.
+</details>
+
 अकृत्रिमत्वम् निरुपाधिकत्वम्,  
 भक्तिविशेषणं वा **पारमार्थिक**-शब्दः ।  
+
+<details><summary>English</summary>
+
+The word may be taken even as an adjective to the word Bhakti.
+</details>
+
 **चरणारविन्द** इति मातुस् स्तन्यं[^1_pg16] पुत्रस्येव  
 शेषभूतस्य प्राप्यम्[^2_pg16] इति भावः ।  
 
-**ऐकान्तिकत्वं** फलान्तरार्थत्वाभावात् भगवद्-एकविषयत्वम् ।  
+<details><summary>English</summary>
 
-**आत्यन्तिकत्वम्** अत एव सदानुवृत्तिः, नित्ययुक्त इति यावत्। 
+Charanaaravinda implies that He is easily accessible to a Sesha or devotee, as easy as the breast-milk of a mother is available to her child.
+</details>
 
 [^1_pg16]: स्स्तनम् - इ ।
 
 
 [^2_pg16]: प्राप्त इ ।
 
+**ऐकान्तिकत्वं** फलान्तरार्थत्वाभावात् भगवद्-एकविषयत्वम् ।  
+
+<details><summary>English</summary>
+
+meant by Aikaantika is that the Saranaagati is performed with the sole object of pleasing the Lord and of no other,
+</details>
+
+**आत्यन्तिकत्वम्** अत एव सदानुवृत्तिः, नित्ययुक्त इति यावत्। 
+
+<details><summary>English</summary>
+
+while Atyantika means that as a conséquence of the above, the Bhakti or Anubhava is a continuous experience (Nityayukta). 
+</details>
+
 उत्तरोत्तर-साक्षात्-काराभिनिवेशः **परभक्तिः** ।  
+
+<details><summary>English</summary>
+
+Parabhakti may be defined as that longing of the devotee to have a direct vision of God for ever and ever.
+</details>
+
 साक्षात्कारः **परज्ञानम्**।  
+
+<details><summary>English</summary>
+
+The achievement of that vision of God is Para Gnaana. 
+</details>
+
 उत्तरोत्तरानुभवाभिनिवेशः **परमभक्तिः** ।
+
+<details><summary>English</summary>
+
+The desire to have experience of that vision continued or perpetuated for ever and ever is Parama Bhakti. 
+</details>
+
 
 परिपूर्णत्वादिपदषट्कम् अनुभवविशेषणम् । परव्यूहादि सर्वावस्थ भगवद्विषयत्वं परिपूर्णत्वम्, सकृत्वव्यावृत्त्यर्थम् अनवरतत्वम् । अविरतेच्छा-वधिमत्वव्युदासाय नित्यत्वम् । विरतनित्यत्वव्युदासाय अनवरतत्वम् । स्नानाग्निहोत्रादिकं हि विरतनित्यम् । 
 परोक्षत्वव्युदासाय विशदतमत्वम् । 

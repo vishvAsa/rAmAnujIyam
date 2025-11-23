@@ -52,13 +52,7 @@ COMMENTARY
 
 
 4 
-
-
-Niravadya means that She is not unapproachable (like in the case of Paramaatman) nor affected with any faults. Mahishee means the anointed Queen; hence She is one whose wishes cannot be transgressed (or easily ignored by the Lord). 
-
-Akhila in Akhila Jaganmaataram denotes that Ramanuja includes himself among those to whom She is a mother. 
-
-Asaranya means persons with no other resource go to for refuge. To show that the speaker includes himself in the class, the word Ananya is used. Thus far, prayers to Sri. 
+ 
 to 
 Translation of Text 
 (1) With no other help to resort to, I seek Thee, Sri Devi, full of all beneficient qualities, seated in a forest of lotus flowers. (Thou art) the refuge of all the helpless; (Thou art) my Mother, indeed the Mother of the whole world, The Crowned Divine Queen of the Lord of the Devas, the pure and Unsullied, never separated from the Lord; Thyself Thine from, its qualities, and the most wonderful, limitless innumerable collection of auspicious qualities of Thine, such as, Greatness, Rulership and high Virtues, all to His liking and worthy of the natural form and qualities of Bhagavaan Naarayana. 
@@ -70,10 +64,8 @@ Why this Saranaagati.
 अस्तु ते । तयैव सर्व संपत्स्यते ॥ 
 | II' 
 COMMENTARY 
-2. Then the object for which Lakshmi Saranaagathi is performed as a preparatory step, is stated. The word Paaramaarthika goes to qualify the word Anubhava lower down. This word denotes either that Bhagavat Anubhava i.e. enjoyment of Vision of God is included in Parama Purushaartha or that God Himself is the Parama Purushaartha. It may also mean 'natural' and not artificial, i.e. caused by some external phenomenon. The word may be taken even as an adjective to the word Bhakti. Charanaaravinda implies that He is easily accessible to a Sesha or devotee, as easy as the breast-milk of a mother is available to her child. meant by Aikaantika is that the Saranaagati is performed with the sole object of pleasing the Lord and of no other, while Atyantika means that as a conséquence of the above, the Bhakti or Anubhava is a continuous experience (Nityayukta). Parabhakti may be defined as that longing of the devotee to 
-What is 
-5 
-have a direct vision of God for ever and ever. The achievement of that vision of God is Para Gnaana. The desire to have experience of that vision continued or perpetuated for ever and ever is Parama Bhakti. 
+
+
 The next six words beginning with Paripoorna go to qualify "Anubhava"; Paripoorana Anubhava means Perfect knowledge of the Lord! in all stages and all conditions; that is, in Para, Vyooha, Vibhava, Haardaa and Archaa stages which are His Divine manifestations. Anavarata (continuous) is the opposite of "once" or "sometimes". The word 'Nitya' is used to repel any idea of limitation, i.e. to denote endlessness. Why these two words? They are necessary to denote continuity without interruption, not like bathing or performing Agnihotra which are Nitya but are performed only at intervals or on occa sions. Visadatama dispels any doubt about the Anubhava not being direct. Ananya Proyojana is used to denote the opposite of there being some other object in view. Why? The answer is Anavadhika Atisaya Priya (limitless, intense affection). 
 For though there may be no other object in view, there may be limit to the Preeti (affection). To denote that it is not so, these words are used here. That is to say, the devotion caused by such experience is unlimited in its extensiveness. Athisaya is pre-eminence. "This experience of His by the Devoteee is explained to be with an ecsatcy of feeling caused by the experience already obtained by him. By Asesha Avastha: is6 
 meant such things as being seated in mantapa or resting in the Anta:pura: The word means service, like holding umbrella, waving 'Seshatva" chaamara, sounding kalanji (Thiruchinnam) serving as sandals, handing over betel leaves, etc. 
