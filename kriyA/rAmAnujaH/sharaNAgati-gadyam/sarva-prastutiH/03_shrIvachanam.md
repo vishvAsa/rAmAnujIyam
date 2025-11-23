@@ -117,19 +117,84 @@ The desire to have experience of that vision continued or perpetuated for ever a
 </details>
 
 
-परिपूर्णत्वादिपदषट्कम् अनुभवविशेषणम् । परव्यूहादि सर्वावस्थ भगवद्विषयत्वं परिपूर्णत्वम्, सकृत्वव्यावृत्त्यर्थम् अनवरतत्वम् । अविरतेच्छा-वधिमत्वव्युदासाय नित्यत्वम् । विरतनित्यत्वव्युदासाय अनवरतत्वम् । स्नानाग्निहोत्रादिकं हि विरतनित्यम् । 
+परिपूर्णत्वादिपदषट्कम् अनुभवविशेषणम् । 
+
+<details><summary>English</summary>
+
+The next six words beginning with Paripoorna go to qualify "Anubhava";
+</details>
+
+परव्यूहादि सर्वावस्थ भगवद्विषयत्वं परिपूर्णत्वम्, सकृत्वव्यावृत्त्यर्थम् अनवरतत्वम् । 
+
+<details><summary>English</summary>
+
+Paripoorana Anubhava means Perfect knowledge of the Lord! in all stages and all conditions; that is, in Para, Vyooha, Vibhava, Haardaa and Archaa stages which are His Divine manifestations.
+</details>
+
+अविरतेच्छा-वधिमत्वव्युदासाय नित्यत्वम् । 
+
+<details><summary>English</summary>
+
+Anavarata (continuous) is the opposite of "once" or "sometimes".
+</details>
+
+
+विरतनित्यत्वव्युदासाय अनवरतत्वम् । 
+
+<details><summary>English</summary>
+
+The word 'Nitya' is used to repel any idea of limitation, i.e. to denote endlessness.
+</details>
+
+
+स्नानाग्निहोत्रादिकं हि विरतनित्यम् । 
+
+<details><summary>English</summary>
+
+Why these two words? They are necessary to denote continuity without interruption, not like bathing or performing Agnihotra which are Nitya but are performed only at intervals or on occa sions.
+</details>
+
 परोक्षत्वव्युदासाय विशदतमत्वम् । 
 
 <details><summary>English</summary>
 
-The next six words beginning with Paripoorna go to qualify "Anubhava"; Paripoorana Anubhava means Perfect knowledge of the Lord! in all stages and all conditions; that is, in Para, Vyooha, Vibhava, Haardaa and Archaa stages which are His Divine manifestations. Anavarata (continuous) is the opposite of "once" or "sometimes". The word 'Nitya' is used to repel any idea of limitation, i.e. to denote endlessness. Why these two words? They are necessary to denote continuity without interruption, not like bathing or performing Agnihotra which are Nitya but are performed only at intervals or on occa sions. Visadatama dispels any doubt about the Anubhava not being direct. 
+Visadatama dispels any doubt about the Anubhava not being direct. 
 </details>
 
-प्रयोजनान्तरार्थत्वव्युदासाय **अनन्यप्रयोजनत्वम्** । तत्र हेतुः **अनवधिकातिशयप्रियत्वम्** । प्रयोजनान्तरत्वाभावेऽपि सावधिकातिशयप्रियत्वव्युदासार्थम्, अनवधिकातिशयप्रियत्वमुक्तम् । ईदृशानुभवेन जनिताऽनवधिकातिशयप्रीतिः - 'अहो मया ईदृशानुभवो लब्धः' इति पूर्वानुभवलब्धविषयनिरवधिकातिशयानुकूलप्रीतिसन्तानरूपा । तया अनुकारितम् ।
+प्रयोजनान्तरार्थत्वव्युदासाय **अनन्यप्रयोजनत्वम्** । 
 
 <details><summary>English</summary>
 
-Ananya Proyojana is used to denote the opposite of there being some other object in view. Why? The answer is Anavadhika Atisaya Priya (limitless, intense affection). For though there may be no other object in view, there may be limit to the Preeti (affection). To denote that it is not so, these words are used here. That is to say, the devotion caused by such experience is unlimited in its extensiveness. Athisaya is pre-eminence. "This experience of His by the Devoteee is explained to be with an ecsatcy of feeling caused by the experience already obtained by him. 
+Ananya Proyojana is used to denote the opposite of there being some other object in view.
+</details>
+
+तत्र हेतुः **अनवधिकातिशयप्रियत्वम्** । 
+
+<details><summary>English</summary>
+
+Why? The answer is Anavadhika Atisaya Priya (limitless, intense affection).
+</details>
+
+प्रयोजनान्तरत्वाभावेऽपि सावधिकातिशयप्रियत्वव्युदासार्थम्, अनवधिकातिशयप्रियत्वमुक्तम् । 
+
+<details><summary>English</summary>
+
+For though there may be no other object in view, there may be limit to the Preeti (affection).
+</details>
+
+
+ईदृशानुभवेन जनिताऽनवधिकातिशयप्रीतिः - 'अहो मया ईदृशानुभवो लब्धः' इति पूर्वानुभवलब्धविषयनिरवधिकातिशयानुकूलप्रीतिसन्तानरूपा । 
+
+<details><summary>English</summary>
+
+To denote that it is not so, these words are used here. That is to say, the devotion caused by such experience is unlimited in its extensiveness. Athisaya is pre-eminence. 
+</details>
+
+तया अनुकारितम् ।
+
+<details><summary>English</summary>
+
+ "This experience of His by the Devoteee is explained to be with an ecsatcy of feeling caused by the experience already obtained by him. 
 
 </details>
 
@@ -162,7 +227,9 @@ like holding umbrella, waving 'Seshatva" chaamara, sounding kalanji (Thiruchinna
 
 <details><summary>English</summary>
 
- 
+""
+""
+""
 But we know that Ananta (Sesha) and Garuda have their allotted tasks of service to the Lord. How then call all the services be open to a Devotee? To explain away any such doubt, Ramanuja uses the words Rati-Roopa. Service by whomsoever done is to the pleasure of the Lord. So it is pleasing to the doer; hence it also satisfies any another devotee in the same way as if he himself has done the service. So Aalavandaar uses the words "Praharshaishyami" only to gladden thee, not for my own pleasure.' Therefore, the service, even if rendered by another, there is satisfaction as if done be oneself, and that is due to the feeling caused by witnessing the pleasure of the Lord by such service rendered by the other or others; such satisfaction itself is the service. The implication of the fourth (Dative) case (Naraayanaaya) is set out here. 
 </details>
 
