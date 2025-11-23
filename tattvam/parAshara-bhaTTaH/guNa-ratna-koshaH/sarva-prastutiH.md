@@ -762,10 +762,35 @@ title = "सर्व-प्रस्तुतिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हेलायामखिलं चराचरमिदम् भोगे विभूतिः परा  
-पुण्यास्ते परिचारकर्मणि सदा पश्यन्ति ये सूरयः ।  
-श्रीरङ्गेश्वरदेवि! केवलकृपानिर्वाह्यवर्गे वयं  
-शेषित्वे परमः पुमान् परिकरा ह्येते तव स्फारणे ॥ २२ ॥
+हेलायाम् अखिलं चराचरम् इदं, भोगे विभूतिः परा,  
+पुण्यास् ते परिचार-कर्मणि सदा **पश्यन्ति** ये सूरयः ।  
+श्रीरङ्गेश्वर-देवि! केवल-कृपा-**निर्वाह्य**-वर्गे वयं,  
+शेषित्वे परमः पुमान्, **परिकरा** ह्य् एते तव **स्फारणे**+++(=व्याप्तौ)+++ ॥ २२ ॥
+</details>
+
+<details><summary>English</summary>
+
+"All things, those that **move**  
+and those that **do not move**,  
+**are**, O Goddess that **rulest** over Śrīraṅgam, **for** Thy līlā.  
+The eternal sūris who **are said** to **be** constantly **looking** at the region of eternal enjoyment (bhoga) namely, Vaikuṇṭha,  
+**were appointed** to be Thy servants.  
+By Thy compassion alone **are** we among those who **are** protected.  
+Thy śeṣī **is** Bhagavān;  
+all the rest **are subject** to Thy grace".
+
+</details>
+
+<details><summary>Español</summary>
+
+"Todas las cosas, las que **se mueven**  
+y los que **no se mueven**,  
+**son**, oh Diosa que **gobierna** sobre Śrīraṅgam, **para** Tu līlā.  
+Los sūris eternos de quienes **se dice** que **están** constantemente **mirando** la región del disfrute eterno (bhoga), a saber, Vaikuṇṭha,  
+**fueron designados** para ser Tus siervos.  
+Sólo por Tu compasión **estamos** entre los que **están** protegidos.  
+Tu śeṣī **es** Bhagavān;  
+todos los demás **están sujetos** a Tu gracia".
 </details>
 
 <details><summary>मूलम्</summary>
