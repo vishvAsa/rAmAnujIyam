@@ -290,15 +290,26 @@ beginning with splendor, beauty, fragrance, tenderness, handsome demeanor, and y
 गोपालदेशिकाह्निके लुप्तोऽयम् भागः। 
 </details>
 
-""
-""
-""
 <details><summary>सुदर्शन-भट्टः</summary>
 
 +++(ज्ञान-बलैश्वर्य-वीर्य-शक्ति-तेजः-)+++षाड्गुण्यम् -साधारणम् ।
 
-**सौशील्यादि**-द्वादशम् भक्त-रक्षणासाधारणम् ।  
+**सौशील्यादि**-द्वादशम् भक्त-रक्षणासाधारणम् । 
+
+<details><summary>English</summary>
+
+Then follow the natural qualities of Paramaatman. Svaabhaavika-etc. The meaning is clear. The first six characteristics are common, then the next twelve are peculiar as being useful for thegrant of salvation to the Devotees. 
+</details>
+
 **सौशील्य** इत्य्-आदि-शीलं हि नाम - महतो मन्दैस्सहनीरन्ध्रेण संश्लेषस्वभावत्वम् । तस्य च प्रयोजनान्तरौपयिकत्वाभावात्, सौशील्यम् । यद्वा ईश्वरत्वबुद्ध्या यथा आश्रितानां साध्वसं न स्यात्, यथा च स्वयमपि न स्वस्य परत्वबुद्ध्या विलक्षणस्स्यात्, तथा शीलत्वम् - सौशील्यम् । वात्सल्यम् - दोषेऽपि गुणत्वबुद्धिः । यथा सद्यः प्रसूतायाः धेनोर्वत्से, इदञ्च क्षमाकाष्ठारूपम्[^1_pg29] । अत एव हि पृथगनुक्तिः क्षमायाः ।
+
+<details><summary>English</summary>
+
+Seela is where a superior has as his natural quality the quality of moving freely with the inferiors; when that is exercised for no selfish or other purpose, it is Sau-Seelya. That is to say, Iswara does not cause fear in the heart of the Devotees by his Iswaratva nor does he generate any feeling in them of undue hesitation to approch Him. by His superiority. 
+
+Vaatsalya is the quality to find good even in Evil: Just as a cow fondles its new born dirty calf. This quality is one of the features of extreme patience. Hence Patience 
+is not mentioned separatelty. 
+</details>
 
 [^1_pg29]: क्षमाकाष्ठानुरूपम् - इ ।
 
@@ -306,11 +317,40 @@ beginning with splendor, beauty, fragrance, tenderness, handsome demeanor, and y
 
 आश्रितविरहासहत्वं - **मार्दवम्** । तेष्वस्थानभयशङ्कित्वं वा । मनोवाक्कायैकरूप्यम् - आर्जवम् । यथा 'ऋजुबुद्धितया सर्वमाख्यातुमुपचक्रमे' इति । सौहार्दम् - तेषामभिमतश्रेयोभिध्यायित्वम्, स्वसत्तानपेक्षतद्रक्षापरत्वं वा । साम्यम् - जन्मवृत्तगुणवैषम्यमनपेक्ष्यं सर्वेषां समाश्रयणीयत्वे स्वीकृतानां तेषां सम्भावनाविशेषेषु मनसा - तद्विषयादरे च समत्वम्, तारतम्यधीरहितत्वम् । 
 
+<details><summary>English</summary>
+
+Maardava is the feeling of loss at any separation from the devotees, a feeling of apprehension when they are not present at any place. 
+
+Aarjava denotes perfect correlation of mind, speech and body in action. So it is said "Rajubudhyat sarvam akhayatum upachakarme" "because of His artlessness He (Rama) began to narrate to Surpanaka all about Himself" Sauhaarda:- Ever wishing well of His Devotees:- Intent in doing good to them without caring for any return. Saamya is the quality which does not make differentiation on account of birth, conduct or character; making Himself easily available to them all and also rewarding. them, not minding any difference in the gifts offered by them or their nature or value, in short no feeling of any difference.
+</details>
+
 कारुण्यम् - स्वार्थाऽनपेक्षा[^2_pg30] परदुःखाऽसहिष्णुता । माधुर्यम् - हन्तुं प्रवृत्तावपि रसापहत्वम् यथा 'एह्येहि फुल्लाम्बुजपत्रनेत्र!' (म.भा.भी. ५९-९८) इति । गाम्भीर्यम् - आश्रितविषये 'एवमनेन चिकीर्षितम्' इति परिच्छेत्तुमशक्यत्वम्, दीयमानगौरवसम्प्रदानलाघवाऽनपेक्षत्वं वा । औदार्यम्'अन्यस्मै ददामि' इत्यभिमानविरहेण 'पुत्रवत्प्राप्तं भुङ्क्ते' इति बुद्ध्या दातृत्वम् । इदमियद्दत्तं मयेत्यस्मरणशीलत्वं वा । यद्वा सर्वं दत्वापि 'ऋणं प्रवृद्धमिव मे' इत्यतृप्तत्वम् औदार्यम् । चातुर्यम्आश्रितार्थेष्वजडक्रियत्वम् । यथा साऽनुबन्धरावणवधेन विभीषणाऽभिषेकः । यद्वा आश्रितदोषगोपनं वा - चातुर्यम्, यथा पित्रादेरिव ।
+
+<details><summary>English</summary>
+
+Kaarunya:-Removing the calamities and grievances without expecting any return. 
+
+Maadhurya: kindness shown even in inflicting punishment, such as, death. (ehi ehi phullaambuja patra netra) when Krishna goes to hit him with chakra, Bhishma cried to "Come, Come, Oh the lotus-eyed". Gaambheerya - of immesasurable depth (worth) as the greatness and value of the favours granted by Him to His devotees bear no proportion to the insignificance of the deserts of the favoured. Audaarya:- with no feeling that any devotee has been over favoured or not satisfied with the favours granted. "Krishna felt indebted and remembered the debt when Drowpadi cried for help when being dishonoured:- or with no feeling that favours are granted to a stranger, but is only as if to son who is entitled to the patrimony. Chaaturya - affording instant relief to his Devotees overlooking their faults just like a father. Rama peformed the Abhisheka to Vibhishana on the battlefield itself. 
+</details>
 
 [^2_pg30]: स्वार्थानपेक्षया इ ।
 
 **स्थैर्यम्** 'न त्यजेयं कथञ्चन' (रा. अयो. १०-३) इत्यभिसन्धिमत्वम् । भक्तरक्षोपयोगिगुणाः द्वादश । अथ तत्रैव रक्षणे विरोधिनिरसनौपाधिकं त्रिकम् । धैर्यम् -स्वस्मिन् प्रतिपक्षागमे सत्यविकृतत्वम् । यथा - 'जटाचूड[^1_pg31] ग्रन्थिं दृढयति' इति । स्वगृह इव परबले प्रवेशसामर्थ्यम्शौर्यम् । प्रवेशे सति तन्निरासकौशलं - पराक्रमः । यथा 'छिन्नं, भिन्नम्' इत्य्-आदि । अथ भोग्यगुणयुगम् । सत्यकाम इति नित्यविभूतिमत्त्वम् 'काम्यस्स्पृहा स्मरः कामः' इत्यनेकार्थः ।
+
+<details><summary>English</summary>
+
+Sthairya :-Firm determination not to abandon His Devotees. 
+
+These twelve (qualities) are useful to Him for saving His Devotees. 
+
+Then follow three qualities which go to help Him in punishing those who stand in the way of His protecting His Devotees. 
+
+"Dhairya" - Unshaken stand against foes who stand in the way of granting such protection; "jatajoota granthim drudhayathi "making fast the knot of the hair." "Saurya": Prowess to enter the enemy's camp as easily as if entering His own house. 
+
+Paraakrama - power to vanquish foes after entering their camp "Chinnam Bhinnam" (at the time Rama's destroying Ravana's moola balam. 
+
+Then are mentioned two qulities relating to enjoyment. Satyakaama denotes Iswara possessing of Nitya Vibhuti. [The word Kama has many mean ings.] 
+</details>
 
 [^1_pg31]: जूट - इ ।
 
@@ -318,9 +358,27 @@ beginning with splendor, beauty, fragrance, tenderness, handsome demeanor, and y
 
 **सत्यसङ्कल्प** इति लीलाविभूतिमत्त्वम्,स्वसङ्कल्पाऽनुवृत्युभयविभूतिमत्त्वं वा । अथ भक्तरक्षाविषयम् उक्तद्वादशकादि विलक्षणं[^1_pg32] गुणद्वयमाहकृति इति । आश्रितकार्यपूरणेन कृतार्थत्वम् -कृतित्वम् । यद्वा कृतम् - क्रिया, तद्वत्त्वम् । आश्रितकर्तव्यस्य स्वयं कर्तृत्वम् । यथा 'अहं स्मरामि' इति । कृतमेव जानाति, न तु करिष्यमाणांशमकृतमिति कृतज्ञः । यद्वा, स्वल्पमप्याश्रितैर्यत्साधुकृतम्, तदेव जानाति, आश्रितकृतं दोषं स्वकृतं श्रेयश्च न स्मरतीति कृतज्ञः ।
 
+<details><summary>English</summary>
+
+Satya Sankalpa denotes Iswara possessing the worlds for his Leela i.e., sport or recreation. Thus possessing the two worlds for his Dominion. 
+
+The next two qualities refer to the protective activities of the Lord apart from the 12 qualities already mentioned. 
+
+Krititva is the state of satisfaction in having acceded to the prayers of the Devotees, therefore the word may mean One who is active, that is to say, He Himself does what the Devotees should have done "Aham smarami". "I think of him at the death of the devotee though he may not remember me." 
+
+Kritaganata denotes 'I remember' i.e., remembering what has been done, but not what has to be done but left undone, or. Kritagna is one who remembers only the good act done, however small but not the faults, nor the return He is making to them.
+</details>
+
 [^1_pg32]: लक्षणम् - इ ।
 
 'एकैक गुणेष्व[^1_pg33]नेकान्तर्भावाऽभिप्रायः **गण**-शब्दः । स एव ओघः-प्रवाहः, तस्य महार्णवः, न गुणायत्तं महत्वम् , गुणास्तु स्वावस्थाऽवस्थानाय भगवत्स्वरूपगताः । अन्यथा न स्थातुं शक्नुवन्तीति भावः ।
+
+<details><summary>English</summary>
+
+The word gana is used to denote that in the each of the qualities there are many (subvarieties) qualities contained in them. Such Gana's flood is "Ogha". 
+
+Mahaarnava is the Ocean. Virtues and and qualities have no permanent value unless they seek abode in Bhagavan; indeed, without such refuge, they have no value. 
+</details>
 
 [^1_pg33]: विशेषभेदैश्च - अ ।
 
@@ -426,6 +484,10 @@ all desires fulfilled, all intentions realized, the capability to carry out all 
 नूपुर+  
 आद्य्-**अपरिमित-दिव्य-भूषण** ! 
 </details>
+
+""
+""
+""
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
