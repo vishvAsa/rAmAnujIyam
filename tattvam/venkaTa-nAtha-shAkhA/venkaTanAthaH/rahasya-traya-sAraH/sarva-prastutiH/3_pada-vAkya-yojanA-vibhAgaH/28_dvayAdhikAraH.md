@@ -4930,6 +4930,28 @@ que **están** en la forma de Śrī Sūktas.
 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+उपायत्वेन श्रीसहितस्य नारायणस्य प्रार्थनीयत्वे पूर्वम् एव सिद्धे,  
+अत्र लक्ष्म्या विशिष्य प्रार्थनीयत्वम्  
+पुरुषकारार्थम् इति सुवचं स्यात्।  
+(लक्ष्म्युपायत्वदीपिकायाम् इदम् उक्तम् इति श्रूयते।)
+
+किञ्च, श्री-सिद्धोपायत्वाभाव-भ्रम-निवारणार्थम् अपि  
+कुतो न स्यात्?  
+न ह्य् अत्र पुरुषकारमात्रार्थम् प्रपद्येतेत्य् उक्तं दृश्यते (शौनकसंहितां दृष्ट्वैव तन् निश्चेतव्यम्)।  
+
+प्रत्युत, शरणागतिगद्य-व्याख्याने सुदर्शन-भट्टः श्रीप्रपदन-प्रकरणे तद्-उपायत्व-पर्यन्त-प्रार्थनं यद् वदति -
+
+> यद्वा श्रियं प्रपद्य  
+तत्-सन्निधौ मूल-मन्त्रेण स्वरूपानुरूप-पुरुषार्थ-प्रार्थनं  
+तद्-उपाय-प्रार्थना-पर्यन्तं कृत्वा…  
+
+तच्-चोदनार्थं स्याद् एव। 
+</details>
+
+
+
 <details><summary>English</summary>
 
 The Smṛtis based on these are the words of Śaunaka and others -such as the following :- 
@@ -4989,11 +5011,16 @@ que Lakṣmī **desempeña** el papel de mediador
 **es** pero apropiado **entenderlo** (de esta manera) en este contexto.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इप्पडि इवळुक्कु सर्वेश्वरऩ् तिरुवडिगळिल् घटकत्वम् बहुप्रमाणसिद्धमागैयालिङ्गु मिव्विवक्षै कॊळ्ळ उचितम्। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि लक्ष्मिक्कु घटकत्वम् बहुप्रमाणसिद्धमागैयाल् इन्द द्वयत्तिल् उपायपरपूर्वखण्डत्तिल् अवळुक्कु पुरुषकारत्वम् विवक्षिप्पदु उचितमॆऩ्गिऱार् इप्पडि इवळुक्कु इत्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5020,10 +5047,30 @@ y como atributo de Siddhopāya.
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि श्रीयते चाखिलैर्नित्यमित्यादि प्रमाणङ्गळिल् सॊल्लुगिऱबडि पिराट्टि पुरुषकारतया सिद्धोपायविशेषणतया च आश्रयिक्कप्पडुव ळॆऩ्गिऱार् इप्पडि पुरुषकारभूतैयुमायिति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“स्वरूपं स्वातन्त्र्यं”( श्री-गुण-कोशः २८), 
+> स्व-रूपं स्वातन्त्र्यम् (भगवत इदं चन्द्र-वदने !  
+**त्वद्-आश्लेषोत्कर्षाद् भवति** खलु, निष्कर्ष-समये +++(श्र्याः स्वरूपनिरूपक-धर्मता ←"श्री-पतित्वाद् ईश्वर …" ← "श्रद्धया देवो देवत्वमश्नुते")+++।  
+त्वम् **आसीर्** मातः श्रीः कमितुर् इदम्-इत्थंत्व-विभवस् +++(←घटे घटत्ववत्)+++  
+तद्-अन्तर्-भावात् त्वां न पृथग् **अभिधत्ते** श्रुतिर् अपि ॥ २८ ॥)  
+> (श्रीगुण-रत्न-कोशः २८)  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> स्व-रूपं स्वातन्त्र्यम् (भगवत इदं चन्द्र-वदने !  
+**त्वद्-आश्लेषोत्कर्षाद् भवति** खलु, निष्कर्ष-समये +++(श्र्याः स्वरूपनिरूपक-धर्मता ←"श्री-पतित्वाद् ईश्वर …" ← "श्रद्धया देवो देवत्वमश्नुते")+++।  
+त्वम् **आसीर्** मातः श्रीः कमितुर् इदम्-इत्थंत्व-विभवस् +++(←घटे घटत्ववत्)+++  
+तद्-अन्तर्-भावात् त्वां न पृथग् **अभिधत्ते** श्रुतिर् अपि ॥ २८ ॥)  
+> (श्रीगुण-रत्न-कोशः २८)  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5055,12 +5102,74 @@ que **declara** a Tu Señor como **siendo** tal y cual."
 “स्वरूपं स्वातन्त्र्यं”( श्री-गुण-कोशः २८), 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-As stated in the following ślokas ;- 
+श्रयते च परं पदमॆऩ्गिऱविडत्तिल् केवलविशेषणतया आश्रयणमात्रमऩ्ऱिक्के भगवद्वाल्लभ्यातिशयम् तोऱ्ऱुगैक्काग अतिशयकारिणियाय्क्कॊण्डु आश्रयणम् विवक्षितमॆऩ्गिऱ अभिप्रायत्ताले अरुळिच्चॆय्गिऱार् स्वरूपं स्वातन्त्र्यं, स्वतः श्रीस्त्वमित्यादि । इन्द इरण्डु श्लोकङ्गळुम् पूर्वमेव व्याख्यातङ्गळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> +++(निरुपाधिक-स्वभावतया→)+++ स्वतः श्रीस् त्वं विष्णोः स्वम् **असि**, +++(स्व-वस्तु-स्थ-र्द्धेः→)+++ (तत एवैष भगवान्,  
+त्वद्-**आयत्त-र्द्धित्वे** ऽप्य् अ-भवद् **अ-पराधीन**-विभवः ।   
+स्वया **दीप्त्या** रत्नम् भवद् अपि महार्घं **न विगुणं**  
+**न कुण्ठ**-स्वातन्त्र्यम् भवति, च **न चान्याहित**-गुणम् ॥ ३१ ॥)  
+(श्री-गुण-रत्न-कोशः ३१) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> +++(निरुपाधिक-स्वभावतया→)+++ स्वतः श्रीस् त्वं विष्णोः स्वम् **असि**, +++(स्व-वस्तु-स्थ-र्द्धेः→)+++ (तत एवैष भगवान्,  
+त्वद्-**आयत्त-र्द्धित्वे** ऽप्य् अ-भवद् **अ-पराधीन**-विभवः ।   
+स्वया **दीप्त्या** रत्नम् भवद् अपि महार्घं **न विगुणं**  
+**न कुण्ठ**-स्वातन्त्र्यम् भवति, च **न चान्याहित**-गुणम् ॥ ३१ ॥)  
+(श्री-गुण-रत्न-कोशः ३१) 
+</details>
+
+<details><summary>English</summary>
+
+> "Thou **art**, O Lakṣmī, the property of Bhagavān solely by Thine own will.  
+Though His greatness (and superiority) **result** from Thee,  
+they **are not dependent** on any one else  
+for the reason given above.  
+A gem **is** precious because of its **radiance**;  
+still it **should not be considered** as **having** no worth (in itself).  
+Its natural value **does not diminish**  
+and **is not dependent** on anything else ", 
+</details>
+
+<details><summary>Español</summary>
+
+> "Tú **eres**, oh Lakṣmī, propiedad de Bhagavān únicamente por Tu propia **voluntad**.  
+Aunque Su grandeza (y superioridad) **resulta** de Ti,  
+ellos **no dependen** de nadie más  
+por la razón **expuesta** anteriormente.  
+Una gema **es** preciosa por su **resplandor**;  
+aun así, **no debe considerarse** como si **no tuviera** valor (en sí mismo).  
+Su valor natural **no disminuye**  
+y **no depende** de nada más",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“स्वतः श्रीस्त्वं विष्णोः स्वमसि”( श्री-गुण-कोशः ३१) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ श्लोकङ्गळिऩ् बडिये  
+आदित्यादिगळुक्कु प्रभादिगळ् बोले 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱ श्लोकङ्गळिऩ्बडिये आदित्यादिगळुक्कु प्रभादिगळ्बोले 
+</details>
 
 
 
-> "Thou art, O Lakṣmī, the property of Bhagavān solely by Thine own will. Though His greatness (and superiority) result from Thee, they are not dependent on any one else for the reason given above. A gem is precious because of its radiance; still it should not be considered as having no worth (in itself). Its natural value does not diminish and is not dependent on anything else ",-(as stated in these ślokas) she is attached to Bhagavān (the Siddhopāya) like rays to the sun and the like, contributing to His splendour.
+As stated in these ślokas -  
+she is attached to Bhagavān (the Siddhopāya) like rays to the sun and the like, contributing to His splendour.
 
 When we take the etymological meaning to be that she is to be reverenced by all, while she (herself) reveres the Supreme Ruler over all, she is the lady entitled to the service of all (of us). She is herself of the nature of a śeṣa to the Lord as stated in: “ Thy beloved Spouse is Bhagavān who is called Puruṣottama" and in the śloka : "All things, those that move and those that do not move, are, O Goddess that rulest over Śrīraṅgam, for Thy līlā. The eternal sūris who are said to be constantly looking at the region of eternal enjoyment (bhoga) namely, Vaikuṇṭha, were appointed to be Thy servants. By Thy compassion alone are we among those who are protected. Thy śeṣī is Bhagavān; all the rest are subject to Thy grace". W'hen the (etymological) meaning of the word Śrī is taken to be as stated in the śloka : “The whole world depends on Lakṣmī for support" that all things depend upon Her for protection and that she is attached to all things, that aspect of the Lord of Śrī which is declared by such words as Nārāyaṇa (Viṣṇu and Vāsudeva ) is declared also of Viṣṇu's consort. The author on Śrī Bhāṣya, too, has said Bhagavatī Śrī in the same way as He says Bhagavān Nārāyaṇa in that context; (i. e.) he calls for Bhagavatī to show that She has the same distinction as Her Spouse.
 
