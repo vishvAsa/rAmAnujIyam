@@ -1828,7 +1828,7 @@ El otro también **debe considerarse** como **se indica** ”(Sanniyogasiṣṭa
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ३२‘‘तद्-अन्तर्-भावात् त्वां न पृथग् अभिधत्ते श्रुतिर् अपि’’  
-(श्री-गुण-कोशः २८) 
+(श्री-गुण-रत्न-कोशः २८) 
 
 ऎऩ्ऱु समर्थित्तार्गळ्।
 </details>
@@ -1836,7 +1836,7 @@ El otro también **debe considerarse** como **se indica** ”(Sanniyogasiṣṭa
 <details><summary>नीलमेघः (सं)</summary>
 
 > ३२‘‘तद्-अन्तर्-भावात् त्वां न पृथग् अभिधत्ते श्रुतिर् अपि’’  
-(श्री-गुण-कोशः २८) 
+(श्री-गुण-रत्न-कोशः २८) 
 
 इति समर्थयाम् आसुः । 
 </details>
@@ -1859,7 +1859,7 @@ Incluso el Veda **no te menciona** por separado ".
 
 <details><summary>मूलम्</summary>
 
-३२‘‘तदन्तर्भावात्त्वां न पृथगभिधत्ते श्रुतिरपि’’(श्री-गुण-कोशः २८) ऎऩ्ऱु समर्थित्तार्गळ्।
+३२‘‘तदन्तर्भावात्त्वां न पृथगभिधत्ते श्रुतिरपि’’(श्री-गुण-रत्न-कोशः २८) ऎऩ्ऱु समर्थित्तार्गळ्।
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>

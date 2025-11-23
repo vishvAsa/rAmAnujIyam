@@ -5052,7 +5052,7 @@ y como atributo de Siddhopāya.
 इऩि श्रीयते चाखिलैर्नित्यमित्यादि प्रमाणङ्गळिल् सॊल्लुगिऱबडि पिराट्टि पुरुषकारतया सिद्धोपायविशेषणतया च आश्रयिक्कप्पडुव ळॆऩ्गिऱार् इप्पडि पुरुषकारभूतैयुमायिति । 
 </details>
 
-
+##### सिद्धोपायाङ्गता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > स्व-रूपं स्वातन्त्र्यम् (भगवत इदं चन्द्र-वदने !  
@@ -5099,7 +5099,7 @@ que **declara** a Tu Señor como **siendo** tal y cual."
 
 <details><summary>मूलम्</summary>
 
-“स्वरूपं स्वातन्त्र्यं”( श्री-गुण-कोशः २८), 
+“स्वरूपं स्वातन्त्र्यं”( श्री-गुण-रत्न-कोशः २८), 
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -5152,7 +5152,7 @@ y **no depende** de nada más",
 
 <details><summary>मूलम्</summary>
 
-“स्वतः श्रीस्त्वं विष्णोः स्वमसि”( श्री-गुण-कोशः ३१) 
+“स्वतः श्रीस्त्वं विष्णोः स्वमसि”( श्री-गुण-रत्न-कोशः ३१) 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5179,12 +5179,177 @@ como rayos al sol y cosas así,
 ऎऩ्गिऱ श्लोकङ्गळिऩ्बडिये आदित्यादिगळुक्कु प्रभादिगळ्बोले 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतिशय-कारिणिय् आय्क् कॊण्डु  
+सिद्धोपायत्तै आश्रयित्त् इरुक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+she **is attached** to Bhagavān (the Siddhopāya)  
+**contributing** to His splendour.
+
+</details>
+
+<details><summary>Español</summary>
+
+ella **está apegada** a Bhagavān (el Siddhopāya)  
+**contribuyendo** a Su esplendor.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतिशयकारिणियाय्क्कॊण्डु सिद्धोपायत्तै आश्रयित्तिरुक्कुम्। 
+</details>
+
+##### शेषता, शेषिता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎल्लार्क्कुम् सेव्यैय् आय् 
+</details>
+
+<details><summary>English</summary>
+
+When we take the etymological meaning to be  
+that she is to be reverenced by all, 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **tomamos** el significado etimológico como  
+Que ella debe **ser reverenciada** por todos,
+</details>
 
 
-she is attached to Bhagavān (the Siddhopāya)  
-contributing to His splendour.
+<details><summary>मूलम्</summary>
 
-When we take the etymological meaning to be that she is to be reverenced by all, while she (herself) reveres the Supreme Ruler over all, she is the lady entitled to the service of all (of us). She is herself of the nature of a śeṣa to the Lord as stated in: “ Thy beloved Spouse is Bhagavān who is called Puruṣottama" and in the śloka : "All things, those that move and those that do not move, are, O Goddess that rulest over Śrīraṅgam, for Thy līlā. The eternal sūris who are said to be constantly looking at the region of eternal enjoyment (bhoga) namely, Vaikuṇṭha, were appointed to be Thy servants. By Thy compassion alone are we among those who are protected. Thy śeṣī is Bhagavān; all the rest are subject to Thy grace". W'hen the (etymological) meaning of the word Śrī is taken to be as stated in the śloka : “The whole world depends on Lakṣmī for support" that all things depend upon Her for protection and that she is attached to all things, that aspect of the Lord of Śrī which is declared by such words as Nārāyaṇa (Viṣṇu and Vāsudeva ) is declared also of Viṣṇu's consort. The author on Śrī Bhāṣya, too, has said Bhagavatī Śrī in the same way as He says Bhagavān Nārāyaṇa in that context; (i. e.) he calls for Bhagavatī to show that She has the same distinction as Her Spouse.
+ऎल्लार्क्कुम् सेव्यैयाय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्वेश्वरऩै सेवित्त् इरुक्कुम् 
+
+ऎऩ्ऱु पॊरुळ् +++(श्रीः)+++ आऩ बोदु  
+ऎल्लार्क्कुम् स्वामिनिय् आय्
+</details>
+
+<details><summary>English</summary>
+
+while she (herself) **reveres** the Supreme Ruler over all,  
+she **is** the lady **entitled** to the service of all (of us), 
+</details>
+
+<details><summary>Español</summary>
+
+mientras ella (ella misma) **venera** al Gobernante Supremo sobre todo,  
+ella **es** la dama con derecho al **servicio** de todos (de nosotros),
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वेश्वरऩै सेवित्तिरुक्कुमॆऩ्ऱु पॊरुळाऩबोदु ऎल्लार्क्कुम् स्वामिनियाय्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“कान्तस्ते पुरुषोत्तमः”( चतुः-श्लोकी १), 
+</details>
+
+<details><summary>English</summary>
+
+> “ Thy beloved Spouse **is** Bhagavān  
+who **is called** Puruṣottama" 
+
+</details>
+
+<details><summary>Español</summary>
+
+> “Tu amado Esposo **es** Bhagavān  
+quien **se llama** Puruṣottama"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“कान्तस्ते पुरुषोत्तमः”( चतुः-श्लोकी १), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(हेलायाम् अखिलं चराचरम् इदं, भोगे विभूतिः परा,  
+पुण्यास् ते परिचार-कर्मणि सदा **पश्यन्ति** ये सूरयः ।  
+श्रीरङ्गेश्वर-देवि! केवल-कृपा-**निर्वाह्य**-वर्गे वयं,)  
+शेषित्वे परमः पुमान्, (**परिकरा** ह्य् एते तव **स्फारणे**+++(=व्याप्तौ)+++) ॥  
+( श्री-गुण-रत्न-कोशः २२) 
+</details>
+
+<details><summary>English</summary>
+
+> "All things, those that **move**  
+and those that **do not move**,  
+**are**, O Goddess that **rulest** over Śrīraṅgam, **for** Thy līlā.  
+The eternal sūris who **are said** to **be** constantly **looking** at the region of eternal enjoyment (bhoga) namely, Vaikuṇṭha,  
+**were appointed** to be Thy servants.  
+By Thy compassion alone **are** we among those who **are** protected.  
+Thy śeṣī **is** Bhagavān;  
+all the rest **are subject** to Thy grace". 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Todas las cosas, las que **se mueven**  
+y los que **no se mueven**,  
+**son**, oh Diosa que **gobierna** sobre Śrīraṅgam, **para** Tu līlā.  
+Los sūris eternos de quienes **se dice** que **están** constantemente **mirando** la región del disfrute eterno (bhoga), a saber, Vaikuṇṭha,  
+**fueron designados** para ser Tus siervos.  
+Sólo por Tu compasión **estamos** entre los que **están** protegidos.  
+Tu śeṣī **es** Bhagavān;  
+todos los demás **están sujetos** a Tu gracia".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“शेषित्वे परमः पुमान्”( श्री-गुण-रत्न-कोशः २२) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ बडि  
+इवऩुक्कु शेषम् आऩ निलै  
+सॊल्लिऱ्ऱ् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+She **is** herself of the nature of a śeṣa to the Lord  
+**as stated** in the above shlokas. 
+</details>
+
+<details><summary>Español</summary>
+
+Ella misma **es** de la naturaleza de una śeṣa para el Señor.  
+**como se indica** en los shlokas anteriores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱबडि इवऩुक्कुशेषमाऩ निलै सॊल्लिऱ्ऱाम्। 
+</details>
+
+
+
+
+
+
+
+
+When the (etymological) meaning of the word Śrī is taken to be as stated in the śloka : “The whole world depends on Lakṣmī for support" that all things depend upon Her for protection and that she is attached to all things, that aspect of the Lord of Śrī which is declared by such words as Nārāyaṇa (Viṣṇu and Vāsudeva ) is declared also of Viṣṇu's consort. The author on Śrī Bhāṣya, too, has said Bhagavatī Śrī in the same way as He says Bhagavān Nārāyaṇa in that context; (i. e.) he calls for Bhagavatī to show that She has the same distinction as Her Spouse.
 
 (3) & (4) When the (etymological) meaning (of Śrī) is taken to be, 'She listens' (śṛṇoti) and She makes listen (śrāvayati) it would mean: "When we who have offended (against the Lord) pray to Her that she should persuade Him to be accessible to us on our approaching His feet for protection, she listens to the cry of suffering of those who have sought Her as a refuge and pleads (to the Lord) on our behalf god helps to mitigate our suffering. The words which (literally) state her activity (really) aim at stating Her role as a mediator. Having heard from Him these words : "Those who seek my two feet as their sole upāya or refuge - I myself take them, O, my beloved! out of saṁsāra", and also "Compassion is a supreme virtue", she would, when the proper occasion arises, say, like the female pigeon to the male pigeon in the śloka :-- "Listen, my beloved husband, with attention to what I am going to say for your good. He who has sought refuge under you should be protected even if it be at the cost of your life". It may also be considered to have the following meanings : Having heard from the Supreme Ruler that He is ever bent on the advancement of the world's welfare, she would offer her advice to be listened to even by her enemies as in the passage : " If you should desire to save your abode (viz. Lanka) and to avoid a horrible death, it would be in your interest to obtain the friendship ot Śrī Rāma, who is the best of men "..
 
