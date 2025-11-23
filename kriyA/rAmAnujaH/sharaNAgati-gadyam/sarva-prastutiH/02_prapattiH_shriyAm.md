@@ -150,12 +150,34 @@ The next following 4 names exemplify the Paratva and Saulbhya of Lakshmi:
 
 दौर्लभ्यरूपाऽवद्यरहिता **निरवद्या** ।
 
+<details><summary>English</summary>
+
+Niravadya means that She is not unapproachable (like in the case of Paramaatman) nor affected with any faults.
+</details>
+
+
 कृताऽभिषेका **महिषी** । अतः अप्रतिहत-चिकीर्षिता ।
+
+<details><summary>English</summary>
+
+Mahishee means the anointed Queen; hence She is one whose wishes cannot be transgressed (or easily ignored by the Lord). 
+</details>
+
 
 **अखिल**-शब्दः स्वान्तर्भावपरः न ह्यस्मद्वर्जितमिति[^1_pg13] भावः । 
 
+<details><summary>English</summary>
+
+Akhila in Akhila Jaganmaataram denotes that Ramanuja includes himself among those to whom She is a mother. 
+</details>
+
 शरण्यं भगवन्तमलब्धवन्तः - **अशरण्याः**,  
 अहमपि तेष्वेक इत्याह-अनन्य इति । 
+
+<details><summary>English</summary>
+
+Asaranya means persons with no other resource go to for refuge. To show that the speaker includes himself in the class, the word Ananya is used. Thus far, prayers to Sri.
+</details>
 
 [^1_pg13]: ह्यस्मद्वर्जमितिइ
 

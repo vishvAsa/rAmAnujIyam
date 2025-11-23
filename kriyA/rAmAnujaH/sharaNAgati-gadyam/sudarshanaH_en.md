@@ -52,9 +52,7 @@ COMMENTARY
 
 
 4 
-
-
-Niravadya means that She is not unapproachable (like in the case of Paramaatman) nor affected with any faults. Mahishee means the anointed Queen; hence She is one whose wishes cannot be transgressed (or easily ignored by the Lord). Akhila in Akhila Jaganmaataram denotes that Ramanuja includes himself among those to whom She is a mother. Asaranya means persons with no other resource go to for refuge. To show that the speaker includes himself in the class, the word Ananya is used. Thus far, prayers to Sri. 
+ 
 to 
 Translation of Text 
 (1) With no other help to resort to, I seek Thee, Sri Devi, full of all beneficient qualities, seated in a forest of lotus flowers. (Thou art) the refuge of all the helpless; (Thou art) my Mother, indeed the Mother of the whole world, The Crowned Divine Queen of the Lord of the Devas, the pure and Unsullied, never separated from the Lord; Thyself Thine from, its qualities, and the most wonderful, limitless innumerable collection of auspicious qualities of Thine, such as, Greatness, Rulership and high Virtues, all to His liking and worthy of the natural form and qualities of Bhagavaan Naarayana. 
@@ -66,37 +64,12 @@ Why this Saranaagati.
 अस्तु ते । तयैव सर्व संपत्स्यते ॥ 
 | II' 
 COMMENTARY 
-2. Then the object for which Lakshmi Saranaagathi is performed as a preparatory step, is stated. The word Paaramaarthika goes to qualify the word Anubhava lower down. This word denotes either that Bhagavat Anubhava i.e. enjoyment of Vision of God is included in Parama Purushaartha or that God Himself is the Parama Purushaartha. It may also mean 'natural' and not artificial, i.e. caused by some external phenomenon. The word may be taken even as an adjective to the word Bhakti. Charanaaravinda implies that He is easily accessible to a Sesha or devotee, as easy as the breast-milk of a mother is available to her child. meant by Aikaantika is that the Saranaagati is performed with the sole object of pleasing the Lord and of no other, while Atyantika means that as a conséquence of the above, the Bhakti or Anubhava is a continuous experience (Nityayukta). Parabhakti may be defined as that longing of the devotee to 
-What is 
-5 
-have a direct vision of God for ever and ever. The achievement of that vision of God is Para Gnaana. The desire to have experience of that vision continued or perpetuated for ever and ever is Parama Bhakti. 
-The next six words beginning with Paripoorna go to qualify "Anubhava"; Paripoorana Anubhava means Perfect knowledge of the Lord! in all stages and all conditions; that is, in Para, Vyooha, Vibhava, Haardaa and Archaa stages which are His Divine manifestations. Anavarata (continuous) is the opposite of "once" or "sometimes". The word 'Nitya' is used to repel any idea of limitation, i.e. to denote endlessness. Why these two words? They are necessary to denote continuity without interruption, not like bathing or performing Agnihotra which are Nitya but are performed only at intervals or on occa sions. Visadatama dispels any doubt about the Anubhava not being direct. Ananya Proyojana is used to denote the opposite of there being some other object in view. Why? The answer is Anavadhika Atisaya Priya (limitless, intense affection). 
-For though there may be no other object in view, there may be limit to the Preeti (affection). To denote that it is not so, these words are used here. That is to say, the devotion caused by such experience is unlimited in its extensiveness. Athisaya is pre-eminence. "This experience of His by the Devoteee is explained to be with an ecsatcy of feeling caused by the experience already obtained by him. By Asesha Avastha: is6 
-meant such things as being seated in mantapa or resting in the Anta:pura: The word means service, like holding umbrella, waving 'Seshatva" chaamara, sounding kalanji (Thiruchinnam) serving as sandals, handing over betel leaves, etc. 
-But we know that Ananta (Sesha) and Garuda have their allotted tasks of service to the Lord. How then call all the services be open to a Devotee? To explain away any such doubt, Ramanuja uses the words Rati-Roopa. Service by whomsoever done is to the pleasure of the Lord. So it is pleasing to the doer; hence it also satisfies any another devotee in the same way as if he himself has done the service. So Aalavandaar uses the words "Praharshaishyami" only to gladden thee, not for my own pleasure.' Therefore, the service, even if rendered by another, there is satisfaction as if done be oneself, and that is due to the feeling caused by witnessing the pleasure of the Lord by such service rendered by the other or others; such satisfaction itself is the service. The implication of the fourth (Dative) case (Naraayanaaya) is set out here. Paarmaarthikee means that the Saranaagati is not the result of Tamo Guna but due to the desire to do what will be pleasing to the Lord. That is the natural distinctive attribute of Saranaagati, distinctive from other Upayaas (ways of attaining Him) " Yatha avasthita " denotes that Saranaagati is not due to any RajoGuna. This is to be taken along with true manner 
-7 
-It 
-in which Saranaagati is to be performed. denotes its quality. It cannot be true Saranaagati, if it is rendered unto a person not fit for such surrender. Avirata-uninterrupted still goal is reached. That is, it is the direct means to attain the fruit desired and not indirect, for, such indirect means do not last till the end but 'cease at some time on the way. 
-"Astu Te" these are the words of blessing by Lakshmi. Some say that these words were spoken by Sri Her-self; some say that the words are what Ramanuja himself says as having been spoken by Her as he felt sure that she would certainly say so; this is because she as Seeta has already declared in Ramayana "Tena Maitri Bhavatu" (word used by Seeta to Ravana). The words "Sarva" in Sarvam Sampatsyate is used to denote that not only the supplicant but also all those connected with him will be saved. 
-Translation of Text 
-(2) Pray Thee, bless my sincere and real Saranaagati at the Lotus Feet of Bhagavan so that it may become well and truly performed with all its angas (formalities) and be continued and without interruption till the goal of Purushaartha is reached. This with the object of securing for myself the privilege of the occupation of ever-service to the Lord. i.e. the satisfaction derived in all forms and kinds of service always suited to the conditions and circumstances of the moments and which is the result 
-8 
-of boundless intense devotion born out of the experience of enjoyment of the Lord that is, the unbounded limitless, unselfish love for no other end but that of service direct Him,-A love perfect, enjoyed fully in all His manifestations, not now but continuously with no interruption-This again promoted by the sincere one-pointed and ever intense Para Bhakti, (i.e. the desire for His Vision) Para Jnaana (direct perception of God) Parama Bhakti (the longing to have that perception continued for ever)-Bhakti at the Lotus Feet of the Lord. [This prayer Sri is acceded to by Her.] 
-Says Sri:-" So shall it be, Thus done, All is 
-attained," 
-Exposition of "Naraayana" 
-- 
-3. अखिल हेयप्रत्यनीककल्याणैकतानस्वेतरसमस्तवस्तु विलक्षणानन्तज्ञानानन्दैकखरूप ! स्वाभिमतानुरूपैकरूपाचिन्त्य - दिव्याद्भुत नित्य-निरवद्य-निरतिशयौज्वल्य सौन्दर्य सौगन्ध्यसौकुमार्य लावण्ययौवनाद्यनन्तगुणनिधिदिव्यरूप ! 
-COMMENTARY 
-3. Then follows the exposition of the meaning of the word Naraayana found in Dvaya, the word indicating the person described, as the Visesha of Naraya in Dvaya. "Akhila, etc "-Free from the pains and penalties or the changes which the sentient and non-sentient things are liable to in this World. 
+
+
+
 46 
 9 
-Pratyaneeka" denotes not merely the absence of the evil qualities but that He destroys evil in others. The words Aananda means being good to oneself, and anukuoola means good to others. It may also be taken to explain the word Kalyaana. 
-Kalyaana Aikataana mean the sole abode of, and completely full of, all kinds of, Virtues. Besides, Kalyaana means also good not only to one's self but also to others. "Eka" excludes the possibility of being jada or inauspicious in any portion. 
-be 
-Then, Ramanuja goes on to describe the Divya Vigraha, i.e., Divine personality of the Lord. understood as Abhimata Anuroopa are to 
-that He is distinbefore. Ekaroopa denotes guished by His two qualities, (1) freedom from evils and fullness of good qualities hence to be worshipped (II) being the object of attainment (Upeya). Achintya, that is beyond the reach of imagination or thought. Divya denotes that the Form is diferent in substance from common ordinary forms. The second Divya means that He is also different in structure. Adbhuta; presenting new forms of beauty every other minute; "Ever lasting Nitya; Niravadya means Rare flawlessness, the fault of being not easily meditatable; unlike in the case svaroopa of God, His Vigraha is more easy to contemplate-Soundaraya :-loveliness-Laavanya:Charm of the whole structure-Adi may denote other beauties, like, roundness of limbs length of 
-arms. 
+
 is 
 10 
 Translation of Text 

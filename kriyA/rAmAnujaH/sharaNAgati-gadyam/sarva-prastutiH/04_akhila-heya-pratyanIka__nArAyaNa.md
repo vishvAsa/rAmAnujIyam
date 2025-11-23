@@ -20,11 +20,36 @@ title = "०४ अखिल-हेय-प्रत्यनीक-चूर्�
 
 अथ द्वयस्थं **नारायण**-शब्दं विवृणोति अखिल इत्य्-आदि-ना । तत्र प्रथमपदेन **नार**-शब्दवाच्यानां धर्म्युच्यते । **अखिल**-शब्दः चिदचिद्गतक्लेशादिभावविकारादिहेयपरः ।
 
+<details><summary>English</summary>
+
+Then follows the exposition of the meaning of the word Naraayana found in Dvaya, the word indicating the person described, as the Visesha of Naraya in Dvaya. "Akhila, etc "-Free from the pains and penalties or the changes which the sentient and non-sentient things are liable to in this World. 
+</details>
+
 <dg 23/>
 
 **प्रत्यनीक** इति न केवलं विरहमात्रमित्यर्थः ।  
+
+<details><summary>English</summary>
+
+Pratyaneeka" denotes not merely the absence of the evil qualities but that He destroys evil in others. 
+</details>
+
 **आनन्दकल्याण**-शब्दौ स्वपरापेक्षया अनुकूलत्वपरौ ।  
+
+<details><summary>English</summary>
+
+The words Aananda means being good to oneself, and anukuoola means good to others. It may also be taken to explain the word Kalyaana. 
+</details>
+
 आनन्दविवरणं वा **कल्याण**-शब्दः । कल्याणानां गुणानां[^1_pg24] एकास्पदमिति वा **कल्याणैकतान**-शब्दार्थः । यद्वा स्वसम्बन्धिनामपि मङ्गलावहता **कल्याण**-शब्दार्थः । **एक**-शब्देन प्रदेशभेदेन जडत्वप्रतिकूलत्वव्युदासः ।
+
+<details><summary>English</summary>
+
+
+Kalyaana Aikataana mean the sole abode of, and completely full of, all kinds of, Virtues. Besides, Kalyaana means also good not only to one's self but also to others. "Eka" excludes the possibility of being jada or inauspicious in any portion. 
+ 
+</details>
+
 
 [^1_pg24]: गुणानां वा -इ ।
 
@@ -58,18 +83,71 @@ ________________________
 
 अथ रूपम् । **अभिमतानुरूप**-शब्दौ पूर्ववत् ।
 
+<details><summary>English</summary>
+
+Then, Ramanuja goes on to describe the Divya Vigraha, i.e., Divine personality of the Lord. Abhimata Anuroopa are to be understood as before. 
+
+</details>
+
 **एकरूपत्वम्** - उभयलिङ्गत्वप्राप्यत्वोपास्यत्वैः । तर्कागोचरत्वम् अचिन्त्यत्वम् ।  
+
+<details><summary>English</summary>
+
+Ekaroopa denotes that He is distinbefore. distinguished by His two qualities, (I) freedom from evils and fullness of good qualities hence to be worshipped (II) being the object of attainment (Upeya). Achintya, that is beyond the reach of imagination or thought. 
+</details>
+
 **दिव्य**-शब्दद्वयम् द्रव्य-संस्थान-वैलक्षण्य-परम् ।  
+
+<details><summary>English</summary>
+
+Divya denotes that the Form is diferent in substance from common ordinary forms. The second Divya means that He is also different in structure. 
+</details>
+
 **अद्भुतत्वं** प्रतिक्षणम् अपूर्वत्वम् ।  
+
+<details><summary>English</summary>
+
+Adbhuta; presenting new forms of beauty every other minute; 
+</details>
+
 नित्यसंस्थानत्वं **नित्यत्वम्** ।  
+
+<details><summary>English</summary>
+
+"Ever lasting" is Nitya;  
+</details>
+
 दौर्लभ्यावद्यराहित्यम् **निरवद्यत्वम्** ।
 
+<details><summary>English</summary>
+
+Niravadya means Rare flawlessness, the fault of being not easily meditatable; unlike in the case svaroopa of God, 
+</details>
+
+
 **सौन्दर्यम्** - अवयवशोभा ।  
+
+<details><summary>English</summary>
+
+His Vigraha is more easy to contemplate-Soundaraya:- loveliness-
+</details>
+
 **लावण्यम्** - अवयविशोभा ।+++(4)+++
+
+<details><summary>English</summary>
+
+Laavanya:- Charm of the whole structure-
+</details>
 
 <dg 27/>
 
 **आदि-**-शब्दार्थः - पीनवृत्तायतभुजत्वादि । अथ दिव्यात्मगुणाः । स्वाभाविक इत्य्-आदि स्फुटम् ।
+
+<details><summary>English</summary>
+
+Adi may denote other beauties, like, roundness of limbs length of arms.
+</details>
+
 </details>
 
 <details><summary>वेङ्कट-नाथः</summary>
@@ -212,6 +290,9 @@ beginning with splendor, beauty, fragrance, tenderness, handsome demeanor, and y
 गोपालदेशिकाह्निके लुप्तोऽयम् भागः। 
 </details>
 
+""
+""
+""
 <details><summary>सुदर्शन-भट्टः</summary>
 
 +++(ज्ञान-बलैश्वर्य-वीर्य-शक्ति-तेजः-)+++षाड्गुण्यम् -साधारणम् ।
