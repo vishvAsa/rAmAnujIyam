@@ -54,7 +54,11 @@ COMMENTARY
 4 
 
 
-Niravadya means that She is not unapproachable (like in the case of Paramaatman) nor affected with any faults. Mahishee means the anointed Queen; hence She is one whose wishes cannot be transgressed (or easily ignored by the Lord). Akhila in Akhila Jaganmaataram denotes that Ramanuja includes himself among those to whom She is a mother. Asaranya means persons with no other resource go to for refuge. To show that the speaker includes himself in the class, the word Ananya is used. Thus far, prayers to Sri. 
+Niravadya means that She is not unapproachable (like in the case of Paramaatman) nor affected with any faults. Mahishee means the anointed Queen; hence She is one whose wishes cannot be transgressed (or easily ignored by the Lord). 
+
+Akhila in Akhila Jaganmaataram denotes that Ramanuja includes himself among those to whom She is a mother. 
+
+Asaranya means persons with no other resource go to for refuge. To show that the speaker includes himself in the class, the word Ananya is used. Thus far, prayers to Sri. 
 to 
 Translation of Text 
 (1) With no other help to resort to, I seek Thee, Sri Devi, full of all beneficient qualities, seated in a forest of lotus flowers. (Thou art) the refuge of all the helpless; (Thou art) my Mother, indeed the Mother of the whole world, The Crowned Divine Queen of the Lord of the Devas, the pure and Unsullied, never separated from the Lord; Thyself Thine from, its qualities, and the most wonderful, limitless innumerable collection of auspicious qualities of Thine, such as, Greatness, Rulership and high Virtues, all to His liking and worthy of the natural form and qualities of Bhagavaan Naarayana. 
