@@ -66,25 +66,10 @@ Why this Saranaagati.
 COMMENTARY 
 
 
-Translation of Text 
-(2) Pray Thee, bless my sincere and real Saranaagati at the Lotus Feet of Bhagavan so that it may become well and truly performed with all its angas (formalities) and be continued and without interruption till the goal of Purushaartha is reached. This with the object of securing for myself the privilege of the occupation of ever-service to the Lord. i.e. the satisfaction derived in all forms and kinds of service always suited to the conditions and circumstances of the moments and which is the result 
-8 
-of boundless intense devotion born out of the experience of enjoyment of the Lord that is, the unbounded limitless, unselfish love for no other end but that of service direct Him,-A love perfect, enjoyed fully in all His manifestations, not now but continuously with no interruption-This again promoted by the sincere one-pointed and ever intense Para Bhakti, (i.e. the desire for His Vision) Para Jnaana (direct perception of God) Parama Bhakti (the longing to have that perception continued for ever)-Bhakti at the Lotus Feet of the Lord. [This prayer Sri is acceded to by Her.] 
-Says Sri:-" So shall it be, Thus done, All is 
-attained," 
-Exposition of "Naraayana" 
-- 
-3. अखिल हेयप्रत्यनीककल्याणैकतानस्वेतरसमस्तवस्तु विलक्षणानन्तज्ञानानन्दैकखरूप ! स्वाभिमतानुरूपैकरूपाचिन्त्य - दिव्याद्भुत नित्य-निरवद्य-निरतिशयौज्वल्य सौन्दर्य सौगन्ध्यसौकुमार्य लावण्ययौवनाद्यनन्तगुणनिधिदिव्यरूप ! 
-COMMENTARY 
-3. Then follows the exposition of the meaning of the word Naraayana found in Dvaya, the word indicating the person described, as the Visesha of Naraya in Dvaya. "Akhila, etc "-Free from the pains and penalties or the changes which the sentient and non-sentient things are liable to in this World. 
+
 46 
 9 
-Pratyaneeka" denotes not merely the absence of the evil qualities but that He destroys evil in others. The words Aananda means being good to oneself, and anukuoola means good to others. It may also be taken to explain the word Kalyaana. 
-Kalyaana Aikataana mean the sole abode of, and completely full of, all kinds of, Virtues. Besides, Kalyaana means also good not only to one's self but also to others. "Eka" excludes the possibility of being jada or inauspicious in any portion. 
-be 
-Then, Ramanuja goes on to describe the Divya Vigraha, i.e., Divine personality of the Lord. understood as Abhimata Anuroopa are to 
-that He is distinbefore. Ekaroopa denotes guished by His two qualities, (1) freedom from evils and fullness of good qualities hence to be worshipped (II) being the object of attainment (Upeya). Achintya, that is beyond the reach of imagination or thought. Divya denotes that the Form is diferent in substance from common ordinary forms. The second Divya means that He is also different in structure. Adbhuta; presenting new forms of beauty every other minute; "Ever lasting Nitya; Niravadya means Rare flawlessness, the fault of being not easily meditatable; unlike in the case svaroopa of God, His Vigraha is more easy to contemplate-Soundaraya :-loveliness-Laavanya:Charm of the whole structure-Adi may denote other beauties, like, roundness of limbs length of 
-arms. 
+
 is 
 10 
 Translation of Text 
