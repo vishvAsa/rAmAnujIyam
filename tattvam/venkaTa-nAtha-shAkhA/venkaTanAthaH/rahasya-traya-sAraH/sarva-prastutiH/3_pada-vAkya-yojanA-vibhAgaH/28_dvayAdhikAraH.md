@@ -5161,6 +5161,19 @@ y **no depende** de nada más",
 आदित्यादिगळुक्कु प्रभादिगळ् बोले 
 </details>
 
+<details><summary>English</summary>
+
+As **stated** in these ślokas -  
+like rays to the sun and the like, 
+
+</details>
+
+<details><summary>Español</summary>
+
+Como **se dice** en estos ślokas:  
+como rayos al sol y cosas así,
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऎऩ्गिऱ श्लोकङ्गळिऩ्बडिये आदित्यादिगळुक्कु प्रभादिगळ्बोले 
@@ -5168,8 +5181,8 @@ y **no depende** de nada más",
 
 
 
-As stated in these ślokas -  
-she is attached to Bhagavān (the Siddhopāya) like rays to the sun and the like, contributing to His splendour.
+she is attached to Bhagavān (the Siddhopāya)  
+contributing to His splendour.
 
 When we take the etymological meaning to be that she is to be reverenced by all, while she (herself) reveres the Supreme Ruler over all, she is the lady entitled to the service of all (of us). She is herself of the nature of a śeṣa to the Lord as stated in: “ Thy beloved Spouse is Bhagavān who is called Puruṣottama" and in the śloka : "All things, those that move and those that do not move, are, O Goddess that rulest over Śrīraṅgam, for Thy līlā. The eternal sūris who are said to be constantly looking at the region of eternal enjoyment (bhoga) namely, Vaikuṇṭha, were appointed to be Thy servants. By Thy compassion alone are we among those who are protected. Thy śeṣī is Bhagavān; all the rest are subject to Thy grace". W'hen the (etymological) meaning of the word Śrī is taken to be as stated in the śloka : “The whole world depends on Lakṣmī for support" that all things depend upon Her for protection and that she is attached to all things, that aspect of the Lord of Śrī which is declared by such words as Nārāyaṇa (Viṣṇu and Vāsudeva ) is declared also of Viṣṇu's consort. The author on Śrī Bhāṣya, too, has said Bhagavatī Śrī in the same way as He says Bhagavān Nārāyaṇa in that context; (i. e.) he calls for Bhagavatī to show that She has the same distinction as Her Spouse.
 

@@ -43,13 +43,32 @@ title = "०२ प्रपत्तिः श्रियाम्"
 पुरुष-कार--भूत-- वात्सल्य-निर्भर-लक्ष्मी-समाश्रयणं  
 श्रीमच्-छब्द-विवरण-मुखेना ऽभिधीयते ।
 
-यद्वा श्रियं प्रपद्य  
-तत्-सन्निधौ +++(पूर्वम् ऊह्येन)+++ मूल-मन्त्रेण स्वरूपानुरूप-पुरुषार्थ-प्रार्थनं  
-+++(साक्षात्-)+++ तद्-उपाय-प्रार्थना-पर्यन्तं कृत्वा,  
+<details><summary>English</summary>
+
+I. This Gadya is a commentary on the principle of the Dvaya Mantra, which declares the Upaaya and Upeya nature of Brahman.  
+In this context, it will be noticed that the Mantra (Dvaya) starts with the mention of Sri who is full of (maternal) love and who is the ( Purushakaara) interceder for approaching the Lord, the Almighty Father, who like all fathers is sometimes harsh and [[2]] not easily approachable.  
+She is first to be propitiated. Hence, the Gadya starts with the exposition of the words "Sri" or "Srimat". 
+</details>
+
+
+यद्वा  
+"श्रियं प्रपद्य"  
+तत्-सन्निधौ मूल-मन्त्रेण +++(साक्षात्)+++ स्वरूपानुरूप-पुरुषार्थ-प्रार्थनं  
+तद्-उपाय-प्रार्थना-पर्यन्तं कृत्वा,  
 
 "तद्-अनुज्ञया द्वयम् अनुसन्धीयत"  
 इति पूर्वाचार्यानुसन्धानम् अनुस्मरन्  
-प्रथमं श्रियं प्रपद्यते +++(वक्ष्यमाण-पुरुषकारार्थं)+++ "भगवत्" इति ।
+
+प्रथमं श्रियं प्रपद्यते +++(वक्ष्यमाण-पुरुषकारार्थं)+++ "भगवद्" इति ।
+
+<details><summary>English</summary>
+
+It may also be that "Sri" is first taken up for comment,  
+considering the fact that our ancient Aachaaryas have said that  
+
+> Sri must first be approached and her affectionate permission taken from her by praying to her for Purushaartha and also for being made fit for performing the (Upaaya) (i.e. Saranagati for achieving the Purshaartha) by the utterance of the Moola Mantra.
+</details>
+
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
@@ -68,21 +87,66 @@ title = "०२ प्रपत्तिः श्रियाम्"
 
 
 **भगवन्-नारायण**-शब्दौ गुण-विभूति-पौष्कल्य-परौ,  
-द्विषट्काष्टार्णयोर् अपि[^३_pg5] तत्-साहित्य-ज्ञान-परौ च ।  
+द्विषट्काष्टार्णयोर् अपि[^३_pg5] तत्-साहित्य-ज्ञान-परौ च ।
+
+[^३_pg5]: द्विषट्क - द्वादशाक्षरमन्त्रः । 'ओं नमो भगवते वासुदेवाय' इति ।
+
+<details><summary>English</summary>
+
+The words "Bhagvat" and "Naraayana indicate the fullness of Guna and Vibhooti and remind us that in both "Om Namo Bhagavate Vasudevaaya" (Dwaadasa Akshara) and "Om Namo Naraayanaaya" (Ashta Akshara), Lakshmi is closely associated. 
+</details>
+
 अनुरूपेऽनभिमतिर्  
 अननुरूपे चाभिमतिश्च दृश्यत इति  
 तद्-व्युदासाय **अभिमतानुरूपशब्दौ** ।
 
-[^३_pg5]: द्विषट्क - द्वादशाक्षरमन्त्रः । 'ओं नमो भगवते वासुदेवाय' इति ।
+<details><summary>English</summary>
+
+The words Anuroopa and Abhimata are used in conjunction for, in some cases, there may be Abhimata (but not Anuroopa) and again, in some cases, Anuroopa but not Abhimata.  
+The object is to dispel such an idea, that is to say, that both do co-exist here.
+</details>
 
 रूपानन्तर-**गुण**-शब्दः सौन्दर्यादि-परः ।  
+
+<details><summary>English</summary>
+
+The word Guna following Roopa denotes the qualities of the Vigraha, such as, beauty, etc. 
+</details>
+
+
 परत्व-सौलभ्य-कोटि-निविष्ट-गुण-जात-प्रदर्शनार्थौ **ऐश्वर्य-शील-शब्दौ** ।  
+
+<details><summary>English</summary>
+
+The words, Aiswarya and Seela are used to denote the collection of qualities implied by Rulership and accessibility. 
+</details>
+
+
 **अनवधिक** इत्य्-आदि स्पष्टार्थः[^1_pg6] ।  
-परत्व-सौलभ्ययोस् समाख्याः प्रमाणयति **पद्म** इत्य्-आदिभिश् चतुर्भिः पदैः ।
 
 [^1_pg6]: स्फुटार्थः - आ।
 
+<details><summary>English</summary>
+
+Anavadhika is easily understood as greatness with no limit or boundary, i.e. " with nothing above." 
+</details>
+
+
+परत्व-सौलभ्ययोस् समाख्याः प्रमाणयति **पद्म** इत्य्-आदिभिश् चतुर्भिः पदैः ।
+
+<details><summary>English</summary>
+
+The next following 4 names exemplify the Paratva and Saulbhya of Lakshmi:  
+</details>
+
+
 सदाऽपराधानभिज्ञतायै **नित्यानपायिनीम्** इति पदम् ।
+
+<details><summary>English</summary>
+
+'Nityaanupaayini' is used to show that Lakshmi is [[3]] ever present with, and not separated from, the Lord, so that She may ever be ready to see that the faults of erring souls may be veiled from His notice. 
+</details>
+
 
 दौर्लभ्यरूपाऽवद्यरहिता **निरवद्या** ।
 
