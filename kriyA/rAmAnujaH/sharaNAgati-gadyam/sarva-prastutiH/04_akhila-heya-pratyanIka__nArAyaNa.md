@@ -116,9 +116,6 @@ Then, Ramanuja goes on to describe the Divya Vigraha, i.e., Divine personality o
 
 </details>
 
-""
-""
-""
 **एकरूपत्वम्** - उभयलिङ्गत्वप्राप्यत्वोपास्यत्वैः । तर्कागोचरत्वम् अचिन्त्यत्वम् ।  
 
 <details><summary>English</summary>
@@ -331,39 +328,178 @@ beginning with splendor, beauty, fragrance, tenderness, handsome demeanor, and y
 Then follow the natural qualities of Paramaatman. Svaabhaavika-etc. The meaning is clear. The first six characteristics are common, then the next twelve are peculiar as being useful for thegrant of salvation to the Devotees. 
 </details>
 
-**सौशील्य** इत्य्-आदि-शीलं हि नाम - महतो मन्दैस्सहनीरन्ध्रेण संश्लेषस्वभावत्वम् । तस्य च प्रयोजनान्तरौपयिकत्वाभावात्, सौशील्यम् । यद्वा ईश्वरत्वबुद्ध्या यथा आश्रितानां साध्वसं न स्यात्, यथा च स्वयमपि न स्वस्य परत्वबुद्ध्या विलक्षणस्स्यात्, तथा शीलत्वम् - सौशील्यम् । वात्सल्यम् - दोषेऽपि गुणत्वबुद्धिः । यथा सद्यः प्रसूतायाः धेनोर्वत्से, इदञ्च क्षमाकाष्ठारूपम्[^1_pg29] । अत एव हि पृथगनुक्तिः क्षमायाः ।
+**सौशील्य** इत्य्-आदि-शीलं हि नाम - महतो मन्दैस्सहनीरन्ध्रेण संश्लेषस्वभावत्वम् । 
 
 <details><summary>English</summary>
 
-Seela is where a superior has as his natural quality the quality of moving freely with the inferiors; when that is exercised for no selfish or other purpose, it is Sau-Seelya. That is to say, Iswara does not cause fear in the heart of the Devotees by his Iswaratva nor does he generate any feeling in them of undue hesitation to approch Him. by His superiority. 
+Seela is where a superior has as his natural quality the quality of moving freely with the inferiors;
+</details>
 
-Vaatsalya is the quality to find good even in Evil: Just as a cow fondles its new born dirty calf. This quality is one of the features of extreme patience. Hence Patience 
-is not mentioned separatelty. 
+तस्य च प्रयोजनान्तरौपयिकत्वाभावात्, सौशील्यम् । 
+
+<details><summary>English</summary>
+
+when that is exercised for no selfish or other purpose, it is Sau-Seelya.
+</details>
+
+यद्वा ईश्वरत्वबुद्ध्या यथा आश्रितानां साध्वसं न स्यात्, यथा च स्वयमपि न स्वस्य परत्वबुद्ध्या विलक्षणस्स्यात्, तथा शीलत्वम् - सौशील्यम् । 
+
+<details><summary>English</summary>
+
+That is to say, Iswara does not cause fear in the heart of the Devotees by his Iswaratva nor does he generate any feeling in them of undue hesitation to approch Him. by His superiority. 
+</details>
+
+वात्सल्यम् - दोषेऽपि गुणत्वबुद्धिः । 
+
+<details><summary>English</summary>
+
+Vaatsalya is the quality to find good even in Evil:
+</details>
+
+यथा सद्यः प्रसूतायाः धेनोर्वत्से, 
+
+<details><summary>English</summary>
+
+Just as a cow fondles its new born dirty calf.
+</details>
+
+इदञ्च क्षमाकाष्ठारूपम्[^1_pg29] । 
+
+<details><summary>English</summary>
+
+This quality is one of the features of extreme patience. 
 </details>
 
 [^1_pg29]: क्षमाकाष्ठानुरूपम् - इ ।
 
-<dg 29/>
-
-आश्रितविरहासहत्वं - **मार्दवम्** । तेष्वस्थानभयशङ्कित्वं वा । मनोवाक्कायैकरूप्यम् - आर्जवम् । यथा 'ऋजुबुद्धितया सर्वमाख्यातुमुपचक्रमे' इति । सौहार्दम् - तेषामभिमतश्रेयोभिध्यायित्वम्, स्वसत्तानपेक्षतद्रक्षापरत्वं वा । साम्यम् - जन्मवृत्तगुणवैषम्यमनपेक्ष्यं सर्वेषां समाश्रयणीयत्वे स्वीकृतानां तेषां सम्भावनाविशेषेषु मनसा - तद्विषयादरे च समत्वम्, तारतम्यधीरहितत्वम् । 
+अत एव हि पृथगनुक्तिः क्षमायाः ।
 
 <details><summary>English</summary>
 
-Maardava is the feeling of loss at any separation from the devotees, a feeling of apprehension when they are not present at any place. 
-
-Aarjava denotes perfect correlation of mind, speech and body in action. So it is said "Rajubudhyat sarvam akhayatum upachakarme" "because of His artlessness He (Rama) began to narrate to Surpanaka all about Himself" Sauhaarda:- Ever wishing well of His Devotees:- Intent in doing good to them without caring for any return. Saamya is the quality which does not make differentiation on account of birth, conduct or character; making Himself easily available to them all and also rewarding. them, not minding any difference in the gifts offered by them or their nature or value, in short no feeling of any difference.
+Hence Patience is not mentioned separatelty. 
 </details>
 
-कारुण्यम् - स्वार्थाऽनपेक्षा[^2_pg30] परदुःखाऽसहिष्णुता । माधुर्यम् - हन्तुं प्रवृत्तावपि रसापहत्वम् यथा 'एह्येहि फुल्लाम्बुजपत्रनेत्र!' (म.भा.भी. ५९-९८) इति । गाम्भीर्यम् - आश्रितविषये 'एवमनेन चिकीर्षितम्' इति परिच्छेत्तुमशक्यत्वम्, दीयमानगौरवसम्प्रदानलाघवाऽनपेक्षत्वं वा । औदार्यम्'अन्यस्मै ददामि' इत्यभिमानविरहेण 'पुत्रवत्प्राप्तं भुङ्क्ते' इति बुद्ध्या दातृत्वम् । इदमियद्दत्तं मयेत्यस्मरणशीलत्वं वा । यद्वा सर्वं दत्वापि 'ऋणं प्रवृद्धमिव मे' इत्यतृप्तत्वम् औदार्यम् । चातुर्यम्आश्रितार्थेष्वजडक्रियत्वम् । यथा साऽनुबन्धरावणवधेन विभीषणाऽभिषेकः । यद्वा आश्रितदोषगोपनं वा - चातुर्यम्, यथा पित्रादेरिव ।
+
+<dg 29/>
+
+आश्रितविरहासहत्वं - **मार्दवम्** । 
 
 <details><summary>English</summary>
 
-Kaarunya:-Removing the calamities and grievances without expecting any return. 
+Maardava is the feeling of loss at any separation from the devotees,
 
-Maadhurya: kindness shown even in inflicting punishment, such as, death. (ehi ehi phullaambuja patra netra) when Krishna goes to hit him with chakra, Bhishma cried to "Come, Come, Oh the lotus-eyed". Gaambheerya - of immesasurable depth (worth) as the greatness and value of the favours granted by Him to His devotees bear no proportion to the insignificance of the deserts of the favoured. Audaarya:- with no feeling that any devotee has been over favoured or not satisfied with the favours granted. "Krishna felt indebted and remembered the debt when Drowpadi cried for help when being dishonoured:- or with no feeling that favours are granted to a stranger, but is only as if to son who is entitled to the patrimony. Chaaturya - affording instant relief to his Devotees overlooking their faults just like a father. Rama peformed the Abhisheka to Vibhishana on the battlefield itself. 
+</details>
+
+तेष्वस्थानभयशङ्कित्वं वा । 
+
+<details><summary>English</summary>
+
+a feeling of apprehension when they are not present at any place.
+
+</details>
+
+मनोवाक्कायैकरूप्यम् - आर्जवम् । 
+
+<details><summary>English</details>
+
+Aarjava denotes perfect correlation of mind, speech and body in action.
+
+</details>
+
+यथा 'ऋजुबुद्धितया सर्वमाख्यातुमुपचक्रमे' इति । 
+
+<details><summary>English</summary>
+
+So it is said "Rajubudhyat sarvam akhayatum upachakarme" "because of His artlessness He (Rama) began to narrate to Surpanaka all about Himself"
+
+</details>
+
+सौहार्दम् - तेषामभिमतश्रेयोभिध्यायित्वम्, स्वसत्तानपेक्षतद्रक्षापरत्वं वा । 
+
+<details><summary>English</summary>
+
+Sauhaarda:- Ever wishing well of His Devotees:- Intent in doing good to them without caring for any return.
+
+</details>
+
+साम्यम् - जन्मवृत्तगुणवैषम्यमनपेक्ष्यं सर्वेषां समाश्रयणीयत्वे स्वीकृतानां तेषां सम्भावनाविशेषेषु मनसा - तद्विषयादरे च समत्वम्, तारतम्यधीरहितत्वम् । 
+
+<details><summary>English</summary> 
+
+Saamya is the quality which does not make differentiation on account of birth, conduct or character; making Himself easily available to them all and also rewarding. them, not minding any difference in the gifts offered by them or their nature or value, in short no feeling of any difference.
+</details>
+
+कारुण्यम् - स्वार्थाऽनपेक्षा[^2_pg30] परदुःखाऽसहिष्णुता । 
+
+<details><summary>English</summary>
+
+Kaarunya:-Removing the calamities and grievances without expecting any return.
+
 </details>
 
 [^2_pg30]: स्वार्थानपेक्षया इ ।
+
+माधुर्यम् - हन्तुं प्रवृत्तावपि रसापहत्वम् यथा 'एह्येहि फुल्लाम्बुजपत्रनेत्र!' (म.भा.भी. ५९-९८) इति ।
+
+<details><summary>English</summary>
+
+Maadhurya: kindness shown even in inflicting punishment, such as, death. (ehi ehi phullaambuja patra netra) when Krishna goes to hit him with chakra, Bhishma cried to "Come, Come, Oh the lotus-eyed".
+
+</details>
+
+गाम्भीर्यम् - आश्रितविषये 'एवमनेन चिकीर्षितम्' इति परिच्छेत्तुमशक्यत्वम्, दीयमानगौरवसम्प्रदानलाघवाऽनपेक्षत्वं वा । 
+
+<details><summary>English</summary>
+
+Gaambheerya - of immesasurable depth (worth) as the greatness and value of the favours granted by Him to His devotees bear no proportion to the insignificance of the deserts of the favoured.
+
+</details>
+
+औदार्यम्'अन्यस्मै ददामि' इत्यभिमानविरहेण 'पुत्रवत्प्राप्तं भुङ्क्ते' इति बुद्ध्या दातृत्वम् । 
+
+<details><summary>English</summary>
+
+Audaarya:- with no feeling that any devotee has been over favoured or not satisfied with the favours granted.
+
+</details>
+
+इदमियद्दत्तं मयेत्यस्मरणशीलत्वं वा । 
+
+<details><summary>English</summary>
+
+or with no feeling that favours are granted to a stranger, but is only as if to son who is entitled to the patrimony.
+</details>
+
+यद्वा सर्वं दत्वापि 'ऋणं प्रवृद्धमिव मे' इत्यतृप्तत्वम् औदार्यम् । 
+
+<details><summary>English</summary>
+Krishna felt indebted and remembered the debt when Drowpadi cried for help when being dishonoured.
+</details>
+
+चातुर्यम्आश्रितार्थेष्वजडक्रियत्वम् । 
+
+<details><summary>English</summary>
+
+Chaaturya - affording instant relief to his Devotees
+</details>
+
+यथा साऽनुबन्धरावणवधेन विभीषणाऽभिषेकः । 
+
+<details><summary>English</summary>
+
+Rama performed the Abhisheka to Vibhishana on the battlefield itself.
+</details>
+
+यद्वा आश्रितदोषगोपनं वा - चातुर्यम्, यथा पित्रादेरिव ।
+
+<details><summary>English</summary>
+
+overlooking their faults just like a father.
+</details>
+
+""
+""
+""
 
 **स्थैर्यम्** 'न त्यजेयं कथञ्चन' (रा. अयो. १०-३) इत्यभिसन्धिमत्वम् । भक्तरक्षोपयोगिगुणाः द्वादश । अथ तत्रैव रक्षणे विरोधिनिरसनौपाधिकं त्रिकम् । धैर्यम् -स्वस्मिन् प्रतिपक्षागमे सत्यविकृतत्वम् । यथा - 'जटाचूड[^1_pg31] ग्रन्थिं दृढयति' इति । स्वगृह इव परबले प्रवेशसामर्थ्यम्शौर्यम् । प्रवेशे सति तन्निरासकौशलं - पराक्रमः । यथा 'छिन्नं, भिन्नम्' इत्य्-आदि । अथ भोग्यगुणयुगम् । सत्यकाम इति नित्यविभूतिमत्त्वम् 'काम्यस्स्पृहा स्मरः कामः' इत्यनेकार्थः ।
 
