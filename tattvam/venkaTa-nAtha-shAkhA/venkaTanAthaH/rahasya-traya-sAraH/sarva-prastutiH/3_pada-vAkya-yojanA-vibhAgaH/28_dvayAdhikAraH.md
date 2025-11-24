@@ -6181,16 +6181,100 @@ porque **¿no eres Tú** Śrī?"
 भट्टरुम् निरुपाधिकमङ्गळत्वत्तै निऩैत्तु “श्रीरसि यतः”( श्री-गुण-रत्न-कोशः २९) ऎऩ्ऱार्।
 </details>
 
+#### द्वये ऽनुसन्धान-स्थानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अर्थङ्गळिल्  
+ईश्वरऩ्-उडैय उपाय-भावत्तुक्क् उपयुक्तङ्गळ् आऩवै पूर्व-खण्डत्तिलुम्
+</details>
+
+<details><summary>English</summary>
+
+Among these meanings  
+those that **are appropriate** to Bhagavān's being the upāya   
+**should be borne** in mind  
+in regard to the first part (of Dvaya),  
+</details>
+
+<details><summary>Español</summary>
+
+Entre estos significados  
+aquellos que **son apropiados** para que Bhagavān **sea** el upāya   
+**debe tenerse** en cuenta  
+con respecto a la primera parte (de Dvaya),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थङ्गळिल् ईश्वरऩुडैय उपायभावत्तुक्कुपयुक्तङ्गळाऩवै पूर्वखण्डत्तिलुम् 
+</details>
 
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Among these meanings those that are appropriate to Bhagavān's being the upāya  should be borne in mind in regard to the first part (of Dvaya), while those that are appropriate to Bhagavān's being the object of attainment should be borne in mind in regard to the second part (of Dvaya ).
+प्राप्यतैक्क् उपयुक्तम् आऩवै  
+उत्तर-खण्डत्तिलुम् अनुसन्धेयङ्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+while those that **are appropriate** to Bhagavān's **being** the object of **attainment**  
+**should be borne** in mind  
+in regard to the second part (of Dvaya ).
+</details>
+
+<details><summary>Español</summary>
+
+mientras que aquellos que **son apropiados** para que Bhagavān **sea** el objeto de **logro**  
+**debe tenerse** en cuenta  
+con respecto a la segunda parte (de Dvaya).
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्राप्यतैक्कुपयुक्तमाऩवै उत्तरखण्डत् तिलुमनुसन्धेयङ्गळ्।
+</details>
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-॥ स्वाम्युपाय उपेयश्च स्वरूपादिसमर्पणे । प्रथितः प्रतिसंबन्धी श्रीमान्निगमचक्षुषाम् ॥
+॥ स्वाम्य् - उपाय उपेयश् च  
+स्वरूपादि-**समर्पणे** ।  
+**प्रथितः** प्रतिसंबन्धी  
+श्रीमान् निगम-चक्षुषाम् ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+॥ स्वाम्य् - उपाय उपेयश् च  
+स्वरूपादि-**समर्पणे** ।  
+**प्रथितः** प्रतिसंबन्धी  
+श्रीमान् निगम-चक्षुषाम् ॥
+</details>
+
+<details><summary>English</summary>
+
+In the **surrender** of such as one's essential Nature (and the burden of **protection** etc.),  
+the Master **is well known**,  
+to those who **see** with the eye of the śrutis,  
+as the upāya or means 
+and as one to whom the **surrender is made**.  
+He **is** also the upeya (the object of attainment).
+</details>
+
+<details><summary>Español</summary>
+
+En la **rendición** de la propia Naturaleza esencial (y la carga de la **protección**, etc.),  
+el Maestro **es bien conocido**,  
+a aquellos que **ven** con el ojo de los śrutis,  
+como el upāya o significa 
+y como aquel a quien **se hace** la **entrega**.  
+Él **es** también el upeya (el objeto de logro).
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -6198,15 +6282,230 @@ Among these meanings those that are appropriate to Bhagavān's being the upāya 
 ॥ स्वाम्युपाय उपेयश्च स्वरूपादिसमर्पणे । प्रथितः प्रतिसंबन्धी श्रीमान्निगमचक्षुषाम् ॥
 </details>
 
-In the surrender of such as one's essential Nature (and the burden of protection etc.), the Master is well known, to those who see with the eye of the śrutis, as the upāya or means and as one to whom the surrender is made. He is also the upeya (the object of attainment).
+#### चेतस्त्वम्, पतित्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Though the word Śrīman means in general 'one who is associated with Śrī, yet here, as a consequence of the pramāṇas (i.e.) Śruti which says (Lakṣmī is His Spouse) it means the husband or Sponse of Śrī.
+“श्रीमान्” ऎऩ्ऱु पॊदुविले सॊऩ्ऩालुम्  
++++(श्रुत्य्-आदि-)+++प्रमाणानुसारत्ताले इङ्गु +++(मङ्गल-योगम् अन्तरा)+++ श्रियः-पतिय् ऎऩ्ऱ बडि। 
+</details>
 
-The relationship which appears to be general really means, on the strength of the Śruti, the specific relationship (of being the spouse ). Since He is called the Spouse of Her who is resorted to for protection and who is (also ) the world's mother, His being the Supreme Being and His easy accessibility are both indicated (thereby). Though Śrī is included in the word (Nārā) (in Nārāyaṇa), she is taken here separately in order to show that there is a difference between her and other things (included in Nārā) (in that she has omnipresence and other such qualities). She is shown as an attribute (of the Lord) (in the word Śrīman) in order to bring out the idea of her existence solely for Her Spouse, in accordance with the pramāṇas (i. e. of Her own will and that of Her Lord ).
+<details><summary>English</summary>
+
+Though the word Śrīman **means** in general 'one who **is associated** with Śrī',  
+yet here, as a **consequence** of the pramāṇas (i.e.) Śruti  
+which **says** (Lakṣmī is His Spouse)  
+it means the husband or Sponse of Śrī.
+
+</details>
+
+<details><summary>Español</summary>
+
+Aunque la palabra Śrīman **significa** en general 'alguien que **está asociado** con Śrī',  
+sin embargo, aquí, como **consecuencia** de los pramāṇas (es decir) Śruti  
+que **dice** (Lakṣmī es Su Esposa)  
+significa el esposo o Esposa de Śrī.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“श्रीमान्” ऎऩ्ऱु पॊदुविले सॊऩ्ऩालुम् प्रमाणानुसारत्ताले इङ्गु श्रियःपतियॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सामान्यम् आगत् तोऱ्ऱिऩ सम्बन्धम्  
+श्रुति-बलत्ताले विशेषितम्।
+</details>
+
+<details><summary>English</summary>
+
+The relationship which **appears to be** general  
+really means, on the strength of the Śruti, the specific relationship (of being the spouse ). 
+</details>
+
+<details><summary>Español</summary>
+
+La relación que **parece** general,  
+realmente **significa**, en base al Śruti, la relación específica (de ser el cónyuge).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सामान्यमागत्तोऱ्ऱिऩ सम्बन्धम् श्रुतिबलत्ताले विशेषितम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वरुक्कुम् आश्रयणीयैय् आय्  
+जगन्-माताव् आऩ इवळुक्कु  
+पतिय् ऎऩ्ऩवे  
+परत्वमुम् सौलभ्यमुन् दोऱ्ऱम्।
+</details>
+
+<details><summary>English</summary>
+
+Since He **is** called the Spouse of Her  
+who **is resorted to** for **protection**  
+and who **is** (also ) the world's mother,  
+
+His **being** the Supreme Being  
+and His easy **accessibility**  
+**are** both **indicated** (thereby). 
+</details>
+
+<details><summary>Español</summary>
+
+Puesto que Él **es llamado** Esposo de Ella  
+a quién **se recurre** para **protección**  
+y quién **es** (también) la madre del mundo,  
+
+Su **ser** el Ser Supremo  
+y su fácil **accesibilidad**  
+**están** ambos **indicados** (por lo tanto).
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वरुक्कुमाश्रयणीयैयाय् जगन्मातावाऩ इवळुक्कु पतियॆऩ्ऩवे परत्वमुम् सौलभ्यमुन्दोऱ्ऱम्।
+</details>
+
+#### नारान्तराद् भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु पिराट्टियै विशेषित्त् ऎडुक्कैयाले  
+
+नार-शब्दार्थङ्गळ् आऩ वस्त्व्-अन्तरङ्गळिऱ् काट्टिल् व्यावृत्तियुम्
+</details>
+
+<details><summary>English</summary>
+
+Though Śrī **is included** in the word (Nārā) (in Nārāyaṇa),  
+she **is taken** here separately  
+in order **to show** that  
+there **is** a difference between her and other things (included in Nārā)  
+(in that she **has** omnipresence and other such qualities).  
+</details>
+
+<details><summary>Español</summary>
+
+Aunque Śrī **está incluido** en la palabra (Nārā) (en Nārāyaṇa),  
+ella **es llevada** aquí por separado  
+para **mostrar** que  
+**Hay** una diferencia entre ella y otras cosas (incluidas en Nārā)  
+(en el sentido de que ella **tiene** omnipresencia y otras cualidades similares).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु पिराट्टियै विशेषित्तॆडुक्कैयाले नारशब्दार्थङ्गळाऩ वस्त्वन्तरङ्गळिऱ्काट्टिल् व्यावृत्तियुम्
+</details>
+
+#### पारार्थम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विशेषणम् आग निर्देशिक्कैयाले  
+
+यथा-प्रमाणम् +++(स्वेच्छा-गृहीतं)+++ पति-पारार्थ्यमुम् सूचितम्।
+</details>
+
+<details><summary>English</summary>
+
+She **is shown** as an attribute (of the Lord) (in the word Śrīman)  
+in order **to bring out** the idea of her **existence** solely for Her Spouse,  
+in accordance with the pramāṇas  
+(i. e. of Her own will and that of Her Lord ).
+
+</details>
+
+<details><summary>Español</summary>
+
+Ella **se muestra** como un atributo (del Señor) (en la palabra Śrīman)  
+para **sacar a relucir** la idea de su **existencia** únicamente para Su Esposo,  
+de acuerdo con los pramāṇas  
+(es decir, de Su propia voluntad y la de Su Señor).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विशेषणमाग निर्देशिक्कैयाले यथाप्रमाणम् पतिपारार्थ्यमुम् सूचितम्।
+</details>
+
+
+
+### मतुप् नित्ययोगे
+<details><summary>English</summary>
 
 THE MEANING OF THE SUFFIX MATUP (IN ŚRĪMAN):
+</details>
 
-Though suftixes" like matup have (all) the following meanings :- 'excess' 'censure' praise' 'eternal connection superiority (over others)', 'association', and 'the statement of mere existence', yet here, by special usage, it indicates 'eternal connection' which is well-known from the pramāṇas. This eternal connection between Bhagavān and Śrī is indeed such that even when He assumed the form of a Brahmacharin (in Vāmanāvatāra), He is said to have concealed, with the deer-skin, His Spouse, abiding in His chest'.
+<details><summary>Español</summary>
+
+El significado del sufijo matup (en ŝrīman):
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “भूम-निन्दा-प्रशंसासु  
+नित्य-योगे ऽतिशायने ।  
+संसर्गे ऽस्ति-विवक्षायाः  
+भवन्ति मतुप्-आदयः”  
+( वार्त्तिकम् ५-२-१४)
+
+ऎऩ्ऱनेकार्थमायिरुन्ददेयागिलुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “भूम-निन्दा-प्रशंसासु  
+नित्य-योगे ऽतिशायने ।  
+संसर्गे ऽस्ति-विवक्षायाः  
+भवन्ति मतुप्-आदयः”  
+( वार्त्तिकम् ५-२-१४)
+
+</details>
+
+<details><summary>English</summary>
+
+Though suftixes like "matup" **have** (all) the following meanings :-  
+
+> 'excess', 'censure', praise',  
+'eternal connection', 'superiority (over others)', 'association', and 'the statement of mere existence', 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque los suftix como "matup" **tienen** (todos) los siguientes significados:-  
+
+> 'exceso', 'censura', elogio',  
+'conexión eterna', 'superioridad (sobre los demás)', 'asociación' y 'la declaración de la mera existencia',
+</details>
+
+<details><summary>मूलम्</summary>
+
+“भूमनिन्दाप्रशंसासु नित्ययोगेऽतिशायने । संसर्गेऽस्तिविवक्षायाः भवन्ति मतुपादयः”( वार्त्तिकम् ५-२-१४)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु मतुप्  
+उपयोग-विशेषत्ताले  
+प्रमाण-सिद्धम् आऩ नित्य-योगत्तैच् चॊल्लुगिऱदु।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु मतुप् उपयोगविशेषत्ताले प्रमाणसिद्धमाऩ नित्ययोगत्तैच् चॊल्लुगिऱदु।
+</details>
+
+
+yet here, by special usage, it indicates 'eternal connection' which is well-known from the pramāṇas. This eternal connection between Bhagavān and Śrī is indeed such that even when He assumed the form of a Brahmacharin (in Vāmanāvatāra), He is said to have concealed, with the deer-skin, His Spouse, abiding in His chest'.
 
 The two objections that have been raised by some in this context are not sound: The first objection is that the suffix matup is not employed when, of two things that are put in grammatical apposition or co-ordination (sāmānīdhikaranya), one is inseparable from the other and cannot exist without the other. For instance, when we say “Brahman is Ānanda, Brahman and Ānanda (bliss ) are in grammatical apposition or co-ordination with each other. Since anandam or bliss is an inseparable attribute of Brahman, matup is not added to it as a suffix. But when we say, 'the man having a stick (dandi)', the suffix matup comes after danda (stick), because the stick can be separated from the man and can exist without the man. So the objector says that since the suffix occurs in Śrīman, Srī should be considered as separable from Nārāyaṇa ( as in Dandi) which is put in apposition with it.
 
