@@ -3289,15 +3289,86 @@ Aunque los suftix como "matup" **tienen** (todos) los siguientes significados:-
 प्रमाण-सिद्धम् आऩ नित्य-योगत्तैच् चॊल्लुगिऱदु।
 </details>
 
+<details><summary>English</summary>
+
+yet here, by special usage,  
+it **indicates** 'eternal **connection**'  
+which **is well-known** from the pramāṇas. 
+</details>
+
+<details><summary>Español</summary>
+
+sin embargo, aquí, por uso especial,  
+**indica** '**conexión** eterna'  
+lo cual **es bien conocido** por los pramāṇas.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इङ्गु मतुप् उपयोगविशेषत्ताले प्रमाणसिद्धमाऩ नित्ययोगत्तैच् चॊल्लुगिऱदु।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-yet here, by special usage, it indicates 'eternal connection' which is well-known from the pramāṇas. This eternal connection between Bhagavān and Śrī is indeed such that even when He assumed the form of a Brahmacharin (in Vāmanāvatāra), He is said to have concealed, with the deer-skin, His Spouse, abiding in His chest'.
+विग्रहत्तिल् ब्रह्मचर्यावस्थैयिलुम् उळ्-बड 
 
-The two objections that have been raised by some in this context are not sound: The first objection is that the suffix matup is not employed when, of two things that are put in grammatical apposition or co-ordination (sāmānīdhikaranya), one is inseparable from the other and cannot exist without the other. For instance, when we say “Brahman is Ānanda, Brahman and Ānanda (bliss ) are in grammatical apposition or co-ordination with each other. Since anandam or bliss is an inseparable attribute of Brahman, matup is not added to it as a suffix. But when we say, 'the man having a stick (dandi)', the suffix matup comes after danda (stick), because the stick can be separated from the man and can exist without the man. So the objector says that since the suffix occurs in Śrīman, Srī should be considered as separable from Nārāyaṇa ( as in Dandi) which is put in apposition with it.
+> “+++(वामनः)+++ कृष्णाजिनेन संवृण्वन्  
+वधूं वक्षस्-स्थलालयाम्”  
+() 
+
+ऎऩ्ऩुम् बडिय् इऱे नित्य-योगम् इरुप्पदु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “+++(वामनः)+++ कृष्णाजिनेन संवृण्वन्  
+वधूं वक्षस्-स्थलालयाम्”  
+() 
+
+</details>
+
+<details><summary>English</summary>
+
+This eternal **connection** between Bhagavān and Śrī **is** indeed such that  
+even when He **assumed** the form of a Brahmacharin (in Vāmanāvatāra),  
+He **is said** to **have concealed**, with the deer-skin, His Spouse, **abiding** in His chest'.
+</details>
+
+<details><summary>Español</summary>
+
+Esta eterna **conexión** entre Bhagavān y Śrī **es** de hecho tal que  
+incluso cuando **asumió** la forma de un Brahmacharin (en Vāmanāvatāra),  
+Él **se dice** que **ha ocultado**, con la piel de venado, a Su Esposa, **habitando** en Su pecho'.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विग्रहत्तिल् ब्रह्मचर्यावस्थैयिलुमुळ्बड “कृष्णाजिनेन संवृण्वन् वधूं वक्षस्स्थलालयां”() ऎऩ्ऩुम्बडियिऱे नित्ययोगमिरुप्पदु।
+</details>
+
+### अपृथक्-सिद्धौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अ-पृथक्-सिद्ध-वस्तुवुक्कु  
+“श्रीमान्” ऎऩ्ऱु मत्वर्थीय-प्रत्यय-सापेक्षम् आग  
+सामानाधिकरण्यङ् कूडुमोव्? 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपृथक्सिद्धवस्तुवुक्कु “श्रीमान्” ऎऩ्ऱु मत्वर्थीयप्रत्ययसापेक्षमाग सामानाधिकरण्यङ्गूडुमोवॆऩ्ऱुम्, 
+ </details>
+
+
+
+
+The two objections that have been raised by some in this context are not sound:  
+
+The first objection is that the suffix matup is not employed when, of two things that are put in grammatical apposition or co-ordination (sāmānīdhikaranya), one is inseparable from the other and cannot exist without the other. For instance, when we say “Brahman is Ānanda, Brahman and Ānanda (bliss ) are in grammatical apposition or co-ordination with each other. Since anandam or bliss is an inseparable attribute of Brahman, matup is not added to it as a suffix. But when we say, 'the man having a stick (dandi)', the suffix matup comes after danda (stick), because the stick can be separated from the man and can exist without the man. So the objector says that since the suffix occurs in Śrīman, Srī should be considered as separable from Nārāyaṇa ( as in Dandi) which is put in apposition with it.
 
 The second objection is as follows:-“If Śrī is separable from Nārāyaṇa and can exist where He is not (as during Sītā's separation from Śrī Rāma) the two words Śrī and the word meaning Bhagavān should not be put jo apposition or co-ordination without the suffix, but we do find them in grammatical apposition or co-ordi pation when Śrī Kṛṣṇa says :-"Among women, I am the deity of fame, Śrī (Lakṣmī) and Vāk (Saraswati)" and also in the sentence :-"Bhagavān is“ Lakṣmī who abides in the lotus ".
 
