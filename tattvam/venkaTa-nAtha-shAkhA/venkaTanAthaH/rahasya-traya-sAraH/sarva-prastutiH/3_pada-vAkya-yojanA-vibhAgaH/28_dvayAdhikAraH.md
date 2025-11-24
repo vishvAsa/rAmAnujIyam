@@ -5970,17 +5970,223 @@ a la via de aquellos que **han adoptado** el upāya (es decir, prapatti).
 ऎऩ्ऱु निरुक्तियिल् 
 </details>
 
+<details><summary>English</summary>
+
+(6) In the etymological interpretation, 
+
+> "She **makes** the world **ripe** by her qualities” (śṛṇātii), 
+</details>
+
+<details><summary>Español</summary>
+
+(6) En la interpretación etimológica, 
+
+> "Ella **hace** que el mundo **madure** con sus cualidades” (śṛṇātii),
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 “श्रीणाति च गुणैर्जगत्” ऎऩ्ऱु निरुक्तियिल् 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(6) In the etymological interpretation, 
+तऩ् कारुण्यादि-गुणङ्गळाले 
+</details>
 
-> "She **makes** the world **ripe** by her qualities” (śṛṇātii), 
+<details><summary>English</summary>
 
-the root (Śrī) would mean that, by her attributes like compassion, she enables those who have sought her protection to become ripe enough to have the qualities necessary for rendering service to the Lord. This idea is brought out in the passage: "Having Thy grace and the grace of Thy Consort who abides in the lotus, I will sweep the floor of Thy temple". Bearing in mind all these excellences (of Lakṣmī) stated in all these interpretations, Aḷavandār wrote: " Thy name too is Śrī. How can we have the fitness to praise Thee?" Bhattar, too, had in mind her being unconditionally gracious and said :- " Bhagavān" is ever gracious because of His association with Thee. Thy graciousness is not due to any cause or condition. It exists of its own accord, for art Thou not Śrī ?" Among these meanings those that are appropriate to Bhagavān's being the upāya  should be borne in mind in regard to the first part (of Dvaya), while those that are appropriate to Bhagavān's being the object of attainment should be borne in mind in regard to the second part (of Dvaya ).
+by her attributes like compassion, 
+</details>
+
+<details><summary>Español</summary>
+
+por sus atributos como la compasión,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩ् कारुण्यादिगुणङ्गळाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “निऩ् +तिरुव्-अरुळुम्  
+पङ्गयत्ताळ् तिरुव्-अरुळुङ् गॊण्डु”  
+( तिरुवाय्मॊऴि ९-२-१) 
+
+इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>English</summary>
+
+as brought out in the passage: 
+
+> "**Having** Thy grace  
+and the grace of Thy Consort who **abides** in the lotus,  
+**I will sweep** the floor of Thy temple". 
+</details>
+
+<details><summary>Español</summary>
+
+como se destaca en el pasaje: 
+
+> "**Teniendo** Tu gracia  
+y la gracia de Tu Consorte que **habita** en el loto,  
+**Barreré** el suelo de Tu templo".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“निऩ् ऱिरुवरुळुम् पङ्गयत्ताळ् तिरुवरुळुङ्गॊण्डु”( तिरुवाय्मॊऴि ९-२-१) इत्यादिगळिऱ्पडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आश्रितर्क्कु कैङ्कर्य-पर्यन्त-गुण-परिपाकत्तैय् उण्डाक्कुम् ऎऩ्ऱद् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+the root (Śrī) **would mean** that,  
+she **enables** those who **have sought** her **protection**  
+to **become ripe** enough to have the qualities  
+**necessary** for **rendering service** to the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+la raíz (Śrī) **significaría** que,  
+ella **permite** a aquellos que **han buscado** su **protección**  
+**madurar** lo suficiente como para **tener** las cualidades  
+**necesario** para **prestar servicio** al Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आश्रितर्क्कु कैङ्कर्यपर्यन्तगुणपरिपाकत्तैय् उण्डाक्कुमॆऩ्ऱदाम्। 
+</details>
+
+#### यामुनादि-सङ्ग्रहः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्-व्युत्पत्तिगळ् ऎल्लात्तालुम् उळ्ळ वैभवत्तैग् गणिसित्तु
+</details>
+
+<details><summary>English</summary>
+
+**Bearing** in mind all these excellences (of Lakṣmī) **stated** in all these interpretations, 
+</details>
+
+<details><summary>Español</summary>
+
+**Teniendo** en mente todas estas excelencias (de Lakṣmī) **declaradas** en todas estas **interpretaciones**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्व्युत्पत्तिकळॆल्लात्तालुमुळ्ळ वैभवत्तैक्कणिसित्तु
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “श्रीर् इत्येव च नाम ते भगवति +++(न पृथग् विशेषणम् )+++, ब्रूमः कथं त्वां वयम्”  
+( चतुः-श्लोकी १) 
+
+ऎऩ्ऱु आळवन्दार् अरुळिच् चॆय्दार्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “श्रीर् इत्येव च नाम ते भगवति +++(न पृथग् विशेषणम् )+++, ब्रूमः कथं त्वां वयम्”  
+( चतुः-श्लोकी १) 
+</details>
+
+
+
+<details><summary>English</summary>
+
+Aḷavandār wrote: 
+
+> " Thy name too **is** Śrī.  
+How **can we have** the fitness to praise Thee?" 
+</details>
+
+<details><summary>Español</summary>
+
+Aḷavandār **escribió**: 
+
+> "Tu nombre también **es** Śrī.  
+¿Cómo **podemos tener** la aptitud para alabarte?"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“श्रीरित्येव च नाम ते भगवति ब्रूमः कथं त्वां वयम्”( चतुः-श्लोकी १) ऎऩ्ऱु आळवन्दाररुळिच्चॆय्दार्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भट्टरुम्  
+निरुपाधिक-मङ्गळत्वत्तै निऩैत्तु  
+
+(तव **स्पर्शाद्** ईशं स्पृशति कमले मङ्गल-पदं,  
++++(किन्तु)+++ तवेदं **नोपाधेर् उपनिपतितं**) - +++(स्वतः)+++ श्रीर् **असि** यतः ।  
+( श्री-गुण-रत्न-कोशः २९) 
+
+ऎऩ्ऱार्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(तव **स्पर्शाद्** ईशं स्पृशति कमले मङ्गल-पदं,  
++++(किन्तु)+++ तवेदं **नोपाधेर् उपनिपतितं**) - +++(स्वतः)+++ श्रीर् **असि** यतः ।  
+( श्री-गुण-रत्न-कोशः २९) 
+
+</details>
+
+<details><summary>English</summary>
+
+Bhattar, too, **had** in mind her **being** unconditionally gracious and **said** :- 
+
+> " Bhagavān **is** ever gracious  
+because of His **association** with Thee.  
+Thy graciousness **is not** due to any cause or condition.  
+It **exists** of its own accord,  
+for **art Thou not** Śrī ?" 
+</details>
+
+<details><summary>Español</summary>
+
+Bhattar también **tenía** en mente que ella **siera** incondicionalmente amable y **dijo**:- 
+
+> "Bhagavān **es** siempre misericordioso  
+debido a Su **asociación** contigo.  
+Tu gracia **no** se debe a ninguna causa o condición.  
+**Existe** por sí solo,  
+porque **¿no eres Tú** Śrī?"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भट्टरुम् निरुपाधिकमङ्गळत्वत्तै निऩैत्तु “श्रीरसि यतः”( श्री-गुण-रत्न-कोशः २९) ऎऩ्ऱार्।
+</details>
+
+
+
+
+
+
+Among these meanings those that are appropriate to Bhagavān's being the upāya  should be borne in mind in regard to the first part (of Dvaya), while those that are appropriate to Bhagavān's being the object of attainment should be borne in mind in regard to the second part (of Dvaya ).
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
