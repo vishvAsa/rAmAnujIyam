@@ -171,6 +171,8 @@ Mahishee means the anointed Queen; hence She is one whose wishes cannot be trans
 Akhila in Akhila Jaganmaataram denotes that Ramanuja includes himself among those to whom She is a mother. 
 </details>
 
+[^1_pg13]: ह्यस्मद्वर्जमितिइ
+
 शरण्यं भगवन्तमलब्धवन्तः - **अशरण्याः**,  
 अहमपि तेष्वेक इत्याह-अनन्य इति । 
 
@@ -178,8 +180,6 @@ Akhila in Akhila Jaganmaataram denotes that Ramanuja includes himself among thos
 
 Asaranya means persons with no other resource go to for refuge. To show that the speaker includes himself in the class, the word Ananya is used. Thus far, prayers to Sri.
 </details>
-
-[^1_pg13]: ह्यस्मद्वर्जमितिइ
 
 </details>
 
