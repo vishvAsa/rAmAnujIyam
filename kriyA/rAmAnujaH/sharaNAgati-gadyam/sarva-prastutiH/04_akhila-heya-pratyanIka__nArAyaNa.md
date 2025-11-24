@@ -18,11 +18,19 @@ title = "०४ अखिल-हेय-प्रत्यनीक-चूर्�
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-अथ द्वयस्थं **नारायण**-शब्दं विवृणोति अखिल इत्य्-आदि-ना । तत्र प्रथमपदेन **नार**-शब्दवाच्यानां धर्म्युच्यते । **अखिल**-शब्दः चिदचिद्गतक्लेशादिभावविकारादिहेयपरः ।
+अथ द्वयस्थं **नारायण**-शब्दं विवृणोति अखिल इत्य्-आदि-ना । 
+तत्र प्रथमपदेन **नार**-शब्दवाच्यानां धर्म्युच्यते । 
 
 <details><summary>English</summary>
 
-Then follows the exposition of the meaning of the word Naraayana found in Dvaya, the word indicating the person described, as the Visesha of Naraya in Dvaya. "Akhila, etc "-Free from the pains and penalties or the changes which the sentient and non-sentient things are liable to in this World. 
+Then follows the exposition of the meaning of the word Naraayana found in Dvaya, the word indicating the person described, as the Visesha of Naraya in Dvaya. 
+</details>
+
+
+**अखिल**-शब्दः चिदचिद्गतक्लेशादिभावविकारादिहेयपरः ।
+
+<details><summary>English</summary>
+"Akhila, etc" - Free from the pains and penalties or the changes which the sentient and non-sentient things are liable to in this World. 
 </details>
 
 <dg 23/>
@@ -38,20 +46,39 @@ Then follows the exposition of the meaning of the word Naraayana found in Dvaya,
 
 <details><summary>English</summary>
 
-The words Aananda means being good to oneself, and anukuoola means good to others. It may also be taken to explain the word Kalyaana. 
+The words Aananda means being good to oneself, and anukuoola means good to others. 
 </details>
 
-आनन्दविवरणं वा **कल्याण**-शब्दः । कल्याणानां गुणानां[^1_pg24] एकास्पदमिति वा **कल्याणैकतान**-शब्दार्थः । यद्वा स्वसम्बन्धिनामपि मङ्गलावहता **कल्याण**-शब्दार्थः । **एक**-शब्देन प्रदेशभेदेन जडत्वप्रतिकूलत्वव्युदासः ।
+आनन्दविवरणं वा **कल्याण**-शब्दः । 
 
 <details><summary>English</summary>
 
-
-Kalyaana Aikataana mean the sole abode of, and completely full of, all kinds of, Virtues. Besides, Kalyaana means also good not only to one's self but also to others. "Eka" excludes the possibility of being jada or inauspicious in any portion. 
- 
+It may also be taken to explain the word Kalyaana. 
 </details>
 
+कल्याणानां गुणानां[^1_pg24] एकास्पदमिति वा **कल्याणैकतान**-शब्दार्थः । 
+
+<details><summary>English</summary>
+
+Kalyaana Aikataana mean the sole abode of, and completely full of, all kinds of, Virtues.
+</details>
 
 [^1_pg24]: गुणानां वा -इ ।
+
+यद्वा स्वसम्बन्धिनामपि मङ्गलावहता **कल्याण**-शब्दार्थः । 
+
+<details><summary>English</summary>
+
+Besides, Kalyaana means also good not only to one's self but also to others.
+</details>
+
+**एक**-शब्देन प्रदेशभेदेन जडत्वप्रतिकूलत्वव्युदासः ।
+
+<details><summary>English</summary>
+
+"Eka" excludes the possibility of being jada or inauspicious in any portion. 
+ 
+</details>
 
 </details>
 
@@ -89,6 +116,9 @@ Then, Ramanuja goes on to describe the Divya Vigraha, i.e., Divine personality o
 
 </details>
 
+""
+""
+""
 **एकरूपत्वम्** - उभयलिङ्गत्वप्राप्यत्वोपास्यत्वैः । तर्कागोचरत्वम् अचिन्त्यत्वम् ।  
 
 <details><summary>English</summary>
