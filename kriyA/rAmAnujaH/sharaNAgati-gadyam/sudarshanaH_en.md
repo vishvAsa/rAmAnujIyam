@@ -47,18 +47,6 @@ Sri Saranagati.
 2011 
 
 
-5. खोचितविविधविचित्रानन्ताश्चर्य ! नित्य निरवद्यनिरतिशयसुगन्धनिरतिशयसुखस्पर्शनिरतिशयौ ज्वल्यकिरीटमकुटचूडावतंसमकरकु 
-ण्डलग्रैवेयकहारकेयूरकटकश्रीवत्सकौस्तुभमुक्तादामोदरबन्धनपीताम्बर काञ्चीगुण नू पुराद्यपरिमितदिव्यभूषण ! 
-COMMENTARY 
-5. Then Ramanuja goes on to describe the adornments and ornaments, on the Divya Vigraha of Iswara. 
-Vividha means different kinds of ornaments such as Kataka, Makuta; Vichitra denotes varieties in each kind of ornaments. 
-Anantaascharya-Excellent beyond any limit. Niravada is used to denote, "flawlessness for the purpose of contemplation". When starting contemplating on the Divine Form, naturally the vision of His ornaments comes on prominently before our mental eyes. The quality of "Niratisaya Sugandhatvam" distinguishes these ornaments from the ordinary or common variety. For the Sruti says "He is all sweet smelling and all Rasa" 
-Makuta means the central piece in the head coronet in which the most precious stone is imbedded. or it may mean the Crown, itself. Compare "NaAkundali-Na-Amakuti " "No one in Ayodhya without Kundala and Makuta" Kireeta Rupa is Makuta, i.e., the head ornament. Divya means divine, not16 
-the ordinary kind the word is to be taken to quality all the above. 
-Translation of Text 
-(5) Oh! Narayna! Thou art decorated with all sorts and kinds of ornaments, Worthy of Thee, Most wonderful to behold, Ever lasting, Faultless, Sweet smelling, Soft to touch, Wonderfully splendourous, such as, the Crown bearing the central diadam of lustrous stone, other head ornaments, ear ornaments, 
-ear ornaments, necklaces and neck ornaments, garlands, shoulder-bracelets and bracelets in the hands, Sri Vatsa and Kaustubha, pearl garlands, waistlets, lace cloths, gold waist band and leg ornaments and others precious and innumerable. 
-His Weapons. 
 6. स्वानुरूापचिन्त्यशक्तिशङ्खचक्रगदासिशार्ङ्गाद्यसंख्येय नित्य निरवद्यनिरतिशयकल्याणदिव्यायुध ! 
 COMMENTARY 
 6. Then are mentioned His Divine weapons. "Achintya Sakti" Each weapon has the power to do the work of all the weapons as stated in Ramayana about the arrow of works generally done with the help of a crowbar, a Rama. "The chisel, and spade were performed by one arrow of Rama"; this refers to the splintering the seven saalaa (Aachcha) trees, the Hill and the Paataala Loka by one arrow of Rama let off by him to prove His 
