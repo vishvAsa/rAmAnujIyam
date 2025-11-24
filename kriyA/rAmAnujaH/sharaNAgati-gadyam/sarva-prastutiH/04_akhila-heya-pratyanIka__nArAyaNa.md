@@ -497,57 +497,177 @@ Rama performed the Abhisheka to Vibhishana on the battlefield itself.
 overlooking their faults just like a father.
 </details>
 
-""
-""
-""
-
-**स्थैर्यम्** 'न त्यजेयं कथञ्चन' (रा. अयो. १०-३) इत्यभिसन्धिमत्वम् । भक्तरक्षोपयोगिगुणाः द्वादश । अथ तत्रैव रक्षणे विरोधिनिरसनौपाधिकं त्रिकम् । धैर्यम् -स्वस्मिन् प्रतिपक्षागमे सत्यविकृतत्वम् । यथा - 'जटाचूड[^1_pg31] ग्रन्थिं दृढयति' इति । स्वगृह इव परबले प्रवेशसामर्थ्यम्शौर्यम् । प्रवेशे सति तन्निरासकौशलं - पराक्रमः । यथा 'छिन्नं, भिन्नम्' इत्य्-आदि । अथ भोग्यगुणयुगम् । सत्यकाम इति नित्यविभूतिमत्त्वम् 'काम्यस्स्पृहा स्मरः कामः' इत्यनेकार्थः ।
+**स्थैर्यम्** 'न त्यजेयं कथञ्चन' (रा. अयो. १०-३) इत्यभिसन्धिमत्वम् । 
 
 <details><summary>English</summary>
 
-Sthairya :-Firm determination not to abandon His Devotees. 
+Sthairya :-Firm determination not to abandon His Devotees.
+</details>
 
-These twelve (qualities) are useful to Him for saving His Devotees. 
+भक्तरक्षोपयोगिगुणाः द्वादश ।
 
-Then follow three qualities which go to help Him in punishing those who stand in the way of His protecting His Devotees. 
+<details><summary>English</summary>
 
-"Dhairya" - Unshaken stand against foes who stand in the way of granting such protection; "jatajoota granthim drudhayathi "making fast the knot of the hair." "Saurya": Prowess to enter the enemy's camp as easily as if entering His own house. 
+These twelve (qualities) are useful to Him for saving His Devotees.
+</details>
 
-Paraakrama - power to vanquish foes after entering their camp "Chinnam Bhinnam" (at the time Rama's destroying Ravana's moola balam. 
+अथ तत्रैव रक्षणे विरोधिनिरसनौपाधिकं त्रिकम् ।
 
-Then are mentioned two qulities relating to enjoyment. Satyakaama denotes Iswara possessing of Nitya Vibhuti. [The word Kama has many mean ings.] 
+<details><summary>English</summary>
+
+Then follow three qualities which go to help Him in punishing those who stand in the way of His protecting His Devotees.
+</details>
+
+धैर्यम् -स्वस्मिन् प्रतिपक्षागमे सत्यविकृतत्वम् ।
+
+<details><summary>English</summary>
+
+"Dhairya" - Unshaken stand against foes who stand in the way of granting such protection;
+
+</details>
+
+यथा - 'जटाचूड[^1_pg31] ग्रन्थिं दृढयति' इति ।
+
+<details><summary>English</summary>
+
+"jatajoota granthim drudhayathi" "making fast the knot of the hair."
 </details>
 
 [^1_pg31]: जूट - इ ।
 
-<dg 31/>
-
-**सत्यसङ्कल्प** इति लीलाविभूतिमत्त्वम्,स्वसङ्कल्पाऽनुवृत्युभयविभूतिमत्त्वं वा । अथ भक्तरक्षाविषयम् उक्तद्वादशकादि विलक्षणं[^1_pg32] गुणद्वयमाहकृति इति । आश्रितकार्यपूरणेन कृतार्थत्वम् -कृतित्वम् । यद्वा कृतम् - क्रिया, तद्वत्त्वम् । आश्रितकर्तव्यस्य स्वयं कर्तृत्वम् । यथा 'अहं स्मरामि' इति । कृतमेव जानाति, न तु करिष्यमाणांशमकृतमिति कृतज्ञः । यद्वा, स्वल्पमप्याश्रितैर्यत्साधुकृतम्, तदेव जानाति, आश्रितकृतं दोषं स्वकृतं श्रेयश्च न स्मरतीति कृतज्ञः ।
+स्वगृह इव परबले प्रवेशसामर्थ्यम्शौर्यम् ।
 
 <details><summary>English</summary>
 
-Satya Sankalpa denotes Iswara possessing the worlds for his Leela i.e., sport or recreation. Thus possessing the two worlds for his Dominion. 
+"Saurya": Prowess to enter the enemy's camp as easily as if entering His own house.
+</details>
 
-The next two qualities refer to the protective activities of the Lord apart from the 12 qualities already mentioned. 
+प्रवेशे सति तन्निरासकौशलं - पराक्रमः ।
 
-Krititva is the state of satisfaction in having acceded to the prayers of the Devotees, therefore the word may mean One who is active, that is to say, He Himself does what the Devotees should have done "Aham smarami". "I think of him at the death of the devotee though he may not remember me." 
+<details><summary>English</summary>
 
-Kritaganata denotes 'I remember' i.e., remembering what has been done, but not what has to be done but left undone, or. Kritagna is one who remembers only the good act done, however small but not the faults, nor the return He is making to them.
+Paraakrama - power to vanquish foes after entering their camp
+</details>
+
+यथा 'छिन्नं, भिन्नम्' इत्य्-आदि ।
+
+<details><summary>English</summary>
+
+"Chinnam Bhinnam" (at the time Rama's destroying Ravana's moola balam.
+</details>
+
+अथ भोग्यगुणयुगम् ।
+
+<details><summary>English</summary>
+
+Then are mentioned two qualities relating to enjoyment.
+</details>
+
+सत्यकाम इति नित्यविभूतिमत्त्वम् 'काम्यस्स्पृहा स्मरः कामः' इत्यनेकार्थः ।
+
+<details><summary>English</summary>
+
+Satyakaama denotes Iswara possessing of Nitya Vibhuti. [The word Kama has many meanings.]
+</details>
+
+
+<dg 31/>
+
+
+**सत्यसङ्कल्प** इति लीलाविभूतिमत्त्वम्,स्वसङ्कल्पाऽनुवृत्युभयविभूतिमत्त्वं वा ।
+
+<details><summary>English</summary>
+
+Satya Sankalpa denotes Iswara possessing the worlds for his Leela i.e., sport or recreation. Thus possessing the two worlds for his Dominion.
+</details>
+
+अथ भक्तरक्षाविषयम् उक्तद्वादशकादि विलक्षणं[^1_pg32] गुणद्वयमाहकृति इति ।
+
+<details><summary>English</summary>
+
+The next two qualities refer to the protective activities of the Lord apart from the 12 qualities already mentioned.
 </details>
 
 [^1_pg32]: लक्षणम् - इ ।
 
-'एकैक गुणेष्व[^1_pg33]नेकान्तर्भावाऽभिप्रायः **गण**-शब्दः । स एव ओघः-प्रवाहः, तस्य महार्णवः, न गुणायत्तं महत्वम् , गुणास्तु स्वावस्थाऽवस्थानाय भगवत्स्वरूपगताः । अन्यथा न स्थातुं शक्नुवन्तीति भावः ।
+आश्रितकार्यपूरणेन कृतार्थत्वम् -कृतित्वम् ।
 
 <details><summary>English</summary>
 
-The word gana is used to denote that in the each of the qualities there are many (subvarieties) qualities contained in them. Such Gana's flood is "Ogha". 
+Krititva is the state of satisfaction in having acceded to the prayers of the Devotees,
+</details>
 
-Mahaarnava is the Ocean. Virtues and and qualities have no permanent value unless they seek abode in Bhagavan; indeed, without such refuge, they have no value. 
+यद्वा कृतम् - क्रिया, तद्वत्त्वम् ।
+
+<details><summary>English</summary>
+
+therefore the word may mean One who is active,
+</details>
+
+आश्रितकर्तव्यस्य स्वयं कर्तृत्वम् ।
+
+<details><summary>English</summary>
+
+that is to say, He Himself does what the Devotees should have done
+</details>
+
+यथा 'अहं स्मरामि' इति ।
+
+<details><summary>English</summary>
+
+"Aham smarami". "I think of him at the death of the devotee though he may not remember me."
+</details>
+
+कृतमेव जानाति, न तु करिष्यमाणांशमकृतमिति कृतज्ञः ।
+
+<details><summary>English</summary>
+
+Kritaganata denotes 'I remember' i.e., remembering what has been done, but not what has to be done but left undone, or.
+</details>
+
+यद्वा, स्वल्पमप्याश्रितैर्यत्साधुकृतम्, तदेव जानाति, आश्रितकृतं दोषं स्वकृतं श्रेयश्च न स्मरतीति कृतज्ञः ।
+
+<details><summary>English</summary>
+
+Kritagna is one who remembers only the good act done, however small but not the faults, nor the return He is making to them.
+</details>
+
+'एकैक गुणेष्व[^1_pg33]नेकान्तर्भावाऽभिप्रायः **गण**-शब्दः ।
+
+<details><summary>English</summary>
+
+The word gana is used to denote that in the each of the qualities there are many (subvarieties) qualities contained in them.
 </details>
 
 [^1_pg33]: विशेषभेदैश्च - अ ।
 
+स एव ओघः-प्रवाहः,
+
+<details><summary>English</summary>
+
+Such Gana's flood is "Ogha".
+</details>
+
+तस्य महार्णवः,
+
+<details><summary>English</summary>
+
+Mahaarnava is the Ocean.
+</details>
+
+न गुणायत्तं महत्वम् , गुणास्तु स्वावस्थाऽवस्थानाय भगवत्स्वरूपगताः ।
+
+<details><summary>English</summary>
+
+Virtues and qualities have no permanent value unless they seek abode in Bhagavan;
+</details>
+
+अन्यथा न स्थातुं शक्नुवन्तीति भावः ।
+
+<details><summary>English</summary>
+
+indeed, without such refuge, they have no value.
+</details>
 
 </details>
 
@@ -651,15 +771,100 @@ all desires fulfilled, all intentions realized, the capability to carry out all 
 आद्य्-**अपरिमित-दिव्य-भूषण** ! 
 </details>
 
-""
-""
-""
-
 <details><summary>सुदर्शन-भट्टः</summary>
 
 अथ भूषणानि॥ 
 
-कटक-मकुटादि जातिभेदो वैविध्यम् । एकैकाऽवान्तरभेदपरः **विचित्र**-शब्दः । अनन्ताश्चर्यम् निरतिशयाश्चर्यम् । उत्तरोत्तरं निरवद्यत्वमनुसन्धेयम् । विग्रहचिन्तायामपि पूर्वभाविनी हि दिव्याभरणचिन्ता । निरतिशयसुगन्धत्वादिकम् इतरभूषणवैलक्षण्यम् । 'सर्वगन्धस्सर्वरसः' (छां.उ.३-४-२१) इत्य्-आदि-वत् । मकुटङ्किरीटाग्रावयवो नायकाधारः । यद्वा, मकुटम् शिरोभूषणमात्रम् । यथा - 'ना कुण्डली ना मकुटी' (रा. बा.६ -१०) इति । किरीटरूपं मकुटम् किरीट-मकुटम् । **दिव्य**-शब्दः सर्वत्राऽप्राकृतपरः।
+<details><summary>English</summary>
+
+Then Ramanuja goes on to describe the adornments and ornaments, on the Divya Vigraha of Iswara.
+</details>
+
+
+कटक-मकुटादि जातिभेदो वैविध्यम् ।
+
+<details><summary>English</summary>
+
+Vividha means different kinds of ornaments such as Kataka, Makuta;
+</details>
+
+एकैकाऽवान्तरभेदपरः **विचित्र**-शब्दः ।
+
+<details><summary>English</summary>
+
+Vichitra denotes varieties in each kind of ornaments.
+</details>
+
+अनन्ताश्चर्यम् निरतिशयाश्चर्यम् ।
+
+<details><summary>English</summary>
+
+Anantaascharya - Excellent beyond any limit.
+</details>
+
+
+उत्तरोत्तरं निरवद्यत्वमनुसन्धेयम् ।
+
+<details><summary>English</summary>
+
+Niravada is used to denote, "flawlessness for the purpose of contemplation".
+</details>
+
+विग्रहचिन्तायामपि पूर्वभाविनी हि दिव्याभरणचिन्ता ।
+
+<details><summary>English</summary>
+
+When starting contemplating on the Divine Form, naturally the vision of His ornaments comes on prominently before our mental eyes.
+</details>
+
+निरतिशयसुगन्धत्वादिकम् इतरभूषणवैलक्षण्यम् ।
+
+<details><summary>English</summary>
+
+The quality of "Niratisaya Sugandhatvam" distinguishes these ornaments from the ordinary or common variety.
+</details>
+
+'सर्वगन्धस्सर्वरसः' (छां.उ.३-४-२१) इत्य्-आदि-वत् ।
+
+<details><summary>English</summary>
+
+For the Sruti says "He is all sweet smelling and all Rasa"
+</details>
+
+मकुटङ्किरीटाग्रावयवो नायकाधारः ।
+
+<details><summary>English</summary>
+
+Makuta means the central piece in the head coronet in which the most precious stone is imbedded.
+</details>
+
+यद्वा, मकुटम् शिरोभूषणमात्रम् ।
+
+<details><summary>English</summary>
+
+or it may mean the Crown, itself.
+</details>
+
+यथा - 'ना कुण्डली ना मकुटी' (रा. बा.६ -१०) इति ।
+
+<details><summary>English</summary>
+
+Compare "NaAkundali-Na-Amakuti " "No one in Ayodhya without Kundala and Makuta"
+</details>
+
+किरीटरूपं मकुटम् किरीट-मकुटम् ।
+
+<details><summary>English</summary>
+
+Kireeta Rupa is Makuta, i.e., the head ornament.
+</details>
+
+**दिव्य**-शब्दः सर्वत्राऽप्राकृतपरः।
+
+<details><summary>English</summary>
+
+Divya means divine, not the ordinary kind the word is to be taken to quality all the above.
+</details>
 
 </details>
 
@@ -708,6 +913,10 @@ a raiment of yellow silk, girdle and anklets,
 शङ्ख-चक्र-गदा+असि-शार्ङ्ग+आद्य्--  
 असंख्येय-नित्य-निरवद्य-निरतिशय-**कल्याण-दिव्य+आयुध** ! 
 </details>
+
+""
+""
+""
 
 <details><summary>सुदर्शन-भट्टः</summary>
 

@@ -45,32 +45,8 @@ viana Jost
 यो नित्यमच्युतपदाम्बुजयुग्मरुक्मव्यामोहतस्तदितराणि तृणाय मेने । अस्मद्गुरोर्भगवतोऽस्य दयैकसिन्धोः रामानुजस्य चरणौ शरणं प्रपद्ये || 
 Sri Saranagati. 
 2011 
-1. भगवन्नारायणाभिमतानुरूपखरूपरूपगुणविभवैश्वर्यशीलाद्यन - ) वधिकातिशयासंख्येयकल्याणगुणगणां पद्मवनालयां भगवतीं श्रियं देवीं नित्यानपायिनीं निरवद्यां देवदेवदिव्यमहिषीम् अखिलजगन्मातरम् अस्मन्मातरम् अशरण्यशरण्याम् अनन्यशरणः शरणमहं प्रपद्ये । 
-
-COMMENTARY 
 
 
-
-4 
- 
-to 
-Translation of Text 
-(1) With no other help to resort to, I seek Thee, Sri Devi, full of all beneficient qualities, seated in a forest of lotus flowers. (Thou art) the refuge of all the helpless; (Thou art) my Mother, indeed the Mother of the whole world, The Crowned Divine Queen of the Lord of the Devas, the pure and Unsullied, never separated from the Lord; Thyself Thine from, its qualities, and the most wonderful, limitless innumerable collection of auspicious qualities of Thine, such as, Greatness, Rulership and high Virtues, all to His liking and worthy of the natural form and qualities of Bhagavaan Naarayana. 
-Why this Saranaagati. 
-4 
-2. पारमार्थिकभगवच्चरणारविन्दयुगलैकान्तिकात्यन्तिकपरभक्तिपरज्ञानपरमभक्तिकृतपरिपूर्णानवरतनित्यविशदतमानन्यप्रयोजनानवधिका 
-- 
-तिशयप्रियभगवदनुभवजनितानवधिकातिशय प्रीतिकारिताशेषावस्थोचि - ताशेषशेषतैकरतिरूपनित्यकैर्यप्राप्यपेक्षया पारमार्थिकी भगवच्चरणारविन्दशरणागतिः यथावस्थिता अविरताऽस्तु मे । 
-अस्तु ते । तयैव सर्व संपत्स्यते ॥ 
-| II' 
-COMMENTARY 
-
-
-Translation of Text 
-(4) Thou art the Ocean unto which flow rivers of limitless excellent Virtues, all natural to Thee, and useful for the protection of the Devotees, such as, All knowledge, Mighty rulership of the worlds, Untiring virility; Power to act without any outside help; Kind disposition, like that of a cow to its calf. Affectionate tenderness; Gentleness; Truthfulness in Mind and speech and body, Friendliness, Feeling of Equality, Mercifulnesss, Generosity, Quickness to respond to the miseries of Sweetness, Nobility, the Devotees, Firmness in Thy resolve to protect Devotees, Undaunted courage to bring succour to them, Courage to fight for the Devotees: Ability to fight the enemies within their own one camp; ing Thine will ever fuifilled, Having Thy commands irresistable, Thy Deeds fully executed-Always remembering with gratitude (even a little worship) done to Thee. 
-Hav- 
-His Adornments.all ad 
-15 
 5. खोचितविविधविचित्रानन्ताश्चर्य ! नित्य निरवद्यनिरतिशयसुगन्धनिरतिशयसुखस्पर्शनिरतिशयौ ज्वल्यकिरीटमकुटचूडावतंसमकरकु 
 ण्डलग्रैवेयकहारकेयूरकटकश्रीवत्सकौस्तुभमुक्तादामोदरबन्धनपीताम्बर काञ्चीगुण नू पुराद्यपरिमितदिव्यभूषण ! 
 COMMENTARY 
