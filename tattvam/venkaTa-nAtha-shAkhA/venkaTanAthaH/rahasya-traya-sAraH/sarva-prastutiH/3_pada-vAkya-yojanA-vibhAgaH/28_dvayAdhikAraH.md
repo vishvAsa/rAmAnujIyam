@@ -5493,14 +5493,16 @@ de la misma manera como Él **dice** Bhagavān Nārāyaṇa en ese contexto;
 
 (3) & (4) When the (etymological) meaning (of Śrī) **is taken** to be,  
 'She **listens**' (śṛṇoti)  
-and She **makes listen** (śrāvayati): 
+and She **makes listen** (śrāvayati):  
+\- It **may also be considered to have** these meanings. 
 </details>
 
 <details><summary>Español</summary>
 
 (3) y (4) Cuando el significado (etimológico) (de Śrī) **se toma** como,  
 'Ella **escucha**' (śṛṇoti)  
-y 'Ella **hace escuchar** (śrāvayati)':
+y 'Ella **hace escuchar** (śrāvayati)':  
+\- **También se puede considerar que tiene** estos significados.
 </details>
 
 
@@ -5509,7 +5511,7 @@ y 'Ella **hace escuchar** (śrāvayati)':
 “शृणोति श्रावयति” ऎऩ्गिऱ व्युत्पत्तिगळिल् 
 </details>
 
-
+##### पुरुष-कारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सापराधर् आऩव्-अडियोङ्गळै  
@@ -5580,7 +5582,7 @@ Las palabras que (literalmente) **indican** su **actividad**
 इप्पडि पुरुषकारकृत्यत्तैच् चॊल्लुगिऱ विदुक्कुम् पुरुषकारभावत्तिले नोक्कु। 
 </details>
 
-
+##### भगवते श्रावणे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “मत्-पद-द्वन्द्वम् एकं ये  
@@ -5736,6 +5738,7 @@ como la paloma hembra al macho en el śloka (arriba).
 ऎऩ्ऱु कपोतत्तै कपोति केट्पित्ताऱ्पोले अवसरत्तिले केट्पिक्कुमॆऩ्ऩवुमाम्। 
 </details>
 
+##### पर-श्रावणे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वेश्वरऩ् पक्कलिले लोक-हितत्तैक् केट्टु 
@@ -5759,14 +5762,185 @@ que Él **está** siempre **empeñado** en el **avance** del bienestar del mundo
 सर्वेश्वरऩ् पक्कलिले लोकहितत्तैक् केट्टु 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “मित्रम् औपयिकं कर्तुम्”  
+( रामायणम् सुन्दरकाण्डम् २१-१९)  
+
+इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “मित्रम् औपयिकं कर्तुम्”  
+( रामायणम् सुन्दरकाण्डम् २१-१९)  
+
+</details>
+
+<details><summary>English</summary>
+
+as in the passage :  
+
+> "If you **should desire** to save your abode (viz. Lanka)  
+and to **avoid** a horrible **death**,  
+it **would be** in your interest  
+to **obtain** the **friendship** of Śrī Rāma,  
+who **is** the best of men ".
+</details>
+
+<details><summary>Español</summary>
+
+como en el pasaje:  
+
+> "Si **deseas salvar** tu morada (**es decir**, Lanka)  
+y para **evitar** una **muerte** horrible,  
+**sería** de tu interés  
+para **obtener** la **amistad** de Śrī Rāma,  
+quien **es** el mejor de los hombres".
+</details>
 
 
-It may also be considered to have the following meanings : 
+<details><summary>मूलम्</summary>
+
+“मित्रमौपयिकं कर्तुम्”( रामायणम् सुन्दरकाण्डम् २१-१९)  इत्यादिगळिऱ्पडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विपरीतरैयुङ् कूडक् केट्पिक्कुम् ऎऩ्ऩवुम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+she **would offer** her **advice to be listened to** even by her enemies. 
+</details>
+
+<details><summary>Español</summary>
+
+ella **ofrecería** su **consejo para ser escuchada** incluso por sus enemigos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+विपरीतरैयुङ्गूडक् केट्पिक्कुमॆऩ्ऩवुमाम्। 
+</details>
 
 
-she would offer her advice to be listened to even by her enemies as in the passage : " If you should desire to save your abode (viz. Lanka) and to avoid a horrible death, it would be in your interest to obtain the friendship ot Śrī Rāma, who is the best of men "..
 
-(5) " When the etymological meaning (of Śrī) is taken to be that she removes all faults (śṝṇāti), it would mean that she removes all hindrances in the way of those who have adopted the upāya (namely prapatti), such as karma , and this idea is brought out in the following passages :- "In all siddhāntas (systems of religious thought) and in the Vedānta, it has been declared that when Bhagavān affords protection, He does it always with Lakṣmī, who is the very embodiment of compassion, by His side", and so also, "Lakṣmī who resides in the ever fragrant lotus destroys all the (past) karma  of jīvas".
+#### शृणाति
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “शृणाति निखिलान् दोषान्” 
+
+ऎऩ्ऱु व्युत्पत्तिय् आऩ बोदु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “शृणाति निखिलान् दोषान्” 
+
+</details>
+
+<details><summary>English</summary>
+
+(5) When the etymological meaning (of Śrī) **is taken** to be that  
+she **removes** all faults (śṝṇāti),  
+
+</details>
+
+<details><summary>Español</summary>
+
+(5) Cuando el significado etimológico (de Śrī) **se toma** como que  
+ella **elimina** todas las faltas (śṝṇāti),
+</details>
+
+<details><summary>मूलम्</summary>
+
+“शृणाति निखिलान् दोषान्” ऎऩ्ऱु व्युत्पत्तियाऩबोदु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “लक्ष्म्या सह हृष्टीकेशो  
+देव्या कारुण्य-रूपया ।  
+रक्षकस् सर्वसिद्धान्ते  
+वेदान्तेऽपि च गीयते”  
+( लक्ष्मीतन्त्रम् २८-१४) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “लक्ष्म्या सह हृष्टीकेशो  
+देव्या कारुण्य-रूपया ।  
+रक्षकस् सर्वसिद्धान्ते  
+वेदान्तेऽपि च गीयते”  
+( लक्ष्मीतन्त्रम् २८-१४) 
+
+</details>
+
+<details><summary>English</summary>
+
+> "In all siddhāntas (systems of religious thought) and in the Vedānta,  
+it **has been declared** that  
+when Bhagavān **affords protection**,  
+He **does** it always with Lakṣmī,  
+who **is** the very **embodiment** of compassion, by His side", 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "En todos los siddhāntas (sistemas de pensamiento religioso) y en el Vedānta,  
+**ha sido declarado** que  
+cuando Bhagavān **ofrece protección**,  
+Él **lo hace** siempre con Lakṣmī,  
+quien **es** la mismísima **encarnación** de la compasión, a Su lado",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“लक्ष्म्या सह हृष्टीकेशो देव्या कारुण्यरूपया । रक्षकस् सर्वसिद्धान्ते वेदान्तेऽपि च गीयते”( लक्ष्मीतन्त्रम् २८-१४) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’वेरि+++(=सौगन्ध्यम्)+++ माऱाद पू-मेल् इरुप्पाळ् +++(उपाय-विरोधि-)+++विऩै+++(=कर्म)+++ तीर्क्कुम्’’(तिरुवाय्मॊऴि ४-५-११) 
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये
+</details>
+
+<details><summary>English</summary>
+
+and so also, 
+
+> "Lakṣmī who **resides** in the ever fragrant lotus  
+**destroys** all the (past) karma  of jīvas".
+
+As **is brought out** in the above passages :- 
+</details>
+
+<details><summary>Español</summary>
+
+y así también, 
+
+> "Lakṣmī que **reside** en el loto siempre fragante  
+**destruye** todo el karma (pasado) de las jīvas".
+
+Como **se destaca** en los pasajes anteriores: -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“वेरि माऱाद पूमेलिरुप्पाळ् विऩैदीर्क्कुम्”( तिरुवाय्मॊऴि ४-५-११) ऎऩ्ऱुञ् जॊल्लुगिऱबडिये
+</details>
+
+
+it **would mean** that she **removes** all **hindrances**  
+in the way of those who **have adopted** the upāya (namely prapatti), such as karma ,  
 
 (6) In the etymological interpretation, "She makes the world ripe by her qualities” (śṛṇātii), the root (Śrī) would mean that, by her attributes like compassion, she enables those who have sought her protection to become ripe enough to have the qualities necessary for rendering service to the Lord. This idea is brought out in the passage: "Having Thy grace and the grace of Thy Consort who abides in the lotus, I will sweep the floor of Thy temple". Bearing in mind all these excellences (of Lakṣmī) stated in all these interpretations, Aḷavandār wrote: " Thy name too is Śrī. How can we have the fitness to praise Thee?" Bhattar, too, had in mind her being unconditionally gracious and said :- " Bhagavān" is ever gracious because of His association with Thee. Thy graciousness is not due to any cause or condition. It exists of its own accord, for art Thou not Śrī ?" Among these meanings those that are appropriate to Bhagavān's being the upāya  should be borne in mind in regard to the first part (of Dvaya), while those that are appropriate to Bhagavān's being the object of attainment should be borne in mind in regard to the second part (of Dvaya ).
 
