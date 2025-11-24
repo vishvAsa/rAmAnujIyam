@@ -5,7 +5,16 @@ title = "+विजयीन्द्र-पराजयः"
 
 Source: [TW](https://archive.org/details/vijayindra_parajaya)
 
-श्री-महा-पर-काल-स्वामिभिः विरचितः
+<details><summary>कर्तृत्वे रविलोचनः (द्रष्टुं नोद्यम्)</summary>
+
+Vijayindra parajaya was not a work of periya parakalaswamy but that of jnanabdhi Parakala swamy - who was a junior contemporary of vijayindra tirtha - 
+
+- Many colophons simply say Parakala yati while the author is also known as tatacharya
+- Dasgupta holds this author to be the guru of ranga ramanuja - which means it must be jnanabdhi Parakala yati
+</details>
+
+
+श्री-~~महा-~~पर-काल-स्वामिभिः विरचितः
 
 **विजयीन्द्र-पराजयः**
 

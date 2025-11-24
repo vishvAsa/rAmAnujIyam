@@ -5827,7 +5827,7 @@ ella **ofrecería** su **consejo para ser escuchada** incluso por sus enemigos.
 
 
 
-#### शृणाति
+#### शॄ हिंसायाम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “शृणाति निखिलान् दोषान्” 
@@ -5932,17 +5932,55 @@ y así también,
 Como **se destaca** en los pasajes anteriores: -
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “वेरि माऱाद पूमेलिरुप्पाळ् विऩैदीर्क्कुम्”( तिरुवाय्मॊऴि ४-५-११) ऎऩ्ऱुञ् जॊल्लुगिऱबडिये
 </details>
 
 
-it **would mean** that she **removes** all **hindrances**  
-in the way of those who **have adopted** the upāya (namely prapatti), such as karma ,  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(6) In the etymological interpretation, "She makes the world ripe by her qualities” (śṛṇātii), the root (Śrī) would mean that, by her attributes like compassion, she enables those who have sought her protection to become ripe enough to have the qualities necessary for rendering service to the Lord. This idea is brought out in the passage: "Having Thy grace and the grace of Thy Consort who abides in the lotus, I will sweep the floor of Thy temple". Bearing in mind all these excellences (of Lakṣmī) stated in all these interpretations, Aḷavandār wrote: " Thy name too is Śrī. How can we have the fitness to praise Thee?" Bhattar, too, had in mind her being unconditionally gracious and said :- " Bhagavān" is ever gracious because of His association with Thee. Thy graciousness is not due to any cause or condition. It exists of its own accord, for art Thou not Śrī ?" Among these meanings those that are appropriate to Bhagavān's being the upāya  should be borne in mind in regard to the first part (of Dvaya), while those that are appropriate to Bhagavān's being the object of attainment should be borne in mind in regard to the second part (of Dvaya ).
+उपायाधिकारिगळुक्कु विरोधिगळ् आऩ कर्मादिगळैक् कऴिक्कुम् ऎऩ्ऱद् आम्।
+</details>
+
+<details><summary>English</summary>
+
+it **would mean** that she **removes** all **hindrances**  
+in the way of those who **have adopted** the upāya (namely prapatti), such as karma.
+</details>
+
+<details><summary>Español</summary>
+
+**significaría** que ella **elimina** todos los **obstáculos**, como el karma  
+a la via de aquellos que **han adoptado** el upāya (es decir, prapatti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायाधिकारिकळुक्कु विरोधिकळाऩ कर्मादिगळैक्कऴिक्कुमॆऩ्ऱदाम्।
+</details>
+
+#### श्री पाके
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“श्रीणाति च गुणैर् जगत्” 
+
+ऎऩ्ऱु निरुक्तियिल् 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“श्रीणाति च गुणैर्जगत्” ऎऩ्ऱु निरुक्तियिल् 
+</details>
+
+
+(6) In the etymological interpretation, 
+
+> "She **makes** the world **ripe** by her qualities” (śṛṇātii), 
+
+the root (Śrī) would mean that, by her attributes like compassion, she enables those who have sought her protection to become ripe enough to have the qualities necessary for rendering service to the Lord. This idea is brought out in the passage: "Having Thy grace and the grace of Thy Consort who abides in the lotus, I will sweep the floor of Thy temple". Bearing in mind all these excellences (of Lakṣmī) stated in all these interpretations, Aḷavandār wrote: " Thy name too is Śrī. How can we have the fitness to praise Thee?" Bhattar, too, had in mind her being unconditionally gracious and said :- " Bhagavān" is ever gracious because of His association with Thee. Thy graciousness is not due to any cause or condition. It exists of its own accord, for art Thou not Śrī ?" Among these meanings those that are appropriate to Bhagavān's being the upāya  should be borne in mind in regard to the first part (of Dvaya), while those that are appropriate to Bhagavān's being the object of attainment should be borne in mind in regard to the second part (of Dvaya ).
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
