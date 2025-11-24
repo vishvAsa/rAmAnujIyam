@@ -31,7 +31,7 @@ Then follows the exposition of the meaning of the word Naraayana found in Dvaya,
 
 <details><summary>English</summary>
 
-Pratyaneeka" denotes not merely the absence of the evil qualities but that He destroys evil in others. 
+"Pratyaneeka" denotes not merely the absence of the evil qualities but that He destroys evil in others. 
 </details>
 
 **आनन्दकल्याण**-शब्दौ स्वपरापेक्षया अनुकूलत्वपरौ ।  

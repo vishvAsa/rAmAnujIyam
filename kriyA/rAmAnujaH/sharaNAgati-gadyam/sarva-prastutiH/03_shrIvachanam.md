@@ -216,43 +216,126 @@ like holding umbrella, waving 'Seshatva" chaamara, sounding kalanji (Thiruchinna
 
 अनन्त-वैनतेयादीनां सर्वविध-कैङ्कर्य-प्राप्ताव् अपि  
 कैङ्कर्यं प्रतिनियतं दृश्यते,  
+
+<details><summary>English</summary>
+
+But we know that Ananta (Sesha) and Garuda have their allotted tasks of service to the Lord.
+
+</details>
+
 "तत् कथम्?" इति शङ्कायाम् आह  
+
+<details><summary>English</summary>
+
+How then can all the services be open to a Devotee? 
+</details>
+
 **रतिरूप** इति ।  
+
+<details><summary>English</summary>
+
+To explain away any such doubt, Ramanuja uses the words Rati-Roopa.
+</details>
+
 स्वेन कृतत्वेऽपि पर+++(-वैकुण्ठ-वासि)+++-प्रीतिर् एव फलम् -  
+
+<details><summary>English</summary>
+
+Service by whomsoever done is to the pleasure of the Lord.
+</details>
+
 'प्रहर्षयिष्यामि' इति ह्युच्यते।  
+
+<details><summary>English</summary>
+
+So Aalavandaar uses the words "Praharshaishyami" only to gladden thee, not for my own pleasure.'
+</details>
+
 तस्माद्-अन्यकृतत्वेऽपि कैङ्कर्यस्य तज्-जनित-पर-प्रीतिं दृष्ट्वा  
 स्वकृतत्वे सतीव प्रीतिस्  
 सर्वेषां जायत इति  
+
+<details><summary>English</summary>
+
+Therefore, the service, even if rendered by another, there is satisfaction as if done by oneself, and that is due to the feeling caused by witnessing the pleasure of the Lord by such service rendered by the other or others;
+</details>
+
 तादृश-प्रीतिरूपं कैङ्कर्यम् इत्य् अर्थः, इति मन्त्रचतुर्थ्यर्थोक्तिः ।+++(5)+++
 
 <details><summary>English</summary>
 
-""
-""
-""
-But we know that Ananta (Sesha) and Garuda have their allotted tasks of service to the Lord. How then call all the services be open to a Devotee? To explain away any such doubt, Ramanuja uses the words Rati-Roopa. Service by whomsoever done is to the pleasure of the Lord. So it is pleasing to the doer; hence it also satisfies any another devotee in the same way as if he himself has done the service. So Aalavandaar uses the words "Praharshaishyami" only to gladden thee, not for my own pleasure.' Therefore, the service, even if rendered by another, there is satisfaction as if done be oneself, and that is due to the feeling caused by witnessing the pleasure of the Lord by such service rendered by the other or others; such satisfaction itself is the service. The implication of the fourth (Dative) case (Naraayanaaya) is set out here. 
+such satisfaction itself is the service. The implication of the fourth (Dative) case (Naraayanaaya) is set out here. 
 </details>
 
 
 **पारमार्थिकी** इति तमःकार्य-व्युदासाय ।  
-आनुकूल्यादि-शरीरवती, तद्धि तस्या उपायान्तरेभ्यः व्यावृत्तं स्वरूपम् । यथावस्थिता इति रजःकार्य व्युदासाय । प्रपत्तव्यविषयसम्बन्धरूपः प्रकारः । तत्साहित्यमभिप्रेतम् । शरणवरणानर्हे शरण्यत्वधीर्हि अयथावस्थिता स्यात् ।
+आनुकूल्यादि-शरीरवती, 
 
 <details><summary>English</summary>
 
-Paarmaarthikee means that the Saranaagati is not the result of Tamo Guna but due to the desire to do what will be pleasing to the Lord. That is the natural distinctive attribute of Saranaagati, distinctive from other Upayaas (ways of attaining Him) " Yatha avasthita " denotes that Saranaagati is not due to any RajoGuna. This is to be taken along with true manner in which Saranaagati is to be performed. denotes its quality. It cannot be true Saranaagati, if it is rendered unto a person not fit for such surrender. 
+Paarmaarthikee means that the Saranaagati is not the result of Tamo Guna but due to the desire to do what will be pleasing to the Lord.
+</details>
+
+
+तद्धि तस्या उपायान्तरेभ्यः व्यावृत्तं स्वरूपम् । 
+
+<details><summary>English</summary>
+
+That is the natural distinctive attribute of Saranaagati, distinctive from other Upayaas (ways of attaining Him) 
+</details>
+
+
+यथावस्थिता इति रजःकार्य व्युदासाय । 
+
+<details><summary>English</summary>
+
+"Yatha avasthita " denotes that Saranaagati is not due to any RajoGuna.
+</details>
+
+प्रपत्तव्यविषयसम्बन्धरूपः प्रकारः । 
+
+<details><summary>English</summary>
+
+This is to be taken along with true manner in which Saranaagati is to be performed. 
+</details>
+
+तत्साहित्यमभिप्रेतम् । 
+
+<details><summary>English</summary>
+
+It denotes its quality.
+</details>
+
+
+शरणवरणानर्हे शरण्यत्वधीर्हि अयथावस्थिता स्यात् ।
+
+<details><summary>English</summary>
+
+It cannot be true Saranaagati, if it is rendered unto a person not fit for such surrender. 
 </details>
 
 **अविरता** आफल-सिद्धेर् अ-विश्रान्ता ।  
+
+<details><summary>English</summary>
+
+Avirata-uninterrupted still goal is reached.
+</details>
+
 अव्यवहित-साधनम् इत्य् अर्थः ।  
+
+<details><summary>English</summary>
+
+That is, it is the direct means to attain the fruit desired and not indirect,
+</details>
+
 व्यवहितसाधनं हि मध्ये साधनान्तर-प्राचुर्ये स्वयं विरतं स्यात् । 
 
 <details><summary>English</summary>
 
-Avirata-uninterrupted still goal is reached. That is, it is the direct means to attain the fruit desired and not indirect, for, such indirect means do not last till the end but 'cease at some time on the way. 
+for, such indirect means do not last till the end but 'cease at some time on the way. 
 </details>
 
 </details>
-
 
 
 <details><summary>वेङ्कट-नाथः</summary>
@@ -280,8 +363,6 @@ Avirata-uninterrupted still goal is reached. That is, it is the direct means to 
 
 
 [^2_pg17]: मुक्ति - आ ।
-
-
 
 
 **भगवत्प्रपत्तेः स्वतन्त्रतया मोक्षसाधनत्वस्थापनम्॥**  
@@ -507,11 +588,18 @@ Bhakti at the lotus feet of the Lord.
 <details><summary>सुदर्शन-भट्टः</summary>
 
 **साक्षाद् अस्तु मे । अस्तु ते** - इति  
+
+<details><summary>English</summary>
+
+"Astu Te" these are the words of blessing by Lakshmi. Some say that these words were spoken by Sri Her-self; 
+</details>
+
+
 'तेन मैत्री भवतु ते ' (रा. सुं. २१-२०) इत्य्-आदि-मानगत्या निश्चित्येति केचित् ।
 
 <details><summary>English</summary>
 
-"Astu Te" these are the words of blessing by Lakshmi. Some say that these words were spoken by Sri Her-self; some say that the words are what Ramanuja himself says as having been spoken by Her as he felt sure that she would certainly say so; this is because she as Seeta has already declared in Ramayana "Tena Maitri Bhavatu" (word used by Seeta to Ravana). 
+some say that the words are what Ramanuja himself says as having been spoken by Her as he felt sure that she would certainly say so; this is because she as Seeta has already declared in Ramayana "Tena Maitri Bhavatu" (word used by Seeta to Ravana). 
 </details>
 
 स्व-सम्बन्धि-सम्बन्धि-निस्तरणम्[^1_pg23] अपि **सर्व**-शब्दाभिप्रेतम् । 
