@@ -914,10 +914,6 @@ a raiment of yellow silk, girdle and anklets,
 असंख्येय-नित्य-निरवद्य-निरतिशय-**कल्याण-दिव्य+आयुध** ! 
 </details>
 
-""
-""
-""
-
 <details><summary>सुदर्शन-भट्टः</summary>
 
 <dg 33/>
@@ -987,7 +983,7 @@ including weapons and ornaments.
 
 <details><summary>English</summary>
 
-[Translation text missing in source] [[??]]
+Then comes a passage which describes the splendid attributes of Sri and ends by saying that Iswara is the Lord of such a Sri. (The meaning of the passage has been already given).
 </details>
 
 [^1_pg35]: प्राग्वदर्थः - इ ।
@@ -1040,7 +1036,27 @@ beginning with the conch, discus, club, sword, and bow!
 
 <dg 35/>
 
-अथातिदेशः - एवम् इति । लक्ष्म्य्-अपेक्षया भूम्यादीनामपि शेषत्वाभिप्रायेण पृथगुक्तिः, यथा, 'याभिस्त्वं स्तनबाहुदृष्टिभिरिव स्वाभिःप्रियं श्लाघसे' इति ।
+अथातिदेशः - एवम् इति ।
+
+<details><summary>English</summary>
+
+He is also the Lord of Bhoo Devi and Neelaa Devi who are also possessed of the splendid qualities similar to these mentioned in connection with Sri. This is indicated by the word "Evambhoota."
+</details>
+
+लक्ष्म्य्-अपेक्षया भूम्यादीनामपि शेषत्वाभिप्रायेण पृथगुक्तिः,
+
+<details><summary>English</summary>
+
+The two Devis are mentioned separately as they occupy not the same status as Sri, but are her "Seshabhootas."
+</details>
+
+यथा, 'याभिस्त्वं स्तनबाहुदृष्टिभिरिव स्वाभिःप्रियं श्लाघसे' इति ।
+
+<details><summary>English</summary>
+
+Accordingly, it is said in Sri Guna Ratnakosa that Laxshmi pleases Her Lord by means of Bhoo and Neela whom she considers as her organs breast, hands, feet and look.
+</details>
+
 </details>
 
 
@@ -1089,9 +1105,115 @@ You are the consort of Bhūmī and Nīlā who are like Śrī!
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-अथ परिजनः, - सजातीय विजातीयव्यावर्तकाकारविशिष्टंस्वरूपम् , तस्य प्रतिनियतकालसम्बन्धः - स्थितिः, ईश्वरेच्छां ज्ञात्वानुवर्तते नित्यसिद्धाः, संसारिणस्तु तदनभिज्ञाः, तत्सङ्कल्पात्प्रवर्तन्त इति भिदा अभिप्रेता । भेदः - स्वरूपस्थितिप्रवृत्तिविशेषः, यद्वा संसारिभ्यो नित्यानां व्यावर्तकधर्माः, स्वच्छन्दानुवृत्तिस्वरूपस्थितिप्रवृत्तय इत्यर्थः नित्यनिरवद्य इति मुक्तव्यावृत्तिः । क्रिया - कैङ्कर्यम् । ऐश्वर्यम् - देहेन्द्रियादि नियमनम् ।
 
-शेषाशनः - सेनापतिः । छत्रचामरपादुकापतद्ग्रहधारणादिभेदेन नानाविधाः , तत्र एकैककोटिनिविष्टाश्च अनन्ताः । विमलाद्यभिप्रायेणोक्तम् परिचारिका इति । उक्तस्स्वरूपरूपगुणविभूषणादीनां परत्वसौलभ्यसाधारणत्त्वात् , दिव्यलोकविशेषात्पूर्वन्तदुभयमाह - परम इति । परमस्वरूपम् - नियन्तृस्वरूपम् , परमस्वभावः - सौलभ्यम् । निरूपकादन्यो निरुपाधिकधर्मः - स्वभावः। परमयोगि इत्य्-आदिकं देशविशेषणं वा । तथा श्रीवैकुण्ठगद्योक्तेः । तदा, स्वरूपं - सन्निवेशविशेषविशिष्टद्रव्यम् । तस्य भोग्यताप्रकारः स्वभावः ।
+अथ परिजनः, - सजातीय विजातीयव्यावर्तकाकारविशिष्टंस्वरूपम् , तस्य प्रतिनियतकालसम्बन्धः - स्थितिः, ईश्वरेच्छां ज्ञात्वानुवर्तते नित्यसिद्धाः, संसारिणस्तु तदनभिज्ञाः, तत्सङ्कल्पात्प्रवर्तन्त इति भिदा अभिप्रेता । 
+
+<details><summary>English</summary>
+
+Next, come " Parijanas": His Attendants. Swaroopa denotes a form distinguished from forms similar to, and different from forms of other kinds. "Sthiti" explains that things exist only so long as they are fixed in their places. It is here intended to point out the difference between Nitya Siddhas and the Samsaarins - While the former understand and know the wishes of the Lord by their own perceptive powers, the Samsaarins do not know of His wishes and desires but act only as the Lord wills.
+</details>
+
+भेदः - स्वरूपस्थितिप्रवृत्तिविशेषः, यद्वा संसारिभ्यो नित्यानां व्यावर्तकधर्माः, स्वच्छन्दानुवृत्तिस्वरूपस्थितिप्रवृत्तय इत्यर्थः 
+
+<details><summary>English</summary>
+
+The word "Bheda" qualifies the words Swaroopa, Sthiti, and Pravritti and shows the difference between them; it may also show that these activities etc., of Samsaarins are different from those of Nityas. Again, the word may be taken together as Swachachanda Anuvrtti - Swaroopa - Sthiti - Pravrttaya: (That is to say, the Nityas are distinct and are to be distinguished from Samsaarins, for, they act understanding intuitively the wishes of the Lord.)
+</details>
+
+
+नित्यनिरवद्य इति मुक्तव्यावृत्तिः । 
+
+<details><summary>English</summary>
+
+Nitya-Niravadya distinguishes Nityas from the Muktas.
+</details>
+
+क्रिया - कैङ्कर्यम् । 
+
+<details><summary>English</summary>
+
+"Kriya" here means Service to the Lord.
+</details>
+
+ऐश्वर्यम् - देहेन्द्रियादि नियमनम् ।
+
+<details><summary>English</summary>
+
+Aiswarya means the control and direction of the activities of the body, organs, etc.-
+</details>
+
+
+शेषाशनः - सेनापतिः । 
+
+<details><summary>English</summary>
+
+Sesha-asana is Vishvaksena, (for he is the eater of the remains of the food of the Lord) Cf. Aalvandaar's Stotra Ratna, "the Eater of the food left over after thy eating."
+</details>
+
+छत्रचामरपादुकापतद्ग्रहधारणादिभेदेन नानाविधाः , तत्र एकैककोटिनिविष्टाश्च अनन्ताः । 
+
+<details><summary>English</summary>
+
+Naanaavidha:of different kinds - Holding the Umbrella, whisking the Chaamara, serving as sandals or as a seat or the holding the betel spittoon are the varieties of such services. In each of the services the devotees employed are so many and innumerable.
+</details>
+
+विमलाद्यभिप्रायेणोक्तम् परिचारिका इति । 
+
+<details><summary>English</summary>
+
+Parichaarikaa is used keeping in mind females like Vimala (one of the lady attendants who whisk chaamaras.)
+</details>
+
+उक्तस्स्वरूपरूपगुणविभूषणादीनां परत्वसौलभ्यसाधारणत्त्वात् , दिव्यलोकविशेषात्पूर्वन्तदुभयमाह - परम इति । 
+
+<details><summary>English</summary>
+
+Then follows a description of Vaikuntha and describes Naraayana as the Lord of Vaikuntha.
+</details>
+
+परमस्वरूपम् - नियन्तृस्वरूपम् , परमस्वभावः - सौलभ्यम् । 
+
+<details><summary>English</summary>
+
+In the former case, ParamaSwarupa means His natural and supreme attribute of Rulership. Saulabhya is easy accessibility.
+
+</details>
+
+निरूपकादन्यो निरुपाधिकधर्मः - स्वभावः। 
+
+<details><summary>English</summary>
+
+Parama Swabhaava denotes some quality, other than swaroopa.
+</details>
+
+परमयोगि इत्य्-आदिकं देशविशेषणं वा । 
+
+<details><summary>English</summary>
+
+In the next passage, "Parama Yogi Vangmanasa Aparicchedya Swarupa Swabhaava" may be taken by itself as in the vocative case qualifying Paramatman'; or as qualifying Vaikuntha.
+</details>
+
+तथा श्रीवैकुण्ठगद्योक्तेः । 
+
+<details><summary>English</summary>
+
+as described in Vaikuntha Gadya.
+</details>
+
+तदा, स्वरूपं - सन्निवेशविशेषविशिष्टद्रव्यम् । 
+
+<details><summary>English</summary>
+
+In the latter, the word Swarupa will signify a structure.
+</details>
+
+तस्य भोग्यताप्रकारः स्वभावः ।
+
+<details><summary>English</summary>
+
+Enjoyability is its natural attribute.
+</details>
+
 </details>
 
 <details><summary>यदुगिरिग्रन्थ-टीप्पनी</summary>
@@ -1150,7 +1272,18 @@ first of all Śeṣa, Viṣvaksena, and Garuḍa—whose differences in proper f
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-विविधत्वं जातिभेदः । एकैकस्य[^1_pg38] व्यक्त्यानन्त्यम् अनन्त शब्दार्थः । आश्चर्यतारूपेण आनन्त्यं वा । विभवः -आयतनाद् बहिः भोग्य समृद्धिः । स्रक्चन्दनादिव्यतिरिक्त रथादि[^2_pg38]-समृद्धिर्वा।
+विविधत्वं जातिभेदः । 
+
+<details><summary>English</summary>
+
+Vividha denotes different varieties of the same thing.
+</details>
+
+""
+""
+""
+
+एकैकस्य[^1_pg38] व्यक्त्यानन्त्यम् अनन्त शब्दार्थः । आश्चर्यतारूपेण आनन्त्यं वा । विभवः -आयतनाद् बहिः भोग्य समृद्धिः । स्रक्चन्दनादिव्यतिरिक्त रथादि[^2_pg38]-समृद्धिर्वा।
 
 [^1_pg38]: एकत्र -इ ।
 

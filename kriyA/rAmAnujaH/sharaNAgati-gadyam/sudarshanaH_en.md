@@ -46,46 +46,6 @@ viana Jost
 Sri Saranagati. 
 2011 
 
-
-6. स्वानुरूापचिन्त्यशक्तिशङ्खचक्रगदासिशार्ङ्गाद्यसंख्येय नित्य निरवद्यनिरतिशयकल्याणदिव्यायुध ! 
-COMMENTARY 
-6. Then are mentioned His Divine weapons. "Achintya Sakti" Each weapon has the power to do the work of all the weapons as stated in Ramayana about the arrow of works generally done with the help of a crowbar, a Rama. "The chisel, and spade were performed by one arrow of Rama"; this refers to the splintering the seven saalaa (Aachcha) trees, the Hill and the Paataala Loka by one arrow of Rama let off by him to prove His 
-17 
-Prowess to Sugreeva. Niravadya has been explained already. Niratisaya Kalyaana denotes the 
-par- 
-excellent splendour of the whole vision, including weapons and ornaments. 
-Translation of Text 
-(6) Oh! Narayana, Thou bearest also various weapons of par-excellent powers, and worthy of Thee i.e. the Conch, the Discus, the Mace, the Sword and the Bow and such like other innumerable auspicious divine weapons of exceeding all others in power and Force. 
-His Consorts. 
-7. स्वाभिमतनित्यनिरवद्यानुरूपख रूपरूपगुणविभवैश्वर्यशीलाद्यनवधिकातिशयासंख्येयकल्याणगुणगणश्रीवल्लभ ! एवंभूतभूमिनीळा नायक ! 
-COMMENTARY 
-7. Then comes a passage which describes the splendid attributes of Sri and ends by saying that Iswara is the Lord of such a Sri. (The meaning of the passage has been already given). He is also the Lord of Bhoo Devi and Neelaa Devi who are also possessed of the splendid qualities similar to these mentioned in connection with Sri. 
-This is 
-indicated by the word "Evambhoota." The two Devis are mentioned separately as they occupy not the same status as Sri, but are her "Seshabhootas." Accordingly, it is said in Sri Guna Ratnakosa that Laxshmi pleases Her Lord by means of Bhoo and Neela whom she considers as her organs breast, hands, feet and look. 
-2 
-18 
-bonize used an Translation of Text 
-(7) Thou art also the Consort of Sri with a form harmonising, with Thine and of highly beneficeient qualities, such as Glory, Rulership with unenumerable excellent qualities; Thou art also 
-also the consort of Bhoo Devi, and Neelaa Devi, possessed of similar qualities. 
-His Attendants. 
-nisia 
-8. स्वच्छन्दानुवृत्तिस्वरूपस्थितिप्रवृत्तिभेदाशेषशेषतैकरतिरूप नित्यनिरवद्यनिरतिशयज्ञानक्रियैश्वर्याद्यनन्तगुणगणशेषशेषाशनगरुडप्रमुख- 
-नानाविधानन्तपरिजनपरिचारिकापरिचरितचरणयुगल ! 
-COMMENTARY 
-(8) Next, come " Parijanas": His Attendants. Swaroopa denotes a form distinguished from forms similar to, and different from forms of other kinds. "Sthiti" explains that things exist only so long as they are fixed in their places. It is here intended to point out the difference between Nitya Siddhas and the Samsaarins-While the former understand and know the wishes of the Lord by their own perceptive powers, the Samsaarins do not know of His wishes and desires but act only as the Lord wills. The word "Bheda" qualifies the words Swaroopa, Sthiti, and Pravritti and shows the difference between them; it may also show that these activities etc., of Samsaarins are different from 
-19 
-- 
-those of Nityas. Again, the word may be taken together as Swachachanda Anuvrtti - Swaroopa Sthiti-Pravrttaya: (That is to say, the Nityas are 
-ti Pravy distinct and are to be distinguished from Samsaarins, for, they act understanding intuitively the wishes of 
-the Lord. 
-Nitya-Niravadya distinguishes Nityas from the 
-Muktas. 
-"Kriya" here means Service to the Lord. Aiswarya means the control and direction of the activities of the body, organs, etc.-Sesha-asana is Vishvaksena, (for he is the eater of the remains of the food of the Lord) Cf. Aalvandaar's Stotra Ratna, "the Eater of the food left over after thy eating." 
-Naanaavidha:of different kinds-Holding the Umbrella, whisking the Chaamara, serving as sandals or as a seat or the holding the betel spittoon are the varieties of such services. In each of the services. the devotees employed are so many and innumerable. Parichaarikaa is used keeping in mind females like Vimala (one of the lady attendants who whisk chaamaras.) 
-Translation of Text 
-(8) Thou possessest also innumerable followers and servants, male and female, to minister to Thy wants and comforts, waiting at Thine Feet, whose form, existence and actions are due to Thine will: they are, Aadisesha, Vishvaksena, Garuda, who are endowed with host of beneficient virtues, Unperishing. Pure, Of limitless wisdom and energy for action, Endowed with power to direct and maintain. 
-His Vaikunta. 
-20 
 9. परमयोगिवाङ्मनसापरिच्छेद्यखरूपखभावखाभिमतविविध विचित्रानन्तभोग्यभोगोपकरणभोगस्थानसमृद्धानन्ताश्चर्यानन्तमहाविभवा नन्तपरिमाणनित्यनिरवद्यनिरतिशय श्रीवैकुण्ठनाथ ! 
 COMMENTARY 
 (9) Then follows a description of Vaikuntha 15 and describes Naraayana as the Lord of Vaikuntha. 
