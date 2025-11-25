@@ -1488,23 +1488,103 @@ whose sole proper nature is to be dependent in proper form, continuation, and ac
 गोपालदेशिकाह्निके ऽयम् भागो लुप्तः।
 </details>
 
-""
-""
-""
-
 <details><summary>सुदर्शन-भट्टः</summary>
 
 अथ उक्ताकारेषु समाख्याष्टकं प्रमाणयति ।  
 
+<details><summary>English</summary>
+
+The following eight Namas (names) are used as proofs to show that He is possessed of all the qualities mentioned before as natural to Him.
+</details>
+
 **सत्यकाम** इति - नित्यविभूतिमत्त्व-सिद्धिः ।  
+
+<details><summary>English</summary>
+
+By Satyakaama, the Lord is denoted as possessing Nitya Vibhooti.
+</details>
+
 **सत्यसङ्कल्प** इति लीलाविभूतिमत्त्वसिद्धिः ।  
-निमित्तमात्रत्वं सत्यसङ्कल्पतया सिद्धमिति उपादानतामप्यभिप्रयन्नाह परब्रह्मभूत इति । उपादानत्वेऽपि चिदचिद्गतदोषास्पृष्टत्वमाह पुरुषोत्तम इति।
 
-उपादनभूतस्य कथं जगद्वैलक्षण्यम् इति शङ्कायां घटकमर्थमाह महाविभूते इति । शरीरकतया विभूतिमत्त्वमभिप्रेतम् । विभूतिं प्रति शेषत्वं द्विनिष्ठम् इत्यभिप्रायेणाह श्रीमन् इति । महविभूते इति शरीरकतया विभूतिमत्त्वसाधारणोक्तमर्थं विविच्य दर्शयिष्यन् दोषास्पृष्टत्वसिद्धये लीलाविभूति शरीरकत्वमाह - नारायण इति । 'नराज्जातानि तत्त्वानि नाराणीति ततो विदुः' इति निर्वचनमिहाभिप्रेतम् । नित्यविभूतियोगे समाख्यां स्पष्टयतिवैकुण्ठनाथ इति । 'कुठि-गतिप्रतिघाते' (धा.पा.३४३) इति धातुः । ज्ञानप्रतिघातिकर्मादिरहितास्सूरयो विकुण्ठाः, तत्सम्बन्धिदेशो वैकुण्ठाख्यः ।
+<details><summary>English</summary>
 
+Satya Sankalpa denotes the possession of Leelaa Vibhooti
+</details>
+
+निमित्तमात्रत्वं सत्यसङ्कल्पतया सिद्धमिति उपादानतामप्यभिप्रयन्नाह परब्रह्मभूत इति । 
+
+<details><summary>English</summary>
+
+and also that He is the nimitta Kaarana (creative cause). To show that He is also the Upaadaana Kaarana, the name parabrahmabhoota is used.
+</details>
+
+उपादानत्वेऽपि चिदचिद्गतदोषास्पृष्टत्वमाह पुरुषोत्तम इति।
+
+<details><summary>English</summary>
+
+To show that though He is the Upaadaana Kaarana, He is not affected by any infirmities of material things, the next Nama, Purushothama is used.
+</details>
+
+उपादनभूतस्य कथं जगद्वैलक्षण्यम् इति शङ्कायां घटकमर्थमाह महाविभूते इति । 
+
+<details><summary>English</summary>
+
+To dispel any doubt that may be created as to how, being the Upadaana Kaarana, He can be said to be separate and distinct from Prakarti, the next Name Mahaa Vibhooti is used reminding us of the harmonising sruti.
+</details>
+
+शरीरकतया विभूतिमत्त्वमभिप्रेतम् । 
+
+<details><summary>English</summary>
+
+That is to say, He has the Vibhootis as His Body.
+</details>
+
+विभूतिं प्रति शेषत्वं द्विनिष्ठम् इत्यभिप्रायेणाह श्रीमन् इति । 
+
+<details><summary>English</summary>
+
+To denote that they both Iswara and Sri. are jointly Masters, the word 'Sriman' follows.
+</details>
+
+
+महविभूते इति शरीरकतया विभूतिमत्त्वसाधारणोक्तमर्थं विविच्य दर्शयिष्यन् दोषास्पृष्टत्वसिद्धये लीलाविभूति शरीरकत्वमाह - नारायण इति । 
+
+<details><summary>English</summary>
+
+The next name Naaraayana "is used to convey the same sense in some detail (i.e., Iswara and Sri). That He is not affected by the infirmities attaching to the Vibhooti, has been already expressed in some what general terms by the word "Mahaa Vibhooti.
+</details>
+
+'नराज्जातानि तत्त्वानि नाराणीति ततो विदुः' इति निर्वचनमिहाभिप्रेतम् । 
+
+<details><summary>English</summary>
+
+The Nirukti of the word (Naaraayana) Naraat Jaataani. Tatvaani Naraani Iti Tato Vidu:"
+</details>
+
+नित्यविभूतियोगे समाख्यां स्पष्टयतिवैकुण्ठनाथ इति । 
+
+<details><summary>English</summary>
+
+Again, to show explicitly and authoritatively the existance of NityaVibhooti, the name Vikunta Naatha is used.
+</details>
+
+'कुठि-गतिप्रतिघाते' (धा.पा.३४३) इति धातुः । 
+
+<details><summary>English</summary>
+
+The root meaning of Vaikuntha is as follows: The root Kuthi = gati-Pratighaata means "to obstruct know ledge"
+</details>
+
+
+ज्ञानप्रतिघातिकर्मादिरहितास्सूरयो विकुण्ठाः, तत्सम्बन्धिदेशो वैकुण्ठाख्यः ।
+
+<details><summary>English</summary>
+
+The obstructions are caused by Karma. Vi = without; Vikuntha = without karma or obstruction to knowledge. Souls whose knowledge is not obstructed by karma and such like impediments are called Vikuntha. The place where they reside is called Vai-kunta.
 
 </details>
 
+</details>
 
 
 <details><summary>वेङ्कट-नाथः</summary>
@@ -1574,6 +1654,10 @@ Possessed of great glory! With Śrī! Nārāyaṇa! Lord of Vaikuṇṭha!
 </details>
 
 <details><summary>सुदर्शन-भट्टः</summary>
+
+""
+""
+""
 
 एवम् उपायोपेयत्त्वसाधारणाकारा उक्ताः । अथ उपायत्वैकान्तगुणा उच्यन्ते अपार इत्य्-आदि-ना । कारुण्याद्यगोचरे मय्यपि कार्यकरं कारुण्यादिकमिति **अपार**-शब्दस्य भावः । कारुण्यादिकं पूर्ववत् ।
 
