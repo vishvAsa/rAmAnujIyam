@@ -1387,23 +1387,62 @@ with objects of enjoyment and instruments of enjoyment endless in kind and varie
 गोपालदेशिकाह्निके ऽन्तिमैव पङ्क्तिर् विद्यते।
 </details>
 
-""
-""
-""
-
 <details><summary>सुदर्शन-भट्टः</summary>
 
-अथ लीलाविभूतिः - [^1_pg40]नियमनञ्च धारणसिद्धम्[^1_pg40] स्वसङ्कल्प इति । शेषत्वमाहस्व इति । कालस्य प्रकृत्यनन्तरानुक्तिः प्रकृतिपुरुषयोस्संयोग वियोगहेतुत्वात् । 'तस्यैव तेऽन्येन धृते वियुक्ते रूपान्तरम्' इति ह्युच्यते ।
+अथ लीलाविभूतिः - [^1_pg40]नियमनञ्च धारणसिद्धम्[^1_pg40] स्वसङ्कल्प इति ।
+
+<details><summary>English</summary>
+
+Then follows a description of Leelaa Vibhooti, the Universe and all things in it. By the word, "Svasankalpa" it is meant to convey the meaning that not only that He controls and directs but also that He sustains and protects.
+</details>
 
 [^1_pg40]: निगमनं धारणं चइ ।
 
-शब्दस्पर्शादिरूपेण वैविध्यम् । तदवान्तर भिदया[^1_pg41]। विचित्रत्वम् । **निखिल**-शब्देन ब्रह्मादिव्यावृत्तिः ।
+शेषत्वमाहस्व इति । 
+
+<details><summary>English</summary>
+
+Then about Seshaatvam. This means that the whole Universe is under service to Him.
+</details>
+
+कालस्य प्रकृत्यनन्तरानुक्तिः प्रकृतिपुरुषयोस्संयोग वियोगहेतुत्वात् । 
+
+<details><summary>English</summary>
+
+Kaala generally comes after Prakrti as both are Achetana. Here, the reason why "Kaala" is not mentioned next after Prakrti but before is because it acts as the Kaarana" the cause of the Purusha and Prakrti bringing together and also separating one from the other.
+</details>
+
+'तस्यैव तेऽन्येन धृते वियुक्ते रूपान्तरम्' इति ह्युच्यते ।
+
+<details><summary>English</summary>
+
+Vishnu Purana says: "Distinct from Vishnu, there are two things called Pradhana and Purusha. As the active principle to bring them together also to separate them is Kaala. That also is His body.”
+</details>
+
+शब्दस्पर्शादिरूपेण वैविध्यम् । 
+
+<details><summary>English</summary>
+
+“Vividha” variegated in the matter of sound, touch, etc.
+</details>
+
+तदवान्तर भिदया[^1_pg41]। विचित्रत्वम् । 
+
+<details><summary>English</summary>
+
+"Vichitra" implies distinction.
+</details>
 
 [^1_pg41]: भिदा - इ ।
 
+**निखिल**-शब्देन ब्रह्मादिव्यावृत्तिः ।
 
+<details><summary>English</summary>
+
+The word Nikhila is used to differentiate Iswara from Brahma (The Four-faced) and others.
 </details>
 
+</details>
 
 
 <details><summary>वेङ्कट-नाथः</summary>
@@ -1448,6 +1487,10 @@ whose sole proper nature is to be dependent in proper form, continuation, and ac
 
 गोपालदेशिकाह्निके ऽयम् भागो लुप्तः।
 </details>
+
+""
+""
+""
 
 <details><summary>सुदर्शन-भट्टः</summary>
 

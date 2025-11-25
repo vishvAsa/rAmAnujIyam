@@ -46,38 +46,9 @@ viana Jost
 Sri Saranagati. 
 2011 
 
-9. परमयोगिवाङ्मनसापरिच्छेद्यखरूपखभावखाभिमतविविध विचित्रानन्तभोग्यभोगोपकरणभोगस्थानसमृद्धानन्ताश्चर्यानन्तमहाविभवा नन्तपरिमाणनित्यनिरवद्यनिरतिशय श्रीवैकुण्ठनाथ ! 
-COMMENTARY 
-(9) Then follows a description of Vaikuntha 15 and describes Naraayana as the Lord of Vaikuntha. 
-In the next passage, "Parama Yogi Vangmanasa Aparicchedya Swarupa Swabhaava" may be taken by itself as in the vocative case qualifying Paramatman'; or as qualifying Vaikuntha as described in Vaikuntha Gadya. In the former case, ParamaSwarupa means His natural and supreme attribute of Rulership. In the latter, the word Swarupa will signify a structure. Parama Swabhaava denotes some quality, other than swaroopa. is easy accessibility. 
-attribute. 
-66 
-Saulabhya,' 
-98 
-Vibhava 
-Enjoyability is its natural Vividha denotes different varieties of the same thing. The innumerability of each of the variety of the things is described by Ananta. Wonders are so many and numerous. denotes the abundance of enjoyable things-enjoyable garlands, and sandals, etc.) Nitya means Eternal as, merely, chariots, etc., (not Existence. Niravadya is used to show that there is no blemish or fault in any of the things found in Vaikuntha. Niratisaya the word nothing higher than this, meaning something like Anuttama. 
-outside such 
-21 
-Translation of Text 
-(9) Thou art also the Lord of Vaikuntha, the Eternal, Faultless, Unmeasurable World, beyond the speech or the minds of even the holy Yogins -a Country dear to Thee, containing in itself all kinds and varieties of enjoyments and the things helpful for such enjoyments as also places convenient for such enjoyments, full of all kinds of 
-Vaikunta of Vibhavas-Such is the 
-Oh! Lord. 
-Thine, 
-His recreation. 
-10. खसङ्कल्पानुविधायित्वरूपस्थितिप्रवृत्तिस्वशेषतैकखभावप्रकृतिपुरुषकालात्मकविविधविचित्रानन्तभोग्यभोक्तृवर्गभोगोपकरणभोग स्थानरूपनिखिलजगदुदयविभवलयलील ! 
-COMMENTARY 
-a description of Leelaa (10) Then follows Vibhooti, the Universe and all things in it. By the word, 
-"Svasankalpa" it is meant to convey the meaning that not only that He controls and directs but also that He sustains and protects. This means that the Then about Seshaatvam. whole Universe is under service to Him. 
-Kaala generally comes after Prakrti as both are Achetana. is not mentioned Here, the reason why "Kaala" next after Prakrti but before is because it acts as the Kaarana" the cause of the Purusha and Prakrti 
-46 
-. 
-22 
-bringing together and also separating one from the other. Vishnu Purana says: "Distinct from Vishnu, there are two things called Pradhana and Purusha. As the active principle to bring them together 
-also to separate them is Kaala. That also is His and body.” “ Vividha” variegated in the matter of sound, touch, etc. "Vichitra" implies distinction. word Nikhila is used to differentiate Iswara from Brahma (The Four-faced) and others. 
-Translation of Text 
-The 
-(10) Thy sport is the Creation, Maintenance and the Dissolution of the worlds which contain in themselves many different kinds of enjoyments, the instruments of enjoyment and suitable places for such enjoyment, such as, Prakrti, Purusha and Kaala which are by their nature ever under service to Thee, Oh! Lord, in the matter of their Form, their existence, and their activities; they always follow only Thy wishes and the dictates of Thine. 
-Invocations denoting the above qualities. 
+
+
+
 11. सत्यकाम ! सत्यसङ्कल्प ! 
 महाविभूते ! श्रीमन् ! नारायण ! वैकुण्ठनाथ ! अपारकारुण्यसौ- 
 शील्य वात्सल्यौदार्यैश्वर्यसौन्दर्यमहोदधे ! 
