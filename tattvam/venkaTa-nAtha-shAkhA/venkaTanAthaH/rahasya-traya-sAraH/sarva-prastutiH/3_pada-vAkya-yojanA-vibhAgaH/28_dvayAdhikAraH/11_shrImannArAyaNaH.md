@@ -3521,6 +3521,11 @@ realmente **significa**, en base al Śruti, la relación específica (de ser el 
 सामान्यमागत्तोऱ्ऱिऩ सम्बन्धम् श्रुतिबलत्ताले विशेषितम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि पुरुषवाचकनारायण शब्दमिरुन्दालुमदु सम्बन्धान्तरत्तिऱ्कुम् साधारणमागैयाले पतित्वत्तैये सॊल्लुमॆऩ्बदऱ्कु नियामकमागुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् सामान्यमागत् तोऱ्ऱिऩ इत्यादियाल्।  
+श्रुतिबलत्ताले - “ह्रीश्च ते लक्ष्मीश्च पत्न्यौ” ऎऩ्ऱु पतिपत्नीभावत्तैच् चॊल्लुगिऱ श्रुतिबलत्ताले, 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3569,6 +3574,12 @@ y su fácil **accesibilidad**
 सर्वरुक्कुमाश्रयणीयैयाय् जगन्मातावाऩ इवळुक्कु पतियॆऩ्ऩवे परत्वमुम् सौलभ्यमुन्दोऱ्ऱम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि लक्ष्मिक्कु पति ऎऩ्ऱदाल् नारायणऩुक्कु वरुम् उत्कर्षत्तैक् काट्टुगिऱार् सर्वरुक्कुमित्यादियाल्। सर्वरुक्कुम् आश्रयणीयैयाऩ इवळुक्कु पतियॆऩ्गैयाले परत्वमुम्, जगन्मातावाऩ इवळुक्कु पतियॆऩ्ऱदाले सौलभ्यमुम् सिन्धिक्कुमॆऩ्ऱबडि। 
+</details>
+
+
 ### नारान्तराद् भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3608,6 +3619,12 @@ para **mostrar** que
 इङ्गु पिराट्टियै विशेषित्तॆडुक्कैयाले नारशब्दार्थङ्गळाऩ वस्त्वन्तरङ्गळिऱ्काट्टिल् व्यावृत्तियुम्
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नारशब्दत्तालेये श्रीयुम् सॊल्लप्पट्टिरुक्क विशेषणतया श्रीयिऩ् पृथक्कीर्तनत्तिऱ्कु प्रयोजनमुण्डो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इङ्गु पिराट्टियै इत्यादिना । 
+</details>
+
+
 ### पारार्थम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3644,6 +3661,11 @@ de acuerdo con los pramāṇas
 <details><summary>मूलम्</summary>
 
 विशेषणमाग निर्देशिक्कैयाले यथाप्रमाणम् पतिपारार्थ्यमुम् सूचितम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+यथाप्रमाणम् - “अनन्या राघवेणाहं भास्करेण प्रभा यथा” ऎऩ्गिऱ प्रमाणत्तिऩ्बडि, इन्द प्रमाणत्तिल् भास्करऩुक्कुप्पोले राघवऩुक्कु धर्मित्वमुम्, प्रभैक्कुप्पोले सीदैक्कु धर्मत्वमुमेऱ्पडुगैयाले पतिपारार्थ्यम् सूचितमॆऩ्ऱु करुत्तु।
 </details>
 
 
@@ -3691,6 +3713,12 @@ Aunque los suftix como "matup" **tienen** (todos) los siguientes significados:-
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मतुप्पुक्कु भूमाद्यनेकार्थमिरुन्दालुम् इन्द श्रीशब्दोत्तरमतुप्पुक्कु नित्ययोगमर्थमॆऩ्गिऱार् भूमनिन्देत्यादि । भूमावुक्कु उदाहरणम्:- बहुधनमुळ्ळवऩिडत्तिलुम् बहुपशुवुळ्ळ वऩिडत्तिलुम् “धनवान्”, “पशुमान्” ऎऩ्बदु। निन्दैक्कु उदाहरणम्:- निन्दितमाऩ श्रेयस्सैयुडैयवऩ् विषयत्तिल् अदावदु अल्पायुर्विषयत्तिल् महदिदं कौशलमायुष्मतां ऎऩ्बदु। प्रशंसैक्कु उदाहरणम्:- बुद्धिमान् ऎऩ्बदु। प्रशस्तमाऩ बुЋद्धयैयुडैयवॆऩ्ऱ पडि। नित्ययोगत्तुक्कु उदाहरणम्:- प्रभावान्, कृष्णसर्पवान् वल्मीकः ऎऩ्बदु। अतिशायनत्तुक्कु उदाहरणम्:- शक्तिमान्, वीर्यवान् ऎऩ्बदु; अतिशयितशक्त्यादिमान् ऎऩ्ऱबडि। संसर्गत्तिऱ्कु उदाहरणम्:- स्फटिको लौहित्यवान् ऎऩ्बदु। अस्तिविवक्षैक्कु उदाहरणम्:- भूतलं घटवत्, पर्वतो वह्निमान् ऎऩ्बदु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गु मतुप्  
@@ -3724,6 +3752,14 @@ lo cual **es bien conocido** por los pramāṇas.
 
 इङ्गु मतुप् उपयोगविशेषत्ताले प्रमाणसिद्धमाऩ नित्ययोगत्तैच् चॊल्लुगिऱदु।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उपयोगविशेषत्ताले इति । उपयोगविशेषमावदु पुरुषकारादि ।  
+
+प्रमाणसिद्धमाऩ नित्ययोगत्तै इति । “लक्ष्मीमनपगामिनीं”, “विष्णोः श्रीरनपायिनी” त्यादिप्रमाणसिद्धमाऩ अविनाभावत्तैयॆऩ्ऱबडि। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3766,6 +3802,13 @@ incluso cuando **asumió** la forma de un Brahmacharin (en Vāmanāvatāra),
 
 विग्रहत्तिल् ब्रह्मचर्यावस्थैयिलुमुळ्बड “कृष्णाजिनेन संवृण्वन् वधूं वक्षस्स्थलालयां”() ऎऩ्ऩुम्बडियिऱे नित्ययोगमिरुप्पदु।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द नित्ययोगम् स्त्रीपुंशरीरविशिष्टर्गळुक्कऩ्ऱो सॊल्ल वेण्डुम्; अदु रामावतारसमयत्तिल् वियुक्तर्गळाऩ सीतारामर्गळुक्कु इल्लैये यॆऩ्ऩ वरुळिच्चॆय्गिऱार् विग्रहत्तिलिति । ब्रह्मचर्यावस्थैयिल् - वामऩऩुडैय ब्रह्मचर्यावस्थैयिल्, नित्ययोगमिरुप्पदु - इदै विग्रहत्तिलॆऩ्बदोडन्वयिप्पदु। इदऩाल् ब्रह्मचर्याश्रमत्तिलुम् पिरियाद लक्ष्मीसम्बन्धम् सीतावियोगकालत्तिलुम् रामऩिडत्तिल् गूढमाग इरुन्दिरुक्कवेण्डुम्।  
+सीतावियोगादिगळुम् अभिनयमात्रङ्गळागवेण्डुमॆऩ्ऱु सूचितम्। 
+</details>
+
 
 ### अपृथक्-सिद्धौ
 #### मतुब्य् आक्षेपः
@@ -3848,6 +3891,12 @@ que **se** pone en aposición con él.
 
 अपृथक्सिद्धवस्तुवुक्कु “श्रीमान्” ऎऩ्ऱु मत्वर्थीयप्रत्ययसापेक्षमाग सामानाधिकरण्यङ्गूडुमोवॆऩ्ऱुम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ननु श्रीभगवाऩुक्कु अपृथक्सिद्धविशेषणमागिल् श्रीमान् ऎऩ्ऱु मत्वर्थीयप्रत्यय सापेक्षमाऩ प्रयोगम् कूडादु। पृथक्सिद्धविशेषणमागिल् गीतैयिल् “कीर्तिः”, “श्रीः” ऎऩ्ऱु मत्वर्थीय प्रत्ययनिर-प्रत्ययनिरपेक्षसामानाधिकरण्यप्रयोगमुम्, “पूविल् वाऴ्मगळाय्” ऎऩ्गिऱ प्रयोगमुम् बाधितमामॆऩ्ऱु शङ्गित्तु उत्तरमरुळिच्चॆय्गिऱार् अपृथक्सिद्ध वस्तुवुक्कु इत्यादियाल्। 
+</details>
+
 
 #### आक्षेपः पार्थक्ये
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4014,8 +4063,8 @@ por las **siguientes** razones:
 #### समाधानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> “तद्-गुण-सारत्वात्  
-तद्-व्यपदेशः - प्राज्ञवत्”  
+> “तद्+++(→ज्ञान)+++-गुण-सारत्वात्  
++++("विज्ञानं यज्ञन् तनुते"←)+++ तद्-व्यपदेशः - +++("आनन्दः" भगवान्←)+++प्राज्ञवत्”  
 ( ब्रह्मसूत्रम् २-३-२९) 
 
 ऎऩ्गिऱ न्यायत्ताले 
@@ -4023,8 +4072,8 @@ por las **siguientes** razones:
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> “तद्-गुण-सारत्वात्  
-तद्-व्यपदेशः - प्राज्ञवत्”  
+> “तद्+++(→ज्ञान)+++-गुण-सारत्वात्  
++++("विज्ञानं यज्ञन् तनुते"←)+++ तद्-व्यपदेशः - +++("आनन्दः" भगवान्←)+++प्राज्ञवत्”  
 ( ब्रह्मसूत्रम् २-३-२९) 
 
 इति न्यायेन 
@@ -4055,6 +4104,17 @@ porque Ānanda **es** una cualidad esencial y distintiva de Brahman."
 
 “तद्गुणसारत्वात् तद्व्यपदेशः प्राज्ञवत्”( ब्रह्मसूत्रम् २-३-२९) ऎऩ्गिऱ न्यायत्ताले 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तद्गुणसारत्वादिति ।  
+ज्ञानगुणः सारः यस्य तत्त्वात् ।  
+सारभूतमाऩ ज्ञानगुणकमागय् इरुक्कैयाले,  
+तद्व्यपदेशः – विज्ञानं यज्ञन् तनुत इत्यादिगळिल् आत्मावुक्कु ज्ञानत्वेन व्यपदेशः,  
+अदु ऎप्पडि ऎऩ्ऱाल्  
+प्राज्ञऩ् आऩ भगवाऩ् सारभूतमाऩ आनन्दगुणत्तैयुडैयवायिरुक्कैयाल् अवऩुक्कु “यदेष आकाश आनन्दो न स्यात्” इत्यादिगळिल् आनन्दत्वेन व्यपदेशमाऩदु ऎप्पडियो अप्पडि ऎऩ्ऱर्थम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4127,6 +4187,12 @@ el sufijo matup **se adjunta** a jñāna, como en dandin, donde la **conexión e
 इङ्गुङ्गुऱैयिल्लै।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कुऱैयिल्लै इति । अपृथक्सिद्धविशेषणमायिरुन्दाल् मत्वर्थीयप्रत्ययनिरपेक्षसामानाधिकरण्यम् वरलाम् ऎऩ्बदेयॊऴिय मत्वर्थीयप्रत्ययसापेक्षसामानाधिकरण्यम् वरक्कूडा तॆऩ्ऱु नियममिल्लै। आगैयाल् ज्ञानवान् ज्ञानं ऎऩ्ऱु आत्मावै व्यवहरिप्पदुबोल् इङ्गुम् श्रीमान् श्रीः ऎऩ्ऱु व्यवहारत्तुक्कु कुऱैयिल्लै यॆऩ्ऱु करुत्तु।
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4162,6 +4228,12 @@ que la **existencia** o **no existencia** del sufijo matup
 <details><summary>मूलम्</summary>
 
 आगैयाल् मत्वर्थीयप्रत्ययमात्रत्तैक्कॊण्डु पृथक्सिद्धमॆऩ्ऱु निश्चयिक्कप् पोगादु।
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि अपृथक्सिद्धवस्तुवुक्कु मत्वर्थप्रत्ययसापेक्षमायुम् निरपेक्षमायुम् सामानाधिकरण्यम् काणप्पडुवदु पोल् पृथक्सिद्धवस्तुवुक्कुम् अप्पडिये सामानाधिकरण्यप्रयोगमिरुप्पदाल् इदैक्कॊण्डे धर्मत्तुक्कु पृथक्सिद्धत्वत्तैयुम् अपृथक्सिद्धत्वत्तैयुम् निर्णयिक्कमुडियादागैयाल् विशदमाग प्रतिपादिक्कुम् प्रमाणान्तरत्तैक्कॊण्डे अदै निर्णयिक्कवेण्डुमॆऩ्गिऱार् आगैयालित्यादिना । 
 </details>
 
 
@@ -4256,6 +4328,12 @@ que **lo sacan** claramente
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तॆळिय प्राप्तमित्यन्तेन । नरपतिरेव सर्वे लोकाः इति । इङ्गु तादधीन्यविवक्षया मत्वर्थप्रत्ययनिरपेक्षसामानाधिकरण्यप्रयोगः अपृथक्सिद्धत्वाभिप्रायत्तालेयऩ्ऱु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्ग् उपाय-दशैयिलुम्, फल-दशैयिलुम्  
@@ -4293,14 +4371,27 @@ y en el estado en el que el fruto (de la adopción del upāya) **se disfruta**
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि पूर्वोत्तरखण्डङ्गळिल् मतुप्पाले नित्ययोगमे सॊल्लप्पडुगिऱदॆऩ्बदै सोपपत्तिकमागवरुळिच्चॆय्गिऱार् इङ्गुपायदशैयिलुम् फलदशैयिलुमित्यादियाल्। प्रमाणङ्गळ् नित्ययोगत्तैच् चॊल्लुगैयालुमिति । 
+
+"लक्ष्म्या सह हृषीकेशः"  
+ऎऩ्बदु उपायदशैयिल् नित्ययोगत्तै प्रतिपादिक्किऱ प्रमाणम्। 
+
+> वैकुण्ठे तु परे लोके  
+श्रिया सार्धम् 
+
+ऎऩ्बदु फलदशैयिल् नित्ययोगत्तैच् चॊल्लुगिऱ प्रमाणम्। 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इम्-मन्त्रत्तिल् इव्व्-अर्थम् प्रकाशिप्पिक्कै अपेक्षितम् आगैयालुम् 
+इम्-मन्त्रत्तिल् इव्व्-अर्थम् +++(प्रमाणानुरोधेन)+++ प्रकाशिप्पिक्कै अपेक्षितम् आगैयालुम् 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
-अस्मिन् मन्त्रे एतद्-अर्थ-प्रकाशनस्यापेक्षितत्वाच् च  
+अस्मिन् मन्त्रे +++(प्रमाणानुरोधेन)+++ एतद्-अर्थ-प्रकाशनस्यापेक्षितत्वाच् च  
 </details>
 
 
@@ -4319,18 +4410,47 @@ y dado que en este mantra (Dvaya) es necesario enfatizar esta idea de **conexió
 इम्मन्त्रत्तिलिव्वर्थम् प्रकाशिप्पिक्कै अपेक्षितमागैयालुम् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इम् मन्त्रत्तिलिव्वर्थमिति । इव्वर्थम् - नित्ययोगरूपार्थम्, आत्महविरुद्देश्यत्वम् उभयनिष्ठमागैयाले उभयोर्नित्ययोगम् पूर्वखण्डत्तिल् प्रकाश्यम्। अप्पडियेउभयनिरूपितशेषत्वाश्रयऩाऩ इवऩुक्कु उभयप्रतिसम्बन्धियाऩ कैङ्कर्यमे उद्देश्यमागैयाल् उत्तरखण्डत्तिलुम् उभयोर्नित्ययोगप्रकाशमपेक्षितमॆऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वोत्तर-पूर्वोत्तर-खण्डङ्गळिल् मतुप्पाले 
 
 > “स भ्रातुश् चरणौ गाढं”  
+(**निपीड्य** रघुनन्दनः ।  
++++(पुरुषकारभूताम्, सिद्धोपायभूताम् अपि)+++ सीताम् **उवाचातियशां**  
+राघवं च महाव्रतम् ॥)  
 ( रामायणम् आरण्यकाण्डम् १५-६), 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 > “स भ्रातुश् चरणौ गाढं”  
+(**निपीड्य** रघुनन्दनः ।  
++++(पुरुषकारभूताम्, सिद्धोपायभूताम् अपि)+++ सीताम् **उवाचातियशां**  
+राघवं च महाव्रतम् ॥)  
 ( रामायणम् आरण्यकाण्डम् १५-६), 
+</details>
+
+<details><summary>English</summary>
+
+the matup, both in the first part of Dvaya and in the second part -
+
+> “Lakṣmaṇa, the descendant of Raghu, **seized** the two feet of Śrī Rāma firmly  
+and **said** these words in the presence of Sītā", 
+
+</details>
+
+<details><summary>Español</summary>
+
+el matup, tanto en la primera parte de Dvaya como en la segunda parte -
+
+> “Lakṣmaṇa, el descendiente de Raghu, **agarró** los dos pies de Śrī Rāma firmemente  
+y **dijo** estas palabras en **presencia** de Sītā",
 </details>
 
 
@@ -4340,12 +4460,92 @@ y dado que en este mantra (Dvaya) es necesario enfatizar esta idea de **conexió
 </details>
 
 
-the matup indicates that the two stand inseparably connected, both in the first part of Dvaya and in the second part and this conclusion is arrived at on the strength of such pramāṇas as the following :- 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> “Lakṣmaṇa, the descendant of Raghu, **seized** the two feet of Śrī Rāma firmly  
-and **said** these words in the presence of Sītā", 
+> “भवांस्तु सह वैदेह्या”  
+(गिरिसानुषु **रंस्यसे** ।  
+अहं सर्वं **करिष्यामि**  
+**जाग्रतः स्वपतश्** च ते ॥)  
+( रामायणम् अयोध्या-काण्डम् ३१-२७) 
 
-and " You will enjoy your self in the company of Sitā on the slopes of the mountains and whether you are awake or asleep, I will render every form of service to you". (The first passage describes their inseparability in the state of upāya and the second in the state of the attainment of the fruit, namely, the rendering of service to them (kaiṅkarya). Nammalvar, too, realised in his mind this inseparability in the following passages :-- O, Thou, on whose chest resides Lakṣmī, whose home is the lotus, because she cannot endure separation from Thee for an instant !, " While Lakṣmī with her beautiful bracelets and Thou stand together, I see that the supreme end of existence is to enjoy Thee and render service to Thee like the eternal sūris and other selves" (the former describes the state of upāya and the latter the state of attainment) and so also in, "Here (where we adopt the means or upāya) and there (in Vaikuṇṭha) where we enjoy Bhagavān, there is no one other than Nārāyaṇa who is ever found in (intimate) connection with Lakṣmī". ((48) describes both the states). This realisation (of inseparable connection between Bhagavān and Śrī, is essential for seeking the Lord's protection without any misgivings or heSītātion and whenever we desire it,
+ऎऩ्गिऱ पडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “भवांस्तु सह वैदेह्या”  
+(गिरिसानुषु **रंस्यसे** ।  
+अहं सर्वं **करिष्यामि**  
+**जाग्रतः स्वपतश्** च ते ॥)  
+( रामायणम् अयोध्या-काण्डम् ३१-२७) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> " You **will enjoy** your self in the company of Sitā on the slopes of the mountains  
+and whether you **are awake or asleep**,  
+**I will render** every form of **service** to you". 
+
+on the strength of such pramāṇas as the above  
+
+(The first passage **describes** their inseparability in the state of upāya  
+and the second in the state of the **attainment** of the fruit,  
+namely, the **rendering** of **service** to them (kaiṅkarya).)  
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "**Disfrutarás** de ti mismo en compañía de Sitā en las laderas de las montañas.  
+y ya sea que **estés despierto o dormido**,  
+**Te prestaré** todo tipo de **servicio**". 
+
+sobre la fuerza de pramāṇas como los anteriores  
+
+(El primer pasaje **describe** su inseparabilidad en el estado de upāya  
+y el segundo en el estado de **obtención** del fruto,  
+es decir, la **prestación** de **servicio** a ellos (kaiṅkarya).)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“भवांस्तु सह वैदेह्या”( रामायणम् अयोध्या-काण्डम् ३१-२७) ऎऩ्गिऱ पडिये 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पिरिव् अऱ्ऱ बडि सॊल्लिऱ्ऱ् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+indicates that the two **stand inseparably connected**. 
+</details>
+
+<details><summary>Español</summary>
+
+**indica** que los dos **están inseparablemente conectados**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पिरिवऱ्ऱबडि सॊल्लिऱ्ऱायिऱ्ऱु। 
+</details>
+
+
+##### शठकोपोक्तिः
+
+
+Nammalvar, too, realised in his mind this inseparability in the following passages :-- O, Thou, on whose chest resides Lakṣmī, whose home is the lotus, because she cannot endure separation from Thee for an instant !, " While Lakṣmī with her beautiful bracelets and Thou stand together, I see that the supreme end of existence is to enjoy Thee and render service to Thee like the eternal sūris and other selves" (the former describes the state of upāya and the latter the state of attainment) and so also in, "Here (where we adopt the means or upāya) and there (in Vaikuṇṭha) where we enjoy Bhagavān, there is no one other than Nārāyaṇa who is ever found in (intimate) connection with Lakṣmī". ((48) describes both the states). This realisation (of inseparable connection between Bhagavān and Śrī, is essential for seeking the Lord's protection without any misgivings or heSītātion and whenever we desire it,
 
 THE MEANING OF THE WORD NĀRĀYAṇA AND
 
