@@ -116,9 +116,6 @@ Then, Ramanuja goes on to describe the Divya Vigraha, i.e., Divine personality o
 
 </details>
 
-""
-""
-""
 **एकरूपत्वम्** - उभयलिङ्गत्वप्राप्यत्वोपास्यत्वैः । तर्कागोचरत्वम् अचिन्त्यत्वम् ।  
 
 <details><summary>English</summary>
@@ -331,87 +328,346 @@ beginning with splendor, beauty, fragrance, tenderness, handsome demeanor, and y
 Then follow the natural qualities of Paramaatman. Svaabhaavika-etc. The meaning is clear. The first six characteristics are common, then the next twelve are peculiar as being useful for thegrant of salvation to the Devotees. 
 </details>
 
-**सौशील्य** इत्य्-आदि-शीलं हि नाम - महतो मन्दैस्सहनीरन्ध्रेण संश्लेषस्वभावत्वम् । तस्य च प्रयोजनान्तरौपयिकत्वाभावात्, सौशील्यम् । यद्वा ईश्वरत्वबुद्ध्या यथा आश्रितानां साध्वसं न स्यात्, यथा च स्वयमपि न स्वस्य परत्वबुद्ध्या विलक्षणस्स्यात्, तथा शीलत्वम् - सौशील्यम् । वात्सल्यम् - दोषेऽपि गुणत्वबुद्धिः । यथा सद्यः प्रसूतायाः धेनोर्वत्से, इदञ्च क्षमाकाष्ठारूपम्[^1_pg29] । अत एव हि पृथगनुक्तिः क्षमायाः ।
+**सौशील्य** इत्य्-आदि-शीलं हि नाम - महतो मन्दैस्सहनीरन्ध्रेण संश्लेषस्वभावत्वम् । 
 
 <details><summary>English</summary>
 
-Seela is where a superior has as his natural quality the quality of moving freely with the inferiors; when that is exercised for no selfish or other purpose, it is Sau-Seelya. That is to say, Iswara does not cause fear in the heart of the Devotees by his Iswaratva nor does he generate any feeling in them of undue hesitation to approch Him. by His superiority. 
+Seela is where a superior has as his natural quality the quality of moving freely with the inferiors;
+</details>
 
-Vaatsalya is the quality to find good even in Evil: Just as a cow fondles its new born dirty calf. This quality is one of the features of extreme patience. Hence Patience 
-is not mentioned separatelty. 
+तस्य च प्रयोजनान्तरौपयिकत्वाभावात्, सौशील्यम् । 
+
+<details><summary>English</summary>
+
+when that is exercised for no selfish or other purpose, it is Sau-Seelya.
+</details>
+
+यद्वा ईश्वरत्वबुद्ध्या यथा आश्रितानां साध्वसं न स्यात्, यथा च स्वयमपि न स्वस्य परत्वबुद्ध्या विलक्षणस्स्यात्, तथा शीलत्वम् - सौशील्यम् । 
+
+<details><summary>English</summary>
+
+That is to say, Iswara does not cause fear in the heart of the Devotees by his Iswaratva nor does he generate any feeling in them of undue hesitation to approch Him. by His superiority. 
+</details>
+
+वात्सल्यम् - दोषेऽपि गुणत्वबुद्धिः । 
+
+<details><summary>English</summary>
+
+Vaatsalya is the quality to find good even in Evil:
+</details>
+
+यथा सद्यः प्रसूतायाः धेनोर्वत्से, 
+
+<details><summary>English</summary>
+
+Just as a cow fondles its new born dirty calf.
+</details>
+
+इदञ्च क्षमाकाष्ठारूपम्[^1_pg29] । 
+
+<details><summary>English</summary>
+
+This quality is one of the features of extreme patience. 
 </details>
 
 [^1_pg29]: क्षमाकाष्ठानुरूपम् - इ ।
 
-<dg 29/>
-
-आश्रितविरहासहत्वं - **मार्दवम्** । तेष्वस्थानभयशङ्कित्वं वा । मनोवाक्कायैकरूप्यम् - आर्जवम् । यथा 'ऋजुबुद्धितया सर्वमाख्यातुमुपचक्रमे' इति । सौहार्दम् - तेषामभिमतश्रेयोभिध्यायित्वम्, स्वसत्तानपेक्षतद्रक्षापरत्वं वा । साम्यम् - जन्मवृत्तगुणवैषम्यमनपेक्ष्यं सर्वेषां समाश्रयणीयत्वे स्वीकृतानां तेषां सम्भावनाविशेषेषु मनसा - तद्विषयादरे च समत्वम्, तारतम्यधीरहितत्वम् । 
+अत एव हि पृथगनुक्तिः क्षमायाः ।
 
 <details><summary>English</summary>
 
-Maardava is the feeling of loss at any separation from the devotees, a feeling of apprehension when they are not present at any place. 
-
-Aarjava denotes perfect correlation of mind, speech and body in action. So it is said "Rajubudhyat sarvam akhayatum upachakarme" "because of His artlessness He (Rama) began to narrate to Surpanaka all about Himself" Sauhaarda:- Ever wishing well of His Devotees:- Intent in doing good to them without caring for any return. Saamya is the quality which does not make differentiation on account of birth, conduct or character; making Himself easily available to them all and also rewarding. them, not minding any difference in the gifts offered by them or their nature or value, in short no feeling of any difference.
+Hence Patience is not mentioned separatelty. 
 </details>
 
-कारुण्यम् - स्वार्थाऽनपेक्षा[^2_pg30] परदुःखाऽसहिष्णुता । माधुर्यम् - हन्तुं प्रवृत्तावपि रसापहत्वम् यथा 'एह्येहि फुल्लाम्बुजपत्रनेत्र!' (म.भा.भी. ५९-९८) इति । गाम्भीर्यम् - आश्रितविषये 'एवमनेन चिकीर्षितम्' इति परिच्छेत्तुमशक्यत्वम्, दीयमानगौरवसम्प्रदानलाघवाऽनपेक्षत्वं वा । औदार्यम्'अन्यस्मै ददामि' इत्यभिमानविरहेण 'पुत्रवत्प्राप्तं भुङ्क्ते' इति बुद्ध्या दातृत्वम् । इदमियद्दत्तं मयेत्यस्मरणशीलत्वं वा । यद्वा सर्वं दत्वापि 'ऋणं प्रवृद्धमिव मे' इत्यतृप्तत्वम् औदार्यम् । चातुर्यम्आश्रितार्थेष्वजडक्रियत्वम् । यथा साऽनुबन्धरावणवधेन विभीषणाऽभिषेकः । यद्वा आश्रितदोषगोपनं वा - चातुर्यम्, यथा पित्रादेरिव ।
+
+<dg 29/>
+
+आश्रितविरहासहत्वं - **मार्दवम्** । 
 
 <details><summary>English</summary>
 
-Kaarunya:-Removing the calamities and grievances without expecting any return. 
+Maardava is the feeling of loss at any separation from the devotees,
 
-Maadhurya: kindness shown even in inflicting punishment, such as, death. (ehi ehi phullaambuja patra netra) when Krishna goes to hit him with chakra, Bhishma cried to "Come, Come, Oh the lotus-eyed". Gaambheerya - of immesasurable depth (worth) as the greatness and value of the favours granted by Him to His devotees bear no proportion to the insignificance of the deserts of the favoured. Audaarya:- with no feeling that any devotee has been over favoured or not satisfied with the favours granted. "Krishna felt indebted and remembered the debt when Drowpadi cried for help when being dishonoured:- or with no feeling that favours are granted to a stranger, but is only as if to son who is entitled to the patrimony. Chaaturya - affording instant relief to his Devotees overlooking their faults just like a father. Rama peformed the Abhisheka to Vibhishana on the battlefield itself. 
+</details>
+
+तेष्वस्थानभयशङ्कित्वं वा । 
+
+<details><summary>English</summary>
+
+a feeling of apprehension when they are not present at any place.
+
+</details>
+
+मनोवाक्कायैकरूप्यम् - आर्जवम् । 
+
+<details><summary>English</details>
+
+Aarjava denotes perfect correlation of mind, speech and body in action.
+
+</details>
+
+यथा 'ऋजुबुद्धितया सर्वमाख्यातुमुपचक्रमे' इति । 
+
+<details><summary>English</summary>
+
+So it is said "Rajubudhyat sarvam akhayatum upachakarme" "because of His artlessness He (Rama) began to narrate to Surpanaka all about Himself"
+
+</details>
+
+सौहार्दम् - तेषामभिमतश्रेयोभिध्यायित्वम्, स्वसत्तानपेक्षतद्रक्षापरत्वं वा । 
+
+<details><summary>English</summary>
+
+Sauhaarda:- Ever wishing well of His Devotees:- Intent in doing good to them without caring for any return.
+
+</details>
+
+साम्यम् - जन्मवृत्तगुणवैषम्यमनपेक्ष्यं सर्वेषां समाश्रयणीयत्वे स्वीकृतानां तेषां सम्भावनाविशेषेषु मनसा - तद्विषयादरे च समत्वम्, तारतम्यधीरहितत्वम् । 
+
+<details><summary>English</summary> 
+
+Saamya is the quality which does not make differentiation on account of birth, conduct or character; making Himself easily available to them all and also rewarding. them, not minding any difference in the gifts offered by them or their nature or value, in short no feeling of any difference.
+</details>
+
+कारुण्यम् - स्वार्थाऽनपेक्षा[^2_pg30] परदुःखाऽसहिष्णुता । 
+
+<details><summary>English</summary>
+
+Kaarunya:-Removing the calamities and grievances without expecting any return.
+
 </details>
 
 [^2_pg30]: स्वार्थानपेक्षया इ ।
 
-**स्थैर्यम्** 'न त्यजेयं कथञ्चन' (रा. अयो. १०-३) इत्यभिसन्धिमत्वम् । भक्तरक्षोपयोगिगुणाः द्वादश । अथ तत्रैव रक्षणे विरोधिनिरसनौपाधिकं त्रिकम् । धैर्यम् -स्वस्मिन् प्रतिपक्षागमे सत्यविकृतत्वम् । यथा - 'जटाचूड[^1_pg31] ग्रन्थिं दृढयति' इति । स्वगृह इव परबले प्रवेशसामर्थ्यम्शौर्यम् । प्रवेशे सति तन्निरासकौशलं - पराक्रमः । यथा 'छिन्नं, भिन्नम्' इत्य्-आदि । अथ भोग्यगुणयुगम् । सत्यकाम इति नित्यविभूतिमत्त्वम् 'काम्यस्स्पृहा स्मरः कामः' इत्यनेकार्थः ।
+माधुर्यम् - हन्तुं प्रवृत्तावपि रसापहत्वम् यथा 'एह्येहि फुल्लाम्बुजपत्रनेत्र!' (म.भा.भी. ५९-९८) इति ।
 
 <details><summary>English</summary>
 
-Sthairya :-Firm determination not to abandon His Devotees. 
+Maadhurya: kindness shown even in inflicting punishment, such as, death. (ehi ehi phullaambuja patra netra) when Krishna goes to hit him with chakra, Bhishma cried to "Come, Come, Oh the lotus-eyed".
 
-These twelve (qualities) are useful to Him for saving His Devotees. 
+</details>
 
-Then follow three qualities which go to help Him in punishing those who stand in the way of His protecting His Devotees. 
+गाम्भीर्यम् - आश्रितविषये 'एवमनेन चिकीर्षितम्' इति परिच्छेत्तुमशक्यत्वम्, दीयमानगौरवसम्प्रदानलाघवाऽनपेक्षत्वं वा । 
 
-"Dhairya" - Unshaken stand against foes who stand in the way of granting such protection; "jatajoota granthim drudhayathi "making fast the knot of the hair." "Saurya": Prowess to enter the enemy's camp as easily as if entering His own house. 
+<details><summary>English</summary>
 
-Paraakrama - power to vanquish foes after entering their camp "Chinnam Bhinnam" (at the time Rama's destroying Ravana's moola balam. 
+Gaambheerya - of immesasurable depth (worth) as the greatness and value of the favours granted by Him to His devotees bear no proportion to the insignificance of the deserts of the favoured.
 
-Then are mentioned two qulities relating to enjoyment. Satyakaama denotes Iswara possessing of Nitya Vibhuti. [The word Kama has many mean ings.] 
+</details>
+
+औदार्यम्'अन्यस्मै ददामि' इत्यभिमानविरहेण 'पुत्रवत्प्राप्तं भुङ्क्ते' इति बुद्ध्या दातृत्वम् । 
+
+<details><summary>English</summary>
+
+Audaarya:- with no feeling that any devotee has been over favoured or not satisfied with the favours granted.
+
+</details>
+
+इदमियद्दत्तं मयेत्यस्मरणशीलत्वं वा । 
+
+<details><summary>English</summary>
+
+or with no feeling that favours are granted to a stranger, but is only as if to son who is entitled to the patrimony.
+</details>
+
+यद्वा सर्वं दत्वापि 'ऋणं प्रवृद्धमिव मे' इत्यतृप्तत्वम् औदार्यम् । 
+
+<details><summary>English</summary>
+Krishna felt indebted and remembered the debt when Drowpadi cried for help when being dishonoured.
+</details>
+
+चातुर्यम्आश्रितार्थेष्वजडक्रियत्वम् । 
+
+<details><summary>English</summary>
+
+Chaaturya - affording instant relief to his Devotees
+</details>
+
+यथा साऽनुबन्धरावणवधेन विभीषणाऽभिषेकः । 
+
+<details><summary>English</summary>
+
+Rama performed the Abhisheka to Vibhishana on the battlefield itself.
+</details>
+
+यद्वा आश्रितदोषगोपनं वा - चातुर्यम्, यथा पित्रादेरिव ।
+
+<details><summary>English</summary>
+
+overlooking their faults just like a father.
+</details>
+
+**स्थैर्यम्** 'न त्यजेयं कथञ्चन' (रा. अयो. १०-३) इत्यभिसन्धिमत्वम् । 
+
+<details><summary>English</summary>
+
+Sthairya :-Firm determination not to abandon His Devotees.
+</details>
+
+भक्तरक्षोपयोगिगुणाः द्वादश ।
+
+<details><summary>English</summary>
+
+These twelve (qualities) are useful to Him for saving His Devotees.
+</details>
+
+अथ तत्रैव रक्षणे विरोधिनिरसनौपाधिकं त्रिकम् ।
+
+<details><summary>English</summary>
+
+Then follow three qualities which go to help Him in punishing those who stand in the way of His protecting His Devotees.
+</details>
+
+धैर्यम् -स्वस्मिन् प्रतिपक्षागमे सत्यविकृतत्वम् ।
+
+<details><summary>English</summary>
+
+"Dhairya" - Unshaken stand against foes who stand in the way of granting such protection;
+
+</details>
+
+यथा - 'जटाचूड[^1_pg31] ग्रन्थिं दृढयति' इति ।
+
+<details><summary>English</summary>
+
+"jatajoota granthim drudhayathi" "making fast the knot of the hair."
 </details>
 
 [^1_pg31]: जूट - इ ।
 
-<dg 31/>
-
-**सत्यसङ्कल्प** इति लीलाविभूतिमत्त्वम्,स्वसङ्कल्पाऽनुवृत्युभयविभूतिमत्त्वं वा । अथ भक्तरक्षाविषयम् उक्तद्वादशकादि विलक्षणं[^1_pg32] गुणद्वयमाहकृति इति । आश्रितकार्यपूरणेन कृतार्थत्वम् -कृतित्वम् । यद्वा कृतम् - क्रिया, तद्वत्त्वम् । आश्रितकर्तव्यस्य स्वयं कर्तृत्वम् । यथा 'अहं स्मरामि' इति । कृतमेव जानाति, न तु करिष्यमाणांशमकृतमिति कृतज्ञः । यद्वा, स्वल्पमप्याश्रितैर्यत्साधुकृतम्, तदेव जानाति, आश्रितकृतं दोषं स्वकृतं श्रेयश्च न स्मरतीति कृतज्ञः ।
+स्वगृह इव परबले प्रवेशसामर्थ्यम्शौर्यम् ।
 
 <details><summary>English</summary>
 
-Satya Sankalpa denotes Iswara possessing the worlds for his Leela i.e., sport or recreation. Thus possessing the two worlds for his Dominion. 
+"Saurya": Prowess to enter the enemy's camp as easily as if entering His own house.
+</details>
 
-The next two qualities refer to the protective activities of the Lord apart from the 12 qualities already mentioned. 
+प्रवेशे सति तन्निरासकौशलं - पराक्रमः ।
 
-Krititva is the state of satisfaction in having acceded to the prayers of the Devotees, therefore the word may mean One who is active, that is to say, He Himself does what the Devotees should have done "Aham smarami". "I think of him at the death of the devotee though he may not remember me." 
+<details><summary>English</summary>
 
-Kritaganata denotes 'I remember' i.e., remembering what has been done, but not what has to be done but left undone, or. Kritagna is one who remembers only the good act done, however small but not the faults, nor the return He is making to them.
+Paraakrama - power to vanquish foes after entering their camp
+</details>
+
+यथा 'छिन्नं, भिन्नम्' इत्य्-आदि ।
+
+<details><summary>English</summary>
+
+"Chinnam Bhinnam" (at the time Rama's destroying Ravana's moola balam.
+</details>
+
+अथ भोग्यगुणयुगम् ।
+
+<details><summary>English</summary>
+
+Then are mentioned two qualities relating to enjoyment.
+</details>
+
+सत्यकाम इति नित्यविभूतिमत्त्वम् 'काम्यस्स्पृहा स्मरः कामः' इत्यनेकार्थः ।
+
+<details><summary>English</summary>
+
+Satyakaama denotes Iswara possessing of Nitya Vibhuti. [The word Kama has many meanings.]
+</details>
+
+
+<dg 31/>
+
+
+**सत्यसङ्कल्प** इति लीलाविभूतिमत्त्वम्,स्वसङ्कल्पाऽनुवृत्युभयविभूतिमत्त्वं वा ।
+
+<details><summary>English</summary>
+
+Satya Sankalpa denotes Iswara possessing the worlds for his Leela i.e., sport or recreation. Thus possessing the two worlds for his Dominion.
+</details>
+
+अथ भक्तरक्षाविषयम् उक्तद्वादशकादि विलक्षणं[^1_pg32] गुणद्वयमाहकृति इति ।
+
+<details><summary>English</summary>
+
+The next two qualities refer to the protective activities of the Lord apart from the 12 qualities already mentioned.
 </details>
 
 [^1_pg32]: लक्षणम् - इ ।
 
-'एकैक गुणेष्व[^1_pg33]नेकान्तर्भावाऽभिप्रायः **गण**-शब्दः । स एव ओघः-प्रवाहः, तस्य महार्णवः, न गुणायत्तं महत्वम् , गुणास्तु स्वावस्थाऽवस्थानाय भगवत्स्वरूपगताः । अन्यथा न स्थातुं शक्नुवन्तीति भावः ।
+आश्रितकार्यपूरणेन कृतार्थत्वम् -कृतित्वम् ।
 
 <details><summary>English</summary>
 
-The word gana is used to denote that in the each of the qualities there are many (subvarieties) qualities contained in them. Such Gana's flood is "Ogha". 
+Krititva is the state of satisfaction in having acceded to the prayers of the Devotees,
+</details>
 
-Mahaarnava is the Ocean. Virtues and and qualities have no permanent value unless they seek abode in Bhagavan; indeed, without such refuge, they have no value. 
+यद्वा कृतम् - क्रिया, तद्वत्त्वम् ।
+
+<details><summary>English</summary>
+
+therefore the word may mean One who is active,
+</details>
+
+आश्रितकर्तव्यस्य स्वयं कर्तृत्वम् ।
+
+<details><summary>English</summary>
+
+that is to say, He Himself does what the Devotees should have done
+</details>
+
+यथा 'अहं स्मरामि' इति ।
+
+<details><summary>English</summary>
+
+"Aham smarami". "I think of him at the death of the devotee though he may not remember me."
+</details>
+
+कृतमेव जानाति, न तु करिष्यमाणांशमकृतमिति कृतज्ञः ।
+
+<details><summary>English</summary>
+
+Kritaganata denotes 'I remember' i.e., remembering what has been done, but not what has to be done but left undone, or.
+</details>
+
+यद्वा, स्वल्पमप्याश्रितैर्यत्साधुकृतम्, तदेव जानाति, आश्रितकृतं दोषं स्वकृतं श्रेयश्च न स्मरतीति कृतज्ञः ।
+
+<details><summary>English</summary>
+
+Kritagna is one who remembers only the good act done, however small but not the faults, nor the return He is making to them.
+</details>
+
+'एकैक गुणेष्व[^1_pg33]नेकान्तर्भावाऽभिप्रायः **गण**-शब्दः ।
+
+<details><summary>English</summary>
+
+The word gana is used to denote that in the each of the qualities there are many (subvarieties) qualities contained in them.
 </details>
 
 [^1_pg33]: विशेषभेदैश्च - अ ।
 
+स एव ओघः-प्रवाहः,
+
+<details><summary>English</summary>
+
+Such Gana's flood is "Ogha".
+</details>
+
+तस्य महार्णवः,
+
+<details><summary>English</summary>
+
+Mahaarnava is the Ocean.
+</details>
+
+न गुणायत्तं महत्वम् , गुणास्तु स्वावस्थाऽवस्थानाय भगवत्स्वरूपगताः ।
+
+<details><summary>English</summary>
+
+Virtues and qualities have no permanent value unless they seek abode in Bhagavan;
+</details>
+
+अन्यथा न स्थातुं शक्नुवन्तीति भावः ।
+
+<details><summary>English</summary>
+
+indeed, without such refuge, they have no value.
+</details>
 
 </details>
 
@@ -515,15 +771,100 @@ all desires fulfilled, all intentions realized, the capability to carry out all 
 आद्य्-**अपरिमित-दिव्य-भूषण** ! 
 </details>
 
-""
-""
-""
-
 <details><summary>सुदर्शन-भट्टः</summary>
 
 अथ भूषणानि॥ 
 
-कटक-मकुटादि जातिभेदो वैविध्यम् । एकैकाऽवान्तरभेदपरः **विचित्र**-शब्दः । अनन्ताश्चर्यम् निरतिशयाश्चर्यम् । उत्तरोत्तरं निरवद्यत्वमनुसन्धेयम् । विग्रहचिन्तायामपि पूर्वभाविनी हि दिव्याभरणचिन्ता । निरतिशयसुगन्धत्वादिकम् इतरभूषणवैलक्षण्यम् । 'सर्वगन्धस्सर्वरसः' (छां.उ.३-४-२१) इत्य्-आदि-वत् । मकुटङ्किरीटाग्रावयवो नायकाधारः । यद्वा, मकुटम् शिरोभूषणमात्रम् । यथा - 'ना कुण्डली ना मकुटी' (रा. बा.६ -१०) इति । किरीटरूपं मकुटम् किरीट-मकुटम् । **दिव्य**-शब्दः सर्वत्राऽप्राकृतपरः।
+<details><summary>English</summary>
+
+Then Ramanuja goes on to describe the adornments and ornaments, on the Divya Vigraha of Iswara.
+</details>
+
+
+कटक-मकुटादि जातिभेदो वैविध्यम् ।
+
+<details><summary>English</summary>
+
+Vividha means different kinds of ornaments such as Kataka, Makuta;
+</details>
+
+एकैकाऽवान्तरभेदपरः **विचित्र**-शब्दः ।
+
+<details><summary>English</summary>
+
+Vichitra denotes varieties in each kind of ornaments.
+</details>
+
+अनन्ताश्चर्यम् निरतिशयाश्चर्यम् ।
+
+<details><summary>English</summary>
+
+Anantaascharya - Excellent beyond any limit.
+</details>
+
+
+उत्तरोत्तरं निरवद्यत्वमनुसन्धेयम् ।
+
+<details><summary>English</summary>
+
+Niravada is used to denote, "flawlessness for the purpose of contemplation".
+</details>
+
+विग्रहचिन्तायामपि पूर्वभाविनी हि दिव्याभरणचिन्ता ।
+
+<details><summary>English</summary>
+
+When starting contemplating on the Divine Form, naturally the vision of His ornaments comes on prominently before our mental eyes.
+</details>
+
+निरतिशयसुगन्धत्वादिकम् इतरभूषणवैलक्षण्यम् ।
+
+<details><summary>English</summary>
+
+The quality of "Niratisaya Sugandhatvam" distinguishes these ornaments from the ordinary or common variety.
+</details>
+
+'सर्वगन्धस्सर्वरसः' (छां.उ.३-४-२१) इत्य्-आदि-वत् ।
+
+<details><summary>English</summary>
+
+For the Sruti says "He is all sweet smelling and all Rasa"
+</details>
+
+मकुटङ्किरीटाग्रावयवो नायकाधारः ।
+
+<details><summary>English</summary>
+
+Makuta means the central piece in the head coronet in which the most precious stone is imbedded.
+</details>
+
+यद्वा, मकुटम् शिरोभूषणमात्रम् ।
+
+<details><summary>English</summary>
+
+or it may mean the Crown, itself.
+</details>
+
+यथा - 'ना कुण्डली ना मकुटी' (रा. बा.६ -१०) इति ।
+
+<details><summary>English</summary>
+
+Compare "NaAkundali-Na-Amakuti " "No one in Ayodhya without Kundala and Makuta"
+</details>
+
+किरीटरूपं मकुटम् किरीट-मकुटम् ।
+
+<details><summary>English</summary>
+
+Kireeta Rupa is Makuta, i.e., the head ornament.
+</details>
+
+**दिव्य**-शब्दः सर्वत्राऽप्राकृतपरः।
+
+<details><summary>English</summary>
+
+Divya means divine, not the ordinary kind the word is to be taken to quality all the above.
+</details>
 
 </details>
 
@@ -577,14 +918,73 @@ a raiment of yellow silk, girdle and anklets,
 
 <dg 33/>
 
-अथ दिव्यायुधानि । एकैकायुधस्य सर्वायुधकार्यशक्तिमत्त्वम् अचिन्त्य शक्तित्वम्[^1_pg34] । यथा सहायकृत्यङ्किन्तस्य[^2_pg34] येन सप्तमहाद्रुमाः । शैलश्च वसुधा चैव बाणेनैकेन दारिताः' ॥ (रा. कि. ३६-८) इति । परशुटङ्कखनित्रादिकार्यम्, एकेन सालगिरिरसातलभेदिना शरेण हि कृतम्।
+अथ दिव्यायुधानि ।
+
+<details><summary>English</summary>
+
+Then are mentioned His Divine weapons.
+</details>
+
+एकैकायुधस्य सर्वायुधकार्यशक्तिमत्त्वम् अचिन्त्य शक्तित्वम्[^1_pg34] ।
+
+<details><summary>English</summary>
+
+"Achintya Sakti" Each weapon has the power to do the work of all the weapons.
+</details>
 
 [^1_pg34]: शक्तिमत्वम् - इ ।
 
+यथा सहायकृत्यङ्किन्तस्य[^2_pg34] येन सप्तमहाद्रुमाः । 
+
+<details><summary>English</summary>
+
+as stated in Ramayana about the arrow of Rama.
+</details>
 
 [^2_pg34]: साहाय्यार्थकृतं तेन - इ ।
 
-**निरवद्यत्वम्** - पूर्ववत् । निरतिशयकल्याणत्वम् - शोभनावहत्वम् । तान्याभरणकोटावपि हि निविशन्ते । अथ दिव्यमहिषीविशेषणानां पूर्ववदर्थः[^1_pg35] ।
+शैलश्च वसुधा चैव बाणेनैकेन दारिताः' ॥ (रा. कि. ३६-८) इति । 
+
+<details><summary>English</summary>
+
+this refers to the splintering the seven saalaa (Aachcha) trees, the Hill and the Paataala Loka by one arrow of Rama let off by him to prove His Prowess to Sugreeva.
+</details>
+
+परशुटङ्कखनित्रादिकार्यम्, एकेन सालगिरिरसातलभेदिना शरेण हि कृतम्।
+
+<details><summary>English</summary>
+
+"The chisel, and spade were performed by one arrow of Rama" - works generally done with the help of a crowbar.
+</details>
+
+
+**निरवद्यत्वम्** - पूर्ववत् । 
+
+<details><summary>English</summary>
+
+Niravadya has been explained already.
+</details>
+
+निरतिशयकल्याणत्वम् - शोभनावहत्वम् । 
+
+<details><summary>English</summary>
+
+Niratisaya Kalyaana denotes the par-excellent splendour of the whole vision.
+</details>
+
+तान्याभरणकोटावपि हि निविशन्ते ।
+
+<details><summary>English</summary>
+
+including weapons and ornaments.
+</details>
+
+अथ दिव्यमहिषीविशेषणानां पूर्ववदर्थः[^1_pg35] ।
+
+<details><summary>English</summary>
+
+Then comes a passage which describes the splendid attributes of Sri and ends by saying that Iswara is the Lord of such a Sri. (The meaning of the passage has been already given).
+</details>
 
 [^1_pg35]: प्राग्वदर्थः - इ ।
 
@@ -636,7 +1036,27 @@ beginning with the conch, discus, club, sword, and bow!
 
 <dg 35/>
 
-अथातिदेशः - एवम् इति । लक्ष्म्य्-अपेक्षया भूम्यादीनामपि शेषत्वाभिप्रायेण पृथगुक्तिः, यथा, 'याभिस्त्वं स्तनबाहुदृष्टिभिरिव स्वाभिःप्रियं श्लाघसे' इति ।
+अथातिदेशः - एवम् इति ।
+
+<details><summary>English</summary>
+
+He is also the Lord of Bhoo Devi and Neelaa Devi who are also possessed of the splendid qualities similar to these mentioned in connection with Sri. This is indicated by the word "Evambhoota."
+</details>
+
+लक्ष्म्य्-अपेक्षया भूम्यादीनामपि शेषत्वाभिप्रायेण पृथगुक्तिः,
+
+<details><summary>English</summary>
+
+The two Devis are mentioned separately as they occupy not the same status as Sri, but are her "Seshabhootas."
+</details>
+
+यथा, 'याभिस्त्वं स्तनबाहुदृष्टिभिरिव स्वाभिःप्रियं श्लाघसे' इति ।
+
+<details><summary>English</summary>
+
+Accordingly, it is said in Sri Guna Ratnakosa that Laxshmi pleases Her Lord by means of Bhoo and Neela whom she considers as her organs breast, hands, feet and look.
+</details>
+
 </details>
 
 
@@ -685,9 +1105,115 @@ You are the consort of Bhūmī and Nīlā who are like Śrī!
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-अथ परिजनः, - सजातीय विजातीयव्यावर्तकाकारविशिष्टंस्वरूपम् , तस्य प्रतिनियतकालसम्बन्धः - स्थितिः, ईश्वरेच्छां ज्ञात्वानुवर्तते नित्यसिद्धाः, संसारिणस्तु तदनभिज्ञाः, तत्सङ्कल्पात्प्रवर्तन्त इति भिदा अभिप्रेता । भेदः - स्वरूपस्थितिप्रवृत्तिविशेषः, यद्वा संसारिभ्यो नित्यानां व्यावर्तकधर्माः, स्वच्छन्दानुवृत्तिस्वरूपस्थितिप्रवृत्तय इत्यर्थः नित्यनिरवद्य इति मुक्तव्यावृत्तिः । क्रिया - कैङ्कर्यम् । ऐश्वर्यम् - देहेन्द्रियादि नियमनम् ।
 
-शेषाशनः - सेनापतिः । छत्रचामरपादुकापतद्ग्रहधारणादिभेदेन नानाविधाः , तत्र एकैककोटिनिविष्टाश्च अनन्ताः । विमलाद्यभिप्रायेणोक्तम् परिचारिका इति । उक्तस्स्वरूपरूपगुणविभूषणादीनां परत्वसौलभ्यसाधारणत्त्वात् , दिव्यलोकविशेषात्पूर्वन्तदुभयमाह - परम इति । परमस्वरूपम् - नियन्तृस्वरूपम् , परमस्वभावः - सौलभ्यम् । निरूपकादन्यो निरुपाधिकधर्मः - स्वभावः। परमयोगि इत्य्-आदिकं देशविशेषणं वा । तथा श्रीवैकुण्ठगद्योक्तेः । तदा, स्वरूपं - सन्निवेशविशेषविशिष्टद्रव्यम् । तस्य भोग्यताप्रकारः स्वभावः ।
+अथ परिजनः, - सजातीय विजातीयव्यावर्तकाकारविशिष्टंस्वरूपम् , तस्य प्रतिनियतकालसम्बन्धः - स्थितिः, ईश्वरेच्छां ज्ञात्वानुवर्तते नित्यसिद्धाः, संसारिणस्तु तदनभिज्ञाः, तत्सङ्कल्पात्प्रवर्तन्त इति भिदा अभिप्रेता । 
+
+<details><summary>English</summary>
+
+Next, come " Parijanas": His Attendants. Swaroopa denotes a form distinguished from forms similar to, and different from forms of other kinds. "Sthiti" explains that things exist only so long as they are fixed in their places. It is here intended to point out the difference between Nitya Siddhas and the Samsaarins - While the former understand and know the wishes of the Lord by their own perceptive powers, the Samsaarins do not know of His wishes and desires but act only as the Lord wills.
+</details>
+
+भेदः - स्वरूपस्थितिप्रवृत्तिविशेषः, यद्वा संसारिभ्यो नित्यानां व्यावर्तकधर्माः, स्वच्छन्दानुवृत्तिस्वरूपस्थितिप्रवृत्तय इत्यर्थः 
+
+<details><summary>English</summary>
+
+The word "Bheda" qualifies the words Swaroopa, Sthiti, and Pravritti and shows the difference between them; it may also show that these activities etc., of Samsaarins are different from those of Nityas. Again, the word may be taken together as Swachachanda Anuvrtti - Swaroopa - Sthiti - Pravrttaya: (That is to say, the Nityas are distinct and are to be distinguished from Samsaarins, for, they act understanding intuitively the wishes of the Lord.)
+</details>
+
+
+नित्यनिरवद्य इति मुक्तव्यावृत्तिः । 
+
+<details><summary>English</summary>
+
+Nitya-Niravadya distinguishes Nityas from the Muktas.
+</details>
+
+क्रिया - कैङ्कर्यम् । 
+
+<details><summary>English</summary>
+
+"Kriya" here means Service to the Lord.
+</details>
+
+ऐश्वर्यम् - देहेन्द्रियादि नियमनम् ।
+
+<details><summary>English</summary>
+
+Aiswarya means the control and direction of the activities of the body, organs, etc.-
+</details>
+
+
+शेषाशनः - सेनापतिः । 
+
+<details><summary>English</summary>
+
+Sesha-asana is Vishvaksena, (for he is the eater of the remains of the food of the Lord) Cf. Aalvandaar's Stotra Ratna, "the Eater of the food left over after thy eating."
+</details>
+
+छत्रचामरपादुकापतद्ग्रहधारणादिभेदेन नानाविधाः , तत्र एकैककोटिनिविष्टाश्च अनन्ताः । 
+
+<details><summary>English</summary>
+
+Naanaavidha:of different kinds - Holding the Umbrella, whisking the Chaamara, serving as sandals or as a seat or the holding the betel spittoon are the varieties of such services. In each of the services the devotees employed are so many and innumerable.
+</details>
+
+विमलाद्यभिप्रायेणोक्तम् परिचारिका इति । 
+
+<details><summary>English</summary>
+
+Parichaarikaa is used keeping in mind females like Vimala (one of the lady attendants who whisk chaamaras.)
+</details>
+
+उक्तस्स्वरूपरूपगुणविभूषणादीनां परत्वसौलभ्यसाधारणत्त्वात् , दिव्यलोकविशेषात्पूर्वन्तदुभयमाह - परम इति । 
+
+<details><summary>English</summary>
+
+Then follows a description of Vaikuntha and describes Naraayana as the Lord of Vaikuntha.
+</details>
+
+परमस्वरूपम् - नियन्तृस्वरूपम् , परमस्वभावः - सौलभ्यम् । 
+
+<details><summary>English</summary>
+
+In the former case, ParamaSwarupa means His natural and supreme attribute of Rulership. Saulabhya is easy accessibility.
+
+</details>
+
+निरूपकादन्यो निरुपाधिकधर्मः - स्वभावः। 
+
+<details><summary>English</summary>
+
+Parama Swabhaava denotes some quality, other than swaroopa.
+</details>
+
+परमयोगि इत्य्-आदिकं देशविशेषणं वा । 
+
+<details><summary>English</summary>
+
+In the next passage, "Parama Yogi Vangmanasa Aparicchedya Swarupa Swabhaava" may be taken by itself as in the vocative case qualifying Paramatman'; or as qualifying Vaikuntha.
+</details>
+
+तथा श्रीवैकुण्ठगद्योक्तेः । 
+
+<details><summary>English</summary>
+
+as described in Vaikuntha Gadya.
+</details>
+
+तदा, स्वरूपं - सन्निवेशविशेषविशिष्टद्रव्यम् । 
+
+<details><summary>English</summary>
+
+In the latter, the word Swarupa will signify a structure.
+</details>
+
+तस्य भोग्यताप्रकारः स्वभावः ।
+
+<details><summary>English</summary>
+
+Enjoyability is its natural attribute.
+</details>
+
 </details>
 
 <details><summary>यदुगिरिग्रन्थ-टीप्पनी</summary>
@@ -746,16 +1272,67 @@ first of all Śeṣa, Viṣvaksena, and Garuḍa—whose differences in proper f
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-विविधत्वं जातिभेदः । एकैकस्य[^1_pg38] व्यक्त्यानन्त्यम् अनन्त शब्दार्थः । आश्चर्यतारूपेण आनन्त्यं वा । विभवः -आयतनाद् बहिः भोग्य समृद्धिः । स्रक्चन्दनादिव्यतिरिक्त रथादि[^2_pg38]-समृद्धिर्वा।
+विविधत्वं जातिभेदः । 
+
+<details><summary>English</summary>
+
+Vividha denotes different varieties of the same thing.
+</details>
+
+एकैकस्य[^1_pg38] व्यक्त्यानन्त्यम् अनन्त शब्दार्थः । 
+
+<details><summary>English</summary>
+
+The innumerability of each of the variety of the things is described by Ananta.
+</details>
 
 [^1_pg38]: एकत्र -इ ।
 
+आश्चर्यतारूपेण आनन्त्यं वा । 
+
+<details><summary>English</summary>
+
+Wonders are so many and numerous.
+</details>
+
+विभवः -आयतनाद् बहिः भोग्य समृद्धिः । 
+
+<details><summary>English</summary>
+
+Vibhava denotes the abundance of enjoyable things-outside such as,
+</details>
+
+स्रक्चन्दनादिव्यतिरिक्त रथादि[^2_pg38]-समृद्धिर्वा।
+
+<details><summary>English</summary>
+
+merely, chariots, etc., (not garlands, and sandals, etc.) 
+</details>
 
 [^2_pg38]: धनादिइ ।
 
-**नित्यं** नित्यसंस्थानम् । **निरवद्य** इति अवद्यादयो[^1_pg39] न तत्रत्यानामित्यर्थः । **निरतिशय** इति अनुत्तमवत् ।
+**नित्यं** नित्यसंस्थानम् । 
+
+<details><summary>English</summary>
+
+Nitya means Eternal Existence.
+</details>
+
+**निरवद्य** इति अवद्यादयो[^1_pg39] न तत्रत्यानामित्यर्थः । 
+
+<details><summary>English</summary>
+
+Niravadya is used to show that there is no blemish or fault in any of the things found in Vaikuntha.
+</details>
 
 [^1_pg39]: अविद्यादयो - इ ।
+
+**निरतिशय** इति अनुत्तमवत् ।
+
+<details><summary>English</summary>
+
+Niratisaya the word nothing higher than this, meaning something like Anuttama.
+</details>
 
 </details>
 
@@ -812,17 +1389,60 @@ with objects of enjoyment and instruments of enjoyment endless in kind and varie
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-अथ लीलाविभूतिः - [^1_pg40]नियमनञ्च धारणसिद्धम्[^1_pg40] स्वसङ्कल्प इति । शेषत्वमाहस्व इति । कालस्य प्रकृत्यनन्तरानुक्तिः प्रकृतिपुरुषयोस्संयोग वियोगहेतुत्वात् । 'तस्यैव तेऽन्येन धृते वियुक्ते रूपान्तरम्' इति ह्युच्यते ।
+अथ लीलाविभूतिः - [^1_pg40]नियमनञ्च धारणसिद्धम्[^1_pg40] स्वसङ्कल्प इति ।
+
+<details><summary>English</summary>
+
+Then follows a description of Leelaa Vibhooti, the Universe and all things in it. By the word, "Svasankalpa" it is meant to convey the meaning that not only that He controls and directs but also that He sustains and protects.
+</details>
 
 [^1_pg40]: निगमनं धारणं चइ ।
 
-शब्दस्पर्शादिरूपेण वैविध्यम् । तदवान्तर भिदया[^1_pg41]। विचित्रत्वम् । **निखिल**-शब्देन ब्रह्मादिव्यावृत्तिः ।
+शेषत्वमाहस्व इति । 
+
+<details><summary>English</summary>
+
+Then about Seshaatvam. This means that the whole Universe is under service to Him.
+</details>
+
+कालस्य प्रकृत्यनन्तरानुक्तिः प्रकृतिपुरुषयोस्संयोग वियोगहेतुत्वात् । 
+
+<details><summary>English</summary>
+
+Kaala generally comes after Prakrti as both are Achetana. Here, the reason why "Kaala" is not mentioned next after Prakrti but before is because it acts as the Kaarana" the cause of the Purusha and Prakrti bringing together and also separating one from the other.
+</details>
+
+'तस्यैव तेऽन्येन धृते वियुक्ते रूपान्तरम्' इति ह्युच्यते ।
+
+<details><summary>English</summary>
+
+Vishnu Purana says: "Distinct from Vishnu, there are two things called Pradhana and Purusha. As the active principle to bring them together also to separate them is Kaala. That also is His body.”
+</details>
+
+शब्दस्पर्शादिरूपेण वैविध्यम् । 
+
+<details><summary>English</summary>
+
+“Vividha” variegated in the matter of sound, touch, etc.
+</details>
+
+तदवान्तर भिदया[^1_pg41]। विचित्रत्वम् । 
+
+<details><summary>English</summary>
+
+"Vichitra" implies distinction.
+</details>
 
 [^1_pg41]: भिदा - इ ।
 
+**निखिल**-शब्देन ब्रह्मादिव्यावृत्तिः ।
 
+<details><summary>English</summary>
+
+The word Nikhila is used to differentiate Iswara from Brahma (The Four-faced) and others.
 </details>
 
+</details>
 
 
 <details><summary>वेङ्कट-नाथः</summary>
@@ -872,15 +1492,99 @@ whose sole proper nature is to be dependent in proper form, continuation, and ac
 
 अथ उक्ताकारेषु समाख्याष्टकं प्रमाणयति ।  
 
+<details><summary>English</summary>
+
+The following eight Namas (names) are used as proofs to show that He is possessed of all the qualities mentioned before as natural to Him.
+</details>
+
 **सत्यकाम** इति - नित्यविभूतिमत्त्व-सिद्धिः ।  
+
+<details><summary>English</summary>
+
+By Satyakaama, the Lord is denoted as possessing Nitya Vibhooti.
+</details>
+
 **सत्यसङ्कल्प** इति लीलाविभूतिमत्त्वसिद्धिः ।  
-निमित्तमात्रत्वं सत्यसङ्कल्पतया सिद्धमिति उपादानतामप्यभिप्रयन्नाह परब्रह्मभूत इति । उपादानत्वेऽपि चिदचिद्गतदोषास्पृष्टत्वमाह पुरुषोत्तम इति।
 
-उपादनभूतस्य कथं जगद्वैलक्षण्यम् इति शङ्कायां घटकमर्थमाह महाविभूते इति । शरीरकतया विभूतिमत्त्वमभिप्रेतम् । विभूतिं प्रति शेषत्वं द्विनिष्ठम् इत्यभिप्रायेणाह श्रीमन् इति । महविभूते इति शरीरकतया विभूतिमत्त्वसाधारणोक्तमर्थं विविच्य दर्शयिष्यन् दोषास्पृष्टत्वसिद्धये लीलाविभूति शरीरकत्वमाह - नारायण इति । 'नराज्जातानि तत्त्वानि नाराणीति ततो विदुः' इति निर्वचनमिहाभिप्रेतम् । नित्यविभूतियोगे समाख्यां स्पष्टयतिवैकुण्ठनाथ इति । 'कुठि-गतिप्रतिघाते' (धा.पा.३४३) इति धातुः । ज्ञानप्रतिघातिकर्मादिरहितास्सूरयो विकुण्ठाः, तत्सम्बन्धिदेशो वैकुण्ठाख्यः ।
+<details><summary>English</summary>
 
+Satya Sankalpa denotes the possession of Leelaa Vibhooti
+</details>
+
+निमित्तमात्रत्वं सत्यसङ्कल्पतया सिद्धमिति उपादानतामप्यभिप्रयन्नाह परब्रह्मभूत इति । 
+
+<details><summary>English</summary>
+
+and also that He is the nimitta Kaarana (creative cause). To show that He is also the Upaadaana Kaarana, the name parabrahmabhoota is used.
+</details>
+
+उपादानत्वेऽपि चिदचिद्गतदोषास्पृष्टत्वमाह पुरुषोत्तम इति।
+
+<details><summary>English</summary>
+
+To show that though He is the Upaadaana Kaarana, He is not affected by any infirmities of material things, the next Nama, Purushothama is used.
+</details>
+
+उपादनभूतस्य कथं जगद्वैलक्षण्यम् इति शङ्कायां घटकमर्थमाह महाविभूते इति । 
+
+<details><summary>English</summary>
+
+To dispel any doubt that may be created as to how, being the Upadaana Kaarana, He can be said to be separate and distinct from Prakarti, the next Name Mahaa Vibhooti is used reminding us of the harmonising sruti.
+</details>
+
+शरीरकतया विभूतिमत्त्वमभिप्रेतम् । 
+
+<details><summary>English</summary>
+
+That is to say, He has the Vibhootis as His Body.
+</details>
+
+विभूतिं प्रति शेषत्वं द्विनिष्ठम् इत्यभिप्रायेणाह श्रीमन् इति । 
+
+<details><summary>English</summary>
+
+To denote that they both Iswara and Sri. are jointly Masters, the word 'Sriman' follows.
+</details>
+
+
+महविभूते इति शरीरकतया विभूतिमत्त्वसाधारणोक्तमर्थं विविच्य दर्शयिष्यन् दोषास्पृष्टत्वसिद्धये लीलाविभूति शरीरकत्वमाह - नारायण इति । 
+
+<details><summary>English</summary>
+
+The next name Naaraayana "is used to convey the same sense in some detail (i.e., Iswara and Sri). That He is not affected by the infirmities attaching to the Vibhooti, has been already expressed in some what general terms by the word "Mahaa Vibhooti.
+</details>
+
+'नराज्जातानि तत्त्वानि नाराणीति ततो विदुः' इति निर्वचनमिहाभिप्रेतम् । 
+
+<details><summary>English</summary>
+
+The Nirukti of the word (Naaraayana) Naraat Jaataani. Tatvaani Naraani Iti Tato Vidu:"
+</details>
+
+नित्यविभूतियोगे समाख्यां स्पष्टयतिवैकुण्ठनाथ इति । 
+
+<details><summary>English</summary>
+
+Again, to show explicitly and authoritatively the existance of NityaVibhooti, the name Vikunta Naatha is used.
+</details>
+
+'कुठि-गतिप्रतिघाते' (धा.पा.३४३) इति धातुः । 
+
+<details><summary>English</summary>
+
+The root meaning of Vaikuntha is as follows: The root Kuthi = gati-Pratighaata means "to obstruct know ledge"
+</details>
+
+
+ज्ञानप्रतिघातिकर्मादिरहितास्सूरयो विकुण्ठाः, तत्सम्बन्धिदेशो वैकुण्ठाख्यः ।
+
+<details><summary>English</summary>
+
+The obstructions are caused by Karma. Vi = without; Vikuntha = without karma or obstruction to knowledge. Souls whose knowledge is not obstructed by karma and such like impediments are called Vikuntha. The place where they reside is called Vai-kunta.
 
 </details>
 
+</details>
 
 
 <details><summary>वेङ्कट-नाथः</summary>
@@ -950,6 +1654,10 @@ Possessed of great glory! With Śrī! Nārāyaṇa! Lord of Vaikuṇṭha!
 </details>
 
 <details><summary>सुदर्शन-भट्टः</summary>
+
+""
+""
+""
 
 एवम् उपायोपेयत्त्वसाधारणाकारा उक्ताः । अथ उपायत्वैकान्तगुणा उच्यन्ते अपार इत्य्-आदि-ना । कारुण्याद्यगोचरे मय्यपि कार्यकरं कारुण्यादिकमिति **अपार**-शब्दस्य भावः । कारुण्यादिकं पूर्ववत् ।
 
