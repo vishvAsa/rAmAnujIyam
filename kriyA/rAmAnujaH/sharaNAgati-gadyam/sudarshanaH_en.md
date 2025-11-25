@@ -66,51 +66,6 @@ Why this Saranaagati.
 COMMENTARY 
 
 
-
-46 
-9 
-
-is 
-10 
-Translation of Text 
-(3) [Then follows invocations to the Lord with a description of all His qualities, His divine Form, and His weapons, etc.] 
-*[With no person to surrender myself to, I take shelter unto Thine lotus feet, Oh Sriman Naraay ana!, the refuge of all the Helpless] the Enemy of all Evil and the Abode of all beneficient qualities, perfect embodiment (distinct from the forms of all other things) of immeasurable knowledge and of Bliss, bearing a form agreeable to Thee, Worthy of Thee, unchanging, beyond the reach of thought, Divine in essence wonderful to behold; Ever existing pure and Unsullied; pre-eminently Excellent, of Brilliant Loveliness; Sweet smelling, Charming with the prime of Youthfulness-indeed a Form full of such and a whole treasure of excellences. 
-His Attributes. 
-4. स्वाभाविकानवधिकातिशयज्ञानबलैश्वर्यवीर्यशक्तितेज: सौशील्यवात्सल्यमार्दवार्जव सौहार्दसाम्यकारुण्यमाधुर्यगाम्भीयौदार्य चातुर्यस्थैर्य - धैर्यशौर्यपराक्रम - सत्यकामसत्य सङ्कल्प कृतित्वकृतज्ञताद्यसंख्येयकल्याण गुणगणौघमहार्णव ! 
-COMMENTARY 
-4. Then follow the natural qualities of Paramaatman. Svaabhaavika-etc. The meaning is clear. The first six characteristics are common, then the 
-Refer to original text, at Page 28. 
-11 
-next twelve are peculiar as being useful for thegrant of salvation to the Devotees. 
-Seela is where a superior has as his natural quality the quality of moving freely with the inferiors; when that is exercised for no selfish or other purpose, it is Sau-Seelya. That is to say, Iswara does not cause fear in the heart of the Devotees by his Iswaratva nor does he generate any feeling in them of undue hesitation to approch Him. by His superiority. 
-Vaatsalya is the quality to find good even in Evil: Just as a cow fondles its new born dirty calf. This quality is one of the features of extreme 
-Patience Hence 
-patience. separatelty. 
-is not mentioned 
-Maardava is the feeling of loss at any separation from the devotees, a feeling of apprehension when they are not present at any place. 
-Aarjava denotes perfect correlation of mind, speech and body in action. So it is said "Rajubudhyat sarvam akhayatum upachakarme" 
-"because 
-of His artlessness He (Rama) began to narrate to Surpanaka all about Himself" Sauhaarda:-Ever wishing well of His Devotees :-Intent in doing good to them without caring for any return. Saamya is the quality which does not make differentiation on account of birth, conduct or character; making Himself easily available to them all and also rewarding. them, not minding any difference in the gifts offered 
-12 
-by them or their nature or value, in short no feeling of any difference. Kaarunya:-Removing the calamities and grievances without expecting any 
-return. 
-Krishna "Come, Gaambheerya of 
-— 
-Maadhurya: kindness shown even in inflicting punishment, such as, death. (ehi ehi phullaambuja patra netra) when Krishna goes to hit him with chakra, Bhishma cried to Come, Oh the lotus-eyed". immesasurable depth (worth) as the greatness and value of the favours granted by Him to His devotees bear no proportion to the insignificance of the deserts of the favoured. Audaarya:-with no feeling that any devotee has been over favoured or not satisfied with the favours granted. "Krishna felt indebted and remembered the debt when Drowpadi cried for help when being dishonoured :or with no feeling that favours are granted to a stranger, but is only as if to son who is entitled to the patrimony. Chaaturya-affording instant relief to his Devotees overlooking their faults just like a father. Rama peformed the Abhisheka to Vibhishana on the battlefield itself. Sthairya :-Firm determination not to abandon His Devotees. 
-These twelve (qualities) are useful to Him for saving His Devotees. 
-Then follow three qualities which go to help Him in punishing those who stand in the way of His protecting His Devotees. 
-13 
-"Dhairya"-Unshaken stand against foes who stand in the way of granting such protection; "jatajoota granthim drudhayathi "making fast the knot of the hair." "Saurya": Prowess to enter the enemy's camp as easily as if entering His own 
-house. 
-Paraakrama-power to vanquish foes after (at the entering their camp "Chinnam Bhinnam" time Rama's destroying Ravana's moola balam. 
-Then are mentioned two qulities relating to enjoyment. Satyakaama denotes Iswara possessing of Nitya Vibhuti. [The word Kama has many mean ings.] Satya Sankalpa denotes Iswara possessing the worlds for his Leela i.e., sport or recreation. Thus possessing the two worlds for his Dominion. 
-The next two qualities refer to the protective activities of the Lord apart from the 12 qualities already mentioned. 
-Krititva is the state of satisfaction in having acceded to the prayers of the Devotees, therefore the word may mean One who is active, that is to say, He Himself does what the Devotees should have done "Aham smarami". "I think of him at the death of the devotee though he may not remember me." 
-Kritaganata denotes 'I remember' i.e., remembering what has been done, but not what has to be Kritagna is one who done but left undone, or. 
-14. 
-remembers only the good act done, however small but not the faults, nor the return He is making to them. The word gana is used to denote that in the each of the qualities there are many (subvarieties) qualities contained in them. Such Gana's flood is 
-Ogha". 
-Mahaarnava is the Ocean. Virtues and and qualities have no permanent value unless they seek abode in Bhagavan; indeed, without such refuge, they have no value. 
 Translation of Text 
 (4) Thou art the Ocean unto which flow rivers of limitless excellent Virtues, all natural to Thee, and useful for the protection of the Devotees, such as, All knowledge, Mighty rulership of the worlds, Untiring virility; Power to act without any outside help; Kind disposition, like that of a cow to its calf. Affectionate tenderness; Gentleness; Truthfulness in Mind and speech and body, Friendliness, Feeling of Equality, Mercifulnesss, Generosity, Quickness to respond to the miseries of Sweetness, Nobility, the Devotees, Firmness in Thy resolve to protect Devotees, Undaunted courage to bring succour to them, Courage to fight for the Devotees: Ability to fight the enemies within their own one camp; ing Thine will ever fuifilled, Having Thy commands irresistable, Thy Deeds fully executed-Always remembering with gratitude (even a little worship) done to Thee. 
 Hav- 
