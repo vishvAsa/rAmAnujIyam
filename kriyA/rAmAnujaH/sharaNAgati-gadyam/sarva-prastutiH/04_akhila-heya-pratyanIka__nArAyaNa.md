@@ -922,14 +922,73 @@ a raiment of yellow silk, girdle and anklets,
 
 <dg 33/>
 
-अथ दिव्यायुधानि । एकैकायुधस्य सर्वायुधकार्यशक्तिमत्त्वम् अचिन्त्य शक्तित्वम्[^1_pg34] । यथा सहायकृत्यङ्किन्तस्य[^2_pg34] येन सप्तमहाद्रुमाः । शैलश्च वसुधा चैव बाणेनैकेन दारिताः' ॥ (रा. कि. ३६-८) इति । परशुटङ्कखनित्रादिकार्यम्, एकेन सालगिरिरसातलभेदिना शरेण हि कृतम्।
+अथ दिव्यायुधानि ।
+
+<details><summary>English</summary>
+
+Then are mentioned His Divine weapons.
+</details>
+
+एकैकायुधस्य सर्वायुधकार्यशक्तिमत्त्वम् अचिन्त्य शक्तित्वम्[^1_pg34] ।
+
+<details><summary>English</summary>
+
+"Achintya Sakti" Each weapon has the power to do the work of all the weapons.
+</details>
 
 [^1_pg34]: शक्तिमत्वम् - इ ।
 
+यथा सहायकृत्यङ्किन्तस्य[^2_pg34] येन सप्तमहाद्रुमाः । 
+
+<details><summary>English</summary>
+
+as stated in Ramayana about the arrow of Rama.
+</details>
 
 [^2_pg34]: साहाय्यार्थकृतं तेन - इ ।
 
-**निरवद्यत्वम्** - पूर्ववत् । निरतिशयकल्याणत्वम् - शोभनावहत्वम् । तान्याभरणकोटावपि हि निविशन्ते । अथ दिव्यमहिषीविशेषणानां पूर्ववदर्थः[^1_pg35] ।
+शैलश्च वसुधा चैव बाणेनैकेन दारिताः' ॥ (रा. कि. ३६-८) इति । 
+
+<details><summary>English</summary>
+
+this refers to the splintering the seven saalaa (Aachcha) trees, the Hill and the Paataala Loka by one arrow of Rama let off by him to prove His Prowess to Sugreeva.
+</details>
+
+परशुटङ्कखनित्रादिकार्यम्, एकेन सालगिरिरसातलभेदिना शरेण हि कृतम्।
+
+<details><summary>English</summary>
+
+"The chisel, and spade were performed by one arrow of Rama" - works generally done with the help of a crowbar.
+</details>
+
+
+**निरवद्यत्वम्** - पूर्ववत् । 
+
+<details><summary>English</summary>
+
+Niravadya has been explained already.
+</details>
+
+निरतिशयकल्याणत्वम् - शोभनावहत्वम् । 
+
+<details><summary>English</summary>
+
+Niratisaya Kalyaana denotes the par-excellent splendour of the whole vision.
+</details>
+
+तान्याभरणकोटावपि हि निविशन्ते ।
+
+<details><summary>English</summary>
+
+including weapons and ornaments.
+</details>
+
+अथ दिव्यमहिषीविशेषणानां पूर्ववदर्थः[^1_pg35] ।
+
+<details><summary>English</summary>
+
+[Translation text missing in source] [[??]]
+</details>
 
 [^1_pg35]: प्राग्वदर्थः - इ ।
 
