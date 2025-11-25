@@ -3349,6 +3349,7 @@ incluso cuando **asumió** la forma de un Brahmacharin (en Vāmanāvatāra),
 </details>
 
 ### अपृथक्-सिद्धौ
+#### मतुब्य् आक्षेपः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अ-पृथक्-सिद्ध-वस्तुवुक्कु  
@@ -3358,27 +3359,481 @@ incluso cuando **asumió** la forma de un Brahmacharin (en Vāmanāvatāra),
 ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>English</summary>
+
+The first objection is that the suffix matup **is not employed**  
+when, of two things that **are** put in grammatical apposition or co-ordination (sāmānīdhikaranya),  
+one **is inseparable** from the other  
+and **cannot exist** without the other.  
+
+For instance, when we **say**  
+
+> “Brahman **is** Ānanda,  
+
+Brahman and Ānanda (bliss ) **are** in grammatical apposition or co-ordination with each other.  
+Since anandam or bliss **is** an inseparable attribute of Brahman,  
+matup is not added to it as a suffix.  
+
+But when we say,  
+'the man **having** a stick (dandi)',  
+the suffix matup **comes** after danda (stick),  
+because the stick **can be separated** from the man  
+and **can exist** without the man.  
+So the objector **says** that  
+since the suffix occurs in Śrīman,  
+Srī **should be considered** as separable from Nārāyaṇa ( as in Dandi)  
+which **is** put in apposition with it.
+</details>
+
+<details><summary>Español</summary>
+
+La primera objeción es que el sufijo matup **no se emplea**  
+cuando, de dos cosas que **están** puestas en aposición o coordinación gramatical (sāmānīdhikaranya),  
+uno **es inseparable** del otro  
+y **no puede existir** sin el otro.  
+
+Por ejemplo, cuando **decimos**  
+
+> “Brahman **es** Ānanda,  
+
+Brahman y Ānanda (bienaventuranza) **están** en aposición o coordinación gramatical entre sí.  
+Dado que anandam o bienaventuranza **es** un atributo inseparable de Brahman,  
+matup **no se le agrega** como sufijo.  
+
+Pero cuando **decimos**,  
+
+> 'el hombre **que tiene** un palo (dandi)',  
+
+el sufijo matup **viene** después de danda (palo),  
+porque el palo **se puede separar** del hombre  
+y **puede existir** sin el hombre.  
+
+Entonces el objetor **dice** que  
+dado que el sufijo aparece en Śrīman,  
+Srī **debe considerarse** como separable de Nārāyaṇa (como en Dandi)  
+que **se** pone en aposición con él.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 अपृथक्सिद्धवस्तुवुक्कु “श्रीमान्” ऎऩ्ऱु मत्वर्थीयप्रत्ययसापेक्षमाग सामानाधिकरण्यङ्गूडुमोवॆऩ्ऱुम्, 
- </details>
+</details>
+
+#### आक्षेपः पार्थक्ये
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पृथक्-सिद्धम् आगिल् 
+
+> “कीर्तिः श्रीर् वाक् च नारीणाम्”  
+( गीता १०-३४) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “कीर्तिः श्रीर् वाक् च नारीणाम्”  
+( गीता १०-३४) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+The second objection is as follows:-  
+If Śrī **is separable** from Nārāyaṇa  
+and **can exist** where He **is not**  
+(as during Sītā's **separation** from Śrī Rāma) 
+the two words Śrī and the word meaning Bhagavān **should not be put to apposition or co-ordination** without the suffix,  
+
+When Śrī Kṛṣṇa **says** :-
+
+> "Among women, **I am** the deity of fame, Śrī (Lakṣmī) and Vāk (Saraswati)" 
+
+
+</details>
+
+<details><summary>Español</summary>
+
+La segunda objeción **es** la **siguiente**:  
+Si Śrī **es separable** de Nārāyaṇa  
+y **puede existir** donde Él **no está**  
+(como durante la **separación** de Sītā de Śrī Rāma)  
+las dos palabras Śrī y la palabra que **significa** Bhagavān  
+**no deben ponerse en aposición o coordinación** sin el sufijo,  
+
+Cuando Śrī Kṛṣṇa **dice**:-
+
+> "Entre las mujeres, **Yo soy** la deidad de la fama, Śrī (Lakṣmī) y Vāk (Saraswati)"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पृथक्सिद्धमागिल् “कीर्तिः श्रीर्वाक्च नारीणां”( गीता १०-३४) ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “पूविल् वाऴ् मगळ् आय्” ( तिरुवाय्मॊऴि ६-३-६)  
+
+ऎऩ्ऱुम्
+</details>
+
+<details><summary>English</summary>
+
+and also in the sentence :-
+
+> "Bhagavān **is** Lakṣmī  
+who **abides** in the lotus ".
+
+</details>
+
+<details><summary>Español</summary>
+
+y también en la oración:-
+
+> "Bhagavān **es** Lakṣmī  
+que **habita** en el loto".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“पूविल् वाऴ् मगळाय्” ( तिरुवाय्मॊऴि ६-३-६)  ऎऩ्ऱुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मत्व्-अर्थीय-प्रत्यय-निरपेक्षम् आग  
+सामानाधिकरण्यङ् कूडुमोव् 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>English</summary>
+
+since we **do find** them in grammatical apposition or coordination  
+(is this proper?)
+</details>
+
+<details><summary>Español</summary>
+
+ya que **los encontramos** en aposición o coordinación gramatical  
+(¿**es** esto correcto?)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मत्वर्थीयप्रत्ययनिरपेक्षमाग सामानाधिकरण्यङ्गूडुमोवॆऩ्ऱुम् 
+</details>
 
 
 
 
-The two objections that have been raised by some in this context are not sound:  
 
-The first objection is that the suffix matup is not employed when, of two things that are put in grammatical apposition or co-ordination (sāmānīdhikaranya), one is inseparable from the other and cannot exist without the other. For instance, when we say “Brahman is Ānanda, Brahman and Ānanda (bliss ) are in grammatical apposition or co-ordination with each other. Since anandam or bliss is an inseparable attribute of Brahman, matup is not added to it as a suffix. But when we say, 'the man having a stick (dandi)', the suffix matup comes after danda (stick), because the stick can be separated from the man and can exist without the man. So the objector says that since the suffix occurs in Śrīman, Srī should be considered as separable from Nārāyaṇa ( as in Dandi) which is put in apposition with it.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The second objection is as follows:-“If Śrī is separable from Nārāyaṇa and can exist where He is not (as during Sītā's separation from Śrī Rāma) the two words Śrī and the word meaning Bhagavān should not be put jo apposition or co-ordination without the suffix, but we do find them in grammatical apposition or co-ordi pation when Śrī Kṛṣṇa says :-"Among women, I am the deity of fame, Śrī (Lakṣmī) and Vāk (Saraswati)" and also in the sentence :-"Bhagavān is“ Lakṣmī who abides in the lotus ".
+सिलर् सॊल्लुम् चोद्यङ्गळ्  
+इरण्डुम् मन्दङ्गळ्।  
+ऎङ्ङऩेय् ऎऩ्ऩिल्; 
+</details>
 
-These (two) objections are unsound for the following reasons - The existence of the suffix does not, by itself, determine whether there is inseparable connection or no. For example: By the principle enunciated in Brahma Sūtras 2 – 3-.29, " The jīva is called jñāna because the attribute jñāna or knowledge is an essential and distinctive quality of the jīva, in the same way as Brahman is called Ānanda (bliss), because Ānanda is an essential and distinctive quality of Brahman." Here there is inseparable connection between the jīva and jñāna and the two are put in apposition with each other, whereas usage such as the jīva is one having jñāna (Jñānavān) is also frequently found. That is, though there is inseparable connection between the jīva and jñāna, the suffix matup is attached to jñāna, as in dandi, where the connection is separable. It is clear from this that the existence or non-existence of the suffix matup does not, of itself, afford evidence about the separability or inseparability of connection[^98] .
+<details><summary>English</summary>
 
-[^98]: Śrīman, jñānavān, daṇḍi have also the suffix matup though in different variations).
+These two objections **have been raised** by some in this context **are** unsound for the following reasons - 
+</details>
 
-When it is said, for instance, " The king himself is all the subjects", where there is no suffix matup after the word lokāh (subjects) in the appositional use, it cannot be stated that there is inseparable connection between the king and his subjects and that the latter cannot exist without him, for the meaning of the sentence is something entirely different (from separability or inseparability of connection). So the proper thing to do is to understand the nature of the connection with the help of other pramāṇas which bring it out clearly (and not merely by the existence or non-existence of the suffix matup).
+<details><summary>Español</summary>
 
-"Here (in regard to Lakṣmī's inseparable connection with Bhagavān), since the pramāṇas declare eternal connection (between them), both in the state when they are sought as upāya and in the state when the fruit (of the adoption of the upāya) is enjoyed and since in this mantra (Dvaya), this idea of inseparable connection needs to be stressed, the matup indicates that the two stand inseparably connected, both in the first part of Dvaya and in the second part and this conclusion is arrived at on the strength of such pramāṇas as the following :- “ Lakṣmaṇa," the descendant of Raghu, seized the two feet of Śrī Rāma firmly and said these words in the presence of Sītā", and " You will enjoy your self in the company of Sitā on the slopes of the mountains and whether you are awake or asleep, I will render every form of service to you". (The first passage describes their inseparability in the state of upāya and the second in the state of the attainment of the fruit, namely, the rendering of service to them (kaiṅkarya). Nammalvar, too, realised in his mind this inseparability in the following passages :-- O, Thou, on whose chest resides Lakṣmī, whose home is the lotus, because she cannot endure separation from Thee for an instant !, " While Lakṣmī with her beautiful bracelets and Thou stand together, I see that the supreme end of existence is to enjoy Thee and render service to Thee like the eternal sūris and other selves" (the former describes the state of upāya and the latter the state of attainment) and so also in, "Here (where we adopt the means or upāya) and there (in Vaikuṇṭha) where we enjoy Bhagavān, there is no one other than Nārāyaṇa who is ever found in (intimate) connection with Lakṣmī". ((48) describes both the states). This realisation (of inseparable connection between Bhagavān and Śrī, is essential for seeking the Lord's protection without any misgivings or heSītātion and whenever we desire it,
+Estas dos objeciones **han sido planteadas** por algunos en este contexto **son** erróneas  
+por las **siguientes** razones:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिलर् सॊल्लुम् चोद्यङ्गळिरण्डुम् मन्दङ्गळ्। ऎङ्ङऩेयॆऩ्ऩिल्; 
+</details>
+
+#### समाधानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “तद्-गुण-सारत्वात्  
+तद्-व्यपदेशः - प्राज्ञवत्”  
+( ब्रह्मसूत्रम् २-३-२९) 
+
+ऎऩ्गिऱ न्यायत्ताले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “तद्-गुण-सारत्वात्  
+तद्-व्यपदेशः - प्राज्ञवत्”  
+( ब्रह्मसूत्रम् २-३-२९) 
+
+</details>
+
+<details><summary>English</summary>
+
+By the principle **enunciated** in Brahma Sūtras 2 – 3-.29, 
+
+> " The jīva **is called** jñāna  
+because the attribute jñāna or knowledge **is** an essential and distinctive quality of the jīva,  
+in the same way as Brahman **is** called Ānanda (bliss),  
+because Ānanda **is** an essential and distinctive quality of Brahman." 
+</details>
+
+<details><summary>Español</summary>
+
+**Según** el principio **enunciado** en Brahma Sūtras 2 – 3-.29, 
+
+> "La jīva **se llama** jñāna  
+porque el atributo jñāna o **conocimiento es** una cualidad esencial y distintiva de la jīva,  
+de la misma manera que Brahman **es llamado** Ānanda (bienaventuranza),  
+porque Ānanda **es** una cualidad esencial y distintiva de Brahman."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तद्गुणसारत्वात् तद्व्यपदेशः प्राज्ञवत्”( ब्रह्मसूत्रम् २-३-२९) ऎऩ्गिऱ न्यायत्ताले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान-गुणत्तैय् इट्टु  
+आत्मावै "ज्ञानम्" ऎऩ्ऱु सॊल्लल् आय् इरुक्कच् चॆय्दे  
+“ज्ञानवान्” ऎऩ्ऱु मत्वर्थीय-प्रत्ययान्वितम् आगवुम् सामानाधिकरण्यम् उण्ड् आगिऱाप् पोलेय्
+</details>
+
+<details><summary>English</summary>
+
+Here there **is inseparable connection** between the jīva and jñāna  
+and the two **are put** in apposition with each other,  
+whereas usage such as the jīva **is** one **having** jñāna (Jñānavān)  
+**is** also frequently **found**.  
+That is, though there **is inseparable connection** between the jīva and jñāna,  
+the suffix matup **is attached** to jñāna, as in dandin, where the **connection is separable**.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Aquí **hay una conexión inseparable** entre la jīva y la jñāna.  
+y los dos **se ponen** en aposición el uno con el otro,  
+mientras que **usos** como jīva **es** uno **que** tiene jñāna (Jñānavān)  
+también **se encuentra** con frecuencia.  
+
+Es decir, aunque **hay una conexión inseparable** entre la jīva y la jñāna,  
+el sufijo matup **se adjunta** a jñāna, como en dandin, donde la **conexión es separable**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानगुणत्तैयिट्टु आत्मावैज्ञानमॆऩ्ऱु सॊल्ललायिरुक्कच् चॆय्दे “ज्ञानवान्” ऎऩ्ऱु मत्वर्थीयप्रत्ययान्वितमागवुम् सामानाधिकरण्यम् उण्डागिऱाप्पोलेय्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गुङ् कुऱैय् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+(Here too there is no problem). 
+</details>
+
+<details><summary>Español</summary>
+
+(Aquí **tampoco hay** problema).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गुङ्गुऱैयिल्लै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल्  
+मत्व्-अर्थीय-प्रत्यय-मात्रत्तैक् कॊण्डु  
+पृथक्-सिद्धम् ऎऩ्ऱु निश्चयिक्कप् पोगादु।
+</details>
+
+<details><summary>English</summary>
+
+It **is** clear from this  
+that the existence or non-existence of the suffix matup **does not**, of itself, **afford** evidence about the **separability or inseparability** of **connection**.
+
+(Śrīman, jñānavān, daṇḍi **have** also the suffix matup though in different variations).
+</details>
+
+<details><summary>Español</summary>
+
+**Está** claro a partir de esto  
+que la **existencia** o **no existencia** del sufijo matup  
+**no**, por sí sola, **proporciona** evidencia sobre la **separabilidad o inseparabilidad** de **conexión**.
+
+(Śrīman, jñānavān, daṇḍi **tienen** también el sufijo matup aunque en diferentes variaciones).
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् मत्वर्थीयप्रत्ययमात्रत्तैक्कॊण्डु पृथक्सिद्धमॆऩ्ऱु निश्चयिक्कप् पोगादु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “नर-पतिर् एव सर्वे लोका” 
+
+इत्य्-आदिगळिऱ् पोले  
+विवक्षान्तरम् संभावितम् आऩव् इडत्तिल्  
+इप् प्रत्ययम् इल्लाद सामानाधिकरण्य-मात्रत्तैक् कॊण्डु  
+पृथक्-सिद्धम् ऎऩ्ऱ् ऎऩ्ऩवुम् ऒण्णादु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “नर-पतिर् एव सर्वे लोका” 
+
+</details>
+
+<details><summary>English</summary>
+
+When it is said, for instance, 
+
+> " The king himself **is** all the subjects", 
+
+where there **is no** suffix matup after the word lokāh (subjects) in the appositional use,  
+it **cannot be stated** that there **is inseparable connection**  
+between the king and his subjects  
+and that the latter **cannot exist** without him,  
+for the **meaning** of the sentence **is** something entirely different (from separability or inseparability of connection). 
+
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se dice**, por ejemplo, 
+
+> " El rey mismo **es** todos los súbditos", 
+
+donde **no hay** sufijo matup después de la palabra lokāh (sujetos) en el uso aposicional,  
+**No se puede afirmar** que exista **una conexión inseparable**  
+entre el rey y sus súbditos  
+y que este último **no puede existir** sin él,  
+porque el **significado** de la oración **es** algo completamente diferente (de la separabilidad o inseparabilidad de la conexión).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“नरपतिरेव सर्वे लोका” इत्यादिगळिऱ्पोले विवक्षान्तरम् संभावितमाऩविडत्तिल् इप् प्रत्ययमिल्लाद सामानाधिकरण्यमात्रत्तैक्कॊण्डु पृथक्सिद्धमॆऩ्ऱॆऩ्ऩवुमॊण्णादु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩ बिऩ्बु विशदम् आग प्रतिपादिक्कुम् प्रमाणान्तरङ्गळैक् कॊण्डु  
+इव् वस्तु-स्थितिय् इरुक्कुम् बडि तॆळिय प्राप्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+So the proper thing to do **is to understand** the nature of the **connection**  
+with the help of other pramāṇas  
+which **bring it out** clearly  
+(and **not** merely by the **existence** or **non-existence** of the suffix matup).
+</details>
+
+<details><summary>Español</summary>
+
+Entonces lo correcto es **comprender** la naturaleza de la **conexión**  
+con la ayuda de otros pramāṇas  
+que **lo sacan** claramente  
+(y **no** simplemente por la **existencia** o **inexistencia** del sufijo matup).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩबिऩ्बु विशदमाग प्रतिपादिक्कुम् प्रमाणान्तरङ्गळैक्कॊण्डु इव् वस्तुस्थितियिरुक्कुम्बडि तॆळियप्राप्तम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ग् उपाय-दशैयिलुम्, फल-दशैयिलुम्  
+प्रमाणङ्गळ् नित्य-योगत्तैच् चॊल्लुगैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+Here (in regard to Lakṣmī's **inseparable connection** with Bhagavān),  
+since the pramāṇas **declare** eternal **connection** (between them),  
+both in the state when they **are sought** as upāya  
+and in the state when the fruit (of the adoption of the upāya) **is enjoyed**  
+</details>
+
+<details><summary>Español</summary>
+
+Aquí (con respecto a la **conexión inseparable** de Lakṣmī con Bhagavān),  
+ya que los pramāṇas **declaran** eterna **conexión** (entre ellos),  
+tanto en el estado en el que **son buscados** como en upāya  
+y en el estado en el que el fruto (de la adopción del upāya) **se disfruta**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गुपायदशैयिलुम् फलदशैयिलुम् प्रमाणङ्गळ् नित्ययोगत्तैच् चॊल्लुगैयालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इम्-मन्त्रत्तिल् इव्व्-अर्थम् प्रकाशिप्पिक्कै अपेक्षितम् आगैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+and since in this mantra (Dvaya), this idea of **inseparable connection needs to be stressed**, 
+</details>
+
+<details><summary>Español</summary>
+
+y dado que en este mantra (Dvaya) es necesario enfatizar esta idea de **conexión inseparable**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इम्मन्त्रत्तिलिव्वर्थम् प्रकाशिप्पिक्कै अपेक्षितमागैयालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्वोत्तर-पूर्वोत्तर-खण्डङ्गळिल् मतुप्पाले 
+
+> “स भ्रातुश्चरणौ गाढं”( रामायणम् आरण्यकाण्डम् १५-६), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+पूर्वोत्तर-पूर्वोत्तरखण्डङ्गळिल् मतुप्पाले “स भ्रातुश्चरणौ गाढं”( रामायणम् आरण्यकाण्डम् १५-६), 
+</details>
+
+
+the matup indicates that the two stand inseparably connected, both in the first part of Dvaya and in the second part and this conclusion is arrived at on the strength of such pramāṇas as the following :- “ Lakṣmaṇa," the descendant of Raghu, seized the two feet of Śrī Rāma firmly and said these words in the presence of Sītā", and " You will enjoy your self in the company of Sitā on the slopes of the mountains and whether you are awake or asleep, I will render every form of service to you". (The first passage describes their inseparability in the state of upāya and the second in the state of the attainment of the fruit, namely, the rendering of service to them (kaiṅkarya). Nammalvar, too, realised in his mind this inseparability in the following passages :-- O, Thou, on whose chest resides Lakṣmī, whose home is the lotus, because she cannot endure separation from Thee for an instant !, " While Lakṣmī with her beautiful bracelets and Thou stand together, I see that the supreme end of existence is to enjoy Thee and render service to Thee like the eternal sūris and other selves" (the former describes the state of upāya and the latter the state of attainment) and so also in, "Here (where we adopt the means or upāya) and there (in Vaikuṇṭha) where we enjoy Bhagavān, there is no one other than Nārāyaṇa who is ever found in (intimate) connection with Lakṣmī". ((48) describes both the states). This realisation (of inseparable connection between Bhagavān and Śrī, is essential for seeking the Lord's protection without any misgivings or heSītātion and whenever we desire it,
 
 THE MEANING OF THE WORD NĀRĀYAṇA AND
 
