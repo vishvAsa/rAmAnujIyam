@@ -93,7 +93,7 @@ y por la palabra 'Nārāyaṇa'.
 </details>
 
 
-## श्रीमत्
+## श्रीः
 <details><summary>English</summary>
 
 The meaning of Śrīman:
@@ -1714,10 +1714,13 @@ que **están** en la forma de Śrī Sūktas.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+एतन्-मूलिकाः स्मृतयस् तावत् - 
+
 > “वाचःपरं **प्रार्थयिता**  
 **प्रपद्येन्** नियतश् श्रियम्”  
 ( शौनकसंहिता) 
 
+इत्यादीनि शौनकादि-वाक्यानि । 
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -1784,6 +1787,13 @@ quien **es** el significado de todas las palabras,
 इङ्गुम् इव्-विवक्षै कॊळ्ळ उचितम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् अस्याः सर्वेश्वर-चरणयोर् घटकत्वस्य बहु-प्रमाण-सिद्धत्वाद्  
+अत्राप्य् एतद्-विवक्षा ऽङ्गीकारोचितः ।
+</details>
+
+
 <details><summary>English</summary>
 
 Since it **is evident** from many pramāṇas  
@@ -1818,6 +1828,14 @@ que Lakṣmī **desempeña** el papel de mediador
 सिद्धोपाय-विशेषणमुम् आय्क् कॊण्डु  
 आश्रयिक्कप्-पडुम्।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इत्थं पुरुषकार-भूता  
+सिद्धोपाय-विशेषण-भूता च सती  
+आश्रीयते, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1951,6 +1969,13 @@ y **no depende** de nada más",
 आदित्यादिगळुक्कु प्रभादिगळ् बोले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P326]] इति श्लोकयोर् उक्त-रीत्या  
+आदित्यादिकं प्रभादिर् इव
+</details>
+
+
 <details><summary>English</summary>
 
 As **stated** in these ślokas -  
@@ -1975,6 +2000,13 @@ como rayos al sol y cosas así,
 सिद्धोपायत्तै आश्रयित्त् इरुक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतिशय-कारिणी सती  
+सिद्धोपायम् आश्रित्य वर्तते। 
+</details>
+
+
 <details><summary>English</summary>
 
 she **is attached** to Bhagavān (the Siddhopāya)  
@@ -1998,6 +2030,12 @@ ella **está apegada** a Bhagavān (el Siddhopāya)
 
 ऎल्लार्क्कुम् सेव्यैय् आय् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वैः सेव्या सती 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2026,6 +2064,13 @@ Que ella debe **ser reverenciada** por todos,
 ऎल्लार्क्कुम् स्वामिनिय् आय्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"सर्वेश्वरं सेवते" इत्य् अर्थे सति —  
+सर्वेषां स्वामिन्य् ऐव सत्याः 
+</details>
+
+
 <details><summary>English</summary>
 
 while she (herself) **reveres** the Supreme Ruler over all,  
@@ -2047,6 +2092,12 @@ ella **es** la dama con derecho al **servicio** de todos (de nosotros),
 
 “कान्तस्ते पुरुषोत्तमः”( चतुः-श्लोकी १), 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+“कान्तस्ते पुरुषोत्तमः”( चतुः-श्लोकी १), 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2075,6 +2126,16 @@ quien **se llama** Puruṣottama"
 शेषित्वे परमः पुमान्, (**परिकरा** ह्य् एते तव **स्फारणे**+++(=व्याप्तौ)+++) ॥  
 ( श्री-गुण-रत्न-कोशः २२) 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(हेलायाम् अखिलं चराचरम् इदं, भोगे विभूतिः परा,  
+पुण्यास् ते परिचार-कर्मणि सदा **पश्यन्ति** ये सूरयः ।  
+श्रीरङ्गेश्वर-देवि! केवल-कृपा-**निर्वाह्य**-वर्गे वयं,)  
+शेषित्वे परमः पुमान्, (**परिकरा** ह्य् एते तव **स्फारणे**+++(=व्याप्तौ)+++) ॥  
+( श्री-गुण-रत्न-कोशः २२) 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2114,6 +2175,13 @@ todos los demás **están sujetos** a Tu gracia".
 सॊल्लिऱ्ऱ् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इति तच्-छेषत्वेनावस्थितिः प्रतिपादिता भवति ।
+</details>
+
+
+
 <details><summary>English</summary>
 
 She **is** herself of the nature of a śeṣa to the Lord  
@@ -2141,6 +2209,15 @@ Ella misma **es** de la naturaleza de una śeṣa para el Señor.
 इत्य्-आदिगळिऱ् पडिये  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> “जगत्-समस्तं यद्-अपाङ्ग-संश्रयम्”  
+( आळवन्दार् स्तोत्रम् ३७)
+
+इत्य्-आद्य्-उक्त-रीत्या 
+</details>
+
+
 <details><summary>English</summary>
 
 As **stated** in the śloka : 
@@ -2167,6 +2244,12 @@ Como **indicado** en el śloka:
 > ऎल्ला वस्तुक्कळालुम् आश्रयिक्कप् पट्टु 
 </details>
 
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> सर्वैर् वस्तुभिर् आश्रिता सती 
+</details>
+
 <details><summary>English</summary>
 
 > all things **depend** upon Her for **protection**  
@@ -2189,6 +2272,13 @@ Como **indicado** en el śloka:
 > ऎल्लात्तैयुम् ताऩ् अश्रयित्त् इरुक्कुम्  
 
 ऎऩ्ऱु +++(श्र्याः)+++ पॊरुळ् आऩ बोदु 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> सर्वाणि वस्तून्य् आश्रित्य वर्तते 
+
+इत्यर्थे सति — 
 </details>
 
 <details><summary>English</summary>
@@ -2218,6 +2308,13 @@ Cuando el **significado** (etimológico) de la palabra Śrī **se toma** como (e
 विष्णु-पत्निक्कुञ् जॊल्लिऱ्ऱ् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+नारायणादि-शब्दैः श्रियः-पत्युर् विषये वर्णिता रीतिर्  
+विष्णु-पत्नी-विषये ऽप्य् उक्ता भवति ।  
+</details>
+
+
 <details><summary>English</summary>
 
 that aspect of the Lord of Śrī which **is declared** by such words as Nārāyaṇa (Viṣṇu and Vāsudeva )  
@@ -2241,6 +2338,14 @@ ese aspecto del Señor de Śrī que **es declarado** por palabras como Nārāya�
 श्री-भाष्य-काररुम् “भगवन्-नारायण” ऎऩ्गिऱ नेरिले  
 “भगवतीं श्रियं” ऎऩ्ऱ् अरुळिच् चॆय्दार् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रीभाष्यकारो ऽपि  
+"भगवन्-नारायण" इत्य् एतत्-सम-कक्षतया  
+"भगवतीं श्रियम्" इत्य् अनुजग्राह ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2275,7 +2380,7 @@ de la misma manera como Él **dice** Bhagavān Nārāyaṇa en ese contexto;
 
 <details><summary>नीलमेघः (सं)</summary>
 
-“शृणोति श्रावयति” 
+“शृणोति श्रावयति” इति व्युत्पत्त्योः — 
 </details>
 
 
@@ -2304,9 +2409,8 @@ y 'Ella **hace escuchar** (śrāvayati)':
 #### पुरुष-कारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सापराधर् आऩव्-अडियोङ्गळै  
-
-> सर्वेश्वरऩ् तिरुव्-अडिगळिले काट्टिक् कॊडुत्त् अरुळ वेणुम् 
+> सापराधर् आऩव्-अडियोङ्गळै  
+सर्वेश्वरऩ् तिरुव्-अडिगळिले काट्टिक् कॊडुत्त् अरुळ वेणुम् 
 
 ऎऩ्ऱ्  
 इप्-पुडैगळिले+++(=पक्षे)+++ आश्रितर्-उडैय आर्त-ध्वनियैक् केट्टु  
@@ -2316,6 +2420,18 @@ y 'Ella **hace escuchar** (śrāvayati)':
 
 ऎऩ्ऱद् आम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> सापराधा वयं (दासाः)  
+सर्वेश्वर-श्रीचरणयोः कृपया निवेदयितव्या 
+
+इत्य् एवम् आश्रितानाम् आर्त-ध्वनिं श्रुत्वा  
+सर्वेश्वराय विज्ञाप्य  
+एषाम् आर्तिं शमयतीत्य् उक्तं भवति । 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -2353,6 +2469,13 @@ Dios **ayuda** a **mitigar** nuestro **sufrimiento**.
 इप्-पडि पुरुष-कार-कृत्यत्तैच् चॊल्लुगिऱव् इदुक्कुम्  
 पुरुष-कार-भावत्तिले नोक्कु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं पुरुषकार-कृत्यं प्रतिपादयतो ऽस्यापि  
+पुरुषकार-भावे तात्पर्यम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2413,8 +2536,6 @@ I myself **take** them, O, my beloved! out of saṁsāra",
 
 > “आनृशंस्यं परो धर्म”  
 ( रामायणम् सुन्दरकाण्डम् ३८-४१) 
-
-इत्यादिगळै
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -2448,6 +2569,12 @@ y también
 
 इत्य्-आदिगळैय् अवऩ् पक्कलिले केट्टु
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्यादीनि तस्मात् श्रुत्वा, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2511,6 +2638,14 @@ El que **ha buscado refugio** debajo de ti
 ऎऩ्ऩवुम् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इति कपोतं श्रावितवती कपोतीव  
+तम् अवसरे श्रावयतीति वा । 
+</details>
+
+
+
 <details><summary>English</summary>
 
 she **would**, when the proper occasion **arises**, **say**,  
@@ -2533,6 +2668,12 @@ como la paloma hembra al macho en el śloka (arriba).
 
 सर्वेश्वरऩ् पक्कलिले लोक-हितत्तैक् केट्टु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वेश्वराल् लोक-हितं श्रुत्वा, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2565,6 +2706,7 @@ que Él **está** siempre **empeñado** en el **avance** del bienestar del mundo
 > “मित्रम् औपयिकं कर्तुम्”  
 ( रामायणम् सुन्दरकाण्डम् २१-१९)  
 
+इत्य्-आद्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -2600,6 +2742,12 @@ quien **es** el mejor de los hombres".
 विपरीतरैयुङ् कूडक् केट्पिक्कुम् ऎऩ्ऩवुम् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+विपरीतान् अपि श्रावयतीति वा ।
+</details>
+
+
 <details><summary>English</summary>
 
 she **would offer** her **advice to be listened to** even by her enemies. 
@@ -2629,6 +2777,7 @@ ella **ofrecería** su **consejo para ser escuchada** incluso por sus enemigos.
 
 > “शृणाति निखिलान् दोषान्” 
 
+इति व्युत्पत्तौ सत्याम् – 
 </details>
 
 <details><summary>English</summary>
@@ -2668,6 +2817,7 @@ ella **elimina** todas las faltas (śṝṇāti),
 वेदान्तेऽपि च गीयते”  
 ( लक्ष्मीतन्त्रम् २८-१४) 
 
+इति,
 </details>
 
 <details><summary>English</summary>
@@ -2702,6 +2852,15 @@ quien **es** la mismísima **encarnación** de la compasión, a Su lado",
 ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> परिमलाविनाभूते पुष्पे तिष्ठन्ती  
+कर्माणि निवर्तयेत् 
+
+इति चोक्त-रीत्या 
+</details>
+
+
 <details><summary>English</summary>
 
 and so also, 
@@ -2733,6 +2892,12 @@ Como **se destaca** en los pasajes anteriores: -
 उपायाधिकारिगळुक्कु विरोधिगळ् आऩ कर्मादिगळैक् कऴिक्कुम् ऎऩ्ऱद् आम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+उपायाधिकारिणां विरोधीनि कर्मादीनि निवर्तयतीत्य् उक्तं भवति ।
+</details>
+
+
 <details><summary>English</summary>
 
 it **would mean** that she **removes** all **hindrances**  
@@ -2760,6 +2925,14 @@ a la via de aquellos que **han adoptado** el upāya (es decir, prapatti).
 ऎऩ्ऱु निरुक्तियिल् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "श्रीणाति च गुणैर् जगत्" 
+
+इति निरुक्तौ – 
+</details>
+
+
 <details><summary>English</summary>
 
 (6) In the etymological interpretation, 
@@ -2785,6 +2958,12 @@ a la via de aquellos que **han adoptado** el upāya (es decir, prapatti).
 तऩ् कारुण्यादि-गुणङ्गळाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-कारुण्यादि-गुणैः, 
+</details>
+
+
 <details><summary>English</summary>
 
 by her attributes like compassion, 
@@ -2808,6 +2987,14 @@ por sus atributos como la compasión,
 ( तिरुवाय्मॊऴि ९-२-१) 
 
 इत्य्-आदिगळिऱ् पडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "तव श्री-कृपां  
+पङ्क-जाङ्गनायाः श्री-कृपां चावलम्ब्य" 
+
+इत्य्-आद्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -2840,6 +3027,12 @@ y la gracia de Tu Consorte que **habita** en el loto,
 आश्रितर्क्कु कैङ्कर्य-पर्यन्त-गुण-परिपाकत्तैय् उण्डाक्कुम् ऎऩ्ऱद् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+आश्रितानां कैङ्कर्य-पर्यन्त-गुण-परिपाकं जनयतीत्य् उक्तं भवति ।
+</details>
+
+
 <details><summary>English</summary>
 
 the root (Śrī) **would mean** that,  
@@ -2869,6 +3062,12 @@ ella **permite** a aquellos que **han buscado** su **protección**
 इव्-व्युत्पत्तिगळ् ऎल्लात्तालुम् उळ्ळ वैभवत्तैग् गणिसित्तु
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+आभिर् व्युत्पत्तिभिः सर्वाभिः सिद्धं वैभवम् अभिप्रेत्य 
+</details>
+
+
 <details><summary>English</summary>
 
 **Bearing** in mind all these excellences (of Lakṣmī) **stated** in all these interpretations, 
@@ -2896,6 +3095,8 @@ ella **permite** a aquellos que **han buscado** su **protección**
 
 > “श्रीर् इत्येव च नाम ते भगवति +++(न पृथग् विशेषणम् )+++, ब्रूमः कथं त्वां वयम्”  
 ( चतुः-श्लोकी १) 
+
+इति श्रीयामुनार्या अनुजगृहुः । 
 </details>
 
 
@@ -2934,6 +3135,19 @@ Aḷavandār **escribió**:
 
 ऎऩ्ऱार्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भट्टार्या अपि  
+निरूपाधिक-मङ्गलत्वम् अभिसन्धाय  
+
+(तव **स्पर्शाद्** ईशं स्पृशति कमले मङ्गल-पदं,  
++++(किन्तु)+++ तवेदं **नोपाधेर् उपनिपतितं**) - +++(स्वतः)+++ श्रीर् **असि** यतः ।  
+( श्री-गुण-रत्न-कोशः २९) 
+
+इत्य् अवोचन् । 
+</details>
+
 
 <details><summary>नीलमेघः (सं)</summary>
 
@@ -2978,6 +3192,13 @@ porque **¿no eres Tú** Śrī?"
 ईश्वरऩ्-उडैय उपाय-भावत्तुक्क् उपयुक्तङ्गळ् आऩवै पूर्व-खण्डत्तिलुम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एष्व् अर्थेषु  
+ईश्वरस्योपाय-भावस्य उपयुक्ता उत्तर-खण्डे,  
+</details>
+
+
 <details><summary>English</summary>
 
 Among these meanings  
@@ -3008,6 +3229,13 @@ con respecto a la primera parte (de Dvaya),
 प्राप्यतैक्क् उपयुक्तम् आऩवै  
 उत्तर-खण्डत्तिलुम् अनुसन्धेयङ्गळ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्राप्यताया उपयुक्ता उत्तर-खण्डे चानुसन्धेयाः ॥
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -3072,12 +3300,25 @@ y como aquel a quien **se hace** la **entrega**.
 ॥ स्वाम्युपाय उपेयश्च स्वरूपादिसमर्पणे । प्रथितः प्रतिसंबन्धी श्रीमान्निगमचक्षुषाम् ॥
 </details>
 
+## मतुप् नित्ययोगे
+<details><summary>English</summary>
+
+THE MEANING OF THE SUFFIX MATUP (IN ŚRĪMAN):
+</details>
+
+<details><summary>Español</summary>
+
+El significado del sufijo matup (en ŝrīman):
+</details>
+
 ### चेतस्त्वम्, पतित्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “श्रीमान्” ऎऩ्ऱु पॊदुविले सॊऩ्ऩालुम्  
 +++(श्रुत्य्-आदि-)+++प्रमाणानुसारत्ताले इङ्गु +++(मङ्गल-योगम् अन्तरा)+++ श्रियः-पतिय् ऎऩ्ऱ बडि। 
 </details>
+
+
 
 <details><summary>English</summary>
 
@@ -3227,16 +3468,6 @@ de acuerdo con los pramāṇas
 
 
 
-## मतुप् नित्ययोगे
-<details><summary>English</summary>
-
-THE MEANING OF THE SUFFIX MATUP (IN ŚRĪMAN):
-</details>
-
-<details><summary>Español</summary>
-
-El significado del sufijo matup (en ŝrīman):
-</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3833,7 +4064,12 @@ y dado que en este mantra (Dvaya) es necesario enfatizar esta idea de **conexió
 </details>
 
 
-the matup indicates that the two stand inseparably connected, both in the first part of Dvaya and in the second part and this conclusion is arrived at on the strength of such pramāṇas as the following :- “ Lakṣmaṇa," the descendant of Raghu, seized the two feet of Śrī Rāma firmly and said these words in the presence of Sītā", and " You will enjoy your self in the company of Sitā on the slopes of the mountains and whether you are awake or asleep, I will render every form of service to you". (The first passage describes their inseparability in the state of upāya and the second in the state of the attainment of the fruit, namely, the rendering of service to them (kaiṅkarya). Nammalvar, too, realised in his mind this inseparability in the following passages :-- O, Thou, on whose chest resides Lakṣmī, whose home is the lotus, because she cannot endure separation from Thee for an instant !, " While Lakṣmī with her beautiful bracelets and Thou stand together, I see that the supreme end of existence is to enjoy Thee and render service to Thee like the eternal sūris and other selves" (the former describes the state of upāya and the latter the state of attainment) and so also in, "Here (where we adopt the means or upāya) and there (in Vaikuṇṭha) where we enjoy Bhagavān, there is no one other than Nārāyaṇa who is ever found in (intimate) connection with Lakṣmī". ((48) describes both the states). This realisation (of inseparable connection between Bhagavān and Śrī, is essential for seeking the Lord's protection without any misgivings or heSītātion and whenever we desire it,
+the matup indicates that the two stand inseparably connected, both in the first part of Dvaya and in the second part and this conclusion is arrived at on the strength of such pramāṇas as the following :- 
+
+> “Lakṣmaṇa, the descendant of Raghu, **seized** the two feet of Śrī Rāma firmly  
+and **said** these words in the presence of Sītā", 
+
+and " You will enjoy your self in the company of Sitā on the slopes of the mountains and whether you are awake or asleep, I will render every form of service to you". (The first passage describes their inseparability in the state of upāya and the second in the state of the attainment of the fruit, namely, the rendering of service to them (kaiṅkarya). Nammalvar, too, realised in his mind this inseparability in the following passages :-- O, Thou, on whose chest resides Lakṣmī, whose home is the lotus, because she cannot endure separation from Thee for an instant !, " While Lakṣmī with her beautiful bracelets and Thou stand together, I see that the supreme end of existence is to enjoy Thee and render service to Thee like the eternal sūris and other selves" (the former describes the state of upāya and the latter the state of attainment) and so also in, "Here (where we adopt the means or upāya) and there (in Vaikuṇṭha) where we enjoy Bhagavān, there is no one other than Nārāyaṇa who is ever found in (intimate) connection with Lakṣmī". ((48) describes both the states). This realisation (of inseparable connection between Bhagavān and Śrī, is essential for seeking the Lord's protection without any misgivings or heSītātion and whenever we desire it,
 
 THE MEANING OF THE WORD NĀRĀYAṇA AND
 
