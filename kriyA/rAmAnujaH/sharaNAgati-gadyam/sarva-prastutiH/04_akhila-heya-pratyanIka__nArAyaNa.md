@@ -1279,20 +1279,60 @@ first of all Śeṣa, Viṣvaksena, and Garuḍa—whose differences in proper f
 Vividha denotes different varieties of the same thing.
 </details>
 
-""
-""
-""
+एकैकस्य[^1_pg38] व्यक्त्यानन्त्यम् अनन्त शब्दार्थः । 
 
-एकैकस्य[^1_pg38] व्यक्त्यानन्त्यम् अनन्त शब्दार्थः । आश्चर्यतारूपेण आनन्त्यं वा । विभवः -आयतनाद् बहिः भोग्य समृद्धिः । स्रक्चन्दनादिव्यतिरिक्त रथादि[^2_pg38]-समृद्धिर्वा।
+<details><summary>English</summary>
+
+The innumerability of each of the variety of the things is described by Ananta.
+</details>
 
 [^1_pg38]: एकत्र -इ ।
 
+आश्चर्यतारूपेण आनन्त्यं वा । 
+
+<details><summary>English</summary>
+
+Wonders are so many and numerous.
+</details>
+
+विभवः -आयतनाद् बहिः भोग्य समृद्धिः । 
+
+<details><summary>English</summary>
+
+Vibhava denotes the abundance of enjoyable things-outside such as,
+</details>
+
+स्रक्चन्दनादिव्यतिरिक्त रथादि[^2_pg38]-समृद्धिर्वा।
+
+<details><summary>English</summary>
+
+merely, chariots, etc., (not garlands, and sandals, etc.) 
+</details>
 
 [^2_pg38]: धनादिइ ।
 
-**नित्यं** नित्यसंस्थानम् । **निरवद्य** इति अवद्यादयो[^1_pg39] न तत्रत्यानामित्यर्थः । **निरतिशय** इति अनुत्तमवत् ।
+**नित्यं** नित्यसंस्थानम् । 
+
+<details><summary>English</summary>
+
+Nitya means Eternal Existence.
+</details>
+
+**निरवद्य** इति अवद्यादयो[^1_pg39] न तत्रत्यानामित्यर्थः । 
+
+<details><summary>English</summary>
+
+Niravadya is used to show that there is no blemish or fault in any of the things found in Vaikuntha.
+</details>
 
 [^1_pg39]: अविद्यादयो - इ ।
+
+**निरतिशय** इति अनुत्तमवत् ।
+
+<details><summary>English</summary>
+
+Niratisaya the word nothing higher than this, meaning something like Anuttama.
+</details>
 
 </details>
 
@@ -1346,6 +1386,10 @@ with objects of enjoyment and instruments of enjoyment endless in kind and varie
 
 गोपालदेशिकाह्निके ऽन्तिमैव पङ्क्तिर् विद्यते।
 </details>
+
+""
+""
+""
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
