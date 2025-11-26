@@ -63,85 +63,17 @@ Sri Saranagati.
 सत्यसङ्कल्प ! 
 सकलेतरविलक्षण ! 
 श्रीमन् ! नारायण ! अशरण्यशरण्य ! 
-COMMENTARY 
-(II) The following eight Namas (names) are used as proofs to show that He is possessed of all the qualities mentioned before as natural to Him. By Satyakaama, the Lord is denoted as possessing Nitya Vibhooti. Satya Sankalpa denotes the possession of Leelaa Vibhooti and also that He is the nimitta Kaarana (creative cause). To show that He is also the Upaadaana Kaarana, the name parabrahmabhoota is used. To show that though He is the Upaadaana Kaarana, He is not affected by any infirmities of material things, the next Nama, Purushothama is used. To dispel any doubt that may be created as to how, being the Upadaana Kaarana, He can be said to be separate and distinct from Prakarti, the next Name Mahaa Vibhooti is used reminding us of the harmonising sruti. That is to say, He has the Vibhootis as His Body. To denote that they both Iswara and Sri. are jointly Masters, the word 'Sriman' follows. 
-The next name Naaraayana "is used to convey the same sense in some detail (i.e., Iswara and Sri). That He is not affected by the infirmities attaching to the Vibhooti, has been already expressed in some what general terms by the word "Mahaa Vibhooti. The Nirukti of the word (Naaraayana) Naraat Jaataani. Tatvaani Naraani Iti Tato Vidu:" Again, to show 
-24 
-explicitly and authoritatively the existance of NityaVibhooti, the name Vikunta Naatha is used. The root meaning of Vaikuntha is as follows: 
-The root Kuthi=gati-Pratighaata means "to obstruct know ledge" The obstructions are caused by Karma. Vi= without; Vikuntha= without karma or obstruction to knowledge. obstructed by karma and such like impediments are Souls whose knowledge is not called Vikuntha. The place where they reside is 
-called Vai-kunta. 
-Thus far, the nature of the Brahman and Its attributes and qualities, appertaining to both of the aspects of being the Upaaya (the means to an end) and Upeya the goal to reach, have been adumb- 
-rated. 
-Next follow His qualities, specially relating to the Upaaya aspect only. The enumeration starts with Apaara. of His Mercy; it includes and operates on, even in This word is used to show the extent respect of, a person who does not deserve to come within its range. Kaarunya has been already explained. that though a Samsaarin acts in a such bad way as Aiswaraya is meant to express the sense to cause obstruction to his being saved, he is still protected by the Lord. He is Infinite Mercy, and by His own unrestricted independent powers, directs the protection of such persons also. Aiswaraya means also His Lordship or Directorship. attracts and makes Samsaarins come under His That He protection is conveyed by the word "Soundarya." 
-25 
-That is why it is said Pumsaam Drishti Chitta Apahaarinam" (He who steals the sight and the 
-hearts 
-you." 
-of men) and "Jitam Te" "Victory to 
-Having thus far described the very many virtues and qualities of Iswara, now Bagavad Ramanuja goes on to show that the phala of possession of these qualities, That is to invite surrender (Saranagati.) He starts with "Anaolochita-Visesha which denotes that there is no distinction on account of caste, conduct or character. Loka includes all worlds and the living beings therein. He is Pranataarti Hara, i.e. capable of removing all calamities of His Devotees, because of the possession by Him of all the virtuous powers and qualities. This is the name Its special mention of Varadaraja of Kaanchi. here by Sri Ramanuja may be in remembrance of the special grace shown to him by Kanchi Varada and his consort who appeared as hunter and huntress to help him when he was deserted by the Yadava The mention may also be Prakaasa in a forest. due to the special grace shown to him by Varada of Kanchi genarally. The attribute Aasritavaatsalya is useful to Him in his activities (of protecting his Devotees). The quality of "vaatsalya" (affection as that of cow to its calf) is specially mentioned as Ramanuja believes that it is a quality most noticeably radiant in Him. The next following Nama Anavarata" etc., is mentioned by Sri Ramanuja as he believed that it is the opinion of Iswara that 
-4626 
-some action on Jeeva's own part is necessary (for invoking the Grace of God. "Your omniscience is not limited to certain matters, or to a particular time. How then will my helplessness not be known to thee" is the idea expressed. 
-The next passage begining with Asesha is used to express the idea that it is His pleasure that though the Jeeva may not be co-operative, the Jeeva must at least be not obstructive. The ultimate meaning is that even "Nivrtti" ("inaction ") is also His doing or His will. To remove any doubt that may arise as to why Iswara should save the soul of Jeeva, the words "Asesha Chit-Achit " "Even the prayer to Thee by the Jeeva that he should be saved is also due to Thy Will; "Why then shouldst thou sustain and allow them to grow?" Akhila Jagat Swaamin connotes that the world is under His Lordship (Dominion) not only physically but also in respect of (its) qualities Daasyam Upaagata :", Lakshmana in respect of Raama. 
-are the words used by 
-are used. 
-"Gunai: 
-mere 
-Asmat Swaamin denotes not only the "being" in service but also the favour shown by Him in granting the Jeeva this birthright to serve and endowing him with the qualities he possess. That is, whatever happens or not, all these are His doings. Satyakaama conveys the idea that the protection of the weak and helpless is the duty (work) of a Paripoorna (Perfect Being). Satyasan- 
-27 
-kalpa:-The above act of protection is performed without any effort. 
-Sakaletara Vilakshana:-If Thou does not undertake this task, how art Thou then different from the others? Arthikalpaka must be taken to mean conjunctively One to whom prayers are made and one who grants all prayers like Kalpaka Tree. Cf. Sametya pratinandya cha "or Udaaraa: Sarva Eva ete'-they are generous who consent to take favours from Me." If this is not so, His reputation will be gone is the idea sought to be expressed. 
-Aapatsakhaa conveys the meaning that the dire state of a Being like that of Gajendra is the cause of bringing on the protection by Thee. Sriman:-Even if I am not qualified for redemption at least for the sake of Sri. protection may given. Naaraayana :Even though neglected by Her, protect me at least for your own sake. 
-Asaranya-Saranya: 
-Even though I am not connected with Thee, I am to be protected, I am without any 
-other protecting person, and Thou art 
-the protector of the Helpless. 
-Translation af Text 
-(II) Thy will fulfilled, Thy commands carried out, by all, Thou art the Para Brahma, the biggest 
-of 
-persons of great might and wealth; Thou art the Consort of Sri! Oh! Naaraayana, Lord of Vaikuntha Thou art the ocean filled with beneficient qualities, 
-28 
-such as, unlimited mercy, easy accessibility, affectionate kindness, generosity, rulership, extreme comeliness. Thou art again the refuge of the whole world without any distinction (as to race, colour or caste). Thou removest the distress of those that resort to Thee. Thou art the Ocean of motherly affection towards your Devotees. Thou art All Knowing, knowing all the time the true nature, etc. of all the groups of Beings. Thou dost skilfully control all the movable and immovable Things of the Worlds. Thou art their Lord, the sustainer of all the worlds, their Master, My Master; Thy desires ever fulfilled, Thy commands scrupulously executed. Distinct from all the others, Thou art the wish fulfilling Tree (the giver of all prayers), Friend in Distress, Sriman, Naarayaana, the refuge of the Helpless, the one and the only Refuge (with no others to go for Help). 
-Saranaagathi. 
+
+
 12. अनन्यशरणस्त्वत्पादारविन्दयुगलं शरणमहं प्रपद्ये । 
 अत्र द्वयम् । 
 पितरं मातरं दारान् पुत्रान् बन्धून् सखीन् गुरून् । रत्नानि धनधान्यानि क्षेत्राणि च गृहाणि च ॥ 
 29 
 सर्वधर्मांश्च सन्त्यज्य सर्वकामांश्च साक्षरान् । लोकविकान्तचरणौ शरणं ते ऽवजं विभो ।। 
 त्वमेव माता च पिता त्वमेव त्वमेव बन्धुश्च गुरुस्त्वमेव । त्वमेव विद्या द्रविणं त्वमेव त्वमेव सर्वं मम देवदेव || पिताऽसि लोकस्य चराचरस्य त्वमस्य पूज्यश्च गुरुर्गरीयान् । न त्वत्समोऽस्त्यभ्यधिकः कुतोऽन्यो लोकत्रयेप्यप्रतिमप्रभाव ।। तस्मात्प्रणम्य प्रणिधाय कार्य प्रसादये त्वामहमीशमीड्यम् । पितेव पुत्रस्य सखेव सख्युः प्रियः प्रियायार्हसि देव सोढुम् || 
-COMMENTARY 
-(12) Calling himself as a Ananya Sarana (helpless person). 
-Ramanuja makes the surrender. "Twat Paadaaravindya yugalam" points out that He is possessed of all various virtues and qualities mentioned before and hence the person to be approached. 
-Aravinda because such a prayer at His feet is a pleasant performance. Yugala can be said to be explanatory of the dual (Charanow) mentioned in Dvaya Mantra. Aham. I who am a great sinner who has committed an Ocean of sins." 
-- Prapadye I surrender. Upto this the first portion of Dvaya Mantra has been expounded. 
-Then Sri Ramanuja goes on to give the full meaning of Ananya Sarana: 
-Saranam Aham 
-30 
-Prapadye by referring to quotations and passages from the Puranaas. 
-In the sloka quoted, all the things mentioned up to and including "Guroon" (i.e., the first portion). denote Upaayas (means to attain the goal.) case Daara (wife) is included in the first portion as In this she is the Means as well as Bhogya. The second half of the Sloka mentions other things such as Ratna, etc., as they are things considered to be valuable in this world. Then, in the next sloka beginning with "Sarva" is set out the Upaayas to be used in the Paraloka (in the next world) and the gains to be obtained through them. 
-The word 
-"Akshara" 
-denotes Kaivalyam (enjoyment by the soul of itself only). By the words Loka Vikraanta and Vibho are denoted His qualities of easy accessibility and All 
-Mightiness. 
-Then the word "Saranam" is expounded in the next Sloka. Bhagavaan is the real father and relation in the The Sloka conveys the idea that matter of protection, etc., and to show that he does the function fully and better than the natural, father and others; The words "Twam Eva" is repeated at intervals. The idea that "Not only is He my father but He is also the father of the whole world" is sought to be conveyed by the Sloka beginning with "Pita Asi." In the matter of protection of Jivas, there is none to equal Him or to excel Him. It is so even in the matter of easy accessibility. Apramatima Prabhaava pictures His All Mightiness. 
-31 
-Then, Prapatti (meaning conveyed by Prapadye) is expounded. " Isam Idyam" conveys the idea that there is no "Isa" (Lord) above Him and He alone is 
-to be worshipped. Compare the Santi passage "None to Lord over Him, the Highest is His glory." Parents, etc., forgive and bear with us But Iswara because of their respective relationship. does it because of His eternal connection with us in all manner of ways (not merely relationship by birth); He is bound to forgive us. What is Prapatti? Prapatti is the Supreme Faith in the Lord which culminates in solicitation to Him of our desires or it may mean the Prayer preceded by the supreme Faith. 
-Translation of Text 
-(12) I seek Thy protection and surrender Myself unto Thine Lotus Feet. (Saranaagati) 
-Athra Dvayam:-(So far, Dvaya Mantra has been expounded). The explanation of this sentence 
-with Mantra. 
-(a) (I do prostrate before Thee)-Renouncing my father, mother, wife, children, relatives, friends, even my Teacher, precious stones, wealth and goods, my field, my house, etc. all desires, and actions relating to them, 
-Kaivalya I prostrate at 
-as well as Thine feet 
-which bestrode the Three worlds. 
-32 
-(b) Oh Lord! I surrender Myself unto Thee. Thou alone art My Mother, My Father, Thou art My relations; even My Teacher Thou alone art. So also my learning, my wealth. Indeed Thou art My All. 
-(c) Oh! God of Gods, Thou art the Father of the Worlds moving and unmoving, worshipped by the World. 
-Thou art greater than the greatest. There is no one bigger than Thee in all these Three Oh! Thou of Matchless 
-Worlds. 
-Glory. 
-(d) Therefore prostrating before Thee, with my body bent in adoration, I pray unto Thee, the adorable Master. Thou art like a Father unto a son, like a Friend unto a Friend, affectionate as to a Dear Person. Thou alone canst save me. 
-Prayer for Purification. 
+
+
+
 13. मनोवाक्कायैरनादिकालप्रवृत्तानन्ताकृत्यकरणकृत्याकरणभगवदपचार भागवतापचारासह्यापचाररूपनानाविधानन्तापचारान् आरब्ध कार्यान् नारब्धकार्यान् कृतान् क्रियमाणान् करिष्यमाणांश्च सर्वानशेषतः क्षमख । अनादिकालप्रवृत्तं विपरीतज्ञानमात्मविषयं कृत्स्नजगद्विषयम् ; विपरीतवृत्तं चाशेषविषयमद्यापि वर्तमानं वर्तिष्यमाणं च सर्वं क्षमस्व । 
 33 
 COMMENTARY 

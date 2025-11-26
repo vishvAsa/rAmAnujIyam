@@ -13,12 +13,48 @@ title = "०६ क्षमायाचना"
 <details><summary>सुदर्शन-भट्टः</summary>
 
 प्रपत्तिं विवृणोति **तस्मात्** इति ।  
+
+<details><summary>English</summary>
+
+Then, Prapatti (meaning conveyed by Prapadye) is expounded.
+</details>
+
 **ईशम् ईड्यम्** -  
 'न तस्येशे कश्चन, तस्य नाम महद्-यशः' (महाना.उ.१-१-२) इतिवत् ।  
+
+<details><summary>English</summary>
+
+"Isam Idyam" conveys the idea that there is no "Isa" (Lord) above Him and He alone is to be worshipped. Compare the Santi passage "None to Lord over Him, the Highest is His glory."
+</details>
+
 पित्रादयस् तत्-तत्-सम्बन्धाद्+धि क्षमन्ते ।  
+
+<details><summary>English</summary>
+
+Parents, etc., forgive and bear with us because of their respective relationship.
+</details>
+
 अतः सर्व-विध-सम्बन्धात् त्वया क्षन्तव्यम् इत्यर्थः ।  
+
+<details><summary>English</summary>
+
+But Iswara does it because of His eternal connection with us in all manner of ways (not merely relationship by birth); He is bound to forgive us.
+</details>
+
 प्रार्थना-पर्यन्त-महाविश्वासः प्रपत्तिः ।  
+
+<details><summary>English</summary>
+
+What is Prapatti? Prapatti is the Supreme Faith in the Lord which culminates in solicitation to Him of our desires
+</details>
+
 महा-विश्वास-पूर्विका प्रार्थना वा ।
+
+<details><summary>English</summary>
+
+or it may mean the Prayer preceded by the supreme Faith.
+</details>
+
 </details>
 
 <details><summary>वेङ्कट-नाथः</summary>
@@ -74,7 +110,9 @@ title = "०६ क्षमायाचना"
 सर्वान् अशेषतः **क्षमस्व** ॥ ११ ॥  
 </details>
 
-
+""
+""
+""
 <details><summary>सुदर्शन-भट्टः</summary>
 
 अथोत्तरखण्डं विवृण्वन्  
