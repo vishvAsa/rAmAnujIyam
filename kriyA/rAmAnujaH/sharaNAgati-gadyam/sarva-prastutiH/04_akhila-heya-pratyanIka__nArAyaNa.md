@@ -1655,15 +1655,69 @@ Possessed of great glory! With Śrī! Nārāyaṇa! Lord of Vaikuṇṭha!
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-""
-""
-""
+एवम् उपायोपेयत्त्वसाधारणाकारा उक्ताः । 
 
-एवम् उपायोपेयत्त्वसाधारणाकारा उक्ताः । अथ उपायत्वैकान्तगुणा उच्यन्ते अपार इत्य्-आदि-ना । कारुण्याद्यगोचरे मय्यपि कार्यकरं कारुण्यादिकमिति **अपार**-शब्दस्य भावः । कारुण्यादिकं पूर्ववत् ।
+<details><summary>English</summary>
+Thus far, the nature of the Brahman and Its attributes and qualities, appertaining to both of the aspects of being the Upaaya (the means to an end) and Upeya the goal to reach, have been adumbrated.
+</details>
 
-'संसारिणां स्वरक्षण विघातकत्वे [^1_pg45]ऽपि तान् स्वातन्त्र्येण नियम्य रक्षितुं शक्तः' इत्यभिप्रेत्य ऐश्वर्यम् इत्युक्तम् । ऐश्वर्यं - नियन्तृत्वम् । संसारिचित्तवशीकरणोपायतया सौन्दर्यम् उक्तम् । यथा 'पुंसां दृष्टिचित्तापहारिणम्' (रा. अयो. ३-२९) इति । 'जितन्ते' (जि. स्तो. १) इति च ।
+अथ उपायत्वैकान्तगुणा उच्यन्ते अपार इत्य्-आदि-ना । 
+
+<details><summary>English</summary>
+
+Next follow His qualities, specially relating to the Upaaya aspect only. The enumeration starts with Apaara.
+</details>
+
+कारुण्याद्यगोचरे मय्यपि कार्यकरं कारुण्यादिकमिति **अपार**-शब्दस्य भावः । 
+
+<details><summary>English</summary>
+
+This word is used to show the extent of His Mercy; it includes and operates on, even in respect of, a person who does not deserve to come within its range.
+</details>
+
+कारुण्यादिकं पूर्ववत् ।
+
+<details><summary>English</summary>
+
+Kaarunya has been already explained.
+</details>
+
+'संसारिणां स्वरक्षण विघातकत्वे [^1_pg45]ऽपि तान् स्वातन्त्र्येण नियम्य रक्षितुं शक्तः' इत्यभिप्रेत्य ऐश्वर्यम् इत्युक्तम् । 
+
+<details><summary>English</summary>
+
+Aiswaraya is meant to express the sense that though a Samsaarin acts in a such bad way as to cause obstruction to his being saved, he is still protected by the Lord. He is Infinite Mercy, and by His own unrestricted independent powers, directs the protection of such persons also.
+</details>
 
 [^1_pg45]: विभूतिकत्वेइ ।
+
+ऐश्वर्यं - नियन्तृत्वम् । 
+
+<details><summary>English</summary>
+
+Aiswaraya means also His Lordship or Directorship.
+</details>
+
+संसारिचित्तवशीकरणोपायतया सौन्दर्यम् उक्तम् । 
+
+<details><summary>English</summary>
+
+That He attracts and makes Samsaarins come under His protection is conveyed by the word "Soundarya."
+</details>
+
+यथा 'पुंसां दृष्टिचित्तापहारिणम्' (रा. अयो. ३-२९) इति । 
+
+<details><summary>English</summary>
+
+That is why it is said "Pumsaam Drishti Chitta Apahaarinam" (He who steals the sight and the hearts of men).
+</details>
+
+'जितन्ते' (जि. स्तो. १) इति च ।
+
+<details><summary>English</summary>
+
+and "Jitam Te" "Victory to you."
+</details>
 
 </details>
 
@@ -1708,9 +1762,82 @@ Great ocean of measureless compassion, good disposition, affection, generosity, 
 <details><summary>सुदर्शन-भट्टः</summary>
 
 <dg 45/>
-उक्तविशेषणफलमाह - अनालोचित इति । विशेषःजन्मवृत्तगुणतारतम्यम्, 'लोकस्तु भुवने जने' (अ.को. ३) एवं गुणवत्तां निश्चित्याह प्रणतार्तिहर इति । स्वस्यैवंविधबुद्धियोगप्रदं वरदमभिप्रेत्यैवमुक्तम् । तस्मिन् विशेषतः आविर्भूतं स्वस्मिन् विशेषतः कार्यकरञ्च गुणमाह आश्रित इति । उपायत्वौपयिकगुणेषु वात्सल्यगुणो हि स्वस्मिन् विशेषतः कार्यकरोऽभिमतः, तथापि त्वय्यपि किञ्चित्कारोऽवश्यमपेक्षित इति भगवदाशयं बुध्वाऽऽह - अनवरत इति । 'तव सार्वज्ञं न कतिपयविषयम्, नापि कादाचित्कञ्च, कथं ममाशक्तत्वमविदितम्' इति भावः ।
+उक्तविशेषणफलमाह - अनालोचित इति । 
 
-आनुकूल्याभावेऽपि प्रातिकूल्यनिवृत्तिरपेक्षितेति भगवदाशयं बुद्द्वाऽऽह - अशेष इति । तन्निवृत्तिरपि त्वदायत्तेति भावः । ननु 'किं' भवद्रक्षणमावश्यकृत्यम् इति शङ्कायामाह - अशेषचिदचित् इति। रक्ष्यापेक्षापि[^2_pg46] त्वदधीनेत्याह निखिल इति 'कस्यापेक्षया चिदचिद्वस्तुजातं धृतम्' इति भावः ।
+<details><summary>English</summary>
+
+Having thus far described the very many virtues and qualities of Iswara, now Bagavad Ramanuja goes on to show that the phala of possession of these qualities, That is to invite surrender (Saranagati.) He starts with "Anaolochita-Visesha
+</details>
+
+विशेषःजन्मवृत्तगुणतारतम्यम्, 'लोकस्तु भुवने जने' (अ.को. ३) 
+
+<details><summary>English</summary>
+
+which denotes that there is no distinction on account of caste, conduct or character. Loka includes all worlds and the living beings therein.
+</details>
+
+एवं गुणवत्तां निश्चित्याह प्रणतार्तिहर इति । 
+
+<details><summary>English</summary>
+
+He is Pranataarti Hara, i.e. capable of removing all calamities of His Devotees, because of the possession by Him of all the virtuous powers and qualities.
+</details>
+
+स्वस्यैवंविधबुद्धियोगप्रदं वरदमभिप्रेत्यैवमुक्तम् । 
+
+<details><summary>English</summary>
+
+This is the name of Varadaraja of Kanchi. Its special mention here by Sri Ramanuja may be in remembrance of the special grace shown to him by Kanchi Varada and his consort who appeared as hunter and huntress to help him when he was deserted by the Yadava Prakaasa in a forest. The mention may also be due to the special grace shown to him by Varada of Kanchi genarally.
+</details>
+
+तस्मिन् विशेषतः आविर्भूतं स्वस्मिन् विशेषतः कार्यकरञ्च गुणमाह आश्रित इति । 
+
+<details><summary>English</summary>
+
+The attribute Aasritavaatsalya is useful to Him in his activities (of protecting his Devotees).
+</details>
+
+उपायत्वौपयिकगुणेषु वात्सल्यगुणो हि स्वस्मिन् विशेषतः कार्यकरोऽभिमतः, तथापि त्वय्यपि किञ्चित्कारोऽवश्यमपेक्षित इति भगवदाशयं बुध्वाऽऽह - अनवरत इति । 
+
+<details><summary>English</summary>
+
+The quality of "vaatsalya" (affection as that of cow to its calf) is specially mentioned as Ramanuja believes that it is a quality most noticeably radiant in Him. The next following Nama "Anavarata" etc., is mentioned by Sri Ramanuja as he believed that it is the opinion of Iswara that some action on Jeeva's own part is necessary (for invoking the Grace of God).
+</details>
+
+'तव सार्वज्ञं न कतिपयविषयम्, नापि कादाचित्कञ्च, कथं ममाशक्तत्वमविदितम्' इति भावः ।
+
+<details><summary>English</summary>
+
+"Your omniscience is not limited to certain matters, or to a particular time. How then will my helplessness not be known to thee" is the idea expressed.
+</details>
+
+आनुकूल्याभावेऽपि प्रातिकूल्यनिवृत्तिरपेक्षितेति भगवदाशयं बुद्द्वाऽऽह - अशेष इति । 
+
+<details><summary>English</summary>
+
+The next passage begining with Asesha is used to express the idea that it is His pleasure that though the Jeeva may not be co-operative, the Jeeva must at least be not obstructive.
+</details>
+
+तन्निवृत्तिरपि त्वदायत्तेति भावः । 
+
+<details><summary>English</summary>
+
+The ultimate meaning is that even "Nivrtti" ("inaction ") is also His doing or His will.
+</details>
+
+ननु 'किं' भवद्रक्षणमावश्यकृत्यम् इति शङ्कायामाह - अशेषचिदचित् इति। 
+
+<details><summary>English</summary>
+
+To remove any doubt that may arise as to why Iswara should save the soul of Jeeva, the words "Asesha Chit-Achit " are used.
+</details>
+
+रक्ष्यापेक्षापि[^2_pg46] त्वदधीनेत्याह निखिल इति 'कस्यापेक्षया चिदचिद्वस्तुजातं धृतम्' इति भावः ।
+
+<details><summary>English</summary>
+
+"Even the prayer to Thee by the Jeeva that he should be saved is also due to Thy Will; "Why then shouldst thou sustain and allow them to grow?" 
+</details>
 
 [^2_pg46]: रक्षापेक्षादिकम् - इ ।
 
@@ -1857,7 +1984,34 @@ You are the one to whom belong without remainder all conscious and non-conscious
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-नैसर्गिकशेषत्वे सत्यपि जगतः स्वगुणैर्भूयः शेषत्वमापादितम् इत्याशयेनाह **अखिल** इति । यथा 'गुणैर्दास्यमुपागतः' (रा. कि. ४१२) इति । न केवलं सामान्येन शेषत्वम् । किन्तु जन्मविशेष रुचिविशेष[^1_pg47] प्रदानादिभिर्मम एवमवस्थत्त्वं त्वयैवोपपादितमित्यभिप्रायेणाह - **अस्मत्-स्वामिन्** इति ।
+नैसर्गिकशेषत्वे सत्यपि जगतः स्वगुणैर्भूयः शेषत्वमापादितम् इत्याशयेनाह **अखिल** इति । 
+
+<details><summary>English</summary>
+
+Akhila Jagat Swaamin connotes that the world is under His Lordship (Dominion) not only physically but also in respect of (its) qualities.
+</details>
+
+यथा 'गुणैर्दास्यमुपागतः' (रा. कि. ४१२) इति । 
+
+<details><summary>English</summary>
+
+"Gunai: Daasyam Upaagata :", are the words used by Lakshmana in respect of Raama.
+</details>
+
+न केवलं सामान्येन शेषत्वम् । 
+
+<details><summary>English</summary>
+
+Asmat Swaamin denotes not only the mere "being" in service
+</details>
+
+किन्तु जन्मविशेष रुचिविशेष[^1_pg47] प्रदानादिभिर्मम एवमवस्थत्त्वं त्वयैवोपपादितमित्यभिप्रायेणाह - **अस्मत्-स्वामिन्** इति ।
+
+
+<details><summary>English</summary>
+
+but also the favour shown by Him in granting the Jeeva this birthright to serve and endowing him with the qualities he possess. That is, whatever happens or not, all these are His doings.
+</details>
 
 [^1_pg47]: 'रुचिविशेष' इति अत्र नास्ति - इ ।
 
@@ -1893,7 +2047,27 @@ The Lord of the whole world! Our Lord!
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-**सत्यकाम** अकिञ्चनरक्षणं हि परिपूर्णकृत्यमिति भावः । तच्च अनायाससाध्यमित्याह - सत्यसङ्कल्प इति । सकलेतरविलक्षण एवम्भूतस्स्त्वं न रक्षसि चेत् कस्तवान्येभ्योऽनीदृग्भ्यो विशेष इत्याशयः ।
+**सत्यकाम** अकिञ्चनरक्षणं हि परिपूर्णकृत्यमिति भावः । 
+
+<details><summary>English</summary>
+
+Satyakaama conveys the idea that the protection of the weak and helpless is the duty (work) of a Paripoorna (Perfect Being).
+</details>
+
+तच्च अनायाससाध्यमित्याह - सत्यसङ्कल्प इति । 
+
+<details><summary>English</summary>
+
+Satyasankalpa:- The above act of protection is performed without any effort.
+</details>
+
+सकलेतरविलक्षण एवम्भूतस्स्त्वं न रक्षसि चेत् कस्तवान्येभ्योऽनीदृग्भ्यो विशेष इत्याशयः ।
+
+<details><summary>English</summary>
+
+Sakaletara Vilakshana:- If Thou does not undertake this task, how art Thou then different from the others?
+</details>
+
 
 </details>
 
@@ -1945,14 +2119,38 @@ You have all desires fulfilled! Your intentions are ever realized! Different fro
 <details><summary>सुदर्शन-भट्टः</summary>
 
 <dg 47/>
+
 **अर्थिकल्पक**- कर्मधारयसमासः ।  
+
+<details><summary>English</summary>
+
+Arthikalpaka must be taken to mean conjunctively One to whom prayers are made and one who grants all prayers like Kalpaka Tree.
+</details>
+
 यथा 'समेत्य प्रतिनन्द्य च' (रा. अयो.१६-२७) इति,  
 'उदारास् सर्व एवैते' (भ.गी. ७-१८) इति च ।
 
+<details><summary>English</summary>
+
+Cf. Sametya pratinandya cha "or Udaaraa: Sarva Eva ete" - they are generous who consent to take favours from Me."
+</details>
+
 अन्यथा तवेयं प्रथापि[^2_pg48] विहन्येतेति भावः ।  
-गजेन्द्रादीनामिव आपन्नत्वमेव रक्ष्यत्वे हेतुमाह - **आपत्सख** इति ।
+
+<details><summary>English</summary>
+
+If this is not so, His reputation will be gone is the idea sought to be expressed.
+</details>
 
 [^2_pg48]: प्रथा -इ ।
+
+गजेन्द्रादीनामिव आपन्नत्वमेव रक्ष्यत्वे हेतुमाह - **आपत्सख** इति ।
+
+<details><summary>English</summary>
+
+Aapatsakhaa conveys the meaning that the dire state of a Being like that of Gajendra is the cause of bringing on the protection by Thee.
+</details>
+
 </details>
 
 
@@ -1996,8 +2194,26 @@ The wishing tree for those in want! Friend of those in distress!
 उक्तहेत्व्-अभावेऽपि  
 मातरम् अपेक्ष्य रक्षितव्यम्  
 इत्याह **श्रीमन्** इति ।  
+
+<details><summary>English</summary>
+
+Sriman:- Even if I am not qualified for redemption at least for the sake of Sri. protection may given.
+</details>
+
 तया उपेक्षितोऽपि त्वामपेक्ष्य रक्षणीय इत्याहनारायण इति ।  
+
+<details><summary>English</summary>
+
+Naaraayana :- Even though neglected by Her, protect me at least for your own sake.
+</details>
+
 सम्बन्धाभावेऽपि रक्षकान्तराभावात् रक्षणीयोऽहम् ।
+
+<details><summary>English</summary>
+
+Asaranya - Saranya: Even though I am not connected with Thee, I am to be protected, I am without any other protecting person, and Thou art the protector of the Helpless.
+</details>
+
 </details>
 
 <details><summary>वेङ्कट-नाथः</summary>

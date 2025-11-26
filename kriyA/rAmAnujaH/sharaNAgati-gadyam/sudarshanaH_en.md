@@ -63,45 +63,8 @@ Sri Saranagati.
 सत्यसङ्कल्प ! 
 सकलेतरविलक्षण ! 
 श्रीमन् ! नारायण ! अशरण्यशरण्य ! 
-COMMENTARY 
-(II) The following eight Namas (names) are used as proofs to show that He is possessed of all the qualities mentioned before as natural to Him. By Satyakaama, the Lord is denoted as possessing Nitya Vibhooti. Satya Sankalpa denotes the possession of Leelaa Vibhooti and also that He is the nimitta Kaarana (creative cause). To show that He is also the Upaadaana Kaarana, the name parabrahmabhoota is used. To show that though He is the Upaadaana Kaarana, He is not affected by any infirmities of material things, the next Nama, Purushothama is used. To dispel any doubt that may be created as to how, being the Upadaana Kaarana, He can be said to be separate and distinct from Prakarti, the next Name Mahaa Vibhooti is used reminding us of the harmonising sruti. That is to say, He has the Vibhootis as His Body. To denote that they both Iswara and Sri. are jointly Masters, the word 'Sriman' follows. 
-The next name Naaraayana "is used to convey the same sense in some detail (i.e., Iswara and Sri). That He is not affected by the infirmities attaching to the Vibhooti, has been already expressed in some what general terms by the word "Mahaa Vibhooti. The Nirukti of the word (Naaraayana) Naraat Jaataani. Tatvaani Naraani Iti Tato Vidu:" Again, to show 
-24 
-explicitly and authoritatively the existance of NityaVibhooti, the name Vikunta Naatha is used. The root meaning of Vaikuntha is as follows: 
-The root Kuthi=gati-Pratighaata means "to obstruct know ledge" The obstructions are caused by Karma. Vi= without; Vikuntha= without karma or obstruction to knowledge. obstructed by karma and such like impediments are Souls whose knowledge is not called Vikuntha. The place where they reside is 
-called Vai-kunta. 
-Thus far, the nature of the Brahman and Its attributes and qualities, appertaining to both of the aspects of being the Upaaya (the means to an end) and Upeya the goal to reach, have been adumb- 
-rated. 
-Next follow His qualities, specially relating to the Upaaya aspect only. The enumeration starts with Apaara. of His Mercy; it includes and operates on, even in This word is used to show the extent respect of, a person who does not deserve to come within its range. Kaarunya has been already explained. that though a Samsaarin acts in a such bad way as Aiswaraya is meant to express the sense to cause obstruction to his being saved, he is still protected by the Lord. He is Infinite Mercy, and by His own unrestricted independent powers, directs the protection of such persons also. Aiswaraya means also His Lordship or Directorship. attracts and makes Samsaarins come under His That He protection is conveyed by the word "Soundarya." 
-25 
-That is why it is said Pumsaam Drishti Chitta Apahaarinam" (He who steals the sight and the 
-hearts 
-you." 
-of men) and "Jitam Te" "Victory to 
-Having thus far described the very many virtues and qualities of Iswara, now Bagavad Ramanuja goes on to show that the phala of possession of these qualities, That is to invite surrender (Saranagati.) He starts with "Anaolochita-Visesha which denotes that there is no distinction on account of caste, conduct or character. Loka includes all worlds and the living beings therein. He is Pranataarti Hara, i.e. capable of removing all calamities of His Devotees, because of the possession by Him of all the virtuous powers and qualities. This is the name Its special mention of Varadaraja of Kaanchi. here by Sri Ramanuja may be in remembrance of the special grace shown to him by Kanchi Varada and his consort who appeared as hunter and huntress to help him when he was deserted by the Yadava The mention may also be Prakaasa in a forest. due to the special grace shown to him by Varada of Kanchi genarally. The attribute Aasritavaatsalya is useful to Him in his activities (of protecting his Devotees). The quality of "vaatsalya" (affection as that of cow to its calf) is specially mentioned as Ramanuja believes that it is a quality most noticeably radiant in Him. The next following Nama Anavarata" etc., is mentioned by Sri Ramanuja as he believed that it is the opinion of Iswara that 
-4626 
-some action on Jeeva's own part is necessary (for invoking the Grace of God. "Your omniscience is not limited to certain matters, or to a particular time. How then will my helplessness not be known to thee" is the idea expressed. 
-The next passage begining with Asesha is used to express the idea that it is His pleasure that though the Jeeva may not be co-operative, the Jeeva must at least be not obstructive. The ultimate meaning is that even "Nivrtti" ("inaction ") is also His doing or His will. To remove any doubt that may arise as to why Iswara should save the soul of Jeeva, the words "Asesha Chit-Achit " "Even the prayer to Thee by the Jeeva that he should be saved is also due to Thy Will; "Why then shouldst thou sustain and allow them to grow?" Akhila Jagat Swaamin connotes that the world is under His Lordship (Dominion) not only physically but also in respect of (its) qualities Daasyam Upaagata :", Lakshmana in respect of Raama. 
-are the words used by 
-are used. 
-"Gunai: 
-mere 
-Asmat Swaamin denotes not only the "being" in service but also the favour shown by Him in granting the Jeeva this birthright to serve and endowing him with the qualities he possess. That is, whatever happens or not, all these are His doings. Satyakaama conveys the idea that the protection of the weak and helpless is the duty (work) of a Paripoorna (Perfect Being). Satyasan- 
-27 
-kalpa:-The above act of protection is performed without any effort. 
-Sakaletara Vilakshana:-If Thou does not undertake this task, how art Thou then different from the others? Arthikalpaka must be taken to mean conjunctively One to whom prayers are made and one who grants all prayers like Kalpaka Tree. Cf. Sametya pratinandya cha "or Udaaraa: Sarva Eva ete'-they are generous who consent to take favours from Me." If this is not so, His reputation will be gone is the idea sought to be expressed. 
-Aapatsakhaa conveys the meaning that the dire state of a Being like that of Gajendra is the cause of bringing on the protection by Thee. Sriman:-Even if I am not qualified for redemption at least for the sake of Sri. protection may given. Naaraayana :Even though neglected by Her, protect me at least for your own sake. 
-Asaranya-Saranya: 
-Even though I am not connected with Thee, I am to be protected, I am without any 
-other protecting person, and Thou art 
-the protector of the Helpless. 
-Translation af Text 
-(II) Thy will fulfilled, Thy commands carried out, by all, Thou art the Para Brahma, the biggest 
-of 
-persons of great might and wealth; Thou art the Consort of Sri! Oh! Naaraayana, Lord of Vaikuntha Thou art the ocean filled with beneficient qualities, 
-28 
-such as, unlimited mercy, easy accessibility, affectionate kindness, generosity, rulership, extreme comeliness. Thou art again the refuge of the whole world without any distinction (as to race, colour or caste). Thou removest the distress of those that resort to Thee. Thou art the Ocean of motherly affection towards your Devotees. Thou art All Knowing, knowing all the time the true nature, etc. of all the groups of Beings. Thou dost skilfully control all the movable and immovable Things of the Worlds. Thou art their Lord, the sustainer of all the worlds, their Master, My Master; Thy desires ever fulfilled, Thy commands scrupulously executed. Distinct from all the others, Thou art the wish fulfilling Tree (the giver of all prayers), Friend in Distress, Sriman, Naarayaana, the refuge of the Helpless, the one and the only Refuge (with no others to go for Help). 
-Saranaagathi. 
+
+
 12. अनन्यशरणस्त्वत्पादारविन्दयुगलं शरणमहं प्रपद्ये । 
 अत्र द्वयम् । 
 पितरं मातरं दारान् पुत्रान् बन्धून् सखीन् गुरून् । रत्नानि धनधान्यानि क्षेत्राणि च गृहाणि च ॥ 
