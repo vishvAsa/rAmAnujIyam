@@ -30,7 +30,7 @@ Todos estos tres: la naturaleza esencial (svarūpa), la continuación en el tiem
 अव्वो वस्तुक्कळिऩ् स्व-रूपत्तैयुम्,  
 स्व-रूप-निरूपक-धर्मङ्गळैयुम्,  
 निरूपित--स्व-रूप--विशेषणङ्गळैयुम्,  
-व्यापारङ्गळैय् उङ् काट्टुम्.+++(4)+++
+व्यापारङ्गळैयुङ् काट्टुम्.+++(4)+++
 </details>
 
 <details><summary>English</summary>

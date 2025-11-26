@@ -19,7 +19,7 @@ title = "वादाः"
 1. tAtparyacandrikA - vyAsatIrtha - mAdhva
 2. tattvamArtANDa - zrIzailazrInivAsa - SV
 
-- श्रीनिवासः - नय-द्यु-मणिः दीपिका-सहितः (मेघनाद-सूरिकृताद् भिन्नः) 
+- श्रीनिवासः - नय-द्यु-मणिः दीपिका-सहितः (मेघनादारि-सूरिकृताद् भिन्नः) 
 
 Two replies to this from mAdhva camp:
 
