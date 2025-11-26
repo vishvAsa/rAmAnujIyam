@@ -63,34 +63,8 @@ Sri Saranagati.
 38 
 परभक्तिपरज्ञानपरमभक्तिकृतपरिपूर्णानवरत नित्यविशदतमअनन्यप्रयोजनानवधिकातिशयप्रियभगवदनुभवोऽहं तथाविधभगवदनुभवजनितानवधिकातिशयप्रीतिकारिताशेषावस्थोचिताशेषशेषतैकर तिरूपनित्य किङ्करो 
 भवानि । 
-COMMENTARY 
-(15) Next, Sri Ramanuja prays for the securing of the desired gains which are implied with the dative (fourth) case from Srimate Naarayanaaya contained in the Dvaya. Then a question arises as to whether in the case of a Prapanna (i.e., a person who has completely surrendered himself as a helpless person to Iswara), Parabhakti, Parag-nana and Paramabhakti are necessary steps for salvation. Because it is the accepted doctrine that by Prapatti alone Moksha is secured to the surrenderer. How then does Sri Ramanuja pray for Parabhakti etc.? Prapatti stands in the place of Parabhakti. In the previous passage "Maam Taaraya". Sri Ramanuja has made the surrender and so he is a Prapanna. So he does not intensely pray for Parabhatki but, only for the other two, i.e., Para Gnana and Paramabhakti so as to be obtainable by him during his life time here. Even in the case of a person engaged in Bhaktiyoga, these two are obtained by him during the time his connection with the body continues. They are, however, Upaaya (means) for salvation in his case. But in the case of a Prapanna they are not Upaayas but really gains (Upey as) obtainable just 
-39 
-before Moksha. Of these two, Paragnana is prayed for in the first instance by the passage Teshaam, etc. And by the next passage beginning with "Purusha: Sa Para:, Parama Bhakti is prayed for 
-and not Para Bhakti. 
-The words "Sthaana Traya" are used to denote that the passages are found disconnected and in three different places in Geeta. In the next sentence, he again refers to Parabhakti, Paragnana, Paramabhakti, but they are qualities attained by a Released soul only in the stage of Moksha. That is why, the qualification 
-pointed natural qualification-a stage not attainable 
-in Samsaara). 
-Next, Sri Ramanuja prays for that feeling of satisfaction arising out of the conscious experience of the Lord and also for its consequence i.e., various services to the Lord. (The next passage has been Seshataika Rati Roopa" is a already explained). 
-Bahuvrihi compound. 
-Translation of Text 
-15. Please, Oh! Lord, favour me and make me a Gnaani like the one described in the following 
-three Slokas: 
-Slokas: 
-(a) Of them (the four classes of Devotees), 
-the one who is steadfast and concen- 
-Ban 
-40 
-trates his devotion on me only is above the others-for to him I am excessively dear: So also is he dear to Me. 
-(b) Indeed, I consider: All these (the four classes) are generous; but of them the Gnani the wise is My Inner Self. He, being steadfast in his mind, rests on Me, as the Supreme Goal. 
-(c) At the end of many births, a man having realised that Vasudeva is the All, comes 
-to Me, He is Mahatma, rare indeed to find. 
-Also make me endowed with Parabhakti described in the following three passages in Bhaghavad Geeta :- 
-(i) Oh Arjuna! That Supreme (Person is attainable only by Bhakti undistracted. (ii) He is to be attained only by Bhakti which seeks no other benefit than that of attaining Him. 
-(iii) He obtains that supreme devotion to Me." Make me also endowed with constant Para Bhakti, Para Gnaana and Parama Bhakati. I pray that I may become Thy servant in ever constant service to Thee-I having acquired the experience of the Lord, i.e., full and clear and constant, highly desired, having no other object in view and produced by Para Bhakti, Para Gnana and Parama Bhakti, a 
-41 
-service which is the result of great urge to perform services of all forms suited to the conditions and circumstances of the moment, which are produced by the unlimited love and devotion to Thee arising out of the experience as stated above. 
-Prayer answeredRedemption. 
+
+
 16. एवंभूतमत्कैङ्कर्यप्राप्त्युपायतयावक्लृप्त समस्तवस्तुविहीनोऽपि, अनन्ततद्विरोधिपापाक्रान्तोऽपि, अनन्तमदपचारयुक्तोऽपि, अनन्तमदीयापचारयुक्तोऽपि, अनन्तासह्यापचारयुक्तोऽपि, एतत्कार्यकारणभूतानादिविपरीताहङ्कारविमूढात्मस्वभावोऽपि एतदुभयकार्यकारणभूतानादिविपरीतवासनासम्बद्धोऽपि, एतदनुगुणप्रकृतिविशेषसंबद्धोऽपि, एतन्मूलाध्यात्मिकाधिभौतिकाधिदैविकसुखदुःखतद्धेतु तदितरोपेक्षणीय विषयानुभवज्ञानसंकोचरूपमच्चरणारविन्दयुगलैकान्तिकात्यन्तिकपरभक्तिपरज्ञानपरम - भक्तिविघ्नप्रतिहतोऽपि येन केनापि प्रकारेण द्वयवक्ता त्वं केवलं मदीययैव दयया निःशेषविनष्टसहेतुकमच्चरणारविन्दयुगलैकान्तिकात्यन्तिकपरभक्तिपरज्ञानपरमभक्तिविघ्नः, मत्प्रसादलब्धमच्चरणारविन्दयुगलैकान्तिकात्यन्तिकपर भक्तिपरज्ञानपरमभक्तिः, मत्प्रसादादेव साक्षात्कृतयथाव - स्थितमत्स्वरूपरूपगुणविभूतिलीलोपकारणविस्तारः अपरोक्षसिद्धमन्नियाम्यतामद्दास्यैकस्वभावात्मखरूपः, मदेकानुभवः, मद्दास्यैकप्रियः, परिपूर्णानवरतनित्यविशदतमानन्यप्रयोजनानवाधिकातिशयप्रियमद नुभवः त्वं, तथाविधमदनुभवजनितानवधिकातिशयप्रीतिकारिताशेषावस्थोचिताशेषशेषतै करतिरूपनित्यकिङ्करो भव । एवंभूतोऽसि । 
 42 
 COMMENTARY 
