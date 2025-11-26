@@ -2211,7 +2211,7 @@ Naaraayana :- Even though neglected by Her, protect me at least for your own sak
 
 <details><summary>English</summary>
 
-Asaranya - Saranya: Even though I am not connected with Thee, I am to be protected, I am without any other protecting person, and Thou art the protector of the Helpless.
+Asaranya - Saranya: Even though I am not connected with Thee, I am to be protected, I am without any other protecting person, 
 </details>
 
 </details>
