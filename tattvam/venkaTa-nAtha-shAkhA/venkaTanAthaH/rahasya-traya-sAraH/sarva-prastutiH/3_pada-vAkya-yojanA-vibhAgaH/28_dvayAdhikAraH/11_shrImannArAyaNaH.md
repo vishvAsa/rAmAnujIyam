@@ -4429,6 +4429,8 @@ y dado que en este mantra (Dvaya) es necesario enfatizar esta idea de **conexió
 
 <details><summary>नीलमेघः (सं)</summary>
 
+पूर्वोत्तर-खण्डयोर् मतुपा, 
+
 > “स भ्रातुश् चरणौ गाढं”  
 (**निपीड्य** रघुनन्दनः ।  
 +++(पुरुषकारभूताम्, सिद्धोपायभूताम् अपि)+++ सीताम् **उवाचातियशां**  
@@ -4479,7 +4481,7 @@ y **dijo** estas palabras en **presencia** de Sītā",
 **जाग्रतः स्वपतश्** च ते ॥)  
 ( रामायणम् अयोध्या-काण्डम् ३१-२७) 
 
-
+इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -4525,6 +4527,12 @@ es decir, la **prestación** de **servicio** a ellos (kaiṅkarya).)
 पिरिव् अऱ्ऱ बडि सॊल्लिऱ्ऱ् आयिऱ्ऱु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अविनाभावः प्रतिपादितो भवति ।
+</details>
+
+
 <details><summary>English</summary>
 
 indicates that the two **stand inseparably connected**. 
@@ -4544,8 +4552,221 @@ indicates that the two **stand inseparably connected**.
 
 ##### शठकोपोक्तिः
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Nammalvar, too, realised in his mind this inseparability in the following passages :-- O, Thou, on whose chest resides Lakṣmī, whose home is the lotus, because she cannot endure separation from Thee for an instant !, " While Lakṣmī with her beautiful bracelets and Thou stand together, I see that the supreme end of existence is to enjoy Thee and render service to Thee like the eternal sūris and other selves" (the former describes the state of upāya and the latter the state of attainment) and so also in, "Here (where we adopt the means or upāya) and there (in Vaikuṇṭha) where we enjoy Bhagavān, there is no one other than Nārāyaṇa who is ever found in (intimate) connection with Lakṣmī". ((48) describes both the states). This realisation (of inseparable connection between Bhagavān and Śrī, is essential for seeking the Lord's protection without any misgivings or heSītātion and whenever we desire it,
+नम्म्-आऴ्वारुम् 
+
+> “अगल किल्लेऩ्+++(=नाङ्गीकरोमि)+++ इऱैयुम्+++(=मनाग् अपि)+++  
+ऎऩ्ऱ् अलर्+++(=पुष्प)+++-मेल्-मङ्गैय्–उऱै+++(=वास)+++-मार्बाव्”  
+( तिरुवाय्मॊऴि ६-१०-१०)  
+
+ऎऩ्ऱुम् +++(उपाय-दशायाम्)+++,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-शठ-कोप-सूरिर् अपि, 
+
+> "विश्लेष्टुं **न शक्नोमि** क्षणम् अपीति पुष्प-वासिन्या वध्वा नित्याधिष्ठित-वक्षस्कः" 
+
+इति +++(उपाय-दशायाम्)+++, 
+</details>
+
+<details><summary>English</summary>
+
+Nammalvar, too :-- 
+
+> O, Thou, on whose chest **resides** Lakṣmī,  
+whose home **is** the lotus,  
+because she **cannot endure separation** from Thee for an instant !, 
+
+</details>
+
+<details><summary>Español</summary>
+
+Nammalvar también :-- 
+
+> Oh, Tú, en cuyo pecho **reside** Lakṣmī,  
+cuyo hogar **es** el loto,  
+¡Porque ella **no puede soportar la separación** de Ti ni por un instante!,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नम्माऴ्वारुम् “अगल किल्लेऩिऱैयुमॆऩ्ऱलर् मेल्मङ्गैयुऱैमार्बाव्”( तिरुवाय्मॊऴि ६-१०-१०)  ऎऩ्ऱुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “ऒण्-+++(कङ्कण=तॊ←)+++डॊडियाळ् तिरु-मगळुम्  
+नीयुमे निला निऱ्पव्”  
+( तिरुवाय्मॊऴि ४-९-१०)  
+
+ऎऩ्ऱुम् +++(फल-दशायाम्)+++,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "उज्ज्वलाग्रहस्त-वलयायां श्रियां त्वयि चैवाधिवसतोः” 
+
+इति +++(फल-दशायाम्)+++, 
+</details>
+
+
+<details><summary>English</summary>
+
+> " While Lakṣmī with her beautiful bracelets and Thou **stand** together,  
+**I see** that the supreme end of **existence**  
+**is** to enjoy Thee  
+and **render service** to Thee  
+like the eternal sūris and other selves" 
+
+(the former **describes** the state of upāya  
+and the latter the state of **attainment**)  
+
+</details>
+
+<details><summary>Español</summary>
+
+> " Mientras Lakṣmī con sus hermosos brazaletes y Tú **están** juntos,  
+**Veo** que el fin supremo de la **existencia**  
+**es disfrutarte**  
+y **prestarte servicio** a Ti  
+como los eternos sūris y otros yoes" 
+
+(el primero **describe** el estado de upāya  
+y este último el estado de **logro**)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“ऒण्डॊडियाळ् तिरुमगळुम् नीयुमे निला निऱ्पव्”( तिरुवाय्मॊऴि ४-९-१०)  ऎऩ्ऱुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “इङ्गुम् अङ्गुन् तिरु-माल्-अऩ्ऱिय् इऩ्मै+++(=अभावं)+++ कण्ड्”  
+( तिरुवाय्मॊऴि ७-९-११)  
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अत्र तत्र च  
+लक्ष्मी-वल्लभं विना सद्-भावाभावं दृष्ट्वा" 
+
+इति च 
+</details>
+
+<details><summary>English</summary>
+
+and so also in, 
+
+> "Here (where **we adopt** the means or upāya)  
+and there (in Vaikuṇṭha) where **we enjoy** Bhagavān,  
+there **is** no one other than Nārāyaṇa  
+who **is** ever found in (intimate) connection with Lakṣmī".  
+
+((48) **describes** both the states). 
+</details>
+
+<details><summary>Español</summary>
+
+y así también en, 
+
+> "Aquí (donde **adoptamos** el medio o upāya)  
+y allí (en Vaikuṇṭha) donde **disfrutamos** Bhagavān,  
+**no hay** nadie más que Nārāyaṇa  
+quien **se encuentra** alguna vez en conexión (íntima) con Lakṣmī".  
+
+((48) **describe** ambos estados).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“इङ्गुमङ्गुन् दिरुमालऩ्ऱियिऩ्मैगण्ड्”( तिरुवाय्मॊऴि ७-९-११)  ऎऩ्ऱुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपाय-दशैयिलुम् फल-दशैयिलुम्  
+श्रीमच्-छब्दत्तिऱ् सॊऩ्ऩ नित्य-योगत्तै अनुसन्धित्तार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उपाय-दशायां फल-दशायां च  
+श्रीमच्-छब्दोक्तं नित्य-योगम् अनुसंदधे । 
+</details>
+
+
+<details><summary>English</summary>
+
+**realised** in his mind this **inseparability** in the above passages (in the state of upāya  
+and the state of **attainment**).
+</details>
+
+<details><summary>Español</summary>
+
+**se dio cuenta** en su mente de esta **inseparabilidad** en los pasajes anteriores (en el estado de upāya  
+y en el estado de **logro**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायदशैयिलुम् फलदशैयिलुम् श्रीमच्छब्दत्तिऱ्सॊऩ्ऩ नित्ययोगत्तै अनुसन्धित्तार्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अनुसन्धानम्  
+सापराधर्क्क् अणिय्+++(=सीमां)+++ इडादे निऩैत्त बोदे  
+आश्रयिक्कैक्क् उऱुप्प् आम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् अनुसन्धानं सापराधानां निस्सन्देहम्  
+इच्छोत्पत्ति-काल एवाश्रयणस्य प्रयोजकं भवति ।
+</details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् अनुसन्धानं सापराधानां निस्सन्देहम् इच्छोत्पत्ति-काल एवाश्रयणस्य प्रयोजकं भवति ।
+</details>
+
+
+<details><summary>English</summary>
+
+This **realisation** (of inseparable connection) between Bhagavān and Śrī, **is** essential for **seeking** the Lord's **protection** without any misgivings or hesitation  
+and whenever **we** desire it.
+</details>
+
+<details><summary>Español</summary>
+
+This **realisation** (of inseparable connection) between Bhagavān and Śrī, **is** essential for **seeking** the Lord's **protection** without any misgivings or hesitation  
+and whenever **we** desire it.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वनुसन्धानम् सापराधर्क्कणियिडादे निऩैत्तबोदे आश्रयिक्कैक्कुऱुप्पाम्।
+</details>
+
+
+
+
+
+
 
 THE MEANING OF THE WORD NĀRĀYAṇA AND
 
