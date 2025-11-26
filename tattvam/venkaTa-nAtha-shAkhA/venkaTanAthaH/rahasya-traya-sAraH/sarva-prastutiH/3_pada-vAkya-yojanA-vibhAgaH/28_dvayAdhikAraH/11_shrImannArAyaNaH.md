@@ -4765,20 +4765,515 @@ and whenever **we** desire it.
 
 
 
+<details><summary>English</summary>
+
+THE MEANING OF THE WORD NĀRĀYAṇA  
+AND THE QUALITIES DISCLOSED IN IT ;
+
+</details>
+
+<details><summary>Español</summary>
+
+EL SIGNIFICADO DE LA PALABRA NĀRĀYAṇA  
+Y LAS CUALIDADES EN ELLO **REVELADAS**;
+</details>
+
+
+## नारायण
+### गुण-सम्बन्धौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि अपेक्षितम् आऩ पुरुष-कारन् ताऩुम्  
+तऩ्ऩ् एऱ्ऱम् आम् बडिय्  
+इरुक्किऱऩ नारायण-शब्दत्तिल् तोऱ्ऱुगिऱ सम्बन्धमुम् गुणङ्गळुम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् अपेक्षितः पुरुषकारो ऽप्य्  
+अधिक इति यथा स्यात् तथा  
+वर्तमानाः नारायण-शब्दे प्रतीताः संबन्धो गुणाश् च ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+Even the **intercession** of the **mediator** which **appears** as a requisite  
+**is** effective  
+only because of the relationship between Nārāyaṇa and the jīva  
+and because of His qualities which **are disclosed** in the word Nārāyaṇa.  
+
+(i.e. It **is** because Nārāyaṇa **is** intimately **associated** with the jīvas  
+and **has** certain great qualities  
+that Lakṣmī's **intercession proves** effective). 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso la **intercesión** del **mediador** que **aparece** como **requisito**  
+**es** eficaz  
+sólo debido a la relación entre Nārāyaṇa y la jīva  
+y debido a Sus cualidades que **se revelan** en la palabra Nārāyaṇa.  
+
+(es decir, **es** porque Nārāyaṇa **está** íntimamente **asociado** con las jīvas  
+y **tiene** ciertas grandes cualidades  
+que la **intercesión de Lakṣmī resulte** efectiva).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि अपेक्षितमाऩ पुरुषकारन्दाऩुम् तऩ्ऩेऱ्ऱमाम्बडियिरुक्किऱऩ नारायणशब्दत्तिल् तोऱ्ऱुगिऱ सम्बन्धमुम् गुणङ्गळुम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु “तऩ्ऩ् अडियार्”( पॆरियाऴ्वार् तिरुमॊऴि ४-१०-२) ऎऩ्गिऱ पाट्टिले काणलाम्
+</details>
+
+<details><summary>English</summary>
+
+This **may be seen** in the passage: 
+
+> Bhagavān **may even say**:  
+"My devotees **will never commit offences**,  
+Even if they **offend**,  
+it **is** only for my glory  
+( to **bring out** my unique **forgiveness**" ).
+
+</details>
+
+<details><summary>Español</summary>
+
+Esto **puede verse** en el pasaje: 
+
+> Bhagavān **puede incluso decir**:  
+"Mis devotos **nunca cometerán ofensas**,  
+Incluso si **ofenden**,  
+**es** sólo para mi gloria  
+(para **sacar** mi **perdón** único").
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु “तऩ्ऩडियार्”( पॆरियाऴ्वार् तिरुमॊऴि ४-१०-२)  ऎऩ्गिऱ पाट्टिले काणलाम्
+</details>
+
+### प्रयोजनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “श्रीधरः श्रीकरः श्रेयः  
+श्रीमान् लोक-त्रयाश्रय”  
+( सहस्र-नाम-स्तोत्रम्)  
+इत्य्-आदिगळिले भगवन्-नामम् आग प्रसिद्धम् आऩ श्रीमच्-छब्दमे +++(नारायण-शब्दं विना)+++ अमैयादोव् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+It **may be asked**  
+whether it **is not** enough to **say** Śrīman (and not Śrīman Nārāyaṇa)  
+as the word Şrimān by itself **has been declared** to be one of the names of Bhagavān in the śloka :--  
+
+> Śrīdharah: Srīkarah: Sreyah: Śrīman, Lokatrayasrayah  
+
+and elsewhere.  
+The answer **is** as **follows**: 
+</details>
+
+<details><summary>Español</summary>
+
+**Se puede preguntar**  
+si **no es** suficiente **decir** Śrīman (y no Śrīman Nārāyaṇa)  
+ya que la palabra Şrimān por sí sola **ha sido declarada** como uno de los nombres de Bhagavān en el śloka:--  
+
+> Śrīdharah: Srīkarah: Sreyah: Śrīman, Lokatrayasrayah  
+
+y en otros lugares.  
+La respuesta **es** la **siguiente**:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“श्रीधरः श्रीकरः श्रेयः श्रीमान् लोकत्रयाश्रय”( सहस्र-नाम-स्तोत्रम्) इत्यादिगळिले भगवन्नाममाग प्रसिद्धमाऩ श्रीमच्छब्दमे अमैयादोवॆऩ्ऩिल्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्व-खण्डत्तिल् उपाय-भावत्तुक्क् उऱुप्प् आऩ गुण-विशेषानुसन्धानार्थम् आगवुम् 
+</details>
+
+<details><summary>English</summary>
+
+Because the word Nārāyaṇa **is required** here (in Dvaya ) in the first part in order to **enable** us to **bear** in mind the special qualities (indicated by that word)  
+which **are adapted** for His being the upāya  
+</details>
+
+<details><summary>Español</summary>
+
+Porque la palabra Nārāyaṇa **es requerida** aquí (en Dvaya) en la primera parte para **permitirnos tener** en mente las cualidades especiales (indicadas por esa palabra)  
+que **están adaptados** por ser Él el upāya
+</details>
+
+<details><summary>मूलम्</summary>
+
+पूर्वखण्डत्तिलुपायभावत्तुक्कुऱुप्पाऩ गुणविशेषानुसन्धानार्थमागवुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्तर-खण्डत्तिल् सर्व-विशिष्टऩ् आऩ शेषी प्राप्यऩ् आय्त् तोऱ्ऱुगैक्क् आगवुम्
+</details>
+
+<details><summary>English</summary>
+
+and, in the second part, in order to **show** that Nārāyaṇa, the śeṣī,  
+who **has** both kinds of vibhūti,  
+**is** the object of **attainment**
+</details>
+
+<details><summary>Español</summary>
+
+y, en la segunda parte, para **mostrar** que Nārāyaṇa, la śeṣī,  
+quien **tiene** ambos tipos de vibhūti,  
+**es** el objeto de **logro**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उत्तरखण्डत्तिल् सर्वविशिष्टऩाऩ शेषी प्राप्यऩाय्त् तोऱ्ऱुगैक्कागवुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नारायण-शब्दम् अपेक्षितम् आगैयाल्  
+इङ्गु श्रीमच्-छब्दम् विशेषणम्।
+</details>
+
+<details><summary>English</summary>
+
+the word Śrīman **is** here **used** as an adjective **qualifying** Nārāyaṇa.  
+</details>
+
+<details><summary>Español</summary>
+
+la palabra Śrīman **es** aquí **usada** como adjetivo **calificativo** de Nārāyaṇa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नारायणशब्दमपेक्षितमागैयाल् इङ्गु श्रीमच्छब्दम् विशेषणम्।
+</details>
+
+### पूर्वखण्डे प्रधान-गुणाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गुत्तै नारायण-शब्दत्तुक्कु  
+मूल-मन्त्राधिकारत्तिल् व्युत्पत्तिकळाले सॊऩ्ऩ अर्थङ्गळॆल्लाम् विवक्षितङ्गळागिलुम्
+</details>
+
+<details><summary>English</summary>
+
+Though the word 'Nārāyaṇa' **used** here (in Dvaya) **has**, for its purport, all the qualities which **were** etymologically **derived** from the word in the chapter on the mūlamantra,  
+</details>
+
+<details><summary>Español</summary>
+
+Aunque la palabra 'Nārāyaṇa' **usada** aquí (en Dvaya) **tiene**, por su significado, todas las cualidades que etimológicamente **derivadas** de la palabra en el capítulo sobre el mūlamantra,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गुत्तै नारायणशब्दत्तुक्कु मूलमन्त्राधिकारत्तिल् व्युत्पत्तिकळाले सॊऩ्ऩ अर्थङ्गळॆल्लाम् विवक्षितङ्गळागिलुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्व-खण्डत्तिल् नारायण-शब्दत्तुक्कु शरण्यतैयिले नोक्क्+++(=वीक्षा)+++ आऩ पडियाले 
+</details>
+
+<details><summary>English</summary>
+
+yet, since in the first part (of Dvaya) the aim of the word 'Nārāyaṇa' **is** to **show** His **being** the **refuge**,  
+</details>
+
+<details><summary>Español</summary>
+
+sin embargo, dado que en la primera parte (de Dvaya) el objetivo de la palabra 'Nārāyaṇa' **es mostrar** Su **ser** el **refugio**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पूर्वखण्डत्तिल् नारायणशब्दत्तुक्कु शरण्यतैयिले नोक्काऩ पडियाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “निगर्-इल्+++(=निस्सम)+++ पुगऴ् आय्”  
+( तिरुवाय्मॊऴि ६-१०-१०।) 
+
+इत्य्-आदिगळिले सङ्गृहीतङ्गळ् आऩ 
+</details>
+
+<details><summary>English</summary>
+
+as been briefly told in such passages as the following:- 
+
+> "O, Thou so that **are** full of matchless qualities,  
+that **ownest** the three worlds,  
+O, Thou, that **are** my Saviour  
+and that **dwellest** on the mountain Tiruvengadam  
+which **is longed for** by hosts of gods and rishis! (Saulabhya)".
+</details>
+
+<details><summary>Español</summary>
+
+como **se ha dicho** brevemente en pasajes como los **siguientes** - 
+
+> "Oh, Tú que **estás** lleno de cualidades incomparables,  
+que **dueño** de los tres mundos,  
+Oh Tú, que **eres** mi **Salvador**  
+y que **morado** en la montaña Tiruvengadam  
+¡que **es anhelado** por huestes de dioses y rishis! (Saulabhya)".
+</details>
+
+<details><summary>मूलम्</summary>
+
+“निगरिल् पुगऴाय्”( तिरुवाय्मॊऴि ६-१०-१०।) इत्यादिगळिले सङ्गृहीतङ्गळाऩ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वात्सल्य-स्वामित्व-सौशील्य-सौलभ्य-- 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+वात्सल्य-स्वामित्व-सौशील्य-सौलभ्य-- 
+</details>
+
+
+<details><summary>English</summary>
+
+**affection** (like that of a cow for the calf),  
+that of **being** the Swāmin or Master,  
+good nature,  
+easy **accessibility**,  
+</details>
+
+<details><summary>Español</summary>
+
+**cariño** (como el de una vaca por el ternero),  
+el de **ser** el Swāmin o Maestro,  
+buena naturaleza,  
+fácil **accesibilidad**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वात्सल्य स्वामित्व सौशील्य सौलभ्य 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-ज्ञत्व--सर्व-शक्तित्व--सत्य-सङ्कल्पत्व--
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-ज्ञत्व--सर्व-शक्तित्व--सत्य-सङ्कल्पत्व--
+</details>
+
+
+<details><summary>English</summary>
+
+omniscience, omnipotence, irresistible will or purpose, 
+</details>
+
+<details><summary>Español</summary>
+
+omnisciencia, omnipotencia, voluntad o propósito irresistible,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वज्ञत्व सर्वशक्तित्व सत्यसङ्कल्पत्व
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परम-कारुणिकत्व--कृत-ज्ञत्व--स्थिरत्व- 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+परम-कारुणिकत्व--कृत-ज्ञत्व--स्थिरत्व- 
+</details>
+
+<details><summary>English</summary>
+
+supreme compassion, gratitude, firmness, 
+</details>
+
+<details><summary>Español</summary>
+
+suprema compasión, gratitud, firmeza,
+</details>
+
+<details><summary>मूलम्</summary>
+
+परमकारुणिकत्व कृतज्ञत्व स्थिरत्व
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परिपूर्णत्व-- परमोदारत्वादिगळ्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+परिपूर्णत्व-- परमोदारत्वादयो
+</details>
+
+<details><summary>English</summary>
+
+perfection or fullness, supreme generosity and the like - 
+</details>
+
+<details><summary>Español</summary>
+
+perfección o plenitud, generosidad suprema y similares -
+</details>
+
+<details><summary>मूलम्</summary>
+
+परिपूर्णत्व परमोदारत्वादिगळ्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ग् अनुसन्धेयङ्गळिल् प्रधानतमङ्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+the above **are** the principal among the qualities to be **borne** in mind (here).
+</details>
+
+<details><summary>Español</summary>
+
+las anteriores **son** las principales entre las cualidades a **tener** en cuenta (aquí).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गनुसन्धेयङ्गळिल् प्रधानतमङ्गळ्।
+</details>
+
+### वात्सल्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱिल् वात्सल्यम् आवदु;
+</details>
+
+<details><summary>English</summary>
+
+Of these vātsālya or affection **is** 
+</details>
+
+<details><summary>Español</summary>
+
+De estos vātsālya o afecto **es**
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिल् वात्सल्यमावदु;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “दोषो यद्य् अपि तस्य स्यात्  
+सताम् एतद् अगर्हितम्॥”  
+( रामायणम् युद्ध-काण्डम् १८-३) 
+
+ऎऩ्गिऱ बडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “दोषो यद्य् अपि तस्य स्यात्  
+सताम् एतद् अगर्हितम्॥”  
+( रामायणम् युद्ध-काण्डम् १८-३) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+as in the śloka : 
+
+> "I **will never ignore** one who comes to me like a friend,  
+even if **there be** faults in him.  
+This **will not be censured** by the good ". 
+</details>
+
+<details><summary>Español</summary>
+
+como en el śloka: 
+
+> "Yo **nunca ignoraré** a alguien que **viene** a mí como un amigo,  
+incluso si **hay** faltas en él.  
+Esto **no será censurado** por los buenos”.
+</details>
+
+<details><summary>मूलम्</summary>
+
+“दोषो यद्यपि तस्य स्यात्सतामेतदगर्हितं”( रामायणम् युद्ध-काण्डम् १८-३) ऎऩ्गिऱबडिये
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आश्रितऩ्-उडैय अपराधत्तैप् **पारादे**  
++++(रक्षणाय)+++ अङ्गीकरिक्कैक्क् ईड् आऩव् इरक्कम्+++(=करुणा)+++। 
+</details>
+
+<details><summary>English</summary>
+
+the tenderness which **accepts** a man for **protection** ignoring his **offences**.
+</details>
+
+<details><summary>Español</summary>
+
+la ternura que **acepta** a un hombre para **protección**  
+**ignorando** sus **ofensas**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आश्रितऩुडैय अपराधत्तैप् पारादे अङ्गीकरिक्कैक्कीडाऩविरक्कम्। 
+</details>
 
 
 
-THE MEANING OF THE WORD NĀRĀYAṇA AND
 
-THE QUALITIES DISCLOSED IN IT ;
 
-Even the intercession of the mediator which appears as a requisite is effective (only because of the relationship between Nārāyaṇa and the jīva and because of His qualities which are disclosed in the word Nārāyaṇa. (i.e. It is because Nārāyaṇa is intimately associated with the jīvas and has certain great qualities that Lakṣmī's intercession proves effective). This may be seen in the passage: " Bhagavān may even say:" "My devotees will never commit offences, Even if they offend, it is only for my glory ( to bring out my unique forgiveness" ).
-
-It may be asked whether it is not enough to say Śrīman (and not Śrīman Nārāyaṇa) as the word Şrimān by itself has been declared to be one of the names of Bhagavān in the śloka :-- Śrīdharah: Srīkarah: Sreyah: Śrīman, Lokatrayasrayah and elsewhere. The answer is as follows: "The word Śrīman is here used as an adjective qualifying Nārāyaṇa, because the word Nārāyaṇa is required here (in Dvaya ) in the first part in order to enable us to bear in mind the special qualities (indicated by that word) which are adapted for His being the upāya and, in the second part, in order to show that Nārāyaṇa, the śeṣī, who has both kinds of vibhūti, is the object of attainment.
-
-Though the word 'Nārāyaṇa' used here (in Dvaya) has, for its purport, all the qualities which were etymologically derived from the word in the chapter on the mūlamantra, yet, since in the first part (of Dvaya) the aim of the word 'Nārāyaṇa' is to show His beiog the refuge, the following are the principal among the qualities to be borne in mind : affection (like that of a cow for the calf), that of being the Swāmin or Master, good nature, easy accessibility, omniscience, omnipotence, irresistible will or purpose, supreme compassion, gratitude, firmness, perfection or fulness, supreme generosity and the like. These qualities have been briefly told in such passages as the following:- "O, Thou so that art full of matchless qualities, that ownest the three worlds, O, Thou, that art my Saviour and that dwellest on the mountain Tiruvengadam which is longed for by hosts of gods and rishis! (Saulabhya)".
-
-Of these vātsālya or affection is the tenderness which accepts a man for protection ignoring his offences, as in the śloka : "I will never ignore one who comes to me like a friend, even if there be faults in him. This will not be censured by the good ". It is (a quality) needed for not avoiding Him on account of one's offences. Swamitva or the attribute of being the master is the special kind of association existing between Bhagavān and the jīva, which is disclosed in the praṇava and the like. This is necessary to inspire confidence that He will protect (us) for His owo glory. Sausīlya, or good nature, is shown in His intimate companionship with such people of low birth as huntsmen, monkeys and cow-herds in spite of His superiority to all beings. This (quality) is necessary for inspiring confidence which would not make one despair saying : " Where is He who is the Master of all and who is armed with the discus and where am I"? but which would encourage one to expect Him to render even such service as driving the chariot and conveying a message. Soulabhya or easy accessibility consists in 'His being within the range of the eyes of all men' even though He is beyond the reach of even such great yogis as Sanaka and Sanandana. This (qualiiy) is necessary in order that we may not give up the longing for Him owing to a notion that He is too difficult of approach. Omniscience consists in His seeing all things, as stated in such ślokas as the following: "There is nothing in any of the three worlds that is not known to Thee", and "I bow to Bhagavān who, by His very nature, sees all things at the same time". This is necessary for the thought that there is nothing unknown to Him among the good things to be given to those who have sought His protection and among the hindrances to be removed from them. Omnipotence consists in the ability to accomplish what cannot be accomplished (by others). This is necessary to give us the assurance that, though we are now in saṁsāra (or bondage of births and deaths ), He can make us enter the assembly of the eternal suuis, Satyasaṅkalpatva means that His will or purpose can never be thwarted even by Himself. This is necessary for the confidence that we shonld have that the words: “I will release you from all sins", will never prove futile. Supreme compassion is the desire to remove the suffering of others without any thought of one's own interests. This is necessary for the knowledge that He will pardon on some pretext (vyāja) even those who have committed innumerable offences, as in the ślokas : "I will never give up the man who seeks me in the manner of a friend, even though he has faults", and "Fetch him, O Sugrīva, best of monkeys, whether he be Vibhishana or even Ravana himself. I promise security to him". Gratitude consists in looking upon even trivial acts of kindness with the greatest regard, as if they were supreme deeds of helpfulness and never forgetting them. (lnstances of this) may be seen in such ślokas as the following: "Since Śrī Rāma is large-hearted, he does not remember even hundreds of offences committed by others against him. He delights (on the other hand) on even a single act of help :', and "That cry for help uttered aloud by Draupadi even from a distance calling me "Govinda!”-that cry is never away from my mind like a debt that has increased with the interest accumulated on it". This quality makes one say to oneself: “If He sees anything of worth done by me within the limits of my ability, He will never forsake ine". Firmness is the quality of persistence in protecting suppliants. This is necessary to inspire the faith that He will never forsake us, even though others who are very intimate with Him try to dissuade Him, as (when Śrī Rāma said):-"I will never give up the man who comes to me in the manner of a friend". Paripurnatvam (perfection or fullness) consists in (His) having all objects that are desired or desirable. This is necessary to make us endeavour to serve Him in the way that is within our limited power, with the knowledge that is what we offer to him (upahara), He will consider only the fervour of emotion or feeling and not measure its worth or value. This may be seen in the following words (of the Lord): "Though what is offered to me by my devotees is atornic, it appears very great to me owing to their love. What is offered to me by those wanting in devotion, however great it might be, never gives me delight". " Whatever is given to me with love, be it only such trivial things as a leaf, a flower, a fruit or even (mere) water, I eat it, because it is given with devotion by one who is devout”. Supreme generosity is the liberality in making gifts which makes a person feel that he has not done enough, even when he has given all that he possesses without any thought of the slightness of the endeavour on the part of the person benefited, the greatness of the benefit conferred or the unworthiness of the beneficiary. This is a quality which induces men like Dadhibhāṇḍa[^99] and others to ask with importunity for the great benefits of spiritual life even for those who are connected with them, Thus such qualities in the Redeemer as are useful for seeking His protection and the manner in which they are useful should be borne in mind.
+It is (a quality) needed for not avoiding Him on account of one's offences. Swamitva or the attribute of being the master is the special kind of association existing between Bhagavān and the jīva, which is disclosed in the praṇava and the like. This is necessary to inspire confidence that He will protect (us) for His owo glory. Sausīlya, or good nature, is shown in His intimate companionship with such people of low birth as huntsmen, monkeys and cow-herds in spite of His superiority to all beings. This (quality) is necessary for inspiring confidence which would not make one despair saying : " Where is He who is the Master of all and who is armed with the discus and where am I"? but which would encourage one to expect Him to render even such service as driving the chariot and conveying a message. Soulabhya or easy accessibility consists in 'His being within the range of the eyes of all men' even though He is beyond the reach of even such great yogis as Sanaka and Sanandana. This (qualiiy) is necessary in order that we may not give up the longing for Him owing to a notion that He is too difficult of approach. Omniscience consists in His seeing all things, as stated in such ślokas as the following: "There is nothing in any of the three worlds that is not known to Thee", and "I bow to Bhagavān who, by His very nature, sees all things at the same time". This is necessary for the thought that there is nothing unknown to Him among the good things to be given to those who have sought His protection and among the hindrances to be removed from them. Omnipotence consists in the ability to accomplish what cannot be accomplished (by others). This is necessary to give us the assurance that, though we are now in saṁsāra (or bondage of births and deaths ), He can make us enter the assembly of the eternal suuis, Satyasaṅkalpatva means that His will or purpose can never be thwarted even by Himself. This is necessary for the confidence that we shonld have that the words: “I will release you from all sins", will never prove futile. Supreme compassion is the desire to remove the suffering of others without any thought of one's own interests. This is necessary for the knowledge that He will pardon on some pretext (vyāja) even those who have committed innumerable offences, as in the ślokas : "I will never give up the man who seeks me in the manner of a friend, even though he has faults", and "Fetch him, O Sugrīva, best of monkeys, whether he be Vibhishana or even Ravana himself. I promise security to him". Gratitude consists in looking upon even trivial acts of kindness with the greatest regard, as if they were supreme deeds of helpfulness and never forgetting them. (lnstances of this) may be seen in such ślokas as the following: "Since Śrī Rāma is large-hearted, he does not remember even hundreds of offences committed by others against him. He delights (on the other hand) on even a single act of help :', and "That cry for help uttered aloud by Draupadi even from a distance calling me "Govinda!”-that cry is never away from my mind like a debt that has increased with the interest accumulated on it". This quality makes one say to oneself: “If He sees anything of worth done by me within the limits of my ability, He will never forsake ine". Firmness is the quality of persistence in protecting suppliants. This is necessary to inspire the faith that He will never forsake us, even though others who are very intimate with Him try to dissuade Him, as (when Śrī Rāma said):-"I will never give up the man who comes to me in the manner of a friend". Paripurnatvam (perfection or fullness) consists in (His) having all objects that are desired or desirable. This is necessary to make us endeavour to serve Him in the way that is within our limited power, with the knowledge that is what we offer to him (upahara), He will consider only the fervour of emotion or feeling and not measure its worth or value. This may be seen in the following words (of the Lord): "Though what is offered to me by my devotees is atornic, it appears very great to me owing to their love. What is offered to me by those wanting in devotion, however great it might be, never gives me delight". " Whatever is given to me with love, be it only such trivial things as a leaf, a flower, a fruit or even (mere) water, I eat it, because it is given with devotion by one who is devout”. Supreme generosity is the liberality in making gifts which makes a person feel that he has not done enough, even when he has given all that he possesses without any thought of the slightness of the endeavour on the part of the person benefited, the greatness of the benefit conferred or the unworthiness of the beneficiary. This is a quality which induces men like Dadhibhāṇḍa[^99] and others to ask with importunity for the great benefits of spiritual life even for those who are connected with them, Thus such qualities in the Redeemer as are useful for seeking His protection and the manner in which they are useful should be borne in mind.
 
 [^99]: Dadhibhāṇḍa begged Śrī Kṛṣṇa for spiritual benefits not only for himself but for those related to him
 
