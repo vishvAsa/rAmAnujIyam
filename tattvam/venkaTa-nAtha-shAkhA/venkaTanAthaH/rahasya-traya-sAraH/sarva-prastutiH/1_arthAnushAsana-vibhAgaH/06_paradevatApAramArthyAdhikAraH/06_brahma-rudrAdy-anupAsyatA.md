@@ -1220,7 +1220,7 @@ It is said :-- "The rewards[^f218] (obtained from these deities) are of a very l
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎऩ्गैयाले अवर्गळ् पक्कल् मोक्षम् विळम्बित्त् उङ् गिडैयादु. 
+ऎऩ्गैयाले अवर्गळ् पक्कल् मोक्षम् विळम्बित्तुङ् गिडैयादु. 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>

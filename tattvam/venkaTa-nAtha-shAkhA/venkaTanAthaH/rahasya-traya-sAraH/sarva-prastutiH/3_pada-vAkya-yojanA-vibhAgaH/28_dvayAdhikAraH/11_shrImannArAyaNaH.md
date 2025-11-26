@@ -5270,10 +5270,105 @@ la ternura que **acepta** a un hombre para **protección**
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु तऩ् दोषङ्गळैप् पार्त्त् अगलामैक्क् उऱुप्प् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+It **is** (a quality) **needed** for **not avoiding** Him on account of one's **offences**. 
+</details>
+
+<details><summary>Español</summary>
+
+**Es** (una cualidad) **necesaria** para **no evitarlo** debido a nuestras **ofensas**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु तऩ् दोषङ्गळैप् पार्त्तगलामैक्कुऱुप्पाम्। 
+</details>
+
+
+### स्वामित्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वामित्वम् आवदु;  
+प्रणवादिगळिल् शिक्षितम् आऩ सम्बन्ध-विशेषम्।
+</details>
+
+<details><summary>English</summary>
+
+Swamitva or the attribute of **being** the master **is** the special kind of **association existing** between Bhagavān and the jīva,  
+which **is disclosed** in the praṇava and the like. 
+</details>
+
+<details><summary>Español</summary>
+
+Swamitva o el atributo de **ser** el maestro **es** el tipo especial de **asociación que existe** entre Bhagavān y la jīva,  
+que **se revela** en el praṇava y cosas similares.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वामित्वमावदु; प्रणवादिगळिल्शिक्षितमाऩ सम्बन्धविशेषम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु 
+
+> तऩ् पेऱ्+++(=प्रयोजनम्)+++ आग रक्षिक्कुम् 
+
+ऎऩ्गिऱ +++(विश्वासाय=)+++तेऱ्ऱत्तुक्क् उऱुप्पाम्।
+</details>
+
+<details><summary>English</summary>
+
+This **is necessary** to **inspire** confidence that  
+He **will protect** (us) for His own glory. 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **es necesario** para **inspirar** confianza en que  
+Él **nos protegerá** (nos) para Su propia gloria.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु तऩ् पेऱाग रक्षिक्कुमॆऩ्गिऱ तेऱ्ऱत्तुक् कुऱुप्पाम्।
+</details>
+
+### सौशील्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सौशील्यम् आवदु  
+ताऩ् सर्वाधिकऩ् आय् वैत्तुत्  
+तण्णियर्+++(=फल्गव)+++ आऩ निषाद-वानर-गोपालादिगळोडे  
+नीरन्ध्र-संश्लेषम् पण्णुगै। 
+</details>
+
+<details><summary>English</summary>
+
+Sausīlya, or good nature, **is** shown in His intimate **companionship** with such people of low birth as huntsmen, monkeys and cow-herds in spite of His superiority to all beings. 
+</details>
+
+<details><summary>Español</summary>
+
+Sausīlya, o buena naturaleza, **se muestra** en Su íntima **compañerismo** con personas de baja cuna como cazadores, monos y pastores de vacas, a pesar de Su superioridad sobre todos los seres.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सौशील्यमावदु ताऩ् सर्वाधिकऩाय् वैत्तुत् तण्णियराऩ निषादवानरगोपालादिगळोडे नीरन्ध्रसंश्लेषम् पण्णुगै। 
+</details>
 
 
 
-It is (a quality) needed for not avoiding Him on account of one's offences. Swamitva or the attribute of being the master is the special kind of association existing between Bhagavān and the jīva, which is disclosed in the praṇava and the like. This is necessary to inspire confidence that He will protect (us) for His owo glory. Sausīlya, or good nature, is shown in His intimate companionship with such people of low birth as huntsmen, monkeys and cow-herds in spite of His superiority to all beings. This (quality) is necessary for inspiring confidence which would not make one despair saying : " Where is He who is the Master of all and who is armed with the discus and where am I"? but which would encourage one to expect Him to render even such service as driving the chariot and conveying a message. Soulabhya or easy accessibility consists in 'His being within the range of the eyes of all men' even though He is beyond the reach of even such great yogis as Sanaka and Sanandana. This (qualiiy) is necessary in order that we may not give up the longing for Him owing to a notion that He is too difficult of approach. Omniscience consists in His seeing all things, as stated in such ślokas as the following: "There is nothing in any of the three worlds that is not known to Thee", and "I bow to Bhagavān who, by His very nature, sees all things at the same time". This is necessary for the thought that there is nothing unknown to Him among the good things to be given to those who have sought His protection and among the hindrances to be removed from them. Omnipotence consists in the ability to accomplish what cannot be accomplished (by others). This is necessary to give us the assurance that, though we are now in saṁsāra (or bondage of births and deaths ), He can make us enter the assembly of the eternal suuis, Satyasaṅkalpatva means that His will or purpose can never be thwarted even by Himself. This is necessary for the confidence that we shonld have that the words: “I will release you from all sins", will never prove futile. Supreme compassion is the desire to remove the suffering of others without any thought of one's own interests. This is necessary for the knowledge that He will pardon on some pretext (vyāja) even those who have committed innumerable offences, as in the ślokas : "I will never give up the man who seeks me in the manner of a friend, even though he has faults", and "Fetch him, O Sugrīva, best of monkeys, whether he be Vibhishana or even Ravana himself. I promise security to him". Gratitude consists in looking upon even trivial acts of kindness with the greatest regard, as if they were supreme deeds of helpfulness and never forgetting them. (lnstances of this) may be seen in such ślokas as the following: "Since Śrī Rāma is large-hearted, he does not remember even hundreds of offences committed by others against him. He delights (on the other hand) on even a single act of help :', and "That cry for help uttered aloud by Draupadi even from a distance calling me "Govinda!”-that cry is never away from my mind like a debt that has increased with the interest accumulated on it". This quality makes one say to oneself: “If He sees anything of worth done by me within the limits of my ability, He will never forsake ine". Firmness is the quality of persistence in protecting suppliants. This is necessary to inspire the faith that He will never forsake us, even though others who are very intimate with Him try to dissuade Him, as (when Śrī Rāma said):-"I will never give up the man who comes to me in the manner of a friend". Paripurnatvam (perfection or fullness) consists in (His) having all objects that are desired or desirable. This is necessary to make us endeavour to serve Him in the way that is within our limited power, with the knowledge that is what we offer to him (upahara), He will consider only the fervour of emotion or feeling and not measure its worth or value. This may be seen in the following words (of the Lord): "Though what is offered to me by my devotees is atornic, it appears very great to me owing to their love. What is offered to me by those wanting in devotion, however great it might be, never gives me delight". " Whatever is given to me with love, be it only such trivial things as a leaf, a flower, a fruit or even (mere) water, I eat it, because it is given with devotion by one who is devout”. Supreme generosity is the liberality in making gifts which makes a person feel that he has not done enough, even when he has given all that he possesses without any thought of the slightness of the endeavour on the part of the person benefited, the greatness of the benefit conferred or the unworthiness of the beneficiary. This is a quality which induces men like Dadhibhāṇḍa[^99] and others to ask with importunity for the great benefits of spiritual life even for those who are connected with them, Thus such qualities in the Redeemer as are useful for seeking His protection and the manner in which they are useful should be borne in mind.
+This (quality) is necessary for inspiring confidence which would not make one despair saying : " Where is He who is the Master of all and who is armed with the discus and where am I"? but which would encourage one to expect Him to render even such service as driving the chariot and conveying a message. Soulabhya or easy accessibility consists in 'His being within the range of the eyes of all men' even though He is beyond the reach of even such great yogis as Sanaka and Sanandana. This (qualiiy) is necessary in order that we may not give up the longing for Him owing to a notion that He is too difficult of approach. Omniscience consists in His seeing all things, as stated in such ślokas as the following: "There is nothing in any of the three worlds that is not known to Thee", and "I bow to Bhagavān who, by His very nature, sees all things at the same time". This is necessary for the thought that there is nothing unknown to Him among the good things to be given to those who have sought His protection and among the hindrances to be removed from them. Omnipotence consists in the ability to accomplish what cannot be accomplished (by others). This is necessary to give us the assurance that, though we are now in saṁsāra (or bondage of births and deaths ), He can make us enter the assembly of the eternal suuis, Satyasaṅkalpatva means that His will or purpose can never be thwarted even by Himself. This is necessary for the confidence that we shonld have that the words: “I will release you from all sins", will never prove futile. Supreme compassion is the desire to remove the suffering of others without any thought of one's own interests. This is necessary for the knowledge that He will pardon on some pretext (vyāja) even those who have committed innumerable offences, as in the ślokas : "I will never give up the man who seeks me in the manner of a friend, even though he has faults", and "Fetch him, O Sugrīva, best of monkeys, whether he be Vibhishana or even Ravana himself. I promise security to him". Gratitude consists in looking upon even trivial acts of kindness with the greatest regard, as if they were supreme deeds of helpfulness and never forgetting them. (lnstances of this) may be seen in such ślokas as the following: "Since Śrī Rāma is large-hearted, he does not remember even hundreds of offences committed by others against him. He delights (on the other hand) on even a single act of help :', and "That cry for help uttered aloud by Draupadi even from a distance calling me "Govinda!”-that cry is never away from my mind like a debt that has increased with the interest accumulated on it". This quality makes one say to oneself: “If He sees anything of worth done by me within the limits of my ability, He will never forsake ine". Firmness is the quality of persistence in protecting suppliants. This is necessary to inspire the faith that He will never forsake us, even though others who are very intimate with Him try to dissuade Him, as (when Śrī Rāma said):-"I will never give up the man who comes to me in the manner of a friend". Paripurnatvam (perfection or fullness) consists in (His) having all objects that are desired or desirable. This is necessary to make us endeavour to serve Him in the way that is within our limited power, with the knowledge that is what we offer to him (upahara), He will consider only the fervour of emotion or feeling and not measure its worth or value. This may be seen in the following words (of the Lord): "Though what is offered to me by my devotees is atornic, it appears very great to me owing to their love. What is offered to me by those wanting in devotion, however great it might be, never gives me delight". " Whatever is given to me with love, be it only such trivial things as a leaf, a flower, a fruit or even (mere) water, I eat it, because it is given with devotion by one who is devout”. Supreme generosity is the liberality in making gifts which makes a person feel that he has not done enough, even when he has given all that he possesses without any thought of the slightness of the endeavour on the part of the person benefited, the greatness of the benefit conferred or the unworthiness of the beneficiary. This is a quality which induces men like Dadhibhāṇḍa[^99] and others to ask with importunity for the great benefits of spiritual life even for those who are connected with them, Thus such qualities in the Redeemer as are useful for seeking His protection and the manner in which they are useful should be borne in mind.
 
 [^99]: Dadhibhāṇḍa begged Śrī Kṛṣṇa for spiritual benefits not only for himself but for those related to him
 
