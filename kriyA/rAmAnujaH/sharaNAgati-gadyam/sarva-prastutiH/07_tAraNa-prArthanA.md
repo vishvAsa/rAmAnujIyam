@@ -20,21 +20,75 @@ title = "०७ तारण-प्रार्थना"
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-अथ प्रकृतिः, मदीय इति । बीजाङ्कुरन्यायात् अनादिता ।
+अथ प्रकृतिः, मदीय इति । 
 
-'गुणमाया समावृतः' (जि. स्तो. १-३) इत्यस्य अर्थमाह - भगवत्स्व रूप इति । विपरीतज्ञानं - देहे अहं धीः । भोग्यभोगोपकरण रूपत्वम्[^1_pg58] आह **देह** इत्य्-आदिना । **दैवीं** - त्वल्लीलार्थम्[^2_pg58] ।
+<details><summary>English</summary>
+
+Then, Sri Ramanuja goes on to describe the Moolaprakrti in the passage beginning with the word "Madeeya."
+</details>
+
+बीजाङ्कुरन्यायात् अनादिता ।
+
+<details><summary>English</summary>
+
+Karma is called "Anaadi" on account of the Nyaaya "Tree from the seed (Beejaankura Nyaaya)
+</details>
+
+'गुणमाया समावृतः' (जि. स्तो. १-३) इत्यस्य अर्थमाह - भगवत्स्व रूप इति । 
+
+<details><summary>English</summary>
+
+"Tirodhaana Kareem" reminds us of the passage in Geeta-"Gunamaya Samaavrta."
+</details>
+
+विपरीतज्ञानं - देहे अहं धीः । 
+
+<details><summary>English</summary>
+
+Vipareeta Gnana is that knowledge which comprehends Deha (Body) as Aatman (Soul).
+</details>
+
+भोग्यभोगोपकरण रूपत्वम्[^1_pg58] आह **देह** इत्य्-आदिना । 
+
+<details><summary>English</summary>
+
+The passage "Dehendriya" connotes that the Prakrti manifests itself as Bhogya (Enjoyable thing) and Bhogopakarana (means for enjoyment).
+</details>
 
 [^1_pg58]: रूप -इ ।
 
+**दैवीं** - त्वल्लीलार्थम्[^2_pg58] ।
+
+<details><summary>English</summary>
+
+The word "Daiveem" denotes that all these are for His recreative purposes.
+</details>
 
 [^2_pg58]: त्वल्लीलार्थाम् - इ ।
 
+दासभूतं - **माम्** इति सम्बन्धः । 
 
-दासभूतं - **माम्** इति सम्बन्धः । शरणागतोऽस्मि[^1_pg59] **तवास्मि** इति  
-पूर्वोत्तरखण्डार्थः । वक्तारम् - 'भवशरणमितीरयन्ति' (वि.पु. ३-७-३३) इति हि उच्यते ।
+<details><summary>English</summary>
+
+Daasabhootam is adjective qualifying "maam". (The other reading is Daasabhuta: This is adopted by Sri Desika and he renders an interesting meaning to the words. Dasabhuta: denotes OM; Saranagatosmi denotes Nama :- Tavasmi Dasa: denotes Naaraayanaya).
+</details>
+
+शरणागतोऽस्मि[^1_pg59] **तवास्मि** इति  
+पूर्वोत्तरखण्डार्थः । 
+
+<details><summary>English</summary>
+
+The first half of Dvayamantra is contained in its essence in Saranaagatosmi and the second half is in Tavaasmi Dasa:
+</details>
 
 [^1_pg59]: दासभूतोऽस्मि - इ ।
 
+वक्तारम् - 'भवशरणमितीरयन्ति' (वि.पु. ३-७-३३) इति हि उच्यते ।
+
+<details><summary>English</summary>
+
+Vaktaaram: Even an utterance of the words "Bhava saranam" gets one to salvation. Cf. "Bhava Saranam itieerayanti.”
+</details>
 
 </details>
 
@@ -91,16 +145,45 @@ title = "०७ तारण-प्रार्थना"
 <details><summary>सुदर्शन-भट्टः</summary>
 
 अथ चतुर्थ्यर्थम् इष्टप्राप्तिं प्रार्थयते तेषाम् इत्य्-आदिना ।
+
+<details><summary>English</summary>
+
+Next, Sri Ramanuja prays for the securing of the desired gains which are implied with the dative (fourth) case from Srimate Naarayanaaya contained in the Dvaya.
+</details>
+
 </details>
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
 **परभक्ति**-स्थाने प्रपदनम् ।  
+
+<details><summary>English</summary>
+
+Because it is the accepted doctrine that by Prapatti alone Moksha is secured to the surrenderer. Prapatti stands in the place of Parabhakti.
+</details>
+
 **पर-ज्ञान--परम-भक्ती** देह-सम्बन्ध-वेलायाम्  
 उपासकस्य उपाय-कोटि-निविष्टे ।  
+
+<details><summary>English</summary>
+
+Even in the case of a person engaged in Bhaktiyoga, these two are obtained by him during the time his connection with the body continues. They are, however, Upaaya (means) for salvation in his case.
+</details>
+
 प्रपन्नस्य तु +उभय-कोटि-घटिते।
 
+<details><summary>English</summary>
+
+But in the case of a Prapanna they are not Upaayas but really gains (Upeyas) obtainable just before Moksha.
+</details>
+
 अतः **परज्ञानं** प्रार्थितं **तेषाम्** इत्य्-आदिना ।
+
+<details><summary>English</summary>
+
+Of these two, Paragnana is prayed for in the first instance by the passage Teshaam, etc.
+</details>
+
 </details>
 
 
@@ -238,7 +321,19 @@ title = "०७ तारण-प्रार्थना"
 अथ **परम-भक्ति**-प्रार्थनम् -  
 **पुरुषः स पर** इत्य्-आदिना ।  
 
+<details><summary>English</summary>
+
+And by the next passage beginning with "Purusha: Sa Para:, Parama Bhakti is prayed for and not Para Bhakti.
+</details>
+
 व्यवहितत्वात् **स्थान-त्रय** इत्युक्तं, न तु श्लोक-त्रय इति ।
+
+<details><summary>English</summary>
+
+The words "Sthaana Traya" are used to denote that the passages are found disconnected and in three different places in Geeta.
+</details>
+
+
 </details>
 
 
@@ -269,7 +364,19 @@ title = "०७ तारण-प्रार्थना"
 अथ बन्ध-निवृत्तेर् अनन्तर-भाविनीः  
 पर-भक्ति--पर-ज्ञान--परम-भक्तीः  
 प्रार्थयते -**परभक्ति** इति ।  
+
+<details><summary>English</summary>
+
+In the next sentence, he again refers to Parabhakti, Paragnana, Paramabhakti, but they are qualities attained by a Released soul only in the stage of Moksha.
+</details>
+
 अत एव हि **एक-स्वभावम्** इत्युक्तम् । पूर्ववद् अर्थः।
+
+<details><summary>English</summary>
+
+That is why, the qualification pointed natural qualification-a stage not attainable in Samsaara.
+</details>
+
 </details>
 
 <details><summary>वेङ्कट-नाथः</summary>
@@ -305,10 +412,27 @@ title = "०७ तारण-प्रार्थना"
 <details><summary>सुदर्शन-भट्टः</summary>
 
 अथ भगवज्-जनित[^1_pg62]-प्रीति--तत्-कारित-कैङ्कर्याणि प्रार्थयते **पर** इति ।  
-पूर्ववद् अर्थः ।  
-**शेषतैक-रति-रूप**-शब्दः बहुव्रीहिः ।
+
+<details><summary>English</summary>
+
+Next, Sri Ramanuja prays for that feeling of satisfaction arising out of the conscious experience of the Lord and also for its consequence i.e., various services to the Lord.
+</details>
 
 [^1_pg62]: भगवदनुभवजनित - इ ।
+
+पूर्ववद् अर्थः ।  
+
+<details><summary>English</summary>
+
+(The next passage has been already explained).
+</details>
+
+**शेषतैक-रति-रूप**-शब्दः बहुव्रीहिः ।
+
+<details><summary>English</summary>
+
+"Seshataika Rati Roopa" is a Bahuvrihi compound.
+</details>
 
 </details>
 
