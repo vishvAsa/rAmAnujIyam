@@ -71,40 +71,9 @@ Sri Saranagati.
 29 
 सर्वधर्मांश्च सन्त्यज्य सर्वकामांश्च साक्षरान् । लोकविकान्तचरणौ शरणं ते ऽवजं विभो ।। 
 त्वमेव माता च पिता त्वमेव त्वमेव बन्धुश्च गुरुस्त्वमेव । त्वमेव विद्या द्रविणं त्वमेव त्वमेव सर्वं मम देवदेव || पिताऽसि लोकस्य चराचरस्य त्वमस्य पूज्यश्च गुरुर्गरीयान् । न त्वत्समोऽस्त्यभ्यधिकः कुतोऽन्यो लोकत्रयेप्यप्रतिमप्रभाव ।। तस्मात्प्रणम्य प्रणिधाय कार्य प्रसादये त्वामहमीशमीड्यम् । पितेव पुत्रस्य सखेव सख्युः प्रियः प्रियायार्हसि देव सोढुम् || 
-COMMENTARY 
-(12) Calling himself as a Ananya Sarana (helpless person). 
-Ramanuja makes the surrender. "Twat Paadaaravindya yugalam" points out that He is possessed of all various virtues and qualities mentioned before and hence the person to be approached. 
-Aravinda because such a prayer at His feet is a pleasant performance. Yugala can be said to be explanatory of the dual (Charanow) mentioned in Dvaya Mantra. Aham. I who am a great sinner who has committed an Ocean of sins." 
-- Prapadye I surrender. Upto this the first portion of Dvaya Mantra has been expounded. 
-Then Sri Ramanuja goes on to give the full meaning of Ananya Sarana: 
-Saranam Aham 
-30 
-Prapadye by referring to quotations and passages from the Puranaas. 
-In the sloka quoted, all the things mentioned up to and including "Guroon" (i.e., the first portion). denote Upaayas (means to attain the goal.) case Daara (wife) is included in the first portion as In this she is the Means as well as Bhogya. The second half of the Sloka mentions other things such as Ratna, etc., as they are things considered to be valuable in this world. Then, in the next sloka beginning with "Sarva" is set out the Upaayas to be used in the Paraloka (in the next world) and the gains to be obtained through them. 
-The word 
-"Akshara" 
-denotes Kaivalyam (enjoyment by the soul of itself only). By the words Loka Vikraanta and Vibho are denoted His qualities of easy accessibility and All 
-Mightiness. 
-Then the word "Saranam" is expounded in the next Sloka. Bhagavaan is the real father and relation in the The Sloka conveys the idea that matter of protection, etc., and to show that he does the function fully and better than the natural, father and others; The words "Twam Eva" is repeated at intervals. The idea that "Not only is He my father but He is also the father of the whole world" is sought to be conveyed by the Sloka beginning with "Pita Asi." In the matter of protection of Jivas, there is none to equal Him or to excel Him. It is so even in the matter of easy accessibility. Apramatima Prabhaava pictures His All Mightiness. 
-31 
-Then, Prapatti (meaning conveyed by Prapadye) is expounded. " Isam Idyam" conveys the idea that there is no "Isa" (Lord) above Him and He alone is 
-to be worshipped. Compare the Santi passage "None to Lord over Him, the Highest is His glory." Parents, etc., forgive and bear with us But Iswara because of their respective relationship. does it because of His eternal connection with us in all manner of ways (not merely relationship by birth); He is bound to forgive us. What is Prapatti? Prapatti is the Supreme Faith in the Lord which culminates in solicitation to Him of our desires or it may mean the Prayer preceded by the supreme Faith. 
-Translation of Text 
-(12) I seek Thy protection and surrender Myself unto Thine Lotus Feet. (Saranaagati) 
-Athra Dvayam:-(So far, Dvaya Mantra has been expounded). The explanation of this sentence 
-with Mantra. 
-(a) (I do prostrate before Thee)-Renouncing my father, mother, wife, children, relatives, friends, even my Teacher, precious stones, wealth and goods, my field, my house, etc. all desires, and actions relating to them, 
-Kaivalya I prostrate at 
-as well as Thine feet 
-which bestrode the Three worlds. 
-32 
-(b) Oh Lord! I surrender Myself unto Thee. Thou alone art My Mother, My Father, Thou art My relations; even My Teacher Thou alone art. So also my learning, my wealth. Indeed Thou art My All. 
-(c) Oh! God of Gods, Thou art the Father of the Worlds moving and unmoving, worshipped by the World. 
-Thou art greater than the greatest. There is no one bigger than Thee in all these Three Oh! Thou of Matchless 
-Worlds. 
-Glory. 
-(d) Therefore prostrating before Thee, with my body bent in adoration, I pray unto Thee, the adorable Master. Thou art like a Father unto a son, like a Friend unto a Friend, affectionate as to a Dear Person. Thou alone canst save me. 
-Prayer for Purification. 
+
+
+
 13. मनोवाक्कायैरनादिकालप्रवृत्तानन्ताकृत्यकरणकृत्याकरणभगवदपचार भागवतापचारासह्यापचाररूपनानाविधानन्तापचारान् आरब्ध कार्यान् नारब्धकार्यान् कृतान् क्रियमाणान् करिष्यमाणांश्च सर्वानशेषतः क्षमख । अनादिकालप्रवृत्तं विपरीतज्ञानमात्मविषयं कृत्स्नजगद्विषयम् ; विपरीतवृत्तं चाशेषविषयमद्यापि वर्तमानं वर्तिष्यमाणं च सर्वं क्षमस्व । 
 33 
 COMMENTARY 
