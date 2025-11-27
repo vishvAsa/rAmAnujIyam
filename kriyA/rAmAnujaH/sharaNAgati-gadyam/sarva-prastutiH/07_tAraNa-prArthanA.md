@@ -124,7 +124,7 @@ Vaktaaram: Even an utterance of the words "Bhava saranam" gets one to salvation.
 
 <details><summary>English</summary>
 
-14. “I am Thy servant. I have surrendered myself_unto Thee. Help me, Thy servant, Oh Lord! to cross over Thy Moolaprakruti, of Three Gunas which flow like a current of the beginningless and endless Karma which hides from my vision, Thy natural, Form and produces in me a perverted knowledge about Thee and a sense of (false) satisfaction in me in the enjoyment of material matters existing (in the world) in all manner of forms, subtle and gross-in body, senses and objects of enjoyment. 
+(14) “I am Thy servant. I have surrendered myself unto Thee. Help me, Thy servant, Oh Lord! to cross over Thy Moolaprakruti, of Three Gunas which flow like a current of the beginningless and endless Karma which hides from my vision, Thy natural, Form and produces in me a perverted knowledge about Thee and a sense of (false) satisfaction in me in the enjoyment of material matters existing (in the world) in all manner of forms, subtle and gross - in body, senses and objects of enjoyment. 
 
 </details>
 
@@ -467,22 +467,23 @@ Next, Sri Ramanuja prays for that feeling of satisfaction arising out of the con
 
 <details><summary>English</summary>
 
-15. Please, Oh! Lord, favour me and make me a Gnaani like the one described in the following 
-three Slokas: 
+(15) Please, Oh! Lord, favour me and make me a Gnaani like the one described in the following three Slokas: 
+
 Slokas: 
-(a) Of them (the four classes of Devotees), 
-the one who is steadfast and concen- 
-Ban 
-40 
-trates his devotion on me only is above the others-for to him I am excessively dear: So also is he dear to Me. 
+
+(a) Of them (the four classes of Devotees), the one who is steadfast and concentrates his devotion on me only is above the others - for to him I am excessively dear: So also is he dear to Me. 
+
 (b) Indeed, I consider: All these (the four classes) are generous; but of them the Gnani the wise is My Inner Self. He, being steadfast in his mind, rests on Me, as the Supreme Goal. 
-(c) At the end of many births, a man having realised that Vasudeva is the All, comes 
-to Me, He is Mahatma, rare indeed to find. 
+
+(c) At the end of many births, a man having realised that Vasudeva is the All, comes to Me, He is Mahatma, rare indeed to find. 
+
 Also make me endowed with Parabhakti described in the following three passages in Bhaghavad Geeta :- 
-(i) Oh Arjuna! That Supreme (Person is attainable only by Bhakti undistracted. (ii) He is to be attained only by Bhakti which seeks no other benefit than that of attaining Him. 
-(iii) He obtains that supreme devotion to Me." Make me also endowed with constant Para Bhakti, Para Gnaana and Parama Bhakati. I pray that I may become Thy servant in ever constant service to Thee-I having acquired the experience of the Lord, i.e., full and clear and constant, highly desired, having no other object in view and produced by Para Bhakti, Para Gnana and Parama Bhakti, a 
-41 
-service which is the result of great urge to perform services of all forms suited to the conditions and circumstances of the moment, which are produced by the unlimited love and devotion to Thee arising out of the experience as stated above. 
+
+(i) Oh Arjuna! That Supreme Person is attainable only by Bhakti undistracted. 
+
+(ii) He is to be attained only by Bhakti which seeks no other benefit than that of attaining Him. 
+
+(iii) He obtains that supreme devotion to Me." Make me also endowed with constant Para Bhakti, Para Gnaana and Parama Bhakati. I pray that I may become Thy servant in ever constant service to Thee - I having acquired the experience of the Lord, i.e., full and clear and constant, highly desired, having no other object in view and produced by Para Bhakti, Para Gnana and Parama Bhakti, a service which is the result of great urge to perform services of all forms suited to the conditions and circumstances of the moment, which are produced by the unlimited love and devotion to Thee arising out of the experience as stated above. 
 
 </details>
 

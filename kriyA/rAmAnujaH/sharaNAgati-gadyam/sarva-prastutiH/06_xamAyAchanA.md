@@ -90,18 +90,15 @@ or it may mean the Prayer preceded by the supreme Faith.
 <details><summary>English</summary>
 
 (12) I seek Thy protection and surrender Myself unto Thine Lotus Feet. (Saranaagati) 
-Athra Dvayam:-(So far, Dvaya Mantra has been expounded). The explanation of this sentence 
-with Mantra. 
-(a) (I do prostrate before Thee)-Renouncing my father, mother, wife, children, relatives, friends, even my Teacher, precious stones, wealth and goods, my field, my house, etc. all desires, and actions relating to them, 
-Kaivalya I prostrate at 
-as well as Thine feet 
-which bestrode the Three worlds. 
-32 
+
+Athra Dvayam :- (So far, Dvaya Mantra has been expounded). The explanation of this sentence with Mantra. 
+
+(a) (I do prostrate before Thee) - Renouncing my father, mother, wife, children, relatives, friends, even my Teacher, precious stones, wealth and goods, my field, my house, etc. all desires, and actions relating to them, as well as Kaivalya I prostrate at Thine feet which bestrode the Three worlds. 
+ 
 (b) Oh Lord! I surrender Myself unto Thee. Thou alone art My Mother, My Father, Thou art My relations; even My Teacher Thou alone art. So also my learning, my wealth. Indeed Thou art My All. 
-(c) Oh! God of Gods, Thou art the Father of the Worlds moving and unmoving, worshipped by the World. 
-Thou art greater than the greatest. There is no one bigger than Thee in all these Three Oh! Thou of Matchless 
-Worlds. 
-Glory. 
+
+(c) Oh! God of Gods, Thou art the Father of the Worlds moving and unmoving, worshipped by the World. Thou art greater than the greatest. There is no one bigger than Thee in all these Three Worlds. Oh! Thou of Matchless Glory. 
+
 (d) Therefore prostrating before Thee, with my body bent in adoration, I pray unto Thee, the adorable Master. Thou art like a Father unto a son, like a Friend unto a Friend, affectionate as to a Dear Person. Thou alone canst save me. 
 </details>
 
@@ -366,8 +363,8 @@ When a man performs an act solely out of a desire for gain to himself or to his 
 
 
 <details><summary>English</summary>
-13. Pray grant me forgiveness without reserve of All my sins without exception, sins of various kinds, committed, being committed or to be committed-endless and beginningless, i.e. commission of acts forbidden, omission of acts enjoined to be performed, all committed by mind, or tongue or body towards Thee or Thine Devotees - unforgivable (so many in number) whether connected with acts started or not so started. Forgive me, Oh, Lord, my (poor) knowledge or action, however, 
-perverse. 
+
+(13) Pray grant me forgiveness without reserve of All my sins without exception, sins of various kinds, committed, being committed or to be committed - endless and beginningless, i.e. commission of acts forbidden, omission of acts enjoined to be performed, all committed by mind, or tongue or body towards Thee or Thine Devotees - sins unforgivable (so many in number) whether connected with acts started or not so started. Forgive me, Oh, Lord, my (poor) knowledge or action, however, perverse. 
 
 </details>
 
