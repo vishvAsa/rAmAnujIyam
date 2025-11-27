@@ -87,6 +87,23 @@ or it may mean the Prayer preceded by the supreme Faith.
 [^2_pg52]: प्रेयः-आ।
 </details>
 
+<details><summary>English</summary>
+
+(12) I seek Thy protection and surrender Myself unto Thine Lotus Feet. (Saranaagati) 
+Athra Dvayam:-(So far, Dvaya Mantra has been expounded). The explanation of this sentence 
+with Mantra. 
+(a) (I do prostrate before Thee)-Renouncing my father, mother, wife, children, relatives, friends, even my Teacher, precious stones, wealth and goods, my field, my house, etc. all desires, and actions relating to them, 
+Kaivalya I prostrate at 
+as well as Thine feet 
+which bestrode the Three worlds. 
+32 
+(b) Oh Lord! I surrender Myself unto Thee. Thou alone art My Mother, My Father, Thou art My relations; even My Teacher Thou alone art. So also my learning, my wealth. Indeed Thou art My All. 
+(c) Oh! God of Gods, Thou art the Father of the Worlds moving and unmoving, worshipped by the World. 
+Thou art greater than the greatest. There is no one bigger than Thee in all these Three Oh! Thou of Matchless 
+Worlds. 
+Glory. 
+(d) Therefore prostrating before Thee, with my body bent in adoration, I pray unto Thee, the adorable Master. Thou art like a Father unto a son, like a Friend unto a Friend, affectionate as to a Dear Person. Thou alone canst save me. 
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -267,7 +284,6 @@ With a view not to exclude any of these categories, the word "Aseshatha :" is us
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मनोवाक्कायैरनादिकालप्रवृत्त अनन्त अकृत्यकरण कृत्याकरण भगवदपचार भागवतापचार असह्यापचाररूप नानाविध अनन्तापचारान् आरब्धकार्यान्, अनारब्धकार्यान् कृतान् क्रियमाणान्, करिष्यमाणांश्च सर्वान् अशेषतः क्षमस्व॥(21)
@@ -345,6 +361,13 @@ When a man performs an act solely out of a desire for gain to himself or to his 
 इह यथाधिकारं यथाचोदितमनुतिष्ठितानमपि संसारहेतुधर्माणामभिचाराणामिव अनर्थपर्यवसायितया मुमुक्ष्वपेक्षया पापत्वोक्तेः, स्वर्गादिहेतु भूतस्वतन्त्रसङ्कल्पेऽपि निग्रहहेतुत्वबुद्ध्या काम्यक्षमाप्रार्थनं युक्तम् । यद्यप्येवं पूर्वकृतेषु काम्येषु गतिः, तथाऽपि वर्तमानवर्तिष्यमाणकाम्य क्षमार्थिनां स्वयं तदारम्भ एव न सम्भवतीति कथं तत्क्षमाप्रार्थनम्? इत्थम् ।
 
 अज्ञातयादृच्छिकसुकृतन्यायात् सुहृज्जनबुद्ध्या वा सम्भवत्सु नेदं चोद्यम् । स्वबुद्धिपूर्वमपि वर्तमानेषु काम्येषु मध्ये निर्विण्णानामपि प्रक्रान्तसमापन मन्तरा लब्धवृष्टेः कारीरीशेषसमापनन्यायेन स्यात् । तत्र पश्चिमांशस्य आज्ञासिद्धत्वान्न काम्यत्वदोषः । पूर्वांशस्य तु क्षुद्रफलकामनामूलस्य तत्फलजनकत्वाभावेऽपि तादृशवासनाजनकत्वसम्भवात् कर्मयोगस्यैव 'नेहाभिक्रमनाशोऽस्ति' (भ.गी. २-४०) इति न्यायेन केषाञ्चित् कर्मणाम् असमाप्तानां कृतांशस्य विलम्बकारिसाधनान्तरपर्यवसितफलजनकत्वात् तत्क्षान्तिः प्रार्थनीया ।अत्र पूर्वापरांशयोरधिकारभेदेऽप्यासमाप्तेरैककर्म्यात् वर्तमानव्यपदेशोऽपि युक्तः । उत्तरकालेऽपि केनचिद्धेतुना निर्वेदविच्छेदात् नित्यत्वभ्रमात् स्वप्नदोषाद्वा काम्यं सम्भाव्यते । तस्यानुत्पन्नस्यापि क्षमावेक्षणं शीघ्रं स्वोचितप्रायश्चितप्रेरणार्थम्, सौभर्यादिन्यायेन क्रमेण वैराग्यजननार्थं वा । उक्तं हि प्रपन्नमधिकृत्यैव 'अथोपायप्रसक्तोऽपि भुक्त्वा भोगान् अनामयान् । अन्ते विरक्तिमासाद्य विशते वैष्णवं पदम्' ॥ (ल.तं.१७-१०३) इति ।
+
+</details>
+
+
+<details><summary>English</summary>
+13. Pray grant me forgiveness without reserve of All my sins without exception, sins of various kinds, committed, being committed or to be committed-endless and beginningless, i.e. commission of acts forbidden, omission of acts enjoined to be performed, all committed by mind, or tongue or body towards Thee or Thine Devotees - unforgivable (so many in number) whether connected with acts started or not so started. Forgive me, Oh, Lord, my (poor) knowledge or action, however, 
+perverse. 
 
 </details>
 

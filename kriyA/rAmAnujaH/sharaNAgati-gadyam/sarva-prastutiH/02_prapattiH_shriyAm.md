@@ -609,6 +609,12 @@ _तुल्य_-शब्दोक्तार्थस्य '_अर्ह�
 > 'श्रेयो न ह्यरविन्दलोचनमनः कान्ताप्रसादादृते । संसृत्यक्षरवैष्णवाध्वसु नृणां सम्भाव्यते कर्हिचित्' ॥ (च.श्लो.३) इति ।
 </details>
 
+<details><summary>English</summary>
+
+(1) With no other help to resort to, I seek Thee, Sri Devi, full of all beneficient qualities, seated in a forest of lotus flowers. (Thou art) the refuge of all the helpless; (Thou art) my Mother, indeed the Mother of the whole world, The Crowned Divine Queen of the Lord of the Devas, the pure and Unsullied, never separated from the Lord; Thyself Thine from, its qualities, and the most wonderful, limitless innumerable collection of auspicious qualities of Thine, such as, Greatness, Rulership and high Virtues, all to His liking and worthy of the natural form and qualities of Bhagavaan Naarayana. 
+
+</details>
+
 
 <details><summary>FX Clooney</summary>
 
