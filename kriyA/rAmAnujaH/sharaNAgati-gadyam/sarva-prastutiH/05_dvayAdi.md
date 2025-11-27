@@ -25,7 +25,7 @@ and Thou art the protector of the Helpless.
 Calling himself as a Ananya Sarana (helpless person).
 </details>
 
-त्वत् शब्देन प्रागुक्ताकारविशिष्टतया योग्यत्वमभिप्रेतम् । 
+त्वत्-शब्देन प्रागुक्ताकारविशिष्टतया योग्यत्वमभिप्रेतम् । 
 
 <details><summary>English</summary>
 
