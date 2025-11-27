@@ -88,24 +88,3 @@ Assurance by the Lord.
 इति मयैव ह्युक्तम् । 
 अतस्त्वं तव तत्त्वतो मज्ज्ञानदर्शनप्राप्तिषु निस्संशयस्सुखमास्व ॥ इति श्रीभगवद्रामानुजविरचितं शरणागतिगद्यं 
 सम्पूर्णम् 
-COMMENTARY 
-(18) Ma Te bhoot Atra Samsaya: These are words of assurance that what was said already is not mere words of consolation. 
-Anrtam, etc.-The first quotation says that He never tells a lie. The second is just to confirm the Sakrteva, etc. assurance. He has given before. 
-The assurance is for the whole world. 
-[The quotations are from Ramayana and Maha 
-bharata, the first by Rama, and the other by Krishna.] 
-Ata: Tvam-What may be attained by Bhakti Yoga can also be attained by Prapatti is indicated by these and the words following. 
-and peaceful Mind. 
-"Rest in assured 
-Sukham Aaswa.-A question is raised here as to whether Gnaana referred to in the passage is one to be acquired hereafter. No, the Ganana has been 
-4 
-50 
-gained already by the teachings of the Acharyas and that gnaana is true knowledge. Just as that knowledge is true and truly attained, the next sta ges of Direct Vision and Absolute Attainment. are certain; rest assured. 
-(Here Nigamanta Desika gives the solution in a different way-Gnana referred to here is the confirmation of that knowledge acquired Acharyas unimpaired.) 
-Thus ends the commentary by Srutaprakaasika Acharya of Saranaagathi Gadya. 
-Translation of Text 
-from 
-18. [Assurance by the Lord] Entertain no doubt about it. "I have never uttered nor shall I ever utter a falsehood." voices." "Have I not already given the assurance?" "Rama never speaks in two "Him who even once bows to Me saying that I am Thine, I grant him shelter and protection from all (evils). This is my vow." and surrender unto Me only. I shall save you from "Renounce all Dharmas all sins. Don't grieve." 
-free of doubt or fear in the matter of obtaining true Therefore, you may rest knowledge about Me, True Realisation and attainment of Me." 
-Thus ends the translation of the original text of 
-the Saranaagati Gadya.
