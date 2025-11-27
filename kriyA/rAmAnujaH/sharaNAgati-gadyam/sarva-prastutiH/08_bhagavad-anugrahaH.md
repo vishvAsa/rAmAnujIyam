@@ -26,15 +26,57 @@ title = "०८ भगवद्-अनुग्रहः"
 
 अथ भगवद्वाक्यमाह[^1_pg63] -  
 
-एवम् इत्य्-आदि । वक्ष्यमाण-चरमश्लोक प्रथमपदार्थमाह एवम्भूत इति ।  
-**अवक्कॢप्तम्** - विहितम् ।  
-**समस्तवस्तु**-शब्देन कर्मज्ञानभक्तियोगाः,  
-तद्-अनुगुणाः अमानित्वादि-गुणाश् च विवक्षिताः ।  
-**विहीन** इति त्यागोऽनूदित इति भावः ।  
-+++(चरमश्लोक-)+++**परि**-शब्दार्थम् अभिप्रयन्नाह - **अनन्त** इति ।  
-विरोधिभूयस्तया कालान्तरेऽपि तन्-नैराश्यं हि तदर्थः ।
+एवम् इत्य्-आदि । 
+
+<details><summary>English</summary>
+
+In response to the prayer, the Lord grants the prayer by the passage following:-"Yevamboota.... Heenopi"
+</details>
 
 [^1_pg63]: भगवद्वचःइ ।
+
+वक्ष्यमाण-चरमश्लोक प्रथमपदार्थमाह एवम्भूत इति ।  
+
+<details><summary>English</summary>
+
+conveys in substance the purport of the meaning of the first paada of the Charama Sloka. "Sarva Dharmaan Parityajya."
+</details>
+
+**अवक्कॢप्तम्** - विहितम् ।  
+
+<details><summary>English</summary>
+
+Avaklupta means injuncted by the Saastra-
+</details>
+
+**समस्तवस्तु**-शब्देन कर्मज्ञानभक्तियोगाः,  
+तद्-अनुगुणाः अमानित्वादि-गुणाश् च विवक्षिताः ।  
+
+<details><summary>English</summary>
+
+"Samasta Vastu Viheena: means though not qualified by having performed, Karma Yoga, Gnana Yoga and Bhakti Yoga and not acquired the subsidiary qualifications mentioned in the Geeta (Amaanitvam).
+</details>
+
+**विहीन** इति त्यागोऽनूदित इति भावः ।  
+
+<details><summary>English</summary>
+
+"Viheena" conveys the idea that the Devottee had already given up all Dharmas as implied in the Tyaaga in the Charama  Sloka.
+</details>
+
++++(चरमश्लोक-)+++**परि**-शब्दार्थम् अभिप्रयन्नाह - **अनन्त** इति ।  
+
+<details><summary>English</summary>
+
+By the words. the "Ananta, etc.", it is sought. to convey the idea ingrained in the preposition "Pari" in Parityaga.' (Pari means completely.)
+</details>
+
+विरोधिभूयस्तया कालान्तरेऽपि तन्-नैराश्यं हि तदर्थः ।
+
+<details><summary>English</summary>
+
+In fact, the helpless Prapanna is unable to perform the three Yogas on account of his sinful Karmas and hence he has to give them up on account of this inability (to do it even in future). These sinful Karmas which are enemies of salvation are so heinous in character that he has lost all hopes of being able to perform the Yogas at any time in future. All this is conveyed by the prefix 'Pari.'
+</details>
 
 </details>
 
@@ -80,12 +122,32 @@ or committed unto Me extremely grievous wrongs unforgivable.
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-एतत् इति - बीजाङ्कुर न्यायात्[^1_pg64] कार्यकारणभावः । 'अथातो अहङ्कारादेशः' (छां.उ.७-२५-१) इत्याद्युक्त[^2_pg64] अहङ्कार व्यावृत्यर्थः **विपरीताहङ्कार**-शब्दः, विमूढात्मस्वभावः - तिरोहितशेषभावः । **उभय**-शब्दः पापाज्ञानपरः ।
+एतत् इति - बीजाङ्कुर न्यायात्[^1_pg64] कार्यकारणभावः । 
+
+<details><summary>English</summary>
+
+'Yetat Kaarya Kaarana Bhoota' denotes the Nyaya "The tree from the seed", each is Kaarya and Kaarana also.
+</details>
 
 [^1_pg64]: नयात् - इ ।
 
+'अथातो अहङ्कारादेशः' (छां.उ.७-२५-१) इत्याद्युक्त[^2_pg64] अहङ्कार व्यावृत्यर्थः **विपरीताहङ्कार**-शब्दः, विमूढात्मस्वभावः - तिरोहितशेषभावः । 
+
+<details><summary>English</summary>
+
+The adjective Vipareeta is in connection with "Ahankaara" with the object of not excluding all Ahankaras, but some varieties of them (e.g. that body is the soul) For, some kinds of Ahankara are not objectionable. (e.g., "I am Brahman i.e. that Brahman is the indweller in Me.") This is also found in the Sruti (Atha Atha: Ahankaara Aadesa :)
+
+"Vimoodha Aatma Swabhava:" The nature of Atman (Finite Soul) is service-ship. This is hidden from the Jeeva.
+</details>
 
 [^2_pg64]: इत्युक्त - इ ।
+
+**उभय**-शब्दः पापाज्ञानपरः ।
+
+<details><summary>English</summary>
+
+"Ubhaya Karya Karana" - Ubhaya denotes both sin and ignorance
+</details>
 
 </details>
 
@@ -137,9 +199,28 @@ You may be connected with Prakrti (the cause of the above All).
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-सुखदुःखतद्धेतु शब्देन भोग्य[^1_pg65] विषया विवक्षिताः । ज्ञानस्य सङ्कोचः आत्मपरमात्मविषये । विषयानुभवरूपः, ज्ञानसङ्कोचरूपश्च विघ्नः ।
+सुखदुःखतद्धेतु शब्देन भोग्य[^1_pg65] विषया विवक्षिताः । 
+
+<details><summary>English</summary>
+
+"Sukha Duhkha Taddhetu: All undesirable things not fit to be enjoyed.
+</details>
 
 [^1_pg65]: अभोग्य इ ।
+
+ज्ञानस्य सङ्कोचः आत्मपरमात्मविषये । 
+
+<details><summary>English</summary>
+
+"Gnaana Sankocha: Ignorance of the true nature of Paramaatman and Jeevatman.
+</details>
+
+विषयानुभवरूपः, ज्ञानसङ्कोचरूपश्च विघ्नः ।
+
+<details><summary>English</summary>
+
+This ignorance and the enjoyment of material objects are the obstructions (Vighna) stated later on.
+</details>
 
 </details>
 
@@ -176,10 +257,34 @@ the obstructions for which are due to the enjoyment of external (Material) thing
 
 **येन केनाऽपि प्रकारेण** इति 'आर्ततया दृप्ततया वा' इति भावः । 
 
+<details><summary>English</summary>
+
+Ena Kenaapi Prakaarena: Whether as a person in a hurry to attain Moksha (Aartha) or one who is willing to delay (till the end of his life).
+</details>
+
 **केवल**-शब्दः आकाङ्क्षिता नुपपत्ति[^1_pg66] व्यावृत्यर्थः ।  
-**एव**-कारः कृपायाः पुष्कलकारणत्वपरः । तत्र हेतुः **मदीयत्त्वम्** ।
+
+<details><summary>English</summary>
+
+'Kevalam' - Only by My Grace and Mercy "irrespective of the feeling of anxiety or repentance of the Devotee."
+</details>
 
 [^1_pg66]: नुताप - इ ।
+
+**एव**-कारः कृपायाः पुष्कलकारणत्वपरः । 
+
+<details><summary>English</summary>
+
+Eva in Madeeyaya eva is used to emphasise that only His Grace is responsible for the Devotee's salvation
+</details>
+
+तत्र हेतुः **मदीयत्त्वम्** ।
+
+<details><summary>English</summary>
+
+and Madeeya connotes that He does not need any other agency for showing His Grace.
+</details>
+
 </details>
 
 
@@ -281,9 +386,21 @@ You will also by My grace obtain Para Bhakti, Para Jn~Ana and Parama Bhakti
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-कदाचित्स्वरूपा[^1_pg67]द्यनुभवव्युपदासाय **विस्तार**-शब्दः । एवं **नारायण**-शब्दार्थानुभव उक्तः । 
+कदाचित्स्वरूपा[^1_pg67]द्यनुभवव्युपदासाय **विस्तार**-शब्दः । 
+
+<details><summary>English</summary>
+
+Visthaara: is used to show that when the Devotee gets the direct vision of God, it is not only of some of His qualities but all of them.
+</details>
 
 [^1_pg67]: क्वाचित्कस्वरूपा - इ ।
+
+एवं **नारायण**-शब्दार्थानुभव उक्तः । 
+
+<details><summary>English</summary>
+
+Thus far the word Narayana has been expounded.
+</details>
 
 </details>
 
@@ -319,7 +436,26 @@ and be favoured with the direct vision of Me, My form, My attributes, My vibhUti
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-तदन्तर्गतजीवस्वरूपाविर्भावमाह - **अपरोक्ष** इति । व्याप्तिर्धारणा च नियमनान्तर्गते 'प्रशासने गार्गिः' (बृ. उ.५८-९) 'अन्तः प्रविष्टः' (तै. आर. ३-११-२१) इति श्रुतेः । अतः पृथग नुक्तिः । एतेन स्वाधीन प्रवृत्तित्वान्यशेषत्वाद्यशेषत्वभ्रमः [^2_pg67] फलितः ।
+तदन्तर्गतजीवस्वरूपाविर्भावमाह - **अपरोक्ष** इति । 
+
+<details><summary>English</summary>
+
+Next follows the description of the status of Jeeva, at the Moksha - a status which is naturally his. - in the passage beginning with Aparoksha.
+</details>
+
+व्याप्तिर्धारणा च नियमनान्तर्गते 'प्रशासने गार्गिः' (बृ. उ.५८-९) 'अन्तः प्रविष्टः' (तै. आर. ३-११-२१) इति श्रुतेः । 
+
+<details><summary>English</summary>
+
+Manniyaamyatva includes both ideas about Paramaatman-pervasiveness and support by Him Cf. "Oh! Gargi, Sun, Moon, etc. are supported by Him and controlled by Him."
+</details>
+
+अतः पृथग नुक्तिः । एतेन स्वाधीन प्रवृत्तित्वान्यशेषत्वाद्यशेषत्वभ्रमः [^2_pg67] फलितः ।
+
+<details><summary>English</summary>
+
+Thus, the idea that Jeevaatman is independant (of Him) is excluded.
+</details>
 
 [^2_pg67]: प्रवृत्तित्वाद्यशेषभ्रमव्युदासः - इ ।
 
@@ -357,8 +493,37 @@ You will also realize directly and clearly your own nature (innate quality), i.e
 <details><summary>सुदर्शन-भट्टः</summary>
 
 आत्मीयाभिमानानुगुण[^1_pg68]-पुमर्थानुभाव्यम्[^2_pg68] आह - **मदेक** इति ।  
-**एक**-शब्देन अनुभाव्यन्तरव्युदासः । विरूपभर्त्रनुभवसाम्यव्युदासाय आह - मद्दास्यैक इति ।  
+
+<details><summary>English</summary>
+
+Madeka Anubhava: Generally, a man follows actions which are in conformity with the status in which he considers himself to be. Here, when a devotee thinks himself to be the servant of the Lord, he engages himself in worship, etc., and thus enjoys Him.
+</details>
+
+[^1_pg68]: आत्माभिमाना - इ ।
+
+[^2_pg68]: पुरुषार्थानुभव - इ ।
+
+**एक**-शब्देन अनुभाव्यन्तरव्युदासः । 
+
+<details><summary>English</summary>
+
+Eka emphasises that the service is directed only to Him and not to anything or anybody else.
+</details>
+
+विरूपभर्त्रनुभवसाम्यव्युदासाय आह - मद्दास्यैक इति ।  
+
+<details><summary>English</summary>
+
+Mad daasya eka Priya: Service to Him is pleasurable because the Lord is so High that He deserves all the worship that one can give Him.
+</details>
+
 **एक**-शब्देन स्वरूपाननुरूपस्वातन्त्र्यस्य अपुमर्थत्वम् अभिप्रेतम् ।
+
+<details><summary>English</summary>
+
+Eka emphasises that the Devotee will not desire for anything else but service.
+</details>
+
 </details>
 
 <details><summary>वेङ्कट-नाथः</summary>
@@ -419,19 +584,29 @@ you will be My servant for ever and ever as stated above. Take it that you have 
 
 तत् कदेत्य् अत्राह **एवम्भूतोऽसि** इति ।
 
+<details><summary>English</summary>
+
+Evam Bhutosi is in answer to a question arising in the mind of the Devotee (Sri Ramanuja) as to when should the state of service start?
+</details>
+
 कदा इति त्वरा तव यदा स्यात्, तदा त्वमीदृ गवस्थितोऽसि[^3_pg68] ।  
-अयं हि तव लाभ[^4_pg68] इत्यर्थः
 
-[^1_pg68]: आत्माभिमाना - इ ।
+<details><summary>English</summary>
 
-
-[^2_pg68]: पुरुषार्थानुभव - इ ।
-
+The past tense denotes that you have already become one or can become at any time desired.
+</details>
 
 [^3_pg68]: गवस्थोऽसि - इ ।
 
+अयं हि तव लाभ[^4_pg68] इत्यर्थः
+
+<details><summary>English</summary>
+
+This is the great boon and gain.
+</details>
 
 [^4_pg68]: महालाभइ ।
+
 </details>
 
 <details><summary>वेङ्कट-नाथः</summary>
