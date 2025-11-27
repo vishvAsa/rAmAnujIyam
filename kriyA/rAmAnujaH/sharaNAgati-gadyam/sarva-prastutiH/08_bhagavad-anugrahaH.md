@@ -651,12 +651,72 @@ This is the great boon and gain.
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-शरीरपातावधिकल्पकालः एवं विनोदेन **नेय** इत्याह - **आध्यात्मिक** इति । दुःखरूपो विघ्नः । तत्र सङ्गरहितत्वे हेतुमाह - **द्वयम्** इति । **सदैवम्** इति क्षणमात्रं द्वयार्थानुसन्धानाभावे सति तापत्रयस्य अवकाशः स्यात् । अतः[^1_pg69] निरन्तरानुसन्धानेन तद्विरहः **कार्य** इति भावः । उपायत्वे द्वयोक्तिरेव अलमितिकृत्वा वक्तारं मां तारय इत्युक्तम् । अत्र तु अर्थानुसन्धानं भोगरूपत्वेन उक्तम् । अत्रैव इत्युपलक्षणम् । भगवदभिमानतदीयसम्बन्धव [^2_pg69]द्देशविशेषेषु[^2_pg69] इत्यर्थः । **यावच्छरीरपातम्** इति कियानयं काल इति भावः ।
+शरीरपातावधिकल्पकालः एवं विनोदेन **नेय** इत्याह - **आध्यात्मिक** इति । 
+
+<details><summary>English</summary>
+
+Then follow directions by the Lord as to how the Devotee should conduct himself or arrange to spend the rest of the days of his life.
+</details>
+
+दुःखरूपो विघ्नः । 
+
+<details><summary>English</summary>
+
+Du:kka and Vighna connote the same thing.
+</details>
+
+तत्र सङ्गरहितत्वे हेतुमाह - **द्वयम्** इति । 
+
+<details><summary>English</summary>
+
+The investigation into meaning of Dvaya and recitation of it are prescribed to avoid any attachment to material things.
+</details>
+
+**सदैवम्** इति क्षणमात्रं द्वयार्थानुसन्धानाभावे सति तापत्रयस्य अवकाशः स्यात् । 
+
+<details><summary>English</summary>
+
+If even for a minute, there is a vacant interval in this action, room will be given to the three kinds of afflictions.
+</details>
+
+अतः[^1_pg69] निरन्तरानुसन्धानेन तद्विरहः **कार्य** इति भावः । उपायत्वे द्वयोक्तिरेव अलमितिकृत्वा वक्तारं मां तारय इत्युक्तम् । 
+
+<details><summary>English</summary>
+
+This mediation does not help as a means to Moksha; in fact, the mere utterance of Dvaya will do.
+</details>
 
 [^1_pg69]: अत एव ।
 
+अत्र तु अर्थानुसन्धानं भोगरूपत्वेन उक्तम् । 
+
+<details><summary>English</summary>
+
+This is however mentioned not as compulsory act to be performed but only as a way of spending the time fruitfully.
+</details>
+
+अत्रैव इत्युपलक्षणम् । 
+
+<details><summary>English</summary>
+
+Srirangam means not merely Srirangam...
+</details>
+
+भगवदभिमानतदीयसम्बन्धव [^2_pg69]द्देशविशेषेषु[^2_pg69] इत्यर्थः । 
+
+<details><summary>English</summary>
+
+but includes any place favoured by Gods and Godly men.
+</details>
 
 [^2_pg69]: द्देशेषु ।
+
+**यावच्छरीरपातम्** इति कियानयं काल इति भावः ।
+
+<details><summary>English</summary>
+
+Till when? till the body falls.
+</details>
 
 </details>
 
@@ -707,21 +767,72 @@ You shall reside in Srirangam till the body falls to the ground (death).
 
 शरीर इति । केवलं त्वय्यकिञ्चित्करेऽपीति भावः ।
 
+<details><summary>English</summary>
+
+Kevalam: Even if the Jeeva does not do anything.
+</details>
+
 </details>
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
 **दयया एवेति** **एव**कारः पुष्कलत्वद्योतकः।
 
+<details><summary>English</summary>
+
+Dayaayeva - eva here indicates the complete effectiveness of His Dayaa.
+</details>
+
 **अतिप्रबुद्धः** - जीवद्दशायां प्रबोधः अन्धतमसस्थानीय इति भावः ।  
+
+<details><summary>English</summary>
+
+Ati pribhudda: implies that the knowledge gained during one's lifetime is to be compared to darkness.
+</details>
+
 परमात्मनि विश्रमानन्तरं भाव्ययं प्रबोधः, ततः प्राक्तनं स्मरणम्, अन्तिममुपासकानाम् अपेक्षितम् ।  
+
+<details><summary>English</summary>
+
+The dawning of spiritual knowledge starts after the Finite Soul rests on Paramaatman. In the case of the Devotees practising Bhakti Yoga, the 'last reminiscence' (Antima smaranam) should be gained by them.
+</details>
+
 प्रपन्नन्तु 'काष्ठपाषाणसन्निभम्' (वरा.च.श्लो.) भगवानेव स्मरति ।  
+
+<details><summary>English</summary>
+
+In the case of a Prapanna, however, he may (at the time of his death) be like a log of wood, a piece of stone, etc., yet Iswara will remember him
+</details>
+
 स्वस्मिन् विश्रमा नन्तरं प्रबोधं च जनयति ।  
+
+<details><summary>English</summary>
+
+and favour him with high spiritual knowledge when his soul rests in Him.
+</details>
+
 'तेन प्रद्योतेनैष आत्मा निष्क्रामति' (बृ.उ.६४-२) इति हि श्रूयते ।  
+
+<details><summary>English</summary>
+
+The Finite soul enters on its journey towards Iswara by the light shown by Him.
+</details>
+
 अतः तदा बोधसिद्धिः ।
 
 **माम्** - स्वरूपरूपगुणविभवान्वितम् एव इति विषयान्तरकालुष्यविरह उक्तः ।  
+
+<details><summary>English</summary>
+
+The word "Maam" refers to Iswara with His natural personality, resplendent form, His attributes and His Vibhutis. Eva indicates that at that time the Jeeva is not disturbed by any other thoughts.
+</details>
+
 **अवलोकयन्** साक्षात्कुर्वन् ।
+
+<details><summary>English</summary>
+
+Avalokayan: Having a Direct vision of Iswara.
+</details>
 
 </details>
 
@@ -758,7 +869,20 @@ You shall reside in Srirangam till the body falls to the ground (death).
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-**अप्रच्युत** इति गुरूपदेशादिजन्यसंस्कारः । भगवत्प्राप्तीच्छा च अप्रच्युते यस्य स तथोक्तः ।
+**अप्रच्युत** इति गुरूपदेशादिजन्यसंस्कारः । 
+
+<details><summary>English</summary>
+
+Aprachyuta denotes a person with the full and undiminished impression on the memory produced by the teachings of Acharya etc.,
+</details>
+
+भगवत्प्राप्तीच्छा च अप्रच्युते यस्य स तथोक्तः ।
+
+<details><summary>English</summary>
+
+and the desire to attain Iswara.
+</details>
+
 </details>
 
 <details><summary>वेङ्कट-नाथः</summary>
@@ -831,9 +955,22 @@ You shall reside in Srirangam till the body falls to the ground (death).
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-तदानीमेव - प्रकृतिं विमोक्षा [^1_pg73]नन्तरमेव । उपरि पूर्ववत् । 
+तदानीमेव - प्रकृतिं विमोक्षा [^1_pg73]नन्तरमेव । 
+
+<details><summary>English</summary>
+
+Tadaaneem eva without delay - Directly the bonds of Prakrti are released.
+</details>
 
 [^1_pg73]: विमोका - आ ।
+
+उपरि पूर्ववत् । 
+
+<details><summary>English</summary>
+
+(The rest of the passage has been explained already).
+</details>
+
 </details>
 
 <details><summary>वेङ्कट-नाथः</summary>
@@ -876,6 +1013,13 @@ You shall reside in Srirangam till the body falls to the ground (death).
 <details><summary>सुदर्शन-भट्टः</summary>
 
 इदमाश्वासनवाक्यमिति न संशयितव्यम् इत्याह मा ते भूत् इति ।
+
+<details><summary>English</summary>
+
+Ma Te bhoot Atra Samsaya: These are words of assurance that what was said already is not mere words of consolation.
+</details>
+
+
 </details>
 
 <details><summary>वेङ्कट-नाथः</summary>
@@ -919,7 +1063,34 @@ You shall reside in Srirangam till the body falls to the ground (death).
 
 <details><summary>सुदर्शन-भट्टः</summary>
 
-अनृतस्यानुक्तत्वमाह - अनृतम् इति । उक्तस्य दृढत्वमाह - रामो द्विः इति । न केवलं तव । अन्येषामपि मयोक्तमिति आह सकृत् इति । अवतारद्वयेऽपि वचनद्वयम् ।
+अनृतस्यानुक्तत्वमाह - अनृतम् इति । 
+
+<details><summary>English</summary>
+
+Anrtam, etc.-The first quotation says that He never tells a lie.
+</details>
+
+उक्तस्य दृढत्वमाह - रामो द्विः इति । 
+
+<details><summary>English</summary>
+
+The second is just to confirm the assurance. He has given before.
+</details>
+
+न केवलं तव । अन्येषामपि मयोक्तमिति आह सकृत् इति । 
+
+<details><summary>English</summary>
+
+Sakrteva, etc. The assurance is for the whole world.
+</details>
+
+अवतारद्वयेऽपि वचनद्वयम् ।
+
+<details><summary>English</summary>
+
+[The quotations are from Ramayana and Mahabharata, the first by Rama, and the other by Krishna.]
+</details>
+
 </details>
 
 <details><summary>वेङ्कट-नाथः</summary>
@@ -954,11 +1125,32 @@ You shall reside in Srirangam till the body falls to the ground (death).
 <details><summary>सुदर्शन-भट्टः</summary>
 
 अतः भक्तिसाध्यं प्रपत्त्यैव लभ्यमिति निर्भरेण त्वया भवितव्यमित्याह - **अतस्त्वम्** इति ।  
+
+<details><summary>English</summary>
+
+Ata: Tvam - What may be attained by Bhakti Yoga can also be attained by Prapatti is indicated by these and the words following. "Rest in assured and peaceful Mind."
+</details>
+
 आचार्यतो लब्धं ज्ञानं यथा तत्त्वविषयमिति - न संशयः,
 
 तथा भाविन्योर्दर्शनप्राप्नोरपि निस्संशय इत्यर्थः ॥  
+
+<details><summary>English</summary>
+
+Sukham Aaswa. - A question is raised here as to whether Gnaana referred to in the passage is one to be acquired hereafter. No, the Gnaana has been gained already by the teachings of the Acharyas and that gnaana is true knowledge. Just as that knowledge is true and truly attained, the next stages of Direct Vision and Absolute Attainment are certain; rest assured.
+
+(Here Nigamanta Desika gives the solution in a different way - Gnana referred to here is the confirmation of that knowledge acquired Acharyas unimpaired.)
+
+</details>
+
 ॥ इति श्रीहारीतकुलतिलकस्य श्रीरङ्गराजदिव्याज्ञालब्ध-  
 श्रीवेदव्यासभट्टारकापरनामधेयस्य श्रीमत्सुदर्शनाचार्यस्य कृतिषु श्रुतप्रकाशिकाभिधानं शरणागतिगद्यव्याख्यानं सम्पूर्णम् ॥  
+
+<details><summary>English</summary>
+
+Thus ends the commentary by Srutaprakaasika Acharya of Saranaagathi Gadya.
+</details>
+
 ॥ श्रीमते रामानुजाय नमः ॥
 </details>
 

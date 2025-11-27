@@ -50,55 +50,6 @@ Sri Saranagati.
 
 
 
-15. ' तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते । प्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः ॥ उदाराः सर्व एवैते ज्ञानी त्वात्मैंव मे 
-मतम् । आस्थितः सहि युक्तात्मा मामेवानुत्तमां गतिम् ॥ बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते । वासुदेवस्सर्वमिति स महात्मा 
-- इति श्लोकत्रयोदितज्ञानिनं मां कुरुष्व । पुरुष: स परः पार्थ भक्त्या लभ्यस्त्वनन्यया', 
-सुदुर्लभः ॥ 
-स्वनन्यया शक्य: ', 
-भक्तियुक्त मां कुरुष्व । 
-6 
-" भक्त्या 
-मद्भक्तिं लभते पराम्' इति स्थानत्रयोदितपर- 
-परभक्तिपरज्ञानपरमभक्त्येकस्वभावं मां कुरुष्व । 
-38 
-परभक्तिपरज्ञानपरमभक्तिकृतपरिपूर्णानवरत नित्यविशदतमअनन्यप्रयोजनानवधिकातिशयप्रियभगवदनुभवोऽहं तथाविधभगवदनुभवजनितानवधिकातिशयप्रीतिकारिताशेषावस्थोचिताशेषशेषतैकर तिरूपनित्य किङ्करो 
-भवानि । 
-
-
-16. एवंभूतमत्कैङ्कर्यप्राप्त्युपायतयावक्लृप्त समस्तवस्तुविहीनोऽपि, अनन्ततद्विरोधिपापाक्रान्तोऽपि, अनन्तमदपचारयुक्तोऽपि, अनन्तमदीयापचारयुक्तोऽपि, अनन्तासह्यापचारयुक्तोऽपि, एतत्कार्यकारणभूतानादिविपरीताहङ्कारविमूढात्मस्वभावोऽपि एतदुभयकार्यकारणभूतानादिविपरीतवासनासम्बद्धोऽपि, एतदनुगुणप्रकृतिविशेषसंबद्धोऽपि, एतन्मूलाध्यात्मिकाधिभौतिकाधिदैविकसुखदुःखतद्धेतु तदितरोपेक्षणीय विषयानुभवज्ञानसंकोचरूपमच्चरणारविन्दयुगलैकान्तिकात्यन्तिकपरभक्तिपरज्ञानपरम - भक्तिविघ्नप्रतिहतोऽपि येन केनापि प्रकारेण द्वयवक्ता त्वं केवलं मदीययैव दयया निःशेषविनष्टसहेतुकमच्चरणारविन्दयुगलैकान्तिकात्यन्तिकपरभक्तिपरज्ञानपरमभक्तिविघ्नः, मत्प्रसादलब्धमच्चरणारविन्दयुगलैकान्तिकात्यन्तिकपर भक्तिपरज्ञानपरमभक्तिः, मत्प्रसादादेव साक्षात्कृतयथाव - स्थितमत्स्वरूपरूपगुणविभूतिलीलोपकारणविस्तारः अपरोक्षसिद्धमन्नियाम्यतामद्दास्यैकस्वभावात्मखरूपः, मदेकानुभवः, मद्दास्यैकप्रियः, परिपूर्णानवरतनित्यविशदतमानन्यप्रयोजनानवाधिकातिशयप्रियमद नुभवः त्वं, तथाविधमदनुभवजनितानवधिकातिशयप्रीतिकारिताशेषावस्थोचिताशेषशेषतै करतिरूपनित्यकिङ्करो भव । एवंभूतोऽसि । 
-42 
-COMMENTARY 
-el foid b 16. In response to the prayer, the Lord grants the prayer by the passage following:-"Yevamboota 
-99 
-Heenopi" conveys in substance the purport of the meaning of the first paada of the Charama Sloka. "Sarva Dharmaan Parityajya." Avaklupta means injuncted by the Saastra-"Samasta Vastu Viheena: means though not qualified by having performed, Karma Yoga, Gnana Yoga and Bhakti Yoga and not acquired the subsidiary qualifications mentioned in the Geeta (Amaanitvam). "Viheena" conveys the idea that the Devottee had already given up Dharmas as implied in the Tyaaga in the Charama all Sloka. By the words. the "Ananta, etc.", it is sought. to convey the idea ingrained in the preposition "Pari" in Parityaga.' (Pari 
-(Pari means completely.) In fact, the helpless Prapanna is unable to perform the three Yogas on account of his sinful Karmas and hence he has to give them up on account of this inability (to do it even in future). 
-Karmas which are enemies of salvation are so These sinful heinous in character that he has lost all hopes of being able to perform the Yogas at any time in future. All this is conveyed by the prefix 'Pari.' Yetat Kaarya Kaarana Bhoota' denotes the Nyaya "The tree from the seed", each is Kaarya and Kaarana also. The adjective Vipareeta is in connection with "Ahankaara" with the object of not excluding all Ahankaras, but some varieties of them (e.g. that body is the soul) For, some kinds of 
-43- 
-Ahankara are not objectionable. (e.g., 'I am Brahman i.e. that Brahman is the indweller in Me.") This is also found in the Sruti (Atha Atha: Ahankaara 
-" 
-Aadesa :) 
-The nature 
-"Vimoodha Aatma Swabhava:" of Atman (Finite Soul) is service-ship. This is hidden from the Jeeva. "Ubhaya Karya Karana"Ubhaya denotes both sin and ignorance "Sukha Duhkha Taddhetu: All undesirable things not fit to be enjoyed. 
-"Gnaana Sankocha: Ignorance of the true natureof Paramaatman and Jeevatman. This ignorance and the enjoyment of material objects are the obstructions (Vighna) stated later on. Ena Kenaapi Prakaarena: Whether as a person in a hurry to attain Moksha (Aartha) or one who is willing to delay (till the end of his life). 'Kevalam' - Only by My Grace and Mercy" irrespective of the feeling of anxiety or repentance of the Devotee." Eva in Madeeyaya eva is used to emphasise that only His Grace is responsible for the Devotee's salvation and Madeeya connotes that He does not need any other agency for showing His Grace. Visthaara: is used to show that when the Devotee gets the direct vision of God, it is not only of some of His qualities but all. 
-of them. 
-Thus far 
-the word Narayana has been expounded. Next follows the description of the-status of Jeeva, at the Moksha - a status which is 
-44 
-naturally his. - in the passage beginning with Aparoksha. 
-Manniyaamyatva includes both ideas 
-about Paramaatman-pervasiveness and support by Him Cf. "Oh! Gargi, Sun, Moon, etc. are supported by Him and controlled by Him." Thus, the idea that Jeevaatman is independant (of Him) is excluded. 
-Madeka Anubhava: Generally, a man follows actions which are in conformity with the status in which he considers himself to be. Here, when a devotee thinks himself to be the servant of the Lord, he engages himself in worship, etc., and thus enjoys Him. Eka emphasises that the service is directed only to Him and not to anything or anybody else. 
-Mad daasya eka Priya: Service to Him is pleasurable because the Lord is so High that He deserves all the worship that one can give Him. Eka emphasises that the Devotee will not desire for anything else but service. 
-Evam Bhutosi is in answer to a question arising in the mind of the Devotee (Sri Ramanuja) as to when should the state of service start? The past tense denotes that you have already become one or can become at any time desired. This is the great boon and gain. 
-Translation of Text 
-16. [Then the Lord answers the prayer and says to the Devotee :] 
-"You may not have all the requisite qualifications for attaining the state of being in my such 
-45 
-service; you may even be beset with sins which stand in your way of attaining My service); you may have sinned grievously against Me or against My people (Bhaagavatas) or committed unto me extremely grievous wrongs unforgivable. Your a disposition which disposition may be such hides Me from your vision i.e., Ahankara which is the cause and result of the above sins. You may be even affected by begginingless and perverted impressions and tendencies (inherited from previous births) which are the cause and result of your sins and of Ahankaara. You may be connected with Prakrti You may be even set (the cause of the above All). upon by obstructions to Para Bhakti, Para Gnana and Parama Bhakti-a Bhakti constant and onepointed towards the lotus like feet of Mine which obstructions consist of limited knowledge due to the enjoyment of external (material) things which are the objects of pleasure and sorrow or of neither; caused by bodily organs and outside objects (of the earth or divine), all these due to connection with Prakrti. 
-However, you have somehow or other uttered the words of Mantra, Dvaya. By My mere Mercy, you will be freed completely from the obstructions to Para Bhakti, Para Gnana, Parama Bhakti and You will also by My Grace obtain Para Bhakti, Para Gnana and Parama Bhakti and be favoured with the direct vision of Me, My Form My attributes, My Vibhootis and also of Moolaprakriti You will also realise which is My Playground. 
-their causes.46 
-directly and clearly your own nature (innate quality) i.e., being in ever service to Me and be controlled by Me. Then, finding your enjoyment in Me only and desirous of serving Me only and experiencing such enjoyment, (as stated above) full clear, eternal, with no goal other than Me and extremely pleasant, You will be My servant for ever and ever as stated above. Take it that you have become My servant as described above." 
-Lord's Injunction how Prapanna is to spend his days. 
 17. आध्यात्मिकाधिभौतिकाधिदैविकदुःखविघ्नगन्धरहितस्त्वं द्वयमर्थानुसंधानेन सह सदैवं वक्ता यावच्छरीरपातमत्रैव श्रीरङ्गे सुखमाख । 
 - 
 शरीरपातसमये तु केवलं मदीययैव दयया अतिप्रबुद्धो मामेवावलोकयन् अप्रच्युतपूर्व संस्कारमनोरथः, जीर्णमिव वस्त्रं सुखेनेमां प्रकृति स्थूलसूक्ष्परूपां विसृज्य, तदानीमेव मत्प्रसादलब्धमच्चरणारविन्दयुगलैकान्तिकात्यन्तिकपरभक्तिपरज्ञानपरमभक्तिकृतपरिपूर्णानवरतनित्य विशद - तमानन्यप्रयोजनानवधि कातिशयप्रियमदनुभवस्त्वं तथाविधमदनुभवजनि तानवधिकातिशयप्रीतिकारिताशेषावस्थोचिताशेषशेषतैकर तिरूपनित्य 
