@@ -49,70 +49,7 @@ Sri Saranagati.
 
 
 
-11. सत्यकाम ! सत्यसङ्कल्प ! 
-महाविभूते ! श्रीमन् ! नारायण ! वैकुण्ठनाथ ! अपारकारुण्यसौ- 
-शील्य वात्सल्यौदार्यैश्वर्यसौन्दर्यमहोदधे ! 
-परब्रह्मभूत ! पुरुषोत्तम ! 
-अनालोचितविशेषाशेषलोक- 
-शरण्य ! प्रणतार्तिहर ! आश्रितवात्सल्यैकजलवे ! अनवरतविदितनिखिल- 
-भूतजातयाथात्म्य ! अशेषचराचरभूतनिखिलनियमननिरत ! चिदचिद्वस्तुशेषीभूत ! निखिलजगदाधार ! अखिलजगत्स्वामिन् ! 
-अशेष 
-अस्मत्स्वामिन् ! सत्यकाम ! 
-अर्थिकल्पक ! आपत्सख ! 
-23 
-सत्यसङ्कल्प ! 
-सकलेतरविलक्षण ! 
-श्रीमन् ! नारायण ! अशरण्यशरण्य ! 
 
-
-12. अनन्यशरणस्त्वत्पादारविन्दयुगलं शरणमहं प्रपद्ये । 
-अत्र द्वयम् । 
-पितरं मातरं दारान् पुत्रान् बन्धून् सखीन् गुरून् । रत्नानि धनधान्यानि क्षेत्राणि च गृहाणि च ॥ 
-29 
-सर्वधर्मांश्च सन्त्यज्य सर्वकामांश्च साक्षरान् । लोकविकान्तचरणौ शरणं ते ऽवजं विभो ।। 
-त्वमेव माता च पिता त्वमेव त्वमेव बन्धुश्च गुरुस्त्वमेव । त्वमेव विद्या द्रविणं त्वमेव त्वमेव सर्वं मम देवदेव || पिताऽसि लोकस्य चराचरस्य त्वमस्य पूज्यश्च गुरुर्गरीयान् । न त्वत्समोऽस्त्यभ्यधिकः कुतोऽन्यो लोकत्रयेप्यप्रतिमप्रभाव ।। तस्मात्प्रणम्य प्रणिधाय कार्य प्रसादये त्वामहमीशमीड्यम् । पितेव पुत्रस्य सखेव सख्युः प्रियः प्रियायार्हसि देव सोढुम् || 
-
-
-
-13. मनोवाक्कायैरनादिकालप्रवृत्तानन्ताकृत्यकरणकृत्याकरणभगवदपचार भागवतापचारासह्यापचाररूपनानाविधानन्तापचारान् आरब्ध कार्यान् नारब्धकार्यान् कृतान् क्रियमाणान् करिष्यमाणांश्च सर्वानशेषतः क्षमख । अनादिकालप्रवृत्तं विपरीतज्ञानमात्मविषयं कृत्स्नजगद्विषयम् ; विपरीतवृत्तं चाशेषविषयमद्यापि वर्तमानं वर्तिष्यमाणं च सर्वं क्षमस्व । 
-33 
-COMMENTARY 
-(13) Sri Ramanuja then starts to expound the later portion of "Dvaya". In doing so, he first deals with the meaning of the word "Nama: "I salute". The word Nama: is taken first and even before the passage "Srimate Naraayanaya" (though it is earlier in sequence), because Good follows only after driving out the Evil. "Srimate Naraayanaya" indicates the attainment of Good, and Destruction of Evil. 
-"Nama," 
-Then Ramanuja prays for purification from his sins. Anaadikaala Pravrtta (collected over a long period of endless Time) is the reason for its being "Ananta." The earlier word Ananta is an adjective qualifying all kinds of Apachaara (offences-the doing of prohibited acts and omitting to do acts pres cribed, in general. The second Ananta qualifies Apachaara. After referring to offences generally in the first instance, Sri Ramanuja goes on to specific offences, in the passage beginning with "Bhagavat." Bhagavat Apachaara is an offence like, one committed by Sisupala. Bhaagavat Apachaaras are offences towards His devotees (may be in the matter of money and other causes) or it may be taken to mean that offences towards His Devotees are offences against Him also. That is denoted by Bhaagavat Apachaara. Offences against the Bhaktas or Bhaghavatas are Bhaagavata-Apachaara. [In the commentary the words Bhaaghavata Apachaara is repeated twice. But it makes the sense obscure and illogical. Hence one 
-3 
-34 
-of them is to be omitted. Otherwise offence against Bhagvan will be taken an offence against Bhaagavatas also.] 
-Asahya Apachaara means offences against Acharya or 
-it may mean offences committed against Bhaagavatas, believing that they are not His Devotees or it may mean the belief that the idols in the temples are not any different from ordinary play-dolls. By the word "Naanaa Vidha' is denoted that there are many sub-divisions in each of these various offences. The word "Sarva" is used to include all and every offences in its fold. Karmas have the capacity to make a man unfit for Vaidic ceremonies, to make him suffer the consequence of his sinful acts and to create in him a tendency to commit similar sinful acts. With a view not to exclude any of these categories, the word 
-"Aseshatha :" is used. 
-Next, Ramanuja prays to the Lord that He should forgive acts in form meritorious, but really sinful that may be committed by him. 
-Vipareetha Gnaana relating to Atman: this would consist of the knowledge that the Aatman and the world are entities that are not subject to control but independent entities by themselves, or that they are subject to the control of Gods other than Naraayana, or the idea that the things (which are really under the control of Bhagvaan) are under one's own service 
-35 
-or control. Even a meritorious act, if it arises out of the feeling that one's soul is an independent entity is one of perversity. When a man performs an act solely out of a desire for gain to himself or to his family, even that meritorious act as being the worship of Bhagvaan, Bhaagavatas, or other Gods, it is said to be Vipareetha Vrtta contained in the word 'Asesha.' 
-66 
-Adyapi Vartamaanam."-Even though clearly instructed by Acharya and though the knowledge gained is comprehensive, because of the inherited tendencies, which cannot be shaken off) Vipareetha Gnaana) and Vipareetha Vritta do result. Hence 
-46 
-Adyaapi." 
-Translation of Text 
-13. Pray grant me forgiveness without reserve of All my sins without exception, sins of various kinds, committed, being committed or to be committed-endless and beginningless, i.e. commission of acts forbidden, omission of acts enjoined to be performed, all committed by mind, or tongue or body towards Thee or Thine Devotees - unforgivable (so many in number) whether connected with acts started or not so started. Forgive me, Oh, Lord, my (poor) knowledge or action, however, 
-perverse. 
-- 
-sinsPrayer for being saved. 
-36 
-14. मदीयानादिकर्मप्रवाह प्रवृत्तां 
-भगवत्स्वरूपतिरोधानकरी विपरीतज्ञानजननीं स्वविषयायाश्च भोग्यबुद्धेर्जननीं देहेन्द्रियत्वेन भोग्यत्वेन सूक्ष्मरूपेण चावस्थितां दैवीं गुणमयीं मायां दासभूतः शरणागतोऽस्मि तवास्मि दास इति वक्तारं मां तारय । 
-COMMENTARY 
-(14) Then, Sri Ramanuja goes on to describe the Moolaprakrti in the passage beginning with the word "Madeeya." Karma is called "Anaadi" on account of the Nyaaya "Tree from the seed (Beejaankura Nyaaya) "Tirodhaana Kareem" reminds us of the passage in Geeta-"Gunamaya Samaavrta." Vipareeta Gnana is that knowledge which comprehends Deha (Body) as Aatman (Soul). The passage "Dehendriya" connotes that the Prakrti manifests itself as Bhogya (Enjoyable thing) and Bhogopakarana (means for enjoyment). The 
-"Daiveem" denotes that all these are for His word 
-recreative purposes. Daasabhootam is adjective qualifying "maam". (The other reading is Daasabhuta: This is adopted by Sri Desika and he renders an interesting meaning to the words. Dasabhuta: denotes OM; Saranagatosmi denotes Nama :-Tavasmi Dasa: denotes Naaraayanaya). 
-The first half of Dvayamantra is contained in its essence in Saranaagatosmi and the second half is in Tavaasmi Dasa: 
-44 
-37 
-Vaktaaram: Even an utterance of the words Bhava saranam" gets one to salvation. Cf. "Bhava Saranam itieerayanti.” 
-Translation of Text 
-14. “I am Thy servant. I have surrendered myself_unto Thee. Help me, Thy servant, Oh Lord! to cross over Thy Moolaprakruti, of Three Gunas which flow like a current of the beginningless and endless Karma which hides from my vision, Thy natural, Form and produces in me a perverted knowledge about Thee and a sense of (false) satisfaction in me in the enjoyment of material matters existing (in the world) in all manner of forms, subtle and gross-in body, senses and objects of enjoyment. 
-The Desired End-Eternal service. 
 15. ' तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते । प्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः ॥ उदाराः सर्व एवैते ज्ञानी त्वात्मैंव मे 
 मतम् । आस्थितः सहि युक्तात्मा मामेवानुत्तमां गतिम् ॥ बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते । वासुदेवस्सर्वमिति स महात्मा 
 - इति श्लोकत्रयोदितज्ञानिनं मां कुरुष्व । पुरुष: स परः पार्थ भक्त्या लभ्यस्त्वनन्यया', 
@@ -126,34 +63,8 @@ The Desired End-Eternal service.
 38 
 परभक्तिपरज्ञानपरमभक्तिकृतपरिपूर्णानवरत नित्यविशदतमअनन्यप्रयोजनानवधिकातिशयप्रियभगवदनुभवोऽहं तथाविधभगवदनुभवजनितानवधिकातिशयप्रीतिकारिताशेषावस्थोचिताशेषशेषतैकर तिरूपनित्य किङ्करो 
 भवानि । 
-COMMENTARY 
-(15) Next, Sri Ramanuja prays for the securing of the desired gains which are implied with the dative (fourth) case from Srimate Naarayanaaya contained in the Dvaya. Then a question arises as to whether in the case of a Prapanna (i.e., a person who has completely surrendered himself as a helpless person to Iswara), Parabhakti, Parag-nana and Paramabhakti are necessary steps for salvation. Because it is the accepted doctrine that by Prapatti alone Moksha is secured to the surrenderer. How then does Sri Ramanuja pray for Parabhakti etc.? Prapatti stands in the place of Parabhakti. In the previous passage "Maam Taaraya". Sri Ramanuja has made the surrender and so he is a Prapanna. So he does not intensely pray for Parabhatki but, only for the other two, i.e., Para Gnana and Paramabhakti so as to be obtainable by him during his life time here. Even in the case of a person engaged in Bhaktiyoga, these two are obtained by him during the time his connection with the body continues. They are, however, Upaaya (means) for salvation in his case. But in the case of a Prapanna they are not Upaayas but really gains (Upey as) obtainable just 
-39 
-before Moksha. Of these two, Paragnana is prayed for in the first instance by the passage Teshaam, etc. And by the next passage beginning with "Purusha: Sa Para:, Parama Bhakti is prayed for 
-and not Para Bhakti. 
-The words "Sthaana Traya" are used to denote that the passages are found disconnected and in three different places in Geeta. In the next sentence, he again refers to Parabhakti, Paragnana, Paramabhakti, but they are qualities attained by a Released soul only in the stage of Moksha. That is why, the qualification 
-pointed natural qualification-a stage not attainable 
-in Samsaara). 
-Next, Sri Ramanuja prays for that feeling of satisfaction arising out of the conscious experience of the Lord and also for its consequence i.e., various services to the Lord. (The next passage has been Seshataika Rati Roopa" is a already explained). 
-Bahuvrihi compound. 
-Translation of Text 
-15. Please, Oh! Lord, favour me and make me a Gnaani like the one described in the following 
-three Slokas: 
-Slokas: 
-(a) Of them (the four classes of Devotees), 
-the one who is steadfast and concen- 
-Ban 
-40 
-trates his devotion on me only is above the others-for to him I am excessively dear: So also is he dear to Me. 
-(b) Indeed, I consider: All these (the four classes) are generous; but of them the Gnani the wise is My Inner Self. He, being steadfast in his mind, rests on Me, as the Supreme Goal. 
-(c) At the end of many births, a man having realised that Vasudeva is the All, comes 
-to Me, He is Mahatma, rare indeed to find. 
-Also make me endowed with Parabhakti described in the following three passages in Bhaghavad Geeta :- 
-(i) Oh Arjuna! That Supreme (Person is attainable only by Bhakti undistracted. (ii) He is to be attained only by Bhakti which seeks no other benefit than that of attaining Him. 
-(iii) He obtains that supreme devotion to Me." Make me also endowed with constant Para Bhakti, Para Gnaana and Parama Bhakati. I pray that I may become Thy servant in ever constant service to Thee-I having acquired the experience of the Lord, i.e., full and clear and constant, highly desired, having no other object in view and produced by Para Bhakti, Para Gnana and Parama Bhakti, a 
-41 
-service which is the result of great urge to perform services of all forms suited to the conditions and circumstances of the moment, which are produced by the unlimited love and devotion to Thee arising out of the experience as stated above. 
-Prayer answeredRedemption. 
+
+
 16. एवंभूतमत्कैङ्कर्यप्राप्त्युपायतयावक्लृप्त समस्तवस्तुविहीनोऽपि, अनन्ततद्विरोधिपापाक्रान्तोऽपि, अनन्तमदपचारयुक्तोऽपि, अनन्तमदीयापचारयुक्तोऽपि, अनन्तासह्यापचारयुक्तोऽपि, एतत्कार्यकारणभूतानादिविपरीताहङ्कारविमूढात्मस्वभावोऽपि एतदुभयकार्यकारणभूतानादिविपरीतवासनासम्बद्धोऽपि, एतदनुगुणप्रकृतिविशेषसंबद्धोऽपि, एतन्मूलाध्यात्मिकाधिभौतिकाधिदैविकसुखदुःखतद्धेतु तदितरोपेक्षणीय विषयानुभवज्ञानसंकोचरूपमच्चरणारविन्दयुगलैकान्तिकात्यन्तिकपरभक्तिपरज्ञानपरम - भक्तिविघ्नप्रतिहतोऽपि येन केनापि प्रकारेण द्वयवक्ता त्वं केवलं मदीययैव दयया निःशेषविनष्टसहेतुकमच्चरणारविन्दयुगलैकान्तिकात्यन्तिकपरभक्तिपरज्ञानपरमभक्तिविघ्नः, मत्प्रसादलब्धमच्चरणारविन्दयुगलैकान्तिकात्यन्तिकपर भक्तिपरज्ञानपरमभक्तिः, मत्प्रसादादेव साक्षात्कृतयथाव - स्थितमत्स्वरूपरूपगुणविभूतिलीलोपकारणविस्तारः अपरोक्षसिद्धमन्नियाम्यतामद्दास्यैकस्वभावात्मखरूपः, मदेकानुभवः, मद्दास्यैकप्रियः, परिपूर्णानवरतनित्यविशदतमानन्यप्रयोजनानवाधिकातिशयप्रियमद नुभवः त्वं, तथाविधमदनुभवजनितानवधिकातिशयप्रीतिकारिताशेषावस्थोचिताशेषशेषतै करतिरूपनित्यकिङ्करो भव । एवंभूतोऽसि । 
 42 
 COMMENTARY 

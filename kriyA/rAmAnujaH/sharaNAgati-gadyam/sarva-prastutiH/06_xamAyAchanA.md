@@ -110,9 +110,6 @@ or it may mean the Prayer preceded by the supreme Faith.
 सर्वान् अशेषतः **क्षमस्व** ॥ ११ ॥  
 </details>
 
-""
-""
-""
 <details><summary>सुदर्शन-भट्टः</summary>
 
 अथोत्तरखण्डं विवृण्वन्  
@@ -120,28 +117,96 @@ or it may mean the Prayer preceded by the supreme Faith.
 अनिष्ट-निवृत्ति-पूर्वकत्व-रूपार्थ-क्रमात्  
 प्रथमं **नमश्**-शब्दार्थम् आह  
 **मन** इत्य्-आदिना ।  
+
+<details><summary>English</summary>
+
+Sri Ramanuja then starts to expound the later portion of "Dvaya". In doing so, he first deals with the meaning of the word "Nama: "I salute". The word Nama: is taken first and even before the passage "Srimate Naraayanaya" (though it is earlier in sequence), because Good follows only after driving out the Evil. "Srimate Naraayanaya" indicates the attainment of Good, and "Nama," Destruction of Evil.
+</details>
+
 **अनादि-काल-प्रवृत्तत्त्वम्** आनन्त्यहेतुः ।  
+
+<details><summary>English</summary>
+
+Then Ramanuja prays for purification from his sins. Anaadikaala Pravrtta (collected over a long period of endless Time) is the reason for its being "Ananta."
+</details>
+
 प्रथमम् **अनन्त**-शब्दः सामान्यापराध-विशेषणम् ।  
+
+<details><summary>English</summary>
+
+The earlier word Ananta is an adjective qualifying all kinds of Apachaara (offences-the doing of prohibited acts and omitting to do acts prescribed,) in general.
+</details>
 
 सामान्यापराधम् उक्त्वा विशेषापराधमाह - **भगवत्** इति ।
 
+<details><summary>English</summary>
+
+The second Ananta qualifies Apachaara. After referring to offences generally in the first instance, Sri Ramanuja goes on to specific offences, in the passage beginning with "Bhagavat."
+</details>
+
 **भगवद्-अपचारः** - शिशुपालादिकृतः ।  
+
+<details><summary>English</summary>
+
+Bhagavat Apachaara is an offence like, one committed by Sisupala.
+</details>
+
 **भागवतापचारः** तु भागवत-विषये अर्थादि-निमित्तान्तरेण कृतः ।  
+
+<details><summary>English</summary>
+
+Bhaagavat Apachaaras are offences towards His devotees (may be in the matter of money and other causes)
+</details>
+
 **भागवतापचारः** - भगवद्-अपचारः,  
 **भगवदपचारो** - भागवतापचार इति ।  
+
+<details><summary>English</summary>
+
+or it may be taken to mean that offences towards His Devotees are offences against Him also. That is denoted by Bhaagavat Apachaara. Offences against the Bhaktas or Bhaghavatas are Bhaagavata-Apachaara. [In the commentary the words Bhaaghavata Apachaara is repeated twice. But it makes the sense obscure and illogical. Hence one of them is to be omitted. Otherwise offence against Bhagvan will be taken an offence against Bhaagavatas also.]
+</details>
+
 भागवत-भक्त-विषयापचारः - **असह्यापचारः**,  
 आचार्य-विषयापराधो वा ,  
 भागवते अभागवतत्व-निमित्तापराधो[^1_pg54] वा,  
 अर्चावतार-विग्रहस्य अवैलक्षण्य-प्रतिपत्तिर् वा ।  
 
-ऐकैककोट्य्-अवान्तर-भिदा-परो **नानाविध**-शब्दः ।
+<details><summary>English</summary>
+
+Asahya Apachaara means offences against Acharya or it may mean offences committed against Bhaagavatas, believing that they are not His Devotees or it may mean the belief that the idols in the temples are not any different from ordinary play-dolls.
+</details>
 
 [^1_pg54]: पचारो - इ।
 
+ऐकैककोट्य्-अवान्तर-भिदा-परो **नानाविध**-शब्दः ।
+
+<details><summary>English</summary>
+
+By the word "Naanaa Vidha' is denoted that there are many sub-divisions in each of these various offences.
+</details>
+
 **सर्व**-शब्दः अपराधव्यक्तिकार्त्स्न्यपरः ।  
+
+<details><summary>English</summary>
+
+The word "Sarva" is used to include all and every offences in its fold.
+</details>
+
 कर्मणां वैदिककर्मानर्हतापादनशक्तिः,  
 प्रत्यवायकरत्व-शक्तिः वासना-जनकत्व-शक्तिश् चास्ति ।  
+
+<details><summary>English</summary>
+
+Karmas have the capacity to make a man unfit for Vaidic ceremonies, to make him suffer the consequence of his sinful acts and to create in him a tendency to commit similar sinful acts.
+</details>
+
 तत्र अन्यतम-शक्ति-मात्रं क्षमा-विषयो मा भूद् इति **अशेषत** इत्युक्तम् ।
+
+<details><summary>English</summary>
+
+With a view not to exclude any of these categories, the word "Aseshatha :" is used.
+</details>
+
 </details>
 
 <details><summary>वेङ्कट-नाथः</summary>
@@ -226,15 +291,45 @@ or it may mean the Prayer preceded by the supreme Faith.
 
 अथ मोक्षविरोधि पुण्यपापरूपम्[^1_pg56] क्षामयति **अनादि** इति । 
 
-आत्मनो जगतश्च स्वातन्त्र्यधीः, देवतान्तरशेषत्वधीः भगवच्छेषवस्तुनि, स्वशेषत्वधीश्च विपरीतज्ञानम् । पुण्यञ्च स्वतन्त्रात्मधीमूलत्वात् भ्रान्तिमूलम् । भगवद्भागवतदेवतान्तरभजनरूपं स्वार्थं स्वपुत्राद्यर्थञ्च यत्पुण्यं तत् - अशेषविषयम् विपरीत वृत्तम्[^2_pg56] इत्युच्यते[^3_pg56] । आचार्यसेवादिना शास्त्रजन्यज्ञाने सम्पन्नेऽपि वासनावशात् अनुवर्तमानम् इत्यभिप्रायेणोक्तम् अद्यापि वर्तमानम् इति ।
+<details><summary>English</summary>
+
+Next, Ramanuja prays to the Lord that He should forgive acts in form meritorious, but really sinful that may be committed by him.
+</details>
 
 [^1_pg56]: पुण्यरूपम्पापम् - इ ।
 
+आत्मनो जगतश्च स्वातन्त्र्यधीः, देवतान्तरशेषत्वधीः भगवच्छेषवस्तुनि, स्वशेषत्वधीश्च विपरीतज्ञानम् । 
+
+<details><summary>English</summary>
+
+Vipareetha Gnaana relating to Atman: this would consist of the knowledge that the Aatman and the world are entities that are not subject to control but independent entities by themselves, or that they are subject to the control of Gods other than Naraayana, or the idea that the things (which are really under the control of Bhagvaan) are under one's own service or control.
+</details>
+
+पुण्यञ्च स्वतन्त्रात्मधीमूलत्वात् भ्रान्तिमूलम् । 
+
+<details><summary>English</summary>
+
+Even a meritorious act, if it arises out of the feeling that one's soul is an independent entity is one of perversity.
+</details>
+
+भगवद्भागवतदेवतान्तरभजनरूपं स्वार्थं स्वपुत्राद्यर्थञ्च यत्पुण्यं तत् - अशेषविषयम् विपरीत वृत्तम्[^2_pg56] इत्युच्यते[^3_pg56] । 
+
+<details><summary>English</summary>
+
+When a man performs an act solely out of a desire for gain to himself or to his family, even that meritorious act as being the worship of Bhagvaan, Bhaagavatas, or other Gods, it is said to be Vipareetha Vrtta contained in the word 'Asesha.'
+</details>
 
 [^2_pg56]: विषयम् - इ ।
 
 
 [^3_pg56]: उच्यते - इ ।
+
+आचार्यसेवादिना शास्त्रजन्यज्ञाने सम्पन्नेऽपि वासनावशात् अनुवर्तमानम् इत्यभिप्रायेणोक्तम् अद्यापि वर्तमानम् इति ।
+
+<details><summary>English</summary>
+
+"Adyapi Vartamaanam."-Even though clearly instructed by Acharya and though the knowledge gained is comprehensive, because of the inherited tendencies, which cannot be shaken off (Vipareetha Gnaana) and Vipareetha Vritta do result. Hence "Adyaapi."
+</details>
 
 </details>
 
