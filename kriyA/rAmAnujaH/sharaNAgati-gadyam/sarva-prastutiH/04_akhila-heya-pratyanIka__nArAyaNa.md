@@ -410,7 +410,7 @@ a feeling of apprehension when they are not present at any place.
 
 मनोवाक्कायैकरूप्यम् - आर्जवम् । 
 
-<details><summary>English</details>
+<details><summary>English</summary>
 
 Aarjava denotes perfect correlation of mind, speech and body in action.
 
