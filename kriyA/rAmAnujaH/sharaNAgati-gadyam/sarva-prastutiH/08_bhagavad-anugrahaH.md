@@ -624,6 +624,14 @@ This is the great boon and gain.
 
 </details>
 
+<details><summary>English</summary>
+
+(16) [Then the Lord answers the prayer and says to the Devotee :] 
+
+"You may not have all the requisite qualifications for attaining the state of being in my such service; you may even be beset with sins which stand in your way (of attaining My service); you may have sinned grievously against Me or against My people (Bhaagavatas) or committed unto me extremely grievous wrongs unforgivable. Your disposition may be such disposition which hides Me from your vision i.e., Ahankara which is the cause and result of the above sins. You may be even affected by begginingless and perverted impressions and tendencies (inherited from previous births) which are the cause and result of your sins and of Ahankaara. You may be connected with Prakrti (the cause of the above All). You may be even set upon by obstructions to Para Bhakti, Para Gnana and Parama Bhakti - a Bhakti constant and onepointed towards the lotus like feet of Mine which obstructions consist of limited knowledge due to the enjoyment of external (material) things which are the objects of pleasure and sorrow or of neither; caused by bodily organs and outside objects (of the earth or divine), all these due to connection with Prakrti. 
+
+However, you have somehow or other uttered the words of Mantra, Dvaya. By My mere Mercy, you will be freed completely from the obstructions to Para Bhakti, Para Gnana, Parama Bhakti and their causes. You will also by My Grace obtain Para Bhakti, Para Gnana and Parama Bhakti and be favoured with the direct vision of Me, My Form My attributes, My Vibhootis and also of Moolaprakriti which is My Playground. You will also realise directly and clearly your own nature (innate quality) i.e., being in ever service to Me and be controlled by Me. Then, finding your enjoyment in Me only and desirous of serving Me only and experiencing such enjoyment, (as stated above) full clear, eternal, with no goal other than Me and extremely pleasant, You will be My servant for ever and ever as stated above. Take it that you have become My servant as described above." 
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -994,6 +1002,14 @@ Tadaaneem eva without delay - Directly the bonds of Prakrti are released.
 अशेष-शेषता+एक-रति-रूप-**नित्य-किङ्करः भविष्यसि** ॥ २१ ॥  
 </details>
 
+<details><summary>English</summary>
+
+(17) Thus relieved and not troubled by the obstructions in the least degree, which are the cause of wordly or divine griefs and sorrows, always uttering Dwaya Mantra with full understanding of its meaning and significance, you shall reside in Sriranga till the body falls to the ground (death). 
+
+You will, by My Grace, attain true knowledge with no diminution of your capacities of consciousness of desires (to go to heaven) and shaking off easily this mortal coil (body) both physical and subtle, you will at once attain the privilege of constant and ever service (as stated above). 
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 तथाविध मदनुभवजनित अनवधिकातिशय प्रीतिकारित अशेषावस्थोचित अशेषशेषतैकरतिरूप नित्यकिङ्करो भविष्यसि । २१ ॥  
@@ -1105,6 +1121,12 @@ Sakrteva, etc. The assurance is for the whole world.
 इदं मोक्षप्रदानोत्सुकेन **मयेवोक्तम्**, न तु मदादेशभूतदुरधिगमार्थवेदमुखेन वा सम्भवद् भ्रमादिदोषपुरुषान्तरमुखेन वेत्याहमयैव ह्युक्तम् इति । **हि** प्रसिद्धौ हेतौ वा ।
 </details>
 
+<details><summary>English</summary>
+
+(18) [Assurance by the Lord] Entertain no doubt about it. "I have never uttered nor shall I ever utter a falsehood." "Rama never speaks in two voices." "Have I not already given the assurance?"  "Him who even once bows to Me saying that I am Thine, I grant him shelter and protection from all (evils). This is my vow." "Renounce all Dharmas and surrender unto Me only. I shall save you from  all sins. Don't grieve." Therefore, you may rest free of doubt or fear in the matter of obtaining true knowledge about Me, True Realisation and attainment of Me." 
+
+Thus ends the translation of the original text ot the Saranaagati Gadya.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1193,7 +1215,6 @@ _यावच्छरीरपातम्_ इति पूर्वोक्�
 [^2_pg74]: भवेदिति - अ ।
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 

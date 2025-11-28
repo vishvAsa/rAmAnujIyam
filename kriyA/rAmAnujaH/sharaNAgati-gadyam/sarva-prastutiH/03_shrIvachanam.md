@@ -532,6 +532,11 @@ Source: [1902 mysore](https://archive.org/details/gadyatrayamramanujacharyasruta
 [^3_pg22]: रजःकार्यव्युदासाय - अ ।
 </details>
 
+<details><summary>English</summary>
+
+(2) Pray Thee, bless my sincere and real Saranaagati at the Lotus Feet of Bhagavan so that it may become well and truly performed with all its angas (formalities) and be continued and without interruption till the goal of Purushaartha is reached. This with the object of securing for myself the privilege of the occupation of ever-service to the Lord. i.e. the satisfaction derived in all forms and kinds of service always suited to the conditions and circumstances of the moments and which is the result of boundless intense devotion born out of the experience of enjoyment of the Lord that is, the unbounded limitless, unselfish love for no other end but that of service direct Him,- A love perfect, enjoyed fully in all His manifestations, not now but continuously with no interruption - This again promoted by the sincere one-pointed and ever intense Para Bhakti, (i.e. the desire for His Vision) Para Jnaana (direct perception of God) Parama Bhakti (the longing to have that perception continued for ever) - Bhakti at the Lotus Feet of the Lord. [This prayer Sri is acceded to by Her.] 
+</details>
+
 <details><summary>FX Clooney</summary>
 
 Pray Thee, bless my sincere and real SaraNAgati at the lotus feet of BhagavAn so that it may become well and truly performed with all its angAs (formalities) and be continued, without interruption till the goal of PurushArtha is reached.
@@ -634,6 +639,11 @@ The words "Sarva" in Sarvam Sampatsyate is used to denote that not only the supp
 
 </details>
 
+<details><summary>English</summary>
+
+Says Sri:-"So shall it be, Thus done, All is attained," 
+
+</details>
 
 
 <details><summary>FX Clooney</summary>

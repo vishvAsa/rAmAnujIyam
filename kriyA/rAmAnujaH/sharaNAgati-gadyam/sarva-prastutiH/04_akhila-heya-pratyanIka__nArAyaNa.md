@@ -82,6 +82,11 @@ Besides, Kalyaana means also good not only to one's self but also to others.
 
 </details>
 
+<details><summary>English</summary>
+
+(3) [Then follows invocations to the Lord with a description of all His qualities, His divine Form, and His weapons, etc.] 
+</details>
+
 
 <details><summary>FX Clooney</summary>
 
@@ -262,6 +267,11 @@ Adi may denote other beauties, like, roundness of limbs length of arms.
 
 यौवनम् इह न कालकृतावस्था, किन्तु तादृशो विग्रहस्वभावः । तद्यौवनस्य नित्यत्वात् । अन्येषामपि हि यौवने कौमारानन्तरभावित्वमुपलक्षणमात्रमेव। युवतयैव केषाञ्चिदुत्पत्तिश्रवणात्, **आदि-**-शब्देन शुभाश्रयादिप्रकरणोक्त सर्वगुणसङ्ग्रहः, तत एवाऽनन्त्यम् । **निधि**-शब्द इह आश्रयपरो निरतिशय भोग्यत्वव्यञ्जकश्च । एवमुपकारकतमत्वाद्यभिप्रायेण गुणेभ्यः पूर्वं विग्रह उक्तः ।
 
+</details>
+
+<details><summary>English</summary>
+
+*[With no person to surrender myself to, I take shelter unto Thine lotus feet, Oh Sriman Naraayana!, the refuge of all the Helpless] the Enemy of all Evil and the Abode of all beneficient qualities, perfect embodiment (distinct from the forms of all other things) of immeasurable knowledge and of Bliss, bearing a form agreeable to Thee, Worthy of Thee, unchanging, beyond the reach of thought, Divine in essence wonderful to behold; Ever existing pure and Unsullied; pre-eminently Excellent, of Brilliant Loveliness; Sweet smelling, Charming with the prime of Youthfulness-indeed a Form full of such and a whole treasure of excellences. 
 </details>
 
 
@@ -736,6 +746,11 @@ indeed, without such refuge, they have no value.
 
 </details>
 
+<details><summary>English</summary>
+
+(4) Thou art the Ocean unto which flow rivers of limitless excellent Virtues, all natural to Thee, and useful for the protection of the Devotees, such as, All knowledge, Mighty rulership of the worlds, Untiring virility; Power to act without any outside help; Kind disposition, like that of a cow to its calf. Affectionate tenderness; Gentleness; Truthfulness in Mind and speech and body, Friendliness, Feeling of Equality, Mercifulnesss, Sweetness, Nobility, Generosity, Quickness to respond to the miseries of the Devotees, Firmness in Thy resolve to protect Devotees, Undaunted courage to bring succour to them, Courage to fight for the Devotees: Ability to fight the enemies within their own one camp; Having Thine will ever fuifilled, Having Thy commands irresistable, Thy Deeds fully executed - Always remembering with gratitude (even a little worship) done to Thee. 
+</details>
+
 
 <details><summary>FX Clooney</summary>
 
@@ -887,6 +902,11 @@ Divya means divine, not the ordinary kind the word is to be taken to quality all
 [^3_pg34]: देवताध्यानेन अ ।
 </details>
 
+<details><summary>English</summary>
+
+(5) Oh! Narayna! Thou art decorated with all sorts and kinds of ornaments, Worthy of Thee, Most wonderful to behold, Ever lasting, Faultless, Sweet smelling, Soft to touch, Wonderfully splendourous, such as, the Crown bearing the central diadam of lustrous stone, other head ornaments, ear ornaments, necklaces and neck ornaments, garlands, shoulder-bracelets and bracelets in the hands, Sri Vatsa and Kaustubha, pearl garlands, waistlets, lace cloths, gold waist band and leg ornaments and others precious and innumerable. 
+</details>
+
 
 <details><summary>FX Clooney</summary>
 
@@ -1008,6 +1028,12 @@ Then comes a passage which describes the splendid attributes of Sri and ends by 
 
 </details>
 
+<details><summary>English</summary>
+
+(6) Oh! Narayana, Thou bearest also various weapons of par-excellent powers, and worthy of Thee i.e. the Conch, the Discus, the Mace, the Sword and the Bow and such like other innumerable auspicious divine weapons of exceeding all others in power and Force. 
+
+</details>
+
 
 <details><summary>FX Clooney</summary>
 
@@ -1074,6 +1100,11 @@ Accordingly, it is said in Sri Guna Ratnakosa that Laxshmi pleases Her Lord by m
 
 </details>
 
+<details><summary>English</summary>
+
+(7) Thou art also the Consort of Sri with a form harmonising, with Thine and of highly beneficeient qualities, such as Glory, Rulership with unenumerable excellent qualities; Thou art also the consort of Bhoo Devi, and Neelaa Devi, possessed of similar qualities. 
+
+</details>
 
 
 <details><summary>FX Clooney</summary>
@@ -1242,6 +1273,12 @@ Enjoyability is its natural attribute.
 तत्तत्सेवाविशेषनियतासङ्ख्यातावान्तरेच्छादिवैचित्र्याभिप्रायेण **अनन्तगुणगण**-शब्दः । शेषादीनां विशेषाः 'तया सहासीनम्' (स्तो. र. ३९) इत्य्-आदि श्लोकेषु द्रष्टव्याः । आसन-वाहन-सेनेश-द्वारपालादिभेदेन नानाविधत्वम्। अनन्तत्वम् इहासङ्ख्यातत्वम् । इह परिजनाः - छत्रधारकादयः । परिचारिकाः अनुग्रहविमलाद्याः । तथा कान्तिवारुणीसूत्रवतीरुद्रासुकीर्ति प्रभृतयः शेषादिपत्न्यः । ता अपि हि तेषां यथार्हं सान्तःपुरस्वामि सेवाविशेषार्था एव[^2_pg37] | एवं 'गुणैर्दास्यमुपागतः' (रा. कि. ४-१२) इति न्यायेन स्वामिविग्रहगुणैरपि कैङ्कर्ये प्रेरितत्वमभिप्रेत्याह परिचरितचरणयुगल इति ।
 </details>
 
+<details><summary>English</summary>
+
+(8) Thou possessest also innumerable followers and servants, male and female, to minister to Thy wants and comforts, waiting at Thine Feet, whose form, existence and actions are due to Thine will; they are, Aadisesha, Vishvaksena, Garuda, who are endowed with host of beneficient virtues, Unperishing. Pure, Of limitless wisdom and energy for action, Endowed with power to direct and maintain. 
+
+</details>
+
 
 <details><summary>FX Clooney</summary>
 
@@ -1356,6 +1393,12 @@ Niratisaya the word nothing higher than this, meaning something like Anuttama.
 
 </details>
 
+<details><summary>English</summary>
+
+(9) Thou art also the Lord of Vaikuntha, the Eternal, Faultless, Unmeasurable World, beyond the speech or the minds of even the holy Yogins - a Country dear to Thee, containing in itself all kinds and varieties of enjoyments and the things helpful for such enjoyments as also places convenient for such enjoyments, full of all kinds of Vibhavas - Such is the Vaikunta of Thine, Oh! Lord. 
+
+</details>
+
 
 <details><summary>FX Clooney</summary>
 
@@ -1458,6 +1501,11 @@ The word Nikhila is used to differentiate Iswara from Brahma (The Four-faced) an
 
 </details>
 
+<details><summary>English</summary>
+
+(10) Thy sport is the Creation, Maintenance and the Dissolution of the worlds which contain in themselves many different kinds of enjoyments, the instruments of enjoyment and suitable places for such enjoyment, such as, Prakrti, Purusha and Kaala which are by their nature ever under service to Thee, Oh! Lord, in the matter of their Form, their existence, and their activities; they always follow only Thy wishes and the dictates of Thine. 
+
+</details>
 
 
 <details><summary>FX Clooney</summary>
@@ -2227,6 +2275,12 @@ Asaranya - Saranya: Even though I am not connected with Thee, I am to be protect
 
 
 [^5_pg48]: प्रयोजन इति नास्ति - आ।
+
+</details>
+
+<details><summary>English</summary>
+
+(11) Thy will fulfilled, Thy commands carried out, by all, Thou art the Para Brahma, the biggest of persons of great might and wealth; Thou art the Consort of Sri! Oh! Naaraayana, Lord of Vaikuntha Thou art the ocean filled with beneficient qualities, such as, unlimited mercy, easy accessibility, affectionate kindness, generosity, rulership, extreme comeliness. Thou art again the refuge of the whole world without any distinction (as to race, colour or caste). Thou removest the distress of those that resort to Thee. Thou art the Ocean of motherly affection towards your Devotees. Thou art All Knowing, knowing all the time the true nature, etc. of all the groups of Beings. Thou dost skilfully control all the movable and immovable Things of the Worlds. Thou art their Lord, the sustainer of all the worlds, their Master, My Master; Thy desires ever fulfilled, Thy commands scrupulously executed. Distinct from all the others, Thou art the wish fulfilling Tree (the giver of all prayers), Friend in Distress, Sriman, Naarayaana, the refuge of the Helpless, the one and the only Refuge (with no others to go for Help). 
 
 </details>
 
