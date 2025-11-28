@@ -82,6 +82,11 @@ Besides, Kalyaana means also good not only to one's self but also to others.
 
 </details>
 
+<details><summary>English</summary>
+
+(3) [Then follows invocations to the Lord with a description of all His qualities, His divine Form, and His weapons, etc.] 
+</details>
+
 
 <details><summary>FX Clooney</summary>
 
@@ -265,8 +270,6 @@ Adi may denote other beauties, like, roundness of limbs length of arms.
 </details>
 
 <details><summary>English</summary>
-
-(3) [Then follows invocations to the Lord with a description of all His qualities, His divine Form, and His weapons, etc.] 
 
 *[With no person to surrender myself to, I take shelter unto Thine lotus feet, Oh Sriman Naraayana!, the refuge of all the Helpless] the Enemy of all Evil and the Abode of all beneficient qualities, perfect embodiment (distinct from the forms of all other things) of immeasurable knowledge and of Bliss, bearing a form agreeable to Thee, Worthy of Thee, unchanging, beyond the reach of thought, Divine in essence wonderful to behold; Ever existing pure and Unsullied; pre-eminently Excellent, of Brilliant Loveliness; Sweet smelling, Charming with the prime of Youthfulness-indeed a Form full of such and a whole treasure of excellences. 
 </details>
