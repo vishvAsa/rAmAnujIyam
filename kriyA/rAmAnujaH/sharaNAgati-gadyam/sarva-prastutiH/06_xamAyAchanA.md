@@ -87,7 +87,7 @@ or it may mean the Prayer preceded by the supreme Faith.
 [^2_pg52]: प्रेयः-आ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (d) Therefore prostrating before Thee, with my body bent in adoration, I pray unto Thee, the adorable Master. Thou art like a Father unto a son, like a Friend unto a Friend, affectionate as to a Dear Person. Thou alone canst save me.
 </details>

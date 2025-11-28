@@ -94,7 +94,7 @@ In fact, the helpless Prapanna is unable to perform the three Yogas on account o
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 {Then the Lord answers the prayer and says to the devotee}
 
@@ -853,7 +853,7 @@ Avalokayan: Having a Direct vision of Iswara.
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 You will, by My Grace, attain true knowledge 
 </details>
@@ -911,7 +911,7 @@ and the desire to attain Iswara.
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 with no diminution of your capacities of consciousness of desires (to go to heaven) 
 </details>
@@ -939,7 +939,7 @@ with no diminution of your capacities of consciousness of desires (to go to heav
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 and shaking off easily this mortal coil (body) both physical and subtle, 
 </details>
@@ -1052,7 +1052,7 @@ Ma Te bhoot Atra Samsaya: These are words of assurance that what was said alread
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (18) [Assurance by the Lord] Entertain no doubt about it. 
 </details>
@@ -1231,7 +1231,7 @@ _यावच्छरीरपातम्_ इति पूर्वोक्�
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Therefore, you may rest free of doubt or fear in the matter of obtaining true knowledge about Me, True Realisation and attainment of Me.
 

@@ -217,7 +217,7 @@ The second half of the Sloka mentions other things such as Ratna, etc., as they 
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (a) (I do prostrate before Thee) - Renouncing my father, mother, wife, children, relatives, friends, even my Teacher, precious stones, wealth and goods, my field, my house, etc. all desires, 
 </details>
@@ -339,7 +339,7 @@ Then the word "Saranam" is expounded in the next Sloka.
 [^2_pg51]: गृह्यते - आ ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 and actions relating to them, as well as Kaivalya I prostrate at Thine feet which bestrode the Three worlds.
 </details>
@@ -426,7 +426,7 @@ Bhagavaan is the real father and relation in the matter of protection, etc., and
 **देवदेव** इति सर्वप्रकारोत्कर्षपरम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (b) Oh Lord! I surrender Myself unto Thee. Thou alone art My Mother, My Father, Thou art My relations; even My Teacher Thou alone art. So also my learning, my wealth. Indeed Thou art My All.
 
@@ -484,7 +484,7 @@ Apramatima Prabhaava pictures His All Mightiness.
 **न त्वत्समोऽस्ति** इत्य्-आदिकम् इह कारुण्यादिषु योजितम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (c) Oh! God of Gods, Thou art the Father of the Worlds moving and unmoving, worshipped by the World. Thou art greater than the greatest. There is no one bigger than Thee in all these Three Worlds. Oh! Thou of Matchless Glory.
 

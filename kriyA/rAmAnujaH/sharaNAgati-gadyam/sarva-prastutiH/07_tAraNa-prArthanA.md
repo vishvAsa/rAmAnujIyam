@@ -218,7 +218,7 @@ Of these two, Paragnana is prayed for in the first instance by the passage Tesha
 यद्वा, स्वप्रीत्यपेक्षया स्वभक्तप्रीतेः प्रकर्षोक्त्या स्तुतिः । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Slokas: 
 
@@ -251,7 +251,7 @@ Slokas:
 **अनुत्तमां गतिम्** - परमप्राप्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (b) Indeed, I consider: All these (the four classes) are generous; but of them the Gnani the wise is My Inner Self. He, being steadfast in his mind, rests on Me, as the Supreme Goal. 
 </details>
@@ -292,7 +292,7 @@ Slokas:
 (पौ.सं.) इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (c) At the end of many births, a man having realised that Vasudeva is the All, comes to Me, He is Mahatma, rare indeed to find. 
 </details>
@@ -316,7 +316,7 @@ Slokas:
 अव्यवहितत्वाद् इह श्लोक-त्रय इत्युक्तम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (15) Please, Oh! Lord, favour me and make me a Gnaani like the one described in the above three Slokas: 
 </details>
@@ -373,7 +373,7 @@ The words "Sthaana Traya" are used to denote that the passages are found disconn
 **माम्** 'या प्रीतिरविवेकानाम्' (वि.पु. १-१९-२०) इत्युक्तेषु बाह्यविषयसक्तेष्वग्रगण्यम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Also make me endowed with Parabhakti described in the following three passages in Bhaghavad Geeta :- 
 
@@ -426,7 +426,7 @@ That is why, the qualification pointed natural qualification-a stage not attaina
 **एकस्वभावत्वोक्तिर्** हि अत्रत्य परभक्त्यादिव्यवच्छेदार्था ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Make me also endowed with constant Para Bhakti, Para Gnaana and Parama Bhakati. 
 </details>
