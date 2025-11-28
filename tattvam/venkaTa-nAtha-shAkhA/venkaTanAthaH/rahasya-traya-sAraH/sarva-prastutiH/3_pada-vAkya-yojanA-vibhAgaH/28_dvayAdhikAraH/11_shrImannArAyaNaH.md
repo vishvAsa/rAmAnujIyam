@@ -4462,6 +4462,7 @@ y **dijo** estas palabras en **presencia** de Sītā",
 </details>
 
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “भवांस्तु सह वैदेह्या”  
@@ -4598,6 +4599,14 @@ cuyo hogar **es** el loto,
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्नित्यत्योगत्तै नम्माऴ्वार् अनुसन्धित्तारॆऩ्गिऱार् नम्माऴ्वारुमित्यादियाल्। “अगलगिल्लेऩिऱैयुमॆऩ्ऱ लर्मेल्मङ्गैयुऱैमार्बा” ऎऩ्बदु उपायदशैयिल् नित्ययोगानुसन्धानपरम्। 
+
+इऱैयुम् - क्षणकालमुम्, अगल - पिरिगैक्कु, किल्लेऩ् - समर्थैयागिऱेऩल्लेऩ्, ऎऩ्ऱु - ऎऩ्ऱु सॊल्लिक्कॊण्डे, अलर्मेल्मङ्गै - तामरसवासिनियाऩ पिराट्टियाले, उऱै - नित्यमाग वसिक्कप्पडुम्, मार्बा - मार्बै युडैयवऩे। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “ऒण्-+++(कङ्कण=तॊ←)+++डॊडियाळ् तिरु-मगळुम्  
@@ -4646,6 +4655,14 @@ y este último el estado de **logro**)
 “ऒण्डॊडियाळ् तिरुमगळुम् नीयुमे निला निऱ्पव्”( तिरुवाय्मॊऴि ४-९-१०)  ऎऩ्ऱुम्,
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+“ऒण्डॊडियाळ् तिरुमगळुम् नीयुमे निलानिऱ्प” ऎऩ्बदु उपेयदशैयिल् नित्ययोगानुसन्धानपरम्। 
+
+ऒण् - उज्ज्वलमाऩ, तॊडियाळ् - बाहुवलयत्तैयुडैय, तिरु ऎऩ्गिऱ मगळुम्, नीयुमे - तेवरीरुमे, निला निऱ्प - शेषभोगत्तिले आसीनर्गळा यिरुक्कुम्बोदु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “इङ्गुम् अङ्गुन् तिरु-माल्-अऩ्ऱिय् इऩ्मै+++(=अभावं)+++ कण्ड्”  
@@ -4693,6 +4710,16 @@ quien **se encuentra** alguna vez en conexión (íntima) con Lakṣmī".
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+“इङ्गुमङ्गुन्दिरुमालऩ्ऱियिऩ्मैगण्डु” ऎऩ्बदु उभयदशैयिलुम् नित्ययोगानुसन्धानपरम्। 
+
+इङ्गुम् - उपायदशैयिलुम्, अङ्गुम् - उपेयदशैयिलुम्, तिरु - लक्ष्मियॆऩ्ऩ, माल् - भगवाऩॆऩ्ऩ, इवर्गळै अऩ्ऱि - अऩ्ऱिक्के, इऩ्मैगण्डु - इल्लामैयैक्कण्डु। 
+</details>
+
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपाय-दशैयिलुम् फल-दशैयिलुम्  
@@ -4723,6 +4750,8 @@ y en el estado de **logro**).
 
 उपायदशैयिलुम् फलदशैयिलुम् श्रीमच्छब्दत्तिऱ्सॊऩ्ऩ नित्ययोगत्तै अनुसन्धित्तार्। 
 </details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4762,6 +4791,12 @@ and whenever **we** desire it.
 इव्वनुसन्धानम् सापराधर्क्कणियिडादे निऩैत्तबोदे आश्रयिक्कैक्कुऱुप्पाम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि पूर्वखण्डत्तिल् नित्ययोगत्तुक्कु प्रयोजनमरुळिच्चॆय्गिऱार् इव्वनुसन्धानमिति ।  
+अणियिडादे - संशयिक्कादे, घटकर् ऒरुवरुमिल्लैये, इवरै ऎप्पडि आश्रयिप्पदु ऎऩ्ऱु संशयिक्कादे ऎऩ्ऱबडि।  
+निऩैत्तबोदे इति । अवळुक्कु नित्योगमिरुप्पदाल् ऎक्कालत्तिलुमाश्रयिक् कलामॆऩ्ऱबडि। 
+</details>
 
 
 
@@ -4826,10 +4861,23 @@ que la **intercesión de Lakṣmī resulte** efectiva).
 इप्पडि अपेक्षितमाऩ पुरुषकारन्दाऩुम् तऩ्ऩेऱ्ऱमाम्बडियिरुक्किऱऩ नारायणशब्दत्तिल् तोऱ्ऱुगिऱ सम्बन्धमुम् गुणङ्गळुम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि नारायणशब्दार्थत्तैच् चॊल्लप्पोगिऱवराय् अदऱ्कु प्रसक्तियैक् काट्टुगिऱार् इप्पडि अपेक्षितमाऩ इति ।  
+तऩ्ऩेऱ्ऱमाम्बडि इति । नारायणऩैक् किट्टुगैक्कु अवऩुडैय सम्बन्धमुम् गुणङ्गळुमे पोदुमाऩदु, पुरुषकारमपेक्षितमऩ्ऱु। अदु इरुन्दाल् अधिकमे यॆऩ्ऩलाम्बडि ऎऩ्ऱबडि। सम्बन्धम् - स्वस्वामिभावादि, गुणङ्गळ् - वात्सल्यादिगळ्, 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदु “तऩ्ऩ् अडियार्”( पॆरियाऴ्वार् तिरुमॊऴि ४-१०-२) ऎऩ्गिऱ पाट्टिले काणलाम्
+इदु 
+
+> “तऩ्ऩ् अडियार् (तिऱत्+++(=पक्षं)+++-तगत्तुत्+++(=उद्दिश्य)+++ तामरैयाळ् आगिलुम् सिदग्+++(=दूषणं)+++ उरैक्कु+++(=वचनम्)+++ मेल्  
+"ऎऩ्ऩ्-अडियार् अदु सॆय्यार्  
+सॆय्दारेल् नऩ्ऱु सॆय्दार्" ऎऩ्बर् पोलुम्)”  
+( पॆरियाऴ्वार् तिरुमॊऴि ४-१०-२) 
+
+ऎऩ्गिऱ पाट्टिले काणलाम्
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -4866,6 +4914,20 @@ Incluso si **ofenden**,
 
 इदु “तऩ्ऩडियार्”( पॆरियाऴ्वार् तिरुमॊऴि ४-१०-२)  ऎऩ्गिऱ पाट्टिले काणलाम्
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि पुरुषकारनिरपेक्षमाग गुणङ्गळे कार्यकरमॆऩ्बदिल् प्रमाणम् काट्टुगिऱार् इदु इत्यादिना । तऩ्ऩडियारिति ।  
+तऩ्ऩडियार् तिऱत्तु - तऩ्ऩै आश्रयित्तवर्गळ् विषयत्तिल्,  
+तामरैयाळागिलुम् _- तामरसपुष्पत्तिल् वसिक्कुम् पॆरिय पिराट्टियारागिलुम्,  
+इदऩाल् पॆरिय बिराट्टियार् व्यतिरिक्तर्गळ् सॊल्लुम् दोषत्तैक् कणिसियार् ऎऩ्बदु कैमुतिकन्यायसिद्धम्।  
+सिदैगु - कुऱ्ऱम्, उरैक्कु मेल् - सॊल्लुमागिलुम्, इङ्गु उरैक्कुमेल् ऎऩ्बदाल् उरैयाळॆऩ्ऱु तात्पर्यम्।  
+ऎऩ्ऩडियार् - ऎऩ्ऩुडैय भक्तर्गळ्, अदु सॆय्यार् - प्रतिबुद्धतादशैयिल् नी सॊल्लुगिऱ अन्द कुऱ्ऱत्तैच् चॆय्यार्, सॆय्दारेल् - अप्रतिबुद्धतादशैयिल् सिलर् सॆय्दालुम्, नऩ्ऱु सॆय्दार् - नल्लदागवे सॆय्दार्। अदावदु अप्पडि अवर्गळ् सॆय्दिरुन्दाल् पुनः प्रपत्तियालादल् मृदुदण्डऩैयालादल् नाम् अदै क्षमिप्पदाग इरुप्पदाल् अदु नल्लदागवे मुडियुमागैयाल् बाधकमागादॆऩ्ऱु करुत्तु।
+
+ऎऩ्बर्बोलुमॆऩ्बदाल् वस्तुतः अदु दोषमऩ्ऱु ऎऩ्ऱु तिरुवुळ्ळमिल्लै ऎऩ्ऱु द्योतितम्। 
+</details>
+
+
 
 ### प्रयोजनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4920,6 +4982,13 @@ La respuesta **es** la **siguiente**:
 
 “श्रीधरः श्रीकरः श्रेयः श्रीमान् लोकत्रयाश्रय”( सहस्र-नाम-स्तोत्रम्) इत्यादिगळिले भगवन्नाममाग प्रसिद्धमाऩ श्रीमच्छब्दमे अमैयादोवॆऩ्ऩिल्; 
 </details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सहस्रनामत्तिल् “श्रीधरः श्रीकरः श्रेयः श्रीमान् लोकत्रयाश्रयः” ऎऩ्गिऱविडत्तिल् श्रीमच्छब्दमुम्, “जह्नुर्नारायणो नरः” ऎऩ्गिऱविडत्तिल् नारायणनामम् पोलॆ ऒरु स्वतन्त्रनामधेयमागैयाले श्रीमच्छरणौ ऎऩ्ऱे यमैयादो, नारायणशब्दम् मिगुदियऩ्ऱो, ऒरु वाक्यत्तिले इरण्डु विशेष्यवाचकपदन्दाऩ् कूडुमो वॆऩ्ऩ? पूर्वखण्डत्तिल् उपायोपयुक्तगुणविशेषानुसन्धानार्थमागवुम्, उत्तरखण्डत्तिल् सर्वविशिष्टऩ् प्राप्यऩॆऩ्ऱु तोऱ्ऱुगैक् कागवुम् नारायणशब्दमपेक्षितमागैयाल् श्रीमच्छब्दम् अदऱ्कु विशेषणमागवे तोऱ्ऱुमॆऩ्गिऱार् श्रीधरः श्रीकर इत्यादियाल्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5015,6 +5084,13 @@ la palabra Śrīman **es** aquí **usada** como adjetivo **calificativo** de Nā
 मूल-मन्त्राधिकारत्तिल् व्युत्पत्तिकळाले सॊऩ्ऩ अर्थङ्गळॆल्लाम् विवक्षितङ्गळागिलुम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्रत्य-नारायण-शब्दस्य  
+मूल-मन्त्राधिकारे व्युत्पत्तिभिः प्रतिपादितानाम् अर्थानां सर्वेषां विवक्षितत्वे ऽपि  
+</details>
+
+
 <details><summary>English</summary>
 
 Though the word 'Nārāyaṇa' **used** here (in Dvaya) **has**, for its purport, all the qualities which **were** etymologically **derived** from the word in the chapter on the mūlamantra,  
@@ -5031,10 +5107,22 @@ Aunque la palabra 'Nārāyaṇa' **usada** aquí (en Dvaya) **tiene**, por su si
 इङ्गुत्तै नारायणशब्दत्तुक्कु मूलमन्त्राधिकारत्तिल् व्युत्पत्तिकळाले सॊऩ्ऩ अर्थङ्गळॆल्लाम् विवक्षितङ्गळागिलुम्
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि श्रीमच्छब्दविशेषितमाऩ नारायणशब्दत्तिल् मूलमन्त्रस्थनारायणशब्दत्तिऱ्पोल् अनेकगुणङ्गळ् प्रतिपाद्यङ्गळागैयाल् अवैगळै यॆल्लाम् अनुष्ठानकालत्तिल् अन्द शब्दत्ताले अनुसन्धिक्कमुडियुमो? अदु अनेकगुणप्रतिपादकमाऩालुम् अनुष्ठानकालत्तिल् उपायोपयुक्तगुणङ्गळ् मात्तिरमनुसन्धेयङ्गळागलामॆऩ्ऩिल्; अवैगळैयुम् ताऩ् कार्त्स्न्येन अनुसन्धिक्कमुडियुमो ऎऩ्ऩिल्; अवैगळिलुम् प्रधानतमङ्गळाऩ सिल गुणङ्गळे अनुसन्धेयङ्गळॆऩ्गिऱार् इङ्गुत्तै नारायणशब्दत्तुक्कु इत्यादियाल्, 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्व-खण्डत्तिल् नारायण-शब्दत्तुक्कु शरण्यतैयिले नोक्क्+++(=वीक्षा)+++ आऩ पडियाले 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पूर्व-खण्डे नारायण-शब्दस्य शरण्यतायां तात्पर्यात् 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5052,13 +5140,28 @@ sin embargo, dado que en la primera parte (de Dvaya) el objetivo de la palabra '
 पूर्वखण्डत्तिल् नारायणशब्दत्तुक्कु शरण्यतैयिले नोक्काऩ पडियाले 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शरण्यतै - उपायभावम्, 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “निगर्-इल्+++(=निस्सम)+++ पुगऴ् आय्”  
+(उलग-मूऩ्ऱ्-उडैय् आय् ऎऩ्ऩैय् आळ्वाऩे  
+निगर्-इल् अमरर् मुऩिकग्-गणङ्गळ्  
+विरुम्बुम्+++(=काङ्क्षितं)+++ तिरु-वेङ्कटत्ताऩे,  )
 ( तिरुवाय्मॊऴि ६-१०-१०।) 
 
 इत्य्-आदिगळिले सङ्गृहीतङ्गळ् आऩ 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"अनुपम-गुण-प्रथ" इत्यादिषु संगृहीताः 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5086,6 +5189,12 @@ y que **morado** en la montaña Tiruvengadam
 
 “निगरिल् पुगऴाय्”( तिरुवाय्मॊऴि ६-१०-१०।) इत्यादिगळिले सङ्गृहीतङ्गळाऩ 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+निगरिल् पुगऴाय् इत्यादिगळिल् सङ्गृहीतङ्गळाऩ इति । “निगरिल् पुगऴाय् उलगमूऩ्ऱुडैयायॆऩ्ऩैयाळ्वाऩे निगरिल् अमरर्मुऩिक्कणङ्गळ् विरुम्बुम् तिरुवेङ्गडत्ताऩे” ऎऩ्गिऱ पदङ्गळिल् सङ्गृहीतङ्गळाऩ ऎऩ्ऱबडि। निगरिल् पुगऴाय् ऎऩ्ऱु निगरिल्लाद गुणमाऩ वात्सल्यमुम्, उलगमूऩ्ऱुडैयाय् ऎऩ्ऱु स्वामित्वमुम्, ऎऩ्ऩैयाळ्वाऩे ऎऩ्ऱु सौशील्यमुम्, तिरुवेङ्गडत्ताऩे ऎऩ्ऱु सौलभ्यमुम् सङ्गृहीतङ्गळ्। सर्वज्ञत्वादिगळ् इप्पाट्टिल् अर्थात्सिद्धङ्गळ्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5199,10 +5308,22 @@ perfección o plenitud, generosidad suprema y similares -
 परिपूर्णत्व परमोदारत्वादिगळ्
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परमोदारत्वादीत्यत्रादिपदत्ताले मार्दवादि सङ्गृहीतम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्ग् अनुसन्धेयङ्गळिल् प्रधानतमङ्गळ्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्रानुसन्धेयेषु प्रधानतमाः ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5226,6 +5347,13 @@ las anteriores **son** las principales entre las cualidades a **tener** en cuent
 इवऱ्ऱिल् वात्सल्यम् आवदु;
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एषु वात्सल्यं नाम - 
+</details>
+
+
+
 <details><summary>English</summary>
 
 Of these vātsālya or affection **is** 
@@ -5240,6 +5368,12 @@ De estos vātsālya o afecto **es**
 
 इवऱ्ऱिल् वात्सल्यमावदु;
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩिमेल् वात्सल्यादिगळिऩ् स्वरूपत्तैयुम् अवैगळ् शरण्यतैक्कु उपयुक्तमागुम् प्रकारत्तैयुम् अडैवे काट्टुगिऱार् इव्विडत्तिल् वात्सल्यमावदु इत्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5256,7 +5390,7 @@ De estos vātsālya o afecto **es**
 सताम् एतद् अगर्हितम्॥”  
 ( रामायणम् युद्ध-काण्डम् १८-३) 
 
-
+इत्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -5283,11 +5417,26 @@ Esto **no será censurado** por los buenos”.
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+दोषो यद्यपीति । तस्य - शरणमडैयुमवऩुक्कु, दोषः – दोषमाऩदु, यद्यपि स्यात् - इरुन्दालुम् इरुक्कट्टुम्, शरणागतऩल्लादवऩ् विषयत्तिलऩ्ऱो दोषम् पार्प्पदु ऎऩ्ऱु तिरुवुळ्ळम्।
+
+अथवा प्रार्थनायां लिङ्; दोषमिरुक्कक्कडवदु। दोषमिल्लादवऩिडत्तिल् नाम् दयया सॆय्य वेण्डियदु ऎऩ्ऩ ऎऩ्ऱु भावम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आश्रितऩ्-उडैय अपराधत्तैप् **पारादे**  
 +++(रक्षणाय)+++ अङ्गीकरिक्कैक्क् ईड् आऩव् इरक्कम्+++(=करुणा)+++। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आश्रितस्यापराध-दर्शनं विहाय  
++++(रक्षणाय)+++ अङ्गीकारस्यानुगुणं कारुण्यम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5306,10 +5455,22 @@ la ternura que **acepta** a un hombre para **protección**
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इरक्कम् - स्नेहविशेषम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु तऩ् दोषङ्गळैप् पार्त्त् अगलामैक्क् उऱुप्प् आम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं स्व-दोष-दर्शन-निबन्धनस्य दूरी-भावस्याभाव-प्रयोजकम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5326,6 +5487,11 @@ It **is** (a quality) **needed** for **not avoiding** Him on account of one's **
 इदु तऩ् दोषङ्गळैप् पार्त्तगलामैक्कुऱुप्पाम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदिऩ् उपयोगत्तैक् काट्टुगिऱार् इदु तऩ् दोषङ्गळै इति । उऱुप्पाम् - स्वानुसन्धानमुखत्ताले हेतुवाम्। 
+</details>
+
 
 ### स्वामित्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5333,6 +5499,12 @@ It **is** (a quality) **needed** for **not avoiding** Him on account of one's **
 स्वामित्वम् आवदु;  
 प्रणवादिगळिल् शिक्षितम् आऩ सम्बन्ध-विशेषम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वामित्वं नाम प्रणवादिषु शिक्षितः संबन्ध-विशेषः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5351,6 +5523,12 @@ que **se revela** en el praṇava y cosas similares.
 स्वामित्वमावदु; प्रणवादिगळिल्शिक्षितमाऩ सम्बन्धविशेषम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+स्वामित्वमावदु इति ।  
+आदिपदत्ताले “यस्यास्मि न तमन्तरेमि”, “दासभूतास्स्वतस्सर्वे” इत्यादिसङ्ग्रहः । शिक्षितमाऩ सम्बन्धविशेषम् - अनन्यार्हतया शिक्षिक्कप्पट्ट दासस्वामिभावरूपमाऩ सम्बन्धविशेषम्, 
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु 
@@ -5359,6 +5537,16 @@ que **se revela** en el praṇava y cosas similares.
 
 ऎऩ्गिऱ +++(विश्वासाय=)+++तेऱ्ऱत्तुक्क् उऱुप्पाम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं 
+
+> स्व-प्रयोजन-बुद्ध्या रक्षेद् 
+
+इति समाश्वासनस्य प्रयोजकः ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5377,6 +5565,8 @@ Esto **es necesario** para **inspirar** confianza en que
 इदु तऩ् पेऱाग रक्षिक्कुमॆऩ्गिऱ तेऱ्ऱत्तुक् कुऱुप्पाम्।
 </details>
 
+
+
 ### सौशील्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5385,6 +5575,15 @@ Esto **es necesario** para **inspirar** confianza en que
 तण्णियर्+++(=फल्गव)+++ आऩ निषाद-वानर-गोपालादिगळोडे  
 नीरन्ध्र-संश्लेषम् पण्णुगै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सौशील्यं नाम -  
+स्वयं सर्वाधिकस्य सतो ऽपि  
+निहीनैर् निषाद-वानर-गोपालादिभिः सह  
+नीरन्ध्र-संश्लेष-स्वभावता । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5403,15 +5602,35 @@ a pesar de Su superioridad sobre todos los seres.
 सौशील्यमावदु ताऩ् सर्वाधिकऩाय् वैत्तुत् तण्णियराऩ निषादवानरगोपालादिगळोडे नीरन्ध्रसंश्लेषम् पण्णुगै। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तऩ् पेऱाग - तऩक्कु प्रयोजनमाग, तेऱ्ऱम् - विश्वासम्, सौशील्यमावदु इति । सर्वाधिकऩाय् वैत्तु - सर्वाधिकऩागवे यिरुन्दु, तण्णियराऩ - अतिनीचर्गळाऩ, निषाद - गुहप्पॆरुमाळ्, वानर – सुग्रीवादिगळ्, 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु 
 
-> “अम्माऩ्-आऴिप् पिराऩ् अवऩ् ऎव्व् इडत्ताऩ् याऩार्”( तिरुवाय्मॊऴि ५-१-७) 
+> “अम्माऩ्+++(←अम्मै + आऩ् →स्वामी)+++ आऴिप् पिराऩ्  
+अवऩ् ऎव्व् इडत्ताऩ्?  
+याऩ् आर्?”  
+( तिरुवाय्मॊऴि ५-१-७) 
 
 ऎऩ्ऱ् अगलादे  
 सारथ्य-दूत्यादि-पर्यन्तम् आग अपेक्षिक्कुम् बडि  
 विश्वसनीयतैक्क् उऱुप्पाम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं 
+
+> "स्वामी चक्रवान् उपकारकः स कुत्रत्यः,  
+अहं कः" 
+
+इति दूरी-भवनं विनैव  
+सारथ्य-दौत्यादि-पर्यन्तापेक्षणौपयिक-विश्वसनीयतायाः प्रयोजकं भवति ।
 </details>
 
 <details><summary>English</summary>
@@ -5448,9 +5667,90 @@ para **prestar** incluso un **servicio** como
 इदु “अम्माऩाऴिप् पिराऩवऩॆव्विडत्ताऩ् याऩार्”( तिरुवाय्मॊऴि ५-१-७) ऎऩ्ऱगलादे सारथ्यदूत्यादिपर्यन्तमाग अपेक्षिक्कुम्बडि विश्वसनीयतैक्कुऱुप्पाम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदऱ्कु प्रयोजनत्तैक्काट्टुगिऱार् इदु अम्माऩाऴिप्पिराऩित्यादि । अम्माऩ् - स्वामियाऩ, आऴिप्पिराऩ् - तिरुवाऴि याऴ्वाऩैक्कॊण्डु उपकरिक्किऱ, अवऩ् - सर्वोक्तृष्टऩाऩ अवऩ्, ऎव्विडत्ताऩ् - ऎङ्गे इरुप्पवऩ्? याऩार् - अवऩैक् किट्ट याऩ् ऎङ्गे इरुप्पवऩ्, अगलादे - पिरिय निऩैयादे, दूत्यादीत्यत्रादि पदेन राजसूयत्तिल् द्विजोच्छिष्टमार्जनम् ग्रहिक् कप्पडुगिऱदु। 
+</details>
 
 
-Soulabhya or easy accessibility consists in 'His being within the range of the eyes of all men' even though He is beyond the reach of even such great yogis as Sanaka and Sanandana. This (qualiiy) is necessary in order that we may not give up the longing for Him owing to a notion that He is too difficult of approach. Omniscience consists in His seeing all things, as stated in such ślokas as the following: "There is nothing in any of the three worlds that is not known to Thee", and "I bow to Bhagavān who, by His very nature, sees all things at the same time". This is necessary for the thought that there is nothing unknown to Him among the good things to be given to those who have sought His protection and among the hindrances to be removed from them. Omnipotence consists in the ability to accomplish what cannot be accomplished (by others). This is necessary to give us the assurance that, though we are now in saṁsāra (or bondage of births and deaths ), He can make us enter the assembly of the eternal suuis, Satyasaṅkalpatva means that His will or purpose can never be thwarted even by Himself. This is necessary for the confidence that we shonld have that the words: “I will release you from all sins", will never prove futile. Supreme compassion is the desire to remove the suffering of others without any thought of one's own interests. This is necessary for the knowledge that He will pardon on some pretext (vyāja) even those who have committed innumerable offences, as in the ślokas : "I will never give up the man who seeks me in the manner of a friend, even though he has faults", and "Fetch him, O Sugrīva, best of monkeys, whether he be Vibhishana or even Ravana himself. I promise security to him". Gratitude consists in looking upon even trivial acts of kindness with the greatest regard, as if they were supreme deeds of helpfulness and never forgetting them. (lnstances of this) may be seen in such ślokas as the following: "Since Śrī Rāma is large-hearted, he does not remember even hundreds of offences committed by others against him. He delights (on the other hand) on even a single act of help :', and "That cry for help uttered aloud by Draupadi even from a distance calling me "Govinda!”-that cry is never away from my mind like a debt that has increased with the interest accumulated on it". This quality makes one say to oneself: “If He sees anything of worth done by me within the limits of my ability, He will never forsake ine". Firmness is the quality of persistence in protecting suppliants. This is necessary to inspire the faith that He will never forsake us, even though others who are very intimate with Him try to dissuade Him, as (when Śrī Rāma said):-"I will never give up the man who comes to me in the manner of a friend". Paripurnatvam (perfection or fullness) consists in (His) having all objects that are desired or desirable. This is necessary to make us endeavour to serve Him in the way that is within our limited power, with the knowledge that is what we offer to him (upahara), He will consider only the fervour of emotion or feeling and not measure its worth or value. This may be seen in the following words (of the Lord): "Though what is offered to me by my devotees is atornic, it appears very great to me owing to their love. What is offered to me by those wanting in devotion, however great it might be, never gives me delight". " Whatever is given to me with love, be it only such trivial things as a leaf, a flower, a fruit or even (mere) water, I eat it, because it is given with devotion by one who is devout”. Supreme generosity is the liberality in making gifts which makes a person feel that he has not done enough, even when he has given all that he possesses without any thought of the slightness of the endeavour on the part of the person benefited, the greatness of the benefit conferred or the unworthiness of the beneficiary. This is a quality which induces men like Dadhibhāṇḍa[^99] and others to ask with importunity for the great benefits of spiritual life even for those who are connected with them, Thus such qualities in the Redeemer as are useful for seeking His protection and the manner in which they are useful should be borne in mind.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सौलभ्यम् आवदु;  
+सनक-सनन्दनादि-महा-योगिगळुक्कुङ् कूडक्  
+किट्ट निलम् अल्लाद तऩ्ऩै  
+
+> “सकल-मनुज-नयन-विषयताङ् गतः”  
+( गीता-भाष्यम्)  
+
+ऎऩ्ऩुम् बडि पण्णुगै।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सौलभ्यं नाम -  
+सनक-सनन्दनादि-महा-योगिनाम् अप्य् उपसर्पणस्याभूमेः स्वस्य  
+
+> “सकल-मनुज-नयन-विषयताङ् गतः”  
+( गीता-भाष्यम्)  
+
+इत्य्-उक्त-रीत्या ऽऽपादनम् ।  
+</details>
+
+
+<details><summary>English</summary>
+
+Saulabhya or easy **accessibility** **consists** in  
+
+> 'His **being** within the range of the eyes of all men' 
+
+even though He **is** beyond the **reach** of even such great yogis as Sanaka and Sanandana. 
+</details>
+
+<details><summary>Español</summary>
+
+Saulabhya o fácil **accesibilidad** **consiste** en  
+
+> 'Su **estar** dentro del alcance de los ojos de todos los hombres' 
+
+a pesar de que Él **está** más allá del **alcance** incluso de grandes yoguis como Sanaka y Sanandana.
+</details>
+
+<details><summary>मूलम्</summary>
+
+सौलभ्यमावदु; सनकसनन्दनादि महायोगि कळुक्कुङ्गूडक् किट्ट निलमल्लाद तऩ्ऩै “सकलमनुजनयनविषयताङ्गतः”( गीता-भाष्यम्) ऎऩ्ऩुम्बडि पण्णुगै।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सौलभ्यमावदु इति । किट्टनिलमल्लाद - ध्यानम् पण्णुगैक्कु वॆगु दूरऩाऩ, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु किट्टवरियऩ्+++(=??)+++ ऎऩ्गिऱ निस्स्पृहतै वारामैक्क् उऱुप्पाम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं सुदुर्लभ इति निस्पृहताया अनुत्पत्तेः प्रयोजकम् । [[P331]]
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु किट्टवरियऩॆऩ्गिऱ निस्स्पृहतै वारामैक्कुऱुप्पाम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदऱ्कु प्रयोजनत्तैक् काट्टुगिऱार् इदु किट्ट वरियऩॆऩ्गिऱ इति । 
+</details>
+
+
+
+
+This (quality) is necessary in order that we may not give up the longing for Him owing to a notion that He is too difficult of approach. Omniscience consists in His seeing all things, as stated in such ślokas as the following: "There is nothing in any of the three worlds that is not known to Thee", and "I bow to Bhagavān who, by His very nature, sees all things at the same time". This is necessary for the thought that there is nothing unknown to Him among the good things to be given to those who have sought His protection and among the hindrances to be removed from them. Omnipotence consists in the ability to accomplish what cannot be accomplished (by others). This is necessary to give us the assurance that, though we are now in saṁsāra (or bondage of births and deaths ), He can make us enter the assembly of the eternal suuis, Satyasaṅkalpatva means that His will or purpose can never be thwarted even by Himself. This is necessary for the confidence that we shonld have that the words: “I will release you from all sins", will never prove futile. Supreme compassion is the desire to remove the suffering of others without any thought of one's own interests. This is necessary for the knowledge that He will pardon on some pretext (vyāja) even those who have committed innumerable offences, as in the ślokas : "I will never give up the man who seeks me in the manner of a friend, even though he has faults", and "Fetch him, O Sugrīva, best of monkeys, whether he be Vibhishana or even Ravana himself. I promise security to him". Gratitude consists in looking upon even trivial acts of kindness with the greatest regard, as if they were supreme deeds of helpfulness and never forgetting them. (lnstances of this) may be seen in such ślokas as the following: "Since Śrī Rāma is large-hearted, he does not remember even hundreds of offences committed by others against him. He delights (on the other hand) on even a single act of help :', and "That cry for help uttered aloud by Draupadi even from a distance calling me "Govinda!”-that cry is never away from my mind like a debt that has increased with the interest accumulated on it". This quality makes one say to oneself: “If He sees anything of worth done by me within the limits of my ability, He will never forsake ine". Firmness is the quality of persistence in protecting suppliants. This is necessary to inspire the faith that He will never forsake us, even though others who are very intimate with Him try to dissuade Him, as (when Śrī Rāma said):-"I will never give up the man who comes to me in the manner of a friend". Paripurnatvam (perfection or fullness) consists in (His) having all objects that are desired or desirable. This is necessary to make us endeavour to serve Him in the way that is within our limited power, with the knowledge that is what we offer to him (upahara), He will consider only the fervour of emotion or feeling and not measure its worth or value. This may be seen in the following words (of the Lord): "Though what is offered to me by my devotees is atornic, it appears very great to me owing to their love. What is offered to me by those wanting in devotion, however great it might be, never gives me delight". " Whatever is given to me with love, be it only such trivial things as a leaf, a flower, a fruit or even (mere) water, I eat it, because it is given with devotion by one who is devout”. Supreme generosity is the liberality in making gifts which makes a person feel that he has not done enough, even when he has given all that he possesses without any thought of the slightness of the endeavour on the part of the person benefited, the greatness of the benefit conferred or the unworthiness of the beneficiary. This is a quality which induces men like Dadhibhāṇḍa[^99] and others to ask with importunity for the great benefits of spiritual life even for those who are connected with them, Thus such qualities in the Redeemer as are useful for seeking His protection and the manner in which they are useful should be borne in mind.
 
 [^99]: Dadhibhāṇḍa begged Śrī Kṛṣṇa for spiritual benefits not only for himself but for those related to him
 
