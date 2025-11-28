@@ -8,6 +8,8 @@ title = "+सर्व-प्रस्तुतिः"
 आङ्ग्लानुवादाः [शठकोपक्षेत्रे](https://www.sadagopan.org/pdfuploads/Saranagathi%20Gadyam.pdf) ।
 
 टीका [ऽत्र](https://archive.org/details/gadyatrayamramanujacharyasrutaprakasikabhasyasudarsanasurirahasyaraksavedantades) ।
+
+[भाष्य उत्तमूर्-वीरराघव-शिष्यः](https://drive.google.com/file/d/1kjBVy3_ilXjcjRXbbon-mlzi_dMrNb_j/view)
 </details>
 
 <details><summary>FX Clooney</summary>

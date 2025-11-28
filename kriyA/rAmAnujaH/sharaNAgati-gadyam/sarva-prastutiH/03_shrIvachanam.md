@@ -33,14 +33,14 @@ title = "०३ श्रीवचनम्"
 
 किमपेक्षितमित्यत्राह **पारमार्थिक** इति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then the object for which Lakshmi Saranaagathi is performed as a preparatory step, is stated.
 </details>
 
 अनुभव-विशेषणम् ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The word Paaramaarthika goes to qualify the word Anubhava lower down. 
 </details>
@@ -48,14 +48,14 @@ The word Paaramaarthika goes to qualify the word Anubhava lower down.
 परम-पुरुषार्थान्तर्-भूतत्वात्,  
 स्वयं परम-पुरुषार्थत्वात्,  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 This word denotes either that Bhagavat Anubhava i.e. enjoyment of Vision of God is included in Parama Purushaartha or that God Himself is the Parama Purushaartha.
 </details>
 
 अकृत्रिमत्वाद् वा **पारमार्थिकत्वम्** ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 It may also mean 'natural' and not artificial, i.e. caused by some external phenomenon.
 </details>
@@ -63,7 +63,7 @@ It may also mean 'natural' and not artificial, i.e. caused by some external phen
 अकृत्रिमत्वम् निरुपाधिकत्वम्,  
 भक्तिविशेषणं वा **पारमार्थिक**-शब्दः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The word may be taken even as an adjective to the word Bhakti.
 </details>
@@ -71,7 +71,7 @@ The word may be taken even as an adjective to the word Bhakti.
 **चरणारविन्द** इति मातुस् स्तन्यं[^1_pg16] पुत्रस्येव  
 शेषभूतस्य प्राप्यम्[^2_pg16] इति भावः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Charanaaravinda implies that He is easily accessible to a Sesha or devotee, as easy as the breast-milk of a mother is available to her child.
 </details>
@@ -83,35 +83,35 @@ Charanaaravinda implies that He is easily accessible to a Sesha or devotee, as e
 
 **ऐकान्तिकत्वं** फलान्तरार्थत्वाभावात् भगवद्-एकविषयत्वम् ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 meant by Aikaantika is that the Saranaagati is performed with the sole object of pleasing the Lord and of no other,
 </details>
 
 **आत्यन्तिकत्वम्** अत एव सदानुवृत्तिः, नित्ययुक्त इति यावत्। 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 while Atyantika means that as a conséquence of the above, the Bhakti or Anubhava is a continuous experience (Nityayukta). 
 </details>
 
 उत्तरोत्तर-साक्षात्-काराभिनिवेशः **परभक्तिः** ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Parabhakti may be defined as that longing of the devotee to have a direct vision of God for ever and ever.
 </details>
 
 साक्षात्कारः **परज्ञानम्**।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The achievement of that vision of God is Para Gnaana. 
 </details>
 
 उत्तरोत्तरानुभवाभिनिवेशः **परमभक्तिः** ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The desire to have experience of that vision continued or perpetuated for ever and ever is Parama Bhakti. 
 </details>
@@ -119,21 +119,21 @@ The desire to have experience of that vision continued or perpetuated for ever a
 
 परिपूर्णत्वादिपदषट्कम् अनुभवविशेषणम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The next six words beginning with Paripoorna go to qualify "Anubhava";
 </details>
 
 परव्यूहादि सर्वावस्थ भगवद्विषयत्वं परिपूर्णत्वम्, सकृत्वव्यावृत्त्यर्थम् अनवरतत्वम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Paripoorana Anubhava means Perfect knowledge of the Lord! in all stages and all conditions; that is, in Para, Vyooha, Vibhava, Haardaa and Archaa stages which are His Divine manifestations.
 </details>
 
 अविरतेच्छा-वधिमत्वव्युदासाय नित्यत्वम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Anavarata (continuous) is the opposite of "once" or "sometimes".
 </details>
@@ -141,7 +141,7 @@ Anavarata (continuous) is the opposite of "once" or "sometimes".
 
 विरतनित्यत्वव्युदासाय अनवरतत्वम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The word 'Nitya' is used to repel any idea of limitation, i.e. to denote endlessness.
 </details>
@@ -149,35 +149,35 @@ The word 'Nitya' is used to repel any idea of limitation, i.e. to denote endless
 
 स्नानाग्निहोत्रादिकं हि विरतनित्यम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Why these two words? They are necessary to denote continuity without interruption, not like bathing or performing Agnihotra which are Nitya but are performed only at intervals or on occa sions.
 </details>
 
 परोक्षत्वव्युदासाय विशदतमत्वम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Visadatama dispels any doubt about the Anubhava not being direct. 
 </details>
 
 प्रयोजनान्तरार्थत्वव्युदासाय **अनन्यप्रयोजनत्वम्** । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Ananya Proyojana is used to denote the opposite of there being some other object in view.
 </details>
 
 तत्र हेतुः **अनवधिकातिशयप्रियत्वम्** । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Why? The answer is Anavadhika Atisaya Priya (limitless, intense affection).
 </details>
 
 प्रयोजनान्तरत्वाभावेऽपि सावधिकातिशयप्रियत्वव्युदासार्थम्, अनवधिकातिशयप्रियत्वमुक्तम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 For though there may be no other object in view, there may be limit to the Preeti (affection).
 </details>
@@ -185,14 +185,14 @@ For though there may be no other object in view, there may be limit to the Preet
 
 ईदृशानुभवेन जनिताऽनवधिकातिशयप्रीतिः - 'अहो मया ईदृशानुभवो लब्धः' इति पूर्वानुभवलब्धविषयनिरवधिकातिशयानुकूलप्रीतिसन्तानरूपा । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 To denote that it is not so, these words are used here. That is to say, the devotion caused by such experience is unlimited in its extensiveness. Athisaya is pre-eminence. 
 </details>
 
 तया अनुकारितम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
  "This experience of His by the Devoteee is explained to be with an ecsatcy of feeling caused by the experience already obtained by him. 
 
@@ -201,7 +201,7 @@ To denote that it is not so, these words are used here. That is to say, the devo
 
 **अशेषावस्थाः** - आस्थानान्तःपुरस्थित्य्-आदयः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 By Asesha Avastha: is meant such things as being seated in mantapa or resting in the Anta:pura: The word means service,
 
@@ -209,7 +209,7 @@ By Asesha Avastha: is meant such things as being seated in mantapa or resting in
 
 **अशेष**-शब्दः छत्र-चामर-कळाची+++(=हस्त-जङ्घ)+++--पादुका-ग्रहण--ताम्बूल-दानादि-परः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 like holding umbrella, waving 'Seshatva" chaamara, sounding kalanji (Thiruchinnam) serving as sandals, handing over betel leaves, etc.
 </details>
@@ -217,7 +217,7 @@ like holding umbrella, waving 'Seshatva" chaamara, sounding kalanji (Thiruchinna
 अनन्त-वैनतेयादीनां सर्वविध-कैङ्कर्य-प्राप्ताव् अपि  
 कैङ्कर्यं प्रतिनियतं दृश्यते,  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 But we know that Ananta (Sesha) and Garuda have their allotted tasks of service to the Lord.
 
@@ -225,28 +225,28 @@ But we know that Ananta (Sesha) and Garuda have their allotted tasks of service 
 
 "तत् कथम्?" इति शङ्कायाम् आह  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 How then can all the services be open to a Devotee? 
 </details>
 
 **रतिरूप** इति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 To explain away any such doubt, Ramanuja uses the words Rati-Roopa.
 </details>
 
 स्वेन कृतत्वेऽपि पर+++(-वैकुण्ठ-वासि)+++-प्रीतिर् एव फलम् -  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Service by whomsoever done is to the pleasure of the Lord.
 </details>
 
 'प्रहर्षयिष्यामि' इति ह्युच्यते।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 So Aalavandaar uses the words "Praharshaishyami" only to gladden thee, not for my own pleasure.'
 </details>
@@ -255,14 +255,14 @@ So Aalavandaar uses the words "Praharshaishyami" only to gladden thee, not for m
 स्वकृतत्वे सतीव प्रीतिस्  
 सर्वेषां जायत इति  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Therefore, the service, even if rendered by another, there is satisfaction as if done by oneself, and that is due to the feeling caused by witnessing the pleasure of the Lord by such service rendered by the other or others;
 </details>
 
 तादृश-प्रीतिरूपं कैङ्कर्यम् इत्य् अर्थः, इति मन्त्रचतुर्थ्यर्थोक्तिः ।+++(5)+++
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 such satisfaction itself is the service. The implication of the fourth (Dative) case (Naraayanaaya) is set out here. 
 </details>
@@ -271,7 +271,7 @@ such satisfaction itself is the service. The implication of the fourth (Dative) 
 **पारमार्थिकी** इति तमःकार्य-व्युदासाय ।  
 आनुकूल्यादि-शरीरवती, 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Paarmaarthikee means that the Saranaagati is not the result of Tamo Guna but due to the desire to do what will be pleasing to the Lord.
 </details>
@@ -279,7 +279,7 @@ Paarmaarthikee means that the Saranaagati is not the result of Tamo Guna but due
 
 तद्धि तस्या उपायान्तरेभ्यः व्यावृत्तं स्वरूपम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 That is the natural distinctive attribute of Saranaagati, distinctive from other Upayaas (ways of attaining Him) 
 </details>
@@ -287,21 +287,21 @@ That is the natural distinctive attribute of Saranaagati, distinctive from other
 
 यथावस्थिता इति रजःकार्य व्युदासाय । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Yatha avasthita " denotes that Saranaagati is not due to any RajoGuna.
 </details>
 
 प्रपत्तव्यविषयसम्बन्धरूपः प्रकारः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 This is to be taken along with true manner in which Saranaagati is to be performed. 
 </details>
 
 तत्साहित्यमभिप्रेतम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 It denotes its quality.
 </details>
@@ -309,28 +309,28 @@ It denotes its quality.
 
 शरणवरणानर्हे शरण्यत्वधीर्हि अयथावस्थिता स्यात् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 It cannot be true Saranaagati, if it is rendered unto a person not fit for such surrender. 
 </details>
 
 **अविरता** आफल-सिद्धेर् अ-विश्रान्ता ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Avirata-uninterrupted still goal is reached.
 </details>
 
 अव्यवहित-साधनम् इत्य् अर्थः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 That is, it is the direct means to attain the fruit desired and not indirect,
 </details>
 
 व्यवहितसाधनं हि मध्ये साधनान्तर-प्राचुर्ये स्वयं विरतं स्यात् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 for, such indirect means do not last till the end but 'cease at some time on the way. 
 </details>
@@ -532,7 +532,7 @@ Source: [1902 mysore](https://archive.org/details/gadyatrayamramanujacharyasruta
 [^3_pg22]: रजःकार्यव्युदासाय - अ ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (2) Pray Thee, bless my sincere and real Saranaagati at the Lotus Feet of Bhagavan so that it may become well and truly performed with all its angas (formalities) and be continued and without interruption till the goal of Purushaartha is reached. This with the object of securing for myself the privilege of the occupation of ever-service to the Lord. i.e. the satisfaction derived in all forms and kinds of service always suited to the conditions and circumstances of the moments and which is the result of boundless intense devotion born out of the experience of enjoyment of the Lord that is, the unbounded limitless, unselfish love for no other end but that of service direct Him,- A love perfect, enjoyed fully in all His manifestations, not now but continuously with no interruption - This again promoted by the sincere one-pointed and ever intense Para Bhakti, (i.e. the desire for His Vision) Para Jnaana (direct perception of God) Parama Bhakti (the longing to have that perception continued for ever) - Bhakti at the Lotus Feet of the Lord. [This prayer Sri is acceded to by Her.] 
 </details>
@@ -594,7 +594,7 @@ Bhakti at the lotus feet of the Lord.
 
 **साक्षाद् अस्तु मे । अस्तु ते** - इति  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Astu Te" these are the words of blessing by Lakshmi. Some say that these words were spoken by Sri Her-self; 
 </details>
@@ -602,14 +602,14 @@ Bhakti at the lotus feet of the Lord.
 
 'तेन मैत्री भवतु ते ' (रा. सुं. २१-२०) इत्य्-आदि-मानगत्या निश्चित्येति केचित् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 some say that the words are what Ramanuja himself says as having been spoken by Her as he felt sure that she would certainly say so; this is because she as Seeta has already declared in Ramayana "Tena Maitri Bhavatu" (word used by Seeta to Ravana). 
 </details>
 
 स्व-सम्बन्धि-सम्बन्धि-निस्तरणम्[^1_pg23] अपि **सर्व**-शब्दाभिप्रेतम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The words "Sarva" in Sarvam Sampatsyate is used to denote that not only the supplicant but also all those connected with him will be saved. 
 </details>
@@ -639,7 +639,7 @@ The words "Sarva" in Sarvam Sampatsyate is used to denote that not only the supp
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Says Sri:-"So shall it be, Thus done, All is attained," 
 

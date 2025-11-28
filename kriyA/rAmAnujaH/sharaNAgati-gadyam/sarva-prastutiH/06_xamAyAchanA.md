@@ -14,7 +14,7 @@ title = "०६ क्षमायाचना"
 
 प्रपत्तिं विवृणोति **तस्मात्** इति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then, Prapatti (meaning conveyed by Prapadye) is expounded.
 </details>
@@ -22,35 +22,35 @@ Then, Prapatti (meaning conveyed by Prapadye) is expounded.
 **ईशम् ईड्यम्** -  
 'न तस्येशे कश्चन, तस्य नाम महद्-यशः' (महाना.उ.१-१-२) इतिवत् ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Isam Idyam" conveys the idea that there is no "Isa" (Lord) above Him and He alone is to be worshipped. Compare the Santi passage "None to Lord over Him, the Highest is His glory."
 </details>
 
 पित्रादयस् तत्-तत्-सम्बन्धाद्+धि क्षमन्ते ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Parents, etc., forgive and bear with us because of their respective relationship.
 </details>
 
 अतः सर्व-विध-सम्बन्धात् त्वया क्षन्तव्यम् इत्यर्थः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 But Iswara does it because of His eternal connection with us in all manner of ways (not merely relationship by birth); He is bound to forgive us.
 </details>
 
 प्रार्थना-पर्यन्त-महाविश्वासः प्रपत्तिः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 What is Prapatti? Prapatti is the Supreme Faith in the Lord which culminates in solicitation to Him of our desires
 </details>
 
 महा-विश्वास-पूर्विका प्रार्थना वा ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 or it may mean the Prayer preceded by the supreme Faith.
 </details>
@@ -89,18 +89,9 @@ or it may mean the Prayer preceded by the supreme Faith.
 
 <details><summary>English</summary>
 
-(12) I seek Thy protection and surrender Myself unto Thine Lotus Feet. (Saranaagati) 
-
-Athra Dvayam :- (So far, Dvaya Mantra has been expounded). The explanation of this sentence with Mantra. 
-
-(a) (I do prostrate before Thee) - Renouncing my father, mother, wife, children, relatives, friends, even my Teacher, precious stones, wealth and goods, my field, my house, etc. all desires, and actions relating to them, as well as Kaivalya I prostrate at Thine feet which bestrode the Three worlds. 
- 
-(b) Oh Lord! I surrender Myself unto Thee. Thou alone art My Mother, My Father, Thou art My relations; even My Teacher Thou alone art. So also my learning, my wealth. Indeed Thou art My All. 
-
-(c) Oh! God of Gods, Thou art the Father of the Worlds moving and unmoving, worshipped by the World. Thou art greater than the greatest. There is no one bigger than Thee in all these Three Worlds. Oh! Thou of Matchless Glory. 
-
-(d) Therefore prostrating before Thee, with my body bent in adoration, I pray unto Thee, the adorable Master. Thou art like a Father unto a son, like a Friend unto a Friend, affectionate as to a Dear Person. Thou alone canst save me. 
+(d) Therefore prostrating before Thee, with my body bent in adoration, I pray unto Thee, the adorable Master. Thou art like a Father unto a son, like a Friend unto a Friend, affectionate as to a Dear Person. Thou alone canst save me.
 </details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -132,42 +123,42 @@ Athra Dvayam :- (So far, Dvaya Mantra has been expounded). The explanation of th
 प्रथमं **नमश्**-शब्दार्थम् आह  
 **मन** इत्य्-आदिना ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Sri Ramanuja then starts to expound the later portion of "Dvaya". In doing so, he first deals with the meaning of the word "Nama: "I salute". The word Nama: is taken first and even before the passage "Srimate Naraayanaya" (though it is earlier in sequence), because Good follows only after driving out the Evil. "Srimate Naraayanaya" indicates the attainment of Good, and "Nama," Destruction of Evil.
 </details>
 
 **अनादि-काल-प्रवृत्तत्त्वम्** आनन्त्यहेतुः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then Ramanuja prays for purification from his sins. Anaadikaala Pravrtta (collected over a long period of endless Time) is the reason for its being "Ananta."
 </details>
 
 प्रथमम् **अनन्त**-शब्दः सामान्यापराध-विशेषणम् ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The earlier word Ananta is an adjective qualifying all kinds of Apachaara (offences-the doing of prohibited acts and omitting to do acts prescribed,) in general.
 </details>
 
 सामान्यापराधम् उक्त्वा विशेषापराधमाह - **भगवत्** इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The second Ananta qualifies Apachaara. After referring to offences generally in the first instance, Sri Ramanuja goes on to specific offences, in the passage beginning with "Bhagavat."
 </details>
 
 **भगवद्-अपचारः** - शिशुपालादिकृतः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Bhagavat Apachaara is an offence like, one committed by Sisupala.
 </details>
 
 **भागवतापचारः** तु भागवत-विषये अर्थादि-निमित्तान्तरेण कृतः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Bhaagavat Apachaaras are offences towards His devotees (may be in the matter of money and other causes)
 </details>
@@ -175,7 +166,7 @@ Bhaagavat Apachaaras are offences towards His devotees (may be in the matter of 
 **भागवतापचारः** - भगवद्-अपचारः,  
 **भगवदपचारो** - भागवतापचार इति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 or it may be taken to mean that offences towards His Devotees are offences against Him also. That is denoted by Bhaagavat Apachaara. Offences against the Bhaktas or Bhaghavatas are Bhaagavata-Apachaara. [In the commentary the words Bhaaghavata Apachaara is repeated twice. But it makes the sense obscure and illogical. Hence one of them is to be omitted. Otherwise offence against Bhagvan will be taken an offence against Bhaagavatas also.]
 </details>
@@ -185,7 +176,7 @@ or it may be taken to mean that offences towards His Devotees are offences again
 भागवते अभागवतत्व-निमित्तापराधो[^1_pg54] वा,  
 अर्चावतार-विग्रहस्य अवैलक्षण्य-प्रतिपत्तिर् वा ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Asahya Apachaara means offences against Acharya or it may mean offences committed against Bhaagavatas, believing that they are not His Devotees or it may mean the belief that the idols in the temples are not any different from ordinary play-dolls.
 </details>
@@ -194,14 +185,14 @@ Asahya Apachaara means offences against Acharya or it may mean offences committe
 
 ऐकैककोट्य्-अवान्तर-भिदा-परो **नानाविध**-शब्दः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 By the word "Naanaa Vidha' is denoted that there are many sub-divisions in each of these various offences.
 </details>
 
 **सर्व**-शब्दः अपराधव्यक्तिकार्त्स्न्यपरः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The word "Sarva" is used to include all and every offences in its fold.
 </details>
@@ -209,14 +200,14 @@ The word "Sarva" is used to include all and every offences in its fold.
 कर्मणां वैदिककर्मानर्हतापादनशक्तिः,  
 प्रत्यवायकरत्व-शक्तिः वासना-जनकत्व-शक्तिश् चास्ति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Karmas have the capacity to make a man unfit for Vaidic ceremonies, to make him suffer the consequence of his sinful acts and to create in him a tendency to commit similar sinful acts.
 </details>
 
 तत्र अन्यतम-शक्ति-मात्रं क्षमा-विषयो मा भूद् इति **अशेषत** इत्युक्तम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 With a view not to exclude any of these categories, the word "Aseshatha :" is used.
 </details>
@@ -281,6 +272,12 @@ With a view not to exclude any of these categories, the word "Aseshatha :" is us
 
 </details>
 
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+(13) Pray grant me forgiveness without reserve of All my sins without exception, sins of various kinds, committed, being committed or to be committed - endless and beginningless, i.e. commission of acts forbidden, omission of acts enjoined to be performed, all committed by mind, or tongue or body towards Thee or Thine Devotees - sins unforgivable (so many in number) whether connected with acts started or not so started. Forgive me, Oh, Lord, my (poor) knowledge or action, however, perverse.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 मनोवाक्कायैरनादिकालप्रवृत्त अनन्त अकृत्यकरण कृत्याकरण भगवदपचार भागवतापचार असह्यापचाररूप नानाविध अनन्तापचारान् आरब्धकार्यान्, अनारब्धकार्यान् कृतान् क्रियमाणान्, करिष्यमाणांश्च सर्वान् अशेषतः क्षमस्व॥(21)
@@ -304,7 +301,7 @@ With a view not to exclude any of these categories, the word "Aseshatha :" is us
 
 अथ मोक्षविरोधि पुण्यपापरूपम्[^1_pg56] क्षामयति **अनादि** इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Next, Ramanuja prays to the Lord that He should forgive acts in form meritorious, but really sinful that may be committed by him.
 </details>
@@ -313,21 +310,21 @@ Next, Ramanuja prays to the Lord that He should forgive acts in form meritorious
 
 आत्मनो जगतश्च स्वातन्त्र्यधीः, देवतान्तरशेषत्वधीः भगवच्छेषवस्तुनि, स्वशेषत्वधीश्च विपरीतज्ञानम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Vipareetha Gnaana relating to Atman: this would consist of the knowledge that the Aatman and the world are entities that are not subject to control but independent entities by themselves, or that they are subject to the control of Gods other than Naraayana, or the idea that the things (which are really under the control of Bhagvaan) are under one's own service or control.
 </details>
 
 पुण्यञ्च स्वतन्त्रात्मधीमूलत्वात् भ्रान्तिमूलम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Even a meritorious act, if it arises out of the feeling that one's soul is an independent entity is one of perversity.
 </details>
 
 भगवद्भागवतदेवतान्तरभजनरूपं स्वार्थं स्वपुत्राद्यर्थञ्च यत्पुण्यं तत् - अशेषविषयम् विपरीत वृत्तम्[^2_pg56] इत्युच्यते[^3_pg56] । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 When a man performs an act solely out of a desire for gain to himself or to his family, even that meritorious act as being the worship of Bhagvaan, Bhaagavatas, or other Gods, it is said to be Vipareetha Vrtta contained in the word 'Asesha.'
 </details>
@@ -339,7 +336,7 @@ When a man performs an act solely out of a desire for gain to himself or to his 
 
 आचार्यसेवादिना शास्त्रजन्यज्ञाने सम्पन्नेऽपि वासनावशात् अनुवर्तमानम् इत्यभिप्रायेणोक्तम् अद्यापि वर्तमानम् इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Adyapi Vartamaanam."-Even though clearly instructed by Acharya and though the knowledge gained is comprehensive, because of the inherited tendencies, which cannot be shaken off (Vipareetha Gnaana) and Vipareetha Vritta do result. Hence "Adyaapi."
 </details>
@@ -362,11 +359,6 @@ When a man performs an act solely out of a desire for gain to himself or to his 
 </details>
 
 
-<details><summary>English</summary>
-
-(13) Pray grant me forgiveness without reserve of All my sins without exception, sins of various kinds, committed, being committed or to be committed - endless and beginningless, i.e. commission of acts forbidden, omission of acts enjoined to be performed, all committed by mind, or tongue or body towards Thee or Thine Devotees - sins unforgivable (so many in number) whether connected with acts started or not so started. Forgive me, Oh, Lord, my (poor) knowledge or action, however, perverse. 
-
-</details>
 
 
 <details><summary>मूलम्</summary>

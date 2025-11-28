@@ -13,42 +13,42 @@ title = "०५ द्वयादि"
 
 त्वं हि अगतीनां गतिरित्याह **अशरण्य** इति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 and Thou art the protector of the Helpless.
 </details>
 
 ततः किं भवत इत्याह **अनन्यशरण** इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Calling himself as a Ananya Sarana (helpless person).
 </details>
 
 त्वत्-शब्देन प्रागुक्ताकारविशिष्टतया योग्यत्वमभिप्रेतम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Twat Paadaaravindya yugalam" points out that He is possessed of all various virtues and qualities mentioned before and hence the person to be approached.
 </details>
 
 अवश्यकर्तव्यत्वाय पादग्रहणम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Ramanuja makes the surrender.
 </details>
 
 **अरविन्द**-शब्दश्च इह भोग्यत्वाय । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Aravinda because such a prayer at His feet is a pleasant performance.
 </details>
 
 **युगल**-शब्देन[^1_pg49] द्विवचनाख्यानम्। 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Yugala can be said to be explanatory of the dual (Charanow) mentioned in Dvaya Mantra.
 </details>
@@ -57,14 +57,14 @@ Yugala can be said to be explanatory of the dual (Charanow) mentioned in Dvaya M
 
 'अहमस्म्यपराधानामालयोऽकिञ्चनोऽगतिः' (अहि.सं.३७-३०) इत्य्-आदिकमभिप्रेत्याह अहम् इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Aham. I who am a great sinner who has committed an Ocean of sins."
 </details>
 
 प्रपद्ये इत्यन्तेन पूर्वखण्डो व्याख्यातः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Prapadye I surrender. Upto this the first portion of Dvaya Mantra has been expounded.
 </details>
@@ -93,6 +93,14 @@ Prapadye I surrender. Upto this the first portion of Dvaya Mantra has been expou
 </details>
 
 
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+the refuge of the Helpless, the one and the only Refuge (with no others to go for Help)
+
+(12) I seek Thy protection and surrender Myself unto Thine Lotus Feet. (Saranaagati) 
+</details>
+
+
 <details><summary>FX Clooney</summary>
 
 Refuge of those without refuge!  
@@ -101,7 +109,7 @@ And I, who have no other refuge, surrender at Your lotus feet. (5)
 
 <details><summary>मूलम्</summary>
 
-श्रीमन् ! नारायण! अशरण्यशरण्य ! अनन्यशरणः त्वत्पादारविन्दयुगलं शरणमहं प्रपद्ये !
+अशरण्यशरण्य ! अनन्यशरणः त्वत्पादारविन्दयुगलं शरणमहं प्रपद्ये !
 </details>
 
 <details><summary>विषयः - यदुगिरिग्रन्थोक्तः</summary>
@@ -113,6 +121,14 @@ And I, who have no other refuge, surrender at Your lotus feet. (5)
 
 [अत्र द्वयम् ॥]
 </details>
+
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+Athra Dvayam :- (So far, Dvaya Mantra has been expounded). 
+
+The explanation of this sentence with Mantra.
+</details>
+
 
 <details><summary>FX Clooney</summary>
 
@@ -143,7 +159,7 @@ Here the dvayam,
 पौराणिक वचनमुखेन[^1_pg50]  
 **पितरम्** इत्य्-आदिना ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then Sri Ramanuja goes on to give the full meaning of Ananya Sarana: Saranam Aham Prapadye by referring to quotations and passages from the Puranaas.
 </details>
@@ -152,21 +168,21 @@ Then Sri Ramanuja goes on to give the full meaning of Ananya Sarana: Saranam Aha
 
 **गुरु**-पर्यन्तानां साधनत्वम् उत्कटम् +++(लोके)+++।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 In the sloka quoted, all the things mentioned up to and including "Guroon" (i.e., the first portion). denote Upaayas (means to attain the goal.)
 </details>
 
 **दाराश्** च दृष्ट-साधनम् ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 In this case Daara (wife) is included in the first portion as In this she is the Means as well as Bhogya.
 </details>
 
 **रत्नादीनाम्** उपेयत्वम् उत्कटम् +++(लोके)+++।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The second half of the Sloka mentions other things such as Ratna, etc., as they are things considered to be valuable in this world.
 </details>
@@ -201,6 +217,10 @@ The second half of the Sloka mentions other things such as Ratna, etc., as they 
 
 </details>
 
+<details><summary>English</summary>
+
+(a) (I do prostrate before Thee) - Renouncing my father, mother, wife, children, relatives, friends, even my Teacher, precious stones, wealth and goods, my field, my house, etc. all desires, 
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -219,28 +239,28 @@ The second half of the Sloka mentions other things such as Ratna, etc., as they 
 
 आमुष्मिकं साधनं साध्यञ्चाह सर्व इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then, in the next sloka beginning with "Sarva" is set out the Upaayas to be used in the Paraloka (in the next world) and the gains to be obtained through them.
 </details>
 
 **अक्षर**-शब्देन केवलात्मनि पर्यवसानम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The word "Akshara" denotes Kaivalyam (enjoyment by the soul of itself only).
 </details>
 
 **लोकविक्रान्तविभु**-शब्दौ सौलभ्यपरत्वपरौ । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 By the words Loka Vikraanta and Vibho are denoted His qualities of easy accessibility and All Mightiness.
 </details>
 
 **शरण**-शब्दं विवृणोति त्वमेव इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then the word "Saranam" is expounded in the next Sloka.
 </details>
@@ -319,6 +339,11 @@ Then the word "Saranam" is expounded in the next Sloka.
 [^2_pg51]: गृह्यते - आ ।
 </details>
 
+<details><summary>English</summary>
+
+and actions relating to them, as well as Kaivalya I prostrate at Thine feet which bestrode the Three worlds.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -342,7 +367,7 @@ Then the word "Saranam" is expounded in the next Sloka.
 अयम् एव बन्धुः,  
 न तु पित्रादय इत्यभिप्रायेण **त्वमेव** इत्यावृत्तिः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Bhagavaan is the real father and relation in the matter of protection, etc., and to show that he does the function fully and better than the natural, father and others; The words "Twam Eva" is repeated at intervals.
 </details>
@@ -401,6 +426,12 @@ Bhagavaan is the real father and relation in the matter of protection, etc., and
 **देवदेव** इति सर्वप्रकारोत्कर्षपरम् ।
 </details>
 
+<details><summary>English</summary>
+
+(b) Oh Lord! I surrender Myself unto Thee. Thou alone art My Mother, My Father, Thou art My relations; even My Teacher Thou alone art. So also my learning, my wealth. Indeed Thou art My All.
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -422,14 +453,14 @@ Bhagavaan is the real father and relation in the matter of protection, etc., and
 रक्षकत्वे समाभ्यधिक-राहित्यम् उक्तम्,  
 सौलभ्ये वा ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The idea that "Not only is He my father but He is also the father of the whole world" is sought to be conveyed by the Sloka beginning with "Pita Asi." In the matter of protection of Jivas, there is none to equal Him or to excel Him. It is so even in the matter of easy accessibility.
 </details>
 
 अप्रतिमप्रभाव इति - परत्वस्योक्तिः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Apramatima Prabhaava pictures His All Mightiness.
 </details>
@@ -451,6 +482,12 @@ Apramatima Prabhaava pictures His All Mightiness.
 यद्वा, **लोकत्रय**-शब्देन सर्व-लोक-वर्तिनां लक्षणा ।  
 प्रभावतो ऽप्रतिमत्वस्य कण्ठोक्तत्वात्  
 **न त्वत्समोऽस्ति** इत्य्-आदिकम् इह कारुण्यादिषु योजितम् ।
+</details>
+
+<details><summary>English</summary>
+
+(c) Oh! God of Gods, Thou art the Father of the Worlds moving and unmoving, worshipped by the World. Thou art greater than the greatest. There is no one bigger than Thee in all these Three Worlds. Oh! Thou of Matchless Glory.
+
 </details>
 
 <details><summary>मूलम्</summary>

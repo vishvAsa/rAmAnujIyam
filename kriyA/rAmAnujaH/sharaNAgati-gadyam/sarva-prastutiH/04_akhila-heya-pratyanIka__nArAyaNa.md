@@ -21,7 +21,7 @@ title = "०४ अखिल-हेय-प्रत्यनीक-चूर्�
 अथ द्वयस्थं **नारायण**-शब्दं विवृणोति अखिल इत्य्-आदि-ना । 
 तत्र प्रथमपदेन **नार**-शब्दवाच्यानां धर्म्युच्यते । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then follows the exposition of the meaning of the word Naraayana found in Dvaya, the word indicating the person described, as the Visesha of Naraya in Dvaya. 
 </details>
@@ -29,7 +29,7 @@ Then follows the exposition of the meaning of the word Naraayana found in Dvaya,
 
 **अखिल**-शब्दः चिदचिद्गतक्लेशादिभावविकारादिहेयपरः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 "Akhila, etc" - Free from the pains and penalties or the changes which the sentient and non-sentient things are liable to in this World. 
 </details>
 
@@ -37,28 +37,28 @@ Then follows the exposition of the meaning of the word Naraayana found in Dvaya,
 
 **प्रत्यनीक** इति न केवलं विरहमात्रमित्यर्थः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Pratyaneeka" denotes not merely the absence of the evil qualities but that He destroys evil in others. 
 </details>
 
 **आनन्दकल्याण**-शब्दौ स्वपरापेक्षया अनुकूलत्वपरौ ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The words Aananda means being good to oneself, and anukuoola means good to others. 
 </details>
 
 आनन्दविवरणं वा **कल्याण**-शब्दः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 It may also be taken to explain the word Kalyaana. 
 </details>
 
 कल्याणानां गुणानां[^1_pg24] एकास्पदमिति वा **कल्याणैकतान**-शब्दार्थः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Kalyaana Aikataana mean the sole abode of, and completely full of, all kinds of, Virtues.
 </details>
@@ -67,14 +67,14 @@ Kalyaana Aikataana mean the sole abode of, and completely full of, all kinds of,
 
 यद्वा स्वसम्बन्धिनामपि मङ्गलावहता **कल्याण**-शब्दार्थः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Besides, Kalyaana means also good not only to one's self but also to others.
 </details>
 
 **एक**-शब्देन प्रदेशभेदेन जडत्वप्रतिकूलत्वव्युदासः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Eka" excludes the possibility of being jada or inauspicious in any portion. 
  
@@ -82,9 +82,11 @@ Besides, Kalyaana means also good not only to one's self but also to others.
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (3) [Then follows invocations to the Lord with a description of all His qualities, His divine Form, and His weapons, etc.] 
+
+\*[With no person to surrender myself to, I take shelter unto Thine lotus feet, Oh Sriman Naraayana!, the refuge of all the Helpless] the Enemy of all Evil and the Abode of all beneficient qualities, perfect embodiment (distinct from the forms of all other things) of immeasurable knowledge and of Bliss,
 </details>
 
 
@@ -115,7 +117,7 @@ ________________________
 
 अथ रूपम् । **अभिमतानुरूप**-शब्दौ पूर्ववत् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then, Ramanuja goes on to describe the Divya Vigraha, i.e., Divine personality of the Lord. Abhimata Anuroopa are to be understood as before. 
 
@@ -123,35 +125,35 @@ Then, Ramanuja goes on to describe the Divya Vigraha, i.e., Divine personality o
 
 **एकरूपत्वम्** - उभयलिङ्गत्वप्राप्यत्वोपास्यत्वैः । तर्कागोचरत्वम् अचिन्त्यत्वम् ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Ekaroopa denotes that He is distinbefore. distinguished by His two qualities, (I) freedom from evils and fullness of good qualities hence to be worshipped (II) being the object of attainment (Upeya). Achintya, that is beyond the reach of imagination or thought. 
 </details>
 
 **दिव्य**-शब्दद्वयम् द्रव्य-संस्थान-वैलक्षण्य-परम् ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Divya denotes that the Form is diferent in substance from common ordinary forms. The second Divya means that He is also different in structure. 
 </details>
 
 **अद्भुतत्वं** प्रतिक्षणम् अपूर्वत्वम् ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Adbhuta; presenting new forms of beauty every other minute; 
 </details>
 
 नित्यसंस्थानत्वं **नित्यत्वम्** ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Ever lasting" is Nitya;  
 </details>
 
 दौर्लभ्यावद्यराहित्यम् **निरवद्यत्वम्** ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Niravadya means Rare flawlessness, the fault of being not easily meditatable; unlike in the case svaroopa of God, 
 </details>
@@ -159,14 +161,14 @@ Niravadya means Rare flawlessness, the fault of being not easily meditatable; un
 
 **सौन्दर्यम्** - अवयवशोभा ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 His Vigraha is more easy to contemplate-Soundaraya:- loveliness-
 </details>
 
 **लावण्यम्** - अवयविशोभा ।+++(4)+++
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Laavanya:- Charm of the whole structure-
 </details>
@@ -175,7 +177,7 @@ Laavanya:- Charm of the whole structure-
 
 **आदि-**-शब्दार्थः - पीनवृत्तायतभुजत्वादि । अथ दिव्यात्मगुणाः । स्वाभाविक इत्य्-आदि स्फुटम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Adi may denote other beauties, like, roundness of limbs length of arms.
 </details>
@@ -269,9 +271,9 @@ Adi may denote other beauties, like, roundness of limbs length of arms.
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
-*[With no person to surrender myself to, I take shelter unto Thine lotus feet, Oh Sriman Naraayana!, the refuge of all the Helpless] the Enemy of all Evil and the Abode of all beneficient qualities, perfect embodiment (distinct from the forms of all other things) of immeasurable knowledge and of Bliss, bearing a form agreeable to Thee, Worthy of Thee, unchanging, beyond the reach of thought, Divine in essence wonderful to behold; Ever existing pure and Unsullied; pre-eminently Excellent, of Brilliant Loveliness; Sweet smelling, Charming with the prime of Youthfulness-indeed a Form full of such and a whole treasure of excellences. 
+bearing a form agreeable to Thee, Worthy of Thee, unchanging, beyond the reach of thought, Divine in essence wonderful to behold; Ever existing pure and Unsullied; pre-eminently Excellent, of Brilliant Loveliness; Sweet smelling, Charming with the prime of Youthfulness-indeed a Form full of such and a whole treasure of excellences. 
 </details>
 
 
@@ -333,49 +335,49 @@ beginning with splendor, beauty, fragrance, tenderness, handsome demeanor, and y
 
 **सौशील्यादि**-द्वादशम् भक्त-रक्षणासाधारणम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then follow the natural qualities of Paramaatman. Svaabhaavika-etc. The meaning is clear. The first six characteristics are common, then the next twelve are peculiar as being useful for thegrant of salvation to the Devotees. 
 </details>
 
 **सौशील्य** इत्य्-आदि-शीलं हि नाम - महतो मन्दैस्सहनीरन्ध्रेण संश्लेषस्वभावत्वम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Seela is where a superior has as his natural quality the quality of moving freely with the inferiors;
 </details>
 
 तस्य च प्रयोजनान्तरौपयिकत्वाभावात्, सौशील्यम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 when that is exercised for no selfish or other purpose, it is Sau-Seelya.
 </details>
 
 यद्वा ईश्वरत्वबुद्ध्या यथा आश्रितानां साध्वसं न स्यात्, यथा च स्वयमपि न स्वस्य परत्वबुद्ध्या विलक्षणस्स्यात्, तथा शीलत्वम् - सौशील्यम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 That is to say, Iswara does not cause fear in the heart of the Devotees by his Iswaratva nor does he generate any feeling in them of undue hesitation to approch Him. by His superiority. 
 </details>
 
 वात्सल्यम् - दोषेऽपि गुणत्वबुद्धिः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Vaatsalya is the quality to find good even in Evil:
 </details>
 
 यथा सद्यः प्रसूतायाः धेनोर्वत्से, 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Just as a cow fondles its new born dirty calf.
 </details>
 
 इदञ्च क्षमाकाष्ठारूपम्[^1_pg29] । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 This quality is one of the features of extreme patience. 
 </details>
@@ -384,7 +386,7 @@ This quality is one of the features of extreme patience.
 
 अत एव हि पृथगनुक्तिः क्षमायाः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Hence Patience is not mentioned separatelty. 
 </details>
@@ -394,7 +396,7 @@ Hence Patience is not mentioned separatelty.
 
 आश्रितविरहासहत्वं - **मार्दवम्** । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Maardava is the feeling of loss at any separation from the devotees,
 
@@ -402,7 +404,7 @@ Maardava is the feeling of loss at any separation from the devotees,
 
 तेष्वस्थानभयशङ्कित्वं वा । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 a feeling of apprehension when they are not present at any place.
 
@@ -410,7 +412,7 @@ a feeling of apprehension when they are not present at any place.
 
 मनोवाक्कायैकरूप्यम् - आर्जवम् । 
 
-<details><summary>English</details>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Aarjava denotes perfect correlation of mind, speech and body in action.
 
@@ -418,7 +420,7 @@ Aarjava denotes perfect correlation of mind, speech and body in action.
 
 यथा 'ऋजुबुद्धितया सर्वमाख्यातुमुपचक्रमे' इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 So it is said "Rajubudhyat sarvam akhayatum upachakarme" "because of His artlessness He (Rama) began to narrate to Surpanaka all about Himself"
 
@@ -426,7 +428,7 @@ So it is said "Rajubudhyat sarvam akhayatum upachakarme" "because of His artless
 
 सौहार्दम् - तेषामभिमतश्रेयोभिध्यायित्वम्, स्वसत्तानपेक्षतद्रक्षापरत्वं वा । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Sauhaarda:- Ever wishing well of His Devotees:- Intent in doing good to them without caring for any return.
 
@@ -434,14 +436,14 @@ Sauhaarda:- Ever wishing well of His Devotees:- Intent in doing good to them wit
 
 साम्यम् - जन्मवृत्तगुणवैषम्यमनपेक्ष्यं सर्वेषां समाश्रयणीयत्वे स्वीकृतानां तेषां सम्भावनाविशेषेषु मनसा - तद्विषयादरे च समत्वम्, तारतम्यधीरहितत्वम् । 
 
-<details><summary>English</summary> 
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary> 
 
 Saamya is the quality which does not make differentiation on account of birth, conduct or character; making Himself easily available to them all and also rewarding. them, not minding any difference in the gifts offered by them or their nature or value, in short no feeling of any difference.
 </details>
 
 कारुण्यम् - स्वार्थाऽनपेक्षा[^2_pg30] परदुःखाऽसहिष्णुता । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Kaarunya:-Removing the calamities and grievances without expecting any return.
 
@@ -451,7 +453,7 @@ Kaarunya:-Removing the calamities and grievances without expecting any return.
 
 माधुर्यम् - हन्तुं प्रवृत्तावपि रसापहत्वम् यथा 'एह्येहि फुल्लाम्बुजपत्रनेत्र!' (म.भा.भी. ५९-९८) इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Maadhurya: kindness shown even in inflicting punishment, such as, death. (ehi ehi phullaambuja patra netra) when Krishna goes to hit him with chakra, Bhishma cried to "Come, Come, Oh the lotus-eyed".
 
@@ -459,7 +461,7 @@ Maadhurya: kindness shown even in inflicting punishment, such as, death. (ehi eh
 
 गाम्भीर्यम् - आश्रितविषये 'एवमनेन चिकीर्षितम्' इति परिच्छेत्तुमशक्यत्वम्, दीयमानगौरवसम्प्रदानलाघवाऽनपेक्षत्वं वा । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Gaambheerya - of immesasurable depth (worth) as the greatness and value of the favours granted by Him to His devotees bear no proportion to the insignificance of the deserts of the favoured.
 
@@ -467,7 +469,7 @@ Gaambheerya - of immesasurable depth (worth) as the greatness and value of the f
 
 औदार्यम्'अन्यस्मै ददामि' इत्यभिमानविरहेण 'पुत्रवत्प्राप्तं भुङ्क्ते' इति बुद्ध्या दातृत्वम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Audaarya:- with no feeling that any devotee has been over favoured or not satisfied with the favours granted.
 
@@ -475,62 +477,62 @@ Audaarya:- with no feeling that any devotee has been over favoured or not satisf
 
 इदमियद्दत्तं मयेत्यस्मरणशीलत्वं वा । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 or with no feeling that favours are granted to a stranger, but is only as if to son who is entitled to the patrimony.
 </details>
 
 यद्वा सर्वं दत्वापि 'ऋणं प्रवृद्धमिव मे' इत्यतृप्तत्वम् औदार्यम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 Krishna felt indebted and remembered the debt when Drowpadi cried for help when being dishonoured.
 </details>
 
 चातुर्यम्आश्रितार्थेष्वजडक्रियत्वम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Chaaturya - affording instant relief to his Devotees
 </details>
 
 यथा साऽनुबन्धरावणवधेन विभीषणाऽभिषेकः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Rama performed the Abhisheka to Vibhishana on the battlefield itself.
 </details>
 
 यद्वा आश्रितदोषगोपनं वा - चातुर्यम्, यथा पित्रादेरिव ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 overlooking their faults just like a father.
 </details>
 
 **स्थैर्यम्** 'न त्यजेयं कथञ्चन' (रा. अयो. १०-३) इत्यभिसन्धिमत्वम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Sthairya :-Firm determination not to abandon His Devotees.
 </details>
 
 भक्तरक्षोपयोगिगुणाः द्वादश ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 These twelve (qualities) are useful to Him for saving His Devotees.
 </details>
 
 अथ तत्रैव रक्षणे विरोधिनिरसनौपाधिकं त्रिकम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then follow three qualities which go to help Him in punishing those who stand in the way of His protecting His Devotees.
 </details>
 
 धैर्यम् -स्वस्मिन् प्रतिपक्षागमे सत्यविकृतत्वम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Dhairya" - Unshaken stand against foes who stand in the way of granting such protection;
 
@@ -538,7 +540,7 @@ Then follow three qualities which go to help Him in punishing those who stand in
 
 यथा - 'जटाचूड[^1_pg31] ग्रन्थिं दृढयति' इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "jatajoota granthim drudhayathi" "making fast the knot of the hair."
 </details>
@@ -547,35 +549,35 @@ Then follow three qualities which go to help Him in punishing those who stand in
 
 स्वगृह इव परबले प्रवेशसामर्थ्यम्शौर्यम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Saurya": Prowess to enter the enemy's camp as easily as if entering His own house.
 </details>
 
 प्रवेशे सति तन्निरासकौशलं - पराक्रमः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Paraakrama - power to vanquish foes after entering their camp
 </details>
 
 यथा 'छिन्नं, भिन्नम्' इत्य्-आदि ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Chinnam Bhinnam" (at the time Rama's destroying Ravana's moola balam.
 </details>
 
 अथ भोग्यगुणयुगम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then are mentioned two qualities relating to enjoyment.
 </details>
 
 सत्यकाम इति नित्यविभूतिमत्त्वम् 'काम्यस्स्पृहा स्मरः कामः' इत्यनेकार्थः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Satyakaama denotes Iswara possessing of Nitya Vibhuti. [The word Kama has many meanings.]
 </details>
@@ -586,14 +588,14 @@ Satyakaama denotes Iswara possessing of Nitya Vibhuti. [The word Kama has many m
 
 **सत्यसङ्कल्प** इति लीलाविभूतिमत्त्वम्,स्वसङ्कल्पाऽनुवृत्युभयविभूतिमत्त्वं वा ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Satya Sankalpa denotes Iswara possessing the worlds for his Leela i.e., sport or recreation. Thus possessing the two worlds for his Dominion.
 </details>
 
 अथ भक्तरक्षाविषयम् उक्तद्वादशकादि विलक्षणं[^1_pg32] गुणद्वयमाहकृति इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The next two qualities refer to the protective activities of the Lord apart from the 12 qualities already mentioned.
 </details>
@@ -602,49 +604,49 @@ The next two qualities refer to the protective activities of the Lord apart from
 
 आश्रितकार्यपूरणेन कृतार्थत्वम् -कृतित्वम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Krititva is the state of satisfaction in having acceded to the prayers of the Devotees,
 </details>
 
 यद्वा कृतम् - क्रिया, तद्वत्त्वम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 therefore the word may mean One who is active,
 </details>
 
 आश्रितकर्तव्यस्य स्वयं कर्तृत्वम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 that is to say, He Himself does what the Devotees should have done
 </details>
 
 यथा 'अहं स्मरामि' इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Aham smarami". "I think of him at the death of the devotee though he may not remember me."
 </details>
 
 कृतमेव जानाति, न तु करिष्यमाणांशमकृतमिति कृतज्ञः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Kritaganata denotes 'I remember' i.e., remembering what has been done, but not what has to be done but left undone, or.
 </details>
 
 यद्वा, स्वल्पमप्याश्रितैर्यत्साधुकृतम्, तदेव जानाति, आश्रितकृतं दोषं स्वकृतं श्रेयश्च न स्मरतीति कृतज्ञः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Kritagna is one who remembers only the good act done, however small but not the faults, nor the return He is making to them.
 </details>
 
 'एकैक गुणेष्व[^1_pg33]नेकान्तर्भावाऽभिप्रायः **गण**-शब्दः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The word gana is used to denote that in the each of the qualities there are many (subvarieties) qualities contained in them.
 </details>
@@ -653,28 +655,28 @@ The word gana is used to denote that in the each of the qualities there are many
 
 स एव ओघः-प्रवाहः,
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Such Gana's flood is "Ogha".
 </details>
 
 तस्य महार्णवः,
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Mahaarnava is the Ocean.
 </details>
 
 न गुणायत्तं महत्वम् , गुणास्तु स्वावस्थाऽवस्थानाय भगवत्स्वरूपगताः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Virtues and qualities have no permanent value unless they seek abode in Bhagavan;
 </details>
 
 अन्यथा न स्थातुं शक्नुवन्तीति भावः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 indeed, without such refuge, they have no value.
 </details>
@@ -746,7 +748,7 @@ indeed, without such refuge, they have no value.
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (4) Thou art the Ocean unto which flow rivers of limitless excellent Virtues, all natural to Thee, and useful for the protection of the Devotees, such as, All knowledge, Mighty rulership of the worlds, Untiring virility; Power to act without any outside help; Kind disposition, like that of a cow to its calf. Affectionate tenderness; Gentleness; Truthfulness in Mind and speech and body, Friendliness, Feeling of Equality, Mercifulnesss, Sweetness, Nobility, Generosity, Quickness to respond to the miseries of the Devotees, Firmness in Thy resolve to protect Devotees, Undaunted courage to bring succour to them, Courage to fight for the Devotees: Ability to fight the enemies within their own one camp; Having Thine will ever fuifilled, Having Thy commands irresistable, Thy Deeds fully executed - Always remembering with gratitude (even a little worship) done to Thee. 
 </details>
@@ -790,7 +792,7 @@ all desires fulfilled, all intentions realized, the capability to carry out all 
 
 अथ भूषणानि॥ 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then Ramanuja goes on to describe the adornments and ornaments, on the Divya Vigraha of Iswara.
 </details>
@@ -798,21 +800,21 @@ Then Ramanuja goes on to describe the adornments and ornaments, on the Divya Vig
 
 कटक-मकुटादि जातिभेदो वैविध्यम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Vividha means different kinds of ornaments such as Kataka, Makuta;
 </details>
 
 एकैकाऽवान्तरभेदपरः **विचित्र**-शब्दः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Vichitra denotes varieties in each kind of ornaments.
 </details>
 
 अनन्ताश्चर्यम् निरतिशयाश्चर्यम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Anantaascharya - Excellent beyond any limit.
 </details>
@@ -820,63 +822,63 @@ Anantaascharya - Excellent beyond any limit.
 
 उत्तरोत्तरं निरवद्यत्वमनुसन्धेयम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Niravada is used to denote, "flawlessness for the purpose of contemplation".
 </details>
 
 विग्रहचिन्तायामपि पूर्वभाविनी हि दिव्याभरणचिन्ता ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 When starting contemplating on the Divine Form, naturally the vision of His ornaments comes on prominently before our mental eyes.
 </details>
 
 निरतिशयसुगन्धत्वादिकम् इतरभूषणवैलक्षण्यम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The quality of "Niratisaya Sugandhatvam" distinguishes these ornaments from the ordinary or common variety.
 </details>
 
 'सर्वगन्धस्सर्वरसः' (छां.उ.३-४-२१) इत्य्-आदि-वत् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 For the Sruti says "He is all sweet smelling and all Rasa"
 </details>
 
 मकुटङ्किरीटाग्रावयवो नायकाधारः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Makuta means the central piece in the head coronet in which the most precious stone is imbedded.
 </details>
 
 यद्वा, मकुटम् शिरोभूषणमात्रम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 or it may mean the Crown, itself.
 </details>
 
 यथा - 'ना कुण्डली ना मकुटी' (रा. बा.६ -१०) इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Compare "NaAkundali-Na-Amakuti " "No one in Ayodhya without Kundala and Makuta"
 </details>
 
 किरीटरूपं मकुटम् किरीट-मकुटम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Kireeta Rupa is Makuta, i.e., the head ornament.
 </details>
 
 **दिव्य**-शब्दः सर्वत्राऽप्राकृतपरः।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Divya means divine, not the ordinary kind the word is to be taken to quality all the above.
 </details>
@@ -902,7 +904,7 @@ Divya means divine, not the ordinary kind the word is to be taken to quality all
 [^3_pg34]: देवताध्यानेन अ ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (5) Oh! Narayna! Thou art decorated with all sorts and kinds of ornaments, Worthy of Thee, Most wonderful to behold, Ever lasting, Faultless, Sweet smelling, Soft to touch, Wonderfully splendourous, such as, the Crown bearing the central diadam of lustrous stone, other head ornaments, ear ornaments, necklaces and neck ornaments, garlands, shoulder-bracelets and bracelets in the hands, Sri Vatsa and Kaustubha, pearl garlands, waistlets, lace cloths, gold waist band and leg ornaments and others precious and innumerable. 
 </details>
@@ -940,14 +942,14 @@ a raiment of yellow silk, girdle and anklets,
 
 अथ दिव्यायुधानि ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then are mentioned His Divine weapons.
 </details>
 
 एकैकायुधस्य सर्वायुधकार्यशक्तिमत्त्वम् अचिन्त्य शक्तित्वम्[^1_pg34] ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Achintya Sakti" Each weapon has the power to do the work of all the weapons.
 </details>
@@ -956,7 +958,7 @@ Then are mentioned His Divine weapons.
 
 यथा सहायकृत्यङ्किन्तस्य[^2_pg34] येन सप्तमहाद्रुमाः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 as stated in Ramayana about the arrow of Rama.
 </details>
@@ -965,14 +967,14 @@ as stated in Ramayana about the arrow of Rama.
 
 शैलश्च वसुधा चैव बाणेनैकेन दारिताः' ॥ (रा. कि. ३६-८) इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 this refers to the splintering the seven saalaa (Aachcha) trees, the Hill and the Paataala Loka by one arrow of Rama let off by him to prove His Prowess to Sugreeva.
 </details>
 
 परशुटङ्कखनित्रादिकार्यम्, एकेन सालगिरिरसातलभेदिना शरेण हि कृतम्।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "The chisel, and spade were performed by one arrow of Rama" - works generally done with the help of a crowbar.
 </details>
@@ -980,28 +982,28 @@ this refers to the splintering the seven saalaa (Aachcha) trees, the Hill and th
 
 **निरवद्यत्वम्** - पूर्ववत् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Niravadya has been explained already.
 </details>
 
 निरतिशयकल्याणत्वम् - शोभनावहत्वम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Niratisaya Kalyaana denotes the par-excellent splendour of the whole vision.
 </details>
 
 तान्याभरणकोटावपि हि निविशन्ते ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 including weapons and ornaments.
 </details>
 
 अथ दिव्यमहिषीविशेषणानां पूर्ववदर्थः[^1_pg35] ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then comes a passage which describes the splendid attributes of Sri and ends by saying that Iswara is the Lord of such a Sri. (The meaning of the passage has been already given).
 </details>
@@ -1028,7 +1030,7 @@ Then comes a passage which describes the splendid attributes of Sri and ends by 
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (6) Oh! Narayana, Thou bearest also various weapons of par-excellent powers, and worthy of Thee i.e. the Conch, the Discus, the Mace, the Sword and the Bow and such like other innumerable auspicious divine weapons of exceeding all others in power and Force. 
 
@@ -1064,21 +1066,21 @@ beginning with the conch, discus, club, sword, and bow!
 
 अथातिदेशः - एवम् इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 He is also the Lord of Bhoo Devi and Neelaa Devi who are also possessed of the splendid qualities similar to these mentioned in connection with Sri. This is indicated by the word "Evambhoota."
 </details>
 
 लक्ष्म्य्-अपेक्षया भूम्यादीनामपि शेषत्वाभिप्रायेण पृथगुक्तिः,
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The two Devis are mentioned separately as they occupy not the same status as Sri, but are her "Seshabhootas."
 </details>
 
 यथा, 'याभिस्त्वं स्तनबाहुदृष्टिभिरिव स्वाभिःप्रियं श्लाघसे' इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Accordingly, it is said in Sri Guna Ratnakosa that Laxshmi pleases Her Lord by means of Bhoo and Neela whom she considers as her organs breast, hands, feet and look.
 </details>
@@ -1100,7 +1102,7 @@ Accordingly, it is said in Sri Guna Ratnakosa that Laxshmi pleases Her Lord by m
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (7) Thou art also the Consort of Sri with a form harmonising, with Thine and of highly beneficeient qualities, such as Glory, Rulership with unenumerable excellent qualities; Thou art also the consort of Bhoo Devi, and Neelaa Devi, possessed of similar qualities. 
 
@@ -1139,14 +1141,14 @@ You are the consort of Bhūmī and Nīlā who are like Śrī!
 
 अथ परिजनः, - सजातीय विजातीयव्यावर्तकाकारविशिष्टंस्वरूपम् , तस्य प्रतिनियतकालसम्बन्धः - स्थितिः, ईश्वरेच्छां ज्ञात्वानुवर्तते नित्यसिद्धाः, संसारिणस्तु तदनभिज्ञाः, तत्सङ्कल्पात्प्रवर्तन्त इति भिदा अभिप्रेता । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Next, come " Parijanas": His Attendants. Swaroopa denotes a form distinguished from forms similar to, and different from forms of other kinds. "Sthiti" explains that things exist only so long as they are fixed in their places. It is here intended to point out the difference between Nitya Siddhas and the Samsaarins - While the former understand and know the wishes of the Lord by their own perceptive powers, the Samsaarins do not know of His wishes and desires but act only as the Lord wills.
 </details>
 
 भेदः - स्वरूपस्थितिप्रवृत्तिविशेषः, यद्वा संसारिभ्यो नित्यानां व्यावर्तकधर्माः, स्वच्छन्दानुवृत्तिस्वरूपस्थितिप्रवृत्तय इत्यर्थः 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The word "Bheda" qualifies the words Swaroopa, Sthiti, and Pravritti and shows the difference between them; it may also show that these activities etc., of Samsaarins are different from those of Nityas. Again, the word may be taken together as Swachachanda Anuvrtti - Swaroopa - Sthiti - Pravrttaya: (That is to say, the Nityas are distinct and are to be distinguished from Samsaarins, for, they act understanding intuitively the wishes of the Lord.)
 </details>
@@ -1154,21 +1156,21 @@ The word "Bheda" qualifies the words Swaroopa, Sthiti, and Pravritti and shows t
 
 नित्यनिरवद्य इति मुक्तव्यावृत्तिः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Nitya-Niravadya distinguishes Nityas from the Muktas.
 </details>
 
 क्रिया - कैङ्कर्यम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Kriya" here means Service to the Lord.
 </details>
 
 ऐश्वर्यम् - देहेन्द्रियादि नियमनम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Aiswarya means the control and direction of the activities of the body, organs, etc.-
 </details>
@@ -1176,35 +1178,35 @@ Aiswarya means the control and direction of the activities of the body, organs, 
 
 शेषाशनः - सेनापतिः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Sesha-asana is Vishvaksena, (for he is the eater of the remains of the food of the Lord) Cf. Aalvandaar's Stotra Ratna, "the Eater of the food left over after thy eating."
 </details>
 
 छत्रचामरपादुकापतद्ग्रहधारणादिभेदेन नानाविधाः , तत्र एकैककोटिनिविष्टाश्च अनन्ताः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Naanaavidha:of different kinds - Holding the Umbrella, whisking the Chaamara, serving as sandals or as a seat or the holding the betel spittoon are the varieties of such services. In each of the services the devotees employed are so many and innumerable.
 </details>
 
 विमलाद्यभिप्रायेणोक्तम् परिचारिका इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Parichaarikaa is used keeping in mind females like Vimala (one of the lady attendants who whisk chaamaras.)
 </details>
 
 उक्तस्स्वरूपरूपगुणविभूषणादीनां परत्वसौलभ्यसाधारणत्त्वात् , दिव्यलोकविशेषात्पूर्वन्तदुभयमाह - परम इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then follows a description of Vaikuntha and describes Naraayana as the Lord of Vaikuntha.
 </details>
 
 परमस्वरूपम् - नियन्तृस्वरूपम् , परमस्वभावः - सौलभ्यम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 In the former case, ParamaSwarupa means His natural and supreme attribute of Rulership. Saulabhya is easy accessibility.
 
@@ -1212,35 +1214,35 @@ In the former case, ParamaSwarupa means His natural and supreme attribute of Rul
 
 निरूपकादन्यो निरुपाधिकधर्मः - स्वभावः। 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Parama Swabhaava denotes some quality, other than swaroopa.
 </details>
 
 परमयोगि इत्य्-आदिकं देशविशेषणं वा । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 In the next passage, "Parama Yogi Vangmanasa Aparicchedya Swarupa Swabhaava" may be taken by itself as in the vocative case qualifying Paramatman'; or as qualifying Vaikuntha.
 </details>
 
 तथा श्रीवैकुण्ठगद्योक्तेः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 as described in Vaikuntha Gadya.
 </details>
 
 तदा, स्वरूपं - सन्निवेशविशेषविशिष्टद्रव्यम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 In the latter, the word Swarupa will signify a structure.
 </details>
 
 तस्य भोग्यताप्रकारः स्वभावः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Enjoyability is its natural attribute.
 </details>
@@ -1273,10 +1275,9 @@ Enjoyability is its natural attribute.
 तत्तत्सेवाविशेषनियतासङ्ख्यातावान्तरेच्छादिवैचित्र्याभिप्रायेण **अनन्तगुणगण**-शब्दः । शेषादीनां विशेषाः 'तया सहासीनम्' (स्तो. र. ३९) इत्य्-आदि श्लोकेषु द्रष्टव्याः । आसन-वाहन-सेनेश-द्वारपालादिभेदेन नानाविधत्वम्। अनन्तत्वम् इहासङ्ख्यातत्वम् । इह परिजनाः - छत्रधारकादयः । परिचारिकाः अनुग्रहविमलाद्याः । तथा कान्तिवारुणीसूत्रवतीरुद्रासुकीर्ति प्रभृतयः शेषादिपत्न्यः । ता अपि हि तेषां यथार्हं सान्तःपुरस्वामि सेवाविशेषार्था एव[^2_pg37] | एवं 'गुणैर्दास्यमुपागतः' (रा. कि. ४-१२) इति न्यायेन स्वामिविग्रहगुणैरपि कैङ्कर्ये प्रेरितत्वमभिप्रेत्याह परिचरितचरणयुगल इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
-(8) Thou possessest also innumerable followers and servants, male and female, to minister to Thy wants and comforts, waiting at Thine Feet, whose form, existence and actions are due to Thine will; they are, Aadisesha, Vishvaksena, Garuda, who are endowed with host of beneficient virtues, Unperishing. Pure, Of limitless wisdom and energy for action, Endowed with power to direct and maintain. 
-
+(8) Thou possessest also innumerable followers and servants, male and female, to minister to Thy wants and comforts, waiting at Thine Feet, whose form, existence and actions are due to Thine will; they are, Aadisesha, Vishvaksena, Garuda, who are endowed with host of beneficient virtues, Unperishing, Pure, Of limitless wisdom and energy for action, Endowed with power to direct and maintain.
 </details>
 
 
@@ -1311,14 +1312,14 @@ first of all Śeṣa, Viṣvaksena, and Garuḍa—whose differences in proper f
 
 विविधत्वं जातिभेदः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Vividha denotes different varieties of the same thing.
 </details>
 
 एकैकस्य[^1_pg38] व्यक्त्यानन्त्यम् अनन्त शब्दार्थः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The innumerability of each of the variety of the things is described by Ananta.
 </details>
@@ -1327,21 +1328,21 @@ The innumerability of each of the variety of the things is described by Ananta.
 
 आश्चर्यतारूपेण आनन्त्यं वा । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Wonders are so many and numerous.
 </details>
 
 विभवः -आयतनाद् बहिः भोग्य समृद्धिः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Vibhava denotes the abundance of enjoyable things-outside such as,
 </details>
 
 स्रक्चन्दनादिव्यतिरिक्त रथादि[^2_pg38]-समृद्धिर्वा।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 merely, chariots, etc., (not garlands, and sandals, etc.) 
 </details>
@@ -1350,14 +1351,14 @@ merely, chariots, etc., (not garlands, and sandals, etc.)
 
 **नित्यं** नित्यसंस्थानम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Nitya means Eternal Existence.
 </details>
 
 **निरवद्य** इति अवद्यादयो[^1_pg39] न तत्रत्यानामित्यर्थः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Niravadya is used to show that there is no blemish or fault in any of the things found in Vaikuntha.
 </details>
@@ -1366,7 +1367,7 @@ Niravadya is used to show that there is no blemish or fault in any of the things
 
 **निरतिशय** इति अनुत्तमवत् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Niratisaya the word nothing higher than this, meaning something like Anuttama.
 </details>
@@ -1393,7 +1394,7 @@ Niratisaya the word nothing higher than this, meaning something like Anuttama.
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (9) Thou art also the Lord of Vaikuntha, the Eternal, Faultless, Unmeasurable World, beyond the speech or the minds of even the holy Yogins - a Country dear to Thee, containing in itself all kinds and varieties of enjoyments and the things helpful for such enjoyments as also places convenient for such enjoyments, full of all kinds of Vibhavas - Such is the Vaikunta of Thine, Oh! Lord. 
 
@@ -1434,7 +1435,7 @@ with objects of enjoyment and instruments of enjoyment endless in kind and varie
 
 अथ लीलाविभूतिः - [^1_pg40]नियमनञ्च धारणसिद्धम्[^1_pg40] स्वसङ्कल्प इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then follows a description of Leelaa Vibhooti, the Universe and all things in it. By the word, "Svasankalpa" it is meant to convey the meaning that not only that He controls and directs but also that He sustains and protects.
 </details>
@@ -1443,35 +1444,35 @@ Then follows a description of Leelaa Vibhooti, the Universe and all things in it
 
 शेषत्वमाहस्व इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then about Seshaatvam. This means that the whole Universe is under service to Him.
 </details>
 
 कालस्य प्रकृत्यनन्तरानुक्तिः प्रकृतिपुरुषयोस्संयोग वियोगहेतुत्वात् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Kaala generally comes after Prakrti as both are Achetana. Here, the reason why "Kaala" is not mentioned next after Prakrti but before is because it acts as the Kaarana" the cause of the Purusha and Prakrti bringing together and also separating one from the other.
 </details>
 
 'तस्यैव तेऽन्येन धृते वियुक्ते रूपान्तरम्' इति ह्युच्यते ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Vishnu Purana says: "Distinct from Vishnu, there are two things called Pradhana and Purusha. As the active principle to bring them together also to separate them is Kaala. That also is His body.”
 </details>
 
 शब्दस्पर्शादिरूपेण वैविध्यम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 “Vividha” variegated in the matter of sound, touch, etc.
 </details>
 
 तदवान्तर भिदया[^1_pg41]। विचित्रत्वम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Vichitra" implies distinction.
 </details>
@@ -1480,7 +1481,7 @@ Vishnu Purana says: "Distinct from Vishnu, there are two things called Pradhana 
 
 **निखिल**-शब्देन ब्रह्मादिव्यावृत्तिः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The word Nikhila is used to differentiate Iswara from Brahma (The Four-faced) and others.
 </details>
@@ -1501,7 +1502,7 @@ The word Nikhila is used to differentiate Iswara from Brahma (The Four-faced) an
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (10) Thy sport is the Creation, Maintenance and the Dissolution of the worlds which contain in themselves many different kinds of enjoyments, the instruments of enjoyment and suitable places for such enjoyment, such as, Prakrti, Purusha and Kaala which are by their nature ever under service to Thee, Oh! Lord, in the matter of their Form, their existence, and their activities; they always follow only Thy wishes and the dictates of Thine. 
 
@@ -1540,56 +1541,56 @@ whose sole proper nature is to be dependent in proper form, continuation, and ac
 
 अथ उक्ताकारेषु समाख्याष्टकं प्रमाणयति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The following eight Namas (names) are used as proofs to show that He is possessed of all the qualities mentioned before as natural to Him.
 </details>
 
 **सत्यकाम** इति - नित्यविभूतिमत्त्व-सिद्धिः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 By Satyakaama, the Lord is denoted as possessing Nitya Vibhooti.
 </details>
 
 **सत्यसङ्कल्प** इति लीलाविभूतिमत्त्वसिद्धिः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Satya Sankalpa denotes the possession of Leelaa Vibhooti
 </details>
 
 निमित्तमात्रत्वं सत्यसङ्कल्पतया सिद्धमिति उपादानतामप्यभिप्रयन्नाह परब्रह्मभूत इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 and also that He is the nimitta Kaarana (creative cause). To show that He is also the Upaadaana Kaarana, the name parabrahmabhoota is used.
 </details>
 
 उपादानत्वेऽपि चिदचिद्गतदोषास्पृष्टत्वमाह पुरुषोत्तम इति।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 To show that though He is the Upaadaana Kaarana, He is not affected by any infirmities of material things, the next Nama, Purushothama is used.
 </details>
 
 उपादनभूतस्य कथं जगद्वैलक्षण्यम् इति शङ्कायां घटकमर्थमाह महाविभूते इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 To dispel any doubt that may be created as to how, being the Upadaana Kaarana, He can be said to be separate and distinct from Prakarti, the next Name Mahaa Vibhooti is used reminding us of the harmonising sruti.
 </details>
 
 शरीरकतया विभूतिमत्त्वमभिप्रेतम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 That is to say, He has the Vibhootis as His Body.
 </details>
 
 विभूतिं प्रति शेषत्वं द्विनिष्ठम् इत्यभिप्रायेणाह श्रीमन् इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 To denote that they both Iswara and Sri. are jointly Masters, the word 'Sriman' follows.
 </details>
@@ -1597,28 +1598,28 @@ To denote that they both Iswara and Sri. are jointly Masters, the word 'Sriman' 
 
 महविभूते इति शरीरकतया विभूतिमत्त्वसाधारणोक्तमर्थं विविच्य दर्शयिष्यन् दोषास्पृष्टत्वसिद्धये लीलाविभूति शरीरकत्वमाह - नारायण इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The next name Naaraayana "is used to convey the same sense in some detail (i.e., Iswara and Sri). That He is not affected by the infirmities attaching to the Vibhooti, has been already expressed in some what general terms by the word "Mahaa Vibhooti.
 </details>
 
 'नराज्जातानि तत्त्वानि नाराणीति ततो विदुः' इति निर्वचनमिहाभिप्रेतम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The Nirukti of the word (Naaraayana) Naraat Jaataani. Tatvaani Naraani Iti Tato Vidu:"
 </details>
 
 नित्यविभूतियोगे समाख्यां स्पष्टयतिवैकुण्ठनाथ इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Again, to show explicitly and authoritatively the existance of NityaVibhooti, the name Vikunta Naatha is used.
 </details>
 
 'कुठि-गतिप्रतिघाते' (धा.पा.३४३) इति धातुः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The root meaning of Vaikuntha is as follows: The root Kuthi = gati-Pratighaata means "to obstruct know ledge"
 </details>
@@ -1626,7 +1627,7 @@ The root meaning of Vaikuntha is as follows: The root Kuthi = gati-Pratighaata m
 
 ज्ञानप्रतिघातिकर्मादिरहितास्सूरयो विकुण्ठाः, तत्सम्बन्धिदेशो वैकुण्ठाख्यः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The obstructions are caused by Karma. Vi = without; Vikuntha = without karma or obstruction to knowledge. Souls whose knowledge is not obstructed by karma and such like impediments are called Vikuntha. The place where they reside is called Vai-kunta.
 
@@ -1675,6 +1676,12 @@ The obstructions are caused by Karma. Vi = without; Vikuntha = without karma or 
 </details>
 
 
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+(11) Thy will fulfilled, Thy commands carried out, by all, Thou art the Para Brahma, the biggest of persons of great might and wealth; Thou art the Consort of Sri! Oh! Naaraayana, Lord of Vaikuntha
+</details>
+
+
 <details><summary>FX Clooney</summary>
 
 You have all desires fulfilled!  
@@ -1705,34 +1712,34 @@ Possessed of great glory! With Śrī! Nārāyaṇa! Lord of Vaikuṇṭha!
 
 एवम् उपायोपेयत्त्वसाधारणाकारा उक्ताः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 Thus far, the nature of the Brahman and Its attributes and qualities, appertaining to both of the aspects of being the Upaaya (the means to an end) and Upeya the goal to reach, have been adumbrated.
 </details>
 
 अथ उपायत्वैकान्तगुणा उच्यन्ते अपार इत्य्-आदि-ना । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Next follow His qualities, specially relating to the Upaaya aspect only. The enumeration starts with Apaara.
 </details>
 
 कारुण्याद्यगोचरे मय्यपि कार्यकरं कारुण्यादिकमिति **अपार**-शब्दस्य भावः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 This word is used to show the extent of His Mercy; it includes and operates on, even in respect of, a person who does not deserve to come within its range.
 </details>
 
 कारुण्यादिकं पूर्ववत् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Kaarunya has been already explained.
 </details>
 
 'संसारिणां स्वरक्षण विघातकत्वे [^1_pg45]ऽपि तान् स्वातन्त्र्येण नियम्य रक्षितुं शक्तः' इत्यभिप्रेत्य ऐश्वर्यम् इत्युक्तम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Aiswaraya is meant to express the sense that though a Samsaarin acts in a such bad way as to cause obstruction to his being saved, he is still protected by the Lord. He is Infinite Mercy, and by His own unrestricted independent powers, directs the protection of such persons also.
 </details>
@@ -1741,28 +1748,28 @@ Aiswaraya is meant to express the sense that though a Samsaarin acts in a such b
 
 ऐश्वर्यं - नियन्तृत्वम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Aiswaraya means also His Lordship or Directorship.
 </details>
 
 संसारिचित्तवशीकरणोपायतया सौन्दर्यम् उक्तम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 That He attracts and makes Samsaarins come under His protection is conveyed by the word "Soundarya."
 </details>
 
 यथा 'पुंसां दृष्टिचित्तापहारिणम्' (रा. अयो. ३-२९) इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 That is why it is said "Pumsaam Drishti Chitta Apahaarinam" (He who steals the sight and the hearts of men).
 </details>
 
 'जितन्ते' (जि. स्तो. १) इति च ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 and "Jitam Te" "Victory to you."
 </details>
@@ -1789,6 +1796,10 @@ and "Jitam Te" "Victory to you."
 
 </details>
 
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+Thou art the ocean filled with beneficient qualities, such as, unlimited mercy, easy accessibility, affectionate kindness, generosity, rulership, extreme comeliness. 
+</details>
 
 
 <details><summary>FX Clooney</summary>
@@ -1812,77 +1823,77 @@ Great ocean of measureless compassion, good disposition, affection, generosity, 
 <dg 45/>
 उक्तविशेषणफलमाह - अनालोचित इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Having thus far described the very many virtues and qualities of Iswara, now Bagavad Ramanuja goes on to show that the phala of possession of these qualities, That is to invite surrender (Saranagati.) He starts with "Anaolochita-Visesha
 </details>
 
 विशेषःजन्मवृत्तगुणतारतम्यम्, 'लोकस्तु भुवने जने' (अ.को. ३) 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 which denotes that there is no distinction on account of caste, conduct or character. Loka includes all worlds and the living beings therein.
 </details>
 
 एवं गुणवत्तां निश्चित्याह प्रणतार्तिहर इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 He is Pranataarti Hara, i.e. capable of removing all calamities of His Devotees, because of the possession by Him of all the virtuous powers and qualities.
 </details>
 
 स्वस्यैवंविधबुद्धियोगप्रदं वरदमभिप्रेत्यैवमुक्तम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 This is the name of Varadaraja of Kanchi. Its special mention here by Sri Ramanuja may be in remembrance of the special grace shown to him by Kanchi Varada and his consort who appeared as hunter and huntress to help him when he was deserted by the Yadava Prakaasa in a forest. The mention may also be due to the special grace shown to him by Varada of Kanchi genarally.
 </details>
 
 तस्मिन् विशेषतः आविर्भूतं स्वस्मिन् विशेषतः कार्यकरञ्च गुणमाह आश्रित इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The attribute Aasritavaatsalya is useful to Him in his activities (of protecting his Devotees).
 </details>
 
 उपायत्वौपयिकगुणेषु वात्सल्यगुणो हि स्वस्मिन् विशेषतः कार्यकरोऽभिमतः, तथापि त्वय्यपि किञ्चित्कारोऽवश्यमपेक्षित इति भगवदाशयं बुध्वाऽऽह - अनवरत इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The quality of "vaatsalya" (affection as that of cow to its calf) is specially mentioned as Ramanuja believes that it is a quality most noticeably radiant in Him. The next following Nama "Anavarata" etc., is mentioned by Sri Ramanuja as he believed that it is the opinion of Iswara that some action on Jeeva's own part is necessary (for invoking the Grace of God).
 </details>
 
 'तव सार्वज्ञं न कतिपयविषयम्, नापि कादाचित्कञ्च, कथं ममाशक्तत्वमविदितम्' इति भावः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Your omniscience is not limited to certain matters, or to a particular time. How then will my helplessness not be known to thee" is the idea expressed.
 </details>
 
 आनुकूल्याभावेऽपि प्रातिकूल्यनिवृत्तिरपेक्षितेति भगवदाशयं बुद्द्वाऽऽह - अशेष इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The next passage begining with Asesha is used to express the idea that it is His pleasure that though the Jeeva may not be co-operative, the Jeeva must at least be not obstructive.
 </details>
 
 तन्निवृत्तिरपि त्वदायत्तेति भावः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The ultimate meaning is that even "Nivrtti" ("inaction ") is also His doing or His will.
 </details>
 
 ननु 'किं' भवद्रक्षणमावश्यकृत्यम् इति शङ्कायामाह - अशेषचिदचित् इति। 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 To remove any doubt that may arise as to why Iswara should save the soul of Jeeva, the words "Asesha Chit-Achit " are used.
 </details>
 
 रक्ष्यापेक्षापि[^2_pg46] त्वदधीनेत्याह निखिल इति 'कस्यापेक्षया चिदचिद्वस्तुजातं धृतम्' इति भावः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Even the prayer to Thee by the Jeeva that he should be saved is also due to Thy Will; "Why then shouldst thou sustain and allow them to grow?" 
 </details>
@@ -1896,6 +1907,12 @@ To remove any doubt that may arise as to why Iswara should save the soul of Jeev
 
 'सर्वस्य शरणं सुहृत्' ( श्वे. उ. ३-१७) 'सुहृदं सर्वभूतानाम्' (भ.गी. ५ - २९ ) 'सर्वलोकशरण्याय' (रा.यु.१७-५५) 'सर्वयोग्यमनायासम्' (वि.ध) इत्य्-आदि प्रसिद्धस्वभावस्य वायस-वानर-राक्षसादिविशेषानादरेणाङ्गीकुर्वतस्ते मादृशजनेऽपि गुणवृत्तादिनिकर्षो न त्यागकारणमित्याह - अनालोचितविशेष इति । अत्र **विशेष**-शब्दविवक्षितम् अनालोचितगुणगण! इति श्रीवैकुण्ठगद्ये व्यञ्जितम् । प्रपत्तेस्सर्वाधिकारत्वमपि अनेनैव प्रकाशितम् । 'दुर्गसंसारकान्तारमपारमभिधावताम् । एकः कृष्णनमस्कारो मुक्तितीरस्य देशिकः' ॥ (वि.ध.१-१८) 'प्रणम्य कृष्णं सहसा' (वि.ध. ४-३५) 'एकोऽपि कृष्णे सुकृतप्रणामः' (म.भा. आ.४६-१२३) इत्य्-आदि-षूक्तम् अल्पयत्नसाद्यत्वमाह - प्रणतार्तिहर! इति । अनेन स्वस्यैवं विधावस्थाहेतुरवतारविशेषोऽप्यनुसंहितः । उक्तं हि स्वयमेव, 'निरस्तेतरभोगाशो वरदं शरणं गतः' (हस्तिगिरिमाहात्म्यम्) इति। 
 </details>
+
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+Thou art again the refuge of the whole world without any distinction (as to race, colour or caste). 
+</details>
+
 
 
 <details><summary>FX Clooney</summary>
@@ -1924,6 +1941,13 @@ The refuge of the whole world without remainder, with no consideration of distin
 
 उपायान्तरं स्वीक्रियतामित्यत्र 'अस्मान्वेत्थ परान्वेत्थ' (म.भा.उद्यो.७२-१०१) इति प्रकारेण मादृशानामकिञ्चनानाम् अधिकर्तव्यम्।
 </details>
+
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+Thou removest the distress of those that resort to Thee. Thou art the Ocean of motherly affection towards your Devotees. 
+</details>
+
+
 
 <details><summary>FX Clooney</summary>
 
@@ -1965,6 +1989,11 @@ You are a unique ocean of tenderness for those taking refuge!
 
 </details>
 
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+Thou art All Knowing, knowing all the time the true nature, etc. of all the groups of Beings. 
+</details>
+
 
 <details><summary>FX Clooney</summary>
 
@@ -1988,6 +2017,12 @@ You are the reality of all beings ever known to You!
 गोपालदेशिकाह्निके ऽयम् भागो लुप्तः।
 </details>
 
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+Thou dost skilfully control all the movable and immovable Things of the Worlds. 
+</details>
+
+
 <details><summary>FX Clooney</summary>
 
 You are intent upon ordering all moving and unmoving beings without exception! 
@@ -2006,6 +2041,12 @@ You are intent upon ordering all moving and unmoving beings without exception!
 
 [^1_pg46]: अखिल - इ ।
 </details>
+
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+Thou art their Lord, 
+</details>
+
 
 <details><summary>FX Clooney</summary>
 
@@ -2034,21 +2075,21 @@ You are the one to whom belong without remainder all conscious and non-conscious
 
 नैसर्गिकशेषत्वे सत्यपि जगतः स्वगुणैर्भूयः शेषत्वमापादितम् इत्याशयेनाह **अखिल** इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Akhila Jagat Swaamin connotes that the world is under His Lordship (Dominion) not only physically but also in respect of (its) qualities.
 </details>
 
 यथा 'गुणैर्दास्यमुपागतः' (रा. कि. ४१२) इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Gunai: Daasyam Upaagata :", are the words used by Lakshmana in respect of Raama.
 </details>
 
 न केवलं सामान्येन शेषत्वम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Asmat Swaamin denotes not only the mere "being" in service
 </details>
@@ -2056,7 +2097,7 @@ Asmat Swaamin denotes not only the mere "being" in service
 किन्तु जन्मविशेष रुचिविशेष[^1_pg47] प्रदानादिभिर्मम एवमवस्थत्त्वं त्वयैवोपपादितमित्यभिप्रायेणाह - **अस्मत्-स्वामिन्** इति ।
 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 but also the favour shown by Him in granting the Jeeva this birthright to serve and endowing him with the qualities he possess. That is, whatever happens or not, all these are His doings.
 </details>
@@ -2078,6 +2119,12 @@ but also the favour shown by Him in granting the Jeeva this birthright to serve 
 न त्वया शेष-पूरणं कार्यम् इति भावः ।
 </details>
 
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+the sustainer of all the worlds, their Master, My Master; 
+</details>
+
+
 <details><summary>FX Clooney</summary>
 
 The Lord of the whole world! Our Lord! 
@@ -2097,21 +2144,21 @@ The Lord of the whole world! Our Lord!
 
 **सत्यकाम** अकिञ्चनरक्षणं हि परिपूर्णकृत्यमिति भावः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Satyakaama conveys the idea that the protection of the weak and helpless is the duty (work) of a Paripoorna (Perfect Being).
 </details>
 
 तच्च अनायाससाध्यमित्याह - सत्यसङ्कल्प इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Satyasankalpa:- The above act of protection is performed without any effort.
 </details>
 
 सकलेतरविलक्षण एवम्भूतस्स्त्वं न रक्षसि चेत् कस्तवान्येभ्योऽनीदृग्भ्यो विशेष इत्याशयः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Sakaletara Vilakshana:- If Thou does not undertake this task, how art Thou then different from the others?
 </details>
@@ -2148,6 +2195,12 @@ Sakaletara Vilakshana:- If Thou does not undertake this task, how art Thou then 
 </details>
 
 
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+Thy desires ever fulfilled, Thy commands scrupulously executed. Distinct from all the others, 
+</details>
+
+
 <details><summary>FX Clooney</summary>
 
 You have all desires fulfilled! Your intentions are ever realized! Different from all other beings! 
@@ -2170,7 +2223,7 @@ You have all desires fulfilled! Your intentions are ever realized! Different fro
 
 **अर्थिकल्पक**- कर्मधारयसमासः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Arthikalpaka must be taken to mean conjunctively One to whom prayers are made and one who grants all prayers like Kalpaka Tree.
 </details>
@@ -2178,14 +2231,14 @@ Arthikalpaka must be taken to mean conjunctively One to whom prayers are made an
 यथा 'समेत्य प्रतिनन्द्य च' (रा. अयो.१६-२७) इति,  
 'उदारास् सर्व एवैते' (भ.गी. ७-१८) इति च ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Cf. Sametya pratinandya cha "or Udaaraa: Sarva Eva ete" - they are generous who consent to take favours from Me."
 </details>
 
 अन्यथा तवेयं प्रथापि[^2_pg48] विहन्येतेति भावः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 If this is not so, His reputation will be gone is the idea sought to be expressed.
 </details>
@@ -2194,7 +2247,7 @@ If this is not so, His reputation will be gone is the idea sought to be expresse
 
 गजेन्द्रादीनामिव आपन्नत्वमेव रक्ष्यत्वे हेतुमाह - **आपत्सख** इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Aapatsakhaa conveys the meaning that the dire state of a Being like that of Gajendra is the cause of bringing on the protection by Thee.
 </details>
@@ -2216,6 +2269,11 @@ Aapatsakhaa conveys the meaning that the dire state of a Being like that of Gaje
 
 'अर्थिनः कल्पद्रुमा यस्य सः अर्थिकल्पक' इति वा विवक्षितम्, यद्गीयते 'उदारास्सर्व एवैते' (भ.गी. ७-१८) इति । अभिमतपुरुषार्थदानार्थमर्थिनामुत्पादकः, शास्त्रादिमुखेन अर्थित्वापादकश्चेति वा । एवं पूर्वोक्तस्या प्यौदार्यस्य अतिशयप्रदर्शने तात्पर्यादपुनरुक्तिः । 'ज्ञातं मया वसिष्ठेन' (म.भा.स.९०-४२) इत्य्-आदिकमनुसन्दधानः पाञ्चालीगजेन्द्रादिवदापन्नस्य अनन्यगतिकस्य ममैतामापदम् अवेक्ष्य[^3_pg48] रक्षितुमर्हसीत्याह **आपत्सख!** इति । आपदि सखिवत्संरक्षकेत्यर्थः । विश्वसनीयत्वस्नेहविषयत्वादिसूचनाय **सखि**-शब्दः । शत्रुमपि हि 'तस्मात्परिश्रान्त इति व्यवस्य न त्वा शरैर्मृत्युवशं नयामि' (रा. यु.५९-१४३) इत्यवोचत् । एवं द्वाभ्याम् इष्टप्रापकत्वमनिष्टनिवर्तकत्वञ्च दर्शितम् ।
 
+</details>
+
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+Thou art the wish fulfilling Tree (the giver of all prayers), Friend in Distress, 
 </details>
 
 
@@ -2243,21 +2301,21 @@ The wishing tree for those in want! Friend of those in distress!
 मातरम् अपेक्ष्य रक्षितव्यम्  
 इत्याह **श्रीमन्** इति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Sriman:- Even if I am not qualified for redemption at least for the sake of Sri. protection may given.
 </details>
 
 तया उपेक्षितोऽपि त्वामपेक्ष्य रक्षणीय इत्याहनारायण इति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Naaraayana :- Even though neglected by Her, protect me at least for your own sake.
 </details>
 
 सम्बन्धाभावेऽपि रक्षकान्तराभावात् रक्षणीयोऽहम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Asaranya - Saranya: Even though I am not connected with Thee, I am to be protected, I am without any other protecting person, 
 </details>
@@ -2278,9 +2336,9 @@ Asaranya - Saranya: Even though I am not connected with Thee, I am to be protect
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
-(11) Thy will fulfilled, Thy commands carried out, by all, Thou art the Para Brahma, the biggest of persons of great might and wealth; Thou art the Consort of Sri! Oh! Naaraayana, Lord of Vaikuntha Thou art the ocean filled with beneficient qualities, such as, unlimited mercy, easy accessibility, affectionate kindness, generosity, rulership, extreme comeliness. Thou art again the refuge of the whole world without any distinction (as to race, colour or caste). Thou removest the distress of those that resort to Thee. Thou art the Ocean of motherly affection towards your Devotees. Thou art All Knowing, knowing all the time the true nature, etc. of all the groups of Beings. Thou dost skilfully control all the movable and immovable Things of the Worlds. Thou art their Lord, the sustainer of all the worlds, their Master, My Master; Thy desires ever fulfilled, Thy commands scrupulously executed. Distinct from all the others, Thou art the wish fulfilling Tree (the giver of all prayers), Friend in Distress, Sriman, Naarayaana, the refuge of the Helpless, the one and the only Refuge (with no others to go for Help). 
+Sriman, Naarayaana. 
 
 </details>
 

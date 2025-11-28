@@ -22,35 +22,35 @@ title = "०७ तारण-प्रार्थना"
 
 अथ प्रकृतिः, मदीय इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then, Sri Ramanuja goes on to describe the Moolaprakrti in the passage beginning with the word "Madeeya."
 </details>
 
 बीजाङ्कुरन्यायात् अनादिता ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Karma is called "Anaadi" on account of the Nyaaya "Tree from the seed (Beejaankura Nyaaya)
 </details>
 
 'गुणमाया समावृतः' (जि. स्तो. १-३) इत्यस्य अर्थमाह - भगवत्स्व रूप इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Tirodhaana Kareem" reminds us of the passage in Geeta-"Gunamaya Samaavrta."
 </details>
 
 विपरीतज्ञानं - देहे अहं धीः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Vipareeta Gnana is that knowledge which comprehends Deha (Body) as Aatman (Soul).
 </details>
 
 भोग्यभोगोपकरण रूपत्वम्[^1_pg58] आह **देह** इत्य्-आदिना । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The passage "Dehendriya" connotes that the Prakrti manifests itself as Bhogya (Enjoyable thing) and Bhogopakarana (means for enjoyment).
 </details>
@@ -59,7 +59,7 @@ The passage "Dehendriya" connotes that the Prakrti manifests itself as Bhogya (E
 
 **दैवीं** - त्वल्लीलार्थम्[^2_pg58] ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The word "Daiveem" denotes that all these are for His recreative purposes.
 </details>
@@ -68,7 +68,7 @@ The word "Daiveem" denotes that all these are for His recreative purposes.
 
 दासभूतं - **माम्** इति सम्बन्धः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Daasabhootam is adjective qualifying "maam". (The other reading is Daasabhuta: This is adopted by Sri Desika and he renders an interesting meaning to the words. Dasabhuta: denotes OM; Saranagatosmi denotes Nama :- Tavasmi Dasa: denotes Naaraayanaya).
 </details>
@@ -76,7 +76,7 @@ Daasabhootam is adjective qualifying "maam". (The other reading is Daasabhuta: T
 शरणागतोऽस्मि[^1_pg59] **तवास्मि** इति  
 पूर्वोत्तरखण्डार्थः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The first half of Dvayamantra is contained in its essence in Saranaagatosmi and the second half is in Tavaasmi Dasa:
 </details>
@@ -85,7 +85,7 @@ The first half of Dvayamantra is contained in its essence in Saranaagatosmi and 
 
 वक्तारम् - 'भवशरणमितीरयन्ति' (वि.पु. ३-७-३३) इति हि उच्यते ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Vaktaaram: Even an utterance of the words "Bhava saranam" gets one to salvation. Cf. "Bhava Saranam itieerayanti.”
 </details>
@@ -122,7 +122,7 @@ Vaktaaram: Even an utterance of the words "Bhava saranam" gets one to salvation.
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (14) “I am Thy servant. I have surrendered myself unto Thee. Help me, Thy servant, Oh Lord! to cross over Thy Moolaprakruti, of Three Gunas which flow like a current of the beginningless and endless Karma which hides from my vision, Thy natural, Form and produces in me a perverted knowledge about Thee and a sense of (false) satisfaction in me in the enjoyment of material matters existing (in the world) in all manner of forms, subtle and gross - in body, senses and objects of enjoyment. 
 
@@ -151,7 +151,7 @@ Vaktaaram: Even an utterance of the words "Bhava saranam" gets one to salvation.
 
 अथ चतुर्थ्यर्थम् इष्टप्राप्तिं प्रार्थयते तेषाम् इत्य्-आदिना ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Next, Sri Ramanuja prays for the securing of the desired gains which are implied with the dative (fourth) case from Srimate Naarayanaaya contained in the Dvaya.
 </details>
@@ -162,7 +162,7 @@ Next, Sri Ramanuja prays for the securing of the desired gains which are implied
 
 **परभक्ति**-स्थाने प्रपदनम् ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Because it is the accepted doctrine that by Prapatti alone Moksha is secured to the surrenderer. Prapatti stands in the place of Parabhakti.
 </details>
@@ -170,21 +170,21 @@ Because it is the accepted doctrine that by Prapatti alone Moksha is secured to 
 **पर-ज्ञान--परम-भक्ती** देह-सम्बन्ध-वेलायाम्  
 उपासकस्य उपाय-कोटि-निविष्टे ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Even in the case of a person engaged in Bhaktiyoga, these two are obtained by him during the time his connection with the body continues. They are, however, Upaaya (means) for salvation in his case.
 </details>
 
 प्रपन्नस्य तु +उभय-कोटि-घटिते।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 But in the case of a Prapanna they are not Upaayas but really gains (Upeyas) obtainable just before Moksha.
 </details>
 
 अतः **परज्ञानं** प्रार्थितं **तेषाम्** इत्य्-आदिना ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Of these two, Paragnana is prayed for in the first instance by the passage Teshaam, etc.
 </details>
@@ -218,6 +218,13 @@ Of these two, Paragnana is prayed for in the first instance by the passage Tesha
 यद्वा, स्वप्रीत्यपेक्षया स्वभक्तप्रीतेः प्रकर्षोक्त्या स्तुतिः । 
 </details>
 
+<details><summary>English</summary>
+
+Slokas: 
+
+(a) Of them (the four classes of Devotees), the one who is steadfast and concentrates his devotion on me only is above the others - for to him I am excessively dear: So also is he dear to Me. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -243,6 +250,12 @@ Of these two, Paragnana is prayed for in the first instance by the passage Tesha
 मयि नित्य-योग-प्रवृत्तमनाः ।  
 **अनुत्तमां गतिम्** - परमप्राप्यम् ।
 </details>
+
+<details><summary>English</summary>
+
+(b) Indeed, I consider: All these (the four classes) are generous; but of them the Gnani the wise is My Inner Self. He, being steadfast in his mind, rests on Me, as the Supreme Goal. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -279,6 +292,12 @@ Of these two, Paragnana is prayed for in the first instance by the passage Tesha
 (पौ.सं.) इति ।  
 </details>
 
+<details><summary>English</summary>
+
+(c) At the end of many births, a man having realised that Vasudeva is the All, comes to Me, He is Mahatma, rare indeed to find. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 “बहूनां जन्मनामन्ते ज्ञानवान् मां प्रपद्यते ।  
@@ -295,6 +314,11 @@ Of these two, Paragnana is prayed for in the first instance by the passage Tesha
 **माम्** - 'अज्ञो जन्तुर् अनीशो ऽयम्' (म.भा. शां. १२-३६) इत्युक्तेषु मूर्धाभिषिक्तम् । **श्लोकत्रयोदितज्ञानिनं कुरुष्व** - क्रियाफलं त्वद्गामीत्यात्म नेपदेन व्यज्यते ।
 
 अव्यवहितत्वाद् इह श्लोक-त्रय इत्युक्तम् ।
+</details>
+
+<details><summary>English</summary>
+
+(15) Please, Oh! Lord, favour me and make me a Gnaani like the one described in the above three Slokas: 
 </details>
 
 
@@ -326,14 +350,14 @@ Of these two, Paragnana is prayed for in the first instance by the passage Tesha
 अथ **परम-भक्ति**-प्रार्थनम् -  
 **पुरुषः स पर** इत्य्-आदिना ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 And by the next passage beginning with "Purusha: Sa Para:, Parama Bhakti is prayed for and not Para Bhakti.
 </details>
 
 व्यवहितत्वात् **स्थान-त्रय** इत्युक्तं, न तु श्लोक-त्रय इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The words "Sthaana Traya" are used to denote that the passages are found disconnected and in three different places in Geeta.
 </details>
@@ -347,6 +371,17 @@ The words "Sthaana Traya" are used to denote that the passages are found disconn
 **परभक्ति**-श्लोकानां भिन्न-प्रकरण-स्थतया **स्थान-त्रय** इत्युक्तम् ।
 
 **माम्** 'या प्रीतिरविवेकानाम्' (वि.पु. १-१९-२०) इत्युक्तेषु बाह्यविषयसक्तेष्वग्रगण्यम् ॥
+</details>
+
+<details><summary>English</summary>
+
+Also make me endowed with Parabhakti described in the following three passages in Bhaghavad Geeta :- 
+
+(i) Oh Arjuna! That Supreme Person is attainable only by Bhakti undistracted. 
+
+(ii) He is to be attained only by Bhakti which seeks no other benefit than that of attaining Him. 
+
+(iii) He obtains that supreme devotion to Me." 
 </details>
 
 
@@ -370,14 +405,14 @@ The words "Sthaana Traya" are used to denote that the passages are found disconn
 पर-भक्ति--पर-ज्ञान--परम-भक्तीः  
 प्रार्थयते -**परभक्ति** इति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 In the next sentence, he again refers to Parabhakti, Paragnana, Paramabhakti, but they are qualities attained by a Released soul only in the stage of Moksha.
 </details>
 
 अत एव हि **एक-स्वभावम्** इत्युक्तम् । पूर्ववद् अर्थः।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 That is why, the qualification pointed natural qualification-a stage not attainable in Samsaara.
 </details>
@@ -390,6 +425,12 @@ That is why, the qualification pointed natural qualification-a stage not attaina
 अथवा, मुक्ति-दशा-भाविनां **पर-भक्त्य्**-आदीनाम् इदम् अपेक्षणम् ।  
 **एकस्वभावत्वोक्तिर्** हि अत्रत्य परभक्त्यादिव्यवच्छेदार्था ।
 </details>
+
+<details><summary>English</summary>
+
+Make me also endowed with constant Para Bhakti, Para Gnaana and Parama Bhakati. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -418,7 +459,7 @@ That is why, the qualification pointed natural qualification-a stage not attaina
 
 अथ भगवज्-जनित[^1_pg62]-प्रीति--तत्-कारित-कैङ्कर्याणि प्रार्थयते **पर** इति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Next, Sri Ramanuja prays for that feeling of satisfaction arising out of the conscious experience of the Lord and also for its consequence i.e., various services to the Lord.
 </details>
@@ -427,14 +468,14 @@ Next, Sri Ramanuja prays for that feeling of satisfaction arising out of the con
 
 पूर्ववद् अर्थः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (The next passage has been already explained).
 </details>
 
 **शेषतैक-रति-रूप**-शब्दः बहुव्रीहिः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Seshataika Rati Roopa" is a Bahuvrihi compound.
 </details>
@@ -465,25 +506,9 @@ Next, Sri Ramanuja prays for that feeling of satisfaction arising out of the con
 फल-दानाय **तिष्ठति** ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
-(15) Please, Oh! Lord, favour me and make me a Gnaani like the one described in the following three Slokas: 
-
-Slokas: 
-
-(a) Of them (the four classes of Devotees), the one who is steadfast and concentrates his devotion on me only is above the others - for to him I am excessively dear: So also is he dear to Me. 
-
-(b) Indeed, I consider: All these (the four classes) are generous; but of them the Gnani the wise is My Inner Self. He, being steadfast in his mind, rests on Me, as the Supreme Goal. 
-
-(c) At the end of many births, a man having realised that Vasudeva is the All, comes to Me, He is Mahatma, rare indeed to find. 
-
-Also make me endowed with Parabhakti described in the following three passages in Bhaghavad Geeta :- 
-
-(i) Oh Arjuna! That Supreme Person is attainable only by Bhakti undistracted. 
-
-(ii) He is to be attained only by Bhakti which seeks no other benefit than that of attaining Him. 
-
-(iii) He obtains that supreme devotion to Me." Make me also endowed with constant Para Bhakti, Para Gnaana and Parama Bhakati. I pray that I may become Thy servant in ever constant service to Thee - I having acquired the experience of the Lord, i.e., full and clear and constant, highly desired, having no other object in view and produced by Para Bhakti, Para Gnana and Parama Bhakti, a service which is the result of great urge to perform services of all forms suited to the conditions and circumstances of the moment, which are produced by the unlimited love and devotion to Thee arising out of the experience as stated above. 
+I pray that I may become Thy servant in ever constant service to Thee - I having acquired the experience of the Lord, i.e., full and clear and constant, highly desired, having no other object in view and produced by Para Bhakti, Para Gnana and Parama Bhakti, a service which is the result of great urge to perform services of all forms suited to the conditions and circumstances of the moment, which are produced by the unlimited love and devotion to Thee arising out of the experience as stated above. 
 
 </details>
 
