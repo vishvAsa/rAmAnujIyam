@@ -129,6 +129,13 @@ THE AÑGAS OR ACCESSORIES OF PRAPATTI :
 THE AÑGAS OR ACCESSORIES OF PRAPATTI :
 </details>
 
+<details><summary>विजय-राघवः (क) - अवतारिका </summary>
+
+**प्रपत्तिय परिकरगळ निरूपणवु**
+
+**"प्रपत्तेः क्वचिद् अप्य् एवं परापेक्षा न विद्यते"** ऎन्दु हेळिरुवहागॆ प्रपत्तिगॆ यावुदरपेक्षॆयू इल्लवॆन्दु हेळुवदरभिप्रायवु परिकरगळू इल्लवॆम्ब‌र्थवल्लवॆन्दु तिळिसुवदक्कागि ऎन्दु शास्त्र-प्रमाणगळ मूलक परिकरगळावुवु ऎन्दु तिळिसुत्तारॆ. **परापेक्षा न विद्यते** ऎन्दरॆ ई उपायक्कॆ बेरॊन्दू साधन बेकिल्लवॆम्ब तात्पर्यवु.
+
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -170,7 +177,6 @@ helplessness (kārpaṇya), supreme faith, and supplication or seeking His prote
 ""
 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
