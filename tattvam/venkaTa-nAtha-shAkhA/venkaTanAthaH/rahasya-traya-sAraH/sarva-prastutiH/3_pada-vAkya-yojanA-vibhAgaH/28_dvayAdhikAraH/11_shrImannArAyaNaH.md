@@ -5775,6 +5775,8 @@ debido a una noción de que
 
 <details><summary>नीलमेघः (सं)</summary>
 
+सर्वज्ञत्वं नाम - 
+
 > “अज्ञातं नास्ति ते किञ्चित्"   
 (रामायणम् युद्ध-काण्डम् १७-३५) 
 </details>
@@ -5845,6 +5847,12 @@ quien, por Su propia naturaleza, **ve** todas las cosas al mismo tiempo"
 ऎऩ्गिऱ बडिये सर्वत्तैयुम् साक्षात्-करिक्कै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-उक्त-रीत्या सर्वस्य साक्षात्करणम् ।
+</details>
+
+
 <details><summary>English</summary>
 
 **consists** in His **seeing** all things  
@@ -5874,6 +5882,18 @@ quien, por Su propia naturaleza, **ve** todas las cosas al mismo tiempo"
 
 ऎऩ्ऩुम् अनुसन्धानत्तुक्क् उऱुप्प् आम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् 
+
+> आश्रितेभ्यो देयेषु हितेषु,  
+निवर्तनीयेषु विरोधिषु  
+चैतद्-अज्ञातं किम् अपि नास्ति
+
+इत्य् अनुसन्धानस्य प्रयोजकम् ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5905,6 +5925,13 @@ y entre los obstáculos **que se les quitarán**.
 सर्व-शक्तित्वम् आवदु; अ-घटित--घटना-सामर्थ्यम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वशक्तित्वं नाम - अघटित-घटना-सामर्थ्यम् । 
+</details>
+
+
+
 <details><summary>English</summary>
 
 **Omnipotence consists** in the **ability** to **accomplish** what **cannot be accomplished** (by others). 
@@ -5933,6 +5960,17 @@ y entre los obstáculos **que se les quitarán**.
 ऎऩ्गिऱ निश्चयत्तुक्क् उऱुप्पाम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं 
+
+> संसारिणो ऽस्मान्  
+इच्छा-समकालं नित्य-सूरि-परिषदि निवेशयितुं समर्थ 
+
+इति निश्चयस्य प्रयोजकम् ।
+</details>
+
+
 <details><summary>English</summary>
 
 This **is necessary** to **give us** the **assurance** that,  
@@ -5960,6 +5998,12 @@ aunque **estamos** ahora en saṁsāra (o **esclavitud** de **nacimientos** y **
 तऩ् सङ्कल्पत्तुक्कुत्  
 तऩ्ऩालुम् प्रतिहतिय् अऩ्ऱिक्केय् ऒऴिगै। 
 </details>
+<details><summary>नीलमेघः (सं)</summary>
+
+(सत्य-सङ्कल्पत्वं नाम -  
+स्वसङ्कल्पस्य स्वतो ऽपि प्रतिहतिं विना ऽवस्थानम्।)
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5979,7 +6023,45 @@ Satyasaṅkalpatva **significa** que Su voluntad o propósito **nunca puede ser 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदु “अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि” ऎऩ्गिऱ पासुरम् पऴुदागादॆऩ्गिऱ विस्रंभत्तुक्कुऱुप्पाम्।
+इदु  
+
+> “अहं त्वा सर्व-पापेभ्यो  
+मोक्षयिष्यामि” 
+>
+> ऎऩ्गिऱ पासुरम् पऴुद् आगाद् 
+
+ऎऩ्गिऱ विस्रंभत्तुक्क् उऱुप्पाम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+(इदम्
+
+> “अहं त्वा सर्व-पापेभ्यो  
+मोक्षयिष्यामि”  
+इति वचनं न मिथ्या भवति
+
+इति विस्रम्भस्य प्रयोजकम्।) 
+</details>
+
+<details><summary>English</summary>
+
+This **is necessary** for the confidence that **we should have**  
+that the words: 
+
+> “I **will release** you from all sins",  
+
+**will never prove** futile. 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **es necesario** para la confianza que **debemos tener**  
+que las palabras: 
+
+> “Yo **te liberaré** de todos los pecados",  
+
+**nunca resultará** inútil.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5987,8 +6069,132 @@ Satyasaṅkalpatva **significa** que Su voluntad o propósito **nunca puede ser 
 इदु “अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि” ऎऩ्गिऱ पासुरम् पऴुदागादॆऩ्गिऱ विस्रंभत्तुक्कुऱुप्पाम्।
 </details>
 
+### परम-कारुणिकत्वम्
 
-This is necessary for the confidence that we shonld have that the words: “I will release you from all sins", will never prove futile. Supreme compassion is the desire to remove the suffering of others without any thought of one's own interests. This is necessary for the knowledge that He will pardon on some pretext (vyāja) even those who have committed innumerable offences, as in the ślokas : "I will never give up the man who seeks me in the manner of a friend, even though he has faults", and "Fetch him, O Sugrīva, best of monkeys, whether he be Vibhishana or even Ravana himself. I promise security to him". Gratitude consists in looking upon even trivial acts of kindness with the greatest regard, as if they were supreme deeds of helpfulness and never forgetting them. (lnstances of this) may be seen in such ślokas as the following: "Since Śrī Rāma is large-hearted, he does not remember even hundreds of offences committed by others against him. He delights (on the other hand) on even a single act of help :', and "That cry for help uttered aloud by Draupadi even from a distance calling me "Govinda!”-that cry is never away from my mind like a debt that has increased with the interest accumulated on it". This quality makes one say to oneself: “If He sees anything of worth done by me within the limits of my ability, He will never forsake ine". Firmness is the quality of persistence in protecting suppliants. This is necessary to inspire the faith that He will never forsake us, even though others who are very intimate with Him try to dissuade Him, as (when Śrī Rāma said):-"I will never give up the man who comes to me in the manner of a friend". Paripurnatvam (perfection or fullness) consists in (His) having all objects that are desired or desirable. This is necessary to make us endeavour to serve Him in the way that is within our limited power, with the knowledge that is what we offer to him (upahara), He will consider only the fervour of emotion or feeling and not measure its worth or value. This may be seen in the following words (of the Lord): "Though what is offered to me by my devotees is atornic, it appears very great to me owing to their love. What is offered to me by those wanting in devotion, however great it might be, never gives me delight". " Whatever is given to me with love, be it only such trivial things as a leaf, a flower, a fruit or even (mere) water, I eat it, because it is given with devotion by one who is devout”. Supreme generosity is the liberality in making gifts which makes a person feel that he has not done enough, even when he has given all that he possesses without any thought of the slightness of the endeavour on the part of the person benefited, the greatness of the benefit conferred or the unworthiness of the beneficiary. This is a quality which induces men like Dadhibhāṇḍa[^99] and others to ask with importunity for the great benefits of spiritual life even for those who are connected with them, Thus such qualities in the Redeemer as are useful for seeking His protection and the manner in which they are useful should be borne in mind.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परम-कारुणिकत्वम् आवदु;  
+स्वार्थ-निरपेक्षैय् आऩ पर-दुःख-निराकरणेच्छै।
+</details>
+
+<details><summary>English</summary>
+
+Supreme compassion **is** the **desire** to **remove** the **suffering** of others  
+without any thought of one's own interests. 
+</details>
+
+<details><summary>Español</summary>
+
+La compasión suprema **es** el **deseo** de **eliminar** el **sufrimiento** de los demás  
+sin **pensar** en los propios intereses.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परमकारुणिकत्वमावदु; स्वार्थनिरपेक्षैयाऩ परदुःखनिराकरणेच्छै
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु  
+
+> अनन्तापराधङ्गळैय् उडैयवर्गळैयुम्  
+> 
+>>  “मित्र-भावेन संप्राप्तं  
+(न त्यजेयं कथञ्चन ।  
+दोषो यद्य् अपि तस्य स्यात्  
+सताम् एतद् अ-गर्हितम् ॥)”  
+( रामायणम् युद्ध-काण्डम् १८-३),  
+> 
+>> (आनयैनं हरिश्रेष्ठ  
+दत्तम् अस्याभयं मया ।  
+विभीषणो वा सुग्रीव)
+“यदि वा रावणस् स्वयम्॥”  
+( रामायणम् युद्ध-काण्डम् १८-३५)  
+> 
+> ऎऩ्गिऱ बडिये  
+ऒरु व्याज-मात्रत्ताले क्षमिक्कुम्  
+
+ऎऩ्गिऱ तॆळिवुक्क् उऱुप्पाम्।
+</details>
+
+<details><summary>English</summary>
+
+This **is necessary** for the knowledge that  
+He **will pardon** on some pretext (vyāja)  
+even those who **have committed** innumerable offences, as in the ślokas : 
+
+> "**I will never give up** the man who **seeks** me in the manner of a friend,  
+even though he **has** faults", 
+
+and 
+
+> "**Fetch** him, O Sugrīva, best of monkeys,  
+whether he be Vibhishana or even Ravana himself.  
+I **promise security** to him". 
+
+</details>
+
+<details><summary>Español</summary>
+
+Esto **es necesario** para el conocimiento de que  
+Él **perdonará** con algún pretexto (vyāja)  
+incluso aquellos que **han cometido** innumerables delitos, como en los ślokas: 
+
+> "**Nunca abandonaré** al hombre que **me busca** a la manera de un amigo,  
+aunque **tiene** defectos", 
+
+y 
+
+> "**Tráelo**, oh Sugrīva, el mejor de los monos,  
+ya **sea** Vibhishana o incluso el mismo Ravana.  
+Le **prometo seguridad**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु अनन्तापराधङ्गळैयुडैयवर्गळैयुम् “मित्रभावेन संप्राप्तं”( रामायणम् युद्ध-काण्डम् १८-३), “यदि वा रावणस्स्वयं”( रामायणम् युद्ध-काण्डम् १८-३५) ऎऩ्गिऱबडिये ऒरु व्याजमात्रत्ताले क्षमिक्कुमॆऩ्गिऱ तॆळिवुक्कुऱुप्पाम्।
+</details>
+
+### कृत-ज्ञत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कृत-ज्ञत्वम् आवदु; 
+
+> “न स्मरत्य् अपकाराणां  
+शतम् अप्य् आत्मवत्तया ।  
+कथञ्चिद् उपकारेण  
+कृतेनैकेन तुष्यति॥”  
+( रामायणम् अयोध्या-काण्डम् १-१३),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “न स्मरत्य् अपकाराणां  
+शतम् अप्य् आत्मवत्तया ।  
+कथञ्चिद् उपकारेण  
+कृतेनैकेन तुष्यति॥”  
+( रामायणम् अयोध्या-काण्डम् १-१३),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कृतज्ञत्वमावदु; “न स्मरत्यपकाराणां शतमप्यात्मवत्तया ।  कथञ्चिदुपकारेण कृतेनैकेन तुष्यति”( रामायणम् अयोध्या-काण्डम् १-१३),
+</details>
+
+
+Gratitude consists in looking upon even trivial acts of kindness with the greatest regard, as if they were supreme deeds of helpfulness and never forgetting them. (Instances of this) may be seen in such ślokas as the following: 
+
+> "Since Śrī Rāma **is** large-hearted,  
+he **does not remember** even hundreds of **offences committed** by others against him.  
+He **delights** (on the other hand) on even a single act of **help**.', 
+
+and 
+
+> "That cry for help uttered aloud by Draupadi even from a distance calling me "Govinda!”-that cry is never away from my mind like a debt that has increased with the interest accumulated on it". This quality makes one say to oneself: “If He sees anything of worth done by me within the limits of my ability, He will never forsake ine". Firmness is the quality of persistence in protecting suppliants. This is necessary to inspire the faith that He will never forsake us, even though others who are very intimate with Him try to dissuade Him, as (when Śrī Rāma said):-"I will never give up the man who comes to me in the manner of a friend". Paripurnatvam (perfection or fullness) consists in (His) having all objects that are desired or desirable. This is necessary to make us endeavour to serve Him in the way that is within our limited power, with the knowledge that is what we offer to him (upahara), He will consider only the fervour of emotion or feeling and not measure its worth or value. This may be seen in the following words (of the Lord): "Though what is offered to me by my devotees is atornic, it appears very great to me owing to their love. What is offered to me by those wanting in devotion, however great it might be, never gives me delight". " Whatever is given to me with love, be it only such trivial things as a leaf, a flower, a fruit or even (mere) water, I eat it, because it is given with devotion by one who is devout”. Supreme generosity is the liberality in making gifts which makes a person feel that he has not done enough, even when he has given all that he possesses without any thought of the slightness of the endeavour on the part of the person benefited, the greatness of the benefit conferred or the unworthiness of the beneficiary. This is a quality which induces men like Dadhibhāṇḍa[^99] and others to ask with importunity for the great benefits of spiritual life even for those who are connected with them, Thus such qualities in the Redeemer as are useful for seeking His protection and the manner in which they are useful should be borne in mind.
 
 [^99]: Dadhibhāṇḍa begged Śrī Kṛṣṇa for spiritual benefits not only for himself but for those related to him
 
