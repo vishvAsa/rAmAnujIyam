@@ -6822,20 +6822,15 @@ y Su **ser capaz** de **brindar** (perfecta) bienaventuranza.
 अदुक्कुपयुक्तङ्गळाऩ शेषित्व निरतिशयभोग्यत्वादिगळ् प्रधानतमङ्गळ्।
 </details>
 
-### आनुकूल्य-सङ्कल्पादि
+### आनुकूल्य-सङ्कल्पाद्य् आर्थम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गु +++(पूर्व-खण्डस्थ–नारायण-शब्दे)+++  
 सम्बन्ध-विशेषादि-मुखत्ताले आनुकूल्य-सङ्कल्पमुम् प्रातिकूल्य-वर्जनमुम् सूचितम् आऩ बडि  
-अधिकारान्तरत्तिले सॊऩ्ऩोम्। 
++++(परिकर-विभागः→)+++ अधिकारान्तरत्तिले सॊऩ्ऩोम्। 
 </details>
 
-<details><summary>मूलम्</summary>
-
-इङ्गु सम्बन्धविशेषादिमुखत्ताले आनुकूल्यसङ्कल्पमुम् प्रातिकूल्यवर्जनमुम् सूचितमाऩबडि अधिकारान्तरत्तिले सॊऩ्ऩोम्। 
-</details>
-
-
+<details><summary>English</summary>
 
 In another chapter (in chapter 11 Parikara vibhāga), **we have (already) stated** that  
 here (in the word Nārāyaṇa in the first part of Dvaya)  
@@ -6843,7 +6838,188 @@ the **determination to do** what **is agreeable**
 and the **avoidance** of what **is** adverse  
 **are indicated** on account of the **relationship** (of master and servant) **implied** in it.
 
-There are some (ācāryas) who take Śrīman Nārāyaṇa caraṇau as a single compound word. There are others who take it as three separate words Śrīman!, Nārāyaṇa!, Caraṇau and supply the word tava (Thy) between Nārāyaṇa and caranau. In this interpretation, they have in mind such passages as “  Do not approach those who say these wordś. "O Thou with eyes like the lotus, O Vāsudeva, O Viṣṇu... ...be Thou my upāya".  May  Thou Thyself be my upāya!" and the Tamil verse: "O Thou on whose chest resides Lakṣmī who dwells in the lotus 'O Thou, my Redeemer, I seek Thy feet as my upāya having no other upāya and no other object of attainment", "O Śrīman Nārāyaṇa, my Master" and other such mantras and also Śaraṇāgati Gadya which is an elaboration of Dvaya. ' (In all these
+</details>
+
+<details><summary>Español</summary>
+
+En otro capítulo (en el capítulo 11 Parikara vibhāga), **(ya) hemos declarado** que  
+aquí (en la palabra Nārāyaṇa en la primera parte de Dvaya)  
+la **determinación de hacer** lo que **es agradable**  
+y la **evitación** de lo **que** es adverso  
+**se indican** a causa de la **relación** (de amo y sirviente) **implícita** en ella.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु सम्बन्धविशेषादिमुखत्ताले आनुकूल्यसङ्कल्पमुम् प्रातिकूल्यवर्जनमुम् सूचितमाऩबडि अधिकारान्तरत्तिले सॊऩ्ऩोम्। 
+</details>
+
+## श्रीमन्नारायणचरणौ - विभागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिल् “श्रीमन्-नारायण-चरणौ” ऎऩ्ऱु समस्तम् आगवुम् योजिप्पार्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+There are some (ācāryas) who take Śrīman Nārāyaṇa caraṇau as a single compound word. 
+</details>
+
+<details><summary>Español</summary>
+
+Hay algunos (ācāryas) que **toman** a Śrīman Nārāyaṇa caraṇau como una sola palabra compuesta.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् “श्रीमन्नारायणचरणौ” ऎऩ्ऱु समस्तमागवुम् योजिप्पार्गळ्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “कमलनयन वासुदेव भव शरणं”  
+( विष्णुपुराणम् ३-७-३३) 
+
+ऎऩ्गिऱ प्रयोगत्तैयुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “कमलनयन वासुदेव भव शरणं”  
+( विष्णुपुराणम् ३-७-३३) 
+
+</details>
+
+<details><summary>English</summary>
+
+such passages as 
+
+> Do not approach those who say these words...  
+"O Thou with eyes like the lotus, O Vāsudeva, O Viṣṇu... ...be Thou my upāya".  
+
+</details>
+
+<details><summary>Español</summary>
+
+pasajes como 
+
+> **No te acerques** a quienes **dicen** estas palabras...  
+"Oh Tú, con ojos como el loto, oh Vāsudeva, oh Viṣṇu... ...**sé** Tú mi upāya".
+</details>
+
+<details><summary>मूलम्</summary>
+
+“कमलनयन वासुदेव भव शरणं”( विष्णुपुराणम् ३-७-३३) ऎऩ्गिऱ प्रयोगत्तैयुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “त्वम् एवोपायभूतो मे भव” 
+
+ऎऩ्गिऱ वाक्यत्तैयुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “त्वम् एवोपायभूतो मे भव” 
+
+
+</details>
+
+<details><summary>English</summary>
+
+> "May  Thou Thyself be my upāya!" 
+</details>
+
+<details><summary>Español</summary>
+
+> "¡Que Tú mismo **seas** mi upāya!"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“त्वमेवोपायभूतो मे भव” ऎऩ्गिऱ वाक्यत्तैयुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अगल किल्लेऩ्+++(=नाङ्गीकरोमि)+++” +++(… तिरु-वेङ्कटत्ताऩे)+++  
+( तिरुवाय्मॊऴि ६-१०-१०)
+
+ऎऩ्गिऱ पाट्टैयुम्,
+</details>
+
+<details><summary>English</summary>
+
+and the Tamil verse: 
+
+> "O Thou on whose chest **resides** Lakṣmī  
+who **dwells** in the lotus  
+'O Thou, my Redeemer, **I seek** Thy feet as my upāya  
+**having** no other upāya and no other object of attainment", 
+</details>
+
+<details><summary>Español</summary>
+
+y el verso tamil: 
+
+> "Oh Tú en cuyo pecho **reside** Lakṣmī  
+quien **habita** en el loto  
+'Oh Tú, mi Redentor, **busco** Tus pies como mi upāya  
+sin ningún otro upāya ni ningún otro objeto de **logro**",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अगल किल्लेऩ्”( तिरुवाय्मॊऴि ६-१०-१०)  ऎऩ्गिऱ पाट्टैयुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अ-किञ्चनो ऽनन्य-गतिश् शरण्य”( आळवन्दार्स्तोत्रम् २२) 
+
+ऎऩ्गिऱ स्तोत्र-वाक्यत्तैयुम्,
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अ-किञ्चनो ऽनन्य-गतिश् शरण्य”( आळवन्दार्स्तोत्रम् २२) 
+</details>
+
+
+<details><summary>English</summary>
+
+> 'O Thou, my Redeemer, **I seek** Thy feet as my upāya  
+**having** no other upāya and no other object of attainment", 
+</details>
+
+<details><summary>Español</summary>
+
+
+> 'Oh Tú, mi Redentor, **busco** Tus pies como mi upāya  
+sin ningún otro upāya ni ningún otro objeto de **logro**",
+</details>
+
+<details><summary>मूलम्</summary>
+
+“अकिञ्चनोऽनन्यगतिश्शरण्य”( आळवन्दार्स्तोत्रम् २२) ऎऩ्गिऱ स्तोत्रवाक्यत्तैयुम्,
+</details>
+
+
+
+There are others who take it as three separate words Śrīman!, Nārāyaṇa!, Caraṇau and supply the word tava (Thy) between Nārāyaṇa and caranau. In this interpretation, they have in mind 
+
+
+
+
+"O Śrīman Nārāyaṇa, my Master" and other such mantras and also Śaraṇāgati Gadya which is an elaboration of Dvaya. ' (In all these
 
 instances Bhagavān is addressed in the vocative case and the prayer in the Gadya seeking His protection follows). So also the first part of Dvaya is interpreted thus :- 'O Thou with Lakṣmī for Thy Spouse, O Nārāyaṇa, I seek Thy feet for refuge,' (understanding the word Thy (tava)). Thus, whether we take it as a single compound word or as three separate words, there is no difference in the manner in which the attribute (adjective) Śrī and the substantive Nārāyaṇa stand in relation to each other in the first part of Dvaya and in the second.
 
