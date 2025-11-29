@@ -6712,15 +6712,136 @@ y la manera en que **son útiles**
 इप्पडि मऱ्ऱुम् शरण्यतैक्कुपयुक्तमाऩ गुणङ्गळैयुम् अवऱ्ऱिऩुडैय उपयोगविशेषङ्गळैयुमिङ्गेयनुसन्धित्तुक्कॊळ्वदु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपायानुष्ठान-दशैयिल्  
+अव्व्-ओ विद्यैगळुक्क् अडैत्त कतिपय-गुण-विशिष्टऩ् अनुसन्धेयऩ् आय् +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+In the state of **practising** the vidyās or forms of meditation (prescribed in the śrutis),  
+only certain qualities (of Brahman) **pertaining** to that vidyā **are meditated** upon. 
+</details>
+
+<details><summary>Español</summary>
+
+En el estado de **practicar** los vidyās o formas de meditación (prescriptas en los śrutis),  
+sólo **se meditan** ciertas cualidades (de Brahman) **pertenecientes** a ese vidyā.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायानुष्ठानदशैयिल् अव्वो विद्यैकळुक्कडैत्त कतिपयगुणविशिष्टऩनुसन्धेयऩाय्
+</details>
+
+
+### उत्तरखण्डे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राप्ति-दशैयिल्  
+समस्त-गुण-विभूति-विशिष्टऩ् अनुभाव्यऩ् आऩालुम् 
+</details>
+
+<details><summary>English</summary>
+
+Still in the state of **enjoyment** of the fruit of the **meditation**,  
+the object of **enjoyment is** Brahman  
+with all his qualities. 
+</details>
+
+<details><summary>Español</summary>
+
+Aún en el estado de **disfrute** del fruto de la **meditación**,  
+el objeto del **disfrute** es Brahman  
+con todas sus cualidades.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राप्तिदशैयिल् समस्तगुणविभूतिविशिष्टऩनुभाव्यऩाऩालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ग् उत्तर-खण्डत्तिल् नारायण-शब्दत्तुक्कु  
+स्व-रूप-कृतम् आयुम् गुण-कृतम् आयुम् वरुम् कैङ्कर्य-प्रतिसम्बन्धित्वत्तिले नोक्क्+++(=वीक्षा)+++ आऩ बडियाले 
+</details>
+
+<details><summary>English</summary>
+
+In the case of the word **occurring** in the second part of Dvaya,  
+though all qualities **may be present**,  
+since the aim **is to attain** Nārāyaṇa  
+with such qualities as **are** essential for our **service** to Him  
+which **arise** from His essential nature and from His qualities,  
+</details>
+
+<details><summary>Español</summary>
+
+En el caso de la palabra **que aparece** en la segunda parte de Dvaya,  
+aunque todas las cualidades **pueden estar presentes**,  
+ya que el objetivo **es alcanzar** Nārāyaṇa  
+con cualidades que **son** esenciales para nuestro **servicio** a Él  
+que **surgen** de Su naturaleza esencial y de Sus cualidades,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गुत्तरखण्डत्तिल् नारायणशब्दत्तुक्कु स्वरूपकृतमायुम् गुणकृतमायुम् वरुम् कैङ्कर्यप्रतिसम्बन्धित्वत्तिले नोक्काऩबडियाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदुक्क् उपयुक्तङ्गळ् आऩ  
+शेषित्व--निरतिशय-भोग्यत्वादिगळ् प्रधानतमङ्गळ्।
+</details>
+
+<details><summary>English</summary>
+
+the most inportant qualities to be understood **are**  
+His **being** the śeṣī  
+and His **being capable** of **affording** (perfect) bliss.
+</details>
+
+<details><summary>Español</summary>
+
+las cualidades más importantes a **entender son**  
+Su **ser** el śeṣī  
+y Su **ser capaz** de **brindar** (perfecta) bienaventuranza.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदुक्कुपयुक्तङ्गळाऩ शेषित्व निरतिशयभोग्यत्वादिगळ् प्रधानतमङ्गळ्।
+</details>
+
+### आनुकूल्य-सङ्कल्पादि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु +++(पूर्व-खण्डस्थ–नारायण-शब्दे)+++  
+सम्बन्ध-विशेषादि-मुखत्ताले आनुकूल्य-सङ्कल्पमुम् प्रातिकूल्य-वर्जनमुम् सूचितम् आऩ बडि  
+अधिकारान्तरत्तिले सॊऩ्ऩोम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु सम्बन्धविशेषादिमुखत्ताले आनुकूल्यसङ्कल्पमुम् प्रातिकूल्यवर्जनमुम् सूचितमाऩबडि अधिकारान्तरत्तिले सॊऩ्ऩोम्। 
+</details>
 
 
 
-
-
-
-In the state of practising the vidyās or forms of meditation (prescribed in the śrutis), only certain qualities (of Brahman) pertaining to that vidyā are ineditated upon. Still in the state of enjoyment of the fruit of the meditation, the object of enjoyment is Brahman with all his qualities. In the case of the word occurring in the second part of Dvaya, though all qualities may be present, since the aim is to attain Nārāyaṇa with such qualities as are essential for our service to Him whicb arise from His essential nature and from His qualities, the most inportant qualities to be understood are His being the śeṣī and His being capable of affording (perfect) bliss.
-
-In another chapter (in chapter 11 Parikara vibhāga), we have (already) stated that here (in the word Nārāyaṇa in the first part of Dvaya) the determination to do what is agreeable and the avoidance of what is adverse are indicated on account of the relationship (of master and servant) implied in it.
+In another chapter (in chapter 11 Parikara vibhāga), **we have (already) stated** that  
+here (in the word Nārāyaṇa in the first part of Dvaya)  
+the **determination to do** what **is agreeable**  
+and the **avoidance** of what **is** adverse  
+**are indicated** on account of the **relationship** (of master and servant) **implied** in it.
 
 There are some (ācāryas) who take Śrīman Nārāyaṇa caraṇau as a single compound word. There are others who take it as three separate words Śrīman!, Nārāyaṇa!, Caraṇau and supply the word tava (Thy) between Nārāyaṇa and caranau. In this interpretation, they have in mind such passages as “  Do not approach those who say these wordś. "O Thou with eyes like the lotus, O Vāsudeva, O Viṣṇu... ...be Thou my upāya".  May  Thou Thyself be my upāya!" and the Tamil verse: "O Thou on whose chest resides Lakṣmī who dwells in the lotus 'O Thou, my Redeemer, I seek Thy feet as my upāya having no other upāya and no other object of attainment", "O Śrīman Nārāyaṇa, my Master" and other such mantras and also Śaraṇāgati Gadya which is an elaboration of Dvaya. ' (In all these
 
