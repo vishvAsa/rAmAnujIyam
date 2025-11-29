@@ -43,7 +43,7 @@ title = "०२ प्रपत्तिः श्रियाम्"
 पुरुष-कार--भूत-- वात्सल्य-निर्भर-लक्ष्मी-समाश्रयणं  
 श्रीमच्-छब्द-विवरण-मुखेना ऽभिधीयते ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 I. This Gadya is a commentary on the principle of the Dvaya Mantra, which declares the Upaaya and Upeya nature of Brahman.  
 In this context, it will be noticed that the Mantra (Dvaya) starts with the mention of Sri who is full of (maternal) love and who is the ( Purushakaara) interceder for approaching the Lord, the Almighty Father, who like all fathers is sometimes harsh and [[2]] not easily approachable.  
@@ -61,7 +61,7 @@ She is first to be propitiated. Hence, the Gadya starts with the exposition of t
 
 प्रथमं श्रियं प्रपद्यते +++(वक्ष्यमाण-पुरुषकारार्थं)+++ "भगवद्" इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 It may also be that "Sri" is first taken up for comment,  
 considering the fact that our ancient Aachaaryas have said that  
@@ -91,7 +91,7 @@ considering the fact that our ancient Aachaaryas have said that
 
 [^३_pg5]: द्विषट्क - द्वादशाक्षरमन्त्रः । 'ओं नमो भगवते वासुदेवाय' इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The words "Bhagvat" and "Naraayana indicate the fullness of Guna and Vibhooti and remind us that in both "Om Namo Bhagavate Vasudevaaya" (Dwaadasa Akshara) and "Om Namo Naraayanaaya" (Ashta Akshara), Lakshmi is closely associated. 
 </details>
@@ -100,7 +100,7 @@ The words "Bhagvat" and "Naraayana indicate the fullness of Guna and Vibhooti an
 अननुरूपे चाभिमतिश्च दृश्यत इति  
 तद्-व्युदासाय **अभिमतानुरूपशब्दौ** ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The words Anuroopa and Abhimata are used in conjunction for, in some cases, there may be Abhimata (but not Anuroopa) and again, in some cases, Anuroopa but not Abhimata.  
 The object is to dispel such an idea, that is to say, that both do co-exist here.
@@ -108,7 +108,7 @@ The object is to dispel such an idea, that is to say, that both do co-exist here
 
 रूपानन्तर-**गुण**-शब्दः सौन्दर्यादि-परः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The word Guna following Roopa denotes the qualities of the Vigraha, such as, beauty, etc. 
 </details>
@@ -116,7 +116,7 @@ The word Guna following Roopa denotes the qualities of the Vigraha, such as, bea
 
 परत्व-सौलभ्य-कोटि-निविष्ट-गुण-जात-प्रदर्शनार्थौ **ऐश्वर्य-शील-शब्दौ** ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The words, Aiswarya and Seela are used to denote the collection of qualities implied by Rulership and accessibility. 
 </details>
@@ -126,7 +126,7 @@ The words, Aiswarya and Seela are used to denote the collection of qualities imp
 
 [^1_pg6]: स्फुटार्थः - आ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Anavadhika is easily understood as greatness with no limit or boundary, i.e. " with nothing above." 
 </details>
@@ -134,7 +134,7 @@ Anavadhika is easily understood as greatness with no limit or boundary, i.e. " w
 
 परत्व-सौलभ्ययोस् समाख्याः प्रमाणयति **पद्म** इत्य्-आदिभिश् चतुर्भिः पदैः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The next following 4 names exemplify the Paratva and Saulbhya of Lakshmi:  
 </details>
@@ -142,7 +142,7 @@ The next following 4 names exemplify the Paratva and Saulbhya of Lakshmi:
 
 सदाऽपराधानभिज्ञतायै **नित्यानपायिनीम्** इति पदम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 'Nityaanupaayini' is used to show that Lakshmi is [[3]] ever present with, and not separated from, the Lord, so that She may ever be ready to see that the faults of erring souls may be veiled from His notice. 
 </details>
@@ -150,7 +150,7 @@ The next following 4 names exemplify the Paratva and Saulbhya of Lakshmi:
 
 दौर्लभ्यरूपाऽवद्यरहिता **निरवद्या** ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Niravadya means that She is not unapproachable (like in the case of Paramaatman) nor affected with any faults.
 </details>
@@ -158,7 +158,7 @@ Niravadya means that She is not unapproachable (like in the case of Paramaatman)
 
 कृताऽभिषेका **महिषी** । अतः अप्रतिहत-चिकीर्षिता ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Mahishee means the anointed Queen; hence She is one whose wishes cannot be transgressed (or easily ignored by the Lord). 
 </details>
@@ -166,7 +166,7 @@ Mahishee means the anointed Queen; hence She is one whose wishes cannot be trans
 
 **अखिल**-शब्दः स्वान्तर्भावपरः न ह्यस्मद्वर्जितमिति[^1_pg13] भावः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Akhila in Akhila Jaganmaataram denotes that Ramanuja includes himself among those to whom She is a mother. 
 </details>
@@ -176,7 +176,7 @@ Akhila in Akhila Jaganmaataram denotes that Ramanuja includes himself among thos
 शरण्यं भगवन्तमलब्धवन्तः - **अशरण्याः**,  
 अहमपि तेष्वेक इत्याह-अनन्य इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Asaranya means persons with no other resource go to for refuge. To show that the speaker includes himself in the class, the word Ananya is used. Thus far, prayers to Sri.
 </details>
@@ -609,7 +609,7 @@ _तुल्य_-शब्दोक्तार्थस्य '_अर्ह�
 > 'श्रेयो न ह्यरविन्दलोचनमनः कान्ताप्रसादादृते । संसृत्यक्षरवैष्णवाध्वसु नृणां सम्भाव्यते कर्हिचित्' ॥ (च.श्लो.३) इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (1) With no other help to resort to, I seek Thee, Sri Devi, full of all beneficient qualities, seated in a forest of lotus flowers. (Thou art) the refuge of all the helpless; (Thou art) my Mother, indeed the Mother of the whole world, The Crowned Divine Queen of the Lord of the Devas, the pure and Unsullied, never separated from the Lord; Thyself Thine from, its qualities, and the most wonderful, limitless innumerable collection of auspicious qualities of Thine, such as, Greatness, Rulership and high Virtues, all to His liking and worthy of the natural form and qualities of Bhagavaan Naarayana. 
 

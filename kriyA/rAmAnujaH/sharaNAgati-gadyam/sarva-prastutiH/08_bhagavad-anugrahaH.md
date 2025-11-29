@@ -10,8 +10,6 @@ title = "०८ भगवद्-अनुग्रहः"
 प्रार्थितार्थ-निर्वृत्ति-दृढी-कारः
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं-भूत--मत्-कैङ्कर्य-प्राप्ति+उपायतया  
@@ -28,7 +26,7 @@ title = "०८ भगवद्-अनुग्रहः"
 
 एवम् इत्य्-आदि । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 In response to the prayer, the Lord grants the prayer by the passage following:-"Yevamboota.... Heenopi"
 </details>
@@ -37,14 +35,14 @@ In response to the prayer, the Lord grants the prayer by the passage following:-
 
 वक्ष्यमाण-चरमश्लोक प्रथमपदार्थमाह एवम्भूत इति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 conveys in substance the purport of the meaning of the first paada of the Charama Sloka. "Sarva Dharmaan Parityajya."
 </details>
 
 **अवक्कॢप्तम्** - विहितम् ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Avaklupta means injuncted by the Saastra-
 </details>
@@ -52,28 +50,28 @@ Avaklupta means injuncted by the Saastra-
 **समस्तवस्तु**-शब्देन कर्मज्ञानभक्तियोगाः,  
 तद्-अनुगुणाः अमानित्वादि-गुणाश् च विवक्षिताः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Samasta Vastu Viheena: means though not qualified by having performed, Karma Yoga, Gnana Yoga and Bhakti Yoga and not acquired the subsidiary qualifications mentioned in the Geeta (Amaanitvam).
 </details>
 
 **विहीन** इति त्यागोऽनूदित इति भावः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Viheena" conveys the idea that the Devottee had already given up all Dharmas as implied in the Tyaaga in the Charama  Sloka.
 </details>
 
 +++(चरमश्लोक-)+++**परि**-शब्दार्थम् अभिप्रयन्नाह - **अनन्त** इति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 By the words. the "Ananta, etc.", it is sought. to convey the idea ingrained in the preposition "Pari" in Parityaga.' (Pari means completely.)
 </details>
 
 विरोधिभूयस्तया कालान्तरेऽपि तन्-नैराश्यं हि तदर्थः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 In fact, the helpless Prapanna is unable to perform the three Yogas on account of his sinful Karmas and hence he has to give them up on account of this inability (to do it even in future). These sinful Karmas which are enemies of salvation are so heinous in character that he has lost all hopes of being able to perform the Yogas at any time in future. All this is conveyed by the prefix 'Pari.'
 </details>
@@ -96,7 +94,7 @@ In fact, the helpless Prapanna is unable to perform the three Yogas on account o
 </details>
 
 
-<details><summary>K Bhashyam</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 {Then the Lord answers the prayer and says to the devotee}
 
@@ -124,7 +122,7 @@ or committed unto Me extremely grievous wrongs unforgivable.
 
 एतत् इति - बीजाङ्कुर न्यायात्[^1_pg64] कार्यकारणभावः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 'Yetat Kaarya Kaarana Bhoota' denotes the Nyaya "The tree from the seed", each is Kaarya and Kaarana also.
 </details>
@@ -133,7 +131,7 @@ or committed unto Me extremely grievous wrongs unforgivable.
 
 'अथातो अहङ्कारादेशः' (छां.उ.७-२५-१) इत्याद्युक्त[^2_pg64] अहङ्कार व्यावृत्यर्थः **विपरीताहङ्कार**-शब्दः, विमूढात्मस्वभावः - तिरोहितशेषभावः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The adjective Vipareeta is in connection with "Ahankaara" with the object of not excluding all Ahankaras, but some varieties of them (e.g. that body is the soul) For, some kinds of Ahankara are not objectionable. (e.g., "I am Brahman i.e. that Brahman is the indweller in Me.") This is also found in the Sruti (Atha Atha: Ahankaara Aadesa :)
 
@@ -144,7 +142,7 @@ The adjective Vipareeta is in connection with "Ahankaara" with the object of not
 
 **उभय**-शब्दः पापाज्ञानपरः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Ubhaya Karya Karana" - Ubhaya denotes both sin and ignorance
 </details>
@@ -172,7 +170,7 @@ The adjective Vipareeta is in connection with "Ahankaara" with the object of not
 
 
 
-<details><summary>K Bhashyam</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Your disposition may be such a disposition which hides Me from your vision, i.e., ahankAra which is the cause and result of the above sins.  
 You may be even affected by beginningless and perverted impressions and tendencies (inherited from previous births) which are the cause and result of your sins and of ahankAra.  
@@ -201,7 +199,7 @@ You may be connected with Prakrti (the cause of the above All).
 
 सुखदुःखतद्धेतु शब्देन भोग्य[^1_pg65] विषया विवक्षिताः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Sukha Duhkha Taddhetu: All undesirable things not fit to be enjoyed.
 </details>
@@ -210,14 +208,14 @@ You may be connected with Prakrti (the cause of the above All).
 
 ज्ञानस्य सङ्कोचः आत्मपरमात्मविषये । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 "Gnaana Sankocha: Ignorance of the true nature of Paramaatman and Jeevatman.
 </details>
 
 विषयानुभवरूपः, ज्ञानसङ्कोचरूपश्च विघ्नः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 This ignorance and the enjoyment of material objects are the obstructions (Vighna) stated later on.
 </details>
@@ -235,7 +233,7 @@ This ignorance and the enjoyment of material objects are the obstructions (Vighn
 
 </details>
 
-<details><summary>K Bhashyam</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 You may be even set upon by obstructions to Para bhakti, Para Jn~Ana and Parama Bhakti -- a Bhakti constant and one pointed towards the lotus like feet of Mine,  
 the obstructions for which are due to the enjoyment of external (Material) things, which in turn are the objects of pleasure and sorrow or of neither: caused by bodily organs and outside objects (of the earth or divine), all these due to connection with Prakrti.
@@ -257,14 +255,14 @@ the obstructions for which are due to the enjoyment of external (Material) thing
 
 **येन केनाऽपि प्रकारेण** इति 'आर्ततया दृप्ततया वा' इति भावः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Ena Kenaapi Prakaarena: Whether as a person in a hurry to attain Moksha (Aartha) or one who is willing to delay (till the end of his life).
 </details>
 
 **केवल**-शब्दः आकाङ्क्षिता नुपपत्ति[^1_pg66] व्यावृत्यर्थः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 'Kevalam' - Only by My Grace and Mercy "irrespective of the feeling of anxiety or repentance of the Devotee."
 </details>
@@ -273,14 +271,14 @@ Ena Kenaapi Prakaarena: Whether as a person in a hurry to attain Moksha (Aartha)
 
 **एव**-कारः कृपायाः पुष्कलकारणत्वपरः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Eva in Madeeyaya eva is used to emphasise that only His Grace is responsible for the Devotee's salvation
 </details>
 
 तत्र हेतुः **मदीयत्त्वम्** ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 and Madeeya connotes that He does not need any other agency for showing His Grace.
 </details>
@@ -300,7 +298,7 @@ and Madeeya connotes that He does not need any other agency for showing His Grac
 </details>
 
 
-<details><summary>K Bhashyam</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 However, you have somehow or other uttered the words of dvaya mantra.  
 By My mere DayA, 
@@ -330,7 +328,7 @@ By My mere DayA,
 </details>
 
 
-<details><summary>K Bhashyam</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 you will be freed completely from the obstructions to Para Bhakti, Para Jn~Ana, Parama Bhakti and their causes.
 </details>
@@ -365,7 +363,7 @@ you will be freed completely from the obstructions to Para Bhakti, Para Jn~Ana, 
 </details>
 
 
-<details><summary>K Bhashyam</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 You will also by My grace obtain Para Bhakti, Para Jn~Ana and Parama Bhakti 
 </details>
@@ -388,7 +386,7 @@ You will also by My grace obtain Para Bhakti, Para Jn~Ana and Parama Bhakti
 
 कदाचित्स्वरूपा[^1_pg67]द्यनुभवव्युपदासाय **विस्तार**-शब्दः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Visthaara: is used to show that when the Devotee gets the direct vision of God, it is not only of some of His qualities but all of them.
 </details>
@@ -397,7 +395,7 @@ Visthaara: is used to show that when the Devotee gets the direct vision of God, 
 
 एवं **नारायण**-शब्दार्थानुभव उक्तः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Thus far the word Narayana has been expounded.
 </details>
@@ -415,7 +413,7 @@ Thus far the word Narayana has been expounded.
 </details>
 
 
-<details><summary>K Bhashyam</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 and be favoured with the direct vision of Me, My form, My attributes, My vibhUtis and also of Moola Prakrti, which is My playground.  
 </details>
@@ -438,21 +436,21 @@ and be favoured with the direct vision of Me, My form, My attributes, My vibhUti
 
 तदन्तर्गतजीवस्वरूपाविर्भावमाह - **अपरोक्ष** इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Next follows the description of the status of Jeeva, at the Moksha - a status which is naturally his. - in the passage beginning with Aparoksha.
 </details>
 
 व्याप्तिर्धारणा च नियमनान्तर्गते 'प्रशासने गार्गिः' (बृ. उ.५८-९) 'अन्तः प्रविष्टः' (तै. आर. ३-११-२१) इति श्रुतेः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Manniyaamyatva includes both ideas about Paramaatman-pervasiveness and support by Him Cf. "Oh! Gargi, Sun, Moon, etc. are supported by Him and controlled by Him."
 </details>
 
 अतः पृथग नुक्तिः । एतेन स्वाधीन प्रवृत्तित्वान्यशेषत्वाद्यशेषत्वभ्रमः [^2_pg67] फलितः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Thus, the idea that Jeevaatman is independant (of Him) is excluded.
 </details>
@@ -468,7 +466,7 @@ Thus, the idea that Jeevaatman is independant (of Him) is excluded.
 </details>
 
 
-<details><summary>K Bhashyam</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 You will also realize directly and clearly your own nature (innate quality), i.e., being in ever service to Me and be controlled by Me. 
 </details>
@@ -494,7 +492,7 @@ You will also realize directly and clearly your own nature (innate quality), i.e
 
 आत्मीयाभिमानानुगुण[^1_pg68]-पुमर्थानुभाव्यम्[^2_pg68] आह - **मदेक** इति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Madeka Anubhava: Generally, a man follows actions which are in conformity with the status in which he considers himself to be. Here, when a devotee thinks himself to be the servant of the Lord, he engages himself in worship, etc., and thus enjoys Him.
 </details>
@@ -505,21 +503,21 @@ Madeka Anubhava: Generally, a man follows actions which are in conformity with t
 
 **एक**-शब्देन अनुभाव्यन्तरव्युदासः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Eka emphasises that the service is directed only to Him and not to anything or anybody else.
 </details>
 
 विरूपभर्त्रनुभवसाम्यव्युदासाय आह - मद्दास्यैक इति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Mad daasya eka Priya: Service to Him is pleasurable because the Lord is so High that He deserves all the worship that one can give Him.
 </details>
 
 **एक**-शब्देन स्वरूपाननुरूपस्वातन्त्र्यस्य अपुमर्थत्वम् अभिप्रेतम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Eka emphasises that the Devotee will not desire for anything else but service.
 </details>
@@ -534,7 +532,7 @@ Eka emphasises that the Devotee will not desire for anything else but service.
 </details>
 
 
-<details><summary>K Bhashyam</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then, finding your enjoyment only in Me only and desirous of serving Me only and experiencing such enjoyment (as stated above) full clear, eternal, with no goal other than Me and extremely pleasant,
 </details>
@@ -564,7 +562,7 @@ Then, finding your enjoyment only in Me only and desirous of serving Me only and
 
 
 
-<details><summary>K Bhashyam</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 you will be My servant for ever and ever as stated above. Take it that you have become My servant as described above.
 </details>
@@ -584,14 +582,14 @@ you will be My servant for ever and ever as stated above. Take it that you have 
 
 तत् कदेत्य् अत्राह **एवम्भूतोऽसि** इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Evam Bhutosi is in answer to a question arising in the mind of the Devotee (Sri Ramanuja) as to when should the state of service start?
 </details>
 
 कदा इति त्वरा तव यदा स्यात्, तदा त्वमीदृ गवस्थितोऽसि[^3_pg68] ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The past tense denotes that you have already become one or can become at any time desired.
 </details>
@@ -600,7 +598,7 @@ The past tense denotes that you have already become one or can become at any tim
 
 अयं हि तव लाभ[^4_pg68] इत्यर्थः
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 This is the great boon and gain.
 </details>
@@ -624,14 +622,6 @@ This is the great boon and gain.
 
 </details>
 
-<details><summary>English</summary>
-
-(16) [Then the Lord answers the prayer and says to the Devotee :] 
-
-"You may not have all the requisite qualifications for attaining the state of being in my such service; you may even be beset with sins which stand in your way (of attaining My service); you may have sinned grievously against Me or against My people (Bhaagavatas) or committed unto me extremely grievous wrongs unforgivable. Your disposition may be such disposition which hides Me from your vision i.e., Ahankara which is the cause and result of the above sins. You may be even affected by begginingless and perverted impressions and tendencies (inherited from previous births) which are the cause and result of your sins and of Ahankaara. You may be connected with Prakrti (the cause of the above All). You may be even set upon by obstructions to Para Bhakti, Para Gnana and Parama Bhakti - a Bhakti constant and onepointed towards the lotus like feet of Mine which obstructions consist of limited knowledge due to the enjoyment of external (material) things which are the objects of pleasure and sorrow or of neither; caused by bodily organs and outside objects (of the earth or divine), all these due to connection with Prakrti. 
-
-However, you have somehow or other uttered the words of Mantra, Dvaya. By My mere Mercy, you will be freed completely from the obstructions to Para Bhakti, Para Gnana, Parama Bhakti and their causes. You will also by My Grace obtain Para Bhakti, Para Gnana and Parama Bhakti and be favoured with the direct vision of Me, My Form My attributes, My Vibhootis and also of Moolaprakriti which is My Playground. You will also realise directly and clearly your own nature (innate quality) i.e., being in ever service to Me and be controlled by Me. Then, finding your enjoyment in Me only and desirous of serving Me only and experiencing such enjoyment, (as stated above) full clear, eternal, with no goal other than Me and extremely pleasant, You will be My servant for ever and ever as stated above. Take it that you have become My servant as described above." 
-</details>
 
 <details><summary>मूलम्</summary>
 
@@ -661,35 +651,35 @@ However, you have somehow or other uttered the words of Mantra, Dvaya. By My mer
 
 शरीरपातावधिकल्पकालः एवं विनोदेन **नेय** इत्याह - **आध्यात्मिक** इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Then follow directions by the Lord as to how the Devotee should conduct himself or arrange to spend the rest of the days of his life.
 </details>
 
 दुःखरूपो विघ्नः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Du:kka and Vighna connote the same thing.
 </details>
 
 तत्र सङ्गरहितत्वे हेतुमाह - **द्वयम्** इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The investigation into meaning of Dvaya and recitation of it are prescribed to avoid any attachment to material things.
 </details>
 
 **सदैवम्** इति क्षणमात्रं द्वयार्थानुसन्धानाभावे सति तापत्रयस्य अवकाशः स्यात् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 If even for a minute, there is a vacant interval in this action, room will be given to the three kinds of afflictions.
 </details>
 
 अतः[^1_pg69] निरन्तरानुसन्धानेन तद्विरहः **कार्य** इति भावः । उपायत्वे द्वयोक्तिरेव अलमितिकृत्वा वक्तारं मां तारय इत्युक्तम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 This mediation does not help as a means to Moksha; in fact, the mere utterance of Dvaya will do.
 </details>
@@ -698,21 +688,21 @@ This mediation does not help as a means to Moksha; in fact, the mere utterance o
 
 अत्र तु अर्थानुसन्धानं भोगरूपत्वेन उक्तम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 This is however mentioned not as compulsory act to be performed but only as a way of spending the time fruitfully.
 </details>
 
 अत्रैव इत्युपलक्षणम् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Srirangam means not merely Srirangam...
 </details>
 
 भगवदभिमानतदीयसम्बन्धव [^2_pg69]द्देशविशेषेषु[^2_pg69] इत्यर्थः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 but includes any place favoured by Gods and Godly men.
 </details>
@@ -721,7 +711,7 @@ but includes any place favoured by Gods and Godly men.
 
 **यावच्छरीरपातम्** इति कियानयं काल इति भावः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Till when? till the body falls.
 </details>
@@ -743,7 +733,7 @@ Till when? till the body falls.
 </details>
 
 
-<details><summary>K Bhashyam</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Thus relieved and not troubled by the obstructions in the least degree which are the cause of worldly or divine grieves and sorrows,  
 always uttering dvaya mantra with full understanding of its meaning and significance,  
@@ -775,7 +765,7 @@ You shall reside in Srirangam till the body falls to the ground (death).
 
 शरीर इति । केवलं त्वय्यकिञ्चित्करेऽपीति भावः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Kevalam: Even if the Jeeva does not do anything.
 </details>
@@ -786,42 +776,42 @@ Kevalam: Even if the Jeeva does not do anything.
 
 **दयया एवेति** **एव**कारः पुष्कलत्वद्योतकः।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Dayaayeva - eva here indicates the complete effectiveness of His Dayaa.
 </details>
 
 **अतिप्रबुद्धः** - जीवद्दशायां प्रबोधः अन्धतमसस्थानीय इति भावः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Ati pribhudda: implies that the knowledge gained during one's lifetime is to be compared to darkness.
 </details>
 
 परमात्मनि विश्रमानन्तरं भाव्ययं प्रबोधः, ततः प्राक्तनं स्मरणम्, अन्तिममुपासकानाम् अपेक्षितम् ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The dawning of spiritual knowledge starts after the Finite Soul rests on Paramaatman. In the case of the Devotees practising Bhakti Yoga, the 'last reminiscence' (Antima smaranam) should be gained by them.
 </details>
 
 प्रपन्नन्तु 'काष्ठपाषाणसन्निभम्' (वरा.च.श्लो.) भगवानेव स्मरति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 In the case of a Prapanna, however, he may (at the time of his death) be like a log of wood, a piece of stone, etc., yet Iswara will remember him
 </details>
 
 स्वस्मिन् विश्रमा नन्तरं प्रबोधं च जनयति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 and favour him with high spiritual knowledge when his soul rests in Him.
 </details>
 
 'तेन प्रद्योतेनैष आत्मा निष्क्रामति' (बृ.उ.६४-२) इति हि श्रूयते ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The Finite soul enters on its journey towards Iswara by the light shown by Him.
 </details>
@@ -830,14 +820,14 @@ The Finite soul enters on its journey towards Iswara by the light shown by Him.
 
 **माम्** - स्वरूपरूपगुणविभवान्वितम् एव इति विषयान्तरकालुष्यविरह उक्तः ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The word "Maam" refers to Iswara with His natural personality, resplendent form, His attributes and His Vibhutis. Eva indicates that at that time the Jeeva is not disturbed by any other thoughts.
 </details>
 
 **अवलोकयन्** साक्षात्कुर्वन् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Avalokayan: Having a Direct vision of Iswara.
 </details>
@@ -863,6 +853,11 @@ Avalokayan: Having a Direct vision of Iswara.
 
 </details>
 
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+You will, by My Grace, attain true knowledge 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -879,14 +874,14 @@ Avalokayan: Having a Direct vision of Iswara.
 
 **अप्रच्युत** इति गुरूपदेशादिजन्यसंस्कारः । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Aprachyuta denotes a person with the full and undiminished impression on the memory produced by the teachings of Acharya etc.,
 </details>
 
 भगवत्प्राप्तीच्छा च अप्रच्युते यस्य स तथोक्तः ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 and the desire to attain Iswara.
 </details>
@@ -915,6 +910,12 @@ and the desire to attain Iswara.
 
 </details>
 
+
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+with no diminution of your capacities of consciousness of desires (to go to heaven) 
+</details>
+
 <details><summary>मूलम्</summary>
 
 अप्रच्युत पूर्वसंस्कारमनोरथः, 
@@ -936,6 +937,11 @@ and the desire to attain Iswara.
 
 [^2_pg72]: देवयानपथेन - अ ।
 
+</details>
+
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+and shaking off easily this mortal coil (body) both physical and subtle, 
 </details>
 
 
@@ -965,7 +971,7 @@ and the desire to attain Iswara.
 
 तदानीमेव - प्रकृतिं विमोक्षा [^1_pg73]नन्तरमेव । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Tadaaneem eva without delay - Directly the bonds of Prakrti are released.
 </details>
@@ -974,7 +980,7 @@ Tadaaneem eva without delay - Directly the bonds of Prakrti are released.
 
 उपरि पूर्ववत् । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 (The rest of the passage has been explained already).
 </details>
@@ -1002,11 +1008,9 @@ Tadaaneem eva without delay - Directly the bonds of Prakrti are released.
 अशेष-शेषता+एक-रति-रूप-**नित्य-किङ्करः भविष्यसि** ॥ २१ ॥  
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
-(17) Thus relieved and not troubled by the obstructions in the least degree, which are the cause of wordly or divine griefs and sorrows, always uttering Dwaya Mantra with full understanding of its meaning and significance, you shall reside in Sriranga till the body falls to the ground (death). 
-
-You will, by My Grace, attain true knowledge with no diminution of your capacities of consciousness of desires (to go to heaven) and shaking off easily this mortal coil (body) both physical and subtle, you will at once attain the privilege of constant and ever service (as stated above). 
+you will at once attain the privilege of constant and ever service (as stated above). 
 
 </details>
 
@@ -1030,7 +1034,7 @@ You will, by My Grace, attain true knowledge with no diminution of your capaciti
 
 इदमाश्वासनवाक्यमिति न संशयितव्यम् इत्याह मा ते भूत् इति ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Ma Te bhoot Atra Samsaya: These are words of assurance that what was said already is not mere words of consolation.
 </details>
@@ -1048,6 +1052,10 @@ Ma Te bhoot Atra Samsaya: These are words of assurance that what was said alread
 
 </details>
 
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+(18) [Assurance by the Lord] Entertain no doubt about it. 
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -1081,28 +1089,28 @@ Ma Te bhoot Atra Samsaya: These are words of assurance that what was said alread
 
 अनृतस्यानुक्तत्वमाह - अनृतम् इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Anrtam, etc.-The first quotation says that He never tells a lie.
 </details>
 
 उक्तस्य दृढत्वमाह - रामो द्विः इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 The second is just to confirm the assurance. He has given before.
 </details>
 
 न केवलं तव । अन्येषामपि मयोक्तमिति आह सकृत् इति । 
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Sakrteva, etc. The assurance is for the whole world.
 </details>
 
 अवतारद्वयेऽपि वचनद्वयम् ।
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 [The quotations are from Ramayana and Mahabharata, the first by Rama, and the other by Krishna.]
 </details>
@@ -1121,11 +1129,18 @@ Sakrteva, etc. The assurance is for the whole world.
 इदं मोक्षप्रदानोत्सुकेन **मयेवोक्तम्**, न तु मदादेशभूतदुरधिगमार्थवेदमुखेन वा सम्भवद् भ्रमादिदोषपुरुषान्तरमुखेन वेत्याहमयैव ह्युक्तम् इति । **हि** प्रसिद्धौ हेतौ वा ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
-(18) [Assurance by the Lord] Entertain no doubt about it. "I have never uttered nor shall I ever utter a falsehood." "Rama never speaks in two voices." "Have I not already given the assurance?"  "Him who even once bows to Me saying that I am Thine, I grant him shelter and protection from all (evils). This is my vow." "Renounce all Dharmas and surrender unto Me only. I shall save you from  all sins. Don't grieve." Therefore, you may rest free of doubt or fear in the matter of obtaining true knowledge about Me, True Realisation and attainment of Me." 
+> "I have never uttered nor shall I ever utter a falsehood." 
 
-Thus ends the translation of the original text ot the Saranaagati Gadya.
+> "Rama never speaks in two voices." 
+
+> "Have I not already given the assurance?"  
+
+> "Him who even once bows to Me saying that I am Thine, I grant him shelter and protection from all (evils). This is my vow." 
+
+> "Renounce all Dharmas and surrender unto Me only. I shall save you from  all sins. Don't grieve." 
+
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1148,7 +1163,7 @@ Thus ends the translation of the original text ot the Saranaagati Gadya.
 
 अतः भक्तिसाध्यं प्रपत्त्यैव लभ्यमिति निर्भरेण त्वया भवितव्यमित्याह - **अतस्त्वम्** इति ।  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Ata: Tvam - What may be attained by Bhakti Yoga can also be attained by Prapatti is indicated by these and the words following. "Rest in assured and peaceful Mind."
 </details>
@@ -1157,7 +1172,7 @@ Ata: Tvam - What may be attained by Bhakti Yoga can also be attained by Prapatti
 
 तथा भाविन्योर्दर्शनप्राप्नोरपि निस्संशय इत्यर्थः ॥  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Sukham Aaswa. - A question is raised here as to whether Gnaana referred to in the passage is one to be acquired hereafter. No, the Gnaana has been gained already by the teachings of the Acharyas and that gnaana is true knowledge. Just as that knowledge is true and truly attained, the next stages of Direct Vision and Absolute Attainment are certain; rest assured.
 
@@ -1168,7 +1183,7 @@ Sukham Aaswa. - A question is raised here as to whether Gnaana referred to in th
 ॥ इति श्रीहारीतकुलतिलकस्य श्रीरङ्गराजदिव्याज्ञालब्ध-  
 श्रीवेदव्यासभट्टारकापरनामधेयस्य श्रीमत्सुदर्शनाचार्यस्य कृतिषु श्रुतप्रकाशिकाभिधानं शरणागतिगद्यव्याख्यानं सम्पूर्णम् ॥  
 
-<details><summary>English</summary>
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
 
 Thus ends the commentary by Srutaprakaasika Acharya of Saranaagathi Gadya.
 </details>
@@ -1215,6 +1230,15 @@ _यावच्छरीरपातम्_ इति पूर्वोक्�
 [^2_pg74]: भवेदिति - अ ।
 
 </details>
+
+<details><summary>भाष्य उत्तमूर्-वीरराघव-शिष्यः (en)</summary>
+
+Therefore, you may rest free of doubt or fear in the matter of obtaining true knowledge about Me, True Realisation and attainment of Me.
+
+Thus ends the translation of the original text ot the Saranaagati Gadya.
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 

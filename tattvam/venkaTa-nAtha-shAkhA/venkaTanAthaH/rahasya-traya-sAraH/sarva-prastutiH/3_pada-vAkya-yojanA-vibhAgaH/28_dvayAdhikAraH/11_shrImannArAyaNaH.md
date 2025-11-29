@@ -5764,10 +5764,88 @@ debido a una noción de que
 इदऱ्कु प्रयोजनत्तैक् काट्टुगिऱार् इदु किट्ट वरियऩॆऩ्गिऱ इति । 
 </details>
 
+### सर्वज्ञता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वज्ञत्वम् आवदु; 
+
+> “अज्ञातं नास्ति ते किञ्चित्"   
+(रामायणम् युद्ध-काण्डम् १७-३५) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अज्ञातं नास्ति ते किञ्चित्"   
+(रामायणम् युद्ध-काण्डम् १७-३५) 
+</details>
+
+<details><summary>English</summary>
+
+**Omniscience** , 
+
+> "There **is** nothing in any of the three worlds  
+that **is not known** to Thee", 
+
+</details>
+
+<details><summary>Español</summary>
+
+**Omnisciencia**, 
+
+> "**No hay** nada en ninguno de los tres mundos  
+que **no te es conocido**",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वज्ञत्वमावदु; “अज्ञातं नास्ति ते किञ्चित्" (रामायणम् युद्ध-काण्डम् १७-३५) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “यो वेत्ति युगपत् सर्वं  
+प्रत्यक्षेण सदा स्वतः”  
+( न्याय-तत्त्वम्) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “यो वेत्ति युगपत् सर्वं  
+प्रत्यक्षेण सदा स्वतः”  
+( न्याय-तत्त्वम्) 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "I **bow** to Bhagavān  
+who, by His very nature, **sees** all things at the same time"
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "Me **hago** una **reverencia** ante Bhagavān  
+quien, por Su propia naturaleza, **ve** todas las cosas al mismo tiempo"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“यो वेत्ति युगपत्सर्वं प्रत्यक्षेण सदा स्वतः”( न्याय-तत्त्वम्) 
+</details>
 
 
 
-Omniscience consists in His seeing all things, as stated in such ślokas as the following: "There is nothing in any of the three worlds that is not known to Thee", and "I bow to Bhagavān who, by His very nature, sees all things at the same time". This is necessary for the thought that there is nothing unknown to Him among the good things to be given to those who have sought His protection and among the hindrances to be removed from them. Omnipotence consists in the ability to accomplish what cannot be accomplished (by others). This is necessary to give us the assurance that, though we are now in saṁsāra (or bondage of births and deaths ), He can make us enter the assembly of the eternal suuis, Satyasaṅkalpatva means that His will or purpose can never be thwarted even by Himself. This is necessary for the confidence that we shonld have that the words: “I will release you from all sins", will never prove futile. Supreme compassion is the desire to remove the suffering of others without any thought of one's own interests. This is necessary for the knowledge that He will pardon on some pretext (vyāja) even those who have committed innumerable offences, as in the ślokas : "I will never give up the man who seeks me in the manner of a friend, even though he has faults", and "Fetch him, O Sugrīva, best of monkeys, whether he be Vibhishana or even Ravana himself. I promise security to him". Gratitude consists in looking upon even trivial acts of kindness with the greatest regard, as if they were supreme deeds of helpfulness and never forgetting them. (lnstances of this) may be seen in such ślokas as the following: "Since Śrī Rāma is large-hearted, he does not remember even hundreds of offences committed by others against him. He delights (on the other hand) on even a single act of help :', and "That cry for help uttered aloud by Draupadi even from a distance calling me "Govinda!”-that cry is never away from my mind like a debt that has increased with the interest accumulated on it". This quality makes one say to oneself: “If He sees anything of worth done by me within the limits of my ability, He will never forsake ine". Firmness is the quality of persistence in protecting suppliants. This is necessary to inspire the faith that He will never forsake us, even though others who are very intimate with Him try to dissuade Him, as (when Śrī Rāma said):-"I will never give up the man who comes to me in the manner of a friend". Paripurnatvam (perfection or fullness) consists in (His) having all objects that are desired or desirable. This is necessary to make us endeavour to serve Him in the way that is within our limited power, with the knowledge that is what we offer to him (upahara), He will consider only the fervour of emotion or feeling and not measure its worth or value. This may be seen in the following words (of the Lord): "Though what is offered to me by my devotees is atornic, it appears very great to me owing to their love. What is offered to me by those wanting in devotion, however great it might be, never gives me delight". " Whatever is given to me with love, be it only such trivial things as a leaf, a flower, a fruit or even (mere) water, I eat it, because it is given with devotion by one who is devout”. Supreme generosity is the liberality in making gifts which makes a person feel that he has not done enough, even when he has given all that he possesses without any thought of the slightness of the endeavour on the part of the person benefited, the greatness of the benefit conferred or the unworthiness of the beneficiary. This is a quality which induces men like Dadhibhāṇḍa[^99] and others to ask with importunity for the great benefits of spiritual life even for those who are connected with them, Thus such qualities in the Redeemer as are useful for seeking His protection and the manner in which they are useful should be borne in mind.
+consists in His seeing all things  
+**as stated** in such ślokas as the **following**:  
+
+
+This is necessary for the thought that there is nothing unknown to Him among the good things to be given to those who have sought His protection and among the hindrances to be removed from them. Omnipotence consists in the ability to accomplish what cannot be accomplished (by others). This is necessary to give us the assurance that, though we are now in saṁsāra (or bondage of births and deaths ), He can make us enter the assembly of the eternal suuis, Satyasaṅkalpatva means that His will or purpose can never be thwarted even by Himself. This is necessary for the confidence that we shonld have that the words: “I will release you from all sins", will never prove futile. Supreme compassion is the desire to remove the suffering of others without any thought of one's own interests. This is necessary for the knowledge that He will pardon on some pretext (vyāja) even those who have committed innumerable offences, as in the ślokas : "I will never give up the man who seeks me in the manner of a friend, even though he has faults", and "Fetch him, O Sugrīva, best of monkeys, whether he be Vibhishana or even Ravana himself. I promise security to him". Gratitude consists in looking upon even trivial acts of kindness with the greatest regard, as if they were supreme deeds of helpfulness and never forgetting them. (lnstances of this) may be seen in such ślokas as the following: "Since Śrī Rāma is large-hearted, he does not remember even hundreds of offences committed by others against him. He delights (on the other hand) on even a single act of help :', and "That cry for help uttered aloud by Draupadi even from a distance calling me "Govinda!”-that cry is never away from my mind like a debt that has increased with the interest accumulated on it". This quality makes one say to oneself: “If He sees anything of worth done by me within the limits of my ability, He will never forsake ine". Firmness is the quality of persistence in protecting suppliants. This is necessary to inspire the faith that He will never forsake us, even though others who are very intimate with Him try to dissuade Him, as (when Śrī Rāma said):-"I will never give up the man who comes to me in the manner of a friend". Paripurnatvam (perfection or fullness) consists in (His) having all objects that are desired or desirable. This is necessary to make us endeavour to serve Him in the way that is within our limited power, with the knowledge that is what we offer to him (upahara), He will consider only the fervour of emotion or feeling and not measure its worth or value. This may be seen in the following words (of the Lord): "Though what is offered to me by my devotees is atornic, it appears very great to me owing to their love. What is offered to me by those wanting in devotion, however great it might be, never gives me delight". " Whatever is given to me with love, be it only such trivial things as a leaf, a flower, a fruit or even (mere) water, I eat it, because it is given with devotion by one who is devout”. Supreme generosity is the liberality in making gifts which makes a person feel that he has not done enough, even when he has given all that he possesses without any thought of the slightness of the endeavour on the part of the person benefited, the greatness of the benefit conferred or the unworthiness of the beneficiary. This is a quality which induces men like Dadhibhāṇḍa[^99] and others to ask with importunity for the great benefits of spiritual life even for those who are connected with them, Thus such qualities in the Redeemer as are useful for seeking His protection and the manner in which they are useful should be borne in mind.
 
 [^99]: Dadhibhāṇḍa begged Śrī Kṛṣṇa for spiritual benefits not only for himself but for those related to him
 
