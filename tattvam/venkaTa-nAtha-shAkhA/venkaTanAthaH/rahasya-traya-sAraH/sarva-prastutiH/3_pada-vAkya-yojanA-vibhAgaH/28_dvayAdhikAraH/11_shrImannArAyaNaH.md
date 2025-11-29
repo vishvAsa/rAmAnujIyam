@@ -5919,6 +5919,12 @@ y entre los obstáculos **que se les quitarán**.
 इदु आश्रितर्क्कुक् कॊडुक्कवेण्डुम् नऩ्मैगळिलुम्, कऴिक्कवेण्डुम् विरोधिकळिलुमिवऩऱियाददिल्लै यॆऩ्ऩुमनुसन्धानत्तुक्कुऱुप्पाम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सर्वज्ञत्वमावदु इति । इदिऩ् प्रयोजनत्तैक् काट्टुगिऱार् इदु आश्रितर्क्कु इत्यादियाल्। 
+</details>
+
+
 ### सर्व-शक्तित्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5948,6 +5954,10 @@ y entre los obstáculos **que se les quitarán**.
 सर्वशक्तित्वमावदु; अघटितघटनासामर्थ्यम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सर्वशक्तित्वमावदु इति । अघटितघटनासामर्थ्यम् - इतरऩाले अघटितमाऩदै घटयितुं सामर्थ्यम्, 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5990,6 +6000,12 @@ aunque **estamos** ahora en saṁsāra (o **esclavitud** de **nacimientos** y **
 
 इदु संसारिकळाऩ नम्मै निऩैत्तबोदु नित्यसूरिपरिषत्तिले निवेशिप्पिक्कवल्लऩॆऩ्गिऱ निश्चयत्तुक्कुऱुप्पाम्।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदऱ्कु प्रयोजनमरुळिच्चॆय्गिऱार् इदु संसारिकळाऩ इति । अनुसन्धीयमानमिति शेषः । 
+</details>
+
 
 ### सत्य-सङ्कल्पत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6069,6 +6085,12 @@ que las palabras:
 इदु “अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि” ऎऩ्गिऱ पासुरम् पऴुदागादॆऩ्गिऱ विस्रंभत्तुक्कुऱुप्पाम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सत्यसङ्कल्पत्वमावदु इति । इदऱ्कु प्रयोजनमरुळिच्चॆय्गिऱार् इदु अहं त्वा इति । विस्रम्भम् - नम्बिक्कै, 
+</details>
+
+
 ### परम-कारुणिकत्वम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -6095,6 +6117,7 @@ sin **pensar** en los propios intereses.
 </details>
 
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु  
@@ -6116,8 +6139,27 @@ sin **pensar** en los propios intereses.
 > ऎऩ्गिऱ बडिये  
 ऒरु व्याज-मात्रत्ताले क्षमिक्कुम्  
 
-ऎऩ्गिऱ तॆळिवुक्क् उऱुप्पाम्।
+ऎऩ्गिऱ तॆळिवुक्क्+++(=स्पष्टतायै)+++ उऱुप्पाम्।
 </details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+>>  “मित्र-भावेन संप्राप्तं  
+(न त्यजेयं कथञ्चन ।  
+दोषो यद्य् अपि तस्य स्यात्  
+सताम् एतद् अ-गर्हितम् ॥)”  
+( रामायणम् युद्ध-काण्डम् १८-३),  
+> 
+>> (आनयैनं हरिश्रेष्ठ  
+दत्तम् अस्याभयं मया ।  
+विभीषणो वा सुग्रीव)
+“यदि वा रावणस् स्वयम्॥”  
+( रामायणम् युद्ध-काण्डम् १८-३५)  
+> 
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6158,6 +6200,13 @@ Le **prometo seguridad**".
 इदु अनन्तापराधङ्गळैयुडैयवर्गळैयुम् “मित्रभावेन संप्राप्तं”( रामायणम् युद्ध-काण्डम् १८-३), “यदि वा रावणस्स्वयं”( रामायणम् युद्ध-काण्डम् १८-३५) ऎऩ्गिऱबडिये ऒरु व्याजमात्रत्ताले क्षमिक्कुमॆऩ्गिऱ तॆळिवुक्कुऱुप्पाम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परमकारुणिकत्वमावदु इति । इदऱ्कु प्रयोजनमरुळिच्चॆय्गिऱार् इदु अनन्तापराधङ्गळैयुडैयवर्गळैयुमिति । तॆळिवुक्कु - विश्वासत्तिऱ्कु, 
+</details>
+
+
+
 ### कृत-ज्ञत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6179,22 +6228,395 @@ Le **prometo seguridad**".
 ( रामायणम् अयोध्या-काण्डम् १-१३),
 </details>
 
+<details><summary>English</summary>
+
+Gratitude **consists** in 
+
+> "Since Śrī Rāma **is** large-hearted,  
+he **does not remember** even hundreds of **offences committed** by others against him.  
+He **delights** (on the other hand) on even a single act of **help**.', 
+
+</details>
+
+<details><summary>Español</summary>
+
+La gratitud **consiste** en
+
+> "Dado que Śrī Rāma **es** de gran corazón,  
+él **no recuerda** ni siquiera cientos de **delitos cometidos** por otros contra él.  
+Él **se deleita** (por otro lado) incluso con un solo acto de **ayuda**.',
+</details>
+ 
 
 <details><summary>मूलम्</summary>
 
 कृतज्ञत्वमावदु; “न स्मरत्यपकाराणां शतमप्यात्मवत्तया ।  कथञ्चिदुपकारेण कृतेनैकेन तुष्यति”( रामायणम् अयोध्या-काण्डम् १-१३),
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-Gratitude consists in looking upon even trivial acts of kindness with the greatest regard, as if they were supreme deeds of helpfulness and never forgetting them. (Instances of this) may be seen in such ślokas as the following: 
+कृतज्ञत्वमावदु इति । आत्मवत्तया – धैर्यवत्तया, कथञ्चित् – केनापि प्रकारेण, 
+</details>
 
-> "Since Śrī Rāma **is** large-hearted,  
-he **does not remember** even hundreds of **offences committed** by others against him.  
-He **delights** (on the other hand) on even a single act of **help**.', 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> (गोविन्देति यद् **आक्रन्दत्**  
+कृष्णा मां दूर-वासिनम्।)  
+“ऋणं प्रवृद्धम् इव मे  
+हृदयान् **नापसर्पति**॥”  
+( भारतम् उद्योग-पर्व ४७-३९) 
+
+ऎऩ्गिऱबडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> (गोविन्देति यद् **आक्रन्दत्**  
+कृष्णा मां दूर-वासिनम्।)  
+“ऋणं प्रवृद्धम् इव मे  
+हृदयान् **नापसर्पति**॥”  
+( भारतम् उद्योग-पर्व ४७-३९) 
+
+
+</details>
+
+
+<details><summary>English</summary>
 
 and 
 
-> "That cry for help uttered aloud by Draupadi even from a distance calling me "Govinda!”-that cry is never away from my mind like a debt that has increased with the interest accumulated on it". This quality makes one say to oneself: “If He sees anything of worth done by me within the limits of my ability, He will never forsake ine". Firmness is the quality of persistence in protecting suppliants. This is necessary to inspire the faith that He will never forsake us, even though others who are very intimate with Him try to dissuade Him, as (when Śrī Rāma said):-"I will never give up the man who comes to me in the manner of a friend". Paripurnatvam (perfection or fullness) consists in (His) having all objects that are desired or desirable. This is necessary to make us endeavour to serve Him in the way that is within our limited power, with the knowledge that is what we offer to him (upahara), He will consider only the fervour of emotion or feeling and not measure its worth or value. This may be seen in the following words (of the Lord): "Though what is offered to me by my devotees is atornic, it appears very great to me owing to their love. What is offered to me by those wanting in devotion, however great it might be, never gives me delight". " Whatever is given to me with love, be it only such trivial things as a leaf, a flower, a fruit or even (mere) water, I eat it, because it is given with devotion by one who is devout”. Supreme generosity is the liberality in making gifts which makes a person feel that he has not done enough, even when he has given all that he possesses without any thought of the slightness of the endeavour on the part of the person benefited, the greatness of the benefit conferred or the unworthiness of the beneficiary. This is a quality which induces men like Dadhibhāṇḍa[^99] and others to ask with importunity for the great benefits of spiritual life even for those who are connected with them, Thus such qualities in the Redeemer as are useful for seeking His protection and the manner in which they are useful should be borne in mind.
+> "That **cry** for **help**  
+**uttered** aloud by Draupadi  
+even from a distance **calling** me "Govinda!”-  
+that **cry is never away** from my mind  
+like a debt that **has increased** with the interest accumulated on it". 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "Ese **lloro pidiendo ayuda**  
+**pronunciado** en voz alta por Draupadi  
+incluso desde la distancia **llamándome** “¡Govinda!”-  
+ese **llanto nunca se aleja** de mi mente  
+como una deuda que **ha aumentado** con los intereses acumulados en ella".
+</details>
+
+<details><summary>मूलम्</summary>
+
+“ऋणं प्रवृद्धमिव मे हृदयान्नापसर्पति”( भारतम् उद्योग-पर्व ४७-३९) ऎऩ्गिऱबडिये
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ऋणमिति । “गोविन्देति यदाक्रन्दत् कृष्णा मां दूरवासिनम्” ऎऩ्बदु पूर्वार्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्य्-अल्पानुकूल-व्यापारत्तैयुम्  
+परमोपकारम् पण्णिऩाऱ् पोले  
+मऱवाद् ऒऴिगै।
+</details>
+
+<details><summary>English</summary>
+
+As **may be seen** in such ślokas as the above:  
+**looking** upon even trivial acts of kindness with the greatest regard,  
+as if they **were** supreme deeds of helpfulness  
+and **never forgetting** them.  
+</details>
+
+<details><summary>Español</summary>
+
+Como **puede verse** en ślokas como el anterior:  
+**mirando** incluso los actos de bondad más triviales con la mayor consideración,  
+como si **fueran** actos supremos de ayuda  
+y **nunca olvidarlos**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अत्यल्पानुकूल व्यापारत्तैयुम् परमोपकारम् पण्णिऩाऱ्पोले मऱवादॊऴिगै।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु  
+
+> तऩ् पक्कलिल्  
+एद् एऩुम् ऒरु वल्ल+++(=शक्य[क्रिया-रूप])+++-गुऱि कण्डाल्  
+इऩि नम्मैय् ऒरु कालत्तिलुङ् कै विडाऩ् 
+
+ऎऩ्ऱ् इरुक्कैक्क् उऱुप्प् आम्।
+</details>
+
+<details><summary>English</summary>
+
+This quality **makes** one **say** to oneself: 
+
+> “If He **sees** anything of worth **done** by me within the limits of my ability,  
+He **will never forsake** me". 
+
+</details>
+
+<details><summary>Español</summary>
+
+Esta cualidad **hace** que uno **se diga** a sí mismo: 
+
+> “Si Él **ve** algo de valor **hecho** por mí dentro de los límites de mi capacidad,  
+Él **nunca me abandonará**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु तऩ् पक्कलिलेदेऩु मॊरु वल्ल कुऱिगण्डाल् इऩि नम्मैयॊरुकालत्तिलुङ् गैविडा ऩॆऩ्ऱिरुक्कैक्कुऱुप्पाम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदिऩ् प्रयोजनत्तैक् काट्टुगिऱार् इदु तऩ् पक्कलिले इति । वल्लगुऱि - तऩक्कु शक्यमाऩ व्याजम्, 
+</details>
+
+
+
+### स्थिरत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्थिरत्वम् आवदु;  
+आश्रित-रक्षणत्तिल् निलैय्-उडैमै।
+</details>
+
+<details><summary>English</summary>
+
+Firmness **is** the quality of persistence in **protecting suppliants**. 
+</details>
+
+<details><summary>Español</summary>
+
+La firmeza **es** la cualidad de la perseverancia en **proteger a los suplicantes**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्थिरत्वमावदु; आश्रितरक्षणत्तिल् निलैयुडैमै।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु 
+
+> अत्यन्तान्तरङ्गर् विलक्किलुम् 
+> 
+> > (मित्रभावेन सम्प्राप्तं)  
+न त्यजेयं कथञ्चन ।  
+(दोषो यद्य् अपि तस्य स्यात्  
+सताम् एतद् अ-गर्हितम् ॥)  
+( रामायणम् युद्ध-काण्डम् १८-३) 
+> 
+> ऎऩ्गिऱ पडिये  
+नम्मै विडाऩ् 
+
+ऎऩ्ऱु नम्बुगैक्क् उऱुप्प् आम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > (मित्रभावेन सम्प्राप्तं)  
+न त्यजेयं कथञ्चन ।  
+(दोषो यद्य् अपि तस्य स्यात्  
+सताम् एतद् अ-गर्हितम् ॥)  
+( रामायणम् युद्ध-काण्डम् १८-३) 
+
+</details>
+
+<details><summary>English</summary>
+
+This **is necessary** to **inspire** the faith  
+that He **will never forsake** us,  
+even though others who **are** very intimate with Him **try to dissuade** Him,  
+as (when Śrī Rāma said) :-  
+
+"I **will never give up** the man  
+who **comes** to me in the manner of a friend". 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **es necesario** para **inspirar** la fe.  
+que Él **nunca nos desamparará**,  
+aunque otros que **son** muy íntimos con Él **intentan disuadirlo**,  
+como (cuando Śrī Rāma dijo):-  
+
+"Yo **nunca renunciaré** al hombre  
+que **viene** a mí a la manera de un amigo".
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु अत्यन्तान्तरङ्गर् विलक्किलुम् “न त्यजेयं कथञ्चन”( रामायणम् युद्ध-काण्डम् १८-३) ऎऩ्गिऱ पडिये नम्मै विडाऩॆऩ्ऱु नम्बुगैक्कुऱुप्पाम्। 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+स्थिरत्वमावदु इति । इदऱ्कु प्रयोजनमरुळिच्चॆय्गिऱार् इदु अत्यन्तान्तरङ्गरिति । नम्बुगै - विश्वसिक्कै,परिपूर्णत्वमावदु इति । 
+</details>
+
+### परिपूर्णत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परिपूर्णत्वम् आवदु; अवाप्त-समस्त-कामत्वम्।
+</details>
+
+<details><summary>English</summary>
+
+Paripurnatvam (perfection or fullness) **consists** in (His) **having** all objects that **are desired** or **desirable**. 
+</details>
+
+<details><summary>Español</summary>
+
+Paripurnatvam (perfección o plenitud) **consiste** en (Su) **tener** todos los objetos que **son deseados** o **deseables**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परिपूर्णत्वमावदु; अवाप्तसमस्तकामत्वम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु 
+
+>>  “अण्व् अप्य् उपहृतं भक्तैः  
+प्रेम्णा भूर्य् एव मे भवेत्।”  
+( श्री भागवतम् १०-८१-३), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+>>  “अण्व् अप्य् उपहृतं भक्तैः  
+प्रेम्णा भूर्य् एव मे भवेत्।”  
+( श्री भागवतम् १०-८१-३), 
+</details>
+
+
+<details><summary>English</summary>
+
+> > "Though what **is offered** to me by my devotees is atomic,  
+it **appears** very great to me  
+owing to their love.  
+What **is offered** to me by those **wanting** in devotion,  
+however great it **might be**,  
+**never gives** me delight".
+</details>
+
+<details><summary>Español</summary>
+
+> > "Aunque lo que **me ofrecen** mis devotos es atómico,  
+**me parece** muy bueno  
+debido a su amor.  
+Lo que **me ofrecen** aquellos **queridos** de devoción,  
+Por muy grandioso que **podría ser**,  
+**nunca me da** deleite".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु “अण्वप्युपहृतं भक्तैः प्रेम्णा भूर्येव मे भवेत्”( श्री भागवतम् १०-८१-३), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > “पत्रं पुष्पं फलं तोयं  
+यो मे भक्त्या **प्रयच्छति**।”  
+( गीता ९-२६) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > “पत्रं पुष्पं फलं तोयं  
+यो मे भक्त्या **प्रयच्छति**।”  
+( गीता ९-२६) 
+</details>
+
+<details><summary>English</summary>
+
+> > "Whatever **is given** to me with love,  
+be it only such trivial things as a leaf, a flower, a fruit or even (mere) water,  
+**I eat** it,  
+because it **is given** with devotion  
+by one who **is** devout”. 
+</details>
+
+<details><summary>Español</summary>
+
+>>  "Todo lo que me **sea dado** con amor,  
+ya **sean** cosas tan triviales como una hoja, una flor, una fruta o incluso (simple) agua,  
+**Me lo como**,  
+porque se **da** con devoción  
+por aquel que **es** devoto”.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति”( गीता ९-२६) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इत्य्-आदिगळिऱ् पडिये  
+भाव-बन्धम् पार्क्कुम् अत्तऩैय् ऒऴिय   
+मऱ्ऱु नाम् इडुम् पच्चैयिल् वरिसै+++(=मूल्यम्)+++ पाराऩ्  
+
+ऎऩ्ऱु  
+वल्ल किञ्चित्-कारत्तिले मुयल्गैक्क्+++(=प्रयासाय)+++ उऱुप्प् आम्।
+</details>
+
+<details><summary>English</summary>
+
+As **may be seen** in the above words (of the Lord):  
+This **is necessary** to **make us endeavour** to **serve** Him  
+in the way that **is** within our limited power,  
+with the **knowledge** that  
+in what **we offer** to him (upahara),  
+He **will consider** only the fervour of emotion or feeling  
+and not measure its worth or value. 
+</details>
+
+<details><summary>Español</summary>
+
+Como **puede verse** en las palabras anteriores (del Señor):  
+Esto **es necesario** para **hacernos esforzarnos** por **servirle**  
+de la manera que **está** dentro de nuestro poder limitado,  
+con el **conocimiento** de que  
+en lo que **le ofrecemos** a él (upahara),  
+Él **considerará** sólo el fervor de la emoción o sentimiento  
+y **no medir** su valor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये भावबन्धम् पार्क्कुमत्तऩैयॊऴिय मऱ्ऱुनामिडुम् पच्चैयिल् वरिसै पाराऩॆऩ्ऱु वल्लकिञ्चित्कारत्तिले मुयल्गैक्कुऱुप्पाम्।
+</details>
+
+
+
+
+
+
+
+Supreme generosity is the liberality in making gifts which makes a person feel that he has not done enough, even when he has given all that he possesses without any thought of the slightness of the endeavour on the part of the person benefited, the greatness of the benefit conferred or the unworthiness of the beneficiary. This is a quality which induces men like Dadhibhāṇḍa[^99] and others to ask with importunity for the great benefits of spiritual life even for those who are connected with them, Thus such qualities in the Redeemer as are useful for seeking His protection and the manner in which they are useful should be borne in mind.
 
 [^99]: Dadhibhāṇḍa begged Śrī Kṛṣṇa for spiritual benefits not only for himself but for those related to him
 
