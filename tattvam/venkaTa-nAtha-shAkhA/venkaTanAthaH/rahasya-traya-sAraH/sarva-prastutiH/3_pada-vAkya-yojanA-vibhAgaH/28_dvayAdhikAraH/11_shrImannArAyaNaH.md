@@ -5340,7 +5340,7 @@ las anteriores **son** las principales entre las cualidades a **tener** en cuent
 इङ्गनुसन्धेयङ्गळिल् प्रधानतमङ्गळ्।
 </details>
 
-### वात्सल्यम्
+#### वात्सल्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5493,7 +5493,7 @@ It **is** (a quality) **needed** for **not avoiding** Him on account of one's **
 </details>
 
 
-### स्वामित्वम्
+#### स्वामित्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वामित्वम् आवदु;  
@@ -5567,7 +5567,7 @@ Esto **es necesario** para **inspirar** confianza en que
 
 
 
-### सौशील्यम्
+#### सौशील्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौशील्यम् आवदु  
@@ -5764,7 +5764,7 @@ debido a una noción de que
 इदऱ्कु प्रयोजनत्तैक् काट्टुगिऱार् इदु किट्ट वरियऩॆऩ्गिऱ इति । 
 </details>
 
-### सर्वज्ञता
+#### सर्वज्ञता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वज्ञत्वम् आवदु; 
@@ -5925,7 +5925,7 @@ y entre los obstáculos **que se les quitarán**.
 </details>
 
 
-### सर्व-शक्तित्वम्
+#### सर्व-शक्तित्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्व-शक्तित्वम् आवदु; अ-घटित--घटना-सामर्थ्यम्। 
@@ -6007,7 +6007,7 @@ aunque **estamos** ahora en saṁsāra (o **esclavitud** de **nacimientos** y **
 </details>
 
 
-### सत्य-सङ्कल्पत्वम्
+#### सत्य-सङ्कल्पत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्य-सङ्कल्पत्वम् आवदु;  
@@ -6091,7 +6091,7 @@ que las palabras:
 </details>
 
 
-### परम-कारुणिकत्वम्
+#### परम-कारुणिकत्वम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6207,7 +6207,7 @@ Le **prometo seguridad**".
 
 
 
-### कृत-ज्ञत्वम्
+#### कृत-ज्ञत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत-ज्ञत्वम् आवदु; 
@@ -6384,7 +6384,7 @@ Esta cualidad **hace** que uno **se diga** a sí mismo:
 
 
 
-### स्थिरत्वम्
+#### स्थिरत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थिरत्वम् आवदु;  
@@ -6467,7 +6467,7 @@ que **viene** a mí a la manera de un amigo".
 स्थिरत्वमावदु इति । इदऱ्कु प्रयोजनमरुळिच्चॆय्गिऱार् इदु अत्यन्तान्तरङ्गरिति । नम्बुगै - विश्वसिक्कै,परिपूर्णत्वमावदु इति । 
 </details>
 
-### परिपूर्णत्वम्
+#### परिपूर्णत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिपूर्णत्वम् आवदु; अवाप्त-समस्त-कामत्वम्।
@@ -6610,15 +6610,113 @@ y **no medir** su valor.
 इत्यादिगळिऱ्पडिये भावबन्धम् पार्क्कुमत्तऩैयॊऴिय मऱ्ऱुनामिडुम् पच्चैयिल् वरिसै पाराऩॆऩ्ऱु वल्लकिञ्चित्कारत्तिले मुयल्गैक्कुऱुप्पाम्।
 </details>
 
+#### परमोदारत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परमोदारत्वम् आवदु;  
+उपाय-लाघवमुम्, उपेय-गौरवमुम्, पात्रापकर्षमुम् पारादे  
+सर्व-स्व--दानम् पण्णियुम्  
+"नाञ् जॆय्ददु पोदाद्+++(=नालम्)+++"  
+ऎऩ्ऱ् इरुक्कुम् वदान्यतै। 
+</details>
+
+<details><summary>English</summary>
+
+Supreme generosity **is** the liberality in making gifts  
+which **makes** a person **feel** that  
+he **has not done** enough,  
+even when he **has given** all that he **possesses**  
+without any **thought** of the slightness of the endeavour on the part of the person **benefited**,  
+the greatness of the benefit **conferred**  
+or the unworthiness of the beneficiary. 
+</details>
+
+<details><summary>Español</summary>
+
+La generosidad suprema **es** la liberalidad al **hacer** regalos  
+que **hace** que una persona **sienta** que  
+él **no ha hecho** lo suficiente,  
+incluso cuando **ha dado** todo lo que **posee**  
+sin ningún **pensamiento** de la levedad del esfuerzo por parte de la persona **beneficiada**,  
+la grandeza del beneficio **conferido**  
+o la indignidad del beneficiario.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परमोदारत्वमावदु; उपायलाघवमुम् उपेयगौरवमुम् पात्रापकर्षमुम् पारादे सर्वस्वदानम् पण्णियुम् नाञ्जॆय्ददु पोदादॆऩ्ऱिरुक्कुम् वदान्यतै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु दधि-भाण्डादिगळैप् पोले  
+हठात्-कारम् पण्णियुम्  
+अनुबन्धि-पर्यन्तम् आग परम-पुरुषार्थत्तै अपेक्षिक्कैक्क् उऱुप्प् आम्।
+</details>
+
+<details><summary>English</summary>
+
+This **is** a quality which **induces** men like Dadhibhāṇḍa and others  
+to **ask** with importunity for the great benefits of spiritual life  
+even for those who are connected with them. 
+
+(Dadhibhāṇḍa **begged** Śrī Kṛṣṇa for spiritual benefits  
+not only for himself  
+but for those related to him.)
+</details>
+
+<details><summary>Español</summary>
+
+Esta **es** una cualidad que **induce** a hombres como Dadhibhāṇḍa y otros  
+**pedir** con importunidad los grandes beneficios de la vida espiritual  
+incluso para aquellos que **están conectados** con ellos. 
+
+(Dadhibhāṇḍa **rogó** a Śrī Kṛṣṇa por beneficios espirituales  
+no solo por si mismo  
+sino para aquellos relacionados con él.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु दधिभाण्डादिगळैप् पोले हठात्कारम् पण्णियुम् अनुबन्धिपर्यन्तमाग परमपुरुषार्थत्तै अपेक्षिक्कैक्कुऱुप्पाम्।
+</details>
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि मऱ्ऱुम् शरण्यतैक्क् उपयुक्तम् आऩ गुणङ्गळैयुम्  
+अवऱ्ऱिऩ्-उडैय उपयोग-विशेषङ्गळैयुम्  
+इङ्गेय् अनुसन्धित्तुक् कॊळ्वदु। 
+</details>
+
+<details><summary>English</summary>
+
+Thus such qualities in the Redeemer as are **useful** for **seeking** His **protection**  
+and the manner in which they **are useful**  
+**should be borne** in mind.
+</details>
+
+<details><summary>Español</summary>
+
+Así, las cualidades del Redentor que son **útiles** para **buscar** Su **protección**  
+y la manera en que **son útiles**  
+**debe tenerse** en cuenta.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि मऱ्ऱुम् शरण्यतैक्कुपयुक्तमाऩ गुणङ्गळैयुम् अवऱ्ऱिऩुडैय उपयोगविशेषङ्गळैयुमिङ्गेयनुसन्धित्तुक्कॊळ्वदु। 
+</details>
 
 
 
 
 
 
-Supreme generosity is the liberality in making gifts which makes a person feel that he has not done enough, even when he has given all that he possesses without any thought of the slightness of the endeavour on the part of the person benefited, the greatness of the benefit conferred or the unworthiness of the beneficiary. This is a quality which induces men like Dadhibhāṇḍa[^99] and others to ask with importunity for the great benefits of spiritual life even for those who are connected with them, Thus such qualities in the Redeemer as are useful for seeking His protection and the manner in which they are useful should be borne in mind.
-
-[^99]: Dadhibhāṇḍa begged Śrī Kṛṣṇa for spiritual benefits not only for himself but for those related to him
 
 In the state of practising the vidyās or forms of meditation (prescribed in the śrutis), only certain qualities (of Brahman) pertaining to that vidyā are ineditated upon. Still in the state of enjoyment of the fruit of the meditation, the object of enjoyment is Brahman with all his qualities. In the case of the word occurring in the second part of Dvaya, though all qualities may be present, since the aim is to attain Nārāyaṇa with such qualities as are essential for our service to Him whicb arise from His essential nature and from His qualities, the most inportant qualities to be understood are His being the śeṣī and His being capable of affording (perfect) bliss.
 
