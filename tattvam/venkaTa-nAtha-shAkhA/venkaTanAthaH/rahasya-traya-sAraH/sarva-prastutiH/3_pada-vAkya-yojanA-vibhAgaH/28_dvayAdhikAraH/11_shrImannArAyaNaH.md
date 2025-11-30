@@ -6464,7 +6464,7 @@ que **viene** a mí a la manera de un amigo".
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-स्थिरत्वमावदु इति । इदऱ्कु प्रयोजनमरुळिच्चॆय्गिऱार् इदु अत्यन्तान्तरङ्गरिति । नम्बुगै - विश्वसिक्कै,परिपूर्णत्वमावदु इति । 
+स्थिरत्वमावदु इति । इदऱ्कु प्रयोजनमरुळिच्चॆय्गिऱार् इदु अत्यन्तान्तरङ्गरिति । नम्बुगै - विश्वसिक्कै,
 </details>
 
 #### परिपूर्णत्वम्
@@ -6488,6 +6488,8 @@ Paripurnatvam (perfección o plenitud) **consiste** en (Su) **tener** todos los 
 
 परिपूर्णत्वमावदु; अवाप्तसमस्तकामत्वम्।
 </details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6530,6 +6532,11 @@ Por muy grandioso que **podría ser**,
 <details><summary>मूलम्</summary>
 
 इदु “अण्वप्युपहृतं भक्तैः प्रेम्णा भूर्येव मे भवेत्”( श्री भागवतम् १०-८१-३), 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परिपूर्णत्वमावदु इति । इदऱ्कु प्रयोजनमरुळिच्चॆय्गिऱार् इदु अण्वपीति । 
 </details>
 
 
@@ -6610,6 +6617,12 @@ y **no medir** su valor.
 इत्यादिगळिऱ्पडिये भावबन्धम् पार्क्कुमत्तऩैयॊऴिय मऱ्ऱुनामिडुम् पच्चैयिल् वरिसै पाराऩॆऩ्ऱु वल्लकिञ्चित्कारत्तिले मुयल्गैक्कुऱुप्पाम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+वरिसै पाराऩ् - तारतम्यम् पाराऩ्, 
+</details>
+
+
 #### परमोदारत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6648,12 +6661,17 @@ o la indignidad del beneficiario.
 परमोदारत्वमावदु; उपायलाघवमुम् उपेयगौरवमुम् पात्रापकर्षमुम् पारादे सर्वस्वदानम् पण्णियुम् नाञ्जॆय्ददु पोदादॆऩ्ऱिरुक्कुम् वदान्यतै। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परमोदारत्वमावदु इति । उपायलाघवमुमिति । क्षणकालसाध्यमाऩ प्रपत्तिरूपोपायत्तिऩ् लाघवत्तैयुम्, उपेयगौरवमुम् - प्राप्यमाऩ परमपदत्तिलुळ्ळ उत्कर्षविशेषत्तैयुम्, पात्रापकर्षमुम् - इन्द उपायत्तै यडैयप्पोगिऱ पात्रत्तिऩ् अत्यन्तनीचतैयैयुम्, वदान्यतै - दानशौण्डतै, 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु दधि-भाण्डादिगळैप् पोले  
 हठात्-कारम् पण्णियुम्  
-अनुबन्धि-पर्यन्तम् आग परम-पुरुषार्थत्तै अपेक्षिक्कैक्क् उऱुप्प् आम्।
+अनुबन्धि+++(→दधिभाण्ड!)+++-पर्यन्तम् आग परम-पुरुषार्थत्तै अपेक्षिक्कैक्क् उऱुप्प् आम्।
 </details>
 
 <details><summary>English</summary>
@@ -6684,6 +6702,26 @@ sino para aquellos relacionados con él.)
 इदु दधिभाण्डादिगळैप् पोले हठात्कारम् पण्णियुम् अनुबन्धिपर्यन्तमाग परमपुरुषार्थत्तै अपेक्षिक्कैक्कुऱुप्पाम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदऱ्कु प्रयोजनमरुळिच्चॆय्गिऱार् इदु दधिभाण्डादिगळैप् पोले इति ।  
+दधिभाण्डऩॆऩ्गिऱ ऒर् गोपऩ्,  
+कण्बुदैयल् विळैयाट्टिल्  
+तऩ् गृहत्तिल् वन्दु मऱैन्दुगॊळ्ळ अपेक्षित्त कृष्णऩै  
+ऒरु दधिभाण्डत्ताले मऱैत्तु वैत्तार्।  
+सिल कालमाऩ पिऱगु कृष्णऩ्, दधिभाण्डत्तै ऎडुत्तु तऩ्ऩै वॆळियिले विडुम्बडि अपेक्षिक्क  
+अवऩ्, "ओ कृष्णऩे! नी भगवाऩामे, नी ऎऩक्कु मोक्षम् कॊडुत्ताल् तिऱन्दुविडुगिऱेऩ्" ऎऩ्ऩ,  
+कृष्णऩुम् "अप्पडियेय् आगट्टुम्" ऎऩ्ऩ,  
+अवऩुम् अप्पडिय् आऩाल्  
+इन्द दधिभाण्डत्तिऱ्कुम् मोक्षम् तरवेणुमॆऩ्ऩ,  
+"अदऱ्कुम् तन्देऩ्" ऎऩ्ऱार्  
+ऎऩ्ऱु पौराणिकी कथा । 
+
+आदिपदत्ताले ध्रुवऩुक्कु माताविऩुडैय मोक्षापेक्षैयुम्, घण्टाकर्णऩुडैय स्वानुजमोक्षप्रार्थऩैयुम् विवक्षितम्।  
+हठात्कारम् - बलात्कारम् अनुबन्धिकळ् - स्वसम्बन्धिकळ्,  
+</details>
+
+
 #### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6712,6 +6750,12 @@ y la manera en que **son útiles**
 इप्पडि मऱ्ऱुम् शरण्यतैक्कुपयुक्तमाऩ गुणङ्गळैयुम् अवऱ्ऱिऩुडैय उपयोगविशेषङ्गळैयुमिङ्गेयनुसन्धित्तुक्कॊळ्वदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मऱ्ऱुम् शरण्यतैक्कुपयुक्तमाऩ गुणङ्गळैयुम् - मार्दवार्जवादिगुणङ्गळैयुम्, उपयोगविशेषङ्गळैयुम् - तत्कार्यमाऩ प्रयोजनविशेषङ्गळैयुम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपायानुष्ठान-दशैयिल्  
@@ -6734,6 +6778,17 @@ sólo **se meditan** ciertas cualidades (de Brahman) **pertenecientes** a ese vi
 <details><summary>मूलम्</summary>
 
 उपायानुष्ठानदशैयिल् अव्वो विद्यैकळुक्कडैत्त कतिपयगुणविशिष्टऩनुसन्धेयऩाय्
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि पूर्वखण्डत्तिल् शरण्यतोपयुक्तमाऩ कतिपयगुणङ्गळ् अनुसन्धेयङ्गळाऩालुम् उत्तरखण्डत्तिल् सकलगुणविशिष्टनारायणऩे प्राप्यऩागैयाले तादृशसकलगुणविशिष्ट-नारायणानुसन्धानम् दुश्शकम् आगादो ऎऩ्ऩ?  
+
+उत्तरखण्डत्तिऱ्कु स्वरूपकृतमायुम् गुणकृतमायुमुळ्ळ कैङ्कर्यप्रतिसम्बन्धित्वत्तिले नोक्कागैयाले स्वरूपकृतकैङ्कर्यत्तिऱ्कु शेषित्वमुम्,  
+गुणकृतमाऩ कैङ्कर्यत्तिऱ्कु निरतिशयभोग्यत्वमुम् प्रधानतया अनुसन्धेयमॆऩ्गिऱार् उपायानुष्ठानदशैयिलित्यादिना । 
+
+अव्वो विद्यैकळुक्कु – दहरशाण्डिल्य- वैश्वानर-भूम-न्यास-विद्यैगळुक्कु, अडैत्त - विधित्त, भोग्यत्वादिगळ् ऎऩ्गिऱविडत्तिल् आदिपदत्ताले दिव्यमङ्गळविग्रहादिगळ् ग्रहिक्कप्पडुगिऩ्ऱऩ। 
 </details>
 
 
@@ -6856,6 +6911,12 @@ y la **evitación** de lo **que** es adverso
 इङ्गु सम्बन्धविशेषादिमुखत्ताले आनुकूल्यसङ्कल्पमुम् प्रातिकूल्यवर्जनमुम् सूचितमाऩबडि अधिकारान्तरत्तिले सॊऩ्ऩोम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द पदत्तिले आनुकूल्यसङ्कल्पादिगळ् सूचितङ्गळाऩबडियै मुऩ्बे सॊऩ्ऩोमॆऩ्गिऱार् इङ्गु सम्बन्धविशेषादिमुखत्ताले इति । सम्बन्धविशेषमावदु स्वस्वामिभावम्। आदिशब्दत्ताले सर्वशरीरत्वम् ग्रहिक्कप्पडुगिऱदु। अधिकारान्तरत्तिले - परिकरविभागाधिकारत्तिले,  
+</details>
+
+
 ## श्रीमन्नारायणचरणौ - विभागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6876,6 +6937,12 @@ Hay algunos (ācāryas) que **toman** a Śrīman Nārāyaṇa caraṇau como una
 <details><summary>मूलम्</summary>
 
 इव्विडत्तिल् “श्रीमन्नारायणचरणौ” ऎऩ्ऱु समस्तमागवुम् योजिप्पार्गळ्।
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩिमेल् चरणशब्दत्तिऱ्कु व्याख्यानम् पण्णत्तुडङ्गुगिऱार् इव्विडत्तिलिति । 
 </details>
 
 
@@ -6915,6 +6982,13 @@ pasajes como
 
 “कमलनयन वासुदेव भव शरणं”( विष्णुपुराणम् ३-७-३३) ऎऩ्गिऱ प्रयोगत्तैयुम्, 
 </details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मुदलिल् समस्तपक्षत्तैक् काट्टि व्यस्तयोजऩैयिल् प्रमाणम् काट्टुगिऱार् कमलनयनवासु-देवेति । 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7054,6 +7128,12 @@ y la **oración** en el Gadya **buscando** Su **protección sigue**).
 “श्रीमन्नारायणस्वामिन्न्”  इत्यादिमन्त्रान्तरङ्गळैयुम् द्वयविवरणमाऩ गद्यत्तैयुम् पार्त्तु,
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+गद्यत्तैयुम् - “श्रीमन्नारायण त्वत्पादारविन्द युगलं शरणमहं प्रपद्ये” ऎऩ्गिऱ गद्यवाक्यैकदेशत्तैयुम्, पार्त्तु - परामर्शित्तु, 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "श्रीमन्! नारायण!"  
@@ -7104,6 +7184,13 @@ Oh Narayana,
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+श्रीमन्, नारायण ऎऩ्ऱिरण्डु सम्बुद्ध्यन्तपदमाक्किल् चरणशब्दत्तिऱ्कु अन्वयम् कूडुवदु ऎङ्ङऩेय् ऎऩ्ऩव्  
+अरुळिच्चॆय्गिऱार् तव ऎऩ्ऱॊरु पदत्तै यद्ध्याहरित्तु इति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप् पडि व्यस्तम् आऩालुम्  
@@ -7134,6 +7221,12 @@ en relación el uno con el otro
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द इरण्डु पक्षत्तिलुम् शब्दत्तिल् वैषम्यमे यॊऴिय श्रीमच्छब्दार्थत्तिलुम् नारायणशब्दार्थत्तिलुम् वैषम्यमिल्लैयॆऩ्गिऱार् इप्पडि व्यस्तमाऩालुमित्यादियाल्। समस्तपक्षत्तिल्बोले व्यस्तपक्षत्तिलुम् विशेष्य विशेषणभावमुळ्ळदेयॊऴिय उपलक्षणत्वोपलक्षितत्वरूपवैषम्यमिल्लैयॆऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन् निलै पूर्वोत्तर-खण्डङ्गळिलुम् ऒक्कुम्।
@@ -7154,6 +7247,11 @@ en la primera parte de Dvaya y en la segunda.
 <details><summary>मूलम्</summary>
 
 इन् निलै पूर्वोत्तरखण्डङ् गळिलुम् ऒक्कुम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडियागिल् व्यस्तमायिरुन्दे विशेषणत्वविशेष्यत्वरूपस्थितियाऩदु इरण्डु खण्डत्तिलुम् तुल्यमॆऩ्गिऱार् इन्निलै इत्यादिना । 
 </details>
 
 
@@ -7194,6 +7292,12 @@ pero por implicación, la forma divinamente auspiciosa (del Señor), (que **no e
 “चरणौ” ऎऩ्गिऱ शब्दम् नित्यमाऩ दिव्यमङ्गळविग्रहत्तुक्कुपलक्षणम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+चरणशब्दम् नित्यमाऩ अप्राकृतदिव्यमङ्गळविग्रहत्तिऱ्कु उपलक्षणमॆऩ्गिऱार् चरणौ ऎऩ्गिऱ शब्दमिति । 
+</details>
+
+
 #### प्राधान्योक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7223,6 +7327,12 @@ eso **debe saberse**.
 
 श्रियःपतियिऩुडैय सर्वस्मात्परत्वमुम् नित्यविग्रहयोगमुम् ज्ञातव्यङ्गळिल् प्रधानतममॆऩ्ऩुमिडम्
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि दिव्यमङ्गळविग्रहयोगत्तै इङ्गेसॊऩ्ऩदऱ्कु प्रयोजनमुण्डो वॆऩ्ऩवरुळिच्चॆय्गिऱार् श्रियःपतियिऩुडैय इत्यादियाल्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7264,6 +7374,13 @@ y así también, oh Pauṣkara, que Él **es** superior a todos los demás-
 
 “नित्यसिद्धे तदाकारे तत्परत्वे च पौष्कर । यस्यास्ति सत्ता हृदये तस्यासौ सन्निधिं व्रजेद्”( पौष्करसंहिता)
 </details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नित्यसिद्ध इति । हे पौष्कर - तामरसपुष्पत्तिलुण्डाऩ ब्रह्मावे, नित्यसिद्धे तदाकारे - नित्यमाऩ भगवाऩुडैय दिव्यमङ्गळविग्रहत्तिलुम्, तत्परत्वे च - अवऩुडैय सर्वस्मात्परत्व विषयत्तिलुम्, यस्य हृदये - ऎवऩ् हृदयत्तिले, सत्ता - इरुक्किऱदु ऎऩ्गिऱ ज्ञानम्, अस्ति - इरुक्किऱदो, तस्य – अवऩुक्कु, असौ - इन्द दिव्यमङ्गळविग्रहविशिष्टऩायुम् सर्वस्मात्परऩायुमुळ्ळ भगवाऩ्, सन्निधिं - सान्निध्यत्तै, अदावदु प्रत्यक्षत्तै, व्रजेत् - अडैवाऩ् ऎऩ्गै। इप्पडि स्वज्ञानत्ताले भगवत्सान्निध्यहेतुवागैयाले इव् विग्रहयोगम् सॊऩ्ऩदु सप्रयोजनमॆऩ्ऱु करुत्तु।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7307,6 +7424,13 @@ Su **ser** la Realidad Suprema que es fácilmente **accesible**
 <details><summary>मूलम्</summary>
 
 आगैयाल् “श्रीमन्नारायण” ऎऩ्गिऱविडत्तिले सौलभ्यान्वितमाऩ परत्वमुम् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि मन्त्रत्तिल् चरणशब्दत्तिले विग्रहम् अनुसन्धेयमाऩालुम् परत्वमॆङ्गे अनुसन्धेयमॆऩ्ऩ वरुळिच्चॆय्गिऱार् आगैयालिति । 
+
+श्लोकत्तिल् तत्परत्वे ऎऩ्ऱु परत्वमात्रम् सॊल्लियिरुन्दालुम् अदु सौलभ्यान्वितमाय्क्कॊण्डे कार्यकरमॆऩ्गिऱ अभिप्रायत्ताले सौलभ्यान्वितेति परत्वविशेषणम्। 
 </details>
 
 
@@ -7372,6 +7496,15 @@ que **está constituido** enteramente de Śuddha sattva (y no de materia),
 दिव्यात्मस्वरूपत्तिलुम् कीऴ्च्चॊऩ्ऩ गुणादिगळिलुन् तॆळिविल्लादार्क्कुम् शुद्धसत्त्वद्रव्यमयमाय्
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द दिव्यमङ्गळविग्रहम् अवश्यम् ज्ञातव्यमॆऩ्ऱु तोऩ्ऱुगैक्काग दिव्यात्मस्वरूपत्तैक् काट्टिलुम् गुणङ्गळैक्काट्टिलुम् इदऱ्कुळ्ळ उत्कर्षत्तै यरुळिच्चॆय्गिऱार् दिव्यात्मस्वरूपत्तिलुमित्यादियाल्।  
+“सत्यं ज्ञानमनन्तं ब्रह्म” ऎऩ्ऱु सॊल्लप्पट्ट दिव्यात्मस्वरूपत्तिलुम्,  
+कीऴ्च्चॊऩ्ऩ गुणादिगळिलुम् - नारायणशब्दत्तिल् सॊऩ्ऩ गुणविभूत्यादिगळिलुम्,  
+तॆळिविल्लादार् - सम्यक्ज्ञानमिल्लादार्, 
+इदऩाले आश्रयत्वम् सॊल्लिऱ्ऱु। शुद्धसत्वद्रव्यमयमायिति ।  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -7397,6 +7530,13 @@ lo cual, en aquellos que tienen un **conocimiento** de ello,
 स्वविषयज्ञानत्ताले ज्ञानसङ्कोचत्तुक्कु निवर्तकमाय् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+स्वविषयज्ञानत्ताले ज्ञानसङ्कोचत्तुक्कु निवर्तकमायिति । तऩ्ऩै चिन्तनम् पण्ण मात्रत्ताले दिव्यात्मस्वरूप ज्ञानसङ्कोचत्तिऱ्कुम् कल्याणगुणविषयज्ञानसङ्कोचत् तिऱ्कुम् निवर्तकमायॆऩ्ऱबडि।  
+इदऩाल् दिव्यात्मस्वरूपज्ञानत्तिऱ्कुम् गुणविभूत्यादिज्ञानत्तिऱ्कुम् जनकमायॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परत्व-सौलभ्य-व्यञ्जकम् आऩ  
@@ -7420,7 +7560,13 @@ y Su fácil **accesibilidad**.
 परत्वसौलभ्यव्यञ्जकमाऩ दिव्यमङ्गळविग्रहमे इलक्काम्। 
 </details>
 
-#### गद्य-सूचना
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदऩाल् हेयप्रत्यनीकत्वरूपशुभत्वम् सॊल्लप्पट्टदु। परत्वसौलभ्यव्यञ्जकमाऩ इति । तऩ्ऩै ध्यानम् पण्णुगिऱवऩुक्कु अभीष्टप्रदानत्तालेपरत्वव्यञ्जकमागिऱदु। कण्णुक्कु इलक्कागैयाले सौलभ्यप्रकाशमागिऱदु। 
+</details>
+
+
+#### सम्प्रदाये प्रशस्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप् प्राधान्यत्तैप् पऱ्ऱि  
@@ -7447,6 +7593,12 @@ antes de **indicar** las cualidades.
 इप् प्राधान्यत्तैप् पऱ्ऱि गद्यत्तिल् गुणङ्गळुक्कु मुऩ्ऩे दिव्यमङ्गळविग्रहत्तैयरुळिच्चॆय्दार्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप् प्राधान्यत्तैप् पऱ्ऱि - परत्वसौलभ्यव्यञ्जकमाऩ इप् प्राधान्यत्तैक्कणिसित्तु, गद्यत्तिल् गुणङ्गळुक्कुमुऩ्ऩे दिव्यमङ्गळविग्रहत्तै यरुळिच्चॆय्दारिति । मन्त्रत्तिल् गुणादिगळुक्कुप् पिऩ्बु दिव्यमङ्गळविग्रहयोगम् सॊल्लप्पट्टालुम् द्वयविवरणरूपमाऩ गद्यत्तिल् एतादृशप्राधान्यत्तै उद्देशित्ते गुणङ्गळुक्कु मुऩ्बे दिव्यमङ्गळविग्रहयोगम् सॊल्लप्पट्ट तॆऩ्ऱु करुत्तु।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव्यात्म-स्वरूपत्तिल् तॆळिव्-उडैयर् आय् इरुक्कच् चॆय्देयुम् 
@@ -7468,6 +7620,14 @@ Aunque **tenía** un verdadero **conocimiento** de la naturaleza esencial del Se
 दिव्यात्मस्वरूपत्तिल् तॆळिवुडैयरायिरुक्कच् चॆय्देयुम्
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+दिव्यमङ्गळविग्रहप्राधान्यत्तैप्पऱ्ऱ ओर् ऐतिह्यमरुळिच्चॆय्गिऱार् दिव्यात्मस्वरूपत्तिल् तॆळिवुडैयरायिरुक्कच् चॆय्देयुमिति । 
+
+तॆळिवुडैयारिति । इदऩाल् सॊल्लबोगिऱ देहात्मवादम् स्वरूपाज्ञानकृतमऩ्ऱॆऩ्ऱु सूचितम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “मूर्तं ब्रह्म ततोऽपि तत् प्रियतरं रूपं यद् अत्यद्भुतम्”  
@@ -7480,7 +7640,6 @@ Aunque **tenía** un verdadero **conocimiento** de la naturaleza esencial del Se
 
 > “मूर्तं ब्रह्म ततोऽपि तत्-प्रियतरं रूपं यद् अत्यद्भुतम्”  
 ( चतुः-श्लोकी ४) 
-
 </details>
 
 
@@ -7505,46 +7664,884 @@ que Su propia Naturaleza esencial (que es jñāna y ānanda)".
 “मूर्तं ब्रह्म ततोऽपि तत्प्रियतरं रूपं यदत्यद्भुतम्”( चतुः-श्लोकी ४) ऎऩ्ऩुम्बडि 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मूर्तमिति । मूर्तं ब्रह्म ऎऩ्ऱु सॊल्लप्पट्ट दिव्यमङ्गळविग्रहम्, ततोऽपि – दिव्यात्मस्वरूपत्तैक् काट्टिलुम्, तत्प्रियतरं - भगवाऩुक्कु अत्यन्तप्रियमागवागिऱदु। 
+</details>
 
 
-yet he **spoke** of himself as one who **does not believe** in the Supreme Reality (that is jñāna and ānanda ) like atheists who consider the body as the soul, because of his extreme devotion to the eternal form which is delightful even to Iśvara ( who is jñāna and ānanda ). 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The divinely auspicious form of the Supreme Ruler is pure and auspicious (subha ) and is a fit object of meditation (āśraya ) as declared in the following passages : - "May I see that holy countenance of Viṣṇu with eyes like lotus in the form which He has assumed of His own will and which, when remembered, removes the sins of men ! " " Śrī Rāma fascinates the eyes of men with the beauty (of his form) and their minds with such qualities as generosity." Those who are in the bondage of saṁsāra may be objects for meditation (āśraya) but there is no parity or auspiciousness in them. The essential nature ( svarūpa ) of Bhagavān is pure and auspicious but it cannot be an object of meditation.
+ईश्वरऩ् +++(त→)+++ऱऩक्कुम् भोग्यतमम् आऩ नित्य-विग्रहानुभवत्तिल् ऊऱ्ऱत्ताले
+</details>
 
-The pure and essential form of the jīva (free from bondage ) cannot come back to saṁsāra, since it is without the qualities necessary for doing so; but by its nature, it has in it in the potentiality of being associated with such qualities. Therefore it has not the purity and auspiciousness which are opposed to anything that is of the nature of a blemish, nor can it be a fit object of medi tation. When a released soul (mukta) assumes a form, it can become an object of meditation as also eternal sūris (nityas) who have form, but neither of them has the purity and auspiciousness which can release the baddhas from saṁsāra. Therefore it is only the divinely auspicious form (of the Lord) which has purity and auspiciousness and the fitness of being an object of meditation, which are both necessary to the aspirant to mukti.
+<details><summary>English</summary>
+
+because of his extreme **devotion** to the eternal form which **is delightful** even to Iśvara ( who **is** jñāna and ānanda ). 
+</details>
+
+<details><summary>Español</summary>
+
+debido a su extrema **devoción** a la forma eterna que **es deliciosa** incluso para Iśvara (quien **es** jñāna y ānanda).
+</details>
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩ् ऱऩक्कुम् भोग्यतममाऩ नित्यविग्रहानुभवत्तिलूऱ्ऱत्ताले
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ऊऱ्ऱत्ताले - अभिनिवेशत्ताले, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरु-मङ्गैय् आऴ्वार्  
+तम्मै ईश्वर-विषयत्तिल् देहात्म-वादिगळ् आगव् अरुळिच् चॆय्वर्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+yet he **spoke** of himself as one  
+who **does not believe** in the Supreme Reality (that is jñāna and ānanda ) like atheists who consider the body as the soul.
+</details>
+
+<details><summary>Español</summary>
+
+sin embargo, tirumangai ALvAr **habló** de sí mismo como uno  
+que **no cree** en la Realidad Suprema (es decir jñāna y ānanda) como los ateos que **consideran** el cuerpo como el alma.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तिरुमङ्गैयाऴ्वार् तम्मै ईश्वरविषयत्तिल् देहात्मवादिगळाग वरुळिच्चॆय्वर्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+ईश्वरविषयत्तिल् देहात्मवादिगळाग इति । ईश्वरऩुडैय देहमुम् ईश्वरऩुडैय आत्मावुम् ऒऩ्ऱेयॊऴिय वेऱुबट्टदऩ्ऱॆऩ्ऱे नाम् निऩैक्किऱोमॆऩ्ऱु सॊल्लुवराम् ऎऩ्बदु। 
+</details>
+
+
+#### शुभाश्रायता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वेश्वरऩ्-उडैय दिव्य-मङ्गल-विग्रहत्तुक्कु
+</details>
+
+<details><summary>English</summary>
+
+The divinely auspicious form of the Supreme Ruler 
+</details>
+
+<details><summary>Español</summary>
+
+La forma divinamente auspiciosa del Gobernante Supremo
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वेश्वरऩुडैय दिव्यमङ्गळविग्रहत्तुक्कु
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि मुमुक्षुध्येयत्वानुकूलमाऩ शुभत्वमुम् आश्रयत्वमुम् इद्दिव्यमङ्गळविग्रहत् तिऱ्के उण्डॆऩ्गिऱार् सर्वेश्वरऩुडैय इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “पापं **हरति** यत् पुंसां  
+**स्मृतं** सङ्कल्पनामयम् ।  
+तत् पुण्डरीक-नयनं  
+विष्णोर् द्रक्ष्याम्य् अहं मुखम्॥”  
+( विष्णुपुराणम् ५.१७.४),
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “पापं **हरति** यत् पुंसां  
+**स्मृतं** सङ्कल्पनामयम् ।  
+तत् पुण्डरीक-नयनं  
+विष्णोर् द्रक्ष्याम्य् अहं मुखम्॥”  
+( विष्णुपुराणम् ५.१७.४),
+</details>
+
+<details><summary>English</summary>
+
+> "**May I see** that holy countenance of Viṣṇu  
+with eyes like lotus in the form  
+which He **has assumed** of His own will  
+and which, when **remembered**, **removes** the sins of men ! " 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "**Puedo ver** ese santo rostro de Viṣṇu  
+con ojos como loto en la forma  
+que Él **ha asumido** por Su propia voluntad  
+y que, cuando **se recuerda**, **elimina** los pecados de los hombres! "
+</details>
+
+<details><summary>मूलम्</summary>
+
+“पापं हरति यत्पुंसां स्मृतं सङ्कल्पनामयम् । तत्पुण्डरीकनयनं विष्णोर्द्रक्ष्याम्यहं मुखम्॥”( विष्णुपुराणम् (?)),
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शुभत्वे प्रमाणमरुळिच्चॆय्गिऱार् पापं हरतीति । अस्यार्थः यत्सङ्कल्पनामयं (इच्छागृहीतं) मुखं स्मृतं सत् पुंसां पापं हरतीति । इदऩाल् तऩ्ऩै निऩैक्किऱवर्गळिऩ् पापनिवर्तकत्वमे शुभत्वमॆऩ्ऱु सॊल्लप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “रूपौदार्यगुणैः पुंसां  
++++(क्रमशो)+++ दृष्टि-चित्तापहारिणम्।”  
+( रामायणम् अयोध्या-काण्डम् ३-२८) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “रूपौदार्यगुणैः पुंसां  
++++(क्रमशो)+++ दृष्टि-चित्तापहारिणम्।”  
+( रामायणम् अयोध्या-काण्डम् ३-२८) 
+
+</details>
+
+<details><summary>English</summary>
+
+> "Śrī Rāma **fascinates** the eyes of men with the beauty (of his form)  
+and their minds with such qualities as generosity." 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Śrī Rāma **fascina** los ojos de los hombres con la belleza (de su forma)  
+y sus mentes con cualidades tales como la generosidad."
+</details>
+
+<details><summary>मूलम्</summary>
+
+“रूपौदार्यगुणैः पुंसां दृष्टिचित्तापहारिणम्” ( रामायणम् अयोध्या-काण्डम् ३-२८)
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आश्रयत्वे प्रमाणम् काट्टुगिऱार् रूपेति । रूपत्तुक्कु औदार्यमावदु महत्त्वम्, अदावदु उत्कर्षम्। “उदारो दातृमहतोः” इत्यमरः । अथवा रूपत्तिऩुडैय औदार्यम् दानम्। अदावदु तऩ्ऩुडैय रूपत्तै सकलमनुजनयनविषयमागप्पण्णुगै। गुणैः – कल्याणगुणङ्गळालेयुम्, दृष्टिचित्तापहारिणं – रूपदानत्ताले दृष्टियैयुम्, सौशील्यादीतरकल्याणगुणङ्गळाले चित्तत्तैयुम् अपहरिक् किऱवऩै, इदऩाले योगयुङ्मनस्सुक्कुम् सुलभध्येयत्वरूपम् आश्रयत्वम् सॊल्लप्पट्टदु।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ् पडिये  
++++(ध्याने)+++ शुभत्वमुम् आश्रयत्वमुम् उण्डु। 
+</details>
+
+<details><summary>English</summary>
+
+as **declared** in the above passages,  
+**is** pure and auspicious (subha )  
+and **is** a fit object of meditation (āśraya ) 
+</details>
+
+<details><summary>Español</summary>
+
+como **se declara** en los pasajes anteriores,  
+**es** puro y auspicioso (subha)  
+y **es** un objeto adecuado para la meditación (āśraya)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये शुभत्वमुमाश्रयत्वमुमुण्डु। 
+</details>
+
+##### अन्यत्राभावः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बद्धर्क्क् +++(ध्याने)+++ आश्रयत्वम् उण्डागिलुम्  
+शुभत्वम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+Those who **are** in the bondage of saṁsāra may be objects for meditation (āśraya)  
+but there **is no** purity or auspiciousness in them. 
+</details>
+
+<details><summary>Español</summary>
+
+Aquellos que **están** en la esclavitud del saṁsāra **pueden ser** objetos de meditación (āśraya)  
+pero **no hay** pureza ni auspicios en ellos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+बद्धर्क्काश्रयत्वमुण्डागिलुम् शुभत्वमिल्लै। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द दिव्यमङ्गळविग्रहेतरर्गळिल् सिलर्क्कु आश्रयत्वम् इरुन्दालुम् शुभत्वमिल्लै; सिलर्क्कु शुभत्वमिरुन्दालुमाश्रयत्वमिल्लै; सिलर्क्कु उभयमुमिल्लैयॆऩ्गिऱार् बद्धर्क्कित्यादिवाक्यत्रयत्ताले, शरीरवत्वेन मनोग्राह्यत्वरूपमाऩ आश्रयत्वमिरुन्दालुम् पापहरत्वरूपमाऩ शुभत्वमिल्लै यॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्--स्व-रूपत्तुक्कु शुभत्वम् उण्डेय् आगिलुम्  
+आश्रयत्वम् इल्लै। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+The essential nature ( svarūpa ) of Bhagavān **is** pure and auspicious  
+but it **cannot be** an object of **meditation**.
+</details>
+
+<details><summary>Español</summary>
+
+La naturaleza esencial (svarūpa) de Bhagavān **es** pura y auspiciosa.  
+pero **no puede ser** un objeto de **meditación**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवत्स्वरूपत्तुक्कु शुभत्वमुण्डेयागिलुमाश्रयत्वमिल्लै। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+भगवत्स्वरूपत्तिऱ्कु इति ।  
+भगवत्स्वरूपत्तिऱ्कु स्वध्यानत्ताले पापहरत्वरूपमाऩ शुभत्वमुण्डेयागिलुम्  
+योगयुङ्मनोगोचरत्वरूपमाऩ आश्रयत्वमिल्लै यॆऩ्ऱबडि। 
+
+विष्णुपुराणम् स्वरूपत्तिऱ्कु 
+
+> “न च योगयुजा शक्यं  
+नृप चिन्तयितुं यतः” 
+
+ऎऩ्ऱु योगयुङ्मनोगोचरत्वमिल्लैयॆऩ्ऱदिऱे। 
+
+> शुभाश्रयचिन्तनत्ताले योगम् निष्पन्नमाऩाल्  
+तद्-अनन्तरम् स्वरूपम् ध्यानविषयम् आम् 
+
+ऎऩ्ऱदिऱे “निष्पन्नयोगिध्येयन् तत्” ऎऩ्गिऱ वचनम्। +++(4)+++
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संसार-बन्ध-रहितम् आऩ परिशुद्धात्म-स्वरूपत्तुक्कु  
+संसरिक्कैक्कु सहकारि-योग्यतैय् इल्लैयेय् आगिलुम् 
+</details>
+
+<details><summary>English</summary>
+
+The pure and essential form of the jīva (free from bondage ) **cannot** come back to saṁsāra,  
+since it **is without** the qualities necessary for doing so;  
+</details>
+
+<details><summary>Español</summary>
+
+La forma pura y esencial de la jīva (libre de **ataduras**) **no** puede regresar al saṁsāra,  
+ya que **carece** de las cualidades necesarias para ello;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+संसारबन्धरहितमाऩ परिशुद्धात्मस्वरूपत्तुक्कु संसरिक्कैक्कु सहकारियोग्यतैयिल्लैयेयागिलुम् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+संसारबन्धरहितमाऩ इति । मुक्तात्मस्वरूपत्तिऱ्कु अन्द दशैयिल् कर्मवश्यतै यिल्लाविडिलुम् परतन्त्रचेतनत्वरूपसंसरणस्वरूपयोग्यतै यिरुप्पदाल् हेयप्रत्यनीकत्वरूपशुभत्वमिल्लै। विग्रहशून्यतया योगयुङ्मनोगोचरत्वरूपाश्रयत्वमुमिल्लैयॆऩ्ऱु करुत्तु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पर-तन्त्र-चेतनतैयाले संसरिक्कैक्कु स्व-रूप--योग्य-वस्तुव् आगैयालेय् 
+</details>
+
+<details><summary>English</summary>
+
+but by its nature,  
+it has in it in the potentiality of being associated with such qualities. 
+</details>
+
+<details><summary>Español</summary>
+
+pero por su naturaleza,  
+**tiene** en sí la potencialidad de estar **asociado** con tales cualidades.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परतन्त्रचेतनतैयाले संसरिक्कैक्कु स्वरूपयोग्यवस्तुवागैयालेय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदुक्कु हेय-प्रत्यनीकत्व-रूप-शुभत्वमुम् इल्लै,+++(5)+++  
+आश्रयत्वमुम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore it **has** not the purity and auspiciousness  
+which **are opposed** to anything  
+that **is** of the nature of a blemish,  
+nor can it be a fit object of **meditation**. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto **no tiene** la pureza y el carácter auspicioso  
+que **se oponen** a cualquier cosa  
+que **es** de la naturaleza de una imperfección,  
+ni puede ser un objeto adecuado para **meditación**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदुक्कु हेयप्रत्यनीकत्वरूपशुभत्वमुमिल्लै, आश्रयत्वमुमिल्लै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्तर् उडैय विग्रह-परिग्रह-दशैयिलुम्,  
+नित्य-विग्रहर् आऩ नित्यर्क्कुम्, 
+
+आश्रयत्वम् उण्डेय् आगिलुम्  
+संसार-निवर्तन-क्षमम् आऩ शुभत्वम् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+When a released soul (mukta) **assumes** a form,  
+it **can become** an object of meditation,  
+as also eternal sūris (nityas) who **have** form,  
+but neither of them **has** the purity and auspiciousness  
+which **can release** the baddhas from saṁsāra. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando un alma liberada (mukta) **asume** una forma,  
+**puede convertirse** en un objeto de meditación,  
+como también los sūris (nityas) eternos que **tienen** forma,  
+pero ninguno de ellos **tiene** la pureza y el buen augurio  
+que **puede liberar** a los baddhas del saṁsāra.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुक्तरुडैय विग्रहपरिग्रहदशैयिलुम् नित्यविग्रहराऩ नित्यर्क्कुम् आश्रयत्वमुण्डेयागिलुम् संसारनिवर्तनक्षममाऩ शुभत्वमिल्लै।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+नित्यविग्रहराऩ नित्यर्क्कुम् शरीर-परिग्रहकालावच्छेदेन मुक्तर्क्कुम् ध्येयत्वरूपमाऩ आश्रयत्वमिरुन्दालुम् हेयनिवर्तकत्वरूपमाऩ शुभत्वमिल्लैयॆऩ्गिऱार् मुक्तरुडैय विग्रहपरिग्रहदशैयिलुमित्यादियाल्।  
+नित्यविग्रहराऩ ऎऩ्बदाल् नित्यर्क्कु विग्रहशून्यदशैयिल्लै यॆऩ्ऱु सूचितम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् दिव्य-मङ्गल-विग्रहत्तुक्के  
++++(ध्याने)+++ मुमुक्षूपयुक्तम् आऩ शुभत्वमुम्, आश्रयत्वमुम् उळ्ळदु।
+</details>
+
+<details><summary>English</summary>
+
+Therefore it **is** only the divinely auspicious form (of the Lord)  
+which **has** purity and auspiciousness  
+and the fitness of **being** an object of **meditation**,  
+which **are** both **necessary** to the aspirant to mukti.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **es** sólo la forma divinamente auspiciosa (del Señor)  
+que **tiene** pureza y auspiciosidad  
+y la idoneidad de **ser** un objeto de **meditación**,  
+los cuales **son** ambos **necesarios** para el aspirante a mukti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् दिव्यमङ्गळविग्रहत्तुक्के मुमुक्षूपयुक्तमाऩ शुभत्वमुमाश्रयत्वमुमुळ्ळदु।
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+दिव्यमङ्गळविग्रहत्तिऱ्के शुभत्वमुम् आश्रयत्वमुमुण्डॆऩ्ऱु निगमिक्किऱार् आगैयालिति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 परावर-सुख-ग्राह्यं  
 प्रेम-बोध-प्रसावकम् ।  
-+++(सत्यं ज्ञानम् अनन्तं→)+++ स्वरूपात् स्वामिनो रूपम्  
-उपादेयतमं विदुः ॥ +++(4)+++
++++("सत्यं ज्ञानम् अनन्तं"→)+++ स्वरूपात् स्वामिनो रूपम्  
+**उपादेयतमं** विदुः ॥ +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+परावर-सुख-ग्राह्यं  
+प्रेम-बोध-प्रसावकम् ।  
++++("सत्यं ज्ञानम् अनन्तं"→)+++ स्वरूपात् स्वामिनो रूपम्  
+**उपादेयतमं** विदुः ॥ +++(4)+++
+
+</details>
+
+
+<details><summary>English</summary>
+
+It **is known** that the ( divinely auspicious) form of the Master  
+**is** of more importance (to the aspirant to mukti) than His essential nature svarūpa,  
+because it **is capable** of **being grasped** easily  
+both by the high (like Brahma) and by the low (like ordinary men )  
+and because it **can produce** (in those that contemplate it) bhakti  and jnana.
+</details>
+
+<details><summary>Español</summary>
+
+**Se sabe** que la forma (divinamente auspiciosa) del Maestro  
+**es** de más importancia (para el aspirante a mukti) que Su naturaleza esencial svarūpa,  
+porque **es capaz** de **ser agarrado** fácilmente  
+tanto por los altos (como Brahma) como por los bajos (como los hombres comunes)  
+y porque **puede producir** (en aquellos que lo contemplan) bhakti y jnana.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 ॥ परावरसुखग्राह्यं प्रेमबोधप्रसावकम् । स्वरूपात् स्वामिनो रूपमुपादेयतमं विदुः ॥
 </details>
 
-It is known that the ( divinely auspicious) form of the Master is of more importance (to the aspirant to mukti) than His essential nature svarūpa, because it is capable of being grasped easily both by the high (like Brahma) and by the low (like ordinary men ) and because it can produce (in those that contemplate it) bhakti  and južne.
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-In the sentence prescribing śaraṇāgati, namely, " Seek refuge under me alone", (caramaśloka) also, the Lord who had assumed
+कीऴ्च्चॊऩ्ऩ अर्थत्तै कारिकैयाल् सङ्ग्रहिक्किऱार् परावरेति । परर् - ब्रह्मादिगळ्, अवरर् - निष्पन्नमाऩ योगमिल्लाद अस्मदादिगळ्। इव्विरुवर्गळालेयुम् सुखमाग ग्रहिक्कत्तक्किऩदु। इङ्गु अवरग्राह्यमॆऩ्ऱदाल् योगयुक्कुक्कु सुखग्राह्यमल्लाद निरालम्बनयोगविषयमाऩ दिव्यात्मस्वरूपत्तुक्कु आश्रयत्वमिल्लैयॆऩ्ऱु सूचिक्कप्पट्टदु। प्रेमबोधप्रसावकं – भक्तिक्कुम् दिव्यात्मस्वरूपबोधत्तुक्कुम् स्वज्ञानत्ताले विरोधिनिवर्तन द्वारा उत्पादकम्। इव्विरण्डु पदमुम् हेतुगर्भविशेषणम्। परावरसुखग्राह्यत्वत्ताले आश्रयत्वम्। प्रेमबोधप्रसावकत्वत्ताले शुभत्वमुम् सिद्धम्। स्वामिनः – स्वामियाऩ भगवाऩुडैय, स्वरूपात् - दिव्यात्मस्वरूपत्तैक्काट्टिलुम्, रूपं – दिव्यमङ्गळविग्रहमाऩदु, उपादेयतमं विदुरिति । दिव्यात्मस्वरूपम् हेयनिवर्तकमागैयाले उपादेयमाय् निष्पन्नयोगिध्येयमागैयाले उपादेयतरमाऩालुम् अदैक् काट्टिलुम् योगयुक्काऩ अवरर्गळुक्कुम् सुखग्राह्यमागैयाले दिव्यमङ्गळविग्रहम् उपादेयतममॆऩ्ऱु करुत्तु।
+</details>
 
-a form appeared as the place of refuge. From the śāstras, it is well known that this dividely auspicious form in the five states Para, Vyūha, Vibhava, Antaryāmī or Hārda and Arcā is pure and auspicious and suitable for meditation.
 
+##### चरम-श्लोके
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरणागति-विधायक-वाक्यत्तिलुम् 
+
+> “मामेकं शरणं व्रज” 
+
+ऎऩ्ऱु विग्रह-विशिष्टऩ् इलक्क्+++(=लक्ष्यम्)+++ आय्त् तोऱ्ऱिऩाऩ् +++(नारूपः)+++। 
+</details>
+
+<details><summary>English</summary>
+
+In the sentence **prescribing** śaraṇāgati,  
+namely, " **Seek refuge** under me alone", (caramaśloka) also,  
+the Lord who **had assumed** a form  
+**appeared** as the place of refuge. 
+</details>
+
+<details><summary>Español</summary>
+
+En la oración **que prescribe** śaraṇāgati,  
+a saber, "**Busca refugio** solo debajo de mí", (caramaśloka) también,  
+el Señor que **había asumido** una forma  
+**apareció** como el lugar de **refugio**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शरणागतिविधायक वाक्यत्तिलुम् “मामेकं शरणं व्रज” ऎऩ्ऱु विग्रहविशिष्टऩिलक्काय्त् तोऱ्ऱिऩाऩ्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अनुष्ठेयार्थप्रकाशकमाऩ द्वयत्तिल्बोले  
+विधायकमाऩ चरमश्लोकत्तिलुम् +++(5)+++  
+शरणागतिक्कु विग्रहविशिष्टऩे लक्ष्यमाऩाऩॆऩ्गिऱार् शरणागतिविधायकवाक्यत्तिलुमिति । 
+</details>
+
+
+##### अवस्था-भेदाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इद् दिव्य-विग्रहम्  
+पर-व्यूहाद्य्-अवस्था-पञ्चकत्तिलुम्  
+शुभाश्रयम्  
+ऎऩ्ऩुम् इडम् शास्त्र-सिद्धम्। 
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+कथम् अत्र विग्रहावस्थोक्तिः??  
+न ते व्यूहादीनि विग्रहान्तराणि?  
+यदि भगवत्-स्वरूपय् आश्रयत्वं नास्ति,  
+कथम् अन्तर्यामि-रूपस्य +आश्रयत्वम् - अरूपत्वे सति? 
+</details>
+
+<details><summary>English</summary>
+
+From the śāstras,  
+it **is well known** that  
+this divinely auspicious form in the five states Para, Vyūha, Vibhava, Antaryāmī or Hārda and Arcā  
+**is** pure and auspicious  
+and **suitable** for meditation.
+</details>
+
+<details><summary>Español</summary>
+
+De los śāstras,  
+**es bien sabido** que  
+esta forma divinamente auspiciosa en los cinco estados Para, Vyūha, Vibhava, Antaryāmī o Hārda y Arcā  
+**es** puro y auspicioso  
+y **adecuado** para la meditación.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इद् दिव्यविग्रहम्परव्यूहाद्यवस्थापञ्चकत्तिलुम् शुभाश्रयमॆऩ्ऩुमिडम् शास्त्रसिद्धम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि चरमश्लोकत्तिल् शरणागतिक्कु इलक्काग कृष्णविग्रहविशिष्टम् तोऩ्ऱिऩालुम् अदु शुभाश्रयमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इद् दिव्यविग्रहमित्यादियाल्। व्यूहादीत्यत्रादिपदत्ताले विभवार्चान्तर्यामिगळुक्कु ग्रहणम्।  
+इदऩाल् कृष्ण विग्रहमुम् विभवम् आगैयालुम्  
+अदऱ्के "पापं हरति यत् पुंसां स्मृतं" ऎऩ्ऱु पापहरत्वरूपशुभत्वम् सॊल्लुगैयालुम्  
+चरमश्लोकत्तिल् शरणागतिविषयमाऩ कृष्णविग्रहत्तिऱ्कु शुभाश्रयत्वम् उण्डॆऩ्ऱु सॊल्लप्पट्टदायिऱ्ऱु।  
+
+शास्त्रसिद्धमिति ।  
+प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममाययेत्यादि शास्त्रसिद्धमॆऩ्गै।  
+</details>
+
+
+### उपायता
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-॥ चित्तालंबनसौकर्यकृपोत्तंभनतादिभिः । उपायत्वमिह स्वामिपादयोरनुसंहितम् ॥
+॥ चित्तालम्बन-सौकर्य--  
++++(स्वामि-)+++कृपोत्तंभनतादिभिः ।  
+उपायत्वम् इह स्वामि-  
+पादयोर् **अनुसंहितम्** ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+॥ चित्तालम्बन-सौकर्य-  
++++(स्वामि-)+++कृपोत्तंभनतादिभिः ।  
+उपायत्वम् इह स्वामि-  
+पादयोर् **अनुसंहितम्** ॥
+</details>
+
+<details><summary>English</summary>
+
+Here (in the Dvaya ) the feet of the Lord **should be meditated on** as the upāya,  
+because they **are easier** of **being grasped** by the mind for **meditation**  
+and **have** such virtues as **raising compassion** (in Him ).
+</details>
+
+<details><summary>Español</summary>
+
+Aquí (en el Dvaya) **deben meditarse** en los pies del Señor como el upāya,  
+porque **son más fáciles** de **ser captados** por la mente para **meditación**  
+y **tener** virtudes tales como **generar compasión** (en Él).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 ॥ चित्तालंबनसौकर्यकृपोत्तंभनतादिभिः । उपायत्वमिह स्वामिपादयोरनुसंहितम् ॥
 </details>
 
-Here (in the Dvaya ) the feet of the Lord should be meditated on as the upāya, because they ure easier of being grasped by the mind for meditation and have such virtues as raising compassion (in Him ).
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-The servant resorts to the feet (of the Lord) because of their being extreinely appropriate for resort and because as stated in the saying: "It is not possible to withstand the seizure of the feet", they are capable of increasing the compassion of the Lord and also because they have in them the power of affording unique enjoyment as stated in the śloka : "How can a man who has his mind set on Thy lotus feet which are full of nectar ever desire anything else? Will the bee ever seek the worthless Ikṣuraka flower, while the lotus is there full of honey?" This idea is well-expressed in the following passages :- "I am a suppliant at Thy two feet which protect the gods and the asuras alike". "Those lotus feet of the Lord which can secure the state of bliss for me - there is no other thing than they, which, in any of my births, can contribute to my (spiritual) welfare." "My upāya" is in Thy Two feet”, "I give up, O Lord, all upāyas and also the desire to enjoy the self (in its freed state) and am a suppliant before Thy feet which once measured the universe", "He seized the two feet of his brother (Śrī Rāma) firmly", "O my child, I caught the two feet (of the Lord) whose soles are red, which are well-set and which are adorned with toes that are beantiful, tender and rosy (in colour) and bowed with my head, “I have sought” the feet as (my) refuge". "He who has sought as an upāya, (for protection) the two feet that destroy the sins of those who perform prapatti". and others. Those who followed this tradition (like Nammalvar and Aḷavandār) said also :-"I was firmly set under Thy feet (for protection )"; "I have no other upāya and no other object of attainment than Thee and aml a suppliant before Thy feet". (So also) those who were proficient in the sūtras (like Parāśara Bhatta ) said, " Hari has a form full of such qualities as fragrance and tenderness. The means that can secure Him for us are His two feet”.
+इप्पडियागिल् श्रीमन्नारायणरूपं शरणं प्रपद्ये ऎऩ्ऱु दिव्यमङ्गळविग्रहत्तै उपायमागच् चॊल्लामल् तिरुवडिगळै शरणमागच् चॊल्लुवाऩेऩॆऩ्ऩ वरुळिच्चॆय्गिऱार् चित्तालम्बनेति । चित्तालम्बनसौकर्यत्तालुम् अदावदु गुरुवाऩ तिरुमेऩियै उपायमाग ऎण्णुवदैक् काट्टिलुम् लघुवाऩ तिरुवडिगळै उपायमाग निऩैप्पदिल् सौकर्यमुण्डागैयालुम्, कृपोत्तम्भनतादिभिः – “अनतिक्रमणीयं हि चरणग्रहणं” ऎऩ्गिऱबडि अति- क्रमिक्कमुडियादबडि कृपैक्कु उत्तम्भकमागैयालुम्, 
+
+इङ्गु आदिपदत्ताले शेषऩ् स्वामि-तिरुवडिगळैये शरणमागप् पऱ्ऱुवदिल् औचित्यमुम्, “तवामृतस्यन्दिनि” ऎऩ्गिऱबडि भोग्यत्वमुम् विवक्षितम्।  
+
+इह - मन्त्रत्तिले, उपायत्वं – निरपेक्षरक्षकत्वमाऩदु, अनुसंहितम् - अनुसन्धिक्कप्पट्टदु ऎऩ्गै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु दास-भूतऩ्  
+औचित्यातिशयत्तालुम् …
+</details>
+
+<details><summary>English</summary>
+
+The servant,  
+because of their being extreinely appropriate for resort 
+</details>
+
+<details><summary>Español</summary>
+
+el sirviente,  
+debido a que son extremadamente apropiados para el resort
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु दासभूतऩ् औचित्यातिशयत्तालुम्
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इत्तै विवरिक्किऱार् इङ्गु दासभूतऩित्यादियाल्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अनतिक्रमणीयं हि चरण-ग्रहणम्”() 
+
+ऎऩ्गिऱ बडिये +++(स्वामि-)+++कृपोत्तंभकत्वातिशयत्तालुम्,
+</details>
+
+<details><summary>English</summary>
+
+and because as **stated** in the **saying**:  
+> "It **is not possible** to **withstand** the **seizure** of the feet",  
+they **are capable** of **increasing** the compassion of the Lord  
+</details>
+
+<details><summary>Español</summary>
+
+y porque como **dice** el **dicho**:  
+
+> "No es posible **soportar** el **ataque** de los pies",  
+
+ellos **son capaces** de **aumentar** la compasión del Señor
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अनतिक्रमणीयं हि चरणग्रहणम्”() ऎऩ्गिऱबडिये कृपोत्तंभकत्वातिशयत्तालुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “तवामृत-स्यन्दिनी”  
+( आळवन्दार् स्तोत्रम् २७) 
+
+इत्य्-आदिगळिऱ् पडिये भोग्यत्वातिशयत्तालुम्
+</details>
+
+
+<details><summary>English</summary>
+
+and also because they **have** in them the power of **affording** unique **enjoyment**  
+as **stated** in the śloka : 
+
+> "How **can** a man who has his mind **set** on Thy lotus feet  
+which **are** full of nectar  
+ever **desire** anything else?  
+Will the bee ever **seek** the worthless Ikṣuraka flower,  
+while the lotus **is** there full of honey?" 
+</details>
+
+<details><summary>Español</summary>
+
+y también porque **tienen** en ellos el poder de **brindar** un **disfrute** único  
+como **indica** en el śloka: 
+
+> "¿Cómo **puede** un hombre que **tiene** su mente **fijada** en Tus pies de loto  
+que **están** llenos de néctar  
+Alguna vez **has deseado** algo más?  
+¿Alguna vez la abeja **buscará** la inútil flor Ikṣuraka  
+mientras el loto **está** lleno de miel?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तवामृतस्यन्दिनी”( आळवन्दार् स्तोत्रम् २७) त्यादिगळिऱ्पडिये भोग्यत्वातिशयत्तालुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरुव्-अडिगळै अवलम्बिक्किऱाऩ्।
+</details>
+
+<details><summary>English</summary>
+
+(he) **resorts** to the feet (of the Lord). 
+</details>
+
+<details><summary>Español</summary>
+
+(él) **recurre** a los pies (del Señor).
+</details>
+
+<details><summary>मूलम्</summary>
+
+तिरुवडिगळै अवलम्बिक्किऱाऩ्।
+</details>
+
+
+#### प्रशस्तिः शास्त्रेषु
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थम् 
+
+> “सर्वदा चरण-द्वन्द्वं”  
+(व्रजामि शरणं तव)  
+( जितन्ता-स्तोत्रम् १-२)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “सर्वदा चरण-द्वन्द्वं”  
+(व्रजामि शरणं तव)
+( जितन्ता-स्तोत्रम् १-२)
+
+</details>
+
+<details><summary>English</summary>
+
+This idea :  
+
+> "I **am** a **suppliant** at Thy two feet  
+which **protect** the gods and the asuras alike". 
+</details>
+
+<details><summary>Español</summary>
+
+Esta idea:  
+
+> "Yo **soy** un **suplicante** a Tus dos pies  
+que **protegen** a los dioses y a los asuras por igual".
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थम् “सर्वदा चरणद्वंद्वं”( जितन्ता-स्तोत्रम् १-२)
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शेषभूतऩुक्कु तिरुवडिगळैये अवलम्बिक्कै वचनान्तरङ्गळिल् प्रसिद्धमॆऩ्गिऱार् इव्व् अर्थमिति । सर्वदा चरणद्वन्द्वमिति । “व्रजामि शरणन्तव” ऎऩ्बदु मेल् पादम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“त्वत्-पाद-कमलाद् अन्यत्”( जितन्ता-स्तोत्रम् १-१०), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+“त्वत्-पाद-कमलाद् अन्यत्”( जितन्ता-स्तोत्रम् १-१०), 
+</details>
+
+
+<details><summary>English</summary>
+
+> "Those lotus feet of the Lord  
+which **can secure** the state of bliss for me -  
+there **is** no other thing than they,  
+which, in any of my births, **can contribute** to my (spiritual) welfare."  
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Esos pies de loto del Señor  
+que **puede asegurar** el estado de felicidad para mí -  
+**no hay** otra cosa que ellos,  
+que, en cualquiera de mis nacimientos, **puede contribuir** a mi bienestar (espiritual)".
+</details>
+
+<details><summary>मूलम्</summary>
+
+“त्वत्पादकमलादन्यत्”( जितन्ता-स्तोत्रम् १-१०), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “मम ते पदयोः स्थितं”( जितन्ता-स्तोत्रम् १-१३), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “मम ते पदयोः स्थितं”( जितन्ता-स्तोत्रम् १-१३), 
+</details>
+
+
+<details><summary>English</summary>
+
+> "My upāya **is** in Thy Two feet”,   
+</details>
+
+<details><summary>Español</summary>
+
+> "Mi upāya **está** en Tus dos pies”,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“मम ते पदयोः स्थितं”( जितन्ता-स्तोत्रम् १-१३), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “लोक-विक्रान्त-चरणौ  
+शरणं ते ऽव्रजं विभो”  
+( जितन्ता-स्तोत्रम्), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “लोक-विक्रान्त-चरणौ  
+शरणं ते ऽव्रजं विभो”  
+( जितन्ता-स्तोत्रम्), 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“लोकविक्रान्तचरणौ शरणन्तेऽव्रजं विभो”( जितन्ता-स्तोत्रम्), 
+</details>
+
+
+
+(This idea) **is** well-expressed in the above passages. 
+
+
+> "**I give up**, O Lord, all upāyas  
+and also the **desire** to **enjoy** the self (in its freed state)  
+and **am** a **supplicant** before Thy feet  
+which once **measured** the universe",  
+> "He **seized** the two feet of his brother (Śrī Rāma) firmly",  
+> "O my child, I **caught** the two feet (of the Lord)  
+whose soles **are** red,  
+which **are** well-set  
+and which **are** adorned with toes that are beantiful, tender and rosy (in colour)  
+and **bowed** with my head",  
+
+> “I have **sought** the feet as (my) **refuge**". 
+
+> "He who **has sought** as an upāya, (for protection) the two feet  
+that **destroy** the sins of those who **perform** prapatti"  
+and others. 
+
+Those who followed this tradition (like Nammalvar and Aḷavandār) said also :-"I was firmly set under Thy feet (for protection )"; "I have no other upāya and no other object of attainment than Thee and aml a suppliant before Thy feet". (So also) those who were proficient in the sūtras (like Parāśara Bhatta ) said, " Hari has a form full of such qualities as fragrance and tenderness. The means that can secure Him for us are His two feet”.
 
 In the word caraṇau ('The two feet) the word 'alone' is implicit in the meaning (i.e. the two feet alone) as in “seek refuge under Him alone by all possible means," "Satagopan who resorted to His feet alone as the upāya and as the object of attainment" and "The feet of our Lord who lies on the serpent (śeṣa) ---His feet are alone our upāya".
 

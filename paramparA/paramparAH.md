@@ -279,4 +279,4 @@ There were some SVs in Pune even in 18th and 19th centuries. A parakala matha ya
 Tatacharyas lost lot of sishyas in the 19th century since they lost the income from temple manyams in early 1800s (when Brits stopped varadan temple manyams from 1200+ villages and took over direct control of temple for a few decades). Tatacharyas were very active in sancharam till then. Those four decades led to them losing most of their sishyas
 
 ### कॊङ्गु-प्रदेशः
-Lots of v4 vdk sishyas in Kongu area were lost to tks
+Lots of v4 vdk sishyas in Kongu area were lost to tks.
