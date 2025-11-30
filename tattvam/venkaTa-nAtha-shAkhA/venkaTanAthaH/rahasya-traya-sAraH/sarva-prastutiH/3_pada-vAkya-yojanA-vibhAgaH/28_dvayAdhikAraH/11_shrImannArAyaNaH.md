@@ -7013,19 +7013,501 @@ sin ningún otro upāya ni ningún otro objeto de **logro**",
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-There are others who take it as three separate words Śrīman!, Nārāyaṇa!, Caraṇau and supply the word tava (Thy) between Nārāyaṇa and caranau. In this interpretation, they have in mind 
+> “श्रीमन् नारायण स्वामिन्न्”  
+
+इत्य्-आदि-मन्त्रान्तरङ्गळैयुम्  
+द्वय-विवरणम् आऩ गद्यत्तैयुम् पार्त्तु,
+</details>
+
+<details><summary>English</summary>
+
+> "O Śrīman Nārāyaṇa, my Master"  
+
+and other such mantras  
+and also Śaraṇāgati Gadya  
+which is an **elaboration** of Dvaya -  
+(In all these instances  
+Bhagavān **is addressed** in the vocative case  
+and the **prayer** in the Gadya seeking His **protection follows**). 
+
+Having this in mind 
+</details>
+
+<details><summary>Español</summary>
+
+> "Oh Śrīman Nārāyaṇa, mi Maestro"  
+
+y otros mantras similares  
+y también Saraṇāgati Gadya  
+que **es** una **elaboración** de Dvaya -  
+(En todos estos casos  
+Bhagavān **se dirige** en el caso vocativo  
+y la **oración** en el Gadya **buscando** Su **protección sigue**).
+
+**Teniendo** esto en cuenta
+</details>
+
+<details><summary>मूलम्</summary>
+
+“श्रीमन्नारायणस्वामिन्न्”  इत्यादिमन्त्रान्तरङ्गळैयुम् द्वयविवरणमाऩ गद्यत्तैयुम् पार्त्तु,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"श्रीमन्! नारायण!"  
+ऎऩ्ऱ् इरण्डु सम्बुद्धिगळ् आक्कि, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"श्रीमन्! नारायण!"  
+</details>
+
+<details><summary>English</summary>
+
+There **are** others  
+who **take** it as three separate words  
+Śrīman!, Nārāyaṇa!, Caraṇau  
+and **supply** the word tava (Thy) between Nārāyaṇa and caranau.  
+
+So also the first part of Dvaya **is interpreted** thus :-  
+
+> 'O Thou with Lakṣmī for Thy Spouse,  
+O Nārāyaṇa,  
+**I seek** Thy feet for **refuge**,'  
+
+(**understanding** the word Thy (tava)). 
+</details>
+
+<details><summary>Español</summary>
+
+**hay** otros  
+que **lo toman** como tres palabras separadas  
+Śrīman!, Nārāyaṇa!, Caraṇau  
+y **suministra** la palabra "tava" (Tu) entre Nārāyaṇa y caranau.
+
+Así también la primera parte de Dvaya **se interpreta** así:  
+
+> 'Oh Tú, con Lakṣmī por Tu Esposa,  
+Oh Narayana,  
+**Busco** Tus pies como **refugio**,'  
+
+(**entendiendo** la palabra Tu (tava)).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीमन्! नारायण! ऎऩ्ऱिरण्डु सम्बुद्धिकळाक्कि, “तव” ऎऩ्ऱॊरु पदत्तै अध्याहरित्तुम् योजिप्पार्गळ्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् पडि व्यस्तम् आऩालुम्  
+समस्तम् आऩालुम्  
+विशेषण-विशेष्यङ्गळ् निऱ्कुम् निलैक्कु वैषम्यम् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+Thus, whether **we take** it as a single compound word or as three separate words,  
+**there is** no difference  
+in the manner in which the attribute (adjective) Śrī and the substantive Nārāyaṇa **stand**  
+in relation to each other  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, ya sea que **la tomemos** como una sola palabra compuesta o como tres palabras separadas,  
+**no hay** ninguna diferencia  
+en la manera en que el atributo (adjetivo) Śrī y el sustantivo Nārāyaṇa **están**  
+en relación el uno con el otro  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि व्यस्तमाऩालुम् समस्तमाऩालुम् विशेषणविशेष्यङ्गळ् निऱ्कुम् निलैक्कु वैषम्यमिल्लै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन् निलै पूर्वोत्तर-खण्डङ्गळिलुम् ऒक्कुम्।
+</details>
 
 
 
+<details><summary>English</summary>
 
-"O Śrīman Nārāyaṇa, my Master" and other such mantras and also Śaraṇāgati Gadya which is an elaboration of Dvaya. ' (In all these
+in the first part of Dvaya and in the second.
+</details>
 
-instances Bhagavān is addressed in the vocative case and the prayer in the Gadya seeking His protection follows). So also the first part of Dvaya is interpreted thus :- 'O Thou with Lakṣmī for Thy Spouse, O Nārāyaṇa, I seek Thy feet for refuge,' (understanding the word Thy (tava)). Thus, whether we take it as a single compound word or as three separate words, there is no difference in the manner in which the attribute (adjective) Śrī and the substantive Nārāyaṇa stand in relation to each other in the first part of Dvaya and in the second.
+<details><summary>Español</summary>
+
+en la primera parte de Dvaya y en la segunda.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन् निलै पूर्वोत्तरखण्डङ् गळिलुम् ऒक्कुम्।
+</details>
+
+
+## चरणौ
+
+<details><summary>English</summary>
 
 THE MEANING OF CARAŅAU.
+</details>
 
-The word Caraṇau means not merely 'the two feet' but by implication, the divinely auspicious form (of the Lord), (which is not of matter or prakṛti). That the Lord of Śrī is the Supreme Deity superior to everyone else and that He is in association with an eternal form are most important among things that should be known. This may be seen from such passages as the following: “He who has the true knowledge that Bhagavān has an eternal form and so also, O Pauṣkara, that He is superior to everyone else-Him does Bhagavān approach”. Therefore in the word Śrīman Nārāyaṇa, we should bear in mind His being the Supreme Reality that is easily accessible and in the word Caraṇau, His having an eternal fom. Even by those who have no clear idea of the essential nature of the Divine Being (that He is jñāna and ānanda) and that He has the qualities mentioned before-even for them the object of meditation should be the divinely auspicious form which is constituted wholly of Śuddha sattva (and not matter), which, in those who have a knowledge of it, removes the contraction of knowledge (due to past karma ) and which suggests Him as the Supreme Reality and His easy accessibility. Owing to its being the principal (meditation ), (Śrī Rāmānuja ) speaks of the divinely auspicious form in the Gadya before stating the qualities. Though Tirumaṅgai Alwar had a true knowledge of the essential nature of the Divine Being, yet he spoke of himself as one who does not believe in the Supreme Reality (that is jñāna and ānanda ) like atheists who consider the body as the soul, because of his extreme devotion to the eternal form which is delightful even to Iśvara ( who is jñāna and ānanda ). This idea is expressed in the śloka: “ The divinely auspicious form of Bhagavān is more delightful and more wonderful to Him than His own essential Nature (which is jñāna and ānanda)".
+<details><summary>Español</summary>
+
+EL **SIGNIFICADO** DE CARAŅAU.
+</details>
+
+### नित्य-विग्रहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“चरणौ” ऎऩ्गिऱ शब्दम्  
+नित्यम् आऩ दिव्य-मङ्गल-विग्रहत्तुक्क् उपलक्षणम्। 
+</details>
+
+<details><summary>English</summary>
+
+The word Caraṇau **means** not merely 'the two feet'  
+but by implication, the divinely auspicious form (of the Lord), (which **is not** of matter or prakṛti). 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra Caraṇau **significa** no simplemente 'los dos pies'  
+pero por implicación, la forma divinamente auspiciosa (del Señor), (que **no es** de materia o prakṛti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“चरणौ” ऎऩ्गिऱ शब्दम् नित्यमाऩ दिव्यमङ्गळविग्रहत्तुक्कुपलक्षणम्। 
+</details>
+
+#### प्राधान्योक्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> श्रियः-पतियिऩ्-उडैय सर्वस्मात्-परत्वमुम्  
+नित्य-विग्रह-योगमुम् ज्ञातव्यङ्गळिल् प्रधानतमम् 
+
+ऎऩ्ऩुम् इडम्
+</details>
+
+<details><summary>English</summary>
+
+That the Lord of Śrī **is** the Supreme Deity superior to everyone else  
+and that He **is** in association with an eternal form  
+**are** most important among things  
+that **should be known**.  
+</details>
+
+<details><summary>Español</summary>
+
+Que el Señor de Śrī **es** la Deidad Suprema superior a todos los demás  
+y que Él **está** en asociación con una forma eterna  
+**son** las más importantes entre las cosas  
+eso **debe saberse**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रियःपतियिऩुडैय सर्वस्मात्परत्वमुम् नित्यविग्रहयोगमुम् ज्ञातव्यङ्गळिल् प्रधानतममॆऩ्ऩुमिडम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “नित्य-सिद्धे तद्-आकारे  
+तत्-परत्वे च पौष्कर ।  
+**यस्यास्ति सत्ता** हृदये  
+तस्यासौ सन्निधिं **व्रजेत्**॥”  
+( पौष्कर-संहिता)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “नित्य-सिद्धे तद्-आकारे  
+तत्-परत्वे च पौष्कर ।  
+**यस्यास्ति सत्ता** हृदये  
+तस्यासौ सन्निधिं **व्रजेत्**॥”  
+( पौष्कर-संहिता)
+</details>
+
+
+<details><summary>English</summary>
+
+> “He who **has** the true **knowledge**  
+that Bhagavān **has** an eternal form  
+and so also, O Pauṣkara, that He **is** superior to everyone else-  
+Him **does** Bhagavān **approach**”. 
+</details>
+
+<details><summary>Español</summary>
+
+> “El que **tiene** el verdadero **conocimiento**  
+que Bhagavān **tiene** una forma eterna  
+y así también, oh Pauṣkara, que Él **es** superior a todos los demás-  
+Él **se acerca** Bhagavān”.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“नित्यसिद्धे तदाकारे तत्परत्वे च पौष्कर । यस्यास्ति सत्ता हृदये तस्यासौ सन्निधिं व्रजेद्”( पौष्करसंहिता)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिले प्रसिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+This may be seen from such passages as the above. 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **puede verse** en pasajes como el anterior.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिले प्रसिद्धम्। 
+</details>
+
+#### अनुसन्धानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् “श्रीमन्-नारायण” ऎऩ्गिऱव् इडत्तिले  
+सौलभ्यान्वितम् आऩ परत्वमुम् 
+</details>
+
+<details><summary>English</summary>
+
+Therefore in the word Śrīman Nārāyaṇa,   
+His **being** the Supreme Reality that is easily **accessible**  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, en la palabra Śrīman Nārāyaṇa,   
+Su **ser** la Realidad Suprema que es fácilmente **accesible**
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् “श्रीमन्नारायण” ऎऩ्गिऱविडत्तिले सौलभ्यान्वितमाऩ परत्वमुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“चरणौ” ऎऩ्गिऱव् इडत्तिले नित्य-विग्रह-योगमुम् अनुसन्धेयम्।
+</details>
+
+<details><summary>English</summary>
+
+and in the word Caraṇau,  
+His **having** an eternal form -  
+
+these **we should bear** in mind. 
+</details>
+
+<details><summary>Español</summary>
+
+y en la palabra Caraṇau,  
+Su **tener** una forma eterna -  
+
+estos **debemos tener** en cuenta.
+</details>
+
+<details><summary>मूलम्</summary>
+
+“चरणौ” ऎऩ्गिऱविडत्तिले नित्यविग्रहयोगमुमनुसन्धेयम्।
+</details>
+
+#### प्रयोजनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दिव्यात्म--स्व-रूपत्तिलुम्  
+कीऴ्च्-चॊऩ्ऩ गुणादिगळिलुन्  
+तॆळिव् इल्लादार्क्कुम्  
+शुद्ध-सत्त्व-द्रव्यमयम् आय्
+</details>
+
+<details><summary>English</summary>
+
+Even by those who **have** no clear idea of the essential nature of the Divine Being  
+(that He **is** jñāna and ānanda)  
+and that He **has** the qualities mentioned before-  
+even for them the object of **meditation**  
+**should be** the divinely auspicious form  
+which **is constituted** wholly of Śuddha sattva (and not matter),  
+
+</details>
+
+<details><summary>Español</summary>
+
+Incluso para aquellos que **no tienen** una idea clara de la naturaleza esencial del Ser Divino  
+(que Él **es** jñāna y ānanda)  
+y que Él **tiene** las cualidades mencionadas antes-  
+incluso para ellos el objeto de **meditación**  
+**debería ser** la forma divinamente auspiciosa  
+que **está constituido** enteramente de Śuddha sattva (y no de materia),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दिव्यात्मस्वरूपत्तिलुम् कीऴ्च्चॊऩ्ऩ गुणादिगळिलुन् तॆळिविल्लादार्क्कुम् शुद्धसत्त्वद्रव्यमयमाय्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-विषय-ज्ञानत्ताले ज्ञान-सङ्कोचत्तुक्कु निवर्तकम् आय् 
+</details>
+
+<details><summary>English</summary>
+
+which, in those who have a **knowledge** of it,  
+**removes** the **contraction** of **knowledge** (due to past karma )  
+
+</details>
+
+<details><summary>Español</summary>
+
+lo cual, en aquellos que tienen un **conocimiento** de ello,  
+**elimina** la **contracción** del **conocimiento** (debido al karma pasado)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वविषयज्ञानत्ताले ज्ञानसङ्कोचत्तुक्कु निवर्तकमाय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परत्व-सौलभ्य-व्यञ्जकम् आऩ  
+दिव्य-मङ्गल-विग्रहमे इलक्क् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+and which **suggests** Him as the Supreme Reality and His easy accessibility.  
+</details>
+
+<details><summary>Español</summary>
+
+y que **lo sugiere** a Él  
+como la Realidad Suprema  
+y Su fácil **accesibilidad**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परत्वसौलभ्यव्यञ्जकमाऩ दिव्यमङ्गळविग्रहमे इलक्काम्। 
+</details>
+
+#### गद्य-सूचना
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् प्राधान्यत्तैप् पऱ्ऱि  
+गद्यत्तिल् गुणङ्गळुक्कु मुऩ्ऩे  
+दिव्य-मङ्गल-विग्रहत्तैय् अरुळिच् चॆय्दार्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Owing to its being the principal (meditation ),  
+(Śrī Rāmānuja ) **speaks** of the divinely auspicious form in the Gadya  
+before **stating** the qualities.  
+</details>
+
+<details><summary>Español</summary>
+
+Debido a que **es** el principal (meditación),  
+(Śrī Rāmānuja) **habla** de la forma divinamente auspiciosa en Gadya  
+antes de **indicar** las cualidades.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् प्राधान्यत्तैप् पऱ्ऱि गद्यत्तिल् गुणङ्गळुक्कु मुऩ्ऩे दिव्यमङ्गळविग्रहत्तैयरुळिच्चॆय्दार्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दिव्यात्म-स्वरूपत्तिल् तॆळिव्-उडैयर् आय् इरुक्कच् चॆय्देयुम् 
+</details>
+
+<details><summary>English</summary>
+
+Though he **had** a true **knowledge** of the essential nature of the Divine Being,  
+</details>
+
+<details><summary>Español</summary>
+
+Aunque **tenía** un verdadero **conocimiento** de la naturaleza esencial del Ser Divino,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दिव्यात्मस्वरूपत्तिल् तॆळिवुडैयरायिरुक्कच् चॆय्देयुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “मूर्तं ब्रह्म ततोऽपि तत् प्रियतरं रूपं यद् अत्यद्भुतम्”  
+( चतुः-श्लोकी ४) 
+
+ऎऩ्ऩुम् बडि 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “मूर्तं ब्रह्म ततोऽपि तत्-प्रियतरं रूपं यद् अत्यद्भुतम्”  
+( चतुः-श्लोकी ४) 
+
+</details>
+
+
+<details><summary>English</summary>
+
+as **is expressed** in the śloka:  
+
+> “ The divinely auspicious form of Bhagavān **is** more delightful and more wonderful to Him  
+than His own essential Nature (which is jñāna and ānanda)".
+</details>
+
+<details><summary>Español</summary>
+
+como **se expresa** en el śloka:  
+
+> “La forma divinamente auspiciosa de Bhagavān **es** más deliciosa y más maravillosa para Él  
+que Su propia Naturaleza esencial (que es jñāna y ānanda)".
+</details>
+
+<details><summary>मूलम्</summary>
+
+“मूर्तं ब्रह्म ततोऽपि तत्प्रियतरं रूपं यदत्यद्भुतम्”( चतुः-श्लोकी ४) ऎऩ्ऩुम्बडि 
+</details>
+
+
+
+yet he **spoke** of himself as one who **does not believe** in the Supreme Reality (that is jñāna and ānanda ) like atheists who consider the body as the soul, because of his extreme devotion to the eternal form which is delightful even to Iśvara ( who is jñāna and ānanda ). 
 
 The divinely auspicious form of the Supreme Ruler is pure and auspicious (subha ) and is a fit object of meditation (āśraya ) as declared in the following passages : - "May I see that holy countenance of Viṣṇu with eyes like lotus in the form which He has assumed of His own will and which, when remembered, removes the sins of men ! " " Śrī Rāma fascinates the eyes of men with the beauty (of his form) and their minds with such qualities as generosity." Those who are in the bondage of saṁsāra may be objects for meditation (āśraya) but there is no parity or auspiciousness in them. The essential nature ( svarūpa ) of Bhagavān is pure and auspicious but it cannot be an object of meditation.
 
