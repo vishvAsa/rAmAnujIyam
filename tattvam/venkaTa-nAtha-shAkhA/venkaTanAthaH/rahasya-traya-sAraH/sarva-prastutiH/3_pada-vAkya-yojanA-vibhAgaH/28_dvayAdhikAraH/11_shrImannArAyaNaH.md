@@ -8513,6 +8513,22 @@ que, en cualquiera de mis nacimientos, **puede contribuir** a mi bienestar (espi
 ( जितन्ता-स्तोत्रम्), 
 </details>
 
+<details><summary>English</summary>
+
+> "**I give up**, O Lord, all upāyas  
+and also the **desire** to **enjoy** the self (in its freed state)  
+and **am** a **supplicant** before Thy feet  
+which once **measured** the universe",  
+
+</details>
+
+<details><summary>Español</summary>
+
+> "**Me rindo**, oh Señor, todos los upāyas  
+y también el **deseo** de **disfrutar** del yo (en su estado liberado)  
+y **soy** un **suplicante** ante Tus pies  
+que una vez **midió** el universo",
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -8520,30 +8536,415 @@ que, en cualquiera de mis nacimientos, **puede contribuir** a mi bienestar (espi
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(This idea) **is** well-expressed in the above passages. 
+> “स भ्रातुश् चरणौ गाढं”  
+( रामायणम् आरण्यकाण्डम् १५-६), 
+</details>
 
+<details><summary>नीलमेघः (सं)</summary>
 
-> "**I give up**, O Lord, all upāyas  
-and also the **desire** to **enjoy** the self (in its freed state)  
-and **am** a **supplicant** before Thy feet  
-which once **measured** the universe",  
+> “स भ्रातुश् चरणौ गाढं”  
+( रामायणम् आरण्यकाण्डम् १५-६), 
+
+</details>
+
+<details><summary>English</summary>
+
 > "He **seized** the two feet of his brother (Śrī Rāma) firmly",  
+</details>
+
+<details><summary>Español</summary>
+
+> "Él **agarró** firmemente los dos pies de su hermano (Śrī Rāma)",
+</details>
+
+<details><summary>मूलम्</summary>
+
+“स भ्रातुश्चरणौ गाढं”( रामायणम् आरण्यकाण्डम् १५-६), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “तस्य ताम्र-तलौ तात  
+चरणौ **सुप्रतिष्ठितौ** ।  
+सुजात-मृदु-रक्ताभिर्  
+अङ्गुलीभिर् **अलङ्कृतौ** ॥  
+प्रयतेन मया मूर्ध्ना  
+**गृहीत्वा** ह्य् **अभिवन्दितौ**”  
+( भारतम् आरण्य-पर्व १-१-१३४), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “तस्य ताम्र-तलौ तात  
+चरणौ **सुप्रतिष्ठितौ** ।  
+सुजात-मृदु-रक्ताभिर्  
+अङ्गुलीभिर् **अलङ्कृतौ** ॥  
+प्रयतेन मया मूर्ध्ना  
+**गृहीत्वा** ह्य् **अभिवन्दितौ**”  
+( भारतम् आरण्य-पर्व १-१-१३४), 
+</details>
+
+<details><summary>English</summary>
+
 > "O my child, I **caught** the two feet (of the Lord)  
 whose soles **are** red,  
 which **are** well-set  
 and which **are** adorned with toes that are beantiful, tender and rosy (in colour)  
 and **bowed** with my head",  
 
+</details>
+
+<details><summary>Español</summary>
+
+> "Oh hija mía, **atrapé** los dos pies (del Señor)  
+cuyas suelas **son** rojas,  
+que **están** bien establecidos  
+y que **están** adornados con dedos hermosos, tiernos y rosados (en color)  
+y **inclinado** con mi cabeza",
+</details>
+
+<details><summary>मूलम्</summary>
+
+“तस्य ताम्रतलौ तात चरणौ सुप्रतिष्ठितौ । सुजातमृदुरक्ताभिर् अङ्गुलीभिरलङ्कृतौ ॥  
+प्रयतेन मया मूर्ध्ना गृहीत्वा ह्यभिवन्दितौ”  
+( भारतम् आरण्य-पर्व १-१-१३४), 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“चरणौ शरणं यातः”(), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+“चरणौ शरणं यातः”(), 
+</details>
+
+<details><summary>English</summary>
+
 > “I have **sought** the feet as (my) **refuge**". 
+</details>
+
+<details><summary>Español</summary>
+
+> “He **buscado** los pies como (mi) **refugio**".
+</details>
+
+<details><summary>मूलम्</summary>
+
+“चरणौ शरणं यातः”(), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “प्रपन्नाघौघ-विध्वंसि-  
+चरणौ शरणङ् गतः”() 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “प्रपन्नाघौघ-विध्वंसि-  
+चरणौ शरणङ् गतः”() 
+
+</details>
+
+<details><summary>English</summary>
 
 > "He who **has sought** as an upāya, (for protection) the two feet  
 that **destroy** the sins of those who **perform** prapatti"  
-and others. 
+</details>
 
-Those who followed this tradition (like Nammalvar and Aḷavandār) said also :-"I was firmly set under Thy feet (for protection )"; "I have no other upāya and no other object of attainment than Thee and aml a suppliant before Thy feet". (So also) those who were proficient in the sūtras (like Parāśara Bhatta ) said, " Hari has a form full of such qualities as fragrance and tenderness. The means that can secure Him for us are His two feet”.
+<details><summary>Español</summary>
 
-In the word caraṇau ('The two feet) the word 'alone' is implicit in the meaning (i.e. the two feet alone) as in “seek refuge under Him alone by all possible means," "Satagopan who resorted to His feet alone as the upāya and as the object of attainment" and "The feet of our Lord who lies on the serpent (śeṣa) ---His feet are alone our upāya".
+> "Aquel que **ha buscado** como upāya, (para protección) los dos pies  
+que **destruye** los pecados de aquellos que **realizan** prapatti"
+</details>
+
+<details><summary>मूलम्</summary>
+
+“प्रपन्नाघौघविध्वंसिचरणौ शरणङ्गतः”() 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिलुम् प्रसिद्धम्।
+</details>
+
+<details><summary>English</summary>
+
+(This idea) **is** well-expressed in the above passages and others. 
+</details>
+
+<details><summary>Español</summary>
+
+(Esta idea) **está** bien **expresada** en los pasajes anteriores y otros.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिलुम् प्रसिद्धम्।
+</details>
+
+
+#### प्रशस्तिस् सम्प्रदाये
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱैय् अडिय् ऒत्तिऩवर्गळुम् 
+</details>
+
+<details><summary>English</summary>
+
+Those who followed this tradition (like Nammalvar and Aḷavandār) 
+</details>
+
+<details><summary>Español</summary>
+
+Aquellos que **siguieron** esta tradición (como Nammalvar y Aḷavandār)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱैयडियॊत्तिऩवर्गळुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उऩ् अडिक्-कीऴ् अमर्न्दु+++(=युक्त्वा)+++ पुगुन्देन् 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+said also :-
+
+> "I **was** firmly **set** under Thy feet (for **protection** )"; 
+</details>
+
+<details><summary>Español</summary>
+
+dijo también:-
+
+> "Yo **estaba** firmemente **puesto** bajo Tus pies (para **protección** )";
+</details>
+
+<details><summary>मूलम्</summary>
+
+“उऩ्ऩडिक्कीऴमर्न्दु पुगुन्देऩ्”( तिरुवाय्मॊऴि ६-१०-१०)  ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “त्वत्-पाद-मूलं शरणं प्रपद्ये”  
+( आळवन्दार् स्तोत्रम् २२) 
+
+ऎऩ्ऱुम् अरुळिच् चॆय्दार्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “त्वत्-पाद-मूलं शरणं प्रपद्ये”  
+( आळवन्दार् स्तोत्रम् २२) 
+
+</details>
+
+<details><summary>English</summary>
+
+> "**I have** no other upāya and no other object of **attainment** than Thee  
+and **am** a **suppliant** before Thy feet".  
+</details>
+
+<details><summary>Español</summary>
+
+> "**No tengo** ningún otro upāya ni ningún otro objeto de **logro** que Tú  
+y **soy** un **suplicante** ante Tus pies".
+</details>
+
+<details><summary>मूलम्</summary>
+
+“त्वत्पादमूलं शरणं प्रपद्ये”( आळवन्दार् स्तोत्रम् २२) ऎऩ्ऱुमरुळिच्चॆय्दार्गळ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “सौगन्ध्य-सौकुमार्यादि-  
+गुण-विग्रहवान् हरिः ।  
+तस्य स्वात्म-प्रदाने तु  
+**साधनं** स्व-पद-द्वयम्॥” +++(5)+++ 
+()  
+
+ऎऩ्ऱु अभियुक्तरुम् +++(पराशर-भट्टः)+++ प्रतिपादित्तार्गळ्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “सौगन्ध्य-सौकुमार्यादि-  
+गुण-विग्रहवान् हरिः ।  
+तस्य स्वात्म-प्रदाने तु  
+**साधनं** स्व-पद-द्वयम्॥” +++(5)+++ 
+()  
+
+</details>
+
+<details><summary>English</summary>
+
+(So also) those who **were proficient** in the sūtras (like Parāśara Bhatta ) said, 
+
+> " Hari **has** a form full of such qualities as fragrance and tenderness.  
+The means that **can secure** Him for us  
+**are** His two feet”.
+</details>
+
+<details><summary>Español</summary>
+
+(Así también) aquellos que **eran competentes** en los sūtras (como Parāśara Bhatta) dijeron: 
+
+> "Hari **tiene** una forma llena de cualidades como fragancia y ternura.  
+Los medios que **pueden asegurarlo** para nosotros  
+**son** Sus dos pies”.
+</details>
+
+<details><summary>मूलम्</summary>
+
+“सौगन्ध्यसौकुमार्यादि-गुणविग्रहवान् हरिः । तस्य स्वात्मप्रदाने तु साधनं स्वपदद्वयम्”() ऎऩ्ऱु अभियुक्तरुम् प्रतिपादित्तार्गळ्।
+</details>
+
+#### अवधारणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“चरणौ” ऎऩ्गिऱव् इडत्तिले 
+</details>
+
+<details><summary>English</summary>
+
+In the word caraṇau ('The two feet') 
+</details>
+
+<details><summary>Español</summary>
+
+En la palabra caraṇau ('Los dos pies')
+</details>
+
+<details><summary>मूलम्</summary>
+
+“चरणौ” ऎऩ्गिऱविडत्तिले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “तम् एव शरणङ् गच्छ”( गीता १८-६२), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “तम् एव शरणङ् गच्छ”( गीता १८-६२), 
+</details>
+
+<details><summary>English</summary>
+
+> “**seek refuge** under Him alone by all possible means," 
+</details>
+
+<details><summary>Español</summary>
+
+> “**busca refugio** sólo bajo Él por todos los medios posibles”,
+</details>
+
+<details><summary>मूलम्</summary>
+
+“तमेव शरणङ्गच्छ”( गीता १८-६२), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कऴल्गळ्+++(=चरणौ)+++-अवैये शरणाग  
+( तिरुवाय्मॊऴि ५-८-११), 
+</details>
+
+<details><summary>English</summary>
+
+> "Satagopan who **resorted** to His feet alone as the upāya and as the object of attainment" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Satagopan quien **recurrió** únicamente a Sus pies como upāya y como objeto de logro"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“कऴल्कळवैये सरणाग”( तिरुवाय्मॊऴि ५-८-११), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नाग्-अणैमिसै+++(=शय्यायां)+++ नम्बिराऩ् चरणे  
+शरण्  
+( तिरुवाय्मॊऴि ५-१०-११)
+
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "The feet of our Lord who **lies** on the serpent (śeṣa) ---  
+His feet **are** alone our upāya".
+
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "Los pies de nuestro Señor que **yace** sobre la serpiente (śeṣa) ---  
+Sus pies **son** solos nuestro upāya".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“नागणैमिसै नम्बिराऩ् सरणे सरण्”( तिरुवाय्मॊऴि ५-१०-११)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ् पडिये अवधारणम् विवक्षितम्। 
+</details>
+
+<details><summary>English</summary>
+
+as in (the above)  
+the word 'alone' **is implicit** in the meaning (i.e. the two feet alone).
+</details>
+
+<details><summary>Español</summary>
+
+como en (lo anterior)  
+la palabra 'solo' **está implícita** en el significado (es decir, los dos pies solos).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये अवधारणम् विवक्षितम्। 
+</details>
+
+
+### श्रीमत्ता न निराकृता
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
