@@ -7232,6 +7232,33 @@ eso **debe saberse**.
 ( पौष्कर-संहिता)
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> “नित्य-सिद्धे तद्-आकारे  
+तत्-परत्वे च पौष्कर ।  
+**यस्यास्ति सत्ता** हृदये  
+तस्यासौ सन्निधिं **व्रजेत्**॥”  
+( पौष्कर-संहिता)
+</details>
+
+
+<details><summary>English</summary>
+
+> “He who **has** the true **knowledge**  
+that Bhagavān **has** an eternal form  
+and so also, O Pauṣkara, that He **is** superior to everyone else-  
+Him **does** Bhagavān **approach**”. 
+</details>
+
+<details><summary>Español</summary>
+
+> “El que **tiene** el verdadero **conocimiento**  
+que Bhagavān **tiene** una forma eterna  
+y así también, oh Pauṣkara, que Él **es** superior a todos los demás-  
+Él **se acerca** Bhagavān”.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 “नित्यसिद्धे तदाकारे तत्परत्वे च पौष्कर । यस्यास्ति सत्ता हृदये तस्यासौ सन्निधिं व्रजेद्”( पौष्करसंहिता)
@@ -7239,7 +7266,9 @@ eso **debe saberse**.
 
 
 
-This may be seen from such passages as the following: “He who has the true knowledge that Bhagavān has an eternal form and so also, O Pauṣkara, that He is superior to everyone else-Him does Bhagavān approach”. Therefore in the word Śrīman Nārāyaṇa, we should bear in mind His being the Supreme Reality that is easily accessible and in the word Caraṇau, His having an eternal fom. Even by those who have no clear idea of the essential nature of the Divine Being (that He is jñāna and ānanda) and that He has the qualities mentioned before-even for them the object of meditation should be the divinely auspicious form which is constituted wholly of Śuddha sattva (and not matter), which, in those who have a knowledge of it, removes the contraction of knowledge (due to past karma ) and which suggests Him as the Supreme Reality and His easy accessibility. Owing to its being the principal (meditation ), (Śrī Rāmānuja ) speaks of the divinely auspicious form in the Gadya before stating the qualities. Though Tirumaṅgai Alwar had a true knowledge of the essential nature of the Divine Being, yet he spoke of himself as one who does not believe in the Supreme Reality (that is jñāna and ānanda ) like atheists who consider the body as the soul, because of his extreme devotion to the eternal form which is delightful even to Iśvara ( who is jñāna and ānanda ). This idea is expressed in the śloka: “ The divinely auspicious form of Bhagavān is more delightful and more wonderful to Him than His own essential Nature (which is jñāna and ānanda)".
+This may be seen from such passages as the following: 
+
+Therefore in the word Śrīman Nārāyaṇa, we should bear in mind His being the Supreme Reality that is easily accessible and in the word Caraṇau, His having an eternal fom. Even by those who have no clear idea of the essential nature of the Divine Being (that He is jñāna and ānanda) and that He has the qualities mentioned before-even for them the object of meditation should be the divinely auspicious form which is constituted wholly of Śuddha sattva (and not matter), which, in those who have a knowledge of it, removes the contraction of knowledge (due to past karma ) and which suggests Him as the Supreme Reality and His easy accessibility. Owing to its being the principal (meditation ), (Śrī Rāmānuja ) speaks of the divinely auspicious form in the Gadya before stating the qualities. Though Tirumaṅgai Alwar had a true knowledge of the essential nature of the Divine Being, yet he spoke of himself as one who does not believe in the Supreme Reality (that is jñāna and ānanda ) like atheists who consider the body as the soul, because of his extreme devotion to the eternal form which is delightful even to Iśvara ( who is jñāna and ānanda ). This idea is expressed in the śloka: “ The divinely auspicious form of Bhagavān is more delightful and more wonderful to Him than His own essential Nature (which is jñāna and ānanda)".
 
 The divinely auspicious form of the Supreme Ruler is pure and auspicious (subha ) and is a fit object of meditation (āśraya ) as declared in the following passages : - "May I see that holy countenance of Viṣṇu with eyes like lotus in the form which He has assumed of His own will and which, when remembered, removes the sins of men ! " " Śrī Rāma fascinates the eyes of men with the beauty (of his form) and their minds with such qualities as generosity." Those who are in the bondage of saṁsāra may be objects for meditation (āśraya) but there is no parity or auspiciousness in them. The essential nature ( svarūpa ) of Bhagavān is pure and auspicious but it cannot be an object of meditation.
 
