@@ -7169,6 +7169,7 @@ THE MEANING OF CARAŅAU.
 EL **SIGNIFICADO** DE CARAŅAU.
 </details>
 
+### नित्य-विग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “चरणौ” ऎऩ्गिऱ शब्दम्  
@@ -7193,7 +7194,7 @@ pero por implicación, la forma divinamente auspiciosa (del Señor), (que **no e
 “चरणौ” ऎऩ्गिऱ शब्दम् नित्यमाऩ दिव्यमङ्गळविग्रहत्तुक्कुपलक्षणम्। 
 </details>
 
-
+#### प्राधान्योक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > श्रियः-पतियिऩ्-उडैय सर्वस्मात्-परत्वमुम्  
@@ -7264,11 +7265,249 @@ y así también, oh Pauṣkara, que Él **es** superior a todos los demás-
 “नित्यसिद्धे तदाकारे तत्परत्वे च पौष्कर । यस्यास्ति सत्ता हृदये तस्यासौ सन्निधिं व्रजेद्”( पौष्करसंहिता)
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिले प्रसिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+This may be seen from such passages as the above. 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **puede verse** en pasajes como el anterior.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिले प्रसिद्धम्। 
+</details>
+
+#### अनुसन्धानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् “श्रीमन्-नारायण” ऎऩ्गिऱव् इडत्तिले  
+सौलभ्यान्वितम् आऩ परत्वमुम् 
+</details>
+
+<details><summary>English</summary>
+
+Therefore in the word Śrīman Nārāyaṇa,   
+His **being** the Supreme Reality that is easily **accessible**  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, en la palabra Śrīman Nārāyaṇa,   
+Su **ser** la Realidad Suprema que es fácilmente **accesible**
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् “श्रीमन्नारायण” ऎऩ्गिऱविडत्तिले सौलभ्यान्वितमाऩ परत्वमुम् 
+</details>
 
 
-This may be seen from such passages as the following: 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Therefore in the word Śrīman Nārāyaṇa, we should bear in mind His being the Supreme Reality that is easily accessible and in the word Caraṇau, His having an eternal fom. Even by those who have no clear idea of the essential nature of the Divine Being (that He is jñāna and ānanda) and that He has the qualities mentioned before-even for them the object of meditation should be the divinely auspicious form which is constituted wholly of Śuddha sattva (and not matter), which, in those who have a knowledge of it, removes the contraction of knowledge (due to past karma ) and which suggests Him as the Supreme Reality and His easy accessibility. Owing to its being the principal (meditation ), (Śrī Rāmānuja ) speaks of the divinely auspicious form in the Gadya before stating the qualities. Though Tirumaṅgai Alwar had a true knowledge of the essential nature of the Divine Being, yet he spoke of himself as one who does not believe in the Supreme Reality (that is jñāna and ānanda ) like atheists who consider the body as the soul, because of his extreme devotion to the eternal form which is delightful even to Iśvara ( who is jñāna and ānanda ). This idea is expressed in the śloka: “ The divinely auspicious form of Bhagavān is more delightful and more wonderful to Him than His own essential Nature (which is jñāna and ānanda)".
+“चरणौ” ऎऩ्गिऱव् इडत्तिले नित्य-विग्रह-योगमुम् अनुसन्धेयम्।
+</details>
+
+<details><summary>English</summary>
+
+and in the word Caraṇau,  
+His **having** an eternal form -  
+
+these **we should bear** in mind. 
+</details>
+
+<details><summary>Español</summary>
+
+y en la palabra Caraṇau,  
+Su **tener** una forma eterna -  
+
+estos **debemos tener** en cuenta.
+</details>
+
+<details><summary>मूलम्</summary>
+
+“चरणौ” ऎऩ्गिऱविडत्तिले नित्यविग्रहयोगमुमनुसन्धेयम्।
+</details>
+
+#### प्रयोजनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दिव्यात्म--स्व-रूपत्तिलुम्  
+कीऴ्च्-चॊऩ्ऩ गुणादिगळिलुन्  
+तॆळिव् इल्लादार्क्कुम्  
+शुद्ध-सत्त्व-द्रव्यमयम् आय्
+</details>
+
+<details><summary>English</summary>
+
+Even by those who **have** no clear idea of the essential nature of the Divine Being  
+(that He **is** jñāna and ānanda)  
+and that He **has** the qualities mentioned before-  
+even for them the object of **meditation**  
+**should be** the divinely auspicious form  
+which **is constituted** wholly of Śuddha sattva (and not matter),  
+
+</details>
+
+<details><summary>Español</summary>
+
+Incluso para aquellos que **no tienen** una idea clara de la naturaleza esencial del Ser Divino  
+(que Él **es** jñāna y ānanda)  
+y que Él **tiene** las cualidades mencionadas antes-  
+incluso para ellos el objeto de **meditación**  
+**debería ser** la forma divinamente auspiciosa  
+que **está constituido** enteramente de Śuddha sattva (y no de materia),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दिव्यात्मस्वरूपत्तिलुम् कीऴ्च्चॊऩ्ऩ गुणादिगळिलुन् तॆळिविल्लादार्क्कुम् शुद्धसत्त्वद्रव्यमयमाय्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-विषय-ज्ञानत्ताले ज्ञान-सङ्कोचत्तुक्कु निवर्तकम् आय् 
+</details>
+
+<details><summary>English</summary>
+
+which, in those who have a **knowledge** of it,  
+**removes** the **contraction** of **knowledge** (due to past karma )  
+
+</details>
+
+<details><summary>Español</summary>
+
+lo cual, en aquellos que tienen un **conocimiento** de ello,  
+**elimina** la **contracción** del **conocimiento** (debido al karma pasado)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वविषयज्ञानत्ताले ज्ञानसङ्कोचत्तुक्कु निवर्तकमाय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परत्व-सौलभ्य-व्यञ्जकम् आऩ  
+दिव्य-मङ्गल-विग्रहमे इलक्क् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+and which **suggests** Him as the Supreme Reality and His easy accessibility.  
+</details>
+
+<details><summary>Español</summary>
+
+y que **lo sugiere** a Él  
+como la Realidad Suprema  
+y Su fácil **accesibilidad**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परत्वसौलभ्यव्यञ्जकमाऩ दिव्यमङ्गळविग्रहमे इलक्काम्। 
+</details>
+
+#### गद्य-सूचना
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् प्राधान्यत्तैप् पऱ्ऱि  
+गद्यत्तिल् गुणङ्गळुक्कु मुऩ्ऩे  
+दिव्य-मङ्गल-विग्रहत्तैय् अरुळिच् चॆय्दार्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Owing to its being the principal (meditation ),  
+(Śrī Rāmānuja ) **speaks** of the divinely auspicious form in the Gadya  
+before **stating** the qualities.  
+</details>
+
+<details><summary>Español</summary>
+
+Debido a que **es** el principal (meditación),  
+(Śrī Rāmānuja) **habla** de la forma divinamente auspiciosa en Gadya  
+antes de **indicar** las cualidades.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् प्राधान्यत्तैप् पऱ्ऱि गद्यत्तिल् गुणङ्गळुक्कु मुऩ्ऩे दिव्यमङ्गळविग्रहत्तैयरुळिच्चॆय्दार्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दिव्यात्म-स्वरूपत्तिल् तॆळिव्-उडैयर् आय् इरुक्कच् चॆय्देयुम् 
+</details>
+
+<details><summary>English</summary>
+
+Though he **had** a true **knowledge** of the essential nature of the Divine Being,  
+</details>
+
+<details><summary>Español</summary>
+
+Aunque **tenía** un verdadero **conocimiento** de la naturaleza esencial del Ser Divino,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दिव्यात्मस्वरूपत्तिल् तॆळिवुडैयरायिरुक्कच् चॆय्देयुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “मूर्तं ब्रह्म ततोऽपि तत् प्रियतरं रूपं यद् अत्यद्भुतम्”  
+( चतुः-श्लोकी ४) 
+
+ऎऩ्ऩुम् बडि 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “मूर्तं ब्रह्म ततोऽपि तत्-प्रियतरं रूपं यद् अत्यद्भुतम्”  
+( चतुः-श्लोकी ४) 
+
+</details>
+
+
+<details><summary>English</summary>
+
+as **is expressed** in the śloka:  
+
+> “ The divinely auspicious form of Bhagavān **is** more delightful and more wonderful to Him  
+than His own essential Nature (which is jñāna and ānanda)".
+</details>
+
+<details><summary>Español</summary>
+
+como **se expresa** en el śloka:  
+
+> “La forma divinamente auspiciosa de Bhagavān **es** más deliciosa y más maravillosa para Él  
+que Su propia Naturaleza esencial (que es jñāna y ānanda)".
+</details>
+
+<details><summary>मूलम्</summary>
+
+“मूर्तं ब्रह्म ततोऽपि तत्प्रियतरं रूपं यदत्यद्भुतम्”( चतुः-श्लोकी ४) ऎऩ्ऩुम्बडि 
+</details>
+
+
+
+yet he **spoke** of himself as one who **does not believe** in the Supreme Reality (that is jñāna and ānanda ) like atheists who consider the body as the soul, because of his extreme devotion to the eternal form which is delightful even to Iśvara ( who is jñāna and ānanda ). 
 
 The divinely auspicious form of the Supreme Ruler is pure and auspicious (subha ) and is a fit object of meditation (āśraya ) as declared in the following passages : - "May I see that holy countenance of Viṣṇu with eyes like lotus in the form which He has assumed of His own will and which, when remembered, removes the sins of men ! " " Śrī Rāma fascinates the eyes of men with the beauty (of his form) and their minds with such qualities as generosity." Those who are in the bondage of saṁsāra may be objects for meditation (āśraya) but there is no parity or auspiciousness in them. The essential nature ( svarūpa ) of Bhagavān is pure and auspicious but it cannot be an object of meditation.
 
