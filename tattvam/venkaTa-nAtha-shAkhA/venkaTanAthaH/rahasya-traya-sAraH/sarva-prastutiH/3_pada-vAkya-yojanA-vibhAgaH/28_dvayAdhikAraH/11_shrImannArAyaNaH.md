@@ -8186,8 +8186,7 @@ el Señor que **había asumido** una forma
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-कथम् अत्र विग्रहावस्थोक्तिः??  
-न ते व्यूहादीनि विग्रहान्तराणि?  
+व्यूहादीन्य् अवस्था उच्यन्ते - असार्वकालिकत्वात्। 
 यदि भगवत्-स्वरूपय् आश्रयत्वं नास्ति,  
 कथम् अन्तर्यामि-रूपस्य +आश्रयत्वम् - अरूपत्वे सति? 
 </details>
@@ -8945,7 +8944,7 @@ la palabra 'solo' **está implícita** en el significado (es decir, los dos pies
 
 ### श्रीमत्ता न निराकृता
 
-
+#### प्रथम-श्रुति-विरोधः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > चरणाव् इति निर्देशः  
@@ -8954,6 +8953,17 @@ la palabra 'solo' **está implícita** en el significado (es decir, los dos pies
 इति मन्दैर् इदं प्रोक्तं  
 श्रीमच्-छब्द-विरोधतः ॥  
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> चरणाव् इति निर्देशः  
+पत्नी-वैशिष्ट्य-बाधकः ।  
+
+इति मन्दैर् इदं प्रोक्तं  
+श्रीमच्-छब्द-विरोधतः ॥  
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -8988,10 +8998,36 @@ que clara y explícitamente **establece** al principio de la oración - "con Su 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शब्दस्वरसतः प्राप्तं वैशिष्ट्यं प्रथमश्रुतम् ।  
-विशेष्यचरणद्वित्वं न हि बाधितुमर्हति ॥  
+शब्द--स्व-रसतः **प्राप्तं**  
+वैशिष्ट्यं प्रथम-श्रुतम् ।  
+विशेष्य-चरण-द्वित्वं  
+**न** हि **बाधितुम् अर्हति** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शब्द--स्व-रसतः **प्राप्तं**  
+वैशिष्ट्यं प्रथम-श्रुतम् ।  
+विशेष्य-चरण-द्वित्वं  
+**न** हि **बाधितुम् अर्हति** ॥  
 
 </details>
+
+
+<details><summary>English</summary>
+
+This **indication** of the attribute 'Śrī' is **heard** first in the sentence  
+and **cannot** therefore **be annulled** by the dual form, namely, the two feet'  
+(which comes later in the sentence). 
+</details>
+
+<details><summary>Español</summary>
+
+Esta **indicación** del atributo 'Śrī' se **escucha** primero en la oración  
+y **no puede** por lo tanto **ser anulado** por la forma dual, es decir, los dos pies'  
+(que **viene** más adelante en la oración).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -9000,30 +9036,98 @@ que clara y explícitamente **establece** al principio de la oración - "con Su 
 
 </details>
 
+#### पति-प्राधान्यात्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चरणान् इति **वक्तव्यम्**  
+इति यच् च **प्रसञ्जितम्** ।  
+ग्रन्थ-ज्ञैर् **अपहास्यं** तत्  
+पति-प्राधान्यतो **ऽन्वयात्** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+चरणान् इति **वक्तव्यम्**  
+इति यच् च **प्रसञ्जितम्** ।  
+ग्रन्थ-ज्ञैर् **अपहास्यं** तत्  
+पति-प्राधान्यतो **ऽन्वयात्** ॥  
+
+</details>
+
+
+<details><summary>English</summary>
+
+The **reasoning** which **says** that the plural form "many or four-feet" **should have been used** in that case  
+**will appear ridiculous** to those who are acquainted with literature,  
+
+for the dual form **is used**,  
+because the husband **is** the principal factor  
+and his spouse **is** necessarily **associated** with him. 
+</details>
+
+<details><summary>Español</summary>
+
+El **razonamiento** que **dice** que la forma plural "muchos o cuatro pies" **debería haberse usado** en ese caso  
+**parecerá ridículo** para aquellos que estén familiarizados con la literatura,  
+
+para la forma dual **se usa**,  
+porque el marido **es** el factor principal  
+y su cónyuge **está** necesariamente **asociado** a él.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+चरणानिति वक्तव्यमिति यच्च प्रसञ्जितम् ।  
+ग्रन्थज्ञैरपहास्यं तत् पतिप्राधान्यतोऽन्वयात् ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-चरणानिति वक्तव्यमिति यच्च प्रसञ्जितम् ।  
-ग्रन्थज्ञैरपहास्यं तत् पतिप्राधान्यतोऽन्वयात् ॥  
-न सम्राजि सपत्नीके सद्वितीयोक्तिसाहसम् ।  
-तथात्रेत्यपरामृश्य दर्शितं गुरुसाहसम् ॥
+**न** सम्राजि सपत्नीके  
+स-द्वितीय+++(-सम्राड्-)++++**उक्ति**-साहसम् ।  
+तथाऽत्रेत्य् अपरामृश्य  
+**दर्शितं** गुरु-साहसम् ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+**न** सम्राजि सपत्नीके  
+स-द्वितीय+++(-सम्राड्-)++++**उक्ति**-साहसम् ।  
+तथाऽत्रेत्य् अपरामृश्य  
+**दर्शितं** गुरु-साहसम् ॥
+
+</details>
+
+
+<details><summary>English</summary>
+
+When an emperor **has** a spouse,  
+no one **would dare** to say  
+that he **has** some one else (as a second ruler).  
+So also, here, a serious staternent **has been** recklessly **made** without due **reflection**.
+</details>
+
+<details><summary>Español</summary>
+
+Cuando un emperador **tiene** cónyuge,  
+Nadie **se atrevería a decir**  
+que **tiene** a alguien más (como segundo gobernante).  
+Así también, aquí **se ha hecho** una **declaración** seria imprudentemente  
+sin la **debida reflexión**.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-चरणाविति निर्देशः पत्नीवैशिष्ट्यबाधकः ।  
-इति मन्दैरिदं प्रोक्तं श्रीमच्छब्दविरोधतः ॥  
-शब्दस्वरसतः प्राप्तं वैशिष्ट्यं प्रथमश्रुतम् ।  
-विशेष्यचरणद्वित्वं न हि बाधितुमर्हति ॥  
-चरणानिति वक्तव्यमिति यच्च प्रसञ्जितम् ।  
-ग्रन्थज्ञैरपहास्यं तत् पतिप्राधान्यतोऽन्वयात् ॥  
 न सम्राजि सपत्नीके सद्वितीयोक्तिसाहसम् ।  
 तथात्रेत्यपरामृश्य दर्शितं गुरुसाहसम् ॥
 </details>
 
 
+#### श्री-प्रयोजनम्
 
-This indication of the attribute 'Śrī' is first heard in the sentence and cannot therefore be annulled by the dual form, namely, the two feet' (which comes later in the sentence). The reasoning which says that the plural form "many or four-feet" should have been used in that case will appear ridiculous to those who are acquainted with literature, for the dual forn is used, because the husband is the principal factor and his spouse is necessarily associated with him. When an emperor has a spouse, no one would dare to say that he has some one else (as a second ruler). So also, here, a serious staternent has been recklessly made without due reflection,
 
 It may be asked:--“When the omnipotent Lord becomes the upāya, where is the need for this attribute viz. Śrī? If He needs her, it would follow that He is not omnipotent." The same objection conld be inade against the qualities (of Nārāyaṇa) and the form (vigraha) (of Nārāyaṇa) which are stated in the words Nārāyaṇa and caraṇau respectively. If it is maintained, in accordance with the pramāṇas, that the qualities and the form are His attributes and that as there is a special efficacy appropriate to them as such, the omnipotence (of the Lord) is not thereby annulled, then the same argument will hold good (in the case of Śrī also) becarise (Her being the upāya along with Bhagavān) has been stated by many authorities (pramaṇas) and because in the word Śrīmat, Śrī's being the attribute is natural owing to her relationship of being the Spouse.
 
