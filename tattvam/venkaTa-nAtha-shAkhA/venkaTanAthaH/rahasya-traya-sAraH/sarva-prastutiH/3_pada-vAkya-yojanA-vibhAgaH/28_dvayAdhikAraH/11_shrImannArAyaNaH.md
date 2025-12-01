@@ -8946,12 +8946,63 @@ la palabra 'solo' **está implícita** en el significado (es decir, los dos pies
 ### श्रीमत्ता न निराकृता
 
 
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> चरणाव् इति निर्देशः  
+पत्नी-वैशिष्ट्य-बाधकः ।  
+
+इति मन्दैर् इदं प्रोक्तं  
+श्रीमच्-छब्द-विरोधतः ॥  
+</details>
+
+<details><summary>English</summary>
+
+It **has been said**, by some who are stupid (manda),  
+that the **use** of the word caraṇau (the two feet - the dual of charana)  
+**is** against the interpretation that Bhagavān with Śrī as His attribute **is intended**  
+(for in that case 'the four feet' **should be** the words).  
+This **is** silly because  
+this objection **is refuted** by the word Śrīmat  
+which distinctly and explicitly **states** at the very beginning of the sentence - "with His attribute Śrī". 
+</details>
+
+<details><summary>Español</summary>
+
+**Ha sido dicho**, por algunos que son estúpidos (manda),  
+que el **uso** de la palabra caraṇau (los dos pies - el dual de charana)  
+**está** en contra de la **interpretación** de que Bhagavān con Śrī como Su atributo **está previsto**  
+(porque en ese caso 'los cuatro pies' **deberían ser** las palabras).  
+Esto **es** tonto porque  
+esta objeción **es refutada** por la palabra Śrīmat  
+que clara y explícitamente **establece** al principio de la oración - "con Su atributo Śrī".
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 चरणाविति निर्देशः पत्नीवैशिष्ट्यबाधकः ।  
 इति मन्दैरिदं प्रोक्तं श्रीमच्छब्दविरोधतः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 शब्दस्वरसतः प्राप्तं वैशिष्ट्यं प्रथमश्रुतम् ।  
 विशेष्यचरणद्वित्वं न हि बाधितुमर्हति ॥  
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+शब्दस्वरसतः प्राप्तं वैशिष्ट्यं प्रथमश्रुतम् ।  
+विशेष्यचरणद्वित्वं न हि बाधितुमर्हति ॥  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+
 चरणानिति वक्तव्यमिति यच्च प्रसञ्जितम् ।  
 ग्रन्थज्ञैरपहास्यं तत् पतिप्राधान्यतोऽन्वयात् ॥  
 न सम्राजि सपत्नीके सद्वितीयोक्तिसाहसम् ।  
@@ -8970,7 +9021,9 @@ la palabra 'solo' **está implícita** en el significado (es decir, los dos pies
 तथात्रेत्यपरामृश्य दर्शितं गुरुसाहसम् ॥
 </details>
 
-"It has been said, by some who are stupid (manda), that the use of the word caraṇau (the two feet - the dual of charana) is against the interpretation that Bhagavān with Śrī as His attri bute is intended (for in that case 'the four feet' should be the words). This is silly because this objection is refuted by the word Śrīmat which distinctly and explicitly states at the very beginning of the sentence " with His attribute Śrī". This indication of the attribute 'Śrī' is first heard in the sentence and cannot therefore be annulled by the dual form, namely, the two feet' (which comes later in the sentence). The reasoning which says that the plural form "many or four-feet" should have been used in that case will appear ridiculous to those who are acquainted with literature, for the dual forn is used, because the husband is the principal factor and his spouse is necessarily associated with him. When an emperor has a spouse, no one would dare to say that he has some one else (as a second ruler). So also, here, a serious staternent has been recklessly made without due reflection,
+
+
+This indication of the attribute 'Śrī' is first heard in the sentence and cannot therefore be annulled by the dual form, namely, the two feet' (which comes later in the sentence). The reasoning which says that the plural form "many or four-feet" should have been used in that case will appear ridiculous to those who are acquainted with literature, for the dual forn is used, because the husband is the principal factor and his spouse is necessarily associated with him. When an emperor has a spouse, no one would dare to say that he has some one else (as a second ruler). So also, here, a serious staternent has been recklessly made without due reflection,
 
 It may be asked:--“When the omnipotent Lord becomes the upāya, where is the need for this attribute viz. Śrī? If He needs her, it would follow that He is not omnipotent." The same objection conld be inade against the qualities (of Nārāyaṇa) and the form (vigraha) (of Nārāyaṇa) which are stated in the words Nārāyaṇa and caraṇau respectively. If it is maintained, in accordance with the pramāṇas, that the qualities and the form are His attributes and that as there is a special efficacy appropriate to them as such, the omnipotence (of the Lord) is not thereby annulled, then the same argument will hold good (in the case of Śrī also) becarise (Her being the upāya along with Bhagavān) has been stated by many authorities (pramaṇas) and because in the word Śrīmat, Śrī's being the attribute is natural owing to her relationship of being the Spouse.
 
