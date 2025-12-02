@@ -1285,6 +1285,13 @@ que las palabras:
 स्वार्थ-निरपेक्षैय् आऩ पर-दुःख-निराकरणेच्छै।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+परम-कारुणिकत्वं नाम –  
+स्वार्थ-निरपेक्षा पर-दुःख-निराकरणेच्छा । 
+</details>
+
+
 <details><summary>English</summary>
 
 Supreme compassion **is** the **desire** to **remove** the **suffering** of others  
@@ -1331,6 +1338,10 @@ sin **pensar** en los propios intereses.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+इदम् 
+
+> अनन्तापराधवतो ऽपि 
+>
 >>  “मित्र-भावेन संप्राप्तं  
 (न त्यजेयं कथञ्चन ।  
 दोषो यद्य् अपि तस्य स्यात्  
@@ -1343,7 +1354,10 @@ sin **pensar** en los propios intereses.
 “यदि वा रावणस् स्वयम्॥”  
 ( रामायणम् युद्ध-काण्डम् १८-३५)  
 > 
+> इत्य्-उक्त-रीत्या  
+यत्-किञ्चिद्-व्याज-मात्रेण क्षमेत
 
+इति प्रबोधस्य प्रयोजकम् ।
 </details>
 
 
@@ -1407,6 +1421,8 @@ Le **prometo seguridad**".
 
 <details><summary>नीलमेघः (सं)</summary>
 
+कृत-ज्ञत्वं नाम - 
+
 > “न स्मरत्य् अपकाराणां  
 शतम् अप्य् आत्मवत्तया ।  
 कथञ्चिद् उपकारेण  
@@ -1464,7 +1480,7 @@ La gratitud **consiste** en
 हृदयान् **नापसर्पति**॥”  
 ( भारतम् उद्योग-पर्व ४७-३९) 
 
-
+इति रीत्या 
 </details>
 
 
@@ -1505,8 +1521,15 @@ como una deuda que **ha aumentado** con los intereses acumulados en ella".
 
 अत्य्-अल्पानुकूल-व्यापारत्तैयुम्  
 परमोपकारम् पण्णिऩाऱ् पोले  
-मऱवाद् ऒऴिगै।
+मऱवाद् ऒऴिगै। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्य्-अल्पस्याप्य् अनुकूल-व्यापारस्य  
+परमोपकार-करणस्येव अविस्मरणम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1539,6 +1562,18 @@ y **nunca olvidarlos**.
 
 ऎऩ्ऱ् इरुक्कैक्क् उऱुप्प् आम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं 
+
+> स्वस्मिन् यस्य कस्यचिद् उपयुक्तस्य (समर्थस्य) +++(क्रिया-रूप-)+++चिह्नस्य दर्शने  
+अस्मान् कदापि न परित्यजेद् 
+
+इति स्थितेः प्रयोजकम् ।
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -1577,6 +1612,13 @@ Esta cualidad **hace** que uno **se diga** a sí mismo:
 आश्रित-रक्षणत्तिल् निलैय्-उडैमै।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स्थिरत्वं नाम -  
+आश्रित-रक्षणे अविचालनीयत्वम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 Firmness **is** the quality of persistence in **protecting suppliants**. 
@@ -1612,12 +1654,20 @@ La firmeza **es** la cualidad de la perseverancia en **proteger a los suplicante
 
 <details><summary>नीलमेघः (सं)</summary>
 
+इदम् 
+
+> अत्यन्तान्तरङ्गैर् निवारणे ऽपि 
+>
 > > (मित्रभावेन सम्प्राप्तं)  
 न त्यजेयं कथञ्चन ।  
 (दोषो यद्य् अपि तस्य स्यात्  
 सताम् एतद् अ-गर्हितम् ॥)  
 ( रामायणम् युद्ध-काण्डम् १८-३) 
+>
+> इत्य्-उक्त-रीत्या  
+अस्मान् न त्यजेद् 
 
+इति विश्वासस्य प्रयोजकम् ।
 </details>
 
 <details><summary>English</summary>
@@ -1659,6 +1709,13 @@ que **viene** a mí a la manera de un amigo".
 परिपूर्णत्वम् आवदु; अवाप्त-समस्त-कामत्वम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+परिपूर्णत्वं नाम -  
+अवाप्त-समस्त-कामत्वम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 Paripurnatvam (perfection or fullness) **consists** in (His) **having** all objects that **are desired** or **desirable**. 
@@ -1687,6 +1744,8 @@ Paripurnatvam (perfección o plenitud) **consiste** en (Su) **tener** todos los 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
+
+इदम् 
 
 >>  “अण्व् अप्य् उपहृतं भक्तैः  
 प्रेम्णा भूर्य् एव मे भवेत्।”  
@@ -1775,6 +1834,18 @@ por aquel que **es** devoto”.
 वल्ल किञ्चित्-कारत्तिले मुयल्गैक्क्+++(=प्रयासाय)+++ उऱुप्प् आम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> इत्य्-आद्य्-उक्त-रीत्या  
+भाव-बन्ध-दर्शन-मात्रातिरेकेण  
+अन्यद् अस्मत्-प्रत्तोपहारे  
+किञ्चित् तारतम्य-दर्शनं न कुर्याद् 
+
+इति शक्य-किञ्चित्-कारोद्यमस्य प्रयोजकम् ।  
+[[P332]]  
+</details>
+
+
 <details><summary>English</summary>
 
 As **may be seen** in the above words (of the Lord):  
@@ -1818,6 +1889,8 @@ y **no medir** su valor.
 "नाञ् जॆय्ददु पोदाद्+++(=नालम्)+++"  
 ऎऩ्ऱ् इरुक्कुम् वदान्यतै। 
 </details>
+
+
 
 <details><summary>English</summary>
 

@@ -1,5 +1,5 @@
 +++
-title = "१२ चरणौ"
+title = "०२ चरणौ"
 +++
 
 <details><summary>English</summary>
@@ -2010,6 +2010,10 @@ If, in spite of all this, it **is** held
 merely on the ground of the (dual) caraṇau (the two feet)  
 that the **association** with Śrī **is** mere Upalakṣaṇa  
 and **does not signify** that Śrī is also upāya, 
+
+(Upalakṣaṇa: a mere mark, token or sign to **indicate** Nārāyaṇa  
+who **is recognised** by that mark.  
+An Upalakṣaṇa **is not** an essential feature of the object in question.)
 </details>
 
 <details><summary>Español</summary>
@@ -2018,6 +2022,10 @@ Si a pesar de todo esto **se celebra**
 simplemente en el terreno del (dual) "caraṇau" (los dos pies)  
 que la **asociación** con Śrī **es** mera Upalakṣaṇa  
 y **no significa** que Śrī también sea upāya,
+
+(Upalakṣaṇa: una mera marca, símbolo o señal para **indicar** a Nārāyaṇa  
+quien **es reconocido** por esa marca.  
+Un Upalakṣaṇa **no es** una característica esencial del objeto en cuestión).
 </details>
 
 
@@ -2088,204 +2096,192 @@ Lo mismo **puede decirse** también (de Śrī) aquí.
 
 <details><summary>मूलम्</summary>
 
-चरणशब्दत्तिल् उपायवाचिशब्द समभिव्याहारत्ताले उपयुक्तगुणविग्रहविशिष्टऩुबायमागिऱाऩॆऩ्ऱुविवक्षितमॆऩ्ऩिल्; इदु इङ्गुम् तुल्यम्। 
+चरणशब्दत्तिल् उपायवाचिशब्द समभिव्याहारत्ताले उपयुक्तगुणविग्रहविशिष्टऩुबायमागिऱाऩॆऩ्ऱु विवक्षितम् ऎऩ्ऩिल्; इदु इङ्गुम् तुल्यम्। 
+</details>
+
+#### पुरुषकारत्वे ऽपि समः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप् पडिय् इरुक्कव् इवळै  
+विशेषणम् आगक् कॊळ्ळिल्  
+सर्व-शक्तित्व-विरोधम् वरुम् 
+
+ऎऩ्बार्क्कु  
+इप् पुरुष-कारापेक्षैयिलुम् सर्व-शक्तित्व-विरोधम् प्रसङ्गिक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+Such being the case,  
+if it **is held** that  
+in case Śrī **is considered** an attribute,  
+it **would be** against (the Lord's) omnipotence,  
+there **would be** the same **irreconcilability** with that onnipotence,  
+in expecting Śrī **to be** the **mediatrix**  
+(**interceding** on behalf of the jīva).
+</details>
+
+<details><summary>Español</summary>
+
+Siendo tal el caso,  
+si **se sostiene** que  
+en caso de que Śrī **se considere** un atributo,  
+**sería** contra la omnipotencia (del Señor),  
+**habría** la misma **irreconciliabilidad** con esa onnipotencia,  
+al esperar que Śrī **sea** la **mediatriz**  
+(**intercediendo** en nombre de la jīva).
 </details>
 
 
-Such being the case, if it is held that in case Śrī is considered an attribute, it would be against (the Lord's) omnipotence, there would be the same irreconcilability with that onnipotence, in expectiog Śrī to be the mediator (interceding on behalf of the jīva),
+<details><summary>मूलम्</summary>
 
-Upalakṣaṇa: a mere mark, token or sign to indicate Nārāyaṇa who is recognised by that mark. An Upalakṣaṇa is not an essential feature of the object in question.
-
-It is said in Bhattar's Śrīgunaratna-kośam :- "Though qualities like youth are common to Thee and Bhagavān, you have divided between yourselves for the sake of enjoyment (certain qualities) -- such qualities as there should be in a man - namely, independence of all others, subjugation of enemies and firmness, in Bhagavān--and such qualities as there should be in a woman - namely, gentleness, existing only for the sake of the husband, compassion and patience, in Thee”. In accordance with that śloka, when the jīvas offend Iśvara who stands supreme in power with the characteristics of the masculine natnre, of the nature of the father and of the ruler exercising control and such others, Lakṣmī who has gentleness, affection and the like becomes the mediator interceding on their behalf. If it is said that this intercession as a mediator is subject to the independent will of the Lord, then it may be said without any contradiction by the pramāṇas that Iśvara's being the Śaraṇya or Protector with his attribute Śrī who participates in the performance of (Her husband's ) duties is also due to His independent will.
-
-THE MEANING OF THE WORD ŚARAṆAM
-
-"Here  in Dvayam, the word śaranam which has the meanings upāya, abode and protector denotes only upāya". Since in the above śloka, upāya has been pointed out as the special meaning here, it denotes upāya. .
-
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
-
-भरन्यासबलादेव स्वयत्नविनिवृत्तये । अत्रोपायान्तरस्थाने रक्षको विनिवेशितः ॥
+इप्पडियिरुक्कविवळै विशेषणमागक् कॊळ्ळिल् सर्वशक्तित्वविरोधम् वरुमॆऩ्बार्क्कु इप् पुरुषकारापेक्षैयिलुम् सर्वशक्तित्वविरोधम् प्रसङ्गिक्कुम्। 
 </details>
 
-<details><summary>मूलम् (सं॰प॰)</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भरन्यासबलादेव स्वयत्नविनिवृत्तये । अत्रोपायान्तरस्थाने रक्षको विनिवेशितः ॥
+> > “युवत्वादौ तुल्ये”  
+( श्री-गुण-रत्न-कोशः ३४) 
+> 
+> ऎऩ्गिऱ श्लोकत्तिऱ् सॊऩ्ऩ गुण-विभागत्तिऩ् बडिये 
 </details>
 
-By the very nature of bharanyāsa (the surrender of the burden or responsibility of protection ), the Protector or Saviour is here (in Dvaya ) placed in the position of other upāyas, in order that the prapanna may refrain from any effort on his own part.
+<details><summary>नीलमेघः (सं)</summary>
 
-It may be asked :- When the Supreme Ruler is the means or upāya for attaining the fruit of His worship or adoration performed in accordance with the respective ordinances of the śāstras in the case of every adhikarī or competent person, where is the need for His being specially called the upāya here? The answer is :-"It is merely to show that the nature of prapatti is such that Iśvara who is endowed with qualities like natural compassion is placed in it (prapatti) in the position of other upāyas.
+> “युवत्वादौ तुल्ये”  
+( श्री-गुण-रत्न-कोशः ३४) 
 
-If it be asked, “Since prapatti is adopted in the place of bhakti yoga , why should Iśvara be stated to be " In the place of other upāyas"? The answer is as follows:- “The fruit (of spiritual striving ) is to be attained by prapatti being adopted as an accessory means or aid and by upāsana or meditation or adoration (bhakti ) being adopted as the main or primary) upāya. When there is no upāsana (or bhakti ), that fruit has to be obtained by means of prapatti alone. This becomes possible only because Iśvara is naturally possessed of such qualities as compassion. That is why it is said that Iśvara stands in the case of the man destitute of upāyas, in the position of other upāyas. The man who is destitute of upāyas ordained for the attainment of the desired fruit and cannot bear the burden or responsibility (of adopting those upāyas ) places (Iśvara) who stands as the Protector in the position of other upāyas saying: "May Thou be my upāya!" It means  Instead of placing the burden of adopting other upāyas on my shoulders (literally, the head) may the granting of all the desired fruits which could be obtained by bearing that burden be solely Thy burden or responsibility, since Thou art capable and compassionate !" Separating this aspect (from others, viz., the accessories), nikṣepa or bharanyāsa is called the primary means or aṅgī (and not the accessory means). This includes the man's being without the responsibility for any effort on his own part. It is in view of this separation of bharasamarpanan (from its aṅgas or accessories, viz., the prayer that He should not expect one to do anything for oneself, that the word śaranam is used here only to denote upāya. (From this it would follow that the prapanna is care-free thereafter in regard to his protection.)
-
-In some places the prayer to Iśvara to be the upāya and riikṣepa or bharanyāsa are spoken of separately ( as if they were different, though, in reality, they are not different). This should be understood as being due to one of three reasons: (1) The word upāya is (then) used to mean only the prayer for protection without including the prayer that Iśvara should be in the place of other upāyas which can be expected of the prapanna. (2) It may be to distinguish bharasamarpaṇam and the like distinctly and separately from the prayer for being the upāya or (3) Since the samarpanam or surrender is of three things viz., svarūpa (essential nature), bhara (responsibility for protection) and phala (or the fruit to be attained), every one of them has to be stated as different from the other two. Therefore none of these can be said to be redundant, (The prayer for Iśvara being the upāya refers to bhara; and the word nikṣepa refers to svarūpa).
-
-This aspect of Iśvara being the upāya should be understood as the peculiar feature of Nyāsa vidyā. (Iśvara's) jñāna, power, and the like also appear in as much as they are required for this purpose.
-
-THE MEANING OF THE WORD PRAPADYE:
-
-Since verbs meaning 'to go' or 'to move' mean also to have a knowledge of' or 'to know, the root pad in the word prapadye, which means 'to go' means, here the specific knowledge required in this context. The knowledge, here, is the sure knowledge or faith that the Lord will save (us). Since faith which is the most important of the accessories or aṅgas (to prapatti) is referred to here, the Sādhyopāya with all its accessories is indicated here. If it be asked how, the answer is as follows:- The preposition pra (in prapadye) discloses the greatness or intensity of the faith which is its excellence. This excellence or intensity of faith would arise only when one bears in mind the mediatorship (of Lakṣmī) and one's relationship with the Lord, the Lord's qualities and the like (form) which are respectively present in the words (Śrīmat) and Nārāyaṇa. By this intensity of faith, all doubts arising from the greatness of one's offences will disappear. This intensity of faith is necessary as stated in the śloka : "The Rākṣasas had no confidence in (the effectiveness of) the Brahma missile (astra ) with which Hanuman was bound. The result was that that missile which would never fail of its purpose became loose immediately. In the same way, if men had no faith in the efficacy of prapatti, it would be the same as if it had not been performed at all. Therefore prapatti gives mokṣa soon to those who have faith in it". The potency of this certainty of belief is well known from the following passages :- "If a man has no faith, he can never approach that Supreme Brahman", and “Hari is ever present in all those who have no doubts. The Lord of Lakṣmī (Mādhava ) is never present in those who doubt as a r'esult of their reasoning or logic". If this intense faith is present, doubts will never arise during any inquiry into Bhagavān's qualities and the like). Therefore intensity of faith at the first moment (of performing prapatti) which would never permit of later doubts is an accessory or aṅga of prapatti. Even if it is weak, Iśvara who has begun to show His special grace will make it full and perfect". Has not the Saviour graciously stated: “I will never give up the man who has come to me in the guise of a friend, whatever might happen'? Is not His grace of such a nature as is described in the śloka, about such things as even anjali :- "If a man has folded his hands in worship to Thy feet at any time and in any manner, it will destroy all his sins at that very instant and lead to the attainment of good things. It will never prove futile". Therefore even weakness of faith will grow into deep and intense faith (in those who have performed prapatti with all its aṅgas).
-
-- On this expression of intense faith stating, "I have made up my mind to beg Thee for being my upāya", the prayer (to Iśvara ) to be the upāya may be taken here as having been made and this would be in accordance with the following pramāṇas: " When what a man desires cannot be attained with the help of any one else, a prayer is made, with intense faith, to one who has the required ability (to secure the object desired) that he should be the means or upāya. This prayer is prapatti; it is śaranagati!'. "The thoughts of praying:--- "May Thou alone be my upāya!” this is śaraṇāgati. Let this be done towards Bhagavān", "Those who say to Hari: “Be Thou my upāya"- never approach them”. The aṅga or accessory called " seeking protectorship” is contained within this and is not separate or different from this.
-
-It may be asked:--" What is the prayer in this first part of Dvaya for? Since in the second part, there is a prayer for the attainment of the desired end and the removal of hindrances there. to, the prayer here cannot be for the same as, in that case, there would be repetition or redundancy. When prapatti is adopted as an aṅga or accessory, the prayer might be said to be for bhakti  as an upāya; but here, since prapatti is adopted as a direct and independent means, there cannot be any upāya which can be acquired and for which a prayer could be made ( what, then, can this prayer be for?)". The answer to this question is as follows:- "The award of the desired fruit which finds a place (in the second part of Dvaya ) is common to all adhikārīs, whatever be the upāya (bhakti  or prapatti) that they adopt. Since prapatti is not an aṅga or accessory for any other upāya in the case of one who is destitute of any other upāya and who makes a surrender of every. thing (svarūpa - bhara . and phala), its superiority (to other upāyas ) consists in the Saviour Himself standing in the place of the upāya and granting the fruit or desired end. Therefore what is prayed for here is the point that Iśvara should accept the responsibility of protection (bharasvīkāra ). But it may be asked again :- " Will not this prayer that the Lord should stand as the upāya mean the same as a prayer that He should grant the desired fruit or object withont any other upāya being required as a further condition coming in between? In that case will not the prayer in the second part of Dvaya be redundant!" The answer to this question is as follows:- Since in the prayer of the above description (in the second part), what is required is stated separately because it is different in some points from the expectation in the prayer (in the first part), there is no redundancy; [(i.e.) in the prayer for Iśvara being the upāya, there is no expectation of any fruit except that He should be the upāya ; in the prayer in the second part there is expectation of the desired fruit] . It may also be explained thus: though the word signifying prayer (bhaveyam) has to be supplied in order to make the second part a complete sentence, in the first part praying for Iśvara becoming the upāya, the fruit is asked for, but in a general way, while, in the second part, the purport is to specify the nature of that fruit.
-
-The sum and substance of the first and the second parts, when duly determined, will amount to saying this :- "I am destitute of all upāyas; therefore in order that Thou mayst stand in the place of these upãyas and grant me the specific end that is desired, I surrender the responsibility for the protection of myself as stated ( in the śāstras)". Thus it (the Dvaya) is a surrender of the responsibility (for protection) accompanied by a special prayer. This surrender, too, is the meaning of prapadye which indicates resolution (I resolve). We have (already) proved in many places with the help of pramāṇas and on the authority of traditional practice that the surrender of responsibility with all its accessories is the gist of the śāstras on prapatti (vide chapters 11 and 12 on Parikaravibhāga and Sāṅgaprapadana).
-
-The primary importance of the nikṣepa (surrender) which is stated in another mantra for the performing of prapatti is the same here also, namely: "By this mantra alone should a man surrender himself to me. He who has thus surrendered what ought to be surrendered will become one who has done what he ought to do".
-
-The first person singular in prapadye (I resolve) which shows one to be the doer, proves that the way to win the favour of Siddhopāya (Iśvara), who has the gift of mokṣa in His power, is some form of vyāja (bhakti  or prapatti) which can be accomplished by the aspirant to mukti in accordance with the śāstras.
-
-In this (the first part of Dvaya) the specific adhikārī or competept person for the performance and the idea of helplessness (kārpaṇya), which is one of the accessories or aṅgas of prapatti, are also hinted at as in the following passages:-- I  who have no other upāya and no other Saviour" etc. "I am the "abode of all offences: I have no means or upāya for saving myself and have nothing else to attain than Thee." and "I have "not been firmly established in the performance of dharma (i.e. I have not performed karma  yoga ;) neither have I realised the essential nature ( svarūpa) of myself (i, e. I have not perfornued jñāna yoga : nor have I devotion to Thy lotus feet lie. I have not performed bhakti  yoga". This is elaborated by Śrī Rāmānuja in the Śaraṇāgati Gadya in the words, "Having no other refuge or Saviour" and in the little Gadya (Śrī Raṅga Gadya) in the churṇikā, which says, "My soul is eternally subject to Thy control and likewise in the cūrṇikā in Vaikuṇṭhagadya where he says, 'I realise that, in order to attain Him, I have no other means, even in thousands of crores of kalpas (1000 yugas), than seeking His two lotus feet". Arulalapperumal Emperumanar, too, has declared: "The man who, owing to his powerlessness, has not the required upāya or means for attaining Bhagavān which is the end desired by him that man should realise with faith that His feet are the upāya for securing his object" Since prapatti ordains, as an upāya, the surrender of the responsibility for protection (bharasamarpana) which is adapted to the adhikārī who is destitute of upāyas, it goes without saying (from the very logic of the matter) that it does not require the performance of any other action which is too hard (for him) to perform.
-
-Thus in the word prapadye (I resolve to seek ) accompanied by the word saranam (refuge), four accessories may be considered as having been indicated: the faith that (the Lord) will protect, and so also seeking Him as the Saviour, the surrender of the self and (one's) helplessness (kārpaṇya). We have already stated that the word Nārāyaṇa with its adjective (Śrīmat) declares such things as Bhagavān's being the Master in accordance with such authoritative texts as the following:-"All beings, those that move and those that do not move, are the body of Bhagavān. Therefore I should do what is good for them". This determination is the sixth aṅga and "The fifth aṅga is the avoidance of what is displeasing to the Master." Therefore His being the Master suggests the determination to do what is agreeable (to Him ) and the avoidance of what is disagreeable (to Him). In another chapter we have stated that these accessories, too, are to be thought of only once for the sake of the upāya (namely : prapatti). The use of the present tense in the verb (prapadye) is, like (the use of present tense in the verb occurring in) the mantra uttered while cutting kuśa grass, to indicate the time when the prapatti is performed. (It does not mean, as the present tense sometimes ineans, that it should be done always). The views ( held by some ) that the present tense (in prapadye) shows that the intention is to enjoin the continuous performance of prapatti until the end of the present body, that it enjoins the continuance of faith which is one of the accessories until the fruit is attained and that it shows also the need for the continuance of such things as the determination to do what is agreeable (to the Lord) even after the performance of prapatti, as its accessories--thesc views are opposed to the pramāṇas which lay down (the rule) that this upāya (prapatti) with its accessories should be performed only once.
-
-If they (viz. the accessories described above) continue (even after the performance of prapatti because of the excessive eagerness to attain the object and of their being enjoyable, it does not follow that this continuance is part and parcel of the upāya adopted in the first part (of Dvaya), Therefore the use of the present tense in this sentence (in Dvaya) which states the upāya does not refer to the continuance of uttering the Dvaya for the sake of the enjoyment arising from love which is expressed in Śrī Rāmānuja's Gadya (namely - uttering the Dvaya always with an understanding of its meaning), (The meaning is: as an upāya a single performance or utterance will do; but when ove finds it enjoyable, the Dvaya may be repeatedly uttered).
-
-Thus the first part of Dvaya discloses the Lord's being the Saviour of all, the essential nature or svarūpa of śaraṇāgati, its accessories and the nature of the person qualified for its performance. From this it is evident also that the jīva has no other upāya.
-
-THE SECOND PART OF DVAYA:
-
-Śaraṇāgati which has been thus described (in the first part; is capable of securing all desired ends, for it has been stated :--
-
-"Only so long as prapatti which can remove all sins has not been performed towards Thee, only so long will there be misery caused by the loss of wealth and the apxiety to regain it; only so long will there be the desire to win wealth, only so long will there be no realisation of the self being different from the body; only so long will there be the suffering of saṁsāra." Further the Saviour is supremely generous; “Is there any other who is so generous as He and who can grant whatever is desired ?" He stands ever ready with the determination to grant whatever is desired by the suppliants, for it has been said: "If we receive any thing from the Lord, He does not lose anything thereby. He will give us whatever we ask.” (Such being the case) the question arises: "What is the object or end for which prapatti should be performed?** The second part of Dvaya, (as if in answer to this question), prays for that object (end or fruit), which would be in keeping with the Saviour who is supremely generous, in keeping with this special upāya (prapatti) which can secure the favour of One who is superior to all others, and in keeping with one's own essential nature (svarūpa) which will find its sole delight only in being His śeṣa. As expressed in the passage: "The only end which I seek is that the Lord should take me as His servant for His own pleasure", the second part prays for this desired end (namely, service to the Lord ), including the removal of all hindrances to it. From this it also follows that the jīva should have no other interest or object.
-
-In this context, the word Nārāyaṇa with the attribute qualifying it (viz. Śrīmat) discloses, primarily and in accordance with the pramāṇas, the Lord's being the Master and the like and so also the unsurpassed enjoyability of the Master who has countless qualities and the two vibhūtis (glories ) which make Him fit to be the object of attainment.
-
-THE MEANING OF THE WORD ŚRĪMATE (IN THE
-
-SECOND PART OF DVAYA):
-
-Though Bhagavān who is thus endowed with the two vibhūtis (Līlā and Nitya) is the object of attainment, the word Śrīmate (with Śrī) is employed here to show that, for the offering of the havis of the self, the intended recipients, are both the Lord and His Spouse. They are (the two) to whom we are śeṣas and consequently (the two) to whom our service is due. Primarily they are (therefore) the objects of attainment. This idea is implicit also in the following and other passages :- " Bhagavān, the Lord of the world, is in the glorious world called Vaikuṇṭha with Lakṣmī"; " Bhagavān who is seated on the serpent Ādiśeṣa with his Spouse" "The Lord is seated with Lakṣmī who is (in every way) suited to Him." "At the sight of Thee and Thy consort with her shining bracelets standing together (as the Rulers of the world)” “Lakṣmī whose beauty fascinates even Thee ", etc.
-
-Though the word Śrī used here has several meanings as stated in the following ślokas: " She dispels all blemishes; generates good qualities in those who are in the world; is attained by all at all times and has herself attained the Supreme Object of attainment (Bhagavān)" and "The Lord's Spouse who has aitained the Lord and is attained by others and who dispels all blemishes and listens to the cry of the distressed " -- (though the word has all these meanings) yet, here, it denotes the person who is entitled to (our) service as it is derived from the verbal root Śrī which means ‘Service'.
-
-THE MEANING OF NĀRĀYAŅĀYA:
-
-Though the word Śrīmate by itself denotes Bhagavān and His Spouse who are entitled to our service, yet the word Narayaṇa is employed here to indicate the full and perfect enjoyment (anubhava) of the association of a śeṣa to the śeṣī, and of His qualities and glories (vibhūtis ); for this enjoyment ( alone) will generate the kind of love which is essential for all forms of service. Here the dative (or fourth case) which means for Nāriyana (existing for Ilim) refers thereby to service, 'Existing for Him' is in itself an eternal fact (and need not be prayed for). Therefore what is to be prayed for here is service (to Them) preceded by full and perfect enjoyinent as stated in the following ślokas and elsewhere : “ Hereafter I should bear in mind the fact of my being His śeṣa and render service to Him: This is the meaning of namas." " Whether you are awake or asleep, I (Lakṣmuana ) will perform all kinds of service to You".
-
-Since the jīva while performing saraṇagati (with this mantra) is praying to the Savionr for what he desires, a word like bhaveyam (may I be) has to be supplied: Śrimate Nārāyaṇāya bhaveyam (May I be for Nārāyaṇa !) Thus, at first, the attainment of the desired end (service to the Lord) is prayed for as being the more important; thereafter, by the word namas, the removal of all hindrances (to salvation and to service) is prayed for.
-
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
-
-अप्राप्तितःपरिहरन्स्वपरैस्स्वरक्षां  
-तादर्थ्यधीपरिहृतस्वपरार्थभावः ।  
-अन्योपभोगविरहादनघः प्रपन्नो  
-भुङ्क्ते स्वभोगमखिलं पतिभोगशेषम् ॥
 </details>
 
-<details><summary>मूलम् (सं॰प॰)</summary>
+<details><summary>English</summary>
 
-अप्राप्तितःपरिहरन्स्वपरैस्स्वरक्षां  
-तादर्थ्यधीपरिहृतस्वपरार्थभावः ।  
-अन्योपभोगविरहादनघः प्रपन्नो  
-भुङ्क्ते स्वभोगमखिलं पतिभोगशेषम् ॥
+It **is said** in Bhattar's Śrīgunaratna-kośam :- 
+
+> > "Though qualities like youth **are** common to Thee and Bhagavān,  
+you **have divided** between yourselves for the sake of enjoyment (certain qualities) --  
+such qualities as there **should be** in a man -  
+namely, independence of all others, **subjugation** of enemies and firmness, in Bhagavān--  
+and such qualities as there **should be** in a woman -  
+namely, gentleness,  
+**existing** only for the sake of the husband,  
+compassion and patience, in Thee”. 
 </details>
 
-Giving up the idea of his salvation by himself or by others as impossible and giving up the idea of his existing either for himself or for others by the thought that lie exists (only) for the Lord and having become free from all sins by his aversion to all other objects of enjoyment than the Lord), the prapanna enjoys all his bliss as something which is accessory to the Lord's enjoyment.
+<details><summary>Español</summary>
 
-THE MEANING OF THE WORD NAMAS --
+**Se dice** en el Śrīgunaratna-kośam de Bhattar:- 
 
-Here, after the word namas, the verb has to be supplied so that it becomes na mama syām, which means, "Let me not be for myself." Or it may be looked upon as na mama kiñcit syāt meaning, 'Let there be (in me) no notion at all of the sense of 'mine' (mamakāra)', which would be a prayer for the removal of all hindrances or undesirable things, as it asks for the disappearance of the notion of mine' in regard to all objects. The objections raised and the answers given thereto in regard to the attainment of the desired end and the disappearance of all undesirable elements in the case of Tirumantra should be borne in mind here (also).
-
-Though this word namas prays for the removal of all such hindrances as avidyā (ignorance), karma , the impressions and inclinations which have resulted therefrom (vāsanas), the ruchi or tastes and the association with prakṛti or matter, yet it is considered (by some āchāryas) that, in accordance with the śruti[^101] which gives the etymological interpretation of this word (namas), the purport or ain here (in the second part of Dvaya) is the removal, in the state of attaining full and perfect service in mukti, of the weeds of one's being the doer by one's own will and of one's being the doer for one's own purposes and, likewise, of one's being the enjoyer by one's own will and of being the enjoyer solely for oneself. This weed or wrong notion is likely to arise because, in regard to the enjoyment of the fruit elsewhere (in svarga), the thought is present that the fruit was won by one by one's own actions and is enjoyed by one for oneself. From this it would follow that the man performing prapatti understands that, in regard to the service in the state of mukti, there are no such wrong notions as one's being the doer and the enjoyer by one's owo will and for the sake of oneself-notions which are present in the state of enjoyment of other fruits (like those in svarga). Having understood this, the man performing prapatli makes his prayer in conformity with this knowledge.
-
-[^101]: The Śruti says: Whatever actions may appear mine are the Lord's, not mine, They do not belong to me; they are the Lord's; I exist for the Lord and not for myself na mama ( not mine; not for me)
-
-Arulalapperumal emperumanar commented on the word namas occurring here by the following śloka :--- " The wise say that namas means the state of being carefree without expecting any help (of being without any responsibility in regard to oneself) nairapekṣyam which results from the jīva's surrendering all his burdens to the Supreme Being." The nairapekṣyam referred to in that śloka is being carefree or having no expectation or requirements without the sense of responsibility in regard to one's salvation. From this freedom from responsibility, we should realise that either bharasamarpaṇam is suggested here, (since there cannot be the state of being carefree without it) or that the surrender of the bhara to the extent of one's being carefree is intended. If we take the latter part of Dvaya to be " Aham Śrīmate Narāyaṇāya" . (I am for Śrīman Nārāyaṇa ) and consider it to be the offering of the self along with the bhara or burden of protection, and that thereafter na mama declares one's having no connection with oneself, as, when an offering is made (to the gods), it is said “This is for Indra and not for me", if we take it in this forn, it will be extremely appropriate for this interpretation of the whole of Dvaya being a statement of bharasamarpana. In this interpretation the first part of Dvaya is about the file aṅgas or accessories, while the second part states the aṅgī, which is prapatti. When the offering or surrender is made saying: "I am for Nārāyaṇa' as in the śloka "I who realise that I am Thy śeṣa surrender myself here and now at Thy two lotus feet". --- (when this surrender is made), it would imply that the responsibility of one's protection and the fruit arising from one's protection are Nārāyaṇa's as stated in the following passages : "When the question arises to whom the surrender of the self is made for the sake of salvation or protection, the answer is given "To Viṣṇu", and "I am Thy  responsibility (bhara) (in regard to protection)". This namas discloses the severance of all connection between a man and his self and what belongs to him and also between himself and his protection and the fruit resulting from it.
-
-The (fourth or ) dative case of Nārāyaṇa and the word namas have, each, its significance, in as much as they indicate respectively the declaration of one's connexion with the Supreme Being and the denial of one's connection with oneself. It may also be that namas denies such things as one's being a doer not subject to the will of the Supreme Being. Even if we take the simple and ordipary meaning of namas as namami (I bow to Nārāyaṇa," it would be in keeping with the meaning " I surrender" as the word namāmi l I bow) has been commented upon in Mantrarājapada stotra as meaning 'for the surrender of the self'.
-
-Thus in the case of those who consider on the latter part of Duaya as indicating the surrender of the self, the special kind of fruit or end (namely kaiṅkarya) arises of itself (without the need for stating it), as it is in conformity with the surrender of the self and consistent with one's essential nature (svarūpa). In the caso of those who interpret on the latter part as indicating the fruit or object of attainment (namely, kaiṅkarya) as explained before, the idea of the surrender of the responsibility for protection should be considered as being present in the first part which treats of the upāya in the verb (prapadye) being taken along with the word saranam (upāya).
-
-THE PURPORT OF DVAYA:
-
-Thus, in Dvaya, in the different words, by the nature of the Words actually used and of the meaning which is implicit (without being actually stated in words), the following principal points as well as what is required for them stand revealed:- (Iśvara's ) association with the mediator (Lakṣmī), this (association) being eternal, Śrī being included in the upãya along (with Bhagavān), the Saviour being full and perfect in His qualities, the particular form of relationship between the jīva and Iśvara, (that of being the body and the soul respectively and that of being śeṣa and śeṣī), Iśvara having a divine and auspicions form, the śeṣa making his approach to the Lord, in this divine form, how (the divine and auspicious form of the Lord) becomes the upāya; the manner of winning the Lord's grace, its accessories, the adhikārī competent for adopting the upāya; how the end to be attained is the Lord with His attribute Śrī, how the object of attainment (the Lord) is endowed with qualities and vibhūtis (glories), how the Lord and Śrī are the recipients entitled to (our) service, the prayer for perforniing this service, the attainment of all forms of service, the removal of all that is undesirable, their utter and complete removal, the jīva's being the doer subject to the will of the Supreme Being and for His purposes, the jīva's being the enjoyer (in mokṣa) subject to the Lord's will and by way of his enjoyment being accessory to the Lord's enjoyment. And these are recalled in Dvaya along with two principal things which are intended to be stated, namely, (1) the upāya which is siddha (viz. the Lord with Śrī), the upāya which is sadhya (viz. prapatti) and (2) the object of attainment which is siddha (namely, the Lord with Śrī) and the object of attainment which is sadhya (namely kaiṅkarya or service).
-
-Thus in this gem of a mantra (Dvaya), the Supreme Reality (the Lord of Śrī), the special upāya (for attaining it), (namely prapatti) and the desired end or fruit (namely-enjoyment and kaiṅkarya) are taught as in the Sariraka śāstra (Brahma Sūtras) (i.e. in the order in which they are treated there). In Dvaya the order of words follows the order in which the upāya and its fruit occur (i.e.) the upāya is stated first and the fruit is stated thereafter (as the former produces the latter). However, as in the mantra (taught) in the Svetāśvatara (Upaniṣad) viz. “Desirous of mokṣa I seek Thy protection)," the important point is the adoption of the upāya preceded by a desire for the fruit (aimed at); former (ācharyas) have explained that, following the logical (or psychological order), the sentence stating the fruit (namely, enjoyment and kaiṅkarya) should be thought of first. For is it not a fact that a man would never study the nature of an upāya and adopt it without previously studying the nature of the end to be attained thereby?. So also in the Tirumantra, the order of
-
-meditation should be as stated above in regard to the upāya, and the fruit thereof. It is only if he desires the fruit and is (also) competent, that the adoption of the upāya would follow.
-
-The words of learned men such as "One shonld seek (the Lord's) protection with (the utterance) of Dvaya" and "The śaraṇāgati which is stated in Dvaya consists in the faith that to attain Nārāyaṇa with Śrī, His two lotus feet are the upāya" - (these words) also show that Dvaya reveals the adoption of the upāya.
-
-THE SUMMARY OF THE MEANING OF DVAYA:--
-
-Although here (in Dvaya), the first part, the words ending with the dative (or fourth) case and the namas - (although) these three are three separate sentences, yet it should be construed as a single sentence with the upāya as the primary purpose. This is how it should be construed):
-
-The sum and substance of Dvaya is this:- "At the feet of Nārāyaṇa who is the Lord of all, who is, in everyway and supremely blissful (or enjoyable) and who is inseparable from Lakṣmī and in order that I may obtain the removal of all that is opposed to all kinds of service in all places, at all times and in all states or circumstances and to receive (the privilege of) full and perfect service to T'hem, I, who am destitute of upāyas, surrender the responsibility of the protection of myself with the accompaniment of the five aṅgas or accessories at the feet of Nārāyaṇa, so that I may not have anything to do for such things as the responsibility for protecting myself.
-
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
-
-वैराग्यविजितस्वान्तैः प्रपत्तिविजितेश्वरैः ।  
-अनुक्रोशैकविजितैरित्युपादेशि देशिकैः ॥  
-इदमष्टपदं व्यासे समासे षट्पदं विदुः ।  
-वाक्यं पञ्चपदैर्यक्तमित्याख्यातप्रधानकम् ॥  
-एकं द्वयं त्र्यवयवं सुखलभ्यतुर्यं  
-व्यक्तार्थपञ्चकमुपात्तषडङ्गयोगम् ।  
-सप्तार्णवीमहिमवद्विवृताष्टवर्णं  
-रङ्गे सतामिह रसं नवमं प्रसूते ॥ *
+> "Aunque cualidades como la juventud **son** comunes a Ti y a Bhagavān,  
+**Os habéis dividido** entre vosotros para **disfrutar** (ciertas cualidades) --  
+cualidades que **deberían haber** en un hombre -  
+a saber, independencia de todos los demás, **subyugación** de los enemigos y firmeza, en Bhagavān--  
+y las cualidades que **debería haber** en una mujer...  
+es decir, gentileza,  
+**existiendo** sólo por el bien del marido,  
+compasión y paciencia, en Ti”.
 </details>
 
-<details><summary>मूलम् (सं॰प॰)</summary>
+<details><summary>मूलम्</summary>
 
-वैराग्यविजितस्वान्तैः प्रपत्तिविजितेश्वरैः ।  
-अनुक्रोशैकविजितैरित्युपादेशि देशिकैः ॥  
-इदमष्टपदं व्यासे समासे षट्पदं विदुः ।  
-वाक्यं पञ्चपदैर्यक्तमित्याख्यातप्रधानकम् ॥  
-एकं द्वयं त्र्यवयवं सुखलभ्यतुर्यं  
-व्यक्तार्थपञ्चकमुपात्तषडङ्गयोगम् ।  
-सप्तार्णवीमहिमवद्विवृताष्टवर्णं  
-रङ्गे सतामिह रसं नवमं प्रसूते ॥ *
+“युवत्वादौ तुल्ये”( श्री-गुण-रत्न-कोशः ३४) ऎऩ्गिऱ श्लोकत्तिऱ्सॊऩ्ऩ गुणविभागत्तिऩ्बडिये 
 </details>
 
-1. This has been taught byācāryas who had full control over their minds as a result of their indifference to worldly objects, who had won over the Lord by (their) prapatti and who were overpowered solely by their compassion (to teach it to others).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-2. This (mantra) is understood as consisting of eight words (if Śrīman Nārāyaṇa caraṇau should be taken as three separate words ;) of six words (if that componnd word is taken as a single word); and as a single sentence with five words where the predicate is important[^102] .
-
-[^102]: With five words: (1) Prapadye; (2) śaraṇam: (3) Srīman Nārāyaṇa caraṇau (4) Śrīmate Nārāyaṇāya; (5) namah according to Sārāsvādinī.
-
-3. This uniqne mantra (or this mantra consisting of a single sentence) called Dvaya has three members (sentences); it can help secure the fourth end of life (namely - mokṣa); it gives a clear idea of the five things that ought to be known; it explains the upāya with six aṅgas (prapatti); its potency or greatness is similar to that of the seven oceans; it explains the meaning of ashtakṣara, the mantra with eight letters, and it produces here (in this world?) in Śrīraṅga, in the minds of wise men[^103] (Like Śrī Rāmānuja the ninth rasa, namely, (Śānta or spiritual serenity).
-
-[^103]: There is a reference here to Sri Rāmanuja's gadya.
-
-<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
-
-ओदुमिरण्डै यिसै न्दरुळालुदवुन्दिरुमाल्  
-पादमिरण्डुञ् जरणॆनप्पऱ्ऱि नम्बङ्गयत्ताळ्  
-नादनै नण्णि नलन्दिगऴ् नाट्टिलडिमैयॆल्लाम्  
-कोदिलुणर्त्तियुडन् कॊळ्ळुमाऱु कुऱित्तनमे. ( 40 )
+> पुंस्त्व-पितृत्व-प्रशासितृत्वादिगळाले प्रतापोत्तरऩ् आय्, दण्डधरऩ् आय् निऱ्किऱ ईश्वरऩैप् पऱ्ऱव् इऴिवार्क्कु +++(=क्षुद्री-भावुकेभ्यः)+++
 </details>
 
-<details><summary>मूलम् (त॰प॰)</summary>
+<details><summary>English</summary>
 
-ओदुमिरण्डै यिसै न्दरुळालुदवुन्दिरुमाल्  
-पादमिरण्डुञ् जरणॆनप्पऱ्ऱि नम्बङ्गयत्ताळ्  
-नादनै नण्णि नलन्दिगऴ् नाट्टिलडिमैयॆल्लाम्  
-कोदिलुणर्त्तियुडन् कॊळ्ळुमाऱु कुऱित्तनमे. ( 40 )
+In accordance with that śloka,  
+when the jīvas **offend** Iśvara  
+who **stands** supreme in power with the characteristics  
+of the masculine nature,  
+of the nature of the father  
+and of the ruler **exercising control** and such others,  
 </details>
 
-We have thus explained how, by uttering, in combination, the two parts of Dvaya which are read separately in the śruti, one can seek, as refuge or upāya, the two feet of the Lord of Śrī who, out of compassion, is bent on helping us and who is prepared to pardon us; one can thus attain the Lord of the lotus.born Lakṣmī and in the region of bliss attain faultless service to the Lord) along with the full and perfect enjoyment of the Lord.
+<details><summary>Español</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
-
-न वेदान्ताच्छास्त्रं न मधुमथनात्तत्त्वमधिकं  
-न तद्भक्तात्तीर्थं न तदभिमतात्सात्त्विकपदम् ।  
-न सत्वादारोग्यं न बुधभजनाद्बोधजनकं  
-न मुक्तेस्सौख्यं न द्वयवचनतः क्षेमकरणम् ॥ ६५ ॥
+De acuerdo con ese śloka,  
+cuando las jīvas **ofenden** a Iśvara  
+quien **se mantiene** supremo en el poder con las características  
+de la naturaleza masculina,  
+de la naturaleza del padre  
+y del gobernante **que ejerce el control** y otros similares,
 </details>
 
-<details><summary>मूलम् (सं॰प॰)</summary>
 
-न वेदान्ताच्छास्त्रं न मधुमथनात्तत्त्वमधिकं  
-न तद्भक्तात्तीर्थं न तदभिमतात्सात्त्विकपदम् ।  
-न सत्वादारोग्यं न बुधभजनाद्बोधजनकं  
-न मुक्तेस्सौख्यं न द्वयवचनतः क्षेमकरणम् ॥ ६५ ॥
+<details><summary>मूलम्</summary>
+
+पुंस्त्वपितृत्वप्रशासितृत्वादिगळाले प्रतापोत्तरऩाय् दण्डधरऩाय् निऱ्किऱ ईश्वरऩैप्पऱ्ऱव् इऴिवार्क्कु
 </details>
 
-There is no śāstra superior to Vedānta; there is no higher Truth or Reality than the slayer of Madhu (Nārāyaṇa); there is nothing more holy of resort than His devotees; there is no better dwelling place than those places that are agreeable to them; there is no better means of preserving health than the quality of sattva (or eating sātvic food); there is no other way of acquiring wisdom than devotion to the wise; there is no bliss greater than mokṣa ; similarly there is no better ineans of obtaining spiritual welfare (mokṣa) than the utterance of Dvaya.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इति कवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
-श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
-श्रीमद्रहस्यत्रयसारे  
-द्वयाधिकारः अष्टाविंशः ॥  
-श्रीमते निगमान्तमहादेशिकाय नमः ॥
+> स्त्रीत्व-मातृत्वादिगळाले वन्द मार्दव-वात्सल्यादि-गुणातिशयत्ताले  
+इवळ् अवऩैप् पऱ्ऱ नमक्कुप् पुरुष-कारम् आगैयुम्  
+ईश्वर-स्वातन्त्र्य-नियतम् 
+
+ऎऩ्ऱु सॊल्लिल्; 
+</details>
+
+<details><summary>English</summary>
+
+Lakṣmī who **has** gentleness, affection and the like  
+**becomes** the **mediator interceding** on their behalf.  
+
+If it **is said** that this **intercession** as a **mediator is** subject to the independent will of the Lord,  
+</details>
+
+<details><summary>Español</summary>
+
+Lakṣmī que **tiene** gentileza, afecto y cosas por el estilo  
+**se convierte** en el **mediador que intercede** en su nombre.  
+
+Si **se dice** que esta **intercesión** como **mediadora** está sujeta a la voluntad independiente del Señor,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्त्रीत्वमातृत्वादिगळाले वन्द मार्दव वात्सल्यादिगुणातिशयत्ताले इवळ् अवऩैप्पऱ्ऱ नमक्कुप् पुरुषकारमागैयुम् ईश्वरस्वातन्त्र्यनियतमॆऩ्ऱु सॊल्लिल्; 
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडिये सह-धर्म-चारिणिय् आऩव् इवळाले विशिष्टऩ् आय्क् कॊण्डु  
+शरण्यऩ् आगैयुम् ईश्वर-स्वातन्त्र्य-नियतम् 
+
+ऎऩ्ऱु कॊण्डाल्  
+ऒरु प्रमाणत्तुक्कुम् विरोधम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+then it **may be said** without any **contradiction** by the pramāṇas  
+that Iśvara's being the Śaraṇya or Protector with his attribute Śrī  
+who **participates** in the **performance** of (Her husband's ) duties is also due to His independent will.
+</details>
+
+<details><summary>Español</summary>
+
+entonces **puede ser dicho** sin ninguna **contradicción** por los pramāṇas  
+que Iśvara es el Śaraṇya o Protector con su atributo Śrī  
+quien **participa** en el **desempeño** de los deberes (de su esposo)  
+también **es** se debe a su voluntad independiente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिये सहधर्मचारिणियाऩ विवळाले विशिष्टऩाय्क्कॊण्डु शरण्यऩागैयुम् ईश्वरस्वातन्त्र्य नियतमॆऩ्ऱु कॊण्डाल् ऒरु प्रमाणत्तुक्कुम् विरोधमिल्लै। 
+</details>
+
+
+
+
+
