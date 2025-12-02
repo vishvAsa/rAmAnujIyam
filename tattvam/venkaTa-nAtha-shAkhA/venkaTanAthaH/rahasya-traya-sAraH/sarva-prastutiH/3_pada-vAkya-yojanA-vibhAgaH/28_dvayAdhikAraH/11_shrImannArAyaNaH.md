@@ -9127,9 +9127,70 @@ sin la **debida reflexión**.
 
 
 #### श्री-प्रयोजनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्व-शक्तिय् आऩवऩ् उपायम् आम् बोदु  
+इव् विशेषणत्ताल् अपेक्षैय् ऎऩ्?  
+सापेक्षऩ् आगिल् सर्वशक्तिय् अऩ्ऱिक्केय् ऒऴियाऩोव् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+It **may be asked**:--
+
+> “When the omnipotent Lord **becomes** the upāya,  
+where **is** the **need** for this attribute viz. Śrī?  
+If He **needs** her,  
+it **would follow** that He **is not** omnipotent." 
+
+</details>
+
+<details><summary>Español</summary>
+
+**Se puede preguntar**:--
+
+> “Cuando el Señor omnipotente **se convierta** en el upāya,  
+donde **es** la **necesidad** de este atributo, a saber, Sri?  
+Si Él la **necesita**,  
+De ello se deduciría que Él **no es** omnipotente".
+</details>
 
 
-It may be asked:--“When the omnipotent Lord becomes the upāya, where is the need for this attribute viz. Śrī? If He needs her, it would follow that He is not omnipotent." The same objection conld be inade against the qualities (of Nārāyaṇa) and the form (vigraha) (of Nārāyaṇa) which are stated in the words Nārāyaṇa and caraṇau respectively. If it is maintained, in accordance with the pramāṇas, that the qualities and the form are His attributes and that as there is a special efficacy appropriate to them as such, the omnipotence (of the Lord) is not thereby annulled, then the same argument will hold good (in the case of Śrī also) becarise (Her being the upāya along with Bhagavān) has been stated by many authorities (pramaṇas) and because in the word Śrīmat, Śrī's being the attribute is natural owing to her relationship of being the Spouse.
+<details><summary>मूलम्</summary>
+
+सर्वशक्तियाऩवऩुबायमाम्बोदु इव् विशेषणत्तालपेक्षैयॆऩ्? सापेक्षऩागिल् सर्वशक्तियऩ्ऱिक्केयॊऴियाऩोवॆऩ्ऩिल्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इच् चोद्यम्  
+नारायण-शब्दत्तालुम् चरण-शब्दत्तालुम् सॊल्लप्पट्ट गुण-विग्रह-योगत्तिलुम्  
+पण्णद् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+The same **objection could be made** against the qualities (of Nārāyaṇa) and the form (vigraha) (of Nārāyaṇa)  
+which **are stated** in the words Nārāyaṇa and caraṇau respectively. 
+</details>
+
+<details><summary>Español</summary>
+
+La misma **objeción podría hacerse** contra las cualidades (de Nārāyaṇa) y la forma (vigraha) (de Nārāyaṇa)  
+que **se expresan** en las palabras Nārāyaṇa y caraṇau respectivamente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इच् चोद्यम् नारायणशब्दत्तालुम् चरणशब्दत्तालुम् सॊल्लप्पट्ट गुणविग्रहयोगत्तिलुम् पण्णदाम्। 
+</details>
+
+
+
+If it is maintained, in accordance with the pramāṇas, that the qualities and the form are His attributes and that as there is a special efficacy appropriate to them as such, the omnipotence (of the Lord) is not thereby annulled, then the same argument will hold good (in the case of Śrī also) becarise (Her being the upāya along with Bhagavān) has been stated by many authorities (pramaṇas) and because in the word Śrīmat, Śrī's being the attribute is natural owing to her relationship of being the Spouse.
 
 If, in spite of all this, it is held merely (on the ground of the (dual) caraṇau (the two feet) that the association with Śrī is mere Upalakṣaṇa[^100] and does not signify that Śrī is also upāya, then the same thing would have to be said about His association with such things as qualities (and form). If it is held that since the word (caraṇau) is employed along with the word Nārāyaṇa stating that they are the upāya, the one who has the qualities and the form which are necessary for being the upāya is the upāya, the same thing can be said also (of Śrī) here. Such being the case, if it is held that in case Śrī is considered an attribute, it would be against (the Lord's) omnipotence, there would be the same irreconcilability with that onnipotence, in expectiog Śrī to be the mediator (interceding on behalf of the jīva),
 
