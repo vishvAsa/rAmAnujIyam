@@ -2057,11 +2057,7 @@ entonces habría que **decir** lo mismo
 ऎऩ्ऩिल्; इदु इङ्गुम् तुल्यम्। 
 </details>
 
-<details><summary>मूलम्</summary>
-
-चरणशब्दत्तिल् उपायवाचिशब्द समभिव्याहारत्ताले उपयुक्तगुणविग्रहविशिष्टऩुबायमागिऱाऩॆऩ्ऱुविवक्षितमॆऩ्ऩिल्; इदु इङ्गुम् तुल्यम्। 
-</details>
-
+<details><summary>English</summary>
 
 If it **is held** that  
 since the word (caraṇau) **is employed** along with the word Nārāyaṇa  
@@ -2072,9 +2068,33 @@ the one who has the qualities and the form
 which **are necessary** for being the upāya  
 **is** the upāya,  
 
-the same thing **can be said** also (of Śrī) here. Such being the case, if it is held that in case Śrī is considered an attribute, it would be against (the Lord's) omnipotence, there would be the same irreconcilability with that onnipotence, in expectiog Śrī to be the mediator (interceding on behalf of the jīva),
+the same thing **can be said** also (of Śrī) here. 
+</details>
 
-[^100]: Upalakṣaṇa: a mere mark, token or sign to indicate Nārāyaṇa who is recognised by that mark. An Upalakṣaṇa is not an essential feature of the object in question,
+<details><summary>Español</summary>
+
+Si **se sostiene** que  
+ya que la palabra (caraṇau) **se emplea** junto con la palabra Nārāyaṇa  
+**afirmando** que  
+
+> ellos **son** los upāya,  
+el que tiene las cualidades y la forma  
+que **son necesarios** para **ser** el upāya  
+**es** el upāya,  
+
+Lo mismo **puede decirse** también (de Śrī) aquí.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+चरणशब्दत्तिल् उपायवाचिशब्द समभिव्याहारत्ताले उपयुक्तगुणविग्रहविशिष्टऩुबायमागिऱाऩॆऩ्ऱुविवक्षितमॆऩ्ऩिल्; इदु इङ्गुम् तुल्यम्। 
+</details>
+
+
+Such being the case, if it is held that in case Śrī is considered an attribute, it would be against (the Lord's) omnipotence, there would be the same irreconcilability with that onnipotence, in expectiog Śrī to be the mediator (interceding on behalf of the jīva),
+
+Upalakṣaṇa: a mere mark, token or sign to indicate Nārāyaṇa who is recognised by that mark. An Upalakṣaṇa is not an essential feature of the object in question.
 
 It is said in Bhattar's Śrīgunaratna-kośam :- "Though qualities like youth are common to Thee and Bhagavān, you have divided between yourselves for the sake of enjoyment (certain qualities) -- such qualities as there should be in a man - namely, independence of all others, subjugation of enemies and firmness, in Bhagavān--and such qualities as there should be in a woman - namely, gentleness, existing only for the sake of the husband, compassion and patience, in Thee”. In accordance with that śloka, when the jīvas offend Iśvara who stands supreme in power with the characteristics of the masculine natnre, of the nature of the father and of the ruler exercising control and such others, Lakṣmī who has gentleness, affection and the like becomes the mediator interceding on their behalf. If it is said that this intercession as a mediator is subject to the independent will of the Lord, then it may be said without any contradiction by the pramāṇas that Iśvara's being the Śaraṇya or Protector with his attribute Śrī who participates in the performance of (Her husband's ) duties is also due to His independent will.
 
