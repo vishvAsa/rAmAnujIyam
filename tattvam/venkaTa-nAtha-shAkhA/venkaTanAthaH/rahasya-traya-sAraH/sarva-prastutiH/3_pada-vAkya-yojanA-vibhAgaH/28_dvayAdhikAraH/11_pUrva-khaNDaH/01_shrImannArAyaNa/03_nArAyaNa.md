@@ -1890,6 +1890,14 @@ y **no medir** su valor.
 ऎऩ्ऱ् इरुक्कुम् वदान्यतै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+परमोदारत्वं नाम –  
+उपाय-लाघवम् उपेय-गौरवं पात्रापकर्षं च अदृष्ट्वैव  
+सर्वस्व-दाने कृते ऽपि  
+"अस्मत्-कृतम् अपर्याप्तम्"  
+इत्य् एवं-भावस्य प्रयोजिका वदान्यता । 
+</details>
 
 
 <details><summary>English</summary>
@@ -1929,8 +1937,14 @@ o la indignidad del beneficiario.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु दधि-भाण्डादिगळैप् पोले  
-हठात्-कारम् पण्णियुम्  
+हठात्+++(=बलात्)+++-कारम् पण्णियुम्  
 अनुबन्धि+++(→दधिभाण्ड!)+++-पर्यन्तम् आग परम-पुरुषार्थत्तै अपेक्षिक्कैक्क् उऱुप्प् आम्।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं दधि-भाण्डादिवत् हठात्+++(=बलात्)+++-कारं कृत्वा ऽपि  
+अनुबन्धि****-पर्यन्तं परम-पुरुषार्थापेक्षणस्य प्रयोजकम् ।
 </details>
 
 <details><summary>English</summary>
@@ -1989,6 +2003,13 @@ sino para aquellos relacionados con él.)
 इङ्गेय् अनुसन्धित्तुक् कॊळ्वदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् अन्ये ऽपि शरण्यतोपयुक्ता गुणास्  
+तद्-उपयोग-विशेषाश् चात्रानुसन्धेयाः ।
+</details>
+
+
 <details><summary>English</summary>
 
 Thus such qualities in the Redeemer as are **useful** for **seeking** His **protection**  
@@ -2019,6 +2040,12 @@ y la manera en que **son útiles**
 
 उपायानुष्ठान-दशैयिल्  
 अव्व्-ओ विद्यैगळुक्क् अडैत्त कतिपय-गुण-विशिष्टऩ् अनुसन्धेयऩ् आय् +++(5)+++
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उपायानुष्ठान-दशायां  
+तत्-तद्-विद्या-नियत-- कतिपय-गुण-शिष्टतया ऽनुसंधेयस्य सतः +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -2058,6 +2085,12 @@ sólo **se meditan** ciertas cualidades (de Brahman) **pertenecientes** a ese vi
 समस्त-गुण-विभूति-विशिष्टऩ् अनुभाव्यऩ् आऩालुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्राप्ति-दशायां समस्त-गुण-विशिष्टतया ऽनुभाव्यत्वे ऽपि, 
+</details>
+
+
 <details><summary>English</summary>
 
 Still in the state of **enjoyment** of the fruit of the **meditation**,  
@@ -2084,6 +2117,13 @@ con todas sus cualidades.
 इङ्ग् उत्तर-खण्डत्तिल् नारायण-शब्दत्तुक्कु  
 स्व-रूप-कृतम् आयुम् गुण-कृतम् आयुम् वरुम् कैङ्कर्य-प्रतिसम्बन्धित्वत्तिले नोक्क्+++(=वीक्षा)+++ आऩ बडियाले 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्रोत्तर-खण्डे नारायण-शब्दस्य  
+स्वरूप-गुण-कृत-कैङ्कर्य-प्रतिसम्बन्धित्वे तात्पर्य-सत्त्वात्  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2116,6 +2156,12 @@ que **surgen** de Su naturaleza esencial y de Sus cualidades,
 शेषित्व--निरतिशय-भोग्यत्वादिगळ् प्रधानतमङ्गळ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तद्-उपयुक्ताः शेषित्व-निरतिशय-भोग्यत्वादयः प्रधानतमाः ॥ 
+</details>
+
+
 <details><summary>English</summary>
 
 the most inportant qualities to be understood **are**  
@@ -2143,6 +2189,15 @@ y Su **ser capaz** de **brindar** (perfecta) bienaventuranza.
 सम्बन्ध-विशेषादि-मुखत्ताले आनुकूल्य-सङ्कल्पमुम् प्रातिकूल्य-वर्जनमुम् सूचितम् आऩ बडि  
 +++(परिकर-विभागः→)+++ अधिकारान्तरत्तिले सॊऩ्ऩोम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र +++(पूर्व-खण्डस्थ–नारायण-शब्दे)+++ संबन्ध-विशेषादि-मुखेन  
+आनुकूल्य-संकल्प--प्रातिकूल्य-वर्जनयोः सूचितत्व-प्रकारम्  
++++(परिकर-विभागः→)+++ अधिकारान्तरे ऽभ्यधाम ।
+</details>
+
+
 
 <details><summary>English</summary>
 

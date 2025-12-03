@@ -27,12 +27,16 @@ EL SIGNIFICADO DE LA PALABRA ŚARAṆAM
 
 <details><summary>नीलमेघः (सं)</summary>
 
+[[P337]]  
+अत्र शरण-शब्दः 
+
 > “उपाये गृह-रक्षित्रोश्  
 शब्दश् शरणम् इत्य् अयम् ।  
 **वर्तते** साम्प्रतं त्व् एष  
 उपायार्थैक-**वाचकः**॥”  
 ( अहिर्बुध्न्य-संहिता ७-२९) 
 
+इति विशिष्योक्तेर् उपाय-परः ।
 </details>
 
 <details><summary>English</summary>
@@ -73,6 +77,15 @@ upāya **ha sido señalado** como el significado especial aquí,
 **रक्षको विनिवेशितः** ॥
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+भर-न्यास-बलाद् एव  
+स्व-**यत्न-विनिवृत्तये** ।  
+अत्रोपायान्तर-स्थाने  
+**रक्षको विनिवेशितः** ॥
+</details>
+
+
 <details><summary>English</summary>
 
 By the very nature of bharanyāsa (the **surrender** of the burden or **responsibility** of **protection** ),  
@@ -100,8 +113,14 @@ para que el prapanna **pueda abstenerse** de cualquier **esfuerzo** por su parte
 
 सर्वाधिकारिगळुक्कुम्  
 अव्व्-ओ शास्त्रार्थङ्गळालेय् आराधितऩ् आऩ सर्वेश्वरऩ्  
-फलोपायम् आयिरुक्क 
+फलोपायम् आय् इरुक्क 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वाधिकारिणां तत्-तच्-छास्त्रार्थैर् आराधिते सर्वेश्वरे फलोपाये सति, 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
