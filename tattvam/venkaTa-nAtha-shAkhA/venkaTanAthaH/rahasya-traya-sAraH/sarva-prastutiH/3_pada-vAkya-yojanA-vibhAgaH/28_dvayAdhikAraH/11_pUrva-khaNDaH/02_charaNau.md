@@ -19,6 +19,12 @@ EL **SIGNIFICADO** DE CARAŅAU.
 नित्यम् आऩ दिव्य-मङ्गल-विग्रहत्तुक्क् उपलक्षणम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"चरणौ" इति शब्दो नित्यस्य दिव्य-मङ्गल-विग्रहस्य उपलक्षणम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 The word Caraṇau **means** not merely 'the two feet'  
@@ -51,6 +57,15 @@ pero por implicación, la forma divinamente auspiciosa (del Señor), (que **no e
 
 ऎऩ्ऩुम् इडम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> श्रियः-पत्युः सर्वस्मात् परत्वं नित्य-विग्रह-योगश् च  
+ज्ञातव्येषु प्रधानतमे 
+
+इत्य् अयम् अर्थः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -132,6 +147,12 @@ y así también, oh Pauṣkara, que Él **es** superior a todos los demás-
 इत्य्-आदिगळिले प्रसिद्धम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आदिषु प्रसिद्धः ॥ 
+</details>
+
+
 <details><summary>English</summary>
 
 This may be seen from such passages as the above. 
@@ -153,6 +174,13 @@ Esto **puede verse** en pasajes como el anterior.
 आगैयाल् “श्रीमन्-नारायण” ऎऩ्गिऱव् इडत्तिले  
 सौलभ्यान्वितम् आऩ परत्वमुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः "श्रीमन्-नारायण" इत्यत्र  
+सौलभ्यान्वितं परत्वं 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -184,6 +212,12 @@ Su **ser** la Realidad Suprema que es fácilmente **accesible**
 “चरणौ” ऎऩ्गिऱव् इडत्तिले नित्य-विग्रह-योगमुम् अनुसन्धेयम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"चरणौ" इत्यत्र नित्य-विग्रह-योगश् चानुसन्धेये । 
+</details>
+
+
 <details><summary>English</summary>
 
 and in the word Caraṇau,  
@@ -210,19 +244,23 @@ estos **debemos tener** en cuenta.
 
 दिव्यात्म--स्व-रूपत्तिलुम्  
 कीऴ्च्-चॊऩ्ऩ गुणादिगळिलुन्  
-तॆळिव् इल्लादार्क्कुम्  
-शुद्ध-सत्त्व-द्रव्यमयम् आय्
+तॆळिव् इल्लादार्क्कुम् +++(→लक्ष्यः)+++   
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+दिव्यात्म-स्वरूपे  
+अधो-निर्दिष्ट-गुणेषु च  
+प्रबोध-रहितानां +++(→लक्ष्यः)+++ 
+</details>
+
 
 <details><summary>English</summary>
 
 Even by those who **have** no clear idea of the essential nature of the Divine Being  
 (that He **is** jñāna and ānanda)  
 and that He **has** the qualities mentioned before-  
-even for them the object of **meditation**  
-**should be** the divinely auspicious form  
-which **is constituted** wholly of Śuddha sattva (and not matter),  
-
+even for them - 
 </details>
 
 <details><summary>Español</summary>
@@ -230,9 +268,7 @@ which **is constituted** wholly of Śuddha sattva (and not matter),
 Incluso para aquellos que **no tienen** una idea clara de la naturaleza esencial del Ser Divino  
 (que Él **es** jñāna y ānanda)  
 y que Él **tiene** las cualidades mencionadas antes-  
-incluso para ellos el objeto de **meditación**  
-**debería ser** la forma divinamente auspiciosa  
-que **está constituido** enteramente de Śuddha sattva (y no de materia),
+incluso para ellos - 
 </details>
 
 
@@ -247,24 +283,37 @@ que **está constituido** enteramente de Śuddha sattva (y no de materia),
 “सत्यं ज्ञानमनन्तं ब्रह्म” ऎऩ्ऱु सॊल्लप्पट्ट दिव्यात्मस्वरूपत्तिलुम्,  
 कीऴ्च्चॊऩ्ऩ गुणादिगळिलुम् - नारायणशब्दत्तिल् सॊऩ्ऩ गुणविभूत्यादिगळिलुम्,  
 तॆळिविल्लादार् - सम्यक्ज्ञानमिल्लादार्, 
-इदऩाले आश्रयत्वम् सॊल्लिऱ्ऱु। शुद्धसत्वद्रव्यमयमायिति ।  
+इदऩाले आश्रयत्वम् सॊल्लिऱ्ऱु। 
 </details>
+
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+शुद्ध-सत्त्व-द्रव्यमयम् आय्  
 स्व-विषय-ज्ञानत्ताले ज्ञान-सङ्कोचत्तुक्कु निवर्तकम् आय् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+शुद्ध-सत्त्व-द्रव्यमयः 
+स्व-विषय-ज्ञानेन ज्ञान-संकोच-निवर्तकः 
+</details>
+
+
 <details><summary>English</summary>
 
+the divinely auspicious form  
+which **is constituted** wholly of Śuddha sattva (and not matter),  
 which, in those who have a **knowledge** of it,  
 **removes** the **contraction** of **knowledge** (due to past karma )  
-
 </details>
 
 <details><summary>Español</summary>
 
+la forma divinamente auspiciosa  
+que **está constituido** enteramente de Śuddha sattva (y no de materia),  
 lo cual, en aquellos que tienen un **conocimiento** de ello,  
 **elimina** la **contracción** del **conocimiento** (debido al karma pasado)
 </details>
@@ -272,11 +321,13 @@ lo cual, en aquellos que tienen un **conocimiento** de ello,
 
 <details><summary>मूलम्</summary>
 
+शुद्धसत्त्वद्रव्यमयमाय्  
 स्वविषयज्ञानत्ताले ज्ञानसङ्कोचत्तुक्कु निवर्तकमाय् 
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
+शुद्धसत्वद्रव्यमयमायिति ।  
 स्वविषयज्ञानत्ताले ज्ञानसङ्कोचत्तुक्कु निवर्तकमायिति । तऩ्ऩै चिन्तनम् पण्ण मात्रत्ताले दिव्यात्मस्वरूप ज्ञानसङ्कोचत्तिऱ्कुम् कल्याणगुणविषयज्ञानसङ्कोचत् तिऱ्कुम् निवर्तकमायॆऩ्ऱबडि।  
 इदऩाल् दिव्यात्मस्वरूपज्ञानत्तिऱ्कुम् गुणविभूत्यादिज्ञानत्तिऱ्कुम् जनकमायॆऩ्ऱदायिऱ्ऱु। 
 </details>
@@ -287,6 +338,12 @@ lo cual, en aquellos que tienen un **conocimiento** de ello,
 परत्व-सौलभ्य-व्यञ्जकम् आऩ  
 दिव्य-मङ्गल-विग्रहमे इलक्क् आम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+परत्व-सौलभ्य-व्यञ्जको दिव्य-मङ्गल-विग्रह एव लक्ष्यः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -319,6 +376,13 @@ y Su fácil **accesibilidad**.
 दिव्य-मङ्गल-विग्रहत्तैय् अरुळिच् चॆय्दार्। +++(4)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं प्राधान्यम् अभिप्रेत्य  
+गद्ये गुणेभ्यः पूर्वं दिव्य-मङ्गल-विग्रहं निर्दिदेश । 
+</details>
+
+
 <details><summary>English</summary>
 
 Owing to its being the principal (meditation ),  
@@ -347,6 +411,11 @@ antes de **indicar** las cualidades.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिव्यात्म-स्वरूपत्तिल् तॆळिव्-उडैयर् आय् इरुक्कच् चॆय्देयुम् 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+दिव्यात्म-स्वरूपे विशद-ज्ञानवत्त्वे ऽपि, 
 </details>
 
 <details><summary>English</summary>
@@ -385,6 +454,8 @@ Aunque **tenía** un verdadero **conocimiento** de la naturaleza esencial del Se
 
 > “मूर्तं ब्रह्म ततोऽपि तत्-प्रियतरं रूपं यद् अत्यद्भुतम्”  
 ( चतुः-श्लोकी ४) 
+
+इति यथोच्येत तथा - 
 </details>
 
 
@@ -420,6 +491,12 @@ que Su propia Naturaleza esencial (que es jñāna y ānanda)".
 ईश्वरऩ् +++(त→)+++ऱऩक्कुम् भोग्यतमम् आऩ नित्य-विग्रहानुभवत्तिल् ऊऱ्ऱत्ताले
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+ईश्वरस्यापि भोग्यतमस्य नित्य-विग्रहस्यानुभवे आदरातिशयात् 
+</details>
+
+
 <details><summary>English</summary>
 
 because of his extreme **devotion** to the eternal form which **is delightful** even to Iśvara ( who **is** jñāna and ānanda ). 
@@ -446,6 +523,12 @@ debido a su extrema **devoción** a la forma eterna que **es deliciosa** incluso
 तिरु-मङ्गैय् आऴ्वार्  
 तम्मै ईश्वर-विषयत्तिल् देहात्म-वादिगळ् आगव् अरुळिच् चॆय्वर्। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+परकाल-सूरिः स्वम् ईश्वर-विषये देहात्म-वादिनं प्रतिपादयामास । +++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -475,6 +558,12 @@ que **no cree** en la Realidad Suprema (es decir jñāna y ānanda) como los ate
 
 सर्वेश्वरऩ्-उडैय दिव्य-मङ्गल-विग्रहत्तुक्कु
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वेश्वर-दिव्य-मङ्गल-विग्रहस्य 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -588,6 +677,13 @@ y sus mentes con cualidades tales como la generosidad."
 +++(ध्याने)+++ शुभत्वमुम् आश्रयत्वमुम् उण्डु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आद्य्-उक्त-रीत्या  
+शुभत्वम् आश्रयत्वं च अस्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 as **declared** in the above passages,  
@@ -614,6 +710,13 @@ y **es** un objeto adecuado para la meditación (āśraya)
 बद्धर्क्क् +++(ध्याने)+++ आश्रयत्वम् उण्डागिलुम्  
 शुभत्वम् इल्लै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+बद्धानाम् आश्रयत्वे सत्य् अपि  
+शुभत्वं नास्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -643,6 +746,13 @@ pero **no hay** pureza ni auspicios en ellos.
 भगवत्--स्व-रूपत्तुक्कु शुभत्वम् उण्डेय् आगिलुम्  
 आश्रयत्वम् इल्लै। +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+भगवत्-स्वरूपस्य शुभत्वे सत्य् अपि  
+आश्रयत्वं नास्ति । +++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -687,6 +797,13 @@ pero **no puede ser** un objeto de **meditación**.
 संसरिक्कैक्कु सहकारि-योग्यतैय् इल्लैयेय् आगिलुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+संसार-बन्ध-रहितस्य परिशुद्धात्म-स्वरूपस्य  
+संसरणौपयिक-सहकारि-योग्यताया अभावे ऽपि  
+</details>
+
+
 <details><summary>English</summary>
 
 The pure and essential form of the jīva (free from bondage ) **cannot** come back to saṁsāra,  
@@ -716,6 +833,12 @@ ya que **carece** de las cualidades necesarias para ello;
 पर-तन्त्र-चेतनतैयाले संसरिक्कैक्कु स्व-रूप--योग्य-वस्तुव् आगैयालेय् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+परतन्त्र-चेतनत्वेन संसरण-स्वरूप-योग्य-वस्तुत्वात् 
+</details>
+
+
 <details><summary>English</summary>
 
 but by its nature,  
@@ -738,6 +861,13 @@ pero por su naturaleza,
 अदुक्कु हेय-प्रत्यनीकत्व-रूप-शुभत्वमुम् इल्लै,+++(5)+++  
 आश्रयत्वमुम् इल्लै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तस्य हेय-प्रत्यनीकत्व-रूपं शुभत्वं नास्ति;  
+आश्रयत्वं च नास्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -768,6 +898,14 @@ ni puede ser un objeto adecuado para **meditación**.
 आश्रयत्वम् उण्डेय् आगिलुम्  
 संसार-निवर्तन-क्षमम् आऩ शुभत्वम् इल्लै।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुक्तानां विग्रह-परिग्रह-दशायाम्,  
+नित्य-विग्रहाणां नित्यानां च आश्रयत्वे सत्य् अपि  
+संसार-निवर्तन-क्षमं शुभत्वं नास्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -804,6 +942,12 @@ que **puede liberar** a los baddhas del saṁsāra.
 आगैयाल् दिव्य-मङ्गल-विग्रहत्तुक्के  
 +++(ध्याने)+++ मुमुक्षूपयुक्तम् आऩ शुभत्वमुम्, आश्रयत्वमुम् उळ्ळदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो दिव्य-मङ्गल-विग्रहस्यैव मुमुक्षूपयुक्तं शुभत्वम् आश्रयत्वं च अस्ति ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -888,8 +1032,16 @@ y porque **puede producir** (en aquellos que lo contemplan) bhakti y jnana.
 
 > “मामेकं शरणं व्रज” 
 
-ऎऩ्ऱु विग्रह-विशिष्टऩ् इलक्क्+++(=लक्ष्यम्)+++ आय्त् तोऱ्ऱिऩाऩ् +++(नारूपः)+++। 
+ऎऩ्ऱु विग्रह-विशिष्टऩ् इलक्क्+++(=लक्ष्यम्)+++ आय्त् तोऱ्ऱिऩाऩ् +++(न सर्वगम् आत्म-स्वरूपम्)+++। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शरणागति-विधायक-वाक्ये ऽपि  
+"माम् एकं शरणं व्रज"  
+इति विग्रह-विशिष्टो लक्ष्यः प्रतीतः +++(न सर्वगम् आत्म-स्वरूपम्)+++। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -916,7 +1068,7 @@ el Señor que **había asumido** una forma
 
 अनुष्ठेयार्थप्रकाशकमाऩ द्वयत्तिल्बोले  
 विधायकमाऩ चरमश्लोकत्तिलुम् +++(5)+++  
-शरणागतिक्कु विग्रहविशिष्टऩे लक्ष्यमाऩाऩॆऩ्गिऱार् शरणागतिविधायकवाक्यत्तिलुमिति । 
+शरणागतिक्कु विग्रहविशिष्टऩे लक्ष्यमाऩाऩॆऩ्गिऱार् शरणागतिविधायक-वाक्यत्तिलुमिति । 
 </details>
 
 
@@ -929,11 +1081,18 @@ el Señor que **había asumido** una forma
 ऎऩ्ऩुम् इडम् शास्त्र-सिद्धम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं दिव्य-विग्रहः  
+पर-व्यूहाद्यवस्था-पञ्चके ऽपि  
+शुभाश्रय इत्य् अयम् अर्थः शास्त्र-सिद्धः ।
+</details>
+
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
-व्यूहादीन्य् अवस्था उच्यन्ते - असार्वकालिकत्वात्। 
-यदि भगवत्-स्वरूपय् आश्रयत्वं नास्ति,  
-कथम् अन्तर्यामि-रूपस्य +आश्रयत्वम् - अरूपत्वे सति? 
+व्यूहादीन्य् अवस्था उच्यन्ते - असार्वकालिकत्वात्।  
+अन्तर्यामिरूपं नारूपं सर्वव्यापि भगवद्-आत्म-स्वरूपम् इति स्मार्यम्। 
 </details>
 
 <details><summary>English</summary>
@@ -1024,6 +1183,12 @@ y **tener** virtudes tales como **generar compasión** (en Él).
 औचित्यातिशयत्तालुम् …
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र दास-भूत औचित्यातिशयात्, 
+</details>
+
+
 <details><summary>English</summary>
 
 The servant,  
@@ -1054,6 +1219,14 @@ debido a que son extremadamente apropiados para el resort
 ऎऩ्गिऱ बडिये +++(स्वामि-)+++कृपोत्तंभकत्वातिशयत्तालुम्,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अनतिक्रमणीयं हि चरण-ग्रहणम्”() 
+
+इत्य्-उक्त-रीत्या +++(स्वामि-)+++कृपोत्तम्भकत्वातिशयात्, 
+</details>
+
+
 <details><summary>English</summary>
 
 and because as **stated** in the **saying**:  
@@ -1083,6 +1256,15 @@ ellos **son capaces** de **aumentar** la compasión del Señor
 
 इत्य्-आदिगळिऱ् पडिये भोग्यत्वातिशयत्तालुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “तवामृत-स्यन्दिनी”  
+( आळवन्दार् स्तोत्रम् २७) 
+
+इत्य्-आद्य्-उक्त-रीत्या भोग्यत्वातिशयाच् च 
+</details>
+
 
 
 <details><summary>English</summary>
@@ -1121,6 +1303,12 @@ mientras el loto **está** lleno de miel?
 तिरुव्-अडिगळै अवलम्बिक्किऱाऩ्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रीचरणाव् अवलम्बते । 
+</details>
+
+
 <details><summary>English</summary>
 
 (he) **resorts** to the feet (of the Lord). 
@@ -1149,10 +1337,11 @@ mientras el loto **está** lleno de miel?
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अयम् अर्थः, 
+
 > “सर्वदा चरण-द्वन्द्वं”  
 (व्रजामि शरणं तव)
 ( जितन्ता-स्तोत्रम् १-२)
-
 </details>
 
 <details><summary>English</summary>
@@ -1420,6 +1609,12 @@ que **destruye** los pecados de aquellos que **realizan** prapatti"
 इत्य्-आदिगळिलुम् प्रसिद्धम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्यादिषु च प्रसिद्धः ।[[P335]]
+</details>
+
+
 <details><summary>English</summary>
 
 (This idea) **is** well-expressed in the above passages and others. 
@@ -1443,6 +1638,12 @@ que **destruye** los pecados de aquellos que **realizan** prapatti"
 इवऱ्ऱैय् अडिय् ऒत्तिऩवर्गळुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतदनुसारिणो ऽपि, 
+</details>
+
+
 <details><summary>English</summary>
 
 Those who followed this tradition (like Nammalvar and Aḷavandār) 
@@ -1461,10 +1662,18 @@ Aquellos que **siguieron** esta tradición (como Nammalvar y Aḷavandār)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> उऩ् अडिक्-कीऴ् अमर्न्दु+++(=युक्त्वा)+++ पुगुन्देन् 
+> उऩ् अडिक्-कीऴ् अमर्न्दु+++(=सादृश्यम् आप्य)+++ पुगुन्देन् 
 
 ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "त्वच्-चरणयोर् अधो ऽवधा प्राविशम्” 
+
+इति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1499,6 +1708,7 @@ dijo también:-
 > “त्वत्-पाद-मूलं शरणं प्रपद्ये”  
 ( आळवन्दार् स्तोत्रम् २२) 
 
+इति चानुजगृहुः । 
 </details>
 
 <details><summary>English</summary>
@@ -1538,6 +1748,7 @@ y **soy** un **suplicante** ante Tus pies".
 **साधनं** स्व-पद-द्वयम्॥” +++(5)+++ 
 ()  
 
+इत्य् अभियुक्ताः प्रतिपादयामासुः ।
 </details>
 
 <details><summary>English</summary>
@@ -1567,6 +1778,11 @@ Los medios que **pueden asegurarlo** para nosotros
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “चरणौ” ऎऩ्गिऱव् इडत्तिले 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"चरणौ" इत्यत्र, 
 </details>
 
 <details><summary>English</summary>
@@ -1616,6 +1832,12 @@ En la palabra caraṇau ('Los dos pies')
 ( तिरुवाय्मॊऴि ५-८-११), 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"चरणौ ताव् एव शरणम्", 
+</details>
+
+
 <details><summary>English</summary>
 
 > "Satagopan who **resorted** to His feet alone as the upāya and as the object of attainment" 
@@ -1639,6 +1861,12 @@ En la palabra caraṇau ('Los dos pies')
 ( तिरुवाय्मॊऴि ५-१०-११)
 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "नाग-शयनोपरि [स्थितस्य] अस्मद्-उपकारकस्य चरणाव् एव शरणम्" 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1667,6 +1895,12 @@ Sus pies **son** solos nuestro upāya".
 
 इत्य्-आदिगळिऱ् पडिये अवधारणम् विवक्षितम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आद्य्-उक्त-रीत्या ऽवधारणं विवक्षितम् ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1706,7 +1940,6 @@ la palabra 'solo' **está implícita** en el significado (es decir, los dos pies
 
 इति मन्दैर् इदं प्रोक्तं  
 श्रीमच्-छब्द-विरोधतः ॥  
-
 </details>
 
 
