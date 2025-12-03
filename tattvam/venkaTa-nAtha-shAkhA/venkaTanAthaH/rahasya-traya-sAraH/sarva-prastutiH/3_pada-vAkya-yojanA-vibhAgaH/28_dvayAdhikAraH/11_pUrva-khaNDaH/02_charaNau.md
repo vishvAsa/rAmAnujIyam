@@ -2115,6 +2115,19 @@ sin la **debida reflexión**.
 ऎऩ्ऩिल्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P336]]
+
+> सर्व-शक्तेर् उपायत्वे  
+एतद्-विशेषणापेक्षा कुतः ?  
+सापेक्षत्वे सर्व-शक्तित्व-हीनता किं न स्यात् ? 
+
+इति चेत् — 
+</details>
+
+
+
 <details><summary>English</summary>
 
 It **may be asked**:--
@@ -2150,6 +2163,13 @@ De ello se deduciría que Él **no es** omnipotente".
 पण्णद् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं चोद्यं  
+नारायण-शब्द-चरण-शब्दोक्ते गुण-विग्रह-योगे ऽपि सुकरम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 The same **objection could be made** against the qualities (of Nārāyaṇa) and the form (vigraha) (of Nārāyaṇa)  
@@ -2177,6 +2197,16 @@ que **se expresan** en las palabras Nārāyaṇa y caraṇau respectivamente.
 ऎऩ्ऱु यथा-प्रमाणम् कॊळ्ळिल्;
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> तेषाम् एतद्-विशेषणत्वात्,  
+तेषां वस्त्व्-अनुरूपोपयोग-विशेष-सत्त्वाच् च  
+तैः सर्वशक्तित्व-विरोधो न
+
+इति यथा-प्रमाणम् अभ्युपगमे, 
+</details>
+
+
 <details><summary>English</summary>
 
 If it **is maintained**, in accordance with the pramāṇas,  
@@ -2201,10 +2231,17 @@ la omnipotencia (del Señor) **no es anulada** por ello,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदु +++(उपायत्व-पुरुषकारत्वादि)+++ बहु-प्रमाण-प्राप्तम् आय्  
+इदु +++(उपायत्वम्)+++ बहु-प्रमाण-प्राप्तम् आय्  
 इङ्गु श्रीमच्-छब्दत्तिलुम् स्वारसिक-विशेषण-भावम् आऩ पत्नी-सम्बन्धत्तिलुम्  
 तुल्यम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं +++(उपायत्वम्)+++ बहु-प्रमाण-प्राप्ते,  
+इह श्रीमच्-छब्दे स्वारसिक-विशेषण-भाव--पत्नी-संबन्धे ऽपि तुल्यम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2236,6 +2273,14 @@ por su relación de **ser** la Esposa.
 “चरणौ” ऎऩ्गिऱ द्वि-वचन-मात्रत्तैक् कॊण्डु  
 श्री-सम्बन्धत्तै "उपलक्षणम् +++(न तूपायत्वबोधकम्)+++" ऎऩ्ऩिल्;
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं सति  
+"चरणाव्" इति द्विवचन-मात्रावलम्बनेन  
+श्री-संबन्ध+++(य्)+++ उपलक्षणत्वोक्तौ  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2272,6 +2317,12 @@ Un Upalakṣaṇa **no es** una característica esencial del objeto en cuestión
 गुणादि-सम्बन्धत्तैयुम् इप्-पडिच् चॊल्ल प्रसङ्गिक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+गुणादि-संबन्धे ऽप्य् एवम्-उक्तिः प्रसज्यते । 
+</details>
+
+
 <details><summary>English</summary>
 
 then the same thing would have to be said about His association with such things as qualities (and form). 
@@ -2297,6 +2348,16 @@ entonces habría que **decir** lo mismo
 
 ऎऩ्ऩिल्; इदु इङ्गुम् तुल्यम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> चरण-शब्दय् उपाय-वाचि-शब्द-समभिव्याहाराद्  
+उपयुक्त-गुण-विग्रह-विशिष्ट उपायो भवति
+
+इति विवक्षितम् इति चेत् —  
+इदम् अत्रापि तुल्यम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2343,6 +2404,17 @@ Lo mismo **puede decirse** también (de Śrī) aquí.
 इप् पुरुष-कारापेक्षैयिलुम् सर्व-शक्तित्व-विरोधम् प्रसङ्गिक्कुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवं सत्य् अस्या विशेषणत्वे ऽभ्युपगम्यमाने  
+सर्वशक्तित्व-विरोधः प्रसज्यत 
+
+इति वदताम्  
+एतत्-पुरुषकारापेक्षायाम् अपि  
+सर्वशक्तित्व-विरोधः प्रसज्येत । 
+</details>
+
+
 <details><summary>English</summary>
 
 Such being the case,  
@@ -2383,7 +2455,8 @@ al esperar que Śrī **sea** la **mediatriz**
 
 > “युवत्वादौ तुल्ये”  
 ( श्री-गुण-रत्न-कोशः ३४) 
-
+>
+> इति श्लोकोक्त-गुण-विभाग-रीत्या
 </details>
 
 <details><summary>English</summary>
@@ -2421,8 +2494,15 @@ compasión y paciencia, en Ti”.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> पुंस्त्व-पितृत्व-प्रशासितृत्वादिगळाले प्रतापोत्तरऩ् आय्, दण्डधरऩ् आय् निऱ्किऱ ईश्वरऩैप् पऱ्ऱव् इऴिवार्क्कु +++(=क्षुद्री-भावुकेभ्यः)+++
+> पुंस्त्व-पितृत्व-प्रशासितृत्वादिगळाले प्रतापोत्तरऩ् आय्, दण्डधरऩ् आय् निऱ्किऱ ईश्वरऩैप् पऱ्ऱव् इऴिवार्क्कु +++(=[आश्रयणाय] अवतरद्भ्यः)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> पुंस्त्व-पितृत्व-प्रशासितृत्वादिभिः प्रतापोत्तरं दण्ड-धरं सन्तम्  
+ईश्वरम् आश्रयितुं प्रवर्तमानानां   
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2459,6 +2539,16 @@ y del gobernante **que ejerce el control** y otros similares,
 ऎऩ्ऱु सॊल्लिल्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> स्त्रीत्व-मातृत्वादि-गुणातिशयेनास्याः  
+तम् आश्रयितुम् अस्माकं पुरुषकार-भावो ऽपि  
+ईश्वर-स्वातन्त्र्य-नियत 
+
+इत्य्-उक्तौ, 
+</details>
+
+
 <details><summary>English</summary>
 
 Lakṣmī who **has** gentleness, affection and the like  
@@ -2492,6 +2582,17 @@ Si **se dice** que esta **intercesión** como **mediadora** está sujeta a la vo
 ऎऩ्ऱु कॊण्डाल्  
 ऒरु प्रमाणत्तुक्कुम् विरोधम् इल्लै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> इत्थम् एव सह-धर्म-चारिण्या ऽनया  
+विशिष्टस्य सत एव शरण्यता ऽपि  
+ईश्वर-स्वातन्त्र्य-नियता
+
+इति स्वीकारे  
+न कस्यापि प्रमाणस्य निरोधो भवति ।
+</details>
+
 
 <details><summary>English</summary>
 
