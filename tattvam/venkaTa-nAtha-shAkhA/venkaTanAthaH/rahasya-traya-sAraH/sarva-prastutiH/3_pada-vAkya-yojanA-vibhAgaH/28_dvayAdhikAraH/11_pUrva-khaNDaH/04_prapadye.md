@@ -11,8 +11,102 @@ THE MEANING OF THE WORD PRAPADYE:
 EL SIGNIFICADO DE LA PALABRA PRAPADYE:
 </details>
 
+## बुद्ध्यर्थः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Since verbs meaning 'to go' or 'to move' mean also to have a knowledge of' or 'to know, the root pad in the word prapadye, which means 'to go' means, here the specific knowledge required in this context. The knowledge, here, is the sure knowledge or faith that the Lord will save (us). Since faith which is the most important of the accessories or aṅgas (to prapatti) is referred to here, the Sādhyopāya with all its accessories is indicated here. If it be asked how, the answer is as follows:- The preposition pra (in prapadye) discloses the greatness or intensity of the faith which is its excellence. This excellence or intensity of faith would arise only when one bears in mind the mediatorship (of Lakṣmī) and one's relationship with the Lord, the Lord's qualities and the like (form) which are respectively present in the words (Śrīmat) and Nārāyaṇa. By this intensity of faith, all doubts arising from the greatness of one's offences will disappear. This intensity of faith is necessary as stated in the śloka : "The Rākṣasas had no confidence in (the effectiveness of) the Brahma missile (astra ) with which Hanuman was bound. The result was that that missile which would never fail of its purpose became loose immediately. In the same way, if men had no faith in the efficacy of prapatti, it would be the same as if it had not been performed at all. Therefore prapatti gives mokṣa soon to those who have faith in it". The potency of this certainty of belief is well known from the following passages :- "If a man has no faith, he can never approach that Supreme Brahman", and “Hari is ever present in all those who have no doubts. The Lord of Lakṣmī (Mādhava ) is never present in those who doubt as a r'esult of their reasoning or logic". If this intense faith is present, doubts will never arise during any inquiry into Bhagavān's qualities and the like). Therefore intensity of faith at the first moment (of performing prapatti) which would never permit of later doubts is an accessory or aṅga of prapatti. Even if it is weak, Iśvara who has begun to show His special grace will make it full and perfect". Has not the Saviour graciously stated: “I will never give up the man who has come to me in the guise of a friend, whatever might happen'? Is not His grace of such a nature as is described in the śloka, about such things as even anjali :- "If a man has folded his hands in worship to Thy feet at any time and in any manner, it will destroy all his sins at that very instant and lead to the attainment of good things. It will never prove futile". Therefore even weakness of faith will grow into deep and intense faith (in those who have performed prapatti with all its aṅgas).
+“प्रपद्ये” ऎऩ्गिऱव् इडत्तिल्  
+गति-वाचिय् आऩ धातु  
+गत्य्-अर्थङ्गळ् बुध्य्-अर्थङ्गळागैयाले  
+इङ्ग् अपेक्षित-बुद्धि-विशेषत्तैच् चॊल्लुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+Since verbs **meaning** 'to go' or 'to move' **mean** also 'to **have a knowledge** of' or '**to know**',  
+the root pad in the word prapadye, which **means** 'to go'  
+**means**, here the specific **knowledge required** in this context. 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que los verbos **que significan** 'ir' o 'moverse' **significan** también '**tener un conocimiento** de' o '**saber**',  
+la raíz "pad" de la palabra prapadye, que **significa** 'ir'  
+**significa**, aquí el **conocimiento específico requerido** en este contexto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“प्रपद्ये” ऎऩ्गिऱविडत्तिल् गतिवाचियाऩ धातु गत्यर्थङ्गळ् बुध्यर्थङ्गळा कैयाले इङ्गपेक्षित बुद्धिविशेषत्तैच् चॊल्लुगिऱदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बुद्धिय् आवदु इव्व् इडत्तिल् 
+
+> “रक्षिष्यतीति विश्वासः”
+
+ऎऩ्गिऱव् अध्यवसायम्। 
+</details>
+
+<details><summary>English</summary>
+
+The knowledge, here, is the sure knowledge or faith that the Lord will save (us). 
+</details>
+
+<details><summary>Español</summary>
+
+El **conocimiento**, aquí, **es** el **conocimiento** seguro o la fe de que  
+el Señor (nos) **salvará**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+बुद्धियावदु इव्विडत्तिल् “रक्षिष्यतीति विश्वासः” ऎऩ्गिऱवध्यवसायम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्गङ्गळिल् सारम् आऩ विश्वासत्तै मुऩ्ऩ् इट्टुक् कॊण्डु  
+स-परिकरम् आऩ साध्योपायम् इङ्गे तोऱ्ऱुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+Since faith which **is** the most important of the accessories or aṅgas (to prapatti) **is referred** to here,  
+the Sādhyopāya with all its accessories **is indicated** here. 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que aquí **se hace referencia** a la fe, que **es** el más importante de los accesorios o aṅgas (a prapatti),  
+el Sādhyopāya con todos sus accesorios **está indicado** aquí.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अङ्गङ्गळिल् सारमाऩ विश्वासत्तै मुऩ्ऩिट्टुक्कॊण्डु सपरिकरमाऩ साध्योपायमिङ्गेदोऱ्ऱुगिऱदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+इङ्गु “प्र” ऎऩ्गिऱ उपसर्गम्  
+विश्वासत्तिऩ्-उडैय प्रकर्ष-रूपम् आऩ महत्तैयैक् काट्टुम्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; इङ्गु “प्र” ऎऩ्गिऱ उपसर्गम् विश्वासत्तिऩुडैय प्रकर्षरूपमाऩ महत्तैयैक्काट्टुम्।
+</details>
+
+
+If it be asked how, the answer is as follows:- The preposition pra (in prapadye) discloses the greatness or intensity of the faith which is its excellence. This excellence or intensity of faith would arise only when one bears in mind the mediatorship (of Lakṣmī) and one's relationship with the Lord, the Lord's qualities and the like (form) which are respectively present in the words (Śrīmat) and Nārāyaṇa. By this intensity of faith, all doubts arising from the greatness of one's offences will disappear. This intensity of faith is necessary as stated in the śloka : "The Rākṣasas had no confidence in (the effectiveness of) the Brahma missile (astra ) with which Hanuman was bound. The result was that that missile which would never fail of its purpose became loose immediately. In the same way, if men had no faith in the efficacy of prapatti, it would be the same as if it had not been performed at all. Therefore prapatti gives mokṣa soon to those who have faith in it". The potency of this certainty of belief is well known from the following passages :- "If a man has no faith, he can never approach that Supreme Brahman", and “Hari is ever present in all those who have no doubts. The Lord of Lakṣmī (Mādhava ) is never present in those who doubt as a r'esult of their reasoning or logic". If this intense faith is present, doubts will never arise during any inquiry into Bhagavān's qualities and the like). Therefore intensity of faith at the first moment (of performing prapatti) which would never permit of later doubts is an accessory or aṅga of prapatti. Even if it is weak, Iśvara who has begun to show His special grace will make it full and perfect". Has not the Saviour graciously stated: “I will never give up the man who has come to me in the guise of a friend, whatever might happen'? Is not His grace of such a nature as is described in the śloka, about such things as even anjali :- "If a man has folded his hands in worship to Thy feet at any time and in any manner, it will destroy all his sins at that very instant and lead to the attainment of good things. It will never prove futile". Therefore even weakness of faith will grow into deep and intense faith (in those who have performed prapatti with all its aṅgas).
 
 - On this expression of intense faith stating, "I have made up my mind to beg Thee for being my upāya", the prayer (to Iśvara ) to be the upāya may be taken here as having been made and this would be in accordance with the following pramāṇas: " When what a man desires cannot be attained with the help of any one else, a prayer is made, with intense faith, to one who has the required ability (to secure the object desired) that he should be the means or upāya. This prayer is prapatti; it is śaranagati!'. "The thoughts of praying:--- "May Thou alone be my upāya!” this is śaraṇāgati. Let this be done towards Bhagavān", "Those who say to Hari: “Be Thou my upāya"- never approach them”. The aṅga or accessory called " seeking protectorship” is contained within this and is not separate or different from this.
 
