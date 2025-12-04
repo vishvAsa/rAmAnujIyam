@@ -169,7 +169,7 @@ en el caso de cada adhikarī o persona competente,
 इङ्गु विशेषित्त् "उपायम्" ऎऩ्ऩ वेण्डिऱ्ऱु
 </details>
 
-<details><summary>४२तमाहोबिल-यतिः</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 अत्र विशिष्य उपाय इत्य्-उक्तेर् आवश्यकता 
 </details>
@@ -200,11 +200,20 @@ La **respuesta es**:-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपायान्तर-स्थानत्तिले सह-ज--कारुण्यादि-विशिष्टऩ् आऩ ईश्वरऩै निऱुत्तुगिऱ  
-प्रपत्ति-प्रकारन् दोऱ्ऱुगैक्क् आगव् आम्  
+उपायान्तर-स्थानत्तिले सह-ज--कारुण्यादि-विशिष्टऩ् आऩ ईश्वरऩै  
+निऱुत्तुगिऱ प्रपत्ति-प्रकारन्  
+दोऱ्ऱुगैक्क् आगव् आम्  
 अत्-तऩै।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+उपायान्तर-स्थाने  
+सहज-कारुण्यादि-विशिष्टस्य +ईश्वरस्य  
+अवस्थापन-रूपस्य प्रपत्ति-प्रकारस्य  
+प्रत्यायनार्थेत्य् एतावद् एव ।
+
+</details>
 
 
 <details><summary>English</summary>
@@ -240,6 +249,16 @@ Iśvara quien **está dotado** de cualidades como la compasión natural
 
 ऎऩ्ऩिल्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अत्र भक्ति-योग-स्थाने प्रपत्तौ तिष्ठन्त्याम्,  
+ईश्वरस्योपायन्तर-स्थाने स्थितिः कथम् 
+
+इति चेत् — 
+</details>
+
+
 
 
 <details><summary>English</summary>
@@ -285,6 +304,15 @@ La respuesta **es la siguiente**:-
 ईश्वरऩ्-उडैय सहज-कारुण्यादि-- स्व-भाव--विशेषम् ।  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अङ्ग-रूपेण प्रपत्तिं कृत्वा  
+उपाय-रूपेण उपासनम् अप्य् अनुष्ठाय प्राप्यस्य फलस्य  
+तम् उपायम् अन्तरैव प्रपत्ति-मात्रेण प्राप्तेर् मूलम्  
+ईश्वरस्य सहज-कारुण्यादि-स्वभाव-विशेषः 
+</details>
+
+
 <details><summary>English</summary>
 
 The fruit (of spiritual **striving** ) **is to be attained** by  
@@ -326,6 +354,16 @@ Esto **se vuelve posible** sólo porque Iśvara **está** naturalmente **poseíd
 ऎऩ्गिऱदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+… इत्य् अतः,  
+
+> अकिंचनस्येश्वर उपायन्तर-स्थाने ऽवस्थित 
+
+इत्य् उच्यते ।
+</details>
+
+
 <details><summary>English</summary>
 
 That **is** why it **is said** that  
@@ -357,6 +395,12 @@ en la posición de otros upāyas.
 अभिमत-फलत्तुक्क् उपायम् आग विहितम् आऩ  
 भरञ् चुमक्क माट्टादव् अकिञ्चनऩ् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अभिमत-फलस्योपायतया विहितं भरं वोढुम् असमर्थेनाकिञ्चनेन, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -393,6 +437,15 @@ y **no puedo soportar** la carga o responsabilidad (de **adoptar** esos upāyas)
 ऎऩ्ऱ् उपायान्तर-स्थानत्तिले निवेशिप्पिक्कैय् आवदु;
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+गोप्तृत्वेनावस्थितस्य तस्य  
+
+> "त्वं ममोपायो भव" 
+
+इत्य् उपायन्तर-स्थाने निवेशनं नाम -  
+</details>
+
 <details><summary>English</summary>
 
 **places** Iśvara  
@@ -426,6 +479,16 @@ quien **se mantiene** como el Protector en la posición de otros upāyas
 
 ऎऩ्गै।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> मम शिरसि उपायन्तरम् अनारोप्य,  
+तद्-वहने जनिष्यमाणस्याभिमतस्य सर्वस्यापि प्रदानं  
+समर्थ-कारुणिकस्य तवैव भरत्वेन स्वीकरणीयम् 
+
+इति प्रार्थनम् ॥ 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -473,6 +536,14 @@ que **podría obtenerse** al **soportar** esa carga
 इव्व् अंशत्तै +++(गोप्तृत्व-वरणाद्य्-अङ्गान्तरेभ्यो)+++ निष्कर्षित्तु  
 निक्षेपत्तै "अङ्गिय्" ऎऩ्ऱु सॊल्लुगिऱदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमम् अंशं  
++++(गोप्तृत्व-वरणाद्य्-अङ्गान्तरेभ्यो)+++ निष्कृष्य  
+निक्षेपो ऽङ्गीत्य् उच्यते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -583,6 +654,12 @@ que **podría obtenerse** al **soportar** esa carga
 इदु स्व-निर्भरत्व-पर्यन्तम्। +++(4)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं स्व-निर्भरत्व-पर्यन्तम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 This includes the man's **being** without the **responsibility** for any **effort** on his own part. 
@@ -613,6 +690,17 @@ Esto **incluye** el hombre **estar** sin la **responsabilidad** de ningún **esf
 
 ऎऩ्गिऱदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमं निष्कर्षम् अभिप्रेत्यैव 
+
+> “सांप्रतं त्व् एष उपायार्थैक-वाचकः” 
+
+इत्य् उच्यते । [[P338]]
+</details>
+
+
 
 <details><summary>English</summary>
 
