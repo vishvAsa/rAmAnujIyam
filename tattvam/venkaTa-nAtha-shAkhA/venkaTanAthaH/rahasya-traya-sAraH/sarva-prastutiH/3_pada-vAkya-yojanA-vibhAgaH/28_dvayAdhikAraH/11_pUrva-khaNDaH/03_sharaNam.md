@@ -537,6 +537,14 @@ que **podría obtenerse** al **soportar** esa carga
 निक्षेपत्तै "अङ्गिय्" ऎऩ्ऱु सॊल्लुगिऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इमम् अंशं  
++++(गोप्तृत्व-वरणाद्य्-अङ्गान्तरेभ्यो)+++ निष्कृष्य  
+निक्षेपो ऽङ्गीत्य् उच्यते । 
+</details>
+
+
 <details><summary>English</summary>
 
 **Separating** this aspect (from others, viz., the accessories), nikṣepa or bharanyāsa **is called** the primary means or aṅgī (and not the accessory means). 
@@ -646,6 +654,12 @@ que **podría obtenerse** al **soportar** esa carga
 इदु स्व-निर्भरत्व-पर्यन्तम्। +++(4)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं स्व-निर्भरत्व-पर्यन्तम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 This includes the man's **being** without the **responsibility** for any **effort** on his own part. 
@@ -676,6 +690,17 @@ Esto **incluye** el hombre **estar** sin la **responsabilidad** de ningún **esf
 
 ऎऩ्गिऱदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमं निष्कर्षम् अभिप्रेत्यैव 
+
+> “सांप्रतं त्व् एष उपायार्थैक-वाचकः” 
+
+इत्य् उच्यते । [[P338]]
+</details>
+
+
 
 <details><summary>English</summary>
 
