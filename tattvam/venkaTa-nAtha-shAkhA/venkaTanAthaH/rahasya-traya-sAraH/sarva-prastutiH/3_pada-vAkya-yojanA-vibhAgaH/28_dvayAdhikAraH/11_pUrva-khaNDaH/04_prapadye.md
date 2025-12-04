@@ -1,7 +1,16 @@
 +++
 title = "०४ प्रपद्ये"
 +++
+<details><summary>English</summary>
+
 THE MEANING OF THE WORD PRAPADYE:
+</details>
+
+<details><summary>Español</summary>
+
+EL SIGNIFICADO DE LA PALABRA PRAPADYE:
+</details>
+
 
 Since verbs meaning 'to go' or 'to move' mean also to have a knowledge of' or 'to know, the root pad in the word prapadye, which means 'to go' means, here the specific knowledge required in this context. The knowledge, here, is the sure knowledge or faith that the Lord will save (us). Since faith which is the most important of the accessories or aṅgas (to prapatti) is referred to here, the Sādhyopāya with all its accessories is indicated here. If it be asked how, the answer is as follows:- The preposition pra (in prapadye) discloses the greatness or intensity of the faith which is its excellence. This excellence or intensity of faith would arise only when one bears in mind the mediatorship (of Lakṣmī) and one's relationship with the Lord, the Lord's qualities and the like (form) which are respectively present in the words (Śrīmat) and Nārāyaṇa. By this intensity of faith, all doubts arising from the greatness of one's offences will disappear. This intensity of faith is necessary as stated in the śloka : "The Rākṣasas had no confidence in (the effectiveness of) the Brahma missile (astra ) with which Hanuman was bound. The result was that that missile which would never fail of its purpose became loose immediately. In the same way, if men had no faith in the efficacy of prapatti, it would be the same as if it had not been performed at all. Therefore prapatti gives mokṣa soon to those who have faith in it". The potency of this certainty of belief is well known from the following passages :- "If a man has no faith, he can never approach that Supreme Brahman", and “Hari is ever present in all those who have no doubts. The Lord of Lakṣmī (Mādhava ) is never present in those who doubt as a r'esult of their reasoning or logic". If this intense faith is present, doubts will never arise during any inquiry into Bhagavān's qualities and the like). Therefore intensity of faith at the first moment (of performing prapatti) which would never permit of later doubts is an accessory or aṅga of prapatti. Even if it is weak, Iśvara who has begun to show His special grace will make it full and perfect". Has not the Saviour graciously stated: “I will never give up the man who has come to me in the guise of a friend, whatever might happen'? Is not His grace of such a nature as is described in the śloka, about such things as even anjali :- "If a man has folded his hands in worship to Thy feet at any time and in any manner, it will destroy all his sins at that very instant and lead to the attainment of good things. It will never prove futile". Therefore even weakness of faith will grow into deep and intense faith (in those who have performed prapatti with all its aṅgas).
 
