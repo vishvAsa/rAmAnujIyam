@@ -399,7 +399,6 @@ se **ha determinado** como un ajuste (solo) para las tres castas superiores en l
 
 वैदिकानां सत्य-वचनादीनाम् इव  
 प्रपत्तेर् अपि सामान्य-धर्मत्वात्  
-
 </details>
 
 
