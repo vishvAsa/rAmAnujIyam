@@ -136,6 +136,8 @@ With clarity in the prameya-s in vedArthasangraha (or presumably shrI-bhAShya), 
 For S, BS does not resolve the upaniShadic contradictions (I heard that somewhere he clearly says/ implies that the sUtra-s have to be somehow interpreted in accordance with upaniShads - ie his bhAShya-s thereof).
 
 ## स्मृतिः
+साधारणविचारो ऽन्यत्र द्रष्टव्यः। 
+
 ### पुराणापेक्षया बलीयस्त्वम्  
 
 श्रीभाष्ये “तद्-उपर्य् अपि बादरायणः संभवात्” इति-सूत्रीये  
