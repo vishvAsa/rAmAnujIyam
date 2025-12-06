@@ -1066,13 +1066,222 @@ hay **esperanza** del fruto deseado] .
 उक्तप्रकारत्ताले प्रार्थनाविषयत्तिल् अंशभेदम् तोऱ्ऱुगैक्कागप् पिरिय अपेक्षिक्किऱदागैयाले मिगुदियिल्लै। 
 </details>
 
+### उत्तर-खण्डे फल-स्वरूप-व्यक्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्तर-खण्डत्तिल् अपेक्षणीय-फल-विशेष-व्यञ्जकम् आऩ  
+वाक्यत्तिऩ्-उडैयव् अन्वय-मात्रत्तुक्क् आग  
+प्रार्थना-पदम् +++("भवेयम्" इति)+++ अध्याहरित्तालुम्  
++++(पूर्व-खण्डे ऽव्यक्तम् फलं प्रार्थ्य)+++  
++++(उत्तर-खण्डे)+++ फल-स्वरूप-मात्रत्तिले तात्पर्यम् ऎऩ्ऱु परिहारम् आगवुम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+It may also **be explained** thus:  
+though the word **signifying prayer** (bhaveyam) **has to be supplied**  
+in order to make the second part a complete sentence,  
+in the first part, **praying** for Iśvara becoming the upāya,  
+the fruit **is asked** for, but in a general way,  
+while, in the second part, the purport **is** to specify the nature of that fruit.
+</details>
+
+<details><summary>Español</summary>
+
+También **se puede explicar** así:  
+aunque la palabra **que significa oración** (bhaveyam) **tiene que ser suministrada**  
+Para que la segunda parte **sea** una frase completa,  
+
+en la primera parte, **orando** para que Iśvara **se convierta** en el upāya,  
+la fruta **se pide**, pero de manera general,  
+
+mientras que, en la segunda parte, el objetivo **es especificar** la naturaleza de ese fruto.
+</details>
 
 
-It may also be explained thus: though the word signifying prayer (bhaveyam) has to be supplied in order to make the second part a complete sentence, in the first part praying for Iśvara becoming the upāya, the fruit is asked for, but in a general way, while, in the second part, the purport is to specify the nature of that fruit.
+<details><summary>मूलम्</summary>
 
-The sum and substance of the first and the second parts, when duly determined, will amount to saying this :- "I am destitute of all upāyas; therefore in order that Thou mayst stand in the place of these upãyas and grant me the specific end that is desired, I surrender the responsibility for the protection of myself as stated ( in the śāstras)". Thus it (the Dvaya) is a surrender of the responsibility (for protection) accompanied by a special prayer. This surrender, too, is the meaning of prapadye which indicates resolution (I resolve). We have (already) proved in many places with the help of pramāṇas and on the authority of traditional practice that the surrender of responsibility with all its accessories is the gist of the śāstras on prapatti (vide chapters 11 and 12 on Parikaravibhāga and Sāṅgaprapadana).
+उत्तरखण्डत्तिलपेक्षणीय-फलविशेष व्यञ्जकमाऩ वाक्यत्तिऩुडैयवन्वयमात्रत्तुक्काग प्रार्थनापदमध्याहरित् तालुम् फलस्वरूपमात्रत्तिले तात्पर्यमॆऩ्ऱु परिहारमागवुमाम्। 
+</details>
 
-The primary importance of the nikṣepa (surrender) which is stated in another mantra for the performing of prapatti is the same here also, namely: "By this mantra alone should a man surrender himself to me. He who has thus surrendered what ought to be surrendered will become one who has done what he ought to do".
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्वोत्तर-खण्डङ्गळ् इरण्डुक्कुन् तिरण्ड+++(=सार)+++ पॊरुळ् निष्कर्षिक्कुम् इडत्तिल्  
+
+> अकिञ्चनऩ् आऩव् ऎऩक्कु  
+नी उपायान्तर-स्थानत्तिले निऩ्ऱु  
+फल-विशेषत्तैत् तरुगैक्क् आग  
+यथोक्तम् आऩव् आत्म-रक्षा-भर-निक्षेपम् पण्णुगिऱेऩ् 
+
+ऎऩ्ऱु ऒरु विशिष्ट-प्रार्थनान्वित--भर-समर्पणम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+The sum and substance of the first and the second parts, when duly **determined**,  
+**will amount to saying** this :- 
+
+> "I **am destitute** of all upāyas;  
+therefore in order that Thou **mayst stand** in the place of these upãyas  
+and **grant me** the specific end that **is desired**,  
+I **surrender** the **responsibility** for the **protection** of myself as **stated** ( in the śāstras)". 
+
+Thus it (the Dvaya) **is** a **surrender** of the **responsibility** (for **protection**)  
+**accompanied** by a special **prayer**. 
+</details>
+
+<details><summary>Español</summary>
+
+La suma y sustancia de la primera y la segunda parte, cuando **estén** debidamente **determinadas**,  
+**equivaldrá a decir** esto:- 
+
+> "Yo **estoy desprovisto** de todos los upāyas;  
+por lo tanto, para que Tú **puedas estar** en el lugar de estos upãyas  
+y **concédeme** el fin específico que **se desea**,  
+>
+> Yo **entrego** la **responsabilidad** de la **protección** de mí mismo como **declarado** (en los śāstras)".
+
+Por lo tanto (el Dvaya) **es** una **rendición** de la **responsabilidad** (de **protección**)  
+**acompañado** de una **oración** especial. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पूर्वोत्तरखण्डङ्गळिरण्डुक्कुन् दिरण्ड पॊरुळ् निष्कर्षिक्कुमिडत्तिल् अकिञ्चनऩाऩ वॆऩक्कु नी उपायान्तरस्थानत्तिले निऩ्ऱु फलविशेषत्तैत् तरुगैक्काग यथोक्तमाऩवात्मरक्षाभर निक्षेपम् पण्णुगिऱेऩॆऩ्ऱु ऒरु विशिष्टप्रार्थनान्वितभरसमर्पणमाम्। 
+</details>
+
+## समर्पणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस् समर्पणमुम् +++("प्रपद्ये"→)+++अध्यवसाय-शब्दार्थम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+This **surrender**, too, **is** the **meaning** of prapadye  
+which **indicates resolution** (I **resolve**). 
+</details>
+
+<details><summary>Español</summary>
+
+Esta **rendición** también **es** el **significado** de prapadye.  
+que **indica resolución** (Yo **resuelvo**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इस् समर्पणमुमध्यवसायशब्दार्थमाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि स-परिकरम् आऩ भर-समर्पणमे  
+प्रपत्ति-शास्त्रार्थम् 
+
+ऎऩ्ऩुम् इडम्  
+प्रमाण-संप्रदायङ्गळाले पलव् इडत्तिलुं समर्थित्तोम्। 
+</details>
+
+<details><summary>English</summary>
+
+We **have (already) proved** in many places  
+with the help of pramāṇas and on the authority of traditional practice  
+that the **surrender** of **responsibility** with all its accessories  
+is the gist of the śāstras on prapatti  
+(**vide** chapters 11 and 12 on Parikaravibhāga and Sāṅgaprapadana).
+</details>
+
+<details><summary>Español</summary>
+
+**Lo hemos demostrado (ya)** en muchos lugares  
+con la **ayuda** de pramāṇas y sobre la autoridad de la **práctica** tradicional  
+que la **rendición** de la **responsabilidad** con todos sus accesorios  
+es la esencia de los śāstras sobre prapatti  
+(**vide** capítulos 11 y 12 sobre Parikaravibhāga y Sāṅgaprapadana).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सपरिकरमाऩ भरसमर्पणमे प्रपत्ति शास्त्रार्थमॆऩ्ऩुमिडम् प्रमाणसंप्रदायङ्गळाले पलविडत्तिलुंसमर्थित्तोम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अनेनैव तु मन्त्रेण  
+स्वात्मानं मयि **निक्षिपेत्** ।  
+मयि **निक्षिप्त-कर्तव्यः**  
+**कृत-कृत्यो भविष्यति**॥”  
+( सात्यकि-तन्त्रम्) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अनेनैव तु मन्त्रेण  
+स्वात्मानं मयि **निक्षिपेत्** ।  
+मयि **निक्षिप्त-कर्तव्यः**  
+**कृत-कृत्यो भविष्यति**॥”  
+( सात्यकि-तन्त्रम्) 
+</details>
+
+<details><summary>English</summary>
+
+> "By this mantra alone  
+**should** a man **surrender** himself to me.  
+He **who has** thus **surrendered** what **ought to be surrendered**  
+**will become** one who **has done** what he **ought to do**".
+</details>
+
+<details><summary>Español</summary>
+
+> "Solo con este mantra  
+**¿Debería** un hombre **entregarse** a mí?  
+El **que** así **entregó** lo que **debería entregarse**  
+**será** alguien que **ha hecho** lo que **debe hacer**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अनेनैव तु मन्त्रेण स्वात्मानं मयि निक्षिपेत् । मयि निक्षिप्तकर्तव्यः कृतकृत्यो भविष्यति”( सात्यकि-तन्त्रम्)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु प्रपत्ति-मन्त्रान्तरत्तिऱ् सॊऩ्ऩ कर्तव्य-निक्षेप-प्राधान्यम्  
+इङ्गुम् तुल्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+The primary importance of the nikṣepa (surrender)  
+which **is stated** in another mantra for the **performing** of prapatti (as above)  
+**is** the same here also. 
+
+</details>
+
+<details><summary>Español</summary>
+
+La importancia primordial de la nikṣepa (**rendición**)  
+que **se dice** en otro mantra para la **ejecución** de prapatti (como lo anterior)  
+**es** lo mismo aquí también.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु प्रपत्तिमन्त्रान्तरत्तिऱ्सॊऩ्ऩ कर्तव्यनिक्षेपप्राधान्यमिङ्गुम् तुल्यम्। 
+</details>
+
+
+
+
+
 
 The first person singular in prapadye (I resolve) which shows one to be the doer, proves that the way to win the favour of Siddhopāya (Iśvara), who has the gift of mokṣa in His power, is some form of vyāja (bhakti  or prapatti) which can be accomplished by the aspirant to mukti in accordance with the śāstras.
 
