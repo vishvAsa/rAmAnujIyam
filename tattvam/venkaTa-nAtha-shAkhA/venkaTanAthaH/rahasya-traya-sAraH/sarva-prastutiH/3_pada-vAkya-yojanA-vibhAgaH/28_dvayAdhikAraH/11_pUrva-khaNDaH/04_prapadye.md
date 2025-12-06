@@ -283,7 +283,7 @@ a aquellos que **tienen** fe en él".
 तथा पुंसामविस्रंभात् प्रपत्तिः प्रच्युता भवेत् । तस्माद्विस्रंभयुक्तानां मुक्तिं दास्यति सा चिरात्”( सनत्कुमारसंहिता) ऎऩ्ऱु सॊल्लिऱ्ऱु। 
 </details>
 
-## व्यवसाय-प्रभावः
+## व्यवसाय-प्रामुख्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव् व्यवसायत्तिऩ्-उडैय प्रभावम् 
@@ -325,11 +325,47 @@ La potencia de esta certeza de creencia.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “निस्संशयेषु सर्वेषु  
-नित्यं वसति वै हरिः ।  
-ससंशयान् हेतुबलान्  
-नाध्यावसति माधव”( भारतम् शान्ति-पर्व ३५९-७१) 
+नित्यं **वसति** वै हरिः ।  
+ससंशयान् हेतु-बलान्  
+**नाध्यावसति** माधव”  
+( भारतम् शान्ति-पर्व ३५९-७१) 
 
 इत्य्-आदिगळिलुम् सुप्रसिद्धम्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “निस्संशयेषु सर्वेषु  
+नित्यं **वसति** वै हरिः ।  
+ससंशयान् हेतु-बलान्  
+**नाध्यावसति** माधव”  
+( भारतम् शान्ति-पर्व ३५९-७१) 
+
+
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> “Hari **is** ever **present**  
+in all those who **have no** doubts.  
+The Lord of Lakṣmī (Mādhava ) **is never present**  
+in those **who doubt** as a **result** of their reasoning or logic". 
+
+\- (this) is well known from the above passages.
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> “Hari **está** siempre **presente**  
+en todos aquellos que **no tienen** dudas.  
+El Señor de Lakṣmī (Mādhava) **nunca está presente**  
+en aquellos **que dudan** como **resultado** de su razonamiento o lógica".
+
+\- (esto) **es** bien **conocido** por los pasajes anteriores.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -338,11 +374,278 @@ La potencia de esta certeza de creencia.
 </details>
 
 
-is well known from the above passages :- 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-and “Hari is ever present in all those who have no doubts. The Lord of Lakṣmī (Mādhava ) is never present in those who doubt as a r'esult of their reasoning or logic". If this intense faith is present, doubts will never arise during any inquiry into Bhagavān's qualities and the like). Therefore intensity of faith at the first moment (of performing prapatti) which would never permit of later doubts is an accessory or aṅga of prapatti. Even if it is weak, Iśvara who has begun to show His special grace will make it full and perfect". Has not the Saviour graciously stated: “I will never give up the man who has come to me in the guise of a friend, whatever might happen'? Is not His grace of such a nature as is described in the śloka, about such things as even anjali :- "If a man has folded his hands in worship to Thy feet at any time and in any manner, it will destroy all his sins at that very instant and lead to the attainment of good things. It will never prove futile". Therefore even weakness of faith will grow into deep and intense faith (in those who have performed prapatti with all its aṅgas).
+इम् महा-विश्वासम् उण्ड् आऩाल्  
+पिऩ्बु विमर्श-कालत्तिल्  
+ऒरुक् कालुम् संशयम् पिऱवादु। 
+</details>
 
-- On this expression of intense faith stating, "I have made up my mind to beg Thee for being my upāya", the prayer (to Iśvara ) to be the upāya may be taken here as having been made and this would be in accordance with the following pramāṇas: " When what a man desires cannot be attained with the help of any one else, a prayer is made, with intense faith, to one who has the required ability (to secure the object desired) that he should be the means or upāya. This prayer is prapatti; it is śaranagati!'. "The thoughts of praying:--- "May Thou alone be my upāya!” this is śaraṇāgati. Let this be done towards Bhagavān", "Those who say to Hari: “Be Thou my upāya"- never approach them”. The aṅga or accessory called " seeking protectorship” is contained within this and is not separate or different from this.
+<details><summary>English</summary>
+
+If this intense faith **is present**,  
+doubts **will never arise** during any inquiry into Bhagavān's qualities and the like. 
+</details>
+
+<details><summary>Español</summary>
+
+Si esta fe intensa **está presente**,  
+Las dudas **nunca surgirán** durante cualquier **investigación** sobre las cualidades de Bhagavān y cosas similares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इम् महाविश्वासमुण्डाऩाल् पिऩ्बु विमर्शकालत्तिलॊरुक्कालुम् संशयम् पिऱवादु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल्, पिऩ्ब् ऒरुक् कालुम्  
+इव् विषयत्तिल् संशयम् पिऱवाद बडिय् आऩ  
+प्रथम-क्षणत्तिल् महा-विश्वासम्  
+प्रपत्तिक्क् अङ्गम्।
+</details>
+
+<details><summary>English</summary>
+
+Therefore intensity of faith at the first moment (of **performing** prapatti)  
+which **would never permit** of later doubts  
+**is** an accessory or aṅga of prapatti.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, intensidad de la fe en el primer momento (de **realizar** prapatti)  
+que **nunca permitiría** dudas posteriores  
+**es** un accesorio o aṅga de prapatti.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् पिऩ्बॊरुक् कालुम् इव्विषयत्तिल् संशयम् पिऱवादबडियाऩ प्रथमक्षणत्तिल् महाविश्वासम् प्रपत्तिक्कङ्गम्।
+</details>
+
+## भगवता पूरणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु मन्दम् आय् इरुन्दालुम्  
+विशेषित्तुक् कटाक्षिक्कत् तुडङ्गिऩ ईश्वरऩ्  
+शेष-पूरणम् पण्णुम्। 
+</details>
+
+<details><summary>English</summary>
+
+Even if it **is** weak,  
+Iśvara who **has begun** to show His special grace  
+**will make it** full and perfect. 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso si **es** débil,  
+Iśvara quien **ha comenzado** a **mostrar** Su gracia especial  
+**lo hará** completo y perfecto.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु मन्दमायिरुन्दालुम् विशेषित्तुक् कटाक्षिक्कत्तुडङ्गिऩ ईश्वरऩ् शेषपूरणम्बण्णुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “मित्र-भावेन **संप्राप्तं**  
+**न त्यजेयं** कथञ्चन”  
+( रामायणम् - युद्ध-काण्डम् १८-३) 
+
+ऎऩ्ऱु शरण्यऩ् अरुळिच् चॆय्दाऩ् इऱे।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “मित्र-भावेन **संप्राप्तं**  
+**न त्यजेयं** कथञ्चन”  
+( रामायणम् - युद्ध-काण्डम् १८-३) 
+
+</details>
+
+<details><summary>English</summary>
+
+**Has not** the Saviour graciously **stated**: 
+
+> “I **will never give up** the man  
+who **has come** to me  
+in the guise of a friend,  
+whatever might happen'. 
+
+</details>
+
+<details><summary>Español</summary>
+
+**No** el Salvador amablemente **declaró**: 
+
+> “Yo **nunca renunciaré** al hombre  
+quien **ha venido** a mí  
+bajo la **apariencia** de un amigo,  
+**pase** lo que **pase**'.
+</details>
+
+<details><summary>मूलम्</summary>
+
+“मित्रभावेन संप्राप्तं न त्यजेयं कथञ्चन्न”( रामायणम् - युद्ध-काण्डम् १८-३) ऎऩ्ऱुशरण्यऩरुळिच्चॆय्दाऩिऱे।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अञ्जल्य्-आदिगळुम् अगप् पड  
+
+> (त्वद्-अङ्घ्रिम् **उद्दिश्य** कदाऽपि केनचिद्  
+यथा तथा वाऽपि सकृत् **कृतो ऽञ्जलिः** ।  
+तदैव **मुष्णात्य्** अ-शुभान्य् अशेषतः  
+शुभानि **पुष्णाति**,) **न** जातु **हीयते** ॥  
+( आळवन्दार्स्तोत्रम् २८) 
+
+ऎऩ्ऩुम् पडिय् इऱेय् इरुप्पदु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> (त्वद्-अङ्घ्रिम् **उद्दिश्य** कदाऽपि केनचिद्  
+यथा तथा वाऽपि सकृत् **कृतो ऽञ्जलिः** ।  
+तदैव **मुष्णात्य्** अ-शुभान्य् अशेषतः  
+शुभानि **पुष्णाति**,) **न** जातु **हीयते** ॥  
+( आळवन्दार्स्तोत्रम् २८) 
+</details>
+
+<details><summary>English</summary>
+
+**Is not** His grace of such a nature  
+as **is described** in the śloka,  
+about such things as even anjali :- 
+
+> "If a man **has folded** his hands in **worship** to Thy feet  
+at any time and in any manner,  
+it **will destroy** all his sins at that very instant  
+and **lead** to the **attainment** of good things.  
+It **will never prove** futile". 
+</details>
+
+<details><summary>Español</summary>
+
+**¿No es** Su gracia de tal naturaleza  
+como **se describe** en el śloka,  
+sobre cosas como incluso anjali? - 
+
+> "Si un hombre **ha cruzado** sus manos en **adoración** a Tus pies  
+en cualquier momento y de cualquier manera,  
+**destruirá** todos sus pecados en ese mismo instante  
+y **conducir** a la **consecución** de cosas buenas.  
+**Nunca resultará** inútil".
+</details>
+
+<details><summary>मूलम्</summary>
+
+अञ्जल्यादिगळुमगप्पड “न जातु हीयते”( आळवन्दार्स्तोत्रम् २८) ऎऩ्ऩुम् पडियिऱेयिरुप्पदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् मन्द-विश्वासमुम् महा-विश्वास-पर्यन्तआम्।
+</details>
+
+<details><summary>English</summary>
+
+Therefore even weakness of faith **will grow** into deep and intense faith  
+(in those who **have performed** prapatti with all its aṅgas).
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, incluso la debilidad de la fe **crecerá** hasta **convertirse** en una fe profunda e intensa.  
+(en aquellos que **han realizado** prapatti con todos sus aṅgas).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् मन्दविश्वासमुम् महाविश्वासपर्यन्तमाम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि  
+
+> उपायम् आगव् अध्यवसिक्किऱेऩ् 
+
+ऎऩ्ऱु महाविश्वासत्तैच् चॊल्ल
+</details>
+
+<details><summary>English</summary>
+
+On this **expression** of intense faith **stating**,  
+
+> "I **have made up** my mind  
+to **beg** Thee for **being** my upāya", 
+</details>
+
+<details><summary>Español</summary>
+
+Ante esta **expresión** de intensa fe **que afirma**,  
+
+> "Ya **he tomado** una decisión  
+para **rogar** que **seas** mi upāya",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि उपायमागवध्यवसिक्किऱेऩॆऩ्ऱु महाविश्वासत्तैच् चॊल्ल
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अनन्यसाध्ये स्वाभीष्टे  
+महा-विश्वास-पूर्वकम् ।  
+तद्-एकोपायता **याच्ञा**  
+**प्रपत्तिश्** शरणागतिः”, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अनन्यसाध्ये स्वाभीष्टे  
+महा-विश्वास-पूर्वकम् ।  
+तद्-एकोपायता **याच्ञा**  
+**प्रपत्तिश्** शरणागतिः”, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अनन्यसाध्ये स्वाभीष्टे महाविश्वासपूर्वकम् । तदेकोपायता याच्ञा प्रपत्तिश्शरणागतिः”, 
+</details>
+
+
+the prayer (to Iśvara ) to be the upāya may be taken here as having been made and this would be in accordance with the following pramāṇas: 
+
+> " When what a man **desires cannot be attained**  
+with the **help** of any one else,  
+a **prayer is made**, with intense faith,  
+to one who **has** the required ability (to **secure** the object **desired**)  
+that he **should be** the means or upāya.  
+This **prayer is** prapatti;  
+it **is** śaranagati!'.  
+
+"The thoughts of praying:--- "May Thou alone be my upāya!” this is śaraṇāgati. Let this be done towards Bhagavān", "Those who say to Hari: “Be Thou my upāya"- never approach them”. The aṅga or accessory called " seeking protectorship” is contained within this and is not separate or different from this.
 
 It may be asked:--" What is the prayer in this first part of Dvaya for? Since in the second part, there is a prayer for the attainment of the desired end and the removal of hindrances there. to, the prayer here cannot be for the same as, in that case, there would be repetition or redundancy. When prapatti is adopted as an aṅga or accessory, the prayer might be said to be for bhakti  as an upāya; but here, since prapatti is adopted as a direct and independent means, there cannot be any upāya which can be acquired and for which a prayer could be made ( what, then, can this prayer be for?)". The answer to this question is as follows:- "The award of the desired fruit which finds a place (in the second part of Dvaya ) is common to all adhikārīs, whatever be the upāya (bhakti  or prapatti) that they adopt. Since prapatti is not an aṅga or accessory for any other upāya in the case of one who is destitute of any other upāya and who makes a surrender of every. thing (svarūpa - bhara . and phala), its superiority (to other upāyas ) consists in the Saviour Himself standing in the place of the upāya and granting the fruit or desired end. Therefore what is prayed for here is the point that Iśvara should accept the responsibility of protection (bharasvīkāra ). But it may be asked again :- " Will not this prayer that the Lord should stand as the upāya mean the same as a prayer that He should grant the desired fruit or object withont any other upāya being required as a further condition coming in between? In that case will not the prayer in the second part of Dvaya be redundant!" The answer to this question is as follows:- Since in the prayer of the above description (in the second part), what is required is stated separately because it is different in some points from the expectation in the prayer (in the first part), there is no redundancy; [(i.e.) in the prayer for Iśvara being the upāya, there is no expectation of any fruit except that He should be the upāya ; in the prayer in the second part there is expectation of the desired fruit] . It may also be explained thus: though the word signifying prayer (bhaveyam) has to be supplied in order to make the second part a complete sentence, in the first part praying for Iśvara becoming the upāya, the fruit is asked for, but in a general way, while, in the second part, the purport is to specify the nature of that fruit.
 
