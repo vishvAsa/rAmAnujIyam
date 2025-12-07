@@ -1279,13 +1279,254 @@ que **se dice** en otro mantra para la **ejecución** de prapatti (como lo anter
 </details>
 
 
+## उत्तम-पुरुषः - वशी-करणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मोक्ष-प्रदम् आऩ सिद्धोपायत्तुक्कु  
+मुमुक्षुविऩ् पक्कलिलेय् उळ्ळद्  
+ऒरु शास्त्रीयम् आऩ साध्य-व्याजम्  
+**वशी-करणम्** 
+
+ऎऩ्ऩुम् इडम्  
+तऩ्ऩै कर्ताव् आगक् काट्टुगिऱ उत्तमऩाले सिद्धम्।
+</details>
+
+<details><summary>English</summary>
+
+The first person singular in prapadye (**I resolve**)  
+which **shows** one to be the **doer**,  
+**proves** that the way to win the favour of Siddhopāya (Iśvara),  
+who **has** the gift of mokṣa in His power,  
+**is** some form of vyāja (bhakti  or prapatti)  
+which **can be accomplished** by the **aspirant** to mukti  
+in accordance with the śāstras.
+</details>
+
+<details><summary>Español</summary>
+
+La primera persona del singular en prapadye (**resuelvo**)  
+que **muestra** que uno es el **hacedor**,  
+**prueba** que 
+
+la manera de **ganarse** el favor de Siddhopāya (Iśvara),  
+quien **tiene** el don de mokṣa en Su poder,  
+
+**es** alguna forma de vyāja (bhakti o prapatti)  
+lo cual **puede ser logrado** por el **aspirante** a mukti  
+de acuerdo con los śāstras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मोक्षप्रदमाऩ सिद्धोपायत्तुक्कु मुमुक्षुविऩ् पक्कलिले युळ्ळदॊरु शास्त्रीयमाऩ साध्यव्याजम् वशीकरणमॆऩ्ऩुमिडम् तऩ्ऩै कर्तावागक्काट्टुगिऱ उत्तमऩाले सिद्धम्।
+</details>
+
+
+## कार्पण्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् औचित्यत्ताले 
+
+> “पुगल्+++(=गतिर्)+++ ऒऩ्ऱ् इल्लाव् अडियेऩ्”  
+( तिरुवाय्मॊऴि ६-१०-१०), 
+</details>
+
+<details><summary>English</summary>
+
+In this (the first part of Dvaya)  
+> I  who **have no** other upāya  
+and no other Saviour"  
+
+etc. 
+</details>
+
+<details><summary>Español</summary>
+
+En esta (la primera parte de Dvaya)
+
+> Yo que **no tengo** otro upāya  
+y ningún otro Salvador"  
+
+etc.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् औचित्यत्ताले “पुगलॊऩ्ऱिल्ला वडियेऩ्”( तिरुवाय्मॊऴि ६-१०-१०), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अहम् अस्म्य् अपराधानाम्  
+आलयो ऽकिञ्चनो **ऽगतिः**”  
+( अहिर्बुध्न्य-संहिता ३७-३०), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अहम् अस्म्य् अपराधानाम्  
+आलयो ऽकिञ्चनो **ऽगतिः**”  
+( अहिर्बुध्न्य-संहिता ३७-३०), 
+</details>
+
+<details><summary>English</summary>
+
+"I **am** the abode of all offences:  
+**I have** no means or upāya for saving myself  and **have** nothing else to **attain** than Thee." 
+</details>
+
+<details><summary>Español</summary>
+
+"Yo **soy** la morada de todas las **ofensas**:  
+**No tengo** medios ni upāya para **salvarme**  
+y **no tengo** nada más que **alcanzar** que Ti."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अहमस्म्यपराधानामालयोऽकिञ्चनोऽगतिः”( अहिर्बुध्न्य-संहिता ३७-३०), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “न धर्मनिष्ठोऽस्मि  
+न चात्मवेदी”  
+( आळवन्दार्स्तोत्रम् ३२) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “न धर्मनिष्ठोऽस्मि  
+न चात्मवेदी”  
+( आळवन्दार्स्तोत्रम् ३२) 
+
+</details>
+
+
+<details><summary>English</summary>
+
+and 
+
+> "I **have not** been firmly **established** in the **performance** of dharma  
+(i.e. I **have not performed** karma  yoga)  
+neither **have I realised** the essential nature ( svarūpa) of myself  
+(i.e. **I have not performed** jñāna yoga)  
+**nor have I devotion** to Thy lotus feet  s
+(ie. **I have not performed** bhakti yoga)". 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "Yo **no he estado** firmemente **establecido** en la **ejecución** del dharma  
+(es decir, **no he realizado** karma yoga)  
+tampoco **he realizado** la naturaleza esencial (svarūpa) de mí mismo  
+(es decir, **no he realizado** jñāna yoga)  
+**ni tengo devoción** a Tus pies de loto 
+(es decir, **No he practicado** bhakti yoga)".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“न धर्मनिष्ठोऽस्मि न चात्मवेदी”( आळवन्दार्स्तोत्रम् ३२) 
+</details>
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The first person singular in prapadye (I resolve) which shows one to be the doer, proves that the way to win the favour of Siddhopāya (Iśvara), who has the gift of mokṣa in His power, is some form of vyāja (bhakti  or prapatti) which can be accomplished by the aspirant to mukti in accordance with the śāstras.
+इत्य्-आदिगळिऱ् पडिये  
++++(अनन्य-गतिकतया)+++ अधिकारि-विशेषमुम्  
+कार्पण्यम् +++(→तद्-अनुसन्धानम्)+++ आगिऱ परिकरमुम् सूचितम्।
+</details>
 
-In this (the first part of Dvaya) the specific adhikārī or competept person for the performance and the idea of helplessness (kārpaṇya), which is one of the accessories or aṅgas of prapatti, are also hinted at as in the following passages:-- I  who have no other upāya and no other Saviour" etc. "I am the "abode of all offences: I have no means or upāya for saving myself and have nothing else to attain than Thee." and "I have "not been firmly established in the performance of dharma (i.e. I have not performed karma  yoga ;) neither have I realised the essential nature ( svarūpa) of myself (i, e. I have not perfornued jñāna yoga : nor have I devotion to Thy lotus feet lie. I have not performed bhakti  yoga". This is elaborated by Śrī Rāmānuja in the Śaraṇāgati Gadya in the words, "Having no other refuge or Saviour" and in the little Gadya (Śrī Raṅga Gadya) in the churṇikā, which says, "My soul is eternally subject to Thy control and likewise in the cūrṇikā in Vaikuṇṭhagadya where he says, 'I realise that, in order to attain Him, I have no other means, even in thousands of crores of kalpas (1000 yugas), than seeking His two lotus feet". Arulalapperumal Emperumanar, too, has declared: "The man who, owing to his powerlessness, has not the required upāya or means for attaining Bhagavān which is the end desired by him that man should realise with faith that His feet are the upāya for securing his object" Since prapatti ordains, as an upāya, the surrender of the responsibility for protection (bharasamarpana) which is adapted to the adhikārī who is destitute of upāyas, it goes without saying (from the very logic of the matter) that it does not require the performance of any other action which is too hard (for him) to perform.
+<details><summary>English</summary>
+
+The specific adhikārī or competept person for the performance  
+and the ~~idea~~ recounting of helplessness (kārpaṇya),  
+which is one of the accessories or aṅgas of prapatti,  
+**are** also **hinted** at as in the above passages.
+</details>
+
+<details><summary>Español</summary>
+
+El adhikārī específico o persona competente para la **actuación**,  
+y la ~~idea~~ relato de impotencia (kārpaṇya),  
+que **es** uno de los accesorios o aṅgas de prapatti,  
+también **se insinúa** como en los pasajes anteriores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये अधिकारिविशेषमुम् कार्पण्यमागिऱ परिकरमुम् सूचितम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु गद्यत्तिल् “अनन्यशरणः” ऎऩ्गिऱ पदत्तिलुम्, 
+</details>
+
+<details><summary>English</summary>
+
+This, in the Śaraṇāgati Gadya in the words, 
+
+> "**Having** no other **refuge** or Saviour" 
+
+
+</details>
+
+<details><summary>Español</summary>
+
+Esto, en el Śaraṇāgati Gadya en las palabras, 
+
+> "**Sin** ningún otro **refugio** o **Salvador**"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु गद्यत्तिल् “अनन्यशरणः” ऎऩ्गिऱ पदत्तिलुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिऱु गद्यत्तिल् 
+
+> “स्वात्म नित्य-नियाम्य” 
+
+ऎऩ्गिऱ चूर्णिकैयिलुम्,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सिऱु गद्यत्तिल् “स्वात्म नित्य नियाम्य” ऎऩ्गिऱ चूर्णिकैयिलुम्,
+</details>
+
+
+
+and in the little Gadya (Śrī Raṅga Gadya) in the churṇikā, which **says**, 
+
+> "My soul **is** eternally **subject to** Thy **control**"  
+
+and likewise in the cūrṇikā in Vaikuṇṭhagadya where he **says**, 
+
+> '**I realise** that, in order to **attain** Him,  
+**I have** no other means,  
+even in thousands of crores of kalpas (1000 yugas),  
+than **seeking** His two lotus feet" 
+
+**is elaborated** by Śrī Rāmānuja. 
+
+
+
+Arulalapperumal Emperumanar, too, has declared: "The man who, owing to his powerlessness, has not the required upāya or means for attaining Bhagavān which is the end desired by him that man should realise with faith that His feet are the upāya for securing his object" Since prapatti ordains, as an upāya, the surrender of the responsibility for protection (bharasamarpana) which is adapted to the adhikārī who is destitute of upāyas, it goes without saying (from the very logic of the matter) that it does not require the performance of any other action which is too hard (for him) to perform.
 
 Thus in the word prapadye (I resolve to seek ) accompanied by the word saranam (refuge), four accessories may be considered as having been indicated: the faith that (the Lord) will protect, and so also seeking Him as the Saviour, the surrender of the self and (one's) helplessness (kārpaṇya). We have already stated that the word Nārāyaṇa with its adjective (Śrīmat) declares such things as Bhagavān's being the Master in accordance with such authoritative texts as the following:-"All beings, those that move and those that do not move, are the body of Bhagavān. Therefore I should do what is good for them". This determination is the sixth aṅga and "The fifth aṅga is the avoidance of what is displeasing to the Master." Therefore His being the Master suggests the determination to do what is agreeable (to Him ) and the avoidance of what is disagreeable (to Him). In another chapter we have stated that these accessories, too, are to be thought of only once for the sake of the upāya (namely : prapatti). The use of the present tense in the verb (prapadye) is, like (the use of present tense in the verb occurring in) the mantra uttered while cutting kuśa grass, to indicate the time when the prapatti is performed. (It does not mean, as the present tense sometimes ineans, that it should be done always). The views ( held by some ) that the present tense (in prapadye) shows that the intention is to enjoin the continuous performance of prapatti until the end of the present body, that it enjoins the continuance of faith which is one of the accessories until the fruit is attained and that it shows also the need for the continuance of such things as the determination to do what is agreeable (to the Lord) even after the performance of prapatti, as its accessories--thesc views are opposed to the pramāṇas which lay down (the rule) that this upāya (prapatti) with its accessories should be performed only once.
 
