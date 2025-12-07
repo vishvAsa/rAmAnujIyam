@@ -558,7 +558,7 @@ y **conducir** a la **consecución** de cosas buenas.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आगैयाल् मन्द-विश्वासमुम् महा-विश्वास-पर्यन्तआम्।
+आगैयाल् मन्द-विश्वासमुम् महा-विश्वास-पर्यन्तम् आम्।
 </details>
 
 <details><summary>English</summary>
@@ -579,7 +579,7 @@ Por lo tanto, incluso la debilidad de la fe **crecerá** hasta **convertirse** e
 आगैयाल् मन्दविश्वासमुम् महाविश्वासपर्यन्तमाम्।
 </details>
 
-
+## उपाय-प्रार्थना
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि  
@@ -628,14 +628,7 @@ para **rogar** que **seas** mi upāya",
 **प्रपत्तिश्** शरणागतिः”, 
 </details>
 
-
-<details><summary>मूलम्</summary>
-
-“अनन्यसाध्ये स्वाभीष्टे महाविश्वासपूर्वकम् । तदेकोपायता याच्ञा प्रपत्तिश्शरणागतिः”, 
-</details>
-
-
-the prayer (to Iśvara ) to be the upāya may be taken here as having been made and this would be in accordance with the following pramāṇas: 
+<details><summary>English</summary>
 
 > " When what a man **desires cannot be attained**  
 with the **help** of any one else,  
@@ -645,17 +638,895 @@ that he **should be** the means or upāya.
 This **prayer is** prapatti;  
 it **is** śaranagati!'.  
 
-"The thoughts of praying:--- "May Thou alone be my upāya!” this is śaraṇāgati. Let this be done towards Bhagavān", "Those who say to Hari: “Be Thou my upāya"- never approach them”. The aṅga or accessory called " seeking protectorship” is contained within this and is not separate or different from this.
+</details>
 
-It may be asked:--" What is the prayer in this first part of Dvaya for? Since in the second part, there is a prayer for the attainment of the desired end and the removal of hindrances there. to, the prayer here cannot be for the same as, in that case, there would be repetition or redundancy. When prapatti is adopted as an aṅga or accessory, the prayer might be said to be for bhakti  as an upāya; but here, since prapatti is adopted as a direct and independent means, there cannot be any upāya which can be acquired and for which a prayer could be made ( what, then, can this prayer be for?)". The answer to this question is as follows:- "The award of the desired fruit which finds a place (in the second part of Dvaya ) is common to all adhikārīs, whatever be the upāya (bhakti  or prapatti) that they adopt. Since prapatti is not an aṅga or accessory for any other upāya in the case of one who is destitute of any other upāya and who makes a surrender of every. thing (svarūpa - bhara . and phala), its superiority (to other upāyas ) consists in the Saviour Himself standing in the place of the upāya and granting the fruit or desired end. Therefore what is prayed for here is the point that Iśvara should accept the responsibility of protection (bharasvīkāra ). But it may be asked again :- " Will not this prayer that the Lord should stand as the upāya mean the same as a prayer that He should grant the desired fruit or object withont any other upāya being required as a further condition coming in between? In that case will not the prayer in the second part of Dvaya be redundant!" The answer to this question is as follows:- Since in the prayer of the above description (in the second part), what is required is stated separately because it is different in some points from the expectation in the prayer (in the first part), there is no redundancy; [(i.e.) in the prayer for Iśvara being the upāya, there is no expectation of any fruit except that He should be the upāya ; in the prayer in the second part there is expectation of the desired fruit] . It may also be explained thus: though the word signifying prayer (bhaveyam) has to be supplied in order to make the second part a complete sentence, in the first part praying for Iśvara becoming the upāya, the fruit is asked for, but in a general way, while, in the second part, the purport is to specify the nature of that fruit.
+<details><summary>Español</summary>
 
-The sum and substance of the first and the second parts, when duly determined, will amount to saying this :- "I am destitute of all upāyas; therefore in order that Thou mayst stand in the place of these upãyas and grant me the specific end that is desired, I surrender the responsibility for the protection of myself as stated ( in the śāstras)". Thus it (the Dvaya) is a surrender of the responsibility (for protection) accompanied by a special prayer. This surrender, too, is the meaning of prapadye which indicates resolution (I resolve). We have (already) proved in many places with the help of pramāṇas and on the authority of traditional practice that the surrender of responsibility with all its accessories is the gist of the śāstras on prapatti (vide chapters 11 and 12 on Parikaravibhāga and Sāṅgaprapadana).
+> "Cuando lo que un hombre **desea no se puede lograr**  
+con la **ayuda** de cualquier otra persona,  
+**se hace** una **oración**, con fe intensa,  
+a alguien que **tiene** la habilidad requerida (para **asegurar** el objeto **deseado**)  
+que él **debe ser** el medio o upāya.  
+Esta **oración es** prapatti;  
+¡**Es**  śaranagati!'.
+</details>
 
-The primary importance of the nikṣepa (surrender) which is stated in another mantra for the performing of prapatti is the same here also, namely: "By this mantra alone should a man surrender himself to me. He who has thus surrendered what ought to be surrendered will become one who has done what he ought to do".
 
-The first person singular in prapadye (I resolve) which shows one to be the doer, proves that the way to win the favour of Siddhopāya (Iśvara), who has the gift of mokṣa in His power, is some form of vyāja (bhakti  or prapatti) which can be accomplished by the aspirant to mukti in accordance with the śāstras.
+<details><summary>मूलम्</summary>
 
-In this (the first part of Dvaya) the specific adhikārī or competept person for the performance and the idea of helplessness (kārpaṇya), which is one of the accessories or aṅgas of prapatti, are also hinted at as in the following passages:-- I  who have no other upāya and no other Saviour" etc. "I am the "abode of all offences: I have no means or upāya for saving myself and have nothing else to attain than Thee." and "I have "not been firmly established in the performance of dharma (i.e. I have not performed karma  yoga ;) neither have I realised the essential nature ( svarūpa) of myself (i, e. I have not perfornued jñāna yoga : nor have I devotion to Thy lotus feet lie. I have not performed bhakti  yoga". This is elaborated by Śrī Rāmānuja in the Śaraṇāgati Gadya in the words, "Having no other refuge or Saviour" and in the little Gadya (Śrī Raṅga Gadya) in the churṇikā, which says, "My soul is eternally subject to Thy control and likewise in the cūrṇikā in Vaikuṇṭhagadya where he says, 'I realise that, in order to attain Him, I have no other means, even in thousands of crores of kalpas (1000 yugas), than seeking His two lotus feet". Arulalapperumal Emperumanar, too, has declared: "The man who, owing to his powerlessness, has not the required upāya or means for attaining Bhagavān which is the end desired by him that man should realise with faith that His feet are the upāya for securing his object" Since prapatti ordains, as an upāya, the surrender of the responsibility for protection (bharasamarpana) which is adapted to the adhikārī who is destitute of upāyas, it goes without saying (from the very logic of the matter) that it does not require the performance of any other action which is too hard (for him) to perform.
+“अनन्यसाध्ये स्वाभीष्टे महाविश्वासपूर्वकम् । तदेकोपायता याच्ञा प्रपत्तिश्शरणागतिः”, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “त्वम् एवोपायभूतो मे  
+भवेति प्रार्थना-मतिः ।  
+शरणागतिर् इत्य् उक्ता”, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “त्वम् एवोपायभूतो मे  
+भवेति प्रार्थना-मतिः ।  
+शरणागतिर् इत्य् उक्ता”, 
+</details>
+
+<details><summary>English</summary>
+
+> "The **thoughts** of **praying**:---  
+"May Thou alone **be** my upāya!”  
+this **is** śaraṇāgati.  
+Let this **be done** towards Bhagavān", 
+</details>
+
+<details><summary>Español</summary>
+
+> "Los **pensamientos** de **orar**:---  
+"¡Que sólo Tú **seas** mi upāya!"  
+esto **es** śaraṇāgati.  
+Que esto **se haga** hacia Bhagavān",
+</details>
+
+<details><summary>मूलम्</summary>
+
+“त्वमेवोपायभूतो मे भवेति प्रार्थनामतिः । शरणागतिरित्युक्ता”, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“भव शरणम्”  इत्यादि प्रमाणानुसारत्ताले
+</details>
+
+<details><summary>English</summary>
+
+> "Those who **say** to Hari:  
+“**Be** Thou my upāya"-  
+never **approach** them”. 
+</details>
+
+<details><summary>Español</summary>
+
+> "Aquellos que **dicen** a Hari:  
+“**Sé** Tú mi upāya"-  
+nunca **te acerques** a ellos”. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“भव शरणम्”
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्यादि प्रमाणानुसारत्ताले  
+उपाय-प्रार्थऩैयुम् इङ्गे सॊल्लिऱ्ऱ् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+In **accordance** with the above pramāṇas  
+the **prayer** (to Iśvara ) to be the upāya **may be taken** here  
+as **having been made**.
+</details>
+
+<details><summary>Español</summary>
+
+De **acuerdo** con los pramāṇas anteriores  
+la **oración** (a Iśvara) para ser el upāya **puede tomarse** aquí  
+como **habiendo sido hecho**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादि प्रमाणानुसारत्ताले उपायप्रार्थऩैयुमिङ्गे सॊल्लिऱ्ऱायिऱ्ऱु। 
+</details>
+
+### गोप्तृत्व-वरणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् उपाय-प्रार्थनैयिले गोप्तृत्व-वरणम् अन्तर्गतम्,  
+पृथग्-भूतम् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+The aṅga or accessory called " **seeking protectorship**”  
+**is contained** within this  
+and **is not separate** or different from this.
+</details>
+
+<details><summary>Español</summary>
+
+El aṅga o accesorio llamado "**buscar protección**”  
+**está contenido** dentro de este  
+y **no está separado**  
+**ni es** diferente de esto.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वुपायप्रार्थनैयिले गोप्तृत्व-वरणमन्तर्गतम् पृथग्भूतमऩ्ऱु। 
+</details>
+
+### भर-स्वीकार-केन्द्रता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इष्ट-प्राप्त्य्--अ-निष्ट-निवृत्ति-रूपम् आऩ फलत्तिऩ्-उडैय प्रार्थनैयै  
+उत्तर-खण्डत्तिले पण्णा निऱ्क  
+इङ्गु फल-प्रार्थनैयैप् पण्णिऩाल् पुनर्-उक्तिय् उण्ड् आम्।
+</details>
+
+<details><summary>English</summary>
+
+It **may be asked**:--  
+
+> " What **is** the **prayer** in this first part of Dvaya for?  
+Since in the second part,  
+there **is** a **prayer** for the **attainment** of the desired end  
+and the **removal** of hindrances thereto,  
+the **prayer** here **cannot be** for the same  
+as, in that case, there **would be repetition** or **redundancy**.  
+</details>
+
+<details><summary>Español</summary>
+
+**Se puede preguntar**:--  
+
+> "¿Para qué **sirve** la **oración** de esta primera parte del Dvaya?  
+Ya que en la segunda parte,  
+**hay** una **oración** para **la consecución** del fin deseado  
+y la **eliminación** de obstáculos al mismo,  
+la **oración** aquí **no puede ser** por lo mismo  
+ya que, en ese caso, habría **repetición** o **redundancia**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इष्टप्राप्त्यनिष्टनिवृत्तिरूपमाऩ फलत्तिऩुडैय प्रार्थनैयैउत्तरखण्डत्तिले पण्णानिऱ्क इङ्गु फलप्रार्थनैयैप् पण्णिऩाल् पुनरुक्तियुण्डाम्।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रपत्तिक्कु फलम् आग  
+भक्ति-रूपोपायत्तैप् प्रार्थिक्कुमाप् पोले  
+> 
+> स्वतन्त्र-प्रपत्ति-निष्ठऩुक्कु इङ्गु साध्यम् आय्  
+प्रार्थनीयम् आय् इरुप्पद् ऒरु उपायम् इल्लै, 
+</details>
+
+<details><summary>English</summary>
+
+> When prapatti **is adopted** as an aṅga or accessory,  
+the **prayer might be said** to be for bhakti as an upāya;  
+but here, since prapatti **is adopted** as a direct and independent means,  
+there **cannot be** any upāya  
+which **can be acquired**  
+and for which a **prayer** could be made  
+</details>
+
+<details><summary>Español</summary>
+
+> Cuando prapatti **se adopta** como aṅga o accesorio,  
+**se podría decir** que la **oración** es para bhakti como upāya;  
+>
+> pero aquí, dado que prapatti **se adopta** como un medio directo e independiente,  
+**no puede haber** ningún upāya  
+que **se puede adquirir**  
+y por el cual **se podría hacer** una **oración**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तिक्कु फलमाग भक्तिरूपोपायत्तैप् प्रार्थिक्कुमाप्पोले स्वतन्त्रप्रपत्तिनिष्ठऩुक्कु इङ्गु साध्यमाय् प्रार्थनीयमायिरुप्पदॊरु उपायमिल्लै, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आऩबिऩ्बु, इङ्गु प्रार्थनैयैच् चॊल्लुगिऱ बडिय् ऎऩ्ऩ् 
+
+ऎऩ्ऩिल्;
+</details>
+
+<details><summary>English</summary>
+
+> ( what, then, can this **prayer be** for?)".  
+
+The **answer** to this question **is** as **follows**:- 
+</details>
+
+<details><summary>Español</summary>
+
+> (¿para qué puede ser entonces esta **oración**?)".  
+
+La **respuesta** a esta pregunta **es** la siguiente**:-
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩबिऩ्बु इङ्गु प्रार्थनैयैच् चॊल्लुगिऱबडियॆऩ्ऩॆऩ्ऩिल्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+फल-प्रदानम् पण्णुगिऱव् +++(उत्तर-खण्डस्थम्)+++ इडम्  
+सर्वाधिकारि-विषयत्तिलुम् पॊदुव्+++(=समानम्)+++ आय् इरुक्क 
+</details>
+
+<details><summary>English</summary>
+
+The **award** of the **desired** fruit  
+which **finds** a place (in the second part of Dvaya )  
+**is** common to all adhikārīs,  
+whatever **be** the upāya (bhakti  or prapatti) that they **adopt**. 
+</details>
+
+<details><summary>Español</summary>
+
+El **otorgamiento** del fruto **deseado**  
+que **encuentra** un lugar (en la segunda parte de Dvaya)  
+**es** común a todos los adhikārīs,  
+cualquiera que sea **el upāya (bhakti o prapatti) que **adopten**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+फलप्रदानम् पण्णुगिऱविडम् सर्वाधिकारिविषयत्तिलुम् पॊदुवायिरुक्क 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अकिञ्चनऩ् आय् सर्व-भर-न्यासम् पण्णुगिऱवऩ् पक्कल्  
+प्रपत्ति वेऱ् ऒरु उपायत्तुक्क् अङ्गम् आग निल्लाद बडि  
+शरण्यऩ् ताऩ् उपायान्तर-स्थानत्तिले निऩ्ऱु  
+फलम् कॊडुक्किऱव् अंशम् एऱ्ऱम् आऩ बडियाले 
+</details>
+
+<details><summary>English</summary>
+
+Since prapatti **is not** an aṅga or accessory for any other upāya  
+in the case of one who **is destitute** of any other upāya  
+and who **makes** a **surrender** of every thing (svarūpa, bhara and phala),  
+its superiority (to other upāyas ) **consists** in the Saviour Himself **standing** in the place of the upāya  
+and **granting** the fruit or desired end. 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que prapatti **no es** un aṅga o accesorio para ningún otro upāya  
+en el caso de alguien que **está desprovisto** de cualquier otro upāya  
+y quien **hace** una **entrega** de cada cosa (svarūpa, bhara y phala),  
+su superioridad (sobre otros upāyas) **consiste** en que el Salvador mismo **estaba** en el lugar del upāya  
+y **conceder** el fruto o fin deseado.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अकिञ्चनऩाय् सर्वभरन्यासम् पण्णुगिऱवऩ् पक्कल् प्रपत्ति वेऱॊरु उपायत्तुक्कङ्गमाग निल्लादबडि शरण्यऩ् ताऩुपायान्तरस्थानत्तिले निऩ्ऱु फलम् कॊडुक्किऱवम्शमेऱ्ऱमाऩबडियाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्व् एऱ्ऱम् आऩ भर-स्वीकारांशम्  
+इङ्गु प्रार्थिक्कप् पडुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore what **is prayed for** here  
+**is** the point that Iśvara **should accept** the **responsibility** of **protection** (bharasvīkāra ). 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, el qué **se ora** aquí  
+**Es** el punto de que Iśvara **debe aceptar** la **responsabilidad** de **protección** (bharasvīkāra).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अव्वेऱ्ऱमाऩ भरस्वीकारांशम् इङ्गु प्रार्थिक्कप्पडुगिऱदु। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आऩालुम् "इप् पडि उपायम् आय् निऱ्क वेणुम्"  
+ऎऩ्ऱ् अपेक्षिक्कवे  
+>
+>> अभिमत-फल-विशेषत्तै उपायान्तर-व्यवधानम् अऱत् तर-वेणुम्  
+>
+> ऎऩ्ऱु प्रार्थित्तद् आगादो; 
+</details>
+
+
+<details><summary>English</summary>
+
+But it **may be asked** again :-  
+
+> " Will not this **prayer**  
+that the Lord **should stand** as the upāya  
+**mean** the same as a **prayer** that  
+He **should grant** the desired fruit or object without any other upāya **being required** as a further condition coming in-between?  
+</details>
+
+<details><summary>Español</summary>
+
+Pero **puede que se pregunte** de nuevo:-  
+
+> " ¿**No será** esta **oración**  
+que el Señor **debe permanecer** como el upāya  
+**significa** lo mismo que una **oración** que  
+Él **debería conceder** el fruto u objeto **deseado**  
+sin ningún otro upāya **que se requiera**  
+como condición adicional intermedia?
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऩालुम् इप्पडि उपायमाय् निऱ्क वेणुमॆऩ्ऱपेक्षिक्कवे अभिमतफलविशेषत्तै उपायान्तरव्यवधानमऱत्तरवेणुमॆऩ्ऱु प्रार्थित्तदागादो; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आगैयाल् उत्तर-खण्डत्तिल् प्रार्थनै मिगुदिय्+++(=अतिरिक्तम्)+++ अऩ्ऱोव् 
+
+ऎऩ्ऩिल्;
+</details>
+
+<details><summary>English</summary>
+
+> In that case **will not** the prayer in the second part of Dvaya **be redundant**?" 
+
+The **answer** to this **question** **is** as **follows**:- 
+</details>
+
+<details><summary>Español</summary>
+
+> ¡En ese caso **no** la oración de la segunda parte del Dvaya **no será redundante**?" 
+
+La **respuesta** a esta **pregunta** **es** la **siguiente**:-
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयालुत्तरखण्डत्तिल् प्रार्थनै मिगुदियऩ्ऱोवॆऩ्ऩिल्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उक्त-प्रकारत्ताले प्रार्थना-विषयत्तिल् अंश-भेदम् तोऱ्ऱुगैक्क् आगप्  
+पिरिय अपेक्षिक्किऱद् आगैयाले  
+मिगुदिय् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+Since in the **prayer** of the above **description** (in the second part),  
+what **is required is stated separately**  
+because it **is** different in some points from the **expectation** in the **prayer** (in the first part),  
+there **is no redundancy**;  
+[(i.e.) in the **prayer** for Iśvara **being** the upāya,  
+there **is no expectation** of any fruit  
+except that He **should be** the upāya ;  
+in the **prayer** in the second part  
+there **is expectation** of the desired fruit] . 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que en la **oración** de la **descripción** anterior (en la segunda parte),  
+lo que **se requiere - se indica por separado**  
+
+porque **es** diferente en algunos puntos de la **expectativa** en la **oración** (en la primera parte),  
+no **hay redundancia**;  
+
+[(es decir) en la **oración** para que Iśvara **sea** el upāya,  
+**no hay expectativa** de ningún fruto  
+excepto que Él **debería ser** el upāya;  
+
+en la **oración** de la segunda parte  
+hay **esperanza** del fruto deseado] .
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उक्तप्रकारत्ताले प्रार्थनाविषयत्तिल् अंशभेदम् तोऱ्ऱुगैक्कागप् पिरिय अपेक्षिक्किऱदागैयाले मिगुदियिल्लै। 
+</details>
+
+### उत्तर-खण्डे फल-स्वरूप-व्यक्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्तर-खण्डत्तिल् अपेक्षणीय-फल-विशेष-व्यञ्जकम् आऩ  
+वाक्यत्तिऩ्-उडैयव् अन्वय-मात्रत्तुक्क् आग  
+प्रार्थना-पदम् +++("भवेयम्" इति)+++ अध्याहरित्तालुम्  
++++(पूर्व-खण्डे ऽव्यक्तम् फलं प्रार्थ्य)+++  
++++(उत्तर-खण्डे)+++ फल-स्वरूप-मात्रत्तिले तात्पर्यम् ऎऩ्ऱु परिहारम् आगवुम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+It may also **be explained** thus:  
+though the word **signifying prayer** (bhaveyam) **has to be supplied**  
+in order to make the second part a complete sentence,  
+in the first part, **praying** for Iśvara becoming the upāya,  
+the fruit **is asked** for, but in a general way,  
+while, in the second part, the purport **is** to specify the nature of that fruit.
+</details>
+
+<details><summary>Español</summary>
+
+También **se puede explicar** así:  
+aunque la palabra **que significa oración** (bhaveyam) **tiene que ser suministrada**  
+Para que la segunda parte **sea** una frase completa,  
+
+en la primera parte, **orando** para que Iśvara **se convierta** en el upāya,  
+la fruta **se pide**, pero de manera general,  
+
+mientras que, en la segunda parte, el objetivo **es especificar** la naturaleza de ese fruto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उत्तरखण्डत्तिलपेक्षणीय-फलविशेष व्यञ्जकमाऩ वाक्यत्तिऩुडैयवन्वयमात्रत्तुक्काग प्रार्थनापदमध्याहरित् तालुम् फलस्वरूपमात्रत्तिले तात्पर्यमॆऩ्ऱु परिहारमागवुमाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्वोत्तर-खण्डङ्गळ् इरण्डुक्कुन् तिरण्ड+++(=सार)+++ पॊरुळ् निष्कर्षिक्कुम् इडत्तिल्  
+
+> अकिञ्चनऩ् आऩव् ऎऩक्कु  
+नी उपायान्तर-स्थानत्तिले निऩ्ऱु  
+फल-विशेषत्तैत् तरुगैक्क् आग  
+यथोक्तम् आऩव् आत्म-रक्षा-भर-निक्षेपम् पण्णुगिऱेऩ् 
+
+ऎऩ्ऱु ऒरु विशिष्ट-प्रार्थनान्वित--भर-समर्पणम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+The sum and substance of the first and the second parts, when duly **determined**,  
+**will amount to saying** this :- 
+
+> "I **am destitute** of all upāyas;  
+therefore in order that Thou **mayst stand** in the place of these upãyas  
+and **grant me** the specific end that **is desired**,  
+I **surrender** the **responsibility** for the **protection** of myself as **stated** ( in the śāstras)". 
+
+Thus it (the Dvaya) **is** a **surrender** of the **responsibility** (for **protection**)  
+**accompanied** by a special **prayer**. 
+</details>
+
+<details><summary>Español</summary>
+
+La suma y sustancia de la primera y la segunda parte, cuando **estén** debidamente **determinadas**,  
+**equivaldrá a decir** esto:- 
+
+> "Yo **estoy desprovisto** de todos los upāyas;  
+por lo tanto, para que Tú **puedas estar** en el lugar de estos upãyas  
+y **concédeme** el fin específico que **se desea**,  
+>
+> Yo **entrego** la **responsabilidad** de la **protección** de mí mismo como **declarado** (en los śāstras)".
+
+Por lo tanto (el Dvaya) **es** una **rendición** de la **responsabilidad** (de **protección**)  
+**acompañado** de una **oración** especial. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पूर्वोत्तरखण्डङ्गळिरण्डुक्कुन् दिरण्ड पॊरुळ् निष्कर्षिक्कुमिडत्तिल् अकिञ्चनऩाऩ वॆऩक्कु नी उपायान्तरस्थानत्तिले निऩ्ऱु फलविशेषत्तैत् तरुगैक्काग यथोक्तमाऩवात्मरक्षाभर निक्षेपम् पण्णुगिऱेऩॆऩ्ऱु ऒरु विशिष्टप्रार्थनान्वितभरसमर्पणमाम्। 
+</details>
+
+## समर्पणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस् समर्पणमुम् +++("प्रपद्ये"→)+++अध्यवसाय-शब्दार्थम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+This **surrender**, too, **is** the **meaning** of prapadye  
+which **indicates resolution** (I **resolve**). 
+</details>
+
+<details><summary>Español</summary>
+
+Esta **rendición** también **es** el **significado** de prapadye.  
+que **indica resolución** (Yo **resuelvo**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इस् समर्पणमुमध्यवसायशब्दार्थमाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि स-परिकरम् आऩ भर-समर्पणमे  
+प्रपत्ति-शास्त्रार्थम् 
+
+ऎऩ्ऩुम् इडम्  
+प्रमाण-संप्रदायङ्गळाले पलव् इडत्तिलुं समर्थित्तोम्। 
+</details>
+
+<details><summary>English</summary>
+
+We **have (already) proved** in many places  
+with the help of pramāṇas and on the authority of traditional practice  
+that the **surrender** of **responsibility** with all its accessories  
+is the gist of the śāstras on prapatti  
+(**vide** chapters 11 and 12 on Parikaravibhāga and Sāṅgaprapadana).
+</details>
+
+<details><summary>Español</summary>
+
+**Lo hemos demostrado (ya)** en muchos lugares  
+con la **ayuda** de pramāṇas y sobre la autoridad de la **práctica** tradicional  
+que la **rendición** de la **responsabilidad** con todos sus accesorios  
+es la esencia de los śāstras sobre prapatti  
+(**vide** capítulos 11 y 12 sobre Parikaravibhāga y Sāṅgaprapadana).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सपरिकरमाऩ भरसमर्पणमे प्रपत्ति शास्त्रार्थमॆऩ्ऩुमिडम् प्रमाणसंप्रदायङ्गळाले पलविडत्तिलुंसमर्थित्तोम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अनेनैव तु मन्त्रेण  
+स्वात्मानं मयि **निक्षिपेत्** ।  
+मयि **निक्षिप्त-कर्तव्यः**  
+**कृत-कृत्यो भविष्यति**॥”  
+( सात्यकि-तन्त्रम्) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अनेनैव तु मन्त्रेण  
+स्वात्मानं मयि **निक्षिपेत्** ।  
+मयि **निक्षिप्त-कर्तव्यः**  
+**कृत-कृत्यो भविष्यति**॥”  
+( सात्यकि-तन्त्रम्) 
+</details>
+
+<details><summary>English</summary>
+
+> "By this mantra alone  
+**should** a man **surrender** himself to me.  
+He **who has** thus **surrendered** what **ought to be surrendered**  
+**will become** one who **has done** what he **ought to do**".
+</details>
+
+<details><summary>Español</summary>
+
+> "Solo con este mantra  
+**¿Debería** un hombre **entregarse** a mí?  
+El **que** así **entregó** lo que **debería entregarse**  
+**será** alguien que **ha hecho** lo que **debe hacer**".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अनेनैव तु मन्त्रेण स्वात्मानं मयि निक्षिपेत् । मयि निक्षिप्तकर्तव्यः कृतकृत्यो भविष्यति”( सात्यकि-तन्त्रम्)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु प्रपत्ति-मन्त्रान्तरत्तिऱ् सॊऩ्ऩ कर्तव्य-निक्षेप-प्राधान्यम्  
+इङ्गुम् तुल्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+The primary importance of the nikṣepa (surrender)  
+which **is stated** in another mantra for the **performing** of prapatti (as above)  
+**is** the same here also. 
+
+</details>
+
+<details><summary>Español</summary>
+
+La importancia primordial de la nikṣepa (**rendición**)  
+que **se dice** en otro mantra para la **ejecución** de prapatti (como lo anterior)  
+**es** lo mismo aquí también.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु प्रपत्तिमन्त्रान्तरत्तिऱ्सॊऩ्ऩ कर्तव्यनिक्षेपप्राधान्यमिङ्गुम् तुल्यम्। 
+</details>
+
+
+## उत्तम-पुरुषः - वशी-करणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मोक्ष-प्रदम् आऩ सिद्धोपायत्तुक्कु  
+मुमुक्षुविऩ् पक्कलिलेय् उळ्ळद्  
+ऒरु शास्त्रीयम् आऩ साध्य-व्याजम्  
+**वशी-करणम्** 
+
+ऎऩ्ऩुम् इडम्  
+तऩ्ऩै कर्ताव् आगक् काट्टुगिऱ उत्तमऩाले सिद्धम्।
+</details>
+
+<details><summary>English</summary>
+
+The first person singular in prapadye (**I resolve**)  
+which **shows** one to be the **doer**,  
+**proves** that the way to win the favour of Siddhopāya (Iśvara),  
+who **has** the gift of mokṣa in His power,  
+**is** some form of vyāja (bhakti  or prapatti)  
+which **can be accomplished** by the **aspirant** to mukti  
+in accordance with the śāstras.
+</details>
+
+<details><summary>Español</summary>
+
+La primera persona del singular en prapadye (**resuelvo**)  
+que **muestra** que uno es el **hacedor**,  
+**prueba** que 
+
+la manera de **ganarse** el favor de Siddhopāya (Iśvara),  
+quien **tiene** el don de mokṣa en Su poder,  
+
+**es** alguna forma de vyāja (bhakti o prapatti)  
+lo cual **puede ser logrado** por el **aspirante** a mukti  
+de acuerdo con los śāstras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मोक्षप्रदमाऩ सिद्धोपायत्तुक्कु मुमुक्षुविऩ् पक्कलिले युळ्ळदॊरु शास्त्रीयमाऩ साध्यव्याजम् वशीकरणमॆऩ्ऩुमिडम् तऩ्ऩै कर्तावागक्काट्टुगिऱ उत्तमऩाले सिद्धम्।
+</details>
+
+
+## कार्पण्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् औचित्यत्ताले 
+
+> “पुगल्+++(=गतिर्)+++ ऒऩ्ऱ् इल्लाव् अडियेऩ्”  
+( तिरुवाय्मॊऴि ६-१०-१०), 
+</details>
+
+<details><summary>English</summary>
+
+In this (the first part of Dvaya)  
+> I  who **have no** other upāya  
+and no other Saviour"  
+
+etc. 
+</details>
+
+<details><summary>Español</summary>
+
+En esta (la primera parte de Dvaya)
+
+> Yo que **no tengo** otro upāya  
+y ningún otro Salvador"  
+
+etc.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् औचित्यत्ताले “पुगलॊऩ्ऱिल्ला वडियेऩ्”( तिरुवाय्मॊऴि ६-१०-१०), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अहम् अस्म्य् अपराधानाम्  
+आलयो ऽकिञ्चनो **ऽगतिः**”  
+( अहिर्बुध्न्य-संहिता ३७-३०), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अहम् अस्म्य् अपराधानाम्  
+आलयो ऽकिञ्चनो **ऽगतिः**”  
+( अहिर्बुध्न्य-संहिता ३७-३०), 
+</details>
+
+<details><summary>English</summary>
+
+"I **am** the abode of all offences:  
+**I have** no means or upāya for saving myself  and **have** nothing else to **attain** than Thee." 
+</details>
+
+<details><summary>Español</summary>
+
+"Yo **soy** la morada de todas las **ofensas**:  
+**No tengo** medios ni upāya para **salvarme**  
+y **no tengo** nada más que **alcanzar** que Ti."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अहमस्म्यपराधानामालयोऽकिञ्चनोऽगतिः”( अहिर्बुध्न्य-संहिता ३७-३०), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “न धर्मनिष्ठोऽस्मि  
+न चात्मवेदी”  
+( आळवन्दार्स्तोत्रम् ३२) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “न धर्मनिष्ठोऽस्मि  
+न चात्मवेदी”  
+( आळवन्दार्स्तोत्रम् ३२) 
+
+</details>
+
+
+<details><summary>English</summary>
+
+and 
+
+> "I **have not** been firmly **established** in the **performance** of dharma  
+(i.e. I **have not performed** karma  yoga)  
+neither **have I realised** the essential nature ( svarūpa) of myself  
+(i.e. **I have not performed** jñāna yoga)  
+**nor have I devotion** to Thy lotus feet  s
+(ie. **I have not performed** bhakti yoga)". 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "Yo **no he estado** firmemente **establecido** en la **ejecución** del dharma  
+(es decir, **no he realizado** karma yoga)  
+tampoco **he realizado** la naturaleza esencial (svarūpa) de mí mismo  
+(es decir, **no he realizado** jñāna yoga)  
+**ni tengo devoción** a Tus pies de loto 
+(es decir, **No he practicado** bhakti yoga)".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“न धर्मनिष्ठोऽस्मि न चात्मवेदी”( आळवन्दार्स्तोत्रम् ३२) 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ् पडिये  
++++(अनन्य-गतिकतया)+++ अधिकारि-विशेषमुम्  
+कार्पण्यम् +++(→तद्-अनुसन्धानम्)+++ आगिऱ परिकरमुम् सूचितम्।
+</details>
+
+<details><summary>English</summary>
+
+The specific adhikārī or competept person for the performance  
+and the ~~idea~~ recounting of helplessness (kārpaṇya),  
+which is one of the accessories or aṅgas of prapatti,  
+**are** also **hinted** at as in the above passages.
+</details>
+
+<details><summary>Español</summary>
+
+El adhikārī específico o persona competente para la **actuación**,  
+y la ~~idea~~ relato de impotencia (kārpaṇya),  
+que **es** uno de los accesorios o aṅgas de prapatti,  
+también **se insinúa** como en los pasajes anteriores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये अधिकारिविशेषमुम् कार्पण्यमागिऱ परिकरमुम् सूचितम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु गद्यत्तिल् “अनन्यशरणः” ऎऩ्गिऱ पदत्तिलुम्, 
+</details>
+
+<details><summary>English</summary>
+
+This, in the Śaraṇāgati Gadya in the words, 
+
+> "**Having** no other **refuge** or Saviour" 
+
+
+</details>
+
+<details><summary>Español</summary>
+
+Esto, en el Śaraṇāgati Gadya en las palabras, 
+
+> "**Sin** ningún otro **refugio** o **Salvador**"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु गद्यत्तिल् “अनन्यशरणः” ऎऩ्गिऱ पदत्तिलुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिऱु गद्यत्तिल् 
+
+> “स्वात्म नित्य-नियाम्य” 
+
+ऎऩ्गिऱ चूर्णिकैयिलुम्,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सिऱु गद्यत्तिल् “स्वात्म नित्य नियाम्य” ऎऩ्गिऱ चूर्णिकैयिलुम्,
+</details>
+
+
+
+and in the little Gadya (Śrī Raṅga Gadya) in the churṇikā, which **says**, 
+
+> "My soul **is** eternally **subject to** Thy **control**"  
+
+and likewise in the cūrṇikā in Vaikuṇṭhagadya where he **says**, 
+
+> '**I realise** that, in order to **attain** Him,  
+**I have** no other means,  
+even in thousands of crores of kalpas (1000 yugas),  
+than **seeking** His two lotus feet" 
+
+**is elaborated** by Śrī Rāmānuja. 
+
+
+
+Arulalapperumal Emperumanar, too, has declared: "The man who, owing to his powerlessness, has not the required upāya or means for attaining Bhagavān which is the end desired by him that man should realise with faith that His feet are the upāya for securing his object" Since prapatti ordains, as an upāya, the surrender of the responsibility for protection (bharasamarpana) which is adapted to the adhikārī who is destitute of upāyas, it goes without saying (from the very logic of the matter) that it does not require the performance of any other action which is too hard (for him) to perform.
 
 Thus in the word prapadye (I resolve to seek ) accompanied by the word saranam (refuge), four accessories may be considered as having been indicated: the faith that (the Lord) will protect, and so also seeking Him as the Saviour, the surrender of the self and (one's) helplessness (kārpaṇya). We have already stated that the word Nārāyaṇa with its adjective (Śrīmat) declares such things as Bhagavān's being the Master in accordance with such authoritative texts as the following:-"All beings, those that move and those that do not move, are the body of Bhagavān. Therefore I should do what is good for them". This determination is the sixth aṅga and "The fifth aṅga is the avoidance of what is displeasing to the Master." Therefore His being the Master suggests the determination to do what is agreeable (to Him ) and the avoidance of what is disagreeable (to Him). In another chapter we have stated that these accessories, too, are to be thought of only once for the sake of the upāya (namely : prapatti). The use of the present tense in the verb (prapadye) is, like (the use of present tense in the verb occurring in) the mantra uttered while cutting kuśa grass, to indicate the time when the prapatti is performed. (It does not mean, as the present tense sometimes ineans, that it should be done always). The views ( held by some ) that the present tense (in prapadye) shows that the intention is to enjoin the continuous performance of prapatti until the end of the present body, that it enjoins the continuance of faith which is one of the accessories until the fruit is attained and that it shows also the need for the continuance of such things as the determination to do what is agreeable (to the Lord) even after the performance of prapatti, as its accessories--thesc views are opposed to the pramāṇas which lay down (the rule) that this upāya (prapatti) with its accessories should be performed only once.
 

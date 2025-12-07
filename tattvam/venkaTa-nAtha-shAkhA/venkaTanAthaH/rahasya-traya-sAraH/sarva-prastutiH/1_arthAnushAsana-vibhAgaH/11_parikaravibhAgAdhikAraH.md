@@ -4198,19 +4198,21 @@ que **son** obstáculos para su **logro**,
 इति शङ्कानां निवर्तकान् 
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
 
 (5) whether He would be absolutely indifferent to the status of the suppliant.  
 
 To remove these doubts one should know that  
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>Español</summary>
 
 (5) Si **sería** absolutamente indiferente al estado del suplicante.
 
 Para eliminar estas dudas, uno debe saber que
 </details>
+
+
 
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
