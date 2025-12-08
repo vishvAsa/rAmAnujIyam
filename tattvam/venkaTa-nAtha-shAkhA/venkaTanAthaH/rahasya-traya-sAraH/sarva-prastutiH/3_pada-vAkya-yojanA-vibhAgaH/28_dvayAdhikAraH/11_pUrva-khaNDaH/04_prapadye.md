@@ -19,6 +19,12 @@ EL SIGNIFICADO DE LA PALABRA PRAPADYE:
 गत्य्-अर्थङ्गळ् बुध्य्-अर्थङ्गळागैयाले  
 इङ्ग् अपेक्षित-बुद्धि-विशेषत्तैच् चॊल्लुगिऱदु।
 </details>
+<details><summary>नीलमेघः (सं)</summary>
+
+“प्रपद्ये” इत्यत्र गति-वाची धातुः  
+गत्यर्थानां बुद्धयर्थत्वाद्  
+अत्रापेक्षितं बुद्धि-विशेषम् आचष्टे । 
+</details>
 
 <details><summary>English</summary>
 
@@ -50,6 +56,16 @@ la raíz "pad" de la palabra prapadye, que **significa** 'ir'
 ऎऩ्गिऱव् अध्यवसायम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र बुद्धिर् नाम - 
+
+> "रक्षिष्यतीति विश्वासः” 
+
+इत्य्-उक्तो ऽध्यवसायः । 
+</details>
+
+
 <details><summary>English</summary>
 
 The knowledge, here, is the sure knowledge or faith that the Lord will save (us). 
@@ -73,6 +89,13 @@ el Señor (nos) **salvará**.
 अङ्गङ्गळिल् सारम् आऩ विश्वासत्तै मुऩ्ऩ् इट्टुक् कॊण्डु  
 स-परिकरम् आऩ साध्योपायम् इङ्गे तोऱ्ऱुगिऱदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अङ्गेषु सार-भूतं विश्वासं पुरस्कृत्य  
+स-परिकरः साध्योपायो ऽत्र प्रतीयते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -99,6 +122,14 @@ el Sādhyopāya con todos sus accesorios **está indicado** aquí.
 इङ्गु “प्र” ऎऩ्गिऱ उपसर्गम्  
 विश्वासत्तिऩ्-उडैय प्रकर्ष-रूपम् आऩ महत्तैयैक् काट्टुम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कथम् इति चेत् —  
+अत्र "प्र" इत्य् उपसर्गो  
+विश्वासस्य प्रकर्ष-रूपां महत्तां प्रदर्शयति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -127,6 +158,15 @@ La preposición pra (in prapadye) **revela** la grandeza o intensidad de la fe q
 श्रीमच्-छब्दत्तिलुम्, नारायण-शब्दत्तिलुम् उळ्ळ  
 पुरुष-कार+++(→श्री)+++--सम्बन्ध+++(→नारायण)+++-गुणादिगळैय् अनुसन्धित्त वाऱे+++(=रीत्या)+++ वरुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं विश्वास-प्रकर्षः  
+श्रीमच्-छब्दे नारायण-शब्दे च +++(क्रमशो)+++ निहितेषु  
+पुरुष-कार--संबन्ध-गुणादिषु अनुसंहितेषु सत्सु  
+उपनमति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -158,6 +198,13 @@ que **están** respectivamente **presentes** en las palabras (Śrīmat) y Nārā
 शङ्कैगळ् ऎल्लाम् कऴियुम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतेन स्व-गतापचार-प्राचुर्यादि-निबन्धनाः शङ्काः  
+सर्वा अपि निवर्तेरन् । 
+</details>
+
+
 <details><summary>English</summary>
 
 By this intensity of faith, all **doubts arising** from the greatness of one's **offences will disappear**. 
@@ -179,6 +226,12 @@ Por esta intensidad de fe, todas las **dudas** que **surgen** de la grandeza de 
 
 इव् विश्वास-दार्ढ्यम् वेणुम् ऎऩ्ऩुम् इडत्तै 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"इदं विश्वास-दार्ढ्यम् आवश्यकम्" इत्य् अयम् अर्थः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -253,6 +306,7 @@ Ese misil que **nunca fallaría** en su propósito
 मुक्तिं **दास्यति** सा चिरात्”  
 ( सनत्-कुमार-संहिता) 
 
+इत्य्-उक्तः । 
 </details>
 
 <details><summary>English</summary>
@@ -283,7 +337,7 @@ a aquellos que **tienen** fe en él".
 तथा पुंसामविस्रंभात् प्रपत्तिः प्रच्युता भवेत् । तस्माद्विस्रंभयुक्तानां मुक्तिं दास्यति सा चिरात्”( सनत्कुमारसंहिता) ऎऩ्ऱु सॊल्लिऱ्ऱु। 
 </details>
 
-## व्यवसाय-प्रामुख्यम्
+### व्यवसाय-प्रामुख्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव् व्यवसायत्तिऩ्-उडैय प्रभावम् 
@@ -294,6 +348,8 @@ a aquellos que **tienen** fe en él".
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
+
+अस्य व्यवसायस्य प्रभावः, 
 
 > “व्यवसायाद् ऋते ब्रह्म  
 **नासादयति** तत् परम्”  
@@ -341,7 +397,8 @@ La potencia de esta certeza de creencia.
 **नाध्यावसति** माधव”  
 ( भारतम् शान्ति-पर्व ३५९-७१) 
 
-
+[[P339]]  
+इत्यादिषु सुप्रसिद्धः । 
 </details>
 
 <details><summary>English</summary>
@@ -381,6 +438,14 @@ en aquellos **que dudan** como **resultado** de su razonamiento o lógica".
 ऒरुक् कालुम् संशयम् पिऱवादु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् महा-विश्वासे जाते सति  
+पश्चाद् विमर्श-काले  
+कदापि (कथम् अपि) संशयो नोदियात् । 
+</details>
+
+
 <details><summary>English</summary>
 
 If this intense faith **is present**,  
@@ -408,6 +473,14 @@ Las dudas **nunca surgirán** durante cualquier **investigación** sobre las cua
 प्रपत्तिक्क् अङ्गम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतः, पश्चात् कदाप्य् अस्मिन् विषये  
+यथा संशयो न स्यात् तथा-भूतः  
+प्रथम-क्षणे महा-विश्वासः प्रपत्तेर् अङ्गम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore intensity of faith at the first moment (of **performing** prapatti)  
@@ -430,13 +503,21 @@ que **nunca permitiría** dudas posteriores
 आगैयाल् पिऩ्बॊरुक् कालुम् इव्विषयत्तिल् संशयम् पिऱवादबडियाऩ प्रथमक्षणत्तिल् महाविश्वासम् प्रपत्तिक्कङ्गम्।
 </details>
 
-## भगवता पूरणम्
+### भगवता पूरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु मन्दम् आय् इरुन्दालुम्  
 विशेषित्तुक् कटाक्षिक्कत् तुडङ्गिऩ ईश्वरऩ्  
 शेष-पूरणम् पण्णुम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् मन्दे सत्य् अपि  
+विशिष्य कटाक्षयितुं प्रवृत्त ईश्वरः  
+शेष-पूरणं कुर्यात् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -473,6 +554,7 @@ Iśvara quien **ha comenzado** a **mostrar** Su gracia especial
 **न त्यजेयं** कथञ्चन”  
 ( रामायणम् - युद्ध-काण्डम् १८-३) 
 
+इति शरण्यो ऽनुजग्राह किल । 
 </details>
 
 <details><summary>English</summary>
@@ -517,11 +599,15 @@ bajo la **apariencia** de un amigo,
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अञ्जल्य्-आदिकम् अपि, 
+
 > (त्वद्-अङ्घ्रिम् **उद्दिश्य** कदाऽपि केनचिद्  
 यथा तथा वाऽपि सकृत् **कृतो ऽञ्जलिः** ।  
 तदैव **मुष्णात्य्** अ-शुभान्य् अशेषतः  
 शुभानि **पुष्णाति**,) **न** जातु **हीयते** ॥  
 ( आळवन्दार्स्तोत्रम् २८) 
+
+इत्य्-उक्त-स्वभावं किल वर्तते । 
 </details>
 
 <details><summary>English</summary>
@@ -561,6 +647,14 @@ y **conducir** a la **consecución** de cosas buenas.
 आगैयाल् मन्द-विश्वासमुम् महा-विश्वास-पर्यन्तम् आम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो मन्द-विश्वासो ऽपि  
+महा-विश्वास-पर्यन्तो भवति ॥
+
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore even weakness of faith **will grow** into deep and intense faith  
@@ -588,6 +682,12 @@ Por lo tanto, incluso la debilidad de la fe **crecerá** hasta **convertirse** e
 
 ऎऩ्ऱु महाविश्वासत्तैच् चॊल्ल
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् "उपायत्वेन अध्यवस्यामी"ति महा-विश्वासय् उक्ते सति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -694,8 +794,14 @@ Que esto **se haga** hacia Bhagavān",
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“भव शरणम्”  इत्यादि प्रमाणानुसारत्ताले
+“भव शरणम्”
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"भव शरणम्"
+</details>
+
 
 <details><summary>English</summary>
 
@@ -724,6 +830,13 @@ nunca **te acerques** a ellos”.
 उपाय-प्रार्थऩैयुम् इङ्गे सॊल्लिऱ्ऱ् आयिऱ्ऱु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्यादि-प्रमाणानुसारेण  
+उपाय-प्रार्थना ऽप्य् अत्र प्रतिपादिता भवति ।
+</details>
+
+
 <details><summary>English</summary>
 
 In **accordance** with the above pramāṇas  
@@ -750,6 +863,14 @@ como **habiendo sido hecho**.
 इव्व् उपाय-प्रार्थनैयिले गोप्तृत्व-वरणम् अन्तर्गतम्,  
 पृथग्-भूतम् अऩ्ऱु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्याम् उपाय-प्रार्थनायां  
+गोप्तृत्व-वरणम् अन्तर्गतम् ।  
+न [तु] पृथग्-भूतम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -778,6 +899,15 @@ y **no está separado**
 उत्तर-खण्डत्तिले पण्णा निऱ्क  
 इङ्गु फल-प्रार्थनैयैप् पण्णिऩाल् पुनर्-उक्तिय् उण्ड् आम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> इष्ट-प्राप्त्य्--अ-निष्ट-निवृत्ति--रूप -फल-प्रार्थनायाम्  
+उत्तर-खण्डे क्रियमाणायां सत्याम्  
+अत्र फल-प्रार्थना-करणे  
+पुनरुक्तिः स्यात् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -813,12 +943,20 @@ ya que, en ese caso, habría **repetición** o **redundancia**.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> प्रपत्तिक्कु फलम् आग  
+> [अङ्ग-]प्रपत्तिक्कु फलम् आग  
 भक्ति-रूपोपायत्तैप् प्रार्थिक्कुमाप् पोले  
 > 
 > स्वतन्त्र-प्रपत्ति-निष्ठऩुक्कु इङ्गु साध्यम् आय्  
 प्रार्थनीयम् आय् इरुप्पद् ऒरु उपायम् इल्लै, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> [अङ्ग-]प्रपत्तेः फलत्वेन प्रार्थ्यमानो भक्ति-रूपोपाय इव  
+स्वतन्त्र-प्रपत्ति-निष्ठस्यात्र साध्यत्वेन प्रार्थनीयत्वेन च वर्तमानः  
+कश्चिद् उपायो नास्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -854,6 +992,15 @@ y por el cual **se podría hacer** una **oración**
 ऎऩ्ऩिल्;
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> एवं सति  
+अत्र प्रार्थनायाः प्रतिपादनं कथम् 
+
+इति चेत् — 
+</details>
+
+
 <details><summary>English</summary>
 
 > ( what, then, can this **prayer be** for?)".  
@@ -879,6 +1026,12 @@ La **respuesta** a esta pregunta **es** la siguiente**:-
 फल-प्रदानम् पण्णुगिऱव् +++(उत्तर-खण्डस्थम्)+++ इडम्  
 सर्वाधिकारि-विषयत्तिलुम् पॊदुव्+++(=समानम्)+++ आय् इरुक्क 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+फल-प्रदाने सर्वाधिकारि-विषये साधारणे सत्य् अपि,  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -908,6 +1061,16 @@ cualquiera que sea **el upāya (bhakti o prapatti) que **adopten**.
 शरण्यऩ् ताऩ् उपायान्तर-स्थानत्तिले निऩ्ऱु  
 फलम् कॊडुक्किऱव् अंशम् एऱ्ऱम् आऩ बडियाले 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P340]]  
+अकिञ्चनस्य सर्व-भर-न्यास-कर्तुर् विषये  
+प्रपत्तिर् उपायन्तरस्याङ्गं यथा न भवेत् तथा  
+शरण्यस्यैवोपायन्तर-स्थाने ऽवस्थाप्य  
+फल-प्रदान-रूपस्यांशस्य  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1467,7 +1630,7 @@ también **se insinúa** como en los pasajes anteriores.
 इत्यादिगळिऱ्पडिये अधिकारिविशेषमुम् कार्पण्यमागिऱ परिकरमुम् सूचितम्।
 </details>
 
-
+### रामानुजाद्य्-उक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु गद्यत्तिल् “अनन्यशरणः” ऎऩ्गिऱ पदत्तिलुम्, 
@@ -1504,31 +1667,253 @@ Esto, en el Śaraṇāgati Gadya en las palabras,
 ऎऩ्गिऱ चूर्णिकैयिलुम्,
 </details>
 
+<details><summary>English</summary>
+
+and in the little Gadya (Śrī Raṅga Gadya) in the churṇikā, which **says**, 
+
+> "My soul **is** eternally **subject to** Thy **control**"  
+
+</details>
+
+<details><summary>Español</summary>
+
+y en el pequeño Gadya (Śrī Raṅga Gadya) en el churṇikā, que **dice**, 
+
+> "Mi alma **está** eternamente **sujeta** a Tu **control**"
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 सिऱु गद्यत्तिल् “स्वात्म नित्य नियाम्य” ऎऩ्गिऱ चूर्णिकैयिलुम्,
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-and in the little Gadya (Śrī Raṅga Gadya) in the churṇikā, which **says**, 
+श्रीवैकुण्ठ-गद्यत्तिल् 
 
-> "My soul **is** eternally **subject to** Thy **control**"  
+> “तत्-प्राप्तये च तत्--पादाम्बु-ज--द्वय-प्रपत्तेर् अन्यन्  
+न मे कल्प-कोटि-सहस्रेणापि साधनम् अस्तीति मन्वानः”  
+( वैकुण्ठ-गद्यम्) 
+
+ऎऩ्गिऱ चूर्णिकैयिलुम् प्रपञ्चितम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
 
 and likewise in the cūrṇikā in Vaikuṇṭhagadya where he **says**, 
 
 > '**I realise** that, in order to **attain** Him,  
-**I have** no other means,  
+**I have no** other means,  
 even in thousands of crores of kalpas (1000 yugas),  
 than **seeking** His two lotus feet" 
 
-**is elaborated** by Śrī Rāmānuja. 
+… **is elaborated** by Śrī Rāmānuja. 
+
+</details>
+
+<details><summary>Español</summary>
+
+y de la misma manera en el cūrṇikā en Vaikuṇṭhagadya donde **dice**, 
+
+> '**Me doy cuenta** de que, para **alcanzarlo**,  
+**No tengo** otros medios,  
+incluso en miles de millones de kalpas (1000 yugas),  
+que **buscar** Sus dos pies de loto" 
+
+… **es elaborado** por Śrī Rāmānuja.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीवैकुण्ठगद्यत्तिल् “तत्प्राप्तये च तत्पादाम्बुजद्वयप्रपत्तेरन्यन्न मे कल्पकोटिसहस्रेणापि साधनमस्तीति मन्वानः”( वैकुण्ठ-गद्यम्) ऎऩ्गिऱ चूर्णिकैयिलुम् प्रपञ्चितमायिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अरुळ्-आळप्-पॆरुमाळ्--ऎम्-बॆरुमाऩारुम् 
+
+> “**स्वाभीष्टे** पर-सम्बन्धे  
+स्वाशक्त्या **हीन**-साधनः ।  
+तत् **प्राप्त्य्**-उपायं तत्-पादौ  
+**कृत्वा** विश्वास-पूर्वकम् ॥”  
+() 
+
+ऎऩ्ऱ् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “**स्वाभीष्टे** पर-सम्बन्धे  
+स्वाशक्त्या **हीन**-साधनः ।  
+तत् **प्राप्त्य्**-उपायं तत्-पादौ  
+**कृत्वा** विश्वास-पूर्वकम् ॥”  
+() 
+
+</details>
+
+<details><summary>English</summary>
+
+Arulalapperumal Emperumanar, too, **has declared**: 
+
+> "The man who, owing to his powerlessness, **has not** the **required** upāya  
+or means for **attaining** Bhagavān  
+which **is** the end **desired** by him  
+that man **should realise** with faith  
+that His feet **are** the upāya  
+for **securing** his object" 
+</details>
+
+<details><summary>Español</summary>
+
+Arulalapperumal Emperumanar también **ha declarado**: 
+
+> "El hombre que, debido a su impotencia, **no tiene** el upāya **requerido**  
+o medios para **alcanzar** Bhagavān  
+que **es** el fin **deseado** por él  
+>
+> ese hombre **debe darse cuenta** con fe  
+que Sus pies **son** el upāya  
+por **asegurar** su objeto"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अरुळाळप् पॆरुमाळॆम्बॆरुमाऩारुम् “स्वाभीष्टे परसम्बन्धे स्वाशक्त्या हीनसाधनः । तत् प्राप्त्युपायं तत्पादौ कृत्वा विश्वासपूर्वकम्”() ऎऩ्ऱरुळिच्चॆय्दार्। 
+</details>
+
+## निर्भरता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि अ-किञ्चनाधिकारम् आय्  
+भर-समर्पण-रूपम् आऩ उपायत्तैच् चॊल्लुगैयाले  
+
+दुष्-कर--कर्मान्तर-नैरपेक्ष्यम् अर्थ-सिद्धम्।
+</details>
+
+<details><summary>English</summary>
+
+Since prapatti **ordains**, as an upāya, the **surrender** of the **responsibility** for **protection** (bharasamarpana)  
+which **is adapted** to the adhikārī  
+who **is destitute** of upāyas,  
+it **goes without saying** (from the very logic of the matter) that  
+it **does not require** the **performance** of any other **action**  
+which **is** too hard (for him) to **perform**.
+</details>
+
+<details><summary>Español</summary>
+
+Puesto que prapatti **ordena**, como upāya, la **entrega** de la **responsabilidad** de **protección** (bharasamarpana)  
+
+que **está adaptado** al adhikārī  
+quien **está desprovisto** de upāyas,  
+
+**no hace falta decir** (desde la lógica misma del asunto) que  
+**no requiere** la **realización** de ninguna otra **acción**  
+lo cual **es** demasiado difícil (para él) de **realizar**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि अकिञ्चनाधिकारमाय् भरसमर्पणरूपमाऩ उपायत्तैच् चॊल्लुगैयाले दुष्करकर्मान्तर-नैरपेक्ष्यमर्थ सिद्धम्।
+</details>
+
+
+## अङ्ग-सङ्ग्रहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि "शरण"-शब्दान्वितम् आऩ “प्रपद्ये” ऎऩ्गिऱ पदत्तिले 
+
+> “रक्षिष्यतीति विश्वासो  
+गोप्तृत्ववरणं तथा ।  
+आत्म-निक्षेप कार्पण्ये”  
+( अहिर्बुत्न्संहिता ३७-१८) 
+
+ऎऩ्ऱु निर्दिष्टम् आऩ नालुञ् जॊल्लिऱ्ऱ् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+Thus in the word prapadye (**I resolve to seek**) **accompanied** by the word saranam (refuge),  
+four accessories **may be considered** as **having been indicated**:  
+
+> the faith that (the Lord) **will protect**,  
+and so also **seeking** Him as the Saviour,  
+the **surrender** of the self  
+and (one's) helplessness (kārpaṇya). 
+</details>
+
+<details><summary>Español</summary>
+
+Así, en la palabra "prapadye" (**resuelvo buscar**) **acompañada** de la palabra "saranam" (refugio),  
+cuatro accesorios **podrán considerarse** como **habiéndose indicado**:  
+
+> la fe que (el Señor) **protegerá**,  
+y así también **buscándolo** como **Salvador**,  
+la **rendición** del yo  
+y (la propia) impotencia (kārpaṇya).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि शरणशब्दान्वितमाऩ “प्रपद्ये” ऎऩ्गिऱ पदत्तिले “रक्षिष्यतीति विश्वासो गोप्तृत्ववरणं तथा । आत्मनिक्षेप कार्पण्ये”( अहिर्बुत्न्संहिता ३७-१८) ऎऩ्ऱु निर्दिष्टमाऩ नालुञ्जॊल्लिऱ्ऱायिऱ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “चराचराणि भूतानि  
+सर्वाणि भगवद्-वपुः ।  
+अतस् तदानुकूल्यं मे  
+कार्यम् इत्येव निश्चयः ॥“()
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “चराचराणि भूतानि  
+सर्वाणि भगवद्-वपुः ।  
+अतस् तदानुकूल्यं मे  
+कार्यम् इत्येव निश्चयः ॥“()
+
+</details>
+
+
+<details><summary>English</summary>
+
+> "All beings, those that **move**  
+and those that do **not move**,  
+**are** the body of Bhagavān.  
+Therefore **I should do** what **is** good for them". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Todos los seres, los que **se mueven**  
+y los que **no se mueven**,  
+**son** el cuerpo de Bhagavān.  
+Por lo tanto **debo hacer** lo que **es** bueno para ellos".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“चराचराणि भूतानि सर्वाणि भगवद्वपुः । अतस्तदानुकूल्यं मे कार्यमित्येव निश्चयः ॥“()
+</details>
 
 
 
-Arulalapperumal Emperumanar, too, has declared: "The man who, owing to his powerlessness, has not the required upāya or means for attaining Bhagavān which is the end desired by him that man should realise with faith that His feet are the upāya for securing his object" Since prapatti ordains, as an upāya, the surrender of the responsibility for protection (bharasamarpana) which is adapted to the adhikārī who is destitute of upāyas, it goes without saying (from the very logic of the matter) that it does not require the performance of any other action which is too hard (for him) to perform.
 
-Thus in the word prapadye (I resolve to seek ) accompanied by the word saranam (refuge), four accessories may be considered as having been indicated: the faith that (the Lord) will protect, and so also seeking Him as the Saviour, the surrender of the self and (one's) helplessness (kārpaṇya). We have already stated that the word Nārāyaṇa with its adjective (Śrīmat) declares such things as Bhagavān's being the Master in accordance with such authoritative texts as the following:-"All beings, those that move and those that do not move, are the body of Bhagavān. Therefore I should do what is good for them". This determination is the sixth aṅga and "The fifth aṅga is the avoidance of what is displeasing to the Master." Therefore His being the Master suggests the determination to do what is agreeable (to Him ) and the avoidance of what is disagreeable (to Him). In another chapter we have stated that these accessories, too, are to be thought of only once for the sake of the upāya (namely : prapatti). The use of the present tense in the verb (prapadye) is, like (the use of present tense in the verb occurring in) the mantra uttered while cutting kuśa grass, to indicate the time when the prapatti is performed. (It does not mean, as the present tense sometimes ineans, that it should be done always). The views ( held by some ) that the present tense (in prapadye) shows that the intention is to enjoin the continuous performance of prapatti until the end of the present body, that it enjoins the continuance of faith which is one of the accessories until the fruit is attained and that it shows also the need for the continuance of such things as the determination to do what is agreeable (to the Lord) even after the performance of prapatti, as its accessories--thesc views are opposed to the pramāṇas which lay down (the rule) that this upāya (prapatti) with its accessories should be performed only once.
+
+We have already stated that the word Nārāyaṇa with its adjective (Śrīmat) declares such things as Bhagavān's being the Master in accordance with such authoritative texts as the following:-
+
+This **determination is** the sixth aṅga and 
+
+> "The fifth aṅga **is** the **avoidance** of what **is displeasing** to the Master." Therefore His being the Master suggests the determination to do what is agreeable (to Him ) and the avoidance of what is disagreeable (to Him). In another chapter we have stated that these accessories, too, are to be thought of only once for the sake of the upāya (namely : prapatti). The use of the present tense in the verb (prapadye) is, like (the use of present tense in the verb occurring in) the mantra uttered while cutting kuśa grass, to indicate the time when the prapatti is performed. (It does not mean, as the present tense sometimes ineans, that it should be done always). The views ( held by some ) that the present tense (in prapadye) shows that the intention is to enjoin the continuous performance of prapatti until the end of the present body, that it enjoins the continuance of faith which is one of the accessories until the fruit is attained and that it shows also the need for the continuance of such things as the determination to do what is agreeable (to the Lord) even after the performance of prapatti, as its accessories--thesc views are opposed to the pramāṇas which lay down (the rule) that this upāya (prapatti) with its accessories should be performed only once.
 
 If they (viz. the accessories described above) continue (even after the performance of prapatti because of the excessive eagerness to attain the object and of their being enjoyable, it does not follow that this continuance is part and parcel of the upāya adopted in the first part (of Dvaya), Therefore the use of the present tense in this sentence (in Dvaya) which states the upāya does not refer to the continuance of uttering the Dvaya for the sake of the enjoyment arising from love which is expressed in Śrī Rāmānuja's Gadya (namely - uttering the Dvaya always with an understanding of its meaning), (The meaning is: as an upāya a single performance or utterance will do; but when ove finds it enjoyable, the Dvaya may be repeatedly uttered).
 
