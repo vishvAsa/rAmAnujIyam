@@ -233,7 +233,7 @@ que **definen** Prapatti que Prapatti es una **oración** (por **ayuda**) con la
 
 ऎऩ्ऱु सॊल्लुगिऱ 
 
-> १६‘‘न्यासः पञ्चाङ्ग संयुत’’(लक्ष्मीतन्त्रम् १७-७४) 
+> १६‘‘न्यासः पञ्चाङ्ग-संयुत’’(लक्ष्मीतन्त्रम् १७-७४) 
 
 इत्य्-आदि-वचनङ्गळाले 
 </details>
@@ -246,7 +246,7 @@ que **definen** Prapatti que Prapatti es una **oración** (por **ayuda**) con la
 
 +इति प्रतिपादयद्भिः 
 
-> १६‘‘न्यासः पञ्चाङ्ग संयुत’’(लक्ष्मीतन्त्रम् १७-७४) 
+> १६‘‘न्यासः पञ्चाङ्ग-संयुत’’(लक्ष्मीतन्त्रम् १७-७४) 
 
 इत्यादि-वचनैः 
 </details>
@@ -853,6 +853,11 @@ y que el resto **son** (solo) aṅgas.
 [[२०६]]
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+भूयसां स्याद् बलीयस्त्वम् इति न्यायः।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1032,7 +1037,7 @@ Cuál **es** el tema principal en ese contexto.
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
-भृत्यप्रधाने मन्त्रिणि प्राधान्यविवक्षया  
+भृत्य-प्रधाने मन्त्रिणि प्राधान्यविवक्षया  
 अयमेव राजेति प्रयोगोदृश्यते यथा॥
 </details>
 
