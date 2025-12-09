@@ -553,6 +553,21 @@ Las dudas **nunca surgirán** durante cualquier **investigación** sobre las cua
 </details>
 
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अत्र प्रपत्तिर् लक्ष्यते। तद् एव सारबोधिनीकारेण  
+
+> स्व+++(→विश्वास)+++-समानाधिकरण-संशय-प्रागभाव+++(स्य)+++- +असमान+++(→अग्रिम)+++-कालिकत्व-रूपम् महत्त्वम्  
+
+इत्य् असकृद् अनूदितम्। 
+
+किञ्च दुष्कर्म-वशात् पश्चात् कुसङ्गादिभिर् विमर्शेतरकाले जात्वा वर्धेरन्न् एव संशयाः।  
+यथा कुम्भः पूर्णो ऽपि पश्चद् विघट्य रिच्येत,  
+न तु प्राक्-पूर्णत्वं तेन च निराक्रियेत,  
+तथात्र। 
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore intensity of faith at the first moment (of **performing** prapatti)  
@@ -577,7 +592,7 @@ que **nunca permitiría** dudas posteriores
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-पिऩ्बॊरुक्कालु मिव्विषयत्तिल् संशयम् पिऱवादबडियाऩ प्रथमक्षणत्तिल् महाविश्वासमिति । इदऩाल् स्वसमानाधिकरण स्वसमानविषयकसंशय प्रागभावासमानकालिकविश्वासम् महाविश्वासमॆऩ्ऱु सॊल्लिऱ् ऱायिऱ्ऱु। इप्पडि महाविश्वासम् प्रपत्तिक्कु पूर्वकालत्तिलुम् प्रपत्तिक्कु उत्तरकालत्तिलुमिरुन् दालुम् अदु अङ्गमऩ्ऱु। 
+पिऩ्बॊरुक्कालुमिव्विषयत्तिल् संशयम् पिऱवादबडियाऩ प्रथमक्षणत्तिल् महाविश्वासमिति । इदऩाल् स्वसमानाधिकरण स्वसमानविषयकसंशय प्रागभावासमानकालिकविश्वासम् महाविश्वासमॆऩ्ऱु सॊल्लिऱ् ऱायिऱ्ऱु। इप्पडि महाविश्वासम् प्रपत्तिक्कु पूर्वकालत्तिलुम् प्रपत्तिक्कु उत्तरकालत्तिलुमिरुन् दालुम् अदु अङ्गमऩ्ऱु। 
 </details>
 
 
@@ -2354,6 +2369,8 @@ Esta **determinación es** el sexto aṅga.
 > "स्वस्य स्वामिनि वृत्तिर् या  
 प्रातिकूल्यस्य वर्जनम्”  
 ( अहिर्बुध्न्य-संहिता ५२-२३)  
+
+इत्य्-आदि-प्रमाणानुसारेण, 
 </details>
 
 <details><summary>English</summary>
@@ -2393,6 +2410,17 @@ De **conformidad** con textos autorizados como el anterior: -
 ऎऩ्ऩुम् इडम्  
 मुऩ्बे सॊऩ्ऩोम्। 
 </details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> स्वामित्वादीनि निबन्धनानि प्रतिपादयति स-विशेषणे नारायण-शब्दे  
+आनुकूल्य-संकल्पः, प्रातिकूल्य-वर्जनं च सूचितम्  
+
+इत्य् एतत् पूर्वम् एवावोचाम ।
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -2439,6 +2467,15 @@ y la **evitación** de lo que **es desagradable** (para Él).
 अधिकारान्तरत्तिले सॊऩ्ऩोम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+
+> इत्थं परिकरा अपि  
+उपायर्थतया सकृत्-कर्तव्या 
+
+इत्य् एतम् अर्थम् अधिकारान्तरे ऽवोचाम ।
+</details>
+
 <details><summary>English</summary>
 
 In another chapter **we have stated**  
@@ -2473,6 +2510,13 @@ por el bien del upāya (es decir: prapatti).
 अनुष्ठान-कालाभिप्रायम्।  
 +++(न तु सातत्यं सूचयति।)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् क्रिया-पदे वर्तमान-व्यपदेशो  
+बर्हिर्-लवनादि-मन्त्रेष्व् इवानुष्ठान-कालाभिप्रायः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2514,6 +2558,14 @@ que **se debe hacer** siempre).
 ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अनैवम्भावेन - 
+
+> 'अयं वर्तमान-व्यपदेशो वर्तमान-देहावधिकतया प्रपत्त्यनुष्ठान-कर्तव्यतां विवक्षतीति', 
+</details>
+
+
 <details><summary>English</summary>
 
 The views ( **held** by some )  
@@ -2553,14 +2605,23 @@ hasta el final del presente cuerpo,
 ऎऩ्ऱुम्,
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> 'फल-प्राप्ति-पर्यन्तं प्रपत्ति-परिकरस्य विश्वासस्यानुवृत्तिं विवक्षतीति', 
+</details>
+
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 > ब्रह्मास्त्रावमान-न्याये सति  
 कथं नाफलं महाविश्वासानुवर्तनम्?  
 
-इति चेत् - उपायान्तर-परिग्रहे हि ब्रह्मास्त्रावमानः। 
-</details>
+इति चेत् -  
+प्रपत्तिक्षणे हि महाविश्वासो ऽपेक्षितः।  
+कारणान्तरेण नस्येत् सः। 
 
+पुनर् उपायान्तर-परिग्रहे हि ब्रह्मास्त्रावमानः। 
+</details>
 
 <details><summary>English</summary>
 
@@ -2584,6 +2645,7 @@ hasta que el fruto **se consiga**
 </details>
 
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > प्रपत्ति-कालत्तिल् ताऩ् सङ्कल्पित्त-बडिये  
@@ -2593,6 +2655,14 @@ hasta que el fruto **se consiga**
 
 ऎऩ्ऱुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> 'प्रपत्ति-काले स्व-संकल्पित-रीत्या आनुकूल्य-संकल्पादेः प्रपत्ति-परिकर-भावेनैवाग्रे ऽप्य् अनुवर्तनीयतां प्रदर्शयति' 
+
+इति च
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2633,6 +2703,13 @@ como sus accesorios--
 ऎऩ्ऱु काट्टुगिऱ प्रमाणङ्गळोडे विरोधिक्कुम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+उच्यमानाः पक्षाः  
+अस्योपायस्य स-परिकरस्य सकृत्-कर्तव्यतां प्रदर्शयद्भिः प्रमाणैर् निरुध्येरन् । 
+</details>
+
+
 <details><summary>English</summary>
 
 these views **are opposed** to the pramāṇas  
@@ -2664,7 +2741,189 @@ que **establece** (la regla) que este upāya (prapatti) con sus accesorios
 इत्यादि प्रमाणङ्गळोडे ऎऩ्ऱबडि।  
 </details>
 
+### अनुवर्तनम् अन्यार्थम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-If they (viz. the accessories described above) continue (even after the performance of prapatti because of the excessive eagerness to attain the object and of their being enjoyable, it does not follow that this continuance is part and parcel of the upāya adopted in the first part (of Dvaya), Therefore the use of the present tense in this sentence (in Dvaya) which states the upāya does not refer to the continuance of uttering the Dvaya for the sake of the enjoyment arising from love which is expressed in Śrī Rāmānuja's Gadya (namely - uttering the Dvaya always with an understanding of its meaning), (The meaning is: as an upāya a single performance or utterance will do; but when ove finds it enjoyable, the Dvaya may be repeatedly uttered).
+त्वरातिशयत्तालुम्, भोग-रूपतैयालुं वरुम् आवृत्तिक्कुम्  
+पूर्व-खण्डत्तिऱ् सॊऩ्ऩ बडिये अनुष्ठितम् आऩ  
+उपाय-शरीरत्तिल् प्रवेशमिल्लै। 
+</details>
+<details><summary>नीलमेघः (सं)</summary>
 
-Thus the first part of Dvaya discloses the Lord's being the Saviour of all, the essential nature or svarūpa of śaraṇāgati, its accessories and the nature of the person qualified for its performance. From this it is evident also that the jīva has no other upāya.
+त्वरातिशयेन भोग-रूपत्वेन चोपनमन्त्या आवृत्तेः  
+पूर्व-खण्डोक्त-रीत्या ऽनुष्ठितोपाय-शरीरे 
+न प्रवेशः । 
+</details>
+
+
+<details><summary>English</summary>
+
+If they (viz. the accessories described above) **continue** (even after the **performance** of prapatti)  
+because of the excessive eagerness to **attain** the object and of their **being enjoyable**,  
+it **does not follow** that this **continuance** is part and parcel of the upāya **adopted** in the first part (of Dvaya). 
+</details>
+
+<details><summary>Español</summary>
+
+Si ellos (es decir, los accesorios descritos anteriormente) **continúan** (incluso después de la **realización** de prapatti)  
+por el excesivo afán de **alcanzar** el objeto y de su **ser disfrutable**,  
+
+de ello **no se sigue**  
+que esta **continuación sea** parte integrante del upāya **adoptado** en la primera parte (de Dvaya).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+त्वरातिशयत्तालुम् भोगरूपतैयालुंवरुमावृत्तिक्कुम् पूर्वखण्डत्तिऱ् सॊऩ्ऩबडिये अनुष्ठितमाऩ उपायशरीरत्तिल् प्रवेशमिल्लै। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+मोक्षार्थमाग प्रबत्ति पण्णिऩवऩेसंसारत्तिल् अडिच्चूट्टाले प्राप्तियिल् त्वरै पिऱन्दु पुनः आर्तप्रपत्तियै यनुष्टित्ताल् अदु फलान्तरार्थमागैयालुम्, “सदैवं वक्ता” ऎऩ्गिऱबडि सर्वदा द्वयत्तैच् चॊऩ्ऩाल् अदु भोगरूपमागैयालुम् पूर्वप्रपत्तियोडु अन्वयमिल्लैयॆऩ्गिऱार् त्वरातिशयत्तालुम् भोगरूपतैयालुमित्यादि । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् इव्व्-उपाय-वाक्यत्तिल् वर्तमान-व्यपदेशम् 
+
+> “द्वयम् अर्थानुसन्धानेन सह सदैवं वक्ता”  
+(शरणागति-गद्यम्) 
+
+ऎऩ्गिऱ राग-प्राप्त-भोग-रूपानुवृत्तियै  
+विवक्षिक्किऱदुम् अऩ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतो ऽस्मिन् उपाय-वाक्ये वर्तमान-व्यपदेशः, 
+
+> "द्वयम् अर्थानुसन्धानेन सह सदैव वक्ता" 
+
+इत्य्-उक्तां राग-प्राप्त-भोग-रूपानुवृत्तिं विवक्षतीत्य् अपि न ।
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore the **use** of the present tense in this sentence (in Dvaya)  
+which **states** the upāya  
+**does not refer** to the **continuance** of **uttering** the Dvaya  
+for the sake of the **enjoyment arising** from love  
+which **is expressed** in Śrī Rāmānuja's Gadya (namely - **uttering** the Dvaya always with an **understanding** of its meaning).  
+
+(The meaning **is**:  
+as an upāya a single **performance** or **utterance will do**;  
+but when one **finds it enjoyable**,  
+the Dvaya **may be** repeatedly **uttered**).
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, el **uso** del tiempo presente en esta oración (en Dvaya)  
+que **enuncia** el upāya  
+**no se refiere** a la **continuación** de **pronunciar** el Dvaya  
+por el **disfrute** que **surge** del amor  
+que **se expresa** en el Gadya de Śrī Rāmānuja (es decir, - **pronunciar** el Dvaya siempre con una **comprensión** de su significado).  
+
+(El significado **es**:  
+como upāya, una sola **actuación** o **enunciación servirá**;  
+pero cuando uno **lo encuentra divertido**,  
+el Dvaya **puede ser** repetidamente **pronunciado**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयालिव्वुपायवाक्यत्तिल् वर्तमानव्यपदेशम् “द्वयमर्थानुसन्धानेन सह सदैवं वक्ता”( शरणागति-गद्यम्) ऎऩ्गिऱ रागप्राप्तभोगरूपानुवृत्तियै विवक्षिक्किऱदुमऩ्ऱु। 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इन्द वर्तमाननिर्देशम् अर्थानुसन्धानेन सह सदैवं वक्ता ऎऩ्गिऱबडि भोगरूपमाऩ प्रपत्त्यनुवृत्तियैच् चॊल्लादो ऎऩ्ऩ वरुळिच्चॆय्गिऱार् आगैयालित्यादियाल्। 
+
+उपायवाक्यत्तिलिति । पूर्वखण्डरूपमाऩ सकृत्कर्तव्योपायत्तैच् चॊल्लुगिऱ वाक्यत्तिल् ऎऩ्ऱबडि। 
+</details>
+
+
+## पूर्व-खण्ड-सङ्ग्रहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि सर्व-शरण्यत्वमुम्, शरणागति--स्व-रूपमुम्, इदिऩ् परिकरङ्गळुम्, अधिकारि-विशेषमुम्  
+पूर्वखण्डत्तिले प्रकाशितम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं सर्व-शरण्यत्वं, शरणागति-स्वरूपम्, एतत्-परिकरा, अधिकार-विशेषश् च  
+पूर्व-खण्डे प्रकाशितानि जातानि । 
+</details>
+
+
+<details><summary>English</summary>
+
+Thus the first part of Dvaya discloses the Lord's **being** the Saviour of all,  
+the essential nature or svarūpa of śaraṇāgati, its accessories  
+and the nature of the person **qualified** for its performance. 
+</details>
+
+<details><summary>Español</summary>
+
+Así, la primera parte de Dvaya **revela** que  
+el Señor **es** el Salvador de todos,  
+la naturaleza esencial o svarūpa de śaraṇāgati, sus accesorios  
+y la naturaleza de la persona **calificada** para su **desempeño**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सर्वशरण्यत्वमुम् शरणागतिस्वरूपमुम् इदिऩ् परिकरङ्गळुम् अधिकारिविशेषमुम् पूर्वखण्डत्तिले प्रकाशितमायिऱ्ऱु। 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पूर्वखण्डत्तिल् सॊऩ्ऩ अर्थङ्गळै अनुवदित्तु निगमिक्किऱार् इप्पडि इति । निरुपाधिकमाऩ शरणशब्दत्ताले सर्वशरण्यत्वमुम्, शरणं प्रपद्ये ऎऩ्गिऱ विशिष्टत्तिल् उपायत्वेन वरणम् सॊल्लुगैयाले शरणागतिस्वरूपमुम्, अन्दन्द पदङ्गळिल् अन्दन्द परिगरङ्गळुम्, उत्तमऩिल् अकिञ्चऩाऩ अधिकारिविशेषमुम् प्रकाशितमायिऱ्ऱु ऎऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताले अनन्योपायत्वमुम् सिद्धित्तदु।  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतेनानन्योपायत्वं सिद्धम् ॥
+</details>
+
+
+<details><summary>English</summary>
+
+From this it is evident also that the jīva has no other upāya.
+</details>
+
+<details><summary>Español</summary>
+
+De esto también **resulta evidente** que  
+la jīva **no tiene** otro upāya.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इत्ताले अनन्योपायत्वमुम् सिद्धित्तदु।  
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इत्ताले - सर्वशरण्यत्व पूर्वकोपायान्तरस्थाननिवेशरूप प्रपत्तिस्वरूप प्रतिपादनत्ताले।  
+</details>
+
+
+

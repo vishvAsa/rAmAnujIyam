@@ -1,22 +1,700 @@
 +++
 title = "१२ उत्तर-खण्डः"
 +++
+<details><summary>English</summary>
+
 THE SECOND PART OF DVAYA:
+</details>
 
-Śaraṇāgati which has been thus described (in the first part; is capable of securing all desired ends, for it has been stated :--
+<details><summary>Español</summary>
 
-"Only so long as prapatti which can remove all sins has not been performed towards Thee, only so long will there be misery caused by the loss of wealth and the apxiety to regain it; only so long will there be the desire to win wealth, only so long will there be no realisation of the self being different from the body; only so long will there be the suffering of saṁsāra." Further the Saviour is supremely generous; “Is there any other who is so generous as He and who can grant whatever is desired ?" He stands ever ready with the determination to grant whatever is desired by the suppliants, for it has been said: "If we receive any thing from the Lord, He does not lose anything thereby. He will give us whatever we ask.” (Such being the case) the question arises: "What is the object or end for which prapatti should be performed?** The second part of Dvaya, (as if in answer to this question), prays for that object (end or fruit), which would be in keeping with the Saviour who is supremely generous, in keeping with this special upāya (prapatti) which can secure the favour of One who is superior to all others, and in keeping with one's own essential nature (svarūpa) which will find its sole delight only in being His śeṣa. As expressed in the passage: "The only end which I seek is that the Lord should take me as His servant for His own pleasure", the second part prays for this desired end (namely, service to the Lord ), including the removal of all hindrances to it. From this it also follows that the jīva should have no other interest or object.
+LA SEGUNDA PARTE DE DVAYA:
+</details>
 
-In this context, the word Nārāyaṇa with the attribute qualifying it (viz. Śrīmat) discloses, primarily and in accordance with the pramāṇas, the Lord's being the Master and the like and so also the unsurpassed enjoyability of the Master who has countless qualities and the two vibhūtis (glories ) which make Him fit to be the object of attainment.
+## फलाकाङ्क्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## श्रीमते
+इप्-पडि तोऱ्ऱिऩ शरणागति 
+</details>
+
+<details><summary>English</summary>
+
+Śaraṇāgati which **has been thus described**  
+(in the first part); 
+</details>
+
+<details><summary>Español</summary>
+
+Śaraṇāgati que **ha sido así descrita**  
+(en la primera parte);
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि तोऱ्ऱिऩ शरणागति 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “तावद् आर्तिस् तथा वाञ्छा  
+तावन् मोहस् तथा ऽसुखम्”  
+( विष्णुपुराणम् १-९-७३) 
+</details>
+
+<details><summary>English</summary>
+
+> "Only so long as prapatti which **can remove** all sins **has not been performed** towards Thee,  
+only so long **will there be** misery caused by the **loss** of wealth and the anxiety to **regain** it;  
+only so long **will there be** the **desire** to win wealth,  
+only so long **will there be no realisation** of the self **being** different from the body;  
+only so long **will there be** the **suffering** of saṁsāra." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Sólo mientras prapatti  
+que **puede eliminar** todos los pecados  
+**no se haya realizado** hacia Ti,  
+sólo mientras **habrá** miseria causada por la **pérdida** de riqueza y la ansiedad por **recuperarla**;  
+Sólo mientras **habrá** el **deseo** de **ganar** riqueza,  
+sólo mientras **no habrá realización** de que el yo **ser** diferente del cuerpo;  
+sólo durante un tiempo **habrá** el **sufrimiento** del saṁsāra."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तावदार्तिस्तथा वाञ्छा तावन्मोहस्तथाऽसुखम्”( विष्णुपुराणम् १-९-७३) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्यादिगळिऱ् पडिये  
+सकल-फल-साधनम् आगैयालुम्
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये सकलफलसाधनमागैयालुम्
+</details>
+
+<details><summary>English</summary>
+
+As it has been stated above,  
+(Śaraṇāgati) **is capable** of **securing** all desired ends,  
+
+</details>
+
+<details><summary>Español</summary>
+
+Como **se ha dicho** arriba,  
+(Śaraṇāgati) **es capaz** de **asegurar** todos los fines **deseados**,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “तद्-अन्यः को महोदारः”( इतिहास-समुच्चयः ३३-११९) 
+</details>
+
+<details><summary>English</summary>
+
+> “**Is there** any other who **is** so generous as He  
+and who **can grant** whatever **is desired** ?" 
+</details>
+
+<details><summary>Español</summary>
+
+> “¿Hay** algún otro que **sea** tan generoso como Él?  
+¿Y quién **puede conceder** lo que **se desee**?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तदन्यः को महोदारः”( इतिहास-समुच्चयः ३३-११९) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ बडिये  
+परमोदारऩ् आऩ शरण्यऩ्  
+अर्थितार्थ-परिदान-दीक्षितऩ् आय्
+</details>
+
+<details><summary>English</summary>
+
+Further, (as stated above,) the Saviour is supremely generous; 
+</details>
+
+<details><summary>Español</summary>
+
+Además, (como **se indicó** anteriormente,) el Salvador **es** sumamente generoso;
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱबडिये परमोदारऩाऩ शरण्यऩ् अर्थितार्थपरिदानदीक्षितऩाय्
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “कॊळ्ळक् +++(→ग्रहणेन)+++ कुऱैव्-इलऩ्, वेण्डिऱ्ऱ् ऎल्लान् दरुम्”  
+( तिरुवाय्मॊऴि ३-९-५)  
+
+ऎऩ्ऩुम् बडि निऱ्कैयालुम्
+</details>
+
+<details><summary>English</summary>
+
+He **stands** ever ready with the determination  
+**to grant** whatever **is desired** by the **suppliants**,  
+for it **has been said**:  
+
+> "If **we receive** any thing from the Lord,  
+He **does not lose** anything thereby.  
+He **will give us** whatever **we ask**.”  
+</details>
+
+<details><summary>Español</summary>
+
+Él **está** siempre **listo** con la determinación  
+**para conceder** todo lo **que deseen** los **suplicantes**,  
+porque **se ha dicho**:  
+
+> "Si **recibimos** algo del Señor,  
+Él **no pierde** nada con ello.  
+Él **nos dará** todo lo que **le pidamos**”.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“कॊळ्ळक् कुऱैविलऩ् वेण्डिऱ्ऱॆल्लान्दरुम्”( तिरुवाय्मॊऴि ३-९-५)  ऎऩ्ऩुम्बडि निऱ्कैयालुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इङ्गु ऎऩ्ऩ फलत्तुक्क् आग प्रपत्ति पण्णुगिऱद् 
+
+ऎऩ्गिऱ अपेक्षैयिले 
+</details>
+
+<details><summary>English</summary>
+
+(Such being the case) the question arises: 
+
+> "What **is** the object or end  
+for which prapatti **should be performed**? 
+</details>
+
+<details><summary>Español</summary>
+
+(Siendo tal el caso) surge la **pregunta**: 
+
+> "¿Qué **es** el objeto o fin  
+¿Para qué prapatti **debería realizarse**?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु ऎऩ्ऩ फलत्तुक्काग प्रपत्तिपण्णुगिऱदॆऩ्गिऱ अपेक्षैयिले 
+</details>
+
+
+### उत्तरम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महोदारऩ् आऩ शरण्यऩुक्कुम्  
+सर्वोत्कृष्ट-विषयम् आऩ इव् वशी-करण-विशेषत्तुक्कुम्  
+शेषतैक-रसऩ् आऩ तऩ् स्व-रूपत्तुक्कुम्  
+अनुरूपम् आऩ फल-विशेषत्तै  
+उत्तरखण्डम्
+</details>
+
+<details><summary>English</summary>
+
+The second part of Dvaya, (as if in **answer** to this **question**),  
+(prays) for that object (end or fruit),  
+which **would be in keeping** with the **Saviour** who **is** supremely generous,  
+in keeping with this special upāya (prapatti)  
+which **can secure** the favour of One who **is** superior to all others,  
+and in keeping with one's own essential nature (svarūpa)  
+which **will find** its sole delight  
+only in **being** His śeṣa,   
+</details>
+
+<details><summary>Español</summary>
+
+La segunda parte de Dvaya, (como en **respuesta** a esta **pregunta**),  
+(ora) por ese objeto (fin o fruto),  
+
+lo cual **estaría en consonancia** con el **Salvador** que **es** supremamente generoso,  
+
+de acuerdo con este upāya (prapatti) especial  
+que **puede asegurar** el favor de Aquel que **es** superior a todos los demás,  
+
+y de acuerdo con la propia naturaleza esencial (svarūpa)
+que **encontrará** su único deleite  
+sólo en **ser** Su śeṣa,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+महोदारऩाऩ शरण्यऩुक्कुम् सर्वोत्कृष्टविषयमाऩ इव् वशीकरणविशेषत्तुक्कुम् शेषतैकरसऩाऩ तऩ् स्वरूपत्तुक्कुमनुरूपमाऩ फलविशेषत्तै उत्तरखण्डम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “तऩक्केय् आगव् ऎऩैक् कॊळ्ळुम् ईदे”( तिरुवाय्मॊऴि २-९-४।) 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>English</summary>
+
+As expressed in the passage:  
+
+> "The only end which **I seek is** that  
+the Lord **should take me** as His servant for His own pleasure", 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se expresa** en el pasaje:  
+
+> "El único fin que **busco** es que  
+el Señor **debería tomarme** como Su **siervo** para Su propio placer",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तऩक्के यागवॆऩैक्कॊळ्ळुमीदे”( तिरुवाय्मॊऴि २-९-४।) ऎऩ्गिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+समस्त-विरोधि-निवृत्ति-पर्यन्तम् आग प्रार्थिक्किऱदु।
+</details>
+
+<details><summary>English</summary>
+
+the second part **prays** for this **desired** end  
+(namely, **service** to the Lord ),  
+including the **removal** of all **hindrances** to it. 
+</details>
+
+<details><summary>Español</summary>
+
+la segunda parte **reza** por este final **deseado**  
+(es decir, **servicio** al Señor),  
+**incluida** la **eliminación** de todos los **obstáculos** al mismo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+समस्तविरोधिनिवृत्तिपर्यन्तमाग प्रार्थिक्किऱदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताले अनन्य-प्रयोजनत्वमुम् सिद्धिक्किऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+From this it also **follows** that  
+the jīva **should have** no other interest or object.
+</details>
+
+<details><summary>Español</summary>
+
+De esto también **se deduce** que  
+la jīva **no debería tener** ningún otro interés u objeto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्ताले अनन्यप्रयोजनत्वमुम् सिद्धिक्किऱदु। 
+</details>
+
+
+## श्रीमते नारायणाय
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिले स-विशेषणम् आऩ नारायण-शब्दमुम्  
+
+\- प्राप्यतैक्क् अनुरूपम् आऩ स्वामित्वादिगळुम् 
+</details>
+
+<details><summary>English</summary>
+
+In this context, the word Nārāyaṇa with the attribute qualifying it (viz. Śrīmat) (**discloses**)- 
+
+\- the Lord's **being** the Master and the like  
+</details>
+
+<details><summary>Español</summary>
+
+En este contexto, la palabra Nārāyaṇa con el atributo que la califica (a saber, Śrīmat) (**revela**)- 
+
+\- el Señor **siendo** el Maestro y cosas por el estilo
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिले सविशेषणमाऩ नारायणशब्दमुम् प्राप्यतैक्कनुरूपमाऩ स्वामित्वादिगळुम् 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+\- अनन्त-गुण-विभूति-विशिष्टऩ् आऩ  
+स्वामियिऩ्-उडैय सर्व-प्रकार-निरतिशय-भोग्यतैयुम् 
+
+आगिऱव् आकारङ्गळै  
+यथाप्रमाणम् प्राधान्येन काट्टुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+\- and so also the **unsurpassed enjoyability** of the Master who has countless qualities  
+and the two vibhūtis (glories ) which make Him **fit** to be the object of **attainment**.
+
+(It) **discloses** (the above),  
+primarily and in accordance with the pramāṇas.  
+</details>
+
+<details><summary>Español</summary>
+
+\- y también la **disfrutabilidad insuperable** del Maestro que **tiene** innumerables cualidades  
+y los dos vibhūtis (glorias) que lo **hacen apto** para **ser** el objeto de **logro**.
+
+(Él) **revela** (lo anterior),  
+principalmente y de acuerdo con los pramāṇas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनन्तगुणविभूतिविशिष्टऩाऩ स्वामियिऩुडैय सर्वप्रकारनिरतिशयभोग्यतैयुमागिऱव् आकारङ्गळै यथाप्रमाणम् प्राधान्येन काट्टुगिऱदु। 
+</details>
+
+
+### श्रीमते
+<details><summary>English</summary>
+
 THE MEANING OF THE WORD ŚRĪMATE (IN THE SECOND PART OF DVAYA):
+</details>
 
-Though Bhagavān who is thus endowed with the two vibhūtis (Līlā and Nitya) is the object of attainment, the word Śrīmate (with Śrī) is employed here to show that, for the offering of the havis of the self, the intended recipients, are both the Lord and His Spouse. They are (the two) to whom we are śeṣas and consequently (the two) to whom our service is due. Primarily they are (therefore) the objects of attainment. This idea is implicit also in the following and other passages :- " Bhagavān, the Lord of the world, is in the glorious world called Vaikuṇṭha with Lakṣmī"; " Bhagavān who is seated on the serpent Ādiśeṣa with his Spouse" "The Lord is seated with Lakṣmī who is (in every way) suited to Him." "At the sight of Thee and Thy consort with her shining bracelets standing together (as the Rulers of the world)” “Lakṣmī whose beauty fascinates even Thee ", etc.
+<details><summary>Español</summary>
+
+EL SIGNIFICADO DE LA PALABRA ŚRĪMATE (EN LA SEGUNDA PARTE DE DVAYA):
+</details>
+
+
+#### प्राप्यौ शेषिणौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि उभय-विभूति-विशिष्टम् प्राप्यम् आय् इरुक्कच् चॆय्देयुम् 
+</details>
+
+<details><summary>English</summary>
+
+Though Bhagavān who **is** thus **endowed** with the two vibhūtis (Līlā and Nitya)  
+**is** the object of **attainment**, 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque Bhagavān, quien **está** así **dotado** con los dos vibhūtis (Līlā y Nitya)  
+**es** el objeto de **logro**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि उभयविभूतिविशिष्टम् प्राप्यमायिरुक्कच्चॆय्देयुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्म-हविर्-उद्देश्यरुम् आय्
+</details>
+
+<details><summary>English</summary>
+
+for the offering of the havis of the self, the intended recipients, 
+</details>
+
+<details><summary>Español</summary>
+
+para el **ofrecimiento** del havis del yo, los **destinatarios previstos**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आत्महविरुद्देश्यरुमाय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शेषत्व-प्रतिसम्बन्धिगळुम् आय् 
+</details>
+
+<details><summary>English</summary>
+
+those to whom we are śeṣas 
+</details>
+
+<details><summary>Español</summary>
+
+aquellos para quienes **somos** śeṣas
+</details>
+
+<details><summary>मूलम्</summary>
+
+शेषत्वप्रतिसम्बन्धिकळुमाय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद्-अडियाग वरुगिऱ कैङ्कर्यत्तुक्कुम् इलक्क् आय्क् कॊण्डु 
+</details>
+
+<details><summary>English</summary>
+
+and consequently (the two) to whom our **service is due**
+</details>
+
+<details><summary>Español</summary>
+
+y en consecuencia (los dos) a quienes se debe nuestro **servicio**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदडियाग वरुगिऱ कैङ्कर्यत्तुक्कुमिलक्काय्क्कॊण्डु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रधान-प्राप्यरुम् आय् इरुप्पार् 
+</details>
+
+<details><summary>English</summary>
+
+primarily, (therefore) the objects of attainment - 
+</details>
+
+<details><summary>Español</summary>
+
+principalmente, (por lo tanto) los objetos de **logro** -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रधानप्राप्यरुमायिरुप्पार् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव् विशिष्टदंपतिकळॆऩ्ऱु तोऱ्ऱुगैक्काग इङ्गु श्रीमच्छब्दम्।
+</details>
+
+<details><summary>English</summary>
+
+The word Śrīmate (with Śrī) **is employed** here to show that,  
+(These) **are** both the Lord and His Spouse. 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra Śrīmate (con Śrī) **se emplea** aquí para **mostrar** que,  
+(Estos) **son** tanto el Señor como Su Esposa.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव् विशिष्टदंपतिकळॆऩ्ऱु तोऱ्ऱुगैक्काग इङ्गु श्रीमच्छब्दम्।
+</details>
+
+##### प्रमाणानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थम् 
+
+> “वैकुण्ठे तु परे लोके  
+श्रिया सार्धं जगत्-पतिः”  
+( लैङ्ग-पुराणम्), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “वैकुण्ठे तु परे लोके  
+श्रिया सार्धं जगत्-पतिः”  
+( लैङ्ग-पुराणम्), 
+
+</details>
+
+<details><summary>English</summary>
+
+This idea ... 
+
+> " Bhagavān, the Lord of the world, **is** in the glorious world **called** Vaikuṇṭha with Lakṣmī"; 
+</details>
+
+<details><summary>Español</summary>
+
+Esta idea... 
+
+> "Bhagavān, el Señor del mundo, **está** en el mundo glorioso **llamado** Vaikuṇṭha con Lakṣmī";
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थम् “वैकुण्ठे तु परेलोके श्रिया सार्धं जगत्पतिः”( लैङ्गपुराणम्), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ”तया सहासीनम् अनन्त-भोगिनि”  
+( आळवन्दार्स्तोत्रम् ३९), 
+</details>
+
+<details><summary>English</summary>
+
+> " Bhagavān who **is seated** on the serpent Ādiśeṣa with his Spouse" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Bhagavān que **está sentado** sobre la serpiente Ādiśeṣa con su Esposa"
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ”तया सहासीनम् अनन्त-भोगिनि”  
+( आळवन्दार्स्तोत्रम् ३९), 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+”तया सहासीनमनन्तभोगिनि”( आळवन्दार्स्तोत्रम् ३९), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ”आत्मानुरूपया श्रिया सहासीनम्”  
+( वैकुण्ठ-गद्यम्)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ”आत्मानुरूपया श्रिया सहासीनम्”  
+( वैकुण्ठ-गद्यम्)
+</details>
+
+<details><summary>English</summary>
+
+> "The Lord **is seated** with Lakṣmī  
+who **is** (in every way) **suited** to Him." 
+</details>
+
+<details><summary>Español</summary>
+
+> "El Señor **está sentado** con Lakṣmī  
+quien **es** (en todos los sentidos) **adecuado** a Él."
+</details>
+
+<details><summary>मूलम्</summary>
+
+”आत्मानुरूपया श्रिया सहासीनम्”( वैकुण्ठ-गद्यम्)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “ऒण्-++++(कङ्कण=)+++तॊडियाळ् तिरु-मगळुम् नीयुमे निला निऱ्प”  
+( तिरुवाय्मॊऴि ४-९-१०),
+</details>
+
+<details><summary>English</summary>
+
+> "At the **sight** of Thee and Thy consort  
+with her shining bracelets  
+**standing** together (as the Rulers of the world)” 
+</details>
+
+<details><summary>Español</summary>
+
+> "A la **vista** de Ti y de Tu consorte  
+con sus pulseras brillantes  
+**permaneciendo** juntos (como los Gobernantes del mundo)”
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“ऒण्डॊडियाळ् तिरुमगळुम् नीयुमे निलानिऱ्प”( तिरुवाय्मॊऴि ४-९-१०),
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ”कोलत्-तिरु-मा-मगळोड् उऩ्ऩै”( तिरुवाय्मॊऴि ६-९-३) 
+
+इत्यादिगळिलुम् विवक्षितम्। 
+</details>
+
+<details><summary>English</summary>
+
+> “Lakṣmī whose beauty fascinates even Thee ", etc.
+
+(This idea) **is** implicit also in the above and other passages.
+
+</details>
+
+<details><summary>Español</summary>
+
+> “Lakṣmī cuya belleza **te fascina** incluso a Ti", etc.
+
+(Esta idea) **está implícita** también en el pasaje anterior y en otros.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+”कोलत्तिरुमामगळोडुऩ्ऩै”( तिरुवाय्मॊऴि ६-९-३) इत्यादिगळिलुम् विवक्षितम्। 
+</details>
+
+
+
 
 Though the word Śrī used here has several meanings as stated in the following ślokas: " She dispels all blemishes; generates good qualities in those who are in the world; is attained by all at all times and has herself attained the Supreme Object of attainment (Bhagavān)" and "The Lord's Spouse who has aitained the Lord and is attained by others and who dispels all blemishes and listens to the cry of the distressed " -- (though the word has all these meanings) yet, here, it denotes the person who is entitled to (our) service as it is derived from the verbal root Śrī which means ‘Service'.
 
-## नारायणाय
+### नारायणाय
 THE MEANING OF NĀRĀYAŅĀYA:
 
 Though the word Śrīmate by itself denotes Bhagavān and His Spouse who are entitled to our service, yet the word Narayaṇa is employed here to indicate the full and perfect enjoyment (anubhava) of the association of a śeṣa to the śeṣī, and of His qualities and glories (vibhūtis ); for this enjoyment ( alone) will generate the kind of love which is essential for all forms of service. Here the dative (or fourth case) which means for Nāriyana (existing for Ilim) refers thereby to service, 'Existing for Him' is in itself an eternal fact (and need not be prayed for). Therefore what is to be prayed for here is service (to Them) preceded by full and perfect enjoyinent as stated in the following ślokas and elsewhere : “ Hereafter I should bear in mind the fact of my being His śeṣa and render service to Him: This is the meaning of namas." " Whether you are awake or asleep, I (Lakṣmuana ) will perform all kinds of service to You".
