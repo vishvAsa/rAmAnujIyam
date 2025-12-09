@@ -396,9 +396,301 @@ principalmente y de acuerdo con los pramāṇas.
 
 
 ### श्रीमते
-THE MEANING OF THE WORD ŚRĪMATE (IN THE SECOND PART OF DVAYA):
+<details><summary>English</summary>
 
-Though Bhagavān who is thus endowed with the two vibhūtis (Līlā and Nitya) is the object of attainment, the word Śrīmate (with Śrī) is employed here to show that, for the offering of the havis of the self, the intended recipients, are both the Lord and His Spouse. They are (the two) to whom we are śeṣas and consequently (the two) to whom our service is due. Primarily they are (therefore) the objects of attainment. This idea is implicit also in the following and other passages :- " Bhagavān, the Lord of the world, is in the glorious world called Vaikuṇṭha with Lakṣmī"; " Bhagavān who is seated on the serpent Ādiśeṣa with his Spouse" "The Lord is seated with Lakṣmī who is (in every way) suited to Him." "At the sight of Thee and Thy consort with her shining bracelets standing together (as the Rulers of the world)” “Lakṣmī whose beauty fascinates even Thee ", etc.
+THE MEANING OF THE WORD ŚRĪMATE (IN THE SECOND PART OF DVAYA):
+</details>
+
+<details><summary>Español</summary>
+
+EL SIGNIFICADO DE LA PALABRA ŚRĪMATE (EN LA SEGUNDA PARTE DE DVAYA):
+</details>
+
+
+#### प्राप्यौ शेषिणौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि उभय-विभूति-विशिष्टम् प्राप्यम् आय् इरुक्कच् चॆय्देयुम् 
+</details>
+
+<details><summary>English</summary>
+
+Though Bhagavān who **is** thus **endowed** with the two vibhūtis (Līlā and Nitya)  
+**is** the object of **attainment**, 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque Bhagavān, quien **está** así **dotado** con los dos vibhūtis (Līlā y Nitya)  
+**es** el objeto de **logro**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि उभयविभूतिविशिष्टम् प्राप्यमायिरुक्कच्चॆय्देयुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्म-हविर्-उद्देश्यरुम् आय्
+</details>
+
+<details><summary>English</summary>
+
+for the offering of the havis of the self, the intended recipients, 
+</details>
+
+<details><summary>Español</summary>
+
+para el **ofrecimiento** del havis del yo, los **destinatarios previstos**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आत्महविरुद्देश्यरुमाय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शेषत्व-प्रतिसम्बन्धिगळुम् आय् 
+</details>
+
+<details><summary>English</summary>
+
+those to whom we are śeṣas 
+</details>
+
+<details><summary>Español</summary>
+
+aquellos para quienes **somos** śeṣas
+</details>
+
+<details><summary>मूलम्</summary>
+
+शेषत्वप्रतिसम्बन्धिकळुमाय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद्-अडियाग वरुगिऱ कैङ्कर्यत्तुक्कुम् इलक्क् आय्क् कॊण्डु 
+</details>
+
+<details><summary>English</summary>
+
+and consequently (the two) to whom our **service is due**
+</details>
+
+<details><summary>Español</summary>
+
+y en consecuencia (los dos) a quienes se debe nuestro **servicio**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदडियाग वरुगिऱ कैङ्कर्यत्तुक्कुमिलक्काय्क्कॊण्डु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रधान-प्राप्यरुम् आय् इरुप्पार् 
+</details>
+
+<details><summary>English</summary>
+
+primarily, (therefore) the objects of attainment - 
+</details>
+
+<details><summary>Español</summary>
+
+principalmente, (por lo tanto) los objetos de **logro** -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रधानप्राप्यरुमायिरुप्पार् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव् विशिष्टदंपतिकळॆऩ्ऱु तोऱ्ऱुगैक्काग इङ्गु श्रीमच्छब्दम्।
+</details>
+
+<details><summary>English</summary>
+
+The word Śrīmate (with Śrī) **is employed** here to show that,  
+(These) **are** both the Lord and His Spouse. 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra Śrīmate (con Śrī) **se emplea** aquí para **mostrar** que,  
+(Estos) **son** tanto el Señor como Su Esposa.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव् विशिष्टदंपतिकळॆऩ्ऱु तोऱ्ऱुगैक्काग इङ्गु श्रीमच्छब्दम्।
+</details>
+
+##### प्रमाणानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थम् 
+
+> “वैकुण्ठे तु परे लोके  
+श्रिया सार्धं जगत्-पतिः”  
+( लैङ्ग-पुराणम्), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “वैकुण्ठे तु परे लोके  
+श्रिया सार्धं जगत्-पतिः”  
+( लैङ्ग-पुराणम्), 
+
+</details>
+
+<details><summary>English</summary>
+
+This idea ... 
+
+> " Bhagavān, the Lord of the world, **is** in the glorious world **called** Vaikuṇṭha with Lakṣmī"; 
+</details>
+
+<details><summary>Español</summary>
+
+Esta idea... 
+
+> "Bhagavān, el Señor del mundo, **está** en el mundo glorioso **llamado** Vaikuṇṭha con Lakṣmī";
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थम् “वैकुण्ठे तु परेलोके श्रिया सार्धं जगत्पतिः”( लैङ्गपुराणम्), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ”तया सहासीनम् अनन्त-भोगिनि”  
+( आळवन्दार्स्तोत्रम् ३९), 
+</details>
+
+<details><summary>English</summary>
+
+> " Bhagavān who **is seated** on the serpent Ādiśeṣa with his Spouse" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Bhagavān que **está sentado** sobre la serpiente Ādiśeṣa con su Esposa"
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ”तया सहासीनम् अनन्त-भोगिनि”  
+( आळवन्दार्स्तोत्रम् ३९), 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+”तया सहासीनमनन्तभोगिनि”( आळवन्दार्स्तोत्रम् ३९), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ”आत्मानुरूपया श्रिया सहासीनम्”  
+( वैकुण्ठ-गद्यम्)
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ”आत्मानुरूपया श्रिया सहासीनम्”  
+( वैकुण्ठ-गद्यम्)
+</details>
+
+<details><summary>English</summary>
+
+> "The Lord **is seated** with Lakṣmī  
+who **is** (in every way) **suited** to Him." 
+</details>
+
+<details><summary>Español</summary>
+
+> "El Señor **está sentado** con Lakṣmī  
+quien **es** (en todos los sentidos) **adecuado** a Él."
+</details>
+
+<details><summary>मूलम्</summary>
+
+”आत्मानुरूपया श्रिया सहासीनम्”( वैकुण्ठ-गद्यम्)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “ऒण्-++++(कङ्कण=)+++तॊडियाळ् तिरु-मगळुम् नीयुमे निला निऱ्प”  
+( तिरुवाय्मॊऴि ४-९-१०),
+</details>
+
+<details><summary>English</summary>
+
+> "At the **sight** of Thee and Thy consort  
+with her shining bracelets  
+**standing** together (as the Rulers of the world)” 
+</details>
+
+<details><summary>Español</summary>
+
+> "A la **vista** de Ti y de Tu consorte  
+con sus pulseras brillantes  
+**permaneciendo** juntos (como los Gobernantes del mundo)”
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“ऒण्डॊडियाळ् तिरुमगळुम् नीयुमे निलानिऱ्प”( तिरुवाय्मॊऴि ४-९-१०),
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ”कोलत्-तिरु-मा-मगळोड् उऩ्ऩै”( तिरुवाय्मॊऴि ६-९-३) 
+
+इत्यादिगळिलुम् विवक्षितम्। 
+</details>
+
+<details><summary>English</summary>
+
+> “Lakṣmī whose beauty fascinates even Thee ", etc.
+
+(This idea) **is** implicit also in the above and other passages.
+
+</details>
+
+<details><summary>Español</summary>
+
+> “Lakṣmī cuya belleza **te fascina** incluso a Ti", etc.
+
+(Esta idea) **está implícita** también en el pasaje anterior y en otros.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+”कोलत्तिरुमामगळोडुऩ्ऩै”( तिरुवाय्मॊऴि ६-९-३) इत्यादिगळिलुम् विवक्षितम्। 
+</details>
+
+
+
 
 Though the word Śrī used here has several meanings as stated in the following ślokas: " She dispels all blemishes; generates good qualities in those who are in the world; is attained by all at all times and has herself attained the Supreme Object of attainment (Bhagavān)" and "The Lord's Spouse who has aitained the Lord and is attained by others and who dispels all blemishes and listens to the cry of the distressed " -- (though the word has all these meanings) yet, here, it denotes the person who is entitled to (our) service as it is derived from the verbal root Śrī which means ‘Service'.
 
