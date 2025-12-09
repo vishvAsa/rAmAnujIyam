@@ -1,11 +1,105 @@
 +++
 title = "१२ उत्तर-खण्डः"
 +++
+<details><summary>English</summary>
+
 THE SECOND PART OF DVAYA:
+</details>
 
-Śaraṇāgati which has been thus described (in the first part; is capable of securing all desired ends, for it has been stated :--
+<details><summary>Español</summary>
 
-"Only so long as prapatti which can remove all sins has not been performed towards Thee, only so long will there be misery caused by the loss of wealth and the apxiety to regain it; only so long will there be the desire to win wealth, only so long will there be no realisation of the self being different from the body; only so long will there be the suffering of saṁsāra." Further the Saviour is supremely generous; “Is there any other who is so generous as He and who can grant whatever is desired ?" He stands ever ready with the determination to grant whatever is desired by the suppliants, for it has been said: "If we receive any thing from the Lord, He does not lose anything thereby. He will give us whatever we ask.” (Such being the case) the question arises: "What is the object or end for which prapatti should be performed?** The second part of Dvaya, (as if in answer to this question), prays for that object (end or fruit), which would be in keeping with the Saviour who is supremely generous, in keeping with this special upāya (prapatti) which can secure the favour of One who is superior to all others, and in keeping with one's own essential nature (svarūpa) which will find its sole delight only in being His śeṣa. As expressed in the passage: "The only end which I seek is that the Lord should take me as His servant for His own pleasure", the second part prays for this desired end (namely, service to the Lord ), including the removal of all hindrances to it. From this it also follows that the jīva should have no other interest or object.
+LA SEGUNDA PARTE DE DVAYA:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि तोऱ्ऱिऩ शरणागति 
+</details>
+
+<details><summary>English</summary>
+
+Śaraṇāgati which **has been thus described**  
+(in the first part); 
+</details>
+
+<details><summary>Español</summary>
+
+Śaraṇāgati que **ha sido así descrita**  
+(en la primera parte);
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि तोऱ्ऱिऩ शरणागति 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “तावद् आर्तिस् तथा वाञ्छा  
+तावन् मोहस् तथा ऽसुखम्”  
+( विष्णुपुराणम् १-९-७३) 
+</details>
+
+<details><summary>English</summary>
+
+> "Only so long as prapatti which **can remove** all sins **has not been performed** towards Thee,  
+only so long **will there be** misery caused by the **loss** of wealth and the anxiety to **regain** it;  
+only so long **will there be** the **desire** to win wealth,  
+only so long **will there be no realisation** of the self **being** different from the body;  
+only so long **will there be** the **suffering** of saṁsāra." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Sólo mientras prapatti  
+que **puede eliminar** todos los pecados  
+**no se haya realizado** hacia Ti,  
+sólo mientras **habrá** miseria causada por la **pérdida** de riqueza y la ansiedad por **recuperarla**;  
+Sólo mientras **habrá** el **deseo** de **ganar** riqueza,  
+sólo mientras **no habrá realización** de que el yo **ser** diferente del cuerpo;  
+sólo durante un tiempo **habrá** el **sufrimiento** del saṁsāra."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तावदार्तिस्तथा वाञ्छा तावन्मोहस्तथाऽसुखम्”( विष्णुपुराणम् १-९-७३) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ बडिये  
+परमोदारऩ् आऩ शरण्यऩ्  
+अर्थितार्थ-परिदान-दीक्षितऩ् आय्
+</details>
+
+<details><summary>English</summary>
+
+As it has been stated above,  
+(Śaraṇāgati) **is capable** of **securing** all desired ends,  
+Further the Saviour is supremely generous; 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se ha dicho** arriba,  
+(Śaraṇāgati) **es capaz** de **asegurar** todos los fines **deseados**,  
+Además, el Salvador **es** sumamente generoso;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱबडिये परमोदारऩाऩ शरण्यऩ् अर्थितार्थपरिदानदीक्षितऩाय्
+</details>
+
+
+
+
+
+“Is there any other who is so generous as He and who can grant whatever is desired ?" He stands ever ready with the determination to grant whatever is desired by the suppliants, for it has been said: "If we receive any thing from the Lord, He does not lose anything thereby. He will give us whatever we ask.” (Such being the case) the question arises: "What is the object or end for which prapatti should be performed?** The second part of Dvaya, (as if in answer to this question), prays for that object (end or fruit), which would be in keeping with the Saviour who is supremely generous, in keeping with this special upāya (prapatti) which can secure the favour of One who is superior to all others, and in keeping with one's own essential nature (svarūpa) which will find its sole delight only in being His śeṣa. As expressed in the passage: "The only end which I seek is that the Lord should take me as His servant for His own pleasure", the second part prays for this desired end (namely, service to the Lord ), including the removal of all hindrances to it. From this it also follows that the jīva should have no other interest or object.
 
 In this context, the word Nārāyaṇa with the attribute qualifying it (viz. Śrīmat) discloses, primarily and in accordance with the pramāṇas, the Lord's being the Master and the like and so also the unsurpassed enjoyability of the Master who has countless qualities and the two vibhūtis (glories ) which make Him fit to be the object of attainment.
 
