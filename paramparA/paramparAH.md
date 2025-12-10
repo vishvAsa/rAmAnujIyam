@@ -14,7 +14,6 @@ unicode_script = "devanagari"
 GPPs themselves are very late and very suspect anyway. 
 
 - Only yatiraja vaibhavam of vaduga nambi seems to be really contemporary. 
-- Venkatachala itihasa mala is later day fraud- not written by anandanpillai.
 - Divyasuri carita seems to be actually the work of a later garuDa-vAhana pandita and not the contemporary of ramanuja.
 - Almost no GP text is pre 1323 except yatiraja vaibhavam by vaduga nambi. 
 
@@ -22,7 +21,13 @@ Koyilozhuku cannot be taken too seriously beyond a limit - unless you can substa
 
 6k-paDi Current text is claimed to be his (pinbazhagiya perumAL jeeyar's). But very suspect. There is a possibility that just there was a second VAMJ, a second PPJ existed. 6k has chronological impossibilities like PVP and VD having dialogues. All these stuff would not hv been there if the text was contemporary as claimed.
 
-(Comments on 3k-paDi - see that file : [TW](/rAmAnujIyam/kAvyam/drAviDam/aitihyam/3k_guru-paramparA-prabhAvaH).)
+Comments elsewhere 
+
+- on 3k-paDi - see that file : [TW](/rAmAnujIyam/kAvyam/drAviDam/aitihyam/3k_guru-paramparA-prabhAvaH).
+- venkaTAchala-itihAsa-mAlA [TW](/purANam_vaiShNavam/kAvyam/gadyam/sthala-mahimA/venkaTAchalaH/itihAsa-mAlA)
+
+
+
 </details>
 
 
