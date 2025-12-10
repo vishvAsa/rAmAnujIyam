@@ -828,7 +828,9 @@ con sus pulseras brillantes
 
 <details><summary>English</summary>
 
-> “Lakṣmī whose beauty fascinates even Thee "[??], etc.
+> You with the great adorning Lakṣmī ~~“Lakṣmī whose beauty fascinates even Thee "[??],~~ 
+
+etc.
 
 (This idea) **is** implicit also in the above and other passages.
 
@@ -836,28 +838,391 @@ con sus pulseras brillantes
 
 <details><summary>Español</summary>
 
-> “Lakṣmī cuya belleza **te fascina** incluso a Ti"[??], etc.
+> Tú con la gran adornada Lakṣmī
+
+etc.
 
 (Esta idea) **está implícita** también en el pasaje anterior y en otros.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 ”कोलत्तिरुमामगळोडुऩ्ऩै”( तिरुवाय्मॊऴि ६-९-३) इत्यादिगळिलुम् विवक्षितम्। 
 </details>
 
+##### व्युत्पत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गुऱ्ऱै श्री-शब्दम् 
+
+> “**शृणाति** निखिलान् दोषान्  
+**श्रीणाति** च गुणैर् जगत् ।  
+**श्रीयते** चाखिलैर् नित्यं  
+**श्रयते** च परं पदम्॥”  
+( अहिर्बुध्न्य-संहिता) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “**शृणाति** निखिलान् दोषान्  
+**श्रीणाति** च गुणैर् जगत् ।  
+**श्रीयते** चाखिलैर् नित्यं  
+**श्रयते** च परं पदम्॥”  
+( अहिर्बुध्न्य-संहिता) 
+
+</details>
+
+<details><summary>English</summary>
+
+> " She **dispels** all blemishes;  
+**generates** good qualities in those who **are** in the world;  
+**is attained** by all at all times  
+and **has** herself **attained** the Supreme Object of attainment (Bhagavān)" 
+</details>
+
+<details><summary>Español</summary>
+
+> " Ella **disipa** todas las imperfecciones;  
+**genera** buenas cualidades en quienes **están** en el mundo;  
+**se logra** por todos en todo momento  
+y **ha** ella misma **alcanzado** el Objeto Supremo de b (Bhagavān)"
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-Though the word Śrī used here has several meanings as stated in the following ślokas: " She dispels all blemishes; generates good qualities in those who are in the world; is attained by all at all times and has herself attained the Supreme Object of attainment (Bhagavān)" and "The Lord's Spouse who has aitained the Lord and is attained by others and who dispels all blemishes and listens to the cry of the distressed " -- (though the word has all these meanings) yet, here, it denotes the person who is entitled to (our) service as it is derived from the verbal root Śrī which means ‘Service'.
+इङ्गुऱ्ऱै श्रीशब्दम् “शृणाति निखिलान् दोषान् श्रीणाति च गुणैर्जगत् । श्रीयते चाखिलैर्नित्यं श्रयते च परं पदम्”( अहिर्बुध्न्य-संहिता) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “श्रयन्तीं श्रीयमाणां च  
+शृणतीं शृण्वतीम् अपि”  
+( अहिर्बुध्न्य-संहिता) 
+
+इत्य्-आदिगळिऱ् पडिये अनेकार्थङ्गळुण्डेयागिलुम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “श्रयन्तीं श्रीयमाणां च  
+शृणतीं शृण्वतीम् अपि”  
+( अहिर्बुध्न्य-संहिता)  
+
+
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "The Lord's Spouse who **has attained** the Lord  
+and **is attained** by others  
+and who **dispels** all blemishes  
+and **listens** to the **cry** of the **distressed** " --  
+
+Though the word Śrī **used** here **has** several meanings **as stated** in the above ślokas: 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "La Esposa del Señor que **ha alcanzada** al Señor  
+y **es alcanzada** por otros  
+y quien **disipa** todas las imperfecciones  
+y **escucha** el **llanto** de los **angustiados** "--
+
+Aunque la palabra Śrī **usada** aquí **tiene** varios significados **como se indica** en los ślokas anteriores:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“श्रयन्तीं श्रीयमाणां च शृणतीं शृण्वतीमपि”( अहिर्बुध्न्य-संहिता) इत्यादिगळिऱ् पडिये अनेकार्थङ्गळुण्डेयागिलुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “श्रिङ् सेवायां” 
+
+ऎऩ्गिऱ धातुविले सेव्यत्वादिगळैच् चॊल्लिक् कॊण्डु  
+कैङ्कर्य-प्रतिसम्बन्धित्व-परम्।
+</details>
+
+<details><summary>English</summary>
+
+yet, here, it **denotes** the person  
+who **is entitled** to (our) **service**  
+as it **is derived** from the verbal root Śrī  
+which **means** ‘Service'.
+</details>
+
+<details><summary>Español</summary>
+
+sin embargo, aquí **denota** la persona  
+quién **tiene derecho** a (nuestro) **servicio**  
+ya que **se deriva** de la raíz verbal Śrī  
+que **significa** "Servicio".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“श्रिङ् सेवायां” ऎऩ्गिऱ धातुविले सेव्यत्वादिगळैच् चॊल्लिक्कॊण्डु कैङ्कर्यप्रतिसम्बन्धित्वपरम्।
+</details>
 
 ### नारायणाय
+<details><summary>English</summary>
+
 THE MEANING OF NĀRĀYAŅĀYA:
+</details>
 
-Though the word Śrīmate by itself denotes Bhagavān and His Spouse who are entitled to our service, yet the word Narayaṇa is employed here to indicate the full and perfect enjoyment (anubhava) of the association of a śeṣa to the śeṣī, and of His qualities and glories (vibhūtis ); for this enjoyment ( alone) will generate the kind of love which is essential for all forms of service. Here the dative (or fourth case) which means for Nāriyana (existing for Ilim) refers thereby to service, 'Existing for Him' is in itself an eternal fact (and need not be prayed for). Therefore what is to be prayed for here is service (to Them) preceded by full and perfect enjoyinent as stated in the following ślokas and elsewhere : “ Hereafter I should bear in mind the fact of my being His śeṣa and render service to Him: This is the meaning of namas." " Whether you are awake or asleep, I (Lakṣmuana ) will perform all kinds of service to You".
+<details><summary>Español</summary>
 
-Since the jīva while performing saraṇagati (with this mantra) is praying to the Savionr for what he desires, a word like bhaveyam (may I be) has to be supplied: Śrimate Nārāyaṇāya bhaveyam (May I be for Nārāyaṇa !) Thus, at first, the attainment of the desired end (service to the Lord) is prayed for as being the more important; thereafter, by the word namas, the removal of all hindrances (to salvation and to service) is prayed for.
+EL SIGNIFICADO DE NĀRĀYAŅĀYA:
+</details>
+
+#### गुण-विभूतयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“श्रीमते” ऎऩ्गिऱ शब्दन् दऩ्ऩाले  
++++(नारायण-शब्दम् अन्तरा)+++ विशिष्टम् आऩ +++(कैङ्कर्य-)+++प्रतिसम्बन्धि-तोऱ्ऱिऱ्ऱेय् आगिलुम् 
+</details>
+
+<details><summary>English</summary>
+
+Though the word Śrīmate by itself **denotes** Bhagavān and His Spouse  
+who **are entitled** to our **service**, 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque la palabra Śrīmate por sí sola **denota** Bhagavān y Su Esposa  
+que **tienen derecho** a nuestro **servicio**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“श्रीमते” ऎऩ्गिऱ शब्दन्दऩ्ऩाले विशिष्टमाऩ प्रतिसम्बन्धितोऱ्ऱिऱ्ऱेयागिलुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(कैङ्कर्य-)+++प्रयोजकम् आऩ प्रीति-विशेषत्तैप् पिऱप्पिक्कुम्  
+सम्बन्ध-गुण-विभूत्य्-आदि-- परिपूर्णानुभव-सिद्धिक्क् आगव्  
+इङ्गु नारायण-शब्दम् प्रयुक्तम् आगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+yet the word Narayaṇa **is employed** here  
+**to indicate** the full and perfect **enjoyment** (anubhava) of the **association** of a śeṣa to the śeṣī, and of His qualities and glories (vibhūtis );  
+for this **enjoyment** ( alone) **will generate** the kind of love  
+which **is essential** for all forms of **service**. 
+</details>
+
+<details><summary>Español</summary>
+
+yet the word Narayaṇa **is employed** here  
+**to indicate** the full and perfect **enjoyment** (anubhava) of the **association** of a śeṣa to the śeṣī, and of His qualities and glories (vibhūtis );  
+for this **enjoyment** ( alone) **will generate** the kind of love  
+which **is essential** for all forms of **service**. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रयोजकमाऩ प्रीति विशेषत्तैप्पिऱप्पिक्कुम् सम्बन्धगुणविभूत्यादिपरिपूर्णानुभवसिद्धिक्कागविङ्गु नारायण शब्दम् प्रयुक्तमागिऱदु।
+</details>
+
+#### चतुर्थ्याः कैङ्कर्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु चतुर्थि-तादर्थ्य-मुखत्ताले कैङ्कर्यत्तैक् गणिसिक्किऱदु।
+</details>
+
+<details><summary>English</summary>
+
+Here the dative (or fourth case) which **means** "for Nāriyana" (existing for Him)  
+**refers** thereby to **service**.
+</details>
+
+<details><summary>Español</summary>
+
+Aquí el dativo (o cuarto caso) que **significa** "para Nāriyana" (existiendo para Él)  
+**se refiere** por lo tanto a **servicio**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु चतुर्थितादर्थ्यमुखत् ताले कैङ्कर्यत्तैक्कणिसिक्किऱदु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तादर्थ्य-मात्रं नित्यम् आगैयाले
+</details>
+
+<details><summary>English</summary>
+
+**Existing** for Him' **is** in itself an eternal fact  
+(and **need not be prayed for**). 
+</details>
+
+<details><summary>Español</summary>
+
+**Existir** para Él' **es** en sí mismo un hecho eterno  
+(y **no es necesario orar** por ello).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तादर्थ्यमात्रम् नित्यमागैयाले
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “तच्-छेषत्वानुसन्धान-पूर्व--तच्-छेष-वृत्तिकः"
+( पराशरभट्ट-नित्य-ग्रन्थः) 
+
+इत्य्-आदिगळिऱ् पडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “तच्-छेषत्वानुसन्धान-पूर्व--तच्-छेष-वृत्तिकः”  
+( पराशरभट्ट-नित्य-ग्रन्थः) 
+
+</details>
+
+<details><summary>English</summary>
+
+> “ Hereafter I **should bear** in mind  
+the fact of my **being** His śeṣa  
+and **render service** to Him:  
+This **is** the meaning of namas." 
+</details>
+
+<details><summary>Español</summary>
+
+> “ De ahora en adelante **debo tener** en cuenta  
+el hecho de que yo **sea** Su śeṣa  
+y **prestar servicio** a Él:  
+Este **es** el significado de namas."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तच्छेषत्वानुसन्धानपूर्वतच्छेषवृत्तिकः" ( पराशरभट्ट-नित्य-ग्रन्थः), "अहं सर्वं करिष्यामि”इत्यादिगळिऱ्पडिये
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अहं सर्वं करिष्यामि
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> अहं सर्वं करिष्यामि
+</details>
+
+<details><summary>English</summary>
+
+> " Whether you **are awake** or **asleep**,  
+I (Lakṣmana ) **will perform** all kinds of **service** to You".
+</details>
+
+<details><summary>Español</summary>
+
+> " Ya sea que estés **despierto** o **dormido**,  
+Yo (Lakṣmana) **realizaré** todo tipo de **servicio** para Ti".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> अहं सर्वं करिष्यामि
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु परिपूर्णानुभव-पूर्वकम् आऩ कैङ्कर्यम् प्रार्थनीयम्।
+</details>
+
+<details><summary>English</summary>
+
+Therefore what **is to be prayed for** here  
+**is service** (to Them)  
+**preceded** by full and perfect **enjoyment**  
+as **stated** in the above ślokas and elsewhere.
+</details>
+
+<details><summary>Español</summary>
+
+Entonces, el qué **se debe orar** aquí  
+**es servicio** (para Ellos)  
+**precedido** por un **disfrute** pleno y perfecto  
+como **indicado** en los ślokas anteriores y en otros lugares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु परिपूर्णानुभवपूर्वकमाऩ कैङ्कर्यम् प्रार्थनीयम्।
+</details>
+
+## भवेयम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरणागतऩ् आम् बोदु  
+शरण्यऩै अभिमत-प्रार्थऩै पण्णुगिऱाऩ् आगैयाले
+</details>
+
+<details><summary>English</summary>
+
+Since the jīva while **performing** saraṇagati (with this mantra) **is praying** to the Saviour for what he **desires**,  
+</details>
+
+<details><summary>Español</summary>
+
+Dado que la jīva  
+mientras **realiza** saraṇagati (con este mantra)  
+**está orando** al Salvador por lo que **desea**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शरणागतऩाम्बोदु शरण्यऩै अभिमतप्रार्थऩै पण्णुगिऱाऩागैयाले
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गे “भवेयं” ऎऩ्ऱ् ऒरु पदम् अध्याहार्यम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गे “भवेयं” ऎऩ्ऱॊरु पदम् अध्याहार्यम्। 
+</details>
+
+
+
+a word like bhaveyam (may I be) **has to be supplied**:  
+Śrimate Nārāyaṇāya bhaveyam (May I **be** for Nārāyaṇa !) 
+
+Thus, at first, the attainment of the desired end (service to the Lord) is prayed for as being the more important; thereafter, by the word namas, the removal of all hindrances (to salvation and to service) is prayed for.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
