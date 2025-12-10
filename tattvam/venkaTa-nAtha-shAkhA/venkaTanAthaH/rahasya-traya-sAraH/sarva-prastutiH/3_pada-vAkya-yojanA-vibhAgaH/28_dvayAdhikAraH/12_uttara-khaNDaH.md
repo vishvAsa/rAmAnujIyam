@@ -1212,6 +1212,23 @@ mientras **realiza** saraṇagati (con este mantra)
 इङ्गे “भवेयं” ऎऩ्ऱ् ऒरु पदम् अध्याहार्यम्। 
 </details>
 
+<details><summary>English</summary>
+
+a word like bhaveyam (may I be) **has to be supplied**:  
+
+> Śrimate Nārāyaṇāya bhaveyam  
+(May I **be** for Nārāyaṇa !) 
+</details>
+
+<details><summary>Español</summary>
+
+una palabra como bhaveyam (puedo ser) **tiene que ser proporcionada**:  
+
+> Śrimate Nārāyaṇāya bhaveyam  
+(¡**Puedo ser** para Nārāyaṇa!)
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इङ्गे “भवेयं” ऎऩ्ऱॊरु पदम् अध्याहार्यम्। 
@@ -1219,8 +1236,7 @@ mientras **realiza** saraṇagati (con este mantra)
 
 
 
-a word like bhaveyam (may I be) **has to be supplied**:  
-Śrimate Nārāyaṇāya bhaveyam (May I **be** for Nārāyaṇa !) 
+
 
 Thus, at first, the attainment of the desired end (service to the Lord) is prayed for as being the more important; thereafter, by the word namas, the removal of all hindrances (to salvation and to service) is prayed for.
 
