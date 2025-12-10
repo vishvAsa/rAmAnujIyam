@@ -17,6 +17,12 @@ LA SEGUNDA PARTE DE DVAYA:
 इप्-पडि तोऱ्ऱिऩ शरणागति 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं प्रतीतायाः शरणागतेः, 
+</details>
+
+
 <details><summary>English</summary>
 
 Śaraṇāgati which **has been thus described**  
@@ -40,6 +46,14 @@ LA SEGUNDA PARTE DE DVAYA:
 तावन् मोहस् तथा ऽसुखम्”  
 ( विष्णुपुराणम् १-९-७३) 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “तावद् आर्तिस् तथा वाञ्छा  
+तावन् मोहस् तथा ऽसुखम्”  
+( विष्णुपुराणम् १-९-७३) 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -73,10 +87,11 @@ sólo durante un tiempo **habrá** el **sufrimiento** del saṁsāra."
 सकल-फल-साधनम् आगैयालुम्
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
-इत्यादिगळिऱ्पडिये सकलफलसाधनमागैयालुम्
+इत्य्-आद्य्-उक्त-रीत्या सकल-फल-साधनत्वात्, 
 </details>
+
 
 <details><summary>English</summary>
 
@@ -91,11 +106,24 @@ Como **se ha dicho** arriba,
 (Śaraṇāgati) **es capaz** de **asegurar** todos los fines **deseados**,  
 </details>
 
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये सकलफलसाधनमागैयालुम्
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> “तद्-अन्यः को महोदारः”( इतिहास-समुच्चयः ३३-११९) 
+> “तद्-अन्यः को महोदारः”  
+( इतिहास-समुच्चयः ३३-११९) 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “तद्-अन्यः को महोदारः”  
+( इतिहास-समुच्चयः ३३-११९) 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -123,6 +151,14 @@ and who **can grant** whatever **is desired** ?"
 अर्थितार्थ-परिदान-दीक्षितऩ् आय्
 </details>
 
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-उक्त-रीत्या परमोदारस्य शरण्यस्य   
+अर्थिताऽर्थ-परिदान-दीक्षित-रूपेणावस्थितत्वात्, 
+</details>
+
+
 <details><summary>English</summary>
 
 Further, (as stated above,) the Saviour is supremely generous; 
@@ -148,6 +184,14 @@ Además, (como **se indicó** anteriormente,) el Salvador **es** sumamente gener
 
 ऎऩ्ऩुम् बडि निऱ्कैयालुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "गृह्यमाणे न्यूनता-शून्यम् अभीष्ट-सर्व-प्रदम्" 
+
+इत्य्-उक्त-रीत्या ऽवस्थितत्वात्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -185,6 +229,14 @@ porque **se ha dicho**:
 ऎऩ्गिऱ अपेक्षैयिले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> अत्र कस्य फलस्य कृते प्रपत्तिः क्रियत 
+
+इत्य् अपेक्षायाम्, 
+</details>
+
+
 <details><summary>English</summary>
 
 (Such being the case) the question arises: 
@@ -217,6 +269,16 @@ for which prapatti **should be performed**?
 अनुरूपम् आऩ फल-विशेषत्तै  
 उत्तरखण्डम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+महोदारस्य शरण्यस्य,  
+सर्वोत्कृष्ट-विषयस्यास्य वशीकरण-विशेषस्य,  
+शेषतैक-रसस्य स्व-स्वरूपस्य  
+चानुरूपः फल-विशेषः [[P343]]  
+उत्तर-खण्डेन 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -259,6 +321,14 @@ sólo en **ser** Su śeṣa,
 ऎऩ्गिऱ बडिये 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "स्वार्थम् एव मम स्वीकरण-रूपम् इदम् एव" 
+
+इत्य्-उक्त-रीत्या  
+</details>
+
+
 <details><summary>English</summary>
 
 As expressed in the passage:  
@@ -287,6 +357,12 @@ el Señor **debería tomarme** como Su **siervo** para Su propio placer",
 समस्त-विरोधि-निवृत्ति-पर्यन्तम् आग प्रार्थिक्किऱदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+समस्त-विरोधि-निवृत्ति-पर्यन्तया प्रार्थ्यते । 
+</details>
+
+
 <details><summary>English</summary>
 
 the second part **prays** for this **desired** end  
@@ -311,6 +387,12 @@ la segunda parte **reza** por este final **deseado**
 
 इत्ताले अनन्य-प्रयोजनत्वमुम् सिद्धिक्किऱदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतेनानन्य-प्रयोजनत्वं सिध्यति ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -338,6 +420,15 @@ la jīva **no debería tener** ningún otro interés u objeto.
 
 \- प्राप्यतैक्क् अनुरूपम् आऩ स्वामित्वादिगळुम् 
 </details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र स-विशेषणो नारायण-शब्दः  
+
+\- प्राप्यताया अनुरूपाणि स्वामित्वादीनि 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -369,6 +460,15 @@ En este contexto, la palabra Nārāyaṇa con el atributo que la califica (a sab
 आगिऱव् आकारङ्गळै  
 यथाप्रमाणम् प्राधान्येन काट्टुगिऱदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+\- अनन्त-गुण-विभूति-विशिष्टस्य स्वामिनः सर्व-प्रकार-निरतिशय-भोग्यता
+
+इत्य् एवं-रूपान् आकारान् यथा-प्रमाणं प्राधान्येन दर्शयति ।
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -413,6 +513,12 @@ EL SIGNIFICADO DE LA PALABRA ŚRĪMATE (EN LA SEGUNDA PARTE DE DVAYA):
 इप्-पडि उभय-विभूति-विशिष्टम् प्राप्यम् आय् इरुक्कच् चॆय्देयुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् उभय-विभूति-विशिष्टस्य प्राप्यत्वे ऽपि 
+</details>
+
+
 <details><summary>English</summary>
 
 Though Bhagavān who **is** thus **endowed** with the two vibhūtis (Līlā and Nitya)  
@@ -434,6 +540,12 @@ Aunque Bhagavān, quien **está** así **dotado** con los dos vibhūtis (Līlā 
 
 आत्म-हविर्-उद्देश्यरुम् आय्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आत्म-हविरुद्देश्यत्वेन 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -457,6 +569,12 @@ para el **ofrecimiento** del havis del yo, los **destinatarios previstos**,
 शेषत्व-प्रतिसम्बन्धिगळुम् आय् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+शेषत्व-प्रतिसंबन्धित्वेन 
+</details>
+
+
 <details><summary>English</summary>
 
 those to whom we are śeṣas 
@@ -477,6 +595,12 @@ aquellos para quienes **somos** śeṣas
 
 अद्-अडियाग वरुगिऱ कैङ्कर्यत्तुक्कुम् इलक्क् आय्क् कॊण्डु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तन्-निबन्धन-कैङ्कर्य-लक्ष्यत्वेन च 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -499,6 +623,12 @@ y en consecuencia (los dos) a quienes se debe nuestro **servicio**
 प्रधान-प्राप्यरुम् आय् इरुप्पार् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रधान-प्राप्य-रूपेण वर्तमानाव्  
+</details>
+
+
 <details><summary>English</summary>
 
 primarily, (therefore) the objects of attainment - 
@@ -519,6 +649,12 @@ principalmente, (por lo tanto) los objetos de **logro** -
 
 इव् विशिष्टदंपतिकळॆऩ्ऱु तोऱ्ऱुगैक्काग इङ्गु श्रीमच्छब्दम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इमौ विशिष्ट-दम्पती इति द्योतनार्थम् अत्र श्रीमच्-छब्दः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -549,10 +685,11 @@ La palabra Śrīmate (con Śrī) **se emplea** aquí para **mostrar** que,
 
 <details><summary>नीलमेघः (सं)</summary>
 
+अयम् अर्थः, 
+
 > “वैकुण्ठे तु परे लोके  
 श्रिया सार्धं जगत्-पतिः”  
 ( लैङ्ग-पुराणम्), 
-
 </details>
 
 <details><summary>English</summary>
@@ -579,6 +716,13 @@ Esta idea...
 > ”तया सहासीनम् अनन्त-भोगिनि”  
 ( आळवन्दार्स्तोत्रम् ३९), 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ”तया सहासीनम् अनन्त-भोगिनि”  
+( आळवन्दार्स्तोत्रम् ३९), 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -639,6 +783,12 @@ quien **es** (en todos los sentidos) **adecuado** a Él."
 ( तिरुवाय्मॊऴि ४-९-१०),
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "उज्ज्वलाग्रहस्त-वलयायां श्रियां त्वयि चैवाधिवसतोः", 
+</details>
+
+
 <details><summary>English</summary>
 
 > "At the **sight** of Thee and Thy consort  
@@ -663,14 +813,22 @@ con sus pulseras brillantes
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ”कोलत्-तिरु-मा-मगळोड् उऩ्ऩै”( तिरुवाय्मॊऴि ६-९-३) 
+> ”कोलत्+++(→अलङ्कार)+++-तिरु-मा-मगळोड् उऩ्ऩै”( तिरुवाय्मॊऴि ६-९-३) 
 
 इत्यादिगळिलुम् विवक्षितम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> "अलंकार-शालि-श्रीमहालक्ष्म्या सह त्वाम्" 
+
+इत्य्-आदिष्व् अपि विवक्षितः ।
+</details>
+
+
 <details><summary>English</summary>
 
-> “Lakṣmī whose beauty fascinates even Thee ", etc.
+> “Lakṣmī whose beauty fascinates even Thee "[??], etc.
 
 (This idea) **is** implicit also in the above and other passages.
 
@@ -678,7 +836,7 @@ con sus pulseras brillantes
 
 <details><summary>Español</summary>
 
-> “Lakṣmī cuya belleza **te fascina** incluso a Ti", etc.
+> “Lakṣmī cuya belleza **te fascina** incluso a Ti"[??], etc.
 
 (Esta idea) **está implícita** también en el pasaje anterior y en otros.
 </details>
