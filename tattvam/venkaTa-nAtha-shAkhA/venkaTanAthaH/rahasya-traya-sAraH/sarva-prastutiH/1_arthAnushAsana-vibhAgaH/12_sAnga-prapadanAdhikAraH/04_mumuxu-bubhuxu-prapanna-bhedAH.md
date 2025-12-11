@@ -1,0 +1,95 @@
++++
+title = "०४ मुमुक्षु-बुभुक्षु-प्रपन्न-भेदाः"
++++
+
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+
+मुमुक्षु-मात्र-सामान्यं  
+स्व-रूपादि-**समर्पणम्** ।  
+अ-किञ्चने +++(→प्रपन्ने)+++ **भर-न्यासस्**  
+त्व् अधिको ऽङ्गितया **स्थितः** ॥ २८-अ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+मुमुक्षु-मात्र-सामान्यं  
+स्व-रूपादि-**समर्पणम्** ।  
+अ-किञ्चने +++(→प्रपन्ने)+++ **भर-न्यासस्**  
+त्व् अधिको ऽङ्गितया **स्थितः** ॥ २८-अ॥
+</details>
+
+<details><summary>English</summary>
+
+To all seekers of mokṣa  (whether bhaktas or prapannas),  
+the surrender of one's svarūpa or self and the rest (i.e) the fruit in common.  
+
+To one who has no other upāya ((i.e.) prapannā) and is therefore akinchana,  
+the surrender of the responsibility of protection (bharanyása ) is an additional aṅgī. 
+</details>
+
+<details><summary>Español</summary>
+
+A todos los **buscadores** de Mokṣa (ya sea Bhaktas o Prapannas),  
+la **rendición** de la svarūpa o el yo y el resto (es decir) el fruto en común.  
+
+A alguien que **no tiene** otro upāya ((es decir) Prapannā) y, por lo tanto, es Akinchana,  
+La **rendición** de la responsabilidad de la protección (Bharanyása) es un Aṅgī adicional.
+</details>
+
+
+<details><summary>मूलम् (सं॰प॰)</summary>
+
+मुमुक्षुमात्रसामान्यं स्वरूपादिसमर्पणं । अकिञ्चने भरन्यासस्त्वधिकोऽङ्गितया स्थितः ॥ २८-अ॥ 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि स्वरूपफलभरसमर्पणङ्गळ् अनुष्ठेयङ्गळॆऩ्ऱु सॊल्लि अदिल् स्वरूपफलसमर्पणांशत्तिऱ्कु मुमुक्षुत्वम् निबन्धनमॆऩ्ऱुम्, भरसमर्पणांशत्तिऱ्कु अकिञ्चनत्वम् निबन्धनमॆऩ्ऱुम् अरुळिच्चॆय्गिऱार् मुमुक्षुमात्रेति । इङ्गु मात्रपदम् कृत्स्नार्थकम्। समानानां भावस्सामान्यम्। तुल्यमित्यर्थः । स्वरूपसमर्पणमुम् फलसमर्पणमुम् भक्तप्रपन्नर्गळाऩ सर्वमुमुक्षुक्कळुक्कुम् सामान्यम्। साधारणमॆऩ्ऱबडि। भरन्यासस्तु – भरन्यासमोवॆऩ्ऱाल्। इङ्गु तु शब्दत्ताले स्वरूप-फलसमर्पणादस्य वैलक्षण्यम् द्योतितम्। अदावदु मुमुक्षुमात्रसामान्यमऩ्ऱिक्केयॊऴिगै। अकिञ्चने – मुमुक्षुवाऩ अकिञ्चनऩ् विषयत्तिल्। अधिकः – अधिकतया कर्तव्यः । अङ्गितया स्थितः – अङ्गियायुमिरुक्कुम्। इन्द श्लोकत्ताल् स्वरूपफलसमर्पणत्तिऱ्कु मुमुक्षुत्वम् निबन्धनमॆऩ्ऱुम्। भरसमर्पणत्तिऱ्कु अकिञ्चनत्वम् निबन्धनमॆऩ्ऱुम्, एऱ्पडुगैयाल् अकिञ्चनऩाय् मुमुक्षुवाऩ प्रपन्नऩुक्कु इम्मूऩ्ऱुम् अनुष्ठेयमॆऩ्ऱु सॊल्लिऱ्ऱायिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र रक्षा-**भर-न्यासस्**  
+समस् सर्व-फलार्थिनाम् +++(प्रपन्नानाम्)+++।  
+स्व-रूप-**फल-निक्षेपस्**  
+त्व् अधिको मोक्ष-काङ्क्षिणाम् ॥ २८-आ॥
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र रक्षा-**भर-न्यासस्**  
+समस् सर्व-फलार्थिनाम् +++(प्रपन्नानाम्)+++।  
++++(आत्म-)+++स्व-रूप--+++(मोक्ष-)+++**फल-निक्षेपस्**  
+त्व् अधिको मोक्ष-काङ्क्षिणाम् ॥ २८-आ॥
+</details>
+
+<details><summary>English</summary>
+
+To all prapannas, whatever may be the object desired by them,  
+the surrender of the responsibility is common.  
+To those prapannas who are desirous of (only) mokṣa ,  
+the surrender of one's self or svarūpa and also of the fruit arising therefrom is an additional (requirement).
+</details>
+
+<details><summary>Español</summary>
+
+A todas las prapaninas, cualquiera que **sea** el objeto **deseado** por ellos,  
+La **rendición** de la responsabilidad es común.  
+
+A aquellos Prapannas que **desean** (solo) mokṣa,  
+La **rendición** de uno mismo o svarūpa y también de la fruta que **surge** de la misma  
+**es** un (requisito) adicional.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र रक्षाभरन्यासस्समस्सर्वफलार्थिनाम् । स्वरूपफलनिक्षेपस्त्वधिको मोक्षकाङ्क्षिणाम् ॥ २८-आ॥
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि अधिकारिभेदत्तैयिट्टु अनुष्ठेयभेदत्तैयरुळिच्चॆय्दु फलकामनाभेदत्तैयिट्टु अदैयरुळिच् चॆय्गिऱार् अत्रेत्यादिना । अत्र – अकिञ्चनमध्यत्तिल्। रक्षाभरन्यासः सर्वफलार्थिनां समः – भरन्यासम् मुमुक्षुत्वनिबन्धनमऩ्ऱिक्के आकिञ्चन्यमात्रनिबन्धनमागैयाल्, आकिञ्चन्यमिरुन्दाल् मोक्षार्थिक्को, तदितरफलार्थिक्को भरन्यासांशम् तुल्यमॆऩ्ऱबडि। स्वरूपेत्यादि । मोक्षकाङ्क्षिणामिति । प्रयोजनान्तरपररुक्कु फलसमर्पणम् कूडादागैयालुम्, शेषत्वज्ञानरूपस्वरूपसमर्पणम् अनावश्यकमागैयालुम् मोक्षकाङ्क्षिकळुक्के अदावदु अकिञ्चनर्गळाऩ मुमुक्षुक्कळुक्के यॆऩ्ऱबडि। स्वरूपफलनिक्षेपस्त्वधिकः - इङ्गु तुशब्दत्ताले प्रयोजनान्तरपरावृत्तित्वरूपवैलक्षण्यं द्योत्यते अधिकः – अधिकतया कर्तव्यः ।  
+</details>
+
