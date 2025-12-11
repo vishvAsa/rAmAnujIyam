@@ -1234,19 +1234,79 @@ una palabra como bhaveyam (puedo ser) **tiene que ser proporcionada**:
 इङ्गे “भवेयं” ऎऩ्ऱॊरु पदम् अध्याहार्यम्। 
 </details>
 
+## नमसः प्राक्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि प्राधान्यत्ताले मुऱ्-पड  
+इष्ट-प्राप्तियैय् अपेक्षित्तु  
+इदुक्क् आगव् अनन्तरम् नमस्साले सर्वानिष्ट-निवृत्तियैयुम् प्रार्थिक्किऱदु।  
+</details>
+
+<details><summary>English</summary>
+
+Thus, at first, the **attainment** of the desired end (**service** to the Lord) **is prayed for**  
+as **being** the more important;  
+thereafter, by the word namas,  
+the **removal** of all **hindrances** (to salvation and to service) **is prayed for**.
+</details>
+
+<details><summary>Español</summary>
+
+Así, en un primer momento,  
+**se ora** por la **consecución** del fin deseado (**servicio** al Señor)  
+como **siendo** el más importante;  
+a partir de entonces, con la palabra namas,  
+**se ora** por la **eliminación** de todos los **obstáculos** (para la **salvación** y el **servicio**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि प्राधान्यत्ताले मुऱ्पड इष्टप्राप्तियैयपेक्षित्तु इदुक्काग वनन्तरम् नमस्साले सर्वानिष्ट निवृत्तियैयुम् प्रार्थिक्किऱदु।  
+</details>
 
 
 
-
-Thus, at first, the attainment of the desired end (service to the Lord) is prayed for as being the more important; thereafter, by the word namas, the removal of all hindrances (to salvation and to service) is prayed for.
+## पति-भुक्त-भोग-प्रशस्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-अप्राप्तितःपरिहरन्स्वपरैस्स्वरक्षां  
-तादर्थ्यधीपरिहृतस्वपरार्थभावः ।  
-अन्योपभोगविरहादनघः प्रपन्नो  
-भुङ्क्ते स्वभोगमखिलं पतिभोगशेषम् ॥
+अ-प्राप्तितः **परिहरन्** स्व-परैस् स्व-रक्षां  
+तादर्थ्य-धी--**परिहृत**-स्व-परार्थ-भावः ।  
++++(पति-भुक्त-भिन्न→)+++ **अन्योपभोग-विरहाद्** अन्-अघः प्रपन्नो  
+**भुङ्क्ते** स्व-भोगम् अखिलं पति-भोग-शेषम् ॥ +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-प्राप्तितः **परिहरन्** स्व-परैस् स्व-रक्षां  
+तादर्थ्य-धी--**परिहृत**-स्व-परार्थ-भावः ।  
+**अन्योपभोग-विरहाद्** अन्-अघः प्रपन्नो  
+**भुङ्क्ते** स्व-भोगम् अखिलं पति-भोग-शेषम् ॥ +++(4)+++
+</details>
+
+
+<details><summary>English</summary>
+
+**Giving up** the idea of his **salvation** by himself or by others as impossible  
+and **giving up** the idea of his **existing** either for himself or for others  
+by the thought that he **exists** (only) for the Lord  
+and having **become** free from all sins  
+by his **aversion** to all other objects of enjoyment (than the Lord), the prapanna **enjoys** all his bliss  
+as something which **is accessory** to the Lord's **enjoyment**.
+</details>
+
+<details><summary>Español</summary>
+
+**Renunciar** a la idea de su **salvación** por sí mismo o por otros como imposible  
+y **renunciar** a la idea de **existir** ya sea para sí mismo o para los demás  
+por el **pensamiento** de que él **existe** (sólo) para el Señor  
+
+y habiéndose **vuelto** libre de todos los pecados  
+por su **aversión** a todos los demás objetos de disfrute (aparte del Señor), el prapanna **disfruta** de toda su bienaventuranza.  
+como algo que **es accesorio** del **disfrute** del Señor.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -1256,7 +1316,7 @@ Thus, at first, the attainment of the desired end (service to the Lord) is praye
 भुङ्क्ते स्वभोगमखिलं पतिभोगशेषम् ॥
 </details>
 
-Giving up the idea of his salvation by himself or by others as impossible and giving up the idea of his existing either for himself or for others by the thought that lie exists (only) for the Lord and having become free from all sins by his aversion to all other objects of enjoyment than the Lord), the prapanna enjoys all his bliss as something which is accessory to the Lord's enjoyment.
+
 
 ## नमः
 THE MEANING OF THE WORD NAMAS --
