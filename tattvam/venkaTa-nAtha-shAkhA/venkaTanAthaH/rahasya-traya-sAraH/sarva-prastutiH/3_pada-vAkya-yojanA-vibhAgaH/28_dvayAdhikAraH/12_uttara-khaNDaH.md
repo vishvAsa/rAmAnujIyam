@@ -1318,14 +1318,227 @@ como algo que **es accesorio** del **disfrute** del Señor.
 
 
 
-## नमः
+## नमस्य् अध्याहारः 
+### स्याम्
+<details><summary>English</summary>
+
 THE MEANING OF THE WORD NAMAS --
+</details>
 
-Here, after the word namas, the verb has to be supplied so that it becomes na mama syām, which means, "Let me not be for myself." Or it may be looked upon as na mama kiñcit syāt meaning, 'Let there be (in me) no notion at all of the sense of 'mine' (mamakāra)', which would be a prayer for the removal of all hindrances or undesirable things, as it asks for the disappearance of the notion of mine' in regard to all objects. The objections raised and the answers given thereto in regard to the attainment of the desired end and the disappearance of all undesirable elements in the case of Tirumantra should be borne in mind here (also).
+<details><summary>Español</summary>
 
-Though this word namas prays for the removal of all such hindrances as avidyā (ignorance), karma , the impressions and inclinations which have resulted therefrom (vāsanas), the ruchi or tastes and the association with prakṛti or matter, yet it is considered (by some āchāryas) that, in accordance with the śruti[^101] which gives the etymological interpretation of this word (namas), the purport or ain here (in the second part of Dvaya) is the removal, in the state of attaining full and perfect service in mukti, of the weeds of one's being the doer by one's own will and of one's being the doer for one's own purposes and, likewise, of one's being the enjoyer by one's own will and of being the enjoyer solely for oneself. This weed or wrong notion is likely to arise because, in regard to the enjoyment of the fruit elsewhere (in svarga), the thought is present that the fruit was won by one by one's own actions and is enjoyed by one for oneself. From this it would follow that the man performing prapatti understands that, in regard to the service in the state of mukti, there are no such wrong notions as one's being the doer and the enjoyer by one's owo will and for the sake of oneself-notions which are present in the state of enjoyment of other fruits (like those in svarga). Having understood this, the man performing prapatli makes his prayer in conformity with this knowledge.
+EL SIGNIFICADO DE LA PALABRA NAMAS --
+</details>
 
-[^101]: The Śruti says: Whatever actions may appear mine are the Lord's, not mine, They do not belong to me; they are the Lord's; I exist for the Lord and not for myself na mama ( not mine; not for me)
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन् नमस्सुक्कुम् क्रिया-पदम् अध्याहरित्तुक् कॊळ्ळ वेणुम् - 
+</details>
+
+<details><summary>English</summary>
+
+Here, after the word namas,  
+the verb **has to be supplied**  
+</details>
+
+<details><summary>Español</summary>
+
+Aquí, después de la palabra namas,  
+el verbo **tiene que ser suministrado**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन् नमस्सुक्कुम् क्रियापदमध्याहरित्तुक्कॊळ्ळवेणुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“न मम स्याम्” ऎऩ्बदु  
+"ऎऩक्क् आगवे अल्लेऩ्" ऎऩ्ऱ बडि।
+</details>
+
+<details><summary>English</summary>
+
+so that it **becomes** "na mama syām",  
+which **means**, "**Let me not be** for myself." 
+</details>
+
+<details><summary>Español</summary>
+
+para que **se convierta** en "na mama syām",  
+que **significa**,  
+"**No me dejes ser** para mí mismo".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“न मम स्याम्” ऎऩ्बदु ऎऩक्कागवे अल्लेऩॆऩ्ऱबडि।
+</details>
+
+### स्यात्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “न मम किञ्चित् स्यात्” 
+
+ऎऩ्ऱु सर्व-विषय--मम-कार-- निवृत्ति-मुखत्ताले  
+सर्वानिष्ट-निवृत्तियै प्रार्थिक्किऱद् आगवुम् आम्।
+</details>
+
+<details><summary>English</summary>
+
+Or it **may be looked upon** as  
+"na mama kiñcit syāt" **meaning**,  
+
+> '**Let there be** (in me) no notion at all of the sense of 'mine' (mamakāra)', 
+
+which **would be** a **prayer** for the **removal** of all **hindrances** or **undesirable** things,  
+as it **asks** for the **disappearance** of the notion of 'mine' in regard to all objects. 
+</details>
+
+<details><summary>Español</summary>
+
+O **puede considerarse** como  
+"na mama kiñcit syāt" **significado**,  
+
+> '**Que no haya** (en mí) ninguna noción alguna del sentido de 'mío' (mamakāra)', 
+
+lo cual **sería** una **oración** por la **eliminación** de todos los **obstáculos** o cosas **indeseables**,  
+ya que **pide** la **desaparición** de la noción de 'mío' respecto de todos los objetos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+“न मम किञ्चित्स्यात्” ऎऩ्ऱु सर्वविषय-ममकार-निवृत्तिमुखत्ताले सर्वानिष्टनिवृत्तियै प्रार्थिक्किऱदागवुमाम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरु-मन्त्रत्तिल्  
+इष्ट-प्राप्त्य्--अन्-इष्ट-निवृत्तिगळिऱ् सॊऩ्ऩ चोद्य-परिहारङ्गळ्  
+इङ्गुम् अनुसन्धित्तुक् कॊळ्वदु।
+</details>
+
+<details><summary>English</summary>
+
+The **objections raised** and the **answers given** thereto  
+in regard to the **attainment** of the **desired** end  
+and the **disappearance** of all **undesirable** elements  
+in the case of Tirumantra  
+**should be borne in mind** here (also).
+</details>
+
+<details><summary>Español</summary>
+
+Las **objeciones planteadas** y las **respuestas dadas** a las mismas  
+con respecto al **logro** del fin **deseado**  
+y la **desaparición** de todos los elementos **indeseables**  
+en el caso del Tirumantra  
+**debe tenerse en cuenta** aquí (también).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तिरुमन्त्रत्तिलिष्टप्राप्त्यनिष्टनिवृत्तिकळिऱ् सॊऩ्ऩ चोद्यपरिहारङ्गळिङ्गुमनुसन्धित्तुक्कॊळ्वदु।
+</details>
+
+## नमः
+### सर्वानिष्ट-निवृत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्-नमश्-शब्दत्ताले  
+अ-विद्या--कर्म-- तद्-उभय-वासना-रुचि-- प्रकृति-सम्बन्धादि-- रूपङ्गळ् आऩ  
+सर्व-विरोधिगळैयुम् कऴिया निऱ्कच् चॆय्देयुम्
+</details>
+
+<details><summary>English</summary>
+
+Though this word namas **prays** for the **removal** of all such **hindrances** as  
+avidyā (ignorance), karma , the impressions and inclinations which **have resulted** therefrom (vāsanas),  
+the ruchi or tastes  
+and the **association** with prakṛti or matter,  
+</details>
+
+<details><summary>Español</summary>
+
+Aunque esta palabra namas **reza** por la **eliminación** de todos los **obstáculos** como  
+avidyā (ignorancia), karma, las impresiones e inclinaciones que **han resultado** de ello (vāsanas),  
+el ruchi o gustos  
+y la **asociación** con prakṛti o materia,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्नमश्शब्दत्ताले अविद्याकर्मतदुभयवासनारुचिप्रकृतिसम्बन्धादिरूपङ्गळाऩ सर्वविरोधिकळैयुम् कऴियानिऱ्कच्चॆय्देयुम्
+</details>
+
+### स्वाधीन-स्वार्थ-कर्तृत्व-भोक्तृत्वे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कु निर्वचनम् पण्णुगिऱ श्रुतियिऩ् बडिये 
+</details>
+
+<details><summary>English</summary>
+
+yet it is considered (by some āchāryas) that,  
+in **accordance** with the śruti[^101] which **gives** the etymological **interpretation** of this word (namas), 
+
+[The Śruti **says**:  
+Whatever actions **may appear** mine  
+**are** the Lord's, not mine,  
+They **do not belong** to me;  
+they **are** the Lord's;  
+**I exist** for the Lord and not for myself -  
+na mama  
+( not mine; not for me)]
+</details>
+
+<details><summary>Español</summary>
+
+sin embargo, **se considera** (por algunos āchāryas) que,  
+de **de acuerdo** con el śruti[^101] que **da** la **interpretación etimológica** de esta palabra (namas), 
+
+[El Śruti **dice**:  
+Cualesquiera que sean las acciones **que puedan aparecer** los míos  
+**son** del Señor, no míos,  
+
+Ellos **no me pertenecen**;  
+ellos **son** del Señor;  
+**Existo** para el Señor y no para mí -  
+na mama  
+(no mío; no para mí)]
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुक्कु निर्वचनम् पण्णुगिऱ श्रुतियिऩ्बडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परिपूर्णकैङ्कर्यरूपफलदशैयिल् फलान्तरानुभवन्यायत्ताले शङ्कितमाऩ स्वाधीनस्वार्थकर्तृत्वम् स्वाधीनस्वार्थभोक्तृत्वमागिऱ कळैगळैक् कऴिक्कैयिले इङ्गु प्रधानतात्पर्यमॆऩ्ऱनुसन्धिप्पार्गळ्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+परिपूर्णकैङ्कर्यरूपफलदशैयिल् फलान्तरानुभवन्यायत्ताले शङ्कितमाऩ स्वाधीनस्वार्थकर्तृत्वम् स्वाधीनस्वार्थभोक्तृत्वमागिऱ कळैगळैक् कऴिक्कैयिले इङ्गु प्रधानतात्पर्यमॆऩ्ऱनुसन्धिप्पार्गळ्। 
+</details>
+
+
+
+
+the purport or aim here (in the second part of Dvaya) is the removal, in the state of attaining full and perfect service in mukti, of the weeds of one's being the doer by one's own will and of one's being the doer for one's own purposes and, likewise, of one's being the enjoyer by one's own will and of being the enjoyer solely for oneself. This weed or wrong notion is likely to arise because, in regard to the enjoyment of the fruit elsewhere (in svarga), the thought is present that the fruit was won by one by one's own actions and is enjoyed by one for oneself. From this it would follow that the man performing prapatti understands that, in regard to the service in the state of mukti, there are no such wrong notions as one's being the doer and the enjoyer by one's owo will and for the sake of oneself-notions which are present in the state of enjoyment of other fruits (like those in svarga). Having understood this, the man performing prapatli makes his prayer in conformity with this knowledge.
+
+
+
 
 Arulalapperumal emperumanar commented on the word namas occurring here by the following śloka :--- " The wise say that namas means the state of being carefree without expecting any help (of being without any responsibility in regard to oneself) nairapekṣyam which results from the jīva's surrendering all his burdens to the Supreme Being." The nairapekṣyam referred to in that śloka is being carefree or having no expectation or requirements without the sense of responsibility in regard to one's salvation. From this freedom from responsibility, we should realise that either bharasamarpaṇam is suggested here, (since there cannot be the state of being carefree without it) or that the surrender of the bhara to the extent of one's being carefree is intended. If we take the latter part of Dvaya to be " Aham Śrīmate Narāyaṇāya" . (I am for Śrīman Nārāyaṇa ) and consider it to be the offering of the self along with the bhara or burden of protection, and that thereafter na mama declares one's having no connection with oneself, as, when an offering is made (to the gods), it is said “This is for Indra and not for me", if we take it in this forn, it will be extremely appropriate for this interpretation of the whole of Dvaya being a statement of bharasamarpana. In this interpretation the first part of Dvaya is about the file aṅgas or accessories, while the second part states the aṅgī, which is prapatti. When the offering or surrender is made saying: "I am for Nārāyaṇa' as in the śloka "I who realise that I am Thy śeṣa surrender myself here and now at Thy two lotus feet". --- (when this surrender is made), it would imply that the responsibility of one's protection and the fruit arising from one's protection are Nārāyaṇa's as stated in the following passages : "When the question arises to whom the surrender of the self is made for the sake of salvation or protection, the answer is given "To Viṣṇu", and "I am Thy  responsibility (bhara) (in regard to protection)". This namas discloses the severance of all connection between a man and his self and what belongs to him and also between himself and his protection and the fruit resulting from it.
 
