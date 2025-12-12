@@ -1448,7 +1448,7 @@ en el caso del Tirumantra
 </details>
 
 ## नमः
-### सर्वानिष्ट-निवृत्तिः
+### सर्वानिष्टानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्-नमश्-शब्दत्ताले  
@@ -1569,15 +1569,216 @@ y **es disfrutado** por uno mismo.
 परिपूर्णकैङ्कर्यरूपफलदशैयिल् फलान्तरानुभवन्यायत्ताले शङ्कितमाऩ स्वाधीनस्वार्थकर्तृत्वम् स्वाधीनस्वार्थभोक्तृत्वमागिऱ कळैगळैक् कऴिक्कैयिले इङ्गु प्रधानतात्पर्यमॆऩ्ऱनुसन्धिप्पार्गळ्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताल् 
+
+> फलान्तरानुभव-दशैयिल् उण्ड् आम्  
+स्वाधीन-स्वार्थ-- कर्तृत्व-भोक्तृत्व-भ्रमङ्गळ्  
+मुक्त-दशैयिल् कैङ्कर्यत्तिल् इल्लाद बडि कण्डु  
+अक्-कट्टळैयिले प्रार्थिक्किऱाऩ् 
+
+ऎऩ्ऱद् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+From this it **would follow** that  
+the man **performing** prapatti **understands** that,  
+in regard to the **service** in the state of mukti,  
+there **are no** such wrong notions  
+as one's **being** the **doer** and the **enjoyer**  
+by one's own will  
+and for the sake of oneself-  
+notions which **are present** in the state of enjoyment of other fruits (like those in svarga). 
+
+**Having understood** this,  
+the man **performing** prapatti **makes** his **prayer** in conformity with this knowledge.
+</details>
+
+<details><summary>Español</summary>
+
+De esto **se seguiría** que  
+el hombre **que realiza** prapatti **entiende** que,  
+con respecto al **servicio** en el estado de mukti,  
+**No existen** nociones tan erróneas.  
+como **ser** el **hacedor** y el **disfrutador**  
+por voluntad propia  
+y por el bien de uno mismo-  
+nociones que **están presentes** en el estado de **disfrute** de otras frutas (como las de svarga). 
+
+**Habiendo entendido** esto,  
+el hombre **que realiza** prapatti  
+**hace** su **oración** de **conformidad**  
+con este **conocimiento**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्ताल् फलान्तरानुभवदशैयिलुण्डाम् स्वाधीनस्वार्थकर्तृत्वभोक्तृत्व भ्रमङ्गळ् मुक्तदशैयिल् कैङ्कर्यत्तिलिल्लादबडि कण्डु अक्कट्टळैयिले प्रार्थिक्किऱाऩॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+### भरः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “परमात्मनि नाराणां  
+सर्व-भार-**समर्पणात्** ।  
+**सञ्जातं नैरपेक्ष्यन्** तु  
+नम इत्य् उच्यते बुधैः॥”  
+() 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “परमात्मनि नाराणां  
+सर्व-भार-**समर्पणात्** ।  
+**सञ्जातं नैरपेक्ष्यन्** तु  
+नम इत्य् उच्यते बुधैः॥”  
+() 
+</details>
+
+<details><summary>English</summary>
+
+> " The wise **say** that  
+namas **means** the state of **being** carefree  
+without **expecting** any **help**  
+(of being without any **responsibility** in regard to oneself, nairapekṣyam)  
+which **results** from the jīva's **surrendering** all his **burdens** to the Supreme Being." 
+</details>
+
+<details><summary>Español</summary>
+
+> " Los sabios **dicen** que  
+namas **significa** el estado de **ser** despreocupado  
+sin **esperar** ninguna **ayuda**  
+(de no tener ninguna **responsabilidad** respecto a uno mismo, nairapekṣyam)  
+que **resulta** de la **entrega** de la jīva todas sus **cargas** al Ser Supremo."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“परमात्मनि नाराणां सर्वभारसमर्पणात् । सञ्जातं नैरपेक्ष्यन्तु नम इत्युच्यते बुधैः”() 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु  
+इङ्गुऱ्ऱै नमस्सै  
+अरुळाळप्-पॆरुमाळ्-ऎम्-बॆरुमाऩार् व्याख्यानम् पण्णिऩार्।
+</details>
+
+<details><summary>English</summary>
+
+Arulalapperumal emperumanar **commented** on the word namas **occurring** here  
+by the above śloka. 
+</details>
+
+<details><summary>Español</summary>
+
+Arulalapperumal emperumanar **comentó** sobre la palabra namas **que aparece** aquí  
+por el śloka anterior.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु इङ्गुऱ्ऱै नमस्सै अरुळाळप्पॆरुमाळॆम्बॆरुमाऩार् व्याख्यानम् पण्णिऩार्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द श्लोकतिऱ् सॊऩ्ऩ नैरपेक्ष्यम्  
++++(संसारात्→)+++ स्व-रक्षणत्तिल् निर्भरत्वम्।
+</details>
+
+<details><summary>English</summary>
+
+The nairapekṣyam **referred to** in that śloka **is being** carefree  
+or **having no expectation** or **requirements**  
+without the sense of **responsibility**  
+in regard to one's salvation. 
+</details>
+
+<details><summary>Español</summary>
+
+El nairapekṣyam **al que se hace referencia** en ese śloka **es ser** despreocupado  
+o **sin expectativas** o **requisitos**  
+sin el sentido de **responsabilidad**  
+con respecto a la propia salvación.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्द श्लोकतिऱ्सॊऩ्ऩ नैरपेक्ष्यम् स्वरक्षणत्तिल् निर्भरत्वम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द निर्भरत्वत्ताले भर-समर्पणम् सूचितम् आदल्,  
+स्व-निर्भरत्व-पर्यन्तम् आऩ भर-समर्पणम्  
+इव्व् इडत्तिले विवक्षितम् आगक् कडवदु।
+</details>
+
+<details><summary>English</summary>
+
+From this freedom from **responsibility**,  
+**we should realise** that ~~either~~ if bharasamarpaṇam **is suggested** here,  
+(since there **cannot be** the state of being carefree without it)  
+~~or that~~ the **surrender** of the bhara to the extent of one's **being** carefree **is intended**. 
+</details>
+
+<details><summary>Español</summary>
+
+Desde esta libertad de **responsabilidad**,  
+**debemos darnos cuenta** de que  
+si bharasamarpaṇam **se sugiere** aquí,  
+(ya que **no puede haber** el estado de **estar despreocupado** sin él)  
+**se pretende la rendición** del bhara  
+en la medida de **ser** despreocupado. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्द निर्भरत्वत्ताले भरसमर्पणम् सूचितमादल्, स्वनिर्भरत्व पर्यन्तमाऩ भरसमर्पणमिव्विडत्तिले विवक्षितमागक्कडवदु।
+</details>
+
+### आत्म-हविः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> हविस्-समर्पणत्तिल् “इदम् इन्द्राय न मम” ऎऩ्ऱु  
+तऩ्ऩुडऩ् तुवक्क्-अऱुक्किऱद्
+
+ऎऩ्ऱाल् इस् समर्पण-योजऩैक्कु स्व-रसम्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+हविस्समर्पणत्तिल् “इदमिन्द्राय न मम”ऎऩ्ऱु तऩ्ऩुडऩ् तुवक्कऱुक्किऱदॆऩ्ऱाल् इस् समर्पणयोजऩैक्कु स्वरसम्।
+</details>
 
 
 
-From this it would follow that the man performing prapatti understands that, in regard to the service in the state of mukti, there are no such wrong notions as one's being the doer and the enjoyer by one's owo will and for the sake of oneself-notions which are present in the state of enjoyment of other fruits (like those in svarga). Having understood this, the man performing prapatli makes his prayer in conformity with this knowledge.
+If we take the latter part of Dvaya to be  
 
+> "Aham Śrīmate Narāyaṇāya"  
+(**I am** for Śrīman Nārāyaṇa ) 
 
+and consider it to **be** the **offering** of the self  
+along with the bhara or burden of **protection**,  
+and that thereafter "na mama" **declares** one's **having no connection** with oneself,  
+as, when an **offering is made** (to the gods),  
+it **is said**  
 
+> “This **is** for Indra and not for me", 
 
-Arulalapperumal emperumanar commented on the word namas occurring here by the following śloka :--- " The wise say that namas means the state of being carefree without expecting any help (of being without any responsibility in regard to oneself) nairapekṣyam which results from the jīva's surrendering all his burdens to the Supreme Being." The nairapekṣyam referred to in that śloka is being carefree or having no expectation or requirements without the sense of responsibility in regard to one's salvation. From this freedom from responsibility, we should realise that either bharasamarpaṇam is suggested here, (since there cannot be the state of being carefree without it) or that the surrender of the bhara to the extent of one's being carefree is intended. If we take the latter part of Dvaya to be " Aham Śrīmate Narāyaṇāya" . (I am for Śrīman Nārāyaṇa ) and consider it to be the offering of the self along with the bhara or burden of protection, and that thereafter na mama declares one's having no connection with oneself, as, when an offering is made (to the gods), it is said “This is for Indra and not for me", if we take it in this forn, it will be extremely appropriate for this interpretation of the whole of Dvaya being a statement of bharasamarpana. In this interpretation the first part of Dvaya is about the file aṅgas or accessories, while the second part states the aṅgī, which is prapatti. When the offering or surrender is made saying: "I am for Nārāyaṇa' as in the śloka "I who realise that I am Thy śeṣa surrender myself here and now at Thy two lotus feet". --- (when this surrender is made), it would imply that the responsibility of one's protection and the fruit arising from one's protection are Nārāyaṇa's as stated in the following passages : "When the question arises to whom the surrender of the self is made for the sake of salvation or protection, the answer is given "To Viṣṇu", and "I am Thy  responsibility (bhara) (in regard to protection)". This namas discloses the severance of all connection between a man and his self and what belongs to him and also between himself and his protection and the fruit resulting from it.
+if we **take** it in this forn, it will be extremely appropriate for this interpretation of the whole of Dvaya being a statement of bharasamarpana. In this interpretation the first part of Dvaya is about the file aṅgas or accessories, while the second part states the aṅgī, which is prapatti. When the offering or surrender is made saying: "I am for Nārāyaṇa' as in the śloka "I who realise that I am Thy śeṣa surrender myself here and now at Thy two lotus feet". --- (when this surrender is made), it would imply that the responsibility of one's protection and the fruit arising from one's protection are Nārāyaṇa's as stated in the following passages : "When the question arises to whom the surrender of the self is made for the sake of salvation or protection, the answer is given "To Viṣṇu", and "I am Thy  responsibility (bhara) (in regard to protection)". This namas discloses the severance of all connection between a man and his self and what belongs to him and also between himself and his protection and the fruit resulting from it.
 
 The (fourth or ) dative case of Nārāyaṇa and the word namas have, each, its significance, in as much as they indicate respectively the declaration of one's connexion with the Supreme Being and the denial of one's connection with oneself. It may also be that namas denies such things as one's being a doer not subject to the will of the Supreme Being. Even if we take the simple and ordipary meaning of namas as namami (I bow to Nārāyaṇa," it would be in keeping with the meaning " I surrender" as the word namāmi l I bow) has been commented upon in Mantrarājapada stotra as meaning 'for the surrender of the self'.
 
