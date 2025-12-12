@@ -1524,9 +1524,44 @@ na mama
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परिपूर्ण-कैङ्कर्य-रूप-- फल-दशैयिल्  
+> परिपूर्ण-कैङ्कर्य-रूप-- फल-दशैयिल्  
 फलान्तरानुभव-न्यायत्ताले शङ्कितम् आऩ  
-स्वाधीन-स्वार्थ-कर्तृत्वम्, स्वाधीनस्वार्थभोक्तृत्वमागिऱ कळैगळैक् कऴिक्कैयिले इङ्गु प्रधानतात्पर्यमॆऩ्ऱनुसन्धिप्पार्गळ्। 
+स्वाधीन-स्वार्थ-कर्तृत्वम्, स्वाधीन-स्वार्थ-भोक्तृत्वम् आगिऱ कळैगळैक्+++(=व्यर्थ-सस्यं)+++ कऴिक्कैयिले  
+इङ्गु प्रधान-तात्पर्यम् 
+
+ऎऩ्ऱ् अनुसन्धिप्पार्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+the purport or aim here (in the second part of Dvaya) **is** the **removal**,  
+in the state of attaining full and perfect **service** in mukti,  
+of the weeds of one's **being** the **doer** by one's own will  
+and of one's **being** the **doer** for one's own purposes  
+and, likewise, of one's **being** the **enjoyer** by one's own will  
+and of being the **enjoyer** solely for oneself. 
+
+This weed or wrong notion **is** likely to **arise** because,  
+in regard to the **enjoyment** of the fruit elsewhere (in svarga),  
+the **thought is present**  
+that the fruit **was won** by one, by one's own actions  
+and **is enjoyed** by one for oneself. 
+</details>
+
+<details><summary>Español</summary>
+
+el significado o objetivo aquí (en la segunda parte de Dvaya) **es** la **eliminación**,  
+en el estado de lograr **servicio** pleno y perfecto en mukti,  
+de las malas hierbas del propio **ser** el **hacedor** por voluntad propia  
+y de ser **el **hacedor** para sus propios fines  
+y, asimismo, de ser **disfrutador** por voluntad propia  
+y de ser **disfrutador** únicamente de uno mismo. 
+
+Esta mala hierba o noción errónea **es** probable que **surja** porque,  
+con respecto al **disfrute** del fruto en otro lugar (en svarga),  
+el **pensamiento está presente**  
+que el fruto **lo ganó** uno, las propias acciones  
+y **es disfrutado** por uno mismo.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1537,7 +1572,7 @@ na mama
 
 
 
-the purport or aim here (in the second part of Dvaya) is the removal, in the state of attaining full and perfect service in mukti, of the weeds of one's being the doer by one's own will and of one's being the doer for one's own purposes and, likewise, of one's being the enjoyer by one's own will and of being the enjoyer solely for oneself. This weed or wrong notion is likely to arise because, in regard to the enjoyment of the fruit elsewhere (in svarga), the thought is present that the fruit was won by one by one's own actions and is enjoyed by one for oneself. From this it would follow that the man performing prapatti understands that, in regard to the service in the state of mukti, there are no such wrong notions as one's being the doer and the enjoyer by one's owo will and for the sake of oneself-notions which are present in the state of enjoyment of other fruits (like those in svarga). Having understood this, the man performing prapatli makes his prayer in conformity with this knowledge.
+From this it would follow that the man performing prapatti understands that, in regard to the service in the state of mukti, there are no such wrong notions as one's being the doer and the enjoyer by one's owo will and for the sake of oneself-notions which are present in the state of enjoyment of other fruits (like those in svarga). Having understood this, the man performing prapatli makes his prayer in conformity with this knowledge.
 
 
 
