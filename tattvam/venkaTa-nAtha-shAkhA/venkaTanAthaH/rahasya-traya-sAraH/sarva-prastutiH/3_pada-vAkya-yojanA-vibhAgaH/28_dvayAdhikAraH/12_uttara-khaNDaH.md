@@ -2013,7 +2013,7 @@ si lo **tomamos** de esta forma,
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-इप्पडि स्वनिर्भरत्वपर्यन्तभरसमर्पणम् नमश्शब्दार्थमाग विवक्षितमाऩालुम् विशेषणीभूतस्वनिर्भरत्वत्तैयुम् अदु सॊल्लुमागैयाल् 
+इप्पडि स्वनिर्भरत्वपर्यन्तभरसमर्पणम् नमश्शब्दार्थमाग विवक्षितमाऩालुम् विशेषणी-भूत--स्व-निर्भरत्वत्तैयुम् अदु सॊल्लुमागैयाल् 
 
 > “सञ्जातं नैरपेक्ष्यन्तु  
 नम इत्युच्यते बुधैः” 
@@ -2030,6 +2030,7 @@ si lo **tomamos** de esta forma,
 इन्द योजऩैयिल् पूर्व-खण्डम् अङ्ग-पञ्चक-परम्,  
 उत्तर-खण्डम् अङ्गि-प्रतिपादकम्।
 </details>
+
 <details><summary>English</summary>
 
 In this interpretation,  
@@ -2059,7 +2060,7 @@ que **es** prapatti.
 पूर्वखण्डमङ्गपञ्चकपरम्; उत्तरखण्डमङ्गिप्रतिपादकमिति । तथाच पूर्वखण्डमङ्गपञ्चकमात्रपरमागैयालुम्, उत्तरखण्डम् उक्तरीत्या भरसमर्पणप्रतिपादकमागैयालुम् पौनरुक्त्यमिल्लै यॆऩ्ऱु करुत्तु।
 </details>
 
-#### ??
+### आत्म-स्वरूपम् (भर-फलय् आर्थे)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2099,8 +2100,12 @@ Como en el śloka
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-कीऴे अहं शब्दम् भरगर्भमाऩ आत्मपरमॆऩ्ऱार्। इऩि अहं शब्दम् आत्मस्वरूपमात्रपरमागक् कॊण्डु नारायणाय अहं ऎऩ्ऱु स्वरूपमात्रत्तै समर्प्पित्तालुम् प्रमाणान्तरबलत्ताले भरसमर्पणमुम् फलसमर्पणमुम् अर्थात् सिद्धमागुमॆऩ्गिऱार् अहमद्यैवेत्यादियाल् अहं - आत्मीयविशिष्टऩाऩ नाऩ्, संरक्ष्यतयाऽर्प्यत इति । रक्षारूपफलविशिष्टतयार्प्यते ऎऩ्गै। 
-</details>
+कीऴे अहं शब्दम् भरगर्भमाऩ आत्मपरमॆऩ्ऱार्।   
+इऩि अहं शब्दम् आत्म--स्व-रूप--मात्र-परम् आगक् कॊण्डु  
+"नारायणाय अहं" ऎऩ्ऱु स्वरूपमात्रत्तै समर्प्पित्तालुम्  
+प्रमाणान्तरबलत्ताले भरसमर्पणमुम् फलसमर्पणमुम् अर्थात् सिद्धमागुमॆऩ्गिऱार्  
+
+अहमद्यैवेत्यादियाल् अहं - आत्मीयविशिष्टऩाऩ नाऩ्, </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2159,6 +2164,11 @@ la **respuesta se da** "A Viṣṇu",
 <details><summary>मूलम्</summary>
 
 “यत्संरक्ष्यतयाऽर्प्यते”( अहिर्बुध्न्य-संहिता ५२-३६), 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+संरक्ष्यतयाऽर्प्यत इति । रक्षारूपफलविशिष्टतयार्प्यते ऎऩ्गै। 
 </details>
 
 
@@ -2232,11 +2242,46 @@ como **se indica** en los pasajes anteriores.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"नमः" ऎऩ्गिऱव् इत्ताले  
+आत्मात्मीयङ्गळोडुम् स्व-रक्षण--तत्-फलङ्गळोडुम् तऩक्कुत् तुवक्क् अऱ्ऱमै काट्टुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+This namas **discloses** the **severance** of all **connection**  
+between a man and his self and what **belongs** to him  
+and also between himself and his **protection** and the fruit **resulting** from it.
+</details>
+
+<details><summary>Español</summary>
+
+Este nombre **revela** la **desconexión** de toda **conexión**  
+entre un hombre y él mismo y lo que le **pertenece**  
+y también entre él y su **protección** y el fruto **resultante** de ella.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नमः ऎऩ्गिऱवित्ताले आत्मात्मीयङ्गळोडुम् स्वरक्षण तत्फलङ्गळोडुम् तऩक्कुत् तुवक्कऱ्ऱमै काट्टुगिऱदु। 
+</details>
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-This namas discloses the severance of all connection between a man and his self and what belongs to him and also between himself and his protection and the fruit resulting from it.
+पर-सम्बन्ध-विधियिलुं, स्व-सम्बन्ध--निषेधत्तिलुम् तात्पर्यम् आगैयाले  
+इच् चतुर्थी-नमस्सुक्कळ् इरण्डुक्कुम् फलम् उण्डु।
+</details>
+
+<details><summary>मूलम्</summary>
+
+परसम्बन्धविधियिलुंस्वसम्बन्धनिषेधत्तिलुम् तात्पर्यमागैयाले इच् चतुर्थीनमस्सुक्कळिरण्डुक्कुम् फलमुण्डु।
+</details>
+
+
 
 The (fourth or ) dative case of Nārāyaṇa and the word namas have, each, its significance, in as much as they indicate respectively the declaration of one's connexion with the Supreme Being and the denial of one's connection with oneself. It may also be that namas denies such things as one's being a doer not subject to the will of the Supreme Being. Even if we take the simple and ordipary meaning of namas as namami (I bow to Nārāyaṇa," it would be in keeping with the meaning " I surrender" as the word namāmi l I bow) has been commented upon in Mantrarājapada stotra as meaning 'for the surrender of the self'.
 
