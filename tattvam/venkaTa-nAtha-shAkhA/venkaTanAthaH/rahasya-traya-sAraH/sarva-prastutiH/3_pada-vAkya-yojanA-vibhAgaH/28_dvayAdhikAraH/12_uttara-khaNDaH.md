@@ -40,6 +40,12 @@ LA SEGUNDA PARTE DE DVAYA:
 इप्पडि तोऱ्ऱिऩ शरणागति 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि उत्तरखण्डत्तिऱ्कु व्याख्यानम् पण्णप्पोगिऱवऱाय् पूर्वखण्डत्तिल् निरूपितमाऩ उपायविशेषम् फलसाकाङ्क्षमागैयालुम्, अदु सकलफलसाधनमागैयाले फलविशेषसाकाङ्क्षमागैयालुम् अन्द फलम् दातृप्रतिग्रहीत्र्युपायस्वरूपपरामर्शत्तिल् सर्वानिष्टनिवृत्तिपूर्वकभगवत् कैङ्कर्यमाग मुडिगैयालुम्, अदैये उत्तरखण्डम् प्रतिपादिक्किऱदॆऩ्गिऱार् इप्पडित् तोऱ्ऱिऩ शरणागति इत्यादियाल्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “तावद् आर्तिस् तथा वाञ्छा  
@@ -175,6 +181,10 @@ Además, (como **se indicó** anteriormente,) el Salvador **es** sumamente gener
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अर्थितार्थपरिदानदीक्षितऩायिति । उपायानुष्ठाताक्कळाले याचितमाऩ सकलपुरुषार्थत्तैयुम् अनुबन्धिपर्यन्तमाग विशेषित्तुक् कॊडुप्पदिल् दृढसङ्गल्बमुडैयवऩाऩ ऎऩ्गै। 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -313,6 +323,12 @@ sólo en **ser** Su śeṣa,
 महोदारऩाऩ शरण्यऩुक्कुम् सर्वोत्कृष्टविषयमाऩ इव् वशीकरणविशेषत्तुक्कुम् शेषतैकरसऩाऩ तऩ् स्वरूपत्तुक्कुमनुरूपमाऩ फलविशेषत्तै उत्तरखण्डम्
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सर्वोत्कृष्टविषयमाऩ - सर्वोत्कृष्टेश्वरविषयमाऩ, शेषतैकरसऩाऩ - शेषता एकरसः यस्य स्वरूपस्य । फलविशेषत्तै - देशविशेषावच्छिन्नकैङ्कर्यत्तै। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -349,6 +365,12 @@ el Señor **debería tomarme** como Su **siervo** para Su propio placer",
 <details><summary>मूलम्</summary>
 
 “तऩक्के यागवॆऩैक्कॊळ्ळुमीदे”( तिरुवाय्मॊऴि २-९-४।) ऎऩ्गिऱबडिये 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तऩक्के यागवॆऩैक्कॊळ्ळुमीदे - स्वकैङ्कर्यत्तुक्काग ऎऩ्ऩै किङ्करऩाक्किक् कॊळ्ळुमिदैये। 
 </details>
 
 
@@ -412,6 +434,11 @@ la jīva **no debería tener** ningún otro interés u objeto.
 इत्ताले अनन्यप्रयोजनत्वमुम् सिद्धिक्किऱदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पूर्वखण्डत्तिल् अनन्योपायत्वम् सिद्धिक्किऱाप्पोले उत्तरखण्डत्तिल् अनन्यप्रयोजनत्वम् सिद्धिक्किऱदॆऩ्गिऱार् इत्ताले इति । इत्ताले - चतुर्थ्यभिप्रेतपारार्थ्यत्तालुम्, नमश्शब्दाभिप्रेतमाऩ स्वार्थत्वनिवृत्तियालुम् ऎऩ्गै। 
+</details>
+
 
 ## श्रीमते नारायणाय
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -451,6 +478,10 @@ En este contexto, la palabra Nārāyaṇa con el atributo que la califica (a sab
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उत्तरखण्डस्थलमाऩ नारायण शब्दम् उपेयत्वानुगुणाकारङ्गळै प्राधान्येन काट्टुगिऱदु ऎऩ्गिऱार् इव्विडत्तिलित्यादियाल्। सविशेषणमाऩ नारायणशब्दम् - श्रीमते नारायणाय ऎऩ्गिऱ शब्दम्। स्वामित्वादिगळुमिति । इङ्गु आदिशब्दत्ताल् सपत्नीकत्वसुकुमारविग्रहवत्वादिपरिग्रहः । 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -492,6 +523,11 @@ principalmente y de acuerdo con los pramāṇas.
 <details><summary>मूलम्</summary>
 
 अनन्तगुणविभूतिविशिष्टऩाऩ स्वामियिऩुडैय सर्वप्रकारनिरतिशयभोग्यतैयुमागिऱव् आकारङ्गळै यथाप्रमाणम् प्राधान्येन काट्टुगिऱदु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+यथाप्रमाणम् - “विराजमानोज्जवलपीतवासस” मित्यादिप्रमाणानुसारेण, इङ्गु श्रीमच्छब्द प्रयोगत्तिऱ्कु प्रयोजनमरुळिच्चॆय्गिऱर् इप्पडि इति । 
 </details>
 
 
@@ -536,6 +572,12 @@ Aunque Bhagavān, quien **está** así **dotado** con los dos vibhūtis (Līlā 
 इप्पडि उभयविभूतिविशिष्टम् प्राप्यमायिरुक्कच्चॆय्देयुम् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उभयविभूतिविशिष्टम् प्राप्यमायिरुक्कच्चॆय्देयुमिति । नारायणऩ् प्राप्यऩॆऩ्ऱाल् नारशब्दार्थमाऩ उभयविभूतिविशिष्टऩ् प्राप्यऩॆऩ्ऱुम् तदन्तर्गतश्रीविशिष्टऩ् प्राप्यऩॆऩ्ऱुम् मुडियानिऱ्कच् चॆय्देयुमॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्म-हविर्-उद्देश्यरुम् आय्
@@ -561,6 +603,12 @@ para el **ofrecimiento** del havis del yo, los **destinatarios previstos**,
 <details><summary>मूलम्</summary>
 
 आत्महविरुद्देश्यरुमाय् 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदऱ्कु प्रधानप्राप्यरायिरुप्पार् इव्विशिष्टदम्पतिकळ् ऎऩ्ऱु तोऱ्ऱुगैक्काग ऎऩ्बदोडन्वयम्, प्रधान प्राप्यत्वत्तिल् हेतुक्कळैक् काट्टुगिऱार् आत्महविरुद्देश्यरुमायिति । इदऩाल् उपायत्तिल् प्रधानोद्देश्यरे प्राप्यतायां प्रधानरॆऩ्ऱु सॊल् लिऱ्ऱायिऱ्ऱु। 
 </details>
 
 
@@ -591,6 +639,12 @@ aquellos para quienes **somos** śeṣas
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शेषत्वप्रतिसम्बन्धिकळुमायिति । इदऩालुम् उभयविभूतिनिष्ठशेषतानिरूपितशेषित्व-मुभयनिष्ठमागैयाले इव्विरुवरुमे प्रधानप्राप्यरागवेण्डुमॆऩ्ऱु सूचितमायिऱ्ऱु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्-अडियाग वरुगिऱ कैङ्कर्यत्तुक्कुम् इलक्क् आय्क् कॊण्डु 
@@ -617,6 +671,12 @@ y en consecuencia (los dos) a quienes se debe nuestro **servicio**
 
 अदडियाग वरुगिऱ कैङ्कर्यत्तुक्कुमिलक्काय्क्कॊण्डु 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अदडियाग वरुगिऱ कैङ्कर्यत्तुक्कुम् इलक्कायिति । उभयाधिष्ठानमाऩ शेषित्वप्रयुक्तकैङ्कर्यत्तुक्कुउभयमे प्रतिसम्बन्धिकळागवेण्डुमागैयाले इव्विशिष्टदम्पतिकळे प्रधानप्राप्यर्गळागवेण्डुमॆऩ्ऱु करुत्तु।
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -710,6 +770,12 @@ Esta idea...
 
 इव्वर्थम् “वैकुण्ठे तु परेलोके श्रिया सार्धं जगत्पतिः”( लैङ्गपुराणम्), 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इव्विशिष्टदम्पतिकळे प्रधानप्राप्यरॆऩ्बदिल् प्रमाणङ्गळै यरुळिच्चॆय्गिऱार् इव्वर्थमित्यादियाल्। वैकुण्ठेत्विति । वैकुण्ठमॆऩ्गिऱ परलोकत्तिल् श्रीयोडे कूड जगच्छेषियाय् अचिन्त्यस्वरूपऩाय् इरुक्किऱ विष्णुवाऩवऩ् मननशीलर्गळाऩ भक्तर्गळोडुम् कैङ्कर्यपरर्गळाऩ भागवतर्गळोडुम् आस्ते ऎऩ्बदु इदिऩर्थम्। इदिल् “श्रिया सार्धं जगत्पतिः” ऎऩ्ऱु श्रीविशिष्टऩुक्के जगच्छेषित्वम् सॊल्लु कैयाले अन्द शेषिताप्रयुक्तकैङ्कर्यप्रतिसम्बन्धित्वम् श्रीविशिष्टऩुक्के प्रधानमागत् तोऱ्ऱु किऱदिऱे। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -853,7 +919,7 @@ etc.
 ##### व्युत्पत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इङ्गुऱ्ऱै श्री-शब्दम् 
+इङ्गुऱ्ऱ श्री-शब्दत्तुक्कु 
 
 > “**शृणाति** निखिलान् दोषान्  
 **श्रीणाति** च गुणैर् जगत् ।  
@@ -891,8 +957,15 @@ y **ha** ella misma **alcanzado** el Objeto Supremo de b (Bhagavān)"
 
 <details><summary>मूलम्</summary>
 
-इङ्गुऱ्ऱै श्रीशब्दम् “शृणाति निखिलान् दोषान् श्रीणाति च गुणैर्जगत् । श्रीयते चाखिलैर्नित्यं श्रयते च परं पदम्”( अहिर्बुध्न्य-संहिता) 
+शब्दत्तुक्कु (/इङ्गुऱ्ऱै श्रीशब्दम्) “शृणाति निखिलान् दोषान् श्रीणाति च गुणैर्जगत् । श्रीयते चाखिलैर्नित्यं श्रयते च परं पदम्”( अहिर्बुध्न्य-संहिता) 
 </details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+श्रीशब्दत्तिऱ्कु अनेकव्युत्पत्तियुण्डेयागिलुम् इङ्गुळ्ळ श्रीशब्दत्तिऱ्कु “श्रीङ् सेवायां” ऎऩ्गिऱ धात्वर्थमाऩ सेव्यत्वादिगळैच् चॊल्लिक्कॊण्डु कैङ्कर्यप्रतिसम्बन्धित्वत्तिले नोक्कु ऎऩ्गिऱार् श्रीशब्दत्तिऱ्कु इति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1009,6 +1082,12 @@ que **tienen derecho** a nuestro **servicio**,
 “श्रीमते” ऎऩ्गिऱ शब्दन्दऩ्ऩाले विशिष्टमाऩ प्रतिसम्बन्धितोऱ्ऱिऱ्ऱेयागिलुम् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+श्रीमते ऎऩ्गिऱ शब्दत्तालेये श्रीविशिष्टऩे कैङ्कर्यप्रतिसम्बन्धि ऎऩ्ऱु तोऱ्ऱानिऱ्क नारायणशब्दमुम् वेण्डुमो ऎऩ्ऩ अदऱ्कु प्रयोजनमरुळिच्चॆय्गिऱार् श्रीमते ऎऩ्गिऱ शब्दन् दऩ्ऩाले इति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(कैङ्कर्य-)+++प्रयोजकम् आऩ प्रीति-विशेषत्तैप् पिऱप्पिक्कुम्  
@@ -1038,6 +1117,12 @@ which **is essential** for all forms of **service**.
 प्रयोजकमाऩ प्रीति विशेषत्तैप्पिऱप्पिक्कुम् सम्बन्धगुणविभूत्यादिपरिपूर्णानुभवसिद्धिक्कागविङ्गु नारायण शब्दम् प्रयुक्तमागिऱदु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्रयोजकमाऩ - प्रेरकमाऩ, 
+</details>
+
+
 #### चतुर्थ्याः कैङ्कर्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1063,6 +1148,12 @@ Aquí el dativo (o cuarto caso) que **significa** "para Nāriyana" (existiendo p
 इङ्गु चतुर्थितादर्थ्यमुखत् ताले कैङ्कर्यत्तैक्कणिसिक्किऱदु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि चतुर्थ्यर्थत्तैक्काट्टुगिऱार् इङ्गु चतुर्थीति । तादर्थ्यमुखत्तले - शेषत्वत्तै द्वारीकरित्तु, कैङ्कर्यत्तैक् कणिसिक्किऱदु - लक्षणया कैङ्कर्यत्तै बोधिक्किऱदु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तादर्थ्य-मात्रं नित्यम् आगैयाले
@@ -1085,6 +1176,12 @@ Aquí el dativo (o cuarto caso) que **significa** "para Nāriyana" (existiendo p
 
 तादर्थ्यमात्रम् नित्यमागैयाले
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तादर्थ्यत्तैये प्रार्थिक्कलागादो लक्षणया तत्कार्यकैङ्कर्यत्तै यार्थमागक् कॊण्डु अदै प्रार्थिक्कवेण्डुमो ऎऩ्ऩ वरुळिच्चॆय्गिऱार् तादर्थ्यमात्रम् नित्यमागैयाले इति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1123,6 +1220,10 @@ Este **es** el significado de namas."
 “तच्छेषत्वानुसन्धानपूर्वतच्छेषवृत्तिकः" ( पराशरभट्ट-नित्य-ग्रन्थः), "अहं सर्वं करिष्यामि”इत्यादिगळिऱ्पडिये
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तच्छेषत्वेति । भगवच्छेषत्वानुसन्धानपूर्वकमाऩ तच्छेषवृत्तियै अदावदु कैङ्कर्यत्तै युडैयवऩॆऩ्गै। 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1207,6 +1308,12 @@ mientras **realiza** saraṇagati (con este mantra)
 शरणागतऩाम्बोदु शरण्यऩै अभिमतप्रार्थऩै पण्णुगिऱाऩागैयाले
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शरणागतिपण्णुम्बोदु अभिमतफलत्तै प्रार्थिक्कवेण्डुमागैयाल् इङ्गु प्रार्थनावाचिपदत्तै अध्याहरिक्कवेण्डुमॆऩ्गिऱार् शरणागतऩाम्बोदु इति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गे “भवेयं” ऎऩ्ऱ् ऒरु पदम् अध्याहार्यम्। 
@@ -1265,6 +1372,16 @@ a partir de entonces, con la palabra namas,
 इप्पडि प्राधान्यत्ताले मुऱ्पड इष्टप्राप्तियैयपेक्षित्तु इदुक्काग वनन्तरम् नमस्साले सर्वानिष्ट निवृत्तियैयुम् प्रार्थिक्किऱदु।  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि मुदलिल् इष्टप्रार्थऩैक्कुक् कारणम् प्राधान्यमॆऩ्ऱु सॊल्लिक्कॊण्डु नमश्शब्दार्थत्तैक् काट्टुगिऱार् इप्पडि प्राधान्यत्ताले इत्यादियाल्। 
+
+इदुक्काग इष्टप्राप्तिक्कु शेषमाग, सर्वानिष्टनिवृत्तियैयुमिति । इष्टप्रात्तिक्कु प्रतिबन्धकमाऩ पृकृतिसम्बन्धनिवृत्तियैयुम् अत्तोडु कलसिऩ स्वार्थकर्तृत्व स्वाधीनकर्तृत्वाभिमानरूपानिष्टनिवृत्तियैयुमॆऩ्ऱबडि।
+
+यद्वा स्वरक्षणविरोधिरूपानिष्टनिवृत्तियैयुम्, स्वशेषत्वज्ञानविरोधिरूपानिष्टनिवृत्तियैयुम्, स्वकैङ्कर्यविरोधि-रूपानिष्टनिवृत्तियैयुम् प्रार्थिक्किऱदॆऩ्ऱबडि।  
+
+</details>
+
 
 
 ## पति-भुक्त-भोग-प्रशस्तिः
@@ -1316,6 +1433,10 @@ como algo que **es accesorio** del **disfrute** del Señor.
 भुङ्क्ते स्वभोगमखिलं पतिभोगशेषम् ॥
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+विरोधिस्वरूपत्तैयुम् तन्निवृत्तिप्रकारत्तैयुम् ऒरु श्लोकत्ताले सङ्क्रहित्तुक्काट्टु किऱार् अप्राप्तित इत्यादियाल्। इदऱ्कु अर्थम्:- स्वपरैः – तऩ्ऩालुम् स्वभिन्नर्गळालुम्, स्वरक्षां - तऩ्ऩुडैय रक्षणत्तै, अप्राप्तितः – प्राप्तियिल्लामैयालेये, अदावदु:- शेषित्वादिरूपमाऩ रक्षणप्रयोजकमिल्लामैयालेये, परिहरन् – परिहरिक्किऱवऩाय्, इदऩाल् अनन्यरक्ष्यत्वरूप पूर्वखण्डार्थम् सॊल्लप्पट्टदायिऱ्ऱु। इदऩाल् रक्षाविरोधियुम् तन्निवृत्तिप्रकारमुम् सूचितमायिऱ्ऱु। तादर्थ्यधीत्यादि । भगवदेकशेषत्वबुद्धियाले परिहरिक्कप्पट्ट स्वशेषत्वबुद्धियॆऩ्ऩ, भगवदन्यशेषत्वबुद्धियॆऩ्ऩ इदुगळैयुडैयवऩाय्। इदऩाल् शेषत्वज्ञानविरोधियुम् तत्परिहारहेतुवुम् सॊल्लप्पट्टदु। इदु श्रीमते नारायणाय ऎऩ्गिऱजतुर्थ्यन्तपदङ्गळाले सूचितम्। अन्योपभोगविरहादनघः – मोक्षेतरमाऩ ऐश्वर्यकैवल्यङ्गळिल् मानसिकमाऩ उपभोगङ्गळिल्लामैयाले अनघऩायुमुळ्ळ, इदऩाल् कैङ्कर्यविरोधियुम् तन्निवृत्तिहेतुवुम् सॊल्लप्पट्टदु। इदु नमश्शब्दत्ताले सूचितम्। प्रपन्नः – प्रपन्नऩाऩवऩ्, अखिलं स्वभोगं – भगवदनुभवत्ताले तऩक्कुण्डाऩ सर्वभोगत्तैयुम्, पतिभोगशेषं भुङ्क्त इति । राजान्तःपुरभोगन्यायेन पतियाऩ भगवाऩुडैय भोगत्तिऱ्कु शेषभूतमागवे अनुभविक्किऱाऩ् ऎऩ्ऱबडि।  
+</details>
 
 
 ## नमस्य् अध्याहारः 
@@ -1353,6 +1474,11 @@ el verbo **tiene que ser suministrado**
 इन् नमस्सुक्कुम् क्रियापदमध्याहरित्तुक्कॊळ्ळवेणुम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि इन्द नमस्सुक्कुम् नारायणाय ऎऩ्गिऱविडत्तिऱ्पोल् अन्वययोग्यमाऩ ऒरु क्रियापदत्तैयध्याहरिक्कवेण्डुमॆऩ्गिऱार् इन् नमस्सुक्कुमित्यादिना । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1378,6 +1504,12 @@ que **significa**,
 
 “न मम स्याम्” ऎऩ्बदु ऎऩक्कागवे अल्लेऩॆऩ्ऱबडि।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अध्याहार्यपदत्तैक् काट्टानिऩ्ऱु कॊण्डु अत्तोडु सेर्त्तु वाक्यार्थमरुळिच् चॆय्गिऱार् न मम स्यां ऎऩ्ऱदु इति । इदु ऎऩक्कु नाऩ् उरियेऩ् ऎऩ्गिऱ अहङ्कारत्तिऱ्कु निवृत्तियैच् चॊल्लुगिऱ योजऩै। 
+</details>
+
 
 ### स्यात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1415,6 +1547,11 @@ ya que **pide** la **desaparición** de la noción de 'mío' respecto de todos l
 “न मम किञ्चित्स्यात्” ऎऩ्ऱु सर्वविषय-ममकार-निवृत्तिमुखत्ताले सर्वानिष्टनिवृत्तियै प्रार्थिक्किऱदागवुमाम्।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि ममकारनिवृत्तिपरमाऩ योजऩैयै किञ्चित् स्यात् ऎऩ्गिऱ पदद्वयाध्याहारत्तोडु प्रदर्शिप्पिक्किऱार् न मम किञ्चित् स्यात् ऎऩ्ऱु इति । सर्वविषयेति । सर्वविषयम् - स्वविषयम्; स्वकीयविषयम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1447,8 +1584,15 @@ en el caso del Tirumantra
 तिरुमन्त्रत्तिलिष्टप्राप्त्यनिष्टनिवृत्तिकळिऱ् सॊऩ्ऩ चोद्यपरिहारङ्गळिङ्गुमनुसन्धित्तुक्कॊळ्वदु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इष्टनिवृत्तियै प्रार्थित्ताल् भावान्तराभाववादिपक्षत्तिल् अनिष्टनिवृत्तिप्रार्थऩैयुम् सिद्धिक्कादो इत्यादि चोद्यङ्गळुम् तत्परिहारङ्गळुम् मूलमन्त्राधिकारत्तिलेये सॊल्लप्पट्टऩ; अवैगळै इङ्गुम् अनुसन्धित्तुक्कॊळ्वदु ऎऩ्गिऱार् तिरुमन्त्रत्तिलित्यादियाल्। 
+</details>
+
+
+
 ## नमः
-### सर्वानिष्ट-निवृत्तिः
+### सर्वानिष्टानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्-नमश्-शब्दत्ताले  
@@ -1477,6 +1621,17 @@ y la **asociación** con prakṛti o materia,
 
 इन्नमश्शब्दत्ताले अविद्याकर्मतदुभयवासनारुचिप्रकृतिसम्बन्धादिरूपङ्गळाऩ सर्वविरोधिकळैयुम् कऴियानिऱ्कच्चॆय्देयुम्
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अविद्याकर्मवासनारुचि-- प्रकृतिसम्बन्धङ्गळॆल्लाम् कऴिन्दु प्राप्यमाऩ देशविशेषावच्छिन्नकैङ्कर्यत्तैच् चॊल्लि,  
+नारायणशब्दोत्तरचतुर्थियोडु समभिव्याहृतमाऩ इन्द नमश्शब्दत्तिऱ्कु  
+परिपूर्णकैङ्कर्यरूपफलानुभवदशैक्कु अनुगुणमाऩ व्यावर्त्यविशेषत्तिले नोक्कु  
+
+ऎऩ्ऱु प्राचीनर् अनुसन्धिप्पर् ऎऩ्गिऱार्  
+इन् नमश्शब्दत्ताले इत्यादियाल् 
+</details>
+
 
 ### स्वाधीन-स्वार्थ-कर्तृत्व-भोक्तृत्वे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1519,6 +1674,15 @@ na mama
 <details><summary>मूलम्</summary>
 
 इदुक्कु निर्वचनम् पण्णुगिऱ श्रुतियिऩ्बडिये 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदऱ्कु - इन् नमस्सुक्कु, निर्वचनम् पण्णुगिऱ श्रुतियिऩ्बडिये - 
+
+> “न ममाहमस्मि । भगवत एवाहमस्मि” 
+
+ऎऩ्गिऱ श्रुतियिऩ्बडिये, 
 </details>
 
 
@@ -1569,15 +1733,510 @@ y **es disfrutado** por uno mismo.
 परिपूर्णकैङ्कर्यरूपफलदशैयिल् फलान्तरानुभवन्यायत्ताले शङ्कितमाऩ स्वाधीनस्वार्थकर्तृत्वम् स्वाधीनस्वार्थभोक्तृत्वमागिऱ कळैगळैक् कऴिक्कैयिले इङ्गु प्रधानतात्पर्यमॆऩ्ऱनुसन्धिप्पार्गळ्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+फलान्तरानुभवन्यायत्ताले इति । ऐश्वर्यकैवल्याद्यनुभवन्यायत्ताले। 
+
+अङ्गु अहमेव कर्ता, अहमेव भोक्ता, अहं स्वाधीनः ऎऩ्ऱिऱे अनुभवम्। 
+
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताल् 
+
+> फलान्तरानुभव-दशैयिल् उण्ड् आम्  
+स्वाधीन-स्वार्थ-- कर्तृत्व-भोक्तृत्व-भ्रमङ्गळ्  
+मुक्त-दशैयिल् कैङ्कर्यत्तिल् इल्लाद बडि कण्डु  
+अक्-कट्टळैयिले प्रार्थिक्किऱाऩ् 
+
+ऎऩ्ऱद् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+From this it **would follow** that  
+the man **performing** prapatti **understands** that,  
+in regard to the **service** in the state of mukti,  
+there **are no** such wrong notions  
+as one's **being** the **doer** and the **enjoyer**  
+by one's own will  
+and for the sake of oneself-  
+notions which **are present** in the state of enjoyment of other fruits (like those in svarga). 
+
+**Having understood** this,  
+the man **performing** prapatti **makes** his **prayer** in conformity with this knowledge.
+</details>
+
+<details><summary>Español</summary>
+
+De esto **se seguiría** que  
+el hombre **que realiza** prapatti **entiende** que,  
+con respecto al **servicio** en el estado de mukti,  
+**No existen** nociones tan erróneas.  
+como **ser** el **hacedor** y el **disfrutador**  
+por voluntad propia  
+y por el bien de uno mismo-  
+nociones que **están presentes** en el estado de **disfrute** de otras frutas (como las de svarga). 
+
+**Habiendo entendido** esto,  
+el hombre **que realiza** prapatti  
+**hace** su **oración** de **conformidad**  
+con este **conocimiento**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्ताल् फलान्तरानुभवदशैयिलुण्डाम् स्वाधीनस्वार्थकर्तृत्वभोक्तृत्व भ्रमङ्गळ् मुक्तदशैयिल् कैङ्कर्यत्तिलिल्लादबडि कण्डु अक्कट्टळैयिले प्रार्थिक्किऱाऩॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> परमपदत्तिल् पोऩाल् स्वाधीनस्वार्थकर्तृत्वादि भ्रममिरादागैयाल् तन्निवृत्तिप्रार्थऩै वेण्डुमोव् 
+ऎऩ्ऩिल्; 
+
+स्वाधीनस्वार्थ कर्तृत्वभ्रमरहितकैङ्कर्यत्तै प्रार्थित्ताल्  
+अदु प्रकृतिमण्डलत्तिले घटियादागैयाल्  
+देशविशेषावच्छिन्नकैङ्कर्यत्तिले पर्यवसिक्कुमॆऩ्गिऱार् इत्तालित्यादियाल्।  
+कण्डु - शास्त्रत्तिल् आराय्न्दु पार्त्तु, 
+अक् कट्टळैयिले – शास्त्रम् सॊऩ्ऩबडि भ्रमरहितमाऩ रीतियिले।  
+
+</details>
+
+
+### भरः, स्वरूपम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “परमात्मनि नाराणां  
+सर्व-भार-**समर्पणात्** ।  
+**सञ्जातं नैरपेक्ष्यन्** तु  
+नम इत्य् उच्यते बुधैः॥”  
+() 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “परमात्मनि नाराणां  
+सर्व-भार-**समर्पणात्** ।  
+**सञ्जातं नैरपेक्ष्यन्** तु  
+नम इत्य् उच्यते बुधैः॥”  
+() 
+</details>
+
+<details><summary>English</summary>
+
+> " The wise **say** that  
+namas **means** the state of **being** carefree  
+without **expecting** any **help**  
+(of being without any **responsibility** in regard to oneself, nairapekṣyam)  
+which **results** from the jīva's **surrendering** all his **burdens** to the Supreme Being." 
+</details>
+
+<details><summary>Español</summary>
+
+> " Los sabios **dicen** que  
+namas **significa** el estado de **ser** despreocupado  
+sin **esperar** ninguna **ayuda**  
+(de no tener ninguna **responsabilidad** respecto a uno mismo, nairapekṣyam)  
+que **resulta** de la **entrega** de la jīva todas sus **cargas** al Ser Supremo."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“परमात्मनि नाराणां सर्वभारसमर्पणात् । सञ्जातं नैरपेक्ष्यन्तु नम इत्युच्यते बुधैः”() 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि पूर्वखण्डम् अङ्गपञ्चकमात्रपरम्; उत्तरखण्डम् स्वरूपादिसमर्पणपरम्। अदिल् नमस्सु भरसमर्पणत्ताले उण्डाऩ नैरपेक्ष्यपरमॆऩ्ऱु द्वयत्तिऱ्कु अरुळाळप्पॆरुमाळॆम् पॆरुमाऩार् सॊल्लुम् योजनान्तरत्तै सप्रमाणमरुळिच्चॆय्गिऱार् परमात्मनीत्यादियाल्। 
+
+नाराणां - मुमुक्षुक्कळाऩ जीवर्गळुक्कु, परमात्मनि - भगवाऩिडत्तिले, सर्वभारसमर्पणात् – अनिष्ट निवृत्तीष्टप्राप्तिरूपरक्षैयिऩुडैय भरत्तिऩ् समर्पणत्ताले, सञ्जातं – उण्डाऩ, नैरपेक्ष्यं - निर्भरत्वमाऩदु, नम इति – नमः ऎऩ्गिऱ शब्दत्तिऱ्कु अर्थमाग, बुधैः उच्यते - अऱिवाळिगळाल् सॊल्लप्पडुगिऱदु।  
+
+इन्द श्लोकत्तिल् सॊऩ्ऩ नैरपेक्ष्यशब्दत्तिऱ्कु प्रकृतानुगुणमाग अर्थमरुळिच्चॆय्गिऱार् इन्द श्लोकत्तिल् सॊऩ्ऩ नैरपेक्ष्यम् स्वरक्षणत्तिल् निर्भरत्वमिति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु  
+इङ्गुऱ्ऱै नमस्सै  
+अरुळाळप्-पॆरुमाळ्-ऎम्-बॆरुमाऩार् व्याख्यानम् पण्णिऩार्।
+</details>
+
+<details><summary>English</summary>
+
+Arulalapperumal emperumanar **commented** on the word namas **occurring** here  
+by the above śloka. 
+</details>
+
+<details><summary>Español</summary>
+
+Arulalapperumal emperumanar **comentó** sobre la palabra namas **que aparece** aquí  
+por el śloka anterior.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु इङ्गुऱ्ऱै नमस्सै अरुळाळप्पॆरुमाळॆम्बॆरुमाऩार् व्याख्यानम् पण्णिऩार्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द श्लोकतिऱ् सॊऩ्ऩ नैरपेक्ष्यम्  
++++(संसारात्→)+++ स्व-रक्षणत्तिल् निर्भरत्वम्।
+</details>
+
+<details><summary>English</summary>
+
+The nairapekṣyam **referred to** in that śloka **is being** carefree  
+or **having no expectation** or **requirements**  
+without the sense of **responsibility**  
+in regard to one's salvation. 
+</details>
+
+<details><summary>Español</summary>
+
+El nairapekṣyam **al que se hace referencia** en ese śloka **es ser** despreocupado  
+o **sin expectativas** o **requisitos**  
+sin el sentido de **responsabilidad**  
+con respecto a la propia salvación.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्द श्लोकतिऱ्सॊऩ्ऩ नैरपेक्ष्यम् स्वरक्षणत्तिल् निर्भरत्वम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द निर्भरत्वत्ताले भर-समर्पणम् सूचितम् आदल्,  
+स्व-निर्भरत्व-पर्यन्तम् आऩ भर-समर्पणम्  
+इव्व् इडत्तिले विवक्षितम् आगक् कडवदु।
+</details>
+
+<details><summary>English</summary>
+
+From this freedom from **responsibility**,  
+**we should realise** that ~~either~~ if bharasamarpaṇam **is suggested** here,  
+(since there **cannot be** the state of being carefree without it)  
+~~or that~~ the **surrender** of the bhara to the extent of one's **being** carefree **is intended**. 
+</details>
+
+<details><summary>Español</summary>
+
+Desde esta libertad de **responsabilidad**,  
+**debemos darnos cuenta** de que  
+si bharasamarpaṇam **se sugiere** aquí,  
+(ya que **no puede haber** el estado de **estar despreocupado** sin él)  
+**se pretende la rendición** del bhara  
+en la medida de **ser** despreocupado. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्द निर्भरत्वत्ताले भरसमर्पणम् सूचितमादल्, स्वनिर्भरत्व पर्यन्तमाऩ भरसमर्पणमिव्विडत्तिले विवक्षितमागक्कडवदु।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कीऴे भरसमर्पणत्तैच् चॊल्लामलिरुक्क इन्द नमश्शब्दम् निर्भरत्वत्तैच् चॊल्लमाट्टुमो ऎऩ्ऩ वरुळिच्चॆय्गिऱार् इन्द निर्भरत्वत्ताले इत्यादियाल्। सूचितमादलिति । इन्द निर्भरत्वम् भरसमर्पणकार्यमागैयाले इदऩाल् इदऩ् कारणमाऩ भरसमर्पणम् सूचितमामॆऩ्ऱु करुत्तु।
+
+विवक्षितमादलागक् कडवदु इति । नमस्सुक्कु भरसमर्पणमुमर्थमागैयाल् निर्भरत्वपर्यन्तमाऩ भरसमर्पणम् नमश्शब्दार्थमाग विवक्षितमागलामॆऩ्ऱु करुत्तु।
+
+</details>
+
+
+#### आत्म-हविः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> हविस्-समर्पणत्तिल् “इदम् इन्द्राय न मम” ऎऩ्ऩुमाप्पोले "अहं श्रीमते नारायणाय" ऎऩ्ऱिङ्गु भरगर्भमाग समर्पित्तु, "नमः" ऎऩ्ऱु  
+तऩ्ऩुडऩ् तुवक्क्-अऱुक्किऱद्
+
+ऎऩ्ऱाल् इस् समर्पण-योजऩैक्कु स्व-रसम्।
+</details>
+
+<details><summary>English</summary>
+
+If we take the latter part of Dvaya to be  
+
+> "Aham Śrīmate Narāyaṇāya"  
+(**I am** for Śrīman Nārāyaṇa ) 
+
+and consider it to **be** the **offering** of the self  
+along with the bhara or burden of **protection**,  
+and that thereafter "na mama" **declares** one's **having no connection** with oneself,  
+as, when an **offering is made** (to the gods),  
+it **is said**  
+
+> “This **is** for Indra and not for me", 
+
+if we **take** it in this form,  
+it **will be** extremely appropriate for this **interpretation** of the whole of Dvaya **being** a **statement** of bhara-samarpana. 
+</details>
+
+<details><summary>Español</summary>
+
+Si tomamos la última parte de Dvaya como  
+
+> "Aham Śrīmate Narāyaṇāya"  
+(**Yo soy** para Śrīman Nārāyaṇa) 
+
+y **considerarlo ser** la **ofrenda** del yo  
+junto con el bhara o carga de **protección**,  
+
+y que a partir de entonces "na mama" **declara** que uno **no tiene conexión** consigo mismo,  
+
+como, cuando **se hace** una **ofrenda** (a los dioses),  
+se **dice**  
+
+> “Esto **es** para Indra y no para mí", 
+
+si lo **tomamos** de esta forma,  
+**será** extremadamente apropiado para esta **interpretación** de que todo el Dvaya **siendo** una **declaración** de bhara-samarpana.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+हविस्समर्पणत्तिल् “इदमिन्द्राय न मम” ऎऩ्ऩुमाप्पोले "अहं श्रीमते नारायणाय" ऎऩ्ऱिङ्गु भरगर्भमाग समर्पित्तु, "नमः" ऎऩ्ऱु तऩ्ऩुडऩ् तुवक्कऱुक्किऱदॆऩ्ऱाल् इस् समर्पणयोजऩैक्कु स्वरसम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि स्वनिर्भरत्वपर्यन्तभरसमर्पणम् नमश्शब्दार्थमाग विवक्षितमाऩालुम् विशेषणीभूतस्वनिर्भरत्वत्तैयुम् अदु सॊल्लुमागैयाल् 
+
+> “सञ्जातं नैरपेक्ष्यन्तु  
+नम इत्युच्यते बुधैः” 
+
+ऎऩ्बदुम् उपपन्नमाम्। कारिगैयिल् नैरपेक्ष्यमे,अदावदु निर्भरत्वमे नमश्शब्दार्थमागत् तोऱ्ऱानिऱ्क निर्भरत्वशिरस्कमाऩ भरसमर्पणम् विवक्षितम् ऎऩ्बदु अत्यन्तस्वरसमागादॆऩ्ऱु निऩैत्तु श्रीमते नारायणाय अहं ऎऩ्गिऱ विडत्तिलेये भरसमर्पणम् स्वरसमागत् तोऱ्ऱुम् वऴियै सदृष्टान्तमागक् काट्टु किऱार् हविस्समर्पणत्तिलित्यादियाल्।  
+
+अहं श्रीमते नारायणाय ऎऩ्ऱिङ्गु भरगर्भमाग समर्पित्तु इति । अहं शब्दम् सर्वनामशब्दमागैयाले इङ्गु बुद्धिविषयमाऩ भरविशिष्टास्मदर्थत्तैये बोधिक्कुमागैयाल् श्रीमते नारायणाय अहमॆऩ्गिऱविडत्तिल् श्रीमाऩाऩ नारायऩऩ् पॊरुट्टु भरविशिष्टऩाऩ नाऩ् आगक्कडवेऩ् ऎऩ्ऱाल् भरसमर्पणमुम् स्वरसमागवे सिद्धिक्कुमॆऩ्ऱु करुत्तु।
+</details>
+
+
+#### अङ्गाङ्ग्य्-उक्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द योजऩैयिल् पूर्व-खण्डम् अङ्ग-पञ्चक-परम्,  
+उत्तर-खण्डम् अङ्गि-प्रतिपादकम्।
+</details>
+<details><summary>English</summary>
+
+In this interpretation,  
+the first part of Dvaya **is** about the five aṅgas or accessories,  
+while the second part **states** the aṅgī,  
+which **is** prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+En esta **interpretación**,  
+la primera parte de Dvaya **trata** sobre los cinco aṅgas o accesorios,  
+mientras que la segunda parte **enuncia** el aṅgī,  
+que **es** prapatti.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द योजऩैयिल् पूर्वखण्डम् अङ्गपञ्चकपरम्, उत्तरखण्डम् अङ्गिप्रतिपादकम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि उत्तरखण्डत्तिल् भरसमर्पणम् तोऩ्ऱिऩाल् उपायपरमाऩ पूर्वखण्डत्तोडु पुनरुक्तिवारादोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् इन्द योजऩैयिलिति ।  
+अरुळाळप्पॆरुमाळॆम्बॆरुमाऩ् अररुळिच्चॆय्द इन्द योजऩैयिल् ऎऩ्ऱबडि। 
+
+पूर्वखण्डमङ्गपञ्चकपरम्; उत्तरखण्डमङ्गिप्रतिपादकमिति । तथाच पूर्वखण्डमङ्गपञ्चकमात्रपरमागैयालुम्, उत्तरखण्डम् उक्तरीत्या भरसमर्पणप्रतिपादकमागैयालुम् पौनरुक्त्यमिल्लै यॆऩ्ऱु करुत्तु।
+</details>
+
+#### ??
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अहम् अद्यैव मया समर्पितः”  
+( आळवन्दार् स्तोत्रम् ५२) 
+
+ऎऩ्गिऱबडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “अहम् अद्यैव मया समर्पितः”  
+( आळवन्दार् स्तोत्रम् ५२) 
+
+</details>
+
+<details><summary>English</summary>
+
+As in the śloka 
+
+> "I who **realise** that I **am** Thy śeṣa  
+**surrender** myself here and now at Thy two lotus feet", 
+</details>
+
+<details><summary>Español</summary>
+
+Como en el śloka 
+
+> "Yo que **me doy cuenta** de que **soy** Tu śeṣa  
+**entregarme** aquí y ahora a Tus dos pies de loto",
+</details>
+
+<details><summary>मूलम्</summary>
+
+“अहमद्यैव मया समर्पितः”( आळवन्दार् स्तोत्रम् ५२) ऎऩ्गिऱबडिये 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कीऴे अहं शब्दम् भरगर्भमाऩ आत्मपरमॆऩ्ऱार्। इऩि अहं शब्दम् आत्मस्वरूपमात्रपरमागक् कॊण्डु नारायणाय अहं ऎऩ्ऱु स्वरूपमात्रत्तै समर्प्पित्तालुम् प्रमाणान्तरबलत्ताले भरसमर्पणमुम् फलसमर्पणमुम् अर्थात् सिद्धमागुमॆऩ्गिऱार् अहमद्यैवेत्यादियाल् अहं - आत्मीयविशिष्टऩाऩ नाऩ्, संरक्ष्यतयाऽर्प्यत इति । रक्षारूपफलविशिष्टतयार्प्यते ऎऩ्गै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिल्  
+
+> नाऩ् श्रीमाऩ् आऩ नारायणऩुक्क् 
+
+ऎऩ्ऱु समर्पिक्क
+</details>
+
+<details><summary>English</summary>
+
+when the **offering** or **surrender is made saying**: 
+
+> **I am** for Nārāyaṇa 
+</details>
+
+<details><summary>Español</summary>
+
+cuando **se haga** la **ofrenda** o **entrega diciendo**: 
+
+> **Yo soy** para Nārāyaṇa
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् नाऩ् श्रीमाऩाऩ नारायणऩुक्कॆऩ्ऱु समर्पिक्क
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“यत् संरक्ष्यतया ऽर्प्यते”  
+( अहिर्बुध्न्य-संहिता ५२-३६), 
+</details>
+
+<details><summary>English</summary>
+
+> When the question **arises**  
+to whom the **surrender** of the self **is made**  
+for the sake of **salvation** or **protection**,  
+the **answer is given** "To Viṣṇu", 
+
+</details>
+
+<details><summary>Español</summary>
+
+> Cuando la pregunta **surge**  
+a quien **se hace** la **entrega** del yo**  
+por el bien de **salvación** o **protección**,  
+la **respuesta se da** "A Viṣṇu",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“यत्संरक्ष्यतयाऽर्प्यते”( अहिर्बुध्न्य-संहिता ५२-३६), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “तवैवास्मि हि भरः”  
+( आळवन्दार्स्तोत्रम् ६०) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “तवैवास्मि हि भरः”  
+( आळवन्दार्स्तोत्रम् ६०) 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "**I am** Thy  **responsibility** (bhara) (in regard to **protection**)". 
+
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "**Yo soy** Tu **responsabilidad** (bhara) (con respecto a **protección**)".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तवैवास्मि हि भर”( आळवन्दार्स्तोत्रम् ६०) 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+"तवैवास्मि हि भरः" ऎऩ्ऩुमिडत्तिल् रक्षाभरविशिष्टमाऩ आत्मसमर्प्पणम् तोऱ्ऱुगिऱदु।  
+</details>
 
 
 
-From this it would follow that the man performing prapatti understands that, in regard to the service in the state of mukti, there are no such wrong notions as one's being the doer and the enjoyer by one's owo will and for the sake of oneself-notions which are present in the state of enjoyment of other fruits (like those in svarga). Having understood this, the man performing prapatli makes his prayer in conformity with this knowledge.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ् पडिये  
+
+> स्व--रक्षण-भरमुम्, स्व-रक्षण-फलमुम् अवऩद् 
+
+ऎऩ्ऱ् इङ्गे अभिप्रेतम् आगवुम् आम्।
+</details>
+
+<details><summary>English</summary>
+
+it **would imply** that the **responsibility** of one's **protection**  
+and the fruit **arising** from one's **protection are** Nārāyaṇa's  
+as stated in the above passages.
+</details>
+
+<details><summary>Español</summary>
+
+**implicaría** que la **responsabilidad** de la propia **protección**  
+y los frutos **que surgen** de la propia **protección** son** de Nārāyaṇa.  
+como **se indica** en los pasajes anteriores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये स्वरक्षणभरमुम् स्वरक्षणफलमुम् अवऩदॆऩ्ऱिङ्गे अभिप्रेतमागवुमाम्।
+</details>
 
 
 
 
-Arulalapperumal emperumanar commented on the word namas occurring here by the following śloka :--- " The wise say that namas means the state of being carefree without expecting any help (of being without any responsibility in regard to oneself) nairapekṣyam which results from the jīva's surrendering all his burdens to the Supreme Being." The nairapekṣyam referred to in that śloka is being carefree or having no expectation or requirements without the sense of responsibility in regard to one's salvation. From this freedom from responsibility, we should realise that either bharasamarpaṇam is suggested here, (since there cannot be the state of being carefree without it) or that the surrender of the bhara to the extent of one's being carefree is intended. If we take the latter part of Dvaya to be " Aham Śrīmate Narāyaṇāya" . (I am for Śrīman Nārāyaṇa ) and consider it to be the offering of the self along with the bhara or burden of protection, and that thereafter na mama declares one's having no connection with oneself, as, when an offering is made (to the gods), it is said “This is for Indra and not for me", if we take it in this forn, it will be extremely appropriate for this interpretation of the whole of Dvaya being a statement of bharasamarpana. In this interpretation the first part of Dvaya is about the file aṅgas or accessories, while the second part states the aṅgī, which is prapatti. When the offering or surrender is made saying: "I am for Nārāyaṇa' as in the śloka "I who realise that I am Thy śeṣa surrender myself here and now at Thy two lotus feet". --- (when this surrender is made), it would imply that the responsibility of one's protection and the fruit arising from one's protection are Nārāyaṇa's as stated in the following passages : "When the question arises to whom the surrender of the self is made for the sake of salvation or protection, the answer is given "To Viṣṇu", and "I am Thy  responsibility (bhara) (in regard to protection)". This namas discloses the severance of all connection between a man and his self and what belongs to him and also between himself and his protection and the fruit resulting from it.
+
+
+This namas discloses the severance of all connection between a man and his self and what belongs to him and also between himself and his protection and the fruit resulting from it.
 
 The (fourth or ) dative case of Nārāyaṇa and the word namas have, each, its significance, in as much as they indicate respectively the declaration of one's connexion with the Supreme Being and the denial of one's connection with oneself. It may also be that namas denies such things as one's being a doer not subject to the will of the Supreme Being. Even if we take the simple and ordipary meaning of namas as namami (I bow to Nārāyaṇa," it would be in keeping with the meaning " I surrender" as the word namāmi l I bow) has been commented upon in Mantrarājapada stotra as meaning 'for the surrender of the self'.
 
