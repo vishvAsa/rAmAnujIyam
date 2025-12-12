@@ -1551,16 +1551,16 @@ and **is enjoyed** by one for oneself.
 <details><summary>Español</summary>
 
 el significado o objetivo aquí (en la segunda parte de Dvaya) **es** la **eliminación**,  
-en el estado de lograr **servicio** pleno y perfecto en mukti,  
+en el estado de **lograr servicio** pleno y perfecto en mukti,  
 de las malas hierbas del propio **ser** el **hacedor** por voluntad propia  
-y de ser **el **hacedor** para sus propios fines  
+y de **ser** el **hacedor** para sus propios fines  
 y, asimismo, de ser **disfrutador** por voluntad propia  
 y de ser **disfrutador** únicamente de uno mismo. 
 
 Esta mala hierba o noción errónea **es** probable que **surja** porque,  
 con respecto al **disfrute** del fruto en otro lugar (en svarga),  
 el **pensamiento está presente**  
-que el fruto **lo ganó** uno, las propias acciones  
+que el fruto **lo ganó** uno, por las propias acciones  
 y **es disfrutado** por uno mismo.
 </details>
 
