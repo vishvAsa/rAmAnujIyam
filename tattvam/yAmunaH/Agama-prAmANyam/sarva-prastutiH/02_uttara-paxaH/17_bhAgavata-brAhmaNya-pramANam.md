@@ -4174,12 +4174,12 @@ He who condemns Viṣṇu's nivedya, whose purity is proved by hundreds of simil
 नास्तिक्यात् स्मृति-वचनान्य् उपेक्षमाणस् तज्जिह्वा-विशसनम् एव युक्तम् अत्र ।  
 </details>
 
-### प्राणाग्निहोत्र-नैवेद्यता
+### प्राणाग्निहोत्रे नैवेद्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु प्राणाग्निहोत्रस्य  
 नैवेद्य-साधनं कथम् ।  
-निर्-इष्टकं +++(शरीरं)+++ न शिष्टानाम्  
+निर्-इष्टकं न शिष्टानाम्  
 इष्टं होमादि-साधनम् ॥
 </details>
 
@@ -4212,7 +4212,8 @@ Vedānta Deśika quotes from "ननु" upto "यथानुष्ठान-�
 
 <details><summary>Buitenen</summary>
 
-> Nor can a substitution of another substance do duty as a homa, because he lives off food that has been obtained according to taste. 
+> Nor can a substitution of another substance do duty as a homa,  
+> because he lives off food that has been obtained according to taste. 
 </details>
 
 <details><summary>नरसिंहः</summary>
