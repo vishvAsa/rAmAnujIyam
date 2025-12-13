@@ -930,12 +930,13 @@ etc.
 
 <details><summary>नीलमेघः (सं)</summary>
 
+इहत्यः श्री-शब्दः 
+
 > “**शृणाति** निखिलान् दोषान्  
 **श्रीणाति** च गुणैर् जगत् ।  
 **श्रीयते** चाखिलैर् नित्यं  
 **श्रयते** च परं पदम्॥”  
 ( अहिर्बुध्न्य-संहिता) 
-
 </details>
 
 <details><summary>English</summary>
@@ -963,7 +964,7 @@ y **ha** ella misma **alcanzado** el Objeto Supremo de b (Bhagavān)"
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
 
-श्रीशब्दत्तिऱ्कु अनेकव्युत्पत्तियुण्डेयागिलुम् इङ्गुळ्ळ श्रीशब्दत्तिऱ्कु “श्रीङ् सेवायां” ऎऩ्गिऱ धात्वर्थमाऩ सेव्यत्वादिगळैच् चॊल्लिक्कॊण्डु कैङ्कर्यप्रतिसम्बन्धित्वत्तिले नोक्कु ऎऩ्गिऱार् श्रीशब्दत्तिऱ्कु इति । 
+श्रीशब्दत्तिऱ्कु अनेकव्युत्पत्तियुण्डेयागिलुम् इङ्गुळ्ळ श्रीशब्दत्तिऱ्कु “श्रिञ् सेवायां” ऎऩ्गिऱ धात्वर्थमाऩ सेव्यत्वादिगळैच् चॊल्लिक्कॊण्डु कैङ्कर्यप्रतिसम्बन्धित्वत्तिले नोक्कु ऎऩ्गिऱार् श्रीशब्दत्तिऱ्कु इति । 
 </details>
 
 
@@ -982,7 +983,7 @@ y **ha** ella misma **alcanzado** el Objeto Supremo de b (Bhagavān)"
 शृणतीं शृण्वतीम् अपि”  
 ( अहिर्बुध्न्य-संहिता)  
 
-
+इत्य्-आद्य्-उक्त-रीत्या ऽनेकार्थ-सद्भावे ऽपि [[P344]]
 </details>
 
 <details><summary>English</summary>
@@ -1018,11 +1019,19 @@ Aunque la palabra Śrī **usada** aquí **tiene** varios significados **como se 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> “श्रिङ् सेवायां” 
+> “श्रिञ् सेवायां” 
 
 ऎऩ्गिऱ धातुविले सेव्यत्वादिगळैच् चॊल्लिक् कॊण्डु  
 कैङ्कर्य-प्रतिसम्बन्धित्व-परम्।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+"श्रिञ् सेवायाम्" इति धातोर् निष्पन्नः  
+सेव्यत्वादीन् वदन्  
+कैङ्कर्य-प्रतिसम्बन्धित्व-परः ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1043,7 +1052,7 @@ que **significa** "Servicio".
 
 <details><summary>मूलम्</summary>
 
-“श्रिङ् सेवायां” ऎऩ्गिऱ धातुविले सेव्यत्वादिगळैच् चॊल्लिक्कॊण्डु कैङ्कर्यप्रतिसम्बन्धित्वपरम्।
+“श्रिञ् सेवायां” ऎऩ्गिऱ धातुविले सेव्यत्वादिगळैच् चॊल्लिक्कॊण्डु कैङ्कर्यप्रतिसम्बन्धित्वपरम्।
 </details>
 
 ### नारायणाय
@@ -1063,6 +1072,12 @@ EL SIGNIFICADO DE NĀRĀYAŅĀYA:
 “श्रीमते” ऎऩ्गिऱ शब्दन् दऩ्ऩाले  
 +++(नारायण-शब्दम् अन्तरा)+++ विशिष्टम् आऩ +++(कैङ्कर्य-)+++प्रतिसम्बन्धि-तोऱ्ऱिऱ्ऱेय् आगिलुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"श्रीमते" इति शब्देन +++(नारायण-शब्दम् अन्तरा)+++ विशिष्टे +++(कैङ्कर्य-)+++प्रतिसंबन्धिनि प्रतीते ऽपि  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1090,10 +1105,18 @@ que **tienen derecho** a nuestro **servicio**,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(कैङ्कर्य-)+++प्रयोजकम् आऩ प्रीति-विशेषत्तैप् पिऱप्पिक्कुम्  
+सर्व-विध-कैङ्कर्यत्तुक्कुम् प्रयोजकम् आऩ प्रीति-विशेषत्तैप् पिऱप्पिक्कुम्  
 सम्बन्ध-गुण-विभूत्य्-आदि-- परिपूर्णानुभव-सिद्धिक्क् आगव्  
 इङ्गु नारायण-शब्दम् प्रयुक्तम् आगिऱदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-विध-कैङ्कर्य-प्रयोजक-- प्रीति-विशेषोत्पादक--  
+संबन्ध-गुण-विभूत्यादि-परिपूर्णानुभव-- सिद्ध्यर्थम्  
+अत्र नारायण-शब्दः प्रयुक्तो भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1114,7 +1137,7 @@ which **is essential** for all forms of **service**.
 
 <details><summary>मूलम्</summary>
 
-प्रयोजकमाऩ प्रीति विशेषत्तैप्पिऱप्पिक्कुम् सम्बन्धगुणविभूत्यादिपरिपूर्णानुभवसिद्धिक्कागविङ्गु नारायण शब्दम् प्रयुक्तमागिऱदु।
+सर्वविधकैङ्कर्यत्तुक्कुम् प्रयोजकमाऩ प्रीति विशेषत्तैप्पिऱप्पिक्कुम् सम्बन्धगुणविभूत्यादिपरिपूर्णानुभवसिद्धिक्कागविङ्गु नारायण शब्दम् प्रयुक्तमागिऱदु।
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -1129,6 +1152,12 @@ which **is essential** for all forms of **service**.
 
 इङ्गु चतुर्थि-तादर्थ्य-मुखत्ताले कैङ्कर्यत्तैक् गणिसिक्किऱदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र चतुर्थी तादर्थ्य-मुखेन कैङ्कर्यं सूचयति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1159,6 +1188,12 @@ Aquí el dativo (o cuarto caso) que **significa** "para Nāriyana" (existiendo p
 तादर्थ्य-मात्रं नित्यम् आगैयाले
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तादर्थ्य-मात्रस्य नित्यत्वात् 
+</details>
+
+
 <details><summary>English</summary>
 
 **Existing** for Him' **is** in itself an eternal fact  
@@ -1187,15 +1222,12 @@ Aquí el dativo (o cuarto caso) que **significa** "para Nāriyana" (existiendo p
 
 > “तच्-छेषत्वानुसन्धान-पूर्व--तच्-छेष-वृत्तिकः"
 ( पराशरभट्ट-नित्य-ग्रन्थः) 
-
-इत्य्-आदिगळिऱ् पडिये
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 > “तच्-छेषत्वानुसन्धान-पूर्व--तच्-छेष-वृत्तिकः”  
 ( पराशरभट्ट-नित्य-ग्रन्थः) 
-
 </details>
 
 <details><summary>English</summary>
@@ -1258,8 +1290,16 @@ Yo (Lakṣmana) **realizaré** todo tipo de **servicio** para Ti".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+इत्य्-आदिगळिऱ् पडिये  
 इङ्गु परिपूर्णानुभव-पूर्वकम् आऩ कैङ्कर्यम् प्रार्थनीयम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आद्य्-उक्त-रीत्या ऽत्र   
+परिपूर्णानुभव-पूर्वकं कैङ्कर्यं प्रार्थनीयम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1280,7 +1320,7 @@ como **indicado** en los ślokas anteriores y en otros lugares.
 
 <details><summary>मूलम्</summary>
 
-इङ्गु परिपूर्णानुभवपूर्वकमाऩ कैङ्कर्यम् प्रार्थनीयम्।
+इत्यादिगळिऱ्पडिये इङ्गु परिपूर्णानुभवपूर्वकमाऩ कैङ्कर्यम् प्रार्थनीयम्।
 </details>
 
 ## भवेयम्
@@ -1289,6 +1329,13 @@ como **indicado** en los ślokas anteriores y en otros lugares.
 शरणागतऩ् आम् बोदु  
 शरण्यऩै अभिमत-प्रार्थऩै पण्णुगिऱाऩ् आगैयाले
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शरणागति-दशायां  
+शरण्यं प्रत्य् अभिमत-प्रार्थनां करोतीत्य् अतः
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1319,6 +1366,12 @@ mientras **realiza** saraṇagati (con este mantra)
 इङ्गे “भवेयं” ऎऩ्ऱ् ऒरु पदम् अध्याहार्यम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र, भवेयम् इति पदम् अध्याहार्यम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 a word like bhaveyam (may I be) **has to be supplied**:  
@@ -1348,6 +1401,8 @@ una palabra como bhaveyam (puedo ser) **tiene que ser proporcionada**:
 इष्ट-प्राप्तियैय् अपेक्षित्तु  
 इदुक्क् आगव् अनन्तरम् नमस्साले सर्वानिष्ट-निवृत्तियैयुम् प्रार्थिक्किऱदु।  
 </details>
+
+
 
 <details><summary>English</summary>
 
@@ -1592,7 +1647,7 @@ en el caso del Tirumantra
 
 
 ## नमः
-### सर्वानिष्टानि
+### सर्वानिष्टानि नमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्-नमश्-शब्दत्ताले  
@@ -1633,7 +1688,7 @@ y la **asociación** con prakṛti o materia,
 </details>
 
 
-### स्वाधीन-स्वार्थ-कर्तृत्व-भोक्तृत्वे
+### स्वाधीन-स्वार्थ-कर्तृत्व-भोक्तृत्वे नमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदुक्कु निर्वचनम् पण्णुगिऱ श्रुतियिऩ् बडिये 
@@ -1807,7 +1862,7 @@ con este **conocimiento**.
 </details>
 
 
-### भरः, स्वरूपम्
+### भरः, स्वरूपम् नमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “परमात्मनि नाराणां  
@@ -2060,7 +2115,7 @@ que **es** prapatti.
 पूर्वखण्डमङ्गपञ्चकपरम्; उत्तरखण्डमङ्गिप्रतिपादकमिति । तथाच पूर्वखण्डमङ्गपञ्चकमात्रपरमागैयालुम्, उत्तरखण्डम् उक्तरीत्या भरसमर्पणप्रतिपादकमागैयालुम् पौनरुक्त्यमिल्लै यॆऩ्ऱु करुत्तु।
 </details>
 
-### आत्म-स्वरूपम् (भर-फलय् आर्थे)
+### आत्म-स्वरूपं नमः (भर-फलय् आर्थतश्च)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2268,12 +2323,33 @@ y también entre él y su **protección** y el fruto **resultante** de ella.
 नमः ऎऩ्गिऱवित्ताले आत्मात्मीयङ्गळोडुम् स्वरक्षण तत्फलङ्गळोडुम् तऩक्कुत् तुवक्कऱ्ऱमै काट्टुगिऱदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि “श्रीमते नारायणाय अहं” ऎऩ्बदाल् आत्मीत्मीयसमर्पणमुम्, भरसमर्पणमुम् तोऩ्ऱिऩाल् अप्पोदु नमश्शब्दम् आत्मात्मीयस्वरूपङ्गळोडुम् आत्मात्मीयभरफलङ्गळोडुम् तऩक्कुत् तुवक्कऱ्ऱमै सॊल्लुमॆऩ्गिऱार् नमः ऎऩ्गिऱवित्ताले इति । 
+</details>
 
 
+#### सङ्गतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर-सम्बन्ध-विधियिलुं, स्व-सम्बन्ध--निषेधत्तिलुम् तात्पर्यम् आगैयाले  
 इच् चतुर्थी-नमस्सुक्कळ् इरण्डुक्कुम् फलम् उण्डु।
+</details>
+
+<details><summary>English</summary>
+
+The (fourth or ) dative case of Nārāyaṇa and the word namas **have**, each, its significance,  
+in as much as they **indicate** respectively  
+the **declaration** of one's **connection** with the Supreme Being  
+and the **denial** of one's connection with oneself.  
+</details>
+
+<details><summary>Español</summary>
+
+El (cuarto o) caso dativo de Nārāyaṇa y la palabra namas **tienen**, cada uno, su significado,  
+en la medida en que **indican** respectivamente  
+la **declaración** de la propia **conexión** con el Ser Supremo  
+y la **negación** de la **conexión** con uno mismo.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2281,100 +2357,177 @@ y también entre él y su **protección** y el fruto **resultante** de ella.
 परसम्बन्धविधियिलुंस्वसम्बन्धनिषेधत्तिलुम् तात्पर्यमागैयाले इच् चतुर्थीनमस्सुक्कळिरण्डुक्कुम् फलमुण्डु।
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-
-The (fourth or ) dative case of Nārāyaṇa and the word namas have, each, its significance, in as much as they indicate respectively the declaration of one's connexion with the Supreme Being and the denial of one's connection with oneself. It may also be that namas denies such things as one's being a doer not subject to the will of the Supreme Being. Even if we take the simple and ordipary meaning of namas as namami (I bow to Nārāyaṇa," it would be in keeping with the meaning " I surrender" as the word namāmi l I bow) has been commented upon in Mantrarājapada stotra as meaning 'for the surrender of the self'.
-
-Thus in the case of those who consider on the latter part of Duaya as indicating the surrender of the self, the special kind of fruit or end (namely kaiṅkarya) arises of itself (without the need for stating it), as it is in conformity with the surrender of the self and consistent with one's essential nature (svarūpa). In the caso of those who interpret on the latter part as indicating the fruit or object of attainment (namely, kaiṅkarya) as explained before, the idea of the surrender of the responsibility for protection should be considered as being present in the first part which treats of the upāya in the verb (prapadye) being taken along with the word saranam (upāya).
-
-THE PURPORT OF DVAYA:
-
-Thus, in Dvaya, in the different words, by the nature of the Words actually used and of the meaning which is implicit (without being actually stated in words), the following principal points as well as what is required for them stand revealed:- (Iśvara's ) association with the mediator (Lakṣmī), this (association) being eternal, Śrī being included in the upãya along (with Bhagavān), the Saviour being full and perfect in His qualities, the particular form of relationship between the jīva and Iśvara, (that of being the body and the soul respectively and that of being śeṣa and śeṣī), Iśvara having a divine and auspicions form, the śeṣa making his approach to the Lord, in this divine form, how (the divine and auspicious form of the Lord) becomes the upāya; the manner of winning the Lord's grace, its accessories, the adhikārī competent for adopting the upāya; how the end to be attained is the Lord with His attribute Śrī, how the object of attainment (the Lord) is endowed with qualities and vibhūtis (glories), how the Lord and Śrī are the recipients entitled to (our) service, the prayer for perforniing this service, the attainment of all forms of service, the removal of all that is undesirable, their utter and complete removal, the jīva's being the doer subject to the will of the Supreme Being and for His purposes, the jīva's being the enjoyer (in mokṣa) subject to the Lord's will and by way of his enjoyment being accessory to the Lord's enjoyment. And these are recalled in Dvaya along with two principal things which are intended to be stated, namely, (1) the upāya which is siddha (viz. the Lord with Śrī), the upāya which is sadhya (viz. prapatti) and (2) the object of attainment which is siddha (namely, the Lord with Śrī) and the object of attainment which is sadhya (namely kaiṅkarya or service).
-
-Thus in this gem of a mantra (Dvaya), the Supreme Reality (the Lord of Śrī), the special upāya (for attaining it), (namely prapatti) and the desired end or fruit (namely-enjoyment and kaiṅkarya) are taught as in the Sariraka śāstra (Brahma Sūtras) (i.e. in the order in which they are treated there). In Dvaya the order of words follows the order in which the upāya and its fruit occur (i.e.) the upāya is stated first and the fruit is stated thereafter (as the former produces the latter). However, as in the mantra (taught) in the Svetāśvatara (Upaniṣad) viz. “Desirous of mokṣa I seek Thy protection)," the important point is the adoption of the upāya preceded by a desire for the fruit (aimed at); former (ācharyas) have explained that, following the logical (or psychological order), the sentence stating the fruit (namely, enjoyment and kaiṅkarya) should be thought of first. For is it not a fact that a man would never study the nature of an upāya and adopt it without previously studying the nature of the end to be attained thereby?. So also in the Tirumantra, the order of
-
-meditation should be as stated above in regard to the upāya, and the fruit thereof. It is only if he desires the fruit and is (also) competent, that the adoption of the upāya would follow.
-
-The words of learned men such as "One shonld seek (the Lord's) protection with (the utterance) of Dvaya" and "The śaraṇāgati which is stated in Dvaya consists in the faith that to attain Nārāyaṇa with Śrī, His two lotus feet are the upāya" - (these words) also show that Dvaya reveals the adoption of the upāya.
-
-THE SUMMARY OF THE MEANING OF DVAYA:--
-
-Although here (in Dvaya), the first part, the words ending with the dative (or fourth) case and the namas - (although) these three are three separate sentences, yet it should be construed as a single sentence with the upāya as the primary purpose. This is how it should be construed):
-
-The sum and substance of Dvaya is this:- "At the feet of Nārāyaṇa who is the Lord of all, who is, in everyway and supremely blissful (or enjoyable) and who is inseparable from Lakṣmī and in order that I may obtain the removal of all that is opposed to all kinds of service in all places, at all times and in all states or circumstances and to receive (the privilege of) full and perfect service to T'hem, I, who am destitute of upāyas, surrender the responsibility of the protection of myself with the accompaniment of the five aṅgas or accessories at the feet of Nārāyaṇa, so that I may not have anything to do for such things as the responsibility for protecting myself.
-
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
-
-वैराग्यविजितस्वान्तैः प्रपत्तिविजितेश्वरैः ।  
-अनुक्रोशैकविजितैरित्युपादेशि देशिकैः ॥  
-इदमष्टपदं व्यासे समासे षट्पदं विदुः ।  
-वाक्यं पञ्चपदैर्यक्तमित्याख्यातप्रधानकम् ॥  
-एकं द्वयं त्र्यवयवं सुखलभ्यतुर्यं  
-व्यक्तार्थपञ्चकमुपात्तषडङ्गयोगम् ।  
-सप्तार्णवीमहिमवद्विवृताष्टवर्णं  
-रङ्गे सतामिह रसं नवमं प्रसूते ॥ *
+ननु चतुर्थियिल् परसम्बन्धत्तैच् चॊऩ्ऩाल् अर्थात् स्वसम्बन्धनिषेधम् सिद्धिक्कुमे, अप्पडियाऩाल् अन्यतरमेबोदुमायिरुक्क इरण्डैयुम् सॊऩ्ऩाल् पुनरुक्तमागादो ऎऩ्ऩ वरुळिच् चॆय्गिऱार् परसम्बन्धविधियिलिमित्यादिना । चतुर्थी परसम्बन्धविधिमात्रत्तिलुम् नमस्सु स्वसम्बन्धनिषेधमात्रत्तिलुम् तत्परमागैयाल् पुनरुक्ति वारादु ऎऩ्ऱु करुत्तु।
 </details>
 
-<details><summary>मूलम् (सं॰प॰)</summary>
 
-वैराग्यविजितस्वान्तैः प्रपत्तिविजितेश्वरैः ।  
-अनुक्रोशैकविजितैरित्युपादेशि देशिकैः ॥  
-इदमष्टपदं व्यासे समासे षट्पदं विदुः ।  
-वाक्यं पञ्चपदैर्यक्तमित्याख्यातप्रधानकम् ॥  
-एकं द्वयं त्र्यवयवं सुखलभ्यतुर्यं  
-व्यक्तार्थपञ्चकमुपात्तषडङ्गयोगम् ।  
-सप्तार्णवीमहिमवद्विवृताष्टवर्णं  
-रङ्गे सतामिह रसं नवमं प्रसूते ॥ *
+### कर्तृतादि न
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस् समर्पणन् तऩ्ऩिलुम्  
+पर-निरपेक्ष-कर्तृत्वादिगळै निषेधिक्कैक्क् आग  
+"नमः" ऎऩ्गिऱद् आगवुम् आम्।
 </details>
 
-1. This has been taught byācāryas who had full control over their minds as a result of their indifference to worldly objects, who had won over the Lord by (their) prapatti and who were overpowered solely by their compassion (to teach it to others).
+<details><summary>English</summary>
 
-2. This (mantra) is understood as consisting of eight words (if Śrīman Nārāyaṇa caraṇau should be taken as three separate words ;) of six words (if that componnd word is taken as a single word); and as a single sentence with five words where the predicate is important[^102] .
-
-[^102]: With five words: (1) Prapadye; (2) śaraṇam: (3) Srīman Nārāyaṇa caraṇau (4) Śrīmate Nārāyaṇāya; (5) namah according to Sārāsvādinī.
-
-3. This uniqne mantra (or this mantra consisting of a single sentence) called Dvaya has three members (sentences); it can help secure the fourth end of life (namely - mokṣa); it gives a clear idea of the five things that ought to be known; it explains the upāya with six aṅgas (prapatti); its potency or greatness is similar to that of the seven oceans; it explains the meaning of ashtakṣara, the mantra with eight letters, and it produces here (in this world?) in Śrīraṅga, in the minds of wise men[^103] (Like Śrī Rāmānuja the ninth rasa, namely, (Śānta or spiritual serenity).
-
-[^103]: There is a reference here to Sri Rāmanuja's gadya.
-
-<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
-
-ओदुमिरण्डै यिसै न्दरुळालुदवुन्दिरुमाल्  
-पादमिरण्डुञ् जरणॆनप्पऱ्ऱि नम्बङ्गयत्ताळ्  
-नादनै नण्णि नलन्दिगऴ् नाट्टिलडिमैयॆल्लाम्  
-कोदिलुणर्त्तियुडन् कॊळ्ळुमाऱु कुऱित्तनमे. ( 40 )
+It **may also be** that  
+namas **denies** such things as one's **being** a **doer**  
+**not subject** to the **will** of the Supreme Being  
+(even with regard to **surrender**). 
 </details>
 
-<details><summary>मूलम् (त॰प॰)</summary>
+<details><summary>Español</summary>
 
-ओदुमिरण्डै यिसै न्दरुळालुदवुन्दिरुमाल्  
-पादमिरण्डुञ् जरणॆनप्पऱ्ऱि नम्बङ्गयत्ताळ्  
-नादनै नण्णि नलन्दिगऴ् नाट्टिलडिमैयॆल्लाम्  
-कोदिलुणर्त्तियुडन् कॊळ्ळुमाऱु कुऱित्तनमे. ( 40 )
+También **puede ser** que  
+namas **niega** cosas como el hecho de que uno **ser** un **hacedor**  
+**no sujeto** a la **voluntad** del Ser Supremo  
+(incluso con respecto a la **rendición**).
 </details>
 
-We have thus explained how, by uttering, in combination, the two parts of Dvaya which are read separately in the śruti, one can seek, as refuge or upāya, the two feet of the Lord of Śrī who, out of compassion, is bent on helping us and who is prepared to pardon us; one can thus attain the Lord of the lotus.born Lakṣmī and in the region of bliss attain faultless service to the Lord) along with the full and perfect enjoyment of the Lord.
+<details><summary>मूलम्</summary>
 
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
-
-न वेदान्ताच्छास्त्रं न मधुमथनात्तत्त्वमधिकं  
-न तद्भक्तात्तीर्थं न तदभिमतात्सात्त्विकपदम् ।  
-न सत्वादारोग्यं न बुधभजनाद्बोधजनकं  
-न मुक्तेस्सौख्यं न द्वयवचनतः क्षेमकरणम् ॥ ६५ ॥
+इस् समर्पणन्दऩ्ऩिलुम् परनिरपेक्षकर्तृत्वादिगळै निषेधिक्कैक्काग नमः ऎऩ्गिऱदागवुमाम्।
 </details>
 
-<details><summary>मूलम् (सं॰प॰)</summary>
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-न वेदान्ताच्छास्त्रं न मधुमथनात्तत्त्वमधिकं  
-न तद्भक्तात्तीर्थं न तदभिमतात्सात्त्विकपदम् ।  
-न सत्वादारोग्यं न बुधभजनाद्बोधजनकं  
-न मुक्तेस्सौख्यं न द्वयवचनतः क्षेमकरणम् ॥ ६५ ॥
+पुनरुक्तियै प्रकारान्तरेण परिहरिक्किऱार् इस् समर्पणन्दऩ्ऩिलुमिति । इस् समर्पणन्दऩ्ऩिलुम् - चतुर्थियाले तोऱ्ऱिऩ स्वरूपभरफलसमर्पणन्दऩ्ऩिलुम्,  
+परनिरपेक्षकर्तृत्वादिगळै निषेधिक्कैक्काग इति । चतुर्थियिल् स्वरूपभरफलङ्गळुक्कु परसम्बन्धविधियुम्, आर्थिकमाग स्वसम्बन्धनिषेधमुम् अभिप्रेतमाऩालुम् नमस्सु समर्पणत्रयत्तिल् परनिरपेक्षकर्तृत्वादिनिषेधत्तिल् तत्परमागैयाल् पौनरुक्त्यमिल्लैयॆऩ्ऱु करुत्तु।
+
 </details>
 
-There is no śāstra superior to Vedānta; there is no higher Truth or Reality than the slayer of Madhu (Nārāyaṇa); there is nothing more holy of resort than His devotees; there is no better dwelling place than those places that are agreeable to them; there is no better means of preserving health than the quality of sattva (or eating sātvic food); there is no other way of acquiring wisdom than devotion to the wise; there is no bliss greater than mokṣa ; similarly there is no better ineans of obtaining spiritual welfare (mokṣa) than the utterance of Dvaya.
 
-इति कवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
-श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
-श्रीमद्रहस्यत्रयसारे  
-द्वयाधिकारः अष्टाविंशः ॥  
-श्रीमते निगमान्तमहादेशिकाय नमः ॥
+### नमस्कारत आत्म-समर्पणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्थूल-प्रक्रियैक् कॊण्डालुम्,  
+"नमामि" ऎऩ्गिऱ पदत्तै आत्म-समर्पणार्थम् ऎऩ्ऱु व्याख्यानं पण्णिन पद-स्तोत्र-प्रक्रियैयाले  
+इऩ् ऩमश्-शब्दं समर्पणप् पॊरुळुक्कु सङ्गतम्। 
+</details>
+
+<details><summary>English</summary>
+
+Even if we **take** the simple and ordinary **meaning** of namas as namAmi (**I bow** to Nārāyaṇa,)  
+it **would be** in keeping with the meaning "**I surrender**"  
+as the word namāmi ("**I bow**") **has been commented** upon in Mantrarājapada stotra  
+as **meaning** 'for the **surrender** of the self'.
+</details>
+
+<details><summary>Español</summary>
+
+Incluso si **tomamos** el **significado** simple y ordinario de namas como namAmi (**Me inclino** ante Nārāyaṇa,)  
+**sería** acorde con el significado "**Me rindo**"  
+como la palabra namāmi ("**Me inclino**") **ha sido comentada** en Mantrarājapada stotra  
+como **significado** 'para la **rendición** del yo'.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्थूलप्रक्रियैक्कॊण्डालुम्, "नमामि" ऎऩ्गिऱ पदत्तै आत्मसमर्पणार्थमॆऩ्ऱु व्याख्यानं पण्णिन  
+पदस्तोत्रप्रक्रियैयाले इऩ्ऩमश्शब्दं समर्पणप्पॊरुळुक्कु सङ्गतम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि उत्तरखण्डम् समर्पणपरमॆऩ्गिऱ योजऩैयिल् नमश्शब्दत्तिऱ्कु निर्वाहान्तरमरुळिच्चॆय्गिऱार् स्थूलप्रक्रियैक् कॊण्डालुमिति । स्थूलप्रक्रियैयावदु - अहिर्बुध्नयसंहितैयिल् सॊऩ्ऩ 
+
+> “एवम् अङ्गैरुपाङ्गैश् च  
+नमनं ते प्रकीर्तितम्”  
+
+ऎऩ्गिऱ प्रक्रियै। पदस्तोत्रमावदु - श्रीनृसिंहानुष्टुभत्तिल् ऒव्वॊरु पदङ्गळैयुम् तऩित्तऩि यागप् पिरित्तु तत्तदर्थङ्गळै अनुसन्धित्तुच् चॆय्द स्तोत्रम्। अदिल् 
+
+> “नमस्कारात्मकं यस्मै  
+विधायात्म-निवेदनम्” 
+
+ऎऩ्ऱु नमश्शब्दम् समर्पणपरमागच् चॊल्लप्पट्टदु।
+</details>
+
+
+## आत्म-समर्पण-परत्वे फलम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि उत्तर-खण्डत्तै  
+आत्म-समर्पण-परम् आगव् अनुसन्धिप्पार्क्कु  
+
+इदुक्क् +++(→समर्पणाय)+++ अनुरूपम् आय्  
+स्व-रूपानुबन्धिय् आऩ फल-विशेषम्  
+इङ्गे स्वतः प्राप्तम्।
+</details>
+
+<details><summary>English</summary>
+
+Thus in the case of those who **consider** on the latter part of Dvaya as **indicating** the **surrender** of the self,  
+the special kind of fruit or end (namely kaiṅkarya) **arises** of itself  
+(without the **need** for **stating** it),  
+as it **is** in **conformity** with the **surrender** of the self  
+and **consistent** with one's essential nature (svarūpa). 
+</details>
+
+<details><summary>Español</summary>
+
+Así, en el caso de aquellos que **consideran** la última parte del Dvaya como **indica** la **entrega** del ser,  
+el tipo especial de fruto o fin (es decir, kaiṅkarya) **surge** por sí mismo  
+(sin la **necesidad** de **declararlo**),  
+
+ya que **está** en **conformidad** con la **entrega** del yo  
+y **consistente** con la propia naturaleza esencial (svarūpa).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि उत्तरखण्डत्तै आत्मसमर्पणपरमागवनुसन्धिप्पार्क्कु इदुक्कनुरूपमाय् स्वरूपानुबन्धियाऩ फलविशेषमिङ्गे स्वतः प्राप्तम्।
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि उत्तरखण्डत्तै समर्पणपरमाग योजित्ताल् चतुर्थ्यादिगळिल् सॊऩ्ऩ फलम् ऎप्पडित् तोऱ्ऱु मॆऩ्ऩ वरुळिच्चॆय्गिऱार् इप्पडि उत्तरखण्डत्तैयित्यादियाल्। इदुक्कु अनुरूपमाय् स्वरूपानुबन्धियाऩ फलविशेषमिति । शेषत्वज्ञानादिरूपस्वरूपसमर्पणादिगळुक्कु अनुरूपमाऩदु शेषिकैङ्गर्यम्। स्वरूपानुबन्धित्वम् - यावदात्मभावित्वम्। 
+</details>
+
+
+## फल-परवय् उपायः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्वोक्तम् आऩ बडिये  
+फल-परम् आग उत्तर-खण्डत्तैय् अनुसन्धिप्पार्क्कु  
+इव्व् आत्म-रक्षा-भर-समर्पणम् उपाय-परम् आऩ पूर्व-खण्डत्तिल्  
+शरण-शब्दान्वितम् आऩ क्रिया-पदत्तिले अनुसन्धेयम्।
+</details>
+
+<details><summary>English</summary>
+
+In the case of those who **interpret** on the latter part as **indicating** the fruit or object of attainment (namely, kaiṅkarya)  
+as **explained** before,  
+the idea of the **surrender** of the **responsibility** for **protection**  
+**should be considered** as **being present** in the first part  
+which **treats** of the upāya in the verb (prapadye) being taken along with the word saranam (upāya).
+
+</details>
+
+<details><summary>Español</summary>
+
+En el caso de aquellos que **interpretan** la última parte como **indicando** el fruto u objeto de **logro** (es decir, kaiṅkarya)  
+
+como **explicado** antes,  
+la idea de la **rendición** de la **responsabilidad** de **protección**  
+**debe considerarse** como **estar presente** en la primera parte  
+que **trata** del upāya en el verbo (prapadye) junto con la palabra saranam (upāya).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पूर्वोक्तमाऩबडिये फलपरमाग उत्तरखण्डत्तैयनुसन्धिप्पार्क्कु इव्वात्मरक्षाभरसमर्पणम् उपायपरमाऩ पूर्वखण्डत्तिल् शरणशब्दान्वितमाऩ क्रियापदत्तिले अनुसन्धेयम्।
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उत्तरखण्डत्तै फलपरमागच् चॊल्लुगिऱ पक्षत्तिले पूर्वखण्डम् भरसमर्पणपरमॆऩ्ऱु मुऩ्बु सॊऩ्ऩबडि अनुसन्धेयमॆऩ्गिऱार् पूर्वोक्तमाऩबडिये इति । 
+</details>
+
+
