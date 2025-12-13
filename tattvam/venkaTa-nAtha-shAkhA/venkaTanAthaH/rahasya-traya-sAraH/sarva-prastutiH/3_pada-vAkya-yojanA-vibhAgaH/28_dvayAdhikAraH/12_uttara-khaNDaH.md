@@ -11,7 +11,8 @@ THE SECOND PART OF DVAYA:
 LA SEGUNDA PARTE DE DVAYA:
 </details>
 
-## फलाकाङ्क्षा
+## फल-पक्षः
+### फलाकाङ्क्षा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि तोऱ्ऱिऩ शरणागति 
@@ -270,7 +271,7 @@ for which prapatti **should be performed**?
 </details>
 
 
-### उत्तरम्
+#### उत्तरम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महोदारऩ् आऩ शरण्यऩुक्कुम्  
@@ -440,7 +441,7 @@ la jīva **no debería tener** ningún otro interés u objeto.
 </details>
 
 
-## श्रीमते नारायणाय
+### श्रीमते नारायणाय
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् इडत्तिले स-विशेषणम् आऩ नारायण-शब्दमुम्  
@@ -1323,7 +1324,7 @@ como **indicado** en los ślokas anteriores y en otros lugares.
 इत्यादिगळिऱ्पडिये इङ्गु परिपूर्णानुभवपूर्वकमाऩ कैङ्कर्यम् प्रार्थनीयम्।
 </details>
 
-## भवेयम्
+### भवेयम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरणागतऩ् आम् बोदु  
@@ -1394,7 +1395,7 @@ una palabra como bhaveyam (puedo ser) **tiene que ser proporcionada**:
 इङ्गे “भवेयं” ऎऩ्ऱॊरु पदम् अध्याहार्यम्। 
 </details>
 
-## नमसः प्राक्
+### नमसः प्राक्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि प्राधान्यत्ताले मुऱ्-पड  
@@ -1402,6 +1403,11 @@ una palabra como bhaveyam (puedo ser) **tiene que ser proporcionada**:
 इदुक्क् आगव् अनन्तरम् नमस्साले सर्वानिष्ट-निवृत्तियैयुम् प्रार्थिक्किऱदु।  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं प्राधान्येन प्रथमत इष्ट-प्राप्तिं प्रार्थ्य  
+तद्-अर्थम् अनन्तरं नमसा सर्वानिष्ट-निवृत्तिः प्रार्थ्यते ॥
+</details>
 
 
 <details><summary>English</summary>
@@ -1439,7 +1445,7 @@ a partir de entonces, con la palabra namas,
 
 
 
-## पति-भुक्त-भोग-प्रशस्तिः
+### पति-भुक्त-भोग-प्रशस्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -1494,8 +1500,8 @@ como algo que **es accesorio** del **disfrute** del Señor.
 </details>
 
 
-## नमस्य् अध्याहारः 
-### स्याम्
+### नमस्य् अध्याहारः 
+#### स्याम्
 <details><summary>English</summary>
 
 THE MEANING OF THE WORD NAMAS --
@@ -1510,6 +1516,12 @@ EL SIGNIFICADO DE LA PALABRA NAMAS --
 
 इन् नमस्सुक्कुम् क्रिया-पदम् अध्याहरित्तुक् कॊळ्ळ वेणुम् - 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य नमसो ऽपि क्रिया-पदम् अध्याहरणीयम्,  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1541,6 +1553,13 @@ el verbo **tiene que ser suministrado**
 "ऎऩक्क् आगवे अल्लेऩ्" ऎऩ्ऱ बडि।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+'न मम स्याम्' इत्य् अनेन 
+"मद्-अर्थं न भवेयम्" इत्य् उक्तं भवति ।
+</details>
+
+
 <details><summary>English</summary>
 
 so that it **becomes** "na mama syām",  
@@ -1566,7 +1585,7 @@ que **significa**,
 </details>
 
 
-### स्यात्
+#### स्यात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “न मम किञ्चित् स्यात्” 
@@ -1574,6 +1593,15 @@ que **significa**,
 ऎऩ्ऱु सर्व-विषय--मम-कार-- निवृत्ति-मुखत्ताले  
 सर्वानिष्ट-निवृत्तियै प्रार्थिक्किऱद् आगवुम् आम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> "न मम किञ्चित् स्याद्" 
+
+इति सर्व-विषय-मम-कार-निवृत्ति-मुखेन  
+सर्वानिष्ट-निवृत्तिः प्रार्थ्यत इति वा । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1615,6 +1643,13 @@ ya que **pide** la **desaparición** de la noción de 'mío' respecto de todos l
 इङ्गुम् अनुसन्धित्तुक् कॊळ्वदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-मन्त्रय् इष्ट-प्राप्त्य्--अ-निष्ट-परिहार-विषयय् उक्तौ चोद्य-परिहाराव्  
+अत्राप्य् अनुसन्धेयौ । 
+</details>
+
+
 <details><summary>English</summary>
 
 The **objections raised** and the **answers given** thereto  
@@ -1646,14 +1681,21 @@ en el caso del Tirumantra
 
 
 
-## नमः
-### सर्वानिष्टानि नमः
+### नमः फलार्थ-पक्षे
+#### सर्वानिष्टानि नमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्-नमश्-शब्दत्ताले  
 अ-विद्या--कर्म-- तद्-उभय-वासना-रुचि-- प्रकृति-सम्बन्धादि-- रूपङ्गळ् आऩ  
 सर्व-विरोधिगळैयुम् कऴिया निऱ्कच् चॆय्देयुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनेन नमः-शब्देन  
+अविद्या-कर्म-- तद्-उभय-वासना-रुचि-- प्रकृति-संबन्धादि-रूप-- सर्व-विरोधिषु निवर्त्यमानेष्व् अपि 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1688,11 +1730,17 @@ y la **asociación** con prakṛti o materia,
 </details>
 
 
-### स्वाधीन-स्वार्थ-कर्तृत्व-भोक्तृत्वे नमः
+#### स्वाधीन-स्वार्थ-कर्तृत्व-भोक्तृत्वे नमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदुक्कु निर्वचनम् पण्णुगिऱ श्रुतियिऩ् बडिये 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतन्-निर्वाचक-श्रुत्य्-उक्त-रीत्या 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1750,6 +1798,15 @@ na mama
 
 ऎऩ्ऱ् अनुसन्धिप्पार्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> परिपूर्ण-कैङ्कर्य-रूप-- फल-दशायां फलान्तरानुभव-न्यायेन शङ्कितयोः स्वाधीन-स्वार्थ-कर्तृत्व-- स्वाधीन-स्वार्थ-भोक्तृत्व-रूपयोर् यवसयोर् निवर्तने  
+अत्र प्रधान-तात्पर्यम् 
+
+इत्य् अनुसंदधते ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1810,6 +1867,19 @@ y **es disfrutado** por uno mismo.
 ऎऩ्ऱद् आयिऱ्ऱु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतेन 
+
+> फलान्तरानुभव-दशायां जायमानयोः  
+स्वाधीन-स्वार्थ-- कर्तृत्व-भोक्तृत्व-भ्रमयोर्  
+मुक्त-दशायां कैङ्कर्ये ऽभावं दृष्ट्वा  
+तथा प्रार्थयते 
+
+इति सिद्धम् ।
+</details>
+
+
 <details><summary>English</summary>
 
 From this it **would follow** that  
@@ -1861,7 +1931,7 @@ con este **conocimiento**.
 
 </details>
 
-
+## नमः - भर-न्यास-पक्षे
 ### भरः, स्वरूपम् नमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1922,6 +1992,12 @@ que **resulta** de la **entrega** de la jīva todas sus **cargas** al Ser Suprem
 अरुळाळप्-पॆरुमाळ्-ऎम्-बॆरुमाऩार् व्याख्यानम् पण्णिऩार्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इतीहत्य-नमश्-शब्दं श्रीवरद-रामानुजो (यज्ञमूर्तिः) व्याचख्यौ । 
+</details>
+
+
 <details><summary>English</summary>
 
 Arulalapperumal emperumanar **commented** on the word namas **occurring** here  
@@ -1946,6 +2022,13 @@ por el śloka anterior.
 इन्द श्लोकतिऱ् सॊऩ्ऩ नैरपेक्ष्यम्  
 +++(संसारात्→)+++ स्व-रक्षणत्तिल् निर्भरत्वम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतच्-छ्लोकोक्तं नैरपेक्ष्यं  
++++(संसारात्→)+++ स्व-रक्षणे निर्भरत्वम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1976,6 +2059,14 @@ con respecto a la propia salvación.
 स्व-निर्भरत्व-पर्यन्तम् आऩ भर-समर्पणम्  
 इव्व् इडत्तिले विवक्षितम् आगक् कडवदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनेन निर्भरत्वेन  
+भर-समर्पणं सूचितं वा,  
+स्व-निर्भरत्व-पर्यन्तं भर-समर्पणम् अत्र विवक्षितं वा भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2014,11 +2105,24 @@ en la medida de **ser** despreocupado.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> हविस्-समर्पणत्तिल् “इदम् इन्द्राय न मम” ऎऩ्ऩुमाप्पोले "अहं श्रीमते नारायणाय" ऎऩ्ऱिङ्गु भरगर्भमाग समर्पित्तु, "नमः" ऎऩ्ऱु  
-तऩ्ऩुडऩ् तुवक्क्-अऱुक्किऱद्
+> हविस्-समर्पणत्तिल् “इदम् इन्द्राय न मम” ऎऩ्ऩुमाप्पोले  
+"अहं श्रीमते नारायणाय" ऎऩ्ऱ् इङ्गु भर-गर्भम् आग समर्पित्तु,  
+"नमः" ऎऩ्ऱु तऩ्ऩुडऩ् तुवक्क्-अऱुक्किऱद्
 
 ऎऩ्ऱाल् इस् समर्पण-योजऩैक्कु स्व-रसम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> हविस्-समर्पणे "इदम् इन्द्राय न मम" इतिवत्  
+"अहं श्रीमते नारायणाय" इत्य् अत्र  भर-गर्भतया समर्प्य,  
+"न मम" इति स्व-संबन्धो व्यवच्छिद्यत  
+
+इत्य्-उक्तौ, 
+ अस्याः समर्पण-रूप-योजनायाः स्वारस्यम् । 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -2086,6 +2190,14 @@ si lo **tomamos** de esta forma,
 उत्तर-खण्डम् अङ्गि-प्रतिपादकम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्यां योजनायां  
+पूर्व-खण्डो ऽङ्ग-पञ्चक-परः,  
+उत्तर-खण्डो ऽङ्गि-प्रतिपादकः । 
+</details>
+
+
 <details><summary>English</summary>
 
 In this interpretation,  
@@ -2130,6 +2242,7 @@ que **es** prapatti.
 > “अहम् अद्यैव मया समर्पितः”  
 ( आळवन्दार् स्तोत्रम् ५२) 
 
+इत्य्-उक्त-रीत्या
 </details>
 
 <details><summary>English</summary>
@@ -2172,6 +2285,11 @@ Como en el śloka
 ऎऩ्ऱु समर्पिक्क
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र "अहं श्रीमते नारायणाय" इति समर्पणे कृते सति, 
+</details>
+
 <details><summary>English</summary>
 
 when the **offering** or **surrender is made saying**: 
@@ -2197,6 +2315,13 @@ cuando **se haga** la **ofrenda** o **entrega diciendo**:
 “यत् संरक्ष्यतया ऽर्प्यते”  
 ( अहिर्बुध्न्य-संहिता ५२-३६), 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+“यत् संरक्ष्यतया ऽर्प्यते”  
+( अहिर्बुध्न्य-संहिता ५२-३६), 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2273,8 +2398,18 @@ y
 
 > स्व--रक्षण-भरमुम्, स्व-रक्षण-फलमुम् अवऩद् 
 
-ऎऩ्ऱ् इङ्गे अभिप्रेतम् आगवुम् आम्।
+ऎऩ्ऱ् इङ्गे अभिप्रेतम्+++(→आर्थम्)+++ आगवुम् आम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आद्य्-उक्त-रीत्या 
+
+> स्व-रक्षण-भरः, स्व-रक्षण-फलं च तदीयम् एव
+
+इति अत्राभिप्रेतम्+++(→आर्थम्)+++ इति वा । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2303,6 +2438,13 @@ como **se indica** en los pasajes anteriores.
 आत्मात्मीयङ्गळोडुम् स्व-रक्षण--तत्-फलङ्गळोडुम् तऩक्कुत् तुवक्क् अऱ्ऱमै काट्टुगिऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"नमः" इत्य् अनेनास्मदात्मीयैः सह   स्व-रक्षण-तत्-फलाभ्यां च सह  
+स्वस्य संबन्धाभावः प्रदर्श्यते । 
+</details>
+
+
 <details><summary>English</summary>
 
 This namas **discloses** the **severance** of all **connection**  
@@ -2329,12 +2471,19 @@ y también entre él y su **protección** y el fruto **resultante** de ella.
 </details>
 
 
-#### सङ्गतिः
+### सङ्गतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर-सम्बन्ध-विधियिलुं, स्व-सम्बन्ध--निषेधत्तिलुम् तात्पर्यम् आगैयाले  
 इच् चतुर्थी-नमस्सुक्कळ् इरण्डुक्कुम् फलम् उण्डु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P346]]  
+पर-संबन्ध-विधौ, स्व-संबन्ध-निषेधे च तात्पर्याद् एतयो चतुर्थी-नमसोर् द्वयोर् अपि फलम् अस्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2363,13 +2512,22 @@ y la **negación** de la **conexión** con uno mismo.
 </details>
 
 
-### कर्तृतादि न
+### कर्तृतादि नमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इस् समर्पणन् तऩ्ऩिलुम्  
 पर-निरपेक्ष-कर्तृत्वादिगळै निषेधिक्कैक्क् आग  
 "नमः" ऎऩ्गिऱद् आगवुम् आम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् समर्पणे ऽपि  
+पर-निरपेक्ष-कर्तृत्वादिकं निषेद्धुं  
+“नम" इत्य् उच्यत  
+इति वा । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2407,6 +2565,14 @@ namas **niega** cosas como el hecho de que uno **ser** un **hacedor**
 "नमामि" ऎऩ्गिऱ पदत्तै आत्म-समर्पणार्थम् ऎऩ्ऱु व्याख्यानं पण्णिन पद-स्तोत्र-प्रक्रियैयाले  
 इऩ् ऩमश्-शब्दं समर्पणप् पॊरुळुक्कु सङ्गतम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्थूल-प्रक्रिया-स्वीकारे ऽपि  
+"नमामि" +इति पदस्यात्म-समर्पणार्थतया व्याख्यान-पर-- पद-स्तोत्र-प्रक्रियया  
+अयं नमः-शब्दः समर्पणार्थस्य संगतः ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2447,7 +2613,7 @@ como **significado** 'para la **rendición** del yo'.
 </details>
 
 
-## आत्म-समर्पण-परत्वे फलम्
+## भर-न्यास-परत्वे फलम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि उत्तर-खण्डत्तै  
@@ -2457,6 +2623,14 @@ como **significado** 'para la **rendición** del yo'.
 स्व-रूपानुबन्धिय् आऩ फल-विशेषम्  
 इङ्गे स्वतः प्राप्तम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् उत्तर-खण्डम् आत्म-समर्पण-परतया ऽनुसंदधताम्  
+एतद्-अनुरूपः स्वरूपानुबन्धी फल-विशेषो ऽत्र  
+स्वतः प्राप्तः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2489,7 +2663,7 @@ y **consistente** con la propia naturaleza esencial (svarūpa).
 </details>
 
 
-## फल-परवय् उपायः
+## फल-परत्वय् उपायः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वोक्तम् आऩ बडिये  
@@ -2497,6 +2671,16 @@ y **consistente** con la propia naturaleza esencial (svarūpa).
 इव्व् आत्म-रक्षा-भर-समर्पणम् उपाय-परम् आऩ पूर्व-खण्डत्तिल्  
 शरण-शब्दान्वितम् आऩ क्रिया-पदत्तिले अनुसन्धेयम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+पूर्वोक्त-रीत्या 
+फल-परतयोत्तर-खण्डम् अनुसंदधताम्  
+इदम् आत्म-रक्षा-भर-समर्पणम्  
+उपाय-परे पूर्व-खण्डे  
+शरण-शब्दान्वित-क्रिया-पदे ऽनुसन्धेयम् ।
+</details>
+
 
 <details><summary>English</summary>
 
