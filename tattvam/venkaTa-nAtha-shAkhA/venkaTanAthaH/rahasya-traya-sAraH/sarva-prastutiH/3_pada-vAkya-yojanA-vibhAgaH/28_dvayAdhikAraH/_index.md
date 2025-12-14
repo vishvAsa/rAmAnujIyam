@@ -1,7 +1,7 @@
 +++
 title = "+२८ द्वयाधिकारः"
 +++
-## द्वयार्थः
+## द्वयार्थ-सङ्ग्रहः
 <details><summary>English</summary>
 
 THE PURPORT OF DVAYA:
@@ -17,12 +17,230 @@ EL SIGNIFICADO DE DVAYA:
 इप्-पडि द्वयत्तिल् पदङ्गळिल् अडैवे शब्दार्थस्वभावङ्गळाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं द्वये पदेषु क्रमेण शब्दार्थ-स्वभावाभ्यां 
+</details>
+
+
+<details><summary>English</summary>
+
+Thus, in Dvaya,  
+in the different words,  
+by the nature of the Words actually used and of the meaning which is implicit (without being actually stated in words),  
+</details>
+
+<details><summary>Español</summary>
+
+Así, en Dvaya,  
+en las diferentes palabras,  
+por la naturaleza de las palabras realmente **utilizadas** y del significado **implícito**  
+(sin **estar** realmente **expresado** en palabras),
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इप्पडि द्वयत्तिल् पदङ्गळिलडैवे शब्दार्थस्वभावङ्गळाले 
 </details>
 
-Thus, in Dvaya, in the different words, by the nature of the Words actually used and of the meaning which is implicit (without being actually stated in words), the following principal points as well as what is required for them stand revealed:- (Iśvara's ) association with the mediator (Lakṣmī), this (association) being eternal, Śrī being included in the upãya along (with Bhagavān), the Saviour being full and perfect in His qualities, the particular form of relationship between the jīva and Iśvara, (that of being the body and the soul respectively and that of being śeṣa and śeṣī), Iśvara having a divine and auspicions form, the śeṣa making his approach to the Lord, in this divine form, how (the divine and auspicious form of the Lord) becomes the upāya; the manner of winning the Lord's grace, its accessories, the adhikārī competent for adopting the upāya; how the end to be attained is the Lord with His attribute Śrī, how the object of attainment (the Lord) is endowed with qualities and vibhūtis (glories), how the Lord and Śrī are the recipients entitled to (our) service, the prayer for perforniing this service, the attainment of all forms of service, the removal of all that is undesirable, their utter and complete removal, the jīva's being the doer subject to the will of the Supreme Being and for His purposes, the jīva's being the enjoyer (in mokṣa) subject to the Lord's will and by way of his enjoyment being accessory to the Lord's enjoyment. And these are recalled in Dvaya along with two principal things which are intended to be stated, namely, (1) the upāya which is siddha (viz. the Lord with Śrī), the upāya which is sadhya (viz. prapatti) and (2) the object of attainment which is siddha (namely, the Lord with Śrī) and the object of attainment which is sadhya (namely kaiṅkarya or service).
+### श्रीमन्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(श्री-साहित्येन)+++ पुरुष-कार-योगम्,  
+अदिऩ् नित्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+(Iśvara's ) **association** with the mediator (Lakṣmī),  
+this **(association) being** eternal,  
+
+</details>
+
+<details><summary>Español</summary>
+
+La **asociación** de (Iśvara) con el mediador (Lakṣmī),  
+siendo la **(asociación)** eterna,
+</details>
+
+<details><summary>मूलम्</summary>
+
+पुरुषकारयोगम्, अदिऩ् नित्यत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(श्री-साहित्येन)+++ उपायवैशिष्ट्यम्, 
+</details>
+
+<details><summary>English</summary>
+
+Śrī **being included** in the upãya along (with Bhagavān), 
+</details>
+
+<details><summary>Español</summary>
+
+Śrī **siendo incluido** en el upãya junto (con Bhagavān),
+</details>
+
+<details><summary>मूलम्</summary>
+
+उपायवैशिष्ट्यम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+उपायवैशिष्ट्यम्, 
+</details>
+
+
+### नारायण
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरण्य-गुण-पूर्णत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शरण्य-गुण-पूर्णत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+the Saviour **being** full and perfect in His qualities, 
+</details>
+
+<details><summary>Español</summary>
+
+el Salvador **siendo** pleno y perfecto en Sus cualidades,
+</details>
+
+<details><summary>मूलम्</summary>
+
+शरण्यगुणपूर्णत्वम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(जीवेश्वरयोः)+++ सम्बन्ध-विशेषम्, 
+</details>
+
+<details><summary>English</summary>
+
+the particular form of **relationship** between the jīva and Iśvara,  
+(that of being the body and the soul respectively,  
+and that of **being** śeṣa and śeṣī), 
+</details>
+
+<details><summary>Español</summary>
+
+la forma particular de **relación** entre la jīva e Iśvara,  
+(la de **ser** el cuerpo  
+y el alma respectivamente,  
+y el de **ser** śeṣa y śeṣī),
+</details>
+
+<details><summary>मूलम्</summary>
+
+सम्बन्धविशेषम्, 
+</details>
+
+### चरणौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दिव्य-मङ्गल-विग्रह-योगम्, 
+</details>
+
+<details><summary>English</summary>
+
+Iśvara having a divine and auspicions form, 
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara **tiene** una forma divina y auspiciosa,
+</details>
+
+<details><summary>मूलम्</summary>
+
+दिव्यमङ्गलविग्रहयोगम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् शेष-भूतऩ् इऴियुन् तुऱै+++(=मार्गः)+++, 
+</details>
+
+<details><summary>English</summary>
+
+the śeṣa **making** his **approach** to the Lord, in this divine form, 
+</details>
+
+<details><summary>Español</summary>
+
+el śeṣa **haciendo** su **acercamiento** al Señor, en esta forma divina,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिल् शेषभूतऩिऴियुन्दुऱै, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिऩ् उपायत्व-प्रकारम्, 
+</details>
+
+<details><summary>English</summary>
+
+how (the divine and auspicious form of the Lord) **becomes** the upāya; 
+</details>
+
+<details><summary>Español</summary>
+
+cómo (la forma divina y auspiciosa del Señor) **se vuelve** el upāya;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिऩुबायत्वप्रकारम्, 
+</details>
+
+
+### शरणम् प्रपद्ये
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वशीकरण-विशेषम्, तत्परिकरङ्गळ्, 
+</details>
+
+<details><summary>English</summary>
+
+the manner of winning the Lord's grace, its accessories, 
+</details>
+
+<details><summary>Español</summary>
+
+la manera de **ganar** la gracia del Señor, sus accesorios,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वशीकरण-विशेषम्, तत्परिकरङ्गळ्, 
+</details>
+
+
+
+
+
+the following principal points as well as what is required for them stand revealed:-  
+
+
+the adhikārī competent for adopting the upāya; how the end to be attained is the Lord with His attribute Śrī, how the object of attainment (the Lord) is endowed with qualities and vibhūtis (glories), how the Lord and Śrī are the recipients entitled to (our) service, the prayer for perforniing this service, the attainment of all forms of service, the removal of all that is undesirable, their utter and complete removal, the jīva's being the doer subject to the will of the Supreme Being and for His purposes, the jīva's being the enjoyer (in mokṣa) subject to the Lord's will and by way of his enjoyment being accessory to the Lord's enjoyment. And these are recalled in Dvaya along with two principal things which are intended to be stated, namely, (1) the upāya which is siddha (viz. the Lord with Śrī), the upāya which is sadhya (viz. prapatti) and (2) the object of attainment which is siddha (namely, the Lord with Śrī) and the object of attainment which is sadhya (namely kaiṅkarya or service).
 
 Thus in this gem of a mantra (Dvaya), the Supreme Reality (the Lord of Śrī), the special upāya (for attaining it), (namely prapatti) and the desired end or fruit (namely-enjoyment and kaiṅkarya) are taught as in the Sariraka śāstra (Brahma Sūtras) (i.e. in the order in which they are treated there). In Dvaya the order of words follows the order in which the upāya and its fruit occur (i.e.) the upāya is stated first and the fruit is stated thereafter (as the former produces the latter). However, as in the mantra (taught) in the Svetāśvatara (Upaniṣad) viz. “Desirous of mokṣa I seek Thy protection)," the important point is the adoption of the upāya preceded by a desire for the fruit (aimed at); former (ācharyas) have explained that, following the logical (or psychological order), the sentence stating the fruit (namely, enjoyment and kaiṅkarya) should be thought of first. For is it not a fact that a man would never study the nature of an upāya and adopt it without previously studying the nature of the end to be attained thereby?. So also in the Tirumantra, the order of
 
