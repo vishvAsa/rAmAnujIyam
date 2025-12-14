@@ -44,7 +44,7 @@ por la naturaleza de las palabras realmente **utilizadas** y del significado **i
 इप्पडि द्वयत्तिल् पदङ्गळिलडैवे शब्दार्थस्वभावङ्गळाले 
 </details>
 
-### श्रीमन्
+### श्रीमत्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(श्री-साहित्येन)+++ पुरुष-कार-योगम्,  
@@ -234,15 +234,363 @@ la manera de **ganar** la gracia del Señor, sus accesorios,
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अधिकारि-विशेषम्, 
+</details>
+
+<details><summary>English</summary>
+
+the adhikārī competent for adopting the upāya; 
+</details>
+
+<details><summary>Español</summary>
+
+el adhikārī competente para adoptar el upāya;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अधिकारिविशेषम्, 
+</details>
+
+
+### श्रीमत्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राप्य-+++(श्री-)+++वैशिष्ट्यम्, 
+</details>
+<details><summary>नीलमेघः (सं)</summary>
+
+प्राप्य-+++(श्री-)+++वैशिष्ट्यम्, 
+</details>
+
+
+<details><summary>English</summary>
+
+how the end to be **attained is** the Lord with His attribute Śrī, 
+</details>
+
+<details><summary>Español</summary>
+
+cómo el fin a **alcanzar** es el Señor con Su atributo Śrī,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राप्यवैशिष्ट्यम्, 
+</details>
+
+
+### नारायण
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुण-विभूति-विशिष्ट-प्राप्यत्वम्, 
+</details>
+<details><summary>नीलमेघः (सं)</summary>
+
+गुण-विभूति-विशिष्ट-प्राप्यत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+how the object of **attainment** (the Lord) **is endowed** with qualities and vibhūtis (glories), 
+</details>
+
+<details><summary>Español</summary>
+
+cómo el objeto de **logro** (el Señor) **está dotado** de cualidades y vibhūtis (glorias),
+</details>
+
+<details><summary>मूलम्</summary>
+
+गुणविभूतिविशिष्टप्राप्यत्वम्, 
+</details>
+
+### चतुर्थी
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कैङ्कर्य-प्रतिसम्बन्धित्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+कैङ्कर्य-प्रतिसम्बन्धित्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+how the Lord and Śrī are the recipients entitled to (our) service, 
+</details>
+
+<details><summary>Español</summary>
+
+cómo el Señor y Śrī **son** los **destinatarios** con derecho a (nuestro) **servicio**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कैङ्कर्यप्रतिसम्बन्धित्वम्, 
+</details>
 
 
 
-the following principal points as well as what is required for them stand revealed:-  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कैङ्कर्य-प्रार्थऩै,  
+सर्व-विध-कैङ्कर्य-लाभम्, 
+</details>
+
+<details><summary>English</summary>
+
+the **prayer** for **performing** this **service**,  
+the **attainment** of all forms of **service**,  
+</details>
+
+<details><summary>Español</summary>
+
+la **oración** para **realizar** este **servicio**,  
+la **obtención** de todas las formas de **servicio**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+कैङ्कर्यप्रार्थऩै, सर्वविधकैङ्कर्यलाभम्, 
+</details>
 
 
-the adhikārī competent for adopting the upāya; how the end to be attained is the Lord with His attribute Śrī, how the object of attainment (the Lord) is endowed with qualities and vibhūtis (glories), how the Lord and Śrī are the recipients entitled to (our) service, the prayer for perforniing this service, the attainment of all forms of service, the removal of all that is undesirable, their utter and complete removal, the jīva's being the doer subject to the will of the Supreme Being and for His purposes, the jīva's being the enjoyer (in mokṣa) subject to the Lord's will and by way of his enjoyment being accessory to the Lord's enjoyment. And these are recalled in Dvaya along with two principal things which are intended to be stated, namely, (1) the upāya which is siddha (viz. the Lord with Śrī), the upāya which is sadhya (viz. prapatti) and (2) the object of attainment which is siddha (namely, the Lord with Śrī) and the object of attainment which is sadhya (namely kaiṅkarya or service).
+### नमः
 
-Thus in this gem of a mantra (Dvaya), the Supreme Reality (the Lord of Śrī), the special upāya (for attaining it), (namely prapatti) and the desired end or fruit (namely-enjoyment and kaiṅkarya) are taught as in the Sariraka śāstra (Brahma Sūtras) (i.e. in the order in which they are treated there). In Dvaya the order of words follows the order in which the upāya and its fruit occur (i.e.) the upāya is stated first and the fruit is stated thereafter (as the former produces the latter). However, as in the mantra (taught) in the Svetāśvatara (Upaniṣad) viz. “Desirous of mokṣa I seek Thy protection)," the important point is the adoption of the upāya preceded by a desire for the fruit (aimed at); former (ācharyas) have explained that, following the logical (or psychological order), the sentence stating the fruit (namely, enjoyment and kaiṅkarya) should be thought of first. For is it not a fact that a man would never study the nature of an upāya and adopt it without previously studying the nature of the end to be attained thereby?. So also in the Tirumantra, the order of
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वानिष्ट-निवृत्ति, अदिऩुडैयव् आत्यन्तिकत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+the removal of all that is undesirable,  
+their utter and complete removal, 
+</details>
+
+<details><summary>Español</summary>
+
+la **eliminación** de todo lo indeseable,  
+su **eliminación** total y completa,
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वानिष्टनिवृत्ति, अदिऩुडैयवात्यन्तिकत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(समर्पणेऽपि)+++ पराधीन-परार्थ-कर्तृत्वम्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(समर्पणेऽपि)+++ पराधीन-परार्थ-कर्तृत्वम्, 
+</details>
+
+<details><summary>English</summary>
+
+the jīva's **being** the doer  
+**subject** to the will of the Supreme Being  
+and for His purposes,  
+</details>
+
+<details><summary>Español</summary>
+
+el **ser** de la jīva el **hacedor**  
+**sujeto** a la voluntad del Ser Supremo  
+y para sus propósitos,
+</details>
+
+<details><summary>मूलम्</summary>
+
+पराधीनपरार्थकर्तृत्वम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा-विध+++(→पराधीन-परार्थ)+++-भोक्तृत्वम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तथा-विध+++(→पराधीन-परार्थ)+++-भोक्तृत्वम्
+</details>
+
+<details><summary>English</summary>
+
+the jīva's **being** the **enjoyer** (in mokṣa)  
+**subject** to the Lord's will  
+and by way of his **enjoyment**  
+**being** accessory to the Lord's **enjoyment**. 
+</details>
+
+<details><summary>Español</summary>
+
+el **ser** de la jīva el **disfrutador** (en mokṣa)  
+**sujeto** a la voluntad del Señor  
+y a modo de su **goce**  
+**siendo** cómplice del **goce** del Señor.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथाविधभोक्तृत्वम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱिवै प्रधानम् आय्  
+इवऱ्ऱुक्क् अपेक्षितङ्गळुम् ऎल्लाम् 
+</details>
+
+<details><summary>English</summary>
+
+the above principal points  
+as well as what is required for them  
+(stand revealed).  
+</details>
+
+<details><summary>Español</summary>
+
+los puntos principales anteriores  
+así como lo que **se requiere** para ellos  
+(**estar revelado**).
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱिवै प्रधानमाय् इवऱ्ऱुक्कपेक्षितङ्गळुमॆल्लाम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिद्ध-साध्य-विभागवत्त् आऩ  
++++(भगवन्तौ, प्रपत्तिः→)+++ उपायम् ऎऩ्ऱुम्, +++(भगवन्तौ, कैङ्कर्यम्→)+++ उपेयम् ऎऩ्ऱुम्,  
+इरण्डु प्रधान-प्रतिपाद्यङ्गळोडे  
+तुवक्क् उण्डु प्रकाशितङ्गळ् आयिऱ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+And these **are recalled** in Dvaya  
+along with two principal things  
+which **are intended to be stated**, namely,  
+
+(1) the upāya which is siddha (viz. the Lord with Śrī),  
+the upāya which is sadhya (viz. prapatti) and  
+
+(2) the object of **attainment** which **is** siddha (namely, the Lord with Śrī)  
+and the object of **attainment** which **is** sadhya (namely kaiṅkarya or service).
+</details>
+
+<details><summary>Español</summary>
+
+Y estos **se recuerdan** en Dvaya  
+junto con dos cosas principales  
+que **están destinados** a **ser declarados**, a saber,  
+
+(1) el upāya que **es** siddha (es decir, el Señor con Śrī),  
+el upāya que **es** sadhya (a saber, prapatti) y  
+
+(2) el objeto de **logro** que **es** siddha (es decir, el Señor con Śrī)  
+y el objeto de **logro** que **es** sadhya (es decir, kaiṅkarya o servicio).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिद्धसाध्यविभागवत्ताऩ उपायमॆऩ्ऱुम् उपेयमॆऩ्ऱुम् इरण्डु प्रधानप्रतिपाद्यङ्गळोडे तुवक्कुण्डु प्रकाशितङ्गळायिऱ्ऱु। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि शारीरक-शास्त्रत्तिऱ् पोले +++(तत्-क्रेमेणैव)+++  
+तत्त्व-विशेषमुम् उपाय-विशेषमुम् फल-विशेषमुम्  
+इम्-मन्त्र-रत्नत्तिले प्रतिपादितम् आऩालुम् 
+</details>
+
+<details><summary>English</summary>
+
+Thus in this gem of a mantra (Dvaya),  
+the Supreme Reality (the Lord of Śrī),  
+the special upāya (for attaining it), (namely prapatti)  
+and the desired end or fruit (namely- enjoyment and kaiṅkarya)  
+**are taught** as in the Sariraka śāstra (Brahma Sūtras)  
+(i.e. in the order in which they are treated there). 
+
+In Dvaya the order of words **follows** the order in which the upāya and its fruit **occur**  
+(i.e.) the upāya **is stated** first  
+and the fruit **is stated** thereafter  
+(as the former **produces** the latter).  
+</details>
+
+<details><summary>Español</summary>
+
+Así, en esta joya de mantra (Dvaya),  
+la Realidad Suprema (el Señor de Śrī),  
+el upāya especial (para alcanzarlo), (es decir, prapatti)  
+y el fin o fruto deseado (es decir, disfrute y kaiṅkarya)  
+**se enseñan** como en el Sariraka śāstra (Brahma Sūtras)  
+(es decir, en el orden en que **se tratan** allí).
+
+En Dvaya el orden de las palabras **sigue** el orden en el que el upāya y su fruto **ocurren**  
+(es decir) el upāya **se declara** primero  
+y el fruto **se indica** a partir de entonces  
+(ya que el primero **produce** el segundo).  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि शारीरकशास्त्रत्तिऱ्पोले तत्त्वविशेषमुम् उपायविशेषमुम्फलविशेषमुम् इम् मन्त्ररत्नत्तिले प्रतिपादितमाऩालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु श्वेताश्वतर-मन्त्रम् पोले  
+फलापेक्षा-पूर्वकम् आऩ उपायानुष्ठान-प्रधानम् आगैयाल् 
+</details>
+
+<details><summary>English</summary>
+
+However, as in the mantra (taught) in the Svetāśvatara (Upaniṣad)  
+(viz. “**Desirous** of mokṣa **I seek** Thy **protection**"),  
+the important point **is** the **adoption** of the upāya  
+**preceded** by a **desire** for the fruit (aimed at);  
+</details>
+
+<details><summary>Español</summary>
+
+Sin embargo, como en el mantra (**enseñado**) en el Svetāśvatara (Upaniṣad)  
+(a saber “**Deseoso** de mokṣa **Busco** Tu **protección**"),  
+el punto importante **es** la **adopción** del upāya  
+**precedido** por un **deseo** por el fruto (al que **se dirige**);
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु श्वेताश्वतरमन्त्रम् पोले फलापेक्षापूर्वकमाऩ उपायानुष्ठानप्रधानमागैयाल् 
+</details>
+
+
+
+
+
+former (ācharyas) have explained that, following the logical (or psychological order), the sentence stating the fruit (namely, enjoyment and kaiṅkarya) should be thought of first. For is it not a fact that a man would never study the nature of an upāya and adopt it without previously studying the nature of the end to be attained thereby?. So also in the Tirumantra, the order of
 
 meditation should be as stated above in regard to the upāya, and the fruit thereof. It is only if he desires the fruit and is (also) competent, that the adoption of the upāya would follow.
 
