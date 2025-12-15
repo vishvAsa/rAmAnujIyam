@@ -919,10 +919,55 @@ Las palabras de hombres eruditos, como (las anteriores) también **muestran** qu
 </details>
 
 
+## उपाय-प्रधानम् एकं वाक्यम्
+<details><summary>English</summary>
 
 THE SUMMARY OF THE MEANING OF DVAYA:--
+</details>
 
-Although here (in Dvaya), the first part, the words ending with the dative (or fourth) case and the namas - (although) these three are three separate sentences, yet it should be construed as a single sentence with the upāya as the primary purpose. This is how it should be construed):
+<details><summary>Español</summary>
+
+EL RESUMEN DEL SIGNIFICADO DE DVAYA:--
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु पूर्व-खण्डमुम्, चतुर्थ्य्-अन्त-पदङ्गळुम्, नमस्सुम् आग  
+मूऩ्ऱु अवान्तर-वाक्यङ्गळ् आऩालुम्
+</details>
+
+<details><summary>English</summary>
+
+Although here (in Dvaya),  
+the first part, the words ending with the dative (or fourth) case and the namas -  
+(although) these three **are** three separate sentences, 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque aquí (en Dvaya),  
+la primera parte, las palabras que **terminan** en dativo (o cuarto) y los namas -  
+(aunque) estas tres **son** tres oraciones separadas, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु पूर्वखण्डमुम् चतुर्थ्यन्तपदङ्गळुम् नमस्सुमाग मूऩ्ऱु अवान्तरवाक्यङ्गळाऩालुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरळ उपाय-प्रधानम् आऩव् ऒरु वाक्यम् आय्त् तलैक् कट्टक् कडवदु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तिरळ उपायप्रधानमाऩवॊरु वाक्यमाय्त्तलैक्कट्टक्कडवदु। 
+</details>
+
+
+yet it **should be construed** as a single sentence  
+with the upāya as the primary purpose. This is how it should be construed):
 
 The sum and substance of Dvaya is this:- "At the feet of Nārāyaṇa who is the Lord of all, who is, in everyway and supremely blissful (or enjoyable) and who is inseparable from Lakṣmī and in order that I may obtain the removal of all that is opposed to all kinds of service in all places, at all times and in all states or circumstances and to receive (the privilege of) full and perfect service to T'hem, I, who am destitute of upāyas, surrender the responsibility of the protection of myself with the accompaniment of the five aṅgas or accessories at the feet of Nārāyaṇa, so that I may not have anything to do for such things as the responsibility for protecting myself.
 
