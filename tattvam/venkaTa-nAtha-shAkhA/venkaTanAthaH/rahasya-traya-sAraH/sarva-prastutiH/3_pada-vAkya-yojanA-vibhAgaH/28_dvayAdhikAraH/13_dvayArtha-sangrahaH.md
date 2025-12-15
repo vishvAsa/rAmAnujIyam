@@ -43,6 +43,12 @@ por la naturaleza de las palabras realmente **utilizadas** y del significado **i
 इप्पडि द्वयत्तिल् पदङ्गळिलडैवे शब्दार्थस्वभावङ्गळाले 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि द्वयत्तिऩुडैय पदङ्गळिल् शाब्दमागवुम् आर्थमागवुम् सिद्धिक्कुमर्थङ्गळै क्रममाग अनुवदित्तुक् काट्टुगिऱार् इप्पडि द्वयत्तिल् पदङ्गळिलित्यादिना । 
+</details>
+
+
 ## श्रीमत्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -76,6 +82,12 @@ siendo la **(asociación)** eterna,
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पुरुषकारयोगम् - इदु श्रीशब्दार्थम्। अदिऩ् नित्यत्वम् - इदु मतुबर्थम्; 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(श्री-साहित्येन)+++ उपायवैशिष्ट्यम्, 
@@ -106,6 +118,10 @@ siendo la **(asociación)** eterna,
 
 उपायवैशिष्ट्यम्, 
 </details>
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+उपायवैशिष्ट्यम् - उपायमाऩ भगवाऩुक्कु श्रीवैशिष्ट्यम्, इदुवुम् मतुबर्थम्। 
+</details>
 
 
 ## नारायण
@@ -132,6 +148,12 @@ el Salvador **siendo** pleno y perfecto en Sus cualidades,
 <details><summary>मूलम्</summary>
 
 शरण्यगुणपूर्णत्वम्, 
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+शरण्यगुणपूर्वत्वम् - शरण्यऩाऩ भगवाऩुक्कु कल्याणगुणपूर्णत्वम्। इदु नारायणशब्दार्थम्। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -165,6 +187,13 @@ y el de **ser** śeṣa y śeṣī),
 सम्बन्धविशेषम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सम्बन्धविशेषम् - आधारत्वव्याप्यत्वादिगळ्।  
+“माता पिता भ्राता” ऎऩ्गिऱ श्रुत्युक्तमाऩ सम्बन्धविशेषङ्गळागवुमाम्। इदुवुम् नारायणशब्दार्थम्। 
+</details>
+
+
 ## चरणौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -191,6 +220,12 @@ Iśvara **tiene** una forma divina y auspiciosa,
 
 दिव्यमङ्गलविग्रहयोगम्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+दिव्यमङ्गळविग्रहयोगम् - इदु चरणशब्दोपलक्षितार्थम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -219,6 +254,12 @@ el śeṣa **haciendo** su **acercamiento** al Señor, en esta forma divina,
 अदिल् शेषभूतऩिऴियुन्दुऱै, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अदिल् शेषभूतऩिऴियुन्दुऱै - इदुवुम् चरणशब्दार्थम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदिऩ् उपायत्व-प्रकारम्, 
@@ -244,6 +285,11 @@ cómo (la forma divina y auspiciosa del Señor) **se vuelve** el upāya;
 <details><summary>मूलम्</summary>
 
 अदिऩुबायत्वप्रकारम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अदिऩुबायत्वप्रकारम् - इदु चरणशब्दोपश्लिष्ट शरणशब्दार्थम्। 
 </details>
 
 
@@ -275,6 +321,11 @@ la manera de **ganar** la gracia del Señor, sus accesorios,
 वशीकरण-विशेषम्, तत्परिकरङ्गळ्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+वशीकरणविशेषम् - प्रपूर्वकपद्ल् धात्वर्थमिदु। तत्परिकरङ्गळिति । इवैगळिल् प्रपूर्वकपद्ल्धातुविल् महाविश्वासम् शाब्दम्, गोप्तृत्ववरणम् तदाक्षिप्तम्, उत्तमऩिल् कार्पण्यम्, श्रीमन्नारायणशब्दत्तिल् आनुकूल्यसङ्कल्पमुम् प्रातिकूल्यवर्जनमुम् आर्थम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -302,6 +353,11 @@ el adhikārī competente para adoptar el upāya;
 
 अधिकारिविशेषम्, 
 </details>
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अधिकारिविशेषम् - इदु उत्तमऩिल् शाब्दम्। 
+</details>
+
 
 
 ## श्रीमत्
@@ -332,6 +388,11 @@ cómo el fin a **alcanzar** es el Señor con Su atributo Śrī,
 प्राप्यवैशिष्ट्यम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+प्राप्यवैशिष्ट्यम् - उत्तरखण्डत्तिल् प्राप्यऩाऩ भगवाऩुक्कु श्रीमते ऎऩ्गिऱविडत्तिल् श्रीवैशिष्ट्यम्। 
+</details>
+
 
 ## नारायण
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -358,6 +419,12 @@ cómo el objeto de **logro** (el Señor) **está dotado** de cualidades y vibhū
 गुणविभूतिविशिष्टप्राप्यत्वम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+गुणविभूतिविशिष्टप्राप्यत्वम् - इदु चतुर्थ्यन्तनारायणशब्दार्थम्। 
+</details>
+
+
 ## चतुर्थी
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -383,6 +450,11 @@ cómo el Señor y Śrī **son** los **destinatarios** con derecho a (nuestro) **
 <details><summary>मूलम्</summary>
 
 कैङ्कर्यप्रतिसम्बन्धित्वम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कैङ्कर्यप्रतिसम्बन्धित्वम् _- इदु चतुर्थियिऩ् अर्थम्। 
 </details>
 
 
@@ -417,6 +489,11 @@ la **obtención** de todas las formas de **servicio**,
 कैङ्कर्यप्रार्थऩै, सर्वविधकैङ्कर्यलाभम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+कैङ्कर्यप्रार्थना - इदु भवेयं ऎऩ्गिऱ पदान्वितचतुर्थियिऩर्थम्। सर्वविधकैङ्कर्यलाभम् - इदुवुम् चतुर्थियिऩर्थम्। 
+</details>
+
 
 ## नमः
 
@@ -448,6 +525,11 @@ su **eliminación** total y completa,
 <details><summary>मूलम्</summary>
 
 सर्वानिष्टनिवृत्ति, अदिऩुडैयवात्यन्तिकत्वम्, 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सर्वानिष्टनिवृत्तीत्यादि । इवैगळ् नमश्शब्दार्थङ्गळ्। 
 </details>
 
 
@@ -544,6 +626,12 @@ así como lo que **se requiere** para ellos
 ऎऩ्ऱिवै प्रधानमाय् इवऱ्ऱुक्कपेक्षितङ्गळुमॆल्लाम् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अपेक्षितङ्गळुमॆल्लामिति । एतदपेक्षितङ्गळाऩ यथायोगम् उभयनिष्ठङ्गळाऩ मृदुत्व पतिपारार्थ्य सर्वोत्तरत्व सर्वशेषित्वादिगळॆल्ला मॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिद्ध-साध्य-विभागवत्त् आऩ  
@@ -591,4 +679,9 @@ y el objeto de **logro** que **es** sadhya (es decir, kaiṅkarya o servicio).
 <details><summary>मूलम्</summary>
 
 सिद्धसाध्यविभागवत्ताऩ उपायमॆऩ्ऱुम् उपेयमॆऩ्ऱुम् इरण्डु प्रधानप्रतिपाद्यङ्गळोडे तुवक्कुण्डु प्रकाशितङ्गळायिऱ्ऱु। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सिद्धेत्यादि । सिद्धोपायम् श्रीमन्नारायणऩ्; साध्योपायम् इङ्गु शरणागतिः; इदु पूर्वखण्डप्रतिपाद्यम्; सिद्धोपेयम् श्रीमन्नारायणऩ्; साध्योपेयम् भगवत्परिपूर्णानुभवकैङ्कर्यादि । इदु उत्तरखण्डप्रतिपाद्यम्। 
 </details>
