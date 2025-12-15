@@ -752,14 +752,173 @@ la oración **que dice** el fruto (es decir, disfrute y kaiṅkarya) **debe** pe
 अर्थक्रमत्तालेयिदु मुऱ्पडवनुसन्धेयमॆऩ्ऱुबूर्वर्गळरुळिच्चॆय्वार्गळ्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुषऩ् पुरुषार्थत्तै विमर्शित्तुक् कॊण्ड् अऩ्ऱि  
+उपाय-विमर्शमुम् उपायानुष्ठानमुम् पण्णाऩ् इऱे। 
+</details>
+
+<details><summary>English</summary>
 
 For **is it not** a fact that  
 a man **would never study** the nature of an upāya  
 and **adopt it** without previously **studying** the nature of the end to **be attained** thereby?  
+</details>
 
-So also in the Tirumantra, the order ofmeditation should be as stated above in regard to the upāya, and the fruit thereof. It is only if he desires the fruit and is (also) competent, that the adoption of the upāya would follow.
+<details><summary>Español</summary>
 
-The words of learned men such as "One shonld seek (the Lord's) protection with (the utterance) of Dvaya" and "The śaraṇāgati which is stated in Dvaya consists in the faith that to attain Nārāyaṇa with Śrī, His two lotus feet are the upāya" - (these words) also show that Dvaya reveals the adoption of the upāya.
+Porque **¿no es** un hecho que  
+un hombre **nunca estudiaría** la naturaleza de un upāya  
+y **adoptarlo** sin **estudiar** previamente la naturaleza del fin a **alcanzar** con ello?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुरुषऩ् पुरुषार्थत्तै विमर्शित्तुक्कॊण्डऩ्ऱि उपायविमर्शमुम् उपायानुष्ठानमुम् पण्णाऩिऱे। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि तिरु-मन्त्रत्तिलुम् उपाय-फल-प्रतिपादकांशङ्गळिल्  
+क्रम-प्रकारङ्गळैक् कण्डु गॊळ्वदु। 
+</details>
+
+<details><summary>English</summary>
+
+So also in the Tirumantra,  
+the order of **meditation should be** as **stated** above  
+in regard to the upāya, and the fruit thereof. 
+</details>
+
+<details><summary>Español</summary>
+
+Así también en el Tirumantra,  
+el orden de **meditación debe ser** como **indicado** arriba  
+con respecto al upāya y su fruto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि तिरुमन्त्रत्तिलुम् उपायफलप्रतिपादकांशङ्गळिल् क्रमप्रकारङ्गळैक् कण्डुगॊळ्वदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+फलार्थिय् आय् अधिकारिय् आऩाल् इऱे  
+इवऩुक्क् इव्व्-उपायानुष्ठानं वरुवदु। +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+It is only if he **desires** the fruit  
+and **is** (also) competent,  
+that the **adoption** of the upāya **would follow**.
+</details>
+
+<details><summary>Español</summary>
+
+Es sólo si **desea** el fruto  
+y **es** (también) competente,  
+que la **adopción** del upāya **siguiente**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+फलार्थियाय् अधिकारियाऩालिऱे इवऩुक्किव्वुपायानुष्ठानम् वरुवदु। 
+</details>
+
+## उपायानुष्ठाने ऽभियुक्ताः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “द्वयेन शरणं व्रजेत्”(), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “द्वयेन शरणं व्रजेत्”(), 
+</details>
+
+<details><summary>English</summary>
+
+> "One **should seek** (the Lord's) **protection**  
+with (the **utterance**) of Dvaya"  
+</details>
+
+<details><summary>Español</summary>
+
+> "Uno **debe buscar** (la) **protección** (del Señor)  
+con (la **expresión**) de Dvaya"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“द्वयेन शरणं व्रजेत्”(),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “द्वयार्थश् शरणागतिः”  
+( नारायणम्) 
+
+ऎऩ्गिऱ अभियुक्तर् पासुरङ्गळालुम्  
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "The śaraṇāgati which **is stated** in Dvaya  
+**consists** in the faith that  
+to **attain** Nārāyaṇa with Śrī,  
+His two lotus feet **are** the upāya" - 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "El śaraṇāgati que **se afirma** en Dvaya  
+**consiste** en la fe que  
+**alcanzar** Nārāyaṇa con Śrī,  
+Sus dos pies de loto **son** el upāya" -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> “द्वयार्थश् शरणागतिः”  
+( नारायणम्) 
+
+ऎऩ्गिऱ अभियुक्तर् पासुरङ्गळालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वयम् उपायानुष्ठानत्तै प्रधानम् आग प्रकाशिप्पिक्किऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+The words of learned men, such as (the above) also **show** that Dvaya **reveals** the adoption of the upāya.
+</details>
+
+<details><summary>Español</summary>
+
+Las palabras de hombres eruditos, como (las anteriores) también **muestran** que Dvaya **revela** la **adopción** del upāya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+द्वयम् उपायानुष्ठानत्तै प्रधानम् आग प्रकाशिप्पिक्किऱदु। 
+</details>
+
+
 
 THE SUMMARY OF THE MEANING OF DVAYA:--
 
