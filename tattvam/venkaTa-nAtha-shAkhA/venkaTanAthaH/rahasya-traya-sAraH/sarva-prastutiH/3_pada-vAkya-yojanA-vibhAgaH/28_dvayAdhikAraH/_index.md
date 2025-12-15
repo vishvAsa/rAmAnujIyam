@@ -51,6 +51,13 @@ por la naturaleza de las palabras realmente **utilizadas** y del significado **i
 अदिऩ् नित्यत्वम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+पुरुषकार-योगः,  
+तस्य नित्यत्वम्, 
+</details>
+
+
 <details><summary>English</summary>
 
 (Iśvara's ) **association** with the mediator (Lakṣmī),  
@@ -74,6 +81,12 @@ siendo la **(asociación)** eterna,
 
 +++(श्री-साहित्येन)+++ उपायवैशिष्ट्यम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(श्री-साहित्येन)+++ उपायवैशिष्ट्यम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -127,6 +140,12 @@ el Salvador **siendo** pleno y perfecto en Sus cualidades,
 +++(जीवेश्वरयोः)+++ सम्बन्ध-विशेषम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
++++(जीवेश्वरयोः)+++ सम्बन्ध-विशेषः, 
+</details>
+
+
 <details><summary>English</summary>
 
 the particular form of **relationship** between the jīva and Iśvara,  
@@ -153,6 +172,12 @@ y el de **ser** śeṣa y śeṣī),
 दिव्य-मङ्गल-विग्रह-योगम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+दिव्य-मङ्गल-विग्रह-योगः
+</details>
+
+
 <details><summary>English</summary>
 
 Iśvara having a divine and auspicions form, 
@@ -172,6 +197,12 @@ Iśvara **tiene** una forma divina y auspiciosa,
 
 अदिल् शेष-भूतऩ् इऴियुन् तुऱै+++(=मार्गः)+++, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्र शेष-भूतस्याश्रयणावलम्बनम्, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -193,6 +224,12 @@ el śeṣa **haciendo** su **acercamiento** al Señor, en esta forma divina,
 
 अदिऩ् उपायत्व-प्रकारम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तस्योपायत्व-प्रकारः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -217,6 +254,12 @@ cómo (la forma divina y auspiciosa del Señor) **se vuelve** el upāya;
 वशीकरण-विशेषम्, तत्परिकरङ्गळ्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+वशीकरण-विशेषः, तत्-परिकराः, 
+</details>
+
+
 <details><summary>English</summary>
 
 the manner of winning the Lord's grace, its accessories, 
@@ -238,6 +281,12 @@ la manera de **ganar** la gracia del Señor, sus accesorios,
 
 अधिकारि-विशेषम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अधिकारि-विशेषः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -345,6 +394,13 @@ cómo el Señor y Śrī **son** los **destinatarios** con derecho a (nuestro) **
 सर्व-विध-कैङ्कर्य-लाभम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+कैङ्कर्य-प्रार्थना,  
+सर्व-विध-कैङ्कर्य-लाभः, 
+</details>
+
+
 <details><summary>English</summary>
 
 the **prayer** for **performing** this **service**,  
@@ -369,6 +425,14 @@ la **obtención** de todas las formas de **servicio**,
 
 सर्वानिष्ट-निवृत्ति, अदिऩुडैयव् आत्यन्तिकत्वम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्वानिष्ट-निवृत्तिः,  
+तस्या आत्यन्तिकत्वम्, 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -455,6 +519,13 @@ y a modo de su **goce**
 इवऱ्ऱुक्क् अपेक्षितङ्गळुम् ऎल्लाम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य् एते प्राधान्येन, 
+एतद्-अपेक्षितार्थाः सर्वे ऽपि 
+</details>
+
+
 <details><summary>English</summary>
 
 the above principal points  
@@ -481,6 +552,15 @@ así como lo que **se requiere** para ellos
 इरण्डु प्रधान-प्रतिपाद्यङ्गळोडे  
 तुवक्क् उण्डु प्रकाशितङ्गळ् आयिऱ्ऱु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सिद्ध-साध्य-विभागवद्भ्याम्  
++++(भगवन्तौ, प्रपत्तिः→)+++ उपायोपेयाभ्यां +++(→भगवन्तौ, कैङ्कर्यम्)+++   
+द्वाभ्यां प्रधान-प्रतिपाद्याभ्यां  
+संबद्धाः प्रकाशिताः ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -514,7 +594,7 @@ y el objeto de **logro** que **es** sadhya (es decir, kaiṅkarya o servicio).
 सिद्धसाध्यविभागवत्ताऩ उपायमॆऩ्ऱुम् उपेयमॆऩ्ऱुम् इरण्डु प्रधानप्रतिपाद्यङ्गळोडे तुवक्कुण्डु प्रकाशितङ्गळायिऱ्ऱु। 
 </details>
 
-
+## अनुसन्धाने क्रमः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -522,6 +602,13 @@ y el objeto de **logro** que **es** sadhya (es decir, kaiṅkarya o servicio).
 तत्त्व-विशेषमुम् उपाय-विशेषमुम् फल-विशेषमुम्  
 इम्-मन्त्र-रत्नत्तिले प्रतिपादितम् आऩालुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थं शारीरक-शास्त्र इव +++(तत्-क्रेमेणैव)+++  
+तत्त्व-विशेषस्य, उपाय-विशेषस्य, फल-विशेषस्य चास्मिन् मन्त्र-रहस्ये प्रतिपादितत्वे ऽपि,  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -562,8 +649,22 @@ y el fruto **se indica** a partir de entonces
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु श्वेताश्वतर-मन्त्रम् पोले  
-फलापेक्षा-पूर्वकम् आऩ उपायानुष्ठान-प्रधानम् आगैयाल् 
+फलापेक्षा-पूर्वकम् आऩ उपायानुष्ठान-प्रधानम् आगैयाल्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य श्वेताश्वतर-मन्त्रवत् फलापेक्षा-पूर्वकोपायानुष्ठान-प्रधानत्वात्, 
+</details>
+
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> मुमुक्षुर् वै शरणम् अहम् प्रपद्ये
+
+इति मन्त्रः। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -586,15 +687,238 @@ el punto importante **es** la **adopción** del upāya
 इदु श्वेताश्वतरमन्त्रम् पोले फलापेक्षापूर्वकमाऩ उपायानुष्ठानप्रधानमागैयाल् 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(इह द्वये)+++ उपाय-फलङ्गळ्-उडैय व्युत्पत्ति-क्रमत्तोडे सेर्न्द पाठ-क्रमत्ताले  
+फल-प्रतिपादक-वाक्यम् पिऱ्+++(←ऩ् →पश्चात्)+++ पट्टालुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(इह द्वये)+++ उपाय-फलयोर् उत्पत्ति-क्रमेण संगतेन पाठ-क्रमेण  
+फल-प्रतिपादक-वाक्यस्य पाश्चात्यत्वे ऽपि, 
+</details>
 
 
+<details><summary>English</summary>
+
+(even if, due to the sequence of the arising of the upāya and the fruit being reflected in the sentence ordering,  
+the sentence explaining the fruit comes second)
+</details>
+
+<details><summary>Español</summary>
+
+(incluso si, debido a la secuencia del **surgimiento** del upāya  
+y el fruto que se refleja en el orden de la **oración**,  
+la frase que **explica** la fruta **va** segundo)
+</details>
 
 
-former (ācharyas) have explained that, following the logical (or psychological order), the sentence stating the fruit (namely, enjoyment and kaiṅkarya) should be thought of first. For is it not a fact that a man would never study the nature of an upāya and adopt it without previously studying the nature of the end to be attained thereby?. So also in the Tirumantra, the order of
+<details><summary>मूलम्</summary>
 
-meditation should be as stated above in regard to the upāya, and the fruit thereof. It is only if he desires the fruit and is (also) competent, that the adoption of the upāya would follow.
+उपायफलङ्गळुडैय व्युत्पत्तिक्रमत्तोडे सेर्न्द पाठक्रमत्ताले फलप्रतिपादकवाक्यम् पिऱ्पट्टालुम्
+</details>
 
-The words of learned men such as "One shonld seek (the Lord's) protection with (the utterance) of Dvaya" and "The śaraṇāgati which is stated in Dvaya consists in the faith that to attain Nārāyaṇa with Śrī, His two lotus feet are the upāya" - (these words) also show that Dvaya reveals the adoption of the upāya.
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्थ-क्रमत्तालेय् इदु +++(फल-वाक्यम्)+++ मुऱ्-पडव् अनुसन्धेयम्  
+ऎऩ्ऱु पूर्वर्गळ् अरुळिच्-चॆय्वार्गळ्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अर्थ-क्रमेणेदं +++(फल-वाक्यम्)+++ पूर्वम् अनुसन्धेयम्  
+इति पूर्वे ऽनुजग्रहुः । 
+</details>
+
+<details><summary>English</summary>
+
+former (ācharyas) **have explained** that,  
+following the logical (or psychological order),  
+the sentence **stating** the fruit (namely, enjoyment and kaiṅkarya) **should** be thought of first.  
+
+</details>
+
+<details><summary>Español</summary>
+
+ex (ācharyas) **han explicado** que,  
+**siguiendo** el orden lógico (o psicológico),  
+la oración **que dice** el fruto (es decir, disfrute y kaiṅkarya) **debe** pensarse primero.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अर्थक्रमत्तालेयिदु मुऱ्पडवनुसन्धेयमॆऩ्ऱुबूर्वर्गळरुळिच्चॆय्वार्गळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुषऩ् पुरुषार्थत्तै विमर्शित्तुक् कॊण्ड् अऩ्ऱि  
+उपाय-विमर्शमुम् उपायानुष्ठानमुम् पण्णाऩ् इऱे। 
+</details>
+
+<details><summary>English</summary>
+
+For **is it not** a fact that  
+a man **would never study** the nature of an upāya  
+and **adopt it** without previously **studying** the nature of the end to **be attained** thereby?  
+</details>
+
+<details><summary>Español</summary>
+
+Porque **¿no es** un hecho que  
+un hombre **nunca estudiaría** la naturaleza de un upāya  
+y **adoptarlo** sin **estudiar** previamente la naturaleza del fin a **alcanzar** con ello?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुरुषऩ् पुरुषार्थत्तै विमर्शित्तुक्कॊण्डऩ्ऱि उपायविमर्शमुम् उपायानुष्ठानमुम् पण्णाऩिऱे। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि तिरु-मन्त्रत्तिलुम् उपाय-फल-प्रतिपादकांशङ्गळिल्  
+क्रम-प्रकारङ्गळैक् कण्डु गॊळ्वदु। 
+</details>
+
+<details><summary>English</summary>
+
+So also in the Tirumantra,  
+the order of **meditation should be** as **stated** above  
+in regard to the upāya, and the fruit thereof. 
+</details>
+
+<details><summary>Español</summary>
+
+Así también en el Tirumantra,  
+el orden de **meditación debe ser** como **indicado** arriba  
+con respecto al upāya y su fruto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि तिरुमन्त्रत्तिलुम् उपायफलप्रतिपादकांशङ्गळिल् क्रमप्रकारङ्गळैक् कण्डुगॊळ्वदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+फलार्थिय् आय् अधिकारिय् आऩाल् इऱे  
+इवऩुक्क् इव्व्-उपायानुष्ठानं वरुवदु। +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+It is only if he **desires** the fruit  
+and **is** (also) competent,  
+that the **adoption** of the upāya **would follow**.
+</details>
+
+<details><summary>Español</summary>
+
+Es sólo si **desea** el fruto  
+y **es** (también) competente,  
+que la **adopción** del upāya **siguiente**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+फलार्थियाय् अधिकारियाऩालिऱे इवऩुक्किव्वुपायानुष्ठानम् वरुवदु। 
+</details>
+
+## उपायानुष्ठाने ऽभियुक्ताः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “द्वयेन शरणं व्रजेत्”(), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> “द्वयेन शरणं व्रजेत्”(), 
+</details>
+
+<details><summary>English</summary>
+
+> "One **should seek** (the Lord's) **protection**  
+with (the **utterance**) of Dvaya"  
+</details>
+
+<details><summary>Español</summary>
+
+> "Uno **debe buscar** (la) **protección** (del Señor)  
+con (la **expresión**) de Dvaya"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“द्वयेन शरणं व्रजेत्”(),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “द्वयार्थश् शरणागतिः”  
+( नारायणम्) 
+
+ऎऩ्गिऱ अभियुक्तर् पासुरङ्गळालुम्  
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "The śaraṇāgati which **is stated** in Dvaya  
+**consists** in the faith that  
+to **attain** Nārāyaṇa with Śrī,  
+His two lotus feet **are** the upāya" - 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "El śaraṇāgati que **se afirma** en Dvaya  
+**consiste** en la fe que  
+**alcanzar** Nārāyaṇa con Śrī,  
+Sus dos pies de loto **son** el upāya" -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> “द्वयार्थश् शरणागतिः”  
+( नारायणम्) 
+
+ऎऩ्गिऱ अभियुक्तर् पासुरङ्गळालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वयम् उपायानुष्ठानत्तै प्रधानम् आग प्रकाशिप्पिक्किऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+The words of learned men, such as (the above) also **show** that Dvaya **reveals** the adoption of the upāya.
+</details>
+
+<details><summary>Español</summary>
+
+Las palabras de hombres eruditos, como (las anteriores) también **muestran** que Dvaya **revela** la **adopción** del upāya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+द्वयम् उपायानुष्ठानत्तै प्रधानम् आग प्रकाशिप्पिक्किऱदु। 
+</details>
+
+
 
 THE SUMMARY OF THE MEANING OF DVAYA:--
 
