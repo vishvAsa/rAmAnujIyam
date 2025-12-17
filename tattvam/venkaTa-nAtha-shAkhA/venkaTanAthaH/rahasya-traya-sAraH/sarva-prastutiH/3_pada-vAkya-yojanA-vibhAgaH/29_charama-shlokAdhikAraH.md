@@ -792,7 +792,43 @@ y que el fin **perseguido no podría alcanzarse** rápidamente,
 </details>
 
 
-So Arjuna became overwhelmed with despair. Under the guise of teaching Arjuna, the ācārya of the Gitopanishad is graciously pleased, out of His infinite compassion, to explain this most secret upāya (viz. prapatti) in the carama śloka which is the conclusion of the teaching and which leaves nothing unsaid. Prapatti which is one of the upāyas that be enjoined as optional in the śloka: "I can be attained by those who desire to serve me only by bhakti  or by prapatti. There is no other way of attaining ine", is the means alike, of attaining His feet and all other things that are desired, for it has been said, “Only so long as prapatti which extinguishes all sins is not performed, only so long will there be suffering, etc." It can be performed without any accessories other than the determination to do what is agreeable to the Lord and the avoidance of what is adverse to Him and the like. It is easier of performance and can be done in just an instant. Since the Supreme Lord, who is the Saviour, has Himself taught this truth which is well known from the śrutis, it has also the sanction of the ācārya (for Bhagavān is Himself the ācārya here). The permission of the ācārya is prescribed in such treatises as Viṣṇutattva as follows: - "Giving up all object of desire and the karmas by which they can be secured, Śaraṇāgati with its five aṅgas (the aṅgas and the aṅgī being six ) should be performed with the permission of the ācārya in accordance with the rules prescribed in the śāstras and with renunciation of the fruits of all actions.”
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निरतिशय-शोकाविष्टऩ् आऩ अर्जुनऩै व्याजम् आगक् कॊण्डु  
+परम-कारुणिकऩ् आऩ गीतोपनिषद्-आचार्यऩ् 
+</details>
+
+<details><summary>English</summary>
+
+So Arjuna **became overwhelmed** with despair.  
+Under the guise of **teaching** Arjuna,  
+the ācārya of the Gitopanishad,  
+out of His infinite compassion,  
+</details>
+
+<details><summary>Español</summary>
+
+Entonces Arjuna **quedó abrumado** por la desesperación.  
+Con el pretexto de **enseñar** a Arjuna,  
+el ācārya del Gitopanishad,  
+por su infinita compasión,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निरतिशयशोकाविष्टऩाऩ अर्जुनऩै व्याजमागक् कॊण्डु परमकारुणिकऩाऩ गीतोपनिषदाचार्यऩ् 
+</details>
+
+
+
+**is** graciously **pleased**
+to **explain** this most secret upāya (viz. prapatti) in the carama śloka  
+which **is** the conclusion of the **teaching**  
+and which **leaves** nothing unsaid. 
+
+
+Prapatti which is one of the upāyas that be enjoined as optional in the śloka: "I can be attained by those who desire to serve me only by bhakti  or by prapatti. There is no other way of attaining ine", is the means alike, of attaining His feet and all other things that are desired, for it has been said, “Only so long as prapatti which extinguishes all sins is not performed, only so long will there be suffering, etc." It can be performed without any accessories other than the determination to do what is agreeable to the Lord and the avoidance of what is adverse to Him and the like. It is easier of performance and can be done in just an instant. Since the Supreme Lord, who is the Saviour, has Himself taught this truth which is well known from the śrutis, it has also the sanction of the ācārya (for Bhagavān is Himself the ācārya here). The permission of the ācārya is prescribed in such treatises as Viṣṇutattva as follows: - "Giving up all object of desire and the karmas by which they can be secured, Śaraṇāgati with its five aṅgas (the aṅgas and the aṅgī being six ) should be performed with the permission of the ācārya in accordance with the rules prescribed in the śāstras and with renunciation of the fruits of all actions.”
 
 SARVADHARMĀN ETC.page526
 
