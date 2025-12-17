@@ -37,3 +37,6 @@ Apart from this, Periya Svami seems to have written a separate khaNDana of vyAsa
 - विजयीन्द्र-पराजयः Source: [TW](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/parakAla-shAkhA/vijayIndra-parAjayaH/)
 - विजयीन्द्र-विजय-वैभवम् - Source: [TW](/mAdhvam/tattvam/vijayIndra-tIrthAH/sarva-siddhAnta-sAra-vivechanam/satya-pramoda-vijayIndra-vijaya-vaibhavam)
 
+### राघवेन्द्रः
+- Raghavendrathirtha's TarkatANDava
+- Surapuri Sri Venkatacharya's response?? 
