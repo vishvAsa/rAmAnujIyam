@@ -29,6 +29,14 @@ EL CAPÍTULO SOBRE LA CARAMA ŚLOKA.  página524
 ॥ श्रीमद्रहस्यत्रयसारे चरमश्लोकाधिकारः ॥
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+॥ श्रीः ॥   
+चरमश्लोकाधिकार व्याख्या ॥  
+
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -46,6 +54,32 @@ EL CAPÍTULO SOBRE LA CARAMA ŚLOKA.  página524
 **शमित**-दुरिताश् शङ्कातङ्क--**त्यजस्** सुखम् **आस्महे** ॥ ६६ ॥  
 </details>
 
+<details><summary>English</summary>
+
+(1) Śrī Kṛṣṇa, who **stands** close to the Upaniṣads  
+and from whom, as from the boundless ocean of mercy, **came** of its own accord, the śloka (Carama śloka)  
+which **puts** an end to the sorrows of all men, -  
+by **seeking** Him as our refuge  
+in accordance with the injunction (contained in that śloka) or by good luck (vidhinā),  
+and as the eternal dharma (Siddhopāya),  
+**we feel**  
+happy with our sins **extinguished**  
+and free from (all) doubts and fears.
+</details>
+
+<details><summary>Español</summary>
+
+(1) Śrī Kṛṣṇa, que **está** cerca de los Upaniṣads  
+y de quien, como del océano ilimitado de la misericordia, **vino** por sí solo, el śloka (Carama śloka)  
+que **pone** fin a los dolores de todos los hombres, -  
+**buscándolo** como nuestro refugio  
+de acuerdo con el mandato (contenido en ese śloka) o por buena suerte (vidhinā),  
+y como el dharma eterno (Siddhopāya),  
+**nos sentimos**  
+felices con nuestros pecados **extinguidos**  
+y libre de (todas) dudas y miedos.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -55,37 +89,88 @@ EL CAPÍTULO SOBRE LA CARAMA ŚLOKA.  página524
 शमितदुरिताश्शंकातङ्कत्यजस्सुखमास्महे ॥ ६६ ॥  
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडि शरणागत्यनुष्ठापकमाऩ द्वयत्तिऱ्कु व्याख्यानम् पण्णि, शरणागतिविधायकमाऩ चरमश्लोकत्तिऱ्कु व्याख्यानम् पण्णप्पोगिऱवराय् अधिकारारम्भश्लोकत्ताले चरमश्लोकत् तिऱ्सॊऩ्ऩबडि वेदान्तवेद्यऩाय्, परमदयैयाले कृष्णऩागववदरित्तु रहस्यतमार्थमाऩ चरमश्लोकत्तिऱ्कु उपदेष्टावुमाऩ भगवाऩै शरणमागवडैन्दु ऒरुविध शङ्गैयु मिऩ्ऱिक्के सुखमाग इरुक्किऱोमॆऩ्गिऱार् य उपनिषदामिति । यः - यावऩॊरुवऩ्, उपनिषदां – वेदान्तङ्गळुडैय, अन्ते – मध्यत्तिले, वर्तते – प्रतिपाद्यतया इरुक्किऱाऩो; ‘‘सायङ्काले वनान्ते’’ इत्यादाविव इङ्गु अन्तशब्दम् मध्यवाचि । इदऩाल् सर्वोपनिषत्तुक्कळिलुम् उपक्रमोपसंहारानुगुणमाऩ महावाक्यप्रतिपाद्यत्वम् सॊल्लप्पट्टदु। अथवा - इङ्गु अन्तशब्दम् समीपवाचि । इङ्गु सर्वोपनिषत्तुक्कळुक्कुम् समीपवर्तियॆऩ्ऱदाल् सर्वोपनिषत्तुक्कळालुम् ऐककण्ठ्येन प्रतिपाद्यत्वम् सूचितमागिऱदु। यस्मादनन्तदयाम्बुधेः – अपरिमितदयासमुद्रऩाय्, कृष्णऩाग अवदरित्तु पार्थऩुक्कु सारथियाय् निऩ्ऱ ऎवऩिडत्तिऩिऩ्ऱुम्, त्रुटितजनताशोकः – जनसमुदायङ्गळुडैय शोकत्तै स्वार्थानुष्ठानमात्रत्ताले पोक्कुवदाऩ, श्लोकः - चरम-श्लोकमाऩदु, स्वयं समजायत इति । व्याधऩाले अडिक्कप्पट्ट क्रौञ्चदर्शनत्तालेयुण्डाऩ शोकम् ‘‘मा निषाद’’ ऎऩ्गिऱ श्लोकमाग स्वयमेव परिणमित्ताप्पोले अर्जनऩुडैय दुष्करभक्तियोगादिश्रवणजनितशोकत्ताले पिऱन्द दयैये चरमश्लोकमाग स्वयमेव परिणमित्तदॆऩ्गै। तं – तादृशप्रभावशालियाऩ, सनातनं धर्मं – ‘‘ये च वेदविदो विप्रा ये चाध्यात्मविदो जनाः । ते वदन्ति महात्मानं कृष्णं धर्मं सनातनम्’’ इत्यादिगळिल् सनातनधर्ममागच् चॊल्लप्पट्ट, कृष्णं – कृष्णऩै, विधिना – चरमश्लोकोक्तविधियिऩाले प्रेरितऩाय्क्कॊण्डु, प्रपद्य – शरणमाग वरित्तु, शमितदुरिताः -अदिऱ्सॊऩ्ऩबडि सर्वपापङ्गळालेयुम् विमुक्तराय्, शङ्कातङ्कत्यजः - पलविद शङ्गैगळागिऱ (आतङ्कत्तै) व्याधियै विट्टवर्गळाय्, सुखमास्महे - इन्द लोगत्तिलेये सुखमाग वर्तिक्किऱोम्। इदिल् तृतीयपादत्ताले चरमश्लोकपूर्वार्धोक्तार्थस्सूचितः । शमितदुरिताः ऎऩ्बदाल् ‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्बदिऩ् अर्त्तम् सूचितम्। शङ्कातङ्कत्यजस्सुखमास्महे ऎऩ्बदाल् ‘‘मा शुचः’’ ऎऩ्बदिऩर्त्तम् सूचितम्।  
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-दुर्विज्ञानैर्नियमगहनैर्दूरविश्रान्तिदेशैः  
-बालानर्हैबहुभिरयनैश्शोचतान्नस्सुपन्थाः ।  
-निष्प्रत्यूहं निजपदमसौ नेतुकामस्स्वभूम्ना  
-सत्पाथेयं किमपि विदधे सारथिस्सर्वनेता ॥ ६७ ॥
+दुर्-विज्ञानैर् नियम-गहनैर् दूर-विश्रान्ति-देशैर्  
+बालानर्हैर् बहुभिर् +++(कर्म-ज्ञान-भक्ति-)+++अयनैश् **शोचतां** नस् सु-पन्थाः ।  
+निष्प्रत्यूहं निज-पदम् असौ **नेतु-कामस्** स्व-भूम्ना  
+सत्-पाथेयं किम् अपि **विदधे** सारथिस् सर्व-नेता ॥ ६७ ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+दुर्-विज्ञानैर् नियम-गहनैर् दूर-विश्रान्ति-देशैर्  
+बालानर्हैर् बहुभिर् +++(कर्म-ज्ञान-भक्ति-)+++अयनैश् **शोचतां** नस् सु-पन्थाः ।  
+निष्प्रत्यूहं निज-पदम् असौ **नेतु-कामस्** स्व-भूम्ना  
+सत्-पाथेयं किम् अपि **विदधे** सारथिस् सर्व-नेता ॥ ६७ ॥
+</details>
+
+
+<details><summary>English</summary>
+
+(2) Many **are** the paths **prescribed** (in the śrutis) (Karma yoga, Jñāna yoga and Bhakti yoga),  
+they **are** hard to **understand** and impossible of **adoption**  
+owing to the restrictions and **observances enjoined** for them;  
+the fruit to be **attained** by **pursuing** them  
+**is** at too great a distance  
+and (above all) they **are** unsuitable for simple folk (destitute of intelligence and ability)  
+
+To us who **feel** anxious on these accounts,  
+(He who **is**) the easy highway, the charioteer and the guide of all men,  
+**has**, by His grace, **enjoined** certain victuals (the carama śloka) for the journey  
+in order to **lead us** to His own feet 
+without any hindrances.
+</details>
+
+<details><summary>Español</summary>
+
+(2) Muchos **son** los caminos **prescritos** (en los śrutis) (Karma yoga, Jñāna yoga y Bhakti yoga),  
+**son** difíciles de **comprender** e imposibles de **adoptar**  
+por las restricciones y **observancias** que se les **imponen**;  
+el fruto que se **obtendrá** **persiguiéndolos**  
+**está** a una distancia demasiado grande  
+y (sobre todo) **son** inadecuados para gente sencilla (desprovista de inteligencia y habilidad)  
+
+A nosotros que **nos sentimos** ansiosos por estas cuentas,  
+(El que **es**) el camino fácil, el auriga y el guía de todos los hombres,  
+**ha**, por Su gracia, **ordenado** ciertos víveres (el carama śloka) para el viaje.  
+para **guiarnos** a Sus propios pies 
+sin ningún obstáculo.
+</details>
+
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 दुर्विज्ञानैर्नियमगहनैर्दूरविश्रान्तिदेशैः  
-बालानर्हैबहुभिरयनैश्शोचतान्नस्सुपन्थाः ।  
+बालानर्हैर्बहुभिरयनैश्शोचतान्नस्सुपन्थाः ।  
 निष्प्रत्यूहं निजपदमसौ नेतुकामस्स्वभूम्ना  
 सत्पाथेयं किमपि विदधे सारथिस्सर्वनेता ॥ ६७ ॥
 </details>
 
-(1) Śrī Kṛṣṇa, who stands close to the Upaniṣads and from whom, as from the boundless ocean of mercy, came of its own accord, the śloka (Carama śloka) which puts an end to the sorrows of all men, - by seeking Him as our refuge in[^104] accordance with the injunction (contained in that śloka), and as the eternal dharma (Siddhopāya), we feel happy with our sins extinguished and free from (all) doubts and fears.
 
-[^104]: or by good luck (vidhinā).
+<details><summary>४२तमाहोबिल-यतिः</summary>
 
-(2) Many are the paths prescribed (in the śrutis) (Karma yoga, Jñāna yoga and Bhakti yoga), they are hard to understand and impossible of adoption owing to the restrictions and observances enjoined for them; the fruit to be attained by pursuing them is at too great a distance and (above all) they are unsuitable for simple folk (destitute of intelligence and ability) to us who feel anxious on these accounts, (He who is) the easy highway, the charioteer and the guide of all men, has, by His grace, enjoined certain victuals (the carama śloka) for the journey in order to lead us to His own feet without any hindrances.
+मेले अर्जनऩुडैय शोकापनोदनार्थमात्रमऩ्ऱिक्के मिगवुम् कष्टप्पट्टुम् अऱियक् कूडाददुगळायुम्, अऱिन्दालुम् अनुष्ठिक्कमुडियाददुगळायुम्, अनुष्ठिक्कप्पुक्कालुम् चिरकालसाध्यफलङ्गळायुमुळ्ळ कर्मयोगज्ञानयोगभक्तियोगरूपमार्गङ्गळैप् पार्त्तु शोकाविष्टर्गळाय् अकिञ्चनर्गळाऩ नमक्कागवुमऩ्ऱो ताऩे सत्पथऩाय् अदावदु निरपेक्षोपायऩाय् सत्पाथेयमाऩ शरणागतियै विधित्तरुळिऩार् ऎऩ्ऱु अवऩुडैय गुणङ्गळिले ईडुबडुगिऱार् दुर्विज्ञानैरित्यादिना । दुर्विज्ञानैः - कष्टप्पट्टुम् अऱियमुडियाददुगळाय्, नियमगहनैः – नियमङ्गळाले अशक्यानुष्ठेयङ्गळाय्, दूरविश्रान्तिदेशैः - दूरमाऩ अदावदु चिरकालभावियाऩ फलदशैयैयुडैयवैगळाय्, अत एव बालानर्हैः – अकिञ्चनर्गळुक्कु चिन्तिक्कवुम् अनर्हङ्गळाय्, बहुभिः – नानाप्रकारङ्गळाऩ, अयनैः – कर्मयोगज्ञानयोगभक्तियोग-रूपोपायङ्गळाले, अदावदु उपायदर्शनचिन्तनङ्गळाले, शोचतां – सर्वदा शोकित्तुक् कॊण्डिरुक्किऱ, नः - नमक्कु, सुपन्थाः - सुलभोपायऩाय्, अदावदु तत्तदुपायङ्गळाले यपेक्षैयऱ तत्तदुपायस्थानत्तिल् ताऩे निऱ्किऱवऩाय्क्कॊण्डु, नः - नम्मै, निष्प्रत्यूहं - ऒरुविद विघ्नमुमिऩ्ऱिक्के, स्वभूम्ना - तऩ्ऩुडैय माहात्मियत्ताले, निजपदं - तमक्कु असाधारणमाऩ परमपदत्तै, नेतुकामः - नयिप्पिक्कवेण्डुमॆऩ्गिऱ आसैयैयुडैय, सर्वनेता – सर्वनियन्तावायिरुन्दु वैत्ते, सारथिः - आश्रितवात्सल्यत्ताले मायप्पोर्त्तेर्प्पागऩाग निऩ्ऱ, असौ - इन्द पार्थसारथियाऩवऩ्, किमपि – अनिर्वचनीयमाऩ, अदावदु ‘‘सत्कर्मनिरताश्शुद्धास्साङ्ख्ययोगविदस्तथा । नार्हन्ति शरणस्थस्य कलां कोटितमीमपि’’ ऎऩ्ऱु कॊण्डाडप्पट्ट, सत्पाथेयं – पथि साधु –पाथेयं, अदावदु अर्चिरादिगमनयोग्यमाऩ शरणागतियै, इङ्गु सच्छब्दत्ताले सर्वाधिकारि साधारणत्वमुम्, सर्वानिष्टनिवर्तनक्षमत्वमुम्, सर्वेष्टसाधनत्वमुम्, सुकरत्वमुम्, सकृत्कर्तव्यत्वमुम्, शीघ्रफलप्रदत्वमुम्, प्रतिबन्धानर्हत्वमुम्, उपायान्तरप्रयोगासहत्वादिगळुम् विवक्षितङ्गळ्। विदधे – ‘‘मामेकं शरणं व्रज’’ ऎऩ्ऱु विधित्ताऩ्। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-ऒण्डॊडियाळ् तिरुमगळुन्दानुमागि यॊरुनिनैवा  
-लीऩ्ऱ वुयिरॆल्लामुय्य  
-वण्डुवरै नगर् वाऴ वसुदेवऱ्‌काय् मन्न वर्क्कुत्तेर्प्पागनागि  
-निऩ्ऱ तण्डुळवमलर्मार्बन् ऱाने सॊन्नतनित्तरुम न्दानॆमक्काय्त् तन्नै  
-यॆऩ्ऱुङ् गण्डु कळित्तडि सूड विलक्काय्  
-निऩ्ऱ कण्बुदैयल् विळैयाट्टैक् कऴिक्किऩ्ऱाने. ॥ 41 ॥
+ऒण्+++(=भा)+++-+तॊडियाळ्+++(=कङ्कणा)+++ तिरु-मगळुन् तानुम् आगिय् ऒरु निनैवाल्  
+**ईऩ्ऱव्**+++(=सृष्ट)+++ उयिर् ऎल्लाम् **उय्य**+++(=उज्जीवनाय)+++  
+वण्+++(=उदार)+++-+तुवरै+++(=द्वारका)+++-नगर्-वाऴ वसुदेवऱ्‌क् **आय्**, मन्नवर्क्कुत्+++(=राज्ञे)+++ तेर्प्+++(=रथ)+++-पाकन् **आगि**  
+**निऩ्ऱ**, तण्-+तुळव+++(=तुलसी)+++-मलर्-मार्बन् +ताने **सॊन्न** तनिद्-धरुमन् दान् ऎमक्क् **आय्त्**, तन्नैय्  
+ऎऩ्ऱुङ् **कण्डु**, **कळित्त्**+++(=नन्दित्वा)+++ अडि +++(शिरसि)+++ **चूट**, विलक्क्+++(=विलक्षणम्→प्रतिकूलम्)+++ **आय्**  
+**निऩ्ऱ** कण्-पुदैयल्-विळैयाट्टैक् **कऴिक्किऩ्ऱाने**. ॥ 41 ॥
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
