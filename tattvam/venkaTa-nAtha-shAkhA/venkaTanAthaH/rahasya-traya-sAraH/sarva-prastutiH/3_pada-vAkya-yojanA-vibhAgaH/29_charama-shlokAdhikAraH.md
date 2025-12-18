@@ -1094,7 +1094,7 @@ y con **renuncia** a los frutos de todas las acciones”.
 </details>
 
 
-## सर्वधर्मान्
+## प्रतिज्ञा
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1141,7 +1141,7 @@ las **interpretaciones dadas** de este śloka por (**comentaristos**) tan perver
 
 <details><summary>मूलम्</summary>
 
-इन्द श्लोकत्तुक्कु शङ्करादिकुदृष्टिकळ् सॊल्लुम् पॊरुळ् कळॆल्लाम् तात्पर्यचन्द्रिकैयिलुम् निक्षेपरक्षैयिलुम् परक्क दूषित्तोम्। इङ्गु सारमाऩ अर्थङ्गळै सत्संप्रदायसिद्धमाऩबडिये सॊल्लुगिऱोम्। 
+इन्द श्लोकत्तुक्कु शङ्करादिकुदृष्टिकळ् सॊल्लुम् पॊरुळ् कळॆल्लाम् तात्पर्यचन्द्रिकैयिलुम् निक्षेपरक्षैयिलुम् परक्क दूषित्तोम्। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1150,17 +1150,270 @@ las **interpretaciones dadas** de este śloka por (**comentaristos**) tan perver
 सत्-संप्रदाय-सिद्धम् आऩ बडिये सॊल्लुगिऱोम्। 
 </details>
 
+<details><summary>English</summary>
+
+Here **we will state** the best and most appropriate meanings  
+as **established** in the tradition of wise men.  
+</details>
+
+<details><summary>Español</summary>
+
+Aquí **indicaremos** los mejores y más apropiados significados.  
+como **establecido** en la tradición de los sabios.
+</details>
+
 <details><summary>मूलम्</summary>
 
 इङ्गु सारमाऩ अर्थङ्गळै सत्संप्रदायसिद्धमाऩबडिये सॊल्लुगिऱोम्। 
 </details>
 
+## उपाय-विधानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Here we will state the best and most appropriate meanings as established in the tradition of wise men. The first half of this (śloka) enjoins the
+इदिल् पूर्वार्धम् उपाय-विधायकम्; 
+</details>
 
-upāya, the second half is the śeṣa which is subordinate or supplementary to it by way of indication of the end to be attained (by that upāya). Therefore the main purport of this śloka is to prescribe the upāya. Dharma is a means of attaining an object which can be understood solely from the śāstra. The use of the plural form, dharmān, indicates the manifold nature of the dharmas enjoined in the Śāstra as the means of attaining the desired objects or ends. The word sarva (all) suggests that (these dharmas) have certain accessories or aṅgas. There is certainly no impropriety in calling the accessories to dharma by the word dharma. If (on the other hand) we interpret the word sarva (all) as the opposite of 'one', it would indicate the manifoldness of the aṅgīs (the dharmas themselves).
+<details><summary>English</summary>
 
-Though the word dharma is used without any qualification or restriction, yet what is intended (by the word) here is the various kinds of upāsana, or ineditation prescribed for the attainment of mokṣa in the śāstras with all their accessories (such kinds of meditation as dahara vidyā, sadvidyā and Śāṇḍilyavidyā). The knowledge of Puruṣottama (which is praised highly in the Gitā (Chap. XI) is conclusively shown in (Śrī Rāmānuja's) Gitābhāṣya and elsewhere as leading merely to the knowledge of the Truth or Reality which is of help to all vidyās or forms of meditation; the knowledge of the truth concerning the avatārs (of Bhagavān) is shown in Ch. IV there as the cause of the adopted upāsanas yielding their fruit quickly, residence in places where there are temples of Nārāyaṇa and the like are also shown to make the upāsanas effective by the removal or extinction of those sins which stand in the way of the upāsanas bearing fruit. Therefore it is not proper to consider them as direct and primary means of attaining mokṣa and to state that the plural form of dharma, viz, dharmān is used to include these also, (for they are only mediate culises of mokṣa and not direct causes like the upāsanās). This plural form dharmān is significant in as much as it refers to such different and many vidyās, as Śāṇḍilya vidyā and dahara vidyā even without the three mentioned above ((viz) the knowledge of Puruṣottama and of the avatars and residence in holy places , for it has been said  “The vidyās are many, as their names and the like are different;" there is no impropriety even if we take the plural to signify the manifoldness of the aṅgī's (forms of meditation) and of the aṅgas or their accessories.
+The first half of this (śloka) **enjoins** the upāya, 
+</details>
+
+<details><summary>Español</summary>
+
+La primera mitad de este (śloka) **ordena** el upāya,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदिल्पूर्वार्धमुपायविधायकम्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्तरार्धम् फल-निर्देशादि-मुखत्ताले विधि-शेषम्। 
+</details>
+
+<details><summary>English</summary>
+
+the second half **is** the śeṣa which is subordinate or supplementary to it  
+by way of **indication** of the end to be **attained** (by that upāya). 
+</details>
+
+<details><summary>Español</summary>
+
+la segunda mitad **es** el śeṣa que está subordinado o suplementario a él  
+a modo de **indicación** del fin a **alcanzar** (por ese upāya).
+</details>
+
+<details><summary>मूलम्</summary>
+
+उत्तरार्धम् फल निर्देशादिमुखत्ताले विधिशेषम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् इश् श्लोकम् उपाय-विधान-प्रधानम्। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore the main purport of this śloka **is** to **prescribe** the upāya. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, el objetivo principal de este śloka **es prescribir** el upāya.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् इश् श्लोकम् उपायविधानप्रधानम्। 
+</details>
+
+## धर्मान्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धर्मम् आवदु;  
+शास्त्रमे कॊण्ड् अऱिय वेण्डिय् इरुक्कुम्  
+पुरुषार्थ-साधनम्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Dharma **is** a means of **attaining** an object  
+which **can be understood** solely from the śāstra.  
+</details>
+
+<details><summary>Español</summary>
+
+Dharma **es** un medio para **alcanzar** un objeto  
+que **puede entenderse** únicamente desde el śāstra.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+धर्ममावदु; शास्त्रमे कॊण्डऱियवेण्डि यिरुक्कुम् पुरुषार्थसाधनम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘धर्मान्’’ ऎऩ्गिऱ बहु-वचनत्ताले  
+अभिमत-साधनम् आग  
+शास्त्र-चोदितङ्गळ् आऩ धर्मङ्गळ्-उडैय बाहुल्यत्तैच् चॊल्लुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+The use of the plural form, dharmān, **indicates** the manifold nature of the dharmas **enjoined** in the Śāstra  
+as the means of **attaining** the **desired** objects or ends. 
+</details>
+
+<details><summary>Español</summary>
+
+El **uso** de la forma plural, dharmān, **indica** la naturaleza múltiple de los dharmas **impuestos** en el Śāstra.  
+como medio para **alcanzar** los objetos o fines **deseados**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘धर्मान्’’ ऎऩ्गिऱ बहुवचनत्ताले अभिमतसाधनमाग शास्त्रचोदितङ्गळाऩ धर्मङ्गळुडैय बाहुळ्यत्तैच्चॊल्लुगिऱदु। 
+</details>
+
+## सर्व
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-शब्दत्ताले स-परिकरम् आऩ निलैयै विवक्षिक्किऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+The word sarva (all) **suggests** that (these dharmas) **have** certain accessories or aṅgas. 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra sarva (todos) **sugiere** que (estos dharmas) **tienen** ciertos accesorios o aṅgas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वशब्दत्ताले सपरिकरमाऩ निलैयै विवक्षिक्किऱदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धर्म-परिकरङ्गळैयुम् धर्मम् ऎऩ्ऱु सॊल्लक् कुऱैय् इल्लैय् इऱे।
+</details>
+
+<details><summary>English</summary>
+
+There **is** certainly no impropriety in **calling** the accessories to dharma by the word dharma. 
+</details>
+
+<details><summary>Español</summary>
+
+Ciertamente **no hay** ninguna impropiedad en **llamar** a los accesorios del dharma con la palabra dharma.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+धर्मपरिकरङ्गळैयुम् धर्ममॆऩ्ऱुसॊल्लक्कुऱैयिल्लैयिऱे।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस् "सर्व"-शब्दत्तै  
+"एक"-शब्द-प्रतिसम्बन्धिय् आग योजिक्कुम् बोदु  
+इदु अङ्गिगळ् आऩ नाना-धर्मङ्गळिऩ्-उडैय कार्त्स्न्यत्तैच् चॊल्लुगिऱदु।
+</details>
+
+<details><summary>English</summary>
+
+If (on the other hand) **we interpret** the word "sarva" (all) as the opposite of 'one',  
+it **would indicate** the manifoldness of the aṅgīs (the dharmas themselves).
+</details>
+
+<details><summary>Español</summary>
+
+Si (por otro lado) **interpretamos** la palabra "sarva" (todos) como lo opuesto a "uno",  
+**indicaría** la diversidad de los aṅgīs (los dharmas mismos).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इस् सर्वशब्दत्तै एकशब्दप्रति-सम्बन्धियाग योजिक्कुम्बोदु इदु अङ्गिकळाऩ नानाधर्मङ्गळिऩुडैय कार्त्स्न्यत्तैच् चॊल्लुगिऱदु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि पॊदुविले+++(=सामान्यतया)+++ सॊऩ्ऩालुम्  
+इङ्गु प्रकरण-वशत्ताले मोक्षार्थम् आग  
+शास्त्र-विहितङ्गळ् आय्, स-परिकरङ्गळ् आय्, नाना-प्रकारङ्गळ् आऩ उपासनङ्गळैय् ऎल्लाञ् जॊल्लुगैयिले तात्पर्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+Though the word dharma **is** used without any qualification or restriction,  
+yet what **is intended** (by the word) here **is** the various kinds of upāsana, or **meditation**  
+**prescribed** for the **attainment** of mokṣa in the śāstras with all their accessories  
+(such kinds of **meditation** as dahara vidyā, sadvidyā and Śāṇḍilyavidyā). 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque la palabra dharma **se** usa sin ninguna calificación o **restricción**,  
+sin embargo, lo que **se pretende** (con la palabra) aquí **es** los diversos tipos de upāsana, o **meditación**  
+**prescrito** para **el logro** de mokṣa en los śāstras con todos sus accesorios  
+(tipos de **meditación** como dahara vidyā, sadvidyā y Śāṇḍilyavidyā).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि पॊदुविले सॊऩ्ऩालुम् इङ्गु प्रकरणवशत्ताले मोक्षार्थमाग शास्त्रविहितङ्गळाय् सपरिकरङ्गळाय् नानाप्रकारङ् गळाऩ उपासनङ्गळैयॆल्लाञ् जॊल्लुगैयिले तात्पर्यम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुषोत्तमत्व-ज्ञानम्  
+सर्व-विद्यैगळुक्कुम् उपकारकम् आऩ तत्त्व-ज्ञान-मात्रम् आगवुम्, 
+</details>
+
+<details><summary>English</summary>
+
+The **knowledge** of Puruṣottama (which **is praised** highly in the Gitā Chap. XI) -   
+
+as **leading** merely to the **knowledge** of the Truth or Reality  
+which **is** of help to all vidyās or forms of meditation;  
+</details>
+
+<details><summary>Español</summary>
+
+El **conocimiento** de Puruṣottama (que **es muy elogiado** en el Gitā Cap. XI) -   
+
+como **conduciendo** simplemente al **conocimiento** de la Verdad o Realidad  
+que **es** de ayuda para todos los vidyās o formas de **meditación**;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुरुषोत्तमत्वज्ञानम् सर्वविद्यैकळुक्कुमुपकारकमाऩ तत्त्वज्ञानमात्रमागवुम्, 
+</details>
+
+
+**is** conclusively **shown** in (Śrī Rāmānuja's) Gitābhāṣya and elsewhere  
+
+
+
+the knowledge of the truth concerning the avatārs (of Bhagavān) is shown in Ch. IV there as the cause of the adopted upāsanas yielding their fruit quickly, residence in places where there are temples of Nārāyaṇa and the like are also shown to make the upāsanas effective by the removal or extinction of those sins which stand in the way of the upāsanas bearing fruit. Therefore it is not proper to consider them as direct and primary means of attaining mokṣa and to state that the plural form of dharma, viz, dharmān is used to include these also, (for they are only mediate culises of mokṣa and not direct causes like the upāsanās). This plural form dharmān is significant in as much as it refers to such different and many vidyās, as Śāṇḍilya vidyā and dahara vidyā even without the three mentioned above ((viz) the knowledge of Puruṣottama and of the avatars and residence in holy places , for it has been said  “The vidyās are many, as their names and the like are different;" there is no impropriety even if we take the plural to signify the manifoldness of the aṅgī's (forms of meditation) and of the aṅgas or their accessories.
 
 THE MEANING OF PARITYAJYA (HAVING GIVEN UP). page528
 
