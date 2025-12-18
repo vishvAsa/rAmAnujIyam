@@ -3,7 +3,7 @@ title = "२९ चरमश्लोकाधिकारः"
 
 +++
 
-## प्रवेशः
+## प्रशस्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ॥ श्रीः ॥  
@@ -167,11 +167,48 @@ sin ningún obstáculo.
 
 ऒण्+++(=भा)+++-+तॊडियाळ्+++(=कङ्कणा)+++ तिरु-मगळुन् तानुम् आगिय् ऒरु निनैवाल्  
 **ईऩ्ऱव्**+++(=सृष्ट)+++ उयिर् ऎल्लाम् **उय्य**+++(=उज्जीवनाय)+++  
-वण्+++(=उदार)+++-+तुवरै+++(=द्वारका)+++-नगर्-वाऴ वसुदेवऱ्‌क् **आय्**, मन्नवर्क्कुत्+++(=राज्ञे)+++ तेर्प्+++(=रथ)+++-पाकन् **आगि**  
-**निऩ्ऱ**, तण्-+तुळव+++(=तुलसी)+++-मलर्-मार्बन् +ताने **सॊन्न** तनिद्-धरुमन् दान् ऎमक्क् **आय्त्**, तन्नैय्  
-ऎऩ्ऱुङ् **कण्डु**, **कळित्त्**+++(=नन्दित्वा)+++ अडि +++(शिरसि)+++ **चूट**, विलक्क्+++(=विलक्षणम्→प्रतिकूलम्)+++ **आय्**  
+वण्+++(=उदार)+++-+तुवरै+++(=द्वारका)+++-नगर्-**वाऴ** वसुदेवऱ्‌क् **आय्**, मन्नवर्क्कुत्+++(=राजभ्यः)+++ तेर्प्+++(=रथ)+++-पाकन् **आगि**  
+**निऩ्ऱ**, तण्+++(=शीतल)+++-+तुळव+++(=तुलसी)+++-मलर्-मार्बन् +ताने **सॊन्न** तनिद्-धरुमन्+++(→सिद्धोपायः)+++ दान् ऎमक्क् **आय्त्**, तन्नैय्  
+ऎऩ्ऱुङ्+++(=सदा)+++ **कण्डु**, **कळित्त्**+++(=नन्दित्वा)+++ अडि +++(शिरसि)+++ **चूट**, विलक्क्+++(=विलक्षणम्→प्रतिकूलम्)+++ **आय्**  
 **निऩ्ऱ** कण्-पुदैयल्-विळैयाट्टैक् **कऴिक्किऩ्ऱाने**. ॥ 41 ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+संभूय विलक्षण-हस्त-वलयया श्रीदेव्या स्वयम् एक-संकल्पेन सृष्टाः -  
+सर्वे चेतनाः यथोज्जीवेयुस् तथा,  
+विलक्षण-द्वारकानगरी-क्षेमानुगुणं वसुदेव-पुत्र-भूतो  
+राज्ञां रथे सारथीभूय स्थितः  
+शीतल-तुलसी पुष्प-वक्षाः,  
+स्वयम् एवास्माकं स्वेनैवोक्ताद्वितीय-धर्मो भवन्,  
+स्वं सदा दृष्ट्वा हृष्ट्वा चरणयोर् उत्तंसनस्य प्रतिबन्धकी भूतां चक्षुः-पिधान-लीलां निवर्तयति ॥ 
+</details>
+
+<details><summary>English</summary>
+
+In order to **afford salvation** to all the beings **created** with one mind by Himself and Lakṣmī of shining bracelets,  
+He **became** the son of Vāsudeva  
+so that the beautiful city of Dwaraka **might prosper**.  
+He **was** then **pleased** to be the charioteer of the princes (the Pandavas)  
+and He **has become** for us the unique dharma (Siddhopāya )  
+which He, with Tulasi flowers **adorning** His chest, **has** Himself **declared** to us  
+and **puts** a stop to the game of blind-man's buff  
+which **stood** in the way of our **seeing**, **enjoying** and **bearing** His feet (in Vaikuṇṭha) on our head.
+</details>
+
+<details><summary>Español</summary>
+
+Para **brindar salvación** a todos los seres **creados** con una sola mente por Él mismo y Lakṣmī de brazaletes brillantes,  
+Él **se convirtió** en el hijo de Vāsudeva.  
+para que la hermosa ciudad de Dwaraka **pueda prosperar**.  
+
+Él **estaba** entonces **complacido** de **ser** el auriga de los príncipes (los Pandavas)  
+y Él **se ha convertido** para nosotros en el dharma único (Siddhopāya)  
+que Él, con flores de Tulasi **adornando** Su pecho, Él mismo **nos ha declarado**  
+y **pone** fin al **juego** de la gallina ciega  
+que **se interponía** en el camino para que **ver**, **disfrutar** y **llevar** Sus pies (en Vaikuṇṭha) sobre nuestra cabeza.
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -183,13 +220,615 @@ sin ningún obstáculo.
 निऩ्ऱ कण्बुदैयल् विळैयाट्टैक् कऴिक्किऩ्ऱाने. ॥ 41 ॥
 </details>
 
-In order to afford salvation to all the beings created with one mind by Himself and Lakṣmī of shining bracelets, He became the son of Vāsudeva so that the beautiful city of Dwaraka might prosper. He was then pleased to be the charioteer of the princes (the Pandavas) and He has become for us the unique dharma (Siddhopāya ) which He, with Tulasi flowers adorning His chest, has Himself declared to us and puts a stop to the game of blind-man's buff which stood in the way of our seeing, enjoying and bearing His feet (in Vaikuṇṭha) on our head.
+
+## उद्भवः
+<details><summary>English</summary>
 
 INTRODUCTION TO CARAMA ŚLOKA
+</details>
 
-This Nārāyaṇa, the Lord of Śrī, who abides (for ever in the ocean of milk has left His serpent-bed and arrived at the city of Madhura." As stated in this śloka, the Supreme Ruler, the Lord of Śrī, incarnated in the beautiful city of Dwaraka in order to protect the good, to destroy the wicked and to establish dharma on a firm footing; He became easily accessible to everyone, and assumed the role of a messenger to the Pandavas who had sought His protection, as stated in the passage : "On being thus advised, the sons of Pritha and the twins made namaskarams to Janārdana, O best of men, along with Draupadi." He made Arjuna the warrior in the chariot and acted as his charioteer to do his bidding. This Arjuna realised that the Lord of all had determined to slay his enemies using him as a (mere) instrument, and that the destruction of his kinsmen was certain. He became troubled in mind by inopportune affection and inopportune compassion and by the fear that the slaying of his ācharyas and others, though they appeared (against him) in war-like trim, was a sin. So he wanted to know what was the proper thing for him to do and begged (Śrī Kṛṣṇa) saying, "Be pleased to tell me what, you feel sure, is to my lasting benefit. I am your disciple and have sought your protection. Therefore advise me as to what I should do”. In order to dispel his grief, the Lord explained to him the eternal and essential nature of the soul or self (ātman) which is different from the body and the like (the senses etc.) and likewise karma  yoga and jnānu yoga, which are, to the man who understands this essential nature, the mediate means for attaining the supreme goal and also bhakti  yoga which has been enjoined as the primary and direct means of attaining it, as also all its accessories. Though Arjuna was eager to attain this supreme end quickly, he thought it too hard to perform it (bhakti -yoga) with all its accessories and though he had the knowledge and the ability needed for its adoption, he realised that the nature of this upāya was such that it would secure
+<details><summary>Español</summary>
 
-the end in view only after a very long period of adoption and after unceasing attention and that the end in view could not be attained quickly, So Arjuna became overwhelmed with despair. Under the guise of teaching Arjuna, the ācārya of the Gitopanishad is graciously pleased, out of His infinite compassion, to explain this most secret upāya (viz. prapatti) in the carama śloka which is the conclusion of the teaching and which leaves nothing unsaid. Prapatti which is one of the upāyas that be enjoined as optional in the śloka: "I can be attained by those who desire to serve me only by bhakti  or by prapatti. There is no other way of attaining ine", is the means alike, of attaining His feet and all other things that are desired, for it has been said, “Only so long as prapatti which extinguishes all sins is not performed, only so long will there be suffering, etc." It can be performed without any accessories other than the determination to do what is agreeable to the Lord and the avoidance of what is adverse to Him and the like. It is easier of performance and can be done in just an instant. Since the Supreme Lord, who is the Saviour, has Himself taught this truth which is well known from the śrutis, it has also the sanction of the ācārya (for Bhagavān is Himself the ācārya here). The permission of the ācārya is prescribed in such treatises as Viṣṇutattva as follows: - "Giving up all object of desire and the karmas by which they can be secured, Śaraṇāgati with its five aṅgas (the aṅgas and the aṅgī being six ) should be performed with the permission of the ācārya in accordance with the rules prescribed in the śāstras and with renunciation of the fruits of all actions.”
+INTRODUCCIÓN A CARAMA ŚLOKA
+</details>
+
+### अवतारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘एष नारायणश् श्रीमान्  
+क्षीरार्णव-निकेतनः ।  
+नाग-पर्यङ्कम् **उत्सृज्य**  
+ह्य् **आगतो** मधुरां पुरीम्॥’’  
+(हरिवंशः ११३-६२) 
+
+ऎऩ्गिऱबडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘एष नारायणश् श्रीमान्  
+क्षीरार्णव-निकेतनः ।  
+नाग-पर्यङ्कम् **उत्सृज्य**  
+ह्य् **आगतो** मधुरां पुरीम्॥’’  
+(हरिवंशः ११३-६२) 
+
+इत्य्-उक्त-रीत्या 
+</details>
+
+<details><summary>English</summary>
+
+> This Nārāyaṇa, the Lord of Śrī, who **abides** (for ever) in the ocean of milk  
+**has left** His serpent-bed  
+and **arrived** at the city of Madhura." 
+
+As **stated** in this śloka, 
+</details>
+
+<details><summary>Español</summary>
+
+> Este Nārāyaṇa, el Señor de Śrī, que **habita** (para siempre) en el océano de leche  
+**ha abandonado** Su lecho de serpientes  
+y **llegó** a la ciudad de Madhura." 
+
+Como **se dice** en este śloka,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘एष नारायणश्श्रीमान् क्षीरार्णवनिकेतनः । नागपर्यङ्कमुत्सृज्य ह्यागतो मधुरां पुरीम्’’(हरिवंशः ११३-६२) ऎऩ्गिऱबडिये
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रियःपतिय् आऩ सर्वेश्वरऩ्  
+साधु-परित्राण-- दुष्-कृद्-विनाश-- धर्म-संस्थापनङ्गळुक्क् आग
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[३५०]]
+
+श्रियःपत्यौ सर्वेश्वरे साधु-परित्राण-- दुष्-कृद्-विनाश-- धर्म-संस्थापनार्थं  
+</details>
+
+
+<details><summary>English</summary>
+
+the Supreme Ruler, the Lord of Śrī,  
+in order to **protect** the good,  
+to **destroy** the wicked  
+and to **establish** dharma on a firm footing;  
+
+</details>
+
+<details><summary>Español</summary>
+
+el Gobernante Supremo, el Señor de Śrī,  
+para **proteger** el bien,  
+para **destruir** a los malvados  
+y **establecer** el dharma sobre una base firme;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रियःपतियाऩ सर्वेश्वरऩ् साधुपरित्राण दुष्कृद्विनाश धर्मसंस्थापनङ्गळुक्काग
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वण्+++(=सु)+++-डुवरा+++(=द्वारका)+++-पदि+++(=क्षेत्र)+++-मऩ्ऩऩ्+++(=राट्)+++ आय्  
+वन्द् अवदरित्त् अरुळि  
+सर्व-सुलभऩ् आय्, 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+विलक्षण-द्वारका-क्षेत्राधीशो भूत्वा  
+एत्यावतीर्य  
+(द्वारकाक्षेत्राधीशत्व--प्राप्त्य्-अर्हम् अवतीर्य)  
+सर्व-सुलभी भूते, 
+</details>
+
+<details><summary>English</summary>
+
+**incarnated** in the beautiful city of Dwaraka,  
+**became** easily **accessible** to everyone,  
+</details>
+
+<details><summary>Español</summary>
+
+**encarnado** en la hermosa ciudad de Dwaraka,  
+**se volvió** fácilmente **accesible** para todos,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वण्डुवराबदिमऩ्ऩऩाय् वन्दवदरित्तरुळि सर्वसुलभऩाय्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘द्रौपद्या सहितास् सर्वे  
+नमश् चक्रुर् जनार्दनम्॥’’  
+(भारतम् आरण्य-पर्व १९२-५६) 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘द्रौपद्या सहितास् सर्वे  
+नमश् चक्रुर् जनार्दनम्॥’’  
+(भारतम् आरण्य-पर्व १९२-५६) 
+
+इत्य्-उक्त-रीत्या 
+</details>
+
+<details><summary>English</summary>
+
+as **stated** in the passage :  
+
+> "On **being** thus **advised**,  
+the sons of Pritha and the twins **made** namaskarams to Janārdana, O best of men, along with Draupadi." 
+</details>
+
+<details><summary>Español</summary>
+
+como **indicado** en el pasaje:  
+
+> "Al **ser** así **aconsejado**,  
+los hijos de Pritha y los gemelos **hicieron** namaskarams a Janārdana, oh el mejor de los hombres, junto con Draupadi."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘द्रौपद्या सहितास्सर्वे नमश्चक्रुर्जनार्दनम्’’(भारतम् आरण्य-पर्व १९२-५६) ऎऩ्गिऱबडिये 
+</details>
+
+### नियाम्यताभिनयः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शरणागतर् आऩ पाण्डवर्गळुक्कु  
+"इऩ्ऩार्+++(=ईदृशानां)+++ दूतऩ्" ऎऩ निऩ्ऱु
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+शरणागतानां पाण्डवानां कृते,  
+'एषां दूतः' इत्य् अवस्थाय 
+</details>
+
+
+<details><summary>English</summary>
+
+and **assumed** the role of a **messenger** to the Pandavas  
+who **had sought** His **protection**,  
+</details>
+
+<details><summary>Español</summary>
+
+y **asumió** el papel de **mensajero** para los Pandavas  
+quien **había buscado** Su **protección**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+शरणागतराऩ पाण्डवर्गळुक्कु इऩ्ऩार्दूदऩॆऩ निऩ्ऱु
+</details>
+
+### नियामकत्वाभिज्ञानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्जुनऩै रथिय् आक्कित्  
+ताऩ् सारथिय् आय्  
+अवऩुक्कु विधेयऩाय् निऩ्ऱव् अळविले
+</details>
+
+<details><summary>English</summary>
+
+He **made** Arjuna the warrior in the chariot  
+and **acted** as his charioteer to do his bidding. 
+</details>
+
+<details><summary>Español</summary>
+
+Él **hizo** a Arjuna el guerrero en el carro  
+y **actuó** como su auriga para **cumplir** sus órdenes.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अर्जुनऩै रथियाक्कित् ताऩ् सारथियाय् अवऩुक्कु विधेयऩाय् निऩ्ऱवळविले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अर्जुनऩ्  
+तऩ्ऩै निमित्त-मात्रम् आगक् कॊण्डु  
+सर्वेश्वरऩ् तऩ् प्रतिपक्षङ्गळै निरसिक्क निऩ्ऱ निलैयैक् कण्डु 
+</details>
+
+<details><summary>English</summary>
+
+This Arjuna **realised** that the Lord of all  
+**had determined** to **slay** his enemies  
+**using** him as a (mere) instrument,  
+</details>
+
+<details><summary>Español</summary>
+
+Este Arjuna **se dio cuenta** de que el Señor de todo  
+**había decidido matar** a sus enemigos  
+**usándolo** como un (mero) instrumento,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्जुनऩ् तऩ्ऩै निमित्तमात्रमागक्कॊण्डु सर्वेश्वरऩ् तऩ् प्रतिपक्षङ्गळै निरसिक्क निऩ्ऱ निलैयैक् कण्डु 
+</details>
+
+### मोह-शोकः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बन्धु-विनाशम् सिद्धम् ऎऩ्ऱु निश्चयित्तु 
+</details>
+
+<details><summary>English</summary>
+
+and that the **destruction** of his kinsmen **was** certain. 
+</details>
+
+<details><summary>Español</summary>
+
+y que la **destrucción** de sus parientes **era** segura.
+</details>
+
+<details><summary>मूलम्</summary>
+
+बन्धुविनाशम् सिद्धमॆऩ्ऱु निश्चयित्तु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्थान-स्नेहत्ताले पिऱन्द शोकत्तालुम्  
+अस्थान-कृपैयालुम्  
+आचार्यादिगळ् युद्धोन्मुखरेय् आगिलुम्  
+अवर्गळ् वधत्ताले पापम् वरुगिऱद् ऎऩ्गिऱ भयत्तालुङ् कलङ्गि 
+</details>
+
+<details><summary>English</summary>
+
+He **became troubled** in mind  
+by inopportune affection and inopportune compassion  
+and by the fear that the **slaying** of his ācharyas and others,  
+though they **appeared** (against him) in war-like trim, **was** a sin.  
+</details>
+
+<details><summary>Español</summary>
+
+Él **se volvió preocupado** en mente  
+por afecto inoportuno y compasión inoportuna  
+y por el temor de que el **asesinato** de sus ācharyas y otros,  
+aunque **aparecieron** (contra él) con atuendos bélicos, **era** un pecado.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अस्थानस्नेहत्ताले पिऱन्द शोकत्तालुम् अस्थानकृपैयालुम् आचार्यादिगळ् युद्धोन्मुखरेयागिलुम् अवर्गळ् वधत्ताले पापम् वरुगिऱदॆऩ्गिऱ भयत्तालुङ् गलङ्गि 
+</details>
+
+### प्रार्थना
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऎदु हितम् ऎऩ्ऱु तॆळिय वेणुम् 
+
+ऎऩ्ऱु पार्त्तु 
+</details>
+
+<details><summary>English</summary>
+
+So he **wanted** to **know**  
+what **was** the proper thing for him **to do**  
+</details>
+
+<details><summary>Español</summary>
+
+Entonces él **quería saber**  
+¿Qué **era** lo correcto para él **hacer**?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎदु हितमॆऩ्ऱु तॆळियवेणुमॆऩ्ऱु पार्त्तु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यच्छ्रेयः स्यान् निश्चितं **ब्रूहि** तन् मे  
+शिष्यस् तेऽहं **शाधि** मां त्वां प्रपन्नम्’’  
+(गीता २-७)  
+
+ऎऩ्ऱु विण्णप्पञ् जॆय्य
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘यच्छ्रेयः स्यान् निश्चितं **ब्रूहि** तन् मे  
+शिष्यस् तेऽहं **शाधि** मां त्वां प्रपन्नम्’’  
+(गीता २-७)  
+
+</details>
+
+<details><summary>English</summary>
+
+and **begged** (Śrī Kṛṣṇa) **saying**,  
+
+> "**Be pleased** to **tell** me  
+what, you **feel** sure, **is** to my lasting benefit.  
+I **am** your disciple  
+and **have sought** your **protection**.  
+Therefore **advise** me as to what I **should do**”. 
+</details>
+
+<details><summary>Español</summary>
+
+y **rogó** (Śrī Kṛṣṇa) **diciendo**,  
+
+> "**Tenga el placer** de **decirmelo**  
+Lo que, **estás** seguro, **es** para mi beneficio duradero.  
+Yo **soy** tu discípulo  
+y **he buscado** tu **protección**.  
+Por lo tanto **aconsejame** lo que **debo hacer**”.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्’’(गीता २-७) ऎऩ्ऱु विण्णप्पञ्जॆय्य
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऩ्-उडैय शोकत्तै निवर्तिप् पिक्कैक्क् आग 
+</details>
+
+<details><summary>English</summary>
+
+In order to **dispel** his grief, 
+</details>
+
+<details><summary>Español</summary>
+
+Para **disipar** su dolor,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवऩुडैय शोकत्तै निवर्तिप् पिक्कैक्काग 
+</details>
+
+
+### गीता-सारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देहादि-व्यतिरिक्तम् आय्  
+पर-शेषतैक-रसम् आऩ नित्यात्म-स्वरूपत्तैयुम्, 
+</details>
+
+<details><summary>English</summary>
+
+the eternal and essential nature of the soul or self (ātman)  
+which **is** different from the body and the like (the senses etc.)  
+</details>
+
+<details><summary>Español</summary>
+
+la naturaleza eterna y esencial del alma o del yo (ātman)  
+que **es** diferente del cuerpo y cosas similares (los sentidos, etc.)
+</details>
+
+<details><summary>मूलम्</summary>
+
+देहादिव्यतिरिक्तमाय् परशेषतैकरसमाऩ नित्यात्मस्वरूपत्तैयुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस्-स्वरूपन् तॆळिन्द्-अवऩुक्कु  
+परम-पुरुषार्थ-लाभत्तुक्कु परं-परया कारणङ्गळ् आऩ  
+कर्म-योग--ज्ञान-योगङ्गळैयुम्, 
+</details>
+
+<details><summary>English</summary>
+
+and likewise karma yoga and jnāna yoga,  
+which **are**, to the man who **understands** this essential nature,  
+the mediate means for **attaining** the supreme goal 
+</details>
+
+<details><summary>Español</summary>
+
+and likewise karma yoga and jnāna yoga,  
+which **are**, to the man who **understands** this essential nature,  
+the mediate means for **attaining** the supreme goal 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इस्स्वरूपन् तॆळिन्दवऩुक्कु परमपुरुषार्थलाभत्तुक्कु परंपरया कारणङ्गळाऩ कर्मयोगज्ञानयोगङ्गळैयुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साक्षाद्-उपायम् आग चोदितम् आऩ भक्ति-योगत्तैयुम् स-परिकरम् आग उपदेशिक्क, 
+</details>
+
+<details><summary>English</summary>
+
+and also bhakti yoga  
+which **has been enjoined** as the primary and direct means of **attaining** it,  
+as also all its accessories
+
+(these) the Lord explained to him . 
+</details>
+
+<details><summary>Español</summary>
+
+y también bhakti yoga  
+que **ha sido ordenado** como el medio primario y directo para **alcanzarlo**,  
+como también todos sus accesorios
+
+(estos) el Señor le **explicó**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+साक्षादुपायमाग चोदितमाऩ भक्तियोगत्तैयुम् सपरिकरमाग उपदेशिक्क, 
+</details>
+
+### आकिञ्चन्य-शोकः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् परम-पुरषार्थत्तैक् कडुगप् पॆऱ वेणुम् ऎऩ्गिऱ त्वरैय् उण्डेय् आगिलुम् 
+</details>
+
+<details><summary>English</summary>
+
+Though Arjuna **was** eager to **attain** this supreme end quickly, 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque Arjuna **estaba** deseoso de **alcanzar** este fin supremo rápidamente,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप् परमपुरषार्थत्तैक् कडुगप् पॆऱवेणुमॆऩ्गिऱत्वरैयुण्डेयागिलुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स-परिकरम् आऩव् इव्व् उपायत्तिऩ्-उडैय दुष्करतैयिऩालुम् 
+</details>
+
+<details><summary>English</summary>
+
+he **thought** it too hard to **perform** it (bhakti -yoga) with all its accessories 
+</details>
+
+<details><summary>Español</summary>
+
+él **pensó** que era demasiado difícil **realizarlo** (bhakti-yoga) con todos sus accesorios
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सपरिकरमाऩविव् उपायत्तिऩुडैय दुष्करतैयिऩालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव् उपायानुष्ठानत्तुक्क् अपेक्षित-ज्ञान-शक्तिगळ् उण्डेय् आगिलुम् 
+</details>
+
+<details><summary>English</summary>
+
+and though he **had** the **knowledge** and the ability **needed** for its **adoption**, 
+</details>
+
+<details><summary>Español</summary>
+
+y aunque **tenía** el **conocimiento** y la habilidad **necesaria** para su **adopción**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव् उपायानुष्ठानत्तुक्कपेक्षितज्ञानशक्तिगळ् उण्डेयागिलुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनेकावधानत्तोडे कूड  
+चिर-काल-साध्यम् आऩ उपाय--स्व-भावतालेय्  
+अभिमतम् कडुगत् तलैक्-कट्टाद पडिय् इरुक्कैयालुम् 
+</details>
+
+<details><summary>English</summary>
+
+he **realised** that the nature of this upāya was such that it **would secure** the end in **view**  
+only after a very long period of **adoption**  
+and after unceasing **attention**  
+and that the end in view **could not be attained** quickly, 
+</details>
+
+<details><summary>Español</summary>
+
+él **se dio cuenta** de que la naturaleza de este upāya  
+**era** tal que **aseguraría** el fin en **visión**  
+sólo después de un período muy largo de **adopción**  
+y después de incesantes **atenciones**  
+y que el fin **perseguido no podría alcanzarse** rápidamente,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनेकावधानत्तोडे कूड चिरकालसाध्यमाऩ उपायस्वभावतालेयभिमतम् कडुगत् तलैक्कट्टाद पडियिरुक्कैयालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निरतिशय-शोकाविष्टऩ् आऩ अर्जुनऩै व्याजम् आगक् कॊण्डु  
+परम-कारुणिकऩ् आऩ गीतोपनिषद्-आचार्यऩ् 
+</details>
+
+<details><summary>English</summary>
+
+So Arjuna **became overwhelmed** with despair.  
+Under the guise of **teaching** Arjuna,  
+the ācārya of the Gitopanishad,  
+out of His infinite compassion,  
+</details>
+
+<details><summary>Español</summary>
+
+Entonces Arjuna **quedó abrumado** por la desesperación.  
+Con el pretexto de **enseñar** a Arjuna,  
+el ācārya del Gitopanishad,  
+por su infinita compasión,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निरतिशयशोकाविष्टऩाऩ अर्जुनऩै व्याजमागक् कॊण्डु परमकारुणिकऩाऩ गीतोपनिषदाचार्यऩ् 
+</details>
+
+
+
+**is** graciously **pleased**
+to **explain** this most secret upāya (viz. prapatti) in the carama śloka  
+which **is** the conclusion of the **teaching**  
+and which **leaves** nothing unsaid. 
+
+
+Prapatti which is one of the upāyas that be enjoined as optional in the śloka: "I can be attained by those who desire to serve me only by bhakti  or by prapatti. There is no other way of attaining ine", is the means alike, of attaining His feet and all other things that are desired, for it has been said, “Only so long as prapatti which extinguishes all sins is not performed, only so long will there be suffering, etc." It can be performed without any accessories other than the determination to do what is agreeable to the Lord and the avoidance of what is adverse to Him and the like. It is easier of performance and can be done in just an instant. Since the Supreme Lord, who is the Saviour, has Himself taught this truth which is well known from the śrutis, it has also the sanction of the ācārya (for Bhagavān is Himself the ācārya here). The permission of the ācārya is prescribed in such treatises as Viṣṇutattva as follows: - "Giving up all object of desire and the karmas by which they can be secured, Śaraṇāgati with its five aṅgas (the aṅgas and the aṅgī being six ) should be performed with the permission of the ācārya in accordance with the rules prescribed in the śāstras and with renunciation of the fruits of all actions.”
 
 SARVADHARMĀN ETC.page526
 

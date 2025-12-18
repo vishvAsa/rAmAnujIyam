@@ -295,7 +295,7 @@ and who concentrates on the soul Vasudeva as the cause of the entire Universe:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> तमेव विदित्वा अतिमृत्युमेति 
+> तम् एव विदित्वा अतिमृत्युमेति 
 
 > नान्यः पन्था अयनाय विद्यते 
 
@@ -333,6 +333,9 @@ Taittirīya Āraṇyaka III. xiii. 1; also Śvetāśvatara VI. 15.
 तद् एव श्रीभाष्ये ऽनुवर्तितं रामानुजेनेति च श्रीभाष्ये (ii.2.35-37)।  
 
 सम्बद्धम् - [TW](https://manasataramgini.wordpress.com/2005/03/26/dvijas-and-non-dvijas-in-the-shaiva-cults/)।
+
+> Many antinomian Kapalika rituals were first developed by Lakula-s/Kalamukha-s, the former just took it further. In his thesis Schwartz compares Ramanuja's description of the Kalamukha to the Pingalamata I believe; it matches up very well, but the latter is not Atimargic per se. - Andra 
+
 </details>
 
 
