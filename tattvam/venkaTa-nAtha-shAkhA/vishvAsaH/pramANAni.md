@@ -131,12 +131,17 @@ title = "प्रमाणानि"
 अपि त्व् आर्येषु शिष्टेषु प्रतिष्ठिततमत्वाद् इत्य् आह यामुन आगमप्रामाण्ये। 
 
 ### ब्रह्म-सूत्राणि, उपनिषदः
+उपनिषदां काचिद् आवलिर् लभ्यते वैकुण्ठदीक्षितीये - [TW](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vaikuNTha-dIxita-prapanna-dharma-sAra-samuchchayaH/01_paribhAShA/03_shAstra-nAma-nirUpaNam) ।
+
 With clarity in the prameya-s in vedArthasangraha (or presumably shrI-bhAShya), there is almost no room for confusion when one encounters upaniShadic contradictions. So, it's natural that R didn't find a need to labor over that; and that his followers mostly feel the same. Yet, rangarAmAnuja, kUranArAyaNa etc.. have commented on some upaniShats.
 
 For S, BS does not resolve the upaniShadic contradictions (I heard that somewhere he clearly says/ implies that the sUtra-s have to be somehow interpreted in accordance with upaniShads - ie his bhAShya-s thereof).
 
 ## स्मृतिः
 साधारणविचारो ऽन्यत्र द्रष्टव्यः। 
+
+स्मृतीनां काचिद् आवलिर् लभ्यते वैकुण्ठदीक्षितीये - [TW](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vaikuNTha-dIxita-prapanna-dharma-sAra-samuchchayaH/01_paribhAShA/03_shAstra-nAma-nirUpaNam) । तत्र सात्त्विक-राजस-तामस-विभागो वर्तते। 
+
 
 ### पुराणापेक्षया बलीयस्त्वम्  
 
@@ -229,6 +234,8 @@ For S, BS does not resolve the upaniShadic contradictions (I heard that somewher
 
 पुनः, पुराणापेक्षया "ग्रन्थ-सौष्ठवाद्" (नाम लोप-प्रक्षेपाद्य्-अभावाधिक्यात्) इतिहासौ, तत्रापि रामायणम् मुख्यतरम्। 
 
+किञ्च तत्रापि प्रक्षेपास् सन्त्य् एव, यथा ऽदित्य-हृदयम् - [TW](/AgamaH/AryaH/hinduism/sAmya-vaiShamye/bases/4_texts/interpolation)। 
+
 #### व्यास-कृति-प्राधान्य-निराकारः
 > व्यासो भगवद्-अवतारः। कथं तस्य वाल्मीकेर् अपेक्षया ऽल्पतरम् प्रामाण्यम्?
 
@@ -250,6 +257,7 @@ For S, BS does not resolve the upaniShadic contradictions (I heard that somewher
 आन्तरिकं तारतम्यम् [अत्रेक्षताम्](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaH/purANa-tAratamyam) । 
 
 ## आगमः 
+काचिद् आवलिर् लभ्यते वैकुण्ठदीक्षितीये - [TW](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vaikuNTha-dIxita-prapanna-dharma-sAra-samuchchayaH/01_paribhAShA/03_shAstra-nAma-nirUpaNam) । तत्रैव शिल्प-शास्त्राणि सूचितानि। 
 
 ### वैखानस-पाञ्चरात्राः
 > > नन्व् अत्र-भवतां +++(शाबर-)+++भाष्यकाराणां विरुद्धांशाप्रामाण्याभिधानं कथम् इव?  

@@ -37,13 +37,30 @@ Respecting an AchArya does not mean accepting any canard he spreads, or imitatin
 
 
 ## परिहासः
-### Features
+### विधाः
 The vaiShNava critic (partly mirroring opponents)
 
 - Indulges in some well-justified name-calling.
 - Questions about the behavior of the person holding the views.
 - Provides quite a few redundant really funny analogies.
 - Occassionally comes off as being smug and snarky.
+
+#### नामाभिज्ञापनम्
+#### रामानुजः
+
+rAmAnuja does not hesitate to call out प्रच्छन्न-बौद्ध-s.
+
+> वेद-वाद-च्छद्म-प्रच्छन्न-बौद्ध-निराकरणे निपुणतरं प्रपञ्चितम्।
+\- shrIbhAShyam 2 2 4
+
+BG 2.12  
+Video: [TW](https://youtu.be/FBmo0YvfPgA)
+
+#### वेङ्कटनाथः
+> शङ्करादि-कुदृष्टिगळ् सॊल्लुम् पॊरुळ्गळ् ऎल्लाम्  
+तात्पर्य-चन्द्रिकैयिलुम्, निक्षेप-रक्षैयिलुम् परक्क दूषित्तोम्।
+
+
 
 ### भ्रमः
 Impression of vaiShNava AchArya-s as cuddly teddy bears or humble-to-a-fault sunken eyed bores likely comes not reading their argumentative works.  
@@ -79,25 +96,28 @@ It would do well to remember - How did the author of that verse come to be calle
 
 Anyway, seriously - that is in context of moxArtha prapatti - doesn't mean that yAmuna's kArpaNya is such that he felt unable to even put food into his mouth, present the tattva properly etc..
 
-### उदाहरणानि
+### उदाहरणानि प्रकीर्णानि
 yAmuna is more like VD - much more brutal fun.
 
 दार्शनिक-हास्यानि - [TW](https://groups.google.com/g/hindu-vidyA/c/TQ1M9HVxf4g)
-
-#### रामानुजः 
-
-rAmAnuja does not hesitate to call out प्रच्छन्न-बौद्ध-s.
-
-> वेद-वाद-च्छद्म-प्रच्छन्न-बौद्ध-निराकरणे निपुणतरं प्रपञ्चितम्।
-\- shrIbhAShyam 2 2 4
-
-BG 2.12  
-Video: [TW](https://youtu.be/FBmo0YvfPgA)  
 
 
 ## भागवतेषु मार्दवम्
 वेङ्कटनाथार्योऽपि स्वयूथ्यान् नाम्ना न गृह्णाति,  
 सादरं तद्-आचार्योक्तिषु स्व-पर-विवक्षां दर्शयति।  
+अन्यान् अपि वैष्णवान् सादरं निर्दिशति। 
+
+यथा माध्वेषु वेङ्कटनाथार्यः - 
+
+> आनन्द-तीर्थीयर्  
+मुक्तरुक्क् ऎल्लाम्  
+सर्वेश्वरऩोडे परम-साम्यञ् जॊल्लुगिऱ श्रुत्य्-आदिगळै मऱन्दार्गळ्।
+
+अहोबिलयतिः सारबोधिनीकारोऽपि बहुवचन-प्रयोगेणादरम् एव सूचयति - 
+
+> आनन्दतीर्थीयर् - आनन्दतीर्थरॆऩ्बवर् द्वैतमतप्रवर्तकराऩ सूत्रादिभाष्यकर्ता । तच्छिष्यादिगळ् आनन्दतीर्थीयर्।
+
 किञ्च कुत्सितान् पक्षान्  
 अनिष्टोत्पात्ति–स्व-व्याघातादि–दोषोद्भावनेन  
 +ईषद्-हासेन सह खण्डयत्य् एव। 
+
