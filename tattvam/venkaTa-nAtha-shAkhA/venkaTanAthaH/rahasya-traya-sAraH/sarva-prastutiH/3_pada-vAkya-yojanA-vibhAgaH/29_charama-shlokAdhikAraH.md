@@ -1256,7 +1256,7 @@ que **puede entenderse** únicamente desde el śāstra.
 धर्ममावदु; शास्त्रमे कॊण्डऱियवेण्डि यिरुक्कुम् पुरुषार्थसाधनम्। 
 </details>
 
-
+### बहुत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘‘धर्मान्’’ ऎऩ्गिऱ बहु-वचनत्ताले  
@@ -1325,6 +1325,7 @@ Ciertamente **no hay** ninguna impropiedad en **llamar** a los accesorios del dh
 धर्मपरिकरङ्गळैयुम् धर्ममॆऩ्ऱुसॊल्लक्कुऱैयिल्लैयिऱे।
 </details>
 
+### अङ्गिता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इस् "सर्व"-शब्दत्तै  
@@ -1380,6 +1381,7 @@ sin embargo, lo que **se pretende** (con la palabra) aquí **es** los diversos t
 </details>
 
 
+#### ज्ञान-वासादि न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुरुषोत्तमत्व-ज्ञानम्  
@@ -1388,7 +1390,7 @@ sin embargo, lo que **se pretende** (con la palabra) aquí **es** los diversos t
 
 <details><summary>English</summary>
 
-The **knowledge** of Puruṣottama (which **is praised** highly in the Gitā Chap. XI) -   
+The **knowledge** of Puruṣottama (which **is praised** highly in the Gitā Chap. XI) (is shown) -   
 
 as **leading** merely to the **knowledge** of the Truth or Reality  
 which **is** of help to all vidyās or forms of meditation;  
@@ -1396,7 +1398,7 @@ which **is** of help to all vidyās or forms of meditation;
 
 <details><summary>Español</summary>
 
-El **conocimiento** de Puruṣottama (que **es muy elogiado** en el Gitā Cap. XI) -   
+El **conocimiento** de Puruṣottama (que **es muy elogiado** en el Gitā Cap. XI) (**se muestra**)-   
 
 como **conduciendo** simplemente al **conocimiento** de la Verdad o Realidad  
 que **es** de ayuda para todos los vidyās o formas de **meditación**;
@@ -1408,16 +1410,232 @@ que **es** de ayuda para todos los vidyās o formas de **meditación**;
 पुरुषोत्तमत्वज्ञानम् सर्वविद्यैकळुक्कुमुपकारकमाऩ तत्त्वज्ञानमात्रमागवुम्, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-**is** conclusively **shown** in (Śrī Rāmānuja's) Gitābhāṣya and elsewhere  
+अवतार-रहस्य-चिन्तनम्  
+अनुष्ठिक्किऱ उपासनादिगळ्-उडैय शीघ्र-निष्पत्ति-हेतुव् आगवुम्, 
+</details>
+
+<details><summary>English</summary>
+
+the **knowledge** of the truth **concerning** the avatārs (of Bhagavān) **is shown** in Ch. IV there  
+as the cause of the **adopted** upāsanas **yielding** their fruit quickly, 
+</details>
+
+<details><summary>Español</summary>
+
+el **conocimiento** de la verdad **concerniente** a los avatares (de Bhagavān) **se muestra** en el cap. IV allí  
+como la causa de que los upāsanas **adoptados** **rindan** su fruto rápidamente,
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-the knowledge of the truth concerning the avatārs (of Bhagavān) is shown in Ch. IV there as the cause of the adopted upāsanas yielding their fruit quickly, residence in places where there are temples of Nārāyaṇa and the like are also shown to make the upāsanas effective by the removal or extinction of those sins which stand in the way of the upāsanas bearing fruit. Therefore it is not proper to consider them as direct and primary means of attaining mokṣa and to state that the plural form of dharma, viz, dharmān is used to include these also, (for they are only mediate culises of mokṣa and not direct causes like the upāsanās). This plural form dharmān is significant in as much as it refers to such different and many vidyās, as Śāṇḍilya vidyā and dahara vidyā even without the three mentioned above ((viz) the knowledge of Puruṣottama and of the avatars and residence in holy places , for it has been said  “The vidyās are many, as their names and the like are different;" there is no impropriety even if we take the plural to signify the manifoldness of the aṅgī's (forms of meditation) and of the aṅgas or their accessories.
+अवताररहस्यचिन्तनम् अनुष्ठिक्किऱ उपासनादिगळुडैय शीघ्रनिष्पत्तिहेतुवागवुम्, 
+</details>
 
-THE MEANING OF PARITYAJYA (HAVING GIVEN UP). page528
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ln the word parityajya, the 'giving up' or abandonment consists in the aversion to other kinds of upāya (than prapatti), which arises from a consideration of one's being destitute of the competency for them, for it has been said, "By this 'prapatti and with only ākiñcanya or one's being without other upāyas as a prerequisite etc)". If there is connexion due to desire, the giving up of that desire is certainly tyāga or renunciation.
+देश-वासादिगळ् उपाय-विरोधि-पाप-क्षय-हेतुक्कळ् आय्क् कॊण्डु  
+उपाय-निष्पादकङ्गळ् आगवुम्
+</details>
+<details><summary>English</summary>
+
+**residence** in places where there **are** temples of Nārāyaṇa and the like  
+**are** also **shown** to make the upāsanas effective  
+by the **removal** or **extinction** of those sins  
+which **stand** in the way of the upāsanas **bearing** fruit. 
+</details>
+
+<details><summary>Español</summary>
+
+**residencia** en lugares donde **hay** templos de Nārāyaṇa y similares  
+también **se muestra** que **hacen** que las upāsanas sean efectivas  
+por la **eliminación** o **extinción** de esos pecados  
+que **están** en el camino de los upāsanas **que dan** fruto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देशवासादिगळ् उपायविरोधिपापक्षयहेतुक्कळाय्क् कॊण्डु उपायनिष्पादकङ्गळागवुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रीगीता-भाष्यादिगळिले समर्थिक्कैयाले 
+</details>
+
+<details><summary>English</summary>
+
+(all this) **is** conclusively **shown** in (Śrī Rāmānuja's) Gitābhāṣya and elsewhere.  
+
+Therefore ... 
+</details>
+
+<details><summary>Español</summary>
+
+(Todo esto) **se muestra** de manera concluyente en Gitābhāṣya (de Śrī Rāmānuja) y en otros lugares.  
+
+Por lo tanto ...
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीगीताभाष्यादिगळिले समर्थिक्कैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱै साक्षान्-मोक्षोपायङ्गळ् आक्कि  
+अङ्गि-बहुत्व-विषयम् आऩ बहु-वचनत्ताले विवक्षिक्किऱदॆऩ्गै उचितमऩ्ऱु।
+</details>
+
+<details><summary>English</summary>
+
+it **is not** proper to **consider** them as direct and primary means of **attaining** mokṣa  
+and to **state** that the plural form of dharma, viz, dharmān **is used** to **include** these also,  
+(for they **are** only mediate causes of mokṣa  
+and not direct causes like the upāsanās). 
+</details>
+
+<details><summary>Español</summary>
+
+**no** es apropiado **considerarlos** como medios directos y primarios para **alcanzar** mokṣa.  
+y **afirmar** que la forma plural de dharma, es decir, dharmān **se usa** para **incluir** estos también,  
+(porque ellos **son** sólo causas mediatas de mokṣa  
+y no causas directas como las upāsanās).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱै साक्षान्मोक्षोपायङ्गळाक्कि अङ्गिबहुत्वविषयमाऩ बहुवचनत्ताले विवक्षिक्किऱदॆऩ्गै उचितमऩ्ऱु।
+</details>
+
+#### विद्याः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘नाना शब्दादि-भेदात्’’(ब्रह्मसूत्रम् ३-३-५६) 
+
+ऎऩ्गिऱ बडिये  
+इवैय् +++(←ज्ञान-वासादि)+++ ऒऴियवुम् सद्-विद्या--दहर-विद्यादि-भेदत्ताले अङ्गि-बहुत्वङ् किडैक्कैयाल्  
+इब् बहु-वचनम् सार्थम्।
+</details>
+
+<details><summary>English</summary>
+
+This plural form dharmān **is** significant in as much as it refers to such different and many vidyās, as Śāṇḍilya vidyā and dahara vidyā  
+even without the three mentioned above (viz the knowledge of Puruṣottama and of the avatars and residence in holy places) ,  
+for it **has been said**  
+
+> “The vidyās **are** many, as their names and the like **are** different."
+</details>
+
+<details><summary>Español</summary>
+
+Esta forma plural dharmān **es significativa** en la medida en que  
+**se refiere** a vidyās tan diferentes y numerosos, como Śāṇḍilya vidyā y dahara vidyā.  
+incluso sin los tres **mencionados** anteriormente (a saber el conocimiento de Puruṣottama y de los avatares y la residencia en lugares sagrados,)  
+porque **se ha dicho**  
+
+> “Los vidyās **son** muchos, así como sus nombres y cosas similares **son** diferentes."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नानाशब्दादि भेदात्’’(ब्रह्मसूत्रम् ३-३-५६) ऎऩ्गिऱबडिये इवैयॊऴियवुम् सद्विद्या - दहरविद्यादिभेदत्ताले अङ्गिबहुत्वङ्गिडैक्कैयाल् इब् बहुवचनम् सार्थम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्गि-बहुत्वत्तैयुम् परिकर-बहुत्वत्तैयुङ् गूड विवक्षित्तालुम् विरोधम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+There **is no** impropriety  
+even if we take the plural to **signify** the manifoldness of the aṅgī's (forms of meditation)  
+and of the aṅgas or their accessories.
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** ninguna incorrección  
+incluso si **tomamos** el plural para **significar** la diversidad de los aṅgī (formas de meditación)  
+y de los aṅgas o sus accesorios.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अङ्गिबहुत्वत्तैयुम् परिकरबहुत्वत्तैयुङ्गूड विवक्षित्तालुम् विरोधमिल्लै। 
+</details>
+
+
+## परित्यज्य
+<details><summary>English</summary>
+
+THE MEANING OF PARITYAJYA (HAVING GIVEN UP).  
+page528
+</detailsa>
+
+<details><summary>Español</summary>
+
+EL SIGNIFICADO DE PARITYAJYA (**HABIENDO RENDIDO**).  
+página 528
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘परित्यज्य’’ ऎऩ्गिऱव् इडत्तिल् त्यागम् आवदु, 
+</details>
+
+<details><summary>English</summary>
+
+In the word parityajya, the 'giving up' or abandonment **consists in** 
+</details>
+
+<details><summary>Español</summary>
+
+En la palabra parityajya, el 'abandono' **consiste en**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘परित्यज्य’’ ऎऩ्गिऱविडत्तिल् त्यागमावदु, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अनया च प्रपत्त्या माम्  
+आकिञ्चन्यैक-पूर्वकम्’’()  
+
+इत्यादिगळिऱ्पडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अनया च प्रपत्त्या माम्  
+आकिञ्चन्यैक-पूर्वकम्’’()  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अनया च प्रपत्त्या मामाकिञ्चन्यैकपूर्वकम्’’()  इत्यादिगळिऱ्पडिये
+</details>
+
+
+the aversion to other kinds of upāya (than prapatti), which arises from a consideration of one's being destitute of the competency for them, for it has been said, "By this 'prapatti and with only ākiñcanya or one's being without other upāyas as a prerequisite etc)". If there is connexion due to desire, the giving up of that desire is certainly tyāga or renunciation.
 
 The preposition pari (before tyaj) is to show the extreme aversion arising from the lack of competence (for other upāyas ) at all times and in every form, which the person destitute of upāyas has come to realise in himself as expressed in the following passages, “I see no means of crossing (the sea of sainsāra) in all the eternity of time which lies before me," and " It is 'only by the lotus feet of the Lord that I shall attain the desired goal. I have no other means of attaining spiritual welfare in any of my births."
 

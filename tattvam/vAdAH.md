@@ -32,7 +32,6 @@ Replies to vidyAmAnyatIrtha's work:
 
 Apart from this, Periya Svami seems to have written a separate khaNDana of vyAsatIrtha's tAtparyacandrikA, titled mohApoha.
 
-Surapuri Sri Venkatacharya's response to tattva-mArtANDa??
 
 ### विजयीन्द्रादि
 - विजयीन्द्र-भिक्षु-कृत- रामानुज-मत-निरासः
