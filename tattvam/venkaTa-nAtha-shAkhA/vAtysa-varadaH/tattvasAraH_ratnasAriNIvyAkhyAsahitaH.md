@@ -11,8 +11,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4MDIwMzQxNDA
 +++
 [[तत्त्वसारः रत्नसारिणीव्याख्यासहितः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4MDIwMzQxNDAxNTA0&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
-
 **तत्त्वसारः।**
 
 **रत्नसारिणीव्याख्यासहितः।**
@@ -4780,15 +4778,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4MDIwMzQxNDA
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-\]

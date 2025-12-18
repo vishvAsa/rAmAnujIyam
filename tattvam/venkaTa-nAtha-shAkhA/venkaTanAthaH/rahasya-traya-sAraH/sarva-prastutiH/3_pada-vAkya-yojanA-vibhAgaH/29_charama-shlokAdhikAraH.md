@@ -820,19 +820,343 @@ por su infinita compasión,
 निरतिशयशोकाविष्टऩाऩ अर्जुनऩै व्याजमागक् कॊण्डु परमकारुणिकऩाऩ गीतोपनिषदाचार्यऩ् 
 </details>
 
+### प्रपत्त्य्-उपदेशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘भक्त्या परमया वापि  
+प्रपत्त्या वा महामते ।  
+प्राप्योऽहं नान्यथा प्राप्यो  
+मम कैङ्कर्य-लिप्सुभिः॥’’  
+() 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘भक्त्या परमया वापि  
+प्रपत्त्या वा महामते ।  
+प्राप्योऽहं नान्यथा प्राप्यो  
+मम कैङ्कर्य-लिप्सुभिः॥’’  
+() 
+
+</details>
+
+<details><summary>English</summary>
+
+> "I **can be attained** by those who **desire** to **serve** me  
+only by bhakti  or by prapatti.  
+There **is no** other way of **attaining** me", 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Yo **puedo ser alcanzado** por aquellos que **desean servirme**  
+sólo por bhakti o por prapatti.  
+No **hay** otra forma de **alcanzarme**",
+</details>
 
 
-**is** graciously **pleased**
+<details><summary>मूलम्</summary>
+
+‘‘भक्त्या परमया वापि प्रपत्त्या वा महामते । प्राप्योऽहं नान्यथा प्राप्यो मम कैङ्कर्यलिप्सुभिः’’()
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु ताऩ् विकल्पित्तु विधित्त उपायङ्गळिल् 
+</details>
+
+<details><summary>English</summary>
+
+Of the upāyas that be enjoined as optional in the (above) śloka
+</details>
+
+<details><summary>Español</summary>
+
+De los upāyas que **se prescriben** como opcionales en el śloka (arriba)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु ताऩ् विकल्पित्तु विधित्त उपायङ्गळिल् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तावद् आर्तिस् तथा वाञ्छा  
+तावन् मोहस् तथा ऽसुखम्’’  
+(विष्णुपुराणम् १-९-७३) 
+
+ऎऩ्गिऱबडिये
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘तावद् आर्तिस् तथा वाञ्छा  
+तावन् मोहस् तथा ऽसुखम्’’  
+(विष्णुपुराणम् १-९-७३) 
+
+</details>
+
+<details><summary>English</summary>
+
+for it **has been said**, 
+
+> “Only so long as prapatti which **extinguishes** all sins **is not performed**,   
+only so long **will there be suffering**, etc." 
+</details>
+
+<details><summary>Español</summary>
+
+porque **se ha dicho**, 
+
+> “Sólo mientras **no se realice** prapatti que **extingue** todos los pecados,   
+Sólo hasta cierto punto **habrá sufrimiento**, etc."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तावदार्तिस्तथा वाञ्छा तावन्मोहस्तथाऽसुखम्’’(विष्णुपुराणम् १-९-७३) ऎऩ्गिऱबडिये
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩ् तिरुव्-अडिगळैप् पॆऱुगैक्कुम्  
+मऱ्ऱुम् अभिमतम् आऩ् अवैय् ऎल्लात्तुक्कुम्  
+पॊदुवाऩ साधनम् आय्
+</details>
+
+<details><summary>English</summary>
+
+(that which) **is** the means alike, of **attaining** His feet and all other things that **are desired**, 
+</details>
+
+<details><summary>Español</summary>
+
+(aquello que) **es** el medio por igual para **alcanzar** Sus pies y todas las demás cosas que **se desean**,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩ् तिरुवडिगळैप् पॆऱुगैक्कुम् मऱ्ऱुमभिमतमाऩवैयॆल्लात्तुक्कुम् पॊदुवाऩ साधनमाय्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आनुकूल्य-संकल्पादि- व्यतिरिक्त-परिकर-निरपेक्षम् आय्  
+लघुतरम् आय् 
+</details>
+
+<details><summary>English</summary>
+
+which **can be performed**  
+without any accessories other than the determination to **do** what **is** agreeable to the Lord  
+and the **avoidance** of what **is** adverse to Him and the like; 
+</details>
+
+<details><summary>Español</summary>
+
+que **se puede realizar**  
+sin más accesorios que la determinación de **hacer** lo que **es** agradable al Señor  
+y la **evitación** de lo que **es** adverso para Él y cosas similares;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आनुकूल्यसंकल्पादि व्यतिरिक्तपरिकरनिरपेक्षमाय् लघुतरमाय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्षण-मात्र-साध्यम् आऩ रहस्यतमोपायत्तै  
+श्रोतव्य-शेषम् इल्लाद बडि  
+उपदेश-पर्यवसानम् आऩ चरम-शलोकत्ताल् स-कल--लोक-रक्षार्थम् आगव् अरुळिच् चॆय्गिऱाऩ्। 
+</details>
+
+<details><summary>English</summary>
+
+(For the protection of the whole world)  
+(He) **is** graciously **pleased**  
 to **explain** this most secret upāya (viz. prapatti) in the carama śloka  
 which **is** the conclusion of the **teaching**  
-and which **leaves** nothing unsaid. 
+and which **leaves** nothing unsaid.  
+It **is** easier of performance  
+and **can be done** in just an instant.  
+
+</details>
+
+<details><summary>Español</summary>
+
+(Para la **protección** del mundo entero)  
+(Él) **está** gentilmente **complacido**
+para **explicar** este upāya tan secreto (a saber, prapatti) en el carama śloka  
+que **es** la conclusión de la **enseñanza**  
+y que **no deja** nada **sin decir**.  
+**Es** más fácil de **realizar**.  
+y **se puede hacer** en sólo un instante.
+</details>
 
 
-Prapatti which is one of the upāyas that be enjoined as optional in the śloka: "I can be attained by those who desire to serve me only by bhakti  or by prapatti. There is no other way of attaining ine", is the means alike, of attaining His feet and all other things that are desired, for it has been said, “Only so long as prapatti which extinguishes all sins is not performed, only so long will there be suffering, etc." It can be performed without any accessories other than the determination to do what is agreeable to the Lord and the avoidance of what is adverse to Him and the like. It is easier of performance and can be done in just an instant. Since the Supreme Lord, who is the Saviour, has Himself taught this truth which is well known from the śrutis, it has also the sanction of the ācārya (for Bhagavān is Himself the ācārya here). The permission of the ācārya is prescribed in such treatises as Viṣṇutattva as follows: - "Giving up all object of desire and the karmas by which they can be secured, Śaraṇāgati with its five aṅgas (the aṅgas and the aṅgī being six ) should be performed with the permission of the ācārya in accordance with the rules prescribed in the śāstras and with renunciation of the fruits of all actions.”
+<details><summary>मूलम्</summary>
 
-SARVADHARMĀN ETC.page526
+क्षणमात्रसाध्यमाऩ रहस्यतमोपायत्तै श्रोतव्यशेषमिल्लादबडि उपदेशपर्यवसानमाऩ चरमशलोकत्ताल् सकललोकरक्षार्थमागवरुळिच्चॆय्गिऱाऩ्। 
+</details>
 
-We have refuted, at considerable length, in Tātparyachandrikā and Nikṣepa-rakṣā, the interpretations given of this śloka by such perverse (commentators ) as Saṅkara. Here we will state the best and most appropriate meanings as established in the tradition of wise men. The first half of this (śloka) enjoins the
+## आचार्यानुज्ञा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रुति-सिद्धम् आऩव् इव्व्-अर्थत्तै  
+शरण्यऩ् आऩ सर्वेश्वरऩ् ताऩे उपदेशिक्कव् 
+</details>
+
+<details><summary>English</summary>
+
+Since the Supreme Lord, who **is** the Saviour, **has** Himself **taught** this truth  
+which **is** well **known** from the śrutis,  
+</details>
+
+<details><summary>Español</summary>
+
+Dado que el Señor Supremo, que **es** el Salvador, él mismo **ha enseñado** esta verdad  
+que **es** bien **conocido** de los śrutis,
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+श्रुतिसिद्धमाऩ विव्वर्थत्तै शरण्यऩाऩ सर्वेश्वरऩ् ताऩे उपदेशिक्कव् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ६ ‘‘+++(प्रधान-फलित्वादि)+++ **सन्त्यज्य**, विधिना नित्यं  
+षड्-विधां शरणागतिम् ।  
+**आचार्यानुज्ञया कुर्याच्**  
+छास्त्रदृष्टेन वर्त्मना’’ (श्री विष्णु-तत्त्वम्) 
+
+ऎऩ्ऱु श्रीविष्णुतत्त्वादिगळिऱ् सॊऩ्ऩ  
+आचार्यानुज्ञैयुम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ६ ‘‘+++(प्रधान-फलित्वादि)+++ **सन्त्यज्य**, विधिना नित्यं  
+षड्-विधां शरणागतिम् ।  
+**आचार्यानुज्ञया कुर्याच्**  
+छास्त्रदृष्टेन वर्त्मना’’ (श्री विष्णु-तत्त्वम्) 
+
+</details>
+
+<details><summary>English</summary>
+
+it **has** also the sanction of the ācārya  
+(for Bhagavān **is** Himself the ācārya here). 
+
+The permission of the ācārya **is prescribed** in such treatises as Viṣṇutattva as **follows** - 
+
+> "**Giving up** all object of desire  
+and the karmas by which they **can be secured**,  
+Śaraṇāgati with its five aṅgas (the aṅgas and the aṅgī being six ) **should be performed**  
+with the permission of the ācārya  
+in accordance with the rules **prescribed** in the śāstras  
+and with **renunciation** of the fruits of all actions.”
+
+</details>
+
+<details><summary>Español</summary>
+
+**tiene** también la **sanción** del ācārya  
+(pues Bhagavān **es** Él mismo el ācārya aquí). 
+
+El permiso del ācārya **está prescrito** en tratados como Viṣṇutattva como **sigue**: 
+
+> "**Renunciar** a todo objeto de deseo  
+y los karmas por los cuales **pueden ser asegurados**,  
+Śaraṇāgati con sus cinco aṅgas (los aṅgas y el aṅgī son seis) **deben realizarse**  
+con el permiso del ācārya  
+de acuerdo con las reglas **prescritas** en los śāstras  
+y con **renuncia** a los frutos de todas las acciones”.
+</details>
+
+<details><summary>मूलम्</summary>
+
+६ ‘‘सन्त्यज्य विधिना नित्यं षड्विधां शरणागतिम् । आचार्यानुज्ञया कुर्याच्छास्त्रदृष्टेन वर्त्मना’’ (श्री विष्णु-तत्त्वम्) ऎऩ्ऱु श्रीविष्णुतत्त्वादिगळिऱ्सॊऩ्ऩ आचार्यानुज्ञैयुमायिऱ्ऱु। 
+</details>
+
+
+## सर्वधर्मान्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(सर्व-धर्मान् इत्यादि)  
+</details>
+
+<details><summary>English</summary>
+
+SARVADHARMĀN ETC.  
+page 526
+
+</details>
+
+<details><summary>Español</summary>
+
+SARVADHARMĀN ETC.  
+página 526
+</details>
+
+<details><summary>मूलम्</summary>
+
+(सर्व-धर्मान् इत्यादि)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द श्लोकत्तुक्कु  
+शङ्करादि-कुदृष्टिगळ् सॊल्लुम् पॊरुळ्गळ् ऎल्लाम्  
+तात्पर्य-चन्द्रिकैयिलुम्, निक्षेप-रक्षैयिलुम् परक्क दूषित्तोम्। 
+</details>
+
+<details><summary>English</summary>
+
+We **have refuted**, at considerable length, in Tātparyachandrikā and Nikṣepa-rakṣā,  
+the **interpretations given** of this śloka by such perverse (commentators ) as Saṅkara. 
+</details>
+
+<details><summary>Español</summary>
+
+**Hemos refutado**, con considerable extensión, en Tātparyachandrikā y Nikṣepa-rakṣā,  
+las **interpretaciones dadas** de este śloka por (**comentaristos**) tan perversos como Saṅkara.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द श्लोकत्तुक्कु शङ्करादिकुदृष्टिकळ् सॊल्लुम् पॊरुळ् कळॆल्लाम् तात्पर्यचन्द्रिकैयिलुम् निक्षेपरक्षैयिलुम् परक्क दूषित्तोम्। इङ्गु सारमाऩ अर्थङ्गळै सत्संप्रदायसिद्धमाऩबडिये सॊल्लुगिऱोम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु सारम् आऩ अर्थङ्गळै  
+सत्-संप्रदाय-सिद्धम् आऩ बडिये सॊल्लुगिऱोम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु सारमाऩ अर्थङ्गळै सत्संप्रदायसिद्धमाऩबडिये सॊल्लुगिऱोम्। 
+</details>
+
+
+Here we will state the best and most appropriate meanings as established in the tradition of wise men. The first half of this (śloka) enjoins the
 
 upāya, the second half is the śeṣa which is subordinate or supplementary to it by way of indication of the end to be attained (by that upāya). Therefore the main purport of this śloka is to prescribe the upāya. Dharma is a means of attaining an object which can be understood solely from the śāstra. The use of the plural form, dharmān, indicates the manifold nature of the dharmas enjoined in the Śāstra as the means of attaining the desired objects or ends. The word sarva (all) suggests that (these dharmas) have certain accessories or aṅgas. There is certainly no impropriety in calling the accessories to dharma by the word dharma. If (on the other hand) we interpret the word sarva (all) as the opposite of 'one', it would indicate the manifoldness of the aṅgīs (the dharmas themselves).
 
