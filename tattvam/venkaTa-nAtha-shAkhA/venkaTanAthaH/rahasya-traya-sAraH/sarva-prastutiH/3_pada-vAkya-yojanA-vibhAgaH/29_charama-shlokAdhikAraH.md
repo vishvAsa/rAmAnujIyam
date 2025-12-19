@@ -1591,7 +1591,7 @@ EL SIGNIFICADO DE PARITYAJYA (**HABIENDO RENDIDO**).
 página 528
 </details>
 
-
+### त्यागः - आकिञ्चन्यतो नैराश्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ‘‘परित्यज्य’’ ऎऩ्गिऱव् इडत्तिल् त्यागम् आवदु, 
@@ -1676,8 +1676,22 @@ que **surge** de una **consideración** de que uno **está desprovisto** de la c
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आसैयाले पऱ्ऱाऩालासैयै विडुगै त्यागमॆऩ्ऩ उचितमिऱे।
+आसैयाले पऱ्ऱ् आऩाल्  
+"आसैयै विडुगै त्यागम्" ऎऩ्ऩ उचितम् इऱे।
 </details>
+
+<details><summary>English</summary>
+
+If there **is connection** due to **desire**,  
+the **giving up** of that **desire** **is** certainly tyāga or **renunciation**.
+</details>
+
+<details><summary>Español</summary>
+
+Si **hay conexión** por **deseo**,  
+**renunciar** a ese **deseo es** ciertamente tyāga o **renunciación**.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1685,10 +1699,106 @@ que **surge** de una **consideración** de que uno **está desprovisto** de la c
 </details>
 
 
+### परि
 
-If there is connexion due to desire, the giving up of that desire is certainly tyāga or renunciation.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The preposition pari (before tyaj) is to show the extreme aversion arising from the lack of competence (for other upāyas ) at all times and in every form, which the person destitute of upāyas has come to realise in himself as expressed in the following passages, “I see no means of crossing (the sea of sainsāra) in all the eternity of time which lies before me," and " It is 'only by the lotus feet of the Lord that I shall attain the desired goal. I have no other means of attaining spiritual welfare in any of my births."
+अदिल् ‘‘परि’’ ऎऩ्गिऱ उपसर्गत्ताले 
+</details>
+
+<details><summary>English</summary>
+
+The preposition pari (before tyaj) 
+</details>
+
+<details><summary>Español</summary>
+
+La preposición pari (antes de tyaj)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिल् ‘‘परि’’ ऎऩ्गिऱ उपसर्गत्ताले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अनागतानन्त-काल-समीक्षया ऽप्य् अ-दृष्ट--सन्तारोपायः’’  
+(श्रीरङ्गगद्यम्), 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘अनागतानन्त-काल-समीक्षया ऽप्य् अ-दृष्ट--सन्तारोपायः’’  
+(श्रीरङ्गगद्यम्), 
+
+</details>
+
+<details><summary>English</summary>
+
+> “I **see** no means of **crossing** (the sea of samsāra) in all the eternity of time  
+which **lies** before me," 
+</details>
+
+<details><summary>Español</summary>
+
+> “Yo **no veo** ningún medio de **cruzar** (el mar del samsāra) en toda la eternidad del tiempo  
+que **yace** delante de mí",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अनागतानन्तकालसमीक्षयाप्यदृष्टसन्तारोपायः’’(श्रीरङ्गगद्यम्), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘त्वत्-पाद-कमलाद् अन्यन्  
+न मे जन्मान्तरेष्व् अपि’’  
+(जितन्ता-स्तोत्रम् १-१०) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘त्वत्-पाद-कमलाद् अन्यन्  
+न मे जन्मान्तरेष्व् अपि’’  
+(जितन्ता-स्तोत्रम् १-१०) 
+
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "It **is** only by the lotus feet of the Lord  
+that I **shall attain** the **desired** goal.  
+I **have** no other means of **attaining** spiritual welfare in any of my births."
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "Es ** sólo por los pies de loto del Señor  
+que **alcanzaré** la meta **deseado**.  
+**No tengo** otros medios para **alcanzar** bienestar espiritual en ninguno de mis **nacimientos**".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘त्वत्पादकमलादन्यन्न मे जन्मान्तरेष्वपि’’(जितन्ता-स्तोत्रम् १-१०) 
+</details>
+
+
+is to show the extreme aversion arising from the lack of competence (for other upāyas ) at all times and in every form, which the person destitute of upāyas has come to realise in himself as expressed in the following passages, 
+
+
+
+
 
 "Aversion in every form" means being without the improper desire to perform what is impossible for a man with the thought: “Though I cannot adopt the upāya in full perfection, I will do it to the best of my ability; when that also is too difficult to perform, I will adopt, in the place of the prescribed aṅgas, something less difficult or the upāyas which will produce the prescribed upāyas",
 
