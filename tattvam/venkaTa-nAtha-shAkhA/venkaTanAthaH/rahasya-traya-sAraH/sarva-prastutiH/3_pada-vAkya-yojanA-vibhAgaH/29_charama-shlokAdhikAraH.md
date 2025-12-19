@@ -1618,7 +1618,7 @@ En la palabra parityajya, el 'abandono' **consiste en**
 > ‘‘अनया च प्रपत्त्या माम्  
 आकिञ्चन्यैक-पूर्वकम्’’()  
 
-इत्यादिगळिऱ्पडिये
+इत्य्-आदिगळिऱ् पडिये
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -1628,14 +1628,65 @@ En la palabra parityajya, el 'abandono' **consiste en**
 
 </details>
 
+<details><summary>English</summary>
+
+for it has been said, 
+
+> "By this prapatti and with only ākiñcanya or one's being without other upāyas as a prerequisite etc..", 
+</details>
+
+<details><summary>Español</summary>
+
+porque **se ha dicho**, 
+
+> "Por este prapatti y con sólo ākiñcanya o el **ser** de uno sin otros upāyas como requisito previo, etc..",
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
 ‘‘अनया च प्रपत्त्या मामाकिञ्चन्यैकपूर्वकम्’’()  इत्यादिगळिऱ्पडिये
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-the aversion to other kinds of upāya (than prapatti), which arises from a consideration of one's being destitute of the competency for them, for it has been said, "By this 'prapatti and with only ākiñcanya or one's being without other upāyas as a prerequisite etc)". If there is connexion due to desire, the giving up of that desire is certainly tyāga or renunciation.
+अकिञ्चनऩ् आऩ तऩ्ऩिलैयैक् कण्डु  
+उपायान्तरङ्गळिऱ् पिऱन्द नैराश्यम्।
+</details>
+
+<details><summary>English</summary>
+
+the **aversion** to other kinds of upāya (than prapatti),  
+which **arises** from a **consideration** of one's **being destitute** of the competency for them. 
+</details>
+
+<details><summary>Español</summary>
+
+la **aversión** a otros tipos de upāya (que no **sean** prapatti),  
+que **surge** de una **consideración** de que uno **está desprovisto** de la competencia para ellos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अकिञ्चनऩाऩ तऩ्ऩिलैयैक् कण्डु उपायान्तरङ्गळिऱ् पिऱन्द नैराश्यम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आसैयाले पऱ्ऱाऩालासैयै विडुगै त्यागमॆऩ्ऩ उचितमिऱे।
+</details>
+
+<details><summary>मूलम्</summary>
+
+आसैयाले पऱ्ऱाऩालासैयै विडुगै त्यागमॆऩ्ऩ उचितमिऱे।
+</details>
+
+
+
+If there is connexion due to desire, the giving up of that desire is certainly tyāga or renunciation.
 
 The preposition pari (before tyaj) is to show the extreme aversion arising from the lack of competence (for other upāyas ) at all times and in every form, which the person destitute of upāyas has come to realise in himself as expressed in the following passages, “I see no means of crossing (the sea of sainsāra) in all the eternity of time which lies before me," and " It is 'only by the lotus feet of the Lord that I shall attain the desired goal. I have no other means of attaining spiritual welfare in any of my births."
 
