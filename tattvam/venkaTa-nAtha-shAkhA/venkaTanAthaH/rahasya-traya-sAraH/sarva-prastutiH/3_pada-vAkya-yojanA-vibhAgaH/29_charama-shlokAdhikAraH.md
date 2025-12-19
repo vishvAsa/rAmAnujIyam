@@ -1794,13 +1794,97 @@ que **alcanzaré** la meta **deseado**.
 </details>
 
 
-is to show the extreme aversion arising from the lack of competence (for other upāyas ) at all times and in every form, which the person destitute of upāyas has come to realise in himself as expressed in the following passages, 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ् पडिये  
+अत्यन्ताकिञ्चनऩुक्कु  
+सर्व-कालत्तिलुम् सर्व-प्रकारत्तालुम् योग्यतैय् इल्लामै तॆळिगैयाले  
+पिऱन्द नैराश्यातिशयञ् जॊल्लप् पडुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+(This prefix) **is** to **show** the extreme **aversion arising** from the lack of competence (for other upāyas )  
+at all times and in every form,  
+which the person **destitute** of upāyas **has come to realise** in himself  
+as **expressed** in the above passages.
+</details>
+
+<details><summary>Español</summary>
+
+(Este prefijo) **es** para **mostrar** la **aversión** extrema que **surge** de la falta de competencia (para otros upāyas)  
+en todo momento y en toda forma,  
+
+que la persona **desposeída** de upāyas **ha llegado a realizar** en sí misma  
+como **expresado** en los pasajes anteriores.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ् पडिये अत्यन्ताकिञ्चनऩुक्कु सर्वकालत्तिलुम् सर्वप्रकारत्तालुम् योग्यतैयिल्लामै तॆळिगैयाले पिऱन्द नैराश्यातिशयञ्जॊल्लप्पडुगिऱदु। 
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-प्रकारत्तालुम् त्यागम् आवदु;  
+
+> पूर्णानुष्ठान-शक्तिय् इल्लाद बोदु  
+यथा-शक्त्य्-अनुष्ठानम् पण्णुगिऱोम् 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+"**Aversion** in every form" **means**  
+
+> “Though I **cannot adopt** the upāya in full perfection,  
+I **will do** it to the best of my ability;  
+</details>
+
+<details><summary>Español</summary>
+
+"**Aversión** en todas sus formas" **significa**  
+
+> “Aunque **no puedo adoptar** el upāya en plena perfección,  
+Lo **haré** lo mejor que pueda;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वप्रकारत्तालुम् त्यागमावदु; पूर्णानुष्ठानशक्तियिल्लादबोदु यथाशक्त्यनुष्ठानम् पण्णुगिऱोमॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अदुक्कु योग्यतैय् इल्लाद दशैयिले  
+वेऱे सिल अनुकल्पङ्गळैय् आदल्  
+उपायोपायङ्गळैय् आदल् अनुष्ठिक्किऱोम्
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदुक्कु योग्यतैयिल्लाद दशैयिले वेऱे सिल अनुकल्पङ्गळैयादल् उपायोपायङ्गळैयादलनुष्ठिक्किऱोम्
+</details>
 
 
 
 
 
-"Aversion in every form" means being without the improper desire to perform what is impossible for a man with the thought: “Though I cannot adopt the upāya in full perfection, I will do it to the best of my ability; when that also is too difficult to perform, I will adopt, in the place of the prescribed aṅgas, something less difficult or the upāyas which will produce the prescribed upāyas",
+**being** without the improper **desire** to **perform**  
+what **is** impossible for a man  
+with the thought: 
+
+> when that also **is** too difficult to **perform**,  
+I **will adopt**, in the place of the **prescribed** aṅgas,  
+something less difficult or the upāyas  
+which **will produce** the **prescribed** upāyas",
 
 The object of this anuvāda[^105] (statement of what has already occurred) namely sarva dharmān parityajya (which is not a vidhi or injunction) is to indicate the person who is specially competent to adopt prapatti, The preposition pari in parityajya is to indicate the person who is most competent or has full competence. In the sentence:- "Having reached this world which is perishable and without pleasure, you should resort to me with devotion," having reached does not state a vidhi or injunction meaning - "Reach this world". It only means 'Being in this world' or 'since you are in this world'. So also, here, the words sarvadharmān parityajya do not mean give up all dharmaś. It should be taken to mean: "You that have given up all dharmas". Since this usage of having done a thing' (past participle) is met with in other senses also, it is not right to say that 'having given up all dharmas' or giving up all dharnas is one of the accessories enjoined for prapatti.
 
