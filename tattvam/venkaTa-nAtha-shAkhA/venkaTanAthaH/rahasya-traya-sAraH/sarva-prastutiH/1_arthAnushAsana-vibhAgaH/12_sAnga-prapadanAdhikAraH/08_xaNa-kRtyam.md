@@ -327,9 +327,8 @@ Que esta **rendición** de la **responsabilidad** de la **protección** (bharasa
 **प्रपत्ति-मन्त्रगळल्लि ई भर-न्यासवे मुख्यनॆम्ब अनुसन्धानवु.**
 
 
-""
-""
-""
+**इब्भर-समर्पमे** - ई आत्म-रक्षा-भर-समर्पणवे, **प्रपत्ति-मन्त्रङ्गळिल्** - प्रपत्ति-मन्त्रगळल्लि, **प्रधानमाक** - तुम्बा मुख्यवादुवॆन्दु, **अनुसन्धेय मेन्नुमिडत्तै** - ऎन्नुव विषयदल्लि,
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -384,6 +383,13 @@ Que esta **rendición** de la **responsabilidad** de la **protección** (bharasa
 मुदलिल् प्रपत्तिमन्त्रङ्गळिल् ऎऩ्ऱु बहुवचनप्रयोगम्।+++(5)+++  
 </details>
 
+
+<details><summary>विजय-राघवः (क)</summary>
+
+""
+""
+""
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
