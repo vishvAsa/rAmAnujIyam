@@ -55,6 +55,16 @@ como accesorios o aṅgas para el upāya.
 </details>
 
 
+<details><summary>विजय-राघवः (क)</summary>
+
+
+**प्रपदनानन्तरवू आनुकूल्य-सङ्कल्पादिगळ अङ्गत्व उण्टॆम्बशङ्का-निरासवु.**
+
+""
+""
+""
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेल् इवऩ् कोलिऩ अनुकूल-वृत्त्य्-आदिगळोडे  
