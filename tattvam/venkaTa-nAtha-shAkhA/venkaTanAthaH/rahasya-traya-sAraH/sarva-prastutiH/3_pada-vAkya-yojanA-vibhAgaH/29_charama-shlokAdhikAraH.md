@@ -1826,7 +1826,7 @@ como **expresado** en los pasajes anteriores.
 </details>
 
 
-
+#### यथा-शक्त्य्-अनुष्ठानं न
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1868,6 +1868,20 @@ Lo **haré** lo mejor que pueda;
 उपायोपायङ्गळैय् आदल् अनुष्ठिक्किऱोम्
 </details>
 
+<details><summary>English</summary>
+
+> when that also **is** too difficult to **perform**,  
+I **will adopt**, in the place of the **prescribed** aṅgas, something less difficult  
+or the upāyas which **will produce** the **prescribed** upāyas",
+</details>
+
+<details><summary>Español</summary>
+
+> cuando eso también **es** demasiado difícil de **realizar**,  
+**Adoptaré**, en lugar de los **aṅgas prescritos**, algo menos difícil.  
+o los upāyas que **producirán** los upāyas **prescritos**",
+</details>
+
 <details><summary>मूलम्</summary>
 
 अदुक्कु योग्यतैयिल्लाद दशैयिले वेऱे सिल अनुकल्पङ्गळैयादल् उपायोपायङ्गळैयादलनुष्ठिक्किऱोम्
@@ -1875,18 +1889,150 @@ Lo **haré** lo mejor que pueda;
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+ऎऩ्ऱुम्, तऩक्कु दुष्करङ्गळैक् गणिसिक्कुम् दुराशैय् अऱ्ऱ् इरुक्कै। 
+</details>
 
-**being** without the improper **desire** to **perform**  
+<details><summary>English</summary>
+
+\- **being** without the improper **desire** to **perform**  
 what **is** impossible for a man  
-with the thought: 
+with the (above) thoughts. 
 
-> when that also **is** too difficult to **perform**,  
-I **will adopt**, in the place of the **prescribed** aṅgas,  
-something less difficult or the upāyas  
-which **will produce** the **prescribed** upāyas",
+</details>
 
-The object of this anuvāda[^105] (statement of what has already occurred) namely sarva dharmān parityajya (which is not a vidhi or injunction) is to indicate the person who is specially competent to adopt prapatti, The preposition pari in parityajya is to indicate the person who is most competent or has full competence. In the sentence:- "Having reached this world which is perishable and without pleasure, you should resort to me with devotion," having reached does not state a vidhi or injunction meaning - "Reach this world". It only means 'Being in this world' or 'since you are in this world'. So also, here, the words sarvadharmān parityajya do not mean give up all dharmaś. It should be taken to mean: "You that have given up all dharmas". Since this usage of having done a thing' (past participle) is met with in other senses also, it is not right to say that 'having given up all dharmas' or giving up all dharnas is one of the accessories enjoined for prapatti.
+<details><summary>Español</summary>
+
+\- **ser** sin el **deseo** inapropiado de **actuar**  
+¿Qué **es** imposible para un hombre?  
+con los **pensamientos** (arriba).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱुम् दऩक्कु दुष्करङ्गळैक् कणिसिक्कुम् दुराशैयऱ्ऱिरुक्कै। 
+</details>
+
+### अधिकार-परता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् +++(सिद्धस्यैव)+++ अनुवादत्तुक्कु  
+अधिकार-विशेषत्तैक् काट्टुगै प्रयोजनम्।
+</details>
+
+<details><summary>English</summary>
+
+The object of this anuvāda (**statement** of what **has already occurred**)  
+**namely** "sarva dharmān parityajya" (which is not a vidhi or injunction)  
+**is** to **indicate** the person  
+who **is** specially competent to **adopt** prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+El objeto de esta anuvāda (**declaración** de lo que **ya ha ocurrido**)  
+**a saber** "sarva dharmān parityajya" (que **no es** un vidhi o mandato)  
+
+**es** para **indicar** la persona  
+quien **es** especialmente competente para **adoptar** prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वनुवादत्तुक्कु अधिकारविशेषत्तैक् काट्टुगै प्रयोजनम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् ‘‘परि’’ ऎऩ्गिऱ उपसर्गम्  
+अधिकार-पौष्कल्यत्तै विवक्षिक्किऱदु।
+</details>
+
+<details><summary>English</summary>
+
+The preposition pari in parityajya **is** to **indicate** the person  
+who **is** most competent  
+or **has** full competence. 
+</details>
+
+<details><summary>Español</summary>
+
+La preposición pari en parityajya **es** para **indicar** la persona  
+Quien **es** más competente  
+o **tiene** plena competencia.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिल् ‘‘परि’’ ऎऩ्गिऱ उपसर्गम् अधिकारपौष्कल्यत्तै विवक्षिक्किऱदु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+११‘‘अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम्’’(गीता ९-३३) 
+</details>
+
+<details><summary>English</summary>
+
+"Having reached this world which is perishable and without pleasure, you should resort to me with devotion,"
+</details>
+
+<details><summary>Español</summary>
+
+"Having reached this world which is perishable and without pleasure, you should resort to me with devotion,"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+११‘‘अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम्’’(गीता ९-३३) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱविडत्तिल् प्राप्य ऎऩ्गिऱदु विधियऩ्ऱिक्के 
+</details>
+
+<details><summary>English</summary>
+
+In the (above) sentence:-  having reached does not state a vidhi or injunction meaning \- "Reach this world". 
+</details>
+
+<details><summary>Español</summary>
+
+In the (above) sentence:-  having reached does not state a vidhi or injunction meaning \- "Reach this world". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱविडत्तिल् प्राप्य ऎऩ्गिऱदु विधियऩ्ऱिक्के 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘प्राप्य वर्तमानस्त्वं’’ ऎऩ्ऱु व्याख्यातमाऩाऱ्पोले इङ्गुम् ‘‘परित्यज्य स्थितस्त्वं’’ ऎऩ्ऱु विवक्षितमागक् कडवदु।
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘प्राप्य वर्तमानस्त्वं’’ ऎऩ्ऱु व्याख्यातमाऩाऱ्पोले इङ्गुम् ‘‘परित्यज्य स्थितस्त्वं’’ ऎऩ्ऱु विवक्षितमागक् कडवदु।
+</details>
+
+It only means 'Being in this world' or 'since you are in this world'.  
+So also, here, the words sarvadharmān parityajya  
+do not mean give up all dharmaś.  
+It should be taken to mean:  
+
+> "You that have given up all dharmas". 
+
+Since this usage of having done a thing' (past participle) is met with in other senses also, it is not right to say that 'having given up all dharmas' or giving up all dharnas is one of the accessories enjoined for prapatti.
 
 [^105]: What is meant is not that the person should give up but that as he is unable to adopt other dharmas, he should seek the Lord as an upāya.
 
