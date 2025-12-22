@@ -1976,17 +1976,26 @@ o **tiene** plena competencia.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-११‘‘अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम्’’(गीता ९-३३) 
+> ११‘‘अनित्यम् असुखं लोकम्  
+इमं प्राप्य भजस्व माम्’’(गीता ९-३३) 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ११‘‘अनित्यम् असुखं लोकम्  
+इमं प्राप्य भजस्व माम्’’(गीता ९-३३) 
+</details>
+
 
 <details><summary>English</summary>
 
-"Having reached this world which is perishable and without pleasure, you should resort to me with devotion,"
+> "Having reached this world which is perishable and without pleasure, you should resort to me with devotion,"
 </details>
 
 <details><summary>Español</summary>
 
-"Having reached this world which is perishable and without pleasure, you should resort to me with devotion,"
+> "**Habiendo llegado** a este mundo corruptible y sin placer,  
+**deberías recurrir** a mí con devoción."
 </details>
 
 
@@ -1997,18 +2006,34 @@ o **tiene** plena competencia.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎऩ्गिऱविडत्तिल् प्राप्य ऎऩ्गिऱदु विधियऩ्ऱिक्के 
+ऎऩ्गिऱव् इडत्तिल् "प्राप्य" ऎऩ्गिऱदु विधिय् अऩ्ऱिक्के  
+
+> ‘‘प्राप्य वर्तमानस् त्वम्’’ 
+
+ऎऩ्ऱु व्याख्यातम् आऩाऱ् पोले  
 </details>
 
 <details><summary>English</summary>
 
-In the (above) sentence:-  having reached does not state a vidhi or injunction meaning \- "Reach this world". 
+In the (above) sentence:-  "having reached" does not state a vidhi or injunction meaning \- "Reach this world". 
+
+It only means  
+'**Being** in this world'  
+or  
+'since you are in this world'.  
 </details>
 
 <details><summary>Español</summary>
 
-In the (above) sentence:-  having reached does not state a vidhi or injunction meaning \- "Reach this world". 
+En la **oración** (arriba): -  
+"**haber alcanzado**" **no establece** un vidhi o mandato que **signifique** \- "**Alcanza** este mundo".
+
+solo **significa**  
+'**Estar** en este mundo'  
+o  
+'ya que **estás** en este mundo'.  
 </details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2017,24 +2042,96 @@ In the (above) sentence:-  having reached does not state a vidhi or injunction m
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘‘प्राप्य वर्तमानस्त्वं’’ ऎऩ्ऱु व्याख्यातमाऩाऱ्पोले इङ्गुम् ‘‘परित्यज्य स्थितस्त्वं’’ ऎऩ्ऱु विवक्षितमागक् कडवदु।
+इङ्गुम् 
+
+> ‘‘परित्यज्य स्थितस् त्वम्’’  
+
+ऎऩ्ऱु विवक्षितम् आगक् कडवदु।
 </details>
+
+<details><summary>English</summary>
+
+So also, here,  
+the words "sarvadharmān parityajya"  
+do not mean **give up** all dharmas.  
+It **should be taken** to **mean**:  
+
+> "You that **have given up** all dharmas". 
+</details>
+
+<details><summary>Español</summary>
+
+Así también, aquí,  
+las palabras "sarvadharmān parityajya"  
+**No quieren decir renunciar** a todo el dharmas.  
+**Debe entenderse** en el sentido de **significa**:  
+
+> "Tú que **has renunciado** a todos los dharmas".
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 ‘‘प्राप्य वर्तमानस्त्वं’’ ऎऩ्ऱु व्याख्यातमाऩाऱ्पोले इङ्गुम् ‘‘परित्यज्य स्थितस्त्वं’’ ऎऩ्ऱु विवक्षितमागक् कडवदु।
 </details>
 
-It only means 'Being in this world' or 'since you are in this world'.  
-So also, here, the words sarvadharmān parityajya  
-do not mean give up all dharmaś.  
-It should be taken to mean:  
 
-> "You that have given up all dharmas". 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Since this usage of having done a thing' (past participle) is met with in other senses also, it is not right to say that 'having given up all dharmas' or giving up all dharnas is one of the accessories enjoined for prapatti.
+इप्-पडि अर्थान्तरङ्गळिलुम् प्रयोगम् उण्डागैयाले  
+क्त्वा-श्रुति-मात्रत्तैक् कॊण्डु  
+"त्यागम् अङ्गम्" ऎऩ्ऩव् ऒण्णादु।
+</details>
 
-[^105]: What is meant is not that the person should give up but that as he is unable to adopt other dharmas, he should seek the Lord as an upāya.
+<details><summary>English</summary>
+
+Since this usage of '**having done** a thing' (past participle) **is met with** in other senses also,  
+it **is not** right to **say** that  
+'**having given up** all dharmas'  
+or '**giving up** all dharmas'  
+**is** one of the accessories **enjoined** for prapatti.
+
+(What **is meant is not** that  
+the person **should give up**  
+but that, as he **is unable** to **adopt** other dharmas,  
+he **should seek** the Lord as an upāya.)
+</details>
+
+<details><summary>Español</summary>
+
+Dado que este uso de '**haber hecho** una cosa' (participio pasado) **se encuentra** también en otros sentidos,  
+**no** es correcto **decir** eso  
+'**habiendo renunciado** a todos los dharmas'  
+o '**renunciar** a todos los dharmas'  
+**es** uno de los accesorios **ordenado** para prapatti.
+
+(Lo que **quiere decir no es** que  
+la persona **debería rendirse**  
+pero que,  
+como **es incapaz** de **adoptar** otros dharmas,  
+él **debe buscar** al Señor como un upāya.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि अर्थान्तरङ्गळिलुम् प्रयोगमुण्डागैयाले क्त्वाश्रुतिमात्रत् तैक्कॊण्डु त्यागमङ्गमॆऩ्ऩवॊण्णादु।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘परित्यज्य’’ ऎऩ्गिऱव् इदु विधियाऩ बोदु प्रपत्त्य्-अध्यायादिगळिल् विधिक्किऱ बडिये  
+आकिञ्चन्य-प्रतिसन्धानादि-रूपम् आऩ कार्पण्यम् आगिऱ प्रपत्त्य्-अङ्गत्तै विधिक्किऱद् ऎऩ्ऱाल्  
+अर्थत्तिल् विरोधम् इल्लै। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘परित्यज्य’’ ऎऩ्गिऱविदुविधियाऩबोदु प्रपत्त्यध्यायादिगळिल् विधिक्किऱबडिये आकिञ्चन्यप्रतिसन्धानादिरूपमाऩ कार्पण्यमागिऱ प्रपत्त्यङ्गत्तै विधिक्किऱदॆऩ्ऱाल् अर्थत्तिल् विरोधमिल्लै। 
+</details>
+
+
+
 
 If parityajya (having given up) is to be considered (at all) as enjoining what should be done (vidhi), there is nothing wrong in stating that it enjoins, as in the chapters on Prapatti and elsewhere, the thought of helplessness (kārpaṇya) which is of the nature of such thoughts as being destitute of upãyas. In that interpretation, sarva dharmān parityajya would mean "Reflect at first on the state in which you are unfit for the adoption or performance of every form of dharma" (in this case it would be a vidhi). This state has been (well) expressed in such passages as the following: "l am the abode of all offences (against Thee) and I have no means of saving myself or have I anything else to attain than Thee", and "I have not performed dharma with any constancy; I have not realised the nature of the self nor have I bhakti  or devotion to Thy lotus feet". Even this interpretation, which is not the meaning that strikes one immediately and is
 
