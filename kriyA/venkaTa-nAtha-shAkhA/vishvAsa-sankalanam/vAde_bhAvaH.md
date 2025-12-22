@@ -46,7 +46,7 @@ The vaiShNava critic (partly mirroring opponents)
 - Occassionally comes off as being smug and snarky.
 
 #### नामाभिज्ञापनम्
-#### रामानुजः
+##### रामानुजः
 
 rAmAnuja does not hesitate to call out प्रच्छन्न-बौद्ध-s.
 
