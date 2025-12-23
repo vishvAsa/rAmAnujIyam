@@ -2330,7 +2330,7 @@ porque **no** está de acuerdo con ningún pramāṇas
 इव्वळवु विळम्बितप्रतीतिकमाऩवर्थमुम् बहुप्रमाणानुगुणमागैयाल् अवऱ्ऱुक्कु विरुद्धमाग शङ्कराद्युक्तङ्गळाऩ सर्वधर्मस्वरूपत्यागाद्यर्थङ्गळिऱ्काट्टिलुमुपादेयम्।
 </details>
 
-### न पर-नैरपेक्ष्यम्
+### न धर्मान्तर-त्याग-विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > प्रपत्तिक्क् आगव् ऒरु धर्मङ्गळुम् अनुष्ठिक्क वेण्डाव् 
@@ -2339,6 +2339,29 @@ porque **no** está de acuerdo con ningún pramāṇas
 
 ऎऩ्गै विधि-पक्षत्तुक्कु उचितम्।
 </details>
+
+<details><summary>English</summary>
+
+When we **take** parityajya as a vidhi or injunction,  
+it **would be appropriate** to **say** that  
+the meaning of sarva dharmān parityajya **is** -  
+
+> "No dharma of any kind **need be performed** for the sake of prapatti", 
+
+in the sense that prapatti does not require any of them (as aṅgas).  
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **tomamos** "parityajya" como vidhi o mandato,  
+**sería apropiado decir** que  
+el significado de "sarva dharmān parityajya" **es** -  
+
+> "**No es necesario realizar** ningún dharma de ningún tipo por el bien de prapatti", 
+
+en el sentido de que prapatti **no requiere** ninguno de ellos (como aṅgas).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2351,13 +2374,7 @@ porque **no** está de acuerdo con ningún pramāṇas
 
 
 
-When we **take** parityajya as a vidhi or injunction,  
-it **would be appropriate** to **say** that  
-the meaning of sarva dharmān parityajya **is** -  
 
-> "No dharma of any kind **need be performed** for the sake of prapatti", 
-
-in the sense that prapatti does not require any of them (as aṅgas).  
 
 In that case, the use of the preposition pari **would suggest** that  
 even such **observances** as **are stated** in  
