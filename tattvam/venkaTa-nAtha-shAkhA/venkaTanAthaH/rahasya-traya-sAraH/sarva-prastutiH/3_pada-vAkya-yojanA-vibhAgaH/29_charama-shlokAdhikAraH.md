@@ -2118,45 +2118,260 @@ como **es incapaz** de **adoptar** otros dharmas,
 इप्पडि अर्थान्तरङ्गळिलुम् प्रयोगमुण्डागैयाले क्त्वाश्रुतिमात्रत् तैक्कॊण्डु त्यागमङ्गमॆऩ्ऩवॊण्णादु।
 </details>
 
+### अनुसन्धान-विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘‘परित्यज्य’’ ऎऩ्गिऱव् इदु विधियाऩ बोदु प्रपत्त्य्-अध्यायादिगळिल् विधिक्किऱ बडिये  
+‘‘परित्यज्य’’ ऎऩ्गिऱव् इदु  
+विधिय् आऩ बोदु  
+प्रपत्त्य्-अध्यायादिगळिल् विधिक्किऱ बडिये  
 आकिञ्चन्य-प्रतिसन्धानादि-रूपम् आऩ कार्पण्यम् आगिऱ प्रपत्त्य्-अङ्गत्तै विधिक्किऱद् ऎऩ्ऱाल्  
 अर्थत्तिल् विरोधम् इल्लै। 
 </details>
+
+<details><summary>English</summary>
+
+If parityajya (having given up) **is to be considered** (at all) as **enjoining** what **should be done** (vidhi),  
+there **is** nothing wrong in **stating**  
+that it **enjoins**, as in the chapters on Prapatti and elsewhere, the **thought** of **helplessness** (kārpaṇya)  
+which **is** of the nature of such thoughts  
+as **being destitute** of upãyas. 
+</details>
+
+<details><summary>Español</summary>
+
+Si parityajya (**haber renunciado**) **debe considerarse** (en absoluto) como **ordenar** lo que **debe hacerse** (vidhi),  
+no **hay** nada de malo en **afirmar**  
+que **impone**, como en los capítulos sobre Prapatti y otros lugares, el **pensamiento** de **impotencia** (kārpaṇya)  
+que **es** de la naturaleza de tales pensamientos  
+como **ser desprovisto** de upãyas.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 ‘‘परित्यज्य’’ ऎऩ्गिऱविदुविधियाऩबोदु प्रपत्त्यध्यायादिगळिल् विधिक्किऱबडिये आकिञ्चन्यप्रतिसन्धानादिरूपमाऩ कार्पण्यमागिऱ प्रपत्त्यङ्गत्तै विधिक्किऱदॆऩ्ऱाल् अर्थत्तिल् विरोधमिल्लै। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप् पोदु ‘‘सर्व-धर्मान् परित्यज्य’’ ऎऩ्गिऱदु 
+</details>
+
+<details><summary>English</summary>
+
+In that interpretation, "sarva dharmān parityajya" 
+</details>
+
+<details><summary>Español</summary>
+
+En esa **interpretación**, "sarva dharmān parityajya"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पोदु ‘‘सर्वधर्मान् परित्यज्य’’ ऎऩ्गिऱदु 
+</details>
 
 
 
-If parityajya (having given up) is to be considered (at all) as enjoining what should be done (vidhi), there is nothing wrong in stating that it enjoins, as in the chapters on Prapatti and elsewhere, the thought of helplessness (kārpaṇya) which is of the nature of such thoughts as being destitute of upãyas. In that interpretation, sarva dharmān parityajya would mean "Reflect at first on the state in which you are unfit for the adoption or performance of every form of dharma" (in this case it would be a vidhi). This state has been (well) expressed in such passages as the following: "l am the abode of all offences (against Thee) and I have no means of saving myself or have I anything else to attain than Thee", and "I have not performed dharma with any constancy; I have not realised the nature of the self nor have I bhakti  or devotion to Thy lotus feet". Even this interpretation, which is not the meaning that strikes one immediately and is
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-therefore a little strained, is better than the meanings given by Saṅkara and others that what is intended here is such as the giving up of the dharmas themselves in their essential nature (svarūpa), because it is not out of keeping with any pramāṇas (for in the chapters on prapatti, it is enjoined that the rites and observances of castes and āśramas should (always) be performed).
+> ‘‘अहम् अस्म्य् अपराधानाम्  
+आलयो ऽकिञ्चनोऽगतिः’’  
+(अहिर्बुध्न्यसंहिता ३७-३०), 
+</details>
 
-When we take parityajya as a vidhi or injunction,  
-it would be appropriate to say that  
-the meaning of sarva dharmān parityajya is -  
+<details><summary>नीलमेघः (सं)</summary>
 
-> "No dharma of any kind need be performed for the sake of prapatti", 
+> ‘‘अहम् अस्म्य् अपराधानाम्  
+आलयो ऽकिञ्चनोऽगतिः’’  
+(अहिर्बुध्न्यसंहिता ३७-३०), 
+</details>
 
-in the sense that prapatti does not require any of them (as aṅgas).  
-In that case, the use of the preposition pari would suggest that  
-even such observances as are stated in  
+<details><summary>English</summary>
 
-> " This should be done after performing achamana" 
+> "I **am** the abode of all offences (against Thee)  
+and I **have** no means of **saving** myself  
+**nor have I** anything else to **attain** than Thee", 
+</details>
+
+<details><summary>Español</summary>
+
+> "Yo **soy** la morada de todas las ofensas (contra Ti)  
+y **no tengo** medios para **salvarme**  
+**ni tengo** nada más que **alcanzar** que Ti",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अहमस्म्यपराधानामालयोऽकिञ्चनोऽगतिः’’(अहिर्बुध्न्यसंहिता ३७-३०), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न धर्म-निष्ठो ऽस्मि’’  
+(आळवन्दार् स्तोत्रम् २२) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न धर्म-निष्ठो ऽस्मि’’  
+(आळवन्दार् स्तोत्रम् २२) 
+</details>
+
+
+<details><summary>English</summary>
 
 and 
 
-> "This should be done with bodily purity", 
+> "I **have not performed** dharma with any constancy;  
+I **have not realised** the nature of the self  
+**nor have I** bhakti  or devotion to Thy lotus feet". 
+</details>
 
-which are requisite for securing fitness for all rites in common,  
-are not to be accepted as aṅgas for prapatti.
+<details><summary>Español</summary>
 
-Notwithstanding this, if it is maintained that the giving up of such dharmas as karma yoga, jñāna yoga and bhakti  yoga in their essential forın (svarūpa) is an aṅga or accessory to prapatti, it would follow that prapatti is not in the competence of any one. The abandonment of a dharma can be enjoined only in the case of a person who is capable of performing it. This would be opposed to the thought of helplessness ( kārpaṇya ), which is called an aṅga ( of prapatti ) according to many pramāṇas. 
+y 
+
+> "Yo **no he realizado** el dharma con constancia;  
+**No me he dado cuenta** de la naturaleza del yo.  
+**tampoco tengo** bhakti o devoción a Tus pies de loto".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न धर्मनिष्ठोस्मि’’(आळवन्दार् स्तोत्रम् २२) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ् पडिये  
+
+> सर्व-धर्मङ्गळुम् तऩ्ऩै योग्यता-पर्यन्तम् आगक् कऴित्त बडियै  
+मुऩ्ऩ् इट्टुक् कॊण्ड् 
+
+ऎऩ्ऱ बडि।
+</details>
+
+<details><summary>English</summary>
+
+as **has been** (well) **expressed** in such passages as the above: 
+
+(It) **would mean** 
+
+> "**Reflect** at first on the state in which you **are** unfit  
+for the **adoption** or **performance** of every form of dharma"  
+
+(in this case it **would be** a vidhi). 
+
+</details>
+
+<details><summary>Español</summary>
+
+como **ha sido** (bien) **expresado** en pasajes como el anterior: 
+
+(Eso) **significaría** 
+
+> "**Reflexiona** al principio sobre el estado en el que **estás** no apto  
+para la **adopción** o **ejecución** de cada forma de dharma"  
+
+(en este caso **sería** un vidhi).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये सर्वधर्मङ्गळुम् तऩ्ऩै योग्यतापर्यन्तमागक् कऴित्तबडियै मुऩ्ऩिट्टुक्कॊण्डॆऩ्ऱबडि।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अळवु विलम्बित-प्रतीतिकम् आऩव् अर्थमुम्  
+बहु-प्रमाणानुगुणम् आगैयाल्  
+
+अवऱ्ऱुक्कु विरुद्धम् आग शङ्कराद्य्-उक्तङ्गळ् आऩ  
+सर्व-धर्म-स्वरूप-त्यागाद्य्-अर्थङ्गळिऱ् काट्टिलुम्  
+उपादेयम्।
+</details>
+
+<details><summary>English</summary>
+
+Even this interpretation, which **is not** the meaning that **strikes** one immediately  
+and **is** therefore a little strained,  
+**is** better than the meanings given by Saṅkara and others  
+that what **is intended** here  
+**is** such as the **giving up** of the dharmas themselves in their essential nature (svarūpa),  
+because it **is not** in keeping with any pramāṇas  
+(for in the chapters on prapatti,  
+it **is enjoined** that the rites and observances of castes and āśramas  
+**should** (always) **be performed**).
+</details>
+
+<details><summary>Español</summary>
+
+Incluso esta interpretación, que **no** es el significado que **salta a uno** inmediatamente  
+y **está** por lo tanto un poco tenso,  
+**es** mejor que los significados dados por Saṅkara y otros  
+eso es lo que **se pretende** aquí  
+**es** tal como el **abandono** de los dharmas mismos en su naturaleza esencial (svarūpa),  
+porque **no** está de acuerdo con ningún pramāṇas  
+(porque en los capítulos sobre prapatti,  
+**se ordena** que los ritos y observancias de castas y āśramas  
+**debe** (siempre) **realizarse**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वळवु विळम्बितप्रतीतिकमाऩवर्थमुम् बहुप्रमाणानुगुणमागैयाल् अवऱ्ऱुक्कु विरुद्धमाग शङ्कराद्युक्तङ्गळाऩ सर्वधर्मस्वरूपत्यागाद्यर्थङ्गळिऱ्काट्टिलुमुपादेयम्।
+</details>
+
+### न पर-नैरपेक्ष्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > प्रपत्तिक्क् आगव् ऒरु धर्मङ्गळुम् अनुष्ठिक्क वेण्डाव् 
+> 
+> ऎऩ्ऱु प्रपत्तियिऩ्-उडैय नैरपेक्ष्यत्तैच् चॊल्लुगिऱद् 
+
+ऎऩ्गै विधि-पक्षत्तुक्कु उचितम्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तिक्कागवॊरु धर्मङ्गळुमनुष्ठिक्कवेण्डावॆऩ्ऱु प्रपत्तियिऩुडैय नैरपेक्ष्यत्तैच् चॊल्लुगिऱदॆऩ्गै विधिपक्षत्तुक्कु उचितम्।
+</details>
+
+
+
+
+
+
+
+When we **take** parityajya as a vidhi or injunction,  
+it **would be appropriate** to **say** that  
+the meaning of sarva dharmān parityajya **is** -  
+
+> "No dharma of any kind **need be performed** for the sake of prapatti", 
+
+in the sense that prapatti does not require any of them (as aṅgas).  
+
+In that case, the use of the preposition pari **would suggest** that  
+even such **observances** as **are stated** in  
+
+> " This **should be done** after performing achamana" 
+
+and 
+
+> "This **should be done** with bodily purity", 
+
+which **are requisite** for **securing** fitness for all rites in common,  
+**are not** to be **accepted** as aṅgas for prapatti.
+
+Notwithstanding this, if it is maintained that the giving up of such dharmas as karma yoga, jñāna yoga and bhakti  yoga in their essential form (svarūpa) is an aṅga or accessory to prapatti, it would follow that prapatti is not in the competence of any one. The abandonment of a dharma can be enjoined only in the case of a person who is capable of performing it. This would be opposed to the thought of helplessness ( kārpaṇya ), which is called an aṅga ( of prapatti ) according to many pramāṇas. 
 
 It would also be opposed to the tradition that prapatti is for those who are destitute of upāyas, which is evident from such passages as the following: "I am without any upāyas and have no other saviour". "I was not born into any of the four castes so as to be competent for the performance of dharma". "I have given up the rites to be performed by a Brahmin who has the mark of worshipping the three fires after ablution", and "I am not well established in the performance of dharma, nor have I realised the nature of my self etc.
 
