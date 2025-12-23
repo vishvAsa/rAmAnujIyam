@@ -2330,7 +2330,7 @@ porque **no** está de acuerdo con ningún pramāṇas
 इव्वळवु विळम्बितप्रतीतिकमाऩवर्थमुम् बहुप्रमाणानुगुणमागैयाल् अवऱ्ऱुक्कु विरुद्धमाग शङ्कराद्युक्तङ्गळाऩ सर्वधर्मस्वरूपत्यागाद्यर्थङ्गळिऱ्काट्टिलुमुपादेयम्।
 </details>
 
-### न पर-नैरपेक्ष्यम्
+### न धर्मान्तर-त्याग-विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > प्रपत्तिक्क् आगव् ऒरु धर्मङ्गळुम् अनुष्ठिक्क वेण्डाव् 
@@ -2340,16 +2340,7 @@ porque **no** está de acuerdo con ningún pramāṇas
 ऎऩ्गै विधि-पक्षत्तुक्कु उचितम्।
 </details>
 
-<details><summary>मूलम्</summary>
-
-प्रपत्तिक्कागवॊरु धर्मङ्गळुमनुष्ठिक्कवेण्डावॆऩ्ऱु प्रपत्तियिऩुडैय नैरपेक्ष्यत्तैच् चॊल्लुगिऱदॆऩ्गै विधिपक्षत्तुक्कु उचितम्।
-</details>
-
-
-
-
-
-
+<details><summary>English</summary>
 
 When we **take** parityajya as a vidhi or injunction,  
 it **would be appropriate** to **say** that  
@@ -2358,8 +2349,43 @@ the meaning of sarva dharmān parityajya **is** -
 > "No dharma of any kind **need be performed** for the sake of prapatti", 
 
 in the sense that prapatti does not require any of them (as aṅgas).  
+</details>
 
-In that case, the use of the preposition pari **would suggest** that  
+<details><summary>Español</summary>
+
+Cuando **tomamos** "parityajya" como vidhi o mandato,  
+**sería apropiado decir** que  
+el significado de "sarva dharmān parityajya" **es** -  
+
+> "**No es necesario realizar** ningún dharma de ningún tipo por el bien de prapatti", 
+
+en el sentido de que prapatti **no requiere** ninguno de ellos (como aṅgas).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तिक्कागवॊरु धर्मङ्गळुमनुष्ठिक्कवेण्डावॆऩ्ऱु प्रपत्तियिऩुडैय नैरपेक्ष्यत्तैच् चॊल्लुगिऱदॆऩ्गै विधिपक्षत्तुक्कु उचितम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदु ‘‘परि’’ ऎऩ्गिऱ उपसर्गम्  
+
+> ‘‘आचान्तेन कर्तव्यं’’,  
+‘‘शुचिना कर्तव्यम्’’  
+
+इत्य्-आदिगळिऱ् सॊल्लुगिऱ सर्व-साधारण-योग्यतापादकङ्गळुम्  
+> 
+> इदुक्क्-अङ्गम् आग स्वीकार्यङ्गळ् आगाद्  
+
+ऎऩ्ऱु विवक्षिक्किऱदु।
+</details>
+
+<details><summary>English</summary>
+
+In that case, the use of the preposition "pari" **would suggest** that  
 even such **observances** as **are stated** in  
 
 > " This **should be done** after performing achamana" 
@@ -2370,10 +2396,220 @@ and
 
 which **are requisite** for **securing** fitness for all rites in common,  
 **are not** to be **accepted** as aṅgas for prapatti.
+</details>
 
-Notwithstanding this, if it is maintained that the giving up of such dharmas as karma yoga, jñāna yoga and bhakti  yoga in their essential form (svarūpa) is an aṅga or accessory to prapatti, it would follow that prapatti is not in the competence of any one. The abandonment of a dharma can be enjoined only in the case of a person who is capable of performing it. This would be opposed to the thought of helplessness ( kārpaṇya ), which is called an aṅga ( of prapatti ) according to many pramāṇas. 
+<details><summary>Español</summary>
 
-It would also be opposed to the tradition that prapatti is for those who are destitute of upāyas, which is evident from such passages as the following: "I am without any upāyas and have no other saviour". "I was not born into any of the four castes so as to be competent for the performance of dharma". "I have given up the rites to be performed by a Brahmin who has the mark of worshipping the three fires after ablution", and "I am not well established in the performance of dharma, nor have I realised the nature of my self etc.
+En ese caso, el uso de la preposición "pari" **sugeriría** que  
+incluso tales **observancias** como **están indicadas** en  
+
+> "Esto **debe hacerse** después de realizar achamana" 
+
+y 
+
+> "Esto **debe hacerse** con pureza corporal", 
+
+que **son requisitos** para **asegurar** la aptitud para todos los ritos en común,  
+**no** deben ser **aceptados** como aṅgas para prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पोदु ‘‘परि’’ ऎऩ्गिऱ उपसर्गम् ‘‘आचान्तेन कर्तव्यं’’, ‘‘शुचिना कर्तव्य’’ मित्यादिगळिऱ् सॊल्लुगिऱ सर्वसाधारणयोग्यतापादकङ्गळुमिदुक्कङ्गमाग स्वीकार्यङ्गळागा तॆऩ्ऱु विवक्षिक्किऱदु।
+</details>
+
+### नोपायान्तर-त्याग-विधिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् अऩ्ऱिक्के  
+कर्म-योगं, ज्ञान-योगम्, भक्ति-योगम् ऎऩ्गिऱ धर्मङ्गळिऩ्-उडैय स्व-रूप--त्यागम् प्रपत्तिक्क् अङ्गम् ऎऩ्ऩुम् पक्षत्तिल्  
+प्रपत्ति सर्वाधिकारम् अऩ्ऱिक्कॆय् ऒऴियुम्। 
+</details>
+
+<details><summary>English</summary>
+
+Notwithstanding this,  
+if it **is maintained** that the **giving up** of such dharmas as karma yoga, jñāna yoga and bhakti yoga in their essential form (svarūpa)  
+**is** an aṅga or accessory to prapatti,  
+it **would follow** that  
+prapatti **is not** in the **competence** of any one.  
+</details>
+
+<details><summary>Español</summary>
+
+A pesar de esto,  
+si **se mantiene** que el **abandono** de dharmas como karma yoga, jñāna yoga y bhakti yoga en su forma esencial (svarūpa)  
+**es** un aṅga o accesorio de prapatti,  
+**se seguiría** que  
+prapatti **no** es **competencia** de nadie.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩऩ्ऱिक्के कर्मयोगम् ज्ञानयोगम् भक्तियोगमॆऩ्गिऱ धर्मङ्गळिऩुडैय स्वरूपत्यागम् प्रपत्तिक्कङ्गमॆऩ्ऩुम् पक्षत्तिल्प्रपत्ति सर्वाधिकारमऩ्ऱिक्कॆ यॊऴियुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धर्मानुष्ठान-शक्तऩुक्क् इऱेय्  
+अवऱ्ऱिऩ्-उडैय त्यागत्तै विधिक्क वेण्डुवदु। 
+</details>
+
+<details><summary>English</summary>
+
+The abandonment of a dharma **can be enjoined**  
+only in the case of a person  
+who **is capable** of performing it. 
+</details>
+
+<details><summary>Español</summary>
+
+El abandono de un dharma **puede ser ordenado**  
+sólo en el caso de una persona  
+quién **es capaz** de **realizarlo**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+धर्मानुष्ठानशक्तऩुक्किऱे यवऱ्ऱिऩुडैय त्यागत्तै विधिक्क वेण्डुवदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु बहु-प्रमाण सिद्धम् आऩ कार्पण्यम् आगिऱव् अङ्गत्तुक्कुम्, 
+</details>
+
+<details><summary>English</summary>
+
+This (would be opposed) to the thought of helplessness ( kārpaṇya ), which is called an aṅga ( of prapatti ) according to many pramāṇas. 
+</details>
+
+<details><summary>Español</summary>
+
+Esto (**se opondría**) al **pensamiento** de impotencia (kārpaṇya),  
+que **se llama** aṅga (de prapatti) según muchos pramāṇas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु बहुप्रमाण सिद्धमाऩ कार्पण्यमागिऱवङ्गत्तुक्कुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ’’पुगल् ऒऩ्ऱ् इल्लाव् अडियेऩ्’’  
+(तिरुवाय्मॊऴि ६-१०-१०), 
+</details>
+
+<details><summary>English</summary>
+
+> "I **am** without any upāyas  
+and **have no** other saviour". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Yo **soy** sin ningún upāyas  
+y **no tengo** otro salvador".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+’’पुगलॊऩ्ऱिल्लावडियेऩ्’’(तिरुवाय्मॊऴि ६-१०-१०), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'कुलङ्गळ् आयव् ईर्-इरण्डिल्' +++(न जातः)+++  
+> (तिरुच्-छन्दविरुत्तम् ९०),  
+</details>
+
+<details><summary>English</summary>
+
+> "I **was not born** into any of the four castes  
+so as to **be competent** for the **performance** of dharma". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Yo **no nací** en ninguna de las cuatro castas  
+para **ser competente** para la **ejecución** del dharma".
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’कुलङ्गळाय’’(तिरुच्-छन्दविरुत्तम् ९०), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'कुळित्तु+++(=स्नात्वा)+++ मूऩ्ऱ् (अऩलैय्+++(=अनलानां)+++ ओम्बुम्+++(=परिचरणम् [त्यक्तम्])+++)'  
+(तिरुमालै २५),  
+</details>
+
+<details><summary>English</summary>
+
+> "I **have given up** the rites to be **performed** by a Brahmin  
+who **has** the mark of **worshipping** the three fires after **ablution**", 
+</details>
+
+<details><summary>Español</summary>
+
+> "He **he renunciado** a los ritos que **realizará** un brahmán  
+que **tiene** la marca de **adorar** los tres fuegos después de la **ablución**",
+</details>
+
+<details><summary>मूलम्</summary>
+
+’’कुळित्तु मूऩ्ऱु’’(तिरुमालै २५),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न धर्मनिष्ठोऽस्मि’’  
+(आळवन्दार् स्तोत्रम्) 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘न धर्मनिष्ठोऽस्मि’’  
+(आळवन्दार् स्तोत्रम्) 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> I **am not** well **established**  
+in the **performance** of dharma,  
+**nor have I realised** the nature of my self etc.
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> **No** estoy bien **establecido**  
+en la **realización** del dharma,  
+**ni me he dado cuenta** de la naturaleza de mi yo, etc.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘न धर्मनिष्ठोऽस्मि’’(आळवन्दार् स्तोत्रम्) 
+</details>
+
+
+
+It **would** also **be opposed** to the tradition that  
+prapatti **is** for those who **are destitute** of upāyas,  
+which **is evident** from such passages as the above.  
 
 To state that the jīva (kṣetrajna) is eternally incapable of all other upāyas, since he is entirely dependent on and subject to the control of Iśvara and (in the same breath) to state that the giving up of these dharmas or upāyas is enjoined on him is against all śastras and is opposed also to the very words of these writers and their actual practice. (For how can a man give up a dharma which he is not capable of performing? How can a man proceed to perform kaiṅkarya, if he is incapable of it owing to otter dependence and subjection?). It would, therefore, be extremely ridiculous to hold this view. If this view were right, then by the same logic, even the vidhi contained in vraja (seek me etc.) would be impossible of performance.
 
