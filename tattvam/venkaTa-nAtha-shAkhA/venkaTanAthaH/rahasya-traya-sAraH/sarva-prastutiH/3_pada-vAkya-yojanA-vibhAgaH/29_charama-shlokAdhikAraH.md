@@ -2605,15 +2605,145 @@ en la **realización** del dharma,
 ‘‘न धर्मनिष्ठोऽस्मि’’(आळवन्दार् स्तोत्रम्) 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+इत्य्-आदिगळिले प्रसिद्धम् आऩव् अ-किञ्चनाधिकारम् ऎऩ्गिऱ संप्रदायत्तुक्कुम् विरुद्धम् आम्।
+</details>
+
+<details><summary>English</summary>
 
 It **would** also **be opposed** to the tradition that  
 prapatti **is** for those who **are destitute** of upāyas,  
 which **is evident** from such passages as the above.  
+</details>
 
-To state that the jīva (kṣetrajna) is eternally incapable of all other upāyas, since he is entirely dependent on and subject to the control of Iśvara and (in the same breath) to state that the giving up of these dharmas or upāyas is enjoined on him is against all śastras and is opposed also to the very words of these writers and their actual practice. (For how can a man give up a dharma which he is not capable of performing? How can a man proceed to perform kaiṅkarya, if he is incapable of it owing to otter dependence and subjection?). It would, therefore, be extremely ridiculous to hold this view. If this view were right, then by the same logic, even the vidhi contained in vraja (seek me etc.) would be impossible of performance.
+<details><summary>Español</summary>
 
-The statement that the jīvātmā is eternally incapable of all other upāyas would only go to confirm the view that parityajya (here, does not enjoin the giving up and) only states what has already occurred (anuvāda) (owing to inability ), which these writers would not like to accept.
+También **se opondría** a la tradición de que  
+prapatti **es** para aquellos  
+que **están desposeídos** de upāyas,  
+lo cual **es evidente** en pasajes como el anterior.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिले प्रसिद्धमाऩवकिञ्चनाधिकारमॆऩ्गिऱ संप्रदायत्तुक्कुम् विरुद्धमाम्।
+</details>
+
+### नात्यन्त-पारतन्त्र्यतस् त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ईश्वरऩैप् पऱ्ऱ अत्यन्त-पर-तन्त्रतैयाले  
+उपायान्तरङ्गळुक्कु क्षेत्र-ज्ञऩ् नित्याशक्तऩ् ऎऩ्ऱु काट्टिय्  
+इवऩुक्क् अवऱ्ऱिऩ्-उडैय त्यागत्तै विधिक्किऱद् 
+
+ऎऩ्ऩुम् अदु  
+सर्व-शास्त्र--स्व-वचन-- स्वप्रवृत्त्य्-आदि-विरोधत्ताले  
+अत्यन्त-परिहास्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+To state that the jīva (kṣetrajna) **is** eternally **incapable** of all other upāyas,  
+since he **is** entirely **dependent** on and subject to the **control** of Iśvara  
+and (in the same breath) to **state** that the **giving up** of these dharmas or upāyas **is enjoined** on him  
+**is against** all śastras  
+and **is opposed** also to the very words of these writers and their actual practice.  
+
+(For how can a man **give up** a dharma  
+which he **is not capable** of **performing**?  
+How **can** a man **proceed** to **perform** kaiṅkarya,  
+if he **is** incapable of it  
+owing to utter dependence and subjection?)
+
+It **would**, therefore, **be** extremely ridiculous to hold this view. 
+</details>
+
+<details><summary>Español</summary>
+
+**Afirmar** que la jīva (kṣetrajna) **es** eternamente **incapaz** de todos los demás upāyas,  
+ya que él **es** enteramente **dependiente** y sujeto al **control** de Iśvara  
+
+y (al mismo tiempo) **afirmar** que **le está ordenado renunciar** a estos dharmas o upāyas  
+
+**está en contra** de todos los śastras  
+y **se opone** también a las mismas palabras de estos escritores y su práctica real.
+
+(Porque - ¿cómo **puede** un hombre **renunciar** a un dharma  
+que él **no es capaz** de **realizar**?  
+¿Cómo **puede** un hombre **proceder** a **realizar** kaiṅkarya?  
+si él **es** incapaz de ello  
+debido a la absoluta dependencia y sujeción?)
+
+Por lo tanto, **sería** extremadamente ridículo **sostener** esta opinión.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩैप् पऱ्ऱ अत्यन्तपरतन्त्रतैयाले उपायान्तरङ्गळुक्कु क्षेत्रज्ञऩ् नित्याशक्तऩॆऩ्ऱुगाट्टिय् इवऩुक्कवऱ्ऱिऩुडैय त्यागत्तै विधिक्किऱदॆऩ्ऩुमदु सर्वशास्त्र स्ववचन स्वप्रवृत्त्यादि विरोधत्ताले अत्यन्त परिहास्यम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदु तुल्य-न्यायत्ताले ‘‘व्रज’’ ऎऩ्गै दाऩुम् घटियादु। 
+</details>
+
+<details><summary>English</summary>
+
+If this view **were** right,  
+then by the same logic,  
+even the vidhi **contained** in vraja (**seek me** etc.)  
+**would be** impossible of performance.
+</details>
+
+<details><summary>Español</summary>
+
+Si este punto de vista **fuese** correcto,  
+entonces por la misma lógica,  
+incluso el vidhi **contenido** en vraja (**búscame** etc.)  
+**sería** imposible de **realizar**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पोदु तुल्यन्यायत्ताले ‘‘व्रज’’ ऎऩ्गैदाऩुम् घटियादु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"उपायान्तरङ्गळुक्कु जीवात्मा नित्याशक्तऩ्" ऎऩ्गै  
+तङ्गळुक्क् अनिष्टम् आऩव् अनुवाद-पक्षत्तुक्कु स्थिरी-करणम् पण्णिऩ बडिय् आम् अत्तऩै। 
+</details>
+
+<details><summary>English</summary>
+
+The **statement** that the jīvātmā **is** eternally incapable of all other upāyas  
+**would** only **go to confirm** the **view**  
+that parityajya (here, **does not enjoin** the **giving up** and) only **states** what has already **occurred** (anuvāda) (owing to inability ),  
+which these writers **would not like to accept**.
+</details>
+
+<details><summary>Español</summary>
+
+La **declaración** de que la jīvātmā **es** eternamente incapaz de todos los demás upāyas  
+sólo **iría a confirmar** la **vista**  
+que "parityajya" (aquí, **no ordena** el **abandono** y) sólo **declara** lo que ya **ocurrió** (anuvāda) (debido a la **incapacidad**),  
+que a estos escritores **no les gustaría aceptar**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायान्तरङ्गळुक्कु जीवात्मा नित्याशक्तऩॆऩ्गै तङ्गळुक्कनिष्टमाऩ वनुवादपक्षत्तुक्कु स्थिरीकरणम् पण्णिऩबडियामत्तऩै। 
+</details>
+
+
+
+
 
 (Further) the use of a single set of words in a single sentence cannot mean both the statement of what has occurred owing to inability in the case of the man who is not capable and the injunction to the man who is capable of performance to give it up ( which is another view held by some)
 
