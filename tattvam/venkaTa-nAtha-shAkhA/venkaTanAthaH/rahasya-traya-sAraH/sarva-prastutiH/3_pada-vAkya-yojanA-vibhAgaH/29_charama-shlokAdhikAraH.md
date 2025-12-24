@@ -220,6 +220,11 @@ que **se interponía** en el camino para que **ver**, **disfrutar** y **llevar**
 निऩ्ऱ कण्बुदैयल् विळैयाट्टैक् कऴिक्किऩ्ऱाने. ॥ 41 ॥
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अनन्तरम् ऒरु द्रमिडगाथैयाले सर्वजगत्स्रष्टावाऩ श्रियःपति तऩ्ऩाले सृष्टमाऩ जगत् तॆल्लाम् उज्जीविक्कवेण्डुमॆऩ्ऱु निऩैत्तु, ताऩे कृष्णऩागववदरित्तु अर्जुनऩुक्कु सारथियाय् निऩ्ऱु चरमश्लोकत्तैच् चॊऩ्ऩाऩॆऩ्ऱु चरमश्लोकावतारक्रमत्तैच् चॊल्लि, अदिऱ्सॊऩ्ऩ उपायभूतऩाऩ ताऩे नमक्कु मोक्षप्रतिबन्धकङ्गळैप् पोक् कडिक्क प्रयत्नम् सॆय्गिऱार् ऎऩ्गिऱार् ऒण्डॊडियाळिति। ऒण् - उज्ज्वलमाऩ, तॊडियाळ् - तोळ्वळैगळैयुडैय, तिरुमगळुम् - पॆरियबिराट्टियारुम्, ताऩुमागि - ताऩुम् सेर्न्दु, ऒरु निऩैवाल् - एकाभिप्रायत्ताले, ईऩ्ऱ - सृष्टित्त, उयिरॆल्लाम् - जीवऩ्गळॆल्लाम्, उय्य - उज्जीविक्कैक्काग, इदऱ्कु वसुदेवऱ्काय् ऎऩ्बदोडुम् ताऩे सॊऩ्ऩ ऎऩ्बदोडुम् अन्वयम्। वण् - उदारमाऩ, अदावदु ‘‘पुरी द्वारवती चैव’’ ऎऩ्ऱु मोक्षप्रदमाऩ नगरङ्गळिल् ऒऩ्ऱाग प्रसिद्धमाऩ। तुवरै नगर् - द्वारकापुरत्तिल्, वाऴ् - वाऴ्न्दुक्कॊण्डि रुक्कुम्, वसुदेवऱ्काय् - वसुदेवरुक्कु पुत्रऩागववदरित्तु, ’’वाऴ’’ ऎऩ्गिऱ पाडत्तिल् द्वारकानगरवासिकळ् वाऴुम्बडि ऎऩ्ऱर्थमागक् कडवदु। मऩ्ऩवर्क्कु - राजावाऩ पार्थऩुक्कु, तेर्प्पागऩागि निऩ्ऱ - सौशील्यसौलभ्यत्ताले सारथियाय् निऩ्ऱ, तण् - शीतळमाऩ, तुळवमलर् - तुळसीबुष्पङ्गळै, मार्बऩ् - मार्बिले उडैय कृष्णऩाऩवऩ्, ताऩे सॊऩ्ऩ - कृपाविशेषत्ताले स्वयमागवे उपदेशित्त, तऩित् तरुमम् ताऩ् - अद्वितीयमाऩ धर्ममाऩ ताऩ्, ऎमक्काय् - स्वीकृतभरऩाय्क् कॊण्डु, नमक्कु उपायान्तर स्थानत्तिल् निऱ्कुमवऩाय्, तऩ्ऩै - उभयविभूतिविशिष्टऩाय् समस्तकल्याणगुणपूर्णऩाऩ तऩ्ऩै, ऎऩ्ऱुम् - सर्वगालत्तिलुम्, कण्डु - साक्षात्करित्तु, कळित्तु - आनन्दित्तु, अदऩाले अडिसूड - तिरुवडिगळै शिरसावहिक्कै मुदलिय कैङ्गर्यङ्गळैप् पण्णुगैक्कु, विलक्काय् निऩ्ऱ - प्रतिबन्धकमायिरुक्किऱ, कण् पुदैयल् विळैयाट्टै - बालर्गळ् कण्णै मूडिच् चॆय्युम् विळैयाट्टुक्कुत् तुल्यमाऩ विळैयाट्टै, अदावदु तत्त्वहितपुरुषार्थमागिऱ कण्णै मऱैक्कुम् संसारबन्धलीलैयै, कऴिक्किऩ्ऱाऩे - पोक्कडिक्क विरगु सॆय्गिऩ्ऱाऩ् ऎऩ्गै। 
+</details>
+
 
 ## उद्भवः
 <details><summary>English</summary>
@@ -279,6 +284,13 @@ Como **se dice** en este śloka,
 ‘‘एष नारायणश्श्रीमान् क्षीरार्णवनिकेतनः । नागपर्यङ्कमुत्सृज्य ह्यागतो मधुरां पुरीम्’’(हरिवंशः ११३-६२) ऎऩ्गिऱबडिये
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि इन्दप् पाट्टिल् सङ्ग्रहमागच् चॊऩ्ऩ चरमश्लोकावतारक्रमत्तै विस्तरेण ऒरु  
+चूर्णिकैयाले अरुळिच्चॆय्गिऱार् एष नारायण इत्यादियाल्। श्रीमाऩाय् श्वशुरगृहमाऩ क्षीराब्धियै वासस्थानमाग उडैयवऩुमाऩ इन्द नारायणऩ् पर्यङ्कमाऩ आदि सेषऩैत् तऩक्कुत् तमैयऩाग सृष्टिप्पित्तु मधुरापुरियैक्कुऱित्तुवन्दाऩ्। मदुरैयिले अवदरित्ताऩ् ऎऩ्गै। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रियःपतिय् आऩ सर्वेश्वरऩ्  
@@ -316,6 +328,14 @@ y **establecer** el dharma sobre una base firme;
 श्रियःपतियाऩ सर्वेश्वरऩ् साधुपरित्राण दुष्कृद्विनाश धर्मसंस्थापनङ्गळुक्काग
 </details>
 
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+साधुपरित्राणेत्यादि । ‘‘परित्राणाय साधूना’’मित्यादि वचनङ्गळ् इङ्गु अभिप्रेतङ्गळ्। 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वण्+++(=सु)+++-डुवरा+++(=द्वारका)+++-पदि+++(=क्षेत्र)+++-मऩ्ऩऩ्+++(=राट्)+++ आय्  
@@ -348,6 +368,14 @@ y **establecer** el dharma sobre una base firme;
 
 वण्डुवराबदिमऩ्ऩऩाय् वन्दवदरित्तरुळि सर्वसुलभऩाय्, 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+वण्डुवराबदिमऩ्ऩऩाय् - श्लाघ्यतैयैयुडैय द्वारकापुरिक्कु राजावाय्, निमित्तमात्रमागक्कॊण्डु इति ।  
+‘‘निमित्तमात्रं भव सव्यसाचिन्’’ ऎऩ्गिऱ वचनम् इङ्गु अभिप्रेतम्। तऩ् प्रतिपक्षङ्गळै - मेल् अर्जुनाभिप्रायत्तैच् चॊल्लुगैयाल् इङ्गु तऩ् शब्दम् अर्जुनपरम्। अस्थानस्नेहमावदु अनवसरत्तिल् स्नेहम्, अस्थानकृपैयावदु अयोग्यकालत्तिल् कारुण्यम्। इदऩाल् ‘‘अस्थानस्नेहकारुण्यधर्माधर्मधियाकुलम्’’ ऎऩ्गिऱ सङ्ग्रहश्लोकम् स्मारितम्। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -525,6 +553,13 @@ aunque **aparecieron** (contra él) con atuendos bélicos, **era** un pecado.
 अस्थानस्नेहत्ताले पिऱन्द शोकत्तालुम् अस्थानकृपैयालुम् आचार्यादिगळ् युद्धोन्मुखरेयागिलुम् अवर्गळ् वधत्ताले पापम् वरुगिऱदॆऩ्गिऱ भयत्तालुङ् गलङ्गि 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इदिल् धर्माधर्मभयाकुलं ऎऩ्गिऱ पाडत्तैयनुसरित्तुच् चॊल्लुगिऱार् आचार्यादिगळिति । आसार्यर्गळ् युद्धोन्मुखर्गळागिल् अवर्गळ् वधत्तिल्बाबमिल्लामलिरुक्क अवर्गळुडैय वधमुम् पाबहेदु ऎऩ्गिऱ भयत्ताले ऎऩ्ऱबडि। 
+</details>
+
+
+
 ### प्रार्थना
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -550,6 +585,8 @@ Entonces él **quería saber**
 
 ऎदु हितमॆऩ्ऱु तॆळियवेणुमॆऩ्ऱु पार्त्तु 
 </details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -598,7 +635,7 @@ Por lo tanto **aconsejame** lo que **debo hacer**”.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अवऩ्-उडैय शोकत्तै निवर्तिप् पिक्कैक्क् आग 
+अवऩ्-उडैय शोकत्तै निवर्तिप्पिक्कैक्क् आग 
 </details>
 
 <details><summary>English</summary>
@@ -639,6 +676,10 @@ que **es** diferente del cuerpo y cosas similares (los sentidos, etc.)
 <details><summary>मूलम्</summary>
 
 देहादिव्यतिरिक्तमाय् परशेषतैकरसमाऩ नित्यात्मस्वरूपत्तैयुम्, 
+</details>
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+परशेषतैकरसमाऩ इति परशेषत्वमेव एको रसः स्वभावः यस्य । +++(5)+++
 </details>
 
 
@@ -820,6 +861,12 @@ por su infinita compasión,
 निरतिशयशोकाविष्टऩाऩ अर्जुनऩै व्याजमागक् कॊण्डु परमकारुणिकऩाऩ गीतोपनिषदाचार्यऩ् 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अर्जुनऩै व्याजमागक् कॊण्डु इति । सर्वलोकोज्जीवनार्थमॆऩ्ऱु शेषम्। 
+</details>
+
+
 ### प्रपत्त्य्-उपदेशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -861,6 +908,10 @@ No **hay** otra forma de **alcanzarme**",
 ‘‘भक्त्या परमया वापि प्रपत्त्या वा महामते । प्राप्योऽहं नान्यथा प्राप्यो मम कैङ्कर्यलिप्सुभिः’’()
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+भक्त्येति । मत्कैङ्कर्यलिप्सुक्कळाऩ जऩङ् गळाले साक्षात्कारदशैयैयडैन्द परमभक्तियालादल्, प्रपत्तियिऩालेयादल् नाऩ् अडैयक्कूडिऩवऩ्। वेऱु उबायङ्गळाले साक्षात्ताग अडैयक्कूडिऩ वऩऩ्ऱु ऎऩ्गै। 
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -923,6 +974,17 @@ Sólo hasta cierto punto **habrá sufrimiento**, etc."
 ‘‘तावदार्तिस्तथा वाञ्छा तावन्मोहस्तथाऽसुखम्’’(विष्णुपुराणम् १-९-७३) ऎऩ्गिऱबडिये
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तावदार्तिरिति । पुरुषार्थप्राप्तिप्रतिबन्धकमाऩ सर्वविधपापत्तिऱ्कुम् नाशकऩाऩ उऩ्ऩै ऎदु पर्यन्तम् शरणमाग अडैगिऱाऩिल्लैयो अदु पर्यन्तमे, आर्तिः – नष्टैश्वर्यकामनावाऩुक्कु ऐच्वर्यनाशत्ताले उण्डाऩ दुःखमिरुक्कुम्। प्रपत्ति पण्णिऩाल् उडऩे नष्टैश्वर्यलाभात् ऐश्वर्यनाशप्रयुक्तमाऩ आर्ति अदावदु दुःखम् निल्लादिऱे। तथा - अदु पर्यन्दमे, तथा शब्दमुम् तावदर्थकम्; यावत्प्रतिसम्बन्धित्वात् । वाञ्छा – नूतनैश्वर्यकामनावाऩुक्कु ऐश्वर्यत्तै यडैयवेण्डुमॆऩ्गिऱ इच्छै । शरणागति पण्णिऩाल् अप्पॊऴुदे ऐश्वर्यम् सिद्धिक्कुमागैयाले सिद्धेऽर्थे इच्छैयुण्डागादॆऩ्ऱु करुत्तु।
+
+परिशुद्धात्मजिज्ञासुवाऩ कैवल्यार्थिक्कुम् अदु पर्यन्दमे, मोहः – आत्मज्ञानप्रतिबन्धकमाऩ देहात्मभ्रममिरुप्पदु। शरणागदि पण्णिऩाल् अप्पोदे देहात्मभ्रमम् कऴियुमॆऩ्ऱु करुत्तु।
+
+तथा - अदुबर्यन्दमे, असुखं - मोक्षविरोधियाऩ संसारदुःखम्। उऩ्ऩै शरणमडैन्दाल् अप्पॊऴुदे असुखमाऩ संसारम् कऴिन्दुबो मॆऩ्ऱु करुत्तु।
+
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तऩ् तिरुव्-अडिगळैप् पॆऱुगैक्कुम्  
@@ -944,6 +1006,12 @@ Sólo hasta cierto punto **habrá sufrimiento**, etc."
 <details><summary>मूलम्</summary>
 
 तऩ् तिरुवडिगळैप् पॆऱुगैक्कुम् मऱ्ऱुमभिमतमाऩवैयॆल्लात्तुक्कुम् पॊदुवाऩ साधनमाय्
+</details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पॊदुवाऩ साधनमायिति । त्रैवर्गिकङ्गळुक्कुम् मोक्षत्तिऱ्कुंसाधारणकारणमाय्। 
 </details>
 
 
@@ -1010,11 +1078,17 @@ y **se puede hacer** en sólo un instante.
 क्षणमात्रसाध्यमाऩ रहस्यतमोपायत्तै श्रोतव्यशेषमिल्लादबडि उपदेशपर्यवसानमाऩ चरमशलोकत्ताल् सकललोकरक्षार्थमागवरुळिच्चॆय्गिऱाऩ्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+रहस्यतमोपायत्तै - शरणागतियै। श्रोतव्यशेषमिल्लादबडि इति । इदऩाल् श्रोतव्यशेषत्तैयुडैय ‘‘मन्मना भव मद्भक्तः’’ ऎऩ्ऱु पूर्वश्लोकत्तिऱ्सॊऩ्ऩ भक्तियैक्काट्टिलुम् वासि सॊल्लप्पट्टदु। उपदेशपर्यवसानमाऩ इति । उपदेशत्तिऱ्कु मुडिवाऩ, अदावदु रहस्यतमार्थमागैयाले मुडिवाग इप्पडिच् चॆय् ऎऩ्ऱु सॊल्लुम् उपदेशरूपमाऩ चरमश्लोकत्ताले इति । इदऱ्कुमेल् सॊल्लक्कूडिय मोक्षोपायमिल्लामैयाल् चरममाग निऩ्ऱ चरमश्लोकत्ताले ऎऩ्गै।  
+</details>
+
+
 ## आचार्यानुज्ञा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुति-सिद्धम् आऩव् इव्व्-अर्थत्तै  
-शरण्यऩ् आऩ सर्वेश्वरऩ् ताऩे उपदेशिक्कव् 
+शरण्यऩ् आऩ सर्वेश्वरऩ् ताऩे +++(गीताचार्यरूपेण मध्यमपुरुषप्रयोगेण)+++ उपदेशिक्कव् 
 </details>
 
 <details><summary>English</summary>
@@ -1034,6 +1108,27 @@ que **es** bien **conocido** de los śrutis,
 <details><summary>मूलम्</summary>
 
 श्रुतिसिद्धमाऩ विव्वर्थत्तै शरण्यऩाऩ सर्वेश्वरऩ् ताऩे उपदेशिक्कव् 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+> ननु 
+> 
+> > न प्रसीदति वै विद्या  
+विना सदुपदेशतः 
+> 
+> ऎऩ्ऱु सदाचार्यानुज्ञातमल्लाद विद्यैक्कुम् फलजनकत्वम् कूडादेयॆऩ्ऩ एतादृशार्थोपदेष्टावाऩ कृष्णऩे आसार्यऩागैयाले इदु आचार्यानुज्ञैयायुमायिऱ्ऱॆऩ्गिऱार् श्रुतिसिद्धमाऩ विव्वर्थत्तैयिति ।  
+
+> ‘‘मुमुक्षुर्वै शरणमहं प्रपद्ये’’ 
+
+ऎऩ्गिऱ श्वेताश्वतरश्रुतिविहितमाऩ शरणागतिरूपार्थत्तै ऎऩ्गै।  
+
+सर्वेश्वरऩ् ताऩे उपदेशिक्क -  
+‘‘तम् एकं शरणं व्रजेत्’’  
+ऎऩ्ऱु प्रथम-पुरुषऩाले सर्वसाधारणम् आग विधिक्कैय् अऩ्ऱिक्के 
+
+‘‘मामेकं शरणं व्रज’’ ऎऩ्ऱु मध्यमपुरुषऩाले  
+अर्जुनमात्रसाधारणमागत् ताऩे उपदेशिक्क 
 </details>
 
 
@@ -1093,6 +1188,11 @@ y con **renuncia** a los frutos de todas las acciones”.
 ६ ‘‘सन्त्यज्य विधिना नित्यं षड्विधां शरणागतिम् । आचार्यानुज्ञया कुर्याच्छास्त्रदृष्टेन वर्त्मना’’ (श्री विष्णु-तत्त्वम्) ऎऩ्ऱु श्रीविष्णुतत्त्वादिगळिऱ्सॊऩ्ऩ आचार्यानुज्ञैयुमायिऱ्ऱु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सन्त्यज्येति । सर्वधर्मान् – सर्वकामानैहिकामुष्मिकानपि ऎऩ्ऱु मुऩ्बु सॊऩ्ऩ नित्यकर्मङ्गळैयुम् ऐहिकामुष्मिककाम्यफलङ्गळैयुम्, नित्यं सन्त्यज्य - विट्टु, विधिना - विधियोडे, अदावदु सात्त्विकत्यागपूर्वकम्, आचार्यानुज्ञया - आचार्यऩुडैय उपदेशरूपमाऩ अनुज्ञैयाले, शास्त्रदृष्टेनवर्त्मना – शास्त्रोक्तमार्गत्ताले, षड्विधां – अङ्गाङ्गि समुच्चयत्ताले आऱु विदमाऩ, शरणागतिं कुर्यात् – शरणागतिरूपोपायत्तै अनुष्टिक्कक्कडवऩ्।  
+</details>
+
 
 ## प्रतिज्ञा
 
@@ -1144,6 +1244,12 @@ las **interpretaciones dadas** de este śloka por (**comentaristos**) tan perver
 इन्द श्लोकत्तुक्कु शङ्करादिकुदृष्टिकळ् सॊल्लुम् पॊरुळ् कळॆल्लाम् तात्पर्यचन्द्रिकैयिलुम् निक्षेपरक्षैयिलुम् परक्क दूषित्तोम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि चरमश्लोकत्तिऱ्कु शङ्करादिगळ् अन्यथावाग व्याख्यानम् सॆय्दिरुक्क इदऱ्कु प्रपत्तिपरत्वम् कूडुवदु ऎङ्ङऩेयॆऩ्ऩ वरुळिच्चॆय्गिऱार् सर्वधर्मानित्यादीत्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्गु सारम् आऩ अर्थङ्गळै  
@@ -1167,6 +1273,16 @@ como **establecido** en la tradición de los sabios.
 इङ्गु सारमाऩ अर्थङ्गळै सत्संप्रदायसिद्धमाऩबडिये सॊल्लुगिऱोम्। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तात्पर्यचन्द्रिकादिगळिल्, शङ्करादिगळ् सॊल्लुमर्थम् दूषिक्कप्पट्टिरुन्दाल् इङ्गु नीर् सॊल्लुमर्थमॆवै ऎऩ्ऩ वरुळिच्चॆय्गिऱार् इङ्गु सारमाऩ वर्थङ्गळैयिति । अङ्गु शङ्करादिगळ् सॊऩ्ऩवर्थङ्गळुक्कु असारत्वम् सॊल्लप्पट्टदु। इङ्गु प्रतिपदङ्गळुक्कुम् सारतममाऩ अर्थमे सॊल्लप्पडुगिऱदु ऎऩ्ऱु करुत्तु।
+
+
+सत्सम्प्रदायसिद्धमाऩबडिये इति । तिरुक्कोट्टियूर् नम्बि प्रभृतिकळिडत्तिल् निऩ्ऱुम् उपदेशपरम्बरैयाले ऎप्पडि प्राप्तमो, अप्पडिच् चॊल्लुगिऱोमॆऩ्ऱु करुत्तु।
+
+</details>
+
+
 ## उपाय-विधानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1187,6 +1303,12 @@ La primera mitad de este (śloka) **ordena** el upāya,
 
 इदिल्पूर्वार्धमुपायविधायकम्; 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+चरमश्लोकत्तिल् पूर्वार्धम् शरणागति रूपोपायत्तैये विधिक्कैयालुम्, उत्तरार्धम् शरणागतिफलत्तैच् चॊल्लुगैयाल् अदऱ्कु शेषमागैयालुम् इदु उपायविधानप्रधानमॆऩ्गिऱार् इदिल् पूर्वार्धमित्यादियाल्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1253,8 +1375,25 @@ que **puede entenderse** únicamente desde el śāstra.
 
 <details><summary>मूलम्</summary>
 
-धर्ममावदु; शास्त्रमे कॊण्डऱियवेण्डि यिरुक्कुम् पुरुषार्थसाधनम्। 
+धर्ममावदु; शास्त्रमे कॊण्डऱियवेण्डियिरुक्कुम् पुरुषार्थसाधनम्। 
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि चरमश्लोकत्तिल् प्रथमपदम् तुडङ्गि क्रममाग अर्थङ्गळैच् चॊल्लप् पोगिऱवराय् मुदलिल् सर्वधर्मान् ऎऩ्गिऱ पदत्तिऱ्कु व्याख्यानम् सॆय्य निऩैत्तु विशेषणवाचियाऩ सर्वशब्दमुम् विशेष्यवाचियाऩ धर्मशब्दमुम् विभक्तियुम् कूडिऩ अदिल् विशेष्यवाचकधर्मशब्दत्तिऱ्कु मुन्दुऱ अर्थमरुळिच्चॆय्गिऱार् धर्ममावदु इति । अलौकिकश्रेयस्साधनताकत्वम् धर्मत्वम्।  
+अदिल् अलौकिकत्वमावदु -  
+शास्त्रेतरङ्गळाऩ प्रत्यक्षानुमानङ्गळुक्कु गोचरमागामै।  
+तथाच शास्त्रैकगोचरत्वमॆऩ्ऱबडि।  
+इङ्गु स्वर्गादि श्रेयस्साधनङ्गळाऩ देवतोद्देशेन द्रव्यत्यागरूपयागङ्गळुम्,  
+श्रेयस्साधनङ्गळ् आऩ व्रीह्यादिगळुम् प्रत्यक्षवेद्यङ्गळ् आय्,  
+लौकिकङ्गळ् आय् इरुन्दालुम्,  
+अवैगळिल् उळ्ळ श्रेयस्साधनतै प्रात्यक्षिकमऩ्ऱिक्के शास्त्रैकसमधिगम्यैयागैयाले श्रेयस्साधनतायामलौकिकत्वं विशेषितम्। 
+
+इन्द लक्षणत्तिल् तिरुवुळ्ळत्तैक् कॊण्डु अरुळिच्चॆय्गिऱार् शास्त्रमे कॊण्डऱियवेण्डियिरुक्कुम् पुरुषार्थसाधनमिति । 
+
+इङ्गुम् "अऱियवेण्डिय् इरुक्कुम्" ऎऩ्बदऱ्कु पुरुषार्थ-साधनम् ऎऩ्गिऱ पदत्तिल् प्रतिपाद्यमाऩ साधनत्तिऩ् धर्मम् आऩ साधनतैयिल् अन्वयम्। 
+</details>
+
 
 ### बहुत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1282,6 +1421,12 @@ como medio para **alcanzar** los objetos o fines **deseados**.
 ‘‘धर्मान्’’ ऎऩ्गिऱ बहुवचनत्ताले अभिमतसाधनमाग शास्त्रचोदितङ्गळाऩ धर्मङ्गळुडैय बाहुळ्यत्तैच्चॊल्लुगिऱदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+सर्वशब्दत्तैक् काट्टिलुम् अन्तरङ्गमाऩ बहुवचनत्तिऱ्कु अर्थमरुळिच्चॆय्गिऱार् धर्मान् ऎऩ्गिऱ बहुवचनत्ताले इति । अभिमतसाधनमाग शास्त्रचोदितङ्गळाऩ धर्मङ्गळुडैय ऎऩ्ऱु सॊल्लुगैयाल् अङ्गिभूतमाऩ धर्मङ्गळुडैय बहुत्वमे इङ्गु विवक्षितम्। 
+</details>
+
+
 ## सर्व
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1304,6 +1449,15 @@ La palabra sarva (todos) **sugiere** que (estos dharmas) **tienen** ciertos acce
 सर्वशब्दत्ताले सपरिकरमाऩ निलैयै विवक्षिक्किऱदु। 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इप्पडियाऩाल् सर्वशब्दत्तिऱ्कु प्रयोजनमॆऩ्ऩॆऩ्ऩ वरुळिच्चॆय्गिऱार् सर्वशब्दत्ताले इति । 
+
+सपरिकरमाऩ निलैयै विवक्षिक्किऱदु इति ।  
+इदऩाल् अङ्गित्यागमात्रमऩ्ऱिक्के अङ्गसहितङ्गळाऩ बह्वङ्गिकळिऩ् त्यागम् सॊल्लिऱ्ऱायिऱ्ऱु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्म-परिकरङ्गळैयुम् धर्मम् ऎऩ्ऱु सॊल्लक् कुऱैय् इल्लैय् इऱे।
@@ -1324,6 +1478,12 @@ Ciertamente **no hay** ninguna impropiedad en **llamar** a los accesorios del dh
 
 धर्मपरिकरङ्गळैयुम् धर्ममॆऩ्ऱुसॊल्लक्कुऱैयिल्लैयिऱे।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+तथा च सर्वशब्दसमभिव्याहृतधर्मशब्दमे यङ्गरूपमायुम् अङ्गिरूपमायुमुळ्ळ ऎल्ला धर्मङ्गळैयुम् सॊल्लुगिऱदु; सर्वशब्दम् तत्तात्पर्यग्राहकम् ऎऩ्ऱु पर्यवसनमायिऱ्ऱु। आऩाल् धर्मशब्दम् अङ्गत्तैयुम् सॊल्लुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् धर्मपरिकरङ्गळैयुम् धर्ममॆऩ्ऱु सॊल्लक्कुऱैयिल्लैयिऱे इति । 
+</details>
+
 
 ### अङ्गिता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1350,6 +1510,12 @@ Si (por otro lado) **interpretamos** la palabra "sarva" (todos) como lo opuesto 
 
 इस् सर्वशब्दत्तै एकशब्दप्रति-सम्बन्धियाग योजिक्कुम्बोदु इदु अङ्गिकळाऩ नानाधर्मङ्गळिऩुडैय कार्त्स्न्यत्तैच् चॊल्लुगिऱदु।
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अङ्गङ्गळुम् अङ्गापूर्वरूपभगवत् प्रसाद द्वारा अलौकिकश्रेयस्साधनताकङ् गळिऱे। इन्द सर्वशब्दत्तै मामेकं ऎऩ्गिऱ एकशब्दत्तुक्कु प्रतिसम्बन्धियाग योजित्ताल् सर्वशब्दम् नानाविधमाऩ अङ्गिरूपधर्मङ्गळुडैय कार्त्स्न्यत्तैच् चॊल्लुगिऱदॆऩ्गिऱार् इस्सर्वशब्दत्तै इत्यादियाल्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1378,6 +1544,11 @@ sin embargo, lo que **se pretende** (con la palabra) aquí **es** los diversos t
 <details><summary>मूलम्</summary>
 
 इप्पडि पॊदुविले सॊऩ्ऩालुम् इङ्गु प्रकरणवशत्ताले मोक्षार्थमाग शास्त्रविहितङ्गळाय् सपरिकरङ्गळाय् नानाप्रकारङ् गळाऩ उपासनङ्गळैयॆल्लाञ् जॊल्लुगैयिले तात्पर्यम्। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इव्विडत्तिल् धर्मशब्दत्ताले श्रेयःसाधनङ्गळाऩ सर्वधर्मङ्गळैयुम् सॊल्ललामागिलुमिदु मोक्षार्थप्रकरणत्तिल् फलितमागैयाले मोक्षार्थमाऩ सपरिकरमाऩ उपासनरूपधर्मङ्गळैये सॊल्लुमॆऩ्गिऱार् इप्पडि इति । 
 </details>
 
 
@@ -1410,6 +1581,19 @@ que **es** de ayuda para todos los vidyās o formas de **meditación**;
 पुरुषोत्तमत्वज्ञानम् सर्वविद्यैकळुक्कुमुपकारकमाऩ तत्त्वज्ञानमात्रमागवुम्, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पुरुषोत्तमत्वज्ञानावताररहस्यचिन्तन, दिव्यदेशवासङ्गळुम् मोक्षोपायङ्गळागैयाले अवैगळुम् धर्मशब्दोत्तरबहुवचनत्ताले विवक्षितङ्गळाऩालो ऎऩ्ऩ अवैगळ् परम्परया मोक्षोपायङ् गळॆऩ्ऱु गीताभाष्यादिगळिल् सॊल्लियिरुप्पदालदु तद्विरुद्धमामॆऩ्गिऱार् पुरुषोत्तमत्वज्ञानमित्यादियाल्। पुरुषोत्तमत्वज्ञानम् सर्वविद्यैकळुक्कुमुपकारकमाऩ तत्त्वज्ञानमात्रमागवुमिति । 
+
+> यो माम् एवम् असम्मूढो  
+जानाति पुरुषोत्तमम् ।  
+स सर्वविद् भवति माम्’’ 
+
+ऎऩ्ऱु पुरुषोत्तमत्वज्ञानम् भगवद्भजनहेतुवाऩ तत्त्वज्ञानमागच् चॊल्लप्पट्टदिऱे। 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवतार-रहस्य-चिन्तनम्  
@@ -1433,6 +1617,20 @@ como la causa de que los upāsanas **adoptados** **rindan** su fruto rápidament
 
 अवताररहस्यचिन्तनम् अनुष्ठिक्किऱ उपासनादिगळुडैय शीघ्रनिष्पत्तिहेतुवागवुम्, 
 </details>
+
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अवताररहस्यचिन्तनम् अनुष्ठिक्किऱ उपासनादिगळुडैय शीघ्रनिष्पत्तिहेतुवागवुमिति । गीतैयिल् 
+
+> ‘‘जन्म कर्म च मे दिव्यम्  
+एवं यो वेत्ति तत्त्वतः ।  
+त्यक्त्वा देहं पुनर्जन्म  
+नैति माम् एति सोऽर्जन’’ 
+
+ऎऩ्ऱु उपासकऩुक्कु तत्त्वतः अवताररहस्यचिन्तनम् अन्द जन्मत्तिलेये उपासननिष्पत्तिहेतुवागैयाले जन्मान्तरमिल्लैयॆऩ्ऱु सॊल्लप्पट्टदु। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1459,6 +1657,20 @@ que **están** en el camino de los upāsanas **que dan** fruto.
 <details><summary>मूलम्</summary>
 
 देशवासादिगळ् उपायविरोधिपापक्षयहेतुक्कळाय्क् कॊण्डु उपायनिष्पादकङ्गळागवुम्
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+देशवासादिगळ् उपायविरोधिपापक्षय हेतुक्कळाय्क्कॊण्डु उपायनिष्पादकङ्गळागवुमिति । सात्वतसंहितैयिल् 
+
+> ‘‘दुष्टेन्द्रियवशाच् चित्तं  
+नृणां यत् कल्मषैर् वृतम् ।  
+तद् अन्तकाले संशुद्धिं  
+याति नारायणालये॥’’ 
+
+ऎऩ्ऱु नारायणालय-वासत्तिऱ्कु 
+पापक्षयद्वारा अन्तिमकालत्तिल् भविष्यज्-जन्म--भाविय् आऩ उपाय-निष्पादनत्तिऱ्कु हेतुव् आऩ  
+मनोनैर्मल्यम् फलमागच् चॊल्लप्पट्टदिऱे। 
 </details>
 
 
@@ -1552,6 +1764,14 @@ porque **se ha dicho**
 </details>
 
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+आऩाल् धर्मशब्दोत्तरबहुवचनत्तिऱ्कु साफल्यम् वेण्डुमे यॆऩ्ऩ वरुळिच्चॆय्गिऱार् नानाशब्दादिभेदादिति । 
+
+इवैयॊऴियवुम् - पुरुषोत्तमत्व ज्ञानादिगळै विट्टुम्, 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गि-बहुत्वत्तैयुम् परिकर-बहुत्वत्तैयुङ् गूड विवक्षित्तालुम् विरोधम् इल्लै। 
@@ -1575,6 +1795,11 @@ y de los aṅgas o sus accesorios.
 <details><summary>मूलम्</summary>
 
 अङ्गिबहुत्वत्तैयुम् परिकरबहुत्वत्तैयुङ्गूड विवक्षित्तालुम् विरोधमिल्लै। 
+</details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+पुरुषोत्तमत्वज्ञानादिगळ् उपायपरिकरङ्गळागैयाल् अवैगळैयुम् साक्षादुपायङ्गळाक्कि अङ्गिबहुत्वम् कूडादागिलुम् परिकरङ्गळैयुम् अङ्गिकळैयुम् सेर्त्तु धर्ममाक्कि बहुत्वत्तै विवक्षित्तालुम् बाधकमिल्लै यॆऩ्गिऱार् अङ्गिबहुत्वत्तैयुमिति ।  
 </details>
 
 
@@ -1613,6 +1838,12 @@ En la palabra parityajya, el 'abandono' **consiste en**
 ‘‘परित्यज्य’’ ऎऩ्गिऱविडत्तिल् त्यागमावदु, 
 </details>
 
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+इऩि परित्यज्य ऎऩ्बदऱ्कु अर्थमरुळिच्चॆय्बप्पोगिऱवराय्, अदु उपसर्गम्, धातु, ल्यप्, ऎऩ्ऱिम्मूऩ्ऱु रूबमायिरुप्पदाल् अदिल् प्रधानमाऩ धातुवुक्कु अर्थमरुळिच् चॆय्गिऱार् परित्यज्य ऎऩ्गिऱविडत्तिल् त्यागमावदु इति । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘अनया च प्रपत्त्या माम्  
@@ -1648,6 +1879,12 @@ porque **se ha dicho**,
 
 ‘‘अनया च प्रपत्त्या मामाकिञ्चन्यैकपूर्वकम्’’()  इत्यादिगळिऱ्पडिये
 </details>
+
+<details><summary>४२तमाहोबिल-यतिः</summary>
+
+अनया चेति । इतरोपायनैराश्यपूर्वकमाग इन्द प्रपत्तियिऩालेये ऎऩ्ऩै वशीकरिक्कक्कडवऩॆऩ्गै। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2605,17 +2842,189 @@ en la **realización** del dharma,
 ‘‘न धर्मनिष्ठोऽस्मि’’(आळवन्दार् स्तोत्रम्) 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+इत्य्-आदिगळिले प्रसिद्धम् आऩव् अ-किञ्चनाधिकारम् ऎऩ्गिऱ संप्रदायत्तुक्कुम् विरुद्धम् आम्।
+</details>
+
+<details><summary>English</summary>
 
 It **would** also **be opposed** to the tradition that  
 prapatti **is** for those who **are destitute** of upāyas,  
 which **is evident** from such passages as the above.  
+</details>
 
-To state that the jīva (kṣetrajna) is eternally incapable of all other upāyas, since he is entirely dependent on and subject to the control of Iśvara and (in the same breath) to state that the giving up of these dharmas or upāyas is enjoined on him is against all śastras and is opposed also to the very words of these writers and their actual practice. (For how can a man give up a dharma which he is not capable of performing? How can a man proceed to perform kaiṅkarya, if he is incapable of it owing to otter dependence and subjection?). It would, therefore, be extremely ridiculous to hold this view. If this view were right, then by the same logic, even the vidhi contained in vraja (seek me etc.) would be impossible of performance.
+<details><summary>Español</summary>
 
-The statement that the jīvātmā is eternally incapable of all other upāyas would only go to confirm the view that parityajya (here, does not enjoin the giving up and) only states what has already occurred (anuvāda) (owing to inability ), which these writers would not like to accept.
+También **se opondría** a la tradición de que  
+prapatti **es** para aquellos  
+que **están desposeídos** de upāyas,  
+lo cual **es evidente** en pasajes como el anterior.
+</details>
 
-(Further) the use of a single set of words in a single sentence cannot mean both the statement of what has occurred owing to inability in the case of the man who is not capable and the injunction to the man who is capable of performance to give it up ( which is another view held by some)
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिले प्रसिद्धमाऩवकिञ्चनाधिकारमॆऩ्गिऱ संप्रदायत्तुक्कुम् विरुद्धमाम्।
+</details>
+
+### नात्यन्त-पारतन्त्र्यतस् त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ईश्वरऩैप् पऱ्ऱ अत्यन्त-पर-तन्त्रतैयाले  
+उपायान्तरङ्गळुक्कु क्षेत्र-ज्ञऩ् नित्याशक्तऩ् ऎऩ्ऱु काट्टिय्  
+इवऩुक्क् अवऱ्ऱिऩ्-उडैय त्यागत्तै विधिक्किऱद् 
+
+ऎऩ्ऩुम् अदु  
+सर्व-शास्त्र--स्व-वचन-- स्वप्रवृत्त्य्-आदि-विरोधत्ताले  
+अत्यन्त-परिहास्यम्। 
+</details>
+
+<details><summary>English</summary>
+
+To state that the jīva (kṣetrajna) **is** eternally **incapable** of all other upāyas,  
+since he **is** entirely **dependent** on and subject to the **control** of Iśvara  
+and (in the same breath) to **state** that the **giving up** of these dharmas or upāyas **is enjoined** on him  
+**is against** all śastras  
+and **is opposed** also to the very words of these writers and their actual practice.  
+
+(For how can a man **give up** a dharma  
+which he **is not capable** of **performing**?  
+How **can** a man **proceed** to **perform** kaiṅkarya,  
+if he **is** incapable of it  
+owing to utter dependence and subjection?)
+
+It **would**, therefore, **be** extremely ridiculous to hold this view. 
+</details>
+
+<details><summary>Español</summary>
+
+**Afirmar** que la jīva (kṣetrajna) **es** eternamente **incapaz** de todos los demás upāyas,  
+ya que él **es** enteramente **dependiente** y sujeto al **control** de Iśvara  
+
+y (al mismo tiempo) **afirmar** que **le está ordenado renunciar** a estos dharmas o upāyas  
+
+**está en contra** de todos los śastras  
+y **se opone** también a las mismas palabras de estos escritores y su práctica real.
+
+(Porque - ¿cómo **puede** un hombre **renunciar** a un dharma  
+que él **no es capaz** de **realizar**?  
+¿Cómo **puede** un hombre **proceder** a **realizar** kaiṅkarya?  
+si él **es** incapaz de ello  
+debido a la absoluta dependencia y sujeción?)
+
+Por lo tanto, **sería** extremadamente ridículo **sostener** esta opinión.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩैप् पऱ्ऱ अत्यन्तपरतन्त्रतैयाले उपायान्तरङ्गळुक्कु क्षेत्रज्ञऩ् नित्याशक्तऩॆऩ्ऱुगाट्टिय् इवऩुक्कवऱ्ऱिऩुडैय त्यागत्तै विधिक्किऱदॆऩ्ऩुमदु सर्वशास्त्र स्ववचन स्वप्रवृत्त्यादि विरोधत्ताले अत्यन्त परिहास्यम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदु तुल्य-न्यायत्ताले ‘‘व्रज’’ ऎऩ्गै दाऩुम् घटियादु। 
+</details>
+
+<details><summary>English</summary>
+
+If this view **were** right,  
+then by the same logic,  
+even the vidhi **contained** in vraja (**seek me** etc.)  
+**would be** impossible of performance.
+</details>
+
+<details><summary>Español</summary>
+
+Si este punto de vista **fuese** correcto,  
+entonces por la misma lógica,  
+incluso el vidhi **contenido** en vraja (**búscame** etc.)  
+**sería** imposible de **realizar**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पोदु तुल्यन्यायत्ताले ‘‘व्रज’’ ऎऩ्गैदाऩुम् घटियादु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"उपायान्तरङ्गळुक्कु जीवात्मा नित्याशक्तऩ्" ऎऩ्गै  
+तङ्गळुक्क् अनिष्टम् आऩव् अनुवाद-पक्षत्तुक्कु स्थिरी-करणम् पण्णिऩ बडिय् आम् अत्तऩै। 
+</details>
+
+<details><summary>English</summary>
+
+The **statement** that the jīvātmā **is** eternally incapable of all other upāyas  
+**would** only **go to confirm** the **view**  
+that parityajya (here, **does not enjoin** the **giving up** and) only **states** what has already **occurred** (anuvāda) (owing to inability ),  
+which these writers **would not like to accept**.
+</details>
+
+<details><summary>Español</summary>
+
+La **declaración** de que la jīvātmā **es** eternamente incapaz de todos los demás upāyas  
+sólo **iría a confirmar** la **vista**  
+que "parityajya" (aquí, **no ordena** el **abandono** y) sólo **declara** lo que ya **ocurrió** (anuvāda) (debido a la **incapacidad**),  
+que a estos escritores **no les gustaría aceptar**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+उपायान्तरङ्गळुक्कु जीवात्मा नित्याशक्तऩॆऩ्गै तङ्गळुक्कनिष्टमाऩ वनुवादपक्षत्तुक्कु स्थिरीकरणम् पण्णिऩबडियामत्तऩै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एक-प्रयोगं ताऩे  
+अ-शक्तऩैप् पऱ्ऱ त्यागानुवादम् आय्  
+इतरऩैप् पऱ्ऱ त्याग-विधिय् आगै  
+एक-वाक्यत्तिल् घटियादु। 
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+किम् अत्र कारणम्??
+</details>
+
+
+<details><summary>English</summary>
+
+(Further) the **use** of a single set of words in a single sentence **cannot mean** both  
+
+the statement of what has **occurred** owing to inability  
+in the case of the man who **is not** capable  
+
+and the **injunction** to the man who **is capable** of **performance** to **give it up**  
+
+(which **is** another view held by some.)
+</details>
+
+<details><summary>Español</summary>
+
+(Además) el **uso** de un solo conjunto de palabras en una sola oración **no puede significar** ambas  
+
+la **declaración** de lo que ha **ocurrido** debido a la incapacidad  
+en el caso del hombre que **no** es capaz  
+
+y el **mandato** al hombre que **es capaz** de **realizar** un **renuncia**  
+
+(que **es** otra opinión **sostenida** por algunos).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एकप्रयोगन् दाऩे अशक्तऩैप्पऱ्ऱ त्यागानुवादमाय् इतरऩैप्पऱ्ऱ त्यागविधियागै एकवाक्यत्तिल् घटियादु। 
+</details>
+
+
+
+
 
 Nor can it be held that the option is given to the same person (adhikārī) who is capable of performing dharma either to perform the dharma or to give it up. This would mean two alternative courses, one of which is difficult and the other light, when there is no difference in the object of attainment. For if the man who is capable of adopting the difficult upāya is enjoined to adopt the lighter or easier upāya by giving up the performance (of what he is capable of ), then no one would ever think of adopting the more difficult upāya and since there is no other way in which the difference in competency could be stated, all the śāstras which enjoin the performance or adoption of the more difficult upāya would carry no weight,
 
