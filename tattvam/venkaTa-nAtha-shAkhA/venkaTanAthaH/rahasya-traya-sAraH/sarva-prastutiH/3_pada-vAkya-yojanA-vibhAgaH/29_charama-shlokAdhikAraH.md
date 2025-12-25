@@ -3103,7 +3103,7 @@ que a estos escritores **no les gustaría aceptar**.
 </details>
 
 
-
+### नाधिकारिविशेषे विधिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एक-प्रयोगं ताऩे  
@@ -3158,22 +3158,376 @@ y el **mandato** al hombre que **es capaz** de **realizar** un **renuncia**
 वाक्यभेदाङ्गीकारे स एव दोषः ऎऩ्ऱु करुत्तु।
 </details>
 
+### न गुरु-लघु-विकल्पः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+फलत्तिल् वैषम्यमुम् अऩ्ऱिक्के  
+अधिकारियुम् एकऩ् आय् इरुक्क  
+गुरु-लघु-विकल्पमुञ् जॊल्ल वॊण्णादु। 
+</details>
+
+<details><summary>English</summary>
+
+Nor can it be held that the option **is given** to the same person (adhikārī)  
+who **is capable** of **performing** dharma  
+either to **perform** the dharma or **to give it up**.  
+This **would mean** two alternative courses,  
+one of which **is** difficult and the other light,  
+when there **is no** difference in the object of attainment.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Tampoco **se puede sostener** que la opción **se da** a la misma persona (adhikārī)  
+quién **es capaz** de **realizar** el dharma  
+ya sea para **realizar** el dharma o **para renunciar a él**.  
+Esto **significaría** dos cursos alternativos,  
+uno de los cuales **es** difícil y el otro ligero,  
+cuando **no hay** diferencia en el objeto de logro.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+फलत्तिल् वैषम्यमुमऩ्ऱिक्के अधिकारियुम् एकऩा यिरुक्क गुरुलघु विकल्पमुञ्जॊल्लवॊण्णादु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुरूपायत्तिले शक्तऩाऩ् अवऩुक्के  
+अदिऩ् त्यागविशिष्टम् आऩ लघूपायत्तै विधित्ताल्  
+गुरूपायत्तिल् ऒरुत्तरुम् प्रवर्तिप्पार् इल्लामैयालुम्, 
+</details>
+
+<details><summary>English</summary>
+
+For if the man who **is capable** of **adopting** the difficult upāya  
+**is enjoined** to adopt the lighter or easier upāya  
+by **giving up** the **performance** (of what he is capable of ),  
+then no one would ever **think of adopting** the more difficult upāya  
+
+</details>
+
+<details><summary>Español</summary>
+
+Porque si el hombre que **es capaz** de **adoptar** el difícil upāya  
+**se le recomienda** adoptar el upāya más ligero o más fácil  
+**renunciando** al **rendimiento** (de lo que es capaz),  
+entonces nadie jamás **pensaría en adoptar** el upāya más difícil
+</details>
+
+<details><summary>मूलम्</summary>
+
+गुरूपायत्तिले शक्तऩा ऩवऩुक्के अदिऩ् त्यागविशिष्टमाऩ लघूपायत्तै विधित्ताल् गुरूपायत्तिलॊरुत्तरुम् प्रवर्तिप्पारिल्लामैयालुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वेऱ् ऒरु मुखत्ताले अधिकार-भेदञ् जॊल्ल वॊण्णामैयालुम्  
+
+गुरूपायत्तै विधिक्किऩ्ऱ शास्त्रङ्गळ् ऎल्लाम् प्रमाणम् अऩ्ऱिक्केय् ऒऴियुम्।
+</details>
+
+<details><summary>English</summary>
+
+and since there **is no** other way in which the difference in competency **could be stated**,  
+all the śāstras which **enjoin** the performance or adoption of the more difficult upāya  
+**would carry** no weight.
+</details>
+
+<details><summary>Español</summary>
+
+y dado que **no hay** otra manera de **establecer** la diferencia en competencias,  
+todos los śāstras que **ordenan** la realización o **adopción** del upāya más difícil  
+**llevaría** ningún peso.
+</details>
+
+<details><summary>मूलम्</summary>
+
+वेऱॊरु मुखत्ताले अधिकारभेदञ् जॊल्लवॊण्णामैयालुम् गुरूपायत्तै विधिक्किऩ्ऱ शास्त्रङ्गळॆल्लाम् प्रमाणमऩ्ऱिक्के यॊऴियुम्।
+</details>
+
+#### न प्ररोचनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+लघूपाय-प्ररोचनार्थम् आग गुरूपायत्तै विधित्तु  
+अदु तऩ्ऩैये निषेधिक्किऱद् ऎऩ्गैयुम्  
+अत्यन्तानुचितम्। 
+</details>
+
+<details><summary>English</summary>
+
+It **is** also extremely inappropriate to say that,  
+in order to **stimulate** the **adoption** of the easier upāya,  
+the difficult upāya **is** (first) enjoined  
+and then **forbidden** for **performance**.
+</details>
+
+<details><summary>Español</summary>
+
+**Es** también extremadamente inapropiado **decir** eso,  
+para **estimular** la **adopción** del upāya más fácil,  
+el difícil upāya **es** (primero) **ordenado**  
+y luego **prohibido** para **rendimiento**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+लघूपायप्ररोचनार्थमाग गुरूपायत्तै विधित्तु अदु तऩ्ऩैये निषेधिक्किऱदॆऩ्गैयुमत्यन्तानुचितम्। 
+</details>
+
+#### शास्त्र-मोहकतापत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुपायङ्गळै उपायङ्गळ् आग विधिक्किऱद् ऎऩ्ऱाल्  
+श्रुति-स्मृतिगळ् मोहन-शास्त्रङ्गळ् आग प्रसङ्गिक्कैयाले  
+शरण्य-स्वरूपादिगळुम् सिद्धियाद बडिय् आम्। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+The **view** that  
+what **are not** (really) upāyas **are enjoined** as upāyas  
+(and **are** thereafter **condemned** as unfit for **performance**) -  
+this **view would tend to look** upon the śrutis and the smṛtis as **deceptive**.  
+Even such things as the essential nature of the Saviour (which we **learn** only from them)  
+**could not** (then) be **known** for certain.
+</details>
+
+<details><summary>Español</summary>
+
+La **vista** que  
+qué **no son** (realmente) upāyas **están prohibidos** como upāyas  
+(y **son** a partir de entonces **condenados** como no aptos para **desempeño**) -  
+esta **visión tendería a considerar** a los śrutis y a los smṛtis como **engañosos**.  
+Incluso cosas como la naturaleza esencial del Salvador (que **aprendemos** sólo de ellos)  
+**no se pudo** (entonces) **conocer** con certeza.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनुपायङ्गळै उपायङ्गळाग विधिक्किऱदॆऩ्ऱाल् श्रुतिस्मृतिकळ् मोहनशास्त्रङ्गळाग प्रसङ्गिक्कैयाले शरण्यस्वरूपादिगळुम् सिद्धियादबडियाम्। 
+</details>
+
+#### लोके ऽधिकारि-भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुरुक्कळ् आऩ कृष्य्-आदि-व्यापारङ्गळुम्  
+लघुक्कळ् आऩ रत्न-वाणिज्यादिगळुम्  
+अर्थार्थिगळ् बक्कल् विकल्पिक्किऱदुवुम्  
+अधिकारि-विशेष-व्यवस्थैयाले  
+ऎऩ्ऩुम् इडम् लोक-प्रसिद्धम्।
+</details>
+
+<details><summary>English</summary>
+
+It **is** true that, in the world, among those that **are desirous** of wealth,  
+some **choose cultivation** of the soil and other such difficult operations,  
+while others **choose** lighter professions like **dealing** in rubies and other gems;  
+but this option **is determined** by the differences in capacity or competence among the adhikārīs.
+</details>
+
+<details><summary>Español</summary>
+
+**Es** cierto que, en el mundo, entre aquellos que **están deseosos** de riqueza,  
+algunos **eligen el cultivo** del suelo y otras operaciones difíciles similares,  
+mientras que otros **eligen** profesiones más ligeras como **negociar** con rubíes y otras gemas;  
+pero esta opción **está determinada** por las diferencias de capacidad o competencia entre los adhikārīs.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गुरुक्कळाऩ कृष्यादि व्यापारङ्गळुम् लघुक्कळाऩ रत्नवाणिज्यादिगळुम् अर्थार्थिकळ्बक्कल् विकल्पिक् किऱदुवुम् अधिकारिविशेषव्यवस्थैयाले ऎऩ्ऩुमिडम् लोकप्रसिद्धम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(कूरत्त्-)+++आऴ्वाऩ्-उडैय चरम-श्लोक-व्याख्यानत्तिलुम्  
+इव्व्-अळवे विवक्षितम् आगैयाल्  
+ऒरु विरोधम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+Kooarathalvan's commentary on the carama śloka :- 
+
+> "You that **suffer** (from anxiety)  
+because of the impossibility of **adoption** of other upāyas,  
+**give up** everything that **has been declared** as the means of **attaining** me  
+and **seek me** as (your) **refuge** (tor salvation)”--
+
+this **commentary**, too, **means** only what **has been explained** (as the meaning so far)  
+and **is not**, therefore, **opposed** to it.  
+
+(In that commentary 'giving up' **states** only what **has occurred** before (anuvāda)  
+or means only "**without doing it** as an aṅga required for prapatti.")
+</details>
+
+<details><summary>Español</summary>
+
+**Comentario** de Kooarathalvan sobre el carama śloka: - 
+
+> "Tú que **sufres** (de ansiedad)  
+debido a la imposibilidad de **adopción** de otros upāyas,  
+**renunciar** a todo lo que **ha sido declarado** como medio para **alcanzarme**  
+y **búscame** como (tu) **refugio** (para la salvación)”--
+
+este **comentario** también **significa** sólo  
+lo **que se ha explicado** (como el significado hasta ahora)  
+y **no**, por lo tanto, **se opone** a ello.  
+
+(En ese **comentario 'renunciar' indica** sólo lo que **ha ocurrido** antes (anuvāda)  
+o **significa** sólo "**sin hacerlo** como un aṅga **requerido** para prapatti").
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऴ्वाऩुडैय चरमश्लोकव्याख्यानत्तिलु मिव्वळवे विवक्षितमागैया लॊरु विरोधमिल्लै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> समावर्तनादिगळिल् गुरु-लघु-विकल्पमुम्  
+अवस्था-विशेषङ्गळाले नियतम्  
+
+ऎऩ्ऱु कॊळ्ळाद बोदु, गुरु-विधान-वैयर्थ्यमुम् वरुम्। 
+</details>
+
+<details><summary>English</summary>
+
+It is true that, in such cases, as Samāvartana or the **conclusion** of the Prājāpatyavrata,  
+baths **accompanied** by certain vratas or observances **are prescribed**  
+and also (as an alternative) baths without any such vratas (which are easier).  
+But this option **is determined** by the condition or the circumstances in which the person **is situated**.  
+If we **do not take** it in this light,  
+the **enjoining** of the more difficult alternative would be of no use (for no one would adopt it).
+</details>
+
+<details><summary>Español</summary>
+
+**Es** cierto que, en casos tales como el Samāvartana o la **conclusión** del Prājāpatyavrata,  
+baños **acompañados** de ciertos vratas u observancias **son prescritos**  
+y también (como alternativa) baños sin tales vratas (que son más fáciles).  
+
+Pero esta opción **está determinada** por la condición o las circunstancias en las que **se encuentra la persona**.  
+Si **no lo tomamos** desde esta perspectiva,  
+**ordenando** la alternativa más difícil **sería** inútil (porque nadie la adoptaría).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+समावर्तनादिगळिल् गुरुलघु विकल्पमुम् अवस्था विशेषङ्गळाले नियतमॆऩ्ऱु कॊळ्ळादबोदु, गुरुविधानवैयर्थ्यमुम् वरुम्। 
+</details>
+
+### न ज्ञान-विश्वास-पूर्तेर् अधिकारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ज्ञान-पूर्तिय् आदल्, विश्वास-पूर्तिय् आदल् उडैयवऩ् प्रपत्तिक्क् अधिकारि,  
+ज्ञान-मान्द्यम् आदल् विश्वास-मान्द्यम् आदल् उडैयवऩ्  
+उपासनादिगळुक्क् अधिकारिय् 
+
+ऎऩ्ऱाल् 
+</details>
+
+<details><summary>English</summary>
+
+There **is** another (wrong) **view** that  
+the adhikārī competent for prapatti **is** the person  
+who **has** fullness of knowledge or fullness of faith  
+and that the adhikārī for upāsanā **is** the person  
+who **lacks** this fullness of knowledge or fullness of faith. 
+</details>
+
+<details><summary>Español</summary>
+
+Hay **otra **vista** (incorrecta) que  
+el adhikārī **competente** para prapatti **es** la persona  
+quien **tiene** plenitud de **conocimiento** o plenitud de fe  
+y que el adhikārī para upāsanā **es** la persona  
+quien **carece** de esta plenitud de conocimiento o plenitud de fe.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानपूर्तियादल् विश्वासपूर्तियादलुडैयवऩ् प्रपत्तिक्कधिकारि, ज्ञानमान्द्यमादल् विश्वासमान्द्यमादलुडैयवऩ् उपासनादिगळुक्कधिकारियॆऩ्ऱाल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इच् चरम-श्लोकादिगळुक्क् उपदेष्टाक्कळुम् आय्  
+परमास्तिकरुम् आगैयाले  
+पूर्ण-ज्ञान-विश्वासर् आऩ व्यासादिगळुक्क् उपासनादिगळिल् अधिकारम् इल्लैय् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+If this view **were accepted**,  
+it **would follow** that  
+such men as Vyasa who **taught** the churamaśloka and the like  
+and who, because of their piety, **had** fullness of knowledge and fullness of faith  
+**should be looked upon** as incompetent for upāsanā. 
+</details>
+
+<details><summary>Español</summary>
+
+Si esta opinión **fuese aceptada**,  
+**se seguiría** que  
+hombres como Vyasa que **enseñaron** el churamaśloka y cosas por el estilo  
+y quienes, a causa de su piedad, **tenían** plenitud de conocimiento y plenitud de fe  
+**debe ser considerado** como incompetente para upāsanā.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इच् चरमश्लोकादिगळुक्कुपदेष्टाक्कळुमाय् परमास्तिकरुमागैयाले पूर्णज्ञानविश्वासराऩ व्यासादिगळुक्कुपासनादिगळिल् अधिकारमिल्लैयाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अवर्गळ् उपदेशकालत्तिले ज्ञान-विश्वासङ्गळैय् उडैयवर् आय्प्  
+पिऩ्बु कलङ्गि  
+उपासकर् आऩार्गळ्  
+
+ऎऩ्गैक्क् ऒरु प्रमाणम् इल्लै। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+There **is no** evidence or pramāṇa to **prove** that  
+when they **taught**,  
+they **had** knowledge and faith  
+and **having** (later) **become** weak in intelligence and faith **adopted** upāsanā. 
+</details>
+
+<details><summary>Español</summary>
+
+No hay **ninguna** evidencia o pramāṇa para **probar** que  
+cuando **enseñaron**,  
+ellos **tenían** conocimiento y fe  
+y **haber** (más tarde) **volverse** débil en inteligencia y fe **adoptado** upāsanā.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवर्गळुपदेशकालत्तिले ज्ञानविश्वासङ् गळैयुडैयवराय्प् पिऩ्बु कलङ्गि उपासकराऩार्गळॆऩ्गैक्कॊरु प्रमाणमिल्लै। 
+</details>
 
 
 
-Nor can it be held that the option is given to the same person (adhikārī) who is capable of performing dharma either to perform the dharma or to give it up. This would mean two alternative courses, one of which is difficult and the other light, when there is no difference in the object of attainment. For if the man who is capable of adopting the difficult upāya is enjoined to adopt the lighter or easier upāya by giving up the performance (of what he is capable of ), then no one would ever think of adopting the more difficult upāya and since there is no other way in which the difference in competency could be stated, all the śāstras which enjoin the performance or adoption of the more difficult upāya would carry no weight,
 
-It is also extremely inappropriate to say that, in order to stimulate the adoption of the easier upāya, the difficult upāya is (first) enjoined and then forbidden for performance.
-
-The view that what are not (really) upāyas are enjoined as upāyas (and are thereafter condemned as unfit for performance) - this view would tend to look upon the śrutis and the smṛtis as deceptive. Even such things as the essential nature of the Saviour (which we learn only from them) could not (then) be known for certain,
-
-It is true that, in the world, among those that are desirous of wealth, some choose cultivation of the soil and other such difficult operations, while others choose lighter professions like dealing in rubies and other gems; but this option is determined by the differences in capacity or competence among the adhikārīs.
-
-Kooarathalvan's commentary on the carama śloka :-"You that suffer (from anxiety) because of the impossibility of adoption of other upāyas, give up everything that has been declared as the means of attaining me and seek me as (your) refuge (tor salvation)”--this commentary, too, means only what has been explained (as the meaning so far) and is not, therefore, opposed to it. (In that commentary 'giving up' states only what has occurred before (anuvāda) or means only "without doing it as an aṅga required for prapatti."
-
-It is true that, in such cases, as Samāvartana or the conclusion of the Prājāpatyavrata, baths accompanied by certain vratas or observances are prescribed and also (as an alternative) baths without any such vratas (which are easier). But this option is determined by the condition or the circumstances in which the person is situated. If we do not take it in this light, the enjoining of the more difficult alternative would be of no use (for no one would adopt it).
-
-There is another (wrong) view that the adhikārī competent for prapatti is the person who has fullness of knowledge or fullness of faith and that the adhikārī for upāsanā is the person who lacks this fullness of knowledge or fullness of faith. If this view were accepted, it would follow that such men as Vyasa who taught the churamaśloka and the like and who, because of their piety, had fullness of knowledge and fullness of faith should be looked upon as incompetent for upāsanā. There is no evidence or pramāṇa to prove that when they taught, they had knowledge and faith and having (later) become weak in intelligence and faith adopted upāsanā. There is no evidence in the respective accounts of their lives to show that though they were prapannas (with prapatti as their upāya) they practised upāsanā also for setting an example to the world. Even if this were adınitted to be a fact, the adoption of a dharma which is forbidden to a man for the sake of setting an' example to the world would be a sin so far as he is concerned and as the observance or adoption of the dharma is opposed to the man's competence, it would not be a proper example to set the world right. (Śrī Rāmānuja) has explained in the Gitā Bhāṣya that loka saṅgraha consists in a man choosing one of two ways of life (permitted for himself) as being easy of performance by others and beneficial to them, and adopting that way of life as an example to others in order to establish them firmly in it. A sannyāsin adopting the way of life peculiar to the house-holder and forbidden to himself is not setting an example for the sake of the betterment of the world (lokasaṅgraha). This would be only the violation of the commandment (of the Lord). In the same way, the adoption by a prapanna of a dharma forbidden to him, under the misapprehension that it would be a form of kaiṅkarya is also opposed to his competency:
+There is no evidence in the respective accounts of their lives to show that though they were prapannas (with prapatti as their upāya) they practised upāsanā also for setting an example to the world. Even if this were adınitted to be a fact, the adoption of a dharma which is forbidden to a man for the sake of setting an' example to the world would be a sin so far as he is concerned and as the observance or adoption of the dharma is opposed to the man's competence, it would not be a proper example to set the world right. (Śrī Rāmānuja) has explained in the Gitā Bhāṣya that loka saṅgraha consists in a man choosing one of two ways of life (permitted for himself) as being easy of performance by others and beneficial to them, and adopting that way of life as an example to others in order to establish them firmly in it. A sannyāsin adopting the way of life peculiar to the house-holder and forbidden to himself is not setting an example for the sake of the betterment of the world (lokasaṅgraha). This would be only the violation of the commandment (of the Lord). In the same way, the adoption by a prapanna of a dharma forbidden to him, under the misapprehension that it would be a form of kaiṅkarya is also opposed to his competency:
 
 There is nothing wrong in a prapanna performing those rites that are prescribed in the śāstras and that are not required for prapatti with the idea that they are (forms of) kaiṅkarya (service).
 
