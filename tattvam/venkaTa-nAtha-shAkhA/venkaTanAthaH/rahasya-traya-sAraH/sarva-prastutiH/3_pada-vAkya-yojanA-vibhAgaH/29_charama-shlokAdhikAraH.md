@@ -4101,7 +4101,7 @@ y quienes, a causa de su piedad, **tenían** plenitud de conocimiento y plenitud
 इच् चरमश्लोकादिगळुक्कुपदेष्टाक्कळुमाय् परमास्तिकरुमागैयाले पूर्णज्ञानविश्वासराऩ व्यासादिगळुक्कुपासनादिगळिल् अधिकारमिल्लैयाम्। 
 </details>
 
-
+##### न भ्रान्तिः पश्चात्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अवर्गळ् उपदेशकालत्तिले ज्ञान-विश्वासङ्गळैय् उडैयवर् आय्प्  
@@ -4143,6 +4143,7 @@ y **haber** (más tarde) **volverse** débil en inteligencia y fe **adoptado** u
 अवर्गळुपदेशकालत्तिले ज्ञानविश्वासङ् गळैयुडैयवराय्प् पिऩ्बु कलङ्गि उपासकराऩार्गळॆऩ्गैक्कॊरु प्रमाणमिल्लै। 
 </details>
 
+##### लोक-सङ्ग्रहो न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > प्रपन्नर् आय् वैत्तु लोक-संग्रहार्थम् आगव् उपासनादिगळै अनुष्ठित्तार्गळ् 
@@ -4297,16 +4298,224 @@ para **establecerlos** firmemente en él.
 तऩक्किरण्डु वऴिगळ् शास्त्रानुमतङ्गळाऩाल् अवऱ्ऱिल् लोकत्तार्क्कु शक्यमाय् अवर्गळुक्कु हितमायिरुप्पदॊऩ्ऱैत् ताऩ् अनुष्ठित्तुक्काट्टि लोकत्तारैयदिले निलैनिऱुत्तुगैये लोकसंग्रहमॆऩ्ऱु श्रीगीताभाष्यत्तिलेयरुळिच्चॆय्दार्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लदु सन्न्यासिक्कु निषिद्धम् आऩ गृहस्थैकान्त-धर्मत्तै  
+सन्न्यासिय् अनुष्ठित्तुक् काट्टुम् अदु  
+लोक-संग्रहार्थम् आगादु। +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+A sannyāsin **adopting** the way of life peculiar to the house-holder  
+and **forbidden** to himself  
+**is not setting** an example for the sake of the betterment of the world (lokasaṅgraha). 
+</details>
+
+<details><summary>Español</summary>
+
+Un sannyāsin **que adopta** el modo de vida peculiar del dueño de casa  
+y **prohibido** a sí mismo  
+**no está dando** un ejemplo por el bien del mejoramiento del mundo (lokasaṅgraha).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अल्लदु सन्न्यासिक्कु निषिद्धमाऩ गृहस्थैकान्तधर्मत्तै सन्न्यासियनुष्ठित्तुक् काट्टुमदु लोकसंग्रहार्थमागादु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु आज्ञातिलङ्घनम् आम् अत्तऩै। 
+</details>
+
+<details><summary>English</summary>
+
+This **would be** only the **violation** of the commandment (of the Lord). 
+</details>
+
+<details><summary>Español</summary>
+
+Esto **sería** sólo la **violación** del mandamiento (del Señor).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु आज्ञातिलङ्घनमामत्तऩै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिये प्रपत्त्य्-अधिकारिक्कु निषिद्धत्तैय्  
+अवऩ् ताऩे कैङ्कर्य-बुद्धियालेय् अनुष्ठिक्कैयुम्  
+स्वाधिकार-विरुद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+In the same way,  
+the **adoption** by a prapanna of a dharma **forbidden** to him,  
+under the **misapprehension** that it **would be** a form of kaiṅkarya  
+**is** also **opposed** to his competency.
+</details>
+
+<details><summary>Español</summary>
+
+De la misma manera,  
+la **adopción** por parte de un prapanna de un dharma **prohibido** para él,  
+bajo el **malentendido** de que **sería** una forma de kaiṅkarya  
+**está** también **opuesto** a su competencia.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिये प्रपत्त्यधिकारिक्कु निषिद्धत्तै यवऩ् ताऩे कैङ्कर्यबुद्धियालेयनुष्ठिक्कैयुम् स्वाधिकारविरुद्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपत्तिक्क् अनपेक्षितङ्गळ् आऩ शास्त्रीयङ्गळै कैङ्कर्य-बुद्धियाले अनुष्ठिप्पार्क्कु विरोधम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+There **is** nothing wrong in a prapanna **performing** those rites  
+that **are prescribed** in the śāstras  
+and that **are not required** for prapatti  
+with the idea that they **are** (forms of) kaiṅkarya (**service**).
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** nada malo en que un prapanna **realice** esos ritos.  
+que **están prescritos** en los śāstras  
+y que **no son necesarios** para prapatti  
+con la idea de que **son** (formas de) kaiṅkarya (**servicio**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तिक्कनपेक्षितङ्गळाऩशास्त्रीयङ्गळै कैङ्कर्यबुद्धियाले अनुष्ठिप्पार्क्कु विरोधमिल्लै। 
+</details>
+
+### न विहित-त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन्-दाम् जात्य्-आदिगळुक्क् अनुरूपङ्गळुम् आय्  
+तन्-दामुक्कु शक्यङ्गळुम् आऩ सर्व-धर्मङ्गळिऩ्-उडैय स्व-रूप--त्यागम् अङ्गम् आग विधेयम् ऎऩ्ऩुम् पक्षत्तिलुम्
+</details>
+
+<details><summary>English</summary>
+
+If it **is maintained** that  
+as an aṅga or accessory of prapatti,  
+men **should give up** all dharmas (rites and observances)  
+**appropriate** to their respective castes (and āśramas)  
+and **capable** also of being **performed** by them,  
+
+</details>
+
+<details><summary>Español</summary>
+
+Si **se mantiene** que  
+como aṅga o accesorio de prapatti,  
+Los hombres **deberían renunciar** a todos los dharmas (ritos y observancias)  
+**apropiado** para sus respectivas castas (y āśramas)  
+y **capaz** también de **ser realizada** por ellos,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तन्दाम् जात्यादिगळुक्कनुरूपङ्गळुमाय् तन्दामुक्कु शक्यङ्गळुमाऩ सर्वधर्मङ्गळिऩुडैय स्वरूपत्यागमङ्गमाग विधेयमॆऩ्ऩुम् पक्षत्तिलुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपत्त्य्-उत्तर-कालं तऩ् वर्णाश्रमाद्य्-अधिकारङ्गळुक्कु अनुरूपम् आगव् अडैन्द कैङ्कर्य-फलत्तैयुम् इऴन्दु  
+अ-हिंसा--सत्य-वचनादि-- सामान्य-धर्मङ्गळैयुम्  
+आचार्य-वन्दनादिगळैयुन् तविर्न्दु  
+पशु-मृग-पक्ष्य्-आदिगळैप् पोले तिरियुम्+++(=भ्रमणम्)+++ बडिय् आम्।+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+it **would follow** that they **would lose** the fruit viz, the kaiṅkarya or **service**  
+**appropriate** to their respective caste, āśrama and the like,  
+in the period after prapatti;  
+(it would also **follow**) that they **should give up** also such dharmas as non-violence and **speaking** the truth  
+which **are** common to all  
+and the **showing** of **reverence** to ācharyas  
+and **roam** about like cattle, beasts and birds.
+</details>
+
+<details><summary>Español</summary>
+
+**se seguiría** que ellos **perderían** el fruto, es decir, el kaiṅkarya o **servicio**  
+**apropiado** para sus respectivas castas, āśrama y similares,  
+en el período posterior a prapatti;  
+(También **se seguiría**) que **deberían renunciar** también a dharmas como la no violencia y **decir** la verdad.  
+que **son** comunes a todos  
+y la **mostración** de **reverencia** a los ācharyas  
+y **deambulan** como ganado, bestias y pájaros.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्त्युत्तरकालम् तऩ् वर्णाश्रमाद्यधिकारङ्गळुक्कु अनुरूपमागवडैन्द कैङ्कर्यफलत्तैयुमिऴन्दु अहिंसासत्यवचनादि सामान्यधर्मङ्गळैयुम् आचार्यवन्दनादिगळैयुन् दविर्न्दु पशुमृग पक्ष्यादिगळैप्पोले तिरियुम्बडियाम्।
+</details>
+
+### न प्रवृत्ति-मात्र-त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> +++("मा हिंसीः"→)+++ निषेध-वाक्य-सिद्धङ्गळ् आऩ निवृत्ति-रूप-धर्मङ्गळ् स्व-रक्षणार्थ--स्व-व्यापारम् अल्लामैयाले  
+शरणागतियोडु विरोधम् इल्लैयामैयाल्  
+इङ्गु प्रवृत्ति-रूप-धर्मङ्गळिऩ्-उडैय त्यागमे विवक्षितम् 
+
+ऎऩ्ऩुम् निर्वाहमुम् मन्दम्; 
+</details>
+
+<details><summary>English</summary>
+
+It **may be argued** that dharmas which **are** of the nature of **refraining** (from actions)  
+and which **are understood** from **prohibitory** texts (such as **do not kill** )  
+**are not activities calculated** to **protect** oneself  
+and **are** therefore **not** opposed to prapatti  
+and that, **owing** to this  
+what **is** intended here **is** only the **giving up** of such **activities** as are positive (pruvritti)  
+(and not mere **abstentions** from activity). 
+</details>
+
+<details><summary>Español</summary>
+
+**Se puede argumentar** que 
+
+> los dharmas que **son** de la naturaleza de **abstenerse** (de acciones)  
+y que **se entienden** de textos **prohibitorios** (como **no matar**)  
+**no son actividades calculadas** para **protegerse**  
+y por lo tanto **no se oponen** a prapatti  
+
+y que, 
+
+> **debido** a esto  
+lo que **se** pretende aquí **es** sólo **el abandono** de aquellas **actividades** que **sean** positivas (pruvritti)  
+(y no meras **abstenciones** de actividad).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निषेधवाक्यसिद्धङ्गळाऩ निवृत्तिरूपधर्मङ्गळ् स्वरक्षणार्थस्वव्यापारमल्लामैयाले शरणागतियोडु विरोधमिल्लै यामैयाल् इङ्गु प्रवृत्तिरूपधर्मङ्गळिऩुडैय त्यागमे विवक्षितमॆऩ्ऩुम् निर्वाहमुम् मन्दम्; 
+</details>
 
 
 
-A sannyāsin adopting the way of life peculiar to the house-holder and forbidden to himself is not setting an example for the sake of the betterment of the world (lokasaṅgraha). This would be only the violation of the commandment (of the Lord). In the same way, the adoption by a prapanna of a dharma forbidden to him, under the misapprehension that it would be a form of kaiṅkarya is also opposed to his competency:
-
-There is nothing wrong in a prapanna performing those rites that are prescribed in the śāstras and that are not required for prapatti with the idea that they are (forms of) kaiṅkarya (service).
-
-If it is maintained that as an aṅga or accessory of prapatti, men should give up all dharmas (rites and observances) appropriate to their respective castes (and āśramas) and capable also of being performed by them, it would follow that they would lose the fruit viz, the kaiṅkarya or service appropriate to their respective caste, āśrama and the like, in the period after prapatti; (it would also follow) that they should give up also such dharmas as non-violence and speaking the truth which are common to all and the showing of reverence to ācharyas and roam about like cattle, beasts and birds.
-
-It may be argued that dharmas which are of the nature of refraining (from actions) and which are understood from prohibitory texts (such as do not kill ) are not activities calculated to protect oneself and are therefore not opposed to prapatti and that, owing to this what is intended here is only the giving up of such activities as are positive (pruvritti) (and not mere abstentions from activity). This argument, too, is unsound. Nivṛtti, abstention or renunciation, is also a form of activity arising from one's will or determination, and it too, may occur for the sake of protecting oneself as may be seen in the world and from the Vedas. (Prohibitory texts in the Vedas presume that even abstentions are activities. Refraining from treasonable activities is often for the sake of protection of one's self from the penal code).
+This argument, too, is unsound. Nivṛtti, abstention or renunciation, is also a form of activity arising from one's will or determination, and it too, may occur for the sake of protecting oneself as may be seen in the world and from the Vedas. (Prohibitory texts in the Vedas presume that even abstentions are activities. Refraining from treasonable activities is often for the sake of protection of one's self from the penal code).
 
 If it be held that, on the strength of the injunction (vidhi) contained in parityajya), the prapanna should give up all dhamas whether they be positive activities (pravṛtti) or abstentions from actions (nivṛtti) and that this is the real intention of the śāstras, then it would follow that the ancients who performed prapatti and those who are prapannas today have done and are doing what is against the Śāstras in performing different kinds of kaiṅkarya (pravṛtti) and in performing expiatory rites for offences (committed by them) (for what is forbidden should, on that view, be performed and no expiation would be necessary for it). These men who are propagators of the tradition of prapatti in accordance with the pramāṇas and who are also supremely compassionate could, under no stretch of imagination, be thought of as deluded or deceitful.
 
