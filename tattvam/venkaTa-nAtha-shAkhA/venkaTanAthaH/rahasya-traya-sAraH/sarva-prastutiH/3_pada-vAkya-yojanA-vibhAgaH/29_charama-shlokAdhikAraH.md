@@ -4250,9 +4250,57 @@ y como la **observancia** o **adopción** del dharma **se opone** a la competenc
 अवैयिवऩ्ऱऩक्कुम् पापमाय् अधिकारत्तुक्कु विरुद्धानुष्ठानम् पण्णुगैयाले तऩ्ऩनुष्ठानत्तैयिट्टु लोकसंग्रहम् पण्णवुङ्गडप् पडादॊऴियुम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩक्क् इरण्डु वऴिगळ् शास्त्रानुमतङ्गळ् आऩाल्  
+अवऱ्ऱिल् लोकत्तार्क्कु शक्यम् आय्  
+अवर्गळुक्कु हितम् आय् इरुप्पद्  
+ऒऩ्ऱैत् ताऩ् अनुष्ठित्तुक् काट्टि  
+लोकत्तारैय् अदिले निलै निऱुत्तुगैये  
+लोक-संग्रहम्  
+ऎऩ्ऱु श्री-गीता-भाष्यत्तिलेय् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> स्वस्य द्वयोर् मार्गयोः शास्त्रानुमतत्वे  
+तयोर् मध्ये  
+लोकानां शक्यं,  
+तेषां हितं च सन्तम् एकं  
+स्वयम् अनुष्ठाय प्रदर्श्य  
+लोकानां तत्र दृढावस्थानम् एव लोकसंग्रह 
+
+इति श्रीगीताभाष्येऽनुजग्राह । 
+</details>
+
+<details><summary>English</summary>
+
+(Śrī Rāmānuja) **has explained** in the Gitā Bhāṣya that  
+loka saṅgraha **consists** in a man **choosing** one of two ways of life (**permitted** for himself)  
+as **being easy** of performance by others and beneficial to them,  
+and **adopting** that way of life as an example to others  
+in order to **establish** them firmly in it. 
+</details>
+
+<details><summary>Español</summary>
+
+(Śrī Rāmānuja) **ha explicado** en el Gitā Bhāṣya que  
+loka saṅgraha **consiste** en que un hombre **elija** una de dos formas de vida (**permitidas** para sí mismo)  
+como **ser fácil** de desempeño por parte de otros y beneficioso para ellos,  
+y **adoptar** esa forma de vida como ejemplo para los demás  
+para **establecerlos** firmemente en él.
+</details>
 
 
-(Śrī Rāmānuja) has explained in the Gitā Bhāṣya that loka saṅgraha consists in a man choosing one of two ways of life (permitted for himself) as being easy of performance by others and beneficial to them, and adopting that way of life as an example to others in order to establish them firmly in it. A sannyāsin adopting the way of life peculiar to the house-holder and forbidden to himself is not setting an example for the sake of the betterment of the world (lokasaṅgraha). This would be only the violation of the commandment (of the Lord). In the same way, the adoption by a prapanna of a dharma forbidden to him, under the misapprehension that it would be a form of kaiṅkarya is also opposed to his competency:
+<details><summary>मूलम्</summary>
+
+तऩक्किरण्डु वऴिगळ् शास्त्रानुमतङ्गळाऩाल् अवऱ्ऱिल् लोकत्तार्क्कु शक्यमाय् अवर्गळुक्कु हितमायिरुप्पदॊऩ्ऱैत् ताऩ् अनुष्ठित्तुक्काट्टि लोकत्तारैयदिले निलैनिऱुत्तुगैये लोकसंग्रहमॆऩ्ऱु श्रीगीताभाष्यत्तिलेयरुळिच्चॆय्दार्। 
+</details>
+
+
+
+
+A sannyāsin adopting the way of life peculiar to the house-holder and forbidden to himself is not setting an example for the sake of the betterment of the world (lokasaṅgraha). This would be only the violation of the commandment (of the Lord). In the same way, the adoption by a prapanna of a dharma forbidden to him, under the misapprehension that it would be a form of kaiṅkarya is also opposed to his competency:
 
 There is nothing wrong in a prapanna performing those rites that are prescribed in the śāstras and that are not required for prapatti with the idea that they are (forms of) kaiṅkarya (service).
 
