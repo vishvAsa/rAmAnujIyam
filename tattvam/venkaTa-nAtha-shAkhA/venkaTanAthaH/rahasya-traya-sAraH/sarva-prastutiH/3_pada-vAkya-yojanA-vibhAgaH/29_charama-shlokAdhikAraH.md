@@ -453,8 +453,16 @@ quien **había buscado** Su **protección**,
 
 अर्जुनऩै रथिय् आक्कित्  
 ताऩ् सारथिय् आय्  
-अवऩुक्कु विधेयऩाय् निऩ्ऱव् अळविले
+अवऩुक्कु विधेयऩ् आय् निऩ्ऱव् अळविले
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अर्जुनं रथिनं कृत्वा  
+स्वयं सारथी भूय  
+तद्-विधेयतया स्थितवति सति, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -480,6 +488,14 @@ y **actuó** como su auriga para **cumplir** sus órdenes.
 तऩ्ऩै निमित्त-मात्रम् आगक् कॊण्डु  
 सर्वेश्वरऩ् तऩ् प्रतिपक्षङ्गळै निरसिक्क निऩ्ऱ निलैयैक् कण्डु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन्न् अर्जुने च  
+स्वं निमित्तमात्रं स्वीकृत्य  
+सर्वेश्वरस्य खप्रतिपक्ष-निरसनार्थं समवस्थितिं दृष्ट्वा,  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -507,6 +523,12 @@ Este Arjuna **se dio cuenta** de que el Señor de todo
 बन्धु-विनाशम् सिद्धम् ऎऩ्ऱु निश्चयित्तु 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+बन्धुविनाशः सिद्ध इति निश्चित्य 
+</details>
+
+
 <details><summary>English</summary>
 
 and that the **destruction** of his kinsmen **was** certain. 
@@ -530,6 +552,13 @@ y que la **destrucción** de sus parientes **era** segura.
 आचार्यादिगळ् युद्धोन्मुखरेय् आगिलुम्  
 अवर्गळ् वधत्ताले पापम् वरुगिऱद् ऎऩ्गिऱ भयत्तालुङ् कलङ्गि 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-स्थान-स्नेह-ज--शोकेनास्थान-कृपया चाचार्यादीनां युद्धोन्मुखत्वे ऽपि  
+तेषां वधेन पापं भवतीति भयेन च व्यामुह्य, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -568,6 +597,14 @@ aunque **aparecieron** (contra él) con atuendos bélicos, **era** un pecado.
 ऎऩ्ऱु पार्त्तु 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> किं हितम् ?
+
+इति ज्ञातव्यम् इति विचार्य, 
+</details>
+
+
 <details><summary>English</summary>
 
 So he **wanted** to **know**  
@@ -603,6 +640,7 @@ Entonces él **quería saber**
 शिष्यस् तेऽहं **शाधि** मां त्वां प्रपन्नम्’’  
 (गीता २-७)  
 
+इति विज्ञापितवति सति, 
 </details>
 
 <details><summary>English</summary>
@@ -638,6 +676,12 @@ Por lo tanto **aconsejame** lo que **debo hacer**”.
 अवऩ्-उडैय शोकत्तै निवर्तिप्पिक्कैक्क् आग 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तच्-छोक निवर्तनार्थं  
+</details>
+
+
 <details><summary>English</summary>
 
 In order to **dispel** his grief, 
@@ -660,6 +704,12 @@ Para **disipar** su dolor,
 देहादि-व्यतिरिक्तम् आय्  
 पर-शेषतैक-रसम् आऩ नित्यात्म-स्वरूपत्तैयुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वयं देहादि-व्यतिरिक्तं पर-शेषतैकरसं नित्यात्म-स्वरूपं, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -690,6 +740,13 @@ que **es** diferente del cuerpo y cosas similares (los sentidos, etc.)
 कर्म-योग--ज्ञान-योगङ्गळैयुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतत्--स्व-रूप--ज्ञस्य परम-पुरुषार्थलाभार्थं  
+परम्परया कारण-भृतौ कर्म-योग--ज्ञान-योगौ, 
+</details>
+
+
 <details><summary>English</summary>
 
 and likewise karma yoga and jnāna yoga,  
@@ -714,6 +771,12 @@ the mediate means for **attaining** the supreme goal
 
 साक्षाद्-उपायम् आग चोदितम् आऩ भक्ति-योगत्तैयुम् स-परिकरम् आग उपदेशिक्क, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+साक्षाद्-उपायत्वेन चोदितं भक्ति-योगं च स-परिकरम् उपदिश्य, तदा 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -745,6 +808,12 @@ como también todos sus accesorios
 इप् परम-पुरषार्थत्तैक् कडुगप् पॆऱ वेणुम् ऎऩ्गिऱ त्वरैय् उण्डेय् आगिलुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"अयं परम-पुरुषार्थो झटिति प्राप्तव्य" इति त्वरायां सत्याम् अपि 
+</details>
+
+
 <details><summary>English</summary>
 
 Though Arjuna **was** eager to **attain** this supreme end quickly, 
@@ -764,6 +833,13 @@ Aunque Arjuna **estaba** deseoso de **alcanzar** este fin supremo rápidamente,
 
 स-परिकरम् आऩव् इव्व् उपायत्तिऩ्-उडैय दुष्करतैयिऩालुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सपरिकरस्यास्योपायस्य दौष्कर्यात्, 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -787,6 +863,12 @@ he **thought** it too hard to **perform** it (bhakti -yoga) with all its accesso
 इव् उपायानुष्ठानत्तुक्क् अपेक्षित-ज्ञान-शक्तिगळ् उण्डेय् आगिलुम् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद्-उपायानुष्ठानार्थम् अपेक्षितयोर् ज्ञान-शक्त्योः सत्त्वेऽपि 
+</details>
+
+
 <details><summary>English</summary>
 
 and though he **had** the **knowledge** and the ability **needed** for its **adoption**, 
@@ -808,6 +890,13 @@ y aunque **tenía** el **conocimiento** y la habilidad **necesaria** para su **a
 चिर-काल-साध्यम् आऩ उपाय--स्व-भावतालेय्  
 अभिमतम् कडुगत् तलैक्-कट्टाद पडिय् इरुक्कैयालुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अनेकावधानेन सह चिर-काल-साध्योपाय-स्वभाव-वशात्  
+अभिमतस्य शीघ्र सिद्ध्य्-अनर्हत्वेनावस्थितत्वाच् च
+</details>
+
 
 <details><summary>English</summary>
 
@@ -838,6 +927,13 @@ y que el fin **perseguido no podría alcanzarse** rápidamente,
 निरतिशय-शोकाविष्टऩ् आऩ अर्जुनऩै व्याजम् आगक् कॊण्डु  
 परम-कारुणिकऩ् आऩ गीतोपनिषद्-आचार्यऩ् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+निरतिशय-शोकाविष्टे ऽर्जुने  
+तं व्याजी कृत्य स परम-कारुणिको गीतोपनिषद्-आचार्यः, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -884,7 +980,6 @@ por su infinita compasión,
 प्राप्योऽहं नान्यथा प्राप्यो  
 मम कैङ्कर्य-लिप्सुभिः॥’’  
 () 
-
 </details>
 
 <details><summary>English</summary>
@@ -918,6 +1013,14 @@ No **hay** otra forma de **alcanzarme**",
 ऎऩ्ऱु ताऩ् विकल्पित्तु विधित्त उपायङ्गळिल् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[३५१]]  
+इति स्वेन विकल्प्य विहितयोर्
+उपाययोर् मध्ये, 
+</details>
+
+
 <details><summary>English</summary>
 
 Of the upāyas that be enjoined as optional in the (above) śloka
@@ -950,6 +1053,7 @@ De los upāyas que **se prescriben** como opcionales en el śloka (arriba)
 तावन् मोहस् तथा ऽसुखम्’’  
 (विष्णुपुराणम् १-९-७३) 
 
+इति 
 </details>
 
 <details><summary>English</summary>
@@ -992,6 +1096,13 @@ Sólo hasta cierto punto **habrá sufrimiento**, etc."
 पॊदुवाऩ साधनम् आय्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+स्व-चरण-प्राप्ति-रूप-फलस्य,  
+अन्येषाम् अभिमतानां च सर्वेषां साधारण-साधनम् 
+</details>
+
+
 <details><summary>English</summary>
 
 (that which) **is** the means alike, of **attaining** His feet and all other things that **are desired**, 
@@ -1021,6 +1132,12 @@ Sólo hasta cierto punto **habrá sufrimiento**, etc."
 लघुतरम् आय् 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+आनुकूल्य-संकल्पादि-व्यतिरिक्त-- परिकर-निरपेक्षं लघुतरं 
+</details>
+
+
 <details><summary>English</summary>
 
 which **can be performed**  
@@ -1048,6 +1165,15 @@ y la **evitación** de lo que **es** adverso para Él y cosas similares;
 श्रोतव्य-शेषम् इल्लाद बडि  
 उपदेश-पर्यवसानम् आऩ चरम-शलोकत्ताल् स-कल--लोक-रक्षार्थम् आगव् अरुळिच् चॆय्गिऱाऩ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+क्षण-मात्र-साध्य-- रहस्यतमोपायं  
+श्रोतव्य-शेष-रहितोपदेश-पर्यवसितेन चरम-श्लोकेन  
+स-कल-लोकरक्षार्थम् अनुगृह्णाति । 
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1090,6 +1216,14 @@ y **se puede hacer** en sólo un instante.
 श्रुति-सिद्धम् आऩव् इव्व्-अर्थत्तै  
 शरण्यऩ् आऩ सर्वेश्वरऩ् ताऩे +++(गीताचार्यरूपेण मध्यमपुरुषप्रयोगेण)+++ उपदेशिक्कव् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+श्रुति-सिद्धेऽस्मिन्नर्थे  
+शरण्येन सर्वेश्वरेण स्वयम् +++(गीताचार्यरूपेण मध्यमपुरुषप्रयोगेण)+++ उपदिष्टे सति,  
+इदम् एव, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1150,6 +1284,7 @@ que **es** bien **conocido** de los śrutis,
 **आचार्यानुज्ञया कुर्याच्**  
 छास्त्रदृष्टेन वर्त्मना’’ (श्री विष्णु-तत्त्वम्) 
 
+इति श्री-विष्णु-तत्त्वाद्य्-उक्ताचार्यानुज्ञा-रूपम् अपि संपन्नम् ॥ 
 </details>
 
 <details><summary>English</summary>
@@ -1201,6 +1336,12 @@ y con **renuncia** a los frutos de todas las acciones”.
 (सर्व-धर्मान् इत्यादि)  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+(सर्व-धर्मान् इत्यादि)  
+</details>
+
+
 <details><summary>English</summary>
 
 SARVADHARMĀN ETC.  
@@ -1226,6 +1367,13 @@ página 526
 शङ्करादि-कुदृष्टिगळ् सॊल्लुम् पॊरुळ्गळ् ऎल्लाम्  
 तात्पर्य-चन्द्रिकैयिलुम्, निक्षेप-रक्षैयिलुम् परक्क दूषित्तोम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्य श्लोकस्य शङ्करादिभिः कुदृष्टिभिर् उक्तान् सर्वान् अर्थान्  
+तात्पर्य-चन्द्रिकायां निक्षेप-रक्षायां च विस्तरेणादूषयाम । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1255,6 +1403,13 @@ las **interpretaciones dadas** de este śloka por (**comentaristos**) tan perver
 इङ्गु सारम् आऩ अर्थङ्गळै  
 सत्-संप्रदाय-सिद्धम् आऩ बडिये सॊल्लुगिऱोम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र सार-भूतान् अर्थान्  
+सत्-संप्रदाय-सिद्ध-रीत्या आचक्ष्महे । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1289,6 +1444,13 @@ como **establecido** en la tradición de los sabios.
 इदिल् पूर्वार्धम् उपाय-विधायकम्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र पूर्वार्धम् उपाय-विधायकम् । 
+</details>
+
+
+
 <details><summary>English</summary>
 
 The first half of this (śloka) **enjoins** the upāya, 
@@ -1315,6 +1477,12 @@ La primera mitad de este (śloka) **ordena** el upāya,
 उत्तरार्धम् फल-निर्देशादि-मुखत्ताले विधि-शेषम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+उत्तरार्धं फल-निर्देश-मुखेन विधि-शेष-भूतम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 the second half **is** the śeṣa which is subordinate or supplementary to it  
@@ -1336,6 +1504,13 @@ a modo de **indicación** del fin a **alcanzar** (por ese upāya).
 
 आगैयाल् इश् श्लोकम् उपाय-विधान-प्रधानम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अतोऽयं श्लोक उपाय-विधान-प्रधानः ॥ 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -1359,6 +1534,12 @@ Por lo tanto, el objetivo principal de este śloka **es prescribir** el upāya.
 शास्त्रमे कॊण्ड् अऱिय वेण्डिय् इरुक्कुम्  
 पुरुषार्थ-साधनम्। +++(5)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+धर्मो नाम - शास्त्रैक-समधिगम्यं पुरुषार्थ-साधनम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1403,6 +1584,12 @@ que **puede entenderse** únicamente desde el śāstra.
 शास्त्र-चोदितङ्गळ् आऩ धर्मङ्गळ्-उडैय बाहुल्यत्तैच् चॊल्लुगिऱदु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"धर्मान्" इति बहुवचनेनाभिमत-साधनत्वेन शास्त्र-चोदितानां धर्माणां बाहुल्यम् उच्यते । 
+</details>
+
+
 <details><summary>English</summary>
 
 The use of the plural form, dharmān, **indicates** the manifold nature of the dharmas **enjoined** in the Śāstra  
@@ -1432,6 +1619,12 @@ como medio para **alcanzar** los objetos o fines **deseados**.
 
 सर्व-शब्दत्ताले स-परिकरम् आऩ निलैयै विवक्षिक्किऱदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-शब्देन स-परिकरता-रूप-स्थितिर् विवक्ष्यते ; 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1463,6 +1656,13 @@ La palabra sarva (todos) **sugiere** que (estos dharmas) **tienen** ciertos acce
 धर्म-परिकरङ्गळैयुम् धर्मम् ऎऩ्ऱु सॊल्लक् कुऱैय् इल्लैय् इऱे।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+धर्म-परिकराणाम् अपि धर्मत्वेन व्यवहारे  
+नास्ति हि क्षतिः । 
+</details>
+
+
 <details><summary>English</summary>
 
 There **is** certainly no impropriety in **calling** the accessories to dharma by the word dharma. 
@@ -1492,6 +1692,14 @@ Ciertamente **no hay** ninguna impropiedad en **llamar** a los accesorios del dh
 "एक"-शब्द-प्रतिसम्बन्धिय् आग योजिक्कुम् बोदु  
 इदु अङ्गिगळ् आऩ नाना-धर्मङ्गळिऩ्-उडैय कार्त्स्न्यत्तैच् चॊल्लुगिऱदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[३५२]]  
+अस्य सर्व-शब्दस्यैक-शब्द-प्रतिसंबन्धितया योजने क्रियमाणे  
+अयम् अङ्गिनां नाना-धर्माणां कार्त्स्न्यं वक्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1523,6 +1731,14 @@ Si (por otro lado) **interpretamos** la palabra "sarva" (todos) como lo opuesto 
 इङ्गु प्रकरण-वशत्ताले मोक्षार्थम् आग  
 शास्त्र-विहितङ्गळ् आय्, स-परिकरङ्गळ् आय्, नाना-प्रकारङ्गळ् आऩ उपासनङ्गळैय् ऎल्लाञ् जॊल्लुगैयिले तात्पर्यम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं सामान्यत उक्ताव् अप्य्  
+अत्र प्रकरण-वशात्,  
+मोक्षार्थतया शास्त्र-विहितानां सपरिकराणां नाना-प्रकाराणाम् उपासनानां सर्वेषां प्रतिपादने तात्पर्यम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1558,6 +1774,8 @@ sin embargo, lo que **se pretende** (con la palabra) aquí **es** los diversos t
 पुरुषोत्तमत्व-ज्ञानम्  
 सर्व-विद्यैगळुक्कुम् उपकारकम् आऩ तत्त्व-ज्ञान-मात्रम् आगवुम्, 
 </details>
+
+
 
 <details><summary>English</summary>
 
@@ -3461,6 +3679,7 @@ quien **carece** de esta plenitud de conocimiento o plenitud de fe.
 ज्ञानपूर्तियादल् विश्वासपूर्तियादलुडैयवऩ् प्रपत्तिक्कधिकारि, ज्ञानमान्द्यमादल् विश्वासमान्द्यमादलुडैयवऩ् उपासनादिगळुक्कधिकारियॆऩ्ऱाल् 
 </details>
 
+#### व्यासादौ विपर्यासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इच् चरम-श्लोकादिगळुक्क् उपदेष्टाक्कळुम् आय्  
@@ -3524,10 +3743,91 @@ y **haber** (más tarde) **volverse** débil en inteligencia y fe **adoptado** u
 अवर्गळुपदेशकालत्तिले ज्ञानविश्वासङ् गळैयुडैयवराय्प् पिऩ्बु कलङ्गि उपासकराऩार्गळॆऩ्गैक्कॊरु प्रमाणमिल्लै। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रपन्नर् आय् वैत्तु लोक-संग्रहार्थम् आगव् उपासनादिगळै अनुष्ठित्तार्गळ् 
+
+ऎऩ्गैक्कुम् अव्व्-ओ प्रबन्धङ्गळिल् ऒरु वचनम् इल्लै। 
+</details>
+
+<details><summary>English</summary>
+
+There **is no** evidence in the respective accounts of their lives  
+to **show** that though they were prapannas (with prapatti as their upāya)  
+they **practised** upāsanā also  
+for **setting** an example to the world. 
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** ninguna evidencia en los respectivos relatos de sus vidas.  
+para **mostrar** que aunque **eran** prapannas (con prapatti como su upāya)  
+Ellos **practicaron** upāsanā también  
+por **dar** un ejemplo al mundo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपन्नराय् वैत्तु लोकसंग्रहार्थमागवुपासनादिगळै अनुष्ठित्तार् कळॆऩ्गैक्कुमव्वो प्रबन्धङ्गळिलॊरु वचनमिल्लै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पडि कल्पिक्कप् पुक्कालुम्  
+तऩ्ऩ्-अधिकारत्तुक्कु निषिद्धम् आऩवऱ्ऱै  
+लोक-संग्रहार्थम् आगव् अनुष्ठिक्कप् पुक्काल्
+</details>
+
+<details><summary>English</summary>
+
+Even if this **were admitted** to be a fact,  
+the **adoption** of a dharma which **is** forbidden to a man for the sake of **setting** an example to the world  
+</details>
+
+<details><summary>Español</summary>
+
+Incluso si esto **fuese admitido** como un hecho,  
+la **adopción** de un dharma que **está** prohibido a un hombre con el fin de **dar** un ejemplo al mundo
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पडि कल्पिक्कप्पुक्कालुम्दऩ्ऩधिकारत्तुक्कु निषिद्धमाऩवऱ्ऱै लोकसंग्रहार्थमागव् अनुष्ठिक्कप्पुक्काल्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवैय् इवऩ् ऱऩक्कुम् पापम् आय्  
+अधिकारत्तुक्कु विरुद्धानुष्ठानम् पण्णुगैयाले  
+तऩ्ऩ्-अनुष्ठानत्तैय् इट्टु लोक-संग्रहम् पण्णवुङ् कडप्+++(=तरणम्)+++ पडाद् ऒऴियुम्। 
+</details>
+
+<details><summary>English</summary>
+
+**would be** a sin so far as he **is** concerned  
+and as the **observance** or **adoption** of the dharma **is opposed** to the man's competence,  
+it **would not be** a proper example to **set** the world right. 
+</details>
+
+<details><summary>Español</summary>
+
+**sería** un pecado en lo que a él **concierne**  
+y como la **observancia** o **adopción** del dharma **se opone** a la competencia del hombre,  
+**No sería** un ejemplo adecuado para **enderezar** el mundo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवैयिवऩ्ऱऩक्कुम् पापमाय् अधिकारत्तुक्कु विरुद्धानुष्ठानम् पण्णुगैयाले तऩ्ऩनुष्ठानत्तैयिट्टु लोकसंग्रहम् पण्णवुङ्गडप् पडादॊऴियुम्। 
+</details>
 
 
 
-There is no evidence in the respective accounts of their lives to show that though they were prapannas (with prapatti as their upāya) they practised upāsanā also for setting an example to the world. Even if this were adınitted to be a fact, the adoption of a dharma which is forbidden to a man for the sake of setting an' example to the world would be a sin so far as he is concerned and as the observance or adoption of the dharma is opposed to the man's competence, it would not be a proper example to set the world right. (Śrī Rāmānuja) has explained in the Gitā Bhāṣya that loka saṅgraha consists in a man choosing one of two ways of life (permitted for himself) as being easy of performance by others and beneficial to them, and adopting that way of life as an example to others in order to establish them firmly in it. A sannyāsin adopting the way of life peculiar to the house-holder and forbidden to himself is not setting an example for the sake of the betterment of the world (lokasaṅgraha). This would be only the violation of the commandment (of the Lord). In the same way, the adoption by a prapanna of a dharma forbidden to him, under the misapprehension that it would be a form of kaiṅkarya is also opposed to his competency:
+(Śrī Rāmānuja) has explained in the Gitā Bhāṣya that loka saṅgraha consists in a man choosing one of two ways of life (permitted for himself) as being easy of performance by others and beneficial to them, and adopting that way of life as an example to others in order to establish them firmly in it. A sannyāsin adopting the way of life peculiar to the house-holder and forbidden to himself is not setting an example for the sake of the betterment of the world (lokasaṅgraha). This would be only the violation of the commandment (of the Lord). In the same way, the adoption by a prapanna of a dharma forbidden to him, under the misapprehension that it would be a form of kaiṅkarya is also opposed to his competency:
 
 There is nothing wrong in a prapanna performing those rites that are prescribed in the śāstras and that are not required for prapatti with the idea that they are (forms of) kaiṅkarya (service).
 
