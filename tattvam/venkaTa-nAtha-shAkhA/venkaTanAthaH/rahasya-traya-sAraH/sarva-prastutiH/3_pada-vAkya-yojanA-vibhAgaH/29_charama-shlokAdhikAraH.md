@@ -1775,6 +1775,10 @@ sin embargo, lo que **se pretende** (con la palabra) aquí **es** los diversos t
 सर्व-विद्यैगळुक्कुम् उपकारकम् आऩ तत्त्व-ज्ञान-मात्रम् आगवुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+पुरुषोत्तमत्व-ज्ञानस्य सर्व-विद्योपकारक-तत्त्व-ज्ञान-मात्रतया 
+</details>
 
 
 <details><summary>English</summary>
@@ -1818,6 +1822,12 @@ que **es** de ayuda para todos los vidyās o formas de **meditación**;
 अनुष्ठिक्किऱ उपासनादिगळ्-उडैय शीघ्र-निष्पत्ति-हेतुव् आगवुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अवतार-रहस्य-चिन्तनस्यानुष्ठीयमानोपासनादीनां शीघ्रनिष्पत्ति-हेतुतया, 
+</details>
+
+
 <details><summary>English</summary>
 
 the **knowledge** of the truth **concerning** the avatārs (of Bhagavān) **is shown** in Ch. IV there  
@@ -1855,6 +1865,13 @@ como la causa de que los upāsanas **adoptados** **rindan** su fruto rápidament
 देश-वासादिगळ् उपाय-विरोधि-पाप-क्षय-हेतुक्कळ् आय्क् कॊण्डु  
 उपाय-निष्पादकङ्गळ् आगवुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+देश-वासादीनाम् उपाय-विरोधि-पाप-- क्षय-हेतुत्व-मुखेनोपाय-निष्पादकतया च 
+</details>
+
+
 <details><summary>English</summary>
 
 **residence** in places where there **are** temples of Nārāyaṇa and the like  
@@ -1897,6 +1914,12 @@ que **están** en el camino de los upāsanas **que dan** fruto.
 श्रीगीता-भाष्यादिगळिले समर्थिक्कैयाले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+श्री-गीता-भाष्यादिषु समर्थितत्वाद् 
+</details>
+
+
 <details><summary>English</summary>
 
 (all this) **is** conclusively **shown** in (Śrī Rāmānuja's) Gitābhāṣya and elsewhere.  
@@ -1922,6 +1945,12 @@ Por lo tanto ...
 इवऱ्ऱै साक्षान्-मोक्षोपायङ्गळ् आक्कि  
 अङ्गि-बहुत्व-विषयम् आऩ बहु-वचनत्ताले विवक्षिक्किऱदॆऩ्गै उचितमऩ्ऱु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतेषां साक्षान्-मोक्षोपायत्वापादन-पूर्वम् अङ्गि-बहुत्व-विषयकेण बहुवचनेना विवक्षा-वर्णनं नोचितम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1955,6 +1984,18 @@ y no causas directas como las upāsanās).
 इवैय् +++(←ज्ञान-वासादि)+++ ऒऴियवुम् सद्-विद्या--दहर-विद्यादि-भेदत्ताले अङ्गि-बहुत्वङ् किडैक्कैयाल्  
 इब् बहु-वचनम् सार्थम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘नाना शब्दादि-भेदात्’’(ब्रह्मसूत्रम् ३-३-५६) 
+
+इत्य्-उक्त-रीत्या  
+एषाम् अ-भावेऽपि  
+सद्-विद्या--दहर-विद्यादि-भेदेन  
+अङ्गि-बहुत्वस्य लाभाद्  
+इदं बहुवचनं सार्थम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1994,6 +2035,13 @@ porque **se ha dicho**
 
 अङ्गि-बहुत्वत्तैयुम् परिकर-बहुत्वत्तैयुङ् गूड विवक्षित्तालुम् विरोधम् इल्लै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अङ्गि-बहुत्वस्य परिकर-बहुत्वस्य च विवक्षणेऽपि  
+न विरोधः ॥  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2040,6 +2088,13 @@ página 528
 ‘‘परित्यज्य’’ ऎऩ्गिऱव् इडत्तिल् त्यागम् आवदु, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"परित्यज्य" इत्यत्र  
+त्यागो नाम - 
+</details>
+
+
 <details><summary>English</summary>
 
 In the word parityajya, the 'giving up' or abandonment **consists in** 
@@ -2075,6 +2130,7 @@ En la palabra parityajya, el 'abandono' **consiste en**
 > ‘‘अनया च प्रपत्त्या माम्  
 आकिञ्चन्यैक-पूर्वकम्’’()  
 
+इत्य्-आद्य्-उक्त-रीत्या 
 </details>
 
 <details><summary>English</summary>
@@ -2110,6 +2166,12 @@ porque **se ha dicho**,
 उपायान्तरङ्गळिऱ् पिऱन्द नैराश्यम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अकिञ्चनस्य स्वस्य दशा-दर्शनेनोपायान्तरेषु जातं नैराश्यम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 the **aversion** to other kinds of upāya (than prapatti),  
@@ -2133,6 +2195,12 @@ que **surge** de una **consideración** de que uno **está desprovisto** de la c
 
 आसैयाले पऱ्ऱ् आऩाल्  
 "आसैयै विडुगै त्यागम्" ऎऩ्ऩ उचितम् इऱे।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+आशया ग्रहणे क्रियमाणे,  
+आशात्यागस् त्याग इति सुवचः किल । 
 </details>
 
 <details><summary>English</summary>
@@ -2168,6 +2236,12 @@ Si **hay conexión** por **deseo**,
 अदिल् ‘‘परि’’ ऎऩ्गिऱ उपसर्गत्ताले 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्र 'परि' इत्युपसर्गेण 
+</details>
+
+
 <details><summary>English</summary>
 
 The preposition pari (before tyaj) 
@@ -2201,7 +2275,6 @@ La preposición pari (antes de tyaj)
 
 > ‘‘अनागतानन्त-काल-समीक्षया ऽप्य् अ-दृष्ट--सन्तारोपायः’’  
 (श्रीरङ्गगद्यम्), 
-
 </details>
 
 <details><summary>English</summary>
@@ -2235,7 +2308,6 @@ que **yace** delante de mí",
 > ‘‘त्वत्-पाद-कमलाद् अन्यन्  
 न मे जन्मान्तरेष्व् अपि’’  
 (जितन्ता-स्तोत्रम् १-१०) 
-
 </details>
 
 <details><summary>English</summary>
@@ -2269,6 +2341,15 @@ que **alcanzaré** la meta **deseado**.
 सर्व-कालत्तिलुम् सर्व-प्रकारत्तालुम् योग्यतैय् इल्लामै तॆळिगैयाले  
 पिऱन्द नैराश्यातिशयञ् जॊल्लप् पडुगिऱदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्य्-आद्य्-उक्त-रीत्या  
+अत्यन्ताकिञ्चनस्य  
+सर्व-कालेषु सर्व-प्रकार-योग्यता-राहित्यस्य ज्ञानेन  
+जातो नैराश्यातिशय उच्यते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2306,6 +2387,17 @@ como **expresado** en los pasajes anteriores.
 ऎऩ्ऱुम्, 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+सर्व-प्रकारैस् त्यागो नाम -  
+
+> पूर्णानुष्ठान-शक्त्य्-अभावे  
+यथा-शक्त्य्-अनुष्ठानं कुर्म 
+
+इति, 
+</details>
+
+
 <details><summary>English</summary>
 
 "**Aversion** in every form" **means**  
@@ -2340,7 +2432,20 @@ Lo **haré** lo mejor que pueda;
 > अदुक्कु योग्यतैय् इल्लाद दशैयिले  
 वेऱे सिल अनुकल्पङ्गळैय् आदल्  
 उपायोपायङ्गळैय् आदल् अनुष्ठिक्किऱोम्
+
+ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[३५३]] 
+
+> तद्-योग्यता-विरह-दशायाम्  
+अन्यान् कांश्चिदनुकल्पान् वा उपायोपायान् वाऽनुतिष्ठाम 
+
+इति 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2358,15 +2463,20 @@ o los upāyas que **producirán** los upāyas **prescritos**",
 
 <details><summary>मूलम्</summary>
 
-अदुक्कु योग्यतैयिल्लाद दशैयिले वेऱे सिल अनुकल्पङ्गळैयादल् उपायोपायङ्गळैयादलनुष्ठिक्किऱोम्
+अदुक्कु योग्यतैयिल्लाद दशैयिले वेऱे सिल अनुकल्पङ्गळैयादल् उपायोपायङ्गळैयादलनुष्ठिक्किऱोम् ऎऩ्ऱुम्, 
 </details>
-
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎऩ्ऱुम्, तऩक्कु दुष्करङ्गळैक् गणिसिक्कुम् दुराशैय् अऱ्ऱ् इरुक्कै। 
+तऩक्कु दुष्करङ्गळैक् गणिसिक्कुम् दुराशैय् अऱ्ऱ् इरुक्कै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+स्वस्य दुष्करेषु प्रवर्तमानाया दुराशाया अभावः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2386,7 +2496,7 @@ con los **pensamientos** (arriba).
 
 <details><summary>मूलम्</summary>
 
-ऎऩ्ऱुम् दऩक्कु दुष्करङ्गळैक् कणिसिक्कुम् दुराशैयऱ्ऱिरुक्कै। 
+दऩक्कु दुष्करङ्गळैक् कणिसिक्कुम् दुराशैयऱ्ऱिरुक्कै। 
 </details>
 
 <details><summary>४२तमाहोबिल-यतिः</summary>
@@ -2402,6 +2512,12 @@ con los **pensamientos** (arriba).
 इव्व् +++(सिद्धस्यैव)+++ अनुवादत्तुक्कु  
 अधिकार-विशेषत्तैक् काट्टुगै प्रयोजनम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
++++(सिद्धस्यैव)+++ अस्यानुवादस्याधिकार-विशेष- प्रदर्शनं प्रयोजनम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2440,6 +2556,12 @@ quien **es** especialmente competente para **adoptar** prapatti.
 अदिल् ‘‘परि’’ ऎऩ्गिऱ उपसर्गम्  
 अधिकार-पौष्कल्यत्तै विवक्षिक्किऱदु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र परीत्य्-उपसर्गेणाधिकार-पौष्कल्यं विवक्ष्यते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2513,6 +2635,16 @@ o **tiene** plena competencia.
 ऎऩ्ऱु व्याख्यातम् आऩाऱ् पोले  
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्यत्र " प्राप्य" इत्यस्य विधित्वं हित्वा 
+
+> ‘‘प्राप्य वर्तमानस् त्वम्’’ 
+
+" प्राप्य वर्तमानस्त्वम्” इति व्याख्यानवत् 
+</details>
+
+
 <details><summary>English</summary>
 
 In the (above) sentence:-  "having reached" does not state a vidhi or injunction meaning \- "Reach this world". 
@@ -2549,6 +2681,16 @@ o
 ऎऩ्ऱु विवक्षितम् आगक् कडवदु।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्रापि 
+
+> "परित्यज्य स्थितस् त्वम्” 
+
+इति विवक्षितं युक्तम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 So also, here,  
@@ -2582,6 +2724,14 @@ las palabras "sarvadharmān parityajya"
 क्त्वा-श्रुति-मात्रत्तैक् कॊण्डु  
 "त्यागम् अङ्गम्" ऎऩ्ऩव् ऒण्णादु।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् अर्थान्तरेष्व् अपि प्रयोग-सत्त्वात्  
+क्त्वा-श्रुति-मात्रावलम्बनेन  
+त्यागोऽङ्गम् इति वक्तुं न युक्तम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2631,8 +2781,18 @@ como **es incapaz** de **adoptar** otros dharmas,
 विधिय् आऩ बोदु  
 प्रपत्त्य्-अध्यायादिगळिल् विधिक्किऱ बडिये  
 आकिञ्चन्य-प्रतिसन्धानादि-रूपम् आऩ कार्पण्यम् आगिऱ प्रपत्त्य्-अङ्गत्तै विधिक्किऱद् ऎऩ्ऱाल्  
-अर्थत्तिल् विरोधम् इल्लै। 
+अर्थत्तिल् विरोधम् इल्लै +++(यद्य् अपि शीघ्र-धी-गम्यता नास्ति)+++। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"परित्यज्य" इत्य्-अस्य विधित्वे,  
+प्रपत्त्य्-अध्यायादिषु विहित-रीत्या  
+आकिञ्चन्य-प्रतिसन्धानादि-रूपं कार्पण्यं  
+प्रपत्त्य्-अङ्गं विधीयत  
+इत्य्-उक्तौ - नार्थे विरोधः  +++(यद्य् अपि शीघ्र-धी-गम्यता नास्ति)+++। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2668,6 +2828,12 @@ como **ser desprovisto** de upãyas.
 
 अप् पोदु ‘‘सर्व-धर्मान् परित्यज्य’’ ऎऩ्गिऱदु 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तदा, 'सर्वधर्मान् परित्यज्य' इत्यनेन, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2772,6 +2938,8 @@ y
 
 ऎऩ्ऱ बडि।
 </details>
+
+
 
 <details><summary>English</summary>
 
