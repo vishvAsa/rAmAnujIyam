@@ -4489,6 +4489,8 @@ and **are** therefore **not** opposed to prapatti
 and that, **owing** to this  
 what **is** intended here **is** only the **giving up** of such **activities** as are positive (pruvritti)  
 (and not mere **abstentions** from activity). 
+
+This argument, too, is unsound. 
 </details>
 
 <details><summary>Español</summary>
@@ -4505,6 +4507,8 @@ y que,
 > **debido** a esto  
 lo que **se** pretende aquí **es** sólo **el abandono** de aquellas **actividades** que **sean** positivas (pruvritti)  
 (y no meras **abstenciones** de actividad).
+
+Este argumento también **es** erróneo.
 </details>
 
 
@@ -4513,43 +4517,613 @@ lo que **se** pretende aquí **es** sólo **el abandono** de aquellas **activida
 निषेधवाक्यसिद्धङ्गळाऩ निवृत्तिरूपधर्मङ्गळ् स्वरक्षणार्थस्वव्यापारमल्लामैयाले शरणागतियोडु विरोधमिल्लै यामैयाल् इङ्गु प्रवृत्तिरूपधर्मङ्गळिऩुडैय त्यागमे विवक्षितमॆऩ्ऩुम् निर्वाहमुम् मन्दम्; 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"निवृत्तियुम् व्यापार-विशेषम्" ऎऩ्ऩुम् इडमुम्  
+अदुवुम् स्व-रक्षणार्थम् आम् ऎऩ्ऩुम् इडमुम्  
+लोक-वेद-सिद्धम् इऱे। 
+</details>
+
+<details><summary>English</summary>
+
+Nivṛtti, abstention or renunciation, **is** also a form of activity **arising** from one's will or determination,  
+and it too, **may occur** for the sake of **protecting** oneself  
+as **may be seen** in the world and from the Vedas.  
+
+(Prohibitory texts in the Vedas **presume** that  
+even **abstentions are activities**.  
+**Refraining** from treasonable activities  
+**is** often for the sake of **protection** of one's self from the penal code).
+</details>
+
+<details><summary>Español</summary>
+
+Nivṛtti, abstención o renunciación, **es** también una forma de actividad que **surge** de la propia voluntad o determinación,  
+y esto también, **puede ocurrir** con el fin de **protegerse**  
+como **puede verse** en el mundo y en los Vedas.  
+
+(Los textos **prohibitivos** de los Vedas **presuponen** que  
+incluso **las abstenciones son actividades**.  
+**Abstenerse** de actividades de traición  
+**es** a menudo para **protección** de uno mismo frente al código penal).
+</details>
 
 
-This argument, too, is unsound. Nivṛtti, abstention or renunciation, is also a form of activity arising from one's will or determination, and it too, may occur for the sake of protecting oneself as may be seen in the world and from the Vedas. (Prohibitory texts in the Vedas presume that even abstentions are activities. Refraining from treasonable activities is often for the sake of protection of one's self from the penal code).
+<details><summary>मूलम्</summary>
 
-If it be held that, on the strength of the injunction (vidhi) contained in parityajya), the prapanna should give up all dhamas whether they be positive activities (pravṛtti) or abstentions from actions (nivṛtti) and that this is the real intention of the śāstras, then it would follow that the ancients who performed prapatti and those who are prapannas today have done and are doing what is against the Śāstras in performing different kinds of kaiṅkarya (pravṛtti) and in performing expiatory rites for offences (committed by them) (for what is forbidden should, on that view, be performed and no expiation would be necessary for it). These men who are propagators of the tradition of prapatti in accordance with the pramāṇas and who are also supremely compassionate could, under no stretch of imagination, be thought of as deluded or deceitful.
+निवृत्तियुम् व्यापारविशेषमॆऩ्ऩुमिडमुम् अदुवुम् स्वरक्षणार्थ मामॆऩ्ऩुमिडमुम्लोकवेदसिद्धमिऱे। 
+</details>
 
-It may be argued that this objection would stand only if the giving up of all dharmas (rites and observances) is enjoined (on the prapanna) for the rest of his life, and that it would not hold good, if the giving up of all dharmas in their essential form (svarūpa) is considered as an aṅga (of prapatti) to be done only at the time of performing prapatti and if their resumption is permitted after that performance. The answer to this argument is as follows:- " There is no need at all to enjoin the giving np of an activity or of an abstention which is not likely to be present at all at that time. If only such activities or dharmas in their svarūpa as are likely or possible at the time are enjoined to be given up, it would follow that prapatti should be performed after giving up such things as the following :-- residence in holy places sacred to Bhagavān, the tuft of hair, the sacred thread (yajñopavīta) and the wearing of the mark of the sect (puṇḍra).
+### न कैङ्कर्य-परिहारादि-परित्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Therefore the proper interpretation of the vidhi (if it be taken as vidhi) enjoining the giving up is this: "Prapatti does not require, as an aṅga or accessory, any dharma or observance or rite which is required as an aṅga (such as karma) to upāsana (meditation) according to vidyās”.
+> इव् विधि-बलत्ताले  
+प्रवृत्ति-निवृत्ति-रूपङ्गळ् आऩ सर्व-धर्मङ्गळैयुन् दविर्न्दु  
+तिरिगै दाऩे प्रपन्नऩुक्कु शास्त्रार्थम् आऩालोव् 
 
-Even in this view that parityajya indicates a vidhi or injunction to give up, the person competent for prapatti is one who is incapable of other upāyas, or one who, though capable of other upāyas, is too impatient to endure the delay in attaining the fruit (which the other upāyas might entail). If we take this view, it will not be against any of the pramāṇas (viz. those which enjoin the rites of the varṇas and āśramas, and those which enjoin bhakti  yoga and the like). Former ācāryas did not discuss the point whether or not the giving up of all dharmas in their essential forn is an aṅga of prapatti. Their discussions were confined only to the question of which words in the carama śloka respectively indicated the qualification necessary for prapatti viz. that of being destitute of other upāyas and which words the idea that prapatti did not require (any aṅga or accessory).
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+If it **be held** that, 
+
+> on the strength of the injunction (vidhi) (**contained** in parityajya),  
+the prapanna **should give up** all dhamas whether they be positive activities (pravṛtti) or abstentions from actions (nivṛtti)  
+and that this **is** the real **intention** of the śāstras,  
+</details>
+
+<details><summary>Español</summary>
+
+Si **se sostiene** que, 
+
+> sobre la base del mandato (vidhi) (**contenido** en "parityajya"),  
+el prapanna **debe abandonar** todos los dhamas, ya **sean** actividades positivas (pravṛtti) o **abstenciones** de acciones (nivṛtti)  
+y que esta **es** la verdadera **intención** de los śāstras,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव् विधिबलत्ताले प्रवृत्तिनिवृत्तिरूपङ्गळाऩ सर्वधर्मङ्गळैयुन् दविर्न्दु तिरिगैदाऩे प्रपन्नऩुक्कु शास्त्रार्थमाऩालोवॆऩ्ऩिल्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपन्नर् आऩ पूर्वर्गळुम्  
+इप्-पोद् उळ्ळारुम्  
+सावधानर् आय्प् पण्णिप् पोरुगिऱ कैङ्कर्यङ्गळुम्  
+अपचार-परिहारङ्गळुम्  
+विरुद्धानुष्ठानमाम्।
+</details>
+
+<details><summary>English</summary>
+
+then it **would follow** that the ancients who **performed** prapatti  
+and those who **are** prapannas today  
+**have done** and **are doing** what is against the Śāstras  
+in **performing** different kinds of kaiṅkarya (pravṛtti)  
+and in **performing** expiatory rites for offences (**committed** by them)  
+(for what **is forbidden should**, on that view, be **performed**  
+and **no expiation would be necessary** for it).+++(5)+++ 
+</details>
+
+<details><summary>Español</summary>
+
+entonces **se seguiría** que los antiguos que **realizaron** prapatti  
+y aquellos que **son** prapannas hoy  
+**han hecho** y **están haciendo** lo que va en contra de los Śāstras  
+en **realizar** diferentes tipos de kaiṅkarya (pravṛtti)  
+y en **realizar** ritos expiatorios por ofensas (**cometida** por ellos)  
+(porque lo que **está prohibido** debería, desde ese punto de vista, **realizarse**  
+y **no sería necesaria ninguna expiación** para ello).+++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपन्नराऩ पूर्वर्गळुम् इप्पोदुळ्ळारुम् सावधानराय्प् पण्णिप्पोरुगिऱ कैङ्कर्यङ्गळुम् अपचारपरिहारङ्गळुम् विरुद्धानुष्ठानमाम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा-प्रमाणम् प्रपत्ति-संप्रदाय-प्रवर्तकर् आय्  
+परम-कारुणिकरुम् आय् इरुक्किऱ् अवर्गळुक्कु  
+भ्रम-विप्रलम्भ--संभावऩैयुम् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+These men who **are propagators** of the tradition of prapatti  
+in accordance with the pramāṇas  
+and who **are** also supremely compassionate  
+**could**, under no stretch of imagination,  
+**be thought of** as deluded or deceitful.
+</details>
+
+<details><summary>Español</summary>
+
+Estos hombres que **son propagadores** de la tradición de prapatti  
+de acuerdo con los pramāṇas  
+y que **son** también sumamente compasivos  
+**podría**, sin ningún esfuerzo de imaginación,  
+**ser considerado** como ilusorio o engañoso.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथाप्रमाणम् प्रपत्तिसंप्रदायप्रवर्तकराय् परमकारुणिकरुमायिरुक्किऱवर्गळुक्कु भ्रमविप्रलंभसंभावऩैयुमिल्लै।
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+गौडीयास् तु कैङ्कर्यादि-व्यतिरिक्त-त्याग इह चोदित इति परिहरन्ति। 
+</details>
+
+
+### न प्रपत्ति-क्षणे विहित-त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यावज्-जीवं सर्व-धर्म-त्यागं विधेयम् आगिल् अऩ्ऱो  
+इव् विरोधम् उळ्ळदु।  
+प्रपत्त्य्-अनुष्ठान-क्षणत्तिल् सर्वधर्मङ्गळिऩ्-उडैय स्व-रूप--त्यागम् अङ्गम् आऩाल्  
+विरोधम् इल्लैयेय् 
+
+ऎऩ्ऩिल्;
+</details>
+
+<details><summary>English</summary>
+
+It **may be argued** that 
+
+> this objection **would stand**  
+only if the **giving up** of all dharmas (rites and observances) **is enjoined** (on the prapanna)  
+for the rest of his life,  
+
+and that 
+
+> it **would not hold** good,  
+if the **giving up** of all dharmas in their essential form (svarūpa)  
+**is considered** as an aṅga (of prapatti)  
+to **be done** only at the time of **performing** prapatti  
+and if their **resumption is permitted** after that **performance**. 
+
+The answer to this argument is as follows:- 
+</details>
+
+<details><summary>Español</summary>
+
+**Se puede argumentar** que 
+
+> esta objeción **se mantendría**  
+sólo si **se ordena** (en el prapanna) **renunciar** a todos los dharmas (ritos y observancias)  
+por el resto de su vida,  
+
+y que
+
+> **no aguantaría** bien,  
+si el **abandono** de todos los dharmas en su forma esencial (svarūpa)  
+**es considerado** como un aṅga (de prapatti)  
+**debe hacerse** sólo en el momento de **realizar** prapatti  
+y si **se permite su reanudación** después de **dicha ejecución**.
+
+La **respuesta** a este argumento es la siguiente:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यावज्जीवं सर्वधर्म त्यागम् विधेयमागिलऩ्ऱो इव् विरोधमुळ्ळदु। प्रपत्त्यनुष्ठानक्षणत्तिल् सर्वधर्मङ्गळिऩुडैय स्वरूपत्यागमङ्गमाऩाल् विरोधमिल्लैयेयॆऩ्ऩिल्;
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदु संभावितम् आऩवऱ्ऱिऩ्-उडैय स्व-रूपत्यागम् विधिक्क वेण्डा +++(प्रत्युत वक्ष्यमाणा निषेद्धव्याः)+++; 
+</details>
+
+<details><summary>English</summary>
+
+There **is no need** at all to **enjoin** the giving up of an **activity**  
+or of an **abstention** which **is** not likely to be present at all at that time.+++(4)+++ 
+</details>
+
+<details><summary>Español</summary>
+
+No **hay necesidad** en absoluto de **prohibir** el abandono de una **actividad**  
+o de una **abstención** que **no es** probable que esté presente en ese momento.+++(4)+++ 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पोदु संभावितमाऩवऱ्ऱिऩुडैय स्वरूपत्यागम् विधिक्कवेण्डा; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संभावितम् अल्लाद् अवऱ्ऱिऩ्-उडैय स्वरूप-त्यागम् विधेयमागिल्  
+अप्-पोद् उण्डाऩ भगवत्-क्षेत्र--वास-- शिखा-यज्ञोपवीतोर्ध्व-पुण्ड्र--धारणादिगळैत् तविर्न्दु कॊण्डु  
+प्रपत्ति पण्णप् प्रसङ्गिक्कुम्। +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+If only such activities or dharmas in their svarūpa as **are** likely or **possible** at the time **are enjoined** to **be given up**,  
+it **would follow** that prapatti **should be performed**  
+after **giving up** such things as the following :--  
+**residence** in holy places sacred to Bhagavān, the tuft of hair, the sacred thread (yajñopavīta) and the **wearing** of the mark of the sect (puṇḍra).
+</details>
+
+<details><summary>Español</summary>
+
+Si sólo aquellas actividades o dharmas en su svarūpa que **son** probables o **posibles** en ese momento **se les ordena abandonar**,  
+**se deduciría** que prapatti **debería realizarse**  
+después de **renunciar** a cosas como las siguientes:--  
+**residencia** en lugares sagrados sagrados para Bhagavān, el mechón de cabello, el hilo sagrado (yajñopavīta) y el **uso** de la marca de la secta (puṇḍra).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+संभावितमल्लादवऱ्ऱिऩुडैय स्वरूपत्यागम् विधेयमागिल् अप्पोदुण्डाऩ भगवत्क्षेत्रवासशिखायज्ञोपवीतोर्ध्वपुण्ड्रधारणादिगळैत् तविर्न्दुगॊण्डु प्रपत्ति पण्णप् प्रसङ्गिक्कुम्।
+</details>
+
+### उपासनाङ्ग-त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आगैयाल् उपासनत्तिल् वरुम् कर्माद्य्-अङ्गङ्गळाले निरपेक्षैय् आय् इरुक्किऱ प्रपत्तिक्क्  
+अङ्गम् आगव् ऒरु धर्मङ्गळैयुम् पऱ्ऱ वेण्डाव् 
+
+ऎऩ्गैये त्याग-विधि-पक्षत्तुक्क् उचितम्।
+</details>
+
+<details><summary>English</summary>
+
+Therefore the proper **interpretation** of the vidhi (if it **be taken** as vidhi) **enjoining** the **giving up** is this:  
+
+> "Prapatti **does not require**, as an aṅga or accessory,  
+any dharma or **observance** or rite  
+which **is required** as an aṅga (such as karma) to upāsana (meditation) according to vidyās”.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, la **interpretación** adecuada del vidhi (si **se toma** como vidhi) **que ordena** el **abandono** es la siguiente:  
+
+> "Prapatti **no requiere**, como aṅga o accesorio,  
+cualquier dharma u **observancia** o rito  
+lo cual **se requiere** como un aṅga (como el karma) para upāsana (meditación) según vidyās”.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयालुपासनत्तिल् वरुम् कर्माद्यङ्गङ्गळाले निरपेक्षैयायिरुक्किऱ प्रपत्तिक्कङ्गमागवॊरु धर्मङ्गळैयुम् पऱ्ऱवेण्डावॆऩ्गैये त्यागविधिपक्षत्तुक्कुचितम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द त्याग-विधिय् आऩ पक्षन् दऩ्ऩिलुम्  
+उपायान्तर-सामर्थ्यम् इल्लादार्क्कुम्  
+अद् उण्डागिलुम् विलम्बक्षमर् अल्लादार्क्कुम्  
+इप् प्रपत्तियिल् अधिकारम्।
+</details>
+
+<details><summary>English</summary>
+
+Even in this **view**  
+that "parityajya" **indicates** a vidhi or **injunction** to **give up**,  
+the person **competent** for prapatti  
+**is** one who **is** incapable of other upāyas,  
+or one who, though **capable** of other upāyas,  
+**is** too impatient to **endure** the delay in **attaining** the fruit  
+(which the other upāyas **might entail**).  
+
+</details>
+
+<details><summary>Español</summary>
+
+Incluso en esta **vista**  
+que "parityajya" **indica** un vidhi o **orden** de **rendirse**,  
+la persona **competente** para prapatti  
+**es** alguien que **es** incapaz de otros upāyas,  
+o alguien que, aunque **capaz** de otros upāyas,  
+**está** demasiado impaciente para **soportar** el retraso en **alcanzar** el fruto  
+(que los otros upāyas **podrían implicar**).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्द त्यागविधियाऩ पक्षन्दऩ्ऩिलुम् उपायान्तरसामर्थ्यमिल्लादार्क्कुम् अदुण्डागिलुम् विळम्बक्षमरल्लादार्क्कुमिप् प्रपत्तियिलधिकारम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् आऩाल्  
+ऒरु प्रमाणङ्गळुक्कुम् विरोधम् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+If we **take** this **view**,  
+it **will not be against** any of the pramāṇas  
+(viz. those which **enjoin** the rites of the varṇas and āśramas,  
+and those which **enjoin** bhakti yoga and the like). 
+</details>
+
+<details><summary>Español</summary>
+
+Si **tomamos** esta **vista**,  
+**no estará en contra** de ninguno de los pramāṇas.  
+(a saber, aquellos que **ordenan** los ritos de los varṇas y āśramas,  
+y aquellos que **imponen** bhakti yoga y similares).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियाऩा लॊरु प्रमाणङ्गळुक्कुम् विरोधमिल्लै।
+</details>
+
+#### पूर्वाचार्य-चर्चाविषयः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्वाचार्यर्गळुम् इव्व् इडत्तिल् "सर्व-धर्म--स्व-रूप--त्यागम् प्रपत्त्य्-अङ्गम्" ऎऩ्ऱुम्  
+"इप्-पडिय् अऩ्ऱ्" ऎऩ्ऱुम्  
+विवादम् पण्णिऩार्गळ् अऩ्ऱु; 
+</details>
+
+<details><summary>English</summary>
+
+Former ācāryas **did not discuss** the point whether or not the **giving up** of all dharmas in their essential form  
+**is** an aṅga of prapatti.  
+</details>
+
+<details><summary>Español</summary>
+
+Los antiguos ācāryas **no discutieron** el punto de si el **abandono** de todos los dharmas en su forma esencial o no.  
+**es** un aṅga de prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पूर्वाचार्यर्गळुम् इव्विडत्तिल् सर्वधर्मस्वरूपत्यागम् प्रपत्त्यङ्गमॆऩ्ऱुम् इप्पडियऩ्ऱॆऩ्ऱुम् विवादम् पण्णि ऩार्गळऩ्ऱु; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपत्तिक्क् अधिकारम् आऩव् आकिञ्चन्यमुम्  
+प्रपत्तियिऩ्-उडैय नैरपेक्ष्यमुम्  
+इच् चरम-श्लोकत्तिल् ऎन्द पदङ्गळिले विवक्षिक्कैय् उचितम् ऎऩ्ऱु विमर्शित्तार्गळ् अत्-तऩै।
+</details>
+
+<details><summary>English</summary>
+
+Their **discussions were confined** only to the question of  
+which words in the carama śloka respectively **indicated** the qualification **necessary** for prapatti viz.  
+that of **being destitute** of other upāyas  
+and which words (**indicated**) the idea that prapatti **did not require** (any aṅga or accessory).
+</details>
+
+<details><summary>Español</summary>
+
+Sus **discusiones se limitaron** sólo a la cuestión de  
+qué palabras en el carama śloka respectivamente **indicaron** la calificación **necesaria** para prapatti a saber -  
+el de **estar desprovisto** de otros upāyas  
+y qué palabras (**indicaron**) la idea de que prapatti **no requería** (ningún aṅga o accesorio).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तिक्कधिकारमाऩवाकिञ्चन्यमुम् प्रपत्तियिऩुडैय नैरपेक्ष्यमुम् इच् चरमश्लोकत्तिल् ऎन्द पदङ्गळिले विवक्षिक्कैयुचितमॆऩ्ऱु विमर्शित्तार्गळत्तऩै।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अधिकारं +++("परित्यज्य"→)+++ पुरस् कृत्योपायस्य निरपेक्षताम् ।  
+एक-शब्देन **वक्तीति**  
+केचिद्वाक्य-विदो **विदुः** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अधिकारं +++("परित्यज्य"→)+++ पुरस् कृत्योपायस्य निरपेक्षताम् ।  
+एक-शब्देन **वक्तीति**  
+केचिद्वाक्य-विदो **विदुः** ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+Some ācāryas, who **were conversant** with the **requirements** of a sentence,  
+**thought** that the carama śloka **speaks** first (in parityajya) of the person **competent** for prapatti  
+(as one who **is unable** to **adopt** other upāyas)  
+and then **declares** by the word ‘ekam’ (me alone)  
+that prapatti as an upāya **does not require** anything else as aṅga or accessory. 
+</details>
+
+<details><summary>Español</summary>
+
+Algunos ācāryas, que **estaban versados** en los **requisitos** de una frase,  
+**pensé** que el carama śloka **habla** primero (en parityajya) de la persona **competente** para prapatti  
+(como alguien que **es incapaz** de **adoptar** otros upāyas)  
+y luego **declara** con la palabra 'ekam' (yo solo)  
+ese prapatti como upāya **no requiere** nada más como aṅga o accesorio.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अधिकारं पुरस्कृत्योपायस्य निरपेक्षताम् ।  
+एकशब्देन वक्तीति केचिद्वाक्यविदो विदुः ॥  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैरपेक्ष्यं पुरस् **कृत्य** +++(→"… एकं")+++  
++++("शरणं व्रज"→)+++ **विहितस्य** लघीयसः ।  
+उपायस्याधिकारन् तु  
++++("मा शुचः"→)+++ शोक-द्योत्यं **विदुः** परे ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+नैरपेक्ष्यं पुरस् **कृत्य** +++(→"… एकं")+++  
++++("शरणं व्रज"→)+++ **विहितस्य** लघीयसः ।  
+उपायस्याधिकारन् तु  
++++("मा शुचः"→)+++ शोक-द्योत्यं **विदुः** परे ॥  
+</details>
+
+<details><summary>English</summary>
+
+Others **said** that the carama śloka **speaks** first of prapatti **not requiring** anything else as aṅga  
+and then **declares** who the competent person **is** for the easier upāya ([enjoined] in the word "vraja") by the **suggestion contained** in the word śoka or grief (in "mā śuchaH")  
+(for the grief **should be** the grief  
+due to the man's **inability** to **adopt** other upāyas).  
+</details>
+
+<details><summary>Español</summary>
+
+Otros **dijeron** que el carama śloka **habla** primero de prapatti **sin requerir** nada más como aṅga.  
+y luego **declara** quién **es** la persona competente para el upāya más fácil (ordenado en la palabra "vraja")  
+mediante la **sugerencia contenida** en la palabra śoka o dolor (en "mā śuchaH")  
+(porque el dolor **debería ser** el dolor  
+debido a la **incapacidad** del hombre para **adoptar** otros upāyas).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नैरपेक्ष्यं पुरस्कृत्य विहितस्य लघीयसः ।  
+उपायस्याधिकारन्तु शोकद्योत्यं विदुः परे ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+There **was no discussion** among these earlier āchāryas  
+of the point whether prapatti **enjoined** the **giving up** of all dharmas  
+(even such as those **ordained** for the varṇas and the āśramas).  
+</details>
+
+<details><summary>Español</summary>
+
+**No hubo** ninguna discusión entre estos āchāryas anteriores.  
+del punto si prapatti **ordenó** el **abandono** de todos los dharmas  
+(incluso aquellos **ordenados** para los varṇas y los āśramas).
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्थम् अर्थाविशेषे ऽपि  
+योजना-भेद-मात्रतः ।  
+प्राचां **विवादस् संवृत्तो**  
+भाष्य-कारैर् **अ-वारितः** ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् अर्थाविशेषे ऽपि  
+योजना-भेद-मात्रतः ।  
+प्राचां **विवादस् संवृत्तो**  
+भाष्य-कारैर् **अ-वारितः** ॥  
+</details>
+
+
+<details><summary>English</summary>
+
+Thus the discussion **was confined** only to the way in which the words (in the śloka) **should be construed**,  
+though there **was no** difference in the meaning as a whole,  
+and the author of Śrī Bhāṣya **did not stop** the discussion. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, la discusión **se limitó** sólo a la forma en que las palabras (en el śloka) **deben interpretarse**,  
+aunque **no hubo** ninguna diferencia en el significado en su conjunto,  
+y el autor de Śrī Bhāṣya **no detuvo** la discusión.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्थमर्थाविशेषेपि योजनाभेदमात्रतः ।  
+प्राचां विवादस्संवृत्तो भाष्यकारैरवारितः ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-अधिकारं पुरस्कृत्योपायस्य निरपेक्षताम् ।  
-एकशब्देन वक्तीति केचिद्वाक्यविदो विदुः ॥  
-नैरपेक्ष्यं पुरस्कृत्य विहितस्य लघीयसः ।  
-उपायस्याधिकारन्तु शोकद्योत्यं विदुः परे ॥  
-इत्थमर्थाविशेषेपि योजनाभेदमात्रतः ।  
-प्राचां विवादस्संवृत्तो भाष्यकारैरवारितः ॥  
-अज्ज्ञातपूर्ववृत्तान्तैर्यत्तत्रारोपितं परैः ।  
-तत्तु श्रीविष्णुचित्ताद्यैर्निर्मूलमिति दर्शितम् ॥
+अ-ज्ञात-पूर्व-वृत्तान्तैर्  
+यत् **तत्रारोपितं** परैः ।  
+तत् तु श्री-विष्णु-चित्ताद्यैर्  
+निर्मूलम् इति **दर्शितम्** ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-ज्ञात-पूर्व-वृत्तान्तैर्  
+यत् **तत्रारोपितं** परैः ।  
+तत् तु श्री-विष्णु-चित्ताद्यैर्  
+निर्मूलम् इति **दर्शितम्** ॥
+</details>
+
+<details><summary>English</summary>
+
+What **was** (wrongly) **imagined** as having been the subject of **discussion** by other people  
+who **did not know** what had formerly taken place --  
+that **was shown** to be without any foundation by such teachers as Vishṇucitta.
+</details>
+
+<details><summary>Español</summary>
+
+Lo que **fue** (erróneamente) **imaginado** como objeto de **discusión** por parte de otras personas  
+que **no sabía** lo que había sucedido anteriormente,  
+eso **se demostró** que **no tenía** ningún fundamento por parte de maestros como Vishṇucitta.
+</details>
+
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-अधिकारं पुरस्कृत्योपायस्य निरपेक्षताम् ।  
-एकशब्देन वक्तीति केचिद्वाक्यविदो विदुः ॥  
-नैरपेक्ष्यं पुरस्कृत्य विहितस्य लघीयसः ।  
-उपायस्याधिकारन्तु शोकद्योत्यं विदुः परे ॥  
-इत्थमर्थाविशेषेपि योजनाभेदमात्रतः ।  
-प्राचां विवादस्संवृत्तो भाष्यकारैरवारितः ॥  
-अज्ज्ञातपूर्ववृत्तान्तैर्यत्तत्रारोपितं परैः ।  
+अज्ञातपूर्ववृत्तान्तैर्यत्तत्रारोपितं परैः ।  
 तत्तु श्रीविष्णुचित्ताद्यैर्निर्मूलमिति दर्शितम् ॥
 </details>
 
-Soineācāryas, who were conversant with the requirements of a sentence, thought that the carama śloka speaks first (in parityajya) of the person competent for prapatti (as one who is unable to adopt other upāyas) and then declares by the word ‘ekam’ we alone) that prapatti as an upāya does not require anything else as aṅga or accessory. Others said that the carama śloka speaks first of prapatti not requiring anything else as aṅga and then declares who the competent person is for the easier upāya in the word vraja) by the suggestion contained in the word śoka or grief (in mā śuchaH) (for the grief should be the grief due to the man's inability to adopt other upāyas). (There was no discussion among these earlier āchāryas of the point whether prapatti enjoined the giving up of all dharmas (even such as those ordained for the varṇas and the āśramas). Thus the discussion was confined only to the way in which the words (in the śloka) should be construed, though there was no difference in the meaning as a whole, and the author of Śrī Bhāṣya did not stop the discussion. What was (wrongly) imagined as having been the subject of discussion by other people who did not know what had formerly taken place -- that was shown to be without any foundation by such teachers as Vishṇucitta.
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩाल् 
+
+> १८‘‘इदं शरणम् अ-ज्ञानाद्  
+इदम् एव **विजानताम्** ।  
+इदं **तितीर्षतां** पारम्  
+इदम् आनन्त्यम् **इच्छताम्** ॥’’  
+(लक्ष्मीतन्त्रम् १७-१००) 
+
+ऎऩ्ऱुम्
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऩाल् १८‘‘इदं शरणमज्ञानादिदमेव विजानताम् । इदं तितीर्षतां पारमिदमानन्त्यमिच्छताम् ॥’’(लक्ष्मीतन्त्रम् १७-१००) ऎऩ्ऱुम्
+</details>
+
+
+
 
 But it may be asked how the difference between those who are competent and those who are not competent (for prapatti) could be justified in the face of such ślokas as the following: "'This is the upāya for those who do not understand; this is also the upāya for those who know well: this is the upāya for those who want to reach (quickly) the shore beyond saṁsāra and this is the upāya also for those who want (immediately) to render constant service to the Lord", and "Hari is the only upāya to those who do not know of other upāyas, either with their ignorance or with their knowledge of such qualities of the Lord as His being the Lord (of all), and on account of intensity of bhakti ". The answer to this question is as follows:- The ajñānam or ignorance referred to in the word (ajñānāt) in Lakṣmī Tantra and avidyātah in Bhattar's śloka is not the ignorance of such beings as cattle of what is stated in the śāstras. It means only this much, lack of a clear understanding of such forms (of adoration) as upāsanas or ignorance, even in regard to prapatti, of subtle niceties or distinctions in it. The word vijānatām in Lakṣmītantram (to those who know) and ‘deve paribṛḍatayā viditayā’ (with the knowledge of such qualities of the Lord as His being the Lord of all) refer only to the kind of knowledge which enables one to understand such things as upāsanas or the kind of knowledge which enables a man to have a clear understanding of such things as the qualities of the Saviour, which is necessary for prapatti. It does not (certainly) mean a knowledge of all things, in general, for only the knowledge of the Saviour's quality of being the Lord of all is referred to here. Even if a man has this knowledge that is essential (for upāsana), when he is without the ability to adopt that (upāsana), he is one that is destitute of upāyas (akinchan) and has competency for prapatti,
 
