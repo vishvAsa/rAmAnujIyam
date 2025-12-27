@@ -4871,6 +4871,8 @@ y aquellos que **imponen** bhakti yoga y similares).
 इप्पडियाऩा लॊरु प्रमाणङ्गळुक्कुम् विरोधमिल्लै।
 </details>
 
+
+### अधिकार-भ्रमाः
 #### पूर्वाचार्य-चर्चाविषयः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5102,9 +5104,7 @@ eso **se demostró** que **no tenía** ningún fundamento por parte de maestros 
 तत्तु श्रीविष्णुचित्ताद्यैर्निर्मूलमिति दर्शितम् ॥
 </details>
 
-## अधिकारः
-
-### ज्ञतृता
+#### ज्ञतृता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5401,7 +5401,7 @@ cuando **está sin** la **habilidad** de **adoptar** ese (upāsana),
 इव्वुपयुक्तज्ञानमुण्डाऩालुम् उपायान्तरत्तिल् शक्तियिल्लाद पोदु अकिञ्चनऩाय् प्रपत्तिक्कधिकारियाम्।
 </details>
 
-### शक्तिमत्त्वे प्रयासौचित्यम्
+#### शक्तिमत्त्वे प्रयासौचित्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > शक्तिय् उण्डेय् आगिलुम् 
@@ -5517,7 +5517,7 @@ todos los Śāstras que **imponen** la **adopción** de upāyas
 अल्लादबोदु उपायविधायकशास्त्रङ्गळ् निरर्थकङ्गळाम्। 
 </details>
 
-### विलम्बाक्षमता
+#### विलम्बाक्षमता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपायान्तरत्तिल् तऩक्कु ज्ञानम् उण्ड् आय्  
@@ -5664,7 +5664,19 @@ Aquí también el **significado es**
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवैयिरण्डैयुम् निऩैत्तु ‘‘स्वभक्तेर्भूम्ना वा’’ ऎऩ्गिऱार्।
+इवैय् इरण्डैयुम् निऩैत्तु  
+‘‘स्व-भक्तेर् भूम्ना वा’’  
+ऎऩ्गिऱार्।
+</details>
+
+<details><summary>English</summary>
+
+**Having** these two in mind, Bhattar **says**, "by the intensity of their bhakti." 
+</details>
+
+<details><summary>Español</summary>
+
+**Teniendo** a estos dos en mente, Bhattar **dice**, "por la intensidad de su bhakti".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -5673,32 +5685,438 @@ Aquí también el **significado es**
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु भक्तिय् ऎऩ्ऱदु  
+प्रेम-पारवश्यत्तैच् चॊऩ्ऩ बडि अल्लदु  भक्ति-योगत्तैच् चॊऩ्ऩ बडिय् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+Here bhakti **does not signify** bhakti yoga,  
+but 'intensity of the love (of the Lord)'. 
+</details>
+
+<details><summary>Español</summary>
+
+Aquí bhakti **no significa** bhakti yoga,  
+sino 'intensidad del amor (del Señor)'.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु भक्तियॆऩ्ऱदु प्रेमपारवश्यत्तैच् चॊऩ्ऩबडि अल्लदु भक्तियोगत्तैच् चॊऩ्ऩबडियऩ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इब् भक्तियिऩ्-उडैय भूमाव् आगिऱदु  
+कडुग प्राप्ति किडैयाद बोद्  
+अऴियुम्+++(=नाश)+++ बडिय् आऩव् अवस्था-विशेषम्।
+</details>
+
+<details><summary>English</summary>
+
+Intensity of bhakti  or love **means** a state of mind  
+in which the man **would cease to exist**  
+if he **could not have** quick **attainment**. 
+</details>
+
+<details><summary>Español</summary>
+
+La intensidad del bhakti o amor **significa** un estado mental  
+en el que el hombre **dejaría de existir**  
+si él **no pudiera tener** un **logro** rápido.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-Having these two in mind, Bhattar says, "by the intensity of their bhakti." Here bhakti  does not signify bhakti  yoga, but 'intensity of the love (of the Lord)'. Intensity of bhakti  or love means a state of mind in which the man would cease to exist if he could not have quick attainment. Though this is not the bhakti  yoga enjoined for some adhikārīs, yet some get that state of mind by the grace of Bhagavān due to righteous acts (in previous births). The man who has this state of mind is also competent for prapatti.
+इब्भक्तियिऩुडैय भूमावागिऱदु कडुग प्राप्ति किडैयादबोदऴियुम्बडि याऩववस्थाविशेषम्।
+</details>
 
-Therefore prapatti may be adopted by (1) those who do not know of other upāyas and who have a knowledge of what prapatti is in general (without a knowledge of details and distinctions); (2) those who have a clear understanding of prapatti and the other upāya (upāsana) but lack the ability to adopt the latter; (3) those who, though they have both the knowledge and the ability, cannot brook delay (in the attainment of the end) and cannot exist without it. This man who cannot brook delay is also destitute of upāyas for attaining the end in his view at the time when he wants it (so he, too, is competent for prapatti). It is in consideration of this circumstance that (Bhattar) wrote:- " who know of no other upāya in the world".
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Vyasa and others who held administrative offices (under the Lord) could brook delay and were also capable of the other upāya (i.e.) upāsana. Therefore it is that they adopted upāsana and not because they were wanting in knowledge or in faith. (Those who hold administrative offices must serve their full period before thinking of attainment.)
+इदु सिलर्क्कुक् कट्टळैप् पट्ट भक्ति-योगम् इल्लैय् आगिलुम्  
+सु-कृत-विशेष-मूलम् आऩ भगवत्-प्रसादत्ताले वरुम्।
+</details>
+
+<details><summary>English</summary>
+
+Though this **is not** the bhakti yoga enjoined for some adhikārīs,  
+yet some **get** that state of mind  
+by the grace of Bhagavān due to righteous acts (in previous births). 
+</details>
+
+<details><summary>Español</summary>
+
+Aunque este **no es** el bhakti yoga **recomendado** para algunos adhikārīs,  
+Sin embargo, algunos **tienen** ese estado mental  
+por la gracia de Bhagavān debido a actos rectos (en nacimientos anteriores).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु सिलर्क्कुक् कट्टळैप्पट्ट भक्तियोगमिल्लै यागिलुम् सुकृतविशेषमूलमाऩ भगवत्प्रसादत्ताले वरुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अवस्थैयुडैय् अवऩुम् प्रपत्तिक्क् अधिकारि। 
+</details>
+
+<details><summary>English</summary>
+
+The man who has this state of mind is also competent for prapatti.
+</details>
+
+<details><summary>Español</summary>
+
+El hombre que **tiene** este estado mental también **es** competente para prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्ववस्थैयुडै यवऩुम् प्रपत्तिक्कधिकारि। 
+</details>
+
+
+#### अधिकारि-सङ्ग्रहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् आगैयाल्  
+उपायान्तरत्तिल् अ-ज्ञर् आय्  
+इव्व् उपायत्तिल् समुदाय-ज्ञान-मात्रम् उडैयर् आय् इरुप्पार्क्कुम् 
+</details>
+<details><summary>English</summary>
+
+Therefore 
+
+(1) those who **do not know** of other upāyas  
+and who **have** a **knowledge** of what prapatti **is** in general  
+(without a **knowledge** of details and distinctions); 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto 
+
+(1) aquellos que **no conocen** otros upāyas  
+y que **tienen** un **conocimiento** de lo que **es** prapatti en general  
+(sin **conocimiento** de detalles y distinciones);
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडियागैयाल् उपायान्तरत्तिलज्ञराय् इव्वुपायत्तिल् समुदायज्ञानमात्रम् उडैयरायिरुप्पार्क्कुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिलुम् उपायान्तरत्तिलुन् तॆळिव् उण्डाऩालुम्  
+उपायान्तरत्तिल् अनुष्ठान-शक्तिय् इल्लादार्क्कुम्
+</details>
+
+<details><summary>English</summary>
+
+(2) those who **have** a clear **understanding** of prapatti and the other upāya (upāsana)  
+but **lack** the ability to **adopt** the latter; 
+</details>
+
+<details><summary>Español</summary>
+
+(2) aquellos que **tienen** una **comprensión** clara de prapatti y los otros upāya (upāsana)  
+pero **carecen** de la capacidad de **adoptar** este último;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिलुमुपायान्तरत्तिलुन् तॆळिवुण्डाऩालुमुपायान्तरत्तिलनुष्ठानशक्तियिल्लादार्क्कुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् इरण्डुम् उण्ड् आऩालुम्  
+विळम्बम् बॊऱादव् आर्त्य्-अतिशयम् उडैयार्क्कुम्
+</details>
+
+<details><summary>English</summary>
+
+(3) those who, though they **have both** the knowledge and the ability,  
+**cannot brook** delay (in the **attainment** of the end) and **cannot exist** without it. 
+</details>
+
+<details><summary>Español</summary>
+
+(3) aquellos que, aunque **tienen** el **conocimiento** y la capacidad,  
+**no puedo tolerar** la demora (en el **logro** del fin) y **no puedo existir** sin ella.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवै यिरण्डुमुण्डाऩालुम् विळम्बम्बॊऱादवार्त्यतिशयमुडैयार्क्कुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपत्तियिलेय् इऴियल् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+prapatti **may be adopted** by (the above)
+</details>
+
+<details><summary>Español</summary>
+
+prapatti **puede ser adoptado** por (los anteriores)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तियिलेयिऴियलाम्। 
+</details>
+
+#### विलम्बाक्षम-कार्पण्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव् विळम्बाक्षमऩुम्  
+ताऩ् निऩैत्त कालत्तिले फलम् पॆऱुगैक्क् उपायान्तर-रहितऩ्। 
+</details>
+
+<details><summary>English</summary>
+
+This man who **cannot brook** delay **is** also destitute of upāyas  
+for **attaining** the end in his **view**  
+at the time when he **wants** it  
+(so he, too, **is competent** for prapatti). 
+</details>
+
+<details><summary>Español</summary>
+
+Este hombre que **no puede tolerar** la demora también **carece** de upāyas  
+por **alcanzar** el fin en su **vista**  
+en el momento en que él lo **quiera**  
+(Entonces él también **es competente** para prapatti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव् विळम्बाक्षमऩुम् ताऩ् निऩैत्तगालत्तिले फलम् पॆऱुगैक्कुपायान्तररहितऩ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-प्रकारत्तै निऩैत्तु  
+
+> ‘‘जगति गतिम् अन्याम् अविदुषां’’ 
+
+ऎऩ्गिऱदु।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘जगति गतिम् अन्याम् अविदुषां’’ 
+</details>
+
+<details><summary>English</summary>
+
+It **is** in **consideration** of this circumstance that (Bhattar) **wrote**:-  
+
+> " who **know** of no other upāya in the world".
+
+</details>
+
+<details><summary>Español</summary>
+
+**Es** en **consideración** de esta circunstancia que (Bhattar) **escribió**:-  
+
+> "que **no conocen** ningún otro upāya en el mundo".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्प्रकारत्तै निऩैत्तु ‘‘जगति गतिमन्यामविदुषां’’ ऎऩ्गिऱदु।
+</details>
+
+#### व्यासादयो न मन्दाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्यासादिगळ् अधिकारि-पुरुषर्गळ् आगैयाले  
+विळम्ब-क्षमरुम् आय्  
+उपायान्तर-शक्तरुम् आय् इरुप्पार्गळ्। 
+</details>
+
+<details><summary>English</summary>
+
+Vyasa and others who **held** administrative offices (under the Lord)  
+**could brook** delay  
+and **were** also **capable** of the other upāya (i.e.) upāsana. 
+</details>
+
+<details><summary>Español</summary>
+
+Vyasa y otros que **ocuparon** cargos administrativos (bajo el Señor)  
+**podría tolerar** retraso  
+y **eran** también **capaces** de realizar el otro upāya (es decir,) upāsana.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+व्यासादिगळ् अधिकारिपुरुषर्गळागैयाले विळम्बक्षमरुमाय् उपायान्तरशक्तरुमायिरुप्पार्गळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् उपासनत्तिल् इऴिन्दार्गळ् अल्लदु  
+ज्ञान-मान्द्यम्, आदल् विश्वास-मान्द्यम् आदल् उण्ड् आय् इऴिन्दार्गळ् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore it **is** that they **adopted** upāsana  
+and not because they **were wanting** in knowledge or in faith. 
+
+(Those who **hold** administrative offices  
+**must serve** their full period  
+before thinking of **attainment**.)
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, **es** que ellos **adoptaron** upāsana.  
+y no porque **falten** en **conocimiento** o en fe. 
+
+(Quienes **ocupen** cargos administrativos  
+**deben cumplir** su período completo  
+antes de **pensar** en **logro**.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयालुपासनत्तिलिऴिन्दार्गळ् अल्लदु ज्ञानमान्द्यमादल् विश्वासमान्द्यमादलुण्डायिऴिन्दार्गळऩ्ऱु। 
+</details>
+
+#### प्रपत्ति-त्याग-कुहेतवः
+<details><summary>English</summary>
+
+(If **it be asked**,  
+"Why **is it said** ( in some places)  
+that a man **adopts** upāsana  
+**owing** to weakness of intelligence?"  
+the **answer is** as **follows**):-
+
+
+</details>
+
+<details><summary>Español</summary>
+
+(Si **se pregunta**,  
+"¿Por qué **se dice** (en algunos lugares)  
+que un hombre **adopta** upāsana  
+**debido** a la debilidad de la inteligencia?"  
+la **respuesta es** la siguiente**):-
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-शक्तस्यातिकृच्छ्रेषु +++(ब्रह्म-विद्यासु)+++  
++++(ताभिर् एव मोक्षे)+++ दुर्-आशा-दार्ढ्य-शालिनः ।  
+कस्यचिद् बुद्धि-दौर्बल्यं  
+लघु+++(-उपायस्य)+++-त्यागस्य कारणम् ॥  
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अ-शक्तस्यातिकृच्छ्रेषु +++(ब्रह्म-विद्यासु)+++  
++++(ताभिर् एव मोक्षे)+++ दुर्-आशा-दार्ढ्य-शालिनः ।  
+कस्यचिद् बुद्धि-दौर्बल्यं  
+लघु+++(-उपायस्य)+++-त्यागस्य कारणम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+> " When a man **is** incapable of an upāya  
+which **is** extremely difficult of **adoption**  
+and yet **adopts** it because of an obstinate **desire**,  
+the **ignoring** of the easy upāya  
+**should be considered** as being due to weakness of intellect.” 
+</details>
+
+<details><summary>Español</summary>
+
+> "Cuando un hombre **es** incapaz de un upāya  
+que **es** extremadamente difícil de **adoptar**  
+y sin embargo **lo adopta** por un obstinado **deseo**,  
+el **ignorar** del upāya fácil  
+**debe considerarse** como debido a una debilidad del intelecto”.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अशक्तस्यातिकृच्छ्रेषु दुराशादार्ढ्यशालिनः ।  
+कस्यचिद्बुद्धिदौर्बल्यं लघुत्यागस्य कारणम् ॥  
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-अशक्तस्यातिकृच्छ्रेषु दुराशादार्ढ्यशालिनः ।  
-कस्यचिद्बुद्धिदौर्बल्यं लघुत्यागस्य कारणम् ॥  
-तत्र प्रपत्त्यनर्हाणामन्यदित्यपि युज्यते ।  
-व्यासादिषु तु नैवैषा नीतिस्संशयघातिषु ॥
+तत्र +++(ज्ञान-विश्वास-मान्द्यादिभिः)+++ प्रपत्त्य्-अनर्हाणाम्  
+अन्यद् इत्य् अपि युज्यते ।  
+व्यासादिषु तु नैवैषा  
+नीतिस् संशय-घातिषु ॥
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+तत्र +++(ज्ञान-विश्वास-मान्द्यादिभिः)+++ प्रपत्त्य्-अनर्हाणाम्  
+अन्यद् इत्य् अपि युज्यते ।  
+व्यासादिषु तु नैवैषा  
+नीतिस् संशय-घातिषु ॥
+</details>
+
+<details><summary>English</summary>
+
+Or it **is** proper also to **explain** their **adoption** of the difficult upāya  
+as due to their unfitness for prapatti  
+(owing to their **lack** of faith in it and the like.)  
+This **is not** the **explanation** in the case of Vyasa and others (**adopting** upāsana),  
+for they **remove** all the doubts of others  
+(and cannot **be considered** as **wanting** in **knowledge** or faith).
+</details>
+
+<details><summary>Español</summary>
+
+O **es** apropiado también **explicar** su **adopción** del difícil upāya.  
+como debido a su incapacidad para prapatti  
+(debido a su **falta** de fe en él y cosas por el estilo).  
+Esta **no es** la **explicación** en el caso de Vyasa y otros (**adoptando** upāsana),  
+porque **quitan** todas las dudas de los demás  
+(y no puede **ser considerado** como **falto** de **conocimiento** o fe).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-अशक्तस्यातिकृच्छ्रेषु दुराशादार्ढ्यशालिनः ।  
-कस्यचिद्बुद्धिदौर्बल्यं लघुत्यागस्य कारणम् ॥  
 तत्र प्रपत्त्यनर्हाणामन्यदित्यपि युज्यते ।  
 व्यासादिषु तु नैवैषा नीतिस्संशयघातिषु ॥
 </details>
 
-(If it be asked, "Why is it said ( in some places) that a man adopts upāsana owing to weakness of intelligence?" the answer is as follows):-" When a man is incapable of an upāya which is extremely difficult of adoption and yet adopts it because of an obstinate desire, the ignoring of the easy upāya should be considered as being due to weakness of intellect.” Or it is proper also to explain their adoption of the difficult upāya as due to their unfitness for prapatti (owing to their lack of faith in it and the like.) This is not the explanation in the case of Vyasa and others (adopting upāsana), for they remove all the doubts of others (and cannot be considered as wanting in knowledge or faith).
+
+
+
 
 Since in this manner the competency of a man either for upāsana or for prapatti is determined, both the śāstras (those of upāsana and those of prapatti) have their own respective purpose.
 
