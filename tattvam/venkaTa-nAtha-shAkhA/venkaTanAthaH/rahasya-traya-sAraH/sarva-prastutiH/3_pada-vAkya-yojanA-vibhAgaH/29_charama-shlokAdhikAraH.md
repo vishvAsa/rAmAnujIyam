@@ -5102,7 +5102,9 @@ eso **se demostró** que **no tenía** ningún fundamento por parte de maestros 
 तत्तु श्रीविष्णुचित्ताद्यैर्निर्मूलमिति दर्शितम् ॥
 </details>
 
-## अधिकारे ज्ञता
+## अधिकारः
+
+### ज्ञतृता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5399,13 +5401,280 @@ cuando **está sin** la **habilidad** de **adoptar** ese (upāsana),
 इव्वुपयुक्तज्ञानमुण्डाऩालुम् उपायान्तरत्तिल् शक्तियिल्लाद पोदु अकिञ्चनऩाय् प्रपत्तिक्कधिकारियाम्।
 </details>
 
+### शक्तिमत्त्वे प्रयासौचित्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> शक्तिय् उण्डेय् आगिलुम् 
+> 
+> > ‘‘शरैस्तु **सङ्कुलां कृत्वा**  
+लङ्कां पर-बलार्दनः ।  
+मां **नयेद्** यदि काकुत्स्थस्  
+तत् तस्य सदृशं भवेत् ॥“  
+(रामायणम् सुन्दरकाण्डम् ३९-३०) 
+> 
+> ऎऩ्गिऱप् पडिये  
+रक्षकऩ् कै पार्त्तुत् ताऩ् कैवाङ्गियिरुक्कैयऩ्ऱो उचितम् 
+
+ऎऩ्ऩिल्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> ‘‘शरैस् तु **सङ्कुलां कृत्वा**  
+लङ्कां पर-बलार्दनः ।  
+मां **नयेद्** यदि काकुत्स्थस्  
+तत् तस्य स-दृशं भवेत् ॥“  
+(रामायणम् सुन्दरकाण्डम् ३९-३०) 
+
+</details>
+
+<details><summary>English</summary>
+
+Here another objection might be raised, viz.,
+
+> " Even if a man **has** ( the **knowledge** and) the ability,  
+as Sītā **says**:- 
+>
+> > "If Śrī Rāma, who **can destroy** the hosts of his enemies,  
+**discharges** his arrows on Lanka  
+and **takes me** away from here,  
+it **will be** the appropriate thing for him". 
+>
+> he **should remain** without any endeavour on his own part,  
+**knowing** as he does, the Saviour's nature,  
+
+The **answer** to this **is** that 
+</details>
+
+<details><summary>Español</summary>
+
+Aquí **podría plantearse** otra **objeción**, a **saber**,
+
+> " Incluso si un hombre **tiene** (el **conocimiento** y) la habilidad,  
+como Sītā **dice**:- 
+>
+> > "Si Śrī Rāma, que **puede destruir** las huestes de sus enemigos,  
+**dispara** sus flechas sobre Lanka  
+y **me lleva** lejos de aquí,  
+**será** lo apropiado para él". 
+>
+> él **debe permanecer** sin ningún esfuerzo por su parte,  
+**conociendo** como él la naturaleza del Salvador,  
+
+La **respuesta** a esto **es** que
+</details>
+
+<details><summary>मूलम्</summary>
+
+शक्तियुण्डेयागिलुम् ‘‘शरैस्तु सङ्कुलां कृत्वा लङ्कां परबलार्दनः । मां नयेद्यदि काकुत्स्थस्तत्तस्य सदृशं भवेत् ॥“(रामायणम् सुन्दरकाण्डम् ३९-३०) ऎऩ्गिऱप्पडिये  रक्षकऩ् कै पार्त्तुत् ताऩ् कैवाङ्गियिरुक्कैयऩ्ऱो उचितमॆऩ्ऩिल्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु प्रपन्नऩ्-उडैय उत्तर-कृत्य-विशेषत्तिऱ्क् उदाहरणम् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+(Sītā's attitude ) **would be** an **example** of the prapanna's later life  
+(not of what he **should do** or **should not do** before prapatti). 
+</details>
+
+<details><summary>Español</summary>
+
+(La actitud de Sītā) **sería** un **ejemplo** de la vida posterior del prapanna.  
+(no de lo que **debería hacer** o **no debería hacer** antes de prapatti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु प्रपन्नऩुडैय उत्तरकृत्यविशेषत्तिऱ्कुदाहरणमाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लाद बोदु उपाय-विधायक-शास्त्रङ्गळ् निरर्थकङ्गळ् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+If this **is not admitted**,  
+all Śāstras which **enjoin** the **adoption** of upāyas  
+**would be meaningless**.
+</details>
+
+<details><summary>Español</summary>
+
+Si esto **no se admite**,  
+todos los Śāstras que **imponen** la **adopción** de upāyas  
+**no tendría sentido**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अल्लादबोदु उपायविधायकशास्त्रङ्गळ् निरर्थकङ्गळाम्। 
+</details>
+
+### विलम्बाक्षमता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपायान्तरत्तिल् तऩक्कु ज्ञानम् उण्ड् आय्  
+अदिल् अनुष्ठान-शक्तिय् उण्ड् आऩालुम्  
+विलम्ब-क्षमऩ् अऩ्ऱिक्केय् इरुक्कुम् आगिल्  
+
+> कडुग फलन् तर वल्ल प्रपत्तिये  
+नमक्क् उचितैय्  
+
+ऎऩ्ऱ् इरुक्कुम् अवऩुम्  
+इप् प्रपत्तिक्क् अधिकारिय् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+Even when a man **has** both the **knowledge** of the other upāya (viz. upāsana)  
+and the ability to **adopt** it,  
+if he **is** too impatient to **brook** delay in the **attainment** (of the end),  
+he **may be competent** for **performing** prapatti,  
+if he **thinks** that only prapatti **would secure** his object (viz., the quick attainment). 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso cuando un hombre **tiene** tanto el **conocimiento** del otro upāya (a saber, upāsana)  
+y la capacidad de **adoptar**,  
+si **está** demasiado impaciente para **permitir** un retraso en el **alcance** (del fin),  
+él **puede ser competente** para **realizar** prapatti,  
+si **piensa** que sólo prapatti **aseguraría** su objetivo (es decir, el **logro** rápido).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायान्तरत्तिल् तऩक्कु ज्ञानमुण्डाय् अदिलनुष्ठानशक्ति युण्डाऩालुम् विळम्बक्षमऩऩ्ऱिक्केयिरुक्कुमागिल् कडुगफलन्दरवल्ल प्रपत्तिये नमक्कुचितैयॆऩ्ऱिरुक्कुमवऩुमिप् प्रपत्तिक्कधिकारियाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्तै ‘‘इदं तितीर्षतां पारम्’’ इत्य्-आदिगळिले सॊल्लुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+This (that even the man who **has** the **knowledge** and ability to **adopt** upāsana **may adopt** prapatti  
+if he **cannot brook** delay)  
+**is disclosed** in the words: 
+
+> " This **is** the upāya for those who **want to cross** the sea of saṁsāra";  
+</details>
+
+<details><summary>Español</summary>
+
+Esto (que incluso el hombre que **tiene** el **conocimiento** y la capacidad de **adoptar** upāsana **puede adoptar** prapatti  
+si él **no puede tolerar** la demora)  
+**se revela** en las palabras: 
+
+> "Este **es** el upāya para aquellos que **quieren cruzar** el mar de saṁsāra";
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्तै ‘‘इदन्तितीर्षतां पारम्’’ इत्यादिगळिले सॊल्लुगिऱदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+"तितीर्षतां पारं" ऎऩ्ऱदु  
+
+>> कडुग अनिष्ट-निवृत्ति पिऱक्क वेणुम् 
+>
+> ऎऩ्ऩुम् त्वरैय्-उडैयार्क्क् 
+
+ऎऩ्ऱ बडि।
+</details>
+
+<details><summary>English</summary>
+
+for "those who **want to cross**", here, **means**  
+
+> "Those who **want to reach** the shore beyond saṁsāra quickly" 
+
+(i.e.) those that **desire** a quick **removal** of the **hindrances** that **stand** in their way. 
+</details>
+
+<details><summary>Español</summary>
+
+porque "los que **quieren cruzar**", aquí, **significa**  
+
+> "Aquellos que **quieren llegar** rápidamente a la orilla más allá del saṁsāra" 
+
+(es decir) aquellos que **desean** una rápida **eliminación** de los **obstáculos** que **se interponen** en su camino.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; तितीर्षतां पारं’’ ऎऩ्ऱदु कडुग अनिष्टनिवृत्तिपिऱक्कवेणुमॆऩ्ऩुम् त्वरैयुडैयार्क्कॆऩ्ऱबडि।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘आनन्त्यम् इच्छतां’’ ऎऩ्ऱदु  
+
+> स्वरूप-प्राप्त-- परिपूर्ण-भगवद्-अनुभवत्तैप् पॆऱ्ऱ् अल्लदु  
++++(जीवं)+++ धरिक्क माट्टादार्क्क् 
+
+ऎऩ्ऱ बडि।
+</details>
+
+<details><summary>English</summary>
+
+> “This **is** the upāya for those who **desire** ānantyam"  
+(the perfect **enjoyment** of the **service** of Brahman  
+which **is** one's due on account of one's essential nature.)  
+
+Here also the **meaning is** 
+
+> 'those who **desire** to **have** it quickly'  
+(i.e. those who **cannot brook existence** without that enjoyment.)
+</details>
+
+<details><summary>Español</summary>
+
+> “Este **es** el upāya para aquellos que **desean** ānantyam"  
+(el perfecto **disfrute** del **servicio** de Brahman  
+que **es** debido a la propia naturaleza esencial.)  
+
+Aquí también el **significado es** 
+
+> 'aquellos que **desean tener** rápidamente'  
+(es decir, aquellos que **no pueden soportar la existencia** sin ese disfrute).
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+‘‘आनन्त्यमिच्छतां’’ ऎऩ्ऱदु स्वरूपप्राप्तपरिपूर्ण भगवदनुभवत्तैप्पॆऱ्ऱल्लदु धरिक्कमाट्टादार्क्कॆऩ्ऱबडि।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैयिरण्डैयुम् निऩैत्तु ‘‘स्वभक्तेर्भूम्ना वा’’ ऎऩ्गिऱार्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवैयिरण्डैयुम् निऩैत्तु ‘‘स्वभक्तेर्भूम्ना वा’’ ऎऩ्गिऱार्।
+</details>
 
 
 
 
-Here another objection might be raised, viz.," Even if a man has ( the knowledge and) the ability, he should remain without any endeavour on his own part, knowing as he does, the Saviour's nature, for does not Sītā say:- "If Śrī Rāma', who can destroy the hosts of his enemies, discharges his arrows on Lanka and takes me away from here, it will be the appropriate thing for him?". The answer to this is that (Sītā's attitude ) would be an example of the prapanna's later life (not of what he should do or should not do before prapatti). If this is not admitted, all Śāstras which enjoin the adoption of upāyas would be meaningless.
-
-Even when a man has both the knowledge of the other upāya (viz. upāsana) and the ability to adopt it, if he is too impatient to brook delay in the attainment (of the end), he may be competent for performing prapatti, if he thinks that only prapatti would secure his object reco, (the quick attainment). This (that even the man who has the knowledge and ability to adopt upāsana may adopt prapatti if he cannot lirook delay) is disclosed in the words: " This is the upāya for those who want to cross the sea of saṁsāra"; "for those who want to crosś, here, means "Those who want to reach the shore beyond saṁsāra quickly (i.e.) those that desire a quick removal of the hindrances that stand in their way. “This is the upāya for those who desire ānantyam" (the perfect enjoyment of the service of Brahman) which is one's due on account of one's essential nature. Here also the meaning is 'those who desire to have it quickly' (i.e. those who cannot brook existence without that enjoyment.)
 
 Having these two in mind, Bhattar says, "by the intensity of their bhakti." Here bhakti  does not signify bhakti  yoga, but 'intensity of the love (of the Lord)'. Intensity of bhakti  or love means a state of mind in which the man would cease to exist if he could not have quick attainment. Though this is not the bhakti  yoga enjoined for some adhikārīs, yet some get that state of mind by the grace of Bhagavān due to righteous acts (in previous births). The man who has this state of mind is also competent for prapatti.
 
