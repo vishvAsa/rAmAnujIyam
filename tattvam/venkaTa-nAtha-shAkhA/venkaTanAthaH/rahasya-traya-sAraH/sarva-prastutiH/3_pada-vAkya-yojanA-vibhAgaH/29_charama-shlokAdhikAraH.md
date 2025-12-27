@@ -5102,30 +5102,306 @@ eso **se demostró** que **no tenía** ningún fundamento por parte de maestros 
 तत्तु श्रीविष्णुचित्ताद्यैर्निर्मूलमिति दर्शितम् ॥
 </details>
 
-
+## अधिकारे ज्ञता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आऩाल् 
-
-> १८‘‘इदं शरणम् अ-ज्ञानाद्  
+> आऩाल् 
+> 
+> > १८‘‘इदं +++(←प्रपदनम्)+++ शरणम् अ-ज्ञानाम्,  
 इदम् एव **विजानताम्** ।  
 इदं **तितीर्षतां** पारम्  
-इदम् आनन्त्यम् **इच्छताम्** ॥’’  
+इदम् +++(कैङ्कर्यस्य)+++ आनन्त्यम् **इच्छताम्** ॥’’  
+(लक्ष्मीतन्त्रम् १७-१००) 
+> 
+> ऎऩ्ऱुम्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > १८‘‘इदं +++(←प्रपदनम्)+++ शरणम् अ-ज्ञानाम्,  
+इदम् एव **विजानताम्** ।  
+इदं **तितीर्षतां** पारम्  
+इदम् +++(कैङ्कर्यस्य)+++ आनन्त्यम् **इच्छताम्** ॥’’  
 (लक्ष्मीतन्त्रम् १७-१००) 
 
-ऎऩ्ऱुम्
+</details>
+
+<details><summary>English</summary>
+
+> But,  
+
+> > "'This **is** the upāya for those  
+who **do not understand**;  
+this **is** also the upāya for those  
+who **know** well:  
+this **is** the upāya for those  
+who **want** to **reach** (quickly) the shore beyond saṁsāra  
+and this **is** the upāya also for those  
+who **want** (immediately) to **render** constant **service** to the Lord", 
+
+</details>
+
+<details><summary>Español</summary>
+
+> Pero,  
+
+> > "'Este **es** el upāya para aquellos  
+que **no entienden**;  
+Este **es** también el upāya para aquellos  
+quien **sabe** bien:  
+Este **es** el upāya para aquellos  
+que **quieren alcanzar** (rápidamente) la orilla más allá del saṁsāra  
+y este **es** el upāya también para aquellos  
+que **quieren** (inmediatamente) **rendir** constante **servicio** al Señor",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩाल् १८‘‘इदं शरणमज्ञानामिदमेव विजानताम् । इदं तितीर्षतां पारमिदमानन्त्यमिच्छताम् ॥’’(लक्ष्मीतन्त्रम् १७-१००) ऎऩ्ऱुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > १९‘‘अविद्यातो, देवे परिवृढतया+++(=स्वामितया)+++ वा विदितया,  
+स्व-भक्तेर् भूम्ना वा, जगति गतिम् अन्याम् **अविदुषाम्**’’  
++++(हरिर् एवोपायः)+++  
+(भट्टर्-मुक्तकम्) 
+> 
+> ऎऩ्ऱुञ्
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> > १९‘‘अविद्यातो, देवे परिवृढतया+++(=स्वामितया)+++ वा विदितया,  
+स्व-भक्तेर् भूम्ना वा, जगति गतिम् अन्याम् **अविदुषाम्**’’  
++++(हरिर् एवोपायः)+++  
+(भट्टर्-मुक्तकम्) 
+
+</details>
+
+
+<details><summary>English</summary>
+
+> and 
+> 
+> > "Hari **is** the only upāya  
+to those who **do not know** of other upāyas,  
+either with their ignorance  
+or with their **knowledge** of such qualities of the Lord  
+as His **being** the Lord (of all),  
+and on account of intensity of bhakti ". 
+</details>
+
+<details><summary>Español</summary>
+
+y 
+
+> "Hari **es** el único upāya  
+a aquellos que **no saben** de otros upāyas,  
+ya sea con su ignorancia  
+o con su **conocimiento** de tales cualidades del Señor  
+como Su **ser** el Señor (de todos),  
+y debido a la intensidad del bhakti ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१९‘‘अविद्यातो देवे परिबृढतया वा विदितया स्वभक्तेर्भूम्ना वा जगति गतिमन्यामविदुषाम्’’(भट्टर्-मुक्तकम्) ऎऩ्ऱुञ्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> जॊल्लुगिऱव् अधिकारि-भेदम् इरुक्कुम् बडिय् ऎऩ्ऩ् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+\- it **may be asked** 
+
+> how the difference between  
+those who **are** competent  
+and those who **are not** competent (for prapatti)  
+**could be justified** in the face of such ślokas as the above, 
+
+
+The **answer** to this question **is** as **follows**:- 
+</details>
+
+<details><summary>Español</summary>
+
+\- **se puede preguntar** 
+
+> cómo la diferencia entre  
+aquellos que **son** competentes  
+y aquellos que **no son** competentes (para prapatti)  
+**podría estar justificado** frente a ślokas como los anteriores, 
+
+La **respuesta** a esta **pregunta es** la **siguiente**:-
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जॊल्लुगिऱवधिकारि भेदमिरुक्कुम्बडियॆऩ्ऩॆऩ्ऩिल्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-इडत्तिऱ् सॊऩ्ऩव् अ-ज्ञानं  
+पश्व्-आदिगळैप् पोले  
+शास्त्रीयम् ऒऩ्ऱुम् अऱियाय् ऒऴिगैय् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+The ajñānam or ignorance **referred to** in the word (ajñānāt) in Lakṣmī Tantra and avidyātah in Bhattar's śloka  
+**is not** the **ignorance** of such beings as cattle  
+of what **is stated** in the śāstras. 
+</details>
+
+<details><summary>Español</summary>
+
+El ajñānam o ignorancia **a la que se hace referencia** en la palabra (ajñānāt) en Lakṣmī Tantra y avidyātah en el śloka de Bhattar.  
+**no es** la **ignorancia** de seres como el ganado  
+de lo que **se afirma** en los śāstras.
 </details>
 
 <details><summary>मूलम्</summary>
 
-आऩाल् १८‘‘इदं शरणमज्ञानादिदमेव विजानताम् । इदं तितीर्षतां पारमिदमानन्त्यमिच्छताम् ॥’’(लक्ष्मीतन्त्रम् १७-१००) ऎऩ्ऱुम्
+इव्विडत्तिऱ्सॊऩ्ऩवज्ञानं पश्वादिगळैप्पोले शास्त्रीयमॊऩ्ऱु मऱियायॊऴिगैयऩ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"मऱ्ऱ् ऎद्" ऎऩ्ऩिल्;  
+उपासनादिगळिल् तॆळिव् इल्लामैय् आदल्  
+प्रपत्ति-तऩ्ऩिलुम् सूक्ष्म-विशेषङ्गळ् अऱियामैय् आदल् आम्  
+अत्-तऩै। 
+</details>
+
+<details><summary>English</summary>
+
+It **means** only this much,  
+**lack** of a clear **understanding** of such forms (of **adoration**) as upāsanas  
+or **ignorance**, even in regard to prapatti,  
+of subtle niceties or **distinctions** in it. 
+</details>
+
+<details><summary>Español</summary>
+
+**Significa** sólo esto,  
+**falta** de una **comprensión** clara de formas (de **adoración**) como upāsanas  
+o **ignorancia**, incluso con respecto a prapatti,  
+de sutilezas sutiles o **distinciones** en él.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मऱ्ऱॆदॆऩ्ऩिल्; उपासनादिगळिल् तॆळिविल्लामैयादल् प्रपत्ति तऩ्ऩिलुम् सूक्ष्मविशेषङ्गळऱियामैयादलामत्तऩै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱिल् ‘‘विजानतां’’ ऎऩ्ऱुम्,  
+‘‘देवे परिबृढतया वा विधितया’’ ऎऩ्ऱुञ्  
+जॊऩ्ऩ ज्ञान-विशेषमुम्  
+उपासनादिगळिल् तॆळिव् आदल्  
+प्रपत्तिक्क् उपयुक्तम् आऩ शरण्य-गुणादि विषयत्तिल् तॆळिव् आदल् आम् इत्-तऩै। 
+</details>
+
+<details><summary>English</summary>
+
+The word "vijānatām" in Lakṣmītantram (to those who **know**)  
+and ‘deve paribṛḍatayā viditayā’ (with the **knowledge** of such qualities of the Lord as His **being** the Lord of all)  
+**refer** only to the kind of **knowledge**  
+which **enables** one to **understand**  
+such things as upāsanas or the kind of **knowledge**  
+which **enables** a man to **have** a clear **understanding** of such things as the qualities of the Saviour,  
+which **is necessary** for prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra "vijānatām" en Lakṣmītantram (para aquellos que **saben**)  
+y ‘deve paribṛḍatayā viditayā’ (con el **conocimiento** de cualidades del Señor como Su **ser** el Señor de todo)  
+**consulte** solo el tipo de **conocimiento**  
+que **permite** a uno **comprender**  
+Cosas como upāsanas o el tipo de **conocimiento**  
+que **permite** a un hombre **tener** una **comprensión** clara de cosas tales como las cualidades del Salvador,  
+que **es necesario** para prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिल् ‘‘विजानतां’’ ऎऩ्ऱुम्, ‘‘देवे परिबृढतया वा विधितया’’ ऎऩ्ऱुञ्जॊऩ्ऩ ज्ञानविशेषमुम् उपासनादिगळिल् तॆळिवादल् प्रपत्तिक्कुपयुक्तमाऩ शरण्यगुणादि विषयत्तिल् तॆळिवादलामित्तऩै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लदु इदुक्क् अनपेक्षितम् आऩ सर्व-विषय-ज्ञानम् अऩ्ऱु;  
+परिबृढत्व-रूप-- शरण्य-गुण-विशेषत्व-रूप-- ज्ञानम् इऱेय्  
+इङ्गु सॊल्लप् पडुगिऱदु। 
+</details>
+
+<details><summary>English</summary>
+
+It **does not** (certainly) **mean** a **knowledge** of all things, in general,  
+for only the **knowledge** of the Saviour's quality of **being** the Lord of all  
+**is referred** to here. 
+</details>
+
+<details><summary>Español</summary>
+
+**No** (ciertamente) **significa** un **conocimiento** de todas las cosas, en general,  
+porque sólo el **conocimiento** de la cualidad del Salvador de **ser** el Señor de todo  
+**se hace referencia** aquí.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अल्लदु इदुक्कनपेक्षितमाऩ सर्वविषयज्ञानमऩ्ऱु;  
+परिबृढत्वरूपशरण्यगुणविशेषत्वरूपज्ञानमिऱेय् इङ्गु सॊल्लप्पडुगिऱदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् उपयुक्त-ज्ञानम् उण्ड् आऩालुम्  
+उपायान्तरत्तिल् शक्तिय् इल्लाद पोदु  
+अ-किञ्चनऩ् आय्  
+प्रपत्तिक्क् अधिकारिय् आम्।
+</details>
+
+<details><summary>English</summary>
+
+Even if a man has this **knowledge** that **is** essential (for upāsana),  
+when he **is without** the **ability** to **adopt** that (upāsana),  
+he **is** one that **is destitute** of upāyas (akinchana) and **has competency** for prapatti.
+</details>
+
+<details><summary>Español</summary>
+
+Incluso si un hombre **tiene** este **conocimiento** que **es** esencial (para upāsana),  
+cuando **está sin** la **habilidad** de **adoptar** ese (upāsana),  
+él **es** alguien que **está desprovisto** de upāyas (akinchana) y **tiene competencia** para prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वुपयुक्तज्ञानमुण्डाऩालुम् उपायान्तरत्तिल् शक्तियिल्लाद पोदु अकिञ्चनऩाय् प्रपत्तिक्कधिकारियाम्।
 </details>
 
 
 
 
-But it may be asked how the difference between those who are competent and those who are not competent (for prapatti) could be justified in the face of such ślokas as the following: "'This is the upāya for those who do not understand; this is also the upāya for those who know well: this is the upāya for those who want to reach (quickly) the shore beyond saṁsāra and this is the upāya also for those who want (immediately) to render constant service to the Lord", and "Hari is the only upāya to those who do not know of other upāyas, either with their ignorance or with their knowledge of such qualities of the Lord as His being the Lord (of all), and on account of intensity of bhakti ". The answer to this question is as follows:- The ajñānam or ignorance referred to in the word (ajñānāt) in Lakṣmī Tantra and avidyātah in Bhattar's śloka is not the ignorance of such beings as cattle of what is stated in the śāstras. It means only this much, lack of a clear understanding of such forms (of adoration) as upāsanas or ignorance, even in regard to prapatti, of subtle niceties or distinctions in it. The word vijānatām in Lakṣmītantram (to those who know) and ‘deve paribṛḍatayā viditayā’ (with the knowledge of such qualities of the Lord as His being the Lord of all) refer only to the kind of knowledge which enables one to understand such things as upāsanas or the kind of knowledge which enables a man to have a clear understanding of such things as the qualities of the Saviour, which is necessary for prapatti. It does not (certainly) mean a knowledge of all things, in general, for only the knowledge of the Saviour's quality of being the Lord of all is referred to here. Even if a man has this knowledge that is essential (for upāsana), when he is without the ability to adopt that (upāsana), he is one that is destitute of upāyas (akinchan) and has competency for prapatti,
 
 Here another objection might be raised, viz.," Even if a man has ( the knowledge and) the ability, he should remain without any endeavour on his own part, knowing as he does, the Saviour's nature, for does not Sītā say:- "If Śrī Rāma', who can destroy the hosts of his enemies, discharges his arrows on Lanka and takes me away from here, it will be the appropriate thing for him?". The answer to this is that (Sītā's attitude ) would be an example of the prapanna's later life (not of what he should do or should not do before prapatti). If this is not admitted, all Śāstras which enjoin the adoption of upāyas would be meaningless.
 
