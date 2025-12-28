@@ -5102,7 +5102,7 @@ Unless, therefore, you admit a real imperfection apart from Brahman, you are una
 </details>
 
 
-### अनिर्वचनीयत्वानुपपत्तिः – 4
+### अनिर्वचनीयत्वानुपपत्तिः – ४
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5314,7 +5314,117 @@ Avidyā constitutes the material cause of this entire false world; since for a f
 
 #### अविद्याविषये प्रत्यक्षस्य प्रमाणता
 
-कारणाज्ञानविषयं प्रत्यक्षं तावत् "अहम् अज्ञो माम् अन्यं च न जानामि" इत्य् अपरोक्षावभासः। अयं तु न ज्ञान-प्रागभाव-विषयः; स हि षष्ठ-प्रमाण-गोचरः। अयं तु "अहं सुखी" इतिवद् अपरोक्षः। अभावस्य प्रत्यक्षत्वाभ्युपगमे ऽप्य् अयम् अनुभवो नात्मज्ञानाभावविषयः; अनुभव-वेलायाम् अपि ज्ञानस्य विद्यमानत्वात्, अविद्यमानत्वे ज्ञान-अभाव-प्रतीत्य्-अनुपपत्तेश् च॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कारणाज्ञान+++(=कारणभूत-ज्ञान)+++-विषयं प्रत्यक्षं तावत्  
+"अहम् अज्ञो, माम् अन्यं च न जानामि"  
+इत्य् अपरोक्षावभासः।  
+</details>
+
+<details><summary>English</summary>
+
+> That this avidyā or ajñāna (non-knowledge) is an object of internal Perception, follows from the fact that judgments such as 'I do not know','I do not know either myself or others,' directly present themselves to the mind. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कारणाज्ञान-विषयं प्रत्यक्षं तावत्  
+"अहम् अज्ञो, माम् अन्यं च न जानामि"  
+इत्य् अपरोक्षावभासः।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अयं तु  
+न ज्ञान-प्राग्-अभाव-विषयः;  
+स +++(ज्ञान-प्राग्-अभावः)+++ हि षष्ठ-प्रमाण+++(→अनुपलब्धि)+++-गोचरः। 
+</details>
+
+<details><summary>English</summary>
+
+> A mental state of this kind has for its object not that non-knowledge  
+which is the antecedent non-existence of knowledge--  
+for such absence of knowledge is ascertained by the sixth means of proof (anupalabdhi); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अयं तु न ज्ञान-प्रागभाव-विषयः; स हि षष्ठ-प्रमाण-गोचरः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अयं तु "अहं सुखी" इतिवद् अपरोक्षः। 
+</details>
+
+<details><summary>English</summary>
+
+> it rather is a state which presents its object directly,  
+> and thus is of the same kind as the state expressed in the judgment 'I am experiencing pleasure.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> अयं तु "अहं सुखी" इतिवद् अपरोक्षः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अभावस्य प्रत्यक्षत्वाभ्युपगमे ऽप्य्  
+> अयम् अनुभवो नात्मज्ञानाभाव-विषयः;
+</details>
+
+<details><summary>English</summary>
+
+> Even if we admit that 'absence of something' (abhāva) can be the object of perception, the state of consciousness under discussion cannot have absence of knowledge in the Self for its object. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> अभावस्य प्रत्यक्षत्वाभ्युपगमे ऽप्य् अयम् अनुभवो नात्मज्ञानाभावविषयः;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनुभव-वेलायाम् अपि ज्ञानस्य विद्यमानत्वात्,  
+</details>
+
+<details><summary>English</summary>
+
+> For at the very moment of such consciousness knowledge exists;  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> अनुभव-वेलायाम् अपि ज्ञानस्य विद्यमानत्वात्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अविद्यमानत्वे ज्ञानाभाव-प्रतीत्य्-अनुपपत्तेश् च॥
+</details>
+
+<details><summary>English</summary>
+
+> or if it does not exist  
+> there can be no consciousness of the absence of knowledge. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> अविद्यमानत्वे ज्ञानाभाव-प्रतीत्य्-अनुपपत्तेश् च॥
+</details>
+
+
 
 एतद् उक्तं भवति – "अहम् अज्ञ" इत्य् अस्मिन् अनुभवे "अहम्" इत्यात्मनो ऽभाव-धर्मितया ज्ञानस्य च प्रतियोगितयावगतिर् अस्ति वा, न वा? अस्ति चेद् विरोधाद् एव न ज्ञान-अभावानुभव-सम्भवः। नो चेद् धर्मि-प्रतियोगि-ज्ञान-सव्यपेक्षा ज्ञान-अभावानुभवः सुतरां न सम्भवति। ज्ञान-अभावस्यानुमेयत्वे अभावाख्य-प्रमाण-विषयत्वे चेयम् अनुपपत्तिः समाना। अस्याज्ञानस्य भाव-रूपत्वे धर्मि-प्रतियोगि-ज्ञान-सद्भावे ऽपि विरोधाभावाद् अयम् अनुभवो भाव-रूपाज्ञान-विषय एवाभ्युपगन्तव्यः – इति।
 
