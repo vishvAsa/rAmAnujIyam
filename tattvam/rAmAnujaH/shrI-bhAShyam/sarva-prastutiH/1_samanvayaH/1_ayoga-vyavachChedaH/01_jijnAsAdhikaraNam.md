@@ -4066,58 +4066,470 @@ The entire Mīmāṁsā-sātra--which begins with the Sūtra 'Now therefore the 
 
 अतश्शास्त्रेषु न निर्विशेषवस्तुप्रतिपादनमस्ति । नाप्यर्थजातस्य भ्रान्तत्वप्रतिपादनम्। नापि चिदचिदीश्वराणां स्वरूपभेदनिषेधः॥
 
-## अविद्यायां सप्तविधाः अनुपपत्तयः
+## अविद्यायाम् अनुपपत्तयः
+(सप्त-विधाः अनुपपत्तयः)
 
-## अविद्यादूषणार्थं परोक्तार्थानुवादः
+<details><summary>विश्वास-टिप्पनी</summary>
 
-यदप्युच्यते निर्विशेषे स्वयंप्रकाशे वस्तुनि दोषपरिकल्पितमीशेशितव्या द्यनन्तविकल्पं सर्वं जगत्। दोषश्च स्वरूपतिरोधानविविधविचित्रविक्षेपकरी सदसदिनर्वचनीयाऽनाद्यविद्या। सा चावश्याभ्युपगमनीया; अनृतेन हि प्रत्यूढाः (छा.८.३.२) इत्यादिभिः श्रुतिभिः, ब्रह्मणस्तत्त्वमस्यादि वाक्यसामानाधिकरण्यावगतजीवैक्यानुपपत्त्या च । सा तु न सती, भ्रान्तिबाधयोरयोगात्। नाप्यसती, ख्यातिबाधयोश्चायोगात्। अतः कोटिद्वयविनिर्मुक्तेयमविद्येति तत्त्वविदः – इति।
+परिचयः - 
 
-## तत्र आश्रयानुपपत्तिः -1
+- वेङ्कटेश-प्रस्तुतिः - [TW](https://www.youtube.com/watch?v=E1L4kr-Qs8o)
+- मणि-द्राविडोत्तरम् - [TW](https://www.youtube.com/live/z9iNl-iXzZo?feature=share)  See from 20 minutes onwards in the video.
 
-तदयुक्तम्, सा हि किमाश्रित्य भ्रमं जनयति? न तावज्जीवमाश्रित्य; अविद्या-परिकल्पितत्वात् जीवभावस्य। नापि ब्रह्माश्रित्य; तस्य स्वयंप्रकाशज्ञानस्वरूपत्वेन अविद्याविरोधित्वात्। सा हि ज्ञानबाध्याऽभिमता॥
+</details>
 
-ज्ञानरूपं परं ब्रह्म तन्निवर्त्यं मृषात्मकम्।
 
-अज्ञानं चेत्तिरस्कुर्यात्कः प्रभुस्तन्निवर्तने॥
+### अविद्या-दूषणार्थं परोक्तार्थानुवादः
 
-ज्ञानं ब्रह्मेति चेत् ज्ञानमज्ञानस्य निवर्तकम्।
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मवत्तत्प्रकाशत्वात्तदपि ह्यनिवर्तकम्॥
+यद् अप्य् उच्यते  
+निर्विशेषे स्वयं-प्रकाशे वस्तुनि  
+दोष-परिकल्पितम् ईशेशितव्याद्य्-अनन्त-विकल्पं सर्वं जगत्। 
+</details>
 
-ज्ञानं ब्रह्मेति विज्ञानमस्ति चेत्स्यात्प्रमेयता।
+<details><summary>English</summary>
 
-ब्रह्मणोऽननुभूतित्वं त्वदुक्त्यैव प्रसज्यते॥   
-(श्रीनाथमुनिश्लोकाः)
+We now proceed to the consideration of Nescience.--  
+According to the view of our opponent,  
+this entire world, with all its endless distinctions of Ruler, creatures ruled, and so on,  
+is, owing to a certain defect,  
+fictitiously superimposed upon the non-differenced, self-luminous Reality;  
+</details>
 
-ज्ञानस्वरूपं ब्रह्मेति ज्ञानं तस्या अविद्याया बाधकम्, न स्वरूपभूतं ज्ञानमिति चेन्न, उभयोरपि ब्रह्मस्वरूपप्रकाशत्वे सत्यन्यतरस्याविद्याविरोधित्वमन्यतरस्य नेति विशेषानवगमात्।
 
-एतदुक्तं भवति – ज्ञानस्वरूपं ब्रह्मेत्यनेन ज्ञानेन ब्रह्मणि यस्स्वभावोऽवगम्यते; स ब्रह्मणः स्वयंप्रकाशत्वेन स्वयमेव प्रकाशत इत्यविद्याविरोधित्वे न कश्चिद्विशेषस्स्वरूपतद्विषय-ज्ञानयोः – इति।
+<details><summary>मूलम्</summary>
 
-## ब्रह्मविषयप्रमाणज्ञानं भ्रमनिवर्तकमिति कल्पस्यय दूषणम्
+यद् अप्य् उच्यते  
+निर्विशेषे स्वयं-प्रकाशे वस्तुनि  
+दोष-परिकल्पितम् ईशेशितव्याद्य्-अनन्त-विकल्पं सर्वं जगत्। 
+</details>
 
-किञ्च अनुभवस्वरूपस्य ब्रह्मणोऽनुभवान्तराननुभाव्यत्वेन भवतो न तद्विषयं ज्ञानमस्ति। अतो ज्ञानमज्ञानविरोधि चेत्स्वयमेव विरोधि भवतीति नास्या ब्रह्माश्रयत्वसंभवः। शुक्त्यादयस्तु स्वयाथात्म्यप्रकाशे स्वयमसमर्थास्स्वाज्ञानाविरोधिनस्तन्निवर्तने च ज्ञानान्तरमपेक्षन्ते। ब्रह्म तु स्वानुभवसिद्धस्वयाथात्म्यमिति स्वाज्ञानविरोध्येव। तत एव निवर्तकान्तरं च नापेक्षते ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-## प्रपऋचमिथ्यात्वविषयकं ज्ञानं भ्रमनिवर्तकमिति पक्षस्य दूषणम्
+दोषश् च  
+स्वरूप-तिरोधान--विविध-विचित्र-विक्षेप-करी  
+सद्-असद्-अनिर्वचनीयानाद्य्-अविद्या। 
+</details>
 
-अथोच्येत – ब्रह्मव्यतिरिक्तस्य मिथ्यात्वज्ञानमज्ञानविरोधि – इति। न; इदं ब्रह्मव्यतिरिक्तमिथ्यात्वज्ञानं किं ब्रह्म याथात्म्याज्ञानविरोधि? उत प्रपञ्चसत्यत्वरूपाज्ञानविरोधीति विवेचनीयम्। न तावत् ब्रह्मयाथात्म्याज्ञानविरोधि, अतद्विषयत्वात् ज्ञानाज्ञानयोरेकविषयत्वेन हि विरोधः। प्रपञ्च-मिथ्यात्वज्ञानं तत्सत्यत्वरूपाज्ञानेन विरुध्यते। तेन प्रपञ्चसत्यत्वरूपाज्ञानमेव बाधितमिति ब्रह्मस्वरूपाज्ञानं तिष्ठत्येव। ब्रह्मस्वरूपाज्ञानं नाम तस्य सद्वितीयत्वमेव। तत्तु तद्व्यतिरिक्तस्य मिथ्यात्वज्ञानेन निवृत्तम्। स्वरूपं तु स्वानुभवसिद्धमिति चेन्न; ब्रह्मणोऽद्वितीयत्वं स्वरूपं स्वानुभवसिद्धमिति तद्विरोधि सद्वितीयत्वरूपाज्ञानं तद्बाधश्च न स्याताम्। अद्वितीयत्वं धर्म इति चेन्न; अनुभवस्वरूपस्य ब्रह्मणोऽनुभाव्यधर्मविरहस्य भवतैव प्रतिपादितत्वात्। अतो ज्ञानस्वरूपस्य ब्रह्मणो विरोधादेव नाज्ञानाश्रयत्वम्॥
+<details><summary>English</summary>
 
-## अविद्यया ब्रह्मणः तिरोधानानुपपत्तिः 2
+and what constitutes that defect is beginningless Nescience,  
+which invests the Reality,  
+gives rise to manifold illusions,  
+and cannot be denned either as being or non-being. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दोषश् च स्वरूप-तिरोधान-विविध-विचित्र-विक्षेप-करी सदसदनिर्वचनीयानाद्य्-अविद्या। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा चावश्याभ्युपगमनीया; 
+
+> अनृतेन हि प्रत्यूढाः (छा.८.३.२) 
+
+इत्य्-आदिभिः श्रुतिभिः, 
+</details>
+
+<details><summary>English</summary>
+
+Such Nescience, he says,  
+must necessarily be admitted,  
+firstly on the ground of scriptural texts, such as 
+
+> 'Hidden by what is untrue' (Cḥ. Up. VIII, 3, 2), 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा चावश्याभ्युपगमनीया; अनृतेन हि प्रत्यूढाः (छा.८.३.२) इत्यादिभिः श्रुतिभिः, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(अविद्याम् अन्तरा)+++ ब्रह्मणस् "तत्त्वम् अस्य्"-आदि- वाक्य--सामानाधिकरण्यावगत-- जीवैक्यानुपपत्त्या च।
+</details>
+
+<details><summary>English</summary>
+
+and secondly because  
+otherwise the oneness of the individual souls with Brahman--  
+which is taught by texts such as 'Thou are that'--  
+cannot be established. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मणस् तत्त्वमस्य्-आदि वाक्यसामानाधिकरण्यावगतजीवैक्यानुपपत्त्या च।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा तु न सती,  
++++(सत्तायाम्)+++ भ्रान्ति-बाधयोर् अयोगात्। 
+</details>
+
+<details><summary>English</summary>
+
+This Nescience is neither 'being,'  
+because in that case it could not be the object of erroneous cognition (bhrama) and sublation (bādha); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सा तु न सती,  
+भ्रान्ति-बाधयोर् अयोगात्। 
+</details>
+ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाप्य् असती, ख्याति-बाधयोश् चायोगात्। 
+</details>
+
+<details><summary>English</summary>
+
+nor is it 'non-being,' because in that case it could not be the object of apprehension and sublation [^fn_17]. 
+
+[^fn_17]: 102:1 'Nescience' is sublated (refuted) by the cognition of Brahman,  and thereby shown to have been the object of erroneous cognition: it thus cannot be 'being,' i.e. real. Nor can it be altogether unreal, 'non-being,' because in that case it could not be the object either of mental apprehension or of sublation.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नाप्यसती, ख्याति-बाधयोश्चायोगात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः कोटिद्वयविनिर्मुक्तेयम् अविद्येति तत्त्वविद इति।
+</details>
+
+<details><summary>English</summary>
+
+Hence orthodox Philosophers declare that this Nescience falls under neither of these two opposite categories.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतः कोटिद्वयविनिर्मुक्तेयम् अविद्येति तत्त्वविद इति।
+</details>
+
+
+### आश्रयानुपपत्तिः - 1
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् अयुक्तम्।  
+</details>
+
+<details><summary>English</summary>
+
+Now this theory of Nescience is altogether untenable. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तद् अयुक्तम्।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा हि किम् आश्रित्य भ्रमं जनयति? 
+</details>
+
+<details><summary>English</summary>
+
+In the first place we ask, 'What is the substrate of this Nescience which gives rise to the great error of plurality of existence?' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सा हि किम् आश्रित्य भ्रमं जनयति? 
+</details>
+
+#### न जीवः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तावज् जीवम् आश्रित्य; अविद्या-परिकल्पितत्वाज् जीवभावस्य।
+</details>
+
+<details><summary>English</summary>
+
+You cannot reply 'the individual soul'; for the individual soul itself exists in so far only as it is fictitiously imagined through Nescience.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न तावज् जीवम् आश्रित्य; अविद्या-परिकल्पितत्वाज् जीवभावस्य।
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+जीवा अविद्या चानादी इति कश्चन परिहारोऽस्य।  
+तथा चेद् अपि जीव-ब्रह्मणोर् अभेदाद् ब्रह्मैवाश्रयः सम्पद्यते। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि ब्रह्माश्रित्य;  
+तस्य स्वयं-प्रकाश-ज्ञान-स्वरूपत्वेनाविद्या-विरोधित्वात्।  
+सा हि ज्ञानबाध्याभिमता॥
+</details>
+
+<details><summary>English</summary>
+
+Nor can you say 'Brahman'; for Brahman is nothing but self-luminous intelligence, and hence contradictory in nature to Nescience, which is avowedly sublated by knowledge.
+</details>
+
+#### न ब्रह्म
+<details><summary>मूलम्</summary>
+
+नापि ब्रह्माश्रित्य; तस्य स्वयं-प्रकाश-ज्ञान-स्वरूपत्वेनाविद्याविरोधित्वात्।  
+सा हि ज्ञानबाध्याभिमता॥
+</details>
+
+#### नाथमुनि-कारिकाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ज्ञान-रूपं परं ब्रह्म  
+> तन्-**निवर्त्यं** मृषात्मकम्।  
+> अज्ञानं चेत् **तिरस्कुर्यात्**  
+> कः प्रभुस् तन्-**निवर्तने**॥
+</details>
+
+
+<details><summary>English</summary>
+
+> 'The highest Brahman has knowledge for its essential nature:  
+if Nescience, which is essentially false and to be terminated by knowledge, invests Brahman,  
+who then will be strong enough to put an end to it?'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ज्ञानरूपं परं ब्रह्म तन्-निवर्त्यं मृषात्मकम्।  
+> अज्ञानं चेत् तिरस्कुर्यात् कः प्रभुस् तन्-निवर्तने॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "ज्ञानं ब्रह्मे"ति चेज् ज्ञानम्  
+> अज्ञानस्य निवर्तकम्।  
+> ब्रह्मवत् तत्-प्रकाशत्वात्  
+> तद् अपि ह्य् अनिवर्तकम्॥
+</details>
+
+<details><summary>English</summary>
+
+> 'What puts an end to Nescience is the knowledge that Brahman is pure knowledge!'--'Not so, for that knowledge also is, like Brahman, of the nature of light, and hence has no power to put an end to Nescience.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ज्ञानं ब्रह्मेति चेत् ज्ञानम् अज्ञानस्य निवर्तकम्।  
+> ब्रह्मवत् तत्-प्रकाशत्वात् तद् अपि ह्य् अनिवर्तकम्॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "ज्ञानं ब्रह्मे"ति विज्ञानम्  
+> अस्ति चेत् स्यात् प्रमेयता।  
+> ब्रह्मणो ऽननुभूतित्वं  
+> त्वद्-उक्त्यैव प्रसज्यते॥  
+> (श्रीनाथमुनिश्लोकाः)
+</details>
+
+<details><summary>English</summary>
+
+> And if there exists the knowledge that Brahman is knowledge,  
+> then Brahman is an object of knowledge,  
+> and that, according to your own teaching, implies that Brahman is not of the nature of consciousness.'
+</details>
+
+<details><summary>मूलम्</summary>
+
+> ज्ञानं ब्रह्मेति विज्ञानम् अस्ति चेत् स्यात् प्रमेयता।  
+> ब्रह्मणो ऽननुभूतित्वं त्वदुक्त्यैव प्रसज्यते॥  
+> (श्रीनाथमुनिश्लोकाः)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "ज्ञान-स्वरूपं ब्रह्मे"त्य् अनेन ज्ञानेन  
+तस्या अविद्याया बाधकम्,  
+न स्वरूप-भूतं ज्ञानम् 
+
+इति चेत् 
+</details>
+
+<details><summary>English</summary>
+
+To explain the second of these ślokas.--  
+If you maintain that 
+
+> what sublates Nescience  
+> is not that knowledge which constitutes Brahman's essential nature,  
+> but rather that knowledge which has for its object  
+> the truth of Brahman being of such a nature, 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> "ज्ञान-स्वरूपं ब्रह्मे"त्य् अनेन ज्ञानेन  
+तस्या अविद्याया बाधकम्,  
+न स्वरूप-भूतं ज्ञानम् 
+
+इति चेत् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न,  
+उभयोर् अपि ब्रह्म-स्वरूप-प्रकाशत्वे सति  
+अन्यतरस्याविद्याविरोधित्वम्  
+अन्यतरस्य नेति विशेषानवगमात्।
+</details>
+
+<details><summary>English</summary>
+
+we demur; for as both these kinds of knowledge are of the same nature, viz. the nature of light, which is just that which constitutes Brahman's nature, there is no reason for making a distinction and saying that one knowledge is contradictory of Nescience, and the other is not. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न,  
+उभयोर् अपि ब्रह्म-स्वरूप-प्रकाशत्वे सति  
+अन्यतरस्याविद्याविरोधित्वम्  
+अन्यतरस्य नेति विशेषानवगमात्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतद् उक्तं भवति –  
+ज्ञान-स्वरूपं ब्रह्मेत्य् अनेन ज्ञानेन  
+ब्रह्मणि यस् स्वभावो ऽवगम्यते;  
+स ब्रह्मणः स्वयं-प्रकाशत्वेन  
+स्वयम् एव प्रकाशते  
+</details>
+
+<details><summary>English</summary>
+
+Or, to put it otherwise--that essential nature of Brahman which is apprehended through the cognition that Brahman is knowledge, itself shines forth in consequence of the self-luminous nature of Brahman, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+एतद् उक्तं भवति –  
+ज्ञान-स्वरूपं ब्रह्मेत्य् अनेन ज्ञानेन  
+ब्रह्मणि यस् स्वभावो ऽवगम्यते;  
+स ब्रह्मणः स्वयं-प्रकाशत्वेन  
+स्वयम् एव प्रकाशत  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य् अविद्या-विरोधित्वे न कश्चिद् विशेषस् स्वरूप-तद्-विषय-ज्ञानयोर् इति।
+</details>
+
+<details><summary>English</summary>
+
+and hence we have no right to make a distinction between that knowledge which constitutes Brahman's nature, and that of which that nature is the object, and to maintain that the latter only is antagonistic to Nescience.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्य् अविद्या-विरोधित्वे न कश्चिद् विशेषस् स्वरूप-तद्-विषय-ज्ञानयोर् इति।
+</details>
+
+#### ब्रह्म-विषय-प्रमाण-ज्ञानं भ्रम-निवर्तकम्?
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किञ्च अनुभव-स्वरूपस्य ब्रह्मणो  
+ऽनुभवान्तराननुभाव्यत्वेन भवतः +++(पक्षे)+++  
+न तद्-विषयं ज्ञानम् अस्ति।  
+</details>
+
+<details><summary>English</summary>
+
+\-- Moreover (and this explains the third śloka),  
+according to your own view  
+Brahman, which is mere consciousness,  
+cannot be the object of another consciousness,  
+and hence there is no knowledge which has Brahman for its object. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किञ्च अनुभव-स्वरूपस्य ब्रह्मणो  
+ऽनुभवान्तराननुभाव्यत्वेन भवतो न तद्-विषयं ज्ञानम् अस्ति।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो ज्ञानम् अज्ञान-विरोधि चेत्  
+स्वयम् एव विरोधि भवतीति  
+नास्या ब्रह्माश्रयत्व-संभवः। 
+</details>
+
+<details><summary>English</summary>
+
+If, therefore, knowledge is contradictory to non-knowledge (Nescience),  
+Brahman itself must be contradictory to it,  
+and hence cannot be its substrate. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो ज्ञानम् अज्ञान-विरोधि चेत् स्वयम् एव विरोधि भवतीति नास्या ब्रह्माश्रयत्व-संभवः। 
+</details>
+
+शुक्त्य्-आदयस् तु स्व-याथात्म्य-प्रकाशे स्वयम् असमर्थाः स्वाज्ञानाविरोधिनस् तन्-निवर्तने च ज्ञानान्तरम् अपेक्षन्ते। ब्रह्म तु स्वानुभव-सिद्ध-स्वयाथात्म्यम् इति स्वाज्ञान-विरोध्य् एव। तत एव निवर्तकान्तरं च नापेक्षते॥
+
+#### [[प्रपऋच|प्रपञ्च]]मिथ्यात्वविषयकं ज्ञानं भ्रमनिवर्तकम् इति पक्षस्य दूषणम्
+
+अथोच्येत – ब्रह्म-व्यतिरिक्तस्य मिथ्यात्व-ज्ञानम् अज्ञान-विरोधि – इति। न; इदं ब्रह्म-व्यतिरिक्त-मिथ्यात्व-ज्ञानं किं ब्रह्म-याथात्म्याज्ञान-विरोधि? उत प्रपञ्च-सत्यत्व-रूपाज्ञान-विरोधीति विवेचनीयम्। न तावद् ब्रह्म-याथात्म्याज्ञान-विरोधि, अ-तद्-विषयत्वात्। ज्ञानाज्ञानयोरेक-विषयत्वेन हि विरोधः। प्रपञ्च-मिथ्यात्व-ज्ञानं तत्-सत्यत्व-रूपाज्ञानेन विरुध्यते। तेन प्रपञ्च-सत्यत्व-रूपाज्ञानम् एव बाधितम् इति ब्रह्म-स्वरूपाज्ञानं तिष्ठत्य् एव। ब्रह्म-स्वरूपाज्ञानं नाम तस्य सद्वितीयत्वम् एव। तत् तु तद्-व्यतिरिक्तस्य मिथ्यात्व-ज्ञानेन निवृत्तम्। स्वरूपं तु स्वानुभव-सिद्धम् इति चेन् न; ब्रह्मणो ऽद्वितीयत्वं स्वरूपं स्वानुभव-सिद्धम् इति तद्-विरोधि सद्वितीयत्व-रूपाज्ञानं तद्-बाधश् च न स्याताम्। अद्वितीयत्वं धर्म इति चेन् न; अनुभव-स्वरूपस्य ब्रह्मणो ऽनुभाव्य-धर्म-विरहस्य भवतैव प्रतिपादितत्वात्। अतो ज्ञान-स्वरूपस्य ब्रह्मणो विरोधाद् एव नाज्ञानाश्रयत्वम्॥
+
+### अविद्यया ब्रह्मणः तिरोधानानुपपत्तिः 2
 
 किञ्च – अविद्यया प्रकाशैकस्वरूपं ब्रह्म तिरोहित्Ћिमति वदता स्वरूपनाश एवोक्तस्स्यात् । प्रकाशतिरोधानं नाम प्रकाशोत्पत्तिप्रतिबन्धो विद्यमानस्य विनाशो वा। प्रकाशस्य अनुत्पाद्यत्वाभ्युपगमेन प्रकाशतिरोधानं प्रकाशनाश एव॥
 
-## अविद्यास्वरूपानुपपत्तिः -3
+### अविद्यास्वरूपानुपपत्तिः -3
 
 अपि च निर्विषया निराश्रया स्वप्रकाशेयमनुभूतिस्स्वाश्रयदोषवशादनन्ताश्रयमनन्त- विषयमात्मानमनुभवतीत्यत्र किमयं स्वाश्रयदोषः परमार्थभूतः? उतापरमार्थभूत इति विवेचनीयम्। न तावत्परमार्थः, अुनभ्यपगमात्। नाप्यपरमार्थः, तथा सति हि द्रष्टृत्वेन वा दृश्यत्वेन वा दृशित्वेन वाभ्युपगमनीयः। न तावद्दृशिः, दृशिस्वरूपभेदानभ्युपगमात्; भ्रमाधिष्ठानभूतायास्तु साक्षाद्दृशेर्माध्यिमकपक्ष-प्रसङ्गेनापारमार्थ्यानभ्युपगमाच्च। द्रष्टृदृश्ययोस्तदवच्छिन्नाया दृशेश्च काल्पनिकत्वेन मूलदोषान्तरापेक्षयाऽनवस्था स्यात्। अथैतत्परिजिहीर्षया परमार्थसती अनुभूतिरेव ब्रह्मरूपो दोष इति चेत्; ब्रह्मैव चेद्दोषः; प्रपञ्चदर्शनस्यैव तन्मूलं स्यात्। किं प्रपञ्चतुल्याविद्यान्तरपरिकल्पनेन? ब्रह्मणो दोषत्वे सति तस्य नित्यत्वेनानिर्मोक्षश्च स्यात्। अतो यावद्ब्रह्मव्यतिरिक्तपारमार्थिकदोषानभ्युपगमः; न तावद्भ्रान्तिरुपपादिता भवति।
 
-## अनिर्वचनीयत्वानुपपत्तिः – 4
+### अनिर्वचनीयत्वानुपपत्तिः – 4
 
 अनिर्वचनीयत्वं च किमभिप्रेतम्। सदसद्विलक्षणत्वमिति चेत्, तथाविधस्य वस्तुनः प्रमाणशून्यत्वेन अनिर्वचनीयतैव स्यात्। एतदुक्तं भवति – सर्वं हि वस्तुजातं प्रतीतिव्यवस्थाप्यम्। सर्वा च प्रतीतिस्सदसदाकारा। सदसदाकारायास्तु प्रतीतेस्सदसद्विलणं विषय इत्यभ्युपगम्यमाने सर्वं सर्वप्रतीतेर्विषयस्स्यात् – इति॥
 
-## अविद्यायां प्रमाणानुपपत्तिप्रदर्शनार्थं पूर्वपक्षोपन्यासः
+### प्रमाणानुपपत्तिः - ५
+#### अविद्यायां प्रमाणानुपपत्तिप्रदर्शनार्थं पूर्वपक्षोपन्यासः
 
 अथ स्यात् – वस्तुस्वरूपतिरोधानकरमान्तरबाह्यरूपविविधाध्यासोपादानं सदसदिनर्वचनीयं अविद्या अज्ञानादिपदवाच्यं वस्तुयाथात्म्यज्ञाननिवर्त्यं ज्ञानप्रागभावातिरेकेण भावरूपमेव किञ्चिद्वस्तु प्रत्यक्षानुमानाभ्यां प्रतीयते। तदुपहितब्रह्मोपादानश्चाविकारे स्वप्रकाशचिन्मात्रवपुषि तेनैव तिरोहितस्वरूपे प्रत्यगात्मन्यहङ्कारज्ञानज्ञेयविभागरूपोऽध्यासः। तस्यैवावस्थाविशेषेण अध्यासरूपे जगति ज्ञानबाध्य-सर्परजतादिवस्तु तत्तज्ज्ञानरूपाध्यासोऽपि जायते। कृत्स्नस्य मिथ्यारूपस्य तदुपादानत्वं च मिथ्याभूतस्यार्थस्य मिथ्याभूतमेव कारणं भवितुमर्हातीति हेतुबलादवगम्यते।
 
-## अविद्याविषये प्रत्यक्षस्य प्रमाणता
+#### अविद्याविषये प्रत्यक्षस्य प्रमाणता
 
 कारणाज्ञानविषयं प्रत्यक्षं तावत् अहमज्ञो मामन्यं च न जानामि इत्यपरोक्षावभासः। अयं तु न ज्ञानप्रागभावविषयः स हि षष्ठप्रमाणगोचरः। अयन्तु अहं सुखीतिवदपरोक्षः अभावस्य प्रत्यक्षत्वाभ्युपगमेऽप्ययमनुभवो नात्मज्ञानाभावविषयः; अनुभववेलायामपि ज्ञानस्य विद्यमानत्वात्, अविद्यमानत्वे ज्ञानाभावप्रतीत्यनुपपत्तेश्च॥
 
