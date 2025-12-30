@@ -6120,6 +6120,19 @@ porque **quitan** todas las dudas de los demás
 इरण्डु शास्त्रमुम् स-प्रयोजनम्।
 </details>
 
+<details><summary>English</summary>
+
+Since in this manner, the competency of a man either for upāsana or for prapatti **is determined**,  
+both the śāstras (those of upāsana and those of prapatti) **have** their own respective purpose.
+</details>
+
+<details><summary>Español</summary>
+
+Puesto que de esta manera **se determina** la competencia de un hombre ya sea para upāsana o para prapatti,  
+Ambos śāstras (los de upāsana y los de prapatti) **tienen** su propio propósito respectivo.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इप्पडि उपासनप्रपदनङ् गळुक्कधिकारम् व्यवस्थितमागैयाल् इरण्डु शास्त्रमुम् सप्रयोजनम्।
@@ -6128,7 +6141,7 @@ porque **quitan** todas las dudas de los demás
 
 
 
-Since in this manner the competency of a man either for upāsana or for prapatti is determined, both the śāstras (those of upāsana and those of prapatti) have their own respective purpose.
+
 
 The difference between the two adhikāris in regard to the rites and observances of their caste and disrama is only the difference of the purpose for which or the thought with which they are performed. It is true that, in the case of the prapanila, the performance of any rite or observance will prevent the attainment of his eod, because, like the Brahma missile, it would cease to have any effect, if any other rite is performed to attain the same end. But if these rites are performed for their own sake (without the desire for any fruit) or for such things as the glory of Bhagavān or the welfare of Bhāgavatas, there is no impropriety (and prapatti would not lose its efficacy).
 
