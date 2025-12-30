@@ -78,7 +78,7 @@ ravilochana
 ### Astronomical fit
 6th dec 672. approx Dhanus 13.
 10th dec 672. Full moon.  
-Venus rising at 3.09 and jupiter setting at around 5:13
+Venus rising at 3.09 and jupiter setting at around 5:01 - some 20 min before nautical twilight.
 
 
 672 it happened. 670s is the right time. Here, she mentions it after keezhvaanam vellendru. That matches with 670s.  
@@ -97,14 +97,15 @@ Even as per their own dates (which are wrong), ninra seer neDumAran was only rul
 
 
 
-### Other candidates
-886 is another probable year. But 886 is too late and it matches with nathamunis times. Periyazhvar was not a contemporary of Nathamuni. His video doesn't explain how there is a venus-jupiter combo in 861 CE.
-
+## 731
 Mu raghavaiyangar considered 731. But that happened much before sunrise. 731 occurrence is before twilight.
 
 
 ## 886
 15 dec 886 matches very beautifully as per some (eg. nAgasvamI). Venus rising at 4.57 am, twilight at 5.12, civil twilight at 6.05, jupiter setting at 6.22 and sun rising at 6.28
+
+
+886 is another probable year. But 886 is too late and it matches with nathamunis times. Periyazhvar was not a contemporary of Nathamuni. His video doesn't explain how there is a venus-jupiter combo in 861 CE.
 
 #### Motivation
 tiruvempAvai of mANikkavAchakar describes a shaiva lady undertaking a vrata so as to marry a good shaiva. shaiva fanatics want to twist evidence to imply that this novel vrata inspired tiruppAvai, rather than the other way around.
