@@ -3944,6 +3944,7 @@ And so please remove all our other desires,
 And help us to worship Goddess Pavai.  
 </details>
 
+## फल-स्तुतिः
 ### ३० फलस्तुतिः - वङ्गक्कडल् कडैन्द
 
 <details open><summary>गानम् - ३०</summary>
@@ -4042,7 +4043,6 @@ And help us to worship Goddess Pavai.
 <div caption="ऐश्वर्या-नृत्यम्" class="videoEmbed" src="https://www.youtube.com/watch?v=g4oSE0vQdmA"></div>
 </details>
 
-## फल-स्तुतिः
 <details><summary>श्रीरामदेशिक-पद्य-सारः - ३०</summary>
 
 तिरुप्पावै ग्रन्थपठनस्य फलं ब्रूते - वङ्गक्कडल् कडैन्द माधवनै- इति ।  
