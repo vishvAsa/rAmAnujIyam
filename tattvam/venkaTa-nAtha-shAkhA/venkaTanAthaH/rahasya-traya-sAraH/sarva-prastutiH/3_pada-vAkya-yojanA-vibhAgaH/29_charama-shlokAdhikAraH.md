@@ -5333,7 +5333,7 @@ que **quieren** (inmediatamente) **rendir** constante **servicio** al Señor",
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> > १९‘‘अविद्यातो, देवे परिवृढतया+++(=स्वामितया)+++ वा विदितया,  
+> > १९‘‘अविद्यातो, देवे परिबृढतया+++(=स्वामितया)+++ वा विदितया,  
 स्व-भक्तेर् भूम्ना वा, जगति गतिम् अन्याम् **अविदुषाम्**’’  
 +++(हरिर् एवोपायः)+++  
 (भट्टर्-मुक्तकम्) 
@@ -5343,7 +5343,7 @@ que **quieren** (inmediatamente) **rendir** constante **servicio** al Señor",
 
 <details><summary>नीलमेघः (सं)</summary>
 
-> > १९‘‘अविद्यातो, देवे परिवृढतया+++(=स्वामितया)+++ वा विदितया,  
+> > १९‘‘अविद्यातो, देवे परिबृढतया+++(=स्वामितया)+++ वा विदितया,  
 स्व-भक्तेर् भूम्ना वा, जगति गतिम् अन्याम् **अविदुषाम्**’’  
 +++(हरिर् एवोपायः)+++  
 (भट्टर्-मुक्तकम्) 
@@ -5471,6 +5471,12 @@ de lo que **se afirma** en los śāstras.
 अत्-तऩै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"अन्यत् किम्?" इति चेत्-  
+उपासनादिषु विशद-ज्ञानाभावो वा  
+प्रपत्ताव् अपि सूक्ष्म-विशेषाणां ज्ञानाभावो वेत्य् एतावद् एव । 
+</details>
 
 
 <details><summary>English</summary>
@@ -5498,11 +5504,21 @@ de sutilezas sutiles o **distinciones** en él.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवऱ्ऱिल् ‘‘विजानतां’’ ऎऩ्ऱुम्,  
-‘‘देवे परिबृढतया वा विधितया’’ ऎऩ्ऱुञ्  
+‘‘देवे परिबृढतया+++(=स्वामितया)+++ वा विदितया’’ ऎऩ्ऱुञ्  
 जॊऩ्ऩ ज्ञान-विशेषमुम्  
 उपासनादिगळिल् तॆळिव् आदल्  
 प्रपत्तिक्क् उपयुक्तम् आऩ शरण्य-गुणादि विषयत्तिल् तॆळिव् आदल् आम् इत्-तऩै। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र "विजानताम्" इति  
+"देवे परिबृढतया+++(=स्वामितया)+++ वा विदितया" इति चोक्तो ज्ञान-विशेषो ऽपि  
+उपासनादिषु विशद-ज्ञानं वा  
+प्रपत्त्य्-उपयुक्ते शरण्य-गुण-विषये विशद-ज्ञानं वा  
+इत्य् एतावद् एव । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5529,7 +5545,7 @@ que **es necesario** para prapatti.
 
 <details><summary>मूलम्</summary>
 
-इवऱ्ऱिल् ‘‘विजानतां’’ ऎऩ्ऱुम्, ‘‘देवे परिबृढतया वा विधितया’’ ऎऩ्ऱुञ्जॊऩ्ऩ ज्ञानविशेषमुम् उपासनादिगळिल् तॆळिवादल् प्रपत्तिक्कुपयुक्तमाऩ शरण्यगुणादि विषयत्तिल् तॆळिवादलामित्तऩै। 
+इवऱ्ऱिल् ‘‘विजानतां’’ ऎऩ्ऱुम्, ‘‘देवे परिबृढतया वा विदितया’’ ऎऩ्ऱुञ्जॊऩ्ऩ ज्ञानविशेषमुम् उपासनादिगळिल् तॆळिवादल् प्रपत्तिक्कुपयुक्तमाऩ शरण्यगुणादि विषयत्तिल् तॆळिवादलामित्तऩै। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -5538,6 +5554,13 @@ que **es necesario** para prapatti.
 परिबृढत्व-रूप-- शरण्य-गुण-विशेषत्व-रूप-- ज्ञानम् इऱेय्  
 इङ्गु सॊल्लप् पडुगिऱदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+न खल्व् एतद् अनपेक्षितं सर्व-विषयक-ज्ञानम् ।  
+परिबृढत्व-रूप- शरण्य-गुण-विशेष-ज्ञानं हि इहोच्यते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5567,6 +5590,14 @@ porque sólo el **conocimiento** de la cualidad del Salvador de **ser** el Seño
 अ-किञ्चनऩ् आय्  
 प्रपत्तिक्क् अधिकारिय् आम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् उपयुक्तज्ञाने सत्य् अपि,  
+उपायान्तरे शक्त्य्-अभावे  
+अकिञ्चनः सन् प्रपत्तेर् अधिकारी भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5607,12 +5638,19 @@ cuando **está sin** la **habilidad** de **adoptar** ese (upāsana),
 
 <details><summary>नीलमेघः (सं)</summary>
 
+> शक्तौ सत्याम् अपि, 
+> 
 > ‘‘शरैस् तु **सङ्कुलां कृत्वा**  
 लङ्कां पर-बलार्दनः ।  
 मां **नयेद्** यदि काकुत्स्थस्  
 तत् तस्य स-दृशं भवेत् ॥“  
 (रामायणम् सुन्दरकाण्डम् ३९-३०) 
+> 
+> इत्य्-उक्त-रीत्या  
+रक्षक-हस्त-प्रतीक्षण-पूर्वकं  
+स्व-हस्तम् आकुञ्च्यावस्थानं किलोचितम् 
 
+इति चेत् — 
 </details>
 
 <details><summary>English</summary>
@@ -5661,6 +5699,12 @@ La **respuesta** a esto **es** que
 इदु प्रपन्नऩ्-उडैय उत्तर-कृत्य-विशेषत्तिऱ्क् उदाहरणम् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदं प्रपन्नोत्तर-कृत्य-विशेषस्योदाहरणम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 (Sītā's attitude ) **would be** an **example** of the prapanna's later life  
@@ -5683,6 +5727,13 @@ La **respuesta** a esto **es** que
 
 अल्लाद बोदु उपाय-विधायक-शास्त्रङ्गळ् निरर्थकङ्गळ् आम्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अन्यथा  
+उपाय-विधायक-शास्त्राणि निरर्थकानि स्युः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5718,6 +5769,16 @@ todos los Śāstras que **imponen** la **adopción** de upāyas
 इप् प्रपत्तिक्क् अधिकारिय् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+उपायान्तरे स्वस्य ज्ञानसत्त्वे ऽपि  
+तत्रानुष्ठान-शक्ति-सत्त्वे ऽपि  
+विलम्बाक्षमत्वाभावे सति  
+"झटिति फल-प्रदान-क्षमा प्रपत्तिर् एवास्माकम् उचिते"ति मन्वानो ऽपि  
+अस्याः प्रपत्तेर् अधिकारी । 
+</details>
+
+
 <details><summary>English</summary>
 
 Even when a man **has** both the **knowledge** of the other upāya (viz. upāsana)  
@@ -5746,6 +5807,12 @@ si **piensa** que sólo prapatti **aseguraría** su objetivo (es decir, el **log
 
 इत्तै ‘‘इदं तितीर्षतां पारम्’’ इत्य्-आदिगळिले सॊल्लुगिऱदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् "इदं तितीर्षतां पारम्" इत्यादिषूच्यते । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5783,6 +5850,20 @@ si él **no puede tolerar** la demora)
 ऎऩ्ऱ बडि।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+कथम् इति चेत् — 
+
+> “तितीर्षतां पारम्” 
+
+इत्य् एतत् 
+
+> झटिति अनिष्ट-निवृत्तिर् जायताम् 
+
+इति त्वरावताम् इत्यर्थकम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 for "those who **want to cross**", here, **means**  
@@ -5816,6 +5897,13 @@ porque "los que **quieren cruzar**", aquí, **significa**
 +++(जीवं)+++ धरिक्क माट्टादार्क्क् 
 
 ऎऩ्ऱ बडि।
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+"आनन्त्यम् इच्छताम्" इत्य् एतत्  
+स्व-रूप--प्राप्त- परिपूर्ण-भगवद्-अनुभव-प्राप्तिम् अन्तरा ऽऽत्म-धारणासमर्थानाम्  
+इत्य्-अर्थकम् ॥
 </details>
 
 <details><summary>English</summary>
@@ -5856,6 +5944,15 @@ Aquí también el **significado es**
 ऎऩ्गिऱार्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P359]]  
+इदम् उभयम् अभिप्रेत्य,  
+
+> “स्वभक्तेर् भूम्ना वा” इत्य् आचष्टे ।  
+</details>
+
+
 <details><summary>English</summary>
 
 **Having** these two in mind, Bhattar **says**, "by the intensity of their bhakti." 
@@ -5877,6 +5974,15 @@ Aquí también el **significado es**
 इङ्गु भक्तिय् ऎऩ्ऱदु  
 प्रेम-पारवश्यत्तैच् चॊऩ्ऩ बडि अल्लदु  भक्ति-योगत्तैच् चॊऩ्ऩ बडिय् अऩ्ऱु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्र भक्तिर् इति  
+प्रेम-पारवश्यम् उच्यते ;  
+न तु भक्ति-योगः । 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -5901,6 +6007,14 @@ sino 'intensidad del amor (del Señor)'.
 कडुग प्राप्ति किडैयाद बोद्  
 अऴियुम्+++(=नाश)+++ बडिय् आऩव् अवस्था-विशेषम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्या भक्तेर् भूमा च  
+झटिति प्राप्तेर् अभावे  
+विनाश-पर्यवसायी अवस्था-विशेषः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5928,6 +6042,13 @@ si él **no pudiera tener** un **logro** rápido.
 सु-कृत-विशेष-मूलम् आऩ भगवत्-प्रसादत्ताले वरुम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं केषांचित् व्यवस्थित-भक्ति-योगस्याभावे ऽपि  
+सुकृत-विशेष-मूलक-भगवत्-प्रसादाज् जायेत । 
+</details>
+
+
 <details><summary>English</summary>
 
 Though this **is not** the bhakti yoga enjoined for some adhikārīs,  
@@ -5951,6 +6072,13 @@ por la gracia de Bhagavān debido a actos rectos (en nacimientos anteriores).
 
 इव्व् अवस्थैयुडैय् अवऩुम् प्रपत्तिक्क् अधिकारि। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद्-अवस्थावान् अपि  
+प्रपत्तेर् अधिकारी । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5976,6 +6104,15 @@ El hombre que **tiene** este estado mental también **es** competente para prapa
 उपायान्तरत्तिल् अ-ज्ञर् आय्  
 इव्व् उपायत्तिल् समुदाय-ज्ञान-मात्रम् उडैयर् आय् इरुप्पार्क्कुम् 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+एवम्-भावाद्  
+उपायान्तराज्ञानाम् अस्मिन्न् उपाये समुदाय-ज्ञान-मात्रवताम्,  
+
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore 
@@ -6005,6 +6142,14 @@ y que **tienen** un **conocimiento** de lo que **es** prapatti en general
 उपायान्तरत्तिल् अनुष्ठान-शक्तिय् इल्लादार्क्कुम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्रोपायान्तरे च विशद-ज्ञान-सत्त्वे ऽपि  
+उपायान्तरे ऽनुष्ठान-शक्ति-शून्यानाम्,  
+
+</details>
+
+
 <details><summary>English</summary>
 
 (2) those who **have** a clear **understanding** of prapatti and the other upāya (upāsana)  
@@ -6030,6 +6175,13 @@ pero **carecen** de la capacidad de **adoptar** este último;
 विळम्बम् बॊऱादव् आर्त्य्-अतिशयम् उडैयार्क्कुम्
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एतद् उभय-सत्त्वे ऽपि विलम्बासहत्वातिशयवतां च  
+</details>
+
+
+
 <details><summary>English</summary>
 
 (3) those who, though they **have both** the knowledge and the ability,  
@@ -6053,6 +6205,12 @@ pero **carecen** de la capacidad de **adoptar** este último;
 प्रपत्तियिलेय् इऴियल् आम्। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रपत्तौ प्रवृत्तिर् युज्यते । 
+</details>
+
+
 <details><summary>English</summary>
 
 prapatti **may be adopted** by (the above)
@@ -6075,6 +6233,14 @@ prapatti **puede ser adoptado** por (los anteriores)
 इव् विळम्बाक्षमऩुम्  
 ताऩ् निऩैत्त कालत्तिले फलम् पॆऱुगैक्क् उपायान्तर-रहितऩ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अयं विलम्बाक्षमो ऽपि  
+स्व-संकल्पित-काले फल-प्राप्तेः कृते  
+उपायान्तर-रहितः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6109,7 +6275,11 @@ en el momento en que él lo **quiera**
 
 <details><summary>नीलमेघः (सं)</summary>
 
+इमं प्रकारम् अभिप्रेत्य 
+
 > ‘‘जगति गतिम् अन्याम् अविदुषां’’ 
+
+इत्य् उच्यते । 
 </details>
 
 <details><summary>English</summary>
@@ -6136,10 +6306,17 @@ It **is** in **consideration** of this circumstance that (Bhattar) **wrote**:-
 #### व्यासादयो न मन्दाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्यासादिगळ् अधिकारि-पुरुषर्गळ् आगैयाले  
+व्यासादिगळ् +++(भगवद्-कर्मणि)+++ अधिकारि-पुरुषर्गळ् आगैयाले  
 विळम्ब-क्षमरुम् आय्  
 उपायान्तर-शक्तरुम् आय् इरुप्पार्गळ्। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+व्यासादयो +++(भगवद्-कर्मणि)+++  ऽधिकारि-पुरुषत्वाद् विलम्ब-क्षमा  
+उपायान्तर-शक्ताश् च भवन्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6166,6 +6343,13 @@ y **eran** también **capaces** de realizar el otro upāya (es decir,) upāsana.
 आगैयाल् उपासनत्तिल् इऴिन्दार्गळ् अल्लदु  
 ज्ञान-मान्द्यम्, आदल् विश्वास-मान्द्यम् आदल् उण्ड् आय् इऴिन्दार्गळ् अऩ्ऱु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अत उपासने प्रवृत्ताः,  
+न तु ज्ञानमान्द्याद् वा विश्वासमान्द्याद् वा प्रवृत्ताः ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -6308,6 +6492,13 @@ porque **quitan** todas las dudas de los demás
 इरण्डु शास्त्रमुम् स-प्रयोजनम्।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इत्थम् उपासनप्-रपदनयोर् अधिकारस्य व्यवस्थितत्वात्  
+शास्त्रद्वयम् अपि सप्रयोजनम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 Since in this manner, the competency of a man either for upāsana or for prapatti **is determined**,  
@@ -6330,8 +6521,14 @@ Ambos śāstras (los de upāsana y los de prapatti) **tienen** su propio propós
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इरण्ड् अधिकारिगळुक्कुम्  
-स्व-धर्मत्तिल् प्रपत्ति+++(=उद्देश)+++-वैषम्यमेय् उळ्ळदु। 
+स्व-धर्मत्तिल् प्रतिपत्ति+++(=उद्देश)+++-वैषम्यमेय् उळ्ळदु। 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+द्वयोर् अप्य् अधिकारिणोः स्वधर्मे प्रतिपत्ति+++(=उद्देश)+++-वैषम्यम् एवास्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
