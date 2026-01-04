@@ -4305,6 +4305,14 @@ para **establecerlos** firmemente en él.
 लोक-संग्रहार्थम् आगादु। +++(5)+++
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+न तु संन्यासिनं प्रति निषिद्धस्य गृहस्थैकान्तधर्मस्य  
+संन्यासिना ऽनुष्ठाय प्रदर्शनं  
+लोक-संग्रहार्थं भवितुम् अर्हति । 
+</details>
+
+
 <details><summary>English</summary>
 
 A sannyāsin **adopting** the way of life peculiar to the house-holder  
@@ -4331,6 +4339,13 @@ y **prohibido** a sí mismo
 इदु आज्ञातिलङ्घनम् आम् अत्तऩै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+इदम् आज्ञातिलङ्घनम् इत्य् एवम् एव । 
+</details>
+
+
+
 <details><summary>English</summary>
 
 This **would be** only the **violation** of the commandment (of the Lord). 
@@ -4346,12 +4361,21 @@ Esto **sería** sólo la **violación** del mandamiento (del Señor).
 इदु आज्ञातिलङ्घनमामत्तऩै। 
 </details>
 
+##### कैङ्कर्यं न
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिये प्रपत्त्य्-अधिकारिक्कु निषिद्धत्तैय्  
 अवऩ् ताऩे कैङ्कर्य-बुद्धियालेय् अनुष्ठिक्कैयुम्  
-स्वाधिकार-विरुद्धम्। 
+स्वाधिकार-विरुद्धम्। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[३५६]] इत्थं प्रपत्त्य्-अधिकारिणो निषिद्धस्य  
+तेनैव कैङ्कर्य-बुद्ध्या ऽनुष्ठानम् अपि  
+स्वाधिकार-विरुद्वम् । +++(4)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4381,6 +4405,14 @@ bajo el **malentendido** de que **sería** una forma de kaiṅkarya
 प्रपत्तिक्क् अनपेक्षितङ्गळ् आऩ शास्त्रीयङ्गळै कैङ्कर्य-बुद्धियाले अनुष्ठिप्पार्क्कु विरोधम् इल्लै। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रपत्तेर् अनपेक्षितानि शास्त्रीयाणि  
+कैङ्कर्य-बुद्धया ऽनुतिष्ठतां न विरोधः । 
+
+</details>
+
+
 <details><summary>English</summary>
 
 There **is** nothing wrong in a prapanna **performing** those rites  
@@ -4409,6 +4441,16 @@ con la idea de que **son** (formas de) kaiṅkarya (**servicio**).
 तन्-दाम् जात्य्-आदिगळुक्क् अनुरूपङ्गळुम् आय्  
 तन्-दामुक्कु शक्यङ्गळुम् आऩ सर्व-धर्मङ्गळिऩ्-उडैय स्व-रूप--त्यागम् अङ्गम् आग विधेयम् ऎऩ्ऩुम् पक्षत्तिलुम्
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> स्व-स्व-जात्य्-आद्य्-अनुरूपाणां  
+स्व-स्व-शक्यानां सर्व-धर्माणां स्वरूप-त्यागो ऽङ्गतया विधेय  
+
+इति पक्षे,  
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4441,6 +4483,14 @@ y **capaz** también de **ser realizada** por ellos,
 आचार्य-वन्दनादिगळैयुन् तविर्न्दु  
 पशु-मृग-पक्ष्य्-आदिगळैप् पोले तिरियुम्+++(=भ्रमणम्)+++ बडिय् आम्।+++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रपत्त्य्-उत्तरकाले स्व-वर्णाश्रमाद्य्-अधिकारानुरूपं नियतं कैङ्कर्य-फलं हित्वा  
+अहिंसा--सत्य-वचनादि-सामान्य-धर्मान् आचार्य-वन्दनादीनि च हित्वा  
+पशु-मृग-पक्ष्य्-आदिवद् अटनं प्रसज्येत । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4478,6 +4528,15 @@ y **deambulan** como ganado, bestias y pájaros.
 इङ्गु प्रवृत्ति-रूप-धर्मङ्गळिऩ्-उडैय त्यागमे विवक्षितम् 
 
 ऎऩ्ऩुम् निर्वाहमुम् मन्दम्; 
+</details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> +++("मा हिंसीः"→)+++ निषेध-वाक्य-सिद्धानां निवृत्ति-रूप-धर्माणां स्व-रक्षणार्थ--स्व-व्यापार-रूपत्वाभावेन  
+शरणागत्या सह विरोधाभावाद्  
+अत्र प्रवृत्ति-रूप-धर्माणां त्याग एव विवक्षित  
+
+इति निर्वाहो ऽपि मन्दः । 
 </details>
 
 <details><summary>English</summary>
@@ -4524,6 +4583,14 @@ Este argumento también **es** erróneo.
 लोक-वेद-सिद्धम् इऱे। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+"निवृत्तिर् अपि व्यापार-विशेष" इत्य् एतत्  
+सो ऽपि स्व-रक्षणार्थ इत्य् एतच् च  
+लोक-वेद-सिद्धं किल ॥ 
+</details>
+
+
 <details><summary>English</summary>
 
 Nivṛtti, abstention or renunciation, **is** also a form of activity **arising** from one's will or determination,  
@@ -4554,7 +4621,7 @@ incluso **las abstenciones son actividades**.
 निवृत्तियुम् व्यापारविशेषमॆऩ्ऩुमिडमुम् अदुवुम् स्वरक्षणार्थ मामॆऩ्ऩुमिडमुम्लोकवेदसिद्धमिऱे। 
 </details>
 
-### न कैङ्कर्य-परिहारादि-परित्यागः
+### न कैङ्कर्य-प्रायश्चित्तादि-परित्यागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इव् विधि-बलत्ताले  
@@ -4563,6 +4630,16 @@ incluso **las abstenciones son actividades**.
 
 ऎऩ्ऩिल्; 
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> एतद्-विधि-बलात्  
+प्रवृत्ति-निवृत्ति-रूपान् सर्व-धर्मान् अपि परित्यज्याटनम् एव  
+प्रपन्नस्य शास्त्रार्थो भवत्व् 
+
+इति चेत् — 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4596,6 +4673,14 @@ y que esta **es** la verdadera **intención** de los śāstras,
 अपचार-परिहारङ्गळुम्  
 विरुद्धानुष्ठानमाम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+प्रपन्नैः पूर्वैः, आधुनिकैश् च सावधानैः  
+क्रियमाणानि कैङ्कर्याणि, अपचारपरिहरणानि च  
+विरुद्धानुष्ठानानि स्युः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4632,6 +4717,14 @@ y **no sería necesaria ninguna expiación** para ello).+++(5)+++
 परम-कारुणिकरुम् आय् इरुक्किऱ् अवर्गळुक्कु  
 भ्रम-विप्रलम्भ--संभावऩैयुम् इल्लै।
 </details>
+
+
+<details><summary>नीलमेघः (सं)</summary>
+
+यथा-प्रमाणं प्रपत्ति-संप्रदाय-प्रवर्तकानां परम-कारुणिकानां च सतां  
+भ्रम-विप्रलम्भ-संभावनाऽपि नास्ति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4673,6 +4766,17 @@ y que **son** también sumamente compasivos
 
 ऎऩ्ऩिल्;
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+> यावज् जीवं सर्व-धर्म-त्यागस्य विधेयत्वे  
+किलायं विरोधो भवति ।  
+प्रपत्त्य्-अनुष्ठानक्षणे सर्व-धर्म-स्वरूप-त्यागस्याङ्गत्वे  
+नास्ति हि विरोध 
+
+इति चेत्  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4724,6 +4828,12 @@ La **respuesta** a este argumento es la siguiente:
 अप्-पोदु संभावितम् आऩवऱ्ऱिऩ्-उडैय स्व-रूपत्यागम् विधिक्क वेण्डा +++(प्रत्युत वक्ष्यमाणा निषेद्धव्याः)+++; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+तदा असंभावितानां स्वरूपत्यागो न विधेयः +++(प्रत्युत वक्ष्यमाणा निषेद्धव्याः)+++। 
+</details>
+
+
 <details><summary>English</summary>
 
 There **is no need** at all to **enjoin** the giving up of an **activity**  
@@ -4748,6 +4858,14 @@ o de una **abstención** que **no es** probable que esté presente en ese moment
 अप्-पोद् उण्डाऩ भगवत्-क्षेत्र--वास-- शिखा-यज्ञोपवीतोर्ध्व-पुण्ड्र--धारणादिगळैत् तविर्न्दु कॊण्डु  
 प्रपत्ति पण्णप् प्रसङ्गिक्कुम्। +++(4)+++
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+संभावितानां स्व-रूप-त्यागस्य विधेयत्वे  
+तादात्विकानि भगवत्-क्षेत्र-वास-- शिखा-यज्ञोपवीतोर्ध्व-पुण्ड्र-धारणादीनि परित्यज्य  
+प्रपत्तिः कर्तव्या प्रसज्येत ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4779,6 +4897,18 @@ después de **renunciar** a cosas como las siguientes:--
 
 ऎऩ्गैये त्याग-विधि-पक्षत्तुक्क् उचितम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+[[P357]]  
+
+> अतः, उपासने उपनमद्भिः कर्माद्य्-अङ्गैर्  
+निरपेक्षायाः सत्याः प्रपत्तेर् अङ्गत्वेन  
+के ऽपि धर्मा न स्वीकार्या 
+
+इत्य् एतद् एव त्याग-विधि-पक्षस्योचितम् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4812,6 +4942,14 @@ lo cual **se requiere** como un aṅga (como el karma) para upāsana (meditació
 अद् उण्डागिलुम् विलम्बक्षमर् अल्लादार्क्कुम्  
 इप् प्रपत्तियिल् अधिकारम्।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+अस्मिन् त्याग-विधि-पक्षे  
+उपायान्तर-सामर्थ्य-रहितानां,  
+तत्-सत्त्वे ऽपि विलम्बाक्षमाणां चास्यां प्रपत्ताव् अधिकारः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4849,6 +4987,13 @@ o alguien que, aunque **capaz** de otros upāyas,
 ऒरु प्रमाणङ्गळुक्कुम् विरोधम् इल्लै।
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+एवं सति  
+केषाम् अपि प्रमाणानां विरोधो नास्ति ।
+</details>
+
+
 <details><summary>English</summary>
 
 If we **take** this **view**,  
@@ -4882,6 +5027,16 @@ y aquellos que **imponen** bhakti yoga y similares).
 विवादम् पण्णिऩार्गळ् अऩ्ऱु; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+पूर्वाचार्या अप्य् अत्र  
+
+> सर्व-धर्म--स्व-रूप-त्यागः प्रपत्त्य्-अङ्गम् 
+
+इति, "इत्थं नेति" च विवादं नाकार्षुः । 
+</details>
+
+
 <details><summary>English</summary>
 
 Former ācāryas **did not discuss** the point whether or not the **giving up** of all dharmas in their essential form  
@@ -4906,6 +5061,16 @@ Los antiguos ācāryas **no discutieron** el punto de si el **abandono** de todo
 प्रपत्तियिऩ्-उडैय नैरपेक्ष्यमुम्  
 इच् चरम-श्लोकत्तिल् ऎन्द पदङ्गळिले विवक्षिक्कैय् उचितम् ऎऩ्ऱु विमर्शित्तार्गळ् अत्-तऩै।
 </details>
+
+<details><summary>नीलमेघः (सं)</summary>
+
+किं तु प्रपत्त्य्-अधिकार-भूतस्य +आकिञ्चन्यस्य  
+प्रपत्ति-गतस्य नैरपेक्ष्यस्य च  
+अस्मिन् चरमश्लोके केषु पदेषु विवक्षणम् उचितम्  
+इति विममृशुर् इत्य् एवम् एव ।
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4942,7 +5107,6 @@ y qué palabras (**indicaron**) la idea de que prapatti **no requería** (ningú
 एक-शब्देन **वक्तीति**  
 केचिद्वाक्य-विदो **विदुः** ॥  
 </details>
-
 
 <details><summary>English</summary>
 
@@ -5121,12 +5285,15 @@ eso **se demostró** que **no tenía** ningún fundamento por parte de maestros 
 
 <details><summary>नीलमेघः (सं)</summary>
 
+> एवं सति 
+>
 > > १८‘‘इदं +++(←प्रपदनम्)+++ शरणम् अ-ज्ञानाम्,  
 इदम् एव **विजानताम्** ।  
 इदं **तितीर्षतां** पारम्  
 इदम् +++(कैङ्कर्यस्य)+++ आनन्त्यम् **इच्छताम्** ॥’’  
 (लक्ष्मीतन्त्रम् १७-१००) 
-
+>
+> इति
 </details>
 
 <details><summary>English</summary>
@@ -5180,6 +5347,8 @@ que **quieren** (inmediatamente) **rendir** constante **servicio** al Señor",
 स्व-भक्तेर् भूम्ना वा, जगति गतिम् अन्याम् **अविदुषाम्**’’  
 +++(हरिर् एवोपायः)+++  
 (भट्टर्-मुक्तकम्) 
+>
+> इति
 
 </details>
 
@@ -5221,6 +5390,15 @@ y debido a la intensidad del bhakti ".
 ऎऩ्ऩिल्; 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+> उच्यमानस्याधिकारभेदस्य सद्भावः कथम्  
+
+[[P358]]
+इति चेत्-
+</details>
+
+
 <details><summary>English</summary>
 
 \- it **may be asked** 
@@ -5259,6 +5437,13 @@ La **respuesta** a esta **pregunta es** la **siguiente**:-
 शास्त्रीयम् ऒऩ्ऱुम् अऱियाय् ऒऴिगैय् अऩ्ऱु। 
 </details>
 
+<details><summary>नीलमेघः (सं)</summary>
+
+अत्रोक्तम् अज्ञानं  
+न पश्वादिवत् शास्त्रीयस्य कस्याप्य् अज्ञानम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 The ajñānam or ignorance **referred to** in the word (ajñānāt) in Lakṣmī Tantra and avidyātah in Bhattar's śloka  
@@ -5285,6 +5470,8 @@ de lo que **se afirma** en los śāstras.
 प्रपत्ति-तऩ्ऩिलुम् सूक्ष्म-विशेषङ्गळ् अऱियामैय् आदल् आम्  
 अत्-तऩै। 
 </details>
+
+
 
 <details><summary>English</summary>
 
@@ -6114,9 +6301,10 @@ porque **quitan** todas las dudas de los demás
 व्यासादिषु तु नैवैषा नीतिस्संशयघातिषु ॥
 </details>
 
+#### व्यवस्था, सप्रयोजनता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पडि उपासन-प्रपदनङ्गळुक्क् अधिकारम् व्यवस्थितम् आगैयाल्  
+इप्-पडि उपासन-प्रपदनङ्गळुक्क् अधिकारं व्यवस्थितम् आगैयाल्  
 इरण्डु शास्त्रमुम् स-प्रयोजनम्।
 </details>
 
@@ -6138,12 +6326,35 @@ Ambos śāstras (los de upāsana y los de prapatti) **tienen** su propio propós
 इप्पडि उपासनप्रपदनङ् गळुक्कधिकारम् व्यवस्थितमागैयाल् इरण्डु शास्त्रमुम् सप्रयोजनम्।
 </details>
 
+#### धर्मे प्रतिपत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इरण्ड् अधिकारिगळुक्कुम्  
+स्व-धर्मत्तिल् प्रपत्ति+++(=उद्देश)+++-वैषम्यमेय् उळ्ळदु। 
+</details>
+
+<details><summary>English</summary>
+
+The difference between the two adhikāris in regard to the rites and observances of their caste and Asrama  
+**is** only the difference of the purpose for which or the thought with which they **are performed**. 
+</details>
+
+<details><summary>Español</summary>
+
+La diferencia entre los dos adhikāris con respecto a los ritos y observancias de su casta y Asrama.  
+**es** sólo la diferencia del propósito con el que o el pensamiento con el que **se realizan**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इरण्डधिकारिकळुक्कुम् स्वधर्मत्तिल् प्रपत्तिवैषम्यमेयुळ्ळदु। 
+</details>
 
 
 
 
-
-The difference between the two adhikāris in regard to the rites and observances of their caste and disrama is only the difference of the purpose for which or the thought with which they are performed. It is true that, in the case of the prapanila, the performance of any rite or observance will prevent the attainment of his eod, because, like the Brahma missile, it would cease to have any effect, if any other rite is performed to attain the same end. But if these rites are performed for their own sake (without the desire for any fruit) or for such things as the glory of Bhagavān or the welfare of Bhāgavatas, there is no impropriety (and prapatti would not lose its efficacy).
+It is true that, in the case of the prapanila, the performance of any rite or observance will prevent the attainment of his eod, because, like the Brahma missile, it would cease to have any effect, if any other rite is performed to attain the same end. But if these rites are performed for their own sake (without the desire for any fruit) or for such things as the glory of Bhagavān or the welfare of Bhāgavatas, there is no impropriety (and prapatti would not lose its efficacy).
 
 But it may be asked by some:-“Even if it is admitted that the giving up of the dharmas themselves is not enjoined, it is possible that ‘parityajya’ ( having given up) may mean the giving up of (only) the thought that they are upāyas. (The answer to this question is as follows:) "In those tests which refer to the activities of the prapanna after the performance of prapatti, it may be held rightly that what is ordained is the giving up of the thought that these activities are upāyas. But the carama-śloka is a text which enjoins an upāya (before prapatti) and not what should be done after it, and the word parityajya occurs there, Therefore this interpretation would result in the injunction that these dharmas in their essential form should be performed as aṅgas or accessories to prapatti, but without the thought that they are upāyas. If this view were accepted, then, the view that certain things should be performed after prapatti merely for their own sake (without any aim, object or the desire for any fruit) and as mere service (to the Lord) would become untenable. (For they would still be aṅgas or accessories and could not be an end in themselves ). Nor could there be, in that case, the absence of any requisite or accessory dharma which is said to be the unique feature of prapatti Thus this upāya would cease to be within the competence of the man destitute of all upāyas. This is how it would result. There is no need to enjoin here the giving up of the thought of their being upāyas in regard to those dharmas that are not upāyas. So the performance of those dharmas which are upāyas without the thought that they are upāyas would only be the adherence to such upāyas as the old upāsanas. If it is maintained that the word parityajya means the giving up of the thought of their being upāyas, then there would have been no need to reconcile the conflicting statements about the ordinance concerning abandonment and that about performance by saying that the difference is due to the persons competent for each of them. It is only if the text is held to enjoin the giving up of the dharmas themselves, there would arise any such conflict. If it is held that the adoption of karma, jñāna and bhakti , but without the thought that they are upāyas is an aṅga to prapatti, there would be no essential difference between the bhakta and the prapanna. The difference would only be nominal.)  the man who has bhakti  as the main and independent means and prapatti as an accessory to it could be called a bhakta and the man who adopts prapatti as the main and independent means and bhakti  as an accessory to it would be called a prapanna, but both would perform the same dharmas and there would be no difference in their action.
 
