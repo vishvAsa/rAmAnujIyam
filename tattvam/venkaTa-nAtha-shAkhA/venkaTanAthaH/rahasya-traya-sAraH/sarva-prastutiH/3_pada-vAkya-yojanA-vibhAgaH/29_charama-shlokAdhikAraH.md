@@ -6517,7 +6517,7 @@ Ambos śāstras (los de upāsana y los de prapatti) **tienen** su propio propós
 इप्पडि उपासनप्रपदनङ् गळुक्कधिकारम् व्यवस्थितमागैयाल् इरण्डु शास्त्रमुम् सप्रयोजनम्।
 </details>
 
-#### धर्मे प्रतिपत्तिः
+#### स्व-धर्मे प्रतिपत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इरण्ड् अधिकारिगळुक्कुम्  
@@ -6545,15 +6545,188 @@ La diferencia entre los dos adhikāris con respecto a los ritos y observancias d
 
 <details><summary>मूलम्</summary>
 
-इरण्डधिकारिकळुक्कुम् स्वधर्मत्तिल् प्रपत्तिवैषम्यमेयुळ्ळदु। 
+इरण्डधिकारिकळुक्कुम् स्वधर्मत्तिल् प्रतिपत्तिवैषम्यमेयुळ्ळदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपन्नक्कुक् कोलिऩ फलत्तैप् पऱ्ऱ  
+वेऱ् ऒऩ्ऱैय् अनुष्ठिक्किल्  
+ब्रह्मास्त्र-बन्ध-न्यायत्ताले विरोधम् उण्ड् आऩालुम् 
+</details>
+
+<details><summary>English</summary>
+
+It **is** true that, in the case of the prapanna,  
+the **performance** of any **rite** or **observance**  
+**will prevent** the **attainment** of his end,  
+because, like the Brahma missile,  
+it **would cease** to have any effect,  
+if any other rite **is performed** to **attain** the same end. 
+</details>
+
+<details><summary>Español</summary>
+
+**Es** cierto que, en el caso del prapanna,  
+la **realización** de cualquier **rito** u **observancia**  
+**impedirá** la **consecución** de su fin,  
+porque, como el misil Brahma,  
+**dejaría** de **tener** algún efecto,  
+si **se realiza** cualquier otro rito para **alcanzar** el mismo fin.
 </details>
 
 
+<details><summary>मूलम्</summary>
+
+प्रपन्नक्कुक् कोलिऩफलत् तैप्पऱ्ऱ वेऱॊऩ्ऱैयनुष्ठिक्किल् ब्रह्मास्त्रबन्धन्यायत्ताले विरोधमुण्डाऩालुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वयं-प्रयोजनम् आगव् आदल्  
+भगवद्-भागवत-समृद्ध्य्-आदि- फलान्तरत्तैप् पऱ्ऱव् आदल्  
+वेऱ् ऒऩ्ऱैय् अनुष्ठित्ताल्  
+विरोधम् इल्लै।
+</details>
+
+<details><summary>English</summary>
+
+But if these rites **are performed** for their own sake  
+(without the desire for any fruit)  
+or for such things as the glory of Bhagavān or the welfare of Bhāgavatas,  
+there **is no** impropriety  
+(and prapatti **would not lose** its efficacy).
+</details>
+
+<details><summary>Español</summary>
+
+Pero si estos ritos **se realizan** por sí mismos  
+(sin deseo de ningún fruto)  
+o por cosas tales como la gloria de Bhagavān o el bienestar de los Bhāgavatas,  
+**No hay** ninguna incorrección  
+(y prapatti **no perdería** su eficacia).
+</details>
 
 
-It is true that, in the case of the prapanila, the performance of any rite or observance will prevent the attainment of his eod, because, like the Brahma missile, it would cease to have any effect, if any other rite is performed to attain the same end. But if these rites are performed for their own sake (without the desire for any fruit) or for such things as the glory of Bhagavān or the welfare of Bhāgavatas, there is no impropriety (and prapatti would not lose its efficacy).
+<details><summary>मूलम्</summary>
 
-But it may be asked by some:-“Even if it is admitted that the giving up of the dharmas themselves is not enjoined, it is possible that ‘parityajya’ ( having given up) may mean the giving up of (only) the thought that they are upāyas. (The answer to this question is as follows:) "In those tests which refer to the activities of the prapanna after the performance of prapatti, it may be held rightly that what is ordained is the giving up of the thought that these activities are upāyas. But the carama-śloka is a text which enjoins an upāya (before prapatti) and not what should be done after it, and the word parityajya occurs there, Therefore this interpretation would result in the injunction that these dharmas in their essential form should be performed as aṅgas or accessories to prapatti, but without the thought that they are upāyas. If this view were accepted, then, the view that certain things should be performed after prapatti merely for their own sake (without any aim, object or the desire for any fruit) and as mere service (to the Lord) would become untenable. (For they would still be aṅgas or accessories and could not be an end in themselves ). Nor could there be, in that case, the absence of any requisite or accessory dharma which is said to be the unique feature of prapatti Thus this upāya would cease to be within the competence of the man destitute of all upāyas. This is how it would result. There is no need to enjoin here the giving up of the thought of their being upāyas in regard to those dharmas that are not upāyas. So the performance of those dharmas which are upāyas without the thought that they are upāyas would only be the adherence to such upāyas as the old upāsanas. If it is maintained that the word parityajya means the giving up of the thought of their being upāyas, then there would have been no need to reconcile the conflicting statements about the ordinance concerning abandonment and that about performance by saying that the difference is due to the persons competent for each of them. It is only if the text is held to enjoin the giving up of the dharmas themselves, there would arise any such conflict. If it is held that the adoption of karma, jñāna and bhakti , but without the thought that they are upāyas is an aṅga to prapatti, there would be no essential difference between the bhakta and the prapanna. The difference would only be nominal.)  the man who has bhakti  as the main and independent means and prapatti as an accessory to it could be called a bhakta and the man who adopts prapatti as the main and independent means and bhakti  as an accessory to it would be called a prapanna, but both would perform the same dharmas and there would be no difference in their action.
+स्वयंप्रयोजनमागवादल् भगवद्भागवतसमृद्ध्यादि फलान्तरत्तैप्पऱ्ऱवादल् वेऱॊऩ्ऱैयनुष्ठित्ताल् विरोधमिल्लै।
+</details>
+
+### नोपायत्व-धी-त्यागः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडि स्व-रूप--त्यागङ् गूडाद् ऒऴिन्दालुम्  
+उपायत्व-बुद्धि-त्यागम् पण्णुगै  
+परित्यज्यवुक्कुप् पॊरुळ् आऩालोव् 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+But it **may be asked** by some:-
+
+> “Even if it **is admitted** that  
+the **giving up** of the dharmas themselves **is not enjoined**,  
+it **is possible** that ‘parityajya’ ( **having given up**)  
+**may mean** the giving up of (only) the thought  
+that they **are** upāyas. 
+</details>
+
+<details><summary>Español</summary>
+
+Pero algunos **pueden preguntar**: -
+
+> “Incluso si **se admite** que  
+el **abandono** de los dharmas mismos **no está ordenado**,  
+**es posible** que ‘parityajya’ (**habiéndose rendido**)  
+**puede significar** el **abandono** de (sólo) el pensamiento  
+que ellos **son** upāyas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि स्वरूपत्यागङ्गूडादॊऴिन्दालुम् उपायत्वबुद्धित्यागम् पण्णुगै परित्यज्यवुक्कुप् पॊरुळाऩालोवॆऩ्ऩिल्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपन्नऩुक्कुक्क् उत्तर-कृत्य-गोचरङ्गळ् आऩ वाक्यङ्गळिल्  
+उपाय-बुद्धि-त्यागं विधिक्किऱव् इडम् उचितम्। 
+</details>
+
+<details><summary>English</summary>
+
+(The **answer** to this question **is** as follows:) 
+
+In those texts which **refer** to the **activities** of the prapanna after the **performance** of prapatti,  
+it **may be held** rightly that  
+what **is ordained is** the **giving up** of the **thought** that these **activities** are upāyas. 
+</details>
+
+<details><summary>Español</summary>
+
+(La **respuesta** a esta pregunta **es** la siguiente:) 
+
+En aquellos textos que **se refieren** a las **actividades** del prapanna después de la **ejecución** de prapatti,  
+**puede sostenerse** con razón que  
+lo que **está ordenado** es **el abandono** del **pensamiento** de que estas **actividades** son upāyas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपन्नऩुक्कुक्कुत्तरकृत्यगोचरङ्गळाऩ वाक्यङ्गळिल् उपायबुद्धित्यागम् विधिक्किऱविडमुचितम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु उत्तर-कृत्य-परम् अऩ्ऱिक्के  
+उपाय-विधायकम् आय् इरुक्किऱव् इव्-वाक्यत्तिऱ् सॊल्लुगैयाले 
+</details>
+
+<details><summary>English</summary>
+
+But the carama-śloka **is** a text which **enjoins** an upāya (before prapatti)  
+and not what **should be done** after it,  
+and the word parityajya **occurs** there.
+</details>
+
+<details><summary>Español</summary>
+
+Pero el carama-śloka **es** un texto que **ordena** un upāya (antes de prapatti)  
+y **no** lo que **debe hacerse** después de ello,  
+y la palabra parityajya **ocurre** allí.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु उत्तरकृत्यपरमऩ्ऱिक्के उपायविधायकमायिरुक्किऱ विव्वाक्यत्तिऱ् सॊल्लुगैयाले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > इब्-+++(→उपायता-)+++बुद्धि-त्याग-पूर्वकम् आग धर्म--स्व-रूपम्  
+प्रपत्तिक्क् अङ्गम् आगव् अनुष्ठेयम् 
+> 
+> ऎऩ्ऱु फलिक्कैयाल्  
+> स्वयं-प्रयोजनम् आऩ केवलकैङ्कर्यम् उत्तरकृत्यम् 
+
+ऎऩ्गिऱ मतम् सिद्धियादु।
+</details>
+
+<details><summary>मूलम्</summary>
+
+इब्बुद्धित्यागपूर्वकमाग धर्मस्वरूपम् प्रपत्तिक्कङ्गमागवनुष्ठेयमॆऩ्ऱु फलिक्कैयाल् स्वयंप्रयोजनमाऩ केवलकैङ्कर्यमुत्तरकृत्यमॆऩ्गिऱ मतम् सिद्धियादु।
+</details>
+
+
+Therefore this interpretation would result in the injunction that these dharmas in their essential form should be performed as aṅgas or accessories to prapatti, but without the thought that they are upāyas. If this view were accepted, then, the view that certain things should be performed after prapatti merely for their own sake (without any aim, object or the desire for any fruit) and as mere service (to the Lord) would become untenable. (For they would still be aṅgas or accessories and could not be an end in themselves ). Nor could there be, in that case, the absence of any requisite or accessory dharma which is said to be the unique feature of prapatti Thus this upāya would cease to be within the competence of the man destitute of all upāyas. This is how it would result. There is no need to enjoin here the giving up of the thought of their being upāyas in regard to those dharmas that are not upāyas. So the performance of those dharmas which are upāyas without the thought that they are upāyas would only be the adherence to such upāyas as the old upāsanas. If it is maintained that the word parityajya means the giving up of the thought of their being upāyas, then there would have been no need to reconcile the conflicting statements about the ordinance concerning abandonment and that about performance by saying that the difference is due to the persons competent for each of them. It is only if the text is held to enjoin the giving up of the dharmas themselves, there would arise any such conflict. If it is held that the adoption of karma, jñāna and bhakti , but without the thought that they are upāyas is an aṅga to prapatti, there would be no essential difference between the bhakta and the prapanna. The difference would only be nominal.)  the man who has bhakti  as the main and independent means and prapatti as an accessory to it could be called a bhakta and the man who adopts prapatti as the main and independent means and bhakti  as an accessory to it would be called a prapanna, but both would perform the same dharmas and there would be no difference in their action.
 
 It may be argued that, in regard to accessory activity, there need not be fullness or perfection of performance and that some short-comings might be allowed therein ; but this argument is not sound. Has it not been stated:-"A rite or observance performed for the attainment of a certain fruit will yield the desired fruit, only when all the accessory rites or aṅgas are duly performed?" (Pūrva Mīmāmsā).
 
