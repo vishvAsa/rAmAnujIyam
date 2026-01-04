@@ -7390,13 +7390,13 @@ Así este upāya **dejaría** de **estar** dentro de la competencia del hombre *
 
 ऎङ्ङऩेय् ऎऩ्ऩिल्;  
 उपायम् अल्लाद् अवऱ्ऱिल्  
-उपाय-बुद्धि-त्यागम् इङ्गु विधिक्क वेण्डा।
+उपाय-बुद्धि-त्यागम् इङ्गु विधिक्क वेण्डा +++(प्रत्युतोपायेष्व् एव)+++।
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 कथम् इति चेत् —  
-अनुपायेषूपायबुद्धि-त्यागो ऽत्र न विधेयः । 
+अनुपायेषूपायबुद्धि-त्यागो ऽत्र न विधेयः +++(प्रत्युतोपायेष्व् एव)+++। 
 </details>
 
 
@@ -7425,36 +7425,64 @@ con respecto a aquellos dharmas que **no son** upāyas.
 
 उपायम् आऩ्-अवऱ्ऱिल्  
 उपाय-बुद्धि-त्यागम् पण्णि अनुष्ठिक्कैय् आवदु  
-पऴैयव् उपासनादिगळिल् निलै  
-उपाय-बुद्धि-त्यागम् पॊरुळ् आगच् चॊल्लुगिऱ पक्षत्तिल्  
+पऴैयव् उपासनादिगळिल् निलैय् आम्  
++++(येन फलेद् एव)+++।   
 </details>
 
+<details><summary>English</summary>
+
+So the **performance** of those dharmas which **are** upāyas  
+without the **thought** that they **are** upāyas  
+**would** only **be** the **adherence** to such upāyas as the old upāsanas.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Entonces la **ejecución** de aquellos dharmas que **son** upāyas  
+sin el **pensamiento** de que **son** upāyas  
+**sería** sólo **sería** la **adherencia** a upāyas como los antiguos upāsanas.
+</details>
 
 
 <details><summary>मूलम्</summary>
 
-उपायमाऩवऱ्ऱिल् उपायबुद्धि त्यागम्बण्णि अनुष्ठिक्कैयावदु पऴैयवुपासनादिगळिल् निलै उपायबुद्धित्यागम् पॊरुळागच् चॊल्लुगिऱ पक्षत्तिल्
+उपायमाऩवऱ्ऱिल् उपायबुद्धि त्यागम्बण्णि अनुष्ठिक्कैयावदु पऴैयवुपासनादिगळिल् निलैयाम्। 
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्याग विधिक्कुम् अनुष्ठान-विधिक्कुम्  
-अधिकारि-भेदत्ताले विरोधम् परिहरित्तव् इडमुम् अनपेक्षित वचनम्।
+इङ्गु उपाय-बुद्धि-त्यागम् पॊरुळ् आगच् चॊल्लुगिऱ पक्षत्तिल्  
+
+त्याग-विधिक्कुम्, अनुष्ठान-विधिक्कुम् -  
+अधिकारि-भेदत्ताले विरोधम् परिहरित्तव् इडमुम्  
+अनपेक्षित वचनम्।
 </details>
+
+<details><summary>English</summary>
+
+If it **is maintained** that the word "parityajya" **means** the giving up of the thought of their **being** upāyas,  
+then there **would have been no need** to **reconcile** the conflicting statements about the **ordinance concerning abandonment**  
+and that about **performance** by **saying** that the difference **is** due to the persons competent for each of them.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Si **se mantiene** que la palabra "parityajya" **significa** el **abandono** del **pensamiento** de **ser** upāyas,  
+entonces **no habría sido necesario** **conciliar** las declaraciones contradictorias sobre la **ordenanza relativa al abandono**  
+y eso del **rendimiento** al **decir** que la diferencia **se** se debe a las personas competentes para cada uno de ellos. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
+इङ्गु उपायबुद्धित्यागम् पॊरुळागच्चॊल्लुगिऱ पक्षत्तिल्  
 त्याग विधिक्कुमनुष्ठानविधिक्कुम् अधिकारिभेदत्ताले विरोधम्परिहरित्तविडमुमनपेक्षित वचनम्।
 </details>
 
 
-So the **performance** of those dharmas which **are** upāyas  
-without the **thought** that they **are** upāyas  
-**would** only **be** the **adherence** to such upāyas as the old upāsanas.  
-If it **is maintained** that the word parityajya **means** the giving up of the thought of their **being** upāyas,  
-then there **would have been no need** to **reconcile** the conflicting statements about the **ordinance concerning abandonment**  
-and that about **performance** by **saying** that the difference **is** due to the persons competent for each of them.  
 It is only if the text is held to enjoin the giving up of the dharmas themselves, there would arise any such conflict. If it is held that the adoption of karma, jñāna and bhakti , but without the thought that they are upāyas is an aṅga to prapatti, there would be no essential difference between the bhakta and the prapanna. The difference would only be nominal.)  the man who has bhakti  as the main and independent means and prapatti as an accessory to it could be called a bhakta and the man who adopts prapatti as the main and independent means and bhakti  as an accessory to it would be called a prapanna, but both would perform the same dharmas and there would be no difference in their action.
 
 It may be argued that, in regard to accessory activity, there need not be fullness or perfection of performance and that some short-comings might be allowed therein ; but this argument is not sound. Has it not been stated:-"A rite or observance performed for the attainment of a certain fruit will yield the desired fruit, only when all the accessory rites or aṅgas are duly performed?" (Pūrva Mīmāmsā).
