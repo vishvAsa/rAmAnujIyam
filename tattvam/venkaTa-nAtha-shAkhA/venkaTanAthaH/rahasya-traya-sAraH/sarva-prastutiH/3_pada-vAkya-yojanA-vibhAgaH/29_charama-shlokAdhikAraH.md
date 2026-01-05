@@ -7645,7 +7645,7 @@ only when all the accessory rites or aṅgas are duly **performed**?" (Pūrva M�
 ‘‘सकलाङ्गोपसंहारे काम्यं कर्म प्रसिध्यति’’ ऎऩ्ऱु चॊल्लप्पट्टदिऱे।  
 </details>
 
-#### सङ्ग्रहः
+### त्याग-विधि-भ्रम-सङ्ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतस् स्वरूप-त्यागोक्तौ  
@@ -7822,13 +7822,327 @@ y la **prestación** de **servicio** y similares también **serán** apropiadas.
 उपायस्य प्रभावश्च कैङ्कर्यादि च सुस्थिरम् ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् 
+
+> इङ्गु सर्व-धर्मङ्गळिऩ्-उडैय स्व-रूप--त्यागत्तै अङ्गम् आग विधिक्किऱद् 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+Therefore the **view** that here (in parityajya) the **giving up** of all dharmas, (rites, observances and the like) **is enjoined** (for prapatti)  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, la **visión** de que aquí (en parityajya) **se ordena** (para prapatti) **abandonar** todos los dharmas, (ritos, observancias y similares)
+</details>
 
 
-Therefore the view that here (in parityajya) the giving up of all dharmas, (rites, observances and the like) is enjoined (for prapatti) and the view that what is enjoined to be given up is only the thought of their being upāyas and the thought that they are aṅgas to it -- these views conflict with such śāstras as ordain the observance of the commandments, with the śāstras which state that prapatti does not require anything else, with the traditional observances of former ācāryas and with the code of conduct followed by virtuous men in former times who had become prapannas. Thus owing to the objections pointed out so far, the giving up of all dharmas is not an aṅga to prapatti ; nor is the performance of these dharmas in their essential form an aṅga (without the thought of their being upāyas or aṅgas to prapatti), because as has been stated before, prapatti does not require the performance of any other dharma. Therefore this injunction or ordinance about ‘giving up' (tyāga) has, for its purport, the statement that prapatti does not require any (aid) from any other dharma.
+<details><summary>मूलम्</summary>
 
-To make this denial, there must be a wrong presumption of something that has to be denied. If it is asked what dharmas (rites, observances and the like) are presumed (wrongly) as being requisite and are then stated to be unnecessary (the answer is as follows) - In the vidyās or forms of meditation (upāsanas) enjoined in Vedānta, some of the accessories which appear as aṅgas in certain vidyās, such as the rites, duties and observances of the varṇas and the āśramas and also such things as meditation on the route to mokṣa are required also in other vidyās or forms of meditation. So also there may, at first, be a (wrong) presumption that in nyāsavidyā too, these might be required as accessory. To correct this presumption, here (in parityajya), these dharmas which might be thought of (wrongly) on the analogy of upāsanas as aṅgas (to prapatti) are not required for it. This is the right interpretation of the text here.
+आगैयाल् इङ्गु सर्वधर्मङ्गळिऩुडैय स्वरूपत्यागत्तै अङ्गमाग विधिक्किऱदॆऩ्ऱुम्, 
+</details>
 
-Though these dharmas cannot be considered as accessory aids (to prapatti) as they are stated to be for upāsana in Brahma Sūtras (3.4 -33), yet as stated in another sūtra (3 - 4 - 32), the karmas ordained for the different āśramas have to be performed, as they are enjoined as ordinances or commands; there is nothing to prevent their perfornuance by the prapanna (since commandments have to be obeyed as such (and for no other reason).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अवैय् अङ्गम् आम् बडि  
+इङ्गु बुद्धि-विशेष-त्याग-मात्रम् विधिक्किऱद् 
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ पक्षङ्गळ् 
+</details>
+
+<details><summary>English</summary>
+
+and the **view** that what **is enjoined** to be given up **is** only the **thought** of their being upāyas  
+and the **thought** that they are aṅgas to it --  
+</details>
+
+<details><summary>Español</summary>
+
+y la **visión** de que lo que **se recomienda** abandonar **es** sólo el **pensamiento** de ser upāyas  
+y el **pensamiento** de que son aṅgas para ello—
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवैयङ्गमाम्बडि इङ्गु बुद्धिविशेषत्यागमात्रम् विधिक्किऱदॆऩ्ऱुञ् जॊल्लुगिऱ पक्षङ्गळ् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आज्ञानुपालनादि-शास्त्रङ्गळुक्कुम्  
+प्रपत्तिक्कु नैरपेक्ष्यञ् जॊल्लुगिऱ शास्त्रङ्गळुक्कुम्  
+पूर्वाचार्य-संप्रदायङ्गळुक्कुम्  
+प्रपन्नराय्प् पोन्द पूर्व-शिष्टर्गळ्-उडैय आचारत्तुक्कुम्  
+विरुद्धङ्गळ् आम्।
+</details>
+
+<details><summary>English</summary>
+
+these **views** conflict 
+
+with such śāstras as **ordain** the **observance** of the commandments,  
+with the śāstras which state that prapatti **does not require** anything else,  
+
+with the traditional **observances** of former ācāryas  
+and with the code of conduct **followed** by virtuous men in former times  
+**who had become** prapannas. 
+
+</details>
+
+<details><summary>Español</summary>
+
+estas **vistas entran** en **conflicto** 
+
+con tales śāstras como **ordenar** la **observancia** de los mandamientos,  
+con los śāstras que afirman que prapatti **no requiere** nada más,  
+
+con las **observancias** tradicionales de los antiguos ācāryas  
+y con el código de conducta **seguido** por los hombres virtuosos en tiempos pasados  
+**que se había convertido** en prapannas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आज्ञानुपालनादिशास्त्रङ्गळुक्कुम् प्रपत्तिक्कु नैरपेक्ष्यञ् जॊल्लुगिऱ शास्त्रङ्गळुक्कुम् पूर्वाचार्यसंप्रदायङ्गळुक्कुम् प्रपन्नराय्प् पोन्द पूर्वशिष्टर्गळुडैय आचारत्तुक्कुम् विरुद्धङ्गळाम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् उक्त-दोषङ्गळाले  
+धर्मङ्गळिऩ्-उडैय स्व-रूप--त्यागमुम् प्रपत्तिक्क् अङ्गम् अऩ्ऱु; 
+</details>
+
+<details><summary>English</summary>
+
+Thus owing to the **objections pointed out** so far,  
+the **giving up** of all dharmas **is not** an aṅga to prapatti ;  
+
+</details>
+
+<details><summary>Español</summary>
+
+Así, debido a las **objeciones señaladas** hasta ahora,  
+el **abandono** de todos los dharmas **no es** un aṅga para prapatti;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियुक्त-दोषङ्गळाले धर्मङ्गळिऩुडैय स्वरूपत्यागमुम् प्रपत्तिक्कङ्गमऩ्ऱु; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उक्त-नैरपेक्ष्यत्ताले अन्द धर्मङ्गळिऩ्-उडैय स्व-रूपमुम् इदुक्क् अङ्गम् अऩ्ऱु। 
+</details>
+
+<details><summary>English</summary>
+
+nor **is** the performance of these dharmas in their essential form an aṅga (without the **thought** of their **being** upāyas or aṅgas to prapatti),  
+because as **has been stated** before,  
+prapatti **does not require** the **performance** of any other dharma. 
+</details>
+
+<details><summary>Español</summary>
+
+ni **es** la **realización** de estos dharmas en su forma esencial un aṅga (sin el **pensamiento** de que **sean** upāyas o aṅgas para prapatti),  
+porque como **se ha dicho** antes,  
+prapatti **no requiere** la **realización** de ningún otro dharma.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उक्तनैरपेक्ष्यत्ताले अन्द धर्मङ्गळिऩुडैय स्वरूपमुमिदुक्कङ्गमऩ्ऱु। 
+</details>
+
+### उपासनाद्य्-अङ्ग-निरपेक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आगैयाल् इङ्गु मऱ्ऱ् ऒरु धर्मङ्गळालुम्  
+इप् प्रपत्तिक्क् अपेक्षैय् इल्लैय्  
+
+ऎऩ्गैयिले  
+इत् त्याग-विधिक्कुत् तात्पर्यम्।
+</details>
+
+<details><summary>English</summary>
+
+Therefore this **injunction** or **ordinance** about **‘giving up'** (tyāga)  
+**has**, for its purport,  
+the **statement** that prapatti **does not require** any (aid) from any other dharma.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, este **mandato** u **ordenanza** sobre **‘renunciar'** (tyāga)  
+**tiene**, por su significado,  
+la **declaración** de que prapatti **no requiere** ninguna (ayuda) de ningún otro dharma.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयालिङ्गु मऱ्ऱॊरु धर्मङ्गळालुमिप् प्रपत्तिक्कपेक्षैयिल्लै यॆऩ्गैयिले इत् त्यागविधिक्कुत् तात्पर्यम्।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि प्रतिषेधिक्कैक्कु प्रसङ्गम् वेणुम्।
+</details>
+
+<details><summary>English</summary>
+
+To **make** this **denial**,  
+there **must be** a wrong **presumption** of something that **has to be denied**. 
+</details>
+
+<details><summary>Español</summary>
+
+Para **hacer** esta **negación**,  
+**debe haber** una **presunción** errónea de algo que **debe negarse**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि प्रतिषेधिक्कैक्कु प्रसङ्गम् वेणुम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु ऎऩ्ऩ धर्मङ्गळ् प्रसक्तङ्गळ् आय् प्रतिषेधिक्कप् पडुगिऱऩव् ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>English</summary>
+
+If it **is asked** what dharmas (rites, observances and the like) **are presumed** (wrongly) as being requisite  
+and **are** then **stated** to be unnecessary (the answer **is** as follows) - 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se pregunta** qué dharmas (ritos, observancias y similares) **se presumen** (erróneamente) como requisitos  
+y **se** luego **se indica** que es innecesario (la respuesta **es** la siguiente) -
+</details>
+
+<details><summary>मूलम्</summary>
+
+इङ्गु ऎऩ्ऩ धर्मङ्गळ् प्रसक्तङ्गळाय् प्रतिषेधिक्कप्पडुगिऱऩ वॆऩ्ऩिल्; 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वेदान्त-चोदितैगळ् आऩ विद्यैगळिल्  
+ऒरु विद्यैगळिलेय् ओदि  
+अङ्गङ्गळ् आय् तोऱ्ऱिऩ वर्णाश्रम-धर्मङ्गळुम्, गति-चिन्तनादिगळुम्,  
+विद्यान्तरत्तिलुम् वरुमाप् पोले  
+न्यास-विद्यैयिलुम् इवै तुल्य-न्यायतैयाले अङ्गङ्गळ् आय् वरप् पुग, 
+</details>
+
+<details><summary>English</summary>
+
+In the vidyās or forms of meditation (upāsanas) **enjoined** in Vedānta,  
+some of the accessories which **appear** as aṅgas in certain vidyās,  
+such as the rites, duties and observances of the varṇas and the āśramas  
+
+and also such things as **meditation** on the route to mokṣa **are required** also in other vidyās or forms of meditation.  
+
+So also there **may**, at first, **be** a (wrong) **presumption** that in nyāsavidyā too,  
+these **might be required** as accessory. 
+</details>
+
+<details><summary>Español</summary>
+
+En los vidyās o formas de meditación (upāsanas) **impuestas** en el Vedānta,  
+algunos de los accesorios que **aparecen** como aṅgas en ciertos vidyās,  
+tales como los ritos, deberes y observancias de los varṇas y los āśramas  
+
+y también cosas como **meditación** en la ruta a mokṣa **son requeridas** también en otros vidyās o formas de meditación.
+
+Así también **puede**, al principio, **haber** una **presunción** (incorrecta) de que en nyāsavidyā también,  
+estos **podrían ser necesarios** como accesorios.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वेदान्तचोदितैगळाऩ विद्यैकळिल् ऒरु विद्यैकळिलेयोदि अङ्गङ्गळाय् तोऱ्ऱिऩ वर्णाश्रमधर्मङ्गळुम् गतिचिन्तनादिगळुम् विद्यान्तरत्तिलुम् वरुमाप् पोले न्यासविद्यैयिलुम् इवै तुल्यन्यायतैयाले अङ्गङ्गळाय् वरप्पुग, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडि अङ्गत्व-प्रसङ्गत्वम्-उडैय सर्व-धर्मङ्गळालुम्  
+इदुक्क् अपेक्षैय् इल्लैय् 
+
+ऎऩ्गैय् इव्विडत्तुक्क् उचितम्। 
+</details>
+
+<details><summary>English</summary>
+
+To **correct** this **presumption**, here (in parityajya),  
+these dharmas which **might be thought** of (wrongly) on the analogy of upāsanas as aṅgas (to prapatti)  
+**are not required** for it.  
+This **is** the right **interpretation** of the text here.
+</details>
+
+<details><summary>Español</summary>
+
+Para **corregir** esta **presunción**, aquí (en parityajya),  
+estos dharmas que **podrían pensarse** (erróneamente) en la analogía de upāsanas como aṅgas (a prapatti)  
+**no son obligatorios** para ello.  
+Esta **es** la **interpretación** correcta del texto aquí.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि अङ्गत्वप्रसङ्गत्वमुडैय सर्वधर्मङ्गळालुम् इदुक्कपेक्षैयिल्लै यॆऩ्गै यिव्विडत्तुक्कुचितम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत् धर्मङ्गळुक्कु 
+
+> ‘‘सह-कारित्वेन च’’  
+(ब्रह्मसूत्रम् ३-४-३३) 
+
+ऎऩ्ऱ सूत्रत्तिऱ् सॊऩ्ऩ विद्या-सह-कारित्व-वेषन् तविर्न्दालुम्, 
+</details>
+
+<details><summary>English</summary>
+
+Though these dharmas **cannot be considered** as accessory aids (to prapatti)  
+as they **are stated** to be for upāsana in Brahma Sūtras (3.4 -33),  
+</details>
+
+<details><summary>Español</summary>
+
+Aunque estos dharmas **no pueden considerarse** como ayudas accesorias (para prapatti)  
+como **se dice** que **son** para upāsana en Brahma Sūtras (3.4 -33),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत् धर्मङ्गळुक्कु ‘‘सहकारित्वेन च’’(ब्रह्मसूत्रम् ३-४-३३) ऎऩ्ऱ सूत्रत् तिऱ्सॊऩ्ऩ विद्यासहकारित्ववेषन् दविर्न्दालुम्। 
+</details>
+
+
+
+
+
+yet as **stated** in another sūtra (3 - 4 - 32),  
+the karmas **ordained** for the different āśramas **have to be performed**, as they are enjoined as ordinances or commands; there is nothing to prevent their perfornuance by the prapanna (since commandments have to be obeyed as such (and for no other reason).
 
 CONCLUSION: page543
 
